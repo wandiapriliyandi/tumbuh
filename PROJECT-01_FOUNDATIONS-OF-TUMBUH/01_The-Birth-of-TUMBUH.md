@@ -167,16 +167,16 @@ Pemahaman inilah yang menjadi dasar lahirnya Sepuluh Tahapan TUMBUH. Perjalanan 
 
 Sepuluh Tahapan TUMBUH terdiri atas:
 
-Tahu — mengenal nilai.
-Paham — memahami makna nilai.
-Sadar — menerima nilai sebagai kebutuhan diri.
-Terbiasa — menjadikan nilai sebagai kebiasaan.
-Tangguh — mampu mempertahankan nilai dalam berbagai situasi.
-Teladan — menjadi contoh nyata bagi orang lain.
-Penggerak — menginspirasi dan mengembangkan pertumbuhan orang lain.
-Pelaksana — mewujudkan nilai dalam tindakan, program, dan sistem.
-Pengarah — membimbing dan mengarahkan individu maupun kelompok menuju tujuan yang benar.
-Pemberdaya — membangun kapasitas, melahirkan kader, dan menciptakan ekosistem yang memungkinkan pertumbuhan terus berlanjut.
+1. Tahu — mengenal nilai.
+2. Paham — memahami makna nilai.
+3. Sadar — menerima nilai sebagai kebutuhan diri.
+4. Terbiasa — menjadikan nilai sebagai kebiasaan.
+5. Tangguh — mampu mempertahankan nilai dalam berbagai situasi.
+6. Teladan — menjadi contoh nyata bagi orang lain.
+7. Penggerak — menginspirasi dan mengembangkan pertumbuhan orang lain.
+8. Pelaksana — mewujudkan nilai dalam tindakan, program, dan sistem.
+9. Pengarah — membimbing dan mengarahkan individu maupun kelompok menuju tujuan yang benar.
+10. Pemberdaya — membangun kapasitas, melahirkan kader, dan menciptakan ekosistem yang memungkinkan pertumbuhan terus berlanjut.
 
 Kesepuluh tahapan tersebut bukanlah tingkatan yang berdiri sendiri, melainkan satu kesatuan perjalanan pertumbuhan yang saling berkesinambungan. Setiap tahap memperkuat tahap sebelumnya sekaligus menjadi fondasi bagi tahap berikutnya, sehingga membentuk proses perkembangan karakter yang utuh, sistematis, dan berkelanjutan.
 
