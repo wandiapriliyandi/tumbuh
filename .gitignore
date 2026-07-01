@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Generated archives
+*.zip
+*.tar
+*.gz
+
+# Local notes
+*.tmp
+*.bak
