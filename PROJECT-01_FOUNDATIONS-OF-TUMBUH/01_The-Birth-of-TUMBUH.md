@@ -163,7 +163,22 @@ TUMBUH bukanlah sebuah akronim. Tidak setiap huruf mewakili istilah tertentu. Se
 
 Kata *tumbuh* adalah kata yang bersifat universal. Setiap orang memahami bahwa pertumbuhan selalu membutuhkan waktu, proses, dan lingkungan yang mendukung. Sebuah benih tidak berubah menjadi pohon dalam satu hari. Seorang anak tidak menjadi dewasa dalam semalam. Demikian pula karakter tidak dibentuk oleh satu materi, satu pelatihan, atau satu pengalaman. Karakter bertumbuh melalui perjalanan yang panjang, sedikit demi sedikit, hingga akhirnya menjadi bagian dari diri seseorang.
 
-Pemahaman inilah yang menjadi dasar lahirnya Sepuluh Tahapan TUMBUH. Perjalanan karakter dimulai dari **Tahu**, berkembang menjadi **Paham**, melahirkan **Sadar**, kemudian menjadi **Terbiasa**, menguat menjadi **Tangguh**, tampak dalam **Teladan**, meluas melalui **Penggerak**, diwujudkan dalam **Pelaksana**, diarahkan oleh **Pengarah**, dan mencapai kematangan melalui **Pemberdaya**. Kesepuluh tahapan tersebut bukan kumpulan tingkatan yang berdiri sendiri, melainkan satu perjalanan pertumbuhan yang saling berkesinambungan.
+Pemahaman inilah yang menjadi dasar lahirnya Sepuluh Tahapan TUMBUH. Perjalanan karakter dipahami sebagai proses perkembangan yang berlangsung secara bertahap, mulai dari pengenalan terhadap sebuah nilai hingga kemampuan memberdayakan orang lain agar nilai tersebut terus berkembang. Setiap tahap memiliki tujuan perkembangan yang berbeda dan menjadi landasan bagi tahap berikutnya.
+
+Sepuluh Tahapan TUMBUH terdiri atas:
+
+Tahu — mengenal nilai.
+Paham — memahami makna nilai.
+Sadar — menerima nilai sebagai kebutuhan diri.
+Terbiasa — menjadikan nilai sebagai kebiasaan.
+Tangguh — mampu mempertahankan nilai dalam berbagai situasi.
+Teladan — menjadi contoh nyata bagi orang lain.
+Penggerak — menginspirasi dan mengembangkan pertumbuhan orang lain.
+Pelaksana — mewujudkan nilai dalam tindakan, program, dan sistem.
+Pengarah — membimbing dan mengarahkan individu maupun kelompok menuju tujuan yang benar.
+Pemberdaya — membangun kapasitas, melahirkan kader, dan menciptakan ekosistem yang memungkinkan pertumbuhan terus berlanjut.
+
+Kesepuluh tahapan tersebut bukanlah tingkatan yang berdiri sendiri, melainkan satu kesatuan perjalanan pertumbuhan yang saling berkesinambungan. Setiap tahap memperkuat tahap sebelumnya sekaligus menjadi fondasi bagi tahap berikutnya, sehingga membentuk proses perkembangan karakter yang utuh, sistematis, dan berkelanjutan.
 
 Nama TUMBUH juga menegaskan cara pandang terhadap manusia. Framework ini tidak memandang manusia sebagai objek yang harus dibentuk menurut kehendak pembina, tetapi sebagai pribadi yang memiliki potensi untuk berkembang. Peran pembina bukan menciptakan potensi tersebut, melainkan menyediakan arah, lingkungan, pengalaman, dan pendampingan agar potensi itu bertumbuh secara optimal.
 
