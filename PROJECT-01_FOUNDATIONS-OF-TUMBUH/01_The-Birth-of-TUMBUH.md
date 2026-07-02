@@ -1,4 +1,5 @@
-1.1 The Beginning of This Research
+# 1. INTRODUCTION 
+## 1.1 The Beginning of This Research
 
 Setiap penelitian lahir karena adanya pertanyaan yang belum terjawab. Demikian pula penelitian ini. Gagasan yang kemudian dikenal sebagai TUMBUH tidak muncul dari keinginan untuk menciptakan sebuah model baru, melainkan dari upaya memahami berbagai fenomena yang berulang dalam proses perkembangan manusia.
 
@@ -12,7 +13,7 @@ Oleh karena itu, penelitian ini tidak dimulai dengan penyusunan sebuah solusi, m
 
 Dokumen P1-01 — The Birth of TUMBUH disusun sebagai catatan akademik mengenai proses awal tersebut. Fokusnya bukan menjelaskan model TUMBUH, melainkan mendokumentasikan perjalanan intelektual yang mengantarkan pada lahirnya gagasan tersebut.
 
-1.2 Purpose of This Document
+## 1.2 Purpose of This Document
 
 Dokumen P1-01 — The Birth of TUMBUH merupakan dokumen pembuka dalam rangkaian penelitian Project 1. Tujuan utama dokumen ini adalah mendokumentasikan proses lahirnya penelitian TUMBUH melalui penyajian latar belakang, fenomena, hasil pengamatan awal, perumusan masalah, kesenjangan yang ditemukan, serta hipotesis awal yang melandasi penelitian.
 
@@ -22,7 +23,7 @@ Melalui penyusunan dokumen ini, penelitian diharapkan memiliki titik awal yang j
 
 Selain itu, dokumen ini berfungsi sebagai landasan konseptual bagi keseluruhan Project 1. Pembahasan yang disajikan menjadi dasar untuk penyusunan problem statement, pengembangan kerangka konseptual, hingga perumusan model yang akan dijelaskan pada dokumen-dokumen berikutnya. Oleh karena itu, P1-01 tidak berdiri sebagai dokumen yang terpisah, melainkan sebagai fondasi yang menghubungkan seluruh rangkaian penelitian dalam Project 1.
 
-1.3 Scope of the Study
+## 1.3 Scope of the Study
 
 Penelitian TUMBUH dirancang sebagai sebuah rangkaian penelitian yang disusun secara bertahap. Setiap dokumen dalam rangkaian tersebut memiliki fokus, tujuan, dan ruang lingkup yang berbeda. Oleh karena itu, P1-01 hanya membahas aspek-aspek yang berkaitan dengan proses lahirnya penelitian, tanpa memasuki pembahasan mengenai model yang dihasilkan.
 
@@ -34,7 +35,7 @@ Pembatasan ruang lingkup ini dilakukan untuk menjaga fokus penelitian pada tujua
 
 Melalui batasan tersebut, P1-01 diharapkan menjadi fondasi konseptual yang kuat bagi keseluruhan rangkaian penelitian. Dokumen ini menyediakan konteks dan dasar berpikir yang diperlukan sebelum pembaca memasuki pembahasan mengenai problem statement, kerangka konseptual, hingga pengembangan model TUMBUH pada dokumen-dokumen selanjutnya.
 
-1.4 Position Within Project 1
+## 1.4 Position Within Project 1
 
 Project 1 merupakan tahap awal dalam keseluruhan penelitian TUMBUH. Fokus utamanya adalah membangun fondasi ilmiah yang menjelaskan mengapa penelitian ini diperlukan, bagaimana arah penelitian dikembangkan, serta bagaimana kerangka konseptualnya disusun sebelum memasuki tahap pengembangan model.
 
@@ -45,4 +46,19 @@ Sebagai dokumen pertama, P1-01 tidak bertujuan memberikan penjelasan mengenai mo
 Hasil pembahasan dalam P1-01 menjadi dasar bagi penyusunan dokumen selanjutnya dalam Project 1. Pertanyaan-pertanyaan yang muncul dari dokumen ini akan dirumuskan secara lebih sistematis dalam P1-02 — Problem Statement, yang selanjutnya menjadi pijakan bagi pengembangan kerangka konseptual dan penelitian lanjutan. Dengan demikian, setiap dokumen dalam Project 1 memiliki hubungan yang saling berkesinambungan, di mana keluaran dari satu dokumen menjadi masukan bagi dokumen berikutnya.
 
 Melalui struktur yang bertahap tersebut, Project 1 diharapkan mampu membangun dasar konseptual yang kokoh sebelum penelitian berlanjut pada pengembangan model, penyusunan metodologi, proses validasi, hingga implementasi. Oleh karena itu, P1-01 tidak hanya menjadi pengantar, tetapi juga menjadi fondasi yang memastikan bahwa seluruh penelitian TUMBUH dibangun di atas alur berpikir yang sistematis, logis, dan dapat ditelusuri.
+
+
+# 2. Background
+
+##2.1 Human Development as a Lifelong Process
+
+Perkembangan manusia merupakan suatu proses yang berlangsung secara berkelanjutan sejak seseorang dilahirkan hingga akhir kehidupannya. Selama proses tersebut, individu mengalami berbagai perubahan yang mencakup aspek pengetahuan, sikap, perilaku, keterampilan, cara berpikir, hingga kemampuan beradaptasi terhadap lingkungan. Perubahan-perubahan tersebut tidak selalu berlangsung dengan kecepatan yang sama, tidak selalu mengikuti pola yang linier, serta dipengaruhi oleh interaksi berbagai faktor internal maupun eksternal.
+
+Dalam berbagai disiplin ilmu, perkembangan manusia dipahami sebagai proses yang jauh melampaui pertumbuhan biologis. Perkembangan juga mencakup pembentukan cara individu memahami dirinya, mengambil keputusan, membangun hubungan dengan orang lain, serta merespons tantangan yang dihadapi sepanjang kehidupannya. Oleh karena itu, perkembangan manusia tidak dapat dipandang sebagai peristiwa yang terjadi pada satu fase tertentu, melainkan sebagai proses dinamis yang terus berlangsung.
+
+Setiap individu menjalani perjalanan perkembangan yang unik. Meskipun dua orang dapat memperoleh pengalaman belajar, lingkungan, atau pembinaan yang serupa, hasil perkembangan yang dicapai belum tentu sama. Sebagian individu mampu mengalami perubahan yang berkelanjutan, sementara sebagian lainnya menunjukkan perkembangan yang lebih lambat atau bahkan mengalami stagnasi. Variasi tersebut menunjukkan bahwa perkembangan manusia dipengaruhi oleh mekanisme yang kompleks dan belum sepenuhnya dapat dijelaskan melalui satu sudut pandang saja.
+
+Berbagai institusi, seperti keluarga, sekolah, organisasi, dan masyarakat, memiliki peran penting dalam mendukung proses perkembangan tersebut. Masing-masing menyediakan lingkungan belajar, pengalaman, serta bentuk pembinaan yang diharapkan dapat membantu individu berkembang menuju kondisi yang lebih baik. Namun demikian, keberhasilan proses tersebut tidak hanya bergantung pada keberadaan program pembinaan, tetapi juga pada bagaimana individu menjalani proses perkembangan itu sendiri.
+
+Pemahaman mengenai perkembangan manusia sebagai proses yang berkelanjutan menjadi landasan penting bagi penelitian ini. Sebelum mengembangkan suatu kerangka konseptual mengenai perkembangan kapasitas manusia, terlebih dahulu diperlukan pemahaman yang memadai mengenai sifat dasar proses perkembangan itu sendiri. Atas dasar inilah penelitian TUMBUH dimulai, yaitu dengan menempatkan perkembangan manusia sebagai objek kajian utama sebelum merumuskan pendekatan atau model yang lebih komprehensif.
 
