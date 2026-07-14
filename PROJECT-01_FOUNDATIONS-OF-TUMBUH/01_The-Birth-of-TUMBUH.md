@@ -521,7 +521,7 @@ Dalam proses tersebut, penelitian tidak memulai pencarian dari suatu model yang 
 
 Tahap pencarian ini menjadi salah satu fase yang paling penting dalam perjalanan penelitian. Pada titik inilah penelitian mulai bergerak dari proses memahami persoalan menuju proses membangun kemungkinan penjelasan. Dari proses pencarian tersebut, perlahan mulai muncul sebuah gagasan yang kemudian berkembang menjadi dasar bagi penelitian yang selanjutnya dikenal sebagai TUMBUH. Namun, pada tahap ini gagasan tersebut masih berada dalam bentuk konseptual awal dan belum dirumuskan sebagai sebuah model yang utuh.
 
-## 9.2 The Search for a Conceptual Framework
+## 9.2 The Search for a Conceptual Sistem
 
 Proses eksplorasi yang dilakukan dalam penelitian ini menunjukkan bahwa fenomena, hasil observasi, rumusan masalah, pertanyaan penelitian, serta hipotesis awal memiliki keterkaitan yang kuat. Namun demikian, keterkaitan tersebut masih berada dalam bentuk temuan-temuan yang belum terorganisasi ke dalam suatu struktur konseptual yang utuh. Kondisi tersebut menunjukkan perlunya suatu kerangka yang mampu menghubungkan seluruh temuan penelitian secara sistematis.
 
