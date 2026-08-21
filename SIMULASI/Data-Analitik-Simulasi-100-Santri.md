@@ -1,5 +1,5 @@
 # DATA ANALITIK SIMULASI: PEMODELAN KUANTITATIF & KUALITATIF COHORT 100 SANTRI
-## Matriks Data Longitudinal 7-Tahun, Pemodelan Dual-Skenario (Ideal vs Realistis Lapangan), & Sebaran Kurva Normal
+## Matriks Data Longitudinal 7-Tahun, Pemodelan Dual-Skenario, Sebaran Kurva Normal, dan Kodifikasi Variabel Matematis Simulasi
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dikembangkan oleh Agen Spesialis: Pakar Simulasi Sistem TUMBUH*  
@@ -39,7 +39,34 @@
 
 ---
 
-## 3. PERBANDINGAN DUAL-SKENARIO PEMODELAN SIMULASI (IDEAL VS REALISTIS LAPANGAN)
+## 3. KODIFIKASI VARIABEL & FORMULA MATEMATIS SIMULASI SISTEM
+
+Untuk memungkinkan simulasi disesuaikan (*customizable parameters*) oleh pengelola pesantren, ditetapkan **Kamus Variabel & Persamaan Matematis Simulation Engine**:
+
+```mermaid
+graph TD
+    VarsTree["Kerangka Variabel Simulasi Sistem TUMBUH"]
+    VarsTree --> InputVars["1. VARIABEL INPUT BASELINE (X)<br/>• X1: Initial Adab & Spiritual Score (A0)<br/>• X2: Homesickness Sensitivity Index (H0)<br/>• X3: Al-Qur'an & Literacy Baseline (L0)<br/>• X4: Emotional Dysregulation Risk (E0)"]
+    VarsTree --> SystemParams["2. PARAMETER SYSTEM PENGASUHAN (P)<br/>• P1: Magic Reinforcement Ratio (alpha = 4.0)<br/>• P2: Musyrif-to-Santri Ratio (mu = 1:25)<br/>• P3: Restorative Intervention Rate (beta = 0.95)<br/>• P4: Tier Transition Rate (lambda)"]
+    VarsTree --> RealismVars["3. VARIABEL RISIKO LAPANGAN (R)<br/>• R1: External Attrition Rate (delta = 0.04)<br/>• R2: Peer Group Multiplier (gamma)<br/>• R3: Standard Deviation Bell-Curve (sigma = 5.2)"]
+    VarsTree --> OutputVars["4. VARIABEL OUTPUT PERTUMBUHAN (Y)<br/>• Y1: Ipsatif Muwashafat Score (Mt)<br/>• Y2: PBIS Tier Placement (Tier 1/2/3)<br/>• Y3: Ladder Growth Trajectory (T1->T4->Tahap 7)"]
+```
+
+### 3.1. Formula Pertumbuhan Ipsatif Karakter ($M_t$):
+\[
+M_t = M_{t-1} + \left( \alpha \cdot P_1 + \beta \cdot P_3 - \gamma \cdot E_0 \right) \cdot \lambda_{tier} + \epsilon(\sigma)
+\]
+*di mana:*
+* $M_t$: Skor Muwashafat pada periode $t$.
+* $\alpha$: Koefisien penguatan positif Magic Ratio 4:1 ($\alpha = 4.0$).
+* $\beta$: Efektivitas intervensi Restoratif ($\beta = 0.95$).
+* $\gamma$: Koefisien disrupsi emosional ($E_0$).
+* $\lambda_{tier}$: Laju transisi Tangga ($T1 \to T2 \to T3 \to T4$).
+* $\epsilon(\sigma)$: Variabel stokastik kurva distribusi normal ($\sigma = 5.2$).
+
+---
+
+## 4. PERBANDINGAN DUAL-SKENARIO PEMODELAN SIMULASI (IDEAL VS REALISTIS LAPANGAN)
 
 ```mermaid
 graph TD
@@ -50,6 +77,6 @@ graph TD
 
 ---
 
-## 4. DAFTAR PUSTAKA
+## 5. DAFTAR PUSTAKA
 * CASEL. (2020). *CASEL's SEL Framework*. CASEL.
 * Horner, R. H., & Sugai, G. (2015). School-wide PBIS. *Behavior Analysis in Practice*, 8(1), 80–85.
