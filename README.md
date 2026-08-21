@@ -33,7 +33,7 @@ graph TD
 | **06 Intervention Framework**| Sistem intervensi PBIS Multi-Tier (Tier 1-3), de-eskalasi ghadhab, & restoratif. | 📄 [06 Intervention Framework/README.md](./06%20Intervention%20Framework/README.md) |
 | **07 Implementation Framework**| Struktur organisasi terpadu 24-jam (Tanpa Dikotomi Madrasah-Asrama) & SOP Kerja. | 📄 [07 Implementation Framework/README.md](./07%20Implementation%20Framework/README.md) |
 | **08 Integrated Approaches**| Integrasi pendekatan PBIS, CASEL SEL, Mentoring, Coaching, & Restorative Circle. | 📄 [08 Integrated Approaches/README.md](./08%20Integrated%20Approaches/README.md) |
-| **09 Programs** | Program 24-jam (Core, Character, Leadership Qudwah T4, Institutional, & Special). | 📄 [09 Programs/README.md](./09%20Programs/README.md) |
+| **09 Programs** | Program 24-jam (Core, Character, Leadership Qudwah T4, Institutional, Special). | 📄 [09 Programs/README.md](./09%20Programs/README.md) |
 | **10 Methods** | Metodologi pedagogi (Sorogan, Bandongan, Suhbah 1-on-1, GROW, Habit Loop 66-Hari). | 📄 [10 Methods/README.md](./10%20Methods/README.md) |
 | **11 Tools** | Rubrik 10 Muwashafat, Logbook Musyrif App, CICO Card, & Arsitektur Database Digital. | 📄 [11 Tools/README.md](./11%20Tools/README.md) |
 
@@ -57,6 +57,7 @@ Repositori ini dikembangkan dan diaudit oleh **21 Custom Skills Dewan Keilmuan**
 
 ## 📖 Rujukan & Dokumentasi Pendukung
 
+- 🛡️ **[REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md](./REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md)**: Laporan Audit Kualitas Akademis & Kepatuhan Resmi (Predikat A+ Paripurna).
 - 📘 **[AGENTS.md](./AGENTS.md)**: Pedoman & Aturan Baku Agen Ekosistem TUMBUH Pesantren.
 - 📖 **[GLOSSARY.md](./GLOSSARY.md)** & **[REFERENCES/Kamus-Istilah-TUMBUH.md](./REFERENCES/Kamus-Istilah-TUMBUH.md)**: Kamus Resmi 5 Kategori Istilah Syar'i, Neurosains, PBIS, & Digital.
 - 🔬 **[METHODOLOGY/README.md](./METHODOLOGY/README.md)**: Protokol Riset Integratif & Penelusuran Keputusan Repositori.
