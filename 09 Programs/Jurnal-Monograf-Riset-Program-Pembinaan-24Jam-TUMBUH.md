@@ -1,5 +1,5 @@
 # MONOGRAF RISET AKADEMIK: KERANGKA KERJA PROGRAM PEMBINAAN 24-JAM PESANTREN
-## Evaluasi Operasional: Core Programs, Character Programs, Leadership Qudwah T4, Institutional Programs, dan Special Interventions
+## Evaluasi Operasional: Core Programs, Character Programs, Leadership Qudwah T4, Matriks Schedule Streamlining (Jam Istirahat Mutlak), dan Sekolah Orang Tua Hybrid
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dipublikasikan sebagai Naskah Monograf Riset Ilmiah (Jurnal Kebijakan Program Pendidikan Pesantren)*  
@@ -9,13 +9,13 @@
 
 ## ABSTRAK
 
-> **Latar Belakang**: Program kegiatan santri di pesantren sering kali mengalami tumpang tindih (*programmatic clutter*), ketidakjelasan penanggung jawab operasional, atau tiadanya diferensiasi antara program pencegahan universal dan intervensi krisis khusus.
+> **Latar Belakang**: Kepadatan jadwal kegiatan santri di pesantren sering memicu kelelahan fisik dan emosional (*programmatic fatigue*), sementara partisipasi orang tua dalam program pendukung cenderung menurun jika hanya diselenggarakan secara tatap muka fisik.
 >
-> **Tujuan Penelitian**: Merumuskan dan merancang taksonomi program pembinaan terpadu 24-jam yang terbagi dalam **5 Sub-Domain Program Utama** beserta SOP pelaksanaan terukurnya.
+> **Tujuan Penelitian**: Merumuskan taksonomi program pembinaan 24-jam, menetapkan Matriks *Schedule Streamlining* (Jam Istirahat Mutlak Santri), dan merancang Format Hybrid Sekolah Orang Tua (*Parent Engagement*).
 >
-> **Hasil Riset**: Terstruktur 5 Sub-Domain Program Pembinaan 24-Jam: (1) **Core Programs** (Tahfizh Mutqin, Dirasah Diniyyah, & Adab Sholat); (2) **Character Programs** (CASEL SEL Kelompok Kecil, Mujahadah Regulasi Emosi, & Pekan Apresiasi PBIS); (3) **Leadership Programs** (Kaderisasi Servant Leadership T4, Peer Buddy, & Musyawarah Restoratif OSIS); (4) **Institutional Programs** (Sekolah Orang Tua, Akademi Musyrif, & Audit Zero Violence); dan (5) **Special Programs** (Matrikulasi Homesickness Care, CICO Tier 2, BIP Tier 3, & Reintegration Circle).
+> **Hasil Riset**: Terstruktur 5 Sub-Domain Program Pembinaan 24-Jam: (1) **Core Programs**; (2) **Character Programs**; (3) **Leadership Programs**; (4) **Institutional Programs**; dan (5) **Special Programs**. Dilengkapi perlindungan *Uninterrupted Rest Hours* (22.00-04.00) dan platform *Hybrid Parent School* via Parent Portal App.
 >
-> **Kata Kunci**: *Programs Framework, Core Programs, Character Programs, Servant Leadership T4, CICO Tier 2, Reintegration Circle.*
+> **Kata Kunci**: *Programs Framework, Core Programs, Character Programs, Servant Leadership T4, Schedule Streamlining, Hybrid Parent School.*
 
 ---
 
@@ -35,15 +35,30 @@ graph TD
 
 ---
 
-## 2. METODOLOGI OPERASIONALISASI PROGRAM KUNCI
+## 2. MATRIKS SCHEDULE STREAMLINING (JAM ISTIRAHAT MUTLAK SANTRI)
 
-1. **Program Tahfizh Mutqin (Sabaq, Sabqi, Manzil)**: Mengutamakan kualitas kekokohan hafalan (*Mutqin*) dan tajwid dibanding ketergesa-gesaan kuantitas.
-2. **Program Peer Buddy System T4**: Penugasan 1 santri senior T4 untuk mengayomi 2 santri junior T1/T2 tanpa feodalisme.
-3. **Program Sekolah Orang Tua (Parent Engagement)**: Workshop bulanan penyelarasan pola pengasuhan positif di rumah saat liburan.
-4. **Program Reintegration Circle**: Pemulihan kehangatan persaudaraan pasca insiden tanpa pelabelan buruk.
+To prevent *programmatic fatigue* and protect adolescent brain development:
+
+| Blok Waktu | Jenis Aktivitas Pembinaan | Perlindungan Hak Santri |
+| :--- | :--- | :--- |
+| **04.00 - 06.00** | Qiyamul Lail, Sholat Subuh Berjamaah, & Halaqah Al-Qur'an | Bebas dari bentakan alarm kasar. |
+| **06.00 - 07.00** | Mandi, Sarapan Pagi, & Persiapan Kelas | Bebas tergesa-gesa (Rasio kamar-kamar mandi adekuat). |
+| **07.00 - 15.00** | KBM Formal MA/MTs & Sholat Dzuhur/Ashar Berjamaah | Pembelajaran aktif-didaktik tanpa beban tugas rumah berlebih. |
+| **15.00 - 17.00** | Olahraga Sunnah, Ekstrakurikuler, & Rihlah Santai | Bebas dari kegiatan hafalan paksaan (*Unstructured Play*). |
+| **17.00 - 20.30** | Sholat Maghrib/Isya Berjamaah, Makan Nampan, & Diniyyah | Terjalin kehangatan ukhuwah & ritus makan mayoran. |
+| **20.30 - 22.00** | Muzakarah Belajar Mandiri & Jurnal Refleksi Malam 3-Q | Persiapan istirahat & muhasabah batin. |
+| **22.00 - 04.00** | **JAM ISTIRAHAT MUTLAK (UNINTERRUPTED SLEEP)** | **DILARANG KERAAS penugasan/piket malam/intimidasi senior.** |
 
 ---
 
-## 3. DAFTAR PUSTAKA
+## 3. FORMAT HYBRID SEKOLAH ORANG TUA (PARENT ENGAGEMENT)
+
+To maintain high parent participation in character development:
+* **Sesi Live Streaming Interactive**: Workshop bulanan disiarkan via *Parent Portal App* bagi orang tua di luar kota.
+* **Modul Micro-Learning Parent**: Video ringkas 3-menit mengenai tips mendampingi anak saat liburan semester.
+
+---
+
+## 4. DAFTAR PUSTAKA
 * Kouzes, J. M., & Posner, B. Z. (2017). *The Leadership Challenge*. Wiley.
 * Sugai, G., & Horner, R. H. (2002). School-wide positive behavior supports. *Child & Family Behavior Therapy*, 24(1-2), 23–50.

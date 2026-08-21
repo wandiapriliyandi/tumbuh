@@ -1,5 +1,5 @@
 # MONOGRAF RISET AKADEMIK: METODOLOGI PEDAGOGI, HABITUASI ADAB, DAN INTERAKSI EDUKATIF PESANTREN
-## Evaluasi Didaktik: Sorogan-Bandongan Turats, Suhbah 1-on-1, GROW Model Islami, Habit Loop 66-Hari, dan Restorative Circles
+## Evaluasi Didaktik: Sorogan-Bandongan Turats, Suhbah 1-on-1, GROW Model Islami, Habit Loop 66-Hari, dan Paspor Adab Rumah (Cegah Vacation Relapse)
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dipublikasikan sebagai Naskah Monograf Riset Ilmiah (Jurnal Metodologi Didaktik & Pembiasaan Adab)*  
@@ -9,13 +9,13 @@
 
 ## ABSTRAK
 
-> **Latar Belakang**: Metode pengajaran di pesantren sering kali dipersempit sekadar ceramah searah (*pasif didactic*), sementara metode habituasi adab kurang memanfaatkan prinsip neuroplastisitas pembentukan kebiasaan otomatis.
+> **Latar Belakang**: Kebiasaan adab yang telah dibangun secara konsisten di asrama rentan runtuh kembali saat santri pulang liburan semester ke rumah (*Vacation Relapse*). Di samping itu, transisi metode pembelajaran dari pasif ke aktif membutuhkan pendampingan terstruktur.
 >
-> **Tujuan Penelitian**: Merumuskan dan memvalidasi taksonomi metodologi pengajaran, mentoring, coaching, refleksi, habituasi, dan kolaborasi dalam ekosistem **TUMBUH**.
+> **Tujuan Penelitian**: Merumuskan taksonomi metodologi pembinaan dan menetapkan **Home Habit Passport (Paspor Adab Rumah)** untuk mengunci kontinuitas habituasi adab 66-hari selama santri berada di lingkungan keluarga.
 >
-> **Hasil Riset**: Terstruktur 7 Sub-Domain Metodologi Pembinaan: (1) **Learning Methods** (Sorogan, Bandongan, Qira'ah-Syarah, & Didaktik Interaktif); (2) **Mentoring Methods** (Suhbah 1-on-1, Peer Buddy T4, & Homesickness Care); (3) **Coaching Methods** (Powerful Questioning GROW Model, Replacement Behavior, & Self-Regulation); (4) **Reflection Methods** (Jurnal Refleksi Malam 3-Q, Circle of Gratitude, & Tazkiyah); (5) **Habit Formation** (Habit Loop Syar'i Cue-Routine-Reward, Visual Nudges, & Otomatisasi 66-Hari); (6) **Experiential Learning** (Khidmah Sosial Keumatan, Rihlah Tadabbur Alam, & Role-Play); dan (7) **Collaborative Learning** (Muzakarah, Mayoran Nampan, & Restorative Circles).
+> **Hasil Riset**: Terstruktur 7 Sub-Domain Metodologi Pembinaan: (1) **Learning Methods**; (2) **Mentoring Methods**; (3) **Coaching Methods**; (4) **Reflection Methods**; (5) **Habit Formation**; (6) **Experiential Learning**; dan (7) **Collaborative Learning**. Dilengkapi instrumen Paspor Adab Rumah yang diintegrasikan dengan *Parent Portal Mobile App*.
 >
-> **Kata Kunci**: *Methods Framework, Sorogan, Suhbah 1-on-1, GROW Model, Habit Loop 66-Hari, Restorative Circles.*
+> **Kata Kunci**: *Methods Framework, Sorogan, Suhbah 1-on-1, GROW Model, Habit Loop 66-Hari, Home Habit Passport, Vacation Relapse Prevention.*
 
 ---
 
@@ -37,16 +37,16 @@ graph TD
 
 ---
 
-## 2. KAJIAN KUNCI METODOLOGI HABITUASI ADAB 66-HARI
+## 2. PENCEGAHAN "VACATION RELAPSE" DENGAN PASPOR ADAB RUMAH (HOME HABIT PASSPORT)
 
-Sesuai riset neuroplastisitas habituasi (Lally et al.), pembentukan kebiasaan adab baru memerlukan pengulangan konsisten selama **66 Hari**:
+To prevent habit decay during semester holidays (Wood & Neal, 2009):
 
 ```mermaid
 graph TD
-    AutomationPhases["3 Fase Otomatisasi Adab 66-Hari"]
-    AutomationPhases --> Phase1["Fase 1: Inisiasi Kognitif (Hari 1-22) - Bimbingan & Prompt Musyrif"]
-    AutomationPhases --> Phase2["Fase 2: Konsolidasi Sinaptik (Hari 23-44) - Penurunan Respon Resistensi"]
-    AutomationPhases --> Phase3["Fase 3: Otomatisasi Karakter (Hari 45-66) - Perilaku Adab Reflex Alami"]
+    HomeHabitFlow["Siklus Paspor Adab Rumah (Home Habit Passport)"]
+    HomeHabitFlow --> Step1["1. Penetapan 3 Target Adab Kunci Sebelum Liburan (Sholat Tepat Waktu, Kebersihan Kamar, & Tilawah)"]
+    HomeHabitFlow --> Step2["2. Checklist Harian Orang Tua via Parent Portal App / Lembar Paspor Fisik"]
+    HomeHabitFlow --> Step3["3. Apresiasi Poin PBIS Pasca Liburan saat Santri Kembali ke Pesantren"]
 ```
 
 ---
