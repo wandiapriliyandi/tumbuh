@@ -1,5 +1,5 @@
 # MONOGRAF RISET AKADEMIK: METODOLOGI ASESMEN IPSATIF DAN PSIKOMETRI PEMBINAAN KARAKTER PESANTREN
-## Evaluasi Integratif: Asesmen Tazkiyah Mandiri, Observasi PBIS 360-Derajat, dan Eliminasi Bias Ranking Publisitas
+## Evaluasi Integratif: Asesmen Tazkiyah Mandiri, Observasi PBIS 360-Derajat, Sosialisasi Raport Orang Tua, dan Kalibrasi Pengamatan (Rater Calibration)
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dipublikasikan sebagai Naskah Monograf Riset Ilmiah (Jurnal Kebijakan & Asesmen Psikometri Pendidikan)*  
@@ -9,13 +9,13 @@
 
 ## ABSTRAK
 
-> **Latar Belakang**: Praktik asesmen tradisional yang berfokus pada ranking publisitas (*norm-referenced ranking*) terbukti memicu kecemasan kognitif, mengikis motivasi intrinsik santri yang lambat bertumbuh, dan mendorong kepatuhan pencitraan (*superficial compliance*).
+> **Latar Belakang**: Praktik asesmen tradisional yang berfokus pada ranking publisitas (*norm-referenced ranking*) terbukti memicu kecemasan kognitif, mengikis motivasi intrinsik santri yang lambat bertumbuh, dan mendorong kepatuhan pencitraan (*superficial compliance*). Di sisi lain, orang tua santri membutuhkan kejelasan informasi cara membaca Raport Ipsatif, dan penilaian Musyrif membutuhkan kalibrasi agar bebas dari bias subjektif (*Rater Bias*).
 >
-> **Tujuan Penelitian**: Merumuskan dan memvalidasi metodologi **Asesmen Ipsatif (*Ipsative Growth Assessment*)** di pesantren yang mengukur kemajuan perkembangan karakter santri dibandingkan dengan kondisi awal dirinya sendiri, serta memadukan muhasabah batin dengan observasi perilaku terukur (*PBIS 360-degree observation*).
+> **Tujuan Penelitian**: Merumuskan dan memvalidasi metodologi **Asesmen Ipsatif (*Ipsative Growth Assessment*)** di pesantren, menyusun panduan edukasi sosialisasi raport untuk orang tua, serta menetapkan *Rater Calibration Protocol* bagi seluruh Musyrif.
 >
-> **Hasil Riset**: Terformulasikan sistem asesmen terintegrasi: (1) *Self-Assessment Fitrah & Tazkiyah* untuk melatih metakognisi batin; (2) *Master Rubrik Perilaku 4-Level PBIS* (Emerging, Developing, Proficient, Exemplary) untuk observasi objektif Musyrif; (3) *Asesmen Formatif Real-Time* (Exit Ticket & Quick Checks); dan (4) *Raport Karakter Periodik PBIS* dengan grafik radar 10 Muwashafat dan narasi pengasuhan hangat.
+> **Hasil Riset**: Terformulasikan sistem asesmen terintegrasi: (1) *Self-Assessment Fitrah & Tazkiyah* untuk metakognisi batin; (2) *Master Rubrik Perilaku 4-Level PBIS* (Emerging, Developing, Proficient, Exemplary) untuk observasi Musyrif; (3) *Rater Calibration Protocol* untuk menyamakan persepsi antar-musyrif; dan (4) *Parent Engagement & Raport Guide* untuk memandu orang tua membaca Grafik Radar 10 Muwashafat.
 >
-> **Kata Kunci**: *Assessment Framework, Asesmen Ipsatif, Rubrik PBIS, Tazkiyatun Nafs, Raport Karakter.*
+> **Kata Kunci**: *Assessment Framework, Asesmen Ipsatif, Rubrik PBIS, Tazkiyatun Nafs, Raport Karakter, Rater Calibration, Parent Engagement.*
 
 ---
 
@@ -43,12 +43,37 @@ graph TD
 
 ---
 
-## 3. IMPLIKASI KEBIJAKAN PENILAIAN PERIODE LULUS
+## 3. PROTOKOL KALIBRASI PENGAMATAN MUSYRIF (RATER CALIBRATION PROTOCOL)
+
+Untuk mengatasi bias observasi subjektif antar-musyrif (*Low Inter-Rater Reliability*), ditetapkan protokol kalibrasi pengamatan sebelum awal semester:
+
+```mermaid
+graph TD
+    CalibrationFlow["Protokol Kalibrasi Pengamatan Musyrif (Rater Calibration)"]
+    CalibrationFlow --> Step1["1. Penelaahan Video Simulasi Perilaku Santri (Kamera Terbuka)"]
+    CalibrationFlow --> Step2["2. Penilaian Mandiri Musyrif Menggunakan Master Rubrik PBIS 4-Level"]
+    CalibrationFlow --> Step3["3. Diskusi Rekonsiliasi & Penyamaan Ambang Toleransi Skor Perilaku"]
+    CalibrationFlow --> Step4["4. Pengujian Keandalan Inter-Rater Reliability (Minimal ICC > 0.85)"]
+```
+
+---
+
+## 4. PANDUAN SOSIALISASI RAPORT IPSATIF KEPADA ORANG TUA
+
+1. **Prinsip Edukasi**: Mengarahkan fokus orang tua dari *pencarian angka ranking* menuju *apresiasi grafik radar pertumbuhan mandiri anak*.
+2. **Komponen Laporan Raport**:
+   - **Grafik Radar 10 Muwashafat**: Visualisasi 10 Dimensi Karakter.
+   - **Skor Pertumbuhan Ipsatif**: Persentase kemajuan anak dibanding semester sebelumnya.
+   - **Narasi Pengasuhan Musyrif**: Catatan kualitatif apresiatif yang menyoroti kekuatan unik & rekomendasi bimbingan di rumah.
+
+---
+
+## 5. IMPLIKASI KEBIJAKAN PENILAIAN PERIODE LULUS
 - **Transkrip Karakter PBIS**: Lulusan pesantren menerima Ijazah Formal dan Transkrip Karakter PBIS yang merekam rekam jejak pertumbuhan adab dari Tangga T1 hingga T4.
 
 ---
 
-## 4. DAFTAR PUSTAKA
+## 6. DAFTAR PUSTAKA
 * Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.
 * Hattie, J. (2009). *Visible Learning*. Routledge.
 * Horner, R. H., & Sugai, G. (2015). School-wide PBIS. *Behavior Analysis in Practice*, 8(1), 80–85.
