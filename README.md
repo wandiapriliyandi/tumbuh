@@ -11,9 +11,9 @@ Ekosistem TUMBUH berdiri di atas prinsip mutlak bahwa proses pendidikan pesantre
 
 ```mermaid
 graph TD
-    TriadRoot["Triad Pertumbuhan Simbiotik & Kontinuum 10-Tahap TUMBUH"]
+    TriadRoot["Triad Pertumbuhan Simbiotik & Dual-Pillar Pengasuhan TUMBUH"]
     TriadRoot --> SantriGrowth["1. SANTRI BERTUMBUH (Tangga T1-T4)<br/>T1 Adaptasi -> T2 Habituasi -> T3 Internalisasi -> T4 / Tahap 7 PENGGERAK."]
-    TriadRoot --> EducatorGrowth["2. GURU, MUSYRIF, & ALUMNI BERTUMBUH<br/>Tahap 8 PELAKSANA (Praktisi Vokasional) -> Tahap 9 PEMBINA (Musyrif, Ustadz, BK, & Qudwah)."]
+    TriadRoot --> EducatorGrowth["2. GURU, MUSYRIF, & WALAS BERTUMBUH (Dual-Pillar Caretaking)<br/>Pilar 1 Musyrif Asrama + Pilar 2 Wali Kelas (Walas) -> Tahap 8 PELAKSANA -> Tahap 9 PEMBINA."]
     TriadRoot --> SystemGrowth["3. SISTEM LEMBAGA BERTUMBUH<br/>Tahap 10 PEMBERDAYA (Pemimpin Lembaga & Enabler Ekosistem Kebajikan Ummat)."]
 ```
 
@@ -25,13 +25,13 @@ Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama*
 
 | Domain | Deskripsi Naskah Kajian Penelitian Akademis | Naskah Monograf Riset Utama |
 | :--- | :--- | :--- |
-| **01 Philosophy** | Kajian Ontologi Fitrah, Epistemologi Turats, 10 Jawaban Filosofis, & Worldview Islam. | 📄 [Jurnal Monograf Riset Filosofi](./01%20Philosophy/Jurnal-Monograf-Riset-Filosofi-TUMBUH.md) |
+| **01 Philosophy** | Kajian Ontologi Fitrah, Epistemologi Turats, 10 Jawaban Filosofis, Dual-Pillar Pengasuhan, & Worldview Islam. | 📄 [Jurnal Monograf Riset Filosofi](./01%20Philosophy/Jurnal-Monograf-Riset-Filosofi-TUMBUH.md) |
 | **02 Principles** | Kajian Aksiomatika Prinsip Baku Pembinaan, *Firm & Kind*, & Zero Violence. | 📄 [Jurnal Monograf Riset Prinsip](./02%20Principles/Jurnal-Monograf-Riset-Prinsip-TUMBUH.md) |
 | **03 Capacity Framework** | Kajian Taksonomi Kapasitas Holistik & 10 Muwashafat Karakter Santri. | 📄 [Jurnal Monograf Riset 10 Muwashafat](./03%20Capacity%20Framework/Jurnal-Monograf-Riset-Kapasitas-10-Muwashafat-TUMBUH.md) |
 | **04 Progression Framework**| Kajian Trajektori Biososial-Spiritual, Tangga T1-T4, & Kontinuum Tahap 7-10. | 📄 [Jurnal Monograf Riset Progresi Tangga](./04%20Progression%20Framework/Jurnal-Monograf-Riset-Progresi-Tangga-TUMBUH.md) |
 | **05 Assessment Framework** | Kajian Asesmen Ipsatif, Validasi Psikometri, Rater Calibration, & Raport Orang Tua. | 📄 [Jurnal Monograf Riset Asesmen Ipsatif](./05%20Assessment%20Framework/Jurnal-Monograf-Riset-Asesmen-Ipsatif-TUMBUH.md) |
 | **06 Intervention Framework**| Kajian Arsitektur Intervensi PBIS Multi-Tier 1-3, Restorative Circle, & SOP BK. | 📄 [Jurnal Monograf Riset Intervensi PBIS](./06%20Intervention%20Framework/Jurnal-Monograf-Riset-Intervensi-PBIS-Restoratif-TUMBUH.md) |
-| **07 Implementation Framework**| Kajian Struktur Terpadu 24-Jam Non-Dikotomis, Batas Tugas Musyrif Asrama vs Walas Madrasah, RACI, & Shift Anti-Burnout. | 📄 [Jurnal Monograf Riset Struktur Pengasuhan](./07%20Implementation%20Framework/Jurnal-Monograf-Riset-Struktur-Terpadu-Pengasuhan.md) |
+| **07 Implementation Framework**| Kajian Dual-Pillar Pengasuhan Terpadu (Musyrif Asrama & Wali Kelas Walas), RACI, & Shift Anti-Burnout. | 📄 [Jurnal Monograf Riset Struktur Pengasuhan](./07%20Implementation%20Framework/Jurnal-Monograf-Riset-Struktur-Terpadu-Pengasuhan.md) |
 | **08 Integrated Approaches**| Kajian Sintesis Pendekatan Terintegrasi (PBIS, SEL, Mentoring, Coaching, Positive Discipline). | 📄 [Jurnal Monograf Riset Pendekatan Terintegrasi](./08%20Integrated%20Approaches/Jurnal-Monograf-Riset-Pendekatan-Terintegrasi-TUMBUH.md) |
 | **09 Programs** | Kajian Handover KBM Walas (07.00-15.00) vs Asrama Musyrif (15.00-07.00), Kurikulum Pondok (Dirasah, Qur'an, Bahasa Arab), 8 Sekbid OSIS, & Hybrid Parent School. | 📄 [Jurnal Monograf Riset Program 24Jam](./09%20Programs/Jurnal-Monograf-Riset-Program-Pembinaan-24Jam-TUMBUH.md) |
 | **10 Methods** | Kajian Metodologi Didaktik Turats (Sorogan/Bandongan), Habit Loop 66-Hari, & Paspor Adab Rumah. | 📄 [Jurnal Monograf Riset Metodologi Pedagogi](./10%20Methods/Jurnal-Monograf-Riset-Metodologi-Pedagogi-TUMBUH.md) |

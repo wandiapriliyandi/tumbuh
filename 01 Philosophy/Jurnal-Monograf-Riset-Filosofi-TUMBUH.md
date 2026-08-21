@@ -1,5 +1,5 @@
 # MONOGRAF RISET AKADEMIK: REKONSTRUKSI FILOSOFIS SISTEM PEMBINAAN SANTRI DI DUNIA PESANTREN
-## Pendekatan Integratif: Theocentric Worldview, Tradisi Turats, Konsensus Sains Perkembangan Global, dan Kontinuum 10 Tahap Pertumbuhan (Penggerak, Pelaksana, Pembina, Pemberdaya)
+## Pendekatan Integratif: Theocentric Worldview, Tradisi Turats, Konsensus Sains Perkembangan Global, Dual-Pillar Pengasuhan (Musyrif & Walas), dan Kontinuum 10 Tahap Pertumbuhan
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dipublikasikan sebagai Naskah Monograf Riset Ilmiah (Jurnal Kebijakan & Filosofi Pendidikan Islam)*  
@@ -11,13 +11,11 @@
 
 > **Latar Belakang**: Mayoritas krisis pembinaan di dunia pesantren modern berakar pada ketiadaan sistem penunjang terpadu (*lack of systemic support*), dominasi pendekatan reaktif-koersif (*punitive discipline*), dan fragmentasi peran antara pengajaran kelas (*ta'lim*), pengasuhan asrama (*tarbiyah*), serta penanaman adab (*ta'dib*). Akibatnya, santri sering mengalami kepatuhan semu (*compliance under duress*), guru/musyrif mengalami kelelahan mental (*burnout*), dan institusi terjebak dalam krisis tata kelola berulang.
 >
-> **Tujuan Penelitian**: Merumuskan dan memvalidasi fondasi filosofis, ontologis, epistemologis, dan metodologis dari **Ekosistem TUMBUH** (*Human Development System*) untuk dunia pesantren, yang secara eksplisit menjawab 10 pertanyaan fundamental filosofis dan menyinergikan secara simbiotik melintasi Kontinuum 10 Tahap Pertumbuhan: *Santri Bertumbuh (T1-T4 / Tahap 7 Penggerak), Alumni & Guru Bertumbuh (Tahap 8 Pelaksana & Tahap 9 Pembina), dan Sistem Lembaga Bertumbuh (Tahap 10 Pemberdaya)*.
+> **Tujuan Penelitian**: Merumuskan dan memvalidasi fondasi filosofis dari **Ekosistem TUMBUH** (*Human Development System*), yang secara eksplisit menjawab 10 pertanyaan fundamental filosofis, merumuskan **Dual-Pillar Pengasuhan (Musyrif Asrama & Wali Kelas Walas)**, dan menyinergikan secara simbiotik melintasi Kontinuum 10 Tahap Pertumbuhan.
 >
-> **Metode**: Penelitian ini menggunakan metode integratif-kritis (*integrative-critical synthesis*) yang memadukan triangulasi hermeneutika *Nash & Turats* Islam, *Critical Realism*, neurosains perkembangan kognitif remaja, psikologi motivasi (*Self-Determination Theory*), *Social-Emotional Learning (CASEL)*, *School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)*, dan etika hukum *Restorative Justice*.
+> **Hasil Riset**: Terbentuk arsitektur filosofis 6 pilar yang koheren yang menjawab 10 pertanyaan eksistensial dasar: (1) *Theocentric Worldview*; (2) Antropologi *Fitrah* dan 5 lapis jiwa (*Jasad, Ruh, Nafs, Qalb, 'Aql*); (3) Hukum perkembangan *Tazkiyatun Nafs* (*T1–T4 s/d Tahap 10*); (4) Pedagogi holistik Disiplin Restoratif (*Firm & Kind*) & Dual-Pillar Pengasuhan; (5) Falsafah kepemimpinan **Qudwah** (*Sayyidul Qaumi Khaadimuhum*); serta (6) Sunnatullah perubahan melalui *Tadarruj*, *Istiqamah*, dan *Bi'ah Shalihah*.
 >
-> **Hasil Riset**: Terbentuk arsitektur filosofis 6 pilar yang koheren yang menjawab 10 pertanyaan eksistensial dasar: (1) *Theocentric Worldview*; (2) Antropologi *Fitrah* dan 5 lapis jiwa (*Jasad, Ruh, Nafs, Qalb, 'Aql*); (3) Hukum perkembangan *Tazkiyatun Nafs* (*T1–T4 s/d Tahap 10*); (4) Pedagogi holistik Disiplin Restoratif (*Firm & Kind*) & PBIS Multi-Tier; (5) Falsafah kepemimpinan **Qudwah** (*Sayyidul Qaumi Khaadimuhum*); serta (6) Sunnatullah perubahan melalui *Tadarruj*, *Istiqamah*, dan *Bi'ah Shalihah*.
->
-> **Kata Kunci**: *Ekosistem TUMBUH, Pesantren, Qudwah, Tazkiyatun Nafs, Disiplin Restoratif, PBIS Multi-Tier, Fitrah, Triad Pertumbuhan, Penggerak, Pelaksana, Pembina, Pemberdaya.*
+> **Kata Kunci**: *Ekosistem TUMBUH, Pesantren, Qudwah, Dual-Pillar Caretaking, Musyrif & Walas, Tazkiyatun Nafs, Disiplin Restoratif, Triad Pertumbuhan.*
 
 ---
 
@@ -67,21 +65,21 @@ Sistem **TUMBUH** memberikan jawaban akademis, teologis, dan saintifik atas 10 p
 | **4** | **Apa tujuan sejati kehidupan di dunia?** | Menjalankan penghambaan (*'Ubudiyyah*) dan mandat kemakmuran bumi melalui kepemimpinan pelayanan (*Amanah Qiyadah & Khidmah*). | QS. Al-Baqarah: 30; *Adz-Dzari'ah* (Al-Isfahani). |
 | **5** | **Apa makna sejati pertumbuhan?** | Pertumbuhan (*Al-Inma'*) adalah proses peningkatan kapasitas manusia secara utuh melintasi Tahap 1 s/d 10 (Penggerak, Pelaksana, Pembina, & Pemberdaya). | QS. Asy-Syams: 9; CASEL SEL Framework. |
 | **6** | **Apa tolok ukur keberhasilan manusia?** | Kedalaman adab, integritas akhlak mulia, dan regulasi diri mandiri, bukan sekadar ranking angka atau prestasi piala kognitif semata. | HR. Tirmidzi (Sempurnanya Iman); Dweck (Growth Mindset). |
-| **7** | **Apa hakikat pendidikan Islam?** | Trilogi agung: **Tarbiyah** (pengasuhan biologis-emosional asrama), **Ta'dib** (penanaman adab/moral), dan **Ta'lim** (pengajaran intelektual kelas). | *The Concept of Education in Islam* (Al-Attas). |
+| **7** | **Apa hakikat pendidikan Islam?** | Trilogi agung: **Tarbiyah** (asrama), **Ta'dib** (adab/moral), dan **Ta'lim** (intelektual kelas) yang dikelola via Dual-Pillar Pengasuhan (Musyrif & Walas). | *The Concept of Education in Islam* (Al-Attas). |
 | **8** | **Bagaimana dinamika perubahan perilaku terjadi?** | Melalui hukum sunnatullah (*Habit Loop 66-Hari, Choice Architecture Nudges, & Bi'ah Shalihah* dengan Magic Ratio 4:1). | QS. Ar-Ra'd: 11; Wood & Clear (Habit Science). |
 | **9** | **Apa hakikat kepemimpinan dan relasi sosial?** | Kepemimpinan berbasis **Qudwah Hasanah** (*Shidq al-Amal*) dan **Servant Leadership** (*Sayyidul Qaumi Khaadimuhum*) yang menghapus feodalisme. | QS. Al-Ahzab: 21; Greenleaf (Servant Leadership). |
 | **10**| **Bagaimana memposisikan waktu dan proses?** | Waktu adalah amanah ilahi yang diisi dengan proses bertahap (*Tadarruj*) dan ketabahan konsisten (*Istiqamah*) melalui Tangga T1–T4 hingga Tahap 10. | QS. Al-'Asr: 1–3; Kaizen & Scaffolding Theory. |
 
 ---
 
-## 4. MAHA-PRINSIP: MODEL TRIAD PERTUMBUHAN SIMBIOTIK & KONTINUUM 10 TAHAP
+## 4. MAHA-PRINSIP: MODEL TRIAD PERTUMBUHAN SIMBIOTIK & DUAL-PILLAR PENGASUHAN
 
 ```mermaid
 graph TD
-    subgraph Model_Triad_Simbiotik["Triad Pertumbuhan Simbiotik & Kontinuum 10-Tahap TUMBUH"]
-        Santri["1. SANTRI BERTUMBUH (Tangga T1-T4)<br/>Tahap 1 Adaptasi -> Tahap 2-3 Habituasi -> Tahap 4-5 Internalisasi -> Tahap 6-7 PENGGERAK"]
-        Guru["2. GURU & MUSYRIF BERTUMBUH<br/>Tahap 8 PELAKSANA (Praktisi Vokasional) -> Tahap 9 PEMBINA (Musyrif, Ustadz, BK, & Qudwah)"]
-        Sistem["3. SISTEM LEMBAGA BERTUMBUH<br/>Tahap 10 PEMBERDAYA (Pemimpin Lembaga & Enabler Ekosistem Kebajikan Ummat)"]
+    subgraph Model_Triad_Simbiotik["Triad Pertumbuhan Simbiotik & Dual-Pillar Pengasuhan TUMBUH"]
+        Santri["1. SANTRI BERTUMBUH (Tangga T1-T4)<br/>Mekarnya fitrah, regulasi emosi mandiri, & bertumbuh menjadi Santri Penggerak."]
+        Guru["2. GURU, MUSYRIF, & WALAS BERTUMBUH (Dual-Pillar Caretaking)<br/>Pilar 1 Musyrif Asrama + Pilar 2 Wali Kelas (Walas) bersinergi mengasuh santri tanpa burnout."]
+        Sistem["3. SISTEM LEMBAGA BERTUMBUH<br/>Organisasi pembelajar berbasis data PBIS, SOP Handover Daily Logbook, & Zero Violence."]
     end
 
     Santri <--> |Resonansi Adab & Belajar| Guru

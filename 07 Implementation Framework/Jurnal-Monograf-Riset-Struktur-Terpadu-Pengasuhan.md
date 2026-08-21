@@ -1,5 +1,5 @@
 # MONOGRAF RISET AKADEMIK: STRUKTUR ORGANISASI TERPADU 24-JAM DAN TATA KELOLA PENGASUHAN PESANTREN
-## Evaluasi Sistemik: Eliminasi Dikotomi Madrasah-Asrama, Batas Tugas Musyrif Asrama vs. Wali Kelas (Walas), Job Description Staf Pengasuhan, Staf Disiplin & BK, Staf Klub Santri, Matriks RACI, SOP Shift Musyrif 24-Jam Anti-Burnout, dan Pengawasan Zero Violence
+## Evaluasi Sistemik: Eliminasi Dikotomi Madrasah-Asrama, Dual-Pillar Pengasuhan (Musyrif Asrama & Wali Kelas Walas), Batas Tugas Operasional, RACI Matrix, SOP Shift Musyrif Anti-Burnout, dan Pengawasan Zero Violence
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dipublikasikan sebagai Naskah Monograf Riset Ilmiah (Jurnal Kebijakan & Tata Kelola Lembaga Pesantren)*  
@@ -9,19 +9,19 @@
 
 ## ABSTRAK
 
-> **Latar Belakang**: Patologi tata kelola pesantren konvensional sering kali dipicu oleh dikotomi kaku (*dualisme struktural*) antara kegiatan akademik madrasah dan kehidupan asrama pondok, atau kebingungan pembagian peran di mana Musyrif dianggap harus bertugas 24-jam fisik tanpa henti. Padahal, di madrasah terdapat Wali Kelas (Walas) yang bertanggung jawab penuh selama jam KBM.
+> **Latar Belakang**: Patologi tata kelola pesantren konvensional sering kali dipicu oleh dikotomi kaku (*dualisme struktural*) antara kegiatan akademik madrasah dan kehidupan asrama pondok, atau pemahaman keliru yang menganggap pengasuhan hanya tugas Musyrif semata. Padahal, pengasuhan holistik (*In Loco Parentis*) adalah sinergi terpadu antara pengasuhan karakter kamar oleh Musyrif dan pengasuhan akademik/perilaku kelas oleh Wali Kelas (Walas).
 >
-> **Tujuan Penelitian**: Merumuskan dan memvalidasi hirarki struktur organisasi terpadu 24-jam tanpa dikotomi madrasah-asrama, merinci **Batas Tugas Musyrif Asrama vs. Wali Kelas (Walas)**, menetapkan *job description* fungsional Staf Pengasuhan, Staf Disiplin & BK, dan Staf Klub Santri, merumuskan Matriks RACI, dan menetapkan SOP Shift Kerja Musyrif Anti-Burnout.
+> **Tujuan Penelitian**: Merumuskan dan memvalidasi **Konsep Dual-Pillar Pengasuhan Terpadu (Musyrif Asrama & Wali Kelas Walas)**, merinci hirarki organisasi non-dikotomis 24-jam, menetapkan *job description* fungsional Staf Pengasuhan, Staf Disiplin & BK, dan Staf Klub Santri, merumuskan Matriks RACI, dan menetapkan SOP Shift Kerja Musyrif Anti-Burnout.
 >
-> **Hasil Riset**: Terstruktur pembagian peran terpadu (*Handover Musyrif <-> Walas*): (1) **Jam KBM Formal (07.00-15.00)** dikendalikan penuh oleh **Wali Kelas & Guru Madrasah** (Musyrif off-duty/istirahat); dan (2) **Jam Asrama & Pondok (15.00-07.00 Subuh)** dikendalikan oleh **Musyrif Asrama** via sistem 3-Shift.
+> **Hasil Riset**: Terstruktur Arsitektur Dual-Pillar Pengasuhan: (1) **Pilar 1: Musyrif Asrama** (Pengasuhan Karakter Kamar & Pondok - Jam 15.00-07.00); dan (2) **Pilar 2: Wali Kelas / Walas** (Pengasuhan Akademik & Perilaku Kelas - Jam 07.00-15.00), yang terhubung secara sinergis melalui *Logbook Musyrif App*.
 >
-> **Kata Kunci**: *Implementation Framework, Non-Dichotomous Hierarchy, Musyrif vs Walas Boundary, Handover Mechanism, Staf Pengasuhan, RACI Matrix, Shift System Anti-Burnout.*
+> **Kata Kunci**: *Implementation Framework, Dual-Pillar Caretaking, Musyrif Asrama, Wali Kelas Walas, In Loco Parentis, Handover Mechanism, RACI Matrix, Shift System Anti-Burnout.*
 
 ---
 
 ## 1. PENDAHULUAN & DIALEKTIKA STRUKTUR ORGANISASI
 
-Tata kelola pesantren modern menuntut pengintegrasian penuh antara kegiatan pengajaran formal madrasah dan kehidupan pengasuhan asrama tanpa membebankan tugas fisik 24-jam nonstop pada individu Musyrif.
+Tata kelola pesantren modern menuntut penegakan konsep **Pengasuhan Terpadu (*Holistic Caretaking / In Loco Parentis*)** yang memosisikan Musyrif Asrama dan Wali Kelas (Walas) sebagai dua pilar sejajar pendamping pertumbuhan santri.
 
 ```mermaid
 graph TD
@@ -31,50 +31,46 @@ graph TD
     Pimpinan --> KMTS["2b. Kepala Madrasah Tsanawiyah (MTs)"]
     KMA --> WakamadGroup["3. 4 Wakamad Terpadu (Kurikulum, Kesiswaan, Humas, Sarpras)"]
     KMTS --> WakamadGroup
-    WakamadGroup --> StafPelaksana["4. Staf Pelaksana Terpadu<br/>• Wali Kelas (Walas) & Guru (KBM 07.00-15.00)<br/>• Staf Pengasuhan & Musyrif Kamar (Asrama 15.00-07.00)<br/>• Staf Disiplin & BK<br/>• Staf Klub Santri & Pembina"]
+    WakamadGroup --> DualPillarCaretaking["4. DUA PILAR PENGASUHAN TERPADU (IN LOCO PARENTIS)<br/>• PILAR 1: Musyrif Asrama (Pengasuhan Kamar & Pondok - Shift 15.00-07.00)<br/>• PILAR 2: Wali Kelas / Walas (Pengasuhan Akademik & Kelas - Shift 07.00-15.00)<br/>• Tim Pendukung: Staf Disiplin & BK, Staf Klub Santri, & Sarpras"]
 ```
 
 ---
 
-## 2. KLARIFIKASI BATAS TUGAS: MUSYRIF ASRAMA VS. WALI KELAS (WALAS) MADRASAH
+## 2. KONSEPTUALISASI DUAL-PILLAR PENGASUHAN TERPADU (DUAL-PILLAR CARETAKING)
 
-To resolve role ambiguity and prevent educator burnout (*Triad Pertumbuhan*):
+Fungsi *Pengasuhan* dalam Ekosistem TUMBUH tidak dibebankan secara tunggal kepada Musyrif, melainkan dibagi secara profesional ke dalam **Dua Pilar Pengasuhan**:
 
 ```mermaid
 graph TD
-    DutyBoundary["Pembagian Tugas Pengasuhan Terpadu (Handover Musyrif <-> Walas)"]
-    DutyBoundary --> MadrasahHours["1. JAM KBM FORMAL MADRASAH (07.00 - 15.00)<br/>• Penanggung Jawab Utama: WALI KELAS (WALAS) & GURU MAPEL.<br/>• Tugas: Pengawasan KBM, presensi kelas, & bimbingan akademik.<br/>• Status Musyrif: OFF-DUTY / Istirahat / Shift Piket Pergantian."]
-    DutyBoundary --> DormitoryHours["2. JAM KEHIDUPAN ASRAMA & PONDOK (15.00 - 07.00 Subuh/Pagi)<br/>• Penanggung Jawab Utama: MUSYRIF ASRAMA (Sistem 3-Shift Kerja).<br/>• Tugas: Pengasuhan asrama, sholat berjamaah, Al-Qur'an/Bahasa Arab, & kegiatan malam/pagi.<br/>• Status Walas: OFF-DUTY / Koordinasi Informasi via App."]
+    DualPillarDiagram["Dua Pilar Pengasuhan Terpadu TUMBUH (In Loco Parentis)"]
+    DualPillarDiagram --> MusyrifPillar["PILAR 1: MUSYRIF ASRAMA (PENGASUHAN KAMAR & PONDOK)<br/>• Tanggung Jawab: Kehidupan kamar asrama, kebersihan hunian, ibadah berjamaah, & ukhuwah.<br/>• Jam Operasional: 15.00 Sore - 07.00 Subuh/Pagi (Sistem 3-Shift)."]
+    DualPillarDiagram --> WalasPillar["PILAR 2: WALI KELAS / WALAS (PENGASUHAN AKADEMIK & KELAS)<br/>• Tanggung Jawab: Keaktifan KBM, presensi kelas, konseling belajar, & kepribadian santri di kelas.<br/>• Jam Operasional: 07.00 Pagi - 15.00 Sore."]
+    MusyrifPillar <--> |Sinergi Data & Handover Daily Logbook| WalasPillar
 ```
 
-### Matriks Handover Informasi Harian (Shift Transition Protocol):
-* **07.00 Pagi (Handover Musyrif $\rightarrow$ Walas)**: Musyrif menyerahkan data santri sakit/izin kamar kepada Wali Kelas sebelum KBM dimulai.
-* **15.00 Sore (Handover Walas $\rightarrow$ Musyrif)**: Wali Kelas mengomunikasikan catatan presensi KBM dan insiden kelas kepada Musyrif Asrama melalui *Logbook Musyrif App*.
+### 2.1. Pilar 1: Musyrif Asrama (Pengasuhan Karakter Kamar & Pondok)
+* **Tugas Pokok**: Pengasuhan karakter di hunian kamar asrama, kedisiplinan ibadah berjamaah (Subuh, Dzuhur, Ashar, Maghrib, Isya), halaqah Al-Qur'an/Bahasa Arab, dan penanganan problematika harian santri di pondok.
+
+### 2.2. Pilar 2: Wali Kelas / Walas (Pengasuhan Akademik & Perilaku Kelas)
+* **Tugas Pokok**: Pengasuhan perkembangan akademik santri di madrasah, pengawasan presensi KBM, bimbingan minat studi, konseling awal problematika kelas, dan pelaporan rutin ke orang tua santri.
 
 ---
 
-## 3. RINCIAN JOB DESCRIPTION STAF OPERASIONAL PENGASUHAN
+## 3. MEKANISME HANDOVER & KLARIFIKASI BATAS TUGAS
 
-### 3.1. Musyrif Asrama (Shift Asrama 15.00 - 07.00)
-* **Fokus**: Pendampingan kehidupan kamar, kontrol kebersihan, perizinan keluar-masuk, dan bimbingan ibadah berjamaah/Al-Qur'an/Bahasa Arab.
-* *Musyrif TIDAK mengawasi kelas KBM madrasah jam 07.00-15.00.*
-
-### 3.2. Wali Kelas / Walas (Shift KBM 07.00 - 15.00)
-* **Fokus**: Pembimbingan akademik santri di kelas, monitoring keaktifan KBM, konseling akademik awal, dan komunikasi langsung dengan orang tua mengenai progres studi.
-
-### 3.3. Staf Disiplin & Bimbingan Konseling (BK)
-* **Fokus**: Penegakan tata tertib PBIS, pencatatan poin prestasi & pelanggaran di *Logbook App*, konseling tahap awal, dan resolusi konflik adil (*Ishlah al-Bain*).
+* **07.00 Pagi (Handover Musyrif $\rightarrow$ Walas)**: Musyrif menyerahkan catatan santri sakit/izin kamar kepada Wali Kelas sebelum KBM dimulai.
+* **15.00 Sore (Handover Walas $\rightarrow$ Musyrif)**: Wali Kelas menyerahkan rekapitulasi presensi KBM dan catatan insiden kelas kepada Musyrif Asrama melalui *Logbook Musyrif App*.
 
 ---
 
 ## 4. MATRIKS RACI BEBAS GESEKAN BIROKRASI
 
-| Fungsi & Kegiatan Pengasuhan | Kepala Pesantren | Kepala MA/MTs | Wakamad Kesiswaan | Staf Pengasuhan / Musyrif | Wali Kelas (Walas) | Staf Disiplin & BK |
+| Fungsi & Kegiatan Pengasuhan | Kepala Pesantren | Kepala MA/MTs | Wakamad Kesiswaan | Pilar 1: Musyrif Asrama | Pilar 2: Wali Kelas (Walas) | Staf Disiplin & BK |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **KBM Formal Madrasah (07.00-15.00)** | A | R | C | I | **R** | C |
-| **Pengasuhan Asrama (15.00-07.00)** | A | I | R | **R** | I | C |
+| **Pengasuhan Akademik & KBM (07.00-15.00)** | A | R | C | I | **R (Pengasuh Kelas)** | C |
+| **Pengasuhan Kamar & Pondok (15.00-07.00)** | A | I | R | **R (Pengasuh Asrama)** | I | C |
 | **Penanganan Kasus Restoratif Tier 2/3**| A | I | A | C | C | **R** |
-| **Komunikasi Parent Portal Mobile** | I | I | A | R (Asrama) | R (Akademik) | R (Kasus) |
+| **Komunikasi Parent Portal Mobile** | I | I | A | R (Pengasuhan Kamar) | R (Pengasuhan Kelas) | R (Kasus BK) |
 
 *(R: Responsible, A: Accountable, C: Consulted, I: Informed)*
 
