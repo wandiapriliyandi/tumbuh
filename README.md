@@ -19,13 +19,24 @@ graph TD
 
 ---
 
+## 🛑 ANALISIS KENDALA & MITIGASI RISIKO LAPANGAN
+
+Repositori ini dilengkapi **Folder Khusus Kendala & Mitigasi** yang membedah 7 kendala utama penerapan ekosistem di lapangan beserta solusi mitigasinya:
+
+* 📁 **[`KENDALA_DAN_MITIGASI/`](./KENDALA_DAN_MITIGASI/README.md)**: Direktori Utama Analisis Kendala Operasional & Strategi Mitigasi.
+  * 📄 **[`Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md`](./KENDALA_DAN_MITIGASI/Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md)**: Naskah Kajian Akademis 7 Kendala Utama & Solusi Mitigasinya.
+  * 📊 **[`Matriks-Mitigasi-Risiko-dan-SOP-Darurat.md`](./KENDALA_DAN_MITIGASI/Matriks-Mitigasi-Risiko-dan-SOP-Darurat.md)**: Matriks Level Risiko, Dampak, RACI, & SOP Contingency Plan Darurat.
+
+---
+
 ## 📊 SIMULASI SISTEM: PEMODELAN LONGITUDINAL COHORT 100 SANTRI
 
 Repositori ini dilengkapi **Folder Khusus Simulasi Sistem** yang menyimulasikan pergerakan 100 santri dari awal masuk Kelas 7 MTs/SMP hingga menjadi **Tahap 7 PENGGERAK (Tahun Pengabdian)**:
 
 * 📁 **[`SIMULASI/`](./SIMULASI/README.md)**: Direktori Utama Simulasi Sistem Cohort 100 Santri.
-  * 📄 **[`Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md`](./SIMULASI/Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md)**: Laporan Naratif Simulasi 7-Tahun Pembinaan.
-  * 📊 **[`Data-Analitik-Simulasi-100-Santri.md`](./SIMULASI/Data-Analitik-Simulasi-100-Santri.md)**: Matriks Data Kuantitatif & Statistik Growth Ipsatif 10 Muwashafat.
+  * 📊 **[`Matriks-Data-Simulasi-100-Santri-Per-Anak-Longitudinal.md`](./SIMULASI/Matriks-Data-Simulasi-100-Santri-Per-Anak-Longitudinal.md)**: Matriks Data Individual 100 Santri (S-001 s/d S-100) 7-Tahun Per-Anak.
+  * 📄 **[`Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md`](./SIMULASI/Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md)**: Laporan Naratif Simulasi 7-Tahun Pembinaan & Dual-Skenario Realistis.
+  * 📊 **[`Data-Analitik-Simulasi-100-Santri.md`](./SIMULASI/Data-Analitik-Simulasi-100-Santri.md)**: Matriks Kuantitatif, Formula Matematis Simulation Engine, & Sebaran Kurva Normal.
 
 ---
 
@@ -62,12 +73,13 @@ Repositori ini dikembangkan dan diaudit oleh **22 Custom Skills Dewan Keilmuan**
 7. `pakar-psikologi-belajar`, `pakar-psikologi-sosial-santri`, `pakar-desain-kurikulum-adab`
 8. `pakar-tata-kelola-qudwah`, `pakar-metodologi-riset-tumbuh`, `pakar-arsitektur-digital-pesantren`
 9. `pakar-kritikus-dan-auditor-kualitas`, `pakar-psikometri-dan-validasi-instrumen`, `pakar-perlindungan-anak-dan-advokasi-santri`
-10. **`pakar-simulasi-sistem-tumbuh`** (Skill Ke-22: Master Systems Modeler & Simulasi Cohort Santri)
+10. `pakar-simulasi-sistem-tumbuh` (Skill Ke-22: Master Systems Modeler & Simulasi Cohort Santri)
 
 ---
 
 ## 📖 Rujukan & Dokumentasi Pendukung
 
+- 🛑 **[KENDALA_DAN_MITIGASI/README.md](./KENDALA_DAN_MITIGASI/README.md)**: Analisis 7 Kendala Utama Penerapan & SOP Mitigasi Risiko Lapangan.
 - 📊 **[SIMULASI/README.md](./SIMULASI/README.md)**: Sistem Pemodelan Cohort 100 Santri (Kelas 7 s/d Tahap 7 Penggerak).
 - 🔍 **[REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md](./REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md)**: Dokumen Bedah Kritis & Evaluasi Kekurangan 11 Domain Proyek.
 - 🛡️ **[REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md](./REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md)**: Laporan Audit Kualitas Akademis & Kepatuhan Resmi (Predikat A+ Paripurna).
