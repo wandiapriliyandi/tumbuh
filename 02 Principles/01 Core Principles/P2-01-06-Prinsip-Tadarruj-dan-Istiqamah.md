@@ -1,58 +1,77 @@
-# P2-01-06-Prinsip-Tadarruj-dan-Istiqamah
+# P2-01-06: PRINSIP TADARRUJ (GRADUALISME) DAN ISTIQAMAH
+## *Sunnatullah Tahapan Perubahan Karakter, Kaidah Tadarruj Syar'i, dan Pemeliharaan Konsistensi Adab Tanpa Kejenuhan*
 
-## Tujuan
-Menetapkan prinsip **Tadarruj** (Gradualisme Bertahap) dan **Istiqamah** (Konsistensi Rutinitas Berkelanjutan) sebagai kaidah baku dalam seluruh desain kurikulum adab, habituasi harian, dan pembinaan santri di ekosistem pesantren TUMBUH.
-
----
-
-## 1. Dalil & Falsafah Syar'i
-
-> *"Amalan yang paling dicintai oleh Allah ta'ala adalah amalan yang kontinu (istiqamah) walaupun sedikit."*  
-> **(HR. Bukhari no. 6464 & Muslim no. 782)**
-
-> **Umar bin Abdul Aziz Rahimahullah**:  
-> *"Janganlah engkau tergesa-gesa membawa manusia pada seluruh kebenaran sekaligus, karena mereka akan meninggalkannya sekaligus pula. Bawalah mereka sedikit demi sedikit hingga kebenaran itu meresap ke dalam hati mereka."*
+**Nomor Identifikasi**: `P2-01-06/TADARRUJ-ISTIQAMAH-PRINSIP/2026`  
+**Domain**: `02 Principles` > `01 Core Principles`  
+**Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-pedagogi-master-guru`, `pakar-epistemologi-turats`
 
 ---
 
-## 2. Integrasi Neurosains: Pembentukan Jalur Kebiasaan (*Habit Loop*)
+## 📑 DAFTAR ISI ANALITIS
 
-Pembentukan karakter dalam diri santri membutuhkan pembentukan sirkuit saraf (*neural pathways*) yang solid melalui 3 siklus kebiasaan:
+1. [1. Sunnatullah Tadarruj: Memahami Keterbatasan Kapasitas Awal](#1-sunnatullah-tadarruj-memahami-keterbatasan-kapasitas-awal)
+2. [2. Khazanah Syariat: Gradualisme dalam Penurunan Hukum Islam](#2-khazanah-syariat-gradualisme-dalam-penurunan-hukum-islam)
+3. [3. Istiqamah sebagai Puncak Kemuliaan (Karamah Terbesar)](#3-istiqamah-sebagai-puncak-kemuliaan-karamah-terbesar)
+4. [4. Matriks Aplikasi Tadarruj-Istiqamah dalam Rutinitas Santri](#4-matriks-aplikasi-tadarruj-istiqamah-dalam-rutinitas-santri)
+5. [5. Implikasi bagi Sistem Penilaian dan Evaluasi Asrama](#5-implikasi-bagi-sistem-penilaian-dan-evaluasi-asrama)
+
+---
+
+### 1. Sunnatullah Tadarruj: Memahami Keterbatasan Kapasitas Awal
+
+Prinsip inti keenam dalam Ekosistem TUMBUH adalah **Tadarruj (Gradualisme Ilahiah) dan Istiqamah (Konsistensi Berkelanjutan)**.
+
+Setiap manusia yang memasuki lingkungan baru membutuhkan fase adaptasi biologis, kognitif, dan sosial. Menuntut santri baru yang baru seminggu masuk pondok untuk langsung mampu bangun malam 1 jam, hafal 1 juz per bulan, dan tidak pernah mengantuk di kelas adalah bentuk **kezaliman pedagogis (*pedagogical injustice*)**.
+
+Tadarruj mengajarkan kita untuk menghormati proses: memulai dari langkah-langkah kecil yang mampu dicapai santri (*proximal zone of development*), memberikan apresiasi atas setiap inci kemajuan, dan membimbing santri secara bertahap hingga ia mampu istiqamah secara mandiri.
 
 ```mermaid
-graph LR
-    Cue["1. Isyarat Lingkungan (Cue)<br/>Adzan, bel jadwal, tata letak kamar rapi"] --> Routine["2. Respon Rutinitas (Routine)<br/>Wudhu tertib, sholat di masjid, merapikan loker"]
-    Routine --> Reward["3. Penguatan Positif (Reward)<br/>Ketenangan batin, apresiasi musyrif, kepuasan beradab"]
-    Reward --> Cue
+graph TD
+    subgraph KontinuumTadarruj["KONTINUUM TADARRUJ DAN ISTIQAMAH"]
+        T1["FASE 1: KEMAMPUAN DASAR (Tangga T1)<br/>Membiasakan hadir shalat tepat waktu & merapikan kasur sendiri"]
+        T2["FASE 2: KEMANDIRIAN RUTIN (Tangga T2-T3)<br/>Menambah shalat sunnah rawatib, tilawah mandiri, & adab mu'asyarah"]
+        T3["FASE 3: ISTIQAMAH TRANSFORMASI (Tangga T4)<br/>Adab melekat menjadi karakter hidup, memimpin adik kelas, & teladan qudwah"]
+        
+        T1 ==>|Konsistensi 66-Hari| T2 ==>|Penghayatan Nilai Muraqabah| T3
+    end
 ```
 
 ---
 
-## 3. 4 Kaidah Baku Tadarruj dalam Pembinaan Santri
+### 2. Khazanah Syariat: Gradualisme dalam Penurunan Hukum Islam
 
-1. **Kaidah Langkah Mikro (*Micro-Habits Principle*)**:
-   - Target adab yang besar dipecah menjadi target harian sederhana yang realistis dicapai santri baru (misal: di pekan pertama fokus pada meletakkan sandal di rak dan tiba sholat tepat waktu).
-2. **Kaidah Ketahanan Rutinitas (*Habit Stacking*)**:
-   - Menautkan kebiasaan baru pada rutinitas yang sudah kokoh (misal: membaca 1 halaman Al-Qur'an tepat setelah selesai sholat fardhu berjamaah).
-3. **Kaidah Mencegah 'Overwhelm' (*Cognitive Load Reduction*)**:
-   - Santri baru di tahap T1 tidak dibebani 50 aturan sekaligus, melainkan difasilitasi menguasai 5 adab inti asrama secara solid terlebih dahulu.
-4. **Kaidah Standarisasi SOP Pengasuhan**:
-   - Konsistensi santri lahir dari konsistensi jadwal asrama. Jadwal bangun tidur, makan, KBM, dan istirahat wajib dipatuhi secara tertib oleh musyrif dan asatidz.
+Para ulama ushul fiqh menegaskan kaidah:
+
+$$\text{مَنْ رَامَ الْعِلْمَ جُمْلَةً، ذَهَبَ عَنْهُ جُمْلَةً}$$
+*"Barang siapa yang menuntut ilmu (atau menuntut perubahan karakter) sekaligus dalam satu waktu, niscaya ilmu dan karakter itu akan hilang darinya sekaligus pula!"*
+
+Imam Az-Zarkasyi dalam *Al-Burhan fi 'Ulum al-Qur'an* menguraikan bahwa hikmah Al-Qur'an diturunkan secara berangsur-angsur (*tanjim*) adalah untuk **mengokohkan kalbu (*tatsbit al-fu'ad*)** dan memudahkan proses internalisasi ke dalam jiwa manusia yang memiliki keterbatasan.
 
 ---
 
-## 4. Matriks Evaluasi Progresi Istiqamah
+### 3. Istiqamah sebagai Puncak Kemuliaan
 
-| Jenjang | Fokus Pembiasaan (*Habituasi*) | Tingkat Bantuan (*Scaffolding*) | Ciri Capaian Istiqamah |
+Para ulama tasawuf agung menyatakan:
+
+$$\text{الِاسْتِقَامَةُ أَعْظَمُ كَرَامَةٍ}$$
+*"Istiqamah dalam ketaatan adalah karamah (kemuliaan spiritual) yang paling agung!"*
+
+Santri yang hebat bukanlah santri yang pernah melakukan shalat tahajud semalam suntuk lalu tidur sepanjang siang, melainkan santri yang istiqamah mendirikan shalat tahajud 2 rakaat dan witir 1 rakaat setiap malam tanpa pernah terputus.
+
+---
+
+### 4. Matriks Aplikasi Tadarruj-Istiqamah dalam Rutinitas Santri
+
+| Dimensi Pembiasaan | Tahap Awal (Bulan 1–3 / T1) | Tahap Menengah (Bulan 4–12 / T2–T3) | Tahap Matang (Tahun 2+ / T4) |
 | :--- | :--- | :--- | :--- |
-| **T1 (Adaptasi)** | Pengenalan adab dasar & rutinitas harian asrama. | **Tinggi (80%)**: Didampingi langsung oleh musyrif setiap sesi. | Mampu mengikuti alur harian tanpa kebingungan. |
-| **T2 (Habituasi)** | Rutinitas ibadah wajib, kebersihan kamar, adab belajar. | **Sedang (50%)**: Diingatkan melalui isyarat bel dan checklist piket. | Menjalankan rutinitas harian dengan teguran minimal. |
-| **T3 (Internalisasi)** | Regulasi emosi, ibadah sunnah, adab pergaulan ukhuwah. | **Rendah (20%)**: Monitoring melalui sesi dialog mingguan. | Berinisiatif berbuat baik atas kesadaran diri (*Self-Awareness*). |
-| **T4 (Kemandirian)** | Kepemimpinan teladan (*Qudwah*), mengayomi adik kelas. | **Mandiri (0-5%)**: Musyrif bertindak sebagai konsultan/coach. | Menjadi model teladan hidup bagi seluruh lingkungan asrama. |
+| **Qiyamul Lail** | 1x sepekan berjamaah di malam Jumat, didampingi musyrif. | 2–3x sepekan mandiri di kamar dengan alarm pribadi. | Rutin setiap malam mandiri; membangunkan rekan kamar dengan santun. |
+| **Target Tahfizh** | 0.5 – 1 halaman/hari dengan fokus kelancaran tajwid & tahsin. | 1 – 2 halaman/hari disertai pemahaman terjemah ayat. | Ziyadah stabil disertai muraja'ah mandiri 1 juz/hari. |
+| **Kemandirian Asrama** | Mencuci pakaian dengan bimbingan teknis musyrif/kakak asuh. | Mandiri mencuci dan menyetrika pakaian sesuai jadwal. | Mengelola manajemen waktu pribadi secara teratur dan rapi. |
 
 ---
 
-## 5. Status Dokumen
-* **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
-* **Level**: Project 2 - `02 Principles / 01 Core Principles`
-* **Langkah Berikutnya**: **`P2-01-07-Sintesis-Core-Principles-TUMBUH.md`**.
+### 5. Implikasi bagi Sistem Penilaian dan Evaluasi Asrama
+
+1. **Penetapan Target Individual Berjenjang**: Target mutaba'ah santri disesuaikan dengan kurva kesiapan masing-masing santri, bukan dipukul rata secara kaku.
+2. **Pemberian Apresiasi atas Konsistensi**: Memberikan lencana penghargaan *Bintang Istiqamah* bagi santri yang mampu menjaga konsistensi adab selama 40 hari berturut-turut.
+3. **Penyikapan atas Fase Futuwr (Kelesuan)**: Tatkala santri mengalami kejenuhan, musyrif tidak langsung menghukumnya, melainkan memberikan ruang pemulihan emosi (*co-regulation*) dan dialog penyemangat batin.

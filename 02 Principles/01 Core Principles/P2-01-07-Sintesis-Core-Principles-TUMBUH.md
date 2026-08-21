@@ -1,60 +1,70 @@
-# P2-01-07-Sintesis-Core-Principles-TUMBUH
+# P2-01-07: SINTESIS PRINSIP UTAMA (CORE PRINCIPLES) EKOSISTEM TUMBUH
+## *Konsolidasi 6 Pilar Prinsip Inti: Dari Fondasi Filosofis Menuju Konstitusi Operasional Pengasuhan Pesantren Modern*
 
-## Tujuan
-Menyintesiskan seluruh 7 Prinsip Utama (*Core Principles*) ekosistem pesantren TUMBUH ke dalam matriks hukum terpadu dan melakukan audit koherensi internal sebelum prinsip-prinsip ini diturunkan ke desain sistem berikutnya.
+**Nomor Identifikasi**: `P2-01-07/SINTESIS-CORE-PRINCIPLES/2026`  
+**Domain**: `02 Principles` > `01 Core Principles`  
+**Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-arsitektur-pbis-restoratif`, `pakar-tata-kelola-qudwah`
 
 ---
 
-## 1. Arsitektur Sintesis 7 Prinsip Utama
+## 📑 DAFTAR ISI ANALITIS
+
+1. [1. Konsolidasi Enam Prinsip Inti TUMBUH](#1-konsolidasi-enam-prinsip-inti-tumbuh)
+2. [2. Matriks Epistemologis & Operasional Enam Core Principles](#2-matriks-epistemologis--operasional-enam-core-principles)
+3. [3. Interkoneksi Core Principles dengan 6 Sub-Domain Prinsip Lanjutan](#3-interkoneksi-core-principles-dengan-6-sub-domain-prinsip-lanjutan)
+4. [4. Deklarasi Konstitusi Nilai Ekosistem Pesantren TUMBUH](#4-deklarasi-konstitusi-nilai-ekosistem-pesantren-tumbuh)
+
+---
+
+### 1. Konsolidasi Enam Prinsip Inti TUMBUH
+
+Sub-Domain `01 Core Principles` adalah konstitusi nilai tertinggi yang mengikat seluruh kebijakan, operasional, dan relasi di Ekosistem TUMBUH:
 
 ```mermaid
 graph TD
-    subgraph Bangunan_Prinsip_TUMBUH["Arsitektur Core Principles Ekosistem TUMBUH"]
-        P1["1. TRIAD PERTUMBUHAN: Santri, Guru, Sistem Tumbuh Serempak"]
-        P2["2. KEMULIAAN FITRAH: Ashalah al-Khair & Hak Perlindungan Martabat"]
-        P3["3. QUDWAH-FIRST: Keteladanan Pendidik Sebagai Mata Uang Otoritas"]
-        P4["4. DISIPLIN RESTORATIF: Tegas pada Aturan, Hangat pada Santri (Firm & Kind)"]
-        P5["5. MULTI-TIER PBIS: Keputusan Berbasis Data Perilaku Objektif (Tier 1-3)"]
-        P6["6. TADARRUJ & ISTIQAMAH: Pertumbuhan Organik Melalui Langkah Mikro"]
-        P7["7. TAUHIDUL HAQIQAH: Integrasi Wahyu Sebagai Kompas & Sains Sebagai Instrumen"]
-
-        P1 --- P2
-        P2 --- P3
-        P3 --- P4
-        P4 --- P5
-        P5 --- P6
-        P6 --- P7
-    end
+    CorePrinciples["6 PRINSIP INTI EKOSISTEM TUMBUH (CORE PRINCIPLES)"]
+    
+    CorePrinciples --> P1["1. TRIAD PERTUMBUHAN SIMBIOTIK<br/>Santri, Pendidik/Musyrif, & Sistem Lembaga bertumbuh serempak tanpa eksploitasi."]
+    CorePrinciples --> P2["2. KEMULIAAN FITRAH & MARTABAT INSAN<br/>Penghormatan mutlak atas Karamah Insaniyyah (QS. 17:70) & zero-humiliation."]
+    CorePrinciples --> P3["3. KETELADANAN QUDWAH-FIRST<br/>Keteladanan visual mendahului tuntutan verbal; integritas lisanul hal pendidik."]
+    CorePrinciples --> P4["4. DISIPLIN RESTORATIF FIRM & KIND<br/>Ketegasan aturan syar'i + kehangatan kasih sayang tanpa kompromi kekerasan."]
+    CorePrinciples --> P5["5. SISTEMIK MULTI-TIER PBIS BERBASIS DATA<br/>Intervensi berjenjang Tier 1-3 didasarkan pada data faktual logbook, bukan asumsi."]
+    CorePrinciples --> P6["6. TADARRUJ & ISTIQAMAH<br/>Sunnatullah proses bertahap dan pemeliharaan konsistensi amal berkelanjutan."]
 ```
 
 ---
 
-## 2. Matriks Evaluasi Koherensi & Uji Celah Internal
+### 2. Matriks Epistemologis & Operasional Enam Core Principles
 
-| Prinsip Inti | Potensi Deviasi Lapangan | Benteng Perlindungan Konseptual TUMBUH |
-| :--- | :--- | :--- |
-| **1. Triad Pertumbuhan** | Hanya santri yang dituntut disiplin, asatidz burnout & sistem kaku. | Wajib ada supervisi kesejahteraan asatidz dan evaluasi SOP lembaga secara berkala. |
-| **2. Kemuliaan Fitrah** | Pelabelan santri nakal/jahat yang memutus harapan perbaikan. | SOP Disiplin Positif: Menghukum perilaku dengan konsekuensi logis, dilarang mencela pribadi santri. |
-| **3. Qudwah-First** | Ustadz/Musyrif banyak ceramah tetapi perilakunya melanggar aturan. | Penilaian kinerja asatidz berbasis indeks keteladanan dan ketaatan SOP harian. |
-| **4. Disiplin Restoratif** | Sikap permisif serba boleh tanpa ketegasan aturan. | Keseimbangan **Firm & Kind**: Tegas menegakkan batasan SOP, hangat dalam memperlakukan martabat. |
-| **5. Multi-Tier PBIS** | Pengambilan keputusan hukuman berdasarkan gosip/emosi pembina. | Wajib berbasis data faktual logbook PBIS (waktu, lokasi, bukti fisik, tabayyun). |
-| **6. Tadarruj & Istiqamah** | Menuntut santri baru langsung sempurna atau sebaliknya putus asa. | Panduan tangga adab bertahap T1 $\rightarrow$ T2 $\rightarrow$ T3 $\rightarrow$ T4 dengan ekspektasi terukur. |
-
----
-
-## 3. Kesimpulan & Pernyataan Resmi Core Principles
-
-Dengan selesainya perumusan seluruh 7 berkas ini, sub-domain **`01 Core Principles`** dinyatakan:
-1. **Koheren & Utuh**: Tidak ada pertentangan antar prinsip; setiap prinsip saling menopang.
-2. **Berakar Kuat pada Turats**: Selaras dengan Al-Qur'an, Hadits, Fiqh Tarbiyah, dan Maqashid Syari'ah.
-3. **Didukung Bukti Sains Global**: Tervalidasi oleh riset PBIS, CASEL SEL, Observational Learning, dan Behavioral Science.
-4. **Bebas Feodalisme & Kekerasan**: Menutup segala celah justifikasi kontak fisik atau penindasan senioritas.
+| No | Core Principle | Landasan Turats & Dalil Syar'i | Landasan Sains Kontemporer | Perwujudan Operasional di Pesantren |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Triad Simbiotik** | HR. Muslim (*Al-Mu'min lil Mu'min kal Bunyan*). | *Ecological Systems* (Bronfenbrenner) & *Systems Thinking* (Senge). | Koordinasi mingguan terpadu & sistem shift sehat anti-burnout. |
+| **2** | **Kemuliaan Fitrah** | QS. Al-Isra': 70, Kaidah *Adh-Dhararu Yuzal*. | *Innate Morality* (Bloom) & Konvensi Hak Anak PBB 1989. | Eliminasi mutlak pemukulan, perundungan, & pelabelan hina. |
+| **3** | **Qudwah-First** | QS. Al-Ahzab: 21, Kaidah *Lisanul Hal Afshahu*. | *Mirror Neuron System* (Rizzolatti) & *Bandura Modeling*. | Asatidz shalat awal waktu & memungut sampah sebelum menegur. |
+| **4** | **Firm & Kind** | HR. Muslim (*Innar Rifqa La Yakunu fi Syai'in...*). | *Authoritative Parenting* (Baumrind) & *Positive Discipline*. | Tegas menjaga aturan syar'i + lembut dalam proses restitusi 4R. |
+| **5** | **Multi-Tier PBIS** | QS. Al-Hujurat: 6 (Perintah Tabayyun Faktual). | *School-Wide PBIS* (Sugai & Horner) & *FBA/BIP Framework*. | Intervensi Tier 1–3 berbasis data dashboard logbook digital. |
+| **6** | **Tadarruj-Istiqamah**| HR. Bukhari (*Ahabbul A'mali Adwamuha*). | *Atomic Habits Marginal Gains* (Clear) & *Kaizen Model*. | Pentahapan target hafalan/ibadah dan apresiasi streak konsistensi. |
 
 ---
 
-## 4. Status Dokumen
-* **Status**: ✅ **SELESAI (Status Mutu: A+)**
-* **Level**: Subproject Induk
-* **Project**: `02 Principles`
-* **Subproject**: `01 Core Principles`
-* **Langkah Berikutnya**: Melanjutkan ke sub-domain berikutnya: **`02 Design Principles`**.
+### 3. Interkoneksi Core Principles dengan 6 Sub-Domain Lanjutan
+
+Enam prinsip inti ini menjadi induk penuntun bagi seluruh sub-domain dalam **Domain 02: Principles**:
+
+```mermaid
+graph TD
+    Core["01 Core Principles (6 Prinsip Inti Induk)"]
+    
+    Core ==> SD2["02 Design Principles (Prinsip Desain Arsitektur Kurikulum & Ruang)"]
+    Core ==> SD3["03 Learning Principles (Prinsip Pembelajaran Kognitif & Sorogan)"]
+    Core ==> SD4["04 Development Principles (Prinsip Perkembangan Remaja & Tazkiyah)"]
+    Core ==> SD5["05 Assessment Principles (Prinsip Asesmen Formatif-Ipsatif)"]
+    Core ==> SD6["06 Intervention Principles (Prinsip Intervensi Restoratif Tier 1-3)"]
+    Core ==> SD7["07 Implementation Principles (Prinsip Implementasi SOP & Anti-Burnout)"]
+```
+
+---
+
+### 4. Deklarasi Konstitusi Nilai Ekosistem Pesantren TUMBUH
+
+> *"Enam Prinsip Inti ini bukanlah sekadar teks hiasan dinding, melainkan konstitusi hidup yang mengikat seluruh jiwa di Ekosistem TUMBUH: dari Pimpinan Pesantren hingga santri termuda. Segala SOP, regulasi, dan tindakan pengasuhan yang bertentangan dengan keenam prinsip ini batal demi syariat, hukum, dan ilmu pengetahuan."*
