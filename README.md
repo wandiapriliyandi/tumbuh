@@ -19,6 +19,16 @@ graph TD
 
 ---
 
+## 📊 SIMULASI SISTEM: PEMODELAN LONGITUDINAL COHORT 100 SANTRI
+
+Repositori ini dilengkapi **Folder Khusus Simulasi Sistem** yang menyimulasikan pergerakan 100 santri dari awal masuk Kelas 7 MTs/SMP hingga menjadi **Tahap 7 PENGGERAK (Tahun Pengabdian)**:
+
+* 📁 **[`SIMULASI/`](./SIMULASI/README.md)**: Direktori Utama Simulasi Sistem Cohort 100 Santri.
+  * 📄 **[`Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md`](./SIMULASI/Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md)**: Laporan Naratif Simulasi 7-Tahun Pembinaan.
+  * 📊 **[`Data-Analitik-Simulasi-100-Santri.md`](./SIMULASI/Data-Analitik-Simulasi-100-Santri.md)**: Matriks Data Kuantitatif & Statistik Growth Ipsatif 10 Muwashafat.
+
+---
+
 ## 📚 Navigasi Master 11 Domain Naskah Kajian Penelitian (*Research Monographs*)
 
 Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama** yang memuat Monograf Riset Ilmiah masing-masing:
@@ -39,9 +49,9 @@ Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama*
 
 ---
 
-## 🎓 Dewan Keilmuan Aktif (21 Custom Skills di `.agents/skills/`)
+## 🎓 Dewan Keilmuan Aktif (22 Custom Skills di `.agents/skills/`)
 
-Repositori ini dikembangkan dan diaudit oleh **21 Custom Skills Dewan Keilmuan** yang tersimpan di direktori `.agents/skills/`:
+Repositori ini dikembangkan dan diaudit oleh **22 Custom Skills Dewan Keilmuan** yang tersimpan di direktori `.agents/skills/`:
 
 1. `pakar-filosofi-tumbuh` & `pakar-epistemologi-turats`
 2. `pakar-pbis` & `pakar-arsitektur-pbis-restoratif`
@@ -52,11 +62,13 @@ Repositori ini dikembangkan dan diaudit oleh **21 Custom Skills Dewan Keilmuan**
 7. `pakar-psikologi-belajar`, `pakar-psikologi-sosial-santri`, `pakar-desain-kurikulum-adab`
 8. `pakar-tata-kelola-qudwah`, `pakar-metodologi-riset-tumbuh`, `pakar-arsitektur-digital-pesantren`
 9. `pakar-kritikus-dan-auditor-kualitas`, `pakar-psikometri-dan-validasi-instrumen`, `pakar-perlindungan-anak-dan-advokasi-santri`
+10. **`pakar-simulasi-sistem-tumbuh`** (Skill Ke-22: Master Systems Modeler & Simulasi Cohort Santri)
 
 ---
 
 ## 📖 Rujukan & Dokumentasi Pendukung
 
+- 📊 **[SIMULASI/README.md](./SIMULASI/README.md)**: Sistem Pemodelan Cohort 100 Santri (Kelas 7 s/d Tahap 7 Penggerak).
 - 🔍 **[REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md](./REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md)**: Dokumen Bedah Kritis & Evaluasi Kekurangan 11 Domain Proyek.
 - 🛡️ **[REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md](./REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md)**: Laporan Audit Kualitas Akademis & Kepatuhan Resmi (Predikat A+ Paripurna).
 - 📘 **[AGENTS.md](./AGENTS.md)**: Pedoman & Aturan Baku Agen Ekosistem TUMBUH Pesantren.
