@@ -1,4 +1,4 @@
-# KATALOG 02: REPOSITORI TURATS DIGITAL & ISLAMIC KNOWLEDGE BASE
+# KATALOG 02: REPOSITORI TURATS DIGITAL & ISLAMIC KNOWLEDGE BASE (20 PLATFORM)
 
 **Nomor Berkas**: `REF-WEB/02-TURATS/2026/08`  
 **Kategori**: Repositori Turats Digital, Manuskrip Kitab Klasik, & Basis Data Keilmuan Islam  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🕌 KATALOG 15 REPOSITORI TURATS DIGITAL ONLINE
+## 🕌 KATALOG 20 REPOSITORI TURATS DIGITAL ONLINE
 
 | No | Nama Platform / Repositori | URL / Domain Web | Deskripsi Sumber Daya Digital & Relevansi |
 | :---: | :--- | :--- | :--- |
@@ -25,3 +25,8 @@
 | **13** | **Dar al-Ifta al-Misriyyah** | `https://dar-alifta.org` | Basis data fatwa kontemporer etika & pengasuhan anak. |
 | **14** | **ISESCO Knowledge Portal** | `https://icesco.org` | Repositori organisasi kebudayaan & pendidikan Islam internasional. |
 | **15** | **Bayyinah Institute Digital Archive** | `https://bayyinah.com` | Kajian linguistik Al-Qur'an & pengembangan karakter pemuda. |
+| **16** | **King Saud University Electronic Quran** | `https://quran.ksu.edu.sa` | Repositori tafsir interaktif, audio, & takhrij ayat Al-Qur'an. |
+| **17** | **Hadith.com (Mawsoo'at al-Hadith)** | `https://hadith.islam-db.com` | Encylopedia takhrij & sanad hadits-hadits adab pembinaan. |
+| **18** | **Islamic Manuscript Association (TIMA)** | `https://www.islamicmanuscript.org` | Repositori pelestarian manuskrip adab & pendidikan Islam klasik. |
+| **19** | **IRCICA Digital Library (OIC)** | `https://www.ircica.org` | Basis data sejarah peradaban & arsitektur pendidikan Islam. |
+| **20** | **IslamQA Fatwa Repository** | `https://islamqa.info` | Indeks konsultasi & fatwa etika pergaulan santri di asrama. |

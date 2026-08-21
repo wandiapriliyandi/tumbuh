@@ -1,4 +1,4 @@
-# KATALOG 01: KEBIJAKAN REGULASI & SAFE SCHOOL PROTOCOLS
+# KATALOG 01: KEBIJAKAN REGULASI & SAFE SCHOOL PROTOCOLS (20 LAPORAN)
 
 **Nomor Berkas**: `REF-REPORT/01-REGULATION/2026/08`  
 **Kategori**: Laporan Kebijakan Pemerintah, Safe School Framework, & Perlindungan Anak  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📜 KATALOG 15 LAPORAN REGULASI & SAFE SCHOOL PROTOCOLS
+## 📜 KATALOG 20 LAPORAN REGULASI & SAFE SCHOOL PROTOCOLS
 
 | No | Lembaga Penerbit | Judul Kebijakan / Laporan Resmi | Tahun | Pokok Aturan & Implementasi TUMBUH |
 | :---: | :--- | :--- | :---: | :--- |
@@ -14,7 +14,7 @@
 | **2** | **Kementerian PPPA RI** | *Pedoman Standar Pesantren Ramah Anak (PRA).* | 2021 | Standar fisik, lingkungan, & kesehatan mental santri. |
 | **3** | **UNICEF Indonesia** | *Child Protection in Educational Settings: Safe School Framework.* | 2021 | Kerangka kerja sekolah bebas perundungan (*anti-bullying*). |
 | **4** | **UNESCO** | *Behind the Numbers: Ending School Violence and Bullying.* | 2019 | Laporan global intervensi sekolah aman dari kekerasan. |
-| **5** | **World Health Organization** | *Preventing Violence Through Schools: A Guide for Practitioners.* | 2019 | Strategi kesehatan publik mitigasi kekerasan remaja. |
+| **5** | **World Health Org (WHO)** | *Preventing Violence Through Schools: A Guide for Practitioners.* | 2019 | Strategi kesehatan publik mitigasi kekerasan remaja. |
 | **6** | **KPAI** | *Laporan Tahunan Protection & Child Rights in Educational Institutions.* | 2023 | Data nasional mitigasi kekerasan fisik di lembaga pendidikan. |
 | **7** | **Kemendikbudristek RI** | *Permendikbudristek No. 46 Tahun 2023 tentang Pencegahan dan Penanganan Kekerasan di Satuan Pendidikan.* | 2023 | Kerangka Satgas PPK yang diintegrasikan ke Tim PBIS. |
 | **8** | **UNICEF Global** | *An Everyday Lesson: End Violence in Schools.* | 2018 | Kampanye global penghentian hukuman fisik punitif. |
@@ -25,3 +25,8 @@
 | **13** | **UNICEF East Asia** | *Every Child Learns Safe: Violence Prevention in South East Asia.* | 2020 | Kebijakan proteksi anak berbasis lintas negara ASEAN. |
 | **14** | **Center for Safe Schools** | *School Safety and Violence Prevention Report.* | 2021 | Audit titik rawan (*Hotspots*) dan patroli pencegahan. |
 | **15** | **U.S. Dept. of Education** | *Guiding Principles for School Climate and Discipline.* | 2014 | Prinsip kedisiplinan positif pengubah kebijakan punitif. |
+| **16** | **Human Rights Watch** | *No More Beatings: Ending Physical Punishment of Children.* | 2020 | Laporan hak asasi anak bebas sanksi fisik di sekolah. |
+| **17** | **Global Partnership Educ** | *Safe to Learn: End Violence in and Through Schools Call to Action.* | 2021 | Inisiatif global perlindungan keselamatan siswa. |
+| **18** | **Child Rights Int. Network** | *A Inalienable Right: Protecting Children in Religious Schools.* | 2022 | Proteksi anak khusus di satuan pendidikan keagamaan. |
+| **19** | **Komnas HAM RI** | *Laporan Pemantauan Hak atas Pendidikan Aman & Humanis.* | 2023 | Evaluasi penegakan hak asasi santri di lembaga berasrama. |
+| **20** | **Kementerian Kesehatan RI** | *Pedoman Kesehatan Jiwa dan Lingkungan Sehat di Pesantren.* | 2022 | Protokol promosi kesehatan jiwa & sanitasi asrama. |

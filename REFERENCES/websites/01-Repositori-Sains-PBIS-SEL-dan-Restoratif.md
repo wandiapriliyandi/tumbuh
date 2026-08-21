@@ -1,4 +1,4 @@
-# KATALOG 01: REPOSITORI SAINS, PBIS, SEL, & RESTORATIF
+# KATALOG 01: REPOSITORI SAINS, PBIS, SEL, & RESTORATIF (20 PLATFORM)
 
 **Nomor Berkas**: `REF-WEB/01-SCIENCE/2026/08`  
 **Kategori**: Repositori Web Resmi SW-PBIS, CASEL SEL, Restorative Justice, & Safe School  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 KATALOG 15 REPOSITORI SAINS ONLINE
+## 🌐 KATALOG 20 REPOSITORI SAINS ONLINE
 
 | No | Nama Platform / Repositori | URL / Domain Web | Deskripsi Sumber Daya Digital & Relevansi |
 | :---: | :--- | :--- | :--- |
@@ -25,3 +25,8 @@
 | **13** | **Collaborative for Academic, Social, Emotional (CASEL)** | `https://selresources.casel.org` | Alat ukur asesmen kompetensi sosio-emosional santri. |
 | **14** | **International Positive Psychology Assoc (IPPA)** | `https://www.ippanetwork.org` | Riset psikologi positif, kebahagiaan, & *Growth Mindset*. |
 | **15** | **Child Mind Institute** | `https://childmind.org` | Panduan kesehatan mental anak & penanganan krisis emosional. |
+| **16** | **Florida PBIS Network Digital Hub** | `https://flpbis.cbcs.usf.edu` | Instrumen asesmen & pelatihan SW-PBIS multi-tier. |
+| **17** | **National Center for Pyramid Model Innovations** | `https://challengingbehavior.cbcs.usf.edu` | Strategi dukungan perilaku positif bagi remaja awal. |
+| **18** | **National Center on Intensive Intervention** | `https://intensiveintervention.org` | Alat bantu perancangan intervensi perilaku intensif Tier 3. |
+| **19** | **Edutopia (George Lucas Educational Foundation)** | `https://www.edutopia.org` | Artikel & video pembelajaran metodologi pengajaran berbasis bukti. |
+| **20** | **UNESCO Safe to Learn Resource Bank** | `https://www.safetolearn-global.org` | Repositori global kebijakan perlindungan anak di sekolah. |

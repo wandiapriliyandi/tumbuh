@@ -1,4 +1,4 @@
-# KATALOG 01: KITAB TURATS KLASIK & ADAB ISLAM
+# KATALOG 01: KITAB TURATS KLASIK & ADAB ISLAM (25 KITAB)
 
 **Nomor Berkas**: `REF-BOOK/01-TURATS/2026/08`  
 **Kategori**: Kitab Turats Klasik, Tazkiyatun Nafs, & Adab Pengasuhan Pesantren  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 KATALOG 15 KITAB TURATS KLASIK
+## 📖 KATALOG 25 KITAB TURATS KLASIK & ADAB ISLAM
 
 | No | Judul Kitab Turats | Pengarang / Ulama Klasik | Bab Rujukan Spesifik & Fokus Bahasan | Integrasi Domain TUMBUH |
 | :---: | :--- | :--- | :--- | :--- |
@@ -24,4 +24,14 @@
 | **12** | ***Risalat al-Mu'awanah*** | Imam Al-Haddad (w. 1132 H) | Istiqamah amalan, kesabaran pendidik, & dzikir penenang emosi. | **Domain 01, 07** |
 | **13** | ***Shifatus Safwah*** | Ibnu Al-Jauzi (w. 597 H) | Kisah keteladanan sahabat & tabi'in sebagai role model *Qudwah*. | **Domain 04** |
 | **14** | ***Al-Majmu' Syarh al-Muhadzdzab*** | Imam An-Nawawi (w. 676 H) | Muqaddimah: Etika kejujuran asesmen, fatwa, & integritas data. | **Domain 05** |
-| **15** | ***Al-Fruq al-Fiqhiyyah*** | Imam Al-Qarafi (w. 684 H) | Membedakan sanksi pendidikan (*Ta'dib*) dengan hukuman dendam (*Uqubah*). | **Domain 02, 06** |
+| **15** | ***Al-Furuq al-Fiqhiyyah*** | Imam Al-Qarafi (w. 684 H) | Membedakan sanksi pendidikan (*Ta'dib*) dengan hukuman dendam (*Uqubah*). | **Domain 02, 06** |
+| **16** | ***Madarij as-Salikin*** | Ibnu Qayyim Al-Jauziyyah (w. 751 H) | Manazil ihsan, muraqabah, & tahapan kesadaran diri santri. | **Domain 01, 04** |
+| **17** | ***Al-Fawaid*** | Ibnu Qayyim Al-Jauziyyah (w. 751 H) | Manajemen pikiran, kebersihan niat, & regulasi nafsu. | **Domain 03** |
+| **18** | ***Minhaj al-Qashidin*** | Ibnu Qudamah Al-Maqdisi (w. 689 H) | Ringkasan tahapan pembentukan karakter adab islami santri. | **Domain 04, 10** |
+| **19** | ***Jami' Bayan al-'Ilmi wa Fadhlih*** | Ibnu Abdil Barr (w. 463 H) | Kemuliaan pencari ilmu & kewajiban keteladanan guru. | **Domain 02, 10** |
+| **20** | ***Tarbiya al-Awlad fi al-Islam*** | Syekh Abdullah Nashih Ulwan | Pengasuhan anak komprehensif (iman, fisik, rasional, psikologis). | **Domain 07, 09** |
+| **21** | ***Manhaj at-Tarbiyah al-Islamiyyah*** | Muhammad Qutb | Metode pendidikan Islam yang menyelaraskan akal, emosi, & jiwa. | **Domain 01, 08** |
+| **22** | ***Al-Tarbiyah al-Islamiyyah wa Falsafatuha*** | Dr. Majid Irsan Al-Kilani | Generasi penggerak (*Mover*) & rekonstruksi peradaban Islam. | **Domain 04 (T4)** |
+| **23** | ***Akhlaq an-Nabi fi Al-Qur'an*** | Abu Asy-Syaikh Al-Ashbahani | Akhlak Rasulullah SAW sebagai puncak *Qudwah Hasanah*. | **Domain 02** |
+| **24** | ***Kitab Al-Wara'*** | Imam Ahmad bin Hanbal (w. 241 H) | Sifat warak, integritas moral, & pemeliharaan diri dari syubhat. | **Domain 03** |
+| **25** | ***Al-Kafiyah fi Al-Adab*** | Syekh Ibn Al-Hajj Al-Abdari (w. 737 H) | Adab harian pesantren, tata krama makan nampan, & kebersihan asrama. | **Domain 07, 10** |

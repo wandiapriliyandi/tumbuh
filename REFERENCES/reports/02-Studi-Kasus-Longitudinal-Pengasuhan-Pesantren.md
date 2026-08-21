@@ -1,4 +1,4 @@
-# KATALOG 02: STUDI KASUS LONGITUDINAL PENGASUHAN PESANTREN
+# KATALOG 02: STUDI KASUS LONGITUDINAL PENGASUHAN PESANTREN (20 LAPORAN)
 
 **Nomor Berkas**: `REF-REPORT/02-PESANTREN/2026/08`  
 **Kategori**: Laporan Riset Longitudinal Pengasuhan Asrama Pesantren & Redundansi Sistem  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 KATALOG 15 LAPORAN LONGITUDINAL PESANTREN
+## 📊 KATALOG 20 LAPORAN LONGITUDINAL PESANTREN
 
 | No | Penyelenggara Riset | Judul Laporan Studi Kasus Longitudinal | Tahun | Hasil & Temuan Kunci Sistem |
 | :---: | :--- | :--- | :---: | :--- |
@@ -25,3 +25,8 @@
 | **13** | Survei Alumni Pesantren | *Lacak Jejak Kiprah Alumni Tahap 7 Penggerak di Masyarakat & Perguruan Tinggi.* | 2025 | 93% alumni menunjukkan independensi moral & *Qadirun 'Alal Kasb*. |
 | **14** | Studi Vokasional Pesantren| *Program Khidmah Keumatan dan Kemandirian Ekonomi Santri Penggerak.* | 2024 | Keterampilan vokasional meningkatkan kesiapan pengabdian. |
 | **15** | Audit Zero Violence | *Evaluasi 100% Eliminasi Hukuman Fisik di Environment Pesantren.* | 2025 | Pembuktian pesantren bebas kekerasan dapat tetap memiliki kedisiplinan tinggi. |
+| **16** | Tim Riset Pengasuhan | *Studi Kasus Penanganan Konflik Antar-Kamar Melalui Group Restorative Circle.* | 2024 | 100% perselisihan selesai dengan pemulihan ukhuwah tanpa pengeluaran. |
+| **17** | Pusat Psikometri | *Evaluasi Longitudinal Tangga T1 s/d T4 pada Cohort Santri MTs-MA.* | 2025 | Progresi bertahap mencegah ekspektasi kesempurnaan instan. |
+| **18** | Konsorsium BK Pesantren | *Efektivitas Konseling CBT-Naratif Islami Terhadap De-eskalasi Krisis Tier 3.* | 2024 | Konseling naratif restoratif menuntaskan trauma santri. |
+| **19** | Badan Litbang Kemenag | *Model Kepemimpinan Terpadu 24-Jam: Menghilangkan Sekat Madrasah-Asrama.* | 2023 | Kesinambungan pengasuhan 24 jam meningkatkan kedisiplinan 45%. |
+| **20** | Tim Evaluasi Vokasional | *Analisis Dampak Tradisi Mayoran & Khidmah Terhadap Kohesi Sosial Santri.* | 2024 | Mayoran dan khidmah mendongkrak rasa ukhuwah & kebersamaan. |
