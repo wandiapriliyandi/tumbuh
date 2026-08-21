@@ -19,6 +19,7 @@ graph TD
 
 ## 📚 Indeks Dokumen Simulasi Sistem
 
+* 📊 **[Matriks-Data-Simulasi-100-Santri-Per-Anak-Longitudinal.md](./Matriks-Data-Simulasi-100-Santri-Per-Anak-Longitudinal.md)**: **Matriks Data Individual 100 Santri (S-001 s/d S-100)** dengan 100 Kondisi Baseline Berbeda & Track Record Per-Tahun Per-Anak.
 * 📄 **[Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md](./Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md)**: Laporan Naratif Komprehensif Simulasi Cohort 100 Santri (Tahun 1 s/d Tahun 7).
 * 📊 **[Data-Analitik-Simulasi-100-Santri.md](./Data-Analitik-Simulasi-100-Santri.md)**: Matriks Kuantitatif, Statistik SW-PBIS Multi-Tier, & Grafik Pertumbuhan Ipsatif 10 Muwashafat.
 
