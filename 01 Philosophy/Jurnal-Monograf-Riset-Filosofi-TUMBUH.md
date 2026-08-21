@@ -164,8 +164,6 @@ graph TD
 
 ## 6. REKOMENDASI ROADMAP PENGEMBANGAN SISTEMIK
 
-Berdasarkan tuntasnya validasi filosofis pada Projek 1, roadmap pengembangan ekosistem TUMBUH direkomendasikan melangkah pada tahapan berikut:
-
 ```mermaid
 graph LR
     P1["01 Philosophy<br/>(Fondasi Tervalidasi)"] --> P2["02 Principles<br/>(Prinsip Desain Operasional)"]
@@ -174,51 +172,56 @@ graph LR
     P5 --> P7["07-11 Implementation, Tools & App<br/>(SOP, Logbook Musyrif & SIM Digital)"]
 ```
 
-1. **Tahap 1: Perumusan Prinsip Desain Operasional (`02 Principles`)**: Menurunkan 10 Aksioma dan Triad Pertumbuhan menjadi kaidah baku tata kelola dan pedagogi harian.
-2. **Tahap 2: Standardisasi Taksonomi Kapasitas (`03 Capacity Framework` & `04 Progression Framework`)**: Menetapkan 10 Karakter Santri TUMBUH, indikator capaian, dan rubrik perkembangan tangga T1–T4.
-3. **Tahap 3: Desain Instrumen & Panduan Praktik (`05-11 Frameworks, Methods, Tools`)**: Menyusun form asesmen 360 derajat, panduan dialog restoratif, playbook musyrif, dan SOP penanganan kasus.
-4. **Tahap 4: Digitalisasi Platform Pesantren (`P10 App / Digital Tools`)**: Membangun web application logbook musyrif, dashboard analitik PBIS kesiswaan, dan rapor karakter santri.
+---
+
+## 7. OPERASIONALISASI PRAKTIS: MATRIKS PENERJEMAHAN AKSIOMA KE KAMAR ASRAMA
+
+| No | Aksioma Filosofis Worldview | Skenario Kejadian di Asrama | Tindakan Konkrit Musyrif / Ustadz | Tindakan Terlarang (Pelanggaran Aksioma) |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Hakikat Sumber Kebenaran** | Santri mempertanyakan aturan larangan gadget/konten tidak beradab. | Menjelaskan hikmah syariat & kehormatan diri (*Iffah*) berbasis wahyu dengan kelembutan. | Menjawab dengan emosi: *"Aturan ya aturan, jangan banyak protes!"* |
+| **2** | **Hakikat Manusia & Fitrah** | Santri melanggar aturan kebersihan kamar atau terlambat. | Menggunakan pendekatan *Husnudzan Aktif*: melihat santri sebagai pribadi baik yang butuh bimbingan adab. | Melabeli santri dengan julukan buruk (*"anak nakal", "pemalas", "pembuat onar"*). |
+| **3** | **Tujuan Kehidupan** | Santri enggan piket kamar atau malas berorganisasi. | Mengajarkan bahwa piket & khidmah adalah bagian dari amanah kepemimpinan dan ibadah muamalah. | Menganggap piket hanya tugas mekanis sepele tanpa nilai spiritual. |
+| **4** | **Makna Pertumbuhan (*Al-Inma'*)**| Santri menunjukkan kemajuan adab meski hafalannya lambat. | Memberikan apresiasi positif (*Poin PBIS*) atas pertumbuhan karakter tanpa mendiskriminasi hafalan. | Membanding-bandingkan santri secara destruktif dengan kawan yang lebih cepat. |
+| **5** | **Makna Keberhasilan** | Pembagian raport akhir semester di pesantren. | Menonjolkan grafik radar pertumbuhan adab dan catatan kualitatif motivasi Musyrif. | Hanya memuji santri juara 1 akademik dan mengabaikan santri berakhlak mulia. |
+| **6** | **Poros Gravitasi Tauhid** | Membangunkan santri untuk Sholat Subuh berjamaah. | Menggunakan pendekatan *Fiqhu al-Inhadh*: membangunkan dengan nada hangat, sentuhan lembut, & doa Subuh. | Menyiram air, membentak keras, atau memukul tempat tidur dengan kayu. |
+| **7** | **Hakikat Interaksi Sosial** | Terjadi perselisihan/ejekan antar-santri senior & junior. | Menghentikan ejekan seketika, mengadakan *Restorative Chat*, dan menegakkan iklim aman. | Membiarkan senior mengintimidasi junior dengan alasan "pendisiplinan senioritas". |
+| **8** | **Tanggung Jawab Lingkungan** | Sampah berserakan di sekitar halaman kamar asrama. | Mengajak santri kerja bakti bersama (*Mayoran & Khidmah*) dengan teladan Musyrif turun tangan. | Memerintah santri membersihkan sampah sementara Musyrif hanya mengawasi sambil main HP. |
+| **9** | **Integrasi Ilmu Pengetahuan** | Kajian materi kebersihan & kesehatan reproduksi remaja. | Memadukan sunnah thaharah Turats dengan sains kebersihan medis & neurosains perkembangan. | Memisahkan pelajaran syariat dari fakta sains medis secara dikotomis. |
+| **10**| **Waktu & Sunnatullah Proses** | Santri baru (T1) masih mengalami *homesick* & lupa jadwal. | Memfasilitasi proses adaptasi bertahap (*Scaffolding*) & *Peer Buddy T4* tanpa menuntut sempurna. | Menuntut santri T1 langsung mandiri total seperti santri T4 di minggu pertama. |
 
 ---
 
-## 7. DAFTAR PUSTAKA KOMPREHENSIF (REFERENCES)
+## 8. LANDASAN SYAR'I & DE-SEKULARISASI ILMU (INTEGRASI SAINS & TURATS)
+
+### 8.1. Dalil Syar'i & Kaidah Fiqih Integrasi Sains
+1. **Dalil Hikmah (HR. Tirmidzi)**: Metodologi sains empiris mengenai perilaku manusia (PBIS dan neurosains) yang terbukti membawa kemaslahatan adalah bagian dari *Hikmah* yang wajib diserap dan dinaungi di bawah tauhid.
+2. **Kaidah Al-Aslu fil-Asy-ya'i al-Ibahah**: Penggunaan instrumen manajemen perilaku (Kartu CICO, aplikasi digital, rubrik PBIS) adalah sarana (*Wasilah*) muamalah pendidikan yang hukum asalnya BOLEH.
+3. **Kaidah Ma La Yatimmu al-Wajib Illa Bihi Fahuwa Wajib**: Menjaga keharmonisasi asrama dan melindungi santri dari kekerasan fisik (*Hifzh an-Nafs*) adalah WAJIB.
+
+### 8.2. Tabel Jawaban atas Sanggahan & Salah Paham
+
+| Sanggahan / Salah Paham | Jawaban Dalil Syar'i & Epistemologis | Rujukan Ulama & Sains |
+| :--- | :--- | :--- |
+| *"Mengapa memakai PBIS dan CASEL SEL dari Barat? Apakah Turats tidak cukup?"* | Turats memberikan **Prinsip Nilai Moral Absolute (*Ghayah*)**, sedangkan PBIS/SEL memberikan **Tools Teknis Empiris (*Wasilah*)**. Memadukan keduanya adalah sunnah ulama klasik. | *Dar'u Ta'arud* (Ibn Taimiyyah); HR. Tirmidzi tentang Hikmah. |
+| *"Menghilangkan hukuman fisik akan membuat santri manja dan tidak tahan banting."* | Rasulullah SAW tidak pernah memukul anak/istri sepanjang hidupnya. Ketahanan banting (*Grit*) terbentuk melalui tantangan beradab (*Scaffolding T1-T4*), bukan dari trauma fisik. | HR. Muslim (Kelembutan Rasulullah); *Atomic Habits* (Clear, 2018). |
+| *"Pencatatan data perilaku PBIS mengurangi keikhlasan Musyrif."* | Pencatatan data adalah bentuk **Tabayyun** (klarifikasi objektif - QS. Al-Hujurat: 6) dan pencatatan ketertiban (*Kitabah* - QS. Al-Baqarah: 282). | QS. Al-Hujurat: 6; *Ihya' 'Ulumiddin* (Al-Ghazali). |
+
+---
+
+## 9. DAFTAR PUSTAKA KOMPREHENSIF (REFERENCES)
 
 ### Khazanah Turats & Literatur Islam
-* Al-Attas, S. M. N. (1978). *Islam and Secularism*. Muslim Youth Movement of Malaysia (ABIM).
-* Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. International Institute of Islamic Thought and Civilization (ISTAC).
+* Al-Attas, S. M. N. (1978). *Islam and Secularism*. ABIM.
 * Al-Ghazali, Abu Hamid. (1998). *Ihya' 'Ulum ad-Din* (4 Jilid). Dar al-Kutub al-'Ilmiyyah.
-* Ibn Jama'ah, Badruddin. (2012). *Tadzkirah as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*. Dar al-Basyair al-Islamiyyah.
-* Ibn Taimiyyah, Taqi ad-Din. (1991). *Dar' Ta'arud al-'Aql wa an-Naql* (11 Jilid). Jami'ah al-Imam Muhammad Ibn Saud.
-* Ibnul Qayyim al-Jauziyyah. (2003). *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*. Dar al-Hadits.
-* Raghib al-Isfahani. (2009). *Adz-Dzari'ah ila Makarim asy-Syari'ah*. Dar as-Salam.
+* Ibn Jama'ah, Badruddin. (2012). *Tadzkirah as-Sami' wa al-Mutakallim*. Dar al-Basyair.
+* Ibn Taimiyyah, Taqi ad-Din. (1991). *Dar' Ta'arud al-'Aql wa an-Naql*. Jami'ah al-Imam.
+* Ibnul Qayyim al-Jauziyyah. (2003). *Madarijus Salikin*. Dar al-Hadits.
 
 ### Literatur Sains Internasional & Peer-Reviewed Journals
-* Bandura, A. (1977). *Social Learning Theory*. Prentice-Hall.
-* Baumrind, D. (1991). The influence of parenting style on adolescent competence and substance use. *The Journal of Early Adolescence*, 11(1), 56–95.
-* Bhaskar, R. (1975). *A Realist Theory of Science*. Leeds Books.
-* Bowlby, J. (1982). *Attachment and Loss: Vol. 1. Attachment* (2nd ed.). Basic Books.
-* CASEL. (2020). *CASEL's SEL Framework: What Are the Core Competence Areas?* Collaborative for Academic, Social, and Emotional Learning.
-* Clear, J. (2018). *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones*. Avery.
-* Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.
-* Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development*, 82(1), 405–432.
-* Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.
-* Edmondson, A. C. (2018). *The Fearless Organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth*. John Wiley & Sons.
-* Frankl, V. E. (1946). *Man's Search for Meaning*. Beacon Press.
-* Gottman, J. M., & Levenson, R. W. (1992). Marital processes predictive of later dissolution: Behavior, physiology, and health. *Journal of Personality and Social Psychology*, 63(2), 221–233.
-* Greenleaf, R. K. (1977). *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness*. Paulist Press.
-* Hattie, J. (2009). *Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*. Routledge.
-* Horner, R. H., & Sugai, G. (2015). School-wide PBIS: An example of applied behavior analysis implemented at a scale of social importance. *Behavior Analysis in Practice*, 8(1), 80–85.
-* Kouzes, J. M., & Posner, B. Z. (2017). *The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations* (6th ed.). Wiley.
-* Lemov, D. (2015). *Teach Like a Champion 2.0: 62 Techniques That Put Students on the Path to College*. Jossey-Bass.
-* McLaughlin, K. A., Weissman, D., & Bitrán, D. (2019). Childhood adversity and neural development: A systematic review. *Annual Review of Developmental Psychology*, 1, 277–312.
-* Nelsen, J., Lott, L., & Glenn, H. S. (2000). *Positive Discipline in the Classroom: Developing Mutual Respect, Cooperation, and Responsibility in Your Classroom*. Prima Publishing.
-* Senge, P. M. (1990). *The Fifth Discipline: The Art and Practice of the Learning Organization*. Doubleday.
-* Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review*, 28(1), 78–106.
-* Sugai, G., & Horner, R. H. (2002). The evolution of discipline practices: School-wide positive behavior supports. *Child & Family Behavior Therapy*, 24(1-2), 23–50.
-* Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.
-* Teicher, M. H., Samson, J. A., Anderson, C. M., & Ohashi, K. (2016). The effects of childhood maltreatment on brain structure, function and connectivity. *Nature Reviews Neuroscience*, 17(10), 652–666.
-* Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
-* Wiggins, G., & McTighe, J. (2005). *Understanding by Design* (2nd ed.). ASCD.
-* Wood, W., & Neal, D. T. (2009). The habitual consumer. *Journal of Consumer Psychology*, 19(4), 579–592.
+* Baumrind, D. (1991). Authoritative parenting. *Journal of Early Adolescence*, 11(1), 56–95.
+* CASEL. (2020). *CASEL's SEL Framework*. Collaborative for Academic, Social, and Emotional Learning.
+* Clear, J. (2018). *Atomic Habits*. Avery.
+* Deci, E. L., & Ryan, R. M. (2000). Self-determination theory. *Psychological Inquiry*, 11(4), 227–268.
+* Horner, R. H., & Sugai, G. (2015). School-wide PBIS. *Behavior Analysis in Practice*, 8(1), 80–85.
+* Kouzes, J. M., & Posner, B. Z. (2017). *The Leadership Challenge*. Wiley.
 * Zehr, H. (2002). *The Little Book of Restorative Justice*. Good Books.
-* Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice*, 41(2), 64–70.

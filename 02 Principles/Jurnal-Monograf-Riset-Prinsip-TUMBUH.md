@@ -64,14 +64,38 @@ graph TD
 
 ---
 
-## 4. IMPLIKASI KEBIJAKAN & MODEL PENERAPAN
+## 4. OPERASIONALISASI NADA SUARA & GESTUR FIRM & KIND
+
+| Dimensi Komunikasi | Tegas & Ramah (*Firm & Kind*) [STANDAR] | Otoriter / Bentakan [TERLARANG] | Permisif / Pembiaran [TERLARANG] |
+| :--- | :--- | :--- | :--- |
+| **Nada Suara** | Tenang, stabil, rendah-sedang, artikulasi jelas tanpa teriakan. | Tinggi, melengking, membentak, kasar, sarkastik. | Lemah, ragu-ragu, memohon, tidak konsisten. |
+| **Kontak Mata & Wajah**| Kontak mata privat hangat, selevel (duduk/menunduk), ekspresi serius-empatis. | Melotot tajam, mengintimidasi, wajah marah, berdiri berkacak pinggang. | Menghindari kontak mata, mengabaikan pelanggaran. |
+| **Gestur Tubuh** | Terbuka, mendekati privat, tanpa ancaman fisik. | Menunjuk wajah dengan telunjuk, mengepalkan tangan, mendobrak pintu. | Pasif, tidak bertindak saat aturan dilanggar. |
+| **Pilihan Kata** | Berfokus pada aturan & solusi: *"Aturan kamar adalah rapi. Mari perbaiki bersama."* | Mempermalukan & melabeli: *"Kamu ini memang pemalas, tidak tahu diri!"* | Membiarkan: *"Ya sudah lah, terserah kamu mau merapikan atau tidak."* |
+
+---
+
+## 5. PEMBUKTIAN SYAR'I & NEUROSAINS ELIMINASI KEKERASAN
+
+1. **Teladan Agung Rasulullah SAW & Kitab Muqaddimah**:
+   * Rasulullah SAW tidak pernah memukul anak/istri sepanjang hidup beliau (HR. Muslim).
+   * Ibn Khaldun menulis: *"Barangsiapa yang dididik dengan cara keras dan paksaan, maka paksaan itu akan menyempitkan jiwanya dan mendorongnya untuk berbohong."*
+
+2. **Pembentukan Ketahanan Banting (*Grit*) Sejati**:
+   * Ketahanan mental (*Grit* - Duckworth, 2016) terbentuk melalui **peningkatan taraf tantangan secara bertahap (*Scaffolding*) dalam lingkungan yang aman (*Psychological Safety*)**, bukan melalui trauma fisik yang merusak *Prefrontal Cortex*.
+
+---
+
+## 6. IMPLIKASI KEBIJAKAN & MODEL PENERAPAN
 
 1. **Kodifikasi SOP Anti-Kekerasan**: Penetapan larangan mutlak terhadap hukuman fisik (pemukulan, pemotongan rambut acak, running punishment) dan pembentakan lisan.
 2. **Transformasi Senioritas Pengurus OSIS**: Pengurus OSIS T4 diubah perannya menjadi *Servant Leader* dan *Peer Mentor*, mencabut seluruh hak menghukum junior.
 
 ---
 
-## 5. DAFTAR PUSTAKA
+## 7. DAFTAR PUSTAKA
 * Al-Ghazali, A. H. (1998). *Ihya' 'Ulum ad-Din*. Dar al-Kutub al-'Ilmiyyah.
 * Baumrind, D. (1991). The influence of parenting style on adolescent competence. *Journal of Early Adolescence*, 11(1), 56–95.
+* Duckworth, A. (2016). *Grit: The Power of Passion and Perseverance*. Scribner.
 * Nelsen, J. (2000). *Positive Discipline in the Classroom*. Prima Publishing.
+* Teicher, M. H., et al. (2016). Effects of childhood maltreatment on brain structure. *Nature Reviews Neuroscience*, 17(10), 652–666.
