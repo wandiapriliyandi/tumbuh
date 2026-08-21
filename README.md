@@ -19,12 +19,13 @@ graph TD
 
 ---
 
-## 🛑 ANALISIS KENDALA & MITIGASI RISIKO LAPANGAN
+## 🛑 ANALISIS KENDALA, MITIGASI RISIKO, & TAKSONOMI PERMASALAHAN PESANTREN
 
-Repositori ini dilengkapi **Folder Khusus Kendala & Mitigasi** yang membedah 7 kendala utama penerapan ekosistem di lapangan beserta solusi mitigasinya:
+Repositori ini dilengkapi **Folder Khusus Kendala & Mitigasi** yang membedah Taksonomi 6 Klaster Permasalahan Dunia Pesantren dan 14 Kendala Utama Penerapan Ekosistem dalam 5 Kategori Master:
 
 * 📁 **[`KENDALA_DAN_MITIGASI/`](./KENDALA_DAN_MITIGASI/README.md)**: Direktori Utama Analisis Kendala Operasional & Strategi Mitigasi.
-  * 📄 **[`Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md`](./KENDALA_DAN_MITIGASI/Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md)**: Naskah Kajian Akademis 7 Kendala Utama & Solusi Mitigasinya.
+  * 📜 **[`Taksonomi-Komprehensif-Permasalahan-Pesantren-dan-Kategori-Kendala.md`](./KENDALA_DAN_MITIGASI/Taksonomi-Komprehensif-Permasalahan-Pesantren-dan-Kategori-Kendala.md)**: Dokumen Master Taksonomi 6 Klaster Permasalahan Pesantren & 5 Kategori Master Kendala.
+  * 📄 **[`Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md`](./KENDALA_DAN_MITIGASI/Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md)**: Naskah Kajian Akademis 14 Kendala Utama dalam 5 Kategori Master.
   * 📊 **[`Matriks-Mitigasi-Risiko-dan-SOP-Darurat.md`](./KENDALA_DAN_MITIGASI/Matriks-Mitigasi-Risiko-dan-SOP-Darurat.md)**: Matriks Level Risiko, Dampak, RACI, & SOP Contingency Plan Darurat.
 
 ---
@@ -79,7 +80,7 @@ Repositori ini dikembangkan dan diaudit oleh **22 Custom Skills Dewan Keilmuan**
 
 ## 📖 Rujukan & Dokumentasi Pendukung
 
-- 🛑 **[KENDALA_DAN_MITIGASI/README.md](./KENDALA_DAN_MITIGASI/README.md)**: Analisis 7 Kendala Utama Penerapan & SOP Mitigasi Risiko Lapangan.
+- 🛑 **[KENDALA_DAN_MITIGASI/README.md](./KENDALA_DAN_MITIGASI/README.md)**: Analisis 14 Kendala Utama & Taksonomi 6 Klaster Permasalahan Pesantren.
 - 📊 **[SIMULASI/README.md](./SIMULASI/README.md)**: Sistem Pemodelan Cohort 100 Santri (Kelas 7 s/d Tahap 7 Penggerak).
 - 🔍 **[REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md](./REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md)**: Dokumen Bedah Kritis & Evaluasi Kekurangan 11 Domain Proyek.
 - 🛡️ **[REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md](./REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md)**: Laporan Audit Kualitas Akademis & Kepatuhan Resmi (Predikat A+ Paripurna).

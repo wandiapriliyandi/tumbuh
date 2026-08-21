@@ -1,7 +1,7 @@
 # KENDALA DAN MITIGASI: ANALISIS TANTANGAN OPERASIONAL LAPANGAN EKOSISTEM TUMBUH
-## Kajian Komprehensif 14 Obstacles Penerapan, Risk Matrix, dan Standar Operasional Mitigasi Sistem di Pesantren
+## Kajian Komprehensif Taksonomi 6 Klaster Masalah Pesantren, 5 Kategori Master Kendala (14 Obstacles), Risk Matrix, dan Standar Operasional Mitigasi
 
-Direktori ini memuat dokumen analisis riset mendalam mengenai **14 Kendala Utama Penerapan Ekosistem TUMBUH di Lapangan** beserta kerangka solusi mitigasi terintegrasi (*Risk Mitigation & Contingency Plans*).
+Direktori ini memuat dokumen analisis riset mendalam mengenai **Taksonomi Komprehensif Permasalahan Pesantren** dan **14 Kendala Utama Penerapan Ekosistem TUMBUH di Lapangan** beserta kerangka solusi mitigasi terintegrasi (*Risk Mitigation & Contingency Plans*).
 
 ---
 
@@ -30,5 +30,6 @@ graph TD
 
 ## 📚 Indeks Dokumen Induk Kendala & Mitigasi
 
-* 📄 **[Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md](./Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md)**: **Naskah Kajian Ilmiah Utuh 14 Kendala Utama & Strategi Mitigasinya**.
+* 📜 **[Taksonomi-Komprehensif-Permasalahan-Pesantren-dan-Kategori-Kendala.md](./Taksonomi-Komprehensif-Permasalahan-Pesantren-dan-Kategori-Kendala.md)**: **Dokumen Master Taksonomi 6 Klaster Permasalahan Dunia Pesantren & Pengelompokan 5 Kategori Master Kendala System**.
+* 📄 **[Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md](./Analisis-Kendala-Penerapan-Sistem-TUMBUH-dan-Mitigasi.md)**: Naskah Kajian Ilmiah Utuh 14 Kendala Utama dalam 5 Kategori Master & Strategi Mitigasinya.
 * 📊 **[Matriks-Mitigasi-Risiko-dan-SOP-Darurat.md](./Matriks-Mitigasi-Risiko-dan-SOP-Darurat.md)**: Matriks Level Risiko, Dampak, RACI, & SOP Contingency Plan Darurat (14 Indikator).
