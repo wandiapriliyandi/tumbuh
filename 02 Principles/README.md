@@ -4,7 +4,15 @@ Direktori ini memuat kaidah-kaidah baku (*Principles & Axioms*) yang menjadi ped
 
 ---
 
-## Struktur Sub-Domain
+## Struktur Sub-Domain & Dokumen Penyempurnaan
+
+* 📄 **[Jurnal-Monograf-Riset-Prinsip-TUMBUH.md](./Jurnal-Monograf-Riset-Prinsip-TUMBUH.md)**: Monograf riset akademik lengkap Aksiomatika Prinsip Baku Pembinaan.
+* 🛠️ **[P2-01-Panduan-Praktis-Nada-Suara-dan-Gestur-Firm-and-Kind.md](./P2-01-Panduan-Praktis-Nada-Suara-dan-Gestur-Firm-and-Kind.md)**: Operasionalisasi nada suara, gestur, & skenario dialog *Firm & Kind*.
+* 🛡️ **[P2-01-Panduan-Syar'i-Eliminasi-Kekerasan-dan-Resistensi-Senioritas.md](./P2-01-Panduan-Syar'i-Eliminasi-Kekerasan-dan-Resistensi-Senioritas.md)**: Pembuktian Ilmiah-Teologis *Zero Violence* & Redam Resistensi Senioritas.
+
+---
+
+## Direktori Sub-Domain
 
 * 📂 **[01 Core Principles](./01%20Core%20Principles/)**: 7 Prinsip Utama Ekosistem TUMBUH (Triad Pertumbuhan, Fitrah, Qudwah, Disiplin Restoratif, PBIS, Tadarruj, Tauhidul Haqiqah).
 * 📂 **[02 Design Principles](./02%20Design%20Principles/)**: Prinsip Arsitektur Perancangan Sistem, Kurikulum, dan Lingkungan Asrama.
