@@ -1,7 +1,7 @@
 # Ekosistem TUMBUH Pesantren
-## Model Integratif Pembinaan Santri, Pengasuhan Asrama 24-Jam, SW-PBIS Multi-Tier, & Restoratif Disiplin Berbasis Fitrah dan Turats Islam
+## Induk Naskah Kajian Penelitian & Monograf Riset Akademis Sistem Pembinaan Santri 24-Jam Berbasis Fitrah dan Turats Islam
 
-**TUMBUH** (*Tarbiyah, Ukhuwah, Mutawaazin, Barakah, Unggul, & Hasanah*) adalah kerangka kerja (*framework*) dan ekosistem pendidikan karakter terpadu 24-jam di lingkungan pesantren. Ekosistem ini mengintegrasikan kekayaan **Turats Islam** (*Ta'dib, Tazkiyatun Nafs, Qudwah Hasanah*) dengan konsensus **Sains Pembelajaran Modern** (*SW-PBIS Multi-Tier, CASEL SEL, Neurosains Perkembangan, Self-Determination Theory, & Whole-School Restorative Justice*).
+**TUMBUH** (*Tarbiyah, Ukhuwah, Mutawaazin, Barakah, Unggul, & Hasanah*) adalah kerangka kerja (*framework*) dan ekosistem pendidikan karakter terpadu 24-jam di lingkungan pesantren. Seluruh repositori ini dirancang sebagai **Naskah Kajian Penelitian Akademis & Monograf Riset (*Academic Research Monograph & Journal Papers*)** yang mengintegrasikan kekayaan **Turats Islam** (*Ta'dib, Tazkiyatun Nafs, Qudwah Hasanah*) dengan konsensus **Sains Pembelajaran Modern** (*SW-PBIS Multi-Tier, CASEL SEL, Neurosains Perkembangan, Self-Determination Theory, & Whole-School Restorative Justice*).
 
 ---
 
@@ -19,23 +19,23 @@ graph TD
 
 ---
 
-## 📚 Navigasi Master 11 Domain Arsitektur TUMBUH
+## 📚 Navigasi Master 11 Domain Naskah Kajian Penelitian (*Research Monographs*)
 
- Seluruh kerangka kerja disusun secara berjenjang dalam **11 Domain Utama** yang saling terhubung:
+ Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama** yang memuat Monograf Riset Ilmiah masing-masing:
 
-| Domain | Deskripsi Kerangka Kerja | Indeks Dokumen Master |
+| Domain | Deskripsi Naskah Kajian Penelitian Akademis | Naskah Monograf Riset Utama |
 | :--- | :--- | :--- |
-| **01 Philosophy** | Falsafah dasar, worldview tauhid, ontologi fitrah, & meta-naratif TUMBUH. | 📄 [01 Philosophy/README.md](./01%20Philosophy/README.md) |
-| **02 Principles** | 10 Prinsip baku pembinaan, *Firm & Kind*, & eliminasi mutlak hukuman fisik/feodalisme. | 📄 [02 Principles/README.md](./02%20Principles/README.md) |
-| **03 Capacity Framework** | Kerangka kapasitas 10 Muwashafat karakter & pengembangan kompetensi santri. | 📄 [03 Capacity Framework/README.md](./03%20Capacity%20Framework/README.md) |
-| **04 Progression Framework**| Trajektori biososial-spiritual & 4 Tangga TUMBUH (T1 Adaptasi $\rightarrow$ T4 Qudwah). | 📄 [04 Progression Framework/README.md](./04%20Progression%20Framework/README.md) |
-| **05 Assessment Framework** | Sistem asesmen ipsatif, validasi psikometri, & evaluasi pertumbuhan berkelanjutan. | 📄 [05 Assessment Framework/README.md](./05%20Assessment%20Framework/README.md) |
-| **06 Intervention Framework**| Sistem intervensi PBIS Multi-Tier (Tier 1-3), de-eskalasi ghadhab, & restoratif. | 📄 [06 Intervention Framework/README.md](./06%20Intervention%20Framework/README.md) |
-| **07 Implementation Framework**| Struktur organisasi terpadu 24-jam (Tanpa Dikotomi Madrasah-Asrama) & SOP Kerja. | 📄 [07 Implementation Framework/README.md](./07%20Implementation%20Framework/README.md) |
-| **08 Integrated Approaches**| Integrasi pendekatan PBIS, CASEL SEL, Mentoring, Coaching, & Restorative Circle. | 📄 [08 Integrated Approaches/README.md](./08%20Integrated%20Approaches/README.md) |
-| **09 Programs** | Program 24-jam (Core, Character, Leadership Qudwah T4, Institutional, Special). | 📄 [09 Programs/README.md](./09%20Programs/README.md) |
-| **10 Methods** | Metodologi pedagogi (Sorogan, Bandongan, Suhbah 1-on-1, GROW, Habit Loop 66-Hari). | 📄 [10 Methods/README.md](./10%20Methods/README.md) |
-| **11 Tools** | Rubrik 10 Muwashafat, Logbook Musyrif App, CICO Card, & Arsitektur Database Digital. | 📄 [11 Tools/README.md](./11%20Tools/README.md) |
+| **01 Philosophy** | Kajian Ontologi Fitrah, Epistemologi Turats, & Worldview Islam. | 📄 [Jurnal Monograf Riset Filosofi](./01%20Philosophy/Jurnal-Monograf-Riset-Filosofi-TUMBUH.md) |
+| **02 Principles** | Kajian Aksiomatika Prinsip Baku Pembinaan, *Firm & Kind*, & Zero Violence. | 📄 [Jurnal Monograf Riset Prinsip](./02%20Principles/Jurnal-Monograf-Riset-Prinsip-TUMBUH.md) |
+| **03 Capacity Framework** | Kajian Taksonomi Kapasitas Holistik & 10 Muwashafat Karakter Santri. | 📄 [Jurnal Monograf Riset 10 Muwashafat](./03%20Capacity%20Framework/Jurnal-Monograf-Riset-Kapasitas-10-Muwashafat-TUMBUH.md) |
+| **04 Progression Framework**| Kajian Trajektori Biososial-Spiritual & Gradualisme Tangga T1-T4. | 📄 [Jurnal Monograf Riset Progresi Tangga](./04%20Progression%20Framework/Jurnal-Monograf-Riset-Progresi-Tangga-TUMBUH.md) |
+| **05 Assessment Framework** | Kajian Asesmen Ipsatif, Validasi Psikometri, & Evaluasi Pertumbuhan. | 📄 [Jurnal Monograf Riset Asesmen Ipsatif](./05%20Assessment%20Framework/Jurnal-Monograf-Riset-Asesmen-Ipsatif-TUMBUH.md) |
+| **06 Intervention Framework**| Kajian Arsitektur Intervensi PBIS Multi-Tier 1-3 & Disiplin Restoratif. | 📄 [Jurnal Monograf Riset Intervensi PBIS](./06%20Intervention%20Framework/Jurnal-Monograf-Riset-Intervensi-PBIS-Restoratif-TUMBUH.md) |
+| **07 Implementation Framework**| Kajian Struktur Terpadu 24-Jam Non-Dikotomis & Tata Kelola Pengasuhan. | 📄 [Jurnal Monograf Riset Struktur Pengasuhan](./07%20Implementation%20Framework/Jurnal-Monograf-Riset-Struktur-Terpadu-Pengasuhan.md) |
+| **08 Integrated Approaches**| Kajian Sintesis Pendekatan Terintegrasi (PBIS, SEL, Mentoring, Coaching). | 📄 [Jurnal Monograf Riset Pendekatan Terintegrasi](./08%20Integrated%20Approaches/Jurnal-Monograf-Riset-Pendekatan-Terintegrasi-TUMBUH.md) |
+| **09 Programs** | Kajian Kerangka Kerja Program Pembinaan 24-Jam & Program Unggulan. | 📄 [Jurnal Monograf Riset Program 24Jam](./09%20Programs/Jurnal-Monograf-Riset-Program-Pembinaan-24Jam-TUMBUH.md) |
+| **10 Methods** | Kajian Metodologi Didaktik Turats (Sorogan/Bandongan) & Habit Loop 66-Hari. | 📄 [Jurnal Monograf Riset Metodologi Pedagogi](./10%20Methods/Jurnal-Monograf-Riset-Metodologi-Pedagogi-TUMBUH.md) |
+| **11 Tools** | Kajian Instrumen Operasional, Rubrik 10 Muwashafat, & Arsitektur Digital App. | 📄 [Jurnal Monograf Riset Digital Tools](./11%20Tools/Jurnal-Monograf-Riset-Instrumen-dan-Arsitektur-Digital-TUMBUH.md) |
 
 ---
 
