@@ -19,10 +19,13 @@ graph TD
 
 ---
 
-## Indeks Dokumen Induk & Jurnal Riset
+## Indeks Dokumen Induk, Jurnal Riset, & Panduan Penyempurnaan
+
 * 📄 **[P1-00-Model-Pertumbuhan-Triadik.md](./P1-00-Model-Pertumbuhan-Triadik.md)**: **Maha-Prinsip Triad Pertumbuhan Simbiotik (Santri Tumbuh, Guru Tumbuh, Sistem Tumbuh)**.
 * 📄 **[Jurnal-Monograf-Riset-Filosofi-TUMBUH.md](./Jurnal-Monograf-Riset-Filosofi-TUMBUH.md)**: Monograf riset akademik lengkap, kajian kritis, dan analisis komprehensif.
 * 📄 **[P1-Pertanggungjawaban-Ilmiah-Filosofi-TUMBUH.md](./P1-Pertanggungjawaban-Ilmiah-Filosofi-TUMBUH.md)**: Laporan validitas ilmiah multi-disiplin global.
+* 🛠️ **[P1-01-Matriks-Penerjemahan-Aksioma-Filosofis-ke-Praktik-Asrama.md](./P1-01-Matriks-Penerjemahan-Aksioma-Filosofis-ke-Praktik-Asrama.md)**: Operasionalisasi 10 Aksioma Worldview dalam skenario tindakan harian Musyrif di kamar asrama.
+* 🛡️ **[P1-01-Panduan-Argumentasi-Syar'i-Integrasi-Sains-dan-Turats.md](./P1-01-Panduan-Argumentasi-Syar'i-Integrasi-Sains-dan-Turats.md)**: Panduan argumentasi Syar'i berbasis Fiqih & Epistemologi De-Sekularisasi Ilmu.
 
 ---
 
