@@ -41,6 +41,19 @@ Repositori ini dilengkapi **Folder Khusus Simulasi Sistem** yang menyimulasikan 
 
 ---
 
+## 📚 SERI BUKU MASTER EKOSISTEM TUMBUH (5 JILID MONOGRAF AKADEMIS)
+
+Repositori ini memuat karya rujukan ilmiah **Seri Buku Master TUMBUH (5 Volume)** yang merangkum seluruh fondasi filosofis, kurikuler, asesmen, intervensi restoratif, dan manual operasional pesantren:
+
+* 📁 **[`BOOK-SERIES/`](./BOOK-SERIES/README.md)**: Direktori Induk & Master Sitemap Seri Buku 5 Volume.
+  * 📘 **[Volume 01: Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren](./BOOK-SERIES/Volume-01/Buku-Volume-01-Akar-Filosofis-dan-Epistemologi-TUMBUH.md)**: Ontologi Fitrah, Sintesis Turats-Neurosains, Kritik Feodalisme, & Triad Pertumbuhan.
+  * 📗 **[Volume 02: Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH](./BOOK-SERIES/Volume-02/Buku-Volume-02-Taksonomi-Kapasitas-dan-10-Profil-Karakter.md)**: 10 Muwashafat Adab, Trajektori Remaja, Tangga T1–T4, & Tahap 7 Penggerak.
+  * 📙 **[Volume 03: Sistem Asesmen Perkembangan & Evaluasi Berbasis Bukti](./BOOK-SERIES/Volume-03/Buku-Volume-03-Sistem-Asesmen-Perkembangan-dan-Evaluasi.md)**: Asesmen Ipsatif Non-Ranking, Validasi Psikometrik (Aiken's V & Kappa), & Portofolio.
+  * 📕 **[Volume 04: Pedoman Intervensi Berjenjang PBIS & Praktik Restoratif di Asrama](./BOOK-SERIES/Volume-04/Buku-Volume-04-Pedoman-Intervensi-PBIS-dan-Praktik-Restoratif.md)**: Arsitektur Multi-Tier 1–3, CICO, FBA/BIP, Lingkaran Restoratif, & Ishlah Al-Bain.
+  * 📓 **[Volume 05: Manual Operasional, SOP Musyrif, & Tata Kelola Pesantren Modern](./BOOK-SERIES/Volume-05/Buku-Volume-05-Manual-Operasional-SOP-dan-Tata-Kelola-Pesantren.md)**: Dual-Pillar Walas-Musyrif, Jadwal 24-Jam, Anti-Burnout, & Safe School Protocols.
+
+---
+
 ## 📚 Navigasi Master 11 Domain Naskah Kajian Penelitian (*Research Monographs*)
 
 Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama** yang memuat Monograf Riset Ilmiah masing-masing:

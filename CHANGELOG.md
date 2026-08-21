@@ -21,5 +21,12 @@ Rilis perdana komprehensif ekosistem **TUMBUH** yang merampungkan **11 Domain Ar
 10. **10 Methods**: 7 Sub-Domain Metodologi Didaktik & Habituasi Adab (Sorogan, Bandongan, Suhbah 1-on-1, GROW, Habit Loop 66-Hari, Khidmah, Mayoran).
 11. **11 Tools**: 8 Sub-Domain Instrumen & Digital Tools (Rubrik 10 Muwashafat, Logbook Musyrif App, CICO Card, BIP Form, Parent Portal App, & Database Schema).
 
+### 📚 Seri Buku Master Ekosistem TUMBUH (5 Jilid Komprehensif):
+- **Volume 01**: *Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren* (Ontologi Fitrah, Sintesis Turats-Neurosains, Kritik Feodalisme).
+- **Volume 02**: *Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH* (10 Muwashafat Adab, Trajektori Remaja, Tangga T1–T4).
+- **Volume 03**: *Sistem Asesmen Perkembangan & Evaluasi Berbasis Bukti* (Asesmen Ipsatif Non-Ranking, Validasi Aiken's V & Kappa).
+- **Volume 04**: *Pedoman Intervensi Berjenjang PBIS & Praktik Restoratif di Asrama* (Multi-Tier 1–3, CICO, FBA/BIP, Lingkaran Restoratif).
+- **Volume 05**: *Manual Operasional, SOP Musyrif, dan Tata Kelola Pesantren Modern* (Dual-Pillar Walas-Musyrif, Jadwal 24-Jam, Anti-Burnout).
+
 ### 🎓 Dewan Keilmuan Aktif:
-- Merilis 21 Custom Skills spesialis di `.agents/skills/` melintasi disiplin Turats Islam, PBIS, CASEL SEL, Neurosains, Pedagogi Master Teacher, Psikometri, dan Quality Assurance Auditor.
+- Merilis 22 Custom Skills spesialis di `.agents/skills/` melintasi disiplin Turats Islam, PBIS, CASEL SEL, Neurosains, Pedagogi Master Teacher, Psikometri, Quality Assurance Auditor, dan Master Systems Modeler (Simulasi Cohort 100 Santri).
