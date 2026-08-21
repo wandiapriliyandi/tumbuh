@@ -1,22 +1,56 @@
-# P1-04-04-Sintesis-Filsafat-Pendidikan-TUMBUH
+# P1-04-04: SINTESIS FILSAFAT PENDIDIKAN TUMBUH
+## *Konsolidasi Paradigma Ta'dib, Qudwah, dan Disiplin Restoratif Multi-Tier Menuju Ekosistem Pembelajaran Paripurna*
 
-## Rangkuman Integratif: Falsafah Pendidikan Pesantren TUMBUH
+**Nomor Identifikasi**: `P1-04-04/SINTESIS-EDUCATION/2026`  
+**Domain**: `01 Philosophy` > `04 Education`  
+**Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-arsitektur-pbis-restoratif`, `pakar-pedagogi-master-guru`
 
-Dokumen ini menyintesiskan pilar-pilar filosofis pendidikan (*Education*) dalam kerangka ekosistem TUMBUH:
+---
+
+## 📑 DAFTAR ISI ANALITIS
+
+1. [1. Integrasi Tiga Pilar Filsafat Pendidikan TUMBUH](#1-integrasi-tiga-pilar-filsafat-pendidikan-tumbuh)
+2. [2. Matriks Epistemologis: Domain Education TUMBUH](#2-matriks-epistemologis-domain-education-tumbuh)
+3. [3. Jembatan Filosofis Menuju Sub-Domain 05 (Leadership & Qudwah)](#3-jembatan-filosofis-menuju-sub-domain-05-leadership--qudwah)
+4. [4. Manifesto Pedagogi Adab Ekosistem TUMBUH](#4-manifesto-pedagogi-adab-ekosistem-tumbuh)
+
+---
+
+### 1. Integrasi Tiga Pilar Filsafat Pendidikan TUMBUH
+
+Sub-Domain `04 Education` menyatukan tiga pilar praksis pendidikan ke dalam satu tarikan nafas yang harmonis:
 
 ```mermaid
 graph TD
-    A["Pilar Holistik: Tarbiyah + Ta'dib + Ta'lim"] --> B["Pola Relasi: Qudwah Hasanah & Pendekatan Firm & Kind"]
-    B --> C["Sistem Penunjang: PBIS (Tier 1-3) & Pengambilan Keputusan Berbasis Data"]
-    C --> D["Gaya Respon: Disiplin Positif & Dialog Restoratif"]
-    D --> E["Hasil Pendidikan: Santri Mandiri, Beradab, dan Kuat Regulasi Diri"]
+    SintesisEdu["SINTESIS FILSAFAT PENDIDIKAN TUMBUH"]
+    
+    SintesisEdu --> E1["P1-04-01: Falsafah Ta'dib Holistik<br/>Pendidikan sebagai penanaman adab (Al-Attas), menyatukan Ta'lim akal, Tarbiyah fisik, & Ta'dib ruhani 24-jam."]
+    
+    SintesisEdu --> E2["P1-04-02: Relasi Qudwah & Attachment<br/>Dekonstruksi feodalisme otoriter, keteladanan Sayyidul Qawmi Khadimuhum, & amanah In Loco Parentis (KH. Hasyim Asy'ari)."]
+    
+    SintesisEdu --> E3["P1-04-03: Disiplin Restoratif & PBIS Multi-Tier<br/>Transformasi dari hukum retributif balas dendam menuju pemulihan ukhuwah (Ishlah al-Bain), Konsekuensi 4R, & Tier 1-3."]
 ```
 
 ---
 
-## 4 Aksioma Utama Pendidikan Pesantren TUMBUH
+### 2. Matriks Epistemologis: Domain Education TUMBUH
 
-1. **Aksioma Pendidikan Menyeluruh (*Kulliyyatut Tarbiyah*)**: Pendidikan pesantren sejati tidak boleh tereduksi menjadi sekadar pengajaran formal di kelas (*Ta'lim*), melainkan mencakup pembiasaan adab (*Ta'dib*) dan pemeliharaan fitrah jasmani-ruhani santri (*Tarbiyah*).
-2. **Aksioma Keteladanan Mutlak (*Asasiyyatul Qudwah*)**: Fondasi utama pembinaan santri adalah keteladanan (*Qudwah*) dari asatidz, musyrif, dan pimpinan pesantren. Perilaku santri adalah cermin dari kultur yang dipraktikkan oleh para pendidiknya.
-3. **Aksioma Disiplin dari Dalam (*Inba'ud Dhabti*)**: Disiplin sejati adalah kemampuan mengendalikan diri secara sadar (*Self-Regulation*), bukan kepatuhan semu karena takut hukuman fisik. Penegakan disiplin harus mendidik tanggung jawab dan memulihkan martabat (*Restorative*).
-4. **Aksioma Ekosistem Pendukung (*Syumuliyyatul Bi'ah*)**: Keberhasilan pendidikan membutuhkan sistem lingkungan yang tertata rapi (*PBIS*), di mana ekspektasi perilaku jelas, SOP terstandarisasi, dan keputusan pembinaan didasarkan pada data objektif.
+| Modul Analisis | Landasan Turats Klasik | Landasan Sains Kontemporer | Manifestasi Praktis di Asrama |
+| :--- | :--- | :--- | :--- |
+| **P1-04-01 (Ta'dib)** | HR. As-Sam'ani (*Addabani Rabbi*), Syed Muhammad Naquib al-Attas. | *Holistic Education Framework* & *Experiential Learning*. | Penilaian portofolio kelulusan adab 10 Muwashafat 24-jam. |
+| **P1-04-02 (Relasi Guru-Santri)**| KH. Hasyim Asy'ari (*Adab al-'Alim*), HR. Abu Nu'aim (Sayyidul Qawm). | *Attachment Theory* (Bowlby) & *Relational Pedagogy*. | Budaya kehangatan in loco parentis dan penghapusan intimidasi. |
+| **P1-04-03 (Disiplin Restoratif)**| QS. Al-Hujurat: 10 (Ishlah al-Bain), Fiqh Jinayat (Ta'widh & Daman). | *School-Wide PBIS* (Sugai & Horner) & *Restorative Justice*. | Penerapan Konsekuensi Logis 4R dan penanganan Multi-Tier 1–3. |
+
+---
+
+### 3. Jembatan Filosofis Menuju Sub-Domain 05 (Leadership & Qudwah)
+
+Sistem pendidikan yang beradab dan berkeadilan ini tidak akan mampu beroperasi secara mandiri tanpa ditopang oleh **kepemimpinan pesantren yang berwibawa dan sarat keteladanan**. 
+
+Maka dari itu, diskursus ini bermuara pada **Sub-Domain `05 Leadership`**, yang membedah kepemimpinan *Servant Qudwah*, standarisasi kompetensi musyrif, tata kelola bebas nepotisme, dan kaderisasi kepemimpinan santri pengayom.
+
+---
+
+### 4. Manifesto Pedagogi Adab Ekosistem TUMBUH
+
+> *"Pendidikan pesantren bukanlah pabrik pencetak hafalan yang dingin, bukan pula penjara pendisiplinan yang bengis. Pendidikan pesantren adalah majelis Ta'dib nabawi di mana ilmu dihargai dengan adab, kesalahan diperbaiki dengan keadilan restoratif, dan setiap santri dipimpin dengan kehangatan keteladanan (*Qudwah Hasanah*) menuju keridhaan Allah SWT."*
