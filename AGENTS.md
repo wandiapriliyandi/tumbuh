@@ -26,9 +26,14 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 
 ---
 
-## 3. Dewan Keilmuan Aktif (11+ Custom Skills di `.agents/skills/`)
-Gunakan skill spesialis yang sesuai saat merancang modul:
-- `prof-epistemologi-turats` & `pakar-filosofi-tumbuh`
-- `prof-neurosains-perkembangan`, `prof-psikologi-belajar`, `prof-bimbingan-konseling`, `prof-pedagogi-master-guru`
-- `prof-arsitektur-pbis-restoratif`, `prof-pengasuhan-asrama`, `prof-psikologi-sosial-santri`
-- `prof-tata-kelola-qudwah`, `prof-metodologi-riset-tumbuh`, `prof-arsitektur-digital-pesantren`, `prof-desain-kurikulum-adab`
+## 3. Dewan Keilmuan Aktif (21 Custom Skills di `.agents/skills/`)
+Gunakan skill spesialis yang sesuai saat merancang, menguji, dan mengaudit modul:
+- `pakar-filosofi-tumbuh` & `pakar-epistemologi-turats`
+- `pakar-pbis` & `pakar-arsitektur-pbis-restoratif`
+- `pakar-social-emotional-learning` & `pakar-neurosains-perkembangan`
+- `pakar-disiplin-positif` & `pakar-pedagogi-master-guru`
+- `pakar-intervensi-preventif` & `pakar-pengasuhan-asrama`
+- `pakar-kuratif-restoratif` & `pakar-bimbingan-konseling`
+- `pakar-psikologi-belajar`, `pakar-psikologi-sosial-santri`, `pakar-desain-kurikulum-adab`
+- `pakar-tata-kelola-qudwah`, `pakar-metodologi-riset-tumbuh`, `pakar-arsitektur-digital-pesantren`
+- `pakar-kritikus-dan-auditor-kualitas`, `pakar-psikometri-dan-validasi-instrumen`, `pakar-perlindungan-anak-dan-advokasi-santri`

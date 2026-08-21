@@ -10,7 +10,7 @@ Dokumen ini adalah kamus rujukan resmi untuk memahami seluruh istilah teknis, fi
 2. [Kategori A: Terminologi Teologi, Turats & Syar'i](#kategori-a-terminologi-teologi-turats--syari)
 3. [Kategori B: Terminologi Neurosains & Psikologi Perkembangan](#kategori-b-terminologi-neurosains--psikologi-perkembangan)
 4. [Kategori C: Terminologi Sistem PBIS & Disiplin Restoratif](#kategori-c-terminologi-sistem-pbis--disiplin-restoratif)
-5. [Kategori D: Terminologi Khusus Ekosistem TUMBUH & Manajemen](#kategori-d-terminologi-khusus-ekosistem-tumbuh--manajemen)
+5. [Kategori D: Terminologi Khusus Ekosistem TUMBUH & Perangkat Digital](#kategori-d-terminologi-khusus-ekosistem-tumbuh--perangkat-digital)
 
 ---
 
@@ -91,7 +91,7 @@ Dokumen ini adalah kamus rujukan resmi untuk memahami seluruh istilah teknis, fi
 
 ---
 
-## KATEGORI D: TERMINOLOGI KHUSUS EKOSISTEM TUMBUH & MANAJEMEN
+## KATEGORI D: TERMINOLOGI KHUSUS EKOSISTEM TUMBUH & PERANGKAT DIGITAL
 
 | Istilah | Konteks Penggunaan | Arti Sederhana & Penjelasan Kontekstual |
 | :--- | :--- | :--- |
@@ -102,3 +102,5 @@ Dokumen ini adalah kamus rujukan resmi untuk memahami seluruh istilah teknis, fi
 | **Servant Leadership** | *Sayyidul Qaumi Khaadimuhum* | Falsafah bahwa pemimpin (pimpinan pondok, musyrif, ketua OSIS) adalah pelayan yang bertugas memfasilitasi kebutuhan mereka yang dipimpin. |
 | **Nudge Theory** | Arsitektur Pilihan Lingkungan | Menata tata ruang asrama sedemikian rupa sehingga santri secara alami terdorong berbuat baik (misal: meletakkan mushaf Al-Qur'an dan rak sandal di tempat strategis). |
 | **Magic Ratio (4:1 / 5:1)** | Rasio Interaksi Positif | Standar interaksi sehat: setiap 1 kali musyrif memberi koreksi kesalahan, minimal harus diimbangi dengan **4 hingga 5 kali apresiasi/pengakuan positif** atas usaha santri. |
+| **Logbook Musyrif App** | Aplikasi Mobile Musyrif | Aplikasi seluler pengasuhan asrama 24-jam berbasis fitur *Quick-Tap* untuk pencatatan presensi, poin kebaikan PBIS, dan laporan insiden. |
+| **Parent Portal App** | Aplikasi Mobile Orang Tua | Aplikasi seluler orang tua santri untuk memantau grafik perkembangan karakter ipsatif, mutabaah hafalan, & berkomunikasi dengan BK. |

@@ -1,4 +1,4 @@
----
+﻿---
 name: pakar-filosofi-tumbuh
 description: >-
   Protokol dan panduan analisis pakar untuk mengaudit, mengevaluasi, dan menyintesis
