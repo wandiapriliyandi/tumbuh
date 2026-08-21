@@ -1,4 +1,4 @@
-# KATALOG 01: REPOSITORI SAINS, PBIS, SEL, & RESTORATIF (20 PLATFORM)
+# KATALOG 01: REPOSITORI SAINS, PBIS, SEL, & RESTORATIF (40 PLATFORM)
 
 **Nomor Berkas**: `REF-WEB/01-SCIENCE/2026/08`  
 **Kategori**: Repositori Web Resmi SW-PBIS, CASEL SEL, Restorative Justice, & Safe School  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 KATALOG 20 REPOSITORI SAINS ONLINE
+## 🌐 KATALOG 40 REPOSITORI SAINS ONLINE
 
 | No | Nama Platform / Repositori | URL / Domain Web | Deskripsi Sumber Daya Digital & Relevansi |
 | :---: | :--- | :--- | :--- |
@@ -30,3 +30,23 @@
 | **18** | **National Center on Intensive Intervention** | `https://intensiveintervention.org` | Alat bantu perancangan intervensi perilaku intensif Tier 3. |
 | **19** | **Edutopia (George Lucas Educational Foundation)** | `https://www.edutopia.org` | Artikel & video pembelajaran metodologi pengajaran berbasis bukti. |
 | **20** | **UNESCO Safe to Learn Resource Bank** | `https://www.safetolearn-global.org` | Repositori global kebijakan perlindungan anak di sekolah. |
+| **21** | **Positive Discipline Association Hub** | `https://www.positivediscipline.org` | Modul pelatihan resmi Firm & Kind dan disiplin positif. |
+| **22** | **Restorative Justice Colorado Portal** | `https://www.rjcolorado.org` | Panduan praktis & lembar kerja konferensi restoratif. |
+| **23** | **Center for Restorative Process** | `https://www.restorativeprocess.com` | Skrip dialog fasilitator dalam lingkaran restoratif. |
+| **24** | **California MTSS Framework Hub** | `https://www.cde.ca.gov/ci/cr/ri/` | Dokumentasi integrasi MTSS akademik & bantuan perilaku. |
+| **25** | **Center for Adolescent Studies** | `https://centerforadolescentstudies.com` | Pelatihan trauma-informed & regulasi emosi remaja. |
+| **26** | **Transformative Restorative Justice Center** | `https://www.transformativejustice.eu` | Repositori keadilan restoratif transformatif di Eropa. |
+| **27** | **Youth Guidance (BAM & WOW Programs)** | `https://www.youth-guidance.org` | Program pendampingan kawan sebaya & sosial-emosional. |
+| **28** | **Behavioral Interventions & Support Network** | `https://www.pbisapps.org` | Aplikasi pengumpulan data evaluasi PBIS (SWIS System). |
+| **29** | **Collaborative for Restorative Education** | `https://www.restorativeed.org` | Sumber daya integrasi kedisiplinan restoratif di kelas. |
+| **30** | **Center for Healthy Minds (Univ of Wisconsin)** | `https://centerhealthyminds.org` | Riset neurosains kesejahteraan jiwa & empati pendidik. |
+| **31** | **European Association for Research on Adolescence**| `https://www.earaonline.org` | Repositori riset perkembangan sosiologis & kognitif remaja. |
+| **32** | **Society for Prevention Research (SPR)** | `https://www.preventionresearch.org` | Basis data sains pencegahan perilaku berisiko remaja. |
+| **33** | **National School Climate Center (NSCC)** | `https://www.schoolclimate.org` | Alat ukur asesmen iklim sekolah & survei kenyamanan. |
+| **34** | **Character Lab (Angela Duckworth)** | `https://characterlab.org` | Panduan praktis pengembangan ketekunan (*Grit*) & adab. |
+| **35** | **Center for Responsive Schools** | `https://www.responsiveclassroom.org` | Pendekatan kelas responsif berbasis regulasi emosi. |
+| **36** | **Intl Society for SEL (ISSEL)** | `https://www.issel.org` | Jaringan akademik internasional pengembangan SEL. |
+| **37** | **Trauma and Learning Policy Initiative** | `https://traumasensitiveschools.org` | Panduan perancangan sekolah peka trauma (*Trauma-Sensitive*).|
+| **38** | **Peaceful Schools International** | `https://peacefulschoolsinternational.org` | Repositori sekolah damai tanpa kekerasan & pembentakan. |
+| **39** | **Global Coalition to Protect Education** | `https://protectingeducation.org` | Koalisi global perlindungan aman satuan pendidikan. |
+| **40** | **Center for Benefit-Cost Studies of Education** | `https://www.cbcse.org` | Evaluasi efisiensi biaya intervensi PBIS & restoratif. |

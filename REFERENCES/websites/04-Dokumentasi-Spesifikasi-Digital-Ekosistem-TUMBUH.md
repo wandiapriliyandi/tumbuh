@@ -1,4 +1,4 @@
-# KATALOG 04: DOKUMENTASI SPESIFIKASI DIGITAL TUMBUH (20 KOMPONEN)
+# KATALOG 04: DOKUMENTASI SPESIFIKASI DIGITAL TUMBUH (35 KOMPONEN)
 
 **Nomor Berkas**: `REF-WEB/04-SYSTEMSPEC/2026/08`  
 **Kategori**: Spesifikasi Sistem Digital, Database Schema, & Architecture App Component TUMBUH  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📲 KATALOG 20 SPESIFIKASI DIGITAL EKOSISTEM TUMBUH
+## 📲 KATALOG 35 SPESIFIKASI DIGITAL EKOSISTEM TUMBUH
 
 | No | Komponen Sistem Digital | Spesifikasi Digital / Akses | Fungsi Operasional Digital & Fitur Utama |
 | :---: | :--- | :--- | :--- |
@@ -30,3 +30,18 @@
 | **18** | **Automatic Notification System** | WA/Push Notification | Notifikasi darurat otomatis jika terjadi indikasi eskalasi kasus Tier 3. |
 | **19** | **Role-Based Access Control (RBAC)**| Security Middleware | Proteksi hak akses data sensitif konseling BK bertingkat. |
 | **20** | **System Dynamics Simulation Engine**| Math Simulator Python/JS | Modul pemodelan cohort 100 santri & persamaan regresi pertumbuhan. |
+| **21** | **Early Risk Warning Algorithm** | Machine Learning Modul | Deteksi dini santri berisiko mengalami kecemasan atau homesickness. |
+| **22** | **Musyrif Workload Rationalization Engine**| Algoritma Shift Schedule | Penjadwalan otomatis rotasi jam kerja musyrif penyeimbang beban emosional. |
+| **23** | **Digital Student Identity Card (NISC)**| RFID / QR-Code Card | Kartu identitas digital santri untuk presensi & pembelanjaan syariah. |
+| **24** | **Sorogan Retrieval Practice Quiz App**| Web App Interaktif | Aplikasi kuis metakognitif penguji retensi memori kitab kuning. |
+| **25** | **Parent-Teacher Communication App**| Messaging Gateway | Platform komunikasi santun antara wali santri dengan musyrif kamar. |
+| **26** | **Anonymous Counseling Chat Box** | Web Socket Encrypted | Chat room konseling rahasia santri dengan Tim BK lembaga. |
+| **27** | **Sanitation & Hygiene Monitoring Log**| Mobile Survey App | Pemantauan kebersihan fasilitas kamar, kamar mandi, & dapur asrama. |
+| **28** | **Kyai & Leadership Decision Dashboard**| Executive Web Dashboard| Ringkasan analitik tingkat tinggi kesehatan iklim pesantren bagi Kyai. |
+| **29** | **Safe School Audit & Compliance Tool**| Checklist Digital App | Verifikasi pemenuhan 100% PMA 73/2022 & indikator Safe School. |
+| **30** | **Vokasional & Khidmah Tracking Engine**| Student Portfolio App | Pencatatan rekam jejak pengabdian & kemandirian vokasional santri. |
+| **31** | **Offline-First Synchronization Engine**| PWA Service Worker | Sinkronisasi data logbook musyrif otomatis saat koneksi internet terputus. |
+| **32** | **Student Behavioral Incident Registry**| Confidential Registry DB| Basis data rahasia rekam jejak penanganan kasus Tier 2 & Tier 3. |
+| **33** | **Al-Qur'an Audio-Visual Repetition Engine**| Multimedia Player App | Pemutar audio murottal otomatis pendukung otomatisasi hafalan. |
+| **34** | **Financial Integrity & Syariah Audit Tool**| Micro-Finance Ledger DB| Transparansi akuntansi & pengelolaan keuangan syariah lembaga. |
+| **35** | **System Performance & Latency Monitor**| Infrastructure Monitor | Pemantauan kinerja server, latency REST API (<2s), & uptime 99.9%. |

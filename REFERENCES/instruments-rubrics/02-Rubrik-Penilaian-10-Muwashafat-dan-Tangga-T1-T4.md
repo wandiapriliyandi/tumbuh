@@ -1,4 +1,4 @@
-# KATALOG 02: RUBRIK 10 MUWASHAFAT & TANGGA T1-T4 (15 RUBRIK)
+# KATALOG 02: RUBRIK 10 MUWASHAFAT & TANGGA T1-T4 (30 RUBRIK)
 
 **Nomor Berkas**: `REF-INST/02-MUWASHAFAT/2026/08`  
 **Kategori**: Rubrik Asesmen Ipsatif 10 Muwashafat Karakter Santri, Tangga Progresi T1-T4, & Skala Fitrah  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📏 KATALOG 15 RUBRIK IPSATIF 10 MUWASHAFAT & TANGGA T1-T4
+## 📏 KATALOG 30 RUBRIK IPSATIF 10 MUWASHAFAT & TANGGA T1-T4
 
 | No | Nama Rubrik / Instrument | Fokus Alat Ukur & Indikator Perilaku | Integrasi Domain TUMBUH |
 | :---: | :--- | :--- | :--- |
@@ -24,4 +24,19 @@
 | **12** | **Matriks Evaluasi Tangga T2 (Habituasi)** | Indikator pembiasaan adab otomatisitas 66-hari Kelas 8 MTs. | **Domain 04** |
 | **13** | **Matriks Evaluasi Tangga T3 (Internalisasi)** | Indikator kematangan adab mandiri & kepemimpinan awal Kelas 9-10. | **Domain 04** |
 | **14** | **Matriks Evaluasi Tangga T4 (Qudwah Hasanah)**| Indikator kepemimpinan melayani santri senior Kelas 11-12. | **Domain 04** |
-| **15** | **Transkrip Portofolio Karakter PBIS Santri** | Format Laporan Ipsatif Pertumbuhan Karakter Santri Berbasis Growth-Oriented. | **Domain 05, 11** |
+| **15** | **Transkrip Portofolio Karakter PBIS Santri** | Format Laporan Ipsatif Pertumbuhan Karakter Santri Berbasis Growth. | **Domain 05, 11** |
+| **16** | **Skala Pengukuran Fitrah Keagamaan Santri** | Mengukur perkembangan keimanan & kecintaan ibadah tanpa pemaksaan. | **Domain 01, 05** |
+| **17** | **Rubrik Adab Pergaulan Kamar Asrama** | Indikator penghormatan privasi, kebersamaan mayoran, & saling menjaga. | **Domain 03, 08** |
+| **18** | **Rubrik Adab Majelis Ilmu & Sorogan** | Indikator cara duduk, mendengarkan guru, & mencatat faidah ilmu. | **Domain 10** |
+| **19** | **Rubrik Adab Makan & Kebersihan Dapur** | Indikator kesopanan makan bersama, mencuci peralatan, & hemat makanan. | **Domain 03, 07** |
+| **20** | **Rubrik Adab Penggunaan Teknologi Digital** | Indikator kedisiplinan penggunaan HP/Komputer & menjauhi konten buruk. | **Domain 11** |
+| **21** | **Matriks Evaluasi Matrikulasi Santri Baru** | Penilaian ketuntasan program orientasi adaptasi 14-hari awal. | **Domain 09** |
+| **22** | **Rubrik Kepemimpinan Santri Senior (T4)** | Indikator empati, perlindungan adik kelas, & penghapusan senioritas. | **Domain 04, 08** |
+| **23** | **Rubrik Khidmah Keumatan Santri Penggerak**| Indikator pengabdian santri di masyarakat & praktek kewirausahaan. | **Domain 04, 09** |
+| **24** | **Skala Kemandirian Finansial Santri Pemula**| Mengukur pengelolaan uang saku & kejujuran pencatatan keuangan. | **Domain 03, 09** |
+| **25** | **Rubrik Resiliensi Menghadapi Kegagalan** | Mengukur kemauan bangkit santri saat nilai/hafalan belum tuntas. | **Domain 04, 05** |
+| **26** | **Rubrik Adab Berkomunikasi dengan Guru** | Indikator nada bicara santun, gestur menghormati, & menyapa guru. | **Domain 02, 03** |
+| **27** | **Rubrik Olahraga Sunnah & Kebugaran** | Indikator partisipasi pencak silat, panahan, & kebugaran jasmani. | **Domain 03, 07** |
+| **28** | **Form Evaluasi Ipsatif Tengah Semester** | Lembar refleksi mandiri santri terhadap pertumbuhan karakter diri. | **Domain 05** |
+| **29** | **Rubrik Kepedulian Lingkungan & Zero Waste**| Indikator pengelolaan sampah kamar & pemeliharaan keasrian asrama. | **Domain 03, 07** |
+| **30** | **Transkrip Kelulusan Karakter Alumni TUMBUH**| Format sertifikasi kompetensi adab & kepemimpinan alumni santri. | **Domain 04, 05** |
