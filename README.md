@@ -57,6 +57,7 @@ Repositori ini dikembangkan dan diaudit oleh **21 Custom Skills Dewan Keilmuan**
 
 ## 📖 Rujukan & Dokumentasi Pendukung
 
+- 🔍 **[REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md](./REFERENCES/Analisis-Kritis-dan-Kekurangan-11-Domain-TUMBUH.md)**: Dokumen Bedah Kritis & Evaluasi Kekurangan 11 Domain Proyek.
 - 🛡️ **[REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md](./REFERENCES/Laporan-Audit-Kualitas-Akademis-TUMBUH.md)**: Laporan Audit Kualitas Akademis & Kepatuhan Resmi (Predikat A+ Paripurna).
 - 📘 **[AGENTS.md](./AGENTS.md)**: Pedoman & Aturan Baku Agen Ekosistem TUMBUH Pesantren.
 - 📖 **[GLOSSARY.md](./GLOSSARY.md)** & **[REFERENCES/Kamus-Istilah-TUMBUH.md](./REFERENCES/Kamus-Istilah-TUMBUH.md)**: Kamus Resmi 5 Kategori Istilah Syar'i, Neurosains, PBIS, & Digital.
