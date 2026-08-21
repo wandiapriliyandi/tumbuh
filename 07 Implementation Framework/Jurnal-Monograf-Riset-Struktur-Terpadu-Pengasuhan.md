@@ -1,5 +1,5 @@
 # MONOGRAF RISET AKADEMIK: STRUKTUR ORGANISASI TERPADU 24-JAM DAN TATA KELOLA PENGASUHAN PESANTREN
-## Evaluasi Sistemik: Eliminasi Dikotomi Madrasah-Asrama, Job Description Staf Pengasuhan & Musyrif, Staf Disiplin & BK, Staf Klub Santri, Matriks RACI, SOP Shift Musyrif 24-Jam Anti-Burnout, dan Pengawasan Zero Violence
+## Evaluasi Sistemik: Eliminasi Dikotomi Madrasah-Asrama, Batas Tugas Musyrif Asrama vs. Wali Kelas (Walas), Job Description Staf Pengasuhan, Staf Disiplin & BK, Staf Klub Santri, Matriks RACI, SOP Shift Musyrif 24-Jam Anti-Burnout, dan Pengawasan Zero Violence
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dipublikasikan sebagai Naskah Monograf Riset Ilmiah (Jurnal Kebijakan & Tata Kelola Lembaga Pesantren)*  
@@ -9,19 +9,19 @@
 
 ## ABSTRAK
 
-> **Latar Belakang**: Patologi tata kelola pesantren konvensional sering kali dipicu oleh dikotomi kaku (*dualisme struktural*) antara kegiatan akademik madrasah dan kehidupan asrama pondok, yang memicu perebutan pengaruh birokrasi dan kelelahan kronis (*severe burnout*) pada Musyrif 24-jam. Di samping itu, rincian *job description* staf pengasuhan asrama, staf disiplin & BK, serta pembina klub santri sering kali tidak terumuskan secara spesifik.
+> **Latar Belakang**: Patologi tata kelola pesantren konvensional sering kali dipicu oleh dikotomi kaku (*dualisme struktural*) antara kegiatan akademik madrasah dan kehidupan asrama pondok, atau kebingungan pembagian peran di mana Musyrif dianggap harus bertugas 24-jam fisik tanpa henti. Padahal, di madrasah terdapat Wali Kelas (Walas) yang bertanggung jawab penuh selama jam KBM.
 >
-> **Tujuan Penelitian**: Merumuskan dan memvalidasi hirarki struktur organisasi terpadu 24-jam tanpa dikotomi madrasah-asrama, merinci *job description* fungsional Staf Pengasuhan, Staf Disiplin & BK, dan Staf Klub Santri, merumuskan Matriks RACI Bebas Gesekan Birokrasi, dan menetapkan SOP Pengaturan Shift Kerja Musyrif 24-Jam Anti-Burnout.
+> **Tujuan Penelitian**: Merumuskan dan memvalidasi hirarki struktur organisasi terpadu 24-jam tanpa dikotomi madrasah-asrama, merinci **Batas Tugas Musyrif Asrama vs. Wali Kelas (Walas)**, menetapkan *job description* fungsional Staf Pengasuhan, Staf Disiplin & BK, dan Staf Klub Santri, merumuskan Matriks RACI, dan menetapkan SOP Shift Kerja Musyrif Anti-Burnout.
 >
-> **Hasil Riset**: Terbentuk struktur organisasi non-dikotomis 24-jam: Kepala Pesantren $\rightarrow$ Kepala MA & MTs $\rightarrow$ 4 Wakamad Terpadu (Kurikulum, Kesiswaan, Humas, Sarpras) $\rightarrow$ Staf Pelaksana 24-Jam (Staf Pengasuhan, Staf Disiplin & BK, Staf Klub Santri, Musyrif Kamar). Dilengkapi Matriks RACI pembagian wewenang yang tegas dan sistem 3-Shift Kerja Musyrif (Shift Pagi, Sore, Malam) untuk menjamin kesejahteraan fisik & emosional pengasuh.
+> **Hasil Riset**: Terstruktur pembagian peran terpadu (*Handover Musyrif <-> Walas*): (1) **Jam KBM Formal (07.00-15.00)** dikendalikan penuh oleh **Wali Kelas & Guru Madrasah** (Musyrif off-duty/istirahat); dan (2) **Jam Asrama & Pondok (15.00-07.00 Subuh)** dikendalikan oleh **Musyrif Asrama** via sistem 3-Shift.
 >
-> **Kata Kunci**: *Implementation Framework, Non-Dichotomous Hierarchy, Staf Pengasuhan, Musyrif Kamar, Disiplin & BK, RACI Matrix, Shift System Anti-Burnout, Zero Violence Audit.*
+> **Kata Kunci**: *Implementation Framework, Non-Dichotomous Hierarchy, Musyrif vs Walas Boundary, Handover Mechanism, Staf Pengasuhan, RACI Matrix, Shift System Anti-Burnout.*
 
 ---
 
 ## 1. PENDAHULUAN & DIALEKTIKA STRUKTUR ORGANISASI
 
-Tata kelola pesantren modern menuntut pengintegrasian penuh antara kegiatan pengajaran formal madrasah dan kehidupan pengasuhan 24-jam di asrama.
+Tata kelola pesantren modern menuntut pengintegrasian penuh antara kegiatan pengajaran formal madrasah dan kehidupan pengasuhan asrama tanpa membebankan tugas fisik 24-jam nonstop pada individu Musyrif.
 
 ```mermaid
 graph TD
@@ -31,74 +31,67 @@ graph TD
     Pimpinan --> KMTS["2b. Kepala Madrasah Tsanawiyah (MTs)"]
     KMA --> WakamadGroup["3. 4 Wakamad Terpadu (Kurikulum, Kesiswaan, Humas, Sarpras)"]
     KMTS --> WakamadGroup
-    WakamadGroup --> StafPelaksana["4. Staf Pelaksana Terpadu 24-Jam<br/>• Staf Pengasuhan & Musyrif Kamar<br/>• Staf Disiplin & BK<br/>• Staf Klub Santri & Pembina<br/>• Staf Kurikulum, Sarpras, & Humas"]
+    WakamadGroup --> StafPelaksana["4. Staf Pelaksana Terpadu<br/>• Wali Kelas (Walas) & Guru (KBM 07.00-15.00)<br/>• Staf Pengasuhan & Musyrif Kamar (Asrama 15.00-07.00)<br/>• Staf Disiplin & BK<br/>• Staf Klub Santri & Pembina"]
 ```
 
 ---
 
-## 2. RINCIAN JOB DESCRIPTION STAF OPERASIONAL PENGASUHAN 24-JAM
+## 2. KLARIFIKASI BATAS TUGAS: MUSYRIF ASRAMA VS. WALI KELAS (WALAS) MADRASAH
 
-Berdasarkan rujukan induk tata kelola operasional (`Sistem-Baru-Pembinaan-Santri.md`), ditetapkan rincian tugas pokok dan *job description* bagi staf pengasuhan:
+To resolve role ambiguity and prevent educator burnout (*Triad Pertumbuhan*):
 
-### 2.1. Staf Pengasuhan & Musyrif Kamar
-* **Tugas Pokok**: Membentuk karakter serta tradisi luhur pesantren dan mendampingi kehidupan santri 24-jam.
-* **Rincian Job Description**:
-  1. Kontrol keasrian, kebersihan, dan kerapian hunian kamar santri.
-  2. Manajemen prosedur perizinan keluar-masuk bagi santri secara tertib.
-  3. Membimbing pelaksanaan ibadah wajib dan sunnah harian (Subuh, Dzuhur, Ashar, Maghrib, Isya, Qiyamul Lail).
-  4. Solusi atas problematika harian yang dihadapi santri di asrama.
-  5. Mengawasi transisi dan masa orientasi santri baru (Tangga T1).
-  6. Menyusun laporan berkala mengenai perkembangan pola asuh santri kepada Wakamad Kesiswaan.
+```mermaid
+graph TD
+    DutyBoundary["Pembagian Tugas Pengasuhan Terpadu (Handover Musyrif <-> Walas)"]
+    DutyBoundary --> MadrasahHours["1. JAM KBM FORMAL MADRASAH (07.00 - 15.00)<br/>• Penanggung Jawab Utama: WALI KELAS (WALAS) & GURU MAPEL.<br/>• Tugas: Pengawasan KBM, presensi kelas, & bimbingan akademik.<br/>• Status Musyrif: OFF-DUTY / Istirahat / Shift Piket Pergantian."]
+    DutyBoundary --> DormitoryHours["2. JAM KEHIDUPAN ASRAMA & PONDOK (15.00 - 07.00 Subuh/Pagi)<br/>• Penanggung Jawab Utama: MUSYRIF ASRAMA (Sistem 3-Shift Kerja).<br/>• Tugas: Pengasuhan asrama, sholat berjamaah, Al-Qur'an/Bahasa Arab, & kegiatan malam/pagi.<br/>• Status Walas: OFF-DUTY / Koordinasi Informasi via App."]
+```
 
-### 2.2. Staf Disiplin & Bimbingan Konseling (BK)
-* **Tugas Pokok**: Mengupayakan tegaknya regulasi lembaga melalui pendekatan pembinaan yang konstruktif (*Firm & Kind*).
-* **Rincian Job Description**:
-  1. Penanggung jawab pengelolaan tata tertib santri berbasis PBIS.
-  2. Mencatat rekam jejak poin pelanggaran maupun prestasi dalam *Logbook Musyrif App*.
-  3. Menerapkan langkah-langkah edukatif dan disiplin restoratif.
-  4. Menyelenggarakan layanan konseling tahap awal bagi santri.
-  5. Menindaklanjuti setiap bentuk indikasi tindakan indisipliner tanpa kekerasan.
-  6. Menangani resolusi konflik antar-individu santri secara adil (*Ishlah al-Bain*).
-  7. Mengirimkan laporan penanganan kasus ke bagian Kesiswaan.
-
-### 2.3. Staf Klub Santri & Pembina Minat Bakat
-* **Tugas Pokok**: Memfasilitasi ruang aktualisasi minat, bakat, serta peningkatan kecakapan (*skill*) santri.
-* **Rincian Job Description**:
-  1. Mengorganisir pendaftaran dan operasional 8 Sekbid OSIS & unit klub santri.
-  2. Menetapkan *timeline* jadwal pertemuan rutin mingguan klub.
-  3. Memverifikasi tingkat kehadiran dan partisipasi peserta.
-  4. Mengonsep ajang kompetisi (*Internal Challenge*) serta pameran hasil karya.
-  5. Menjalin koordinasi intensif dengan para pembina ahli.
-  6. Mengadakan tinjauan efektivitas program kerja klub secara berkala.
+### Matriks Handover Informasi Harian (Shift Transition Protocol):
+* **07.00 Pagi (Handover Musyrif $\rightarrow$ Walas)**: Musyrif menyerahkan data santri sakit/izin kamar kepada Wali Kelas sebelum KBM dimulai.
+* **15.00 Sore (Handover Walas $\rightarrow$ Musyrif)**: Wali Kelas mengomunikasikan catatan presensi KBM dan insiden kelas kepada Musyrif Asrama melalui *Logbook Musyrif App*.
 
 ---
 
-## 3. MATRIKS RACI BEBAS GESEKAN BIROKRASI
+## 3. RINCIAN JOB DESCRIPTION STAF OPERASIONAL PENGASUHAN
 
-| Fungsi & Kegiatan Pengasuhan | Kepala Pesantren | Kepala MA/MTs | Wakamad Kesiswaan | Staf Pengasuhan / Musyrif | Staf Disiplin & BK | Wali Kelas |
+### 3.1. Musyrif Asrama (Shift Asrama 15.00 - 07.00)
+* **Fokus**: Pendampingan kehidupan kamar, kontrol kebersihan, perizinan keluar-masuk, dan bimbingan ibadah berjamaah/Al-Qur'an/Bahasa Arab.
+* *Musyrif TIDAK mengawasi kelas KBM madrasah jam 07.00-15.00.*
+
+### 3.2. Wali Kelas / Walas (Shift KBM 07.00 - 15.00)
+* **Fokus**: Pembimbingan akademik santri di kelas, monitoring keaktifan KBM, konseling akademik awal, dan komunikasi langsung dengan orang tua mengenai progres studi.
+
+### 3.3. Staf Disiplin & Bimbingan Konseling (BK)
+* **Fokus**: Penegakan tata tertib PBIS, pencatatan poin prestasi & pelanggaran di *Logbook App*, konseling tahap awal, dan resolusi konflik adil (*Ishlah al-Bain*).
+
+---
+
+## 4. MATRIKS RACI BEBAS GESEKAN BIROKRASI
+
+| Fungsi & Kegiatan Pengasuhan | Kepala Pesantren | Kepala MA/MTs | Wakamad Kesiswaan | Staf Pengasuhan / Musyrif | Wali Kelas (Walas) | Staf Disiplin & BK |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Pengasuhan Asrama 24-Jam & Kamar** | A | I | R | R | C | I |
-| **KBM Formal & Kurikulum Diniyyah** | A | R | C | I | I | R |
-| **Penanganan Kasus Restoratif Tier 2/3**| A | I | A | C | R | C |
-| **Pengelolaan Klub Santri & OSIS** | I | I | A | C | I | R |
-| **Komunikasi Parent Portal Mobile** | I | I | A | R | R | R |
+| **KBM Formal Madrasah (07.00-15.00)** | A | R | C | I | **R** | C |
+| **Pengasuhan Asrama (15.00-07.00)** | A | I | R | **R** | I | C |
+| **Penanganan Kasus Restoratif Tier 2/3**| A | I | A | C | C | **R** |
+| **Komunikasi Parent Portal Mobile** | I | I | A | R (Asrama) | R (Akademik) | R (Kasus) |
 
 *(R: Responsible, A: Accountable, C: Consulted, I: Informed)*
 
 ---
 
-## 4. SOP PENGATURAN SHIFT KERJA MUSYRIF 24-JAM (ANTI-BURNOUT)
+## 5. SOP PENGATURAN SHIFT KERJA MUSYRIF (ANTI-BURNOUT)
 
 ```mermaid
 graph TD
-    ShiftSystem["Sistem 3-Shift Kerja Musyrif Asrama 24-Jam"]
-    ShiftSystem --> ShiftPagi["Shift 1 (Pagi - 06.00 s/d 14.00): Musyrif Pendamping KBM & Presensi"]
-    ShiftSystem --> ShiftSore["Shift 2 (Sore - 14.00 s/d 22.00): Musyrif Kegiatan Ekstra, Halaqah, & Suhbah 1-on-1"]
-    ShiftSystem --> ShiftMalam["Shift 3 (Malam - 22.00 s/d 06.00): Musyrif Piket Patroli Kamar & Istirahat Bergiliran"]
+    ShiftSystem["Sistem 3-Shift Kerja Musyrif Asrama"]
+    ShiftSystem --> ShiftPagi["Shift 1 (Pagi/Siang - 06.00 s/d 14.00): Musyrif Pendamping Presensi & Persiapan Asrama"]
+    ShiftSystem --> ShiftSore["Shift 2 (Sore/Malam - 14.00 s/d 22.00): Musyrif Kegiatan Asrama, Halaqah, & Suhbah 1-on-1"]
+    ShiftSystem --> ShiftMalam["Shift 3 (Malam/Subuh - 22.00 s/d 06.00): Musyrif Piket Patroli Kamar & Istirahat Bergiliran"]
 ```
 
 ---
 
-## 5. DAFTAR PUSTAKA
+## 6. DAFTAR PUSTAKA
 * Edmondson, A. C. (2018). *The Fearless Organization*. John Wiley & Sons.
 * Senge, P. M. (1990). *The Fifth Discipline*. Doubleday.
