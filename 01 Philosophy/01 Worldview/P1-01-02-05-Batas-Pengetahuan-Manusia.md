@@ -1,120 +1,79 @@
-# P1-01-02-05-Batas-Pengetahuan-Manusia
+# P1-01-02-05: BATAS-BATAS PENGETAHUAN MANUSIA
+## *Keterbatasan Epistemologis Insan (QS. Al-Isra': 85), Tawadhu' Intelektual, dan Demarkasi Wilayah Ijtihad vs Dogma Syar'i*
 
-## Tujuan
-
-Menetapkan peta batas epistemologis manusia (*epistemic boundaries*), membedakan ranah yang dapat dijangkau akal dan panca indra dari ranah ghaib mutlak, serta menanamkan kerendahan hati intelektual (*intellectual humility*) dalam Sistem TUMBUH.
-
-Jika topik sebelumnya (`P1-01-02-04`) menjawab:
-
-> **"Bagaimana mengintegrasikan seluruh cabang pengetahuan?"**
-
-Maka topik ini menjawab:
-
-> **"Sampai di mana batas kemampuan manusia untuk mengetahui, dan bagaimana bersikap terhadap hal-hal yang berada di luar kapasitas nalar manusia?"**
+**Nomor Identifikasi**: `P1-01-02-05/BATAS-PENGETAHUAN/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` > `02 Epistemologi TUMBUH`  
+**Dewan Pakar**: `pakar-epistemologi-turats`, `pakar-filosofi-tumbuh`
 
 ---
 
-# Mengapa-Batas-Pengetahuan-Penting
+## 📑 DAFTAR ISI ANALITIS
 
-Pengabaian terhadap batas epistemologis manusia selalu memicu dua ekstrem berbahaya dalam sejarah peradaban:
-
-1. **Kesombongan Kognitif (Epistemic Arrogance / Scientism):** Klaim bahwa akal dan sains empiris mampu mengetahui dan mengatur segala hal, serta menafikan keberadaan realitas ghaib dan nilai ketuhanan hanya karena tidak terdeteksi oleh indra.
-2. **Skeptisisme Radikal & Agnostisisme:** Sikap putus asa epistemologis yang menganggap manusia tidak pernah bisa mencapai kepastian kebenaran apa pun (*relativisme mutlak*).
-
-TUMBUH memandang bahwa mengenali batas pengetahuan bukanlah kelemahan, melainkan puncak dari kebijaksanaan intelektual (*man 'arafa nafsahu fa qad 'arafa rabbahu*).
+1. [1. Aksioma Keterbatasan Epistemologis Manusia](#1-aksioma-keterbatasan-epistemologis-manusia)
+2. [2. Khazanah Nash: 'Wa Ma Utitum Minal 'Ilmi Illa Qalila'](#2-khazanah-nash-wa-ma-utitum-minal-ilmi-illa-qalila)
+3. [3. Tiga Wilayah Epistemologis: Al-Ma'lum, Al-Majhul, dan Al-Mustahil](#3-tiga-wilayah-epistemologis-al-malum-al-majhul-dan-al-mustahil)
+4. [4. Konsep Tawadhu' Intelektual vs Kesombongan Epistemis (Epistemic Arrogance)](#4-konsep-tawadhu-intelektual-vs-kesombongan-epistemis-epistemic-arrogance)
+5. [5. Implikasi bagi Sikap Ilmiah Pendidik dan Santri Pesantren](#5-implikasi-bagi-sikap-ilmiah-pendidik-dan-santri-pesantren)
 
 ---
 
-# Taksonomi-Wilayah-Realitas-dan-Aksesibilitasnya
+### 1. Aksioma Keterbatasan Epistemologis Manusia
 
-Secara epistemologis, realitas terbagi menjadi tiga tingkatan aksesibilitas bagi manusia:
+Salah satu pembeda paling esensial antara filsafat humanisme sekuler dengan epistemologi Islam adalah pengakuan mutlak atas **Keterbatasan Epistemologis Manusia (*Human Epistemic Limits*)**.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 1. ALAM GHAIB MUTHLAK (Unknowable Realm)                                   │
-│    Dzat Allah, Waktu Kiamat, Hakikat Ruh, Takdir Azali                      │
-│    → Hanya diketahui Allah. Akses manusia HANYA melalui wahyu qath'i.       │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 2. ALAM GHAIB NISBI (Conditionally Hidden Realm)                           │
-│    Masa depan, dasar samudra terdalam, mikroba tak kasatmata, sejarah masa lalu │
-│    → Tersembunyi saat ini/bagi sebagian orang, namun dapat disingkap oleh    │
-│      kemajuan sains, teknologi, dan eksplorasi empiris berdisiplin.         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 3. ALAM SYAHADAH (Empirical & Rational Realm)                              │
-│    Hukum fisika, biologi, interaksi sosial, mekanisme psikologis manusia   │
-│    → Terbuka luas untuk diteliti, diuji, dan dikembangkan oleh akal manusia.│
-└─────────────────────────────────────────────────────────────────────────────┘
+Humanisme sekuler memposisikan akal manusia sebagai ukuran mutlak segala sesuatu (*Man is the measure of all things*), berilusi bahwa manusia mampu memecahkan seluruh rahasia alam semesta tanpa bantuan Tuhan. 
+
+Sebaliknya, Islam mengajarkan bahwa sehebat apapun kecerdasan intelektual manusia, kapasitas kognisinya dibatasi oleh ruang, waktu, keterbatasan panca indera, dan kefakiran biologis. Mengakui batas pengetahuan bukanlah bentuk keputusasaan, melainkan **puncak kejujuran intelektual (*Epistemic Humility / Tawadhu' Ilmiah*)** yang mengantarkan manusia pada pengagungan Allah Yang Maha Mengetahui (*Al-'Alim*).
+
+```mermaid
+graph TD
+    subgraph BatasPengetahuan["TIGA RANAH EPISTEMOLOGIS MANUSIA"]
+        Ranah1["1. AL-MA'LUM BI ASY-SYAR'I WAL 'AQL (Wilayah yang Dapat Diketahui)<br/>Hukum alam fisik, syariat ibadah, adab mu'amalah, & data empiris."]
+        Ranah2["2. AL-MAJHUL AL-MUMKIN (Wilayah yang Belum Diketahui, tapi Dapat Diteliti)<br/>Misteri sains masa depan, penemuan teknologi baru, & dinamika psikologi."]
+        Ranah3["3. AL-GHAYB AL-MUTLAQ (Wilayah Metafisik yang Tertutup dari Nalar Mandiri)<br/>Hakikat Dzat Allah, waktu kiamat, hakikat ruh, & takdir azali -> Wajib bersandar pada Wahyu!"]
+        
+        Ranah1 --- Ranah2
+        Ranah2 --- Ranah3
+    end
 ```
 
 ---
 
-# Penyimpangan-Epistemologis-dan-Koreksi-TUMBUH
+### 2. Khazanah Nash: 'Wa Ma Utitum Minal 'Ilmi Illa Qalila'
 
-TUMBUH memetakan dan mengoreksi empat jebakan cara berpikir terkait batasan ilmu:
+Allah SWT menegaskan batas kapasitas akal manusia dalam firman-Nya:
 
-```text
-Ekstrem Negasi (Menolak Kebenaran)       Ekstrem Pelampauan (Melewati Batas)
-──────────────────────────────────       ───────────────────────────────────
-1. Skeptisisme & Relativisme             3. Over-Rasionalisme & Saintisme
-   "Tidak ada kebenaran pasti."             "Semua hal harus dibuktikan lab."
-   → Koreksi: Akal mampu meraih             → Koreksi: Indra & akal memiliki
-     kepastian dengan bimbingan wahyu.        batas instrumen biologis.
+> $$\text{وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا}$$
+> *"Dan tidaklah kamu diberi pengetahuan melainkan sedikit saja."* (QS. Al-Isra' [17]: 85).
 
-2. Agnostisisme Spiritual                4. Mistisisme Liar & Khurafat
-   "Tuhan dan akhirat tak relevan."         "Mengklaim tahu takdir/ghaib bebas."
-   → Koreksi: Wahyu memberikan berita       → Koreksi: Ghaib mutlak tertutup
-     pasti (*khabar shadiq*) yang sah.        dari spekulasi manusia.
-```
+Imam Asy-Syafi'i (w. 204 H) dalam syair terkenalnya mengabadikan prinsip kerendahan hati para ulama sejati:
+
+> $$\text{كُلَّمَا أَدَّبَنِي الدَّهْرُ أَرَانِي نَقْصَ عَقْلِي ۝ وَإِذَا مَا ازْدَدْتُ عِلْمًا زَادَنِي عِلْمًا بِجَهْلِي}$$
+> 
+> *"Setiap kali zaman mendidik adabku, ia memperlihatkan kepadaku betapa banyaknya kekurangan pada akalku. Dan setiap kali bertambah ilmuku, niscaya bertambah pula pengetahuanku akan betapa besarnya kebodohanku!"* (Diwan Asy-Syafi'i, hlm. 92).
 
 ---
 
-# Kerendahan-Hati-Intelektual (Tawadhu' Fikri)
+### 3. Tiga Wilayah Epistemologis Manusia
 
-Dalam Sistem TUMBUH, semakin tinggi ilmu seseorang, seharusnya semakin tinggi pula kesadarannya akan keterbatasan dirinya (*intellectual humility*).
-
-Prinsip-prinsip Tawadhu' Fikri:
-1. **Mengakui Ketidaktahuan:** Keberanian mengatakan *"Wallahu a'lam"* (Allah lebih tahu) terhadap hal-hal di luar otoritas keilmuan diri.
-2. **Keterbukaan terhadap Koreksi:** Selalu siap merevisi asumsi dan model berpikir jika dihadapkan pada dalil wahyu yang lebih shahih atau bukti empiris yang lebih valid.
-3. **Pemisahan Antara Fakta dan Opini:** Disiplin membedakan antara hukum alam/wahyu yang pasti dengan interpretasi manusiawi yang bersifat *zhanniy* (probabilistik).
+1. **Wilayah yang Terbuka bagi Akal dan Riset Empiris**: Bidang sains kedokteran, arsitektur asrama, teknologi informasi, dan rekayasa metode pengajaran. Di wilayah ini, santri didorong untuk berijtihad, meneliti, dan berinovasi secara bebas.
+2. **Wilayah yang Tertutup bagi Spekulasi Akal (*Ta'abbudi Mahdh*)**: Tata cara rakaat shalat fardhu, kadar zakat, dan rincian alam barzakh. Di wilayah ini, sikap santri adalah *Sami'na wa Atha'na* (tunduk patuh pada wahyu).
+3. **Wilayah Rahasia Allah (*Ghaib Mutlak*)**: Waktu terjadinya hari kiamat dan rincian takdir azali. Manusia dilarang membuang-buang energi memperdebatkan hal-hal yang sengaja dirahasiakan Allah SWT.
 
 ---
 
-# Implikasi-Terhadap-Sistem-TUMBUH
+### 4. Tawadhu' Intelektual vs Kesombongan Epistemis
 
-### 1. Budaya Pembelajaran & Riset
-Mendorong budaya riset yang progresif, berani mengeksplorasi ayat-ayat kauniyyah secara mendalam, namun tetap bersujud dalam ketundukan etis di hadapan batasan wahyu.
-
-### 2. Formasi Karakter Pembelajar
-Mencegah lahirnya pembelajar yang arogan (*ujub dan takabbur*) karena gelar akademik atau kecerdasan logika. Pengetahuan diarahkan untuk melahirkan rasa takut kepada Allah (*khasyyah*) dan kepedulian sosial.
-
-### 3. Resilience dalam Menghadapi Ketidakpastian
-Dalam ranah pengambilan keputusan dan kepemimpinan (*Leadership Framework*), menyadari batas pengetahuan membantu pemimpin menyusun strategi berbasis data terbaik (*ikhtiar maksimal*), sambil tetap bertawakkal kepada Allah atas hasil di luar kendalinya.
+| Parameter | Kesombongan Epistemis (Ditolak) | Tawadhu' Intelektual TUMBUH (Diterapkan) |
+| :--- | :--- | :--- |
+| **Sikap atas Kebenaran** | Merasa pendapatnya paling benar mutlak; anti-kritik. | Menghargai perbedaan pendapat ijtihadiyah (*Ikhtilaf*). |
+| **Respon saat Tidak Tahu** | Malu mengakui ketidaktahuan; mengarang jawaban palsu. | Berani mengatakan *"La Adri / Wallahu A'lam"* (separuh ilmu). |
+| **Pandangan atas Ilmu** | Menjadikan ilmu sebagai alat kesombongan & debat kusir. | Menjadikan ilmu sebagai sarana takut kepada Allah (*Khasyyah*). |
 
 ---
 
-# Catatan-Kritis
+### 5. Implikasi bagi Sikap Ilmiah Santri & Pendidik
 
-* Menetapkan batas pengetahuan manusia bukan berarti membatasi kemajuan sains dan teknologi. Sebaliknya, hal ini melindungi sains agar tidak melenceng menjadi ideologi semu (saintisme) yang merusak nilai kemanusiaan.
-
----
-
-## Status
-
-**Status:** ✅ **SELESAI**
-
-**Level:** Topik
-
-**Project:** `P1-01-Worldview-TUMBUH`
-
-**Subproject:** `P1-01-02-Epistemologi-TUMBUH`
-
-**Topik:** `P1-01-02-05-Batas-Pengetahuan-Manusia`
-
-**Alasan:**
-* Taksonomi alam (Ghaib Muthlak, Ghaib Nisbi, Syahadah) telah dipetakan secara jelas.
-* 4 jebakan epistemologis dan koreksi solutifnya telah dirumuskan.
-* Konsep tawadhu' fikri telah diintegrasikan sebagai bagian pembentukan karakter pembelajar.
-
-**Langkah-Berikutnya:**
-
-`P1-01-02-06-Hikmah-dan-Kebijaksanaan`
+1. **Budaya Berani Mengatakan "Wallahu A'lam"**: Musyrif dan asatidz dibiasakan untuk tidak memaksakan diri menjawab pertanyaan santri yang belum dikuasainya, melainkan menjanjikan riset rujukan terlebih dahulu.
+2. **Keterbukaan atas Evaluasi Ilmiah**: Seluruh staf pengasuhan siap menerima masukan dan kritik konstruktif demi perbaikan mutu pelayanan santri.
+3. **Penghapusan Fanatisme Mazhab Sempit (*Ta'ashshub*)**: Santri diajarkan lapang dada (*Tasamuh*) terhadap furu'iyyah fiqhiyyah selagi masih berada dalam koridor Ahlus Sunnah wal Jama'ah.

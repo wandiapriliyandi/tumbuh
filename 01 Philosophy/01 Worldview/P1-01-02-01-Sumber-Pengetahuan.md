@@ -1,257 +1,88 @@
-# P1-01-02-01-Sumber-Pengetahuan
+# P1-01-02-01: SUMBER-SUMBER PENGETAHUAN DALAM ISLAM
+## *Struktur Hierarkis Empat Saluran Epistemologis: Wahyu, Akal Sehat, Indera Empiris, dan Intuisi Batin (Ilham/Kasyf)*
 
-## Tujuan
-
-Merumuskan sumber-sumber pengetahuan yang diakui dalam Sistem TUMBUH beserta hubungan di antaranya.
-
-Topik ini akan menentukan bagaimana seluruh proses pembelajaran, pengambilan keputusan, asesmen, mentoring, coaching, dan pengembangan manusia dilakukan.
-
----
-
-# Mengapa-Sumber-Pengetahuan-Penting
-
-Seseorang akan mengambil keputusan berdasarkan apa yang ia anggap sebagai sumber kebenaran.
-
-Misalnya:
-
-* Jika hanya mengandalkan pengalaman, maka pengalaman menjadi standar.
-* Jika hanya mengandalkan logika, maka akal menjadi standar.
-* Jika hanya mengandalkan tradisi, maka budaya menjadi standar.
-
-Karena itu, sebelum membahas cara belajar, TUMBUH harus menetapkan terlebih dahulu **apa saja sumber pengetahuan yang sah**.
+**Nomor Identifikasi**: `P1-01-02-01/SUMBER-PENGETAHUAN/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` > `02 Epistemologi TUMBUH`  
+**Dewan Pakar**: `pakar-epistemologi-turats`, `pakar-filosofi-tumbuh`, `pakar-pedagogi-master-guru`
 
 ---
 
-# Pengertian-Sumber-Pengetahuan
+## 📑 DAFTAR ISI ANALITIS
 
-Dalam TUMBUH, sumber pengetahuan adalah:
-
-> **Segala sarana yang Allah anugerahkan kepada manusia untuk memperoleh pengetahuan yang benar tentang diri, alam, dan kehidupan.**
-
-Sumber pengetahuan bukan sekadar alat memperoleh informasi, tetapi juga sarana untuk memahami realitas sesuai dengan tujuan penciptaan manusia.
-
----
-
-# Sumber-Pengetahuan-Dalam-TUMBUH
-
-TUMBUH mengakui empat sumber utama pengetahuan.
-
-## Wahyu
-
-Wahyu merupakan petunjuk yang Allah turunkan kepada manusia melalui Al-Qur'an dan Sunnah yang sahih.
-
-Karakteristik:
-
-* berasal dari Allah,
-* menjadi standar kebenaran tertinggi,
-* memberikan pengetahuan yang tidak dapat dicapai akal secara mandiri,
-* menjadi korektor terhadap kesalahan manusia.
-
-Ruang lingkup:
-
-* akidah,
-* ibadah,
-* nilai,
-* tujuan hidup,
-* prinsip moral,
-* perkara ghaib.
+1. [1. Urgensi Perumusan Sumber Pengetahuan dalam Pendidikan Pesantren](#1-urgensi-perumusan-sumber-pengetahuan-dalam-pendidikan-pesantren)
+2. [2. Empat Saluran Epistemologis yang Sah dalam Islam](#2-empat-saluran-epistemologis-yang-sah-dalam-islam)
+3. [3. Hierarki dan Hubungan Antarsumber Pengetahuan](#3-hierarki-dan-hubungan-antarsumber-pengetahuan)
+4. [4. Matriks Komparasi: Epistemologi Islam vs Rasionalisme & Empirisisme Sekuler](#4-matriks-komparasi-epistemologi-islam-vs-rasionalisme--empirisisme-sekuler)
+5. [5. Implikasi bagi Metodologi Pembelajaran Santri di Pesantren](#5-implikasi-bagi-metodologi-pembelajaran-santri-di-pesantren)
 
 ---
 
-## Akal
+### 1. Urgensi Perumusan Sumber Pengetahuan
 
-Akal merupakan kemampuan manusia untuk berpikir, menganalisis, menghubungkan, dan menyimpulkan.
+Bagaimana seseorang berpikir, mengambil keputusan moral, dan mendidik santrinya ditentukan oleh apa yang ia yakini sebagai **sumber kebenaran yang sah (*valid sources of knowledge*)**.
 
-Karakteristik:
+Jika pesantren hanya mengakui wahyu secara tekstual sembari menolak akal dan sains empiris (*tekstualisme sempit*), maka pesantren akan tertinggal dari kemajuan peradaban. Sebaliknya, jika pesantren terjebak dalam empirisisme sekuler yang menolak wahyu, maka pesantren akan kehilangan ruh keimanan dan orientasi ukhrawi.
 
-* mampu memahami pola,
-* mampu melakukan penalaran,
-* mampu mengembangkan ilmu,
-* memiliki keterbatasan.
+Ekosistem TUMBUH merumuskan **Epistemologi Integratif**: mengakui empat saluran pengetahuan yang saling melengkapi di bawah naungan otoritas wahyu.
 
-Akal bukan pesaing wahyu.
-
-Akal adalah anugerah Allah untuk memahami ciptaan-Nya.
-
----
-
-## Pengalaman-Empiris
-
-Pengalaman empiris diperoleh melalui:
-
-* pengamatan,
-* eksperimen,
-* interaksi,
-* refleksi terhadap kenyataan.
-
-Karakteristik:
-
-* menghasilkan ilmu praktis,
-* dapat diuji ulang,
-* berkembang seiring penelitian.
-
-Inilah dasar berkembangnya sains.
-
----
-
-## Hati
-
-Yang dimaksud hati bukan sekadar emosi.
-
-Dalam tradisi Islam, hati (*qalb*) merupakan pusat kesadaran moral dan spiritual manusia.
-
-Karakteristik:
-
-* membentuk keikhlasan,
-* menangkap hikmah,
-* membimbing nurani,
-* memengaruhi kualitas penilaian manusia.
-
-Hati yang rusak dapat menyebabkan pengetahuan yang benar tidak melahirkan perilaku yang benar.
-
----
-
-# Hubungan-Antar-Sumber-Pengetahuan
-
-Keempat sumber tersebut bukan pesaing.
-
-Masing-masing memiliki fungsi yang berbeda.
-
-```text
-                 Wahyu
-                    │
-        ┌───────────┼───────────┐
-        │           │           │
-      Akal     Pengalaman      Hati
-        │           │           │
-        └───────────┼───────────┘
-                    │
-            Pengetahuan-Yang-Benar
-                    │
-                 Hikmah
-                    │
-                 Tindakan
+```mermaid
+graph TD
+    subgraph HierarkiEpistemologi["HIERARKI SUMBER PENGETAHUAN ISLAM (TUMBUH)"]
+        Wahyu["1. AL-WAHYU (Khabar Shadiq - Qur'an & Sunnah)<br/>Otoritas tertinggi & pemandu mutlak seluruh cabang ilmu"]
+        Akal["2. AL-'AQL AS-SALIM (Akal Sehat & Penalaran Logis)<br/>Memahami dalil, menimbang kausalitas, & menyintesis konsep"]
+        Indera["3. AL-HAWAS AS-SALIMAH (Pancaindera & Observasi Empiris)<br/>Meneliti ayat-ayat kauniyyah alam semesta & data perilaku faktual"]
+        Ilham["4. AL-ILHAM / AL-BASHIRAH (Intuisi Batin & Cahaya Qalbu)<br/>Pencerahan spiritual bagi jiwa yang telah bersih melalui Tazkiyah"]
+        
+        Wahyu ==> Akal
+        Wahyu ==> Indera
+        Wahyu ==> Ilham
+        Akal <==> Indera
+        Akal <==> Ilham
+    end
 ```
 
-Dalam struktur ini:
+---
 
-* wahyu memberi arah,
-* akal menjelaskan,
-* pengalaman menguji,
-* hati memurnikan.
+### 2. Empat Saluran Epistemologis yang Sah dalam Islam
 
-Keempatnya bekerja secara terpadu.
+#### A. Wahyu Ilahi (*Al-Wahyu / Al-Khabar ash-Shadiq*)
+Sumber pengetahuan transendental yang absolut dan terbebas dari kesalahan (*ma'shum*). Wahyu memberikan pengetahuan mengenai hal-hal ghaib yang tidak terjangkau oleh indera dan akal (hakikat ketuhanan, malaikat, hari akhir, syariat ibadah, dan hukum moral abadi). Allah SWT berfirman:
+> $$\text{عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ}$$
+> *"Dia mengajarkan kepada manusia apa yang tidak diketahuinya."* (QS. Al-'Alaq [96]: 5).
+
+#### B. Akal Sehat (*Al-'Aql as-Salim*)
+Daya intelektual yang dianugerahkan Allah untuk memahami wahyu, menyimpulkan hukum (*istimbath*), menganalisis hubungan sebab-akibat, dan menolak kontradiksi logika. Al-Qur'an berulang kali mencela mereka yang tidak menggunakan akalnya: *"Afala ta'qilun?"* (QS. Al-Baqarah: 44).
+
+#### C. Pancaindera yang Sehat (*Al-Hawas as-Salimah*)
+Pintu gerbang observasi empiris manusia terhadap alam syahadah melalui penglihatan, pendengaran, penciuman, perabaan, dan pengecapan. Indera menjadi instrumen utama dalam riset sains, pengamatan astronomi, kedokteran, dan pengumpulan data perilaku santri di asrama (QS. An-Nahl: 78).
+
+#### D. Intuisi Batin & Cahaya Kalbu (*Al-Ilham ash-Shadiq / Al-Kasyf al-Wijdani*)
+Pencerahan langsung yang dihunjamkan Allah ke dalam kalbu hamba-Nya yang bertakwa setelah melalui proses *Tazkiyatun Nafs*, dzikir yang konsisten, dan keikhlasan niat. Imam Al-Ghazali menyebutnya sebagai *"Nur yaqdzifuhullah fi al-qalb"* (Cahaya yang dilemparkan Allah ke dalam kalbu).
 
 ---
 
-# Hierarki-Sumber-Pengetahuan
+### 3. Hierarki dan Hubungan Antarsumber Pengetahuan
 
-TUMBUH menggunakan **hierarki integratif**, bukan kesetaraan mutlak.
-
-Urutannya:
-
-```text
-Wahyu
-↓
-Akal
-↓
-Pengalaman
-↓
-Hati
-```
-
-Namun hierarki ini **bukan berarti** sumber di bawah tidak penting.
-
-Artinya:
-
-* apabila terjadi pertentangan yang nyata, wahyu menjadi rujukan terakhir.
-* selama tidak bertentangan dengan wahyu, akal, pengalaman, dan hati bekerja secara sinergis.
+1. **Wahyu adalah Hakim Tertinggi (*Al-Hakim al-Mutlaq*)**: Wahyu menetapkan batas-batas etika (*the ethical boundaries*) bagi akal dan indera. Akal dan riset sains tidak boleh bertentangan dengan dalil qath'i wahyu.
+2. **Akal adalah Penjelas dan Pembuktian (*Al-Mubayyin wal Burhan*)**: Akal bertugas menggali hikmah, merumuskan metodologi operasional, dan menerapkan prinsip wahyu ke dalam konteks zaman.
+3. **Indera adalah Pengumpul Fakta Lapangan (*Al-Mustaqri' lil Waqi'*)**: Indera menyediakan data empiris objektif bagi akal untuk memecahkan masalah praktis asrama.
+4. **Kalbu adalah Pengikat Keikhlasan (*Al-Muharrik lil Ikhlas*)**: Kalbu memastikan seluruh aktivitas pencarian ilmu berorientasi pada ridha Allah SWT.
 
 ---
 
-# Implikasi-Terhadap-TUMBUH
+### 4. Matriks Komparasi Epistemologi
 
-Konsep ini akan memengaruhi seluruh sistem.
-
-**Learning Principles**
-
-Belajar berarti mengintegrasikan wahyu, berpikir, pengalaman, dan refleksi.
-
----
-
-**Assessment**
-
-Penilaian tidak cukup mengukur hafalan.
-
-Harus mengukur:
-
-* pemahaman,
-* penalaran,
-* penerapan,
-* refleksi.
+| Aliran Epistemologi | Sumber yang Diakui | Sumber yang Ditolak | Dampak pada Pendidikan |
+| :--- | :--- | :--- | :--- |
+| **Rasionalisme Barat (Descartes)** | Akal rasional (*Ratio*) semata. | Wahyu dan indera dianggap meragukan. | Mengabaikan wahyu agama; lahirnya deisme sekuler. |
+| **Empirisisme Barat (Locke, Hume)** | Indera empiris (*Sensory data*) semata. | Menolak metafisika dan wahyu ghaib. | Positivisme materialistik; menolak dosa/pahala. |
+| **Tekstualisme Ekstrem / Literalisme** | Teks wahyu harfiah semata. | Mengerdilkan nalar akal dan sains empiris. | Kejumudan peradaban; menolak metodologi modern. |
+| **Epistemologi Islam TUMBUH** | **Integrasi Wahyu + Akal + Indera + Ilham.** | **Menolak reduksionisme sepihak.** | **Pendidikan holistik: beriman, saintifik, & beradab.** |
 
 ---
 
-**Mentoring**
+### 5. Implikasi bagi Metodologi Pembelajaran di Pesantren
 
-Mentor membantu menyelaraskan keempat sumber pengetahuan tersebut.
-
----
-
-**Coaching**
-
-Coaching membantu seseorang menemukan solusi melalui akal dan pengalaman tanpa keluar dari nilai wahyu.
-
----
-
-**Character Development**
-
-Karakter terbentuk ketika pengetahuan yang benar diterjemahkan menjadi tindakan yang benar secara konsisten.
-
----
-
-# Catatan-Kritis
-
-Topik ini telah menetapkan **apa** sumber pengetahuan.
-
-Namun masih ada beberapa pertanyaan yang belum dijawab.
-
-1. Bagaimana manusia memperoleh pengetahuan dari masing-masing sumber?
-2. Bagaimana jika terjadi konflik antara hasil penelitian ilmiah dan pemahaman terhadap dalil?
-3. Bagaimana membedakan hati yang jernih dengan sekadar perasaan?
-4. Bagaimana proses integrasi keempat sumber tersebut dalam pembelajaran?
-
-Pertanyaan-pertanyaan tersebut merupakan ruang lingkup topik berikutnya.
-
----
-
-## Status
-
-**Status:** ✅ **SELESAI**
-
-**Level:** Topik
-
-**Project:** `P1-01-Worldview-TUMBUH`
-
-**Subproject:** `P1-01-02-Epistemologi-TUMBUH`
-
-**Topik:** `P1-01-02-01-Sumber-Pengetahuan`
-
-**Alasan:**
-
-* Sumber pengetahuan telah didefinisikan secara jelas.
-* Fungsi masing-masing sumber telah dibedakan.
-* Hubungan dan hierarki antar sumber telah dirumuskan.
-* Siap menjadi dasar pembahasan proses memperoleh pengetahuan.
-
-**Langkah-Berikutnya:**
-
-`P1-01-02-02-Proses-Memperoleh-Pengetahuan`
-
----
-
-### Catatan Akademik (Perlu Dibahas Nanti)
-
-Ada satu isu yang menurut saya perlu menjadi pembahasan tersendiri pada tahap akhir epistemologi, yaitu **status intuisi (`ilham`)**.
-
-Saat ini saya **belum memasukkannya sebagai sumber pengetahuan utama**, karena dalam tradisi Islam status ilham diperdebatkan dan tidak dapat dijadikan hujjah umum seperti Al-Qur'an, Sunnah, akal, atau pengalaman empiris. Nanti kita dapat mengkajinya secara khusus agar posisi epistemologi TUMBUH tetap kuat secara ilmiah sekaligus tetap menghargai kekayaan tradisi Islam.
+1. **Integrasi Ayat Qawliyyah dan Kauniyyah**: Santri diajarkan bahwa mempelajari biologi dan fisika adalah ibadah meneliti ayat kauniyyah Allah yang sama mulianya dengan menghafal ayat Al-Qur'an.
+2. **Metode Sorogan Interaktif Berbasis Nalar**: Sorogan kitab tidak boleh menjadi indoktrinasi pasif; santri dirangsang untuk bertanya, menalar argumen, dan menguji relevansi kontekstual kitab klasik.
+3. **Pengambilan Keputusan Berbasis Data Empiris**: Penanganan masalah asrama (seperti kebersihan kamar atau jam tidur) menggunakan data logbook terukur (*Indera & Akal*), sembari menjaga doa dan keikhlasan (*Wahyu & Kalbu*).

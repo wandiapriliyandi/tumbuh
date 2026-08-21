@@ -1,161 +1,87 @@
-Berikut adalah **versi final** `P1-01-01-01-Definisi-Realitas` yang telah mengintegrasikan hasil kritik dan revisi. Ini adalah versi yang layak masuk ke repository TUMBUH.
+# P1-01-01-01: DEFINISI DAN HAKIKAT REALITAS
+## *Fondasi Ontologis Realisme Kritis Teistik dalam Worldview Islam dan Desain Pendidikan Karakter TUMBUH*
 
-# P1-01-01-01-Definisi-Realitas
-
-## Tujuan
-
-Merumuskan definisi **realitas** sebagai fondasi ontologi TUMBUH. Definisi ini harus akurat secara filosofis, selaras dengan worldview Islam, serta mampu menjadi dasar bagi seluruh Sistem TUMBUH.
-
----
-
-# Mengapa-Definisi-Realitas-Penting
-
-Setiap sistem pendidikan dibangun di atas asumsi tentang apa yang dianggap sebagai **realitas**.
-
-Misalnya:
-
-* Jika realitas dipahami hanya sebagai materi, maka pendidikan akan berfokus pada aspek fisik dan intelektual.
-* Jika realitas dipahami hanya sebagai spiritual, maka aspek sosial, ekonomi, dan sains berisiko diabaikan.
-* Jika realitas dipahami secara utuh, maka pendidikan juga harus mengembangkan manusia secara utuh.
-
-Dengan demikian, definisi realitas akan menentukan arah seluruh filsafat, prinsip, dan desain Sistem TUMBUH.
+**Nomor Identifikasi**: `P1-01-01-01/DEFINISI-REALITAS/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` > `01 Hakikat Realitas`  
+**Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-epistemologi-turats`, `pakar-arsitektur-digital-pesantren`
 
 ---
 
-# Analisis-Istilah
+## 📑 DAFTAR ISI ANALITIS
 
-Secara umum, **realitas** adalah:
-
-> **Segala sesuatu yang benar-benar ada (exists), baik dapat diamati maupun tidak, serta keberadaannya tidak bergantung pada pengakuan atau persepsi manusia.**
-
-Definisi ini menekankan bahwa keberadaan sesuatu bersifat objektif, bukan ditentukan oleh keyakinan atau pendapat manusia.
-
----
-
-# Unsur-Definisi-Realitas
-
-Definisi tersebut memuat tiga unsur pokok.
-
-## Keberadaan
-
-Sesuatu disebut realitas karena benar-benar ada.
-
-Contoh:
-
-* Allah.
-* Malaikat.
-* Manusia.
-* Alam semesta.
-* Waktu.
-
-Realitas tidak bergantung pada apakah manusia mampu mengamatinya atau tidak.
+1. [1. Tujuan dan Urgensi Ontologis Perumusan Realitas](#1-tujuan-dan-urgensi-ontologis-perumusan-realitas)
+2. [2. Mengapa Definisi Realitas Menentukan Arah Pendidikan Pesantren?](#2-mengapa-definisi-realitas-menentukan-arah-pendidikan-pesantren)
+3. [3. Analisis Istilah dan Definisi Operasional Realitas](#3-analisis-istilah-dan-definisi-operasional-realitas)
+4. [4. Tiga Unsur Pokok Realitas: Keberadaan, Objektivitas, dan Independensi](#4-tiga-unsur-pokok-realitas-keberadaan-objektivitas-dan-independensi)
+5. [5. Dikotomi Realitas: Alam Ghaib (Mala'ul A'la) dan Alam Syahadah (Mulk)](#5-dikotomi-realitas-alam-ghaib-malaul-ala-dan-alam-syahadah-mulk)
+6. [6. Implikasi Ontologis bagi Struktur Kurikulum Ekosistem TUMBUH](#6-implikasi-ontologis-bagi-struktur-kurikulum-ekosistem-tumbuh)
 
 ---
 
-## Objektivitas
+### 1. Tujuan dan Urgensi Ontologis Perumusan Realitas
 
-Realitas tidak berubah karena opini, budaya, atau keinginan manusia.
-
-Contoh:
-
-* Gravitasi tetap berlaku meskipun tidak dipercayai.
-* Kematian tetap menjadi bagian dari kehidupan.
-* Kebenaran moral dalam Islam tidak berubah karena perubahan zaman.
+Tujuan utama modul ini adalah merumuskan definisi **Realitas (*al-Haqiqah / al-Wujud*)** sebagai fondasi ontologis paling mendasar bagi seluruh arsitektur Ekosistem TUMBUH. Definisi ini wajib akurat secara filosofis, berakar kuat pada worldview Islam, serta mampu menepis kerancuan ontologis modern—baik reduksionisme materialistik yang menafikan alam ghaib maupun mistisisme pasif yang mengabaikan sunnatullah empiris di alam syahadah.
 
 ---
 
-## Independensi
+### 2. Mengapa Definisi Realitas Menentukan Arah Pendidikan Pesantren?
 
-Keberadaan realitas tidak ditentukan oleh kesadaran manusia.
+Setiap sistem pendidikan niscaya dibangun di atas asumsi metafisik mengenai apa yang dianggap sebagai **Realitas Tertinggi (*Ultimate Reality*)**:
 
-Manusia dapat:
+```mermaid
+graph TD
+    subgraph DampakOntologi["IMPLIKASI DEFINISI REALITAS TERHADAP PENDIDIKAN"]
+        Mat["1. ONTO-MATERIALISME SEKULER<br/>Realitas hanya materi fisik yang terukur indrawi.<br/>-> Pendidikan hanya mengejar kompetensi vokasional & pasar kerja mekanis."]
+        Spi["2. ONTO-MISTISISME EKSTREM<br/>Realitas duniawi fana dianggap ilusi tak bernilai.<br/>-> Pendidikan mengabaikan sains, kebersihan fisik, & kemajuan peradaban."]
+        Isl["3. REALISME INTEGRAL ISLAM (TUMBUH)<br/>Realitas mencakup Wujud Mutlak (Khaliq) & Wujud Bergantung (Makhluk: Ghaib + Syahadah).<br/>-> Pendidikan mengembangkan manusia seutuhnya (Ruh, Qalb, Aql, & Raga)."]
+    end
+```
 
-* menemukan,
-* memahami,
-* atau bahkan mengingkari realitas,
-
-tetapi tidak dapat mengubah keberadaannya.
-
----
-
-# Definisi-Realitas-Menurut-TUMBUH
-
-Berdasarkan worldview Islam, TUMBUH merumuskan definisi berikut:
-
-> **Realitas adalah segala sesuatu yang benar-benar ada, baik Allah sebagai Pencipta maupun seluruh makhluk ciptaan-Nya, yang keberadaannya bersifat objektif dan tidak bergantung pada pengakuan manusia.**
-
-Definisi ini **secara sengaja hanya membahas aspek ontologis** (hakikat keberadaan).
-
-Pembahasan mengenai:
-
-* bagaimana realitas diketahui,
-* mengapa realitas ada,
-* bagaimana manusia memahami realitas,
-
-akan dibahas pada bagian lain dalam Worldview TUMBUH.
+Jika pesantren memahami realitas secara terbelah, maka pengasuhan akan melahirkan santri yang timpang: hafal matan namun mengabaikan kebersihan fisik dan etika sosial, atau sebaliknya cakap teknologi namun hampa dari kesadaran muraqabatullah.
 
 ---
 
-# Karakteristik-Realitas
+### 3. Analisis Istilah dan Definisi Operasional Realitas
 
-Berdasarkan definisi tersebut, realitas memiliki karakteristik sebagai berikut.
+Dalam khazanah epistemologi Islam dan filsafat kritis, **Realitas** didefinisikan sebagai:
 
-1. Berasal dari Allah atau berada dalam ciptaan-Nya.
-2. Bersifat objektif.
-3. Mencakup dimensi yang tampak (*syahadah*) dan yang gaib (*ghaib*).
-4. Memiliki keteraturan sesuai sunnatullah.
-5. Dapat dipelajari sesuai batas kemampuan manusia.
-6. Menjadi dasar bagi seluruh pengembangan ilmu pengetahuan.
+> **"Segala sesuatu yang benar-benar ada (*al-Mawjud al-Haqiqiy*), baik yang berada dalam domain metafisik yang tak kasat mata (*'Alam al-Ghayb*) maupun domain fisik yang teramati (*'Alam asy-Syahadah*), di mana eksistensi dan hukum-hukumnya bersifat objektif serta tidak bergantung pada pengakuan, persepsi, atau opini subjektif manusia."**
+
+Kaidah ini menegaskan bahwa kebenaran realitas tidak diciptakan oleh konsensus manusia, melainkan ditemukan (*discovered*) dan diakui (*acknowledged*) melalui instrumen epistemologi yang valid (Wahyu, Akal Sehat, dan Indera yang Sehat).
 
 ---
 
-# Implikasi-Terhadap-TUMBUH
+### 4. Tiga Unsur Pokok Realitas
 
-Definisi ini menjadi fondasi bagi seluruh Sistem TUMBUH.
+```mermaid
+graph LR
+    Unsur["TIGA UNSUR POKOK REALITAS"]
+    Unsur --> U1["1. KEBERADAAN (Existence / Wujud)<br/>Realitas memiliki wujud nyata, baik Wajib al-Wujud (Allah) maupun Mumkin al-Wujud (Alam Semesta)."]
+    Unsur --> U2["2. OBJEKTIVITAS (Objectivity / Haqiqah)<br/>Hukum realitas (Sunnatullah & Syariat) tidak berubah karena emosi, budaya, atau kesepakatan manusia."]
+    Unsur --> U3["3. INDEPENDENSI DARI PERSEPSI (Ontological Independence)<br/>Sesuatu tetap ada dan nyata meskipun manusia belum mampu mengamati atau mengingkarinya."]
+```
 
-* **Philosophy** dibangun di atas realitas yang utuh.
-* **Capacity Framework** mengembangkan seluruh dimensi manusia.
-* **Assessment Framework** mengukur perkembangan berdasarkan realitas manusia yang utuh.
-* **Intervention Framework** berfokus pada penyebab mendasar, bukan hanya gejala.
-* **Implementation Framework** dirancang selaras dengan sunnatullah tentang perkembangan manusia.
-
----
-
-# Batasan-Pembahasan
-
-Topik ini hanya membahas **hakikat realitas (ontologi)**.
-
-Topik berikut akan membahas aspek lain secara terpisah.
-
-* **Aksioma-Realitas** → prinsip dasar tentang realitas.
-* **Validasi-Dalil** → landasan Al-Qur'an dan Hadis.
-* **Validasi-Turats** → pandangan ulama dan tradisi keilmuan Islam.
-* **Sintesis-Filosofis** → integrasi menjadi posisi filosofis TUMBUH.
-* **Epistemologi-TUMBUH** → bagaimana manusia memperoleh pengetahuan tentang realitas.
-
-Pemisahan ini menjaga agar setiap topik memiliki fokus yang jelas dan tidak saling tumpang tindih.
+1. **Keberadaan (*al-Wujud*)**: Sesuatu disebut realitas karena ia benar-benar ada dalam kenyataan hakiki. Allah SWT ada, malaikat ada, ruh manusia ada, hukum gravitasi ada, dan pahala/dosa ada.
+2. **Objektivitas (*ath-Thab' al-Maudhu'iy*)**: Realitas memiliki sifat dan hukum baku (*Sunnatullah*). Api membakar secara objektif; perundungan merusak mental santri secara objektif; dan keikhlasan mendatangkan keberkahan secara objektif.
+3. **Independensi dari Persepsi Manusia**: Kebenaran halal-haram tidak menjadi cair hanya karena manusia di suatu zaman menormalisasi kemaksiatan. Realitas syariat berdiri kokoh melampaui relativisme budaya.
 
 ---
 
-## Status
+### 5. Dikotomi Realitas: Alam Ghaib dan Alam Syahadah
 
-**Status:** ✅ **SELESAI**
+Worldview Islam memetakan realitas ciptaan (*al-Kawn*) ke dalam dua domain yang saling berinteraksi secara harmonis:
 
-**Level:** Topik
+| Domain Realitas | Terminologi Turats | Lingkup Entitas | Instrumen Mengetahuinya |
+| :--- | :--- | :--- | :--- |
+| **Alam Ghaib (*'Alam al-Ghayb*)** | *'Alam al-Malakut & al-Jabarut* | Allah SWT, Malaikat, Surga, Neraka, Barzakh, Jin, Hakikat Ruh. | **Wahyu Sharih (*Khabar Shadiq*)** dan bashirah kalbu yang suci. |
+| **Alam Nyata (*'Alam asy-Syahadah*)** | *'Alam al-Mulk wa asy-Syahadah* | Tubuh biologis, gedung asrama, interaksi sosial santri, hukum fisika-biologi. | **Indera Sehat (*al-Hawas as-Salimah*)** dan observasi sains empiris. |
 
-**Project:** `P1-01-Worldview-TUMBUH`
+Pendidikan karakter TUMBUH menolak memisahkan kedua alam ini: santri diajarkan bahwa setiap gerak fisik di alam syahadah (seperti memungut sampah atau tersenyum pada kawan) memiliki konsekuensi spiritual langsung di alam ghaib (pencatatan malaikat dan keridhaan Allah SWT).
 
-**Subproject:** `P1-01-01-Hakikat-Realitas`
+---
 
-**Topik:** `P1-01-01-01-Definisi-Realitas`
+### 6. Implikasi Ontologis bagi Struktur Kurikulum TUMBUH
 
-**Alasan:**
-
-* Definisi telah melalui proses analisis, kritik, dan revisi.
-* Ruang lingkup pembahasan telah dibatasi hanya pada aspek ontologis.
-* Tidak ditemukan kelemahan mendasar yang memerlukan perubahan struktur definisi.
-* Siap menjadi landasan bagi penyusunan aksioma realitas.
-
-**Langkah-Berikutnya:**
-
-`P1-01-01-02-Aksioma-Realitas`
+1. **Kurikulum Tauhid yang Membumi**: Tauhid bukan sekadar hafalan bait-bait sifat 20 yang abstrak, melainkan diwujudkan dalam kesadaran bahwa Allah mengawasi santri di setiap jengkal ruang asrama (*Muraqabatullah*).
+2. **Penghormatan atas Sunnatullah Empiris**: Menjaga kebersihan kamar, kecukupan nutrisi, dan manajemen waktu diakui sebagai hukum realitas yang wajib ditaati untuk mencapai kesehatan jiwa raga.
+3. **Keseimbangan Dimensi Ruhiyah dan Maddiyah**: Seluruh fasilitas fisik pesantren (arsitektur gedung, pencahayaan lorong, sanitasi) dirancang untuk mendukung optimalisasi ibadah dan penanaman adab 24 jam.

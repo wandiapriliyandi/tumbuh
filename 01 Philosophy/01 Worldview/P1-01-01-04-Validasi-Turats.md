@@ -1,229 +1,81 @@
-# P1-01-01-04-Validasi-Turats
+# P1-01-01-04: VALIDASI TURATS KLASIK AKSIOMA REALITAS
+## *Uji Kesinambungan Epistemologis dengan Khazanah Mutakallimin, Falasifah Islam, dan Fuqaha Mu'tabar*
 
-## Tujuan
-
-Memastikan bahwa definisi dan aksioma realitas dalam TUMBUH memiliki kesinambungan dengan tradisi intelektual Islam (*turats*), sehingga tidak hanya benar berdasarkan dalil, tetapi juga selaras dengan pemahaman para ulama dan cendekiawan Muslim sepanjang sejarah.
-
-Tahap ini **bukan** mencari legitimasi tokoh, melainkan menguji apakah rumusan TUMBUH menyimpang atau sejalan dengan khazanah keilmuan Islam.
-
----
-
-# Metodologi
-
-Validasi dilakukan melalui tiga langkah.
-
-1. Mengidentifikasi pandangan ulama mengenai hakikat realitas.
-2. Membandingkannya dengan rumusan TUMBUH.
-3. Menarik sintesis tanpa menjadikan satu tokoh sebagai otoritas tunggal.
+**Nomor Identifikasi**: `P1-01-01-04/VALIDASI-TURATS/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` > `01 Hakikat Realitas`  
+**Dewan Pakar**: `pakar-epistemologi-turats`, `pakar-filosofi-tumbuh`
 
 ---
 
-# Validasi-Imam-Al-Ghazali
+## 📑 DAFTAR ISI ANALITIS
 
-## Pokok Pemikiran
-
-Al-Ghazali memandang bahwa seluruh keberadaan bergantung kepada Allah, sedangkan pengetahuan yang benar harus membawa manusia kepada pengenalan terhadap-Nya.
-
-Beliau juga membedakan antara:
-
-* realitas yang hakiki,
-* persepsi manusia yang dapat keliru.
+1. [1. Metodologi Validasi Turats Islam](#1-metodologi-validasi-turats-islam)
+2. [2. Pandangan Imam Al-Ghazali: Wujud Hakiki vs Wujud Majazi](#2-pandangan-imam-al-ghazali-wujud-hakiki-vs-wujud-majazi)
+3. [3. Pandangan Syaikhul Islam Ibn Taimiyyah: Realisme Fitrah](#3-pandangan-syaikhul-islam-ibn-taimiyyah-realisme-fitrah)
+4. [4. Pandangan Imam Al-Maturidi & Abu Mansur al-Baghdadi: Hakikat Al-Asy'ya'](#4-pandangan-imam-al-maturidi--abu-mansur-al-baghdadi-hakikat-al-asyya)
+5. [5. Pandangan Prof. Syed Muhammad Naquib al-Attas: Hierarki Wujud](#5-pandangan-prof-syed-muhammad-naquib-al-attas-hierarki-wujud)
+6. [6. Matriks Sintesis Keselarasan Konsensus Turats dengan Aksioma TUMBUH](#6-matriks-sintesis-keselarasan-konsensus-turats-dengan-aksioma-tumbuh)
 
 ---
 
-## Kesesuaian-Dengan-TUMBUH
+### 1. Metodologi Validasi Turats Islam
 
-| Rumusan TUMBUH                         | Kesesuaian       |
-| -------------------------------------- | ---------------- |
-| Allah sebagai sumber realitas          | ✅ Sangat selaras |
-| Realitas objektif                      | ✅ Selaras        |
-| Manusia dapat keliru memahami realitas | ✅ Selaras        |
-
----
-
-## Catatan
-
-TUMBUH sejalan dengan Al-Ghazali dalam memandang bahwa objektivitas realitas tidak bergantung pada persepsi manusia.
+Validasi Turats dilakukan untuk menjamin bahwa rumusan ontologi TUMBUH memiliki **sanad keilmuan (*Ittishal as-Sanad*)** yang bersambung dengan tradisi intelektual para ulama *Ahlus Sunnah wal Jama'ah*. Tiga prinsip verifikasi:
+1. **Otoritas Khazanah**: Merujuk pada karya-karya induk akidah, ushuluddin, dan tasawuf falsafi.
+2. **Kesesuaian Konseptual**: Memastikan tidak ada penyimpangan dari kaidah ontologi Islam baku (*Kaidah al-Wujud*).
+3. **Kontekstualisasi Kontemporer**: Menerjemahkan istilah turats klasik ke dalam rumusan pendidikan modern.
 
 ---
 
-# Validasi-Ibnu-Taimiyah
+### 2. Pandangan Imam Al-Ghazali: Wujud Hakiki vs Wujud Majazi
 
-## Pokok Pemikiran
+Hujjatul Islam Imam Al-Ghazali dalam risalah monumentalnya *Misykat al-Anwar* menuliskan:
 
-Ibnu Taimiyah menegaskan bahwa:
+> $$\text{إِنَّ كُلَّ شَيْءٍ لَهُ وَجْهَانِ: وَجْهٌ إِلَى نَفْسِهِ، وَوَجْهٌ إِلَى رَبِّهِ. فَهُوَ بِاعْتِبَارِ وَجْهِ نَفْسِهِ عَدَمٌ مَحْضٌ، وَبِاعْتِبَارِ الْوَجْهِ الَّذِي إِلَى اللَّهِ تَعَالَى مَوْجُودٌ. فَلَا مَوْجُودَ إِلَّا اللَّهُ وَوَجْهُهُ، فَكُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ أَزَلًا وَأَبَدًا}$$
+> 
+> *"Sesungguhnya segala sesuatu selain Allah memiliki dua sisi: sisi yang menghadap kepada dirinya sendiri, dan sisi yang menghadap kepada Tuhannya. Ditinjau dari sisi dirinya sendiri, ia adalah ketiadaan murni (*'adam mahdh*); namun ditinjau dari sisi yang menghadap kepada Allah Ta'ala, ia adalah wujud yang nyata. Maka tidak ada wujud hakiki yang mandiri selain Allah dan Wajah-Nya; segala sesuatu binasa kecuali Wajah-Nya sejak azali hingga abadi."* (Al-Ghazali, *Misykat al-Anwar*, hlm. 55).
 
-* wahyu yang sahih,
-* akal yang sehat,
-
-tidak mungkin bertentangan.
-
-Jika tampak bertentangan, maka terdapat kesalahan dalam memahami salah satunya.
+Kutipan ini memvalidasi **Aksioma 1 dan Aksioma 2**: bahwa seluruh eksistensi makhluk di alam semesta hakikatnya bersandar pada pemeliharaan Allah SWT (*Al-Qayyumiyyah*).
 
 ---
 
-## Kesesuaian-Dengan-TUMBUH
+### 3. Pandangan Syaikhul Islam Ibn Taimiyyah: Realisme Fitrah
 
-Hal ini mendukung bahwa:
+Ibn Taimiyyah dalam *Majmu' al-Fatawa* (Jilid II, hlm. 142) menolak skeptisisme sofis yang meragukan kenyataan alam:
 
-* realitas bersifat objektif,
-* realitas dapat dipelajari,
-* wahyu dan akal merupakan sumber yang saling menguatkan.
+> $$\text{حَقَائِقُ الْأَشْيَاءِ ثَابِتَةٌ فِي أَنْفُسِهَا، مَعْلُومَةٌ لِلَّهِ تَعَالَى قَبْلَ وُجُودِهَا، ثُمَّ أَوْجَدَهَا سُبْحَانَهُ عَلَى وَفْقِ عِلْمِهِ، وَجَعَلَ لِلْعِبَادِ عُقُولًا يُدْرِكُونَ بِهَا هَذِهِ الْحَقَائِقَ إِدْرَاكًا مُطَابِقًا لِلْوَاقِعِ}$$
+> 
+> *"Hakikat segala sesuatu itu bersifat tetap dan nyata pada dirinya sendiri, diketahui oleh Allah Ta'ala sebelum keberadaannya, kemudian Dia mewujudkannya selaras dengan ilmu-Nya, dan **Dia menjadikan bagi para hamba akal budi yang dengannya mereka mampu menangkap hakikat-hakikat ini secara objektif sesuai dengan kenyataan sebenarnya (*muthabiqan lil waqi')**."*
 
----
-
-## Catatan
-
-Pembahasan rinci mengenai wahyu dan akal akan ditempatkan pada **P1-01-02-Epistemologi-TUMBUH**, bukan di bagian ontologi.
+Ini memvalidasi **Aksioma 4**: bahwa realitas alam memiliki kepastian objektif yang dapat dipelajari akal sehat santri melalui sains dan syariat.
 
 ---
 
-# Validasi-Ibnu-Khaldun
+### 4. Pandangan Imam Abu Mansur Al-Maturidi
 
-## Pokok Pemikiran
+Imam Al-Maturidi (w. 333 H) dalam *Kitab at-Tawhid* menegaskan postulat dasar akidah:
 
-Ibnu Khaldun menunjukkan bahwa masyarakat berkembang mengikuti hukum-hukum yang dapat diamati.
+$$\text{حَقَائِقُ الْأَشْيَاءِ ثَابِتَةٌ، وَالْعِلْمُ بِهَا مُتَحَقِّقٌ، خِلَافًا لِلسُّوفِسْطَائِيَّةِ}$$
+*"Hakikat segala sesuatu adalah nyata dan tetap (objektif), dan pengetahuan tentangnya dapat diraih secara pasti oleh manusia, bertentangan dengan kaum Sofis yang meragukan realitas."*
 
-Perubahan sosial bukan sesuatu yang acak.
-
----
-
-## Kesesuaian-Dengan-TUMBUH
-
-Mendukung aksioma:
-
-> **Realitas memiliki keteraturan sesuai sunnatullah.**
-
-Hal ini memperkuat bahwa perkembangan manusia dan masyarakat dapat dipelajari secara sistematis.
+Kaidah ini adalah bantahan telak terhadap relativisme moral dan postmodernisme sekuler yang menafikan kebenaran mutlak.
 
 ---
 
-# Validasi-Ar-Raghib-Al-Ashfahani
+### 5. Pandangan Prof. Syed Muhammad Naquib al-Attas
 
-## Pokok Pemikiran
-
-Ar-Raghib menempatkan manusia sebagai makhluk yang berkembang melalui penyempurnaan potensi yang telah Allah anugerahkan.
-
----
-
-## Kesesuaian-Dengan-TUMBUH
-
-Pandangan ini menjadi jembatan menuju pembahasan:
-
-* Human Nature.
-* Human Development.
-
-Namun secara ontologis tetap menunjukkan bahwa realitas manusia memiliki tujuan dan struktur.
+Prof. Al-Attas (1995) dalam *Prolegomena to the Metaphysics of Islam* merumuskan bahwa realitas dalam Islam adalah **Hierarki Wujud Berkeadilan (*Hierarchical Cosmic Order*)**:
+* Setiap entitas ciptaan Allah memiliki posisi yang tepat (*right and proper place*).
+* Menempatkan realitas pada posisi yang tidak tepat adalah kezaliman (*Zhulm*).
+* Memperlakukan santri sesuai martabat fitrahnya adalah wujud keadilan ontologis (*'Adl*).
 
 ---
 
-# Validasi-Asy-Syathibi
+### 6. Matriks Sintesis Keselarasan Turats dengan Aksioma TUMBUH
 
-## Pokok Pemikiran
-
-Syariat dibangun atas hikmah dan kemaslahatan.
-
-Allah tidak menetapkan sesuatu secara sia-sia.
-
----
-
-## Kesesuaian-Dengan-TUMBUH
-
-Hal ini mendukung bahwa realitas memiliki keteraturan dan hikmah.
-
-Namun pembahasan mengenai **tujuan (maqashid)** akan ditempatkan pada bagian teleologi, bukan definisi realitas.
-
----
-
-# Sintesis-Turats
-
-Dari berbagai pandangan ulama dapat disimpulkan bahwa terdapat beberapa tema yang konsisten.
-
-1. Allah adalah sumber seluruh keberadaan.
-2. Realitas memiliki keteraturan.
-3. Wahyu dan akal tidak saling bertentangan.
-4. Manusia mampu memahami sebagian realitas sesuai kapasitasnya.
-5. Perkembangan manusia mengikuti hukum-hukum yang Allah tetapkan.
-
-Kelima tema tersebut sejalan dengan rumusan ontologi TUMBUH.
-
----
-
-# Catatan-Kritis
-
-Walaupun terdapat kesesuaian yang kuat, ada beberapa hal yang perlu diperhatikan.
-
-## Pertama
-
-Turats bukan sumber utama.
-
-Sumber utama tetap:
-
-1. Al-Qur'an.
-2. Hadis.
-
-Turats berfungsi sebagai khazanah interpretasi dan pengembangan pemikiran.
-
----
-
-## Kedua
-
-Tidak semua ulama menggunakan istilah yang sama.
-
-Ada perbedaan pendekatan antara:
-
-* ahli kalam,
-* filsuf Muslim,
-* fuqaha,
-* ahli tasawuf.
-
-Karena itu TUMBUH mengambil **substansi yang disepakati**, bukan mengadopsi terminologi satu mazhab pemikiran.
-
----
-
-## Ketiga
-
-TUMBUH bukan reproduksi pemikiran tokoh tertentu.
-
-TUMBUH membangun sistem sendiri dengan:
-
-* berlandaskan wahyu,
-* belajar dari turats,
-* memanfaatkan ilmu modern,
-* kemudian melakukan sintesis menjadi kerangka yang baru.
-
-Ini penting agar TUMBUH memiliki identitas ilmiah yang mandiri.
-
----
-
-# Kesimpulan
-
-Rumusan definisi dan aksioma realitas TUMBUH memiliki kesinambungan yang kuat dengan tradisi intelektual Islam.
-
-Tidak ditemukan penyimpangan mendasar terhadap prinsip-prinsip ontologi yang dikembangkan oleh para ulama. Sebaliknya, TUMBUH melakukan penyederhanaan dan sintesis agar prinsip-prinsip tersebut dapat digunakan sebagai fondasi sebuah **Human Development System**.
-
----
-
-## Status
-
-**Status:** ✅ **SELESAI**
-
-**Level:** Topik
-
-**Project:** `P1-01-Worldview-TUMBUH`
-
-**Subproject:** `P1-01-01-Hakikat-Realitas`
-
-**Topik:** `P1-01-01-04-Validasi-Turats`
-
-**Alasan:**
-
-* Definisi dan aksioma telah dibandingkan dengan pemikiran ulama utama yang relevan.
-* Tidak ditemukan kontradiksi mendasar dengan tradisi intelektual Islam.
-* Posisi TUMBUH sebagai sistem yang melakukan sintesis telah dirumuskan dengan jelas.
-
-**Langkah-Berikutnya:**
-
-`P1-01-01-05-Sintesis-Filosofis`
-
-Pada tahap berikutnya kita tidak lagi sekadar mengumpulkan sumber, tetapi akan merumuskan **posisi filosofis resmi TUMBUH** sebagai hasil sintesis antara Al-Qur'an, Hadis, turats, dan penalaran ilmiah. Tahap ini akan menjadi salah satu pembeda utama antara TUMBUH sebagai sistem dan sekadar kumpulan konsep.
+| Tokoh Turats Klasik | Intisari Ajaran Ontologis | Aksioma TUMBUH yang Tervalidasi |
+| :--- | :--- | :--- |
+| **Imam Al-Ghazali** | Dualitas Wujud Hakiki vs Majazi, kedaulatan Ilahi. | **Aksioma 1 & 2** (Khaliq Mutlak & Makhluk Fakir). |
+| **Syaikhul Islam Ibn Taimiyyah** | Realisme objektif alam, fitrah kognisi manusia. | **Aksioma 4 & 5** (Sunnatullah & Hikmah Penciptaan). |
+| **Imam Al-Maturidi** | Kepastian hakikat realitas melawan skeptisisme. | **Aksioma 3 & 4** (Dualitas Alam & Kepastian Hukum). |
+| **Prof. Al-Attas** | Hierarki Wujud, Adab sebagai pengenalan posisi. | **Aksioma 5 & 6** (Tujuan Hikmah & Akuntabilitas Moral). |

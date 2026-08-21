@@ -1,128 +1,98 @@
-# P1-01-02-04-Integrasi-Pengetahuan
+# P1-01-02-04: INTEGRASI PENGETAHUAN: TAUHIDUL HAQIQAH
+## *Sintesis Organik-Transformatif: Penyatuan Ayat Tanziliyyah dan Ayat Kauniyyah, Kritik Islamisasi Label, dan Pohon Ilmu TUMBUH*
 
-## Tujuan
-
-Merumuskan kerangka kerja integrasi ilmu (*knowledge integration framework*) dalam Sistem TUMBUH yang menyatukan sains modern, keilmuan sosial-humaniora, dan tradisi keilmuan Islam ke dalam satu kesatuan epistemologis yang utuh dan fungsional.
-
-Jika topik sebelumnya (`P1-01-02-03`) menjawab:
-
-> **"Bagaimana memvalidasi kebenaran dari masing-masing sumber?"**
-
-Maka topik ini menjawab:
-
-> **"Bagaimana menggabungkan seluruh cabang pengetahuan yang valid menjadi satu kesatuan ilmu yang padu dan bermakna bagi pertumbuhan manusia?"**
+**Nomor Identifikasi**: `P1-01-02-04/INTEGRASI-PENGETAHUAN/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` > `02 Epistemologi TUMBUH`  
+**Dewan Pakar**: `pakar-epistemologi-turats`, `pakar-filosofi-tumbuh`, `pakar-desain-kurikulum-adab`
 
 ---
 
-# Mengapa-Integrasi-Penting
+## 📑 DAFTAR ISI ANALITIS
 
-Krisis pendidikan modern sebagian besar bersumber dari fragmentasi dan dikotomi keilmuan:
-
-1. **Sekularisasi Ilmu:** Pemisahan sains dari nilai transenden, yang menghasilkan kemajuan teknologi tanpa arah moral, kerusakan ekologis, dan kehampaan makna hidup.
-2. **Kompikasi Pseudo-Islamisasi (Labelisasi Parsial):** Sekadar menempelkan ayat atau istilah Arab pada teori sekular tanpa merekonstruksi asumsi ontologis dan epistemologis dasarnya.
-3. **Isolasionisme Tradisional:** Sikap apriori menolak temuan sains empiris modern karena dianggap produk non-Muslim, sehingga umat tertinggal dalam peradaban.
-
-TUMBUH mengusung pendekatan **Integrasi Organik Transformatif**, di mana seluruh ilmu dipandang sebagai pembacaan atas dua jenis tanda (*ayat*) dari Pencipta yang sama: **Ayat Tanziliyyah** (Al-Qur'an dan Sunnah) dan **Ayat Kauniyyah** (Alam semesta dan realitas manusia).
+1. [1. Problem Dikotomi Ilmu: Sekularisasi vs Isolasionisme Keilmuan](#1-problem-dikotomi-ilmu-sekularisasi-vs-isolasionisme-keilmuan)
+2. [2. Kerangka Filosofis Tauhidul Haqiqah (Kesatuan Kebenaran Ilahi)](#2-kerangka-filosofis-tauhidul-haqiqah-kesatuan-kebenaran-ilahi)
+3. [3. Kritik atas Model Islamisasi Label (Pseudo-Islamisasi)](#3-kritik-atas-model-islamisasi-label-pseudo-islamisasi)
+4. [4. Model Integrasi Organik-Transformatif TUMBUH: Struktur Pohon Ilmu](#4-model-integrasi-organik-transformatif-tumbuh-struktur-pohon-ilmu)
+5. [5. Implikasi bagi Kurikulum Madrasah dan Kepengasuhan Asrama 24-Jam](#5-implikasi-bagi-kurikulum-madrasah-dan-kepengasuhan-asrama-24-jam)
 
 ---
 
-# Kerangka-Tauhidul-Haqiqah (Kesatuan Kebenaran)
+### 1. Problem Dikotomi Ilmu: Sekularisasi vs Isolasionisme
 
-Dasar filosofis integrasi TUMBUH berpijak pada prinsip *Tauhidul Haqiqah*: karena Sumber Segala Realitas adalah Satu (Allah Al-Haqq), maka seluruh kebenaran objektif yang sejati pada hakikatnya saling mengonfirmasi dan tidak saling menafikan.
+Krisis peradaban pendidikan modern bersumber dari dua penyakit epistemologis yang saling berlawanan:
+1. **Sekularisasi & Fragmentasi Ilmu**: Memisahkan sains dan psikologi dari nilai-nilai transendental, melahirkan kemajuan teknologi yang destruktif, eksploitasi alam, dan kehampaan makna hidup (*nihilism*).
+2. **Isolasionisme Tradisionalis**: Sikap apriori menolak metodologi sains modern (seperti neurosains perkembangan, Positive Behavioral Interventions, dan psikometri) karena dianggap produk "Barat", sehingga pesantren tertinggal dalam manajemen dan pembinaan santri.
 
-```text
-                                  ALLAH (Al-Haqq)
-                                         │
-                 ┌───────────────────────┴───────────────────────┐
-                 ▼                                               ▼
-         Ayat Tanziliyyah                                 Ayat Kauniyyah
-      (Wahyu: Qur'an & Sunnah)                    (Alam Semesta, Jiwa, Sejarah)
-                 │                                               │
-                 ▼                                               ▼
-          Ilmu-Ilmu Syar'i                             Sains & Humaniora
-                 │                                               │
-                 └───────────────────────┬───────────────────────┘
-                                         ▼
-                             INTEGRASI SISTEM TUMBUH
-                      (Kapasitas Manusia yang Bertumbuh)
+Ekosistem TUMBUH mengusung paradigma **Integrasi Organik-Transformatif**: memadukan khazanah Turats Islam dengan sains kontemporer secara kritis, terstruktur, dan beradab.
+
+```mermaid
+graph TD
+    subgraph TauhidulHaqiqah["PRINSIP TAUHIDUL HAQIQAH (ALLAH AL-HAQQ)"]
+        Allah["ALLAH SWT: SUMBER SEGALA KEBENARAN (AL-HAQQ)"]
+        
+        Tanziliyyah["1. AYAT TANZILIYYAH / QAWLIYYAH<br/>(Al-Qur'an, As-Sunnah, & Turats Ulama)<br/>-> Menjelaskan Makna Hidup, Syariat, & Adab"]
+        
+        Kauniyyah["2. AYAT KAUNIYYAH / WUDJUDIYYAH<br/>(Alam Fisik, Neurosains, Psikologi, & Sosiologi)<br/>-> Menjelaskan Mekanisme Alam & Kausalitas Fisik-Sosial"]
+        
+        Allah --> Tanziliyyah
+        Allah --> Kauniyyah
+        Tanziliyyah <==>|Saling Mengonfirmasi & Harmonis| Kauniyyah
+        
+        Tanziliyyah --> Pohon["POHON INTEGRASI ILMU TUMBUH ('ILMUN NAFI')"]
+        Kauniyyah --> Pohon
+    end
 ```
 
 ---
 
-# Empat-Level-Integrasi-Ilmu
+### 2. Kerangka Filosofis Tauhidul Haqiqah
 
-Integrasi dalam TUMBUH bukan sekadar penggabungan materi (*ad-hoc mixing*), melainkan integrasi bertingkat yang sistematis:
-
-```text
-Level 4: Level Praktis & Karakter      → Amal Nyata, Kepemimpinan, Kebermanfaatan
-Level 3: Level Metodologi & Riset      → Riset Empiris Berorientasi Maslahat
-Level 2: Level Teori & Konsep          → Rekonstruksi Teori Psikologi & Pendidikan
-Level 1: Level Filosofis & Worldview   → Fondasi Tauhid, Ontologi & Epistemologi
-```
-
-### 1. Level Filosofis (Worldview & Axiology)
-Menyelaraskan asumsi paling mendasar mengenai hakikat manusia (*human nature*), tujuan hidup, dan makna keberhasilan dengan worldview Islam. Semua teori ilmiah dibersihkan dari asumsi ateistik, materialistik, atau reduksionis.
-
-### 2. Level Teoretis (Theory Reconstruction)
-Mengadopsi temuan ilmiah kontemporer (seperti neurosains kognitif, teori perkembangan, manajemen sistem) dan mereformulasikannya ke dalam kerangka kapasitas manusia utuh (*fitrah* dan *amanah*).
-
-### 3. Level Metodologis (Research & Measurement)
-Mengembangkan instrumen asesmen dan penelitian yang mampu mengukur dimensi kualitatif-spiritual sekaligus dimensi kuantitatif-perilaku secara ilmiah dan objektif.
-
-### 4. Level Praktis (Action & Character)
-Menerjemahkan integrasi ilmu menjadi kebiasaan harian, akhlak nyata, kepemimpinan sosial, dan karya solutif bagi peradaban.
+Dasar epistemologis integrasi ilmu dalam Islam berpijak pada prinsip **Tauhidul Haqiqah (Kesatuan Kebenaran)**:
+* Karena Pencipta ayat-ayat Al-Qur'an adalah Dzat yang sama yang menciptakan hukum-hukum alam semesta dan anatomi otak manusia, maka **kebenaran sains yang sahih tidak akan pernah bertentangan dengan kebenaran wahyu yang sharih**.
+* Jika tampak ada pertentangan, masalahnya terletak pada penafsiran teks yang keliru (*misinterpretation*) atau teori sains yang masih bersifat spekulasi belum teruji (*unproven hypothesis*).
 
 ---
 
-# Matriks-Integrasi-Disiplin-Ilmu-dalam-TUMBUH
+### 3. Kritik atas Model Islamisasi Label (Pseudo-Islamisasi)
 
-Berikut bagaimana disiplin keilmuan diposisikan dan diintegrasikan:
+TUMBUH menolak model "Islamisasi Kosmetik" yang sekadar menempelkan ayat Al-Qur'an atau istilah Arab pada teori psikologi behavioristik sekuler tanpa membongkar asumsi dasarnya:
 
-| Cabang Ilmu | Kontribusi Utama | Titik Integrasi dalam TUMBUH |
+| Dimensi Analisis | Model Islamisasi Kosmetik (Ditolak) | Model Integrasi Organik TUMBUH (Diterapkan) |
 | :--- | :--- | :--- |
-| **Ilmu Syariah & Ushul** | Menetapkan batas nilai, etika, dan orientasi tujuan akhir (*maqashid*). | Core Philosophy & Ethics Framework |
-| **Psikologi & Neurosains** | Memahami mekanisme otak, memori, emosi, dan motivasi belajar. | Learning Principles & Intervention Framework |
-| **Sosiologi & Antropologi** | Memahami dinamika komunitas, budaya, dan struktur sosial. | Leadership & Community Engagement Methods |
-| **Sains Alam & Teknologi** | Mengembangkan kecakapan teknis, inovasi, dan efisiensi sistem. | Capacity Framework & Practical Tooling |
+| **Pendekatan** | Menempelkan dalil pada teori sekuler yang ada. | **Rekonstruksi mendalam dari akar ontologi dan aksiologi.** |
+| **Status Teori Sekuler** | Diterima mentah-mentah lalu diberi label islami. | **Disaring (*Islah/Tahdzib*): membuang racun sekuler, mengambil faedah empirisnya.** |
+| **Posisi Wahyu** | Sekadar alat pembenar (*justifikasi*) akhir. | **Pemandu utama (*Al-Hakim al-Mutlaq*) sejak perancangan awal.** |
+| **Contoh Kasus** | Menggunakan token poin hadiah lalu disebut "Poin Barakah". | **Mengganti sistem token dengan internalisasi Muraqabatullah & Apresiasi Relasional 4:1.** |
 
 ---
 
-# Implikasi-Terhadap-Sistem-TUMBUH
+### 4. Struktur Pohon Ilmu TUMBUH
 
-### 1. Desain Kurikulum dan Program
-Program dalam TUMBUH tidak mendikotomikan "sesi agama" dan "sesi umum". Setiap topik dipelajari dengan menghubungkan dimensi fenomena nyata, analisis rasional, serta refleksi makna ilahiahnya.
-
-### 2. Kapasitas Fasilitator dan Mentor
-Mentor TUMBUH dilatih untuk memiliki wawasan ganda: menguasai metodologi pengembangan manusia modern sekaligus memiliki pemahaman nilai-nilai Islam yang mendalam, sehingga mampu memandu peserta secara holistik.
-
-### 3. Profil Lulusan / Peserta
-Menghasilkan individu yang memiliki kecerdasan intelektual tinggi, kompetensi profesional berstandar global, dan integritas spiritual-moral yang kokoh (*Ulul Albab*).
+```mermaid
+graph TD
+    Akar["AKAR: Tauhid, Epistemologi Islam, & Karamah Insaniyyah (QS. 17:70)"]
+    Batang["BATANG: Adab Nabawi, Tazkiyatun Nafs, & Maqashid Syari'ah"]
+    Cabang1["CABANG 1: Ilmu Syar'i & Turats (Fiqh, Hadits, Tasawuf)"]
+    Cabang2["CABANG 2: Neurosains Kognitif & Perkembangan Remaja"]
+    Cabang3["CABANG 3: School-Wide PBIS Multi-Tier & Restorative Justice"]
+    Cabang4["CABANG 4: Psikometri & Metodologi Riset Terapan"]
+    Buah["DAUN & BUAH: Insan Kamil yang Beradab, Mandiri, & Bermanfaat bagi Umat"]
+    
+    Akar --> Batang
+    Batang --> Cabang1
+    Batang --> Cabang2
+    Batang --> Cabang3
+    Batang --> Cabang4
+    Cabang1 --> Buah
+    Cabang2 --> Buah
+    Cabang3 --> Buah
+    Cabang4 --> Buah
+```
 
 ---
 
-# Catatan-Kritis
+### 5. Implikasi bagi Kurikulum Madrasah & Asrama Pesantren
 
-* Integrasi tidak boleh mengaburkan spesialisasi teknis. Dokter tetap harus ahli dalam bedah medis, insinyur tetap harus ahli dalam kalkulasi struktur. Integrasi memberikan ruh, etika, dan orientasi makna, tanpa mengurangi ketelitian teknis profesi.
-
----
-
-## Status
-
-**Status:** ✅ **SELESAI**
-
-**Level:** Topik
-
-**Project:** `P1-01-Worldview-TUMBUH`
-
-**Subproject:** `P1-01-02-Epistemologi-TUMBUH`
-
-**Topik:** `P1-01-02-04-Integrasi-Pengetahuan`
-
-**Alasan:**
-* Konsep *Tauhidul Haqiqah* dan penyatuan ayat tanziliyyah-kauniyyah telah dirumuskan.
-* 4 level integrasi (Filosofis, Teoretis, Metodologis, Praktis) telah dipetakan secara terstruktur.
-* Matriks integrasi disiplin ilmu modern dan turats telah selesai disusun.
-
-**Langkah-Berikutnya:**
-
-`P1-01-02-05-Batas-Pengetahuan-Manusia`
+1. **Kurikulum Terpadu Tanpa Dikotomi**: Santri diajarkan melihat kesatuan ilmu: saat belajar biologi saraf, santri mengagumi kebesaran Allah (*Subhanallah*); saat belajar fiqh mu'amalah, santri mempraktikkannya dalam kejujuran transaksi koperasi pondok.
+2. **Pelatihan Sains Berbasis Nilai bagi Musyrif**: Musyrif dibekali pemahaman mengenai neurosains tidur remaja (*circadian rhythm*) agar dapat mengatur jadwal tahajud dan istirahat santri secara proporsional.
+3. **Penyelarasan Total 24 Jam**: Memastikan tidak ada kontradiksi antara teori adab yang diajarkan ustadz di kelas madrasah dengan perlakuan musyrif di kamar asrama.
