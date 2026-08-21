@@ -1,9 +1,9 @@
 # DATA ANALITIK SIMULASI: PEMODELAN KUANTITATIF & KUALITATIF COHORT 100 SANTRI
-## Matriks Data Longitudinal 7-Tahun (Kelas 7 MTs s/d Tahun Pengabdian Tahap 7 PENGGERAK)
+## Matriks Data Longitudinal 7-Tahun, Pemodelan Dual-Skenario (Ideal vs Realistis Lapangan), & Sebaran Kurva Normal
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dikembangkan oleh Agen Spesialis: Pakar Simulasi Sistem TUMBUH*  
-*Dokumen Rujukan Induk: SIMULASI/Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md*
+*Dokumen Rujukan Induk: SIMULASI/Simulasi-Cohort-100-Santri-Kls7-sd-Pengabdian.md & SIMULASI/Matriks-Data-Simulasi-100-Santri-Per-Anak-Longitudinal.md*
 
 ---
 
@@ -22,30 +22,30 @@
 
 ---
 
-## 2. METRIK CAPAIAN 10 MUWASSHAFAT KARAKTER (SKOR RATA-RATA IPSATIF 1-100)
+## 2. METRIK CAPAIAN 10 MUWASSHAFAT KARAKTER (SKOR RATA-RATA IPSATIF & DUAL-SKENARIO)
 
-| Karakter Muwashafat | Baseline (Kls 7 awal) | Tahun 2 (Kls 8) | Tahun 4 (Kls 10) | Tahun 6 (Kls 12) | Tahun 7 (Pengabdian) |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **1. Salimul Aqidah** | 65 | 78 | 88 | 95 | **98** |
-| **2. Shahihul Ibadah** | 60 | 75 | 86 | 94 | **97** |
-| **3. Matinul Khuluq** | 62 | 76 | 87 | 96 | **99** |
-| **4. Qawiyyul Jism** | 68 | 77 | 85 | 92 | **95** |
-| **5. Mutsaqqaful Fikr** | 58 | 72 | 84 | 93 | **96** |
-| **6. Mujahadatun Linafsih** | 52 | 70 | 83 | 92 | **96** |
-| **7. Haritsun 'Ala Waqtih** | 55 | 73 | 85 | 94 | **97** |
-| **8. Munazhzham fi Syu'unih**| 54 | 74 | 86 | 95 | **98** |
-| **9. Qadirun 'Alal Kasb** | 50 | 68 | 80 | 90 | **95** |
-| **10. Nafi'un Lighairih** | 56 | 75 | 88 | 96 | **100** |
+| Karakter Muwashafat | Baseline (Kls 7) | Skenario Ideal (Thn 7) | Skenario Realistis Lapangan (Rata-Rata) | Rentang Sebaran Realistis (Bell-Curve) |
+| :--- | :---: | :---: | :---: | :---: |
+| **1. Salimul Aqidah** | 65 | 98 | **91** | 84 – 96 |
+| **2. Shahihul Ibadah** | 60 | 97 | **90** | 82 – 95 |
+| **3. Matinul Khuluq** | 62 | 99 | **92** | 85 – 97 |
+| **4. Qawiyyul Jism** | 68 | 95 | **88** | 80 – 94 |
+| **5. Mutsaqqaful Fikr** | 58 | 96 | **89** | 81 – 95 |
+| **6. Mujahadatun Linafsih** | 52 | 96 | **87** | 78 – 93 |
+| **7. Haritsun 'Ala Waqtih** | 55 | 97 | **89** | 81 – 95 |
+| **8. Munazhzham fi Syu'unih**| 54 | 98 | **91** | 83 – 96 |
+| **9. Qadirun 'Alal Kasb** | 50 | 95 | **86** | 78 – 92 |
+| **10. Nafi'un Lighairih** | 56 | 100 | **93** | 86 – 98 |
 
 ---
 
-## 3. STATISTIK PENELUSURAN ALUMNI PENGABDI TAHUN 7 (100 SANTRI)
+## 3. PERBANDINGAN DUAL-SKENARIO PEMODELAN SIMULASI (IDEAL VS REALISTIS LAPANGAN)
 
 ```mermaid
-pie title Distribusi Peran Alumni Tahun 7 (Tahap 7 PENGGERAK)
-    "Musyrif Junior & Pembina Asrama (40 Santri)" : 40
-    "Pengabdi Keumatan & Khidmah Desa (35 Santri)" : 35
-    "Praktisi Vokasional & Wirausaha Mandiri (25 Santri)" : 25
+graph TD
+    ComparisonModel["Perbandingan Output Dual-Skenario Pemodelan"]
+    ComparisonModel --> IdealOutput["Skenario Ideal (100% Alignment)<br/>• 100 Santri Lulus Paripurna Tahap 7 Penggerak<br/>• 0% External Attrition<br/>• Skor Muwashafat Rata-Rata: 95 - 99"]
+    ComparisonModel --> RealisticOutput["Skenario Realistis Lapangan (Real-World Variance)<br/>• 93 Santri Lulus Paripurna Tahap 7 Penggerak<br/>• 4 Santri External Attrition (Pindah sekolah karena domisili/finansial orang tua)<br/>• 3 Santri Extended Guided Service (Bimbingan pengabdian khusus)<br/>• Skor Muwashafat Rata-Rata: 86 - 93 (Sebaran Kurva Normal)"]
 ```
 
 ---
