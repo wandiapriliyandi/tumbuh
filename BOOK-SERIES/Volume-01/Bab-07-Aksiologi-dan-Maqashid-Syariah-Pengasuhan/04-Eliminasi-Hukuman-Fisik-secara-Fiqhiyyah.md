@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Meluruskan Pemahaman atas Hadits Pemukulan Anak
+### Meluruskan Pemahaman atas Hadits Pemukulan Anak
 
 Sebagian pengasuh dan santri senior kerap mencari dalil pembenaran atas tindakan kekerasan fisik dengan mengutip hadits masyhur:
 
@@ -34,7 +34,7 @@ graph TD
 
 ---
 
-### II. Syarah Fiqih: Pukulan Simbolis Kasih Sayang, Bukan Siksaan Balas Dendam
+### Syarah Fiqih: Pukulan Simbolis Kasih Sayang, Bukan Siksaan Balas Dendam
 
 Para ulama mazhab empat sepakat bahwa kata *"pukullah"* dalam hadits di atas adalah **pukulan simbolis teguran (*Dharb Ghayru Mubarrih*)**—seperti sentuhan lembut menggunakan ujung siwak atau sapu tangan—bukan pukulan yang menyakiti fisik, apalagi menimbulkan memar!
 
@@ -42,7 +42,7 @@ Bahkan, **Imam Asy-Syafi'i** dan **Ibnu Qudamah** menegaskan bahwa jika seorang 
 
 ---
 
-### III. Kaidah Fiqih *Sadd adz-Dzari'ah*: Pengharaman Mutlak Hukuman Fisik di Era Modern
+### Kaidah Fiqih *Sadd adz-Dzari'ah*: Pengharaman Mutlak Hukuman Fisik di Era Modern
 
 Dalam ushul fiqih, berlaku kaidah agung:
 

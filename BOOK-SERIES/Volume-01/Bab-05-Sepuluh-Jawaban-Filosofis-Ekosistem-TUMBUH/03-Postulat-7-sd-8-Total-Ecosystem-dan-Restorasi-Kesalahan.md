@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Ekosistem yang Mengayomi dan Jiwa yang Berani Memperbaiki Diri
+### Ekosistem yang Mengayomi dan Jiwa yang Berani Memperbaiki Diri
 
 Dua pertanyaan krusial yang menentukan iklim budaya sebuah pesantren adalah:
 * *Bagaimana lingkungan asrama memengaruhi pertumbuhan akhlak santri?*
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Postulat 7: Hakikat Lingkungan — Bi'ah Shalihah 24-Jam Tanpa Sekat
+### Postulat 7: Hakikat Lingkungan — Bi'ah Shalihah 24-Jam Tanpa Sekat
 
 Sistem TUMBUH memandang asrama bukan sekadar tempat tidur, melainkan laboratorium pembiasaan adab:
 1. **Penyatuan Madrasah dan Asrama**: Menghubungkan Wali Kelas dan Musyrif melalui pertukaran data harian 15 menit, memastikan tidak ada ruang hampa pendampingan.
@@ -37,7 +37,7 @@ Sistem TUMBUH memandang asrama bukan sekadar tempat tidur, melainkan laboratoriu
 
 ---
 
-### III. Postulat 8: Hakikat Kesalahan — Peluang Emas Pembelajaran Moral
+### Postulat 8: Hakikat Kesalahan — Peluang Emas Pembelajaran Moral
 
 Dalam Sistem TUMBUH, ketika seorang santri melanggar aturan (seperti terlambat atau berselisih dengan kawan), respons pertama pembina bukanlah amarah, melainkan **pendampingan restoratif**:
 1. **Memisahkan Perilaku dari Nilai Diri Santri**: Perilakunya yang keliru dikoreksi dengan tegas (*Firm*), namun martabat dan harga diri santri tetap dimuliakan dengan penuh kasih sayang (*Kind*).

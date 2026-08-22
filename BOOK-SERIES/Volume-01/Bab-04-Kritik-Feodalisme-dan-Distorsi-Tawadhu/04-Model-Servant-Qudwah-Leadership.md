@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Membalik Piramida Kekuasaan di Pesantren
+### Membalik Piramida Kekuasaan di Pesantren
 
 Bagaimana kita mendefinisikan seorang pemimpin di lingkungan pondok pesantren?
 
@@ -30,7 +30,7 @@ graph TD
 
 ---
 
-### II. Lima Pilar Utama Pemimpin Qudwah Ekosistem TUMBUH
+### Lima Pilar Utama Pemimpin Qudwah Ekosistem TUMBUH
 
 Seorang santri yang diangkat menjadi pengurus atau *Peer Mentor* dalam Sistem TUMBUH wajib memiliki **Lima Karakter Utama Qudwah**:
 
@@ -52,7 +52,7 @@ graph TD
 
 ---
 
-### III. Pembubaran Mahkamah Gelap: Dari Hakim Penghukum Menjadi Sahabat Pembimbing
+### Pembubaran Mahkamah Gelap: Dari Hakim Penghukum Menjadi Sahabat Pembimbing
 
 Salah satu langkah pembaruan paling radikal dalam Sistem TUMBUH adalah **Mencabut 100% Wewenang Yudisial/Menghukum dari Tangan Santri**:
 
@@ -62,7 +62,7 @@ Salah satu langkah pembaruan paling radikal dalam Sistem TUMBUH adalah **Mencabu
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Kurikulum Kaderisasi Pemimpin Pelayan
+### Solusi Sistemik TUMBUH: Kurikulum Kaderisasi Pemimpin Pelayan
 
 Ekosistem TUMBUH menyusun tahapan kaderisasi kepemimpinan santri yang berjenjang dan terukur:
 

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Luka Batin di Balik Candaan Kasar Asrama
+### Luka Batin di Balik Candaan Kasar Asrama
 
 Kekerasan di lingkungan pesantren tidak selalu berwujud pukulan rotan atau tamparan fisik yang membekas merah di pipi. 
 
@@ -37,7 +37,7 @@ graph TD
 
 ---
 
-### II. Dekonstruksi Istilah "Khidmah": Membedakan Kebaktian Ikhlas vs Perbudakan Senior
+### Dekonstruksi Istilah "Khidmah": Membedakan Kebaktian Ikhlas vs Perbudakan Senior
 
 Banyak santri senior membungkus tindakan penindasannya dengan kata suci dalam tradisi pesantren: **"Khidmah"** (pelayanan dan pengabdian).
 
@@ -55,7 +55,7 @@ Mari kita luruskan konsep ini secara syar'i dan tegas:
 
 ---
 
-### III. Dampak Neurobiologis & Psikologis: Mengapa Korban Menjadi Pendiam dan Apatis?
+### Dampak Neurobiologis & Psikologis: Mengapa Korban Menjadi Pendiam dan Apatis?
 
 Riset psikologi perkembangan[^2] membuktikan bahwa paparan mikroagresi dan pengucilan sosial (*Social Ostracism*) mengaktifkan area otak yang sama persis dengan rasa sakit fisik akibat dipukul (**Korteks Singulat Anterior Dorsal / dACC**).
 
@@ -68,7 +68,7 @@ Akibat jangka panjang pada korban:
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Protokol Toleransi Nol Mikroagresi (*Zero Tolerance*)
+### Solusi Sistemik TUMBUH: Protokol Toleransi Nol Mikroagresi (*Zero Tolerance*)
 
 Ekosistem **TUMBUH** memberantas kekerasan simbolik melalui **Tiga Protokol Perlindungan Santri**:
 

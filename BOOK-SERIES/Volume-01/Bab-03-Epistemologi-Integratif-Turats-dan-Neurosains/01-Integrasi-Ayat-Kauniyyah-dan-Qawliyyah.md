@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Runtuhnya Tembok Pemisah Dua Kitab Allah
+### Runtuhnya Tembok Pemisah Dua Kitab Allah
 
 Selama berabad-abad lamanya, dunia pendidikan Islam terbelenggu oleh sebuah ilusi perpecahan: **pemisahan kaku antara "Ilmu Agama" di satu sisi dan "Ilmu Sains Modern" di sisi lain**.
 
@@ -34,7 +34,7 @@ graph LR
 
 ---
 
-### II. Dua Kitab Terbuka: Harmoni Tanpa Kontradiksi
+### Dua Kitab Terbuka: Harmoni Tanpa Kontradiksi
 
 Pakar filsafat Islam klasik seperti **Ibnu Rusyd (Averroes)** dalam karyanya *Fashl al-Maqal fima bayna al-Hikmati wash-Syari'ati min al-Ittishal*[^1] menegaskan bahwa:
 
@@ -50,7 +50,7 @@ Ketika seorang ustadz memahami kedua ayat ini secara terpadu, ia tidak akan lagi
 
 ---
 
-### III. Kritik atas Dua Ekstrem: Sekularisme Kering vs Tekstualisme Kaku
+### Kritik atas Dua Ekstrem: Sekularisme Kering vs Tekstualisme Kaku
 
 Epistemologi TUMBUH berdiri kokoh di jalan tengah (*Wasathiyyah*), menolak dua jebakan ekstrem:
 
@@ -78,7 +78,7 @@ graph TD
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Arsitektur Pedagogi Berbasis Dua Cahaya
+### Solusi Sistemik TUMBUH: Arsitektur Pedagogi Berbasis Dua Cahaya
 
 Dalam Ekosistem TUMBUH, sains bukanlah "tuan" yang mengatur wahyu, dan wahyu bukanlah "musuh" dari ilmu pengetahuan. Sains adalah alat bantu teknis untuk menjalankan amanah wahyu secara lebih presisi dan penuh kasih sayang.
 

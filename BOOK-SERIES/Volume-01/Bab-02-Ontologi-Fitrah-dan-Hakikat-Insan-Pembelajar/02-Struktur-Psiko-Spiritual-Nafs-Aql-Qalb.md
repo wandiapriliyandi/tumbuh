@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Metafora Kerajaan di Dalam Diri Manusia
+### Metafora Kerajaan di Dalam Diri Manusia
 
 Bayangkan sebuah negeri kerajaan yang megah di dalam diri setiap santri:
 
@@ -46,7 +46,7 @@ Pendidikan karakter dalam Islam **tidak pernah bertujuan membunuh nafsu atau mem
 
 ---
 
-### II. Empat Dimensi Jiwa Manusia dalam Khazanah Islam
+### Empat Dimensi Jiwa Manusia dalam Khazanah Islam
 
 Khazanah Islam memetakan kepribadian insan ke dalam empat dimensi yang saling melengkapi:
 
@@ -57,7 +57,7 @@ Khazanah Islam memetakan kepribadian insan ke dalam empat dimensi yang saling me
 
 ---
 
-### III. Distingsi Epistemologis: Model Jiwa Islam vs Plato
+### Distingsi Epistemologis: Model Jiwa Islam vs Plato
 
 Secara historis, filsuf Yunani Plato merumuskan konsep tiga jiwa (*The Tripartite Soul*): *Epithymia* (nafsu), *Thymos* (emosi), dan *Logistikon* (rasio). Namun terdapat perbedaan mendasar antara pandangan sekuler Barat dan Islam:
 
@@ -79,7 +79,7 @@ Bagi filsafat Barat, akal rasional adalah penguasa tertinggi. Namun Islam membuk
 
 ---
 
-### IV. Integrasi Neurosains: Sumbu Jantung-Otak (*The Brain-Heart Axis*)
+### Integrasi Neurosains: Sumbu Jantung-Otak (*The Brain-Heart Axis*)
 
 Kajian mutakhir dalam neurobiologi klinis oleh *HeartMath Institute*[^2] kini membuktikan secara empiris bahwa kedudukan kalbu bukanlah sekadar bahasa kiasan, melainkan memiliki dasar biologis yang sangat nyata:
 
@@ -98,7 +98,7 @@ Fakta ilmiah membuktikan:
 
 ---
 
-### V. Solusi Sistemik TUMBUH: Penyelarasan Hak Triad Jiwa Santri
+### Solusi Sistemik TUMBUH: Penyelarasan Hak Triad Jiwa Santri
 
 Berdasarkan struktur psiko-spiritual ini, **Sistem TUMBUH** mewajibkan pemenuhan hak tiga dimensi secara seimbang dalam jadwal harian pesantren:
 

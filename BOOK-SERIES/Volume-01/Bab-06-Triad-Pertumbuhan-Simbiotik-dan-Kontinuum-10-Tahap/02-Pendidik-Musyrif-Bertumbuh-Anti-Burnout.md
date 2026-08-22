@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Jeritan Batin Musyrif di Garis Depan
+### Jeritan Batin Musyrif di Garis Depan
 
 Di banyak pesantren, sosok musyrif asrama kerap menjadi pahlawan yang paling terlupakan:
 
@@ -30,7 +30,7 @@ graph TD
 
 ---
 
-### II. Prinsip Triad Pertumbuhan: Pendidik Wajib Ikut Bertumbuh
+### Prinsip Triad Pertumbuhan: Pendidik Wajib Ikut Bertumbuh
 
 Sistem **TUMBUH** memancangkan prinsip mutlak: **"Santri tidak akan pernah bertumbuh secara sehat jika para pembina di sekelilingnya layu kelelahan"**.
 
@@ -52,7 +52,7 @@ graph TD
 
 ---
 
-### III. Protokol Proteksi Anti-Burnout Sistem TUMBUH
+### Protokol Proteksi Anti-Burnout Sistem TUMBUH
 
 Ekosistem TUMBUH menetapkan tiga aturan kelembagaan untuk melindungi musyrif:
 1. **Sistem Shift Kerja Bergilir (*Rotating Caretaking Shift*)**: Menghapus sistem kerja tunggal 24 jam nonstop; musyrif bertugas dalam tim berpasangan dengan jadwal jaga yang terbagi proporsional.

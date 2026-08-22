@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Sebuah Kompas Navigasi Sepanjang Masa
+### Sebuah Kompas Navigasi Sepanjang Masa
 
 Mendidik santri bukanlah peristiwa sporadis tanpa arah peta jalan yang jelas. 
 
@@ -31,15 +31,15 @@ graph TD
 
 ---
 
-### II. Bedah Tiga Fase Kontinuum Perkembangan TUMBUH
+### Bedah Tiga Fase Kontinuum Perkembangan TUMBUH
 
-#### 1. Fase 1: Penumbuhan Fitrah Individual (Tahap 1 s.d. 4 / Hari 1–66)
+#### Fase 1: Penumbuhan Fitrah Individual (Tahap 1 s.d. 4 / Hari 1–66)
 Fokus fase ini adalah **Membangun Fondasi Rasa Aman dan Habituasi 66 Hari**. Santri dibimbing beradaptasi dengan ritme shalat berjamaah, kebersihan loker, dan adab pergaulan kamar asrama hingga menjadi refleks bawah sadar di *Basal Ganglia*.
 
-#### 2. Fase 2: Pematangan Karakter & Kepemimpinan (Tahap 5 s.d. 7)
+#### Fase 2: Pematangan Karakter & Kepemimpinan (Tahap 5 s.d. 7)
 Santri yang telah mandiri diberdayakan menjadi **Pemimpin Pelayan (*Servant Leaders*)**. Puncaknya pada **Tahap 7 (Penggerak Peradaban)**, di mana santri senior menjadi teladan hidup (*Qudwah*) yang aktif mengayomi dan melindungi adik-adik kelas barunya.
 
-#### 3. Fase 3: Penguatan Ekosistem Lembaga (Tahap 8 s.d. 10)
+#### Fase 3: Penguatan Ekosistem Lembaga (Tahap 8 s.d. 10)
 Menjamin sistem pesantren bertumbuh menjadi organisasi pembelajar berbasis data PBIS, melindungi musyrif dari *burnout*, dan memancarkan manfaat rahmatan lil 'alamin bagi masyarakat luas.
 
 ---

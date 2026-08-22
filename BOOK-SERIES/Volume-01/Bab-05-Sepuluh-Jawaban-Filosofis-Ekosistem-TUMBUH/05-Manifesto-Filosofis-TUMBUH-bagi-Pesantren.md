@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pembukaan: Piagam Pembaruan Peradaban Pesantren
+### Pembukaan: Piagam Pembaruan Peradaban Pesantren
 
 Bismillahir Rahmanir Rahim.
 
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Piagam Sepuluh Postulat Filosofis TUMBUH
+### Piagam Sepuluh Postulat Filosofis TUMBUH
 
 Kami meyakini dan menegakkan dengan sepenuh hati:
 

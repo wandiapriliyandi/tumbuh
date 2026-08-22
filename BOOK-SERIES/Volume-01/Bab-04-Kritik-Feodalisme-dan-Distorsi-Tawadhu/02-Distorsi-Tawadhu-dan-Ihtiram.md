@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Jebakan Salah Kaprah Memaknai Kerendahan Hati
+### Jebakan Salah Kaprah Memaknai Kerendahan Hati
 
 Salah satu distorsi akhlak yang paling merusak di sebagian lingkungan pesantren adalah **salah paham dalam memaknai konsep *Tawadhu'* (kerendahan hati) dan *Ihtiram* (penghormatan)**.
 
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Tinjauan Turats: Imam Al-Ghazali tentang Batas Antara Tawadhu' dan Kehinaan
+### Tinjauan Turats: Imam Al-Ghazali tentang Batas Antara Tawadhu' dan Kehinaan
 
 Hujjatul Islam **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* (Kitab *Dzammi al-Kibr wat-Ta'azzuz*)[^1] telah meletakkan batas garis pemisah yang sangat tegas antara kemuliaan tawadhu' dan kehinaan tadzallul:
 
@@ -47,7 +47,7 @@ Islam menginginkan santri yang memiliki **Izzatul Mukmin (Wibawa dan Harga Diri 
 
 ---
 
-### III. Dampak Psikologis Distorsi Tawadhu': Lahirnya Mentalitas Pengecut
+### Dampak Psikologis Distorsi Tawadhu': Lahirnya Mentalitas Pengecut
 
 Ketika kepasifan dan ketundukan buta terus-menerus didoktrinasi sebagai "adab", santri akan mengalami kerusakan psikologis yang parah:
 1. **Lahirnya Sikap Apatis (*Bystander Effect*)**: Santri yang melihat temannya dipukul atau dibully di asrama memilih diam membisu dan pura-pura tidak tahu dengan dalih *"tidak mau ikut campur agar tetap tawadhu'"*.
@@ -56,7 +56,7 @@ Ketika kepasifan dan ketundukan buta terus-menerus didoktrinasi sebagai "adab", 
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Membiasakan Sikap Asertif Beradab (*Adab al-Hiwar*)
+### Solusi Sistemik TUMBUH: Membiasakan Sikap Asertif Beradab (*Adab al-Hiwar*)
 
 Ekosistem **TUMBUH** mengajarkan bahwa **menyampaikan kebenaran secara santun adalah puncak tertinggi dari adab**. Sistem TUMBUH melatih seluruh santri memiliki keterampilan **Komunikasi Asertif Beradab (*Adab al-Hiwar*)**:
 

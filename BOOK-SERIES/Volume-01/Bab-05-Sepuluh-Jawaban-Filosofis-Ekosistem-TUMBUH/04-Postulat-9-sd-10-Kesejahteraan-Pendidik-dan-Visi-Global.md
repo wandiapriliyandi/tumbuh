@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Merawat Sang Perawat dan Menatap Masa Depan Dunia
+### Merawat Sang Perawat dan Menatap Masa Depan Dunia
 
 Sepuluh bangunan filosofis Sistem TUMBUH ditutup oleh dua pilar mahkota yang sangat menentukan keberlanjutan institusi:
 * *Bagaimana kita menjaga para musyrif dan asatidz agar tidak tumbang kelelahan (*burnout*) di tengah tugas membina santri 24 jam?*
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Postulat 9: Kesejahteraan Pendidik — Pendidik yang Lelah Tidak Bisa Menyayangi
+### Postulat 9: Kesejahteraan Pendidik — Pendidik yang Lelah Tidak Bisa Menyayangi
 
 Sistem TUMBUH memegang kaidah emas: **"Hanya jiwa yang tenang dan bahagia yang mampu mengalirkan ketenangan dan kasih sayang kepada santrinya"**:
 1. **Pencegahan Burnout Musyrif**: Musyrif dijamin memiliki jadwal libur berkala, waktu istirahat yang manusiawi, dan sistem pembagian shift yang adil.
@@ -38,7 +38,7 @@ Sistem TUMBUH memegang kaidah emas: **"Hanya jiwa yang tenang dan bahagia yang m
 
 ---
 
-### III. Postulat 10: Visi Global — Pesantren sebagai Rahmat bagi Semesta
+### Postulat 10: Visi Global — Pesantren sebagai Rahmat bagi Semesta
 
 Sistem TUMBUH menatap masa depan peradaban dengan penuh optimisme:
 1. **Episentrum Moral Dunia**: Pesantren bukan sekadar lembaga lokal, melainkan model peradaban alternatif bagi dunia yang sedang dilanda krisis kemanusiaan dan kehampaan spiritual.

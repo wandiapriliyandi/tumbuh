@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Mengubah Wajah Organisasi Santri di Pesantren
+### Mengubah Wajah Organisasi Santri di Pesantren
 
 Di banyak pesantren, Organisasi Santri (seperti Bagian Keamanan atau Tim Kedisiplinan) sering kali menjadi lembaga yang paling ditakuti oleh seluruh santri. 
 
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Arsitektur Empat Departemen Pengayoman Organisasi Santri TUMBUH
+### Arsitektur Empat Departemen Pengayoman Organisasi Santri TUMBUH
 
 Dalam Sistem TUMBUH, organisasi santri dirancang untuk memfasilitasi kebutuhan tumbuh kembang seluruh warga asrama melalui **Empat Departemen Layanan**:
 
@@ -49,7 +49,7 @@ graph TD
 
 ---
 
-### III. Mekanisme Mediasi Sebaya (*Peer Mediation Protocol*)
+### Mekanisme Mediasi Sebaya (*Peer Mediation Protocol*)
 
 Ketika terjadi perselisihan kecil antar-santri sekamar (seperti salah paham peminjaman barang atau senggolan saat bermain bola), Departemen Ukhuwah bertindak sebagai **Mediator Sebaya (*Peer Mediators*)** yang terlatih:
 
@@ -59,7 +59,7 @@ Ketika terjadi perselisihan kecil antar-santri sekamar (seperti salah paham pemi
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Akuntabilitas & Pendampingan Musyrif Terpadu
+### Solusi Sistemik TUMBUH: Akuntabilitas & Pendampingan Musyrif Terpadu
 
 Organisasi santri dalam Sistem TUMBUH tidak berjalan sendiri tanpa kendali:
 * Setiap departemen didampingi langsung oleh **Satu Orang Musyrif Pembimbing** yang memastikan seluruh program kerja berjalan selaras dengan prinsip kasih sayang nabawi.

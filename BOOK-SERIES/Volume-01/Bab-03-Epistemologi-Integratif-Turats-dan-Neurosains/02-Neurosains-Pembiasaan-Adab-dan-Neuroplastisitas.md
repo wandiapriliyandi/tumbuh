@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Keajaiban Otak yang Terus Berubah
+### Keajaiban Otak yang Terus Berubah
 
 Pernahkah Anda memperhatikan seorang santri baru yang di pekan pertamanya di asrama tampak sangat canggung dan tersiksa saat harus bangun pukul 03.30 pagi untuk qiyamul lail?
 
@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-### II. Hukum Hebbian: *"Neurons that Fire Together, Wire Together"*
+### Hukum Hebbian: *"Neurons that Fire Together, Wire Together"*
 
 Prinsip dasar pembentukan kebiasaan dalam neurosains dirumuskan oleh neuropsikolog **Donald Hebb** (1949)[^2]:
 
@@ -47,7 +47,7 @@ Ketika seorang santri dilatih untuk selalu menaruh sandalnya menghadap keluar di
 
 ---
 
-### III. Integrasi Turats: Konsep *Riyadhatun Nafs* dan *Al-I'tiyad* Imam Al-Ghazali
+### Integrasi Turats: Konsep *Riyadhatun Nafs* dan *Al-I'tiyad* Imam Al-Ghazali
 
 Konsep mielinisasi dan plastisitas otak ini membuktikan secara ilmiah kebenaran metodologi tasawuf yang dirumuskan oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* (Kitab *Riyadhatin Nafs*)[^4]:
 
@@ -64,7 +64,7 @@ Al-Ghazali telah merumuskan tahapan neuroplastisitas sembilan abad sebelum ilmuw
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Menjaga Konsistensi Tanpa Friksi
+### Solusi Sistemik TUMBUH: Menjaga Konsistensi Tanpa Friksi
 
 Berdasarkan hukum neuroplastisitas ini, **Sistem TUMBUH** menetapkan bahwa **kunci pembentukan adab bukanlah kekerasan hukuman, melainkan FREKUENSI PENGULANGAN POSITIF YANG KONSISTEN**:
 

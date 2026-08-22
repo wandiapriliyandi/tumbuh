@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Berlabuh di Samudera Kebangkitan Peradaban
+### Berlabuh di Samudera Kebangkitan Peradaban
 
 Perjalanan panjang penelusuran intelektual dan spiritual sepanjang tujuh bab dalam Buku Volume 01 ini akhirnya tiba di pelabuhan agungnya:
 
@@ -31,7 +31,7 @@ graph TD
 
 ---
 
-### II. Menatap Wajah Pesantren Masa Depan
+### Menatap Wajah Pesantren Masa Depan
 
 Bayangkan sebuah pesantren masa depan yang megah dan penuh berkah:
 
@@ -43,7 +43,7 @@ Inilah wajah **Ekosistem TUMBUH**: sebuah peradaban mini di bumi pesantren yang 
 
 ---
 
-### III. Seruan Transformasi: Saatnya Mengayunkan Langkah Nyata
+### Seruan Transformasi: Saatnya Mengayunkan Langkah Nyata
 
 Wahai para Kiai, Bu Nyai, Asatidz, Musyrif, Pengelola Pesantren, dan Pemerhati Pendidikan Islam...
 

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Jeritan Sunyi di Bilik Asrama Malam Hari
+### Jeritan Sunyi di Bilik Asrama Malam Hari
 
 Ketika lonceng malam berdentang menandakan jam tidur dan lampu-lampu utama pesantren mulai dipadamkan, sebuah dunia yang sunyi dan mencekam kerap kali baru saja dimulai bagi sebagian anak-anak kita.
 
@@ -35,7 +35,7 @@ Ini adalah cacat logika yang fatal. Jiwa anak bukanlah besi mati yang harus diha
 
 ---
 
-### II. Anatomi Fenomenologis: Membedah Tiga Lapis Piramida Kekerasan
+### Anatomi Fenomenologis: Membedah Tiga Lapis Piramida Kekerasan
 
 Kekerasan di pesantren tidak pernah muncul tiba-tiba. Ia menyusup secara halus melalui budaya turun-temurun. Sosiolog perdamaian dunia **Johan Galtung**[^1] merumuskan bahwa kekerasan selalu bekerja dalam struktur piramida tiga lapis:
 
@@ -58,7 +58,7 @@ Piramida di atas menunjukkan mengapa kasus kekerasan fisik sulit diberantas jika
 
 ---
 
-### III. Suluh Epistemologis Turats: Peringatan Keras Ibnu Khaldun dalam *Al-Muqaddimah*
+### Suluh Epistemologis Turats: Peringatan Keras Ibnu Khaldun dalam *Al-Muqaddimah*
 
 Jauh berabad-abad sebelum ilmu psikologi modern lahir, sosiolog teragung peradaban Islam, **Ibnu Khaldun (1332–1406 M)**[^2], telah menuliskan peringatan keras dalam *Al-Muqaddimah* pada bab khusus bertajuk *Kekerasan terhadap Pelajar Membawa Kerusakan Fatal bagi Jiwa Mereka*:
 
@@ -87,7 +87,7 @@ Ibnu Khaldun membedah secara gamblang bagaimana kekerasan merusak anak dalam emp
 
 ---
 
-### IV. Neurosains Trauma & Siklus Pewarisan Dendam Antargenerasi
+### Neurosains Trauma & Siklus Pewarisan Dendam Antargenerasi
 
 Mengapa santri yang waktu yunior menangis tersiksa saat ditindas, beberapa tahun kemudian justru menjadi senior yang paling kejam kepada adik kelas barunya?
 
@@ -113,7 +113,7 @@ Ketika seorang anak terus-menerus ditindas, otaknya merekam pesan bahwa *"satu-s
 
 ---
 
-### V. Tinjauan Syar'i & Payung Hukum: Kezaliman Berkedok Pendidikan
+### Tinjauan Syar'i & Payung Hukum: Kezaliman Berkedok Pendidikan
 
 Banyak yang lupa bahwa memukul wajah, menampar, dan menyiksa fisik anak adalah **kezaliman syar'i yang diharamkan mutlak oleh Rasulullah SAW** sekaligus **tindak pidana murni di mata hukum negara**:
 
@@ -132,7 +132,7 @@ Secara hukum positif di Indonesia, **UU No. 35 Tahun 2014 tentang Perlindungan A
 
 ---
 
-### VI. Solusi Sistemik TUMBUH: Arsitektur Ekosistem Nol Kekerasan (*Zero Violence Policy*)
+### Solusi Sistemik TUMBUH: Arsitektur Ekosistem Nol Kekerasan (*Zero Violence Policy*)
 
 Menjawab amanah syariat dan hukum ini, **Sistem TUMBUH** merekayasa arsitektur perlindungan asrama melalui **Empat Pilar Deklarasi Nol Kekerasan**:
 

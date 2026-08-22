@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Jejak Cahaya di Lubuk Jiwa Setiap Santri
+### Jejak Cahaya di Lubuk Jiwa Setiap Santri
 
 Pernahkah kita merenungkan sebuah keajaiban batin yang terjadi Ketika seorang santri baru melangkah melewati pintu gerbang pondok?
 
@@ -32,7 +32,7 @@ Bagan di atas merangkum perjalanan eksistensial fitrah manusia: benih kesucian y
 
 ---
 
-### II. Prolegomena Teologis: Perjanjian Azali (*Al-Mithaq*) sebagai Akar Eksistensial
+### Prolegomena Teologis: Perjanjian Azali (*Al-Mithaq*) sebagai Akar Eksistensial
 
 Al-Qur'an mengabadikan dialog agung yang mendasari eksistensi ruhani setiap manusia:
 
@@ -49,7 +49,7 @@ Perjanjian azali (*Al-Mithaq*) ini membuktikan bahwa fitrah santri pada dasarnya
 
 ---
 
-### III. Bantahan Epistemologis atas Tabula Rasa Sekuler dan Doktrin Dosa Asal
+### Bantahan Epistemologis atas Tabula Rasa Sekuler dan Doktrin Dosa Asal
 
 Pandangan teologi Islam mengenai fitrah berdiri tegak menolak dua kutub ekstrem filsafat Barat yang keliru:
 
@@ -85,7 +85,7 @@ $$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْر
 
 ---
 
-### IV. Analisis Turats Ibn Taimiyyah & Al-Ghazali tentang Sifat Fitrah
+### Analisis Turats Ibn Taimiyyah & Al-Ghazali tentang Sifat Fitrah
 
 Syaikhul Islam **Ibnu Taimiyyah** dalam karyanya *Dar' Ta'arudh al-'Aql wan-Naql*[^2] memberikan perumpamaan yang sangat cemerlang tentang bagaimana fitrah manusia bekerja:
 
@@ -109,7 +109,7 @@ Senada dengan itu, **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin*[^3] men
 
 ---
 
-### V. Temuan Sains Modern: Bukti Moral Bawaan Sejak Bayi
+### Temuan Sains Modern: Bukti Moral Bawaan Sejak Bayi
 
 Kebenaran konsep fitrah Islam kini divalidasi secara menakjubkan oleh riset sains perkembangan anak mutakhir:
 * **Riset Yale University oleh Prof. Paul Bloom**[^4] dalam *Just Babies: The Origins of Good and Evil* membuktikan bahwa bayi manusia usia 3–6 bulan secara konsisten memilih karakter yang suka menolong dibanding karakter yang jahat. Ini adalah bukti empiris bahwa rasa keadilan dan empati bukanlah buatan manusia, melainkan perangkat lunak bawaan (*innate moral sense*) yang sudah terpasang sejak lahir.
@@ -119,7 +119,7 @@ Ketika seorang santri melakukan kesalahan di asrama, kesalahan itu bukanlah bukt
 
 ---
 
-### VI. Solusi Sistemik TUMBUH: Empat Prinsip Ta'dib Berbasis Fitrah
+### Solusi Sistemik TUMBUH: Empat Prinsip Ta'dib Berbasis Fitrah
 
 Berpijak pada ontologi fitrah ini, **Sistem TUMBUH** merumuskan **Empat Prinsip Ta'dib Fitrah**:
 

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Meninggalkan Manajemen Gosip dan Asumsi
+### Meninggalkan Manajemen Gosip dan Asumsi
 
 Di banyak lembaga pendidikan tradisional, pengambilan keputusan penegakan disiplin santri kerap kali didasarkan pada hal-hal yang subjektif: rumor asrama, prasangka pribadi pengurus, atau letupan emosi sesaat.
 
@@ -31,7 +31,7 @@ graph TD
 
 ---
 
-### II. Tiga Manfaat Nyata Tata Kelola Berbasis Data bagi Pesantren
+### Tiga Manfaat Nyata Tata Kelola Berbasis Data bagi Pesantren
 
 Penerapan sistem data PBIS dalam Ekosistem TUMBUH memberikan tiga transformasi besar:
 
@@ -44,7 +44,7 @@ Penerapan sistem data PBIS dalam Ekosistem TUMBUH memberikan tiga transformasi b
 
 ---
 
-### III. Solusi Sistemik TUMBUH: Dashboard Logbook PBIS Terpadu
+### Solusi Sistemik TUMBUH: Dashboard Logbook PBIS Terpadu
 
 Ekosistem TUMBUH melengkapi dewan pengasuh, wali kelas, dan musyrif dengan **Dashboard Logbook PBIS Terpadu**:
 

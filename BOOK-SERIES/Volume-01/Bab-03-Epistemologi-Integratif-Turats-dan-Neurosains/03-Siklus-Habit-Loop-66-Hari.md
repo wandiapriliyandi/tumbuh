@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Berapa Lama Waktu yang Dibutuhkan untuk Menanam Adab?
+### Berapa Lama Waktu yang Dibutuhkan untuk Menanam Adab?
 
 Sebuah mitos populer di kalangan dunia pelatihan karakter sering menyatakan bahwa: *"Kebiasaan baru manusia dapat terbentuk sempurna hanya dalam waktu 21 hari."*
 
@@ -37,7 +37,7 @@ graph TD
 
 ---
 
-### II. Tiga Komponen Siklus Kebiasaan (*The Habit Loop*)
+### Tiga Komponen Siklus Kebiasaan (*The Habit Loop*)
 
 Pakar perilaku **Charles Duhigg**[^2] dan **James Clear**[^3] merumuskan bahwa setiap kebiasaan manusia digerakkan oleh lingkaran tiga elemen (*The Habit Loop*):
 
@@ -57,25 +57,25 @@ graph LR
 
 ---
 
-### III. Tiga Fase Trajektori 66-Hari Ekosistem TUMBUH
+### Tiga Fase Trajektori 66-Hari Ekosistem TUMBUH
 
 Sistem TUMBUH membagi masa adaptasi santri ke dalam tiga fase yang terukur secara neurobiologis:
 
-#### 1. Fase 1: Inisiasi & Penguraian (Hari 1 s.d. 21)
+#### Fase 1: Inisiasi & Penguraian (Hari 1 s.d. 21)
 * **Kondisi Saraf**: Jalur saraf baru sedang dirintis; otak depan (*PFC*) membutuhkan energi sangat besar. Santri mudah lelah dan sering lupa.
 * **Strategi Musyrif**: Pendampingan fisik 100% di jam-jam transisi (saat bangun tidur, mandi, makan, dan jam belajar malam). Memberikan instruksi yang jelas, hangat, dan tanpa kemarahan.
 
-#### 2. Fase 2: Internalisasi & Konsolidasi (Hari 22 s.d. 45)
+#### Fase 2: Internalisasi & Konsolidasi (Hari 22 s.d. 45)
 * **Kondisi Saraf**: Memasuki fase kritis di mana antusiasme awal mulai menurun (*The Motivational Dip*). Godaan untuk kembali ke pola lama sangat kuat.
 * **Strategi Musyrif**: Menerapkan sistem pasangan belajar (*Peer Buddy*), di mana dua santri saling mengingatkan dengan santun, serta meningkatkan rasio apresiasi positif 4:1.
 
-#### 3. Fase 3: Otomatisasi & Muraqabah (Hari 46 s.d. 66)
+#### Fase 3: Otomatisasi & Muraqabah (Hari 46 s.d. 66)
 * **Kondisi Saraf**: Sirkuit adab telah terbungkus mielin tebal dan berpindah ke *Basal Ganglia*. 
 * **Strategi Musyrif**: Mengurangi pengawasan eksternal secara bertahap (*fading support*), memberikan kepercayaan otonom kepada santri, dan menanamkan penghayatan ikhlas (*Muraqabatullah*).
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Logbook Pemantauan Habituasi Digital
+### Solusi Sistemik TUMBUH: Logbook Pemantauan Habituasi Digital
 
 Untuk memastikan tidak ada santri yang tertinggal selama 66 hari proses pembiasaan, Sistem TUMBUH melengkapi musyrif dengan **Logbook PBIS Digital**:
 

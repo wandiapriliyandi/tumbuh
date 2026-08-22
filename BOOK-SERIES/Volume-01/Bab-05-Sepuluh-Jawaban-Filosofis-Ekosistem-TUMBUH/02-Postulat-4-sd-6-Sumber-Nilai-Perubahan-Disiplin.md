@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Tiga Mesin Penggerak Transformasi Karakter
+### Tiga Mesin Penggerak Transformasi Karakter
 
 Setelah kita memahami siapa santri, siapa pendidik, dan apa tujuan akhirnya, langkah berikutnya adalah merumuskan mesin operasional pembinaannya:
 
@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-### II. Postulat 4: Sumber Nilai — Paduan Berkah Wahyu dan Presisi Sains
+### Postulat 4: Sumber Nilai — Paduan Berkah Wahyu dan Presisi Sains
 
 Sistem TUMBUH menolak relativisme moral sekuler dan menolak tekstualisme buta:
 1. **Wahyu sebagai Penentu Nilai Mutlak**: Al-Qur'an dan Sunnah adalah sumber hukum halal-haram dan standar akhlak yang abadi.
@@ -41,7 +41,7 @@ Sistem TUMBUH menolak relativisme moral sekuler dan menolak tekstualisme buta:
 
 ---
 
-### III. Postulat 5: Hakikat Perubahan — Proses Sabar Selama 66 Hari
+### Postulat 5: Hakikat Perubahan — Proses Sabar Selama 66 Hari
 
 Sistem TUMBUH menolak ilusi perubahan instan:
 1. **Hukum Ketetapan Waktu (*Sunnatullah al-Tadarruj*)**: Membentuk kebiasaan adab baru membutuhkan waktu biologis rata-rata 66 hari berturut-turut untuk melapisi sirkuit saraf dengan mielin di *Basal Ganglia*.
@@ -49,7 +49,7 @@ Sistem TUMBUH menolak ilusi perubahan instan:
 
 ---
 
-### IV. Postulat 6: Hakikat Disiplin — Tegas Tanpa Menyakiti (*Firm & Kind*)
+### Postulat 6: Hakikat Disiplin — Tegas Tanpa Menyakiti (*Firm & Kind*)
 
 Sistem TUMBUH merevolusi makna disiplin dari "hukuman balas dendam" menjadi "proses pemulihan dan pembelajaran moral":
 1. **Menghapus Mutlak Kekerasan Fisik & Verbal**: Rotan, tamparan, pembentakan massal, dan sidang senior dilarang 100%.

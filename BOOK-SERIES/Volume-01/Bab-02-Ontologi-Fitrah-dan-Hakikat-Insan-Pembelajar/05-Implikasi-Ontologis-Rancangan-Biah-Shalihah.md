@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Benih Unggul Membutuhkan Tanah yang Subur
+### Benih Unggul Membutuhkan Tanah yang Subur
 
 Bayangkan sebuah benih kurma ajwa terbaik yang sangat unggul. Jika benih mulia tersebut dilemparkan ke atas batu cadas yang tandus di bawah terik matahari tanpa air, apakah benih tersebut akan mampu bertumbuh menjadi pohon yang rindang dan berbuah lebat? **Tentu tidak.**
 
@@ -31,11 +31,11 @@ graph TD
 
 ---
 
-### II. Tiga Dimensi Rekayasa Bi'ah Shalihah dalam Sistem TUMBUH
+### Tiga Dimensi Rekayasa Bi'ah Shalihah dalam Sistem TUMBUH
 
 Ekosistem TUMBUH merekayasa lingkungan pesantren melalui tiga lapisan terpadu:
 
-#### 1. Lingkungan Fisik & Sanitasi (*Physical Environment*)
+#### Lingkungan Fisik & Sanitasi (*Physical Environment*)
 Banyak pelanggaran adab (seperti perkelahian dan saling serobot) bermula dari sarana fisik yang tidak memadai. Teori psikologi lingkungan *Broken Windows Theory*[^1] membuktikan bahwa lingkungan yang kumuh, gelap, dan kotor memicu lonjakan perilaku kriminal dan agresi sosial. 
 
 Sistem TUMBUH mewajibkan:
@@ -43,13 +43,13 @@ Sistem TUMBUH mewajibkan:
 * Penerangan terang benderang di seluruh lorong jemuran dan sudut asrama untuk menghilangkan titik rawan (*Hotspots Patrol*).
 * Standar kebersihan kamar mandi dan loker pakaian sebagai manifestasi nyata keimanan (*An-Nazhafatu minal Iman*).
 
-#### 2. Lingkungan Sosial-Kultural (*Social Climate*)
+#### Lingkungan Sosial-Kultural (*Social Climate*)
 Membangun budaya pergaulan asrama yang bebas dari perundungan (*zero bullying*):
 * Menghapus seluruh tradisi perpeloncoan malam dan sidang kamar senior.
 * Membiasakan salam, senyum, dan panggilan kehormatan antar-santri (*Ya Akhi / Ya Ukhti*).
 * Menumbuhkan tradisi saling tolong (*Ta'awun*) saat ada kawan sekamar yang sakit atau rindu keluarga (*homesick*).
 
-#### 3. Lingkungan Spiritual-Afektif (*Spiritual Climate*)
+#### Lingkungan Spiritual-Afektif (*Spiritual Climate*)
 Menjadikan seluruh area pondok sebagai medan dzikrullah:
 * Menghidupkan lantunan Al-Qur'an dan sholawat yang menyejukkan hati sebelum adzan berkumandang.
 * Kehadiran musyrif dewasa yang murah senyum, mengayomi, dan menjadi pendengar setia curahan hati santri (*Co-Regulation Presence*).
@@ -57,7 +57,7 @@ Menjadikan seluruh area pondok sebagai medan dzikrullah:
 
 ---
 
-### III. Mitigasi Titik Rawan: Protokol Eliminasi Hotspots Asrama
+### Mitigasi Titik Rawan: Protokol Eliminasi Hotspots Asrama
 
 Riset perilaku membuktikan bahwa 80% kasus pelanggaran adab dan perundungan di asrama terjadi di area yang minim pengawasan (*blind spots / hotspots*)[^2]. Sistem TUMBUH menerapkan **Peta Mitigasi Hotspots**:
 
@@ -75,7 +75,7 @@ graph TD
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Transformasi Asrama Menjadi Rumah Kedua
+### Solusi Sistemik TUMBUH: Transformasi Asrama Menjadi Rumah Kedua
 
 Melalui rekayasa ekologi Bi'ah Shalihah, Sistem TUMBUH mentransformasikan asrama pesantren dari "barak penampungan yang dingin" menjadi **Baituna Jannatuna (Rumah Keduaku yang Penuh Cinta)**. 
 

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Ilusi Ketundukan di Bawah Bayang-Bayang Otoriter
+### Ilusi Ketundukan di Bawah Bayang-Bayang Otoriter
 
 Di sebagian pesantren tradisional, kita kerap menjumpai pemandangan yang sekilas tampak sangat menakjubkan:
 
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Membongkar Hegemoni Kuasa: Ketika Jabatan Menjadi Alat Penindasan
+### Membongkar Hegemoni Kuasa: Ketika Jabatan Menjadi Alat Penindasan
 
 Filsuf sosiologi kritis **Michel Foucault**[^1] membongkar bahwa di dalam institusi tertutup, kekuasaan (*power*) sering kali bekerja secara terselubung melalui pendisiplinan tubuh yang represif (*disciplinary power*). 
 
@@ -42,7 +42,7 @@ Budaya hegemoni ini merusak mentalitas santri: anak-anak kita dididik menjadi **
 
 ---
 
-### III. Teladan Agung Rasulullah SAW: Meruntuhkan Kasta dan Feodalisme
+### Teladan Agung Rasulullah SAW: Meruntuhkan Kasta dan Feodalisme
 
 Rasulullah SAW—manusia paling mulia di muka bumi—sepanjang hayatnya **meruntuhkan segala bentuk feodalisme dan relasi kuasa yang menindas**.
 
@@ -61,7 +61,7 @@ Rasulullah SAW duduk sejajar dengan para sahabatnya di atas tanah, makan bersama
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Transformasi Menjadi Servant Qudwah Leadership
+### Solusi Sistemik TUMBUH: Transformasi Menjadi Servant Qudwah Leadership
 
 Ekosistem **TUMBUH** merekonstruksi tata kelola kepemimpinan asrama melalui **Model Kepemimpinan Pelayan (*Servant Qudwah Leadership*)**:
 

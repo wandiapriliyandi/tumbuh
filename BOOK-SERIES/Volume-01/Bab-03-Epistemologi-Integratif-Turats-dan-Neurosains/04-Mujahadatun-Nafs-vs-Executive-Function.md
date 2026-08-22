@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Pertempuran Terbesar di Dalam Diri Manusia
+### Pertempuran Terbesar di Dalam Diri Manusia
 
 Rasulullah SAW bersabda sekembalinya dari sebuah pertempuran besar:
 
@@ -39,7 +39,7 @@ graph TD
 
 ---
 
-### II. Tiga Pilar Fungsi Eksekutif (*Executive Function*) di Otak Santri
+### Tiga Pilar Fungsi Eksekutif (*Executive Function*) di Otak Santri
 
 Sains kognitif modern[^1] membuktikan bahwa kemampuan santri menjalankan adab bertumpu pada tiga pilar fungsi eksekutif di otak depan:
 
@@ -52,7 +52,7 @@ Sains kognitif modern[^1] membuktikan bahwa kemampuan santri menjalankan adab be
 
 ---
 
-### III. Riset *Ego Depletion*: Energi Pengendalian Diri Bukanlah Tak Terbatas
+### Riset *Ego Depletion*: Energi Pengendalian Diri Bukanlah Tak Terbatas
 
 Pakar psikologi sosial **Roy Baumeister**[^2] menemukan fakta ilmiah penting yang sering diabaikan pengasuh pondok: **daya pengendalian diri (*willpower*) ibarat energi otot yang bisa mengalami kelelahan (*Ego Depletion*)**.
 
@@ -66,7 +66,7 @@ Ketika seorang santri dipaksa belajar dari pagi hingga larut malam tanpa jeda is
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Manajemen Energi Kemauan (*Willpower Management*)
+### Solusi Sistemik TUMBUH: Manajemen Energi Kemauan (*Willpower Management*)
 
 Menjawab hukum biologis ini, **Sistem TUMBUH** merekayasa tata kelola energi batin santri:
 

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Karakter adalah Perjalanan Menapaki Anak Tangga
+### Karakter adalah Perjalanan Menapaki Anak Tangga
 
 Sering kali kita menuntut hasil instan dari seorang santri: baru satu bulan masuk pondok, kita sudah mengharapkan ia bersikap sesaleh santri yang sudah belajar lima tahun. Ketika anak belum mampu, kita langsung melabelinya sebagai "santri bermasalah".
 
@@ -31,7 +31,7 @@ graph TD
 
 ---
 
-### II. Bedah Empat Anak Tangga Karakter Santri
+### Bedah Empat Anak Tangga Karakter Santri
 
 Mari kita telusuri karakteristik dan kebutuhan santri di setiap anak tangga:
 

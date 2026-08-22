@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Memilih Antara Balas Dendam atau Pemulihan Hubungan
+### Memilih Antara Balas Dendam atau Pemulihan Hubungan
 
 Ketika seorang santri merusak barang milik kawannya atau terlibat perselisihan fisik, sistem peradilan usang biasanya merespons dengan pendekatan **Keadilan Retributif (Hukuman Balas Dendam)**:
 * Si pelaku dipukul, dibotaki kepalanya di depan umum, atau dijemur di lapangan terik matahari.
@@ -42,7 +42,7 @@ graph TD
 
 ---
 
-### II. Tiga Rukun Pemulihan dalam Fiqih Restoratif TUMBUH
+### Tiga Rukun Pemulihan dalam Fiqih Restoratif TUMBUH
 
 1. **I'tiraf (Pengakuan Khilaf Tanpa Paksaan)**: Musyrif memandu santri merenungkan dampak tindakannya terhadap kawan sekamar.
 2. **Dhaman (Restitusi Nyata)**: Santri yang merusak lemari temannya bertanggung jawab memperbaikinya; santri yang mengotori kasur temannya bertugas mencucinya. Ini mengajarkan tanggung jawab nyata atas perbuatan sendiri.

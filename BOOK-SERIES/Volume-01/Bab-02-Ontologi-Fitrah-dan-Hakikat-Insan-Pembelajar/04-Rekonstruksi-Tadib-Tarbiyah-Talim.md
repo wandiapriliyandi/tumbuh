@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Kerancuan Istilah yang Berujung pada Kelumpuhan Karakter
+### Kerancuan Istilah yang Berujung pada Kelumpuhan Karakter
 
 Banyak kegagalan kurikulum pendidikan di pesantren berakar dari satu hal mendasar: **kerancuan dalam memahami istilah (*The Confusion of Concepts*)**[^1].
 
@@ -25,7 +25,7 @@ Bagan di atas merumuskan tata letak ontologis yang benar: **Ta'dib adalah mahkot
 
 ---
 
-### II. Bedah Semantik & Filosofis Tiga Istilah Kunci
+### Bedah Semantik & Filosofis Tiga Istilah Kunci
 
 Mari kita telusuri akar bahasa dan makna filosofis dari ketiga pilar ini:
 
@@ -41,7 +41,7 @@ Mari kita telusuri akar bahasa dan makna filosofis dari ketiga pilar ini:
 
 ---
 
-### III. Definisi Operasional Adab dalam Sistem TUMBUH
+### Definisi Operasional Adab dalam Sistem TUMBUH
 
 Dalam Ekosistem **TUMBUH**, adab bukanlah sekadar sopan santun lahiriah atau etiket basa-basi, melainkan:
 
@@ -67,7 +67,7 @@ graph TD
 
 ---
 
-### IV. Integrasi Kurikulum 24-Jam: Dari Ruang Madrasah ke Bilik Asrama
+### Integrasi Kurikulum 24-Jam: Dari Ruang Madrasah ke Bilik Asrama
 
 Bagaimana Sistem TUMBUH mengintegrasikan Ta'lim, Tarbiyah, dan Ta'dib dalam keseharian santri?
 

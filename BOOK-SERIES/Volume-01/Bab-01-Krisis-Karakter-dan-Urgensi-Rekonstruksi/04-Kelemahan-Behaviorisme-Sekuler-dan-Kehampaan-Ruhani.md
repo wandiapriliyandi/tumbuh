@@ -7,7 +7,7 @@
 
 ---
 
-### I. Ilusi Modernisasi Disiplin: Ketika Ibadah Direduksi Menjadi Perburuan Poin
+### Ilusi Modernisasi Disiplin: Ketika Ibadah Direduksi Menjadi Perburuan Poin
 
 Dalam beberapa dekade terakhir, banyak pesantren berupaya melakukan modernisasi disiplin dengan mengadopsi sistem modifikasi perilaku ala Barat: **Sistem Poin Pinalti dan Token Hadiah (*Token Economy System*)**.
 
@@ -41,7 +41,7 @@ Sistem hadiah-hukuman mekanis berhasil memanipulasi gerak fisik anak untuk semen
 
 ---
 
-### II. Menelanjangi Behaviorisme Radikal Skinner: Reduksi Manusia Menjadi Organisme Refleks
+### Menelanjangi Behaviorisme Radikal Skinner: Reduksi Manusia Menjadi Organisme Refleks
 
 Akar kesalahan sistem ini berasal dari teori **Behaviorisme Radikal** karya **B.F. Skinner**[^1]. Skinner merumuskan teorinya dari eksperimen terhadap burung merpati dan tikus: hewan diberi butiran jagung jika mematuk tombol (*reward*), dan disengat listrik jika salah menginjak tuas (*punishment*). Skinner menganggap manusia sama seperti hewan percobaan: tidak memiliki jiwa spiritual dan perilakunya dapat direkayasa sepenuhnya lewat pancingan hadiah luar.
 
@@ -59,7 +59,7 @@ Ketika sistem ini diterapkan pada santri, bahayanya sangat nyata: santri dididik
 
 ---
 
-### III. Teori Self-Determination & Fenomena Overjustification Effect
+### Teori Self-Determination & Fenomena Overjustification Effect
 
 Pakar psikologi motivasi **Edward L. Deci dan Richard M. Ryan**[^2] bersama **Alfie Kohn**[^3] membuktikan bahwa hadiah materiil justru merusak motivasi alami anak melalui fenomena yang disebut **Efek Pembenaran Berlebih (*The Overjustification Effect*)**:
 
@@ -74,7 +74,7 @@ Alfie Kohn merangkum **Tiga Racun Sistem Hadiah-Hukuman**:
 
 ---
 
-### IV. Kontinuum Regulasi Motivasi: Menuju Kesadaran Muraqabatullah
+### Kontinuum Regulasi Motivasi: Menuju Kesadaran Muraqabatullah
 
 Sains psikologi memetakan motivasi manusia ke dalam sebuah tangga lima tingkat dari kepatuhan hewani menuju kemerdekaan jiwa:
 
@@ -96,7 +96,7 @@ Tingkat 1 (takut rotan/berburu stiker) adalah level kepatuhan hewani. Puncak pem
 
 ---
 
-### V. Hermeneutika Turats: Hakikat Niat Ikhlas vs Bahaya Riya'
+### Hermeneutika Turats: Hakikat Niat Ikhlas vs Bahaya Riya'
 
 Di sinilah letak keagungan ajaran Islam. Jauh sebelum para psikolog Barat merumuskan teori motivasi, ulama agung **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* telah mengingatkan hakikat niat:
 
@@ -121,7 +121,7 @@ Sistem reward-token materiil tanpa disadari melatih santri menjadi pemburu pujia
 
 ---
 
-### VI. Solusi Sistemik TUMBUH: Model Apresiasi Relasional & Internalisasi Makna
+### Solusi Sistemik TUMBUH: Model Apresiasi Relasional & Internalisasi Makna
 
 **Sistem TUMBUH** merekayasa model pembinaan motivasi yang menjaga kemurnian niat melalui **Tiga Pilar Apresiasi Relasional**:
 

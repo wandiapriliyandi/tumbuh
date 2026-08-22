@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Meletakkan Tiga Batu Pertama Bangunan Peradaban
+### Meletakkan Tiga Batu Pertama Bangunan Peradaban
 
 Sebelum kita merumuskan ribuan pasal tata tertib, jadwal harian asrama, atau buku panduan guru, ada pertanyaan filosofis paling mendasar yang wajib dijawab dengan jernih:
 
@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-### II. Postulat 1: Hakikat Santri — Amanah Suci Berfitrah Ilahiah
+### Postulat 1: Hakikat Santri — Amanah Suci Berfitrah Ilahiah
 
 Dalam pandangan Sistem TUMBUH, santri bukanlah objek pasif yang boleh dibentak, ditampar, atau diperlakukan sesuka hati. Santri adalah:
 1. **Pribadi yang Membawa Fitrah Ketuhanan**: Sejak di alam arwah, jiwanya telah bersaksi bahwa Allah adalah Rabbnya (QS. Al-A'raf: 172). Di dalam dadanya tersimpan kompas moral bawaan yang mencintai kebaikan.
@@ -42,7 +42,7 @@ Dalam pandangan Sistem TUMBUH, santri bukanlah objek pasif yang boleh dibentak, 
 
 ---
 
-### III. Postulat 2: Hakikat Pendidik — Orang Tua Pengganti & Teladan Hidup
+### Postulat 2: Hakikat Pendidik — Orang Tua Pengganti & Teladan Hidup
 
 Asatidz dan Musyrif dalam Sistem TUMBUH bukanlah sekadar pengajar yang datang menyampaikan materi lalu pulang, melainkan:
 1. **Mandat In Loco Parentis (Orang Tua Pengganti 24 Jam)**: Mengemban amanah air mata orang tua di gerbang pondok untuk merawat jiwa, raga, dan keselamatan santri siang dan malam.
@@ -51,7 +51,7 @@ Asatidz dan Musyrif dalam Sistem TUMBUH bukanlah sekadar pengajar yang datang me
 
 ---
 
-### IV. Postulat 3: Hakikat Tujuan Akhir — Lahirnya Insan Adabi Paripurna
+### Postulat 3: Hakikat Tujuan Akhir — Lahirnya Insan Adabi Paripurna
 
 Tujuan akhir pendidikan pesantren bukanlah sekadar mencetak juara lomba hafalan atau lulusan berijazah formal, melainkan melahirkan **Insan Adabi (Santri Paripurna)** yang memiliki keseimbangan lima kecerdasan:
 * **Kecerdasan Spiritual (Tauhid)**: Merasakan pengawasan Allah dalam kesendirian (*Muraqabatullah*).

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Paradoks Biologis Disiplin: Mengapa Kemarahan Menutup Pintu Pemahaman Anak?
+### Paradoks Biologis Disiplin: Mengapa Kemarahan Menutup Pintu Pemahaman Anak?
 
 Pernahkah Anda heran, mengapa seorang santri yang sedang dibentak habis-habisan atau dihukum di depan umum justru tampak membisu layaknya patung batu, tatapan matanya kosong, atau beberapa hari kemudian mengulangi kesalahan yang sama persis? 
 
@@ -38,7 +38,7 @@ Detik saat suara bentakan menggelegar, otak santri tidak sedang memproses makna 
 
 ---
 
-### II. Neuroanatomi Otak Remaja: Mesin Mobil Balap vs Rem Sepeda Ontel
+### Neuroanatomi Otak Remaja: Mesin Mobil Balap vs Rem Sepeda Ontel
 
 Mengapa santri usia 12 hingga 18 tahun (usia MTs dan MA) sangat mudah meledak emosinya dan sering bertindak tanpa pikir panjang?
 
@@ -65,7 +65,7 @@ Ketika seorang santri bercanda berlebihan di kamar mandi atau lupa jadwal piket,
 
 ---
 
-### III. Kaskade Neurokimia Trauma: Pembajakan Amigdala & Racun Hormon Kortisol
+### Kaskade Neurokimia Trauma: Pembajakan Amigdala & Racun Hormon Kortisol
 
 Apa yang sebenarnya terjadi di dalam pembuluh darah dan jaringan saraf santri saat ia dibentak ustadznya?
 
@@ -98,7 +98,7 @@ Riset psikiatri anak[^3] membuktikan bahwa santri yang sering dibentak dan dihuk
 
 ---
 
-### IV. Teori Polivagal Stephen Porges: Rasa Aman adalah Pintu Masuk Adab
+### Teori Polivagal Stephen Porges: Rasa Aman adalah Pintu Masuk Adab
 
 Penelitian neurofisiologi klinis melalui **Teori Polivagal (*Polyvagal Theory*)** oleh **Prof. Stephen Porges**[^4] membuktikan bahwa tubuh manusia memiliki saklar saraf tiga tingkat:
 
@@ -127,7 +127,7 @@ Pesan dari tabel saraf di bawah ini sangat sederhana: **santri hanya bisa menyer
 
 ---
 
-### V. Integrasi Turats: Ketenangan Qalbu (*Thuma'ninah*) dan Cahaya Akal (*Nural Fahm*)
+### Integrasi Turats: Ketenangan Qalbu (*Thuma'ninah*) dan Cahaya Akal (*Nural Fahm*)
 
 Temuan ilmiah ini menegaskan kaidah yang telah ditulis ulama tasawuf agung, **Imam Al-Harits al-Muhasibi (w. 857 M)** dalam kitabnya *Adab an-Nufus*:
 
@@ -144,7 +144,7 @@ Ulama salaf telah mengajarkan: **ketenteraman batin (*Thuma'ninah*) adalah syara
 
 ---
 
-### VI. Solusi Sistemik TUMBUH: Arsitektur Regulasi Neuro-Afektif Berbasis Rasa Aman
+### Solusi Sistemik TUMBUH: Arsitektur Regulasi Neuro-Afektif Berbasis Rasa Aman
 
 Berdasarkan hukum neurobiologi dan tuntunan Turats ini, **Sistem TUMBUH** menetapkan bahwa **penciptaan rasa aman (*Safety First*) adalah syarat mutlak seluruh proses pendidikan**. Sistem TUMBUH merumuskan **Tiga Protokol Regulasi Neuro-Afektif**:
 

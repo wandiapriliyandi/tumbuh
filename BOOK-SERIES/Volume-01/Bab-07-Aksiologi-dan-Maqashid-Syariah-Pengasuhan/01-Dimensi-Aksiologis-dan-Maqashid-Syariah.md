@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Untuk Apa Seluruh Aturan Ini Diciptakan?
+### Untuk Apa Seluruh Aturan Ini Diciptakan?
 
 Pertanyaan penutup yang paling luhur dalam filsafat pendidikan Islam adalah pertanyaan **Aksiologis (Nilai dan Tujuan)**:
 
@@ -34,7 +34,7 @@ graph TD
 
 ---
 
-### II. Tiga Tingkatan Kemaslahatan Pengasuhan dalam Islam
+### Tiga Tingkatan Kemaslahatan Pengasuhan dalam Islam
 
 Dalam Sistem TUMBUH, seluruh kebijakan pondok disusun berdasarkan hierarki Maqashid Syari'ah:
 

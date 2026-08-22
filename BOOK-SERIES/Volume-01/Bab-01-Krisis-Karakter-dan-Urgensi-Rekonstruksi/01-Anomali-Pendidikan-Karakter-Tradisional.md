@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Air Mata di Balik Gerbang dan Tabir Paradoks Pesantren
+### Air Mata di Balik Gerbang dan Tabir Paradoks Pesantren
 
 Setiap awal tahun ajaran baru, sebuah pemandangan yang amat menyentuh kalbu selalu berulang di pelataran pondok-pondok pesantren di seluruh penjuru Nusantara.
 
@@ -68,7 +68,7 @@ Di ruang madrasah (07.00–15.00 WIB), santri dinilai semata-mata dari kertas uj
 
 ---
 
-### II. Menelusuri Akar Masalah: Mengapa Hafalan Teks Tidak Otomatis Menjadi Akhlak?
+### Menelusuri Akar Masalah: Mengapa Hafalan Teks Tidak Otomatis Menjadi Akhlak?
 
 Ketika melihat santri berperilaku buruk di asrama, reaksi spontan sebagian pendidik adalah menyalahkan si anak: *"Dasar anak nakal!", "Bebal!", "Tidak punya adab!"*
 
@@ -106,7 +106,7 @@ Sirkuit kedua adalah **Memori Prosedural (*Basal Ganglia & Serebelum*)**—tempa
 
 ---
 
-### III. Tragedi Hilangnya Hakikat Ta'dib: Kritik Epistemologis Turats
+### Tragedi Hilangnya Hakikat Ta'dib: Kritik Epistemologis Turats
 
 Kesenjangan biologis antara "tahu teori" dan "refleks beramal" ini berakar dari krisis filosofis yang telah lama diperingatkan oleh pemikir pendidikan Islam terkemuka, **Prof. Dr. Syed Muhammad Naquib al-Attas**[^4]. Beliau menyingkap terjadinya kerancuan mendasar dalam memahami tiga pilar pendidikan Islam:
 
@@ -141,7 +141,7 @@ Ketika pesantren hanya sibuk dengan *Ta'lim* (mengejar hafalan teks) dan *Tarbiy
 
 ---
 
-### IV. Dinamika Panggung Belakang: Mengapa Santri Menjadi Santun di Madrasah tapi Liar di Asrama?
+### Dinamika Panggung Belakang: Mengapa Santri Menjadi Santun di Madrasah tapi Liar di Asrama?
 
 Ketiadaan proses *Ta'dib* yang mendampingi santri di asrama melahirkan fenomena sosiologis yang sangat memprihatinkan: **Kepribadian Terbelah (*Split Personality / Nifaq Amali*)**.
 
@@ -167,7 +167,7 @@ Kebiasaan hidup dalam standar ganda ini melatih santri menjadi munafik secara pe
 
 ---
 
-### V. Wasiat Turats: Memadukan Ilmu dengan Amal Nyata
+### Wasiat Turats: Memadukan Ilmu dengan Amal Nyata
 
 Kritik terhadap ilmu yang mandul dan hafalan yang tidak berbuah amal perbuatan ini sesungguhnya telah disuarakan dengan lantang oleh para ulama agung peradaban Islam sejak berabad-abad silam:
 
@@ -191,7 +191,7 @@ Ulama terdahulu tidak pernah menilai kealiman seseorang dari tebalnya kitab yang
 
 ---
 
-### VI. Solusi Sistemik TUMBUH: Meruntuhkan Sekat Madrasah dan Asrama 24-Jam
+### Solusi Sistemik TUMBUH: Meruntuhkan Sekat Madrasah dan Asrama 24-Jam
 
 Menjawab kebuntuan metodologis di atas, **Sistem TUMBUH** merekayasa arsitektur pembinaan terpadu yang menghubungkan madrasah dan asrama ke dalam **Satu Ekosistem Pengasuhan 24-Jam**:
 

@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Mengapa Santri Sering Mengantuk di Majelis Taklim?
+### Mengapa Santri Sering Mengantuk di Majelis Taklim?
 
 Pemandangan klasik yang sering kita jumpai di ruang kelas madrasah atau serambi masjid pada siang hari:
 
@@ -33,7 +33,7 @@ graph TD
 
 ---
 
-### II. Teori Beban Kognitif (*Cognitive Load Theory*) & Sains Memori
+### Teori Beban Kognitif (*Cognitive Load Theory*) & Sains Memori
 
 Pakar psikologi pendidikan **John Sweller**[^1] dan riset kurva lupa **Hermann Ebbinghaus**[^2] membuktikan dua hukum penting dalam pembelajaran:
 
@@ -44,7 +44,7 @@ Pakar psikologi pendidikan **John Sweller**[^1] dan riset kurva lupa **Hermann E
 
 ---
 
-### III. Menghidupkan Kembali Kejeniusan Tradisi Sorogan & Talaqqi
+### Menghidupkan Kembali Kejeniusan Tradisi Sorogan & Talaqqi
 
 Sains pembelajaran modern ini sesungguhnya mengonfirmasi kejeniusan metode klasik para ulama salaf terdahulu:
 
@@ -53,7 +53,7 @@ Sains pembelajaran modern ini sesungguhnya mengonfirmasi kejeniusan metode klasi
 
 ---
 
-### IV. Solusi Sistemik TUMBUH: Standar Desain Halaqah Interaktif 4-Tahap
+### Solusi Sistemik TUMBUH: Standar Desain Halaqah Interaktif 4-Tahap
 
 Ekosistem TUMBUH merumuskan format pembelajaran kelas dan halaqah tahfizh yang selaras dengan cara kerja otak:
 

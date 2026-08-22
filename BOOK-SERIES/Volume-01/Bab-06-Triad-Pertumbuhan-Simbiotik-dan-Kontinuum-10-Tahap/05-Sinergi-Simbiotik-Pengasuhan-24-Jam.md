@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Menyatukan Dua Belahan Sayap Pesantren
+### Menyatukan Dua Belahan Sayap Pesantren
 
 Ibarat seekor burung rajawali yang megah, pendidikan pesantren hanya akan mampu terbang tinggi menggapai kejayaan peradaban jika **kedua sayapnya mengepak serempak dalam harmoni sempurna**:
 * Sayap Kanan adalah **Guru/Wali Kelas di Madrasah** (mengawal 8 jam nalar akal).
@@ -31,7 +31,7 @@ graph LR
 
 ---
 
-### II. Protokol Sinkronisasi Handover 15-Menit Harian
+### Protokol Sinkronisasi Handover 15-Menit Harian
 
 Sistem TUMBUH mewajibkan dua titik temu sinkronisasi setiap hari:
 
@@ -42,7 +42,7 @@ Sistem TUMBUH mewajibkan dua titik temu sinkronisasi setiap hari:
 
 ---
 
-### III. Puncak Harmoni: Tiga Entitas Bertumbuh Serempak
+### Puncak Harmoni: Tiga Entitas Bertumbuh Serempak
 
 Melalui sinergi tanpa sekat ini, terwujudlah impian agung **Triad Pertumbuhan Simbiotik**:
 * **Santri Bertumbuh**: Merasa aman, dihargai, dan dibimbing secara utuh 24 jam tanpa ada ruang hampa yang terabaikan.

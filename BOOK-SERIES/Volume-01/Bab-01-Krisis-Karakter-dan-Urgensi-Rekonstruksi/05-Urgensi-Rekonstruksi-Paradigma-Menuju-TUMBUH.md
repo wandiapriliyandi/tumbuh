@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Berdiri di Persimpangan Sejarah Peradaban Pesantren
+### Berdiri di Persimpangan Sejarah Peradaban Pesantren
 
 Perjalanan panjang penelusuran kritis sepanjang empat sub-bab terdahulu menuntun kita pada satu kesimpulan yang terang benderang: **dunia pendidikan pesantren sedang berdiri di sebuah persimpangan sejarah yang amat menentukan**.
 
@@ -35,7 +35,7 @@ Kita membutuhkan sebuah lompatan peradaban baru: sebuah rekonstruksi pengasuhan 
 
 ---
 
-### II. Deklarasi Epistemologis Arsitektur Enam Pilar Ekosistem TUMBUH
+### Deklarasi Epistemologis Arsitektur Enam Pilar Ekosistem TUMBUH
 
 Menjawab panggilan sejarah ini, Ekosistem **TUMBUH** lahir sebagai sintesis agung (*The Grand Synthesis*) yang menyatukan seluruh denyut kehidupan pesantren di atas **Enam Pilar Terpadu**:
 
@@ -67,7 +67,7 @@ Enam pilar yang terangkum dalam akronim **T-U-M-B-U-H** di atas merefleksikan ar
 
 ---
 
-### III. Matriks Transformasi Paradigma: Perbandingan Tiga Pendekatan
+### Matriks Transformasi Paradigma: Perbandingan Tiga Pendekatan
 
 Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik, behaviorisme sekuler, dan arsitektur rekonstruktif TUMBUH:
 
@@ -82,7 +82,7 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 
 ---
 
-### IV. Peta Jalan Implementasi Menuju Seri Buku Master TUMBUH
+### Peta Jalan Implementasi Menuju Seri Buku Master TUMBUH
 
 Rekonstruksi filosofis pada Bab 01 ini adalah pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
 
@@ -109,7 +109,7 @@ Peta jalan 5 volume ini menjamin setiap pilar filosofis diterjemahkan ke dalam t
 
 ---
 
-### V. Epilog Bab 01: Menghidupkan Kembali Ruh Kejayaan Peradaban Pesantren
+### Epilog Bab 01: Menghidupkan Kembali Ruh Kejayaan Peradaban Pesantren
 
 Wahai para kiai, pengasuh, asatidz, dan pejuang pendidikan Islam di seluruh Nusantara...
 

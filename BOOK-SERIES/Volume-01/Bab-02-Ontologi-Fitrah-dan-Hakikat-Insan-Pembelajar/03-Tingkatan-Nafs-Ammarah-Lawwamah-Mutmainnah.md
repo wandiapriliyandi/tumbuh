@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Memahami Tangga Pendakian Karakter Santri
+### Memahami Tangga Pendakian Karakter Santri
 
 Banyak pembina asrama sering kali kecewa dan putus asa Ketika melihat santri baru yang kemarin tampak bertobat, hari ini kembali mengulangi kesalahannya. 
 
@@ -34,7 +34,7 @@ Peta tingkatan jiwa di atas mengajarkan kesabaran pedagogis: kekhilafan seorang 
 
 ---
 
-### II. Tiga Tingkatan Nafs dalam Khazanah Islam
+### Tiga Tingkatan Nafs dalam Khazanah Islam
 
 Al-Qur'an menguraikan tiga kualitas jiwa manusia:
 
@@ -47,7 +47,7 @@ Al-Qur'an menguraikan tiga kualitas jiwa manusia:
 
 ---
 
-### III. Mutiara Turats: Penjelasan Ibn al-Qayyim tentang Pergulatan Jiwa
+### Mutiara Turats: Penjelasan Ibn al-Qayyim tentang Pergulatan Jiwa
 
 Pakar jiwa Islam agung, **Imam Ibn al-Qayyim al-Jawziyyah** dalam *Madarij as-Salikin*[^1] menuliskan syarah yang amat mencerahkan:
 
@@ -63,7 +63,7 @@ Uraian ini menyadarkan kita bahwa masa remaja santri adalah kancah pergulatan di
 
 ---
 
-### IV. Komparasi Sains: Tahap Perkembangan Moral Kohlberg vs Islam
+### Komparasi Sains: Tahap Perkembangan Moral Kohlberg vs Islam
 
 Teori psikologi perkembangan moral barat oleh **Lawrence Kohlberg**[^2] menemukan keselarasan yang luar biasa dengan konsep *Nafs* Islam:
 
@@ -93,7 +93,7 @@ Islam menyempurnakan teori Kohlberg: kematangan moral tertinggi tidak berhenti p
 
 ---
 
-### V. Solusi Sistemik TUMBUH: Pendekatan Berbasis Maqam Jiwa Santri
+### Solusi Sistemik TUMBUH: Pendekatan Berbasis Maqam Jiwa Santri
 
 Ekosistem **TUMBUH** melarang pendekatan seragam yang memukul rata seluruh santri. Musyrif dibekali panduan pendampingan sesuai maqam jiwa santri:
 

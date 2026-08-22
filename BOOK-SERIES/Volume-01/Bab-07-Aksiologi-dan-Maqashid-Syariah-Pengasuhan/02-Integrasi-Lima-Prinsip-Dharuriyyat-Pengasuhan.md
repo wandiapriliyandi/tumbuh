@@ -7,7 +7,7 @@
 
 ---
 
-### I. Pintu Masuk: Lima Benteng Hak Asasi Santri
+### Lima Benteng Hak Asasi Santri
 
 Syariat Islam menetapkan lima pilar perlindungan mutlak (*Ad-Dharuriyyat al-Khamsah*) yang wajib dijaga oleh setiap institusi pendidikan:
 
@@ -29,7 +29,7 @@ graph TD
 
 ---
 
-### II. Praktik Operasional Dharuriyyat Khamsah dalam Sistem TUMBUH
+### Praktik Operasional Dharuriyyat Khamsah dalam Sistem TUMBUH
 
 1. **Hifzhud Din (Penjagaan Agama)**: Menumbuhkan kesadaran *Muraqabatullah* melalui apresiasi relasional 4:1 dan tazkiyatun niyyah, bebas dari manipulasi token poin materiil.
 2. **Hifzhun Nafs (Penjagaan Jiwa & Raga)**: Kebijakan *Zero Violence* 100%, eliminasi rotan dan tamparan, serta jaminan nutrisi higienis halal-thayyib.
