@@ -24,8 +24,8 @@ Skill ini membimbing agen dalam menulis naskah buku, modul, dan monograf serial 
    * Ajak pembaca bercermin (*muhasabah*): *"Jika anak kandung kita sendiri yang berada di posisi santri tersebut, perlakuan apa yang kita harapkan ia terima?"*
 
 4. **Naratif, Mengalir, dan Hidup (*Vibrant & Engaging Flow*)**:
-   * Hindari gaya penulisan kaku seperti lembar birokrasi atau laporan teknis sempit.
-   * Gunakan narasi yang bernyawa, perumpamaan yang indah, ritme kalimat yang ritmis, dan visualisasi pemikiran yang tertata rapi.
+   * Hindari gaya penulisan kaku seperti lembar birokrasi, daftar ceklis kering, atau laporan teknis sempit.
+   * Gunakan narasi yang bernyawa, perumpamaan yang indah, ritme kalimat yang hidup, dan transisi pemikiran yang alami tanpa sekat judul meta buatan.
 
 5. **Kekayaan Dalil Turats & Rujukan Sains Mutakhir**:
    * Sajikan teks ayat dan hadits/turats dengan khat Arab yang anggun, terjemahan yang berjiwa, dan syarah makna yang mendalam.
@@ -33,12 +33,30 @@ Skill ini membimbing agen dalam menulis naskah buku, modul, dan monograf serial 
 
 ---
 
-## 2. Struktur Narasi Setiap Sub-Bab
+## 2. Prinsip Fleksibilitas Struktur Berbasis Tujuan (*Form Follows Purpose*)
 
-Setiap sub-bab buku monograf disusun dengan anatomi 6 babak:
-1. **Babak 1: Cermin Realitas (Potret Lapangan yang Menggugah)**: Mengangkat cerita atau fenomena nyata asrama yang membuka mata pembaca.
-2. **Babak 2: Bedah Masalah (Telaah Sains & Logika Kognitif)**: Membedah mengapa masalah tersebut terjadi dengan bukti sains otak dan psikologi.
-3. **Babak 3: Suluh Turats (Khazanah Emas Ulama Salaf)**: Menghidupkan kembali wasiat ulama klasik (Al-Ghazali, Ibnu Khaldun, Hasyim Asy'ari, dll.) sebagai panduan moral.
-4. **Babak 4: Dekonstruksi Paradigma Lama**: Membongkar mitos kekerasan atau manipulasi transaksional secara ilmiah dan syar'i.
-5. **Babak 5: Panduan Praktis & Solusi Operasional**: Memberikan langkah konkret yang bisa langsung dipraktikkan oleh pimpinan, guru, dan musyrif (SOP, format dialog, langkah habituasi).
-6. **Babak 6: Catatan Kaki & Rujukan Primer**: Dokumentasi referensi terpercaya.
+Format penulisan setiap sub-bab **tidak boleh diseragamkan secara kaku (bukan template seragam)**. Struktur, alur, dan kedalaman bahasan harus **menyesuaikan tujuan spesifik dari masing-masing sub-bab**:
+
+1. **Sub-Bab Fenomenologis & Realitas Lapangan (Contoh: Sub-Bab 1.1 & 1.2)**:
+   * **Tujuan**: Membuka mata dan menyentuh nurani pembaca terhadap anomali, kontradiksi praksis, kekerasan feodal, dan luka batin di balik gerbang pondok.
+   * **Fokus Bentuk**: Narasi studi kasus yang kuat, bedah dinamika sosiologis (Goffman, Galtung), kritik turats Ibnu Khaldun, dan dekonstruksi mitos tradisi.
+
+2. **Sub-Bab Eksplanasi Sains & Neurobiologis (Contoh: Sub-Bab 1.3)**:
+   * **Tujuan**: Menjelaskan secara ilmiah mekanisme biologis otak santri saat terancam atau merasa aman (mengapa amigdala membajak nalar, mengapa bentakan mematikan memori Qur'an).
+   * **Fokus Bentuk**: Anatomi neurokognitif (PFC, Limbik, HPA Axis, Teori Polivagal), tabel perbandingan respons saraf, korelasi dengan konsep *Thuma'ninah* Turats, dan protokol regulasi afektif.
+
+3. **Sub-Bab Filsafat & Psikologi Motivasi (Contoh: Sub-Bab 1.4)**:
+   * **Tujuan**: Mengkritik sistem reward-token mekanis yang merusak keikhlasan dan menumbuhkan mentalitas transaksional.
+   * **Fokus Bentuk**: Diskursus filsafat ilmu (Skinner vs Deci-Ryan), kontinuum regulasi motivasi, hermeneutika tasawuf niat ikhlas (*Ihya' Ulumiddin* & *Al-Fawa'id*), serta model apresiasi relasional.
+
+4. **Sub-Bab Manifesto & Cetak Biru Sistem (Contoh: Sub-Bab 1.5)**:
+   * **Tujuan**: Merajut sintesis agung (*The Grand Synthesis*), mendeklarasikan arsitektur baru ekosistem pesantren, dan memetakan peta jalan transformasi.
+   * **Fokus Bentuk**: Pernyataan visi filosofis-strategis, matriks komparasi paradigma komprehensif, arsitektur multi-pilar, dan peta jalan kurikulum serial buku.
+
+---
+
+## 3. Integrasi Diagram & Visualisasi
+
+* Setiap diagram yang dihadirkan harus memiliki fungsi keilmuan yang jelas (bukan hiasan kosong).
+* Berikan label penomoran gambar yang rapi di bawah diagram (`Gambar X.Y.Z: Judul`).
+* Tepat setelah diagram, **uraikan isi bagan secara naratif, analitis, dan mengalir mulus ke dalam paragraf teks** tanpa menggunakan judul perantara yang kaku (hindari `#### Penjelasan Komprehensif...`).
