@@ -1,20 +1,58 @@
-# SUB-BAB 5.4: POSTULAT 9–10: KESEJAHTERAAN PENDIDIK & VISI GLOBAL
-## *Manifesto tentang Perlindungan Musyrif dari Kelelahan Emosional dan Kaderisasi Kepemimpinan Masa Depan*
+# SUB-BAB 5.4: POSTULAT 9 & 10: KESEJAHTERAAN PENDIDIK & VISI GLOBAL
+## *Dua Mahkota Terakhir: Perlindungan Musyrif dari Kelelahan Kronis dan Visi Pesantren sebagai Rahmatan lil 'Alamin*
 
-**Kode Modul**: `BOOK-01/BAB-05/SUB-04`  
-**Kategori**: Postulat SDM & Visi Masa Depan  
-**Fokus Keilmuan**: Manajemen SDM Pesantren & Visi Peradaban Islam
+**Kode Klasifikasi**: `BOOK-01/BAB-05/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Manajemen Kesejahteraan Pendidik (*Teacher Well-Being*), Psikologi Burnout, & Visi Peradaban Islam  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Filosofi TUMBUH*)
 
 ---
 
-### Postulat 9: Kesejahteraan & Ketahanan Jiwa Pendidik (Anti-Burnout)
-Kualitas pengasuhan santri berbanding lurus dengan kesehatan mental, fisik, dan ruhiyah para pendidik. Lembaga wajib menjamin jam istirahat yang layak, sistem shift yang berkeadilan, supervisi klinis, dan iklim kerja yang saling memuliakan agar pendidik terhindar dari *burnout*. Pendidik yang kelelahan tidak akan mampu mengasuh dengan kesabaran.
+### I. Pintu Masuk: Merawat Sang Perawat dan Menatap Masa Depan Dunia
 
-### Postulat 10: Orientasi Masa Depan & Relevansi Peradaban Global
-Santri dididik bukan untuk terasing dari realitas zaman, melainkan disiapkan menjadi pionir peradaban global yang memiliki kemandirian hidup, integritas etika di dunia digital, serta daya saing intelektual dan vokasional tingkat dunia berlandaskan keluhuran adab Islam.
+Sepuluh bangunan filosofis Sistem TUMBUH ditutup oleh dua pilar mahkota yang sangat menentukan keberlanjutan institusi:
+* *Bagaimana kita menjaga para musyrif dan asatidz agar tidak tumbang kelelahan (*burnout*) di tengah tugas membina santri 24 jam?*
+* *Dan bagaimana visi besar pesantren untuk menjawab tantangan krisis moral peradaban dunia di masa depan?*
+
+Ekosistem **TUMBUH** menjawab kedua pertanyaan pamungkas ini melalui **Postulat 9 dan Postulat 10**:
 
 ```mermaid
 graph TD
-    P9["Postulat 9: Pendidik Sehat Mental & Sejahtera"] --> Pengasuhan["Pengasuhan Hangat & Berkualitas Tinggi"]
-    Pengasuhan --> P10["Postulat 10: Santri Berdaya Saing & Pemimpin Global"]
+    subgraph DuaMahkotaTerakhir["POSTULAT 9 & 10 EKOSISTEM TUMBUH"]
+        P9["POSTULAT 9: KESEJAHTERAAN & PERLINDUNGAN PENDIDIK<br/>Pendidik & musyrif wajib dirawat kesejahteraan jiwa, raga, jam istirahat, & perlindungan hukumnya (Anti-Burnout)."]
+        
+        P10["POSTULAT 10: VISI PERADABAN PESANTREN<br/>Pesantren adalah rahim peradaban Islam yang melahirkan pemimpin berkarakter rahmatan lil 'alamin di pentas global."]
+        
+        P9 ==> P10
+    end
 ```
+<div align="center"><sub><b>Gambar 5.4.1:</b> Postulat 9 (Kesejahteraan Pendidik) dan Postulat 10 (Visi Peradaban Global) Sistem TUMBUH.</sub></div>
+
+---
+
+### II. Postulat 9: Kesejahteraan Pendidik — Pendidik yang Lelah Tidak Bisa Menyayangi
+
+Sistem TUMBUH memegang kaidah emas: **"Hanya jiwa yang tenang dan bahagia yang mampu mengalirkan ketenangan dan kasih sayang kepada santrinya"**:
+1. **Pencegahan Burnout Musyrif**: Musyrif dijamin memiliki jadwal libur berkala, waktu istirahat yang manusiawi, dan sistem pembagian shift yang adil.
+2. **Kesejahteraan Finansial & Spiritual**: Menjamin nafkah yang bermartabat dan menyediakan ruang *Tazkiyatun Nafs* khusus bagi asatidz agar api keikhlasan dan semangat mengasuh selalu menyala.
+3. **Triad Pertumbuhan Simbiotik**: Guru dan musyrif harus ikut bertumbuh secara kapasitas dan spiritual bersama dengan pertumbuhan santri.
+
+---
+
+### III. Postulat 10: Visi Global — Pesantren sebagai Rahmat bagi Semesta
+
+Sistem TUMBUH menatap masa depan peradaban dengan penuh optimisme:
+1. **Episentrum Moral Dunia**: Pesantren bukan sekadar lembaga lokal, melainkan model peradaban alternatif bagi dunia yang sedang dilanda krisis kemanusiaan dan kehampaan spiritual.
+2. **Mencetak Pemimpin Berwawasan Global**: Santri TUMBUH dididik untuk menguasai bahasa internasional, teknologi modern, dan wawasan global, sembari tetap memegang teguh sanad akhlak nabawi sebagai rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).
+
+---
+
+### IV. Sintesis Sub-Bab 5.4
+
+Dengan menjaga kesejahteraan para pembina di garis depan dan memancangkan visi peradaban yang agung, Sistem TUMBUH memastikan bahwa pesantren akan terus berdiri kokoh sebagai mercusuar moral umat sepanjang masa.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–55.
+[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–150.
