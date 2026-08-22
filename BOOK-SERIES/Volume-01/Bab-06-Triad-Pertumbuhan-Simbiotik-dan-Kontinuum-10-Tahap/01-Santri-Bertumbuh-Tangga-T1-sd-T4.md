@@ -102,4 +102,4 @@ Dengan memandu santri mendaki tangga T1 s.d. T4 ini secara sabar dan terukur, Si
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Benjamin S. Bloom[^1] (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
-[^2]: **Dewan Pakar Ekosistem TUMBUH**, *Taksonomi Sepuluh Kapasitas Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^2]: **Al-Imam ar-Raghib al-Isfahani**, *Adz-Dzari'ah ila Makarim asy-Syari'ah*, Tahqiq: Dr. Abu al-Yazid Abu Zaid al-'Ajami (Kairo: Dar as-Salam, 2007), hlm. 85–112.

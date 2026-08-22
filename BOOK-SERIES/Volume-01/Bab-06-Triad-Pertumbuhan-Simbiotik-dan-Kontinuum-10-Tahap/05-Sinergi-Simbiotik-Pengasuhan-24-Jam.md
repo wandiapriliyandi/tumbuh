@@ -100,4 +100,4 @@ Pendidikan adab bukanlah pekerjaan sambilan seorang individu, melainkan gerakan 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Manual Operasional Protokol Handover Dual-Pillar 24-Jam TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), Bab 4: "Mesosystems and Human Development", hlm. 205–235.

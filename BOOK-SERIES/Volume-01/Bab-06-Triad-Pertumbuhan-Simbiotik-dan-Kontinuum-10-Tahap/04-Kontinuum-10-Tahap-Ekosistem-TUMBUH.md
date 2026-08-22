@@ -111,4 +111,4 @@ Dengan berpegang pada Kontinuum 10-Tahap ini, proses pendidikan di pesantren tid
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Kerangka Progresi Tahapan Perkembangan Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Tartib al-Awrad wa Tafshil Ihya' al-Lail (Kairo: Dar al-Hadits, 2004), Jilid I, hlm. 430–465.

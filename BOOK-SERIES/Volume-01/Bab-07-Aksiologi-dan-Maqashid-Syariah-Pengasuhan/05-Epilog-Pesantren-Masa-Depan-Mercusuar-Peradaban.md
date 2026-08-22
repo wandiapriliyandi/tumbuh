@@ -90,4 +90,4 @@ $$\text{وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَم
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Master Monograf Volume 01: Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **K.H. Abdurrahman Wahid (Gus Dur)**, *Pesantren Masa Depan: Wacana Pemberdayaan dan Transformasi Pesantren*, Ed. Marzuki Wahid (Bandung: Pustaka Hidayah, 1999), hlm. 15–42.

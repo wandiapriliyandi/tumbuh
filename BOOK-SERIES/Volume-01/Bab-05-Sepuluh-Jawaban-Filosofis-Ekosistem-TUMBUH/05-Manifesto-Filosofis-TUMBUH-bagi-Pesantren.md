@@ -68,4 +68,4 @@ Dengan memegang teguh piagam ini, Ekosistem TUMBUH melangkah mantap menyongsong 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Deklarasi Filosofis Pembaruan Pendidikan Pesantren Abad ke-21* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **Al-Imam Abu Bakar Muhammad bin al-Husain al-Ajurri**, *Akhlaq al-'Ulama*, Tahqiq: Syaikh Badr bin Abdullah al-Badr (Kuwait: Dar al-Khulafa' lil Kitab al-Islami, 1987), hlm. 35–58.

@@ -103,4 +103,4 @@ Ketika para musyrif merasa dihargai oleh yayasan, memiliki waktu istirahat yang 
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
-[^2]: **Dewan Pakar Ekosistem TUMBUH**, *Standar Baku Kompetensi & Tata Kelola Musyrif Asrama TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^2]: **Arnold B. Bakker & Evangelia Demerouti**, "The Job Demands-Resources model: State of the art", *Journal of Managerial Psychology*, Vol. 22, No. 3 (2007), hlm. 309–328.

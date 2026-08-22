@@ -839,7 +839,7 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 
 ### Peta Jalan Implementasi Menuju Seri Buku Master TUMBUH
 
-Rekonstruksi filosofis pada Bab 01 oleh Dewan Pakar TUMBUH[^4] ini berakar pada de-sekularisasi ilmu Prof. Naquib al-Attas[^3] dan menjadi pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
+Rekonstruksi filosofis pada Bab 01 ini berakar pada de-sekularisasi ilmu Prof. Naquib al-Attas[^3] dan khazanah kepengasuhan adab Hadhratusy Syaikh KH. M. Hasyim Asy'ari[^4], yang menjadi pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
 
 ```mermaid
 graph TD
@@ -881,7 +881,7 @@ Dari bilik-bilik asrama yang penuh cinta inilah, kelak akan bangkit generasi san
 [^1]: **George Sugai & Robert H. Horner**, "The evolution of discipline practices: School-wide positive behavior supports", *Child & Family Behavior Therapy*, Vol. 24, No. 1–2 (2002), hlm. 23–50.
 [^2]: **Howard Zehr**, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002; Revised Edition, Skyhorse Publishing, 2015).
 [^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: Muslim Youth Movement of Malaysia / ABIM, 1978; ISTAC, 1993), Bab 4: "The De-Westernization of Knowledge".
-[^4]: **Dewan Pakar Ekosistem TUMBUH**, *Master Design Arsitektur Karakter Pesantren Terpadu 24-Jam: Buku Seri Monograf 5 Volume* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^4]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), hlm. 15–28.
 
 
 ---
@@ -3058,7 +3058,7 @@ Dengan memegang teguh piagam ini, Ekosistem TUMBUH melangkah mantap menyongsong 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Deklarasi Filosofis Pembaruan Pendidikan Pesantren Abad ke-21* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **Al-Imam Abu Bakar Muhammad bin al-Husain al-Ajurri**, *Akhlaq al-'Ulama*, Tahqiq: Syaikh Badr bin Abdullah al-Badr (Kuwait: Dar al-Khulafa' lil Kitab al-Islami, 1987), hlm. 35–58.
 
 
 ---
@@ -3167,7 +3167,7 @@ Dengan memandu santri mendaki tangga T1 s.d. T4 ini secara sabar dan terukur, Si
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Benjamin S. Bloom[^1] (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
-[^2]: **Dewan Pakar Ekosistem TUMBUH**, *Taksonomi Sepuluh Kapasitas Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^2]: **Al-Imam ar-Raghib al-Isfahani**, *Adz-Dzari'ah ila Makarim asy-Syari'ah*, Tahqiq: Dr. Abu al-Yazid Abu Zaid al-'Ajami (Kairo: Dar as-Salam, 2007), hlm. 85–112.
 
 
 ---
@@ -3277,7 +3277,7 @@ Ketika para musyrif merasa dihargai oleh yayasan, memiliki waktu istirahat yang 
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
-[^2]: **Dewan Pakar Ekosistem TUMBUH**, *Standar Baku Kompetensi & Tata Kelola Musyrif Asrama TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^2]: **Arnold B. Bakker & Evangelia Demerouti**, "The Job Demands-Resources model: State of the art", *Journal of Managerial Psychology*, Vol. 22, No. 3 (2007), hlm. 309–328.
 
 
 ---
@@ -3494,7 +3494,7 @@ Dengan berpegang pada Kontinuum 10-Tahap ini, proses pendidikan di pesantren tid
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Kerangka Progresi Tahapan Perkembangan Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Tartib al-Awrad wa Tafshil Ihya' al-Lail (Kairo: Dar al-Hadits, 2004), Jilid I, hlm. 430–465.
 
 
 ---
@@ -3601,7 +3601,7 @@ Pendidikan adab bukanlah pekerjaan sambilan seorang individu, melainkan gerakan 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Manual Operasional Protokol Handover Dual-Pillar 24-Jam TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), Bab 4: "Mesosystems and Human Development", hlm. 205–235.
 
 
 ---
@@ -4161,7 +4161,7 @@ $$\text{وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَم
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Dewan Pakar Ekosistem TUMBUH**, *Master Monograf Volume 01: Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^1]: **K.H. Abdurrahman Wahid (Gus Dur)**, *Pesantren Masa Depan: Wacana Pemberdayaan dan Transformasi Pesantren*, Ed. Marzuki Wahid (Bandung: Pustaka Hidayah, 1999), hlm. 15–42.
 
 
 ---

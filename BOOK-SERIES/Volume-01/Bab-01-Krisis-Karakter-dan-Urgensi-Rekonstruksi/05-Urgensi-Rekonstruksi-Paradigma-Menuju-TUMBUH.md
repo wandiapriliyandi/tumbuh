@@ -84,7 +84,7 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 
 ### Peta Jalan Implementasi Menuju Seri Buku Master TUMBUH
 
-Rekonstruksi filosofis pada Bab 01 oleh Dewan Pakar TUMBUH[^4] ini berakar pada de-sekularisasi ilmu Prof. Naquib al-Attas[^3] dan menjadi pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
+Rekonstruksi filosofis pada Bab 01 ini berakar pada de-sekularisasi ilmu Prof. Naquib al-Attas[^3] dan khazanah kepengasuhan adab Hadhratusy Syaikh KH. M. Hasyim Asy'ari[^4], yang menjadi pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
 
 ```mermaid
 graph TD
@@ -126,4 +126,4 @@ Dari bilik-bilik asrama yang penuh cinta inilah, kelak akan bangkit generasi san
 [^1]: **George Sugai & Robert H. Horner**, "The evolution of discipline practices: School-wide positive behavior supports", *Child & Family Behavior Therapy*, Vol. 24, No. 1–2 (2002), hlm. 23–50.
 [^2]: **Howard Zehr**, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002; Revised Edition, Skyhorse Publishing, 2015).
 [^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: Muslim Youth Movement of Malaysia / ABIM, 1978; ISTAC, 1993), Bab 4: "The De-Westernization of Knowledge".
-[^4]: **Dewan Pakar Ekosistem TUMBUH**, *Master Design Arsitektur Karakter Pesantren Terpadu 24-Jam: Buku Seri Monograf 5 Volume* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
+[^4]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), hlm. 15–28.
