@@ -12,7 +12,7 @@
 Masa remaja (usia 12–18 tahun)—yang merupakan usia mayoritas santri di tingkat MTs dan MA—adalah periode perkembangan otak yang paling dinamis sekaligus paling rentan setelah masa bayi (*critical neurodevelopmental window*). Berdasarkan penelitian neuroimaging fMRI (Giedd et al., 1999; Blakemore, 2012; Steinberg, 2008), otak remaja mengalami rekonstruksi besar-besaran yang ditandai oleh fenomena **asinkroni maturasi otak (*developmental mismatch / dual-systems model*)**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph SistemLimbik["SISTEM SUBCORTICAL / LIMBIK (Matang Lebih Awal)"]
         Amigdala["Amigdala & Nukleus Akumbens<br/>Pusat Reaktivitas Emosi, Pencarian Sensasi, & Respon Bahaya"]
     end
@@ -21,8 +21,8 @@ graph LR
         PFC["Dorsolateral & Ventromedial PFC<br/>Pusat Kendali Impuls, Penalaran Moral, Estimasi Risiko, & Empati"]
     end
     
-    Amigdala <-->|Kesenjangan Kematangan Biologis (12-18 Tahun)| PFC
-    PFC -. Membutuhkan Penyangga Eksternal .-> Musyrif["Musyrif sebagai 'Prefrontal Cortex Eksternal' yang Stabil & Hangat"]
+    Amigdala <-->|"Kesenjangan Kematangan Biologis Usia 12-18 Tahun"| PFC
+    PFC -.->|"Membutuhkan Penyangga Eksternal"| Musyrif["Musyrif sebagai Penyangga Eksternal PFC yang Stabil & Hangat"]
 ```
 
 1. **Sistem Limbik (Amigdala & Ventral Striatum)** telah matang sempurna sejak awal pubertas, memicu dorongan emosional yang intens, kepekaan tinggi terhadap penerimaan teman sebaya, serta reaktivitas spontan terhadap rangsangan lingkungan.
@@ -40,16 +40,16 @@ Mekanisme kaskade neurokimia ini berlangsung dalam hitungan milidetik melalui ja
 
 ```mermaid
 graph TD
-    Bentakan["Stimulus Ancaman: Bentakan / Ayunan Rotan Musyrif"] --> Talamus["Talamus Menerima Sinyal Sensorik (Visual & Auditori)"]
+    Bentakan["Stimulus Ancaman: Bentakan atau Ayunan Rotan Musyrif"] --> Talamus["Talamus Menerima Sinyal Sensorik Visual & Auditori"]
     
-    Talamus -->|Jalur Cepat Rendah (Subkortikal 12 ms)| Amigdala["AMIGDALA MEMBAJAK KENDALI OTAK<br/>Mendeteksi 'Ancaman Kematian / Bahaya Fisik'"]
+    Talamus -->|"Jalur Cepat Rendah Subkortikal 12 ms"| Amigdala["AMIGDALA MEMBAJAK KENDALI OTAK<br/>Mendeteksi Ancaman Bahaya Fisik"]
     
     Amigdala --> AksisHPA["Aktivasi Aksis HPA (Hipotalamus - Pituitari - Adrenal)"]
-    AksisHPA --> Hormon["Banjir Hormon Stres Toksik:<br/>• Kortisol Dosis Tinggi<br/>• Norepinefrin & Adrenalin"]
+    AksisHPA --> Hormon["Banjir Hormon Stres Toksik:<br/>- Kortisol Dosis Tinggi<br/>- Norepinefrin & Adrenalin"]
     
-    Hormon --> SirkuitFisik["Respon Fisiologis Primitif:<br/>• Detak jantung melonjak (Takikardia)<br/>• Otot menegang & napas dangkal<br/>• Aliran darah ditarik dari otak ke otot rangka"]
+    Hormon --> SirkuitFisik["Respon Fisiologis Primitif:<br/>- Detak jantung melonjak (Takikardia)<br/>- Otot menegang & napas dangkal<br/>- Aliran darah ditarik ke otot rangka"]
     
-    Hormon --> LumpuhPFC["KELUMPUHAN KORTEKS PREFRONTAL (PFC Shut-down):<br/>• Kehilangan kemampuan berpikir logis<br/>• Hilangnya kapasitas empati & pertimbangan moral<br/>• Respon instingtif primitif: Fight, Flight, Freeze, Fawn"]
+    Hormon --> LumpuhPFC["KELUMPUHAN KORTEKS PREFRONTAL (PFC Shut-down):<br/>- Kehilangan kemampuan berpikir logis<br/>- Hilangnya kapasitas empati & pertimbangan moral<br/>- Respon instingtif primitif: Fight, Flight, Freeze, Fawn"]
 ```
 
 Sebagaimana dibuktikan oleh neurosaintis Robert Sapolsky (2017) dalam karyanya *Behave: The Biology of Humans at Our Best and Worst* dan Bruce Perry (2006) dalam *The Boy Who Was Raised as a Dog*, banjir hormon kortisol kronis akibat ancaman yang berulang di lingkungan tempat tinggal (asrama) menghasilkan dampak kerusakan patologis yang permanen:
