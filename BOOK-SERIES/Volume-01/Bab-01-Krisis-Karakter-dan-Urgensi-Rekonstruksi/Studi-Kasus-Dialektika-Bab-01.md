@@ -42,7 +42,7 @@ Santri A (usia 15 tahun, kelas 9) adalah santri berprestasi tinggi yang telah me
 
 ```mermaid
 graph LR
-    HafalanTinggi["Hafalan 15 Juz & Nilai Fiqh Mumtaz (Memori Deklaratif)"] -- Terputus tanpa Ta'dib --x Ghashab["Praktik Ghashab & Keangkuhan Spiritual (Praksis Cacat)"]
+    HafalanTinggi["Hafalan 15 Juz & Nilai Fiqh Mumtaz (Memori Deklaratif)"] -.->|Terputus tanpa Ta'dib| Ghashab["Praktik Ghashab & Keangkuhan Spiritual (Praksis Cacat)"]
     TUMBUH["Intervensi Ekosistem TUMBUH"] ==> Internalisasi["Penyelarasan Hafalan Qur'an dengan Adab Hak Milik Nyata"]
 ```
 

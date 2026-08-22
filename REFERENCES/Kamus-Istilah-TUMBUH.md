@@ -18,7 +18,7 @@ Dokumen ini adalah kamus rujukan resmi untuk memahami seluruh istilah teknis, fi
 
 | Istilah | Asal Kata / Bahasa | Arti Sederhana & Penjelasan Kontekstual |
 | :--- | :--- | :--- |
-| **Ontologi** | Yunani: *Ontos* (ada) + *Logos* (ilmu) | **Ilmu tentang Hakikat Keberadaan.** Cabang filsafat yang menjawab: *"Apa yang benar-benar nyata/ada?"* Di TUMBUH, ontologi menegaskan realitas mencakup fisik (*syahadah*) dan metafisik (*ghaib*). |
+| **Ontologi** | Yunani: *Ontos* (ada) + *Logos* (ilmu) | **Ilmu tentang Hakikat Keberadaan.** Cabang filsafat yang menjawab: *"Apa yang benar-benar nyata/ada?"* Di TUMBUH, ontologi menegaskan realitas mencakup alam nyata (*syahadah*) dan alam gaib (*ghaib*). |
 | **Epistemologi** | Yunani: *Episteme* (pengetahuan) + *Logos* (ilmu) | **Ilmu tentang Hakikat Pengetahuan.** Cabang filsafat yang menjawab: *"Dari mana sumber ilmu dan bagaimana kita tahu sesuatu itu benar?"* Di TUMBUH, sumber ilmu memadukan wahyu, akal sehat, dan data sains. |
 | **Aksiologi** | Yunani: *Axios* (nilai) + *Logos* (ilmu) | **Ilmu tentang Nilai & Etika.** Cabang filsafat yang menjawab: *"Untuk apa ilmu itu digunakan dan apa batas moralnya?"* Di TUMBUH, ilmu digunakan untuk mendekat kepada Allah dan memberi kemaslahatan (*khidmah*). |
 | **Teleologi** | Yunani: *Telos* (tujuan akhir) + *Logos* (ilmu) | **Kajian tentang Tujuan Akhir Penciptaan.** Pandangan bahwa manusia dan alam semesta tidak hadir secara kebetulan, melainkan memiliki tujuan mulia: mengabdi kepada Allah dan memakmurkan bumi. |
@@ -48,8 +48,8 @@ Dokumen ini adalah kamus rujukan resmi untuk memahami seluruh istilah teknis, fi
 | **Bi'ah Shalihah** | *Bi'-ah Sha-li-hah* (بيئة صالحة) | **Lingkungan yang Kondusif & Shalih.** Ekosistem fisik dan sosial pesantren yang mempermudah berbuat baik dan mempersulit berbuat maksiat. |
 | **Wajib al-Wujud** | *Wa-jib al-Wu-jud* (واجب الوجود) | **Zat yang Pasti Ada.** Hakikat wujud Allah SWT yang mutlak, abadi, dan tidak bergantung pada siapa pun. |
 | **Mumkin al-Wujud** | *Mum-kin al-Wu-jud* (ممكن الوجود) | **Ciptaan yang Mungkin Ada/Tiada.** Hakikat seluruh makhluk ciptaan Allah yang bergantung pada kehendak-Nya. |
-| **'Alam asy-Syahadah** | *'A-lam asy-Sya-ha-dah* (عالم الشهادة) | **Alam Nyata / Fisik.** Dimensi realitas yang dapat diobservasi panca indera (perilaku, jadwal, kebersihan asrama, data fisik). |
-| **'Alam al-Ghaib** | *'A-lam al-Ghaib* (عالم الغيب) | **Alam Gaib / Metafisik.** Dimensi realitas yang tidak tertangkap indera fisik (malaikat, pahala, dosa, barakah, niat batin). |
+| **Alam Nyata ('Alam asy-Syahadah)** | *'A-lam asy-Sya-ha-dah* (عالم الشهادة) | **Dunia Fisik / Kasatmata.** Dimensi realitas yang dapat dilihat, didengar, dan diukur oleh panca indera (seperti perilaku santri, fasilitas asrama, logbook, dan data harian). |
+| **Alam Gaib ('Alam al-Ghaib)** | *'A-lam al-Ghaib* (عالم الغيب) | **Dunia Spiritual / Metafisik.** Dimensi realitas yang tidak kasatmata namun diyakini mutlak (seperti keimanan kepada Allah, malaikat, hisab, pahala, dan niat di hati). |
 | **Shidq al-Amal** | *Shidq al-'A-mal* (صدق العمل) | **Keselarasan Kata dan Perbuatan.** Kejujuran integritas di mana tindakan pendidik mencerminkan ajaran yang disampaikannya. |
 | **Hilm** | *Hilm* (حلم) | **Ketenangan Jiwa.** Sifat lapang dada dan sabar yang dimiliki pendidik sehingga tidak mudah terpancing emosi/marah saat santri berbuat salah. |
 

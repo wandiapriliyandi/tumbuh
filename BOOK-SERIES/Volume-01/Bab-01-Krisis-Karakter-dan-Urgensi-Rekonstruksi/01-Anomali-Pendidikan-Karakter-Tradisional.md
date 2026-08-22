@@ -40,7 +40,7 @@ Pendidikan karakter konvensional di banyak pesantren terjebak dalam ilusi kognit
 
 ```mermaid
 graph LR
-    Deklaratif["Pengetahuan Deklaratif (Teks Kitab)<br/>Tersimpan di Korteks Temporal<br/>'Tahu bahwa ghashab itu dosa'"] -- Ilusi Pedagogis --x Prosedural["Karakter Prosedural (Praksis Otomatis)<br/>Tersimpan di Sirkuit Basal Ganglia<br/>'Refleks menahan diri dari menyentuh barang orang lain'"]
+    Deklaratif["Pengetahuan Deklaratif (Teks Kitab)<br/>Tersimpan di Korteks Temporal<br/>'Tahu bahwa ghashab itu dosa'"] -.->|Terputus: Ilusi Pedagogis| Prosedural["Karakter Prosedural (Praksis Otomatis)<br/>Tersimpan di Sirkuit Basal Ganglia<br/>'Refleks menahan diri dari menyentuh barang orang lain'"]
     
     Deklaratif ==>|METODOLOGI HABITUASI TUMBUH (66 HARI)| Prosedural
 ```
