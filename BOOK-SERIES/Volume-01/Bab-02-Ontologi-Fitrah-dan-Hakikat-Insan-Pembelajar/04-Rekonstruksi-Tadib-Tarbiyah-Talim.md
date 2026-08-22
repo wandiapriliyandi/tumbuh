@@ -1,85 +1,100 @@
 # SUB-BAB 2.4: REKONSTRUKSI TA'DIB, TARBIYAH, & TA'LIM
-## *Sintesis Filosofis Gagasan Syed Muhammad Naquib Al-Attas, Imam Al-Ghazali, dan Abdurrahman an-Nahlawi*
+## *Analisis Semantik Prof. Dr. Syed Muhammad Naquib al-Attas, Integrasi Tiga Dimensi Pendidikan Islam, dan Penanaman Adab Paripurna*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Epistemologi Pendidikan Islam, Filsafat Bahasa Arab Terapan, & Rekayasa Kurikulum Pesantren  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Desain Kurikulum Adab*)
+**Disiplin Ilmu**: Filsafat Bahasa Pendidikan Islam, Epistemologi Tarbiyah, & Teori Kurikulum Adab  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Desain Kurikulum Adab*)
 
 ---
 
-### Kerancuan Istilah yang Berujung pada Kelumpuhan Karakter
+### Mencari Ruh yang Hilang dalam Pendidikan Islam
 
-Banyak kegagalan kurikulum pendidikan di pesantren berakar dari satu hal mendasar: **kerancuan dalam memahami istilah (*The Confusion of Concepts*)**[^1].
+Dalam khazanah bahasa Arab dan literatur Islam klasik, kita mengenal tiga istilah utama yang kerap digunakan silih berganti untuk menerjemahkan kata "pendidikan": **Ta'lim**, **Tarbiyah**, dan **Ta'dib**[^1].
 
-Selama puluhan tahun, kata *Tarbiyah*, *Ta'lim*, dan *Ta'dib* sering kali diucapkan secara campur aduk seolah-olah ketiganya bermakna sama persis. Akibatnya sangat fatal: ketika sebuah lembaga mengklaim sedang menyelenggarakan "pendidikan Islam", yang sebenarnya mereka lakukan hanyalah *Ta'lim* (mengisi kepala anak dengan hafalan teks) dan *Tarbiyah* (membangun gedung asrama dan memberi makan fisik anak), sementara proses inti yang bernama **Ta'dib (penanaman adab ke dalam jiwa)** justru terabaikan.
+Namun, di era modern saat ini, sebagian besar institusi pendidikan—termasuk kementerian, madrasah, dan banyak pesantren—secara luas mengadopsi istilah *Tarbiyah* atau *Ta'lim*, sementara istilah *Ta'dib* perlahan-lahan terpinggirkan dari wacana arus utama.
+
+Apakah pergeseran istilah ini hanya sekadar masalah preferensi linguistik yang sepele? **Sama sekali tidak!**
+
+Pakar filsafat pendidikan Islam terkemuka dunia, **Prof. Dr. Syed Muhammad Naquib al-Attas**[^1], membongkar bahwa reduksi istilah pendidikan menjadi sekadar *Ta'lim* atau *Tarbiyah* tanpa *Ta'dib* adalah salah satu akar penyebab terjadinya **Krisis Kehancuran Adab (*The Loss of Adab*)** di dunia Islam modern:
+* Pendidikan tereduksi menjadi sekadar pabrik transfer informasi hafalan (*Ta'lim semata*), atau sekadar proses penggemukan raga dan pengasuhan fisik biologis layaknya merawat hewan ternak (*Tarbiyah tanpa Ta'dib*).
+* Santri menjadi pintar secara nalar hafalan kitab, namun kehilangan kehalusan budi pekerti, sombong kepada gurunya, dan kasar kepada sesamanya.
+
+Sistem **TUMBUH** merekonstruksi dan mengintegrasikan ketiga dimensi ini secara proporsional, dengan menempatkan **Ta'dib sebagai Mahkota Tertinggi Pendidikan Pesantren**:
 
 ```mermaid
 graph TD
-    Tadib["TA'DIB (Mahkota & Jantung Pendidikan Islam)<br/>Penanaman Adab: Mengenali & Mengakui Posisi Segala Sesuatu Secara Benar di Hadapan Allah"]
-    Tadib --> Tarbiyah["TARBIYAH (Pengasuhan Raga & Hayati)<br/>Perawatan jasmani, stabilitas emosi, & pemenuhan sarana hidup santri"]
-    Tadib --> Talim["TA'LIM (Transmisi Ilmu & Nalar Akal)<br/>Penguasaan konsep kognitif, hafalan dalil, & pemahaman syariat"]
+    subgraph TriadPendidikanIslam["INTEGRASI TIGA DIMENSI PENDIDIKAN ISLAM SISTEM TUMBUH"]
+        Talim["1. TA'LIM (Dimensi Nalar & Kognitif)<br/>• Transmisi ilmu syariat, kaidah nahwu, & sains empiris.<br/>• Target: Kecerdasan intelektual (*Muthaqqaf al-Fikr*)."]
+        
+        Tarbiyah["2. TARBIYAH (Dimensi Raga & Pengasuhan)<br/>• Pemenuhan nutrisi, kesehatan fisik, & pematangan biologis.<br/>• Target: Kebugaran jasmani (*Qawiyyul Jism*)."]
+        
+        Tadib["3. TA'DIB (Dimensi Ruhani & Penanaman Adab - Mahkota Tertinggi)<br/>• Penanaman adab kepada Allah, Rasul, guru, sesama, & alam semesta.<br/>• Target: Lahirnya Insan Adabi Paripurna (*Karamah Insaniyyah*)."]
+        
+        Talim --> Tadib
+        Tarbiyah --> Tadib
+    end
 ```
-<div align="center"><sub><b>Gambar 2.4.1:</b> Struktur Hirarki Integratif Trilogi Pendidikan Islam: Ta'dib sebagai Mahkota, Ditopang oleh Tarbiyah dan Ta'lim.</sub></div>
-
-Bagan di atas merumuskan tata letak ontologis yang benar: **Ta'dib adalah mahkota dan tujuan tertinggi seluruh pendidikan Islam**, sedangkan Tarbiyah dan Ta'lim adalah sayap penopang yang mengantarkan jiwa santri mencapai kemuliaan adab.
+<div align="center"><sub><b>Gambar 2.4.1:</b> Integrasi Tiga Dimensi Ta'lim, Tarbiyah, dan Ta'dib dalam Ekosistem TUMBUH.</sub></div>
 
 ---
 
-### Bedah Semantik & Filosofis Tiga Istilah Kunci
+### Analisis Semantik Al-Attas: Mengapa Ta'dib adalah Hakikat Pendidikan Islam?
 
-Mari kita telusuri akar bahasa dan makna filosofis dari ketiga pilar ini:
-
-1. **Ta'lim (تَعْلِيم)**:  
-   Berakar dari kata *'allama-yu'allimu* (mengajarkan ilmu). Fokusnya adalah pengasahan daya nalar (*al-Aql*). Ta'lim membekali santri dengan fakta, dalil Al-Qur'an, hadits, dan kaidah fiqih. Tanpa Ta'lim, santri akan hidup dalam kebodohan (*jahl*). Namun jika hanya berhenti pada Ta'lim, ilmu tersebut hanya menjadi beban hafalan di kepala tanpa pernah berbuah akhlak.
-2. **Tarbiyah (تَرْبِيَة)**:  
-   Berakar dari kata *rabaa-yarbuu* (menumbuhkan, merawat, dan memelihara). Istilah ini mencakup perawatan kebutuhan raga (*al-Jasad*) dan emosi anak: asrama yang nyaman, nutrisi bergizi, sarana olahraga, dan waktu istirahat yang cukup. Tarbiyah memastikan wadah jasmani santri sehat dan siap memikul amanah ilmu.
-3. **Ta'dib (تَأْدِيب)**:  
-   Berakar dari kata *aduba-ya'dubu* yang bermakna disiplin spiritual, kehalusan budi pekerti, dan penempatan segala sesuatu secara adil (*'Adl*). Pakar filsafat Islam **Prof. Dr. Syed Muhammad Naquib al-Attas** menegaskan bahwa Rasulullah SAW bersabda:
-   $$\text{أَدَّبَنِي رَبِّي فَأَحْسَنَ تَأْدِيبِي}$$
-   *"Tuhanku telah mendidik adabku (Ta'dib), maka Dia menjadikan adabku sebaik-baik adab."* (Al-Attas, 1980)[^1].  
-   Ta'dib adalah proses memasukkan adab ke dalam kalbu agar santri mengenali dan menaati hak Allah, hak Rasul, hak guru, hak sesama saudaranya, dan hak alam sekitarnya.
-
----
-
-### Definisi Operasional Adab dalam Sistem TUMBUH
-
-Dalam Ekosistem **TUMBUH**, adab bukanlah sekadar sopan santun lahiriah atau etiket basa-basi, melainkan:
-
-$$\text{Adab} = \text{Disiplin Ruhani, Aqli, dan Jasadi untuk Menempatkan Segala Sesuatu pada Posisi yang Hak di Hadapan Allah dan Makhluk}$$
-
-Santri yang beradab (*Insan Adabi*) dalam Sistem TUMBUH menampilkan lima wujud karakter nyata:
+Prof. Naquib al-Attas dalam karya monumentalnya *The Concept of Education in Islam*[^1] membedah akar kata ketiga istilah ini secara etimologis dan filosofis yang sangat mendalam:
 
 ```mermaid
-graph TD
-    RootAdab["LIMA DIMENSI RELASI ADAB SANTRI PARIPURNA (INSAN ADABI)"]
-    
-    RootAdab --> A1["1. Adab kepada Allah SWT (Salimul Aqidah)<br/>Menempatkan Allah sebagai satu-satunya tujuan hidup & beribadah ikhlas tanpa riya'."]
-    
-    RootAdab --> A2["2. Adab kepada Rasulullah SAW (Ittiba' as-Sunnah)<br/>Menjadikan sunnah dan akhlak nabi sebagai standar mutlak perilaku keseharian."]
-    
-    RootAdab --> A3["3. Adab kepada Orang Tua & Guru (Ihtiram wa Birr)<br/>Menghormati, mentaati, dan mendoakan dengan kerendahan hati yang tulus."]
-    
-    RootAdab --> A4["4. Adab kepada Sesama Santri (Ukhuwah wa Ta'awun)<br/>Saling menjaga hak, tolong-menolong, dan menghapus mutlak perundungan."]
-    
-    RootAdab --> A5["5. Adab kepada Fasilitas & Alam (Ri'ayah al-Bi'ah)<br/>Menjaga kebersihan asrama, merawat fasilitas pondok, & tidak berlaku zalim pada alam."]
+graph LR
+    subgraph AnalisisSemantik["DISTINGSI FILOSOFIS TIGA ISTILAH MENURUT PROF. NAQUIB AL-ATTAS"]
+        A_Tarbiyah["TARBIYAH (Akar: Raba-Yarbu)<br/>Artinya: Mengembangkan, menumbuhkan, & mengasuh.<br/>Fokus: Bersifat generik; hewan & tumbuhan pun mengalami tarbiyah biologis!"]
+        
+        A_Talim["TA'LIM (Akar: 'Alima-Ya'lamu)<br/>Artinya: Mengajarkan & memberi tahu fakta/informasi.<br/>Fokus: Terbatas pada aspek kognitif-instruksional nalar semata."]
+        
+        A_Tadib["TA'DIB (Akar: Aduba-Ya'dubu)<br/>Artinya: Menanamkan adab, disiplin jiwa, & pengenalan tempat yang tepat.<br/>Fokus: Khusus untuk manusia; proses pembentukan karakter suci insan pembelajar!"]
+        
+        A_Tarbiyah --- A_Talim --- A_Tadib
+    end
 ```
-<div align="center"><sub><b>Gambar 2.4.2:</b> Lima Dimensi Relasi Adab Santri Paripurna dalam Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 2.4.2:</b> Distingsi Filosofis dan Semantik Istilah Tarbiyah, Ta'lim, dan Ta'dib Menurut Prof. Naquib al-Attas.</sub></div>
+
+Rasulullah SAW secara eksplisit menggunakan kata *Adab* dan *Ta'dib* untuk menggambarkan bagaimana Allah SWT mendidik pribadi agung beliau:
+
+$$\text{أَدَّبَنِي رَبِّي فَأَحْسَنَ تَأْدِيبِي}$$
+*"Tuhanku telah mendidik adabku (*Addabani Rabbi*), maka Dia menjadikan pendidikanku sebagai pendidikan adab yang paling sempurna dan paling indah (*fa ahsana ta'dibi*)."* (HR. As-Sam'ani dan Ibnu Hibban).
+
+Al-Attas mendefinisikan **Adab** sebagai:
+> *"Pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud di alam semesta ini memiliki hierarki dan kedudukan yang tepat sesuai ketentuan Allah SWT; dan kesediaan jiwa manusia untuk menempatkan dirinya secara adil dan terhormat pada posisinya yang benar di hadapan Khalik dan sesama makhluk."*
 
 ---
 
-### Integrasi Kurikulum 24-Jam: Dari Ruang Madrasah ke Bilik Asrama
+### Integrasi Praktis Tiga Pilar dalam Keseharian Santri TUMBUH
 
-Bagaimana Sistem TUMBUH mengintegrasikan Ta'lim, Tarbiyah, dan Ta'dib dalam keseharian santri?
+Bagaimana Sistem TUMBUH mengoperasionalkan integrasi *Ta'lim*, *Tarbiyah*, dan *Ta'dib* ke dalam kurikulum asrama 24 jam?
 
-| Ranah Pendidikan | Lokasi Ekologis | Waktu Pelaksanaan | Praktik Integratif Sistem TUMBUH |
+| Dimensi | Wadah Pembinaan di Pesantren | Penanggung Jawab | Manifestasi Perilaku Nyata Santri |
 | :--- | :--- | :--- | :--- |
-| **Ta'lim (Akal)** | Ruang Madrasah & Kelas Kitab | Pagi (07.00–15.00 WIB) | Membedah makna teks syariat melalui metode *Case-Based Learning*, simulasi dilema adab, dan diskusi kritis. |
-| **Tarbiyah (Raga)** | Ruang Makan, Lapangan, Asrama | Sore & Malam (15.00–21.00 WIB) | Penyediaan nutrisi thayyib, olahraga sunnah memanah/futsal, dan jaminan istirahat tidur malam yang manusiawi. |
-| **Ta'dib (Kalbu)** | Masjid, Bilik Kamar, & Area Publik | 24 Jam Penuh | Pendampingan melekat musyrif, muhasabah niat (*Tazkiyatun Niyyah*), habituasi adab 66 hari, dan keteladanan *Qudwah*. |
+| **Ta'lim (Nalar)** | Ruang kelas madrasah, kajian kitab sorogan, dan halaqah tahfizh. | Dewan Guru & Asatidz Madrasah. | Santri menguasai kaidah nahwu, hafal Al-Qur'an mutqin, dan tajam nalar logikanya. |
+| **Tarbiyah (Fisik)** | Pos kesehatan, dapur gizi santri, lapangan olahraga, & asrama. | Tim Dapur Gizi, Musyrif, & Poskestren. | Santri memiliki tubuh sehat bugar, cukup tidur 7 jam, dan terjaga higienitasnya. |
+| **Ta'dib (Karakter)** | Bilik kamar asrama, antrean wudhu, shalat jamaah, & seluruh interaksi. | Musyrif Asrama, Pengasuh, & Seluruh Ekosistem. | Santri tawadhu', santun bicaranya, jujur, pemaaf, dan berani menegakkan keadilan. |
+
+```mermaid
+graph TD
+    subgraph HasilIntegrasi["HASIL INTEGRASI PARIPURNA SISTEM TUMBUH"]
+        TigaPilar["Ta'lim Cerdas + Tarbiyah Bugar + Ta'dib Mulia"]
+        
+        InsanAdabi["LAHIRNYA INSAN ADABI PARIPURNA (INSAN KAMIL)<br/>• Ulama yang Intelek, Pemimpin yang Rendah Hati.<br/>• Kokoh Aqidahnya, Luas Ilmunya, Luhur Budi Pekertinya."]
+        
+        TigaPilar ==> InsanAdabi
+    end
+```
+<div align="center"><sub><b>Gambar 2.4.3:</b> Lahirnya Insan Adabi Paripurna Melalui Integrasi Ta'lim, Tarbiyah, dan Ta'dib.</sub></div>
+
+Pendidikan pesantren tidak boleh pincang. Jika kita hanya menekankan *Ta'lim*, kita akan mencetak generasi yang pintar namun culas. Jika kita hanya menekankan *Tarbiyah*, kita hanya merawat fisik tanpa menyentuh kalbu.
+
+Dengan merekonstruksi dan memahkotai seluruh proses pendidikan dengan **Ta'dib Nabawi**, Sistem TUMBUH memastikan santri bertumbuh menjadi Insan Adabi sejati yang memancarkan keagungan akhlak Rasulullah SAW di setiap langkah kehidupannya.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: International Institute of Islamic Thought and Civilization / ISTAC, 1980), hlm. 15–35.
-[^2]: **Dr. Abdurrahman an-Nahlawi**, *Ushulut Tarbiyah al-Islamiyyah wa Asalibuha fil Bayti wal Madrasati wal Mujtama'* (Damaskus: Dar al-Fikr, 1983), hlm. 20–42.
+[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Wan Mohd Nor Wan Daud**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.
