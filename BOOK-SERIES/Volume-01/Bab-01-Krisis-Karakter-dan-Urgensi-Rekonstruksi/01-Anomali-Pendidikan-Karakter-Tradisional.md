@@ -1,7 +1,7 @@
 # SUB-BAB 1.1: ANOMALI PENDIDIKAN KARAKTER TRADISIONAL
 ## *Menyingkap Tabir Jurang Pemisah antara Hafalan Kitab Adab dan Realitas Perilaku Keseharian di Asrama*
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-01/MONOGRAF-MASTER-FLUID`  
+**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-01/MONOGRAF-MASTER`  
 **Disiplin Ilmu**: Fenomenologi Pendidikan Islam, Neurosains Kognitif Terapan, Sosiologi Pesantren, & Epistemologi Turats  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi, Epistemologi Turats, & Neurosains Perkembangan*)
 
@@ -157,163 +157,64 @@ Dinamika sosiologis di atas membongkar mekanisme bagaimana institusi asrama yang
 
 ---
 
-### V. Menghidupkan Kembali Wasiat Emas Ulama Salaf tentang Hakikat Adab
+### V. Wasiat Turats: Memadukan Ilmu dengan Amal Nyata
 
 Kritik terhadap ilmu yang mandul dan hafalan yang tidak berbuah amal perbuatan ini sesungguhnya telah disuarakan dengan lantang oleh para ulama agung peradaban Islam sejak berabad-abad silam:
 
 > [!NOTE]
-> ### 📜 1. Peringatan Hujjatul Islam Imam Abu Hamid Al-Ghazali dalam *Ayyuhal Walad*:[^7]
+> ### 📜 Peringatan Hujjatul Islam Imam Abu Hamid Al-Ghazali dalam *Ayyuhal Walad*:[^7]
 > 
-> $$\text{أَيُّهَا الْوَلَدُ، الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ. وَاعْلَمْ أَنَّ عِلْمًا لَا يُبْعِدُكَ الْيَوْمَ عَنِ الْمَعَاصِي، وَلَا يَحْمِلُكَ عَلَى الطَّاعَةِ، لَنْ يُبْعِدَكَ غَدًا عَنْ نَارِ جَهَنَّمَ، وَإِنْ لَمْ تَعْمَلِ الْيَوْمَ وَلَمْ تَتَدَارَكِ الْأَيَّامَ الْمَاضِيَةَ، تَقُولُ غَدًا يَوْمَ الْقِيَامَةِ: فَارْجِعْنَا نَعْمَلْ صَالِحًا، فَيُقَالُ: يَا أَحْمَقُ، أَنْتَ مِنْ هُنَاكَ تَجِيءُ!}$$
+> $$\text{أَيُّهَا الْوَلَدُ، الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ. وَاعْلَمْ أَنَّ عِلْمًا لَا يُبْعِدُكَ الْيَوْمَ عَنِ الْمَعَاصِي، وَلَا يَحْمِلُكَ عَلَى الطَّاعَةِ، لَنْ يُبْعِدَكَ غَدًا عَنْ نَارِ جَهَنَّمَ}$$
 > 
 > **Artinya:**  
-> *"Wahai anakku tercinta! Ilmu yang tidak diiringi dengan amal perbuatan nyata adalah suatu kegilaan, dan amal yang dilakukan tanpa landasan ilmu adalah kesia-siaan yang tak berwujud.*  
-> *Ketahuilah, sesungguhnya ilmu yang tidak mampu menjauhkan dirimu dari perbuatan maksiat pada hari ini, dan tidak sanggup mendorongmu untuk taat beribadah kepada Allah, niscaya ia tidak akan pernah mampu menyelamatkanmu dari jilatan api neraka Jahannam di hari esok!*  
-> *Jika engkau tidak segera mengamalkan ilmumu hari ini dan tidak memperbaiki hari-harimu yang telah lalu, niscaya pada hari kiamat kelak engkau akan meratap memohon: 'Ya Tuhan kami, kembalikanlah kami ke dunia agar kami dapat beramal saleh!' Maka akan dikatakan kepadamu: 'Wahai orang yang bodoh, bukankah engkau baru saja datang dari sana?!'"*
+> *"Wahai anakku tercinta! Ilmu yang tidak diiringi dengan amal perbuatan nyata adalah suatu kegilaan, dan amal yang dilakukan tanpa landasan ilmu adalah kesia-siaan. Ketahuilah, sesungguhnya ilmu yang tidak mampu menjauhkan dirimu dari maksiat hari ini dan tidak mendorongmu untuk taat beribadah, niscaya ia tidak akan pernah mampu menyelamatkanmu dari jilatan api neraka di hari esok!"*
 
 > [!NOTE]
-> ### 📜 2. Pesan Luhur Hadhratusy Syaikh KH. M. Hasyim Asy'ari dalam *Adab al-'Alim wal Muta'allim*:[^8]
+> ### 📜 Pesan Hadhratusy Syaikh KH. M. Hasyim Asy'ari dalam *Adab al-'Alim wal Muta'allim*:[^8]
 > 
-> $$\text{قَالَ بَعْضُ السَّلَفِ: الْأَدَبُ فِي الْعَمَلِ عَلَامَةُ قَبُولِ الْعَمَلِ. وَقَالَ ابْنُ الْمُبَارَكِ: طَلَبْتُ الْأَدَبَ ثَلَاثِينَ سَنَةً، وَطَلَبْتُ الْعِلْمَ عِشْرِينَ سَنَةً، وَكَانُوا يَطْلُبُونَ الْأَدَبَ قَبْلَ الْعِلْمِ. وَقَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ: طَلَبِي لِلْأَدَبِ كَطَلَبِ الْمَرْأَةِ الْمُضِلَّةِ وَلَدَهَا لَيْسَ لَهَا غَيْرُهُ}$$
-> 
-> **Artinya:**  
-> *"Sebagian ulama salaf menegaskan: 'Keberadaan adab di dalam suatu amal perbuatan adalah tanda diterimanya amal tersebut di sisi Allah Ta'ala.'*  
-> *Ulama agung Abdullah bin al-Mubarak menyatakan: 'Aku mendalami adab selama tiga puluh tahun, dan aku mempelajari ilmu syariat selama dua puluh tahun; dan sungguh para ulama terdahulu senantiasa menuntut adab terlebih dahulu sebelum mereka mulai menuntut ilmu.'*  
-> *Imam Asy-Syafi'i rahimahullah bertutur: 'Kesungguhanku dalam mencari adab laksana seorang ibu yang mencari anak tunggalnya yang hilang di tengah padang pasir, di mana ia tidak memiliki anak selainnya!'"*
-
-> [!NOTE]
-> ### 📜 3. Wasiat Imam Malik bin Anas kepada Pemuda Quraisy:[^9]
-> 
-> $$\text{تَعَلَّمِ الْأَدَبَ قَبْلَ أَنْ تَتَعَلَّمَ الْعِلْمَ، فَإِنَّ الْعِلْمَ كَثِيرٌ وَالْأَدَبَ مِيزَانُهُ}$$
+> $$\text{قَالَ بَعْضُ السَّلَفِ: الْأَدَبُ فِي الْعَمَلِ عَلَامَةُ قَبُولِ الْعَمَلِ. وَقَالَ ابْنُ الْمُبَارَكِ: طَلَبْتُ الْأَدَبَ ثَلَاثِينَ سَنَةً، وَطَلَبْتُ الْعِلْمَ عِشْرِينَ سَنَةً}$$
 > 
 > **Artinya:**  
-> *"Pelajarilah adab sebelum engkau mempelajari ilmu! Karena sesungguhnya ilmu itu sangatlah banyak, sedangkan adab adalah neraca timbangan yang menentukan nilainya."*
+> *"Ulama salaf menegaskan: 'Keberadaan adab di dalam suatu amal perbuatan adalah tanda diterimanya amal tersebut di sisi Allah.' Abdullah bin al-Mubarak menyatakan: 'Aku mendalami adab selama tiga puluh tahun, dan aku mempelajari ilmu syariat selama dua puluh tahun; dan sungguh para ulama terdahulu senantiasa menuntut adab terlebih dahulu sebelum mereka mulai menuntut ilmu.'"*
 
 Seluruh mutiara Turats di atas menegaskan satu kebenaran yang tak terbantahkan: **Tolak ukur kemuliaan sebuah pesantren bukanlah dihitung dari berapa tebal kitab yang dikhatamkan santri, melainkan seberapa dalam nilai-nilai adab tersebut menjelma menjadi gerak refleks nyata saat santri makan, tidur, berbicara, dan memperlakukan sesama saudaranya.**
 
 ---
 
-### VI. Panduan Praktis Ekosistem TUMBUH: Menjembatani Teori Menjadi Karakter Nyata
+### VI. Solusi Sistemik TUMBUH: Meruntuhkan Sekat Madrasah dan Asrama 24-Jam
 
-Bagaimana cara meruntuhkan jurang pemisah antara ruang kelas madrasah dan bilik asrama secara konkret di pondok pesantren kita? Ekosistem **TUMBUH** merumuskan **Lima Protokol Operasional Rekonstruksi Adab Terpadu 24-Jam**:
+Menjawab kegagalan metodologis di atas, **Sistem TUMBUH** merekayasa arsitektur pembinaan adab terpadu yang menghubungkan ruang kelas madrasah dan bilik asrama ke dalam **Satu Siklus Pengasuhan Simbiotik 24-Jam**:
 
 ```mermaid
 graph TD
-    RootProt["LIMA PROTOKOL OPERASIONAL REKONSTRUKSI ADAB TUMBUH"]
+    RootProt["ARSITEKTUR PEMBINAAN ADAB TERPADU 24-JAM SISTEM TUMBUH"]
     
-    RootProt --> P1["1. DESAIN PEMBELAJARAN ADAB BERBASIS KASUS ASRAMA<br/>Kontekstualisasi teks kitab dengan simulasi antrean, loker, dan kebersihan."]
+    RootProt --> P1["1. Case-Based Adab Learning<br/>Membawa teks kitab kuning hidup ke dalam simulasi kasus nyata di asrama."]
     
-    RootProt --> P2["2. PROTOKOL HABITUASI NEURO-BEHAVIORAL 66 HARI<br/>Latihan harian konsisten hingga terbentuk sirkuit otomatis di Basal Ganglia."]
+    RootProt --> P2["2. 66-Day Habit Trajectory<br/>Latihan harian terstruktur hingga adab mendarah daging di Basal Ganglia."]
     
-    RootProt --> P3["3. STANDAR APRESIASI POSITIF 4:1 OLEH MUSYRIF<br/>Memberikan 4 pengakuan kebaikan sebelum menjatuhkan 1 teguran terarah."]
+    RootProt --> P3["3. Relational Encouragement 4:1<br/>Penguatan relasi positif musyrif-santri melalui 4 apresiasi sebelum 1 koreksi."]
     
-    RootProt --> P4["4. PROTOKOL SERAH-TERIMA 15 MENIT (DAILY HANDOVER)<br/>Sinkronisasi data perilaku santri antara Wali Kelas dan Musyrif Asrama."]
+    RootProt --> P4["4. Daily Handover 15-Minutes<br/>Sinkronisasi data stabilitas emosi & perilaku santri antara Walas dan Musyrif."]
     
-    RootProt --> P5["5. TRANSFORMASI SENIORITAS MENJADI SERVANT QUDWAH LEADERSHIP<br/>Santri kelas atas diamanahi peran Peer Mentor pelindung adik kelas tanpa intimidasi."]
+    RootProt --> P5["5. Servant Qudwah Leadership<br/>Santri senior ditransformasikan menjadi Peer Mentor pelindung adik kelas."]
 ```
-<div align="center"><sub><b>Gambar 1.1.6:</b> Lima Protokol Operasional Rekonstruksi Pembinaan Adab Terpadu 24-Jam Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.6:</b> Lima Pilar Arsitektur Pembinaan Adab Terpadu 24-Jam Ekosistem TUMBUH.</sub></div>
 
-Arsitektur lima protokol di atas mengintegrasikan seluruh dimensi pengasuhan santri: **Protokol 1** merekonstruksi ranah kognitif kelas; **Protokol 2** merekonstruksi sirkuit neurobiologis pembiasaan; **Protokol 3** merekonstruksi budaya komunikasi musyrif (*Firm & Kind*); **Protokol 4** merekonstruksi sinergi tata kelola walas-musyrif; dan **Protokol 5** merekonstruksi iklim sosial antarsantri dari feodalisme menjadi kepemimpinan melayani.
-
----
-
-#### 1. Pembelajaran Adab Berbasis Kasus Nyata Asrama (*Case-Based Adab Learning*)
-Pendidikan adab di kelas madrasah tidak boleh lagi berhenti pada metode pembacaan pasif satu arah (*monolog*). Guru tidak hanya memaknai kata perkata teks kitab kuning (*makna gandul*), melainkan wajib membawa teks tersebut hidup ke dalam konteks keseharian santri.
-
-* **Metodologi Diskusi Kasus (*Case-Study Dilemma*)**:  
-  Setiap guru adab memulai materi pelajaran dengan menyajikan studi kasus nyata yang sering terjadi di asrama. Misalnya, saat membahas bab *Hifzhul Mal* (Menjaga Harta Milik Orang Lain), asatidz tidak langsung membacakan hadits ancaman neraka bagi pelaku ghashab, melainkan menyajikan skenario dilema:  
-  *"Bayangkan antum bangun kesiangan pada pukul 04.25 WIB. Muadzin masjid sudah mengumandangkan iqamah subuh. Saat antum membuka pintu kamar, sandal jepit antum hilang terselip, sementara tepat di depan kaki antum berjejer sandal milik kawan sekamar yang sedang dipakai orang lain. Apa langkah beradab yang harus antum ambil tanpa menyentuh hak orang lain?"*
-* **Latihan Role-Play & Simulasi Fisik**:  
-  Santri diajak memperagakan langsung di depan kelas bagaimana cara meminjam barang yang benar, bagaimana intonasi suara yang santun saat meminta izin, bagaimana cara menolak pinjaman secara halus tanpa menyakiti hati kawan, dan bagaimana merapikan sandal di rak secara rapi. Dengan simulasi ini, otak santri tidak hanya merekam kata-kata, melainkan merekam memori kinestetik gerak tubuh.
+Arsitektur sistemik di atas merekonstruksi seluruh ekosistem:
+1. **Case-Based Adab Learning**: Mengubah pengajaran adab di kelas madrasah dari sekadar memaknai teks secara pasif menjadi diskusi dilema moral dan simulasi fisik (cara antre wudhu yang adil, cara meminjam barang yang santun, dan merapikan sandal).
+2. **66-Day Habit Trajectory**: Menerapkan peta jalan neuroplastisitas 66 hari (Inisiasi Hari 1–21, Internalisasi Hari 22–45, dan Otomatisasi Hari 46–66) agar adab berpindah dari memori deklaratif sadar menjadi memori prosedural bawah sadar.
+3. **Relational Encouragement 4:1**: Menghapus budaya bentakan dengan membiasakan musyrif memberikan 4 apresiasi kebaikan atas usaha santri sebelum menyampaikan 1 teguran terarah (*Firm & Kind*).
+4. **Daily Handover 15-Minutes**: Menghubungkan Wali Kelas dan Musyrif Asrama melalui pertukaran data dua arah via *Logbook PBIS* setiap pagi (06.45) dan sore (16.00), sehingga tidak ada santri yang luput dari pendampingan.
+5. **Servant Qudwah Leadership**: Mencabut wewenang hukuman dari santri senior dan mengubah perannya menjadi teladan (*Qudwah Hasanah*) dan kakak asuh (*Peer Mentors*) yang melayani adik kelasnya.
 
 ---
 
-#### 2. Siklus Pembiasaan Neuro-Behavioral 66 Hari (*66-Day Habit Loop*)
-Berdasarkan riset neuroplastisitas pembentukan kebiasaan (Lally et al., 2010)[^10], otak manusia membutuhkan rata-rata **66 hari pengulangan harian yang konsisten** agar suatu tindakan sadar yang melelahkan bermutasi menjadi kebiasaan refleks otomatis di *Basal Ganglia*.
+### VII. Sintesis Epistemologis Sub-Bab 1.1
 
-Ekosistem TUMBUH menyusun peta jalan pembiasaan karakter santri baru menjadi 3 fase terpadu yang didampingi secara presisi:
+Melalui rekonstruksi di atas, Sistem TUMBUH membuktikan bahwa **kegagalan pembentukan karakter di pesantren konvensional bukanlah karena kelemahan teks kitab adab, melainkan karena ketiadaan jembatan sistemik antara ruang kelas dan kamar tidur santri**. 
 
-```mermaid
-graph LR
-    Fase1["FASE 1 (Hari 1 - 21)<br/>INISIASI & CO-REGULATION<br/>• Musyrif mendampingi 100% di lokasi<br/>• Membimbing wudhu, antrean, & piket<br/>• Memberikan umpan balik instan yang hangat"]
-    
-    Fase2["FASE 2 (Hari 22 - 45)<br/>INTERNALISASI & PEER BUDDY<br/>• Musyrif mengurangi intervensi (50%)<br/>• Santri saling menjaga berpasangan<br/>• Muhasabah harian kelompok kamar"]
-    
-    Fase3["FASE 3 (Hari 46 - 66)<br/>OTOMATISASI & MURAQABAH<br/>• Adab berjalan tanpa disuruh (Refleks)<br/>• Musyrif hanya memantau berkala<br/>• Santri menjaga adab karena kesadaran batin"]
-    
-    Fase1 --> Fase2 --> Fase3
-```
-<div align="center"><sub><b>Gambar 1.1.7:</b> Tiga Fase Trajektori Habituasi Karakter 66 Hari Ekosistem TUMBUH.</sub></div>
-
-Peta jalan tiga fase di atas mengawal evolusi karakter santri dari masa adaptasi yang canggung menuju kematangan adab yang mendarah-daging:
-1. **Fase 1: Inisiasi & Regulasi Bersama (*Co-Regulation*, Hari 1–21)**: Musyrif hadir 100% secara fisik di setiap titik transisi penting (bangun subuh, antrean wudhu, piket kamar, dan jam tidur). Musyrif menjadi *penyangga eksternal* bagi kendali diri santri yang masih rapuh dengan menata antrean secara ramah dan membetulkan letak sandal seraya tersenyum.
-2. **Fase 2: Internalisasi & Pendampingan Sebaya (*Peer Scaffolding*, Hari 22–45)**: Musyrif mengurangi pengawasan langsung hingga 50%. Santri dipasangkan dalam sistem **Peer Buddy** untuk saling menjaga dan mengingatkan, didukung oleh sesi **Muhasabah Lingkaran Kamar (*Restorative Bedtime Circle*)** selama 10 menit setiap malam.
-3. **Fase 3: Otomatisasi & Pengawasan Diri (*Self-Regulation & Muraqabah*, Hari 46–66)**: Sirkuit kebiasaan di *Basal Ganglia* telah terkonsolidasi. Santri menjalankan seluruh keteraturan adab secara otomatis murni atas dorongan kesadaran batin (*Muraqabatullah*).
-
----
-
-#### 3. Standar Rasio Apresiasi Relasional 4:1 (*Firm & Kind Discipline*)
-Sains otak membuktikan adanya bias negatif alami (*negativity bias*): satu bentakan kasar atau amarah yang meledak-ledak akan menghapus memori sepuluh nasihat baik sebelumnya, karena amigdala anak terkunci dalam status panik bertahan hidup (*fight-or-flight*).
-
-Oleh karena itu, Ekosistem TUMBUH mewajibkan setiap pendidik dan musyrif menerapkan **Rasio Emas 4 Apresiasi Kebaikan untuk Setiap 1 Teguran Terarah**:
-
-* **Apresiasi Proses yang Tulus (*Relational Encouragement*)**:  
-  Musyrif tidak memuji fisik atau kecerdasan bawaan anak, melainkan memuji usaha nyata dan kemajuan adabnya:  
-  * *"Masya Allah, Ustadz sangat menghargai kesabaran Akhi Fulan yang tetap tenang mengantre di kran wudhu tadi pagi tanpa menyerobot teman. Sikap antum adalah cermin penuntut ilmu yang beradab."*  
-  * *"Terima kasih banyak Akhi Ahmad sudah berinisiatif merapikan sandal yang berserakan di depan pintu asrama. Lorong kamar kita menjadi sangat asri dan nyaman dipandang."*
-* **SOP Menegur Santri saat Khilaf (*Private & Restorative Correction*)**:  
-  Ketika santri melakukan pelanggaran adab, musyrif tidak boleh membentak atau mempermalukannya di depan teman sekamar. Musyrif memanggil santri secara pribadi, duduk sejajar berdua di tempat yang nyaman (*Calm Presence*), menatap matanya dengan penuh kasih sayang, dan mengajukan pertanyaan reflektif:  
-  *"Akhi, tadi Ustadz perhatikan antum terburu-buru memakai sandal milik teman sekamar tanpa izin. Mari kita ingat kembali kesepakatan adab kamar kita: apa dampak perbuatan tadi bagi perasaan kawan antum saat ia mencari sandalnya? Menurut antum, bagaimana cara terbaik yang bisa antum lakukan sekarang untuk memperbaikinya dan memulihkan rasa nyaman kawan antum?"*
-
----
-
-#### 4. Protokol Serah-Terima Harian 15 Menit (*Daily Handover Protocol*)
-Untuk menyatukan madrasah dan asrama menjadi satu ekosistem pengasuhan 24 jam yang utuh, pesantren menerapkan SOP wajib pertemuan sinkronisasi 15 menit antara Wali Kelas dan Musyrif Asrama dua kali sehari:
-
-```mermaid
-graph LR
-    subgraph SesiPagi["SESI PAGI (06.45 - 07.00)"]
-        MusyrifPagi["Musyrif Asrama Menyerahkan Data:<br/>• Santri yang kurang tidur / sakit fisik<br/>• Santri yang mengalami konflik kamar tadi malam<br/>• Catatan stabilitas emosi santri"]
-        WalasPagi["Wali Kelas di Madrasah:<br/>• Menyesuaikan beban mengajar santri terkait<br/>• Memberikan perhatian ekstra saat di kelas<br/>• Mencegah santri merasa tertekan di pelajaran"]
-        MusyrifPagi --> WalasPagi
-    end
-    
-    subgraph SesiSore["SESI SORE (16.00 - 16.15)"]
-        WalasSore["Wali Kelas Menyerahkan Data:<br/>• Santri yang tampak murung / nilai turun<br/>• Catatan dinamika relasi kawan di kelas<br/>• Inisiatif kebaikan santri sepanjang hari"]
-        MusyrifSore["Musyrif Asrama:<br/>• Mengajak ngobrol santai dari hati ke hati<br/>• Memberikan pendampingan konseling malam<br/>• Memperkuat karakter positif di asrama"]
-        WalasSore --> MusyrifSore
-    end
-```
-<div align="center"><sub><b>Gambar 1.1.8:</b> Alur Protokol Serah-Terima Harian 15 Menit (Handover) antara Wali Kelas dan Musyrif Asrama.</sub></div>
-
-Protokol dua arah di atas memastikan tidak ada santri yang luput dari radar pengasuhan:
-1. **Sesi Pagi (06.45 – 07.00 WIB)**: Musyrif menyerahkan data santri yang semalam sakit, kurang tidur, atau mengalami konflik kamar via *Logbook PBIS*, sehingga wali kelas di madrasah dapat menyesuaikan pendekatan mengajarnya dan memberikan perhatian ekstra.
-2. **Sesi Sore (16.00 – 16.15 WIB)**: Wali kelas menyerahkan catatan dinamika santri yang tampak murung atau mengalami penurunan belajar, sehingga musyrif di asrama dapat menindaklanjutinya pada malam hari melalui obrolan santai dari hati ke hati.
-
----
-
-#### 5. Transformasi Senioritas Menjadi *Servant Qudwah Leadership*
-Pesantren mencabut 100% hak penertiban fisik, pengadilan malam, dan wewenang menghukum dari tangan santri senior. Struktur kepengurusan santri dirombak total dari sistem feodal menjadi **Kader Kepemimpinan Melayani (*Servant Leadership*)**:
-
-* **Amanah sebagai Kakak Asuh (*Peer Mentors*)**:  
-  Santri kelas atas tidak lagi bertindak sebagai "polisi kamar", melainkan diamanahi peran mulia sebagai pelindung dan pembimbing adik kelas: menyambut santri baru dengan senyuman hangat, membantu membawakan koper, mengajarkan cara melipat pakaian yang rapi, membantu mengajari hafalan nadhom kitab, dan menemani santri baru yang sedang menangis rindu rumah (*homesick*).
-* **Definisi Kehormatan Baru**:  
-  Ukuran wibawa seorang santri senior tidak lagi diukur dari seberapa keras suaranya membentak atau seberapa banyak adik kelas yang gemetar ketakutan di hadapannya, melainkan **seberapa besar rasa aman, kenyamanan, kehangatan, dan keteladanan ibadah (*Qudwah Hasanah*) yang ia pancarkan kepada santri yang paling lemah di lingkungannya.**
-
----
-
-### VII. Muhasabah Jiwa: Menatap Masa Depan Santri Titipan Umat
-
-Ketika keheningan malam menyelimuti bumi pesantren dan kita menatap wajah santri-santri yang sedang terlelap tidur di ranjang asrama mereka, tanyakanlah kepada lubuk hati nurani kita yang terdalam:
-
-> [!NOTE]
-> ### 🕊️ Renungan Nurani untuk Setiap Pendidik dan Pengasuh Pesantren:
-> *"Anak-anak ini bukanlah kayu mati yang bisa dipahat dengan bentakan kasar dan pukulan rotan. Mereka adalah tunas-tunas fitrah yang suci, jiwa-jiwa mulia yang dititipkan oleh Allah dan jutaan orang tua ke tangan kita.*  
-> 
-> *Jika kita mendidik mereka hanya dengan hafalan dalil di kepala tanpa membimbing perilakunya di ranjang tidur, kita telah mengabaikan amanah Ta'dib.*  
-> *Jika kita membiarkan kekerasan dan feodalisme merajai bilik asrama mereka, kita sesungguhnya sedang menyiapkan generasi masa depan yang rapuh jiwanya dan mahir bermuka dua.*  
-> 
-> *Mari kita satukan langkah: jembatani hafalan kitab kuning mereka dengan teladan kasih sayang nyata, bangun sirkuit adab mereka dengan pembiasaan yang sabar, dan jadikan pesantren kita sebagai taman peradaban Islam yang aman, hangat, serta memuliakan kemuliaan fitrah kemanusiaan mereka."*
+Dengan menyatukan Ta'lim di madrasah, Tarbiyah di asrama, dan Ta'dib dalam denyut kehidupan 24 jam, Sistem TUMBUH mengembalikan pesantren ke fungsi asasinya: rahim peradaban yang melahirkan santri berilmu luas, berjiwa bersih, dan luhur adab perilakunya di hadapan Allah dan manusia.
 
 ---
 
@@ -327,5 +228,3 @@ Ketika keheningan malam menyelimuti bumi pesantren dan kita menatap wajah santri
 [^6]: **B. Bradford Brown & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology: Contextual Influences on Adolescent Development* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.
 [^7]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ayyuhal Walad fi Nashihat at-Talamidz*, Tahqiq: Dr. Ahmad Ahmad Badawi (Kairo: Dar al-Qalam, 1986), hlm. 12–15.
 [^8]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), hlm. 9–12.
-[^9]: **Al-Khatib Al-Baghdadi**, *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'*, Tahqiq: Dr. Mahmud ath-Thahhan (Riyadh: Maktabah al-Ma'arif, 1403 H), Juz I, hlm. 80.
-[^10]: **Phillippa Lally, Cornelia H. M. van Jaarsveld, Henry W. W. Potts, & Jane Wardle**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.

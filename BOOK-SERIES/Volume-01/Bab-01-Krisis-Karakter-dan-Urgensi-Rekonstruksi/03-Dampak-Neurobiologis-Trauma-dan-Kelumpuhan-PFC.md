@@ -1,7 +1,7 @@
 # SUB-BAB 1.3: DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC
 ## *Mekanisme Pembajakan Amigdala, Disregulasi Hormon Kortisol, dan Kerusakan Sirkuit Regulasi Moral Otak Remaja*
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-03/MONOGRAF-MASTER-FLUID`  
+**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-03/MONOGRAF-MASTER`  
 **Disiplin Ilmu**: Neurosains Kognitif Terapan, Neurobiologi Trauma, Teori Polivagal, & Epistemologi Turats  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Neurosains Perkembangan, Disiplin Positif, & Bimbingan Konseling*)
 
@@ -127,12 +127,6 @@ Bagan hierarki saraf polivagal di atas memberikan bukti ilmiah yang tak terbanta
 | **2. Sympathetic Nervous System (SNS)** | *Sympathetic Chain* (Mobilisasi Pertahanan Diri / *Mobilization*) | **Terancam Bahaya (*Fight or Flight*)**: Amigdala membara, merasa diserang dan terpojok. | Berdusta demi selamat, menyalahkan teman sekamar, agresif, atau kabur dari pondok. | **TERHAMBAT (0%)**<br/>Kepatuhan mekanis palsu semata-mata demi menghindari rasa sakit raga. |
 | **3. Dorsal Vagal Complex (DVC)** | *Unmyelinated Vagus Nerve* (Imobilisasi Primitif / *Freeze / Shutdown*) | **Putus Asa & Pasrah (*Collapse / Dissociation*)**: Jiwa mati rasa, putus asa dari pertolongan. | Wajah datar tanpa emosi, mengompol, menarik diri dari pergaulan, dan depresi berat. | **LUMPUH TOTAL (-100%)**<br/>Kehancuran mental, kognitif, dan spiritual anak. |
 
-> [!CRITICAL]
-> ### 💡 Konsensus Ilmiah Neuro-Pedagogi:
-> **Adab dan budi pekerti luhur HANYA BISA TUMBUH tatkala sistem saraf santri berada dalam status *Ventral Vagal (Rasa Aman dan Terhubung)*.**  
-> 
-> Membentak, memaki, atau memukul santri dengan dalih "agar mereka cepat sadar" adalah sebuah ketidaktahuan neurobiologis yang fatal. Tindakan tersebut secara otomatis menjatuhkan sistem saraf santri ke status Simpatik atau Dorsal Vagal, yang **justru mematikan dan menggembok bagian otak (PFC) yang kita harapkan untuk merenungkan nilai adab tersebut!**
-
 ---
 
 ### V. Integrasi Turats: Hubungan Ketenangan Qalbu (*Thuma'ninah*) dan Cahaya Akal (*Nural Fahm*)
@@ -155,54 +149,34 @@ Pernyataan Al-Muhasibi di abad ke-3 Hijriyah ini adalah rumusan orisinal konsep 
 
 ---
 
-### VI. Panduan Praktis Ekosistem TUMBUH: Tiga Protokol Regulasi Neuro-Afektif
+### VI. Solusi Sistemik TUMBUH: Arsitektur Regulasi Neuro-Afektif Berbasis Rasa Aman
 
-Menjawab realitas neurobiologis dan tuntunan Turats ini, Ekosistem **TUMBUH** merumuskan **Tiga Protokol Regulasi Neuro-Afektif Pendidik** yang wajib dijalankan oleh seluruh asatidz dan musyrif saat mendampingi santri:
+Berpijak pada hukum biologis dan tuntunan Turats ini, **Sistem TUMBUH** menetapkan bahwa **penciptaan rasa aman (*Safety First*) adalah syarat mutlak seluruh proses pendidikan adab**. Sistem TUMBUH merumuskan **Tiga Protokol Regulasi Neuro-Afektif** yang wajib dijalankan oleh seluruh pembina santri:
 
 ```mermaid
 graph TD
-    RootReg["TIGA PROTOKOL REGULASI NEURO-AFEKTIF TUMBUH"]
+    RootReg["TIGA PROTOKOL REGULASI NEURO-AFEKTIF SISTEM TUMBUH"]
     
-    RootReg --> Reg1["1. PROTOKOL DE-ESKALASI SUARA & POSTUR (CALM PRESENCE)<br/>Menurunkan oktaf suara, duduk sejajar mata anak, & tatapan mata penuh kasih."]
+    RootReg --> Reg1["1. De-eskalasi Suara & Postur (Calm Presence)<br/>Menurunkan intonasi bicara, posisi duduk sejajar mata, & tatapan mata teduh."]
     
-    RootReg --> Reg2["2. PROTOKOL JEDA REGULASI BERSAMA (CO-REGULATION PERIOD)<br/>Santri ditenangkan dengan segelas air & dzikir hingga detak jantung normal kembali."]
+    RootReg --> Reg2["2. Jeda Regulasi Bersama (Co-Regulation Pause)<br/>Santri ditenangkan dengan air minum & dzikir hingga detak jantung stabil."]
     
-    RootReg --> Reg3["3. DIALOG RESTORATIF PADA JENDELA KESIAPAN OTAK (WINDOW OF TOLERANCE)<br/>Konsekuensi logis 4R disepakati saat Korteks Prefrontal santri telah aktif penuh."]
+    RootReg --> Reg3["3. Dialog Restoratif (Window of Tolerance)<br/>Konsekuensi logis 4R disepakati saat Korteks Prefrontal santri telah aktif optimal."]
 ```
 <div align="center"><sub><b>Gambar 1.3.5:</b> Tiga Protokol Regulasi Neuro-Afektif Ekosistem TUMBUH dalam Penanganan Pelanggaran Santri.</sub></div>
 
-Penerapan ketiga protokol di atas menjamin bahwa setiap proses penegakan disiplin santri berjalan secara manusiawi, berbasis bukti sains, dan sarat nilai ibadah:
-
-#### 1. Protokol De-eskalasi Suara & Postur (*Calm Presence*)
-Saat menghadapi santri yang melakukan pelanggaran berat, musyrif diharamkan berteriak atau berdiri menjulang secara mengintimidasi. Musyrif wajib menerapkan prinsip kehadiran tenang:
-* **Menurunkan Intonasi Suara (*Low Vocal Pitch*)**: Memperlambat tempo bicara dan menggunakan intonasi suara yang dalam dan stabil. Intonasi suara rendah secara otomatis mengirimkan sinyal rasa aman ke saraf kranial ke-10 (*vagus nerve*) santri.
-* **Postur Tubuh Sejajar (*Eye-Level Alignment*)**: Musyrif duduk bersila sejajar dengan santri, menatap matanya dengan pandangan kasih sayang (*compassionate gaze*), dan meletakkan tangan di pundak santri jika diperlukan untuk mentransfer rasa tenang.
-
-#### 2. Protokol Jeda Regulasi Bersama (*Co-Regulation Pause*)
-Musyrif dilarang keras menginterogasi atau memberikan ceramah panjang lebar tatkala santri masih dalam keadaan menangis histeris, gemetar, atau terengah-engah karena marah.
-* Santri diberikan segelas air putih hangat dan dipersilakan duduk di ruang transit konseling yang tenang (*Calm-Down Corner*).
-* Musyrif membimbing santri menarik napas dalam secara perlahan seraya melantunkan dzikir penenteram kalbu (*QS. Al-Baqarah: 153 & Ar-Ra'd: 28*) selama 5–10 menit hingga detak jantung santri kembali ke frekuensi normal (di bawah 85 denyut per menit).
-
-#### 3. Dialog Restoratif pada Jendela Kesiapan Otak (*Window of Tolerance*)
-Proses muhasabah, evaluasi kesalahan, dan penyepakatan konsekuensi logis 4R baru dimulai setelah Korteks Prefrontal (PFC) santri kembali aktif secara optimal:
-* **Format Pertanyaan Reflektif**:  
-  Musyrif tidak menggunakan pertanyaan interogatif yang memojokkan seperti *"Kenapa kamu berbuat kurang ajar?!"*, melainkan menggunakan pertanyaan restoratif yang mengaktifkan nalar moral santri:  
-  *"Akhi, Ustadz melihat antum sedang merasa sangat lelah dan tertekan sore ini. Mari kita renungkan bersama: apa yang tadi sebenarnya terjadi? Ketika antum mengambil barang kawan tanpa izin, apa dampak yang dirasakan oleh hati saudaramu? Dan menurut nalar sehat antum, apa langkah beradab yang bisa kita lakukan sekarang untuk memperbaiki keadaan ini?"*
+Penerapan protokol sistemik di atas menjamin bahwa:
+1. **De-eskalasi Suara & Postur**: Musyrif menggunakan frekuensi suara rendah (*low vocal pitch*) dan kontak mata penuh kasih (*compassionate gaze*) yang secara langsung mengaktifkan saraf kranial ke-10 (*vagus nerve*) santri untuk meredakan amigdala.
+2. **Jeda Regulasi Bersama**: Menghentikan interogasi saat santri panik, memberikan ruang tenang (*Calm-Down Space*), dan memandu dzikir penenteram kalbu hingga detak jantung berada di bawah 85 bpm.
+3. **Dialog Restoratif pada Jendela Kesiapan Otak**: Memulai muhasabah dan penyepakatan konsekuensi logis 4R hanya saat gelombang otak santri telah kembali tenang, memastikan bahwa nilai adab tersimpan dalam memori episodik jangka panjang (*long-term memory*).
 
 ---
 
-### VII. Muhasabah Jiwa: Memuliakan Amanah Otak dan Jiwa Santri
+### VII. Sintesis Neuro-Edukasi Sub-Bab 1.3
 
-Tatkala kita memandang seorang santri yang sedang duduk di hadapan kita dengan kepala tertunduk, ingatlah sebuah kebenaran agung ini:
+Sistem TUMBUH meletakkan temuan neurosains ini sebagai pilar fundamental: **kita tidak bisa menuntut kemuliaan adab dari santri yang otaknya sedang berjuang bertahan hidup dari rasa takut**.
 
-> [!NOTE]
-> ### 🕊️ Renungan Nurani bagi Pengasuh dan Pendidik Pesantren:
-> *"Di dalam tempurung kepala anak ini, Allah SWT sedang merajut miliaran sel saraf yang kelak akan menjadi lentera peradaban Islam.*  
-> 
-> *Setiap bentakan kasar yang kita lontarkan adalah racun kortisol yang membakar sel-sel otaknya dan merusak memorinya dari mengingat Kalam Ilahi.*  
-> *Namun setiap tatapan teduh, senyuman hangat, dan bimbingan sabar yang kita berikan adalah pupuk neuroplastisitas yang menumbuhkan sirkuit cinta, empati, dan kebijaksanaan di dalam jiwanya.*  
-> 
-> *Jangan pernah membakar amigdala anak titipan umat ini dengan api amarah kita. Bimbinglah mereka dengan ketenangan Thuma'ninah dan teladan kasih sayang Nabawi, agar dari pesantren kita lahir generasi ulama yang cerdas akalnya, mulia adabnya, dan damai jiwanya di hadapan Allah dan manusia."*
+Dengan menjamin terciptanya lingkungan asrama yang stabil, hangat, dan menenangkan (*Ventral Vagal Safe Climate*), Sistem TUMBUH membuka gerbang neuroplastisitas santri secara maksimal, memungkinkan mereka menyerap hafalan Al-Qur'an dengan jernih, mengasah penalaran nalar moral, dan memancarkan keluhuran adab nabawi atas dasar ketenteraman batin (*Thuma'ninah*).
 
 ---
 

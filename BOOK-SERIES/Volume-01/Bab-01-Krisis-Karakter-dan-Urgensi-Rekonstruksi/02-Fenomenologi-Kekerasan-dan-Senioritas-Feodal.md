@@ -1,7 +1,7 @@
 # SUB-BAB 1.2: FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL
 ## *Membongkar Mitos 'Penempaan Mental Baja', Meluruskan Residu Tradisi, dan Menegakkan Martabat Kemanusiaan Santri*
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-02/MONOGRAF-MASTER-FLUID`  
+**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-02/MONOGRAF-MASTER`  
 **Disiplin Ilmu**: Sosiologi Kekerasan Pendidikan, Psikologi Trauma Perkembangan, Hukum Perlindungan Anak, & Epistemologi Turats  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Perlindungan Anak, Epistemologi Turats, & Disiplin Positif*)
 
@@ -146,52 +146,37 @@ Rasulullah SAW—teladan agung seluruh pendidik—sepanjang hayatnya **tidak per
 
 ---
 
-### VI. Panduan Praktis Ekosistem TUMBUH: Menegakkan Kebijakan Nol Kekerasan (*Zero Tolerance Policy*)
+### VI. Solusi Sistemik TUMBUH: Arsitektur Ekosistem Nol Kekerasan (*Zero Violence Policy*)
 
-Menjawab panggilan syariat, tuntutan sains perkembangan, dan amanah hukum ini, Ekosistem **TUMBUH** menetapkan sikap kelembagaan yang tegas dan tidak dapat ditawar-tawar (*non-negotiable commitment*) melalui **Empat Pilar Deklarasi Nol Kekerasan**:
+Menjawab panggilan syariat, tuntutan sains perkembangan, dan amanah hukum ini, **Sistem TUMBUH** merekayasa arsitektur perlindungan santri dan tata kelola asrama melalui **Empat Pilar Deklarasi Nol Kekerasan**:
 
 ```mermaid
 graph TD
-    KomitmenZero["DEKLARASI MUTLAK ZERO VIOLENCE TUMBUH"]
+    KomitmenZero["DEKLARASI MUTLAK ZERO VIOLENCE SISTEM TUMBUH"]
     
-    KomitmenZero --> K1["1. PENGHAPUSAN MUTLAK HUKUMAN FISIK<br/>Rotan, tamparan, push-up tengah malam, & lari lapangan dihapus 100% dari seluruh SOP."]
+    KomitmenZero --> K1["1. Penghapusan Mutlak Hukuman Fisik<br/>Rotan, tamparan, push-up tengah malam, & lari lapangan dihapus 100% dari seluruh SOP."]
     
-    KomitmenZero --> K2["2. PENARIKAN WEWENANG YUDISIAL SANTRI SENIOR<br/>Santri dilarang keras mengadili/menghukum adik kelas; peran diubah menjadi Peer Mentor."]
+    KomitmenZero --> K2["2. Penarikan Wewenang Yudisial Santri Senior<br/>Santri dilarang keras mengadili/menghukum adik kelas; peran diubah menjadi Peer Mentor."]
     
-    KomitmenZero --> K3["3. PAKTA INTEGRITAS PENDIDIK BERMATERAI<br/>Seluruh asatidz dan musyrif menandatangani komitmen tertulis anti-kekerasan sebelum mengasuh."]
+    KomitmenZero --> K3["3. Pakta Integritas Pendidik Bermaterai<br/>Seluruh asatidz dan musyrif menandatangani komitmen tertulis anti-kekerasan sebelum mengasuh."]
     
-    KomitmenZero --> K4["4. PENERAPAN DISIPLIN RESTORATIF LOGIS 4R<br/>Mengganti balas dendam dengan pemulihan hubungan, restitusi nyata, dan taubat nashuha."]
+    KomitmenZero --> K4["4. Penerapan Disiplin Restoratif Logis 4R<br/>Mengganti balas dendam dengan pemulihan hubungan, restitusi nyata, dan taubat nashuha."]
 ```
 <div align="center"><sub><b>Gambar 1.2.5:</b> Empat Pilar Deklarasi Mutlak Nol Kekerasan (*Zero Tolerance Policy*) Ekosistem TUMBUH.</sub></div>
 
 Kerangka empat pilar di atas mereformasi tata kelola pesantren secara menyeluruh:
-1. **Pilar 1 (Penghapusan Mutlak Hukuman Fisik)**: Menghapus 100% rotan, tamparan, dan push-up malam dari seluruh SOP pesantren.
-2. **Pilar 2 (Penarikan Wewenang Yudisial Senior)**: Membubarkan pengadilan malam santri dan mengalihkan peran senior menjadi **Kakak Asuh (*Peer Mentors*)**.
-3. **Pilar 3 (Pakta Integritas Pendidik Bermaterai)**: Setiap asatidz menandatangani komitmen tertulis anti-kekerasan berkonsekuensi hukum.
-4. **Pilar 4 (Disiplin Restoratif 4R)**: Menerapkan konsekuensi logis yang **Related** (terkait), **Respectful** (santun), **Reasonable** (masuk akal), dan **Restorative** (memulihkan persaudaraan via *Ishlah al-Bain*).
+1. **Penghapusan Mutlak Hukuman Fisik**: Menghapus 100% rotan, tamparan, dan push-up malam dari seluruh SOP pesantren, menegaskan bahwa tubuh santri adalah amanah suci yang wajib dilindungi.
+2. **Penarikan Wewenang Yudisial Senior**: Membubarkan pengadilan malam santri dan mengalihkan peran senior menjadi **Kakak Asuh (*Peer Mentors*)** yang melindungi dan melayani adik kelasnya.
+3. **Pakta Integritas Pendidik Bermaterai**: Setiap kiai, guru madrasah, dan musyrif menandatangani komitmen tertulis anti-kekerasan berkonsekuensi hukum.
+4. **Disiplin Restoratif 4R**: Menyelesaikan pelanggaran melalui konsekuensi logis yang **Related** (terkait langsung dengan jenis pelanggaran), **Respectful** (santun tanpa mencaci), **Reasonable** (masuk akal sesuai usia), dan **Restorative** (memulihkan persaudaraan melalui mekanisme *Ishlah al-Bain*).
 
 ---
 
-### VII. Muhasabah Jiwa: Menghidupkan Kembali Ruh Nabawi di Bilik Asrama
+### VII. Sintesis Sosiologis Sub-Bab 1.2
 
-Wahai para pengasuh, asatidz, dan pejuang pendidikan Islam yang mulia...
+Melalui pembongkaran fenomenologis ini, Sistem TUMBUH menegaskan bahwa **kekerasan dan feodalisme bukanlah tradisi luhur pesantren, melainkan residu kejahilan yang menyusup ke dalam institusi pendidikan**.
 
-Ingatlah tatkala Rasulullah SAW mencium cucu beliau Hasan bin Ali RA, lalu seorang sahabat bernama Al-Aqra' bin Habis berkata dengan nada angkuh: *"Sesungguhnya aku memiliki sepuluh orang anak, dan tidak pernah sekalipun aku mencium seorang pun dari mereka!"*
-
-Maka Rasulullah SAW menatapnya dengan pandangan penuh ketegasan seraya bersabda dengan kalimat yang menggetarkan semesta:
-
-> [!NOTE]
-> ### 📜 Sabda Abadi Rasulullah SAW tentang Hilangnya Kasih Sayang:
-> 
-> $$\text{مَنْ لَا يَرْحَمُ لَا يُرْحَمُ، وَمَا أَمْلِكُ لَكَ أَنْ نَزَعَ اللَّهُ مِنْ قَلْبِكَ الرَّحْمَةَ}$$
-> 
-> **Artinya:**  
-> *"Barang siapa yang tidak menyayangi, maka ia tidak akan disayangi oleh Allah. Dan apa dayaku jika Allah telah mencabut rasa kasih sayang dari dalam kalbumu?!"*  
-> *(HR. Bukhari no. 5997 dan Muslim no. 2318)*
-
-Santri-santri yang berada di bawah asuhan kita adalah amanah suci dari langit. Mereka datang ke pesantren bukan untuk dihancurkan jiwanya dengan ketakutan, melainkan untuk disuburkan fitrahnya dengan keteladanan cinta (*Qudwah Hasanah*). 
-
-Mari kita bersihkan bilik-bilik asrama kita dari residu feodalisme kekerasan masa lalu, dan mari kita jadikan setiap jengkal tanah pesantren kita sebagai taman kedamaian nabawi yang memancarkan rahmat, perlindungan, dan kemuliaan adab bagi seluruh generasi penerus umat.
+Dengan menegakkan kebijakan *Zero Violence* dan sistem Disiplin Restoratif 4R, Sistem TUMBUH mentransformasikan asrama pesantren dari ruang penuh teror dan rasa takut menjadi **Bi'ah Shalihah**: lingkungan hidup yang aman, memuliakan martabat kemanusiaan santri, dan meneladani kelembutan kasih sayang Rasulullah SAW secara paripurna.
 
 ---
 

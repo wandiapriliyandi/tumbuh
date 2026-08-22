@@ -1,7 +1,7 @@
 # SUB-BAB 1.4: KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI
 ## *Kritik atas Reduksionisme Hadiah-Hukuman Mekanis, Efek Overjustification, dan Erosi Keikhlasan Niat*
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-04/MONOGRAF-MASTER-FLUID`  
+**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-04/MONOGRAF-MASTER`  
 **Disiplin Ilmu**: Filsafat Pendidikan Islam, Psikologi Motivasi Humanistik, Self-Determination Theory, & Hermeneutika Turats  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, Epistemologi Turats, & Social Emotional Learning*)
 
@@ -133,51 +133,34 @@ Tinjauan Turats ini menyingkap bahaya terbesar dari sistem reward-punishment sek
 
 ---
 
-### VI. Panduan Praktis Ekosistem TUMBUH: Tiga Pilar Apresiasi Relasional & Internalisasi Makna
+### VI. Solusi Sistemik TUMBUH: Model Apresiasi Relasional & Internalisasi Makna
 
-Ekosistem **TUMBUH** merumuskan sintesis luhur yang memadukan kemurnian niat Turats dengan temuan sains motivasi humanistik melalui **Tiga Pilar Apresiasi Relasional & Internalisasi Makna**:
+Ekosistem **TUMBUH** merekayasa model pembinaan motivasi yang memadukan kemurnian niat Turats dengan prinsip pemenuhan kebutuhan dasar psikologis manusia (*Basic Psychological Needs: Autonomy, Competence, Relatedness*) melalui **Tiga Pilar Apresiasi Relasional**:
 
 ```mermaid
 graph TD
-    RootModel["TIGA PILAR APRESIASI & INTERNALISASI MAKNA TUMBUH"]
+    RootModel["TIGA PILAR APRESIASI & INTERNALISASI MAKNA SISTEM TUMBUH"]
     
-    RootModel --> P1["1. APRESIASI RELASIONAL 4:1 (Non-Materiil)<br/>Pengakuan tulus musyrif atas usaha & proses karakter, bukan hadiah benda."]
+    RootModel --> P1["1. Apresiasi Relasional 4:1 (Non-Materiil)<br/>Pengakuan tulus musyrif atas usaha & proses karakter, bukan hadiah materiil."]
     
-    RootModel --> P2["2. PROTOKOL TAZKIYATUN NIYYAH BERKALA<br/>Muhasabah niat harian: menautkan setiap adab dengan cinta Allah & Rasul-Nya."]
+    RootModel --> P2["2. Protokol Tazkiyatun Niyyah Berkala<br/>Muhasabah niat harian: menautkan setiap adab dengan cinta Allah & Rasul-Nya."]
     
-    RootModel --> P3["3. DIALOG MAKNA & AUTONOMY SUPPORT<br/>Santri diajak memahami hikmah syar'i aturan & diberi ruang tanggung jawab otonom."]
+    RootModel --> P3["3. Dialog Makna & Autonomy Support<br/>Santri diajak memahami hikmah syar'i aturan & diberi ruang tanggung jawab otonom."]
 ```
 <div align="center"><sub><b>Gambar 1.4.4:</b> Tiga Pilar Model Apresiasi Relasional dan Internalisasi Makna Adab Ekosistem TUMBUH.</sub></div>
 
-Penerapan ketiga pilar di atas mengawal transformasi motivasi santri menuju keikhlasan sejati:
-
-#### 1. Apresiasi Relasional 4:1 (*Relational Encouragement*)
-Pesantren melarang penggunaan hadiah uang, kupon jajan, atau stiker perankingan yang memicu komparasi sosial. Sebagai gantinya, musyrif memberikan apresiasi berupa pengakuan relasional yang tulus atas proses usaha santri:
-* Musyrif mendatangi santri secara personal dan berbisik hangat: *"Akhi Salman, Ustadz sangat menghargai inisiatif antum yang tetap tenang menyapu serambi masjid tadi pagi tatkala kawan-kawan yang lain sedang terburu-buru. Sikap antum menjaga kebersihan rumah Allah adalah cermin pemuda yang mulia."*
-* Apresiasi semacam ini menumbuhkan rasa kompetensi (*perceived competence*) dan keterhubungan sosial (*relatedness*) tanpa merusak kemurnian niat anak.
-
-#### 2. Protokol Tazkiyatun Niyyah Berkala
-Setiap aktivitas harian di pondok—mulai dari piket kebersihan, mengantre makan, hingga menghafal kitab—selalu dibingkai dengan proses pembersihan niat:
-* Sebelum memulai piket kamar, musyrif mengajak seluruh anggota kamar bertafakkur sejenak selama satu menit: *"Mari kita luruskan niat kita pagi ini: kita membersihkan kamar ini bukan agar dipuji ustadz, melainkan sebagai wujud syukur kita atas nikmat tempat tinggal dan meneladani sabda Nabi bahwa kebersihan adalah bagian dari iman."*
-
-#### 3. Dialog Makna & Dukungan Otonomi (*Autonomy Support*)
-Aturan asrama tidak lagi disodorkan sebagai dogma mati yang dipaksakan, melainkan didialogkan secara terbuka melalui sesi lingkaran kamar mingguan:
-* Santri diajak mendiskusikan *Hikmah Syar'i* dan dampak logis dari setiap aturan: *"Mengapa kita perlu menjaga ketenangan kamar setelah pukul 22.00 WIB? Karena hak tubuh saudara kita adalah istirahat yang cukup agar esok subuh mereka bisa beribadah dengan khusyuk."*
-* Santri dilibatkan dalam merumuskan kesepakatan adab kamar bersama, menumbuhkan rasa kepemilikan (*sense of ownership*) dan tanggung jawab moral otonom.
+Penerapan pilar sistemik di atas menjamin bahwa:
+1. **Apresiasi Relasional 4:1**: Menolak manipulasi token materiil, dan menggantinya dengan pengakuan relasional yang tulus atas proses perjuangan santri (*"Ustadz menghargai kesabaran antum saat mengantre tadi"*), menumbuhkan rasa kompetensi dan kedekatan tanpa merusak niat ikhlas.
+2. **Protokol Tazkiyatun Niyyah Berkala**: Setiap piket, belajar, dan ibadah selalu diawali dengan pelurusan niat untuk meraih ridha Allah SWT, melatih santri memiliki kewaspadaan batin (*Muraqabatullah*).
+3. **Dialog Makna & Dukungan Otonomi**: Membuka ruang musyawarah kamar untuk memahami hikmah syariat di balik aturan asrama, sehingga kepatuhan lahir dari kesadaran internal otonom, bukan keterpaksaan.
 
 ---
 
-### VII. Muhasabah Jiwa: Menjaga Kemurnian Amal Titipan Santri
+### VII. Sintesis Aksiologis Sub-Bab 1.4
 
-Tatkala kita melihat santri-santri kita sedang tekun beramal, tanyakanlah kepada lubuk hati kita:
+Melalui kritik aksiologis ini, Sistem TUMBUH menegaskan bahwa **tujuan akhir pendidikan karakter bukanlah sekadar keteraturan fisik yang mekanistik, melainkan terbangunnya jiwa yang merdeka dan ikhlas beramal semata-mata karena Allah Ta'ala**.
 
-> [!NOTE]
-> ### 🕊️ Renungan Nurani bagi Pengasuh dan Pendidik Pesantren:
-> *"Untuk siapa anak-anak ini kita latih beramal? Apakah kita mendidik mereka menjadi pemburu poin duniawi yang kelak akan meninggalkan amalnya tatkala tidak ada imbalan materiil?*  
-> 
-> *Ataukah kita sedang mendidik mereka menjadi hamba-hamba Allah yang tulus, yang tetap sujud di keheningan malam tatkala seluruh dunia sedang terlelap tidur, dan tetap teguh menjaga kejujuran tatkala tidak ada satu pun mata manusia yang memandangnya?*  
-> 
-> *Mari kita jaga kemurnian fitrah niat mereka. Hindarkan mereka dari racun transaksional behaviorisme semu, tautkan kalbu mereka hanya kepada ridha Allah SWT, dan bimbing mereka menjadi generasi ikhlas yang menjadi pilar kejayaan umat dan bangsa."*
+Dengan mengganti sistem token transaksional dengan Apresiasi Relasional dan Tazkiyatun Niyyah, Sistem TUMBUH membimbing santri mendaki tangga motivasi hingga mencapai puncak **Muraqabatullah**: berakhlak mulia di keramaian maupun dalam kesendirian, menjaga integritas di pondok maupun tatkala telah berbaur di tengah masyarakat luas.
 
 ---
 
