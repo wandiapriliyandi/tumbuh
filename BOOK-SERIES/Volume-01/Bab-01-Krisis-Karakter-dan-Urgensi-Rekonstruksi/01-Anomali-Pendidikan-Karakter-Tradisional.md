@@ -51,14 +51,17 @@ Untuk menemukan jalan keluar yang tuntas, kita harus memahami bagaimana otak man
 
 ```mermaid
 graph TD
-    Otak["ARSITEKTUR MEMORI MANUSIA DI OTAK"]
+    Otak["🧠 ARSITEKTUR MEMORI MANUSIA DI OTAK"]
     
-    Otak --> Deklaratif["1. MEMORI DEKLARATIF (Korteks Temporal & Hipokampus)<br/>• Pengetahuan Teori ('Knowing That')<br/>• Menghafal teks dalil larangan ghashab<br/>• Diakses sadar saat ujian / ceramah"]
+    Otak --> Deklaratif
+    Otak --> Prosedural
     
-    Otak --> Prosedural["2. MEMORI PROSEDURAL (Basal Ganglia & Serebelum)<br/>• Karakter Nyata Otomatis ('Knowing How')<br/>• Refleks menahan tangan dari mengambil hak orang lain<br/>• Bekerja spontan dalam situasi terburu-buru"]
+    Deklaratif["1. MEMORI DEKLARATIF (Korteks Temporal)<br/>• Pengetahuan Teori ('Knowing That')<br/>• Hafalan teks & dalil larangan ghashab<br/>• Diakses secara sadar saat ujian/ceramah"]
     
-    Deklaratif -.->|"TIDAK BISA TERSAMBUNG HANYA DENGAN CERAMAH"| Prosedural
-    Deklaratif ==>|"MEMBUTUHKAN HABITUASI 66 HARI TERBIMBING"| Prosedural
+    Prosedural["2. MEMORI PROSEDURAL (Basal Ganglia)<br/>• Karakter Nyata Otomatis ('Knowing How')<br/>• Refleks menahan diri dari hak orang lain<br/>• Bekerja spontan saat terburu-buru"]
+    
+    Deklaratif -.->|"Terputus: jika hanya ceramah"| Prosedural
+    Deklaratif ==>|"Jembatan Habituasi 66 Hari"| Prosedural
 ```
 <div align="center"><sub><b>Gambar 1.1.2:</b> Arsitektur Sistem Memori di Otak: Memori Deklaratif (Teori) vs Memori Prosedural (Praktik Refleks).</sub></div>
 
