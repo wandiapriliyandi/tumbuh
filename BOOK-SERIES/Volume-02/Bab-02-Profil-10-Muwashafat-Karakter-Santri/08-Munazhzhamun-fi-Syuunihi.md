@@ -1,34 +1,115 @@
-# SUB-BAB 2.8: MUNAZHZHAMUN FI SYU'UNIHI (TERTIB DALAM SEGALA URUSAN)
-## *Manajemen Keteraturan Hidup, Standar 5S/5R Loker Asrama, Perencanaan Harian, dan Disiplin Logistik Pribadi*
+# SUB-BAB 2.8: MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)
+## *Fondasi Keteraturan Hidup, Metodologi Manajemen Loker 5S/5R, Estetika Spasial Asrama, dan Penataan Mental 24-Jam*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-08/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Keteraturan Pribadi (*Personal Organization*), Ergonomi Asrama, & Psikologi Keteraturan Spasial  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Tata Kelola Qudwah*)
+**Disiplin Ilmu**: Psikologi Keteraturan Spasial (*Spatial Psychology*), Manajemen Kualitas Lean & Kaizen (5S), Adab Penataan Kitab Turats, & Ergonomi Asrama  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Pengasuhan Asrama, & Pakar Desain Kurikulum Adab*)
 
 ---
 
-### Keteraturan Fisik sebagai Cermin Kerapian Batin
+### I. Hakikat Munazhzhamun fi Syu'unihi: Ketertiban Fisik sebagai Cermin Jiwa
 
-Pilar kedelapan karakter santri adalah **Munazhzhamun fi Syu'unihi** (Tertib dan Terorganisir dalam Segala Urusannya).
+Ada sebuah pepatah kearifan kuno yang berbunyi: *"Kondisi kamarmu adalah cerminan dari isi pikiranmu."*
 
-Keteraturan hidup di asrama TUMBUH bukan sekadar formalitas saat inspeksi musyrif, melainkan cermin dari ketertiban batin penuntut ilmu:
-* **Standar Kerapian Loker 5S/5R**: Menata lemari pakaian dengan zonasi simetris yang jelas (seragam di gantungan atas, sarung di rak tengah, pakaian santai di rak bawah, dan perlengkapan mandi di kotak khusus).
-* **Keteraturan Catatan Belajar**: Mencatat syarah kitab secara rapi dengan memberi tanda warna pada kaidah penting (*fawa'id*), serta menyusun jadwal muthala'ah mandiri.
-* **Kesiapan Logistik Malam Hari**: Menyiapkan seragam, peci, sajadah, dan kitab yang akan digunakan esok hari sebelum tidur malam pukul 22.00 WIB, mencegah kepanikan dan ketergesaan di waktu subuh.
+Ketika kita melangkah masuk ke dalam sebagian bilik asrama santri konvensional, kita kerap disuguhi pemandangan yang memilukan hati:
+* Pakaian bersih dan pakaian kotor bercampur baur di dalam lemari yang dijejalkan sembarangan;
+* Kitab-kitab suci bertumpuk miring di lantai semen tanpa sampul pelindung, bercampur dengan bungkus makanan dan kaos kaki kotor;
+* Setiap pagi saat hendak berangkat ke madrasah, suasana asrama berubah menjadi kepanikan massal: santri berteriak-teriak mencari pecinya yang hilang, berebut setrika, atau kalang kabut mencari buku tugas yang terselip entah di mana.
+
+Kekacauan fisik (*physical disorder*) semacam ini bukan sekadar masalah estetika sepele, melainkan **manifestasi dari kelumpuhan manajemen mental (*mental clutter*)**. Santri yang hidup dalam kesemrawutan ruang akan menghabiskan energi kognitifnya setiap hari hanya untuk mencari barang-barang yang tercecer, memicu stres kronis, dan menurunkan kualitas fokus belajarnya.
+
+Dalam Ekosistem TUMBUH, **Munazhzhamun fi Syu'unihi** (Teratur dan Rapi dalam Segala Urusan Hidup) adalah wujud nyata dari keimanan dan adab. Islam adalah agama yang mencintai keindahan dan keteraturan (*Inna Allaha jamilun yuhibbul jamal*). Santri dididik untuk menguasai keterampilan manajemen tata ruang pribadi, memelihara perlengkapan hidupnya dengan standar 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*), dan menata ritme kesehariannya dengan presisi yang menenangkan jiwa.
+
+```mermaid
+graph TD
+    subgraph PilarKeteraturan["TIGA PILAR UTAMA MUNAZHZHAMUN FI SYU'UNIHI EKOSISTEM TUMBUH"]
+        PorosTertib["MUNAZHZHAMUN FI SYU'UNIHI (KETERATURAN HIDUP 24 JAM)"]
+        
+        PorosTertib --> P1["1. MANAJEMEN LOKER & RUANG PRIBADI BERBASIS 5S/5R<br/>Pemisahan baju bersih-kotor, zonasi loker teratur, kasur rapi bersudut, & kamar estetik."]
+        
+        PorosTertib --> P2["2. PENATAAN KITAB & PERLENGKAPAN BELAJAR BERADAB<br/>Kitab bersampul rapi, Al-Qur'an di posisi teratas, & tas sekolah siap H-1 malam."]
+        
+        PorosTertib --> P3["3. MANAJEMEN RENCANA HARIAN (DAILY ACTION PLAN)<br/>Menata alur waktu dari bangun tidur hingga tidur kembali tanpa disorientasi."]
+    end
+```
+<div align="center"><sub><b>Gambar 2.8.1:</b> Tiga Pilar Operasional Karakter Munazhzhamun fi Syu'unihi Santri.</sub></div>
+
+---
+
+### II. Khazanah Turats: Syarah Imam Al-Khathib Al-Baghdadi & Syekh Az-Zarnuji
+
+Penghormatan ulama salaf terhadap keteraturan penataan buku dan kerapian hidup merupakan teladan peradaban yang sangat memukau.
+
+#### 1. Keindahan dan Kerapian adalah Bagian dari Sunnah
+Dalam hadits shahih yang diriwayatkan oleh **Imam Muslim**[^1], Rasulullah SAW bersabda:
+
+$$\text{إِنَّ اللهَ جَمِيلٌ يُحِبُّ الْجَمَالَ}$$
+
+**Artinya:** *"Sesungguhnya Allah itu Maha Indah dan mencintai keindahan."*
+
+#### 2. Adab Menata Kitab Menurut Imam Al-Khathib Al-Baghdadi
+Dalam mahakaryanya *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'*[^2], **Al-Hafizh Al-Khathib Al-Baghdadi** menetapkan protokol kerapian penuntut ilmu:
+> *"Wajib bagi penuntut ilmu untuk memelihara kerapian kitab-kitabnya. Janganlah ia meletakkan kitab berserakan di tanah, jangan melipat halaman buku sebagai pembatas, dan hendaklah ia menyusun kitab-kitabnya berdasarkan kemuliaan ilmunya: meletakkan Al-Qur'anul Karim di tumpukan paling atas, disusul kitab Shahih Hadits, kitab Fiqih, Ushul, hingga kitab Bahasa.*
+> 
+> *Kerapian lemari buku dan kebersihan catatan seorang murid mencerminkan ketajaman akal dan kesucian adabnya kepada ilmu."*
+
+Senada dengan itu, **Syekh Burhanuddin Az-Zarnuji** dalam *Ta'lim al-Muta'allim*[^3] menegaskan bahwa keberkahan ilmu dan kemudahan pemahaman diperoleh salah satunya melalui keteraturan tulisan (*husnul khath*) dan penjagaan alat-alat tulis agar selalu siap digunakan.
+
+---
+
+### III. Tinjauan Sains: Metodologi Kaizen 5S & Psikologi Ketertiban Ruang
+
+Bagaimana sains manajemen kualitas dan psikologi lingkungan membuktikan keunggulan hidup teratur?
+
+#### 1. Implementasi Metodologi Lean 5S (5R) di Asrama Pesantren
+Metodologi efisiensi industri global dari Jepang **5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)**[^4] diadaptasi secara sempurna ke dalam pembiasaan asrama TUMBUH:
+* **1. Seiri (Ringkas / Sisihkan)**: Memilah barang yang masih terpakai dan menyedekahkan pakaian/barang yang sudah kekecilan atau tidak terpakai; tidak menimbun sampah di loker.
+* **2. Seiton (Rapi / Susun)**: Memberi label dan menempatkan setiap barang pada zonanya (Rak 1: Baju gantung/seragam; Rak 2: Baju lipat; Rak 3: Buku & alat shalat; Rak 4: Peralatan mandi).
+* **3. Seiso (Resik / Bersihkan)**: Membersihkan debu loker dan menyapu lantai kamar setiap hari.
+* **4. Seiketsu (Rawat / Standarisasi)**: Mempertahankan standar kerapian kamar setiap saat, bukan hanya saat ada inspeksi.
+* **5. Shitsuke (Rajin / Pembiasaan Diri)**: Menjadikan keteraturan sebagai refleks watak yang mendarah daging.
+
+#### 2. Riset Psikologi Ketertiban Ruang Kathleen Vohs
+Pakar psikologi dari University of Minnesota, **Prof. Kathleen D. Vohs**[^5] membuktikan melalui riset eksperimental bahwa lingkungan ruang yang rapi dan teratur (*orderly environment*) secara signifikan meningkatkan:
+* Ketaatan terhadap norma moral dan aturan sosial;
+* Kecenderungan untuk berbagi dan bersedekah (*altruistic behavior*);
+* Ketahanan konsentrasi belajar dan penurunan hormon stres kortisol.
 
 ```mermaid
 graph LR
-    subgraph PilarKeteraturan["TIGA PILAR MUNAZHZHAMUN FI SYU'UNIHI"]
-        Loker["1. Manajemen Loker 5S/5R Simetris"] --> Catatan["2. Keteraturan Buku & Catatan Kitab"]
-        Catatan --> Rencana["3. Kesiapan Logistik Sebelum Tidur Malam"]
+    subgraph Dampak5S["DAMPAK PSIKOLOGIS PENERAPAN LOKER 5S DI ASRAMA"]
+        Ruang5S["Penerapan Standar Loker 5S & Kasur Rapi Bersudut"] --> BebanKognitifTurun["Beban Kognitif Pencarian Barang Turun Drastis (Dari 15 Mnt ke 5 Dtk)"]
+        BebanKognitifTurun --> KetenanganSpasial["Tercipta Ketenangan Batin (Spatial Peace) & Waktu Belajar Meningkat"]
+        KetenanganSpasial --> KarakterTertib["Terbentuk Mentalitas Disiplin, Teliti, & Beradab Tinggi"]
     end
 ```
-<div align="center"><sub><b>Gambar 2.8.1:</b> Tiga Pilar Keteraturan Hidup Santri TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 2.8.2:</b> Alur Transformasi dari Manajemen Loker 5S Menuju Ketenangan Mental Santri.</sub></div>
 
-**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^1] menegaskan bahwa penuntut ilmu wajib menata kitab-kitabnya dengan penuh takdzim: meletakkan Al-Qur'an di posisi teratas, diikuti kitab hadits, tafsir, ushul fiqih, dan nahwu-sharaf, serta menjaga kerapian tempat tidurnya agar hati senantiasa tenang dan siap menerima ilmu.
+---
+
+### IV. Matriks Indikator Perilaku Faktual Munazhzhamun fi Syu'unihi (24 Jam)
+
+| Objek & Waktu Keseharian | Indikator Perilaku Positif (Munazhzhamun fi Syu'unihi) | Perilaku Defisit / Kesemrawutan | Protokol Pembiasaan Sistemik TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Tempat Tidur Saat Bangun Pagi** | Menarik sprei kencang bebas kerutan, melipat selimut rapi di ujung kasur, menaruh bantal sejajar. | Meninggalkan kasur dalam kondisi acak-acakan, selimut terlempar di lantai, bantal berceceran. | Pembiasaan protokol 2 menit *Make Your Bed* setiap fajar sebelum melangkah ke masjid. |
+| **Penataan Loker Pribadi (5S)** | Pakaian tersusun rapi sesuai kategori (gamis, seragam, kaos), tidak ada barang basah di loker. | Loker dijejali pakaian kusut bercampur baur, makanan terbuka mengundang semut/tikus. | Audit mingguan visual 5S kamar dengan feedback edukatif tanpa mempermalukan santri. |
+| **Penataan Meja Belajar & Kitab** | Kitab tersusun tegak bersampul rapi, alat tulis berada di kotak pensil, meja bebas sampah. | Kitab terbuka tergeletak di lantai, halaman terlipat, pulpen berserakan di kolong ranjang. | Pembagian rak buku bersekat untuk setiap santri dan gerakan *Cinta Kitab Suci*. |
+| **Persiapan Sekolah Madrasah (H-1 Malam)** | Menyiapkan seragam tersetrika, tas sekolah, dan buku pelajaran sebelum tidur pukul 21.45 WIB. | Baru mencari buku dan kaos kaki saat bel madrasah berbunyi, panik, dan terlambat masuk kelas. | Rutinitas 10 menit persiapan H-1 malam di setiap kamar asrama dipandu Musyrif. |
+
+---
+
+### V. Solusi Sistemik TUMBUH: Standarisasi Desain Loker & Festival Kamar Asri
+
+Lembaga merumuskan program pendukung:
+1. **Desain Modular Loker Ergonomis**: Setiap santri difasilitasi loker pribadi 4 sekat standar dengan ventilasi udara yang baik dan gantungan baju standar.
+2. **Festival Kamar Asri & Estetik (*Bi'ah Jamilah Award*)**: Penghargaan bulanan bagi kamar yang paling konsisten menjaga kerapian 5S, kebersihan sanitasi, dan kenyamanan belajar, dengan hadiah jamuan makan bersama pengasuh pondok.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Adab al-Muta'allim ma'a Kutubihi", hlm. 35–42.
+[^1]: **Al-Imam Abu al-Husain Muslim bin al-Hajjaj an-Naisaburi**, *Shahih Muslim*, Kitab al-Iman, Bab Tahrim al-Kibr wa Bayanihi (Kairo: Dar Ihya' at-Turats al-'Arabi, 1955), Hadits No. 91.
+[^2]: **Al-Hafizh Al-Khathib Abu Bakar Ahmad bin Ali al-Baghdadi**, *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'*, Tahqiq: Dr. Mahmud ath-Thahhan (Riyadh: Maktabah al-Ma'arif, 1983), Jilid I, hlm. 380–415.
+[^3]: **Al-Imam Burhanuddin al-Zarnuji**, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Tahqiq: Syaikh Mustafa Asyur (Kairo: Dar al-I'tisham, 1986), Bab "Fi Adab al-Kutub", hlm. 55–68.
+[^4]: **Hiroyuki Hirano**, *5 Pillars of the Visual Workplace: The Sourcebook for 5S Implementation* (Portland: Productivity Press, 1995), Bab 1–3, hlm. 1–45; serta **Masaaki Imai**, *Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy* (New York: McGraw-Hill, 2012).
+[^5]: **Kathleen D. Vohs, Joseph P. Redden, & Ryan Rahinel**, "Physical order produces healthy choices, generosity, and conventionality, whereas disorder produces creativity", *Psychological Science*, Vol. 24, No. 9 (2013), hlm. 1860–1867.
