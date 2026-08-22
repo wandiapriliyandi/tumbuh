@@ -68,7 +68,8 @@ graph TD
         E2["Menolak sains perkembangan anak; membenarkan kekerasan fisik di asrama dengan dalih 'menjaga tradisi masa lalu'."]
     end
 
-    Ekstrem1 <---|KRITIK TAJAM|---> JalanTengah <---|KRITIK TAJAM|---> Ekstrem2
+    Ekstrem1 <-->|"Kritik Tajam"| JalanTengah
+    JalanTengah <-->|"Kritik Tajam"| Ekstrem2
 ```
 <div align="center"><sub><b>Gambar 3.1.2:</b> Posisi Wasathiyyah Epistemologi Integratif TUMBUH di Antara Dua Ekstrem Pendidikan.</sub></div>
 

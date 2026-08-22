@@ -67,7 +67,8 @@ graph LR
         D2["Manusia lahir seperti kertas kosong netral tanpa kecenderungan bawaan."]
     end
 
-    Barat1 <---|KRITIK ISLAM|---> Islam <---|KRITIK ISLAM|---> Barat2
+    Barat1 <-->|"Kritik Islam"| Islam
+    Islam <-->|"Kritik Islam"| Barat2
 ```
 <div align="center"><sub><b>Gambar 2.1.2:</b> Distingsi Epistemologis antara Teologi Fitrah Islam, Doktrin Dosa Asal, dan Tabula Rasa.</sub></div>
 

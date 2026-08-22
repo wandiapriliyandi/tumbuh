@@ -71,7 +71,7 @@ graph LR
         I1["Akal adalah Pelayan Logis, namun Mahkota Tertinggi adalah KALBU (QALB) yang Menerima Petunjuk Wahyu Ilahi"]
     end
 
-    ModelPlato <---|DISTINGSI FUNDAMENTAL|---> ModelIslam
+    ModelPlato <-->|"Distingsi Fundamental"| ModelIslam
 ```
 <div align="center"><sub><b>Gambar 2.2.2:</b> Perbedaan Ontologis antara Rasionalisme Sekuler dan Psikospiritual Islam.</sub></div>
 
