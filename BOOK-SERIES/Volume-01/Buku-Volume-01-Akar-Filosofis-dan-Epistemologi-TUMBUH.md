@@ -2030,6 +2030,12 @@ Dengan mengintegrasikan sains kognitif modern ke dalam keagungan tradisi halaqah
 
 ---
 
+> [!NOTE]
+> ### 📌 Distingsi Mendasar: Ihtiram Guru vs Senioritas Feodal
+> Sebelum melangkah lebih jauh, kita wajib membedakan dua entitas yang berbeda secara diametral:
+> 1. **Takzim & Ihtiram kepada Guru/Kiai**: Merupakan keharusan syariat (*Adab al-Muta'allim ma'a Syaikhihi*) yang lahir dari cinta, keikhlasan batin, dan pengakuan atas sanad keilmuan yang mulia.
+> 2. **Senioritas Feodal Antar-Santri**: Merupakan relasi kuasa semu di mana santri yang lebih tua/tinggi tingkatannya menuntut ketundukan adik kelas melalui teror, ancaman, dan perundungan. Inilah yang didekonstruksi secara total dalam bab ini.
+
 ### Ilusi Ketundukan di Bawah Bayang-Bayang Otoriter
 
 Di sebagian pesantren tradisional, kita kerap menjumpai pemandangan yang sekilas tampak sangat memukau mata:
@@ -2140,7 +2146,11 @@ Dengan mendekonstruksi relasi kuasa asimetris dan menggantinya dengan Kepemimpin
 
 ---
 
-### Membongkar Salah Kaprah Terbesar tentang "Tawadhu'"
+> [!IMPORTANT]
+> ### 📌 Batasan Syar'i Mutlak: Ihtiram kepada Masyaikh adalah Fardhu Adab!
+> Ekosistem **TUMBUH** menegaskan garis batas yang sangat jernih: **Rasa hormat, takzim, dan tawadhu' yang tulus kepada para Kiai, Habaib, Masyaikh, dan Dewan Asatidz yang alim adalah Fardhu Adab (*Kewajiban Pokok*) penuntut ilmu yang menjadi kunci terbukanya pintu keberkahan ilmu dan futuhaniyyah**.
+> 
+> Kritik yang diangkat dalam bab ini **sama sekali tidak ditujukan untuk mengurangi rasa takzim santri kepada guru mulianya**, melainkan secara khusus membongkar **penyalahgunaan wewenang senioritas antar-sesama santri di asrama**, di mana oknum santri senior memaksakan ketundukan buta layaknya raja feodal kepada adik kelasnya.
 
 Salah satu distorsi konsep adab yang paling berbahaya dan kerap disalahpahami di dunia pesantren adalah **kerancuan antara Tawadhu' (Kerendahan Hati Sejati) dan Madzallah/Istikanah (Kehinaan Diri yang Tercela)**.
 

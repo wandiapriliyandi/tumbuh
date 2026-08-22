@@ -7,6 +7,12 @@
 
 ---
 
+> [!NOTE]
+> ### 📌 Distingsi Mendasar: Ihtiram Guru vs Senioritas Feodal
+> Sebelum melangkah lebih jauh, kita wajib membedakan dua entitas yang berbeda secara diametral:
+> 1. **Takzim & Ihtiram kepada Guru/Kiai**: Merupakan keharusan syariat (*Adab al-Muta'allim ma'a Syaikhihi*) yang lahir dari cinta, keikhlasan batin, dan pengakuan atas sanad keilmuan yang mulia.
+> 2. **Senioritas Feodal Antar-Santri**: Merupakan relasi kuasa semu di mana santri yang lebih tua/tinggi tingkatannya menuntut ketundukan adik kelas melalui teror, ancaman, dan perundungan. Inilah yang didekonstruksi secara total dalam bab ini.
+
 ### Ilusi Ketundukan di Bawah Bayang-Bayang Otoriter
 
 Di sebagian pesantren tradisional, kita kerap menjumpai pemandangan yang sekilas tampak sangat memukau mata:

@@ -7,7 +7,11 @@
 
 ---
 
-### Membongkar Salah Kaprah Terbesar tentang "Tawadhu'"
+> [!IMPORTANT]
+> ### 📌 Batasan Syar'i Mutlak: Ihtiram kepada Masyaikh adalah Fardhu Adab!
+> Ekosistem **TUMBUH** menegaskan garis batas yang sangat jernih: **Rasa hormat, takzim, dan tawadhu' yang tulus kepada para Kiai, Habaib, Masyaikh, dan Dewan Asatidz yang alim adalah Fardhu Adab (*Kewajiban Pokok*) penuntut ilmu yang menjadi kunci terbukanya pintu keberkahan ilmu dan futuhaniyyah**.
+> 
+> Kritik yang diangkat dalam bab ini **sama sekali tidak ditujukan untuk mengurangi rasa takzim santri kepada guru mulianya**, melainkan secara khusus membongkar **penyalahgunaan wewenang senioritas antar-sesama santri di asrama**, di mana oknum santri senior memaksakan ketundukan buta layaknya raja feodal kepada adik kelasnya.
 
 Salah satu distorsi konsep adab yang paling berbahaya dan kerap disalahpahami di dunia pesantren adalah **kerancuan antara Tawadhu' (Kerendahan Hati Sejati) dan Madzallah/Istikanah (Kehinaan Diri yang Tercela)**.
 
