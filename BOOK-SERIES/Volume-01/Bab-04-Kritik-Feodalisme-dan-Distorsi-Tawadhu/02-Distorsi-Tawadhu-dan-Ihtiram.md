@@ -78,7 +78,7 @@ Penerapan di pesantren:
 
 ---
 
-### V. Sintesis Etis Sub-Bab 4.2
+### Sintesis Etis Sub-Bab 4.2
 
 Tawadhu' sejati tidak pernah melahirkan jiwa pengecut, melainkan melahirkan pahlawan peradaban yang berakhlak mulia.
 

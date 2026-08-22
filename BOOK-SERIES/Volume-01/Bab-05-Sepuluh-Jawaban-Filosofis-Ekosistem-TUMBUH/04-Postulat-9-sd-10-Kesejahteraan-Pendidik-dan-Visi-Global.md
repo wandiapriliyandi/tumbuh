@@ -46,7 +46,7 @@ Sistem TUMBUH menatap masa depan peradaban dengan penuh optimisme:
 
 ---
 
-### IV. Sintesis Sub-Bab 5.4
+### Sintesis Sub-Bab 5.4
 
 Dengan menjaga kesejahteraan para pembina di garis depan dan memancangkan visi peradaban yang agung, Sistem TUMBUH memastikan bahwa pesantren akan terus berdiri kokoh sebagai mercusuar moral umat sepanjang masa.
 

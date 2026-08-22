@@ -93,7 +93,7 @@ graph TD
 
 ---
 
-### V. Sintesis Operasional Sub-Bab 3.3
+### Sintesis Operasional Sub-Bab 3.3
 
 Membangun karakter adab membutuhkan kesabaran saintifik selama 66 hari.
 

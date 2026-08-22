@@ -57,7 +57,7 @@ Sistem TUMBUH merevolusi makna disiplin dari "hukuman balas dendam" menjadi "pro
 
 ---
 
-### V. Sintesis Operasional Sub-Bab 5.2
+### Sintesis Operasional Sub-Bab 5.2
 
 Tiga postulat operasional ini memastikan bahwa sistem pembinaan karakter di pesantren berjalan secara ilmiah, manusiawi, dan selaras dengan sunnah nabawi.
 

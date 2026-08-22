@@ -51,7 +51,7 @@ Melalui sinergi tanpa sekat ini, terwujudlah impian agung **Triad Pertumbuhan Si
 
 ---
 
-### IV. Sintesis Pamungkas Bab 06
+### Sintesis Pamungkas Bab 06
 
 Triad Pertumbuhan Simbiotik adalah bukti nyata bahwa mendidik adab bukanlah beban kerja seorang individu, melainkan gerakan kebersamaan seluruh ekosistem.
 

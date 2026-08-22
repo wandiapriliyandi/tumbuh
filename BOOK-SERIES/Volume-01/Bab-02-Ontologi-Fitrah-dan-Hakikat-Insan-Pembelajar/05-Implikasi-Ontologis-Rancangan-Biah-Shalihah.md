@@ -83,7 +83,7 @@ Setiap sudut kamar, serambi masjid, dan pelataran kelas dirancang secara sadar u
 
 ---
 
-### V. Sintesis Ekologis Sub-Bab 2.5
+### Sintesis Ekologis Sub-Bab 2.5
 
 Lingkungan adalah guru yang tidak pernah berhenti mengajar. Ketika kita memuliakan lingkungan asrama santri dengan kebersihan, penerangan yang terang, dan budaya kasih sayang tanpa kekerasan, maka sesungguhnya kita sedang memuliakan fitrah ilahiah yang dititipkan Allah di dalam dada mereka.
 

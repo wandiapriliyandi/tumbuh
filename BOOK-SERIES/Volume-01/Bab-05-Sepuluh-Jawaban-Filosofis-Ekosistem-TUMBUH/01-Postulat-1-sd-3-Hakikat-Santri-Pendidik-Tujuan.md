@@ -62,7 +62,7 @@ Tujuan akhir pendidikan pesantren bukanlah sekadar mencetak juara lomba hafalan 
 
 ---
 
-### V. Sintesis Filosofis Sub-Bab 5.1
+### Sintesis Filosofis Sub-Bab 5.1
 
 Dengan memancangkan tiga postulat fondasional ini, Sistem TUMBUH meletakkan arah kiblat yang tidak akan pernah goyah: memuliakan santri sebagai amanah fitrah, mendudukkan pendidik sebagai teladan cinta nabawi, dan mengarahkan seluruh denyut pesantren menuju lahirnya kader peradaban adab.
 

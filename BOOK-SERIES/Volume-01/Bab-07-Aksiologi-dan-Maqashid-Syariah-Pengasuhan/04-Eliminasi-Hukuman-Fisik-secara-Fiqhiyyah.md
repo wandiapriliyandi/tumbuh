@@ -58,7 +58,7 @@ Oleh karena itu, secara fiqih kontemporer dan maqashid syari'ah, **HUKUMAN FISIK
 
 ---
 
-### IV. Sintesis Fiqhiyyah Sub-Bab 7.4
+### Sintesis Fiqhiyyah Sub-Bab 7.4
 
 Menghapus hukuman fisik bukanlah bentuk "tunduk pada barat", melainkan **manifestasi ketaatan murni kepada sunnah Rasulullah SAW yang tidak pernah sekalipun memukul anak kecil sepanjang hayat beliau**.
 

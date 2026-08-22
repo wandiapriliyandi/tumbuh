@@ -46,7 +46,7 @@ Kami meyakini dan menegakkan dengan sepenuh hati:
 
 ---
 
-### III. Sintesis Pamungkas Bab 05
+### Sintesis Pamungkas Bab 05
 
 Sepuluh postulat ini bukanlah deretan teori yang membeku di atas kertas, melainkan **kompas jiwa dan cetak biru peradaban** yang menuntun seluruh transformasi nyata di bumi pesantren.
 

@@ -47,7 +47,7 @@ Dalam Sistem TUMBUH, seluruh kebijakan pondok disusun berdasarkan hierarki Maqas
 
 ---
 
-### III. Sintesis Aksiologis Sub-Bab 7.1
+### Sintesis Aksiologis Sub-Bab 7.1
 
 Seluruh sistem pengasuhan di pesantren harus bermuara pada satu tujuan: memuliakan kemaslahatan santri dunia dan akhirat.
 

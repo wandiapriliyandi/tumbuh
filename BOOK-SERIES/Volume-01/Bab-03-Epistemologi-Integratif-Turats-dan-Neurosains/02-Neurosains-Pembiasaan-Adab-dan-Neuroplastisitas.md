@@ -87,7 +87,7 @@ Penerapan di pesantren:
 
 ---
 
-### V. Sintesis Neuro-Pedagogis Sub-Bab 3.2
+### Sintesis Neuro-Pedagogis Sub-Bab 3.2
 
 Otak santri adalah anugerah Allah yang luar biasa fleksibel untuk dibentuk menjadi insan mulia.
 

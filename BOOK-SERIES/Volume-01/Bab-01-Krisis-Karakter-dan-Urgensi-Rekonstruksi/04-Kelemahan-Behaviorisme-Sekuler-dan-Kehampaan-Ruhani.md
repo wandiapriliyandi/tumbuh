@@ -144,7 +144,7 @@ Penerapan pilar sistemik di lapangan:
 
 ---
 
-### VII. Sintesis Aksiologis Sub-Bab 1.4
+### Sintesis Aksiologis Sub-Bab 1.4
 
 Tujuan akhir pendidikan karakter bukanlah keteraturan raga yang mekanistik, melainkan terbangunnya jiwa yang merdeka dan ikhlas beramal semata-mata karena Allah Ta'ala.
 

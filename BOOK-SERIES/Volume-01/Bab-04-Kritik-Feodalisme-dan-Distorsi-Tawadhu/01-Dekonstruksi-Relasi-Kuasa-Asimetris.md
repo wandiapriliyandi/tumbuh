@@ -84,7 +84,7 @@ Penerapan di pesantren:
 
 ---
 
-### V. Sintesis Sosiologis Sub-Bab 4.1
+### Sintesis Sosiologis Sub-Bab 4.1
 
 Pesantren didirikan untuk mencetak kesatria umat yang berjiwa merdeka dan bertauhid murni, bukan pabrik pembudakan mental.
 

@@ -105,7 +105,7 @@ Ekosistem **TUMBUH** melarang pendekatan seragam yang memukul rata seluruh santr
 
 ---
 
-### VI. Sintesis Perkembangan Jiwa Sub-Bab 2.3
+### Sintesis Perkembangan Jiwa Sub-Bab 2.3
 
 Dengan memahami gradasi tingkatan jiwa ini, musyrif tidak lagi memandang santri yang bersalah sebagai "musuh yang harus dihajar", melainkan sebagai **jiwa pembelajar yang sedang berjuang mendaki tangga kemuliaan adab**.
 

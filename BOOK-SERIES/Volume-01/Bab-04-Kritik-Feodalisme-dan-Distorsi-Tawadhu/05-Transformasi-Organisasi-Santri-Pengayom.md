@@ -67,7 +67,7 @@ Organisasi santri dalam Sistem TUMBUH tidak berjalan sendiri tanpa kendali:
 
 ---
 
-### V. Sintesis Kelembagaan Sub-Bab 4.5
+### Sintesis Kelembagaan Sub-Bab 4.5
 
 Organisasi santri adalah laboratorium peradaban di mana anak-anak kita belajar arti sejati dari kepemimpinan Islam: memimpin adalah melayani, membimbing adalah menyayangi, dan berorganisasi adalah ladang untuk menebar manfaat bagi sesama (*Khairunnaas anfa'uhum linnaas*).
 

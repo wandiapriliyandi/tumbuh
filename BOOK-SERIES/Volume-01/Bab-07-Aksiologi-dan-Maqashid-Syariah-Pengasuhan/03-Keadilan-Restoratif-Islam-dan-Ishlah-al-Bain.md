@@ -50,7 +50,7 @@ graph TD
 
 ---
 
-### III. Sintesis Restoratif Sub-Bab 7.3
+### Sintesis Restoratif Sub-Bab 7.3
 
 Keadilan sejati dalam Islam bukanlah membalas luka dengan luka, melainkan memulihkan hubungan persaudaraan dan membimbing jiwa kembali kepada jalan fitrah.
 

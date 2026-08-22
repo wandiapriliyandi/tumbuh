@@ -158,7 +158,7 @@ Langkah konkret Sistem TUMBUH di lapangan:
 
 ---
 
-### VII. Sintesis Sosiologis Sub-Bab 1.2
+### Sintesis Sosiologis Sub-Bab 1.2
 
 Kekerasan dan feodalisme bukanlah tradisi luhur pesantren, melainkan residu kebiasaan buruk yang menyusup ke dalam lembaga pendidikan.
 

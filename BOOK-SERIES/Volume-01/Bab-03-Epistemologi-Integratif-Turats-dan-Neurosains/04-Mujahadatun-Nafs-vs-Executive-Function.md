@@ -84,7 +84,7 @@ graph TD
 
 ---
 
-### V. Sintesis Integratif Sub-Bab 3.4
+### Sintesis Integratif Sub-Bab 3.4
 
 *Mujahadatun Nafs* adalah jihad spiritual seumur hidup, dan *Executive Function* adalah anugerah biologis Allah untuk memenangkan jihad tersebut.
 

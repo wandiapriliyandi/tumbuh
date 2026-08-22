@@ -78,7 +78,7 @@ graph LR
 
 ---
 
-### V. Sintesis Kepemimpinan Sub-Bab 4.4
+### Sintesis Kepemimpinan Sub-Bab 4.4
 
 Kekuasaan sejati bukanlah diukur dari seberapa banyak orang yang takut kepadamu, melainkan dari seberapa banyak orang yang merasa aman, terbimbing, dan dicintai di bawah kepemimpinanmu.
 

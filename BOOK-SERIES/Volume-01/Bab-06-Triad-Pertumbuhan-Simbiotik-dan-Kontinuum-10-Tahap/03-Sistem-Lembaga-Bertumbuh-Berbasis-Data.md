@@ -58,7 +58,7 @@ graph LR
 
 ---
 
-### IV. Sintesis Kelembagaan Sub-Bab 6.3
+### Sintesis Kelembagaan Sub-Bab 6.3
 
 Sebuah lembaga yang bertumbuh adalah lembaga yang rendah hati untuk terus belajar dari data faktual lapangannya sendiri.
 

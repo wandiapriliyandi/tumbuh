@@ -145,7 +145,7 @@ Penerapan prinsip fitrah ini di pesantren:
 
 ---
 
-### VII. Sintesis Ontologis Sub-Bab 2.1
+### Sintesis Ontologis Sub-Bab 2.1
 
 Pendidikan karakter sejati bukanlah memaksakan kepatuhan semu dari luar lewat rasa takut, melainkan **membangunkan kembali cahaya fitrah ketuhanan yang telah bersemayam di dalam kalbu setiap santri**.
 

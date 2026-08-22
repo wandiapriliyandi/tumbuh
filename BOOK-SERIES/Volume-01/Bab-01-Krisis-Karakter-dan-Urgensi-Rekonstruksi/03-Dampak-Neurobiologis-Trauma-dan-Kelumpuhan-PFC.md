@@ -167,7 +167,7 @@ Penerapan protokol sistemik di lapangan:
 
 ---
 
-### VII. Sintesis Neuro-Edukasi Sub-Bab 1.3
+### Sintesis Neuro-Edukasi Sub-Bab 1.3
 
 Kita tidak bisa menuntut kemuliaan adab dari santri yang otaknya sedang ketakutan dan berjuang menyelamatkan diri.
 

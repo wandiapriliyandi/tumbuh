@@ -79,7 +79,7 @@ Bagaimana Sistem TUMBUH mengintegrasikan Ta'lim, Tarbiyah, dan Ta'dib dalam kese
 
 ---
 
-### V. Sintesis Pedagogis Sub-Bab 2.4
+### Sintesis Pedagogis Sub-Bab 2.4
 
 Dengan merekonstruksi kedudukan *Ta'dib* sebagai mahkota tertinggi pendidikan Islam, Sistem TUMBUH menyatukan kembali akal yang cerdas, raga yang kuat, dan kalbu yang beradab. 
 

@@ -44,7 +44,7 @@ Menjamin sistem pesantren bertumbuh menjadi organisasi pembelajar berbasis data 
 
 ---
 
-### III. Sintesis Trajektori Sub-Bab 6.4
+### Sintesis Trajektori Sub-Bab 6.4
 
 Kontinuum 10-Tahap ini adalah jaminan bahwa setiap detik kehidupan santri di pesantren berada dalam orbit pendidikan yang terarah, terukur, dan bermartabat.
 

@@ -120,7 +120,7 @@ graph TD
 
 ---
 
-### VI. Sintesis Psiko-Spiritual Sub-Bab 2.2
+### Sintesis Psiko-Spiritual Sub-Bab 2.2
 
 Manusia bukanlah hewan refleks yang digerakkan materi, bukan pula robot kognitif tanpa rasa. Manusia adalah mahakarya ciptaan Allah yang memadukan kesucian ruh, kelembutan kalbu, kecemerlangan akal, dan daya hidup nafs.
 

@@ -61,7 +61,7 @@ Ekosistem TUMBUH menetapkan tiga aturan kelembagaan untuk melindungi musyrif:
 
 ---
 
-### IV. Sintesis Kesejahteraan Sub-Bab 6.2
+### Sintesis Kesejahteraan Sub-Bab 6.2
 
 Merawat kesejahteraan jiwa dan raga para musyrif adalah investasi peradaban yang paling mulia di pesantren.
 

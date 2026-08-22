@@ -45,7 +45,7 @@ Dalam Sistem TUMBUH, ketika seorang santri melanggar aturan (seperti terlambat a
 
 ---
 
-### IV. Sintesis Ekologis-Restoratif Sub-Bab 5.3
+### Sintesis Ekologis-Restoratif Sub-Bab 5.3
 
 Lingkungan yang aman melahirkan jiwa yang berani jujur mengakui kesalahan. 
 

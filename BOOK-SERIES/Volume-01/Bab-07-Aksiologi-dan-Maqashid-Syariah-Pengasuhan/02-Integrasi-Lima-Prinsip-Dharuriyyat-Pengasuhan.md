@@ -39,7 +39,7 @@ graph TD
 
 ---
 
-### III. Sintesis Sub-Bab 7.2
+### Sintesis Sub-Bab 7.2
 
 Panca Darurat (*Dharuriyyat Khamsah*) adalah konstitusi perlindungan santri yang tidak boleh dilanggar dengan dalih apa pun. 
 

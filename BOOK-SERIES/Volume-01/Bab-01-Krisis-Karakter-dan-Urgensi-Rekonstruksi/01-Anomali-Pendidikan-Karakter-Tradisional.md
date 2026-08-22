@@ -220,7 +220,7 @@ Kelima pilar sistemik ini bekerja serempak di lapangan:
 
 ---
 
-### VII. Sintesis Epistemologis Sub-Bab 1.1
+### Sintesis Epistemologis Sub-Bab 1.1
 
 Kegagalan pendidikan karakter di pesantren selama ini bukanlah karena kelemahan isi kitab adab, melainkan karena ketiadaan jembatan pengasuhan antara ruang kelas dan kamar tidur santri.
 

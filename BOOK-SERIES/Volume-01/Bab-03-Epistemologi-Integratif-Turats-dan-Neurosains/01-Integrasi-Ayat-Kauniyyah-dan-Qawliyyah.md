@@ -88,7 +88,7 @@ Setiap SOP pengasuhan di asrama TUMBUH selalu memenuhi dua syarat mutlak:
 
 ---
 
-### V. Sintesis Epistemologis Sub-Bab 3.1
+### Sintesis Epistemologis Sub-Bab 3.1
 
 Menyatukan ayat Qawliyyah dan Kauniyyah adalah langkah awal membangkitkan kembali kejayaan peradaban pesantren. 
 

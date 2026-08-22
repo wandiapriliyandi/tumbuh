@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-### V. Sintesis Kultural Sub-Bab 4.3
+### Sintesis Kultural Sub-Bab 4.3
 
 Kehormatan seorang mukmin lebih mulia di sisi Allah daripada kemuliaan Ka'bah. Menjaga perasaan dan martabat adik kelas adalah kewajiban adab yang mutlak.
 

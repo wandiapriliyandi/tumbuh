@@ -74,7 +74,7 @@ Dengan siklus 4-tahap ini, kelas pesantren menjadi medan belajar yang sangat hid
 
 ---
 
-### V. Sintesis Didaktik Sub-Bab 3.5
+### Sintesis Didaktik Sub-Bab 3.5
 
 Mengajar adab dan ilmu syariat adalah seni memuliakan fitrah akal manusia.
 
