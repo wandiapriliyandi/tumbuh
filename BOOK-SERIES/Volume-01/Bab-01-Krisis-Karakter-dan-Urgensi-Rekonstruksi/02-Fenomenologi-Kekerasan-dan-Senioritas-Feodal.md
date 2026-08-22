@@ -9,7 +9,7 @@
 
 ### I. Pintu Masuk: Jeritan Sunyi di Bilik Asrama Malam Hari
 
-Tatkala lonceng malam berdentang menandakan jam tidur dan lampu-lampu utama pesantren mulai dipadamkan, sebuah dunia yang sunyi dan mencekam kerap kali baru saja dimulai bagi sebagian anak-anak kita.
+Ketika lonceng malam berdentang menandakan jam tidur dan lampu-lampu utama pesantren mulai dipadamkan, sebuah dunia yang sunyi dan mencekam kerap kali baru saja dimulai bagi sebagian anak-anak kita.
 
 Di balik pintu-pintu bilik yang terkunci rapat, di sudut lorong jemuran yang gelap, atau di aula yang tersembunyi dari pantauan para kiai, sekelompok santri baru dikumpulkan dalam suasana penuh ketegangan. Mata mereka dipaksa menatap lantai, tubuh mereka gemetar menahan dingin dan kantuk, sementara suara bentakan keras dari santri senior menggelegar memecah kesunyian malam. Satu per satu kesalahan kecil—seperti peci yang miring, terlambat beberapa detik saat antre makan, atau tatapan mata yang dianggap "kurang menunduk"—diadili layaknya kejahatan besar di hadapan mahkamah rimba.
 

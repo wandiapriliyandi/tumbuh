@@ -9,7 +9,7 @@
 
 ### I. Pintu Masuk: Karakter adalah Perjalanan Menapaki Anak Tangga
 
-Sering kali kita menuntut hasil instan dari seorang santri: baru satu bulan masuk pondok, kita sudah mengharapkan ia bersikap sesaleh santri yang sudah belajar lima tahun. Tatkala anak belum mampu, kita langsung melabelinya sebagai "santri bermasalah".
+Sering kali kita menuntut hasil instan dari seorang santri: baru satu bulan masuk pondok, kita sudah mengharapkan ia bersikap sesaleh santri yang sudah belajar lima tahun. Ketika anak belum mampu, kita langsung melabelinya sebagai "santri bermasalah".
 
 Sistem **TUMBUH** menegaskan bahwa pertumbuhan adab adalah sebuah **proses menapaki anak tangga kapasitas secara bertahap (*Graduated Capacity Ladder*)**:
 

@@ -9,9 +9,9 @@
 
 ### I. Pintu Masuk: Jejak Cahaya di Lubuk Jiwa Setiap Santri
 
-Pernahkah kita merenungkan sebuah keajaiban batin yang terjadi tatkala seorang santri baru melangkah melewati pintu gerbang pondok?
+Pernahkah kita merenungkan sebuah keajaiban batin yang terjadi Ketika seorang santri baru melangkah melewati pintu gerbang pondok?
 
-Di dalam dadanya, anak itu tidak datang dengan kekosongan mutlak tanpa arah. Jauh di kedalaman jiwanya yang paling hening, tersimpan sebuah kompas batin yang tak kasat mata: kerinduan alami kepada kebenaran, rasa kagum pada kebaikan, rasa bersalah tatkala berbuat zalim, dan getaran cinta kepada Sang Pencipta.
+Di dalam dadanya, anak itu tidak datang dengan kekosongan mutlak tanpa arah. Jauh di kedalaman jiwanya yang paling hening, tersimpan sebuah kompas batin yang tak kasat mata: kerinduan alami kepada kebenaran, rasa kagum pada kebaikan, rasa bersalah Ketika berbuat zalim, dan getaran cinta kepada Sang Pencipta.
 
 Pendidikan Islam tidak pernah memandang santri sebagai "kertas putih kosong" yang pasif, apalagi memandangnya sebagai "makhluk kotor pembawa dosa warisan" yang harus ditaklukkan dengan pentungan. Di dalam pandangan teologi Islam, setiap anak manusia lahir membawa **Kesucian Primordial (*Fitrah al-Munazzalah*)**—sebuah cetak biru keluhuran moral yang telah dipatri langsung oleh Allah SWT sejak di alam arwah.
 

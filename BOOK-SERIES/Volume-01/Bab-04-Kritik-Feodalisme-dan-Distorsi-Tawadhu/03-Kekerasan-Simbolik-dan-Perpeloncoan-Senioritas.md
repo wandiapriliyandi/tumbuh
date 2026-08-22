@@ -17,7 +17,7 @@ Kerap kali, kekerasan menyusup dalam bentuk yang jauh lebih halus, tidak berdara
 * Mengambil jatah lauk makan atau kiriman uang saku junior secara paksa (*palak halus*).
 * Menyembunyikan kitab atau barang pribadi santri baru untuk dijadikan bahan tertawaan bersama di kamar.
 
-Tatkala korban menangis atau mengadu, para pelaku penindas membela diri dengan enteng: *"Ah, ustadz, kami cuma bercanda kok! Mereka saja yang baperan dan lembek!"*
+Ketika korban menangis atau mengadu, para pelaku penindas membela diri dengan enteng: *"Ah, ustadz, kami cuma bercanda kok! Mereka saja yang baperan dan lembek!"*
 
 Sosiolog Prancis **Pierre Bourdieu**[^1] menyebut fenomena beracun ini sebagai **Kekerasan Simbolik (*Symbolic Violence*)**: yaitu bentuk penindasan tak kasat mata di mana korban dipaksa menerima dominasi pelaku sebagai sesuatu yang "wajar dan alami", hingga korban akhirnya menyalahkan dirinya sendiri atas penderitaan yang ia alami.
 

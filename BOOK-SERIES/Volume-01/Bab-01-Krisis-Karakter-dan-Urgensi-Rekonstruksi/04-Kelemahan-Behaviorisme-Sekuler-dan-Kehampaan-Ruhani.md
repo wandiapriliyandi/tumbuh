@@ -55,7 +55,7 @@ graph LR
 ```
 <div align="center"><sub><b>Gambar 1.4.2:</b> Alur Reduksionisme Behaviorisme Sekuler dan Erosi Keikhlasan Beramal Santri.</sub></div>
 
-Ketika sistem ini diterapkan pada santri, bahayanya sangat nyata: santri dididik menjadi materialistis (*"Berapa poin yang saya dapat jika menyapu masjid ini?"*), nilai kesucian ibadah tercemar oleh riya' dan pemburuan pujian manusia, dan amal saleh akan mati seketika tatkala hadiah tidak lagi dibagikan.
+Ketika sistem ini diterapkan pada santri, bahayanya sangat nyata: santri dididik menjadi materialistis (*"Berapa poin yang saya dapat jika menyapu masjid ini?"*), nilai kesucian ibadah tercemar oleh riya' dan pemburuan pujian manusia, dan amal saleh akan mati seketika Ketika hadiah tidak lagi dibagikan.
 
 ---
 
@@ -92,7 +92,7 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 1.4.3:</b> Kontinuum Spektrum Regulasi Motivasi: Dari Ketergantungan Eksternal Menuju Kesadaran Muraqabatullah.</sub></div>
 
-Tingkat 1 (takut rotan/berburu stiker) adalah level kepatuhan hewani. Puncak pembinaan karakter santri yang sesungguhnya berada di **Tingkat 5 (*Muraqabatullah*)**: yaitu tatkala santri bangun shalat tahajjud di keheningan malam dan menjaga kebersihan asrama murni karena merasakan kenikmatan beribadah kepada Allah SWT (*Halaawatul Iman*), tanpa peduli apakah ada guru yang melihatnya atau tidak.
+Tingkat 1 (takut rotan/berburu stiker) adalah level kepatuhan hewani. Puncak pembinaan karakter santri yang sesungguhnya berada di **Tingkat 5 (*Muraqabatullah*)**: yaitu Ketika santri bangun shalat tahajjud di keheningan malam dan menjaga kebersihan asrama murni karena merasakan kenikmatan beribadah kepada Allah SWT (*Halaawatul Iman*), tanpa peduli apakah ada guru yang melihatnya atau tidak.
 
 ---
 
@@ -107,7 +107,7 @@ Di sinilah letak keagungan ajaran Islam. Jauh sebelum para psikolog Barat merumu
 > 
 > **Artinya:**  
 > *"Hakikat **Ikhlas adalah memurnikan niat mendekatkan diri kepada Allah dari segala campuran pamrih lain**.*  
-> *Tatkala suatu amal telah tercampur oleh pamrih duniawi—seperti mengejar pujian manusia (*riya'*), mengejar keuntungan materiil (*token hadiah*), atau sekadar menghindari celaan—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi **syirik tersembunyi yang menggugurkan seluruh pahala di sisi Allah!**"*
+> *Ketika suatu amal telah tercampur oleh pamrih duniawi—seperti mengejar pujian manusia (*riya'*), mengejar keuntungan materiil (*token hadiah*), atau sekadar menghindari celaan—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi **syirik tersembunyi yang menggugurkan seluruh pahala di sisi Allah!**"*
 
 > [!NOTE]
 > ### 📜 Tamsil Indah Ibn al-Qayyim al-Jawziyyah dalam *Al-Fawa'id*:[^5]
@@ -148,7 +148,7 @@ Penerapan pilar sistemik di lapangan:
 
 Tujuan akhir pendidikan karakter bukanlah keteraturan raga yang mekanistik, melainkan terbangunnya jiwa yang merdeka dan ikhlas beramal semata-mata karena Allah Ta'ala.
 
-Dengan mengganti sistem token transaksional dengan Apresiasi Relasional dan Tazkiyatun Niyyah, Sistem TUMBUH membimbing santri mendaki tangga motivasi hingga mencapai puncak **Muraqabatullah**: berakhlak mulia di keramaian maupun dalam kesendirian, menjaga integritas di pondok maupun tatkala telah berbaur di tengah masyarakat luas.
+Dengan mengganti sistem token transaksional dengan Apresiasi Relasional dan Tazkiyatun Niyyah, Sistem TUMBUH membimbing santri mendaki tangga motivasi hingga mencapai puncak **Muraqabatullah**: berakhlak mulia di keramaian maupun dalam kesendirian, menjaga integritas di pondok maupun Ketika telah berbaur di tengah masyarakat luas.
 
 ---
 

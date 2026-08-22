@@ -41,7 +41,7 @@ graph TD
 
 ### 2. Khazanah Hadits: Kisah Pembunuh 100 Nyawa
 
-Pentingnya rekayasa lingkungan ditegaskan oleh Rasulullah SAW dalam kisah masyhur tentang seorang lelaki Bani Israil yang membunuh 99 orang lalu menggenapkannya menjadi 100 orang. Tatkala ia bertanya kepada seorang ulama yang bijak tentang pintu taubat, sang ulama tidak hanya menyuruhnya beristighfar, melainkan memerintahkannya untuk **segera berpindah lingkungan (*Hijrah Bi'ah*)**:
+Pentingnya rekayasa lingkungan ditegaskan oleh Rasulullah SAW dalam kisah masyhur tentang seorang lelaki Bani Israil yang membunuh 99 orang lalu menggenapkannya menjadi 100 orang. Ketika ia bertanya kepada seorang ulama yang bijak tentang pintu taubat, sang ulama tidak hanya menyuruhnya beristighfar, melainkan memerintahkannya untuk **segera berpindah lingkungan (*Hijrah Bi'ah*)**:
 
 > $$\text{انْطَلِقْ إِلَى أَرْضِ كَذَا وَكَذَا، فَإِنَّ بِهَا أُنَاسًا يَعْبُدُونَ اللَّهَ فَاعْبُدِ اللَّهَ مَعَهُمْ، وَلَا تَرْجِعْ إِلَى أَرْضِكَ فَإِنَّهَا أَرْضُ سُوءٍ}$$
 > 

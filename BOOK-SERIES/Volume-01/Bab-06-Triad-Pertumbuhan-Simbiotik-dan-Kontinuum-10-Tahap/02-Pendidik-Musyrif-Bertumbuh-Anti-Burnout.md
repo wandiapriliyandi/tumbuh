@@ -13,7 +13,7 @@ Di banyak pesantren, sosok musyrif asrama kerap menjadi pahlawan yang paling ter
 
 Mereka bangun paling awal sebelum subuh dan tidur paling larut setelah jam malam. Mereka harus mengurus puluhan santri yang menangis rindu rumah, melerai perselisihan kamar, membersihkan santri yang sakit, sembari tetap dituntut untuk selalu tersenyum ramah dan sabar selama 24 jam penuh tanpa henti. 
 
-Tatkala tidak ada sistem pembagian shift kerja yang manusiawi dan tidak ada pelatihan manajemen emosi, musyrif perlahan-lahan mengalami **Kelelahan Kronis Total (*Burnout Syndrome*)**[^1]. 
+Ketika tidak ada sistem pembagian shift kerja yang manusiawi dan tidak ada pelatihan manajemen emosi, musyrif perlahan-lahan mengalami **Kelelahan Kronis Total (*Burnout Syndrome*)**[^1]. 
 
 Akibatnya fatal: musyrif yang kelelahan kehilangan kesabaran batinnya, menjadi mudah meledak amarahnya, dan akhirnya melampiaskan stresnya kepada santri melalui bentakan atau pukulan fisik!
 

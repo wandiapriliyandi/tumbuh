@@ -42,7 +42,7 @@ Bagan diagnosis di atas memetakan bagaimana kekosongan pengawasan musyrif dewasa
 ## 🔍 KASUS 2: Santri Juara Tahfizh yang Terjebak dalam Budaya 'Ghashab'
 
 ### 1. Deskripsi Peristiwa (Fakta Lapangan)
-Santri A (usia 15 tahun, kelas 9) adalah santri berprestasi tinggi yang telah menghafal 15 Juz Al-Qur'an dan meraih nilai tertinggi dalam ujian kitab fiqh. Namun, di dalam asrama, Santri A terbiasa mengambil sandal, gayung, dan sajadah santri lain tanpa izin (*ghashab*), dengan alasan bahwa "di pondok semuanya milik bersama". Tatkala ditegur oleh temannya, Santri A berdalih dengan mengutip potongan kaidah fiqh secara keliru dan merasa dirinya tidak bersalah karena prestasinya yang tinggi diakui oleh para ustadz.
+Santri A (usia 15 tahun, kelas 9) adalah santri berprestasi tinggi yang telah menghafal 15 Juz Al-Qur'an dan meraih nilai tertinggi dalam ujian kitab fiqh. Namun, di dalam asrama, Santri A terbiasa mengambil sandal, gayung, dan sajadah santri lain tanpa izin (*ghashab*), dengan alasan bahwa "di pondok semuanya milik bersama". Ketika ditegur oleh temannya, Santri A berdalih dengan mengutip potongan kaidah fiqh secara keliru dan merasa dirinya tidak bersalah karena prestasinya yang tinggi diakui oleh para ustadz.
 
 ```mermaid
 graph LR

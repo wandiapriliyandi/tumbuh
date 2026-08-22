@@ -56,7 +56,7 @@ Sains kognitif modern[^1] membuktikan bahwa kemampuan santri menjalankan adab be
 
 Pakar psikologi sosial **Roy Baumeister**[^2] menemukan fakta ilmiah penting yang sering diabaikan pengasuh pondok: **daya pengendalian diri (*willpower*) ibarat energi otot yang bisa mengalami kelelahan (*Ego Depletion*)**.
 
-Tatkala seorang santri dipaksa belajar dari pagi hingga larut malam tanpa jeda istirahat, kurang tidur, dan kelaparan, cadangan glukosa dan energi di Korteks Prefrontalnya habis terkuras. Akibatnya biologisnya: **santri kehilangan kemampuan mengendalikan diri (*loss of inhibitory control*)**, sehingga di malam hari anak menjadi sangat mudah marah, menangis histeris, atau berkelahi dengan kawan sekamarnya.
+Ketika seorang santri dipaksa belajar dari pagi hingga larut malam tanpa jeda istirahat, kurang tidur, dan kelaparan, cadangan glukosa dan energi di Korteks Prefrontalnya habis terkuras. Akibatnya biologisnya: **santri kehilangan kemampuan mengendalikan diri (*loss of inhibitory control*)**, sehingga di malam hari anak menjadi sangat mudah marah, menangis histeris, atau berkelahi dengan kawan sekamarnya.
 
 > [!CAUTION]
 > ### ⚠️ Pelajaran Penting bagi Jadwal Pesantren:

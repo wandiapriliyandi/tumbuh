@@ -21,7 +21,7 @@ Perumpamaan agung yang ditulis oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'U
 > $$\text{إِذَا اسْتَعَانَ الْمَلِكُ بِوَزِيرِهِ، وَقَهَرَ الْعَبْدَ وَصَاحِبَ الشُّرْطَةِ وَجَعَلَهُمَا تَحْتَ إِشَارَةِ الْوَزِيرِ، صَلَحَتْ أَحْوَالُ الْمَمْلَكَةِ وَعَمَّ الْعَدْلُ}$$
 > 
 > **Artinya:**  
-> *"Tatkala sang Raja (Kalbu) senantiasa meminta nasihat kepada Perdana Menterinya (Akal), serta menundukkan sang Pelayan (Syahwat) dan Panglima Polisi (Amarah) di bawah arahan sang Perdana Menteri, niscaya makmurlah negeri jiwa itu dan tegaklah keadilan.*  
+> *"Ketika sang Raja (Kalbu) senantiasa meminta nasihat kepada Perdana Menterinya (Akal), serta menundukkan sang Pelayan (Syahwat) dan Panglima Polisi (Amarah) di bawah arahan sang Perdana Menteri, niscaya makmurlah negeri jiwa itu dan tegaklah keadilan.*  
 > *Namun, apabila sang Pelayan atau sang Polisi memberontak dan menawan sang Raja, niscaya hancurlah negeri jiwa itu dan binasalah seluruh rakyatnya!"*
 
 ```mermaid
@@ -94,7 +94,7 @@ graph TD
 Fakta ilmiah membuktikan:
 1. **Otak Kecil di Jantung (*The Little Brain in the Heart*)**: Jantung manusia memiliki lebih dari 40.000 sel neuron sensorik yang mampu memproses emosi dan menghasilkan hormon independen dari otak kepala.
 2. **Sinyal dari Jantung ke Otak**: Terdapat lebih banyak kabel saraf yang mengirimkan sinyal dari jantung menuju otak dibanding sebaliknya.
-3. **Koherensi Jantung-Otak**: Tatkala santri berdzikir dengan khusyuk dan merasakan keikhlasan (*Qalb Salim*), detak jantung membentuk gelombang ritmis yang sangat halus (koheren). Sinyal ketenangan ini dikirim ke otak depan (*PFC*), yang seketika meningkatkan daya konsentrasi menghafal Al-Qur'an dan menstabilkan emosi santri.
+3. **Koherensi Jantung-Otak**: Ketika santri berdzikir dengan khusyuk dan merasakan keikhlasan (*Qalb Salim*), detak jantung membentuk gelombang ritmis yang sangat halus (koheren). Sinyal ketenangan ini dikirim ke otak depan (*PFC*), yang seketika meningkatkan daya konsentrasi menghafal Al-Qur'an dan menstabilkan emosi santri.
 
 ---
 

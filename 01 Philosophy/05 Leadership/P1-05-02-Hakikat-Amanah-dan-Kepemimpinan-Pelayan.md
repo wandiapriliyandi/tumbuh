@@ -21,7 +21,7 @@
 
 Dalam peradaban Islam, jabatan kepemimpinan (*Imarah / Ri'asah*) dipandang bukan sebagai kehormatan (*Tasyreef*) yang diperebutkan untuk meraup fasilitas duniawi, melainkan sebagai **Amanah Beban Pertanggungjawaban (*Takleef*)** yang menuntut pertanggungjawaban mutlak di hadapan Mahkamah Allah SWT.
 
-Rasulullah SAW memperingatkan sahabat mulia Abu Dzarr Al-Ghifari RA tatkala meminta jabatan:
+Rasulullah SAW memperingatkan sahabat mulia Abu Dzarr Al-Ghifari RA Ketika meminta jabatan:
 
 > $$\text{يَا أَبَا ذَرٍّ، إِنَّكَ ضَعِيفٌ، وَإِنَّهَا أَمَانَةٌ، وَإِنَّهَا يَوْمَ الْقِيَامَةِ خِزْيٌ وَنَدَامَةٌ، إِلَّا مَنْ أَخَذَهَا بِحَقِّهَا وَأَدَّى الَّذِي عَلَيْهِ فِيهَا}$$
 > 

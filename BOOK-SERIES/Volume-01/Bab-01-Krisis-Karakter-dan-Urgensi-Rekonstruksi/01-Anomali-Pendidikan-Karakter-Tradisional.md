@@ -33,7 +33,7 @@ Bagan di atas merangkum impian agung setiap orang tua: anak dititipkan dengan li
 
 ---
 
-Namun, apa yang sebenarnya terjadi tatkala masa orientasi usai dan tirai keseharian pondok dibuka apa adanya? 
+Namun, apa yang sebenarnya terjadi Ketika masa orientasi usai dan tirai keseharian pondok dibuka apa adanya? 
 
 Bukan saat acara wisuda akbar yang megah, bukan pula saat kunjungan wali santri di akhir pekan, melainkan pada pukul dua dini hari di lorong asrama yang sunyi, di depan antrean kamar mandi yang sesak saat subuh, atau di balik pintu kamar santri yang tertutup rapat—kita kerap kali menjumpai kenyataan lapangan yang menghentak nurani:
 
@@ -55,7 +55,7 @@ graph TD
         
         Jurang["JURANG DISKONEKSI PRAKTIK<br/>(Ilmu adab terkunci sebagai hafalan kognitif di kepala,<br/>tidak pernah dilatihkan menjadi gerak refleks tindakan motorik di asrama)"]
         
-        RuangAsrama["KUTUB ASRAMA & KESEHARIAN (15.00 - 07.00 WIB)<br/>• Marak saling memakai barang tanpa izin (Ghashab sandal/gayung).<br/>• Senioritas menindas junior & perebutan fasilitas kamar mandi.<br/>• Lorong asrama berantakan & pakaian kotor berserakan.<br/>• Kontrol diri lumpuh total tatkala guru tidak berada di dekatnya."]
+        RuangAsrama["KUTUB ASRAMA & KESEHARIAN (15.00 - 07.00 WIB)<br/>• Marak saling memakai barang tanpa izin (Ghashab sandal/gayung).<br/>• Senioritas menindas junior & perebutan fasilitas kamar mandi.<br/>• Lorong asrama berantakan & pakaian kotor berserakan.<br/>• Kontrol diri lumpuh total Ketika guru tidak berada di dekatnya."]
         
         RuangKelas --> Jurang --> RuangAsrama
     end
@@ -70,7 +70,7 @@ Di ruang madrasah (07.00–15.00 WIB), santri dinilai semata-mata dari kertas uj
 
 ### II. Menelusuri Akar Masalah: Mengapa Hafalan Teks Tidak Otomatis Menjadi Akhlak?
 
-Tatkala melihat santri berperilaku buruk di asrama, reaksi spontan sebagian pendidik adalah menyalahkan si anak: *"Dasar anak nakal!", "Bebal!", "Tidak punya adab!"*
+Ketika melihat santri berperilaku buruk di asrama, reaksi spontan sebagian pendidik adalah menyalahkan si anak: *"Dasar anak nakal!", "Bebal!", "Tidak punya adab!"*
 
 Namun, jika fenomena ini terjadi serentak di puluhan pondok pesantren, apakah adil jika kita terus menyalahkan anak? Tentu tidak. Masalah sebenarnya terletak pada **kesalahan cara kita mendidik mereka**.
 
@@ -100,7 +100,7 @@ Sirkuit kedua adalah **Memori Prosedural (*Basal Ganglia & Serebelum*)**—tempa
 > ### 🚗 Analogi Belajar Menyetir Mobil:
 > Bayangkan seseorang yang ingin mahir mengemudikan mobil. Ia membaca buku panduan setebal seribu halaman dan menghafal seluruh rambu lalu lintas hingga mendapat nilai 100 sempurna dalam ujian tulis.
 > 
-> Apakah orang tersebut langsung bisa kita lepas menyetir di jalan raya yang padat dan macet? **Tentu tidak!** Tatkala ada motor yang memotong jalurnya secara tiba-tiba, hafalan teori di lembar ujian tidak akan sanggup menyelamatkannya. Otak sadarnya butuh waktu berpikir, sementara kakinya belum memiliki refleks otot untuk menginjak rem dalam hitungan milidetik.
+> Apakah orang tersebut langsung bisa kita lepas menyetir di jalan raya yang padat dan macet? **Tentu tidak!** Ketika ada motor yang memotong jalurnya secara tiba-tiba, hafalan teori di lembar ujian tidak akan sanggup menyelamatkannya. Otak sadarnya butuh waktu berpikir, sementara kakinya belum memiliki refleks otot untuk menginjak rem dalam hitungan milidetik.
 > 
 > Hal yang persis sama terjadi pada santri kita: **Menghafal 100 hadits tentang adab tidak akan pernah otomatis melahirkan anak yang berakhlak mulia, kecuali jika adab tersebut dilatihkan secara fisik, didampingi pembina yang hangat, dan dibiasakan berulang-ulang di asrama selama 66 hari berturut-turut hingga mendarah daging.**
 

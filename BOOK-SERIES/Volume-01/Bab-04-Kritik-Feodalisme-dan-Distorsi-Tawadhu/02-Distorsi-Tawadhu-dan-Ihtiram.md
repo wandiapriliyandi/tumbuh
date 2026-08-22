@@ -52,7 +52,7 @@ Islam menginginkan santri yang memiliki **Izzatul Mukmin (Wibawa dan Harga Diri 
 Ketika kepasifan dan ketundukan buta terus-menerus didoktrinasi sebagai "adab", santri akan mengalami kerusakan psikologis yang parah:
 1. **Lahirnya Sikap Apatis (*Bystander Effect*)**: Santri yang melihat temannya dipukul atau dibully di asrama memilih diam membisu dan pura-pura tidak tahu dengan dalih *"tidak mau ikut campur agar tetap tawadhu'"*.
 2. **Kemandulan Intelektual (*Impotent Intellect*)**: Santri menjadi takut mengemukakan ide-ide kreatif atau mempertanyakan kesalahan logika senior karena takut dicap lancang.
-3. **Sindrom Kepribadian Ganda**: Santri yang sangat tunduk di depan senior akan melampiaskan rasa tertindasnya dengan menjadi sosok penindas yang sangat bengis tatkala ia sendiri naik menjadi senior.
+3. **Sindrom Kepribadian Ganda**: Santri yang sangat tunduk di depan senior akan melampiaskan rasa tertindasnya dengan menjadi sosok penindas yang sangat bengis Ketika ia sendiri naik menjadi senior.
 
 ---
 

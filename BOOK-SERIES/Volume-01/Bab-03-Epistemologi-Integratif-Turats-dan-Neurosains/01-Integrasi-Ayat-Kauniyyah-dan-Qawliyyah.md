@@ -11,7 +11,7 @@
 
 Selama berabad-abad lamanya, dunia pendidikan Islam terbelenggu oleh sebuah ilusi perpecahan: **pemisahan kaku antara "Ilmu Agama" di satu sisi dan "Ilmu Sains Modern" di sisi lain**.
 
-Di sebagian pondok pesantren, muncul sikap curiga terhadap penemuan sains kontemporer—seperti psikologi perkembangan atau neurosains otak—karena dianggap berasal dari Barat yang sekuler. Akibatnya, metode pengasuhan santri tetap dipertahankan secara turun-temurun tanpa evaluasi, bahkan tatkala metode tersebut terbukti secara medis merusak saraf otak anak.
+Di sebagian pondok pesantren, muncul sikap curiga terhadap penemuan sains kontemporer—seperti psikologi perkembangan atau neurosains otak—karena dianggap berasal dari Barat yang sekuler. Akibatnya, metode pengasuhan santri tetap dipertahankan secara turun-temurun tanpa evaluasi, bahkan Ketika metode tersebut terbukti secara medis merusak saraf otak anak.
 
 Sebaliknya, sains modern sekuler kerap membuang dimensi wahyu dan tauhid, memandang manusia hanya sebagai organisme biologis tanpa jiwa spiritual.
 

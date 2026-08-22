@@ -9,7 +9,7 @@
 
 ### I. Pintu Masuk: Memilih Antara Balas Dendam atau Pemulihan Hubungan
 
-Tatkala seorang santri merusak barang milik kawannya atau terlibat perselisihan fisik, sistem peradilan usang biasanya merespons dengan pendekatan **Keadilan Retributif (Hukuman Balas Dendam)**:
+Ketika seorang santri merusak barang milik kawannya atau terlibat perselisihan fisik, sistem peradilan usang biasanya merespons dengan pendekatan **Keadilan Retributif (Hukuman Balas Dendam)**:
 * Si pelaku dipukul, dibotaki kepalanya di depan umum, atau dijemur di lapangan terik matahari.
 
 Apa hasil akhir dari hukuman balas dendam tersebut? 

@@ -11,7 +11,7 @@
 
 Dua pertanyaan krusial yang menentukan iklim budaya sebuah pesantren adalah:
 * *Bagaimana lingkungan asrama memengaruhi pertumbuhan akhlak santri?*
-* *Dan bagaimana cara kita memandang seorang santri tatkala ia berbuat kesalahan atau melanggar aturan pondok?*
+* *Dan bagaimana cara kita memandang seorang santri Ketika ia berbuat kesalahan atau melanggar aturan pondok?*
 
 Ekosistem **TUMBUH** menjawab kedua pertanyaan ini melalui **Postulat 7 dan Postulat 8**:
 

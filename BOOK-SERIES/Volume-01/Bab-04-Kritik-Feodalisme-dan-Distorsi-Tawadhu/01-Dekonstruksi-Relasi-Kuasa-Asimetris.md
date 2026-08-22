@@ -13,7 +13,7 @@ Di sebagian pesantren tradisional, kita kerap menjumpai pemandangan yang sekilas
 
 Ratusan santri berjalan membungkuk hampir sembilan puluh derajat saat berpapasan dengan seniornya, menundukkan pandangan tanpa berani menatap mata, dan berbisik dengan suara gemetar. Para pengurus tersenyum bangga dan mengklaim: *"Lihatlah, betapa tingginya adab dan rasa takzim santri-santri kami!"*
 
-Namun, tatkala kita mengamati lebih dekat dan berbicara dari hati ke hati dengan para santri, sebuah kenyataan getir terungkap: **sikap menunduk itu bukanlah buah dari rasa hormat yang tulus (*Ihtiram*), melainkan ekspresi dari rasa takut yang mencekam (*Terror-Driven Submission*)**.
+Namun, Ketika kita mengamati lebih dekat dan berbicara dari hati ke hati dengan para santri, sebuah kenyataan getir terungkap: **sikap menunduk itu bukanlah buah dari rasa hormat yang tulus (*Ihtiram*), melainkan ekspresi dari rasa takut yang mencekam (*Terror-Driven Submission*)**.
 
 Santri menunduk bukan karena hatinya memuliakan guru atau senior, melainkan karena takut ditampar, takut dibentak di depan umum, atau takut dihakimi di sidang malam.
 
@@ -33,12 +33,12 @@ graph TD
 
 Filsuf sosiologi kritis **Michel Foucault**[^1] membongkar bahwa di dalam institusi tertutup, kekuasaan (*power*) sering kali bekerja secara terselubung melalui pendisiplinan tubuh yang represif (*disciplinary power*). 
 
-Di pesantren, relasi kuasa asimetris terjadi tatkala santri senior atau pengurus asrama menyalahgunakan jubah "penegak disiplin" untuk melampiaskan ego kekuasaan:
+Di pesantren, relasi kuasa asimetris terjadi Ketika santri senior atau pengurus asrama menyalahgunakan jubah "penegak disiplin" untuk melampiaskan ego kekuasaan:
 * Menghukum adik kelas semata-mata demi kepuasan gengsi pribadi.
 * Membuat aturan-aturan konyol yang tidak ada dasarnya dalam syariat (seperti larangan memakai baju warna tertentu bagi junior).
 * Mengembangkan budaya anti-kritik: siapa pun yang bertanya dianggap "tidak sopan" atau "kurang ajar".
 
-Budaya hegemoni ini merusak mentalitas santri: anak-anak kita dididik menjadi **manusia berjiwa budak (*slave mentality*)** yang hanya berani tunduk saat ada penguasa di hadapannya, namun akan berubah menjadi penindas yang kejam tatkala kelak memegang kekuasaan!
+Budaya hegemoni ini merusak mentalitas santri: anak-anak kita dididik menjadi **manusia berjiwa budak (*slave mentality*)** yang hanya berani tunduk saat ada penguasa di hadapannya, namun akan berubah menjadi penindas yang kejam Ketika kelak memegang kekuasaan!
 
 ---
 
@@ -46,7 +46,7 @@ Budaya hegemoni ini merusak mentalitas santri: anak-anak kita dididik menjadi **
 
 Rasulullah SAW—manusia paling mulia di muka bumi—sepanjang hayatnya **meruntuhkan segala bentuk feodalisme dan relasi kuasa yang menindas**.
 
-Tatkala seorang lelaki datang menghadap Rasulullah SAW dengan tubuh gemetar ketakutan karena mengira beliau adalah raja yang kejam, Rasulullah SAW langsung tersenyum hangat, menepuk pundaknya, dan bersabda dengan penuh kelembutan:
+Ketika seorang lelaki datang menghadap Rasulullah SAW dengan tubuh gemetar ketakutan karena mengira beliau adalah raja yang kejam, Rasulullah SAW langsung tersenyum hangat, menepuk pundaknya, dan bersabda dengan penuh kelembutan:
 
 > [!NOTE]
 > ### 📜 Kelembutan Agung Rasulullah SAW Meruntuhkan Sikap Feodal:

@@ -13,7 +13,7 @@ Ibarat seekor burung rajawali yang megah, pendidikan pesantren hanya akan mampu 
 * Sayap Kanan adalah **Guru/Wali Kelas di Madrasah** (mengawal 8 jam nalar akal).
 * Sayap Kiri adalah **Musyrif di Asrama** (mengawal 16 jam denyut kehidupan nyata).
 
-Tatkala kedua sayap ini berjalan sendiri-sendiri tanpa komunikasi, burung peradaban itu akan oleng dan jatuh terhempas ke tanah.
+Ketika kedua sayap ini berjalan sendiri-sendiri tanpa komunikasi, burung peradaban itu akan oleng dan jatuh terhempas ke tanah.
 
 Ekosistem **TUMBUH** menyatukan kedua sayap ini ke dalam **Sistem Pengasuhan Simbiotik Dual-Pillar 24-Jam**:
 

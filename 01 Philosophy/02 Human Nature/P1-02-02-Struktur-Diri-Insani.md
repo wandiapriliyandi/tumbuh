@@ -71,7 +71,7 @@ Imam Al-Ghazali melukiskan relasi internal ini dalam metafora sebuah negara yang
 
 > $$\text{الْقَلْبُ مَلِكٌ مُطَاعٌ، وَالْعَقْلُ وَزِيرُهُ الْأَمِينُ، وَالشَّهْوَةُ وَالْغَضَبُ جُنُودُهُ وَأَتْبَاعُهُ. فَإِذَا اسْتَقَامَ الْمَلِكُ بِعَدْلِ الْوَزِيرِ وَانْقَادَ الْجُنُودُ لِأَمْرِهِمَا، حَصَلَتِ السَّعَادَةُ وَاسْتَقَامَتِ الْمَمْلَكَةُ}$$
 > 
-> *"Kalbu adalah raja yang ditaati, akal adalah perdana menteri yang terpercaya, serta syahwat dan amarah adalah bala tentara dan pengikutnya. Tatkala sang raja memimpin dengan keadilan sang perdana menteri, dan seluruh prajurit tunduk patuh pada perintah keduanya, niscaya tercapailah kebahagiaan sejati dan tegaklah keadilan di seluruh negeri jiwa."*
+> *"Kalbu adalah raja yang ditaati, akal adalah perdana menteri yang terpercaya, serta syahwat dan amarah adalah bala tentara dan pengikutnya. Ketika sang raja memimpin dengan keadilan sang perdana menteri, dan seluruh prajurit tunduk patuh pada perintah keduanya, niscaya tercapailah kebahagiaan sejati dan tegaklah keadilan di seluruh negeri jiwa."*
 
 ```mermaid
 graph TD

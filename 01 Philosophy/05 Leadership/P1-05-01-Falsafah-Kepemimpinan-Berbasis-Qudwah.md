@@ -46,7 +46,7 @@ Rasulullah SAW diutus oleh Allah SWT bukan sekadar membawa mushaf wahyu untuk di
 > 
 > *"Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari kiamat dan dia banyak mengingat Allah."* (QS. Al-Ahzab [33]: 21).
 
-Sayyidah Aisyah RA tatkala ditanya mengenai akhlak Rasulullah SAW menjawab dengan kalimat yang padat dan abadi:
+Sayyidah Aisyah RA Ketika ditanya mengenai akhlak Rasulullah SAW menjawab dengan kalimat yang padat dan abadi:
 $$\text{كَانَ خُلُقُهُ الْقُرْآنَ}$$
 *"Akhlak beliau adalah Al-Qur'an yang hidup."* (HR. Muslim no. 746).
 

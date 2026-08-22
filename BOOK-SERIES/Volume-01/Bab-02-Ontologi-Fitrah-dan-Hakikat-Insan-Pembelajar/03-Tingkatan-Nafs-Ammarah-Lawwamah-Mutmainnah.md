@@ -9,7 +9,7 @@
 
 ### I. Pintu Masuk: Memahami Tangga Pendakian Karakter Santri
 
-Banyak pembina asrama sering kali kecewa dan putus asa tatkala melihat santri baru yang kemarin tampak bertobat, hari ini kembali mengulangi kesalahannya. 
+Banyak pembina asrama sering kali kecewa dan putus asa Ketika melihat santri baru yang kemarin tampak bertobat, hari ini kembali mengulangi kesalahannya. 
 
 Muncul prasangka keliru: *"Anak ini memang tidak berniat berubah!", "Percuma dinasihati!"*
 
@@ -41,7 +41,7 @@ Al-Qur'an menguraikan tiga kualitas jiwa manusia:
 1. **Nafs Ammarah bi as-Su' (النَّفْس الأمَّارَة بالسُّوء)**:  
    Jiwa yang masih dikuasai dorongan biologis dan hawa nafsu primitif (QS. Yusuf: 53). Santri pada level ini bertindak impulsif, mementingkan diri sendiri (misal: menyerobot antrean makanan), dan hanya patuh jika ada pengawasan fisik ketat.
 2. **Nafs Lawwamah (النَّفْس اللَّوَّامَة)**:  
-   Jiwa yang telah terbangun suara hatinya (*Muhasabah*) dan mencela dirinya sendiri tatkala berbuat salah (QS. Al-Qiyamah: 2). Santri di level ini mengalami pergulatan batin: ia tahu mana yang benar dan salah, kadang masih tergelincir karena godaan kawan, namun segera merasa menyesal dan ingin berbenah.
+   Jiwa yang telah terbangun suara hatinya (*Muhasabah*) dan mencela dirinya sendiri Ketika berbuat salah (QS. Al-Qiyamah: 2). Santri di level ini mengalami pergulatan batin: ia tahu mana yang benar dan salah, kadang masih tergelincir karena godaan kawan, namun segera merasa menyesal dan ingin berbenah.
 3. **Nafs Mutma'innah (النَّفْس المُطْمَئِنَّة)**:  
    Puncak kematangan jiwa yang telah tenteram dan damai bersama Allah (QS. Al-Fajr: 27–28). Santri di level ini berakhlak mulia secara mandiri, merasakan kenikmatan dalam ibadah, dan tulus melayani sesamanya.
 
@@ -57,7 +57,7 @@ Pakar jiwa Islam agung, **Imam Ibn al-Qayyim al-Jawziyyah** dalam *Madarij as-Sa
 > $$\text{النَّفْسُ وَاحِدَةٌ، وَلَهَا صِفَاتٌ ثَلَاثَةٌ؛ فَتُسَمَّى أَمَّارَةً بِالسُّوءِ إِذَا غَلَبَتْ عَلَيْهَا الشَّهْوَةُ وَالْهَوَى، وَأَطَاعَتِ الشَّيْطَانَ. فَإِذَا اسْتَيْقَظَتْ مِنْ غَفْلَتِهَا وَلَامَتْ صَاحِبَهَا عَلَى التَّفْرِيطِ، وَتَرَدَّدَتْ بَيْنَ الطَّاعَةِ وَالْمَعْصِيَةِ، سُمِّيَتْ لَوَّامَةً. فَإِذَا رَضِيَتْ بِاللَّهِ رَبًّا، وَاطْمَأَنَّتْ إِلَى ذِكْرِهِ وَمَحَبَّتِهِ، وَصَارَتِ الطَّاعَةُ لَهَا غِذَاءً وَقُرَّةَ عَيْنٍ، سُمِّيَتْ مُطْمَئِنَّةً}$$
 > 
 > **Artinya:**  
-> *"Jiwa manusia itu pada hakikatnya satu, namun ia memiliki tiga sifat yang silih berganti: ia dinamakan **Ammarah** tatkala hawa nafsu menguasainya. Tatkala jiwa itu terbangun dari kelalaiannya lalu mencela dirinya sendiri atas kesalahannya, maka ia dinamakan **Lawwamah**. Dan tatkala ia telah tenteram bersama Allah, mencintai ketaatan, serta ibadah telah menjadi santapan ruh dan penyejuk matanya, maka ia dinamakan **Mutma'innah**."*
+> *"Jiwa manusia itu pada hakikatnya satu, namun ia memiliki tiga sifat yang silih berganti: ia dinamakan **Ammarah** Ketika hawa nafsu menguasainya. Ketika jiwa itu terbangun dari kelalaiannya lalu mencela dirinya sendiri atas kesalahannya, maka ia dinamakan **Lawwamah**. Dan Ketika ia telah tenteram bersama Allah, mencintai ketaatan, serta ibadah telah menjadi santapan ruh dan penyejuk matanya, maka ia dinamakan **Mutma'innah**."*
 
 Uraian ini menyadarkan kita bahwa masa remaja santri adalah kancah pergulatan di level *Nafs Lawwamah*. Tugas pembina adalah menemani pergulatan tersebut dengan penuh kasih sayang, bukan memvonis dan mencampakkannya.
 

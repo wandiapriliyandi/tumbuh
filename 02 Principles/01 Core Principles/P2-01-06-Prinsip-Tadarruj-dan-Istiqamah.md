@@ -74,4 +74,4 @@ Santri yang hebat bukanlah santri yang pernah melakukan shalat tahajud semalam s
 
 1. **Penetapan Target Individual Berjenjang**: Target mutaba'ah santri disesuaikan dengan kurva kesiapan masing-masing santri, bukan dipukul rata secara kaku.
 2. **Pemberian Apresiasi atas Konsistensi**: Memberikan lencana penghargaan *Bintang Istiqamah* bagi santri yang mampu menjaga konsistensi adab selama 40 hari berturut-turut.
-3. **Penyikapan atas Fase Futuwr (Kelesuan)**: Tatkala santri mengalami kejenuhan, musyrif tidak langsung menghukumnya, melainkan memberikan ruang pemulihan emosi (*co-regulation*) dan dialog penyemangat batin.
+3. **Penyikapan atas Fase Futuwr (Kelesuan)**: Ketika santri mengalami kejenuhan, musyrif tidak langsung menghukumnya, melainkan memberikan ruang pemulihan emosi (*co-regulation*) dan dialog penyemangat batin.

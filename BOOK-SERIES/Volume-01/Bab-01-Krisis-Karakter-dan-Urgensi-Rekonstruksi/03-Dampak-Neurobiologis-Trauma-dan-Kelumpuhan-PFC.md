@@ -17,7 +17,7 @@ Banyak pengurus mengira sikap membisu itu adalah tanda anak yang "keras kepala",
 
 > [!IMPORTANT]
 > ### 🧠 Hukum Biologis Otak:
-> Tatkala seorang anak diteror dengan bentakan, ancaman rotan, atau dipermalukan di depan kawan-kawannya, bagian otak yang bertugas memahami aturan moral (**Korteks Prefrontal / PFC**) secara otomatis **padam dan terkunci rapat (*brain shut-down*)**.  
+> Ketika seorang anak diteror dengan bentakan, ancaman rotan, atau dipermalukan di depan kawan-kawannya, bagian otak yang bertugas memahami aturan moral (**Korteks Prefrontal / PFC**) secara otomatis **padam dan terkunci rapat (*brain shut-down*)**.  
 > 
 > Memaksa anak mencerna nasihat adab saat ia sedang ketakutan sama mustahilnya dengan menyuruh seseorang membaca buku di dalam ruangan yang sedang terbakar hebat!
 
@@ -117,7 +117,7 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 1.3.4:</b> Hubungan Status Sistem Saraf Polivagal terhadap Terbuka atau Tertutupnya Kapasitas Penghayatan Adab Santri.</sub></div>
 
-Pesan dari tabel saraf di bawah ini sangat sederhana: **santri hanya bisa menyerap adab tatkala ia berada di Status Hijau (Ventral Vagal / Rasa Aman)**:
+Pesan dari tabel saraf di bawah ini sangat sederhana: **santri hanya bisa menyerap adab Ketika ia berada di Status Hijau (Ventral Vagal / Rasa Aman)**:
 
 | Status Saraf | Kondisi Batin Santri | Manifestasi Perilaku di Pondok | Kapasitas Menyerap Adab |
 | :--- | :--- | :--- | :---: |
@@ -137,7 +137,7 @@ Temuan ilmiah ini menegaskan kaidah yang telah ditulis ulama tasawuf agung, **Im
 > $$\text{إِذَا اسْتَوْلَى الْخَوْفُ الْمُفْرِطُ أَوِ الْغَضَبُ عَلَى النَّفْسِ، عَشِيَ بَصَرُ الْعَقْلِ، وَغَابَتِ الْحِكْمَةُ، وَلَمْ يَبْقَ لِلصَّاحِبِ مَسْلَكٌ إِلَى مَعْرِفَةِ حَقِيقَةِ الْأَدَبِ، وَإِنَّمَا يَنْبُتُ الْأَدَبُ فِي قَلْبٍ سَكَنَتْ رَوْعَتُهُ، وَاطْمَأَنَّتْ سَرِيرَتُهُ}$$
 > 
 > **Artinya:**  
-> *"Tatkala rasa takut yang berlebihan atau amarah telah menguasai jiwa seseorang, maka **butalah pandangan mata hatinya**, sirnalah hikmah kebijaksanaan darinya, dan tertutuplah jalannya untuk mengenali hakikat adab yang sejati.*  
+> *"Ketika rasa takut yang berlebihan atau amarah telah menguasai jiwa seseorang, maka **butalah pandangan mata hatinya**, sirnalah hikmah kebijaksanaan darinya, dan tertutuplah jalannya untuk mengenali hakikat adab yang sejati.*  
 > *Sesungguhnya adab itu hanyalah akan mampu bersemi dan bertumbuh di dalam **kalbu yang telah reda dari rasa takut yang mencekam dan telah tenteram batinnya (*Thuma'ninah*)**."*
 
 Ulama salaf telah mengajarkan: **ketenteraman batin (*Thuma'ninah*) adalah syarat mutlak agar pintu akal terbuka untuk menerima ilmu dan adab.**
@@ -163,7 +163,7 @@ graph TD
 Penerapan protokol sistemik di lapangan:
 1. **Tenangkan Nada Suara (*Calm Presence*)**: Musyrif menggunakan intonasi rendah dan posisi duduk sejajar mata anak untuk meredakan alarm amigdala santri.
 2. **Beri Jeda Tenang (*Co-Regulation Pause*)**: Menghentikan interogasi saat santri panik, memberi segelas air putih, dan membimbing dzikir hingga detak jantung anak kembali normal.
-3. **Bicara saat Nalar Sudah Siap (*Window of Tolerance*)**: Memulai musyawarah dan penentuan konsekuensi logis 4R hanya tatkala santri sudah tenang, sehingga nilai akhlak tersimpan abadi di memori jangka panjangnya.
+3. **Bicara saat Nalar Sudah Siap (*Window of Tolerance*)**: Memulai musyawarah dan penentuan konsekuensi logis 4R hanya Ketika santri sudah tenang, sehingga nilai akhlak tersimpan abadi di memori jangka panjangnya.
 
 ---
 

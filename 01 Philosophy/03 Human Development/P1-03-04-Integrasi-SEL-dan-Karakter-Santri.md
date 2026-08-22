@@ -19,7 +19,7 @@
 
 ### 1. Urgensi Kecerdasan Sosio-Emosional di Kehidupan Berasrama
 
-Tinggal bersama ratusan santri dari berbagai latar belakang budaya dalam ruang asrama selama 24 jam sehari adalah laboratorium sosial yang sangat menantang. Gesekan antarpribadi, perebutan fasilitas, kelelahan fisik, dan perbedaan temperamen dapat memicu konflik horizontal tatkala santri tidak memiliki **Kecerdasan Sosio-Emosional (*Social and Emotional Competence*)**.
+Tinggal bersama ratusan santri dari berbagai latar belakang budaya dalam ruang asrama selama 24 jam sehari adalah laboratorium sosial yang sangat menantang. Gesekan antarpribadi, perebutan fasilitas, kelelahan fisik, dan perbedaan temperamen dapat memicu konflik horizontal Ketika santri tidak memiliki **Kecerdasan Sosio-Emosional (*Social and Emotional Competence*)**.
 
 Kajian internasional (*Collaborative for Academic, Social, and Emotional Learning / CASEL*, Durlak et al., 2011) membuktikan bahwa pendidikan karakter yang mengintegrasikan kompetensi sosio-emosional mampu menurunkan tingkat perundungan (*bullying*) hingga 40%, meningkatkan iklim keamanan sekolah, dan mendongkrak capaian akademik santri.
 

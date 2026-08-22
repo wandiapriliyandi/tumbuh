@@ -54,7 +54,7 @@ Wasiat KH. Hasyim Asy'ari di atas membuktikan bahwa kebesaran seorang guru di pe
 
 Dalam psikologi perkembangan modern, teori kelekatan aman (**Secure Attachment Theory** oleh John Bowlby, 1969; 1988) membuktikan bahwa anak yang terpisah dari orang tuanya membutuhkan figur pengganti orang tua yang aman (*In Loco Parentis*).
 
-Tatkala musyrif asrama mampu menghadirkan kelekatan yang aman (*secure base*):
+Ketika musyrif asrama mampu menghadirkan kelekatan yang aman (*secure base*):
 * Santri merasa aman secara emosional (*Ventral Vagal Tone* stabil).
 * Santri berani bereksplorasi belajar, tidak takut salah, dan terbuka menceritakan beban jiwanya kepada musyrif.
 * Risiko santri melarikan diri (*kabur*) atau terjerumus dalam kelompok geng asrama menyimpang turun hingga mendekati nol.

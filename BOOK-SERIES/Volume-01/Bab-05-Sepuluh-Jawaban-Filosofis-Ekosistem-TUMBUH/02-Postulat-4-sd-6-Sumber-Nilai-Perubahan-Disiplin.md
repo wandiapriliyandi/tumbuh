@@ -13,7 +13,7 @@ Setelah kita memahami siapa santri, siapa pendidik, dan apa tujuan akhirnya, lan
 
 * *Dari manakah kita mengambil standar nilai benar dan salah?*
 * *Bagaimana proses perubahan karakter itu sebenarnya terjadi di dalam diri manusia?*
-* *Dan bagaimana cara kita menegakkan disiplin tatkala terjadi pelanggaran aturan?*
+* *Dan bagaimana cara kita menegakkan disiplin Ketika terjadi pelanggaran aturan?*
 
 Ekosistem **TUMBUH** menjawabnya melalui **Tiga Postulat Filosofis Kedua (Postulat 4, 5, dan 6)**:
 

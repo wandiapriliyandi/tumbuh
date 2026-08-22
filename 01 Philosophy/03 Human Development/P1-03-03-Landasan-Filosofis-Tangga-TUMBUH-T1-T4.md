@@ -25,7 +25,7 @@ Bahkan syariat Islam yang agung diturunkan oleh Allah SWT kepada Rasulullah SAW 
 
 > $$\text{إِنَّمَا نَزَلَ أَوَّلَ مَا نَزَلَ مِنْهُ سُورَةٌ مِنَ الْمُفَصَّلِ، فِيهَا ذِكْرُ الْجَنَّةِ وَالنَّارِ، حَتَّى إِذَا ثَابَ النَّاسُ إِلَى الْإِسْلَامِ نَزَلَ الْحَلَالُ وَالْحَرَامُ، وَلَوْ نَزَلَ أَوَّلَ شَيْءٍ: لَا تَشْرَبُوا الْخَمْرَ، لَقَالُوا: لَا نَدَعُ الْخَمْرَ أَبَدًا}$$
 > 
-> *"Sesungguhnya ayat yang pertama kali turun adalah surah-surah mufashshal yang di dalamnya disebutkan tentang surga dan neraka. Hingga tatkala manusia telah condong dan kokoh di dalam Islam, barulah turun ayat-ayat tentang halal dan haram. Sekiranya yang pertama kali turun adalah: 'Janganlah kalian meminum khamr!', niscaya mereka akan berkata: 'Kami tidak akan meninggalkan khamr selamanya!' "* (HR. Bukhari no. 4993).
+> *"Sesungguhnya ayat yang pertama kali turun adalah surah-surah mufashshal yang di dalamnya disebutkan tentang surga dan neraka. Hingga Ketika manusia telah condong dan kokoh di dalam Islam, barulah turun ayat-ayat tentang halal dan haram. Sekiranya yang pertama kali turun adalah: 'Janganlah kalian meminum khamr!', niscaya mereka akan berkata: 'Kami tidak akan meninggalkan khamr selamanya!' "* (HR. Bukhari no. 4993).
 
 Pesantren yang menuntut santri baru langsung memiliki adab sempurna tanpa melalui tahapan adaptasi yang manusiawi hakikatnya sedang melawan sunnatullah pembinaan itu sendiri.
 
