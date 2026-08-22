@@ -100,11 +100,17 @@ Hal ini menjelaskan secara ilmiah mengapa santri dari pesantren yang menerapkan 
 
 Temuan neurosains ini selaras secara sempurna dengan ajaran para ulama Turats klasik. Imam Al-Harits al-Muhasibi (w. 243 H) dalam kitab monumentalnya *Adab an-Nufus* menegaskan bahwa akal manusia (*al-'Aql*) tidak akan mampu memancarkan pemahaman (*al-Fahm*) dan kebijaksanaan (*al-Hikmah*) tatkala jiwa sedang diselimuti oleh kegelisahan amarah (*Ghadhab*) dan rasa takut (*Khawf*):
 
+> [!NOTE]
+> ### 📜 Kaidah Emas Imam Al-Harits al-Muhasibi dalam *Adab an-Nufus*:
+> 
 > $$\text{إِذَا اسْتَوْلَى الْخَوْفُ الْمُفْرِطُ أَوِ الْغَضَبُ عَلَى النَّفْسِ، عَشِيَ بَصَرُ الْعَقْلِ، وَغَابَتِ الْحِكْمَةُ، وَلَمْ يَبْقَ لِلصَّاحِبِ مَسْلَكٌ إِلَى مَعْرِفَةِ حَقِيقَةِ الْأَدَبِ، وَإِنَّمَا يَنْبُتُ الْأَدَبُ فِي قَلْبٍ سَكَنَتْ رَوْعَتُهُ، وَاطْمَأَنَّتْ سَرِيرَتُهُ}$$
 > 
-> *"Tatkala rasa takut yang berlebihan atau amarah telah menguasai jiwa seseorang, maka **butalah pandangan akalnya**, lenyaplah hikmah darinya, dan tidak tersisa lagi jalan baginya untuk mengenali hakikat adab yang sejati. Sesungguhnya adab itu hanyalah akan tumbuh bersemi di dalam kalbu yang telah tenang dari rasa takut yang mencekam dan telah tenteram batinnya (*Thuma'ninah*)."* (Al-Muhasibi, *Adab an-Nufus*, Dar al-Kutub al-Ilmiyyah, hlm. 48).
+> **Artinya:**  
+> *"Tatkala rasa takut yang berlebihan atau amarah telah menguasai jiwa seseorang, maka **butalah pandangan akalnya**, lenyaplah kebijaksanaan darinya, dan tertutuplah jalannya untuk mengenali hakikat adab yang sejati.*  
+> *Sesungguhnya adab itu hanyalah akan tumbuh bersemi di dalam kalbu yang telah reda dari rasa takut yang mencekam dan telah tenteram batinnya (*Thuma'ninah*)."*  
+> *(Imam Al-Harits al-Muhasibi, Kitab Adab an-Nufus, hlm. 48)*
 
-Pernyataan Al-Muhasibi di abad ke-3 Hijriyah ini adalah rumusan klasik dari teori *Neurovisceral Integration*: bahwa ketenangan jiwa (*thuma'ninah*) adalah prasyarat biologis dan spiritual bagi terbukanya pintu akal (*PFC*) untuk menyerap kebaikan ilahiah.
+Pernyataan agung Al-Muhasibi di abad ke-3 Hijriyah ini mendahului konsensus neurosains modern: **ketenangan batin (*thuma'ninah*) adalah prasyarat biologis dan spiritual agar pintu nalar akal (*PFC*) terbuka untuk menyerap kemuliaan adab.**
 
 ---
 

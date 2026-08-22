@@ -32,19 +32,30 @@ Praktik-praktik ini kerap dilegitimasi dengan dalih bahwa tradisi pondok sejak d
 
 Jauh sebelum para psikolog modern meneliti dampak buruk hukuman fisik terhadap anak, sosiolog dan filsuf sejarah teragung peradaban Islam, **Al-Allamah Abdurrahman Ibnu Khaldun (732–808 H / 1332–1406 M)** dalam karya monumentalnya *Al-Muqaddimah* (khususnya pada pasal *Fashl fi Anna asy-Syiddata 'ala al-Muta'allimin Mudhirrun bihim* / Fasal bahwa Sikap Keras terhadap Murid Membawa Kerusakan Fatal bagi Mereka), telah melayangkan kritik epistemologis yang sangat telak:
 
+> [!NOTE]
+> ### 📜 Kritik Tajam Sosiolog Muslim Ibnu Khaldun dalam *Al-Muqaddimah*:
+> 
 > $$\text{مَنْ كَانَ مَرْبَاهُ بِالْقَهْرِ وَالْقَسْرِ مِنْ الْمُتَعَلِّمِينَ أَوْ الْمَمَالِيكِ أَوْ الْخَدَمِ، سَطَا بِهِ الْقَهْرُ، وَضَيَّقَ عَلَى النَّفْسِ فِي انْبِسَاطِهَا، وَذَهَبَ بِنَشَاطِهَا، وَدَعَاهُ إِلَى الْكَسَلِ، وَحَمَلَهُ عَلَى الْكَذِبِ وَالْخُبْثِ، وَهُوَ التَّظَاهُرُ بِغَيْرِ مَا فِي ضَمِيرِهِ خَوْفًا مِنْ انْبِسَاطِ الْأَيْدِي بِالْقَهْرِ عَلَيْهِ، وَعَلَّمَهُ الْمَكْرَ وَالْخَدِيعَةَ لِذَلِكَ، وَصَارَتْ لَهُ هَذِهِ عَادَةً وَخُلُقًا، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ الَّتِي لَهُ}$$
 > 
-> *"Barang siapa yang terdidik di bawah tekanan kekerasan, pemaksaan, dan penindasan—baik ia seorang penuntut ilmu, budak, ataupun pelayan—niscaya kekerasan itu akan menguasai jiwanya, menyempitkan kelapangan ruhnya, melenyapkan semangat kreativitasnya, menjerumuskannya ke dalam kemalasan, dan **mendorongnya untuk terbiasa berdusta serta berperilaku khianat**. Yaitu ia akan terpaksa menampakkan sikap yang berlawanan dengan apa yang ada di dalam hatinya karena takut dipukul atau disiksa. Kekerasan itu mengajarkannya tipu daya dan kelicikan, hingga akhirnya kepalsuan tersebut mendarah-daging menjadi kebiasaan dan karakternya; **dan pada akhirnya, rusaklah seluruh makna kemanusiaan luhur yang ada pada dirinya!**"* (Ibnu Khaldun, *Al-Muqaddimah*, Dar al-Fikr, hlm. 540).
+> **Artinya:**  
+> *"Barang siapa yang dididik dengan cara kekerasan, pemaksaan, dan penindasan—baik ia seorang penuntut ilmu, hamba sahaya, maupun pelayan—maka kekerasan itu akan menguasai jiwanya, mematikan kelapangan hatinya, melenyapkan semangat belajarnya, menjerumuskannya ke dalam kemalasan, dan **mendorongnya untuk terbiasa berbohong serta bersikap curang**.*  
+> *Yaitu ia terpaksa menampakkan sikap pura-pura patuh yang berbeda dengan isi hatinya semata-mata karena takut disiksa. Kekerasan itulah yang mengajarkannya tipu daya dan kelicikan, hingga akhirnya kepalsuan tersebut menjadi watak dan karakternya; **dan pada puncaknya, rusaklah seluruh kemuliaan fitrah kemanusiaannya!**"*  
+> *(Ibnu Khaldun, Al-Muqaddimah, Bab 'Sikap Keras terhadap Murid Merusak Jiwa Mereka', hlm. 540)*
 
-Analisis Ibnu Khaldun di atas adalah diagnosa paling brilian dan visioner dalam sejarah pedagogi Islam. Ibnu Khaldun membuktikan bahwa kekerasan tidak pernah menanamkan ketaatan hakiki; sebaliknya, kekerasan justru merupakan **sekolah kelicikan (*school of deceit*)** yang memaksa anak untuk mahir bersandiwara, menjadi pembohong ulung demi menghindari rasa sakit fisik, dan meruntuhkan fitrah kemanusiaan mereka sendiri.
+Peringatan Ibnu Khaldun di atas adalah diagnosa paling tajam dalam sejarah pendidikan Islam. Beliau membuktikan bahwa kekerasan tidak pernah melahirkan ketaatan yang tulus; sebaliknya, kekerasan justru menjadi **"sekolah kelicikan"** yang melatih anak menjadi pembohong ulung demi menghindari hukuman.
 
 ```mermaid
-graph LR
-    Kekerasan["Pendidikan Berbasis Kekerasan (Al-Qahr wal Qasr)"] --> Dampak1["Jiwa Tertekan & Hilang Kreativitas"]
-    Kekerasan --> Dampak2["Belajar Berbohong & Bermuka Dua demi Bertahan"]
-    Kekerasan --> Dampak3["Rusaknya Makna Kemanusiaan Luhur (Fasadul Insaniyyah)"]
-    
-    Dampak3 ==> Siklus["Generasi Munafik & Reproduksi Kekerasan di Masa Depan"]
+graph TD
+    Kekerasan["Pendidikan Berbasis Kekerasan & Penindasan<br/>(Al-Qahr wal Qasr)"]
+    Dampak1["Jiwa Tertekan & Hilang Semangat Belajar"]
+    Dampak2["Belajar Berbohong & Bermuka Dua demi Menghindari Hukuman"]
+    Dampak3["Rusaknya Nilai Fitrah Kemanusiaan (Fasadul Insaniyyah)"]
+    Siklus["Melahirkan Generasi Munafik & Melanjutkan Siklus Kekerasan"]
+
+    Kekerasan --> Dampak1
+    Kekerasan --> Dampak2
+    Kekerasan --> Dampak3
+    Dampak3 ==> Siklus
 ```
 
 ---
