@@ -1,36 +1,39 @@
 # SUB-BAB 1.1: ANOMALI PENDIDIKAN KARAKTER TRADISIONAL
 ## *Menyingkap Tabir Jurang Pemisah antara Hafalan Kitab Adab dan Realitas Perilaku Keseharian di Asrama*
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-01/PANDUAN-INDUK-MONOGRAF`  
-**Disiplin Ilmu**: Fenomenologi Pendidikan Islam, Sosiologi Pesantren, Neurosains Kognitif Terapan, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Begawan Literasi, Pakar Filosofi, Epistemologi Turats, & Neurosains Perkembangan*)
+**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-01/MONOGRAF-MASTER`  
+**Disiplin Ilmu**: Fenomenologi Pendidikan Islam, Neurosains Kognitif Terapan, Sosiologi Pesantren, & Epistemologi Turats  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi, Epistemologi Turats, & Neurosains Perkembangan*)
 
 ---
 
-### 1. Prolog & Refleksi: Air Mata di Balik Gerbang Pesantren
+### I. Pintu Masuk: Air Mata di Balik Gerbang dan Tabir Paradoks Pesantren
 
-Setiap awal tahun ajaran baru, sebuah pemandangan yang amat menyentuh kalbu selalu berulang di pelataran pondok-pondok pesantren di seluruh penjuru Nusantara. 
+Setiap awal tahun ajaran baru, sebuah pemandangan yang amat menyentuh kalbu selalu berulang di pelataran pondok-pondok pesantren di seluruh penjuru Nusantara. Ribuan orang tua berdiri dengan mata berkaca-kaca, memeluk erat putra-putri tercinta mereka sebelum melangkah pulang. Tangan-tangan seorang ayah yang kasar karena kerja keras mengusap kepala anak lelakinya seraya berbisik penuh harap: *"Belajarlah yang sungguh-sungguh di sini, Nak. Jadilah orang yang alim, mandiri, dan berakhlak mulia."* Sementara seorang ibu, dengan suara bergetar menahan tangis perpisahan, menyerahkan buah hatinya kepada kiai dan pengasuh dengan satu keyakinan teguh: di balik gerbang suci pesantren, anaknya akan dijaga, dibimbing, dan ditempa menjadi pribadi yang santun, jujur, berjiwa bersih, serta menghiasi diri dengan kemuliaan akhlak nabawi.
 
-Ribuan orang tua berdiri di bawah terik matahari atau gerimis senja, memeluk erat putra-putri tercinta mereka dengan linangan air mata. Tangan-tangan seorang ayah yang kasar karena kerja keras mengusap kepala anak lelakinya, seraya berbisik penuh harap: *"Belajarlah yang sungguh-sungguh di sini, Nak. Jadilah orang yang alim, berbakti, dan berakhlak mulia."* Sementara seorang ibu, dengan suara bergetar menahan tangis perpisahan, menyerahkan buah hatinya kepada pengasuh pesantren seraya melangitkan doa: di balik gerbang suci ini, anaknya akan dibimbing, dijaga, dan ditempa menjadi pribadi yang jujur, santun, mandiri, dan mencintai Allah serta Rasul-Nya.
-
-Pesantren adalah benteng harapan umat. Masyarakat memandang dinding-dinding pondok pesantren sebagai ruang suci yang steril dari dekadensi moral zaman modern (*the last bastion of moral civilization*).
+Masyarakat menaruh harapan yang teramat tinggi pada pesantren. Dinding-dinding asrama dipandang sebagai benteng pertahanan spiritual terakhir (*the last bastion of moral civilization*) yang mampu melindungi anak-anak dari dekadensi moral zaman modern.
 
 ```mermaid
 graph TD
     subgraph HarapanUmat["EKSPEKTASI LUHUR ORANG TUA & MASYARAKAT"]
-        H1["Menitipkan Anak dengan Doa & Air Mata"] --> H2["Ekspektasi Pembinaan Akhlak Mulia 24 Jam"]
-        H2 --> H3["Harapan Lahirnya Generasi 'Alim, Mandiri, & Beradab Luhur"]
+        H1["Menitipkan Anak dengan Doa & Air Mata"] --> H2["Ekspektasi Pembinaan Karakter & Adab 24 Jam"]
+        H2 --> H3["Harapan Lahirnya Generasi 'Alim, Mandiri, & Berakhlak Mulia"]
     end
 ```
-<div align="center"><sub><b>Gambar 1.1.1:</b> Harapan dan Ekspektasi Luhur Orang Tua saat Memasuki Gerbang Pesantren.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.1:</b> Harapan dan Ekspektasi Luhur Orang Tua saat Menyerahkan Anak ke Pesantren.</sub></div>
 
-Namun, jika kita berani melangkah masuk lebih dalam—bukan hanya saat acara wisuda akbar atau kunjungan wali santri, melainkan pada pukul dua dini hari di lorong-lorong asrama yang gelap, di depan pintu kamar mandi saat antrean memanjang, atau di balik pintu kamar yang tertutup rapat—kita kerap kali mendapati sebuah realitas yang membuat hati kita tersentak perih:
+Namun, tatkala masa orientasi usai dan tirai keseharian pondok dibuka apa adanya—bukan saat acara wisuda akbar atau kunjungan wali santri, melainkan pada pukul dua dini hari di lorong-lorong asrama yang sunyi, di depan antrean kamar mandi yang sesak, atau di balik pintu-pintu kamar santri yang tertutup rapat—kita kerap kali menjumpai sebuah kenyataan lapangan yang menghentak nurani:
 
 > [!WARNING]
-> ### 🔍 Potret Kenyataan yang Memilukan Hati:
-> Mengapa ada seorang santri yang hafal ratusan bait nadhom adab di luar kepala, fasih membaca kitab kuning, dan meraih nilai tertinggi (*Mumtaz*) di kelas madrasah... namun tatkala melangkah keluar dari kelas:
-> * Ia dengan enteng mengambil sandal kawannya tanpa izin (*ghashab*), menyembunyikan gayung mandi di atas plafon demi kepentingan pribadinya, dan menyerobot antrean wudhu sambil mendorong temannya yang bertubuh lebih kecil?
-> * Mengapa di dalam bilik asrama pada malam hari, terdengar ejekan tajam yang merendahkan fisik temannya (*body shaming*), panggilan nama-nama hewan yang melukai hati, atau tatapan mata santri baru yang menangis diam-diam di bawah selimut karena merasa terasing, tertekan, dan diperlakukan semena-mena oleh seniornya?
+> ### 🔍 Potret Kenyataan Lapangan yang Menghentak Nurani:
+> Di ruang kelas madrasah, seorang santri mampu melantunkan bait-bait nadhom *Ta'lim al-Muta'allim* dengan sangat fasih, menghafal matan *Bidayatul Hidayah* karya Imam Al-Ghazali di luar kepala, dan meraih predikat nilai tertinggi (*Mumtaz*) dalam ujian tulis mata pelajaran adab.
+> 
+> Namun, hanya berselang beberapa menit setelah bel tanda usai pelajaran berbunyi, santri yang sama menampilkan pemandangan yang bertolak belakang:
+> * Ia berlari kencang menyerobot antrean wudhu sambil menyikut kawannya yang bertubuh lebih kecil.
+> * Sepasang sandal milik teman sekamarnya dipakai tanpa izin (*ghashab*) untuk pergi ke kantin atau masjid.
+> * Gayung mandi disembunyikan di atas plafon kamar mandi agar tidak bisa digunakan santri lain.
+> * Pakaian kotor dibiarkan menumpuk berhari-hari di pojok kamar hingga menebarkan aroma tak sedap.
+> * Di dalam bilik asrama pada malam hari, terdengar ejekan tajam yang merendahkan fisik temannya (*body shaming*), panggilan nama hewan, hingga pengucilan sosial yang membuat santri yunior menangis tertekan di bawah selimutnya tanpa ada yang mendampingi.
 
 ```mermaid
 graph TD
@@ -46,55 +49,15 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 1.1.2:</b> Diagram Jurang Pemisah antara Pembelajaran Kelas Madrasah dan Realitas Keseharian Asrama.</sub></div>
 
-Pertanyaan ini bukan untuk mencela atau merendahkan martabat pesantren yang kita cintai bersama. Pertanyaan ini adalah sebuah **undangan untuk bermuhasabah secara jujur, mendalam, dan berani**:  
-*Mengapa ribuan jam pengajian kitab, hafalan ayat suci, dan atmosfer religius yang begitu kental belum sanggup mengikis dorongan primitif santri untuk berbuat zalim kepada saudaranya sendiri? Di manakah letak mata rantai yang terputus dalam pendidikan karakter kita selama ini?*
-
-Jawabannya sangat terang benderang: **Masalah ini bukan karena anak-anak kita terlahir dengan watak jahat, melainkan karena sistem pendidikan kita selama ini terjebak dalam ilusi metodologis yang keliru—yaitu menyamakan antara *mengajarkan dalil adab* dengan *membentuk refleks karakter adab*.**
+Pemandangan paradoksal ini menyisakan tanda tanya besar di benak para kiai, asatidz, dan pemerhati pendidikan: *Mengapa ribuan jam pengajian kitab kuning, ratusan halaman hafalan dalil, dan atmosfer keagamaan yang begitu pekat belum sanggup mengikis dorongan primitif santri untuk berbuat zalim dan egois kepada saudaranya sendiri? Di manakah letak mata rantai yang terputus dalam pendidikan karakter kita?*
 
 ---
 
-### 2. Membedah Anatomi Anomali: Lima Wajah Kesenjangan di Bilik Asrama
+### II. Menelusuri Akar Masalah: Mengapa Hafalan Teks Tidak Otomatis Menjadi Akhlak?
 
-Untuk menyembuhkan suatu penyakit, seorang dokter harus berani mendiagnosa gejalanya secara teliti tanpa ada yang ditutup-tutupi. Di lapangan pesantren konvensional, kesenjangan antara hafalan kitab dan perilaku nyata termanifestasi ke dalam **Lima Wajah Anomali**:
+Untuk menjawab teka-teki besar di atas, kita tidak boleh tergesa-gesa menyalahkan santri dengan memberi label "anak nakal", "bebal", atau "berwatak buruk". Jika sebuah fenomena terjadi secara massal di puluhan lembaga, maka masalahnya bukan lagi pada individu anak, melainkan pada **kesalahan metodologis sistemik** dalam cara kita mendidik mereka.
 
-```mermaid
-graph TD
-    RootAnomali["LIMA WAJAH ANOMALI PENDIDIKAN KARAKTER KONVENSIONAL"]
-    
-    RootAnomali --> A1["1. ANOMALI KEPEMILIKAN (Normalisasi Ghashab)<br/>Hafal dalil haramnya ghashab, namun sandal & sajadah teman dipakai tanpa izin."]
-    
-    RootAnomali --> A2["2. ANOMALI EMPATI (Perebutan Fasilitas & Egoisme)<br/>Hafal hadits persaudaraan, namun menyembunyikan gayung mandi di plafon."]
-    
-    RootAnomali --> A3["3. ANOMALI KEBERSIHAN (Kontradiksi Thaharah)<br/>Lulus ujian fiqih thaharah, namun pakaian kotor menumpuk dan lorong berbau."]
-    
-    RootAnomali --> A4["4. ANOMALI LISAN (Kekerasan Verbal Malam Hari)<br/>Bertutur halus di depan asatidz, namun saling mengejek kasar di dalam kamar."]
-    
-    RootAnomali --> A5["5. ANOMALI KEKUASAAN (Feodalisme Senioritas)<br/>Menghafal adab tawadhu', namun santri senior memperbudak santri junior."]
-```
-<div align="center"><sub><b>Gambar 1.1.3:</b> Lima Wajah Anomali Perilaku yang Kerap Ditemukan dalam Keseharian Asrama.</sub></div>
-
-#### 1. Anomali Kepemilikan: Normalisasi Budaya *Ghashab*
-Santri mempelajari dalam kitab fikih bahwa mengambil barang milik orang lain tanpa keridhaannya—meskipun hanya sebatang jarum atau sepasang sandal jepit—adalah perbuatan haram dan dosa. Namun di asrama, berkembang pembenaran kolektif yang sangat keliru: *"Di pondok, sandal dan sarung adalah milik bersama."* Santri yang kehilangan sandalnya merasa berhak mengambil sandal orang lain, menciptakan rantai pencurian terselubung yang merusak rasa aman dan integritas diri sejak usia dini.
-
-#### 2. Anomali Empati: Egoisme dan Perebutan Fasilitas
-Setiap hari santri diajarkan hadits agung: *"Tidak beriman salah seorang di antara kalian hingga ia mencintai saudaranya sebagaimana ia mencintai dirinya sendiri."* Namun saat bel adzan berbunyi, hadits tersebut menguap seketika. Terjadi perebutan kran wudhu, serobot-menyerobot antrean, hingga praktik menyembunyikan gayung mandi di plafon asrama agar santri lain tidak bisa menggunakannya. Ketiadaan sistem yang mendampingi latihan antre membuat dorongan hewani santri (*Nafs Ammarah*) mengalahkan nalar ilmunya.
-
-#### 3. Anomali Kebersihan: Kontradiksi Teori *Thaharah*
-Santri mampu menuliskan secara rinci jenis-jenis najis, syarat sah wudhu, dan rukun mandi besar di atas lembar ujian madrasah. Namun di dalam bilik tidur mereka, kasur dibiarkan berdebu, pakaian basah digantung bertumpuk hingga berjamur, dan sampah makanan diselipkan di kolong ranjang. Mengapa pemahaman fikih bersuci (*Thaharah*) gagal menjelma menjadi budaya bersih (*Nazhafah*)? Karena fikih hanya diajarkan sebagai syarat sah ritual ibadah, bukan sebagai gaya hidup spiritual yang dilatihkan setiap pagi.
-
-#### 4. Anomali Lisan: Ejekan Kasar dan Matinya Rasa Malu (*al-Haya'*)
-Di hadapan pengasuh atau guru madrasah, santri menampilkan performa tutur kata krama yang amat santun dan suara yang lirih merendah. Namun ketika pintu kamar tertutup pada malam hari dan asatidz telah pulang ke rumah masing-masing, bahasa yang digunakan berubah 180 derajat: celaan fisik, hinaan nama orang tua, umpatan kotor, dan sarkasme tajam menjadi menu percakapan harian. Hati nurani santri mengalami desensitisasi (kebal rasa) karena menganggap kekasaran lisan sebagai simbol keakraban pria.
-
-#### 5. Anomali Kekuasaan: Perpeloncoan Berkedok Penempaan Mental
-Santri kelas atas yang telah menghafal kitab-kitab adab justru mempraktikkan feodalisme rimba terhadap adik kelasnya: menyuruh santri baru mencuci pakaian kotor senior, menyuruh memijat hingga larut malam tanpa upah, memalak jatah kiriman uang, hingga melakukan sidang malam yang disertai pembentakan massal. Doktrin salah kaprah ini terus diwariskan turun-temurun dengan alasan "agar santri baru memiliki mental baja", padahal hakikatnya adalah penularan luka batin dan pelampiasan dendam masa lalu.
-
----
-
-### 3. Membedah Sains Kognitif: Mengapa Nasihat dan Hafalan Berhenti di Tenggorokan?
-
-Mengapa ribuan nasihat yang disampaikan di mimbar masjid dan hafalan bait kitab adab yang diulang ratusan kali seolah tidak berdaya menghentikan anomali-anomali di atas?
-
-Untuk menjawabnya, kita harus memahami arsitektur kerja otak manusia. Riset mutakhir dalam bidang neurosains kognitif dan psikologi memori (Larry Squire[^1], John Anderson[^2], serta Daniel Kahneman[^3]) membuktikan bahwa otak manusia memproses pengetahuan ke dalam **dua sirkuit saraf (*neural pathways*) yang terpisah secara anatomis dan fungsional**:
+Sains modern di bidang neurokognitif dan psikologi memori (merujuk pada riset Larry Squire[^1], John Anderson[^2], serta teori pemrosesan ganda Daniel Kahneman[^3]) memberikan penjelasan ilmiah yang sangat terang benderang mengapa hafalan dalil tidak dengan sendirinya melahirkan karakter adab. Otak manusia ternyata tidak menyimpan seluruh pengetahuan pada satu laci yang sama, melainkan membaginya ke dalam **dua sistem sirkuit saraf yang terpisah jauh**:
 
 ```mermaid
 graph TD
@@ -110,34 +73,25 @@ graph TD
     Deklaratif -.->|"Terputus: jika hanya ceramah & ujian tulis"| Prosedural
     Deklaratif ==>|"Jembatan Emas: Habituasi 66 Hari Terbimbing"| Prosedural
 ```
-<div align="center"><sub><b>Gambar 1.1.4:</b> Arsitektur Sistem Memori di Otak: Memori Deklaratif (Teori) vs Memori Prosedural (Praktik Refleks).</sub></div>
+<div align="center"><sub><b>Gambar 1.1.3:</b> Arsitektur Sistem Memori di Otak: Memori Deklaratif (Teori) vs Memori Prosedural (Praktik Refleks).</sub></div>
 
-#### A. Memori Deklaratif (*Declarative / Semantic Memory* - "Knowing That")
-* **Lokasi Sirkuit di Otak**: Diproses melalui *Hipokampus* dan disimpan di lapisan luar otak (*Neokorteks*, terutama korteks temporal).
-* **Hakikat & Sifat**: Merupakan memori nalar sadar (*System 2 / Controlled Processing*) yang menyimpan informasi verbal, hafalan matan kitab, dalil Al-Qur'an, hadits, dan kaidah fikih.
-* **Cara Kerja**: Memori ini membutuhkan waktu berpikir dan konsentrasi sadar. Ketika santri duduk di ruang kelas dan ditanya: *"Apa hukum ghashab sandal?"*, hipokampusnya bekerja membuka memori teori, lalu mulutnya menjawab lancar: *"Haram, dan termasuk dosa menzalimi hak muslim."*
-* **Kelemahan Fatal**: Memori deklaratif **tidak memiliki jalur kabel langsung ke otot tindakan spontan**. Saat santri mengalami kelelahan fisik, tergesa-gesa mengejar waktu shalat, atau berada dalam tekanan emosi, memori deklaratif di neokorteks akan mengalami perlambatan akses (*cognitive load overload*).
+Pertama, **Memori Deklaratif (*Declarative Memory* / *Knowing That*)**. Memori ini diproses di *hipokampus* dan disimpan di lapisan luar otak (*korteks serebral*). Isinya adalah konsep verbal, teori hukum fikih, dalil-dalil ayat Al-Qur'an, dan matan hadits. Memori ini bersifat lambat dan membutuhkan proses berpikir sadar (*System 2*). Ketika seorang santri ditanya di ruang ujian: *"Apa hukum memakai sandal kawan tanpa izin?"*, otak santri mengakses memori deklaratif dan menjawab dengan sempurna: *"Hukumnya ghashab, dan ghashab adalah perbuatan haram serta berdosa besar."* Namun, memori deklaratif ini **tidak terhubung langsung dengan otot penggerak tindakan spontan**.
 
-#### B. Memori Prosedural (*Procedural / Behavioral Memory* - "Knowing How")
-* **Lokasi Sirkuit di Otak**: Tertanam jauh di dalam sirkuit bawah sadar (*Subcortical System*), yaitu *Basal Ganglia*, *Striatum*, dan *Serebelum*.
-* **Hakikat & Sifat**: Merupakan memori kebiasaan otomatis (*System 1 / Automatic Processing*) yang mengendalikan gerak refleks tubuh tanpa perlu berpikir panjang.
-* **Manifestasi Nyata Adab**: 
-  * Santri yang sedang berlari kencang karena terlambat bangun subuh, secara otomatis menahan kakinya saat melihat sandal milik temannya di depan pintu, lalu dengan tenang tetap bertelanjang kaki mencari sandalnya sendiri di rak.
-  * Santri yang melihat tetesan air wudhu menggenangi lantai teras masjid secara spontan mengambil kain pel dan mengeringkannya tanpa menunggu diperintah musyrif dan tanpa melihat apakah ada orang yang memujinya.
+Kedua, **Memori Prosedural (*Procedural Memory* / *Knowing How*)**. Memori ini tertanam kokoh di sirkuit saraf bawah sadar (*Basal Ganglia* dan *Serebelum*). Di sinilah letak **karakter sejati dan kebiasaan otomatis (*habits*)**. Memori ini bekerja secepat kilat tanpa perlu berpikir panjang (*System 1*). Refleks seorang santri yang sedang terburu-buru mengejar adzan subuh untuk menahan kakinya agar tidak mengambil sandal temannya yang berserakan, lalu tetap rela bertelanjang kaki mencari sandalnya sendiri di rak—adalah buah dari memori prosedural yang telah terlatih.
 
 > [!IMPORTANT]
-> ### 🚗 Analogi Nyata: Belajar Menyetir Mobil 1.000 Halaman Teori vs Refleks Mengemudi
-> Bayangkan seseorang yang ingin mahir mengemudikan mobil di jalan raya. Ia membeli buku manual otomotif setebal 1.000 halaman, menghafal fungsi seluruh pedal gas, rem, kopling, tuas transmisi, dan aturan rambu lalu lintas hingga berhasil meraih nilai 100 (*sempurna*) dalam ujian teori SIM.
+> ### 🚗 Analogi Belajar Menyetir Mobil: Menjembatani Teori Menuju Refleks Tindakan
+> Bayangkan seseorang yang ingin mahir mengemudikan mobil di jalan raya. Ia membeli buku panduan berkendara setebal 1.000 halaman, menghafal seluruh fungsi pedal gas, rem, kopling, tuas transmisi, dan seluruh rambu lalu lintas hingga meraih nilai 100 (*sempurna*) dalam ujian tulis.
 > 
-> Apakah orang tersebut langsung bisa kita minta mengemudikan mobil di tengah jalan tol yang padat dan melaju kencang? **Tentu saja tidak!** Tatkala ada sepeda motor yang mendadak memotong jalurnya secara tiba-tiba, hafalan teori di lembar ujiannya tidak akan sanggup menyelamatkannya. Otak sadarnya (*PFC*) membutuhkan waktu sepersekian detik untuk berpikir, sedangkan kakinya belum memiliki memori prosedural (*muscle memory*) untuk menginjak pedal rem dalam hitungan milidetik.
+> Apakah orang tersebut langsung bisa kita lepaskan menyetir mobil di jalan raya yang padat dan macet tanpa pernah berlatih praktik di balik kemudi? **Tentu saja tidak!** Tatkala ada kendaraan lain yang tiba-tiba memotong jalurnya secara mendadak, hafalan teori di lembar ujiannya tidak akan sanggup menyelamatkannya. Otak sadarnya (*PFC*) membutuhkan waktu sepersekian detik untuk mengingat teori, sementara kakinya belum memiliki memori refleks (*muscle memory*) untuk menginjak pedal rem dalam hitungan milidetik.
 > 
-> Hal yang persis sama terjadi pada pembinaan santri: **Menghafal 100 hadits adab tidak akan pernah otomatis melahirkan santri yang beradab luhur, kecuali jika nilai-nilai hadits tersebut dilatihkan secara konsisten, dipraktikkan berulang kali, didampingi langsung oleh musyrif yang hangat, dan dibiasakan di dalam denyut kehidupan asrama 24 jam.**
+> Hal yang persis sama terjadi dalam pendidikan adab santri: **Menghafal 100 hadits tentang keutamaan sabar, amanah, dan persaudaraan tidak akan pernah otomatis melahirkan santri yang berakhlak mulia, kecuali jika nilai-nilai hadits tersebut dilatihkan secara konsisten, dipraktikkan berulang kali, didampingi langsung oleh musyrif yang hangat, dan dibiasakan di dalam denyut kehidupan asrama 24 jam.**
 
 ---
 
-### 4. Kritik Epistemologi Turats: Tragedi Mereduksi Ta'dib Menjadi Sekadar Ta'lim
+### III. Tragedi Hilangnya Hakikat Ta'dib: Menengok Kritik Epistemologis Turats
 
-Krisis diskoneksi ini sesungguhnya telah dipetakan secara sangat jernih oleh filsuf dan sejarawan pendidikan Islam kontemporer, **Prof. Dr. Syed Muhammad Naquib al-Attas**[^4]. Beliau menjelaskan bahwa kemunduran umat Islam berakar dari **kerancuan epistemologis (*confusion of concepts*)** dalam membedakan tiga pilar pendidikan Islam:
+Kesenjangan biologis antara "tahu teori" dan "terampil mempraktikkan" ini bermuara pada krisis yang lebih mendalam di ranah filosofis. Filsuf dan pemikir pendidikan Islam terkemuka, **Prof. Dr. Syed Muhammad Naquib al-Attas**[^4], telah mengingatkan bahwa akar kejatuhan peradaban umat Islam berawal dari **kerancuan konseptual (*confusion of concepts*)** dalam membedakan tiga pilar pendidikan Islam:
 
 ```mermaid
 graph TD
@@ -150,58 +104,57 @@ graph TD
         Talim & Tarbiyah & Tadib ==> Integrasi["INSAN KAMIL / INSAN ADABI (SANTRI PARIPURNA)<br/>Kokoh Tauhidnya, Luas Ilmunya, Luhur Akhlak Kesehariannya"]
     end
 ```
-<div align="center"><sub><b>Gambar 1.1.5:</b> Struktur Tiga Ranah Pendidikan Islam dan Dampak Kehancuran Karakter Akibat Hilangnya Pilar Ta'dib.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.4:</b> Struktur Tiga Ranah Pendidikan Islam dan Dampak Kehancuran Karakter Akibat Hilangnya Pilar Ta'dib.</sub></div>
 
-#### Matriks Perbandingan Tiga Ranah Pendidikan Islam:
+Al-Attas menguraikan bahwa **Ta'lim (تعليم)** berfokus pada transfer pengetahuan dan kecerdasan akal nalar (*al-'Aql*); **Tarbiyah (تربية)** berfokus pada pemeliharaan fisik, kesehatan raga, dan pemenuhan kebutuhan biologis (*al-Jasad*); sedangkan **Ta'dib (تأديب)** adalah inti dari seluruh pendidikan Islam, yaitu proses penanaman adab ke dalam jiwa dan kalbu (*al-Qalb war-Ruh*) agar seseorang mampu menempatkan segala sesuatu pada posisinya yang benar dan adil di hadapan Allah dan sesama makhluk.
 
-| Ranah Pembinaan | Terminologi Turats | Dimensi Manusia | Fokus Aktivitas | Tolak Ukur Evaluasi | Output Karakter yang Terbentuk |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Pengajaran Akal** | **Ta'lim (تعليم)** | Nalar Intelektual (*al-'Aql*) | Membaca kitab, ceramah, ujian tulis, menghafal dalil. | Nilai angka raport, kelulusan ujian semester, syahadah. | Santri berwawasan luas, faham teks, cakap berdebat dalil. |
-| **Pengasuhan Raga** | **Tarbiyah (تربية)** | Fisik & Naluri Hayati (*al-Jasad*) | Penyediaan asrama, makanan bergizi, kesehatan, sarana olahraga. | Kebugaran fisik, berat badan seimbang, fasilitas terpenuhi. | Santri tumbuh sehat, kuat raganya, terpenuhi hak biologisnya. |
-| **Penanaman Adab** | **Ta'dib (تأديب)** | Kalbu & Jiwa Spiritual (*ar-Ruh wal-Qalb*) | Habituasi perilaku, muhasabah, teladan *qudwah*, ketertiban 24 jam. | Refleks empati, kejujuran saat sendiri, kebersihan kamar, keikhlasan. | **Insan Adabi**: Santri yang setiap gerak anggota tubuhnya meletakkan sesuatu pada tempatnya. |
+| Ranah Pembinaan | Sasaran Manusia | Fokus Aktivitas di Pondok | Tolak Ukur Evaluasi | Output Karakter yang Terbentuk |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ta'lim (تعليم)** | Daya Nalar Akal | Membaca kitab, ceramah ustadz, hafalan bait nadhom. | Nilai ujian tulis, hafalan lisan, syahadah formal. | Santri berwawasan luas, faham teks, cakap berdalil. |
+| **Tarbiyah (تربية)** | Raga & Naluri Hayati | Penyediaan asrama, makanan bergizi, sarana tidur. | Kebugaran fisik, berat badan, terpenuhinya fasilitas. | Santri sehat, bugar, terawat kebutuhan raganya. |
+| **Ta'dib (تأديب)** | Kalbu & Jiwa Spiritual | Habituasi perilaku, teladan *qudwah*, muhasabah 24 jam. | Refleks empati, kejujuran saat sendiri, ketertiban asrama. | **Insan Adabi**: Santri yang refleks perilakunya selaras dengan ridha Allah. |
 
 > [!CAUTION]
-> ### ⚠️ Bahaya Besar Mereduksi Ta'dib Menjadi Sekadar Ta'lim:
-> Ketika sebuah pondok pesantren mengerdilkan kurikulum akhlaknya menjadi sekadar pengajaran *Ta'lim* (hafalan teks kitab dan ujian kertas), maka pesantren tersebut tanpa sadar sedang memproduksi **"Intelektual Agama yang Tuna-Adab"**:  
-> Yaitu sosok manusia yang lisannya sangat lincah mengutip ayat suci dan hadits nabawi untuk menghakimi kesalahan orang lain, namun kalbunya hampa dari empati, jemarinya ringan menzalimi hak kawan, perilakunya egois di ruang publik, dan tidak memiliki rasa malu (*al-Haya'*) tatkala melanggar kehormatan sesama hamba Allah.
+> ### ⚠️ Bahaya Mereduksi Ta'dib Menjadi Sekadar Ta'lim:
+> Ketika sebuah pesantren mereduksi kurikulum karakternya menjadi sekadar pengajaran *Ta'lim* (hafalan teks kitab dan ujian kertas semata), maka pesantren tersebut tanpa sadar sedang memproduksi **"Intelektual Agama yang Tuna-Adab"**:  
+> Yaitu sosok manusia yang lisannya sangat lincah mengutip ayat suci dan hadits nabawi untuk menghakimi kesalahan orang lain, namun kalbunya hampa dari empati, jemarinya ringan menzalimi hak kawan, perilakunya egois di ruang publik, dan tidak memiliki rasa malu (*al-Haya'*) tatkala melanggar kehormatan sesama saudaranya.
 
 ---
 
-### 5. Sosiologi Asrama: Fenomena 'Dua Panggung' dan Kepribadian Terbelah
+### IV. Dinamika Panggung Belakang: Mengapa Santri Menjadi Santun di Madrasah tapi Liar di Asrama?
 
-Secara sosiologis, keterpisahan antara ruang madrasah dan bilik asrama melahirkan fenomena psikososial yang sangat berbahaya: **Kepribadian Terbelah (*Split Personality / Nifaq Amali*)** pada diri santri.
+Tatkala proses *Ta'dib* tidak hadir mendampingi kehidupan santri di luar jam pelajaran kelas, kekosongan tersebut segera diisi oleh fenomena sosiologis yang sangat berbahaya: **Kepribadian Terbelah (*Split Personality / Nifaq Amali*)**.
 
-Merujuk pada teori dramaturgi sosiolog **Erving Goffman** (1959)[^5] dalam *The Presentation of Self in Everyday Life*, santri di dalam institusi berasrama (*total institution*) cenderung membagi kehidupannya menjadi dua panggung pertunjukan yang saling bertolak belakang:
+Sosiolog ternama **Erving Goffman** (1959)[^5] dalam mahakaryanya *The Presentation of Self in Everyday Life* menguraikan bahwa di dalam sebuah institusi tertutup (*total institution*), individu cenderung membelah kehidupannya menjadi dua panggung sosial yang saling bertolak belakang:
 
 ```mermaid
 graph TD
     subgraph DinamikaDuaPanggung["FENOMENA DRAMATURGI DUA PANGGUNG KEHIDUPAN SANTRI"]
-        PanggungDepan["PANGGUNG DEPAN (Front Stage)<br/>Lokasi: Ruang Kelas, Masjid, Majelis Taklim, Ndalem Kiai<br/>• Santri berada di bawah sorotan tatapan figur otoritas tinggi.<br/>• Santri memainkan peran kesantunan: menunduk takzim, bicara krama.<br/>• Motif Kepatuhan: Takut ditegur, menjaga gengsi, mengejar nilai raport."]
+        PanggungDepan["PANGGUNG DEPAN (Front Stage)<br/>Lokasi: Ruang Kelas, Masjid, Majelis Taklim, Ndalem Kiai<br/>• Santri berada di bawah sorotan tatapan figur otoritas tinggi.<br/>• Santri memainkan peran kesantunan: menunduk takzim, bicara krama.<br/>• Motif Kepatuhan: Takut ditegur, menjaga reputasi, mengejar nilai raport."]
         
         PanggungBelakang["PANGGUNG BELAKANG (Back Stage)<br/>Lokasi: Bilik Kamar Asrama, Lorong Gelap, Antrean Kamar Mandi<br/>• Minim kehadiran figur musyrif dewasa yang hangat dan mengayomi.<br/>• Topeng kesantunan dilepas: Berlakunya 'Hukum Rimba Senioritas'.<br/>• Muncul perilaku asli: Saling ejek, ghashab sandal, dan perebutan fasilitas."]
         
         PanggungDepan <-->|"Kesenjangan Integritas: Memupuk Kepribadian Terbelah (Hypocrisy Loop)"| PanggungBelakang
     end
 ```
-<div align="center"><sub><b>Gambar 1.1.6:</b> Dinamika Dua Panggung (Dramaturgi Sosiologis) dalam Keseharian Santri Pesantren.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.5:</b> Dinamika Dua Panggung (Dramaturgi Sosiologis) dalam Keseharian Santri Pesantren.</sub></div>
 
-#### Tiga Jebakan Sosial yang Merusak Panggung Belakang Asrama:
+Di **Panggung Depan (*Front Stage*)**—seperti ruang kelas madrasah, serambi masjid, atau saat sowan ke ndalem kiai—santri berada di bawah tatapan langsung figur otoritas. Di panggung ini, santri mengenakan "topeng kesantunan": menundukkan pandangan, berbicara dengan bahasa krama yang sangat halus, dan duduk bersila dengan rapi. Namun, motif di balik kesantunan ini kerap kali bukanlah dorongan takwa yang tulus, melainkan motif kepatuhan pasif: takut ditegur, menjaga gengsi di depan guru, atau mengejar nilai kepribadian di raport.
 
-1. **Feodalisme Senioritas Rimba**:  
-   Adanya pewarisan dendam antargenerasi. Santri junior yang diperlakukan kasar oleh seniornya menyimpan luka batin (*trauma emosional*). Ketika mereka naik ke kelas atas, mereka melampiaskan kembali dendam tersebut kepada adik kelas baru dengan dalih "menegakkan tradisi penempaan mental".
-2. **Normalisasi Bahasa Kasar & Pejoratif**:  
-   Di dalam kamar, ejekan verbal dan kata-kata kotor dianggap sebagai tanda "keakraban sejati". Santri yang berusaha menjaga lisan santun kerap dirundung dengan cap "sok alim". Akibatnya, kepekaan nurani perlahan-lahan tumpul.
-3. **Tekanan Konformitas Teman Sebaya (*Peer Group Pressure*)**:  
-   Berdasarkan riset psikologi perkembangan remaja (Brown & Larson, 2009)[^6], dorongan untuk diterima oleh kelompok sebaya jauh lebih kuat daripada kepatuhan terhadap aturan tertulis. Santri yang awalnya memiliki adab baik terpaksa ikut melanggar aturan (seperti ikut ghashab atau ikut membully teman sekamar) semata-mata karena takut dikucilkan (*social ostracism*).
+Sebaliknya, di **Panggung Belakang (*Back Stage*)**—yaitu di lorong asrama yang temaram, di antrean kamar mandi, atau di dalam bilik kamar tidur saat larut malam—figur otoritas dewasa tidak hadir mendampingi. Di ruang hampa pengasuhan inilah topeng kesantunan dilepas seketika, dan berlakulah tiga hukum sosial yang merusak karakter santri:
+
+1. **Feodalisme Senioritas Rimba**: Munculnya doktrin salah kaprah bahwa santri senior berhak memperbudak adik kelasnya (menyuruh mencuci baju, membelikan makanan di kantin, hingga menjadi pelampiasan kekesalan). Penindasan ini menanamkan trauma emosional pada santri yunior, yang kelak akan mereka balas kembali kepada adik kelas baru saat mereka naik tingkat.
+2. **Normalisasi Bahasa Kasar**: Di dalam kamar, saling mengejek fisik (*body shaming*) dan memanggil dengan nama hewan dianggap sebagai simbol "keakraban pria". Santri yang berusaha menjaga lisannya justru dirundung dengan sebutan "sok alim", hingga akhirnya rasa malu (*al-Haya'*) perlahan-lahan terkikis.
+3. **Tekanan Konformitas Teman Sebaya (*Peer Pressure*)**: Berdasarkan riset psikologi perkembangan remaja (Brown & Larson, 2009)[^6], kebutuhan untuk diterima oleh kawan sebaya jauh lebih dominan daripada kepatuhan pada aturan tertulis. Santri baru yang awalnya berkarakter baik terpaksa ikut melanggar aturan (ikut ghashab atau ikut membully kawan) semata-mata agar tidak dikucilkan (*social ostracism*) dari pergaulan kamarnya.
 
 ---
 
-### 6. Menghidupkan Kembali Suluh Turats: Wasiat Emas Guru-Guru Peradaban Islam
+### V. Menghidupkan Kembali Wasiat Emas Ulama Salaf tentang Hakikat Adab
 
-Kritik terhadap ilmu yang mandul dan hafalan yang tidak berbuah amal perbuatan bukanlah hal baru dalam sejarah Islam. Para ulama *muhaqqiqin* terdahulu telah memperingatkan bahaya ini dengan kalimat-kalimat yang mengguncang kesadaran kalbu:
+Kritik terhadap ilmu yang mandul dan hafalan yang tidak berbuah amal perbuatan ini sesungguhnya telah disuarakan dengan lantang oleh para ulama agung peradaban Islam sejak berabad-abad silam:
 
 > [!NOTE]
-> ### 📜 1. Wasiat Menggugah Hujjatul Islam Imam Abu Hamid Al-Ghazali dalam *Ayyuhal Walad*:[^7]
+> ### 📜 1. Peringatan Hujjatul Islam Imam Abu Hamid Al-Ghazali dalam *Ayyuhal Walad*:[^7]
 > 
 > $$\text{أَيُّهَا الْوَلَدُ، الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ. وَاعْلَمْ أَنَّ عِلْمًا لَا يُبْعِدُكَ الْيَوْمَ عَنِ الْمَعَاصِي، وَلَا يَحْمِلُكَ عَلَى الطَّاعَةِ، لَنْ يُبْعِدَكَ غَدًا عَنْ نَارِ جَهَنَّمَ، وَإِنْ لَمْ تَعْمَلِ الْيَوْمَ وَلَمْ تَتَدَارَكِ الْأَيَّامَ الْمَاضِيَةَ، تَقُولُ غَدًا يَوْمَ الْقِيَامَةِ: فَارْجِعْنَا نَعْمَلْ صَالِحًا، فَيُقَالُ: يَا أَحْمَقُ، أَنْتَ مِنْ هُنَاكَ تَجِيءُ!}$$
 > 
@@ -221,20 +174,20 @@ Kritik terhadap ilmu yang mandul dan hafalan yang tidak berbuah amal perbuatan b
 > *Imam Asy-Syafi'i rahimahullah bertutur: 'Kesungguhanku dalam mencari adab laksana seorang ibu yang mencari anak tunggalnya yang hilang di tengah padang pasir, di mana ia tidak memiliki anak selainnya!'"*
 
 > [!NOTE]
-> ### 📜 3. Pesan Emas Imam Malik bin Anas kepada Pemuda Quraisy:[^9]
+> ### 📜 3. Wasiat Imam Malik bin Anas kepada Pemuda Quraisy:[^9]
 > 
 > $$\text{تَعَلَّمِ الْأَدَبَ قَبْلَ أَنْ تَتَعَلَّمَ الْعِلْمَ، فَإِنَّ الْعِلْمَ كَثِيرٌ وَالْأَدَبَ مِيزَانُهُ}$$
 > 
 > **Artinya:**  
 > *"Pelajarilah adab sebelum engkau mempelajari ilmu! Karena sesungguhnya ilmu itu sangatlah banyak, sedangkan adab adalah neraca timbangan yang menentukan nilainya."*
 
-Mutiara Turats di atas menegaskan hakikat abadi: **Tolak ukur kemuliaan sebuah pesantren bukanlah dihitung dari berapa banyak lembar kitab yang dikhatamkan santri, melainkan seberapa dalam nilai-nilai adab tersebut menjelma menjadi gerak refleks nyata saat santri makan, tidur, berbicara, dan memperlakukan sesama saudaranya.**
+Seluruh mutiara Turats di atas menegaskan satu kebenaran yang tak terbantahkan: **Tolak ukur kemuliaan sebuah pesantren bukanlah dihitung dari berapa tebal kitab yang dikhatamkan santri, melainkan seberapa dalam nilai-nilai adab tersebut menjelma menjadi gerak refleks nyata saat santri makan, tidur, berbicara, dan memperlakukan sesama saudaranya.**
 
 ---
 
-### 7. Panduan Praktis Ekosistem TUMBUH: Lima Protokol Operasional Pengasuhan Terpadu 24-Jam
+### VI. Panduan Praktis Ekosistem TUMBUH: Menjembatani Teori Menjadi Karakter Nyata
 
-Bagaimana cara meruntuhkan jurang pemisah ini secara konkret, ilmiah, dan terukur di pondok pesantren kita? Ekosistem **TUMBUH** merumuskan **Lima Protokol Operasional Rekonstruksi Adab Terpadu 24-Jam**:
+Bagaimana cara meruntuhkan jurang pemisah antara ruang kelas madrasah dan bilik asrama secara konkret di pondok pesantren kita? Ekosistem **TUMBUH** merumuskan **Lima Protokol Operasional Rekonstruksi Adab Terpadu 24-Jam**:
 
 ```mermaid
 graph TD
@@ -250,23 +203,23 @@ graph TD
     
     RootProt --> P5["5. TRANSFORMASI SENIORITAS MENJADI SERVANT QUDWAH LEADERSHIP<br/>Santri kelas atas diamanahi peran Peer Mentor pelindung adik kelas tanpa intimidasi."]
 ```
-<div align="center"><sub><b>Gambar 1.1.7:</b> Lima Protokol Operasional Rekonstruksi Pembinaan Adab Terpadu 24-Jam Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.6:</b> Lima Protokol Operasional Rekonstruksi Pembinaan Adab Terpadu 24-Jam Ekosistem TUMBUH.</sub></div>
 
 ---
 
-#### PROTOKOL 1: Membumikan Teks Kitab ke dalam Kasus Nyata Asrama (*Case-Based Adab Learning*)
-* **Praktik Lama**: Guru membaca kitab adab secara monolog, santri menulis makna gandul di bawah teks Arab, lalu menghafalkannya untuk ujian tertulis tanpa pernah mendiskusikan realitas sandal atau gayung di kamar mandi.
-* **Standar Operasional TUMBUH**: Setiap bab adab wajib dihubungkan dengan **Dilema Kasus Nyata di Asrama**.
-  * *Skenario Diskusi Kelas*: Saat mengkaji bab *Hifzhul Mal* (Menjaga Harta Orang Lain), asatidz membuka sesi simulasi:  
-    *"Jika antum bangun kesiangan pukul 04.25 dan sandal antum terselip, sementara muadzin sudah mengumandangkan iqamah subuh, apa tindakan beradab yang harus antum ambil tanpa menyentuh sandal kawan sekamar?"*
-  * Santri diajak mendiskusikan solusi nyata, menetapkan kesepakatan kamar, dan merumuskan komitmen bersama.
+#### 1. Pembelajaran Adab Berbasis Kasus Nyata Asrama (*Case-Based Adab Learning*)
+* **Praktik Lama**: Guru membaca kitab adab secara monolog, memaknainya kata per kata dengan metode *makna gandul*, lalu menyuruh santri menghafalkannya untuk ujian tertulis tanpa pernah mendiskusikan masalah sandal atau gayung di kamar mandi.
+* **Standar Operasional TUMBUH**: Setiap bab adab langsung dihubungkan dengan **Dilema Kasus Nyata di Asrama**.
+  * *Skenario Nyata*: Saat mengkaji bab *Hifzhul Mal* (Menjaga Harta Orang Lain), asatidz membuka ruang dialog reflektif:  
+    *"Jika antum bangun kesiangan pukul 04.25 dan sandal antum terselip, sementara muadzin sudah mengumandangkan iqamah subuh, apa langkah beradab yang harus antum ambil tanpa menyentuh sandal kawan sekamar?"*
+  * Santri diajak berdiskusi, merumuskan kesepakatan kamar, dan menandatangani komitmen bersama untuk saling menjaga hak milik pribadi.
 
 ---
 
-#### PROTOKOL 2: Siklus Habituasi Neuro-Behavioral 66 Hari (*66-Day Habit Loop*)
-Berdasarkan riset neuroplastisitas kebiasaan (Lally et al., 2010)[^10], otak manusia membutuhkan rata-rata **66 hari pengulangan harian yang konsisten** agar suatu tindakan sadar yang melelahkan bermutasi menjadi kebiasaan refleks di *Basal Ganglia*.
+#### 2. Siklus Pembiasaan Neuro-Behavioral 66 Hari (*66-Day Habit Loop*)
+Berdasarkan riset neuroplastisitas kebiasaan (Lally et al., 2010)[^10], otak manusia membutuhkan rata-rata **66 hari pengulangan harian yang konsisten** agar suatu tindakan sadar yang melelahkan bermutasi menjadi kebiasaan refleks otomatis di *Basal Ganglia*.
 
-Ekosistem TUMBUH membagi 66 hari adaptasi santri baru menjadi 3 fase terpadu:
+Ekosistem TUMBUH membagi 66 hari pembiasaan karakter santri baru menjadi 3 fase terpadu:
 
 ```mermaid
 graph LR
@@ -278,7 +231,7 @@ graph LR
     
     Fase1 --> Fase2 --> Fase3
 ```
-<div align="center"><sub><b>Gambar 1.1.8:</b> Tiga Fase Trajektori Habituasi Karakter 66 Hari Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.7:</b> Tiga Fase Trajektori Habituasi Karakter 66 Hari Ekosistem TUMBUH.</sub></div>
 
 * **Fase 1: Inisiasi & Regulasi Bersama (*Co-Regulation*, Hari 1–21)**:  
   Musyrif asrama hadir secara fisik di setiap titik transisi penting (pukul 04.00 saat bangun tidur, pukul 05.30 saat piket kamar, dan pukul 18.00 saat persiapan masjid) untuk memberikan teladan langsung, menata antrean dengan ramah, dan membetulkan kekeliruan santri dengan senyuman.
@@ -289,11 +242,11 @@ graph LR
 
 ---
 
-#### PROTOKOL 3: Standar Apresiasi Relasional 4:1 (*Firm & Kind Discipline*)
-Otak manusia memiliki kecenderungan alami untuk lebih mengingat hal negatif (*negativity bias*). Bentakan yang keras dan kemarahan yang meluap-luap hanya akan membakar amigdala anak, melumpuhkan nalar moralnya, dan melatihnya menjadi penakut atau pemberontak.
+#### 3. Standar Rasio Apresiasi Relasional 4:1 (*Firm & Kind Discipline*)
+Otak manusia memiliki bias negatif alami (*negativity bias*). Bentakan yang keras dan kemarahan yang meluap-luap hanya akan membakar amigdala anak, melumpuhkan nalar moralnya, dan melatihnya menjadi pribadi yang penakut atau pemberontak.
 
 Oleh karena itu, Musyrif TUMBUH diwajibkan menerapkan **Rasio Emas 4 Apresiasi Kebaikan untuk Setiap 1 Teguran Terarah**:
-* **Contoh Apresiasi Proses (*Relational Encouragement*)**:  
+* **Apresiasi Proses yang Tulus (*Relational Encouragement*)**:  
   * *"Masya Allah, Ustadz sangat menghargai ketertiban antum yang rela menunggu giliran wudhu dengan sabar tadi pagi. Itu adalah wujud nyata adab seorang penuntut ilmu."*
   * *"Terima kasih banyak Akhi Fulan sudah berinisiatif merapikan sandal di depan pintu asrama. Lorong kamar kita menjadi sangat indah dan nyaman dipandang."*
 * **SOP Menegur Santri saat Khilaf (*Private & Restorative Correction*)**:  
@@ -302,8 +255,8 @@ Oleh karena itu, Musyrif TUMBUH diwajibkan menerapkan **Rasio Emas 4 Apresiasi K
 
 ---
 
-#### PROTOKOL 4: Protokol Serah-Terima Harian 15 Menit (*Daily Handover Protocol*)
-Untuk menutup jurang antara madrasah (panggung depan) dan asrama (panggung belakang), pesantren menerapkan SOP wajib pertemuan singkat 15 menit antara Wali Kelas dan Musyrif Asrama:
+#### 4. Protokol Serah-Terima Harian 15 Menit (*Daily Handover Protocol*)
+Untuk menyatukan madrasah dan asrama menjadi satu ekosistem pengasuhan 24 jam yang utuh, pesantren menerapkan SOP wajib pertemuan singkat 15 menit antara Wali Kelas dan Musyrif Asrama:
 
 ```mermaid
 graph LR
@@ -319,13 +272,13 @@ graph LR
         WalasSore --> MusyrifSore
     end
 ```
-<div align="center"><sub><b>Gambar 1.1.9:</b> Alur Protokol Serah-Terima Harian 15 Menit (Handover) antara Wali Kelas dan Musyrif Asrama.</sub></div>
+<div align="center"><sub><b>Gambar 1.1.8:</b> Alur Protokol Serah-Terima Harian 15 Menit (Handover) antara Wali Kelas dan Musyrif Asrama.</sub></div>
 
-Didukung oleh aplikasi *Logbook Digital PBIS Pesantren*, seluruh data dinamika perilaku santri tersinkronisasi secara *real-time*. Tidak ada lagi santri yang terabaikan atau luput dari sentuhan kasih sayang para pendidik.
+Didukung oleh aplikasi *Logbook Digital PBIS Pesantren*, seluruh data dinamika santri tersinkronisasi secara *real-time*. Tidak ada lagi santri yang terabaikan atau luput dari sentuhan kasih sayang para pendidik.
 
 ---
 
-#### PROTOKOL 5: Transformasi Senioritas Menjadi *Servant Qudwah Leadership*
+#### 5. Transformasi Senioritas Menjadi *Servant Qudwah Leadership*
 Pesantren mencabut 100% hak penertiban fisik, pengadilan malam, dan wewenang menghukum dari tangan santri senior. Struktur kepengurusan santri dirombak total menjadi **Kader Kepemimpinan Melayani (*Servant Leadership*)**:
 
 1. **Amanah sebagai Kakak Asuh (*Peer Mentors*)**:  
@@ -335,18 +288,18 @@ Pesantren mencabut 100% hak penertiban fisik, pengadilan malam, dan wewenang men
 
 ---
 
-### 8. Muhasabah Penutup: Menatap Masa Depan Santri Kita
+### VII. Muhasabah Jiwa: Menatap Masa Depan Santri Titipan Umat
 
-Ketika kita memandang wajah santri-santri yang sedang terlelap tidur di bilik asrama mereka di keheningan malam, tanyakanlah kepada lubuk hati nurani kita yang terdalam:
+Ketika keheningan malam menyelimuti bumi pesantren dan kita menatap wajah santri-santri yang sedang terlelap tidur di ranjang asrama mereka, tanyakanlah kepada lubuk hati nurani kita yang terdalam:
 
 > [!NOTE]
-> ### 🕊️ Renungan Jiwa untuk Setiap Pendidik Pesantren:
+> ### 🕊️ Renungan Nurani untuk Setiap Pendidik dan Pengasuh Pesantren:
 > *"Anak-anak ini bukanlah kayu mati yang bisa dipahat dengan bentakan kasar dan pukulan rotan. Mereka adalah tunas-tunas fitrah yang suci, jiwa-jiwa mulia yang dititipkan oleh Allah dan jutaan orang tua ke tangan kita.*  
 > 
-> *Jika kita mendidik mereka hanya dengan hafalan dalil di kepala tanpa membimbing perilakunya di ranjang tidur, kita telah mengkhianati amanah Ta'dib.*  
-> *Jika kita membiarkan kekerasan dan feodalisme merajai asrama mereka, kita sedang menyiapkan generasi masa depan yang rapuh dan mahir bermuka dua.*  
+> *Jika kita mendidik mereka hanya dengan hafalan dalil di kepala tanpa membimbing perilakunya di ranjang tidur, kita telah mengabaikan amanah Ta'dib.*  
+> *Jika kita membiarkan kekerasan dan feodalisme merajai bilik asrama mereka, kita sesungguhnya sedang menyiapkan generasi masa depan yang rapuh jiwanya dan mahir bermuka dua.*  
 > 
-> *Mari kita satukan langkah: jembatani hafalan kitab kuning mereka dengan teladan kasih sayang nyata, bangun sirkuit adab mereka dengan pembiasaan yang sabar, dan jadikan pesantren kita sebagai taman peradaban Islam yang aman, hangat, dan memuliakan fitrah kemanusiaan mereka."*
+> *Mari kita satukan langkah: jembatani hafalan kitab kuning mereka dengan teladan kasih sayang nyata, bangun sirkuit adab mereka dengan pembiasaan yang sabar, dan jadikan pesantren kita sebagai taman peradaban Islam yang aman, hangat, serta memuliakan kemuliaan fitrah kemanusiaan mereka."*
 
 ---
 
