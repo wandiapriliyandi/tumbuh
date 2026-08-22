@@ -1,9 +1,10 @@
 # STUDI KASUS & DIALEKTIKA KRITIS KHUSUS BAB 01
 ## *Tiga Studi Kasus Faktual Kegagalan Paradigma Lama dan Solusi Rekonstruktif Ekosistem TUMBUH*
 
-**Nomor Identifikasi**: `BOOK-01/BAB-01/STUDI-KASUS/2026`  
+**Nomor Identifikasi**: `BOOK-01/BAB-01/STUDI-KASUS/MASTER`  
 **Volume**: Buku 01 — *Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren*  
-**Fokus Keilmuan**: Analisis Kasus Lapangan, Diagnosis Psiko-Sosiologis, & Protokol Restoratif
+**Fokus Keilmuan**: Analisis Kasus Lapangan, Diagnosis Psiko-Sosiologis, & Protokol Restoratif  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Kuratif Restoratif, & Perlindungan Anak*)
 
 ---
 
@@ -23,6 +24,9 @@ graph TD
         Akar --> DampakSantriR
     end
 ```
+<div align="center"><sub><b>Gambar 1.S.1:</b> Diagnosis Psiko-Sosiologis dan Rantai Trauma pada Kasus Kekerasan Sidang Malam Santri.</sub></div>
+
+Bagan diagnosis di atas memetakan bagaimana kekosongan pengawasan musyrif dewasa pada malam hari secara langsung melahirkan ruang anarki feodal: Santri Z terdorong ke dalam status panik trauma (*Sympathetic/Dorsal Vagal*), sementara Santri R mereproduksi siklus kekerasan yang pernah dialaminya di masa lalu.
 
 ### 2. Bedah Diagnostik: Turats & Neurosains
 * **Analisis Turats (Ibnu Khaldun)**: Peristiwa ini adalah manifestasi konkret dari *Al-Qahr wal Qasr* (pemaksaan dan penindasan). Santri R meniru pola kekerasan yang pernah dialaminya saat menjadi santri baru tiga tahun silam (*Intergenerational Transmission of Violence / Bandura 1973*).
@@ -45,6 +49,9 @@ graph LR
     HafalanTinggi["Hafalan 15 Juz & Nilai Fiqh Mumtaz (Memori Deklaratif)"] -.->|Terputus tanpa Ta'dib| Ghashab["Praktik Ghashab & Keangkuhan Spiritual (Praksis Cacat)"]
     TUMBUH["Intervensi Ekosistem TUMBUH"] ==> Internalisasi["Penyelarasan Hafalan Qur'an dengan Adab Hak Milik Nyata"]
 ```
+<div align="center"><sub><b>Gambar 1.S.2:</b> Jurang Diskoneksi Hafalan Kognitif dengan Praksis Adab dan Solusi Intervensi TUMBUH.</sub></div>
+
+Diagram di atas menyingkap ironi diskoneksi kognitif: tingginya hafalan ayat suci di memori deklaratif tidak menjamin terbebasnya santri dari kezaliman ghashab, kecuali jika dijembatani oleh pembiasaan ta'dib nyata di asrama.
 
 ### 2. Bedah Diagnostik: Diskoneksi Kognitif & Moral Disengagement
 * **Analisis Al-Ghazali**: Terjadinya penyakit *Ghurur* (tertipu oleh amal sendiri) dan formalisme teks tanpa *Tazkiyatun Nafs*. Santri A memiliki ilmu deklaratif (*'ilm nazhari*) namun kalbunya buta dari hakikat wara' (*wara' al-muwashafat*).
@@ -72,6 +79,9 @@ graph TD
     SistemPoin --> Reaksi2["Pemalsuan Catatan & Kelicikan Massal (Ibnu Khaldun Effect)"]
     SistemPoin --> Reaksi3["Permusuhan Terbuka antara Santri dan Pengasuhan"]
 ```
+<div align="center"><sub><b>Gambar 1.S.3:</b> Tiga Dampak Destruktif Runtuhnya Sistem Poin Defisit Hitam di Pesantren.</sub></div>
+
+Alur reaksi pada bagan di atas memperlihatkan kegagalan sistem kontrol punitive sekuler: ancaman hukuman di panggung justru memicu keputusasaan, melatih santri memalsukan catatan pelanggaran, dan merusak relasi ukhuwah antarsantri dan pengasuh.
 
 ### 2. Bedah Diagnostik: Kerapuhan Behaviorisme Punitive
 * **Analisis Alfie Kohn & Deci-Ryan**: Sistem poin hitam adalah bentuk *Extrinsic Punitive Control* yang menghancurkan seluruh motivasi intrinsik santri. Sistem ini menciptakan budaya *cops-and-robbers* (kucing-kucingan), melatih santri menjadi penipu ulung demi menghindari pemotongan poin.
