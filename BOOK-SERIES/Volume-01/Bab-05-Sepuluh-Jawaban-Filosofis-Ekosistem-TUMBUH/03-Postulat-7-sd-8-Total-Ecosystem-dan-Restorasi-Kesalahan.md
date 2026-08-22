@@ -89,5 +89,5 @@ Dengan menyatukan lingkungan Bi'ah Shalihah 24-jam yang menyejukkan dan paradigm
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Urie Bronfenbrenner[^1]**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–48.
-[^2]: **Howard Zehr[^2]**, *Changing Lenses: A New Focus for Crime and Justice* (Scottsdale: Herald Press, 1990), Bab 10: "Restorative Justice", hlm. 175–214.
+[^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–48.
+[^2]: **Howard Zehr**, *Changing Lenses: A New Focus for Crime and Justice* (Scottsdale: Herald Press, 1990), Bab 10: "Restorative Justice", hlm. 175–214.

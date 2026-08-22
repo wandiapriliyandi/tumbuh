@@ -92,4 +92,4 @@ Pesantren tidak lagi berjalan dengan cara-cara coba-coba (*trial and error*) yan
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Peter M. Senge**, *The Fifth Discipline: The Art & Practice of The Learning Organization* (New York: Doubleday/Currency, 1990), hlm. 1–45.
-[^2]: **Robert H. Horner[^2] & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
+[^2]: **Robert H. Horner & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.

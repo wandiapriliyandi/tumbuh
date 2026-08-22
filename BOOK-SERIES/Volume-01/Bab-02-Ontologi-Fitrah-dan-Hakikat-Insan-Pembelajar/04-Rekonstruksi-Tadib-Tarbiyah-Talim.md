@@ -97,4 +97,4 @@ Dengan merekonstruksi dan memahkotai seluruh proses pendidikan dengan **Ta'dib N
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Wan Mohd Nor Wan Daud[^2]**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.
+[^2]: **Wan Mohd Nor Wan Daud**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.

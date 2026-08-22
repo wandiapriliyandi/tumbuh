@@ -1388,7 +1388,7 @@ Dengan merekonstruksi dan memahkotai seluruh proses pendidikan dengan **Ta'dib N
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Wan Mohd Nor Wan Daud[^2]**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.
+[^2]: **Wan Mohd Nor Wan Daud**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.
 
 
 ---
@@ -1475,7 +1475,7 @@ Santri merasa bahagia, aman, dicintai, dan dihargai. Dari lingkungan yang penuh 
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 20–55.
-[^2]: **Gary W. Evans[^2]**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441.
+[^2]: **Gary W. Evans**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441.
 
 
 ---
@@ -2011,7 +2011,7 @@ Dengan mengintegrasikan sains kognitif modern ke dalam keagungan tradisi halaqah
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer Science+Business Media, 2011), hlm. 1–45.
-[^2]: **K.H. M. Hasyim Asy'ari[^2]**, *Adab al-'Alim wal Muta'allim*, Tahqiq: Tim Tebuireng (Jombang: Pustaka Warisan Islam, 2014), Bab 3: "Adab al-Muta'allim fi Darsihi", hlm. 40–65.
+[^2]: **K.H. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim*, Tahqiq: Tim Tebuireng (Jombang: Pustaka Warisan Islam, 2014), Bab 3: "Adab al-Muta'allim fi Darsihi", hlm. 40–65.
 
 
 ---
@@ -2127,7 +2127,7 @@ Dengan mendekonstruksi relasi kuasa asimetris dan menggantinya dengan Kepemimpin
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Michel Foucault**, *Discipline and Punish: The Birth of the Prison*, Terjemahan Alan Sheridan (New York: Vintage Books, 1977), Bab 2: "The Means of Correct Training", hlm. 170–194.
-[^2]: **Robert K. Greenleaf[^2]**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977), hlm. 1–48.
+[^2]: **Robert K. Greenleaf**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977), hlm. 1–48.
 
 
 ---
@@ -2241,7 +2241,7 @@ Islam tidak pernah membutuhkan generasi penakut yang menunduk dalam kepalsuan. I
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Kasr asy-Syahwatayn wa Riyadhatin Nafs (Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 340–348.
-[^2]: **Martin E. P. Seligman[^2]**, *Helplessness: On Depression, Development, and Death* (San Francisco: W. H. Freeman, 1975), hlm. 21–68.
+[^2]: **Martin E. P. Seligman**, *Helplessness: On Depression, Development, and Death* (San Francisco: W. H. Freeman, 1975), hlm. 21–68.
 
 
 ---
@@ -2344,7 +2344,7 @@ Dengan memberantas tuntas segala bentuk kekerasan simbolik dan feodalisme senior
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Pierre Bourdieu & Jean-Claude Passeron**, *Reproduction in Education, Society and Culture*, Terjemahan Richard Nice (London: Sage Publications, 1977; cetak ulang 1990), Bab 1: "Foundations of a Theory of Symbolic Violence", hlm. 1–68.
-[^2]: **Dan Olweus[^2]**, *Bullying at School: What We Know and What We Can Do* (Oxford: Blackwell Publishing, 1993), hlm. 10–45.
+[^2]: **Dan Olweus**, *Bullying at School: What We Know and What We Can Do* (Oxford: Blackwell Publishing, 1993), hlm. 10–45.
 
 
 ---
@@ -2465,7 +2465,7 @@ Dengan menegakkan model *Servant Qudwah Leadership*, Sistem TUMBUH melahirkan ge
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Robert K. Greenleaf**, *The Servant as Leader* (Newton Centre: Robert K. Greenleaf Center, 1970; cetak ulang 2008), hlm. 1–35.
-[^2]: **Al-Imam Abu al-Hasan al-Mawardi[^2]**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 3–25.
+[^2]: **Al-Imam Abu al-Hasan al-Mawardi**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 3–25.
 
 
 ---
@@ -2577,7 +2577,7 @@ Dengan mereformasi organisasi santri menjadi wadah pengayoman kreatif, Sistem TU
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Richard Cohen**, *Students Resolving Conflict: Peer Mediation in Schools* (Glenview: Good Year Books, 1995), hlm. 25–68.
-[^2]: **B. Bradford Brown[^2] & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.
+[^2]: **B. Bradford Brown & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.
 
 
 ---
@@ -2681,8 +2681,8 @@ Dengan memancangkan tiga postulat eksistensial ini, Sistem TUMBUH memastikan bah
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas[^1]**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 25–45.
-[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali[^2]**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–62.
+[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 25–45.
+[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–62.
 
 
 ---
@@ -2789,8 +2789,8 @@ Dengan memadukan otoritas integratif wahyu-sains, kesabaran habituasi 66 hari, d
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Jane Nelsen[^1]**, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 15–58.
-[^2]: **Phillippa Lally[^2] et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.
+[^1]: **Jane Nelsen**, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 15–58.
+[^2]: **Phillippa Lally et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.
 
 
 ---
@@ -2886,8 +2886,8 @@ Dengan menyatukan lingkungan Bi'ah Shalihah 24-jam yang menyejukkan dan paradigm
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Urie Bronfenbrenner[^1]**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–48.
-[^2]: **Howard Zehr[^2]**, *Changing Lenses: A New Focus for Crime and Justice* (Scottsdale: Herald Press, 1990), Bab 10: "Restorative Justice", hlm. 175–214.
+[^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–48.
+[^2]: **Howard Zehr**, *Changing Lenses: A New Focus for Crime and Justice* (Scottsdale: Herald Press, 1990), Bab 10: "Restorative Justice", hlm. 175–214.
 
 
 ---
@@ -2982,8 +2982,8 @@ Dengan menyatukan perlindungan kesejahteraan pendidik di garis depan dan visi pe
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–58.
-[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas[^2]**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–155.
+[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–58.
+[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–155.
 
 
 ---
@@ -3166,7 +3166,7 @@ Dengan memandu santri mendaki tangga T1 s.d. T4 ini secara sabar dan terukur, Si
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Benjamin S. Bloom[^1] (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
+[^1]: **Benjamin S. Bloom (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
 [^2]: **Al-Imam ar-Raghib al-Isfahani**, *Adz-Dzari'ah ila Makarim asy-Syari'ah*, Tahqiq: Dr. Abu al-Yazid Abu Zaid al-'Ajami (Kairo: Dar as-Salam, 2007), hlm. 85–112.
 
 
@@ -3276,7 +3276,7 @@ Ketika para musyrif merasa dihargai oleh yayasan, memiliki waktu istirahat yang 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
+[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
 [^2]: **Arnold B. Bakker & Evangelia Demerouti**, "The Job Demands-Resources model: State of the art", *Journal of Managerial Psychology*, Vol. 22, No. 3 (2007), hlm. 309–328.
 
 
@@ -3376,7 +3376,7 @@ Pesantren tidak lagi berjalan dengan cara-cara coba-coba (*trial and error*) yan
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Peter M. Senge**, *The Fifth Discipline: The Art & Practice of The Learning Organization* (New York: Doubleday/Currency, 1990), hlm. 1–45.
-[^2]: **Robert H. Horner[^2] & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
+[^2]: **Robert H. Horner & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
 
 
 ---
@@ -4064,7 +4064,7 @@ Inilah puncak keluhuran akhlak nabawi yang dihidupkan kembali oleh Sistem TUMBUH
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Ibnu Qudamah al-Maqdisi**, *Al-Mughni*, Tahqiq: Dr. Abdullah bin Abdul Muhsin at-Turki (Kairo: Hajar, 1986), Jilid IX: "Kitab ad-Diyat", hlm. 550–558.
-[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi[^2]**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
+[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
 
 
 ---

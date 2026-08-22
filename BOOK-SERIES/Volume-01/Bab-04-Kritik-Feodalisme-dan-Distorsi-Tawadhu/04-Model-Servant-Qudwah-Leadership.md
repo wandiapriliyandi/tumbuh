@@ -114,4 +114,4 @@ Dengan menegakkan model *Servant Qudwah Leadership*, Sistem TUMBUH melahirkan ge
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Robert K. Greenleaf**, *The Servant as Leader* (Newton Centre: Robert K. Greenleaf Center, 1970; cetak ulang 2008), hlm. 1–35.
-[^2]: **Al-Imam Abu al-Hasan al-Mawardi[^2]**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 3–25.
+[^2]: **Al-Imam Abu al-Hasan al-Mawardi**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 3–25.

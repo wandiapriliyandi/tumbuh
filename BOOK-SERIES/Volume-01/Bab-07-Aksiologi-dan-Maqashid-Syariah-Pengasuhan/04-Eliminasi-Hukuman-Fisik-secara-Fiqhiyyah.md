@@ -102,4 +102,4 @@ Inilah puncak keluhuran akhlak nabawi yang dihidupkan kembali oleh Sistem TUMBUH
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Ibnu Qudamah al-Maqdisi**, *Al-Mughni*, Tahqiq: Dr. Abdullah bin Abdul Muhsin at-Turki (Kairo: Hajar, 1986), Jilid IX: "Kitab ad-Diyat", hlm. 550–558.
-[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi[^2]**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
+[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
