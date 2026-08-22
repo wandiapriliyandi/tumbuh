@@ -39,10 +39,12 @@ Dalam psikologi memori (merujuk pada karya fundamental Squire, 2004; Anderson, 1
 Pendidikan karakter konvensional di banyak pesantren terjebak dalam ilusi kognitif: mengira bahwa dengan mentransfer memori deklaratif (menghafal dalil, mendengarkan ceramah ustadz, mencatat makna gandul kitab), secara otomatis akan terbentuk skema prosedural adab dalam diri santri. 
 
 ```mermaid
-graph LR
-    Deklaratif["Pengetahuan Deklaratif (Teks Kitab)<br/>Tersimpan di Korteks Temporal<br/>'Tahu bahwa ghashab itu dosa'"] -.->|Terputus: Ilusi Pedagogis| Prosedural["Karakter Prosedural (Praksis Otomatis)<br/>Tersimpan di Sirkuit Basal Ganglia<br/>'Refleks menahan diri dari menyentuh barang orang lain'"]
-    
-    Deklaratif ==>|METODOLOGI HABITUASI TUMBUH (66 HARI)| Prosedural
+graph TD
+    Deklaratif["Pengetahuan Deklaratif: Teks Kitab<br/>Tersimpan di Korteks Temporal<br/>Paham Dalil Larangan Ghashab"]
+    Prosedural["Karakter Prosedural: Praksis Otomatis<br/>Tersimpan di Sirkuit Basal Ganglia<br/>Refleks Menahan Diri Nyata"]
+
+    Deklaratif -.->|"Terputus: Ilusi Pedagogis"| Prosedural
+    Deklaratif ==>|"Metodologi Habituasi TUMBUH 66 Hari"| Prosedural
 ```
 
 Sebagaimana dianalisis secara tajam oleh Prof. Syed Muhammad Naquib al-Attas (1980) dalam *The Concept of Education in Islam*, distorsi ini berakar dari hilangnya esensi **Ta'dib**. Pengajaran agama tereduksi menjadi sekadar *Ta'lim* kognitif yang kering—mentransmisikan informasi tanpa proses penanaman adab (*inculcation of adab*) yang melibatkan penataan jiwa (*Tarbiyatun Nafs*) dan penyucian kalbu (*Tazkiyatul Qalb*). 
