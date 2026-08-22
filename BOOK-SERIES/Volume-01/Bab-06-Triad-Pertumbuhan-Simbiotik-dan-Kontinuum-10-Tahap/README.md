@@ -1,18 +1,18 @@
-# BAB 6: TRIAD PERTUMBUHAN SIMBIOTIK & KONTINUUM 10-TAHAP
-## *Sitemap & Navigasi Berkas Sub-Bab*
+# BAB 06: TRIAD PERTUMBUHAN SIMBIOTIK & KONTINUUM 10-TAHAP
+## *Sitemap Induk, Arsitektur Sub-Bab, & Navigasi Monograf*
 
-**Nomor Identifikasi**: `BOOK-01/BAB-06/INDEX/2026`  
-**Volume**: Buku 01 — *Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren*  
-**Klasifikasi**: Folder Bab 06 Monograf Riset
+**Nomor Koleksi**: `BOOK-01/BAB-06/INDEX/2026/08`  
+**Klasifikasi**: Monograf Manajemen Pengasuhan Terpadu, Psikologi Perkembangan Karakter, & Teori Sistem Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Desain Kurikulum Adab*)
 
 ---
 
-## 📑 DAFTAR BERKAS MODULAR SUB-BAB 6
+## 📑 SITEMAP & STRUKTUR SUB-BAB MODULAR BAB 06
 
-| No | Berkas Sub-Bab | Judul Sub-Bab | Fokus Utama Pembahasan |
-| :---: | :--- | :--- | :--- |
-| **6.1** | [**`01-Santri-Bertumbuh-Tangga-T1-sd-T4.md`**](./01-Santri-Bertumbuh-Tangga-T1-sd-T4.md) | Santri Bertumbuh: Tangga T1–T4 | Trajektori kemandirian karakter dari adaptasi awal hingga transformasi khidmah. |
-| **6.2** | [**`02-Pendidik-Musyrif-Bertumbuh-Anti-Burnout.md`**](./02-Pendidik-Musyrif-Bertumbuh-Anti-Burnout.md) | Pendidik & Musyrif Bertumbuh: Anti-Burnout | Pengembangan kompetensi, kesehatan jiwa, dan manajemen shift pengasuhan sehat. |
-| **6.3** | [**`03-Sistem-Lembaga-Bertumbuh-Berbasis-Data.md`**](./03-Sistem-Lembaga-Bertumbuh-Berbasis-Data.md) | Sistem Lembaga Bertumbuh Berbasis Data | Transformasi menuju organisasi pembelajar dengan dashboard analitik PBIS. |
-| **6.4** | [**`04-Kontinuum-10-Tahap-Ekosistem-TUMBUH.md`**](./04-Kontinuum-10-Tahap-Ekosistem-TUMBUH.md) | Kontinuum 10-Tahap Ekosistem TUMBUH | Peta jalan menyeluruh dari santri baru hingga pemimpin lembaga pemberdaya. |
-| **6.5** | [**`05-Sinergi-Simbiotik-Pengasuhan-24-Jam.md`**](./05-Sinergi-Simbiotik-Pengasuhan-24-Jam.md) | Sinergi Simbiotik Pengasuhan 24-Jam | Integrasi pengukuran dampak kolektif pada santri, musyrif, dan lembaga. |
+| Sub-Bab | Judul Sub-Bab | Fokus Utama Kajian | Berkas Sub-Bab |
+| :---: | :--- | :--- | :---: |
+| **6.1** | **Santri Bertumbuh: Tangga Kapasitas T1 s.d. T4** | T1 Tahu Adab, T2 Mau Beradab, T3 Mampu Beradab Mandiri, T4 Teladan Penggerak Adab. | [Buka Sub-Bab 6.1](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-06-Triad-Pertumbuhan-Simbiotik-dan-Kontinuum-10-Tahap/01-Santri-Bertumbuh-Tangga-T1-sd-T4.md) |
+| **6.2** | **Pendidik & Musyrif Bertumbuh: Anti-Burnout** | Kompetensi pedagogi, regulasi emosi pembina (*Calm Presence*), proteksi jadwal libur & shift. | [Buka Sub-Bab 6.2](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-06-Triad-Pertumbuhan-Simbiotik-dan-Kontinuum-10-Tahap/02-Pendidik-Musyrif-Bertumbuh-Anti-Burnout.md) |
+| **6.3** | **Sistem Lembaga Bertumbuh: Berbasis Data** | Organisasi pembelajar, analitik logbook PBIS digital, deteksi dini masalah, keputusan berbasis bukti. | [Buka Sub-Bab 6.3](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-06-Triad-Pertumbuhan-Simbiotik-dan-Kontinuum-10-Tahap/03-Sistem-Lembaga-Bertumbuh-Berbasis-Data.md) |
+| **6.4** | **Kontinuum 10-Tahap Ekosistem TUMBUH** | Trajektori longitudinal: Tahap 1-4 individual, Tahap 5-7 kepemimpinan, Tahap 8-10 kelembagaan. | [Buka Sub-Bab 6.4](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-06-Triad-Pertumbuhan-Simbiotik-dan-Kontinuum-10-Tahap/04-Kontinuum-10-Tahap-Ekosistem-TUMBUH.md) |
+| **6.5** | **Sinergi Simbiotik Pengasuhan 24-Jam** | Integrasi Dual-Pillar Walas & Musyrif, protokol Handover 15-menit (06.45 & 16.00 WIB), harmoni triad. | [Buka Sub-Bab 6.5](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-06-Triad-Pertumbuhan-Simbiotik-dan-Kontinuum-10-Tahap/05-Sinergi-Simbiotik-Pengasuhan-24-Jam.md) |
