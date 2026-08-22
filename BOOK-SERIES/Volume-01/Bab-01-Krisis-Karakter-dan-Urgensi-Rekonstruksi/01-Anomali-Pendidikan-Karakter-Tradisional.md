@@ -36,7 +36,7 @@ Jawabannya bukan karena santri tersebut "berbakat jahat", melainkan karena siste
 
 ### 2. Mengapa Hafalan Tidak Otomatis Menjadi Karakter?
 
-Untuk memahami akar masalah ini, kita perlu membedah cara otak manusia menyimpan dan memproses informasi. Riset neurosains dan psikologi kognitif (Squire, 2004; Anderson, 1983) membuktikan bahwa otak manusia membagi pengetahuan ke dalam dua laci ingatan yang bekerja dengan cara sangat berbeda:
+Untuk memahami akar masalah ini, kita perlu membedah cara otak manusia menyimpan dan memproses informasi. Riset neurosains dan psikologi kognitif[^1] membuktikan bahwa otak manusia membagi pengetahuan ke dalam dua laci ingatan yang bekerja dengan cara sangat berbeda:
 
 #### A. Memori Deklaratif (Pengetahuan Teori / *Knowing That*)
 * **Letak di Otak**: Disimpan di lobus temporal dan korteks serebral.
@@ -63,13 +63,13 @@ graph TD
     Deklaratif ==>|"Metodologi Habituasi TUMBUH 66 Hari"| Prosedural
 ```
 
-Inilah yang dijelaskan oleh pemikir pendidikan Islam terkemuka, Prof. Dr. Syed Muhammad Naquib al-Attas. Beliau mengingatkan bahwa krisis umat berakar dari hilangnya **Ta'dib** (penanaman adab dan penataan jiwa) yang terdegradasi menjadi sekadar **Ta'lim** (transfer informasi dan pengetahuan belaka). Ketika adab hanya diajarkan sebagai wacana teori, yang lahir adalah santri yang pandai berdebat tentang dalil akhlak, tetapi miskin keteladanan dalam bersikap.
+Inilah yang dijelaskan oleh pemikir pendidikan Islam terkemuka, Prof. Dr. Syed Muhammad Naquib al-Attas.[^2] Beliau mengingatkan bahwa krisis umat berakar dari hilangnya **Ta'dib** (penanaman adab dan penataan jiwa) yang terdegradasi menjadi sekadar **Ta'lim** (transfer informasi dan pengetahuan belaka). Ketika adab hanya diajarkan sebagai wacana teori, yang lahir adalah santri yang pandai berdebat tentang dalil akhlak, tetapi miskin keteladanan dalam bersikap.
 
 ---
 
 ### 3. Fenomena 'Dua Wajah' Santri: Santun di Depan Kiai, Liar di Belakang Musyrif
 
-Secara sosiologis, pemisahan antara materi kelas dan dinamika asrama menciptakan fenomena **Dua Panggung Kehidupan** (meminjam teori sosiologi Erving Goffman):
+Secara sosiologis, pemisahan antara materi kelas dan dinamika asrama menciptakan fenomena **Dua Panggung Kehidupan** (meminjam teori dramaturgi sosiologi Erving Goffman[^3]):
 
 ```mermaid
 graph TD
@@ -93,22 +93,20 @@ graph TD
 Kritik terhadap ilmu yang hanya tersimpan di lisan tanpa menyentuh hati bukanlah hal baru. Para ulama besar terdahulu telah memberikan peringatan yang sangat tegas:
 
 > [!NOTE]
-> ### 📜 Peringatan Imam Al-Ghazali dalam Risalah *Ayyuhal Walad*:
+> ### 📜 Peringatan Imam Al-Ghazali dalam Risalah *Ayyuhal Walad*:[^4]
 > 
 > $$\text{أَيُّهَا الْوَلَدُ، الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ. وَاعْلَمْ أَنَّ عِلْمًا لَا يُبْعِدُكَ الْيَوْمَ عَنِ الْمَعَاصِي، وَلَا يَحْمِلُكَ عَلَى الطَّاعَةِ، لَنْ يُبْعِدَكَ غَدًا عَنْ نَارِ جَهَنَّمَ}$$
 > 
 > **Artinya:**  
-> *"Wahai anakku! Ilmu tanpa amal adalah kegilaan, dan amal tanpa ilmu adalah kesia-siaan. Ketahuilah, ilmu yang tidak mampu menjauhkanmu dari perbuatan maksiat pada hari ini, dan tidak mendorongmu untuk taat beribadah, niscaya tidak akan mampu menyelamatkanmu dari siksa api neraka di hari esok!"*  
-> *(Imam Abu Hamid Al-Ghazali, Kitab Ayyuhal Walad, hlm. 12)*
+> *"Wahai anakku! Ilmu tanpa amal adalah kegilaan, dan amal tanpa ilmu adalah kesia-siaan. Ketahuilah, ilmu yang tidak mampu menjauhkanmu dari perbuatan maksiat pada hari ini, dan tidak mendorongmu untuk taat beribadah, niscaya tidak akan mampu menyelamatkanmu dari siksa api neraka di hari esok!"*
 
 > [!NOTE]
-> ### 📜 Nasihat Hadhratusy Syaikh KH. M. Hasyim Asy'ari dalam *Adab al-'Alim wal Muta'allim*:
+> ### 📜 Nasihat Hadhratusy Syaikh KH. M. Hasyim Asy'ari dalam *Adab al-'Alim wal Muta'allim*:[^5]
 > 
 > $$\text{قَالَ بَعْضُ السَّلَفِ: الْأَدَبُ فِي الْعَمَلِ عَلَامَةُ قَبُولِ الْعَمَلِ. وَقَالَ ابْنُ الْمُبَارَكِ: طَلَبْتُ الْأَدَبَ ثَلَاثِينَ سَنَةً، وَطَلَبْتُ الْعِلْمَ عِشْرِينَ سَنَةً، وَكَانُوا يَطْلُبُونَ الْأَدَبَ قَبْلَ الْعِلْمِ}$$
 > 
 > **Artinya:**  
-> *"Sebagian ulama salaf menegaskan: 'Keberadaan adab di dalam suatu amal perbuatan adalah tanda diterimanya amal tersebut di sisi Allah.' Ulama besar Abdullah bin al-Mubarak berkata: 'Aku mendalami adab selama 30 tahun, dan aku mempelajari ilmu agama selama 20 tahun; dan sungguh para ulama terdahulu selalu mempelajari adab terlebih dahulu sebelum menuntut ilmu.'"*  
-> *(KH. M. Hasyim Asy'ari, Kitab Adab al-'Alim wal Muta'allim, hlm. 9)*
+> *"Sebagian ulama salaf menegaskan: 'Keberadaan adab di dalam suatu amal perbuatan adalah tanda diterimanya amal tersebut di sisi Allah.' Ulama besar Abdullah bin al-Mubarak berkata: 'Aku mendalami adab selama 30 tahun, dan aku mempelajari ilmu agama selama 20 tahun; dan sungguh para ulama terdahulu selalu mempelajari adab terlebih dahulu sebelum menuntut ilmu.'"*
 
 Kutipan-kutipan di atas mempertegas bahwa keberhasilan sebuah pesantren tidak diukur dari berapa banyak halaman kitab yang dikhatamkan santri, melainkan **seberapa dalam nilai-nilai adab tersebut menjelma menjadi akhlak nyata saat santri makan, tidur, berbicara, dan bergaul dengan sesamanya.**
 
@@ -137,3 +135,13 @@ graph TD
    Senioritas feodal dihapus total. Santri kelas atas tidak lagi dilayani, melainkan dilatih menjadi pengayom (*Peer Mentors*) yang bertanggung jawab membantu adik kelas yang rindu rumah (*homesick*), mengajarkan cara merapikan tempat tidur, dan menjadi teladan dalam shalat berjamaah.
 
 Dengan pendekatan ini, adab tidak lagi menjadi beban hafalan di atas kertas ujian, melainkan bertransformasi menjadi **identitas diri yang memancar secara alami, penuh keikhlasan, dan melekat seumur hidup**.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Larry R. Squire**, "Memory systems of the brain: A brief history and current perspective", *Neurobiology of Learning and Memory*, Vol. 82, No. 3 (2004), hlm. 171–177; serta **John R. Anderson**, *The Architecture of Cognition* (Cambridge: Harvard University Press, 1983).
+[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–28.
+[^3]: **Erving Goffman**, *The Presentation of Self in Everyday Life* (New York: Anchor Books / Doubleday, 1959), hlm. 106–140.
+[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ayyuhal Walad fi Nashihat at-Talamidz*, Tahqiq: Dr. Ahmad Ahmad Badawi (Kairo: Dar al-Qalam, 1986), hlm. 12–14.
+[^5]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), hlm. 9–11.

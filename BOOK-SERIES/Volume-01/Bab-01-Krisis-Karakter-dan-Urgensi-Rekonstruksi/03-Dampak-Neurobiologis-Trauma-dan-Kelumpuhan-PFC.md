@@ -127,3 +127,14 @@ Berpijak pada bukti neurobiologis dan turats di atas, Ekosistem TUMBUH mewajibka
    Musyrif dilarang menjatuhkan konsekuensi atau memberikan wejangan panjang saat santri masih dalam keadaan menangis histeris, gemetar, atau marah. Santri diberikan waktu jeda (*calm-down space*) disertai segelas air putih dan dzikir penenang hati (*Al-Baqarah: 153*) hingga detak jantungnya kembali normal.
 3. **Penyampaian Konsekuensi Restoratif pada Jendela Kesiapan Otak (*Window of Tolerance*)**:  
    Proses refleksi moral dan penyepakatan konsekuensi logis 4R baru dilakukan setelah korteks prefrontal santri kembali aktif penuh, memastikan bahwa proses ta'dib menjadi pengalaman pembelajaran sadar yang membekas dalam memori jangka panjang (*long-term episodic memory*).
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Jay N. Giedd et al.**, "Brain development during childhood and adolescence: a longitudinal MRI study", *Nature Neuroscience*, Vol. 2, No. 10 (1999), hlm. 861–863; **Sarah-Jayne Blakemore**, "Development of the social brain in adolescence", *Journal of the Royal Society of Medicine*, Vol. 105, No. 3 (2012), hlm. 111–116; serta **Laurence Steinberg**, "A social neuroscience perspective on adolescent risk-taking", *Developmental Review*, Vol. 28, No. 1 (2008), hlm. 78–106.
+[^2]: **Daniel Goleman**, *Emotional Intelligence: Why It Can Matter More Than IQ* (New York: Bantam Books, 1995), Bab 2: "Anatomy of an Emotional Hijacking", hlm. 13–29.
+[^3]: **Robert M. Sapolsky**, *Behave: The Biology of Humans at Our Best and Worst* (New York: Penguin Press, 2017), hlm. 95–136; serta **Bruce D. Perry & Maia Szalavitz**, *The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook* (New York: Basic Books, 2006), hlm. 45–78.
+[^4]: **Stephen W. Porges**, *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation* (New York: W. W. Norton & Company, 2011), hlm. 133–164; serta *The Pocket Guide to the Polyvagal Theory: The Transformative Power of Feeling Safe* (New York: W. W. Norton, 2017).
+[^5]: **Albert Bandura**, "Moral disengagement in the perpetration of inhumanities", *Personality and Social Psychology Review*, Vol. 3, No. 3 (1999), hlm. 193–209; serta *Moral Disengagement: How People Do Harm and Live with Themselves* (New York: Worth Publishers, Macmillan, 2016).
+[^6]: **Imam Al-Harits al-Muhasibi**, *Adab an-Nufus*, Tahqiq: Dr. Abdul Qadir Ahmad 'Atha (Kairo & Beirut: Dar al-Kutub al-Ilmiyyah, 1986), Bab 'Fashl fi Thuma'ninatil Qalbi wa Nuri Fahmil Aql', hlm. 48–51.

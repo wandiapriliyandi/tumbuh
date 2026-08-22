@@ -72,15 +72,22 @@ Di sinilah letak superioritas epistemologi Islam. Ulama Turats telah meletakkan 
 
 Hujjatul Islam Imam Al-Ghazali dalam *Ihya 'Ulumiddin* (Jilid IV, *Kitab an-Niyyah wal Ikhlas wash-Shidq*) menuliskan analisis psikospiritual yang sangat mendalam:
 
+> [!NOTE]
+> ### 📜 Hermeneutika Niat Imam Al-Ghazali dalam *Ihya 'Ulumiddin*:[^4]
+> 
 > $$\text{إِنَّ النِّيَّةَ هِيَ انْبِعَاثُ الْقَلْبِ إِلَى مَا يَرَاهُ مُوَافِقًا لِغَرَضٍ مِنْ أَغْرَاضِهِ، إِمَّا عَاجِلًا وَإِمَّا آجِلًا. فَالْإِخْلَاصُ هُوَ تَجْرِيدُ قَصْدِ التَّقَرُّبِ إِلَى اللَّهِ تَعَالَى عَنْ جَمِيعِ الشَّوَائِبِ. فَإِذَا امْتَزَجَ بِالْعَمَلِ غَرَضٌ دُنْيَوِيٌّ مِنْ طَلَبِ مَحْمَدَةٍ، أَوْ جَلْبِ مَنْفَعَةٍ، أَوْ دَفْعِ مَذَمَّةٍ، خَرَجَ الْعَمَلُ عَنْ حَدِّ الْإِخْلَاصِ وَصَارَ شِرْكًا خَفِيًّا يُحْبِطُ الْأَجْرَ}$$
 > 
-> *"Sesungguhnya niat itu adalah bangkitnya daya gerak kalbu menuju apa yang dipandangnya selaras dengan salah satu tujuannya, baik tujuan duniawi yang dekat maupun ukhrawi yang kekal. Maka hakikat **Ikhlas adalah memurnikan motif taqarrub mendekatkan diri kepada Allah Ta'ala dari segala campuran motif lainnya**. Tatkala suatu amal telah tercampur oleh pamrih duniawi—seperti mencari pujian manusia (*riya'*), mengejar keuntungan materiil (*reward*), atau sekadar menghindari celaan (*denda*)—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi syirik tersembunyi (*syirk khafiy*) yang menggugurkan pahala di sisi Allah!"* (Al-Ghazali, *Ihya 'Ulumiddin*, Dar al-Ma'rifah, IV: 364).
+> **Artinya:**  
+> *"Sesungguhnya niat itu adalah bangkitnya daya gerak kalbu menuju tujuan yang dipandangnya selaras, baik tujuan duniawi yang dekat maupun ukhrawi yang kekal. Maka hakikat **Ikhlas adalah memurnikan motif taqarrub mendekatkan diri kepada Allah Ta'ala dari segala campuran pamrih lainnya**.*  
+> *Tatkala suatu amal telah tercampur oleh pamrih duniawi—seperti mencari pujian manusia (*riya'*), mengejar keuntungan materiil (*reward*), atau sekadar menghindari celaan (*denda*)—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi syirik tersembunyi (*syirk khafiy*) yang menggugurkan pahala di sisi Allah!"*
 
-Peringatan senada diuraikan oleh Al-Imam Ibn al-Qayyim al-Jawziyyah (w. 751 H) dalam *Al-Fawa'id*:
-
+> [!NOTE]
+> ### 📜 Tamsil Indah Ibn al-Qayyim al-Jawziyyah dalam *Al-Fawa'id*:[^5]
+> 
 > $$\text{الْعَمَلُ بِغَيْرِ إِخْلَاصٍ وَلَا اقْتِدَاءٍ، كَالْمُسَافِرِ يَمْلَأُ جِرَابَهُ رَمْلًا، يُثْقِلُهُ وَلَا يَنْفَعُهُ}$$
 > 
-> *"Amal yang dikerjakan tanpa keikhlasan niat dan tanpa mengikuti tuntunan sunnah nabawi, ibarat seorang musafir yang mengisi kantong bekalnya dengan pasir: pasir itu hanya memberatkannya di perjalanan namun sama sekali tidak memberi manfaat mengenyangkan rasa laparnya."* (Ibn al-Qayyim, *Al-Fawa'id*, Dar al-Kutub al-Ilmiyyah, hlm. 67).
+> **Artinya:**  
+> *"Amal yang dikerjakan tanpa keikhlasan niat dan tanpa mengikuti tuntunan sunnah nabawi, ibarat seorang musafir yang mengisi kantong bekalnya dengan pasir: pasir itu hanya memberatkannya di perjalanan namun sama sekali tidak bermanfaat mengenyangkan rasa laparnya."*
 
 Tinjauan Turats ini menelanjangi bahaya terbesar dari sistem reward-punishment sekuler: **ia melatih santri untuk menjadi ahli riya' (*ostentation*) dan perburuan pujian makhluk sejak usia dini**. Santri dibiasakan beramal demi dilihat musyrif dan demi mendapat token duniawi, yang secara sistematis mematikan sensitivitas tauhid dan keikhlasan di dalam kalbu mereka.
 
@@ -102,3 +109,13 @@ graph TD
 ```
 
 Melalui sintesis luhur ini, Ekosistem TUMBUH berhasil memelihara kemurnian **Ikhlasun Niyyah** sebagaimana diajarkan para ulama salaf, sembari memanfaatkan pemahaman sains motivasi modern untuk membimbing santri mencapai kematangan karakter yang mandiri, kokoh, dan tidak tergantung pada imbalan duniawi sesaat.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Burrhus Frederic Skinner**, *Science and Human Behavior* (New York: Macmillan, 1953); serta *About Behaviorism* (New York: Vintage Books, 1974).
+[^2]: **Edward L. Deci & Richard M. Ryan**, *Intrinsic Motivation and Self-Determination in Human Behavior* (New York: Plenum, 1985); serta *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017).
+[^3]: **Alfie Kohn**, *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes* (Boston: Houghton Mifflin Company, 1993), hlm. 49–98.
+[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab an-Niyyah wal Ikhlas wash-Shidq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Juz IV, hlm. 364–367.
+[^5]: **Al-Imam Ibn al-Qayyim al-Jawziyyah**, *Al-Fawa'id*, Tahqiq: Syaikh Ali Hasan al-Halabi (Kairo: Dar al-Kutub al-Ilmiyyah, 1996), Fashl fi Ikhlasil Amal, hlm. 67–69.

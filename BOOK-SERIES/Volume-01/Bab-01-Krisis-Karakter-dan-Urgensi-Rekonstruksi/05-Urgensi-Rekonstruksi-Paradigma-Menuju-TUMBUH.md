@@ -88,3 +88,12 @@ graph TD
 ### 5. Epilog Bab 01: Menghidupkan Kembali Ruh Kejayaan Pesantren
 
 Kita berdiri di sebuah persimpangan sejarah yang sangat menentukan. Pesantren-pesantren di Nusantara memiliki modalitas spiritual, kultural, dan sosial yang tiada tandingannya di dunia. Tatkala khazanah emas **Turats Islam** yang sarat keberkahan ini dibersihkan dari residu feodalisme kekerasan dan dipadukan secara presisi dengan metodologi **Sains Perkembangan Berbasis Bukti**, maka pesantren tidak hanya akan mampu menyelesaikan krisis internalnya, melainkan akan bangkit memimpin peradaban dunia: mencetak generasi santri yang kokoh tauhidnya, luhur adabnya, cemerlang intelektualnya, merdeka jiwanya, dan memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **George Sugai & Robert H. Horner**, "The evolution of discipline practices: School-wide positive behavior supports", *Child & Family Behavior Therapy*, Vol. 24, No. 1–2 (2002), hlm. 23–50.
+[^2]: **Howard Zehr**, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002; Revised Edition, Skyhorse Publishing, 2015).
+[^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: Muslim Youth Movement of Malaysia / ABIM, 1978; ISTAC, 1993), Bab 4: "The De-Westernization of Knowledge".
+[^4]: **Dewan Pakar Ekosistem TUMBUH**, *Master Design Arsitektur Karakter Pesantren Terpadu 24-Jam: Buku Seri Monograf 5 Volume* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
