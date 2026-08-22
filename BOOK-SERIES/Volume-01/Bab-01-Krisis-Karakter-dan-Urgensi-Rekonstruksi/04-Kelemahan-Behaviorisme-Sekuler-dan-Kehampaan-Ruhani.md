@@ -1,21 +1,48 @@
 # SUB-BAB 1.4: KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI
 ## *Kritik atas Reduksionisme Hadiah-Hukuman Mekanis, Efek Overjustification, dan Erosi Keikhlasan Niat*
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-04/MONOGRAF`  
-**Disiplin Ilmu**: Filsafat Psikologi, Teori Motivasi Manusia, & Hermeneutika Niat Islam  
-**Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-social-emotional-learning`, `pakar-epistemologi-turats`
+**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-04/MONOGRAF-MASTER-FLUID`  
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Psikologi Motivasi Humanistik, Self-Determination Theory, & Hermeneutika Turats  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, Epistemologi Turats, & Social Emotional Learning*)
 
 ---
 
-### 1. Jebakan Reduksionisme Behaviorisme Radikal (Skinnerian Paradigm)
+### I. Pintu Masuk: Ilusi Ketertiban dan Kepunahan Amal di Asrama
 
-Sebagai reaksi atas kegagalan metode disiplin represif masa lalu, sebagian pengelola lembaga pendidikan Islam berasrama berupaya melakukan modernisasi dengan mengimpor mentah-mentah model **Behaviorisme Radikal (*Radical Behaviorism*)** yang dipelopori oleh B.F. Skinner (1953; 1971) dan John B. Watson (1913).
+Sebagai reaksi atas kegagalan metode kekerasan masa lalu, sebagian pengelola pondok pesantren modern berupaya melakukan pembaruan tata kelola disiplin dengan mengadopsi sistem modifikasi perilaku ala Barat: **Sistem Poin Pinalti dan Token Hadiah (*Token Economy System*)**.
 
-Dalam pendekatan ini, pembentukan karakter disederhanakan secara mekanistik menjadi hukum pengkondisian operan (*operant conditioning*):
-* Setiap santri yang melakukan tindakan positif langsung diberikan imbalan materiil atau token poin reward (*token economy system*).
-* Setiap santri yang melakukan kesalahan dikenakan pengurangan poin atau denda materiil.
+Di atas kertas dan pada pekan-pekan awal penerapannya, metode ini tampak membawa angin segar yang sangat menjanjikan:
+* Setiap santri yang merapikan kasur sebelum subuh diberikan stiker bintang emas atau token 10 poin reward.
+* Santri yang datang paling awal ke saf terdepan masjid diberikan kupon jajan gratis di kantin.
+* Sebaliknya, santri yang terlambat atau melanggar aturan dipotong poinnya dan diancam denda uang saku.
 
-Secara kasat mata pada fase awal, sistem ini tampak sangat menjanjikan: suasana asrama seketika menjadi tertib, santri berlomba-lomba merapikan kasur dan datang awal ke masjid demi mengumpulkan stiker atau poin reward. Namun, di balik ketertiban permukaan tersebut, para pakar psikologi perkembangan dan ulama tasawuf menemukan sebuah **kehancuran ontologis yang sangat berbahaya**: reduksi martabat manusia berakal menjadi sekadar organisme refleks yang digerakkan oleh insentif lapar-kenyang (*stimulus-response organism*).
+Seketika lorong asrama tampak luar biasa tertib. Santri berlomba-lomba bangun pagi, berebut menyapu lantai serambi, dan memenuhi saf pertama masjid. Para pengurus tersenyum puas melihat grafik disiplin santri yang melonjak tajam.
+
+```mermaid
+graph TD
+    subgraph FenomenaPerburuan["ILUSI PERUBAHAN KARAKTER METODE TOKEN REWARD"]
+        F1["Pemberian Stiker Bintang, Poin Hadiah, & Kupon Jajan"] --> F2["Ketertiban Semu: Santri Berlomba Merapikan Asrama Demi Poin"]
+        F2 --> F3["Penarikan Reward / Liburan: Santri Berhenti Total Beramal"]
+        F3 --> F4["Kepunahan Perilaku Nyata: Amal Saleh Musnah Tanpa Hadiah"]
+    end
+```
+<div align="center"><sub><b>Gambar 1.4.1:</b> Siklus Kepunahan Amal (*Extinction Effect*) dalam Sistem Modifikasi Perilaku Mekanis.</sub></div>
+
+Namun, pemandangan semu pada bagan di atas segera runtuh tatkala ujian sesungguhnya datang:
+
+Tatkala program reward tersebut dihentikan karena anggaran hadiah habis, atau tatkala santri pulang ke rumah selama masa liburan semester di mana tidak ada musyrif yang membagikan stiker poin—**seluruh ketertiban tersebut lenyap tanpa bekas dalam sekejap mata (*The Behavioral Extinction Phenomenon*)**.
+
+Di rumah, anak-anak yang di pondok tampak sangat rajin itu kembali bangun kesiangan, meninggalkan shalat lima waktu, membiarkan kamar tidur mereka berantakan, dan enggan membantu orang tua kecuali jika dijanjikan imbalan uang. Orang tua mereka mengeluh dengan nada getir: *"Mengapa anak saya di pondok tampak begitu saleh, tetapi begitu sampai di rumah sifat aslinya sama sekali tidak berubah?!"*
+
+Pertanyaan menyayat hati ini membongkar kelemahan mendasar dari sistem modifikasi perilaku mekanis: **Sistem tersebut hanya berhasil memanipulasi gerak raga lahiriah santri, namun gagal menyentuh dan menumbuhkan kesadaran batin ruhani di dalam kalbunya.**
+
+---
+
+### II. Menelanjangi Behaviorisme Radikal Skinner: Reduksi Manusia Menjadi Hewan Percobaan
+
+Kegagalan sistem reward-token bukanlah kebetulan semata, melainkan konsekuensi logis dari paradigma filsafat yang mendasarinya. Sistem ini berakar dari **Behaviorisme Radikal (*Radical Behaviorism*)** yang dipelopori oleh **B.F. Skinner (1953; 1971)** dan John B. Watson (1913)[^1].
+
+Skinner merumuskan teorinya berdasarkan eksperimen laboratorium terhadap hewan (*Skinner Box*): burung merpati yang mematuk tombol akan diberi butiran jagung (*reinforcement*), sedangkan tikus yang salah menginjak pedal dialiri sengatan listrik (*punishment*). Skinner kemudian menarik generalisasi berbahaya: manusia dianggap tidak memiliki jiwa (*mindless organism*), tidak memiliki kehendak bebas (*no free will*), dan perilakunya dapat direkayasa secara mekanistik semata-mata melalui manipulasi stimulus eksternal.
 
 ```mermaid
 graph LR
@@ -25,54 +52,64 @@ graph LR
         Erosi --> Runtuh["Perilaku Lenyap Seketika saat Sistem Reward Ditarik (Extinction Effect)"]
     end
 ```
-<div align="center"><sub><b>Gambar 1.4.1:</b> Siklus Erosi Keikhlasan Akibat Manipulasi Hadiah Ekstrinsik Behaviorisme Sekuler.</sub></div>
+<div align="center"><sub><b>Gambar 1.4.2:</b> Alur Reduksionisme Behaviorisme Sekuler dan Erosi Keikhlasan Beramal Santri.</sub></div>
+
+Rantai reduksionisme pada bagan di atas menelanjangi racun pedagogis yang bekerja di balik sistem hadiah-hukuman mekanis:
+1. **Manipulasi Ekstrinsik**: Santri tidak lagi diajak merenungkan hikmah ibadah, melainkan diumpani oleh hadiah duniawi sesaat.
+2. **Lahirnya Mentalitas Transaksional**: Santri mengembangkan pola pikir materialistis: *"Berapa poin yang saya dapat jika menyapu halaman ini? Jika tidak ada poinnya, mengapa saya harus repot-repot mengerjakannya?"*
+3. **Erosi Keikhlasan Beramal**: Nilai kesucian ibadah (*Lillahi Ta'ala*) tercemar oleh motif berburu stiker dan pujian manusia (*riya'*).
+4. **Kepunahan Perilaku (*Extinction Effect*)**: Begitu stimulus imbalan dihentikan, dorongan berbuat baik mati seketika karena api motivasi di dalam jiwanya tidak pernah dinyalakan.
 
 ---
 
-### 2. Teori Self-Determination & Fenomena Overjustification Effect
+### III. Teori Self-Determination & Fenomena Overjustification Effect
 
-Kelemahan fatal behaviorisme mekanistik telah dibongkar secara ilmiah oleh psikolog kontemporer Edward L. Deci dan Richard M. Ryan (1985; 2000; 2017)[^2] melalui **Self-Determination Theory (SDT)** serta riset monumental Alfie Kohn (1993)[^3] dalam bukunya yang mengguncang dunia pendidikan, *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes*.
+Kelemahan fatal behaviorisme mekanistik ini telah dibongkar secara empiris oleh pakar psikologi motivasi dunia, **Prof. Edward L. Deci dan Prof. Richard M. Ryan (1985; 2000; 2017)**[^2] melalui **Self-Determination Theory (SDT)** serta riset monumental **Alfie Kohn (1993)**[^3] dalam bukunya yang mengguncang dunia pendidikan, *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes*.
 
-Riset empiris puluhan tahun menunjukkan fenomena psikologis yang disebut **Efek Pembenaran Berlebih (*The Overjustification Effect*)**:
+Riset psikologi selama puluhan tahun menemukan fenomena destruktif yang dikenal sebagai **Efek Pembenaran Berlebih (*The Overjustification Effect*)**:
 
-$$\text{Pemberian Imbalan Ekstrinsik Berlebih} \longrightarrow \text{Penurunan Motivasi Intrinsik Secara Permanen}$$
+$$\text{Pemberian Hadiah Ekstrinsik Berlebihan} \Longrightarrow \text{Menghancurkan Motivasi Intrinsik Alami Secara Permanen}$$
 
-Ketika seseorang yang awalnya memiliki dorongan batin alami untuk berbuat baik diberikan imbalan eksternal yang terlampau mencolok, otak bawah sadar individu tersebut merevisi motif tindakannya: *"Aku membersihkan masjid bukan karena masjid ini rumah Allah yang suci, melainkan karena aku ingin mendapatkan kupon bintang dari musyrif."*
+Tatkala seorang santri yang awalnya memiliki dorongan fitrah alami untuk membantu kawan atau membaca Al-Qur'an diberikan imbalan materiil yang mencolok, otak bawah sadarnya mengalami pergeseran atribusi motif (*shift of locus of causality*): *"Aku tadinya mengaji karena hatiku merasa damai dan cinta pada firman Allah, namun sekarang aku mengaji demi mengumpulkan kupon bintang dari ustadz."*
 
-Kohn (1993) merumuskan tiga racun pedagogis dari sistem reward-punishment behavioristik:
-1. **Rewards Punish (Hadiah adalah Hukuman Terselubung)**: Hadiah bersifat manipulatif dan menciptakan kecemasan konstan (*performance anxiety*). Kegagalan mendapatkan reward dirasakan oleh anak sama sakitnya dengan menerima hukuman.
-2. **Rewards Ruin Relationships (Hadiah Merusak Relasi Sosial)**: Menghargai santri dengan sistem perankingan reward memicu kecemburuan antarsantri, kompetisi tidak sehat di asrama, dan merusak iklim persaudaraan (*Ukhuwah Islamiyyah*).
-3. **Rewards Discourage Risk-Taking (Hadiah Membunuh Kreativitas & Kejujuran)**: Santri yang berorientasi poin hanya akan melakukan tugas minimal yang dipersyaratkan untuk mendapat reward, enggan mengambil inisiatif kebajikan yang tidak dinilai, dan terdorong untuk memanipulasi absensi/catatan mutaba'ah.
+Alfie Kohn (1993) merumuskan **Tiga Racun Pedagogis Sistem Reward-Punishment**:
+1. **Rewards Punish (Hadiah adalah Hukuman yang Menyamar)**: Hadiah bersifat manipulatif dan menciptakan kecemasan performa (*performance anxiety*). Kegagalan seorang santri mendapatkan bintang reward dirasakan sama menyakitkannya dengan menerima hukuman fisik.
+2. **Rewards Ruin Relationships (Hadiah Merusak Ukhuwah Persaudaraan)**: Sistem ranking poin menciptakan kompetisi tidak sehat, kecemburuan sosial di kamar asrama, dan memicu santri untuk saling menjatuhkan demi berada di puncak klasemen reward.
+3. **Rewards Discourage Creativity & Honesty (Hadiah Menghancurkan Kejujuran)**: Santri yang berorientasi poin hanya akan melakukan tugas minimal yang dinilai, enggan berinisiatif dalam kebaikan tersembunyi, dan terdorong untuk memanipulasi buku mutaba'ah demi mendapatkan skor tinggi.
 
 ---
 
-### 3. Kontinuum Motivasi: Dari Regulasi Eksternal Menuju Motivasi Otonom
+### IV. Kontinuum Regulasi Motivasi: Menuju Kesadaran Muraqabatullah
 
-Self-Determination Theory memetakan spektrum regulasi perilaku manusia ke dalam sebuah kontinuum bertingkat yang sangat relevan bagi pendidikan pesantren:
+Self-Determination Theory memetakan spektrum regulasi perilaku manusia ke dalam sebuah tangga kontinuum bertingkat dari ketergantungan hewani menuju kemerdekaan jiwa:
 
 ```mermaid
 graph TD
-    subgraph Kontinuum["KONTINUUM REGULASI PERILAKU (DECI & RYAN)"]
-        L1["1. External Regulation (Regulasi Eksternal Kuno)<br/>Beramal semata-mata karena takut rotan atau mengejar token hadiah."]
-        L2["2. Introjected Regulation (Regulasi Terproyeksi)<br/>Beramal demi menghindari rasa bersalah yang toksik atau menjaga gengsi sosial."]
-        L3["3. Identified Regulation (Regulasi Teridentifikasi)<br/>Santri mulai melihat nilai manfaat dan tujuan logis dari suatu adab."]
-        L4["4. Integrated Regulation (Regulasi Terintegrasi)<br/>Nilai adab telah menyatu secara harmonis dengan identitas diri santri."]
-        L5["5. Intrinsic Motivation / Muraqabah (Motivasi Otonom Sejati)<br/>Berbuat kebajikan murni karena kenikmatan ruhani dan mencari keridhaan Allah SWT."]
+    subgraph Kontinuum["KONTINUUM REGULASI PERILAKU MENUJU MURAQABAH"]
+        L1["1. EXTERNAL REGULATION (Kepatuhan Primitif Kuno)<br/>Beramal semata-mata karena takut rotan atau mengejar token stiker."]
+        L2["2. INTROJECTED REGULATION (Regulasi Terproyeksi Gengsi)<br/>Beramal demi menghindari rasa bersalah yang toksik atau menjaga gengsi sosial."]
+        L3["3. IDENTIFIED REGULATION (Regulasi Nilai Sadar)<br/>Santri mulai memahami manfaat logis dan tujuan kemaslahatan suatu adab."]
+        L4["4. INTEGRATED REGULATION (Regulasi Terintegrasi)<br/>Nilai adab telah menyatu secara harmonis dengan identitas dan jati diri santri."]
+        L5["5. INTRINSIC / MURAQABATULLAH (Motivasi Otonom Spiritual Tertinggi)<br/>Berbuat kebajikan murni karena kenikmatan ruhani, cinta Rasul, & ridha Allah SWT."]
         
         L1 --> L2 --> L3 --> L4 --> L5
     end
 ```
-<div align="center"><sub><b>Gambar 1.4.2:</b> Kontinuum Spektrum Regulasi Motivasi: Dari Ketergantungan Eksternal Menuju Kesadaran Muraqabatullah.</sub></div>
+<div align="center"><sub><b>Gambar 1.4.3:</b> Kontinuum Spektrum Regulasi Motivasi: Dari Ketergantungan Eksternal Menuju Kesadaran Muraqabatullah.</sub></div>
 
-Behaviorisme sekuler mengunci santri selamanya pada level terendah (**Level 1: External Regulation**). Tatkala santri lulus dari pesantren dan tidak ada lagi musyrif yang membagi token reward atau mengancam denda, sistem perilaku mereka mengalami **kepunahan mendadak (*extinction effect*)**. Mereka seketika meninggalkan shalat berjamaah dan tilawah Al-Qur'an karena mereka tidak pernah dibimbing mencapai **Level 4 dan 5 (Regulasi Terintegrasi & Muraqabatullah)**.
+Peta tingkatan motivasi di atas menjelaskan letak kekeliruan sistem pembinaan karakter tradisional dan sekuler:
+* **Tingkat 1 (*External Regulation*)**: Santri patuh hanya jika ada rotan atau token reward. Ini adalah level pembinaan hewani.
+* **Tingkat 2 (*Introjected Regulation*)**: Santri beramal karena takut dinilai buruk oleh kawan sekamar atau ingin dipuji pengurus. Ketaatan ini rentan melahirkan riya' dan kemunafikan.
+* **Tingkat 3 & 4 (*Identified & Integrated Regulation*)**: Santri mulai menghayati nilai adab sebagai kebutuhan jati dirinya sebagai seorang penuntut ilmu mulia.
+* **Tingkat 5 (*Intrinsic Motivation / Muraqabatullah*)**: Merupakan puncak kematangan adab santri, di mana ia shalat tahajjud di keheningan malam dan merapikan asrama murni karena merasakan kelezatan munajat kepada Allah SWT (*Halaawatul Iman*), tanpa peduli apakah ada manusia yang melihatnya atau tidak.
 
 ---
 
-### 4. Hermeneutika Turats: Hakikat Niat Ikhlas vs Penyakit Riya' & Sum'ah
+### V. Hermeneutika Turats: Hakikat Niat Ikhlas vs Bahaya Tersembunyi Riya' dan Sum'ah
 
-Di sinilah letak superioritas epistemologi Islam. Ulama Turats telah meletakkan diskursus niat (*Ikhlasun Niyyah*) sebagai fondasi absolut diterimanya seluruh bangunan amal.
+Di sinilah letak keagungan epistemologi Islam yang melampaui seluruh teori psikologi Barat. Jauh sebelum teori motivasi modern lahir, para ulama Turats telah meletakkan **Kemurnian Niat (*Ikhlasun Niyyah*)** sebagai syarat mutlak diterimanya seluruh bangunan amal perbuatan.
 
-Hujjatul Islam Imam Al-Ghazali dalam *Ihya 'Ulumiddin* (Jilid IV, *Kitab an-Niyyah wal Ikhlas wash-Shidq*) menuliskan analisis psikospiritual yang sangat mendalam:
+Hujjatul Islam **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* (Jilid IV, *Kitab an-Niyyah wal Ikhlas wash-Shidq*) menuliskan diagnosa ruhani yang sangat menggetarkan:
 
 > [!NOTE]
 > ### 📜 Hermeneutika Niat Imam Al-Ghazali dalam *Ihya 'Ulumiddin*:[^4]
@@ -80,8 +117,9 @@ Hujjatul Islam Imam Al-Ghazali dalam *Ihya 'Ulumiddin* (Jilid IV, *Kitab an-Niyy
 > $$\text{إِنَّ النِّيَّةَ هِيَ انْبِعَاثُ الْقَلْبِ إِلَى مَا يَرَاهُ مُوَافِقًا لِغَرَضٍ مِنْ أَغْرَاضِهِ، إِمَّا عَاجِلًا وَإِمَّا آجِلًا. فَالْإِخْلَاصُ هُوَ تَجْرِيدُ قَصْدِ التَّقَرُّبِ إِلَى اللَّهِ تَعَالَى عَنْ جَمِيعِ الشَّوَائِبِ. فَإِذَا امْتَزَجَ بِالْعَمَلِ غَرَضٌ دُنْيَوِيٌّ مِنْ طَلَبِ مَحْمَدَةٍ، أَوْ جَلْبِ مَنْفَعَةٍ، أَوْ دَفْعِ مَذَمَّةٍ، خَرَجَ الْعَمَلُ عَنْ حَدِّ الْإِخْلَاصِ وَصَارَ شِرْكًا خَفِيًّا يُحْبِطُ الْأَجْرَ}$$
 > 
 > **Artinya:**  
-> *"Sesungguhnya niat itu adalah bangkitnya daya gerak kalbu menuju tujuan yang dipandangnya selaras, baik tujuan duniawi yang dekat maupun ukhrawi yang kekal. Maka hakikat **Ikhlas adalah memurnikan motif taqarrub mendekatkan diri kepada Allah Ta'ala dari segala campuran pamrih lainnya**.*  
-> *Tatkala suatu amal telah tercampur oleh pamrih duniawi—seperti mencari pujian manusia (*riya'*), mengejar keuntungan materiil (*reward*), atau sekadar menghindari celaan (*denda*)—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi syirik tersembunyi (*syirk khafiy*) yang menggugurkan pahala di sisi Allah!"*
+> *"Sesungguhnya niat itu adalah bangkitnya daya gerak kalbu menuju tujuan yang dipandangnya selaras, baik tujuan duniawi yang dekat maupun ukhrawi yang kekal.*  
+> *Maka hakikat **Ikhlas adalah memurnikan motif taqarrub mendekatkan diri kepada Allah Ta'ala dari segala campuran pamrih lainnya**.*  
+> *Tatkala suatu amal telah tercampur oleh pamrih duniawi—seperti mencari pujian manusia (*riya'*), mengejar keuntungan materiil (*token reward*), atau sekadar menghindari celaan (*denda*)—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi **syirik tersembunyi (*syirk khafiy*) yang menggugurkan seluruh pahala di sisi Allah!**"*
 
 > [!NOTE]
 > ### 📜 Tamsil Indah Ibn al-Qayyim al-Jawziyyah dalam *Al-Fawa'id*:[^5]
@@ -91,27 +129,55 @@ Hujjatul Islam Imam Al-Ghazali dalam *Ihya 'Ulumiddin* (Jilid IV, *Kitab an-Niyy
 > **Artinya:**  
 > *"Amal yang dikerjakan tanpa keikhlasan niat dan tanpa mengikuti tuntunan sunnah nabawi, ibarat seorang musafir yang mengisi kantong bekalnya dengan pasir: pasir itu hanya memberatkannya di perjalanan namun sama sekali tidak bermanfaat mengenyangkan rasa laparnya."*
 
-Tinjauan Turats ini menelanjangi bahaya terbesar dari sistem reward-punishment sekuler: **ia melatih santri untuk menjadi ahli riya' (*ostentation*) dan perburuan pujian makhluk sejak usia dini**. Santri dibiasakan beramal demi dilihat musyrif dan demi mendapat token duniawi, yang secara sistematis mematikan sensitivitas tauhid dan keikhlasan di dalam kalbu mereka.
+Tinjauan Turats ini menyingkap bahaya terbesar dari sistem reward-punishment sekuler: **sistem tersebut tanpa sadar melatih santri untuk menjadi ahli riya' dan pemburu pujian makhluk sejak usia belia**. Santri dibiasakan beramal demi dilihat musyrif dan demi mendapat token duniawi, yang secara sistematis mematikan sensitivitas tauhid dan keikhlasan di dalam kalbu mereka.
 
 ---
 
-### 5. Paradigma Rekonstruktif TUMBUH: Apresiasi Relasional & Internalisasi Makna
+### VI. Panduan Praktis Ekosistem TUMBUH: Tiga Pilar Apresiasi Relasional & Internalisasi Makna
 
-Ekosistem TUMBUH memecahkan kebuntuan antara metode represif kuno dan behaviorisme transaksional ini dengan merumuskan model **Apresiasi Relasional Terbimbing (*Relational Encouragement & Meaning Integration*)**:
+Ekosistem **TUMBUH** merumuskan sintesis luhur yang memadukan kemurnian niat Turats dengan temuan sains motivasi humanistik melalui **Tiga Pilar Apresiasi Relasional & Internalisasi Makna**:
 
 ```mermaid
 graph TD
-    ModelTUMBUH["MODEL APRESIASI & INTERNALISASI TUMBUH"]
+    RootModel["TIGA PILAR APRESIASI & INTERNALISASI MAKNA TUMBUH"]
     
-    ModelTUMBUH --> Pilar1["1. APRESIASI RELASIONAL 4:1 (Bukan Hadiah Materiil)<br/>Musyrif memberikan pengakuan tulus atas USAHA dan PROSES karakter santri (misal: 'Ustadz sangat menghargai kesabaran antum saat mengantre tadi')."]
+    RootModel --> P1["1. APRESIASI RELASIONAL 4:1 (Non-Materiil)<br/>Pengakuan tulus musyrif atas usaha & proses karakter, bukan hadiah benda."]
     
-    ModelTUMBUH --> Pilar2["2. TAZKIYATUN NIYYAH BERKALA<br/>Setiap sesi pembinaan diawali dan diakhiri dengan muhasabah niat: menautkan seluruh adab dengan keridhaan Allah dan cinta Rasulullah SAW."]
+    RootModel --> P2["2. PROTOKOL TAZKIYATUN NIYYAH BERKALA<br/>Muhasabah niat harian: menautkan setiap adab dengan cinta Allah & Rasul-Nya."]
     
-    ModelTUMBUH --> Pilar3["3. DIALOG MAKNA & AUTONOMY SUPPORT<br/>Santri diajak memahami 'Hikmah Syar'i' di balik setiap aturan, memberikan ruang pilihan terarah yang menumbuhkan tanggung jawab otonom."]
+    RootModel --> P3["3. DIALOG MAKNA & AUTONOMY SUPPORT<br/>Santri diajak memahami hikmah syar'i aturan & diberi ruang tanggung jawab otonom."]
 ```
-<div align="center"><sub><b>Gambar 1.4.3:</b> Tiga Pilar Model Apresiasi Relasional dan Internalisasi Makna Adab Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.4.4:</b> Tiga Pilar Model Apresiasi Relasional dan Internalisasi Makna Adab Ekosistem TUMBUH.</sub></div>
 
-Melalui sintesis luhur ini, Ekosistem TUMBUH berhasil memelihara kemurnian **Ikhlasun Niyyah** sebagaimana diajarkan para ulama salaf, sembari memanfaatkan pemahaman sains motivasi modern untuk membimbing santri mencapai kematangan karakter yang mandiri, kokoh, dan tidak tergantung pada imbalan duniawi sesaat.
+Penerapan ketiga pilar di atas mengawal transformasi motivasi santri menuju keikhlasan sejati:
+
+#### 1. Apresiasi Relasional 4:1 (*Relational Encouragement*)
+Pesantren melarang penggunaan hadiah uang, kupon jajan, atau stiker perankingan yang memicu komparasi sosial. Sebagai gantinya, musyrif memberikan apresiasi berupa pengakuan relasional yang tulus atas proses usaha santri:
+* Musyrif mendatangi santri secara personal dan berbisik hangat: *"Akhi Salman, Ustadz sangat menghargai inisiatif antum yang tetap tenang menyapu serambi masjid tadi pagi tatkala kawan-kawan yang lain sedang terburu-buru. Sikap antum menjaga kebersihan rumah Allah adalah cermin pemuda yang mulia."*
+* Apresiasi semacam ini menumbuhkan rasa kompetensi (*perceived competence*) dan keterhubungan sosial (*relatedness*) tanpa merusak kemurnian niat anak.
+
+#### 2. Protokol Tazkiyatun Niyyah Berkala
+Setiap aktivitas harian di pondok—mulai dari piket kebersihan, mengantre makan, hingga menghafal kitab—selalu dibingkai dengan proses pembersihan niat:
+* Sebelum memulai piket kamar, musyrif mengajak seluruh anggota kamar bertafakkur sejenak selama satu menit: *"Mari kita luruskan niat kita pagi ini: kita membersihkan kamar ini bukan agar dipuji ustadz, melainkan sebagai wujud syukur kita atas nikmat tempat tinggal dan meneladani sabda Nabi bahwa kebersihan adalah bagian dari iman."*
+
+#### 3. Dialog Makna & Dukungan Otonomi (*Autonomy Support*)
+Aturan asrama tidak lagi disodorkan sebagai dogma mati yang dipaksakan, melainkan didialogkan secara terbuka melalui sesi lingkaran kamar mingguan:
+* Santri diajak mendiskusikan *Hikmah Syar'i* dan dampak logis dari setiap aturan: *"Mengapa kita perlu menjaga ketenangan kamar setelah pukul 22.00 WIB? Karena hak tubuh saudara kita adalah istirahat yang cukup agar esok subuh mereka bisa beribadah dengan khusyuk."*
+* Santri dilibatkan dalam merumuskan kesepakatan adab kamar bersama, menumbuhkan rasa kepemilikan (*sense of ownership*) dan tanggung jawab moral otonom.
+
+---
+
+### VII. Muhasabah Jiwa: Menjaga Kemurnian Amal Titipan Santri
+
+Tatkala kita melihat santri-santri kita sedang tekun beramal, tanyakanlah kepada lubuk hati kita:
+
+> [!NOTE]
+> ### 🕊️ Renungan Nurani bagi Pengasuh dan Pendidik Pesantren:
+> *"Untuk siapa anak-anak ini kita latih beramal? Apakah kita mendidik mereka menjadi pemburu poin duniawi yang kelak akan meninggalkan amalnya tatkala tidak ada imbalan materiil?*  
+> 
+> *Ataukah kita sedang mendidik mereka menjadi hamba-hamba Allah yang tulus, yang tetap sujud di keheningan malam tatkala seluruh dunia sedang terlelap tidur, dan tetap teguh menjaga kejujuran tatkala tidak ada satu pun mata manusia yang memandangnya?*  
+> 
+> *Mari kita jaga kemurnian fitrah niat mereka. Hindarkan mereka dari racun transaksional behaviorisme semu, tautkan kalbu mereka hanya kepada ridha Allah SWT, dan bimbing mereka menjadi generasi ikhlas yang menjadi pilar kejayaan umat dan bangsa."*
 
 ---
 
