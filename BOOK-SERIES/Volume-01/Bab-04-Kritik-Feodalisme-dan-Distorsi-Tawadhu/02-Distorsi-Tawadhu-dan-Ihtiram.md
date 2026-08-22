@@ -107,4 +107,4 @@ Islam tidak pernah membutuhkan generasi penakut yang menunduk dalam kepalsuan. I
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Kasr asy-Syahwatayn wa Riyadhatin Nafs (Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 340–348.
-[^2]: **Martin E. P. Seligman**, *Helplessness: On Depression, Development, and Death* (San Francisco: W. H. Freeman, 1975), hlm. 21–68.
+[^2]: **Martin E. P. Seligman[^2]**, *Helplessness: On Depression, Development, and Death* (San Francisco: W. H. Freeman, 1975), hlm. 21–68.

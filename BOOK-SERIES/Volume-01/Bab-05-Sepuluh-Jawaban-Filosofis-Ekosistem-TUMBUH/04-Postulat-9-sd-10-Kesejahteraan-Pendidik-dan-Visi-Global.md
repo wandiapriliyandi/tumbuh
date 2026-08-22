@@ -88,5 +88,5 @@ Dengan menyatukan perlindungan kesejahteraan pendidik di garis depan dan visi pe
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–58.
-[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–155.
+[^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–58.
+[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas[^2]**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–155.

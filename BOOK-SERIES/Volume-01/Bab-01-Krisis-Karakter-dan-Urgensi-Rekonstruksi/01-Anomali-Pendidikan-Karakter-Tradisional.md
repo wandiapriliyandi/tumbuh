@@ -74,7 +74,7 @@ Ketika melihat santri berperilaku buruk di asrama, reaksi spontan sebagian pendi
 
 Namun, jika fenomena ini terjadi serentak di puluhan pondok pesantren, apakah adil jika kita terus menyalahkan anak? Tentu tidak. Masalah sebenarnya terletak pada **kesalahan cara kita mendidik mereka**.
 
-Sains modern di bidang neurosains kognitif memberikan jawaban yang sangat jernih[^1]. Otak manusia ternyata tidak menyimpan pengetahuan dalam satu laci yang sama, melainkan membaginya ke dalam **dua sirkuit saraf yang terpisah jauh**:
+Sains modern di bidang neurosains kognitif memberikan jawaban yang sangat jernih[^1] serta arsitektur kognisi Anderson[^2]. Otak manusia ternyata tidak menyimpan pengetahuan dalam satu laci yang sama, melainkan membaginya ke dalam **dua sirkuit saraf yang terpisah jauh**:
 
 ```mermaid
 graph TD
@@ -160,7 +160,7 @@ graph TD
 <div align="center"><sub><b>Gambar 1.1.5:</b> Dinamika Dua Panggung (Dramaturgi Sosiologis) dalam Keseharian Santri Pesantren.</sub></div>
 
 Panggung kehidupan santri terbelah secara ekstrem:
-* **Di Panggung Depan (*Front Stage*)**: Di kelas atau masjid di bawah tatapan guru, santri mengenakan topeng kesantunan buatan. Mereka menunduk takzim dan berbicara halus semata-mata karena takut ditegur atau demi nilai raport.
+* **Di Panggung Depan (*Front Stage*)**: Di kelas atau masjid di bawah tatapan guru, santri mengenakan topeng kesantunan buatan sebagaimana analisis Goffman[^5] dan relasi sebaya Brown[^6]. Mereka menunduk takzim dan berbicara halus semata-mata karena takut ditegur atau demi nilai raport.
 * **Di Panggung Belakang (*Back Stage*)**: Di bilik asrama malam hari saat guru pulang, topeng kesantunan dilepas seketika. Berlakulah hukum rimba: perebutan fasilitas, *ghashab*, makian kotor, dan senioritas menindas junior.
 
 Kebiasaan hidup dalam standar ganda ini melatih santri menjadi munafik secara perilaku (*nifaq amali*): sangat santun saat diawasi, namun berani berbuat zalim saat merasa tidak ada yang melihatnya.

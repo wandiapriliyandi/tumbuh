@@ -11,7 +11,7 @@
 
 Bismillahir Rahmanir Rahim.
 
-Dengan memohon petunjuk, taufiq, dan ridha Allah SWT, Dewan Keilmuan bersama para Pengasuh, Kiai, Asatidz, Musyrif, dan Praktisi Pendidikan Pesantren di seluruh Nusantara memproklamasikan **Piagam Sepuluh Postulat Filosofis Fondasional Ekosistem TUMBUH**:
+Dengan memohon petunjuk, taufiq, dan ridha Allah SWT, Dewan Keilmuan bersama para Pengasuh, Kiai, Asatidz, Musyrif, dan Praktisi Pendidikan Pesantren di seluruh Nusantara memproklamasikan **Piagam Sepuluh Postulat Filosofis Fondasional Ekosistem TUMBUH**[^1] sebagai landasan peradaban baru:
 
 Sebuah piagam komitmen peradaban yang menegaskan tekad suci untuk merekonstruksi, memuliakan, dan menghidupkan kembali ruh tarbiyah nabawiyyah di bumi pesantren abad ke-21:
 

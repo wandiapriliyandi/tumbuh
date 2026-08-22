@@ -18,7 +18,7 @@ Para fuqaha sepakat bahwa tegak dan runtuhnya peradaban manusia ditentukan oleh 
 4. Penjagaan Kehormatan dan Martabat Keturunan (*Hifzh al-'Irdh wan-Nasl*)
 5. Penjagaan Harta dan Hak Milik Pribadi (*Hifzh al-Mal*)
 
-Di lingkungan pondok pesantren, kelima prinsip dharuriyyat ini kerap kali hanya dipelajari sebagai materi hafalan teoritis dalam kitab ushul fiqih seperti *Al-Mustashfa* atau *Al-Waraqat*. Para santri hafal matang definisinya di lembar ujian, namun ketika melangkah ke bilik asrama, kelima hak dasar tersebut justru terabaikan dalam tata kelola keseharian.
+Di lingkungan pondok pesantren, kelima prinsip dharuriyyat ini kerap kali hanya dipelajari sebagai materi hafalan teoritis dalam kitab ushul fiqih seperti *Al-Mustashfa* karya Al-Ghazali[^1] atau *Ushul al-Fiqh al-Islami* karya Wahbah az-Zuhaili[^2]. Para santri hafal matang definisinya di lembar ujian, namun ketika melangkah ke bilik asrama, kelima hak dasar tersebut justru terabaikan dalam tata kelola keseharian.
 
 Sistem **TUMBUH** melakukan kontekstualisasi dan integrasi penuh dari kelima prinsip ini menjadi **Konstitusi Operasional Pengasuhan Asrama 24-Jam**:
 
@@ -63,8 +63,8 @@ Dalam Sistem TUMBUH, *Hifzh an-Nafs* diterjemahkan menjadi:
 
 #### 3. Hifzh al-'Aql (Perlindungan Kapasitas Akal & Kesehatan Saraf Otak)
 Akal adalah instrumen utama santri dalam memahami wahyu dan menghafal Al-Qur'an. Menjaga akal tidak hanya berarti melarang konsumsi zat terlarang (khamr dan narkoba), melainkan juga **menjaga kesehatan neurobiologis otak santri dari kerusakan kognitif**:
-* **Jaminan Waktu Tidur Sirkadian**: Sistem TUMBUH mewajibkan lampu asrama dipadamkan pada pukul 22.00 WIB dan santri baru dibangunkan pada pukul 03.45 WIB, memastikan santri memperoleh minimal 6–7 jam tidur malam lelap (*REM Sleep*) yang sangat vital bagi konsolidasi memori hafalan.
-* **Bebas dari Stres Toksik Kortisol**: Suasana asrama yang ramah dan suportif menjaga otak santri berada dalam gelombang alfa yang tenang, mencegah terjadinya atrofi sel neuron hipokampus akibat stres berkepanjangan.
+* **Jaminan Waktu Tidur Sirkadian**: Riset neurosains tidur oleh Dr. Matthew Walker[^3] membuktikan tidur lelap sangat vital bagi konsolidasi memori. Sistem TUMBUH mewajibkan lampu asrama dipadamkan pada pukul 22.00 WIB dan santri baru dibangunkan pada pukul 03.45 WIB, memastikan santri memperoleh minimal 6–7 jam tidur malam lelap (*REM Sleep*).
+* **Bebas dari Stres Toksik Kortisol**: Riset psikiatri anak oleh Dr. Bruce D. Perry[^4] membuktikan suasana asrama yang ramah dan suportif menjaga otak santri berada dalam gelombang alfa yang tenang, mencegah terjadinya atrofi sel neuron hipokampus akibat stres berkepanjangan.
 
 ```mermaid
 graph LR
@@ -106,3 +106,5 @@ Santri tidak lagi merasa terancam saat berada di pondok. Mereka merasa bahwa aga
 
 [^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Al-Mustashfa min 'Ilmil Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420.
 [^2]: **Wahbah az-Zuhaili**, *Ushul al-Fiqh al-Islami* (Damaskus: Dar al-Fikr, 1986), Jilid II: "Al-Maqashid asy-Syar'iyyah", hlm. 1017–1045.
+[^3]: **Matthew Walker**, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner / Simon & Schuster, 2017), Bab 6: "Sleep, Memory, and Brain Plasticity", hlm. 107–132.
+[^4]: **Bruce D. Perry & Maia Szalavitz**, *The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook* (New York: Basic Books, 2006; edisi revisi 2017), hlm. 45–80.

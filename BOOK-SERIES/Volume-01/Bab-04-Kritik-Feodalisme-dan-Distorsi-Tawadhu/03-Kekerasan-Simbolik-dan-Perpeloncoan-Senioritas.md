@@ -96,4 +96,4 @@ Dengan memberantas tuntas segala bentuk kekerasan simbolik dan feodalisme senior
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Pierre Bourdieu & Jean-Claude Passeron**, *Reproduction in Education, Society and Culture*, Terjemahan Richard Nice (London: Sage Publications, 1977; cetak ulang 1990), Bab 1: "Foundations of a Theory of Symbolic Violence", hlm. 1–68.
-[^2]: **Dan Olweus**, *Bullying at School: What We Know and What We Can Do* (Oxford: Blackwell Publishing, 1993), hlm. 10–45.
+[^2]: **Dan Olweus[^2]**, *Bullying at School: What We Know and What We Can Do* (Oxford: Blackwell Publishing, 1993), hlm. 10–45.

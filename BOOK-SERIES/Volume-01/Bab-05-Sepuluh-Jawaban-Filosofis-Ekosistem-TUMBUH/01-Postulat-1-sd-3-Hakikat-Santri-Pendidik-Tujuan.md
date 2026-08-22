@@ -97,5 +97,5 @@ Dengan memancangkan tiga postulat eksistensial ini, Sistem TUMBUH memastikan bah
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 25–45.
-[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–62.
+[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas[^1]**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 25–45.
+[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali[^2]**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–62.

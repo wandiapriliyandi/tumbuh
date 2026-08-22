@@ -15,7 +15,7 @@ Di sebagian pondok pesantren, muncul sikap curiga terhadap penemuan sains kontem
 
 Sebaliknya, sains modern sekuler kerap membuang dimensi wahyu dan tauhid, memandang manusia hanya sebagai organisme biologis tanpa jiwa spiritual.
 
-Ekosistem **TUMBUH** meruntuhkan sekat dikotomi semu ini dengan menegaskan sebuah kebenaran fundamental: **Wahyu (*Ayat Qawliyyah*) dan Alam Semesta (*Ayat Kauniyyah*) berasal dari satu Dzat yang sama, yaitu Allah SWT**.
+Ekosistem **TUMBUH** meruntuhkan sekat dikotomi semu ini dengan menegaskan sebuah kebenaran fundamental sebagaimana dirumuskan oleh Prof. Syed Muhammad Naquib al-Attas[^2], **Wahyu (*Ayat Qawliyyah*) dan Alam Semesta (*Ayat Kauniyyah*) berasal dari satu Dzat yang sama, yaitu Allah SWT**.
 
 ```mermaid
 graph LR

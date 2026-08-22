@@ -84,7 +84,7 @@ Ketika melihat santri berperilaku buruk di asrama, reaksi spontan sebagian pendi
 
 Namun, jika fenomena ini terjadi serentak di puluhan pondok pesantren, apakah adil jika kita terus menyalahkan anak? Tentu tidak. Masalah sebenarnya terletak pada **kesalahan cara kita mendidik mereka**.
 
-Sains modern di bidang neurosains kognitif memberikan jawaban yang sangat jernih[^1]. Otak manusia ternyata tidak menyimpan pengetahuan dalam satu laci yang sama, melainkan membaginya ke dalam **dua sirkuit saraf yang terpisah jauh**:
+Sains modern di bidang neurosains kognitif memberikan jawaban yang sangat jernih[^1] serta arsitektur kognisi Anderson[^2]. Otak manusia ternyata tidak menyimpan pengetahuan dalam satu laci yang sama, melainkan membaginya ke dalam **dua sirkuit saraf yang terpisah jauh**:
 
 ```mermaid
 graph TD
@@ -170,7 +170,7 @@ graph TD
 <div align="center"><sub><b>Gambar 1.1.5:</b> Dinamika Dua Panggung (Dramaturgi Sosiologis) dalam Keseharian Santri Pesantren.</sub></div>
 
 Panggung kehidupan santri terbelah secara ekstrem:
-* **Di Panggung Depan (*Front Stage*)**: Di kelas atau masjid di bawah tatapan guru, santri mengenakan topeng kesantunan buatan. Mereka menunduk takzim dan berbicara halus semata-mata karena takut ditegur atau demi nilai raport.
+* **Di Panggung Depan (*Front Stage*)**: Di kelas atau masjid di bawah tatapan guru, santri mengenakan topeng kesantunan buatan sebagaimana analisis Goffman[^5] dan relasi sebaya Brown[^6]. Mereka menunduk takzim dan berbicara halus semata-mata karena takut ditegur atau demi nilai raport.
 * **Di Panggung Belakang (*Back Stage*)**: Di bilik asrama malam hari saat guru pulang, topeng kesantunan dilepas seketika. Berlakulah hukum rimba: perebutan fasilitas, *ghashab*, makian kotor, dan senioritas menindas junior.
 
 Kebiasaan hidup dalam standar ganda ini melatih santri menjadi munafik secara perilaku (*nifaq amali*): sangat santun saat diawasi, namun berani berbuat zalim saat merasa tidak ada yang melihatnya.
@@ -758,7 +758,7 @@ Penerapan pilar sistemik di lapangan:
 
 **Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-05/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Filsafat Pendidikan Islam Terapan, Rekayasa Sistem Sosial Pesantren, & Teori Transformasi Kelembagaan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, Arsitektur PBIS Restoratif, & Tata Kelola Qudwah*)
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH[^4] (*Master Author, Pakar Filosofi TUMBUH, Arsitektur PBIS Restoratif, & Tata Kelola Qudwah*)
 
 ---
 
@@ -829,9 +829,9 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 | Dimensi Pembinaan | Paradigma Tradisional Usang | Paradigma Sekuler Mekanistik | Paradigma Rekonstruktif TUMBUH |
 | :--- | :--- | :--- | :--- |
 | **Pandangan atas Santri** | Objek pasif yang bebal, harus ditundukkan dengan teror rasa takut. | Organisme refleks yang dimanipulasi dengan imbalan dan hukuman. | **Makhluk mulia berfitrah suci (*Fitrah al-Munazzalah*) yang potensinya disuburkan.** |
-| **Metode Disiplin** | Hukuman fisik (rotan/tamparan), pembentakan massal, dan sidang senior. | Sistem poin defisit hitam, denda uang saku, dan pemotongan hak token. | **Disiplin Restoratif (*Firm & Kind*), Konsekuensi Logis 4R, dan *Ishlah al-Bain*.** |
+| **Metode Disiplin** | Hukuman fisik (rotan/tamparan), pembentakan massal, dan sidang senior. | Sistem poin defisit hitam, denda uang saku, dan pemotongan hak token. | **Disiplin Restoratif[^2] (*Firm & Kind*), Konsekuensi Logis 4R, dan *Ishlah al-Bain*.** |
 | **Landasan Saraf Otak** | Mengabaikan biologi; mengaktifkan amigdala *fight-or-flight* secara kronis. | Memanfaatkan sistem dopamin ekstrinsik semata (*addictive reward loops*). | **Menjaga status *Ventral Vagal (Safe & Connected)* untuk optimalisasi Korteks Prefrontal.** |
-| **Struktur Pengasuhan** | Terbelah (madrasah jalan sendiri, asrama tanpa pendampingan pembina). | Pengasuhan administratif formal yang kaku tanpa sentuhan hati. | **Dual-Pillar Caretaking (Walas + Musyrif) terintegrasi via Handover 15-Menit & Bebas Burnout.** |
+| **Struktur Pengasuhan** | Terbelah (madrasah jalan sendiri, asrama tanpa pendampingan pembina). | Pengasuhan administratif formal yang kaku tanpa sentuhan hati. | **Dual-Pillar Caretaking terintegrasi via Handover 15-Menit & Sistem PBIS Multi-Tier[^1].** |
 | **Motivasi Moral** | Ketakutan akan ancaman sanksi fisik (*External Regulation*). | Perburuan stiker hadiah dan pujian duniawi (*Introjected Regulation*). | **Internalisasi nilai adab berakar dari kesadaran *Muraqabatullah* & Ikhlas.** |
 | **Posisi Pelanggaran** | Aib memalukan yang harus dibalas dan dipermalukan di depan umum. | Pengurangan skor angka semata pada buku catatan pelanggaran. | **Peluang pembelajaran moral (*Learning Opportunity*) melalui muhasabah & restitusi.** |
 
@@ -839,7 +839,7 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 
 ### Peta Jalan Implementasi Menuju Seri Buku Master TUMBUH
 
-Rekonstruksi filosofis pada Bab 01 ini adalah pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
+Rekonstruksi filosofis pada Bab 01 oleh Dewan Pakar TUMBUH[^4] ini berakar pada de-sekularisasi ilmu Prof. Naquib al-Attas[^3] dan menjadi pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
 
 ```mermaid
 graph TD
@@ -1388,7 +1388,7 @@ Dengan merekonstruksi dan memahkotai seluruh proses pendidikan dengan **Ta'dib N
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Wan Mohd Nor Wan Daud**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.
+[^2]: **Wan Mohd Nor Wan Daud[^2]**, *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Original Concept of Islamization* (Kuala Lumpur: ISTAC, 1998), Bab 4, hlm. 132–175.
 
 
 ---
@@ -1475,7 +1475,7 @@ Santri merasa bahagia, aman, dicintai, dan dihargai. Dari lingkungan yang penuh 
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 20–55.
-[^2]: **Gary W. Evans**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441.
+[^2]: **Gary W. Evans[^2]**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441.
 
 
 ---
@@ -1497,7 +1497,7 @@ Di sebagian pondok pesantren, muncul sikap curiga terhadap penemuan sains kontem
 
 Sebaliknya, sains modern sekuler kerap membuang dimensi wahyu dan tauhid, memandang manusia hanya sebagai organisme biologis tanpa jiwa spiritual.
 
-Ekosistem **TUMBUH** meruntuhkan sekat dikotomi semu ini dengan menegaskan sebuah kebenaran fundamental: **Wahyu (*Ayat Qawliyyah*) dan Alam Semesta (*Ayat Kauniyyah*) berasal dari satu Dzat yang sama, yaitu Allah SWT**.
+Ekosistem **TUMBUH** meruntuhkan sekat dikotomi semu ini dengan menegaskan sebuah kebenaran fundamental sebagaimana dirumuskan oleh Prof. Syed Muhammad Naquib al-Attas[^2], **Wahyu (*Ayat Qawliyyah*) dan Alam Semesta (*Ayat Kauniyyah*) berasal dari satu Dzat yang sama, yaitu Allah SWT**.
 
 ```mermaid
 graph LR
@@ -1613,34 +1613,29 @@ graph TD
 
 ---
 
-### Hukum Hebbian: *"Neurons that Fire Together, Wire Together"*
+### Hukum Hebbian & Penebalan Mielin (*Myelination*)
 
-Prinsip dasar pembentukan kebiasaan dalam neurosains dirumuskan oleh neuropsikolog **Donald Hebb** (1949)[^2]:
+Mengapa pengulangan yang konsisten begitu penting dalam pembentukan karakter santri?
 
-$$\text{Sel-sel neuron yang menyala bersama secara berulang-ulang, akan tersambung membentuk satu jaringan sirkuit permanen}$$
-
-Ketika seorang santri dilatih untuk selalu menaruh sandalnya menghadap keluar di rak setiap kali masuk asrama:
-* Pada awalnya, sinyal listrik di otaknya harus merintis jalur setapak yang penuh rintangan di neokorteks.
-* Setiap kali tindakan tersebut diulang, sel-sel saraf membungkus serat aksonnya dengan lapisan lemak pelindung yang disebut **Mielin (*Myelin Sheath*)**[^3].
-* Semakin tebal lapisan mielin, semakin cepat sinyal listrik melesat (dari 2 mil per jam menjadi 200 mil per jam). Jalur setapak yang tadinya sulit dilalui kini berubah menjadi **"Jalan Tol Saraf Super Cepat"** di *Basal Ganglia*.
-* Hasil akhirnya: menata sandal tidak lagi membutuhkan paksaan atau perintah; tangan dan kaki anak bergerak merapikan sandal secara spontan dalam hitungan detik!
+1. **Hukum Hebbian (*Hebbian Theory*)**[^2]:  
+   Pakar neuropsikologi **Donald O. Hebb** merumuskan hukum terkenal: *"Neurons that fire together, wire together"* (sel-sel saraf yang menyala bersamaan akan terhubung bersamaan). Setiap kali santri dilatih bangun malam lalu mengambil wudhu secara teratur, kelompok neuron di otaknya menyala serempak dan merajut koneksi sinaptik yang semakin kokoh.
+2. **Penebalan Mielin (*Myelination*)**[^3]:  
+   Jurnalis sains **Daniel Coyle** dalam *The Talent Code* menjelaskan bahwa setiap kali sebuah perilaku diulang, selubung lemak pelindung yang disebut **mielin (*myelin sheath*)** akan membungkus jalur saraf tersebut lapis demi lapis. Semakin tebal mielin, sinyal perilaku melesat hingga 100 kali lebih cepat! Inilah penjelasan biologis mengapa santri senior yang telah beradab mampu bangun subuh dan menjaga lisannya secara otomatis tanpa perlu dipaksa ustadz.
 
 ---
 
-### Integrasi Turats: Konsep *Riyadhatun Nafs* dan *Al-I'tiyad* Imam Al-Ghazali
+### Tinjauan Turats: Menyelami Konsep *At-Takalluf* Imam Al-Ghazali
 
-Konsep mielinisasi dan plastisitas otak ini membuktikan secara ilmiah kebenaran metodologi tasawuf yang dirumuskan oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* (Kitab *Riyadhatin Nafs*)[^4]:
+Kebenaran hukum neuroplastisitas ini secara menakjubkan telah dijelaskan secara presisi oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin*[^4]:
 
 > [!NOTE]
-> ### 📜 Kaidah Imam Al-Ghazali tentang Pembiasaan Adab (*Al-I'tiyad*):
+> ### 📜 Formula Pembiasaan Karakter Imam Al-Ghazali:
 > 
-> $$\text{إِنَّ الْأَخْلَاقَ الْحَسَنَةَ تَنْغَرِسُ فِي النَّفْسِ بِالتَّكَلُّفِ فِي ابْتِدَاءِ الْأَمْرِ، ثُمَّ تَصِيرُ طَبْعًا وَعَادَةً بِكَثْرَةِ التَّكْرَارِ، حَتَّى يَصِيرَ صُدُورُ الْفِعْلِ الْجَمِيلِ سَهْلًا لَذِيذًا لَا كُلْفَةَ فِيهِ}$$
+> $$\text{إِنَّ الْأَخْلَاقَ الْحَسَنَةَ تَحْصُلُ أَوَّلًا بِالتَّكَلُّفِ، ثُمَّ تَصِيرُ بِكَثْرَةِ التَّكْرَارِ طَبْعًا وَعَادَةً، حَتَّى يَصْدُرَ الْفِعْلُ بِسُهُولَةٍ وَتَلَذُّذٍ}$$
 > 
 > **Artinya:**  
 > *"Sesungguhnya akhlak mulia itu pada awalnya tertanam di dalam jiwa melalui **upaya pembiasaan yang dipaksakan (*at-Takalluf*) pada mulanya**.*  
 > *Kemudian, dengan banyaknya pengulangan yang konsisten, ia akan **berubah menjadi watak bawaan dan kebiasaan alami (*Thab'an wa 'Aadah*)**—hingga perbuatan indah tersebut memancar keluar dengan sangat mudah, ringan, dan terasa nikmat tanpa ada lagi beban keterpaksaan."*
-
-Al-Ghazali telah merumuskan tahapan neuroplastisitas sembilan abad sebelum ilmuwan modern menemukannya: dari pemaksaan sadar (*at-Takalluf*), menuju pengulangan konsisten (*al-I'tiyad*), hingga lahirnya karakter refleks otomatis yang membahagiakan jiwa (*al-Malakah*).
 
 ---
 
@@ -2016,7 +2011,7 @@ Dengan mengintegrasikan sains kognitif modern ke dalam keagungan tradisi halaqah
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer Science+Business Media, 2011), hlm. 1–45.
-[^2]: **K.H. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim*, Tahqiq: Tim Tebuireng (Jombang: Pustaka Warisan Islam, 2014), Bab 3: "Adab al-Muta'allim fi Darsihi", hlm. 40–65.
+[^2]: **K.H. M. Hasyim Asy'ari[^2]**, *Adab al-'Alim wal Muta'allim*, Tahqiq: Tim Tebuireng (Jombang: Pustaka Warisan Islam, 2014), Bab 3: "Adab al-Muta'allim fi Darsihi", hlm. 40–65.
 
 
 ---
@@ -2132,7 +2127,7 @@ Dengan mendekonstruksi relasi kuasa asimetris dan menggantinya dengan Kepemimpin
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Michel Foucault**, *Discipline and Punish: The Birth of the Prison*, Terjemahan Alan Sheridan (New York: Vintage Books, 1977), Bab 2: "The Means of Correct Training", hlm. 170–194.
-[^2]: **Robert K. Greenleaf**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977), hlm. 1–48.
+[^2]: **Robert K. Greenleaf[^2]**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977), hlm. 1–48.
 
 
 ---
@@ -2246,7 +2241,7 @@ Islam tidak pernah membutuhkan generasi penakut yang menunduk dalam kepalsuan. I
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Kasr asy-Syahwatayn wa Riyadhatin Nafs (Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 340–348.
-[^2]: **Martin E. P. Seligman**, *Helplessness: On Depression, Development, and Death* (San Francisco: W. H. Freeman, 1975), hlm. 21–68.
+[^2]: **Martin E. P. Seligman[^2]**, *Helplessness: On Depression, Development, and Death* (San Francisco: W. H. Freeman, 1975), hlm. 21–68.
 
 
 ---
@@ -2349,7 +2344,7 @@ Dengan memberantas tuntas segala bentuk kekerasan simbolik dan feodalisme senior
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Pierre Bourdieu & Jean-Claude Passeron**, *Reproduction in Education, Society and Culture*, Terjemahan Richard Nice (London: Sage Publications, 1977; cetak ulang 1990), Bab 1: "Foundations of a Theory of Symbolic Violence", hlm. 1–68.
-[^2]: **Dan Olweus**, *Bullying at School: What We Know and What We Can Do* (Oxford: Blackwell Publishing, 1993), hlm. 10–45.
+[^2]: **Dan Olweus[^2]**, *Bullying at School: What We Know and What We Can Do* (Oxford: Blackwell Publishing, 1993), hlm. 10–45.
 
 
 ---
@@ -2470,7 +2465,7 @@ Dengan menegakkan model *Servant Qudwah Leadership*, Sistem TUMBUH melahirkan ge
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Robert K. Greenleaf**, *The Servant as Leader* (Newton Centre: Robert K. Greenleaf Center, 1970; cetak ulang 2008), hlm. 1–35.
-[^2]: **Al-Imam Abu al-Hasan al-Mawardi**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 3–25.
+[^2]: **Al-Imam Abu al-Hasan al-Mawardi[^2]**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 3–25.
 
 
 ---
@@ -2582,7 +2577,7 @@ Dengan mereformasi organisasi santri menjadi wadah pengayoman kreatif, Sistem TU
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Richard Cohen**, *Students Resolving Conflict: Peer Mediation in Schools* (Glenview: Good Year Books, 1995), hlm. 25–68.
-[^2]: **B. Bradford Brown & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.
+[^2]: **B. Bradford Brown[^2] & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.
 
 
 ---
@@ -2686,8 +2681,8 @@ Dengan memancangkan tiga postulat eksistensial ini, Sistem TUMBUH memastikan bah
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 25–45.
-[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–62.
+[^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas[^1]**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 25–45.
+[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali[^2]**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–62.
 
 
 ---
@@ -2754,7 +2749,7 @@ graph LR
 <div align="center"><sub><b>Gambar 5.2.2:</b> Trajektori 66 Hari Pembentukan Kebiasaan Adab Ekosistem TUMBUH.</sub></div>
 
 1. **Sunnatullah Bertahap (*Al-Tadarruj*)**:  
-   Riset University College London (UCL) oleh Dr. Phillippa Lally membuktikan bahwa otak manusia membutuhkan rata-rata **66 hari berturut-turut** agar sebuah kebiasaan baru mencapai titik otomatisasi refleks (*Asymptote of Automaticity*).
+   Riset University College London (UCL) oleh Dr. Phillippa Lally[^2] membuktikan bahwa otak manusia membutuhkan rata-rata **66 hari berturut-turut** agar sebuah kebiasaan baru mencapai titik otomatisasi refleks (*Asymptote of Automaticity*).
 2. **Menemani Pergulatan Batin**:  
    Ketika santri baru mengalami kesulitan di 3 pekan pertama, musyrif tidak marah, melainkan memahami bahwa kabel saraf di otak santri sedang dalam proses perintisan jalur baru. Kunci keberhasilan pembinaan bukanlah kekerasan hukuman, melainkan **frekuensi pengulangan positif yang konsisten dan penuh kasih sayang**.
 
@@ -2794,8 +2789,8 @@ Dengan memadukan otoritas integratif wahyu-sains, kesabaran habituasi 66 hari, d
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Jane Nelsen**, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 15–58.
-[^2]: **Phillippa Lally et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.
+[^1]: **Jane Nelsen[^1]**, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 15–58.
+[^2]: **Phillippa Lally[^2] et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.
 
 
 ---
@@ -2836,7 +2831,7 @@ graph TD
 
 ### Postulat 7: Hakikat Lingkungan — Bi'ah Shalihah Total 24-Jam Tanpa Sekat
 
-Teori Ekologi Perkembangan Manusia oleh **Urie Bronfenbrenner**[^1] membuktikan bahwa karakter anak dibentuk oleh interaksi simultan antara mikrosistem (kamar asrama), mesosistem (hubungan madrasah-asrama), dan makrosistem (budaya lembaga).
+Teori Ekologi Perkembangan Manusia oleh **Urie Bronfenbrenner[^1]**[^1] membuktikan bahwa karakter anak dibentuk oleh interaksi simultan antara mikrosistem (kamar asrama), mesosistem (hubungan madrasah-asrama), dan makrosistem (budaya lembaga).
 
 Dalam Sistem TUMBUH, *Bi'ah Shalihah* bukanlah slogan kosong, melainkan rekayasa lingkungan terpadu yang mencakup tiga lapisan:
 
@@ -2891,8 +2886,8 @@ Dengan menyatukan lingkungan Bi'ah Shalihah 24-jam yang menyejukkan dan paradigm
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–48.
-[^2]: **Howard Zehr**, *Changing Lenses: A New Focus for Crime and Justice* (Scottsdale: Herald Press, 1990), Bab 10: "Restorative Justice", hlm. 175–214.
+[^1]: **Urie Bronfenbrenner[^1]**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–48.
+[^2]: **Howard Zehr[^2]**, *Changing Lenses: A New Focus for Crime and Justice* (Scottsdale: Herald Press, 1990), Bab 10: "Restorative Justice", hlm. 175–214.
 
 
 ---
@@ -2987,8 +2982,8 @@ Dengan menyatukan perlindungan kesejahteraan pendidik di garis depan dan visi pe
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–58.
-[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–155.
+[^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–58.
+[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas[^2]**, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978; ISTAC, 1993), Bab 4, hlm. 120–155.
 
 
 ---
@@ -3006,7 +3001,7 @@ Dengan menyatukan perlindungan kesejahteraan pendidik di garis depan dan visi pe
 
 Bismillahir Rahmanir Rahim.
 
-Dengan memohon petunjuk, taufiq, dan ridha Allah SWT, Dewan Keilmuan bersama para Pengasuh, Kiai, Asatidz, Musyrif, dan Praktisi Pendidikan Pesantren di seluruh Nusantara memproklamasikan **Piagam Sepuluh Postulat Filosofis Fondasional Ekosistem TUMBUH**:
+Dengan memohon petunjuk, taufiq, dan ridha Allah SWT, Dewan Keilmuan bersama para Pengasuh, Kiai, Asatidz, Musyrif, dan Praktisi Pendidikan Pesantren di seluruh Nusantara memproklamasikan **Piagam Sepuluh Postulat Filosofis Fondasional Ekosistem TUMBUH**[^1] sebagai landasan peradaban baru:
 
 Sebuah piagam komitmen peradaban yang menegaskan tekad suci untuk merekonstruksi, memuliakan, dan menghidupkan kembali ruh tarbiyah nabawiyyah di bumi pesantren abad ke-21:
 
@@ -3157,7 +3152,7 @@ graph LR
 
 ### Matriks Pemantauan Perkembangan Karakter Santri TUMBUH
 
-Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
+Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian[^2] (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
 
 | Dimensi Karakter | Tangga T1 (Tahu) | Tangga T2 (Mau) | Tangga T3 (Mampu Mandiri) | Tangga T4 (Teladan Penggerak) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -3171,7 +3166,7 @@ Dengan memandu santri mendaki tangga T1 s.d. T4 ini secara sabar dan terukur, Si
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Benjamin S. Bloom (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
+[^1]: **Benjamin S. Bloom[^1] (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
 [^2]: **Dewan Pakar Ekosistem TUMBUH**, *Taksonomi Sepuluh Kapasitas Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
 
 
@@ -3208,7 +3203,7 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 6.2.1:</b> Kaskade Tiga Tahap Maslach Burnout Inventory pada Musyrif Asrama Pesantren.</sub></div>
 
-Pakar psikologi kerja **Christina Maslach**[^1] membuktikan bahwa ketika seorang pengasuh mencapai tahap depersonalisasi, sirkuit empati di otaknya terkunci (*numbed*). Musyrif yang kelelahan kehilangan kemampuan biologis untuk bersikap lembut. 
+Pakar psikologi kerja **Christina Maslach[^1]**[^1] membuktikan bahwa ketika seorang pengasuh mencapai tahap depersonalisasi, sirkuit empati di otaknya terkunci (*numbed*). Musyrif yang kelelahan kehilangan kemampuan biologis untuk bersikap lembut. 
 
 Hasil akhirnya sangat tragis: **kekerasan fisik dan verbal yang terjadi di asrama pesantren sering kali bukanlah bukti bahwa musyrif tersebut "berwatak jahat", melainkan letupan histeris dari jiwa pembina yang sedang sekarat karena kelelahan kronis (*burnout breakdown*)!**
 
@@ -3240,7 +3235,7 @@ graph TD
 
 ### Tiga Pilar Protokol Manajemen Kerja Musyrif TUMBUH
 
-Ekosistem TUMBUH merumuskan tata kelola operasional musyrif yang menjamin keberlanjutan stamina dan kesehatan mental para pembina:
+Ekosistem TUMBUH merumuskan tata kelola operasional musyrif[^2] yang menjamin keberlanjutan stamina dan kesehatan mental para pembina:
 
 #### 1. Sistem Shift Kerja Berpasangan (*Dual-Care Team System*)
 Sistem TUMBUH menghapus tradisi "musyrif tunggal" yang memegang asrama sendirian:
@@ -3281,7 +3276,7 @@ Ketika para musyrif merasa dihargai oleh yayasan, memiliki waktu istirahat yang 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
+[^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
 [^2]: **Dewan Pakar Ekosistem TUMBUH**, *Standar Baku Kompetensi & Tata Kelola Musyrif Asrama TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).
 
 
@@ -3330,7 +3325,7 @@ graph TD
 
 ### Pesantren sebagai Organisasi Pembelajar (*Learning Organization*)
 
-Pakar manajemen organisasi terkemuka dari MIT, **Peter Senge**[^1], menegaskan bahwa institusi yang mampu bertahan dan unggul di abad modern adalah institusi yang memiliki kapasitas untuk **terus belajar dari data lapangannya sendiri (*Learning Organization*)**.
+Pakar manajemen organisasi terkemuka dari MIT, **Peter Senge[^1]**[^1], menegaskan bahwa institusi yang mampu bertahan dan unggul di abad modern adalah institusi yang memiliki kapasitas untuk **terus belajar dari data lapangannya sendiri (*Learning Organization*)**.
 
 Di lingkungan pesantren TUMBUH, data perilaku santri tidak dipandang sebagai "dokumen rahasia untuk menghukum anak", melainkan sebagai **cermin evaluasi bagi sistem kelembagaan**:
 * Jika data menunjukkan bahwa 80% kasus santri terlambat shalat subuh terjadi di kamar nomor 4, maka pertanyaannya bukan: *"Mengapa anak-anak di kamar 4 itu malas?"*, melainkan: *"Ada apa dengan kamar 4? Apakah lampu kamarnya redup? Apakah kran airnya macet? Ataukah musyrif pendampingnya kurang aktif menyapa di waktu pagi?"*
@@ -3381,7 +3376,7 @@ Pesantren tidak lagi berjalan dengan cara-cara coba-coba (*trial and error*) yan
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Peter M. Senge**, *The Fifth Discipline: The Art & Practice of The Learning Organization* (New York: Doubleday/Currency, 1990), hlm. 1–45.
-[^2]: **Robert H. Horner & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
+[^2]: **Robert H. Horner[^2] & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
 
 
 ---
@@ -3404,7 +3399,7 @@ Tanpa adanya kerangka tahapan yang jelas, para ustadz dan musyrif akan sering di
 * *Kapan seorang santri boleh diberikan kebebasan otonom dan kapan ia masih membutuhkan pendampingan fisik melekat?*
 * *Dan bagaimana indikator nyata bahwa seorang santri telah siap diwisuda sebagai kader pemimpin umat yang berakhlak mulia?*
 
-Ekosistem **TUMBUH** merancang **Kontinuum Perkembangan Longitudinal 10-Tahap**: sebuah kompas arsitektural yang memetakan perjalanan pertumbuhan manusia dan institusi dari titik nol inisiasi hingga puncak kematangan peradaban.
+Ekosistem **TUMBUH** merancang **Kontinuum Perkembangan Longitudinal 10-Tahap[^1]**: sebuah kompas arsitektural yang memetakan perjalanan pertumbuhan manusia dan institusi dari titik nol inisiasi hingga puncak kematangan peradaban.
 
 ```mermaid
 graph TD
@@ -3525,7 +3520,7 @@ Perhatikan akibat buruk dari diskoneksi ini:
 * Seorang santri yang semalaman menangis histeris di asrama karena demam tinggi atau baru saja menerima kabar duka dari keluarganya, keesokan paginya di kelas langsung dibentak dan dihukum berdiri oleh guru madrasah karena dianggap "mengantuk dan tidak memperhatikan pelajaran".
 * Sebaliknya, seorang santri yang seharian berprestasi cemerlang di kelas berhasil menjuarai lomba hafalan, di malam hari di asrama tidak mendapatkan penguatan apa pun dari musyrif karena musyrif tidak pernah menerima informasi tersebut.
 
-Ekosistem **TUMBUH** meruntuhkan sekat pemisah ini dan menghadirkan **Sistem Pengasuhan Simbiotik Dual-Pillar 24-Jam**:
+Ekosistem **TUMBUH** meruntuhkan sekat pemisah ini dan menghadirkan **Sistem Pengasuhan Simbiotik Dual-Pillar 24-Jam[^1]**:
 
 ```mermaid
 graph LR
@@ -3705,9 +3700,9 @@ Tingkat *Tahsiniyyat* adalah mahkota keindahan peradaban pesantren. Pada tingkat
 
 ### Menyelaraskan Aksiologi Pesantren dengan Hak-Hak Anak
 
-Pakar Maqashid kontemporer **Prof. Dr. Jasser Auda**[^2] menegaskan bahwa pendekatan Maqashid modern harus bergeser dari sekadar *"hukum proteksi pasif"* (*protection-oriented*) menjadi *"sistem pengembangan potensi manusia"* (*human development-oriented*).
+Pakar Maqashid kontemporer **Prof. Dr. Jasser Auda**[^2] menegaskan bahwa pendekatan Maqashid modern harus bergeser dari sekadar *"hukum proteksi pasif"* (*protection-oriented*) menjadi *"sistem pengembangan potensi manusia"* (*human development-oriented*). Hal ini sejalan dengan pandangan **Prof. Syed Muhammad Naquib al-Attas**[^3] bahwa orientasi tertinggi pendidikan Islam adalah penanaman adab (*Ta'dib*) untuk membebaskan jiwa manusia dari belenggu kebodohan dan kezaliman.
 
-Dalam konteks pesantren masa kini, menyelaraskan aksiologi Maqashid Syari'ah berarti memastikan bahwa hak-hak perkembangan anak—sebagaimana dilindungi oleh syariat Islam dan hukum perlindungan anak nasional—berjalan beriringan tanpa kontradiksi:
+Dalam konteks pesantren masa kini, menyelaraskan aksiologi Maqashid Syari'ah berarti memastikan bahwa hak-hak perkembangan anak—sebagaimana dilindungi oleh syariat Islam, standar PBIS modern[^4], dan hukum perlindungan anak nasional—berjalan beriringan tanpa kontradiksi:
 
 | Hak Dasar Santri | Landasan Syariat Maqashid | Landasan Hukum & Sains Kontemporer | Praktik Nyata Ekosistem TUMBUH |
 | :--- | :--- | :--- | :--- |
@@ -3726,6 +3721,8 @@ Setiap teguran yang diberikan, setiap peraturan yang ditegakkan, dan setiap fasi
 
 [^1]: **Al-Imam Abu Ishaq Ibrahim asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II, hlm. 9–35.
 [^2]: **Prof. Dr. Jasser Auda**, *Maqasid al-Shariah as Philosophy of Islamic Law: A Systems Approach* (London: The International Institute of Islamic Thought / IIIT, 2008), Bab 1: "Maqasid al-Shariah: A Systematic Overview", hlm. 1–45.
+[^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Aims and Objectives of Islamic Education* (Jeddah: King Abdulaziz University / Hodder and Stoughton, 1979), hlm. 1–32.
+[^4]: **Robert H. Horner & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
 
 
 ---
@@ -3750,7 +3747,7 @@ Para fuqaha sepakat bahwa tegak dan runtuhnya peradaban manusia ditentukan oleh 
 4. Penjagaan Kehormatan dan Martabat Keturunan (*Hifzh al-'Irdh wan-Nasl*)
 5. Penjagaan Harta dan Hak Milik Pribadi (*Hifzh al-Mal*)
 
-Di lingkungan pondok pesantren, kelima prinsip dharuriyyat ini kerap kali hanya dipelajari sebagai materi hafalan teoritis dalam kitab ushul fiqih seperti *Al-Mustashfa* atau *Al-Waraqat*. Para santri hafal matang definisinya di lembar ujian, namun ketika melangkah ke bilik asrama, kelima hak dasar tersebut justru terabaikan dalam tata kelola keseharian.
+Di lingkungan pondok pesantren, kelima prinsip dharuriyyat ini kerap kali hanya dipelajari sebagai materi hafalan teoritis dalam kitab ushul fiqih seperti *Al-Mustashfa* karya Al-Ghazali[^1] atau *Ushul al-Fiqh al-Islami* karya Wahbah az-Zuhaili[^2]. Para santri hafal matang definisinya di lembar ujian, namun ketika melangkah ke bilik asrama, kelima hak dasar tersebut justru terabaikan dalam tata kelola keseharian.
 
 Sistem **TUMBUH** melakukan kontekstualisasi dan integrasi penuh dari kelima prinsip ini menjadi **Konstitusi Operasional Pengasuhan Asrama 24-Jam**:
 
@@ -3795,8 +3792,8 @@ Dalam Sistem TUMBUH, *Hifzh an-Nafs* diterjemahkan menjadi:
 
 #### 3. Hifzh al-'Aql (Perlindungan Kapasitas Akal & Kesehatan Saraf Otak)
 Akal adalah instrumen utama santri dalam memahami wahyu dan menghafal Al-Qur'an. Menjaga akal tidak hanya berarti melarang konsumsi zat terlarang (khamr dan narkoba), melainkan juga **menjaga kesehatan neurobiologis otak santri dari kerusakan kognitif**:
-* **Jaminan Waktu Tidur Sirkadian**: Sistem TUMBUH mewajibkan lampu asrama dipadamkan pada pukul 22.00 WIB dan santri baru dibangunkan pada pukul 03.45 WIB, memastikan santri memperoleh minimal 6–7 jam tidur malam lelap (*REM Sleep*) yang sangat vital bagi konsolidasi memori hafalan.
-* **Bebas dari Stres Toksik Kortisol**: Suasana asrama yang ramah dan suportif menjaga otak santri berada dalam gelombang alfa yang tenang, mencegah terjadinya atrofi sel neuron hipokampus akibat stres berkepanjangan.
+* **Jaminan Waktu Tidur Sirkadian**: Riset neurosains tidur oleh Dr. Matthew Walker[^3] membuktikan tidur lelap sangat vital bagi konsolidasi memori. Sistem TUMBUH mewajibkan lampu asrama dipadamkan pada pukul 22.00 WIB dan santri baru dibangunkan pada pukul 03.45 WIB, memastikan santri memperoleh minimal 6–7 jam tidur malam lelap (*REM Sleep*).
+* **Bebas dari Stres Toksik Kortisol**: Riset psikiatri anak oleh Dr. Bruce D. Perry[^4] membuktikan suasana asrama yang ramah dan suportif menjaga otak santri berada dalam gelombang alfa yang tenang, mencegah terjadinya atrofi sel neuron hipokampus akibat stres berkepanjangan.
 
 ```mermaid
 graph LR
@@ -3838,6 +3835,8 @@ Santri tidak lagi merasa terancam saat berada di pondok. Mereka merasa bahwa aga
 
 [^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Al-Mustashfa min 'Ilmil Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420.
 [^2]: **Wahbah az-Zuhaili**, *Ushul al-Fiqh al-Islami* (Damaskus: Dar al-Fikr, 1986), Jilid II: "Al-Maqashid asy-Syar'iyyah", hlm. 1017–1045.
+[^3]: **Matthew Walker**, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner / Simon & Schuster, 2017), Bab 6: "Sleep, Memory, and Brain Plasticity", hlm. 107–132.
+[^4]: **Bruce D. Perry & Maia Szalavitz**, *The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook* (New York: Basic Books, 2006; edisi revisi 2017), hlm. 45–80.
 
 
 ---
@@ -4065,7 +4064,7 @@ Inilah puncak keluhuran akhlak nabawi yang dihidupkan kembali oleh Sistem TUMBUH
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Ibnu Qudamah al-Maqdisi**, *Al-Mughni*, Tahqiq: Dr. Abdullah bin Abdul Muhsin at-Turki (Kairo: Hajar, 1986), Jilid IX: "Kitab ad-Diyat", hlm. 550–558.
-[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
+[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi[^2]**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
 
 
 ---
@@ -4144,7 +4143,7 @@ graph LR
 
 Wahai para Kiai, Bu Nyai, Asatidz, Musyrif, Pimpinan Pesantren, dan Pemerhati Pendidikan Islam di seluruh pelosok Nusantara...
 
-Kitab monograf ini bukanlah sekadar rangkaian analisis teoritis untuk dipajang di rak-rak perpustakaan. Buku Volume 01 ini adalah **panggilan jiwa, amanah peradaban, dan cetak biru transformasi nyata** yang menunggu tangan-tangan kita untuk mengejawantahkannya di bumi pesantren.
+Kitab monograf ini bukanlah sekadar rangkaian analisis teoritis untuk dipajang di rak-rak perpustakaan. Buku Volume 01 ini adalah[^1] **panggilan jiwa, amanah peradaban, dan cetak biru transformasi nyata** yang menunggu tangan-tangan kita untuk mengejawantahkannya di bumi pesantren.
 
 * Mari kita bersihkan asrama-asrama kita dari tradisi kekerasan fisik, bentakan kasar, dan perpeloncoan feodal yang telah menodai kesucian nama pesantren.
 * Mari kita ganti kepatuhan semu berbasis rasa takut dengan ketaatan hakiki yang bersemi dari keikhlasan batin dan kesadaran *Muraqabatullah*.

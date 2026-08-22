@@ -3,7 +3,7 @@
 
 **Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-05/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Filsafat Pendidikan Islam Terapan, Rekayasa Sistem Sosial Pesantren, & Teori Transformasi Kelembagaan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, Arsitektur PBIS Restoratif, & Tata Kelola Qudwah*)
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH[^4] (*Master Author, Pakar Filosofi TUMBUH, Arsitektur PBIS Restoratif, & Tata Kelola Qudwah*)
 
 ---
 
@@ -74,9 +74,9 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 | Dimensi Pembinaan | Paradigma Tradisional Usang | Paradigma Sekuler Mekanistik | Paradigma Rekonstruktif TUMBUH |
 | :--- | :--- | :--- | :--- |
 | **Pandangan atas Santri** | Objek pasif yang bebal, harus ditundukkan dengan teror rasa takut. | Organisme refleks yang dimanipulasi dengan imbalan dan hukuman. | **Makhluk mulia berfitrah suci (*Fitrah al-Munazzalah*) yang potensinya disuburkan.** |
-| **Metode Disiplin** | Hukuman fisik (rotan/tamparan), pembentakan massal, dan sidang senior. | Sistem poin defisit hitam, denda uang saku, dan pemotongan hak token. | **Disiplin Restoratif (*Firm & Kind*), Konsekuensi Logis 4R, dan *Ishlah al-Bain*.** |
+| **Metode Disiplin** | Hukuman fisik (rotan/tamparan), pembentakan massal, dan sidang senior. | Sistem poin defisit hitam, denda uang saku, dan pemotongan hak token. | **Disiplin Restoratif[^2] (*Firm & Kind*), Konsekuensi Logis 4R, dan *Ishlah al-Bain*.** |
 | **Landasan Saraf Otak** | Mengabaikan biologi; mengaktifkan amigdala *fight-or-flight* secara kronis. | Memanfaatkan sistem dopamin ekstrinsik semata (*addictive reward loops*). | **Menjaga status *Ventral Vagal (Safe & Connected)* untuk optimalisasi Korteks Prefrontal.** |
-| **Struktur Pengasuhan** | Terbelah (madrasah jalan sendiri, asrama tanpa pendampingan pembina). | Pengasuhan administratif formal yang kaku tanpa sentuhan hati. | **Dual-Pillar Caretaking (Walas + Musyrif) terintegrasi via Handover 15-Menit & Bebas Burnout.** |
+| **Struktur Pengasuhan** | Terbelah (madrasah jalan sendiri, asrama tanpa pendampingan pembina). | Pengasuhan administratif formal yang kaku tanpa sentuhan hati. | **Dual-Pillar Caretaking terintegrasi via Handover 15-Menit & Sistem PBIS Multi-Tier[^1].** |
 | **Motivasi Moral** | Ketakutan akan ancaman sanksi fisik (*External Regulation*). | Perburuan stiker hadiah dan pujian duniawi (*Introjected Regulation*). | **Internalisasi nilai adab berakar dari kesadaran *Muraqabatullah* & Ikhlas.** |
 | **Posisi Pelanggaran** | Aib memalukan yang harus dibalas dan dipermalukan di depan umum. | Pengurangan skor angka semata pada buku catatan pelanggaran. | **Peluang pembelajaran moral (*Learning Opportunity*) melalui muhasabah & restitusi.** |
 
@@ -84,7 +84,7 @@ Tabel berikut menyajikan komparasi jernih antara paradigma lama yang problematik
 
 ### Peta Jalan Implementasi Menuju Seri Buku Master TUMBUH
 
-Rekonstruksi filosofis pada Bab 01 ini adalah pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
+Rekonstruksi filosofis pada Bab 01 oleh Dewan Pakar TUMBUH[^4] ini berakar pada de-sekularisasi ilmu Prof. Naquib al-Attas[^3] dan menjadi pintu pembuka bagi seluruh arsitektur praktis pada volume-volume berikutnya dalam Seri Buku Master TUMBUH:
 
 ```mermaid
 graph TD

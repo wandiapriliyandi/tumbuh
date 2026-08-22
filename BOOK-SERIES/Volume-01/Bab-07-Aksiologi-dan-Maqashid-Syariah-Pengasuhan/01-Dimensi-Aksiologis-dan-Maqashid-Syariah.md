@@ -92,9 +92,9 @@ Tingkat *Tahsiniyyat* adalah mahkota keindahan peradaban pesantren. Pada tingkat
 
 ### Menyelaraskan Aksiologi Pesantren dengan Hak-Hak Anak
 
-Pakar Maqashid kontemporer **Prof. Dr. Jasser Auda**[^2] menegaskan bahwa pendekatan Maqashid modern harus bergeser dari sekadar *"hukum proteksi pasif"* (*protection-oriented*) menjadi *"sistem pengembangan potensi manusia"* (*human development-oriented*).
+Pakar Maqashid kontemporer **Prof. Dr. Jasser Auda**[^2] menegaskan bahwa pendekatan Maqashid modern harus bergeser dari sekadar *"hukum proteksi pasif"* (*protection-oriented*) menjadi *"sistem pengembangan potensi manusia"* (*human development-oriented*). Hal ini sejalan dengan pandangan **Prof. Syed Muhammad Naquib al-Attas**[^3] bahwa orientasi tertinggi pendidikan Islam adalah penanaman adab (*Ta'dib*) untuk membebaskan jiwa manusia dari belenggu kebodohan dan kezaliman.
 
-Dalam konteks pesantren masa kini, menyelaraskan aksiologi Maqashid Syari'ah berarti memastikan bahwa hak-hak perkembangan anak—sebagaimana dilindungi oleh syariat Islam dan hukum perlindungan anak nasional—berjalan beriringan tanpa kontradiksi:
+Dalam konteks pesantren masa kini, menyelaraskan aksiologi Maqashid Syari'ah berarti memastikan bahwa hak-hak perkembangan anak—sebagaimana dilindungi oleh syariat Islam, standar PBIS modern[^4], dan hukum perlindungan anak nasional—berjalan beriringan tanpa kontradiksi:
 
 | Hak Dasar Santri | Landasan Syariat Maqashid | Landasan Hukum & Sains Kontemporer | Praktik Nyata Ekosistem TUMBUH |
 | :--- | :--- | :--- | :--- |
@@ -113,3 +113,5 @@ Setiap teguran yang diberikan, setiap peraturan yang ditegakkan, dan setiap fasi
 
 [^1]: **Al-Imam Abu Ishaq Ibrahim asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II, hlm. 9–35.
 [^2]: **Prof. Dr. Jasser Auda**, *Maqasid al-Shariah as Philosophy of Islamic Law: A Systems Approach* (London: The International Institute of Islamic Thought / IIIT, 2008), Bab 1: "Maqasid al-Shariah: A Systematic Overview", hlm. 1–45.
+[^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Aims and Objectives of Islamic Education* (Jeddah: King Abdulaziz University / Hodder and Stoughton, 1979), hlm. 1–32.
+[^4]: **Robert H. Horner & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.

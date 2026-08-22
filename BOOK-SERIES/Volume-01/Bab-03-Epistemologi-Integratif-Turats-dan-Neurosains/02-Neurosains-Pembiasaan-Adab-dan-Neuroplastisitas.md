@@ -33,34 +33,29 @@ graph TD
 
 ---
 
-### Hukum Hebbian: *"Neurons that Fire Together, Wire Together"*
+### Hukum Hebbian & Penebalan Mielin (*Myelination*)
 
-Prinsip dasar pembentukan kebiasaan dalam neurosains dirumuskan oleh neuropsikolog **Donald Hebb** (1949)[^2]:
+Mengapa pengulangan yang konsisten begitu penting dalam pembentukan karakter santri?
 
-$$\text{Sel-sel neuron yang menyala bersama secara berulang-ulang, akan tersambung membentuk satu jaringan sirkuit permanen}$$
-
-Ketika seorang santri dilatih untuk selalu menaruh sandalnya menghadap keluar di rak setiap kali masuk asrama:
-* Pada awalnya, sinyal listrik di otaknya harus merintis jalur setapak yang penuh rintangan di neokorteks.
-* Setiap kali tindakan tersebut diulang, sel-sel saraf membungkus serat aksonnya dengan lapisan lemak pelindung yang disebut **Mielin (*Myelin Sheath*)**[^3].
-* Semakin tebal lapisan mielin, semakin cepat sinyal listrik melesat (dari 2 mil per jam menjadi 200 mil per jam). Jalur setapak yang tadinya sulit dilalui kini berubah menjadi **"Jalan Tol Saraf Super Cepat"** di *Basal Ganglia*.
-* Hasil akhirnya: menata sandal tidak lagi membutuhkan paksaan atau perintah; tangan dan kaki anak bergerak merapikan sandal secara spontan dalam hitungan detik!
+1. **Hukum Hebbian (*Hebbian Theory*)**[^2]:  
+   Pakar neuropsikologi **Donald O. Hebb** merumuskan hukum terkenal: *"Neurons that fire together, wire together"* (sel-sel saraf yang menyala bersamaan akan terhubung bersamaan). Setiap kali santri dilatih bangun malam lalu mengambil wudhu secara teratur, kelompok neuron di otaknya menyala serempak dan merajut koneksi sinaptik yang semakin kokoh.
+2. **Penebalan Mielin (*Myelination*)**[^3]:  
+   Jurnalis sains **Daniel Coyle** dalam *The Talent Code* menjelaskan bahwa setiap kali sebuah perilaku diulang, selubung lemak pelindung yang disebut **mielin (*myelin sheath*)** akan membungkus jalur saraf tersebut lapis demi lapis. Semakin tebal mielin, sinyal perilaku melesat hingga 100 kali lebih cepat! Inilah penjelasan biologis mengapa santri senior yang telah beradab mampu bangun subuh dan menjaga lisannya secara otomatis tanpa perlu dipaksa ustadz.
 
 ---
 
-### Integrasi Turats: Konsep *Riyadhatun Nafs* dan *Al-I'tiyad* Imam Al-Ghazali
+### Tinjauan Turats: Menyelami Konsep *At-Takalluf* Imam Al-Ghazali
 
-Konsep mielinisasi dan plastisitas otak ini membuktikan secara ilmiah kebenaran metodologi tasawuf yang dirumuskan oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* (Kitab *Riyadhatin Nafs*)[^4]:
+Kebenaran hukum neuroplastisitas ini secara menakjubkan telah dijelaskan secara presisi oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin*[^4]:
 
 > [!NOTE]
-> ### 📜 Kaidah Imam Al-Ghazali tentang Pembiasaan Adab (*Al-I'tiyad*):
+> ### 📜 Formula Pembiasaan Karakter Imam Al-Ghazali:
 > 
-> $$\text{إِنَّ الْأَخْلَاقَ الْحَسَنَةَ تَنْغَرِسُ فِي النَّفْسِ بِالتَّكَلُّفِ فِي ابْتِدَاءِ الْأَمْرِ، ثُمَّ تَصِيرُ طَبْعًا وَعَادَةً بِكَثْرَةِ التَّكْرَارِ، حَتَّى يَصِيرَ صُدُورُ الْفِعْلِ الْجَمِيلِ سَهْلًا لَذِيذًا لَا كُلْفَةَ فِيهِ}$$
+> $$\text{إِنَّ الْأَخْلَاقَ الْحَسَنَةَ تَحْصُلُ أَوَّلًا بِالتَّكَلُّفِ، ثُمَّ تَصِيرُ بِكَثْرَةِ التَّكْرَارِ طَبْعًا وَعَادَةً، حَتَّى يَصْدُرَ الْفِعْلُ بِسُهُولَةٍ وَتَلَذُّذٍ}$$
 > 
 > **Artinya:**  
 > *"Sesungguhnya akhlak mulia itu pada awalnya tertanam di dalam jiwa melalui **upaya pembiasaan yang dipaksakan (*at-Takalluf*) pada mulanya**.*  
 > *Kemudian, dengan banyaknya pengulangan yang konsisten, ia akan **berubah menjadi watak bawaan dan kebiasaan alami (*Thab'an wa 'Aadah*)**—hingga perbuatan indah tersebut memancar keluar dengan sangat mudah, ringan, dan terasa nikmat tanpa ada lagi beban keterpaksaan."*
-
-Al-Ghazali telah merumuskan tahapan neuroplastisitas sembilan abad sebelum ilmuwan modern menemukannya: dari pemaksaan sadar (*at-Takalluf*), menuju pengulangan konsisten (*al-I'tiyad*), hingga lahirnya karakter refleks otomatis yang membahagiakan jiwa (*al-Malakah*).
 
 ---
 

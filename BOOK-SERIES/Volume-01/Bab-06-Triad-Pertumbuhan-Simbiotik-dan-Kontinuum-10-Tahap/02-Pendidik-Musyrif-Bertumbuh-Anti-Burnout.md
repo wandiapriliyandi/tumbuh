@@ -29,7 +29,7 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 6.2.1:</b> Kaskade Tiga Tahap Maslach Burnout Inventory pada Musyrif Asrama Pesantren.</sub></div>
 
-Pakar psikologi kerja **Christina Maslach**[^1] membuktikan bahwa ketika seorang pengasuh mencapai tahap depersonalisasi, sirkuit empati di otaknya terkunci (*numbed*). Musyrif yang kelelahan kehilangan kemampuan biologis untuk bersikap lembut. 
+Pakar psikologi kerja **Christina Maslach[^1]**[^1] membuktikan bahwa ketika seorang pengasuh mencapai tahap depersonalisasi, sirkuit empati di otaknya terkunci (*numbed*). Musyrif yang kelelahan kehilangan kemampuan biologis untuk bersikap lembut. 
 
 Hasil akhirnya sangat tragis: **kekerasan fisik dan verbal yang terjadi di asrama pesantren sering kali bukanlah bukti bahwa musyrif tersebut "berwatak jahat", melainkan letupan histeris dari jiwa pembina yang sedang sekarat karena kelelahan kronis (*burnout breakdown*)!**
 
@@ -61,7 +61,7 @@ graph TD
 
 ### Tiga Pilar Protokol Manajemen Kerja Musyrif TUMBUH
 
-Ekosistem TUMBUH merumuskan tata kelola operasional musyrif yang menjamin keberlanjutan stamina dan kesehatan mental para pembina:
+Ekosistem TUMBUH merumuskan tata kelola operasional musyrif[^2] yang menjamin keberlanjutan stamina dan kesehatan mental para pembina:
 
 #### 1. Sistem Shift Kerja Berpasangan (*Dual-Care Team System*)
 Sistem TUMBUH menghapus tradisi "musyrif tunggal" yang memegang asrama sendirian:
@@ -102,5 +102,5 @@ Ketika para musyrif merasa dihargai oleh yayasan, memiliki waktu istirahat yang 
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
+[^1]: **Christina Maslach[^1] & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.
 [^2]: **Dewan Pakar Ekosistem TUMBUH**, *Standar Baku Kompetensi & Tata Kelola Musyrif Asrama TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).

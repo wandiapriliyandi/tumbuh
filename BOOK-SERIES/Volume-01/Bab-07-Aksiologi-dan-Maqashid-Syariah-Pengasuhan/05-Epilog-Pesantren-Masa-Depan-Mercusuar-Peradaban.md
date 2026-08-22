@@ -72,7 +72,7 @@ graph LR
 
 Wahai para Kiai, Bu Nyai, Asatidz, Musyrif, Pimpinan Pesantren, dan Pemerhati Pendidikan Islam di seluruh pelosok Nusantara...
 
-Kitab monograf ini bukanlah sekadar rangkaian analisis teoritis untuk dipajang di rak-rak perpustakaan. Buku Volume 01 ini adalah **panggilan jiwa, amanah peradaban, dan cetak biru transformasi nyata** yang menunggu tangan-tangan kita untuk mengejawantahkannya di bumi pesantren.
+Kitab monograf ini bukanlah sekadar rangkaian analisis teoritis untuk dipajang di rak-rak perpustakaan. Buku Volume 01 ini adalah[^1] **panggilan jiwa, amanah peradaban, dan cetak biru transformasi nyata** yang menunggu tangan-tangan kita untuk mengejawantahkannya di bumi pesantren.
 
 * Mari kita bersihkan asrama-asrama kita dari tradisi kekerasan fisik, bentakan kasar, dan perpeloncoan feodal yang telah menodai kesucian nama pesantren.
 * Mari kita ganti kepatuhan semu berbasis rasa takut dengan ketaatan hakiki yang bersemi dari keikhlasan batin dan kesadaran *Muraqabatullah*.

@@ -60,7 +60,7 @@ graph LR
 <div align="center"><sub><b>Gambar 5.2.2:</b> Trajektori 66 Hari Pembentukan Kebiasaan Adab Ekosistem TUMBUH.</sub></div>
 
 1. **Sunnatullah Bertahap (*Al-Tadarruj*)**:  
-   Riset University College London (UCL) oleh Dr. Phillippa Lally membuktikan bahwa otak manusia membutuhkan rata-rata **66 hari berturut-turut** agar sebuah kebiasaan baru mencapai titik otomatisasi refleks (*Asymptote of Automaticity*).
+   Riset University College London (UCL) oleh Dr. Phillippa Lally[^2] membuktikan bahwa otak manusia membutuhkan rata-rata **66 hari berturut-turut** agar sebuah kebiasaan baru mencapai titik otomatisasi refleks (*Asymptote of Automaticity*).
 2. **Menemani Pergulatan Batin**:  
    Ketika santri baru mengalami kesulitan di 3 pekan pertama, musyrif tidak marah, melainkan memahami bahwa kabel saraf di otak santri sedang dalam proses perintisan jalur baru. Kunci keberhasilan pembinaan bukanlah kekerasan hukuman, melainkan **frekuensi pengulangan positif yang konsisten dan penuh kasih sayang**.
 
@@ -100,5 +100,5 @@ Dengan memadukan otoritas integratif wahyu-sains, kesabaran habituasi 66 hari, d
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Jane Nelsen**, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 15–58.
-[^2]: **Phillippa Lally et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.
+[^1]: **Jane Nelsen[^1]**, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 15–58.
+[^2]: **Phillippa Lally[^2] et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.

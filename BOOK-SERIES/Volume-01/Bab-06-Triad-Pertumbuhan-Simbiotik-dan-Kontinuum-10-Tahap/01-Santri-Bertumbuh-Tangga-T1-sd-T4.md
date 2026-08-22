@@ -87,7 +87,7 @@ graph LR
 
 ### Matriks Pemantauan Perkembangan Karakter Santri TUMBUH
 
-Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
+Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian[^2] (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
 
 | Dimensi Karakter | Tangga T1 (Tahu) | Tangga T2 (Mau) | Tangga T3 (Mampu Mandiri) | Tangga T4 (Teladan Penggerak) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -101,5 +101,5 @@ Dengan memandu santri mendaki tangga T1 s.d. T4 ini secara sabar dan terukur, Si
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Benjamin S. Bloom (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
+[^1]: **Benjamin S. Bloom[^1] (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).
 [^2]: **Dewan Pakar Ekosistem TUMBUH**, *Taksonomi Sepuluh Kapasitas Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).

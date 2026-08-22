@@ -16,7 +16,7 @@ Tanpa adanya kerangka tahapan yang jelas, para ustadz dan musyrif akan sering di
 * *Kapan seorang santri boleh diberikan kebebasan otonom dan kapan ia masih membutuhkan pendampingan fisik melekat?*
 * *Dan bagaimana indikator nyata bahwa seorang santri telah siap diwisuda sebagai kader pemimpin umat yang berakhlak mulia?*
 
-Ekosistem **TUMBUH** merancang **Kontinuum Perkembangan Longitudinal 10-Tahap**: sebuah kompas arsitektural yang memetakan perjalanan pertumbuhan manusia dan institusi dari titik nol inisiasi hingga puncak kematangan peradaban.
+Ekosistem **TUMBUH** merancang **Kontinuum Perkembangan Longitudinal 10-Tahap[^1]**: sebuah kompas arsitektural yang memetakan perjalanan pertumbuhan manusia dan institusi dari titik nol inisiasi hingga puncak kematangan peradaban.
 
 ```mermaid
 graph TD

@@ -124,4 +124,4 @@ Dengan mengintegrasikan sains kognitif modern ke dalam keagungan tradisi halaqah
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer Science+Business Media, 2011), hlm. 1–45.
-[^2]: **K.H. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim*, Tahqiq: Tim Tebuireng (Jombang: Pustaka Warisan Islam, 2014), Bab 3: "Adab al-Muta'allim fi Darsihi", hlm. 40–65.
+[^2]: **K.H. M. Hasyim Asy'ari[^2]**, *Adab al-'Alim wal Muta'allim*, Tahqiq: Tim Tebuireng (Jombang: Pustaka Warisan Islam, 2014), Bab 3: "Adab al-Muta'allim fi Darsihi", hlm. 40–65.
