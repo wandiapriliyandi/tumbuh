@@ -16,18 +16,26 @@ Kita telah mengawali perjalanan dari **Bab 01** dengan membongkar krisis karakte
 ```mermaid
 graph TD
     subgraph GrandSynthesis["GRAND SYNTHESIS ARSITEKTUR KEILMUAN BUKU VOLUME 01"]
-        B1["BAB 01: DIAGNOSIS KRISIS<br/>Dekonstruksi kekerasan, kepatuhan semu, trauma kortisol, & kelemahan behaviorisme."]
-        B2["BAB 02: ONTOLOGI FITRAH<br/>Kesucian primordial insan pembelajar & dinamika psiko-spiritual nafs-aql-qalb."]
-        B3["BAB 03: EPISTEMOLOGI INTEGRATIF<br/>Sinergi wahyu & neurosains, mielinisasi hebbian, & habituasi sabar 66-hari."]
-        B4["BAB 04: KRITIK FEODALISME<br/>Penghapusan relasi kuasa otoriter menuju Servant Qudwah Leadership & mediasi sebaya."]
-        B5["BAB 05: SEPULUH POSTULAT<br/>Piagam filosofis fondasional arsitektur peradaban ekosistem pendidikan TUMBUH."]
-        B6["BAB 06: TRIAD SIMBIOTIK<br/>Santri tumbuh T1-T4, pendidik terlindungi anti-burnout, & lembaga berbasis data PBIS."]
-        B7["BAB 07: AKSIOLOGI MAQASHID<br/>Perlindungan Dharuriyyat Khamsah, eliminasi hukuman fisik, & restorasi Ishlah al-Bain."]
+        direction TB
         
-        B1 ==> B2 ==> B3 ==> B4 ==> B5 ==> B6 ==> B7 ==> Peradaban["PESANTREN MASA DEPAN:<br/>MERCUSUAR PERADABAN RAHMATAN LIL 'ALAMIN"]
+        subgraph Baris1["BARIS 1: FONDASI KRITIS, ONTOLOGI FITRAH, & KRITIK FEODALISME"]
+            direction LR
+            B1["<b>BAB 01: DIAGNOSIS KRISIS</b><br/>Patologi Kekerasan & Trauma"] --> B2["<b>BAB 02: ONTOLOGI FITRAH</b><br/>Kesucian Insan Pembelajar"]
+            B2 --> B3["<b>BAB 03: EPISTEMOLOGI</b><br/>Integrasi Wahyu & Neurosains"]
+            B3 --> B4["<b>BAB 04: KRITIK FEODALISME</b><br/>Servant Qudwah Leadership"]
+        end
+
+        subgraph Baris2["BARIS 2: ARSITEKTUR SISTEM, TRIAD SIMBIOTIK, & AKSIOLOGI MAQASHID"]
+            direction LR
+            B5["<b>BAB 05: 10 POSTULAT</b><br/>Piagam Filosofis TUMBUH"] --> B6["<b>BAB 06: TRIAD SIMBIOTIK</b><br/>Tangga T1-T4 & Anti-Burnout"]
+            B6 --> B7["<b>BAB 07: MAQASHID SYARI'AH</b><br/>Restorasi Ishlah al-Bain"]
+            B7 --> Goal["<b>PESANTREN MASA DEPAN</b><br/>Mercusuar Peradaban"]
+        end
+
+        Baris1 ==> Baris2
     end
 ```
-<div align="center"><sub><b>Gambar 7.5.1:</b> Grand Synthesis Arsitektur Keilmuan Tujuh Bab Buku Volume 01 Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 7.5.1:</b> Grand Synthesis Arsitektur Keilmuan Tujuh Bab Buku Volume 01 Ekosistem TUMBUH (2 Baris Kontinuum).</sub></div>
 
 ---
 
