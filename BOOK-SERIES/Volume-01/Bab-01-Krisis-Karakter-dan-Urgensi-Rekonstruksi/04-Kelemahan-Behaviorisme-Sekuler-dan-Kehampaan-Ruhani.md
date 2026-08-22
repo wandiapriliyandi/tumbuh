@@ -144,14 +144,6 @@ Penerapan pilar sistemik di lapangan:
 
 ---
 
-### Sintesis Aksiologis Sub-Bab 1.4
-
-Tujuan akhir pendidikan karakter bukanlah keteraturan raga yang mekanistik, melainkan terbangunnya jiwa yang merdeka dan ikhlas beramal semata-mata karena Allah Ta'ala.
-
-Dengan mengganti sistem token transaksional dengan Apresiasi Relasional dan Tazkiyatun Niyyah, Sistem TUMBUH membimbing santri mendaki tangga motivasi hingga mencapai puncak **Muraqabatullah**: berakhlak mulia di keramaian maupun dalam kesendirian, menjaga integritas di pondok maupun Ketika telah berbaur di tengah masyarakat luas.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Burrhus Frederic Skinner**, *Science and Human Behavior* (New York: Macmillan, 1953); serta *About Behaviorism* (New York: Vintage Books, 1974).

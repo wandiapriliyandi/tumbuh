@@ -220,14 +220,6 @@ Kelima pilar sistemik ini bekerja serempak di lapangan:
 
 ---
 
-### Sintesis Epistemologis Sub-Bab 1.1
-
-Kegagalan pendidikan karakter di pesantren selama ini bukanlah karena kelemahan isi kitab adab, melainkan karena ketiadaan jembatan pengasuhan antara ruang kelas dan kamar tidur santri.
-
-Dengan menyatukan Ta'lim di madrasah, Tarbiyah di asrama, dan Ta'dib dalam denyut kehidupan 24 jam, Sistem TUMBUH mengembalikan pesantren ke fungsi asasinya: rahim peradaban yang melahirkan santri berilmu luas, berjiwa bersih, dan luhur adab perilakunya di hadapan Allah dan manusia.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Larry R. Squire**, "Memory systems of the brain: A brief history and current perspective", *Neurobiology of Learning and Memory*, Vol. 82, No. 3 (2004), hlm. 171–177; serta **Larry R. Squire & Eric R. Kandel**, *Memory: From Mind to Molecules* (New York: Scientific American Library, 1999).

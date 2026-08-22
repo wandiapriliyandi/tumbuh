@@ -58,14 +58,6 @@ graph LR
 
 ---
 
-### Sintesis Kelembagaan Sub-Bab 6.3
-
-Sebuah lembaga yang bertumbuh adalah lembaga yang rendah hati untuk terus belajar dari data faktual lapangannya sendiri.
-
-Dengan mengadopsi tata kelola berbasis data PBIS, Sistem TUMBUH mentransformasikan pesantren menjadi organisasi modern yang lincah, adil, transparan, dan senantiasa berbenah demi memberikan pengasuhan terbaik bagi putra-putri titipan umat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Peter M. Senge**, *The Fifth Discipline: The Art & Practice of The Learning Organization* (New York: Doubleday/Currency, 1990), hlm. 1–45.

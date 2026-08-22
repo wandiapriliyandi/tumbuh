@@ -67,14 +67,6 @@ Organisasi santri dalam Sistem TUMBUH tidak berjalan sendiri tanpa kendali:
 
 ---
 
-### Sintesis Kelembagaan Sub-Bab 4.5
-
-Organisasi santri adalah laboratorium peradaban di mana anak-anak kita belajar arti sejati dari kepemimpinan Islam: memimpin adalah melayani, membimbing adalah menyayangi, dan berorganisasi adalah ladang untuk menebar manfaat bagi sesama (*Khairunnaas anfa'uhum linnaas*).
-
-Dengan mereformasi organisasi santri menjadi wadah pengayom, Sistem TUMBUH memastikan asrama pesantren menjadi rumah peradaban yang aman, ceria, dan dipenuhi semangat persaudaraan yang indah.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **B. Bradford Brown & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.

@@ -79,14 +79,6 @@ Bagaimana Sistem TUMBUH mengintegrasikan Ta'lim, Tarbiyah, dan Ta'dib dalam kese
 
 ---
 
-### Sintesis Pedagogis Sub-Bab 2.4
-
-Dengan merekonstruksi kedudukan *Ta'dib* sebagai mahkota tertinggi pendidikan Islam, Sistem TUMBUH menyatukan kembali akal yang cerdas, raga yang kuat, dan kalbu yang beradab. 
-
-Pesantren tidak lagi sekadar menjadi madrasah tempat menghafal teks, melainkan bertransformasi menjadi **Taman Peradaban Adab** yang melahirkan generasi santri berintegritas tinggi, berakhlak mulia, dan siap memimpin masa depan peradaban umat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: International Institute of Islamic Thought and Civilization / ISTAC, 1980), hlm. 15–35.

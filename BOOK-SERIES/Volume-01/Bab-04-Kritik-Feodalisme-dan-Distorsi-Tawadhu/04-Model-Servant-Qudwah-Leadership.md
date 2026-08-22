@@ -78,14 +78,6 @@ graph LR
 
 ---
 
-### Sintesis Kepemimpinan Sub-Bab 4.4
-
-Kekuasaan sejati bukanlah diukur dari seberapa banyak orang yang takut kepadamu, melainkan dari seberapa banyak orang yang merasa aman, terbimbing, dan dicintai di bawah kepemimpinanmu.
-
-Dengan menegakkan model *Servant Qudwah Leadership*, Sistem TUMBUH melahirkan generasi pemimpin masa depan yang berjiwa ksatria, berintegritas tinggi, dan senantiasa mengabdikan dirinya untuk melayani umat dengan tulus lillahi ta'ala.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Robert K. Greenleaf**, *The Servant as Leader* (Newton Centre: Robert K. Greenleaf Center, 1970; cetak ulang 2008), hlm. 1–35.

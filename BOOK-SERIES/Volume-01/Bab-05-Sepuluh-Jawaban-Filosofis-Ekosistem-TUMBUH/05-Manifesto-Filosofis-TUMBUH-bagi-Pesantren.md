@@ -46,14 +46,6 @@ Kami meyakini dan menegakkan dengan sepenuh hati:
 
 ---
 
-### Sintesis Pamungkas Bab 05
-
-Sepuluh postulat ini bukanlah deretan teori yang membeku di atas kertas, melainkan **kompas jiwa dan cetak biru peradaban** yang menuntun seluruh transformasi nyata di bumi pesantren.
-
-Dengan memegang teguh piagam ini, Ekosistem TUMBUH melangkah mantap menyongsong masa depan, membimbing generasi santri menggapai puncak kemuliaan dunia dan akhirat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Dewan Pakar Ekosistem TUMBUH**, *Deklarasi Filosofis Pembaruan Pendidikan Pesantren* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).

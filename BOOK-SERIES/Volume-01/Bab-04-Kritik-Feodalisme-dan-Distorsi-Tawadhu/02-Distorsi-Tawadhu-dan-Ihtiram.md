@@ -78,14 +78,6 @@ Penerapan di pesantren:
 
 ---
 
-### Sintesis Etis Sub-Bab 4.2
-
-Tawadhu' sejati tidak pernah melahirkan jiwa pengecut, melainkan melahirkan pahlawan peradaban yang berakhlak mulia.
-
-Dengan meluruskan makna Tawadhu' dan Ihtiram, Sistem TUMBUH mencetak generasi santri yang santun pekertinya, lembut tutur katanya, namun kokoh wibawanya dan berani berdiri di garda terdepan menegakkan keadilan di tengah umat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Dzammil Kibri wal 'Ujb (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 338–345.

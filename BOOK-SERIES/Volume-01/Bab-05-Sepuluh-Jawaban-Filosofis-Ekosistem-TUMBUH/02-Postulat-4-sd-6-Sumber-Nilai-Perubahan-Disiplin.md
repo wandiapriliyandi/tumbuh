@@ -57,12 +57,6 @@ Sistem TUMBUH merevolusi makna disiplin dari "hukuman balas dendam" menjadi "pro
 
 ---
 
-### Sintesis Operasional Sub-Bab 5.2
-
-Tiga postulat operasional ini memastikan bahwa sistem pembinaan karakter di pesantren berjalan secara ilmiah, manusiawi, dan selaras dengan sunnah nabawi.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Jane Nelsen**, *Positive Discipline* (New York: Ballantine Books, 2006), hlm. 15–48.

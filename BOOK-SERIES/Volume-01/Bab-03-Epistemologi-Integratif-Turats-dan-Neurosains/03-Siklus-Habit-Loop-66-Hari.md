@@ -93,14 +93,6 @@ graph TD
 
 ---
 
-### Sintesis Operasional Sub-Bab 3.3
-
-Membangun karakter adab membutuhkan kesabaran saintifik selama 66 hari.
-
-Dengan memandu santri melintasi tiga fase trajektori 66 hari ini secara konsisten dan penuh kasih sayang, Sistem TUMBUH menjamin bahwa adab tidak lagi menjadi beban aturan yang dipaksakan, melainkan telah menjelma menjadi bagian dari denyut nadi kehidupan santri seumur hidupnya.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Phillippa Lally et al.**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.

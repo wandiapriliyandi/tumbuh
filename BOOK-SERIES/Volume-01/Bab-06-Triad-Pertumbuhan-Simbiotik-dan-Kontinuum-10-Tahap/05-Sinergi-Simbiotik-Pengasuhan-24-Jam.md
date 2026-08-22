@@ -51,14 +51,6 @@ Melalui sinergi tanpa sekat ini, terwujudlah impian agung **Triad Pertumbuhan Si
 
 ---
 
-### Sintesis Pamungkas Bab 06
-
-Triad Pertumbuhan Simbiotik adalah bukti nyata bahwa mendidik adab bukanlah beban kerja seorang individu, melainkan gerakan kebersamaan seluruh ekosistem.
-
-Dengan menyatukan madrasah dan asrama dalam satu detak nafas pengasuhan 24 jam, Sistem TUMBUH memastikan tidak ada satu pun santri titipan umat yang luput dari dekapan kasih sayang dan bimbingan akhlak nabawi.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Dewan Pakar Ekosistem TUMBUH**, *Manual Operasional Protokol Handover Dual-Pillar 24-Jam TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).

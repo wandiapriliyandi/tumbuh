@@ -46,12 +46,6 @@ Sistem TUMBUH menatap masa depan peradaban dengan penuh optimisme:
 
 ---
 
-### Sintesis Sub-Bab 5.4
-
-Dengan menjaga kesejahteraan para pembina di garis depan dan memancangkan visi peradaban yang agung, Sistem TUMBUH memastikan bahwa pesantren akan terus berdiri kokoh sebagai mercusuar moral umat sepanjang masa.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 20–55.

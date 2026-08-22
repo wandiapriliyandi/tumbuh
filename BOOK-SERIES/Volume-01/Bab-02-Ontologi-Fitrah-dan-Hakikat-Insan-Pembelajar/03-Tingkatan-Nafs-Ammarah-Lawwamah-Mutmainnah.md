@@ -105,14 +105,6 @@ Ekosistem **TUMBUH** melarang pendekatan seragam yang memukul rata seluruh santr
 
 ---
 
-### Sintesis Perkembangan Jiwa Sub-Bab 2.3
-
-Dengan memahami gradasi tingkatan jiwa ini, musyrif tidak lagi memandang santri yang bersalah sebagai "musuh yang harus dihajar", melainkan sebagai **jiwa pembelajar yang sedang berjuang mendaki tangga kemuliaan adab**.
-
-Tugas Sistem TUMBUH adalah menggandeng tangan santri dengan kelembutan yang tegas, menuntunnya keluar dari belenggu *Ammarah*, menemaninya melintasi badai *Lawwamah*, hingga ia berlabuh dengan selamat di samudera ketenteraman *Mutma'innah*.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Al-Imam Ibn al-Qayyim al-Jawziyyah**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-Arabi, 1416 H), Jilid I, hlm. 308–312.

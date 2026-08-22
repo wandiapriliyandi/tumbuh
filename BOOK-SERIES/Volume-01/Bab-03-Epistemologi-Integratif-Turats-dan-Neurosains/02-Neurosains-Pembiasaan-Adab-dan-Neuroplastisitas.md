@@ -87,14 +87,6 @@ Penerapan di pesantren:
 
 ---
 
-### Sintesis Neuro-Pedagogis Sub-Bab 3.2
-
-Otak santri adalah anugerah Allah yang luar biasa fleksibel untuk dibentuk menjadi insan mulia.
-
-Dengan memahami hukum Hebbian dan rahasia neuroplastisitas, Sistem TUMBUH mengubah proses pembinaan karakter dari pertempuran adu otot yang melelahkan menjadi **seni menganyam sirkuit saraf adab nabawi di dalam otak generasi penerus umat**.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Norman Doidge**, *The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science* (New York: Viking Penguin, 2007), Bab 1: "A Woman Perpetually Falling", hlm. 1–26.

@@ -50,14 +50,6 @@ graph TD
 
 ---
 
-### Sintesis Restoratif Sub-Bab 7.3
-
-Keadilan sejati dalam Islam bukanlah membalas luka dengan luka, melainkan memulihkan hubungan persaudaraan dan membimbing jiwa kembali kepada jalan fitrah.
-
-Dengan menegakkan mekanisme *Ishlah al-Bain*, Sistem TUMBUH menjadikan setiap konflik asrama sebagai ruang pembelajaran kedewasaan dan penyucian kalbu bagi seluruh santri.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Howard Zehr**, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002), hlm. 15–40.

@@ -44,12 +44,6 @@ Menjamin sistem pesantren bertumbuh menjadi organisasi pembelajar berbasis data 
 
 ---
 
-### Sintesis Trajektori Sub-Bab 6.4
-
-Kontinuum 10-Tahap ini adalah jaminan bahwa setiap detik kehidupan santri di pesantren berada dalam orbit pendidikan yang terarah, terukur, dan bermartabat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Dewan Pakar Ekosistem TUMBUH**, *Kerangka Progresi Tahapan Perkembangan Karakter Santri TUMBUH* (Bandung & Jombang: Konsorsium Riset TUMBUH, 2026).

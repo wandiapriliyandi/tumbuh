@@ -74,14 +74,6 @@ Dengan siklus 4-tahap ini, kelas pesantren menjadi medan belajar yang sangat hid
 
 ---
 
-### Sintesis Didaktik Sub-Bab 3.5
-
-Mengajar adab dan ilmu syariat adalah seni memuliakan fitrah akal manusia.
-
-Dengan menyelaraskan metode pengajaran madrasah dengan cara kerja biologis otak, Sistem TUMBUH memastikan bahwa setiap butir hikmah Al-Qur'an dan kemuliaan kitab kuning tidak hanya dipahami dengan terang oleh akal santri, melainkan terpatri abadi di dalam kalbu dan menjelma menjadi kemuliaan akhlak seumur hidupnya.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **John Sweller**, "Cognitive load during problem solving: Effects on learning", *Cognitive Science*, Vol. 12, No. 2 (1988), hlm. 257–285; serta **John Sweller et al.**, *Cognitive Load Theory* (New York: Springer, 2011).

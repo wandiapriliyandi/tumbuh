@@ -83,14 +83,6 @@ Setiap sudut kamar, serambi masjid, dan pelataran kelas dirancang secara sadar u
 
 ---
 
-### Sintesis Ekologis Sub-Bab 2.5
-
-Lingkungan adalah guru yang tidak pernah berhenti mengajar. Ketika kita memuliakan lingkungan asrama santri dengan kebersihan, penerangan yang terang, dan budaya kasih sayang tanpa kekerasan, maka sesungguhnya kita sedang memuliakan fitrah ilahiah yang dititipkan Allah di dalam dada mereka.
-
-Inilah hakikat Bi'ah Shalihah: tanah surga di bumi pesantren yang menyuburkan benih adab para kader peradaban umat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **James Q. Wilson & George L. Kelling**, "Broken windows: The police and neighborhood safety", *The Atlantic Monthly*, Vol. 249, No. 3 (1982), hlm. 29–38.

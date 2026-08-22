@@ -167,14 +167,6 @@ Penerapan protokol sistemik di lapangan:
 
 ---
 
-### Sintesis Neuro-Edukasi Sub-Bab 1.3
-
-Kita tidak bisa menuntut kemuliaan adab dari santri yang otaknya sedang ketakutan dan berjuang menyelamatkan diri.
-
-Dengan menjamin lingkungan asrama yang aman, tenang, dan hangat (*Ventral Vagal Safe Climate*), Sistem TUMBUH membuka pintu nalar santri secara maksimal, memungkinkan mereka menghafal Al-Qur'an dengan jernih, berpikir bijak, dan memancarkan keluhuran budi pekerti atas dasar ketenteraman batin (*Thuma'ninah*).
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Jay N. Giedd et al.**, "Brain development during childhood and adolescence: a longitudinal MRI study", *Nature Neuroscience*, Vol. 2, No. 10 (1999), hlm. 861–863; **Sarah-Jayne Blakemore**, "Development of the social brain in adolescence", *Journal of the Royal Society of Medicine*, Vol. 105, No. 3 (2012), hlm. 111–116; serta **Laurence Steinberg**, "A social neuroscience perspective on adolescent risk-taking", *Developmental Review*, Vol. 28, No. 1 (2008), hlm. 78–106.

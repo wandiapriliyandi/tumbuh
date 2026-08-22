@@ -45,14 +45,6 @@ Dalam Sistem TUMBUH, ketika seorang santri melanggar aturan (seperti terlambat a
 
 ---
 
-### Sintesis Ekologis-Restoratif Sub-Bab 5.3
-
-Lingkungan yang aman melahirkan jiwa yang berani jujur mengakui kesalahan. 
-
-Dengan menyatukan lingkungan 24 jam yang sehat dan pendekatan disiplin yang memulihkan, Sistem TUMBUH mentransformasikan asrama pesantren menjadi rahim kasih sayang yang menyembuhkan luka batin dan menumbuhkan karakter mulia.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), hlm. 16–42.

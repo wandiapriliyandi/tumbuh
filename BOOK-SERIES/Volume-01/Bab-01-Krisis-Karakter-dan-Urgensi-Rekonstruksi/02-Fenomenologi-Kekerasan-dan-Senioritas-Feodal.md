@@ -158,14 +158,6 @@ Langkah konkret Sistem TUMBUH di lapangan:
 
 ---
 
-### Sintesis Sosiologis Sub-Bab 1.2
-
-Kekerasan dan feodalisme bukanlah tradisi luhur pesantren, melainkan residu kebiasaan buruk yang menyusup ke dalam lembaga pendidikan.
-
-Dengan menegakkan kebijakan *Zero Violence* dan sistem Disiplin Restoratif 4R, Sistem TUMBUH mentransformasikan asrama pesantren dari ruang penuh rasa takut menjadi **Bi'ah Shalihah**: lingkungan hidup yang aman, memuliakan martabat kemanusiaan santri, dan meneladani kelembutan kasih sayang Rasulullah SAW secara paripurna.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Johan Galtung**, "Violence, Peace, and Peace Research", *Journal of Peace Research*, Vol. 6, No. 3 (1969), hlm. 167–191; serta "Cultural Violence", *Journal of Peace Research*, Vol. 27, No. 3 (1990), hlm. 291–305.

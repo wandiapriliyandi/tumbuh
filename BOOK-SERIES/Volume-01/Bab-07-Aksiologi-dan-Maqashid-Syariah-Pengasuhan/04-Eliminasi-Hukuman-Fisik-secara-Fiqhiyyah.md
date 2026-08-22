@@ -58,14 +58,6 @@ Oleh karena itu, secara fiqih kontemporer dan maqashid syari'ah, **HUKUMAN FISIK
 
 ---
 
-### Sintesis Fiqhiyyah Sub-Bab 7.4
-
-Menghapus hukuman fisik bukanlah bentuk "tunduk pada barat", melainkan **manifestasi ketaatan murni kepada sunnah Rasulullah SAW yang tidak pernah sekalipun memukul anak kecil sepanjang hayat beliau**.
-
-Sistem TUMBUH membuktikan bahwa wibawa seorang guru tidak lahir dari rotan di tangannya, melainkan terpancar dari keteladanan akhlak, kedalaman ilmu, dan ketulusan kasih sayangnya kepada santri.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Ibnu Qudamah al-Maqdisi**, *Al-Mughni*, Tahqiq: Dr. Abdullah bin Abdul Muhsin at-Turki (Kairo: Hajar, 1986), Jilid IX: "Kitab ad-Diyat", hlm. 550–555.

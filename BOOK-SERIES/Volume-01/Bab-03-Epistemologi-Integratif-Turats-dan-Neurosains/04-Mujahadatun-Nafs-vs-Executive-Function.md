@@ -84,14 +84,6 @@ graph TD
 
 ---
 
-### Sintesis Integratif Sub-Bab 3.4
-
-*Mujahadatun Nafs* adalah jihad spiritual seumur hidup, dan *Executive Function* adalah anugerah biologis Allah untuk memenangkan jihad tersebut.
-
-Dengan menjaga kesehatan fisik, nutrisi, dan waktu istirahat santri secara proporsional (*Mutawaazin*), Sistem TUMBUH memastikan bahwa baterai rem moral di otak santri selalu berada dalam kondisi penuh—memampukan mereka menundukkan hawa nafsu dan menegakkan adab mulia dalam situasi apa pun.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Adele Diamond**, "Executive functions", *Annual Review of Psychology*, Vol. 64 (2013), hlm. 135–168.

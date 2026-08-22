@@ -39,14 +39,6 @@ graph TD
 
 ---
 
-### Sintesis Sub-Bab 7.2
-
-Panca Darurat (*Dharuriyyat Khamsah*) adalah konstitusi perlindungan santri yang tidak boleh dilanggar dengan dalih apa pun. 
-
-Dengan menegakkan lima benteng ini, Sistem TUMBUH memastikan bahwa pesantren adalah tempat paling aman, paling mulia, dan paling membahagiakan bagi putra-putri titipan umat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Al-Imam Abu Hamid al-Ghazali**, *Al-Mustashfa min 'Ilmil Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420.

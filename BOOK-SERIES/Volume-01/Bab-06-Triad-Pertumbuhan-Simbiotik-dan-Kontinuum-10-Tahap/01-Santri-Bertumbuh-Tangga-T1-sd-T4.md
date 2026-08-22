@@ -50,12 +50,6 @@ Mari kita telusuri karakteristik dan kebutuhan santri di setiap anak tangga:
 
 ---
 
-### Sintesis Sub-Bab 6.1
-
-Dengan memahami peta empat tangga T1–T4 ini, para pembina santri tidak akan lagi terjebak dalam penghakiman buta. Setiap santri dipandu mendaki anak tangganya masing-masing dengan penuh cinta, hingga kelak ia mencapai puncak kemuliaan sebagai insan teladan yang menebar manfaat bagi peradaban umat.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Benjamin S. Bloom (Ed.)**, *Taxonomy of Educational Objectives: The Classification of Educational Goals* (New York: David McKay Company, 1956).

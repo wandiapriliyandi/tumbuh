@@ -61,14 +61,6 @@ Ekosistem TUMBUH menetapkan tiga aturan kelembagaan untuk melindungi musyrif:
 
 ---
 
-### Sintesis Kesejahteraan Sub-Bab 6.2
-
-Merawat kesejahteraan jiwa dan raga para musyrif adalah investasi peradaban yang paling mulia di pesantren.
-
-Dengan membebaskan musyrif dari belenggu *burnout* dan membekali mereka dengan kompetensi pengasuhan modern, Sistem TUMBUH memastikan bahwa setiap bilik asrama santri selalu dinaungi oleh pembina yang berhati lapang, murah senyum, dan memancarkan kehangatan cinta Rasulullah SAW.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Christina Maslach & Michael P. Leiter**, *The Truth About Burnout: How Organizations Cause Personal Stress and What to Do About It* (San Francisco: Jossey-Bass, 1997), hlm. 34–68.

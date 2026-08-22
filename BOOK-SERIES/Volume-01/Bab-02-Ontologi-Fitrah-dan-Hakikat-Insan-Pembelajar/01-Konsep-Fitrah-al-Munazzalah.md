@@ -145,14 +145,6 @@ Penerapan prinsip fitrah ini di pesantren:
 
 ---
 
-### Sintesis Ontologis Sub-Bab 2.1
-
-Pendidikan karakter sejati bukanlah memaksakan kepatuhan semu dari luar lewat rasa takut, melainkan **membangunkan kembali cahaya fitrah ketuhanan yang telah bersemayam di dalam kalbu setiap santri**.
-
-Dengan menghormati kesucian fitrah anak, Sistem TUMBUH mentransformasikan tugas pengasuhan dari penertiban yang melelahkan menjadi ibadah penumbuhan jiwa yang sarat keberkahan Ilahi.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **John Locke**, *An Essay Concerning Human Understanding*, Ed. Peter H. Nidditch (Oxford: Clarendon Press, 1975; cetak ulang dari edisi orisinal 1690), Buku II, Bab I, hlm. 104.

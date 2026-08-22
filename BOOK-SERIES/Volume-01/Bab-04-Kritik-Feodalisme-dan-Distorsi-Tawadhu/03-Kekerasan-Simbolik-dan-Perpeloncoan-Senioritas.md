@@ -86,14 +86,6 @@ graph TD
 
 ---
 
-### Sintesis Kultural Sub-Bab 4.3
-
-Kehormatan seorang mukmin lebih mulia di sisi Allah daripada kemuliaan Ka'bah. Menjaga perasaan dan martabat adik kelas adalah kewajiban adab yang mutlak.
-
-Dengan menghapus seluruh bentuk kekerasan simbolik dan perpeloncoan berkedok khidmah, Sistem TUMBUH menjadikan asrama pesantren sebagai oase persaudaraan sejati yang aman, hangat, dan memuliakan fitrah setiap santri.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Pierre Bourdieu & Jean-Claude Passeron**, *Reproduction in Education, Society and Culture*, Terjemahan Richard Nice (London: Sage Publications, 1977), Bab 1: "Cultural Capital and Pedagogic Communication", hlm. 1–68.

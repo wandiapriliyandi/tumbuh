@@ -47,14 +47,6 @@ Dalam Sistem TUMBUH, seluruh kebijakan pondok disusun berdasarkan hierarki Maqas
 
 ---
 
-### Sintesis Aksiologis Sub-Bab 7.1
-
-Seluruh sistem pengasuhan di pesantren harus bermuara pada satu tujuan: memuliakan kemaslahatan santri dunia dan akhirat.
-
-Dengan menyandarkan seluruh kebijakan asrama pada Maqashid Syari'ah, Sistem TUMBUH menjamin bahwa pesantren tidak akan pernah melenceng menjadi sarang kezaliman, melainkan senantiasa memancarkan keadilan dan kasih sayang Ilahi.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Al-Imam Abu Ishaq Ibrahim asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II, hlm. 9–35.

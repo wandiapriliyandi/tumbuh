@@ -84,14 +84,6 @@ Penerapan di pesantren:
 
 ---
 
-### Sintesis Sosiologis Sub-Bab 4.1
-
-Pesantren didirikan untuk mencetak kesatria umat yang berjiwa merdeka dan bertauhid murni, bukan pabrik pembudakan mental.
-
-Dengan mendekonstruksi relasi kuasa asimetris dan menggantinya dengan Kepemimpinan Pengayom Nabawi, Sistem TUMBUH mengembalikan martabat kemanusiaan santri, melahirkan kader pemimpin yang berwibawa karena keteladanannya, bukan karena ancaman rasa takut.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Michel Foucault**, *Discipline and Punish: The Birth of the Prison*, Terjemahan Alan Sheridan (New York: Vintage Books, 1977), Bab 2: "The Means of Correct Training", hlm. 170–194.

@@ -88,14 +88,6 @@ Setiap SOP pengasuhan di asrama TUMBUH selalu memenuhi dua syarat mutlak:
 
 ---
 
-### Sintesis Epistemologis Sub-Bab 3.1
-
-Menyatukan ayat Qawliyyah dan Kauniyyah adalah langkah awal membangkitkan kembali kejayaan peradaban pesantren. 
-
-Dengan memadukan keluhuran doa dan sanad Turats dengan ketepatan sains perkembangan manusia, Sistem TUMBUH menghadirkan pendidikan pesantren yang tidak hanya sarat keberkahan spiritual di akhirat, tetapi juga unggul, profesional, dan berwibawa di pentas dunia modern.
-
----
-
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Al-Qadhi Abu al-Walid Muhammad Ibnu Rusyd (Averroes)**, *Fashl al-Maqal fima bayna al-Hikmati wash-Syari'ati min al-Ittishal*, Tahqiq: Dr. Muhammad Imarah (Kairo: Dar al-Ma'arif, 1999), hlm. 31–35.
