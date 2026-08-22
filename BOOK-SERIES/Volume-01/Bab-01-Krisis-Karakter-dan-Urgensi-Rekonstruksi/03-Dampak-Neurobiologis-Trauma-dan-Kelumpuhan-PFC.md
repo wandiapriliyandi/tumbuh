@@ -24,6 +24,7 @@ graph TD
     Amigdala <-->|"Kesenjangan Kematangan Biologis Usia 12-18 Tahun"| PFC
     PFC -.->|"Membutuhkan Penyangga Eksternal"| Musyrif["Musyrif sebagai Penyangga Eksternal PFC yang Stabil & Hangat"]
 ```
+<div align="center"><sub><b>Gambar 1.3.1:</b> Model Dual-Systems: Asinkroni Maturasi antara Sistem Limbik dan Korteks Prefrontal Remaja.</sub></div>
 
 1. **Sistem Limbik (Amigdala & Ventral Striatum)** telah matang sempurna sejak awal pubertas, memicu dorongan emosional yang intens, kepekaan tinggi terhadap penerimaan teman sebaya, serta reaktivitas spontan terhadap rangsangan lingkungan.
 2. **Korteks Prefrontal (*Prefrontal Cortex / PFC*)**—terutama bagian *Dorsolateral Prefrontal Cortex* (dlPFC) yang mengatur fungsi eksekutif dan *Ventromedial Prefrontal Cortex* (vmPFC) yang mengatur pertimbangan etika moral—baru akan mencapai kematangan penuh pada usia pertengahan 20-an.
@@ -34,7 +35,7 @@ Konsekuensi biologis dari ketimpangan ini adalah: **santri remaja belum memiliki
 
 ### 2. Kaskade Neurokimia Trauma: Pembajakan Amigdala & Aksis HPA
 
-Tatkala seorang santri yang sedang dalam fase perkembangan rapuh ini dihadapkan pada ancaman penegakan disiplin yang keras—seperti dibentak dengan suara menggelegar, ditatap dengan mata penuh amarah, atau dipukul secara fisik—otak santri secara otomatis memicu reaksi darurat biologis yang disebut oleh Daniel Goleman (1995) sebagai **Pembajakan Amigdala (*Amygdala Hijack*)**.
+Tatkala seorang santri yang sedang dalam fase perkembangan rapuh ini dihadapkan pada ancaman penegakan disiplin yang keras—seperti dibentak dengan suara menggelegar, ditatap dengan mata penuh amarah, atau dipukul secara fisik—otak santri secara otomatis memicu reaksi darurat biologis yang disebut oleh Daniel Goleman (1995)[^2] sebagai **Pembajakan Amigdala (*Amygdala Hijack*)**.
 
 Mekanisme kaskade neurokimia ini berlangsung dalam hitungan milidetik melalui jalur saraf:
 
@@ -51,8 +52,9 @@ graph TD
     
     Hormon --> LumpuhPFC["KELUMPUHAN KORTEKS PREFRONTAL (PFC Shut-down):<br/>- Kehilangan kemampuan berpikir logis<br/>- Hilangnya kapasitas empati & pertimbangan moral<br/>- Respon instingtif primitif: Fight, Flight, Freeze, Fawn"]
 ```
+<div align="center"><sub><b>Gambar 1.3.2:</b> Kaskade Neurokimia Pembajakan Amigdala dan Kelumpuhan Jalur Nalar Moral (PFC Shut-Down).</sub></div>
 
-Sebagaimana dibuktikan oleh neurosaintis Robert Sapolsky (2017) dalam karyanya *Behave: The Biology of Humans at Our Best and Worst* dan Bruce Perry (2006) dalam *The Boy Who Was Raised as a Dog*, banjir hormon kortisol kronis akibat ancaman yang berulang di lingkungan tempat tinggal (asrama) menghasilkan dampak kerusakan patologis yang permanen:
+Sebagaimana dibuktikan oleh neurosaintis Robert Sapolsky (2017) dalam karyanya *Behave: The Biology of Humans at Our Best and Worst* dan Bruce Perry (2006) dalam *The Boy Who Was Raised as a Dog*[^3], banjir hormon kortisol kronis akibat ancaman yang berulang di lingkungan tempat tinggal (asrama) menghasilkan dampak kerusakan patologis yang permanen:
 * **Neurotoksisitas pada Hipokampus**: Kortisol berkepanjangan menyebabkan kematian neuron di area CA3 hipokampus, mengakibatkan penyusutan volume hipokampus hingga 10–15%. Akibatnya, kapasitas memori kerja (*working memory*) dan konsolidasi hafalan Al-Qur'an santri menurun drastis.
 * **Desensitisasi Reseptor Glukokortikoid**: Otak santri terkunci dalam status siaga bahaya konstan (*hyper-arousal state*), membuat mereka mengalami insomnia di asrama, kecemasan kronis (*generalized anxiety*), dan mimpi buruk berulang.
 
@@ -60,7 +62,7 @@ Sebagaimana dibuktikan oleh neurosaintis Robert Sapolsky (2017) dalam karyanya *
 
 ### 3. Teori Polivagal Stephen Porges: Mengapa Rasa Aman adalah Syarat Mutlak Adab
 
-Kajian mutakhir dalam neurofisiologi klinis melalui **Teori Polivagal (*Polyvagal Theory*)** yang dikembangkan oleh Prof. Stephen Porges (2011; 2017) menjelaskan bahwa sistem saraf otonom manusia beroperasi dalam hierarki filogenetik tiga tingkat:
+Kajian mutakhir dalam neurofisiologi klinis melalui **Teori Polivagal (*Polyvagal Theory*)** yang dikembangkan oleh Prof. Stephen Porges (2011; 2017)[^4] menjelaskan bahwa sistem saraf otonom manusia beroperasi dalam hierarki filogenetik tiga tingkat:
 
 | Status Sistem Saraf | Jalur Saraf Utama | Kondisi Psikologis Santri | Manifestasi Perilaku di Asrama | Kemungkinan Belajar Adab |
 | :--- | :--- | :--- | :--- | :---: |
@@ -78,6 +80,7 @@ graph TD
     Ancaman --> KunciOtak["PFC Lumpuh, Amigdala Terbakar, Tubuh Mengunci Diri"]
     KunciOtak --> RusakAdab["Santri Munafik, Pembangkang Tersembunyi, Trauma Jiwa"]
 ```
+<div align="center"><sub><b>Gambar 1.3.3:</b> Hubungan Status Sistem Saraf Polivagal terhadap Terbuka atau Tertutupnya Kapasitas Belajar Adab Santri.</sub></div>
 
 Teori Polivagal memberikan bukti saintifik yang tak terbantahkan: **adab dan akhlak mulia hanya dapat tumbuh subur tatkala sistem saraf santri berada dalam status *Ventral Vagal (Safe & Social)***. Membentak atau memukul santri dengan dalih "agar mereka cepat paham" adalah sebuah ketidaktahuan neurobiologis yang fatal, karena tindakan tersebut secara otomatis mematikan bagian otak yang justru kita harapkan untuk memproses pemahaman moral tersebut!
 

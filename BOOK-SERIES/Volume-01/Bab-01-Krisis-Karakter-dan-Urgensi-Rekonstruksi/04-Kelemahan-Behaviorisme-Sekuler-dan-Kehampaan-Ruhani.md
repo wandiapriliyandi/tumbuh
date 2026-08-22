@@ -25,12 +25,13 @@ graph LR
         Erosi --> Runtuh["Perilaku Lenyap Seketika saat Sistem Reward Ditarik (Extinction Effect)"]
     end
 ```
+<div align="center"><sub><b>Gambar 1.4.1:</b> Siklus Erosi Keikhlasan Akibat Manipulasi Hadiah Ekstrinsik Behaviorisme Sekuler.</sub></div>
 
 ---
 
 ### 2. Teori Self-Determination & Fenomena Overjustification Effect
 
-Kelemahan fatal behaviorisme mekanistik telah dibongkar secara ilmiah oleh psikolog kontemporer Edward L. Deci dan Richard M. Ryan (1985; 2000; 2017) melalui **Self-Determination Theory (SDT)** serta riset monumental Alfie Kohn (1993) dalam bukunya yang mengguncang dunia pendidikan, *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes*.
+Kelemahan fatal behaviorisme mekanistik telah dibongkar secara ilmiah oleh psikolog kontemporer Edward L. Deci dan Richard M. Ryan (1985; 2000; 2017)[^2] melalui **Self-Determination Theory (SDT)** serta riset monumental Alfie Kohn (1993)[^3] dalam bukunya yang mengguncang dunia pendidikan, *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes*.
 
 Riset empiris puluhan tahun menunjukkan fenomena psikologis yang disebut **Efek Pembenaran Berlebih (*The Overjustification Effect*)**:
 
@@ -61,6 +62,7 @@ graph TD
         L1 --> L2 --> L3 --> L4 --> L5
     end
 ```
+<div align="center"><sub><b>Gambar 1.4.2:</b> Kontinuum Spektrum Regulasi Motivasi: Dari Ketergantungan Eksternal Menuju Kesadaran Muraqabatullah.</sub></div>
 
 Behaviorisme sekuler mengunci santri selamanya pada level terendah (**Level 1: External Regulation**). Tatkala santri lulus dari pesantren dan tidak ada lagi musyrif yang membagi token reward atau mengancam denda, sistem perilaku mereka mengalami **kepunahan mendadak (*extinction effect*)**. Mereka seketika meninggalkan shalat berjamaah dan tilawah Al-Qur'an karena mereka tidak pernah dibimbing mencapai **Level 4 dan 5 (Regulasi Terintegrasi & Muraqabatullah)**.
 
@@ -107,6 +109,7 @@ graph TD
     
     ModelTUMBUH --> Pilar3["3. DIALOG MAKNA & AUTONOMY SUPPORT<br/>Santri diajak memahami 'Hikmah Syar'i' di balik setiap aturan, memberikan ruang pilihan terarah yang menumbuhkan tanggung jawab otonom."]
 ```
+<div align="center"><sub><b>Gambar 1.4.3:</b> Tiga Pilar Model Apresiasi Relasional dan Internalisasi Makna Adab Ekosistem TUMBUH.</sub></div>
 
 Melalui sintesis luhur ini, Ekosistem TUMBUH berhasil memelihara kemurnian **Ikhlasun Niyyah** sebagaimana diajarkan para ulama salaf, sembari memanfaatkan pemahaman sains motivasi modern untuk membimbing santri mencapai kematangan karakter yang mandiri, kokoh, dan tidak tergantung pada imbalan duniawi sesaat.
 

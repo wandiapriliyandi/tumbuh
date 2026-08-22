@@ -23,6 +23,7 @@ graph TD
         Puncak --> Tengah --> Dasar
     end
 ```
+<div align="center"><sub><b>Gambar 1.2.1:</b> Piramida Tiga Lapis Kekerasan Struktural dan Kultural di Asrama Pesantren.</sub></div>
 
 Praktik-praktik ini kerap dilegitimasi dengan dalih bahwa tradisi pondok sejak dahulu memang "keras" dan bahwa mereka yang bertahan dari perlakuan tersebut akan lahir sebagai "pejuang tangguh bermental baja". Namun, ketika kita membongkar mitos ini dengan analisis psikologi trauma (*trauma studies*) dan sosiologi kritis, kita menemukan bahwa apa yang diklaim sebagai "ketangguhan mental" hakikatnya adalah **disosiasi emosional (*emotional dissociation*) dan matinya kepekaan nurani (*desensitization of empathy*)**.
 
@@ -33,7 +34,7 @@ Praktik-praktik ini kerap dilegitimasi dengan dalih bahwa tradisi pondok sejak d
 Jauh sebelum para psikolog modern meneliti dampak buruk hukuman fisik terhadap anak, sosiolog dan filsuf sejarah teragung peradaban Islam, **Al-Allamah Abdurrahman Ibnu Khaldun (732–808 H / 1332–1406 M)** dalam karya monumentalnya *Al-Muqaddimah* (khususnya pada pasal *Fashl fi Anna asy-Syiddata 'ala al-Muta'allimin Mudhirrun bihim* / Fasal bahwa Sikap Keras terhadap Murid Membawa Kerusakan Fatal bagi Mereka), telah melayangkan kritik epistemologis yang sangat telak:
 
 > [!NOTE]
-> ### 📜 Kritik Tajam Sosiolog Muslim Ibnu Khaldun dalam *Al-Muqaddimah*:
+> ### 📜 Kritik Tajam Sosiolog Muslim Ibnu Khaldun dalam *Al-Muqaddimah*:[^2]
 > 
 > $$\text{مَنْ كَانَ مَرْبَاهُ بِالْقَهْرِ وَالْقَسْرِ مِنْ الْمُتَعَلِّمِينَ أَوْ الْمَمَالِيكِ أَوْ الْخَدَمِ، سَطَا بِهِ الْقَهْرُ، وَضَيَّقَ عَلَى النَّفْسِ فِي انْبِسَاطِهَا، وَذَهَبَ بِنَشَاطِهَا، وَدَعَاهُ إِلَى الْكَسَلِ، وَحَمَلَهُ عَلَى الْكَذِبِ وَالْخُبْثِ، وَهُوَ التَّظَاهُرُ بِغَيْرِ مَا فِي ضَمِيرِهِ خَوْفًا مِنْ انْبِسَاطِ الْأَيْدِي بِالْقَهْرِ عَلَيْهِ، وَعَلَّمَهُ الْمَكْرَ وَالْخَدِيعَةَ لِذَلِكَ، وَصَارَتْ لَهُ هَذِهِ عَادَةً وَخُلُقًا، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ الَّتِي لَهُ}$$
 > 
@@ -57,17 +58,18 @@ graph TD
     Kekerasan --> Dampak3
     Dampak3 ==> Siklus
 ```
+<div align="center"><sub><b>Gambar 1.2.2:</b> Alur Kerusakan Jiwa Santri Akibat Penindasan Fisik Menurut Ibnu Khaldun.</sub></div>
 
 ---
 
 ### 3. Konsensus Neurosains & Siklus Transmisi Kekerasan Antargenerasi
 
-Sintesis antara Turats Ibnu Khaldun dan konsensus sains kontemporer memperkuat kepastian ilmiah ini. Riset internasional dalam ranah *Adverse Childhood Experiences* (ACEs Study oleh Felitti et al., 1998; Felitti & Anda, 2010) serta kajian transmisi kekerasan antargenerasi (*Intergenerational Transmission of Violence* oleh Cathy Spatz Widom, 1989; Bandura, 1973) mengungkap tiga temuan fundamental:
+Sintesis antara Turats Ibnu Khaldun dan konsensus sains kontemporer memperkuat kepastian ilmiah ini. Riset internasional dalam ranah *Adverse Childhood Experiences* (ACEs Study oleh Felitti et al., 1998; Felitti & Anda, 2010) serta kajian transmisi kekerasan antargenerasi (*Intergenerational Transmission of Violence* oleh Cathy Spatz Widom, 1989; Bandura, 1973[^3]) mengungkap tiga temuan fundamental:
 
 1. **Modeling Teori Pembelajaran Sosial (*Social Learning Theory*)**:  
    Albert Bandura membuktikan bahwa manusia belajar perilaku sosial paling dominan melalui observasi dan imitasi model (*observational modeling*). Tatkala seorang santri junior melihat ustadz atau santri senior menegakkan aturan dengan tamparan atau bentakan, pesan bawah sadar (*implicit cognitive schema*) yang tertanam di otaknya bukanlah "aku harus disiplin", melainkan: *"Kekerasan adalah alat yang sah dan efektif untuk mengontrol orang lain yang lebih lemah dariku."*
 2. **Identifikasi dengan Pelaku Penindas (*Identification with the Aggressor*)**:  
-   Dalam psikoanalisis dan psikiatri anak (Freud, 1936; van der Kolk, 2014 dalam *The Body Keeps the Score*), santri yang menjadi korban penindasan sering kali mengembangkan mekanisme pertahanan diri bawah sadar dengan cara mengidentifikasi diri mereka sebagai calon penindas masa depan. Rasa terhina, takut, dan tak berdaya saat yunior dikompensasi secara psikologis ketika mereka naik ke kelas senior dengan melipatgandakan kekejaman kepada yunior baru. Inilah yang melanggengkan lingkaran setan perpeloncoan antarangktan selama puluhan tahun.
+   Dalam psikoanalisis dan psikiatri anak (Freud, 1936; van der Kolk, 2014 dalam *The Body Keeps the Score*[^4]), santri yang menjadi korban penindasan sering kali mengembangkan mekanisme pertahanan diri bawah sadar dengan cara mengidentifikasi diri mereka sebagai calon penindas masa depan. Rasa terhina, takut, dan tak berdaya saat yunior dikompensasi secara psikologis ketika mereka naik ke kelas senior dengan melipatgandakan kekejaman kepada yunior baru. Inilah yang melanggengkan lingkaran setan perpeloncoan antarangktan selama puluhan tahun.
 3. **Hiper-Reaktivitas Amigdala & Gangguan Regulasi Afek**:  
    Paparan bentakan dan ancaman fisik kronis di asrama mengubah morfologi otak remaja: volume materi abu-abu di amigdala mengalami hipertrofi fungsional yang membuat anak selalu berada dalam status siaga tinggi (*hypervigilance*), mudah tersinggung, agresif impulsif, dan mengalami kesulitan konsentrasi saat belajar kitab suci.
 
@@ -79,9 +81,9 @@ Banyak pengasuh pesantren yang belum menyadari bahwa penertiban dengan kekerasan
 
 | Instrumen Hukum | Pasal & Klausul Kunci | Implikasi Hukum di Pesantren |
 | :--- | :--- | :--- |
-| **UU No. 35 Tahun 2014 tentang Perlindungan Anak** | **Pasal 54 Ayat (1)**: *Anak di dalam dan di lingkungan satuan pendidikan wajib mendapatkan perlindungan dari tindak kekerasan fisik, psikis, kejahatan seksual, dan kejahatan lainnya yang dilakukan oleh pendidik, tenaga kependidikan, sesama peserta didik, dan/atau pihak lain.* | Segala bentuk pemukulan di asrama/kelas diancam pidana penjara maksimal 3 tahun 6 bulan dan/atau denda Rp 72 juta (Pasal 80). |
+| **UU No. 35 Tahun 2014 tentang Perlindungan Anak**[^5] | **Pasal 54 Ayat (1)**: *Anak di dalam dan di lingkungan satuan pendidikan wajib mendapatkan perlindungan dari tindak kekerasan fisik, psikis, kejahatan seksual, dan kejahatan lainnya yang dilakukan oleh pendidik, tenaga kependidikan, sesama peserta didik, dan/atau pihak lain.* | Segala bentuk pemukulan di asrama/kelas diancam pidana penjara maksimal 3 tahun 6 bulan dan/atau denda Rp 72 juta (Pasal 80). |
 | **UU No. 18 Tahun 2019 tentang Pesantren** | **Pasal 8 & 9**: Mengamanahkan penyelenggaraan pesantren berasaskan kemaslahatan, keadilan, non-diskriminasi, dan perlindungan hak asasi santri. | Pesantren yang membiarkan kekerasan terancam pencabutan izin operasional dan sanksi administratif kelembagaan. |
-| **PMA Kemenag No. 73 Tahun 2022** | Regulasi Pencegahan dan Penanganan Kekerasan Seksual & Perundungan di Satuan Pendidikan Kementerian Agama. | Kewajiban membentuk Satgas Perlindungan Santri independen dan SOP penanganan ramah anak. |
+| **PMA Kemenag No. 73 Tahun 2022**[^6] | Regulasi Pencegahan dan Penanganan Kekerasan Seksual & Perundungan di Satuan Pendidikan Kementerian Agama. | Kewajiban membentuk Satgas Perlindungan Santri independen dan SOP penanganan ramah anak. |
 | **Konvensi Hak Anak PBB (UN CRC 1989)** | **Pasal 19 & 28 Ayat (2)**: Negara wajib melindungi anak dari segala bentuk kekerasan dan menjamin disiplin sekolah ditegakkan dengan menghormati martabat kemanusiaan anak. | Indonesia terikat secara internasional untuk mengeliminasi hukuman fisik (*corporal punishment*) di seluruh lembaga pendidikan. |
 
 ---
@@ -102,6 +104,7 @@ graph TD
     
     KomitmenZero --> K4["4. PENERAPAN DISIPLIN RESTORATIF BERBASIS KONSEKUENSI LOGIS 4R<br/>Mengganti balas dendam dengan perbaikan relasi, restitusi nyata, dan pemulihan adab."]
 ```
+<div align="center"><sub><b>Gambar 1.2.3:</b> Empat Pilar Deklarasi Mutlak Nol Kekerasan (Zero Violence) Ekosistem TUMBUH.</sub></div>
 
 Dengan langkah berani dan terstruktur ini, pesantren membebaskan dirinya dari belenggu feodalisme masa lalu dan kembali memancarkan wajah aslinya yang agung: sebagai taman peradaban nabawi yang menumbuhkan tunas-tunas ulama berjiwa merdeka, berakhlak mulia, dan berhati lembut penuh welas asih.
 

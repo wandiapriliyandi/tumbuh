@@ -36,6 +36,7 @@ graph TD
         RuangKelas --> Jurang --> RuangAsrama
     end
 ```
+<div align="center"><sub><b>Gambar 1.1.1:</b> Diagram Jurang Pemisah antara Pembelajaran Kelas Madrasah dan Realitas Keseharian Asrama.</sub></div>
 
 Kesenjangan yang mencolok ini memicu tanda tanya besar bagi para kiai, asatidz, dan wali santri:  
 *Mengapa ribuan jam pengajian kitab kuning, ratusan halaman hafalan dalil, dan suasana religius yang begitu kental belum sanggup mengikis dorongan primitif santri untuk berbuat zalim dan egois kepada temannya sendiri?*
@@ -59,6 +60,7 @@ graph TD
     Deklaratif -.->|"TIDAK BISA TERSAMBUNG HANYA DENGAN CERAMAH"| Prosedural
     Deklaratif ==>|"MEMBUTUHKAN HABITUASI 66 HARI TERBIMBING"| Prosedural
 ```
+<div align="center"><sub><b>Gambar 1.1.2:</b> Arsitektur Sistem Memori di Otak: Memori Deklaratif (Teori) vs Memori Prosedural (Praktik Refleks).</sub></div>
 
 #### A. Memori Deklaratif (Pengetahuan Teori / *Knowing That*)
 * **Letak Sirkuit Otak**: Diproses di hipokampus dan disimpan di lapisan korteks serebral bagian temporal.
@@ -112,6 +114,7 @@ graph TD
         PanggungDepan <-->|"Kesenjangan Integritas: Memupuk Watak Hipokrisi"| PanggungBelakang
     end
 ```
+<div align="center"><sub><b>Gambar 1.1.3:</b> Dinamika Dua Panggung (Dramaturgi Sosiologis) dalam Kehidupan Santri Pesantren.</sub></div>
 
 #### Tiga Faktor Pemicu Rusaknya Panggung Belakang Asrama:
 1. **Feodalisme Senioritas**: Doktrin salah kaprah yang mewajarkan santri kelas atas memperbudak adik kelasnya (misal: menyuruh mencuci pakaian, meminta jatah makanan, atau menyuruh memijat tanpa imbalan). Hal ini menanamkan trauma dan bibit dendam pada santri yunior, yang kelak akan mereka lampiaskan kembali ketika mereka naik kelas menjadi senior.
@@ -175,6 +178,7 @@ graph TD
     
     Root --> L5["5. TRANSFORMASI SENIORITAS MENJADI SERVANT QUDWAH LEADERSHIP<br/>Santri kelas atas diamanahi peran Peer Mentor pelindung adik kelas tanpa intimidasi."]
 ```
+<div align="center"><sub><b>Gambar 1.1.4:</b> Lima Langkah Operasional Rekonstruksi Pembinaan Adab Terpadu 24-Jam Ekosistem TUMBUH.</sub></div>
 
 #### Langkah 1: Membumikan Teks Kitab ke dalam Kasus Nyata Asrama
 * **Praktik Lama**: Guru hanya membacakan kitab adab secara monolog, memaknainya dengan bahasa Jawa/Indonesia klasik, lalu menyuruh santri menghafalkannya untuk ujian tertulis.

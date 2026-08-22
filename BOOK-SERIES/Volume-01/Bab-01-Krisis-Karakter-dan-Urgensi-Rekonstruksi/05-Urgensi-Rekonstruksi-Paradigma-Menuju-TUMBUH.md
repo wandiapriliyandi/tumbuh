@@ -23,6 +23,7 @@ graph TD
     
     Krisis --> K4["Sub-Bab 1.4: Krisis Aksiologis (Reduksionisme Sekuler & Erosi Ikhlas)<br/>Sistem reward-token behavioristik mereduksi niat ikhlas menjadi jiwa transaksional."]
 ```
+<div align="center"><sub><b>Gambar 1.5.1:</b> Peta Empat Dimensi Dialektika Krisis Pendidikan Karakter Pesantren Konvensional.</sub></div>
 
 Dari peta dialektika di atas, menjadi sangat gamblang bahwa **krisis pendidikan karakter pesantren bukanlah persoalan kurangnya hafalan dalil atau minimnya jumlah jam pelajaran**, melainkan sebuah **kebuntuan paradigma (*paradigmatic gridlock*)**. Mempertahankan metode represif kuno adalah sebuah kezaliman syar'i dan kejahatan neurobiologis; sementara mengadopsi behaviorisme sekuler secara membabi buta adalah bunuh diri spiritual yang mencabut ruh keikhlasan dari dada para santri.
 
@@ -48,6 +49,7 @@ graph TD
     
     Root --> H["H - HASANAH (Keteladanan Qudwah & Kemaslahatan Ummat)<br/>Kepemimpinan asatidz berbasis Servant Qudwah Leadership yang melahirkan lulusan berjiwa Nafi'un Lighairihi."]
 ```
+<div align="center"><sub><b>Gambar 1.5.2:</b> Arsitektur Enam Pilar Filosofis-Operasional Ekosistem TUMBUH.</sub></div>
 
 ---
 
@@ -82,6 +84,7 @@ graph TD
     
     Vol4 ==> Vol5["VOLUME 05: MANUAL OPERASIONAL & TATA KELOLA 24-JAM<br/>(SOP Dual-Pillar, Jadwal Ritme Asrama, Anti-Burnout, & Safe School Protocols)"]
 ```
+<div align="center"><sub><b>Gambar 1.5.3:</b> Peta Jalan Transmisi Kurikulum Master 5 Volume Seri Buku Ekosistem TUMBUH.</sub></div>
 
 ---
 
