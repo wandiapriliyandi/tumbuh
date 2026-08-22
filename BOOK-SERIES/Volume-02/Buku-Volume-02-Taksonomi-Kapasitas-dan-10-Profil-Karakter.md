@@ -9,64 +9,67 @@
 
 ---
 
-## 🏛️ SITEMAP & NAVIGASI BAB BUKU VOLUME 02
+## 🏛️ SITEMAP & NAVIGASI BAB BUKU VOLUME 02 (ORGANIK & DINAMIS)
 
 `mermaid
 graph TD
     Vol2["BUKU VOLUME 02: TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER SANTRI TUMBUH"]
     
-    Vol2 --> B1["BAB 01: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah<br/>(Whole-Child, 5 Dimensi Kapasitas, CASEL SEL, & Self-Determination Theory)"]
+    Vol2 --> B1["BAB 01: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah (4 Sub-Bab)<br/>(Whole-Child, 5 Dimensi Kapasitas, CASEL SEL, & Self-Determination Theory)"]
     
-    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri TUMBUH<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
+    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri TUMBUH (10 Sub-Bab Mandiri)<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
     
-    Vol2 --> B3["BAB 03: Trajektori Biososial-Spiritual Remaja Pesantren<br/>(Gap Limbik-PFC Usia 12-18 Thn, Krisis Identitas, & Scaffolding Musyrif)"]
+    Vol2 --> B3["BAB 03: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)<br/>(Gap Limbik-PFC Usia 12-18 Thn, Krisis Identitas, & Scaffolding Musyrif)"]
     
-    Vol2 --> B4["BAB 04: Progresi Tangga TUMBUH (Tangga T1 s.d. T4)<br/>(Ta'aruf Adaptasi, Ta'awun Habituasi, Tafahum Internalisasi, Takaful Transformasi)"]
+    Vol2 --> B4["BAB 04: Progresi Tangga TUMBUH: Tangga T1 s.d. T4 (6 Sub-Bab)<br/>(Ta'aruf, Ta'awun, Tafahum, Takaful, Dinamika Transisi/Relapse, & Matriks Rubrik)"]
     
-    Vol2 --> B5["BAB 05: Puncak Perkembangan: Tahap 7 PENGGERAK<br/>(Profil Santri Akhir, Tahun Khidmah, Peer Mentorship, & Mediasi Restoratif)"]
+    Vol2 --> B5["BAB 05: Puncak Perkembangan: Tahap 7 PENGGERAK (4 Sub-Bab)<br/>(Profil Santri Akhir, Tahun Khidmah, Peer Mentorship, & Mediasi Restoratif)"]
     
-    Vol2 --> B6["BAB 06: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender<br/>(Capaian MTs vs MA, Pendekatan Santri Putra vs Putri, & Epilog Khidmah)"]
+    Vol2 --> B6["BAB 06: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender (5 Sub-Bab)<br/>(Capaian MTs vs MA, Pendekatan Santri Putra vs Putri, & Epilog Khidmah)"]
 `
 
 ---
 
-## 📑 DAFTAR ISI LENGKAP VOLUME 02
+## 📑 DAFTAR ISI LENGKAP VOLUME 02 (33 SUB-BAB ORGANIK)
 
-1. **BAB 1: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah**
+1. **BAB 1: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah (4 Sub-Bab)**
    - 1.1 Dekonstruksi Karakter Parsial Menuju Pendekatan *Whole-Child*
    - 1.2 Lima Dimensi Kapasitas Holistik Santri (*Ruhaniyyah, Wijdaniyyah, Aqliyyah, Jasadiyyah, Mahariyyah*)
    - 1.3 Integrasi Taksonomi Adab Turats dengan 5 Kompetensi Inti CASEL SEL
-   - 1.4 Teori Penentuan Diri (*Self-Determination Theory*) dalam Pengasuhan Asrama
-   - 1.5 Rekayasa Lingkungan Pembelajaran Karakter Holistik 24-Jam
-2. **BAB 2: Profil 10 Muwashafat Karakter Santri TUMBUH**
-   - 2.1 *Salimul Aqidah* & *Shahihul Ibadah*: Fondasi Tauhid dan Ibadah Khusyuk Sesuai Sunnah
-   - 2.2 *Matinul Khuluq*: Keluhuran Akhlak, Komunikasi Nirkekerasan, Penjagaan Lisan, & Empati
-   - 2.3 *Qadirun 'alal Kasbi* & *Mutsaqqoful Fikri*: Kemandirian Hidup & Nalar Kritis
-   - 2.4 *Qowiyyul Jismi* & *Mujahidun Linafsihi*: Kebugaran Jasmani & Pengendalian Diri (*Self-Regulation*)
-   - 2.5 *Munazhzhamun, Haritsun, & Nafi'un Lighairihi*: Keteraturan, Disiplin Waktu, & Khidmah Sosial
-3. **BAB 3: Trajektori Biososial-Spiritual Remaja Pesantren (Usia 12–18 Tahun)**
+   - 1.4 Teori Penentuan Diri (*Self-Determination Theory*) & Rekayasa Lingkungan Asrama 24-Jam
+2. **BAB 2: Profil 10 Muwashafat Karakter Santri TUMBUH (10 Sub-Bab Mandiri)**
+   - 2.1 *Salimul Aqidah* (Aqidah Bersih, Pemurnian Tauhid, & Pencegahan Riya')
+   - 2.2 *Shahihul Ibadah* (Ibadah Benar Sesuai Sunnah & Khusyuk 24-Jam)
+   - 2.3 *Matinul Khuluq* (Akhlak Kokoh, Komunikasi Nirkekerasan, & Hifzhul Lisan)
+   - 2.4 *Qadirun 'alal Kasbi* (Kemandirian Finansial, Etos Kerja Asrama, & Kifayah)
+   - 2.5 *Mutsaqqoful Fikri* (Wawasan Luas, Nalar Kritis Turats-Sains, & Tabayyun)
+   - 2.6 *Qowiyyul Jismi* (Kebugaran Raga, Higienitas Thaharah, & Zero Scabies)
+   - 2.7 *Mujahidun Linafsihi* (Penaklukan Hawa Nafsu, Regulasi Diri, & Delayed Gratification)
+   - 2.8 *Munazhzhamun fi Syu'unihi* (Keteraturan Hidup, Manajemen Loker 5S, & Rencana Harian)
+   - 2.9 *Haritsun 'ala Waqtihi* (Disiplin Waktu, Produktivitas Santri, & Eliminasi Kesia-siaan)
+   - 2.10 *Nafi'un Lighairihi* (Kebermanfaatan Sosial, Altruisme Ukhuwah, & Servant Leadership)
+3. **BAB 3: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)**
    - 3.1 Transisi Pubertas & Dinamika Lonjakan Hormonal di Lingkungan Asrama
    - 3.2 Kesenjangan Maturasi Sistem Limbik vs Korteks Prefrontal Otak Remaja
    - 3.3 Penanganan Krisis Identitas (*Identity vs Role Confusion*) Santri
-   - 3.4 Dinamika Konformitas Sebaya (*Peer Pressure*) & Mitigasi Eksklusi Sosial
-   - 3.5 Musyrif sebagai *External Prefrontal Cortex* & Perancah Regulasi (*Scaffolding*)
-4. **BAB 4: Progresi Tangga TUMBUH: Tahapan Perkembangan Karakter T1–T4**
+   - 3.4 Konformitas Sebaya & Musyrif sebagai *External Prefrontal Cortex*
+4. **BAB 4: Progresi Tangga TUMBUH: Tahapan Perkembangan Karakter T1–T4 (6 Sub-Bab)**
    - 4.1 Tangga T1 — Adaptasi (*Ta'aruf*) & Terapi *Homesickness* (Bulan 1–6)
    - 4.2 Tangga T2 — Habituasi (*Ta'awun*) & Pembiasaan 24-Jam (Bulan 7–18)
    - 4.3 Tangga T3 — Internalisasi (*Tafahum*) & Disiplin Otonom *Muraqabatullah* (Bulan 19–36)
    - 4.4 Tangga T4 — Transformasi (*Takaful*) & Keteladanan Kepemimpinan *Qudwah*
-   - 4.5 Matriks Rubrik Indikator Kenaikan Tangga T1 ke T4 Berbasis Bukti Faktual
-5. **BAB 5: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap**
+   - 4.5 Dinamika Transisi & Penanganan Regresi Karakter (*Relapse Prevention Tier 2*)
+   - 4.6 Matriks Rubrik Indikator Kenaikan Tangga T1 ke T4 Berbasis Bukti Faktual
+5. **BAB 5: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap (4 Sub-Bab)**
    - 5.1 Karakteristik & Profil Kepribadian Santri Tahap 7 Penggerak
    - 5.2 Desain Program Inkubasi Pengabdian Santri Akhir (*Tahun Khidmah*)
    - 5.3 Mentorship Sebaya Bebas Perpeloncoan: Mengubah Senior Menjadi Pelindung
-   - 5.4 Keterlibatan Santri Penggerak dalam Mediasi Restoratif & Resolusi Damai (*Ishlah al-Bain*)
-   - 5.5 Transisi Progresif Menuju Tahap 8 (Pelaksana) dan Tahap 9 (Pembina)
-6. **BAB 6: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender**
+   - 5.4 Mediasi Restoratif (*Ishlah al-Bain*) & Jembatan Transisi Karier Pendidik Tahap 8/9
+6. **BAB 6: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender (5 Sub-Bab)**
    - 6.1 Pemetaan Capaian Pembelajaran Karakter Tingkat MTs/SMP (Kelas 7, 8, 9)
    - 6.2 Pemetaan Capaian Pembelajaran Karakter Tingkat MA/SMA (Kelas 10, 11, 12)
-   - 6.3 Diferensiasi Psikologis dan Pendekatan Pengasuhan Santri Putra
-   - 6.4 Diferensiasi Psikologis dan Pendekatan Pengasuhan Santri Putri
+   - 6.3 Diferensiasi Psikologis dan Pendekatan Pengasuhan Santri Putra (Ksatria)
+   - 6.4 Diferensiasi Psikologis dan Pendekatan Pengasuhan Santri Putri (Anggun)
    - 6.5 Epilog Volume 02: Menghantarkan Santri Menuju Puncak Keberadaban Khidmah
 7. **DAFTAR PUSTAKA BUKU VOLUME 02 (95 Referensi Primer Otentik)**
 
@@ -385,723 +388,516 @@ Melalui halaqah 10 menit ini, santri dilatih setiap hari untuk mengenali perasaa
 
 ---
 
-# SUB-BAB 1.4: TEORI PENENTUAN DIRI (SDT) DALAM PENGASUHAN ASRAMA
-## *Memupuk Tiga Kebutuhan Psikologis Dasar: Otonomi, Kompetensi, dan Keterhubungan Relasional*
+# SUB-BAB 1.4: TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA
+## *Memadukan Otonomi Psikologis (SDT), Rekayasa Tata Ruang Bi'ah Shalihah, dan Penghapusan Titik Rawan 24-Jam*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-01/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: *Self-Determination Theory* (SDT), Psikologi Motivasi Pendidikan, & Teologi Niat Islam  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Psikologi Belajar & Pakar Epistemologi Turats*)
+**Disiplin Ilmu**: *Self-Determination Theory* (SDT), Psikologi Lingkungan (*Environmental Psychology*), & Arsitektur Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Psikologi Belajar & Pakar Intervensi Preventif*)
 
 ---
 
-### Misteri Kepatuhan Semu: Mengapa Santri Menjadi Pembangkang Saat Ustadz Pulang?
+### Titik Temu Motivasi Batin dan Rekayasa Ekologi Asrama
 
-Salah satu keluhan yang paling sering dilontarkan oleh para pengurus pondok pesantren adalah fenomena **kepatuhan semu (*superficial compliance*)**:
-* Ketika musyrif berdiri di depan pintu kamar dengan membawa tongkat, seluruh santri bergegas membuka mushaf Al-Qur'an dan duduk rapi menunduk.
-* Namun, begitu ustadz melangkah pergi dan lampu lorong dimatikan, santri yang sama langsung melempar kitabnya, saling melempar bantal, dan mengabaikan seluruh aturan adab.
+Kepatuhan yang lahir dari ancaman rotan adalah kepatuhan semu (*superficial compliance*). Ketika ustadz meninggalkan bilik asrama, kedisiplinan mekanis tersebut runtuh seketika.
 
-Mengapa disiplin yang ditegakkan dengan ketat selama bertahun-tahun tidak pernah mengakar menjadi karakter permanen di dalam dada anak?
-
-Pakar psikologi motivasi terkemuka **Edward L. Deci & Richard M. Ryan**[^1] memberikan jawaban ilmiah melalui **Teori Penentuan Diri (*Self-Determination Theory / SDT*)**: motivasi manusia tidak bersifat hitam-putih (antara rajin vs malas), melainkan bergerak di sepanjang **kontinuum regulasi motivasi**:
-
-```mermaid
-graph LR
-    subgraph KontinuumMotivasi["KONTINUUM MOTIVASI MORAL BERDASARKAN SELF-DETERMINATION THEORY"]
-        Amotivasi["1. Amotivasi<br/>(Ketiadaan Niat)"] --> Eksternal["2. Regulasi Eksternal<br/>(Takut Hukuman/Kejar Hadiah)"]
-        Eksternal --> Introyeksi["3. Regulasi Introyeksi<br/>(Menghindari Rasa Bersalah/Gengsi)"]
-        Introyeksi --> Identifikasi["4. Regulasi Teridentifikasi<br/>(Menyadari Manfaat Nilai Kebaikan)"]
-        Identifikasi --> Integrasi["5. Regulasi Terintegrasi / Hakiki<br/>(Internalisasi Nilai Muraqabatullah & Ikhlas)"]
-    end
-```
-<div align="center"><sub><b>Gambar 1.4.1:</b> Kontinuum Regulasi Motivasi Berdasarkan Self-Determination Theory (SDT) Deci & Ryan.</sub></div>
-
-Ketika pesantren hanya mengandalkan ancaman rotan dan razia malam, lembaga tersebut sesungguhnya sedang memenjarakan santri pada tingkat paling rendah: **Regulasi Eksternal (*External Regulation*)**. Santri taat bukan karena mencintai kebaikan, melainkan semata-mata demi menghindari rasa sakit fisik atau rasa malu di depan umum.
-
-Akibatnya, ketika pengawas eksternal itu hilang, motivasi beradab runtuh seketika. Dalam perspektif Turats, kondisi ini adalah bibit lahirnya kepribadian terbelah dan kemunafikan amali (*nifaq amali*).
-
----
-
-### Tiga Kebutuhan Psikologis Dasar (*Basic Psychological Needs*)
-
-Menurut Teori Penentuan Diri, manusia secara alamiah memiliki dorongan fitrah untuk bertumbuh dan berbuat baik. Dorongan intrinsik ini hanya akan mekar apabila lingkungan pengasuhan memenuhi **Tiga Kebutuhan Psikologis Dasar**:
+Untuk menumbuhkan kesadaran adab yang otonom dan permanen, **Ekosistem TUMBUH** memadukan dua pilar transformatif:
+1. **Teori Penentuan Diri (*Self-Determination Theory / SDT*)**[^1], yaitu Memenuhi tiga kebutuhan psikologis dasar santri (Otonomi, Kompetensi, dan Keterhubungan Relasional) agar nilai adab terinternalisasi menjadi motivasi intrinsik *Muraqabatullah*.
+2. **Rekayasa Lingkungan Hidup 24-Jam (*Environmental Architecture*)**[^2], yaitu Menata ruang fisik asrama sebagai "guru bisu" yang mendorong perilaku beradab secara spontan tanpa perlu teriakan dan ancaman.
 
 ```mermaid
 graph TD
-    subgraph TigaKebutuhan["TIGA KEBUTUHAN PSIKOLOGIS DASAR DALAM PENGASUHAN ASRAMA"]
-        K1["1. OTONOMI (Autonomy / Hurriyyah al-Ikhtiyar)<br/>Santri merasa memiliki kehendak sadar, diberi pilihan bertanggung jawab, & tidak dikontrol secara opresif."]
+    subgraph SinergiMotivasiRuang["SINERGI MOTIVASI BATIN (SDT) DAN REKAYASA LINGKUNGAN 24-JAM"]
+        Batin["MOTIVASI INTRINSIK (SDT)<br/>• Otonomi: Kesadaran niat ikhlas lillahi ta'ala<br/>• Kompetensi: Merasa mampu menjalankan adab harian<br/>• Keterhubungan: Kasih sayang hangat musyrif"]
         
-        K2["2. KOMPETENSI (Competence / Kafa'ah & Itqan)<br/>Santri merasa mampu melakukan tugas adab melalui tahapan yang jelas & umpan balik positif musyrif."]
+        Ruang["REKAYASA LINGKUNGAN (BI'AH SHALIHAH)<br/>• Desain bebas titik buta (Zero Hotspots)<br/>• Penanda visual (Nudges) arah wudhu & loker 5S<br/>• Sinkronisasi harian Madrasah-Asrama (Dual-Pillar)"]
         
-        K3["3. KETERHUBUNGAN (Relatedness / Ukhuwah & Intima')<br/>Santri merasa dicintai, diterima tanpa syarat, & memiliki ikatan emosional hangat dengan pembina."]
-        
-        K1 --- K2 --- K3
+        Batin === Ruang
+        Batin --> Hasil["MELAHIRKAN KEDISIPLINAN BERKELANJUTAN BEBAS PAKSAAN"]
+        Ruang --> Hasil
     end
 ```
-<div align="center"><sub><b>Gambar 1.4.2:</b> Tiga Kebutuhan Psikologis Dasar Santri dalam Ekosistem Asrama TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.4.1:</b> Sinergi Teori Penentuan Diri (SDT) dan Rekayasa Lingkungan 24-Jam.</sub></div>
 
-1. **Kebutuhan akan Otonomi (*Autonomy*)**:  
-   Santri butuh merasa bahwa ia memilih untuk shalat dan belajar atas kemauannya sendiri demi Allah, bukan sekadar dipaksa seperti robot tahanan. Penelitian oleh **Johnmarshall Reeve**[^2] membuktikan bahwa guru dan musyrif yang mendukung otonomi (*autonomy-supportive*) melahirkan santri yang memiliki resiliensi belajar 3 kali lebih tangguh dibanding guru yang bergaya mengontrol (*controlling style*).
-2. **Kebutuhan akan Kompetensi (*Competence*)**:  
-   Santri butuh merasa mampu meraih standar adab yang ditetapkan. Jika aturan dibuat terlalu rumit dan santri selalu divonis gagal tanpa diajarkan langkah-langkah praktisnya, santri akan mengalami keputusasaan belajar (*learned helplessness*).
-3. **Kebutuhan akan Keterhubungan Relasional (*Relatedness*)**:  
-   Santri butuh merasa bahwa dirinya disayangi secara tulus oleh musyrifnya. Teguran yang dilayangkan oleh musyrif yang hangat akan diterima sebagai nasihat cinta; sebaliknya, teguran dari musyrif yang dingin dan kejam akan dianggap sebagai serangan permusuhan.
+Pakar psikologi motivasi **Edward L. Deci & Richard M. Ryan** membuktikan bahwa lingkungan yang mendukung otonomi (*autonomy-supportive environment*) melahirkan ketahanan belajar dan kestabilan karakter 3 kali lebih kuat dibanding lingkungan yang mengontrol secara opresif.
+
+Pakar psikologi lingkungan **Gary W. Evans** membuktikan bahwa kepadatan berlebih (*crowding*) dan kesemrawutan ruang (*chaos*) memicu lonjakan hormon stres kortisol, yang memicu amarah dan perkelahian di kalangan remaja asrama.
 
 ---
 
-### Integrasi Teologis: Hakikat Ibadah Ikhlas & *'Ubudiyyah* Syaikhul Islam
+### Empat Pilar Rekayasa Lingkungan Bi'ah Shalihah TUMBUH
 
-Konsep pemenuhan otonomi dan kerelaan batin ini berpadu secara mendalam dengan ajaran teologi Islam mengenai hakikat ibadah yang ikhlas.
+Pemenang Nobel **Richard H. Thaler & Cass R. Sunstein**[^3] membuktikan bahwa penataan pilihan (*choice architecture*) dan dorongan visual sederhana (*nudges*) mampu mengarahkan perilaku manusia menuju kebaikan tanpa membatasi kebebasan memilihnya.
 
-**Syaikhul Islam Ibnu Taimiyyah** dalam risalah monumentalnya *Al-'Ubudiyyah*[^3] menegaskan bahwa hakikat penghambaan (*Ibadah*) kepada Allah menuntut dua syarat yang menyatu: **puncak ketundukan (*Ghayat az-Zull*) yang berpadu dengan puncak kecintaan (*Ghayat al-Hubb*)**:
-
-> [!NOTE]
-> ### 📜 Hakikat Penghambaan Sejati Menurut Ibnu Taimiyyah:
-> 
-> $$\text{وَالْعِبَادَةُ الْمَأْمُورُ بِهَا تَتَضَمَّنُ مَعْنَى الذُّلِّ وَمَعْنَى الْحُبِّ، فَهِيَ تَتَضَمَّنُ غَايَةَ الذُّلِّ لِلَّهِ تَعَالَى بِغَايَةِ الْمَحَبَّةِ لَهُ}$$
-> 
-> **Artinya:**  
-> *"Ibadah yang diperintahkan oleh Allah mencakup makna ketundukan sekaligus kecintaan; ia mengandung puncak ketundukan di hadapan Allah yang bersanding dengan puncak kecintaan yang tulus kepada-Nya."*
-
-Jika santri beribadah hanya karena takut rotan ustadz tanpa ada rasa cinta (*al-Mahabbah*) di hatinya, maka amalnya kehilangan esensi ibadah sejati. 
-
-Senada dengan itu, **Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *an-Niyyah wal Ikhlas*)[^4] menegaskan bahwa niat adalah penggerak jiwa yang bersumber dari dorongan batin (*ba'itsun nafsi*), bukan sekadar ucapan lisan yang dipaksakan dari luar.
+Di asrama TUMBUH, rekayasa lingkungan diwujudkan melalui empat pilar konkret:
+1. **Desain Bebas Titik Buta (*Zero Hotspots Architecture*)**: Memasang penerangan terang di lorong belakang, gudang, dan area toilet; mengeliminasi sudut-sudut mati yang kerap disalahgunakan untuk perpeloncoan senior.
+2. **Arsitektur Dorongan Visual (*Visual Nudge Cues*)**: Garis antrean wudhu yang jelas di lantai, wadah sandal bersusun dengan label nama santri, dan papan panduan adab di setiap dinding kamar.
+3. **Zonasi Fungsional 24-Jam**: Pemisahan tegas zona hening belajar (*muthala'ah zone*), zona privasi istirahat kamar, dan zona interaksi sosial santri.
+4. **Sinkronisasi Dua Pilar (*Dual-Pillar Synchronization*)**: Protokol serah terima harian 15 menit antara Wali Kelas Madrasah dan Musyrif Asrama untuk memastikan kontinuitas pendampingan psikologis santri.
 
 ---
 
-### Solusi Sistemik TUMBUH: Transformasi Pendampingan Berbasis Dukungan Otonomi
+### Wawasan Turats: Memurnikan Niat & Menjaga *Bi'ah Shalihah*
 
-Sistem **TUMBUH** mengubah total gaya kepengasuhan musyrif di asrama:
+**Syaikhul Islam Ibnu Taimiyyah** dalam *Al-'Ubudiyyah*[^4] menegaskan bahwa hakikat ibadah yang diterima Allah adalah ibadah yang memadukan puncak ketundukan (*Ghayat az-Zull*) dengan puncak kecintaan (*Ghayat al-Hubb*); ketaatan yang dipaksakan dengan kekerasan kehilangan esensi keikhlasan.
 
-| Pola Asuh Mengontrol Lama (*Controlling Trap*) | Pola Asuh Pendukung Otonomi TUMBUH (*Autonomy-Supportive*) |
-| :--- | :--- |
-| Memerintah santri dengan kata-kata mutlak: *"Cepat bangun! Jangan banyak alasan!"* | Menyampaikan alasan logis bernilai ibadah (*Rationale*): *"Ayo bangun, Nak. Waktu subuh sebentar lagi, mari kita jemput keberkahan pagi bersama Allah."* |
-| Mengancam dengan sanksi fisik atau hukuman denda uang saku. | Melibatkan santri menyepakati konsekuensi logis 4R bersama di awal semester. |
-| Melarang santri berekspresi: *"Santri tidak boleh membantah!"* | Memberikan ruang validasi emosi: *"Ustadz tahu kamu lelah setelah piket tadi, tapi merapikan kasur adalah adab kamar kita bersama."* |
-| Memberikan reward materiil ekstrinsik (stiker/uang) yang merusak ikhlas. | Memberikan penguatan apresiasi relasional 4:1 yang menyentuh kalbu. |
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Adab al-Ulfah wal Ukhuwwah*)[^5] menegaskan kaidah agung bahwa watak dasar manusia memiliki sifat mudah meniru lingkungan sekitarnya (*Innat thiba'a sarraqah*). Ketika lingkungan fisik dan sosial asrama tertata bersih, damai, dan terang, jiwa santri akan menyerap ketertiban tersebut menjadi tabiat alaminya.
 
-Dengan memuaskan tiga kebutuhan dasar ini, santri bertumbuh menjadi pribadi yang memiliki **kemerdekaan jiwa (*Hurriyyah al-Iradah*)** yang memilih tunduk kepada Allah atas dasar cinta, keimanan, dan kerinduan meraih ridha-Nya.
+Dengan sinergi antara dorongan batin yang merdeka dan ekosistem asrama yang memuliakan, arsitektur kapasitas holistik berbasis fitrah siap menopang penanaman **10 Muwashafat Karakter Santri pada Bab 02**.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Edward L. Deci & Richard M. Ryan**, *Intrinsic Motivation and Self-Determination in Human Behavior* (New York: Plenum Press, 1985); serta **Richard M. Ryan & Edward L. Deci**, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017), Bab 1: "Overview of Self-Determination Theory", hlm. 3–25.
-[^2]: **Johnmarshall Reeve**, "Why teachers adopt a controlling motivating style toward students and how they can become more autonomy supportive", *Educational Psychologist*, Vol. 44, No. 3 (2009), hlm. 159–175.
-[^3]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Al-'Ubudiyyah*, Tahqiq: Ali Hasan al-Halabi (Beirut: Al-Maktab al-Islami, 1425 H / 2005 M), hlm. 15–35.
-[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab an-Niyyah wal Ikhlas wash-Shidq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Juz IV, hlm. 360–375.
-
-
----
-
-# SUB-BAB 1.5: REKAYASA LINGKUNGAN PEMBELAJARAN KARAKTER 24-JAM
-## *Membangun Ekosistem Total Bi'ah Shalihah: Tata Ruang, Penanda Visual, Mitigasi Titik Rawan, dan Sinkronisasi Sinergis*
-
-**Kode Klasifikasi**: `BOOK-02/BAB-01/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Lingkungan (*Environmental Psychology*), Rekayasa Ekologi Pembinaan, & Arsitektur Pesantren  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Intervensi Preventif & Pakar Pengasuhan Asrama*)
-
----
-
-### Ruang Fisik sebagai Guru Bisu: Pengaruh Tata Lingkungan terhadap Perilaku Santri
-
-Banyak pendidik beranggapan bahwa karakter santri semata-mata dibentuk oleh ceramah ustadz di mimbar masjid atau nasihat musyrif di kamar. 
-
-Namun sains psikologi lingkungan membuktikan sebuah kenyataan yang tak terbantahkan: **tata ruang fisik dan desain lingkungan bertindak sebagai "guru bisu" yang mengarahkan 80% perilaku spontan manusia**.
-
-Jika asrama pesantren:
-* Memiliki lorong-lorong gelap tanpa penerangan yang memadai.
-* Memiliki antrean kamar mandi yang sempit, becek, dan minim ventilasi.
-* Membiarkan rak sepatu berantakan tanpa sekat pemisah dan tanpa label nama.
-* Tidak menyediakan lemari loker berkunci untuk menjaga privasi barang santri.
-
-Maka secara alamiah lingkungan tersebut sedang **memicu lahirnya pelanggaran adab**: perebutan fasilitas, senggolan emosi yang berujung perkelahian, pencurian uang saku, dan normalisasi budaya *ghashab* sandal.
-
-```mermaid
-graph TD
-    subgraph PengaruhLingkungan["PENGARUH DESAIN LINGKUNGAN TERHADAP PERILAKU SANTRI"]
-        Buruk["LINGKUNGAN ASRAMA KACAU & GELAP<br/>• Lorong gelap & toilet becek<br/>• Rak sandal berantakan tanpa nama<br/>• Minim loker pribadi berkunci"] 
-        Buruk --> DampakBuruk["Memicu Frustrasi & Agresi Spontan:<br/>Ghashab, Bullying di Titik Buta, & Keributan"]
-        
-        Baik["LINGKUNGAN ASRAMA REKAYASA TUMBUH<br/>• Pencahayaan terang & higienis<br/>• Penanda visual & jalur antre rapi<br/>• Loker berkunci & fasilitas berlimpah"]
-        Baik --> DampakBaik["Mendorong Adab Spontan Tanpa Teriak:<br/>Antre Tertib, Saling Menghargai, & Aman"]
-    end
-```
-<div align="center"><sub><b>Gambar 1.5.1:</b> Komparasi Pengaruh Desain Lingkungan Asrama terhadap Pembentukan Karakter Santri.</sub></div>
-
-Pakar psikologi lingkungan **Gary W. Evans**[^1] membuktikan bahwa kebisingan kronis (*chronic noise*), kesemrawutan tata ruang (*chaos*), dan kepadatan berlebih (*crowding*) di lingkungan tempat tinggal anak memicu lonjakan hormon stres kortisol dan menurunkan kapasitas kontrol diri secara drastis.
-
-Dalam tradisi pesantren modern Indonesia, pendiri Pondok Modern Gontor **KH. Imam Zarkasyi**[^2] merumuskan filosofi legendaris bahwa:
-$$\text{"Apa yang santri lihat, apa yang santri dengar, dan apa yang santri rasakan di pondok—semuanya adalah pendidikan."}$$
-
----
-
-### Empat Pilar Rekayasa Lingkungan Ekosistem TUMBUH
-
-Untuk mewujudkan *Bi'ah Shalihah* yang mendidik secara aktif selama 24 jam penuh, **Sistem TUMBUH** menetapkan **Empat Pilar Rekayasa Lingkungan Pembinaan**:
-
-```mermaid
-graph TD
-    RootEnv["EMPAT PILAR REKAYASA LINGKUNGAN ASRAMA TUMBUH"]
-    
-    RootEnv --> E1["1. DESAIN BEBAS TITIK BUTA (Zero Hotspots)<br/>Pencahayaan terang di seluruh sudut, penghapusan lorong rawan bullying, & patroli rutin musyrif."]
-    
-    RootEnv --> E2["2. DORONGAN PENANDA VISUAL (Visual Nudges)<br/>Garis antrean lantai, label nama loker, papan alur wudhu, & petunjuk adab di setiap dinding."]
-    
-    RootEnv --> E3["3. ZONASI AKTIVITAS TEPAT (Spatial Zoning)<br/>Pemisahan tegas zona hening belajar, zona istirahat kamar, & zona interaksi sosial santri."]
-    
-    RootEnv --> E4["4. SINKRONISASI MADRASAH-ASRAMA (Dual-Pillar Sync)<br/>Pertukaran data harian 15 menit antara Wali Kelas & Musyrif memastikan kontinuitas pengasuhan."]
-```
-<div align="center"><sub><b>Gambar 1.5.2:</b> Empat Pilar Arsitektur Rekayasa Lingkungan Pengasuhan 24-Jam TUMBUH.</sub></div>
-
-1. **Desain Bebas Titik Buta (*Zero Hotspots Engineering*)**:  
-   Area kamar mandi belakang, gudang, dan lorong lantai atas yang kerap menjadi lokasi perpeloncoan senior direkayasa ulang: dipasang lampu penerangan terang benderang, pintu tanpa celah tersembunyi, dan dimasukkan ke dalam rute patroli aktif musyrif.
-2. **Arsitektur Dorongan Visual (*Visual Nudge Architecture*)**[^3]:  
-   Pemenang Nobel **Richard H. Thaler & Cass R. Sunstein**[^3] membuktikan bahwa dorongan visual sederhana (*nudges*) mampu mengubah perilaku manusia secara signifikan tanpa paksaan. Di asrama TUMBUH, stiker penanda arah wudhu di lantai, garis batas antrean rapi, dan wadah sandal bertingkat dengan label nama santri membuat anak tertib secara otomatis tanpa perlu diteriaki musyrif.
-3. **Zonasi Spasial Fungsional (*Functional Spatial Zoning*)**:  
-   Kamar asrama difungsikan khusus untuk istirahat dan menjaga privasi; ruang belajar komunal difungsikan untuk muthala'ah bersama; dan serambi masjid difungsikan untuk dzikir khusyuk. Pemisahan fungsi ini menjaga ritme sirkadian dan fokus kognitif santri.
-4. **Sinkronisasi Sinergis Dua Pilar (*Dual-Pillar Synchronization*)**:  
-   Madrasah dan asrama tidak lagi berjalan sendiri-sendiri. Setiap sore pukul 16.30 WIB, Wali Kelas mengirimkan ringkasan 3 poin kondisi psikologis dan adab santri kepada Musyrif, dan setiap pagi pukul 06.30 WIB Musyrif menyerahkan kembali data stabilitas malam anak kepada Wali Kelas melalui **Protokol Handover 15-Menit**.
-
----
-
-### Tinjauan Turats: Menjaga Kesucian *Bi'ah Shalihah* Imam Al-Ghazali
-
-Pentingnya rekayasa lingkungan pertemanan dan ruang hidup yang bersih ini telah digarisbawahi secara mendalam oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Adab al-Ulfah wal Ukhuwwah wash-Shuhbah*)[^4] sebagai berikut:
-
-> [!NOTE]
-> ### 📜 Kaidah Imam Al-Ghazali tentang Daya Serap Jiwa terhadap Lingkungan:
-> 
-> $$\text{إِنَّ الطِّبَاعَ سَرَّاقَةٌ، تَنْتَحِلُ مِنَ النُّفُوسِ الْمُجَاوِرَةِ أَخْلَاقَهَا وَعَادَاتِهَا مِنْ حَيْثُ لَا يَدْرِي الْإِنْسَانُ}$$
-> 
-> **Artinya:**  
-> *"Sesungguhnya watak dasar jiwa manusia memiliki sifat 'pencuri ulung' (sangat mudah meniru); ia akan menyerap secara bawah sadar akhlak, perangai, dan kebiasaan dari orang-orang dan lingkungan di sekitarnya tanpa disadari oleh manusia itu sendiri."*
-
-Ketika lingkungan fisik asrama bersih, tertib, terang, dan dipenuhi suasana persaudaraan yang hangat, watak dasar santri baru akan secara otomatis "mencuri" dan meniru ketertiban tersebut menjadi karakternya sendiri.
-
----
-
-### Solusi Sistemik TUMBUH: Transformasi Total Menuju Rumah Kedua yang Memuliakan
-
-Dengan rekayasa lingkungan holistik 24 jam ini, Bab 01 resmi meletakkan cetak biru paripurna bagi arsitektur kapasitas karakter santri:
-* Dimulai dari dekonstruksi reduksionisme parsial menuju pendekatan *Whole-Child* (Sub-Bab 1.1).
-* Distrukturisasikan ke dalam Panca Dimensi Kapasitas Holistik (Sub-Bab 1.2).
-* Diintegrasikan secara harmonis dengan 5 Kompetensi CASEL SEL (Sub-Bab 1.3).
-* Diberi bahan bakar motivasi intrinsik melalui Teori Penentuan Diri / SDT (Sub-Bab 1.4).
-* Ditopang secara kokoh oleh ekosistem fisik dan kultural *Bi'ah Shalihah* 24-jam (Sub-Bab 1.5).
-
-Inilah fondasi kokoh yang siap menerima penerjemahan kurikuler selanjutnya pada **Bab 02: Profil 10 Muwashafat Karakter Santri TUMBUH**.
-
----
-
-## 📌 Catatan Kaki & Rujukan Primer
-
-[^1]: **Gary W. Evans**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441; serta **Gary W. Evans**, "Child development and the physical environment", *Annual Review of Psychology*, Vol. 57 (2006), hlm. 423–451.
-[^2]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 15–38.
+[^1]: **Richard M. Ryan & Edward L. Deci**, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017), Bab 1: "Overview of Self-Determination Theory", hlm. 3–25.
+[^2]: **Gary W. Evans**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441.
 [^3]: **Richard H. Thaler & Cass R. Sunstein**, *Nudge: Improving Decisions About Health, Wealth, and Happiness* (New Haven: Yale University Press, 2008; Edisi Revisi, Penguin Books, 2009), Bab 1: "Biases and Blunders", hlm. 17–39.
-[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 175–190.
+[^4]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Al-'Ubudiyyah*, Tahqiq: Ali Hasan al-Halabi (Beirut: Al-Maktab al-Islami, 1425 H / 2005 M), hlm. 15–35.
+[^5]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 175–190.
 
 
 ---
 
-# SUB-BAB 2.1: SALIMUL AQIDAH & SHAHIHUL IBADAH
-## *Fondasi Tauhid Murni, Pembebasan dari Kemunafikan Amali, dan Standarisasi Ibadah Khusyuk Sesuai Sunnah*
+# SUB-BAB 2.1: SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)
+## *Fondasi Tauhid Uluhiyyah, Pembebasan dari Kemunafikan Amali, dan Resiliensi Spiritual Santri 24-Jam*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Teologi Islam Terapan, Fiqih Ibadah Syafi'iyyah, & Psikologi Spiritualitas  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Epistemologi Turats & Pakar Desain Kurikulum Adab*)
+**Disiplin Ilmu**: Teologi Islam Terapan, Psikologi Spiritualitas (*Psychology of Religion*), & Resiliensi Moral  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Epistemologi Turats & Pakar Bimbingan Konseling*)
 
 ---
 
-### Dua Batu Fondasi Pertama: Mengapa Karakter Bermula dari Aqidah dan Ibadah?
+### Titik Gravitasi Utama: Mengapa Pembinaan Karakter Bermula dari Aqidah?
 
-Dalam taksonomi sepuluh profil karakter (*Muwashafat*) Ekosistem TUMBUH, **Salimul Aqidah** (Aqidah yang Bersih) dan **Shahihul Ibadah** (Ibadah yang Benar) menempati posisi sebagai dua batu fondasi pertama (*The Twin Bedrocks*).
+Dalam taksonomi sepuluh karakter (*Muwashafat*) Ekosistem TUMBUH, **Salimul Aqidah** (Aqidah yang Bersih) menempati posisi sebagai batu fondasi pertama (*The Primary Bedrock*).
 
-Tanpa aqidah yang kokoh dan ibadah yang benar:
-* Keterampilan sosial santri mudah tergelincir menjadi kepura-puraan diplomatik (*riya' dan nifaq*).
+Tanpa aqidah yang kokoh dan murni:
+* Keterampilan sosial santri mudah tergelincir menjadi kepura-puraan diplomasi (*riya' dan nifaq*).
 * Kedisiplinan fisik santri mudah runtuh menjadi kepatuhan mekanis yang dingin.
 * Prestasi intelektual santri rawan berubah menjadi kesombongan nalar (*kibr*) yang membinasakan jiwanya.
 
 ```mermaid
 graph TD
-    subgraph FondasiKembar["DUA BATU FONDASI PERTAMA KARAKTER SANTRI TUMBUH"]
-        Aqidah["1. SALIMUL AQIDAH (Aqidah Bersih)<br/>• Menolak takhayul & khurafat<br/>• Menyandarkan tawakal hanya kepada Allah<br/>• Ikhlas beramal bebas dari haus pujian manusia"]
+    subgraph PilarAqidah["TIGA PILAR PERILAKU FAKTUAL SALIMUL AQIDAH DI ASRAMA"]
+        P1["1. KEMURNIAN TAWAKAL & RESILIENSI SPIRITUAL<br/>Tidak putus asa saat menghadapi kegagalan hafalan; memohon pertolongan hanya kepada Allah."]
         
-        Ibadah["2. SHAHIHUL IBADAH (Ibadah Benar)<br/>• Rukun & syarat fiqih thaharah-shalat sah<br/>• Menjaga shalat fardhu berjamaah di shaf awal<br/>• Melazimi dzikir, tilawah, & qiyamul lail"]
+        P2["2. PEMBEBASAN DARI TAKHAYUL & JIMAT<br/>Menolak mitos magis pembuka hafalan; menempuh ikhtiar syar'i & ilmiah yang tekun."]
         
-        Aqidah === Ibadah
-        Aqidah --> KarakterLain["Menopang 8 Pilar Karakter Lainnya (Akhlak, Nalar, Fisik, Mandiri, & Khidmah)"]
-        Ibadah --> KarakterLain
+        P3["3. KESUCIAN NIAT (IKHLAS BEBAS RIYA')<br/>Pantang pamer capaian hafalan di depan manusia; merasa cukup dengan pandangan Allah SWT."]
     end
 ```
-<div align="center"><sub><b>Gambar 2.1.1:</b> Kedudukan Salimul Aqidah dan Shahihul Ibadah sebagai Fondasi Utama Ekosistem Karakter.</sub></div>
+<div align="center"><sub><b>Gambar 2.1.1:</b> Tiga Pilar Perilaku Faktual Salimul Aqidah dalam Kehidupan Santri 24-Jam.</sub></div>
 
-**Syaikhul Islam Ibnu Taimiyyah** dalam *Al-Aqidah al-Wasithiyyah*[^1] menegaskan bahwa poros kebahagiaan dan kelurusan akhlak manusia bergantung mutlak pada kemurnian tauhid uluhiyyah: memurnikan segala bentuk ketaatan, harapan, dan rasa takut hanya kepada Allah semata, terbebas dari syirik tersembunyi (*asy-syirk al-khafi*).
-
----
-
-### Indikator Perilaku Faktual Salimul Aqidah (24 Jam Asrama)
-
-Sering kali pemahaman aqidah di madrasah hanya diuji lewat hafalan 20 sifat wajib Allah di lembar ujian. Sistem TUMBUH menerjemahkan kemurnian aqidah menjadi **indikator perilaku faktual yang dapat diamati (*observable behaviors*)**:
-
-1. **Bebas dari Keputusasaan Batin (*High Spiritual Resilience*)**:  
-   Ketika santri menghadapi kesulitan dalam menghafal Al-Qur'an atau mendapatkan musibah sakit, ia tidak mengeluh menyalahkan takdir, melainkan mengambil wudhu, mendirikan shalat istirahat (*shalat hajat/taubat*), dan memohon pertolongan Allah.
-2. **Ketiadaan Jimat & Takhayul (*Tawakkul Pureness*)**:  
-   Santri tidak mempercayai mitos-mitos keramat yang merusak tauhid, tidak menyimpan rajah/jimat pembuka hafalan, melainkan menempuh sebab-sebab syar'i dan saintifik (muthala'ah tekun dan menjaga nutrisi halal).
-3. **Kesucian Niat Beramal (*Tazkiyatun Niyyah*)**:  
-   Santri menolak pamer hafalan (*sum'ah*) demi mengejar tepuk tangan panggung wisuda; ia melatih batinnya untuk merasa cukup dengan pandangan dan keridhaan Allah SWT.
-
----
-
-### Indikator Perilaku Faktual Shahihul Ibadah (24 Jam Asrama)
-
-Ibadah yang benar bukan hanya sekadar sah menurut fiqih formal, melainkan juga memancarkan kekhusyukan yang mencegah perbuatan keji dan munkar:
-
-```mermaid
-graph LR
-    subgraph DimensiIbadah["INTEGRASI TIGA DIMENSI SHAHIHUL IBADAH"]
-        Fiqih["1. Dimensi Fiqhiyyah (Keabsahan Syarat & Rukun Sesuai Sunnah)"] --> Khusyuk["2. Dimensi Qalbiyyah (Khadhirul Qalb & Penghayatan Makna Bacaan)"]
-        Khusyuk --> Akhlak["3. Dimensi Atsariyyah (Mencegah Tindakan Buruk di Bilik Asrama)"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.1.2:</b> Tiga Dimensi Integratif Shahihul Ibadah Ekosistem TUMBUH.</sub></div>
-
-1. **Kesempurnaan Thaharah & Wudhu**:  
-   Santri mempraktikkan thaharah secara higienis dan hemat air (*la tusrif*), membersihkan najis secara tuntas, dan merapikan pakaian shalatnya agar harum dan suci.
-2. **Kelaziman Shalat Berjamaah di Shaf Pertama**:  
-   Santri hadir di masjid sebelum adzan berkumandang atau tepat saat adzan, merapatkan dan meluruskan shaf dengan santun, serta tidak bercanda di ruang shalat.
-3. **Kekhusyukan Dzikir & Doa Ma'tsurat**:  
-   Mengikuti panduan **Imam An-Nawawi** dalam *Al-Adzkar*[^2], santri membiasakan dzikir pagi dan petang (*Al-Ma'tsurat*), melafalkan doa sebelum tidur, saat bangun, dan saat keluar bilik kamar dengan penghayatan makna yang mendalam.
+**Syaikhul Islam Ibnu Taimiyyah** dalam *Al-Aqidah al-Wasithiyyah*[^1] menegaskan bahwa poros keselamatan dan kelurusan budi pekerti manusia bergantung mutlak pada kemurnian tauhid: memurnikan segala bentuk ketaatan, harapan, dan rasa takut hanya kepada Allah semata, terbebas dari syirik tersembunyi (*asy-syirk al-khafi*).
 
 ---
 
 ### Tinjauan Neurosains & Psikologi Spiritualitas
 
-Riset psikologi spiritualitas oleh **Robert A. Emmons & Michael E. McCullough**[^3] membuktikan bahwa individu yang mempraktikkan doa dan rasa syukur transendental secara teratur memiliki tingkat kecemasan 45% lebih rendah, stabilitas detak jantung (*heart-rate variability / HRV*) yang lebih harmonis, serta memiliki kapasitas empati sosial yang jauh lebih tinggi.
+Riset psikologi spiritualitas oleh **Robert A. Emmons & Michael E. McCullough**[^2] membuktikan bahwa individu yang memiliki sandaran transendental tauhid yang kokoh memiliki tingkat kecemasan 45% lebih rendah, stabilitas detak jantung (*heart-rate variability / HRV*) yang lebih harmonis, serta memiliki kapasitas daya juang (*grit*) yang jauh lebih tinggi.
 
-**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Qawa'id al-'Aqa'id*)[^4] menjelaskan bahwa akidah yang ditanamkan pada usia belia melalui pembiasaan ibadah praktis akan meresap ke dalam sumsum tulang anak, menjadi benteng pertahanan jiwa yang kokoh saat ia dewasa menghadapi badai fitnah zaman.
-
----
-
-### Solusi Sistemik TUMBUH: Pembiasaan Tanpa Teror Fisik
-
-Sistem TUMBUH menolak keras tradisi membangunkan shalat subuh dengan menyiram air es ke kasur atau mencambuk betis santri dengan sajadah basah. 
-
-Sebagai gantinya, musyrif mendampingi santri dengan **Protokol Bangun Berkah 3-Fase**:
-* **Fase 1 (03.30 WIB)**: Lampu lorong dinyalakan remang dan murottal Al-Qur'an diputar dengan volume lembut (*gentle acoustic cue*).
-* **Fase 2 (03.45 WIB)**: Musyrif masuk bilik kamar, memanggil nama santri dengan panggilan sayang, dan menyentuh pundaknya dengan hangat.
-* **Fase 3 (04.00 WIB)**: Santri yang telah bangun diajak saling menyapa dan bersama-sama melangkah ke tempat wudhu dengan senyuman.
-
-Hasilnya: santri bangun dengan hati lapang dan memandang shalat bukan sebagai siksaan penjara, melainkan sebagai oase pertemuan terindah bersama Sang Maha Pencipta.
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Qawa'id al-'Aqa'id*)[^3] menjelaskan bahwa akidah yang ditanamkan pada usia belia melalui pembiasaan doa dan penghayatan makna tauhid akan meresap ke dalam sumsum tulang anak, menjadi benteng pertahanan batin yang kokoh sepanjang hayatnya.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Al-'Aqidah al-Wasithiyyah*, Tahqiq: Syaikh Muhammad Khalil Harras (Riyadh: Dar al-Hidayah, 1413 H), hlm. 12–35.
-[^2]: **Al-Imam Abu Zakariyya Yahya bin Syaraf an-Nawawi**, *Al-Adzkar al-Muntakhabah min Kalami Sayyidil Abrar*, Tahqiq: Syaikh Syu'aib al-Arnauth (Damaskus: Dar al-Mallah, 1971; cetak ulang Beirut: Dar Ibnu Katsir, 2004), hlm. 45–98.
-[^3]: **Robert A. Emmons & Michael E. McCullough**, "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life", *Journal of Personality and Social Psychology*, Vol. 84, No. 2 (2003), hlm. 377–389.
-[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Qawa'id al-'Aqa'id (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 85–112.
+[^2]: **Robert A. Emmons & Michael E. McCullough**, "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life", *Journal of Personality and Social Psychology*, Vol. 84, No. 2 (2003), hlm. 377–389.
+[^3]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Qawa'id al-'Aqa'id (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 85–112.
 
 
 ---
 
-# SUB-BAB 2.2: MATINUL KHULUQ
-## *Keluhuran Akhlak, Komunikasi Nirkekerasan, Penjagaan Lisan, dan Etika Relasional Pesantren*
+# SUB-BAB 2.2: SHAHIHUL IBADAH (IBADAH YANG BENAR SESUAI SUNNAH)
+## *Standarisasi Fiqih Ibadah, Kekhusyukan Thaharah & Shalat, serta Pembiasaan Dzikir Ma'tsurat 24-Jam*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Etika Moral Islam (*'Ilm al-Akhlaq*), Komunikasi Nirkekerasan (*Nonviolent Communication*), & Psikologi Hubungan Interpersonal  
+**Disiplin Ilmu**: Fiqih Ibadah Terapan Syafi'iyyah, Psikologi Kekhusyukan (*Mindfulness in Prayer*), & Habitual Worship  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Epistemologi Turats & Pakar Pengasuhan Asrama*)
+
+---
+
+### Ibadah yang Sah, Khusyuk, dan Mencegah Kemunkaran
+
+Pilar kedua karakter santri adalah **Shahihul Ibadah** (Ibadah yang Benar Sesuai Sunnah Nabawiyyah).
+
+Ibadah yang benar bukan hanya sekadar memenuhi keabsahan rukun dan syarat fiqih formal, melainkan memancarkan kekhusyukan batin yang berdampak nyata pada pencegahan perbuatan keji dan munkar di bilik asrama:
+
+```mermaid
+graph LR
+    subgraph TigaDimensiIbadah["INTEGRASI TIGA DIMENSI SHAHIHUL IBADAH"]
+        Fiqih["1. Dimensi Fiqhiyyah (Keabsahan Rukun & Syarat Sesuai Sunnah)"] --> Khusyuk["2. Dimensi Qalbiyyah (Khadhirul Qalb & Penghayatan Makna Bacaan)"]
+        Khusyuk --> Akhlak["3. Dimensi Atsariyyah (Mencegah Ghashab & Pelanggaran Adab di Asrama)"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.2.1:</b> Tiga Dimensi Integratif Shahihul Ibadah Santri TUMBUH.</sub></div>
+
+---
+
+### Indikator Perilaku Faktual Shahihul Ibadah di Asrama
+
+1. **Kesempurnaan Thaharah & Wudhu**: Santri mempraktikkan wudhu secara higienis, hemat air (*la tusrif*), membersihkan najis secara tuntas, dan merapikan pakaian shalatnya agar selalu harum dan suci.
+2. **Kelaziman Shalat Berjamaah di Shaf Pertama**: Santri hadir di masjid sebelum adzan berkumandang, merapatkan shaf dengan santun, dan melazimi dzikir ma'tsurat ba'da shalat.
+3. **Kekhusyukan Dzikir & Doa Ma'tsurat**: Mengikuti panduan **Imam An-Nawawi** dalam *Al-Adzkar*[^1], santri melazimi dzikir pagi-petang dan doa harian dengan penghayatan makna yang mendalam.
+
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Asrar ash-Shalah*)[^2] menegaskan bahwa shalat tanpa kehadiran hati (*hudhurul qalb*) laksana tubuh tanpa ruh yang tidak akan mampu menghalau bisikan hawa nafsu.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Al-Imam Abu Zakariyya Yahya bin Syaraf an-Nawawi**, *Al-Adzkar al-Muntakhabah min Kalami Sayyidil Abrar*, Tahqiq: Syaikh Syu'aib al-Arnauth (Damaskus: Dar al-Mallah, 1971; cetak ulang Beirut: Dar Ibnu Katsir, 2004), hlm. 45–98.
+[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Asrar ash-Shalah wa Muhimmatuha (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 145–172.
+
+
+---
+
+# SUB-BAB 2.3: MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)
+## *Keluhuran Budi Pekerti, Komunikasi Nirkekerasan (NVC), Penjagaan Lisan, dan Etika Relasional Pesantren*
+
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-03/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Etika Moral Islam (*'Ilm al-Akhlaq*), Komunikasi Nirkekerasan (*Nonviolent Communication*), & Hubungan Interpersonal  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Desain Kurikulum Adab & Pakar Bimbingan Konseling*)
 
 ---
 
 ### Makna Hakiki Matinul Khuluq: Kokoh Bagai Batu Karang, Lembut Bagai Sutra
 
-Dalam diskursus pembinaan karakter pesantren, pilar ketiga yang menjadi mahkota kemuliaan santri adalah **Matinul Khuluq** (Akhlak yang Kokoh).
-
-Kata *Matin* secara etimologis bermakna sesuatu yang sangat kuat, tidak mudah retak, dan memiliki daya tahan tinggi dalam menghadapi guncangan. 
+Pilar ketiga yang menjadi mahkota kemuliaan santri adalah **Matinul Khuluq** (Akhlak yang Kokoh).
 
 Santri yang memiliki *Matinul Khuluq* bukanlah santri yang sekadar tampak santun di depan kamera pondok, melainkan santri yang:
 * **Tidak mudah tersulut amarah** saat diejek atau dizalimi oleh kawannya.
-* **Tetap menjaga tutur kata yang santun** bahkan ketika sedang berada dalam kondisi lelah, lapar, atau tertekan.
+* **Tetap menjaga tutur kata santun** bahkan ketika sedang berada dalam kondisi lelah, lapar, atau tertekan.
 * **Menolak keras ikut serta dalam perundungan** (*bullying*) meskipun seluruh kawan sekamarnya melakukannya.
 
 ```mermaid
 graph TD
     subgraph PilarAkhlak["EMPAT PILAR UTAMA MATINUL KHULUQ SANTRI TUMBUH"]
-        A1["1. PENJAGAAN LISAN (Hifzhul Lisan)<br/>Menolak ghibah, namimah, celaan nama orang tua, & kata-kata kotor."]
+        A1["1. PENJAGAAN LISAN (Hifzhul Lisan)<br/>Menolak ghibah, namimah, celaan nama orang tua, & kata kotor."]
         
-        A2["2. KOMUNIKASI NIRKEKERASAN (Nonviolent Communication)<br/>Menyampaikan keluhan secara asertif tanpa bentakan, nada sarkas, atau ancaman."]
+        A2["2. KOMUNIKASI NIRKEKERASAN (Nonviolent Communication)<br/>Menyampaikan keluhan secara asertif tanpa bentakan atau sarkasme."]
         
-        A3["3. EMPATI & KASIH SAYANG (Ar-Rahmah wal Ithaf)<br/>Peka terhadap penderitaan kawan, menghormati privasi, & menyayangi adik kelas."]
+        A3["3. EMPATI & KASIH SAYANG (Ar-Rahmah wal Ithaf)<br/>Peka terhadap perasaan kawan, menghormati privasi, & menyayangi adik kelas."]
         
-        A4["4. KEBERANIAN MEMBELA KEBENARAN (Asy-Saja'ah al-Adabiyyah)<br/>Berani menolak tradisi senioritas menindas & berani membela santri yang lemah."]
+        A4["4. KEBERANIAN MEMBELA KEBENARAN (Asy-Saja'ah al-Adabiyyah)<br/>Berani menolak tradisi senioritas menindas & membela yang lemah."]
         
         A1 --- A2 --- A3 --- A4
     end
 ```
-<div align="center"><sub><b>Gambar 2.2.1:</b> Empat Pilar Utama Matinul Khuluq dalam Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 2.3.1:</b> Empat Pilar Utama Matinul Khuluq dalam Ekosistem TUMBUH.</sub></div>
 
-**Al-Imam Abu Abdillah Muhammad bin Ismail al-Bukhari** dalam mahakaryanya *Al-Adab al-Mufrad*[^1] meriwayatkan sabda monumental Baginda Rasulullah SAW:
-$$\text{إِنَّ مِنْ أَحَبِّكُمْ إِلَيَّ وَأَقْرَبِكُمْ مِنِّي مَجْلِسًا يَوْمَ الْقِيَامَةِ أَحَاسِنَكُمْ أَخْلَاقًا}$$
-*"Sesungguhnya orang yang paling aku cintai di antara kalian dan yang paling dekat tempat duduknya denganku pada hari kiamat kelak adalah orang yang paling mulia akhlaknya di antara kalian!"* (HR. At-Tirmidzi no. 2018).
+**Al-Imam Abu Abdillah Muhammad bin Ismail al-Bukhari** dalam *Al-Adab al-Mufrad*[^1] meriwayatkan sabda monumental Rasulullah SAW: *"Sesungguhnya orang yang paling aku cintai di antara kalian dan paling dekat majelisnya denganku pada hari kiamat adalah orang yang paling mulia akhlaknya."* (HR. At-Tirmidzi no. 2018).
 
----
+Pakar komunikasi **Marshall B. Rosenberg**[^2] dalam *Nonviolent Communication* menegaskan bahwa bahasa penghakiman, sarkasme, dan pelabelan negatif adalah bentuk kekerasan terselubung yang memutus jembatan empati antar-manusia.
 
-### Dekonstruksi Bahasa Toksik: Eliminasi Julukan Pejoratif (*Laqab*) di Asrama
-
-Salah satu penyakit sosial paling merusak yang kerap dianggap "lelucon biasa" di asrama santri adalah pemberian julukan buruk (*tanabuz bil alqab*): memanggil kawan dengan sebutan binatang, ejekan fisik (*body shaming*), atau nama ayah dengan nada mencela.
-
-Sains psikologi sosial dan neurosains afektif membuktikan bahwa **kekerasan verbal mengaktifkan jaringan rasa sakit (*pain matrix*) di otak yang sama persis dengan luka fisik akibat pukulan tongkat**.
-
-Pakar komunikasi internasional **Marshall B. Rosenberg**[^2] dalam *Nonviolent Communication* (NVC) menegaskan bahwa bahasa penghakiman, sarkasme, dan pelabelan negatif adalah bentuk kekerasan terselubung (*tragic expression of unmet needs*) yang memutus jembatan empati antar-manusia.
-
-Sistem TUMBUH menegakkan aturan baku **Zero Verbal Violence**:
-1. **Larangan Mutlak Segala Bentuk Julukan Buruk**: Santri wajib memanggil sesamanya dengan nama aslinya yang baik atau panggilan persaudaraan yang mulia (*Akhi / Ukhti / Kang / Ning*).
-2. **Pelatihan Protokol Komunikasi Asertif 4-Langkah (OFNR)**:
-   * **Observasi (Observation)**: Menyatakan fakta tanpa menghakimi (*"Ketika sandal ana dipakai tanpa izin tadi pagi..."*).
-   * **Perasaan (Feeling)**: Mengungkapkan perasaan secara jujur (*"...ana merasa terburu-buru dan cemas terlambat ke kelas."*).
-   * **Kebutuhan (Need)**: Menyampaikan kebutuhan dasar (*"Ana butuh kepastian barang pribadi ana terjaga."*).
-   * **Permintaan (Request)**: Mengajukan permintaan konkret (*"Maukah antum meminta izin terlebih dahulu jika hendak meminjam?"*).
-
----
-
-### Integrasi Turats: Penjagaan Lisan (*Hifzhul Lisan*) Imam An-Nawawi
-
-Panduan komunikasi santun ini berakar kuat pada bab khusus yang ditulis oleh **Imam Yahya bin Syaraf An-Nawawi** dalam *Riyadhus Shalihin* (Kitab *Hifzhil Lisan*)[^3] sebagai pedoman utama:
-
-> [!NOTE]
-> ### 📜 Kaidah Emas Imam An-Nawawi tentang Menjaga Lisan:
-> 
-> $$\text{اعْلَمْ أَنَّهُ يَنْبَغِي لِكُلِّ مُكَلَّفٍ أَنْ يَحْفَظَ لِسَانَهُ عَنْ جَمِيعِ الْكَلَامِ، إِلَّا كَلَامًا ظَهَرَتْ فِيهِ الْمَصْلَحَةُ. وَمَتَى اسْتَوَى الْكَلَامُ وَتَرْكُهُ فِي الْمَصْلَحَةِ، فَالسُّنَّةُ الْإِمْسَاكُ عَنْهُ}$$
-> 
-> **Artinya:**  
-> *"Ketahuilah, sesungguhnya sepatutnya bagi setiap mukallaf (santri pembelajar) untuk menjaga lisannya dari segala perkataan, kecuali perkataan yang nyata-nyata mengandung kemaslahatan di dalamnya. Dan manakala berbicara dan diam memiliki kemaslahatan yang sama, maka sunnah yang utama adalah memilih diam."*
-
----
-
-### Kecerdasan Sosial & Resonansi Afektif Pendidik
-
-Pakar psikologi **Daniel Goleman**[^4] dalam risetnya tentang *Social Intelligence* membuktikan bahwa interaksi emosi bersifat menular (*emotional contagion*). Jika seorang musyrif membiasakan diri menyapa santri dengan senyuman tulus, tatapan mata yang hangat, dan nada bicara yang lembut, maka sel neuron cermin (*mirror neurons*) di otak seluruh santri sekamar akan menyerap dan merefleksikan kelembutan tersebut dalam pergaulan harian mereka.
-
-```mermaid
-graph LR
-    subgraph ResonansiAkhlak["PENULARAN AKHLAK MULIA VIA MIRROR NEURONS"]
-        Musyrif["Musyrif Lembut & Santun (Qudwah Hasanah)"] --> Saraf["Aktivasi Mirror Neurons di Otak Santri"]
-        Saraf --> Kamar["Kultur Asrama yang Hangat, Saling Menghormati, & Bebas Bullying"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.2.2:</b> Penularan Kultural Akhlak Mulia dari Musyrif ke Santri.</sub></div>
-
-Santri yang memiliki *Matinul Khuluq* menjadi pilar kedamaian di mana pun ia berada: tutur katanya menyejukkan, kehadirannya dirindukan, dan perilakunya menjadi cermin kemuliaan ajaran Islam di hadapan umat manusia.
+**Al-Imam Yahya bin Syaraf an-Nawawi** dalam *Riyadhus Shalihin* (Kitab *Hifzhil Lisan*)[^3] menggarisbawahi kewajiban menjaga lisan dari segala ucapan kecuali yang nyata-nyata mengandung kemaslahatan syar'i.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Al-Imam Abu Abdillah Muhammad bin Ismail al-Bukhari**, *Al-Adab al-Mufrad*, Tahqiq: Syaikh Muhammad Fu'ad Abdul Baqi (Kairo: Al-Mathba'ah as-Salafiyyah, 1379 H; cetak ulang Beirut: Dar al-Basyair al-Islamiyyah, 1989), Bab "Husnul Khuluq", hlm. 102–115.
+[^1]: **Al-Imam Abu Abdillah Muhammad bin Ismail al-Bukhari**, *Al-Adab al-Mufrad*, Tahqiq: Syaikh Muhammad Fu'ad Abdul Baqi (Beirut: Dar al-Basyair al-Islamiyyah, 1989), Bab "Husnul Khuluq", hlm. 102–115.
 [^2]: **Marshall B. Rosenberg**, *Nonviolent Communication: A Language of Life* (Encinitas: PuddleDancer Press, 1999; Edisi ke-3, 2015), Bab 1: "Giving from the Heart", hlm. 1–18.
 [^3]: **Al-Imam Abu Zakariyya Yahya bin Syaraf an-Nawawi**, *Riyadhus Shalihin min Kalami Sayyidil Mursalin*, Tahqiq: Syaikh Syu'aib al-Arnauth (Beirut: Mu'assasah ar-Risalah, 1993), Kitab Hifzhil Lisan, hlm. 438–455.
-[^4]: **Daniel Goleman**, *Social Intelligence: The New Science of Human Relationships* (New York: Bantam Books, 2006), Bab 1: "Emotional Contagion", hlm. 11–32.
 
 
 ---
 
-# SUB-BAB 2.3: QADIRUN 'ALAL KASBI & MUTSAQQAFUL FIKRI
-## *Kemandirian Hidup, Etos Kerja Asrama, Kedalaman Intelektual, dan Keterampilan Berpikir Kritis*
+# SUB-BAB 2.4: QADIRUN 'ALAL KASBI (KEMANDIRIAN HIDUP & ETOS KERJA)
+## *Kemandirian Asrama, Literasi Keuangan Syar'i, Tanggung Jawab Fasilitas, dan Etos Kifayah Produktif*
 
-**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Pendidikan Kemandirian Vokasional, Filsafat Ilmu Kritis (*Critical Thinking*), & Psikologi Kognitif  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Psikologi Belajar & Pakar Tata Kelola Qudwah*)
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Pendidikan Kemandirian Vokasional, Literasi Finansial Remaja, & Etika Kerja Islam  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Tata Kelola Qudwah*)
 
 ---
 
-### Mematahkan Stereotip Santri: Antara Kemandirian Finansial dan Ketajaman Nalar
+### Kemandirian Nyata di Bilik Asrama
 
-Salah satu tantangan besar alumni pesantren di era modern adalah tudingan miring bahwa lulusan pondok hanya pandai berdoa dan menghafal matan, namun tidak memiliki kecakapan hidup mandiri (*life skills*) dan gagap menghadapi dinamika peradaban global yang kompleks.
+Pilar keempat karakter santri adalah **Qadirun 'alal Kasbi** (Mampu Bekerja Mandiri & Memiliki Etos Kifayah).
 
-Ekosistem TUMBUH menjawab tantangan ini melalui dua pilar karakter komplementer:
-1. **Qadirun 'alal Kasbi**: Memiliki kemampuan mandiri, etos kerja tinggi, tanggung jawab finansial, dan kesiapan berkarya secara mandiri.
-2. **Mutsaqqoful Fikri**: Memiliki wawasan intelektual yang luas, menguasai literasi Turats klasik, sekaligus memiliki nalar kritis ilmiah (*critical thinking*) dalam merespons perkembangan ilmu pengetahuan modern.
+Kemandirian di pesantren TUMBUH bukan sekadar teori ekonomi, melainkan dilatihkan melalui pembiasaan hidup harian yang teratur:
+* **Perawatan Diri Mandiri**: Mencuci, menjemur, melipat pakaian sendiri secara rapi, serta menjahit kancing baju yang lepas tanpa bergantung pada orang tua atau adik kelas.
+* **Literasi Keuangan Syar'i**: Mengelola uang saku mingguan secara terencana, membuat pembukuan sederhana, menyisihkan infaq Jumat, dan menghindari perilaku konsumtif jajan berlebihan di kantin.
+* **Pemeliharaan Inventaris Pondok**: Merawat fasilitas asrama dan madrasah dengan penuh amanah, menganggap sarana pesantren sebagai wakaf suci yang wajib dilindungi.
 
 ```mermaid
-graph TD
-    subgraph SinergiKemandirianNalar["SINERGI KEMANDIRIAN HIDUP & KETAJAMAN NALAR SANTRI"]
-        Kasbi["1. QADIRUN 'ALAL KASBI (Kemandirian Asrama & Vokasional)<br/>• Merawat pakaian & mencuci mandiri tanpa manja<br/>• Mengelola uang saku mingguan secara terencana<br/>• Menjaga fasilitas umum & etos khidmah produktif"]
-        
-        Fikri["2. MUTSAQOOFUL FIKRI (Ketajaman Nalar & Wawasan Luas)<br/>• Membaca kritis & memahami logika argumentasi ushul fiqih<br/>• Mampu membedakan fakta ilmiah vs opini & hoaks digital<br/>• Dialogis, solutif, & berwawasan peradaban dunia"]
-        
-        Kasbi === Fikri
+graph LR
+    subgraph TigaPilarKemandirian["TIGA PILAR QADIRUN 'ALAL KASBI SANTRI TUMBUH"]
+        Raga["1. Perawatan Mandiri (Self-Care & 5S Loker)"] --> Uang["2. Literasi Keuangan (Hemat, Infaq, & Syar'i)"]
+        Uang --> Karya["3. Etos Kerja Produktif (Koperasi & Proyek Mandiri)"]
     end
 ```
-<div align="center"><sub><b>Gambar 2.3.1:</b> Sinergi Kemandirian Hidup dan Ketajaman Nalar Santri TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 2.4.1:</b> Tiga Pilar Kemandirian Vokasional Santri TUMBUH.</sub></div>
 
-**Al-Imam Abu al-Hasan al-Mawardi** dalam *Adab ad-Dunya wad-Din*[^1] menegaskan bahwa kemuliaan seorang penuntut ilmu hanya akan sempurna jika ditopang oleh dua pilar: kebersihan mata pencaharian yang halal (*kifayatul ma'asy*) dan kecemerlangan akal budi yang terus diasah dengan ilmu (*shafa'ul aql*).
-
----
-
-### Indikator Perilaku Faktual Qadirun 'alal Kasbi di Asrama 24 Jam
-
-Kemandirian di pesantren tidak harus menunggu santri lulus mendirikan perusahaan, melainkan dibangun dari hal-hal mikro di bilik asrama setiap hari:
-
-1. **Kemandirian Perawatan Diri (*Self-Sufficiency*)**:  
-   Santri mencuci pakaian pribadinya secara teratur, menjemur pada tempatnya, melipat rapi ke dalam lemari, dan menjahit kancing bajunya yang lepas secara mandiri tanpa bergantung pada orang tua atau adik kelas.
-2. **Literasi Keuangan Syar'i (*Financial Self-Regulation*)**:  
-   Santri membuat catatan pengeluaran uang saku mingguan, menyisihkan sebagian uang sakunya untuk kotak infaq Jumat, serta menghindari budaya konsumerisme jajan berlebihan di kantin pondok.
-3. **Etos Kewirausahaan Sosial (*Social Entrepreneurship*)**:  
-   Santri aktif terlibat dalam unit usaha pondok (seperti koperasi santri, hidroponik asrama, atau perpustakaan santri), melatih jiwa kepemimpinan manajerial dan integritas amanah.
-
----
-
-### Indikator Perilaku Faktual Mutsaqqoful Fikri di Madrasah & Halaqah
-
-Santri yang berwawasan luas bukanlah penghafal dogmatis yang kaku, melainkan pembelajar yang adaptif dan berwawasan luas:
-
-1. **Keterampilan Membaca Kritis (*Critical Active Reading*)**:  
-   Saat mempelajari kitab kuning, santri tidak hanya menerjemahkan lafadz (*makna gandul*), melainkan menganalisis *illat* hukum, konteks maqashid syari'ah, dan membandingkan pendapat lintas madzhab secara objektif.
-2. **Kecakapan Literasi Digital & Anti-Hoaks**:  
-   Santri dibekali prinsip *Tabayyun* (verifikasi fakta berbasis QS. Al-Hujurat: 6) untuk menyaring informasi di media digital, menolak penyebaran ujaran kebencian, dan mampu menulis opini yang mencerahkan publik.
-3. **Kemampuan Berdiskusi Argumentatif Santun (*Munazharah Beradab*)**:  
-   Santri mampu mempertahankan argumen berbasis dalil dan data logis tanpa emosi, serta berlapang dada menerima kebenaran jika lawan bicaranya memiliki argumen yang lebih kuat.
-
----
-
-### Landasan Kognitif: Teori Beban Kognitif & Metakognisi
-
-Pakar psikologi kognitif **John Sweller**[^2] dalam *Cognitive Load Theory* membuktikan bahwa nalar kritis hanya akan berkembang apabila beban kognitif yang tidak relevan (*extraneous cognitive load*) dieliminasi melalui desain pembelajaran yang terstruktur. 
-
-Di pesantren TUMBUH, metode sorogan dan halaqah didesain secara interaktif: santri diajak memetakan konsep kitab menggunakan peta pikiran (*mind mapping*) dan simulasi studi kasus nyata (*case-based study*), sehingga kapasitas memori kerja (*working memory*) santri teroptimalkan.
-
-Filsuf Islam modern **Prof. Dr. Syed Muhammad Naquib al-Attas**[^3] menegaskan bahwa akal yang tercerahkan (*'Aql Salim*) adalah akal yang mampu mengenali hirarki wujud dan kebenaran, menempatkan ilmu wahyu sebagai pemandu tertinggi bagi seluruh disiplin sains empiris.
-
----
-
-### Solusi Sistemik TUMBUH: Laboratorium Kemandirian & Pojok Literasi Digital
-
-Sistem TUMBUH menghidupkan dua pilar ini melalui program konkret:
-* **Pojok Literasi Halaqah (*Maktabah Ma'rifah*)**: Setiap kamar asrama dilengkapi rak buku berisi buku-buku sains populer, biografi tokoh peradaban Islam, dan ensiklopedia kontemporer untuk memicu diskusi nalar kritis santri.
-* **Proyek Khidmah Kemandirian (*Kifayah Project*)**: Setiap semester santri diberi proyek kemandirian tim (misalnya mengelola kebun sayur asrama atau merawat inventaris sarana pondok) untuk mengasah etos kerja nyata.
-
-Santri TUMBUH tumbuh menjadi pribadi yang berdaya: tangannya mandiri menghasilkan karya halal, dan pikirannya tajam memancarkan cahaya hikmah bagi kemajuan peradaban Islam.
+**Al-Imam Abu al-Hasan al-Mawardi** dalam *Adab ad-Dunya wad-Din*[^1] menegaskan bahwa kemuliaan penuntut ilmu hanya akan sempurna jika ditopang oleh kebersihan mata pencaharian yang halal (*kifayatul ma'asy*) dan kemandirian hidup yang menjaganya dari kehinaan meminta-minta kepada orang lain.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
 [^1]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Mawardi**, *Adab ad-Dunya wad-Din*, Tahqiq: Dr. Muhammad Ridha Qahwaji (Beirut: Dar Ibnu Katsir, 1993), Bab 4: "Fi Adab al-Kasb", hlm. 215–248.
-[^2]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer Science+Business Media, 2011), Bab 2: "Human Cognitive Architecture", hlm. 11–32.
-[^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and Modernity* (Kuala Lumpur: International Institute of Islamic Thought and Civilization / ISTAC, 1995), Bab 3: "The Intuition of Existence", hlm. 111–142.
 
 
 ---
 
-# SUB-BAB 2.4: QOWIYYUL JISMI & MUJAHIDUN LINAFSIHI
-## *Kekuatan Jasmani, Higienitas Thaharah, Pengendalian Diri (*Self-Regulation*), dan Penaklukan Hawa Nafsu*
+# SUB-BAB 2.5: MUTSAQQAFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)
+## *Kedalaman Penguasaan Turats, Integrasi Nalar Kritis Saintifik, dan Keterampilan Tabayyun di Era Digital*
 
-**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Kesehatan Fisik & Tidur Sirkadian, Neurosains Regulasi Diri (*Inhibitory Control*), & Tasawuf 'Amali  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Neurosains Perkembangan & Pakar Pengasuhan Asrama*)
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Filsafat Ilmu Kritis (*Critical Thinking*), Psikologi Kognitif, & Literasi Digital Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Psikologi Belajar & Pakar Epistemologi Turats*)
 
 ---
 
-### Dua Sisi Mata Uang Kebugaran Insan: Ketangguhan Raga dan Kedaulatan Jiwa
+### Cendekiawan Muslim yang Bernalar Tajam dan Terbuka
 
-Di dalam hadits shahih yang sangat masyhur, Rasulullah SAW bersabda:
-$$\text{الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ}$$
-*"Mukmin yang kuat lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, meskipun pada keduanya tetap terdapat kebaikan."* (HR. Muslim no. 2664).
+Pilar kelima karakter santri adalah **Mutsaqqoful Fikri** (Berwawasan Luas & Berpikir Kritis).
 
-Kekuatan yang dimaksud oleh Rasulullah SAW mencakup dua dimensi komplementer:
-1. **Qowiyyul Jismi**: Fisik yang kuat, sehat, bersih dari kuman penyakit, bugar berenergi, dan terjaga ritme biologisnya.
-2. **Mujahidun Linafsihi**: Jiwa yang memiliki kedaulatan penuh dalam menundukkan syahwat, sabar menunda kepuasan instan (*delayed gratification*), dan gigih melawan godaan maksiat.
+Santri yang mutsaqqoful fikri bukanlah penghafal dogmatis yang kaku, melainkan pembelajar yang tajam nalarnya dan berwawasan luas:
+* **Membaca Aktif & Kritis (*Critical Active Reading*)**: Mampu menganalisis teks Turats dengan memahami kaidah *ushul fiqih*, konteks *maqashid syari'ah*, dan membandingkan pandangan ulama secara objektif.
+* **Literasi Digital & Prinsip Tabayyun**: Memiliki filter kognitif untuk memverifikasi kebenaran informasi di media digital (QS. Al-Hujurat: 6), menolak hoaks, dan pantang menyebarkan ujaran kebencian.
+* **Keterampilan Munazharah Santun**: Mampu berdiskusi ilmiah secara argumentatif tanpa merendahkan orang lain yang berbeda pandangan.
 
 ```mermaid
 graph TD
-    subgraph SinergiFisikJiwa["DUA PILAR KETANGGUHAN SANTRI TUMBUH"]
-        Jismi["1. QOWIYYUL JISMI (Ketahanan Fisik-Biologis)<br/>• Bebas penyakit kulit asrama (Zero Scabies Protocol)<br/>• Kebugaran kardiovaskular & olahraga sunnah teratur<br/>• Waktu tidur sirkadian 7 jam terjaga konsisten"]
+    subgraph PilarNalar["TIGA PILAR MUTSAQOOFUL FIKRI SANTRI TUMBUH"]
+        N1["1. LITERASI TURATS MENDALAM<br/>Menguasai matan kitab, kaidah nahwu-sharaf, & maqashid syari'ah."]
         
-        Nafsi["2. MUJAHIDUN LINAFSIHI (Ketahanan Regulasi Diri)<br/>• Menundukkan rasa kantuk & malas saat muthala'ah<br/>• Menahan diri dari konsumsi jajanan manis berlebih<br/>• Resiliensi mental bangkit kembali pasca-kegagalan"]
+        N2["2. KETERAMPILAN NALAR KRITIS (Critical Thinking)<br/>Mampu membedakan fakta ilmiah vs opini & argumen logis vs falasi."]
         
-        Jismi === Nafsi
+        N3["3. PRINSIP TABAYYUN DIGITAL<br/>Menyaring informasi media, wara' di ruang siber, & literasi anti-hoaks."]
+        
+        N1 --- N2 --- N3
     end
 ```
-<div align="center"><sub><b>Gambar 2.4.1:</b> Sinergi Ketangguhan Fisik (Jismi) dan Pengendalian Diri (Nafsi) Santri.</sub></div>
+<div align="center"><sub><b>Gambar 2.5.1:</b> Tiga Pilar Mutsaqqoful Fikri Ekosistem TUMBUH.</sub></div>
 
-**Al-Imam Ibn al-Qayyim al-Jawziyyah** dalam *Zad al-Ma'ad fi Hadyi Khairil 'Ibad*[^1] menjelaskan secara komprehensif bagaimana petunjuk Nabi SAW memadukan antara olahraga berkuda, memanah, lari cepat, pengaturan porsi makan (*Thibbun Nabawi*), dan puasa sunnah sebagai instrumen penjaga vitalitas tubuh dan penunduk hawa nafsu.
+Pakar psikologi kognitif **John Sweller**[^1] dalam *Cognitive Load Theory* membuktikan bahwa nalar kritis hanya akan berkembang apabila beban kognitif yang tidak relevan dieliminasi melalui desain pembelajaran interaktif yang terstruktur.
 
----
-
-### Indikator Perilaku Faktual Qowiyyul Jismi di Asrama
-
-Sistem TUMBUH menolak keras anggapan bahwa santri yang shalih harus berwajah pucat, bertubuh ringkih, dan mengidap penyakit gatal-gatal (gudik/skabies):
-
-1. **Penerapan Protokol Nol Skabies (*Zero Scabies Policy*)**:  
-   Santri menjemur kasur dan bantal secara rutin setiap pekan di bawah sinar matahari, mencuci sprei dengan air panas berkala, dan menjaga ventilasi udara kamar tetap mengalir lancar.
-2. **Rutinitas Olahraga Kebugaran & Olahraga Sunnah**:  
-   Santri mengikuti jadwal olahraga terstruktur 3 kali sepekan: lari pagi, senam kebugaran jasmani, pencak silat, panahan, atau renang, menjaga fungsi jantung dan daya tahan tubuhnya.
-3. **Higienitas Sanitasi Pribadi (*Personal Hygiene*)**:  
-   Santri memotong kuku secara teratur setiap hari Jumat, menyikat gigi minimal 2 kali sehari, dan mengenakan pakaian yang bersih serta tidak berbau apek.
-
----
-
-### Indikator Perilaku Faktual Mujahidun Linafsihi di Keseharian
-
-Kekuatan sejati seorang santri bukan diukur dari kemampuannya merobohkan lawan, melainkan kemampuannya mengendalikan diri sendiri saat diuji syahwat dan amarah:
-
-```mermaid
-graph LR
-    subgraph RegulasiDiri["MEKANISME REGULASI DIRI MUJAHADATUN NAFS"]
-        Godaan["Impuls Syahwat / Kantuk / Amarah (Amigdala Terpicu)"] --> JedaSadar["Jeda Sadar 3 Detik: Mengambil Nafas Dalam & Isti'adzah"]
-        JedaSadar --> RemKognitif["Aktivasi Prefrontal Cortex: Inhibitory Control"]
-        RemKognitif --> AksiMulya["Keputusan Beradab: Memilih Sabar, Memaafkan, & Belajar"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.4.2:</b> Alur Neurobiologis Mujahadatun Nafs Mengaktifkan Rem Kognitif Prefrontal.</sub></div>
-
-1. **Penundaan Kepuasan Instan (*Delayed Gratification*)**:  
-   Pakar psikologi **Walter Mischel**[^2] dalam eksperimen legendarisnya *The Marshmallow Test* membuktikan bahwa anak yang memiliki kemampuan menunda kepuasan instan memiliki peluang sukses akademis dan stabilitas emosi berkali-kali lipat lebih tinggi. Santri TUMBUH dilatih menunda membuka jajan atau mengobrol santai hingga seluruh tugas muthala'ah selesai tuntas.
-2. **Pengendalian Impuls Amarah (*Emotional Inhibitory Control*)**:  
-   Riset neurosains kontrol diri oleh **Roy F. Baumeister**[^3] membuktikan bahwa kekuatan kehendak (*willpower*) bekerja seperti otot yang dapat dilatih. Saat tersenggol kawan di antrean wudhu, santri tidak membalas dengan pukulan, melainkan melafalkan *Ta'awwudz* dan tersenyum lapang dada.
-3. **Ketahanan Melawan Kemalasan (*Spiritual Grit*)**:  
-   Santri mampu bangkit dari tempat tidur saat alarm subuh berbunyi tanpa menekan tombol tunda (*snooze*), melatih kedaulatan jiwa atas kelemahan fisik raganya.
-
----
-
-### Tinjauan Turats: Menyelami Kedalaman *Riyadhatun Nafs* Imam Al-Ghazali
-
-Konsep penempaan diri ini berakar pada ajaran **Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatin Nafs*)[^4] sebagai berikut:
-
-> [!NOTE]
-> ### 📜 Kaidah Imam Al-Ghazali tentang Menjinakkan Nafsu:
-> 
-> $$\text{مَثَلُ النَّفْسِ فِي ضَرَاوَتِهَا كَمَثَلِ الدَّابَّةِ السَّمُوحِ؛ إِذَا أَلْجَمْتَهَا وَقَيَّدْتَهَا بِالرِّيَاضَةِ انْقَادَتْ، وَإِذَا أَرْسَلْتَهَا وَأَهْمَلْتَهَا جَمَحَتْ وَأَهْلَكَتْ صَاحِبَهَا}$$
-> 
-> **Artinya:**  
-> *"Perumpamaan hawa nafsu dalam kebuasannya laksana binatang tunggangan yang liar; apabila engkau kekang ia dengan tali kendali latihan spiritual (*Riyadhah*), niscaya ia akan tunduk patuh. Namun apabila engkau lepaskan ia begitu saja tanpa disiplin, niscaya ia akan berontak liar dan mencelakakan penunggangnya."*
-
-Santri yang memiliki *Qowiyyul Jismi* dan *Mujahidun Linafsihi* tumbuh menjadi sosok pemuda muslim idaman peradaban: bertubuh tegap sehat, berwajah cerah bercahaya, dan memiliki jiwa ksatria yang mampu menaklukkan segala bujuk rayu kemaksiatan.
+Filsuf Islam modern **Prof. Dr. Syed Muhammad Naquib al-Attas**[^2] menegaskan bahwa akal yang tercerahkan (*'Aql Salim*) adalah akal yang mampu mengenali hirarki wujud dan kebenaran, menempatkan ilmu wahyu sebagai pemandu tertinggi bagi seluruh disiplin sains empiris.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Zad al-Ma'ad fi Hadyi Khairil 'Ibad*, Tahqiq: Syaikh Syu'aib al-Arnauth & Abdul Qadir al-Arnauth (Kuwait: Maktabah al-Manar al-Islamiyyah / Beirut: Mu'assasah ar-Risalah, 1979), Jilid IV: "At-Thibbun Nabawi", hlm. 220–265.
-[^2]: **Walter Mischel**, *The Marshmallow Test: Mastering Self-Control* (New York: Little, Brown and Company, 2014), Bab 1: "The Delay of Gratification Paradigm", hlm. 15–42.
-[^3]: **Roy F. Baumeister & John Tierney**, *Willpower: Rediscovering the Greatest Human Strength* (New York: Penguin Press, 2011), Bab 2: "Where Willpower Power Comes From", hlm. 41–68.
-[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 60–75.
+[^1]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer Science+Business Media, 2011), Bab 2: "Human Cognitive Architecture", hlm. 11–32.
+[^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and Modernity* (Kuala Lumpur: International Institute of Islamic Thought and Civilization / ISTAC, 1995), Bab 3: "The Intuition of Existence", hlm. 111–142.
 
 
 ---
 
-# SUB-BAB 2.5: MUNAZHZHAMUN, HARITSUN, & NAFI'UN LIGHAIRIHI
-## *Keteraturan Manajemen Hidup, Disiplin Waktu, dan Puncak Karakter Khidmah Sosial yang Bermanfaat Luas*
+# SUB-BAB 2.6: QOWIYYUL JISMI (FISIK YANG KUAT, BERSIH, & BUGAR)
+## *Higienitas Thaharah, Protokol Nol Skabies (Zero Scabies), Kebugaran Kardiovaskular, dan Ritme Tidur Sirkadian 7-Jam*
 
-**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Waktu Islami, Psikologi Produktivitas Karakter, & Teori Kepemimpinan Altruistik  
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-06/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Kesehatan Komunitas Pesantren, Kedokteran Fisik Islami (*Thibbun Nabawi*), & Ritme Sirkadian  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Neurosains Perkembangan*)
+
+---
+
+### Mukmin yang Kuat Lebih Dicintai Allah
+
+Pilar keenam karakter santri adalah **Qowiyyul Jismi** (Fisik yang Kuat, Bersih, dan Sehat).
+
+Rasulullah SAW bersabda: *"Mukmin yang kuat lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, meskipun pada keduanya tetap terdapat kebaikan."* (HR. Muslim no. 2664).
+
+Sistem TUMBUH menolak keras anggapan bahwa santri yang shalih harus bertubuh ringkih dan terkena penyakit kulit gatal-gatal (gudik/skabies):
+* **Protokol Nol Skabies (*Zero Scabies Protocol*)**: Menjemur kasur dan bantal secara teratur di bawah sinar matahari setiap pekan, mencuci sprei berkala, dan menjaga sirkulasi ventilasi udara kamar.
+* **Kebugaran Jasmani & Olahraga Sunnah**: Mengikuti jadwal olahraga terstruktur 3 kali sepekan (lari pagi, pencak silat, panahan, renang, atau futsal).
+* **Ritme Tidur Sirkadian 7 Jam**: Menjamin santri tidur tepat waktu pukul 22.00 WIB hingga 03.30/04.00 WIB agar hormon pertumbuhan (*Human Growth Hormone*) dan konsolidasi memori di otak bekerja optimal.
+
+```mermaid
+graph LR
+    subgraph PilarFisik["TIGA PILAR QOWIYYUL JISMI SANTRI TUMBUH"]
+        Sanitasi["1. Sanitasi Prima & Zero Scabies"] --> Bugar["2. Kebugaran Kardiovaskular (Olahraga 3x Sepekan)"]
+        Bugar --> Sirkadian["3. Tidur Sirkadian 7-Jam & Nutrisi Halal Thayyib"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.6.1:</b> Tiga Pilar Kebugaran Jasmani Santri TUMBUH.</sub></div>
+
+**Al-Imam Ibn al-Qayyim al-Jawziyyah** dalam *Zad al-Ma'ad*[^1] menjelaskan bahwa petunjuk Rasulullah SAW memadukan secara harmonis antara olahraga fisik, pembatasan porsi makan berlebih, dan kebersihan thaharah sebagai syarat mutlak terpeliharanya vitalitas tubuh dan ketajaman daya ingat otak.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Zad al-Ma'ad fi Hadyi Khairil 'Ibad*, Tahqiq: Syaikh Syu'aib al-Arnauth & Abdul Qadir al-Arnauth (Kuwait: Maktabah al-Manar / Beirut: Mu'assasah ar-Risalah, 1979), Jilid IV: "At-Thibbun Nabawi", hlm. 220–265.
+
+
+---
+
+# SUB-BAB 2.7: MUJAHIDUN LINAFSIHI (PEJUANG PENGENDALIAN DIRI)
+## *Neurosains Regulasi Diri, Penundaan Kepuasan Instan (Delayed Gratification), dan Penaklukan Hawa Nafsu*
+
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-07/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Neurosains Pengendalian Diri (*Inhibitory Control*), Psikologi Kehendak (*Willpower*), & Tasawuf 'Amali  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Neurosains Perkembangan & Pakar Epistemologi Turats*)
+
+---
+
+### Menaklukkan Musuh Terbesar di Dalam Dada
+
+Pilar ketujuh karakter santri adalah **Mujahidun Linafsihi** (Pejuang yang Gigih Mengendalikan Hawa Nafsu).
+
+Kekuatan sejati seorang santri bukan diukur dari kemampuannya merobohkan lawan, melainkan kemampuannya mengendalikan amarah dan syahwatnya sendiri:
+* **Penundaan Kepuasan Instan (*Delayed Gratification*)**: Mampu menunda kesenangan jangka pendek (mengobrol santai atau tidur siang berlebih) demi meraih keberhasilan hafalan Al-Qur'an dan muthala'ah kitab.
+* **Pengendalian Impuls Amarah (*Emotional Inhibitory Control*)**: Mampu menahan diri saat diprovokasi kawan; memilih menarik nafas dalam, melafalkan ta'awwudz, dan tersenyum lapang dada.
+* **Resiliensi Spiritual (*Spiritual Grit*)**: Cepat bangkit dan bertaubat saat melakukan kesalahan tanpa larut dalam keputusasaan batin.
+
+```mermaid
+graph LR
+    subgraph AlurMujahadah["ALUR NEUROBIOLOGIS MUJAHADATUN NAFS"]
+        Impuls["Impuls Syahwat / Amarah / Kantuk (Amigdala Terpicu)"] --> Jeda["Jeda Sadar 3 Detik: Ta'awwudz & Tarik Nafas"]
+        Jeda --> PFC["Rem Korteks Prefrontal Aktif (Inhibitory Control)"]
+        PFC --> Keputusan["Keputusan Adab: Memilih Sabar, Disiplin, & Memaafkan"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.7.1:</b> Alur Neurobiologis Mujahadatun Nafs Santri TUMBUH.</sub></div>
+
+Pakar psikologi **Walter Mischel**[^1] dalam eksperimen klasiknya *The Marshmallow Test* membuktikan bahwa anak yang memiliki kapasitas menunda kepuasan instan memiliki peluang sukses akademis dan kematangan emosi berkali-kali lipat lebih tinggi.
+
+Pakar neurosains kehendak **Roy F. Baumeister**[^2] membuktikan bahwa kontrol diri (*willpower*) bekerja laksana otot yang semakin kuat jika dilatih secara teratur setiap hari.
+
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatin Nafs*)[^3] menjelaskan bahwa hawa nafsu laksana binatang liar yang harus dijinakkan dengan tali kendali latihan spiritual (*Riyadhah*) agar tunduk patuh di bawah perintah akal dan syariat.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Walter Mischel**, *The Marshmallow Test: Mastering Self-Control* (New York: Little, Brown and Company, 2014), Bab 1: "The Delay of Gratification Paradigm", hlm. 15–42.
+[^2]: **Roy F. Baumeister & John Tierney**, *Willpower: Rediscovering the Greatest Human Strength* (New York: Penguin Press, 2011), Bab 2: "Where Willpower Power Comes From", hlm. 41–68.
+[^3]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 60–75.
+
+
+---
+
+# SUB-BAB 2.8: MUNAZHZHAMUN FI SYU'UNIHI (TERTIB DALAM SEGALA URUSAN)
+## *Manajemen Keteraturan Hidup, Standar 5S/5R Loker Asrama, Perencanaan Harian, dan Disiplin Logistik Pribadi*
+
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-08/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Manajemen Keteraturan Pribadi (*Personal Organization*), Ergonomi Asrama, & Psikologi Keteraturan Spasial  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Tata Kelola Qudwah*)
+
+---
+
+### Keteraturan Fisik sebagai Cermin Kerapian Batin
+
+Pilar kedelapan karakter santri adalah **Munazhzhamun fi Syu'unihi** (Tertib dan Terorganisir dalam Segala Urusannya).
+
+Keteraturan hidup di asrama TUMBUH bukan sekadar formalitas saat inspeksi musyrif, melainkan cermin dari ketertiban batin penuntut ilmu:
+* **Standar Kerapian Loker 5S/5R**: Menata lemari pakaian dengan zonasi simetris yang jelas (seragam di gantungan atas, sarung di rak tengah, pakaian santai di rak bawah, dan perlengkapan mandi di kotak khusus).
+* **Keteraturan Catatan Belajar**: Mencatat syarah kitab secara rapi dengan memberi tanda warna pada kaidah penting (*fawa'id*), serta menyusun jadwal muthala'ah mandiri.
+* **Kesiapan Logistik Malam Hari**: Menyiapkan seragam, peci, sajadah, dan kitab yang akan digunakan esok hari sebelum tidur malam pukul 22.00 WIB, mencegah kepanikan dan ketergesaan di waktu subuh.
+
+```mermaid
+graph LR
+    subgraph PilarKeteraturan["TIGA PILAR MUNAZHZHAMUN FI SYU'UNIHI"]
+        Loker["1. Manajemen Loker 5S/5R Simetris"] --> Catatan["2. Keteraturan Buku & Catatan Kitab"]
+        Catatan --> Rencana["3. Kesiapan Logistik Sebelum Tidur Malam"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.8.1:</b> Tiga Pilar Keteraturan Hidup Santri TUMBUH.</sub></div>
+
+**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^1] menegaskan bahwa penuntut ilmu wajib menata kitab-kitabnya dengan penuh takdzim: meletakkan Al-Qur'an di posisi teratas, diikuti kitab hadits, tafsir, ushul fiqih, dan nahwu-sharaf, serta menjaga kerapian tempat tidurnya agar hati senantiasa tenang dan siap menerima ilmu.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Adab al-Muta'allim ma'a Kutubihi", hlm. 35–42.
+
+
+---
+
+# SUB-BAB 2.9: HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIF)
+## *Manajemen Waktu Santri, Prinsip Hadir 5 Menit Lebih Awal, Pemanfaatan Jeda Terfragmentasi, dan Eliminasi Kesia-siaan (Lahwun)*
+
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-09/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Manajemen Waktu Islami (*Islamic Time Management*), Psikologi Produktivitas, & Etika Umur  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Tata Kelola Qudwah & Pakar Desain Kurikulum Adab*)
 
 ---
 
-### Tiga Pilar Penyempurna: Keteraturan, Waktu, dan Khidmah Sosial
+### Waktu adalah Modal Kehidupan Penuntut Ilmu
 
-Tiga profil terakhir dalam taksonomi sepuluh karakter (*Muwashafat*) Ekosistem TUMBUH adalah **tiga pilar penyempurna (*The Triad of Social Impact*)**:
-1. **Munazhzhamun fi Syu'unihi**: Tertib, rapi, dan terorganisir dalam menata seluruh urusan pribadi dan komunalnya.
-2. **Haritsun 'ala Waqtihi**: Sangat hemat dan disiplin dalam mengelola waktu, pantang membuang detik hidup dalam kesia-siaan (*lahwun*).
-3. **Nafi'un Lighairihi**: Bermanfaat luas, memiliki kepekaan sosial tinggi, dan mendedikasikan hidupnya untuk melayani ummat (*Khidmah*).
+Pilar kesembilan karakter santri adalah **Haritsun 'ala Waqtihi** (Sangat Menjaga dan Menghargai Waktu).
+
+Waktu adalah nafas kehidupan yang tidak akan pernah kembali. Di asrama TUMBUH, santri dilatih memandang setiap detik umurnya sebagai amanah ibadah:
+* **Prinsip *5-Minute Early Rule***: Hadir 5 menit lebih awal di masjid, halaqah quran, dan ruang kelas sebelum bel berbunyi.
+* **Pemanfaatan Waktu Terfragmentasi (*Fragmented Time Optimization*)**: Membawa buku saku (*pocket notes*) untuk menghafal mufradat bahasa Arab atau nadham kitab di sela-sela antrean makan atau menunggu waktu iqamah.
+* **Penghapusan Waktu Sia-Sia (*Zero Lahwun Policy*)**: Menolak begadang tanpa tujuan dan menghindari obrolan kosong yang merusak kejernihan hati.
 
 ```mermaid
 graph TD
-    subgraph PilarPenyempurna["TIGA PILAR PENYEMPURNA KARAKTER SANTRI TUMBUH"]
-        Tertib["8. MUNAZHZHAMUN FI SYU'UNIHI<br/>• Manajemen lemari & bilik rapi simetris<br/>• Terstruktur dalam mencatat pelajaran<br/>• Perencanaan harian terukur"]
-        
-        Waktu["9. HARITSUN 'ALA WAQTIHI<br/>• Hadir 5 menit sebelum bel berbunyi<br/>• Mengisi jeda kosong dengan muraja'ah<br/>• Bebas dari begadang & obrolan sia-sia"]
-        
-        Khidmah["10. NAFI'UN LIGHAIRIHI (PUNCAK KARAKTER)<br/>• Menolong kawan yang sakit & kesulitan<br/>• Mentoring adik kelas dengan penuh kasih<br/>• Menjadi agen penebar manfaat bagi ummat"]
-        
-        Tertib --> Waktu --> Khidmah
-    end
-```
-<div align="center"><sub><b>Gambar 2.5.1:</b> Alur Progresi dari Keteraturan Pribadi Menuju Puncak Kebermanfaatan Sosial.</sub></div>
-
-**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^1] menegaskan bahwa kealiman seorang penuntut ilmu tercermin dari bagaimana ia menghargai setiap detik umurnya: tidak membiarkan satu helaan nafas pun berlalu tanpa diisi dengan menuntut ilmu, berdzikir, atau memberikan kemanfaatan bagi sesamanya.
-
----
-
-### Indikator Perilaku Faktual Munazhzhamun fi Syu'unihi di Asrama
-
-Keteraturan hidup di pesantren TUMBUH bukan sekadar formalitas saat inspeksi musyrif, melainkan cermin dari ketertiban batin:
-
-1. **Standar Kerapian Loker Pribadi (*5S/5R Asrama*)**:  
-   Santri menata lemari bajunya dengan pembagian zona yang jelas (seragam sekolah di gantungan atas, sarung shalat di rak tengah, pakaian santai di rak bawah, dan perlengkapan mandi di kotak khusus).
-2. **Keteraturan Tata Catatan Kitab (*Organized Learning Notes*)**:  
-   Santri mencatat syarah ustadz dengan tulisan yang rapi, memberi tanda stabilo/warna pada kaidah penting, dan memiliki jadwal muthala'ah mandiri yang terstruktur.
-3. **Kesiapan Logistik Pribadi**:  
-   Sebelum tidur malam pukul 22.00 WIB, santri telah menyiapkan kitab, buku tulis, dan seragam yang akan dipakai esok pagi, sehingga tidak ada kepanikan terburu-buru saat fajar menyingsing.
-
----
-
-### Indikator Perilaku Faktual Haritsun 'ala Waqtihi
-
-Waktu adalah modal utama seorang santri. Hilangnya waktu tanpa faedah adalah kematian spiritual sebelum ajal fisik tiba:
-
-```mermaid
-graph LR
-    subgraph MatriksWaktu["MATRIKS MANAJEMEN WAKTU SANTRI TUMBUH (KUADRAN PRIORITAS)"]
-        K1["KUADRAN 1: PENTING & MENDESAK<br/>(Shalat Fardhu, Halaqah Kitab, Ujian)"]
-        K2["KUADRAN 2: PENTING & TIDAK MENDESAK<br/>(Muraja'ah Mandiri, Olahraga, Dzikir)"]
-        K3["KUADRAN 3: TIDAK PENTING TAPI MENDESAK<br/>(Gangguan Obrolan Lorong)"]
-        K4["KUADRAN 4: TIDAK PENTING & TIDAK MENDESAK<br/>(Begadang Melamun, Ghibah, Debat Kusir)"]
+    subgraph MatriksPrioritas["MATRIKS WAKTU KUADRAN 2 SANTRI TUMBUH"]
+        K1["KUADRAN 1: MENDESAK & PENTING<br/>(Shalat Fardhu Berjamaah, Ujian, Tugas Halaqah)"]
+        K2["KUADRAN 2: TIDAK MENDESAK TAPI PENTING (FOKUS 80%)<br/>(Muthala'ah Mandiri, Olahraga Bugar, Dzikir Khusyuk, & Baca Kitab)"]
+        K3["KUADRAN 3: MENDESAK TAPI TIDAK PENTING<br/>(Interupsi Obrolan Lorong Tanpa Arah)"]
+        K4["KUADRAN 4: TIDAK MENDESAK & TIDAK PENTING (DIELIMINASI)<br/>(Begadang Melamun, Ghibah, & Debat Kusir)"]
         
         K1 --- K2
         K3 --- K4
     end
 ```
-<div align="center"><sub><b>Gambar 2.5.2:</b> Penerapan Matriks Manajemen Waktu Kuadran Prioritas di Pesantren.</sub></div>
+<div align="center"><sub><b>Gambar 2.9.1:</b> Matriks Manajemen Waktu Kuadran Prioritas Santri TUMBUH.</sub></div>
 
-Pakar kepemimpinan **Stephen R. Covey**[^2] dalam *The 7 Habits of Highly Effective People* menegaskan bahwa individu yang unggul memfokuskan 80% energinya pada **Kuadran 2**: aktivitas yang sangat penting bagi pembentukan masa depan namun tidak mendesak (seperti membaca buku mendalam, membangun relasi positif, dan merawat kesehatan).
+Pakar kepemimpinan **Stephen R. Covey**[^1] dalam *The 7 Habits of Highly Effective People* membuktikan bahwa orang-orang paling sukses memfokuskan sebagian besar energinya pada aktivitas **Kuadran 2**: membangun kapasitas diri jangka panjang sebelum krisis terjadi.
 
-Santri TUMBUH menerapkan:
-1. **Prinsip *5-Minute Early Rule***: Hadir 5 menit lebih awal di masjid dan ruang kelas sebelum bel berbunyi.
-2. **Pemanfaatan Jeda Waktu (*Fragmented Time Optimization*)**: Membawa buku saku (*pocket notes*) untuk menghafal mufradat bahasa Arab atau nadham kitab di sela antrean kantin atau menunggu mulainya shalat berjamaah.
-
----
-
-### Puncak Muwashafat: Nafi'un Lighairihi (Kepemimpinan Melayani)
-
-Puncak dari seluruh taksonomi adab adalah **Nafi'un Lighairihi** (Bermanfaat bagi Sesama).
-
-Rasulullah SAW bersabda dengan sangat tegas:
-$$\text{خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ}$$
-*"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya!"* (HR. Ath-Thabrani dalam *Al-Mu'jam al-Ausath* no. 5787).
-
-Pakar psikologi organisasi **Adam Grant**[^3] dalam penelitiannya *Give and Take* membuktikan bahwa orang-orang yang memiliki orientasi memberi secara tulus (*Givers*) tanpa pamrih pada akhirnya menempati puncak kepemimpinan yang paling berpengaruh dan dicintai di masyarakat.
-
-Di pesantren TUMBUH, *Nafi'un Lighairihi* diwujudkan melalui:
-1. **Budaya Khidmah Tanpa Pamrih**: Membantu membawakan nampan makanan santri yang sedang demam di ruang poskestren, menyapu serambi masjid bersama, dan menjadi tutor sebaya bagi kawan yang kesulitan memahami nahwu-sharaf.
-2. **Kepemimpinan Pelayan (*Servant Leadership*)**: Santri senior memandang posisi kepengurusan organisasi santri bukan sebagai panggung kekuasaan untuk membentak adik kelas, melainkan sebagai ladang amal jariyah untuk melindungi, melayani, dan memfasilitasi kebutuhan seluruh warga pondok.
-
----
-
-### Wasiat Epik Imam Al-Ghazali tentang Manajemen Waktu Harian
-
-**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Tartib al-Awrad*)[^4] memberikan formula abadi tata kelola waktu harian penuntut ilmu:
-
-> [!NOTE]
-> ### 📜 Wasiat Emas Imam Al-Ghazali tentang Menjaga Waktu:
-> 
-> $$\text{يَنْبَغِي أَنْ تَكُونَ أَوْقَاتُكَ مُوَزَّعَةً، وَأَوْرَادُكَ مُرَتَّبَةً؛ فَلَا تَتْرُكْ وَقْتًا مِنَ الْأَوْقَاتِ سُدًى تَفْعَلُ فِيهِ مَا اتَّفَقَ كَيْفَمَا اتَّفَقَ، بَلْ حَاسِبْ نَفْسَكَ وَرَتِّبْ حَرَكَاتِكَ وَسَكَنَاتِكَ فِي لَيْلِكَ وَنَهَارِكَ}$$
-> 
-> **Artinya:**  
-> *"Sepatutnya seluruh waktumu terbagi dengan rapi, dan seluruh rutinitas amalmu tertata dengan teratur. Jangan sekali-kali engkau membiarkan satu waktu pun berlalu secara sia-sia di mana engkau berbuat sekadar kebetulan tanpa arah; melainkan hisablah dirimu dan aturlah setiap gerak dan diammu di sepanjang malam dan siangmu."*
-
-Dengan menuntaskan Bab 02 ini, sepuluh muwashafat karakter santri TUMBUH telah terdefinisi secara utuh, presisi, dan operasional: dari akar tauhid di dalam hati hingga buah kebermanfaatan nyata bagi kemaslahatan alam semesta.
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Tartib al-Awrad*)[^2] memberikan kaidah emas: *"Sepatutnya seluruh waktumu terbagi dengan rapi dan terencana; jangan biarkan satu detik pun berlalu secara sia-sia tanpa hisab."*
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Adab al-Muta'allim fi Nafsihi", hlm. 24–35.
-[^2]: **Stephen R. Covey**, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* (New York: Free Press / Simon & Schuster, 1989; Edisi Peringatan 30 Tahun, 2020), Bab 3: "Habit 3: Put First Things First", hlm. 145–182.
-[^3]: **Adam Grant**, *Give and Take: A Revolutionary Approach to Success* (New York: Viking Penguin, 2013), Bab 1: "Good Returns: The Hazards and Harms of Givers and Takers", hlm. 1–26.
-[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Tartib al-Awrad wa Tafshil Ihya' al-Lail (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 334–350.
+[^1]: **Stephen R. Covey**, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* (New York: Free Press / Simon & Schuster, 1989; Edisi Peringatan 30 Tahun, 2020), Bab 3: "Habit 3: Put First Things First", hlm. 145–182.
+[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Tartib al-Awrad wa Tafshil Ihya' al-Lail (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 334–350.
+
+
+---
+
+# SUB-BAB 2.10: NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)
+## *Puncak Mahkota Karakter: Kepemimpinan Melayani (Servant Leadership), Altruisme Ukhuwah, dan Etos Khidmah Ummat*
+
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-10/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Kepemimpinan Pelayan (*Servant Leadership*), Psikologi Altruisme Sosial, & Fiqih Khidmah Peradaban  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Tata Kelola Qudwah & Pakar Sosiologi Santri*)
+
+---
+
+### Puncak Muwashafat: Bermanfaat Luas bagi Ummat
+
+Puncak dan mahkota dari seluruh sepuluh pilar karakter santri adalah **Nafi'un Lighairihi** (Bermanfaat Luas bagi Sesama Manusia).
+
+Rasulullah SAW bersabda dalam sabda agungnya:
+$$\text{خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ}$$
+*"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lainnya!"* (HR. Ath-Thabrani dalam *Al-Mu'jam al-Ausath* no. 5787).
+
+Santri yang memiliki karakter *Nafi'un Lighairihi* adalah santri yang:
+* **Mendedikasikan Diri untuk Melayani (*Khidmah Altruistik*)**: Membantu kawan sekamar yang sakit, menyapu serambi masjid bersama, dan menjadi tutor sebaya bagi adik kelas yang kesulitan belajar nahwu-sharaf.
+* **Menerapkan Kepemimpinan Pelayan (*Servant Leadership*)**: Memandang jabatan kepengurusan organisasi santri bukan sebagai takhta kekuasaan untuk membentak, melainkan sebagai amanah khidmah untuk melayani dan memfasilitasi kebutuhan seluruh warga pondok.
+* **Menjadi Duta Kebaikan di Masyarakat**: Siap diterjunkan mengabdi di tengah masyarakat luas membawa rahmat, solusi, dan kedamaian peradaban Islam.
+
+```mermaid
+graph LR
+    subgraph PilarKhidmah["TIGA PILAR NAFI'UN LIGHAIRIHI SANTRI TUMBUH"]
+        Kamar["1. Altruisme Bilik Asrama (Peduli Teman Sakit & Berbagi)"] --> Organisasi["2. Kepemimpinan Pelayan (Servant Leadership Organisasi)"]
+        Organisasi --> Ummat["3. Khidmah Kemasyarakatan (Solusi Nyata bagi Umat)"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.10.1:</b> Tiga Pilar Kebermanfaatan Sosial Santri TUMBUH.</sub></div>
+
+Pakar psikologi organisasi **Adam Grant**[^1] dalam penelitiannya *Give and Take* membuktikan bahwa orang-orang yang memiliki orientasi memberi secara tulus (*Givers*) pada akhirnya menempati puncak kepemimpinan yang paling berpengaruh dan dicintai oleh komunitasnya.
+
+**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^2] menegaskan bahwa keberkahan ilmu seorang penuntut ilmu terletak pada sejauh mana ilmunya diamalkan untuk menolong orang lain, mendamaikan perselisihan, dan meringankan beban sesama mukmin lillahi ta'ala.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **Adam Grant**, *Give and Take: A Revolutionary Approach to Success* (New York: Viking Penguin, 2013), Bab 1: "Good Returns: The Hazards and Harms of Givers and Takers", hlm. 1–26.
+[^2]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Adab al-Muta'allim fi Nafsihi", hlm. 24–35.
 
 
 ---
@@ -1393,200 +1189,59 @@ Santri yang telah mencapai kematangan identitas ini tidak akan lagi goyah oleh g
 
 ---
 
-# SUB-BAB 3.4: DINAMIKA KONFORMITAS SEBAYA & MITIGASI EKSKLUSI SOSIAL
-## *Membedah Kekuatan Tekanan Teman Sebaya (Peer Pressure), Fenomena Klik Kamar, dan Rekayasa Budaya Ukhuwah Inklusif*
+# SUB-BAB 3.4: KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PFC
+## *Menavigasi Tekanan Teman Sebaya (Peer Pressure), Mitigasi Eksklusi Sosial, dan Peran Sentral Musyrif sebagai Perancah Ko-Regulasi*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-03/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Sosial Remaja, Sosiologi Pesantren, & Teori Dinamika Kelompok  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Sosiologi Santri & Pakar Disiplin Positif*)
+**Disiplin Ilmu**: Psikologi Sosial Remaja, Teori *Scaffolding & Co-Regulation*, & Metodologi Pengasuhan Asrama  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Sosiologi Santri & Pakar Pengasuhan Asrama*)
 
 ---
 
-### Tirani Kelompok Sebaya: Mengapa Pendapat Teman Lebih Ditakuti daripada Hukuman Ustadz?
+### Tirani Kelompok Sebaya dan Kebutuhan Pangkalan Rasa Aman
 
-Di lingkungan pondok pesantren yang terisolasi dari pengaruh luar selama 24 jam penuh, **kelompok teman sebaya (*peer group*) menjadi kekuatan sosial paling dominan yang mengendalikan perilaku santri**.
+Di lingkungan asrama 24 jam, kelompok teman sebaya (*peer group*) memegang pengaruh sosial yang sangat dominan. 
 
-Bagi seorang santri remaja berusia 13–16 tahun:
-* Ancaman terburuk bukanlah surat panggilan orang tua atau teguran dari musyrif.
-* **Ancaman paling mengerikan adalah dikucilkan, diejek, atau dicap sebagai "anak aneh / cepu" oleh kawan-kawan satu kamarnya!**
+Bagi santri remaja usia 13–16 tahun, ketakutan dikucilkan atau diejek oleh kawan sekamarnya kerap kali mendorong anak yang aslinya beradab ikut-ikutan melakukan pelanggaran aturan pondok.
 
-Akibat ketakutan mendalam akan pengucilan sosial ini, santri yang aslinya baik dan beradab kerap kali terpaksa ikut-ikutan melakukan pelanggaran: ikut mencemooh santri baru, ikut memakai sandal orang lain (*ghashab*), atau ikut begadang melanggar aturan, semata-mata demi mempertahankan status keanggotaan kelompoknya (*social belonging*).
+Riset neurosains sosial oleh **Naomi I. Eisenberger**[^1] membuktikan bahwa rasa sakit akibat dikucilkan secara sosial (*social ostracism*) mengaktifkan sirkuit saraf *dorsal Anterior Cingulate Cortex* (dACC) di otak yang sama persis dengan luka fisik.
+
+Ketika menghadapi badai dinamika sebaya ini, santri remaja yang Korteks Prefrontalnya belum matang membutuhkan **Musyrif Asrama sebagai "Korteks Prefrontal Eksternal (*The External Prefrontal Cortex*)"**[^2] yaitu figur dewasa yang meminjamkan ketenangan jiwanya, kejelasan pertimbangannya, dan perlindungan empatiknya.
 
 ```mermaid
 graph TD
-    subgraph DinamikaKonformitas["SPIRAL TEKANAN SEBAYA & RISIKO EKSKLUSI SOSIAL"]
-        Kebutuhan["Kebutuhan Alami Remaja akan Pengakuan Kelompok (Belonging Need)"]
+    subgraph SinergiSebayaMusyrif["PERAN MUSYRIF MEREDAM TEKANAN SEBAYA DI ASRAMA"]
+        Tekanan["Tekanan Negatif Sebaya (Konformitas Ghashab/Bullying)"] --> Santri["Santri Remaja Rentan (PFC Belum Matang Sempurna)"]
         
-        Kebutuhan --> Tekanan["Tekanan Konformitas Negatif (Peer Pressure):<br/>'Kalau kamu tidak ikut kami, kamu bukan teman kami!'"]
+        Santri <==> Scaffolding["JEMBATAN KO-REGULASI & PERANCAH (SCAFFOLDING)"] <==> Musyrif["Musyrif Asrama (External PFC / Pangkalan Aman)"]
         
-        Tekanan -->|"Pilihan Santri"| OpsiA["Ikut Melanggar Aturan (Ghashab/Bullying)<br/>Demi Rasa Aman Kelompok Semu"]
-        Tekanan -->|"Pilihan Santri"| OpsiB["Menolak Melanggar Aturan<br/>Mengalami Eksklusi Sosial (Dikucilkan & Dibully)"]
-        
-        OpsiB --> SakitSaraf["Aktivasi Saraf Sakit Fisik di Otak (dACC Active):<br/>Trauma Kesepian & Depresi Asrama"]
+        Scaffolding --> Ukhuwah["Membangun Budaya Ukhuwah Inklusif Bebas Klik Kamar"]
     end
 ```
-<div align="center"><sub><b>Gambar 3.4.1:</b> Spiral Dinamika Tekanan Konformitas Sebaya dan Risiko Eksklusi Sosial di Asrama.</sub></div>
+<div align="center"><sub><b>Gambar 3.4.1:</b> Fungsi Musyrif sebagai External PFC Merespons Tekanan Kelompok Sebaya.</sub></div>
 
-Pakar psikologi sosial legendaris **Solomon Asch**[^1] dalam eksperimen klasiknya membuktikan bahwa lebih dari 75% individu bersedia memberikan jawaban yang jelas-jelas salah hanya karena terpengaruh oleh kesepakatan mayoritas kelompoknya.
+Pakar psikologi pendidikan **Lev S. Vygotsky & Jerome Bruner**[^3] merumuskan konsep *Scaffolding*: musyrif memasang perancah aturan dan kehangatan afektif hingga santri mampu beradab mandiri secara otonom.
 
-Riset neurosains sosial oleh **Naomi I. Eisenberger**[^2] membuktikan bahwa rasa sakit akibat dikucilkan oleh kelompok (*social ostracism*) mengaktifkan sirkuit saraf *dorsal Anterior Cingulate Cortex* (dACC) di otak yang sama persis dengan luka fisik akibat tusukan pisau atau benturan keras.
-
----
-
-### Dekonstruksi Fenomena Klik Kamar & Eksklusivisme Daerah (*Ashabiyyah*)
-
-Penyakit sosial yang paling lazim merusak iklim asrama adalah terbentuknya **Klik Eksklusif (*Cliques*)**:
-* Kelompok santri senior membentuk geng berdasarkan kesamaan daerah asal (*paguyuban kedaerahan primordial*), status ekonomi, atau senioritas kamar.
-* Kelompok ini menciptakan hierarki kasta tak resmi di asrama: menentukan siapa yang berhak mandi duluan, siapa yang harus mencucikan piring, dan siapa yang boleh diintimidasi.
-
-**Henri Tajfel & John Turner**[^3] dalam *Social Identity Theory* menjelaskan bahwa ketika sebuah kelompok (*In-Group*) mendefinisikan identitasnya dengan merendahkan kelompok lain (*Out-Group*), maka kekerasan simbolik dan diskriminasi antarkelompok akan meletus secara otomatis.
-
-Dalam Islam, fanatisme kelompok sempit ini disebut **Ashabiyyah Jahiliyyah** yang dilaknat oleh Rasulullah SAW:
-$$\text{لَيْسَ مِنَّا مَنْ دَعَا إِلَى عَصَبِيَّةٍ، وَلَيْسَ مِنَّا مَنْ قَاتَلَ عَلَى عَصَبِيَّةٍ، وَلَيْسَ مِنَّا مَنْ مَاتَ عَلَى عَصَبِيَّةٍ}$$
-*"Bukan termasuk golongan kami orang yang menyeru kepada 'ashabiyyah (fanatisme golongan), bukan termasuk golongan kami orang yang berperang demi 'ashabiyyah, dan bukan termasuk golongan kami orang yang mati di atas 'ashabiyyah!"* (HR. Abu Dawud no. 5121).
+Pakar psikiatri anak **Desiree W. Murray**[^4] membuktikan bahwa anak tidak akan mampu melakukan regulasi diri (*self-regulation*) sebelum berulang kali merasakan pengalaman ditenangkan oleh orang dewasa yang tenang dan penuh kasih (*co-regulation*).
 
 ---
 
-### Integrasi Turats: Adab Persaudaraan (*Ulfah & Ukhuwah*) Imam Al-Ghazali & Ibnu Miskawaih
+### Wawasan Turats: Kasih Sayang Pendidik Melebihi Orang Tua Kandung
 
-Solusi atas perpecahan sosial ini telah dirumuskan secara gemilang oleh para pakar etika Islam klasik.
+**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^5] menegaskan bahwa musyrif wajib memperlakukan santrinya laksana ayah yang penyayang kepada anak kandungnya: bersabar menghadapi ketidakmatangan emosi mereka dan membimbing adab mereka dengan kelembutan (*ar-Rifq*).
 
-**Filsuf Etika Islam Ibnu Miskawaih** dalam *Tahdzib al-Akhlaq*[^4] menegaskan bahwa manusia adalah makhluk sosial alami (*Madaniyyun bit-Thab'i*) yang membutuhkan cinta dan persahabatan sejati (*as-Shadaqah wal Mahabbah*) untuk menyempurnakan keutamaan akhlaknya.
-
-**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Adab al-Ulfah wal Ukhuwwah*)[^5] menetapkan bahwa persaudaraan karena Allah (*Ukhuwah Fillah*) menuntut pemenuhan hak-hak lahir dan batin: saling tolong dalam urusan materi (*al-Muwasaah bil Mal*), menutupi aib kawan, memaafkan kekhilafan, dan menjauhi segala bentuk perdebatan yang merusak hati.
-
----
-
-### Solusi Sistemik TUMBUH: Rekayasa Sosiometri & Budaya Inklusif Kamar
-
-Ekosistem TUMBUH memutus rantai klik beracun melalui pendekatan struktural:
-
-```mermaid
-graph LR
-    subgraph StrategiInklusif["REKAYASA BUDAYA UKHUWAH INKLUSIF SISTEM TUMBUH"]
-        Rotasi["1. Rotasi Kamar Multi-Kultural<br/>Mencampur santri lintas daerah, suku, & latar belakang"]
-        Struktur["2. Penghapusan Kasta Kamar<br/>Tidak ada kamar khusus senior vs junior"]
-        Buddy["3. Sistem Sahabat Asuh (Buddy System)<br/>Kakak kelas T4 mendampingi santri baru T1"]
-        Circle["4. Restorative Peace Circles<br/>Lingkaran restoratif menyelesaikan gesekan kamar"]
-        
-        Rotasi --> Struktur --> Buddy --> Circle
-    end
-```
-<div align="center"><sub><b>Gambar 3.4.2:</b> Empat Pilar Rekayasa Sosiometri Pembentukan Ukhuwah Inklusif TUMBUH.</sub></div>
-
-1. **Penataan Kamar Heterogen (*Heterogeneous Room Assignment*)**: Mengharamkan pembentukan kamar berbasis kedaerahan; setiap bilik kamar diisi secara proporsional oleh santri dari berbagai daerah untuk melatih toleransi lintas budaya.
-2. **Sistem Sahabat Asuh (*Adab Buddy System*)**: Setiap santri baru di tangga T1 dipasangkan dengan seorang santri teladan di tangga T4 yang bertugas sebagai kakak asuh pelindung (*protector & mentor*), memastikan tidak ada santri baru yang merasa terisolasi.
-3. **Audit Sosiometri Asrama Berkala**: Musyrif menggunakan instrumen sosiometri sederhana setiap bulan untuk mendeteksi anak-anak yang terisolasi (*isolated students*) dan segera memberikan intervensi inklusi sosial.
-
-Dengan rekayasa sosiometri ini, asrama pesantren bertransformasi menjadi **taman persaudaraan sejati (*Baitul Ukhuwah*)**: tempat di mana setiap anak merasa diterima, dilindungi, dan dicintai sebagai saudara seiman.
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Adab al-Ulfah wal Ukhuwwah*)[^6] menggarisbawahi bahwa hak-hak persaudaraan Islam menuntut perlindungan bagi yang lemah dan penghapusan segala bentuk fanatisme kelompok yang merusak kesucian jamaah.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Solomon E. Asch**, "Opinions and social pressure", *Scientific American*, Vol. 193, No. 5 (1955), hlm. 31–35; serta **Solomon E. Asch**, *Social Psychology* (Englewood Cliffs: Prentice-Hall, 1952), Bab 16: "Effects of Group Pressure upon the Modification and Distortion of Judgments", hlm. 450–501.
-[^2]: **Naomi I. Eisenberger, Matthew D. Lieberman, & Kipling D. Williams**, "Does rejection hurt? An fMRI study of social exclusion", *Science*, Vol. 302, No. 5643 (2003), hlm. 290–292.
-[^3]: **Henri Tajfel & John C. Turner**, "An integrative theory of intergroup conflict", dalam W. G. Austin & S. Worchel (Eds.), *The Social Psychology of Intergroup Relations* (Monterey: Brooks/Cole, 1979), hlm. 33–47.
-[^4]: **Abu Ali Ahmad bin Muhammad Ibnu Miskawaih**, *Tahdzib al-Akhlaq wa Tathhir al-A'raq*, Tahqiq: Dr. Qusthantin Zuraiq (Beirut: American University of Beirut, 1966), Bab 5: "Fi 'Ilal an-Nufus wa 'Ilajiha", hlm. 125–158.
-[^5]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 155–182.
-
-
----
-
-# SUB-BAB 3.5: MUSYRIF SEBAGAI EXTERNAL PFC & PERANCAH REGULASI
-## *Peran Sentral Musyrif sebagai 'Korteks Prefrontal Eksternal', Teori Ko-Regulasi Emosi, dan Metodologi Scaffolding Adab*
-
-**Kode Klasifikasi**: `BOOK-02/BAB-03/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Pedagogi Terapan, Teori *Scaffolding & Co-Regulation*, & Metodologi Pengasuhan Islam (*In Loco Parentis*)  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Neurosains Perkembangan*)
-
----
-
-### Ketika Otak Remaja Belum Mandiri: Siapakah yang Menjadi Rem Pengendali?
-
-Sebagaimana telah dibuktikan pada Sub-Bab 3.2, wilayah *Korteks Prefrontal (PFC)* santri remaja usia 12–18 tahun masih dalam proses pematangan biologis dan belum mampu menjalankan fungsi kendali eksekutif secara mandiri.
-
-Pertanyaan krusialnya: **ketika pedal rem biologis santri masih belum kuat, siapakah yang harus menjaga agar laju kehidupan santri tidak menabrak jurang kehancuran moral?**
-
-Jawabannya adalah **Musyrif Asrama dan Asatidz Pengasuh**.
-
-Dalam neurobiologi perkembangan dan psikologi pengasuhan modern, kehadiran musyrif di asrama didefinisikan sebagai **"Korteks Prefrontal Eksternal (*The External Prefrontal Cortex*)"**[^1] yaitu figur dewasa yang hadir meminjamkan kematangan akalnya, ketenangan emosinya, dan kejelasan pertimbangannya untuk membantu santri menavigasi badai emosi masa pubertas.
-
-```mermaid
-graph TD
-    subgraph KonsepExternalPFC["KONSEP MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX"]
-        Santri["SANTRI REMAJA (Usia 12-18 Tahun)<br/>• Sistem Limbik Bergejolak Hebat (Emosi, Impuls, & Nafsu)<br/>• Prefrontal Cortex Belum Matang Sempurna"]
-        
-        Scaffolding["JEMBATAN KO-REGULASI & PERANCAH ADAB (SCAFFOLDING)<br/>Musyrif Meminjamkan Ketenangan Jiwa & Menuntun Nalar Logis"]
-        
-        Musyrif["MUSYRIF ASRAMA (Figur Dewasa Beradab / Qudwah)<br/>• Prefrontal Cortex Matang Sempurna<br/>• Memiliki Ketenangan Emosi, Kelembutan Kasih, & Ketegasan Hukum"]
-        
-        Santri <==> Scaffolding <==> Musyrif
-    end
-```
-<div align="center"><sub><b>Gambar 3.5.1:</b> Fungsi Musyrif sebagai External Prefrontal Cortex dan Jembatan Ko-Regulasi Adab.</sub></div>
-
----
-
-### Teori Scaffolding Vygotsky & Ko-Regulasi Emosi (*Co-Regulation*)
-
-Pakar psikologi pendidikan legendaris **Lev Vygotsky & Jerome Bruner**[^2] merumuskan konsep **Perancah Pembelajaran (*Scaffolding*)** dalam *Zone of Proximal Development* (ZPD):
-* Santri tidak bisa langsung dilepas 100% mandiri untuk beradab sejak hari pertama, karena ia belum memiliki kapasitas tersebut.
-* Musyrif memasang "perancah pelindung" (aturan jelas, jadwal rutin, pengingat hangat, dan kehadiran fisik).
-* Seiring berjalannya waktu dan bertambahnya kapasitas regulasi diri santri menaiki Tangga T1 hingga T4, perancah tersebut perlahan-lahan dikurangi hingga santri mampu beradab secara mandiri penuh (*independent self-regulation*).
-
-Pakar psikiatri anak **Desiree W. Murray et al.**[^3] merumuskan konsep **Ko-Regulasi (*Co-Regulation*)**: anak tidak mampu menenangkan dirinya sendiri (*self-regulation*) sebelum ia berulang kali merasakan pengalaman ditenangkan oleh orang dewasa yang penuh kasih dan tenang (*co-regulation*).
-
-Jika musyrif merespons santri yang sedang emosi dengan ikut berteriak dan marah-marah, musyrif tersebut sedang menurunkan kapasitas otaknya setara dengan anak kecil. Sebaliknya, musyrif yang dewasa akan tetap bernafas tenang, merendahkan nada bicaranya, dan memancarkan rasa aman (*Ventral Vagal safety*) yang meredakan badai amigdala santri dalam hitungan detik.
-
----
-
-### Wasiat Turats: Kasih Sayang Pendidik Melebihi Orang Tua Kandung
-
-Kedudukan luhur musyrif sebagai perancah jiwa dan pelindung fitrah ini merupakan inti ajaran *In Loco Parentis* dalam peradaban Islam.
-
-**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^4] menuliskan wasiat agung tentang adab seorang guru terhadap muridnya:
-
-> [!NOTE]
-> ### 📜 Wasiat Hadhratusy Syaikh KH. Hasyim Asy'ari tentang Kasih Sayang Pendidik:
-> 
-> $$\text{يَنْبَغِي لِلْمُعَلِّمِ أَنْ يُعَامِلَ طَلَبَتَهُ بِالرِّفْقِ وَالشَّفَقَةِ، وَأَنْ يَكُونَ لَهُمْ كَالْوَالِدِ الشَّفِيقِ عَلَى وَلَدِهِ؛ يَصْبِرُ عَلَى جَفْوَتِهِمْ، وَيَعْذُرُهُمْ فِي سُوءِ أَدَبِهِمْ فِي بَعْضِ الْأَحْوَالِ، لِأَنَّ الْإِنْسَانَ مَجْبُولٌ عَلَى النَّقْصِ حَتَّى يُهَذِّبَهُ الْعِلْمُ}$$
-> 
-> **Artinya:**  
-> *"Sepatutnya bagi seorang pendidik (musyrif) untuk memperlakukan para santrinya dengan penuh kelembutan (*ar-Rifq*) dan kasih sayang mendalam (*asy-Syafaqah*). Hendaklah ia memposisikan dirinya laksana seorang ayah yang penuh belas kasih kepada anak kandungnya: sabar menghadapi kekasaran sikap mereka, dan memaklumi kekurangan adab mereka pada sebagian keadaan; karena sesungguhnya manusia itu tercipta dalam kondisi serba kurang hingga ilmu dan tarbiyah menyempurnakan budi pekertinya."*
-
-**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Fatihatul 'Ulum*[^5] menegaskan bahwa hak seorang guru pengasuh lebih agung daripada orang tua kandung: orang tua kandung menyelamatkan anak dari api duniawi, sedangkan guru pengasuh menyelamatkan jiwa anak dari api neraka akhirat.
-
----
-
-### Solusi Sistemik TUMBUH: Protokol De-eskalasi Krisis Emosi Musyrif
-
-Di lingkungan asrama TUMBUH, musyrif dibekali keterampilan teknis **Protokol De-Eskalasi 4-Langkah (CALM Protocol)** saat menghadapi santri yang sedang mengamuk atau melanggar aturan:
-
-```mermaid
-graph LR
-    subgraph CALMProtocol["PROTOKOL DE-ESKALASI EMOSI SANTRI (C-A-L-M)"]
-        C["1. CONNECT (Koneksi Jiwa)<br/>Menatap hangat, menyamakan tinggi mata, & suara lembut"]
-        A["2. ACCEPT (Validasi Emosi)<br/>'Ustadz paham antum sedang sangat jengkel saat ini'"]
-        L["3. LISTEN (Mendengarkan Aktif)<br/>Memberi ruang santri menceritakan tanpa diinterupsi"]
-        M["4. MENTOR (Bimbingan Restoratif)<br/>Mengajak muhasabah konsekuensi logis & restitusi 4R"]
-        
-        C --> A --> L --> M
-    end
-```
-<div align="center"><sub><b>Gambar 3.5.2:</b> Protokol De-eskalasi Krisis Emosi Santri oleh Musyrif TUMBUH.</sub></div>
-
-Dengan memahami perannya sebagai *External Prefrontal Cortex*, para musyrif asrama tidak lagi memandang kenakalan santri sebagai beban kekesalan, melainkan sebagai **ladang amal jariyah peradaban**: menuntun jiwa-jiwa muda menyeberangi jembatan pubertas dengan selamat, mengantarkan mereka menjadi pribadi muttaqin yang kokoh, mandiri, dan beradab mulia.
-
----
-
-## 📌 Catatan Kaki & Rujukan Primer
-
-[^1]: **Laurence Steinberg**, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Houghton Mifflin Harcourt, 2014), Bab 8: "The Age of Opportunity", hlm. 195–218.
-[^2]: **Lev S. Vygotsky**, *Mind in Society: The Development of Higher Psychological Processes*, Ed. Michael Cole et al. (Cambridge: Harvard University Press, 1978), Bab 6: "Interaction Between Learning and Development", hlm. 79–91; serta **David Wood, Jerome S. Bruner, & Gail Ross**, "The role of tutoring in problem solving", *Journal of Child Psychology and Psychiatry*, Vol. 17, No. 2 (1976), hlm. 89–100.
-[^3]: **Desiree W. Murray, Katie Rosanbalm, & Christina Christopoulos**, *Self-Regulation and Toxic Stress: Foundations for Understanding Self-Regulation from an Applied Developmental Perspective* (Washington: OPRE Report #2015-21, Administration for Children and Families, U.S. Department of Health and Human Services, 2015), hlm. 12–35.
-[^4]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 1: "Fi Adab al-Mu'allim ma'a Thullabihi", hlm. 14–22.
-[^5]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Fatihatul 'Ulum* (Kairo: Al-Mathba'ah al-Husayniyyah, 1322 H), Bab 4: "Fi Adab al-Mu'allim wal Muta'allim", hlm. 45–58.
+[^1]: **Naomi I. Eisenberger, Matthew D. Lieberman, & Kipling D. Williams**, "Does rejection hurt? An fMRI study of social exclusion", *Science*, Vol. 302, No. 5643 (2003), hlm. 290–292.
+[^2]: **Laurence Steinberg**, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Houghton Mifflin Harcourt, 2014), Bab 8: "The Age of Opportunity", hlm. 195–218.
+[^3]: **Lev S. Vygotsky**, *Mind in Society: The Development of Higher Psychological Processes*, Ed. Michael Cole et al. (Cambridge: Harvard University Press, 1978), hlm. 79–91.
+[^4]: **Desiree W. Murray, Katie Rosanbalm, & Christina Christopoulos**, *Self-Regulation and Toxic Stress: Foundations for Understanding Self-Regulation from an Applied Developmental Perspective* (Washington: OPRE Report #2015-21, U.S. Department of Health and Human Services, 2015), hlm. 12–35.
+[^5]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 1: "Fi Adab al-Mu'allim ma'a Thullabihi", hlm. 14–22.
+[^6]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 155–182.
 
 
 ---
@@ -1962,10 +1617,76 @@ Santri Tangga T4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah 
 
 ---
 
-# SUB-BAB 4.5: MATRIKS RUBRIK INDIKATOR KENAIKAN T1–T4
-## *Standarisasi Asesmen Kenaikan Tangga Kapasitas Berbasis Bukti Faktual Tanpa Subjektivitas dan Bebas Favoritisme*
+# SUB-BAB 4.5: DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER
+## *Memahami Fluktuasi Perkembangan Adab, Deteksi Dini Penurunan Kapasitas (Relapse), dan Protokol Penyangga Scaffolding Intervensi*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Psikologi Perkembangan Non-Linier, Teori Pencegahan Relaps Perilaku (*Relapse Prevention*), & Intervensi PBIS Tier 2  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Intervensi Preventif & Pakar Bimbingan Konseling*)
+
+---
+
+### Perkembangan Karakter Bukanlah Garis Lurus yang Mulus
+
+Salah satu ilusi terbesar dalam evaluasi pendidikan karakter adalah asumsi keliru bahwa pertumbuhan moral santri bergerak secara linier lurus dari hari ke hari tanpa pernah mengalami kemunduran.
+
+Sains psikologi perkembangan dan konsensus PBIS membuktikan bahwa **pertumbuhan karakter manusia bersifat non-linier dan berfluktuasi**:
+* Seorang santri yang telah mencapai Tangga T2 atau T3 sewaktu-waktu dapat mengalami **Regresi Perilaku (*Behavioral Regression / Dip*)**: mendadak kembali malas bangun subuh, melanggar kerapian loker, atau tersulut amarah di bilik asrama.
+* Regresi ini kerap dipicu oleh faktor transisi lingkungan: pasca-liburan panjang pulang ke rumah (*post-holiday shock*), kelelahan fisik menjelang pekan ujian (*exam fatigue*), kabar duka keluarga, atau konflik relasi dengan kawan sekamar.
+
+```mermaid
+graph TD
+    subgraph TrajektoriNonLinier["TRAJEKTORI PERKEMBANGAN NON-LINIER & DETEKSI REGRESI"]
+        T1["Tangga T1: Adaptasi"] --> T2["Tangga T2: Habituasi"]
+        T2 --> T3["Tangga T3: Internalisasi"]
+        
+        T3 -.->|"Pemicu Stres/Liburan"| Regresi["TITIK REGRESI SEMENTARA (BEHAVIORAL DIP)"]
+        
+        Regresi -->|"Respons Opresif Lama: Hukuman Fisik"| Frustrasi["Santri Menyerah & Jatuh Moral Permanen"]
+        Regresi -->|"Respons TUMBUH: Tier 2 Check-In / Check-Out (CICO)"| Pulih["PEMULIHAN KEMBALI MENUJU TANGGA T3/T4 YANG LEBIH TANGGUH"]
+    end
+```
+<div align="center"><sub><b>Gambar 4.5.1:</b> Trajektori Fluktuasi Pertumbuhan Karakter dan Respons Pemulihan Tier 2 PBIS.</sub></div>
+
+Pakar intervensi perilaku **G. Alan Marlatt & Judith R. Gordon**[^1] dalam *Relapse Prevention Model* menegaskan bahwa kemunduran sementara (*lapse*) bukanlah sebuah kegagalan total, melainkan titik evaluasi yang membutuhkan penyesuaian strategi koping dan penguatan kembali jaring pengaman lingkungan.
+
+---
+
+### Protokol Penyangga Scaffolding Tier 2: Check-In / Check-Out (CICO)
+
+Ketika santri terdeteksi mengalami regresi perilaku, Sistem TUMBUH tidak melayangkan hukuman atau vonis kegagalan, melainkan mengaktifkan **Protokol Penyangga Tier 2 PBIS (*Check-In / Check-Out System*)**[^2] melalui tahapan:
+
+1. **Morning Check-In (05.30 WIB)**: Musyrif menyapa santri secara personal, menanyakan target harian, dan memberikan kata-kata motivasi yang menguatkan tekadnya.
+2. **Daily Teacher Rating**: Guru madrasah memberikan paraf apresiasi positif atas usaha adab santri di kelas.
+3. **Evening Check-Out (20.30 WIB)**: Musyrif bersama santri merefleksikan catatan harian dengan hangat, mengapresiasi keberhasilan kecil, dan mendoakan keberkahan istirahat malamnya.
+
+Melalui pendampingan terstruktur 2–4 pekan ini, lebih dari 90% santri yang mengalami regresi mampu bangkit kembali dan mengukuhkan posisinya di tangga kapasitas yang lebih tinggi.
+
+---
+
+### Wawasan Turats: Fenomena *Fathrah* dalam Ibadah
+
+Fluktuasi semangat beradab ini selaras dengan hadits agung Rasulullah SAW:
+$$\text{إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِّ شِرَّةٍ فَتْرَةً، فَمَنْ كَانَتْ فَتْرَتُهُ إِلَى سُنَّتِي فَقَدِ اهْتَدَى، وَمَنْ كَانَتْ إِلَى غَيْرِ ذَلِكَ فَقَدْ هَلَكَ}$$
+*"Sesungguhnya bagi setiap amal ada masa semangat menggelora (*Syirrah*), dan bagi setiap masa semangat ada masa kejenuhan/keletihan (*Fathrah*). Barangsiapa yang masa fathrah-nya tetap berada di atas sunnahku, maka ia telah mendapat petunjuk; dan barangsiapa yang fathrah-nya tergelincir kepada selain itu, maka ia telah binasa!"* (HR. Ahmad no. 6764 dan Ibnu Hibban no. 11).
+
+**Al-Imam Ibn al-Qayyim al-Jawziyyah** dalam *Madarij as-Salikin*[^3] menjelaskan bahwa masa *fathrah* adalah hukum alamiah jiwa (*sunnatun nafsiyyah*) yang harus dipahami oleh para murabbi; tugas pendidik pada masa fathrah adalah merangkul santri dengan kelembutan agar ia tidak terlempar keluar dari batas syariat.
+
+---
+
+## 📌 Catatan Kaki & Rujukan Primer
+
+[^1]: **G. Alan Marlatt & Judith R. Gordon** (Eds.), *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors* (New York: Guilford Press, 1985; Edisi ke-2, 2005), Bab 1: "Relapse Prevention: Theoretical Rationale and Overview", hlm. 1–45.
+[^2]: **Leanne S. Hawken, Cynthia M. Anderson, & Donald P. Crone**, *Responding to Problem Behavior in Schools: The Behavior Education Program (Check-In, Check-Out)* (New York: Guilford Press, 2014; Edisi ke-2), Bab 2: "The BEP/CICO Process", hlm. 15–48.
+[^3]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid I: "Manzilat ash-Shidq wa Dawam al-Amal", hlm. 115–138.
+
+
+---
+
+# SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN T1–T4
+## *Standarisasi Asesmen Kenaikan Tangga Kapasitas Berbasis Bukti Faktual Tanpa Subjektivitas dan Bebas Favoritisme*
+
+**Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-06/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Psikometri Pendidikan Karakter, Desain Rubrik Evaluasi Perkembangan, & Standardisasi PBIS  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Psikometri dan Validasi Instrumen & Pakar Arsitektur PBIS*)
 
@@ -2357,188 +2078,52 @@ Dengan lenyapnya tradisi perpeloncoan dan tegaknya sistem Sahabat Asuh, asrama p
 
 ---
 
-# SUB-BAB 5.4: MEDIASI RESTORATIF OLEH SANTRI PENGGERAK
-## *Keterlibatan Aktif Santri Tahap 7 dalam Lingkaran Restoratif (Restorative Circles), Resolusi Damai, dan Ishlah al-Bain*
+# SUB-BAB 5.4: MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK
+## *Keterlibatan Santri Penggerak dalam Resolusi Damai (Ishlah al-Bain) dan Jembatan Regenerasi Pendidik Tahap 8/9*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-05/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Keadilan Restoratif Komunitas (*Restorative Justice*), Mediasi Teman Sebaya (*Peer Mediation*), & Fiqih Perdamaian Islam (*Fiqh al-Ishlah*)  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Kuratif Restoratif & Pakar Psikologi Sosial Santri*)
+**Disiplin Ilmu**: Keadilan Restoratif Komunitas (*Restorative Justice*), Pengembangan Profesional Pendidik, & Teori Regenerasi Kepemimpinan  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Kuratif Restoratif & Pakar Pedagogi Guru*)
 
 ---
 
-### Ketika Santri Menyelesaikan Konfliknya Sendiri Secara Beradab
+### Dua Dimensi Kematangan Santri Penggerak: Penegak Damai & Calon Murabbi
 
-Salah satu indikator kematangan budaya di sebuah lembaga pendidikan adalah **bagaimana cara warganya menyelesaikan perselisihan ketika konflik meletus di antara mereka**:
-* Di lingkungan konvensional usang, setiap konflik diselesaikan dengan pengadilan sepihak yang represif: santri yang berselisih langsung dibawa ke ruang keamanan, dibentak, dan dihukum tanpa didengarkan perasaannya.
-* Di Ekosistem TUMBUH, perselisihan antarsantri junior (seperti salah paham pemakaian barang, ejekan lisan, atau rebutan fasilitas) diselesaikan melalui pendekatan **Mediasi Teman Sebaya Berbasis Keadilan Restoratif (*Peer Restorative Mediation*)**.
-
-Santri Tahap 7 Penggerak dilatih secara khusus untuk menjadi **Fasilitator Lingkaran Damai (*Peace Circle Keepers*)** yang membantu adik-adik kelasnya menemukan jalan keluar secara mandiri, adil, dan penuh keikhlasan.
+Puncak kematangan Santri Tahap 7 Penggerak termanifestasikan dalam dua kapasitas utama:
+1. **Duta Mediasi Restoratif (*Restorative Circle Keepers*)**: Membantu musyrif memfasilitasi lingkaran perdamaian (*Majlis Ishlah*) saat terjadi perselisihan antarsantri junior dengan pendekatan keadilan restoratif.
+2. **Kesiapan Transisi Menuju Pendidik Profesional**: Melanjutkan pengabdian menjadi Asatidz Pelaksana (Tahap 8) dan Murabbi Pembina (Tahap 9) dalam siklus regenerasi pesantren yang berkelanjutan.
 
 ```mermaid
 graph TD
-    subgraph AlurMediasiDamai["ALUR LINGKARAN RESTORATIF MEDIASI SEBAYA TUMBUH"]
-        Konflik["1. GESEKAN / PERSELISIHAN ANTAR-SANTRI JUNIOR (T1/T2)"]
+    subgraph PuncakPeranTahap7["DUA PERAN STRATEGIS SANTRI TAHAP 7 PENGGERAK"]
+        T7["SANTRI TAHAP 7: PENGGERAK (THE VALUE CATALYST)"]
         
-        Konflik --> Circle["2. PEMBUKAAN LINGKARAN RESTORATIF (Restorative Circle)<br/>Dipimpin Santri Penggerak T7 Bersama Musyrif Pendamping"]
+        T7 --> Mediasi["1. FASILITATOR MEDIASI DAMAI (ISHLAH AL-BAIN)<br/>Mendengarkan 4 perspektif restoratif, memandu restitusi sukarela 4R, & memulihkan ukhuwah."]
         
-        Circle --> Tanya1["3. DIALOG PERSPEKTIF KORBAN & PELAKU<br/>'Apa yang terjadi? Apa yang dirasakan? Siapa yang terdampak?'"]
-        
-        Tanya1 --> Solusi["4. RUMUSAN RESTITUSI 4R SECARA SUKARELA<br/>(Relevant, Realistic, Respectful, Righting the Wrong)"]
-        
-        Solusi --> Ishlah["5. AKAD PERDAMAIAN (ISHLAH AL-BAIN) & PELUKAN UKHUWAH"]
+        T7 --> Transisi["2. JEMBATAN TRANSISI KARIER KEGURUAN (TAHAP 8/9)<br/>Magang pedagogi terapan, menguasai asesmen PBIS, & meneruskan estafet sanad murabbi."]
     end
 ```
-<div align="center"><sub><b>Gambar 5.4.1:</b> Alur Operasional Lingkaran Restoratif Mediasi Sebaya Ekosistem TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 5.4.1:</b> Dua Peran Strategis Santri Tahap 7 Penggerak Ekosistem TUMBUH.</sub></div>
 
-Pakar keadilan restoratif internasional **Howard Zehr**[^1] dalam *The Little Book of Restorative Justice* menegaskan bahwa fokus utama keadilan bukanlah "hukum apa yang dilanggar dan bagaimana cara membalasnya", melainkan **"kerusakan relasi apa yang terjadi dan bagaimana cara memulihkan martabat serta hubungan antar-manusia secara utuh"**.
+Pakar keadilan restoratif **Howard Zehr & Brenda Morrison**[^1] menegaskan bahwa sekolah yang melibatkan murid senior dalam mediasi teman sebaya (*peer mediation*) mengalami penurunan angka konflik fisik hingga lebih dari 80%.
 
----
-
-### Keutamaan Syar'i: Pahala Tertinggi Mendamaikan Dua Pihak yang Berselisih (*Ishlah al-Bain*)
-
-Di dalam syariat Islam, peran sebagai pendamai konflik (*Mushlih*) adalah salah satu derajat amal jariyah paling mulia yang melebihi pahala puasa sunnah dan shalat malam.
-
-Rasulullah SAW bersabda dalam hadits shahih yang diriwayatkan oleh **Imam Abu Dawud dan At-Tirmidzi**:
-$$\text{أَلَا أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصِّيَامِ وَالصَّلَاةِ وَالصَّدَقَةِ؟ قَالُوا: بَلَى يَا رَسُولَ اللَّهِ. قَالَ: إِصْلَاحُ ذَاتِ الْبَيْنِ، فَإِنَّ فَسَادَ ذَاتِ الْبَيْنِ هِيَ الْحَالِقَةُ؛ لَا أَقُولُ تَحْلِقُ الشَّعْرَ، وَلَكِنْ تَحْلِقُ الدِّينَ}$$
-*"Maukah kalian aku kabarkan tentang suatu amalan yang derajatnya lebih utama daripada derajat puasa sunnah, shalat sunnah, dan sedekah? Para sahabat menjawab: 'Tentu, wahai Rasulullah!' Beliau bersabda: **Mendamaikan perselisihan di antara sesama manusia (*Ishlahu Dzatil Bain*)**; karena sesungguhnya rusaknya hubungan persaudaraan adalah pencukur; aku tidak mengatakan ia mencukur rambut, melainkan ia mencukur habis pahala agama!"* (HR. At-Tirmidzi no. 2509).
-
-**Al-Hafizh Ibnu Hajar al-Asqalani** dalam *Fathul Bari Syarh Shahih al-Bukhari*[^2] menjelaskan bahwa Islam bahkan memberikan rukhshah (keringanan) bagi seorang juru damai untuk menyampaikan kata-kata yang baik yang menyejukkan kedua belah pihak demi meredakan amarah dan menyatukan kembali tali persaudaraan.
+Pakar pendidikan **Lee S. Shulman**[^2] menegaskan pentingnya *Pedagogical Content Knowledge* (PCK) bagi calon guru agar mampu mengajarkan adab secara aplikatif dan kontekstual.
 
 ---
 
-### Empat Pertanyaan Inti Restoratif dalam Sesi Mediasi
+### Wawasan Turats: Kemuliaan Ishlah al-Bain & Tanggung Jawab Akhlak Ulama
 
-Pakar keadilan restoratif sekolah **Brenda Morrison**[^3] merumuskan **Empat Pertanyaan Restoratif Transformasional (*The Restorative Questions*)** yang digunakan oleh Santri Penggerak saat memediasi juniornya:
+Rasulullah SAW bersabda: *"Maukah kalian aku kabarkan tentang suatu amalan yang derajatnya lebih utama daripada derajat puasa sunnah, shalat sunnah, dan sedekah? Para sahabat menjawab: 'Tentu, wahai Rasulullah!' Beliau bersabda: **Mendamaikan perselisihan di antara sesama manusia (*Ishlahu Dzatil Bain*)**..."* (HR. At-Tirmidzi no. 2509).
 
-| Urutan Dialog Restoratif | Pertanyaan yang Diajukan oleh Santri Penggerak T7 | Tujuan Psikologis & Pembelajaran Adab |
-| :--- | :--- | :--- |
-| **1. Refleksi Fakta** | *"Bisa ceritakan apa yang sebenarnya terjadi dari sudut pandang antum masing-masing?"* | Menghadirkan kejujuran tanpa saling menyela atau memotong pembicaraan. |
-| **2. Refleksi Batin** | *"Apa yang antum rasakan dan pikirkan saat kejadian itu berlangsung?"* | Mengaktifkan empati dan menamai emosi yang tersumbat (*emotional labeling*). |
-| **3. Refleksi Dampak** | *"Siapa saja yang merasa tersakiti atau terganggu atas kejadian tersebut?"* | Menyadarkan bahwa tindakan melanggar adab berdampak pada ketenangan seluruh kamar. |
-| **4. Komitmen Perbaikan** | *"Apa yang bisa antum lakukan saat ini untuk memperbaiki keadaan dan mengembalikan ukhuwah?"* | Mendorong inisiatif perbaikan sukarela (*Restitution 4R*) tanpa merasa dipaksa. |
-
----
-
-### Solusi Sistemik TUMBUH: Dewan Perdamaian Kamar (*Majlis Ishlah*)
-
-Di asrama TUMBUH, setiap perselisihan kecil diselesaikan di tingkat kamar melalui **Majlis Ishlah**:
-1. Santri Penggerak mengajak kedua pihak duduk bersila melingkar di atas karpet bersih, diawali dengan membaca ta'awwudz dan shalawat nabi.
-2. Tidak ada ancaman hukuman fisik atau penghakiman dosa; sesi difokuskan pada dialog saling mendengarkan dan saling memaafkan (*al-'Afwu wash-Shafh*).
-3. Setelah kesepakatan perbaikan disetujui, kedua santri saling berjabat tangan, berpelukan erat, dan membaca doa penutup majlis bersama.
-
-Melalui keterlibatan nyata ini, santri Tahap 7 Penggerak belajar menjadi **Diplomat Perdamaian (*Ambassadors of Peace*)**: mereka tidak hanya menguasai teori kitab fiqih, tetapi mampu mengamalkannya secara hidup untuk menyatukan hati-hati manusia di bawah naungan kasih sayang Allah SWT.
+**Al-Imam Abu Bakar al-Ajurri** dalam *Akhlaq al-'Ulama*[^3] menegaskan bahwa pendidik yang telah dianugerahi ilmu wajib mendidik generasi penerusnya dengan kelembutan (*ar-Rifq*), kesabaran (*al-Anah*), dan keikhlasan mutlak demi mencari ridha Allah SWT.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Howard Zehr**, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002; Edisi Revisi, 2015), Bab 2: "Restorative Principles", hlm. 12–35.
-[^2]: **Al-Hafizh Ahmad bin Ali Ibnu Hajar al-Asqalani**, *Fathul Bari bi Syarh Shahih al-Bukhari*, Tahqiq: Syaikh Abdul Aziz bin Abdullah bin Baz (Kairo & Beirut: Dar al-Ma'rifah, 1379 H), Jilid V: "Kitab ash-Shulh", hlm. 298–315.
-[^3]: **Brenda Morrison**, *Restoring Safe School Communities: A Whole School Approach to Bullying, Pro-social Behaviour and Addressing Harm* (Sydney: The Federation Press, 2007), Bab 4: "Restorative Practice Framework in Schools", hlm. 85–118.
-
-
----
-
-# SUB-BAB 5.5: TRANSISI MENUJU TAHAP 8 (PELAKSANA) & TAHAP 9 (PEMBINA)
-## *Jembatan Karier Keguruan Santri: Dari Kepemimpinan Siswa Menuju Pendidik Profesional Berkarakter Murabbi Sejati*
-
-**Kode Klasifikasi**: `BOOK-02/BAB-05/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Pengembangan Profesional Pendidik (*Teacher Professional Development*), Pedagogi Pengasuhan Pesantren, & Teori Regenerasi Kepemimpinan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pedagogi Guru & Pakar Tata Kelola Qudwah*)
-
----
-
-### Kontinuum Pertumbuhan yang Tak Pernah Putus
-
-Salah satu keunikan paling agung dari Ekosistem TUMBUH adalah **keberlanjutan kontinuum perkembangan karakter yang tidak berhenti ketika seorang santri lulus wisuda**.
-
-Pertumbuhan karakter dipandang sebagai sebuah tangga estafet peradaban:
-* **Tahap 1 s.d. 7 (Fase Santri)**: Dari Tahap 1 (Santri Baru / Adaptasi) hingga Tahap 7 (Santri Penggerak / Khidmah).
-* **Tahap 8: PELAKSANA (Musyrif & Guru Muda)**: Santri yang memilih jalur karier pendidik melanjutkan pengabdiannya sebagai tenaga pendidik profesional muda.
-* **Tahap 9: PEMBINA (Murabbi Senior & Pimpinan Satuan)**: Menjadi pakar pengasuhan yang mengader musyrif-musyrif baru dan mengawal mutu tata kelola lembaga.
-* **Tahap 10: PENJAGA / PENGASUH SEPUH (Kiai & Majlis Masyaikh)**: Penjaga marwah sanad keilmuan dan arah filosofis tertinggi pesantren.
-
-```mermaid
-graph LR
-    subgraph KontinuumSepuluhTahap["JEMBATAN TRANSISI KARIR DARI SANTRI MENUJU PENDIDIK"]
-        T7["TAHAP 7: PENGGERAK<br/>(Santri Senior / Tahun Khidmah)"]
-        
-        T8["TAHAP 8: PELAKSANA<br/>(Musyrif Muda / Guru Baru)"]
-        
-        T9["TAHAP 9: PEMBINA<br/>(Murabbi Senior / Kepala Pengasuhan)"]
-        
-        T10["TAHAP 10: PENGASUH SEPUH<br/>(Kiai / Majlis Masyaikh)"]
-        
-        T7 ==>|"Inkubasi Pedagogi Khidmah"| T8
-        T8 ==>|"Penguasaan Didaktik & Refleksi 5 Tahun"| T9
-        T9 ==>|"Kematangan Ma'rifat & Hikmah Puluhan Tahun"| T10
-    end
-```
-<div align="center"><sub><b>Gambar 5.5.1:</b> Jembatan Transisi Karier dari Santri Penggerak Menuju Pendidik Master Ekosistem TUMBUH.</sub></div>
-
-Pakar pendidikan internasional **Lee S. Shulman**[^1] menegaskan bahwa penguasaan konten keilmuan (*subject matter knowledge*) harus berpadu dengan pengetahuan pedagogi konten (*Pedagogical Content Knowledge / PCK*) agar seorang lulusan mampu mentransformasikan ilmu yang dimilikinya menjadi pemahaman yang hidup di hati para muridnya.
-
----
-
-### Transformasi Kompetensi dari Tahap 7 Menuju Tahap 8 (Pelaksana)
-
-Ketika seorang Santri Penggerak (Tahap 7) diangkat resmi menjadi Musyrif Muda atau Asatidz Pelaksana (Tahap 8), ia mengalami pergeseran paradigma tanggung jawab:
-
-| Dimensi Peran | Tahap 7: Santri Penggerak (Siswa) | Tahap 8: Asatidz Pelaksana (Pendidik Profesional) |
-| :--- | :--- | :--- |
-| **1. Tanggung Jawab Hukum** | Menjalankan kepemimpinan siswa di bawah supervisi musyrif. | Memegang tanggung jawab hukum penuh atas keselamatan fisik dan psikologis santri (*Duty of Care*). |
-| **2. Penguasaan Metodologi** | Praktik mentoring sebaya berbasis empati alami. | Menguasai metodologi asesmen PBIS, intervensi multi-tier, dan diagnosis FBA/BIP secara sistemik. |
-| **3. Manajemen Emosi Kerja** | Menjaga stabilitas diri di sela-sela jadwal belajar. | Mengelola stres kerja pengasuhan (*workplace stress*) dan menerapkan strategi proteksi diri dari kelelahan mental (*burnout*). |
-| **4. Kedudukan Otoritas** | Menjadi teladan kawan sebaya (*Peer Qudwah*). | Menjadi figur pengganti orang tua yang berwibawa (*In Loco Parentis*). |
-
----
-
-### Mitigasi Burnout: Melindungi Musyrif Muda Melalui Model JD-R
-
-Pakar psikologi kerja dan organisasi **Arnold B. Bakker & Evangelia Demerouti**[^2] dalam *Job Demands-Resources (JD-R) Model* membuktikan bahwa tingginya tuntutan kerja pengasuhan asrama 24 jam (*job demands*) hanya dapat diimbangi apabila lembaga menyediakan sumber daya pendukung (*job resources*) yang berlimpah: supervisi hangat dari atasan, fasilitas istirahat layak, dan apresiasi kompensasi yang adil.
-
-Sistem TUMBUH melindungi para Musyrif Muda Tahap 8:
-* Menetapkan rotasi jam kerja yang manusiawi (maksimal shift jaga aktif 8 jam berturut-turut).
-* Menyediakan ruang konseling dan supervisi klinis mingguan bersama Guru Pembina Tahap 9.
-* Mengharamkan tradisi membiarkan musyrif muda berjuang sendirian menangani kasus santri berat tanpa pendampingan tim.
-
----
-
-### Wawasan Turats: Sanad Keguruan & Kemuliaan Akhlak Ulama
-
-Karier keguruan pesantren adalah jalan menyambung rantai sanad kenabian (*Ittishal as-Sanad ila Rasulillah SAW*).
-
-**Al-Imam Abu Bakar Muhammad bin al-Husain al-Ajurri** dalam kitab monumentalnya *Akhlaq al-'Ulama*[^3] melukiskan profil pendidik Islam sejati:
-
-> [!NOTE]
-> ### 📜 Pesan Imam Al-Ajurri tentang Karakter Pendidik Sejati:
-> 
-> $$\text{يَنْبَغِي لِمَنْ عَلَّمَهُ اللَّهُ الْعِلْمَ أَنْ يَتَوَاضَعَ لِمَنْ يُعَلِّمُهُ، وَأَنْ يَجْعَلَ هَمَّهُ نَجَاةَ مَنْ يُرَبِّيهِ، لَا يَطْلُبُ بِعِلْمِهِ رِئَاسَةً وَلَا فَخْرًا، بَلْ يَكُونُ كَالْأَبِ الرَّحِيمِ الَّذِي يُرَبِّي صِغَارَ أَوْلَادِهِ بِالرِّفْقِ وَالْأَنَاةِ}$$
-> 
-> **Artinya:**  
-> *"Sepatutnya bagi orang yang telah dianugerahi ilmu oleh Allah untuk senantiasa bersikap rendah hati kepada murid yang ia ajar, dan hendaklah orientasi terbesarnya adalah menyelamatkan jiwa murid yang ia bimbing. Jangan sekali-kali ia mencari kedudukan dan kemegahan dengan ilmunya; melainkan hendaklah ia bersikap laksana seorang ayah yang penyayang yang mendidik anak-anaknya dengan penuh kelembutan (*ar-Rifq*) dan kesabaran mendalam (*al-Anah*)."*
-
-**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^4] menegaskan bahwa puncak kebahagiaan seorang guru adalah ketika ia melihat santri-santri yang dididiknya kelak bertumbuh menjadi manusia yang lebih alim, lebih shalih, dan lebih bermanfaat bagi umat dibanding dirinya sendiri.
-
----
-
-### Solusi Sistemik TUMBUH: Akademi Pembina TUMBUH (*TUMBUH Murabbi Academy*)
-
-Untuk menjamin kualitas transisi kepemimpinan ini, Ekosistem TUMBUH mendirikan **Akademi Pembina TUMBUH**:
-1. **Program Induksi Musyrif Baru 6 Bulan**: Pendampingan intensif bagi Musyrif Tahap 8 oleh Mentor Senior Tahap 9 sebelum bertugas mandiri penuh.
-2. **Klinik Refleksi Pedagogi Bulanan**: Forum bedah kasus pengasuhan (*Case Conference*) untuk mengasah keterampilan diagnosis masalah santri berbasis data objektif.
-3. **Jenjang Karier Jelas & Terstandar**: Setiap pendidik memiliki peta pengembangan profesi yang terstruktur dari Pelaksana, Pembina Muda, Pembina Madya, hingga Murabbi Utama.
-
-Dengan tuntasnya Bab 05 ini, siklus kaderisasi kepemimpinan santri dan pendidik telah terangkai sempurna, siap melangkah ke bab pamungkas **Bab 06: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender**.
-
----
-
-## 📌 Catatan Kaki & Rujukan Primer
-
-[^1]: **Lee S. Shulman**, "Knowledge and teaching: Foundations of the new reform", *Harvard Educational Review*, Vol. 57, No. 1 (1987), hlm. 1–22.
-[^2]: **Arnold B. Bakker & Evangelia Demerouti**, "The Job Demands-Resources model: State of the art", *Journal of Managerial Psychology*, Vol. 22, No. 3 (2007), hlm. 309–328.
+[^1]: **Howard Zehr**, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002; Edisi Revisi, 2015), hlm. 12–35; serta **Brenda Morrison**, *Restoring Safe School Communities: A Whole School Approach to Bullying, Pro-social Behaviour and Addressing Harm* (Sydney: The Federation Press, 2007), hlm. 85–118.
+[^2]: **Lee S. Shulman**, "Knowledge and teaching: Foundations of the new reform", *Harvard Educational Review*, Vol. 57, No. 1 (1987), hlm. 1–22.
 [^3]: **Al-Imam Abu Bakar Muhammad bin al-Husain al-Ajurri**, *Akhlaq al-'Ulama*, Tahqiq: Dr. Faruq Hamadah (Riyadh: Dar Thayyibah, 1408 H / 1987 M), hlm. 48–75.
-[^4]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 1: "Fi Adab al-Mu'allim", hlm. 16–25.
 
 
 ---

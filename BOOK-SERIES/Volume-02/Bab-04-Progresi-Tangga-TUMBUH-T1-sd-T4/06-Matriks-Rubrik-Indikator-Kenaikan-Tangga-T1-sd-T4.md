@@ -1,7 +1,7 @@
-# SUB-BAB 4.5: MATRIKS RUBRIK INDIKATOR KENAIKAN T1–T4
+# SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN T1–T4
 ## *Standarisasi Asesmen Kenaikan Tangga Kapasitas Berbasis Bukti Faktual Tanpa Subjektivitas dan Bebas Favoritisme*
 
-**Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-06/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Psikometri Pendidikan Karakter, Desain Rubrik Evaluasi Perkembangan, & Standardisasi PBIS  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Psikometri dan Validasi Instrumen & Pakar Arsitektur PBIS*)
 
