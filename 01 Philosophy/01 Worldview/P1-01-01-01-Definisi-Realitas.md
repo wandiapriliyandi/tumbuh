@@ -1,14 +1,15 @@
 # P1-01-01-01: DEFINISI DAN HAKIKAT REALITAS
-## *Fondasi Ontologis Realisme Kritis Teistik dalam Worldview Islam dan Desain Pendidikan Karakter TUMBUH*
+## *Kodifikasi Formal 6 Kesimpulan Ontologis Hasil Riset Realisme Kritis Teistik dalam Worldview Islam dan Desain Pendidikan Karakter TUMBUH*
 
 **Nomor Identifikasi**: `P1-01-01-01/DEFINISI-REALITAS/2026`  
 **Domain**: `01 Philosophy` > `01 Worldview` > `01 Hakikat Realitas`  
+**Klasifikasi Naskah**: *Formal Consensus & Executive Conclusion* (Kodifikasi Kesimpulan Resmi)  
 **Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-epistemologi-turats`, `pakar-arsitektur-digital-pesantren`  
-**Berkas Inkuiri Pendahulu**: [P1-01-01-01: Kajian Dialektika Inkuiri, Tanya-Jawab Kritis, & Skenario Realitas](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md)
+**Naskah Riset Induk (Primer)**: [P1-01-01-01: Kajian Riset, Dialektika Inkuiri, & Analisis Kritis Hakikat Realitas](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md)
 
 ---
 
-## 📑 DAFTAR ISI ANALITIS
+## 📑 DAFTAR ISI KESIMPULAN FORMAL
 
 1. [1. Tujuan dan Urgensi Ontologis Perumusan Realitas](#1-tujuan-dan-urgensi-ontologis-perumusan-realitas)
 2. [2. Mengapa Definisi Realitas Menentukan Arah Pendidikan Pesantren?](#2-mengapa-definisi-realitas-menentukan-arah-pendidikan-pesantren)
@@ -22,9 +23,9 @@
 
 ### 1. Tujuan dan Urgensi Ontologis Perumusan Realitas
 
-> 💡 **Catatan Dialektika**: *Sebelum membaca definisi normatif dalam modul ini, disarankan meninjau [P1-01-01-01: Kajian Inkuiri Dialektis](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md) untuk memahami pergulatan tanya-jawab kritis, sanggahan teologis, dan pengujian skenario lapangan yang melandasi perumusan definisi ini.*
+> 📌 **Kedudukan Dokumen**: *Dokumen ini merupakan **Kodifikasi Formal 6 Kesimpulan Akhir** yang disarikan langsung dari hasil penelitian komprehensif, dialektika tanya-jawab kritis, dan pengujian lapangan pada naskah riset induk [P1-01-01-01: Kajian Riset & Dialektika Inkuiri](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md).*
 
-Tujuan utama modul ini adalah merumuskan definisi **Realitas (*al-Haqiqah / al-Wujud*)** sebagai fondasi ontologis paling mendasar bagi seluruh arsitektur Ekosistem TUMBUH. Definisi ini wajib akurat secara filosofis, berakar kuat pada worldview Islam, serta mampu menepis kerancuan ontologis modern—baik reduksionisme materialistik yang menafikan alam ghaib maupun mistisisme pasif yang mengabaikan sunnatullah empiris di alam syahadah.
+Tujuan utama modul ini adalah menetapkan rumusan **Realitas (*al-Haqiqah / al-Wujud*)** yang telah teruji secara metodologis sebagai fondasi ontologis paling mendasar bagi seluruh arsitektur Ekosistem TUMBUH. Definisi ini berdiri di atas worldview Islam yang kokoh, menepis kerancuan reduksionisme materialistik sekuler sekaligus mengoreksi mistisisme pasif yang mengabaikan sunnatullah empiris di alam syahadah.
 
 ---
 

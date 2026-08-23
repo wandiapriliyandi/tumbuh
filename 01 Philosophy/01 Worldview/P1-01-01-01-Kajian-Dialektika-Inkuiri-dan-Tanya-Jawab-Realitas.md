@@ -38,7 +38,9 @@
 
 ### 1. Kerangka Metodologi Riset & Dialektika Keilmuan
 
-Untuk melahirkan 6 kesimpulan formal dalam modul [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md), Dewan Pakar TUMBUH menggunakan pendekatan **Triangulasi Riset Multidisipliner**:
+Naskah monograf penelitian ini merupakan **penyelidikan fondasional mula-mula (*original baseline research*)** yang dirancang untuk menggali, menguji, dan meneliti hakikat Realitas secara kritis sebelum ditarik formula kesimpulan apa pun bagi Ekosistem TUMBUH. 
+
+Dewan Pakar TUMBUH menggunakan pendekatan **Triangulasi Riset Multidisipliner**:
 
 ```mermaid
 flowchart TD
@@ -47,17 +49,17 @@ flowchart TD
         M2["2. DIALEKTIKA FILOSOFIS KRITIS<br/>(Al-Iradat wal-Ajwibah, Uji Demarkasi, & Reductio ad Absurdum)"]
         M3["3. SAINS EMPIRIS & NEURO-EDUKASI<br/>(Neurosains Kognitif, Psikologi Perkembangan, & Data PBIS)"]
         
-        M1 & M2 & M3 ==> RisetInduk["6 KAJIAN RISET INKUIRI FONDASIONAL"]
-        RisetInduk ==> Output["6 KESIMPULAN FORMAL (P1-01-01-01)"]
+        M1 & M2 & M3 ==> RisetInduk["PROSES PENELITIAN & 6 INKUIRI DIALEKTIS"]
+        RisetInduk ==> Output["MELAHIRKAN 6 KESIMPULAN FORMAL (P1-01-01-01)"]
     end
 ```
 
-Riset ini tidak memposisikan teks agama sebagai dogma mati, melainkan sebagai sumber kebenaran metafisik yang diuji keselarasan empirisnya dengan hukum alam semesta (*Sunnatullah fil-Afaq wal-Anfus*).
+Riset ini tidak memposisikan teks agama sebagai dogma mati yang diterima tanpa nalar, melainkan sebagai sumber kebenaran metafisik yang diuji keselarasan empirisnya dengan hukum alam semesta (*Sunnatullah fil-Afaq wal-Anfus*). Dari pergulatan 6 babak inkuiri inilah, kesimpulan ontologis resmi TUMBUH nantinya dirumuskan.
 
 ---
 
 ### 2. Riset Inkuiri 1: Investigasi Urgensi Ontologis Pendidikan Karakter Pesantren
-*(Riset Mendasari Poin 1 pada Berkas Kesimpulan: Tujuan dan Urgensi Ontologis Perumusan Realitas)*
+*(Penyelidikan Lapangan: Mengapa Asumsi Wujud Mendahului Seluruh Desain Kurikulum?)*
 
 ```mermaid
 graph LR
@@ -201,18 +203,20 @@ Berdasarkan riset aksi (*action research*) pada ekosistem pengasuhan, definisi r
 
 ---
 
-### 8. Matriks Pemetaan: Hubungan Riset Dialektis Menuju 6 Kesimpulan Formal P1-01-01-01
+### 8. Formulasi & Penarikan 6 Kesimpulan Formal Hasil Riset Ontologis
 
-Berikut adalah tabel matriks yang membuktikan korespondensi ilmiah 1-ke-1 antara setiap babak riset dalam naskah ini dengan poin kesimpulan formal pada modul [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md):
+Berdasarkan seluruh temuan induktif, deduktif, dialektika tanya-jawab kritis, dan pengujian lapangan pada 6 babak inkuiri di atas, penelitian ini **berhasil merumuskan dan menetapkan 6 Kesimpulan Ontologis Pokok**.
 
-| No | Babak Riset Inkuiri (*Working Paper Ini*) | Poin Kesimpulan Formal (*P1-01-01-01*) | Dasar Metodologi & Temuan Kunci |
+Seluruh kesimpulan ini kemudian **dikodifikasikan secara resmi sebagai dokumen konsensus eksekutif** pada modul [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md):
+
+| No | Babak Penyelidikan Riset (*Working Paper Ini*) | Hasil Formulasi Kesimpulan Formal (*P1-01-01-01*) | Temuan Kunci & Argumen Pembeda |
 | :---: | :--- | :--- | :--- |
-| **1** | **Riset Inkuiri 1**: Investigasi Urgensi Ontologis | **Poin 1**: Tujuan dan Urgensi Ontologis Perumusan Realitas | Fenomenologi Pesantren: Menghilangkan dualisme semu dan fatalisme asrama. |
-| **2** | **Riset Inkuiri 2**: Investigasi Kausal Arah Pendidikan | **Poin 2**: Mengapa Definisi Realitas Menentukan Arah Pendidikan? | Analisis Komparatif: Membuktikan kegagalan Materialisme Sekuler dan Mistisisme Pasif. |
-| **3** | **Riset Inkuiri 3**: Investigasi Semantik & Epistemik | **Poin 3**: Analisis Istilah dan Definisi Operasional Realitas | Hermeneutika Turats & Filsafat Bahasa: Menegaskan wujud objektif independen. |
-| **4** | **Riset Inkuiri 4**: Pengujian 3 Unsur Pokok Realitas | **Poin 4**: Tiga Unsur Pokok (Keberadaan, Objektivitas, Independensi) | Uji Dialektika Sokratik & Neurosains: Hukum moral adab seobjektif hukum gravitasi. |
-| **5** | **Riset Inkuiri 5**: Integrasi Alam Ghaib vs Syahadah | **Poin 5**: Dikotomi Realitas (Alam Ghaib & Alam Syahadah) | Epistemologi Terpadu: Membedakan Ghaib Syar'i vs takhayul serta integrasi wahyu-sains. |
-| **6** | **Riset Inkuiri 6**: Investigasi Implikasi Kurikulum | **Poin 6**: Implikasi Ontologis bagi Struktur Kurikulum TUMBUH | *Action Research* PBIS: Translasi ontologi ke SOP asrama, sanitasi, dan mitigasi kekerasan. |
+| **1** | **Riset Inkuiri 1**: Investigasi Urgensi Ontologis | **Kesimpulan 1**: Tujuan dan Urgensi Ontologis Perumusan Realitas | Mengeliminasi dualisme semu dan fatalisme asrama yang membungkus kelalaian fisik dengan dalih zuhud. |
+| **2** | **Riset Inkuiri 2**: Investigasi Kausal Arah Pendidikan | **Kesimpulan 2**: Mengapa Definisi Realitas Menentukan Arah Pendidikan? | Membuktikan kegagalan reduksionisme materialis dan mistisisme pasif, serta mengukuhkan Realisme Integral. |
+| **3** | **Riset Inkuiri 3**: Investigasi Semantik & Epistemik | **Kesimpulan 3**: Analisis Istilah dan Definisi Operasional Realitas | Menegaskan definisi wujud objektif (*al-Mawjud al-Haqiqiy*) yang independen dari relativisme bahasa/kuasa. |
+| **4** | **Riset Inkuiri 4**: Pengujian 3 Unsur Pokok Realitas | **Kesimpulan 4**: Tiga Unsur Pokok (Keberadaan, Objektivitas, Independensi) | Membuktikan secara neurosains dan logika bahwa hukum moral adab seobjektif hukum gravitasi. |
+| **5** | **Riset Inkuiri 5**: Integrasi Alam Ghaib vs Syahadah | **Kesimpulan 5**: Dikotomi Realitas (Alam Ghaib & Alam Syahadah) | Menegakkan demarkasi tegas antara Ghaib Syar'i vs takhayul, serta integrasi utuh wahyu dan sains empiris. |
+| **6** | **Riset Inkuiri 6**: Investigasi Implikasi Kurikulum | **Kesimpulan 6**: Implikasi Ontologis bagi Struktur Kurikulum TUMBUH | Menghasilkan mandat operasional: SOP sanitasi, arsitektur ramah otak, dan sistem disiplin PBIS anti-kekerasan. |
 
 ---
 
