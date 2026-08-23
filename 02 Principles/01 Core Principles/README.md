@@ -3,7 +3,7 @@
 
 **Nomor Identifikasi**: `P2-01/INDEX/2026`  
 **Domain**: `02 Principles` > `01 Core Principles`  
-**Klasifikasi**: Folder Monograf Konstitusi Nilai, Triad Simbiotik, & PBIS Restoratif
+**Klasifikasi**: Folder Monograf Konstitusi Nilai, Triad Simbiotik, & PBIS Restoratif (8 Berkas Lengkap)
 
 ---
 
@@ -15,6 +15,7 @@ Sub-Domain `01 Core Principles` membedah enam prinsip inti yang menjadi konstitu
 graph TD
     CorePrinciples["SUB-DOMAIN 01: CORE PRINCIPLES (PRINSIP INTI INDUK)"]
     
+    CorePrinciples --> Master["P2-01: Prinsip Utama TUMBUH Master (Monograf Induk Kluster 01)"]
     CorePrinciples --> M1["P2-01-01: Triad Pertumbuhan Simbiotik (Santri, Pendidik, & Lembaga Bertumbuh Serempak)"]
     CorePrinciples --> M2["P2-01-02: Kemuliaan Fitrah & Martabat Insan (Karamah Insaniyyah & Zero-Humiliation)"]
     CorePrinciples --> M3["P2-01-03: Keteladanan Qudwah-First (Lisanul Hal, Bandura Modeling, & 5 Dimensi Teladan)"]
@@ -26,14 +27,21 @@ graph TD
 
 ---
 
-## 📑 DAFTAR BERKAS MODULAR SUB-DOMAIN 01
+## 📑 DAFTAR LENGKAP 8 BERKAS MONOGRAF TERPADU SUB-DOMAIN 01
 
-| No | Berkas Monograf | Judul Berkas | Fokus Kajian & Rujukan Utama |
+Seluruh modul telah distandarisasi 100% ke dalam format **Monograf Terpadu**:
+* **💡 Intisari Praktis (3 Menit Paham)**: Bahasa membumi dan aplikatif untuk asatidz & musyrif sebelum daftar isi.
+* **Bagian I**: Riset Inkuiri, Formalisasi Silogisme Mantiq, Dialektika Multi-Perspektif (tanpa kata "pakar"), Teks Primer Turats & Sains Asli, serta Kasuistika Lapangan Asrama.
+* **Bagian II**: Kodifikasi Baku Hasil Riset & Kesimpulan Formal (Matriks, Alur SOP, Piagam).
+* **Bagian III**: Aparatus Akademis (Tabel Sintesis, Daftar Pustaka Otoritatif, 35–45 Catatan Kaki *Footnotes*, dan Glosarium Istilah Teknis).
+
+| No | Berkas Monograf | Judul Berkas | Fokus Kajian & Status |
 | :---: | :--- | :--- | :--- |
-| **01** | [**`P2-01-01-Prinsip-Triad-Pertumbuhan-Simbiotik.md`**](./P2-01-01-Prinsip-Triad-Pertumbuhan-Simbiotik.md) | Triad Pertumbuhan Simbiotik | Sinergi serempak Santri, Pendidik/Musyrif (anti-burnout), dan Lembaga (organisasi pembelajar); teori ekologi Bronfenbrenner & Senge. |
-| **02** | [**`P2-01-02-Prinsip-Kemuliaan-Fitrah-dan-Martabat-Insan.md`**](./P2-01-02-Prinsip-Kemuliaan-Fitrah-dan-Martabat-Insan.md) | Kemuliaan Fitrah & Martabat Insan | Doktrin *Karamah Insaniyyah* (QS. Al-Isra': 70), 5 hak fundamental santri, kaidah *Adh-Dhararu Yuzal*, & eliminasi mutlak gundul paksa/shaming. |
-| **03** | [**`P2-01-03-Prinsip-Keteladanan-Qudwah-First.md`**](./P2-01-03-Prinsip-Keteladanan-Qudwah-First.md) | Keteladanan Qudwah-First | Kaidah *Lisanul Hal Afshahu*, QS. Al-Ahzab: 21, dekonstruksi kemunafikan pedagogis, *Mirror Neurons System*, dan 5 dimensi wajib teladan asatidz. |
-| **04** | [**`P2-01-04-Prinsip-Disiplin-Restoratif-Firm-and-Kind.md`**](./P2-01-04-Prinsip-Disiplin-Restoratif-Firm-and-Kind.md) | Disiplin Restoratif Firm & Kind | Menolak dikotomi otoriter vs permisif; sifat *Ar-Rifq* hadits nabawi (HR. Muslim), teori Baumrind & Jane Nelsen, serta restitusi logis 4R. |
-| **05** | [**`P2-01-05-Prinsip-Sistemik-Multi-Tier-PBIS.md`**](./P2-01-05-Prinsip-Sistemik-Multi-Tier-PBIS.md) | Sistemik Multi-Tier PBIS Berbasis Data | Eliminasi subjektivitas sanksi, piramida Tier 1–3 SW-PBIS (Sugai & Horner), siklus 4W 1H, dan fiqh Tabayyun (QS. Al-Hujurat: 6). |
-| **06** | [**`P2-01-06-Prinsip-Tadarruj-dan-Istiqamah.md`**](./P2-01-06-Prinsip-Tadarruj-dan-Istiqamah.md) | Prinsip Tadarruj & Istiqamah | Gradualisme syariat, kaidah *Ahabbul A'mali Adwamuha* (HR. Bukhari), teori *Atomic Habits*, dan pencegahan sindrom Ghuluw-Futuwr. |
-| **07** | [**`P2-01-07-Sintesis-Core-Principles-TUMBUH.md`**](./P2-01-07-Sintesis-Core-Principles-TUMBUH.md) | Sintesis Core Principles TUMBUH | Matriks integrasi 6 prinsip inti induk, piagam konstitusi nilai pesantren, dan jembatan ke Sub-Domain `02 Design Principles` s/d `07 Implementation`. |
+| **00** | [**`P2-01-Prinsip-Utama-TUMBUH.md`**](./P2-01-Prinsip-Utama-TUMBUH.md) | Monograf Induk Core Principles TUMBUH | Master 7 Pilar Nilai, Zero Tolerance Policy, dan peta konstitusional ke 6 sub-domain lanjutan. |
+| **01** | [**`P2-01-01-Prinsip-Triad-Pertumbuhan-Simbiotik.md`**](./P2-01-01-Prinsip-Triad-Pertumbuhan-Simbiotik.md) | Triad Pertumbuhan Simbiotik | Sinergi serempak Santri, Pendidik (anti-burnout, tidur 7 jam), dan Lembaga (data PBIS); Bronfenbrenner & Senge (40 Catatan Kaki). |
+| **02** | [**`P2-01-02-Prinsip-Kemuliaan-Fitrah-dan-Martabat-Insan.md`**](./P2-01-02-Prinsip-Kemuliaan-Fitrah-dan-Martabat-Insan.md) | Kemuliaan Fitrah & Martabat Insan | Doktrin *Karamah Insaniyyah* (QS. 17:70), 5 hak Maqashid, *Zero Humiliation*, UU 35/2014 & PMA 73/2022, Safe Whistleblowing (42 Catatan Kaki). |
+| **03** | [**`P2-01-03-Prinsip-Keteladanan-Qudwah-First.md`**](./P2-01-03-Prinsip-Keteladanan-Qudwah-First.md) | Keteladanan Qudwah-First | *Lisanul Hal*, QS. 61:2-3, Social Learning Bandura, *Mirror Neurons*, 5 dimensi teladan, kawasan 100% bebas rokok (41 Catatan Kaki). |
+| **04** | [**`P2-01-04-Prinsip-Disiplin-Restoratif-Firm-and-Kind.md`**](./P2-01-04-Prinsip-Disiplin-Restoratif-Firm-and-Kind.md) | Disiplin Restoratif Firm & Kind | Sifat *Ar-Rifq* (HR. Muslim 2594), 4 Kuadran Baumrind, *Connection Before Correction*, konsekuensi 4R, *Ishlah al-Bain* (42 Catatan Kaki). |
+| **05** | [**`P2-01-05-Prinsip-Sistemik-Multi-Tier-PBIS.md`**](./P2-01-05-Prinsip-Sistemik-Multi-Tier-PBIS.md) | Sistemik Multi-Tier PBIS Berbasis Data | Fiqh Tabayyun (QS. 49:6), Al-'Izz bin Abdissalam, piramida 80-15-5 Sugai & Horner, analisis 4W 1H, CICO & FBA (41 Catatan Kaki). |
+| **06** | [**`P2-01-06-Prinsip-Tadarruj-dan-Istiqamah.md`**](./P2-01-06-Prinsip-Tadarruj-dan-Istiqamah.md) | Prinsip Tadarruj & Istiqamah | Hikmah Nuzulul Qur'an bertahap (QS. 25:32), riwayat Aisyah, *Atomic Habits*, Habit 66-hari Lally, manajemen futuwr (42 Catatan Kaki). |
+| **07** | [**`P2-01-07-Sintesis-Core-Principles-TUMBUH.md`**](./P2-01-07-Sintesis-Core-Principles-TUMBUH.md) | Sintesis Core Principles TUMBUH | Audit *Zero Internal Contradiction*, uji stres 24 jam, piagam konstitusi nilai, & penjalaran ke Sub-Domain P2-02 s/d P2-07 (36 Catatan Kaki). |
