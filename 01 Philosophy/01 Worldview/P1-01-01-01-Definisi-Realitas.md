@@ -16,6 +16,7 @@
 4. [4. Tiga Unsur Pokok Realitas: Keberadaan, Objektivitas, dan Independensi](#4-tiga-unsur-pokok-realitas-keberadaan-objektivitas-dan-independensi)
 5. [5. Dikotomi Realitas: Alam Ghaib (Mala'ul A'la) dan Alam Syahadah (Mulk)](#5-dikotomi-realitas-alam-ghaib-malaul-ala-dan-alam-syahadah-mulk)
 6. [6. Implikasi Ontologis bagi Struktur Kurikulum Ekosistem TUMBUH](#6-implikasi-ontologis-bagi-struktur-kurikulum-ekosistem-tumbuh)
+7. [7. Glosarium dan Penjelasan Istilah Asing & Teknis](#7-glosarium-dan-penjelasan-istilah-asing--teknis)
 
 ---
 
@@ -88,3 +89,29 @@ Pendidikan karakter TUMBUH menolak memisahkan kedua alam ini: santri diajarkan b
 1. **Kurikulum Tauhid yang Membumi**: Tauhid bukan sekadar hafalan bait-bait sifat 20 yang abstrak, melainkan diwujudkan dalam kesadaran bahwa Allah mengawasi santri di setiap jengkal ruang asrama (*Muraqabatullah*).
 2. **Penghormatan atas Sunnatullah Empiris**: Menjaga kebersihan kamar, kecukupan nutrisi, dan manajemen waktu diakui sebagai hukum realitas yang wajib ditaati untuk mencapai kesehatan jiwa raga.
 3. **Keseimbangan Dimensi Ruhiyah dan Maddiyah**: Seluruh fasilitas fisik pesantren (arsitektur gedung, pencahayaan lorong, sanitasi) dirancang untuk mendukung optimalisasi ibadah dan penanaman adab 24 jam.
+
+---
+
+### 7. Glosarium dan Penjelasan Istilah Asing & Teknis
+
+Untuk mempermudah pemahaman pembaca lintas disiplin ilmu, berikut adalah kamus penjelasan istilah-istilah asing, Arab (*turats*), filosofis, dan saintifik yang digunakan dalam dokumen ini:
+
+| No | Istilah / Terminologi | Asal Bahasa | Penjelasan Konseptual & Kontekstual |
+| :---: | :--- | :---: | :--- |
+| 1 | **Ontologi / Ontologis** | Yunani (*on, ontos* = ada + *logos* = ilmu) | Cabang filsafat yang mengkaji hakikat eksistensi, kenyataan, dan struktur wujud paling mendasar. |
+| 2 | **Worldview (*Ru'yatul Islam lil-Wujud*)** | Jerman / Arab (*Weltanschauung*) | Cara pandang atau kacamata komprehensif seseorang/agama dalam memahami hakikat Allah, alam semesta, manusia, dan tujuan hidup. |
+| 3 | **Realisme Kritis Teistik** | Filsafat Barat / Teologi | Aliran filsafat yang meyakini bahwa realitas itu nyata, objektif, dan diciptakan oleh Tuhan (Teistik), di mana pemahaman manusia terhadap alam terus disempurnakan melalui observasi kritis (Kritis). |
+| 4 | **Al-Haqiqah / Al-Wujud** | Arab (*حقيقة / وجود*) | Sesuatu yang memiliki ketetapan eksistensi nyata dan tidak terbantahkan kebenarannya. |
+| 5 | **Al-Mawjud al-Haqiqiy** | Arab (*الموجود الحقيقي*) | Entitas yang benar-benar ada dalam kenyataan, bukan sekadar khayalan pikiran (*wahm*). |
+| 6 | **'Alam al-Ghayb** | Arab (*عالم الغيب*) | Dimensi wujud metafisik yang tidak dapat dijangkau oleh panca-indera lahiriah manusia (misal: Allah, Malaikat, Surga, Neraka, Barzakh). |
+| 7 | **'Alam asy-Syahadah / 'Alam al-Mulk** | Arab (*عالم الشهادة / الملك*) | Dimensi wujud fisik-material yang dapat diobservasi, diraba, diukur, dan diuji secara empiris melalui indera dan eksperimen sains. |
+| 8 | **'Alam al-Malakut & al-Jabarut** | Arab (*عالم الملكوت والجبروت*) | Istilah turats tasawuf/kalam untuk merujuk pada alam ruh, malaikat, dan dimensi keagungan ketetapan takdir Allah. |
+| 9 | **Wajib al-Wujud** | Arab (*واجب الوجود*) | Wujud yang niscaya ada dan menjadi sebab keberadaan segala sesuatu tanpa bergantung pada sebab lain (khusus disematkan kepada Allah SWT). |
+| 10 | **Mumkin al-Wujud** | Arab (*ممكن الوجود*) | Wujud yang keberadaannya bergantung pada kehendak Wajib al-Wujud (seluruh alam semesta dan makhluk). |
+| 11 | **Sunnatullah** | Arab (*سنة الله*) | Hukum-hukum sebab-akibat yang ditetapkan Allah secara teratur dan ajek pada alam semesta (hukum fisika, biologi, sosial). |
+| 12 | **Khabar Shadiq** | Arab (*الخبر الصادق*) | Informasi atau berita mutlak benar yang bersumber dari wahyu Allah (Al-Qur'an) dan sabda Nabi Muhammad SAW yang mutawatir/sahih. |
+| 13 | **Al-Hawas as-Salimah** | Arab (*الحواس السليمة*) | Panca-indera yang sehat dan berfungsi normal sebagai saluran epistemologis untuk menangkap fenomena alam nyata. |
+| 14 | **Bashirah** | Arab (*بصيرة*) | Mata batin atau kejernihan kalbu yang mampu menangkap kebenaran hikmah spiritual melampaui penglihatan fisik. |
+| 15 | **Muraqabatullah** | Arab (*مراقبة الله*) | Kondisi kejiwaan di mana seorang hamba senantiasa merasa diawasi, dilihat, dan diketahui batinnya oleh Allah SWT di setiap saat. |
+| 16 | **Ruhiyah & Maddiyah** | Arab (*روحية ومادية*) | Dimensi spiritual (kejiwaan/ruh) dan dimensi material (fisik/jasmani) yang harus berjalan secara berimbang dan harmonis. |
+| 17 | **Ontological Independence** | Inggris (Filsafat) | Kemandirian ontologis; prinsip bahwa status kebenaran suatu entitas tidak dipengaruhi oleh ada atau tidaknya orang yang mempercayainya. |

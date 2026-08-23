@@ -28,6 +28,7 @@
    - *Patologi 1: Ghaibiyyah Pasif & Fatalisme Jabariyah*
    - *Patologi 2: Materialisme Pragmatis Terselubung*
 6. [6. Sintesis Argumentatif & Mandat Menuju Berkas Formal (P1-01-01-01)](#6-sintesis-argumentatif--mandat-menuju-berkas-formal-p1-01-01-01)
+7. [7. Glosarium dan Penjelasan Istilah Asing & Teknis](#7-glosarium-dan-penjelasan-istilah-asing--teknis)
 
 ---
 
@@ -166,3 +167,31 @@ Dari seluruh pertarungan dialektis, analisis kausal, pengujian skenario ekstrem,
 ---
 
 *Dengan selesainya berkas kajian inkuiri pendahulu ini, maka rumusan formal pada modul [P1-01-01-01-Definisi-Realitas.md](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md) kini memiliki landasan argumentatif dialektis yang kokoh, tak terbantahkan, dan teruji terhadap segala kritik lapangan.*
+
+---
+
+### 7. Glosarium dan Penjelasan Istilah Asing & Teknis
+
+Berikut adalah kamus penjelasan istilah-istilah asing, Arab (*turats*), filsafat, psikologi, dan sosiologi yang digunakan dalam naskah inkuiri dialektis ini:
+
+| No | Istilah / Terminologi | Asal Bahasa | Penjelasan Konseptual & Kontekstual |
+| :---: | :--- | :---: | :--- |
+| 1 | **Al-Iradat wal-Ajwibah** | Arab (*الإيرادات والأجوبة*) | Tradisi dialektika ilmiah Islam klasik berupa teknik memunculkan sanggahan/keberatan kritis lalu menjawabnya secara sistematis dan argumentatif. |
+| 2 | **Al-Munazharah wal-Jadal** | Arab (*المناظرة والجدل*) | Seni debat dan adu argumentasi logis-akademis untuk menguji kebenaran suatu dalil atau postulat hingga mencapai kepastian (*tahqiq*). |
+| 3 | **Realisme Kritis Teistik** | Filsafat Barat / Teologi | Paradigma ontologis yang mengakui keberadaan realitas objektif ciptaan Tuhan yang independen dari pikiran manusia, di mana pemahaman manusia terus diuji secara kritis. |
+| 4 | **Relativisme Pascamodern** | Filsafat Kontemporer | Paham yang menolak adanya kebenaran mutlak/objektif dan menganggap semua nilai hanyalah konstruksi budaya, bahasa, atau kepentingan kuasa lokal. |
+| 5 | **Social Construct** | Inggris (Sosiologi) | Konsep atau makna yang diciptakan dan disepakati oleh masyarakat melalui interaksi sosial, bukan bawaan alami dari alam semesta. |
+| 6 | **Al-Haqq al-Maudhu'iy** | Arab (*الحق الموضوعي*) | Kebenaran objektif yang bersumber dari ketetapan Allah SWT yang tidak berubah oleh ruang, waktu, dan opini manusia. |
+| 7 | **Al-'Urf al-Khashsh** | Arab (*العرف الخاص*) | Adat kebiasaan atau tradisi lokal kelompok/komunitas tertentu yang bersifat kondisional dan fleksibel. |
+| 8 | **Pseudo-Compliance (Kepatuhan Semu)** | Inggris (Psikologi) | Perilaku taat yang hanya ditampilkan anak saat ada pengawasan/ancaman fisik, namun segera dilanggar begitu pengawas tidak ada. |
+| 9 | **Conditioning Behavioristik** | Inggris (Psikologi) | Metode pembiasaan perilaku melalui manipulasi stimulus eksternal (hadiah dan hukuman) tanpa melibatkan kesadaran kalbu dan nalar moral. |
+| 10 | **Internal Moral Compass** | Inggris (Psikologi) | Kompas moral internal; kesadaran batin yang menuntun seseorang memilih kebaikan secara sukarela karena dorongan iman dan regulasi diri (*self-regulation*). |
+| 11 | **Tazkiyatun Nafs** | Arab (*تزكية النفس*) | Proses penyucian jiwa dari kotoran batin (riya', dengki, takabur) untuk mengembalikan fitrah suci manusia. |
+| 12 | **Ontological Asymmetry** | Inggris (Filsafat) | Ketimpangan pemahaman wujud; kesalahan berpikir yang hanya mementingkan satu sisi realitas (misal: hanya ruh) sambil menafikan sisi lainnya (misal: raga/sains). |
+| 13 | **Amigdala & Prefrontal Cortex (PFC)** | Kedokteran / Neurosains | **Amigdala**: Pusat emosi dan deteksi ancaman (*fight-or-flight*). **PFC**: Bagian depan otak yang bertanggung jawab atas nalar, kontrol diri, empati, dan perencanaan masa depan. |
+| 14 | **Simulakra / Virtual Reality** | Latin / Prancis (Baudrillard) | Representasi atau citra digital tiruan yang tampak begitu nyata hingga mengaburkan dan menggantikan realitas asli dalam persepsi manusia. |
+| 15 | **Burhan an-Nizham** | Arab (*برهان النظام*) | Argumen teleologis dalam ilmu kalam yang membuktikan keberadaan Allah melalui keteraturan, presisi, dan keindahan hukum alam semesta. |
+| 16 | **Hifzh an-Nafs** | Arab (*حفظ النفس*) | Prinsip pokok Maqashid Syari'ah tentang kewajiban mutlak menjaga keselamatan jiwa, raga, dan kesehatan fisik manusia. |
+| 17 | **Ghaibiyyah Pasif / Fatalisme** | Teologi / Filsafat | Sikap pasrah buta pada takdir (*Jabariyah*) tanpa melakukan ikhtiar ilmiah dan manajerial yang diwajibkan oleh sunnatullah. |
+| 18 | **Ishlah al-Bain** | Arab (*إصلاح البين*) | Proses perdamaian, pemulihan relasi sosial, dan penyelesaian konflik antarsesama berdasarkan prinsip keadilan restoratif. |
+| 19 | **Nuktah Sauda'** | Arab (*نكتة سوداء*) | Titik noda hitam spiritual yang mengotori kalbu setiap kali seseorang melakukan kemaksiatan atau pelanggaran adab (merujuk hadits sahih). |
