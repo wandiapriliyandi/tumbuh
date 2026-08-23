@@ -8,6 +8,20 @@
 
 ---
 
+> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+>
+> * **Apa Posisi Resmi Worldview TUMBUH?**  
+>   TUMBUH memegang teguh mazhab **Realisme Teistik Integratif**: Menggabungkan keimanan kokoh pada *'Alam Malakut* (Malaikat, Hisab, Pahala/Dosa) dengan penataan profesional di *'Alam Mulk* (Gedung asrama sehat, sains modern, psikologi anak, dan SOP terukur).
+> * **Apa yang Ditolak oleh TUMBUH?**  
+>   1. **Menolak Materialisme Barat**: Yang hanya percaya materi dan menganggap ibadah tidak ada gunanya.
+>   2. **Menolak Mistisisme Malas**: Yang menelantarkan kebersihan asrama dan gizi santri atas nama kezuhudan semu.
+>   3. **Menolak Relativisme Moral**: Yang merelativisasi adab santri mengikuti budaya pergaulan bebas.
+>   4. **Menolak Kekerasan Fisik**: Yang menganggap rotan/pukulan mendidik mental; kekerasan digantikan oleh Disiplin Positif Restoratif (*Firm & Kind*).
+> * **Penerapan Praktis di Lapangan (Bi'ah Shalihah 24 Jam)**:  
+>   Membangun ekosistem pesantren yang aman, bersih, adil, dan penuh kasih sayang demi melahirkan generasi santri yang sehat raganya, cerdas akalnya, dan suci jiwanya (*Insan Adabi*).
+
+---
+
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: RISET SINTESIS FILOSOFIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-sintesis-filosofis-dialektika-inkuiri--kasuistika-lapangan)

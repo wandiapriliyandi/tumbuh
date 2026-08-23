@@ -8,6 +8,22 @@
 
 ---
 
+> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+>
+> * **Apa Itu Aksioma?**  
+>   Aksioma adalah **Prinsip Pasti yang Tidak Boleh Berubah-ubah** yang menjadi pegangan seluruh pengasuh dan santri agar tidak bingung dalam mengambil keputusan harian.
+> * **Enam Prinsip Pasti dalam 6 Kalimat Sederhana:**  
+>   1. **Allah itu Maha Ada & Pusat Segala Hal**: Semua aktivitas pondok niatnya hanya mencari ridha Allah.
+>   2. **Manusia itu Lemah & Butuh Allah**: Santri pintar dan santri biasa sama-sama fakir di hadapan Allah; tidak boleh ada senioritas yang menindas junior.
+>   3. **Dunia Nyata & Akhirat Terhubung**: Kebersihan kamar asrama sama pentingnya dengan kebersihan hati saat shalat.
+>   4. **Hukum Sebab-Akibat Itu Pasti (Sunnatullah)**: Ingin hafalan mutqin harus mengulang (*muthala'ah*) dan cukup tidur; tidak bisa hanya mengandalkan doa tanpa belajar.
+>   5. **Tidak Ada Santri yang Diciptakan Gagal**: Setiap anak punya bakat fitrah unik; jangan pernah mencap santri sebagai "anak rusak".
+>   6. **Semua Perbuatan Pasti Dihisab**: Pelanggaran kecil atau besar ada pertanggungjawabannya; keadilan disiplin ditegakkan tanpa tebang pilih.
+> * **Penerapan Praktis di Lapangan**:  
+>   Enam prinsip ini melahirkan santri yang mandiri (*resilient*), tidak manja, dan memiliki integritas moral tinggi di mana pun berada.
+
+---
+
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: RISET INKUIRI, DIALEKTIKA KRITIS, & STUDI KASUS](#bagian-i-riset-inkuiri-dialektika-kritis--studi-kasus)

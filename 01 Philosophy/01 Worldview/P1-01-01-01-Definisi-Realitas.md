@@ -8,6 +8,19 @@
 
 ---
 
+> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+>
+> * **Apa Masalah Utamanya?**  
+>   Banyak santri disiplin hanya saat ada musyrif, namun langsung melanggar saat di belakang. Mengapa? Karena mereka memandang realitas asrama hanya sebatas *"hal fisik yang bisa diakali"* dan lupa bahwa ada Allah yang Maha Menyaksikan.
+> * **Apa Inti Kesimpulan Bab Ini?**  
+>   1. **Realitas Itu Nyata & Teratur**: Dunia ini bukan ilusi khayalan. Jika santri kurang tidur (< 5 jam) otaknya pasti lelah; jika kamar mandi kotor kuman pasti menular (Sunnatullah Fisik).
+>   2. **Fisik & Batin Itu Satu Kesatuan**: Shalat yang khusyuk butuh raga yang sehat; kebersihan kamar asrama (*Alam Mulk*) terhubung langsung dengan catatan hisab malaikat (*Alam Malakut*).
+>   3. **Pondasi Adab Otonom**: Santri yang memahami realitas akan jujur tanpa perlu diawasi CCTV atau diancam rotan, karena mereka sadar hidupnya berada di hadapan Allah SWT 24 jam.
+> * **Penerapan Praktis di Lapangan**:  
+>   Musyrif tidak hanya menghukum santri yang melanggar, tetapi membimbing santri memahami *"mengapa aturan ini ada secara nyata bagi kebaikan mereka lahir-batin"*.
+
+---
+
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: RISET INKUIRI, DIALEKTIKA KRITIS, & STUDI KASUS](#bagian-i-riset-inkuiri-dialektika-kritis--studi-kasus)

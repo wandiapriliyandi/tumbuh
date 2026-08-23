@@ -8,6 +8,22 @@
 
 ---
 
+> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+>
+> * **Apa Tujuan Bab Ini?**  
+>   Membuktikan bahwa konsep Realitas TUMBUH **Bersambung Sanadnya (*Ittishal as-Sanad*)** dengan 6 Ulama Besar Islam *Ahlussunnah wal Jama'ah*.
+> * **Pesan Kunci dari 6 Ulama Besar:**  
+>   1. **Imam Al-Ghazali**: Seluruh alam semesta bergantung pada Allah; menuntut santri ikhlas dan rendah hati.
+>   2. **Syaikhul Islam Ibn Taimiyyah**: Realitas alam dan aturan syariat itu nyata objektif; aturan asrama harus berbasis data dan fakta, bukan emosi pengurus.
+>   3. **Imam Al-Maturidi & An-Nasafi**: Menolak relativisme; nilai adab dan kebaikan itu pasti dan tidak boleh dikompromikan oleh tren pergaulan bebas.
+>   4. **Imam Asy-Syathibi**: Menjaga kesehatan fisik (*Hifzh an-Nafs*) dan menempuh hukum sebab-akibat (ventilasi, sanitasi, gizi) adalah kewajiban syariat mutlak.
+>   5. **Imam Ibnu 'Athaillah (*Al-Hikam*)**: Santri berada di *Maqam Asbab* (wajib belajar giat & ikhtiar); malas belajar dengan alasan "pasrah tawakal" adalah tipu daya nafsu.
+>   6. **Prof. Syed Muhammad Naquib Al-Attas**: Pendidikan Islam adalah *Ta'dib* (menanamkan adab); diterjemahkan menjadi 4 Tangga Pembinaan TUMBUH (T1–T4).
+> * **Penerapan Praktis di Lapangan**:  
+>   Musyrif percaya diri menerapkan sistem manajemen modern karena seluruh dasarnya bersanad kuat pada ulama salafush shalih.
+
+---
+
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: RISET GENEALOGI TURATS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-genealogi-turats-dialektika-inkuiri--kasuistika-lapangan)

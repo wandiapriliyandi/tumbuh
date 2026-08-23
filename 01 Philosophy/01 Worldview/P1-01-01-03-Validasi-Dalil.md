@@ -8,6 +8,22 @@
 
 ---
 
+> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+>
+> * **Apa Tujuan Bab Ini?**  
+>   Membuktikan bahwa 6 Prinsip Aksioma Realitas TUMBUH **100% Berakar dari Ayat Al-Qur'an dan Hadits Shahih**, bukan sekadar teori buatan manusia.
+> * **Enam Dalil Kunci yang Wajib Dipahami Musyrif:**  
+>   1. **QS. Luqman: 30 & Doa Tahajjud**: Allah adalah *Al-Haqq* (Maha Nyata), sumber kejujuran batin santri.
+>   2. **QS. Fathir: 15**: Manusia adalah *Al-Fuqara'* (fakir butuh Allah), mengharamkan senioritas feodal di asrama.
+>   3. **QS. Al-Baqarah: 2–3 & QS. Al-Hasyr: 22**: Keimanan pada yang ghaib (*Alam Malakut*) wajib diwujudkan dalam amal nyata di asrama (*Alam Mulk*).
+>   4. **QS. Al-Ahzab: 62 & QS. Al-Furqan: 2**: Hukum *Sunnatullah* tidak pernah berubah; gizi dan jam tidur biologis santri wajib dipenuhi secara syar'i.
+>   5. **QS. Ali 'Imran: 191 & QS. Al-Mu'minun: 115**: Tiada ciptaan yang sia-sia (*Nihil 'Abathan*); mendidik potensi unik setiap santri tanpa diskriminasi.
+>   6. **QS. Az-Zalzalah: 7–8 & Hadits Muflis (HR. Muslim)**: Kezaliman seberat biji sawi pasti dihisab; menghapus impunitas kekerasan fisik di pondok.
+> * **Penerapan Praktis di Lapangan**:  
+>   Saat mengajar dan menertibkan santri, asatidz memiliki sandaran dalil naqli yang mutlak dan tak terbantahkan.
+
+---
+
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: RISET HERMENEUTIKA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-hermeneutika-dialektika-inkuiri--kasuistika-lapangan)
