@@ -44,7 +44,7 @@ graph TD
 | No | Berkas Monograf | Judul Berkas | Fokus Kajian & Rujukan Utama |
 | :---: | :--- | :--- | :--- |
 | **00A** | [**`P1-01-Worldview-TUMBUH.md`**](./P1-01-Worldview-TUMBUH.md) | Worldview Islam & 10 Aksioma Fundamental | *Ru'yatul Islam lil-Wujud*, 10 pertanyaan eksistensial, dan first principles peradaban pesantren. |
-| **00B** | [**`P1-01-01-00-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md`**](./P1-01-01-00-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md) | Kajian Dialektika Inkuiri & Skenario Realitas | Naskah kerja pendahulu: tanya-jawab kritis (*Al-Iradat*), bedah 'mengapa & bagaimana jika', serta dekonstruksi patologi. |
+| **00B** | [**`P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md`**](./P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md) | Kajian Dialektika Inkuiri & Skenario Realitas | Naskah kerja pendahulu: tanya-jawab kritis (*Al-Iradat*), bedah 'mengapa & bagaimana jika', serta dekonstruksi patologi. |
 | **01** | [**`P1-01-01-Hakikat-Realitas.md`**](./P1-01-01-Hakikat-Realitas.md) | Monograf Induk Hakikat Realitas | Rangkuman master ontologi, integrasi alam ghaib & syahadah, serta implikasi kurikuler. |
 | **02** | [**`P1-01-01-01-Definisi-Realitas.md`**](./P1-01-01-01-Definisi-Realitas.md) | Definisi & Hakikat Realitas | Analisis istilah wujud, 3 unsur realitas (keberadaan, objektivitas, independensi persepsi). |
 | **03** | [**`P1-01-01-02-Aksioma-Realitas.md`**](./P1-01-01-02-Aksioma-Realitas.md) | Aksioma-Aksioma Realitas | Enam aksioma metafisik baku dari Khaliq Mutlak hingga akuntabilitas hisab perbuatan. |

@@ -4,7 +4,7 @@
 **Nomor Identifikasi**: `P1-01-01-01/DEFINISI-REALITAS/2026`  
 **Domain**: `01 Philosophy` > `01 Worldview` > `01 Hakikat Realitas`  
 **Dewan Pakar**: `pakar-filosofi-tumbuh`, `pakar-epistemologi-turats`, `pakar-arsitektur-digital-pesantren`  
-**Berkas Inkuiri Pendahulu**: [P1-01-01-00: Kajian Dialektika Inkuiri, Tanya-Jawab Kritis, & Skenario Realitas](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-00-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md)
+**Berkas Inkuiri Pendahulu**: [P1-01-01-01: Kajian Dialektika Inkuiri, Tanya-Jawab Kritis, & Skenario Realitas](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 1. Tujuan dan Urgensi Ontologis Perumusan Realitas
 
-> 💡 **Catatan Dialektika**: *Sebelum membaca definisi normatif dalam modul ini, disarankan meninjau [P1-01-01-00](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-00-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md) untuk memahami pergulatan tanya-jawab kritis, sanggahan teologis, dan pengujian skenario lapangan yang melandasi perumusan definisi ini.*
+> 💡 **Catatan Dialektika**: *Sebelum membaca definisi normatif dalam modul ini, disarankan meninjau [P1-01-01-01: Kajian Inkuiri Dialektis](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md) untuk memahami pergulatan tanya-jawab kritis, sanggahan teologis, dan pengujian skenario lapangan yang melandasi perumusan definisi ini.*
 
 Tujuan utama modul ini adalah merumuskan definisi **Realitas (*al-Haqiqah / al-Wujud*)** sebagai fondasi ontologis paling mendasar bagi seluruh arsitektur Ekosistem TUMBUH. Definisi ini wajib akurat secara filosofis, berakar kuat pada worldview Islam, serta mampu menepis kerancuan ontologis modern—baik reduksionisme materialistik yang menafikan alam ghaib maupun mistisisme pasif yang mengabaikan sunnatullah empiris di alam syahadah.
 
