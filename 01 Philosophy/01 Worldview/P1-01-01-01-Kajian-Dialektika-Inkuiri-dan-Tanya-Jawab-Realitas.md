@@ -5,63 +5,64 @@
 **Domain**: `01 Philosophy` > `01 Worldview` > `01 Hakikat Realitas`  
 **Klasifikasi Naskah**: *Original Ground-Zero Research Monograph* (Naskah Riset Induk Penyelidikan Terbuka)  
 **Dokumen Output/Kesimpulan**: [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md) *(Dilahirkan dari hasil riset ini)*  
-**Dewan Pakar Pengkaji**: `pakar-filosofi-tumbuh`, `pakar-epistemologi-turats`, `pakar-metodologi-riset-tumbuh`, `pakar-penulis-monograf-tumbuh`, `pakar-kritikus-dan-auditor-kualitas`
+**Rumpun Disiplin Pengkaji**: Epistemologi Turats, Filsafat Pendidikan Islam, Neurosains Kognitif & Perkembangan, Tata Kelola Pengasuhan Asrama, Disiplin Positif Restoratif
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF RISET REALITAS
 
 1. [1. Kerangka Metodologi Riset & Dialektika Inkuiri Terbuka](#1-kerangka-metodologi-riset--dialektika-inkuiri-terbuka)
-2. [2. Inkuiri Riset 1: Fenomenologi Masalah Pengasuhan: Apakah Problem Pesantren Berakar dari Kerancuan Memandang Kenyataan?](#2-inkuiri-riset-1-fenomenologi-masalah-pengasuhan-apakah-problem-pesantren-berakar-dari-kerancuan-memandang-kenyataan)
+2. [2. Inkuiri Riset 1: Investigasi Urgensi Ontologis vs Realitas Empiris Pesantren](#2-inkuiri-riset-1-investigasi-urgensi-ontologis-vs-realitas-empiris-pesantren)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 1)*
-   - *Ronde 1: Gugatan Praktisi Salaf & Pembongkaran Fatalisme Tersembunyi*
+   - *Ronde 1: Gugatan Tradisi Praktis vs Penataan Kausalitas*
    - *Ronde 2: Sanggahan Balik Romantisme Masa Lalu vs Fakta Survivorship Bias*
-   - *Ronde 3: Sanggahan Pamungkas Kekhawatiran Sikap Kritis vs Ma'rifatullah*
-3. [3. Inkuiri Riset 2: Komparasi Aliran Pemikiran: Bagaimana Asumsi tentang Kenyataan Membentuk Sistem Pendidikan?](#3-inkuiri-riset-2-komparasi-aliran-pemikiran-bagaimana-asumsi-tentang-kenyataan-membentuk-sistem-pendidikan)
+   - *Ronde 3: Sanggahan Pamungkas Nalar Kritis vs Keikhlasan Tawadhu'*
+   - *Kasuistika Lapangan 1 & Titik Temu Konsensus*
+3. [3. Inkuiri Riset 2: Investigasi Kausal Tiga Paradigma Asumsi Realitas](#3-inkuiri-riset-2-investigasi-kausal-tiga-paradigma-asumsi-realitas)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 2)*
    - *Ronde 1: Dekonstruksi Materialisme Sekuler vs Mistisisme Pasif*
    - *Ronde 2: Sanggahan Balik Efisiensi Behaviorisme Keras vs Pseudo-Compliance*
    - *Ronde 3: Sanggahan Pamungkas Doktrin Riyadhah Mematikan Nafsu vs I'tidal*
-4. [4. Inkuiri Riset 3: Penyelidikan Bahasa & Episteme: Apa Makna Sebenarnya dari Kata 'Ada' dan 'Nyata' (*Wujud & Haqiqah*)?](#4-inkuiri-riset-3-penyelidikan-bahasa--episteme-apa-makna-sebenarnya-dari-kata-ada-dan-nyata-wujud--haqiqah)
+   - *Kasuistika Lapangan 2 & Titik Temu Konsensus*
+4. [4. Inkuiri Riset 3: Investigasi Semantik Wujud Objektif vs Relativisme Bahasa](#4-inkuiri-riset-3-investigasi-semantik-wujud-objektif-vs-relativisme-bahasa)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 3)*
    - *Ronde 1: Analisis Isytiqoq al-Wujud & Bantahan Dekonstruksionisme*
    - *Ronde 2: Sanggahan Balik Relativitas Budaya Adab (Jawa vs Arab vs Barat)*
    - *Ronde 3: Sanggahan Pamungkas Bahaya Hegemoni Feodal Berkedok Adab*
-5. [5. Inkuiri Riset 4: Eksperimen Pemikiran & Uji Kausalitas: Karakteristik Apa yang Menjadikan Sesuatu Itu Nyata?](#5-inkuiri-riset-4-eksperimen-pemikiran--uji-kausalitas-karakteristik-apa-yang-menjadikan-sesuatu-itu-nyata)
+   - *Kasuistika Lapangan 3 & Titik Temu Konsensus*
+5. [5. Inkuiri Riset 4: Pengujian Stres Tiga Unsur Pokok Realitas](#5-inkuiri-riset-4-pengujian-stres-tiga-unsur-pokok-realitas)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 4)*
    - *Ronde 1: Pembuktian Kepastian Matematis Hukum Moral Setara Gravitasi*
    - *Ronde 2: Sanggahan Balik Paradoks Orang Zalim yang Tampak Bahagia*
-   - *Ronde 3: Sanggahan Pamungkas Tekanan Mayoritas (Demokrasi Relativistik)*
-6. [6. Inkuiri Riset 5: Penyelidikan Integrasi: Bagaimana Hubungan antara Kenyataan Dhohir dan Dimensi Batin di Pesantren?](#6-inkuiri-riset-5-penyelidikan-integrasi-bagaimana-hubungan-antara-kenyataan-dhohir-dan-dimensi-batin-di-pesantren)
+   - *Ronde 3: Sanggahan Pamungkas Tekanan Mayoritas Asrama (Normalisasi Dosa)*
+   - *Kasuistika Lapangan 4 & Titik Temu Konsensus*
+6. [6. Inkuiri Riset 5: Manunggalnya 'Alam Mulk (Dhohir) & 'Alam Malakut (Batin) di Pesantren](#6-inkuiri-riset-5-manunggalnya-alam-mulk-dhohir--alam-malakut-batin-di-pesantren)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 5)*
    - *Ronde 1: Harmoni Syariat Dhohir & Hakikat Batin (Ihya' & Al-Hikam)*
    - *Ronde 2: Sanggahan Balik Kecukupan Sains Empiris Murni Tanpa Malakut*
    - *Ronde 3: Sanggahan Pamungkas Benturan Medis vs Mitos Kesambet Jin*
-7. [7. Inkuiri Riset 6: Uji Coba Lapangan: Bagaimana Temuan Ini Mengubah Tata Kelola Fisik dan Disiplin Santri?](#7-inkuiri-riset-6-uji-coba-lapangan-bagaimana-temuan-ini-mengubah-tata-kelola-fisik-dan-disiplin-santri)
+   - *Kasuistika Lapangan 5 & Titik Temu Konsensus*
+7. [7. Inkuiri Riset 6: Translasi Lapangan ke Kurikulum, Arsitektur, & PBIS 24 Jam](#7-inkuiri-riset-6-translasi-lapangan-ke-kurikulum-arsitektur--pbis-24-jam)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 6)*
    - *Ronde 1: Desain Arsitektur Asrama Ramah Neurobiologis & Parameter Terukur*
    - *Ronde 2: Sanggahan Balik Tudingan Sistem Elitis-Mahal vs Pesantren Sederhana*
-   - *Ronde 3: Sanggahan Pamungkas Mitigasi Pelanggaran Berat Tier 3 Tanpa Penjara Fisik*
-8. [8. Sintesis Hasil Riset: Formulasi & Penetapan Definisi Realitas](#8-sintesis-hasil-riset-formulasi--penetapan-definisi-realitas)
-   - *Formalisasi Silogisme Logika (Qiyas Mantiqi 6)*
-   - *Ronde 1: Desain Arsitektur Asrama Ramah Neurobiologis & Parameter Terukur*
-   - *Ronde 2: Sanggahan Balik Tudingan Sistem Elitis-Mahal vs Pesantren Sederhana*
-   - *Ronde 3: Sanggahan Pamungkas Mitigasi Pelanggaran Berat Tier 3 Tanpa Penjara Fisik*
+   - *Ronde 3: Sanggahan Pamungkas Mitigasi Pelanggaran Berat Tier 3 Bebas Hukuman Fisik*
+   - *Kasuistika Lapangan 6 & Titik Temu Konsensus*
 8. [8. Formulasi & Penarikan 6 Kesimpulan Formal Hasil Riset Ontologis](#8-formulasi--penarikan-6-kesimpulan-formal-hasil-riset-ontologis)
 9. [9. Daftar Pustaka Akademis & Rujukan Turats Primer](#9-daftar-pustaka-akademis--rujukan-turats-primer)
 10. [10. Glosarium dan Penjelasan Istilah Asing, Turats NU, & Teknis](#10-glosarium-dan-penjelasan-istilah-asing-turats-nu--teknis)
 
 ---
 
-### 1. Kerangka Metodologi Riset & Dialektika Bertingkat (*Al-Munazharah wal-Jadal*)
+### 1. Kerangka Metodologi Riset & Dialektika Inkuiri Terbuka
 
-Naskah monograf penelitian ini merupakan **penyelidikan fondasional mula-mula (*original baseline research*)** yang dirancang untuk menggali, menguji, dan meneliti hakikat Realitas secara kritis sebelum ditarik formula kesimpulan apa pun bagi Ekosistem TUMBUH. 
+Naskah monograf penelitian ini merupakan **penyelidikan fondasional mula-mula (*original baseline research*)** yang dirancang untuk menggali, menguji, dan meneliti hakikat Realitas secara kritis sebelum ditarik formula kesimpulan apa pun. 
 
-Dewan Pakar TUMBUH menggunakan pendekatan **Triangulasi Riset Multidisipliner**:
+Penyelidikan ini menggunakan pendekatan **Triangulasi Riset Multidisipliner**:
 
 ```mermaid
 flowchart TD
-    subgraph MetodologiRiset["TRIANGULASI RISET ONTO-EPISTEMIK EKOSISTEM TUMBUH"]
+    subgraph MetodologiRiset["TRIANGULASI RISET ONTO-EPISTEMIK"]
         M1["1. HERMENEUTIKA TURATS & USHUL<br/>(Tahqiq Nash, Leksikografi Arab, & Maqashid Syariah)"]
         M2["2. DIALEKTIKA FILOSOFIS KRITIS<br/>(Al-Iradat wal-Ajwibah, Formalisasi Qiyas Mantiqi, & Reductio ad Absurdum)"]
         M3["3. SAINS EMPIRIS & NEURO-EDUKASI<br/>(Neurosains Kognitif, Psikologi Perkembangan, & Data PBIS)"]
@@ -78,12 +79,12 @@ Riset ini memadukan pembuktian teks otoritatif (*dalil naqli*), deduksi logika f
 ### 2. Inkuiri Riset 1: Investigasi Urgensi Ontologis vs Realitas Empiris Pesantren
 
 ```mermaid
-graph LR
-    subgraph Inkuiri1Clash["DIALEKTIKA INKUIRI 1: URGENSI ONTOLOGI"]
-        A["Ronde 1: 'Pesantren cukup ngaji & wirid, tak butuh ontologi filsafat!'"] --> B["TUMBUH: 'Tanpa ontologi sadar, muncul fatalisme asrama kumuh & kekerasan.'"]
-        B --> C["Ronde 2: 'Tapi kiai salaf dulu sukses tanpa kurikulum ontologi formal!'"]
-        C --> D["TUMBUH: 'Survivorship bias! Ribuan santri gagal & santri modern terpapar nihilisme gawai.'"]
-    end
+graph TD
+    A["Gugatan Praktisi Lapangan (Pihak A):<br/>'Pesantren cukup kitab kuning & wirid, tak perlu teori ontologi!'"] 
+    --> B1["Tinjauan Epistemologi Turats:<br/>Tawakkal sejati wajib berikhtiar pada hukum sebab-akibat dhohir."]
+    A --> B2["Tinjauan Neurosains Perkembangan:<br/>Stres kronis asrama kumuh merusak memori korteks prefrontal."]
+    A --> B3["Tinjauan Pengasuhan Asrama:<br/>Mengeliminasi normalisasi kekerasan & fatalisme asrama."]
+    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Ontologi adalah peta kesadaran penataan adab 24 jam."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
@@ -91,23 +92,31 @@ graph LR
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Pesantren yang tidak merumuskan ontologinya secara sadar akan mengadopsi asumsi ontologis cacat secara implisit (Fatalisme / Materialisme Tersembunyi).
 * **Konklusi (*an-Natijah*)**: Maka, perumusan ontologi realitas formal adalah keniscayaan mutlak bagi tegaknya sistem pendidikan karakter pesantren yang benar. *(Rujukan: Al-Attas, 1995, hlm. 1–14; Al-Ghazali, Al-Mustashfa, Juz I, hlm. 10–12).*
 
-#### 🥊 Ronde 1: Gugatan Praktisi Salaf & Pembongkaran Fatalisme Tersembunyi
-* **Gugatan Awal**:  
-  *"Pesantren di Nusantara sudah ratusan tahun berjalan baik dengan mengkaji kitab-kitab kuning seperti Safinah, Taqrib, dan wirid harian. Mengapa TUMBUH merasa perlu merumuskan 'Ontologi Realitas'? Bukankah ini istilah yang terkesan rumit dan kurang praktis bagi kehidupan santri di asrama?"*
-* **Tangkisan Argumentatif TUMBUH**:  
-  Penyelidikan lapangan menunjukkan bahwa pola pengasuhan sehari-hari **selalu dipengaruhi oleh cara pandang kita terhadap realitas**, baik disadari maupun tidak. Ketika pengurus membiarkan kamar mandi kotor, santri terserang penyakit kulit (*gudikan*), dan santri senior melakukan kekerasan fisik kepada junior dengan dalih *"melatih kesabaran dan mental santri"*, pengurus tersebut sebenarnya sedang terjebak dalam pemahaman keliru (sikap pasrah tanpa ikhtiar atau *fatalisme*). Mereka memisahkan ikhtiar nyata di alam fisik dari tujuan pendidikan batin. Kerangka ontologi TUMBUH hadir bukan untuk menambah teori hafalan, melainkan untuk meluruskan pemahaman dan praktik pengasuhan sehari-hari di pesantren agar selaras dengan nilai-nilai Islam dan sunnatullah.
+#### 🥊 Ronde 1: Gugatan Tradisi Praktis vs Penataan Kausalitas
+* **Pihak A (Sudut Pandang Praktisi Lapangan & Tradisionalis)**:  
+  *"Pesantren di Nusantara sudah ratusan tahun berjalan mandiri dengan mengkaji kitab-kitab turats seperti Safinah, Taqrib, dan mengamalkan wirid harian. Mengapa kita merasa perlu merumuskan 'Ontologi Realitas'? Bukankah ini istilah filsafat yang terkesan rumit dan tidak membumi bagi kehidupan santri di kobong asrama?"*
+* **Tinjauan Sudut Pandang Epistemologi Turats**:  
+  Tradisi keilmuan Islam klasik sejatinya tidak pernah memisahkan ilmu hakikat dari penataan amal dhohir. Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* menegaskan bahwa kekeliruan dalam menata hukum kausalitas fisik adalah bentuk kebodohan (*jahl*), bukan kepasrahan tawakal. Ketika pengurus asrama membiarkan kamar mandi kotor, santri terserang penyakit kulit (*gudikan*), dan santri senior melakukan kekerasan fisik kepada junior dengan dalih *"melatih mental dan tirakat"*, pengurus tersebut sejatinya sedang terjangkit paham fatalisme (*jabariyah tersembunyi*) yang menyimpang dari kaidah syariat.
+* **Tinjauan Sudut Pandang Neurosains & Psikologi Perkembangan**:  
+  Secara neurobiologis, pembiaran stres toksik menahun akibat lingkungan kumuh atau relasi hierarki yang mengintimidasi memicu pelepasan hormon kortisol kronis yang merusak plastisitas korteks prefrontal santri. Akibatnya, kapasitas memori kerja (*working memory*) untuk menghafal Al-Qur'an dan menyerap ilmu justru mengalami degradasi. Kesadaran terhadap realitas biologis tubuh santri adalah hukum sunnatullah yang objektif.
 
-#### 🥊 Ronde 2: Sanggahan Balik Romantisme Masa Lalu (*Counter-Objection*)
-* **Sanggahan Balik Lawan (*Fa-in Qiila*)**:  
-  *"Sanggahan! Para kiai zaman dahulu berhasil mencetak ulama-ulama besar dari fasilitas pondok yang sangat sederhana. Jika generasi terdahulu bisa berhasil dalam keterbatasan, mengapa sekarang kita harus menuntut standar kebersihan, gizi, dan sains modern?"*
-* **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Kita perlu melihat realitas ini secara utuh (*tidak terjebak survivorship bias*). Tokoh-tokoh besar masa lalu berhasil berkat tekad dan kekuatan spiritual yang luar biasa, namun pada saat yang sama banyak santri biasa yang menghadapi kendala kesehatan fisik, putus belajar, atau mengalami trauma akibat pola pengasuhan yang keras. Selain itu, tantangan santri hari ini sangat berbeda karena mereka berhadapan langsung dengan arus informasi digital dan pemikiran modern. Mengandalkan nostalgia masa lalu tanpa membenahi sistem pengasuhan dan kesehatan fisik santri tentu tidak bijak bagi masa depan generasi pesantren. *(Rujukan: Asy-Syathibi, Al-Muwafaqat, Juz II, hlm. 8–15).*
+#### 🥊 Ronde 2: Sanggahan Balik Romantisme Masa Lalu vs Fakta Survivorship Bias
+* **Pihak A (Sudut Pandang Konservatisme Pesantren)**:  
+  *"Sanggahan! Para ulama dan kiai besar zaman dahulu lahir dari pondok yang serba terbatas dan sarana sederhana. Jika generasi terdahulu terbukti sukses menjadi orang alim tanpa fasilitas modern, mengapa sekarang kita harus menuntut standar higienitas, gizi, dan tata kelola psikologis?"*
+* **Tinjauan Sudut Pandang Epistemologi Turats & Metodologi Riset**:  
+  Pandangan tersebut terjebak dalam bias kelangsungan hidup (*survivorship bias*). Kita hanya menghitung segelintir tokoh luar biasa yang bertahan, seraya menutup mata terhadap ribuan santri lain yang gagal berkembang, mengalami trauma seumur hidup, atau putus belajar akibat sanitasi buruk dan kekerasan pengasuhan. Asy-Syathibi dalam *Al-Muwafaqat* menegaskan bahwa hukum syariat dan sistem pendidikan dibangun di atas penjagaan maslahat umum mayoritas (*Hifzh al-Kulliyyat*), bukan bertumpu pada perkecualian individu istimewa semata.
+* **Tinjauan Sudut Pandang Tata Kelola Pengasuhan Asrama**:  
+  Tantangan zaman telah bergeser secara radikal. Santri generasi kini berhadapan langsung dengan banjir informasi digital, krisis atensi, dan tekanan mental yang kompleks. Mengandalkan romantisme masa lalu tanpa membenahi ekosistem fisik dan psikososial asrama adalah pengabaian terhadap amanah perlindungan anak (*In Loco Parentis*).
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Kekhawatiran Sikap Kritis (*The Extreme Dilemma*)
-* **Sanggahan Pamungkas Lawan**:  
-  *"Bagaimana jika mengajarkan nalar kritis kepada santri justru membuat mereka kurang menghormati kiai, banyak mendebat, dan kehilangan rasa tawadhu'?"*
-* **Sintesis Kokoh TUMBUH**:  
-  Tawadhu' sejati lahir dari pemahaman yang mendalam tentang keagungan Allah dan kerendahan hati (*Ma'rifatullah wa Ma'rifatun Nafs*), bukan dari kepatuhan buta tanpa pemahaman. Santri yang dibekali pemahaman cara pandang Islam (*Worldview Islam*) yang kokoh justru memiliki daya saring yang kuat terhadap pemikiran menyimpang, karena mereka mampu membedakan dengan jelas antara kebenaran hakiki dengan pemikiran yang keliru. *(Rujukan: Al-Ghazali, Ihya' 'Ulumiddin, Juz III, Kitab Syarh 'Aja'ib al-Qalb, hlm. 19–24).*
+#### 🥊 Ronde 3: Sanggahan Pamungkas Nalar Kritis vs Keikhlasan Tawadhu'
+* **Pihak A (Sudut Pandang Skeptisisme Otoritas)**:  
+  *"Bagaimana jika mengajarkan nalar ontologis dan sikap kritis kepada santri justru membuat mereka kurang menghormati kiai, banyak mendebat musyrif, dan kehilangan ruh tawadhu' serta keberkahan ilmu?"*
+* **Resolusi Sudut Pandang Epistemologi & Bimbingan Konseling**:  
+  Tawadhu' sejati lahir dari pemahaman yang mendalam tentang keagungan Allah dan kerendahan hakiki diri hamba (*Ma'rifatullah wa Ma'rifatun Nafs*), bukan dari ketakutan semu atau kepatuhan buta tanpa nalar. Santri yang dibekali pemahaman cara pandang Islam yang kokoh justru memiliki benteng akal yang tangguh terhadap pemikiran menyimpang dan nihilisme modern, sekaligus memiliki adab yang murni karena menghormati guru atas dasar kebenaran syariat, bukan feodalisme semu.
+
+> #### 📌 Kasuistika Lapangan 1 & Titik Temu Konsensus
+> * **Studi Kasus**: Di sebuah asrama, seorang santri junior menderita scabies parah dan kelelahan karena harus mencuci pakaian santri senior setiap malam. Musyrif menganggap ini bagian dari "uji kesabaran dan tirakat masa lalu".
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Disepakati bahwa tirakat syar'i adalah kesungguhan bermujahadah dalam ibadah dan belajar, bukan pembiaran penyakit menular atau perundungan hierarkis. Menjaga kesehatan fisik dhohir santri adalah kewajiban syar'i (*Hifzh an-Nafs*) yang menjadi prasyarat kematangan ruhani di alam batin.
 
 ---
 
@@ -115,13 +124,11 @@ graph LR
 
 ```mermaid
 graph TD
-    subgraph Komparasi3Paradigma["3 PARADIGMA ASUMSI REALITAS TERHADAP PENGASUHAN"]
-        M["1. MATERIALISME SEKULER<br/>Reduksi mekanistik -> Santri jadi robot hafalan, abaikan ruh."]
-        S["2. MISTISISME GHAIBIYAH PASIF<br/>Menolak sunnatullah materi -> Asrama kumuh, normalisasi sakit & kekerasan."]
-        T["3. REALISME INTEGRAL ISLAM (TUMBUH)<br/>Manunggalnya Syariat Dhohir & Hakikat Batin -> Insan Adabi 24 Jam."]
-        
-        M & S -.->|Gagal Membina Karakter| T
-    end
+    A["Gugatan Musyrif Lapangan (Pihak A):<br/>'Takzir jemur & hukuman keras paling cepat menertibkan 500 santri!'"]
+    --> B1["Tinjauan Neurosains:<br/>Kepatuhan amigdala memicu Kepatuhan Semu (Pseudo-Compliance)."]
+    A --> B2["Tinjauan Epistemologi Turats:<br/>Tujuan riyadhah adalah I'tidal (Keseimbangan), bukan Ihlaak (Penghancuran)."]
+    A --> B3["Tinjauan Disiplin Restoratif:<br/>Restitusi logis membangun regulasi diri otonom seumur hidup."]
+    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Ketertiban sejati dibangun dari kesadaran fitrah, bukan teror ketakutan."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
@@ -130,70 +137,79 @@ graph TD
 * **Konklusi (*an-Natijah*)**: Maka, hanya Realisme Integral Teistik Islam yang mampu mengantarkan santri menuju kematangan adab sejati (*Insan Kamil*). *(Rujukan: Al-Maturidi, Kitab at-Tawhid, hlm. 120–125; Deci & Ryan, 2000, hlm. 227–268).*
 
 #### 🥊 Ronde 1: Dekonstruksi Materialisme Sekuler vs Mistisisme Pasif
-* **Temuan Penyelidikan**:  
-  1. *Materialisme Sekuler* menganggap santri bejana kosong biologis. Dampaknya: pengasuhan berubah menjadi pabrik mekanis (behaviorisme dingin) yang hanya mengejar angka hafalan dan kepatuhan lahiriah demi akreditasi/bisnis.  
-  2. *Mistisisme Pasif* menganggap dunia materi kotor/tak bernilai. Dampaknya: pengasuhan mengabaikan manajemen sanitasi, gizi seimbang, dan keselamatan fisik santri atas nama kezuhudan semu.
+* **Penyelidikan Kausal Dua Paradigma Ekstrem**:  
+  1. *Materialisme Sekuler* memandang santri semata-mata sebagai organisme biologis mekanistik. Dampaknya: pengasuhan berubah menjadi pabrik angka hafalan dan kepatuhan lahiriah yang kering dari nilai muraqabah ilahiyyah.  
+  2. *Mistisisme Pasif* memandang dunia materi sebagai sesuatu yang kotor dan tak berharga. Dampaknya: pengasuhan mengabaikan sanitasi kobong, nutrisi otak, dan keselamatan raga santri atas nama kezuhudan semu.
 
-#### 🥊 Ronde 2: Sanggahan Balik Efisiensi Behaviorisme Keras (*Counter-Objection*)
-* **Sanggahan Balik Lawan (*Fa-in Qiila*)**:  
-  *"Sanggahan! Dalam praktik riil mengelola 1.000 santri di aula asrama, sistem reward-punishment behavioristik (ancaman takzir jemur dan hadiah poin) terbukti paling cepat, murah, dan efektif menertibkan santri dalam 5 menit dibanding pendekatan 'Realisme Integral' yang berbelit-belit. Mengapa menolak cara yang terbukti praktis?"*
-* **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Behaviorisme keras memang menciptakan ketertiban instan, namun riset neuro-edukasi membuktikan bahwa ketertiban tersebut adalah **Kepatuhan Semu Berbasis Teror Amigdala (*Fear-Induced Pseudo-Compliance*)**. Ketika santri patuh karena takut rotan atau takut dicukur botak, bagian otak depan (*Prefrontal Cortex*) yang mengolah kesadaran moral mandiri tidak pernah berkembang. Akibatnya sangat fatal: begitu keluar dari gerbang pondok (tanpa pengawasan musyrif), santri mengalami *rebound effect*—melampiaskan kebebasan dengan melakukan pelanggaran moral yang jauh lebih parah! *(Rujukan: Sapolsky, 2017, hlm. 90–115).*
+#### 🥊 Ronde 2: Sanggahan Balik Efisiensi Behaviorisme Keras vs Pseudo-Compliance
+* **Pihak A (Sudut Pandang Musyrif Lapangan yang Kelelahan)**:  
+  *"Sanggahan! Dalam praktik nyata mengontrol 500 santri di aula asrama, sistem reward-punishment keras (ancaman takzir jemur, push-up malam, potong rambut botak) terbukti paling cepat, murah, dan efektif menertibkan santri dalam 5 menit. Mengapa kita menolak cara yang jelas-jelas terbukti praktis di lapangan?"*
+* **Tinjauan Sudut Pandang Neurosains & Psikologi Perilaku**:  
+  Behaviorisme keras memang memproduksi ketertiban instan, namun riset neurobiologi membuktikan bahwa itu adalah **Kepatuhan Semu Berbasis Ketakutan Amigdala (*Fear-Induced Pseudo-Compliance*)**. Ketika kepatuhan didorong oleh rasa takut akan hukuman fisik atau rasa malu publik, korteks prefrontal santri yang mengolah internalisasi moral mandiri tidak teraktivasi. Begitu berada di luar radar pengawasan musyrif, santri mengalami *rebound effect* yang meledak dalam bentuk pelanggaran moral yang lebih tersembunyi dan parah.
+* **Tinjauan Sudut Pandang Disiplin Restoratif**:  
+  Disiplin berbasis konsekuensi logis dan restitusi mengajarkan santri memperbaiki kerusakan yang ditimbulkan (*making things right*). Metode ini melatih sirkuit regulasi diri otonom (*executive functions*) yang bertahan seumur hidup santri, bahkan ketika ia telah lulus dari pesantren.
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Doktrin Riyadhah Mematikan Nafsu (*The Extreme Dilemma*)
-* **Sanggahan Pamungkas Lawan**:  
-  *"Bukankah kitab-kitab tasawuf klasik mengajarkan 'Mujahadatun Nafs' dengan cara mematikan syahwat (lapar, lelah, tidur sedikit)? Mengapa TUMBUH menuntut asrama nyaman ber-AC/berventilasi standar dan makanan bernutrisi tinggi? Apakah ini bukan pelemahan jiwa santri?"*
-* **Sintesis Kokoh TUMBUH**:  
-  Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) menegaskan bahwa tujuan riyadhah adalah **Keseimbangan (*I'tidal*)**, bukan penghancuran raga (*Ihlaak al-Jasad*). Menahan lapar dalam puasa sunnah adalah ibadah syar'i, tetapi membiarkan santri kelaparan karena manajemen dapur yang korup/buruk adalah kezaliman yang haram! Tubuh yang kekurangan mikronutrisi esensial (zat besi, omega-3, vitamin B kompleks) secara biologis merusak memori hipokampus, sehingga santri sulit menghafal Al-Qur'an. Realisme Integral TUMBUH memuliakan raga sebagai amanah kendaraan ruh menuju Allah. *(Rujukan: Al-Ghazali, Ihya' 'Ulumiddin, Juz III, Kitab Riyadhat an-Nafs, hlm. 52–60).*
+#### 🥊 Ronde 3: Sanggahan Pamungkas Doktrin Riyadhah Mematikan Nafsu vs I'tidal
+* **Pihak A (Sudut Pandang Asketisme Ekstrem)**:  
+  *"Bukankah rujukan tasawuf klasik mengajarkan mujahadatun nafs dengan mematikan syahwat jasmani (lapar, lelah, membatasi tidur)? Mengapa kita menuntut kamar tidur berventilasi layak dan menu nutrisi seimbang? Apakah ini bukan pemanjaan raga yang melemahkan mental santri?"*
+* **Tinjauan Sudut Pandang Epistemologi Turats**:  
+  Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) menegaskan bahwa hakikat riyadhah adalah **Keseimbangan Watak (*I'tidal*)**, bukan penghancuran raga (*Ihlaak al-Jasad*). Berpuasa sunnah adalah ibadah syar'i, namun membiarkan santri malnutrisi akibat dapur asrama yang buruk adalah kezaliman yang diharamkan syariat. Raga adalah bejana amanah yang wajib dirawat agar ruh mampu menunaikan ibadah dan thalabul 'ilmi dengan paripurna.
+
+> #### 📌 Kasuistika Lapangan 2 & Titik Temu Konsensus
+> * **Studi Kasus**: Santri yang terlambat shalat subuh dihukum lari keliling lapangan tanpa alas kaki di bawah terik matahari, akibatnya santri pingsan karena dehidrasi dan gula darah drop.
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Disepakati bahwa kedisiplinan shalat subuh ditegakkan melalui pendampingan jam tidur malam yang teratur (hukum biologis) dan konsekuensi edukatif yang membangun kesadaran makna shalat, bukan melalui siksaan fisik yang membahayakan keselamatan raga santri.
 
 ---
 
 ### 4. Inkuiri Riset 3: Investigasi Semantik Wujud Objektif vs Relativisme Bahasa
 
 ```mermaid
-graph LR
-    subgraph SemantikWujud["ANALISIS SEMANTIK HAKIKAT REALITAS"]
-        L["Akar Kata: W-J-D (الوجود)<br/>Idrak asy-Syai' bi Haqiqatih<br/>(Menemukan sesuatu pada kenyataan aslinya)"]
-        H["Akar Kata: H-Q-Q (الحقيقة)<br/>As-Subut wal-Luzum<br/>(Ketetapan yang tak terbantahkan)"]
-        
-        L & H ==> Obj["Kebenaran Objektif Independen (Bukan Relativisme Bahasa)"]
-    end
+graph TD
+    A["Gugatan Skeptisisme Budaya (Pihak A):<br/>'Adab itu relatif budaya, di Jawa jongkok, di Arab tatap mata!'"]
+    --> B1["Tinjauan Epistemologi Leksikografi Turats:<br/>Akar kata W-J-D & H-Q-Q merujuk pada ketetapan hakiki objektif."]
+    A --> B2["Tinjauan Sosiologi Pesantren:<br/>Memisahkan Nilai Moral Universal (Taqdir) dari Simbol Kultural Lokal."]
+    A --> B3["Tinjauan Maqashid Syari'ah:<br/>Menolak feodalisme & eksploitasi santri berkedok khidmah."]
+    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Adab Islam universal pada substansi nilai, fleksibel pada wadah budaya yang syar'i."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap konsep adab yang berpijak pada kebenaran objektif wahyu Allah dan fitrah penciptaan manusia tidak dapat dibatalkan oleh perubahan budaya atau bahasa.
+* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap konsep adab yang berpijak pada kebenaran objektif wahyu Allah dan fitrah penciptaan manusia tidak dapat dibatalkan oleh perubahan budaya atau konstruksi bahasa.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Nilai adab Islam (keadilan, rahmah, iffah, amanah) berakar pada penetapan Allah (*al-Haqq al-Mubin*) yang tercermin dalam fitrah manusia.
 * **Konklusi (*an-Natijah*)**: Maka, adab Islam bersifat objektif dan universal melampaui relativisme budaya dan konstruksi bahasa pascamodern. *(Rujukan: Ibn Faris, Mu'jam Maqayis al-Lughah, Jilid II, hlm. 15; Bhaskar, 2008, hlm. 21–35).*
 
 #### 🥊 Ronde 1: Analisis Isytiqoq al-Wujud & Bantahan Dekonstruksionisme
-* **Penyelidikan Leksikografi Turats**:  
-  Kata *al-Wujud* dan *al-Haqiqah* dalam lisan Arab klasik bukan sekadar konsep mental, melainkan penegasan atas entitas yang berakar pada ketetapan Allah (*al-Haqq al-Mubin*). TUMBUH menolak klaim relativisme pascamodern (Derrida/Foucault) yang menyatakan bahwa adab moral hanyalah produk permainan wacana bahasa (*language games*).
+* **Tinjauan Epistemologi Leksikografi Turats**:  
+  Akar kata *W-J-D* (*al-Wujud*) bermakna menemukan hakikat sesuatu pada kenyataan aslinya (*Idrak asy-Syai' bi Haqiqatih*), dan *H-Q-Q* (*al-Haqiqah*) bermakna ketetapan yang pasti (*ats-Tsubut wal-Luzum*). Wujud dan kebenaran bukan sekadar permainan wacana bahasa (*language games*) kaum pascamodern, melainkan realitas ontologis ciptaan Allah yang memiliki sifat objektif dan dapat ditangkap oleh akal budi manusia.
 
-#### 🥊 Ronde 2: Sanggahan Balik Relativitas Budaya Adab (*Counter-Objection*)
-* **Sanggahan Balik Lawan (*Fa-in Qiila*)**:  
-  *"Sanggahan! Jika adab itu objektif dan universal, mengapa ekspresi adab berbeda di setiap kebudayaan? Di pesantren Jawa, santri berjalan jongkok di depan kiai dianggap puncak adab. Di Timur Tengah, menatap mata guru sambil mencium kening dianggap mulia, sementara berjalan jongkok dianggap aneh. Bukankah ini bukti telak bahwa adab hanyalah konstruksi budaya lokal (*social construct*), bukan realitas objektif?"*
-* **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Lawan gagal membedakan antara **Hakikat Nilai Universal (*al-Kulliyyat al-Adabiyyah*)** dengan **Simbol Kultural (*al-Juz'iyyat al-'Urfiyyah*)**:  
-  * **Nilai Objektif Universal**: Rasa hormat (*Taqdir*), kasih sayang (*Rahmah*), kejujuran (*Shidq*), dan ketiadaan kesombongan adalah hukum objektif universal yang berlaku di seluruh galaksi ciptaan Allah.  
-  * **Simbol Lokal**: Berjalan membungkuk di Jawa atau mencium kening di Arab hanyalah bejana kultural (*Zhuruf*). Selama simbol budaya tersebut tidak melanggar syariat (seperti ruku' penghambaan kepada makhluk), ia sah sebagai medium ekspresi. Perbedaan bejana tidak membatalkan kemutlakan air kebenaran di dalamnya! *(Rujukan: Al-Attas, 1995, hlm. 25–31).*
+#### 🥊 Ronde 2: Sanggahan Balik Relativitas Budaya Adab (Jawa vs Arab vs Barat)
+* **Pihak A (Sudut Pandang Relativisme Kultural)**:  
+  *"Sanggahan! Jika adab itu objektif dan universal, mengapa ekspresinya berbeda di tiap wilayah? Di pesantren Jawa, santri berjalan jongkok di depan kiai dianggap adab tertinggi. Di Timur Tengah, menatap wajah guru dan mencium kening dianggap mulia, sementara berjalan jongkok dianggap janggal. Bukankah ini bukti bahwa adab hanyalah konstruksi sosial lokal yang relatif?"*
+* **Tinjauan Sudut Pandang Epistemologi Turats & Sosiologi Pendidikan**:  
+  Perlu dibedakan secara tegas antara **Hakikat Nilai Universal (*al-Kulliyyat al-Adabiyyah*)** dengan **Wadah Kultural Lokal (*al-Juz'iyyat al-'Urfiyyah*)**:  
+  * *Nilai Objektif Universal*: Rasa hormat (*Taqdir*), welas asih (*Rahmah*), kejujuran (*Shidq*), dan ketiadaan takabur adalah nilai mutlak universal di hadapan syariat.  
+  * *Wadah Simbolik*: Berjalan membungkuk di tanah Jawa atau mencium kening di tanah Arab adalah bejana kultural ekspresi (*Zhuruf*). Perbedaan wadah tidak membatalkan kemutlakan nilai universal yang ada di dalamnya.
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Bahaya Hegemoni Feodal Berkedok Adab (*The Extreme Dilemma*)
-* **Sanggahan Pamungkas Lawan**:  
-  *"Bagaimana jika kiai atau musyrif memanfaatkan klaim 'adab objektif' ini untuk melegitimasi feodalisme: santri diwajibkan mencuci mobil pribadi kiai, memijat pengurus hingga jam 2 malam, dan dilarang bertanya di kelas dengan dalih 'tawadhu'? Bukankah klaim objektivitas ini menjadi senjata penindasan?"*
-* **Sintesis Kokoh TUMBUH**:  
-  TUMBUH menetapkan **Batas Demarkasi Maqashid Syari'ah**: Segala bentuk eksploitasi fisik dan perbudakan santri berkedok khidmah adalah **Batil secara Ontologis dan Haram secara Syar'i**! Khidmah santri hanya sah jika bersifat sukarela, tidak mengorbankan hak belajar/tidur santri, dan berorientasi pada kemaslahatan umum pesantren (*Maslahah 'Ammah*), bukan melayani kemewahan pribadi individu pengasuh. *(Rujukan: Asy-Syathibi, Al-Muwafaqat, Juz II, hlm. 300–310).*
+#### 🥊 Ronde 3: Sanggahan Pamungkas Bahaya Hegemoni Feodal Berkedok Adab
+* **Pihak A (Sudut Pandang Perlindungan Hak Santri)**:  
+  *"Bagaimana jika figur pengasuh memanfaatkan klaim 'adab objektif' untuk melegitimasi feodalisme yang menindas: santri dipaksa mencuci kendaraan pribadi, memijat pengurus hingga larut malam, dan dilarang bertanya di kelas dengan dalih 'tawadhu'? Bukankah klaim objektivitas ini rawan menjadi alat kesewenang-wenangan?"*
+* **Resolusi Sudut Pandang Maqashid Syari'ah & Tata Kelola Lembaga**:  
+  Segala bentuk eksploitasi fisik dan perbudakan santri berkedok khidmah adalah **Batil secara Ontologis dan Haram secara Syar'i**! Khidmah santri hanya sah apabila bersifat sukarela, tidak melanggar hak istirahat/belajar santri, dan ditujukan bagi kemaslahatan bersama pesantren (*Maslahah 'Ammah*), bukan untuk melayani kepentingan pribadi pengasuh.
+
+> #### 📌 Kasuistika Lapangan 3 & Titik Temu Konsensus
+> * **Studi Kasus**: Pengurus asrama menyuruh santri junior berjaga malam menjaga warung pribadi pengurus hingga jam 3 pagi dengan dalih "ngalap berkah khidmah".
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Disepakati bahwa khidmah yang merampas jam tidur biologis dan hak belajar santri adalah pelanggaran syariat dan adab. Keteladanan pemimpin (*Qudwah Hasanah*) adalah melayani santri, bukan mengeksploitasi santri demi kepentingan pribadi.
 
 ---
 
 ### 5. Inkuiri Riset 4: Pengujian Stres Tiga Unsur Pokok Realitas
 
 ```mermaid
-flowchart TD
-    subgraph TigaUnsurClash["3 UNSUR POKOK REALITAS TUMBUH"]
-        U1["1. KEBERADAAN (Al-Wujud al-Haqiqiy)<br/>Wujud Khaliq (Wajib) & Wujud Alam (Mumkin)."]
-        U2["2. OBJEKTIVITAS (Ath-Thab' al-Maudhu'iy)<br/>Hukum moral sepasti hukum gravitasi."]
-        U3["3. INDEPENDENSI DARI PERSEPSI<br/>Kebenaran tidak ditentukan oleh voting mayoritas."]
-    end
+graph TD
+    A["Gugatan Pragmatisme Pesantren (Pihak A):<br/>'Pelaku maksiat/zalim tampak bahagia, di mana letak kepastian hukum moral?'"]
+    --> B1["Tinjauan Akidah Aswaja:<br/>Konsep Istidraj & Skala Waktu Akhirat yang Melampaui Dunia Fana."]
+    A --> B2["Tinjauan Neurobiologi:<br/>Dusta & kezaliman seketika memicu badai stres kortisol & merusak homeostasis."]
+    A --> B3["Tinjauan Tata Kelola Asrama:<br/>Kebenaran moral tidak tunduk pada voting mayoritas asrama."]
+    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Hukum moral bekerja dengan kepastian objektif setara hukum gravitasi."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 4*)
@@ -202,36 +218,38 @@ flowchart TD
 * **Konklusi (*an-Natijah*)**: Maka, status keburukan dosa dan kebaikan adab bersifat mutlak objektif, tidak bergantung pada apakah manusia menormalisasikannya atau tidak. *(Rujukan: Al-Ghazali, Ihya' 'Ulumiddin, Juz III, hlm. 12–15; Wynn & Bloom, 2014, hlm. 32–38).*
 
 #### 🥊 Ronde 1: Pembuktian Kepastian Matematis Hukum Moral Setara Gravitasi
-* **Penyelidikan Kausalitas**:  
-  TUMBUH membuktikan bahwa dosa dan kezaliman memiliki konsekuensi objektif seketika:  
-  Secara biologis, saat seseorang berbohong atau menganiaya kawan, amigdala memicu badai neurotransmiter stres (kortisol) yang merusak homeostasis tubuh. Secara spiritual, titik hitam (*nuktah sauda'*) seketika menutupi kejernihan kalbu (*Basirah*). Kerusakan ini terjadi pasti secara hukum ontologis, terlepas apakah perbuatan itu tertangkap basah oleh musyrif atau tidak.
+* **Tinjauan Kausalitas Neuro-Spiritual**:  
+  Dosa dan kezaliman memiliki konsekuensi objektif seketika. Secara biologis, saat seseorang berbohong atau menganiaya kawan, amigdala memicu lonjakan hormon stres (kortisol) yang mengacaukan homeostasis tubuh. Secara spiritual, titik hitam (*nuktah sauda'*) seketika menutupi kejernihan kalbu (*Basirah*). Kerusakan ini terjadi secara pasti, terlepas dari apakah perbuatan tersebut tertangkap basah oleh musyrif atau tidak.
 
-#### 🥊 Ronde 2: Sanggahan Balik Paradoks Orang Zalim yang Tampak Bahagia (*Counter-Objection*)
-* **Sanggahan Balik Lawan (*Fa-in Qiila*)**:  
-  *"Sanggahan! Jika hukum moral seobjektif gravitasi, mengapa banyak senior pelaku bullying atau koruptor di luar sana yang hidup kaya raya, sehat bugar, dan tertawa gembira tanpa terlihat hancur oleh gravitasi moral Anda? Bukankah teori Anda terpatahkan oleh realitas empiris?"*
-* **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Lawan terjebak dalam rabun dekat epistemik (*Epistemic Myopia*):  
-  1. *Istidraj Ontologis*: Dalam tauhid Ahlussunnah, kenikmatan lahiriah orang zalim adalah bentuk *Istidraj* (jebakan penundaan siksa). Hancurnya sensitivitas nurani (*Mautul Qalb*) adalah hukuman paling mengerikan di alam malakut yang tidak disadari oleh pelaku.  
-  2. *Skala Waktu Realitas*: Hukum gravitasi moral tidak dibatasi oleh ruang sempit duniawi 60 tahun, melainkan berlanjut hingga pengadilan Mahsyar dan neraka. Menilai kegagalan hukum moral hanya dari kesenangan semu 5 menit di dunia adalah kedangkalan berpikir. *(Rujukan: QS. Al-An'am: 44; Ibnu 'Athaillah, Syarah Al-Hikam, Hikmah No. 34).*
+#### 🥊 Ronde 2: Sanggahan Balik Paradoks Orang Zalim yang Tampak Bahagia
+* **Pihak A (Sudut Pandang Skeptisisme Empiris)**:  
+  *"Sanggahan! Jika hukum moral seobjektif gravitasi, mengapa banyak pelaku perundungan atau koruptor yang hidup berkecukupan, bertubuh sehat, dan tertawa gembira tanpa terlihat binasa oleh hukum moral yang Anda maksud? Bukankah realitas empiris membantah teori ini?"*
+* **Tinjauan Sudut Pandang Epistemologi Turats & Tauhid Aswaja**:  
+  Pandangan tersebut mengalami rabun dekat epistemik (*epistemic myopia*):  
+  1. *Istidraj Ontologis*: Dalam tauhid Ahlussunnah, kenikmatan lahiriah orang zalim adalah *istidraj* (penundaan siksa). Matinya kepekaan nurani (*Mautul Qalb*) adalah hukuman paling berat di alam batin yang kerap tidak disadari pelaku.  
+  2. *Skala Realitas Melampaui Dunia*: Hukum moral tidak dibatasi oleh ruang sempit duniawi yang fana, melainkan berlanjut hingga pengadilan hisab akhirat yang kekal (QS. Al-An'am: 44). Menilai hukum moral hanya dari kenikmatan semu sesaat adalah kedangkalan penalaran.
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Tekanan Mayoritas Asrama (*The Extreme Dilemma*)
-* **Sanggahan Pamungkas Lawan**:  
-  *"Jika dalam satu kobong asrama 10 dari 10 santri sepakat bahwa kabur malam untuk merokok itu tindakan ksatria dan solidaritas, atas dasar apa musyrif mengklaim perbuatan itu salah jika seluruh komunitas di ruangan itu merasa bahagia dan saling mendukung?"*
-* **Sintesis Kokoh TUMBUH**:  
-  Inilah pentingnya **Unsur ke-3: Independensi Ontologis dari Persepsi Manusia**. Status racun pada sianida tidak berubah menjadi madu meskipun 100 orang sepakat menamainya madu. Begitu pula kemaksiatan dan pelanggaran adab: ia tetap merusak fitrah manusia secara objektif meskipun 100% penghuni asrama melakukan normalisasi dosa (*Normalisation of Deviance*). Kebenaran diukur dari kesesuaian dengan Wahyu dan Sunnatullah, bukan dari voting demokrasi asrama. *(Rujukan: QS. Al-An'am: 116).*
+#### 🥊 Ronde 3: Sanggahan Pamungkas Tekanan Mayoritas Asrama (Normalisasi Dosa)
+* **Pihak A (Sudut Pandang Sosiologis Lapangan)**:  
+  *"Jika dalam satu kobong asrama 10 dari 10 santri sepakat bahwa kabur malam untuk merokok adalah bentuk solidaritas dan kebanggaan kelompok, atas dasar apa musyrif mengklaim perbuatan itu salah jika seluruh penghuni kamar merasa senang dan kompak?"*
+* **Resolusi Sudut Pandang Filosofis & Manajemen Asrama**:  
+  Inilah pentingnya prinsip **Independensi Realitas dari Persepsi Manusia**. Status racun pada senyawa berbahaya tidak berubah menjadi obat meskipun 100 orang sepakat menamainya obat. Begitu pula kemaksiatan dan pelanggaran adab: ia tetap merusak fitrah manusia secara objektif meskipun seluruh penghuni kamar melakukan normalisasi penyimpangan (*normalization of deviance*). Kebenaran diukur dari kesesuaian dengan Wahyu dan Sunnatullah, bukan dari voting suara terbanyak (QS. Al-An'am: 116).
+
+> #### 📌 Kasuistika Lapangan 4 & Titik Temu Konsensus
+> * **Studi Kasus**: Tradisi "mencomot sandal" (*ghashab*) dianggap hal lumrah dan lumrah di sebuah asrama karena "semua orang melakukannya".
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Disepakati bahwa normalisasi massal tidak mengubah status keharaman ghashab. Ghashab merusak rasa saling percaya (*ukhuwah*) dan membiasakan pengabaian hak milik orang lain yang merusak integritas moral santri.
 
 ---
 
-### 6. Inkuiri Riset 5: Manunggalnya 'Alam Mulk (Dhohir) & 'Alam Malakut (Batin) di Pesantren NU
+### 6. Inkuiri Riset 5: Manunggalnya 'Alam Mulk (Dhohir) & 'Alam Malakut (Batin) di Pesantren
 
 ```mermaid
 graph TD
-    subgraph ManunggalMulkMalakut["MANUNGGALNYA 'ALAM MULK & 'ALAM MALAKUT (NU ASWAJA)"]
-        Mulk["'ALAM MULK / DHOHIR (Perkara Hissiyyat)<br/>• Fisik, sanitasi jeding, gizi, & interaksi sosial asrama.<br/>*Kaidah*: At-Tawakkul laa yunaafi al-asbaab."]
-        Malakut["'ALAM MALAKUT / BATIN (Perkara Sam'iyyat)<br/>• Muraqabatullah, catatan malaikat, berkah, & hisab.<br/>*Kaidah*: An-Niyyah ruhul 'amal."]
-        
-        Mulk <===>|Manunggal Harmonis 24 Jam| Malakut
-    end
+    A["Gugatan Dikotomi (Pihak A):<br/>'Kemenangan mana yang diutamakan: Penanganan Medis atau Ruqyah Gaib?'"]
+    --> B1["Tinjauan Kaidah Ushul Fiqh:<br/>Wajib mendahulukan penanganan medis darurat (Hifzh an-Nafs)."]
+    A --> B2["Tinjauan Tasawuf Aswaja:<br/>'Alam Mulk adalah jembatan & sarana nyata bagi penyingkapan 'Alam Malakut."]
+    A --> B3["Tinjauan Bimbingan Konseling:<br/>Mengintegrasikan stabilisasi fisik dengan penguatan spiritual."]
+    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Tawakkal batin manunggal seiring dengan ikhtiar medis dhohir."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 5*)
@@ -239,37 +257,37 @@ graph TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Pendidikan pesantren mengasuh santri yang hidup di alam mulk fisik (membutuhkan kesehatan, sanitasi, dan gizi) sekaligus mengemban amanah malakut (keikhlasan, hisab, dan muraqabah).
 * **Konklusi (*an-Natijah*)**: Maka, pesantren wajib menyatukan tata kelola kebersihan/kesehatan fisik dhohir dengan pembinaan spiritual batin secara simultan tanpa dikotomi. *(Rujukan: Al-Ghazali, Ihya' 'Ulumiddin, Juz I, Kitab al-'Ilm, hlm. 35–42).*
 
-#### 🥊 Ronde 1: Harmoni Syariat Dhohir & Hakikat Batin (*Ihya' & Al-Hikam*)
-* **Kaidah Ulama Salaf**:  
-  Imam Al-Ghazali dan Ibnu 'Athaillah As-Sakandari menegaskan bahwa 'Alam Mulk adalah tangga (*jism*) bagi penyingkapan 'Alam Malakut. Penyelidikan TUMBUH membuktikan bahwa memisahkan urusan 'Alam Mulk (kebersihan got asrama, kesehatan mata santri, sirkulasi udara) dari 'Alam Malakut (kekhusyukan shalat tahajjud dan hafalan) adalah kesalahan fatal yang melumpuhkan peradaban pesantren.
+#### 🥊 Ronde 1: Harmoni Syariat Dhohir & Hakikat Batin (Ihya' & Al-Hikam)
+* **Tinjauan Epistemologi Turats Aswaja**:  
+  Imam Al-Ghazali dan Ibnu 'Athaillah As-Sakandari menegaskan bahwa 'Alam Mulk adalah bejana lahiriah bagi terwujudnya kesucian di 'Alam Malakut. Memisahkan urusan 'Alam Mulk (kebersihan saluran air, kesehatan mata santri, asupan gizi) dari 'Alam Malakut (keikhlasan belajar, ketenangan shalat) adalah pemisahan keliru yang melumpuhkan produktivitas peradaban pesantren.
 
-#### 🥊 Ronde 2: Sanggahan Balik Kecukupan Sains Empiris Murni (*Counter-Objection*)
-* **Sanggahan Balik Kaum Saintis Sekuler (*Fa-in Qiila*)**:  
-  *"Sanggahan! Jika sanitasi, arsitektur gedung, dan gizi neurobiologis sudah diperbaiki secara sempurna di alam mulk, santri pasti berprestasi dan tertib secara otomatis melalui sains medis. Mengapa kita masih membutuhkan konsep abstrak alam malakut (malaikat, pahala, berkah guru)?"*
-* **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Sains alam mulk hanya mampu mengatur **Mekanika Perilaku (*How*)**, namun gagal total memberikan **Makna & Integritas Kalbu (*Why*)**. Tanpa kesadaran 'Alam Malakut (*Muraqabatullah*), santri yang cerdas secara sains dan berbadan sehat akan menjelma menjadi koruptor canggih yang lihai memanipulasi hukum demi kepentingan pribadi. Kesadaran hisab malakut menanamkan *pengawas internal permanen* yang menjaga santri tetap beradab di saat sendirian dalam kegelapan malam. *(Rujukan: Al-Attas, 1995, hlm. 40–48).*
+#### 🥊 Ronde 2: Sanggahan Balik Kecukupan Sains Empiris Murni Tanpa Malakut
+* **Pihak A (Sudut Pandang Saintisme Sekuler)**:  
+  *"Sanggahan! Jika fasilitas sanitasi, arsitektur gedung, dan gizi fisik sudah dipenuhi secara sempurna melalui sains medis modern, santri pasti berprestasi secara otomatis. Mengapa kita masih membutuhkan konsep alam malakut (malaikat, pahala, keikhlasan batin)?"*
+* **Tinjauan Sudut Pandang Filosofis & Pendidikan Nilai**:  
+  Sains alam mulk hanya mampu mengatur **Mekanika Perilaku (*How*)**, namun tidak mampu menjawab **Makna & Integritas Kalbu (*Why*)**. Tanpa kesadaran akan 'Alam Malakut (*Muraqabatullah*), santri yang berbadan sehat dan cerdas secara intelektual berisiko tumbuh menjadi pribadi oportunis yang lihai memanipulasi aturan. Kesadaran hisab malakut menanamkan *pengawas internal abadi* di dalam hati sanubari santri saat berada dalam kesendirian.
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Benturan Medis vs Mitos Kesambet Jin (*The Extreme Dilemma*)
-* **Sanggahan Pamungkas Kalangan Tradisionalis Ekstrem**:  
-  *"Bagaimana jika ada santri histeris/kejang di kobong asrama, pengurus membacakan ruqyah dan meyakini santri kesurupan jin penunggu sumur pondok, sementara dokter medis mendiagnosis santri terkena epilepsi atau serangan panik kognitif? Siapa yang harus dimenangkan: Alam Malakut atau Alam Mulk?"*
-* **Sintesis Kokoh TUMBUH**:  
-  TUMBUH menetapkan **Protokol Integrasi Maqashid**:  
-  1. Penanganan pertama **WAJIB secara medis empiris di Alam Mulk** (pemeriksaan dokter, stabilisasi pernapasan/saraf, hidrasi). Mengabaikan pertolongan medis darurat atas nama ruqyah adalah pelanggaran berat hukum syariat *Hifzh an-Nafs* (menjaga nyawa).  
-  2. Pendampingan ruqyah syar'iyyah dan doa ma'tsur dilakukan sebagai penguat spiritual batin, bukan pengganti diagnosis klinis. Praktik menuduh santri 'kemasukan jin' untuk menutupi kasus perundungan atau stres asrama wajib diberantas tuntas! *(Rujukan: Asy-Syathibi, Al-Muwafaqat, Juz II, hlm. 120–128).*
+#### 🥊 Ronde 3: Sanggahan Pamungkas Benturan Medis vs Mitos Kesambet Jin
+* **Pihak A (Sudut Pandang Mistisisme Ekstrem)**:  
+  *"Bagaimana jika ada santri histeris atau kejang di kobong asrama, pengurus meyakini santri kesurupan jin penunggu sumur pondok, sementara dokter medis mendiagnosis santri mengalami serangan panik berat atau kelelahan saraf akut? Siapa yang harus dimenangkan: Alam Malakut atau Alam Mulk?"*
+* **Resolusi Sudut Pandang Fiqh Medis & Bimbingan Konseling**:  
+  Penanganan pertama **Wajib secara medis empiris di Alam Mulk** (pemeriksaan dokter, stabilisasi pernapasan, hidrasi, de-eskalasi emosi). Mengabaikan pertolongan medis darurat atas nama ritual ruqyah semata adalah pelanggaran terhadap maqashid syariah *Hifzh an-Nafs* (menjaga nyawa). Doa dan ruqyah syar'iyyah dihadirkan sebagai penguat spiritual batin, bukan pengganti diagnosa medis klinis.
+
+> #### 📌 Kasuistika Lapangan 5 & Titik Temu Konsensus
+> * **Studi Kasus**: Santri pingsan berulang kali saat antre mandi pagi didiagnosis oleh teman sekamarnya "ditempeli jin", padahal ia mengalami anemia defisiensi besi dan hipoglikemia karena sering melewatkan sarapan.
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Disepakati bahwa setiap keluhan fisik santri wajib diperiksa melalui kaidah medis empiris terlebih dahulu. Perlindungan raga santri adalah bagian tak terpisahkan dari pengamalan syariat Islam.
 
 ---
 
 ### 7. Inkuiri Riset 6: Translasi Lapangan ke Kurikulum, Arsitektur, & PBIS 24 Jam
 
 ```mermaid
-flowchart LR
-    subgraph TranslasiKeAksi["DARI FILOSOFI ONTO-REALITAS KE OPERASIONALISASI ASRAMA"]
-        Filosofi["Realisme Integral Mulk-Malakut"]
-        --> K1["1. Arsitektur Kobong Ramah Cahaya & Ventilasi (10% Luas)"]
-        --> K2["2. SOP Higienitas Jeding/MCK & Standar Gizi Biologis"]
-        --> K3["3. Kurikulum Muraqabah Tauhid Terapan 24 Jam"]
-        --> K4["4. Sistem Disiplin Restoratif PBIS Bebas Kekerasan"]
-    end
+flowchart TD
+    A["Gugatan Pesantren Sederhana (Pihak A):<br/>'Standar sanitasi & PBIS ini elitis, butuh dana miliaran!'"]
+    --> B1["Tinjauan Manajemen Asrama:<br/>90% perbaikan adalah soal Mindset & Regulasi Berkeadilan (Nol Rupiah)."]
+    A --> B2["Tinjauan Arsitektur Sehat:<br/>Membuka jendela & mengatur ventilasi alami tidak memerlukan biaya mahal."]
+    A --> B3["Tinjauan Disiplin Restoratif:<br/>Penanganan Tier 3 tegas melindungi korban tanpa kekerasan fisik."]
+    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Ekosistem yang sehat dan adil dapat diterapkan di pesantren manapun."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 6*)
@@ -278,37 +296,41 @@ flowchart LR
 * **Konklusi (*an-Natijah*)**: Maka, pesantren wajib menerapkan arsitektur ramah biologis dan sistem Positive Behavioral Interventions and Supports (PBIS) restoratif multi-tier 24 jam. *(Rujukan: Sugai & Horner, 2006, hlm. 245–259; Sapolsky, 2017).*
 
 #### 🥊 Ronde 1: Desain Arsitektur Asrama Ramah Neurobiologis & Parameter Terukur
-* **Hasil Uji Lapangan & Parameter Saintifik**:  
-  * **Pencahayaan**: Minimal 100–150 lux di area belajar kobong untuk mencegah kelelahan saraf optik dan penurunan konsentrasi.  
+* **Tinjauan Parameter Lingkungan Belajar Terukur**:  
+  * **Pencahayaan**: Minimal 100–150 lux di area belajar kamar untuk mencegah kelelahan saraf optik dan penurunan fokus.  
   * **Sirkulasi Udara**: Luas ventilasi aktif minimal 10% dari luas lantai kamar untuk menjaga saturasi oksigen otak santri di atas 98%.  
-  * **Kebersihan Air**: Uji laboratorium rutin terhadap angka bakteri E. coli (0 CFU/100ml) pada air jeding wudhu untuk memutus rantai penularan penyakit kulit dan pencernaan.
+  * **Kebersihan Air**: Uji berkala terhadap angka bakteri E. coli (0 CFU/100ml) pada air bak wudhu untuk memutus rantai penyakit kulit dan pencernaan.
 
-#### 🥊 Ronde 2: Sanggahan Balik Tudingan Sistem Elitis-Mahal (*Counter-Objection*)
-* **Sanggahan Balik Lawan (*Fa-in Qiila*)**:  
-  *"Sanggahan! Standar sanitasi, ventilasi arsitektur, dan menu gizi neuro-nutrisi yang dituntut TUMBUH membutuhkan anggaran miliaran rupiah. Sistem ini hanya cocok untuk pesantren borjuis perkotaan dengan SPP mahal. Bagaimana dengan ribuan pesantren rakyat di pelosok desa yang serba kekurangan dana?"*
-* **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Ini adalah salah paham besar. **90% prinsip TUMBUH adalah masalah Keadilan Manajemen dan Pola Pikir (*Management Mindset*), bukan uang**:  
-  * Membuka jendela kamar agar udara segar masuk tidak membutuhkan biaya sepeser pun.  
-  * Menghentikan tradisi tamparan musyrif dan perundungan senior adalah keputusan moral nol rupiah.  
-  * Menjaga jeding/toilet tetap wangi dan bersih hanya membutuhkan kedisiplinan jadwal piket yang adil.  
-  Pesantren di pelosok desa dengan bilik bambu sekalipun dapat menerapkan ekosistem TUMBUH secara paripurna selama asrama dijaga bersih, makanannya higienis, dan pengasuhnya mengalirkan keteladanan *Qudwah Hasanah*.
+#### 🥊 Ronde 2: Sanggahan Balik Tudingan Sistem Elitis-Mahal vs Pesantren Sederhana
+* **Pihak A (Sudut Pandang Pengelola Pesantren Pedesaan)**:  
+  *"Sanggahan! Standar ventilasi, higienitas air, dan menu nutrisi terukur yang dituntut terdengar elitis dan membutuhkan dana besar. Pendekatan ini dinilai hanya cocok untuk pesantren modern perkotaan berbiaya tinggi. Bagaimana dengan ribuan pesantren rakyat di pedesaan yang serba terbatas?"*
+* **Tinjauan Sudut Pandang Tata Kelola Pengasuhan Asrama**:  
+  Sebagian besar prinsip dasar perbaikan lingkungan asrama adalah **masalah Pola Pikir Manajemen (*Management Mindset*) dan Keadilan Perlakuan, bukan anggaran uang**:  
+  * Membuka jendela setiap pagi agar sirkulasi udara berganti adalah keputusan tanpa biaya.  
+  * Menghentikan tradisi kekerasan verbal atau hukuman fisik adalah komitmen moral nol rupiah.  
+  * Menjaga kamar mandi tetap bersih dan tidak berbau hanya menuntut pembagian jadwal piket yang adil dan konsisten.  
+  Bilik asrama bambu di pelosok sekalipun dapat menjelma menjadi lingkungan yang berkah dan sehat selama dijaga kebersihannya dan diisi dengan keteladanan *Qudwah Hasanah*.
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mitigasi Pelanggaran Berat Tier 3 (*The Extreme Dilemma*)
-* **Sanggahan Pamungkas Lawan**:  
-  *"Jika pesantren TUMBUH mengharamkan hukuman fisik, pengusiran sepihak, dan pemaluan publik, bagaimana jika terjadi pelanggaran sangat berat (Tier 3: pencurian berulang, asusila, atau perkelahian berdarah)? Apakah santri kriminal tersebut hanya dinasihati dengan senyuman dan dibiarkan merusak santri lain?"*
-* **Sintesis Kokoh TUMBUH**:  
-  Disiplin Positif Restoratif adalah prinsip **Tegas & Welas Asih (*Firm and Kind*)**, bukan pembiaran anarkis (*Permissiveness*):  
-  1. *Isolasi Terapeutik & Perlindungan Korban*: Pelaku pelanggaran berat langsung dipisahkan dari interaksi umum demi menghentikan bahaya dan melindungi korban (*Taqdim Dar'il Mafasid*).  
-  2. *Konsekuensi Logis & Restitusi Nyata*: Pelaku wajib mengganti kerugian materiil/sosial, menjalani proses konseling intensif Tier 3, serta menyelesaikan tugas pemulihan relasi (*Ishlah al-Bain*).  
-  3. *Hukum Positif*: Jika pelanggaran menyangkut tindak pidana berat yang mengancam nyawa, pesantren bekerja sama dengan aparat hukum resmi demi keadilan publik, tanpa melakukan main hakim sendiri di dalam pondok. *(Rujukan: Sugai & Horner, 2006; Asy-Syathibi, Al-Muwafaqat, Juz II).*
+#### 🥊 Ronde 3: Sanggahan Pamungkas Mitigasi Pelanggaran Berat Tier 3 Bebas Hukuman Fisik
+* **Pihak A (Sudut Pandang Keamanan Ketertiban Asrama)**:  
+  *"Jika kekerasan fisik, pemaluan di depan umum, dan pengusiran sepihak dilarang, bagaimana jika terjadi pelanggaran sangat berat (Tier 3: pencurian berulang, perkelahian, atau pelecehan)? Apakah pelaku hanya dinasihati lembut sehingga merugikan santri lain?"*
+* **Resolusi Sudut Pandang Disiplin Restoratif & Perlindungan Anak**:  
+  Disiplin Positif Restoratif berpegang pada prinsip **Tegas & Penuh Welas Asih (*Firm and Kind*)**, bukan pembiaran:  
+  1. *Pemisahan Sementara Terapeutik*: Pelaku pelanggaran berat langsung dipisahkan dari interaksi umum demi menghentikan eskalasi bahaya dan melindungi korban (*Taqdim Dar'il Mafasid*).  
+  2. *Konsekuensi Logis & Restitusi Nyata*: Pelaku wajib bertanggung jawab mengganti kerugian, menjalani pendampingan konseling intensif Tier 3, serta menempuh proses pemulihan relasi (*Ishlah al-Bain*).  
+  3. *Koordinasi Hukum Positif*: Jika menyangkut tindak pidana berat, lembaga berkoordinasi dengan otoritas resmi demi keadilan dan perlindungan hukum, tanpa melakukan persekusi fisik di dalam lingkungan pondok.
+
+> #### 📌 Kasuistika Lapangan 6 & Titik Temu Konsensus
+> * **Studi Kasus**: Dua santri terlibat perkelahian fisik hingga salah satunya terluka memar. Musyrif lama berniat memukul kedua santri di depan seluruh santri saat apel malam.
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Disepakati bahwa memukul dan mempermalukan santri di depan publik justru melegitimasi kekerasan di mata santri lain. Penanganan yang benar adalah memisahkan pelaku, mengobati santri yang terluka, melakukan mediasi restoratif terpisah, dan menetapkan konsekuensi kerja sosial pemulihan asrama secara bermartabat.
 
 ---
 
 ### 8. Formulasi & Penarikan 6 Kesimpulan Formal Hasil Riset Ontologis
 
-Dari seluruh rangkaian pertarungan dialektika tiga ronde, formalisasi silogisme mantiq, dekonstruksi paradigma lama, dan pembuktian empiris di atas, penelitian ini **berhasil merumuskan secara induktif-deduktif 6 Kesimpulan Ontologis Pokok**. 
+Dari seluruh pertarungan dialektika inkuiri tiga ronde, formalisasi silogisme mantiq, dan uji kasuistika lapangan di atas, penelitian ini **berhasil merumuskan secara induktif-deduktif 6 Kesimpulan Ontologis Pokok**. 
 
-Seluruh kesimpulan ini kemudian **dikodifikasikan secara resmi sebagai dokumen konsensus eksekutif** pada modul [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md):
+Seluruh kesimpulan ini dikodifikasikan secara resmi sebagai dokumen konsensus eksekutif pada modul [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md):
 
 | No | Babak Penyelidikan Riset (*Working Paper Ini*) | Hasil Formulasi Kesimpulan Formal (*P1-01-01-01*) | Temuan Kunci & Argumen Pembeda |
 | :---: | :--- | :--- | :--- |
@@ -316,8 +338,8 @@ Seluruh kesimpulan ini kemudian **dikodifikasikan secara resmi sebagai dokumen k
 | **2** | **Riset Inkuiri 2**: Investigasi Tiga Paradigma Asumsi | **Kesimpulan 2**: Mengapa Definisi Realitas Menentukan Arah Pendidikan? | Membuktikan kegagalan reduksionisme materialis dan mistisisme pasif, serta mengukuhkan Realisme Integral. |
 | **3** | **Riset Inkuiri 3**: Investigasi Semantik Wujud Objektif | **Kesimpulan 3**: Analisis Istilah dan Definisi Operasional Realitas | Menegaskan definisi wujud objektif (*al-Mawjud al-Haqiqiy*) yang independen dari hegemoni kuasa feodal. |
 | **4** | **Riset Inkuiri 4**: Pengujian Stres 3 Unsur Pokok | **Kesimpulan 4**: Tiga Unsur Pokok (Keberadaan, Objektivitas, Independensi) | Membuktikan bahwa hukum moral adab bekerja dengan kepastian objektif setara hukum gravitasi. |
-| **5** | **Riset Inkuiri 5**: Manunggalnya 'Alam Mulk & Malakut | **Kesimpulan 5**: Dikotomi Realitas ('Alam Mulk & 'Alam Malakut) | Menegakkan kaidah Aswaja NU: Tawakkal tidak menafikan ikhtiar medis/sanitasi di alam mulk. |
-| **6** | **Riset Inkuiri 6**: Translasi ke Kurikulum & PBIS | **Kesimpulan 6**: Implikasi Ontologis bagi Struktur Kurikulum TUMBUH | Menghasilkan mandat operasional: SOP sanitasi kobong, arsitektur ramah otak, dan sistem disiplin PBIS anti-kekerasan. |
+| **5** | **Riset Inkuiri 5**: Manunggalnya 'Alam Mulk & Malakut | **Kesimpulan 5**: Dikotomi Realitas ('Alam Mulk & 'Alam Malakut) | Menegakkan kaidah Aswaja: Tawakkal tidak menafikan ikhtiar medis/sanitasi di alam mulk. |
+| **6** | **Riset Inkuiri 6**: Translasi ke Kurikulum & PBIS | **Kesimpulan 6**: Implikasi Ontologis bagi Struktur Kurikulum | Menghasilkan mandat operasional: SOP sanitasi kobong, arsitektur ramah otak, dan sistem disiplin PBIS anti-kekerasan. |
 
 ---
 
@@ -341,16 +363,16 @@ Seluruh kesimpulan ini kemudian **dikodifikasikan secara resmi sebagai dokumen k
 ### 10. Glosarium dan Penjelasan Istilah Asing, Turats NU, & Teknis
 
 | No | Istilah / Terminologi | Asal Bahasa / Tradisi | Penjelasan Konseptual & Kontekstual |
-| :---: | :--- | :---: | :--- |
-| 1 | **Qiyas Mantiqi** | Arab (*قياس منطقي*) | Silogisme logika deduktif formal yang terdiri dari premis mayor, premis minor, dan konklusi yang tak terbantahkan. |
-| 2 | **Al-Munazharah wal-Jadal** | Arab (*المناظرة والجدل*) | Tradisi debat ilmiah klasik untuk menguji kekuatan dalil dan meruntuhkan kerancuan berpikir lawan secara logis. |
-| 3 | **Fa-in Qiila ... Qultu** | Arab (*فإن قيل ... قلت*) | Formula dialektika turats: *"Jika disanggah begini... maka kami jawab begitu..."* yang menguji argumen secara berlapis. |
-| 4 | **'Alam Mulk** | Arab / Turats NU (*عالم الملك*) | Alam nyata fisik-material yang kasat mata (*Hissiyyat / Syahadah*), tempat berlakunya hukum sebab-akibat fisika dan biologi. |
-| 5 | **'Alam Malakut** | Arab / Turats NU (*عالم الملكوت*) | Alam batin metafisik (*Sam'iyyat / Ghaibiyyat*), mencakup malaikat, ruh, catatan hisab, surga, neraka, dan barakah. |
-| 6 | **Survivorship Bias** | Inggris (Statistik) | Kesalahan berpikir logis di mana seseorang hanya mengambil kesimpulan dari individu yang selamat, mengabaikan mayoritas yang gagal/hancur. |
-| 7 | **Pseudo-Compliance** | Inggris (Psikologi) | Kepatuhan semu; sikap pura-pura taat santri yang dipicu oleh rasa takut terhadap hukuman fisik, tanpa internalisasi moral batin. |
-| 8 | **Isytiqoq al-Wujud** | Arab (*اشتقاق الوجود*) | Analisis etimologis pembentukan akar kata 'Wujud' dan hakikat keberadaannya dalam realitas ciptaan Allah. |
-| 9 | **Istidraj Ontologis** | Arab (*استدraj*) | Jebakan kenikmatan semu di mana pelaku kezaliman dibiarkan merasa nyaman sementara waktu sebelum azab menimpanya. |
-| 10 | **At-Tawakkul laa Yunaafi al-Asbaab** | Kaidah Ushul Turats | Prinsip Aswaja bahwa berserah diri pada Allah (tawakkal) wajib dibarengi dengan ikhtiar ilmiah menempuh hukum sebab-akibat dhohir. |
-| 11 | **Firm and Kind** | Inggris (Disiplin Positif) | Pendekatan pengasuhan yang memadukan ketegasan prinsip batas aturan (*firm*) dengan kehangatan kasih sayang (*kind*). |
-| 12 | **Ishlah al-Bain** | Arab (*إصلاح البين*) | Pemulihan hubungan, perdamaian, dan resolusi konflik secara restoratif untuk menghapus dendam antarsantri. |
+| :---: | :--- | :--- | :--- |
+| 1 | **Qiyas Mantiqi** | Arab (*قياس منطقي*) | Silogisme logika deduktif formal yang terdiri dari premis mayor, premis minor, dan konklusi yang teruji. |
+| 2 | **'Alam Mulk** | Arab / Turats Aswaja (*عالم الملك*) | Alam nyata fisik-material yang kasat mata (*Hissiyyat / Syahadah*), tempat berlakunya hukum kausalitas fisika dan biologi. |
+| 3 | **'Alam Malakut** | Arab / Turats Aswaja (*عالم الملكوت*) | Alam batin metafisik (*Sam'iyyat / Ghaibiyyat*), mencakup malaikat, ruh, catatan hisab, dan dimensi spiritual. |
+| 4 | **Survivorship Bias** | Inggris (Metodologi Riset) | Kesalahan penalaran statistik di mana kesimpulan hanya diambil dari individu sukses yang bertahan, mengabaikan korban yang tersisih. |
+| 5 | **Pseudo-Compliance** | Inggris (Psikologi Perilaku) | Kepatuhan semu; sikap pura-pura taat yang dipicu oleh rasa takut hukuman fisik tanpa internalisasi nilai moral di dalam kalbu. |
+| 6 | **Isytiqoq al-Wujud** | Arab (*اشتقاق الوجود*) | Analisis etimologis pembentukan akar kata 'Wujud' dan hakikat keberadaannya dalam realitas ciptaan Allah. |
+| 7 | **Istidraj Ontologis** | Arab (*استدراج*) | Jebakan kenikmatan lahiriah sementara yang dialami pelaku kezaliman sebelum datangnya pertanggungjawaban hisab. |
+| 8 | **At-Tawakkul laa Yunaafi al-Asbaab** | Kaidah Ushul Fiqh | Prinsip Aswaja bahwa berserah diri pada Allah (tawakkal) wajib dibarengi dengan ikhtiar ilmiah menempuh hukum sebab-akibat dhohir. |
+| 9 | **Firm and Kind** | Inggris (Disiplin Positif) | Pendekatan pengasuhan yang memadukan ketegasan batas aturan (*firm*) dengan kehangatan kasih sayang (*kind*). |
+| 10 | **Ishlah al-Bain** | Arab (*إصلاح البين*) | Pemulihan hubungan, perdamaian, dan resolusi konflik secara restoratif untuk menghapus dendam antarsantri. |
+| 11 | **Taqdim Dar'il Mafasid** | Kaidah Fiqhiyyah (*درء المفاسد*) | Mendahulukan pencegahan bahaya dan perlindungan korban sebelum mengambil tindakan perbaikan lainnya. |
+| 12 | **Normalization of Deviance** | Sosiologi Perilaku | Gejala sosial di mana perilaku menyimpang atau melanggar adab lama-kelamaan dianggap wajar karena dilakukan bersama-sama. |
