@@ -74,21 +74,21 @@ graph LR
 
 #### 🥊 Ronde 1: Gugatan Praktisi Salaf & Pembongkaran Fatalisme Tersembunyi
 * **Gugatan Awal**:  
-  *"Pesantren di Nusantara sudah ratusan tahun berdiri kokoh hanya dengan mengaji Safinah, Taqrib, dan wirid rotib. Mengapa TUMBUH mempersulit diri dengan merumuskan 'Ontologi Realitas'? Bukankah ini jargon akademis elitis yang tidak dibutuhkan santri di kobong?"*
+  *"Pesantren di Nusantara sudah ratusan tahun berjalan baik dengan mengkaji kitab-kitab kuning seperti Safinah, Taqrib, dan wirid harian. Mengapa TUMBUH merasa perlu merumuskan 'Ontologi Realitas'? Bukankah ini istilah yang terkesan rumit dan kurang praktis bagi kehidupan santri di asrama?"*
 * **Tangkisan Argumentatif TUMBUH**:  
-  Penyelidikan lapangan menunjukkan bahwa setiap tindakan kiai, musyrif, dan santri **selalu digerakkan oleh asumsi ontologis**, baik disadari maupun tidak. Ketika pengurus membiarkan kamar mandi berlumut, santri terserang penyakit kulit (*gudikan*), dan santri senior memukuli junior, lalu menganggapnya *"bagian dari tirakat dan pembentukan mental"*, pengurus tersebut sebenarnya sedang menganut **Ontologi Cacat (Fatalisme Jabariyah / Ghaibiyyah Pasif)**. Mereka memisahkan hukum sebab-akibat fisik dari kesalehan batin. Ontologi formal TUMBUH hadir bukan untuk menambah hafalan teori, melainkan untuk menyucikan tauhid operasional pesantren.
+  Penyelidikan lapangan menunjukkan bahwa pola pengasuhan sehari-hari **selalu dipengaruhi oleh cara pandang kita terhadap realitas**, baik disadari maupun tidak. Ketika pengurus membiarkan kamar mandi kotor, santri terserang penyakit kulit (*gudikan*), dan santri senior melakukan kekerasan fisik kepada junior dengan dalih *"melatih kesabaran dan mental santri"*, pengurus tersebut sebenarnya sedang terjebak dalam pemahaman keliru (sikap pasrah tanpa ikhtiar atau *fatalisme*). Mereka memisahkan ikhtiar nyata di alam fisik dari tujuan pendidikan batin. Kerangka ontologi TUMBUH hadir bukan untuk menambah teori hafalan, melainkan untuk meluruskan pemahaman dan praktik pengasuhan sehari-hari di pesantren agar selaras dengan nilai-nilai Islam dan sunnatullah.
 
 #### 🥊 Ronde 2: Sanggahan Balik Romantisme Masa Lalu (*Counter-Objection*)
 * **Sanggahan Balik Lawan (*Fa-in Qiila*)**:  
-  *"Sanggahan! Anda menuduh masa lalu cacat, padahal faktanya para kiai salaf zaman dahulu mencetak ulama sekaliber Hasyim Asy'ari, Ahmad Dahlan, dan Syaikhona Kholil dari bilik bambu yang serba minim. Jika mereka berhasil tanpa sanitasi dan tanpa neurosains, bukankah klaim TUMBUH ini berlebihan?"*
+  *"Sanggahan! Para kiai zaman dahulu berhasil mencetak ulama-ulama besar dari fasilitas pondok yang sangat sederhana. Jika generasi terdahulu bisa berhasil dalam keterbatasan, mengapa sekarang kita harus menuntut standar kebersihan, gizi, dan sains modern?"*
 * **Tangkisan Lanjutan TUMBUH (*Qultu*)**:  
-  Ini adalah falasi logika **Bias Kelangsungan Hidup (*Survivorship Bias*)**. Sejarah mencatat segelintir tokoh agung yang memiliki kekuatan ruhiyah luar biasa (*khariqul 'adah*) sehingga mampu melampaui keterbatasan fisik, namun sejarah melupakan ribuan santri biasa yang gugur di tengah jalan: putus mondok karena tifus, trauma psikologis permanen akibat perpeloncoan, atau gagal paham kitab karena malnutrisi kronis. Selain itu, santri hari ini hidup di era disrupsi digital yang dihujani narasi ateisme dan nihilisme melalui layar gawai. Menghadapi tantangan abad ke-21 hanya dengan romantisme masa lalu tanpa fondasi ontologis yang kokoh adalah tindakan bunuh diri peradaban!
+  Kita perlu melihat realitas ini secara utuh (*tidak terjebak survivorship bias*). Tokoh-tokoh besar masa lalu berhasil berkat tekad dan kekuatan spiritual yang luar biasa, namun pada saat yang sama banyak santri biasa yang menghadapi kendala kesehatan fisik, putus belajar, atau mengalami trauma akibat pola pengasuhan yang keras. Selain itu, tantangan santri hari ini sangat berbeda karena mereka berhadapan langsung dengan arus informasi digital dan pemikiran modern. Mengandalkan nostalgia masa lalu tanpa membenahi sistem pengasuhan dan kesehatan fisik santri tentu tidak bijak bagi masa depan generasi pesantren.
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Ancaman Liberalisme (*The Extreme Dilemma*)
+#### 🥊 Ronde 3: Sanggahan Pamungkas Kekhawatiran Sikap Kritis (*The Extreme Dilemma*)
 * **Sanggahan Pamungkas Lawan**:  
-  *"Bagaimana jika mengajarkan nalar ontologis kritis kepada santri justru membuka kotak pandora: santri menjadi terlalu banyak mendebat kiai, kehilangan tawadhu', dan akhirnya tergelincir menjadi liberal atau sekuler?"*
+  *"Bagaimana jika mengajarkan nalar kritis kepada santri justru membuat mereka kurang menghormati kiai, banyak mendebat, dan kehilangan rasa tawadhu'?"*
 * **Sintesis Kokoh TUMBUH**:  
-  Tawadhu' sejati (*Tawadhu' Syar'iy*) lahir dari kejernihan akal yang mengenal keagungan Allah dan kehinaan diri (*Ma'rifatullah wa Ma'rifatun Nafs*), bukan dari ketidaktahuan yang dipelihara (*kebodohan terstruktur*). Santri yang dibekali ontologi Islam yang kokoh justru menjadi benteng baja yang kebal dari racun liberalisme, karena ia mampu membedakan secara rasional antara kebenaran hakiki (*al-Haqq*) dengan ilusi hawa nafsu (*al-Wahm*).
+  Tawadhu' sejati lahir dari pemahaman yang mendalam tentang keagungan Allah dan kerendahan hati (*Ma'rifatullah wa Ma'rifatun Nafs*), bukan dari kepatuhan buta tanpa pemahaman. Santri yang dibekali pemahaman cara pandang Islam (*Worldview Islam*) yang kokoh justru memiliki daya saring yang kuat terhadap pemikiran menyimpang, karena mereka mampu membedakan dengan jelas antara kebenaran hakiki dengan pemikiran yang keliru.
 
 ---
 
