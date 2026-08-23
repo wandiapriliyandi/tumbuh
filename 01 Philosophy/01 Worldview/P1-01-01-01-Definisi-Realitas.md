@@ -72,24 +72,24 @@ graph LR
 
 ---
 
-### 5. Dikotomi Realitas: Alam Ghaib dan Alam Syahadah
+### 5. Dikotomi Realitas: 'Alam Mulk (Dhohir/Syahadah) dan 'Alam Malakut (Batin/Ghaib)
 
-Worldview Islam memetakan realitas ciptaan (*al-Kawn*) ke dalam dua domain yang saling berinteraksi secara harmonis:
+Dalam tradisi keilmuan pesantren Ahlussunnah wal Jama'ah (NU), sebagaimana termaktub dalam kitab-kitab induk tauhid dan tasawuf (*Ihya' 'Ulumiddin*, *Al-Hikam*, dan *Jauharatut Tauhid*), realitas semesta (*al-Kawn*) dipetakan ke dalam dua alam yang manunggal secara harmonis:
 
-| Domain Realitas | Terminologi Turats | Lingkup Entitas | Instrumen Mengetahuinya |
+| Domain Realitas | Istilah Akrab Turats Pesantren (NU) | Lingkup Wujud / Entitas | Saluran Mengetahuinya (*Idrak*) |
 | :--- | :--- | :--- | :--- |
-| **Alam Ghaib (*'Alam al-Ghayb*)** | *'Alam al-Malakut & al-Jabarut* | Allah SWT, Malaikat, Surga, Neraka, Barzakh, Jin, Hakikat Ruh. | **Wahyu Sharih (*Khabar Shadiq*)** dan bashirah kalbu yang suci. |
-| **Alam Nyata (*'Alam asy-Syahadah*)** | *'Alam al-Mulk wa asy-Syahadah* | Tubuh biologis, gedung asrama, interaksi sosial santri, hukum fisika-biologi. | **Indera Sehat (*al-Hawas as-Salimah*)** dan observasi sains empiris. |
+| **'Alam Malakut / Batin** (*Ghaibiyyat / Sam'iyyat*) | **'Alam Malakut, Alam Arwah, Perkara Samar/Ghaib** | Allah SWT, Malaikat, Siksa Kubur, Mizan, Surga, Neraka, Barzakh, Jin, Hakikat Ruh. | **Wahyu Sharih (*Khabar Shadiq / Sam'iyyat*)** dan bashirah kalbu yang suci (*nurul batin*). |
+| **'Alam Mulk / Dhohir** (*Hissiyyat / Syahadah*) | **'Alam Mulk, Alam Dunya, Alam Ajsam/Kasat Mata** | Tubuh biologis, gedung pondok, interaksi santri-musyrif, hukum fisika-biologi (*sunnatullah kauni*). | **Panca Indera Sehat (*al-Hawas as-Salimah*)** dan penelitian sains empiris (*tajribah*). |
 
-Pendidikan karakter TUMBUH menolak memisahkan kedua alam ini: santri diajarkan bahwa setiap gerak fisik di alam syahadah (seperti memungut sampah atau tersenyum pada kawan) memiliki konsekuensi spiritual langsung di alam ghaib (pencatatan malaikat dan keridhaan Allah SWT).
+Pendidikan karakter TUMBUH berpegang teguh pada kaidah para ulama salaf: **menyatukan antara Dhohir (*'Alam Mulk*) dan Batin (*'Alam Malakut*)**. Santri diajarkan bahwa setiap laku fisik dhohir di alam mulk (seperti menyapu halaman pondok, memungut sampah, atau tawadhu' menghormati guru) memiliki timbangan pahala dan pandangan rahmat di alam malakut (*Muraqabatullah*).
 
 ---
 
 ### 6. Implikasi Ontologis bagi Struktur Kurikulum TUMBUH
 
-1. **Kurikulum Tauhid yang Membumi**: Tauhid bukan sekadar hafalan bait-bait sifat 20 yang abstrak, melainkan diwujudkan dalam kesadaran bahwa Allah mengawasi santri di setiap jengkal ruang asrama (*Muraqabatullah*).
-2. **Penghormatan atas Sunnatullah Empiris**: Menjaga kebersihan kamar, kecukupan nutrisi, dan manajemen waktu diakui sebagai hukum realitas yang wajib ditaati untuk mencapai kesehatan jiwa raga.
-3. **Keseimbangan Dimensi Ruhiyah dan Maddiyah**: Seluruh fasilitas fisik pesantren (arsitektur gedung, pencahayaan lorong, sanitasi) dirancang untuk mendukung optimalisasi ibadah dan penanaman adab 24 jam.
+1. **Penyatuan Syariat Dhohir dan Hakikat Batin**: Tauhid bukan sekadar hafalan bait-bait *Aqidatul Awam* atau *Sanusiyyah*, melainkan diwujudkan dalam kesadaran batin bahwa Allah senantiasa mengawasi gerak-gerik dhohir santri di setiap jengkal asrama (*Muraqabatullah 24 Jam*).
+2. **Kepatuhan pada Sunnatullah Alam Mulk**: Menjaga kebersihan kamar mandi, kecukupan gizi, dan manajemen waktu diakui sebagai hukum dhohir (*Sunnatullah Hissiyyah*) yang wajib ditaati sebagai syarat mencapai ketenangan ibadah batin.
+3. **Keseimbangan Adab Dhohir (*Jasmani*) dan Adab Batin (*Ruhani*)**: Seluruh fasilitas fisik pesantren (kebersihan kobong/kamar, pencahayaan lorong, sanitasi air wudhu) dirancang untuk memuliakan raga santri sebagai amanah Allah.
 
 ---
 

@@ -158,25 +158,28 @@ flowchart TD
 
 ---
 
-### 6. Riset Inkuiri 5: Investigasi Integrasi Dialektis Dua Domain (Ghaib vs Syahadah)
-*(Riset Mendasari Poin 5 pada Berkas Kesimpulan: Dikotomi Realitas: Alam Ghaib dan Alam Syahadah)*
+### 6. Riset Inkuiri 5: Investigasi Integrasi Dialektis Dua Alam ('Alam Mulk/Dhohir vs 'Alam Malakut/Batin)
+*(Penyelidikan Integrasi: Bagaimana Memadukan Perkara Sam'iyyat/Ghaibiyyat dengan Perkara Hissiyyat di Pesantren?)*
+
+Dalam tradisi pesantren Ahlussunnah wal Jama'ah (NU), relasi antara dunia nyata dan dunia metafisik dikaji melalui lensa kitab-kitab induk seperti *Ihya' 'Ulumiddin* (Imam Al-Ghazali) dan *Al-Hikam* (Ibnu 'Athaillah As-Sakandari) sebagai kesatuan antara **'Alam Mulk (Dhohir/Syahadah)** dan **'Alam Malakut (Batin/Ghaib)**:
 
 ```mermaid
 graph TD
-    subgraph IntegrasiDomain["INTERAKSI 24 JAM ALAM GHAIB & ALAM SYAHADAH DI ASRAMA"]
-        S["ALAM SYAHADAH (Fisik-Empiris)<br/>• Gerak fisik santri (memungut sampah, senyum).<br/>• Kondisi biologis (tidur cukup, nutrisi otak, MCK bersih).<br/>• Interaksi sosial (bimbingan musyrif, ketiadaan bullying)."]
+    subgraph IntegrasiDomain["MANUNGGALNYA 'ALAM MULK & 'ALAM MALAKUT 24 JAM DI PONDOK"]
+        S["'ALAM MULK / DHOHIR (Perkara Hissiyyat)<br/>• Laku fisik santri (ngaji, reresik kobong/kamar, senyum).<br/>• Kebugaran raga (turu cukup, gizi santri, jeding/MCK resik).<br/>• Tata krama sosial (bimbingan musyrif, adab marang kanca)."]
         
-        G["ALAM GHAIB (Spiritual-Metafisik)<br/>• Kesadaran Muraqabatullah 24 jam.<br/>• Pencatatan amal oleh Malaikat Raqib-Atid.<br/>• Turunnya Sakinah & Barakah Ilahiah."]
+        G["'ALAM MALAKUT / BATIN (Perkara Sam'iyyat/Ghaib)<br/>• Muraqabatullah (rumangsa tansah dipirsani Gusti Allah).<br/>• Catatan malaikat Raqib-Atid & hisab akhirat.<br/>• Turune Sakinah, Rahmah, & Berkah Guru."]
         
-        S <===>|Saling Mengisi & Mengikat| G
+        S <===>|Manunggal: Syariat Dhohir & Hakikat Batin| G
     end
 ```
 
-#### A. Uji Demarkasi: Membedakan Ghaib Syar'i vs Takhayul
-* **Problem**: Pesantren kerap disusupi mitos irasional (misal: santri dilarang berobat ke dokter saat tifus karena dianggap diganggu jin asrama).
+#### A. Uji Demarkasi: Membedakan Sam'iyyat/Ghaib Syar'i vs Takhayul/Khurafat
+* **Problem di Kalangan Sebagian Pesantren**: Terkadang muncul salah kaprah (mistisisme pasif), misalnya santri sakit demam berdarah atau tifus tidak dibawa ke dokter karena dianggap "kesambet jin pondok" atau "lagi diuji tirakat".
 * **Hasil Riset Demarkasi TUMBUH**:  
-  1. **Alam Ghaib Syar'i**: Bersumber dari *Khabar Shadiq* yang qath'i (Wahyu Al-Qur'an dan As-Sunnah Shahihah). Wajib diimani secara mutlak.  
-  2. **Takhayul & Khurafat**: Klaim supranatural tanpa dalil naqli sahih dan bertentangan dengan sunnatullah empiris. Wajib diberantas dari lingkungan pesantren.
+  1. **Perkara Sam'iyyat / Ghaib Syar'i**: Perkara ghaib yang wajib diimani karena ada nash sharih (seperti siksa kubur, pahala, mizan, malaikat). Ini menjadi ruh keikhlasan dan pengawas batin (*Muraqabah*).  
+  2. **Khurafat & Pengabaian Sababiyah**: Menolak ikhtiar medis dokter atas nama tawakkal adalah penyimpangan aqidah Aswaja. Ulama ushul menetapkan kaidah: *"At-Tawakkul laa yunaafi al-akhdza bil-asbaab"* (Tawakkal sejati tidak menafikan ikhtiar menempuh sebab-akibat di alam mulk).
+  3. **Kesimpulan Riset**: Pesantren NU sejati adalah pesantren yang menggabungkan kesucian wirid di alam malakut dengan kedisiplinan ikhtiar kebersihan dan medis di alam mulk.
 
 ---
 
