@@ -34,7 +34,7 @@
 
 # BAGIAN I: RISET INKUIRI, DIALEKTIKA KRITIS, & STUDI KASUS
 
-*Bagian ini memuat proses penyelidikan fondasional mula-mula (*original ground-zero research*), pengujian formal silogisme logika (*qiyas mantiqi*), pertarungan dialektika multi-perspektif tiga ronde tanpa kata "pakar", kutipan langsung kata demi kata (*verbatim*) dari teks primer, studi kasus dilema nyata lapangan, dan penarikan konsensus bersama.*
+*Bagian ini memuat proses penyelidikan fondasional mula-mula (*original ground-zero research*), pengujian formal silogisme logika (*qiyas mantiqi*), pertarungan dialektika multi-perspektif tiga ronde tanpa kata "pakar", naskah kutipan primer Arab dan sains, studi kasus dilema nyata lapangan, dan penarikan konsensus bersama.*
 
 ---
 
@@ -67,7 +67,7 @@ graph TD
 * **Pihak A (Sudut Pandang Praktisi Lapangan & Tradisionalis)**:  
   *"Pesantren di Nusantara sudah ratusan tahun berjalan mandiri dengan mengkaji kitab-kitab turats seperti Safinah, Taqrib, dan mengamalkan wirid harian. Mengapa kita merasa perlu merumuskan 'Ontologi Realitas'? Bukankah ini istilah filsafat yang terkesan rumit dan tidak membumi bagi kehidupan santri di kobong asrama?"*
 * **Tinjauan Sudut Pandang Epistemologi Turats**:  
-  Tradisi keilmuan Islam klasik sejatinya tidak pernah memisahkan ilmu hakikat dari penataan amal dhohir. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* menegaskan kata demi kata:
+  Tradisi keilmuan Islam klasik sejatinya tidak pernah memisahkan ilmu hakikat dari penataan amal dhohir. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* menegaskan:
   
   $$\text{فَإِنَّ التَّوَكُّلَ لَيْسَ هُوَ تَرْكُ الْأَسْبَابِ بِالْكُلِّيَّةِ، بَلِ التَّوَكُّلُ حَالٌ لِلْقَلْبِ يَكُونُ مَعَ مُبَاشَرَةِ الْأَسْبَابِ}$$
   
@@ -75,7 +75,7 @@ graph TD
   
   Ketika pengurus asrama membiarkan kamar mandi kotor, santri terserang penyakit kulit (*gudikan*), dan santri senior melakukan kekerasan fisik kepada junior dengan dalih *"melatih mental dan tirakat"*, pengurus tersebut sejatinya sedang terjangkit paham fatalisme (*jabariyah tersembunyi*) yang menyimpang dari kaidah syariat.
 * **Tinjauan Sudut Pandang Neurosains & Psikologi Perkembangan**:  
-  Secara neurobiologis, pembiaran stres toksik menahun akibat lingkungan kumuh atau relasi hierarki yang mengintimidasi memicu kerusakan sel saraf. **Prof. Robert M. Sapolsky** dalam *Behave: The Biology of Humans at Our Best and Worst* memaparkan bukti saintifik kata demi kata:
+  Secara neurobiologis, pembiaran stres toksik menahun akibat lingkungan kumuh atau relasi hierarki yang mengintimidasi memicu kerusakan sel saraf. **Prof. Robert M. Sapolsky** dalam *Behave: The Biology of Humans at Our Best and Worst* memaparkan bukti saintifik:
   
   > *"Sustained, severe stress damages the hippocampus, shrinks dendrites, and impairs memory formation, while causing the amygdala to hypertrophy and become hyperreactive."* (hlm. 102).[^3]  
   > *(Stres berat yang berkepanjangan merusak hipokampus, menciutkan percabangan dendrit saraf, dan melumpuhkan pembentukan memori, sembari menyebabkan amigdala membesar dan menjadi hiperreaktif terhadap ketakutan).*
@@ -86,7 +86,7 @@ graph TD
 * **Pihak A (Sudut Pandang Konservatisme Pesantren)**:  
   *"Sanggahan! Para ulama dan kiai besar zaman dahulu lahir dari pondok yang serba terbatas dan sarana sederhana. Jika generasi terdahulu terbukti sukses menjadi orang alim tanpa fasilitas modern, mengapa sekarang kita harus menuntut standar higienitas, gizi, dan tata kelola psikologis?"*
 * **Tinjauan Sudut Pandang Epistemologi Turats & Metodologi Riset**:  
-  Pandangan tersebut terjebak dalam bias kelangsungan hidup (*survivorship bias*). Kita hanya menghitung segelintir tokoh luar biasa yang bertahan, seraya menutup mata terhadap ribuan santri lain yang gagal berkembang, mengalami trauma seumur hidup, atau putus belajar akibat sanitasi buruk dan kekerasan pengasuhan. **Imam Asy-Syathibi** dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan prinsip perlindungan universal kata demi kata:
+  Pandangan tersebut terjebak dalam bias kelangsungan hidup (*survivorship bias*). Kita hanya menghitung segelintir tokoh luar biasa yang bertahan, seraya menutup mata terhadap ribuan santri lain yang gagal berkembang, mengalami trauma seumur hidup, atau putus belajar akibat sanitasi buruk dan kekerasan pengasuhan. **Imam Asy-Syathibi** dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan prinsip perlindungan universal:
   
   $$\text{إِنَّ الشَّرِيعَةَ إِنَّمَا وُضِعَتْ لِتَحْقِيقِ مَصَالِحِ الْعِبَادِ فِي الْعَاجِلِ وَالْآجِلِ مَعًا، وَدَرْءِ الْمَفَاسِدِ عَنْهُمْ}$$
   
@@ -100,7 +100,7 @@ graph TD
 * **Pihak A (Sudut Pandang Skeptisisme Otoritas)**:  
   *"Bagaimana jika mengajarkan nalar ontologis dan sikap kritis kepada santri justru membuat mereka kurang menghormati kiai, banyak mendebat musyrif, dan kehilangan ruh tawadhu' serta keberkahan ilmu?"*
 * **Resolusi Sudut Pandang Epistemologi & Bimbingan Konseling**:  
-  Tawadhu' sejati lahir dari pemahaman yang mendalam tentang keagungan Allah dan kerendahan hakiki diri hamba (*Ma'rifatullah wa Ma'rifatun Nafs*), bukan dari ketakutan semu atau kepatuhan buta tanpa nalar. **Prof. Dr. Syed Muhammad Naquib Al-Attas** dalam *The Concept of Education in Islam* merumuskan adab kata demi kata:
+  Tawadhu' sejati lahir dari pemahaman yang mendalam tentang keagungan Allah dan kerendahan hakiki diri hamba (*Ma'rifatullah wa Ma'rifatun Nafs*), bukan dari ketakutan semu atau kepatuhan buta tanpa nalar. **Prof. Dr. Syed Muhammad Naquib Al-Attas** dalam *The Concept of Education in Islam* merumuskan adab:
   
   > *"Adab is the recognition and acknowledgement of the right and proper place, state, and condition in life, and the discipline of body, mind, and soul to abide by that recognition and acknowledgement."* (hlm. 21).[^7]  
   > *(Adab adalah pengenalan dan pengakuan akan tempat, keadaan, dan kedudukan yang hakiki dan tepat dalam kehidupan, serta disiplin raga, akal, dan jiwa untuk tunduk pada pengenalan dan pengakuan tersebut).*
@@ -131,27 +131,27 @@ graph TD
 
 #### 🥊 Ronde 1: Dekonstruksi Materialisme Sekuler vs Mistisisme Pasif
 * **Penyelidikan Kausal Dua Paradigma Ekstrem**:  
-  1. *Materialisme Sekuler* memandang santri semata-mata sebagai organisme biologis mekanistik. Dampaknya: pengasuhan berubah menjadi pabrik angka hafalan dan kepatuhan lahiriah yang kering dari nilai muraqabah ilahiyyah. **Roy Bhaskar** dalam *A Realist Theory of Science* mengkritik reduksionisme ini kata demi kata: *"To reduce the reality of the world to actual human experiences is to commit the epistemic fallacy."* (hlm. 36).[^11]  
+  1. *Materialisme Sekuler* memandang santri semata-mata sebagai organisme biologis mekanistik. Dampaknya: pengasuhan berubah menjadi pabrik angka hafalan dan kepatuhan lahiriah yang kering dari nilai muraqabah ilahiyyah. **Roy Bhaskar** dalam *A Realist Theory of Science* mengkritik reduksionisme ini: *"To reduce the reality of the world to actual human experiences is to commit the epistemic fallacy."* (hlm. 36).[^11]  
   2. *Mistisisme Pasif* memandang dunia materi sebagai sesuatu yang kotor dan tak berharga. Dampaknya: pengasuhan mengabaikan sanitasi kobong, nutrisi otak, dan keselamatan raga santri atas nama kezuhudan semu.[^12]
 
 #### 🥊 Ronde 2: Sanggahan Balik Efisiensi Behaviorisme Keras vs Pseudo-Compliance
 * **Pihak A (Sudut Pandang Musyrif Lapangan yang Kelelahan)**:  
   *"Sanggahan! Dalam praktik nyata mengontrol 500 santri di aula asrama, sistem reward-punishment keras (ancaman takzir jemur, push-up malam, potong rambut botak) terbukti paling cepat, murah, dan efektif menertibkan santri dalam 5 menit. Mengapa kita menolak cara yang jelas-jelas terbukti praktis di lapangan?"*
 * **Tinjauan Sudut Pandang Neurosains & Psikologi Perilaku**:  
-  Behaviorisme keras memang memproduksi ketertiban instan, namun riset membuktikan bahwa itu adalah **Kepatuhan Semu Berbasis Ketakutan Amigdala (*Fear-Induced Pseudo-Compliance*)**. **Prof. Edward L. Deci & Richard M. Ryan** dalam penelitian motivasi manusia (*Self-Determination Theory*) menegaskan kata demi kata:
+  Behaviorisme keras memang memproduksi ketertiban instan, namun riset membuktikan bahwa itu adalah **Kepatuhan Semu Berbasis Ketakutan Amigdala (*Fear-Induced Pseudo-Compliance*)**. **Prof. Edward L. Deci & Richard M. Ryan** dalam penelitian motivasi manusia (*Self-Determination Theory*) menegaskan:
   
   > *"Externally controlled behaviors are notoriously unstable; once the external contingencies are removed, the behaviors tend to diminish or revert to counter-intentional deviance."* (hlm. 236).[^13]  
   > *(Perilaku yang dikendalikan oleh tekanan eksternal terbukti sangat rapuh; begitu pengawasan dan ancaman hukuman dihilangkan, perilaku tersebut cenderung lenyap atau berbalik menjadi penyimpangan yang jauh lebih ekstrem).*
   
   Ketika kepatuhan didorong oleh rasa takut fisik atau rasa malu publik, korteks prefrontal santri tidak teraktivasi. Begitu keluar dari pondok, santri mengalami *rebound effect* yang merusak moral mereka.
 * **Tinjauan Sudut Pandang Disiplin Restoratif**:  
-  Disiplin berbasis konsekuensi logis dan restitusi mengajarkan santri memperbaiki kerusakan yang ditimbulkan (*making things right*). **Prof. George Sugai & Robert H. Horner** dalam kerangka SW-PBIS membuktikan kata demi kata: *"Proactive and positive behavioral interventions increase academic engaged time and establish a positive, predictable, and safe school climate."* (hlm. 248).[^14]
+  Disiplin berbasis konsekuensi logis dan restitusi mengajarkan santri memperbaiki kerusakan yang ditimbulkan (*making things right*). **Prof. George Sugai & Robert H. Horner** dalam kerangka SW-PBIS membuktikan: *"Proactive and positive behavioral interventions increase academic engaged time and establish a positive, predictable, and safe school climate."* (hlm. 248).[^14]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Doktrin Riyadhah Mematikan Nafsu vs I'tidal
 * **Pihak A (Sudut Pandang Asketisme Ekstrem)**:  
   *"Bukankah rujukan tasawuf klasik mengajarkan mujahadatun nafs dengan mematikan syahwat jasmani (lapar, lelah, membatasi tidur)? Mengapa kita menuntut kamar tidur berventilasi layak dan menu nutrisi seimbang? Apakah ini bukan pemanjaan raga yang melemahkan mental santri?"*
 * **Tinjauan Sudut Pandang Epistemologi Turats**:  
-  **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) menegaskan kata demi kata:
+  **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) menegaskan:
   
   $$\text{وَالْمَقْصُودُ مِنَ الرِّيَاضَةِ لَيْسَ هُوَ إِفْنَاءَ الصِّفَاتِ وَقَمْعَهَا بِالْكُلِّيَّةِ، بَلِ الْمَقْصُودُ رَدُّهَا إِلَى حَدِّ الِاعْتِدَالِ الَّذِي هُوَ الْوَسَطُ بَيْنَ الْإِفْرَاطِ وَالتَّفْرِيطِ}$$
   
@@ -183,7 +183,7 @@ graph TD
 
 #### 🥊 Ronde 1: Analisis Isytiqoq al-Wujud & Bantahan Dekonstruksionisme
 * **Tinjauan Epistemologi Leksikografi Turats**:  
-  Pakar leksikografi Arab **Ibnu Faris** dalam *Mu'jam Maqayis al-Lughah* mendefinisikan akar kata *W-J-D* kata demi kata:
+  Pakar leksikografi Arab **Ibnu Faris** dalam *Mu'jam Maqayis al-Lughah* mendefinisikan akar kata *W-J-D*:
   
   $$\text{الْوَاوُ وَالْجِيمُ وَالدَّالُ أَصْلٌ وَاحِدٌ يَدُلُّ عَلَى إِصَابَةِ الشَّيْءِ وَإِدْرَاكِهِ بِحَقِيقَتِهِ}$$
   
@@ -229,19 +229,19 @@ graph TD
 
 #### 🥊 Ronde 1: Pembuktian Kepastian Matematis Hukum Moral Setara Gravitasi
 * **Tinjauan Kausalitas Neuro-Spiritual**:  
-  Dosa dan kezaliman memiliki konsekuensi objektif seketika. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* mengutip sabda Nabi SAW kata demi kata:
+  Dosa dan kezaliman memiliki konsekuensi objektif seketika. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* mengutip sabda Nabi SAW:
   
   $$\text{إِنَّ الْعَبْدَ إِذَا أَذْنَبَ ذَنْبًا نُكِتَتْ فِي قَلْبِهِ نُكْتَةٌ سَوْدَاءُ}$$
   
   *"Sesungguhnya seorang hamba apabila melakukan suatu dosa, maka dititikkanlah di dalam kalbunya satu titik hitam."*[^25]
   
-  Secara biologis, amigdala memicu lonjakan hormon stres (kortisol) yang mengacaukan homeostasis tubuh. **Dr. Karen Wynn & Paul Bloom** dari Yale University dalam riset *The Moral Baby* membuktikan kata demi kata bahwa fitrah manusia sejak dini memiliki kompas moral bawaan: *"Humans possess an innate moral sense, equipped with unlearned capacities to evaluate actions as good or bad."* (hlm. 34).[^26]
+  Secara biologis, amigdala memicu lonjakan hormon stres (kortisol) yang mengacaukan homeostasis tubuh. **Dr. Karen Wynn & Paul Bloom** dari Yale University dalam riset *The Moral Baby* membuktikan bahwa fitrah manusia sejak dini memiliki kompas moral bawaan: *"Humans possess an innate moral sense, equipped with unlearned capacities to evaluate actions as good or bad."* (hlm. 34).[^26]
 
 #### 🥊 Ronde 2: Sanggahan Balik Paradoks Orang Zalim yang Tampak Bahagia
 * **Pihak A (Sudut Pandang Skeptisisme Empiris)**:  
   *"Sanggahan! Jika hukum moral seobjektif gravitasi, mengapa banyak pelaku perundungan atau koruptor yang hidup berkecukupan, bertubuh sehat, dan tertawa gembira tanpa terlihat binasa oleh hukum moral yang Anda maksud? Bukankah realitas empiris membantah teori ini?"*
 * **Tinjauan Sudut Pandang Epistemologi Turats & Tauhid Aswaja**:  
-  Pandangan tersebut mengalami rabun dekat epistemik (*epistemic myopia*). **Ibnu 'Athaillah As-Sakandari** dalam *Al-Hikam* memperingatkan jebakan istidraj kata demi kata:
+  Pandangan tersebut mengalami rabun dekat epistemik (*epistemic myopia*). **Ibnu 'Athaillah As-Sakandari** dalam *Al-Hikam* memperingatkan jebakan istidraj:
   
   $$\text{خَفْ مِنْ وُجُودِ إِحْسَانِهِ إِلَيْكَ وَدَوَامِ إِسَاءَتِكَ مَعَهُ أَنْ يَكُونَ ذَلِكَ اسْتِدْرَاجًا لَكَ}$$
   
@@ -253,7 +253,7 @@ graph TD
 * **Pihak A (Sudut Pandang Sosiologis Lapangan)**:  
   *"Jika dalam satu kobong asrama 10 dari 10 santri sepakat bahwa kabur malam untuk merokok adalah bentuk solidaritas dan kebanggaan kelompok, atas dasar apa musyrif mengklaim perbuatan itu salah jika seluruh penghuni kamar merasa senang dan kompak?"*
 * **Resolusi Sudut Pandang Filosofis & Manajemen Asrama**:  
-  Inilah pentingnya prinsip **Independensi Realitas dari Persepsi Manusia**. Status racun pada senyawa berbahaya tidak berubah menjadi obat meskipun 100 orang sepakat menamainya obat. Allah SWT menegaskan dalam Al-Qur'an kata demi kata:
+  Inilah pentingnya prinsip **Independensi Realitas dari Persepsi Manusia**. Status racun pada senyawa berbahaya tidak berubah menjadi obat meskipun 100 orang sepakat menamainya obat. Allah SWT menegaskan dalam Al-Qur'an:
   
   $$\text{وَإِن تُطِعْ أَكْثَرَ مَن فِي الْأَرْضِ يُضِلُّوكَ عَن سَبِيلِ اللَّهِ ۚ إِن يَتَّبِعُونَ إِلَّا الظَّنَّ}$$
   
@@ -283,7 +283,7 @@ graph TD
 
 #### 🥊 Ronde 1: Harmoni Syariat Dhohir & Hakikat Batin (Ihya' & Al-Hikam)
 * **Tinjauan Epistemologi Turats Aswaja**:  
-  **Imam Malik bin Anas ra.** merumuskan kaidah emas penyatuan syariat dan hakikat kata demi kata:
+  **Imam Malik bin Anas ra.** merumuskan kaidah emas penyatuan syariat dan hakikat:
   
   $$\text{مَنْ تَفَقَّهَ وَلَمْ يَتَصَوَّفْ فَقَدْ تَفَسَّقَ، وَمَنْ تَصَوَّفَ وَلَمْ يَتَفَقَّهْ فَقَدْ تَزَنْدَقَ، وَمَنْ جَمَعَ بَيْنَهُمَا فَقَدْ تَحَقَّقَ}$$
   
@@ -295,7 +295,7 @@ graph TD
 * **Pihak A (Sudut Pandang Saintisme Sekuler)**:  
   *"Sanggahan! Jika fasilitas sanitasi, arsitektur gedung, dan gizi fisik sudah dipenuhi secara sempurna melalui sains medis modern, santri pasti berprestasi secara otomatis. Mengapa kita masih membutuhkan konsep alam malakut (malaikat, pahala, keikhlasan batin)?"*
 * **Tinjauan Sudut Pandang Filosofis & Pendidikan Nilai**:  
-  Sains alam mulk hanya mampu mengatur **Mekanika Perilaku (*How*)**, namun tidak mampu menjawab **Makna & Integritas Kalbu (*Why*)**. **Prof. Syed Muhammad Naquib Al-Attas** dalam *Prolegomena to the Metaphysics of Islam* menegaskan kata demi kata: *"Knowledge without the recognition of God as the Ultimate Reality becomes an instrument of arrogance, leading to injustice and corruption of the soul."* (hlm. 42).[^34]
+  Sains alam mulk hanya mampu mengatur **Mekanika Perilaku (*How*)**, namun tidak mampu menjawab **Makna & Integritas Kalbu (*Why*)**. **Prof. Syed Muhammad Naquib Al-Attas** dalam *Prolegomena to the Metaphysics of Islam* menegaskan: *"Knowledge without the recognition of God as the Ultimate Reality becomes an instrument of arrogance, leading to injustice and corruption of the soul."* (hlm. 42).[^34]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Benturan Medis vs Mitos Kesambet Jin
 * **Pihak A (Sudut Pandang Mistisisme Ekstrem)**:  

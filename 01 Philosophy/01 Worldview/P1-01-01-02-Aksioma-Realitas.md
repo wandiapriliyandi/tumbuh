@@ -31,7 +31,7 @@
 
 # BAGIAN I: RISET INKUIRI, DIALEKTIKA KRITIS, & STUDI KASUS
 
-*Bagian ini memuat proses penyelidikan fondasional mula-mula (*original ground-zero research*), pengujian formal silogisme logika (*qiyas burhani*), pertarungan dialektika multi-perspektif tiga ronde tanpa kata "pakar", kutipan langsung kata demi kata (*verbatim*) dari teks primer, studi kasus dilema nyata lapangan, dan penarikan konsensus bersama.*
+*Bagian ini memuat proses penyelidikan fondasional mula-mula (*original ground-zero research*), pengujian formal silogisme logika (*qiyas burhani*), pertarungan dialektika multi-perspektif tiga ronde tanpa kata "pakar", naskah kutipan primer Arab dan sains, studi kasus dilema nyata lapangan, dan penarikan konsensus bersama.*
 
 ---
 
@@ -77,7 +77,7 @@ graph TD
 * **Pihak A (Sudut Pandang Skeptisisme Pascamodern)**:  
   *"Kaum pascamodern menyatakan bahwa tidak ada yang namanya 'Prinsip Universal yang Mutlak'. Semua klaim kebenaran fundamental hanyalah konstruksi wacana kelompok tertentu. Mengapa kita berupaya mencari prinsip-prinsip aksiomatis yang dianggap berlaku untuk semua orang?"*
 * **Tinjauan Sudut Pandang Epistemologi Turats & Logika Formal**:  
-  Pernyataan *"tidak ada kebenaran mutlak"* adalah kontradiksi internal (*self-refuting statement*). **Imam Al-Ghazali** dalam *Mi'yar al-'Ilm fi Fann al-Mantiq* menegaskan posisi aksioma primer kata demi kata:
+  Pernyataan *"tidak ada kebenaran mutlak"* adalah kontradiksi internal (*self-refuting statement*). **Imam Al-Ghazali** dalam *Mi'yar al-'Ilm fi Fann al-Mantiq* menegaskan posisi aksioma primer:
   
   $$\text{إِنَّ الْعُلُومَ النَّظَرِيَّةَ لَا بُدَّ وَأَنْ تَنْتَهِيَ إِلَى عُلُومٍ ضَرُورِيَّةٍ أَوَّلِيَّةٍ لَا يَطْلُبُ الْعَقْلُ عَلَيْهَا بُرْهَانًا، إِذْ لَوْ طَلَبَ لَزِمَ التَّسَلْسُلُ إِلَى غَيْرِ نِهَايَةٍ}$$
   
@@ -89,7 +89,7 @@ graph TD
 * **Pihak A (Sudut Pandang Saintisme Relativistik)**:  
   *"Sanggahan! Dalam sejarah sains, apa yang dianggap aksioma oleh fisika klasik Newton (seperti kemutlakan ruang dan waktu) ternyata runtuh dan dikoreksi oleh relativitas Einstein dan mekanika kuantum. Mengapa kita begitu yakin bahwa prinsip metafisik yang dirumuskan tidak akan usang dikoreksi zaman?"*
 * **Tinjauan Sudut Pandang Filsafat Ilmu & Kalam**:  
-  Terjadi kerancuan kategori antara **Teori Empiris Fisika (*al-Qadhaya at-Tajribiyyah*)** yang bersifat aproksimatif dan terus berkembang dengan **Prinsip Metafisik Primer (*al-Qadhaya al-Awwaliyyah al-Qath'iyyah*)**. **Roy Bhaskar** dalam *A Realist Theory of Science* membedakan secara tegas domain kenyataan kata demi kata:
+  Terjadi kerancuan kategori antara **Teori Empiris Fisika (*al-Qadhaya at-Tajribiyyah*)** yang bersifat aproksimatif dan terus berkembang dengan **Prinsip Metafisik Primer (*al-Qadhaya al-Awwaliyyah al-Qath'iyyah*)**. **Roy Bhaskar** dalam *A Realist Theory of Science* membedakan secara tegas domain kenyataan:
   
   > *"The world consists of things, structures and mechanisms that exist and act independently of our descriptions and knowledge of them. Changing scientific theories do not alter the intransitive structures of reality."* (hlm. 21).[^3]  
   > *(Dunia ini tersusun atas entitas, struktur, dan mekanisme yang ada dan bekerja secara independen dari deskripsi dan pengetahuan kita tentangnya. Perubahan teori-teori sains tidak pernah mengubah struktur intransitif dari realitas hakiki).*
@@ -100,7 +100,7 @@ graph TD
 * **Pihak A (Sudut Pandang Kritis Pendidikan)**:  
   *"Jika santri diajarkan bahwa prinsip-prinsip dasar ini adalah kebenaran yang tak boleh dibantah, bukankah ini bentuk doktrinasi buta (*indoktrinasi*) yang mematikan daya kritis santri sejak hari pertama?"*
 * **Resolusi Sudut Pandang Pedagogi & Psikologi Belajar**:  
-  Prinsip dasar diajarkan bukan sebagai dogma yang dipaksakan lewat ancaman, melainkan sebagai **titik tolak penalaran logis (*First Principles of Reasoning*)**. **Prof. Dr. Syed Muhammad Naquib Al-Attas** dalam *Prolegomena to the Metaphysics of Islam* menegaskan kejelasan akal Islam kata demi kata:
+  Prinsip dasar diajarkan bukan sebagai dogma yang dipaksakan lewat ancaman, melainkan sebagai **titik tolak penalaran logis (*First Principles of Reasoning*)**. **Prof. Dr. Syed Muhammad Naquib Al-Attas** dalam *Prolegomena to the Metaphysics of Islam* menegaskan kejelasan akal Islam:
   
   > *"Islam is a religion based on knowledge, and its fundamental principles are self-evident to clear intellect and sound reason; it demands cognitive submission, not blind unquestioning belief."* (hlm. 75).[^5]  
   > *(Islam adalah agama yang tegak di atas ilmu pengetahuan, dan prinsip-prinsip fundamentalnya bersifat swa-bukti bagi akal yang jernih dan nalar yang sehat; Islam menuntut ketundukan kognitif yang sadar, bukan keyakinan buta tanpa pengujian nalar).*
@@ -129,7 +129,7 @@ graph TD
 
 #### 🥊 Ronde 1: Penyelidikan Asal-Usul Wujud (Wajib vs Mumkin al-Wujud)
 * **Tinjauan Ontologis Turats Kalam**:  
-  **Imam Abu Mansur Al-Maturidi** dalam *Kitab at-Tawhid* menegaskan keniscayaan adanya Sang Pencipta kata demi kata:
+  **Imam Abu Mansur Al-Maturidi** dalam *Kitab at-Tawhid* menegaskan keniscayaan adanya Sang Pencipta:
   
   $$\text{إِنَّ حُدُوثَ الْعَالَمِ وَتَغَيُّرَ أَحْوَالِهِ وَحَاجَةَ كُلِّ جُزْءٍ مِنْهُ إِلَى غَيْرِهِ دَلِيلٌ قَاطِعٌ عَلَى أَنَّ لَهُ صَانِعًا وَاجِبَ الْوُجُودِ لَا يُشْبِهُهُ شَيْءٌ}$$
   
@@ -142,7 +142,7 @@ graph TD
 * **Pihak A (Sudut Pandang Positivisme Materialistik)**:  
   *"Sanggahan! Jika kita memasukkan 'Alam Malakut' (ghaib/malaikat/hisab) sebagai realitas yang sama nyatanya dengan 'Alam Mulk' (fisik), mengapa malaikat atau hisab tidak pernah dapat dideteksi oleh instrumen laboratorium?"*
 * **Tinjauan Sudut Pandang Epistemologi Turats & Neurobiologi**:  
-  Ini adalah kekeliruan kategori (*Category Mistake*). **Imam Al-Ghazali** dalam *Misykat al-Anwar* menerangkan pertautan kedua alam ini kata demi kata:
+  Ini adalah kekeliruan kategori (*Category Mistake*). **Imam Al-Ghazali** dalam *Misykat al-Anwar* menerangkan pertautan kedua alam ini:
   
   $$\text{عَالَمُ الْمُلْكِ وَالشَّهَادَةِ نُمُوذَجٌ وَمِرْآةٌ لِعَالَمِ الْغَيْبِ وَالْمَلَكُوتِ، فَمَا مِنْ شَيْءٍ فِي هَذَا الْعَالَمِ إِلَّا وَهُوَ أَثَرٌ وَمِثَالٌ لِشَيْءٍ فِي ذَلِكَ الْعَالَمِ}$$
   
@@ -154,7 +154,7 @@ graph TD
 * **Pihak A (Sudut Pandang Gugatan Problem of Evil)**:  
   *"Jika dikatakan bahwa 'Semua ciptaan Allah mengandung hikmah dan tiada yang sia-sia' (QS. Ali 'Imran: 191), bagaimana menjelaskan penderitaan santri yatim yang sakit menahun atau santri yang menjadi korban perundungan senior hingga trauma? Di mana hikmahnya?"*
 * **Resolusi Sudut Pandang Teodisi Aswaja & Advokasi Perlindungan Santri**:  
-  **Imam Abu Ishaq Asy-Syathibi** dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* memaparkan hakikat ujian hidup kata demi kata:
+  **Imam Abu Ishaq Asy-Syathibi** dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* memaparkan hakikat ujian hidup:
   
   $$\text{إِنَّ الِابْتِلَاءَ فِي هَذِهِ الدَّارِ إِنَّمَا وُضِعَ لِتَمْحِيصِ النُّفُوسِ وَرَفْعِ الدَّرَجَاتِ، مَعَ أَمْرِ الشَّارِعِ بِمُدَافَعَةِ الْمَفَاسِدِ وَإِقَامَةِ الْعَدْلِ}$$
   
@@ -186,7 +186,7 @@ graph TD
 
 #### 🥊 Ronde 1: Harmoni Sunnatullah Kauniyyah dan Sunnatullah Syar'iyyah
 * **Tinjauan Kausalitas Ganda**:  
-  **Syaikhul Islam Ibn Taimiyyah** dalam *Dar' Ta'arudh al-'Aql wan-Naql* menegaskan kesatuan hukum kausalitas ciptaan Allah kata demi kata:
+  **Syaikhul Islam Ibn Taimiyyah** dalam *Dar' Ta'arudh al-'Aql wan-Naql* menegaskan kesatuan hukum kausalitas ciptaan Allah:
   
   $$\text{إِنَّ سُنَّةَ اللَّهِ فِي خَلْقِهِ لَا تَتَبَدَّلُ وَلَا تَتَحَوَّلُ، وَقَدْ جَعَلَ اللَّهُ لِكُلِّ شَيْءٍ سَبَبًا، فَمَنِ الْتَمَسَ الْمُسَبَّبَ بِغَيْرِ سَبَبِهِ الشَّرْعِيِّ وَالْقَدَرِيِّ فَقَدْ ضَلَّ عَنِ الصِّرَاطِ الْمُسْتَقِيمِ}$$
   
@@ -196,7 +196,7 @@ graph TD
 * **Pihak A (Sudut Pandang Kesalehan Tanpa Sababiyah)**:  
   *"Sanggahan! Ada santri yang sangat shalih, tahajjud tidak pernah putus, dan adabnya santun, tetapi nilai ujiannya rendah dan sering sakit di asrama. Jika Sunnatullah Syar'iyyah dan Kauniyyah itu padu, mengapa keshalihannya tidak otomatis membuatnya sehat dan pintar?"*
 * **Tinjauan Sudut Pandang Epistemologi Fiqh & Neurosains**:  
-  Karena **pahala ibadah tidak menggantikan hukum nutrisi dan jam biologis tubuh**. Santri yang rajin tahajjud namun tidur hanya 2 jam di lantai dingin tanpa ventilasi tetap akan mengalami kelelahan saraf dan rentan terserang infeksi, karena raganya tunduk pada Sunnatullah Kauniyyah. **Prof. Robert M. Sapolsky** dalam riset neurobiologi menegaskan kata demi kata:
+  Karena **pahala ibadah tidak menggantikan hukum nutrisi dan jam biologis tubuh**. Santri yang rajin tahajjud namun tidur hanya 2 jam di lantai dingin tanpa ventilasi tetap akan mengalami kelelahan saraf dan rentan terserang infeksi, karena raganya tunduk pada Sunnatullah Kauniyyah. **Prof. Robert M. Sapolsky** dalam riset neurobiologi menegaskan:
   
   > *"Sleep deprivation specifically impairs hippocampal synaptic plasticity and blocks the neurogenesis required for long-term memory consolidation, irrespective of the subject's willpower."* (hlm. 145).[^14]  
   > *(Kurang tidur secara spesifik merusak plastisitas sinaptik hipokampus dan memblokir proses pembentukan sel saraf baru yang dibutuhkan untuk konsolidasi memori jangka panjang, terlepas dari seberapa kuat kemauan atau niat subjek tersebut).*
@@ -205,7 +205,7 @@ graph TD
 * **Pihak A (Sudut Pandang Fatalisme Pasrah)**:  
   *"Bukankah seluruh takdir prestasi santri sudah tertulis di Lauhul Mahfuzh? Jika Allah menakdirkan santri gagal menghafal, upaya perbaikan gizi dan ventilasi kamar tidak akan mengubah takdir tersebut!"*
 * **Resolusi Sudut Pandang Akidah Aswaja & Manajemen Pesantren**:  
-  Ini adalah kerancuan teologi Jabariyah yang ditolak ulama Ahlussunnah. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* membongkar kekeliruan fatalisme kata demi kata:
+  Ini adalah kerancuan teologi Jabariyah yang ditolak ulama Ahlussunnah. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* membongkar kekeliruan fatalisme:
   
   $$\text{الِامْتِنَاعُ عَنِ السَّعْيِ فِي الْأَسْبَابِ جَهْلٌ بِالسُّنَّةِ، فَإِنَّ الَّذِي قَدَّرَ الشِّبَعَ قَدَّرَهُ بِالْأَكْلِ، وَالَّذِي قَدَّرَ الْحِفْظَ وَالْعِلْمَ قَدَّرَهُ بِالتَّكْرَارِ وَصِحَّةِ الْبَدَنِ}$$
   
@@ -235,7 +235,7 @@ graph TD
 
 #### 🥊 Ronde 1: Pembentukan Karakter Integritas Mandiri (*Muraqabah Reflex*)
 * **Tinjauan Psikososial & Motivasi Diri**:  
-  Ketika santri memahami prinsip Keberadaan Khaliq dan Akuntabilitas Hisab, motivasi beradab bertransformasi menjadi **Motivasi Otonom Intrinsik (*Autonomous Motivation*)**. **Prof. Edward L. Deci & Richard M. Ryan** dalam riset motivasi membuktikan kata demi kata:
+  Ketika santri memahami prinsip Keberadaan Khaliq dan Akuntabilitas Hisab, motivasi beradab bertransformasi menjadi **Motivasi Otonom Intrinsik (*Autonomous Motivation*)**. **Prof. Edward L. Deci & Richard M. Ryan** dalam riset motivasi membuktikan:
   
   > *"When individuals internalize regulatory processes and integrate them with their core values, their behavior becomes autonomous, exhibiting higher persistence, greater psychological well-being, and better moral consistency across diverse contexts."* (hlm. 238).[^18]  
   > *(Ketika individu menginternalisasi proses regulasi perilaku dan mengintegrasikannya dengan nilai-nilai inti diri mereka, perilaku mereka menjadi otonom, menunjukkan daya tahan yang lebih tinggi, kesejahteraan psikologis yang lebih besar, dan konsistensi moral yang lebih baik di berbagai situasi).*
@@ -244,7 +244,7 @@ graph TD
 * **Pihak A (Sudut Pandang Teknokratis Pengawasan)**:  
   *"Sanggahan! Memasang kamera CCTV di setiap lorong asrama terbukti jauh lebih konkret dan cepat mencegah pencurian barang santri daripada menasihati mereka tentang malaikat dan hisab. Mengapa kita tidak fokus pada teknologi pengawasan fisik saja?"*
 * **Tinjauan Sudut Pandang Psikologi Kognitif & Tasawuf**:  
-  Teknologi CCTV adalah instrumen pelengkap fisik yang bermanfaat, namun **CCTV memiliki titik buta (*blind spots*) dan tidak pernah mengubah hati nurani**. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* menguraikan hakikat muraqabah kata demi kata:
+  Teknologi CCTV adalah instrumen pelengkap fisik yang bermanfaat, namun **CCTV memiliki titik buta (*blind spots*) dan tidak pernah mengubah hati nurani**. **Imam Al-Ghazali** dalam *Ihya' 'Ulumiddin* menguraikan hakikat muraqabah:
   
   $$\text{الْمُرَاقَبَةُ هِيَ مُلَاحَظَةُ الرَّقِيبِ وَانْصِرَافُ الْهِمَّةِ إِلَيْهِ، فَمَنْ عَلِمَ أَنَّ اللَّهَ عَلَيْهِ رَقِيبٌ اسْتَحْيَا مِنْهُ أَنْ يَرَاهُ حَيْثُ نَهَاهُ، وَهَذَا هُوَ الْحَارِسُ الْحَقِيقِيُّ لِلْجَوَارِحِ}$$
   
@@ -254,7 +254,7 @@ graph TD
 * **Pihak A (Sudut Pandang Krisis Afektif Santri)**:  
   *"Banyak santri baru yang mengalami kesedihan mendalam (*homesickness* akut) hingga mogok makan dan ingin keluar pondok karena rindu keluarga. Apakah memberikan pemahaman teologis tentang Hikmah Penciptaan mampu meredakan krisis emosional tersebut?"*
 * **Resolusi Sudut Pandang Bimbingan Konseling & Pengasuhan Asrama**:  
-  Pengasuhan tidak merespons krisis afektif santri dengan khotbah kering. **Prof. George Sugai & Robert H. Horner** dalam pedoman pendampingan siswa asrama menegaskan kata demi kata: *"Behavioral support must combine empathetic relationship-building and emotional co-regulation with clear predictability to foster psychological resilience."* (hlm. 251).[^20]  
+  Pengasuhan tidak merespons krisis afektif santri dengan khotbah kering. **Prof. George Sugai & Robert H. Horner** dalam pedoman pendampingan siswa asrama menegaskan: *"Behavioral support must combine empathetic relationship-building and emotional co-regulation with clear predictability to foster psychological resilience."* (hlm. 251).[^20]  
   Setelah sistem syaraf santri tenang melalui dekapan kasih sayang musyrif, barulah pemahaman hikmah ditanamkan: bahwa fase adaptasi asrama adalah proses penempaan diri (*Tamhish*) menuju kemandirian jiwa yang berdaya tahan tinggi (*Resilience*).
 
 > #### 📌 Kasuistika Lapangan 4 & Titik Temu Konsensus
