@@ -1,5 +1,5 @@
 # SUB-DOMAIN 01: WORLDVIEW (PANDANGAN HIDUP & ONTOLOGI ISLAM)
-## *Sitemap Induk & Navigasi Monograf Hakikat Realitas, Epistemologi Integratif, & 10 Aksioma Fundamental*
+## *Sitemap Induk & Navigasi Monograf Terpadu Hakikat Realitas, Epistemologi Integratif, & 10 Aksioma Fundamental*
 
 **Nomor Identifikasi**: `P1-01/INDEX/2026`  
 **Domain**: `01 Philosophy` > `01 Worldview`  
@@ -19,8 +19,8 @@ graph TD
     WV --> Onto["01 HAKIKAT REALITAS (Ontologi Realisme Teistik Integratif)"]
     WV --> Epist["02 EPISTEMOLOGI TUMBUH (Teori Pengetahuan Integratif 4 Saluran)"]
     
-    Onto --> O1["P1-01-01-01: Definisi Realitas (Wujud Objektif & Dualitas Ghaib-Syahadah)"]
-    Onto --> O2["P1-01-01-02: Aksioma Realitas (6 Aksioma Metafisik Baku)"]
+    Onto --> O1["P1-01-01-01: Definisi Realitas (Monograf Terpadu: Riset Inkuiri, Kodifikasi Baku, & Catatan Kaki)"]
+    Onto --> O2["P1-01-01-02: Aksioma Realitas (Monograf Terpadu: Riset Dialektika, 6 Aksioma Baku, & Kasuistika)"]
     Onto --> O3["P1-01-01-03: Validasi Dalil (Hermeneutika Al-Qur'an & As-Sunnah)"]
     Onto --> O4["P1-01-01-04: Validasi Turats (Al-Ghazali, Ibn Taimiyyah, Al-Maturidi, Al-Attas)"]
     Onto --> O5["P1-01-01-05: Sintesis Filosofis (Posisi Resmi Realisme Teistik TUMBUH)"]
@@ -39,16 +39,19 @@ graph TD
 
 ---
 
-## 📑 DAFTAR BERKAS MODULAR SUB-DOMAIN 01 (17 BERKAS LENGKAP)
+## 📑 DAFTAR BERKAS MODULAR MONOGRAF TERPADU SUB-DOMAIN 01
+
+Setiap modul di bawah ini disusun dalam format **Monograf Terpadu**:
+* **Bagian I**: Riset Inkuiri, Dialektika Multi-Perspektif (tanpa kata "pakar"), dan Kasuistika Lapangan.
+* **Bagian II**: Kodifikasi Baku Hasil Riset & Kesimpulan Formal.
+* **Bagian III**: Aparatus Akademis (Tabel Sintesis, Rujukan Turats & Sains, Catatan Kaki *Footnotes*, dan Glosarium).
 
 | No | Berkas Monograf | Judul Berkas | Fokus Kajian & Rujukan Utama |
 | :---: | :--- | :--- | :--- |
-| **00A** | [**`P1-01-Worldview-TUMBUH.md`**](./P1-01-Worldview-TUMBUH.md) | Worldview Islam & 10 Aksioma Fundamental | *Ru'yatul Islam lil-Wujud*, 10 pertanyaan eksistensial, dan first principles peradaban pesantren. |
-| **00B** | [**`P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md`**](./P1-01-01-01-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Realitas.md) | Kajian Riset & Inkuiri Dialektika Realitas | Naskah riset induk primer: formalisasi silogisme mantiq, sanggahan 3 ronde, dan pembuktian ontologi. |
+| **00** | [**`P1-01-Worldview-TUMBUH.md`**](./P1-01-Worldview-TUMBUH.md) | Worldview Islam & 10 Aksioma Fundamental | *Ru'yatul Islam lil-Wujud*, 10 pertanyaan eksistensial, dan first principles peradaban pesantren. |
 | **01** | [**`P1-01-01-Hakikat-Realitas.md`**](./P1-01-01-Hakikat-Realitas.md) | Monograf Induk Hakikat Realitas | Rangkuman master ontologi, integrasi alam ghaib & syahadah, serta implikasi kurikuler. |
-| **02** | [**`P1-01-01-01-Definisi-Realitas.md`**](./P1-01-01-01-Definisi-Realitas.md) | Definisi & Hakikat Realitas (Kesimpulan Formal) | Analisis istilah wujud, 3 unsur realitas (keberadaan, objektivitas, independensi persepsi). |
-| **03A** | [**`P1-01-01-02-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Aksioma-Realitas.md`**](./P1-01-01-02-Kajian-Dialektika-Inkuiri-dan-Tanya-Jawab-Aksioma-Realitas.md) | Kajian Riset & Inkuiri Aksioma Realitas | Naskah riset induk primer: formalisasi silogisme mantiq, sanggahan 3 ronde, dan pengujian kausalitas ganda. |
-| **03B** | [**`P1-01-01-02-Aksioma-Realitas.md`**](./P1-01-02-Aksioma-Realitas.md) | Aksioma-Aksioma Realitas (Kesimpulan Formal) | Enam aksioma metafisik baku dari Khaliq Mutlak hingga akuntabilitas hisab perbuatan. |
+| **02** | [**`P1-01-01-01-Definisi-Realitas.md`**](./P1-01-01-01-Definisi-Realitas.md) | Hakikat & Definisi Realitas (Monograf Terpadu) | Analisis istilah wujud, 3 unsur realitas, 6 inkuiri dialektis, studi kasus sanitasi, dan 41 catatan kaki. |
+| **03** | [**`P1-01-01-02-Aksioma-Realitas.md`**](./P1-01-01-02-Aksioma-Realitas.md) | Enam Aksioma Metafisik Realitas (Monograf Terpadu) | Enam pilar aksioma baku, integrasi kausalitas Kauniyyah-Syar'iyyah, studi kasus jam biologis, dan 30 catatan kaki. |
 | **04** | [**`P1-01-01-03-Validasi-Dalil.md`**](./P1-01-01-03-Validasi-Dalil.md) | Validasi Dalil Naqli Aksioma Realitas | Uji hermeneutika nash sharih QS. 31:30, 35:15, 33:62, 51:56, dan hadits sahih Bukhari-Muslim. |
 | **05** | [**`P1-01-01-04-Validasi-Turats.md`**](./P1-01-01-04-Validasi-Turats.md) | Validasi Turats Klasik Aksioma Realitas | Kesinambungan sanad epistemologis Al-Ghazali (*Misykat*), Ibn Taimiyyah, Al-Maturidi, & Al-Attas. |
 | **06** | [**`P1-01-01-05-Sintesis-Filosofis.md`**](./P1-01-01-05-Sintesis-Filosofis.md) | Sintesis Filosofis Hakikat Realitas | Deklarasi posisi resmi Realisme Teistik Integratif dan perbandingannya dengan ontologi Barat. |
