@@ -1,43 +1,48 @@
-# P1-01-01-01: KAJIAN RISET, DIALEKTIKA INKUIRI, & ANALISIS KRITIS HAKIKAT REALITAS
-## *Naskah Monograf Penelitian Fondasional: Investigasi Metodologis Multidisipliner, Dialektika Sanggahan Berlapis (Al-Iradat wal-Ajwibah al-Mutata'aqibah), Formalisasi Silogisme Mantiq, & Uji Stres Lapangan Sebelum Penarikan 6 Kesimpulan Formal Definisi Realitas (P1-01-01-01)*
+# P1-01-01-01: PENELITIAN FONDASIONAL HAKIKAT REALITAS DALAM WORLDVIEW ISLAM
+## *Monograf Riset Inkuiri Terbuka: Menggugat Masalah Asumsi Wujud, Komparasi Kausalitas Pendidikan, & Dialektika Silogisme Mantiq Menuju Penemuan dan Perumusan Definisi Baku Realitas*
 
 **Nomor Identifikasi**: `P1-01-01-01/RISET-DIALEKTIKA-REALITAS/2026`  
 **Domain**: `01 Philosophy` > `01 Worldview` > `01 Hakikat Realitas`  
-**Klasifikasi Naskah**: *Original Ground-Zero Professorial Research Monograph* (Monograf Riset Fondasional Tingkat Guru Besar)  
-**Dokumen Output/Kesimpulan**: [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md)  
+**Klasifikasi Naskah**: *Original Ground-Zero Research Monograph* (Naskah Riset Induk Penyelidikan Terbuka)  
+**Dokumen Output/Kesimpulan**: [**`P1-01-01-01-Definisi-Realitas.md`**](file:///c:/xampp/htdocs/tumbuh/01%20Philosophy/01%20Worldview/P1-01-01-01-Definisi-Realitas.md) *(Dilahirkan dari hasil riset ini)*  
 **Dewan Pakar Pengkaji**: `pakar-filosofi-tumbuh`, `pakar-epistemologi-turats`, `pakar-metodologi-riset-tumbuh`, `pakar-penulis-monograf-tumbuh`, `pakar-kritikus-dan-auditor-kualitas`
 
 ---
 
-## 📑 DAFTAR ISI MONOGRAF RISET
+## 📑 DAFTAR ISI MONOGRAF RISET REALITAS
 
-1. [1. Kerangka Metodologi Riset & Dialektika Bertingkat (*Al-Munazharah wal-Jadal*)](#1-kerangka-metodologi-riset--dialektika-bertingkat-al-munazharah-wal-jadal)
-2. [2. Inkuiri Riset 1: Investigasi Urgensi Ontologis vs Realitas Empiris Pesantren](#2-inkuiri-riset-1-investigasi-urgensi-ontologis-vs-realitas-empiris-pesantren)
+1. [1. Kerangka Metodologi Riset & Dialektika Inkuiri Terbuka](#1-kerangka-metodologi-riset--dialektika-inkuiri-terbuka)
+2. [2. Inkuiri Riset 1: Fenomenologi Masalah Pengasuhan: Apakah Problem Pesantren Berakar dari Kerancuan Memandang Kenyataan?](#2-inkuiri-riset-1-fenomenologi-masalah-pengasuhan-apakah-problem-pesantren-berakar-dari-kerancuan-memandang-kenyataan)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 1)*
    - *Ronde 1: Gugatan Praktisi Salaf & Pembongkaran Fatalisme Tersembunyi*
    - *Ronde 2: Sanggahan Balik Romantisme Masa Lalu vs Fakta Survivorship Bias*
    - *Ronde 3: Sanggahan Pamungkas Kekhawatiran Sikap Kritis vs Ma'rifatullah*
-3. [3. Inkuiri Riset 2: Investigasi Kausal Tiga Paradigma Asumsi Realitas](#3-inkuiri-riset-2-investigasi-kausal-tiga-paradigma-asumsi-realitas)
+3. [3. Inkuiri Riset 2: Komparasi Aliran Pemikiran: Bagaimana Asumsi tentang Kenyataan Membentuk Sistem Pendidikan?](#3-inkuiri-riset-2-komparasi-aliran-pemikiran-bagaimana-asumsi-tentang-kenyataan-membentuk-sistem-pendidikan)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 2)*
    - *Ronde 1: Dekonstruksi Materialisme Sekuler vs Mistisisme Pasif*
    - *Ronde 2: Sanggahan Balik Efisiensi Behaviorisme Keras vs Pseudo-Compliance*
    - *Ronde 3: Sanggahan Pamungkas Doktrin Riyadhah Mematikan Nafsu vs I'tidal*
-4. [4. Inkuiri Riset 3: Investigasi Semantik Wujud Objektif vs Relativisme Bahasa](#4-inkuiri-riset-3-investigasi-semantik-wujud-objektif-vs-relativisme-bahasa)
+4. [4. Inkuiri Riset 3: Penyelidikan Bahasa & Episteme: Apa Makna Sebenarnya dari Kata 'Ada' dan 'Nyata' (*Wujud & Haqiqah*)?](#4-inkuiri-riset-3-penyelidikan-bahasa--episteme-apa-makna-sebenarnya-dari-kata-ada-dan-nyata-wujud--haqiqah)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 3)*
    - *Ronde 1: Analisis Isytiqoq al-Wujud & Bantahan Dekonstruksionisme*
    - *Ronde 2: Sanggahan Balik Relativitas Budaya Adab (Jawa vs Arab vs Barat)*
    - *Ronde 3: Sanggahan Pamungkas Bahaya Hegemoni Feodal Berkedok Adab*
-5. [5. Inkuiri Riset 4: Pengujian Stres Tiga Unsur Pokok Realitas](#5-inkuiri-riset-4-pengujian-stres-tiga-unsur-pokok-realitas)
+5. [5. Inkuiri Riset 4: Eksperimen Pemikiran & Uji Kausalitas: Karakteristik Apa yang Menjadikan Sesuatu Itu Nyata?](#5-inkuiri-riset-4-eksperimen-pemikiran--uji-kausalitas-karakteristik-apa-yang-menjadikan-sesuatu-itu-nyata)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 4)*
    - *Ronde 1: Pembuktian Kepastian Matematis Hukum Moral Setara Gravitasi*
    - *Ronde 2: Sanggahan Balik Paradoks Orang Zalim yang Tampak Bahagia*
    - *Ronde 3: Sanggahan Pamungkas Tekanan Mayoritas (Demokrasi Relativistik)*
-6. [6. Inkuiri Riset 5: Manunggalnya 'Alam Mulk (Dhohir) & 'Alam Malakut (Batin) di Pesantren NU](#6-inkuiri-riset-5-manunggalnya-alam-mulk-dhohir--alam-malakut-batin-di-pesantren-nu)
+6. [6. Inkuiri Riset 5: Penyelidikan Integrasi: Bagaimana Hubungan antara Kenyataan Dhohir dan Dimensi Batin di Pesantren?](#6-inkuiri-riset-5-penyelidikan-integrasi-bagaimana-hubungan-antara-kenyataan-dhohir-dan-dimensi-batin-di-pesantren)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 5)*
    - *Ronde 1: Harmoni Syariat Dhohir & Hakikat Batin (Ihya' & Al-Hikam)*
    - *Ronde 2: Sanggahan Balik Kecukupan Sains Empiris Murni Tanpa Malakut*
    - *Ronde 3: Sanggahan Pamungkas Benturan Medis vs Mitos Kesambet Jin*
-7. [7. Inkuiri Riset 6: Translasi Lapangan ke Kurikulum, Arsitektur, & PBIS 24 Jam](#7-inkuiri-riset-6-translasi-lapangan-ke-kurikulum-arsitektur--pbis-24-jam)
+7. [7. Inkuiri Riset 6: Uji Coba Lapangan: Bagaimana Temuan Ini Mengubah Tata Kelola Fisik dan Disiplin Santri?](#7-inkuiri-riset-6-uji-coba-lapangan-bagaimana-temuan-ini-mengubah-tata-kelola-fisik-dan-disiplin-santri)
+   - *Formalisasi Silogisme Logika (Qiyas Mantiqi 6)*
+   - *Ronde 1: Desain Arsitektur Asrama Ramah Neurobiologis & Parameter Terukur*
+   - *Ronde 2: Sanggahan Balik Tudingan Sistem Elitis-Mahal vs Pesantren Sederhana*
+   - *Ronde 3: Sanggahan Pamungkas Mitigasi Pelanggaran Berat Tier 3 Tanpa Penjara Fisik*
+8. [8. Sintesis Hasil Riset: Formulasi & Penetapan Definisi Realitas](#8-sintesis-hasil-riset-formulasi--penetapan-definisi-realitas)
    - *Formalisasi Silogisme Logika (Qiyas Mantiqi 6)*
    - *Ronde 1: Desain Arsitektur Asrama Ramah Neurobiologis & Parameter Terukur*
    - *Ronde 2: Sanggahan Balik Tudingan Sistem Elitis-Mahal vs Pesantren Sederhana*
