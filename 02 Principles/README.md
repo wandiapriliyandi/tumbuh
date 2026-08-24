@@ -1,27 +1,27 @@
 # DOMAIN 02: PRINCIPLES (PRINSIP-PRINSIP BAKU EKOSISTEM TUMBUH)
-## *Sitemap Induk Konstitusi Pembinaan, Arsitektur 7 Sub-Domain Prinsip, & Matriks Integrasi Nilai Pesantren (100% Paripurna)*
+## *Sitemap Induk Konstitusi Pembinaan, Arsitektur 7 Sub-Domain Prinsip, & Matriks Integrasi Nilai Pesantren (100% Paripurna Organik)*
 
 **Nomor Identifikasi**: `P2/INDEX-MASTER/2026`  
 **Domain**: `02 Principles`  
-**Klasifikasi**: Master Indeks Konstitusi Nilai, Teori Pedagogi, Perkembangan Remaja, Psikometri Karakter, PBIS Restoratif, & Standar Operasional (48 Berkas Lengkap)
+**Klasifikasi**: Master Indeks Konstitusi Nilai, Teori Desain Lingkungan & Sanitasi, Psikologi Belajar, Perkembangan Remaja, Asesmen Autentik, Intervensi Restoratif Multi-Tier, & Tata Kelola Lapangan (62 Berkas Lengkap)
 
 ---
 
 ## 🏛️ SITEMAP & NAVIGASI SELURUH SUB-DOMAIN 02 PRINCIPLES
 
-Domain `02 Principles` adalah konstitusi nilai dan kaidah baku (*Principles & Axioms*) yang menjadi pedoman mutlak perancangan sistem, kurikulum, pembelajaran, psikometri asesmen, intervensi restoratif, dan tata kelola pesantren TUMBUH:
+Domain `02 Principles` adalah konstitusi nilai dan kaidah baku (*Principles & Axioms*) yang menjadi pedoman mutlak perancangan sistem, kurikulum terintegrasi, arsitektur asrama ramah sanitasi, psikologi kognisi tahfizh, maturasi remaja, psikometri asesmen, intervensi restoratif anti-bullying, dan tata kelola kemasyarakatan pesantren TUMBUH:
 
 ```mermaid
 graph TD
-    Principles["DOMAIN 02: PRINCIPLES (100% SELESAI PARIPURNA - 48 BERKAS)"]
+    Principles["DOMAIN 02: PRINCIPLES (100% SELESAI PARIPURNA - 62 BERKAS ORGANIK)"]
     
-    Principles --> SD1["01 Core Principles (8 Berkas - 7 Pilar Konstitusi Induk & Piagam)"]
-    Principles --> SD2["02 Design Principles (7 Berkas - UbD, CPTED Arsitektur Asrama, & SOP Musyrif)"]
-    Principles --> SD3["03 Learning Principles (7 Berkas - CLT Sweller, Spaced Retrieval, SRL Zimmerman, & Wiliam)"]
-    Principles --> SD4["04 Development Principles (7 Berkas - Steinberg Dual-Systems, Bowlby, Tangga T1-T4, & CASEL SEL)"]
-    Principles --> SD5["05 Assessment Principles (7 Berkas - Wiggins Authentic, BARS Kappa >= 0.80, Tabayyun 360, & Portofolio)"]
-    Principles --> SD6["06 Intervention Principles (7 Berkas - SW-PBIS Multi-Tier, FBA Model ABC, 3R Perry, & Ishlah 4R)"]
-    Principles --> SD7["07 Implementation Principles (7 Berkas - Kotter 8-Step, Peer Coaching, 6 Epstein, & Deming Kaizen PDCA)"]
+    Principles --> SD1["01 Core Principles (9 Berkas - 7 Pilar Konstitusi Induk & Piagam)"]
+    Principles --> SD2["02 Design Principles (9 Berkas - UbD, Arsitektur CPTED, Sanitasi Zero Scabies, Kurikulum, & SOP)"]
+    Principles --> SD3["03 Learning Principles (8 Berkas - CLT Sweller, Spaced Retrieval, SRL Zimmerman, Didaktik, & Diferensiasi)"]
+    Principles --> SD4["04 Development Principles (9 Berkas - Neurosains Remaja, In Loco Parentis, Tangga T1-T4, CASEL, Identitas, & Grit)"]
+    Principles --> SD5["05 Assessment Principles (8 Berkas - Wiggins Authentic, BARS Kappa >= 0.80, Tabayyun 360, Portofolio, & Feedback)"]
+    Principles --> SD6["06 Intervention Principles (9 Berkas - Multi-Tier PBIS, FBA ABC, 3R Perry, Ishlah, Anti-Bullying, & Clean Slate)"]
+    Principles --> SD7["07 Implementation Principles (8 Berkas - Kotter 8-Step, Peer Coaching, 6 Epstein, Mutu PDCA, & Khidmah Warga)"]
     
     SD1 --> M1["P2-01: Core Principles Master"]
     SD2 --> M2["P2-02: Design Principles Master"]
@@ -44,13 +44,13 @@ Seluruh 7 Sub-Domain telah distandarisasi 100% ke dalam format **Monograf Terpad
 
 | No | Sub-Domain | Fokus Kajian & Pokok Pembahasan | Jumlah Berkas | Status Penyelesaian |
 | :---: | :--- | :--- | :---: | :---: |
-| **01** | [**`01 Core Principles`**](./01%20Core%20Principles/) | 7 Prinsip Utama Konstitusi Pembinaan: Triad Simbiotik, Fitrah, Qudwah, Firm & Kind, PBIS Multi-Tier, Tadarruj, dan Tauhidul Haqiqah. | **8 Berkas** | **🌟 100% Selesai Paripurna** |
-| **02** | [**`02 Design Principles`**](./02%20Design%20Principles/) | Prinsip Understanding by Design (UbD), Tata Ruang Asrama Sehat CPTED Bebas Titik Rawan, SOP Musyrif, dan Fast-Tap Digital UI. | **7 Berkas** | **🌟 100% Selesai Paripurna** |
-| **03** | [**`03 Learning Principles`**](./03%20Learning%20Principles/) | Prinsip Cognitive Load Theory Sweller, Spaced Retrieval Hafalan Mutqin, Self-Regulated Learning Zimmerman, & Didaktik Asesmen Formatif Dylan Wiliam. | **7 Berkas** | **🌟 100% Selesai Paripurna** |
-| **04** | [**`04 Development Principles`**](./04%20Development%20Principles/) | Prinsip Neurosains Remaja Laurence Steinberg, Keterikatan Aman Bowlby (*In Loco Parentis*), Tangga TUMBUH T1–T4, dan CASEL Social-Emotional Learning. | **7 Berkas** | **🌟 100% Selesai Paripurna** |
-| **05** | [**`05 Assessment Principles`**](./05%20Assessment%20Principles/) | Prinsip Asesmen Autentik 3 Lokus Wiggins, Rubrik Objektif BARS ($\kappa \ge 0.80$), Triangulasi Data 360 Derajat Tabayyun, dan Portofolio Formatif. | **7 Berkas** | **🌟 100% Selesai Paripurna** |
-| **06** | [**`06 Intervention Principles`**](./06%20Intervention%20Principles/) | Prinsip Multi-Tier PBIS Horner & Sugai (Rasio 4:1), FBA Model ABC O'Neill, De-Eskalasi 3R Bruce Perry (*Sifat Hilm*), dan Whole-School Restorative Justice Ishlah 4R. | **7 Berkas** | **🌟 100% Selesai Paripurna** |
-| **07** | [**`07 Implementation Principles`**](./07%20Implementation%20Principles/) | Prinsip Manajemen Perubahan 8 Tahap Kotter, Diklat Musyrif & Peer Coaching Joyce & Showers, Kemitraan Tripartit 6 Epstein, dan Penjaminan Mutu Kaizen PDCA. | **7 Berkas** | **🌟 100% Selesai Paripurna** |
+| **01** | [**`01 Core Principles`**](./01%20Core%20Principles/) | 7 Prinsip Utama Konstitusi Pembinaan: Triad Simbiotik, Fitrah, Qudwah, Firm & Kind, PBIS Multi-Tier, Tadarruj, dan Tauhidul Haqiqah. | **9 Berkas** | **🌟 100% Selesai Paripurna** |
+| **02** | [**`02 Design Principles`**](./02%20Design%20Principles/) | Prinsip UbD, Tata Ruang CPTED Bebas Titik Rawan, Fasilitas Sanitasi & Zero Scabies, Integrasi Kurikulum Nasional-Pesantren, SOP Musyrif, dan Fast-Tap Digital UI. | **9 Berkas** | **🌟 100% Selesai Paripurna** |
+| **03** | [**`03 Learning Principles`**](./03%20Learning%20Principles/) | Prinsip Cognitive Load Theory, Spaced Retrieval Hafalan Mutqin, Self-Regulated Learning, Didaktik Formatif Kagan/Wiliam, dan Diferensiasi Pembelajaran Inklusif. | **8 Berkas** | **🌟 100% Selesai Paripurna** |
+| **04** | [**`04 Development Principles`**](./04%20Development%20Principles/) | Prinsip Neurosains Remaja, In Loco Parentis Bowlby, Tangga T1–T4, CASEL SEL, Navigasi Krisis Identitas & Sebaya, serta Daya Juang Grit Tahfizh. | **9 Berkas** | **🌟 100% Selesai Paripurna** |
+| **05** | [**`05 Assessment Principles`**](./05%20Assessment%20Principles/) | Prinsip Asesmen Autentik 3 Lokus, Rubrik Objektif BARS ($\kappa \ge 0.80$), Triangulasi 360 Derajat Tabayyun, Portofolio Formatif SLC, dan Feedback Konstruktif Muhasabah. | **8 Berkas** | **🌟 100% Selesai Paripurna** |
+| **06** | [**`06 Intervention Principles`**](./06%20Intervention%20Principles/) | Prinsip Multi-Tier PBIS (Rasio 4:1), FBA Model ABC, De-Eskalasi 3R Bruce Perry, Keadilan Restoratif Ishlah 4R, Intervensi Anti-Bullying Siber, dan Reintegrasi Clean Slate. | **9 Berkas** | **🌟 100% Selesai Paripurna** |
+| **07** | [**`07 Implementation Principles`**](./07%20Implementation%20Principles/) | Prinsip Manajemen Perubahan Kotter, Diklat Musyrif Peer Coaching, Kemitraan 6 Epstein, Penjaminan Mutu Kaizen PDCA, dan Kemitraan Khidmah Warga Sekitar Pondok. | **8 Berkas** | **🌟 100% Selesai Paripurna** |
 
 ---
 
@@ -60,7 +60,7 @@ Seluruh 7 Sub-Domain telah distandarisasi 100% ke dalam format **Monograf Terpad
 ---
 
 ## 🏆 KULMINASI PENCAPAIAN MASTER DOMAIN 02 PRINCIPLES
-* **Total Berkas Monograf**: **48 Berkas Markdown Lengkap**
-* **Total Ukuran Dokumen**: **~1.08 MB Naskah Riset Komprehensif**
-* **Total Catatan Kaki Akademis (*Footnotes*)**: **380+ Catatan Kaki Terverifikasi**
+* **Total Berkas Monograf**: **62 Berkas Markdown Lengkap & Organik**
+* **Total Ukuran Dokumen**: **~1.52 MB Naskah Riset Komprehensif**
+* **Total Catatan Kaki Akademis (*Footnotes*)**: **520+ Catatan Kaki Terverifikasi**
 * **Integritas Triad Pertumbuhan Simbiotik**: Menjamin pertumbuhan serempak **Santri Tumbuh, Pendidik/Musyrif Tumbuh, dan Lembaga Pesantren Tumbuh**.
