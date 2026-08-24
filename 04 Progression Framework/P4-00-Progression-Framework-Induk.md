@@ -1,4 +1,4 @@
-﻿# P4-00: Progression Framework Induk (Kerangka Progresi Perkembangan Santri Ekosistem TUMBUH)
+# P4-00: Progression Framework Induk (Kerangka Progresi Perkembangan Santri Ekosistem TUMBUH)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Induk Baku)**
@@ -15,14 +15,21 @@ Perkembangan karakter dan adab santri dalam ekosistem **TUMBUH** tidak dipahami 
 
 ---
 
-## 2. Model Triad Pertumbuhan Simbiotik dalam Progresi
+## 2. Model Triad Pertumbuhan Simbiotik: Pembentukan Karakter Sepanjang Hayat
+
+> **Prinsip Utama: Pembentukan Karakter Tidak Berhenti di Santri, Melainkan Berlanjut Hingga Guru & Pimpinan Lembaga**  
+> Di ekosistem TUMBUH, guru dan musyrif bukan "produk jadi yang statis", melainkan pembelajar adab yang sedang berproses pada tahapan kepemimpinan yang lebih tinggi. Pembinaan karakter menyambung tanpa putus melintasi 10 Tahapan:
+> * **Santri di Pesantren**: Bertumbuh dari **Tahap 1 (Tahu) $\rightarrow$ Tahap 7 (Menggerakkan)** (Jenjang J1–J4).
+> * **Alumni & Guru Baru**: Bertumbuh pada **Tahap 8 (Pelaksana)** (Eksekutor KBM & Operasional Asrama).
+> * **Guru Senior (S1/Senior)**: Bertumbuh pada **Tahap 9 (Pembina)** (Murabbi, Supervisor, & Pengasuh).
+> * **Pimpinan Lembaga / Kyai**: Bertumbuh pada **Tahap 10 (Pemberdaya)** (Penggerak Visi & Pemberdaya Sistem Umat).
 
 ```mermaid
 graph TD
     Triad["Triad Pertumbuhan Simbiotik dalam Progresi"]
-    Triad --> Santri["1. Santri Tumbuh<br/>Melintasi Jenjang J1 -> T4 dari ketergantungan eksternal menuju regulasi diri mandiri."]
-    Triad --> Musyrif["2. Guru & Musyrif Tumbuh<br/>Menggeser peran bimbingan secara gradual (Scaffolding Decay) dari pengawas ketat menjadi mitra/qudwah."]
-    Triad --> Sistem["3. Sistem Lembaga Tumbuh<br/>Menyediakan lingkungan aman (Psychological Safety), data PBIS objektif, dan SOP transisi berkeadilan."]
+    Triad --> Santri["1. Santri Tumbuh (Tahap 1-7)<br/>Melintasi Jenjang J1 -> J4 dari kepatuhan terbimbing hingga menggerakkan inisiatif adab."]
+    Triad --> Musyrif["2. Guru & Musyrif Tumbuh (Tahap 8-9)<br/>Dari guru baru (Tahap 8 Pelaksana) bertransformasi menjadi murabbi matang (Tahap 9 Pembina)."]
+    Triad --> Sistem["3. Pimpinan & Lembaga Tumbuh (Tahap 10)<br/>Kyai & pimpinan tertinggi (Tahap 10 Pemberdaya) memberdayakan ekosistem Bi'ah Shalihah secara berkelanjutan."]
 ```
 
 ---
