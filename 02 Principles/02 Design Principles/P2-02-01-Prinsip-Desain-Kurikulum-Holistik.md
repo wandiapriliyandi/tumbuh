@@ -1,5 +1,5 @@
 # P2-02-01: PRINSIP DESAIN KURIKULUM HOLISTIK PESANTREN
-## *Monograf Terpadu: Epistemologi Integrasi Fardhu 'Ain & Kifayah (Ihya 'Ulumiddin Al-Ghazali & Ta'lim al-Muta'allim Az-Zarnuji), Konvergensi Metodologi Understanding by Design (UbD Backward Design Wiggins & McTighe), Manajemen Beban Kognitif (Cognitive Load Theory John Sweller), serta Penyelarasan Kurikulum Kelas dan Asrama 24 Jam Berbasis Tangga TUMBUH T1–T4*
+## *Monograf Terpadu: Epistemologi Integrasi Fardhu 'Ain & Kifayah (Ihya 'Ulumiddin Al-Ghazali & Ta'lim al-Muta'allim Az-Zarnuji), Konvergensi Metodologi Understanding by Design (UbD Backward Design Wiggins & McTighe), Manajemen Beban Kognitif (Cognitive Load Theory John Sweller), serta Penyelarasan Kurikulum Kelas dan Asrama 24 Jam Berbasis Jenjang Kemandirian TUMBUH (J1–J4) J1–J4*
 
 **Nomor Identifikasi**: `P2-02-01/MONOGRAF-TERPADU-DESAIN-KURIKULUM-HOLISTIK/2026`  
 **Domain**: `02 Principles` > `02 Design Principles`  
@@ -33,12 +33,12 @@
   - [3. Inkuiri 2: Konvergensi Metodologi Understanding by Design (UbD) Grant Wiggins & Jay McTighe](#3-inkuiri-2-konvergensi-metodologi-understanding-by-design-ubd-grant-wiggins--jay-mctighe)
   - [4. Inkuiri 3: Penyelarasan Kurikulum Kelas dan Asrama 24 Jam (Classroom-Dormitory Curricular Alignment)](#4-inkuiri-3-penyelarasan-kurikulum-kelas-dan-asrama-24-jam-classroom-dormitory-curricular-alignment)
   - [5. Inkuiri 4: Manajemen Beban Kognitif (Cognitive Load Theory John Sweller) dalam Penjadwalan Belajar](#5-inkuiri-4-manajemen-beban-kognitif-cognitive-load-theory-john-sweller-dalam-penjadwalan-belajar)
-  - [6. Inkuiri 5: Taksonomi Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin](#6-inkuiri-5-taksonomi-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin)
+  - [6. Inkuiri 5: Taksonomi Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin](#6-inkuiri-5-taksonomi-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kurikulum, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-kurikulum--titik-temu-konsensus)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-desain-kurikulum-holistik-terpadu-pesantren-tumbuh)
   - [2. Matriks 4 Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH](#2-matriks-4-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
-  - [3. Matriks Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin Ilmu](#3-matriks-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin-ilmu)
+  - [3. Matriks Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin Ilmu](#3-matriks-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin-ilmu)
   - [4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (Classroom-Dormitory Alignment Protocol)](#4-protokol-penyelarasan-kurikulum-kelas-asrama-24-jam-classroom-dormitory-alignment-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
   - [1. Tabel Sintesis Hasil Riset Desain Kurikulum Holistik](#1-tabel-sintesis-hasil-riset-desain-kurikulum-holistik)
@@ -109,7 +109,7 @@ $$\text{أَفْضَلُ الْعِلْمِ عِلْمُ الْحَالِ، وَ
 ```mermaid
 graph LR
     subgraph TigaTahapBackwardDesign["3 TAHAP BACKWARD DESIGN (UNDERSTANDING BY DESIGN - UbD)"]
-        Stage1["1. IDENTIFIKASI HASIL AKHIR YANG DIINGINKAN<br/>(Desired Results)<br/>Apa yang harus dipahami, diresapi, & diamalkan santri secara permanen? (Insan Adabi T1–T4)."]
+        Stage1["1. IDENTIFIKASI HASIL AKHIR YANG DIINGINKAN<br/>(Desired Results)<br/>Apa yang harus dipahami, diresapi, & diamalkan santri secara permanen? (Insan Adabi J1–J4)."]
         
         Stage2["2. PENETAPAN BUKTI ASESMEN OTENTIK<br/>(Assessment Evidence)<br/>Bagaimana kita tahu santri telah mencapai adab tersebut? (Observasi Logbook, Proyek Khidmah, Rubrik PBIS)."]
         
@@ -180,11 +180,11 @@ Dalam publikasi seminal di *Cognitive Science*, John Sweller merumuskan:
 
 ---
 
-### 6. Inkuiri 5: Taksonomi Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin
+### 6. Inkuiri 5: Taksonomi Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin
 
 ```mermaid
 graph LR
-    subgraph TanggaProgresiKurikulum["PROGRESI 4 TANGGA TUMBUH (T1–T4)"]
+    subgraph TanggaProgresiKurikulum["PROGRESI 4 TANGGA TUMBUH (J1–J4)"]
         T1["T1: TERTIB ADAB (Fondasi)<br/>Adaptasi kamar, tahsin huruf, & kepatuhan adab dasar."]
         
         T2["T2: UNGGUL ILMU (Akselerasi)<br/>Kaidah syariat, hafalan mutqin, & regulasi diri otonom."]
@@ -259,11 +259,11 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ---
 
-### 3. Matriks Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin Ilmu
+### 3. Matriks Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin Ilmu
 
 ```mermaid
 graph TD
-    subgraph MatriksCapaianTUMBUH["MATRIKS CAPAIAN KURIKULUM TANGGA TUMBUH T1–T4"]
+    subgraph MatriksCapaianTUMBUH["MATRIKS CAPAIAN KURIKULUM TANGGA TUMBUH J1–J4"]
         T1["TANGGA T1: TERTIB ADAB (Kelas 7 / Santri Baru)<br/>• Dirasah: Adab belajar & aqidah dasar.<br/>• Tahfizh: Tahsin tajwid & Juz 30 mutqin.<br/>• SEL: Adaptasi asrama & regulasi homesick.<br/>• Life Skills: Merapikan kasur & mencuci mandiri."]
         
         T2["TANGGA T2: UNGGUL ILMU (Kelas 8 / Menengah Bawah)<br/>• Dirasah: Kaidah Nahwu dasar & Fiqh thaharah-shalat.<br/>• Tahfizh: Akselerasi Ziyadah teratur.<br/>• SEL: Resolusi konflik sebaya & empati.<br/>• Life Skills: Manajemen waktu belajar & kebersihan."]
@@ -272,7 +272,7 @@ graph TD
         
         T4["TANGGA T4: BIJAK KHIDMAH (Santri Akhir / Penggerak)<br/>• Dirasah: Fatwa kontekstual & metodologi dakwah.<br/>• Tahfizh: Sanad/Khatam hafalan & pengajaran.<br/>• SEL: Menjadi Duta Adab & Peer Mentor adik kelas.<br/>• Life Skills: Khidmat sosial masyarakat & riset."]
         
-        T1 --> T2 --> T3 --> T4
+        J1 --> J2 --> J3 --> J4
     end
 ```
 
@@ -307,7 +307,7 @@ flowchart TD
 | **Metodologi Desain** | *Understanding by Design (UbD)* | Kaidah *Al-Umuru bi Maqashidiha* | Grant Wiggins & Jay McTighe (2005), *Backward Design* | Merancang kurikulum dari profil hasil Insan Adabi menuju bukti asesmen & modul ajar. |
 | **Penyelarasan 24 Jam** | *Classroom-Dormitory Alignment* | Adab Majelis Ilmu KH. Hasyim Asy'ari (*Adab al-'Alim*) | *Ecological Systems Theory (Bronfenbrenner, 1979)* | Menjadikan asrama sebagai laboratorium praktik langsung dari materi kelas madrasah. |
 | **Kapasitas Kognitif** | *Cognitive Load Management* | Prinsip Kemudahan Syariat (HR. Bukhari No. 39) | John Sweller (1988), *Cognitive Load Theory* | Mereduksi beban berlebih; menjamin hak tidur 7–8 jam dan jeda konsolidasi memori. |
-| **Diferensiasi Jenjang** | *Tangga Progresi T1–T4* | Kaidah *Tadarruj Marahil al-'Umr* | *Taxonomy of Educational Objectives (Bloom Revised)* | Menetapkan capaian belajar yang berbeda secara berjenjang dari kelas 7 hingga kelas akhir. |
+| **Diferensiasi Jenjang** | *Tangga Progresi J1–J4* | Kaidah *Tadarruj Marahil al-'Umr* | *Taxonomy of Educational Objectives (Bloom Revised)* | Menetapkan capaian belajar yang berbeda secara berjenjang dari kelas 7 hingga kelas akhir. |
 
 ---
 

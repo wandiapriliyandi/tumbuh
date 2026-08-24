@@ -1,12 +1,12 @@
-# KATALOG 02: RUBRIK 10 MUWASHAFAT & TANGGA T1-T4 (30 RUBRIK)
+# KATALOG 02: RUBRIK 10 MUWASHAFAT & TANGGA J1-J4 (30 RUBRIK)
 
 **Nomor Berkas**: `REF-INST/02-MUWASHAFAT/2026/08`  
-**Kategori**: Rubrik Asesmen Ipsatif 10 Muwashafat Karakter Santri, Tangga Progresi T1-T4, & Skala Fitrah  
+**Kategori**: Rubrik Asesmen Ipsatif 10 Muwashafat Karakter Santri, Tangga Progresi J1-J4, & Skala Fitrah  
 **Repositori**: Ekosistem **TUMBUH** Pesantren
 
 ---
 
-## 📏 KATALOG 30 RUBRIK IPSATIF 10 MUWASHAFAT & TANGGA T1-T4
+## 📏 KATALOG 30 RUBRIK IPSATIF 10 MUWASHAFAT & TANGGA J1-J4
 
 | No | Nama Rubrik / Instrument | Fokus Alat Ukur & Indikator Perilaku | Integrasi Domain TUMBUH |
 | :---: | :--- | :--- | :--- |
@@ -20,10 +20,10 @@
 | **8** | **Rubrik Muwashafat Munazhgham fi Syu'unihi** | Keteraturan manajemen waktu harian, kerapihan almari, & jadwal belajar. | **Domain 03, 10** |
 | **9** | **Rubrik Muwashafat Harishun 'ala Waqtihi** | Efisiensi pemanfaatan waktu luang, shalat dhuha, & membaca kitab. | **Domain 03, 09** |
 | **10** | **Rubrik Muwashafat Nafi'un li Ghairihi** | Sifat kepedulian ukhuwah, khidmah keumatan, & bantuan sesama santri. | **Domain 03, 04** |
-| **11** | **Matriks Evaluasi Tangga T1 (Penataan Diri)** | Indikator adaptasi dasar santri baru Kelas 7 MTs. | **Domain 04** |
-| **12** | **Matriks Evaluasi Tangga T2 (Habituasi)** | Indikator pembiasaan adab otomatisitas 66-hari Kelas 8 MTs. | **Domain 04** |
-| **13** | **Matriks Evaluasi Tangga T3 (Internalisasi)** | Indikator kematangan adab mandiri & kepemimpinan awal Kelas 9-10. | **Domain 04** |
-| **14** | **Matriks Evaluasi Tangga T4 (Qudwah Hasanah)**| Indikator kepemimpinan melayani santri senior Kelas 11-12. | **Domain 04** |
+| **11** | **Matriks Evaluasi Jenjang J1 (Penataan Diri)** | Indikator adaptasi dasar santri baru Kelas 7 MTs. | **Domain 04** |
+| **12** | **Matriks Evaluasi Jenjang J2 (Habituasi)** | Indikator pembiasaan adab otomatisitas 66-hari Kelas 8 MTs. | **Domain 04** |
+| **13** | **Matriks Evaluasi Jenjang J3 (Internalisasi)** | Indikator kematangan adab mandiri & kepemimpinan awal Kelas 9-10. | **Domain 04** |
+| **14** | **Matriks Evaluasi Jenjang J4 (Qudwah Hasanah)**| Indikator kepemimpinan melayani santri senior Kelas 11-12. | **Domain 04** |
 | **15** | **Transkrip Portofolio Karakter PBIS Santri** | Format Laporan Ipsatif Pertumbuhan Karakter Santri Berbasis Growth. | **Domain 05, 11** |
 | **16** | **Skala Pengukuran Fitrah Keagamaan Santri** | Mengukur perkembangan keimanan & kecintaan ibadah tanpa pemaksaan. | **Domain 01, 05** |
 | **17** | **Rubrik Adab Pergaulan Kamar Asrama** | Indikator penghormatan privasi, kebersamaan mayoran, & saling menjaga. | **Domain 03, 08** |

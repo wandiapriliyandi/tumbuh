@@ -173,7 +173,7 @@ graph TD
 * **Pihak A (Sudut Pandang Infantilisasi Santri)**:  
   *"Anak usia kelas 7 itu masih anak-anak, belum bisa mikir mandiri! Harus dipaksa dan diawasi terus 100%!"*
 * **Tinjauan Sudut Pandang Penahapan Scaffolding Metakognitif**:  
-  Kemandirian tidak lahir tiba-tiba saat dewasa, melainkan dibiasakan sejak dini melalui **Perancah Bimbingan Bertahap (*Scaffolding*)**. Untuk santri kelas 7 (Tangga T1), guru menyediakan *Checklist* visual sederhana. Seiring bertambahnya usia ke Tangga T2 dan T3, santri secara bertahap mengambil alih kendali belajarnya sendiri hingga mandiri total di Tangga T4.[^7]
+  Kemandirian tidak lahir tiba-tiba saat dewasa, melainkan dibiasakan sejak dini melalui **Perancah Bimbingan Bertahap (*Scaffolding*)**. Untuk santri kelas 7 (Jenjang J1), guru menyediakan *Checklist* visual sederhana. Seiring bertambahnya usia ke Jenjang J2 dan T3, santri secara bertahap mengambil alih kendali belajarnya sendiri hingga mandiri total di Jenjang J4.[^7]
 
 #### 🥊 Ronde 2: Sanggahan Balik Apakah Mengakui Kebingungan di Jurnal Belajar Menunjukkan Kelemahan Santri?
 * **Pihak A (Sudut Pandang Gengsi Akademik)**:  

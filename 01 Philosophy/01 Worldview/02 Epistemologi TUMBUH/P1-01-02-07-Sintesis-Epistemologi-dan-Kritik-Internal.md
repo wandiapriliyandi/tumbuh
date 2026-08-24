@@ -335,7 +335,7 @@ graph LR
 * **Pihak A (Sudut Pandang Progresi Keilmuan)**:  
   *"Setelah Kluster 01 (Realitas) dan Kluster 02 (Epistemologi) selesai, ke mana arah pembahasan filsafat berikutnya?"*
 * **Resolusi Sudut Pandang Pohon Filsafat TUMBUH**:  
-  Dengan tuntasnya fondasi Realitas dan Epistemologi, Ekosistem TUMBUH melangkah mantap menuju **Kluster 03: Hakikat Manusia (*Human Nature / Antropologi Metafisik Insan*)**: Membedah fitrah penciptaan ruh, jasad, akal, qalb, nafsu, dan potensi tangga pertumbuhan T1–T4 santri secara mendalam.[^33]
+  Dengan tuntasnya fondasi Realitas dan Epistemologi, Ekosistem TUMBUH melangkah mantap menuju **Kluster 03: Hakikat Manusia (*Human Nature / Antropologi Metafisik Insan*)**: Membedah fitrah penciptaan ruh, jasad, akal, qalb, nafsu, dan potensi tangga pertumbuhan J1–J4 santri secara mendalam.[^33]
 
 > #### 📌 Kasuistika Lapangan 6 & Titik Temu Konsensus
 > * **Studi Kasus**: Dewan Kurikulum Pesantren menyelenggarakan simposium akbar menguji seluruh draf modul Kluster 02 bersama para kiai sepuh dan pakar psikologi pendidikan.

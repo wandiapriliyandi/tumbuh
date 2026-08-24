@@ -1,5 +1,5 @@
 # P1-03-06: PUNCAK AKTUALISASI INSAN ADABI DAN TAHAP 7 PENGGERAK
-## *Monograf Terpadu: Epistemologi Insan Adabi (Syed Muhammad Naquib Al-Attas) & Insan Kamil (Al-Jili), Hakikat Shalih vs Mushlih (QS. Hud: 117), Teori Self-Transcendence Abraham Maslow & Generativity Erikson, Kodifikasi Tahap 7 Penggerak Peradaban Pasca Tangga T1–T4, dan Portofolio Khitamut Tarbiyah*
+## *Monograf Terpadu: Epistemologi Insan Adabi (Syed Muhammad Naquib Al-Attas) & Insan Kamil (Al-Jili), Hakikat Shalih vs Mushlih (QS. Hud: 117), Teori Self-Transcendence Abraham Maslow & Generativity Erikson, Kodifikasi Tahap 7 Penggerak Peradaban Pasca Jenjang J1–J4, dan Portofolio Khitamut Tarbiyah*
 
 **Nomor Identifikasi**: `P1-03-06/MONOGRAF-TERPADU-PUNCAK-AKTUALISASI-TAHAP-7/2026`  
 **Domain**: `01 Philosophy` > `03 Human Development`  
@@ -14,8 +14,8 @@
 >   Seorang santri yang *Shalih* hanya berbuat baik untuk keselamatan dirinya sendiri. Namun, santri yang mencapai **Tahap 7 (Penggerak/Mushlih)** adalah pribadi yang memiliki kepedulian membimbing, memperbaiki, dan menggerakkan kebaikan di tengah masyarakat luas. Allah SWT tidak akan membinasakan suatu negeri selama penduduknya adalah orang-orang yang melakukan perbaikan (*Mushlihun*, QS. Hud: 117).
 > * **Konsep *Insan Adabi* (Syed Muhammad Naquib Al-Attas):**  
 >   Puncak capaian santri bukan sekadar tumpukan ijazah atau gelar akademik, melainkan pribadi yang mengenali dan meletakkan segala sesuatu pada tempat yang benar sesuai hakikat keadilan Ilahi (*Adab*).
-> * **Kulminasi Pasca Tangga TUMBUH T1–T4:**  
->   Santri yang telah tuntas meniti Tangga T1 (Ta'aruf), T2 (Tafahum), T3 (Ta'awun), dan T4 (Takaful/Tahwil) siap diwisuda menjadi kader **Tahap 7 Penggerak**: mandiri secara spiritual, tajam secara intelektual, dan memimpin perubahan umat dengan akhlak mulia.
+> * **Kulminasi Pasca Jenjang Kemandirian TUMBUH (J1–J4) J1–J4:**  
+>   Santri yang telah tuntas meniti Jenjang J1 (Ta'aruf), T2 (Tafahum), T3 (Ta'awun), dan T4 (Takaful/Tahwil) siap diwisuda menjadi kader **Tahap 7 Penggerak**: mandiri secara spiritual, tajam secara intelektual, dan memimpin perubahan umat dengan akhlak mulia.
 
 ---
 
@@ -25,7 +25,7 @@
   - [1. Kerangka Metodologi Puncak Aktualisasi: Menjawab Visi Akhir Pendidikan Santri 24 Jam](#1-kerangka-metodologi-puncak-aktualisasi-menjawab-visi-akhir-pendidikan-santri-24-jam)
   - [2. Inkuiri 1: Eksegesis Turats Insan Adabi Al-Attas & Hakikat Mushlih (QS. Hud: 117 & Al-A'raf: 170)](#2-inkuiri-1-eksegesis-turats-insan-adabi-al-attas--hakikat-mushlih-qs-hud-117--al-araf-170)
   - [3. Inkuiri 2: Konvergensi Self-Transcendence Maslow & Generativitas Erikson](#3-inkuiri-2-konvergensi-self-transcendence-maslow--generativitas-erikson)
-  - [4. Inkuiri 3: Kodifikasi 7 Tahap Kontinuum TUMBUH: Menempatkan Tahap 7 Pasca Tangga T1–T4](#4-inkuiri-3-kodifikasi-7-tahap-kontinuum-tumbuh-menempatkan-tahap-7-pasca-tangga-t1t4)
+  - [4. Inkuiri 3: Kodifikasi 7 Tahap Kontinuum TUMBUH: Menempatkan Tahap 7 Pasca Jenjang J1–J4](#4-inkuiri-3-kodifikasi-7-tahap-kontinuum-tumbuh-menempatkan-tahap-7-pasca-tangga-t1t4)
   - [5. Inkuiri 4: Kepemimpinan Pelayan Berdampak Global (Global Impact Servant Leadership)](#5-inkuiri-4-kepemimpinan-pelayan-berdampak-global-global-impact-servant-leadership)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kiprah Alumni, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kiprah-alumni--titik-temu-konsensus)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
@@ -62,7 +62,7 @@ flowchart TD
         
         Tahap7["TAHAP 7: PENGGERAK PERADABAN (INSAN ADABI & MUSHLIH)<br/>• Menjadi agen transformasi sosial kemasyarakatan.<br/>• Menegakkan amar ma'ruf nahi munkar dengan hikmah.<br/>• Memadukan sains, spiritualitas, & integritas kepemimpinan."]
         
-        T1 --> T2 --> T3 --> T4 ==>|KULMINASI KELULUSAN PARIPURNA| Tahap7
+        J1 --> J2 --> J3 --> J4 ==>|KULMINASI KELULUSAN PARIPURNA| Tahap7
     end
 ```
 
@@ -121,7 +121,7 @@ graph LR
 
 ---
 
-### 4. Inkuiri 3: Kodifikasi 7 Tahap Kontinuum TUMBUH: Menempatkan Tahap 7 Pasca Tangga T1–T4
+### 4. Inkuiri 3: Kodifikasi 7 Tahap Kontinuum TUMBUH: Menempatkan Tahap 7 Pasca Jenjang J1–J4
 
 | Tahap Perkembangan | Nama Tahap | Fokus Capaian Pembiasaan | Karakteristik Perilaku Santri |
 | :---: | :--- | :--- | :--- |
@@ -157,7 +157,7 @@ Santri Tahap 7 dipersiapkan untuk memiliki empat jangkar kepemimpinan peradaban:
 * **Pihak A (Sudut Pandang Skeptisisme Pesimis)**:  
   *"Mencetak Insan Adabi Penggerak Peradaban itu impian muluk-muluk di awang-awang!"*
 * **Tinjauan Sudut Pandang Tangga Penahapan Terukur (Tadarruj Sistemik)**:  
-  Tahap 7 bukanlah lompatan sulap, melainkan **Hasil Akumulasi Logis dari Pendakian Tangga T1 hingga T6**. Melalui scaffolding bertahap 6 tahun di pesantren TUMBUH, setiap santri dilatih memimpin dari skala kamar asrama, organisasi santri, hingga proyek pengabdian masyarakat nyata. Capaian ini terukur melalui portofolio konkret.[^8]
+  Tahap 7 bukanlah lompatan sulap, melainkan **Hasil Akumulasi Logis dari Pendakian Jenjang J1 hingga T6**. Melalui scaffolding bertahap 6 tahun di pesantren TUMBUH, setiap santri dilatih memimpin dari skala kamar asrama, organisasi santri, hingga proyek pengabdian masyarakat nyata. Capaian ini terukur melalui portofolio konkret.[^8]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Wisuda Pesantren Harus Berupa Penugasan Pengabdian (Khidmah) Bukan Pesta Hura-hura?
 * **Pihak A (Sudut Pandang Selebrasi Konsumtif)**:  
@@ -186,7 +186,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
    Lulusan TUMBUH diikrarkan bukan sekadar sebagai insan shalih individual, melainkan sebagai Mushlih (agen perbaikan sosial) yang terpanggil membela kaum tertindas dan memakmurkan bumi.
 
 3. **Pengabdian Masyarakat Nyata Sebagai Syarat Kelulusan (khitamul Khidmah)**:  
-   Setiap santri tingkat akhir wajib menuntaskan proyek khidmah pengabdian masyarakat selama minimal 1 semester sebagai bukti nyata integrasi Tangga T1–T4 dan penguasaan kepemimpinan Servant Leadership.
+   Setiap santri tingkat akhir wajib menuntaskan proyek khidmah pengabdian masyarakat selama minimal 1 semester sebagai bukti nyata integrasi Jenjang J1–J4 dan penguasaan kepemimpinan Servant Leadership.
 
 4. **Integrasi Total Triad Pertumbuhan Simbiotik Sebagai Warisan Peradaban**:  
    Memastikan alumni Tahap 7 senantiasa menjaga hubungan mahabbah dengan almamater, memuliakan para masyayikh, dan mendedikasikan hidupnya demi kejayaan Islam dan kemaslahatan bangsa.
@@ -279,6 +279,6 @@ flowchart TD
 5. **Generativity**: Tahap psikososial Erikson yang ditandai oleh kepedulian mendalam untuk membimbing, mengasuh, dan mewariskan kebaikan kepada generasi berikutnya.
 6. **Khitamut Tarbiyah**: Rangkaian inisiasi spiritual dan akademis penutupan masa pendidikan pesantren yang memadukan sidang portofolio dan penugasan pengabdian umat.
 7. **Servant Leadership**: Paradigma kepemimpinan Nabawi di mana seorang pemimpin memimpin dengan melayani, mendahulukan kemaslahatan bawahan, dan rendah hati.
-8. **Tangga T1–T4**: Empat tahapan progresi pembiasaan karakter santri: Ta'aruf (Adaptasi), Tafahum (Pemahaman), Ta'awun (Kolaborasi), dan Takaful/Tahwil (Kemandirian & Teladan).
+8. **Jenjang J1–J4**: Empat tahapan progresi pembiasaan karakter santri: Ta'aruf (Adaptasi), Tafahum (Pemahaman), Ta'awun (Kolaborasi), dan Takaful/Tahwil (Kemandirian & Teladan).
 9. **Social Project Report**: Dokumen pertanggungjawaban ilmiah dan praksis proyek kemanusiaan santri tingkat akhir di masyarakat binaan.
 10. **Triad Pertumbuhan Simbiotik**: Maha-prinsip ekosistem TUMBUH di mana aktualisasi santri Tahap 7 secara serempak memuliakan Santri, mengangkat derajat Pendidik, dan memperluas keberkahan Lembaga Pesantren.

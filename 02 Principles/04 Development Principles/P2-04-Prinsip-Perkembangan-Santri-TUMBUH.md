@@ -1,5 +1,5 @@
 # P2-04: DEVELOPMENT PRINCIPLES (PRINSIP PERKEMBANGAN SANTRI) EKOSISTEM TUMBUH
-## *Monograf Induk Sub-Domain 04: Arsitektur Master Perkembangan Jiwa & Pengasuhan Asrama 24 Jam, Rekapitulasi 6 Pilar Perkembangan (Maturitas Neurosains Remaja, In Loco Parentis Bowlby, Progresi Tangga T1–T4, CASEL SEL Islami, Navigasi Krisis Identitas Erikson, & Daya Juang Grit Duckworth), serta Gerbang Derivasi Menuju Sub-Domain 05 Assessment Principles*
+## *Monograf Induk Sub-Domain 04: Arsitektur Master Perkembangan Jiwa & Pengasuhan Asrama 24 Jam, Rekapitulasi 6 Pilar Perkembangan (Maturitas Neurosains Remaja, In Loco Parentis Bowlby, Progresi Jenjang J1–J4, CASEL SEL Islami, Navigasi Krisis Identitas Erikson, & Daya Juang Grit Duckworth), serta Gerbang Derivasi Menuju Sub-Domain 05 Assessment Principles*
 
 **Nomor Identifikasi**: `P2-04/MONOGRAF-INDUK-DEVELOPMENT-PRINCIPLES/2026`  
 **Domain**: `02 Principles` > `04 Development Principles`  
@@ -11,11 +11,11 @@
 > ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
 >
 > * **Posisi Sub-Domain 04 Development Principles:**  
->   Menjawab pertanyaan mendasar keempat dalam ekosistem pesantren: *"Bagaimanakah hukum biologis dan psikologis perkembangan fitrah santri remaja bekerja melintasi usia 12–18 tahun, serta bagaimanakah musyrif dan asatidz menjalankan peran orang tua pengganti (In Loco Parentis) yang penuh kasih sayang untuk membimbing kematangan emosi, nalar, identitas diri, dan resiliensi melintasi Tangga T1–T4?"*
+>   Menjawab pertanyaan mendasar keempat dalam ekosistem pesantren: *"Bagaimanakah hukum biologis dan psikologis perkembangan fitrah santri remaja bekerja melintasi usia 12–18 tahun, serta bagaimanakah musyrif dan asatidz menjalankan peran orang tua pengganti (In Loco Parentis) yang penuh kasih sayang untuk membimbing kematangan emosi, nalar, identitas diri, dan resiliensi melintasi Jenjang J1–J4?"*
 > * **Enam Pilar Perkembangan Ekosistem TUMBUH yang Terintegrasi:**  
 >   1. **P2-04-01 (Maturitas Neurosains Remaja):** Memahami *Dual-Systems Model* Steinberg; musyrif sebagai *Prefrontal Cortex Eksternal* meredakan impulsivitas tanpa hukuman fisik.  
 >   2. **P2-04-02 (Keterikatan Aman & In Loco Parentis):** Menegakkan amanah *Bi Manzilatil Walid*; menyediakan *Safe Haven & Secure Base* 24 jam serta transisi *homesick* 14 hari.  
->   3. **P2-04-03 (Progresi Tangga T1–T4):** Menerapkan pembinaan berjenjang: T1 Tertib Adab, T2 Unggul Ilmu, T3 Mandiri Analisis, dan T4 Bijak Khidmah.  
+>   3. **P2-04-03 (Progresi Jenjang J1–J4):** Menerapkan pembinaan berjenjang: T1 Tertib Adab, T2 Unggul Ilmu, T3 Mandiri Analisis, dan T4 Bijak Khidmah.  
 >   4. **P2-04-04 (Integrasi CASEL SEL & Karakter Islami):** Mengoperasionalkan 5 kompetensi CASEL (Muraqabah, Mujahadah, Empati, Ishlah, Hikmah) dan *Restorative Circles*.  
 >   5. **P2-04-05 (Navigasi Krisis Identitas & Sebaya):** Pendampingan usia syabab sebagai sahabat (*Khawikhum*), dekonstruksi geng asrama, dan ukhuwah nampan.  
 >   6. **P2-04-06 (Resiliensi & Daya Juang Grit):** Menempa mental mujahadah dan sabar (QS. 29:69), navigasi *Plateau of Latent Potential*, dan pemulihan *Futuwr*.
@@ -52,7 +52,7 @@ graph TD
     D1["DOMAIN 01: PHILOSOPHY<br/>(Fondasi Worldview, Human Nature, Development, Education, Leadership, & Change)"]
     ==> D2_03["02.03 Learning Principles (Psikologi Belajar, Tahfizh Mutqin, Metakognisi, & Didaktik)"]
     
-    D2_03 ==> D2_04["02.04 Development Principles (Neurosains Remaja, In Loco Parentis, Tangga T1–T4, SEL, Identitas, & Grit)"]
+    D2_03 ==> D2_04["02.04 Development Principles (Neurosains Remaja, In Loco Parentis, Jenjang J1–J4, SEL, Identitas, & Grit)"]
     
     D2_04 ==> D2_05["02.05 Assessment Principles (Asesmen Psikometri, Rubrik PBIS, & Portofolio 360)"]
     
@@ -71,7 +71,7 @@ graph TD
     
     Master --> M1["P2-04-01: Prinsip Maturitas Neurosains Remaja (Dual-Systems Model & PFC Eksternal)"]
     Master --> M2["P2-04-02: Prinsip Keterikatan Aman & In Loco Parentis (Attachment Theory & Safe Haven)"]
-    Master --> M3["P2-04-03: Prinsip Progresi Tangga TUMBUH T1–T4 (Diferensiasi T1 Tertib s/d T4 Bijak)"]
+    Master --> M3["P2-04-03: Prinsip Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 (Diferensiasi T1 Tertib s/d T4 Bijak)"]
     Master --> M4["P2-04-04: Prinsip Integrasi CASEL SEL & Karakter Islami (5 Kompetensi SEL & Ishlah)"]
     Master --> M5["P2-04-05: Prinsip Navigasi Krisis Identitas & Dinamika Sebaya (Khawikhum & Ukhuwah Nampan)"]
     Master --> M6["P2-04-06: Prinsip Resiliensi & Grit Santri Tahfizh (Mujahadah, Growth Mindset, & Anti-Futuwr)"]
@@ -86,7 +86,7 @@ graph TD
    Menyelaraskan pengasuhan dengan *Dual-Systems Model* Prof. Laurence Steinberg. Memahami bahwa sistem limbik emosional matang lebih awal saat pubertas sementara korteks prefrontal (PFC) baru tuntas di usia 25 tahun. Musyrif bertindak sebagai *Prefrontal Cortex Eksternal* yang meredakan impulsivitas tanpa kekerasan.
 2. **Pilar 2: Keterikatan Aman & In Loco Parentis (P2-04-02)**:  
    Menegakkan amanah hadits *Bi Manzilatil Walid* dan *Attachment Theory* John Bowlby. Musyrif berfungsi sebagai *Safe Haven* (Pelabuhan Nyaman) dan *Secure Base* (Pangkalan Aman). Menerapkan protokol adaptasi empati 14 hari pertama.
-3. **Pilar 3: Progresi Tangga TUMBUH T1–T4 (P2-04-03)**:  
+3. **Pilar 3: Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 (P2-04-03)**:  
    Menerapkan hukum *Marahil al-'Umr* melalui diferensiasi 4 Tangga: T1 (Tertib Adab), T2 (Unggul Ilmu), T3 (Mandiri Analisis), dan T4 (Bijak Khidmah). Menghapus mutlak senioritas feodal di asrama.
 4. **Pilar 4: Integrasi CASEL SEL & Karakter Islami (P2-04-04)**:  
    Mengoperasionalkan 5 kompetensi CASEL SEL ke dalam taksonomi akhlak Islam (Muraqabah, Mujahadah, Empati, Adab, Hikmah) serta Lingkaran Restoratif (*Ishlah al-Bain*).
@@ -99,7 +99,7 @@ graph TD
 
 ### 4. Penegasan Triad Pertumbuhan Simbiotik dalam Pengasuhan
 
-* **Santri Tumbuh**: Merasakan asrama sebagai rumah kedua yang aman (*Baituna Jannatuna*), emosinya stabil, resiliensinya tinggi, terlindungi dari perundungan, dan bertumbuh matang melintasi Tangga T1–T4.
+* **Santri Tumbuh**: Merasakan asrama sebagai rumah kedua yang aman (*Baituna Jannatuna*), emosinya stabil, resiliensinya tinggi, terlindungi dari perundungan, dan bertumbuh matang melintasi Jenjang J1–J4.
 * **Musyrif Tumbuh**: Menjadi figur pendidik yang dicintai dan disegani (*Love-Based Authority*), memiliki keahlian konseling praktis, dan terlindungi dari stres burnout.
 * **Pesantren Tumbuh**: Menjadi institusi pendidikan Islam yang terpercaya, bebas dari risiko hukum kekerasan anak, dan menjadi rujukan nasional pesantren ramah fitrah.
 
@@ -115,7 +115,7 @@ graph TD
 | :---: | :--- | :--- | :--- |
 | **P2-04-01** | **Prinsip Maturitas Neurosains Remaja** | `pakar-neurosains-perkembangan`<br/>`pakar-psikologi-sosial-santri`<br/>`pakar-disiplin-positif` | [**`Buka Naskah P2-04-01`**](./P2-04-01-Prinsip-Maturitas-Neurosains-Remaja.md) |
 | **P2-04-02** | **Prinsip Keterikatan Aman dan In Loco Parentis** | `pakar-pengasuhan-asrama`<br/>`pakar-bimbingan-konseling`<br/>`pakar-perlindungan-anak-dan-advokasi-santri` | [**`Buka Naskah P2-04-02`**](./P2-04-02-Prinsip-Keterikatan-Aman-dan-In-Loco-Parentis.md) |
-| **P2-04-03** | **Prinsip Progresi Tangga TUMBUH T1–T4** | `pakar-desain-kurikulum-adab`<br/>`pakar-filosofi-tumbuh`<br/>`pakar-tata-kelola-qudwah` | [**`Buka Naskah P2-04-03`**](./P2-04-03-Prinsip-Progresi-Tangga-TUMBUH-T1-T4.md) |
+| **P2-04-03** | **Prinsip Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4** | `pakar-desain-kurikulum-adab`<br/>`pakar-filosofi-tumbuh`<br/>`pakar-tata-kelola-qudwah` | [**`Buka Naskah P2-04-03`**](./P2-04-03-Prinsip-Progresi-Tangga-TUMBUH-J1-J4.md) |
 | **P2-04-04** | **Prinsip Integrasi CASEL SEL dan Karakter Islami** | `pakar-social-emotional-learning`<br/>`pakar-kuratif-restoratif`<br/>`pakar-epistemologi-turats` | [**`Buka Naskah P2-04-04`**](./P2-04-04-Prinsip-Integrasi-CASEL-SEL-dan-Karakter-Islami.md) |
 | **P2-04-05** | **Prinsip Navigasi Identitas & Dinamika Sebaya** | `pakar-psikologi-sosial-santri`<br/>`pakar-pengasuhan-asrama`<br/>`pakar-perlindungan-anak-dan-advokasi-santri` | [**`Buka Naskah P2-04-05`**](./P2-04-05-Prinsip-Navigasi-Krisis-Identitas-dan-Resistensi-Sebaya.md) |
 | **P2-04-06** | **Prinsip Resiliensi & Grit Santri Tahfizh** | `pakar-psikologi-belajar`<br/>`pakar-bimbingan-konseling`<br/>`pakar-filosofi-tumbuh` | [**`Buka Naskah P2-04-06`**](./P2-04-06-Prinsip-Resiliensi-dan-Grit-Santri-Tahfizh.md) |
@@ -128,7 +128,7 @@ graph TD
 ```mermaid
 graph LR
     subgraph GerbangDerivasiAssessmentPrinciples["GERBANG DERIVASI MENUJU SUB-DOMAIN 05"]
-        D2_04["SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES<br/>(Maturasi Jiwa, In Loco Parentis, Tangga T1–T4, SEL, Identitas, & Grit)"]
+        D2_04["SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES<br/>(Maturasi Jiwa, In Loco Parentis, Jenjang J1–J4, SEL, Identitas, & Grit)"]
         
         D2_05["SUB-DOMAIN 05: ASSESSMENT PRINCIPLES<br/>(Instrumen Psikometri, Rubrik PBIS, & Portofolio 360 Derajat)"]
         
@@ -169,7 +169,7 @@ graph LR
 1. **Dual-Systems Model**: Teori neurosains yang membedakan laju pematangan sistem limbik emosional dengan sistem korteks prefrontal logika.
 2. **In Loco Parentis**: Doktrin perwalian sah pengasuh asrama yang memikul amanah kasih sayang dan perlindungan setara orang tua kandung.
 3. **Secure Base & Safe Haven**: Fungsi ganda figur kelekatan aman sebagai pangkalan kemandirian dan pelabuhan perlindungan emosional.
-4. **Tangga TUMBUH T1–T4**: Trajektori pembinaan berjenjang melintasi Tertib Adab, Unggul Ilmu, Mandiri Analisis, dan Bijak Khidmah.
+4. **Jenjang Kemandirian TUMBUH (J1–J4) J1–J4**: Trajektori pembinaan berjenjang melintasi Tertib Adab, Unggul Ilmu, Mandiri Analisis, dan Bijak Khidmah.
 5. **Grit (Kegigihan Mental)**: Kombinasi antara gairah kecintaan mendalam (*Passion*) dan daya juang pantang menyerah (*Perseverance*).
 6. **Khawikhum**: Nasihat Sayyidina Ali RA untuk memposisikan anak remaja sebagai sahabat dialog yang setara.
 7. **Futuwr Recovery Protocol**: Rangkaian SOP intervensi empatik untuk memulihkan santri yang mengalami kelesuan atau kejenuhan menghafal.

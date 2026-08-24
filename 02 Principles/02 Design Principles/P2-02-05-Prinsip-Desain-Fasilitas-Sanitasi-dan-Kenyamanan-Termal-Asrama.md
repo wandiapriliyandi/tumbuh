@@ -240,7 +240,7 @@ flowchart TD
 [^4]: Currie & McCarthy (2010), *New England Journal of Medicine*, hlm. 717–725.  
 [^5]: Permenkes RI No. 2 Tahun 2023 tentang Baku Mutu Kesehatan Lingkungan Air dan Udara.  
 [^6]: Laporan Keberhasilan Program Zero Scabies Asrama Percontohan, Divisi Kesehatan Lingkungan TUMBUH, 2026.  
-[^7]: Manual Standar Sarana dan Prasarana Pengasuhan Asrama 24 Jam, Biro Rumah Tangga TUMBUH, 2026.  
+[^7]: Manual Standar Sarana dan Prasarana Pengasuhan Asrama 24 Jam, Biro Rumah Jenjang Kemandirian TUMBUH (J1–J4), 2026.  
 [^8]: IESNA Lighting Handbook 10th Edition, Illuminating Engineering Society of North America.
 
 ---

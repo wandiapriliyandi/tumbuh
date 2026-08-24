@@ -300,7 +300,7 @@ $$\text{إِيَّاكَ أَنْ تَنْظُرَ إِلَى غَيْرِكَ �
 #### 🥊 Ronde 3: Sanggahan Pamungkas Praktik Khidmah Pengabdian Masyarakat
 * **Pihak A (Sudut Pandang Kurikulum)**:  
   *"Bagaimana menguji ketawadhuan santri sebelum dinyatakan lulus dari pondok?"*
-* **Resolusi Sudut Pandang Tangga TUMBUH Tahap 7**:  
+* **Resolusi Sudut Pandang Jenjang Kemandirian TUMBUH (J1–J4) Tahap 7**:  
   Santri tingkat akhir wajib menjalani program **Khidmah Sosial Masyarakat**: membersihkan fasilitas umum, mengajar anak-anak pelosok, dan membantu fakir miskin tanpa membedakan status sosial, sebagai bukti kelulusan adab *Insan Adabi*.[^31]
 
 > #### 📌 Kasuistika Lapangan 5 & Titik Temu Konsensus

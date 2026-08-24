@@ -84,7 +84,7 @@ graph TD
 
 #### KENDALA 13: PEMBANGKANGAN PASIF-AGRESIF SANTRI (PASSIVE-AGGRESSIVE NON-COMPLIANCE)
 * **Gejala Lapangan**: Santri pura-pura patuh di depan Musyrif, tetapi secara diam-diam melanggar aturan saat pengawasan lengah.
-* **Akar Penyebab**: Kepatuhan karena takut (*compliance under duress*), belum mencapai taraf *Tangga T3 Internalisasi*.
+* **Akar Penyebab**: Kepatuhan karena takut (*compliance under duress*), belum mencapai taraf *Jenjang J3 Internalisasi*.
 * **Solusi Mitigasi**: Penerapan **Autonomous Motivation (Self-Determination Theory)** via *Jurnal Refleksi Malam 3-Q* & dialog empati 1-on-1.
 
 #### KENDALA 14: DISRUPSI PEMBIASAAN ADAB PASCA-LIBURAN PONDOK (POST-HOLIDAY RELAPSE)

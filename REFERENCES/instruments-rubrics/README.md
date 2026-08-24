@@ -13,7 +13,7 @@ Seluruh rujukan instrumen psikometri dan rubrik terdistribusi secara sistematis 
 | Berkas Katalog | Nama Katalog Instrumen & Fokus Alat Ukur | Jumlah Instrumen | Link Berkas |
 | :--- | :--- | :---: | :---: |
 | **`01-Instrumen-Psikometri-dan-Rubrik-PBIS.md`** | Instrumen Evaluasi PBIS Internasional & Form Perilaku (*School-wide Evaluation Tool SET, Tiered Fidelity Inventory TFI, Kartu CICO, Form FBA/BIP, Checklist Kamar, SCS, SRSS, Restorative Guide, CASEL Assessment, Benchmarking Inventory BEI, CMOT, SEI, SWIS ODR, MBI Burnout*) | **30 Instrumen** | [Buka Berkas](file:///c:/xampp/htdocs/tumbuh/REFERENCES/instruments-rubrics/01-Instrumen-Psikometri-dan-Rubrik-PBIS.md) |
-| **`02-Rubrik-Penilaian-10-Muwashafat-dan-Tangga-T1-T4.md`** | Rubrik Ipsatif 10 Muwashafat Karakter Santri, Skala Fitrah, Matriks Tangga T1-T4, Adab Kamar/Majelis/Makan/Digital, Rubrik Khidmah, & Transkrip Portofolio Karakter Alumni | **30 Rubrik** | [Buka Berkas](file:///c:/xampp/htdocs/tumbuh/REFERENCES/instruments-rubrics/02-Rubrik-Penilaian-10-Muwashafat-dan-Tangga-T1-T4.md) |
+| **`02-Rubrik-Penilaian-10-Muwashafat-dan-Tangga-J1-J4.md`** | Rubrik Ipsatif 10 Muwashafat Karakter Santri, Skala Fitrah, Matriks Jenjang J1–J4, Adab Kamar/Majelis/Makan/Digital, Rubrik Khidmah, & Transkrip Portofolio Karakter Alumni | **30 Rubrik** | [Buka Berkas](file:///c:/xampp/htdocs/tumbuh/REFERENCES/instruments-rubrics/02-Rubrik-Penilaian-10-Muwashafat-dan-Tangga-J1-J4.md) |
 
 ---
 

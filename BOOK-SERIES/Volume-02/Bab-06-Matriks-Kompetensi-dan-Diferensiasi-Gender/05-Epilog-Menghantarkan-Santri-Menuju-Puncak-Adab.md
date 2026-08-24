@@ -22,7 +22,7 @@ graph TD
         
         B3["BAB 3: TRAJEKTORI REMAJA & NEUROSAINS<br/>Menjembatani Gap Limbik-PFC Usia 12-18 Thn & Peran Musyrif External PFC"]
         
-        B4["BAB 4: TANGGA PERTUMBUHAN T1-T4<br/>Ta'aruf Adaptasi -> Ta'awun Habituasi -> Tafahum Internalisasi -> Takaful Transformasi"]
+        B4["BAB 4: TANGGA PERTUMBUHAN J1-J4<br/>Ta'aruf Adaptasi -> Ta'awun Habituasi -> Tafahum Internalisasi -> Takaful Transformasi"]
         
         B5["BAB 5: PUNCAK TAHAP 7 PENGGERAK<br/>Tahun Khidmah, Mentorship Bebas Feodalisme, & Kaderisasi Pendidik Berkelanjutan"]
         
@@ -41,7 +41,7 @@ Dalam perspektif filsafat pendidikan Islam, **Prof. Dr. Syed Muhammad Naquib al-
 
 ### Melahirkan Generasi Baru Pesantren Bebas Kekerasan
 
-Melalui penerapan taksonomi karakter dan tangga progresi T1–T4 ini, mimpi besar pembaruan pesantren bukan lagi sekadar utopia di atas kertas:
+Melalui penerapan taksonomi karakter dan tangga progresi J1–J4 ini, mimpi besar pembaruan pesantren bukan lagi sekadar utopia di atas kertas:
 * **Tidak ada lagi santri baru yang menangis ketakutan di malam hari** karena dihantui ancaman pemukulan senior; mereka tidur dengan tenang di bawah naungan kasih sayang para musyrif dan kakak asuh yang berhati malaikat.
 * **Tidak ada lagi ustadz yang kehilangan kesabaran dan melayangkan rotan**; para pendidik mendampingi anak dengan ketenangan nalar *External Prefrontal Cortex* dan kelembutan metode *Firm & Kind*.
 * **Tidak ada lagi santri yang merasa menjadi anak buangan yang gagal**; setiap anak dipetakan keunikan fitrahnya, dihargai kemajuan pribadinya, dan dibimbing menaiki tangga kapasitasnya selangkah demi selangkah.

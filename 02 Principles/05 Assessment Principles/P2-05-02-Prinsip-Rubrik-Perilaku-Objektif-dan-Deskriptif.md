@@ -63,7 +63,7 @@ flowchart TD
     subgraph TransformasiRubrikPenilaian["TRANSFORMASI RUBRIK PENILAIAN ADAB"]
         LikertAbstrak["SKALA ANGKA ABSTRAK SUBJEKTIF (LAMA)<br/>• Skala angka 1–5 tanpa deskripsi perilaku nyata.<br/>• Dipengaruhi bias Like & Dislike, mood, & Halo Effect.<br/>• Santri merasa diperlakukan tidak adil & bingung."]
         
-        BARSTUMBUH["RUBRIK PERILAKU OBJEKTIF BARS (TUMBUH)<br/>• Deskripsi jangkar perilaku nyata 4 tingkat (T1–T4).<br/>• Reliabilitas antar-penilai terkalibrasi (Kappa > 0.80).<br/>• Penilaian adil, transparan, & mendidik perbaikan."]
+        BARSTUMBUH["RUBRIK PERILAKU OBJEKTIF BARS (TUMBUH)<br/>• Deskripsi jangkar perilaku nyata 4 tingkat (J1–J4).<br/>• Reliabilitas antar-penilai terkalibrasi (Kappa > 0.80).<br/>• Penilaian adil, transparan, & mendidik perbaikan."]
         
         LikertAbstrak ==>|STANDARISASI PSIKOMETRI ISLAMI| BARSTUMBUH
     end
@@ -302,7 +302,7 @@ graph TD
 [^8]: Andrade, H. G. (2000), *Educational Leadership*, hlm. 13–18.  
 [^9]: Laporan Audit Keadilan Penilaian Rekor Adab Santri, Komite Disiplin Positif TUMBUH, 2026.  
 [^10]: Matriks Lengkap Rubrik BARS 5 Dimensi Adab Santri Pesantren, Pusat Standardisasi Mutu TUMBUH, 2026.  
-[^11]: Silabus Standar Kompetensi Adab Asrama Tangga T1–T4, Pusat Kurikulum TUMBUH, 2026.
+[^11]: Silabus Standar Kompetensi Adab Asrama Jenjang J1–J4, Pusat Kurikulum TUMBUH, 2026.
 
 ---
 

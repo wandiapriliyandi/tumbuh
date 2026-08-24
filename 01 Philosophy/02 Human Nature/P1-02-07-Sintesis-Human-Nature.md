@@ -137,7 +137,7 @@ flowchart TD
     
     ==> Jembatan["JEMBATAN FILOSOFIS & METODOLOGIS:<br/>'Bagaimana kodrat suci ini bertumbuh, menavigasi krisis remaja, & berproses menuju kematangan?'"]
     
-    ==> HD["03 HUMAN DEVELOPMENT (Trajektori Pertumbuhan & Perkembangan Santri)<br/>1. Pentahapan Tazkiyatun Nafs<br/>2. Neurosains Perkembangan Remaja Pesantren<br/>3. Desain Tangga TUMBUH T1-T4<br/>4. Integrasi CASEL Social Emotional Learning<br/>5. Krisis Biososial Pubertas<br/>6. Puncak Aktualisasi Tahap 7 Penggerak"]
+    ==> HD["03 HUMAN DEVELOPMENT (Trajektori Pertumbuhan & Perkembangan Santri)<br/>1. Pentahapan Tazkiyatun Nafs<br/>2. Neurosains Perkembangan Remaja Pesantren<br/>3. Desain Jenjang Kemandirian TUMBUH (J1–J4) J1-J4<br/>4. Integrasi CASEL Social Emotional Learning<br/>5. Krisis Biososial Pubertas<br/>6. Puncak Aktualisasi Tahap 7 Penggerak"]
 ```
 
 ---
@@ -190,7 +190,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 graph TD
     HN["02 HUMAN NATURE (Ontologi Hakikat Manusia: 6 Pilar Lengkap)"]
     
-    HN ==> HD["03 HUMAN DEVELOPMENT (P1-03)<br/>Trajektori Pertumbuhan: Tazkiyah, Neurosains Remaja, Tangga T1-T4, CASEL SEL, & Tahap 7"]
+    HN ==> HD["03 HUMAN DEVELOPMENT (P1-03)<br/>Trajektori Pertumbuhan: Tazkiyah, Neurosains Remaja, Jenjang J1–J4, CASEL SEL, & Tahap 7"]
     
     HN ==> EDU["04 EDUCATION (P1-04)<br/>Filsafat Kurikulum Adab: Ta'dib Al-Attas, Anti-Feodalisme, Disiplin Restoratif, & Ekologi 24 Jam"]
     

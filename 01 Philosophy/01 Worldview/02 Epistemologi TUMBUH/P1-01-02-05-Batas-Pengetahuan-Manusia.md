@@ -222,7 +222,7 @@ graph TD
     A["Gugatan Bias Kognitif (Pihak A):<br/>'Santri yang baru belajar nahwu 3 bulan merasa lebih pintar dari kiai sepuh!'"]
     --> B1["Tinjauan Dunning-Kruger Effect (1999):<br/>Orang berilmu sedikit memiliki rasa percaya diri semu (Peak of Mount Stupid)."]
     A --> B2["Tinjauan Peribahasa Ilmu Padi:<br/>Semakin bertambah ilmu, semakin merunduk menyadari kedalaman samudra turats."]
-    A --> B3["Tinjauan Taksonomi Adab T1-T4:<br/>Pembinaan membimbing santri melewati lembah keputusasaan menuju kematangan adab T4."]
+    A --> B3["Tinjauan Taksonomi Adab J1-J4:<br/>Pembinaan membimbing santri melewati lembah keputusasaan menuju kematangan adab T4."]
     B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Tawadhu' Intelektual adalah vaksin penangkal bias kognitif Dunning-Kruger."]
 ```
 

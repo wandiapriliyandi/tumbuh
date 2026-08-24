@@ -92,7 +92,7 @@ Ekosistem TUMBUH merancang tahapan kaderisasi kepemimpinan santri yang berjenjan
 ```mermaid
 graph TD
     subgraph KaderisasiTUMBUH["EMPAT TAHAPAN KADERISASI KEPEMIMPINAN SANTRI EKOSISTEM TUMBUH"]
-        K1["Tahap 1: Memimpin Diri Sendiri (Self-Leadership)<br/>Fokus: Disiplin ibadah, kerapian loker pribadi, & kemandirian adab (Tangga T1-T3)."]
+        K1["Tahap 1: Memimpin Diri Sendiri (Self-Leadership)<br/>Fokus: Disiplin ibadah, kerapian loker pribadi, & kemandirian adab (Jenjang J1-T3)."]
         
         K2["Tahap 2: Kakak Asuh Sekamar (Peer Buddy Mentorship)<br/>Fokus: Mendampingi 1 orang adik kelas baru selama 66 hari proses habituasi asrama."]
         

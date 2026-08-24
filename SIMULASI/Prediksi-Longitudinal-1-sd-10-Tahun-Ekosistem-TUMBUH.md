@@ -2,7 +2,7 @@
 
 **Nomor Berkas**: `SIM-PREDIKSI/TUMBUH/2026/08/010`  
 **Penyusun**: Dewan Keilmuan & Pakar Simulasi Sistem **TUMBUH** Pesantren  
-**Basis Pemodelan**: Persamaan Pertumbuhan Karakter, Dual-Skenario (Ideal vs Realistis Lapangan), SW-PBIS Multi-Tier, & Trajektori Tangga T1–T4.
+**Basis Pemodelan**: Persamaan Pertumbuhan Karakter, Dual-Skenario (Ideal vs Realistis Lapangan), SW-PBIS Multi-Tier, & Trajektori Jenjang J1–J4.
 
 ---
 
@@ -19,9 +19,9 @@ timeline
         Tahun 1 (2026) : Insepsi System Baseline & Cohort 1 MTs (T1 Adaptasi)
         Tahun 2 (2027) : Habituasi Adab 66-Hari & Stabilisasi Logbook Digital Musyrif
     section Fase Matruasi Multi-Cohort
-        Tahun 3 (2028) : Tangga T3 Internalisasi & Gateway Transisi MTs -> MA
+        Tahun 3 (2028) : Jenjang J3 Internalisasi & Gateway Transisi MTs -> MA
         Tahun 4 (2029) : Ekosistem 3 Cohort (300 Santri) & Penurunan Violasi 78%
-        Tahun 5 (2030) : Tangga T4 Kepemimpinan Qudwah & Peer Buddy Mentoring
+        Tahun 5 (2030) : Jenjang J4 Kepemimpinan Qudwah & Peer Buddy Mentoring
     section Fase Kelulusan & Pengabdian
         Tahun 6 (2031) : Kelulusan Cohort 1 MA (Sertifikasi Karakter Paripurna)
         Tahun 7 (2032) : Tahap 7 Penggerak (Alumni Cohort 1 Menjadi Musyrif Junior)
@@ -55,7 +55,7 @@ Dimana:
 * **Fokus**: Penerapan awal pada **Cohort 1 (100 Santri Kelas 7 MTs)** & pembiasaan *Firm & Kind*.
 * **Metrik Utama**:
   - **Adaptasi Santri**: 100% tuntas beradaptasi pada Bulan ke-3 (bebas *homesickness* berat via Tier 2 Support).
-  - **Habituasi Basic Adab (T1 $\rightarrow$ T2)**: 85% santri mencapai Tangga T2.
+  - **Habituasi Basic Adab (T1 $\rightarrow$ T2)**: 85% santri mencapai Jenjang J2.
   - **Musyrif Workload**: Beban logbook digital terkendali $\le 15$ menit/hari.
 * **Tantangan Utama**: Penyesuaian budaya kerja guru/musyrif dari pola lama (punitif) ke pola restoratif.
 
@@ -70,8 +70,8 @@ Dimana:
 
 ---
 
-### 🗓️ TAHUN 3 (2028): Gateway Transisi MTs $\rightarrow$ MA & Internalisasi Adab (Tangga T3)
-* **Fokus**: Cohort 1 (Kelas 9 MTs) memasuki **Tangga T3 (Internalisasi Adab)**; Total 300 Santri (Cohort 1, 2, 3).
+### 🗓️ TAHUN 3 (2028): Gateway Transisi MTs $\rightarrow$ MA & Internalisasi Adab (Jenjang J3)
+* **Fokus**: Cohort 1 (Kelas 9 MTs) memasuki **Jenjang J3 (Internalisasi Adab)**; Total 300 Santri (Cohort 1, 2, 3).
 * **Metrik Utama**:
   - **Gateway Transisi**: 100% santri Cohort 1 lulus MTs dengan Transkrip Karakter PBIS Tahap Pertama.
   - **Penurunan Violasi**: Penurunan kasus pelanggaran adab Tier 2/3 sebesar 78% dibandingkan baseline konvensional.
@@ -88,8 +88,8 @@ Dimana:
 
 ---
 
-### 🗓️ TAHUN 5 (2030): Tangga T4 Kepemimpinan Qudwah & Full Multi-Cohort Integration
-* **Fokus**: Cohort 1 di Kelas 11 MA mencapai **Tangga T4 (Qudwah Hasanah)**; Total 500 Santri.
+### 🗓️ TAHUN 5 (2030): Jenjang J4 Kepemimpinan Qudwah & Full Multi-Cohort Integration
+* **Fokus**: Cohort 1 di Kelas 11 MA mencapai **Jenjang J4 (Qudwah Hasanah)**; Total 500 Santri.
 * **Metrik Utama**:
   - **Manajemen OSIS Mandiri**: 8 Sekbid OSIS dikelola 100% dengan prinsip *Servant Leadership*.
   - **Restorative Circle Facilitation**: Santri T4 mampu memfasilitasi *Restorative Circle* antar-sebaya untuk perselisihan ringan.
@@ -100,7 +100,7 @@ Dimana:
 ### 🗓️ TAHUN 6 (2031): Kelulusan Paripurna Cohort 1 MA & Sertifikasi Karakter
 * **Fokus**: Cohort 1 di Kelas 12 MA menyelesaikan jenjang pendidikan menengah; Total 600 Santri di lembaga.
 * **Metrik Utama**:
-  - **Kelulusan Cohort 1**: 96% lulus tepat waktu dengan Predikat **Tangga T4 (Qudwah Hasanah)**.
+  - **Kelulusan Cohort 1**: 96% lulus tepat waktu dengan Predikat **Jenjang J4 (Qudwah Hasanah)**.
   - **Capaian Muwashafat**: Skor rata-rata 10 Muwashafat Karakter mencapai **88.5 / 100 (Kurva Normal Realistis)**.
   - **Portofolio Adab & Hafalan**: 100% santri memiliki Portofolio Karakter Digital & hafalan Al-Qur'an target 5 Juz mutqin.
 

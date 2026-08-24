@@ -407,7 +407,7 @@ flowchart TD
 
 ### 4. Standarisasi Validitas Psikometrik Asesmen Santri PBIS
 
-1. **Validitas Isi (*Content Validity Ratio / CVR > 0.80*)**: Seluruh butir indikator adab pada Tangga TUMBUH (T1–T4) divalidasi oleh panel pakar ushuluddin dan psikologi pendidikan.
+1. **Validitas Isi (*Content Validity Ratio / CVR > 0.80*)**: Seluruh butir indikator adab pada Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) divalidasi oleh panel pakar ushuluddin dan psikologi pendidikan.
 2. **Reliabilitas Antar-Rater (*Inter-Rater Agreement > 85%*)**: Dilakukan kalibrasi pemahaman musyrif setiap awal semester agar standar penilaian seragam.
 3. **Audit Keadilan Asesmen (*Fairness & Bias Audit*)**: Menjamin rubrik tidak mendiskriminasi santri berdasarkan latar belakang suku, status ekonomi wali santri, atau perbedaan kecepatan belajar alami.[^43]
 

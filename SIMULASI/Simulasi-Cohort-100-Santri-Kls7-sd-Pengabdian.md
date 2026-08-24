@@ -1,5 +1,5 @@
 # LAPORAN SIMULASI SISTEM: PEMODELAN COHORT 100 SANTRI (KELAS 7 MTs S/D TAHUN PENGABDIAN / TAHAP 7 PENGGERAK)
-## Evaluasi Longitudinal 7-Tahun: Penerapan PBIS Multi-Tier, Dual-Pillar Pengasuhan (Musyrif & Walas), Tangga T1-T4, Analisis Sensitivitas Realistis Lapangan, dan Kiprah Alumni Penggerak
+## Evaluasi Longitudinal 7-Tahun: Penerapan PBIS Multi-Tier, Dual-Pillar Pengasuhan (Musyrif & Walas), Jenjang J1–J4, Analisis Sensitivitas Realistis Lapangan, dan Kiprah Alumni Penggerak
 
 **Dewan Riset & Keilmuan Ekosistem TUMBUH**  
 *Dikembangkan oleh Agen Spesialis: Pakar Simulasi Sistem TUMBUH*  
@@ -12,7 +12,7 @@
 > **Tujuan Simulasi**: Membuktikan secara matematis, operasional, dan teologis bahwa penerapan **Ekosistem TUMBUH** pada **Cohort 100 Santri** (masuk Kelas 7 MTs/SMP usia 12 tahun) mampu membimbing santri bertumbuh secara holistik hingga menjadi **Tahap 7 PENGGERAK (Alumni Pengabdi / Musyrif Junior)** pada usia 19 tahun, baik dalam Skenario Ideal maupun Skenario Realistis Lapangan (*Real-World Operational Variance*).
 >
 > **Hasil Dual-Skenario Pemodelan (Ideal vs Realistis)**:
-> - **Skenario Ideal (100% System Alignment)**: 100% santri lulus Tangga T4 dan menjadi Tahap 7 Penggerak.
+> - **Skenario Ideal (100% System Alignment)**: 100% santri lulus Jenjang J4 dan menjadi Tahap 7 Penggerak.
 > - **Skenario Realistis Lapangan (Real-World Variance)**: 93% santri lulus paripurna Tahap 7 Penggerak, 4% santri mengalami *external attrition* (pindah sekolah karena domisili orang tua/finansial), dan 3% santri membutuhkan *extended guided service*.
 > - **Sebaran Kurva Normal (Bell-Curve)**: Skor 10 Muwashafat berada pada rata-rata realistis 82–94, menghormati keunikan fitrah tiap anak.
 
@@ -37,7 +37,7 @@ graph TD
   - **Tier 1 (80 Santri)**: Penerapan *Matrikulasi Santri Baru*, ritual makan nampan mayoran, dan penguatan *Magic Ratio 4:1*.
   - **Tier 2 (15 Santri)**: Aktivasi *Homesickness Care Unit* dan pendampingan privat *Peer Buddy T4*.
   - **Tier 3 (5 Santri)**: Sesi *De-Eskalasi Krisis Emosional* & konseling hangat BK (tanpa bentakan).
-* **Hasil Akhir Tahun 1**: 100% santri tuntas beradaptasi, 85 santri berhasil naik ke **Tangga T2 (Habituasi Dasar)**, hafalan Al-Qur'an Juz 30 tuntas.
+* **Hasil Akhir Tahun 1**: 100% santri tuntas beradaptasi, 85 santri berhasil naik ke **Jenjang J2 (Habituasi Dasar)**, hafalan Al-Qur'an Juz 30 tuntas.
 
 ---
 
@@ -47,7 +47,7 @@ graph TD
   - Pelaksanaan **Restorative Chat 5-Pertanyaan** oleh Musyrif & **Restorative Circle** oleh Konselor BK.
   - Pelatihan *CASEL SEL (Self-Management & Emotional Regulation)* kelompok kecil.
   - Aplikasi *Kartu CICO (Check-In Check-Out)* bagi 10 santri Tier 2.
-* **Hasil Akhir Tahun 2**: Seluruh perselisihan selesai dengan *Ishlah al-Bain*, 90 santri mencapai **Tangga T3 (Internalisasi Nilai)**, setoran Al-Qur'an mencapai Juz 29, dan komunikasi Bahasa Arab harian mulai terbentuk.
+* **Hasil Akhir Tahun 2**: Seluruh perselisihan selesai dengan *Ishlah al-Bain*, 90 santri mencapai **Jenjang J3 (Internalisasi Nilai)**, setoran Al-Qur'an mencapai Juz 29, dan komunikasi Bahasa Arab harian mulai terbentuk.
 
 ---
 
@@ -66,7 +66,7 @@ graph TD
 
 ### 🗓️ TAHUN 6: KELAS 12 MA (TANGGA T4 KEMANDIRIAN & KEPEMIMPINAN QUDWAH)
 * **Fokus**: Kematangan *Servant Leadership*, penyelesaian hafalan Al-Qur'an target 5 Juz mutqin, dan pembekalan pengabdian keumatan.
-* **Hasil Akhir Tahun 6**: Santri lulus MA dengan Predikat **Tangga T4 (Qudwah Hasanah)** dan menerima Sertifikasi Karakter PBIS Paripurna.
+* **Hasil Akhir Tahun 6**: Santri lulus MA dengan Predikat **Jenjang J4 (Qudwah Hasanah)** dan menerima Sertifikasi Karakter PBIS Paripurna.
 
 ---
 
@@ -85,7 +85,7 @@ Untuk menjamin keabsahan ilmiah dan menghindari klaim idealistis berlebihan, dil
 ```mermaid
 graph TD
     SensitivityModel["Perbandingan Dual-Skenario Pemodelan Simulasi"]
-    SensitivityModel --> IdealPath["Skenario Ideal (100% System Alignment)<br/>• 100% Kelulusan Paripurna Tangga T4 / Tahap 7 Penggerak<br/>• Skor Rata-Rata Muwashafat: 95 - 99"]
+    SensitivityModel --> IdealPath["Skenario Ideal (100% System Alignment)<br/>• 100% Kelulusan Paripurna Jenjang J4 / Tahap 7 Penggerak<br/>• Skor Rata-Rata Muwashafat: 95 - 99"]
     SensitivityModel --> RealisticPath["Skenario Realistis Lapangan (Real-World Variance)<br/>• 93% Kelulusan Paripurna Tahap 7 Penggerak<br/>• 4% External Attrition (Pindah sekolah karena domisili/finansial orang tua)<br/>• 3% Extended Guided Service (Bimbingan pengabdian khusus)<br/>• Sebaran Skor Muwashafat: Kurva Normal (Rata-rata 82 - 94)"]
 ```
 

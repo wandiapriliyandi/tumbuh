@@ -2,7 +2,7 @@
 name: pakar-desain-kurikulum-adab
 description: >-
   Keahlian tingkat Guru Besar (Pakar) dalam Desain Kurikulum Holistik Pesantren,
-  Taksonomi Karakter Berbasis Fitrah, Standarisasi Capaian Pembelajaran Tangga TUMBUH (T1-T4),
+  Taksonomi Karakter Berbasis Fitrah, Standarisasi Capaian Pembelajaran Jenjang Kemandirian TUMBUH (J1–J4) (J1-J4),
   dan Pemetaan Kompetensi Adab Santri.
 ---
 
@@ -31,7 +31,7 @@ graph TD
    - Menentukan hasil akhir yang diinginkan (*Desired Results: Profil Santri Mandiri & Beradab*), merumuskan bukti asesmen yang diterima, baru menyusun aktivitas harian.
 2. **Taksonomi Bloom Revisi & Taksonomi Marzano**:
    - Mengembangkan kemampuan dari mengingat (*Remembering*), memahami hikmah (*Understanding*), menginternalisasi nilai (*Valuing/Internalization*), hingga pembiasaan spontan (*Characterization by Value*).
-3. **Standarisasi Capaian Pembelajaran T1–T4**:
+3. **Standarisasi Capaian Pembelajaran J1–J4**:
    - T1: Tingkat Adaptasi & Pengenalan.
    - T2: Tingkat Habituasi Rutinitas Dasar.
    - T3: Tingkat Internalisasi & Kecakapan Sosial.

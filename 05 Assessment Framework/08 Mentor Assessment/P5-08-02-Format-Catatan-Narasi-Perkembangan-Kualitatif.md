@@ -23,4 +23,4 @@ graph TD
 
 ## 2. Contoh Pengisian Narasi Kualitatif
 
-- *"Ananda X menunjukkan kemajuan pesat dalam hal kemandirian sholat Subuh dan kebersihan kamar (Tangga T2). Ananda juga sangat empatis membantu teman kamarnya yang sempat mengalami homesick. Di bulan depan, kami fokus mendampingi ketelitian muraja'ah hafalan Juz 3."*
+- *"Ananda X menunjukkan kemajuan pesat dalam hal kemandirian sholat Subuh dan kebersihan kamar (Jenjang J2). Ananda juga sangat empatis membantu teman kamarnya yang sempat mengalami homesick. Di bulan depan, kami fokus mendampingi ketelitian muraja'ah hafalan Juz 3."*

@@ -1,5 +1,5 @@
 # P3-02-06: SINTESIS CHARACTER ARCHITECTURE DAN GRAND MODEL TAKSONOMI KARAKTER
-## *Monograf Riset Akademik: Sintesis Holistik 5 Pilar Arsitektur Karakter (3 Pilar Kluster, Gradasi 4 Level Tangga T1–T4, Penyelarasan Taksonomi Bloom/Turats, Rubrik BARS Teramati, & Psikometri Aiken-Kappa), Grand Model Arsitektur Karakter Pesantren TUMBUH, serta Jembatan Konseptual Menuju Sub-Domain 03 Character Relationships*
+## *Monograf Riset Akademik: Sintesis Holistik 5 Pilar Arsitektur Karakter (3 Pilar Kluster, Gradasi 4 Level Jenjang J1–J4, Penyelarasan Taksonomi Bloom/Turats, Rubrik BARS Teramati, & Psikometri Aiken-Kappa), Grand Model Arsitektur Karakter Pesantren TUMBUH, serta Jembatan Konseptual Menuju Sub-Domain 03 Character Relationships*
 
 **Nomor Identifikasi**: `P3-02-06/MONOGRAF-SINTESIS-CHARACTER-ARCHITECTURE/2026`  
 **Domain**: `03 Capacity Framework` > `02 Character Architecture`  
@@ -13,7 +13,7 @@
 > * **Sintesis Paripurna Arsitektur Karakter Ekosistem TUMBUH:**  
 >   Menghubungkan secara utuh seluruh fondasi konseptual, taksonomi, gradasi level, rubrik observasi BARS, dan validasi statistik instrumen ke dalam **Grand Architecture of Character Education in Pesantren**.
 > * **Keselarasan 5 Pilar Riset Sub-Domain 02 Character Architecture:**  
->   Mengintegrasikan `P3-02-01` (3 Pilar Taksonomi), `P3-02-02` (Gradasi 4 Level Tangga T1–T4), `P3-02-03` (Penyelarasan Bloom/Marzano & Turats Adab), `P3-02-04` (Skema Rubrik BARS Teramati), dan `P3-02-05` (Psikometri Validitas Aiken's V & Reliabilitas Kappa).
+>   Mengintegrasikan `P3-02-01` (3 Pilar Taksonomi), `P3-02-02` (Gradasi 4 Level Jenjang J1–J4), `P3-02-03` (Penyelarasan Bloom/Marzano & Turats Adab), `P3-02-04` (Skema Rubrik BARS Teramati), dan `P3-02-05` (Psikometri Validitas Aiken's V & Reliabilitas Kappa).
 
 ---
 
@@ -49,7 +49,7 @@ flowchart TD
     subgraph ArsitekturCharacterTUMBUH["5 PILAR MASTER ARSITEKTUR KARAKTER PESANTREN TUMBUH"]
         P1["PILAR 1: TAKSONOMI 3 PILAR (P3-02-01)<br/>• Ruhiyah-Akhlak, Jasmani-Akal, Keteraturan-Khidmah.<br/>• Integrasi 10 Muwashafat & CASEL SEL."]
         
-        P2["PILAR 2: GRADASI 4 LEVEL (P3-02-02)<br/>• Tangga TUMBUH: T1 Kepatuhan -> T2 Pembiasaan -> T3 Mandiri -> T4 Qudwah.<br/>• Kontinuum regulasi diri Deci-Ryan & ZPD Vygotsky."]
+        P2["PILAR 2: GRADASI 4 LEVEL (P3-02-02)<br/>• Jenjang Kemandirian TUMBUH (J1–J4): T1 Kepatuhan -> T2 Pembiasaan -> T3 Mandiri -> T4 Qudwah.<br/>• Kontinuum regulasi diri Deci-Ryan & ZPD Vygotsky."]
         
         P3["PILAR 3: PENYELARASAN TURATS-BLOOM (P3-02-03)<br/>• Integrasi C1-C6 Marzano/Bloom & Ta'dib Al-Attas.<br/>• Ta'lim -> Tarbiyah -> Ta'dib -> Tazkiyah -> Khidmah."]
         
@@ -75,7 +75,7 @@ flowchart TD
 
 Arsitektur Karakter TUMBUH memadukan 3 komponen utama:
 1. **Komponen Struktural (Apa yang Dibina):** 10 Karakter Muwashafat dalam 3 Pilar Utama.
-2. **Komponen Progresional (Bagaimana Tahapannya):** Tangga TUMBUH T1–T4 yang bergradasi dari *External Compliance* menuju *Autonomous Qudwah*.
+2. **Komponen Progresional (Bagaimana Tahapannya):** Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 yang bergradasi dari *External Compliance* menuju *Autonomous Qudwah*.
 3. **Komponen Evaluatif (Bagaimana Mengukurnya):** Rubrik BARS teramati yang terkalibrasi secara psikometrik kuantitatif ($V \ge 0.85, \kappa \ge 0.80$).[^1]
 
 ---
@@ -85,7 +85,7 @@ Arsitektur Karakter TUMBUH memadukan 3 komponen utama:
 ```mermaid
 graph TD
     subgraph TriadArsitekturKarakter["PERWUJUDAN TRIAD DALAM ARSITEKTUR KARAKTER"]
-        Santri["1. SANTRI TUMBUH<br/>• Memahami peta jalan pertumbuhannya (T1-T4).<br/>• Bebas dari hukuman fisik & pemaluan publik.<br/>• Tumbuh mandiri atas dasar kesadaran batin."]
+        Santri["1. SANTRI TUMBUH<br/>• Memahami peta jalan pertumbuhannya (J1-J4).<br/>• Bebas dari hukuman fisik & pemaluan publik.<br/>• Tumbuh mandiri atas dasar kesadaran batin."]
         
         Musyrif["2. MUSYRIF / ASATIDZ TUMBUH<br/>• Memiliki rubrik BARS konkret yang mudah dinilai.<br/>• Terlindungi dari tuduhan subjektivitas / pilih kasih.<br/>• Terampil mendiagnosis & membimbing secara presisi."]
         
@@ -106,7 +106,7 @@ Setelah arsitektur setiap karakter tunggal (*Single Character Architecture*) tun
 ```mermaid
 graph LR
     subgraph JembatanKonseptualArchitectureToRelationships["GERBANG DERIVASI SUB-DOMAIN 02 KE 03"]
-        SD02["02 CHARACTER ARCHITECTURE (TUNTAS - 8 Berkas)<br/>Menetapkan arsitektur taksonomi, gradasi T1-T4, BARS, & psikometri."]
+        SD02["02 CHARACTER ARCHITECTURE (TUNTAS - 8 Berkas)<br/>Menetapkan arsitektur taksonomi, gradasi J1-J4, BARS, & psikometri."]
         
         SD03["03 CHARACTER RELATIONSHIPS (TAHAP BERIKUTNYA)<br/>Membedah interkoneksi, resonansi sistemik, efek domino, & network analysis."]
         
@@ -127,7 +127,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 1. **Kesatuan Organik Tiga Pilar Taksonomi (*Tripartite Organic System*)**:  
    Menyatukan Fondasi Ruhiyah-Moral (*Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq*), Batang Ketangguhan Diri-Akal (*Qawiyyul Jism, Mutsaqqaful Fikr, Mujahadatun Linafsih*), dan Buah Keteraturan-Khidmah (*Haritsun 'Ala Waqtih, Munazhzham, Qadirun Alal Kasb, Nafi'un Lighairih*) sebagai pohon karakter yang tak terpisahkan.
 
-2. **Lintasan Pendakian Tangga TUMBUH (T1–T4)**:  
+2. **Lintasan Pendakian Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**:  
    Menegakkan prinsip pentahapan *Tadarruj*: Kepatuhan Terbimbing (T1), Pembiasaan Konsisten (T2), Kemandirian Stabil (T3), dan Penggerak Qudwah (T4).
 
 3. **Penyelarasan Integratif Taksonomi Fitrah**:  
@@ -140,7 +140,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ### 2. Matriks Grand Model Penyelarasan Arsitektur Karakter (3 Pilar, 10 Muwashafat, & 4 Level)
 
-| Pilar Utama | Karakter Muwashafat | Level T1 (Terbimbing) | Level T2 (Pembiasaan) | Level T3 (Mandiri) | Level T4 (Qudwah) |
+| Pilar Utama | Karakter Muwashafat | Jenjang J1 (Terbimbing) | Jenjang J2 (Pembiasaan) | Jenjang J3 (Mandiri) | Jenjang J4 (Qudwah) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Pilar 1: Ruhiyah & Akhlak** | **1. Salimul Aqidah** | Tahu dalil tauhid; diingatkan. | Doa harian terjadwal; dzikir. | Muraqabah mandiri; anti-hoaks. | Membantah syubhat; teladan tauhid. |
 | | **2. Shahihul Ibadah** | Shalat saat diawasi musyrif. | Datang sebelum adzan; rawatib. | Shalat khusyuk; tahajjud mandiri. | Menjadi imam; membimbing thaharah. |
@@ -164,7 +164,7 @@ flowchart TD
         
         KalibrasiMusyrif["2. WORKSHOP KALIBRASI PENILAI (Setiap Semester): Menguji Fleiss' Kappa antar-musyrif (Target >= 0.80)."]
         
-        AnalisisDataPBIS["3. ANALISIS DATA PBIS MINGGUAN: Memantau heatmap sebaran tangga santri (T1-T4) per kamar/asrama."]
+        AnalisisDataPBIS["3. ANALISIS DATA PBIS MINGGUAN: Memantau heatmap sebaran tangga santri (J1-J4) per kamar/asrama."]
         
         RefleksiSantri["4. SESI EVALUASI & REFLEKSI MANDIRI SANTRI (Setiap Pekan): Santri mereviu grafik pertumbuhannya."]
         
@@ -183,7 +183,7 @@ flowchart TD
 | Kode Berkas | Judul Monograf Riset | Landasan Teori Utama | Fokus Inovasi Arsitektur Karakter |
 | :---: | :--- | :--- | :--- |
 | **P3-02-01** | Taksonomi 3 Pilar Karakter | 10 Muwashafat Al-Banna, CASEL SEL | Tripartit Ruhiyah, Ketangguhan, & Keteraturan-Khidmah. |
-| **P3-02-02** | Struktur Gradasi 4 Level | *Maratibul Iman*, Deci & Ryan SDT, ZPD | Tangga TUMBUH T1 (Kepatuhan) s/d T4 (Penggerak Qudwah). |
+| **P3-02-02** | Struktur Gradasi 4 Level | *Maratibul Iman*, Deci & Ryan SDT, ZPD | Jenjang Kemandirian TUMBUH (J1–J4) T1 (Kepatuhan) s/d T4 (Penggerak Qudwah). |
 | **P3-02-03** | Penyelarasan Turats-Bloom | *Ta'dib* Al-Attas, Marzano, Bloom Revisi | Integrasi C1-C6 ke pendakian Ta'lim-Tarbiyah-Ta'dib-Tazkiyah. |
 | **P3-02-04** | Skema Rubrik BARS Teramati | *Bayyinah*, BARS Smith-Kendall, Fast-Log| Deskriptor konkret teramati 24 jam & mitigasi 4 bias. |
 | **P3-02-05** | Konstruk Psikometri & Validasi | *Al-Mizan*, Aiken's V, Cohen/Fleiss Kappa| Standarisasi matematis instrumen ($V \ge 0.85, \kappa \ge 0.80$). |
@@ -217,7 +217,7 @@ flowchart TD
 
 1. **Character Architecture (Arsitektur Karakter)**: Kerangka rancang bangun menyeluruh yang mengatur taksonomi, pentahapan gradasi level, rubrik pengukuran, dan kalibrasi evaluasi karakter di pesantren.
 2. **Triad Pertumbuhan Simbiotik**: Prinsip integrasi ekosistem di mana keutuhan arsitektur karakter menumbuhkan Santri, memuliakan Musyrif, dan memperkokoh Lembaga.
-3. **Tangga TUMBUH (T1–T4)**: Lintasan 4 tingkat kemandirian karakter: Kepatuhan Terbimbing (T1), Pembiasaan Konsisten (T2), Kemandirian Stabil (T3), dan Penggerak Qudwah (T4).
+3. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Lintasan 4 tingkat kemandirian karakter: Kepatuhan Terbimbing (T1), Pembiasaan Konsisten (T2), Kemandirian Stabil (T3), dan Penggerak Qudwah (T4).
 4. **Behaviorally Anchored Rating Scales (BARS)**: Skala penilaian perilaku berbasis deskriptor tindakan konkret teramati.
 5. **Aiken's V**: Formula statistik validitas isi instrumen berdasarkan persetujuan panel pakar ahli.
 6. **Fleiss' Kappa**: Formula statistik reliabilitas inter-rater untuk mengukur kesepakatan antar-musyrif penilai.

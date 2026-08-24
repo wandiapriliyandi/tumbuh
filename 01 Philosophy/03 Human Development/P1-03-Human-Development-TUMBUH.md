@@ -1,5 +1,5 @@
 # P1-03: HUMAN DEVELOPMENT (PERKEMBANGAN MANUSIA) EKOSISTEM TUMBUH
-## *Monograf Induk Sub-Domain 03: Fondasi Ontologis Trajektori Pertumbuhan Santri, Rekapitulasi 6 Pilar Human Development (Tazkiyah, Fase Usia, Tangga T1–T4, CASEL SEL, Krisis Pubertas, & Puncak Insan Adabi Tahap 7), Matriks Epistemologis, & Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri*
+## *Monograf Induk Sub-Domain 03: Fondasi Ontologis Trajektori Pertumbuhan Santri, Rekapitulasi 6 Pilar Human Development (Tazkiyah, Fase Usia, Jenjang J1–J4, CASEL SEL, Krisis Pubertas, & Puncak Insan Adabi Tahap 7), Matriks Epistemologis, & Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri*
 
 **Nomor Identifikasi**: `P1-03/MONOGRAF-INDUK-HUMAN-DEVELOPMENT/2026`  
 **Domain**: `01 Philosophy` > `03 Human Development`  
@@ -15,7 +15,7 @@
 > * **Enam Pilar Perkembangan Santri yang Terintegrasi 100%:**  
 >   1. **P1-03-01 (Tazkiyatun Nafs):** Poros evolusi jiwa melalui pembersihan (*Takhalliy*), penghiasan (*Tahalliy*), dan pembiasaan konsisten 66 hari (*Riyadhah & Mujahadah*) menuju watak kedua (*Tajalliy*).  
 >   2. **P1-03-02 (Fase Marahil al-'Umr):** Pembedaan kebutuhan perkembangan MTs (awal pubertas/sistem limbik dominan) vs MA (maturasi nalar/PFC); perlindungan krisis transisi asrama (*Homesickness*).  
->   3. **P1-03-03 (Tangga TUMBUH T1–T4):** Lintasan gradualisme syar'i (*Tadarruj & Scaffolding*) dari T1 Adaptasi hingga T4 Transformasi, dengan asesmen ipsatif non-komparatif.  
+>   3. **P1-03-03 (Jenjang Kemandirian TUMBUH (J1–J4) J1–J4):** Lintasan gradualisme syar'i (*Tadarruj & Scaffolding*) dari T1 Adaptasi hingga T4 Transformasi, dengan asesmen ipsatif non-komparatif.  
 >   4. **P1-03-04 (Integrasi SEL):** Harmonisasi 5 pilar kecerdasan sosio-emosional CASEL dengan khazanah Adab al-Mu'asyarah Turats, aktivasi sirkuit empati otak (*ACC*), dan budaya *Zero Bullying*.  
 >   5. **P1-03-05 (Krisis Biososial Pubertas):** Pendampingan transisi baligh (*Ihtilam & Haidh*), mitigasi *homesickness*, dan sublimasi energi hormon via olahraga kinestetik.  
 >   6. **P1-03-06 (Puncak Insan Adabi Tahap 7):** Pembentukan kader *Mushlih* peradaban yang memadukan spiritualitas, sains, dan kepemimpinan khidmah umat.
@@ -71,7 +71,7 @@ graph TD
     
     Master --> M1["P1-03-01: Tazkiyatun Nafs & Pertumbuhan Jiwa (Takhalliy, Tahalliy, Tajalliy, 66-Hari)"]
     Master --> M2["P1-03-02: Fase & Lintasan Perkembangan Santri (Marahil al-'Umr, Dual-Systems, MTs vs MA)"]
-    Master --> M3["P1-03-03: Landasan Filosofis Tangga TUMBUH T1–T4 (Tadarruj Syar'i, Scaffolding ZPD)"]
+    Master --> M3["P1-03-03: Landasan Filosofis Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 (Tadarruj Syar'i, Scaffolding ZPD)"]
     Master --> M4["P1-03-04: Integrasi CASEL SEL & Adab Nabawi (5 Pilar Emosi, Adab Mu'asyarah, Zero Bullying)"]
     Master --> M5["P1-03-05: Krisis Biososial & Transisi Pubertas Santri (Fiqh Bulugh, HPG Axis, In Loco Parentis)"]
     Master --> M6["P1-03-06: Puncak Aktualisasi Insan Adabi Tahap 7 (Mushlih Peradaban, Maslow Transcendence)"]
@@ -86,7 +86,7 @@ graph TD
    Pertumbuhan sejati adalah penyucian kalbu melalui dialektika *Takhalliy* (pengikisan penyakit hati dan ghashab) dan *Tahalliy* (penghiasan akhlak). Didukung riset neuroplastisitas pembiasaan 66 hari Dr. Phillippa Lally yang memindahkan kendali perilaku dari korteks prefrontal ke refleks basal ganglia (*Tajalliy*).
 2. **Pilar 2: Diferensiasi Usia & Neurosains Remaja (P1-03-02)**:  
    Memadukan periodisasi *Marahil al-'Umr* Turats dengan *Dual-Systems Model* Laurence Steinberg. Mengakui kesenjangan perkembangan antara sistem limbik (emosi yang matang cepat di pubertas) dan korteks prefrontal (kendali nalar yang baru matang sempurna di usia 25 th). Menyusun diferensiasi pengasuhan jenjang MTs vs MA dan protokol mitigasi homesickness.
-3. **Pilar 3: Gradualisme Tangga Pertumbuhan T1–T4 (P1-03-03)**:  
+3. **Pilar 3: Gradualisme Tangga Pertumbuhan J1–J4 (P1-03-03)**:  
    Menegakkan prinsip *Tadarruj Syar'i* dan *Scaffolding ZPD* Lev Vygotsky. Menghapus tuntutan kesempurnaan instan dengan membagi trajektori kemandirian santri ke dalam 4 etape (T1 Adaptasi, T2 Pembiasaan, T3 Internalisasi, T4 Transformasi), serta mengganti perankingan kelas dengan Asesmen Pertumbuhan Ipsatif.
 4. **Pilar 4: Integrasi Kecerdasan Sosio-Emosional SEL (P1-03-04)**:  
    Mengharmonisasikan 5 pilar kompetensi CASEL SEL dengan khazanah *Adab al-Mu'asyarah* Turats Islam. Mengaktifkan sirkuit empati biologis otak (*ACC-Insula*) melalui 3 jangkar rutinitas asrama (Sapa Pagi, Makan Bersama Satu Nampan, Muhasabah Malam) dan penegakan budaya *Zero Bullying* berbasis Restorative Justice.
@@ -101,7 +101,7 @@ graph TD
 
 | Larangan Terhadap Hak Bertumbuh | Praktik Konvensional yang Dihapus 100% | Alternatif Beradab dalam Ekosistem TUMBUH |
 | :--- | :--- | :--- |
-| **1. Tuntutan Kesempurnaan Instan** | Menghukum berat santri baru yang belum lancar membaca kitab atau bangun tahajud. | **Pendampingan Tangga T1–T4**: Bantuan intensif (*Scaffolding*) 80% di awal dan pembiasaan bertahap 66 hari.[^2] |
+| **1. Tuntutan Kesempurnaan Instan** | Menghukum berat santri baru yang belum lancar membaca kitab atau bangun tahajud. | **Pendampingan Jenjang J1–J4**: Bantuan intensif (*Scaffolding*) 80% di awal dan pembiasaan bertahap 66 hari.[^2] |
 | **2. Adultomorfisme & Kekerasan Emosi** | Menuntut remaja bersikap setenang orang dewasa; membentak santri yang labil. | **Dual-Systems De-escalation**: Musyrif bertindak sebagai 'rem eksternal' penuh kasih sayang (*Firm & Kind*). |
 | **3. Senioritas Feodal & Perpeloncoan** | Penyerahan wewenang hukuman kepada senior; tradisi sidang malam kamar gelap. | **Kaderisasi Tahap 7 Penggerak**: Senior dilatih menjadi Duta Adab dan mentor pelayan (*Servant Leader*). |
 | **4. Ranking Komparatif Toksik** | Mengumumkan ranking 1-30; melabeli santri rangking bawah sebagai anak bodoh. | **Asesmen Pertumbuhan Ipsatif**: Mengukur kemajuan personal diri santri dari waktu ke waktu (*Growth Portfolio*).[^3] |
@@ -119,7 +119,7 @@ graph TD
 | :---: | :--- | :--- | :---: |
 | **P1-03-01** | **Tazkiyatun Nafs dan Pertumbuhan Jiwa Santri** | `pakar-filosofi-tumbuh`<br/>`pakar-epistemologi-turats`<br/>`pakar-social-emotional-learning` | [**`Buka Naskah P1-03-01`**](./P1-03-01-Tazkiyatun-Nafs-dan-Pertumbuhan-Jiwa.md) |
 | **P1-03-02** | **Fase dan Lintasan Perkembangan Santri** | `pakar-neurosains-perkembangan`<br/>`pakar-pengasuhan-asrama`<br/>`pakar-bimbingan-konseling` | [**`Buka Naskah P1-03-02`**](./P1-03-02-Fase-dan-Lintasan-Perkembangan-Santri.md) |
-| **P1-03-03** | **Landasan Filosofis Tangga TUMBUH (T1–T4)** | `pakar-desain-kurikulum-adab`<br/>`pakar-simulasi-sistem-tumbuh`<br/>`pakar-psikometri-dan-validasi-instrumen` | [**`Buka Naskah P1-03-03`**](./P1-03-03-Landasan-Filosofis-Tangga-TUMBUH-T1-T4.md) |
+| **P1-03-03** | **Landasan Filosofis Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)** | `pakar-desain-kurikulum-adab`<br/>`pakar-simulasi-sistem-tumbuh`<br/>`pakar-psikometri-dan-validasi-instrumen` | [**`Buka Naskah P1-03-03`**](./P1-03-03-Landasan-Filosofis-Tangga-TUMBUH-J1-J4.md) |
 | **P1-03-04** | **Integrasi CASEL SEL dan Taksonomi Adab Nabawi** | `pakar-social-emotional-learning`<br/>`pakar-psikologi-sosial-santri`<br/>`pakar-kuratif-restoratif` | [**`Buka Naskah P1-03-04`**](./P1-03-04-Integrasi-SEL-dan-Karakter-Santri.md) |
 | **P1-03-05** | **Krisis Biososial dan Transisi Pubertas Santri** | `pakar-neurosains-perkembangan`<br/>`pakar-pengasuhan-asrama`<br/>`pakar-perlindungan-anak-dan-advokasi-santri` | [**`Buka Naskah P1-03-05`**](./P1-03-05-Krisis-Biososial-dan-Transisi-Pubertas-Santri.md) |
 | **P1-03-06** | **Puncak Aktualisasi Insan Adabi Tahap 7** | `pakar-filosofi-tumbuh`<br/>`pakar-tata-kelola-qudwah`<br/>`pakar-desain-kurikulum-adab` | [**`Buka Naskah P1-03-06`**](./P1-03-06-Puncak-Aktualisasi-Insan-Adabi-Tahap-7.md) |
@@ -132,7 +132,7 @@ graph TD
 ```mermaid
 graph LR
     subgraph PenjalaranFilosofis["PENJALARAN EPISTEMOLOGIS MENUJU SUB-DOMAIN LANJUTAN"]
-        HD["SUB-DOMAIN 03: HUMAN DEVELOPMENT<br/>(Tazkiyah, Usia, Tangga T1–T4, SEL, Pubertas, Tahap 7)"]
+        HD["SUB-DOMAIN 03: HUMAN DEVELOPMENT<br/>(Tazkiyah, Usia, Jenjang J1–J4, SEL, Pubertas, Tahap 7)"]
         
         ED["04 EDUCATION<br/>Kurikulum Ta'dib, Didaktik Scaffolding, Anti-Feodalisme, & Ekologi 24 Jam"]
         
@@ -183,7 +183,7 @@ graph LR
 2. **Tazkiyatun Nafs**: Poros penyucian kalbu: *Takhalliy* (pembersihan), *Tahalliy* (penghiasan), dan *Tajalliy* (pemancaran watak kedua).
 3. **Marahil al-'Umr**: Periodisasi usia Islam (*Thufulah, Tamyiz, Murahaqah, Bulugh, Rusyd*).
 4. **Dual-Systems Model**: Kesenjangan maturasi antara sistem emosi limbik (cepat) vs korteks prefrontal (lambat) pada usia remaja.
-5. **Tangga TUMBUH (T1–T4)**: Empat tahapan kemandirian adab santri (Adaptasi, Pembiasaan, Internalisasi, Transformasi).
+5. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Empat tahapan kemandirian adab santri (Adaptasi, Pembiasaan, Internalisasi, Transformasi).
 6. **Tahap 7 Penggerak**: Puncak kaderisasi santri sebagai *Mushlih* (agen perbaikan) dan pemimpin yang melayani (*Servant Leader*).
 7. **Asesmen Ipsatif**: Evaluasi kemajuan personal non-ranking yang membandingkan performa santri saat ini dengan titik awalnya di masa lalu.
 8. **CASEL SEL**: Kerangka kerja 5 kompetensi kecerdasan sosio-emosional terpadu berbasis *Adab al-Mu'asyarah*.

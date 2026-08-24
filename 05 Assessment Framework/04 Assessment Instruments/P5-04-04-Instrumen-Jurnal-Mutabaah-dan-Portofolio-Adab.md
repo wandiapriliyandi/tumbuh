@@ -23,4 +23,4 @@ graph TD
 
 ## 2. Portofolio Capaian Adab Santri
 
-Seluruh entri INSTR-04 terakumulasi secara otomatis menjadi **Portofolio Adab Santri Digital** yang dapat dilampirkan dalam pengajuan transisi Tangga TUMBUH.
+Seluruh entri INSTR-04 terakumulasi secara otomatis menjadi **Portofolio Adab Santri Digital** yang dapat dilampirkan dalam pengajuan transisi Jenjang Kemandirian TUMBUH (J1–J4).

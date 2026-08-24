@@ -17,7 +17,7 @@ graph TD
     
     P1 --> D1["01 Worldview<br/>(Aksioma Realitas Wujud & Epistemologi Islam Terpadu - 17 Berkas)"]
     P1 --> D2["02 Human Nature<br/>(Fitrah, Struktur 4 Daya, Dinamika Nafs, & Hak Asasi Santri - 8 Berkas)"]
-    P1 --> D3["03 Human Development<br/>(Tazkiyatun Nafs, Tangga T1-T4, CASEL SEL, Pubertas, & Tahap 7 - 8 Berkas)"]
+    P1 --> D3["03 Human Development<br/>(Tazkiyatun Nafs, Jenjang J1–J4, CASEL SEL, Pubertas, & Tahap 7 - 8 Berkas)"]
     P1 --> D4["04 Education<br/>(Falsafah Ta'dib, Relasi Murabbi, PBIS Restoratif, Anti-Feodalisme, & Ekologi 24 Jam - 8 Berkas)"]
     P1 --> D5["05 Leadership<br/>(Kepemimpinan Qudwah First, Servant Leadership, Anti-Oligarki, & Mediasi Syura - 8 Berkas)"]
     P1 --> D6["06 Change<br/>(Sunnatullah Taghyir, Tadarruj, Bi'ah Shalihah CPTED, Resistensi, & Evaluasi Longitudinal - 8 Berkas)"]
@@ -37,7 +37,7 @@ graph TD
 
 1. 📁 **[01 Worldview](./01%20Worldview/README.md)** (**17 Dokumen**: Ontologi Realitas Wujud, Aksioma Dasar, Validasi Dalil/Turats, Kritik Internal, Sumber Ilmu, Proses Perolehan, Validasi, Integrasi, Batas Ilmu, Hikmah, & Sintesis Epistemologi)
 2. 📁 **[02 Human Nature](./02%20Human%20Nature/README.md)** (**8 Dokumen**: Hakikat Fitrah, Struktur Insan 4 Lapis, Potensi Amanah, Motivasi Intrinsik, Dinamika 3 Nafs, Hak Asasi Santri, & Sintesis)
-3. 📁 **[03 Human Development](./03%20Human%20Development/README.md)** (**8 Dokumen**: Tazkiyatun Nafs, Fase Remaja, Tangga T1–T4, CASEL SEL, Krisis Pubertas, Puncak Insan Adabi Tahap 7, & Sintesis)
+3. 📁 **[03 Human Development](./03%20Human%20Development/README.md)** (**8 Dokumen**: Tazkiyatun Nafs, Fase Remaja, Jenjang J1–J4, CASEL SEL, Krisis Pubertas, Puncak Insan Adabi Tahap 7, & Sintesis)
 4. 📁 **[04 Education](./04%20Education/README.md)** (**8 Dokumen**: Falsafah Ta'dib, Relasi Murabbi Kasih Sayang, SW-PBIS Restoratif, Didaktik Ramah Otak, Kritik Feodalisme, Desain Ekologi 24 Jam, & Sintesis)
 5. 📁 **[05 Leadership](./05%20Leadership/README.md)** (**8 Dokumen**: Falsafah Kepemimpinan Qudwah, Servant Leadership, Kaderisasi Santri, Tata Kelola Musyrif, Kritik Oligarki Dinasti, Mediasi Resolusi Konflik Asatidz, & Sintesis)
 6. 📁 **[06 Change](./06%20Change/README.md)** (**8 Dokumen**: Sunnatullah Taghyir, Tadarruj Istiqamah, Bi'ah Shalihah CPTED, Transformasi Sistemik, Manajemen Resistensi Kultural, Evaluasi Dampak Longitudinal, & Sintesis)

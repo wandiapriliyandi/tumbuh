@@ -38,7 +38,7 @@ Audit Kualitas Holistik ini dilakukan untuk mengevaluasi secara ketat dan indepe
 * **Validasi Konstruk**: 10 Muwashafat Karakter Santri (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qadirun 'alal Kasbi, Muthaqqafu Fikri, Qawiyyul Jismi, Mujahidun li Nafsihi, Munazhgham fi Syu'unihi, Harishun 'ala Waqtihi, Nafi'un li Ghairihi) terpetakan ke indikator perilaku terukur.
 * **Temuan Auditor**: Rubrik pembentukan muwashafat memiliki diferensiasi usia yang jelas antara MTs (Remaja Awal) dan MA (Remaja Akhir).
 
-### Domain 04: Progression Framework (Tangga TUMBUH T1–T4)
+### Domain 04: Progression Framework (Jenjang Kemandirian TUMBUH (J1–J4) J1–J4)
 * **Rigoritas Metodologis**: Progresi bertahap dari **T1 (Penataan/Regulasi Diri)** $\rightarrow$ **T2 (Pembiasaan/Habituasi)** $\rightarrow$ **T3 (Internalisasi/Kematangan Adab)** $\rightarrow$ **T4 (Penggerak/Qudwah)**.
 * **Temuan Auditor**: Tangga progresi memberikan trajektori pertumbuhan yang realistis dan mencegah ekspektasi kesempurnaan instan pada santri baru.
 

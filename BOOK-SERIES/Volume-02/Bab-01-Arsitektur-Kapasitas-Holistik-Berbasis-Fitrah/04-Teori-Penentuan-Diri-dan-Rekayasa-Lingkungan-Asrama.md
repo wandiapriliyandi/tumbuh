@@ -25,7 +25,7 @@ Untuk membangun kedisiplinan yang sejati, langgeng, dan mandiri, **Ekosistem TUM
 ```mermaid
 graph TD
     subgraph SinergiMotivasiRuang["SINERGI MOTIVASI BATIN (SDT) DAN REKAYASA LINGKUNGAN ASRAMA 24-JAM"]
-        Batin["<b>PILAR BATIN: MOTIVASI INTRINSIK (SDT)</b><br/>• Otonomi: Kesadaran niat ikhlas lillahi ta'ala tanpa paksaan<br/>• Kompetensi: Merasa mampu menaiki Tangga T1–T4 dengan bangga<br/>• Keterhubungan: Kasih sayang hangat musyrif In Loco Parentis"]
+        Batin["<b>PILAR BATIN: MOTIVASI INTRINSIK (SDT)</b><br/>• Otonomi: Kesadaran niat ikhlas lillahi ta'ala tanpa paksaan<br/>• Kompetensi: Merasa mampu menaiki Jenjang J1–J4 dengan bangga<br/>• Keterhubungan: Kasih sayang hangat musyrif In Loco Parentis"]
         
         Ruang["<b>PILAR FISIK: REKAYASA LINGKUNGAN (BI'AH SHALIHAH)</b><br/>• Arsitektur Bebas Titik Buta (Zero Hotspots Eliminating Bullying)<br/>• Dorongan Isyarat Visual (Nudges: Garis Wudhu & Loker 5S)<br/>• Sinkronisasi Dua Pilar (Dual-Pillar Sync Madrasah-Asrama)"]
         
@@ -50,7 +50,7 @@ graph LR
     subgraph KebutuhanSDT["TIGA KEBUTUHAN PSIKOLOGIS DASAR SDT DALAM PERSPEKTIF ISLAM"]
         Otonomi["1. OTONOMI (Autonomy)<br/>Kebutuhan merasa memiliki kehendak bebas & kesadaran nilai.<br/><b>Perspektif Syar'i:</b> Hakikat Ikhlas & Niat Murni Lillahi Ta'ala."]
         
-        Kompetensi["2. KOMPETENSI (Competence)<br/>Kebutuhan merasa cakap, berdaya, & mampu berhasil.<br/><b>Perspektif Syar'i:</b> Istitha'ah & Tahapan Tangga T1–T4."]
+        Kompetensi["2. KOMPETENSI (Competence)<br/>Kebutuhan merasa cakap, berdaya, & mampu berhasil.<br/><b>Perspektif Syar'i:</b> Istitha'ah & Tahapan Jenjang J1–J4."]
         
         Keterhubungan["3. KETERHUBUNGAN (Relatedness)<br/>Kebutuhan merasa dicintai, dihargai, & diterima komunal.<br/><b>Perspektif Syar'i:</b> Mahabbah, Ukhuwah, & In Loco Parentis."]
     end
@@ -66,7 +66,7 @@ Dalam kitab monumentalnya *Al-'Ubudiyyah*[^4], **Syaikhul Islam Ibnu Taimiyyah**
 > *"Ketaatan yang dipaksakan semata-mata karena takut kepada ancaman sesama makhluk bukanlah hakikat ubudiyyah kepada Allah. Ubudiyyah sejati adalah penyerahan diri yang merdeka, di mana hati digerakkan oleh rasa cinta dan kerinduan menggapai ridha-Nya tanpa pamrih duniawi."*
 
 #### 2. Kebutuhan Kompetensi (*Competence*) $\equiv$ Tangga Kapasitas *Istitha'ah*
-Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena **merasa tidak mampu (*incompetent*)** memenuhi tuntutan yang melampaui kapasitas adaptasinya. Santri baru yang belum pernah mencuci pakaian sendiri atau belum lancar membaca pegon akan merasa cemas luar biasa. Melalui progresi Tangga TUMBUH (T1 Adaptasi hingga T4 Transformasi), kurikulum adab dipecah menjadi langkah-langkah kecil yang realistis, sehingga santri merasakan keberhasilan bertahap (*sense of mastery*) yang membangkitkan harga dirinya.
+Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena **merasa tidak mampu (*incompetent*)** memenuhi tuntutan yang melampaui kapasitas adaptasinya. Santri baru yang belum pernah mencuci pakaian sendiri atau belum lancar membaca pegon akan merasa cemas luar biasa. Melalui progresi Jenjang Kemandirian TUMBUH (J1–J4) (T1 Adaptasi hingga T4 Transformasi), kurikulum adab dipecah menjadi langkah-langkah kecil yang realistis, sehingga santri merasakan keberhasilan bertahap (*sense of mastery*) yang membangkitkan harga dirinya.
 
 #### 3. Kebutuhan Keterhubungan Relasional (*Relatedness*) $\equiv$ Kehangatan *Ukhuwah* & Pengasuhan
 Seorang anak yang terpisah ratusan kilometer dari pelukan ayah dan ibunya mengalami kerentanan relasional yang sangat tinggi (*attachment disruption*). Jika di pesantren ia hanya menjumpai pengurus yang berwajah dingin dan suka membentak, jiwanya akan merasa terasing (*alienated*). 

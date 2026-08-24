@@ -16,7 +16,7 @@ graph TD
     SelfSystem["Komponen Utama Asesmen Diri Santri"]
     SelfSystem --> Mutabaah["1. Jurnal Mutabaah Ibadah Harian<br/>Pencatatan mandiri sholat berjamaah, rawatib, tilawah, & muraja'ah."]
     SelfSystem --> AdabJournal["2. Jurnal Refleksi Adab & Emosi<br/>Catatan harian pengalaman emosi, kebaikan yang dilakukan, & perbaikan diri."]
-    SelfSystem --> SelfEval["3. Asesmen Diri Tangga TUMBUH (T1-T4)<br/>Evaluasi mandiri posisi tingkat kemandirian adab setiap akhir bulan."]
+    SelfSystem --> SelfEval["3. Asesmen Diri Jenjang Kemandirian TUMBUH (J1–J4) (J1-J4)<br/>Evaluasi mandiri posisi tingkat kemandirian adab setiap akhir bulan."]
 ```
 
 ---

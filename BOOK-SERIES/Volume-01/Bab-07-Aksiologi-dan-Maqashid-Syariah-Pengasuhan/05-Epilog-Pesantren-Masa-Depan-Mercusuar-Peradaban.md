@@ -27,7 +27,7 @@ graph TD
 
         subgraph Baris2["BARIS 2: ARSITEKTUR SISTEM, TRIAD SIMBIOTIK, & AKSIOLOGI MAQASHID"]
             direction LR
-            B5["<b>BAB 05: 10 POSTULAT</b><br/>Piagam Filosofis TUMBUH"] --> B6["<b>BAB 06: TRIAD SIMBIOTIK</b><br/>Tangga T1-T4 & Anti-Burnout"]
+            B5["<b>BAB 05: 10 POSTULAT</b><br/>Piagam Filosofis TUMBUH"] --> B6["<b>BAB 06: TRIAD SIMBIOTIK</b><br/>Jenjang J1–J4 & Anti-Burnout"]
             B6 --> B7["<b>BAB 07: MAQASHID SYARI'AH</b><br/>Restorasi Ishlah al-Bain"]
             B7 --> Goal["<b>PESANTREN MASA DEPAN</b><br/>Mercusuar Peradaban"]
         end

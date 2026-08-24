@@ -1,5 +1,5 @@
 # P3-01-02: KOMPETENSI INTI 10 KARAKTER SANTRI DAN INTEGRASI CASEL SEL
-## *Monograf Terpadu: Taksonomi Holistik 10 Muwashafat Karakter Islami (Hasan Al-Banna), Integrasi 5 Kompetensi CASEL Social-Emotional Learning, Penjenjangan Tangga TUMBUH T1–T4, dan Rubrik Perilaku Teramati (BARS Ipsatif)*
+## *Monograf Terpadu: Taksonomi Holistik 10 Muwashafat Karakter Islami (Hasan Al-Banna), Integrasi 5 Kompetensi CASEL Social-Emotional Learning, Penjenjangan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, dan Rubrik Perilaku Teramati (BARS Ipsatif)*
 
 **Nomor Identifikasi**: `P3-01-02/MONOGRAF-TERPADU-KOMPETENSI-10-KARAKTER-SANTRI/2026`  
 **Domain**: `03 Capacity Framework` > `01 Graduate Profile`  
@@ -24,7 +24,7 @@
 >   10. **Nafi'un Lighairih:** Gemar menolong, berkhidmah pada adik kelas dan masyarakat.
 > * **Terintegrasi dengan 5 Kompetensi CASEL SEL:**  
 >   Setiap karakter diterjemahkan menjadi keterampilan sosio-emosional nyata: Kesadaran Diri, Manajemen Diri, Kesadaran Sosial, Keterampilan Berelasi, dan Pengambilan Keputusan Bertanggung Jawab.
-> * **Penjenjangan Tangga TUMBUH (T1–T4):**  
+> * **Penjenjangan Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4):**  
 >   Karakter ditumbuhkan bertahap: T1 Adaptasi $\rightarrow$ T2 Pembiasaan $\rightarrow$ T3 Internalisasi $\rightarrow$ T4 Kemandirian/Transformasi $\rightarrow$ Tahap 7 Penggerak.
 
 ---
@@ -35,17 +35,17 @@
   - [1. Kerangka Metodologi Taksonomi Karakter: Memadukan Turats Muwashafat dengan Sains SEL](#1-kerangka-metodologi-taksonomi-karakter-memadukan-turats-muwashafat-dengan-sains-sel)
   - [2. Inkuiri 1: Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi](#2-inkuiri-1-eksegesis-turats-10-karakter-muwashafat-hasan-al-banna--adab-nabawi)
   - [3. Inkuiri 2: Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam](#3-inkuiri-2-konvergensi-5-kompetensi-casel-sel-ke-dalam-matriks-perilaku-santri-24-jam)
-  - [4. Inkuiri 3: Progresi Tangga TUMBUH T1–T4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4-inkuiri-3-progresi-tangga-tumbuh-t1t4-gradualisme-syari-menuju-tahap-7-penggerak)
+  - [4. Inkuiri 3: Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4-inkuiri-3-progresi-tangga-tumbuh-t1t4-gradualisme-syari-menuju-tahap-7-penggerak)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
-  - [2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Tangga T1–T4](#2-matriks-taksonomi-terpadu-10-muwashafat-5-casel-sel--deskriptor-tangga-t1t4)
+  - [2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Jenjang J1–J4](#2-matriks-taksonomi-terpadu-10-muwashafat-5-casel-sel--deskriptor-tangga-t1t4)
   - [3. Protokol Asesmen Pertumbuhan Karakter Ipsatif Non-Ranking (BARS Protocol)](#3-protokol-asesmen-pertumbuhan-karakter-ipsatif-non-ranking-bars-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
   - [1. Tabel Sintesis Hasil Riset Taksonomi 10 Karakter](#1-tabel-sintesis-hasil-riset-taksonomi-10-karakter)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis 10 Muwashafat, CASEL SEL, & Tangga T1–T4](#4-glosarium-teknis-10-muwashafat-casel-sel--tangga-t1t4)
+  - [4. Glosarium Teknis 10 Muwashafat, CASEL SEL, & Jenjang J1–J4](#4-glosarium-teknis-10-muwashafat-casel-sel--tangga-t1t4)
 
 ---
 
@@ -59,7 +59,7 @@ Pendidikan karakter di pesantren sering kali mengalami kegagalan pengukuran (*Me
 * Karakter hanya diajarkan sebagai teori abstrak di kelas kitab (misalnya "santri harus tawadhu' dan sabar"), tanpa indikator perilaku teramati (*Observable Behavioral Descriptors*) yang jelas di kehidupan asrama 24 jam.
 * Asatidz kesulitan menilai apakah seorang santri sudah memiliki kemandirian adab atau sekadar berpura-pura patuh saat diawasi.
 
-Ekosistem TUMBUH memecahkan kebuntuan ini dengan menyintesiskan **10 Karakter Muwashafat Islami (*Hasan Al-Banna*)** dengan **5 Kompetensi CASEL Social-Emotional Learning** ke dalam sebuah taksonomi operasional yang dapat diamati dan dinilai secara ipsatif sepanjang tangga pertumbuhan T1–T4.
+Ekosistem TUMBUH memecahkan kebuntuan ini dengan menyintesiskan **10 Karakter Muwashafat Islami (*Hasan Al-Banna*)** dengan **5 Kompetensi CASEL Social-Emotional Learning** ke dalam sebuah taksonomi operasional yang dapat diamati dan dinilai secara ipsatif sepanjang tangga pertumbuhan J1–J4.
 
 ```mermaid
 flowchart TD
@@ -107,11 +107,11 @@ graph TD
 
 ---
 
-### 4. Inkuiri 3: Progresi Tangga TUMBUH T1–T4: Gradualisme Syar'i Menuju Tahap 7 Penggerak
+### 4. Inkuiri 3: Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak
 
 ```mermaid
 flowchart TD
-    subgraph TanggaProgresiKarakterTUMBUH["PROGRESI TANGGA TUMBUH T1–T4 DALAM PENGUASAAN KARAKTER"]
+    subgraph TanggaProgresiKarakterTUMBUH["PROGRESI TANGGA TUMBUH J1–J4 DALAM PENGUASAAN KARAKTER"]
         T1["TANGGA T1: TA'ARUF (ADAPTASI AWAL)<br/>• Membutuhkan scaffolding & pendampingan intensif musyrif (80%).<br/>• Mengenal aturan kamar, thaharah dasar, & rutinitas harian."]
         
         T2["TANGGA T2: TAFAHUM (PEMAHAMAN & PEMBIASAAN)<br/>• Pendampingan berkurang menjadi 50%; santri memahami alasan syar'i.<br/>• Melakukan ibadah & kerapian karena kesadaran jadwal."]
@@ -122,7 +122,7 @@ flowchart TD
         
         Tahap7["TAHAP 7: PENGGERAK PERADABAN (KADER MUSHLIH)<br/>• Menjadi agen transformasi masyarakat luas & pelayan umat."]
         
-        T1 --> T2 --> T3 --> T4 ==> Tahap7
+        J1 --> J2 --> J3 --> J4 ==> Tahap7
     end
 ```
 
@@ -177,9 +177,9 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ---
 
-### 2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Tangga T1–T4
+### 2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Jenjang J1–J4
 
-| No | 10 Muwashafat Karakter | Sinergi 5 CASEL SEL | Deskriptor Capaian Tangga T1–T2 (Dasar) | Deskriptor Capaian Tangga T3–T4 (Mandiri) |
+| No | 10 Muwashafat Karakter | Sinergi 5 CASEL SEL | Deskriptor Capaian Jenjang J1–T2 (Dasar) | Deskriptor Capaian Jenjang J3–T4 (Mandiri) |
 | :---: | :--- | :--- | :--- | :--- |
 | **01** | **Salimul Aqidah** | *Self-Awareness* | Memahami rukun iman, bebas khurafat dengan bimbingan. | Muraqabatullah mandiri, menolak sekularisme dengan nalar.[^8] |
 | **02** | **Shahihul Ibadah** | *Responsible Decision* | Shalat berjamaah tertib sesuai jadwal asrama. | Khusyu', istiqamah rawatib & qiyamul lail mandiri. |
@@ -203,7 +203,7 @@ flowchart TD
         
         Triangulasi["2. TRIANGULASI 360 DERAJAT (PEER & SELF-REFLECTION)<br/>Penggabungan data musyrif, feedback teman sekamar, & muhasabah pribadi santri."]
         
-        EvaluasiIpsatif["3. ANALISIS PERTUMBUHAN IPSATIF (GROWTH TRACKING)<br/>Sistem membandingkan grafik capaian santri bulan ini vs bulan lalu (Tangga T1-T4)."]
+        EvaluasiIpsatif["3. ANALISIS PERTUMBUHAN IPSATIF (GROWTH TRACKING)<br/>Sistem membandingkan grafik capaian santri bulan ini vs bulan lalu (Jenjang J1–J4)."]
         
         UmpanBalik["4. DIALOG REFLEKTIF EMPAT MATA (MONTHLY 1-ON-1 COACHING)<br/>Musyrif mengapresiasi kemajuan santri & merumuskan target adab berikutnya."]
         
@@ -222,7 +222,7 @@ flowchart TD
 | Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Kurikulum Santri |
 | :--- | :--- | :--- | :--- | :--- |
 | **Taksonomi Karakter**| *10 Muwashafat* | Hasan Al-Banna (*Risalah at-Ta'alim*) | CASEL SEL Framework (2020) | Menstandarisasikan 10 kompetensi holistik santri. |
-| **Kemandirian Bertahap**| *Tangga T1–T4* | Hadits Tadarruj (HR. Bukhari 'Aisyah RA) | Vygotsky (1978), *Scaffolding ZPD* | Menumbuhkan karakter secara bertahap tanpa paksaan instan. |
+| **Kemandirian Bertahap**| *Jenjang J1–J4* | Hadits Tadarruj (HR. Bukhari 'Aisyah RA) | Vygotsky (1978), *Scaffolding ZPD* | Menumbuhkan karakter secara bertahap tanpa paksaan instan. |
 | **Pengukuran Objektif**| *BARS Ipsatif* | QS. Asy-Syu'ara: 88–89 (*Qalbin Salim*) | Hughes (2014), *Ipsative Assessment* | Mengukur kemajuan personal santri tanpa ranking toksik. |
 | **Kemandirian Vokasi**| *Qadirun 'alal Kasb* | Hadits Kasb Thayyib (HR. Ahmad 8419) | SDT Deci & Ryan (2000), *Autonomy* | Membekali santri dengan jiwa kewirausahaan mandiri. |
 
@@ -257,13 +257,13 @@ flowchart TD
 
 ---
 
-### 4. Glosarium Teknis 10 Muwashafat, CASEL SEL, & Tangga T1–T4
+### 4. Glosarium Teknis 10 Muwashafat, CASEL SEL, & Jenjang J1–J4
 
 1. **Muwashafat (الْمُوَاصَفَاتُ)**: Sepuluh profil standar kualitas karakter pribadi muslim ideal yang dirumuskan oleh Imam Hasan Al-Banna dalam *Risalah at-Ta'alim*.
 2. **CASEL SEL**: Kerangka kerja pembelajaran sosial-emosional internasional yang memetakan lima kompetensi inti: Kesadaran Diri, Manajemen Diri, Kesadaran Sosial, Keterampilan Berelasi, dan Pengambilan Keputusan Bertanggung Jawab.
 3. **BARS (Behaviorally Anchored Rating Scales)**: Skala penilaian psikometri yang menggunakan deskripsi perilaku teramati konkret sebagai jangkar tingkatan nilai.
 4. **Asesmen Ipsatif**: Evaluasi kemajuan belajar yang membandingkan performa santri saat ini dengan performa awalnya di masa lalu, bukan membandingkannya dengan santri lain.
-5. **Tangga TUMBUH (T1–T4)**: Empat tingkatan penahapan kemandirian adab santri: T1 (Ta'aruf/Adaptasi), T2 (Tafahum/Pembiasaan), T3 (Ta'awun/Internalisasi), dan T4 (Takaful/Transformasi).
+5. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Empat tingkatan penahapan kemandirian adab santri: T1 (Ta'aruf/Adaptasi), T2 (Tafahum/Pembiasaan), T3 (Ta'awun/Internalisasi), dan T4 (Takaful/Transformasi).
 6. **Moral Automaticity**: Kemampuan santri menjalankan adab dan ibadah secara spontan dan konsisten tanpa perlu diperintah atau diawasi orang dewasa.
 7. **Qadirun 'alal Kasb**: Kapasitas kemandirian finansial dan etos kerja produktif yang menjaga kehormatan diri (*Iffah*) seorang penuntut ilmu.
 8. **Nafi'un Lighairih**: Kapasitas kepedulian sosial di mana santri secara aktif memberikan kemanfaatan nyata bagi lingkungan asrama dan masyarakat luas.

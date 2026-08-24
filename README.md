@@ -12,7 +12,7 @@ Ekosistem TUMBUH berdiri di atas prinsip mutlak bahwa proses pendidikan pesantre
 ```mermaid
 graph TD
     TriadRoot["Triad Pertumbuhan Simbiotik & Dual-Pillar Pengasuhan TUMBUH"]
-    TriadRoot --> SantriGrowth["1. SANTRI BERTUMBUH (Tangga T1-T4)<br/>T1 Adaptasi -> T2 Habituasi -> T3 Internalisasi -> T4 / Tahap 7 PENGGERAK."]
+    TriadRoot --> SantriGrowth["1. SANTRI BERTUMBUH (Jenjang J1–J4)<br/>T1 Adaptasi -> T2 Habituasi -> T3 Internalisasi -> T4 / Tahap 7 PENGGERAK."]
     TriadRoot --> EducatorGrowth["2. GURU, MUSYRIF, & WALAS BERTUMBUH (Dual-Pillar Caretaking)<br/>Pilar 1 Musyrif Asrama + Pilar 2 Wali Kelas (Walas) -> Tahap 8 PELAKSANA -> Tahap 9 PEMBINA."]
     TriadRoot --> SystemGrowth["3. SISTEM LEMBAGA BERTUMBUH<br/>Tahap 10 PEMBERDAYA (Pemimpin Lembaga & Enabler Ekosistem Kebajikan Ummat)."]
 ```
@@ -47,7 +47,7 @@ Repositori ini memuat karya rujukan ilmiah **Seri Buku Master TUMBUH (5 Volume)*
 
 * 📁 **[`BOOK-SERIES/`](./BOOK-SERIES/README.md)**: Direktori Induk & Master Sitemap Seri Buku 5 Volume.
   * 📘 **[Volume 01: Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren](./BOOK-SERIES/Volume-01/Buku-Volume-01-Akar-Filosofis-dan-Epistemologi-TUMBUH.md)**: Ontologi Fitrah, Sintesis Turats-Neurosains, Kritik Feodalisme, & Triad Pertumbuhan.
-  * 📗 **[Volume 02: Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH](./BOOK-SERIES/Volume-02/Buku-Volume-02-Taksonomi-Kapasitas-dan-10-Profil-Karakter.md)**: 10 Muwashafat Adab, Trajektori Remaja, Tangga T1–T4, & Tahap 7 Penggerak.
+  * 📗 **[Volume 02: Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH](./BOOK-SERIES/Volume-02/Buku-Volume-02-Taksonomi-Kapasitas-dan-10-Profil-Karakter.md)**: 10 Muwashafat Adab, Trajektori Remaja, Jenjang J1–J4, & Tahap 7 Penggerak.
   * 📙 **[Volume 03: Sistem Asesmen Perkembangan & Evaluasi Berbasis Bukti](./BOOK-SERIES/Volume-03/Buku-Volume-03-Sistem-Asesmen-Perkembangan-dan-Evaluasi.md)**: Asesmen Ipsatif Non-Ranking, Validasi Psikometrik (Aiken's V & Kappa), & Portofolio.
   * 📕 **[Volume 04: Pedoman Intervensi Berjenjang PBIS & Praktik Restoratif di Asrama](./BOOK-SERIES/Volume-04/Buku-Volume-04-Pedoman-Intervensi-PBIS-dan-Praktik-Restoratif.md)**: Arsitektur Multi-Tier 1–3, CICO, FBA/BIP, Lingkaran Restoratif, & Ishlah Al-Bain.
   * 📓 **[Volume 05: Manual Operasional, SOP Musyrif, & Tata Kelola Pesantren Modern](./BOOK-SERIES/Volume-05/Buku-Volume-05-Manual-Operasional-SOP-dan-Tata-Kelola-Pesantren.md)**: Dual-Pillar Walas-Musyrif, Jadwal 24-Jam, Anti-Burnout, & Safe School Protocols.
@@ -63,7 +63,7 @@ Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama*
 | **01 Philosophy** | Kajian Ontologi Fitrah, Epistemologi Turats, 10 Jawaban Filosofis, Dual-Pillar Pengasuhan, & Worldview Islam. | 📄 [Jurnal Monograf Riset Filosofi](./01%20Philosophy/Jurnal-Monograf-Riset-Filosofi-TUMBUH.md) |
 | **02 Principles** | Kajian Aksiomatika Prinsip Baku Pembinaan, *Firm & Kind*, & Zero Violence. | 📄 [Jurnal Monograf Riset Prinsip](./02%20Principles/Jurnal-Monograf-Riset-Prinsip-TUMBUH.md) |
 | **03 Capacity Framework** | Kajian Taksonomi Kapasitas Holistik & 10 Muwashafat Karakter Santri. | 📄 [Jurnal Monograf Riset 10 Muwashafat](./03%20Capacity%20Framework/Jurnal-Monograf-Riset-Kapasitas-10-Muwashafat-TUMBUH.md) |
-| **04 Progression Framework**| Kajian Trajektori Biososial-Spiritual, Tangga T1-T4, & Kontinuum Tahap 7-10. | 📄 [Jurnal Monograf Riset Progresi Tangga](./04%20Progression%20Framework/Jurnal-Monograf-Riset-Progresi-Tangga-TUMBUH.md) |
+| **04 Progression Framework**| Kajian Trajektori Biososial-Spiritual, Jenjang J1–J4, & Kontinuum Tahap 7-10. | 📄 [Jurnal Monograf Riset Progresi Tangga](./04%20Progression%20Framework/Jurnal-Monograf-Riset-Progresi-Jenjang-dan-Tahapan-TUMBUH.md) |
 | **05 Assessment Framework** | Kajian Asesmen Ipsatif, Validasi Psikometri, Rater Calibration, & Raport Orang Tua. | 📄 [Jurnal Monograf Riset Asesmen Ipsatif](./05%20Assessment%20Framework/Jurnal-Monograf-Riset-Asesmen-Ipsatif-TUMBUH.md) |
 | **06 Intervention Framework**| Kajian Arsitektur Intervensi PBIS Multi-Tier 1-3, Restorative Circle, & SOP BK. | 📄 [Jurnal Monograf Riset Intervensi PBIS](./06%20Intervention%20Framework/Jurnal-Monograf-Riset-Intervensi-PBIS-Restoratif-TUMBUH.md) |
 | **07 Implementation Framework**| Kajian Dual-Pillar Pengasuhan Terpadu (Musyrif Asrama & Wali Kelas Walas), RACI, & Shift Anti-Burnout. | 📄 [Jurnal Monograf Riset Struktur Pengasuhan](./07%20Implementation%20Framework/Jurnal-Monograf-Riset-Struktur-Terpadu-Pengasuhan.md) |

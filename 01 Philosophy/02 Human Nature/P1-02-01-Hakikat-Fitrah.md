@@ -335,7 +335,7 @@ flowchart TD
     A["Gugatan Penerapan Praksis (Pihak A):<br/>'Bagaimana mengubah filosofi fitrah ini menjadi budaya hidup nyata asrama 24 jam?'"]
     --> B1["Pilar 1: Paradigma Husnudzan Edukatif Aktif<br/>Musyrif memandang pelanggaran sebagai disfungsi sistemik, bukan cacat jiwa santri."]
     B1 --> B2["Pilar 2: Desain Bi'ah Shalihah Katalisator Fitrah<br/>Kamar bersih wangi, sanitasi sehat, kepastian tidur 7 jam, & makanan bergizi."]
-    B2 --> B3["Pilar 3: Kurikulum Tangga TUMBUH T1-T4<br/>Menghargai proses pentahapan mekarnya fitrah dari Ta'aruf hingga Tahwil."]
+    B2 --> B3["Pilar 3: Kurikulum Jenjang Kemandirian TUMBUH (J1–J4) J1-J4<br/>Menghargai proses pentahapan mekarnya fitrah dari Ta'aruf hingga Tahwil."]
     B3 --> C["Titik Temu Konsensus:<br/>Pesantren bertransformasi menjadi taman subur mekarnya fitrah Insan Kamil."]
 ```
 
@@ -399,7 +399,7 @@ graph LR
 | **2. John Locke (Empirisisme 1690)** | Jiwa manusia lahir bagaikan kertas putih kosong tanpa modalitas bawaan (*Tabula Rasa*). | Indoktrinasi mekanis, pembiasaan stimulus-respons hadiah dan hukuman luar. | Karakter rapuh, santri hanya patuh jika ada hadiah atau pengawas (*Extrinsic*). |
 | **3. Jean-Jacques Rousseau (1762)** | Manusia lahir suci alami namun seluruhnya dirusak oleh institusi masyarakat. | Membiarkan anak tumbuh bebas tanpa batasan tegas (*Laissez-faire / Permissive*). | Santri menjadi egosentris, manja, dan tidak mampu mengendalikan hawa nafsu. |
 | **4. Teologi Dosa Asal (Augustine)** | Manusia lahir memikul kutukan dosa warisan Adam yang merusak kehendak bebasnya. | Penundukan diri, penanaman rasa bersalah kronis, dan perendahan martabat jiwa. | Krisis harga diri (*Inferiority Complex*), depresi, dan hilangnya harapan taubat. |
-| **5. Ontologi Fitrah Islam (TUMBUH)** | **Manusia lahir Mulia (*Mukarram*), Suci, membawa modal tauhid azali & akal potensial.** | **Tarbiyah & Ta'dib Berimbang (*Firm & Kind*), Disiplin Restoratif, & Tazkiyatun Nafs.** | **Santri mandiri, percaya diri tinggi, beradab otonom T1–T4, dan berakhlak mulia.**[^41] |
+| **5. Ontologi Fitrah Islam (TUMBUH)** | **Manusia lahir Mulia (*Mukarram*), Suci, membawa modal tauhid azali & akal potensial.** | **Tarbiyah & Ta'dib Berimbang (*Firm & Kind*), Disiplin Restoratif, & Tazkiyatun Nafs.** | **Santri mandiri, percaya diri tinggi, beradab otonom J1–J4, dan berakhlak mulia.**[^41] |
 
 ---
 

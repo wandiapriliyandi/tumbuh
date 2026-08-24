@@ -108,7 +108,7 @@ Dalam sains implementasi modern (*Implementation Science*), sebuah program pembi
 ```mermaid
 graph LR
     subgraph TigaDimensiEvaluasiLongitudinal["3 DIMENSI EVALUASI DAMPAK LONGITUDINAL TUMBUH"]
-        D1["1. DIMENSI SANTRI (STUDENT LEVEL):<br/>• Penurunan 80% insiden pelanggaran berat asrama.<br/>• Peningkatan skor Asesmen Ipsatif Tangga T1–T4.<br/>• Mutqin hafalan Al-Qur'an & kemandirian ibadah 24 jam."]
+        D1["1. DIMENSI SANTRI (STUDENT LEVEL):<br/>• Penurunan 80% insiden pelanggaran berat asrama.<br/>• Peningkatan skor Asesmen Ipsatif Jenjang J1–J4.<br/>• Mutqin hafalan Al-Qur'an & kemandirian ibadah 24 jam."]
         
         D2["2. DIMENSI PENDIDIK (EDUCATOR LEVEL):<br/>• Penurunan Maslach Burnout Inventory (MBI) <20%.<br/>• Peningkatan kepuasan kerja & retensi musyrif >90%.<br/>• Penguasaan keterampilan de-eskalasi restoratif 3R."]
         
@@ -155,7 +155,7 @@ graph LR
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kontinuitas Evaluasi Berbasis Cohort 3 Tahun**:  
-   Menetapkan bahwa penilaian keberhasilan pembinaan adab santri wajib menggunakan pelacakan longitudinal selama 3 tahun penuh (Tangga T1 Adaptasi hingga Tangga T4 Transformasi).
+   Menetapkan bahwa penilaian keberhasilan pembinaan adab santri wajib menggunakan pelacakan longitudinal selama 3 tahun penuh (Jenjang J1 Adaptasi hingga Jenjang J4 Transformasi).
 
 2. **Kewajiban Pengukuran Tiga Dimensi Triadik Secara Simultan**:  
    Evaluasi tahunan wajib mengukur secara terpadu: Indeks Pertumbuhan Santri (Ipsatif Portofolio), Indeks Kesejahteraan Musyrif (MBI & Kepuasan Kerja), dan Indeks Kepatuhan Sistem Lembaga (TFI $\ge 80\%$).
@@ -173,7 +173,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 | Parameter Evaluasi | Tahun 1: Etape Adaptasi & Habituasi | Tahun 2: Etape Stabilisasi & Internalisasi | Tahun 3: Etape Transformasi & Penggerak |
 | :--- | :--- | :--- | :--- |
-| **Capaian Tangga TUMBUH** | Santri mencapai Tangga T1 $\rightarrow$ T2 (Pembiasaan). | Santri mencapai Tangga T2 $\rightarrow$ T3 (Internalisasi). | Santri mencapai Tangga T4 (Mandiri) & Tahap 7.[^8] |
+| **Capaian Jenjang Kemandirian TUMBUH (J1–J4)** | Santri mencapai Jenjang J1 $\rightarrow$ T2 (Pembiasaan). | Santri mencapai Jenjang J2 $\rightarrow$ T3 (Internalisasi). | Santri mencapai Jenjang J4 (Mandiri) & Tahap 7.[^8] |
 | **Tingkat Ketergantungan Musyrif**| Membutuhkan bimbingan 80% (Scaffolding). | Bimbingan berkurang menjadi 30% (Mandiri). | Otonomi penuh 100% & membimbing adik kelas. |
 | **Insiden Pelanggaran Asrama** | Adaptasi awal; insiden ringan turun 50%. | Insiden ringan turun 80%; nihil kekerasan fisik. | Zero insiden kekerasan fisik (0%) & nihil bullying. |
 | **Kualitas Hafalan Qur'an** | Adaptasi tahsin makharijul huruf & juz awal. | Retensi hafalan mutqin meningkat stabil. | Ujian Tasmi' Mutqin 1 Kali Duduk lancar mutqin.[^9] |
@@ -239,7 +239,7 @@ flowchart TD
 [^5]: Ibnu Qudamah, *Mukhtashar Minhaaj al-Qashidin*, Bab *Riyadhatun Nafs*, hlm. 145–160.  
 [^6]: Deming, W. E. (1986), *Out of the Crisis*, MIT Press; Kaidah Siklus Kualitas PDCA.  
 [^7]: Laporan Hasil Audit Longitudinal Cohort 2023–2026 Pesantren Percontohan TUMBUH, 2026.  
-[^8]: Matriks Progresi Capaian Tangga TUMBUH T1–T4, Komite Pengasuhan TUMBUH, 2026.  
+[^8]: Matriks Progresi Capaian Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, Komite Pengasuhan TUMBUH, 2026.  
 [^9]: Pedoman Penjaminan Mutu Ujian Mutqin Tahfizh Al-Qur'an 30 Juz, Lembaga Tahfizh TUMBUH, 2026.  
 [^10]: Standar Akreditasi Kepatuhan Sistem PBIS (Tiered Fidelity Inventory), Badan Akreditasi TUMBUH, 2026.
 

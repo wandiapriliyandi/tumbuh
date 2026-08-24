@@ -1,5 +1,5 @@
 # P3-01-06: STANDAR MUNAQASYAH ADAB, PORTOFOLIO AUTENTIK, DAN KRITERIA KELULUSAN HOLISTIK
-## *Monograf Riset Akademik: Fiqh Al-Hisab wal-Mizan (QS. Al-Anbiya: 47), Teori Asesmen Autentik Grant Wiggins (Authentic Assessment in Action), Evaluasi Portofolio Formatif Longitudinal 3 Tahun, Sidang Terbuka Munaqasyah Khidmah Tangga T4, serta Standar Kelulusan Mutqin Santri Pesantren*
+## *Monograf Riset Akademik: Fiqh Al-Hisab wal-Mizan (QS. Al-Anbiya: 47), Teori Asesmen Autentik Grant Wiggins (Authentic Assessment in Action), Evaluasi Portofolio Formatif Longitudinal 3 Tahun, Sidang Terbuka Munaqasyah Khidmah Jenjang J4, serta Standar Kelulusan Mutqin Santri Pesantren*
 
 **Nomor Identifikasi**: `P3-01-06/MONOGRAF-RISET-MUNAQASYAH-ADAB-PORTOFOLIO/2026`  
 **Domain**: `03 Capacity Framework` > `01 Graduate Profile`  
@@ -16,7 +16,7 @@
 >   1. **Portofolio Pertumbuhan Adab (*3-Year Longitudinal Portfolio*):** Rekam jejak konsistensi 10 karakter Muwashafat dalam logbook digital PBIS.  
 >   2. **Ujian Mutqin Tahfizh & Turats (*Mastery Examination*):** Uji hafalan Al-Qur'an 30 Juz bersanad / hafalan kitab matan dengan pemahaman makna.  
 >   3. **Karya Tulis Ilmiah Pesantren (*Pesantren Capstone Project*):** Riset terapan atau buku saku solusi atas masalah riil umat.  
->   4. **Sidang Munaqasyah Khidmah (*Public Defense & Service Demonstration*):** Presentasi dan pertanggungjawaban program pengabdian masyarakat Tangga T4 di hadapan Dewan Masyayikh, Asatidz, dan Orang Tua.
+>   4. **Sidang Munaqasyah Khidmah (*Public Defense & Service Demonstration*):** Presentasi dan pertanggungjawaban program pengabdian masyarakat Jenjang J4 di hadapan Dewan Masyayikh, Asatidz, dan Orang Tua.
 
 ---
 
@@ -30,7 +30,7 @@
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Empat Rukun Penilaian Kelulusan Holistik Pesantren TUMBUH](#1-formulasi-konseptual-empat-rukun-penilaian-kelulusan-holistik-pesantren-tumbuh)
-  - [2. Matriks Rubrik Kelulusan Autentik Berbasis Capaian Tangga T1–T4](#2-matriks-rubrik-kelulusan-autentik-berbasis-capaian-tangga-t1t4)
+  - [2. Matriks Rubrik Kelulusan Autentik Berbasis Capaian Jenjang J1–J4](#2-matriks-rubrik-kelulusan-autentik-berbasis-capaian-tangga-t1t4)
   - [3. Standar Prosedur Operasional (SOP) Sidang Munaqasyah Adab & Wisuda Khidmah](#3-standar-prosedur-operasional-sop-sidang-munaqasyah-adab--wisuda-khidmah)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Asesmen Kelulusan](#1-tabel-sintesis-temuan-riset-asesmen-kelulusan)
@@ -90,7 +90,7 @@ graph TD
 
 Pakar asesmen pendidikan global **Grant Wiggins** dalam karyanya *Educative Assessment* (1998) membuktikan bahwa tes standar konvensional gagal mengukur kompetensi di dunia nyata:
 * Asesmen autentik menuntut peserta didik mendemonstrasikan penguasaan ilmunya dalam **Tugas Kinerja Nyata (*Real-World Performance Tasks*)**.
-* Santri Tangga T4 TUMBUH tidak hanya duduk pasif mengerjakan lembar soal, melainkan memimpin sendiri presentasi pertanggungjawaban portofolionya (*Student-Led Conference & Defense*) di hadapan penguji eksternal dan orang tua, membuktikan maturitas nalar dan integritas adabnya.[^3]
+* Santri Jenjang J4 TUMBUH tidak hanya duduk pasif mengerjakan lembar soal, melainkan memimpin sendiri presentasi pertanggungjawaban portofolionya (*Student-Led Conference & Defense*) di hadapan penguji eksternal dan orang tua, membuktikan maturitas nalar dan integritas adabnya.[^3]
 
 ---
 
@@ -125,7 +125,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Kecemasan Ujian)**:  
   *"Sidang terbuka di depan orang tua membuat santri grogi dan tidak adil bagi santri yang pemalu!"*
 * **Tinjauan Asesmen Formatif Berkelanjutan**:  
-  Sidang Munaqasyah Adab bukan ajang menghakimi atau mempermalukan santri (*Not a punitive trial*), melainkan **Panggung Perayaan Pertumbuhan (*Celebration of Growth*)**. Santri telah berlatih presentasi sejak Tangga T1–T3 dalam lingkaran halaqah kamar, dan portofolio 3 tahun menyumbang bobot terbesar, sehingga sidang berfungsi sebagai penegasan kematangan diri.[^5]
+  Sidang Munaqasyah Adab bukan ajang menghakimi atau mempermalukan santri (*Not a punitive trial*), melainkan **Panggung Perayaan Pertumbuhan (*Celebration of Growth*)**. Santri telah berlatih presentasi sejak Jenjang J1–T3 dalam lingkaran halaqah kamar, dan portofolio 3 tahun menyumbang bobot terbesar, sehingga sidang berfungsi sebagai penegasan kematangan diri.[^5]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Standar Mutqin Hafalan Qur'an Bersanad vs Kuantitas Lembar
 * **Pihak A (Sudut Pandang Kejar Tayang Target)**:  
@@ -135,7 +135,7 @@ flowchart TD
 
 > #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
 > * **Studi Kasus**: Santri R memiliki hafalan 30 juz lancar dan nilai akademik 90, namun di asrama kerap bersikap arogan dan enggan ikut piket kebersihan. Dewan guru sempat bimbang apakah santri R boleh lulus dengan predikat terbaik (*Cum Laude*).
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Melalui Rubrik Kelulusan Holistik TUMBUH: Nilai kognitif santri R memang tinggi, namun skor Portofolio Adab Khidmah-nya belum memenuhi syarat batas kelulusan Tangga T4. Santri R diberikan program penguatan adab: Mengabdi sebagai koordinator kebersihan lingkungan pondok selama 3 pekan sebelum sidang munaqasyah. Santri R tersadar, bersikap tawadhu', dan lulus dengan kematangan adab sejati.[^7]
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Melalui Rubrik Kelulusan Holistik TUMBUH: Nilai kognitif santri R memang tinggi, namun skor Portofolio Adab Khidmah-nya belum memenuhi syarat batas kelulusan Jenjang J4. Santri R diberikan program penguatan adab: Mengabdi sebagai koordinator kebersihan lingkungan pondok selama 3 pekan sebelum sidang munaqasyah. Santri R tersadar, bersikap tawadhu', dan lulus dengan kematangan adab sejati.[^7]
 
 ---
 
@@ -157,15 +157,15 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
    Penyusunan karya tulis ilmiah mandiri yang mengkaji integrasi syariat dan isu kontemporer (misal: etika media sosial, sains thaharah, atau filantropi Islam) menggunakan nalar kritis mantiq.
 
 4. **Sidang Munaqasyah Khidmah & Presentasi Mandiri (*Public Capstone Defense - Bobot 20%*)**:  
-   Presentasi terbuka di hadapan Dewan Masyayikh, Pembimbing, dan Orang Tua untuk mempertanggungjawabkan portofolio pribadi dan dampak nyata proyek pengabdian masyarakat (*Khidmah Community Project*) di Tangga T4.
+   Presentasi terbuka di hadapan Dewan Masyayikh, Pembimbing, dan Orang Tua untuk mempertanggungjawabkan portofolio pribadi dan dampak nyata proyek pengabdian masyarakat (*Khidmah Community Project*) di Jenjang J4.
 
 ---
 
-### 2. Matriks Rubrik Kelulusan Autentik Berbasis Capaian Tangga T1–T4
+### 2. Matriks Rubrik Kelulusan Autentik Berbasis Capaian Jenjang J1–J4
 
 | Komponen Kelulusan | Predikat Mumtaz (Cum Laude) | Predikat Jayyid Jiddan (Amat Baik) | Predikat Jayyid (Baik / Lulus) | Batas Belum Memenuhi (Remedial) |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Portofolio Adab** | Capaian Tangga T4 (Penggerak Qudwah); rasio apresiasi $\ge 90\%$. | Capaian Tangga T3 (Kemandirian Stabil); rasio adab $\ge 80\%$. | Capaian Tangga T2 (Pembiasaan Konsisten); rasio $\ge 70\%$. | Masih di Tangga T1; pelanggaran adab belum dituntaskan.[^8] |
+| **1. Portofolio Adab** | Capaian Jenjang J4 (Penggerak Qudwah); rasio apresiasi $\ge 90\%$. | Capaian Jenjang J3 (Kemandirian Stabil); rasio adab $\ge 80\%$. | Capaian Jenjang J2 (Pembiasaan Konsisten); rasio $\ge 70\%$. | Masih di Jenjang J1; pelanggaran adab belum dituntaskan.[^8] |
 | **2. Tahfizh & Turats** | Tasmi' 30 Juz / Matan Mutqin bersanad; faham syarah mendalam. | Tasmi' lancar target juz; faham kaidah terjemah dasar. | Hafalan lancar dengan bimbingan minim; baca kitab lancar. | Hafalan banyak salah; belum lancar membaca kitab matan. |
 | **3. Karya Ilmiah** | Riset orisinal solutif; argumentasi mantiq tajam; rujukan turats luas. | Tulisan terstruktur rapi; analisis dalil tepat; bahasa baku. | Tulisan memenuhi syarat minimal; dalil shahih terverifikasi. | Plagiarisme terdeteksi; nalar dalil keliru/tidak ilmiah. |
 | **4. Munaqasyah Khidmah**| Presentasi memukau, santun, & dampak khidmah masyarakat nyata. | Presentasi percaya diri; laporan khidmah lengkap & tuntas. | Presentasi lancar; mampu menjawab pertanyaan penguji. | Pasif; tidak mampu mempertanggungjawabkan portofolio. |

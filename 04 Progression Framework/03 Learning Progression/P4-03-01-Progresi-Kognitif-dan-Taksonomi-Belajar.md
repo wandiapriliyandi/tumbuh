@@ -9,7 +9,7 @@
 
 ## 1. Taksonomi Belajar Terpadu TUMBUH
 
-Progresi kognitif belajar santri memadukan **Taksonomi Bloom Revisi (Anderson & Krathwohl)** dengan **Taksonomi Internalisasi Nilai (Marzano & Krathwohl)** melintasi Tangga T1 hingga T4:
+Progresi kognitif belajar santri memadukan **Taksonomi Bloom Revisi (Anderson & Krathwohl)** dengan **Taksonomi Internalisasi Nilai (Marzano & Krathwohl)** melintasi Jenjang J1 hingga T4:
 
 ```mermaid
 graph TD
@@ -22,7 +22,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Kognitif Berjenjang Melintasi T1–T4
+## 2. Matriks Capaian Kognitif Berjenjang Melintasi J1–J4
 
 | Tangga Belajar | Ranah Kognitif (Bloom) | Ranah Afektif / Value (Krathwohl) | Ranah Psikomotorik / Pembiasaan |
 | :--- | :--- | :--- | :--- |

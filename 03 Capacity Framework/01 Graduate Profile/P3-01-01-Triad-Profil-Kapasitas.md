@@ -14,7 +14,7 @@
 >   Kekeliruan terbesar pesantren konvensional adalah menuntut santri menjadi "malaikat berakhlak mulia", sementara guru/musyrif dibiarkan kelelahan (*burnout*) tanpa kompetensi bimbingan yang memadai, dan sistem lembaga berjalan tanpa SOP yang jelas (*chaotic*).
 > * **Maha-Prinsip Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*):**  
 >   Ekosistem TUMBUH menetapkan standar kapasitas bagi tiga entitas yang saling menopang secara mutlak:  
->   1. **Profil Santri Tumbuh:** Menguasai 10 Karakter Muwashafat & 5 CASEL SEL, mandiri beribadah (Tangga T1–T4), dan memiliki hafalan Al-Qur'an mutqin.  
+>   1. **Profil Santri Tumbuh:** Menguasai 10 Karakter Muwashafat & 5 CASEL SEL, mandiri beribadah (Jenjang J1–J4), dan memiliki hafalan Al-Qur'an mutqin.  
 >   2. **Profil Guru & Musyrif Tumbuh:** Memancarkan keteladanan *Qudwah Hasanah*, terampil berkomunikasi restoratif (*Firm & Kind*), dan bekerja dalam sistem kerja sehat anti-burnout.  
 >   3. **Profil Sistem Lembaga Tumbuh:** Menjadi organisasi pembelajar (*Learning Organization*) berbasis data PBIS, menjamin keamanan asrama (*Zero Violence*), dan tata ruang sehat CPTED.
 > * **Kunci Keberhasilan:**  
@@ -58,7 +58,7 @@ Ekosistem TUMBUH memandang pendidikan pesantren sebagai **Ekosistem Hidup Triadi
 ```mermaid
 flowchart TD
     subgraph ArsitekturTriadProfilKapasitas["TRIAD PROFIL KAPASITAS SIMBIOTIK TUMBUH"]
-        Santri["1. PROFIL SANTRI TUMBUH<br/>• 10 Karakter Muwashafat & 5 CASEL SEL.<br/>• Progresi Tangga T1–T4 & Tahap 7 Penggerak.<br/>• Hafalan Qur'an Mutqin & Nalar Kritis."]
+        Santri["1. PROFIL SANTRI TUMBUH<br/>• 10 Karakter Muwashafat & 5 CASEL SEL.<br/>• Progresi Jenjang J1–J4 & Tahap 7 Penggerak.<br/>• Hafalan Qur'an Mutqin & Nalar Kritis."]
         
         Guru["2. PROFIL GURU & MUSYRIF TUMBUH<br/>• Keteladanan Qudwah Hasanah 24 Jam.<br/>• Kompetensi Didaktik Aktif & Konseling 3R.<br/>• Jam Kerja Manusiawi & Jiwa Bahagia Anti-Burnout."]
         
@@ -179,7 +179,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 | Entitas Triad | Profil Kapasitas Inti | Instrumen Alat Ukur / Asesmen | Bukti Keberhasilan Pertumbuhan (*Evidence of Growth*) |
 | :--- | :--- | :--- | :--- |
-| **1. Santri Tumbuh** | 10 Karakter Muwashafat terintegrasi 5 CASEL SEL; Mandiri di Tangga T4; Hafalan Qur'an Mutqin. | Portofolio Adab Harian, Ujian Mutqin Tahfizh, Observasi Kamar 24 Jam. | Santri berinisiatif ibadah mandiri tanpa disuruh, nihil pelanggaran berat, menjadi teladan adik kelas.[^8] |
+| **1. Santri Tumbuh** | 10 Karakter Muwashafat terintegrasi 5 CASEL SEL; Mandiri di Jenjang J4; Hafalan Qur'an Mutqin. | Portofolio Adab Harian, Ujian Mutqin Tahfizh, Observasi Kamar 24 Jam. | Santri berinisiatif ibadah mandiri tanpa disuruh, nihil pelanggaran berat, menjadi teladan adik kelas.[^8] |
 | **2. Guru & Musyrif Tumbuh** | Keteladanan Qudwah 24 Jam, Didaktik Ramah Otak, Konseling De-eskalasi 3R, Kestabilan Jiwa. | Indeks Kinerja Qudwah, Supervisi Reflektif Mingguan, Survei Kepuasan Santri. | Nihil aksi kekerasan fisik/verbal, retensi musyrif tinggi, musyrif bahagia dan bersemangat mengasuh.[^9] |
 | **3. Sistem Lembaga Tumbuh** | Manajemen PBIS Berbasis Data, SOP Bebas Intimidasi, Arsitektur CPTED Terang, Sanitasi 0 CFU. | Audit Mutu PDCA Semesteran, Tiered Fidelity Inventory (TFI $\ge 80\%$), Uji Lab Air. | Penurunan 70% kasus pelanggaran asrama, nihil wabah penyakit kulit, reputasi lembaga dipercaya penuh umat.[^10] |
 
@@ -243,7 +243,7 @@ flowchart TD
 [^5]: Al-Baihaqi, *Syu'abul Iman* No. 4931; Senge, P. (1990), *The Fifth Discipline*.  
 [^6]: Shahih al-Bukhari No. 893, Kitab *al-Jumu'ah*, Bab *al-Jumu'ah fil Qura wal-Mudun*.  
 [^7]: Laporan Audit Restrukturisasi Ekosistem Asrama Percontohan, Divisi Penjaminan Mutu TUMBUH, 2026.  
-[^8]: Standar Operasional Asesmen Karakter Santri Mandiri Tangga T4, Komite Pengasuhan TUMBUH, 2026.  
+[^8]: Standar Operasional Asesmen Karakter Santri Mandiri Jenjang J4, Komite Pengasuhan TUMBUH, 2026.  
 [^9]: Manual Standar Kompetensi Qudwah dan Kesejahteraan Musyrif, Pusat Diklat SDM TUMBUH, 2026.  
 [^10]: Pedoman Akreditasi Kelembagaan Pesantren Mandiri Berbasis PBIS, Majelis Masyayikh TUMBUH, 2026.
 

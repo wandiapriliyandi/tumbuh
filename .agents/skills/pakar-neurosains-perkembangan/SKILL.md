@@ -42,4 +42,4 @@ graph TD
 
 1. **Audit Bebas Coercive-Stress**: Evaluasi apakah ada SOP, hukuman, atau kebiasaan asrama yang memicu stres toksik dan melumpuhkan fungsi belajar otak santri.
 2. **Desain Habit Sesuai Neuroplastisitas**: Pastikan rutinitas ibadah dan adab dirancang melalui *Micro-Steps (Kaizen)* dan *Positive Dopamine Reinforcement* agar jalur sinaptik kebaikan terbentuk permanen.
-3. **Penyelarasan Tangga T1–T4**: Pastikan target karakter tiap tingkat kelas selaras dengan usia biologis dan kematangan kognitif santri.
+3. **Penyelarasan Jenjang J1–J4**: Pastikan target karakter tiap tingkat kelas selaras dengan usia biologis dan kematangan kognitif santri.

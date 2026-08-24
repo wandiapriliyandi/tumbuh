@@ -15,7 +15,7 @@ Sistem Pelaporan dalam ekosistem **TUMBUH** berfokus pada penyampaian gambaran u
 graph TD
     ReportSystem["2 Dokumen Utama Pelaporan PBIS"]
     ReportSystem --> ProgressReport["1. Raport Karakter Periodik (Bulanan/Semester)<br/>Laporan perkembangan harian untuk orang tua yang mencakup grafik radar 10 Muwashafat & narasi musyrif."]
-    ReportSystem --> TranscriptPBIS["2. Transkrip Karakter PBIS (Kelulusan)<br/>Dokumen resmi kelulusan yang mencatat rekam jejak pertumbuhan adab Tangga T1->T4 & QR-Code."]
+    ReportSystem --> TranscriptPBIS["2. Transkrip Karakter PBIS (Kelulusan)<br/>Dokumen resmi kelulusan yang mencatat rekam jejak pertumbuhan adab Jenjang J1->T4 & QR-Code."]
 ```
 
 ---
@@ -24,7 +24,7 @@ graph TD
 
 1. **Grafik Radar 10 Karakter Muwashafat**: Visualisasi kekuatan karakter santri pada aspek spiritual, emosional, fisik, & khidmah.
 2. **Catatan Narasi Pengasuhan Musyrif**: Umpan balik kualitatif mengenai usaha, keteladanan, dan area penguatan adab.
-3. **Peta Progresi Tangga TUMBUH**: Posisi jenjang tangga santri saat ini (T1, T2, T3, atau T4) dan pencapaian milestone.
+3. **Peta Progresi Jenjang Kemandirian TUMBUH (J1–J4)**: Posisi jenjang tangga santri saat ini (T1, T2, T3, atau T4) dan pencapaian milestone.
 
 ---
 

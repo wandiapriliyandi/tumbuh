@@ -1,4 +1,4 @@
-﻿# P4-02-02: Modul Operasional Tangga T2 (Habituasi Dasar)
+﻿# P4-02-02: Modul Operasional Jenjang J2 (Habituasi Dasar)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Spesifikasi Operasional Tangga T2
+## 1. Spesifikasi Operasional Jenjang J2
 
 * **Fokus Utama**: Pembentukan Rutinitas Mandiri, Ketertiban Kamar & Kelas, serta Adab Harian.
 * **Tingkat Scaffolding Decay**: **50% Scaffolding** (Monitoring Musyrif & Penguatan Positif PBIS).
@@ -15,11 +15,11 @@
 
 ---
 
-## 2. Ekspektasi Perilaku & Indikator Capaian Tangga T2
+## 2. Ekspektasi Perilaku & Indikator Capaian Jenjang J2
 
 ```mermaid
 graph TD
-    T2_Expect["Ekspektasi Perilaku Santri Tangga T2"]
+    T2_Expect["Ekspektasi Perilaku Santri Jenjang J2"]
     T2_Expect --> Worship2["1. Ibadah Berjamaah Mandiri<br/>Bangun & siap di masjid tepat waktu tanpa perlu dibangunkan berulang kali."]
     T2_Expect --> Room2["2. Pengelolaan Kamar Mandiri<br/>Menjalankan piket kebersihan kamar & menjaga kerapihan lemari sesuai standar PBIS."]
     T2_Expect --> Acad2["3. Kedisiplinan Belajar<br/>Menghadiri kelas diniyyah tepat waktu & mengumpulkan tugas hafalan/pelajaran."]
@@ -38,6 +38,6 @@ graph TD
 
 ## 4. Evaluasi Mandiri Santri & Transisi Bergradasi
 
-Pada Tangga T2, santri mulai dilatih melakukan **Self-Monitoring**:
+Pada Jenjang J2, santri mulai dilatih melakukan **Self-Monitoring**:
 - Setiap malam, santri mengisi lembar mutabaah reflektif pribadi (*Jurnal Adab T2*).
 - Musyrif mencocokkan hasil self-monitoring santri dengan catatan observasi musyrif secara mingguan sebagai bahan evaluasi formatif.

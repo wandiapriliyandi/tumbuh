@@ -11,11 +11,11 @@
 
 > **Latar Belakang**: Trajektori perkembangan manusia tidak berhenti saat santri lulus dari pesantren. Sistem pembinaan yang utuh harus memadukan perampingan fungsional 4 tangga santri di asrama dengan kontinuum perkembangan dewasa sepanjang hayat (*Adult Lifelong Development Continuum*).
 >
-> **Tujuan Penelitian**: Merumuskan dan memvalidasi **Model Harmonis 4 Tangga Santri (T1-T4)** dan **Uraian Rinci Tahapan Pertumbuhan Lanjutan (Tahap 7 Penggerak, Tahap 8 Pelaksana, Tahap 9 Pembina, Tahap 10 Pemberdaya)**.
+> **Tujuan Penelitian**: Merumuskan dan memvalidasi **Model Harmonis 4 Tangga Santri (J1-J4)** dan **Uraian Rinci Tahapan Pertumbuhan Lanjutan (Tahap 7 Penggerak, Tahap 8 Pelaksana, Tahap 9 Pembina, Tahap 10 Pemberdaya)**.
 >
-> **Hasil Riset**: Terstruktur 2 Dimensi Trajektori Pertumbuhan: (1) **Dimensi Pembinaan Santri (T1-T4)** untuk 3 tahun pendidikan pesantren; dan (2) **Dimensi Trajektori Pasca-Santri & Pendidik (Tahap 7-10)** yang mendefinisikan peran **Penggerak (7)**, **Pelaksana (8)**, **Pembina (9)**, dan **Pemberdaya (10)** dalam ekosistem keumatan.
+> **Hasil Riset**: Terstruktur 2 Dimensi Trajektori Pertumbuhan: (1) **Dimensi Pembinaan Santri (J1-J4)** untuk 3 tahun pendidikan pesantren; dan (2) **Dimensi Trajektori Pasca-Santri & Pendidik (Tahap 7-10)** yang mendefinisikan peran **Penggerak (7)**, **Pelaksana (8)**, **Pembina (9)**, dan **Pemberdaya (10)** dalam ekosistem keumatan.
 >
-> **Kata Kunci**: *Progression Framework, Tangga TUMBUH, Perampingan 4 Tangga, Penggerak, Pelaksana, Pembina, Pemberdaya, Re-Entry Protocol.*
+> **Kata Kunci**: *Progression Framework, Jenjang Kemandirian TUMBUH (J1–J4), Perampingan 4 Tangga, Penggerak, Pelaksana, Pembina, Pemberdaya, Re-Entry Protocol.*
 
 ---
 
@@ -26,7 +26,7 @@ Perkembangan karakter dan adab dalam ekosistem **TUMBUH** memadukan kepraktisan 
 ```mermaid
 graph TD
     TwoDimArch["Arsitektur Dua Dimensi Trajektori Pertumbuhan TUMBUH"]
-    TwoDimArch --> Dim1["1. Dimensi Pembinaan Santri Asrama (Perampingan 4 Tangga T1 - T4)<br/>Praktis, terukur, & selaras dengan siklus 3-tahun pesantren & 4 level PBIS."]
+    TwoDimArch --> Dim1["1. Dimensi Pembinaan Santri Asrama (Perampingan 4 Jenjang J1 - T4)<br/>Praktis, terukur, & selaras dengan siklus 3-tahun pesantren & 4 level PBIS."]
     TwoDimArch --> Dim2["2. Dimensi Kontinuum Sepanjang Hayat (Tahap 7 s/d Tahap 10)<br/>Penggerak (7) -> Pelaksana (8) -> Pembina (9) -> Pemberdaya (10)."]
 ```
 

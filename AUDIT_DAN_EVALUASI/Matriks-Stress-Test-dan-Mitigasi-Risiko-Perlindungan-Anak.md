@@ -22,7 +22,7 @@ Pengujian ketahanan (*Stress-Testing*) dilakukan untuk menguji sejauh mana arsit
 * **Protokol Mitigasi & Redundansi Sistem**:
   1. **Aktivasi Modus Protokol Darurat Asrama (SOP-DARURAT-01)**: Pengalihan tugas pendampingan harian sementara ke Guru Madrasah/Wakamad secara bergilir (*Cross-Functional Support*).
   2. **Penyederhanaan Logbook Digital (Mode CICO Darurat)**: Pengisian logbook disederhanakan dari rubrik lengkap menjadi *Check-In Check-Out* cepat (<3 menit/kamar).
-  3. **Penguatan Peer-Support Santri T4**: Pemberdayaan Santri Penggerak (Tangga T4) untuk memimpin ketertiban mandiri di tingkat kamar di bawah supervisi Musyrif senior.
+  3. **Penguatan Peer-Support Santri T4**: Pemberdayaan Santri Penggerak (Jenjang J4) untuk memimpin ketertiban mandiri di tingkat kamar di bawah supervisi Musyrif senior.
 
 ---
 
@@ -58,7 +58,7 @@ Pengujian ketahanan (*Stress-Testing*) dilakukan untuk menguji sejauh mana arsit
   - Terjadinya kegiatan pembalasan "di luar jam resmi" (misal: penggalangan di malam hari tanpa sepengetahuan Musyrif).
 * **Hasil Stress-Test Arsitektur**: **LULUS TERMITIGASI (Safe Culture)**
 * **Protokol Mitigasi & Rekayasa Iklim Bi'ah Shalihah**:
-  1. **Transformasi Peran Senioritas ke Tangga T4 (Qudwah Leadership)**: Mengubah tradisi kepemimpinan senior dari pola *Autoritarian-Punitif* menjadi *Mentoring-Qudwah* bertanda piagam kepemimpinan resmi lembaga.
+  1. **Transformasi Peran Senioritas ke Jenjang J4 (Qudwah Leadership)**: Mengubah tradisi kepemimpinan senior dari pola *Autoritarian-Punitif* menjadi *Mentoring-Qudwah* bertanda piagam kepemimpinan resmi lembaga.
   2. **Rekayasa Lingkungan & Patroli Titik Rawan (Hotspots Patrol)**: Pemetaan dan patroli berkala di lokasi rawan (kamar mandi belakang, saung pojok, area jemuran) pada jam-jam riskan.
   3. **Sistem Pelaporan Mandiri Aman (Silent Whistleblowing / Kotak Adab)**: Kanal aduan rahasia bagi santri yang mengalami atau menyaksikan penindakan senior di luar SOP.
 

@@ -97,11 +97,11 @@ Islam menyempurnakan teori Kohlberg: kematangan moral tertinggi tidak berhenti p
 
 Ekosistem **TUMBUH** melarang pendekatan seragam yang memukul rata seluruh santri. Musyrif dibekali panduan pendampingan sesuai maqam jiwa santri:
 
-| Tingkat Nafs Santri | Karakteristik Perilaku di Asrama | Strategi Pendampingan Sistem TUMBUH | Target Tangga TUMBUH |
+| Tingkat Nafs Santri | Karakteristik Perilaku di Asrama | Strategi Pendampingan Sistem TUMBUH | Target Jenjang Kemandirian TUMBUH (J1–J4) |
 | :--- | :--- | :--- | :---: |
-| **1. Nafs Ammarah** | Sering lupa aturan, terburu-buru, impulsif membantah saat ditegur. | **Pendampingan Melekat (*Firm Scaffolding*)**: Jadwal harian yang terstruktur rapi, bimbingan langsung musyrif tanpa bentakan. | **Tangga T1**<br/>(Tahu & Paham Adab) |
-| **2. Nafs Lawwamah** | Sudah paham aturan, kadang khilaf ikut kawan sekamar, namun merasa menyesal. | **Dialog Restoratif (*Restorative Inquiry*)**: Membimbing muhasabah batin, menyepakati ganti rugi/restitusi logis 4R. | **Tangga T2 & T3**<br/>(Mau & Mampu Beradab) |
-| **3. Nafs Mutma'innah** | Mandiri dalam ibadah, pelopor kebersihan kamar, menyayangi adik kelas. | **Pemberdayaan Teladan (*Peer Mentorship*)**: Diberikan amanah sebagai Kakak Asuh dan duta teladan asrama. | **Tangga T4**<br/>(**Tahap 7 Penggerak**) |
+| **1. Nafs Ammarah** | Sering lupa aturan, terburu-buru, impulsif membantah saat ditegur. | **Pendampingan Melekat (*Firm Scaffolding*)**: Jadwal harian yang terstruktur rapi, bimbingan langsung musyrif tanpa bentakan. | **Jenjang J1**<br/>(Tahu & Paham Adab) |
+| **2. Nafs Lawwamah** | Sudah paham aturan, kadang khilaf ikut kawan sekamar, namun merasa menyesal. | **Dialog Restoratif (*Restorative Inquiry*)**: Membimbing muhasabah batin, menyepakati ganti rugi/restitusi logis 4R. | **Jenjang J2 & T3**<br/>(Mau & Mampu Beradab) |
+| **3. Nafs Mutma'innah** | Mandiri dalam ibadah, pelopor kebersihan kamar, menyayangi adik kelas. | **Pemberdayaan Teladan (*Peer Mentorship*)**: Diberikan amanah sebagai Kakak Asuh dan duta teladan asrama. | **Jenjang J4**<br/>(**Tahap 7 Penggerak**) |
 
 ---
 

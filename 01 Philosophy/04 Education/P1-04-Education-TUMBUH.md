@@ -52,7 +52,7 @@ graph TD
     WV["01 Worldview (Hakikat Realitas & Epistemologi)"] 
     ==> HN["02 Human Nature (Ontologi Fitrah & Potensi Santri)"]
     
-    HN ==> HD["03 Human Development (Trajektori Pertumbuhan & Tangga T1–T4)"]
+    HN ==> HD["03 Human Development (Trajektori Pertumbuhan & Jenjang J1–J4)"]
     
     HD ==> ED["04 Education (Filsafat Kurikulum Adab, Anti-Feodalisme, & Ekologi 24 Jam)"]
     

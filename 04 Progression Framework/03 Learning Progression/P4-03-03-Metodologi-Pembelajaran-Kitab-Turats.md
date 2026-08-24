@@ -21,14 +21,14 @@ graph TD
 
 ---
 
-## 2. Jenjang Kitab Turats Sesuai Tangga TUMBUH
+## 2. Jenjang Kitab Turats Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 | Tangga Belajar | Bidang Fiqih & Aqidah | Bidang Adab & Akhlak | Bidang Alat (Bahasa Arab) |
 | :--- | :--- | :--- | :--- |
-| **Tangga T1** | *Matn Safinatun Naja* / *Aqidatul Awam*. | *Taisirul Khalaq* / *Adabul 'Alim wal Muta'allim* (Bab Awal). | *Matn Al-Ajurrumiyyah* (Dasar Nahwu). |
-| **Tangga T2** | *Matn Al-Ghayah wat Taqrib* (Abu Syuja'). | *Ta'limul Muta'allim* (Imam Al-Zarnuji). | *Al-Amtsilah As-Tashrifiyyah* (Shorof) & *Ajurrumiyyah* Lanjutan. |
-| **Tangga T3** | *Fathul Qarib Al-Mujib* / *Bulughul Maram*. | *Adabul 'Alim wal Muta'allim* (Imam An-Nawawi) / *Minhajul 'Abidin*. | *Qathrun Nada* / *Alfiyyah Ibnu Malik* (Jilid 1). |
-| **Tangga T4** | *Fathul Mu'in* / *Fiqih Maqashid Syari'ah*. | *Ihya 'Ulumuddin* (Ringkasan/Rub' Al-Muhlikat & Al-Munjiyat). | *Alfiyyah Ibnu Malik* Lanjutan & Balaghah (*Jauharul Maknun*). |
+| **Jenjang J1** | *Matn Safinatun Naja* / *Aqidatul Awam*. | *Taisirul Khalaq* / *Adabul 'Alim wal Muta'allim* (Bab Awal). | *Matn Al-Ajurrumiyyah* (Dasar Nahwu). |
+| **Jenjang J2** | *Matn Al-Ghayah wat Taqrib* (Abu Syuja'). | *Ta'limul Muta'allim* (Imam Al-Zarnuji). | *Al-Amtsilah As-Tashrifiyyah* (Shorof) & *Ajurrumiyyah* Lanjutan. |
+| **Jenjang J3** | *Fathul Qarib Al-Mujib* / *Bulughul Maram*. | *Adabul 'Alim wal Muta'allim* (Imam An-Nawawi) / *Minhajul 'Abidin*. | *Qathrun Nada* / *Alfiyyah Ibnu Malik* (Jilid 1). |
+| **Jenjang J4** | *Fathul Mu'in* / *Fiqih Maqashid Syari'ah*. | *Ihya 'Ulumuddin* (Ringkasan/Rub' Al-Muhlikat & Al-Munjiyat). | *Alfiyyah Ibnu Malik* Lanjutan & Balaghah (*Jauharul Maknun*). |
 
 ---
 

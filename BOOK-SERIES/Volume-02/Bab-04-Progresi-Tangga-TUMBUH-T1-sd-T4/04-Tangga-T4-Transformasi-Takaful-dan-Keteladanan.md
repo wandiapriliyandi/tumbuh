@@ -9,9 +9,9 @@
 
 ### Tangga Tertinggi Santri: Dari Menjaga Diri Menjadi Penggerak Perubahan
 
-Puncak dari tangga perkembangan karakter di tingkat santri adalah **Tangga T4 (Transformasi / *Takaful*)**, yang menaungi santri kelas atas (Tahun ke-3 ke atas dan Santri Aliyah/Senior).
+Puncak dari tangga perkembangan karakter di tingkat santri adalah **Jenjang J4 (Transformasi / *Takaful*)**, yang menaungi santri kelas atas (Tahun ke-3 ke atas dan Santri Aliyah/Senior).
 
-Pada Tangga T4, fokus pembinaan bergeser secara revolusioner:
+Pada Jenjang J4, fokus pembinaan bergeser secara revolusioner:
 * Santri tidak lagi sekadar menjadi "konsumen adab" yang menjaga kesalehan pribadinya.
 * **Santri bertransformasi menjadi "produsen adab" dan agen perubahan (*Change Agent / Qudwah Hasanah*)** yang melayani, melindungi, dan membimbing adik-adik kelasnya di tangga T1 dan T2.
 
@@ -29,7 +29,7 @@ graph TD
         Fokus --> C4["4. Duta Perdamaian Restoratif (Restorative Ambassador)<br/>Membantu musyrif memoderasi perselisihan adik kelas dengan kepala dingin & adil."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.4.1:</b> Peta Capaian Karakter Santri pada Tangga T4 (Transformasi / Takaful).</sub></div>
+<div align="center"><sub><b>Gambar 4.4.1:</b> Peta Capaian Karakter Santri pada Jenjang J4 (Transformasi / Takaful).</sub></div>
 
 Pakar psikologi sosial legendaris **Albert Bandura**[^1] dalam *Social Cognitive Theory* membuktikan bahwa pemodelan perilaku oleh figur teladan sebaya (*peer modeling*) memiliki daya pengaruh pembentukan karakter 4 kali lebih kuat dibanding instruksi verbal guru di kelas.
 
@@ -45,13 +45,13 @@ Sistem TUMBUH melakukan revolusi kultural total: **mencabut 100% wewenang menghu
 
 Pakar kepemimpinan pelayan **Robert K. Greenleaf**[^2] menegaskan bahwa ujian kepemimpinan sejati adalah: *"Apakah orang-orang yang dipimpin bertumbuh semakin cerdas, semakin mandiri, dan semakin berdaya?"*
 
-Santri Tangga T4 membuktikan kepemimpinannya bukan dengan membuat adik kelas gemetar ketakutan, melainkan dengan membuat adik kelas merasa aman, disayangi, dan terinspirasi untuk meneladani kesalehannya.
+Santri Jenjang J4 membuktikan kepemimpinannya bukan dengan membuat adik kelas gemetar ketakutan, melainkan dengan membuat adik kelas merasa aman, disayangi, dan terinspirasi untuk meneladani kesalehannya.
 
 ---
 
 ### Integrasi Turats: Konsep *Takaful Ijtima'i* & *Al-Hisbah bil Ma'ruf*
 
-Tanggung jawab sosial santri Tangga T4 berakar kokoh pada prinsip *Takaful* (saling menanggung dan memelihara keselamatan saudara seiman).
+Tanggung jawab sosial santri Jenjang J4 berakar kokoh pada prinsip *Takaful* (saling menanggung dan memelihara keselamatan saudara seiman).
 
 Rasulullah SAW bersabda dalam hadits yang diriwayatkan oleh **Imam Muslim**:
 $$\text{مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ، وَتَرَاحُمِهِمْ، وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ؛ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى}$$
@@ -75,12 +75,12 @@ graph LR
 
 ### Solusi Sistemik TUMBUH: Program Kakak Asuh & Inkubasi Kepemimpinan Khidmah
 
-Di lingkungan pesantren TUMBUH, santri Tangga T4 menjalankan peran formal:
+Di lingkungan pesantren TUMBUH, santri Jenjang J4 menjalankan peran formal:
 1. **Duta Pendamping Belajar (*Academic Peer Tutor*)**: Menjadi asisten ustadz dalam membimbing setoran hafalan Quran dan muthala'ah kitab santri T1 dan T2.
 2. **Kepanitiaan Khidmah Komunal**: Mengelola kepanitiaan hari besar Islam, bakti sosial lingkungan sekitar pesantren, dan perawatan kebersihan asrama.
 3. **Pemberian Lencana Teladan Qudwah**: Santri T4 yang menunjukkan integritas istimewa dilantik sebagai Duta Teladan TUMBUH dalam upacara resmi lembaga.
 
-Santri Tangga T4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah pemimpin yang melayani, mercusuar teladan di asrama, dan calon pemimpin peradaban Islam di masa depan.
+Santri Jenjang J4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah pemimpin yang melayani, mercusuar teladan di asrama, dan calon pemimpin peradaban Islam di masa depan.
 
 ---
 

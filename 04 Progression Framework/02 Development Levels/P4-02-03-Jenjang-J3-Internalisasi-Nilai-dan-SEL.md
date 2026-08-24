@@ -1,4 +1,4 @@
-﻿# P4-02-03: Modul Operasional Tangga T3 (Internalisasi Nilai & SEL)
+﻿# P4-02-03: Modul Operasional Jenjang J3 (Internalisasi Nilai & SEL)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Spesifikasi Operasional Tangga T3
+## 1. Spesifikasi Operasional Jenjang J3
 
 * **Fokus Utama**: Internalisasi Nilai Moral, Regulasi Emosi Mandiri, CASEL SEL, & Ukhuwah Islamiyah.
 * **Tingkat Scaffolding Decay**: **20% Scaffolding** (Coaching Emosional & Fasilitasi Diskusi Musyrif).
@@ -15,11 +15,11 @@
 
 ---
 
-## 2. Ekspektasi Perilaku & Indikator Capaian Tangga T3
+## 2. Ekspektasi Perilaku & Indikator Capaian Jenjang J3
 
 ```mermaid
 graph TD
-    T3_Expect["Ekspektasi Perilaku Santri Tangga T3"]
+    T3_Expect["Ekspektasi Perilaku Santri Jenjang J3"]
     T3_Expect --> Devotion["1. Ibadah Intrinsik<br/>Menjalankan sholat sunnah, dzikir, & mutabaah hafalan atas dorongan iman pribadi."]
     T3_Expect --> SEL3["2. Regulasi Emosi Mandiri<br/>Mampu mengontrol amarah (*Mujahadatun Linafsih*) & menggunakan strategi koping sehat."]
     T3_Expect --> Conflict3["3. Resolusi Konflik Empatis<br/>Menyelesaikan perselisihan antar teman melalui komunikasi damai & empati."]

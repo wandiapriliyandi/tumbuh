@@ -29,7 +29,7 @@
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Model Taksonomi Fitrah Adab Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-model-taksonomi-fitrah-adab-terpadu-pesantren-tumbuh)
-  - [2. Matriks Pemetaan Komparatif Taksonomi Bloom, Marzano, Turats, & Tangga TUMBUH](#2-matriks-pemetaan-komparatif-taksonomi-bloom-marzano-turats--tangga-tumbuh)
+  - [2. Matriks Pemetaan Komparatif Taksonomi Bloom, Marzano, Turats, & Jenjang Kemandirian TUMBUH (J1–J4)](#2-matriks-pemetaan-komparatif-taksonomi-bloom-marzano-turats--tangga-tumbuh)
   - [3. Panduan Operasional Penerapan Taksonomi Fitrah dalam RPP Asatidz & Halaqah Musyrif](#3-panduan-operasional-penerapan-taksonomi-fitrah-dalam-rpp-asatidz--halaqah-musyrif)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Penyelarasan Taksonomi](#1-tabel-sintesis-temuan-riset-penyelarasan-taksonomi)
@@ -159,14 +159,14 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ---
 
-### 2. Matriks Pemetaan Komparatif Taksonomi Bloom, Marzano, Turats, & Tangga TUMBUH
+### 2. Matriks Pemetaan Komparatif Taksonomi Bloom, Marzano, Turats, & Jenjang Kemandirian TUMBUH (J1–J4)
 
-| Level Taksonomi TUMBUH | Padanan Taksonomi Bloom Revisi | Padanan Taksonomi Marzano | Padanan Konsep Turats Islam | Capaian Tangga TUMBUH |
+| Level Taksonomi TUMBUH | Padanan Taksonomi Bloom Revisi | Padanan Taksonomi Marzano | Padanan Konsep Turats Islam | Capaian Jenjang Kemandirian TUMBUH (J1–J4) |
 | :--- | :--- | :--- | :--- | :---: |
-| **Level 1: Ta'lim (Ilmu)** | C1 (Remember) & C2 (Understand) | Retrieval & Comprehension | *Thalabul 'Ilmi & Tafhim* | **Tangga T1** |
-| **Level 2: Tarbiyah (Amal)** | C3 (Apply) & C4 (Analyze) | Analysis & Knowledge Utilization | *'Amal Shalih & Riyadhah* | **Tangga T2** |
-| **Level 3: Ta'dib (Adab)** | C5 (Evaluate) & Afektif A4 | Metacognitive System | *Husnul Khuluq & Inshaf* | **Tangga T3**[^8] |
-| **Level 4: Tazkiyah & Khidmah**| C6 (Create) & Afektif A5 | Self-System & Transformation | *Tazkiyatun Nafs & Khidmah* | **Tangga T4**[^9] |
+| **Level 1: Ta'lim (Ilmu)** | C1 (Remember) & C2 (Understand) | Retrieval & Comprehension | *Thalabul 'Ilmi & Tafhim* | **Jenjang J1** |
+| **Level 2: Tarbiyah (Amal)** | C3 (Apply) & C4 (Analyze) | Analysis & Knowledge Utilization | *'Amal Shalih & Riyadhah* | **Jenjang J2** |
+| **Level 3: Ta'dib (Adab)** | C5 (Evaluate) & Afektif A4 | Metacognitive System | *Husnul Khuluq & Inshaf* | **Jenjang J3**[^8] |
+| **Level 4: Tazkiyah & Khidmah**| C6 (Create) & Afektif A5 | Self-System & Transformation | *Tazkiyatun Nafs & Khidmah* | **Jenjang J4**[^9] |
 
 ---
 

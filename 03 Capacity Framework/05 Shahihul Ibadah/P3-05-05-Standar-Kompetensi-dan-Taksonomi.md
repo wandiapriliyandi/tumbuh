@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Menguasai praktik wudhu dan sholat sesuai madzhab, tidak masbuq, menghafal dzikir ba'da sholat dan dzikir Al-Ma'tsurat.
 * **Jenjang T2 (Kelas 8 / 11)**: Konsisten tiba di masjid sebelum adzan, sholat sunnah rawatib qabliyah-ba'diyah, tilawah 1 juz mandiri.

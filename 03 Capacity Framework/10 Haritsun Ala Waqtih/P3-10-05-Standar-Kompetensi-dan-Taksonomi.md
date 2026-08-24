@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Mematuhi lonceng bel asrama, tidak terlambat sholat dan kelas, belajar mengatur waktu mencuci baju.
 * **Jenjang T2 (Kelas 8 / 11)**: Mampu membagi waktu antara hafalan tahfizh dan tugas sekolah, berhenti mengobrol saat jam tidur pk 22.00.

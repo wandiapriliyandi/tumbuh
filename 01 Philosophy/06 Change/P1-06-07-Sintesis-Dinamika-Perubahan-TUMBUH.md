@@ -19,7 +19,7 @@
 >   5. **P1-06-05 (Manajemen Resistensi Kultural):** Menghadapi penolakan dengan hikmah, memuliakan asatidz senior, dan menunjukkan bukti nyata (*Quick Wins*).  
 >   6. **P1-06-06 (Evaluasi Dampak Longitudinal):** Mengukur keberlanjutan adab santri melalui pelacakan cohort 3 tahun dan instrumen kepatuhan PBIS TFI $\ge 80\%$.
 > * **Puncak Sintesis Agung Domain 01 Philosophy (100% Selesai & Terpadu):**  
->   Menyatukan **Worldview** (Hakikat Realitas), **Human Nature** (Ontologi Fitrah), **Human Development** (Pertumbuhan Jiwa T1–T4), **Education** (Kurikulum Ta'dib), **Leadership** (Servant Leadership Qudwah), dan **Change** (Dinamika Perubahan Bi'ah Shalihah) menjadi satu bangunan filosofis yang kokoh dan tak tergoyahkan.
+>   Menyatukan **Worldview** (Hakikat Realitas), **Human Nature** (Ontologi Fitrah), **Human Development** (Pertumbuhan Jiwa J1–J4), **Education** (Kurikulum Ta'dib), **Leadership** (Servant Leadership Qudwah), dan **Change** (Dinamika Perubahan Bi'ah Shalihah) menjadi satu bangunan filosofis yang kokoh dan tak tergoyahkan.
 > * **Gerbang Menuju Domain 02: Principles:**  
 >   Seluruh fondasi filosofis di Domain 01 ini kini siap diturunkan (*Derivasi*) menjadi Prinsip-Prinsip Desain Kurikulum, Prinsip Pengasuhan Asrama, dan Prinsip Tata Kelola di **Domain 02: Principles**.
 
@@ -103,7 +103,7 @@ graph TD
         
         SD2["02 HUMAN NATURE (8 Berkas)<br/>Ontologi Fitrah, 4 Daya Jiwa, Dinamika Nafs, & Hak Asasi Santri."]
         
-        SD3["03 HUMAN DEVELOPMENT (8 Berkas)<br/>Trajektori Pertumbuhan Jiwa, Tangga T1–T4, CASEL SEL, & Puncak Tahap 7."]
+        SD3["03 HUMAN DEVELOPMENT (8 Berkas)<br/>Trajektori Pertumbuhan Jiwa, Jenjang J1–J4, CASEL SEL, & Puncak Tahap 7."]
         
         SD4["04 EDUCATION (8 Berkas)<br/>Falsafah Ta'dib, Relasi Murabbi, PBIS Restoratif, Anti-Feodalisme, & Ekologi 24 Jam."]
         
@@ -177,7 +177,7 @@ flowchart TD
     subgraph SiklusKeberlanjutanPeradaban["SIKLUS PENJAMINAN KEBERLANJUTAN PERADABAN PESANTREN"]
         AuditBudaya["1. ANNUAL BI'AH SHALIHAH & TFI AUDIT<br/>Audit komprehensif kepatuhan SOP PBIS ($\ge 80\%$) & indeks kebahagiaan santri."]
         
-        RefleksiTahunan["2. MAJELIS REFLEKSI TRANSFORMASI TAHUNAN<br/>Evaluasi pencapaian Tangga T1–T4 & penyelarasan program dengan data logbook digital."]
+        RefleksiTahunan["2. MAJELIS REFLEKSI TRANSFORMASI TAHUNAN<br/>Evaluasi pencapaian Jenjang J1–J4 & penyelarasan program dengan data logbook digital."]
         
         KaderisasiPendidik["3. REGENERASI & UPGRADING KADER ASATIDZ<br/>Pewarisan Falsafah TUMBUH kepada asatidz baru melalui Diklat Induksi Onboarding."]
         

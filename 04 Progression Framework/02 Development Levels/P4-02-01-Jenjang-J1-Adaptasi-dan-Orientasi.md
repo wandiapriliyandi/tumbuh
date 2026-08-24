@@ -1,4 +1,4 @@
-﻿# P4-02-01: Modul Operasional Tangga T1 (Adaptasi & Orientasi)
+﻿# P4-02-01: Modul Operasional Jenjang J1 (Adaptasi & Orientasi)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Spesifikasi Operasional Tangga T1
+## 1. Spesifikasi Operasional Jenjang J1
 
 * **Fokus Utama**: Penyesuaian Diri, Rasa Aman (*Psychological Safety*), Regulasi Emosi Transisi, & Kebiasaan Dasar.
 * **Tingkat Scaffolding Decay**: **80% Scaffolding** (Bimbingan Langsung Musyrif 24 Jam).
@@ -15,11 +15,11 @@
 
 ---
 
-## 2. Ekspektasi Perilaku & Indikator Capaian Tangga T1
+## 2. Ekspektasi Perilaku & Indikator Capaian Jenjang J1
 
 ```mermaid
 graph TD
-    T1_Expect["Ekspektasi Perilaku Santri Tangga T1"]
+    T1_Expect["Ekspektasi Perilaku Santri Jenjang J1"]
     T1_Expect --> Worship["1. Ibadah Dasar<br/>Mengikuti sholat berjamaah 5 waktu dengan pendampingan langsung musyrif."]
     T1_Expect --> Personal["2. Kebersihan Pribadi<br/>Mampu mandi, mencuci pakaian sederhana, & merapikan tempat tidur dengan bimbingan."]
     T1_Expect --> Academic["3. Orientasi Kelas<br/>Mengetahui lokasi kelas, membawa kitab yang dibutuhkan, & mematuhi tata tertib dasar."]

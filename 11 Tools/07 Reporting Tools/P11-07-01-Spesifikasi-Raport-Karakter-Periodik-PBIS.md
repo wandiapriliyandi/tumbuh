@@ -11,9 +11,9 @@
 
 ```markdown
 # RAPORT PERKEMBANGAN KARAKTER SANTRI (PBIS PERIODIK)
-Semester: Ganjil/Genap | TA: [YYYY/YYYY] | Nama Santri: [_______________] | Tangga Growth: [T1-T4]
+Semester: Ganjil/Genap | TA: [YYYY/YYYY] | Nama Santri: [_______________] | Tangga Growth: [J1-J4]
 
-## 1. Capaian 10 Muwashafat Karakter (Tingkat Kemandirian T1-T4)
+## 1. Capaian 10 Muwashafat Karakter (Tingkat Kemandirian J1-J4)
 - Salimul Aqidah: [T3] (Kemandirian Konsisten Sholat Masjid)
 - Shahihul Ibadah: [T3] (Fasih Wudhu & Menjaga Sunnah)
 - Matinul Khuluq: [T4] (Teladan Perilaku & Penengah Konflik Kamar)

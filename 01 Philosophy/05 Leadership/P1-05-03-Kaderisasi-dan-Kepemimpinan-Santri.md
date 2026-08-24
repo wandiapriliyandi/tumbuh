@@ -28,7 +28,7 @@
   - [2. Inkuiri 1: Eksegesis Turats Hakikat Ukhuwah Tanpa Kasta — QS. Al-Hujurat: 11–13 & Larangan Menakut-Nakuti Saudara (La Yahillu li Muslimin an Yuruwwi'a Musliman)](#2-inkuiri-1-eksegesis-turats-hakikat-ukhuwah-tanpa-kasta--qs-al-hujurat-1113--larangan-menakut-nakuti-saudara-la-yahillu-li-muslimin-an-yuruwwia-musliman)
   - [3. Inkuiri 2: Penarikan Mutlak Wewenang Yudisial/Hukuman dari Tangan Santri Senior](#3-inkuiri-2-penarikan-mutlak-wewenang-yudisialhukuman-dari-tangan-santri-senior)
   - [4. Inkuiri 3: Transformasi Organisasi Santri Menjadi Dewan Pelayan Santri (Khadim ath-Thullab / Duta Adab)](#4-inkuiri-3-transformasi-organisasi-santri-menjadi-dewan-pelayan-santri-khadim-ath-thullab--duta-adab)
-  - [5. Inkuiri 4: Kurikulum Kaderisasi Kepemimpinan Santri Tahap 7 Penggerak (Tangga TUMBUH)](#5-inkuiri-4-kurikulum-kaderisasi-kepemimpinan-santri-tahap-7-penggerak-tangga-tumbuh)
+  - [5. Inkuiri 4: Kurikulum Kaderisasi Kepemimpinan Santri Tahap 7 Penggerak (Jenjang Kemandirian TUMBUH (J1–J4))](#5-inkuiri-4-kurikulum-kaderisasi-kepemimpinan-santri-tahap-7-penggerak-tangga-tumbuh)
   - [6. Inkuiri 5: Implementasi Sistem Pendampingan Sebaya (Brotherhood / Sisterhood Mentorship)](#6-inkuiri-5-implementasi-sistem-pendampingan-sebaya-brotherhood--sisterhood-mentorship)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
@@ -144,7 +144,7 @@ graph LR
 
 ---
 
-### 5. Inkuiri 4: Kurikulum Kaderisasi Kepemimpinan Santri Tahap 7 Penggerak (Tangga TUMBUH)
+### 5. Inkuiri 4: Kurikulum Kaderisasi Kepemimpinan Santri Tahap 7 Penggerak (Jenjang Kemandirian TUMBUH (J1–J4))
 
 ```mermaid
 graph TD
@@ -331,7 +331,7 @@ flowchart TD
 
 1. **Khadim ath-Thullab (خَادِمُ الطُّلَّابِ)**: Gelar mulia bagi organisasi santri di ekosistem TUMBUH yang memposisikan pengurus sebagai dewan pelayan yang mengabdi demi kemaslahatan dan kenyamanan seluruh santri.
 2. **Duta Adab**: Santri teladan yang dilantik untuk memancarkan contoh pengamalan adab terdepan dan menjadi motor penggerak kebaikan di lingkungan asrama dan kelas.
-3. **Tahap 7 Penggerak**: Jenjang capaian adab tertinggi dalam Tangga TUMBUH (T1–T4) di mana santri telah matang secara spiritual dan sosial sehingga mampu menjadi mentor penggerak bagi sesamanya.
+3. **Tahap 7 Penggerak**: Jenjang capaian adab tertinggi dalam Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) di mana santri telah matang secara spiritual dan sosial sehingga mampu menjadi mentor penggerak bagi sesamanya.
 4. **Peer Mentorship (Mentoring Sahabat Sebaya)**: Metode pendampingan di mana santri senior membimbing santri junior dalam proses adaptasi sosial, peningkatan akademik, dan penguatan motivasi ibadah.
 5. **Zero Senior Punishment**: Ketetapan baku lembaga yang mengharamkan segala bentuk penjatuhan sanksi fisik atau verbal oleh santri senior kepada adik kelasnya.
 6. **Tyranny of the Peer Group**: Fenomena penyalahgunaan kekuasaan oleh kelompok sebaya/senior yang belum matang secara emosional untuk menindas kelompok yang lebih lemah.

@@ -18,7 +18,7 @@
 | **6** | **Modul Pelatihan Mentoring Suhbah 1-on-1 Ustadz-Santri** | Panduan Cetak & Video (30 Min) | Etika bimbingan konseling privat & menjaga rahasia santri di **Domain 08, 09**. |
 | **7** | **Simulasi Restitusi Perilaku & Pemulihan Ukhuwah (Ishlah)** | Video HD (28 Min) | Contoh dialog restitusi kompensasi perilaku santri di **Domain 06**. |
 | **8** | **Video Modul Habit Loop 66-Hari Shalat Berjamaah Mandiri** | Video Animasi (18 Min) | Penguatan siklus *Cue-Routine-Reward* pembiasaan adab di **Domain 10**. |
-| **9** | **Training Kit Santri Penggerak (Tangga T4 Peer Buddy)** | Panduan Cetak (40 Halaman) | Pembekalan kepemimpinan melayani bagi santri kelas 11-12 di **Domain 04**. |
+| **9** | **Training Kit Santri Penggerak (Jenjang J4 Peer Buddy)** | Panduan Cetak (40 Halaman) | Pembekalan kepemimpinan melayani bagi santri kelas 11-12 di **Domain 04**. |
 | **10** | **Video Simulasi FBA (Functional Behavior Assessment) Lapangan** | Video HD (32 Min) | Observasi & ekstraksi pemicu perilaku menyimpang santri di **Domain 06**. |
 | **11** | **Workshop Digital Safe School: Anti-Bullying Protocol** | Video HD (50 Min) | Pelatihan identifikasi perundungan & patroli titik rawan di **Domain 06, 07**. |
 | **12** | **Audio Dzikir Penenang & Manajemen Stress Musyrif** | Audio MP3 (20 Min) | Latihan kesadaran jiwa (*Tazkiyah*) pencegahan burnout di **Domain 01, 07**. |

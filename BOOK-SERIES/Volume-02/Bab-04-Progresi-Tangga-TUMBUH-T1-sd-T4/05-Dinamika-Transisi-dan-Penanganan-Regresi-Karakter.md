@@ -12,14 +12,14 @@
 Salah satu ilusi terbesar dalam evaluasi pendidikan karakter adalah asumsi keliru bahwa pertumbuhan moral santri bergerak secara linier lurus dari hari ke hari tanpa pernah mengalami kemunduran.
 
 Sains psikologi perkembangan dan konsensus PBIS membuktikan bahwa **pertumbuhan karakter manusia bersifat non-linier dan berfluktuasi**:
-* Seorang santri yang telah mencapai Tangga T2 atau T3 sewaktu-waktu dapat mengalami **Regresi Perilaku (*Behavioral Regression / Dip*)**: mendadak kembali malas bangun subuh, melanggar kerapian loker, atau tersulut amarah di bilik asrama.
+* Seorang santri yang telah mencapai Jenjang J2 atau T3 sewaktu-waktu dapat mengalami **Regresi Perilaku (*Behavioral Regression / Dip*)**: mendadak kembali malas bangun subuh, melanggar kerapian loker, atau tersulut amarah di bilik asrama.
 * Regresi ini kerap dipicu oleh faktor transisi lingkungan: pasca-liburan panjang pulang ke rumah (*post-holiday shock*), kelelahan fisik menjelang pekan ujian (*exam fatigue*), kabar duka keluarga, atau konflik relasi dengan kawan sekamar.
 
 ```mermaid
 graph TD
     subgraph TrajektoriNonLinier["TRAJEKTORI PERKEMBANGAN NON-LINIER & DETEKSI REGRESI"]
-        T1["Tangga T1: Adaptasi"] --> T2["Tangga T2: Habituasi"]
-        T2 --> T3["Tangga T3: Internalisasi"]
+        T1["Jenjang J1: Adaptasi"] --> T2["Jenjang J2: Habituasi"]
+        T2 --> T3["Jenjang J3: Internalisasi"]
         
         T3 -.->|"Pemicu Stres/Liburan"| Regresi["TITIK REGRESI SEMENTARA (BEHAVIORAL DIP)"]
         

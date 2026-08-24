@@ -69,7 +69,7 @@ Lampiran ini disusun sebagai **panduan cepat (*quick-reference guide*)** bagi pa
 | **SW-PBIS Multi-Tier** | *Positive Behavioral Interventions & Supports* | Kerangka pembinaan perilaku multi-lapis: Tier 1 (Universal 80-90% santri), Tier 2 (Pendampingan Terarah 10-15%), Tier 3 (Intervensi Khusus 1-5%). |
 | **Disiplin Restoratif 4R** | *Related, Respectful, Reasonable, Restorative* | Standar penegakan konsekuensi logis: wajib Terkait dengan pelanggaran, Santun, Masuk akal, dan Berorientasi pada pemulihan kerugian. |
 | **Rasio Apresiasi 4:1** | *Positive Reinforcement Ratio* | Kaidah interaksi harian: musyrif memberikan minimal 4 pengakuan kebaikan untuk setiap 1 koreksi kesalahan santri. |
-| **Tangga Kapasitas T1-T4** | Tangga Metamorfosis Adab | Jenjang penguasaan karakter santri: T1 (Tahu Adab), T2 (Mau Beradab), T3 (Mampu Mandiri), dan T4 (Teladan Penggerak). |
+| **Tangga Kapasitas J1-J4** | Tangga Metamorfosis Adab | Jenjang penguasaan karakter santri: T1 (Tahu Adab), T2 (Mau Beradab), T3 (Mampu Mandiri), dan T4 (Teladan Penggerak). |
 | **Tahap 7 Penggerak** | Puncak Karakter Santri | Santri yang telah mencapai kematangan aqidah, kecerdasan nalar, dan kehalusan budi pekerti, siap menjadi kader pemimpin umat (*Mushlih*). |
 | **Triad Pertumbuhan Simbiotik** | Triad Simbiotik Lembaga | Prinsip mutlak di mana 3 entitas bertumbuh serempak: Santri Tumbuh Fitrahnya, Guru/Musyrif Tumbuh Sejahtera (Anti-Burnout), dan Lembaga Tumbuh Berbasis Data. |
 | **Protokol Handover 15-Menit** | Sinkronisasi Dual-Pillar | SOP serah terima data perkembangan santri antara Musyrif Asrama dan Wali Kelas Madrasah pada pagi (06.45) dan sore hari (16.00 WIB). |

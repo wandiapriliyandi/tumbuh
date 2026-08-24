@@ -49,7 +49,7 @@
 ```mermaid
 graph TD
     D1["DOMAIN 01: PHILOSOPHY<br/>(Worldview, Human Nature, Development, Education, Leadership, & Change)"]
-    ==> D2_04["02.04 Development Principles (Neurosains Remaja, In Loco Parentis, Tangga T1–T4, & CASEL SEL)"]
+    ==> D2_04["02.04 Development Principles (Neurosains Remaja, In Loco Parentis, Jenjang J1–J4, & CASEL SEL)"]
     
     D2_04 ==> D2_05["02.05 Assessment Principles (Asesmen Autentik, Rubrik BARS, Triangulasi 360, Portofolio, & Feedback)"]
     
@@ -83,7 +83,7 @@ graph TD
 1. **Pilar 1: Asesmen Autentik & Observasi Alami (P2-05-01)**:  
    Menilai *Malakah Khuluqiyyah* (kebiasaan adab spontan) dalam ekologi asrama 24 jam melintasi 3 lokus utama (Ibadah, Komunal Asrama, dan Sosial-Akademik). Mengeliminasi total ujian kertas pilihan ganda akhlak.
 2. **Pilar 2: Rubrik Perilaku Objektif BARS (P2-05-02)**:  
-   Menegakkan neraca keadilan hisab (*Mizan al-'Adl*) dan kaidah *Al-Yaqinu la Yazulu bisy-Syakk*. Mengganti skala angka abstrak (1–5) dengan *Behaviorally Anchored Rating Scales (BARS)* 4 tingkat (T1–T4), mengeliminasi bias *Halo & Horn Effect*, dan mengunci reliabilitas inter-rater $\kappa \ge 0.80$.
+   Menegakkan neraca keadilan hisab (*Mizan al-'Adl*) dan kaidah *Al-Yaqinu la Yazulu bisy-Syakk*. Mengganti skala angka abstrak (1–5) dengan *Behaviorally Anchored Rating Scales (BARS)* 4 tingkat (J1–J4), mengeliminasi bias *Halo & Horn Effect*, dan mengunci reliabilitas inter-rater $\kappa \ge 0.80$.
 3. **Pilar 3: Triangulasi Data Multi-Sumber 360 Derajat (P2-05-03)**:  
    Menegakkan doktrin syariah *Tabayyun* (QS. Al-Hujurat: 6) dan mengharamkan vonis penilai tunggal. Memadukan 4 pilar data: Musyrif Asrama (35%), Guru Madrasah (35%), *Self-Assessment* Santri (15%), dan *Peer Feedback* Sahabat (15%).
 4. **Pilar 4: Portofolio Pertumbuhan Formatif (P2-05-04)**:  

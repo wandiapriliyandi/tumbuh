@@ -21,7 +21,7 @@ graph TD
 
 ---
 
-## 2. Progresi Tangga Kepemimpinan (T1–T4)
+## 2. Progresi Tangga Kepemimpinan (J1–J4)
 
 | Tangga Kepemimpinan | Fokus Organisasi / Peran | Lingkup Tanggung Jawab | Indikator Keberhasilan |
 | :--- | :--- | :--- | :--- |

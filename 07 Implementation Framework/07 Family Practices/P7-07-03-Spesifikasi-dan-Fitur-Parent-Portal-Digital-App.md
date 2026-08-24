@@ -14,7 +14,7 @@ Aplikasi Parent Portal dirancang untuk memberikan transparansi informasi perkemb
 ```mermaid
 graph TD
     ParentAppModules["4 Modul Utama Parent Portal App"]
-    ParentAppModules --> GrowthTracker["1. Growth & Character Progress Tracker<br/>Visualisasi Grafik Radar 10 Muwashafat, status Tangga T1-T4, & poin apresiasi PBIS."]
+    ParentAppModules --> GrowthTracker["1. Growth & Character Progress Tracker<br/>Visualisasi Grafik Radar 10 Muwashafat, status Jenjang J1–J4, & poin apresiasi PBIS."]
     ParentAppModules --> HafizTracker["2. Qur'an & Academic Progress Tracker<br/>Update harian capaian hafalan mutqin, sabaq baru, & rekapitulasi nilai KBM."]
     ParentAppModules --> DirectConsult["3. Direct Consultation Booking<br/>Fitur penjadwalan konseling online/offline bersama Musyrif Kamar & Konselor BK."]
     ParentAppModules --> ParentingFeeds["4. Parenting Edu-Feeds<br/>Artikel, video mini-lecture, & tips pengasuhan positif dari Dewan Keilmuan TUMBUH."]

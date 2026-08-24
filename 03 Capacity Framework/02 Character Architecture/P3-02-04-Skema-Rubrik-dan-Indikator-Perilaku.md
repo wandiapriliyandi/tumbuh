@@ -13,7 +13,7 @@
 > * **Kelemahan Penilaian Karakter Tradisional di Rapor Pesantren:**  
 >   Banyak rapor kepribadian hanya memberikan label angka abstrak (misal: "Akhlak: 85" atau "Adab: B") tanpa deskriptor perilaku konkret, sehingga memicu bias subjektivitas (*Like/Dislike Asatidz*) dan tidak memberikan panduan perbaikan bagi santri.
 > * **Inovasi Rubrik BARS (*Behaviorally Anchored Rating Scales*):**  
->   Setiap level pada Tangga TUMBUH (T1–T4) dijangkarkan pada **Deskriptor Tindakan Konkret Teramati (*Observable Behavioral Anchors*)**, misalnya: *"Merajut tali sepatu dan menata ranjang rapi standar 5S dalam waktu <3 menit tanpa diingatkan"* (T3).
+>   Setiap level pada Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) dijangkarkan pada **Deskriptor Tindakan Konkret Teramati (*Observable Behavioral Anchors*)**, misalnya: *"Merajut tali sepatu dan menata ranjang rapi standar 5S dalam waktu <3 menit tanpa diingatkan"* (T3).
 > * **Protokol Observasi Rendah Friksi (*Low-Friction Observation*):**  
 >   Pencatatan dilakukan secara *realtime* (<30 detik) melalui tombol cepat aplikasi PBIS, menjamin reliabilitas data tanpa membebani musyrif.
 
@@ -55,7 +55,7 @@ flowchart TD
     subgraph TransformasiRubrikTUMBUH["TRANSFORMASI SKEMA RUBRIK EVALUASI KARAKTER"]
         Tradisional["RUBRIK TRADISIONAL (SUBJEKTIF)<br/>• Nilai angka abstrak: 80, 85, 90.<br/>• Predikat kabur: 'Sangat Baik', 'Cukup'.<br/>• Rentan bias suka/tidak suka (Halo Effect)."]
         
-        BARS["RUBRIK BARS TUMBUH (OBJEKTIF & TERAMATI)<br/>• Level T1-T4 dijangkarkan pada tindakan nyata.<br/>• Contoh: 'Merapikan kasur & melipat selimut 5S dalam <3 menit'.<br/>• Adil, transparan, & reliabel lintas musyrif."]
+        BARS["RUBRIK BARS TUMBUH (OBJEKTIF & TERAMATI)<br/>• Level J1-J4 dijangkarkan pada tindakan nyata.<br/>• Contoh: 'Merapikan kasur & melipat selimut 5S dalam <3 menit'.<br/>• Adil, transparan, & reliabel lintas musyrif."]
         
         Tradisional ==>|DIREFORMASI SECARA ILMIAH MENJADI| BARS
     end
@@ -96,7 +96,7 @@ flowchart TD
     subgraph Mitigasi4BiasPsikometrik["STRATEGI MITIGASI 4 BIAS PENILAI MUSYRIF"]
         Halo["1. HALO EFFECT BIAS<br/>(Kesan positif di satu aspek membuat aspek lain dinilai bagus)<br/>-> Mitigasi: Penilaian modular per karakter terpisah."]
         
-        Central["2. CENTRAL TENDENCY BIAS<br/>(Musyrif cari aman memberi nilai rata-rata/tengah)<br/>-> Mitigasi: Skala genap 4 level Tangga T1-T4 (Forced Choice)."]
+        Central["2. CENTRAL TENDENCY BIAS<br/>(Musyrif cari aman memberi nilai rata-rata/tengah)<br/>-> Mitigasi: Skala genap 4 level Jenjang J1–J4 (Forced Choice)."]
         
         Leniency["3. LENIENCY / SEVERITY BIAS<br/>(Musyrif terlalu royal atau terlalu pelit nilai)<br/>-> Mitigasi: Standarisasi Deskriptor BARS konkret tanpa asumsi."]
         
@@ -126,11 +126,11 @@ flowchart TD
 * **Pihak A (Sudut Pandang Kerahasiaan Otoriter)**:  
   *"Catatan nilai adab harus dirahasiakan oleh asatidz agar santri tidak banyak protes!"*
 * **Resolusi Asesmen Formatif Edukatif**:  
-  Tujuan utama asesmen adalah pertumbuhan (*Assessment for Learning*). Ketika santri mengetahui deskriptor apa yang perlu ia capai untuk naik dari Tangga T2 ke T3, santri memiliki peta jalan yang jelas (*Self-Correction*) untuk memperbaiki dirinya secara mandiri.[^6]
+  Tujuan utama asesmen adalah pertumbuhan (*Assessment for Learning*). Ketika santri mengetahui deskriptor apa yang perlu ia capai untuk naik dari Jenjang J2 ke T3, santri memiliki peta jalan yang jelas (*Self-Correction*) untuk memperbaiki dirinya secara mandiri.[^6]
 
 > #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
 > * **Studi Kasus**: Musyrif X dan Musyrif Y berselisih mengenai Santri E. Musyrif X menganggap Santri E "anak nakal" karena sering berbicara lantang saat diskusi kamar, sedangkan Musyrif Y menganggap Santri E "anak cerdas dan kritis".
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Keduanya membuka Rubrik BARS Karakter *Matinul Khuluq* dan *Mutsaqqaful Fikr*: Terbukti Santri E memiliki nalar kritis mantiq (T3), namun adab intonasi bicaranya masih berada di Tangga T1 (perlu bimbingan volume suara). Musyrif X dan Y sepakat membimbing santri E menurunkan nada suara tanpa mematikan nalar kritisnya.[^7]
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Keduanya membuka Rubrik BARS Karakter *Matinul Khuluq* dan *Mutsaqqaful Fikr*: Terbukti Santri E memiliki nalar kritis mantiq (T3), namun adab intonasi bicaranya masih berada di Jenjang J1 (perlu bimbingan volume suara). Musyrif X dan Y sepakat membimbing santri E menurunkan nada suara tanpa mematikan nalar kritisnya.[^7]
 
 ---
 
@@ -145,7 +145,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 1. **Jangkar Perilaku Teramati (*Behavioral Anchors*)**:  
    Setiap indikator karakter dijabarkan menjadi perilaku fisik konkret yang dapat diverifikasi indera (mata/telinga pengamat) tanpa tafsir ganda.
 
-2. **Gradasi 4 Level Berbasis Tangga TUMBUH (T1–T4)**:  
+2. **Gradasi 4 Level Berbasis Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**:  
    Tingkat 1 (Kepatuhan Terbimbing / Perlu Bimbingan Erat), Tingkat 2 (Pembiasaan Konsisten / Mandiri Bersyarat), Tingkat 3 (Kemandirian Stabil / Muraqabah Otonom), dan Tingkat 4 (Penggerak Qudwah / Teladan & Pembimbing Sebaya).
 
 3. **Format Skala Paksa Genap (*Forced-Choice 4-Point Scale*)**:  
@@ -158,7 +158,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ### 2. Matriks Indikator & Deskriptor Perilaku Teramati (Observable Anchors) 10 Muwashafat
 
-| Karakter Muwashafat | Tangga T1: Kepatuhan Terbimbing | Tangga T2: Pembiasaan Konsisten | Tangga T3: Kemandirian Stabil | Tangga T4: Penggerak Qudwah |
+| Karakter Muwashafat | Jenjang J1: Kepatuhan Terbimbing | Jenjang J2: Pembiasaan Konsisten | Jenjang J3: Kemandirian Stabil | Jenjang J4: Penggerak Qudwah |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Salimul Aqidah** | Menghafal dalil tauhid; butuh diingatkan tidak percaya takhayul. | Berdoa harian sesuai sunnah; konsisten dzikir pagi/petang terjadwal. | Menolak syubhat & hoaks secara mandiri; muraqabah saat sendirian. | Mampu membantah syubhat pemikiran & membimbing adik kelas bertabayyun.[^8] |
 | **2. Shahihul Ibadah** | Shalat tepat waktu saat diawasi musyrif; wudhu masih tergesa-gesa. | Datang ke masjid sebelum adzan; shalat sunnah rawatib konsisten. | Shalat khusyuk di shaf awal; tahajjud mandiri tanpa dibangunkan. | Menjadi imam rawatib; mengajari adik kelas thaharah dan tajwid mutqin. |
@@ -201,7 +201,7 @@ flowchart TD
 | Dimensi Analisis | Fokus Temuan Riset | Rujukan Turats Primer | Konvergensi Sains Global | Implikasi Praksis Pesantren |
 | :--- | :--- | :--- | :--- | :--- |
 | **Keadilan Bayyinah** | Penilaian berbasis bukti nyata | HR. Al-Bukhari (*Kaidah Bayyinah*), QS. 17:36 | Smith & Kendall (1963), *BARS Methodology* | Mengganti nilai angka abstrak dengan rubrik BARS. |
-| **Mitigasi 4 Bias** | Menghilangkan subjektivitas | Kaidah *La Dharara wa La Dhirar*, Ihya' | Thorndike (1920), *A Constant Error in Ratings*| Menggunakan skala genap 4 level Tangga T1–T4. |
+| **Mitigasi 4 Bias** | Menghilangkan subjektivitas | Kaidah *La Dharara wa La Dhirar*, Ihya' | Thorndike (1920), *A Constant Error in Ratings*| Menggunakan skala genap 4 level Jenjang J1–J4. |
 | **Ergonomi Pencatatan**| Fast-logging tanpa beban musyrif | Kaidah *Yassiruu wa la Tu'assiruu* | Nielsen (1994), *Usability Engineering* | Desain antarmuka mobile PBIS selesai dalam <30 detik. |
 | **Umpan Balik Formatif**| Transparansi perbaikan diri | Atsar Umar RA (*Koreksi Diri Muhasabah*)| Hattie & Timperley (2007), *The Power of Feedback*| Dashboard santri menampilkan grafik capaian harian. |
 
@@ -232,7 +232,7 @@ flowchart TD
 [^6]: Hattie & Timperley (2007), *Review of Educational Research*, hlm. 81–112.  
 [^7]: Laporan Uji Coba Reliabilitas Antar-Penilai Rubrik BARS Pesantren TUMBUH, 2026.  
 [^8]: Panduan Rubrik BARS 10 Karakter Muwashafat Santri TUMBUH, Divisi Psikometri, 2026.  
-[^9]: Matriks Deskriptor Perilaku Teramati Tangga T1–T4, Pusat Asesmen Pesantren, 2026.  
+[^9]: Matriks Deskriptor Perilaku Teramati Jenjang J1–J4, Pusat Asesmen Pesantren, 2026.  
 [^10]: Standar Operasional Fast-Logging PBIS Musyrif Asrama, Biro Digitalisasi TUMBUH, 2026.
 
 ---
@@ -247,5 +247,5 @@ flowchart TD
 6. **Fast-Logging**: Metode penginputan data perilaku secara digital yang dirancang ergonomis sehingga selesai dalam waktu kurang dari 30 detik.
 7. **Bayyinah (بَيِّنَةٌ)**: Bukti nyata yang terang dan adil dalam hukum Islam yang digunakan untuk menetapkan suatu perkara atau evaluasi.
 8. **Criterion-Referenced Assessment**: Penilaian yang membandingkan performa peserta didik dengan standar kriteria mutlak, bukan membandingkannya dengan teman sekelas.
-9. **Tangga TUMBUH (T1–T4)**: Lintasan 4 tingkat kemandirian karakter yang menjadi jangkar penskalaan rubrik BARS.
+9. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Lintasan 4 tingkat kemandirian karakter yang menjadi jangkar penskalaan rubrik BARS.
 10. **Triad Pertumbuhan Simbiotik**: Maha-prinsip di mana keadilan rubrik BARS melindungi santri dari fitnah, mempermudah kerja musyrif, dan menjaga akuntabilitas lembaga.

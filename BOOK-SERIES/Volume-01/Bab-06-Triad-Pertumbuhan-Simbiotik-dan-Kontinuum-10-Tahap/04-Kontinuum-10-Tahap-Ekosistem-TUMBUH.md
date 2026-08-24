@@ -26,7 +26,7 @@ graph TD
             T2["Tahap 2: Adaptasi & Fondasi Rasa Aman (Hari 8-21)"]
             T3["Tahap 3: Habituasi & Disiplin Rutinitas (Hari 22-45)"]
             T4["Tahap 4: Internalisasi & Otomatisasi Nilai (Hari 46-66)"]
-            T1 --> T2 --> T3 --> T4
+            J1 --> J2 --> J3 --> J4
         end
 
         subgraph Fase2["FASE 2: PEMATANGAN KARAKTER & KEPEMIMPINAN (Bulan 3 s.d. Kelulusan)"]

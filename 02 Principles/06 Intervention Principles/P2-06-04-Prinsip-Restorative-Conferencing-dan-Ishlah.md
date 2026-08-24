@@ -232,7 +232,7 @@ flowchart TD
     
     T5["5. RITUAL PENUTUPAN ISHLAH & REINTEGRASI KAMAR<br/>Berjabat tangan tulus, doa kaffaratul majelis, & sambutan ukhuwah sekamar."]
     
-    T1 --> T2 --> T3 --> T4 --> T5
+    J1 --> J2 --> J3 --> J4 --> T5
 ```
 
 ---

@@ -11,13 +11,13 @@
 
 | Periode Pembinaan | Tangga Utama | Jumlah Santri Tier 1 (Universal - 80%) | Jumlah Santri Tier 2 (Targeted - 15%) | Jumlah Santri Tier 3 (Intensive - 5%) | Total Kepatuhan & Kelulusan |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **Tahun 1 (Kls 7 Sem 1)** | Tangga T1 (Adaptasi) | 80 Santri | 15 Santri (Homesick) | 5 Santri (Krisis Adaptasi) | 100% Terbimbing |
-| **Tahun 1 (Kls 7 Sem 2)** | Tangga T2 (Habituasi) | 85 Santri | 10 Santri (CICO) | 5 Santri (BK Support) | 100% Naik T2 |
-| **Tahun 2 (Kls 8 MTs)** | Tangga T2 $\rightarrow$ T3 | 88 Santri | 9 Santri (CICO SEL) | 3 Santri (FBA/BIP) | 100% Naik T3 |
-| **Tahun 3 (Kls 9 MTs)** | Tangga T3 (Internalisasi) | 92 Santri | 6 Santri (CICO) | 2 Santri (BK Support) | 100% Lulus MTs |
-| **Tahun 4 (Kls 10 MA)** | Tangga T3 $\rightarrow$ T4 | 94 Santri | 5 Santri (Peer Buddy) | 1 Santri (Regresi BIP) | 100% Aktif OSIS |
-| **Tahun 5 (Kls 11 MA)** | Tangga T4 (Kemandirian) | 96 Santri | 3 Santri (Peer Buddy) | 1 Santri (Re-Entry) | 100% Peer Buddy |
-| **Tahun 6 (Kls 12 MA)** | Tangga T4 (Qudwah) | 98 Santri | 2 Santri (Pendampingan) | 0 Santri | 100% Lulus MA |
+| **Tahun 1 (Kls 7 Sem 1)** | Jenjang J1 (Adaptasi) | 80 Santri | 15 Santri (Homesick) | 5 Santri (Krisis Adaptasi) | 100% Terbimbing |
+| **Tahun 1 (Kls 7 Sem 2)** | Jenjang J2 (Habituasi) | 85 Santri | 10 Santri (CICO) | 5 Santri (BK Support) | 100% Naik T2 |
+| **Tahun 2 (Kls 8 MTs)** | Jenjang J2 $\rightarrow$ T3 | 88 Santri | 9 Santri (CICO SEL) | 3 Santri (FBA/BIP) | 100% Naik T3 |
+| **Tahun 3 (Kls 9 MTs)** | Jenjang J3 (Internalisasi) | 92 Santri | 6 Santri (CICO) | 2 Santri (BK Support) | 100% Lulus MTs |
+| **Tahun 4 (Kls 10 MA)** | Jenjang J3 $\rightarrow$ T4 | 94 Santri | 5 Santri (Peer Buddy) | 1 Santri (Regresi BIP) | 100% Aktif OSIS |
+| **Tahun 5 (Kls 11 MA)** | Jenjang J4 (Kemandirian) | 96 Santri | 3 Santri (Peer Buddy) | 1 Santri (Re-Entry) | 100% Peer Buddy |
+| **Tahun 6 (Kls 12 MA)** | Jenjang J4 (Qudwah) | 98 Santri | 2 Santri (Pendampingan) | 0 Santri | 100% Lulus MA |
 | **Tahun 7 (Pengabdian)**| **Tahap 7 PENGGERAK** | **100 Santri Penggerak** | **0 Santri** | **0 Santri** | **100% Mengabdi** |
 
 ---

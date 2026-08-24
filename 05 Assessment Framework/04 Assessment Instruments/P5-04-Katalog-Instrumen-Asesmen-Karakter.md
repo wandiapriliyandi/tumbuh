@@ -31,6 +31,6 @@ graph TD
 | **INSTR-01** | Logbook Digital PBIS Musyrif | Musyrif Kamar / Asrama. | Harian (Real-time). |
 | **INSTR-02** | Kartu CICO (Check-In / Check-Out) | Santri Tier 2 & Musyrif Pendamping. | 2 Kali Sehari (Pagi & Sore). |
 | **INSTR-03** | Form Diagnostik FBA Restoratif | Tim Bimbingan Konseling (BK). | Sesuai Kasus Khusus. |
-| **INSTR-04** | Jurnal Mutabaah Mandiri Santri | Santri Individu (T1–T4). | Harian (Sebelum Tidur). |
+| **INSTR-04** | Jurnal Mutabaah Mandiri Santri | Santri Individu (J1–J4). | Harian (Sebelum Tidur). |
 | **INSTR-05** | Angket Keteladanan Qudwah Sebaya | Santri Seangkatan / Junior. | Per Semester. |
 | **INSTR-06** | Rubrik Portofolio 10 Muwashafat | Tim Pengasuhan & Wali Kelas. | Akhir Semester / Gateway. |

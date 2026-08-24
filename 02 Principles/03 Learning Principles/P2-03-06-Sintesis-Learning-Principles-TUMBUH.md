@@ -118,7 +118,7 @@ graph LR
     subgraph JembatanKeDevelopmentPrinciples["JEMBATAN STRATEGIS MENUJU SUB-DOMAIN 04"]
         Learning["03 LEARNING PRINCIPLES (KOGNISI & PEDAGOGI KELAS)<br/>Menetapkan prinsip arsitektur memori kerja, hafalan mutqin, SRL, asesmen formatif, & diferensiasi."]
         
-        Development["04 DEVELOPMENT PRINCIPLES (PERKEMBANGAN JIWA & FITRAH)<br/>Menetapkan prinsip tahapan maturasi fitrah, pembinaan adab remaja, regulasi emosi, & tangga T1–T4."]
+        Development["04 DEVELOPMENT PRINCIPLES (PERKEMBANGAN JIWA & FITRAH)<br/>Menetapkan prinsip tahapan maturasi fitrah, pembinaan adab remaja, regulasi emosi, & tangga J1–J4."]
         
         Learning ==>|MENJADI MOTOR INTELEKTUAL BAGI PERTUMBUHAN JIWA DI| Development
     end

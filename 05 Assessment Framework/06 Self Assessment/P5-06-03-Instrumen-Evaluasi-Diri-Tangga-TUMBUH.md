@@ -1,4 +1,4 @@
-﻿# P5-06-03: Instrumen Evaluasi Diri Tangga TUMBUH
+﻿# P5-06-03: Instrumen Evaluasi Diri Jenjang Kemandirian TUMBUH (J1–J4)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
@@ -7,13 +7,13 @@
 
 ---
 
-## 1. Konseptualisasi Self-Evaluation Tangga TUMBUH
+## 1. Konseptualisasi Self-Evaluation Jenjang Kemandirian TUMBUH (J1–J4)
 
-Pada setiap akhir bulan, santri mengisi **Form Evaluasi Diri Tangga TUMBUH** untuk menilai persepsi tingkat kemandirian adabnya melintasi Tangga T1 (Adaptasi), T2 (Habituasi), T3 (Internalisasi), dan T4 (Qudwah).
+Pada setiap akhir bulan, santri mengisi **Form Evaluasi Diri Jenjang Kemandirian TUMBUH (J1–J4)** untuk menilai persepsi tingkat kemandirian adabnya melintasi Jenjang J1 (Adaptasi), T2 (Habituasi), T3 (Internalisasi), dan T4 (Qudwah).
 
 ```mermaid
 graph TD
-    SelfLadder["Proses Self-Evaluation Tangga TUMBUH"]
+    SelfLadder["Proses Self-Evaluation Jenjang Kemandirian TUMBUH (J1–J4)"]
     SelfLadder --> Check["1. Penilaian Mandiri 10 Karakter Muwashafat<br/>Mengisi skala persepsi kemandirian (Skala 1-4)."]
     SelfLadder --> Align["2. Alignment Session bersama Musyrif<br/>Diskusi mencocokkan persepsi diri santri dengan data logbook musyrif."]
     SelfLadder --> Target["3. Penetapan Target Kenaikan Tangga<br/>Merumuskan aspek yang butuh penguatan untuk persiapan gateway transisi."]

@@ -164,7 +164,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 | :--- | :--- | :--- | :--- |
 | **Tipe 1: The Devout Bully (Rajin Ibadah, Suka Merundung)** | Shaf shalat terdepan, hafal Qur'an banyak, namun di kamar meremehkan & memaki teman. | *Ghaflah* (shalat mekanis); penyakit batin *Kibr* (merasa lebih suci); *Moral Disengagement*. | • Konseling tadabbur ayat pencegah fahsya' wa munkar.<br/>• Restitusi restoratif melayani santri korban.<br/>• Penugasan khidmah membersihkan asrama.[^9] |
 | **Tipe 2: The Secular Nice (Ramah Sosial, Malas Shalat)** | Sangat sopan, suka menolong, namun sering tidur saat subuh & enggan shalat berjamaah. | Ketiadaan kesadaran *Mitsaq Tauhid*; orientasi moral berbasis validasi sosial manusia (*Extrinsic*).| • Halaqah penguatan akidah & cinta Allah (*Mahabbah*).<br/>• Bimbingan fiqh thaharah & shalat khusyuk.<br/>• Musyrif mendampingi bangun subuh hangat. |
-| **Tipe 3: The Passive Compliant (Patuh Pasif, Kikir Khidmah)** | Shalat tertib, tidak pernah melanggar, namun sama sekali tidak peduli kebersihan fasilitas umum. | Motivasi sebatas *Self-Preservation*; belum memahami makna kepemimpinan khidmah umat. | • Pendelegasian tanggung jawab piket kelompok.<br/>• Pelatihan empati sosial & proyek bakti masyarakat.<br/>• Integrasi ke Tangga T3 & T4. |
+| **Tipe 3: The Passive Compliant (Patuh Pasif, Kikir Khidmah)** | Shalat tertib, tidak pernah melanggar, namun sama sekali tidak peduli kebersihan fasilitas umum. | Motivasi sebatas *Self-Preservation*; belum memahami makna kepemimpinan khidmah umat. | • Pendelegasian tanggung jawab piket kelompok.<br/>• Pelatihan empati sosial & proyek bakti masyarakat.<br/>• Integrasi ke Jenjang J3 & T4. |
 
 ---
 

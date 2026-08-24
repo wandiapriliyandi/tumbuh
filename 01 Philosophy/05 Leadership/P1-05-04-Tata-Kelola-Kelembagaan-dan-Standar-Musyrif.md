@@ -242,7 +242,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 | Pilar Kompetensi | Definisi Standar Kemampuan | Indikator Kinerja Utama (*KPI*) Musyrif |
 | :--- | :--- | :--- |
-| **1. Pedagogis Ta'dib** | Mampu memandu pembiasaan adab, mengajarkan tajwid/tahsin, dan menyusun modul refleksi kamar. | 100% santri kamar mencapai target Tangga T1–T4 sesuai usianya.[^9] |
+| **1. Pedagogis Ta'dib** | Mampu memandu pembiasaan adab, mengajarkan tajwid/tahsin, dan menyusun modul refleksi kamar. | 100% santri kamar mencapai target Jenjang J1–J4 sesuai usianya.[^9] |
 | **2. Kepribadian Qudwah** | Memiliki integritas akhlak, sabar, tidak merokok, dan istiqamah shalat berjamaah di shaf pertama. | Nihil catatan pelanggaran etika dan kepatutan moral asatidz. |
 | **3. Sosial Restoratif** | Menguasai teknik de-eskalasi amarah santri, memfasilitasi ishlah kamar, dan memahami PBIS. | Kasus perselisihan kamar diselesaikan secara damai tanpa hukuman fisik.[^10] |
 | **4. Profesional Pengasuhan** | Menguasai P3K dasar, tanggap darurat medis santri, sanitasi kamar, dan disiplin logbook digital. | Catatan rekam kesehatan dan pertumbuhan santri terisi rapi harian.[^11] |
@@ -331,7 +331,7 @@ flowchart TD
 [^6]: Senge, P. M. (1990), *The Fifth Discipline*, Doubleday, hlm. 140–160.  
 [^7]: Asy-Syarbini, *Mughni al-Muhtaj*, Kitab *al-Waqf*, Jilid II, hlm. 385–392.  
 [^8]: Notulensi Rapat Harmonisasi Tata Kelola 24 Jam, Majelis Mudir Pesantren TUMBUH, 2026.  
-[^9]: Matriks Capaian Adab Kamar Tangga T1–T4, Divisi Kepengasuhan TUMBUH, 2026.  
+[^9]: Matriks Capaian Adab Kamar Jenjang J1–J4, Divisi Kepengasuhan TUMBUH, 2026.  
 [^10]: Manual Standar Mediasi Musyrif PBIS, Pusat Bimbingan Konseling TUMBUH, 2026.  
 [^11]: Standar Operasional Sanitasi dan Logbook Asrama, Badan Penjaminan Mutu TUMBUH, 2026.
 

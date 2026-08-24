@@ -29,7 +29,7 @@
   - [4. Inkuiri 3: Konvergensi Teori Habit Formation 66-Hari & Kaizen Micro-Habits](#4-inkuiri-3-konvergensi-teori-habit-formation-66-hari--kaizen-micro-habits)
   - [5. Inkuiri 4: Doktrin Tasawuf "Al-Istiqamatu A'zhamu Karamah" & Amal Sedikit Berkelanjutan (Adwamuha wa In Qalla)](#5-inkuiri-4-doktrin-tasawuf-al-istiqamatu-azhamu-karamah--amal-sedikit-berkelanjutan-adwamuha-wa-in-qalla)
   - [6. Inkuiri 5: Manajemen Fase Kelesuan (Futuwr) Santri Tanpa Hukuman Represif](#6-inkuiri-5-manajemen-fase-kelesuan-futuwr-santri-tanpa-hukuman-represif)
-  - [7. Inkuiri 6: Translasi Tadarruj-Istiqamah ke Arsitektur Kurikulum Tangga TUMBUH (T1–T4)](#7-inkuiri-6-translasi-tadarruj-istiqamah-ke-arsitektur-kurikulum-tangga-tumbuh-t1t4)
+  - [7. Inkuiri 6: Translasi Tadarruj-Istiqamah ke Arsitektur Kurikulum Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)](#7-inkuiri-6-translasi-tadarruj-istiqamah-ke-arsitektur-kurikulum-tangga-tumbuh-t1t4)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Prinsip Tadarruj dan Istiqamah](#1-formulasi-konseptual-prinsip-tadarruj-dan-istiqamah)
   - [2. Matriks Aplikasi Tadarruj-Istiqamah dalam Tiga Fase Kehidupan Asrama](#2-matriks-aplikasi-tadarruj-istiqamah-dalam-tiga-fase-kehidupan-asrama)
@@ -315,7 +315,7 @@ $$\text{إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِ
 
 ---
 
-### 7. Inkuiri 6: Translasi Tadarruj-Istiqamah ke Arsitektur Kurikulum Tangga TUMBUH (T1–T4)
+### 7. Inkuiri 6: Translasi Tadarruj-Istiqamah ke Arsitektur Kurikulum Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)
 
 ```mermaid
 flowchart TD
@@ -324,20 +324,20 @@ flowchart TD
     B1 --> B2["Tahap T2: Tadrib (Pembiasaan Terbimbing / Bulan 4-12)<br/>Fokus: Shalat berjamaah 5 waktu, mufradat dasar, & kemandirian mencuci."]
     B2 --> B3["Tahap T3: Tafahum (Internalisasi Nilai / Tahun ke-2)<br/>Fokus: Pemahaman dalil syar'i adab, qiyamul lail mandiri, & kontrol emosi."]
     B3 --> B4["Tahap T4: Tahwil (Transformasi Qudwah / Tahun ke-3+)<br/>Fokus: Adab otonom melekat, menjadi mentor sebaya (Tahap 7 Penggerak)."]
-    B4 --> C["Titik Temu Konsensus:<br/>Tangga TUMBUH T1-T4 menjamin pertumbuhan karakter yang bertahap, kokoh, & istiqamah."]
+    B4 --> C["Titik Temu Konsensus:<br/>Jenjang Kemandirian TUMBUH (J1–J4) J1-J4 menjamin pertumbuhan karakter yang bertahap, kokoh, & istiqamah."]
 ```
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 6*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap arsitektur kurikulum karakter yang memetakan capaian pembelajaran adab (*Adab Learning Outcomes*) secara bertahap kontinuum dari level pemula konseptual hingga level penggerak mandiri niscaya menjamin terciptanya profil lulusan *Insan Kamil* yang kokoh istiqamah.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Tangga TUMBUH menyusun lintasan pembinaan santri melalui 4 tangga bertahap (T1 Ta'aruf $\rightarrow$ T2 Tadrib $\rightarrow$ T3 Tafahum $\rightarrow$ T4 Tahwil).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh pengasuhan asrama dan madrasah TUMBUH wajib berpedoman pada lintasan Tangga TUMBUH T1–T4.[^34]
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Jenjang Kemandirian TUMBUH (J1–J4) menyusun lintasan pembinaan santri melalui 4 tangga bertahap (T1 Ta'aruf $\rightarrow$ T2 Tadrib $\rightarrow$ T3 Tafahum $\rightarrow$ T4 Tahwil).
+* **Konklusi (*an-Natijah*)**: Maka, seluruh pengasuhan asrama dan madrasah TUMBUH wajib berpedoman pada lintasan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4.[^34]
 
-#### 🥊 Ronde 1: Membedah Capaian Pembelajaran Adab Tangga T1 sampai T4
+#### 🥊 Ronde 1: Membedah Capaian Pembelajaran Adab Jenjang J1 sampai T4
 * **Tinjauan Taksonomi Adab Berbasis Fitrah**:  
-  * **Tangga T1 (Ta'aruf - Masa Pengenalan & Adaptasi)**: Indikator: Santri merasa aman, tidak menangis rindu rumah, mengenal nama teman sekamar, dan tertib shalat 5 waktu.  
-  * **Tangga T2 (Tadrib - Masa Pembiasaan Disiplin)**: Indikator: Santri mampu merapikan kasur tanpa disuruh, antre makan dengan tertib, dan menyetorkan hafalan harian stabil.  
-  * **Tangga T3 (Tafahum - Masa Pemahaman Filosofis)**: Indikator: Santri paham dalil di balik setiap adab, mampu meregulasi amarah secara mandiri, dan aktif membantu teman yang kesulitan.  
-  * **Tangga T4 (Tahwil - Masa Transformasi Karakter)**: Indikator: Santri menjadi teladan (*Qudwah*) bagi adik kelas, mandiri berdzikir dan tahajjud, serta berkhidmah memimpin ketertiban asrama.[^35]
+  * **Jenjang J1 (Ta'aruf - Masa Pengenalan & Adaptasi)**: Indikator: Santri merasa aman, tidak menangis rindu rumah, mengenal nama teman sekamar, dan tertib shalat 5 waktu.  
+  * **Jenjang J2 (Tadrib - Masa Pembiasaan Disiplin)**: Indikator: Santri mampu merapikan kasur tanpa disuruh, antre makan dengan tertib, dan menyetorkan hafalan harian stabil.  
+  * **Jenjang J3 (Tafahum - Masa Pemahaman Filosofis)**: Indikator: Santri paham dalil di balik setiap adab, mampu meregulasi amarah secara mandiri, dan aktif membantu teman yang kesulitan.  
+  * **Jenjang J4 (Tahwil - Masa Transformasi Karakter)**: Indikator: Santri menjadi teladan (*Qudwah*) bagi adik kelas, mandiri berdzikir dan tahajjud, serta berkhidmah memimpin ketertiban asrama.[^35]
 
 #### 🥊 Ronde 2: Sanggahan Balik Evaluasi Ipsatif: Mengukur Kemajuan Diri Sendiri Bukan Dibandingkan Teman
 * **Pihak A (Sudut Pandang Perankingan Klasikal)**:  
@@ -347,12 +347,12 @@ flowchart TD
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Santri Sebagai Duta Adab Penggerak (Tahap 7)
 * **Pihak A (Sudut Pandang Senioritas Lama)**:  
-  *"Bagaimana memberdayakan santri Tangga T4 agar tidak menjadi senior yang otoriter?"*
+  *"Bagaimana memberdayakan santri Jenjang J4 agar tidak menjadi senior yang otoriter?"*
 * **Resolusi Sudut Pandang Tahap 7 Penggerak (Servant Leaders)**:  
-  Santri Tangga T4 dilantik menjadi **Duta Adab & Fasilitator Sebaya**: Tugas mereka bukan menghukum adik kelas, melainkan mendampingi adik kelas baru di Tangga T1 belajar mencuci baju, menyimak hafalan Al-Qur'an adik kelas, dan memberikan keteladanan akhlak mulia. Senioritas berubah menjadi persaudaraan penuh berkah.[^37]
+  Santri Jenjang J4 dilantik menjadi **Duta Adab & Fasilitator Sebaya**: Tugas mereka bukan menghukum adik kelas, melainkan mendampingi adik kelas baru di Jenjang J1 belajar mencuci baju, menyimak hafalan Al-Qur'an adik kelas, dan memberikan keteladanan akhlak mulia. Senioritas berubah menjadi persaudaraan penuh berkah.[^37]
 
 > #### 📌 Kasuistika Lapangan 6 & Titik Temu Konsensus
-> * **Studi Kasus**: Santri kelas 3 Aliyah yang telah mencapai Tangga T4 dengan sukarela membimbing santri baru kelas 1 MTs yang mengalami kesulitan membaca Al-Qur'an setiap ba'da Ashar.
+> * **Studi Kasus**: Santri kelas 3 Aliyah yang telah mencapai Jenjang J4 dengan sukarela membimbing santri baru kelas 1 MTs yang mengalami kesulitan membaca Al-Qur'an setiap ba'da Ashar.
 > * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pemandangan indah terwujudnya Bi'ah Shalihah di mana santri senior menjadi murabbi cilik yang menebarkan kasih sayang dan membimbing adik kelasnya bertumbuh bersama.[^38]
 
 ---
@@ -376,7 +376,7 @@ Ekosistem TUMBUH menetapkan deklarasi resmi metodologi pembinaan:
 ```mermaid
 graph LR
     subgraph MatriksTigaFaseAsrama["MATRIKS APLIKASI TADARRUJ-ISTIQAMAH ASRAMA"]
-        F1["1. FASE T1: ADAPTASI (Bln 1-3)<br/>• Target Micro-Habits<br/>• Pendampingan Penuh Kasih<br/>• Bangun Tepat Waktu Shubuh"]
+        F1["1. FASE J1: ADAPTASI (Bln 1-3)<br/>• Target Micro-Habits<br/>• Pendampingan Penuh Kasih<br/>• Bangun Tepat Waktu Shubuh"]
         F2["2. FASE T2-T3: PEMBIASAAN (Bln 4-12)<br/>• Rutinitas Shalat Rawatib<br/>• Ziyadah Hafalan Stabil<br/>• Mandiri Rawat Kamar"]
         F3["3. FASE T4: ISTIQAMAH (Thn 2+)<br/>• Qiyamul Lail Mandiri<br/>• Muraja'ah Stabil 1 Juz/Hari<br/>• Khidmah Duta Adab Qudwah"]
     end
@@ -431,7 +431,7 @@ flowchart TD
 | **3** | **Inkuiri 3**: Teori Habit 66-Hari & Kaizen | **Landasan Ilmiah**: Neuroplastisitas Otak | Membuktikan otomatisasi kebiasaan adab di *Basal Ganglia* butuh 66 hari dan kaidah perbaikan 1%. |
 | **4** | **Inkuiri 4**: Al-Istiqamatu A'zhamu Karamah | **Puncak Adab**: Adwamuha wa In Qalla | Menetapkan amalan sedikit yang rutin jauh lebih mulia daripada ibadah ekstrem yang berujung *burnout*. |
 | **5** | **Inkuiri 5**: Manajemen Fase Futuwr | **Protokol Pemulihan**: Deload Phase | Mengharamkan hukuman bagi santri jenuh; menerapkan jeda restoratif dan dialog tafakkur niat. |
-| **6** | **Inkuiri 6**: Desain Tangga TUMBUH T1–T4 | **Roadmap Karakter**: Asesmen Ipsatif | Memetakan capaian adab dari Ta'aruf hingga Tahwil dan memberdayakan santri senior sebagai Duta Adab. |
+| **6** | **Inkuiri 6**: Desain Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 | **Roadmap Karakter**: Asesmen Ipsatif | Memetakan capaian adab dari Ta'aruf hingga Tahwil dan memberdayakan santri senior sebagai Duta Adab. |
 
 ---
 
@@ -510,7 +510,7 @@ flowchart TD
 | 6 | **Habit Automaticity (66-Hari)**| Neurosains Kognitif (P. Lally) | Proses pemindahan kendali tindakan dari otak sadar (*Prefrontal Cortex*) menuju sirkuit otomatis (*Basal Ganglia*) yang rata-rata membutuhkan 66 hari. |
 | 7 | **Micro-Habits (Kaizen)** | Manajemen Perilaku (James Clear) | Pembiasaan target-target kecil yang sangat mudah dilakukan (perbaikan 1% setiap hari) yang melipatgandakan lompatan hasil jangka panjang. |
 | 8 | **The Two-Day Rule** | Kaidah Pembentukan Kebiasaan | Prinsip bahwa khilaf atau bolong melakukan kebiasaan adab 1 hari tidak merusak sirkuit otak, asalkan tidak dibiarkan terulang dua hari berturut-turut. |
-| 9 | **Tangga TUMBUH (T1–T4)** | Taksonomi Adab Ekosistem TUMBUH | Empat jenjang pertumbuhan santri: T1 Ta'aruf (Adaptasi), T2 Tadrib (Pembiasaan), T3 Tafahum (Internalisasi), dan T4 Tahwil (Transformasi Qudwah). |
-| 10 | **Tahap 7 Penggerak** | Kepemimpinan Santri Bebas Feodal| Maqam santri senior Tangga T4 yang berkhidmah menjadi teladan, konselor sebaya, dan pembimbing adik kelas tanpa kekerasan (*Servant Leaders*). |
+| 9 | **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)** | Taksonomi Adab Ekosistem TUMBUH | Empat jenjang pertumbuhan santri: T1 Ta'aruf (Adaptasi), T2 Tadrib (Pembiasaan), T3 Tafahum (Internalisasi), dan T4 Tahwil (Transformasi Qudwah). |
+| 10 | **Tahap 7 Penggerak** | Kepemimpinan Santri Bebas Feodal| Maqam santri senior Jenjang J4 yang berkhidmah menjadi teladan, konselor sebaya, dan pembimbing adik kelas tanpa kekerasan (*Servant Leaders*). |
 | 11 | **Asesmen Ipsatif** | Psikometri Pendidikan | Pengukuran perkembangan karakter yang membandingkan performa santri hari ini dengan dirinya sendiri di masa lalu, bukan merangkingnya dengan santri lain. |
 | 12 | **Deload Phase** | Sains Pemulihan Kognitif | Fase pengurangan beban belajar/target sementara selama beberapa hari untuk memulihkan energi sistem saraf dan mencegah burnout permanen. |

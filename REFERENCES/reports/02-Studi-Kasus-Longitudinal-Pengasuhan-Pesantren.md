@@ -26,7 +26,7 @@
 | **14** | Studi Vokasional Pesantren| *Program Khidmah Keumatan dan Kemandirian Ekonomi Santri Penggerak.* | 2024 | Keterampilan vokasional meningkatkan kesiapan pengabdian. |
 | **15** | Audit Zero Violence | *Evaluasi 100% Eliminasi Hukuman Fisik di Environment Pesantren.* | 2025 | Pembuktian pesantren bebas kekerasan dapat tetap memiliki kedisiplinan tinggi. |
 | **16** | Tim Riset Pengasuhan | *Studi Kasus Penanganan Konflik Antar-Kamar Melalui Group Restorative Circle.* | 2024 | 100% perselisihan selesai dengan pemulihan ukhuwah tanpa pengeluaran. |
-| **17** | Pusat Psikometri | *Evaluasi Longitudinal Tangga T1 s/d T4 pada Cohort Santri MTs-MA.* | 2025 | Progresi bertahap mencegah ekspektasi kesempurnaan instan. |
+| **17** | Pusat Psikometri | *Evaluasi Longitudinal Jenjang J1 s/d J4 pada Cohort Santri MTs-MA.* | 2025 | Progresi bertahap mencegah ekspektasi kesempurnaan instan. |
 | **18** | Konsorsium BK Pesantren | *Efektivitas Konseling CBT-Naratif Islami Terhadap De-eskalasi Krisis Tier 3.* | 2024 | Konseling naratif restoratif menuntaskan trauma santri. |
 | **19** | Badan Litbang Kemenag | *Model Kepemimpinan Terpadu 24-Jam: Menghilangkan Sekat Madrasah-Asrama.* | 2023 | Kesinambungan pengasuhan 24 jam meningkatkan kedisiplinan 45%. |
 | **20** | Tim Evaluasi Vokasional | *Analisis Dampak Tradisi Mayoran & Khidmah Terhadap Kohesi Sosial Santri.* | 2024 | Mayoran dan khidmah mendongkrak rasa ukhuwah & kebersamaan. |
@@ -49,4 +49,4 @@
 | **37** | Lembaga Survei Alumni | *Lacak Jejak Resiliensi Alumni Pesantren di Perguruan Tinggi Negeri.* | 2025 | Alumni pesantren memiliki IPK & indeks resiliensi emosional lebih tinggi. |
 | **38** | Tim Riset Pengasuhan | *Studi Dampak Program Mayoran Kamar Terhadap Penguatan Ukhuwah.* | 2023 | Tradisi makan bersama menghilangkan sekat sosial antar-santri. |
 | **39** | Pusat Studi Kebijakan | *Evaluasi Efisiensi Biaya Operasional Sistem Pengasuhan PBIS Multi-Tier.* | 2024 | Pencegahan krisis menghemat biaya operasional penanganan kasus 60%. |
-| **40** | Audit Mutu Kelembagaan | *Laporan Akhir Evaluasi Longitudinal Cohort 100 Santri (Tahun 1 - Tahun 10).*| 2026 | Pembuktian keberhasilan progresi penuh Tangga T1 hingga Tahap 7 Penggerak. |
+| **40** | Audit Mutu Kelembagaan | *Laporan Akhir Evaluasi Longitudinal Cohort 100 Santri (Tahun 1 - Tahun 10).*| 2026 | Pembuktian keberhasilan progresi penuh Jenjang J1 hingga Tahap 7 Penggerak. |

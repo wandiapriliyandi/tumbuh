@@ -160,7 +160,7 @@ $$\text{إِنَّ الْحَقَّ لَا يُضَادُّ الْحَقَّ، �
 * **Pihak A (Sudut Pandang Audit Metodologi)**:  
   *"Apakah memberi toleransi adaptasi bertahap pada santri baru tidak merusak akurasi pencatatan pelanggaran di logbook PBIS?"*
 * **Tinjauan Sudut Pandang Penyesuaian Baseline Data**:  
-  Sistem PBIS **Menyesuaikan Kriteria Ambang Batas (*Baseline Rubric*) Berdasarkan Fase Tangga Santri (T1 hingga T4)**. Pada santri Tangga T1 (bulan 1–3), logbook berfokus mencatat adaptasi dasar dan memaafkan kekurangpahaman; pada santri Tangga T4, kriteria kemandirian adab ditingkatkan penuh. Data mencerminkan realitas perkembangan yang adil.[^10]
+  Sistem PBIS **Menyesuaikan Kriteria Ambang Batas (*Baseline Rubric*) Berdasarkan Fase Tangga Santri (T1 hingga T4)**. Pada santri Jenjang J1 (bulan 1–3), logbook berfokus mencatat adaptasi dasar dan memaafkan kekurangpahaman; pada santri Jenjang J4, kriteria kemandirian adab ditingkatkan penuh. Data mencerminkan realitas perkembangan yang adil.[^10]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Deklarasi Bebas Kontradiksi Resmi
 * **Pihak A (Sudut Pandang Verifikasi Akhir)**:  
@@ -272,7 +272,7 @@ flowchart TD
     
     Core ==> SD03["03 LEARNING PRINCIPLES (P2-03)<br/>Prinsip Kognisi Belajar, Retensi Hafalan Ebbinghaus, Metakognisi, & Sorogan"]
     
-    Core ==> SD04["04 DEVELOPMENT PRINCIPLES (P2-04)<br/>Prinsip Psikologi Remaja, CASEL SEL, Neuroplastisitas, & Tangga T1-T4"]
+    Core ==> SD04["04 DEVELOPMENT PRINCIPLES (P2-04)<br/>Prinsip Psikologi Remaja, CASEL SEL, Neuroplastisitas, & Jenjang J1–J4"]
     
     Core ==> SD05["05 ASSESSMENT PRINCIPLES (P2-05)<br/>Prinsip Asesmen Ipsatif, Validasi Rubrik PBIS, & Portofolio Karakter"]
     
@@ -293,7 +293,7 @@ flowchart TD
   3. **Prinsip Qudwah-First** $\rightarrow$ Menjadi dasar Sub-Domain `03 Learning Principles` (Didaktik Sorogan Interaktif & Kredibilitas Guru).  
   4. **Prinsip Firm & Kind** $\rightarrow$ Menjadi dasar Sub-Domain `06 Intervention Principles` (Protokol De-eskalasi Krisis).  
   5. **Prinsip Multi-Tier PBIS** $\rightarrow$ Menjadi dasar Sub-Domain `05 Assessment Principles` & `06 Intervention Principles` (Logbook Digital).  
-  6. **Prinsip Tadarruj-Istiqamah** $\rightarrow$ Menjadi dasar Sub-Domain `04 Development Principles` (Tangga TUMBUH T1–T4 & CASEL SEL).[^25]
+  6. **Prinsip Tadarruj-Istiqamah** $\rightarrow$ Menjadi dasar Sub-Domain `04 Development Principles` (Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 & CASEL SEL).[^25]
 
 #### 🥊 Ronde 2: Sanggahan Balik Apakah Sub-Domain Lanjutan Boleh Membuat Aturan Sendiri?
 * **Pihak A (Sudut Pandang Otonomi Sub-Domain)**:  
@@ -362,7 +362,7 @@ graph LR
         CP3["3. QUDWAH-FIRST<br/>Dalil: QS. 61:2-3 & Lisanul Hal<br/>Sains: Mirror Neurons & Bandura<br/>Praksis: Shaf 1 & Kawasan Bebas Rokok"]
         CP4["4. FIRM & KIND<br/>Dalil: HR. Muslim 2594 (Ar-Rifq)<br/>Sains: Baumrind & Positive Discipline<br/>Praksis: Connection Before Correction"]
         CP5["5. MULTI-TIER PBIS<br/>Dalil: QS. 49:6 (Tabayyun)<br/>Sains: Sugai & Horner (SW-PBIS)<br/>Praksis: Dashboard Data 4W 1H"]
-        CP6["6. TADARRUJ-ISTIQAMAH<br/>Dalil: QS. 25:32 & HR. Bukhari 6464<br/>Sains: Lally 66-Hari & Atomic Habits<br/>Praksis: Tangga T1-T4 & Bintang 40-Hari"]
+        CP6["6. TADARRUJ-ISTIQAMAH<br/>Dalil: QS. 25:32 & HR. Bukhari 6464<br/>Sains: Lally 66-Hari & Atomic Habits<br/>Praksis: Jenjang J1–J4 & Bintang 40-Hari"]
     end
 ```
 
@@ -373,7 +373,7 @@ graph LR
 | **3** | **Keteladanan Qudwah-First** | QS. Ash-Shaff: 2–3, Kaidah *Lisanul Hal Afshahu*. | *Mirror Neuron System* (Rizzolatti) & *Social Learning* (Bandura). | Asatidz hadir shaf 1, kawasan 100% bebas rokok, & survei evaluasi santri.[^33] |
 | **4** | **Disiplin Firm and Kind** | HR. Muslim no. 2594 (*Innar Rifqa La Yakunu...*). | *Authoritative Parenting* (Baumrind) & *Positive Discipline* (Nelsen). | Tegas aturan syariat + santun nada bicara & konsekuensi logis 4R.[^34] |
 | **5** | **Multi-Tier PBIS Berbasis Data** | QS. Al-Hujurat: 6 (Perintah Tabayyun Faktual). | *School-Wide PBIS* (Sugai & Horner) & *FBA/BIP Framework*. | Intervensi berjenjang Piramida 80-15-5 via Dashboard Logbook Digital.[^35] |
-| **6** | **Tadarruj dan Istiqamah** | QS. Al-Furqan: 32 & HR. Bukhari no. 6464. | *Habit Formation 66-Hari* (Lally) & *Atomic Habits* (Clear). | Pentahapan Tangga T1–T4, apresiasi Bintang Istiqamah, & penanganan futuwr.[^36] |
+| **6** | **Tadarruj dan Istiqamah** | QS. Al-Furqan: 32 & HR. Bukhari no. 6464. | *Habit Formation 66-Hari* (Lally) & *Atomic Habits* (Clear). | Pentahapan Jenjang J1–J4, apresiasi Bintang Istiqamah, & penanganan futuwr.[^36] |
 
 ---
 
@@ -385,7 +385,7 @@ graph TD
     
     CP --> D02["02 DESIGN PRINCIPLES: Rekayasa Arsitektur Fisik, Tata Ruang Bebas Hotspots, & Tim Pengasuhan Dual-Pillar"]
     CP --> D03["03 LEARNING PRINCIPLES: Psikologi Kognisi Belajar, Retensi Hafalan Ebbinghaus, & Didaktik Sorogan Interaktif"]
-    CP --> D04["04 DEVELOPMENT PRINCIPLES: Psikologi Remaja, 5 Kompetensi CASEL SEL, & Progresi Tangga TUMBUH T1-T4"]
+    CP --> D04["04 DEVELOPMENT PRINCIPLES: Psikologi Remaja, 5 Kompetensi CASEL SEL, & Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1-J4"]
     CP --> D05["05 ASSESSMENT PRINCIPLES: Asesmen Pertumbuhan Ipsatif, Validasi Psikometrik Rubrik PBIS, & Portofolio Karakter"]
     CP --> D06["06 INTERVENTION PRINCIPLES: Protokol SW-PBIS Multi-Tier 1-3, Functional Behavior Assessment (FBA), & Restoratif"]
     CP --> D07["07 IMPLEMENTATION PRINCIPLES: Standar Operasional Prosedur (SOP) Musyrif, Manajemen Anti-Burnout, & Kultur Mutu"]

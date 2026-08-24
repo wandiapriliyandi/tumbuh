@@ -10,8 +10,8 @@ Direktori ini memuat dokumen laporan simulasi sistem terpadu (*Systems Simulatio
 ```mermaid
 graph TD
     SimuArch["Arsitektur Pemodelan Cohort 100 Santri (7-Tahun)"]
-    SimuArch --> Phase1["Fase MTs / SMP (Tahun 1 - 3)<br/>• Kls 7: Tangga T1 (Adaptasi) -> T2 (Habituasi)<br/>• Kls 8: Tangga T2 (Habituasi) -> T3 (Internalisasi)<br/>• Kls 9: Tangga T3 (Internalisasi) & Gateway Transisi"]
-    SimuArch --> Phase2["Fase MA / SMA (Tahun 4 - 6)<br/>• Kls 10-11: Tangga T3 -> T4 (Kemandirian & Peer Buddy)<br/>• Kls 12: Tangga T4 (Qudwah) & Sertifikasi Transkrip PBIS"]
+    SimuArch --> Phase1["Fase MTs / SMP (Tahun 1 - 3)<br/>• Kls 7: Jenjang J1 (Adaptasi) -> T2 (Habituasi)<br/>• Kls 8: Jenjang J2 (Habituasi) -> T3 (Internalisasi)<br/>• Kls 9: Jenjang J3 (Internalisasi) & Gateway Transisi"]
+    SimuArch --> Phase2["Fase MA / SMA (Tahun 4 - 6)<br/>• Kls 10-11: Jenjang J3 -> T4 (Kemandirian & Peer Buddy)<br/>• Kls 12: Jenjang J4 (Qudwah) & Sertifikasi Transkrip PBIS"]
     SimuArch --> Phase3["Fase Pengabdian (Tahun 7)<br/>• Tahap 7 PENGGERAK: Musyrif Junior, Pengabdi Desa, & Leader Ummat"]
 ```
 

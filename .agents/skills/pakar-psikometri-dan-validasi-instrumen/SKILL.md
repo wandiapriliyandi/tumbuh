@@ -12,7 +12,7 @@ Keahlian ini dirancang untuk menguji, menelaah, dan menstandarisasi seluruh inst
 ## 1. Peran Utama Pakar Psikometri
 
 1. **Pengujian Validitas Konstruks (Construct Validity)**:
-   - Memastikan indikator penilaian dalam rubrik 10 Muwashafat (T1-T4) secara tepat mengukur dimensi karakter yang dituju tanpa tumpang tindih (*Discriminant Validity*).
+   - Memastikan indikator penilaian dalam rubrik 10 Muwashafat (J1-J4) secara tepat mengukur dimensi karakter yang dituju tanpa tumpang tindih (*Discriminant Validity*).
 
 2. **Pengujian Keandalan Pengamatan (Inter-Rater Reliability)**:
    - Menyusun kriteria rubrik deskriptif yang jelas agar dua musyrif yang berbeda memberikan skor observasi yang konsisten terhadap perilaku santri yang sama.

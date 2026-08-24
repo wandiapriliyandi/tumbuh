@@ -131,7 +131,7 @@ Epistemologi TUMBUH menegakkan pertumbuhan simbiotik pada tiga entitas utama eko
 ```mermaid
 graph TD
     subgraph TriadEpistemologiTUMBUH["TRIAD PERTUMBUHAN SIMBIOTIK EPISTEMOLOGIS"]
-        S["1. SANTRI TUMBUH<br/>• Pemikiran Kritis & Bebas Sesat Pikir<br/>• Hafalan Bersanad & Paham Dalil<br/>• Tangga Adab Mandiri T1-T4"]
+        S["1. SANTRI TUMBUH<br/>• Pemikiran Kritis & Bebas Sesat Pikir<br/>• Hafalan Bersanad & Paham Dalil<br/>• Tangga Adab Mandiri J1-J4"]
         
         G["2. GURU & MUSYRIF TUMBUH<br/>• Keteladanan Qudwah Hasanah Nyata<br/>• Pengasuhan Firm & Kind Tanpa Kekerasan<br/>• Terlindungi dari Burnout via Shift Terstandar"]
         

@@ -9,7 +9,7 @@
 
 ## 1. Peta 10 Karakter Utama Santri TUMBUH (*Muwashafat*)
 
-Dokumen ini memetakan perkembangan **10 Karakter Utama Santri TUMBUH** melintasi Tangga T1 (Adaptasi), T2 (Habituasi), T3 (Internalisasi), hingga T4 (Qudwah/Kemandirian):
+Dokumen ini memetakan perkembangan **10 Karakter Utama Santri TUMBUH** melintasi Jenjang J1 (Adaptasi), T2 (Habituasi), T3 (Internalisasi), hingga T4 (Qudwah/Kemandirian):
 
 ```mermaid
 graph TD
@@ -21,7 +21,7 @@ graph TD
 
 ---
 
-## 2. Matriks Progresi Perkembangan 10 Karakter (T1–T4)
+## 2. Matriks Progresi Perkembangan 10 Karakter (J1–J4)
 
 | Karakter Muwashafat | Tingkat T1 (Adaptasi) | Tingkat T2 (Habituasi) | Tingkat T3 (Internalisasi) | Tingkat T4 (Qudwah & Khidmah) |
 | :--- | :--- | :--- | :--- | :--- |

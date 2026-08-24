@@ -46,4 +46,4 @@ graph TD
 
 1. **Audit Job Description & Hindari Silo Organisasi**: Pastikan pembagian tugas antar-unit (Kurikulum, Kesiswaan, Musyrif, BK, Sarpras) tidak tumpang tindih dan memiliki forum sinkronisasi rutin.
 2. **Evaluasi Standarisasi SOP Harian**: Uji apakah SOP bangun subuh, halaqah Qur'an, jam belajar mandiri, dan istirahat malam memiliki indikator yang terukur (*measurable*).
-3. **Desain Jalur Kaderisasi Santri (T1-T4)**: Pastikan proses pemilihan ketua OSIS, LDKS, dan pengurus klub memiliki rubrik asesmen kompetensi yang transparan dan mendidik.
+3. **Desain Jalur Kaderisasi Santri (J1-J4)**: Pastikan proses pemilihan ketua OSIS, LDKS, dan pengurus klub memiliki rubrik asesmen kompetensi yang transparan dan mendidik.

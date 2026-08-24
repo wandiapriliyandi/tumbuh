@@ -1,6 +1,6 @@
 # Domain 05: Assessment Framework (Sistem Asesmen Ipsatif & Psikometri Karakter)
 
-Direktori ini memuat arsitektur asesmen, pengukuran karakter, penilaian formatif-restoratif, serta analisis perkembangan santri melintasi 10 Karakter Utama (*Muwashafat*) dan Tangga TUMBUH (T1–T4).
+Direktori ini memuat arsitektur asesmen, pengukuran karakter, penilaian formatif-restoratif, serta analisis perkembangan santri melintasi 10 Karakter Utama (*Muwashafat*) dan Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4).
 
 ---
 

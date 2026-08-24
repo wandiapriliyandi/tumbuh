@@ -13,7 +13,7 @@
 >
 > **Tujuan Penelitian**: Merumuskan dan memvalidasi fondasi filosofis dari **Ekosistem TUMBUH** (*Human Development System*), yang secara eksplisit menjawab 10 pertanyaan fundamental filosofis, merumuskan **Dual-Pillar Pengasuhan (Musyrif Asrama & Wali Kelas Walas)**, dan menyinergikan secara simbiotik melintasi Kontinuum 10 Tahap Pertumbuhan.
 >
-> **Hasil Riset**: Terbentuk arsitektur filosofis 6 pilar yang koheren yang menjawab 10 pertanyaan eksistensial dasar: (1) *Theocentric Worldview*; (2) Antropologi *Fitrah* dan 5 lapis jiwa (*Jasad, Ruh, Nafs, Qalb, 'Aql*); (3) Hukum perkembangan *Tazkiyatun Nafs* (*T1–T4 s/d Tahap 10*); (4) Pedagogi holistik Disiplin Restoratif (*Firm & Kind*) & Dual-Pillar Pengasuhan; (5) Falsafah kepemimpinan **Qudwah** (*Sayyidul Qaumi Khaadimuhum*); serta (6) Sunnatullah perubahan melalui *Tadarruj*, *Istiqamah*, dan *Bi'ah Shalihah*.
+> **Hasil Riset**: Terbentuk arsitektur filosofis 6 pilar yang koheren yang menjawab 10 pertanyaan eksistensial dasar: (1) *Theocentric Worldview*; (2) Antropologi *Fitrah* dan 5 lapis jiwa (*Jasad, Ruh, Nafs, Qalb, 'Aql*); (3) Hukum perkembangan *Tazkiyatun Nafs* (*J1–J4 s/d Tahap 10*); (4) Pedagogi holistik Disiplin Restoratif (*Firm & Kind*) & Dual-Pillar Pengasuhan; (5) Falsafah kepemimpinan **Qudwah** (*Sayyidul Qaumi Khaadimuhum*); serta (6) Sunnatullah perubahan melalui *Tadarruj*, *Istiqamah*, dan *Bi'ah Shalihah*.
 >
 > **Kata Kunci**: *Ekosistem TUMBUH, Pesantren, Qudwah, Dual-Pillar Caretaking, Musyrif & Walas, Tazkiyatun Nafs, Disiplin Restoratif, Triad Pertumbuhan.*
 
@@ -68,7 +68,7 @@ Sistem **TUMBUH** memberikan jawaban akademis, teologis, dan saintifik atas 10 p
 | **7** | **Apa hakikat pendidikan Islam?** | Trilogi agung: **Tarbiyah** (asrama), **Ta'dib** (adab/moral), dan **Ta'lim** (intelektual kelas) yang dikelola via Dual-Pillar Pengasuhan (Musyrif & Walas). | *The Concept of Education in Islam* (Al-Attas). |
 | **8** | **Bagaimana dinamika perubahan perilaku terjadi?** | Melalui hukum sunnatullah (*Habit Loop 66-Hari, Choice Architecture Nudges, & Bi'ah Shalihah* dengan Magic Ratio 4:1). | QS. Ar-Ra'd: 11; Wood & Clear (Habit Science). |
 | **9** | **Apa hakikat kepemimpinan dan relasi sosial?** | Kepemimpinan berbasis **Qudwah Hasanah** (*Shidq al-Amal*) dan **Servant Leadership** (*Sayyidul Qaumi Khaadimuhum*) yang menghapus feodalisme. | QS. Al-Ahzab: 21; Greenleaf (Servant Leadership). |
-| **10**| **Bagaimana memposisikan waktu dan proses?** | Waktu adalah amanah ilahi yang diisi dengan proses bertahap (*Tadarruj*) dan ketabahan konsisten (*Istiqamah*) melalui Tangga T1–T4 hingga Tahap 10. | QS. Al-'Asr: 1–3; Kaizen & Scaffolding Theory. |
+| **10**| **Bagaimana memposisikan waktu dan proses?** | Waktu adalah amanah ilahi yang diisi dengan proses bertahap (*Tadarruj*) dan ketabahan konsisten (*Istiqamah*) melalui Jenjang J1–J4 hingga Tahap 10. | QS. Al-'Asr: 1–3; Kaizen & Scaffolding Theory. |
 
 ---
 
@@ -77,7 +77,7 @@ Sistem **TUMBUH** memberikan jawaban akademis, teologis, dan saintifik atas 10 p
 ```mermaid
 graph TD
     subgraph Model_Triad_Simbiotik["Triad Pertumbuhan Simbiotik & Dual-Pillar Pengasuhan TUMBUH"]
-        Santri["1. SANTRI BERTUMBUH (Tangga T1-T4)<br/>Mekarnya fitrah, regulasi emosi mandiri, & bertumbuh menjadi Santri Penggerak."]
+        Santri["1. SANTRI BERTUMBUH (Jenjang J1–J4)<br/>Mekarnya fitrah, regulasi emosi mandiri, & bertumbuh menjadi Santri Penggerak."]
         Guru["2. GURU, MUSYRIF, & WALAS BERTUMBUH (Dual-Pillar Caretaking)<br/>Pilar 1 Musyrif Asrama + Pilar 2 Wali Kelas (Walas) bersinergi mengasuh santri tanpa burnout."]
         Sistem["3. SISTEM LEMBAGA BERTUMBUH<br/>Organisasi pembelajar berbasis data PBIS, SOP Handover Daily Logbook, & Zero Violence."]
     end

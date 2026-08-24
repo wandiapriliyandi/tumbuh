@@ -51,7 +51,7 @@ graph TD
     
     Root --> B["B - BARAKAH (Kemurnian Tauhid & Keikhlasan Niat)<br/>Menolak transaksi reward materiil, menanamkan kesadaran muraqabatullah dan tazkiyatun niyyah di setiap amal."]
     
-    Root --> Un["U - UNGGUL (Kemandirian & Prestasi Berkelanjutan)<br/>Pengembangan potensi fitrah santri melalui trajektori Tangga T1-T4 hingga mencapai Tahap 7 Penggerak."]
+    Root --> Un["U - UNGGUL (Kemandirian & Prestasi Berkelanjutan)<br/>Pengembangan potensi fitrah santri melalui trajektori Jenjang J1–J4 hingga mencapai Tahap 7 Penggerak."]
     
     Root --> H["H - HASANAH (Keteladanan Qudwah & Maslahat Ummat)<br/>Kepemimpinan asatidz berbasis Servant Qudwah Leadership yang melahirkan profil santri Nafi'un Lighairihi."]
 ```
@@ -90,7 +90,7 @@ Rekonstruksi filosofis pada Bab 01 ini berakar pada de-sekularisasi ilmu Prof. N
 graph TD
     Vol1["VOLUME 01: AKAR FILOSOFIS & EPISTEMOLOGI<br/>(Fondasi Teologis, Ontologi Fitrah, Kritik Kekerasan, & Aksiologi Maqashid)"]
     
-    Vol1 ==> Vol2["VOLUME 02: TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER<br/>(Penerjemahan Filosofi Menjadi Kurikulum 10 Muwashafat & Tangga T1-T4)"]
+    Vol1 ==> Vol2["VOLUME 02: TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER<br/>(Penerjemahan Filosofi Menjadi Kurikulum 10 Muwashafat & Jenjang J1–J4)"]
     
     Vol2 ==> Vol3["VOLUME 03: SISTEM ASESMEN PERKEMBANGAN IPSATIF<br/>(Metodologi Pengukuran Berbasis Bukti, Validitas Psikometrik, & Logbook PBIS)"]
     
@@ -102,7 +102,7 @@ graph TD
 
 Peta jalan 5 volume ini menjamin setiap pilar filosofis diterjemahkan ke dalam tata kelola harian yang nyata:
 * **Volume 01** meletakkan fondasi teologis, ontologis, dan kritik epistemologis.
-* **Volume 02** merumuskan Taksonomi 10 Kapasitas Karakter (*Muwashafat*) dan Tangga Capaian T1–T4.
+* **Volume 02** merumuskan Taksonomi 10 Kapasitas Karakter (*Muwashafat*) dan Tangga Capaian J1–J4.
 * **Volume 03** menyediakan metodologi pengukuran perkembangan karakter berbasis bukti melalui Logbook PBIS Digital.
 * **Volume 04** menyajikan panduan intervensi multi-tier (Tier 1 Universal, Tier 2 Targeted CICO, dan Tier 3 Intensive FBA/BIP) serta protokol disiplin restoratif.
 * **Volume 05** menyusun SOP manajemen pengasuhan 24 jam, perlindungan anak (*Safe School Protocols*), dan tata kelola musyrif anti-burnout.

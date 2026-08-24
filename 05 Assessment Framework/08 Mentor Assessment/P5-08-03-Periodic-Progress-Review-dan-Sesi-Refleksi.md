@@ -23,4 +23,4 @@ graph TD
 
 ## 2. Hasil Sesi Mentoring
 
-Hasil sesi PPR dicatat dalam **Buku Pembinaan Santri Digital** sebagai bahan laporan berkala dalam Sidang Transisi Tangga TUMBUH.
+Hasil sesi PPR dicatat dalam **Buku Pembinaan Santri Digital** sebagai bahan laporan berkala dalam Sidang Transisi Jenjang Kemandirian TUMBUH (J1–J4).

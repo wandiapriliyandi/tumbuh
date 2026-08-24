@@ -520,7 +520,7 @@ flowchart TD
 [^37]: Giedd, J. N. (2004), *Structural magnetic resonance imaging of the adolescent brain*, Annals of the New York Academy of Sciences.  
 [^38]: Sowell, E. R., et al. (2003), *Mapping cortical change across the human life span*, Nature Neuroscience.  
 [^39]: Panduan Standar Kompetensi Musyrif Asrama TUMBUH, Modul 02: *Psikologi Perkembangan Remaja*, 2026.  
-[^40]: Matriks Evaluasi Capaian Tangga TUMBUH T1–T4, Divisi Desain Kurikulum Adab, 2026.
+[^40]: Matriks Evaluasi Capaian Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, Divisi Desain Kurikulum Adab, 2026.
 
 ---
 

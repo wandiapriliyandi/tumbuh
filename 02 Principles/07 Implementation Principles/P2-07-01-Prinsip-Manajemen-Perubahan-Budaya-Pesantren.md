@@ -60,7 +60,7 @@ flowchart TD
     subgraph TransformasiBudayaPesantren["TRANSFORMASI BUDAYA KELEMBAGAAN PESANTREN"]
         BudayaLama["BUDAYA LAMA KOERSIF-FEODAL<br/>• Manajemen berbasis rasa takut & hukuman fisik.<br/>• Senioritas menindas & junioritas tertekan.<br/>• Musyrif bertindak laksana mandor penjara."]
         
-        BudayaTUMBUH["BUDAYA BARU TUMBUH (BI'AH SHALIHAH)<br/>• Manajemen berbasis Qudwah & data PBIS Multi-Tier.<br/>• Ukhuwah simbiotik antar-tingkatan santri (T1–T4).<br/>• Musyrif bertindak sebagai Murabbi In Loco Parentis."]
+        BudayaTUMBUH["BUDAYA BARU TUMBUH (BI'AH SHALIHAH)<br/>• Manajemen berbasis Qudwah & data PBIS Multi-Tier.<br/>• Ukhuwah simbiotik antar-tingkatan santri (J1–J4).<br/>• Musyrif bertindak sebagai Murabbi In Loco Parentis."]
         
         BudayaLama ==>|MANAJEMEN PERUBAHAN 8 TAHAP KOTTER & HIKMAH USHUL| BudayaTUMBUH
     end

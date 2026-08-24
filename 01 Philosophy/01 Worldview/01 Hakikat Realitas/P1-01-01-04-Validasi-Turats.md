@@ -18,7 +18,7 @@
 >   3. **Imam Al-Maturidi & An-Nasafi**: Menolak relativisme; nilai adab dan kebaikan itu pasti dan tidak boleh dikompromikan oleh tren pergaulan bebas.
 >   4. **Imam Asy-Syathibi**: Menjaga kesehatan fisik (*Hifzh an-Nafs*) dan menempuh hukum sebab-akibat (ventilasi, sanitasi, gizi) adalah kewajiban syariat mutlak.
 >   5. **Imam Ibnu 'Athaillah (*Al-Hikam*)**: Santri berada di *Maqam Asbab* (wajib belajar giat & ikhtiar); malas belajar dengan alasan "pasrah tawakal" adalah tipu daya nafsu.
->   6. **Prof. Syed Muhammad Naquib Al-Attas**: Pendidikan Islam adalah *Ta'dib* (menanamkan adab); diterjemahkan menjadi 4 Tangga Pembinaan TUMBUH (T1–T4).
+>   6. **Prof. Syed Muhammad Naquib Al-Attas**: Pendidikan Islam adalah *Ta'dib* (menanamkan adab); diterjemahkan menjadi 4 Tangga Pembinaan TUMBUH (J1–J4).
 > * **Penerapan Praktis di Lapangan**:  
 >   Musyrif percaya diri menerapkan sistem manajemen modern karena seluruh dasarnya bersanad kuat pada ulama salafush shalih.
 
@@ -313,7 +313,7 @@ graph TD
     A["Gugatan Egalitarianisme Tanpa Adab (Pihak A):<br/>'Semua manusia sama bebas, tak perlu ada hierarki adab & otoritas!'"]
     --> B1["Tinjauan Prolegomena Al-Attas:<br/>Realitas adalah Hierarchical Cosmic Order: setiap wujud punya hak & maqam yang tepat."]
     A --> B2["Tinjauan Konsep Ta'dib:<br/>Pendidikan Islam adalah penanaman adab (Ta'dib), bukan sekadar transfer informasi teknis."]
-    A --> B3["Tinjauan Arsitektur Digital & PBIS:<br/>Tangga TUMBUH T1-T4 menerjemahkan hierarki adab menjadi rubrik perilaku terukur."]
+    A --> B3["Tinjauan Arsitektur Digital & PBIS:<br/>Jenjang Kemandirian TUMBUH (J1–J4) J1-J4 menerjemahkan hierarki adab menjadi rubrik perilaku terukur."]
     B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Al-Attas menyintesiskan seluruh 6 Aksioma ke dalam kurikulum adab holistik."]
 ```
 
@@ -340,11 +340,11 @@ Dan dalam *The Concept of Education in Islam* beliau menegaskan:
 * **Tinjauan Sudut Pandang Filsafat Pendidikan Islam**:  
   Sains dan keterampilan teknis tanpa adab hanya akan melahirkan monster intelektual yang merusak alam dan mengeksploitasi sesama manusia (*Corruption of Knowledge*). **Ta'dib Menjamin Bahwa Ilmu Pengetahuan Diletakkan pada Posisi yang Tepat** untuk mengabdi kepada Allah dan menebarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).[^37]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Translasi Taksonomi Adab ke Tangga TUMBUH (T1–T4)
+#### 🥊 Ronde 3: Sanggahan Pamungkas Translasi Taksonomi Adab ke Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)
 * **Pihak A (Sudut Pandang Evaluasi Pendidikan)**:  
   *"Bagaimana mengukur ketercapaian 'adab' yang abstrak ke dalam instrumen evaluasi santri yang objektif dan transparan di pesantren?"*
 * **Resolusi Sudut Pandang Psikometri & Arsitektur PBIS**:  
-  Ekosistem TUMBUH menerjemahkan konsep hierarki adab Al-Attas menjadi **Empat Tangga Pertumbuhan Perilaku Terukur (T1–T4)**:  
+  Ekosistem TUMBUH menerjemahkan konsep hierarki adab Al-Attas menjadi **Empat Tangga Pertumbuhan Perilaku Terukur (J1–J4)**:  
   * **T1 (Ta'dib/Disiplin Dasar)**: Kepatuhan pada aturan kebersihan dan jadwal hidup asrama.  
   * **T2 (Tarbiyah/Regulasi Diri)**: Disiplin mandiri dan kesadaran emosional tanpa pengawasan.  
   * **T3 (Ta'lim/Penguasaan Ilmu & Adab)**: Ketekunan menuntut ilmu dan menghormati sesama.  
@@ -399,7 +399,7 @@ graph TD
 
 1. **SOP Pengasuhan Berbasis Keadilan Maqashid**: Seluruh musyrif dilarang menggunakan kekerasan fisik dan pemaluan verbal; setiap sanksi pelanggaran santri wajib berupa konsekuensi logis yang relevan dan mendidik (*Restorative Discipline*).
 2. **SOP Pemenuhan Kausalitas Biologis Santri**: Menjaga ventilasi kamar (minimal 10% luas lantai), sanitasi air bersih bebas bakteri, dan menjamin jam tidur malam santri minimal 6–7 jam sebagai perwujudan ibadah *Hifzh an-Nafs*.
-3. **Sistem Evaluasi Tangga TUMBUH (T1–T4)**: Mengonversi nilai adab turats menjadi indikator observasi perilaku harian santri yang transparan, adil, dan membimbing kemandirian jiwa santri.[^46]
+3. **Sistem Evaluasi Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Mengonversi nilai adab turats menjadi indikator observasi perilaku harian santri yang transparan, adil, dan membimbing kemandirian jiwa santri.[^46]
 
 ---
 
@@ -416,7 +416,7 @@ graph TD
 | **3** | **Imam Al-Maturidi & An-Nasafi** (*'Aqa'id*) | **Sanad Aksioma 3**: Objektivitas Haqa'iq | Menumpas 3 varian Sofisme; menetapkan kepastian nilai moral adab melampaui relativisme budaya. |
 | **4** | **Imam Asy-Syathibi** (*Al-Muwafaqat*) | **Sanad Aksioma 4 & 5**: Maqashid Kausalitas | Mengharuskan ikhtiar sebab fisik dhohir (ventilasi, sanitasi) sebagai sarana wajib penjagaan jiwa. |
 | **5** | **Ibnu 'Athaillah** (*Al-Hikam*) | **Sanad Aksioma 2 & 4**: Asbab vs Tajrid | Melarang kemalasan berkedok tawakal; mendudukkan santri di Maqam Asbab untuk membangun resiliensi. |
-| **6** | **Prof. Syed Muhammad Naquib Al-Attas** (*Prolegomena*) | **Sanad Aksioma 5 & 6**: Taksonomi Adab | Mengonstruksi konsep Ta'dib & Hierarki Wujud menjadi 4 Tangga Pembinaan TUMBUH (T1–T4). |
+| **6** | **Prof. Syed Muhammad Naquib Al-Attas** (*Prolegomena*) | **Sanad Aksioma 5 & 6**: Taksonomi Adab | Mengonstruksi konsep Ta'dib & Hierarki Wujud menjadi 4 Tangga Pembinaan TUMBUH (J1–J4). |
 
 ---
 

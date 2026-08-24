@@ -15,7 +15,7 @@ Lembaga pendidikan ekosistem **TUMBUH** memelopori **Dual Certification System**
 graph LR
     DualCert["Sistem Kelulusan Ganda (Dual Certification)"]
     DualCert --> FormalCert["1. Ijazah Academic & Syahadah Qur'an<br/>Bukti kelulusan kurikulum diniyyah, akademik umum, & kelancaran hafalan."]
-    DualCert --> CharacterCert["2. Transkrip Karakter & Portofolio PBIS<br/>Rekam jejak longitudinal 10 Karakter Muwashafat & Tangga T1->T4."]
+    DualCert --> CharacterCert["2. Transkrip Karakter & Portofolio PBIS<br/>Rekam jejak longitudinal 10 Karakter Muwashafat & Jenjang J1->T4."]
 ```
 
 ---

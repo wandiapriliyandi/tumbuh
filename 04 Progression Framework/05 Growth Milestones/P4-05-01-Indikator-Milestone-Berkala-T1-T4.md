@@ -1,4 +1,4 @@
-﻿# P4-05-01: Indikator Milestone Perkembangan Berkala Santri (T1–T4)
+﻿# P4-05-01: Indikator Milestone Perkembangan Berkala Santri (J1–J4)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**

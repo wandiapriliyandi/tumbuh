@@ -9,7 +9,7 @@
 
 ### Tangga Pertama: Gerbang Paling Rentan dalam Kehidupan Santri
 
-Dalam arsitektur progresi karakter Ekosistem TUMBUH, **Tangga T1 (Adaptasi / *Ta'aruf*)** menaungi santri pada **6 bulan pertama** kehidupannya di pondok pesantren.
+Dalam arsitektur progresi karakter Ekosistem TUMBUH, **Jenjang J1 (Adaptasi / *Ta'aruf*)** menaungi santri pada **6 bulan pertama** kehidupannya di pondok pesantren.
 
 Fase ini adalah fase paling rentan (*the most vulnerable phase*):
 * Lebih dari 85% santri baru mengalami sindrom kerinduan rumah (*Homesickness*) tingkat sedang hingga berat.
@@ -30,7 +30,7 @@ graph TD
         Fokus --> C4["4. Kemitraan Kamar (Room Bonding)<br/>Mengenal nama & karakter kawan sekamar tanpa rasa takut diintimidasi."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.1.1:</b> Peta Capaian Karakter Santri pada Tangga T1 (Adaptasi / Ta'aruf).</sub></div>
+<div align="center"><sub><b>Gambar 4.1.1:</b> Peta Capaian Karakter Santri pada Jenjang J1 (Adaptasi / Ta'aruf).</sub></div>
 
 Pakar psikologi klinis anak **Christopher A. Thurber**[^1] membuktikan bahwa kerinduan rumah (*homesickness*) bukanlah sekadar "cengeng", melainkan respons duka normal (*normative grief response*) akibat hilangnya rasa aman primer. Pendekatan yang efektif bukanlah mencemooh anak, melainkan membangun rasa kelekatan baru di lingkungan institusi.
 
@@ -74,7 +74,7 @@ Sistem TUMBUH merancang **Protokol 30 Hari Transisi Emas (*Golden Transition Pro
 2. **Jadwal Telepon Terjadwal & Hangat**: Memfasilitasi komunikasi suara dengan orang tua secara teratur dengan pendampingan musyrif untuk menjaga kestabilan emosi anak.
 3. **Malam Keakraban Kamar (*Baituna Jannatuna Night*)**: Setiap malam Ahad diadakan makan bersama dan permainan kelompok di dalam kamar untuk mempercepat perekatan persaudaraan antarsantri baru.
 
-Dengan tuntasnya Tangga T1, santri telah berhasil melintasi masa krisis adaptasi, siap melangkah mantap menaiki **Tangga T2 (Habituasi / Ta'awun)**.
+Dengan tuntasnya Jenjang J1, santri telah berhasil melintasi masa krisis adaptasi, siap melangkah mantap menaiki **Jenjang J2 (Habituasi / Ta'awun)**.
 
 ---
 

@@ -142,7 +142,7 @@ flowchart TD
 
 > #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
 > * **Studi Kasus**: Santri K (kelas 8) tertangkap merokok di belakang kamar mandi asrama. Musyrif lama berniat langsung mencukur gundul dan memajang santri K di depan masjid saat shalat jumat.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pimpinan menerapkan Protokol Bimbingan Terpadu TUMBUH: Menolak pemaluan publik (*Zero Public Shaming*) $\rightarrow$ Konselor BK melakukan Functional Behavior Assessment (FBA): ditemukan santri K merokok karena tekanan kelompok sebaya dan stres akademis $\rightarrow$ Intervensi Terpadu: (1) Terapi de-eskalasi emosi oleh BK, (2) Pengalihan energi ke tim basket pondok (*Qawiyyul Jism*), (3) Musyrif kamar memberikan pendampingan teman sebaya positif Tangga T4. Hasilnya: Santri K berhenti merokok total, menjadi kapten basket pondok, dan hafal 5 juz Qur'an mutqin.[^7]
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pimpinan menerapkan Protokol Bimbingan Terpadu TUMBUH: Menolak pemaluan publik (*Zero Public Shaming*) $\rightarrow$ Konselor BK melakukan Functional Behavior Assessment (FBA): ditemukan santri K merokok karena tekanan kelompok sebaya dan stres akademis $\rightarrow$ Intervensi Terpadu: (1) Terapi de-eskalasi emosi oleh BK, (2) Pengalihan energi ke tim basket pondok (*Qawiyyul Jism*), (3) Musyrif kamar memberikan pendampingan teman sebaya positif Jenjang J4. Hasilnya: Santri K berhenti merokok total, menjadi kapten basket pondok, dan hafal 5 juz Qur'an mutqin.[^7]
 
 ---
 

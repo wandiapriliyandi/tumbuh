@@ -9,9 +9,9 @@
 
 ### Memasuki Tangga Kedua: Dari Adaptasi Menuju Otomatisasi Karakter
 
-Setelah santri berhasil melampaui fase adaptasi awal dan merasa aman di lingkungan pondok, santri melangkah menaiki **Tangga T2 (Habituasi / *Ta'awun*)** yang berlangsung pada **bulan ke-7 hingga bulan ke-18** (Tahun Pertama Semester 2 hingga Tahun Kedua).
+Setelah santri berhasil melampaui fase adaptasi awal dan merasa aman di lingkungan pondok, santri melangkah menaiki **Jenjang J2 (Habituasi / *Ta'awun*)** yang berlangsung pada **bulan ke-7 hingga bulan ke-18** (Tahun Pertama Semester 2 hingga Tahun Kedua).
 
-Fokus utama pada Tangga T2 adalah **Habituasi dan Kolaborasi**:
+Fokus utama pada Jenjang J2 adalah **Habituasi dan Kolaborasi**:
 * Nilai-nilai adab yang sebelumnya masih dilakukan dengan rasa canggung kini dilatihkan secara konsisten hingga menjadi **kebiasaan bawah sadar (*automated habits*)**.
 * Interaksi santri diperluas dari sekadar menjaga diri sendiri menjadi **mampu bekerja sama dan bergotong royong (*Ta'awun*)** bersama seluruh warga kamar dan asrama.
 
@@ -29,13 +29,13 @@ graph TD
         Fokus --> C4["4. Penerimaan Konsekuensi Logis (Accountability)<br/>Menerima teguran restoratif secara dewasa & bersedia melakukan restitusi 4R."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.2.1:</b> Peta Capaian Karakter Santri pada Tangga T2 (Habituasi / Ta'awun).</sub></div>
+<div align="center"><sub><b>Gambar 4.2.1:</b> Peta Capaian Karakter Santri pada Jenjang J2 (Habituasi / Ta'awun).</sub></div>
 
-Pakar psikologi perilaku **Phillippa Lally et al.**[^1] membuktikan bahwa pembentukan kebiasaan otomatis (*automaticity*) membutuhkan waktu rata-rata 66 hari pengulangan harian yang konsisten dalam lingkungan yang stabil. Tangga T2 memberikan ruang waktu yang cukup agar jalur mielin adab santri terbentuk kokoh.
+Pakar psikologi perilaku **Phillippa Lally et al.**[^1] membuktikan bahwa pembentukan kebiasaan otomatis (*automaticity*) membutuhkan waktu rata-rata 66 hari pengulangan harian yang konsisten dalam lingkungan yang stabil. Jenjang J2 memberikan ruang waktu yang cukup agar jalur mielin adab santri terbentuk kokoh.
 
 ---
 
-### Disiplin Positif Jane Nelsen: Menguatkan Tangga T2 Tanpa Friksi
+### Disiplin Positif Jane Nelsen: Menguatkan Jenjang J2 Tanpa Friksi
 
 Pada tangga T2, santri mulai diuji oleh rasa bosan dan kejenuhan rutinitas asrama. Di sinilah banyak pembina terjebak kembali pada cara lama: menggunakan bentakan dan hukuman fisik.
 
@@ -62,7 +62,7 @@ graph LR
 
 ### Integrasi Turats: Konsep *Ta'awun 'alal Birri wat-Taqwa*
 
-Fondasi kolaborasi kamar pada Tangga T2 berakar pada perintah Allah SWT dalam Al-Qur'an:
+Fondasi kolaborasi kamar pada Jenjang J2 berakar pada perintah Allah SWT dalam Al-Qur'an:
 $$\text{وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ}$$
 *"Dan tolong-menolonglah kamu dalam mengerjakan kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan!"* (QS. Al-Ma'idah: 2).
 
@@ -74,7 +74,7 @@ $$\text{وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّق�
 
 ### Solusi Sistemik TUMBUH: Sistem Poin Apresiasi Kamar (*Room Positive Reinforcement*)
 
-Di asrama TUMBUH, keberhasilan Tangga T2 didukung oleh:
+Di asrama TUMBUH, keberhasilan Jenjang J2 didukung oleh:
 1. **Inspeksi Kamar Terbuka (*Adab Clean Room Audit*)**: Setiap pagi kamar dinilai berdasarkan standar kebersihan 5S; kamar yang paling tertib mendapatkan piala bergilir kamar teladan.
 2. **Penerapan Rasio Apresiasi Relasional 4:1**: Musyrif memberikan 4 apresiasi verbal tulus atas usaha kebaikan santri sebelum melayangkan 1 koreksi perbaikan.
 3. **Piket Kamar Terjadwal & Rotatif**: Setiap santri bertanggung jawab membersihkan area spesifik (lantai, jendela, rak sandal, tempat sampah) secara bergilir.

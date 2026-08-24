@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Menghentikan kebiasaan umpatan kasar, memanggil teman dengan nama baik, memuliakan ustadz/musyrif.
 * **Jenjang T2 (Kelas 8 / 11)**: Mampu bekerjasama secara harmonis dalam piket kamar, menolong rekan yang sakit, menghargai privasi lemari teman.

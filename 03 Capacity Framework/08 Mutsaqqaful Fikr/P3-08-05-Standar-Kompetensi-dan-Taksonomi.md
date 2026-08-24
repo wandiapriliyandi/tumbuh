@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Menguasai makharijul huruf & tajwid dasar, hafal kaidah Jurumiyyah/Tashrif, aktif menghafal 10 kosakata baru per hari.
 * **Jenjang T2 (Kelas 8 / 11)**: Mampu membaca kitab *Taisirul Khalaq* tanpa harakat, lancar percakapan bahasa arab/inggris asrama, menguasai metode muraja'ah mandiri.

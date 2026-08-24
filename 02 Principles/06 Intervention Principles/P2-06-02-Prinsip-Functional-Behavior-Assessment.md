@@ -220,7 +220,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
    Musyrif halaqah membagi target setoran Salman menjadi 2 ayat per sesi (Chunking). Salman diposisikan di urutan setoran awal dalam suasana privat santai agar tidak menumpuk kecemasan menunggu giliran.
 
 2. **Pengajaran Perilaku Pengganti (Replacement Behavior)**:  
-   Salman dilatih mengangkat tangan dan berkata: "Ustadz, sore ini saya ingin tasmi' 2 ayat dahulu". Salman diberikan waktu tambahan muraja'ah bersama kakak asuh Tangga T4 sebelum halaqah dimulai.
+   Salman dilatih mengangkat tangan dan berkata: "Ustadz, sore ini saya ingin tasmi' 2 ayat dahulu". Salman diberikan waktu tambahan muraja'ah bersama kakak asuh Jenjang J4 sebelum halaqah dimulai.
 
 3. **Strategi Konsekuensi & Penguatan Positif (Reinforcement Schedule)**:  
    Setiap kali Salman bertahan mengikuti halaqah penuh dan menyetorkan hafalan bertahap, musyrif memberikan apresiasi bintang logbook PBIS dan pujian hangat secara langsung. --------------------------------------------------------------------------------------------------- Tanda Tangan Konselor BK       Tanda Tangan Musyrif Kamar       Tanda Tangan Santri ( Ustadz Ridwan, M.Psi. )      ( Ustadz Fauzan, S.Pd.I. )       ( Abdullah Salman )

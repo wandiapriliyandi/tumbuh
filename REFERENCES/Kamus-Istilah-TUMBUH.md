@@ -96,7 +96,7 @@ Dokumen ini adalah kamus rujukan resmi untuk memahami seluruh istilah teknis, fi
 | Istilah | Konteks Penggunaan | Arti Sederhana & Penjelasan Kontekstual |
 | :--- | :--- | :--- |
 | **Triad Pertumbuhan Simbiotik** | Falsafah Inti TUMBUH | Prinsip bahwa keberhasilan pesantren menuntut 3 entitas bertumbuh bersama: **Santri Tumbuh** (adab & potensi), **Guru Tumbuh** (kompetensi & bahagia), dan **Sistem Tumbuh** (SOP adaptif berbasis data). |
-| **Tangga TUMBUH (T1 – T4)** | Jenjang Perkembangan Santri | Tahapan pembinaan bertingkat:<br>• **T1**: Adaptasi & Orientasi<br>• **T2**: Habituasi Kebiasaan Dasar<br>• **T3**: Internalisasi Nilai & Resolusi Konflik<br>• **T4**: Kemandirian & Keteladanan (*Qudwah*) |
+| **Jenjang Kemandirian TUMBUH (J1–J4) (T1 – T4)** | Jenjang Perkembangan Santri | Tahapan pembinaan bertingkat:<br>• **T1**: Adaptasi & Orientasi<br>• **T2**: Habituasi Kebiasaan Dasar<br>• **T3**: Internalisasi Nilai & Resolusi Konflik<br>• **T4**: Kemandirian & Keteladanan (*Qudwah*) |
 | **In Loco Parentis** | Peran Musyrif / Pengasuh | Asas hukum dan moral di mana musyrif memegang amanah bertindak sebagai **"Orang Tua Pengganti"** yang menyayangi dan melindungi santri 24 jam. |
 | **Psychological Safety** | Keamanan Psikologis | Atmosfer asrama/kelas di mana santri merasa aman untuk bertanya, jujur mengakui kekeliruan, dan belajar tanpa takut dipermalukan atau dibully. |
 | **Servant Leadership** | *Sayyidul Qaumi Khaadimuhum* | Falsafah bahwa pemimpin (pimpinan pondok, musyrif, ketua OSIS) adalah pelayan yang bertugas memfasilitasi kebutuhan mereka yang dipimpin. |

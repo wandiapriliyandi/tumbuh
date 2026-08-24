@@ -20,14 +20,14 @@ Perkembangan karakter dan adab santri dalam ekosistem **TUMBUH** tidak dipahami 
 ```mermaid
 graph TD
     Triad["Triad Pertumbuhan Simbiotik dalam Progresi"]
-    Triad --> Santri["1. Santri Tumbuh<br/>Melintasi Tangga T1 -> T4 dari ketergantungan eksternal menuju regulasi diri mandiri."]
+    Triad --> Santri["1. Santri Tumbuh<br/>Melintasi Jenjang J1 -> T4 dari ketergantungan eksternal menuju regulasi diri mandiri."]
     Triad --> Musyrif["2. Guru & Musyrif Tumbuh<br/>Menggeser peran bimbingan secara gradual (Scaffolding Decay) dari pengawas ketat menjadi mitra/qudwah."]
     Triad --> Sistem["3. Sistem Lembaga Tumbuh<br/>Menyediakan lingkungan aman (Psychological Safety), data PBIS objektif, dan SOP transisi berkeadilan."]
 ```
 
 ---
 
-## 3. Empat Kaidah Baku Progresi Tangga TUMBUH
+## 3. Empat Kaidah Baku Progresi Jenjang Kemandirian TUMBUH (J1–J4)
 
 1. **Kaidah Anti-Uniformitas (*Anti-Uniformity Rule*)**:
    - Dilarang keras menuntut tingkat kemandirian yang sama antara santri baru (T1) dan santri senior (T3/T4). Setiap santri dinilai dengan indikator yang sesuai dengan jenjang tangganya.
@@ -50,7 +50,7 @@ graph TD
 graph LR
     P400["P4-00 Progression Induk"]
     P400 --> S01["01 Development Stages<br/>(Tahapan Makro Longitudinal)"]
-    P400 --> S02["02 Development Levels<br/>(Detail Tangga T1-T4)"]
+    P400 --> S02["02 Development Levels<br/>(Detail Jenjang J1–J4)"]
     P400 --> S03["03 Learning Progression<br/>(Progresi Diniyyah & Metakognisi)"]
     P400 --> S04["04 Mastery Progression<br/>(Penguasaan Adab & Qudwah)"]
     P400 --> S05["05 Growth Milestones<br/>(Checkpoints & Gateway Data)"]

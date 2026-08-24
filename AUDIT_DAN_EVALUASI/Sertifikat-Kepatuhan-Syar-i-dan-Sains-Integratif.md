@@ -30,7 +30,7 @@ Dengan ini Dewan Keilmuan dan Auditor Kualitas mengonfirmasi bahwa seluruh berka
 1. **Fithrah Asliyah (QS. Ar-Rum: 30)**: Menjadi fondasi ontologi manusia bahwa setiap santri lahir dalam keadaan suci dan memiliki potensi kebaikan yang wajib ditumbuhkan.
 2. **Konsep Ta'dib**: Penanaman adab ke dalam jiwa sebagai inti pendidikan Islam, melebihi sekadar transfer pengetahuan (*Ta'lim*).
 3. **Prinsip Qudwah Hasanah (QS. Al-Ahzab: 21)**: Keteladanan guru dan musyrif sebagai instrumen pembelajaran karakter terkuat.
-4. **Tazkiyatun Nafs & Mujahadatun Linafsih**: Metodologi pembersihan jiwa dan regulasi diri yang terpetakan ke dalam Tangga TUMBUH (T1–T4).
+4. **Tazkiyatun Nafs & Mujahadatun Linafsih**: Metodologi pembersihan jiwa dan regulasi diri yang terpetakan ke dalam Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4).
 
 ### B. Konsensus Sains Internasional Peer-Reviewed (Metodologi Terapan)
 1. **School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)**: Arsitektur pencegahan multi-tier (Tier 1 Universal, Tier 2 Targeted, Tier 3 Intensive).

@@ -26,7 +26,7 @@ graph TD
 | :--- | :--- | :--- |
 | **Ibadah & Aqidah** | Aqidah salimah bebas syirik/khurafat; ibadah wajib & sunnah rutin atas kesadaran diri. | Ujian Praktik Ibadah & Asesmen Portofolio Mutabaah. |
 | **Hafalan Al-Qur'an** | Capaian target hafalan teruji mutqin (minimal 5/10/30 juz sesuai jenjang program). | Ujian Tasmi' Al-Qur'an Sekali Duduk di Hadapan Penguji. |
-| **Adab & Character** | Mencapai Level T4 (Kemandirian & Qudwah Hasanah) pada seluruh rubrik PBIS. | Rekam Portofolio Logbook Musyrif 360-Derajat. |
+| **Adab & Character** | Mencapai Jenjang J4 (Kemandirian & Qudwah Hasanah) pada seluruh rubrik PBIS. | Rekam Portofolio Logbook Musyrif 360-Derajat. |
 | **Sosial & Khidmah** | Menyelesaikan minimal 1 Proyek Pengabdian Masyarakat (*Khidmah Keumatan*) mandiri. | Laporan & Presentasi Proyek Khidmah Keumatan. |
 | **Kemandirian (Kasb)** | Memiliki keterampilan vokasional dasar, kewirausahaan Islami, & literasi finansial. | Portofolio Proyek Kemandirian *Qadirun 'Alal Kasb*. |
 

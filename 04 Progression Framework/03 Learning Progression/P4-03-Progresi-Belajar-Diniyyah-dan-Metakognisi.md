@@ -42,7 +42,7 @@ graph LR
 
 ---
 
-## 3. Tahapan Perkembangan Metakognisi Santri (T1–T4)
+## 3. Tahapan Perkembangan Metakognisi Santri (J1–J4)
 
 | Tangga Progresi | Strategi Belajar | Metakognisi (Monitoring Diri) | Peran Pengajar / Musyrif |
 | :--- | :--- | :--- | :--- |

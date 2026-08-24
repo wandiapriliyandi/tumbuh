@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Mengenal dalil dasar Tauhid, menghafal doa harian dan dzikir Al-Ma'tsurat, serta belajar jujur kepada musyrif.
 * **Jenjang T2 (Kelas 8 / 11)**: Mampu membedakan sunnah vs khurafat/mitos secara nalar, konsisten mengamalkan dzikir harian tanpa diperintah.

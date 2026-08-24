@@ -9,13 +9,13 @@
 
 ## 1. Operasionalisasi Workflow Semesteran & Gateway Transisi
 
-Pada setiap akhir semester, workflow operasional difokuskan pada penilaian kelayakan kenaikan Tangga TUMBUH (T1 -> T2 -> T3 -> T4):
+Pada setiap akhir semester, workflow operasional difokuskan pada penilaian kelayakan kenaikan Jenjang Kemandirian TUMBUH (J1–J4) (T1 -> T2 -> T3 -> T4):
 
 ```mermaid
 graph TD
     SemesterWorkflow["3 Tahap Siklus Semesteran"]
     SemesterWorkflow --> TriangulationCalc["1. Perhitungan Skor Triangulasi 360-Derajat<br/>Penggabungan bobot Musyrif 40%, Guru 30%, Self 15%, & Peer 15%."]
-    SemesterWorkflow --> CouncilGateway["2. Sidang Gateway Transisi Tangga TUMBUH<br/>Rapat dewan guru & pengasuh memverifikasi pemenuhan milestone & portofolio adab."]
+    SemesterWorkflow --> CouncilGateway["2. Sidang Gateway Transisi Jenjang Kemandirian TUMBUH (J1–J4)<br/>Rapat dewan guru & pengasuh memverifikasi pemenuhan milestone & portofolio adab."]
     SemesterWorkflow --> ReportIssue["3. Penerbitan Raport Karakter Periodik & Transkrip Adab<br/>Penyampaian laporan dalam Sesi Parent-Teacher-Musyrif Conference."]
 ```
 

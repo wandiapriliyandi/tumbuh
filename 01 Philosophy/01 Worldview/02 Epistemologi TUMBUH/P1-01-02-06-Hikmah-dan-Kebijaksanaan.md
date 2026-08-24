@@ -336,7 +336,7 @@ flowchart TD
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 6*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan Islam yang sukses niscaya melahirkan lulusan berkarakter *Ulul Albab* (Insan Kamil), yaitu manusia paripurna yang menyatukan dzikir batin (*Tazkiyah*), fikir nalar (*Tahqiq*), dan karya praksis kemaslahatan (*Khidmah*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Profil Lulusan Ekosistem TUMBUH menetapkan 10 Muwashafat Karakter Tangga T4 sebagai standar kompetensi kelulusan santri.
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Profil Lulusan Ekosistem TUMBUH menetapkan 10 Muwashafat Karakter Jenjang J4 sebagai standar kompetensi kelulusan santri.
 * **Konklusi (*an-Natijah*)**: Maka, santri yang lulus dari pesantren TUMBUH adalah pionir peradaban yang siap menebarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).[^35]
 
 #### 📖 Teks Primer Al-Qur'an: Karakteristik Agung Generasi Ulul Albab

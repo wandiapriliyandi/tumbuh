@@ -62,7 +62,7 @@ flowchart TD
         
         Lawwamah["2. NAFS LAWWAMAH (QS. Al-Qiyamah: 2)<br/>• Kesadaran moral, rasa bersalah konstruktif, & introspeksi.<br/>• Digerakkan oleh Korteks Prefrontal (Regulasi Diri).<br/>• Berkembang pada fase T2 & T3 (Disiplin & Tanggung Jawab)."]
         
-        Muthmainnah["3. NAFS MUTHMAINNAH (QS. Al-Fajr: 27-28)<br/>• Ketenangan batin, kestabilan integritas, & kelezatan taat.<br/>• Integrasi harmonis seluruh jejaring saraf & ruhani.<br/>• Puncak capaian santri Tangga T4 & Tahap 7 Penggerak."]
+        Muthmainnah["3. NAFS MUTHMAINNAH (QS. Al-Fajr: 27-28)<br/>• Ketenangan batin, kestabilan integritas, & kelezatan taat.<br/>• Integrasi harmonis seluruh jejaring saraf & ruhani.<br/>• Puncak capaian santri Jenjang J4 & Tahap 7 Penggerak."]
         
         Ammarah ==>|RIYADHAH ADAB & PBIS TIER 1| Lawwamah
         Lawwamah ==>|MUJAHADAH & TAZKIYATUN NAFS| Muthmainnah
@@ -217,7 +217,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Nafs Ammarah bis-Su'** | QS. Yusuf: 53 (*La-Ammaratum bis-Su'*) | Sistem Limbik, Amigdala, & Striatum Ventral (*Impulsif*). | Mencari kesenangan instan, melanggar aturan saat sepi, emosi meledak. | **Tier 1 & 2 PBIS**: Rekayasa lingkungan aman CPTED, pengawasan hangat, dan aturan batas jelas.[^11] |
 | **2. Nafs Lawwamah** | QS. Al-Qiyamah: 2 (*Bin-Nafsil Lawwamah*) | Korteks Prefrontal Dorsolateral & Insula (*Self-Reflection*). | Menyesali kesalahan, gelisah pasca-melanggar, rindu bertaubat. | **Konseling Restoratif**: Validasi penyesalan, fasilitasi dialog Ishlah, dan aksi restitusi 4R nyata. |
-| **3. Nafs Muthmainnah** | QS. Al-Fajr: 27–28 (*An-Nafsul Muthmainnah*) | Integrasi Sistemik Saraf Otonom & Prefrontal (*Coherence*). | Ibadah khusyu' mandiri, tenang menghadapi ujian, menjadi teladan adab. | **Pemberdayaan Tangga T4**: Kaderisasi kepemimpinan santri penggerak & tutor sebaya asrama. |
+| **3. Nafs Muthmainnah** | QS. Al-Fajr: 27–28 (*An-Nafsul Muthmainnah*) | Integrasi Sistemik Saraf Otonom & Prefrontal (*Coherence*). | Ibadah khusyu' mandiri, tenang menghadapi ujian, menjadi teladan adab. | **Pemberdayaan Jenjang J4**: Kaderisasi kepemimpinan santri penggerak & tutor sebaya asrama. |
 
 ---
 

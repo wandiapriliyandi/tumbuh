@@ -125,7 +125,7 @@ graph LR
     subgraph GerbangDerivasiDevelopmentPrinciples["GERBANG DERIVASI MENUJU SUB-DOMAIN 04"]
         D2_03["SUB-DOMAIN 03: LEARNING PRINCIPLES<br/>(Kognisi Belajar, Tahfizh Mutqin, Metakognisi SRL, Didaktik, & Diferensiasi)"]
         
-        D2_04["SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES<br/>(Tahapan Maturasi Fitrah, Pembinaan Karakter Remaja, & Tangga T1–T4)"]
+        D2_04["SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES<br/>(Tahapan Maturasi Fitrah, Pembinaan Karakter Remaja, & Jenjang J1–J4)"]
         
         D2_03 ==>|MENJADI FONDASI INTELEKTUAL BAGI PERKEMBANGAN KARAKTER DI| D2_04
     end

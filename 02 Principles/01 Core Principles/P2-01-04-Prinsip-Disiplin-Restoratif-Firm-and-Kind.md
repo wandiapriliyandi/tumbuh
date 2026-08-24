@@ -179,7 +179,7 @@ graph TD
         
         Abai["KUADRAN 3: ABAI / NEGLECTFUL (Low Demanding, Low Responsive)<br/>• Musyrif lepas tangan, acuh tak acuh, minim kehadiran<br/>• Dampak Santri: Terlantar, depresi, korban perundungan senior"]
         
-        TUMBUH_FK["KUADRAN 4: OTORITATIF / FIRM & KIND (High Demanding, High Responsive)<br/>• Standar syar'i tinggi + kehangatan relasi & dialog empati<br/>• Dampak Santri: Mandiri, percaya diri, adab otonom T1-T4"]
+        TUMBUH_FK["KUADRAN 4: OTORITATIF / FIRM & KIND (High Demanding, High Responsive)<br/>• Standar syar'i tinggi + kehangatan relasi & dialog empati<br/>• Dampak Santri: Mandiri, percaya diri, adab otonom J1-J4"]
     end
 ```
 
@@ -394,7 +394,7 @@ graph LR
 | **1. Otoriter (Authoritarian)** | **Tinggi (Keras)** | **Rendah (Dingin)** | Perintah satu arah, bentakan, ancaman, hukuman fisik retributif. | Patuh semu saat diawasi, dendam batin, agresif saat di luar, minim empati.[^40] |
 | **2. Permisif (Permissive)** | **Rendah (Lembek)** | **Tinggi (Hangat)** | Serba membiarkan, takut menegur santri, aturan tidak konsisten. | Egosentris, manja, tidak tahan banting, meremehkan hukum dan otoritas. |
 | **3. Abai (Neglectful)** | **Rendah (Cuek)** | **Rendah (Dingin)** | Musyrif tidak hadir, lepas tangan, kamar asrama tanpa kontrol. | Merasa ditelantarkan, rawan perundungan senior, depresi emosional kronis. |
-| **4. Otoritatif (FIRM & KIND)** | **Tinggi (Tegas)** | **Tinggi (Hangat)** | Batasan aturan jelas, dialog restoratif empat mata, konsekuensi 4R, kasih sayang. | **Regulasi diri mandiri, percaya diri tinggi, adab otonom T1–T4, dan berakhlak mulia.**[^41] |
+| **4. Otoritatif (FIRM & KIND)** | **Tinggi (Tegas)** | **Tinggi (Hangat)** | Batasan aturan jelas, dialog restoratif empat mata, konsekuensi 4R, kasih sayang. | **Regulasi diri mandiri, percaya diri tinggi, adab otonom J1–J4, dan berakhlak mulia.**[^41] |
 
 ---
 

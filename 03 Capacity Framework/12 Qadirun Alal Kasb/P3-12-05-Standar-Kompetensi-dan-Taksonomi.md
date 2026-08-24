@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Menguasai kemandirian cuci pakaian dan setrika sendiri, menjahit kancing, merawat alat sekolah mandiri.
 * **Jenjang T2 (Kelas 8 / 11)**: Memilih peminatan vokasi (IT/Pertanian/Kriya/Kuliner), praktik dasar produksi karya, memahami Fiqh jual beli.

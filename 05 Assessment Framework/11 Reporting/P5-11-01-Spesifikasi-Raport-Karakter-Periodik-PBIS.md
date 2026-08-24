@@ -15,7 +15,7 @@ Raport Karakter Periodik diterbitkan setiap akhir semester yang menyajikan visua
 graph TD
     RaportLayout["3 Komponen Utama Raport Karakter Periodik"]
     RaportLayout --> RadarChart["1. Grafik Radar 10 Muwashafat<br/>Pemetaan kekuatan & area pertumbuhan 10 Karakter Utama."]
-    RaportLayout --> TanggaStatus["2. Status Tangga TUMBUH & Milestone<br/>Capaian jenjang Tangga (T1-T4) & persentase milestone tuntas."]
+    RaportLayout --> TanggaStatus["2. Status Jenjang Kemandirian TUMBUH (J1–J4) & Milestone<br/>Capaian jenjang Tangga (J1-J4) & persentase milestone tuntas."]
     RaportLayout --> MusyrifNarrative["3. Qualitative Progress Narrative<br/>Catatan narasi musyrif kamar & rencana dukungan pengasuhan bersama."]
 ```
 

@@ -56,7 +56,7 @@ graph TD
     ==> CP["02 PRINCIPLES<br/>Konstitusi 7 Pilar Nilai & Hukum Baku Pembinaan"]
     
     CP ==> CF["03 CAPACITY FRAMEWORK (10 Muwashafat Karakter Santri)"]
-    CP ==> PF["04 PROGRESSION FRAMEWORK (Tangga TUMBUH T1-T4)"]
+    CP ==> PF["04 PROGRESSION FRAMEWORK (Jenjang Kemandirian TUMBUH (J1–J4) J1-J4)"]
     CP ==> AF["05 ASSESSMENT FRAMEWORK (Asesmen Formatif-Ipsatif)"]
     CP ==> IF["06 INTERVENTION FRAMEWORK (Manual SW-PBIS Multi-Tier)"]
     CP ==> IMP["07 IMPLEMENTATION FRAMEWORK (SOP Asrama 24 Jam)"]

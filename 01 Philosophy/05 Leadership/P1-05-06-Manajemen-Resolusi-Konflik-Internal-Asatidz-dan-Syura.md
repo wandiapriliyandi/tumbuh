@@ -115,7 +115,7 @@ flowchart TD
         
         T4["4. PAKTA REKONSILIASI UKHUWAH & PEMBERSIHAN DENDAM<br/>Penandatanganan komitmen bersama, mushafahah tulus, & doa ukhuwah berjamaah."]
         
-        T1 --> T2 --> T3 --> T4
+        J1 --> J2 --> J3 --> J4
     end
 ```
 

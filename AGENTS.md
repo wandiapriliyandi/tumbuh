@@ -8,7 +8,7 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 1. **Bahasa**: Wajib menggunakan Bahasa Indonesia baku, akademis, dan terstruktur rapi pada seluruh dokumen dan keluaran.
 2. **Prinsip Triad Pertumbuhan Simbiotik**:
    Setiap perumusan modul harus memastikan 3 entitas bertumbuh serempak:
-   - **Santri Tumbuh** (Fitrah, adab, regulasi diri, tangga T1–T4).
+   - **Santri Tumbuh** (Fitrah, adab, regulasi diri, tangga J1–J4).
    - **Guru & Musyrif Tumbuh** (Kompetensi pedagogi, konseling, keikhlasan, keteladanan *Qudwah*, terlindungi dari burnout).
    - **Sistem Lembaga Tumbuh** (Organisasi pembelajar berbasis data PBIS, SOP jelas, bebas intimidasi).
 3. **Terminologi Syar'i Baku**:

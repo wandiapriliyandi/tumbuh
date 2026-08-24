@@ -1,6 +1,6 @@
 # SERI BUKU MASTER EKOSISTEM TUMBUH PESANTREN — JILID II (VOLUME 02)
 # TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER SANTRI TUMBUH
-## *Kerangka Holistik Kompetensi Adab, Taksonomi Fitrah, Trajektori Remaja, Progresi Tangga T1–T4, dan Puncak Khidmah*
+## *Kerangka Holistik Kompetensi Adab, Taksonomi Fitrah, Trajektori Remaja, Progresi Jenjang J1–J4, dan Puncak Khidmah*
 
 **Nomor Koleksi**: BOOK-SERIES/VOL-02/MASTER-MONOGRAPH/2026/08  
 **Dewan Editor**: Dewan Keilmuan Ekosistem TUMBUH (22 Bidang Kepakaran)  
@@ -21,7 +21,7 @@ graph TD
     
     Vol2 --> B3["BAB 03: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)<br/>(Gap Limbik-PFC Usia 12-18 Thn, Krisis Identitas, & Scaffolding Musyrif)"]
     
-    Vol2 --> B4["BAB 04: Progresi Tangga TUMBUH: Tangga T1 s.d. T4 (6 Sub-Bab)<br/>(Ta'aruf, Ta'awun, Tafahum, Takaful, Dinamika Transisi/Relapse, & Matriks Rubrik)"]
+    Vol2 --> B4["BAB 04: Progresi Jenjang Kemandirian TUMBUH (J1–J4): Jenjang J1 s.d. T4 (6 Sub-Bab)<br/>(Ta'aruf, Ta'awun, Tafahum, Takaful, Dinamika Transisi/Relapse, & Matriks Rubrik)"]
     
     Vol2 --> B5["BAB 05: Puncak Perkembangan: Tahap 7 PENGGERAK (4 Sub-Bab)<br/>(Profil Santri Akhir, Tahun Khidmah, Peer Mentorship, & Mediasi Restoratif)"]
     
@@ -53,13 +53,13 @@ graph TD
    - 3.2 Kesenjangan Maturasi Sistem Limbik vs Korteks Prefrontal Otak Remaja
    - 3.3 Penanganan Krisis Identitas (*Identity vs Role Confusion*) Santri
    - 3.4 Konformitas Sebaya & Musyrif sebagai *External Prefrontal Cortex*
-4. **BAB 4: Progresi Tangga TUMBUH: Tahapan Perkembangan Karakter T1–T4 (6 Sub-Bab)**
-   - 4.1 Tangga T1 — Adaptasi (*Ta'aruf*) & Terapi *Homesickness* (Bulan 1–6)
-   - 4.2 Tangga T2 — Habituasi (*Ta'awun*) & Pembiasaan 24-Jam (Bulan 7–18)
-   - 4.3 Tangga T3 — Internalisasi (*Tafahum*) & Disiplin Otonom *Muraqabatullah* (Bulan 19–36)
-   - 4.4 Tangga T4 — Transformasi (*Takaful*) & Keteladanan Kepemimpinan *Qudwah*
+4. **BAB 4: Progresi Jenjang Kemandirian TUMBUH (J1–J4): Tahapan Perkembangan Karakter J1–J4 (6 Sub-Bab)**
+   - 4.1 Jenjang J1 — Adaptasi (*Ta'aruf*) & Terapi *Homesickness* (Bulan 1–6)
+   - 4.2 Jenjang J2 — Habituasi (*Ta'awun*) & Pembiasaan 24-Jam (Bulan 7–18)
+   - 4.3 Jenjang J3 — Internalisasi (*Tafahum*) & Disiplin Otonom *Muraqabatullah* (Bulan 19–36)
+   - 4.4 Jenjang J4 — Transformasi (*Takaful*) & Keteladanan Kepemimpinan *Qudwah*
    - 4.5 Dinamika Transisi & Penanganan Regresi Karakter (*Relapse Prevention Tier 2*)
-   - 4.6 Matriks Rubrik Indikator Kenaikan Tangga T1 ke T4 Berbasis Bukti Faktual
+   - 4.6 Matriks Rubrik Indikator Kenaikan Jenjang J1 ke T4 Berbasis Bukti Faktual
 5. **BAB 5: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap (4 Sub-Bab)**
    - 5.1 Karakteristik & Profil Kepribadian Santri Tahap 7 Penggerak
    - 5.2 Desain Program Inkubasi Pengabdian Santri Akhir (*Tahun Khidmah*)
@@ -139,7 +139,7 @@ graph TD
     
     Santri --> S2["2. TERLIBAT & DIHARGAI (Engaged & Valued)<br/>Suara didengar, keunikan fitrah diapresiasi tanpa dibanding-bandingkan, & memiliki rasa kepemilikan mendalam terhadap asrama."]
     
-    Santri --> S3["3. DITANTANG BERTUMBUH (Challenged to Grow)<br/>Kurikulum adab progresif menaiki Tangga T1–T4 yang menstimulasi nalar kritis, metakognisi, dan daya juang (grit)."]
+    Santri --> S3["3. DITANTANG BERTUMBUH (Challenged to Grow)<br/>Kurikulum adab progresif menaiki Jenjang J1–J4 yang menstimulasi nalar kritis, metakognisi, dan daya juang (grit)."]
     
     Santri --> S4["4. DIDUKUNG SECARA RELASIONAL (Relationally Supported)<br/>Musyrif asrama hadir sebagai figur lekat pengganti orang tua (In Loco Parentis) yang hangat, adil, dan membimbing."]
     
@@ -151,7 +151,7 @@ Pemaparan lima pilar perkembangan anak utuh di atas menegaskan bahwa pembinaan k
 
 1. **Pilar Sehat & Aman (*Safe & Healthy*)**: Santri tidak akan mampu menghafal Al-Qur'an secara mendalam jika tubuhnya diserang penyakit kulit menular (skabies), perutnya kelaparan karena gizi rendah, atau otaknya didera teror ketakutan akibat ancaman senior. Rasa aman fisiologis dan psikologis adalah fondasi mutlak pembentukan karakter.
 2. **Pilar Terlibat & Dihargai (*Engaged & Valued*)**: Santri yang merasa dirinya hanya diposisikan sebagai "objek penderita aturan" akan mengembangkan mekanisme pertahanan diri berupa kepatuhan palsu (*passive defiance*). Sebaliknya, ketika santri dilibatkan dalam merumuskan kesepakatan adab kamar, ia memiliki rasa tanggung jawab moral dari dalam hatinya.
-3. **Pilar Ditantang Bertumbuh (*Challenged to Grow*)**: Pendidikan karakter bukanlah indoktrinasi pasif, melainkan petualangan menaklukkan tantangan. Melalui progresi Tangga TUMBUH (T1 Adaptasi, T2 Habituasi, T3 Internalisasi, T4 Transformasi), santri ditantang melampaui batas kenyamanan egonya menuju kematangan adab.
+3. **Pilar Ditantang Bertumbuh (*Challenged to Grow*)**: Pendidikan karakter bukanlah indoktrinasi pasif, melainkan petualangan menaklukkan tantangan. Melalui progresi Jenjang Kemandirian TUMBUH (J1–J4) (T1 Adaptasi, T2 Habituasi, T3 Internalisasi, T4 Transformasi), santri ditantang melampaui batas kenyamanan egonya menuju kematangan adab.
 4. **Pilar Didukung Relasional (*Relationally Supported*)**: Karakter tidak tumbuh dari mikrofon pengeras suara yang membentak-bentak santri dari menara asrama. Karakter menular lewat tatapan mata yang hangat, senyuman tulus, dan sentuhan pundak musyrif asrama yang mendengarkan keluh kesah santri saat mereka dilanda rindu rumah (*homesickness*).
 5. **Pilar Berorientasi Khidmah (*Socially Service-Oriented*)**: Muara akhir dari kematangan adab santri bukanlah kepuasan individualistis kesalehan pribadi, melainkan kerelaan berkorban untuk kemaslahatan sesama (*altruisme khidmah*).
 
@@ -577,7 +577,7 @@ Untuk membangun kedisiplinan yang sejati, langgeng, dan mandiri, **Ekosistem TUM
 ```mermaid
 graph TD
     subgraph SinergiMotivasiRuang["SINERGI MOTIVASI BATIN (SDT) DAN REKAYASA LINGKUNGAN ASRAMA 24-JAM"]
-        Batin["<b>PILAR BATIN: MOTIVASI INTRINSIK (SDT)</b><br/>• Otonomi: Kesadaran niat ikhlas lillahi ta'ala tanpa paksaan<br/>• Kompetensi: Merasa mampu menaiki Tangga T1–T4 dengan bangga<br/>• Keterhubungan: Kasih sayang hangat musyrif In Loco Parentis"]
+        Batin["<b>PILAR BATIN: MOTIVASI INTRINSIK (SDT)</b><br/>• Otonomi: Kesadaran niat ikhlas lillahi ta'ala tanpa paksaan<br/>• Kompetensi: Merasa mampu menaiki Jenjang J1–J4 dengan bangga<br/>• Keterhubungan: Kasih sayang hangat musyrif In Loco Parentis"]
         
         Ruang["<b>PILAR FISIK: REKAYASA LINGKUNGAN (BI'AH SHALIHAH)</b><br/>• Arsitektur Bebas Titik Buta (Zero Hotspots Eliminating Bullying)<br/>• Dorongan Isyarat Visual (Nudges: Garis Wudhu & Loker 5S)<br/>• Sinkronisasi Dua Pilar (Dual-Pillar Sync Madrasah-Asrama)"]
         
@@ -602,7 +602,7 @@ graph LR
     subgraph KebutuhanSDT["TIGA KEBUTUHAN PSIKOLOGIS DASAR SDT DALAM PERSPEKTIF ISLAM"]
         Otonomi["1. OTONOMI (Autonomy)<br/>Kebutuhan merasa memiliki kehendak bebas & kesadaran nilai.<br/><b>Perspektif Syar'i:</b> Hakikat Ikhlas & Niat Murni Lillahi Ta'ala."]
         
-        Kompetensi["2. KOMPETENSI (Competence)<br/>Kebutuhan merasa cakap, berdaya, & mampu berhasil.<br/><b>Perspektif Syar'i:</b> Istitha'ah & Tahapan Tangga T1–T4."]
+        Kompetensi["2. KOMPETENSI (Competence)<br/>Kebutuhan merasa cakap, berdaya, & mampu berhasil.<br/><b>Perspektif Syar'i:</b> Istitha'ah & Tahapan Jenjang J1–J4."]
         
         Keterhubungan["3. KETERHUBUNGAN (Relatedness)<br/>Kebutuhan merasa dicintai, dihargai, & diterima komunal.<br/><b>Perspektif Syar'i:</b> Mahabbah, Ukhuwah, & In Loco Parentis."]
     end
@@ -618,7 +618,7 @@ Dalam kitab monumentalnya *Al-'Ubudiyyah*[^4], **Syaikhul Islam Ibnu Taimiyyah**
 > *"Ketaatan yang dipaksakan semata-mata karena takut kepada ancaman sesama makhluk bukanlah hakikat ubudiyyah kepada Allah. Ubudiyyah sejati adalah penyerahan diri yang merdeka, di mana hati digerakkan oleh rasa cinta dan kerinduan menggapai ridha-Nya tanpa pamrih duniawi."*
 
 #### 2. Kebutuhan Kompetensi (*Competence*) $\equiv$ Tangga Kapasitas *Istitha'ah*
-Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena **merasa tidak mampu (*incompetent*)** memenuhi tuntutan yang melampaui kapasitas adaptasinya. Santri baru yang belum pernah mencuci pakaian sendiri atau belum lancar membaca pegon akan merasa cemas luar biasa. Melalui progresi Tangga TUMBUH (T1 Adaptasi hingga T4 Transformasi), kurikulum adab dipecah menjadi langkah-langkah kecil yang realistis, sehingga santri merasakan keberhasilan bertahap (*sense of mastery*) yang membangkitkan harga dirinya.
+Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena **merasa tidak mampu (*incompetent*)** memenuhi tuntutan yang melampaui kapasitas adaptasinya. Santri baru yang belum pernah mencuci pakaian sendiri atau belum lancar membaca pegon akan merasa cemas luar biasa. Melalui progresi Jenjang Kemandirian TUMBUH (J1–J4) (T1 Adaptasi hingga T4 Transformasi), kurikulum adab dipecah menjadi langkah-langkah kecil yang realistis, sehingga santri merasakan keberhasilan bertahap (*sense of mastery*) yang membangkitkan harga dirinya.
 
 #### 3. Kebutuhan Keterhubungan Relasional (*Relatedness*) $\equiv$ Kehangatan *Ukhuwah* & Pengasuhan
 Seorang anak yang terpisah ratusan kilometer dari pelukan ayah dan ibunya mengalami kerentanan relasional yang sangat tinggi (*attachment disruption*). Jika di pesantren ia hanya menjumpai pengurus yang berwajah dingin dan suka membentak, jiwanya akan merasa terasing (*alienated*). 
@@ -1141,7 +1141,7 @@ graph LR
 | :--- | :--- | :--- | :--- |
 | **Pengelolaan Uang Saku Mingguan** | Mencatat setiap pemasukan & pengeluaran di Logbook Finansial, menyisihkan infak subuh, dan hemat. | Menghabiskan uang saku di awal pekan, membeli barang tidak penting, lalu berutang ke teman. | Pendampingan budgeting mingguan oleh Musyrif dan pembatasan plafon belanja harian di kantin. |
 | **Perawatan Pakaian & Ranjang Pribadi** | Mencuci pakaian sendiri secara terjadwal, melipat rapi di loker, dan menjahit kancing yang lepas. | Mengongkos adik kelas untuk mencuci baju (*exploitative delegation*) atau menumpuk baju basah kotor. | Larangan mutlak menyuruh santri lain mencuci baju; workshop keterampilan *Basic Life Skills*. |
-| **Etos Partisipasi Kerja Bakti Asrama** | Bekerja tuntas tanpa perlu diawasi, merawat alat kebersihan bersama, dan proaktif membantu dapur. | Menghindar dari piket kerja bakti, malas-malasan, atau melempar tugas ke santri yang lebih lemah. | Penilaian rubrik etos kerja asrama yang terhubung dengan rapor Tangga TUMBUH. |
+| **Etos Partisipasi Kerja Bakti Asrama** | Bekerja tuntas tanpa perlu diawasi, merawat alat kebersihan bersama, dan proaktif membantu dapur. | Menghindar dari piket kerja bakti, malas-malasan, atau melempar tugas ke santri yang lebih lemah. | Penilaian rubrik etos kerja asrama yang terhubung dengan rapor Jenjang Kemandirian TUMBUH (J1–J4). |
 | **Kreativitas Karya & Kewirausahaan** | Menulis artikel mading, berpartisipasi dalam divisi kreatif/koperasi, menghargai nilai karya. | Bersikap pasif, gemar merusak fasilitas umum (*vandalism*), dan memandang rendah pekerjaan fisik. | Program *Santri Entrepreneur Incubator*: magang pengelolaan koperasi dan bazaar karya santri. |
 
 ---
@@ -2346,7 +2346,7 @@ Dengan tuntasnya **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** ini
 
 ### Tangga Pertama: Gerbang Paling Rentan dalam Kehidupan Santri
 
-Dalam arsitektur progresi karakter Ekosistem TUMBUH, **Tangga T1 (Adaptasi / *Ta'aruf*)** menaungi santri pada **6 bulan pertama** kehidupannya di pondok pesantren.
+Dalam arsitektur progresi karakter Ekosistem TUMBUH, **Jenjang J1 (Adaptasi / *Ta'aruf*)** menaungi santri pada **6 bulan pertama** kehidupannya di pondok pesantren.
 
 Fase ini adalah fase paling rentan (*the most vulnerable phase*):
 * Lebih dari 85% santri baru mengalami sindrom kerinduan rumah (*Homesickness*) tingkat sedang hingga berat.
@@ -2367,7 +2367,7 @@ graph TD
         Fokus --> C4["4. Kemitraan Kamar (Room Bonding)<br/>Mengenal nama & karakter kawan sekamar tanpa rasa takut diintimidasi."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.1.1:</b> Peta Capaian Karakter Santri pada Tangga T1 (Adaptasi / Ta'aruf).</sub></div>
+<div align="center"><sub><b>Gambar 4.1.1:</b> Peta Capaian Karakter Santri pada Jenjang J1 (Adaptasi / Ta'aruf).</sub></div>
 
 Pakar psikologi klinis anak **Christopher A. Thurber**[^1] membuktikan bahwa kerinduan rumah (*homesickness*) bukanlah sekadar "cengeng", melainkan respons duka normal (*normative grief response*) akibat hilangnya rasa aman primer. Pendekatan yang efektif bukanlah mencemooh anak, melainkan membangun rasa kelekatan baru di lingkungan institusi.
 
@@ -2411,7 +2411,7 @@ Sistem TUMBUH merancang **Protokol 30 Hari Transisi Emas (*Golden Transition Pro
 2. **Jadwal Telepon Terjadwal & Hangat**: Memfasilitasi komunikasi suara dengan orang tua secara teratur dengan pendampingan musyrif untuk menjaga kestabilan emosi anak.
 3. **Malam Keakraban Kamar (*Baituna Jannatuna Night*)**: Setiap malam Ahad diadakan makan bersama dan permainan kelompok di dalam kamar untuk mempercepat perekatan persaudaraan antarsantri baru.
 
-Dengan tuntasnya Tangga T1, santri telah berhasil melintasi masa krisis adaptasi, siap melangkah mantap menaiki **Tangga T2 (Habituasi / Ta'awun)**.
+Dengan tuntasnya Jenjang J1, santri telah berhasil melintasi masa krisis adaptasi, siap melangkah mantap menaiki **Jenjang J2 (Habituasi / Ta'awun)**.
 
 ---
 
@@ -2436,9 +2436,9 @@ Dengan tuntasnya Tangga T1, santri telah berhasil melintasi masa krisis adaptasi
 
 ### Memasuki Tangga Kedua: Dari Adaptasi Menuju Otomatisasi Karakter
 
-Setelah santri berhasil melampaui fase adaptasi awal dan merasa aman di lingkungan pondok, santri melangkah menaiki **Tangga T2 (Habituasi / *Ta'awun*)** yang berlangsung pada **bulan ke-7 hingga bulan ke-18** (Tahun Pertama Semester 2 hingga Tahun Kedua).
+Setelah santri berhasil melampaui fase adaptasi awal dan merasa aman di lingkungan pondok, santri melangkah menaiki **Jenjang J2 (Habituasi / *Ta'awun*)** yang berlangsung pada **bulan ke-7 hingga bulan ke-18** (Tahun Pertama Semester 2 hingga Tahun Kedua).
 
-Fokus utama pada Tangga T2 adalah **Habituasi dan Kolaborasi**:
+Fokus utama pada Jenjang J2 adalah **Habituasi dan Kolaborasi**:
 * Nilai-nilai adab yang sebelumnya masih dilakukan dengan rasa canggung kini dilatihkan secara konsisten hingga menjadi **kebiasaan bawah sadar (*automated habits*)**.
 * Interaksi santri diperluas dari sekadar menjaga diri sendiri menjadi **mampu bekerja sama dan bergotong royong (*Ta'awun*)** bersama seluruh warga kamar dan asrama.
 
@@ -2456,13 +2456,13 @@ graph TD
         Fokus --> C4["4. Penerimaan Konsekuensi Logis (Accountability)<br/>Menerima teguran restoratif secara dewasa & bersedia melakukan restitusi 4R."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.2.1:</b> Peta Capaian Karakter Santri pada Tangga T2 (Habituasi / Ta'awun).</sub></div>
+<div align="center"><sub><b>Gambar 4.2.1:</b> Peta Capaian Karakter Santri pada Jenjang J2 (Habituasi / Ta'awun).</sub></div>
 
-Pakar psikologi perilaku **Phillippa Lally et al.**[^1] membuktikan bahwa pembentukan kebiasaan otomatis (*automaticity*) membutuhkan waktu rata-rata 66 hari pengulangan harian yang konsisten dalam lingkungan yang stabil. Tangga T2 memberikan ruang waktu yang cukup agar jalur mielin adab santri terbentuk kokoh.
+Pakar psikologi perilaku **Phillippa Lally et al.**[^1] membuktikan bahwa pembentukan kebiasaan otomatis (*automaticity*) membutuhkan waktu rata-rata 66 hari pengulangan harian yang konsisten dalam lingkungan yang stabil. Jenjang J2 memberikan ruang waktu yang cukup agar jalur mielin adab santri terbentuk kokoh.
 
 ---
 
-### Disiplin Positif Jane Nelsen: Menguatkan Tangga T2 Tanpa Friksi
+### Disiplin Positif Jane Nelsen: Menguatkan Jenjang J2 Tanpa Friksi
 
 Pada tangga T2, santri mulai diuji oleh rasa bosan dan kejenuhan rutinitas asrama. Di sinilah banyak pembina terjebak kembali pada cara lama: menggunakan bentakan dan hukuman fisik.
 
@@ -2489,7 +2489,7 @@ graph LR
 
 ### Integrasi Turats: Konsep *Ta'awun 'alal Birri wat-Taqwa*
 
-Fondasi kolaborasi kamar pada Tangga T2 berakar pada perintah Allah SWT dalam Al-Qur'an:
+Fondasi kolaborasi kamar pada Jenjang J2 berakar pada perintah Allah SWT dalam Al-Qur'an:
 $$\text{وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ}$$
 *"Dan tolong-menolonglah kamu dalam mengerjakan kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan!"* (QS. Al-Ma'idah: 2).
 
@@ -2501,7 +2501,7 @@ $$\text{وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّق�
 
 ### Solusi Sistemik TUMBUH: Sistem Poin Apresiasi Kamar (*Room Positive Reinforcement*)
 
-Di asrama TUMBUH, keberhasilan Tangga T2 didukung oleh:
+Di asrama TUMBUH, keberhasilan Jenjang J2 didukung oleh:
 1. **Inspeksi Kamar Terbuka (*Adab Clean Room Audit*)**: Setiap pagi kamar dinilai berdasarkan standar kebersihan 5S; kamar yang paling tertib mendapatkan piala bergilir kamar teladan.
 2. **Penerapan Rasio Apresiasi Relasional 4:1**: Musyrif memberikan 4 apresiasi verbal tulus atas usaha kebaikan santri sebelum melayangkan 1 koreksi perbaikan.
 3. **Piket Kamar Terjadwal & Rotatif**: Setiap santri bertanggung jawab membersihkan area spesifik (lantai, jendela, rak sandal, tempat sampah) secara bergilir.
@@ -2531,7 +2531,7 @@ Santri di tangga T2 telah membiasakan adab dalam ritme fisiknya: mereka tertib, 
 
 ### Tangga Ketiga: Lompatan Kualitatif dari Ketaatan Lahir Menuju Kesadaran Batin
 
-Jika Tangga T1 berfokus pada adaptasi dan Tangga T2 berfokus pada pembiasaan fisik, maka **Tangga T3 (Internalisasi / *Tafahum*)** yang menaungi santri pada **bulan ke-19 hingga bulan ke-36** (Tahun Kedua hingga Tahun Ketiga) adalah **fase pematangan spiritual dan otonomi moral**.
+Jika Jenjang J1 berfokus pada adaptasi dan Jenjang J2 berfokus pada pembiasaan fisik, maka **Jenjang J3 (Internalisasi / *Tafahum*)** yang menaungi santri pada **bulan ke-19 hingga bulan ke-36** (Tahun Kedua hingga Tahun Ketiga) adalah **fase pematangan spiritual dan otonomi moral**.
 
 Pada tangga T3, santri mengalami lompatan kualitatif:
 * Santri tidak lagi berbuat baik karena takut dicatat pelanggarannya oleh musyrif.
@@ -2552,7 +2552,7 @@ graph TD
         Fokus --> C4["4. Pengendalian Konflik Internal (Self-Mediation)<br/>Mampu menahan amarah & berinisiatif meminta maaf lebih dahulu saat terjadi salah paham."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.3.1:</b> Peta Capaian Karakter Santri pada Tangga T3 (Internalisasi / Tafahum).</sub></div>
+<div align="center"><sub><b>Gambar 4.3.1:</b> Peta Capaian Karakter Santri pada Jenjang J3 (Internalisasi / Tafahum).</sub></div>
 
 Pakar psikologi perkembangan moral **Lawrence Kohlberg**[^1] merumuskan bahwa perkembangan moral tertinggi terjadi saat individu berpindah dari tingkat konvensional (patuh demi hukum sosial dan kelompok) menuju **tingkat pasca-konvensional (*post-conventional moral stage*)**: bertindak atas dasar prinsip etika universal dan integritas nurani yang hakiki.
 
@@ -2583,7 +2583,7 @@ graph LR
         Transisi --> Muraqabah["Maqam Muraqabah: Integritas Batin Karena Allah (Ihsan)"]
     end
 ```
-<div align="center"><sub><b>Gambar 4.3.2:</b> Transformasi Motivasi Santri Menuju Maqam Muraqabah pada Tangga T3.</sub></div>
+<div align="center"><sub><b>Gambar 4.3.2:</b> Transformasi Motivasi Santri Menuju Maqam Muraqabah pada Jenjang J3.</sub></div>
 
 **Al-Imam Al-Harits al-Muhasibi** dalam *Adab an-Nufus*[^4] menegaskan bahwa jiwa yang telah mencapai derajat *Tafahum* akan merasa malu kepada Allah (*al-Haya' minallah*) bahkan saat ia berada sendirian di kegelapan malam yang sunyi.
 
@@ -2591,7 +2591,7 @@ graph LR
 
 ### Solusi Sistemik TUMBUH: Transisi Menuju Manajemen Otonom Kamar
 
-Pada Tangga T3, Sistem TUMBUH memberikan porsi kepercayaan dan otonomi yang lebih besar:
+Pada Jenjang J3, Sistem TUMBUH memberikan porsi kepercayaan dan otonomi yang lebih besar:
 1. **Pemberian Tanggung Jawab Mandiri (*Self-Managed Dormitory*)**: Musyrif mengurangi intensitas komando langsung dan berperan sebagai konsultan / fasilitator dialogis mingguan.
 2. **Halaqah Muhasabah Diri (*Self-Reflection Circle*)**: Santri mengisi jurnal refleksi adab pribadi (*Ipsative Adab Journal*), mengevaluasi titik lemah dirinya secara jujur tanpa rasa takut dihukum.
 3. **Pelatihan Asertivitas Menolak Ajaran Buruk (*Peer Resistance Workshop*)**: Santri dilatih teknik komunikasi asertif untuk berani berkata tidak saat diajak melanggar aturan oleh kawan sebaya.
@@ -2621,9 +2621,9 @@ Santri di tangga T3 telah memiliki **benteng moral internal yang kokoh**: mereka
 
 ### Tangga Tertinggi Santri: Dari Menjaga Diri Menjadi Penggerak Perubahan
 
-Puncak dari tangga perkembangan karakter di tingkat santri adalah **Tangga T4 (Transformasi / *Takaful*)**, yang menaungi santri kelas atas (Tahun ke-3 ke atas dan Santri Aliyah/Senior).
+Puncak dari tangga perkembangan karakter di tingkat santri adalah **Jenjang J4 (Transformasi / *Takaful*)**, yang menaungi santri kelas atas (Tahun ke-3 ke atas dan Santri Aliyah/Senior).
 
-Pada Tangga T4, fokus pembinaan bergeser secara revolusioner:
+Pada Jenjang J4, fokus pembinaan bergeser secara revolusioner:
 * Santri tidak lagi sekadar menjadi "konsumen adab" yang menjaga kesalehan pribadinya.
 * **Santri bertransformasi menjadi "produsen adab" dan agen perubahan (*Change Agent / Qudwah Hasanah*)** yang melayani, melindungi, dan membimbing adik-adik kelasnya di tangga T1 dan T2.
 
@@ -2641,7 +2641,7 @@ graph TD
         Fokus --> C4["4. Duta Perdamaian Restoratif (Restorative Ambassador)<br/>Membantu musyrif memoderasi perselisihan adik kelas dengan kepala dingin & adil."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.4.1:</b> Peta Capaian Karakter Santri pada Tangga T4 (Transformasi / Takaful).</sub></div>
+<div align="center"><sub><b>Gambar 4.4.1:</b> Peta Capaian Karakter Santri pada Jenjang J4 (Transformasi / Takaful).</sub></div>
 
 Pakar psikologi sosial legendaris **Albert Bandura**[^1] dalam *Social Cognitive Theory* membuktikan bahwa pemodelan perilaku oleh figur teladan sebaya (*peer modeling*) memiliki daya pengaruh pembentukan karakter 4 kali lebih kuat dibanding instruksi verbal guru di kelas.
 
@@ -2657,13 +2657,13 @@ Sistem TUMBUH melakukan revolusi kultural total: **mencabut 100% wewenang menghu
 
 Pakar kepemimpinan pelayan **Robert K. Greenleaf**[^2] menegaskan bahwa ujian kepemimpinan sejati adalah: *"Apakah orang-orang yang dipimpin bertumbuh semakin cerdas, semakin mandiri, dan semakin berdaya?"*
 
-Santri Tangga T4 membuktikan kepemimpinannya bukan dengan membuat adik kelas gemetar ketakutan, melainkan dengan membuat adik kelas merasa aman, disayangi, dan terinspirasi untuk meneladani kesalehannya.
+Santri Jenjang J4 membuktikan kepemimpinannya bukan dengan membuat adik kelas gemetar ketakutan, melainkan dengan membuat adik kelas merasa aman, disayangi, dan terinspirasi untuk meneladani kesalehannya.
 
 ---
 
 ### Integrasi Turats: Konsep *Takaful Ijtima'i* & *Al-Hisbah bil Ma'ruf*
 
-Tanggung jawab sosial santri Tangga T4 berakar kokoh pada prinsip *Takaful* (saling menanggung dan memelihara keselamatan saudara seiman).
+Tanggung jawab sosial santri Jenjang J4 berakar kokoh pada prinsip *Takaful* (saling menanggung dan memelihara keselamatan saudara seiman).
 
 Rasulullah SAW bersabda dalam hadits yang diriwayatkan oleh **Imam Muslim**:
 $$\text{مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ، وَتَرَاحُمِهِمْ، وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ؛ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى}$$
@@ -2687,12 +2687,12 @@ graph LR
 
 ### Solusi Sistemik TUMBUH: Program Kakak Asuh & Inkubasi Kepemimpinan Khidmah
 
-Di lingkungan pesantren TUMBUH, santri Tangga T4 menjalankan peran formal:
+Di lingkungan pesantren TUMBUH, santri Jenjang J4 menjalankan peran formal:
 1. **Duta Pendamping Belajar (*Academic Peer Tutor*)**: Menjadi asisten ustadz dalam membimbing setoran hafalan Quran dan muthala'ah kitab santri T1 dan T2.
 2. **Kepanitiaan Khidmah Komunal**: Mengelola kepanitiaan hari besar Islam, bakti sosial lingkungan sekitar pesantren, dan perawatan kebersihan asrama.
 3. **Pemberian Lencana Teladan Qudwah**: Santri T4 yang menunjukkan integritas istimewa dilantik sebagai Duta Teladan TUMBUH dalam upacara resmi lembaga.
 
-Santri Tangga T4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah pemimpin yang melayani, mercusuar teladan di asrama, dan calon pemimpin peradaban Islam di masa depan.
+Santri Jenjang J4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah pemimpin yang melayani, mercusuar teladan di asrama, dan calon pemimpin peradaban Islam di masa depan.
 
 ---
 
@@ -2720,14 +2720,14 @@ Santri Tangga T4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah 
 Salah satu ilusi terbesar dalam evaluasi pendidikan karakter adalah asumsi keliru bahwa pertumbuhan moral santri bergerak secara linier lurus dari hari ke hari tanpa pernah mengalami kemunduran.
 
 Sains psikologi perkembangan dan konsensus PBIS membuktikan bahwa **pertumbuhan karakter manusia bersifat non-linier dan berfluktuasi**:
-* Seorang santri yang telah mencapai Tangga T2 atau T3 sewaktu-waktu dapat mengalami **Regresi Perilaku (*Behavioral Regression / Dip*)**: mendadak kembali malas bangun subuh, melanggar kerapian loker, atau tersulut amarah di bilik asrama.
+* Seorang santri yang telah mencapai Jenjang J2 atau T3 sewaktu-waktu dapat mengalami **Regresi Perilaku (*Behavioral Regression / Dip*)**: mendadak kembali malas bangun subuh, melanggar kerapian loker, atau tersulut amarah di bilik asrama.
 * Regresi ini kerap dipicu oleh faktor transisi lingkungan: pasca-liburan panjang pulang ke rumah (*post-holiday shock*), kelelahan fisik menjelang pekan ujian (*exam fatigue*), kabar duka keluarga, atau konflik relasi dengan kawan sekamar.
 
 ```mermaid
 graph TD
     subgraph TrajektoriNonLinier["TRAJEKTORI PERKEMBANGAN NON-LINIER & DETEKSI REGRESI"]
-        T1["Tangga T1: Adaptasi"] --> T2["Tangga T2: Habituasi"]
-        T2 --> T3["Tangga T3: Internalisasi"]
+        T1["Jenjang J1: Adaptasi"] --> T2["Jenjang J2: Habituasi"]
+        T2 --> T3["Jenjang J3: Internalisasi"]
         
         T3 -.->|"Pemicu Stres/Liburan"| Regresi["TITIK REGRESI SEMENTARA (BEHAVIORAL DIP)"]
         
@@ -2772,7 +2772,7 @@ $$\text{إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِ
 
 ---
 
-# SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN T1–T4
+# SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4
 ## *Standarisasi Asesmen Kenaikan Tangga Kapasitas Berbasis Bukti Faktual Tanpa Subjektivitas dan Bebas Favoritisme*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-06/MONOGRAF-MASTER-VIBRANT`  
@@ -2787,7 +2787,7 @@ Di banyak lembaga pendidikan tradisional, penilaian akhlak santri kerap kali din
 1. **Subjektivitas Guru (*Halo Effect / Favoritisme*)**: Santri yang pandai mengambil hati guru atau anak dari tokoh terpandang otomatis diberi nilai akhlak "A", sementara santri pendiam atau yang pernah berbuat khilaf dicap "nakal" seumur hidup.
 2. **Ketiadaan Indikator Perilaku yang Terukur (*Lack of Behavioral Clarity*)**: Nilai adab di rapor hanya berupa huruf abstrak tanpa deskripsi jelas apa yang harus diperbaiki dan bagaimana cara mencapainya.
 
-Ekosistem TUMBUH memecahkan kebuntuan ini melalui **Matriks Rubrik Indikator Kenaikan Tangga T1–T4**: sebuah panduan observasi berbasis bukti faktual (*evidence-based behavioral descriptors*) yang memetakan perkembangan nyata santri dalam ritme kehidupan 24 jam.
+Ekosistem TUMBUH memecahkan kebuntuan ini melalui **Matriks Rubrik Indikator Kenaikan Jenjang J1–J4**: sebuah panduan observasi berbasis bukti faktual (*evidence-based behavioral descriptors*) yang memetakan perkembangan nyata santri dalam ritme kehidupan 24 jam.
 
 ```mermaid
 graph TD
@@ -2801,17 +2801,17 @@ graph TD
         Bukti --> Ipsatif --> Transparan
     end
 ```
-<div align="center"><sub><b>Gambar 4.5.1:</b> Tiga Prinsip Utama Sistem Asesmen Perkembangan Tangga TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 4.5.1:</b> Tiga Prinsip Utama Sistem Asesmen Perkembangan Jenjang Kemandirian TUMBUH (J1–J4).</sub></div>
 
 Pakar desain asesmen pendidikan **Grant Wiggins & Jay McTighe**[^1] dalam *Understanding by Design* menegaskan bahwa rubrik yang efektif harus mendeskripsikan kualitas performa secara objektif, menghindari kata-kata sifat yang ambigu, dan menjadi alat panduan belajar bagi peserta didik (*assessment as learning*).
 
 ---
 
-### Matriks Komprehensif: Deskriptor Perilaku Tangga T1 hingga T4
+### Matriks Komprehensif: Deskriptor Perilaku Jenjang J1 hingga T4
 
 Tabel berikut menyajikan matriks rubrik operasional lintas 5 dimensi kapasitas pada setiap tingkatan tangga perkembangan:
 
-| Dimensi Kapasitas | Tangga T1 (Adaptasi) | Tangga T2 (Habituasi) | Tangga T3 (Internalisasi) | Tangga T4 (Transformasi) |
+| Dimensi Kapasitas | Jenjang J1 (Adaptasi) | Jenjang J2 (Habituasi) | Jenjang J3 (Internalisasi) | Jenjang J4 (Transformasi) |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Ruhaniyyah (Spiritual)** | Mengenal jadwal shalat; butuh diingatkan musyrif untuk ke masjid. | Shalat berjamaah tepat waktu secara rutin; membaca wirid ba'da shalat. | Hadir shaf pertama atas inisiatif sendiri; istiqamah dhuha & qiyamul lail. | Membangunkan kawan dengan santun; menjadi imam/muadzin teladan asrama. |
 | **2. Wijdaniyyah (Sosio-Emosional)** | Mengatasi rasa homesick; mengenal nama teman sekamar. | Mampu menahan amarah saat berselisih; meminta maaf jika salah. | Berani menolak ajakan buruk sebaya; proaktif mendamaikan perselisihan. | Menjadi mentor sebaya (*peer mentor*); memimpin lingkaran restoratif kamar. |
@@ -2860,12 +2860,12 @@ Prinsip keadilan dan transparansi penilaian ini merupakan perwujudan dari ajaran
 
 ### Solusi Sistemik TUMBUH: Perayaan Capaian Karakter (*Growth Milestone Celebration*)
 
-Setiap kali seorang santri dinyatakan resmi naik tangga (misalnya dilantik dari Tangga T2 ke Tangga T3):
+Setiap kali seorang santri dinyatakan resmi naik tangga (misalnya dilantik dari Jenjang J2 ke Jenjang J3):
 * Lembaga mengadakan **Upacara Perayaan Pertumbuhan (*Growth Milestone Assembly*)**.
 * Santri disematkan pin lencana tangga barunya dan mendapatkan doa tulus dari para kiai dan musyrif.
 * Perayaan ini memberikan penguatan dopamin alami dan kebanggaan spiritual yang membakar semangat seluruh santri untuk terus bertumbuh meraih kemuliaan adab.
 
-Dengan berakhirnya Bab 04 ini, arsitektur tangga perkembangan karakter T1–T4 telah berdiri kokoh, siap mengantarkan santri menuju puncak kepemimpinan peradaban pada **Bab 05: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap**.
+Dengan berakhirnya Bab 04 ini, arsitektur tangga perkembangan karakter J1–J4 telah berdiri kokoh, siap mengantarkan santri menuju puncak kepemimpinan peradaban pada **Bab 05: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap**.
 
 ---
 
@@ -3259,11 +3259,11 @@ Pakar diferensiasi kurikulum **Carol Ann Tomlinson**[^2] menekankan bahwa kuriku
 
 Tabel berikut menyajikan pemetaan capaian adab berjenjang pada tingkat MTs di pesantren TUMBUH:
 
-| Jenjang Kelas | Target Tangga TUMBUH | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
+| Jenjang Kelas | Target Jenjang Kemandirian TUMBUH (J1–J4) | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
 | :--- | :--- | :--- |
-| **Kelas 7 MTs**<br/>*(Usia 12–13 Tahun)* | **Tangga T1 (Adaptasi)** $\rightarrow$ **Awal Tangga T2 (Habituasi)** | • Mengatasi kerinduan rumah (*homesickness*) secara sehat.<br/>• Hafal jadwal kegiatan harian asrama dan madrasah.<br/>• Menjaga kebersihan loker pribadi dan tidak meletakkan pakaian kotor sembarangan.<br/>• Mengenakan sandal sendiri dan tidak pernah mengambil sandal kawan tanpa izin.<br/>• Hadir di masjid tepat saat adzan berkumandang. |
-| **Kelas 8 MTs**<br/>*(Usia 13–14 Tahun)* | **Tangga T2 (Habituasi Penuh)** | • Melaksanakan tugas piket kamar dan lorong secara konsisten tanpa diperingatkan.<br/>• Menolak terlibat dalam perundungan verbal atau pemberian julukan buruk (*laqab pejoratif*).<br/>• Mampu mencuci dan melipat pakaian pribadi secara mandiri.<br/>• Mengelola uang saku mingguan dengan catatan pembukuan sederhana.<br/>• Menjaga keheningan saat muthala'ah malam di kamar. |
-| **Kelas 9 MTs**<br/>*(Usia 14–15 Tahun)* | **Transisi Menuju Tangga T3 (Internalisasi Awal)** | • Shalat berjamaah di shaf pertama atas kesadaran *muraqabatullah* mandiri.<br/>• Berani menolak ajakan kawan untuk melanggar aturan pondok (*peer resistance*).<br/>• Menyelesaikan perselisihan dengan kawan sekamar melalui dialog damai.<br/>• Menjadi teladan ketertiban bagi santri kelas 7 (memulai peran *junior buddy*).<br/>• Memiliki target hafalan Al-Qur'an dan muthala'ah kitab yang terencana mandiri. |
+| **Kelas 7 MTs**<br/>*(Usia 12–13 Tahun)* | **Jenjang J1 (Adaptasi)** $\rightarrow$ **Awal Jenjang J2 (Habituasi)** | • Mengatasi kerinduan rumah (*homesickness*) secara sehat.<br/>• Hafal jadwal kegiatan harian asrama dan madrasah.<br/>• Menjaga kebersihan loker pribadi dan tidak meletakkan pakaian kotor sembarangan.<br/>• Mengenakan sandal sendiri dan tidak pernah mengambil sandal kawan tanpa izin.<br/>• Hadir di masjid tepat saat adzan berkumandang. |
+| **Kelas 8 MTs**<br/>*(Usia 13–14 Tahun)* | **Jenjang J2 (Habituasi Penuh)** | • Melaksanakan tugas piket kamar dan lorong secara konsisten tanpa diperingatkan.<br/>• Menolak terlibat dalam perundungan verbal atau pemberian julukan buruk (*laqab pejoratif*).<br/>• Mampu mencuci dan melipat pakaian pribadi secara mandiri.<br/>• Mengelola uang saku mingguan dengan catatan pembukuan sederhana.<br/>• Menjaga keheningan saat muthala'ah malam di kamar. |
+| **Kelas 9 MTs**<br/>*(Usia 14–15 Tahun)* | **Transisi Menuju Jenjang J3 (Internalisasi Awal)** | • Shalat berjamaah di shaf pertama atas kesadaran *muraqabatullah* mandiri.<br/>• Berani menolak ajakan kawan untuk melanggar aturan pondok (*peer resistance*).<br/>• Menyelesaikan perselisihan dengan kawan sekamar melalui dialog damai.<br/>• Menjadi teladan ketertiban bagi santri kelas 7 (memulai peran *junior buddy*).<br/>• Memiliki target hafalan Al-Qur'an dan muthala'ah kitab yang terencana mandiri. |
 
 ---
 
@@ -3335,11 +3335,11 @@ Pakar psikologi perkembangan **Erik H. Erikson**[^1] menegaskan bahwa keberhasil
 
 Tabel berikut menyajikan matriks capaian adab berjenjang santri tingkat MA dalam Ekosistem TUMBUH:
 
-| Jenjang Kelas | Target Tangga TUMBUH | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
+| Jenjang Kelas | Target Jenjang Kemandirian TUMBUH (J1–J4) | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
 | :--- | :--- | :--- |
-| **Kelas 10 MA**<br/>*(Usia 15–16 Tahun)* | **Tangga T3 (Internalisasi Penuh)** | • Menjaga integritas ibadah dan adab kamar secara mandiri tanpa pengawasan ustadz.<br/>• Memahami argumen rasional dan dalil syar'i di balik setiap tata tertib pondok.<br/>• Mampu mengelola waktu belajar mandiri (*muthala'ah*) minimal 90 menit per hari.<br/>• Menerapkan prinsip *Tabayyun* dalam menerima informasi berita dan media sosial.<br/>• Memulai peran pendampingan adik asuh (*Junior Peer Mentor*). |
-| **Kelas 11 MA**<br/>*(Usia 16–17 Tahun)* | **Awal Tangga T4 (Transformasi)** | • Mengemban amanah kepengurusan Organisasi Santri dengan etos *Servant Leadership*.<br/>• Menolak keras segala bentuk tradisi perpeloncoan dan intimidasi fisik kepada adik kelas.<br/>• Mampu memediasi konflik antarteman menggunakan prinsip lingkaran restoratif damai.<br/>• Menginisiasi proyek khidmah sosial (perpustakaan asrama, bank sampah, kebun hijau).<br/>• Menulis karya ilmiah / esai refleksi adab berbasis kajian Turats dan sains modern. |
-| **Kelas 12 MA**<br/>*(Usia 17–18 Tahun)* | **Puncak Tangga T4 $\rightarrow$ Tahap 7 PENGGERAK** | • Menjadi figur teladan hidup (*Living Qudwah*) bagi seluruh santri asrama.<br/>• Memimpin majlis musyawarah santri dan mendampingi adik kelas T1 dalam masa adaptasi.<br/>• Memiliki kematangan visi hidup: merencanakan studi lanjut dan kiprah dakwah di masyarakat.<br/>• Menunjukkan adab tawadhu' dan khidmah tulus kepada para kiai, masyaikh, dan asatidz.<br/>• Siap secara mental, pedagogis, dan spiritual memasuki **Tahun Khidmah (Pengabdian)**. |
+| **Kelas 10 MA**<br/>*(Usia 15–16 Tahun)* | **Jenjang J3 (Internalisasi Penuh)** | • Menjaga integritas ibadah dan adab kamar secara mandiri tanpa pengawasan ustadz.<br/>• Memahami argumen rasional dan dalil syar'i di balik setiap tata tertib pondok.<br/>• Mampu mengelola waktu belajar mandiri (*muthala'ah*) minimal 90 menit per hari.<br/>• Menerapkan prinsip *Tabayyun* dalam menerima informasi berita dan media sosial.<br/>• Memulai peran pendampingan adik asuh (*Junior Peer Mentor*). |
+| **Kelas 11 MA**<br/>*(Usia 16–17 Tahun)* | **Awal Jenjang J4 (Transformasi)** | • Mengemban amanah kepengurusan Organisasi Santri dengan etos *Servant Leadership*.<br/>• Menolak keras segala bentuk tradisi perpeloncoan dan intimidasi fisik kepada adik kelas.<br/>• Mampu memediasi konflik antarteman menggunakan prinsip lingkaran restoratif damai.<br/>• Menginisiasi proyek khidmah sosial (perpustakaan asrama, bank sampah, kebun hijau).<br/>• Menulis karya ilmiah / esai refleksi adab berbasis kajian Turats dan sains modern. |
+| **Kelas 12 MA**<br/>*(Usia 17–18 Tahun)* | **Puncak Jenjang J4 $\rightarrow$ Tahap 7 PENGGERAK** | • Menjadi figur teladan hidup (*Living Qudwah*) bagi seluruh santri asrama.<br/>• Memimpin majlis musyawarah santri dan mendampingi adik kelas T1 dalam masa adaptasi.<br/>• Memiliki kematangan visi hidup: merencanakan studi lanjut dan kiprah dakwah di masyarakat.<br/>• Menunjukkan adab tawadhu' dan khidmah tulus kepada para kiai, masyaikh, dan asatidz.<br/>• Siap secara mental, pedagogis, dan spiritual memasuki **Tahun Khidmah (Pengabdian)**. |
 
 ---
 
@@ -3581,7 +3581,7 @@ graph TD
         
         B3["BAB 3: TRAJEKTORI REMAJA & NEUROSAINS<br/>Menjembatani Gap Limbik-PFC Usia 12-18 Thn & Peran Musyrif External PFC"]
         
-        B4["BAB 4: TANGGA PERTUMBUHAN T1-T4<br/>Ta'aruf Adaptasi -> Ta'awun Habituasi -> Tafahum Internalisasi -> Takaful Transformasi"]
+        B4["BAB 4: TANGGA PERTUMBUHAN J1-J4<br/>Ta'aruf Adaptasi -> Ta'awun Habituasi -> Tafahum Internalisasi -> Takaful Transformasi"]
         
         B5["BAB 5: PUNCAK TAHAP 7 PENGGERAK<br/>Tahun Khidmah, Mentorship Bebas Feodalisme, & Kaderisasi Pendidik Berkelanjutan"]
         
@@ -3600,7 +3600,7 @@ Dalam perspektif filsafat pendidikan Islam, **Prof. Dr. Syed Muhammad Naquib al-
 
 ### Melahirkan Generasi Baru Pesantren Bebas Kekerasan
 
-Melalui penerapan taksonomi karakter dan tangga progresi T1–T4 ini, mimpi besar pembaruan pesantren bukan lagi sekadar utopia di atas kertas:
+Melalui penerapan taksonomi karakter dan tangga progresi J1–J4 ini, mimpi besar pembaruan pesantren bukan lagi sekadar utopia di atas kertas:
 * **Tidak ada lagi santri baru yang menangis ketakutan di malam hari** karena dihantui ancaman pemukulan senior; mereka tidur dengan tenang di bawah naungan kasih sayang para musyrif dan kakak asuh yang berhati malaikat.
 * **Tidak ada lagi ustadz yang kehilangan kesabaran dan melayangkan rotan**; para pendidik mendampingi anak dengan ketenangan nalar *External Prefrontal Cortex* dan kelembutan metode *Firm & Kind*.
 * **Tidak ada lagi santri yang merasa menjadi anak buangan yang gagal**; setiap anak dipetakan keunikan fitrahnya, dihargai kemajuan pribadinya, dan dibimbing menaiki tangga kapasitasnya selangkah demi selangkah.

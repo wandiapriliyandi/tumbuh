@@ -22,7 +22,7 @@
 | **10** | **CASEL Social-Emotional Competency Assessment** | CASEL Assessment Workgroup | Asesmen 5 kompetensi sosio-emosional santri. | **Domain 03, 05** |
 | **11** | **Hotspots Environmental Engineering Checklist** | Tim Intervensi TUMBUH | Lembar pemetaan lokasi & jam rawan kekerasan/perundungan di asrama. | **Domain 06, 07** |
 | **12** | **Teacher Qudwah Self-Assessment Scale** | Tim Akademik TUMBUH | Skala evaluasi diri keteladanan pendidik (*Qudwah Hasanah*). | **Domain 02, 05** |
-| **13** | **Peer Buddy Supervision Rubric** | Tim Pengasuhan TUMBUH | Lembar pemantauan tugas pendampingan Santri Senior Tangga T4. | **Domain 04, 09** |
+| **13** | **Peer Buddy Supervision Rubric** | Tim Pengasuhan TUMBUH | Lembar pemantauan tugas pendampingan Santri Senior Jenjang J4. | **Domain 04, 09** |
 | **14** | **Homesickness Early Warning Index** | Tim Konseling BK TUMBUH | Indeks pendeteksian dini kecemasan & homesickness santri baru. | **Domain 06, 09** |
 | **15** | **Burnout Risk Self-Assessment for Musyrif** | Maslach Burnout Inventory (MBI) Adaptasi | Skala pengukur tingkat kelelahan emosional pengasuh asrama. | **Domain 07** |
 | **16** | **Benchmarking Evaluation Inventory (BEI)** | Center on PBIS (2018) | Asesmen tolok ukur kesiapan infrastruktur lembaga untuk PBIS. | **Domain 05, 07** |

@@ -220,7 +220,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 | :--- | :--- | :--- | :--- |
 | **1. Parenting** | *Sekolah Orang Tua Beradab (SOTB)*: Kajian daring dwi-bulanan tentang neurosains remaja & adab keluarga. | Dwi-Bulanan (Ahad Pagi). | $\ge 85\%$ wali santri hadir aktif dan memahami tahapan perkembangan fitrah.[^9] |
 | **2. Communicating** | Laporan Portofolio Naratif PBIS berkala & Layanan Konsultasi Tabayyun Privat bersama Wali Kamar. | Harian (App) & Semesteran (SLC). | Komunikasi transparan, bebas hoaks, dan indeks kepuasan wali $\ge 90\%$. |
-| **3. Volunteering** | *Program Khidmah Wali Profesional*: Orang tua dokter, insinyur, dll. memberikan kuliah tamu & bakti sosial. | Per-Triwulan. | Terjalinnya transfer inspirasi karier masa depan bagi santri Tangga T3–T4. |
+| **3. Volunteering** | *Program Khidmah Wali Profesional*: Orang tua dokter, insinyur, dll. memberikan kuliah tamu & bakti sosial. | Per-Triwulan. | Terjalinnya transfer inspirasi karier masa depan bagi santri Jenjang J3–T4. |
 | **4. Learning at Home** | Jurnal Pembiasaan Ibadah Liburan: Menjaga shalat Subuh berjamaah, tilawah, & khidmah membantu orang tua. | Setiap Masa Libur Semester. | Zero Regression: Santri kembali ke pondok dengan adab dan hafalan yang terjaga. |
 | **5. Decision Making** | Forum Majelis Komite Wali Santri: Musyawarah perwakilan orang tua bersama pimpinan pondok. | Semesteran. | Aspirasi orang tua tersalurkan secara konstruktif dan bermartabat. |
 | **6. Collaborating** | Kemitraan jejaring sosial orang tua untuk program magang dakwah, beasiswa santri yatim, & fasilitas UKS. | Berkelanjutan. | Terciptanya ekosistem pendukung komunitas yang kokoh bagi kemajuan pondok.[^10] |

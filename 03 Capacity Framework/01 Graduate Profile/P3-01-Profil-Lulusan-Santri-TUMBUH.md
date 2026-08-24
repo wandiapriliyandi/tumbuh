@@ -14,7 +14,7 @@
 >   Menjawab pertanyaan mendasar kapasitas: *"Profil paripurna seperti apakah yang dihasilkan oleh ekosistem pesantren TUMBUH bagi ketiga entitas simbiotik (Santri, Musyrif, dan Kelembagaan), sehingga santri lulus sebagai Insan Adabi yang kokoh akidahnya, cerdas nalarnya, mandiri hidupnya, dan siap memimpin peradaban dunia?"*
 > * **Enam Pilar Riset Kapasitas Kelulusan yang Terintegrasi:**  
 >   1. **P3-01-01 (Triad Profil Kapasitas):** Menyatukan standar pertumbuhan Santri, Guru/Musyrif, dan Kelembagaan secara simbiotik.  
->   2. **P3-01-02 (Kompetensi 10 Karakter Santri):** Standar capaian 10 Muwashafat di Tangga T4 Penggerak.  
+>   2. **P3-01-02 (Kompetensi 10 Karakter Santri):** Standar capaian 10 Muwashafat di Jenjang J4 Penggerak.  
 >   3. **P3-01-03 (Standar Qudwah Musyrif):** Standar kompetensi pedagogi, observasi BARS, dan keteladanan pengasuh asrama.  
 >   4. **P3-01-04 (Kapasitas Kelembagaan):** Standar pesantren sebagai *Learning Organization*, sanitasi prima, dan keamanan psikologis.  
 >   5. **P3-01-05 (Kesiapan Global Abad 21):** Integrasi Maqashid Syariah dengan 4C, *Digital Wisdom*, dan diplomasi wasathiyyah.  
@@ -79,7 +79,7 @@ graph TD
 ### 3. Rangkuman 6 Pilar Riset Profil Kapasitas Kelulusan
 
 1. **Pilar 1: Triad Profil Kapasitas (P3-01-01)**: Menetapkan profil pertumbuhan terpadu antara Santri, Musyrif, dan Kelembagaan secara simbiotik tanpa eksploitasi.
-2. **Pilar 2: Standar 10 Karakter Santri (P3-01-02)**: Menetapkan taksonomi 10 karakter Muwashafat pada capaian tertinggi Tangga T4 (Penggerak Qudwah).
+2. **Pilar 2: Standar 10 Karakter Santri (P3-01-02)**: Menetapkan taksonomi 10 karakter Muwashafat pada capaian tertinggi Jenjang J4 (Penggerak Qudwah).
 3. **Pilar 3: Standar Kompetensi Qudwah Musyrif (P3-01-03)**: Menstandarisasi kompetensi pendidik asrama berbasis rubrik BARS, diklat 40 jam, dan perlindungan anti-burnout.
 4. **Pilar 4: Standar Kapasitas Kelembagaan (P3-01-04)**: Mentransformasikan pesantren menjadi *Learning Organization* berbasis data analitik PBIS 24 jam dengan iklim *Psychological Safety*.
 5. **Pilar 5: Kesiapan Disrupsi Global Abad 21 (P3-01-05)**: Membekali alumni dengan kecakapan 4C (*Critical Thinking, Creativity, Communication, Collaboration*), *Digital Wisdom*, dan kepemimpinan Wasathiyyah global.
@@ -96,7 +96,7 @@ graph TD
 | Kode Berkas | Judul Naskah Monograf | Fokus Kajian & Inovasi Riset | Tautan Berkas Markdown |
 | :---: | :--- | :--- | :--- |
 | **P3-01-01** | **Triad Profil Kapasitas** | Sinergi integral 3 profil: Santri, Musyrif, & Kelembagaan. | [**`Buka Naskah P3-01-01`**](./P3-01-01-Triad-Profil-Kapasitas.md) |
-| **P3-01-02** | **Kompetensi Inti 10 Karakter Santri** | Taksonomi 10 Muwashafat di Tangga T4 Penggerak. | [**`Buka Naskah P3-01-02`**](./P3-01-02-Kompetensi-Inti-10-Karakter-Santri.md) |
+| **P3-01-02** | **Kompetensi Inti 10 Karakter Santri** | Taksonomi 10 Muwashafat di Jenjang J4 Penggerak. | [**`Buka Naskah P3-01-02`**](./P3-01-02-Kompetensi-Inti-10-Karakter-Santri.md) |
 | **P3-01-03** | **Standar Kompetensi Qudwah Musyrif** | Standar Qudwah First, BARS observasi, & diklat 40 jam. | [**`Buka Naskah P3-01-03`**](./P3-01-03-Standar-Kompetensi-Qudwah-Musyrif.md) |
 | **P3-01-04** | **Standar Kapasitas Kelembagaan** | Pesantren sebagai Learning Organization & sanitasi prima. | [**`Buka Naskah P3-01-04`**](./P3-01-04-Standar-Kapasitas-Kelembagaan-Pesantren.md) |
 | **P3-01-05** | **Profil Kesiapan Disrupsi Global** | Nalar kritis mantiq, digital wisdom, & diplomasi wasathiyyah. | [**`Buka Naskah P3-01-05`**](./P3-01-05-Profil-Kesiapan-Alumni-Menghadapi-Disrupsi-Global.md) |
@@ -153,7 +153,7 @@ graph LR
 4. **Learning Organization**: Institusi pendidikan yang adaptif, berbasis data, dan memiliki iklim *Psychological Safety*.
 5. **Digital Wisdom**: Kebijaksanaan moral dalam memanfaatkan teknologi informasi dan kecerdasan buatan.
 6. **Mutqin**: Penguasaan hafalan yang kokoh, lancar, dan berakar pemahaman makna mendalam.
-7. **Tangga TUMBUH (T1–T4)**: Model pentahapan karakter dari Kepatuhan Terbimbing (T1) hingga Penggerak Qudwah (T4).
+7. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Model pentahapan karakter dari Kepatuhan Terbimbing (T1) hingga Penggerak Qudwah (T4).
 8. **Wasathiyyah**: Sikap moderasi beragama yang adil dan membawa maslahat bagi semesta alam.
 9. **Capstone Project**: Proyek karya ilmiah terapan puncak yang menguji kemampuan analisis dan kreasi santri.
 10. **Behaviorally Anchored Rating Scales (BARS)**: Skala penilaian perilaku berbasis deskriptor konkret yang teramati.

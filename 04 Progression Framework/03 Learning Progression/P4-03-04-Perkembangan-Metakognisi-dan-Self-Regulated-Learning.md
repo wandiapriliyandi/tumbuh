@@ -20,11 +20,11 @@ graph LR
 
 ---
 
-## 2. Progresi Metakognisi Santri Melintasi Tangga T1–T4
+## 2. Progresi Metakognisi Santri Melintasi Jenjang J1–J4
 
 ```mermaid
 graph TD
-    SRL_Prog["Progresi SRL Santri Melintasi Tangga T1-T4"]
+    SRL_Prog["Progresi SRL Santri Melintasi Jenjang J1–J4"]
     SRL_Prog --> T1_SRL["T1: External Regulation<br/>Sangat bergantung pada jadwal & pengingat musyrif/guru."]
     SRL_Prog --> T2_SRL["T2: Guided Self-Monitoring<br/>Mampu mengisi checklist mutabaah belajar mandiri."]
     SRL_Prog --> T3_SRL["T3: Strategic Self-Regulation<br/>Mampu mendiagnosis kelemahan hafalan & memilih metode belajar yang efektif."]

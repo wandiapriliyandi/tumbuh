@@ -14,7 +14,7 @@ Instrumen Asesmen (*Assessment Tools*) di ekosistem **TUMBUH** memadukan penguku
 ```mermaid
 graph TD
     AssessToolsMap["3 Instrumen Asesmen Utama"]
-    AssessToolsMap --> RubrikMuwashafat["1. Rubrik 10 Muwashafat (Skor Deskriptif T1-T4)<br/>Rubrik pengamatan 4 tingkat capaian indikator perilaku adab harian."]
+    AssessToolsMap --> RubrikMuwashafat["1. Rubrik 10 Muwashafat (Skor Deskriptif J1-J4)<br/>Rubrik pengamatan 4 tingkat capaian indikator perilaku adab harian."]
     AssessToolsMap --> SelfFitrah["2. Instrumen Self-Assessment Fitrah & Tazkiyah<br/>Form refleksi mandiri santri untuk melatih metakognisi & muhasabah diri."]
     AssessToolsMap --> FBADiagnostic["3. Form Diagnostik FBA (Functional Behavior Assessment)<br/>Form diagnostik mendalam untuk menganalisis pemicu & fungsi perilaku Tier 3."]
 ```

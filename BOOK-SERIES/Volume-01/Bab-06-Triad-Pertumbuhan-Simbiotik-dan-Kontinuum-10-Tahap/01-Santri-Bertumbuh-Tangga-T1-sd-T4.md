@@ -17,7 +17,7 @@ Sikap terburu-buru menuntut kesempurnaan instan ini bertentangan dengan hukum al
 
 Pembentukan karakter manusia bukanlah peristiwa sulap yang terjadi dalam semalam. Jiwa manusia bertumbuh layaknya sebatang pohon: ia berawal dari benih yang berkecambah di dalam tanah, merintis tunas hijau yang rapuh, mengokohkan batang dan cabangnya melintasi badai, hingga akhirnya berbuah manis yang menaungi semesta.
 
-Sistem **TUMBUH** merumuskan trajektori perkembangan karakter santri ke dalam **Empat Tangga Kapasitas Adab (Tangga T1 s.d. T4)**:
+Sistem **TUMBUH** merumuskan trajektori perkembangan karakter santri ke dalam **Empat Tangga Kapasitas Adab (Jenjang J1 s.d. T4)**:
 
 ```mermaid
 graph TD
@@ -51,7 +51,7 @@ graph LR
 ```
 <div align="center"><sub><b>Gambar 6.1.2:</b> Alur Pendampingan Diferensial Musyrif Berdasarkan Maqam Tangga Santri.</sub></div>
 
-#### 1. Tangga T1: Tahu & Paham Adab (*Cognitive Literacy & Conceptual Awareness*)
+#### 1. Jenjang J1: Tahu & Paham Adab (*Cognitive Literacy & Conceptual Awareness*)
 * **Kondisi Psiko-Spiritual**: Santri baru berada pada level penguasaan konsep kognitif di memori kerja (*working memory*). Ia telah menghafal hadits kebersihan (*An-Nazhafatu minal Iman*) dan mengetahui larangan ghashab, namun keterampilan motorik dan kebiasaan fisiknya belum terlatih secara otomatis.
 * **Gejala di Asrama**: Santri sering lupa menaruh gayung mandi di tempatnya, menaruh sepatu tidak pada rak yang ditentukan, atau terlambat bersiap saat bel berbunyi. Kesalahan ini terjadi bukan karena niat jahat, melainkan karena jalur saraf di otaknya masih berupa "jalur setapak baru".
 * **Strategi Musyrif**: 
@@ -59,7 +59,7 @@ graph LR
   - Memperagakan cara merapikan lemari secara langsung di hadapan santri (*Guided Modeling*).
   - Melarang keras bentakan; menggunakan teguran lembut dan instruksi yang terarah (*"Akhi, ingat posisi sandal menghadap keluar ya"*).
 
-#### 2. Tangga T2: Mau & Tergerak Beradab (*Affective Willingness & Niyyah Awakening*)
+#### 2. Jenjang J2: Mau & Tergerak Beradab (*Affective Willingness & Niyyah Awakening*)
 * **Kondisi Psiko-Spiritual**: Kalbu santri mulai tergerak oleh keikhlasan niat (*Tazkiyatun Niyyah*). Santri mulai merasakan rasa malu kepada Allah ketika berbuat salah (*Nafs Lawwamah*), namun ketahanan mentalnya masih rapuh terhadap godaan kawan sekamar atau rasa lelah fisik.
 * **Gejala di Asrama**: Santri bersemangat shalat berjamaah, namun jika diajak temannya untuk mengobrol saat jam malam, ia kadang masih ikut larut. Begitu ditegur, ia langsung merasa bersalah dan menyesal.
 * **Strategi Musyrif**:
@@ -67,7 +67,7 @@ graph LR
   - Menghubungkan santri dengan **Sistem Sahabat Kawan Sebaya (*Peer Buddy System*)** agar saling menyemangati dalam ibadah.
   - Membimbing muhasabah batin secara personal tanpa mempermalukan anak di depan kawan-kawannya.
 
-#### 3. Tangga T3: Mampu Beradab Mandiri (*Procedural Mastery & Internalized Habit*)
+#### 3. Jenjang J3: Mampu Beradab Mandiri (*Procedural Mastery & Internalized Habit*)
 * **Kondisi Psiko-Spiritual**: Proses mielinisasi sirkuit adab di *Basal Ganglia* telah selesai (telah melintasi siklus habituasi 66 hari). Adab telah mendarah daging menjadi gerak refleks otomatis yang dilakukan dengan ringan dan penuh kenikmatan (*Thab'an wa 'Aadah*).
 * **Gejala di Asrama**: Santri secara spontan bangun sebelum subuh, menata loker pakaian dengan rapi, antre wudhu dengan sabar, dan menjaga lisannya dari kata-kata kotor—bahkan ketika musyrif sedang tidak berada di asrama.
 * **Strategi Musyrif**:
@@ -75,7 +75,7 @@ graph LR
   - Melibatkan santri dalam tugas-tugas pengelolaan kebersihan kamar secara mandiri.
   - Menanamkan kedalaman penghayatan *Muraqabatullah* (merasa selalu diawasi oleh Allah SWT).
 
-#### 4. Tangga T4: Teladan & Penggerak Adab (*Transformative Leadership & Qudwah Hasanah*)
+#### 4. Jenjang J4: Teladan & Penggerak Adab (*Transformative Leadership & Qudwah Hasanah*)
 * **Kondisi Psiko-Spiritual**: Puncak tertinggi kematangan karakter santri (**Tahap 7 Penggerak Peradaban**). Santri tidak hanya saleh untuk dirinya sendiri (*Shalih linafsihi*), melainkan telah menjadi agen perbaikan bagi lingkungannya (*Mushlih lighairihi*).
 * **Gejala di Asrama**: Santri secara sukarela mendampingi adik kelas yang sedang menangis rindu rumah (*homesick*), mengajari adik kelas cara mencuci pakaian dengan benar, melerai perselisihan kawan dengan santun, dan menjadi teladan hidup di shaf pertama masjid.
 * **Strategi Musyrif**:
@@ -89,7 +89,7 @@ graph LR
 
 Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian[^2] (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
 
-| Dimensi Karakter | Tangga T1 (Tahu) | Tangga T2 (Mau) | Tangga T3 (Mampu Mandiri) | Tangga T4 (Teladan Penggerak) |
+| Dimensi Karakter | Jenjang J1 (Tahu) | Jenjang J2 (Mau) | Jenjang J3 (Mampu Mandiri) | Jenjang J4 (Teladan Penggerak) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Ibadah Shalat** | Tahu rukun shalat, butuh dipanggil berulang kali untuk ke masjid. | Bergegas ke masjid saat mendengar adzan, kadang masih terdistraksi. | Hadir di masjid sebelum adzan selesai berkumandang secara mandiri. | Mengajak dan membangunkan adik kelas shalat dengan penuh kelembutan. |
 | **Kebersihan Diri & Kamar** | Mengetahui aturan loker, namun baju masih sering berantakan. | Berusaha merapikan loker, namun sesekali masih butuh diingatkan. | Loker dan tempat tidur selalu rapi, pakaian kotor tertata di keranjang. | Menjadi pelopor kerja bakti kamar dan membantu merapikan area bersama. |

@@ -306,8 +306,8 @@ $$\text{أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَ�
 #### 🥊 Ronde 3: Sanggahan Pamungkas Pengukuran Keberhasilan Buah Pendidikan
 * **Pihak A (Sudut Pandang Tolak Ukur Kelulusan)**:  
   *"Bagaimana mengukur apakah pohon ilmu ini benar-benar menghasilkan buah manis pada diri santri?"*
-* **Resolusi Sudut Pandang Taksonomi Tangga TUMBUH (T1–T4)**:  
-  Buah pendidikan diukur dari **Kematangan Tangga T4 (Tazkiyah & Qudwah)**: Santri yang lulus mampu mandiri mengatur waktu belajarnya (Self-Regulation), menjaga shalat berjamaah tanpa disuruh, memiliki kepekaan sosial membantu sesama, dan berprestasi akademik di tingkat nasional maupun internasional.[^31]
+* **Resolusi Sudut Pandang Taksonomi Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**:  
+  Buah pendidikan diukur dari **Kematangan Jenjang J4 (Tazkiyah & Qudwah)**: Santri yang lulus mampu mandiri mengatur waktu belajarnya (Self-Regulation), menjaga shalat berjamaah tanpa disuruh, memiliki kepekaan sosial membantu sesama, dan berprestasi akademik di tingkat nasional maupun internasional.[^31]
 
 > #### 📌 Kasuistika Lapangan 5 & Titik Temu Konsensus
 > * **Studi Kasus**: Asatidz madrasah dan musyrif asrama saling menyalahkan saat santri terlibat tawuran dengan sekolah luar; asatidz menuduh asrama lalai menjaga malam, musyrif menuduh guru madrasah tidak becus mengajar adab.
@@ -343,7 +343,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Rapor Akademis Murni)**:  
   *"Apakah nilai kepatuhan santri merapikan kasur di asrama boleh mempengaruhi nilai kelulusan madrasah santri?"*
 * **Tinjauan Sudut Pandang Taksonomi Adab Al-Attas**:  
-  Tujuan utama pendidikan Islam adalah melahirkan insan beradab (*Insan Adabi*). **Santri yang Cerdas Ujian Tulis tetapi Suka Merundung Teman atau Membiarkan Kamarnya Jorok Dinyatakan Belum Lulus Standar Adab T1**. Rapor TUMBUH mencantumkan dua komponen setara: Skor Kompetensi Keilmuan (*Academic Mastery*) dan Skor Tangga Adab PBIS (*Character Milestone T1–T4*).[^35]
+  Tujuan utama pendidikan Islam adalah melahirkan insan beradab (*Insan Adabi*). **Santri yang Cerdas Ujian Tulis tetapi Suka Merundung Teman atau Membiarkan Kamarnya Jorok Dinyatakan Belum Lulus Standar Adab T1**. Rapor TUMBUH mencantumkan dua komponen setara: Skor Kompetensi Keilmuan (*Academic Mastery*) dan Skor Tangga Adab PBIS (*Character Milestone J1–J4*).[^35]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Kemitraan Orang Tua dalam Ekosistem Integratif
 * **Pihak A (Sudut Pandang Lepas Tangan Wali Santri)**:  

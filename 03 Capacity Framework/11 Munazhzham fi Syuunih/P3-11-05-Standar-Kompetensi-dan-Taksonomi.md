@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Menguasai keterampilan dasar merapikan ranjang dan melipat baju di lemari, mencatat uang jajan sederhana.
 * **Jenjang T2 (Kelas 8 / 11)**: Menjaga inventaris kamar secara mandiri, memiliki pembukuan keuangan pribadi rapi, membagi tugas piket adil.

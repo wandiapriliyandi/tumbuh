@@ -16,10 +16,10 @@
 | **4** | Dr. Farida Hanum *(Universitas Indonesia)* | *Sosiologi Pembiasaan Adab Santri: Studi Ethnografi di Pesantren Tradisional Jawa.* | 2019 | Tradisi Mayoran, Sorogan, & Ukhuwah kamar di **Domain 10, 08**. |
 | **5** | Dr. M. Zainuddin *(UIN Syarif Hidayatullah)* | *Transformasi Hukuman Kedisiplinan Pesantren Menuju Disiplin Positif Restoratif.* | 2023 | Eliminasi hukuman fisik & pembentakan di **Domain 02, 06**. |
 | **6** | Dr. Lukman Hakim *(UIN Sunan Ampel)* | *Studi Psikometri Asesmen Karakter Ipsatif Santri Berbasis Nilai-Nilai Al-Qur'an.* | 2021 | Validitas konstruks asesmen ipsatif di **Domain 05**. |
-| **7** | Dr. Rahmat Hidayatullah *(UIN Syarif Hidayatullah)* | *Pengembangan Kurikulum Adab Berjenjang T1-T4 di Pesantren Tahfizh.* | 2022 | Tangga progresi T1-T4 & matrikulasi di **Domain 04**. |
+| **7** | Dr. Rahmat Hidayatullah *(UIN Syarif Hidayatullah)* | *Pengembangan Kurikulum Adab Berjenjang J1-J4 di Pesantren Tahfizh.* | 2022 | Tangga progresi J1-J4 & matrikulasi di **Domain 04**. |
 | **8** | Dr. Nurul Istiqamah *(Universitas Negeri Yogyakarta)* | *Model Pembinaan Kecerdasan Sosio-Emosional Santri Berdasarkan Kitab Ihya.* | 2020 | Sintesis CASEL SEL dengan Tazkiyatun Nafs Al-Ghazali di **Domain 03, 08**. |
 | **9** | Dr. Faisal Abdullah *(UIN Alauddin Makassar)* | *Mitigasi Burnout Musyrif Asrama Pesantren Melalui SOP Pengasuhan Rasional.* | 2023 | Perlindungan kesehatan mental & batas waktu logbook Musyrif di **Domain 07**. |
-| **10** | Dr. Zulkifli Amir *(UIN Ar-Raniry Banda Aceh)* | *Peran Santri Senior Penggerak dalam Pendampingan Peer Buddy Santri Baru.* | 2021 | Skema kepemimpinan Qudwah santri Tangga T4 di **Domain 04, 09**. |
+| **10** | Dr. Zulkifli Amir *(UIN Ar-Raniry Banda Aceh)* | *Peran Santri Senior Penggerak dalam Pendampingan Peer Buddy Santri Baru.* | 2021 | Skema kepemimpinan Qudwah santri Jenjang J4 di **Domain 04, 09**. |
 | **11** | Dr. M. Yusuf Ibrahim *(Al-Azhar University Cairo)* | *Ta'dib al-Muta'allim fi al-Fikr al-Islami al-Mu'ashir: Dirasah Muqaranah.* | 2019 | Pemikiran adab pendidikan Islam kontemporer di **Domain 01**. |
 | **12** | Dr. Syamsul Bahri *(UIN Raden Intan)* | *Studi Evaluasi Program CICO (Check-In Check-Out) Islami di Pesantren.* | 2024 | Integrasi CICO card dengan bimbingan suhbah musyrif di **Domain 06, 11**. |
 | **13** | Dr. Tri Wahyuni *(Universitas Negeri Malang)* | *Pengembangan Instrument Diagnostic Assessment untuk Pendeteksian Early Risk.* | 2022 | Asesmen diagnostik preventif Tier 1 & Tier 2 di **Domain 05, 06**. |
@@ -55,7 +55,7 @@
 | **43** | Dr. M. Arif *(UIN Walisongo Semarang)* | *Studi Efektivitas Kartu CICO (Check-In Check-Out) pada Santri Tier 2.* | 2024 | Pemantauan grafik perkembangan harian di **Domain 06, 11**. |
 | **44** | Dr. Rina Susanti *(Universitas Negeri Yogyakarta)* | *Model Pembelajaran Metakognitif Hafalan Al-Qur'an di Pesantren Tahfizh.*| 2023 | Strategi metakognisi retensi hafalan di **Domain 10**. |
 | **45** | Dr. H. Musthafa *(UIN Syarif Hidayatullah)* | *Pengembangan Transkrip Portofolio Karakter Santri Berbasis Growth.* | 2024 | Laporan transkrip karakter bagi wali santri di **Domain 05, 11**. |
-| **46** | Dr. Siti Zulaikha *(UIN Sunan Ampel Surabaya)* | *Model Pembinaan Kemandirian Ekonomi Santri Penggerak (Tangga T4).* | 2023 | Pembekalan vokasional *Qadirun 'Alal Kasb* di **Domain 03, 09**. |
+| **46** | Dr. Siti Zulaikha *(UIN Sunan Ampel Surabaya)* | *Model Pembinaan Kemandirian Ekonomi Santri Penggerak (Jenjang J4).* | 2023 | Pembekalan vokasional *Qadirun 'Alal Kasb* di **Domain 03, 09**. |
 | **47** | Dr. M. Hamzah *(UIN Alauddin Makassar)* | *Studi Evaluasi Program Silent Whistleblowing di Pesantren.* | 2024 | Kanal aduan rahasia anonim santri di **Domain 06, 11**. |
 | **48** | Dr. Endah Suciati *(Universitas Gadjah Mada)* | *Studi Longitudinal Dampak Pembiasaan Adab Terhadap Karakter Alumni.* | 2025 | Lacak jejak integritas moral alumni di **Domain 04 & SIMULASI**. |
 | **49** | Dr. Omar Farooq *(International Islamic Univ Islamabad)*| *Comparative Study of Islamic Ta'dib and Character Education.* | 2021 | Studi komparatif *Ta'dib* dengan karakter barat di **Domain 01**. |

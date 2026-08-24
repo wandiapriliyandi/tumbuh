@@ -205,7 +205,7 @@ flowchart TD
 | **Integrasi Tripartit**| Mencegah fragmentasi adab | HR. Malik No. 1614, *Ihya' 'Ulumiddin* | Marzano & Kendall (2007), *New Taxonomy* | Menerapkan Taksonomi 3 Pilar di asrama. |
 | **Regulasi Diri (SEL)**| Menautkan mujahadah & emosi | QS. Al-'Ankabut: 69, Kitab *Al-Hikam* | CASEL (2020), *Core SEL Competencies* | Melatih regulasi emosi melalui lingkaran muhasabah. |
 | **Manajemen Kerapian** | Thaharah lahir mencerminkan batin | HR. Muslim No. 223 (*Thaharah*), Ihya' | Liker (2004), *The Toyota Way (5S Methodology)*| Menerapkan standarisasi kerapian kamar 5S santri. |
-| **Khidmah Sosial** | Puncak kematangan iman | Hadits *Khairunnas* (HR. Ath-Thabrani) | Deci & Ryan (2000), *Self-Determination Theory*| Mewajibkan proyek pengabdian masyarakat Tangga T4. |
+| **Khidmah Sosial** | Puncak kematangan iman | Hadits *Khairunnas* (HR. Ath-Thabrani) | Deci & Ryan (2000), *Self-Determination Theory*| Mewajibkan proyek pengabdian masyarakat Jenjang J4. |
 
 ---
 
@@ -235,7 +235,7 @@ flowchart TD
 [^7]: Laporan Evaluasi Integrasi Disiplin Kamar dan Akademik Pesantren TUMBUH, 2026.  
 [^8]: Panduan Kurikulum 10 Karakter Muwashafat TUMBUH, Divisi Kurikulum Adab, 2026.  
 [^9]: Modul Bimbingan Regulasi Diri dan Pengendalian Emosi Santri, Biro Konseling TUMBUH, 2026.  
-[^10]: Panduan Pelaksanaan Khidmah Sosial Santri Tangga T4, Komite Pengabdian Masyarakat, 2026.
+[^10]: Panduan Pelaksanaan Khidmah Sosial Santri Jenjang J4, Komite Pengabdian Masyarakat, 2026.
 
 ---
 
@@ -248,6 +248,6 @@ flowchart TD
 5. **Self-Regulation (Regulasi Diri)**: Kapasitas mental untuk mengontrol impuls dorongan biologis/emosional demi mencapai tujuan luhur jangka panjang (*Mujahadah*).
 6. **5S Methodology (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)**: Metode penataan ruang kerja/kamar yang teratur, bersih, terstandarisasi, dan disiplin.
 7. **Observable Behavior**: Manifestasi perilaku nyata yang dapat dilihat, dihitung, dan dinilai secara objektif oleh pengamat eksternal.
-8. **Tangga TUMBUH (T1–T4)**: Model progresi bertahap dari kepatuhan eksternal menuju internalisasi adab otonom (*Qudwah*).
+8. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Model progresi bertahap dari kepatuhan eksternal menuju internalisasi adab otonom (*Qudwah*).
 9. **Khidmah (خِدْمَةٌ)**: Pengabdian tulus melayani kebutuhan umat manusia karena mengharap ridha Allah SWT.
 10. **Triad Pertumbuhan Simbiotik**: Maha-prinsip di mana penguasaan taksonomi karakter pada santri memuliakan guru dan mengokohkan kemaslahatan lembaga.

@@ -9,7 +9,7 @@
 
 ### Tangga Ketiga: Lompatan Kualitatif dari Ketaatan Lahir Menuju Kesadaran Batin
 
-Jika Tangga T1 berfokus pada adaptasi dan Tangga T2 berfokus pada pembiasaan fisik, maka **Tangga T3 (Internalisasi / *Tafahum*)** yang menaungi santri pada **bulan ke-19 hingga bulan ke-36** (Tahun Kedua hingga Tahun Ketiga) adalah **fase pematangan spiritual dan otonomi moral**.
+Jika Jenjang J1 berfokus pada adaptasi dan Jenjang J2 berfokus pada pembiasaan fisik, maka **Jenjang J3 (Internalisasi / *Tafahum*)** yang menaungi santri pada **bulan ke-19 hingga bulan ke-36** (Tahun Kedua hingga Tahun Ketiga) adalah **fase pematangan spiritual dan otonomi moral**.
 
 Pada tangga T3, santri mengalami lompatan kualitatif:
 * Santri tidak lagi berbuat baik karena takut dicatat pelanggarannya oleh musyrif.
@@ -30,7 +30,7 @@ graph TD
         Fokus --> C4["4. Pengendalian Konflik Internal (Self-Mediation)<br/>Mampu menahan amarah & berinisiatif meminta maaf lebih dahulu saat terjadi salah paham."]
     end
 ```
-<div align="center"><sub><b>Gambar 4.3.1:</b> Peta Capaian Karakter Santri pada Tangga T3 (Internalisasi / Tafahum).</sub></div>
+<div align="center"><sub><b>Gambar 4.3.1:</b> Peta Capaian Karakter Santri pada Jenjang J3 (Internalisasi / Tafahum).</sub></div>
 
 Pakar psikologi perkembangan moral **Lawrence Kohlberg**[^1] merumuskan bahwa perkembangan moral tertinggi terjadi saat individu berpindah dari tingkat konvensional (patuh demi hukum sosial dan kelompok) menuju **tingkat pasca-konvensional (*post-conventional moral stage*)**: bertindak atas dasar prinsip etika universal dan integritas nurani yang hakiki.
 
@@ -61,7 +61,7 @@ graph LR
         Transisi --> Muraqabah["Maqam Muraqabah: Integritas Batin Karena Allah (Ihsan)"]
     end
 ```
-<div align="center"><sub><b>Gambar 4.3.2:</b> Transformasi Motivasi Santri Menuju Maqam Muraqabah pada Tangga T3.</sub></div>
+<div align="center"><sub><b>Gambar 4.3.2:</b> Transformasi Motivasi Santri Menuju Maqam Muraqabah pada Jenjang J3.</sub></div>
 
 **Al-Imam Al-Harits al-Muhasibi** dalam *Adab an-Nufus*[^4] menegaskan bahwa jiwa yang telah mencapai derajat *Tafahum* akan merasa malu kepada Allah (*al-Haya' minallah*) bahkan saat ia berada sendirian di kegelapan malam yang sunyi.
 
@@ -69,7 +69,7 @@ graph LR
 
 ### Solusi Sistemik TUMBUH: Transisi Menuju Manajemen Otonom Kamar
 
-Pada Tangga T3, Sistem TUMBUH memberikan porsi kepercayaan dan otonomi yang lebih besar:
+Pada Jenjang J3, Sistem TUMBUH memberikan porsi kepercayaan dan otonomi yang lebih besar:
 1. **Pemberian Tanggung Jawab Mandiri (*Self-Managed Dormitory*)**: Musyrif mengurangi intensitas komando langsung dan berperan sebagai konsultan / fasilitator dialogis mingguan.
 2. **Halaqah Muhasabah Diri (*Self-Reflection Circle*)**: Santri mengisi jurnal refleksi adab pribadi (*Ipsative Adab Journal*), mengevaluasi titik lemah dirinya secara jujur tanpa rasa takut dihukum.
 3. **Pelatihan Asertivitas Menolak Ajaran Buruk (*Peer Resistance Workshop*)**: Santri dilatih teknik komunikasi asertif untuk berani berkata tidak saat diajak melanggar aturan oleh kawan sebaya.

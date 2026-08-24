@@ -13,7 +13,7 @@
 > * **Apa Itu Worldview (*Pandangan Hidup*) TUMBUH?**  
 >   Worldview adalah **Kacamata Utama** cara kita memandang santri, ilmu, dan pondok pesantren. Kita memandang santri bukan sebagai "objek yang boleh dibentak/dipukul", melainkan sebagai **Hamba Allah yang Mulia (*Karamah Insaniyyah*)** yang dititipkan untuk dibimbing dengan adab dan kasih sayang.
 > * **Tiga Prinsip Utama yang Mengubah Suasana Pondok:**  
->   1. **Santri Bertumbuh**: Fitrahnya dijaga, adabnya dibina bertahap (T1–T4), dan potensinya dilejitkan tanpa intimidasi.  
+>   1. **Santri Bertumbuh**: Fitrahnya dijaga, adabnya dibina bertahap (J1–J4), dan potensinya dilejitkan tanpa intimidasi.  
 >   2. **Guru/Musyrif Bertumbuh**: Menjadi teladan adab nyata (*Qudwah Hasanah*), mendidik dengan prinsip tegas dan santun (*Firm & Kind*), serta terlindungi dari kelelahan mental (*anti-burnout*).  
 >   3. **Sistem Lembaga Bertumbuh**: Mengambil keputusan berbasis data nyata (bukan gosip), bebas feodalisme, dan menjamin keadilan bagi semua santri.
 > * **Sepuluh Aksioma Inti:**  
@@ -61,7 +61,7 @@ flowchart TD
         Akar["1. AKAR POKOK: WORLDVIEW ISLAM & 10 AKSIOMA FUNDAMENTAL"]
         Batang["2. BATANG UTAMA: TRIAD PERTUMBUHAN SIMBIOTIK (Santri - Guru - Lembaga)"]
         Cabang["3. CABANG PRINSIP: Kemuliaan Fitrah, Qudwah First, Firm & Kind, PBIS Multi-Tier, Tadarruj"]
-        Ranting["4. RANTING KURIKULUM: 10 Muwashafat Karakter & Tangga TUMBUH T1-T4"]
+        Ranting["4. RANTING KURIKULUM: 10 Muwashafat Karakter & Jenjang Kemandirian TUMBUH (J1–J4) J1-J4"]
         Buah["5. BUAH MANIS: INSAN ADABI / GENERASI ULUL ALBAB (Shalih, Mandiri, & Berkah)"]
         
         Akar ==> Batang ==> Cabang ==> Ranting ==> Buah
@@ -96,7 +96,7 @@ Ekosistem TUMBUH menolak paradigma pendidikan tradisional yang mengorbankan guru
 ```mermaid
 graph TD
     subgraph TriadPertumbuhanTUMBUH["TRIAD PERTUMBUHAN SIMBIOTIK PESANTREN"]
-        S["1. SANTRI TUMBUH<br/>• Terlindungi dari perpeloncoan senioritas<br/>• Tangga adab mandiri T1-T4 tercapai<br/>• Kecerdasan nalar sains & keikhlasan batin"]
+        S["1. SANTRI TUMBUH<br/>• Terlindungi dari perpeloncoan senioritas<br/>• Tangga adab mandiri J1-J4 tercapai<br/>• Kecerdasan nalar sains & keikhlasan batin"]
         
         G["2. GURU & MUSYRIF TUMBUH<br/>• Kompetensi pedagogi master meningkat<br/>• Pengasuhan penuh cinta Firm & Kind<br/>• Terlindungi dari burnout & beban berlebih"]
         
@@ -137,7 +137,7 @@ graph TD
     
     WV --> D02["02 PRINCIPLES: 7 Prinsip Inti Konstitusi Pembinaan"]
     WV --> D03["03 CAPACITY: 10 Muwashafat Karakter Santri"]
-    WV --> D04["04 PROGRESSION: Tangga TUMBUH T1-T4 & 7 Tahap Kontinuum"]
+    WV --> D04["04 PROGRESSION: Jenjang Kemandirian TUMBUH (J1–J4) J1-J4 & 7 Tahap Kontinuum"]
     WV --> D05["05 ASSESSMENT: Asesmen Pertumbuhan Ipsatif Berbasis Bukti"]
     WV --> D06["06 INTERVENTION: Manual SW-PBIS Multi-Tier 1-3 & Restoratif"]
     WV --> D07["07 IMPLEMENTATION: SOP Dual-Pillar & Manajemen Asrama 24 Jam"]

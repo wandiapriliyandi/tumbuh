@@ -26,7 +26,7 @@
 - [BAGIAN I: RISET SISTEMIK, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-sistemik-dialektika-inkuiri--kasuistika-lapangan)
   - [1. Kerangka Metodologi Teori Sistem Ekologis Pesantren](#1-kerangka-metodologi-teori-sistem-ekologis-pesantren)
   - [2. Inkuiri 1: Dekonstruksi Paradigma Perubahan Sepihak — Mengapa Menuntut Santri Saja Pasti Gagal?](#2-inkuiri-1-dekonstruksi-paradigma-perubahan-sepihak--mengapa-menuntut-santri-saja-pasti-gagal)
-  - [3. Inkuiri 2: Entitas 1 (Santri Tumbuh) — Aktualisasi Potensi Fitrah Menuju Tangga Kemandirian T1–T4](#3-inkuiri-2-entitas-1-santri-tumbuh--aktualisasi-potensi-fitrah-menuju-tangga-kemandirian-t1t4)
+  - [3. Inkuiri 2: Entitas 1 (Santri Tumbuh) — Aktualisasi Potensi Fitrah Menuju Tangga Kemandirian J1–J4](#3-inkuiri-2-entitas-1-santri-tumbuh--aktualisasi-potensi-fitrah-menuju-tangga-kemandirian-t1t4)
   - [4. Inkuiri 3: Entitas 2 (Pendidik & Musyrif Tumbuh) — Proteksi Burnout & Pengembangan Kompetensi Pedagogi](#4-inkuiri-3-entitas-2-pendidik--musyrif-tumbuh--proteksi-burnout--pengembangan-kompetensi-pedagogi)
   - [5. Inkuiri 4: Entitas 3 (Sistem Lembaga Tumbuh) — Transformasi Menjadi Learning Organization Berbasis Data PBIS](#5-inkuiri-4-entitas-3-sistem-lembaga-tumbuh--transformasi-menjadi-learning-organization-berbasis-data-pbis)
   - [6. Inkuiri 5: Konvergensi Bioekologi Bronfenbrenner & The Fifth Discipline Peter Senge](#6-inkuiri-5-konvergensi-bioekologi-bronfenbrenner--the-fifth-discipline-peter-senge)
@@ -61,7 +61,7 @@ Ekosistem TUMBUH merumuskan **Model Triad Pertumbuhan Simbiotik**:
 ```mermaid
 flowchart TD
     subgraph ModelTriadSimbiotik["TRIAD PERTUMBUHAN SIMBIOTIK EKOSISTEM TUMBUH"]
-        Santri["1. SANTRI TUMBUH<br/>• Penanaman adab otonom T1-T4<br/>• Keterampilan regulasi diri & emosi<br/>• Terlindungi dari kekerasan & bullying"]
+        Santri["1. SANTRI TUMBUH<br/>• Penanaman adab otonom J1-J4<br/>• Keterampilan regulasi diri & emosi<br/>• Terlindungi dari kekerasan & bullying"]
         
         Guru["2. GURU & MUSYRIF TUMBUH<br/>• Kompetensi pedagogi & konseling terasah<br/>• Pola asuh Firm & Kind (Keteladanan Qudwah)<br/>• Terlindungi dari burnout & beban kerja berlebih"]
         
@@ -126,12 +126,12 @@ $$\text{إِنَّ صَلَاحَ الرَّعِيَّةِ مَوْقُوفٌ ع
 
 ---
 
-### 3. Inkuiri 2: Entitas 1 (Santri Tumbuh) — Aktualisasi Potensi Fitrah Menuju Tangga Kemandirian T1–T4
+### 3. Inkuiri 2: Entitas 1 (Santri Tumbuh) — Aktualisasi Potensi Fitrah Menuju Tangga Kemandirian J1–J4
 
 ```mermaid
 graph TD
     A["Gugatan Karakter Kaku (Pihak A):<br/>'Santri harus langsung sempurna taat shalat dan hafalan sejak hari pertama masuk pondok!'"]
-    --> B1["Tinjauan Fitrah & Tadarruj:<br/>Pertumbuhan karakter memerlukan tahapan pembiasaan fitrah (T1-T4)."]
+    --> B1["Tinjauan Fitrah & Tadarruj:<br/>Pertumbuhan karakter memerlukan tahapan pembiasaan fitrah (J1-J4)."]
     A --> B2["Tinjauan Self-Determination Theory (Deci & Ryan):<br/>Santri membutuhkan pemenuhan Autonomy, Competence, & Relatedness."]
     A --> B3["Tinjauan Asesmen Ipsatif:<br/>Pertumbuhan santri diukur dari perkembangan dirinya sendiri, bukan dibanding-bandingkan."]
     B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Santri Tumbuh adalah transformasi dari kepatuhan semu menuju adab otonom."]
@@ -140,7 +140,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap proses pendidikan fitrah yang mengharapkan kematangan regulasi diri otonom (*Muraqabatullah*) niscaya membutuhkan ruang pentahapan adaptasi (*Tadarruj*) dan bimbingan yang menghargai keunikan kecepatan belajar masing-masing insan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Memaksa santri baru langsung beradab sempurna secara instan di bawah ancaman hukuman melahirkan kemunafikan perilaku (*Superficial Masking*).
-* **Konklusi (*an-Natijah*)**: Maka, Entitas Santri Tumbuh wajib dibina melalui kurikulum Tangga TUMBUH (T1 Ta'aruf $\rightarrow$ T2 Tadrib $\rightarrow$ T3 Tafahum $\rightarrow$ T4 Tahwil).[^8]
+* **Konklusi (*an-Natijah*)**: Maka, Entitas Santri Tumbuh wajib dibina melalui kurikulum Jenjang Kemandirian TUMBUH (J1–J4) (T1 Ta'aruf $\rightarrow$ T2 Tadrib $\rightarrow$ T3 Tafahum $\rightarrow$ T4 Tahwil).[^8]
 
 #### 📖 Teks Primer Turats: *Ihya' 'Ulumiddin* (Riyadhatush Shibyan)
 **Imam Al-Ghazali** dalam *Ihya'* merumuskan pentahapan pembinaan jiwa anak:
@@ -149,7 +149,7 @@ $$\text{الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْ�
 
 *"Anak (santri) adalah amanah di tangan kedua orang tua dan para pendidiknya. Kalbunya yang suci adalah permata yang amat berharga, murni, dan bersih dari segala lukisan dan bentuk; ia siap menerima setiap lukisan yang digoreskan padanya. Jika ia dibiasakan dan diajarkan kebaikan secara bertahap, niscaya ia akan tumbuh di atas kebaikan itu dan bahagia di dunia dan akhirat; namun jika dibiasakan keburukan atau ditelantarkan dengan kekerasan, niscaya ia akan celaka dan binasa. Dan cara menjaganya adalah dengan mendidiknya secara bertahap (at-Tadarruj) dan penuh kelembutan (al-Liin)."*[^9]
 
-#### 🥊 Ronde 1: Membedah Empat Tangga TUMBUH (T1–T4)
+#### 🥊 Ronde 1: Membedah Empat Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)
 * **Tinjauan Psikologi Perkembangan Moral**:  
   * **T1: Ta'aruf (Fase Orientasi & Rasa Aman)**: Santri baru beradaptasi dengan lingkungan asrama, mengenal musyrif sebagai pengganti orang tua (*In Loco Parentis*), dan membangun rasa percaya diri.  
   * **T2: Tadrib (Fase Pembiasaan Terbimbing)**: Pembiasaan rutinitas harian dengan panduan musyrif, didukung rasio apresiasi verbal 4:1.  
@@ -373,7 +373,7 @@ Ekosistem TUMBUH menetapkan kaidah operasional dan standar baku tata kelola pemb
 ```mermaid
 graph LR
     subgraph MatriksTigaEntitasTUMBUH["MATRIKS KORESPONDENSI TIGA ENTITAS SIMBIOTIK"]
-        S["1. SANTRI BERTUMBUH<br/>• Tangga Adab T1-T4<br/>• Kemandirian Regulasi Diri<br/>• Aman Bebas Kekerasan"]
+        S["1. SANTRI BERTUMBUH<br/>• Tangga Adab J1-J4<br/>• Kemandirian Regulasi Diri<br/>• Aman Bebas Kekerasan"]
         G["2. PENDIDIK BERTUMBUH<br/>• Keteladanan Qudwah Hasanah<br/>• Pengasuhan Firm & Kind<br/>• Shift Sehat Tidur 7 Jam"]
         L["3. LEMBAGA BERTUMBUH<br/>• Data Logbook Real-Time<br/>• Alokasi 15% Anggaran SDM<br/>• Budaya Learning Organization"]
     end
@@ -383,7 +383,7 @@ graph LR
 | :--- | :--- | :--- | :--- |
 | **Fokus Utama** | Transformasi dari kepatuhan semu menjadi adab mandiri (*Muraqabah*). | Transformasi dari mandor penghukum menjadi murabbi qudwah pelayan. | Transformasi dari birokrasi feodal manual menjadi *Data-Driven Learning Organization*. |
 | **Hak Pokok yang Dijamin** | Perlindungan fisik, makanan bergizi, tidur sirkadian 7 jam, bimbingan adab. | Shift kerja manusiawi, kepastian tidur 7 jam, upah adil, supervisi ruhiyah kiai. | Kepatuhan SOP oleh seluruh staf, akuntabilitas publik, audit mutu berkala. |
-| **Kewajiban Mutlak** | Menapaki Tangga TUMBUH T1–T4, menjaga ukhuwah, mematuhi adab asrama. | Meneladankan akhlak (*Qudwah*), mengasuh *Firm & Kind*, mencatat data PBIS harian. | Menjamin fasilitas bersih sehat, membiayai pelatihan SDM, menegakkan keadilan hukum. |
+| **Kewajiban Mutlak** | Menapaki Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, menjaga ukhuwah, mematuhi adab asrama. | Meneladankan akhlak (*Qudwah*), mengasuh *Firm & Kind*, mencatat data PBIS harian. | Menjamin fasilitas bersih sehat, membiayai pelatihan SDM, menegakkan keadilan hukum. |
 | **Indikator Keberhasilan** | Penurunan pelanggaran Tier 3, kenaikan skor 10 Muwashafat, mandiri khidmah. | Stabilitas emosi tinggi, nol insiden kekerasan fisik, indeks kepuasan kerja > 85%. | Dashboard analitik presisi, nol kasus perpeloncoan, kepuasan wali santri > 90%.[^39] |
 
 ---

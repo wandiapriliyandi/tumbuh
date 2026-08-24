@@ -275,7 +275,7 @@ flowchart TD
     A["Gugatan Implementasi Nyata (Pihak A):<br/>'Filsafat Realisme Teistik terdengar indah, tapi bagaimana wujud nyatanya di asrama?'"]
     --> B1["Tinjauan Tata Kelola Fisik:<br/>Arsitektur kamar sehat (ventilasi 10%, air 0 CFU E. coli, lux 100-150)."]
     B1 --> B2["Tinjauan Tata Kelola Perilaku:<br/>SW-PBIS Multi-Tier & Disiplin Restoratif tanpa rotan/kekerasan."]
-    B2 --> B3["Tinjauan Tata Kelola Ruhani:<br/>Kultivasi Muraqabah Reflex & Tangga Pertumbuhan Santri T1-T4."]
+    B2 --> B3["Tinjauan Tata Kelola Ruhani:<br/>Kultivasi Muraqabah Reflex & Tangga Pertumbuhan Santri J1-J4."]
     B3 --> C["Titik Temu Konsensus:<br/>Realisme Teistik terwujud konkret dalam Bi'ah Shalihah 24 Jam."]
 ```
 
@@ -395,7 +395,7 @@ Dalam arsitektur filosofis TUMBUH, kedua alam ini tidak pernah dipisahkan:
 | **3** | **Inkuiri 3**: Dekonstruksi Postmodernisme | **Pilar 4**: Teleologi Makna & Adab | Menegaskan kebenaran moral objektif berakar pada fitrah dan wahyu Al-Haqq. |
 | **4** | **Inkuiri 4**: Dekonstruksi Dualisme Cartesian | **Peta Kosmis**: Manunggal Mulk-Malakut | Memadukan psikoneuroimunologi sains dengan kaidah fiqh jiwa Al-Ghazali. |
 | **5** | **Inkuiri 5**: Integrasi Realisme Kritis Bhaskar | **Matriks Komparasi Ontologis**: TUMBUH | Mengadopsi instrumen lapis realitas Bhaskar di bawah naungan tauhid Ilahi. |
-| **6** | **Inkuiri 6**: Translasi ke Ekosistem Pesantren | **Mandat Operasional**: SOP 24 Jam | Menghasilkan SOP arsitektur sehat, PBIS multi-tier, dan Tangga TUMBUH T1–T4. |
+| **6** | **Inkuiri 6**: Translasi ke Ekosistem Pesantren | **Mandat Operasional**: SOP 24 Jam | Menghasilkan SOP arsitektur sehat, PBIS multi-tier, dan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4. |
 
 ---
 

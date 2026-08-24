@@ -30,7 +30,7 @@
 5. **BAB 5: Kalibrasi Penilai (*Rater Calibration*) & Pelatihan Standardisasi Musyrif**
    - 5.1 Protokol Sesi Kalibrasi Mingguan Antar-Musyrif & Walas Menggunakan Studi Kasus Video
    - 5.2 Mengatasi Subjektivitas Penilai: Menyelaraskan Standar *Firm & Kind*
-   - 5.3 Rubrik Skor Tangga T1–T4: Kriteria Objektif Kenaikan Tangga Pertumbuhan
+   - 5.3 Rubrik Skor Jenjang J1–J4: Kriteria Objektif Kenaikan Tangga Pertumbuhan
 6. **BAB 6: Raport Pertumbuhan Holistik (*Growth Portfolio Report*) dan Komunikasi Orang Tua**
    - 6.1 Desain Raport Non-Ranking: Visualisasi Radar Chart 10 Muwashafat dan Narasi Kekuatan Fitrah
    - 6.2 Konferensi Tiga Pihak (*Three-Way Conference*): Santri, Musyrif/Walas, dan Orang Tua

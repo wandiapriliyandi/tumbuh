@@ -32,12 +32,12 @@ graph TD
 
 ## 2. Matriks Integrasi Tahapan Perkembangan Makro
 
-| Tahap Makro | Fase Tazkiyatun Nafs | Neurosains Kognitif | Tingkat Tangga TUMBUH | Peran Lingkungan (*Bi'ah*) |
+| Tahap Makro | Fase Tazkiyatun Nafs | Neurosains Kognitif | Tingkat Jenjang Kemandirian TUMBUH (J1–J4) | Peran Lingkungan (*Bi'ah*) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Fase 1 (Orientasi)** | *Takhalli Awal*: Lepas dari kebiasaan rumah buruk. | Limbik sangat reaktif; PFC butuh *External Co-Regulation*. | **Tangga T1** (Adaptasi) | Lingkungan aman emosi (*Psychological Safety*). |
-| **Fase 2 (Habituasi)** | *Takhalli ke Tahalli*: Pembiasaan ibadah rutin. | *Myelination* sirkuit kebiasaan (*Habit Loop* di Basal Ganglia). | **Tangga T2** (Habituasi) | Lingkungan kaya penguatan positif (*PBIS Matrix*). |
-| **Fase 3 (Internalisasi)** | *Tahalli Matang*: Adab didasari *Mahabbah*. | Maturasi PFC; regulasi emosi mandiri (*Inhibitory Control*). | **Tangga T3** (Internalisasi) | Lingkungan fasilitatif & dialogis. |
-| **Fase 4 (Leadership)** | *Tajalli*: Konsistensi kebaikan (*Istiqamah*). | Integrasi sistem jaringan otak utuh (*Default Mode Network & Executive Network*). | **Tangga T4** (Qudwah) | Lingkungan kepemimpinan & khidmah mandiri. |
+| **Fase 1 (Orientasi)** | *Takhalli Awal*: Lepas dari kebiasaan rumah buruk. | Limbik sangat reaktif; PFC butuh *External Co-Regulation*. | **Jenjang J1** (Adaptasi) | Lingkungan aman emosi (*Psychological Safety*). |
+| **Fase 2 (Habituasi)** | *Takhalli ke Tahalli*: Pembiasaan ibadah rutin. | *Myelination* sirkuit kebiasaan (*Habit Loop* di Basal Ganglia). | **Jenjang J2** (Habituasi) | Lingkungan kaya penguatan positif (*PBIS Matrix*). |
+| **Fase 3 (Internalisasi)** | *Tahalli Matang*: Adab didasari *Mahabbah*. | Maturasi PFC; regulasi emosi mandiri (*Inhibitory Control*). | **Jenjang J3** (Internalisasi) | Lingkungan fasilitatif & dialogis. |
+| **Fase 4 (Leadership)** | *Tajalli*: Konsistensi kebaikan (*Istiqamah*). | Integrasi sistem jaringan otak utuh (*Default Mode Network & Executive Network*). | **Jenjang J4** (Qudwah) | Lingkungan kepemimpinan & khidmah mandiri. |
 
 ---
 

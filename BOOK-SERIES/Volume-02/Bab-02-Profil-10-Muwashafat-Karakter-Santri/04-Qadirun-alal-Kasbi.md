@@ -83,7 +83,7 @@ graph LR
 | :--- | :--- | :--- | :--- |
 | **Pengelolaan Uang Saku Mingguan** | Mencatat setiap pemasukan & pengeluaran di Logbook Finansial, menyisihkan infak subuh, dan hemat. | Menghabiskan uang saku di awal pekan, membeli barang tidak penting, lalu berutang ke teman. | Pendampingan budgeting mingguan oleh Musyrif dan pembatasan plafon belanja harian di kantin. |
 | **Perawatan Pakaian & Ranjang Pribadi** | Mencuci pakaian sendiri secara terjadwal, melipat rapi di loker, dan menjahit kancing yang lepas. | Mengongkos adik kelas untuk mencuci baju (*exploitative delegation*) atau menumpuk baju basah kotor. | Larangan mutlak menyuruh santri lain mencuci baju; workshop keterampilan *Basic Life Skills*. |
-| **Etos Partisipasi Kerja Bakti Asrama** | Bekerja tuntas tanpa perlu diawasi, merawat alat kebersihan bersama, dan proaktif membantu dapur. | Menghindar dari piket kerja bakti, malas-malasan, atau melempar tugas ke santri yang lebih lemah. | Penilaian rubrik etos kerja asrama yang terhubung dengan rapor Tangga TUMBUH. |
+| **Etos Partisipasi Kerja Bakti Asrama** | Bekerja tuntas tanpa perlu diawasi, merawat alat kebersihan bersama, dan proaktif membantu dapur. | Menghindar dari piket kerja bakti, malas-malasan, atau melempar tugas ke santri yang lebih lemah. | Penilaian rubrik etos kerja asrama yang terhubung dengan rapor Jenjang Kemandirian TUMBUH (J1–J4). |
 | **Kreativitas Karya & Kewirausahaan** | Menulis artikel mading, berpartisipasi dalam divisi kreatif/koperasi, menghargai nilai karya. | Bersikap pasif, gemar merusak fasilitas umum (*vandalism*), dan memandang rendah pekerjaan fisik. | Program *Santri Entrepreneur Incubator*: magang pengelolaan koperasi dan bazaar karya santri. |
 
 ---

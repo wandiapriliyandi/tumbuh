@@ -58,7 +58,7 @@ flowchart TD
     subgraph ArsitekturSintesisAssessmentPrinciples["5 PILAR ASESMEN KARAKTER SANTRI TUMBUH"]
         P1["PILAR 1: ASESMEN AUTENTIK & OBSERVASI ALAMI (P2-05-01)<br/>• Menilai Malakah (perilaku spontan nyata 24 jam).<br/>• Menolak tes kertas pilihan ganda adab."]
         
-        P2["PILAR 2: RUBRIK PERILAKU OBJEKTIF BARS (P2-05-02)<br/>• Deskriptor jangkar perilaku konkret 4 tingkat (T1–T4).<br/>• Reliabilitas Cohen's Kappa $\kappa \ge 0.80$."]
+        P2["PILAR 2: RUBRIK PERILAKU OBJEKTIF BARS (P2-05-02)<br/>• Deskriptor jangkar perilaku konkret 4 tingkat (J1–J4).<br/>• Reliabilitas Cohen's Kappa $\kappa \ge 0.80$."]
         
         P3["PILAR 3: TRIANGULASI DATA 360° (P2-05-03)<br/>• Tabayyun syar'i: Mengharamkan vonis penilai tunggal.<br/>• Pembobotan: Musyrif (35%), Guru (35%), Santri (15%), Peer (15%)."]
         
@@ -160,7 +160,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 | Pilar Asesmen Karakter | Berkas Rujukan Utama | Implementasi Konkret di Pesantren 24 Jam | Output Keadilan Evaluasi |
 | :--- | :--- | :--- | :--- |
 | **Pilar 1: Asesmen Autentik** | [**`P2-05-01`**](./P2-05-01-Prinsip-Asesmen-Autentik-dan-Observasi-Alami.md) | Pengamatan adab di 3 lokus (Ibadah, Komunal Asrama, Sosial) melalui *In-Vivo Observation*. | Menilai akhlak nyata (*Malakah*), bukan kepatuhan palsu saat diawasi.[^5] |
-| **Pilar 2: Rubrik Objektif BARS** | [**`P2-05-02`**](./P2-05-02-Prinsip-Rubrik-Perilaku-Objektif-dan-Deskriptif.md) | Standarisasi deskriptor perilaku 4 tingkat (T1–T4); sidang kalibrasi adab pekanan ($\kappa \ge 0.80$). | Penilaian bebas dari sentimen pribadi dan konsisten.[^6] |
+| **Pilar 2: Rubrik Objektif BARS** | [**`P2-05-02`**](./P2-05-02-Prinsip-Rubrik-Perilaku-Objektif-dan-Deskriptif.md) | Standarisasi deskriptor perilaku 4 tingkat (J1–J4); sidang kalibrasi adab pekanan ($\kappa \ge 0.80$). | Penilaian bebas dari sentimen pribadi dan konsisten.[^6] |
 | **Pilar 3: Triangulasi 360 Derajat** | [**`P2-05-03`**](./P2-05-03-Prinsip-Triangulasi-Data-Multi-Sumber.md) | Penggabungan data Musyrif (35%), Guru (35%), Santri (15%), dan Peer (15%); Sidang Tabayyun. | Mencegah fitnah dan vonis sepihak; potret karakter utuh.[^7] |
 | **Pilar 4: Portofolio Formatif** | [**`P2-05-04`**](./P2-05-04-Prinsip-Portofolio-Pertumbuhan-Formatif.md) | Laporan Naratif 3 Pilar; grafik PBIS 180 hari; *Student-Led Conferences* rapor. | Orang tua menjadi mitra aktif; santri bangga atas progresnya.[^8] |
 | **Pilar 5: Feedback & Muhasabah** | [**`P2-05-05`**](./P2-05-05-Prinsip-Feedback-Konstruktif-dan-Refleksi-Diri-Santri.md) | Model Feed-Up/Back/Forward; dialog privat empat mata; jurnal muhasabah malam. | Santri beradab atas kesadaran nurani tanpa rasa dipermalukan.[^9] |

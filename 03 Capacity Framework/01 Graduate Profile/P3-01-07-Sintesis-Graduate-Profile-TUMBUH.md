@@ -12,7 +12,7 @@
 >
 > * **Sintesis Paripurna Profil Kapasitas Triadik Ekosistem TUMBUH:**  
 >   Profil kelulusan bukan sekadar profil santri perseorangan, melainkan perwujudan integral dari **Triad Pertumbuhan Simbiotik**:  
->   1. **Santri Tumbuh:** Menguasai 10 Karakter Muwashafat di Tangga T4, tahfizh mutqin, dan beradab luhur.  
+>   1. **Santri Tumbuh:** Menguasai 10 Karakter Muwashafat di Jenjang J4, tahfizh mutqin, dan beradab luhur.  
 >   2. **Musyrif Tumbuh:** Menjadi teladan *Qudwah Hasanah*, bersertifikasi kompetensi pengasuhan, dan bahagia berkhidmah.  
 >   3. **Lembaga Tumbuh:** Menjadi *Learning Organization* berbasis data, beriklim aman, dan diakui secara global.
 > * **Keselarasan 6 Pilar Riset Sub-Domain 01 Graduate Profile:**  
@@ -52,7 +52,7 @@ flowchart TD
     subgraph ArsitekturGraduateProfileTUMBUH["6 PILAR PROFIL KAPASITAS KELULUSAN PESANTREN TUMBUH"]
         P1["PILAR 1: TRIAD PROFIL KAPASITAS (P3-01-01)<br/>• Sinergi integral 3 profil: Santri, Musyrif, & Kelembagaan.<br/>• Pertumbuhan simbiotik bebas eksploitasi."]
         
-        P2["PILAR 2: 10 KARAKTER SANTRI (P3-01-02)<br/>• Penguasaan 10 Muwashafat di Tangga T4 Penggerak.<br/>• Integrasi CASEL SEL & Taksonomi Fitrah Adab."]
+        P2["PILAR 2: 10 KARAKTER SANTRI (P3-01-02)<br/>• Penguasaan 10 Muwashafat di Jenjang J4 Penggerak.<br/>• Integrasi CASEL SEL & Taksonomi Fitrah Adab."]
         
         P3["PILAR 3: KOMPETENSI MUSYRIF (P3-01-03)<br/>• Standar Qudwah First, BARS observasi, & diklat 40 jam.<br/>• Pengasuh sebagai Tabibul Qulub & In Loco Parentis."]
         
@@ -60,7 +60,7 @@ flowchart TD
         
         P5["PILAR 5: KESIAPAN GLOBAL ABAD 21 (P3-01-05)<br/>• Nalar kritis mantiq, digital wisdom, & kepemimpinan global.<br/>• Alumni sebagai duta Wasathiyyah peradaban."]
         
-        P6["PILAR 6: MUNAQASYAH ADAB (P3-01-06)<br/>• Portofolio autentik 3 tahun & ujian mutqin bersanad.<br/>• Sidang terbuka khidmah masyarakat Tangga T4."]
+        P6["PILAR 6: MUNAQASYAH ADAB (P3-01-06)<br/>• Portofolio autentik 3 tahun & ujian mutqin bersanad.<br/>• Sidang terbuka khidmah masyarakat Jenjang J4."]
         
         P1 <===> P2
         P2 <===> P3
@@ -133,7 +133,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 1. **Kelulusan Triadik yang Simbiotik (*Triadic Graduate Standards*)**:  
    Menolak evaluasi kelulusan santri secara terisolasi; keberhasilan santri diukur seiring dengan profesionalisme musyrif pendamping dan keandalan sistem tata kelola kelembagaan pesantren yang aman dan akuntabel.
 
-2. **Penguasaan 10 Muwashafat Karakter di Tangga T4 (Penggerak Qudwah)**:  
+2. **Penguasaan 10 Muwashafat Karakter di Jenjang J4 (Penggerak Qudwah)**:  
    Lulusan membuktikan pencapaian kompetensi karakter bukan sekadar tahu (*Ta'lim*) atau terbiasa (*Tarbiyah*), melainkan telah mencapai maqam internalisasi adab otonom (*Ta'dib / Second Nature*) yang mampu menggerakkan dan membina adik kelasnya.
 
 3. **Integritas Ujian Mutqin & Portofolio Autentik Multi-Tahun**:  
@@ -146,7 +146,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ### 2. Matriks Grand Rubrik Profil Kelulusan Paripurna 10 Muwashafat
 
-| Karakter Muwashafat | Indikator Kunci Lulusan Tangga T4 | Bukti Portofolio Autentik | Bobot Capaian |
+| Karakter Muwashafat | Indikator Kunci Lulusan Jenjang J4 | Bukti Portofolio Autentik | Bobot Capaian |
 | :--- | :--- | :--- | :---: |
 | **1. Salimul Aqidah** | Tauhid murni, bebas syirik/khurafat, nalar tabayyun kritis. | Lembar refleksi akidah & ujian lisan dalil mantiq. | **10%** |
 | **2. Shahihul Ibadah** | Shalat fardhu awal waktu di masjid, tahajjud rutin, faham fiqh ibadah. | Logbook kehadiran shalat 3 tahun & ujian praktek fiqh. | **10%** |
@@ -189,7 +189,7 @@ flowchart TD
 | Kode Berkas | Judul Monograf Riset | Landasan Teori Utama | Fokus Inovasi Profil Lulusan |
 | :---: | :--- | :--- | :--- |
 | **P3-01-01** | Triad Profil Kapasitas | Triad Pertumbuhan Simbiotik, Bronfenbrenner | Standar simbiotik Santri, Musyrif, & Kelembagaan. |
-| **P3-01-02** | Kompetensi Inti 10 Karakter | Taksonomi Muwashafat Hasan Al-Banna, CASEL | Taksonomi 10 karakter santri di Tangga T4. |
+| **P3-01-02** | Kompetensi Inti 10 Karakter | Taksonomi Muwashafat Hasan Al-Banna, CASEL | Taksonomi 10 karakter santri di Jenjang J4. |
 | **P3-01-03** | Standar Kompetensi Qudwah Musyrif | *Tarbiyatul Murabbi*, Wasiat Umar RA, BARS | Standar keteladanan musyrif & diklat 40 jam bersertifikat. |
 | **P3-01-04** | Standar Kapasitas Kelembagaan | QS. 4:58, Peter Senge (*Learning Org*), Edmondson | Transformasi pesantren ke institusi pembelajar berbasis data. |
 | **P3-01-05** | Profil Kesiapan Disrupsi Global | QS. 2:143 (*Ummatan Wasathan*), WEF Abad 21 | Nalar mantiq, digital wisdom, & kepemimpinan wasathiyyah. |
@@ -230,7 +230,7 @@ flowchart TD
 
 1. **Graduate Profile (Profil Lulusan)**: Deskripsi komprehensif tentang kompetensi, karakter, wawasan keilmuan, dan kesiapan khidmah yang wajib dikuasai santri saat menyelesaikan masa studi.
 2. **Triad Pertumbuhan Simbiotik**: Prinsip integrasi ekosistem di mana pertumbuhan Santri, pemuliaan Pendidik, dan penguatan Lembaga berlangsung secara serempak.
-3. **Tangga TUMBUH (T1–T4)**: Lintasan progresi kemandirian karakter santri: T1 (Kepatuhan Terbimbing), T2 (Pembiasaan Konsisten), T3 (Kemandirian Stabil), dan T4 (Penggerak Qudwah).
+3. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Lintasan progresi kemandirian karakter santri: T1 (Kepatuhan Terbimbing), T2 (Pembiasaan Konsisten), T3 (Kemandirian Stabil), dan T4 (Penggerak Qudwah).
 4. **Learning Organization**: Institusi pendidikan yang memiliki budaya belajar kolektif, adaptif, berbasis data, dan aman secara psikologis.
 5. **Digital Wisdom**: Kebijaksanaan moral dan nalar kritis dalam memanfaatkan teknologi informasi dan AI untuk kemaslahatan dakwah.
 6. **Munaqasyah Adab**: Sidang terbuka pertanggungjawaban portofolio karakter, hafalan mutqin, karya tulis ilmiah, dan bukti pengabdian masyarakat santri.

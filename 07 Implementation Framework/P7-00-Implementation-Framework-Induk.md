@@ -37,7 +37,7 @@ Struktur pimpinan dan staf pelaksana mengintegrasikan kehidupan madrasah formal 
 
 ## 3. Model Triad Pertumbuhan Simbiotik dalam Implementasi Operasional
 
-- **Santri Tumbuh**: Mendapatkan perlindungan pengasuhan 24 jam yang hangat, iklim asrama yang kondusif (*Bi'ah Shalihah*), dan kejelasan target tangga perkembangan T1–T4.
+- **Santri Tumbuh**: Mendapatkan perlindungan pengasuhan 24 jam yang hangat, iklim asrama yang kondusif (*Bi'ah Shalihah*), dan kejelasan target tangga perkembangan J1–J4.
 - **Guru & Musyrif Tumbuh**: Memiliki deskripsi peran yang jelas, terlindungi dari *burnout* melalui rasio pembinaan berkeadilan (1:15-20 santri), dan memperoleh supervisi pengasuhan mingguan.
 - **Sistem Lembaga Tumbuh**: Memiliki SOP workflow yang baku, sistem monitoring digital real-time, audit mutu berkala, dan siklus *Continuous Quality Improvement (CQI)*.
 

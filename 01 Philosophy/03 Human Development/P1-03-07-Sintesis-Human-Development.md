@@ -1,5 +1,5 @@
 # P1-03-07: SINTESIS FILOSOFIS HUMAN DEVELOPMENT DAN GRAND CHARTER TRAJEKTORI PERTUMBUHAN SANTRI
-## *Monograf Terpadu: Sintesis Komprehensif 6 Pilar Perkembangan Jiwa (Tazkiyatun Nafs, Fase Usia Marahil al-'Umr, Tangga T1–T4, Integrasi CASEL SEL, Krisis Biososial Pubertas, & Puncak Aktualisasi Insan Adabi Tahap 7), Matriks Komparasi 4 Mazhab Barat vs TUMBUH, Deklarasi Zero Tolerance Stagnasi Punitif, serta Jembatan Epistemologis Menuju Sub-Domain 04 Education*
+## *Monograf Terpadu: Sintesis Komprehensif 6 Pilar Perkembangan Jiwa (Tazkiyatun Nafs, Fase Usia Marahil al-'Umr, Jenjang J1–J4, Integrasi CASEL SEL, Krisis Biososial Pubertas, & Puncak Aktualisasi Insan Adabi Tahap 7), Matriks Komparasi 4 Mazhab Barat vs TUMBUH, Deklarasi Zero Tolerance Stagnasi Punitif, serta Jembatan Epistemologis Menuju Sub-Domain 04 Education*
 
 **Nomor Identifikasi**: `P1-03-07/MONOGRAF-TERPADU-SINTESIS-HUMAN-DEVELOPMENT/2026`  
 **Domain**: `01 Philosophy` > `03 Human Development`  
@@ -14,7 +14,7 @@
 >   Pertumbuhan santri bukanlah proses mekanis yang terpisah-pisah, melainkan orkestrasi 6 dimensi yang menyatu:  
 >   1. **P1-03-01 (Tazkiyatun Nafs):** Poros spiritual pembersihan kalbu (*Takhalliy*), penghiasan adab (*Tahalliy*), dan pembiasaan 66 hari menuju watak kedua (*Tajalliy*).  
 >   2. **P1-03-02 (Fase Marahil al-'Umr):** Pembedaan kebutuhan biologis-emosional jenjang MTs (awal pubertas/limbik) vs jenjang MA (maturasi nalar/PFC).  
->   3. **P1-03-03 (Tangga TUMBUH T1–T4):** Lintasan kemandirian adab bertahap (*Tadarruj & Scaffolding*) menuju kepemimpinan mandiri asrama.  
+>   3. **P1-03-03 (Jenjang Kemandirian TUMBUH (J1–J4) J1–J4):** Lintasan kemandirian adab bertahap (*Tadarruj & Scaffolding*) menuju kepemimpinan mandiri asrama.  
 >   4. **P1-03-04 (Integrasi SEL):** Penerjemahan adab ke dalam 5 kecerdasan sosio-emosional nyata, penguatan sirkuit empati otak (*ACC*), dan budaya *Zero Bullying*.  
 >   5. **P1-03-05 (Krisis Biososial Pubertas):** Pendampingan transisi baligh (*Ihtilam & Haidh*), mitigasi *homesickness*, dan sublimasi energi hormon via olahraga kinestetik.  
 >   6. **P1-03-06 (Puncak Insan Adabi Tahap 7):** Pembentukan kader *Mushlih* peradaban yang memadukan spiritualitas, sains, dan kepemimpinan khidmah umat.
@@ -59,7 +59,7 @@ flowchart TD
         
         P2["PILAR 2: FASE MARAHIL AL-'UMR (P1-03-02)<br/>• Poros Biopsikologis: Dual-Systems.<br/>• Diferensiasi MTs (Limbik) vs MA (PFC)."]
         
-        P3["PILAR 3: TANGGA TUMBUH T1–T4 (P1-03-03)<br/>• Poros Pedagogis: Gradualisme Syar'i.<br/>• Scaffolding ZPD & Asesmen Ipsatif."]
+        P3["PILAR 3: TANGGA TUMBUH J1–J4 (P1-03-03)<br/>• Poros Pedagogis: Gradualisme Syar'i.<br/>• Scaffolding ZPD & Asesmen Ipsatif."]
         
         P4["PILAR 4: INTEGRASI CASEL SEL (P1-03-04)<br/>• Poros Sosio-Emosional: Adab Mu'asyarah.<br/>• 5 Pilar Emosi, Sirkuit ACC, & Zero Bullying."]
         
@@ -106,7 +106,7 @@ flowchart TD
 
 ```mermaid
 graph TD
-    HD["SUB-DOMAIN 03: HUMAN DEVELOPMENT<br/>(Trajektori Pertumbuhan: Tazkiyah, Usia, Tangga T1–T4, SEL, Pubertas, Tahap 7)"]
+    HD["SUB-DOMAIN 03: HUMAN DEVELOPMENT<br/>(Trajektori Pertumbuhan: Tazkiyah, Usia, Jenjang J1–J4, SEL, Pubertas, Tahap 7)"]
     ==>|MENDASARI SECARA MUTLAK|
     ED["SUB-DOMAIN 04: EDUCATION (PENDIDIKAN)<br/>(Filsafat Kurikulum Adab, Ta'dib Al-Attas, Anti-Feodalisme, & Ekologi 24 Jam)"]
 ```
@@ -148,7 +148,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 | :--- | :--- | :--- | :--- |
 | **Pilar 1: Tazkiyatun Nafs** | [**`P1-03-01`**](./P1-03-01-Tazkiyatun-Nafs-dan-Pertumbuhan-Jiwa.md) | Blok pembiasaan 66 hari, kurikulum pembersihan ghashab, Muhasabah Malam. | Terbentuknya *Moral Automaticity* ibadah mandiri.[^6] |
 | **Pilar 2: Fase Marahil al-'Umr** | [**`P1-03-02`**](./P1-03-02-Fase-dan-Lintasan-Perkembangan-Santri.md) | Zonasi gedung MTs vs MA, SOP Mitigasi Homesickness, De-Eskalasi Emosi. | Tingkat adaptasi santri baru >95%, bebas dari depresi transisi. |
-| **Pilar 3: Tangga TUMBUH T1–T4** | [**`P1-03-03`**](./P1-03-03-Landasan-Filosofis-Tangga-TUMBUH-T1-T4.md) | Penjenjangan level T1 s/d T4, Portofolio Asesmen Ipsatif non-ranking. | Santri bertransformasi menjadi Duta Adab mandiri asrama. |
+| **Pilar 3: Jenjang Kemandirian TUMBUH (J1–J4) J1–J4** | [**`P1-03-03`**](./P1-03-03-Landasan-Filosofis-Tangga-TUMBUH-J1-J4.md) | Penjenjangan level T1 s/d T4, Portofolio Asesmen Ipsatif non-ranking. | Santri bertransformasi menjadi Duta Adab mandiri asrama. |
 | **Pilar 4: Integrasi CASEL SEL** | [**`P1-03-04`**](./P1-03-04-Integrasi-SEL-dan-Karakter-Santri.md) | 3 Jangkar Harian (Sapa Pagi, Makan Nampan, Muhasabah), Restorative Circles. | Terciptanya asrama *Zero Bullying* dengan kohesi ukhuwah kokoh.[^7] |
 | **Pilar 5: Krisis Pubertas** | [**`P1-03-05`**](./P1-03-05-Krisis-Biososial-dan-Transisi-Pubertas-Santri.md) | SOP Edukasi Ihtilam/Haidh, bimbingan thaharah privat, olahraga sunnah. | Santri bangga memikul taklif baligh, bebas dari kecemasan biologis. |
 | **Pilar 6: Puncak Tahap 7** | [**`P1-03-06`**](./P1-03-06-Puncak-Aktualisasi-Insan-Adabi-Tahap-7.md) | Munaqqasyah karya riset, proyek khidmah masyarakat 3 bulan, bai'at penggerak. | Lulusan berkarakter *Mushlih* yang memimpin perubahan peradaban umat.[^8] |
@@ -184,7 +184,7 @@ flowchart TD
 | :---: | :--- | :--- | :--- |
 | **P1-03-01** | Tazkiyatun Nafs & Pertumbuhan Jiwa | QS. Asy-Syams: 9–10, Al-Ghazali (*Ihya*), Dr. Phillippa Lally (UCL 2010) | Pembiasaan 66 hari mengubah beban korteks prefrontal ke refleks basal ganglia. |
 | **P1-03-02** | Fase & Lintasan Perkembangan Santri | Fiqh *Marahil al-'Umr*, Erik Erikson (1968), Laurence Steinberg (2008) | Zonasi dan kurikulum berdiferensiasi MTs (Limbik) vs MA (PFC); SOP Homesickness. |
-| **P1-03-03** | Landasan Tangga TUMBUH T1–T4 | Prinsip *Tadarruj Syar'i* (HR. Bukhari), Lev Vygotsky ZPD (1978), Hughes (2014) | Penjenjangan 4 level kemandirian dan Asesmen Ipsatif non-ranking. |
+| **P1-03-03** | Landasan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 | Prinsip *Tadarruj Syar'i* (HR. Bukhari), Lev Vygotsky ZPD (1978), Hughes (2014) | Penjenjangan 4 level kemandirian dan Asesmen Ipsatif non-ranking. |
 | **P1-03-04** | Integrasi SEL & Adab Nabawi | Kitab *Adab al-Mu'asyarah* An-Nawawi, CASEL Framework (2020), Tania Singer (2014) | Harmonisasi 5 kompetensi SEL, aktivasi sirkuit empati ACC otak, dan 3 jangkar asrama. |
 | **P1-03-05** | Krisis Biososial Pubertas Santri | Fiqh Bulugh (HR. Abu Dawud 4403), HPG Axis Endokrin, Blakemore (2018) | Edukasi thaharah baligh privat, perlindungan privasi, & sublimasi olahraga kinestetik. |
 | **P1-03-06** | Puncak Aktualisasi Insan Adabi | QS. Hud: 117 (*Mushlihoon*), Al-Attas (1980), Maslow (1971 *Transcendence*) | Standarisasi kelulusan Tahap 7 Penggerak Peradaban & Khitamut Tarbiyah pengabdian. |
@@ -222,12 +222,12 @@ flowchart TD
 
 ### 4. Glosarium Master Istilah Kunci Human Development
 
-1. **Human Development**: Proses evolusi holistik manusia dari dimensi spiritual-moral (*Tazkiyah*), kematangan biologis (*Pubertas/Maturasi Otak*), kemandirian adab bertingkat (*Tangga T1–T4*), hingga aktualisasi kepemimpinan khidmah (*Tahap 7 Penggerak*).
+1. **Human Development**: Proses evolusi holistik manusia dari dimensi spiritual-moral (*Tazkiyah*), kematangan biologis (*Pubertas/Maturasi Otak*), kemandirian adab bertingkat (*Jenjang J1–J4*), hingga aktualisasi kepemimpinan khidmah (*Tahap 7 Penggerak*).
 2. **Insan Adabi**: Profil manusia beradab menurut Syed Muhammad Naquib Al-Attas yang meletakkan segala realitas ilmu, amal, dan akhlak pada tempatnya yang benar sesuai syariat.
 3. **Mushlih**: Pribadi yang melampaui kesalehan individual untuk secara aktif menggerakkan perbaikan moral dan kemaslahatan umat (QS. Hud: 117).
 4. **Tahap 7 Penggerak**: Tahap kulminasi tertinggi dalam kontinuum perkembangan santri TUMBUH yang melahirkan kader pemimpin peradaban mandiri dan berintegritas.
 5. **Self-Transcendence**: Puncak tertinggi hierarki kebutuhan Maslow di mana seseorang mendedikasikan hidupnya untuk tujuan transendental kemaslahatan sesama.
-6. **Tangga TUMBUH (T1–T4)**: Empat etape progresi kemandirian adab santri: T1 (Ta'aruf), T2 (Tafahum), T3 (Ta'awun), dan T4 (Takaful/Tahwil).
+6. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Empat etape progresi kemandirian adab santri: T1 (Ta'aruf), T2 (Tafahum), T3 (Ta'awun), dan T4 (Takaful/Tahwil).
 7. **Asesmen Pertumbuhan Ipsatif**: Sistem penilaian non-komparatif yang mengukur kemajuan santri dengan membandingkan capaian dirinya saat ini terhadap capaian awalnya sendiri di masa lalu.
 8. **In Loco Parentis**: Peran moral dan hukum musyrif asrama sebagai figur pengganti orang tua yang memberikan perlindungan dan kehangatan.
 9. **Khitamut Tarbiyah**: Rangkaian inisiasi spiritual dan akademis penutupan masa pendidikan pesantren yang memadukan sidang portofolio dan penugasan pengabdian umat.

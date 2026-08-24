@@ -89,7 +89,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap metodologi pendidikan karakter yang meneladani cara Allah SWT dan Rasul-Nya dalam mendidik jiwa niscaya wajib menerapkan prinsip pentahapan hikmah (*Tadarruj*) dan memprioritaskan kekontinuan amal (*Istiqamah*) di atas kuantitas instan yang mudah terputus.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Al-Qur'an diturunkan secara bertahap selama 23 tahun, dan Rasulullah SAW menegaskan bahwa amal yang paling dicintai Allah adalah yang paling dawam/istiqamah meskipun sedikit (HR. Bukhari No. 6464).
-* **Konklusi (*an-Natijah*)**: Maka, kurikulum pembiasaan adab dan ibadah di pesantren TUMBUH wajib distrukturkan ke dalam tangga pencapaian bertahap (Tangga TUMBUH T1–T4).[^1]
+* **Konklusi (*an-Natijah*)**: Maka, kurikulum pembiasaan adab dan ibadah di pesantren TUMBUH wajib distrukturkan ke dalam tangga pencapaian bertahap (Jenjang Kemandirian TUMBUH (J1–J4) J1–J4).[^1]
 
 #### 📖 Teks Primer Turats Shahih Bukhari
 Sayyidah 'Aisyah *radhiyallahu 'anha* memaparkan rahasia metodologi pentahapan Al-Qur'an:
@@ -209,7 +209,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Ketakutan Terlalu Santai)**:  
   *"Kalau targetnya cuma kebiasaan mikro 2 menit, nanti santri jadi pemalas dan tidak mau bekerja keras!"*
 * **Tinjauan Sudut Pandang Eskalasi Tangga Progresi Bertahap**:  
-  Kebiasaan mikro 2 menit adalah **Pintu Masuk (*Gateway Habit*)**, bukan titik akhir. Setelah santri konsisten merapikan kasur selama 2 pekan tanpa disuruh, musyrif mengelevasikan target ke adab berikutnya (*Habit Stacking*). Inilah hakikat progresi Tangga TUMBUH T1 ke T2, T3, hingga T4.[^8]
+  Kebiasaan mikro 2 menit adalah **Pintu Masuk (*Gateway Habit*)**, bukan titik akhir. Setelah santri konsisten merapikan kasur selama 2 pekan tanpa disuruh, musyrif mengelevasikan target ke adab berikutnya (*Habit Stacking*). Inilah hakikat progresi Jenjang Kemandirian TUMBUH (J1–J4) T1 ke T2, T3, hingga T4.[^8]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Liburan Santri Harus Diberikan Portofolio Adab Mandiri?
 * **Pihak A (Sudut Pandang Lepas Kendali Liburan)**:  
@@ -294,7 +294,7 @@ flowchart TD
 
 | Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pembiasaan Asrama |
 | :--- | :--- | :--- | :--- | :--- |
-| **Metodologi Pentahapan** | *Sunnah at-Tadarruj* | Atsar Sayyidah 'Aisyah RA (HR. Bukhari 4993) | *Scaffolding & Zone of Proximal Development (Vygotsky)* | Membagi target capaian karakter ke dalam tangga bertahap T1–T4. |
+| **Metodologi Pentahapan** | *Sunnah at-Tadarruj* | Atsar Sayyidah 'Aisyah RA (HR. Bukhari 4993) | *Scaffolding & Zone of Proximal Development (Vygotsky)* | Membagi target capaian karakter ke dalam tangga bertahap J1–J4. |
 | **Kekontinuan Amal** | *Adwamuha wa In Qalla* | Hadits Shahih Bukhari No. 6464 & Muslim No. 783 | James Clear (2018), *Atomic Habits & Compound Growth* | Membiasakan adab mikro 1% harian daripada target besar instan. |
 | **Biologi Kebiasaan** | *Habit Loop Otomatisasi* | Atsar *Man Shabara Zhafira* & Mujahadatun Nafs | Charles Duhigg (2012), *Basal Ganglia Habit Circuitry* | Merancang siklus isyarat-respon-imbalan adab yang terstruktur di asrama. |
 | **Mitigasi Kejenuhan** | *Anti-Ghuluw & Anti-Futuwr* | Hadits *Innad Dina Yusrun* (HR. Bukhari No. 39) | *Burnout Prevention & Cognitive Load Regulation* | Menjaga keseimbangan antara ibadah, nutrisi, olahraga, dan istirahat tidur. |

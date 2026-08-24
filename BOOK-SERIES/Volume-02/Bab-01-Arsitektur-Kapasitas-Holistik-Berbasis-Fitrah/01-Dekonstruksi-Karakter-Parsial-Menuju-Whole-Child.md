@@ -60,7 +60,7 @@ graph TD
     
     Santri --> S2["2. TERLIBAT & DIHARGAI (Engaged & Valued)<br/>Suara didengar, keunikan fitrah diapresiasi tanpa dibanding-bandingkan, & memiliki rasa kepemilikan mendalam terhadap asrama."]
     
-    Santri --> S3["3. DITANTANG BERTUMBUH (Challenged to Grow)<br/>Kurikulum adab progresif menaiki Tangga T1–T4 yang menstimulasi nalar kritis, metakognisi, dan daya juang (grit)."]
+    Santri --> S3["3. DITANTANG BERTUMBUH (Challenged to Grow)<br/>Kurikulum adab progresif menaiki Jenjang J1–J4 yang menstimulasi nalar kritis, metakognisi, dan daya juang (grit)."]
     
     Santri --> S4["4. DIDUKUNG SECARA RELASIONAL (Relationally Supported)<br/>Musyrif asrama hadir sebagai figur lekat pengganti orang tua (In Loco Parentis) yang hangat, adil, dan membimbing."]
     
@@ -72,7 +72,7 @@ Pemaparan lima pilar perkembangan anak utuh di atas menegaskan bahwa pembinaan k
 
 1. **Pilar Sehat & Aman (*Safe & Healthy*)**: Santri tidak akan mampu menghafal Al-Qur'an secara mendalam jika tubuhnya diserang penyakit kulit menular (skabies), perutnya kelaparan karena gizi rendah, atau otaknya didera teror ketakutan akibat ancaman senior. Rasa aman fisiologis dan psikologis adalah fondasi mutlak pembentukan karakter.
 2. **Pilar Terlibat & Dihargai (*Engaged & Valued*)**: Santri yang merasa dirinya hanya diposisikan sebagai "objek penderita aturan" akan mengembangkan mekanisme pertahanan diri berupa kepatuhan palsu (*passive defiance*). Sebaliknya, ketika santri dilibatkan dalam merumuskan kesepakatan adab kamar, ia memiliki rasa tanggung jawab moral dari dalam hatinya.
-3. **Pilar Ditantang Bertumbuh (*Challenged to Grow*)**: Pendidikan karakter bukanlah indoktrinasi pasif, melainkan petualangan menaklukkan tantangan. Melalui progresi Tangga TUMBUH (T1 Adaptasi, T2 Habituasi, T3 Internalisasi, T4 Transformasi), santri ditantang melampaui batas kenyamanan egonya menuju kematangan adab.
+3. **Pilar Ditantang Bertumbuh (*Challenged to Grow*)**: Pendidikan karakter bukanlah indoktrinasi pasif, melainkan petualangan menaklukkan tantangan. Melalui progresi Jenjang Kemandirian TUMBUH (J1–J4) (T1 Adaptasi, T2 Habituasi, T3 Internalisasi, T4 Transformasi), santri ditantang melampaui batas kenyamanan egonya menuju kematangan adab.
 4. **Pilar Didukung Relasional (*Relationally Supported*)**: Karakter tidak tumbuh dari mikrofon pengeras suara yang membentak-bentak santri dari menara asrama. Karakter menular lewat tatapan mata yang hangat, senyuman tulus, dan sentuhan pundak musyrif asrama yang mendengarkan keluh kesah santri saat mereka dilanda rindu rumah (*homesickness*).
 5. **Pilar Berorientasi Khidmah (*Socially Service-Oriented*)**: Muara akhir dari kematangan adab santri bukanlah kepuasan individualistis kesalehan pribadi, melainkan kerelaan berkorban untuk kemaslahatan sesama (*altruisme khidmah*).
 

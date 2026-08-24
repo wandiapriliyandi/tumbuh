@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Mengatasi homesickness, menahan godaan pulang, mengendalikan tangisan dan amarah awal adaptasi.
 * **Jenjang T2 (Kelas 8 / 11)**: Mampu menahan diri dari menyontek dan gawai ilegal, istiqamah puasa Senin-Kamis sebulan minimal 4x.

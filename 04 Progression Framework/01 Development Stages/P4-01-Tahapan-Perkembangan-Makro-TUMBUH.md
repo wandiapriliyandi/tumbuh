@@ -1,54 +1,62 @@
-﻿# P4-01: Tahapan Perkembangan Makro Santri (Longitudinal Growth Journey)
+# P4-01: TAHAPAN PERKEMBANGAN MAKRO SANTRI DAN KONTINUUM 10 TAHAP TUMBUH
+## *Monograf Riset: Diferensiasi Konseptual Antara 4 Jenjang Kemandirian (J1–J4) dan 10 Tahapan Progresi Karakter (Tahu, Paham, Sadar, Membiasakan, Kuat/Konsisten, Memberi Teladan, Menggerakkan, Pelaksana, Pembina, Pemberdaya)*
 
-## Status Dokumen
-* **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
-* **Sub-Domain**: `04 Progression Framework / 01 Development Stages`
-* **Penanggung Jawab Keilmuan**: Dewan Keilmuan TUMBUH (*Pakar Neurosains Perkembangan & Pakar Pengasuhan Asrama*)
-
----
-
-## 1. Tahapan Perkembangan Makro (Fase 1 hingga Fase 4)
-
-```mermaid
-graph LR
-    Fase1["Fase 1: Orientasi & Inisiasi<br/>(Bulan 1–6)<br/>Penyesuaian Bi'ah Shalihah, Regulasi Emosi Transisi, Mitigasi Separation Anxiety"]
-    
-    Fase2["Fase 2: Habituasi & Pembentukan Karakter<br/>(Tahun 1–2)<br/>Internalisasi Rutin Ibadah, Manajemen Waktu (Haritsun 'Ala Waqtih), Kemandirian Fisik"]
-    
-    Fase3["Fase 3: Kematangan Sosial-Emosional<br/>(Tahun 2–3)<br/>Integrasi CASEL SEL, Metakognisi Belajar, Resolusi Konflik Sebaya Restoratif"]
-    
-    Fase4["Fase 4: Leadership & Transisi Post-Pesantren<br/>(Tahun 3+)<br/>Kepemimpinan Qudwah, Khidmah Keumatan, Kesiapan Mandiri (Qadirun 'Alal Kasb)"]
-
-    Fase1 --> Fase2 --> Fase3 --> Fase4
-```
+**Nomor Identifikasi**: `P4-01/MONOGRAF-INDUK-TAHAPAN-MAKRO/2026`  
+**Domain**: `04 Progression Framework` > `01 Development Stages`  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Kerangka Progresi Makro)  
+**Rumpun Disiplin Pengkaji**: Psikologi Perkembangan Remaja, Neurosains Kognitif, Teori Kontinuum Pembinaan Adab Turats  
 
 ---
 
-## 2. Karakteristik Biososial-Spiritual Remaja Pesantren
-
-| Dimensi | Fase 1 (Awal Masuk / T1) | Fase 2 (Habituasi / T2) | Fase 3 (Internalisasi / T3) | Fase 4 (Kemandirian / T4) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Neurosains (PFC)** | Maturasi PFC awal; dorongan impulsif tinggi; butuh struktur luar ketat. | Maturasi PFC menengah; mulai memahami konsekuensi logis. | Kontrol inhibisi emosi makin stabil; berpikir prospektif. | Integrasi sistem limbik dan PFC optimal; regulasi mandiri penuh. |
-| **Spiritual (Nafs)** | *Nafs Ammarah*: Dorongan ego tinggi, butuh bimbingan adab luar (*Takhalli*). | Transisi menuju *Nafs Lawwamah*: Kesadaran bersalah jika melanggar. | *Nafs Lawwamah* matang: Motivasi ibadah lahir dari dorongan *Mahabbah*. | Menuju *Nafs Mutma'innah*: Konsistensi (*Istiqamah*) dalam kebaikan (*Tajalli*). |
-| **Sosial (Peer)** | *Ego-centric*: Fokus pada rasa aman diri & kepemilikan. | *Group-oriented*: Mencari penerimaan teman sebaya. | *Empathy-driven*: Mampu memahami perspektif orang lain (CASEL). | *Qudwah-oriented*: Menjadi pelindung & teladan bagi junior. |
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
+>
+> * **Diferensiasi Nomenklatur: 4 Jenjang Kemandirian (J1–J4) vs 10 Tahapan Perkembangan Karakter:**  
+>   Untuk menghindari kerancuan istilah, ekosistem TUMBUH membedakan secara tegas antara:
+>   1. **Jenjang Kemandirian Santri (J1–J4):** Skala 4 level operasional kemandirian adab santri di asrama (J1 Terbimbing, J2 Pembiasaan, J3 Mandiri, J4 Qudwah).
+>   2. **10 Tahapan Kontinuum Perkembangan (Tahap 1–10):** Lintasan metamorfosis psikososial dan kapasitas kepemimpinan: **1. Tahu $\rightarrow$ 2. Paham $\rightarrow$ 3. Sadar $\rightarrow$ 4. Membiasakan $\rightarrow$ 5. Kuat/Konsisten $\rightarrow$ 6. Memberi Teladan $\rightarrow$ 7. Menggerakkan $\rightarrow$ 8. Pelaksana $\rightarrow$ 9. Pembina $\rightarrow$ 10. Pemberdaya**.
 
 ---
 
-## 3. Strategi Perampingan Bimbingan Pengasuh (*Scaffolding Decay Matrix*)
+## 🏛️ 1. MATRIKS KORELASI 4 JENJANG (J1–J4) DAN 10 TAHAPAN PERKEMBANGAN
 
 ```mermaid
 graph TD
-    Matrix["Perampingan Bimbingan Musyrif (Scaffolding Decay)"]
-    Matrix --> T1_Supp["T1 (80% Scaffolding): Instruktur & Pembimbing Intensif Harian"]
-    Matrix --> T2_Supp["T2 (50% Scaffolding): Pengawas Rutinitas & Coach Penguatan Positif"]
-    Matrix --> T3_Supp["T3 (20% Scaffolding): Fasilitator Diskusi & Mentor Konseling Emosional"]
-    Matrix --> T4_Supp["T4 (0-10% Scaffolding): Partner Kolaboratif & Penasihat Kepemimpinan"]
+    subgraph ModelIntegrasiJenjangDanTahapan["INTEGRASI 4 JENJANG KEMANDIRIAN & 10 TAHAPAN PERKEMBANGAN"]
+        J1["JENJANG J1: KEPATUHAN TERBIMBING (Kelas 7)<br/>• Tahap 1: TAHU (Knowledge Acquisition)<br/>• Tahap 2: PAHAM (Comprehension & Insight)"]
+        
+        J2["JENJANG J2: PEMBIASAAN TERPOLA (Kelas 8)<br/>• Tahap 3: SADAR (Internal Awareness & Conscience)<br/>• Tahap 4: MEMBIASAKAN (Habituation Loop)"]
+        
+        J3["JENJANG J3: KEMANDIRIAN STABIL (Kelas 9-10)<br/>• Tahap 5: KUAT / KONSISTEN (Resilience & Strength)<br/>• Tahap 6: MEMBERI TELADAN (Role Modeling)"]
+        
+        J4["JENJANG J4: KEPEMIMPINAN QUDWAH (Kelas 11-12)<br/>• Tahap 7: MENGGERAKKAN (Mobilizing & Leading)<br/>• Tahap 8: PELAKSANA (Executing System)"]
+        
+        Pasca["FASE PENGABDIAN & ALUMNI (Post-Pesantren)<br/>• Tahap 9: PEMBINA (Nurturing & Mentoring Junior)<br/>• Tahap 10: PEMBERDAYA (Systemic Empowerment of Ummah)"]
+        
+        J1 ==> J2 ==> J3 ==> J4 ==> Pasca
+    end
 ```
 
 ---
 
-## 4. Mitigasi Tantangan Transisi Makro
+## 📑 2. TABEL DEFINISI OPERASIONAL 10 TAHAPAN PERKEMBANGAN KARAKTER
 
-1. **Homesickness & Anxiety pada Fase 1**: Penanganan berbasis empati (*Validation & Co-Regulation*), bukan celaan atau stigma "santri manja".
-2. **Krisis Identitas Remaja pada Fase 2–3**: Pendampingan bimbingan konseling Islam (*CBT & Restorative Narrative*) untuk membentuk *Self-Identity* Islami yang kokoh.
-3. **Burnout Musyrif**: Penerapan sistem logbook digital PBIS dan jadwal piket berkeadilan agar musyrif dapat memberikan bimbingan dengan energi emosional yang sehat (*Qudwah Hasanah*).
+| No | Tahapan Karakter | Definisi Operasional & Indikator Psikologis | Padanan Jenjang Kemandirian | Peran Musyrif / Ekosistem |
+| :---: | :--- | :--- | :---: | :--- |
+| **1** | **TAHU** | Mengetahui aturan dasar, teks dalil syar'i, dan SOP asrama secara kognitif. | **Jenjang J1 (Kepatuhan Terbimbing)** | *Instruktur Langsung* (Aba-aba jelas & demonstrasi). |
+| **2** | **PAHAM** | Memahami alasan logis, hikmah syariat, dan konsekuensi logis di balik setiap adab. | **Jenjang J1 (Kepatuhan Terbimbing)** | *Eksplikator Dialogis* (Tadabbur makna & diskusi). |
+| **3** | **SADAR** | Tumbuh kesadaran nurani batin (*Muraqabah*) bahwa adab adalah kebutuhan diri, bukan beban luar. | **Jenjang J2 (Pembiasaan Terpola)** | *Penguat Niat* (Refleksi muhasabah malam). |
+| **4** | **MEMBIASAKAN** | Mempraktikkan adab dalam rutinitas 24 jam secara teratur hingga menjadi kebiasaan otomatis (*Habit Loop*). | **Jenjang J2 (Pembiasaan Terpola)** | *Pemantau Rutinitas & Apresiasi 4:1*. |
+| **5** | **KUAT / KONSISTEN**| Istiqamah, berdaya tahan tinggi (*Resilience*), dan kokoh menjaga adab meski diuji godaan lingkungan. | **Jenjang J3 (Kemandirian Stabil)** | *Coach Reflektif* (Mendorong konsistensi batin). |
+| **6** | **MEMBERI TELADAN**| Perilaku adab memancar spontan (*Second Nature*) sehingga menginspirasi rekan sekamar secara positif. | **Jenjang J3 (Kemandirian Stabil)** | *Fasilitator Mentorship* (Apresiasi kepemimpinan adab). |
+| **7** | **MENGGERAKKAN** | Memimpin inisiatif kebaikan, aktif mengajak teman, dan menjadi problem solver dalam dinamika asrama. | **Jenjang J4 (Kepemimpinan Qudwah)** | *Mitra Strategis* (Memberi ruang kreasi inisiatif). |
+| **8** | **PELAKSANA** | Mengemban amanah eksekusi organisasi santri (OSIS/Asrama) secara profesional (*Itqan*) dan akuntabel. | **Jenjang J4 (Kepemimpinan Qudwah)** | *Penasihat Kolaboratif* (Supervisi manajemen santri). |
+| **9** | **PEMBINA** | Mentransformasikan diri menjadi pengasuh/pembimbing yang melatih, mendampingi, dan mengayomi adik kelas. | **Tahun Pengabdian / Musyrif Muda** | *Master Coach* (Pengembangan kompetensi pedagogi). |
+| **10**| **PEMBERDAYA** | Menciptakan sistem baru, memajukan lembaga, mendirikan unit usaha dakwah, dan memberdayakan umat luas. | **Fase Alumni Pemimpin Peradaban** | *Jejaring Kolaborasi Sinergis Global*. |
+
+---
+
+## 🏛️ 3. TIGA PILAR PROGRESI PERKEMBANGAN BIOSOSIAL-SPIRITUAL
+
+1. **Pilar Biososial (Neurosains PFC)**: Dari dominasi impuls emosi limbik di Fase Awal (J1 / Tahap 1-2) menuju maturasi Prefrontal Cortex optimal di Fase Akhir (J4 / Tahap 7-8).
+2. **Pilar Spiritual (Tazkiyatun Nafs)**: Dari *Nafs Ammarah* (J1) $\rightarrow$ *Nafs Lawwamah* (J2-J3) $\rightarrow$ *Nafs Mutma'innah* (J4 / Tahap 6-10).
+3. **Pilar Kepemimpinan (Servant Leadership)**: Dari penerima bimbingan pasif menuju *Khidmah* melayani dan memberdayakan peradaban.

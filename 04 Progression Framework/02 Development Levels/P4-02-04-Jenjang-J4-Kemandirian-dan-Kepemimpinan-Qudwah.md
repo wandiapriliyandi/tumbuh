@@ -1,4 +1,4 @@
-﻿# P4-02-04: Modul Operasional Tangga T4 (Kemandirian & Kepemimpinan Qudwah)
+﻿# P4-02-04: Modul Operasional Jenjang J4 (Kemandirian & Kepemimpinan Qudwah)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Spesifikasi Operasional Tangga T4
+## 1. Spesifikasi Operasional Jenjang J4
 
 * **Fokus Utama**: Keteladanan Utuh (*Qudwah Hasanah*), Servant Leadership, Khidmah Keumatan, & Kemandirian Post-Pesantren (*Qadirun 'Alal Kasb*).
 * **Tingkat Scaffolding Decay**: **Bimbingan Kolaboratif (0–10%)** (Kemitraan, Penasihat Strategis, & Mentoring).
@@ -15,11 +15,11 @@
 
 ---
 
-## 2. Ekspektasi Perilaku & Indikator Capaian Tangga T4
+## 2. Ekspektasi Perilaku & Indikator Capaian Jenjang J4
 
 ```mermaid
 graph TD
-    T4_Expect["Ekspektasi Perilaku Santri Tangga T4"]
+    T4_Expect["Ekspektasi Perilaku Santri Jenjang J4"]
     T4_Expect --> Qudwah4["1. Keteladanan Perilaku (Qudwah)<br/>Menjadi rujukan adab, ibadah, & kedisiplinan bagi seluruh adik kelas."]
     T4_Expect --> Organ4["2. Kepemimpinan Organisasi Mandiri<br/>Mengelola kepengurusan santri (OSIS/OPPM) dengan prinsip Servant Leadership."]
     T4_Expect --> Mentoring4["3. Peer Mentoring Adik Kelas<br/>Menjadi pembimbing adik kelas T1/T2 dengan kelembutan & pengayoman."]

@@ -16,7 +16,7 @@
 >   1. *Mutsaqqaful Fikr* (Nalar kritis mantiq & literasi data) $\rightarrow$ Memampukan santri merancang inovasi bisnis halal, membaca peluang pasar, dan mengelola manajemen secara profesional (*Itqan*).  
 >   2. *Qadirun 'Alal Kasb* (Kemandirian finansial) $\rightarrow$ Melindungi independensi fatwa, menjaga martabat (*'Izzah*) santri dari ketergantungan meminta-minta, dan mendanai riset keilmuan secara berkelanjutan.
 > * **Model Inkubator Bisnis Pesantren Berbasis Santripreneur:**  
->   Membangun teaching factory, koperasi digital, dan unit usaha halal yang dikelola langsung oleh santri Tangga T3 & T4.
+>   Membangun teaching factory, koperasi digital, dan unit usaha halal yang dikelola langsung oleh santri Jenjang J3 & T4.
 
 ---
 
@@ -31,7 +31,7 @@
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Model Keterpaduan Nalar Intelektual & Kemandirian Finansial TUMBUH](#1-formulasi-konseptual-model-keterpaduan-nalar-intelektual--kemandirian-finansial-tumbuh)
   - [2. Matriks Integrasi Kompetensi Sains-Turats dengan Unit Usaha Vokasional Pesantren](#2-matriks-integrasi-kompetensi-sains-turats-dengan-unit-usaha-vokasional-pesantren)
-  - [3. Peta Jalan Kurikulum Santripreneur Berbasis Tangga T1–T4 di Pesantren](#3-peta-jalan-kurikulum-santripreneur-berbasis-tangga-t1t4-di-pesantren)
+  - [3. Peta Jalan Kurikulum Santripreneur Berbasis Jenjang J1–J4 di Pesantren](#3-peta-jalan-kurikulum-santripreneur-berbasis-tangga-t1t4-di-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Intelektual-Kemandirian](#1-tabel-sintesis-temuan-riset-intelektual-kemandirian)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
@@ -168,7 +168,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ---
 
-### 3. Peta Jalan Kurikulum Santripreneur Berbasis Tangga T1–T4 di Pesantren
+### 3. Peta Jalan Kurikulum Santripreneur Berbasis Jenjang J1–J4 di Pesantren
 
 ```mermaid
 flowchart TD
@@ -228,7 +228,7 @@ flowchart TD
 [^7]: Laporan Evaluasi Program Inkubator Santripreneur Pesantren TUMBUH, 2026.  
 [^8]: Panduan Kurikulum Vokasional dan Kewirausahaan Santri, Biro Vokasi TUMBUH, 2026.  
 [^9]: Modul Fiqh Mu'amalah Terapan bagi Pengelola Koperasi Santri, Divisi Ekonomi Syariah, 2026.  
-[^10]: Silabus Pelatihan Keterampilan Digital dan Teknologi Informasi Santri Tangga T3 & T4, 2026.
+[^10]: Silabus Pelatihan Keterampilan Digital dan Teknologi Informasi Santri Jenjang J3 & T4, 2026.
 
 ---
 

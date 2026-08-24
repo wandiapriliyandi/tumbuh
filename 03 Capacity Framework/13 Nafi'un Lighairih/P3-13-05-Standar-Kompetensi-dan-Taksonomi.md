@@ -20,7 +20,7 @@ graph TD
 
 ---
 
-## 2. Matriks Capaian Berjenjang Sesuai Tangga TUMBUH
+## 2. Matriks Capaian Berjenjang Sesuai Jenjang Kemandirian TUMBUH (J1–J4)
 
 * **Jenjang T1 (Kelas 7 / 10 Baru)**: Membantu rekan sekamar yang sakit, membersihkan fasilitas bersama, berbagi makanan ringan (*Internal Khidmah*).
 * **Jenjang T2 (Kelas 8 / 11)**: Terlibat aktif dalam program kerja bakti desa sekitar pesantren, menjadi relawan kebersihan masjid agung.

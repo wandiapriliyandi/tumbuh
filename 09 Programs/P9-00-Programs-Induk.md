@@ -14,7 +14,7 @@ Sesuai Dokumen Induk `AGENTS.md`, seluruh program pembinaan di pesantren ekosist
 ```mermaid
 graph TD
     ProgramDesign["3 Asas Desain Program TUMBUH"]
-    ProgramDesign --> FitrahCentered["1. Fitrah-Centered Design<br/>Setiap program dirancang menghormati keunikan fitrah & tahap perkembangan (T1-T4) santri."]
+    ProgramDesign --> FitrahCentered["1. Fitrah-Centered Design<br/>Setiap program dirancang menghormati keunikan fitrah & tahap perkembangan (J1-J4) santri."]
     ProgramDesign --> QudwahExec["2. Qudwah-Driven Execution<br/>Musyrif & Ustadz hadir sebagai teladan utama pelaksana program, bukan penonton/pengawas pasif."]
     ProgramDesign --> RestorativeBase["3. Zero-Violence & Restorative Base<br/>Seluruh program bebas dari hukuman fisik, pembentakan, & perpeloncoan senioritas."]
 ```

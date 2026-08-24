@@ -1,4 +1,4 @@
-# P1-03-03: LANDASAN FILOSOFIS TANGGA PERTUMBUHAN TUMBUH (T1–T4)
+# P1-03-03: LANDASAN FILOSOFIS TANGGA PERTUMBUHAN TUMBUH (J1–J4)
 ## *Monograf Terpadu: Prinsip Tadarruj Syar'i (HR. Bukhari dari 'Aisyah RA), Konvergensi Teori Zone of Proximal Development (ZPD) & Scaffolding Lev Vygotsky, Arsitektur 4 Etape Kemandirian Adab (T1 Adaptasi s/d T4 Transformasi), Progresi Tahap 7 Penggerak, serta Dekonstruksi Ranking Menuju Asesmen Pertumbuhan Ipsatif*
 
 **Nomor Identifikasi**: `P1-03-03/MONOGRAF-TERPADU-TANGGA-TUMBUH/2026`  
@@ -12,7 +12,7 @@
 >
 > * **Pertumbuhan Karakter Adalah Proses Bertangga (*Tadarruj*), Bukan Lompatan Instan:**  
 >   Menuntut santri baru langsung memiliki kemandirian ibadah seperti santri senior adalah menyalahi sunnatullah. Sebagaimana Al-Qur'an diturunkan secara bertahap selama 23 tahun, penanaman adab santri wajib melewati **Tangga Pertumbuhan Terstruktur (T1 s/d T4)**.
-> * **Empat Etape Tangga TUMBUH Santri:**  
+> * **Empat Etape Jenjang Kemandirian TUMBUH (J1–J4) Santri:**  
 >   1. **T1 (Ta'aruf / Adaptasi & Ketergantungan Terbimbing):** Santri butuh instruksi jelas, bimbingan fisik melekat, dan penataan rasa aman.  
 >   2. **T2 (Ta'allum / Pembiasaan Terarah):** Santri mulai menjalankan rutinitas dengan pengingat ramah (*Prompts*) dan apresiasi positif.  
 >   3. **T3 (Tafahhum / Internalisasi & Kemandirian Terbimbing):** Santri memahami nilai di balik aturan; disiplin hadir atas kesadaran batin (*Muraqabah*).  
@@ -30,20 +30,20 @@
   - [1. Kerangka Metodologi Pentahapan Adab & Prinsip Gradualisme Ilahiah (Sunnatut Tadarruj)](#1-kerangka-metodologi-pentahapan-adab--prinsip-gradualisme-ilahiah-sunnatut-tadarruj)
   - [2. Inkuiri 1: Eksegesis Turats Prinsip Tadarruj Syar'i (HR. Bukhari dari Sayyidah 'Aisyah RA) & QS. Al-Furqan: 32](#2-inkuiri-1-eksegesis-turats-prinsip-tadarruj-syari-hr-bukhari-dari-sayyidah-aisyah-ra--qs-al-furqan-32)
   - [3. Inkuiri 2: Konvergensi Teori Zone of Proximal Development (ZPD) & Dynamic Scaffolding Lev Vygotsky](#3-inkuiri-2-konvergensi-teori-zone-of-proximal-development-zpd--dynamic-scaffolding-lev-vygotsky)
-  - [4. Inkuiri 3: Arsitektur 4 Etape Tangga TUMBUH (T1 Ta'aruf, T2 Ta'allum, T3 Tafahhum, T4 Tawaqquf/Transformasi)](#4-inkuiri-3-arsitektur-4-etape-tangga-tumbuh-t1-taaruf-t2-taallum-t3-tafahhum-t4-tawaqquftransformasi)
+  - [4. Inkuiri 3: Arsitektur 4 Etape Jenjang Kemandirian TUMBUH (J1–J4) (T1 Ta'aruf, T2 Ta'allum, T3 Tafahhum, T4 Tawaqquf/Transformasi)](#4-inkuiri-3-arsitektur-4-etape-tangga-tumbuh-t1-taaruf-t2-taallum-t3-tafahhum-t4-tawaqquftransformasi)
   - [5. Inkuiri 4: Dialektika Progresi Menuju Tahap 7 Penggerak — Menumbuhkan Duta Adab & Servant Leadership](#5-inkuiri-4-dialektika-progresi-menuju-tahap-7-penggerak--menumbuhkan-duta-adab--servant-leadership)
   - [6. Inkuiri 5: Dekonstruksi Perankingan Komparatif Toksik Menuju Asesmen Pertumbuhan Ipsatif](#6-inkuiri-5-dekonstruksi-perankingan-komparatif-toksik-menuju-asesmen-pertumbuhan-ipsatif)
-  - [7. Inkuiri 6: Translasi Tangga TUMBUH ke Dashboard Digital & Tata Kelola Pengasuhan Asrama 24 Jam](#7-inkuiri-6-translasi-tangga-tumbuh-ke-dashboard-digital--tata-kelola-pengasuhan-asrama-24-jam)
+  - [7. Inkuiri 6: Translasi Jenjang Kemandirian TUMBUH (J1–J4) ke Dashboard Digital & Tata Kelola Pengasuhan Asrama 24 Jam](#7-inkuiri-6-translasi-tangga-tumbuh-ke-dashboard-digital--tata-kelola-pengasuhan-asrama-24-jam)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri](#1-formulasi-konseptual-tangga-pertumbuhan-tumbuh-t1-t4-hak-bertumbuh-santri)
-  - [2. Matriks Komprehensif 4 Etape Tangga TUMBUH: Tingkat Kemandirian & Kebutuhan Scaffolding Musyrif](#2-matriks-komprehensif-4-etape-tangga-tumbuh-tingkat-kemandirian--kebutuhan-scaffolding-musyrif)
+  - [1. Formulasi Konseptual: Tangga Pertumbuhan TUMBUH J1–J4 & Hak Bertumbuh Santri](#1-formulasi-konseptual-tangga-pertumbuhan-tumbuh-t1-t4-hak-bertumbuh-santri)
+  - [2. Matriks Komprehensif 4 Etape Jenjang Kemandirian TUMBUH (J1–J4): Tingkat Kemandirian & Kebutuhan Scaffolding Musyrif](#2-matriks-komprehensif-4-etape-tangga-tumbuh-tingkat-kemandirian--kebutuhan-scaffolding-musyrif)
   - [3. Matriks Progresi 7 Tahap Perkembangan Santri: Menuju Tahap 7 Penggerak](#3-matriks-progresi-7-tahap-perkembangan-santri-menuju-tahap-7-penggerak)
   - [4. Protokol Asesmen Ipsatif: SOP Evaluasi Kemajuan Mandiri Non-Komparatif](#4-protokol-asesmen-ipsatif-sop-evaluasi-kemajuan-mandiri-non-komparatif)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
   - [1. Tabel Sintesis Hasil Riset Tangga Pertumbuhan TUMBUH](#1-tabel-sintesis-hasil-riset-tangga-pertumbuhan-tumbuh)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Tangga TUMBUH & Human Development](#4-glosarium-dan-penjelasan-istilah-teknis-tangga-tumbuh--human-development)
+  - [4. Glosarium dan Penjelasan Istilah Teknis Jenjang Kemandirian TUMBUH (J1–J4) & Human Development](#4-glosarium-dan-penjelasan-istilah-teknis-tangga-tumbuh--human-development)
 
 ---
 
@@ -91,7 +91,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap metode pendidikan adab yang meneladani wahyu Ilahi dan strategi dakwah Rasulullah SAW niscaya wajib memposisikan prinsip pentahapan gradual (*Tadarruj*) sebagai asas pembinaan watak manusia.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Allah SWT menurunkan syariat Al-Qur'an secara berangsur-angsur (*Munajjaman*) selama 23 tahun untuk menata fondasi keimanan terlebih dahulu sebelum mewajibkan beban hukum yang berat (QS. Al-Furqan: 32).
-* **Konklusi (*an-Natijah*)**: Maka, kurikulum pengasuhan santri di pesantren TUMBUH wajib menerapkan pentahapan Tangga T1–T4 dalam menuntut kemandirian adab santri.[^1]
+* **Konklusi (*an-Natijah*)**: Maka, kurikulum pengasuhan santri di pesantren TUMBUH wajib menerapkan pentahapan Jenjang J1–J4 dalam menuntut kemandirian adab santri.[^1]
 
 #### 📖 Teks Primer Hadits Shahih Bukhari: Hikmah Pentahapan Syariat
 Sayyidah 'Aisyah *radhiyallahu 'anha* meriwayatkan rahasia agung gradualisme penurunan Al-Qur'an:
@@ -106,7 +106,7 @@ $$\text{وَقَالَ الَّذِينَ كَفَرُوا لَوْلَا نُز
 
 #### 🥊 Ronde 1: Menolak Kritik Bahwa Gradualisme Adalah Sikap Kompromis Terhadap Dosa
 * **Pihak A (Sudut Pandang Rigidisasi Buta)**:  
-  *"Menerapkan tahapan T1–T4 berarti memaklumi santri berbuat dosa di awal mondok. Ini bentuk kompromi yang melemahkan syariat!"*
+  *"Menerapkan tahapan J1–J4 berarti memaklumi santri berbuat dosa di awal mondok. Ini bentuk kompromi yang melemahkan syariat!"*
 * **Tinjauan Sudut Pandang Fiqh Dakwah & Hikmah Kebijaksanaan**:  
   Gradualisme (*Tadarruj*) **bukan melegalkan keharaman**, melainkan mengatur strategi prioritas intervensi (*Fiqh al-Awlawiyyat*). Di tahap T1, prioritas utama adalah membangun rasa cinta santri kepada pondok, shalat 5 waktu berjamaah, dan adab makan bersama. Menuntut santri baru langsung bangun tahajud 11 rakaat setiap malam justru akan mematahkan jiwanya dan membuatnya kabur dari pesantren.[^4]
 
@@ -114,17 +114,17 @@ $$\text{وَقَالَ الَّذِينَ كَفَرُوا لَوْلَا نُز
 * **Pihak A (Sudut Pandang Kekhawatiran Stagnasi)**:  
   *"Kalau ada tahapan, nanti santri beralasan: 'Saya kan masih T1, wajar kalau malas shalat!' Santri akan manja selamanya!"*
 * **Tinjauan Sudut Pandang Rubrik Kriteria Naik Tangga yang Jelas**:  
-  Tangga TUMBUH memiliki indikator capaian dan durasi waktu yang terukur (misalnya T1 berlangsung 66 hari). Santri tidak dibiarkan stagnan; musyrif memiliki instrumen asesmen berkala untuk memfasilitasi santri naik kelas karakter ke T2, T3, dan T4. Jika ada santri yang tertahan, musyrif memberikan intervensi Tier 2 PBIS secara terarah.[^5]
+  Jenjang Kemandirian TUMBUH (J1–J4) memiliki indikator capaian dan durasi waktu yang terukur (misalnya T1 berlangsung 66 hari). Santri tidak dibiarkan stagnan; musyrif memiliki instrumen asesmen berkala untuk memfasilitasi santri naik kelas karakter ke T2, T3, dan T4. Jika ada santri yang tertahan, musyrif memberikan intervensi Tier 2 PBIS secara terarah.[^5]
 
 #### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Gradualisme Menghemat Energi Musyrif?
 * **Pihak A (Sudut Pandang Musyrif Lelah Mengawasi Terus)**:  
   *"Mengurus santri bertahap membuat musyrif repot karena harus membedakan perlakuan setiap anak!"*
 * **Resolusi Sudut Pandang Efisiensi Energi Berkelanjutan**:  
-  Pendekatan seragam represif justru membuat musyrif mengalami *burnout* kronis karena harus berteriak dan marah setiap hari selama bertahun-tahun. Dengan Tangga TUMBUH, bantuan musyrif menurun secara sistematis dari 80% (T1) menjadi 0% (T4). Santri T4 bahkan menjadi asisten mandiri yang membantu membina adik kelasnya.[^6]
+  Pendekatan seragam represif justru membuat musyrif mengalami *burnout* kronis karena harus berteriak dan marah setiap hari selama bertahun-tahun. Dengan Jenjang Kemandirian TUMBUH (J1–J4), bantuan musyrif menurun secara sistematis dari 80% (T1) menjadi 0% (T4). Santri T4 bahkan menjadi asisten mandiri yang membantu membina adik kelasnya.[^6]
 
 > #### 📌 Kasuistika Lapangan 1 & Titik Temu Konsensus
 > * **Studi Kasus**: Musyrif baru mewajibkan seluruh santri baru kelas 7 menghafal 1 halaman Al-Qur'an per hari dan shalat tahajud 1 jam sejak malam pertama mondok; dalam 2 pekan, 15 santri jatuh sakit dan 8 santri minta dijemput pulang orang tuanya.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pimpinan pesantren mengoreksi kebijakan tersebut dengan menerapkan protokol *T1 Tangga TUMBUH*. Target hafalan dimulai dari 3 baris per hari dan tahajud 2 rakaat singkat. Santri kembali sehat, ceria, dan dalam tempo 3 bulan kapasitas hafalannya meningkat secara mandiri hingga 1 halaman per hari tanpa paksaan.[^7]
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pimpinan pesantren mengoreksi kebijakan tersebut dengan menerapkan protokol *T1 Jenjang Kemandirian TUMBUH (J1–J4)*. Target hafalan dimulai dari 3 baris per hari dan tahajud 2 rakaat singkat. Santri kembali sehat, ceria, dan dalam tempo 3 bulan kapasitas hafalannya meningkat secara mandiri hingga 1 halaman per hari tanpa paksaan.[^7]
 
 ---
 
@@ -146,14 +146,14 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap intervensi pendidikan yang menargetkan zona perkembangan proksimal (*ZPD*) pembelajar dengan dukungan perancah (*Scaffolding*) yang adaptif niscaya mengoptimalkan laju pertumbuhan kompetensi tanpa memicu kecemasan ekstrem (*Anxiety*) atau kebosanan (*Boredom*).
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Teori konstruktivisme Lev Vygotsky membuktikan bahwa pembelajar bertumbuh optimal ketika didampingi oleh figur yang lebih berpengetahuan (*More Knowledgeable Other / MKO*) di dalam ruang ZPD mereka.
-* **Konklusi (*an-Natijah*)**: Maka, pendampingan musyrif di setiap anak tangga TUMBUH (T1–T4) harus berfungsi sebagai *scaffolding* dinamis yang perlahan dilepas (*Fading*) seiring kematangan santri.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, pendampingan musyrif di setiap anak tangga TUMBUH (J1–J4) harus berfungsi sebagai *scaffolding* dinamis yang perlahan dilepas (*Fading*) seiring kematangan santri.[^8]
 
 #### 📖 Teks Sains Internasional: Riset Lev S. Vygotsky (1978)
 Lev Vygotsky mendefinisikan *Zone of Proximal Development* dalam karyanya:
 
 > *"The Zone of Proximal Development is the distance between the **actual developmental level** as determined by independent problem solving and the level of **potential development** as determined through problem-solving under adult guidance or in collaboration with more capable peers... What a child can do with assistance today she will be able to do by herself tomorrow. **Scaffolding** must be contingent upon the learner's ongoing progress and must gradually fade as self-regulation increases."* (Vygotsky, 1978, *Mind in Society*, hlm. 86–88).[^9]
 
-Penerapan *Scaffolding* dalam Tangga TUMBUH:
+Penerapan *Scaffolding* dalam Jenjang Kemandirian TUMBUH (J1–J4):
 1. **Model Pencontohan (Modeling)**: Musyrif mendemonstrasikan adab melipat selimut dan merapikan lemari secara langsung di depan santri.
 2. **Pemberian Isyarat (Prompting)**: Musyrif memberikan petunjuk verbal ramah: *"5 menit lagi adzan berkumandang, mari bersiap wudhu."*
 3. **Pelepasan Bertahap (Fading)**: Musyrif mundur selangkah dan membiarkan santri mengatur dirinya sendiri, hanya melakukan supervisi jarak jauh yang suportif.[^10]
@@ -182,7 +182,7 @@ Penerapan *Scaffolding* dalam Tangga TUMBUH:
 
 ---
 
-### 4. Inkuiri 3: Arsitektur 4 Etape Tangga TUMBUH (T1 Ta'aruf, T2 Ta'allum, T3 Tafahhum, T4 Tawaqquf/Transformasi)
+### 4. Inkuiri 3: Arsitektur 4 Etape Jenjang Kemandirian TUMBUH (J1–J4) (T1 Ta'aruf, T2 Ta'allum, T3 Tafahhum, T4 Tawaqquf/Transformasi)
 
 ```mermaid
 graph LR
@@ -201,14 +201,14 @@ graph LR
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap kurikulum pembinaan karakter yang membagi trajektori kemandirian santri ke dalam etape-etape operasional dengan batas durasi, proporsi pendampingan, dan rubrik perilaku yang jelas niscaya menghasilkan akselerasi kematangan adab yang terukur dan akuntabel.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Empat etape Tangga TUMBUH (Ta'aruf, Ta'allum, Tafahhum, Tawaqquf) merumuskan gradasi kemandirian santri secara komprehensif dari fase bimbingan eksternal intensif menuju kemandirian penuh *Insan Kamil*.
-* **Konklusi (*an-Natijah*)**: Maka, Tangga TUMBUH T1–T4 adalah instrumen standar emas penjenjangan karakter santri di seluruh jaringan pesantren binaan.[^15]
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Empat etape Jenjang Kemandirian TUMBUH (J1–J4) (Ta'aruf, Ta'allum, Tafahhum, Tawaqquf) merumuskan gradasi kemandirian santri secara komprehensif dari fase bimbingan eksternal intensif menuju kemandirian penuh *Insan Kamil*.
+* **Konklusi (*an-Natijah*)**: Maka, Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 adalah instrumen standar emas penjenjangan karakter santri di seluruh jaringan pesantren binaan.[^15]
 
 #### 🥊 Ronde 1: Menghindari Kekakuan Waktu yang Membelenggu Santri Cepat Tumbuh
 * **Pihak A (Sudut Pandang Penyeragaman Waktu yang Kaku)**:  
   *"Pokoknya semua santri harus berada di T1 tepat 60 hari, tidak boleh naik ke T2 lebih cepat meskipun adabnya sudah sangat matang!"*
 * **Tinjauan Sudut Pandang Fleksibilitas Pertumbuhan Personal**:  
-  Setiap jiwa memiliki kecepatan mielinisasi dan kematangan fitrah yang unik (*Individual Developmental Trajectory*). Tangga TUMBUH bersifat **Berbasis Penguasaan Adab (*Mastery-Based*)**, bukan semata-mata berbasis waktu kalender. Santri yang telah menguasai indikator T1 dalam waktu 30 hari berhak diajukan naik ke T2 lebih awal.[^16]
+  Setiap jiwa memiliki kecepatan mielinisasi dan kematangan fitrah yang unik (*Individual Developmental Trajectory*). Jenjang Kemandirian TUMBUH (J1–J4) bersifat **Berbasis Penguasaan Adab (*Mastery-Based*)**, bukan semata-mata berbasis waktu kalender. Santri yang telah menguasai indikator T1 dalam waktu 30 hari berhak diajukan naik ke T2 lebih awal.[^16]
 
 #### 🥊 Ronde 2: Sanggahan Balik Menangani Santri yang Mengalami Regresi (Turun Tangga)
 * **Pihak A (Sudut Pandang Penghukuman Turun Kasta)**:  
@@ -336,7 +336,7 @@ Dalam sains psikometri modern:
 
 ---
 
-### 7. Inkuiri 6: Translasi Tangga TUMBUH ke Dashboard Digital & Tata Kelola Pengasuhan Asrama 24 Jam
+### 7. Inkuiri 6: Translasi Jenjang Kemandirian TUMBUH (J1–J4) ke Dashboard Digital & Tata Kelola Pengasuhan Asrama 24 Jam
 
 ```mermaid
 graph TD
@@ -353,7 +353,7 @@ graph TD
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 6*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem informasi digital yang dirancang untuk merekam data faktual kemajuan perilaku secara transparan dan non-stigmatisasi niscaya memperkuat akurasi pengambilan keputusan pedagogis bagi para asatidz.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Aplikasi *Logbook Digital Musyrif TUMBUH* memetakan status tangga T1–T4 setiap santri secara *real-time* berbasis pengamatan adab harian.
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Aplikasi *Logbook Digital Musyrif TUMBUH* memetakan status tangga J1–J4 setiap santri secara *real-time* berbasis pengamatan adab harian.
 * **Konklusi (*an-Natijah*)**: Maka, integrasi arsitektur digital pesantren adalah pilar penunjang operasional yang menjamin keadilan pendampingan bagi seluruh santri tanpa terkecuali.[^33]
 
 ---
@@ -362,7 +362,7 @@ graph TD
 
 ---
 
-### 1. Formulasi Konseptual: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri
+### 1. Formulasi Konseptual: Tangga Pertumbuhan TUMBUH J1–J4 & Hak Bertumbuh Santri
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
@@ -381,7 +381,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ---
 
-### 2. Matriks Komprehensif 4 Etape Tangga TUMBUH: Tingkat Kemandirian & Kebutuhan Scaffolding Musyrif
+### 2. Matriks Komprehensif 4 Etape Jenjang Kemandirian TUMBUH (J1–J4): Tingkat Kemandirian & Kebutuhan Scaffolding Musyrif
 
 | Parameter Etape | Etape T1: Ta'aruf (Adaptasi) | Etape T2: Ta'allum (Pembiasaan) | Etape T3: Tafahhum (Internalisasi) | Etape T4: Tawaqquf (Transformasi) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -448,7 +448,7 @@ flowchart TD
 | :--- | :--- | :--- | :--- | :--- |
 | **Prinsip Dasar** | *Sunnatut Tadarruj (Gradualisme)* | HR. Bukhari No. 4993 ('Aisyah RA), QS. Al-Furqan: 32 | Teori Konstruktivisme Sosial & *Cognitive Load Theory* | Menghapus tuntutan kesempurnaan instan; menyusun kurikulum bertahap. |
 | **Mekanisme Bimbingan** | *Scaffolding & Fading Out* | Konsep *Murabbi & Mursyid* dalam Tasawuf Amali | Lev Vygotsky (1978), *Zone of Proximal Development (ZPD)* | Bantuan musyrif berkurang secara sistematis dari 80% (T1) ke 0% (T4). |
-| **Arsitektur Etape** | *Tangga T1 s/d T4* | Al-Ghazali (*Mizanul 'Amal* Tahapan Pembiasaan Jiwa) | *Stages of Self-Regulated Learning* (Zimmerman, 2002) | Standarisasi 4 level kemandirian adab santri yang terukur. |
+| **Arsitektur Etape** | *Jenjang J1 s/d J4* | Al-Ghazali (*Mizanul 'Amal* Tahapan Pembiasaan Jiwa) | *Stages of Self-Regulated Learning* (Zimmerman, 2002) | Standarisasi 4 level kemandirian adab santri yang terukur. |
 | **Kaderisasi Kepemimpinan** | *Tahap 7 Penggerak* | QS. Al-Furqan: 74 (*Imam lil-Muttaqin*), HR. Al-Baihaqi | Greenleaf (1977), *Servant Leadership in Education* | Santri T4 memimpin asrama dengan melayani dan meneladankan adab. |
 | **Paradigma Asesmen** | *Asesmen Pertumbuhan Ipsatif* | QS. Al-Baqarah: 148 (*Fastabiqul Khairat* Makna Personal) | Hughes (2014), *Ipsative Assessment: Motivating Learning* | Menghapus perankingan tunggal toksik; menilai kemajuan diri sendiri. |
 | **Infrastruktur Pendukung** | *Dashboard Digital PBIS* | Kaidah *Mala Yatimmul Wajib Illa Bihi Fahuwa Wajib* | *Learning Analytics & Educational Gamification* | Logbook digital merekam data kemajuan perilaku secara real-time. |
@@ -488,7 +488,7 @@ flowchart TD
 [^12]: Bandura, A. (1997), *Self-Efficacy: The Exercise of Control*, W. H. Freeman.  
 [^13]: Topping, K. J. (2005), *Trends in peer learning*, Educational Psychology.  
 [^14]: Laporan Program Unggulan Asrama: *Workshop Kamar Beradab*, Sub-Komite Kebersihan TUMBUH, 2026.  
-[^15]: Matriks Kurikulum Tangga TUMBUH T1–T4, Tim Desain Kurikulum Adab, 2026.  
+[^15]: Matriks Kurikulum Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, Tim Desain Kurikulum Adab, 2026.  
 [^16]: Bloom, B. S. (1968), *Learning for mastery*, Evaluation Comment.  
 [^17]: Sugai, G., & Horner, R. H. (2002), *The evolution of discipline practices: School-wide positive behavior supports*, Child & Family Behavior Therapy.  
 [^18]: Al-Ghazali, *Mizanul 'Amal*, hlm. 82–85 mengenai maqam *Tawaqquf* dan kemandirian rohani.  
@@ -507,17 +507,17 @@ flowchart TD
 [^31]: Kohn, A. (1993), *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes*, Houghton Mifflin.  
 [^32]: Laporan Studi Dampak Asesmen Ipsatif Terhadap Kesejahteraan Emosional Santri, Tim Psikometri TUMBUH, 2026.  
 [^33]: Blueprint Arsitektur Digital Sistem Pembinaan Santri 2026, Divisi IT & PBIS TUMBUH.  
-[^34]: Rubrik Kemandirian Tangga TUMBUH, Divisi Penjaminan Mutu Pengasuhan, 2026.  
+[^34]: Rubrik Kemandirian Jenjang Kemandirian TUMBUH (J1–J4), Divisi Penjaminan Mutu Pengasuhan, 2026.  
 [^35]: Ryan, R. M., & Deci, E. L. (2000), *Self-determination theory*, Contemporary Educational Psychology.  
 [^36]: Lembar Observasi Harian Musyrif, Pesantren TUMBUH, 2026.  
 [^37]: Standar Kompetensi Santri Penggerak Tahap 7, Badan Eksekutif Pengasuhan TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Tangga TUMBUH & Human Development
+### 4. Glosarium dan Penjelasan Istilah Teknis Jenjang Kemandirian TUMBUH (J1–J4) & Human Development
 
 1. **Tadarruj (التَّدَرُّجُ)**: Prinsip metodologis penerapan syariat dan pendidikan adab secara bertahap, berangsur-angsur, dan proporsional selaras dengan hukum alam perkembangan manusia (*Sunnatullah*).
-2. **Tangga TUMBUH (T1–T4)**: Kerangka kerja empat etape perkembangan kemandirian adab santri: T1 (*Ta'aruf* / Adaptasi), T2 (*Ta'allum* / Pembiasaan), T3 (*Tafahhum* / Internalisasi), dan T4 (*Tawaqquf / Transformasi*).
+2. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Kerangka kerja empat etape perkembangan kemandirian adab santri: T1 (*Ta'aruf* / Adaptasi), T2 (*Ta'allum* / Pembiasaan), T3 (*Tafahhum* / Internalisasi), dan T4 (*Tawaqquf / Transformasi*).
 3. **Tahap 7 Penggerak**: Derajat tertinggi pencapaian tangga pembinaan santri TUMBUH, di mana santri bertransformasi menjadi teladan hidup (*Qudwah*) dan kader pemimpin yang melayani (*Servant Leader*).
 4. **Zone of Proximal Development (ZPD)**: Rentang antara apa yang mampu dilakukan pembelajar secara mandiri dengan apa yang dapat dicapainya melalui bimbingan dan kolaborasi bersama orang dewasa atau rekan sebaya yang lebih ahli.
 5. **Scaffolding**: Struktur bantuan terencana yang diberikan pendidik kepada santri pada fase awal pembelajaran keterampilan baru, yang secara bertahap dikurangi dan dilepas (*Fading*) seiring meningkatnya kemandirian santri.

@@ -107,7 +107,7 @@ graph TD
 | :---: | :--- | :--- | :--- |
 | **01** | **Worldview** | *Apakah hakikat realitas, Tuhan, alam semesta, dan kebenaran?* | **Tauhid & Realitas Integral Multi-Layer**: Menolak sekularisme dan dualisme; epistemologi wahyu, akal sehat, dan indera. |
 | **02** | **Human Nature** | *Siapakah hakikat manusia dan bagaimana struktur dirinya?* | **Ontologi Fitrah & Insan Kamil**: Struktur Jasad-Aqal-Qalb-Ruh; penyucian jiwa dari Nafs Ammarah menuju Muthmainnah. |
-| **03** | **Human Development** | *Bagaimanakah lintasan pertumbuhan jiwa santri sepanjang hayat?* | **Trajektori Tangga TUMBUH T1–T4**: Marahil al-'Umr, integrasi 5 kompetensi CASEL SEL, & pembentukan regulasi diri otonom. |
+| **03** | **Human Development** | *Bagaimanakah lintasan pertumbuhan jiwa santri sepanjang hayat?* | **Trajektori Jenjang Kemandirian TUMBUH (J1–J4) J1–J4**: Marahil al-'Umr, integrasi 5 kompetensi CASEL SEL, & pembentukan regulasi diri otonom. |
 | **04** | **Education** | *Bagaimanakah adab diajarkan dan ditanamkan dalam kurikulum?* | **Falsafah Ta'dib Al-Attas**: Relasi murabbi kasih sayang KH. Hasyim Asy'ari, SW-PBIS Multi-Tier Restoratif, & Didaktik Ramah Otak. |
 | **05** | **Leadership** | *Bagaimanakah pemimpin mengayomi dan mengelola lembaga?* | **Servant Leadership Qudwah First**: *Sayyidul Qawmi Khadimuhum*, meritokrasi syar'i anti-oligarki, & mediasi sengketa syura. |
 | **06** | **Change** | *Bagaimanakah budaya pesantren ditransformasikan secara sistemik?* | **Sunnatullah Taghyir & Bi'ah Shalihah CPTED**: Pentahapan Tadarruj Istiqamah, manajemen resistensi hikmah, & evaluasi longitudinal. |

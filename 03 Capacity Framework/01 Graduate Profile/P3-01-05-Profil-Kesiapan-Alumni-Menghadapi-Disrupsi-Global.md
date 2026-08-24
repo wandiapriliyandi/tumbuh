@@ -31,7 +31,7 @@
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Formulasi Konseptual: Profil 4 Dimensi Kesiapan Global Alumni Pesantren TUMBUH](#1-formulasi-konseptual-profil-4-dimensi-kesiapan-global-alumni-pesantren-tumbuh)
   - [2. Matriks Kompetensi Abad 21 Terintegrasi 10 Karakter Muwashafat](#2-matriks-kompetensi-abad-21-terintegrasi-10-karakter-muwashafat)
-  - [3. Peta Jalan Kurikulum Penguatan Kesiapan Global di Asrama Tangga T3 & T4](#3-peta-jalan-kurikulum-penguatan-kesiapan-global-di-asrama-tangga-t3--t4)
+  - [3. Peta Jalan Kurikulum Penguatan Kesiapan Global di Asrama Jenjang J3 & T4](#3-peta-jalan-kurikulum-penguatan-kesiapan-global-di-asrama-tangga-t3--t4)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Kesiapan Global Alumni](#1-tabel-sintesis-temuan-riset-kesiapan-global-alumni)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
@@ -134,11 +134,11 @@ flowchart TD
 * **Pihak A (Sudut Pandang Inkubator Steril)**:  
   *"Santri di pondok selalu terlindung aman; mereka tidak butuh latihan resiliensi menghadapi tekanan dunia luar!"*
 * **Resolusi Psikologi Perkembangan & Transisi Kehidupan**:  
-  Dunia nyata pasca-pondok penuh dengan tantangan ideologi sekuler, persaingan karir, dan dinamika sosial yang kompleks. Santri yang dibina di Tangga T4 TUMBUH dibekali daya juang (*Grit & Resiliensi*), sehingga mereka tidak goyah atau mengalami disorientasi moral saat terjun di universitas umum maupun masyarakat global.[^6]
+  Dunia nyata pasca-pondok penuh dengan tantangan ideologi sekuler, persaingan karir, dan dinamika sosial yang kompleks. Santri yang dibina di Jenjang J4 TUMBUH dibekali daya juang (*Grit & Resiliensi*), sehingga mereka tidak goyah atau mengalami disorientasi moral saat terjun di universitas umum maupun masyarakat global.[^6]
 
 > #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
 > * **Studi Kasus**: Alumni pesantren X melanjutkan studi S1 di universitas luar negeri di Eropa. Ia mengalami kejutan budaya (*culture shock*), merasa terasing, dan sempat meragukan akidahnya karena tidak pernah dibekali nalar kritis dialektis menghadapi ateisme modern.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pesantren TUMBUH mengintegrasikan Program Pra-Alumni di Tangga T4: Membedah isu pemikiran kontemporer secara mantiq $\rightarrow$ Pelatihan diplomasi bahasa asing $\rightarrow$ Simulasi forum debat akademis internasional. Hasilnya: Alumni TUMBUH menjadi presiden persatuan mahasiswa muslim di luar negeri yang berprestasi gemilang dan teguh memegang prinsip syariat.[^7]
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pesantren TUMBUH mengintegrasikan Program Pra-Alumni di Jenjang J4: Membedah isu pemikiran kontemporer secara mantiq $\rightarrow$ Pelatihan diplomasi bahasa asing $\rightarrow$ Simulasi forum debat akademis internasional. Hasilnya: Alumni TUMBUH menjadi presiden persatuan mahasiswa muslim di luar negeri yang berprestasi gemilang dan teguh memegang prinsip syariat.[^7]
 
 ---
 
@@ -176,7 +176,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ---
 
-### 3. Peta Jalan Kurikulum Penguatan Kesiapan Global di Asrama Tangga T3 & T4
+### 3. Peta Jalan Kurikulum Penguatan Kesiapan Global di Asrama Jenjang J3 & T4
 
 ```mermaid
 flowchart TD
@@ -231,7 +231,7 @@ flowchart TD
 [^6]: Duckworth, A. (2016), *Grit: The Power of Passion and Perseverance*, Scribner.  
 [^7]: Laporan Tracer Study dan Kesiapan Alumni Pesantren TUMBUH di Perguruan Tinggi, 2026.  
 [^8]: Trilling, B., & Fadel, C. (2009), *21st Century Skills*, Wiley, hlm. 45–90.  
-[^9]: Panduan Praktik Khidmah Sosial Santri Tangga T4, Biro Alumni dan Dakwah TUMBUH, 2026.
+[^9]: Panduan Praktik Khidmah Sosial Santri Jenjang J4, Biro Alumni dan Dakwah TUMBUH, 2026.
 
 ---
 

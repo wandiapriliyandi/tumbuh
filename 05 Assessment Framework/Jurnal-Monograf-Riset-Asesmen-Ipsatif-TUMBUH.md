@@ -69,7 +69,7 @@ graph TD
 ---
 
 ## 5. IMPLIKASI KEBIJAKAN PENILAIAN PERIODE LULUS
-- **Transkrip Karakter PBIS**: Lulusan pesantren menerima Ijazah Formal dan Transkrip Karakter PBIS yang merekam rekam jejak pertumbuhan adab dari Tangga T1 hingga T4.
+- **Transkrip Karakter PBIS**: Lulusan pesantren menerima Ijazah Formal dan Transkrip Karakter PBIS yang merekam rekam jejak pertumbuhan adab dari Jenjang J1 hingga T4.
 
 ---
 

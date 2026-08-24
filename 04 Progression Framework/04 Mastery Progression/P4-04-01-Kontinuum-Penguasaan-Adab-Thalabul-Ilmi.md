@@ -24,7 +24,7 @@ graph TD
 
 ## 2. Rincian Indikator Adab Kelas, Ustadz & Kitab
 
-| Dimensi Adab | Indikator Level T1–T2 (Pondasi) | Indikator Level T3–T4 (Penguasaan & Qudwah) |
+| Dimensi Adab | Indikator Jenjang J1–T2 (Pondasi) | Indikator Jenjang J3–T4 (Penguasaan & Qudwah) |
 | :--- | :--- | :--- |
 | **Adab Terhadap Guru (Ustadz)** | Mengucapkan salam, menyapa dengan bahasa santun, & mendengarkan instruksi. | Bersikap tawadhu', mendoakan guru, & menjaga kehormatan guru di dalam/luar majlis. |
 | **Adab Terhadap Majlis Ilmu** | Duduk rapi, tidak memotong pembicaraan, & menjaga ketertiban kelas. | Menjaga khusyuknya majlis, mengajukan pertanyaan berbobot, & membantu kerapihan kelas. |

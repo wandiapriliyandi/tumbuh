@@ -1,4 +1,4 @@
-# SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN T1–T4
+# SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4
 ## *Standarisasi Asesmen Kenaikan Tangga Kapasitas Berbasis Bukti Faktual Tanpa Subjektivitas dan Bebas Favoritisme*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-06/MONOGRAF-MASTER-VIBRANT`  
@@ -13,7 +13,7 @@ Di banyak lembaga pendidikan tradisional, penilaian akhlak santri kerap kali din
 1. **Subjektivitas Guru (*Halo Effect / Favoritisme*)**: Santri yang pandai mengambil hati guru atau anak dari tokoh terpandang otomatis diberi nilai akhlak "A", sementara santri pendiam atau yang pernah berbuat khilaf dicap "nakal" seumur hidup.
 2. **Ketiadaan Indikator Perilaku yang Terukur (*Lack of Behavioral Clarity*)**: Nilai adab di rapor hanya berupa huruf abstrak tanpa deskripsi jelas apa yang harus diperbaiki dan bagaimana cara mencapainya.
 
-Ekosistem TUMBUH memecahkan kebuntuan ini melalui **Matriks Rubrik Indikator Kenaikan Tangga T1–T4**: sebuah panduan observasi berbasis bukti faktual (*evidence-based behavioral descriptors*) yang memetakan perkembangan nyata santri dalam ritme kehidupan 24 jam.
+Ekosistem TUMBUH memecahkan kebuntuan ini melalui **Matriks Rubrik Indikator Kenaikan Jenjang J1–J4**: sebuah panduan observasi berbasis bukti faktual (*evidence-based behavioral descriptors*) yang memetakan perkembangan nyata santri dalam ritme kehidupan 24 jam.
 
 ```mermaid
 graph TD
@@ -27,17 +27,17 @@ graph TD
         Bukti --> Ipsatif --> Transparan
     end
 ```
-<div align="center"><sub><b>Gambar 4.5.1:</b> Tiga Prinsip Utama Sistem Asesmen Perkembangan Tangga TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 4.5.1:</b> Tiga Prinsip Utama Sistem Asesmen Perkembangan Jenjang Kemandirian TUMBUH (J1–J4).</sub></div>
 
 Pakar desain asesmen pendidikan **Grant Wiggins & Jay McTighe**[^1] dalam *Understanding by Design* menegaskan bahwa rubrik yang efektif harus mendeskripsikan kualitas performa secara objektif, menghindari kata-kata sifat yang ambigu, dan menjadi alat panduan belajar bagi peserta didik (*assessment as learning*).
 
 ---
 
-### Matriks Komprehensif: Deskriptor Perilaku Tangga T1 hingga T4
+### Matriks Komprehensif: Deskriptor Perilaku Jenjang J1 hingga T4
 
 Tabel berikut menyajikan matriks rubrik operasional lintas 5 dimensi kapasitas pada setiap tingkatan tangga perkembangan:
 
-| Dimensi Kapasitas | Tangga T1 (Adaptasi) | Tangga T2 (Habituasi) | Tangga T3 (Internalisasi) | Tangga T4 (Transformasi) |
+| Dimensi Kapasitas | Jenjang J1 (Adaptasi) | Jenjang J2 (Habituasi) | Jenjang J3 (Internalisasi) | Jenjang J4 (Transformasi) |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Ruhaniyyah (Spiritual)** | Mengenal jadwal shalat; butuh diingatkan musyrif untuk ke masjid. | Shalat berjamaah tepat waktu secara rutin; membaca wirid ba'da shalat. | Hadir shaf pertama atas inisiatif sendiri; istiqamah dhuha & qiyamul lail. | Membangunkan kawan dengan santun; menjadi imam/muadzin teladan asrama. |
 | **2. Wijdaniyyah (Sosio-Emosional)** | Mengatasi rasa homesick; mengenal nama teman sekamar. | Mampu menahan amarah saat berselisih; meminta maaf jika salah. | Berani menolak ajakan buruk sebaya; proaktif mendamaikan perselisihan. | Menjadi mentor sebaya (*peer mentor*); memimpin lingkaran restoratif kamar. |
@@ -86,12 +86,12 @@ Prinsip keadilan dan transparansi penilaian ini merupakan perwujudan dari ajaran
 
 ### Solusi Sistemik TUMBUH: Perayaan Capaian Karakter (*Growth Milestone Celebration*)
 
-Setiap kali seorang santri dinyatakan resmi naik tangga (misalnya dilantik dari Tangga T2 ke Tangga T3):
+Setiap kali seorang santri dinyatakan resmi naik tangga (misalnya dilantik dari Jenjang J2 ke Jenjang J3):
 * Lembaga mengadakan **Upacara Perayaan Pertumbuhan (*Growth Milestone Assembly*)**.
 * Santri disematkan pin lencana tangga barunya dan mendapatkan doa tulus dari para kiai dan musyrif.
 * Perayaan ini memberikan penguatan dopamin alami dan kebanggaan spiritual yang membakar semangat seluruh santri untuk terus bertumbuh meraih kemuliaan adab.
 
-Dengan berakhirnya Bab 04 ini, arsitektur tangga perkembangan karakter T1–T4 telah berdiri kokoh, siap mengantarkan santri menuju puncak kepemimpinan peradaban pada **Bab 05: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap**.
+Dengan berakhirnya Bab 04 ini, arsitektur tangga perkembangan karakter J1–J4 telah berdiri kokoh, siap mengantarkan santri menuju puncak kepemimpinan peradaban pada **Bab 05: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap**.
 
 ---
 

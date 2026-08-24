@@ -233,12 +233,12 @@ graph LR
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 4*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap proses transformasi pembinaan adab santri yang mengikuti sunnatullah pentahapan kontinum internalisasi (dari motivasi eksternal berangsur-angsur bertransformasi menjadi regulasi terintegrasi dan motivasi intrinsik murni) niscaya menghasilkan kematangan karakter yang organik dan bebas dari goncangan regresi perilaku.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Model Tangga Pertumbuhan TUMBUH T1–T4 memetakan kontinum internalisasi motivasi tersebut secara berjenjang.
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Model Tangga Pertumbuhan TUMBUH J1–J4 memetakan kontinum internalisasi motivasi tersebut secara berjenjang.
 * **Konklusi (*an-Natijah*)**: Maka, pembinaan motivasi santri dilakukan secara bertahap (*Tadarruj*) sesuai tahap kontinum perkembangannya.[^20]
 
-#### 🥊 Ronde 1: Memetakan Santri Tangga T1 (Adaptasi) pada Tahap Eksternal & Introyeksi
+#### 🥊 Ronde 1: Memetakan Santri Jenjang J1 (Adaptasi) pada Tahap Eksternal & Introyeksi
 * **Tinjauan Pentahapan Psikologis**:  
-  Pada bulan-bulan awal di pesantren (Tangga T1), wajar jika santri baru bangun Subuh masih didorong oleh bel asrama dan ajakan musyrif (*Regulasi Eksternal*). Musyrif tidak perlu kecewa, melainkan mendampingi santri secara bertahap naik ke tahap Identifikasi (Tangga T2: santri mulai merasakan badan segar bangun Subuh) hingga mencapai tahap Integrasi Muraqabah (Tangga T4: santri bangun sendiri dengan penuh kebahagiaan batin).[^21]
+  Pada bulan-bulan awal di pesantren (Jenjang J1), wajar jika santri baru bangun Subuh masih didorong oleh bel asrama dan ajakan musyrif (*Regulasi Eksternal*). Musyrif tidak perlu kecewa, melainkan mendampingi santri secara bertahap naik ke tahap Identifikasi (Jenjang J2: santri mulai merasakan badan segar bangun Subuh) hingga mencapai tahap Integrasi Muraqabah (Jenjang J4: santri bangun sendiri dengan penuh kebahagiaan batin).[^21]
 
 #### 🥊 Ronde 2: Sanggahan Balik Bahaya Berhenti Pada Tahap Introyeksi (Rasa Bersalah Toksik)
 * **Pihak A (Sudut Pandang Memanfaatkan Rasa Bersalah)**:  
@@ -246,11 +246,11 @@ graph LR
 * **Tinjauan Sudut Pandang Kesehatan Mental Spiritual**:  
   Regulasi Introyeksi berbasis rasa bersalah toksik (*Toxic Guilt & Shame*) hanya melahirkan **Kecemasan Religius (*Scrupulosity / Religious OCD*)**. Santri akan shalat dengan penuh ketakutan dan mengulang-ulang wudhu puluhan kali karena waswas. TUMBUH menuntun santri melompati introyeksi menuju **Regulasi Integratif Berbasis Mahabbah dan Harapan Rahmat (*Raja'*)**, sehingga ibadah menjadi sumber kedamaian jiwa (*Qurratu A'yun*).[^22]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Kematangan Spiritual Tangga T4 (Integrasi Penuh)
+#### 🥊 Ronde 3: Sanggahan Pamungkas Kematangan Spiritual Jenjang J4 (Integrasi Penuh)
 * **Pihak A (Sudut Pandang Kemandirian Mutlak)**:  
   *"Bagaimana ciri santri yang telah mencapai tahap Motivasi Intrinsik Integrasi Penuh?"*
 * **Resolusi Sudut Pandang Pribadi Mukhlis & Mandiri**:  
-  Santri Tangga T4 memiliki **Ciri Kepribadian Beradab Otonom**: Ia tidak perlu diingatkan untuk shalat, tidak perlu disuruh untuk piket kebersihan, aktif menolong temannya tanpa diminta, dan mampu menjadi teladan qudwah bagi adik-adik kelasnya. Aturan syariat telah menyatu menjadi bagian tak terpisahkan dari identitas jiwanya (*Kharaktir / Khuluq Hasan*).[^23]
+  Santri Jenjang J4 memiliki **Ciri Kepribadian Beradab Otonom**: Ia tidak perlu diingatkan untuk shalat, tidak perlu disuruh untuk piket kebersihan, aktif menolong temannya tanpa diminta, dan mampu menjadi teladan qudwah bagi adik-adik kelasnya. Aturan syariat telah menyatu menjadi bagian tak terpisahkan dari identitas jiwanya (*Kharaktir / Khuluq Hasan*).[^23]
 
 > #### 📌 Kasuistika Lapangan 4 & Titik Temu Konsensus
 > * **Studi Kasus**: Evaluasi berkala menunjukkan bahwa 88% santri senior di ma'had percontohan telah mencapai tahap Regulasi Integrasi dan mampu memimpin halaqah adik kelas secara mandiri tanpa kehadiran musyrif.

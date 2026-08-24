@@ -9,7 +9,7 @@
 
 ## 1. Konseptualisasi Program Kepemimpinan Santri Qudwah T4
 
-Program Kepemimpinan (*Leadership Programs*) melatih santri senior yang mencapai Tangga T4 menjadi pemimpin bertipe **Servant Leader** yang melayani dan mengayomi adik kelas:
+Program Kepemimpinan (*Leadership Programs*) melatih santri senior yang mencapai Jenjang J4 menjadi pemimpin bertipe **Servant Leader** yang melayani dan mengayomi adik kelas:
 
 ```mermaid
 graph TD

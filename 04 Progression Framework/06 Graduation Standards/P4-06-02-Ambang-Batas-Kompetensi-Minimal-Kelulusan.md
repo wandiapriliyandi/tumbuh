@@ -16,7 +16,7 @@ graph TD
     Threshold["Ambang Batas Minimum Kelulusan (4 Domain)"]
     Threshold --> SpiritualThresh["1. Domain Ibadah & Aqidah<br/>Skor Portofolio Ibadah Mandiri >= 80%."]
     Threshold --> QuranThresh["2. Domain Hafalan Al-Qur'an<br/>Lulus Ujian Tasmi' Mutqin Sekali Duduk sesuai target program."]
-    Threshold --> CharacterThresh["3. Domain Adab & Karakter PBIS<br/>Mencapai Tangga T4 (Qudwah) pada seluruh 10 Karakter Muwashafat."]
+    Threshold --> CharacterThresh["3. Domain Adab & Karakter PBIS<br/>Mencapai Jenjang J4 (Qudwah) pada seluruh 10 Karakter Muwashafat."]
     Threshold --> KhidmahThresh["4. Domain Khidmah & Kemandirian<br/>Menyelesaikan 1 Proyek Khidmah Keumatan & Portofolio Kasb."]
 ```
 
@@ -28,7 +28,7 @@ graph TD
 | :--- | :--- | :--- |
 | **Aqidah & Fiqih Ibadah** | Menguasai fiqih ibadah harian (*Safinatun Naja / Taqrib*) & aqidah salimah bebas syirik. | Ujian Komprehensif Praktik Ibadah & Lisan. |
 | **Hafalan Al-Qur'an & Tajwid** | Lulus tasmi' mutqin sesuai target jenjang (5/10/30 Juz) dengan kesalahan $< 2$ per juz. | Majlis Tasmi' Al-Qur'an Sekali Duduk di Hadapan Penguji. |
-| **Karakter & Tangga TUMBUH** | Terverifikasi berada pada Tangga T4 (Kemandirian & Keteladanan Qudwah). | Sidang Triangulasi Logbook PBIS Musyrif, BK, & Peer. |
+| **Karakter & Jenjang Kemandirian TUMBUH (J1–J4)** | Terverifikasi berada pada Jenjang J4 (Kemandirian & Keteladanan Qudwah). | Sidang Triangulasi Logbook PBIS Musyrif, BK, & Peer. |
 | **Khidmah Keumatan** | Mengeksekusi & mempresentasikan proyek khidmah masyarakat (min. 40 jam pelayanan). | Laporan & Presentasi Proyek Pengabdian Masyarakat. |
 | **Kemandirian Finansial (*Kasb*)** | Menyusun perencanaan keuangan pribadi & portofolio proyek wirausaha sederhana. | Penilaian Portofolio *Qadirun 'Alal Kasb*. |
 

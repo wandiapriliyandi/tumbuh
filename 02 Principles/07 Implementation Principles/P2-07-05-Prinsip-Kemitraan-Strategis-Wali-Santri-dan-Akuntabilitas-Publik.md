@@ -119,7 +119,7 @@ flowchart TD
         
         PemberdayaanEkonomi["3. PEMBERDAYAAN EKONOMI LOKAL (PASAR BERKAH)<br/>Kebutuhan sayur mayur dapur pondok dibeli dari petani warga setempat."]
         
-        SantriKhidmah["4. PROGRAM SANTRI BERKHIDMAH (KERJA BAKTI DESA)<br/>Santri Tangga T4 memimpin pembersihan saluran air & penghijauan desa."]
+        SantriKhidmah["4. PROGRAM SANTRI BERKHIDMAH (KERJA BAKTI DESA)<br/>Santri Jenjang J4 memimpin pembersihan saluran air & penghijauan desa."]
         
         SentraAir --> PengajianWarga --> PemberdayaanEkonomi --> SantriKhidmah
     end
@@ -249,7 +249,7 @@ flowchart TD
 [^7]: Laporan Resolusi Konflik Sosial dan Kemitraan Warga Sekitar Pondok, Humas TUMBUH, 2026.  
 [^8]: Modul Sekolah Parenting Nabawi Pesantren TUMBUH, Biro Konseling Keluarga, 2026.  
 [^9]: Cooper et al. (1996), *Review of Educational Research*, hlm. 227–268.  
-[^10]: Panduan Pelaksanaan Khidmah Sosial Santri Tangga T4, Komite Pengabdian Masyarakat TUMBUH, 2026.
+[^10]: Panduan Pelaksanaan Khidmah Sosial Santri Jenjang J4, Komite Pengabdian Masyarakat TUMBUH, 2026.
 
 ---
 
