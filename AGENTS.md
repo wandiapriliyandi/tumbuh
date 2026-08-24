@@ -39,3 +39,17 @@ Gunakan skill spesialis yang sesuai saat merancang, menguji, dan mengaudit modul
 - `pakar-tata-kelola-qudwah`, `pakar-metodologi-riset-tumbuh`, `pakar-arsitektur-digital-pesantren`
 - `pakar-kritikus-dan-auditor-kualitas`, `pakar-psikometri-dan-validasi-instrumen`, `pakar-perlindungan-anak-dan-advokasi-santri`
 - `pakar-simulasi-sistem-tumbuh` (Skill Ke-22: Pemodelan Cohort Santri & Simulasi Longitudinal 24-Jam)
+
+---
+
+## 4. Standar Mutu Struktur Naskah Monograf (Model Hibrida Dialektis)
+Setiap berkas riset monograf di seluruh folder proyek (P1 s/d P11) wajib mematuhi **[Workflow-Isi-Penelitian-dan-Struktur-Monograf-Baku.md](file:///c:/xampp/htdocs/tumbuh/METHODOLOGY/Workflow-Isi-Penelitian-dan-Struktur-Monograf-Baku.md)**:
+1. **Panjang & Kedalaman**: Berkisar **15.000–38.000+ karakter** (350–450 baris padat).
+2. **Dialektika Sejak Inkuiri 1**:
+   - **Inkuiri 1 (Turats & Teologi)**: Diagram Alur, Silogisme *Qiyas Mantiqi 1*, Teks Arab Turats berharakat, dan **🥊 3 Ronde Tanya-Jawab Kritis**.
+   - **Inkuiri 2 (Sains & Psikologi)**: Diagram Konvergensi, Silogisme *Qiyas Mantiqi 2*, Konsensus Sains (CASEL SEL/Neurosains), dan **🥊 3 Ronde Tanya-Jawab Kritis**.
+   - **Inkuiri 3 (Sistem Asrama 24 Jam)**: Diagram Kausalitas, Silogisme *Qiyas Mantiqi 3*, Dinamika Asrama 4 Lokus, dan **🥊 3 Ronde Tanya-Jawab Kritis**.
+   - **Inkuiri 4 (Arena Kasuistika Asrama)**: Pertarungan Dialektika Pamungkas, Diagram Alur Protokol Restoratif (<12 Jam), dan **📌 3 Kasuistika Lapangan Nyata Asrama** (*Dilema, Akar Masalah, & Titik Temu Konsensus*).
+3. **Formulasi & Protokol (Bagian II)**: Arsitektur Dimensi, Matriks Taksonomi Tangga J1–J4, dan Protokol Operasional PBIS 3-Tier.
+4. **Aparatus Lengkap (Bagian III)**: Tabel Sintesis 5 Kolom, **Minimal 10 Rujukan Primer**, **Minimal 12 Catatan Kaki (*Footnotes*)**, dan **10 Entri Glosarium**.
+
