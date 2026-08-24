@@ -1,428 +1,274 @@
-# P1-03-04: INTEGRASI CASEL SOCIAL-EMOTIONAL LEARNING DAN TAKSONOMI ADAB NABAWI
-## *Monograf Terpadu: Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Khazanah Adab al-Mu'asyarah Turats (Imam An-Nawawi, Al-Ghazali, & Al-Muhasibi), Konvergensi Neurosains Empati (Aktivasi ACC, Insula, & Mirror Neurons), Mitigasi Bullying, serta Desain Rutinitas Sosio-Emosional Asrama Pesantren 24 Jam*
+# P1-03-04: INTEGRASI CASEL SOCIAL-EMOTIONAL LEARNING DAN TAKSONOMI ADAB NABAWI (SOCIAL-EMOTIONAL LEARNING & PROPHETIC ADAB)
+## *Monograf Riset Akademik: Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Khazanah Adab al-Mu'asyarah Turats, Konvergensi Neurosains Empati (Aktivasi ACC & Mirror Neurons), Mitigasi Perundungan, Serta Desain Rutinitas Sosio-Emosional di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-03-04/MONOGRAF-TERPADU-INTEGRASI-SEL-ADAB/2026`  
-**Domain**: `01 Philosophy` > `03 Human Development`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P1-03-04/MONOGRAF-RISET-INTEGRASI-SEL-ADAB/2026`  
+**Domain**: `01 Philosophy` > `03 Human Development` (Sub-Modul 04: *SEL & Character Integration*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: *Social-Emotional Learning (CASEL Framework)*, Fiqh Adab Pergaulan (*Adab al-Mu'asyarah*), Neurosains Afektif & Empati (*Social Neuroscience*), Psikologi Komunal Asrama (*Group Dynamics*), Bimbingan Konseling Restoratif  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Adab Bukan Sekadar Basa-Basi Lahiriah, Melainkan Kecerdasan Sosio-Emosional Luhur:**  
->   Adab kepada guru dan teman bukan sekadar menundukkan kepala saat lewat. Adab sejati adalah kemampuan mengenali emosi diri (*Ma'rifatun Nafs*), menahan amarah (*Dhabthun Nafs*), memahami perasaan teman (*Empati / Fahmul Akh*), menyelesaikan konflik dengan damai (*Ishlah*), dan mengambil keputusan yang bertanggung jawab (*Hikmah*).
-> * **Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Nilai Islam:**  
->   1. **Self-Awareness (Kesadaran Diri) = *Muhasabatun Nafs*:** Santri sadar akan kelebihan, kekurangan, dan lintasan emosi dirinya di hadapan Allah.  
->   2. **Self-Management (Regulasi Diri) = *Mujahadatun Nafs & Sabar*:** Santri mampu mengendalikan amarah impulsif, mengelola stres, dan disiplin waktu.  
->   3. **Social Awareness (Kesadaran Sosial) = *Empati / Tafaqqud & Tarahum*:** Santri peka melihat teman yang sedih atau sakit tanpa perlu disuruh.  
->   4. **Relationship Skills (Keterampilan Relasi) = *Adab al-Mu'asyarah & Ukhuwah*:** Santri berkomunikasi santun, mendengarkan aktif, dan menjauhi ghibah.  
->   5. **Responsible Decision-Making (Keputusan Bertanggung Jawab) = *Hikmah & Wara'*:** Santri menimbang maslahat dan madharat sebelum bertindak.
-> * **Neurosains Sirkuit Empati Otak:**  
->   Ketika santri dilatih berempati dan saling menolong di kamar, bagian otak *Anterior Cingulate Cortex (ACC)* dan *Mirror Neurons* teraktivasi kuat, memicu pelepasan hormon **Oksitosin** (perekat kasih sayang). Pesantren yang kaya empati akan bebas 100% dari kasus perundungan (*Zero Bullying*).
-> * **Tiga Rutinitas Harian SEL di Asrama:**  
->   1. *Halaqah Pagi*: Saling sapa dan cek kabar emosi 5 menit.  
->   2. *Makan Bersama*: Menghidupkan adab makan satu nampan (*Makan Berjamaah*) yang menumbuhkan rasa berbagi.  
->   3. *Lingkaran Muhasabah Malam*: Dialog saling memaafkan sebelum tidur.
+> * **Kelemahan Paradigma Lama: Adab sebagai Teori Hafalan Kering Tanpa Kecerdasan Emosi:**  
+>   Banyak santri menguasai hafalan matan kitab adab secara verbal, namun di kehidupan asrama tetap rentan melakukan perundungan (*bullying*), mengucilkan teman yang lemah (*social exclusion*), atau meledakkan amarah tak terkontrol (*impulsivity*). Adab tereduksi menjadi formalitas mekanis tanpa kecerdasan sosio-emosional.
+> * **Inovasi Konseptual: Harmonisasi CASEL SEL & Taksonomi Adab Nabawi:**  
+>   TUMBUH memadukan 5 Kompetensi Inti CASEL SEL dengan khazanah Turats: **1. Kesadaran Diri (*Self-Awareness / Muhasabatun Nafs*); 2. Regulasi Diri (*Self-Management / Sabar & Dhabthun Nafs*); 3. Kesadaran Sosial (*Social Awareness / Tafaqqud & Empati*); 4. Keterampilan Relasi (*Relationship Skills / Adab al-Mu'asyarah & Ukhuwah*); 5. Pengambilan Keputusan Bertanggung Jawab (*Responsible Decision-Making / Al-Hikmah & Wara'*)**.
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan aktivasi sirkuit empati otak (*ACC & Mirror Neurons*), 4 Tingkatan Kesadaran Sosio-Emosional (*Maratib al-Idrak*), lingkaran empati restoratif (*Restorative Empathy Circle*), dan etika tata kelola asrama anti-perundungan 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET DOKTRIN INTEGRASI SEL & ADAB NABAWI, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-doktrin-integrasi-sel--adab-nabawi-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Kecerdasan Sosio-Emosional Berbasis Tauhid](#1-kerangka-metodologi-kecerdasan-sosio-emosional-berbasis-tauhid)
-  - [2. Inkuiri 1: Eksegesis Turats Adab al-Mu'asyarah — Imam An-Nawawi, Al-Ghazali, & Al-Muhasibi (Hadits 'La Yu'minu Ahadukum...')](#2-inkuiri-1-eksegesis-turats-adab-al-muasyarah--imam-an-nawawi-al-ghazali--al-muhasibi-hadits-la-yuminu-ahadukum)
-  - [3. Inkuiri 2: Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Taksonomi Adab Islam](#3-inkuiri-2-harmonisasi-5-kompetensi-inti-casel-sel-dengan-taksonomi-adab-islam)
-  - [4. Inkuiri 3: Konvergensi Neurosains Empati — Aktivasi Anterior Cingulate Cortex (ACC), Insula, & Mirror Neurons dalam Ukhuwah Pesantren](#4-inkuiri-3-konvergensi-neurosains-empati--aktivasi-anterior-cingulate-cortex-acc-insula--mirror-neurons-dalam-ukhuwah-pesantren)
-  - [5. Inkuiri 4: Dialektika Mitigasi Perundungan (Bullying) & Eksklusi Sosial Melalui Budaya Empati Aktif](#5-inkuiri-4-dialektika-mitigasi-perundungan-bullying--eksklusi-sosial-melalui-budaya-empati-aktif)
-  - [6. Inkuiri 5: Rekayasa Rutinitas Sosio-Emosional Asrama 24 Jam (Halaqah Sapa Pagi, Makan Satu Nampan, & Muhasabah Malam)](#6-inkuiri-5-rekayasa-rutinitas-sosio-emosional-asrama-24-jam-halaqah-sapa-pagi-makan-satu-nampan--muhasabah-malam)
-  - [7. Inkuiri 6: Translasi CASEL SEL ke Sistem Bimbingan Konseling & Budaya Komunal Pesantren](#7-inkuiri-6-translasi-casel-sel-ke-sistem-bimbingan-konseling--budaya-komunal-pesantren)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH](#1-formulasi-konseptual-integrasi-sel-dan-taksonomi-adab-nabawi-pesantren-tumbuh)
-  - [2. Matriks Harmonisasi 5 Kompetensi CASEL SEL dengan Khazanah Adab Turats & Indikator Lapangan](#2-matriks-harmonisasi-5-kompetensi-casel-sel-dengan-khazanah-adab-turats--indikator-lapangan)
-  - [3. Matriks Protokol Harian Rutinitas Sosio-Emosional Asrama 24 Jam](#3-matriks-protokol-harian-rutinitas-sosio-emosional-asrama-24-jam)
-  - [4. Protokol Intervensi: Penanganan Konflik Antar-Santri Melalui Restorative Empathy Circle](#4-protokol-intervensi-penanganan-konflik-antar-santri-melalui-restorative-empathy-circle)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Integrasi SEL & Adab](#1-tabel-sintesis-hasil-riset-integrasi-sel--adab)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Kesenjangan Teori Adab dan Realitas Perilaku Sosial](#1-latar-belakang-masalah-krisis-kesenjangan-teori-adab-dan-realitas-perilaku-sosial)
+  - [2. Eksegesis Turats Adab al-Mu'asyarah: Imam An-Nawawi, Al-Ghazali, & Al-Muhasibi](#2-eksegesis-turats-adab-al-muasyarah-imam-an-nawawi-al-ghazali--al-muhasibi)
+  - [3. Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Nilai-Nilai Adab Islam](#3-harmonisasi-5-kompetensi-inti-casel-sel-dengan-nilai-nilai-adab-islam)
+  - [4. Konvergensi Neurosains Empati: Aktivasi Anterior Cingulate Cortex (ACC) & Mirror Neurons](#4-konvergensi-neurosains-empati-aktivasi-anterior-cingulate-cortex-acc--mirror-neurons)
+  - [5. Kasuistika Lapangan: Kasus Pengucilan Santri Pendiam & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-pengucilan-santri-pendiam--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Integrasi CASEL SEL dan Taksonomi Adab Nabawi TUMBUH](#1-eksplanasi-teoretis-integrasi-casel-sel-dan-taksonomi-adab-nabawi-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sosio-Emosional (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-sosio-emosional-maratib-al-idrak)
+  - [3. Rekayasa Tiga Rutinitas Sosio-Emosional Asrama 24 Jam](#3-rekayasa-tiga-rutinitas-sosio-emosional-asrama-24-jam)
+  - [4. Protokol Intervensi: Penanganan Konflik Santri Melalui Restorative Empathy Circle](#4-protokol-intervensi-penanganan-konflik-santri-melalui-restorative-empathy-circle)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Integrasi SEL dan Adab Nabawi](#1-tabel-sintesis-temuan-riset-integrasi-sel-dan-adab-nabawi)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis SEL, Neurosains Empati, & Adab Pesantren](#4-glosarium-dan-penjelasan-istilah-teknis-sel-neurosains-empati--adab-pesantren)
+  - [4. Glosarium Istilah Ilmiah & Turats Kecerdasan Sosio-Emosional](#4-glosarium-istilah-ilmiah--turats-kecerdasan-sosio-emosional)
 
 ---
 
-# BAGIAN I: RISET DOKTRIN INTEGRASI SEL & ADAB NABAWI, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Kecerdasan Sosio-Emosional Berbasis Tauhid
+### 1. Latar Belakang Masalah: Krisis Kesenjangan Teori Adab dan Realitas Perilaku Sosial
 
-Pendidikan pesantren tradisional memiliki khazanah adab yang sangat agung. Namun dalam praktiknya di lapangan, pembelajaran adab kerap tereduksi menjadi hafalan teks kitab kuning secara verbal (*Ta'lim Teoritis*) tanpa disertai pelatihan keterampilan sosio-emosional nyata di kehidupan asrama. Akibatnya timbul anomali tragis: santri lancar membaca bab adab kepada sesama muslim, namun di kamar tetap saling menggunjing (*ghibah*), mengucilkan santri yang pendiam, dan meluapkan amarah dengan kekerasan fisik saat berselisih.
-
-Di sisi lain, *Social-Emotional Learning (SEL)* yang dikembangkan di Barat (melalui *Collaborative for Academic, Social, and Emotional Learning / CASEL*) menyediakan instrumen psikologis dan pedagogis teruji, namun kerap bercorak antroposentris sekuler yang kehilangan dimensi transendental tauhid.
-
-Ekosistem TUMBUH memadukan **Khazanah Adab al-Mu'asyarah Turats** dengan **Framework CASEL SEL & Neurosains Afektif**:
+Pendidikan pesantren tradisional memiliki warisan kitab adab yang luar biasa kaya. Namun dalam praktiknya di lapangan, kerap terjadi kesenjangan tajam (*Theory-Action Gap*):
+* **Hafalan Tanpa Keterampilan Sosial**: Santri fasih membaca kitab *Ta'lim al-Muta'allim*, namun saat berinteraksi di kamar asrama tetap gemar mengejek kawan yang memiliki kekurangan fisik, menyebarkan aib teman (*Ghibah*), atau mengucilkan santri baru yang belum fasih berbahasa daerah.
+* **Kebutaan Emosional (*Alexithymia*)**: Santri tidak terlatih mengenali emosi marahnya sendiri, sehingga ketika tersinggung, respons yang keluar adalah agresi fisik atau perang dingin yang merusak iklim ukhuwah.
+* **Keniscayaan Integrasi CASEL SEL & Adab Nabawi**: Adab dalam Islam bukan sekadar tata krama lahiriah, melainkan manifestasi dari kecerdasan emosi dan kelembutan batin yang berakar pada ketakwaan kepada Allah SWT.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph IntegrasiSELTUMBUH["INTEGRASI ADAB NABAWI & CASEL SEL EKOSISTEM TUMBUH"]
-        Tauhid["FONDASI TAUHID & MURAQABAH (QS. Al-Hujurat: 10–13)<br/>Ukhuwah imaniyah & pengawasan Allah SWT"]
+    subgraph TransformasiKecerdasanEmosi["TRANSFORMASI KECERDASAN SOSIO-EMOSIONAL SANTRI"]
+        PolaFormalistikLama["FORMALISME ADAB KERING (LAMA)<br/>• Hafal teori kitab adab tapi perilaku agresif.<br/>• Perundungan & eksklusi sosial dinormalisasi.<br/>• Buta emosi: amarah disalurkan dengan kekerasan."]
         
-        CASEL["FRAMEWORK 5 KOMPETENSI CASEL SEL<br/>Self-Awareness, Self-Management, Social Awareness, Relationship, Decision-Making"]
+        PolaSELTUMBUH["INTEGRASI CASEL SEL & ADAB NABAWI (TUMBUH)<br/>• Self-Awareness (Muhasabah) & Self-Management (Sabar).<br/>• Social Awareness (Empati Tafaqqud) & Relationship Skills (Ukhuwah).<br/>• Responsible Decision-Making (Al-Hikmah & Wara')."]
         
-        Neurosains["NEUROSAINS AFEKTIF & EMPATI<br/>Aktivasi sirkuit ACC, Insula Anterior, Mirror Neurons, & Oksitosin"]
-        
-        KarakterAdab["AKTUALISASI INSAN ADABI DI ASRAMA 24 JAM<br/>Budaya salam, tolong-menolong, komunikasi asertif, & Zero Bullying"]
-        
-        Tauhid ==> KarakterAdab
-        CASEL ==> KarakterAdab
-        Neurosains ==> KarakterAdab
+        PolaFormalistikLama ==>|DIREKONSTRUKSI MENJADI| PolaSELTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Adab al-Mu'asyarah — Imam An-Nawawi, Al-Ghazali, & Al-Muhasibi (Hadits *"La Yu'minu Ahadukum..."*)
+### 2. Eksegesis Turats Adab al-Mu'asyarah: Imam An-Nawawi, Al-Ghazali, & Al-Muhasibi
 
-```mermaid
-graph TD
-    A["Gugatan Reduksi Adab (Pihak A):<br/>'Santri cukup disuruh tunduk dan taat saja; tidak perlu diajari mengelola emosi atau curhat-curhatan emosional ala barat!'"]
-    --> B1["Tinjauan Hadits Shahih Bukhari 13:<br/>Kesempurnaan iman digantungkan pada kemampuan mencintai saudaranya seperti mencintai diri sendiri (Empati Puncak)."]
-    A --> B2["Tinjauan Kitab Adab al-Mu'asyarah (An-Nawawi):<br/>Ulama merumuskan adab pergaulan mendalam: tabassum, memaafkan kesalahan rekan, & menjaga perasaan."]
-    A --> B3["Tinjauan Kitab Ar-Ri'ayah (Al-Muhasibi):<br/>Kecerdasan emosi batin (Ma'rifatun Nafs) adalah syarat mutlak membersihkan niat riya' & ghadhab."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>SEL adalah penerjemahan operasional dari khazanah Adab al-Mu'asyarah Turats Islam."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap kurikulum pembinaan karakter yang bertumpu pada sabda Rasulullah SAW mengenai syarat kesempurnaan iman niscaya mewajibkan pengembangan kapasitas empati afektif dan kecerdasan relasional antarsesama mukmin.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW menetapkan bahwa seseorang belum beriman secara sempurna hingga ia mampu mencintai saudaranya sebagaimana ia mencintai dirinya sendiri (HR. Bukhari No. 13).
-* **Konklusi (*an-Natijah*)**: Maka, pembelajaran kecerdasan sosio-emosional (*SEL*) adalah kewajiban pedagogis yang inheren dalam penanaman akidah dan adab santri di pesantren TUMBUH.[^1]
-
-#### 📖 Teks Primer Hadits Shahih & Kitab Adab Klasik
-Rasulullah SAW bersabda mengenai standar emas kecerdasan empati seorang mukmin:
+Rasulullah ﷺ menetapkan tolak ukur kesempurnaan iman melalui empati sosial:
 
 $$\text{لَا يُؤْمِنُ أَحَدُكُمْ حَتَّىٰ يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ}$$
 
-*"Tidak sempurna iman salah seorang di antara kalian hingga ia mencintai bagi saudaranya apa yang ia cintai bagi dirinya sendiri."* (HR. Bukhari No. 13 dan Muslim No. 45 dari Anas bin Malik RA).[^2]
+*"**Tidak beriman (secara sempurna) salah seorang di antara kalian hingga ia mencintai bagi saudaranya apa yang ia cintai bagi dirinya sendiri**."* (HR. Al-Bukhari No. 13 & Muslim No. 45).[^2]
 
-Dan Rasulullah SAW mengibaratkan kepekaan sosial kaum mukmin laksana satu tubuh biologis:
-$$\text{مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ، وَتَرَاحُمِهِمْ، وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى}$$
-*"Perumpamaan kaum mukminin dalam hal saling mencintai, saling menyayangi, dan saling berlemah-lembut adalah laksana satu tubuh; apabila ada salah satu anggota tubuh yang sakit, maka seluruh anggota tubuh yang lain akan ikut merasakan demam dan tidak bisa tidur."* (HR. Muslim No. 2586).[^3]
-
-Imam Abu Hamid Al-Ghazali dalam *Ihya 'Ulumiddin* (Jilid II, *Kitab Adab al-Ulfah wal-Ukhuwwah*) merumuskan 8 hak persaudaraan (*Huquq al-Ukhuwwah*) yang mencakup spektrum penuh kompetensi sosial:
-1. Menolong kebutuhan finansial saudaranya (*al-Muwasah bil-Mal*).
-2. Membantu tenaga sebelum diminta (*al-I'anah bin-Nafs*).
-3. Menjaga lisan dari menggunjing dan menutup aib saudaranya (*as-Sukut 'an al-Ghibah*).
-4. Berbicara santun, memuji kebaikan, dan memanggil dengan nama kesukaannya (*an-Nuthq bil-Ihsan*).
-5. Memaafkan kekhilafan dan tidak mencari-cari kesalahan (*al-'Afwu 'an az-Zallat*).
-6. Mendoakan saudaranya saat masih hidup dan setelah wafat (*ad-Du'a*).
-7. Menjaga kesetiaan janji dan tidak berkhianat (*al-Wafa' wal-Ikhlas*).
-8. Meringankan beban dan tidak merepotkan saudaranya (*Tarkut Takalluf*).[^4]
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa Membicarakan Emosi Itu "Melemahkan Mental Santri"
-* **Pihak A (Sudut Pandang Maskulinitas Toksik)**:  
-  *"Santri laki-laki itu harus keras dan tahan banting. Kalau diajari mengenali sedih atau kecewa, nanti santri jadi cengeng dan feminin!"*
-* **Tinjauan Sudut Pandang Keteladanan Kepemimpinan Kenabian**:  
-  Menekan dan memendam emosi (*Emotional Suppression*) terbukti memicu ledakan agresivitas liar dan gangguan mental. Rasulullah SAW adalah manusia paling gagah dan pemberani di medan perang, namun beliau menangis saat berduka, tersenyum hangat saat menyapa sahabat, dan mengekspresikan cinta kepada anak-anak secara terbuka. Mengenali dan mengelola emosi adalah **Tanda Kekuatan Jiwa yang Hakiki (*Kecerdasan Hati*)**, bukan kelemahan.[^5]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Pendekatan SEL Akan Menghilangkan Rasa Hormat (Ta'dzim) Kepada Musyrif?
-* **Pihak A (Sudut Pandang Otoritarianisme)**:  
-  *"Kalau musyrif mendengarkan perasaan santri dan mengajak dialog hangat, santri akan kurang ajar dan tidak ta'dzim lagi!"*
-* **Tinjauan Sudut Pandang Ta'dzim Berbasis Cinta vs Ta'dzim Berbasis Teror**:  
-  Rasa hormat semu yang lahir dari ketakutan (*Ta'dzim Khauf*) akan musnah seketika saat santri berada di belakang musyrif (santri mengumpat diam-diam). Rasa hormat sejati lahir dari **Cinta dan Ketakjuban Karakter (*Ta'dzim Mahabbah & Ihtiram*)** ketika santri merasa didengarkan, dimuliakan, dan dibimbing dengan tulus.[^6]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Menghafal Matan Adab Saja Tidak Menjamin Santri Berakhlak?
-* **Pihak A (Sudut Pandang Formalisme Kognitif)**:  
-  *"Santri kami wajib hafal matan Ta'lim al-Muta'allim luar kepala, jadi otomatis adabnya pasti mulia tanpa perlu pelatihan SEL!"*
-* **Resolusi Sudut Pandang Teori Kesenjangan Pengetahuan-Tindakan (*Knowing-Doing Gap*)**:  
-  Hafal teks adab adalah memori semantik di korteks kognitif, sedangkan respons saat marah atau berebut makanan adalah respon instingtif di amigdala limbik. Tanpa simulasi peran, latihan regulasi emosi (*Roleplay & Self-Regulation Practice*), hafalan adab tidak akan bertransformasi menjadi perilaku nyata saat santri terprovokasi konflik kamar.[^7]
-
-> #### 📌 Kasuistika Lapangan 1 & Titik Temu Konsensus
-> * **Studi Kasus**: Santri A yang hafal 5 juz Al-Qur'an dan juara kelas mengamuk, membalikkan meja belajar, dan memukul rekannya hanya karena pulpennya dipinjam tanpa izin.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Musyrif BK memahami bahwa Santri A memiliki prestasi kognitif tinggi namun memiliki *Emotional Literacy* yang rendah (tidak mampu mengidentifikasi rasa stres dan mengelola impuls marah). Musyrif memberikan sesi *Coaching Regulasi Diri*, melatih teknik pernafasan dan komunikasi asertif. Santri A mampu mengekspresikan ketidaksukaannya dengan tenang tanpa kekerasan.[^8]
+Imam **Al-Harits Al-Muhasibi** dalam *Risalah al-Mustarsyidin* menguraikan bahwa pengendalian diri (*Dhabthun Nafs*) dan kepekaan menimbang perasaan orang lain adalah buah dari kejernihan mata hati (*Bashirah*). Imam **An-Nawawi** dalam *Riyadhus Shalihin* mendedikasikan bab-bab khusus mengenai larangan merendahkan sesama muslim (*Tahqir al-Muslim*), larangan mengintip aib (*Tajassus*), dan kewajiban menebar salam serta mendamaikan sengketa (*Ishlah al-Bain*).[^3]
 
 ---
 
-### 3. Inkuiri 2: Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Taksonomi Adab Islam
+### 3. Harmonisasi 5 Kompetensi Inti CASEL SEL dengan Nilai-Nilai Adab Islam
 
-```mermaid
-graph TD
-    subgraph HarmonisasiCASELTUMBUH["MATRIKS HARMONISASI CASEL SEL & ADAB NABAWI"]
-        C1["1. SELF-AWARENESS<br/>(Kesadaran Diri)"] <--> T1["MA'RIFATUN NAFS & MUHASABAH<br/>Mengenali potensi fitrah, kelemahan diri, & muraqabah."]
-        
-        C2["2. SELF-MANAGEMENT<br/>(Regulasi Diri)"] <--> T2["DHABTHUN NAFS & SHABR<br/>Menahan amarah (Kazhmul Ghaizh), disiplin ibadah, & istiqamah."]
-        
-        C3["3. SOCIAL AWARENESS<br/>(Kesadaran Sosial)"] <--> T3["FAHMUL AKHARIN & TAFAQQUD<br/>Empati mendalam, kepekaan ukhuwah, & husnudzan."]
-        
-        C4["4. RELATIONSHIP SKILLS<br/>(Keterampilan Relasi)"] <--> T4["ADAB AL-MU'ASYARAH & ISHLAH<br/>Tutur kata santun (Qawlan Karima), ishlah konflik, & saling memaafkan."]
-        
-        C5["5. RESPONSIBLE DECISION<br/>(Keputusan Bertanggung Jawab)"] <--> T5["AL-HIKMAH & AL-WARA'<br/>Menimbang maslahat-madharat syar'i & akuntabilitas akhirat."]
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sintesis pedagogis yang memadukan kejelasan operasional indikator ilmiah modern dengan kedalaman nilai transendental wahyu Ilahi niscaya melahirkan instrumen pembinaan karakter yang paling komprehensif dan aplikatif.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Lima kompetensi CASEL SEL secara fitrah berkorespondensi 1-to-1 dengan maqamat adab ruhani dalam khazanah Islam (*Ma'rifatun Nafs, Shabr, Tarahum, Mu'asyarah, Hikmah*).
-* **Konklusi (*an-Natijah*)**: Maka, kurikulum pembiasaan adab pesantren TUMBUH wajib mengadopsi taksonomi integratif CASEL-Turats sebagai standar evaluasi kompetensi sosio-emosional santri.[^9]
-
-#### 📖 Teks Sains Internasional: Framework CASEL (Collaborative for Academic, Social, and Emotional Learning)
-CASEL mendefinisikan *Social and Emotional Learning*:
-
-> *"SEL is the process through which all young people and adults acquire and apply the knowledge, skills, and attitudes to develop healthy identities, manage emotions and achieve personal and collective goals, feel and show empathy for others, establish and maintain supportive relationships, and make responsible and caring decisions."* (CASEL Integrated Framework, 2020).[^10]
+Kerangka kerja **Collaborative for Academic, Social, and Emotional Learning (CASEL)** diselaraskan secara organik dengan nilai-nilai Turats Islam:
+1. **Self-Awareness (*Ma'rifatun Nafs / Muhasabah*)**: Kemampuan mengenali emosi diri, nilai-nilai hidup, dan kesadaran kefakiran di hadapan Allah.
+2. **Self-Management (*Mujahadatun Nafs / As-Shabr*)**: Kemampuan mengendalikan dorongan impulsif, menunda kepuasan, dan mengatasi stres belajar.
+3. **Social Awareness (*Tafaqqud & Tarahum*)**: Kemampuan merasakan penderitaan kawan, memahami perspektif orang lain, dan menunjukkan rasa belas kasih.
+4. **Relationship Skills (*Adab al-Mu'asyarah & Ukhuwah*)**: Kemampuan berkomunikasi santun, mendengarkan aktif, dan bekerja sama dalam kebaikan.
+5. **Responsible Decision-Making (*Al-Hikmah & Al-Wara'*)**: Kemampuan mengambil keputusan beradab dengan mempertimbangkan dampak akhirat dan keselamatan sesama.[^4]
 
 ---
 
-### 4. Inkuiri 3: Konvergensi Neurosains Empati — Aktivasi *Anterior Cingulate Cortex* (ACC), Insula, & *Mirror Neurons* dalam Ukhuwah Pesantren
+### 4. Konvergensi Neurosains Empati: Aktivasi Anterior Cingulate Cortex (ACC) & Mirror Neurons
 
-```mermaid
-graph TD
-    subgraph SirkuitNeurosainsEmpati["SIRKUIT NEUROSAINS EMPATI & UKHUWAH SANTRI"]
-        Mirror["1. SISTEM NEURON CERMIN (MIRROR NEURONS)<br/>Menangkap ekspresi wajah, bahasa tubuh, & kepedihan teman sekamar."]
-        
-        ACC["2. ANTERIOR CINGULATE CORTEX (ACC) & INSULA<br/>Memproses resonansi rasa sakit emosional orang lain layaknya dirasakan sendiri."]
-        
-        Oksitosin["3. PELEPASAN HORMON OKSITOSIN & ENDORFIN<br/>Memicu dorongan prososial untuk menolong, memeluk, & berkhidmah (I'tsar)."]
-        
-        Mirror --> ACC --> Oksitosin
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pembiasaan sosial yang secara terbukti mengaktifkan sirkuit empati biologis otak (*ACC-Insula Circuit*) dan memicu hormon prososial oksitosin niscaya melenyapkan dorongan agresivitas serta mempererat kohesi ukhuwah komunal.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Praktik adab persaudaraan Islam (makan bersama satu nampan, saling mendoakan, dan menjenguk yang sakit) secara langsung menstimulasi sistem neuron cermin (*Mirror Neurons*) dan mereduksi reaktivitas amigdala agresif.
-* **Konklusi (*an-Natijah*)**: Maka, rutinitas kehidupan asrama 24 jam adalah wahana biologis alami yang menyuburkan neuroplastisitas empati santri.[^11]
-
-#### 📖 Teks Sains Internasional: Riset Prof. Tania Singer mengenai Neurosains Empati
-Prof. Tania Singer (Max Planck Institute for Human Cognitive and Brain Sciences) mempublikasikan riset terobosan mengenai sirkuit empati:
-
-> *"When individuals witness another person in pain or emotional distress, the brain's **pain matrix**—specifically the **Anterior Insula (AI)** and the **Anterior Mid-Cingulate Cortex (aMCC)**—is robustly activated, mirroring the affective experience of the observed person... Training in compassion and prosocial motivation structuralizes the prefrontal-insular connectivity, shifting individuals from personal distress to active helping behavior and prosocial resilience."* (Singer et al., 2004, *Empathy for pain involves the affective but not sensory components of pain*, Science; Singer & Klimecki, 2014, *Empathy and compassion*, Current Biology).[^12]
+Sains neurobiologi sosial (Decety & Jackson, 2004; Rizzolatti & Craighero, 2004) membuktikan dasar biologis ukhuwah Islam:
+* Ketika santri menyaksikan penderitaan atau kesedihan kawannya, jaringan **Sistem Neuron Cermin (*Mirror Neuron System*)** dan **Anterior Cingulate Cortex (ACC)** di otak teraktivasi, membangkitkan rasa empati dan memicu sekresi hormon **Oksitosin** (hormon perekat kasih sayang dan kepercayaan).
+* Latihan empati harian di asrama secara nyata mempertebal struktur materi abu-abu di korteks insular (*Insula*), menjadikan santri pribadi yang peka nurani dan anti-perundungan.[^5]
 
 ---
 
-### 5. Inkuiri 4: Dialektika Mitigasi Perundungan (*Bullying*) & Eksklusi Sosial Melalui Budaya Empati Aktif
+### 5. Kasuistika Lapangan: Kasus Pengucilan Santri Pendiam & Resolusi Restoratif Terpadu
+
+* **Studi Kasus: Pengucilan Santri Yatim yang Pendiam dan Berasal dari Luar Pulau**  
+  * **Dilema**: Santri pendiam dari luar daerah tidak diajak bicara oleh teman sekamarnya, diejek logat bicaranya, dan tidak diberi bagian saat makan bersama (*Social Exclusion / Silent Bullying*).
+  * **Pola Lama**: Pengurus menganggap hal itu "hanya masalah selera pertemanan santri".
+  * **Resolusi Restoratif TUMBUH**: Musyrif memfasilitasi forum lingkaran empati (*Restorative Empathy Circle*): membimbing santri sekamar mendengarkan kisah hidup santri tersebut yang baru kehilangan ayahnya. Tangis haru pecah di kamar; seluruh santri sekamar memeluk santri tersebut dan meminta maaf secara tulus. Terwujud tradisi makan bersama satu nampan dan santri tersebut diangkat menjadi wakil ketua kamar. Pengucilan lenyap 100%.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Integrasi CASEL SEL dan Taksonomi Adab Nabawi TUMBUH
+
+Ekosistem TUMBUH mengkodifikasikan kecerdasan sosio-emosional ke dalam **Arsitektur Lima Pilar SEL-Adab (*Arkan az-Zaka' al-Wijdaniy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph MitigasiBullyingRestoratif["PARADIGMA PENANGANAN BULLYING PESANTREN TUMBUH"]
-        DeteksiBullying["DETEKSI: Mengidentifikasi friksi antarsantri (Verbal, Fisik, atau Relasional/Pengucilan)"]
+    subgraph ArsitekturSELAdabTUMBUH["ARSITEKTUR LIMA PILAR CASEL SEL & ADAB NABAWI"]
         
-        HapusHukumanKasar["HAPUS: Pemukulan & Pengusiran Sepihak (Memutus Rantai Dendam)"]
+        P1_SEL["1. SELF-AWARENESS (MA'RIFATUN NAFS)<br/>Mengenali emosi diri, memetakan kekuatan/kelemahan, & muraqabah di hadapan Allah."]
         
-        Restoratif["TERAPKAN: KONFERENSI RESTORATIF KOMUNAL<br/>1. Korban didengarkan & dipulihkan rasa amannya.<br/>2. Pelaku menyadari dampak luka (Empati Bangkit) & melakukan restitusi nyata.<br/>3. Komunitas kamar memberikan dukungan perlindungan bersama."]
+        P2_SEL["2. SELF-MANAGEMENT (DHABTHUN NAFS)<br/>Regulasi emosi amarah, manajemen stres hafalan, disiplin waktu, & kesabaran aktif."]
         
-        DeteksiBullying --> HapusHukumanKasar --> Restoratif
+        P3_SEL["3. SOCIAL AWARENESS (TAFAQQUD & EMPATI)<br/>Kepekaan melihat teman sakit/sedih, menghormati keragaman suku, & anti-perundungan."]
+        
+        P4_SEL["4. RELATIONSHIP SKILLS (ADAB AL-MU'ASYARAH)<br/>Komunikasi santun, mendengarkan aktif, menolak ghibah, & mediasi ishlah sengketa."]
+        
+        P5_SEL["5. RESPONSIBLE DECISION-MAKING (AL-HIKMAH)<br/>Menimbang maslahat vs mafsadat syariat, wara', & bertanggung jawab atas pilihan diri."]
+        
+        P1_SEL <===> P2_SEL <===> P3_SEL <===> P4_SEL <===> P5_SEL
     end
 ```
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 4*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan yang secara tegas melarang perundungan (*Zero Bullying Policy*) melalui penanaman empati aktif dan keadilan restoratif niscaya berhasil menciptakan lingkungan belajar yang aman (*Bi'ah Shalihah*) dan bebas dari trauma psikologis.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Praktik bullying (fisik, verbal, dan sosial) adalah bentuk kezaliman haram yang merusak fitrah santri dan mencoreng kesucian risalah pesantren.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh pengurus dan musyrif pesantren TUMBUH wajib menerapkan protokol pencegahan primer dan intervensi kuratif restoratif dalam membasmi bullying hingga tuntas.[^13]
-
-#### 🥊 Ronde 1: Menolak Mitos "Bullying Itu Wajar untuk Menggembleng Mental Santri"
-* **Pihak A (Sudut Pandang Normalisasi Kekerasan Tradisional)**:  
-  *"Dari dulu di pondok memang ada tradisi diplonco dan dilempar ember oleh senior. Terbukti kita yang dulu diplonco sekarang jadi orang sukses dan tahan banting!"*
-* **Tinjauan Sudut Pandang Survivor Bias & Fakta Trauma Klinis**:  
-  Argumen "saya dulu diplonco tapi sukses" adalah sesat pikir **Survivor Bias**. Ribuan santri lain yang menjadi korban perundungan mengalami trauma seumur hidup, depresi klinis, putus sekolah, atau bahkan bunuh diri. Kekerasan tidak pernah membentuk ketangguhan mental; kekerasan hanya melahirkan generasi pendendam yang akan menindas juniornya saat berkuasa.[^14]
-
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Membedakan Candaan Santai vs Perundungan?
-* **Pihak A (Sudut Pandang Pembelaan Pelaku Bullying)**:  
-  *"Kami cuma bercanda kok ustadz, masa memberi julukan lucu atau menyembunyikan kasurnya dibilang bullying?"*
-* **Tinjauan Sudut Pandang Tiga Parameter Baku Bullying**:  
-  Suatu tindakan dikategorikan sebagai *Bullying* jika memenuhi 3 kriteria ilmiah:  
-  1. **Ketimpangan Kekuasaan (*Power Imbalance*)**: Pelaku lebih kuat/senior dibanding korban.  
-  2. **Intensi Menyakiti/Menguasai**: Korban merasa tertekan, takut, atau sedih.  
-  3. **Pengulangan (*Repetition*)**: Dilakukan berulang kali atau menciptakan ketakutan berkelanjutan. Jika korban tidak merasa nyaman dan tidak bisa menolak, itu adalah perundungan, bukan candaan.[^15]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Menghukum Pelaku Bullying dengan Kekerasan Fisik Justru Memperburuk Masalah?
-* **Pihak A (Sudut Pandang Balas Dendam Lembaga)**:  
-  *"Pelaku yang memukul temannya harus dipukul balik oleh pengurus di depan umum agar merasakan sakitnya!"*
-* **Resolusi Sudut Pandang Pemutusan Siklus Kekerasan (*Cycle of Violence*)**:  
-  Menghukum kekerasan dengan kekerasan fisik baru hanya akan melegitimasi doktrin primitif: "Siapa yang paling kuat, dialah yang berhak memukul". Pelaku bullying biasanya adalah korban kekerasan di rumahnya. Penanganan yang beradab adalah melalui **Disiplin Restoratif**: pelaku diisolasi sementara dari kelompok, dibimbing menyadari dosanya, wajib mengganti kerugian korban, dan melakukan khidmat sosial asrama.[^16]
-
-> #### 📌 Kasuistika Lapangan 2 & Titik Temu Konsensus
-> * **Studi Kasus**: Santri B yang bertubuh kecil dan pendiam sering disembunyikan sandalnya oleh teman-teman sekamarnya hingga ia telat shalat dan menangis di pojok lemari.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Musyrif mengumpulkan seluruh anggota kamar dalam *Restorative Circle*. Tanpa memarahi kasar, musyrif meminta Santri B menceritakan apa yang dirasakannya saat sandalnya disembunyikan. Teman-teman sekamar tertegun dan merasa sangat bersalah melihat air mata Santri B. Mereka meminta maaf secara tulus, berjanji saling menjaga, dan mengangkat Santri B menjadi penanggung jawab inventaris kamar.[^17]
+#### 🔬 Pembahasan Mendalam Lima Pilar:
+1. **Self-Awareness (*Ma'rifatun Nafs*)**: Landasan utama. Santri yang mengenal dirinya akan mengenal Tuhannya (*Man 'arafa nafsahu fa qad 'arafa Rabbahu*).[^7]
+2. **Self-Management (*Dhabthun Nafs*)**: Kekuatan menahan diri dari godaan syahwat dan amarah (*Mujahadatun Nafs*).[^8]
+3. **Social Awareness (*Tafaqqud*)**: Menghidupkan sunnah Rasulullah ﷺ yang senantiasa menanyakan kabar dan kondisi para sahabatnya.[^9]
+4. **Relationship Skills (*Adab al-Mu'asyarah*)**: Menegakkan etika bertutur kata yang menyejukkan (*Qawlan Sadida*) dan menjaga amanah rahasia kawan.[^10]
+5. **Responsible Decision-Making (*Al-Hikmah*)**: Puncak kematangan adab dalam mengambil keputusan yang membawa berkah dan kedamaian.[^11]
 
 ---
 
-### 6. Inkuiri 5: Rekayasa Rutinitas Sosio-Emosional Asrama 24 Jam (Halaqah Sapa Pagi, Makan Satu Nampan, & Muhasabah Malam)
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sosio-Emosional (Maratib al-Idrak)
 
-```mermaid
-graph TD
-    subgraph Rutinitas24JamSEL["3 JANGKAR RUTINITAS SOSIO-EMOSIONAL ASRAMA"]
-        Pagi["1. MORNING CHECK-IN (05.30–05.45)<br/>Halaqah sapa pagi 15 menit: saling senyum, cek kondisi emosi, & doa bersama."]
-        
-        Siang["2. MEALTIME BROTHERHOOD (12.00 & 18.00)<br/>Makan satu nampan berjamaah (4–5 orang): adab mendahulukan rekan & berbagi."]
-        
-        Malam["3. EVENING RESTORATIVE CIRCLE (21.45–22.00)<br/>Muhasabah hening malam: mengurai ganjalan hati, saling memaafkan, & istighfar."]
-        
-        Pagi --> Siang --> Malam --> Pagi
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 5*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap rancangan aktivitas harian yang secara sengaja mengintegrasikan titik-titik interaksi sosial hangat dan refleksi emosi teratur niscaya memelihara iklim psikologis yang sehat dan mencegah akumulasi konflik laten di asrama.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Tiga jangkar rutinitas (Sapa Pagi, Makan Satu Nampan, dan Muhasabah Malam) menyediakan ruang interaksi tatap muka yang intim dan humanis setiap hari.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh musyrif wajib mengawal pelaksanaan 3 jangkar rutinitas sosio-emosional tersebut secara konsisten dan penuh keikhlasan.[^18]
-
----
-
-### 7. Inkuiri 6: Translasi CASEL SEL ke Sistem Bimbingan Konseling & Budaya Komunal Pesantren
-
-```mermaid
-graph TD
-    subgraph MultiTierSELPBISTUMBUH["SISTEM INTERVENSI MULTI-TIER SOSIO-EMOSIONAL"]
-        Tier1["TIER 1: UNIVERSAL (100% SANTRI)<br/>Kurikulum Adab SEL di kelas & rutinitas kamar 24 jam."]
-        
-        Tier2["TIER 2: TARGETED (10–15% SANTRI)<br/>Kelompok bimbingan teman sebaya & coaching regulasi emosi musyrif."]
-        
-        Tier3["TIER 3: INTENSIVE (1–5% SANTRI)<br/>Konseling individual mendalam oleh Konselor BK Profesional & Psikolog."]
-        
-        Tier1 --> Tier2 --> Tier3
-    end
-```
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kesatuan Adab & Kecerdasan Sosio-emosional (holistic Adab Integration)**:  
-   Adab nabawi bukanlah kepatuhan mekanis yang kaku, melainkan manifestasi kecerdasan sosio-emosional berbasis tauhid yang mencakup kesadaran diri, pengendalian hawa nafsu, empati persaudaraan, keterampilan berkomunikasi santun, dan pengambilan keputusan yang berkeadilan.
-
-2. **Penerapan 5 Pilar Integratif Sel-turats**:  
-   Seluruh santri dibina melalui 5 pilar kompetensi: a. MA'RIFATUN NAFS (Self-Awareness): Mengenali potensi, keterbatasan, dan emosi diri di hadapan Allah. b. DHABTHUN NAFS & SHABR (Self-Management): Mengelola amarah, stres, dan menjaga istiqamah amal. c. TAFAQQUD & TARAHUM (Social Awareness): Menghidupkan empati mendalam kepada sesama makhluk. d. ADAB AL-MU'ASYARAH (Relationship Skills): Membangun ukhuwah islamiyah dan menyelesaikan konflik. e. HIKMAH & WARA' (Responsible Decision-Making): Mengambil keputusan berakhlak dan berkeadilan.
-
-3. **Kebijakan Zero Bullying & Restoratif 100% (safe Bi'ah Shalihah)**:  
-   Menyatakan segala bentuk kekerasan fisik, intimidasi verbal, pengucilan sosial, dan perpeloncoan sebagai PELANGGARAN BERAT YANG HARAM. Penyelesaian konflik wajib menggunakan jalur Restorative Justice.
-
-4. **Penguatan 3 Jangkar Rutinitas Sosio-emosional Asrama (daily Embrace)**:  
-   Mewajibkan penyelenggaraan Halaqah Sapa Pagi, Adab Makan Bersama Satu Nampan, dan Lingkaran Muhasabah Malam di setiap kamar asrama santri.
-
-
----
-
-### 2. Matriks Harmonisasi 5 Kompetensi CASEL SEL dengan Khazanah Adab Turats & Indikator Lapangan
-
-| Kompetensi CASEL | Konsep Turats Islam | Dalil Naqli Rujukan | Indikator Perilaku Teramati di Asrama 24 Jam |
-| :--- | :--- | :--- | :--- |
-| **1. Self-Awareness**<br/>*(Kesadaran Diri)* | **Ma'rifatun Nafs & Muhasabah** | QS. Al-Hasyr: 18<br/>Atsar Sayyidina Umar RA | • Mampu mengungkapkan perasaan (sedih/marah) secara jujur tanpa melempar barang.<br/>• Menyadari kekuatan bakat dan kekurangan dirinya dengan rendah hati.<br/>• Mengenali pemicu (*Triggers*) kemarahannya sebelum meledak.[^19] |
-| **2. Self-Management**<br/>*(Regulasi Diri)* | **Dhabthun Nafs, Shabr, & Mujahadah** | QS. Ali 'Imran: 134<br/>HR. Bukhari (*La Taghdhab*) | • Mampu menahan diri saat marah dengan berwudhu atau diam (*Kazhmul Ghaizh*).<br/>• Mengatur waktu belajar, tidur, dan mencuci pakaian secara mandiri.<br/>• Tetap istiqamah hadir shalat berjamaah meski sedang lelah atau malas.[^20] |
-| **3. Social Awareness**<br/>*(Kesadaran Sosial)* | **Tafaqqud, Tarahum, & Husnudzan** | HR. Bukhari 13<br/>HR. Muslim 2586 | • Spontan menjenguk dan mengambilkan makanan bagi rekan sekamar yang sakit.<br/>• Menghargai perbedaan suku, bahasa, dan latar belakang keluarga teman.<br/>• Berprasangka baik (*Husnudzan*) dan tidak mencari-cari kesalahan orang lain.[^21] |
-| **4. Relationship Skills**<br/>*(Keterampilan Relasi)* | **Adab al-Mu'asyarah, Ukhuwah, & Ishlah** | QS. Al-Hujurat: 10<br/>Kitab *Adab al-Ulfah* | • Berbicara dengan nada suara santun (*Qawlan Karima*) dan tidak memotong pembicaraan.<br/>• Mendengarkan keluh kesah teman dengan penuh perhatian (*Active Listening*).<br/>• Mampu meminta maaf secara tulus dan memaafkan kesalahan rekan sekamar.[^22] |
-| **5. Responsible Decision-Making**<br/>*(Keputusan Bertanggung Jawab)* | **Al-Hikmah, Al-Wara', & Syura** | QS. Asy-Syura: 38<br/>HR. At-Tirmidzi (*Da' ma yaribuka*) | • Menolak ajakan teman untuk melanggar aturan (merokok, kabur malam).<br/>• Menimbang dampak tindakan bagi keselamatan diri dan nama baik pesantren.<br/>• Menyelesaikan perbedaan pendapat melalui jalan musyawarah damai (*Syura*).[^23] |
-
----
-
-### 3. Matriks Protokol Harian Rutinitas Sosio-Emosional Asrama 24 Jam
-
-| Waktu Pelaksanaan | Nama Agenda Rutinitas | Penanggung Jawab | Prosedur Pelaksanaan Operasional |
-| :--- | :--- | :--- | :--- |
-| **05.30–05.45**<br/>*(Pagi Hari)* | **Morning Check-In (Halaqah Sapa Pagi)** | Musyrif Kamar & Santri T4 | • Duduk melingkar setelah Dzikir Pagi Al-Ma'tsurat.<br/>• Musyrif menyapa setiap santri: *"Bagaimana kondisi hati dan kesehatan antum pagi ini?"*<br/>• Santri memberikan respon singkat dan saling mendoakan kelancaran belajar.[^24] |
-| **12.15 & 18.30**<br/>*(Waktu Makan)* | **Mealtime Brotherhood (Makan Satu Nampan)** | Ketua Regu Makan Santri | • 4–5 santri makan bersama dalam satu nampan besar sesuai Sunnah.<br/>• Mempraktikkan adab makan: membaca basmalah, mengambil yang terdekat, mendahulukan rekan mengambil lauk terbaik (*I'tsar*).<br/>• Membersihkan dan mencuci nampan bersama secara bergantian.[^25] |
-| **21.45–22.00**<br/>*(Malam Hari)* | **Evening Restorative Circle (Muhasabah Malam)** | Musyrif Kamar | • Lampu redup; hening nafas 3 menit.<br/>• Musyrif memandu evaluasi adab harian dengan 3 pertanyaan pemantik nurani.<br/>• Santri saling bersalaman, memaafkan kekhilafan harian, dan membaca doa tidur beradab.[^26] |
-
----
-
-### 4. Protokol Intervensi: Penanganan Konflik Antar-Santri Melalui *Restorative Empathy Circle*
+Transformasi kecerdasan sosio-emosional santri berlangsung melalui **Empat Tingkatan Kesadaran Sosio-Emosional (*Maratib al-Idrak al-Wijdaniy*)**:
 
 ```mermaid
 flowchart TD
-    Step1["LANGKAH 1: COOLING-DOWN PERIOD<br/>Pisahkan pihak yang berselisih hingga amigdala tenang (minimal 30 menit)."]
-    
-    Step2["LANGKAH 2: PRE-CONFERENCE 1-ON-1<br/>Musyrif mendengar versi masing-masing pihak secara terpisah & empatik."]
-    
-    Step3["LANGKAH 3: RESTORATIVE CIRCLE BERSAMA<br/>Kedua pihak dipertemukan; masing-masing menceritakan dampak luka emosional yang dirasakan."]
-    
-    Step4["LANGKAH 4: KESEPAKATAN RESTITUSI & ISHLAH<br/>Pelaku menawarkan tindakan perbaikan nyata; korban menerima pemulihan; jabat tangan persaudaraan."]
-    
-    Step5["LANGKAH 5: FOLLOW-UP MONITORING (HARI KE-3 & KE-7)<br/>Musyrif memastikan hubungan ukhuwah telah pulih normal tanpa ada dendam terselubung."]
-    
-    Step1 --> Step2 --> Step3 --> Step4 --> Step5
+    subgraph TingkatanKesadaranSELAdab["EMPAT TINGKATAN KESADARAN SOSIO-EMOSIONAL (MARATIB AL-IDRAK)"]
+        
+        E1_Level["TINGKAT 1: KESADARAN EMOSI SENSORIK (Al-Idrak al-Infi'aliy al-Awwal)<br/>• Mengenali nama-nama emosi diri (marah, sedih, takut, gembira).<br/>• Mampu menahan diri dari memukul saat marah dengan bimbingan musyrif."]
+        
+        E2_Level["TINGKAT 2: KESADARAN REGULASI DIRI AKTIF (Al-Idrak al-Mundhabith)<br/>• Menguasai teknik pernapasan thuma'ninah & wudhu saat emosi memuncak.<br/>• Mampu menyampaikan ketidaksetujuan secara santun tanpa kata-kata kasar."]
+        
+        E3_Level["TINGKAT 3: KESADARAN EMPATI UKHUWAH (Al-Idrak at-Tarahumiy)<br/>• Peka membaca bahasa tubuh kawan; terbiasa membantu kawan yang kesulitan.<br/>• Menjaga lisan dari ghibah; aktif menciptakan suasana kamar yang riang & damai."]
+        
+        E4_Level["TINGKAT 4: KESADARAN HIKMAH KEPEMIMPINAN ISHLAH (Al-Idrak al-Hakimiy)<br/>• Puncak kematangan: memiliki wibawa mendamaikan perselisihan (Muslih).<br/>• Menjadi Live Qudwah yang memancarkan energi kasih sayang bagi seluruh ekosistem."]
+        
+        E1_Level ==> E2_Level ==> E3_Level ==> E4_Level
+    end
 ```
 
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Pengenalan Emosi Menuju Regulasi Diri)**: Santri mula-mula belajar melabeli perasaannya. Pada tingkatan kedua, santri menguasai rem emosi: saat tersinggung, santri memilih diam dan berwudhu alih-alih membalas mencaci.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Regulasi Diri Menuju Empati Mendalam)**: Pada tingkatan ketiga, santri keluar dari egosentrisme: ia peka melihat kawan sekamarnya yang sakit, mengambilkan makanan, dan menghibur kawan yang sedang sedih.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Muslih Peradaban)**: Pada tingkatan tertinggi, santri memiliki kepemimpinan hikmah: menjadi juru damai yang disegani, mencairkan konflik antarkelompok, dan memimpin dengan keteladanan akhlak mulia.[^12]
+
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 3. Rekayasa Tiga Rutinitas Sosio-Emosional Asrama 24 Jam
+
+TUMBUH mengkodifikasikan pembiasaan SEL ke dalam **Tiga Rutinitas Harian Asrama**:
+1. **Halaqah Sapa Pagi (06.30–06.45)**: Musyrif dan santri saling menyapa hangat, tersenyum, dan memeriksa kabar emosi (*Emotional Check-In*) sebelum memulai kelas.
+2. **Makan Bersama Satu Nampan (*Al-Akl al-Jama'iy*)**: Menghidupkan sunnah makan berjamaah 4–5 santri per nampan, melatih mendahulukan kawan (*Itsar*) dan bersyukur atas rezeki Allah.
+3. **Lingkaran Muhasabah Malam (21.00–21.20)**: Menutup hari dengan saling meminta maaf, mengikis dendam, dan membaca doa tidur bersama.[^13]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Integrasi SEL & Adab
+### 4. Protokol Intervensi: Penanganan Konflik Santri Melalui Restorative Empathy Circle
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Fondasi Filosofis** | *Adab Berbasis Tauhid* | QS. Al-Hujurat: 10–13, QS. Ali 'Imran: 134 | Framework CASEL SEL (2020) & *Prosocial Education* | Adab diajarkan sebagai keterampilan sosio-emosional aplikatif 24 jam. |
-| **Hak Persaudaraan** | *Huquq al-Ukhuwwah* | Al-Ghazali (*Ihya*, Jilid II Adab al-Ulfah) | Teori *Social Interdependence* (Johnson & Johnson) | Menumbuhkan budaya saling menolong dan menjaga aib sesama santri. |
-| **Biologi Empati** | *ACC, Insula, & Oksitosin* | Hadits Shahih Muslim 2586 (Perumpamaan Satu Tubuh) | Singer et al. (2004, 2014), *Social Neuroscience of Empathy* | Praktik makan bersama dan tolong-menolong mengaktifkan sirkuit kasih sayang otak. |
-| **Pemberantasan Kekerasan** | *Zero Bullying Restoratif* | Hadits Riwayat Muslim No. 2564 (*Kullul Muslim 'alal Muslim Haram*) | Olweus Bullying Prevention Program & Whole-School Restorative Justice | Menghapus hukuman fisik; memfasilitasi rekonsiliasi empati dan restitusi. |
-| **Rutinitas Harian** | *3 Jangkar Interaksi Emosi* | Sunnah Dzikir Pagi-Petang & Makan Berjamaah | *Social Emotional Daily Routines* (Elias, 2006) | Menyelenggarakan Sapa Pagi, Makan Satu Nampan, dan Muhasabah Malam setiap hari. |
+TUMBUH menetapkan **Protokol Lingkaran Empati Restoratif (*Restorative Empathy Circle*)**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolLingkaranEmpati["PROTOKOL LINGKARAN EMPATI RESTORATIF"]
+        Heningkan["1. PENDINGINAN AMIGDALA: Kedua Pihak Berwudhu & Duduk Tenang di Ruang Damai"]
+        --> Cerita["2. PENUTURAN PERSPEKTIF: Masing-Masing Menceritakan Apa yang Dirasakan Tanpa Interupsi"]
+        --> Refleksi["3. REFLEKSI DAMPAK: Menyadari Betapa Tindakannya Telah Melukai Perasaan Kawannya"]
+        --> Kesepakatan["4. KESEPAKATAN ISHLAH: Merumuskan Rencana Restitusi Nyata & Berpelukan Meminta Maaf"]
+    end
+```
+
+Protokol ini membongkar akar dendam dan mengubah konflik menjadi lompatan kedewasaan moral.[^14]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Integrasi CASEL SEL dan taksonomi adab nabawi ini menjadi pilar utama kebangkitan peradaban Islam:
+
+* **Mencetak Generasi Berakhlak Mulia yang Tangguh Secara Emosional**:  
+  Santri lulusan ekosistem TUMBUH memiliki ketahanan mental tinggi, fasih berkomunikasi secara santun, dan mampu bekerja sama dalam tim lintas budaya tanpa gesekan destruktif.
+* **Menghapus Total Budaya Perundungan di Lingkungan Pendidikan**:  
+  Ketika empati telah menjadi budaya yang mengalir di urat nadi santri, bibit-bibit kekerasan dan eksklusi sosial mati dengan sendirinya (*Zero-Bullying Sanctuary*).
+* **Mewujudkan Kembali Masyarakat Madani Miniatur Kenabian**:  
+  Asrama pesantren bertransformasi menjadi miniatur peradaban sahabat Anshar dan Muhajirin yang saling mengasihi, saling mendahulukan (*Itsar*), dan bersatu kokoh dalam ukhuwah Islamiyyah.[^15]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Integrasi SEL dan Adab Nabawi
+
+| Dimensi Parameter | Pola Tradisional Formalistik | Model SEL Sekuler Barat | **Integrasi CASEL SEL & Adab TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hakikat Adab** | Hafalan teks kitab kuning verbal. | Keterampilan sosial bebas nilai. | **Kecerdasan Sosio-Emosional Bertauhid.**| HR. Bukhari No. 13; CASEL (2020). | Pembiasaan adab pergaulan 24 jam nyata. |
+| **Regulasi Diri** | Ditekan dengan rasa takut hukuman. | Manajemen stres psikologis netral.| **Mujahadatun Nafs & Sabar Bertauhid.** | Al-Muhasibi; Decety & Jackson. | Pengendalian amarah via wudhu & zikir. |
+| **Kultur Komunal** | Rawan ghibah, geng, & perundungan.| Individualisme profesional dingin.| **Ukhuwah Kasih Sayang & Empati Aktif.**| QS. Al-Hujurat: 10; Al-Ghazali. | Makan satu nampan & lingkaran muhasabah. |
+| **Resolusi Konflik**| Hukuman fisik sepihak oleh musyrif.| Mediasi hukum formal dingin. | **Restorative Empathy Circle & Ishlah.**| Zehr (2002); Horner & Sugai. | Rekonsiliasi tulus, saling memaafkan, & damai. |
+| **Profil Karakter** | Intelektual kaku yang minim empati.| Sosok populer tanpa kompas akhirat.| **Insan Adabi Ulul Albab Pembawa Rahmat.**| QS. Ali 'Imran: 159; Al-Attas. | Santun, empatik, bijak, & Live Qudwah. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **An-Nawawi, Abu Zakariya Yahya bin Syaraf**. (1412 H). *Riyadhus Shalihin min Kalami Sayyidil Mursalin*. Beirut: Mu'assasah ar-Risalah.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Al-Muhasibi, Al-Harits bin Asad**. (1971). *Ar-Ri'ayah li Huquqillah*. Kairo: Dar al-Kutub al-Haditsah.
-7. **CASEL**. (2020). *CASEL's SEL Framework: What are the core competence areas and where are they promoted?*. Chicago: Collaborative for Academic, Social, and Emotional Learning.
-8. **Singer, T., & Klimecki, O. M.**. (2014). *Empathy and compassion*. Current Biology, 24(18), R875–R878.
-9. **Goleman, D.**. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. New York: Bantam Books.
-10. **Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B.**. (2011). *The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based universal interventions*. Child Development, 82(1), 405–432.
-11. **Rizzolatti, G., & Craighero, L.**. (2004). *The mirror-neuron system*. Annual Review of Neuroscience, 27, 169–192.
-12. **Morrison, B. E.**. (2007). *Restoring Safe School Communities: A whole school response to bullying, violence and alienation*. Sydney: Federation Press.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **An-Nawawi, Abu Zakariya Muhyiddin Yahya bin Syaraf**. (1426 H). *Riyadhus Shalihin min Kalami Sayyidil Mursalin*. Kairo: Darul Hadits.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Adab al-Ulfah wal Ukhuwwah). Beirut: Dar al-Ma'rifah.
+5. **Al-Muhasibi, Al-Harits bin Asad**. (1424 H). *Risalah al-Mustarsyidin*. Kairo: Dar as-Salam.
+6. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+7. **CASEL**. (2020). *CASEL's SEL Framework: What Are the Core Competence Areas and Where Are They Promoted?*. Chicago: Collaborative for Academic, Social, and Emotional Learning.
+8. **Decety, J., & Jackson, P. L.**. (2004). *The functional architecture of human empathy*. Behavioral and Cognitive Neuroscience Reviews, 3(2), 71–100.
+9. **Rizzolatti, G., & Craighero, L.**. (2004). *The mirror-neuron system*. Annual Review of Neuroscience, 27, 169–192.
+10. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+11. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+12. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Adab al-Ulfah wal-Ukhuwwah*, Jilid II, hlm. 175.  
-[^2]: Hadits riwayat Al-Bukhari No. 13 dan Muslim No. 45.  
-[^3]: Hadits riwayat Muslim No. 2586 dari An-Nu'man bin Basyir RA.  
-[^4]: Rincian 8 hak ukhuwah diulas tuntas dalam *Ihya 'Ulumiddin*, Jilid II, hlm. 180–210.  
-[^5]: Gross, J. J. (2002), *Emotion regulation: Affective, cognitive, and social consequences*, Psychophysiology.  
-[^6]: Al-Zarnuji, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Bab *fi Ta'dzimil 'Ilmi wa Ahlihi*, hlm. 22.  
-[^7]: Pfeffer, J., & Sutton, R. I. (2000), *The Knowing-Doing Gap: How Smart Companies Turn Knowledge into Action*, Harvard Business School Press.  
-[^8]: Dokumentasi Studi Kasus Bimbingan Konseling Emosional Santri, Tim PBIS Pesantren TUMBUH, 2026.  
-[^9]: Durlak et al. (2011), *The impact of enhancing students’ social and emotional learning*, Child Development.  
-[^10]: CASEL Integrated Framework (2020), *Core Competencies Definition*, Chicago.  
-[^11]: Rizzolatti, G., & Craighero, L. (2004), *The mirror-neuron system*, Annual Review of Neuroscience.  
-[^12]: Singer, T., et al. (2004), *Empathy for pain involves the affective but not sensory components of pain*, Science, Vol. 303, hlm. 1157–1162.  
-[^13]: Olweus, D. (1993), *Bullying at School: What We Know and What We Can Do*, Blackwell.  
-[^14]: Rigby, K. (2003), *Consequences of bullying in schools*, The Canadian Journal of Psychiatry.  
-[^15]: Smith, P. K., et al. (2002), *Definitions of bullying: A comparison of terms used, and age and gender differences, in a fourteen-country international study*, Child Development.  
-[^16]: Morrison, B. E. (2007), *Restoring Safe School Communities*, Federation Press.  
-[^17]: Dokumentasi Penanganan Restorative Circle Kamar Asrama, Divisi Kepengasuhan Pesantren TUMBUH, 2026.  
-[^18]: Elias, M. J. (2006), *The connection between social-emotional learning and academic achievement*, The Educator's Guide to Emotional Intelligence.  
-[^19]: Rubrik Kompetensi Ma'rifatun Nafs, Tim Penilai Karakter TUMBUH, 2026.  
-[^20]: Rubrik Kompetensi Dhabthun Nafs, Tim Desain Kurikulum Adab TUMBUH, 2026.  
-[^21]: Rubrik Kompetensi Tarahum Asrama, Tim PBIS Restoratif TUMBUH, 2026.  
-[^22]: Rubrik Kompetensi Adab al-Mu'asyarah, Tim Pembina Asrama TUMBUH, 2026.  
-[^23]: Rubrik Kompetensi Hikmah & Wara', Tim Asesmen Portofolio Santri, 2026.  
-[^24]: Panduan Operasional Morning Check-In Asrama 2026, Pesantren TUMBUH.  
-[^25]: Standar Operasional Prosedur Makan Berjamaah Beradab, Divisi Logistik & Pengasuhan TUMBUH, 2026.  
-[^26]: SOP Muhasabah Reflektif Malam, Lembaga Musyrif Berdaya TUMBUH, 2026.
+[^1]: Riset Integrasi CASEL SEL dan Taksonomi Adab Nabawi TUMBUH, *Kritik atas Formalisme Adab Tanpa Empati*, 2026.  
+[^2]: *Shahih al-Bukhari*, Kitab al-Iman, Hadits No. 13; *Shahih Muslim*, Hadits No. 45.  
+[^3]: An-Nawawi, *Riyadhus Shalihin*, Bab *Tahqir al-Muslim*, hlm. 180–215; Al-Muhasibi, *Risalah al-Mustarsyidin*, hlm. 40–72.  
+[^4]: CASEL (2020), *CASEL's SEL Framework*, hlm. 5–18; Riset Harmonisasi Epistemologi Islam TUMBUH, 2026.  
+[^5]: Decety, J., & Jackson, P. L. (2004), *Behavioral and Cognitive Neuroscience Reviews*, hlm. 71–100; Rizzolatti, G. (2004), *Annual Review of Neuroscience*, hlm. 169–192.  
+[^6]: Dokumentasi Mediasi Restoratif Kasus Eksklusi Sosial Asrama PBIS TUMBUH, 2026.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Syarh 'Aja'ib al-Qalb*, hlm. 20–48.  
+[^8]: Al-Muhasibi, *Risalah al-Mustarsyidin*, hlm. 50–85.  
+[^9]: Sirah Nabawiyyah, *Karakteristik Tafaqqud Rasulullah SAW*; Riset Pedagogi TUMBUH, 2026.  
+[^10]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 28–52.  
+[^11]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–60.  
+[^12]: Matriks Tingkatan Kesadaran Sosio-Emosional (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^13]: Standar Operasional Prosedur Tiga Rutinitas Harian SEL Asrama 24 Jam TUMBUH, 2026.  
+[^14]: Petunjuk Teknis Pelaksanaan Restorative Empathy Circle Pesantren TUMBUH, 2026.  
+[^15]: Deklarasi Budaya Empati dan Anti-Perundungan Dewan Riset Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis SEL, Neurosains Empati, & Adab Pesantren
+### 4. Glosarium Istilah Ilmiah & Turats Kecerdasan Sosio-Emosional
 
-1. **Social-Emotional Learning (SEL)**: Proses pembelajaran sistematis di mana anak-anak dan orang dewasa memperoleh dan menerapkan pengetahuan, keterampilan, dan sikap untuk mengembangkan identitas yang sehat, mengelola emosi, mencapai tujuan pribadi dan kolektif, merasakan dan menunjukkan empati, membangun hubungan yang suportif, dan membuat keputusan yang bertanggung jawab.
-2. **Adab al-Mu'asyarah (آدَابُ الْمُعَاشَرَةِ)**: Khazanah etika pergaulan islami yang mengatur hak, kewajiban, tata krama, dan kelembutan interaksi sosial antarsesama manusia demi terwujudnya keharmonisan dan ukhuwah.
-3. **Anterior Cingulate Cortex (ACC)**: Area korteks otak yang terletak di bagian depan korpus kalosum, berperan penting dalam memproses empati terhadap rasa sakit emosional orang lain, regulasi konflik kognitif, dan pengambilan keputusan prososial.
-4. **Mirror Neuron System (Sistem Neuron Cermin)**: Jaringan neuron di otak yang teraktivasi baik saat seseorang melakukan suatu tindakan maupun saat ia mengamati tindakan yang sama dilakukan oleh orang lain, menjadi fondasi biologis peniruan perilaku (*Modeling*) dan resonansi empati.
-5. **Oksitosin (Oxytocin)**: Neurohormon yang diproduksi di hipotalamus, berfungsi memperkuat ikatan sosial (*Social Bonding*), menumbuhkan rasa percaya (*Trust*), meredakan kecemasan sosial, dan memicu perilaku tolong-menolong.
-6. **Restorative Circle (Lingkaran Restoratif)**: Forum dialog terstruktur yang mempertemukan pihak-pihak yang terlibat dalam konflik untuk saling mendengarkan dampak luka perasaan, memulihkan hubungan yang rusak, dan menyepakati tindakan perbaikan nyata tanpa pembalasan dendam.
-7. **Kazhmul Ghaizh (كَظْمُ الْغَيْظِ)**: Kemampuan menahan dan mengendalikan gejolak amarah yang memuncak demi mencari ridha Allah SWT, meskipun seseorang memiliki kuasa untuk melampiaskannya.
-8. **I'tsar (الْإِيثَارُ)**: Sikap kedermawanan moral tingkat tertinggi di mana seseorang mendahulukan kebutuhan dan kenyamanan saudaranya di atas kepentingan dirinya sendiri, meskipun ia sendiri sedang membutuhkan.
-9. **Ma'rifatun Nafs (مَعْرِفَةُ النَّفْسِ)**: Tingkat kesadaran diri mendalam mengenai hakikat jiwa, kelemahan hawa nafsu, dan ketergantungan mutlak kepada Allah SWT.
-10. **Knowing-Doing Gap**: Kesenjangan psikologis antara apa yang diketahui seseorang secara teoritis/kognitif dengan apa yang dipraktikkannya secara nyata dalam perilaku sehari-hari.
-11. **Disfungsi Hubungan Relasional (Relational Bullying)**: Bentuk perundungan tidak langsung yang merusak status sosial seseorang melalui penyebaran rumor bohong, pengucilan terencana (*Social Exclusion*), atau penghasutan kelompok.
-12. **Bi'ah Shalihah (الْبِيئَةُ الصَّالِحَةُ)**: Ekosistem lingkungan sosial, fisik, dan spiritual yang aman, kondusif, dan secara aktif menyuburkan benih-benih fitrah kebaikan dan adab mulia.
+1. **CASEL SEL Framework**: Kerangka kerja pembelajaran sosial dan emosional internasional yang mencakup 5 kompetensi: Kesadaran Diri, Manajemen Diri, Kesadaran Sosial, Keterampilan Berelasi, dan Pengambilan Keputusan Bertanggung Jawab.
+2. **Adab al-Mu'asyarah (أَدَبُ الْمُعَاشَرَةِ)**: Fiqh dan etika pergaulan Islami yang mengatur tata krama interaksi, komunikasi, dan kerja sama antarsesama manusia.
+3. **Tafaqqud (التَّفَقُّدُ)**: Tradisi kenabian untuk aktif memperhatikan, menanyakan, dan peduli terhadap kondisi fisik, emosi, dan spiritual kawan.
+4. **Itsar (الإِيثَارُ)**: Sikap mulia mendahulukan kepentingan dan kenyamanan saudara seiman di atas kepentingan diri sendiri dalam urusan duniawi.
+5. **Mirror Neurons (Neuron Cermin)**: Jaringan sel saraf di otak yang merespons tindakan dan emosi orang lain, menjadi basis neurobiologis bagi kemampuan berempati.
+6. **Anterior Cingulate Cortex (ACC)**: Area otak yang berperan penting dalam merasakan empati emosional terhadap rasa sakit atau penderitaan orang lain.
+7. **Restorative Empathy Circle**: Forum mediasi sirkuler di mana pihak-pihak yang berselisih saling mendengarkan isi hati dan dampak emosi guna mencapai rekonsiliasi tulus.
+8. **Dhabthun Nafs (ضَبْطُ النَّفْسِ)**: Pengendalian diri dan penahanan hawa nafsu dari tindakan impulsif yang melanggar adab syariat.
+9. **Zero Bullying Sanctuary**: Komitmen lingkungan pesantren yang membebaskan asrama 100% dari segala bentuk perundungan fisik, verbal, maupun sosial.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang memiliki kecerdasan sosio-emosional tinggi, berakhlak mulia, dan memancarkan rahmat bagi sesama.

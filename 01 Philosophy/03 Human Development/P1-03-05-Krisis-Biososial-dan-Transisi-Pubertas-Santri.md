@@ -1,270 +1,280 @@
-# P1-03-05: KRISIS BIOSOSIAL DAN TRANSISI PUBERTAS SANTRI
-## *Monograf Terpadu: Epistemologi Fiqh Baligh & Taklif Syar'i, Neurosains Lonjakan Hormon Pubertas (Hypothalamic-Pituitary-Gonadal Axis), Krisis Identitas Erikson di Pesantren Asrama, Mitigasi Stres Adaptasi Mukim, dan Pendampingan Qudwah Musyrif*
+# P1-03-05: KRISIS BIOSOSIAL DAN TRANSISI PUBERTAS SANTRI (BIOSOCIAL CRISIS & PUBERTY TRANSITIONS)
+## *Monograf Riset Akademik: Epistemologi Fiqh Baligh & Titik Tolak Taklif Syar'i, Neurosains Endokrin Lonjakan Hormon Pubertas (HPG Axis), Krisis Identitas Psikososial di Lingkungan Asrama, Serta Pendampingan Transisi di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-03-05/MONOGRAF-TERPADU-KRISIS-PUBERTAS-SANTRI/2026`  
-**Domain**: `01 Philosophy` > `03 Human Development`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
-**Rumpun Disiplin Pengkaji**: Neurosains Perkembangan Remaja (*Developmental Neuroscience*), Fiqh Bulugh & Ahkamut Taklif, Psikologi Perkembangan Erikson & Bronfenbrenner, Pengasuhan Asrama Pesantren (*Dormitory In Loco Parentis*)  
+**Nomor Identifikasi**: `P1-03-05/MONOGRAF-RISET-KRISIS-PUBERTAS/2026`  
+**Domain**: `01 Philosophy` > `03 Human Development` (Sub-Modul 05: *Biosocial Transitions*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
+**Rumpun Disiplin Pengkaji**: Neurosains Perkembangan Remaja, Fiqh Bulugh & Ahkamut Taklif, Psikologi Perkembangan Erikson & Bronfenbrenner, Pengasuhan Asrama Pesantren (*In Loco Parentis*)  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Pubertas (*Bulugh*) Adalah Transformasi Syar'i & Biologis Terbesar Santri:**  
->   Usia 11–16 tahun di pesantren adalah masa badai biologis dan emosional. Lonjakan hormon testosteron/estrogen dan pematangan pesat kelenjar seksual (*HPG Axis*) mengubah santri dari anak-anak menjadi *Mukallaf* (pemikul tanggung jawab hukum syariat).
-> * **Krisis Identitas & Beban Adaptasi Asrama 24 Jam:**  
->   Santri remaja menghadapi beban ganda: (1) Menemukan jati diri (*Identity vs Role Confusion*), dan (2) Beradaptasi jauh dari dekapan orang tua (*Homesickness* & stres komunal).
-> * **Peran Musyrif: Bukan Hakim Penghukum, Melainkan Jangkar Penenang (*Emotional Anchor*):**  
->   Saat santri mengalami gejolak emosi atau kebingungan tanda baligh (mimpi basah/haid pertama), musyrif wajib mendampingi dengan bimbingan fiqh thaharah yang santun, memvalidasi perasaannya, dan membimbing penyaluran energi melalui olahraga dan ibadah.
+> * **Kelemahan Paradigma Lama: Pengabaian Realitas Biologis & Tabu Pembahasan Baligh:**  
+>   Banyak lembaga pesantren memperlakukan tanda-tanda pubertas (*Ihtilam & Haidh*) sebagai topik tabu yang memalukan. Santri yang mengalami lonjakan hormon dan kebingungan fisik dibiarkan tanpa bimbingan, sehingga merasa berdosa, cemas, atau mencari informasi yang keliru dari teman sebaya.
+> * **Inovasi Konseptual: Integrasi Fiqh Taklif & Neurosains Endokrin (HPG Axis):**  
+>   TUMBUH membedah masa baligh sebagai anugerah kemuliaan syariat (*Titik Tolak Taklif Syar'i*). Terjadinya aktivasi *Hypothalamic-Pituitary-Gonadal (HPG) Axis* dipahami sebagai sunnatullah biologis yang menuntut pendampingan fiqh thaharah yang santun, penyaluran energi fisik melalui olahraga, serta bimbingan regulasi syahwat (*Ghadhdhul Bashar*).
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks integrasi tahap baligh, 4 Tingkatan Kesadaran Transisi Pubertas (*Maratib al-Idrak*), SOP edukasi baligh dan thaharah pertama, dan etika tata kelola pendampingan *In Loco Parentis* 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET BIOSOSIAL PUBERTAS SANTRI, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-biososial-pubertas-santri-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Biososial: Memahami Gejolak Transisi Baligh di Lingkungan Asrama 24 Jam](#1-kerangka-metodologi-biososial-memahami-gejolak-transisi-baligh-di-lingkungan-asrama-24-jam)
-  - [2. Inkuiri 1: Eksegesis Turats Fiqh Bulugh & Titik Tolak Taklif Syar'i (HR. Abu Dawud No. 4403)](#2-inkuiri-1-eksegesis-turats-fiqh-bulugh--titik-tolak-taklif-syari-hr-abu-dawud-no-4403)
-  - [3. Inkuiri 2: Konvergensi Neurosains Endokrin (Aktivasi HPG Axis & Reorganisasi Sinapsis Otak)](#3-inkuiri-2-konvergensi-neurosains-endokrin-aktivasi-hpg-axis--reorganisasi-sinapsis-otak)
-  - [4. Inkuiri 3: Psikososial Erik Erikson di Asrama: Resolusi Krisis Identitas Melalui Ukhuwah](#4-inkuiri-3-psikososial-erik-erikson-di-asrama-resolusi-krisis-identitas-melalui-ukhuwah)
-  - [5. Inkuiri 4: Mitigasi Homesickness & Stres Komunal Santri Baru Melalui Secure Attachment In Loco Parentis](#5-inkuiri-4-mitigasi-homesickness--stres-komunal-santri-baru-melalui-secure-attachment-in-loco-parentis)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH](#1-formulasi-konseptual-hakikat-transisi-baligh-dan-pendampingan-biososial-santri-tumbuh)
-  - [2. Matriks Integrasi Tahap Baligh, Perubahan Biologis-Emosi, & Intervensi Musyrif Asrama](#2-matriks-integrasi-tahap-baligh-perubahan-biologis-emosi--intervensi-musyrif-asrama)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Transisi Pubertas dan Bahaya Tabu Seksualitas di Pesantren](#1-latar-belakang-masalah-krisis-transisi-pubertas-dan-bahaya-tabu-seksualitas-di-pesantren)
+  - [2. Eksegesis Turats Fiqh Bulugh: Titik Tolak Taklif Syar'i dan Pengangkatan Pena Hisab (HR. Abu Dawud No. 4403)](#2-eksegesis-turats-fiqh-bulugh-titik-tolak-taklif-syari-dan-pengangkatan-pena-hisab-hr-abu-dawud-no-4403)
+  - [3. Konvergensi Neurosains Endokrin: Aktivasi HPG Axis & Reorganisasi Sinaptik Otak Remaja](#3-konvergensi-neurosains-endokrin-aktivasi-hpg-axis--reorganisasi-sinaptik-otak-remaja)
+  - [4. Tinjauan Psikososial: Resolusi Krisis Identitas dan Penataan Kelekatan Asrama (In Loco Parentis)](#4-tinjauan-psikososial-resolusi-krisis-identitas-dan-penataan-kelekatan-asrama-in-loco-parentis)
+  - [5. Kasuistika Lapangan: Kecemasan Santri Mengalami Mimpi Basah Pertama & Resolusi Restoratif](#5-kasuistika-lapangan-kecemasan-santri-mengalami-mimpi-basah-pertama--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Hakikat Transisi Baligh dan Pendampingan Biososial TUMBUH](#1-eksplanasi-teoretis-hakikat-transisi-baligh-dan-pendampingan-biososial-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transisi Pubertas (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-transisi-pubertas-maratib-al-idrak)
   - [3. Protokol Edukasi Baligh & Thaharah Pertama Santri (SOP Pendampingan Ihtilam & Haidh)](#3-protokol-edukasi-baligh--thaharah-pertama-santri-sop-pendampingan-ihtilam--haidh)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Krisis Biososial & Transisi Pubertas](#1-tabel-sintesis-hasil-riset-krisis-biososial--transisi-pubertas)
+  - [4. Prinsip Aksiologis & Etika Tata Kelola Privasi Pengasuhan Baligh 24 Jam](#4-prinsip-aksiologis--etika-tata-kelola-privasi-pengasuhan-baligh-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Krisis Biososial dan Pubertas](#1-tabel-sintesis-temuan-riset-krisis-biososial-dan-pubertas)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Fiqh Bulugh, HPG Axis, & Krisis Identitas](#4-glosarium-teknis-fiqh-bulugh-hpg-axis--krisis-identitas)
+  - [4. Glosarium Istilah Ilmiah & Turats Transisi Pubertas](#4-glosarium-istilah-ilmiah--turats-transisi-pubertas)
 
 ---
 
-# BAGIAN I: RISET BIOSOSIAL PUBERTAS SANTRI, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Biososial: Memahami Gejolak Transisi Baligh di Lingkungan Asrama 24 Jam
+### 1. Latar Belakang Masalah: Krisis Transisi Pubertas dan Bahaya Tabu Seksualitas di Pesantren
 
-Masa remaja (*Murahaqah*) di pesantren adalah fase krusial di mana santri mengalami **Ledakan Perkembangan Multi-Dimensi (*Developmental Surge*)**:
-* Secara biologis, terjadi lonjakan hormon reproduksi dan akselerasi pertumbuhan fisik (*Adolescent Growth Spurt*).
-* Secara neurologis, amigdala dan sistem pencari sensasi berkembang pesat, sementara kendali kognitif korteks prefrontal masih dalam proses penyempurnaan mielinasi.
-* Secara psikososial, santri harus berpisah dari kenyamanan keluarga rumah dan hidup mandiri bersama puluhan teman sebaya di asrama.
-
-Mengabaikan realitas biologis dan psikologis ini akan menyebabkan pengasuh salah mendiagnosis kegelisahan wajar pubertas sebagai "pemberontakan moral". Pendidik TUMBUH memadukan **Fiqh Bulugh** dengan **Neurosains Perkembangan** untuk memberikan pendampingan yang penuh kasih sayang dan terukur.
+Masa pubertas (*Bulugh / Murahaqah*) di lingkungan asrama adalah fase metamorfosis biologis yang paling intens:
+* **Tabu dan Mitos yang Menyesatkan**: Di sebagian pesantren, tanda-tanda kematangan seksual dianggap kotor dan tabu untuk dibicarakan secara ilmiah. Santri yang mengalami mimpi basah (*Ihtilam*) atau haid pertama merasa ketakutan, menyembunyikan pakaian kotornya, dan tidak memahami tata cara mandi wajib (*Ghusl*) yang sah secara syariat.
+* **Gejolak Energi Hormonal Tak Tersalurkan**: Lonjakan hormon testosteron pada santri putra dan estrogen pada santri putri yang tidak diimbangi dengan sarana olahraga dan penyaluran motorik sehat memicu letupan agresi, perkelahian kamar, atau perilaku penyimpangan seksual tertutup.
+* **Keniscayaan Bimbingan Fiqh & Neurosains Terbuka**: Islam adalah agama fitrah yang sangat jelas dan santun dalam menjelaskan hukum thaharah dan kedewasaan biologis (*La Haya'a fid Din*).[^1]
 
 ```mermaid
 flowchart TD
-    subgraph DinamikaBiososialPubertasSantri["DINAMIKA BIOSOSIAL TRANSISI PUBERTAS SANTRI"]
-        Bio["1. DIMENSI BIOLOGIS (HPG AXIS)<br/>• Lonjakan hormon testosteron / estrogen.<br/>• Tanda baligh: Ihtilam (mimpi basah) / Haidh.<br/>• Pertumbuhan fisik cepat & dorongan energi tinggi."]
+    subgraph TransformasiEdukasiBaligh["TRANSFORMASI PENDAMPINGAN PUBERTAS SANTRI"]
+        PolaTabuLama["PANDANGAN TABU & DINGIN (LAMA)<br/>• Baligh dianggap aib yang memalukan.<br/>• Santri cemas & mandi janabah tidak sah.<br/>• Energi hormon meledak menjadi agresi kamar."]
         
-        Psiko["2. DIMENSI PSIKOSOSIAL (ERIKSON)<br/>• Pencarian identitas diri & peran sosial.<br/>• Kebutuhan penerimaan kelompok sebaya (Peer Acceptance).<br/>• Kerentanan homesickness & kecemasan adaptasi."]
+        PolaBimbinganTUMBUH["INTEGRASI FIQH BULUGH & NEUROSAINS (TUMBUH)<br/>• Edukasi Thaharah Mandi Wajib Terbimbing.<br/>• Validasi Perubahan Fisik & Regulasi Syahwat.<br/>• Penyaluran Energi Fisik via Olahraga & Ibadah."]
         
-        Neuro["3. DIMENSI NEUROSAINS (DUAL-SYSTEMS)<br/>• Kematangan amigdala mendahului korteks prefrontal.<br/>• Fluktuasi mood cepat & dorongan eksplorasi risiko.<br/>• Butuh jangkar eksternal pendamping asrama."]
-        
-        Bio <===> Psiko
-        Psiko <===> Neuro
-        Neuro <===> Bio
-        
-        TUMBUH_Response["PENDAMPINGAN HOLISTIK TUMBUH:<br/>Fiqh Bulugh + Edukasi Thaharah + Olahraga Kinestetik + Secure Attachment Musyrif"]
-        
-        Bio & Psiko & Neuro ==> TUMBUH_Response
+        PolaTabuLama ==>|DIREKONSTRUKSI MENJADI| PolaBimbinganTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Fiqh Bulugh & Titik Tolak Taklif Syar'i (HR. Abu Dawud No. 4403)
+### 2. Eksegesis Turats Fiqh Bulugh: Titik Tolak Taklif Syar'i dan Pengangkatan Pena Hisab (HR. Abu Dawud No. 4403)
 
-```mermaid
-graph TD
-    A["Gugatan Vonis Ketidaksiapan (Pihak A):<br/>'Santri usia 12-14 tahun masih anak kecil yang tidak bisa diserahi tanggung jawab syariat!'"]
-    --> B1["Tinjauan Hadits Pengangkatan Pena Taklif (HR. Abu Dawud 4403):<br/>'Rufi'al qalamu 'an tsalatsatin... wa 'anish shabiyyi hatta yahtalima' (Pena catatan dosa diangkat hingga anak mengalami mimpi basah/baligh)."]
-    A --> B2["Tinjauan Fiqh Mazhab Empat tentang Tanda Baligh:<br/>1. Keluarnya mani (Ihtilam), 2. Haidh bagi perempuan, 3. Tumbuhnya rambut kemaluan, atau 4. Mencapai usia 15 tahun qamariyah."]
-    B1 & B2 --> C["Titik Temu Konsensus:<br/>Bulugh adalah gerbang kedewasaan syar'i (Mukallaf); pesantren wajib membimbing santri memikul amanah taklif dengan bertahap dan bijaksana."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap insan yang telah mencapai tanda baligh biologis dinyatakan oleh syariat Islam sebagai mukallaf yang bertanggung jawab penuh atas amal perbuatannya di hadapan Allah SWT.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Santri tingkat wustha/SMP berada tepat pada episentrum transisi *Ihtilam* dan *Haidh*.
-* **Konklusi (*an-Natijah*)**: Maka, pesantren TUMBUH wajib menyusun kurikulum transisi baligh (*Fiqh al-Bulugh*) yang membimbing santri menyucikan diri dan memikul kewajiban syariat dengan bangga dan bahagia.[^1]
-
-#### 📖 Teks Primer Hadits: Hadits Pengangkatan Pena Catatan
-Dari Ali bin Abi Thalib dan Aisyah *radhiyallahu 'anhuma*, Rasulullah SAW bersabda:
+Rasulullah ﷺ menetapkan batas dimulainya akuntabilitas hukum syariat bagi manusia:
 
 $$\text{رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ}$$
 
-*"**Diangkat pena (catatan amal/dosa) dari tiga golongan**: (1) Dari orang yang tidur hingga ia bangun, **(2) Dari anak kecil hingga ia bermimpi basah (baligh)**, dan (3) Dari orang gila hingga ia berakal."* (HR. Abu Dawud No. 4403; Tirmidzi No. 1423; Ibnu Majah No. 2041).[^2]
+*"**Diangkat pena (pencatat amal/dosa) dari tiga golongan: dari orang yang tidur hingga ia terbangun, dari anak kecil hingga ia baligh (mengalami mimpi basah/haid), dan dari orang gila hingga ia berakal sehat**."* (HR. Abu Dawud No. 4403 & At-Tirmidzi No. 1423).[^2]
+
+Imam **Ibnu Qudamah** dalam *Al-Mughni* menegaskan bahwa baligh adalah gerbang kemuliaan manusia memasuki status *Mukallaf*. Pendidik wajib menyambut fase ini dengan pembekalan ilmu fardhu 'ain, bukan dengan cemoohan.[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Neurosains Endokrin (*Aktivasi HPG Axis & Reorganisasi Sinapsis Otak*)
+### 3. Konvergensi Neurosains Endokrin: Aktivasi HPG Axis & Reorganisasi Sinaptik Otak Remaja
 
-Pada fase pubertas, kelenjar hipotalamus melepaskan hormon GnRH (*Gonadotropin-Releasing Hormone*) yang memicu kelenjar pituitari dan gonad memproduksi **Testosteron** pada santri putra dan **Estrogen/Progesteron** pada santri putri. Lonjakan endokrin ini berinteraksi langsung dengan reseptor di otak limbik:
-* Meningkatkan sensitivitas terhadap penghargaan sosial (*Social Reward*) dan validasi teman sebaya.
-* Memicu proses pemangkasan sinapsis (*Synaptic Pruning*) dan mielinasi di korteks prefrontal.
-* Oleh karena itu, kegelisahan motorik santri pubertas bukanlah "kenakalan", melainkan kebutuhan biologis untuk bergerak dan beraktivitas kinestetik.[^3]
-
----
-
-### 4. Inkuiri 3: Psikososial Erik Erikson di Asrama: Resolusi Krisis Identitas Melalui Ukhuwah
-
-Teori perkembangan psikososial Erik Erikson menetapkan bahwa masa remaja adalah panggung **Krisis Identitas vs Kebingungan Peran (*Identity vs Role Confusion*)**:
-* Santri asrama bertanya pada dirinya: *"Siapakah aku? Apa tujuanku mondok? Apakah aku diterima oleh teman-temanku?"*
-* Jika iklim asrama diwarnai perundungan dan feodalisme senior, santri akan mengalami disorientasi peran, menjadi penindas baru, atau menarik diri dalam depresi.
-* Sebaliknya, jika asrama dipenuhi budaya **Ukhuwah Islamiyyah, Apresiasi Bakat Unik, dan Keteladanan Qudwah**, santri berhasil membangun identitas diri yang kokoh sebagai **Insan Pembelajar Beradab**.[^4]
+Sains endokrinologi dan neurobiologi (Dahl, 2004; Blakemore, 2012) membuktikan mekanisme biologis pubertas:
+* Aktivasi **Hypothalamic-Pituitary-Gonadal (HPG) Axis** memicu pelepasan hormon gonadotropin (*GnRH*), meningkatkan kadar hormon seks hingga 10–20 kali lipat.
+* Lonjakan hormon ini memicu penataan ulang sirkuit saraf otak (*Synaptic Pruning & Myelination*) di area pencari penghargaan sosial (*Ventral Striatum*), yang membuat santri remaja sangat peka terhadap status diri dan penerimaan teman sekamar.[^4]
 
 ---
 
-### 5. Inkuiri 4: Mitigasi Homesickness & Stres Komunal Santri Baru Melalui *Secure Attachment In Loco Parentis*
+### 4. Tinjauan Psikososial: Resolusi Krisis Identitas dan Penataan Kelekatan Asrama (In Loco Parentis)
+
+Dalam teori ekologi perkembangan **Urie Bronfenbrenner** (1979), santri di asrama mengalami pergantian mikrosistem secara drastis:
+* Ketiadaan orang tua kandung menuntut musyrif bertindak sebagai **Figur Kelekatan Pengganti (*Secure Attachment Figure*)**.
+* Musyrif yang hangat, responsif, dan adil memberikan rasa aman emosional (*Emotional Haven*) yang memungkinkan santri melewati krisis identitas tanpa terjerumus dalam kenakalan remaja.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Kecemasan Santri Mengalami Mimpi Basah Pertama & Resolusi Restoratif
+
+* **Studi Kasus: Santri Putra Usia 13 Tahun Menolak Shalat Subuh karena Takut Celananya Najis**  
+  * **Dilema**: Santri bangun subuh dalam keadaan ketakutan, menolak keluar kamar dan menangis karena mendapati celananya basah dan lengket untuk pertama kalinya dalam hidupnya.
+  * **Pola Lama**: Musyrif meneriaki santri sebagai pemalas dan menyiramnya dengan air.
+  * **Resolusi Restoratif TUMBUH**: Musyrif mendekati santri secara privat, berbicara empat mata dengan ramah: *"Mabruk (Selamat), ananda telah memasuki usia baligh, usia kemuliaan di hadapan Allah"*. Musyrif membimbing santri tata cara mandi wajib (*Ghusl*) langkah demi langkah, meminjamkan sarung bersih, dan menjelaskan fiqh thaharah secara santun. Santri merasa tenang, harga dirinya terlindungi, dan ia bangga melangkah ke masjid untuk shalat berjamaah.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Hakikat Transisi Baligh dan Pendampingan Biososial TUMBUH
+
+Ekosistem TUMBUH merumuskan pendampingan pubertas ke dalam **Arsitektur Tiga Sayap Biososial (*Arkan ar-Ri'ayah al-Bulughiyyah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph MitigasiHomesicknessSantri["PROTOKOL MITIGASI HOMESICKNESS & ADAPTASI MUKIM"]
-        Pemisahan["1. FASE TRANSISI PEMISAHAN (MINGGU 1–4)<br/>Santri baru mengalami keterkejutan budaya, rindu rumah, & tangis malam."]
+    subgraph ArsitekturPendampinganBalighTUMBUH["ARSITEKTUR PENDAMPINGAN TRANSISI BIOSOSIAL BALIGH"]
         
-        KehadiranMusyrif["2. RESPON KEHADIRAN HANGAT (IN LOCO PARENTIS)<br/>Musyrif duduk mendengarkan di samping ranjang, menepuk pundak, & mendoakan."]
+        B1["1. DIMENSI BIOLOGIS-ENDOKRIN (HPG Axis & Jasad)<br/>• Menjelaskan tanda fisik baligh secara ilmiah & syar'i.<br/>• Fasilitas sanitasi air bersih memadai & nutrisi pembentukan tulang/otot."]
         
-        HalaqahKamar["3. HALAQAH UKHUWAH & PERMAINAN KELOMPOK SEBAYA<br/>Membangun rasa saling memiliki (Sense of Belonging) antar-teman sekamar."]
+        B2["2. DIMENSI PSIKOSOSIAL-EMOSIONAL (Krisis Identitas & Ukhuwah)<br/>• Menghadirkan figur musyrif In Loco Parentis yang hangat & mendengarkan.<br/>• Menolak perundungan fisik; membina kultur saling menghormati di kamar."]
         
-        ResiliensiTumbuh["4. SANTRI MENCAPAI ADAPTASI AMAN (SECURE ATTACHMENT)<br/>Santri merasa asrama adalah rumah keduanya yang penuh kasih sayang."]
+        B3["3. DIMENSI SYAR'I-TAKLIF (Akuntabilitas Ibadah Mukallaf)<br/>• Pengajaran Fiqh Thaharah & Mandi Janabah aplikatif tanpa rasa malu.<br/>• Penanaman adab menjaga pandangan (Ghadhdhul Bashar) & kesucian hati."]
         
-        Pemisahan --> KehadiranMusyrif --> HalaqahKamar --> ResiliensiTumbuh
+        B1 <===> B2 <===> B3
     end
 ```
 
----
-
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Pembahasan Mimpi Basah dan Haidh Itu Tabu Dibicarakan di Pesantren"
-* **Pihak A (Sudut Pandang Tabu Kultural)**:  
-  *"Membicarakan mimpi basah dan haidh itu saru dan memalukan; biarkan santri tahu sendiri!"*
-* **Tinjauan Sudut Pandang Sunnah Sayyidah Aisyah RA**:  
-  Sayyidah Aisyah *radhiyallahu 'anha* memuji para wanita Anshar: *"Sebaik-baik wanita adalah wanita Anshar; rasa malu tidak menghalangi mereka untuk mendalami ilmu agama (Tafaqquh fid-Din)"* (HR. Bukhari No. 130). Mengabaikan edukasi baligh membuat santri shalat dalam keadaan junub tanpa mandi wajib karena tidak tahu ilmunya. Edukasi baligh adalah fardhu 'ain.[^5]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Santri yang Menangis Rindu Rumah Harus Dibiarkan Agar Cepat Mandiri?
-* **Pihak A (Sudut Pandang Kekerasan Dingin / Tough Love Ekstrem)**:  
-  *"Kalau santri menangis homesick, biarkan saja jangan dipedulikan biar mentalnya baja!"*
-* **Tinjauan Sudut Pandang Neurosains Trauma & Keterikatan Aman**:  
-  Membiarkan anak menangis panik sendirian tanpa empati (*Neglect*) membanjiri otaknya dengan hormon kortisol beracun yang memicu trauma psikologis dan fobia asrama. Kehadiran musyrif yang memeluk dan menenangkan justru mengaktifkan hormon oksitosin yang membangun **Resiliensi Emosi Sejati**.[^6]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Energi Pubertas Harus Disalurkan Melalui Olahraga dan Seni Islami?
-* **Pihak A (Sudut Pandang Asrama Statis)**:  
-  *"Santri pubertas harus disuruh duduk mengaji terus 24 jam agar tidak berpikir macam-macam!"*
-* **Resolusi Sudut Pandang Keseimbangan Raga (Sublimasi Energi)**:  
-  Hormon testosteron menghasilkan lonjakan energi motorik. Jika santri hanya disuruh duduk diam, energi tersebut akan meledak menjadi perkelahian asrama atau pelampiasan negatif. Penyaluran melalui olahraga sunnah (futsal, memanah, renang, bela diri) dan seni kaligrafi/hadrah adalah mekanisme **Sublimasi Sehat (*at-Tasamiyul Harki*)** yang diajarkan Islam.[^7]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri R (usia 12 tahun) terbangun pukul 03.00 WIB dalam keadaan kasurnya basah karena mimpi basah pertamanya; ia ketakutan mengira terkena penyakit kutukan dan menyembunyikan celananya di bawah lemari. Musyrif kamar menemukannya sedang menangis di pojok kamar mandi.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Musyrif menerapkan *Protokol Transisi Baligh TUMBUH*. Musyrif tersenyum hangat, menepuk pundak Santri R dan berkata: *"Alhamdulillah, selamat ya R! Kamu sekarang sudah baligh, sudah jadi pemuda Islam yang mulia di hadapan Allah"*. Musyrif membimbing tata cara mandi wajib (*Ghusl*) langkah demi langkah secara privat, mencucikan pakaiannya bersama, dan memberikan sarung bersih. Santri R merasa sangat lega, bangga menjadi mukallaf, dan shalat Subuh berjamaah dengan khusyu'.[^8]
+#### 🔬 Pembahasan Mendalam Tiga Sayap Pendampingan:
+1. **Sayap Biologis**: Memberikan pemahaman bahwa perubahan suara, pertumbuhan bulu fisik, mimpi basah, dan menstruasi adalah tanda kesehatan fungsi raga ciptaan Allah SWT.[^7]
+2. **Sayap Psikososial**: Mengawal stabilitas emosi santri dari perasaan terasing atau minder melalui bimbingan kelompok kamar yang solid.[^8]
+3. **Sayap Syariat**: Membekali santri dengan rukun dan syarat sahnya thaharah agar seluruh ibadah shalat dan tilawah Al-Qur'annya bernilai sah di hadapan Allah SWT.[^9]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transisi Pubertas (Maratib al-Idrak)
 
----
-
-### 1. Formulasi Konseptual: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penetapan Fase Baligh Sebagai Tahap Kemuliaan Mukallaf**:  
-   Menyambut transisi pubertas santri sebagai anugerah kedewasaan syar'i yang wajib dirayakan dengan pendidikan fiqh thaharah yang santun, ilmiah, dan memuliakan rasa percaya diri santri.
-
-2. **Kewajiban Pendidik Sebagai Jangkar Emosional Pengganti Orang TUA (IN Loco Parentis)**:  
-   Seluruh musyrif wajib hadir memberikan kehangatan, empati, dan mendengarkan keluh kesah santri yang mengalami homesickness atau kegelisahan pubertas, mengharamkan pengabaian emosional (cold neglect).
-
-3. **Penerapan Mekanisme Sublimasi Energi Biologis Melalui Olahraga & Seni**:  
-   Mewajibkan penyediaan sarana olahraga kinestetik dan aktivitas luar ruang yang cukup setiap hari guna menyalurkan lonjakan hormon pubertas menjadi kesehatan raga dan ketangkasan adab.
-
-4. **Perlindungan Privasi Dari Rasa Malu Transisi Biologis**:  
-   Menjamin kerahasiaan peristiwa mimpi basah (ihtilam) atau haidh pertama santri, melarang keras candaan memalukan di antara sesama santri maupun asatidz.
-
-
----
-
-### 2. Matriks Integrasi Tahap Baligh, Perubahan Biologis-Emosi, & Intervensi Musyrif Asrama
-
-| Dimensi Pubertas | Perubahan Fisiologis & Emosi | Manifestasi Perilaku di Asrama | Intervensi Terstruktur Musyrif TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Biologis / Fiqh** | Ihtilam (mimpi basah) pada putra; Haidh pada putri; perubahan suara. | Bingung cara mandi junub; malu pakaiannya basah; cemas darah haidh. | **Bimbingan Fiqh Privat**: Edukasi rukun mandi wajib, ketersediaan pembalut/sarung bersih.[^9] |
-| **Neurosains Endokrin** | Lonjakan testosteron/estrogen; amigdala hiperaktif; energi motorik tinggi. | Cepat tersulut emosi; ingin unjuk kekuatan fisik; suka bercanda fisik. | **Sublimasi Kinestetik**: Olahraga sunnah harian 60 menit; latihan pernapasan & de-eskalasi emosi. |
-| **Psikososial Remaja** | Krisis identitas; pencarian penerimaan teman; kerentanan *homesickness*. | Membentuk kelompok klik eksklusif; rindu rumah saat malam; murung. | **Halaqah Ukhuwah Kamar**: Dialog hati ke hati, pendampingan tidur malam, dan aktivitas kolaboratif. |
-
----
-
-### 3. Protokol Edukasi Baligh & Thaharah Pertama Santri (*SOP Pendampingan Ihtilam & Haidh*)
+Transformasi kedewasaan menyikapi pubertas berlangsung melalui **Empat Tingkatan Kesadaran Transisi Pubertas (*Maratib al-Idrak al-Bulughiy*)**:
 
 ```mermaid
 flowchart TD
-    SOP_B1["1. IDENTIFIKASI AWAL TRANSISI BALIGH (PRIVATE OBSERVATION)<br/>Musyrif/Musyrifah mengidentifikasi santri yang mengalami ihtilam/haidh pertama."]
-    
-    SOP_B2["2. UCAPAN TAHNI'AH & VALIDASI EMPATIK 1-ON-1<br/>Menghilangkan rasa takut/malu santri: 'Alhamdulillah, kamu sekarang sudah dewasa'."]
-    
-    SOP_B3["3. BIMBINGAN PRAKTIK MANDI WAJIB (GHUSL) SESUAI SUNNAH<br/>Mengajarkan niat, membasuh kemaluan, wudhu sempurna, meratakan air ke rambut & tubuh."]
-    
-    SOP_B4["4. EDUKASI TANGGUNG JAWAB SYARIAT (MUKALLAF AWARENESS)<br/>Menjelaskan kewajiban shalat 5 waktu tanpa putus & penjagaan pandangan (Ghaddul Bashar)."]
-    
-    SOP_B1 --> SOP_B2 --> SOP_B3 --> SOP_B4
+    subgraph TingkatanKesadaranPubertas["EMPAT TINGKATAN KESADARAN TRANSISI PUBERTAS (MARATIB AL-IDRAK)"]
+        
+        P1_Level["TINGKAT 1: KESADARAN BIOLOGIS AWAL (Al-Idrak al-Hissiy al-Awwal)<br/>• Menyadari perubahan fisik tubuh sendiri & mampu menjaga kebersihan pribadi.<br/>• Mampu melaporkan tanda baligh kepada musyrif/musyrifah tanpa rasa takut."]
+        
+        P2_Level["TINGKAT 2: KESADARAN FIQH THAHARAH MANDIRI (Al-Idrak at-Thahariy)<br/>• Menguasai tata cara mandi wajib (Ghusl) secara sempurna & mandiri.<br/>• Memahami hukum halal-haram dasar terkait aurat & batasan pergaulan."]
+        
+        P3_Level["TINGKAT 3: KESADARAN REGULASI SYAHWAT & EMOSI (Al-Idrak al-'Afif)<br/>• Mampu mengendalikan pandangan mata (Ghadhdhul Bashar) & menjaga kehormatan diri.<br/>• Menyalurkan luapan energi pubertas ke dalam olahraga, seni kaligrafi, & muthala'ah."]
+        
+        P4_Level["TINGKAT 4: KESADARAN KEMATANGAN MUKALLAF PARIPURNA (Al-Idrak al-Mukallaf al-Kamil)<br/>• Menghayati status mukallaf sebagai amanah pengabdian & kemuliaan di hadapan Allah.<br/>• Menjadi Live Qudwah yang membimbing adik kelas memasuki masa pubertas dengan santun."]
+        
+        P1_Level ==> P2_Level ==> P3_Level ==> P4_Level
+    end
 ```
 
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Kesadaran Fisik Menuju Kemandirian Thaharah)**: Santri mula-mula bingung melihat perubahan tubuhnya. Pada tingkatan kedua, santri terampil bersuci secara mandiri dan memahami kewajiban ibadahnya.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Bersuci Menuju Regulasi Kesucian Batin 'Iffah)**: Pada tingkatan ketiga, santri memiliki rem moral: menjaga kehormatan diri, menjauhi pornografi dan pergaulan bebas, serta menyalurkan energinya ke aktivitas produktif.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Mukallaf Kamil)**: Pada tingkatan tertinggi, santri tampil sebagai pribadi dewasa yang berwibawa: berakhlak mulia, menjaga pandangan, dan menjadi teladan kesucian moral bagi generasi muda.[^10]
+
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 3. Protokol Edukasi Baligh & Thaharah Pertama Santri (SOP Pendampingan Ihtilam & Haidh)
+
+TUMBUH menetapkan **Protokol Edukasi Baligh Santri**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolEdukasiBaligh["SOP PENDAMPINGAN BALIGH & THAHARAH PERTAMA SANTRI"]
+        Orientasi["1. EDUKASI PREVENTIF (Awal Tahun): Materi Fiqh Thaharah & Biologi Reproduksi Santun"]
+        --> Identifikasi["2. DETEKSI PRIVAT: Santri yang Mengalami Ihtilam/Haid Pertama Menghadap Konselor"]
+        --> PanduMandi["3. PANDUAN GHUSL: Membimbing Rukun Mandi Wajib & Menyediakan Perlengkapan Thaharah Bersih"]
+        --> Penguatan["4. PENGUATAN MORAL: Mendoakan Keberkahan Usia Taklif & Penegasan Tanggung Jawab Ibadah"]
+    end
+```
+
+Protokol ini menghadirkan pengalaman spiritual yang membahagiakan dan berkesan positif bagi masa depan santri.[^11]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Krisis Biososial & Transisi Pubertas
+### 4. Prinsip Aksiologis & Etika Tata Kelola Privasi Pengasuhan Baligh 24 Jam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Status Hukum** | *Ahkamut Taklif* | HR. Abu Dawud No. 4403 (Pena Taklif Diangkat) | Steinberg (2014), *Age of Opportunity* | Membimbing santri memikul tanggung jawab ibadah dengan bahagia. |
-| **Fisiologi Hormon** | *Bulugh wa Ihtilam* | QS. An-Nur: 59 (*Wa Idza Balaghal Athfalu*) | Blakemore (2018), *Inventing Ourselves* | Menyalurkan energi pubertas melalui olahraga kinestetik terarah. |
-| **Pencarian Identitas**| *Identity Formation* | QS. Luqman: 17–18 (Wasiat Menjaga Adab Remaja) | Erikson (1968), *Identity: Youth and Crisis* | Membangun iklim asrama yang menerima dan menghargai bakat santri. |
-| **Keterikatan Pengasuh**| *In Loco Parentis* | Hadits Kasih Sayang Anak (HR. Bukhari 5997) | Bowlby (1988), *A Secure Base* | Musyrif hadir sebagai sosok pengganti orang tua yang menenangkan. |
-| **Edukasi Thaharah** | *Tafaqquh fid-Din* | Atsar Sayyidah Aisyah RA (HR. Bukhari 130) | WHO (2020), *Adolescent Health Guidelines* | Menghilangkan rasa tabu dalam mengajarkan fiqh bersuci secara syar'i. |
+Transisi pubertas melahirkan prinsip etika tata kelola kelembagaan:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaBaligh["PRINSIP AKSIOLOGIS PENGASUHAN TRANSISI BALIGH"]
+        
+        B_E1["1. KERAHASIAAN MUTLAK PRIVASI SANTRI (Strict Privacy Protection)<br/>• Mengharamkan pengumuman atau lelucon mengenai santri yang baru baligh.<br/>• Menyediakan bilik kamar mandi yang tertutup rapat, bersih, & aman."]
+        
+        B_E2["2. FASILITASI PENYALURAN ENERGI MOTORIK (Motor Energy Outlets)<br/>• Mewajibkan jadwal olahraga raga rutin (futsal, panahan, beladiri) 3x sepekan.<br/>• Mencegah kejenuhan energi fisik yang berpotensi memicu agresi kamar."]
+        
+        B_E3["3. PENDAMPINGAN INTIM IN LOCO PARENTIS (Empathetic Mentoring)<br/>• Musyrif/musyrifah menjadi tempat curhat yang aman tanpa menghakimi.<br/>• Membimbing santri mengatasi kecemasan pubertas dengan kasih sayang."]
+        
+        B_E1 <===> B_E2 <===> B_E3
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Fasilitas Sanitasi Khusus Putri**: Menyediakan ruang pembuangan dan pembalut higienis yang memadai di asrama santriwati.
+2. **Klinik Konseling Kesehatan Reproduksi Santun**: Mengadakan sesi tanya-jawab kesehatan remaja secara terpisah dan privat dengan dokter muslim.[^12]
+3. **Larangan Hukuman Fisik Bagi Santri yang Sedang Haid/Pusing Pubertas**: Memberikan dispensasi istirahat yang manusiawi sesuai fiqh syariat.[^13]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Pendampingan transisi pubertas yang saintifik dan beradab ini membawa dampak peradaban yang agung:
+
+* **Mencetak Generasi Muda yang Memiliki Kematangan Emosi dan Seksual Sehat**:  
+  Santri yang dibimbing secara benar sejak awal masa balighnya akan terbebas dari penyimpangan seksual, memiliki kontrol diri (*'Iffah*) yang kokoh, dan siap membangun keluarga sakinah di masa depan.
+* **Menghilangkan Kecemasan dan Trauma Pubertas di Pesantren**:  
+  Dengan menghilangkan stigma tabu dan menggantinya dengan edukasi fiqh thaharah yang santun, pesantren menjadi rumah kedua yang paling aman dan membahagiakan bagi anak remaja.
+* **Meneguhkan Kesempurnaan Ajaran Syariat Islam**:  
+  Islam membuktikan dirinya sebagai panduan hidup komprehensif yang memuliakan manusia dalam setiap jengkal tahapan biologis dan spiritualnya.[^14]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Krisis Biososial dan Pubertas
+
+| Dimensi Parameter | Pola Pengasuhan Tabu Tradisional | Pola Pendidikan Seks Bebas Barat | **Paradigma Pendampingan Biososial TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status Baligh** | Dianggap aib kotor & tabu dibahas.| Pematangan biologis bebas nilai. | **Gerbang Kemuliaan Mukallaf & Ibadah.**| HR. Abu Dawud No. 4403; Dahl (2004). | Edukasi fiqh thaharah & biologi santun. |
+| **Sistem Hormon** | Diabaikan; emosi remaja dicap nakal.| Menuruti nafsu seksual tanpa batas.| **Aktivasi HPG Axis & Regulasi 'Iffah.**| Blakemore (2012); Ibn Qudamah. | Penyaluran energi motorik via olahraga. |
+| **Penanganan Mimpi**| Dibiarkan bingung; mandi wajib salah.| Dianggap aktivitas rekreasional hewani.| **Bimbingan Ghusl Privat & Tahiyyah Baligh.**| Fiqh *Thaharah*; Al-Ghazali. | Bilik mandi tertutup & bimbingan rukun ghusl. |
+| **Peran Pengasuh** | Hakim penuduh yang mencurigai. | Penonton pasif netral moral. | **Figur Kelekatan Aman (*In Loco Parentis*).**| Bronfenbrenner (1979); KH. Hasyim Asy'ari.| Konseling hangat & pendampingan dekat. |
+| **Profil Karakter** | Jiwa cemas, berdosa, / menyimpang.| Individu hedonistik permisif. | **Insan Adabi Mukallaf yang Menjaga Kesucian.**| QS. Al-Mu'minun: 5–7; Al-Attas. | Berwibawa, bersih raga, & suci batin. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail**. (2002). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (2009). *Sunan Abi Dawud*. Damaskus: Dar ar-Risalah.
-4. **An-Nawawi, Muhyiddin Abu Zakariya Yahya bin Syaraf**. (1994). *Al-Majmu' Syarh al-Muhadzdzab*. Kairo: Dar al-Hadits.
-5. **Blakemore, S. J.**. (2018). *Inventing Ourselves: The Secret Life of the Teenage Brain*. New York: PublicAffairs.
-6. **Bowlby, J.**. (1988). *A Secure Base: Parent-Child Attachment and Healthy Human Development*. New York: Basic Books.
-7. **Erikson, E. H.**. (1968). *Identity: Youth and Crisis*. New York: W. W. Norton & Company.
-8. **Steinberg, L.**. (2014). *Age of Opportunity: Lessons from the New Science of Adolescence*. Boston: Houghton Mifflin Harcourt.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (1430 H). *Sunan Abi Dawud*. Riyadh: Dar ash-Shiddiq.
+3. **Ibnu Qudamah, Muwaffaquddin Abdullah bin Ahmad**. (1417 H). *Al-Mughni fi Fiqh al-Imam Ahmad bin Hanbal*. Kairo: Hajar li ath-Thiba'ah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Asrar ath-Thaharah & Kitab Kasr asy-Syahwatayn). Beirut: Dar al-Ma'rifah.
+5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+6. **Dahl, R. E.**. (2004). *Adolescent brain development: a period of vulnerabilities and opportunities*. Annals of the New York Academy of Sciences, 1021(1), 1–22.
+7. **Blakemore, S. J.**. (2012). *Development of the social brain in adolescence*. Journal of the Royal Society of Medicine, 105(3), 111–116.
+8. **Bronfenbrenner, U.**. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Cambridge: Harvard University Press.
 9. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
-10. **World Health Organization**. (2020). *Guidelines on Adolescent Health and Development*. Geneva: WHO.
+10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+11. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+12. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab*, Kitab *at-Thaharah*, Jilid II, hlm. 140–160.  
-[^2]: Sunan Abi Dawud No. 4403, Kitab *al-Hudud*, Bab *fi al-Majnun Yasriqu aw Yushibu Haddan*.  
-[^3]: Blakemore, S. J. (2018), *Inventing Ourselves*, PublicAffairs, hlm. 45–80.  
-[^4]: Erikson, E. H. (1968), *Identity: Youth and Crisis*, Norton, hlm. 120–155.  
-[^5]: Shahih al-Bukhari No. 130, Kitab *al-'Ilm*, Bab *al-Haya' fil 'Ilm*.  
-[^6]: Bowlby, J. (1988), *A Secure Base*, Basic Books, hlm. 35–60.  
-[^7]: Sapolsky, R. M. (2017), *Behave*, Penguin Press, hlm. 150–185.  
-[^8]: Laporan Studi Kasus Bimbingan Baligh Pertama Asrama Wustha, Divisi Pengasuhan TUMBUH, 2026.  
-[^9]: Manual Standar Operasional Prosedur Edukasi Baligh & Thaharah Asrama, Komite Tarbiyah TUMBUH, 2026.
+[^1]: Riset Pendampingan Biososial dan Transisi Baligh Pesantren TUMBUH, *Kritik atas Tabu Seksualitas dan Penelantaran Remaja*, 2026.  
+[^2]: *Sunan Abi Dawud*, Kitab al-Hudud, Hadits No. 4403.  
+[^3]: Ibnu Qudamah, *Al-Mughni*, Jilid 6, *Kitab al-Hajr wa Ahkam al-Bulugh*, hlm. 590–625.  
+[^4]: Dahl, R. E. (2004), *Annals of the New York Academy of Sciences*, hlm. 1–22; Blakemore, S. J. (2012), *Journal of the Royal Society of Medicine*, hlm. 111–116.  
+[^5]: Bronfenbrenner, U. (1979), *The Ecology of Human Development*, hlm. 45–80.  
+[^6]: Dokumentasi Pendampingan Kasus Ihtilam Pertama Santri Baru PBIS TUMBUH, 2026.  
+[^7]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 160–195.  
+[^8]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Asrar ath-Thaharah*, hlm. 110–145.  
+[^9]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 38–65.  
+[^10]: Matriks Tingkatan Kesadaran Transisi Pubertas (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Bimbingan Ihtilam dan Haidh Pertama Pesantren TUMBUH, 2026.  
+[^12]: Petunjuk Teknis Layanan Kesehatan dan Sanitasi Asrama Santri TUMBUH, 2026.  
+[^13]: Standar Perlindungan Kesehatan Reproduksi dan Hak Istirahat Santriwati TUMBUH, 2026.  
+[^14]: Deklarasi Pemuliaan Transisi Baligh Insan Dewan Riset Pendidikan TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Fiqh Bulugh, HPG Axis, & Krisis Identitas
+### 4. Glosarium Istilah Ilmiah & Turats Transisi Pubertas
 
-1. **Bulugh (الْبُلُوغُ)**: Batas usia pencapaian kedewasaan biologis dan akal budi di mana seseorang mulai dibebani tanggung jawab hukum syariat (*Mukallaf*).
-2. **Ihtilam (الْإِحْتِلَامُ)**: Peristiwa keluarnya air mani saat tidur (mimpi basah) yang menjadi tanda biologis utama baligh bagi remaja putra.
-3. **Mukallaf (الْمُكَلَّفُ)**: Orang yang telah baligh dan berakal sehat yang wajib menjalankan perintah dan menjauhi larangan syariat Islam.
-4. **HPG Axis (Hypothalamic-Pituitary-Gonadal Axis)**: Rangkaian interaksi kelenjar hormonal utama tubuh yang mengontrol perkembangan pubertas dan fungsi reproduksi.
-5. **Identity vs Role Confusion**: Tahap kelima perkembangan psikososial Erikson di mana remaja berjuang merumuskan identitas diri, nilai hidup, dan peran sosialnya.
-6. **In Loco Parentis**: Kedudukan moral dan hukum musyrif asrama sebagai figur pengganti orang tua yang memberikan pengasuhan, perlindungan, dan kasih sayang.
-7. **Homesickness**: Reaksi kecemasan dan kesedihan emosional yang dialami santri baru akibat pemisahan dari rumah dan keluarga.
-8. **Sublimasi Kinestetik**: Pengalihan dorongan energi biologis pubertas menuju aktivitas fisik yang positif seperti olahraga sunnah dan karya seni.
-9. **Synaptic Pruning**: Proses neurobiologis pemangkasan koneksi saraf yang tidak terpakai di otak remaja guna meningkatkan efisiensi kerja otak.
-10. **Secure Base (Landasan Aman)**: Sosok pendidik yang stabil dan hangat yang memberikan rasa aman bagi santri untuk bereksplorasi dan belajar di pesantren.
+1. **Bulugh (الْبُلُوغُ)**: Pencapaian kematangan biologis dan berfungsinya sistem reproduksi pada manusia yang menandai dimulainya kewajiban hukum syariat (*Taklif*).
+2. **Ihtilam (الإِحْتِلَامُ)**: Peristiwa keluarnya air mani saat tidur (mimpi basah) yang menjadi salah satu tanda fisik sahnya status baligh bagi remaja putra.
+3. **Ghusl (الْغُسْلُ)**: Mandi wajib dengan membasahi seluruh anggota badan menggunakan air suci mensucikan untuk menghilangkan hadats besar.
+4. **HPG Axis (Hypothalamic-Pituitary-Gonadal Axis)**: Sistem hormonal utama di tubuh yang mengatur pematangan biologis, lonjakan hormon seksual, dan transisi pubertas.
+5. **Mukallaf (الْمُكَلَّفُ)**: Seseorang yang telah baligh dan berakal sehat yang dikenai kewajiban menjalankan perintah syariat dan menjauhi larangan-Nya.
+6. **In Loco Parentis**: Prinsip hukum dan etika pengasuhan di mana pihak pesantren bertindak sebagai orang tua pengganti yang bertanggung jawab melindungi kesejahteraan santri.
+7. **'Iffah (الْعِفَّةُ)**: Kebajikan moral Islam berupa kemampuan menjaga kehormatan diri, menahan syahwat, dan memelihara kesucian batin.
+8. **Ghadhdhul Bashar (غَضُّ الْبَصَرِ)**: Perintah syariat untuk menundukkan dan menjaga pandangan mata dari hal-hal yang diharamkan demi menjaga kesucian kalbu.
+9. **Synaptic Pruning**: Proses penyempurnaan jaringan saraf di otak remaja di mana sinapsis yang jarang digunakan dipangkas agar fungsi otak menjadi lebih efisien.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang berhasil menavigasi krisis pubertas dengan selamat, memiliki kematangan emosi, dan berakhlak mulia.

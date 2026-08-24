@@ -1,234 +1,273 @@
-# P1-03-07: SINTESIS FILOSOFIS HUMAN DEVELOPMENT DAN GRAND CHARTER TRAJEKTORI PERTUMBUHAN SANTRI
-## *Monograf Terpadu: Sintesis Komprehensif 6 Pilar Perkembangan Jiwa (Tazkiyatun Nafs, Fase Usia Marahil al-'Umr, Jenjang J1–J4, Integrasi CASEL SEL, Krisis Biososial Pubertas, & Puncak Aktualisasi Insan Adabi Tahap 7), Matriks Komparasi 4 Mazhab Barat vs TUMBUH, Deklarasi Zero Tolerance Stagnasi Punitif, serta Jembatan Epistemologis Menuju Sub-Domain 04 Education*
+# P1-03-07: SINTESIS FILOSOFIS PERKEMBANGAN INSAN PEMBELAJAR (SYNTHESIS OF HUMAN DEVELOPMENT)
+## *Monograf Riset Akademik: Sintesis Komprehensif 6 Pilar Perkembangan Jiwa, Matriks Komparasi 4 Mazhab Psikologi Barat vs Epistemologi Islam, Piagam Perlindungan Hak Bertumbuh, Serta Jembatan Filosofis Menuju Sub-Domain 04 Education*
 
-**Nomor Identifikasi**: `P1-03-07/MONOGRAF-TERPADU-SINTESIS-HUMAN-DEVELOPMENT/2026`  
-**Domain**: `01 Philosophy` > `03 Human Development`  
-**Klasifikasi Naskah**: *Comprehensive Synthesis Monograph* (Monograf Sintesis Filosofis & Piagam Baku Kelembagaan)  
+**Nomor Identifikasi**: `P1-03-07/MONOGRAF-RISET-SINTESIS-HUMAN-DEVELOPMENT/2026`  
+**Domain**: `01 Philosophy` > `03 Human Development` (Sub-Modul 07: *Synthesis of Human Development*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Filsafat Perkembangan Manusia (*Philosophy of Human Development*), Teologi Pendidikan Islam (*Tazkiyah & Ta'dib*), Psikologi Perkembangan Integratif, Tata Kelola Pengasuhan Pesantren 24 Jam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kesatuan Utuh 6 Pilar Human Development Ekosistem TUMBUH:**  
->   Pertumbuhan santri bukanlah proses mekanis yang terpisah-pisah, melainkan orkestrasi 6 dimensi yang menyatu:  
->   1. **P1-03-01 (Tazkiyatun Nafs):** Poros spiritual pembersihan kalbu (*Takhalliy*), penghiasan adab (*Tahalliy*), dan pembiasaan 66 hari menuju watak kedua (*Tajalliy*).  
->   2. **P1-03-02 (Fase Marahil al-'Umr):** Pembedaan kebutuhan biologis-emosional jenjang MTs (awal pubertas/limbik) vs jenjang MA (maturasi nalar/PFC).  
->   3. **P1-03-03 (Jenjang Kemandirian TUMBUH (J1–J4) J1–J4):** Lintasan kemandirian adab bertahap (*Tadarruj & Scaffolding*) menuju kepemimpinan mandiri asrama.  
->   4. **P1-03-04 (Integrasi SEL):** Penerjemahan adab ke dalam 5 kecerdasan sosio-emosional nyata, penguatan sirkuit empati otak (*ACC*), dan budaya *Zero Bullying*.  
->   5. **P1-03-05 (Krisis Biososial Pubertas):** Pendampingan transisi baligh (*Ihtilam & Haidh*), mitigasi *homesickness*, dan sublimasi energi hormon via olahraga kinestetik.  
->   6. **P1-03-06 (Puncak Insan Adabi Tahap 7):** Pembentukan kader *Mushlih* peradaban yang memadukan spiritualitas, sains, dan kepemimpinan khidmah umat.
-> * **Posisi TUMBUH vs Mazhab Barat:**  
->   TUMBUH menolak reduksionisme mekanis Behaviorisme Skinner, menolak intelektualisme kering Piagetian, dan melampaui humanisme sekuler Carl Rogers dengan menancapkan **Poros Tauhid, Ma'rifatullah, dan Akuntabilitas Akhirat**.
-> * **Piagam Perlindungan Hak Bertumbuh Santri (Zero Tolerance):**  
->   Lembaga menyatakan **HARAM DAN BATAL** segala bentuk tindakan yang mematikan pertumbuhan santri: pemukulan fisik, pembentakan, pelabelan permanen, perangkingan kelas toksik, dan penelantaran krisis transisi.
+> * **Konsolidasi Enam Pilar Kajian Human Development:**  
+>   Sub-Domain 03 Human Development merupakan pilar trajektori kematangan insan pembelajar. Enam pilar riset fundamental disintesiskan secara terpadu: **1. Tazkiyatun Nafs (Triad Takhalliy-Tahalliy-Tajalliy & Pembiasaan 66 Hari); 2. Lintasan Marahil al-'Umr (Diferensiasi Kebutuhan Remaja & Dual-Systems Model); 3. Gradualisme Kemandirian (Sunnatut Tadarruj, Scaffolding, & Asesmen Ipsatif); 4. Integrasi SEL-Adab (5 Kompetensi CASEL & Sirkuit Empati Otak); 5. Transisi Biososial Pubertas (Fiqh Bulugh, HPG Axis, & In Loco Parentis); 6. Puncak Insan Adabi (Derajat Mushlih & Servant Leadership)**.
+> * **Kritik atas Empat Mazhab Perkembangan Barat:**  
+>   TUMBUH mengoreksi keterbatasan Behaviorisme Skinner yang mekanistik, Kognitivisme Piaget yang reduksionis, Psikoanalisis Freud yang pesimistis, dan Humanisme Rogers yang antroposentris tanpa fondasi tauhid dan hisab akhirat.
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan Piagam Pemuliaan Hak Bertumbuh Santri, 4 Tingkatan Kesadaran Sintesis Perkembangan (*Maratib al-Idrak*), protokol audit mutu pengasuhan asrama, dan jembatan epistemologis menuju Sub-Domain 04 Education.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: SINTESIS FILOSOFIS 6 PILAR HUMAN DEVELOPMENT & MATRIKS KOMPARATIF EPISTEMOLOGIS](#bagian-i-sintesis-filosofis-6-pilar-human-development--matriks-komparatif-epistemologis)
-  - [1. Arsitektur Sintesis Holistik: Konvergensi 6 Pilar Perkembangan Jiwa Santri](#1-arsitektur-sintesis-holistik-konvergensi-6-pilar-perkembangan-jiwa-santri)
-  - [2. Matriks Komparasi Filosofis: TUMBUH vs 4 Mazhab Perkembangan Barat (Behaviorisme, Kognitivisme, Psikososial, & Humanistik)](#2-matriks-komparasi-filosofis-tumbuh-vs-4-mazhab-perkembangan-barat-behaviorisme-kognitivisme-psikososial--humanistik)
-  - [3. Dekonstruksi Paradigma Reduksionis & Penghapusan Mutlak Stagnasi Punitif](#3-dekonstruksi-paradigma-reduksionis--penghapusan-mutlak-stagnasi-punitif)
-  - [4. Jembatan Filosofis & Pedagogis Menuju Sub-Domain 04 Education](#4-jembatan-filosofis--pedagogis-menuju-sub-domain-04-education)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN HUMAN DEVELOPMENT](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-human-development)
-  - [1. Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri Pesantren TUMBUH](#1-piagam-kelembagaan-pemuliaan-hak-bertumbuh-santri-pesantren-tumbuh)
-  - [2. Matriks Integrasi Operasional 6 Pilar Human Development ke dalam Kurikulum Pengasuhan 24 Jam](#2-matriks-integrasi-operasional-6-pilar-human-development-ke-dalam-kurikulum-pengasuhan-24-jam)
-  - [3. Protokol Audit Kualitas Pengasuhan Asrama Berbasis Human Development](#3-protokol-audit-kualitas-pengasuhan-asrama-berbasis-human-development)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Master Sub-Domain 03](#1-tabel-sintesis-master-sub-domain-03)
-  - [2. Daftar Pustaka Otoritatif Turats & Jurnal Internasional Peer-Reviewed](#2-daftar-pustaka-akademis--rujukan-turats-primer)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Urgensi Rekonstruksi Paradigma Perkembangan Insan Pembelajar](#1-latar-belakang-masalah-urgensi-rekonstruksi-paradigma-perkembangan-insan-pembelajar)
+  - [2. Konsolidasi Enam Pilar Human Development Menjadi Satu Paradigma Utuh](#2-konsolidasi-enam-pilar-human-development-menjadi-satu-paradigma-utuh)
+  - [3. Matriks Komparasi Kritis: TUMBUH vs Empat Mazhab Perkembangan Barat](#3-matriks-komparasi-kritis-tumbuh-vs-empat-mazhab-perkembangan-barat)
+  - [4. Dekonstruksi Paradigma Punitif dan Penegakan Hak Bertumbuh Santri](#4-dekonstruksi-paradigma-punitif-dan-penegakan-hak-bertumbuh-santri)
+  - [5. Kasuistika Lapangan: Evaluasi Sistemik Stres Pengasuhan Asrama & Resolusi Restoratif](#5-kasuistika-lapangan-evaluasi-sistemik-stres-pengasuhan-asrama--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Piagam Pemuliaan Hak Bertumbuh Santri TUMBUH](#1-eksplanasi-teoretis-piagam-pemuliaan-hak-bertumbuh-santri-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sintesis Perkembangan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-sintesis-perkembangan-maratib-al-idrak)
+  - [3. Jembatan Filosofis Menuju Sub-Domain 04 Education](#3-jembatan-filosofis-menuju-sub-domain-04-education)
+  - [4. Prinsip Aksiologis & Protokol Audit Mutu Pengasuhan Berbasis Human Development](#4-prinsip-aksiologis--protokol-audit-mutu-pengasuhan-berbasis-human-development)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Sintesis Human Development](#1-tabel-sintesis-temuan-riset-sintesis-human-development)
+  - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Master Istilah Kunci Human Development](#4-glosarium-master-istilah-kunci-human-development)
+  - [4. Glosarium Istilah Ilmiah & Turats Sintesis Perkembangan Insan](#4-glosarium-istilah-ilmiah--turats-sintesis-perkembangan-insan)
 
 ---
 
-# BAGIAN I: SINTESIS FILOSOFIS 6 PILAR HUMAN DEVELOPMENT & MATRIKS KOMPARATIF EPISTEMOLOGIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Arsitektur Sintesis Holistik: Konvergensi 6 Pilar Perkembangan Jiwa Santri
+### 1. Latar Belakang Masalah: Urgensi Rekonstruksi Paradigma Perkembangan Insan Pembelajar
 
-Pertumbuhan manusia dalam ekosistem TUMBUH adalah sebuah **Sistem Perkembangan Holistik Simbiotik (*Symbiotic Holistic Development System*)**:
+Kelemahan paling mendasar dalam diskursus pendidikan kontemporer adalah terpecahnya pemahaman mengenai hakikat pertumbuhan manusia:
+* **Dikotomi Sekuler vs Tradisional Kaku**: Pendekatan sekuler membatasi perkembangan manusia pada pematangan saraf biologis dan fungsi kognitif otak tanpa tujuan akhirat. Sebaliknya, sebagian praktik tradisional menuntut kesempurnaan ibadah lahiriah secara instan dengan mengabaikan hukum perkembangan emosi dan kapasitas biologis anak.
+* **Akibat Fatal di Lapangan**: Santri mengalami kejenuhan spiritual (*Burnout*), kecemasan berlebih saat menghadapi masa baligh, atau melakukan pelanggaran adab tersembunyi karena merasa tidak dipahami fitrah kemanusiaannya.
+* **Keniscayaan Sintesis Holistik**: Ekosistem TUMBUH menyatukan khazanah *Tazkiyatun Nafs*, fikih tahapan usia *Marahil al-'Umr*, dan riset neurosains perkembangan ke dalam sebuah orkestrasi peradaban yang utuh.[^1]
 
 ```mermaid
 flowchart TD
     subgraph ArsitekturSintesisHD["SISTEM INTEGRATIF 6 PILAR HUMAN DEVELOPMENT TUMBUH"]
-        P1["PILAR 1: TAZKIYATUN NAFS (P1-03-01)<br/>• Poros Spiritual: Evolusi Jiwa.<br/>• Takhalliy, Tahalliy, Tajalliy.<br/>• Riyadhah Otomasi 66-Hari."]
+        P1["P1-03-01: TAZKIYATUN NAFS<br/>Poros Spiritual: Triad Takhalliy-Tahalliy-Tajalliy & Habituasi 66 Hari."]
+        P2["P1-03-02: FASE MARAHIL AL-'UMR<br/>Poros Biopsikologis: Periodisasi Tamyiz, Murahaqah, Bulugh, & Rusyd."]
+        P3["P1-03-03: GRADUALISME KEMANDIRIAN<br/>Poros Pedagogis: Sunnatut Tadarruj, Dynamic Scaffolding, & Asesmen Ipsatif."]
+        P4["P1-03-04: INTEGRASI SEL-ADAB<br/>Poros Sosio-Emosional: 5 CASEL SEL, Sirkuit Empati, & Zero Bullying."]
+        P5["P1-03-05: KRISIS PUBERTAS<br/>Poros Biososial: Fiqh Baligh, HPG Axis, & In Loco Parentis."]
+        P6["P1-03-06: PUNCAK INSAN ADABI<br/>Poros Aktualisasi Akhir: Derajat Mushlih & Kepemimpinan Servant Leadership."]
         
-        P2["PILAR 2: FASE MARAHIL AL-'UMR (P1-03-02)<br/>• Poros Biopsikologis: Dual-Systems.<br/>• Diferensiasi MTs (Limbik) vs MA (PFC)."]
+        SintesisIndukHD["P1-03-07: SINTESIS HUMAN DEVELOPMENT<br/>(Paradigma Utuh Trajektori Pertumbuhan Insan)"]
         
-        P3["PILAR 3: TANGGA TUMBUH J1–J4 (P1-03-03)<br/>• Poros Pedagogis: Gradualisme Syar'i.<br/>• Scaffolding ZPD & Asesmen Ipsatif."]
-        
-        P4["PILAR 4: INTEGRASI CASEL SEL (P1-03-04)<br/>• Poros Sosio-Emosional: Adab Mu'asyarah.<br/>• 5 Pilar Emosi, Sirkuit ACC, & Zero Bullying."]
-        
-        P5["PILAR 5: KRISIS PUBERTAS (P1-03-05)<br/>• Poros Endokrin & Transisi Baligh.<br/>• Fiqh Bulugh & In Loco Parentis."]
-        
-        P6["PILAR 6: PUNCAK TAHAP 7 (P1-03-06)<br/>• Poros Aktualisasi: Insan Adabi & Mushlih.<br/>• Kepemimpinan Khidmah Peradaban Umat."]
-        
-        P1 <===> P2
-        P2 <===> P3
-        P3 <===> P4
-        P4 <===> P5
-        P5 <===> P6
-        P6 <===> P1
-        
-        Sintesis["INSAN ADABI / INSAN KAMIL BERBASIS FITRAH<br/>(Kader Mushlih Peradaban yang Berilmu, Beradab, & Mandiri)"]
-        
-        P1 & P2 & P3 & P4 & P5 & P6 ==> Sintesis
+        P1 & P2 & P3 & P4 & P5 & P6 ==> SintesisIndukHD
     end
 ```
 
 ---
 
-### 2. Matriks Komparasi Filosofis: TUMBUH vs 4 Mazhab Perkembangan Barat
+### 2. Konsolidasi Enam Pilar Human Development Menjadi Satu Paradigma Utuh
 
-| Mazhab Pemikiran | Tokoh Utama & Asumsi Dasar | Pandangan tentang Sumber Pertumbuhan | Titik Kritis Kelemahan | Koreksi & Penyempurnaan oleh Ekosistem TUMBUH |
+Keenam pilar bekerja secara sinergis dan tidak dapat dipisahkan:
+1. *P1-03-01* menetapkan mesin pembersih dan penyubur jiwanya (*Tazkiyah*).
+2. *P1-03-02* memetakan lintasan usia dan kesenjangan biologisnya (*Marahil al-'Umr*).
+3. *P1-03-03* memandu tangga kemandirian tanpa paksaan instan (*Tadarruj & Scaffolding*).
+4. *P1-03-04* mengasah kecerdasan emosi dan empati sosialnya (*SEL & Adab*).
+5. *P1-03-05* melindungi masa transisi krisis biologisnya (*Baligh & In Loco Parentis*).
+6. *P1-03-06* mengantarkannya mencapai puncak aktualisasi penggerak umat (*Insan Adabi & Mushlih*).[^2]
+
+---
+
+### 3. Matriks Komparasi Kritis: TUMBUH vs Empat Mazhab Perkembangan Barat
+
+| Mazhab Perkembangan | Tokoh Utama | Asumsi Dasar | Keterbatasan Epistemologis | **Koreksi & Integrasi TUMBUH** |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Behaviorisme** | **B.F. Skinner, J.B. Watson**<br/>Manusia adalah organisme mekanis stimulus-respons (*Tabula Rasa*). | *Operant Conditioning* & manipulasi lingkungan eksternal. | Mengabaikan eksistensi Ruh, Kalbu, kesadaran bebas, dan niat ikhlas; melahirkan kepatuhan semu. | Menegakkan **Tazkiyatun Nafs & Muraqabatullah**; penguatan luar hanya tangga transisi (*Scaffolding*).[^1] |
-| **2. Kognitivisme** | **Jean Piaget**<br/>Manusia adalah pemroses informasi rasional berbasis skema kognitif. | Kematangan biologis otak dan eksplorasi lingkungan fisik. | Kognisi dingin tanpa penyucian hati (*Tazkiyah*), intuisi spiritual, dan kehangatan ukhuwah. | Memadukan nalar rasional dengan **Kecerdasan Hati (*Qalb*) dan Dimensi Afektif CASEL SEL**.[^2] |
-| **3. Psikososial** | **Erik Erikson**<br/>Manusia berkembang melalui resolusi 8 krisis psikososial lingkungan. | Interaksi individu dengan keluarga, sekolah, dan masyarakat. | Identitas diri sekuler tanpa jangkar transendental hakiki (*Mitsaq Azali*). | Mengintegrasikan krisis remaja dengan **Pembentukan Identitas Thalibul 'Ilmi & Insan Adabi**.[^3] |
-| **4. Humanistik** | **Carl Rogers, Abraham Maslow**<br/>Manusia secara alami terdorong menuju aktualisasi potensi diri (*Self-Actualization*). | Pemenuhan kebutuhan hierarkis dan kebebasan memilih tanpa dogma. | Antroposentrisme individualistik; rentan mengagungkan hawa nafsu atas nama kebebasan. | Melampaui aktualisasi ego menuju **Maqam 'Ubudiyyah & Khilafah**; kebebasan sejati dalam ketaatan pada Allah.[^4] |
+| **Behaviorisme** | B. F. Skinner | Manusia dibentuk oleh stimulus-respons mekanik. | Mereduksi manusia seperti hewan tanpa ruh & niat kalbu. | Integrasi pembiasaan raga (*Riyadhah*) yang dibimbing niat tauhid ikhlas. |
+| **Kognitivisme** | Jean Piaget | Perkembangan tahap nalar logis kognitif semata. | Mengabaikan kecerdasan kalbu (*Qalb*) & ketaatan spiritual. | Penyatuan nalar mantiq dengan ketundukan wahyu (*Heart-Brain Coherence*). |
+| **Psikososial** | Erik Erikson | Resolusi 8 krisis identitas sosial rentang hidup. | Horizon terhenti di kuburan; tanpa hisab akhirat. | Krisis identitas diselesaikan melalui peneguhan *Mitsaq Azali* & ukhuwah. |
+| **Humanistik** | Carl Rogers | Aktualisasi diri otonom (*Self-Actualization*). | Berpusat pada kepuasan ego manusia (*Antroposentrisme*).| Puncak tertinggi adalah *Self-Transcendence* (penghambaan kepada Allah). |
 
 ---
 
-### 3. Dekonstruksi Paradigma Reduksionis & Penghapusan Mutlak Stagnasi Punitif
+### 4. Dekonstruksi Paradigma Punitif dan Penegakan Hak Bertumbuh Santri
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi Sintesis*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan Islam yang terbukti menerapkan praktik pembinaan yang melumpuhkan neurobiologi fitrah, memicu trauma psikologis permanen, dan menghentikan laju pertumbuhan jiwa santri niscaya telah menyimpang dari amanah risalah kenabian (*Khianatut Tarbiyah*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Praktik hukuman fisik, penyeragaman ranking komparatif, dan intimidasi senioritas feodal terbukti secara syar'i dan empiris melumpuhkan proses *Tazkiyatun Nafs* dan memicu regresi perilaku.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh entitas pengasuhan di bawah naungan ekosistem TUMBUH wajib mendeklarasikan *Zero Tolerance Policy* terhadap segala bentuk kekerasan dan menggantinya dengan ekosistem restoratif multi-tier.[^5]
-
----
-
-### 4. Jembatan Filosofis & Pedagogis Menuju Sub-Domain `04 Education`
-
-```mermaid
-graph TD
-    HD["SUB-DOMAIN 03: HUMAN DEVELOPMENT<br/>(Trajektori Pertumbuhan: Tazkiyah, Usia, Jenjang J1–J4, SEL, Pubertas, Tahap 7)"]
-    ==>|MENDASARI SECARA MUTLAK|
-    ED["SUB-DOMAIN 04: EDUCATION (PENDIDIKAN)<br/>(Filsafat Kurikulum Adab, Ta'dib Al-Attas, Anti-Feodalisme, & Ekologi 24 Jam)"]
-```
+Paradigma lama yang menggunakan kekerasan fisik, pembentakan, dan pengumuman aib di depan umum atas dalih "mendisiplinkan santri" dibuktikan secara ilmiah sebagai **Kejahatan Sistemik yang Mematikan Potensi Pertumbuhan**:
+* Kekerasan memicu pelepasan hormon kortisol berlebih yang merusak hippocampus memori otak dan membekukan korteks prefrontal.
+* TUMBUH menetapkan **Hak Bertumbuh Santri (*Haqq an-Numuw*)**: jaminan bahwa setiap santri berhak atas lingkungan yang aman, bertahap, penuh kasih sayang, dan berkeadilan restoratif.[^3]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN HUMAN DEVELOPMENT
+### 5. Kasuistika Lapangan: Evaluasi Sistemik Stres Pengasuhan Asrama & Resolusi Restoratif
+
+Penerapan konsolidasi *Human Development* membuktikan bahwa ketika musyrif memahami dinamika perkembangan santri secara holistik, tingkat stres asrama turun drastis, relasi ukhuwah menguat, dan santri bertumbuh optimal menjadi pribadi yang mandiri dan berprestasi.[^4]
 
 ---
 
-### 1. Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **HAK Mutlak Kesucian Fitrah & Martabat Setiap santri dilahirkan suci dan mulia (Mukarram). Lembaga menjamin hak setiap santri untuk dibina dengan cinta, rasa hormat, dan kasih sayang (Firm & Kind), tanpa ancaman kekerasan fisik maupun verbal.**:  
-   
-
-2. **Penerapan Standar Triadik Tazkiyatun Nafs Seluruh lini pengasuhan asrama 24 jam wajib menerapkan tahapan Takhalliy, Tahalliy, dan Tajalliy melalui kurikulum riyadhah pembiasaan 66 hari menuju pembentukan watak kedua yang otomatis.**:  
-   
-
-3. **Pengakuan Diferensiasi Usia & Pendampingan Transisi Baligh Mewajibkan pemisahan pendekatan pedagogis MTs vs MA, pendampingan ramah atas peristiwa mimpi basah/haidh, serta menyediakan fasilitas olahraga kinestetik guna menyalurkan energi hormon pubertas.**:  
-   
-
-4. **Penghapusan Mutlak Perangkingan Tunggal Toksik Sistem perangkingan kelas komparatif dinyatakan Tidak Berlaku Lagi, digantikan oleh Asesmen Pertumbuhan Ipsatif yang mengukur kemajuan personal dan portofolio bakat unik setiap santri.**:  
-   
-
-5. **Kebijakan Zero Tolerance Kekerasan & Senioritas Feodal Segala bentuk pemukulan, tamparan, push-up berlebihan, penyiraman air malam, pembentakan, pencukuran botak paksa, dan perpeloncoan Dikategorikan Sebagai Pelanggaran Berat Dengan Sanksi Tegas.**:  
-   
-
-6. **Kaderisasi Kepemimpinan Tahap 7 Penggerak (mushlih Peradaban) Menetapkan bahwa tujuan akhir wisuda pesantren adalah melahirkan Insan Adabi yang siap mengabdi sebagai Mushlih penyeru kebaikan dan pelayan umat di tengah masyarakat.**:  
-   
-
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
-### 2. Matriks Integrasi Operasional 6 Pilar Human Development ke dalam Kurikulum Pengasuhan 24 Jam
+### 1. Eksplanasi Teoretis Piagam Pemuliaan Hak Bertumbuh Santri TUMBUH
 
-| Pilar Human Development | Dokumen Rujukan | Komponen Kunci Kurikulum Asrama | Output Terukur pada Diri Santri |
-| :--- | :--- | :--- | :--- |
-| **Pilar 1: Tazkiyatun Nafs** | [**`P1-03-01`**](./P1-03-01-Tazkiyatun-Nafs-dan-Pertumbuhan-Jiwa.md) | Blok pembiasaan 66 hari, kurikulum pembersihan ghashab, Muhasabah Malam. | Terbentuknya *Moral Automaticity* ibadah mandiri.[^6] |
-| **Pilar 2: Fase Marahil al-'Umr** | [**`P1-03-02`**](./P1-03-02-Fase-dan-Lintasan-Perkembangan-Santri.md) | Zonasi gedung MTs vs MA, SOP Mitigasi Homesickness, De-Eskalasi Emosi. | Tingkat adaptasi santri baru >95%, bebas dari depresi transisi. |
-| **Pilar 3: Jenjang Kemandirian TUMBUH (J1–J4) J1–J4** | [**`P1-03-03`**](./P1-03-03-Landasan-Filosofis-Tangga-TUMBUH-J1-J4.md) | Penjenjangan level T1 s/d T4, Portofolio Asesmen Ipsatif non-ranking. | Santri bertransformasi menjadi Duta Adab mandiri asrama. |
-| **Pilar 4: Integrasi CASEL SEL** | [**`P1-03-04`**](./P1-03-04-Integrasi-SEL-dan-Karakter-Santri.md) | 3 Jangkar Harian (Sapa Pagi, Makan Nampan, Muhasabah), Restorative Circles. | Terciptanya asrama *Zero Bullying* dengan kohesi ukhuwah kokoh.[^7] |
-| **Pilar 5: Krisis Pubertas** | [**`P1-03-05`**](./P1-03-05-Krisis-Biososial-dan-Transisi-Pubertas-Santri.md) | SOP Edukasi Ihtilam/Haidh, bimbingan thaharah privat, olahraga sunnah. | Santri bangga memikul taklif baligh, bebas dari kecemasan biologis. |
-| **Pilar 6: Puncak Tahap 7** | [**`P1-03-06`**](./P1-03-06-Puncak-Aktualisasi-Insan-Adabi-Tahap-7.md) | Munaqqasyah karya riset, proyek khidmah masyarakat 3 bulan, bai'at penggerak. | Lulusan berkarakter *Mushlih* yang memimpin perubahan peradaban umat.[^8] |
-
----
-
-### 3. Protokol Audit Kualitas Pengasuhan Asrama Berbasis Human Development
+Ekosistem TUMBUH menetapkan **Piagam Agung Hak Bertumbuh Santri (*Mitsaq Huquq an-Numuw*)**:
 
 ```mermaid
 flowchart TD
-    subgraph AuditHumanDevelopment["SIKLUS AUDIT PENJAMINAN MUTU PENGASUHAN (QA)"]
-        Instrumen["1. AUDIT CHECKLIST HUMAN DEVELOPMENT<br/>Evaluasi kepatuhan musyrif terhadap Grand Charter & SOP Transisi Baligh."]
+    subgraph PiagamHakBertumbuhTUMBUH["PIAGAM AGUNG HAK BERTUMBUH SANTRI TUMBUH"]
         
-        ObservasiLapangan["2. OBSERVASI KLINIKAL 24 JAM ASRAMA<br/>Auditor independen mengamati dinamika kamar, sanitasi, & interaksi lorong."]
+        N_H1["1. HAK EVOLUSI SPIRITUAL BERTAHAP: Mengharamkan Target Instan yang Memicu Burnout."]
+        N_H2["2. HAK DIFERENSIASI USIA: Menyesuaikan Komunikasi & Beban Tugas Sesuai Fase Marahil."]
+        N_H3["3. HAK PERTOLONGAN SCAFFOLDING: Menjamin Bantuan Penuh bagi Santri Baru Tanpa Dihakimi."]
+        N_H4["4. HAK LINGKUNGAN KAYA EMPATI: Menjamin Asrama Bebas Perundungan & Eksklusi Sosial."]
+        N_H5["5. HAK PRIVASI TRANSISI BALIGH: Memberikan Bimbingan Thaharah Santun Tanpa Rasa Malu."]
+        N_H6["6. HAK KADERISASI KEPEMIMPINAN: Menyiapkan Wadah Aktualisasi Khidmah Penggerak Umat."]
         
-        SurveiSantri["3. SURVEI KESEJAHTERAAN SOSIO-EMOSIONAL SANTRI<br/>Santri mengisi survei rasa aman, keterikatan teman, & ketiadaan intimidasi."]
-        
-        LaporanRekomendasi["4. LAPORAN EVALUASI & AKREDITASI ASRAMA<br/>Pemberian umpan balik pembinaan, coaching musyrif, & akreditasi kelayakan asrama."]
-        
-        Instrumen --> ObservasiLapangan --> SurveiSantri --> LaporanRekomendasi
+        N_H1 <===> N_H2 <===> N_H3 <===> N_H4 <===> N_H5 <===> N_H6
     end
 ```
 
+#### 🔬 Pembahasan Mendalam Enam Hak Piagam:
+1. **Hak Evolusi Bertahap**: Memberikan ruang bagi jiwa santri untuk membersihkan diri secara alami melalui proses *Tazkiyah*.[^5]
+2. **Hak Diferensiasi Usia**: Menghormati perbedaan karakteristik neurokognitif antara santri usia awal dan lanjut.[^6]
+3. **Hak Scaffolding**: Melindungi santri dari rasa putus asa dengan menyediakan tangga kemandirian yang terencana.[^7]
+4. **Hak Lingkungan Empatik**: Membangun iklim asrama yang hangat di mana setiap anak merasa diterima dan dihargai.[^8]
+5. **Hak Privasi Pubertas**: Menjaga kerahasiaan dan kemuliaan tubuh santri saat memasuki usia taklif.[^9]
+6. **Hak Kaderisasi Peradaban**: Mendidik santri menjadi pemimpin pelayan yang siap mendedikasikan hidupnya untuk kebaikan umat (*Mushlih*).[^10]
+
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sintesis Perkembangan (Maratib al-Idrak)
+
+Transformasi kedewasaan memahami hakikat perkembangan insan berlangsung melalui **Empat Tingkatan Kesadaran Perkembangan (*Maratib al-Idrak at-Tanmawiy*)**:
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranSintesisHD["EMPAT TINGKATAN KESADARAN SINTESIS PERKEMBANGAN (MARATIB AL-IDRAK)"]
+        
+        T1_Sintesis["TINGKAT 1: KESADARAN PERTUMBUHAN FISIK-ADAPTIF (Al-Idrak an-Numuwwiy al-Awwal)<br/>• Menyadari kebutuhan fisik, ritme biologis tidur-makan, & rutinitas dasar asrama.<br/>• Mampu mengatasi krisis adaptasi awal dengan bimbingan pendamping asrama."]
+        
+        T2_Sintesis["TINGKAT 2: KESADARAN REGULASI & EMPATI SEBAYA (Al-Idrak al-Ijtima'iy)<br/>• Menguasai pengendalian emosi pubertas & memiliki kepekaan empati kepada kawan.<br/>• Berkomitmen menjaga adab pergaulan; menolak segala bentuk perundungan di kamar."]
+        
+        T3_Sintesis["TINGKAT 3: KESADARAN TAZKIYAH & KEMANDIRIAN TAKLIF (Al-Idrak at-Tazkiyawiy)<br/>• Menghayati proses penyucian hati (Takhalliy-Tahalliy) sebagai kebutuhan jiwa.<br/>• Mandiri dalam muthala'ah & ibadah fardhu atas dorongan kesadaran Muraqabah."]
+        
+        T4_Sintesis["TINGKAT 4: KESADARAN PARIPURNA INSAN ADABI MUSHLIH (Al-Idrak al-Kamil)<br/>• Puncak kematangan: menyatunya Tauhid, Keagungan Adab, & Kepemimpinan Khidmah.<br/>• Menjadi Live Qudwah yang menggerakkan perbaikan & memimpin peradaban Islam."]
+        
+        T1_Sintesis ==> T2_Sintesis ==> T3_Sintesis ==> T4_Sintesis
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Adaptasi Fisik Menuju Regulasi & Empati Sosial)**: Santri mula-mula berfokus menyesuaikan tubuhnya dengan jadwal pondok. Pada tingkatan kedua, santri belajar mengelola emosinya dan hidup berdampingan secara damai bersama kawan sekamar.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Empati Sosial Menuju Tazkiyah & Kemandirian Ibadah)**: Pada tingkatan ketiga, kesadaran bergeser ke kedalaman batin: santri membersihkan penyakit hatinya dan beribadah secara mandiri di hadapan Allah SWT.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Insan Adabi Paripurna)**: Pada tingkatan tertinggi, kepribadian santri mencapai kematangan sempurna: ilmunya melahirkan kebijaksanaan, amalnya didedikasikan untuk melayani umat, dan perilakunya menjadi teladan peradaban yang memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).[^11]
 
 ---
 
-### 1. Tabel Sintesis Master Sub-Domain 03
+### 3. Jembatan Filosofis Menuju Sub-Domain 04 Education
 
-| Sub-Modul | Judul Monograf | Landasan Teori Utama | Fokus Inovasi Pedagogis |
-| :---: | :--- | :--- | :--- |
-| **P1-03-01** | Tazkiyatun Nafs & Pertumbuhan Jiwa | QS. Asy-Syams: 9–10, Al-Ghazali (*Ihya*), Dr. Phillippa Lally (UCL 2010) | Pembiasaan 66 hari mengubah beban korteks prefrontal ke refleks basal ganglia. |
-| **P1-03-02** | Fase & Lintasan Perkembangan Santri | Fiqh *Marahil al-'Umr*, Erik Erikson (1968), Laurence Steinberg (2008) | Zonasi dan kurikulum berdiferensiasi MTs (Limbik) vs MA (PFC); SOP Homesickness. |
-| **P1-03-03** | Landasan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4 | Prinsip *Tadarruj Syar'i* (HR. Bukhari), Lev Vygotsky ZPD (1978), Hughes (2014) | Penjenjangan 4 level kemandirian dan Asesmen Ipsatif non-ranking. |
-| **P1-03-04** | Integrasi SEL & Adab Nabawi | Kitab *Adab al-Mu'asyarah* An-Nawawi, CASEL Framework (2020), Tania Singer (2014) | Harmonisasi 5 kompetensi SEL, aktivasi sirkuit empati ACC otak, dan 3 jangkar asrama. |
-| **P1-03-05** | Krisis Biososial Pubertas Santri | Fiqh Bulugh (HR. Abu Dawud 4403), HPG Axis Endokrin, Blakemore (2018) | Edukasi thaharah baligh privat, perlindungan privasi, & sublimasi olahraga kinestetik. |
-| **P1-03-06** | Puncak Aktualisasi Insan Adabi | QS. Hud: 117 (*Mushlihoon*), Al-Attas (1980), Maslow (1971 *Transcendence*) | Standarisasi kelulusan Tahap 7 Penggerak Peradaban & Khitamut Tarbiyah pengabdian. |
-| **P1-03-07** | Sintesis Filosofis Human Development | Integrasi Triad TUMBUH, Kritik atas Behaviorisme & Humanisme Sekuler | Deklarasi Grand Charter Hak Bertumbuh Santri & Jembatan ke Sub-Domain 04 Education. |
+Sintesis *Human Development* menjadi fondasi tak terpisahkan bagi perumusan **Sub-Domain 04 Education**:
+* Dari pemahaman mengenai trajektori kematangan jiwa dan tahapan perkembangan insan di domain ini, dirumuskanlah **Filsafat Kurikulum Adab, Metodologi Pengajaran Interaktif, Anti-Feodalisme Pengasuhan, dan Rekayasa Ekologi Pembelajaran 24 Jam** pada sub-domain berikutnya.[^12]
+
+---
+
+### 4. Prinsip Aksiologis & Protokol Audit Mutu Pengasuhan Berbasis Human Development
+
+Ekosistem TUMBUH menerapkan protokol penjaminan mutu pengasuhan tahunan:
+
+```mermaid
+flowchart TD
+    subgraph AuditMutuHumanDevelopment["PROTOKOL AUDIT MUTU TAHUNAN HUMAN DEVELOPMENT"]
+        Audit1["1. AUDIT KESEHATAN BIOLOGIS: Verifikasi Waktu Istirahat Sirkadian & Fasilitas Sanitasi Sehat"]
+        --> Audit2["2. AUDIT KEADILAN RESTORATIF: Memastikan 0% Praktik Hukuman Fisik & Penegakan Asesmen Ipsatif"]
+        --> Audit3["3. AUDIT KESEJAHTERAAN SOSIO-EMOSIONAL: Mengukur Indeks Empati & Eliminasi Total Perundungan"]
+        --> Audit4["4. AUDIT KUALITAS PORTOFOLIO KELULUSAN: Menilai Kesiapan Khidmah Alumni sebagai Insan Adabi"]
+    end
+```
+
+Audit ini memastikan seluruh proses pendidikan senantiasa setia pada hukum fitrah kemanusiaan.[^13]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Sintesis filosofis perkembangan insan ini menegaskan masa depan pendidikan Islam:
+
+* **Mengembalikan Manusia Kepada Martabat Penciptaannya yang Mulia**:  
+  Pendidikan bukan pabrik pencetak tenaga kerja industri yang dingin, melainkan rahim persemaian generasi mulia yang mengenal Allah dan memakmurkan bumi.
+* **Membangun Model Pendidikan Berbasis Fitrah yang Teruji Saintifik**:  
+  TUMBUH membuktikan bahwa memadukan tasawuf amali dengan neurosains kognitif melahirkan sistem pendidikan yang paling manusiawi, paling efektif, dan paling membahagiakan.
+* **Menyiapkan Para Penggerak Kebangkitan Peradaban Islam**:  
+  Dari rahim filosofi ini lahir para ulama, cendekiawan, pemimpin, dan profesional berkarakter *Insan Adabi* yang siap memimpin peradaban dunia dengan keadilan, adab, dan kasih sayang.[^14]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Sintesis Human Development
+
+| Dimensi Parameter | Mazhab Sekuler Materialistik | Pola Tradisional Punitif | **Sintesis Human Development TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hakikat Tumbuh** | Pematangan biologis & kognisi otak. | Tuntutan ibadah instan via hukuman.| **Evolusi Integral Ruh, Akal, Jiwa, & Raga.**| QS. Asy-Syams: 9; Al-Attas (1980). | Ekosistem pengasuhan bertahap 24 jam. |
+| **Lintasan Usia** | Klasifikasi kronologis angka dingin. | Adultomorfisme (anggap anak dewasa).| **Marahil al-'Umr & Neurosains Dual-Systems.**| QS. An-Nur: 59; Steinberg (2014). | Pendampingan ramah biologis & emosi. |
+| **Pola Bimbingan**| Transaksional angka nilai rapor. | Teror tongkat & perankingan toksik.| **Sunnatut Tadarruj, Scaffolding, & Ipsatif.**| HR. Bukhari No. 4993; Vygotsky. | Bantuan penuh di awal, dilepas bertahap. |
+| **Iklim Komunal** | Individualistis profesional netral. | Rawan senioritas menindas & ghibah.| **Kecerdasan SEL, Ukhuwah, & Zero Bullying.**| HR. Bukhari No. 13; CASEL (2020). | Makan bersama & lingkaran muhasabah malam. |
+| **Visi Kelulusan** | Pekerja industri pencari materi. | Kesalehan pasif yang terisolasi. | **Insan Adabi & Mushlih Peradaban Mulia.** | QS. Hud: 117; Maslow (1971). | Khidmah pengabdian masyarakat nyata. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM.
-6. **Ibnul Qayyim al-Jauziyyah, Syamsuddin Muhammad**. (1996). *Madarijus Salikin*. Beirut: Dar al-Kitab al-'Arabi.
-7. **Steinberg, L.**. (2008). *A social neuroscience perspective on adolescent risk-taking*. Developmental Review, 28(1), 78–106.
-8. **Erikson, E. H.**. (1968). *Identity: Youth and Crisis*. New York: W. W. Norton.
-9. **Maslow, A. H.**. (1971). *The Farther Reaches of Human Nature*. New York: Viking Press.
-10. **CASEL**. (2020). *CASEL's SEL Framework*. Chicago: Collaborative for Academic, Social, and Emotional Learning.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+6. **Al-Attas, Syed Muhammad Naquib**. (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC.
+7. **Ibnu Qayyim al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr**. (1416 H). *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*. Beirut: Dar al-Kitab al-'Arabi.
+8. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+9. **Steinberg, L.**. (2014). *Age of Opportunity: Lessons from the New Science of Adolescence*. Boston: Houghton Mifflin Harcourt.
+10. **Vygotsky, L. S.**. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Cambridge: Harvard University Press.
+11. **CASEL**. (2020). *CASEL's SEL Framework*. Chicago: Collaborative for Academic, Social, and Emotional Learning.
+12. **Maslow, A. H.**. (1971). *The Farther Reaches of Human Nature*. New York: Viking Press.
+13. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+14. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Skinner (1971), *Beyond Freedom and Dignity*; Al-Attas, *Islam and Secularism*, hlm. 135.  
-[^2]: Piaget (1954), *The Construction of Reality in the Child*, Basic Books.  
-[^3]: Erikson (1968), *Identity: Youth and Crisis*, hlm. 130.  
-[^4]: Rogers (1969), *Freedom to Learn*, Merrill; Maslow (1971), *Farther Reaches of Human Nature*.  
-[^5]: Sugai & Horner (2006), *School Psychology Review*, hlm. 245–259.  
-[^6]: Lally et al. (2010), *European Journal of Social Psychology*, hlm. 1002.  
-[^7]: Durlak et al. (2011), *Child Development*, hlm. 405–432.  
-[^8]: Standar Kualifikasi Portofolio Wisuda Khitamut Tarbiyah, Majelis Masyayikh TUMBUH, 2026.
+[^1]: Riset Sintesis Human Development Pesantren TUMBUH, *Kritik atas Fragmentasi Perkembangan Manusia*, 2026.  
+[^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Human Development TUMBUH, 2026.  
+[^3]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 170–210.  
+[^4]: Dokumentasi Evaluasi Lapangan dan Uji Kelayakan Pengasuhan Asrama PBIS TUMBUH, 2026.  
+[^5]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs*, hlm. 80–115.  
+[^6]: Steinberg, L. (2014), *Age of Opportunity*, hlm. 60–98.  
+[^7]: Vygotsky, L. S. (1978), *Mind in Society*, hlm. 85–94.  
+[^8]: CASEL (2020), *CASEL's SEL Framework*, hlm. 6–20.  
+[^9]: Ibnu Qayyim, *Tuhfat al-Maudud bi Ahkam al-Maulud*, hlm. 145–180.  
+[^10]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 20–45.  
+[^11]: Matriks Tingkatan Kesadaran Perkembangan Insan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^12]: Blueprint Jembatan Ontologis Menuju Sub-Domain 04 Education TUMBUH, 2026.  
+[^13]: Standar Audit Mutu Tahunan Pengasuhan Berbasis Human Development TUMBUH, 2026.  
+[^14]: Deklarasi Pemuliaan Hakikat Perkembangan Insan Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Master Istilah Kunci Human Development
+### 4. Glosarium Istilah Ilmiah & Turats Sintesis Perkembangan Insan
 
-1. **Human Development**: Proses evolusi holistik manusia dari dimensi spiritual-moral (*Tazkiyah*), kematangan biologis (*Pubertas/Maturasi Otak*), kemandirian adab bertingkat (*Jenjang J1–J4*), hingga aktualisasi kepemimpinan khidmah (*Tahap 7 Penggerak*).
-2. **Insan Adabi**: Profil manusia beradab menurut Syed Muhammad Naquib Al-Attas yang meletakkan segala realitas ilmu, amal, dan akhlak pada tempatnya yang benar sesuai syariat.
-3. **Mushlih**: Pribadi yang melampaui kesalehan individual untuk secara aktif menggerakkan perbaikan moral dan kemaslahatan umat (QS. Hud: 117).
-4. **Tahap 7 Penggerak**: Tahap kulminasi tertinggi dalam kontinuum perkembangan santri TUMBUH yang melahirkan kader pemimpin peradaban mandiri dan berintegritas.
-5. **Self-Transcendence**: Puncak tertinggi hierarki kebutuhan Maslow di mana seseorang mendedikasikan hidupnya untuk tujuan transendental kemaslahatan sesama.
-6. **Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)**: Empat etape progresi kemandirian adab santri: T1 (Ta'aruf), T2 (Tafahum), T3 (Ta'awun), dan T4 (Takaful/Tahwil).
-7. **Asesmen Pertumbuhan Ipsatif**: Sistem penilaian non-komparatif yang mengukur kemajuan santri dengan membandingkan capaian dirinya saat ini terhadap capaian awalnya sendiri di masa lalu.
-8. **In Loco Parentis**: Peran moral dan hukum musyrif asrama sebagai figur pengganti orang tua yang memberikan perlindungan dan kehangatan.
-9. **Khitamut Tarbiyah**: Rangkaian inisiasi spiritual dan akademis penutupan masa pendidikan pesantren yang memadukan sidang portofolio dan penugasan pengabdian umat.
-10. **Triad Pertumbuhan Simbiotik**: Maha-prinsip ekosistem TUMBUH di mana sistem secara serempak menumbuhkan Santri, memuliakan Pendidik, dan memperkokoh Lembaga.
+1. **Human Development (Perkembangan Insan)**: Proses pertumbuhan komprehensif manusia yang menyatukan pembersihan jiwa (*Tazkiyah*), kematangan akal budi, stabilitas emosi, kebugaran jasad, dan kepemimpinan adab peradaban.
+2. **Tazkiyatun Nafs (تَزْكِيَةُ النَّفْسِ)**: Proses pembersihan cermin kalbu dari kotoran dosa dan penyakit hati serta penyuburan potensi fitrah kebaikan.
+3. **Marahil al-'Umr (مَرَاحِلُ الْعُمْرِ)**: Periodisasi rentang tahapan usia perkembangan manusia dalam fiqh Islam (Tamyiz, Murahaqah, Bulugh, Rusyd).
+4. **Sunnatut Tadarruj (سُنَّةُ التَّدَرُّجِ)**: Hukum kepastian bertahap dalam penciptaan alam, pensyariatan hukum, dan penanaman adab pada jiwa santri.
+5. **Dynamic Scaffolding**: Strategi pendampingan di mana pendidik memberikan bantuan penuh di awal dan menguranginya secara terencana seiring tumbuhnya kemandirian murid.
+6. **CASEL SEL Framework**: Kerangka kerja 5 kompetensi sosial-emosional (Kesadaran Diri, Manajemen Diri, Kesadaran Sosial, Hubungan Positif, Keputusan Bertanggung Jawab).
+7. **Bulugh (الْبُلُوغُ)**: Titik tolak kematangan biologis dan dimulainya pertanggungjawaban hukum syariat (*Taklif*).
+8. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil manusia paripurna yang mengenali dan meletakkan segala sesuatu pada tempat yang benar secara adil.
+9. **Mushlih (الْمُصْلِحُ)**: Pribadi penggerak yang aktif melakukan perbaikan, mendamaikan konflik, dan memimpin transformasi kebaikan di masyarakat luas.
+10. **Self-Transcendence**: Puncak tertinggi perkembangan psikologis di mana seseorang mendedikasikan hidupnya demi pengabdian kepada Allah dan pelayanan kemanusiaan.
