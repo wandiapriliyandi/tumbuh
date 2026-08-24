@@ -1,5 +1,5 @@
 # P4-01: TAHAPAN PERKEMBANGAN MAKRO SANTRI DAN KONTINUUM 10 TAHAP TUMBUH
-## *Monograf Riset: Diferensiasi Konseptual Antara 4 Jenjang Kemandirian (J1–J4) dan 10 Tahapan Progresi Karakter (Tahu, Paham, Sadar, Membiasakan, Kuat/Konsisten, Memberi Teladan, Menggerakkan, Pelaksana, Pembina, Pemberdaya)*
+## *Monograf Riset: Diferensiasi Konseptual Antara 4 Jenjang Kemandirian (J1–J4) dan 10 Tahapan Pembentukan Karakter (Tahu, Paham, Sadar, Membiasakan, Kuat/Konsisten, Memberi Teladan, Menggerakkan, Pelaksana, Pembina, Pemberdaya)*
 
 **Nomor Identifikasi**: `P4-01/MONOGRAF-INDUK-TAHAPAN-MAKRO/2026`  
 **Domain**: `04 Progression Framework` > `01 Development Stages`  
@@ -10,10 +10,10 @@
 
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Diferensiasi Nomenklatur: 4 Jenjang Kemandirian (J1–J4) vs 10 Tahapan Perkembangan Karakter:**  
+> * **Diferensiasi Nomenklatur: 4 Jenjang Kemandirian (J1–J4) vs 10 Tahapan Pembentukan Karakter:**  
 >   Untuk menghindari kerancuan istilah, ekosistem TUMBUH membedakan secara tegas antara:
 >   1. **Jenjang Kemandirian Santri (J1–J4):** Skala 4 level operasional kemandirian adab santri di asrama (J1 Terbimbing, J2 Pembiasaan, J3 Mandiri, J4 Qudwah).
->   2. **10 Tahapan Kontinuum Perkembangan (Tahap 1–10):** Lintasan metamorfosis psikososial dan kapasitas kepemimpinan: **1. Tahu $\rightarrow$ 2. Paham $\rightarrow$ 3. Sadar $\rightarrow$ 4. Membiasakan $\rightarrow$ 5. Kuat/Konsisten $\rightarrow$ 6. Memberi Teladan $\rightarrow$ 7. Menggerakkan $\rightarrow$ 8. Pelaksana $\rightarrow$ 9. Pembina $\rightarrow$ 10. Pemberdaya**.
+>   2. **10 Tahapan Pembentukan Karakter (Tahap 1–10):** Lintasan metamorfosis psikososial dan kapasitas kepemimpinan: **1. Tahu $\rightarrow$ 2. Paham $\rightarrow$ 3. Sadar $\rightarrow$ 4. Membiasakan $\rightarrow$ 5. Kuat/Konsisten $\rightarrow$ 6. Memberi Teladan $\rightarrow$ 7. Menggerakkan $\rightarrow$ 8. Pelaksana $\rightarrow$ 9. Pembina $\rightarrow$ 10. Pemberdaya**.
 
 ---
 

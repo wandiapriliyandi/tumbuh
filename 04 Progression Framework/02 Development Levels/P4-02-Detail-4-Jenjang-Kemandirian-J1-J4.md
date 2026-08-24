@@ -1,5 +1,5 @@
 # P4-02: DETAIL EMPAT JENJANG KEMANDIRIAN SANTRI (J1, J2, J3, J4)
-## *Monograf Riset: Arsitektur 4 Jenjang Kemandirian Adab Asrama (J1 Terbimbing, J2 Pembiasaan, J3 Mandiri, J4 Qudwah), Korelasi 10 Tahapan Karakter (Tahu s/d Pemberdaya), Matriks Scaffolding Decay Musyrif, serta Protokol Transisi PBIS*
+## *Monograf Riset: Arsitektur 4 Jenjang Kemandirian Adab Asrama (J1 Terbimbing, J2 Pembiasaan, J3 Mandiri, J4 Qudwah), Korelasi 10 Tahapan Pembentukan Karakter (Tahu s/d Pemberdaya), Matriks Scaffolding Decay Musyrif, serta Protokol Transisi PBIS*
 
 **Nomor Identifikasi**: `P4-02/MONOGRAF-INDUK-4-JENJANG-KEMANDIRIAN/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels`  
@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Nomenklatur Baku: Jenjang Kemandirian J1–J4:**  
->   Untuk membedakan secara tegas dengan **10 Tahapan Karakter (Tahap 1–10)**, empat tingkatan kemandirian santri dinamakan **Jenjang J1, J2, J3, dan J4**:
+>   Untuk membedakan secara tegas dengan **10 Tahapan Pembentukan Karakter (Tahap 1–10)**, empat tingkatan kemandirian santri dinamakan **Jenjang J1, J2, J3, dan J4**:
 >   1. **Jenjang J1: Kepatuhan Terbimbing (*Guided Compliance*)** $\rightarrow$ Mencakup *Tahap 1 (Tahu)* & *Tahap 2 (Paham)*. Scaffolding musyrif: 80%.  
 >   2. **Jenjang J2: Pembiasaan Terpola (*Habituated Practice*)** $\rightarrow$ Mencakup *Tahap 3 (Sadar)* & *Tahap 4 (Membiasakan)*. Scaffolding musyrif: 50%.  
 >   3. **Jenjang J3: Kemandirian Stabil (*Autonomous Stability*)** $\rightarrow$ Mencakup *Tahap 5 (Kuat/Konsisten)* & *Tahap 6 (Memberi Teladan)*. Scaffolding musyrif: 20%.  
