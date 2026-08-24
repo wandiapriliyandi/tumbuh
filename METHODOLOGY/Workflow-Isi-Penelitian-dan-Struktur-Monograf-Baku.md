@@ -1,22 +1,21 @@
 # WORKFLOW STANDAR ISI PENELITIAN & STRUKTUR BAKU MONOGRAF RISET TUMBUH
-## *Pedoman Mutu Utama (Master Quality Standard): Standarisasi Penulisan Naskah Monograf Riset Akademik, Penahapan Epistemologis Lintas Domain (Domain-Specific Staging), Eksplanasi Formulasi Konseptual & Pembahasan Mendalam (Bagian II Berbobot Utama), serta Aparatus Akademis Terpadu*
+## *Pedoman Mutu Utama (Master Quality Standard): Standarisasi Penulisan Monograf Akademis Ilmiah Murni, Penahapan Epistemologis Lintas Domain (Domain-Specific Staging), Judul Tematik Mengalir Elegan, serta Aparatus Akademis Terpadu*
 
 **Nomor Dokumen Induk**: `METHODOLOGY/TUMBUH-STD-MONOGRAPH-WORKFLOW/2026`  
 **Otoritas Pengesahan**: Dewan Keilmuan & Riset Ekosistem TUMBUH Pesantren  
-**Status**: 🌟 **Baku & Mengikat Seluruh Agen & Penulis (Master Repository Standard - Edisi Riset Akademik Murni Berjenjang)**  
+**Status**: 🌟 **Baku & Mengikat Seluruh Agen & Penulis (Master Repository Standard - Edisi Monograf Akademik Elegan)**  
 
 ---
 
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Tujuan Dokumen:**  
->   Menetapkan cetak biru (*blueprint*) dan alur kerja (*workflow*) baku penulisan naskah riset monograf di seluruh folder proyek (P1 s/d P11) agar memiliki **bobot keilmuan akademis murni (*Scholarly Treatise*)**, terbebas dari format tanya-jawab artifisial/skrip sandiwara (*Anti-Strawman Q&A*), menjaga **ketepatan penahapan epistemologis lintas domain (*Epistemic Staging*)**, menyajikan **pembahasan substantif dan formulasi mendalam pada Bagian II (50% porsi naskah)**, serta dilengkapi aparatus akademis standar internasional.
-> * **Prinsip Penahapan Epistemologis Lintas Domain (*Anti-Epistemic Leaping*):**  
->   Setiap domain memiliki batas kedalaman dan fokus substantif tersendiri:
->   - **Domain 01 (Philosophy)**: Wajib fokus pada **Meta-teori, Worldview, Epistemologi, Hakikat Insan, Aksiologi, & Tingkatan Kesadaran Filosofis Murni**. *Dilarang keras membocorkan detail teknis kurikulum kelas santri J1–J4 (Kelas 7–12) atau SOP teknis asrama secara prematur*.
->   - **Domain 02 (Institutional Architecture)**: Fokus pada Blueprint Tata Kelola, Arsitektur Lingkungan 24 Jam (*Environmental Engineering*), dan Struktur Pengasuhan.
+>   Menetapkan cetak biru (*blueprint*) dan pedoman baku penulisan naskah monograf di seluruh folder proyek (P1 s/d P11) agar memiliki **wibawa keilmuan akademis murni (*Scholarly Treatise*) setara karya Guru Besar**, terbebas dari format tanya-jawab artifisial (*Anti-Strawman Q&A*) dan label formulaik kaku (`Inkuiri 1/2/3`), menjaga **penahapan epistemologis lintas domain yang tepat (*Epistemic Staging*)**, menyajikan **pembahasan substantif dan formulasi mendalam pada Bab II (50% porsi naskah)**, serta dilengkapi aparatus akademis standar internasional.
+> * **Prinsip Penahapan Epistemologis Lintas Domain (*Anti-Category Mistake*):**  
+>   - **Domain 01 (Philosophy)**: Fokus pada **Meta-teori, Worldview, Epistemologi, Hakikat Insan, Aksiologi, & Tingkatan Kesadaran Filosofis Murni (*Maratib al-Idrak & Maratib al-Wujud*)**. Dilarang keras membocorkan detail teknis kurikulum kelas santri J1–J4 (Kelas 7–12) atau angka teknis SOP fisik asrama secara prematur.
+>   - **Domain 02 (Institutional Architecture)**: Blueprint Tata Kelola Kelembagaan, Arsitektur Lingkungan 24 Jam (*Environmental Engineering*), dan Manajemen Musyrif.
 >   - **Domain 03 (Capacity Framework)**: Tempat perumusan resmi **Taksonomi 10 Kapasitas Insan & Matriks Progresi Tangga J1–J4 (Kelas 7–12)**.
->   - **Domain 04 s/d 11 (Implementation, Counseling, Dormitory, Digital)**: Fokus pada modul operasional, logbook digital, CICO, dan restorative justice.
+>   - **Domain 04 s/d 11 (Implementation, Counseling, Dormitory, Digital)**: Modul operasional, logbook digital, CICO, dan restorative justice.
 > * **Triad Pertumbuhan Simbiotik:**  
 >   Setiap perumusan modul wajib menguraikan bagaimana inovasi yang ditawarkan menumbuhkan **Santri Tumbuh** (fitrah, adab, & otonomi moral), **Guru/Musyrif Tumbuh** (kompetensi pedagogis, konseling, & terlindungi dari burnout), dan **Sistem Lembaga Tumbuh** (SOP akuntabel berbasis data PBIS & bebas kekerasan).
 
@@ -29,23 +28,23 @@
   - [1. Metadata Header & Identifikasi Dokumen](#1-metadata-header--identifikasi-dokumen)
   - [2. Intisari Eksekutif (Executive Summary)](#2-intisari-eksekutif-executive-summary)
   - [3. Daftar Isi Terstruktur](#3-daftar-isi-terstruktur)
-  - [4. Bagian I: Landasan Teoretis & Diskursus Dialektika Kritis (Porsi 35%)](#4-bagian-i-landasan-teoretis--diskursus-dialektika-kritis-porsi-35)
-  - [5. Bagian II: Temuan Riset, Formulasi Konseptual & Pembahasan Mendalam (Porsi 50% - Jantung Naskah)](#5-bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam-porsi-50---jantung-naskah)
-  - [6. Bagian III: Kesimpulan & Aparatus Akademis (Porsi 15%)](#6-bagian-iii-kesimpulan--aparatus-akademis-porsi-15)
-- [BAGIAN 3: PEDOMAN GAYA PENULISAN AKADEMIS (ELIMINASI GAYA TERSETTING)](#bagian-3-pedoman-gaya-penulisan-akademis-eliminasi-gaya-tersetting)
+  - [4. Bab I: Landasan Teoretis & Diskursus Dialektika Kritis (Porsi 35%)](#4-bab-i-landasan-teoretis--diskursus-dialektika-kritis-porsi-35)
+  - [5. Bab II: Formulasi Konseptual & Pembahasan Mendalam (Porsi 50% - Jantung Naskah)](#5-bab-ii-formulasi-konseptual--pembahasan-mendalam-porsi-50---jantung-naskah)
+  - [6. Bab III: Kesimpulan & Aparatus Akademis (Porsi 15%)](#6-bab-iii-kesimpulan--aparatus-akademis-porsi-15)
+- [BAGIAN 3: PEDOMAN GAYA BAHASA ELEGAN & NATURAL](#bagian-3-pedoman-gaya-bahasa-elegan--natural)
 - [BAGIAN 4: CHECKLIST AUDIT MUTU KELOLOSAN NASKAH (QUALITY GATE)](#bagian-4-checklist-audit-mutu-kelolosan-naskah-quality-gate)
 
 ---
 
 # BAGIAN 1: PENAHAPAN EPISTEMOLOGIS LINTAS DOMAIN (DOMAIN-SPECIFIC STAGING)
 
-Untuk membangun arsitektur keilmuan yang kokoh dan bebas dari kerancuan kategori (*Category Mistake*), ditetapkan batasan fokus substantif bagi setiap domain:
+Untuk memastikan setiap domain berada pada kedalaman dan proporsi keilmuan yang tepat:
 
 ```mermaid
 flowchart TD
     subgraph HierarkiEpistemologisTUMBUH["HIERARKI PENAHAPAN KEILMUAN EKOSISTEM TUMBUH"]
         
-        D1["DOMAIN 01: PHILOSOPHY (FONDASI MURNI)<br/>• Meta-teori, Worldview Islam, Ontologi Wujud, Epistemologi, Aksiologi.<br/>• Tingkatan Kesadaran Filosofis (Maratib al-Idrak & Maratib al-Wujud).<br/>• DILARANG membocorkan kurikulum teknis jenjang kelas santri J1–J4."]
+        D1["DOMAIN 01: PHILOSOPHY (FONDASI MURNI)<br/>• Meta-teori, Worldview Islam, Ontologi Wujud, Epistemologi, Aksiologi.<br/>• Tingkatan Kesadaran Filosofis (Maratib al-Idrak & Maratib al-Wujud).<br/>• DILARANG membocorkan kurikulum teknis jenjang kelas santri J1–J4 atau angka teknis fisik."]
         
         D2["DOMAIN 02: INSTITUTIONAL ARCHITECTURE (TATA RUANG & SISTEM)<br/>• Arsitektur Ekosistem 24 Jam, Environmental Engineering, & Tata Kelola Lembaga.<br/>• Struktur Kepemimpinan Qudwah & Kebijakan Anti-Kekerasan."]
         
@@ -59,42 +58,33 @@ flowchart TD
     end
 ```
 
-### 📌 Aturan Khusus Domain 01 (Philosophy):
-1. **Fokus Substantif**: Murni membedah konsep hakikat realitas, hakikat ilmu, hakikat manusia, dan filosofi pendidikan.
-2. **Pengganti Matriks J1–J4**: Pada Bagian II naskah Domain 01, **TIDAK MENGGUNAKAN** tabel jenjang kelas santri J1–J4 (Kelas 7–12). Sebagai gantinya, gunakan **Dekomposisi Tingkatan Kesadaran Filosofis & Eksistensial (*Maratib al-Wujud / Maratib al-Idrak*)**, yaitu:
-   - *Tingkat 1: Kesadaran Indrawi-Empiris (*Al-Idrak al-Hissiy / 'Alam Mulk*)*.
-   - *Tingkat 2: Kesadaran Nalar Kausalitas (*Al-Idrak al-'Aqliy / Sunnatullah*)*.
-   - *Tingkat 3: Kesadaran Ruhani Muraqabah (*Al-Idrak al-Qalbiy / 'Alam Malakut*)*.
-   - *Tingkat 4: Kesadaran Hikmah & Keteladanan Paripurna (*Al-Idrak al-Kulliy / Insan Adabi*)*.
-
 ---
 
 # BAGIAN 2: ANATOMI STRUKTUR BAKU MONOGRAF RISET (35% - 50% - 15%)
 
-Setiap berkas monograf wajib mengikuti proporsi dan pembagian bab berikut:
+Setiap naskah monograf disusun dengan proporsi baku dan judul sub-bab tematik yang mengalir alami:
 
 ```mermaid
 flowchart TD
-    subgraph AnatomiMonografTUMBUH["ANATOMI BAKU MONOGRAF RISET AKADEMIK TUMBUH"]
-        Header["0. HEADER & METADATA NASKAH<br/>• Nomor Identifikasi Baku<br/>• Domain & Klasifikasi Naskah<br/>• Rumpun Disiplin Pengkaji<br/>• Intisari Eksekutif (3 Poin Blockquote)<br/>• Daftar Isi Markdown"]
+    subgraph AnatomiMonografTUMBUH["ANATOMI BAKU MONOGRAF RISET AKADEMIK ELEGAN"]
+        Header["0. HEADER & METADATA NASKAH<br/>• Nomor Identifikasi Baku & Klasifikasi Naskah<br/>• Rumpun Disiplin Pengkaji<br/>• Intisari Eksekutif (3 Poin Blockquote)<br/>• Daftar Isi Terstruktur"]
         
-        Bagian1["BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS (35%)<br/>• 1. Latar Belakang Masalah & Transformasi Paradigma (Flowchart TD)<br/>• 2. Inkuiri 1: Tinjauan Epistemologis Turats & Nash Primer (Teks Arab & Syarah)<br/>• 3. Inkuiri 2: Konvergensi Konsensus Sains, Psikologi Kognitif, & CASEL SEL<br/>• 4. Inkuiri 3: Analisis Rekayasa Kausalitas Ekosistem Asrama 24 Jam<br/>• 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif"]
+        Bab1["BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS (35%)<br/>• 1. Latar Belakang Masalah & Urgensi Filosofis<br/>• 2. Telaah Epistemologis Turats Klasik & Nash Primer (Teks Arab & Syarah)<br/>• 3. Konvergensi Sains Kognitif & Teori Psikologi Perkembangan<br/>• 4. Analisis Rekayasa Kausalitas Lingkungan Asrama 24 Jam<br/>• 5. Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif"]
         
-        Bagian2["BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM (50% - JANTUNG NASKAH)<br/>• 1. Eksplanasi Teoretis & Dekomposisi Arsitektur Model Baru secara Menyeluruh<br/>• 2. Analisis Dimensi & Tingkatan Kesadaran / Taksonomi Spesifik Domain<br/>• 3. Prinsip Aksiologis & Etika Tata Kelola / Protokol Pengasuhan Lapangan<br/>• 4. Diskusi Ilmiah Mendalam (Pembahasan Implikasi Teoretis & Praksis Kelembagaan)"]
+        Bab2["BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM (50% - JANTUNG NASKAH)<br/>• 1. Eksplanasi Teoretis & Arsitektur Model Baku secara Menyeluruh<br/>• 2. Dekomposisi Dimensi & Tingkatan Kesadaran Filosofis (Maratib al-Idrak)<br/>• 3. Prinsip Aksiologis & Etika Tata Kelola Pendidikan Islam<br/>• 4. Diskusi Filosofis Mendalam: Implikasi Teoretis bagi Peradaban Islam"]
         
-        Bagian3["BAGIAN III: KESIMPULAN & APARATUS AKADEMIS (15%)<br/>• 1. Tabel Sintesis Temuan Riset (Matriks Komparasi 5 Kolom)<br/>• 2. Daftar Pustaka Standar APA 7th & Takhrij Turats Primer (10–15 Rujukan)<br/>• 3. Catatan Kaki Akademis Presisi (12–18 Footnotes 1-to-1)<br/>• 4. Glosarium Istilah Ilmiah & Turats (10 Entri Baku)"]
+        Bab3["BAB III: SINTESIS & APARATUS AKADEMIS (15%)<br/>• 1. Tabel Sintesis Temuan Riset (Matriks Komparasi 5 Kolom)<br/>• 2. Daftar Pustaka Standar APA 7th & Takhrij Turats Primer (10–15 Rujukan)<br/>• 3. Catatan Kaki Akademis Presisi (12–18 Footnotes 1-to-1)<br/>• 4. Glosarium Istilah Ilmiah & Turats (10 Entri Baku)"]
         
-        Header ==> Bagian1 ==> Bagian2 ==> Bagian3
+        Header ==> Bab1 ==> Bab2 ==> Bab3
     end
 ```
 
 ---
 
 ### 1. Metadata Header & Identifikasi Dokumen
-Wajib mencantumkan blok identitas standar di awal berkas:
 ```markdown
 # [KODE-BERKAS]: [JUDUL BESAR DOKUMEN]
-## *Monograf Riset Akademik: [Sub-judul Komprehensif Memuat Fondasi Filosofis, Konsensus Sains, dan Formulasi Operasional Pesantren 24 Jam]*
+## *Monograf Riset: [Sub-judul Komprehensif Memuat Fondasi Filosofis, Konsensus Sains, dan Formulasi Teoretis]*
 
 **Nomor Identifikasi**: `[KODE]/MONOGRAF-RISET-[TOPIK]/2026`  
 **Domain**: `[Nomor Domain]` > `[Nama Folder]` (Sub-Modul `[XX]`: `[Topik]`)  
@@ -106,81 +96,64 @@ Wajib mencantumkan blok identitas standar di awal berkas:
 
 ### 2. Intisari Eksekutif (Executive Summary)
 Memuat ringkasan eksekutif 3 poin dalam *blockquote alert*:
-* **Kelemahan/Anomali Paradigma Konvensional**: Apa kegagalan mendasar di lapangan pesantren?
+* **Kelemahan/Anomali Paradigma Konvensional**: Apa kegagalan mendasar dalam cara pandang lama?
 * **Inovasi Konseptual & Teoretis TUMBUH**: Apa tawaran model baru dan sintesis keilmuan yang dirumuskan?
-* **Formulasi Operasional & Pembuktian Lapangan**: Bagaimana mekanisme implementasi dan dampak simbiotiknya?
+* **Formulasi Operasional & Dampak Triad**: Bagaimana transformasi kesadaran dan etika tata kelola yang dihasilkan?
 
 ---
 
 ### 3. Daftar Isi Terstruktur
-Memuat tautan jangkar markdown internal (*anchor links*) menuju Bagian I, Bagian II, dan Bagian III secara lengkap.
+Memuat tautan jangkar markdown internal (*anchor links*) menuju Bab I, Bab II, dan Bab III secara lengkap.
 
 ---
 
-### 4. Bagian I: Landasan Teoretis & Diskursus Dialektika Kritis (Porsi 35%)
+### 4. Bab I: Landasan Teoretis & Diskursus Dialektika Kritis (Porsi 35%)
 
-Bagian ini membedah akar masalah dan tinjauan literatur kritis melalui **narasi ilmiah mengalir tanpa format tanya-jawab buatan**:
-
-* **1. Latar Belakang Masalah**: Narasi kritis fenomena lapangan (*Ground-zero problem*) disertai Diagram Transformasi Paradigma (`flowchart TD`).
-* **2. Inkuiri 1 (Epistemologi Turats & Teologis)**:
-  * Kritik terhadap reduksionisme historis / pemahaman sempit.
-  * Pemaparan dalil Al-Qur'an dan Hadits primer dengan khat Arab berharakat, terjemahan, dan syarah mendalam (*Ihya', Thahawiyyah, Al-Muwafaqat, Madarijus Salikin, dll.*).
-  * Penalaran deduktif mantiqi yang menyatu dalam paragraf argumentasi.
-* **3. Inkuiri 2 (Konvergensi Sains Kognitif & Psikologi Perkembangan)**:
-  * Tinjauan konsensus sains internasional peer-reviewed (Neurosains PFC-Amigdala, CASEL SEL, *Self-Determination Theory*, *Executive Functions*, dll.).
-  * Rekonsiliasi ilmiah antara temuan empiris modern dengan prinsip fitrah Islam.
-* **4. Inkuiri 3 (Rekayasa Sistemik & Dinamika Lingkungan 24 Jam)**:
-  * Analisis kausalitas tata ruang asrama (Masjid, Kelas, Kamar, Titik Rawan/Hotspots, Fasilitas Gawai).
-  * Pemodelan ekosistem pembiasaan karakter (*Habit Loop & Environmental Nudges*).
-* **5. Inkuiri 4 (Kasuistika Lapangan Klinis & Resolusi Restoratif)**:
-  * Analisis mendalam terhadap dilema nyata pengasuhan asrama (akar penyebab psikosial dan sistemik).
-  * Diagram Alur Protokol Restoratif (`flowchart TD`) yang mengedepankan de-eskalasi emosi, tabayyun, restitusi logis, dan pemulihan ukhuwah tanpa kekerasan.
+Menyajikan diskursus kritis dengan judul sub-bab tematik substantif yang mengalir:
+1. **Krisis Paradigma / Latar Belakang Masalah**: Uraian fenomena kritis disertai Diagram Alur Transformasi (`flowchart TD`).
+2. **Telaah Epistemologi Turats & Nash Primer**: Teks Arab berharakat, terjemahan, dan syarah mu'tabar (*Ihya', Thahawiyyah, Al-Muwafaqat, Madarijus Salikin, dll.*).
+3. **Konvergensi Sains Kognitif & Psikologi**: Tinjauan sains neurobiologis, CASEL SEL, dan Self-Determination Theory.
+4. **Analisis Rekayasa Kausalitas Lingkungan 24 Jam**: Penyatuan hukum alam fisik (*'Alam Mulk*) dan spiritual (*'Alam Malakut*).
+5. **Kasuistika Lapangan & Resolusi Restoratif**: Studi kasus klinis dan Diagram Alur Resolusi Restoratif (`flowchart TD`).
 
 ---
 
-### 5. Bagian II: Temuan Riset, Formulasi Konseptual & Pembahasan Mendalam (Porsi 50% - Jantung Naskah)
+### 5. Bab II: Formulasi Konseptual & Pembahasan Mendalam (Porsi 50% - Jantung Naskah)
 
 **Bagian ini adalah INTI DAN BAGIAN PALING TEBAL dari seluruh monograf.** Wajib menguraikan secara luas, detail, dan deskriptif:
-
-* **1. Eksplanasi Teoretis & Arsitektur Konseptual Model Baru**:
-  * Menjabarkan secara mendalam filosofi dan definisi operasional dari setiap dimensi/komponen model.
-  * Menjelaskan hubungan saling-pengaruh antar-variabel, mekanisme input-proses-output, dan diagram arsitektur sistem.
-* **2. Analisis Dimensi & Tingkatan Kesadaran / Taksonomi Domain**:
-  * *Untuk Domain 01 (Philosophy)*: Dekomposisi 4 Tingkat Kesadaran Eksistensial (*Indrawi, Kausalitas Nalar, Ruhani Muraqabah, dan Hikmah/Insan Adabi*).
-  * *Untuk Domain 03 (Capacity Framework)*: Dekomposisi Matriks Tangga J1–J4 (Kelas 7–12) dengan narasi transisi psikologis mendalam.
-* **3. Prinsip Aksiologis & Etika Tata Kelola / Protokol Operasional Lapangan**:
-  * Menjabarkan prinsip etika tata kelola dan perlindungan fitrah (Domain 01) atau Standar Operasional Prosedur PBIS Multi-Tier terperinci (Domain 02, 03, 04).
-  * Strategi pencegahan kelelahan kerja (*Burnout Protection*) bagi tenaga pendidik/musyrif.
-* **4. Diskusi Ilmiah & Implikasi Kebijakan Kelembagaan (*Scholarly Discussion*)**:
-  * Membahas mengapa formulasi ini menjawab kelemahan sistem lama.
-  * Implikasi teoretis bagi pengembangan ilmu pendidikan Islam kontemporer.
-  * Implikasi praktis bagi penjaminan mutu lembaga pesantren dan peradaban Islam.
+1. **Eksplanasi Teoretis & Arsitektur Konseptual Model Baru**: Penjabaran filosofi, definisi operasional setiap pilar wujud, dan diagram arsitektur sistem.
+2. **Dekomposisi Dimensi & Empat Tingkatan Kesadaran Filosofis (*Maratib al-Idrak*)**:
+   - *Tingkat 1: Kesadaran Indrawi-Empiris (*Al-Idrak al-Hissiy / 'Alam Mulk*)*
+   - *Tingkat 2: Kesadaran Nalar Kausalitas (*Al-Idrak al-'Aqliy / Sunnatullah*)*
+   - *Tingkat 3: Kesadaran Ruhani Muraqabah (*Al-Idrak al-Qalbiy / 'Alam Malakut*)*
+   - *Tingkat 4: Kesadaran Hikmah & Insan Adabi Paripurna (*Al-Idrak al-Kulliy / Qudwah Hasanah*)*
+   - Narasi analitis dinamika transisi filosofis antar-tingkatan.
+3. **Prinsip Aksiologis & Etika Tata Kelola Pendidikan Islam**: Prinsip pemuliaan fitrah insan, keadilan syariat, dan proteksi tenaga pendidik dari burnout.
+4. **Diskusi Filosofis Mendalam (*Scholarly Discussion*)**: Implikasi teoretis bagi pengembangan ilmu pendidikan Islam dan masa depan peradaban umat.
 
 ---
 
-### 6. Bagian III: Kesimpulan & Aparatus Akademis (Porsi 15%)
+### 6. Bab III: Kesimpulan & Aparatus Akademis (Porsi 15%)
 
-* **1. Tabel Sintesis Temuan Riset**: Matriks komparasi 5 kolom (*Dimensi Parameter, Paradigma Tradisional, Rekonstruksi TUMBUH, Landasan Rujukan Primer, Implikasi Praksis Lapangan*).
-* **2. Daftar Pustaka Akademis & Rujukan Turats Primer**: 10–15 daftar pustaka otoritatif standar APA 7th Edition + Tahqiq Turats Klasik.
-* **3. Catatan Kaki Akademis (*Footnotes*)**: 12–18 sitasi catatan kaki presisi (`[^1]` s/d `[^18]`) dengan relasi 1-to-1 terhadap teks.
-* **4. Glosarium Istilah Ilmiah & Turats**: 10 entri istilah baku beserta definisi operasionalnya.
+1. **Tabel Sintesis Temuan Riset**: Matriks komparasi 5 kolom (*Dimensi Parameter, Paradigma Tradisional, Rekonstruksi TUMBUH, Landasan Rujukan Primer, Implikasi Praksis Lapangan*).
+2. **Daftar Pustaka Akademis & Rujukan Turats Primer**: 10–15 daftar pustaka otoritatif standar APA 7th Edition + Tahqiq Turats Klasik.
+3. **Catatan Kaki Akademis (*Footnotes*)**: 12–18 sitasi catatan kaki presisi (`[^1]` s/d `[^18]`) dengan relasi 1-to-1 terhadap teks.
+4. **Glosarium Istilah Ilmiah & Turats**: 10 entri istilah baku beserta definisi operasionalnya.
 
 ---
 
-# BAGIAN 3: PEDOMAN GAYA PENULISAN AKADEMIS (ELIMINASI GAYA TERSETTING)
-
-Untuk memastikan naskah berwibawa dan tidak terasa kaku atau buatan:
+# BAGIAN 3: PEDOMAN GAYA BAHASA ELEGAN & NATURAL
 
 1. ❌ **DILARANG MENGGUNAKAN**:
-   - Format dialog "🥊 Ronde 1 / Ronde 2 / Ronde 3".
-   - Kutipan kartun/strawman seperti *"Pihak A: 'Santri harus dipukul biar jera'..."*.
-   - Frasa formulaik kaku *"Premis Mayor: ... Premis Minor: ... Konklusi: ..."* di setiap sub-bab.
-   - Pembocoran prematur jenjang kelas santri J1–J4 pada Domain 01 (Philosophy).
+   - Format dialog semu "🥊 Ronde 1 / Ronde 2 / Ronde 3".
+   - Label template kaku seperti `Inkuiri 1: ...`, `Inkuiri 2: ...`.
+   - Kutipan strawman karikatur.
+   - Pembocoran prematur kurikulum kelas santri J1–J4 di Domain 01 Philosophy.
 2. ✅ **WAJIB MENGGUNAKAN**:
-   - Gaya penulisan monograf ilmiah berbobot (*Academic Scholarly Discourse*).
-   - Analisis diskursus kritis yang mempertemukan madzhab pemikiran secara objektif.
-   - Penjelasan mendalam, deskriptif, dan aplikatif pada Bagian II.
-   - Nada tulisan yang ilmiah, mengalir, transformatif, dan sarat adab.
+   - Judul sub-bab tematik substantif yang mengalir dan berwibawa.
+   - Gaya penulisan monograf ilmiah tingkat Guru Besar (*Scholarly Treatise*).
+   - Analisis diskursus kritis yang mendalam dan deskriptif pada Bab II.
+   - Nada tulisan yang akademis, mengalir, transformatif, dan sarat adab.
 
 ---
 
@@ -188,9 +161,9 @@ Untuk memastikan naskah berwibawa dan tidak terasa kaku atau buatan:
 
 | No | Parameter Audit Mutu | Kriteria Kelolosan Mutlak | Status Verifikasi |
 | :--- | :--- | :--- | :--- :---: |
-| 1 | **Proporsi Substantif** | **Bagian II mencakup minimal 45–50% dari total panjang naskah** dengan uraian eksplanatif yang kaya dan mendalam. | [ ] |
-| 2 | **Gaya Penulisan Ilmiah** | Bebas 100% dari format dialog ronde tinju / strawman Q&A; naskah mengalir secara akademis murni. | [ ] |
-| 3 | **Penahapan Epistemologis** | Naskah Domain 01 tidak membocorkan teknis jenjang kelas J1–J4; fokus pada tingkatan kesadaran ontologis murni. | [ ] |
+| 1 | **Proporsi Substantif** | **Bab II mencakup minimal 45–50% dari total panjang naskah** dengan uraian eksplanatif yang kaya dan mendalam. | [ ] |
+| 2 | **Gaya Bahasa Elegan** | Bebas 100% dari label `Inkuiri 1/2/3` dan dialog ronde tinju; sub-bab bertema substantif mengalir alami. | [ ] |
+| 3 | **Penahapan Epistemologis** | Domain 01 murni meta-teori & 4 tingkatan kesadaran (*Maratib al-Idrak*); tidak membocorkan teknis jenjang J1–J4. | [ ] |
 | 4 | **Kedalaman Turats** | Memuat teks Arab berharakat, syarah kitab mu'tabar, dan hermeneutika syar'i yang otoritatif. | [ ] |
 | 5 | **Ketajaman Sains** | Mengintegrasikan neurosains kognitif, CASEL SEL, dan teori psikologi perkembangan mutakhir. | [ ] |
 | 6 | **Triad Pertumbuhan** | Menguraikan dampak positif serempak bagi Santri, Guru/Musyrif, dan Sistem Lembaga. | [ ] |

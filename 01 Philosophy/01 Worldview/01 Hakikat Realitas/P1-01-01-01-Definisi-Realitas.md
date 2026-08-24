@@ -21,18 +21,18 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Krisis Cara Pandang Realitas dalam Pendidikan Pesantren](#1-latar-belakang-masalah-krisis-cara-pandang-realitas-dalam-pendidikan-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Hakikat Wujud & Integrasi Kausalitas Syar'i (QS. Al-An'am: 73 & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-hakikat-wujud--integrasi-kausalitas-syari-qs-al-anam-73--al-ghazali)
-  - [3. Inkuiri 2: Konvergensi Ontologi Teistik, Neurosains Kognitif, & Psikologi Kausalitas](#3-inkuiri-2-konvergensi-ontologi-teistik-neurosains-kognitif--psikologi-kausalitas)
-  - [4. Inkuiri 3: Rekayasa Kausalitas Ekosistem Asrama 24 Jam (Penyatuan Alam Mulk & Malakut)](#4-inkuiri-3-rekayasa-kausalitas-ekosistem-asrama-24-jam-penyatuan-alam-mulk--malakut)
-  - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Telaah Epistemologi Turats: Hakikat Wujud & Integrasi Kausalitas Syar'i (QS. Al-An'am: 73 & Al-Ghazali)](#2-telaah-epistemologi-turats-hakikat-wujud--integrasi-kausalitas-syari-qs-al-anam-73--al-ghazali)
+  - [3. Konvergensi Sains Kognitif: Neurobiologi Kausalitas & Regulasi Fitrah Insan](#3-konvergensi-sains-kognitif-neurobiologi-kausalitas--regulasi-fitrah-insan)
+  - [4. Rekonsiliasi Realitas Kosmis: Penyatuan 'Alam Mulk & 'Alam Malakut di Asrama 24 Jam](#4-rekonsiliasi-realitas-kosmis-penyatuan-alam-mulk--alam-malakut-di-asrama-24-jam)
+  - [5. Kasuistika Lapangan: Distorsi Fatalisme Pasif & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-distorsi-fatalisme-pasif--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Eksplanasi Teoretis & Arsitektur Realisme Integral Teistik TUMBUH](#1-eksplanasi-teoretis--arsitektur-realisme-integral-teistik-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ontologis (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-ontologis-maratib-al-idrak)
   - [3. Prinsip Aksiologis & Etika Tata Kelola Lingkungan Pesantren 24 Jam](#3-prinsip-aksiologis--etika-tata-kelola-lingkungan-pesantren-24-jam)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Hakikat Realitas](#1-tabel-sintesis-temuan-riset-hakikat-realitas)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -40,7 +40,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Hakikat Wujud & Integrasi Kausalitas Syar'i (QS. Al-An'am: 73 & Al-Ghazali)
+### 2. Telaah Epistemologi Turats: Hakikat Wujud & Integrasi Kausalitas Syar'i (QS. Al-An'am: 73 & Al-Ghazali)
 
 Dalam epistemologi Islam klasik (*Turats*), realitas wujud dipahami sebagai hierarki kosmis yang diciptakan dengan kebenaran hakiki (*Bil-Haqq*):
 
@@ -78,11 +78,9 @@ $$\text{فَلَيْسَ مِنْ شَرْطِ التَّوَكُّلِ تَرْ
 
 *"**Maka bukanlah syarat tawakal itu meninggalkan sebab-sebab ikhtiar nyata secara keseluruhan**, melainkan tawakal adalah kondisi kalbu yang meyakini bahwa Sang Pencipta Sebab (*Al-Musabbib*) adalah Allah dan seluruh sebab-sebab fisik tunduk di bawah kekuasaan-Nya. **Maka barangsiapa menyangka bahwa tawakal adalah menelantarkan ikhtiar raga dan merusak hukum sunnatullah, sungguh ia telah bodoh terhadap hakikat syariat dan hakikat realitas wujud**."*[^3]
 
-Teks ini membuktikan bahwa penataan sanitasi, pencahayaan kamar tidur, dan pemenuhan hak biologis tubuh di pesantren bukanlah perkara keduniaan yang terpisah dari agama, melainkan perwujudan ketaatan terhadap *Sunnatullah Kauniyyah* yang ditetapkan Allah SWT.[^4]
-
 ---
 
-### 3. Inkuiri 2: Konvergensi Ontologi Teistik, Neurosains Kognitif, & Psikologi Kausalitas
+### 3. Konvergensi Sains Kognitif: Neurobiologi Kausalitas & Regulasi Fitrah Insan
 
 Konsensus sains mutakhir memvalidasi bahwa manusia adalah kesatuan psiko-biologis yang utuh:
 
@@ -90,68 +88,37 @@ Konsensus sains mutakhir memvalidasi bahwa manusia adalah kesatuan psiko-biologi
 flowchart LR
     subgraph KausalitasNeurobiologis["RANTAI KAUSALITAS NEUROBIOLOGIS DI ASRAMA"]
         LingkunganSehat["Lingkungan Sehat: Sirkulasi Udara & Jam Tidur Cukup"]
-        
         OptimasiOtak["Regulasi Korteks Prefrontal (PFC) & Kestabilan Neurotransmiter"]
-        
         KesiapanKalbu["Kesiapan Kognitif Menyerap Adab & Menghayati Ibadah"]
         
         LingkunganSehat --> OptimasiOtak --> KesiapanKalbu
     end
 ```
 
-Riset **Prof. Robert Sapolsky** (2017) dalam *Behave* menegaskan bahwa stres kronis akibat lingkungan kumuh dan ancaman hukuman fisik secara konstan memicu pelepasan hormon kortisol dan hiperaktivitas amigdala (*Toxic Stress*). Akibatnya, fungsi korteks prefrontal (PFC) yang bertugas mengatur regulasi emosi, pertimbangan moral, dan daya ingat jangka panjang mengalami atrofi fungsional.[^5] 
+Riset **Prof. Robert Sapolsky** (2017) dalam *Behave* menegaskan bahwa stres kronis akibat lingkungan kumuh dan ancaman hukuman fisik memicu pelepasan hormon kortisol dan hiperaktivitas amigdala (*Toxic Stress*). Akibatnya, fungsi korteks prefrontal (PFC) yang bertugas mengatur regulasi emosi, pertimbangan moral, dan daya ingat jangka panjang mengalami atrofi fungsional.[^5] 
 
-Santri yang dididik dalam teror ancaman fisik hanya membentuk **Kepatuhan Semu (*Fear-Induced Compliance*)** yang rapuh. Sebaliknya, pendekatan **Self-Determination Theory** (Deci & Ryan, 2000) membuktikan bahwa motivasi intrinsik dan regulasi diri otonom hanya tumbuh ketika kebutuhan dasar psikologis (otonomi, kompetensi, dan keterhubungan kasih sayang) terpenuhi dalam lingkungan yang aman dan teratur (*Bi'ah Shalihah*).[^6]
+Santri yang dididik dalam teror ancaman fisik hanya membentuk **Kepatuhan Semu (*Fear-Induced Compliance*)** yang rapuh. Sebaliknya, pendekatan **Self-Determination Theory** (Deci & Ryan, 2000) membuktikan bahwa motivasi intrinsik dan regulasi diri otonom hanya tumbuh ketika kebutuhan dasar psikologis terpenuhi dalam lingkungan yang aman dan teratur (*Bi'ah Shalihah*).[^6]
 
 ---
 
-### 4. Inkuiri 3: Rekayasa Kausalitas Ekosistem Asrama 24 Jam (Penyatuan Alam Mulk & Malakut)
+### 4. Rekonsiliasi Realitas Kosmis: Penyatuan 'Alam Mulk & 'Alam Malakut di Asrama 24 Jam
 
 Penyelidikan membuktikan bahwa santri di pesantren hidup selama 24 jam penuh dalam keterikatan antara ruang fisik (*'Alam Mulk*) dan dinamika spiritual (*'Alam Malakut*):
-
-```mermaid
-flowchart TD
-    subgraph RekayasaEkosistem24Jam["INTEGRASI LOKUS FISIK & SPIRITUAL ASRAMA 24 JAM"]
-        LokusKamar["1. Lokus Kamar Tidur: Ventilasi 10% & Sirkulasi Sirkadian (Tidur 21.45-04.00)"]
-        LokusMasjid["2. Lokus Masjid: Shalat Khusyu' Berjamaah & Zikir Muraqabatullah"]
-        LokusKelas["3. Lokus Kelas: Pembelajaran Adab Berbasis Dialog Sokratik & Fitrah"]
-        LokusSosial["4. Lokus Titik Rawan: Patroli Preventif Musyrif Bebas Bullying"]
-        
-        LokusKamar <===> LokusMasjid <===> LokusKelas <===> LokusSosial
-    end
-```
-
-Setiap elemen fisik di asrama memiliki konsekuensi spiritual:
 * Kamar mandi yang kotor dan berbau busuk merusak kesucian thaharah (*'Alam Mulk*) dan menghilangkan ketenangan malaikat (*'Alam Malakut*).
 * Udara kamar yang pengap menyebabkan hipoksia otak ringan yang membuat santri mengantuk saat shalat tahajjud dan lalai saat mengaji Al-Qur'an.[^7]
 
 ---
 
-### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
+### 5. Kasuistika Lapangan: Distorsi Fatalisme Pasif & Resolusi Restoratif Terpadu
 
-Penyelidikan klinis terhadap dinamika santri di asrama menghasilkan protokol resolusi restoratif:
-
-```mermaid
-flowchart TD
-    subgraph AlurResolusiRestoratif["PROTOKOL RESOLUSI RESTORATIF TERPADU (<12 JAM)"]
-        Insiden["1. Terjadi Pelanggaran / Kerusakan Fasilitas Asrama"]
-        Penenangan["2. De-eskalasi Emosi & Pengamanan Lokasi (Bebas Bentakan & Pukulan)"]
-        Tabayyun["3. Dialog Tabayyun 1-on-1: Mengidentifikasi Akar Masalah Psikosial"]
-        Restitusi["4. Penetapan Konsekuensi Logis Restitusi (Memperbaiki Kerusakan)"]
-        Reintegrasi["5. Pemulihan Hubungan (Ishlah al-Bain) & Peneguhan Radar Muraqabah"]
-        
-        Insiden --> Penenangan --> Tabayyun --> Restitusi --> Reintegrasi
-    end
-```
-
-* **Studi Kasus 1: Santri Merusak Lemari Asrama Akibat Ledakan Emosi**  
-  * **Dilema**: Santri kelas 8 menendang pintu lemari kamar hingga hancur setelah berselisih dengan teman sekamar.
-  * **Pola Lama**: Santri dipukul dengan rotan di depan santri lain dan dipajang di lapangan (mengakibatkan trauma dan dendam).
-  * **Resolusi Restoratif TUMBUH**: Musyrif menenangkan santri di ruang konseling (Tier 2). Setelah emosi stabil, dilakukan dialog tabayyun. Santri diminta mengganti kerusakan lemari melalui tabungannya dan belajar pertukangan sederhana untuk memperbaiki pintu lemari. Santri diajak bermuhasabah tentang hakikat hisab akhirat atas perusakan barang milik umat. Santri menyadari kesalahannya dengan penuh kesadaran diri (*Self-Awareness*) tanpa meninggalkan luka batin.[^8]
+* **Studi Kasus: Santri Merusak Lemari Asrama Akibat Ledakan Emosi**  
+  * **Dilema**: Santri menendang pintu lemari kamar hingga hancur setelah berselisih dengan teman sekamar.
+  * **Pola Lama**: Santri dipukul dengan rotan di depan publik (mengakibatkan trauma dan dendam).
+  * **Resolusi Restoratif TUMBUH**: Musyrif menenangkan santri di ruang konseling. Setelah emosi stabil, dilakukan dialog tabayyun. Santri diminta mengganti kerusakan lemari melalui tabungannya dan belajar pertukangan sederhana untuk memperbaiki pintu lemari. Santri diajak bermuhasabah tentang hisab akhirat atas perusakan barang milik umat. Santri menyadari kesalahannya dengan penuh kesadaran diri (*Self-Awareness*) tanpa meninggalkan luka batin.[^8]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -176,18 +143,15 @@ flowchart TD
 ```
 
 #### 🔬 Pembahasan Mendalam Tiga Unsur Wujud:
-1. **Wujud Transenden Mutlak (Allah SWT)**:  
-   Allah adalah *Al-Haqq* (Kebenaran Hakiki). Segala sesuatu selain Allah adalah makhluk yang bergantung secara mutlak pada ketetapan-Nya (*Mumkin al-Wujud*). Realitas ini menegaskan bahwa tujuan tertinggi pendidikan pesantren adalah mengantarkan santri mengenal, mengabdi, dan meraih ridha Allah SWT (*Ma'rifatullah*).[^9]
-2. **Domain Kasat Mata (*'Alam al-Mulk / asy-Syahadah*)**:  
-   Alam fisik bukanlah ilusi atau bayangan kosong, melainkan ciptaan nyata yang diatur oleh hukum-hukum keteraturan yang dapat diteliti secara ilmiah (*Sunnatullah Kauniyyah*). Menjaga kesehatan tubuh, mengatur jam tidur sirkadian, dan menata sanitasi air wudhu adalah bentuk ibadah praktis untuk memuliakan amanah penciptaan fisik.
-3. **Domain Metafisik Transendental (*'Alam al-Malakut / al-Ghayb*)**:  
-   Alam batiniah dan metafisik beroperasi secara nyata bersamaan dengan alam fisik. Niat yang ikhlas di dalam kalbu (*'Alam Malakut*) menggerakkan tangan untuk membersihkan asrama (*'Alam Mulk*), yang kemudian mendatangkan ketenangan sakinah dan rahmat Allah ke dalam asrama.[^10]
+1. **Wujud Transenden Mutlak (Allah SWT)**: Allah adalah *Al-Haqq* (Kebenaran Hakiki). Segala sesuatu selain Allah adalah makhluk yang bergantung secara mutlak pada ketetapan-Nya (*Mumkin al-Wujud*). Realitas ini menegaskan bahwa tujuan tertinggi pendidikan pesantren adalah mengantarkan santri mengenal, mengabdi, dan meraih ridha Allah SWT (*Ma'rifatullah*).[^9]
+2. **Domain Kasat Mata (*'Alam al-Mulk / asy-Syahadah*)**: Alam fisik bukanlah ilusi atau bayangan kosong, melainkan ciptaan nyata yang diatur oleh hukum-hukum keteraturan yang dapat diteliti secara ilmiah (*Sunnatullah Kauniyyah*). Menjaga kesehatan tubuh dan kebersihan lingkungan adalah bentuk ibadah praktis untuk memuliakan amanah penciptaan fisik.
+3. **Domain Metafisik Transendental (*'Alam al-Malakut / al-Ghayb*)**: Alam batiniah beroperasi secara nyata bersamaan dengan alam fisik. Niat yang ikhlas di dalam kalbu (*'Alam Malakut*) menggerakkan tangan untuk beramal shalih di alam fisik (*'Alam Mulk*), yang mendatangkan ketenteraman batin dan keberkahan Ilahi.[^10]
 
 ---
 
 ### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ontologis (Maratib al-Idrak)
 
-Dalam filsafat pendidikan Islam TUMBUH, transformasi pemahaman santri dan pengasuh terhadap hakikat realitas berlangsung melalui **Empat Tingkatan Kesadaran Ontologis (*Maratib al-Idrak al-Wujudiy*)**:
+Transformasi pemahaman santri dan pengasuh terhadap hakikat realitas berlangsung melalui **Empat Tingkatan Kesadaran Ontologis (*Maratib al-Idrak al-Wujudiy*)**:
 
 ```mermaid
 flowchart TD
@@ -206,21 +170,21 @@ flowchart TD
 ```
 
 #### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
-* **Transisi Tingkat 1 ke Tingkat 2 (Dari Persepsi Indrawi Menuju Nalar Kausalitas)**: Santri mula-mula berinteraksi dengan realitas lahiriah asrama. Pada tingkatan kedua, akal budi santri menangkap hukum kausalitas sunnatullah: santri memahami bahwa mengantuk saat halaqah bukanlah takdir buta, melainkan akibat dari begadang; dan bahwa kegagalan ujian hafalan menuntut evaluasi strategi belajar, bukan kepasrahan fatalistik.
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Persepsi Indrawi Menuju Nalar Kausalitas)**: Santri mula-mula berinteraksi dengan realitas lahiriah asrama. Pada tingkatan kedua, akal budi santri menangkap hukum kausalitas sunnatullah: santri memahami bahwa mengantuk saat halaqah bukanlah takdir buta, melainkan akibat dari begadang; dan bahwa kegagalan ujian menuntut evaluasi strategi belajar, bukan kepasrahan fatalistik.
 * **Transisi Tingkat 2 ke Tingkat 3 (Dari Nalar Kausalitas Menuju Mata Hati Muraqabah)**: Pada tingkatan ketiga, kesadaran menembus dinding alam materi menuju alam malakut. Santri menyadari bahwa setiap desah nafas dan gerak gerik fisiknya disaksikan oleh Allah SWT (*Basheer & Samee'*). Disiplin moral tidak lagi membutuhkan pengawasan fisik musyrif, karena kalbu telah memiliki sistem pengawasan internal yang kokoh.
-* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Insan Adabi Paripurna)**: Pada tingkatan tertinggi, santri memancarkan kematangan *Insan Adabi*: seluruh amal lahiriahnya di alam mulk mencerminkan kesucian batinnya di alam malakut. Santri memimpin peradaban dengan keteladanan akhlak mulia (*Qudwah Hasanah*), penuh kasih sayang kepada sesama makhluk, dan teguh menegakkan keadilan syariat.[^11]
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Insan Adabi Paripurna)**: Pada tingkatan tertinggi, santri memancarkan kematangan *Insan Adabi*: seluruh amal lahiriahnya di alam mulk mencerminkan kesucian batinnya di alam malakut. Santri memimpin peradaban dengan keteladanan akhlak mulia (*Qudwah Hasanah*), penuh kasih sayang kepada sesama, dan teguh menegakkan keadilan syariat.[^11]
 
 ---
 
 ### 3. Prinsip Aksiologis & Etika Tata Kelola Lingkungan Pesantren 24 Jam
 
-Formulasi Realisme Teistik Integratif melahirkan prinsip-prinsip etika tata kelola ekosistem asrama:
+Formulasi Realisme Teistik Integratif melahirkan prinsip etika tata kelola ekosistem asrama:
 
 ```mermaid
 flowchart TD
     subgraph EtikaTataKelolaRealisme["PRINSIP AKSIOLOGIS PENGASUHAN ASRAMA 24 JAM"]
         
-        E1["1. PEMULIAAN FITRAH & RAGA SANTRI (Hifzh an-Nafs)<br/>• Menjamin standarisasi sanitasi air bersih, ventilasi kamar >= 10%, & gizi seimbang.<br/>• Mengharamkan segala bentuk hukuman fisik, penelantaran tidur, & perundungan."]
+        E1["1. PEMULIAAN FITRAH & RAGA SANTRI (Hifzh an-Nafs)<br/>• Menjamin standarisasi sanitasi air bersih, ventilasi kamar sehat, & gizi seimbang.<br/>• Mengharamkan segala bentuk hukuman fisik, penelantaran tidur, & perundungan."]
         
         E2["2. KESEIMBANGAN IKHTIAR & TAWAKKAL (I'tidal al-Asbab)<br/>• Menolak mistisisme pasif yang menormalisasi lingkungan kumuh.<br/>• Memadukan 100% ikhtiar ilmiah dengan 100% kepasrahan doa munajat."]
         
@@ -231,12 +195,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Standarisasi Lokus Fisik Ramah Neurobiologis**:
-   - Kamar tidur santri wajib memiliki ventilasi silang (*Cross Ventilation*) minimal 10% dari luas lantai, pencahayaan alami minimal 150 Lux, dan kepadatan ruang maksimal 4–6 santri per kobong.
-2. **Penegakan Jam Sirkadian Biologis Otak**:
-   - Jadwal tidur malam dipatok pukul 21.45 (lampu padam pukul 22.00) hingga bangun pukul 04.00, ditambah tidur siang singkat (*Qailulah*) 30 menit sebelum Dzuhur guna memastikan pemulihan sel-sel saraf otak.
-3. **Pemberlakuan Sistem Apresiasi 4:1 Berbasis Fitrah**:
-   - Musyrif mengedepankan penguatan perilaku positif (*Positive Reinforcement*) dengan rasio minimal 4 apresiasi tulus untuk setiap 1 koreksi edukatif.[^12]
+1. **Standarisasi Lokus Fisik Ramah Neurobiologis**: Memastikan sirkulasi udara sehat dan pencahayaan alami yang cukup di seluruh kamar tidur santri.
+2. **Penegakan Jam Sirkadian Biologis Otak**: Memastikan santri mendapatkan istirahat malam yang berkualitas dan tidur siang singkat (*Qailulah*) guna memulihkan kesegaran saraf otak.
+3. **Pemberlakuan Sistem Apresiasi 4:1 Berbasis Fitrah**: Mengedepankan penguatan perilaku positif (*Positive Reinforcement*) dengan rasio minimal 4 apresiasi untuk setiap 1 koreksi edukatif.[^12]
 
 ---
 
@@ -244,19 +205,13 @@ flowchart TD
 
 Penerapan doktrin Realisme Integral Teistik membawa dampak transformatif bagi masa depan kelembagaan pesantren:
 
-* **Mendobrak Dikotomi Klasik Pendidikan Islam**:  
-  Selama berabad-abad, pendidikan Islam terbelah antara madrasah modern yang kering spiritualitas dan pesantren salaf yang sering mengabaikan sains dan manajemen mutu. Realisme Teistik TUMBUH membuktikan bahwa sains manajemen, arsitektur sehat, dan psikologi perkembangan adalah perpanjangan tangan dari ketakwaan kepada Allah SWT.
-* **Membangun Ekosistem Triad Pertumbuhan Simbiotik**:  
-  Sistem ini memastikan tiga pihak bertumbuh bersama:
-  - **Santri Bertumbuh**: Fitrah, adab, kesehatan raga, dan ketajaman intelektualnya berkembang seimbang.
-  - **Guru/Musyrif Bertumbuh**: Bekerja dalam sistem yang manusiawi, kompetensi konselingnya meningkat, dan terhindar dari stres kerja.
-  - **Lembaga Bertumbuh**: Pesantren tampil sebagai institusi pendidikan modern yang akuntabel, higienis, dan dipercaya oleh masyarakat global.[^13]
-* **Revitalisasi Spiritualitas Berbasis Data (*Evidence-Based Tarbiyah*)**:  
-  Spiritualitas tidak lagi dimaknai secara abstrak-kabur, melainkan tercermin dalam indikator perilaku nyata: kebersihan kobong, ketepatan waktu shalat, kejujuran lisan, dan kemampuan menyelesaikan konflik secara damai.[^14]
+* **Mendobrak Dikotomi Klasik Pendidikan Islam**: Realisme Teistik TUMBUH membuktikan bahwa sains manajemen, arsitektur sehat, dan psikologi perkembangan adalah sarana untuk mengagungkan syariat Allah SWT.
+* **Membangun Ekosistem Triad Pertumbuhan Simbiotik**: Santri bertumbuh adab dan potensinya, Musyrif bertumbuh kompetensi pedagogisnya dan terlindungi dari burnout, serta Lembaga Pesantren bertumbuh menjadi institusi modern yang terpercaya.[^13]
+* **Revitalisasi Spiritualitas Berbasis Data (*Evidence-Based Tarbiyah*)**: Spiritualitas tercermin dalam indikator perilaku nyata: kebersihan kamar, ketepatan waktu ibadah, kejujuran, dan kemampuan menyelesaikan konflik secara damai.[^14]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

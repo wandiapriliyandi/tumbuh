@@ -21,19 +21,19 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Bahaya Dogmatisme Antikritik dan Tyranny of Policy di Pesantren](#1-latar-belakang-masalah-bahaya-dogmatisme-antikritik-dan-tyranny-of-policy-di-pesantren)
-  - [2. Inkuiri 1: Uji Demarkasi Realitas Ghaib vs Mitos Khurafat & Firasat Sepihak Pengurus](#2-inkuiri-1-uji-demarkasi-realitas-ghaib-vs-mitos-khurafat--firasat-sepihak-pengurus)
-  - [3. Inkuiri 2: Uji Masalah Kejahatan (The Problem of Evil) & Perundungan Asrama](#3-inkuiri-2-uji-masalah-kejahatan-the-problem-of-evil--perundungan-asrama)
-  - [4. Inkuiri 3: Uji Determinisme Fatalistik vs Pertanggungjawaban Ikhtiar (Kasb)](#4-inkuiri-3-uji-determinisme-fatalistik-vs-pertanggungjawaban-ikhtiar-kasb)
-  - [5. Inkuiri 4: Uji Desakralisasi Manajemen Asrama — Mencegah Tyranny of Policy](#5-inkuiri-4-uji-desakralisasi-manajemen-asrama--mencegah-tyranny-of-policy)
-  - [6. Inkuiri 5: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#6-inkuiri-5-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Uji Demarkasi Realitas Ghaib vs Mitos Khurafat & Firasat Sepihak Pengurus](#2-uji-demarkasi-realitas-ghaib-vs-mitos-khurafat--firasat-sepihak-pengurus)
+  - [3. Uji Masalah Kejahatan (The Problem of Evil) & Mitigasi Perundungan Asrama](#3-uji-masalah-kejahatan-the-problem-of-evil--mitigasi-perundungan-asrama)
+  - [4. Uji Determinisme Fatalistik vs Pertanggungjawaban Ikhtiar (Kasb Asy'ari)](#4-uji-determinisme-fatalistik-vs-pertanggungjawaban-ikhtiar-kasb-asyari)
+  - [5. Uji Desakralisasi Manajemen Asrama: Mencegah Tyranny of Policy](#5-uji-desakralisasi-manajemen-asrama-mencegah-tyranny-of-policy)
+  - [6. Kasuistika Lapangan: Sanksi Fisik Tidak Proporsional & Resolusi Restoratif](#6-kasuistika-lapangan-sanksi-fisik-tidak-proporsional--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Hasil Audit Kualitas & Uji Stres Enam Aksioma Ontologis TUMBUH](#1-matriks-hasil-audit-kualitas--uji-stres-enam-aksioma-ontologis-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Nalar Kritis (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-nalar-kritis-maratib-al-idrak)
   - [3. Prinsip Aksiologis & Piagam Desakralisasi SOP Tata Kelola Asrama](#3-prinsip-aksiologis--piagam-desakralisasi-sop-tata-kelola-asrama)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Kritik Internal](#1-tabel-sintesis-temuan-riset-kritik-internal)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -41,7 +41,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -65,7 +65,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Uji Demarkasi Realitas Ghaib vs Mitos Khurafat & Firasat Sepihak Pengurus
+### 2. Uji Demarkasi Realitas Ghaib vs Mitos Khurafat & Firasat Sepihak Pengurus
 
 Kaidah fiqh agung yang disepakati ulama menegaskan batasan penegakan hukum dan disiplin:
 
@@ -77,7 +77,7 @@ Penerapan kaidah ini di asrama TUMBUH secara mutlak melarang musyrif menuduh san
 
 ---
 
-### 3. Inkuiri 2: Uji Masalah Kejahatan (The Problem of Evil) & Perundungan Asrama
+### 3. Uji Masalah Kejahatan (The Problem of Evil) & Mitigasi Perundungan Asrama
 
 Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *At-Tawhid*) menguraikan bahwa kejahatan moral (*Asy-Syarr al-Ikhlaqiy*) tidak dinisbatkan kepada Allah sebagai keburukan esensial, melainkan merupakan konsekuensi dari penyalahgunaan kehendak bebas manusia yang menentang syariat.[^4]
 
@@ -85,7 +85,7 @@ Di pesantren, perundungan terjadi bukan karena "sudah takdir asrama", melainkan 
 
 ---
 
-### 4. Inkuiri 3: Uji Determinisme Fatalistik vs Pertanggungjawaban Ikhtiar (Kasb)
+### 4. Uji Determinisme Fatalistik vs Pertanggungjawaban Ikhtiar (Kasb Asy'ari)
 
 Paham *Jabariyah* (Determinisme Fatalistik) didekonstruksi secara telak oleh doktrin Ahlussunnah wal Jama'ah melalui konsep **Kasb (Usaha/Pilihan Tindakan)** yang dirumuskan Imam Abu al-Hasan al-Asy'ari dan Imam Abu Mansur al-Maturidi:
 
@@ -95,7 +95,7 @@ $$\text{إِنَّ لِلْعَبْدِ كَسْبًا وَاخْتِيَارً�
 
 ---
 
-### 5. Inkuiri 4: Uji Desakralisasi Manajemen Asrama — Mencegah Tyranny of Policy
+### 5. Uji Desakralisasi Manajemen Asrama: Mencegah Tyranny of Policy
 
 Penyelidikan audit kualitas menegakkan pemisahan tegas antara dua domain hukum di pesantren:
 * **Domain Syariat Suci (*Al-Qath'iyyat / Ash-Shari'ah*)**: Rukun ibadah, hukum halal-haram, dan akhlak mahmudah yang bersifat abadi dan mutlak.
@@ -103,7 +103,7 @@ Penyelidikan audit kualitas menegakkan pemisahan tegas antara dua domain hukum d
 
 ---
 
-### 6. Inkuiri 5: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
+### 6. Kasuistika Lapangan: Sanksi Fisik Tidak Proporsional & Resolusi Restoratif
 
 * **Studi Kasus: Sanksi Fisik Ekstrem Menguras Septic Tank Tanpa Alat Pengaman**  
   * **Dilema**: Musyrif menghukum santri yang terlambat apel 2 menit dengan menyuruh menguras saluran septic tank tanpa sarung tangan dan sepatu bot, berdalih menegakkan "aturan pondok".
@@ -111,7 +111,7 @@ Penyelidikan audit kualitas menegakkan pemisahan tegas antara dua domain hukum d
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -176,12 +176,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Evaluasi Kebijakan Partisipatif**:
-   - Melibatkan perwakilan musyrif dan santri dalam forum musyawarah semesteran peninjauan tata tertib asrama.
-2. **Prosedur Penegakan Disiplin Berbasis Bukti Faktual**:
-   - Musyrif dilarang menjatuhkan sanksi tanpa verifikasi bukti objektif teramati.
-3. **Kanal Pengaduan Suara Santri**:
-   - Menjamin tersedianya sarana pengaduan yang aman guna mencegah penyalahgunaan kekuasaan oleh oknum pengurus.[^10]
+1. **Evaluasi Kebijakan Partisipatif**: Melibatkan perwakilan musyrif dan santri dalam forum musyawarah semesteran peninjauan tata tertib asrama.
+2. **Prosedur Penegakan Disiplin Berbasis Bukti Faktual**: Musyrif dilarang menjatuhkan sanksi tanpa verifikasi bukti objektif teramati.
+3. **Kanal Pengaduan Suara Santri**: Menjamin tersedianya sarana pengaduan yang aman guna mencegah penyalahgunaan kekuasaan oleh oknum pengurus.[^10]
 
 ---
 
@@ -189,16 +186,13 @@ flowchart TD
 
 Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan kelembagaan pesantren:
 
-* **Mencegah Kemunduran Menjadi Lembaga Otoriter Tertutup (*Total Institution*)**:  
-  Dengan mengadopsi kritik internal dan desakralisasi SOP, pesantren TUMBUH bertransformasi dari lembaga tertutup yang menuntut kepatuhan buta menjadi **Organisasi Pembelajar (*Learning Organization*)** yang hidup, humanis, dan berkeadilan tinggi.[^11]
-* **Membangun Budaya Integritas dan Transparansi Moral**:  
-  Ketika santri melihat bahwa asatidz dan pengurus bersedia meminta maaf saat keliru dan terbuka terhadap evaluasi, santri menyerap pelajaran adab tertinggi: bahwa kebenaran berada di atas kekuasaan (*Al-Haqqu Ya'lu wala Yu'la 'Alaih*).
-* **Menjamin Keberlanjutan Keberkahan Kelembagaan**:  
-  Sistem pesantren yang berakar pada dalil wahyu yang suci sembari membuka diri terhadap audit kualitas saintifik akan terus bertumbuh relevan, kokoh, dan melahirkan para pemimpin peradaban sepanjang masa.[^12]
+* **Mencegah Kemunduran Menjadi Lembaga Otoriter Tertutup (*Total Institution*)**: Dengan mengadopsi kritik internal dan desakralisasi SOP, pesantren TUMBUH bertransformasi dari lembaga tertutup yang menuntut kepatuhan buta menjadi **Organisasi Pembelajar (*Learning Organization*)** yang hidup, humanis, dan berkeadilan tinggi.[^11]
+* **Membangun Budaya Integritas dan Transparansi Moral**: Ketika santri melihat bahwa asatidz dan pengurus bersedia meminta maaf saat keliru dan terbuka terhadap evaluasi, santri menyerap pelajaran adab tertinggi: bahwa kebenaran berada di atas kekuasaan (*Al-Haqqu Ya'lu wala Yu'la 'Alaih*).
+* **Menjamin Keberlanjutan Keberkahan Kelembagaan**: Sistem pesantren yang berakar pada dalil wahyu yang suci sembari membuka diri terhadap audit kualitas saintifik akan terus bertumbuh relevan, kokoh, dan melahirkan para pemimpin peradaban sepanjang masa.[^12]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

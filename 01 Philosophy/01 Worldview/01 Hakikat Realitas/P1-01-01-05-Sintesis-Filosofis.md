@@ -21,19 +21,19 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Polarisasi Epistemologis dan Krisis Arah Pendidikan Islam](#1-latar-belakang-masalah-polarisasi-epistemologis-dan-krisis-arah-pendidikan-islam)
-  - [2. Inkuiri 1: Dekonstruksi Komparatif Mazhab Metafisika Barat vs Realisme Teistik Islam](#2-inkuiri-1-dekonstruksi-komparatif-mazhab-metafisika-barat-vs-realisme-teistik-islam)
-  - [3. Inkuiri 2: Sintesis Kritis Realisme Teistik Integratif (Theistic Integral Realism)](#3-inkuiri-2-sintesis-kritis-realisme-teistik-integratif-theistic-integral-realism)
-  - [4. Inkuiri 3: Analisis Rekayasa Kausalitas Meta-Ontologis dalam Ekosistem Asrama 24 Jam](#4-inkuiri-3-analisis-rekayasa-kausalitas-meta-ontologis-dalam-ekosistem-asrama-24-jam)
-  - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Dekonstruksi Komparatif Mazhab Metafisika Barat vs Realisme Teistik Islam](#2-dekonstruksi-komparatif-mazhab-metafisika-barat-vs-realisme-teistik-islam)
+  - [3. Sintesis Kritis Realisme Teistik Integratif (Theistic Integral Realism)](#3-sintesis-kritis-realisme-teistik-integratif-theistic-integral-realism)
+  - [4. Rekayasa Kausalitas Meta-Ontologis dalam Ekosistem Asrama 24 Jam](#4-rekayasa-kausalitas-meta-ontologis-dalam-ekosistem-asrama-24-jam)
+  - [5. Kasuistika Lapangan: Disonansi Sains-Akidah & Resolusi Restoratif](#5-kasuistika-lapangan-disonansi-sains-akidah--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Deklarasi Posisi Resmi & Empat Pilar Ontologi Realisme Teistik Integratif](#1-deklarasi-posisi-resmi--empat-pilar-ontologi-realisme-teistik-integratif)
   - [2. Matriks Komparasi Komprehensif: TUMBUH vs Mazhab Ontologi Dunia](#2-matriks-komparasi-komprehensif-tumbuh-vs-mazhab-ontologi-dunia)
   - [3. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Worldview (Maratib al-Idrak)](#3-dekomposisi-dimensi--empat-tingkatan-kesadaran-worldview-maratib-al-idrak)
   - [4. Prinsip Aksiologis & Etika Tata Kelola Integrasi Sains-Tauhid di Madrasah](#4-prinsip-aksiologis--etika-tata-kelola-integrasi-sains-tauhid-di-madrasah)
   - [5. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#5-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Sintesis Filosofis](#1-tabel-sintesis-temuan-riset-sintesis-filosofis)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -41,7 +41,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -68,7 +68,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Dekonstruksi Komparatif Mazhab Metafisika Barat vs Realisme Teistik Islam
+### 2. Dekonstruksi Komparatif Mazhab Metafisika Barat vs Realisme Teistik Islam
 
 Penyelidikan filosofis kritis terhadap peta pemikiran ontologi dunia membedah kelemahan 4 mazhab filsafat Barat:
 
@@ -96,7 +96,7 @@ flowchart LR
 
 ---
 
-### 3. Inkuiri 2: Sintesis Kritis Realisme Teistik Integratif (Theistic Integral Realism)
+### 3. Sintesis Kritis Realisme Teistik Integratif (Theistic Integral Realism)
 
 Prof. **Syed Muhammad Naquib Al-Attas** dalam *Prolegomena to the Metaphysics of Islam* merumuskan struktur wujud yang harmonis:
 
@@ -106,7 +106,7 @@ $$\text{إِنَّ الْوُجُودَ لَيْسَ مُجَرَّدَ مَاد
 
 ---
 
-### 4. Inkuiri 3: Analisis Rekayasa Kausalitas Meta-Ontologis dalam Ekosistem Asrama 24 Jam
+### 4. Rekayasa Kausalitas Meta-Ontologis dalam Ekosistem Asrama 24 Jam
 
 Ekosistem asrama mengintegrasikan tiga dimensi wujud:
 * *Dimensi Fisik ('Alam Mulk)*: Ventilasi udara, sanitasi air bersih, nutrisi, dan tidur cukup.
@@ -115,7 +115,7 @@ Ekosistem asrama mengintegrasikan tiga dimensi wujud:
 
 ---
 
-### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
+### 5. Kasuistika Lapangan: Disonansi Sains-Akidah & Resolusi Restoratif
 
 * **Studi Kasus: Disonansi Pelajaran Sains dan Akidah**  
   * **Dilema**: Santri mengalami kebingungan karena pelajaran biologi diajarkan secara materialistik seolah-olah semesta terjadi secara acak.
@@ -123,7 +123,7 @@ Ekosistem asrama mengintegrasikan tiga dimensi wujud:
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -213,12 +213,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Kurikulum Sains Berbasis Tauhid**:
-   - Guru sains madrasah wajib menjelaskan hukum fisika dan biologi sebagai manifestasi keteraturan ciptaan Allah SWT (*Intelligent Design*).
-2. **Protokol Penanganan Syubhat Pemikiran**:
-   - Musyrif dilarang membentak santri yang bertanya kritis mengenai takdir atau ketuhanan; santri didampingi melalui dialog sokratik yang santun dan ilmiah.[^14]
-3. **Pengelolaan Lingkungan Berkelanjutan (*Green Pesantren*)**:
-   - Seluruh fasilitas fisik asrama dikelola secara bersih dan teratur sebagai wujud nyata pengamalan Realisme Integral di alam mulk.[^15]
+1. **Kurikulum Sains Berbasis Tauhid**: Guru sains madrasah wajib menjelaskan hukum fisika dan biologi sebagai manifestasi keteraturan ciptaan Allah SWT (*Intelligent Design*).
+2. **Protokol Penanganan Syubhat Pemikiran**: Musyrif dilarang membentak santri yang bertanya kritis mengenai takdir atau ketuhanan; santri didampingi melalui dialog sokratik yang santun dan ilmiah.[^14]
+3. **Pengelolaan Lingkungan Berkelanjutan (*Green Pesantren*)**: Seluruh fasilitas fisik asrama dikelola secara bersih dan teratur sebagai wujud nyata pengamalan Realisme Integral di alam mulk.[^15]
 
 ---
 
@@ -226,16 +223,13 @@ flowchart TD
 
 Sintesis filosofis Realisme Teistik Integratif ini menandai babak baru metamorfosis pesantren di era modern:
 
-* **Mengakhiri Inferioritas Intelektual Terhadap Barat**:  
-  Pesantren membuktikan bahwa Islam memiliki epistemologi dan ontologi yang jauh lebih unggul, utuh, dan manusiawi dibanding materialisme sekuler yang hampa makna.
-* **Membangun Model Pendidikan Holistik Percontohan Global**:  
-  Integrasi antara kebersihan fisik asrama, kecerdasan sains empiris, dan kekhusyukan ibadah menjadikan pesantren model rujukan pendidikan alternatif bagi krisis peradaban modern.
-* **Melahirkan Generasi Pemimpin Peradaban (*Rijalul Mustaqbal*)**:  
-  Dari rahim ekosistem TUMBUH lahir para ulama yang memahami sains, dan para cendekiawan yang hafal Al-Qur'an serta berakhlak mulia.[^16]
+* **Mengakhiri Inferioritas Intelektual Terhadap Barat**: Pesantren membuktikan bahwa Islam memiliki epistemologi dan ontologi yang jauh lebih unggul, utuh, dan manusiawi dibanding materialisme sekuler yang hampa makna.
+* **Membangun Model Pendidikan Holistik Percontohan Global**: Integrasi antara kebersihan fisik asrama, kecerdasan sains empiris, dan kekhusyukan ibadah menjadikan pesantren model rujukan pendidikan alternatif bagi krisis peradaban modern.
+* **Melahirkan Generasi Pemimpin Peradaban (*Rijalul Mustaqbal*)**: Dari rahim ekosistem TUMBUH lahir para ulama yang memahami sains, dan para cendekiawan yang hafal Al-Qur'an serta berakhlak mulia.[^16]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

@@ -21,18 +21,18 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Reduksionisme Tekstualis & Distorsi Pemaknaan Dalil di Pesantren](#1-latar-belakang-masalah-reduksionisme-tekstualis--distorsi-pemaknaan-dalil-di-pesantren)
-  - [2. Inkuiri 1: Tahqiq Nash Enam Aksioma Realitas dalam Al-Qur'an & Hadits Shahih](#2-inkuiri-1-tahqiq-nash-enam-aksioma-realitas-dalam-al-quran--hadits-shahih)
-  - [3. Inkuiri 2: Rekonsiliasi Hermeneutis Akal Murni dan Wahyu Sharih (Dar'u Ta'arudh)](#3-inkuiri-2-rekonsiliasi-hermeneutis-akal-murni-dan-wahyu-sharih-daru-taarudh)
-  - [4. Inkuiri 3: Analisis Rekayasa Kausalitas Dalil dalam Tata Kelola Asrama 24 Jam](#4-inkuiri-3-analisis-rekayasa-kausalitas-dalil-dalam-tata-kelola-asrama-24-jam)
-  - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Tahqiq Nash Enam Aksioma Realitas dalam Al-Qur'an & Hadits Shahih](#2-tahqiq-nash-enam-aksioma-realitas-dalam-al-quran--hadits-shahih)
+  - [3. Rekonsiliasi Hermeneutis Akal Murni dan Wahyu Sharih (Kaidah Dar'u Ta'arudh)](#3-rekonsiliasi-hermeneutis-akal-murni-dan-wahyu-sharih-kaidah-daru-taarudh)
+  - [4. Rekayasa Kausalitas Dalil Syar'i dalam Tata Kelola Asrama 24 Jam](#4-rekayasa-kausalitas-dalil-syari-dalam-tata-kelola-asrama-24-jam)
+  - [5. Kasuistika Lapangan: Penyalahgunaan Dalil Disiplin & Resolusi Restoratif](#5-kasuistika-lapangan-penyalahgunaan-dalil-disiplin--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Komprehensif Sanad, Derajat, & Takhrij Dalil Enam Aksioma](#1-matriks-komprehensif-sanad-derajat--takhrij-dalil-enam-aksioma)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Hermeneutis (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-hermeneutis-maratib-al-idrak)
   - [3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Maqashid Syari'ah](#3-prinsip-aksiologis--etika-tata-kelola-pengasuhan-berbasis-maqashid-syariah)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Validasi Dalil Naqli](#1-tabel-sintesis-temuan-riset-validasi-dalil-naqli)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -40,7 +40,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Tahqiq Nash Enam Aksioma Realitas dalam Al-Qur'an & Hadits Shahih
+### 2. Tahqiq Nash Enam Aksioma Realitas dalam Al-Qur'an & Hadits Shahih
 
 Setiap aksioma metafisik yang dirumuskan dalam Ekosistem TUMBUH memiliki sandaran nash wahyu primer yang mutlak:
 
@@ -96,7 +96,7 @@ $$\text{فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْر
 
 ---
 
-### 3. Inkuiri 2: Rekonsiliasi Hermeneutis Akal Murni dan Wahyu Sharih (Dar'u Ta'arudh)
+### 3. Rekonsiliasi Hermeneutis Akal Murni dan Wahyu Sharih (Kaidah Dar'u Ta'arudh)
 
 Dalam kaidah teologi Islam yang dirumuskan oleh Imam Al-Ghazali (*Al-Qanun al-Kulli*) dan Ibnu Taimiyyah (*Dar'u Ta'arudh*), **tidak pernah ada pertentangan hakiki antara wahyu shahih (*an-Naql ash-Shahih*) dan akal budi yang sehat (*al-'Aql ash-Sharih*)**:
 
@@ -116,7 +116,7 @@ Kaidah ini membuktikan bahwa meneliti kualitas sirkulasi udara kamar asrama dan 
 
 ---
 
-### 4. Inkuiri 3: Analisis Rekayasa Kausalitas Dalil dalam Tata Kelola Asrama 24 Jam
+### 4. Rekayasa Kausalitas Dalil Syar'i dalam Tata Kelola Asrama 24 Jam
 
 Penyelidikan membuktikan bahwa teks wahyu memiliki implikasi operasional langsung terhadap tata kelola asrama:
 * Hadits tentang larangan kezaliman (*Hadits Muflis* - HR. Muslim No. 2581) melarang mutlak pemukulan fisik dan penghinaan verbal di asrama.
@@ -124,7 +124,7 @@ Penyelidikan membuktikan bahwa teks wahyu memiliki implikasi operasional langsun
 
 ---
 
-### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
+### 5. Kasuistika Lapangan: Penyalahgunaan Dalil Disiplin & Resolusi Restoratif
 
 * **Studi Kasus: Distorsi Pemaknaan Hadits Shalat Anak Usia 10 Tahun**  
   * **Dilema**: Musyrif memukul santri hingga lebam dengan dalih hadits *"Pukullah mereka jika meninggalkan shalat pada usia 10 tahun"*.
@@ -132,7 +132,7 @@ Penyelidikan membuktikan bahwa teks wahyu memiliki implikasi operasional langsun
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -197,12 +197,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Penyelarasan Seluruh SOP Asrama dengan Maqashid Syari'ah**:
-   - Seluruh aturan wajib memiliki dasar kemaslahatan syariat yang jelas dan rasional.
-2. **Klinik Hermeneutika Pendidik**:
-   - Menyelenggarakan kajian berkala fiqh pengasuhan nabawi guna mencegah asatidz memelintir dalil untuk membenarkan kemarahan pribadi.[^13]
-3. **Protokol Penegakan Keadilan Restoratif**:
-   - Menerapkan konsekuensi restitutif (*Restitution*) yang memperbaiki kerusakan, bukan pembalasan dendam fisik.[^14]
+1. **Penyelarasan Seluruh SOP Asrama dengan Maqashid Syari'ah**: Seluruh aturan wajib memiliki dasar kemaslahatan syariat yang jelas dan rasional.
+2. **Klinik Hermeneutika Pendidik**: Menyelenggarakan kajian berkala fiqh pengasuhan nabawi guna mencegah asatidz memelintir dalil untuk membenarkan kemarahan pribadi.[^13]
+3. **Protokol Penegakan Keadilan Restoratif**: Menerapkan konsekuensi restitutif (*Restitution*) yang memperbaiki kerusakan, bukan pembalasan dendam fisik.[^14]
 
 ---
 
@@ -210,16 +207,13 @@ flowchart TD
 
 Validasi dalil naqli terhadap Enam Aksioma Realitas memiliki signifikansi strategis bagi transformasi kelembagaan pesantren:
 
-* **Mengembalikan Kemurnian Manhaj Tarbiyah Nabawiyyah**:  
-  Banyak tradisi keras di pesantren sesungguhnya merupakan residu feodalisme kolonial yang tidak bersumber dari Sunnah Nabi ﷺ. Validasi dalil ini membersihkan praktik pengasuhan dari anasir kekerasan dan mengembalikannya pada rel *Bi'ah Shalihah* yang penuh kasih sayang (*Rahmah*).
-* **Menghilangkan Resistensi Teologis Terhadap Modernisasi Tata Kelola**:  
-  Ketika para pengasuh senior melihat bahwa standarisasi ventilasi, sanitasi, dan psikologi perkembangan berakar murni dari ayat Al-Qur'an dan Hadits Shahih, resistensi runtuh. Modernisasi dipahami bukan sebagai westernisasi, melainkan sebagai penegakan amanah syariat (*Al-Hikmatu Dhallatul Mu'min*).
-* **Melahirkan Generasi Santri yang Kokoh Berakidah**:  
-  Santri yang dibina di atas fondasi dalil naqli yang jernih dan rasional memiliki imunitas akidah yang tangguh dalam menghadapi syubhat pemikiran modern.[^15]
+* **Mengembalikan Kemurnian Manhaj Tarbiyah Nabawiyyah**: Banyak tradisi keras di pesantren sesungguhnya merupakan residu feodalisme kolonial yang tidak bersumber dari Sunnah Nabi ﷺ. Validasi dalil ini membersihkan praktik pengasuhan dari anasir kekerasan dan mengembalikannya pada rel *Bi'ah Shalihah* yang penuh kasih sayang (*Rahmah*).
+* **Menghilangkan Resistensi Teologis Terhadap Modernisasi Tata Kelola**: Ketika para pengasuh senior melihat bahwa standarisasi ventilasi, sanitasi, dan psikologi perkembangan berakar murni dari ayat Al-Qur'an dan Hadits Shahih, resistensi runtuh. Modernisasi dipahami bukan sebagai westernisasi, melainkan sebagai penegakan amanah syariat (*Al-Hikmatu Dhallatul Mu'min*).
+* **Melahirkan Generasi Santri yang Kokoh Berakidah**: Santri yang dibina di atas fondasi dalil naqli yang jernih dan rasional memiliki imunitas akidah yang tangguh dalam menghadapi syubhat pemikiran modern.[^15]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

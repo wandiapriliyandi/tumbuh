@@ -21,18 +21,18 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Urgensi Ontologis dalam Menentukan Arah Pendidikan Pesantren](#1-latar-belakang-masalah-urgensi-ontologis-dalam-menentukan-arah-pendidikan-pesantren)
-  - [2. Inkuiri 1: Integrasi Epistemologis 6 Pilar Kajian Ontologi Realitas TUMBUH](#2-inkuiri-1-integrasi-epistemologis-6-pilar-kajian-ontologi-realitas-tumbuh)
-  - [3. Inkuiri 2: Konvergensi Ontologi Teistik, Kausalitas Sains, & Perlindungan Fitrah Insan](#3-inkuiri-2-konvergensi-ontologi-teistik-kausalitas-sains--perlindungan-fitrah-insan)
-  - [4. Inkuiri 3: Analisis Rekayasa Kausalitas Lingkungan Asrama 24 Jam (Bi'ah Shalihah)](#4-inkuiri-3-analisis-rekayasa-kausalitas-lingkungan-asrama-24-jam-biah-shalihah)
-  - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif Terpadu](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif-terpadu)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Integrasi Epistemologis Enam Pilar Kajian Ontologi Realitas TUMBUH](#2-integrasi-epistemologis-enam-pilar-kajian-ontologi-realitas-tumbuh)
+  - [3. Konvergensi Ontologi Teistik, Kausalitas Sains, & Perlindungan Fitrah Insan](#3-konvergensi-ontologi-teistik-kausalitas-sains--perlindungan-fitrah-insan)
+  - [4. Rekayasa Kausalitas Lingkungan Asrama 24 Jam (Bi'ah Shalihah)](#4-rekayasa-kausalitas-lingkungan-asrama-24-jam-biah-shalihah)
+  - [5. Kasuistika Lapangan: Anomali Pengasuhan & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-anomali-pengasuhan--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Master Doktrin Realisme Teistik Integratif Ekosistem TUMBUH](#1-arsitektur-master-doktrin-realisme-teistik-integratif-ekosistem-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ontologis Kluster (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-ontologis-kluster-maratib-al-idrak)
   - [3. Prinsip Aksiologis & Etika Tata Kelola Lingkungan Pesantren 24 Jam](#3-prinsip-aksiologis--etika-tata-kelola-lingkungan-pesantren-24-jam)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Master Kluster Hakikat Realitas](#1-tabel-sintesis-temuan-riset-master-kluster-hakikat-realitas)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -40,7 +40,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -69,7 +69,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Integrasi Epistemologis 6 Pilar Kajian Ontologi Realitas TUMBUH
+### 2. Integrasi Epistemologis Enam Pilar Kajian Ontologi Realitas TUMBUH
 
 Master doktrin ini merupakan kristalisasi organik dari 6 berkas monograf riset fondasional di Kluster 01 Hakikat Realitas:
 
@@ -98,7 +98,7 @@ Integrasi keenam sub-modul ini memastikan bahwa pandangan hidup santri memiliki 
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Ontologi Teistik, Kausalitas Sains, & Perlindungan Fitrah Insan
+### 3. Konvergensi Ontologi Teistik, Kausalitas Sains, & Perlindungan Fitrah Insan
 
 Kajian ontologi ini membuktikan keselarasan mutlak antara keimanan teistik Islam dan konsensus sains modern:
 * **Hukum Kausalitas Biologis Otak**: Keterpenuhan jam tidur sirkadian (6–7 jam), kecukupan ventilasi kamar (minimal 10% luas lantai), dan sanitasi air bersih (E. coli 0 CFU) adalah hukum *Sunnatullah Kauniyyah* yang wajib dipenuhi agar fungsi kognitif korteks prefrontal santri bekerja optimal dalam menyerap ilmu dan mengendalikan emosi.[^3]
@@ -106,7 +106,7 @@ Kajian ontologi ini membuktikan keselarasan mutlak antara keimanan teistik Islam
 
 ---
 
-### 4. Inkuiri 3: Analisis Rekayasa Kausalitas Lingkungan Asrama 24 Jam (Bi'ah Shalihah)
+### 4. Rekayasa Kausalitas Lingkungan Asrama 24 Jam (Bi'ah Shalihah)
 
 Dalam kehidupan pesantren 24 jam, lingkungan fisik dan sosial asrama adalah jembatan yang menghubungkan alam mulk dan alam malakut:
 1. **Lokus Kamar Tidur**: Ditata rapi, bersih, dan berventilasi sebagai sarana istirahat berkah yang memulihkan energi untuk ibadah malam dan belajar fajar.
@@ -115,13 +115,13 @@ Dalam kehidupan pesantren 24 jam, lingkungan fisik dan sosial asrama adalah jemb
 
 ---
 
-### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif Terpadu
+### 5. Kasuistika Lapangan: Anomali Pengasuhan & Resolusi Restoratif Terpadu
 
 Penyelidikan klinis mengonfirmasi bahwa penerapan Master Doktrin Realisme Teistik mampu menyelesaikan berbagai anomali pengasuhan asrama melalui dialog tabayyun, de-eskalasi emosi, dan restitusi edukatif tanpa kekerasan.[^6]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -159,7 +159,7 @@ flowchart TD
 
 ### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ontologis Kluster (Maratib al-Idrak)
 
-Master Doktrin Ontologi Realitas dipetakan ke dalam Empat Tingkatan Kesadaran Ontologis Kluster (*Maratib al-Idrak al-Wujudiy*):
+Master Doktrin Ontologi Realitas dipetakan ke dalam Empat Tingkatan Kesadaran Ontologis Kluster (*Maratib al-Idrak al-Wujudiy*)**:
 
 ```mermaid
 flowchart TD
@@ -203,12 +203,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Standarisasi Lingkungan Fisik Ramah Neurobiologis**:
-   - Menjamin sirkulasi udara bersih, pencahayaan alami memadai, dan sanitasi higienis di seluruh kobong asrama.
-2. **Sistem Kerja Musyrif Berkeadilan**:
-   - Musyrif bertugas dengan jam kerja terukur dan perlindungan istirahat yang layak guna mencegah kelelahan mental (*Burnout*).
-3. **Kebijakan Nol Kekerasan (*Zero-Tolerance for Violence*)**:
-   - Menjamin pesantren sebagai zona aman dan nyaman yang melindungi fitrah setiap santri.[^10]
+1. **Standarisasi Lingkungan Fisik Ramah Neurobiologis**: Menjamin sirkulasi udara bersih, pencahayaan alami memadai, dan sanitasi higienis di seluruh kobong asrama.
+2. **Sistem Kerja Musyrif Berkeadilan**: Musyrif bertugas dengan jam kerja terukur dan perlindungan istirahat yang layak guna mencegah kelelahan mental (*Burnout*).
+3. **Kebijakan Nol Kekerasan (*Zero-Tolerance for Violence*)**: Menjamin pesantren sebagai zona aman dan nyaman yang melindungi fitrah setiap santri.[^10]
 
 ---
 
@@ -216,14 +213,12 @@ flowchart TD
 
 Master Doktrin Hakikat Realitas ini menjadi fondasi bagi pembaharuan peradaban pesantren:
 
-* **Mewujudkan Triad Pertumbuhan Simbiotik**:  
-  Penerapan doktrin ini membuktikan bahwa pembinaan karakter tidak boleh mengorbankan salah satu pihak. Santri bertumbuh adab dan potensinya, Musyrif bertumbuh kompetensi pedagogisnya dan terlindungi dari stres, serta Lembaga Pesantren bertumbuh menjadi institusi modern yang akuntabel dan dipercaya publik.
-* **Menghubungkan Pesantren dengan Masa Depan Peradaban Islam**:  
-  Dengan memadukan kemurnian wahyu, keotentikan Turats, dan kecanggihan metodologi sains modern, pesantren binaan TUMBUH membuktikan dirinya sebagai kawah candradimuka yang siap melahirkan para ulama, cendekiawan, dan pemimpin masa depan yang membawa rahmat bagi semesta alam.[^11]
+* **Mewujudkan Triad Pertumbuhan Simbiotik**: Penerapan doktrin ini membuktikan bahwa pembinaan karakter tidak boleh mengorbankan salah satu pihak. Santri bertumbuh adab dan potensinya, Musyrif bertumbuh kompetensi pedagogisnya dan terlindungi dari stres, serta Lembaga Pesantren bertumbuh menjadi institusi modern yang akuntabel dan dipercaya publik.
+* **Menghubungkan Pesantren dengan Masa Depan Peradaban Islam**: Dengan memadukan kemurnian wahyu, keotentikan Turats, dan kecanggihan metodologi sains modern, pesantren binaan TUMBUH membuktikan dirinya sebagai kawah candradimuka yang siap melahirkan para ulama, cendekiawan, dan pemimpin masa depan yang membawa rahmat bagi semesta alam.[^11]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

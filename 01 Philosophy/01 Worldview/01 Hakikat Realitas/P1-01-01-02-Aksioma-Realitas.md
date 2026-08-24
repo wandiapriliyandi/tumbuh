@@ -21,18 +21,18 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Disorientasi Aksiomatis dalam Pengasuhan Pesantren](#1-latar-belakang-masalah-disorientasi-aksiomatis-dalam-pengasuhan-pesantren)
-  - [2. Inkuiri 1: Fondasi Aksiomatika Turats & Kaidah Mabadi' Aqliyyah (QS. Ali 'Imran: 190–191 & Al-Amidi)](#2-inkuiri-1-fondasi-aksiomatika-turats--kaidah-mabadi-aqliyyah-qs-ali-imran-190191--al-amidi)
-  - [3. Inkuiri 2: Konvergensi Aksioma Teistik, Neurosains Kognitif, & Teori Resiliensi](#3-inkuiri-2-konvergensi-aksioma-teistik-neurosains-kognitif--teori-resiliensi)
-  - [4. Inkuiri 3: Rekayasa Kausalitas Ganda: Harmonisasi Sunnatullah Kauniyyah wa Syar'iyyah](#4-inkuiri-3-rekayasa-kausalitas-ganda-harmonisasi-sunnatullah-kauniyyah-wa-syariyyah)
-  - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Fondasi Aksiomatika Turats: Kaidah Mabadi' Aqliyyah & Titik Berpijak Nalar (QS. Ali 'Imran: 190–191 & Al-Amidi)](#2-fondasi-aksiomatika-turats-kaidah-mabadi-aqliyyah--titik-berpijak-nalar-qs-ali-imran-190191--al-amidi)
+  - [3. Konvergensi Aksioma Teistik & Neurosains: Reduksi Stres Alostatik & Resiliensi Kognitif](#3-konvergensi-aksioma-teistik--neurosains-reduksi-stres-alostatik--resiliensi-kognitif)
+  - [4. Rekayasa Kausalitas Ganda: Harmonisasi Sunnatullah Kauniyyah wa Syar'iyyah](#4-rekayasa-kausalitas-ganda-harmonisasi-sunnatullah-kauniyyah-wa-syariyyah)
+  - [5. Kasuistika Lapangan: Fenomena Learned Helplessness & Resolusi Restoratif](#5-kasuistika-lapangan-fenomena-learned-helplessness--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Eksplanasi Komprehensif Enam Aksioma Metafisik Realitas TUMBUH](#1-eksplanasi-komprehensif-enam-aksioma-metafisik-realitas-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Aksiomatis (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-aksiomatis-maratib-al-idrak)
   - [3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Aksioma](#3-prinsip-aksiologis--etika-tata-kelola-pengasuhan-berbasis-aksioma)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Enam Aksioma Realitas](#1-tabel-sintesis-temuan-riset-enam-aksioma-realitas)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -40,7 +40,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Fondasi Aksiomatika Turats & Kaidah Mabadi' Aqliyyah (QS. Ali 'Imran: 190–191 & Al-Amidi)
+### 2. Fondasi Aksiomatika Turats: Kaidah Mabadi' Aqliyyah & Titik Berpijak Nalar (QS. Ali 'Imran: 190–191 & Al-Amidi)
 
 Dalam tradisi *Ushuluddin* dan *Mantiq Turats*, setiap bangunan argumentasi ilmiah dan akidah harus bersandar pada prinsip-prinsip awal yang swa-bukti (*al-Badihiyyat / al-Awwaliyyat*):
 
@@ -80,7 +80,7 @@ $$\text{إِنَّ الْعُلُومَ النَّظَرِيَّةَ لَا بُ
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Aksioma Teistik, Neurosains Kognitif, & Teori Resiliensi
+### 3. Konvergensi Aksioma Teistik & Neurosains: Reduksi Stres Alostatik & Resiliensi Kognitif
 
 Dalam perspektif neurosains kognitif dan psikologi klinis, kehadiran kerangka aksiomatis yang stabil memiliki fungsi krusial dalam mereduksi beban kognitif dan kecemasan eksistensial:
 
@@ -88,9 +88,7 @@ Dalam perspektif neurosains kognitif dan psikologi klinis, kehadiran kerangka ak
 flowchart LR
     subgraph MekanismeResiliensiAksiomatis["MEKANISME RESILIENSI BERBASIS AKSIOMA TEISTIK"]
         KepastianAksioma["Aksioma Stabil: Keadilan Allah, Nilai Fitrah, & Kepastian Sebab-Akibat"]
-        
         ReduksiStres["Penurunan Aktivitas Amigdala & Regulasi Korteks Prefrontal (PFC)"]
-        
         ResiliensiMental["Internal Locus of Control: Bangkit dari Kegagalan & Gigih Bermujahadah"]
         
         KepastianAksioma --> ReduksiStres --> ResiliensiMental
@@ -101,7 +99,7 @@ Riset **Prof. Bruce S. McEwen** (2007) mengenai beban alostatik (*Allostatic Loa
 
 ---
 
-### 4. Inkuiri 3: Rekayasa Kausalitas Ganda: Harmonisasi Sunnatullah Kauniyyah wa Syar'iyyah
+### 4. Rekayasa Kausalitas Ganda: Harmonisasi Sunnatullah Kauniyyah wa Syar'iyyah
 
 Ekosistem TUMBUH membedah kausalitas semesta ke dalam dua dimensi sunnatullah yang saling berkelindan:
 * **Sunnatullah Kauniyyah (Hukum Fisika, Biologi, & Psikososial)**: Ikhtiar mengulang hafalan, kecukupan oksigenasi kamar, dan manajemen tidur sirkadian.
@@ -111,7 +109,7 @@ Santri yang hanya mengandalkan doa tanpa belajar melanggar *Sunnatullah Kauniyya
 
 ---
 
-### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
+### 5. Kasuistika Lapangan: Fenomena Learned Helplessness & Resolusi Restoratif
 
 Penyelidikan klinis terhadap kasus-kasus keputusasaan santri menghasilkan protokol intervensi berbasis aksioma:
 
@@ -119,26 +117,22 @@ Penyelidikan klinis terhadap kasus-kasus keputusasaan santri menghasilkan protok
 flowchart TD
     subgraph AlurRestrukturisasiKognitifAksioma["PROTOKOL RESTRUKTURISASI KOGNITIF AKSIOMATIS TIER 2"]
         KrisisPutusAsa["1. KRISIS: Santri Mengalami Kegagalan Ujian & Merasa 'Dikutuk Takdir'"]
-        
         DekonstruksiFatalisme["2. DEKONSTRUKSI: Konselor Membongkar Kesalahan Pikir Fatalisme Pasif"]
-        
         AktivasiAksioma["3. AKTIVASI AKSIOMA: Mengingatkan Aksioma Kausalitas & Nilai Fitrah Insan"]
-        
         RencanaAksiKauniyyah["4. RENCANA AKSI BARU: Evaluasi Metode Belajar & Penataan Jam Tidur"]
-        
         PemulihanResiliensi["5. PEMULIHAN RESILIENSI: Santri Bangkit dengan Semangat Mujahadah Baru"]
         
         KrisisPutusAsa --> DekonstruksiFatalisme --> AktivasiAksioma --> RencanaAksiKauniyyah --> PemulihanResiliensi
     end
 ```
 
-* **Studi Kasus 1: Santri Mengalami Krisis Putus Asa Pasca-Kegagalan Tasmi'**  
+* **Studi Kasus: Santri Mengalami Krisis Putus Asa Pasca-Kegagalan Tasmi'**  
   * **Dilema**: Santri mengurung diri dan menangis setelah gagal dalam ujian tasmi' Al-Qur'an 5 Juz, menganggap dirinya "dikutuk bodoh permanen".
   * **Resolusi Restoratif TUMBUH**: Konselor menerapkan teknik *Cognitive Reframing*: mengurai jadwal belajar santri yang ternyata sering begadang hingga larut malam. Konselor menata ulang pola tidur biologis dan membagi target hafalan ke unit-unit terukur. Santri lulus pada ujian ulang dengan predikat mutqin dan memiliki ketahanan mental yang kokoh.[^7]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -222,12 +216,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Penerapan Bahasa Pengasuhan yang Memuliakan Fitrah**:
-   - Pendidik diwajibkan menggunakan narasi penguatan (*Strength-Based Language*) yang membangkitkan harga diri santri.
-2. **Restrukturisasi Kognitif Aksiomatis**:
-   - Jika santri mengalami demotivasi atau kegagalan, konselor menggunakan lembar dialog aksiomatis: memisahkan antara fakta kejadian, distorsi pikiran, dan aksioma solusi objektif.[^14]
-3. **Pemberantasan Tradisi Kekerasan Atas Nama Disiplin**:
-   - Mengganti sanksi fisik dengan konsekuensi logis restitutif yang memperbaiki kerusakan dan mendidik tanggung jawab moral santri.[^15]
+1. **Penerapan Bahasa Pengasuhan yang Memuliakan Fitrah**: Pendidik diwajibkan menggunakan narasi penguatan (*Strength-Based Language*) yang membangkitkan harga diri santri.
+2. **Restrukturisasi Kognitif Aksiomatis**: Jika santri mengalami demotivasi, konselor membimbing pemisahan antara fakta kejadian, distorsi pikiran, dan aksioma solusi objektif.[^14]
+3. **Pemberantasan Tradisi Kekerasan Atas Nama Disiplin**: Mengganti sanksi fisik dengan konsekuensi logis restitutif yang memperbaiki kerusakan dan mendidik tanggung jawab moral santri.[^15]
 
 ---
 
@@ -235,16 +226,13 @@ flowchart TD
 
 Integrasi Enam Aksioma Metafisik ini membawa dampak transformatif bagi masa depan kelembagaan pesantren:
 
-* **Vaksinasi Teologis Terhadap Nihilisme dan Krisis Eksistensial Remaja**:  
-  Generasi santri masa kini hidup di tengah kepungan arus informasi digital yang mempromosikan relativisme nilai dan kehampaan makna hidup (*Nihilism*). Enam Aksioma Realitas menyediakan jangkar kepastian ontologis: santri mengetahui dengan pasti kedudukan dirinya sebagai hamba Allah dan hukum semesta yang adil.
-* **Transformasi Budaya Pengasuhan dari Feodalisme Menuju Keteladanan Qudwah**:  
-  Aksioma Kehambaan dan Kemuliaan Fitrah meruntuhkan relasi kuasa yang menindas di asrama. Musyrif memposisikan diri sebagai pelayan umat (*Khadimul Ummah*) yang menuntun fitrah santri dengan kelembutan hikmah.
-* **Peningkatan Efisiensi Pembelajaran dan Motivasi Intrinsik**:  
-  Dengan hilangnya rasa takut yang melumpuhkan otak dan hadirnya keyakinan pada hukum kausalitas, motivasi belajar intrinsik santri melonjak tinggi. Santri belajar karena rindu menyempurnakan fitrah kemanusiaannya di hadapan Allah SWT.[^16]
+* **Vaksinasi Teologis Terhadap Nihilisme dan Krisis Eksistensial Remaja**: Enam Aksioma Realitas menyediakan jangkar kepastian ontologis: santri mengetahui dengan pasti kedudukan dirinya sebagai hamba Allah dan hukum semesta yang adil.
+* **Transformasi Budaya Pengasuhan dari Feodalisme Menuju Keteladanan Qudwah**: Aksioma Kehambaan dan Kemuliaan Fitrah meruntuhkan relasi kuasa yang menindas di asrama. Musyrif memposisikan diri sebagai pelayan umat (*Khadimul Ummah*).
+* **Peningkatan Efisiensi Pembelajaran dan Motivasi Intrinsik**: Dengan hilangnya rasa takut yang melumpuhkan otak dan hadirnya keyakinan pada hukum kausalitas, motivasi belajar intrinsik santri melonjak tinggi.[^16]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

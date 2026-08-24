@@ -21,18 +21,18 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
   - [1. Latar Belakang Masalah: Terputusnya Sanad Pemahaman Turats dalam Praksis Asrama Pesantren](#1-latar-belakang-masalah-terputusnya-sanad-pemahaman-turats-dalam-praksis-asrama-pesantren)
-  - [2. Inkuiri 1: Genealogi Epistemologis 6 Imam Mazhab Ahlussunnah wal Jama'ah](#2-inkuiri-1-genealogi-epistemologis-6-imam-mazhab-ahlussunnah-wal-jamaah)
-  - [3. Inkuiri 2: Dekonstruksi Distorsi Tasawuf Asketik Ekstrem vs Tasawuf Akhlaqi Amali](#3-inkuiri-2-dekonstruksi-distorsi-tasawuf-asketik-ekstrem-vs-tasawuf-akhlaqi-amali)
-  - [4. Inkuiri 3: Analisis Rekayasa Kausalitas Sanad Turats dalam Tata Kelola Asrama 24 Jam](#4-inkuiri-3-analisis-rekayasa-kausalitas-sanad-turats-dalam-tata-kelola-asrama-24-jam)
-  - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
+  - [2. Genealogi Epistemologis 6 Imam Mazhab Ahlussunnah wal Jama'ah](#2-genealogi-epistemologis-6-imam-mazhab-ahlussunnah-wal-jamaah)
+  - [3. Dekonstruksi Distorsi Asketisme Ekstrem Menuju Tasawuf Akhlaqi-Amali](#3-dekonstruksi-distorsi-asketisme-ekstrem-menuju-tasawuf-akhlaqi-amali)
+  - [4. Rekayasa Kausalitas Sanad Turats dalam Tata Kelola Asrama 24 Jam](#4-rekayasa-kausalitas-sanad-turats-dalam-tata-kelola-asrama-24-jam)
+  - [5. Kasuistika Lapangan: Distorsi Maqam Tajrid & Resolusi Restoratif](#5-kasuistika-lapangan-distorsi-maqam-tajrid--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Komprehensif Sanad & Keselarasan Turats dengan Enam Aksioma TUMBUH](#1-matriks-komprehensif-sanad--keselarasan-turats-dengan-enam-aksioma-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Adab Turats (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-adab-turats-maratib-al-idrak)
   - [3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Khazanah Salaf](#3-prinsip-aksiologis--etika-tata-kelola-pengasuhan-berbasis-khazanah-salaf)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
-- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Genealogi Turats](#1-tabel-sintesis-temuan-riset-genealogi-turats)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -40,7 +40,7 @@
 
 ---
 
-# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Genealogi Epistemologis 6 Imam Mazhab Ahlussunnah wal Jama'ah
+### 2. Genealogi Epistemologis 6 Imam Mazhab Ahlussunnah wal Jama'ah
 
 Penyelidikan mendalam terhadap teks-teks primer Turats klasik membuktikan bahwa Enam Aksioma Realitas berakar kokoh pada pemikiran 6 tokoh otoritatif Islam:
 
@@ -98,7 +98,7 @@ Imam **Ibnu 'Athaillah As-Sakandari** dalam *Al-Hikam* menegaskan kewajiban mene
 
 ---
 
-### 3. Inkuiri 2: Dekonstruksi Distorsi Tasawuf Asketik Ekstrem vs Tasawuf Akhlaqi Amali
+### 3. Dekonstruksi Distorsi Asketisme Ekstrem Menuju Tasawuf Akhlaqi-Amali
 
 Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) mengkritik keras paham penelantaran raga:
 
@@ -108,13 +108,13 @@ $$\text{فَإِنَّ الْبَدَنَ مَطِيَّةُ النَّفْسِ�
 
 ---
 
-### 4. Inkuiri 3: Analisis Rekayasa Kausalitas Sanad Turats dalam Tata Kelola Asrama 24 Jam
+### 4. Rekayasa Kausalitas Sanad Turats dalam Tata Kelola Asrama 24 Jam
 
 Sanad Turats membuktikan bahwa kebersihan air wudhu, sirkulasi udara kamar, dan adab saling menghormati adalah implementasi langsung dari fiqh *Hifzh an-Nafs* Imam Asy-Syathibi dan kitab *Adab al-'Alim wal-Muta'allim* KH. Hasyim Asy'ari.[^5]
 
 ---
 
-### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
+### 5. Kasuistika Lapangan: Distorsi Maqam Tajrid & Resolusi Restoratif
 
 * **Studi Kasus: Santri Malas Belajar dengan Alasan Ingin Langsung "Maqam Tajrid"**  
   * **Dilema**: Santri berhenti mengulang hafalan kitab dan sering tidur di pojok masjid, berdalih ingin langsung "pasrah tawakkal tanpa asbab".
@@ -122,7 +122,7 @@ Sanad Turats membuktikan bahwa kebersihan air wudhu, sirkulasi udara kamar, dan 
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -187,12 +187,9 @@ flowchart TD
 ```
 
 #### 📋 Panduan Etika Pengasuhan Lapangan:
-1. **Kajian Turats Tematik Kontekstual**:
-   - Kajian kitab kuning di masjid asrama wajib dikaitkan langsung dengan praktik hidup santri (misal: kajian bab najis langsung dipraktikkan dalam mencuci sprei dan membersihkan kamar mandi).
-2. **Protokol Mediasi Restoratif (*Ishlah al-Bain*)**:
-   - Menyelesaikan perselisihan santri dengan bimbingan musyrif sebagai fasilitator adil yang memandu muhasabah dan saling memaafkan.[^8]
-3. **Keteladanan Akhlak Musyrif (*Qudwah Hasanah*)**:
-   - Musyrif mengamalkan kitab *Adab an-Nufus* Imam Al-Muhasibi untuk menjaga keikhlasan hati dan mengendalikan emosi saat mendampingi santri.[^9]
+1. **Kajian Turats Tematik Kontekstual**: Kajian kitab kuning di masjid asrama wajib dikaitkan langsung dengan praktik hidup santri (misal: kajian bab najis langsung dipraktikkan dalam mencuci sprei dan membersihkan kamar mandi).
+2. **Protokol Mediasi Restoratif (*Ishlah al-Bain*)**: Menyelesaikan perselisihan santri dengan bimbingan musyrif sebagai fasilitator adil yang memandu muhasabah dan saling memaafkan.[^8]
+3. **Keteladanan Akhlak Musyrif (*Qudwah Hasanah*)**: Musyrif mengamalkan kitab *Adab an-Nufus* Imam Al-Muhasibi untuk menjaga keikhlasan hati dan mengendalikan emosi saat mendampingi santri.[^9]
 
 ---
 
@@ -200,16 +197,13 @@ flowchart TD
 
 Validasi Turats Klasik terhadap Enam Aksioma Realitas memberikan kontribusi keilmuan fundamental:
 
-* **Menjawab Tuduhan Dikotomi Tradisi Salaf dan Modernitas**:  
-  Riset ini membuktikan bahwa prinsip manajemen mutu dan arsitektur asrama sehat sesungguhnya selaras 100% dengan prinsip Maqashid Syari'ah Imam Asy-Syathibi dan adab tarbiyah Imam Al-Ghazali. Modernisasi tata kelola adalah wujud menghidupkan kembali ruh Turats (*Ihya'ut Turats*).
-* **Menghapus Feodalisme dan Menegakkan Kesetaraan Martabat Hamba**:  
-  Penegasan konsep kefakiran ontologis manusia dari kitab kalam Aswaja membongkar feodalisme di asrama. Kemuliaan diukur dari ketakwaan dan keteladanannya (*Qudwah*), bukan dari tingkatan senioritas fisik.
-* **Memperkokoh Daya Saing Pesantren di Kancah Global**:  
-  Dengan memadukan keotentikan sanad Turats dan ketepatan sains modern, pesantren binaan TUMBUH tampil sebagai mercusuar peradaban Islam yang melahirkan lulusan ulama intelek dan cendekiawan bertakwa.[^10]
+* **Menjawab Tuduhan Dikotomi Tradisi Salaf dan Modernitas**: Riset ini membuktikan bahwa prinsip manajemen mutu dan arsitektur asrama sehat sesungguhnya selaras 100% dengan prinsip Maqashid Syari'ah Imam Asy-Syathibi dan adab tarbiyah Imam Al-Ghazali. Modernisasi tata kelola adalah wujud menghidupkan kembali ruh Turats (*Ihya'ut Turats*).
+* **Menghapus Feodalisme dan Menegakkan Kesetaraan Martabat Hamba**: Penegasan konsep kefakiran ontologis manusia dari kitab kalam Aswaja membongkar feodalisme di asrama. Kemuliaan diukur dari ketakwaan dan keteladanannya (*Qudwah*), bukan dari tingkatan senioritas fisik.
+* **Memperkokoh Daya Saing Pesantren di Kancah Global**: Dengan memadukan keotentikan sanad Turats dan ketepatan sains modern, pesantren binaan TUMBUH tampil sebagai mercusuar peradaban Islam yang melahirkan lulusan ulama intelek dan cendekiawan bertakwa.[^10]
 
 ---
 
-# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 
