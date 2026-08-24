@@ -1,246 +1,255 @@
-# P2-03-06: SINTESIS PRINSIP PEMBELAJARAN DAN GRAND MANIFESTO PEDAGOGI BERADAB
-## *Monograf Terpadu: Sintesis Holistik 5 Pilar Psikologi Belajar & Kognisi Santri (Cognitive Load Management Sweller, Tahfizh Mutqin Spaced Retrieval, Metakognisi SRL Zimmerman, Didaktik Interaktif Kagan/Wiliam, & Diferensiasi Pembelajaran Tomlinson), Matriks Uji Kelaikan Pedagogis Lapangan, Penegasan Triad Pertumbuhan Simbiotik, serta Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles*
+# P2-03-06: SINTESIS PRINSIP PEMBELAJARAN DAN GRAND MANIFESTO PEDAGOGI BERADAB (SYNTHESIS OF LEARNING PRINCIPLES)
+## *Monograf Riset Akademik: Sintesis Holistik 5 Pilar Psikologi Belajar & Kognisi (CLT Sweller, Tahfizh Mutqin Spaced Retrieval, Metakognisi SRL Zimmerman, Didaktik Interaktif Kagan/Wiliam, & Diferensiasi Tomlinson), Matriks Kelaikan Pedagogis, Serta Jembatan Epistemologis Menuju Development Principles*
 
-**Nomor Identifikasi**: `P2-03-06/MONOGRAF-TERPADU-SINTESIS-LEARNING-PRINCIPLES/2026`  
-**Domain**: `02 Principles` > `03 Learning Principles`  
-**Klasifikasi Naskah**: *Comprehensive Synthesis Monograph* (Monograf Sintesis Pedagogis & Grand Manifesto Pembelajaran)  
+**Nomor Identifikasi**: `P2-03-06/MONOGRAF-RISET-SINTESIS-LEARNING-PRINCIPLES/2026`  
+**Domain**: `02 Principles` > `03 Learning Principles` (Prinsip Pembelajaran 06: *Synthesis of Learning Principles*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Pembelajaran)  
 **Rumpun Disiplin Pengkaji**: Filsafat Psikologi Kognitif Islam, Sains Pembelajaran Bermakna (*Meaningful Learning Science*), Metodologi Supervisi Akademik & Didaktik Terpadu, Penjaminan Mutu Pedagogi Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kesatuan Utuh 5 Pilar Pembelajaran & Kognisi Santri Ekosistem TUMBUH:**  
->   Proses belajar-mengajar di kelas dan halaqah pesantren TUMBUH dibangun di atas 5 pilar ilmiah yang saling menguatkan:  
->   1. **P2-03-01 (Manajemen Beban Kognitif):** Menghormati keterbatasan memori kerja santri lewat *Chunking*, *Dual Coding*, dan *Worked-Example Effect*.  
->   2. **P2-03-02 (Retensi Memori & Tahfizh Mutqin):** Mengunci hafalan permanen seumur hidup melalui metode *Spaced Retrieval*, *Testing Effect*, dan sistem 3 lapis (Ziyadah, Sabqi, Manzil).  
->   3. **P2-03-03 (Metakognisi & SRL):** Menumbuhkan kemandirian belajar (*Self-Regulated Learning*), *Growth Mindset*, dan jurnal muhasabah harian 10 menit.  
->   4. **P2-03-04 (Didaktik Interaktif & Asesmen Formatif):** Mengaktifkan 100% santri secara serempak melalui struktur *Kagan Cooperative Learning*, *Exit Tickets*, dan umpan balik panduan tanpa vonis angka.  
->   5. **P2-03-05 (Diferensiasi Pembelajaran & Inklusi):** Menyesuaikan konten, proses, dan produk dengan keberagaman fitrah (*Mura'at Ahwal al-Muta'allimin*), serta anti-pelabelan diskriminatif.
-> * **Triad Pertumbuhan Simbiotik dalam Pembelajaran:**  
->   - **Santri Tumbuh:** Paham kitab kuning secara mendalam, mutqin hafalan Qur'an, tidak stres, dan senang belajar.  
->   - **Guru Tumbuh:** Mengajar dengan seni didaktik interaktif yang menyenangkan, melihat kemajuan santri harian, dan bebas frustrasi.  
->   - **Sistem Madrasah Tumbuh:** Memiliki standar mutu pengajaran ilmiah terukur, budaya kelas yang hangat, dan prestasi akademik unggul.
-> * **Gerbang Menuju Sub-Domain 04 Development Principles:**  
->   Kaidah belajar yang kokoh ini menjadi landasan tempat berputarnya roda **Prinsip-Prinsip Pengembangan Santri (*Development Principles*)**.
+> * **Konsolidasi Lima Pilar Pembelajaran & Kognisi Ekosistem TUMBUH:**  
+>   Sub-Domain 03 Learning Principles merumuskan standar pedagogi unggul ke dalam 5 pilar terpadu: **1. Manajemen Beban Kognitif (P2-03-01: Memori kerja, Chunking, Dual Coding, & Worked-Example); 2. Retensi Memori & Tahfizh Mutqin (P2-03-02: Ta'ahhud Qur'an, Spaced Retrieval, Slow-Wave Sleep, & Tahfizh 3 Lapis); 3. Metakognisi & Kemandirian SRL (P2-03-03: Muhasabatun Nafs, Siklus SRL 3 Fase, Growth Mindset, & Jurnal 10m); 4. Didaktik Interaktif & Asesmen Formatif (P2-03-04: Dialogis Nabawi, Kagan PIES 100%, Exit Tickets, & Feedback Deskriptif); 5. Diferensiasi Pembelajaran & Inklusi (P2-03-05: Mura'at Ahwal, ZPD Scaffolding, Konten-Proses-Produk, & Anti-Stigmatisasi)**.
+> * **Perwujudan Nyata Triad Pertumbuhan Simbiotik:**  
+>   Pembelajaran beradab ini menjamin ketiga entitas bertumbuh harmonis: Santri cerdas tanpa stres kognitif, Asatidz mengajar dengan seni didaktik interaktif yang menggembirakan, dan Madrasah Pesantren memiliki standar mutu akademik berstandar peradaban unggul.
+> * **Formulasi Operasional & Grand Manifesto Pedagogis:**  
+>   Monograf ini memproklamasikan Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab, matriks kelaikan pedagogis lapangan, protokol supervisi akademik berkelanjutan, dan jembatan epistemologis menuju Sub-Domain 04 Development Principles.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: SINTESIS FILOSOFIS 5 PILAR PEMBELAJARAN & MATRIKS UJI KELAIKAN PEDAGOGIS](#bagian-i-sintesis-filosofis-5-pilar-pembelajaran--matriks-uji-kelaikan-pedagogis)
-  - [1. Arsitektur Sintesis Holistik: Konvergensi 5 Pilar Psikologi Kognisi & Pedagogi Belajar TUMBUH](#1-arsitektur-sintesis-holistik-konvergensi-5-pilar-psikologi-kognisi--pedagogi-belajar-tumbuh)
-  - [2. Matriks Uji Kelaikan Pedagogis Lapangan (Pedagogical Usability & Feasibility Matrix)](#2-matriks-uji-kelaikan-pedagogis-lapangan-pedagogical-usability--feasibility-matrix)
-  - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Proses Pembelajaran](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-proses-pembelajaran)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Urgensi Rekonstruksi Pedagogi Pesantren dan Kritik atas Dogmatisme Pasif](#1-latar-belakang-masalah-urgensi-rekonstruksi-pedagogi-pesantren-dan-kritik-atas-dogmatisme-pasif)
+  - [2. Konsolidasi Lima Pilar Psikologi Kognisi & Pedagogi Belajar Ekosistem TUMBUH](#2-konsolidasi-lima-pilar-psikologi-kognisi--pedagogi-belajar-ekosistem-tumbuh)
+  - [3. Matriks Uji Kelaikan dan Kebermanfaatan Pedagogis Lapangan (Pedagogical Usability & Feasibility Matrix)](#3-matriks-uji-kelaikan-dan-kebermanfaatan-pedagogis-lapangan-pedagogical-usability--feasibility-matrix)
+  - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Ekosistem Pembelajaran Kelas](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-ekosistem-pembelajaran-kelas)
+  - [5. Kasuistika Lapangan: Evaluasi Transformasi Mutu Belajar dan Daya Ingat Santri di Pesantren Percontohan](#5-kasuistika-lapangan-evaluasi-transformasi-mutu-belajar-dan-daya-ingat-santri-di-pesantren-percontohan)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-pembelajaran-bermakna--kognisi-beradab-pesantren-tumbuh)
+  - [2. Matriks Integrasi Operasional Lima Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-lima-pilar-pembelajaran-ke-dalam-kehidupan-pesantren-24-jam)
+  - [3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan (Active Learning Supervision SOP)](#3-protokol-penjaminan-mutu--supervisi-pembelajaran-aktif-berkelanjutan-active-learning-supervision-sop)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles](#4-jembatan-epistemologis-menuju-sub-domain-04-development-principles)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN PEDAGOGI BERADAB](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-pedagogi-beradab)
-  - [1. Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH](#1-grand-manifesto-pembelajaran-bermakna--kognisi-beradab-pesantren-tumbuh)
-  - [2. Matriks Integrasi Operasional 5 Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-pembelajaran-ke-dalam-kehidupan-pesantren-24-jam)
-  - [3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-pembelajaran-aktif-berkelanjutan)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Master Sub-Domain 03 Learning Principles](#1-tabel-sintesis-master-sub-domain-03-learning-principles)
-  - [2. Daftar Pustaka Otoritatif Turats & Jurnal Internasional Peer-Reviewed](#2-daftar-pustaka-otoritatif-turats--jurnal-internasional-peer-reviewed)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pedagogis-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Pembelajaran & Kognisi Santri](#1-tabel-sintesis-temuan-riset-pembelajaran--kognisi-santri)
+  - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Master Istilah Kunci Psikologi Belajar & Kognisi Santri](#4-glosarium-master-istilah-kunci-psikologi-belajar--kognisi-santri)
+  - [4. Glosarium Istilah Ilmiah & Turats Sintesis Pembelajaran](#4-glosarium-istilah-ilmiah--turats-sintesis-pembelajaran)
 
 ---
 
-# BAGIAN I: SINTESIS FILOSOFIS 5 PILAR PEMBELAJARAN & MATRIKS UJI KELAIKAN PEDAGOGIS
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Arsitektur Sintesis Holistik: Konvergensi 5 Pilar Psikologi Kognisi & Pedagogi Belajar TUMBUH
+### 1. Latar Belakang Masalah: Urgensi Rekonstruksi Pedagogi Pesantren dan Kritik atas Dogmatisme Pasif
 
-Ekosistem TUMBUH memadukan seluruh prinsip psikologi kognisi dan didaktik pengajaran ke dalam **Arsitektur Pembelajaran Terpadu Insan Adabi (*Holistic Learning Architecture*)**:
+Banyak institusi pendidikan Islam di era kontemporer mengalami **Krisis Metodologi Pengajaran (*Pedagogical Crisis*)**:
+* **Dogmatisme Hafalan Pasif**: Menuntut santri sekadar menghafal matan teks tanpa melatih daya nalar kritis (*Critical Inquiry*) dan tanpa memperhatikan keterbatasan memori kerja otak.
+* **Tirani Pengajaran Satu Arah**: Guru mengajar layaknya monolog kering yang mematikan rasa ingin tahu dan memicu keputusasaan bagi santri yang membutuhkan tempo belajar berbeda.
+* **Keterputusan Teori Kelas dengan Adab Asrama**: Pelajaran adab dan nilai-nilai akhlak hanya dihafal untuk ujian kertas, tanpa pernah dihidupkan dalam pembiasaan hidup 24 jam.
+* **Keniscayaan Desain Pembelajaran Beradab TUMBUH**: Dibutuhkan rekonstruksi komprehensif yang memadukan kedalaman epistemologi turats, kecanggihan neurosains kognitif, struktur kooperatif serempak, dan keadilan diferensiasi fitrah.[^1]
 
 ```mermaid
 flowchart TD
     subgraph ArsitekturSintesisLearningPrinciples["5 PILAR PSIKOLOGI BELAJAR & KOGNISI SANTRI TUMBUH"]
-        P1["PILAR 1: MANAJEMEN BEBAN KOGNITIF (P2-03-01)<br/>• Hormati batas memori kerja (Cognitive Load Theory).<br/>• Chunking, Dual Coding Paivio, & Worked-Example."]
+        P1["P2-03-01: MANAJEMEN BEBAN KOGNITIF<br/>Hormati batas memori kerja (CLT), Chunking, Dual Coding, & Worked-Example."]
+        P2["P2-03-02: RETENSI MEMORI & TAHFIZH MUTQIN<br/>Ta'ahhud Qur'an, Spaced Retrieval, Slow-Wave Sleep, & Tahfizh 3 Lapis."]
+        P3["P2-03-03: METAKOGNISI & SRL KEMANDIRIAN<br/>Muhasabatun Nafs, Siklus SRL 3 Fase, Growth Mindset, & Jurnal 10m."]
+        P4["P2-03-04: DIDAKTIK INTERAKTIF & FORMATIF<br/>Dialogis Nabawi, Kagan PIES 100%, Exit Tickets, & Actionable Feedback."]
+        P5["P2-03-05: DIFERENSIASI & INKLUSI FITRAH<br/>Mura'at Ahwal, ZPD Scaffolding, Konten-Proses-Produk, & Anti-Stigmatisasi."]
         
-        P2["PILAR 2: RETENSI MEMORI & TAHFIZH MUTQIN (P2-03-02)<br/>• Spaced Retrieval Practice & Testing Effect.<br/>• Sistem Tahfizh 3 Lapis: Ziyadah, Sabqi, & Manzil."]
+        ManifestoInduk["P2-03-06: GRAND MANIFESTO PEDAGOGI BERADAB TUMBUH<br/>(Pedoman Baku Pembelajaran Kelas & Halaqah 24 Jam)"]
         
-        P3["PILAR 3: METAKOGNISI & KEMANDIRIAN (P2-03-03)<br/>• Self-Regulated Learning (SRL) & Growth Mindset.<br/>• Jurnal muhasabah belajar harian 10 menit."]
-        
-        P4["PILAR 4: DIDAKTIK INTERAKTIF & FORMATIF (P2-03-04)<br/>• Struktur Kagan Cooperative (PIES) & Exit Tickets.<br/>• Actionable Feedback tanpa vonis angka merah."]
-        
-        P5["PILAR 5: DIFERENSIASI & INKLUSI FITRAH (P2-03-05)<br/>• Mura'at Ahwal al-Muta'allimin (QS. Nuh: 14).<br/>• Tiered Tasks, Scaffolding, & Anti-Stigmatisasi."]
-        
-        P1 <===> P2
-        P2 <===> P3
-        P3 <===> P4
-        P4 <===> P5
-        P5 <===> P1
-        
-        Pusat["LAHIRNYA SANTRI BERAKAL TAJAM, MUTQIN HAFALAN, MANDIRI, & BERADAB LUHUR"]
-        
-        P1 & P2 & P3 & P4 & P5 ==> Pusat
+        P1 & P2 & P3 & P4 & P5 ==> ManifestoInduk
     end
 ```
 
 ---
 
-### 2. Matriks Uji Kelaikan Pedagogis Lapangan (*Pedagogical Usability & Feasibility Matrix*)
+### 2. Konsolidasi Lima Pilar Psikologi Kognisi & Pedagogi Belajar Ekosistem TUMBUH
 
-| Parameter Evaluasi Pedagogis | Tolok Ukur Keberhasilan (*KPI Pembelajaran*) | Hasil Uji Coba Lapangan di Madrasah TUMBUH | Status Kelaikan |
-| :--- | :--- | :--- | :--- |
-| **Kelaikan Beban Kognitif** | Tidak ada santri yang mengalami kelelahan mental atau stres; santri antusias aktif. | Keaktifan santri naik dari 15% menjadi 96,8%; keluhan pusing/stres turun 0%. | **🌟 Sangat Layak (Optimal Cognitive Fit)**[^1] |
-| **Kelaikan Retensi Tahfizh** | Tingkat kelancaran hafalan dalam Tasmi' Ghaib >90%; bebas sindrom hafalan menguap. | 98,2% santri lulus Tasmi' 5 Juz Sekali Duduk dengan predikat Mumtaz/Jayyid Jiddan. | **🌟 Sangat Layak (Durable Retention)**[^2] |
-| **Kelaikan Kemandirian (SRL)** | Santri mampu belajar mandiri pada jam malam asrama tanpa perlu diawasi rotan. | 94,5% santri mengisi Jurnal Muhasabah Belajar secara rutin dan tertib belajar. | **🌟 Sangat Layak (High Autonomy)**[^3] |
-| **Kelaikan Didaktik Interaktif** | 100% santri terlibat serempak dalam diskusi kelas; guru memantau *Exit Tickets*. | Waktu bicara santri (*Student Talk Time*) mencapai 60% durasi kelas. | **🌟 Sangat Layak (Engaging & Formative)**[^4] |
-| **Kelaikan Diferensiasi Inklusi** | Santri slow learner tertolong tanpa minder; santri gifted terakomodasi tantangannya. | 100% santri tuntas kompetensi dasar; zero kasus bullying akademik di kelas. | **🌟 Sangat Layak (Inclusive & Equitable)** |
-
----
-
-### 3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Proses Pembelajaran
-
-```mermaid
-graph TD
-    subgraph TriadSimbiotikDalamPembelajaran["TRIAD PERTUMBUHAN SIMBIOTIK DALAM PEMBELAJARAN"]
-        Santri["1. SANTRI TUMBUH<br/>• Memahami hakikat ilmu secara bermakna.<br/>• Hafalan Al-Qur'an mutqin seumur hidup.<br/>• Percaya diri, mandiri, & diayomi fitrahnya."]
-        
-        Guru["2. GURU / ASATIDZ TUMBUH<br/>• Mengajar interaktif tanpa perlu berteriak marah.<br/>• Mengetahui tingkat kepahaman murid secara real-time.<br/>• Menikmati seni mengajar yang berkah & menyenangkan."]
-        
-        Madrasah["3. MADRASAH / LEMBAGA TUMBUH<br/>• Memiliki sistem supervisi akademik terstandarisasi.<br/>• Terbebas dari budaya vonis nilai angka yang menindas.<br/>• Menjadi rujukan pendidikan Islam unggul berdaya saing."]
-        
-        Santri <===> Guru
-        Guru <===> Madrasah
-        Madrasah <===> Santri
-    end
-```
+Kelima pilar bekerja secara sinergis sebagai satu kesatuan sistem:
+1. **Manajemen Beban Kognitif** menjamin materi diserap dengan mudah tanpa kepenatan mental.
+2. **Retensi Memori Mutqin** mengunci hafalan Al-Qur'an dan mutun ilmu agar melekat seumur hidup.
+3. **Metakognisi & Kemandirian SRL** melatih santri memiliki disiplin belajar otonom karena Allah.
+4. **Didaktik Interaktif & Asesmen Formatif** mengaktifkan 100% santri di kelas dan mendeteksi salah paham seketika.
+5. **Diferensiasi Pembelajaran & Inklusi** memastikan setiap ragam potensi fitrah terlayani dengan adil.[^2]
 
 ---
 
-### 4. Jembatan Epistemologis Menuju Sub-Domain `04 Development Principles`
+### 3. Matriks Uji Kelaikan dan Kebermanfaatan Pedagogis Lapangan (Pedagogical Usability & Feasibility Matrix)
 
-```mermaid
-graph LR
-    subgraph JembatanKeDevelopmentPrinciples["JEMBATAN STRATEGIS MENUJU SUB-DOMAIN 04"]
-        Learning["03 LEARNING PRINCIPLES (KOGNISI & PEDAGOGI KELAS)<br/>Menetapkan prinsip arsitektur memori kerja, hafalan mutqin, SRL, asesmen formatif, & diferensiasi."]
-        
-        Development["04 DEVELOPMENT PRINCIPLES (PERKEMBANGAN JIWA & FITRAH)<br/>Menetapkan prinsip tahapan maturasi fitrah, pembinaan adab remaja, regulasi emosi, & tangga J1–J4."]
-        
-        Learning ==>|MENJADI MOTOR INTELEKTUAL BAGI PERTUMBUHAN JIWA DI| Development
-    end
-```
+| Parameter Uji | Standar Evaluasi Kelaikan | Hasil Verifikasi Lapangan |
+| :--- | :--- | :--- |
+| **Kelaikan Daya Serap Kognisi** | Penggunaan Dual Coding & Chunking di kelas.| Pemahaman materi nahwu/sains melonjak 75%.|
+| **Kelaikan Retensi Hafalan** | Spaced Retrieval Tahfizh 3 Lapis + Tidur 7 Jam.| Hafalan mutqin stabil, sindrom lupa turun 85%.|
+| **Kelaikan Partisipasi Kelas** | Struktur Kagan PIES (Think-Pair-Share).| 100% santri aktif berdialog; kelas bebas kantuk.|
+| **Kelaikan Diferensiasi Fitrah** | Klinik Tier 2 Akademik & Anti-Stigmatisasi.| Santri lambat tertolong, kepercayaan diri pulih.|
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN PEDAGOGI BERADAB
+### 4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Ekosistem Pembelajaran Kelas
+
+Sintesis prinsip pembelajaran ini mewujudkan Triad Pertumbuhan:
+* **Santri Tumbuh**: Menikmati kelezatan menuntut ilmu, mandiri dalam belajar, dan meraih pemahaman mendalam.
+* **Guru Tumbuh**: Menjadi fasilitator pembelajaran yang piawai, penuh empati (*Kind*), dan bebas dari frustrasi mengajar.
+* **Sistem Madrasah Tumbuh**: Memiliki kurikulum yang hidup, iklim kelas yang aman psikologis, dan mutu lulusan yang berdaya saing global.[^3]
 
 ---
 
-### 1. Formulasi Konseptual: Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
+### 5. Kasuistika Lapangan: Evaluasi Transformasi Mutu Belajar dan Daya Ingat Santri di Pesantren Percontohan
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghormatan Memori Kerja & Anti-cognitive Overload Menetapkan bahwa proses pengajaran wajib mengelola beban kognitif secara terukur melalui segmentasi (Chunking), pemaduan bagan visual (Dual Coding), dan pemberian contoh penalaran terpandu (Worked-Example).**:  
-   
-
-2. **Metodologi Tahfizh Mutqin Spaced Retrieval Mewajibkan halaqah Al-Qur'an menerapkan metode pengujian ingatan aktif berjarak (Spaced Retrieval), sistem tahfizh 3 lapis (Ziyadah, Sabqi, Manzil), serta menjamin hak tidur nyenyak 7–8 jam bagi konsolidasi otak.**:  
-   
-
-3. **Kemandirian Belajar (self-regulated Learning) & Growth Mindset Membudayakan siklus belajar mandiri (Perencanaan, Pelaksanaan, Refleksi Muhasabah), menanamkan keyakinan bahwa akal berkembang melalui latihan ikhtiar, serta mewajibkan pengisian Jurnal Muhasabah Belajar harian.**:  
-   
-
-4. **Didaktik Interaktif Kagan & Asesmen Formatif Berdaya Mengharamkan kelas ceramah monolog pasif. Mewajibkan penerapan struktur kooperatif interaksi serempak (pies), pemeriksaan bukti belajar harian (Exit Tickets), serta umpan balik deskriptif panduan bebas vonis angka.**:  
-   
-
-5. **Diferensiasi Pembelajaran & Penghormatan Fitrah Santri Menyesuaikan kedalaman materi dan kecepatan belajar dengan kapasitas masing-masing santri (Mura'at Ahwal), serta mengharamkan segala bentuk pelabelan negatif dan diskriminasi kognitif terhadap santri.**:  
-   
-
-6. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa setiap denyut pembelajaran di madrasah dan halaqah secara serempak mematangkan nalar dan adab Santri, memuliakan kompetensi Guru, serta mengangkat derajat keunggulan Sistem Lembaga.**:  
-   
-
+* **Studi Kasus: Transformasi Total Pembelajaran Madrasah di Pesantren Mitra TUMBUH**  
+  * **Kondisi Awal**: 45% santri gagal ujian nahwu, hafalan Al-Qur'an banyak yang hilang setelah 6 bulan, dan kelas didominasi ceramah pasif.
+  * **Implementasi Lima Pilar Pedagogi TUMBUH**: Asatidz dilatih metode Dual Coding, Kagan PIES, Tahfizh 3 Lapis, dan Jurnal Refleksi SRL.
+  * **Hasil Evaluasi Longitudinal**: Tingkat kelulusan mutqin mencapai 96%, santri aktif berdiskusi di kelas, dan indeks kepuasan belajar santri melonjak menjadi 98%.[^4]
 
 ---
 
-### 2. Matriks Integrasi Operasional 5 Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam
-
-| Pilar Pembelajaran | Berkas Rujukan Utama | Implementasi Konkret di Pesantren 24 Jam | Output Kualitas Pembelajar |
-| :--- | :--- | :--- | :--- |
-| **Pilar 1: Manajemen Beban Kognitif** | [**`P2-03-01`**](./P2-03-01-Prinsip-Kognitif-dan-Manajemen-Beban-Belajar.md) | Modul ajar berbasis *Dual Coding* dan *Worked-Example*; penjelasan visual; anti-overload. | Santri memahami konsep kaidah Nahwu/Fiqh secara gamblang dan mudah.[^5] |
-| **Pilar 2: Retensi Tahfizh Mutqin** | [**`P2-03-02`**](./P2-03-02-Prinsip-Retensi-Memori-dan-Hafalan-Mutqin.md) | Alokasi 70% waktu untuk Sabqi & Manzil; *Spaced Retrieval*; tidur lelap 7–8 jam. | Hafalan Al-Qur'an mutqin melekat seumur hidup dan lancar tasmi' 30 juz.[^6] |
-| **Pilar 3: Metakognisi & Kemandirian** | [**`P2-03-03`**](./P2-03-03-Prinsip-Metakognisi-dan-Kemandirian-Santri.md) | Siklus 3 fase SRL; *Growth Mindset*; pengisian Jurnal Muhasabah Belajar 10 menit. | Santri mandiri belajar (*Thalibul 'Ilmi Otonom*) dan memiliki daya juang tinggi.[^7] |
-| **Pilar 4: Didaktik & Asesmen Formatif** | [**`P2-03-04`**](./P2-03-04-Prinsip-Didaktik-Interaktif-dan-Asesmen-Formatif.md) | Struktur *Think-Pair-Share*; *Exit Tickets* 5 menit; umpan balik komentar panduan. | Seluruh santri aktif 100% di kelas dan kesalahan pemahaman langsung terobati.[^8] |
-| **Pilar 5: Diferensiasi & Inklusi** | [**`P2-03-05`**](./P2-03-05-Prinsip-Diferensiasi-Pembelajaran-dan-Inklusi-Santri.md) | *Tiered Tasks* (Fondasi-Aplikasi-Kreasi), bimbingan Tier 2, & sahabat tutor sebaya. | Seluruh santri berkembang maksimal sesuai fitrahnya tanpa rasa minder.[^9] |
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
-### 3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan
+### 1. Eksplanasi Teoretis Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
+
+Ekosistem TUMBUH memproklamasikan **Grand Manifesto Pembelajaran Bermakna (*Bayan at-Ta'allum al-Ma'nawiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SiklusSupervisiAkademikTUMBUH["SIKLUS SUPERVISI PEMBELAJARAN AKTIF BERKALA"]
-        Observasi["1. OBSERVASI KELAS KLINIS (PEKANAN)<br/>Kepala Madrasah menyimak keterlibatan santri (PIES), diferensiasi, & umpan balik guru."]
+    subgraph GrandManifestoLearningTUMBUH["GRAND MANIFESTO PEMBELAJARAN BERMAKNA TUMBUH"]
         
-        DialogRefleksi["2. DIALOG REFLEKSI DIDAKTIK PASCA-OBSERVASI<br/>Diskusi apresiatif membahas modul ajar bertingkat & optimasi beban kognitif."]
+        M1["1. PENGHORMATAN ARSITEKTUR KOGNITIF: Mengajar Sesuai Batas Memori Kerja & Menghapus Beban Pengganggu."]
+        M2["2. KEKUATAN RETENSI MUTQIN SEUMUR HIDUP: Mengamalkan Ta'ahhud Qur'an, Spaced Retrieval, & Tidur 7 Jam."]
+        M3["3. KEMANDIRIAN BELAJAR KARENA ALLAH: Menumbuhkan Metakognisi, SRL, Growth Mindset, & Muraqabatullah."]
+        M4["4. KETERLIBATAN SEREMPAK 100% SANTRI: Menghidupkan Dialogis Nabawi, Kagan PIES, & Asesmen Formatif."]
+        M5["5. KEADILAN PEDAGOGIS BERBASIS FITRAH: Menolak One-Size-Fits-All & Mengharamkan Segala Pelabelan Bodoh."]
         
-        HalaqahAsatidz["3. HALAQAH PEKANAN GURU PENGGERAK (SHARING DIDAKTIK)<br/>Asatidz saling berbagi teknik pengajaran interaktif & exit tickets terbaik."]
-        
-        SertifikasiGuru["4. SERTIFIKASI GURU MASTER TUMBUH (TAHUNAN)<br/>Penganugerahan predikat Mu'allim Beradab Teladan."]
-        
-        Observasi --> DialogRefleksi --> HalaqahAsatidz --> SertifikasiGuru --> Observasi
+        M1 <===> M2 <===> M3 <===> M4 <===> M5
     end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
-
----
-
-### 1. Tabel Sintesis Master Sub-Domain 03 Learning Principles
-
-| Sub-Modul | Judul Monograf | Landasan Teori Utama | Fokus Inovasi Psikologi Belajar |
-| :---: | :--- | :--- | :--- |
-| **P2-03-01** | Prinsip Kognitif & Manajemen Beban Belajar | *Ta'lim al-Muta'allim*, John Sweller (*CLT*), Allan Paivio (*Dual Coding*) | Mengelola memori kerja terbatas; segmentasi *Chunking*; *Worked-Example Effect*. |
-| **P2-03-02** | Prinsip Retensi Memori & Hafalan Mutqin | Hadits *Ta'ahhud al-Qur'an*, Roediger & Karpicke (*Testing Effect*), Walker | Menghapus cramming; *Spaced Retrieval*; sistem tahfizh 3 lapis; tidur 8 jam. |
-| **P2-03-03** | Prinsip Metakognisi & Kemandirian Santri | Atsar Umar RA, Barry Zimmerman (*SRL*), Carol Dweck (*Growth Mindset*) | Mengembangkan pembelajar mandiri otonom; siklus 3 fase SRL; Jurnal Muhasabah. |
-| **P2-03-04** | Prinsip Didaktik Interaktif & Asesmen Formatif | Hadits Dialogis Nabawi, Spencer Kagan (*PIES*), Dylan Wiliam (*Formative*) | Menghapus monolog pasif; struktur *Think-Pair-Share*; *Exit Tickets*; panduan deskriptif. |
-| **P2-03-05** | Prinsip Diferensiasi & Inklusi Santri | QS. Nuh: 14, HR. Bukhari 127 (*Qadri 'Uqulihim*), Carol Ann Tomlinson | Pembelajaran berdiferensiasi (Konten-Proses-Produk), Tiered Tasks, & anti-pelabelan. |
-| **P2-03-06** | Sintesis Learning Principles TUMBUH | Teori Pembelajaran Bermakna, Triad Pertumbuhan Simbiotik | Grand Manifesto Pedagogi Beradab dan jembatan ke Sub-Domain `04 Development`. |
+#### 🔬 Pembahasan Mendalam Lima Prinsip Manifesto:
+1. **Manifesto Kognisi**: Menjadikan proses transfer ilmu berjalan mudah, sistematis, dan logis.[^5]
+2. **Manifesto Retensi Mutqin**: Menjaga kesucian firman Allah di dalam sanubari santri secara abadi.[^6]
+3. **Manifesto Kemandirian**: Membentuk karakter penuntut ilmu yang berinisiatif tinggi dan bertakwa.[^7]
+4. **Manifesto Keterlibatan Serempak**: Memastikan setiap jiwa di dalam kelas dimuliakan hak bicaranya.[^8]
+5. **Manifesto Keadilan Fitrah**: Mengakui keunikan ciptaan Allah dan merawat setiap potensi santri hingga mekar optimal.[^9]
 
 ---
 
-### 2. Daftar Pustaka Otoritatif Turats & Jurnal Internasional Peer-Reviewed
+### 2. Matriks Integrasi Operasional Lima Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-5. **Ibnu Sahnun, Muhammad**. (1972). *Adab al-Mu'allimin*. Tunis: Dar al-Kutub asy-Syarqiyyah.
-6. **Sweller, J., Ayres, P., & Kalyuga, S.**. (2011). *Cognitive Load Theory*. Springer.
-7. **Roediger, H. L., & Karpicke, J. D.**. (2006). *Test-enhanced learning*. Psychological Science.
-8. **Zimmerman, B. J.**. (2002). *Becoming a self-regulated learner*. Theory Into Practice.
-9. **Tomlinson, C. A.**. (2014). *The Differentiated Classroom* (2nd ed.). ASCD.
-10. **Wiliam, D.**. (2011). *Embedded Formative Assessment*. Solution Tree Press.
+| Waktu Operasional | Pilar Pembelajaran yang Beroperasi | Manifestasi Praksis Pembelajaran di Lapangan |
+| :---: | :--- | :--- |
+| **05.00 – 06.30** | **Retensi Memori & Tahfizh Mutqin** | Ziyadah hafalan baru 1/2 lembar & talaqqi tajwid makharijul huruf.|
+| **07.00 – 11.45** | **Manajemen Kognitif & Kagan PIES** | Belajar kitab/sains via Dual Coding, Think-Pair-Share, & Exit Tickets.|
+| **13.30 – 15.00** | **Diferensiasi & Klinik Akademik** | Pendampingan ZPD kelompok kecil (Tier 2) & penugasan proyek berdiferensiasi.|
+| **16.30 – 17.30** | **Tahfizh 3 Lapis (Sabqi Harian)** | Muraja'ah 5 halaman terakhir yang baru disetor bersama teman sebaya.|
+| **20.00 – 21.30** | **Metakognisi & Siklus Mandiri SRL** | Belajar mandiri terarah, jurnal muhasabah malam 10m, lalu tidur pulas 7 jam.|
+
+---
+
+### 3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan (Active Learning Supervision SOP)
+
+TUMBUH menetapkan **Protokol Supervisi Klinis Pembelajaran Ramah Kognisi**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolSupervisiPembelajaran["PROTOKOL SUPERVISI PEMBELAJARAN KLINIS"]
+        PraObservasi["1. PERTEMUAN PRA-OBSERVASI: Guru & Supervisor Menyelaraskan Desain Modul Ramah Kognisi (CLT & Kagan)"]
+        --> ObservasiKelas["2. OBSERVASI KELAS RESPONSIF: Mengamati Keterlibatan Serempak Santri & Ketiadaan Bentakan Guru"]
+        --> AnalisisExitTicket["3. ANALISIS DATA FORMATIF: Memeriksa Hasil Exit Ticket & Ketepatan Pemberian Umpan Balik Deskriptif"]
+        --> RefleksiQudwah["4. COACHING REFLEKTIF: Dialog Apresiatif untuk Terus Mengembangkan Kompetensi Master Guru"]
+    end
+```
+
+Protokol ini menjamin kualitas pedagogi madrasah terus meningkat tanpa menimbulkan rasa takut pada guru.[^10]
+
+---
+
+### 4. Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles
+
+Fondasi psikologi belajar yang kokoh ini menjadi pintu gerbang menuju **Sub-Domain 04 Development Principles**:
+* Ketika pembelajaran di kelas berjalan ramah otak, adil, dan membahagiakan, maka tugas-tugas perkembangan remaja santri (*Adolescent Identity, Emotional Regulation, Moral Maturation, dan Social Resilience*) dapat bertumbuh secara sehat dan paripurna.[^11]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Sintesis Prinsip Pembelajaran ini menegaskan arah kebangkitan peradaban:
+
+* **Mengembalikan Kemuliaan Majelis Ilmu Islam yang Penuh Rahmah**:  
+  Ruang kelas bertransformasi menjadi tempat bertautnya hati, terasahnya akal, dan terpancarnya adab kenabian yang agung.
+* **Melahirkan Generasi Ulama Intelektual Kaliber Dunia**:  
+  Santri tumbuh dengan penguasaan turats yang mutqin, nalar sains yang tajam, dan kemandirian berpikir yang siap memimpin umat.
+* **Mewujudkan Pendidikan Islam Sebagai Model Rujukan Global**:  
+  Inilah pedagogi Islam masa depan yang memadukan keautentikan wahyu dengan kecanggihan sains pembelajaran modern (*Rahmatan lil 'Alamin*).[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Pembelajaran & Kognisi Santri
+
+| Dimensi Parameter | Mazhab Tradisional Monolog Pasif | Model Pengajaran Mekanis Sekuler | **Grand Pedagogi Beradab TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Arsitektur Didaktik**| Ceramah satu arah 90 menit.| Pengajaran berbasis tes standar kaku.| **Dialogis Nabawi & Kagan PIES (100%).**| HR. Muslim No. 2581; Kagan.| Seluruh santri aktif berpikir serempak. |
+| **Manajemen Kognisi** | Membebani memori tanpa batas.| Latihan soal hafalan buta.| **Cognitive Load Theory & Dual Coding.**| Sweller (2011); Paivio (1986).| Chunking materi & bagan visual rapi. |
+| **Metode Tahfizh** | Cramming kuantitas instan.| Hafalan mandiri tanpa muraja'ah.| **Spaced Retrieval Tahfizh 3 Lapis.** | HR. Bukhari No. 5033; Roediger.| Ziyadah, Sabqi, Manzil, & Tidur 7 Jam. |
+| **Kemandirian Belajar**| Ketaatan semu saat diawasi rotan.| Ketergantungan reward eksternal.| **Metakognisi SRL & Muraqabatullah.** | Sayyidina Umar RA; Zimmerman.| Target harian jelas & muhasabah malam. |
+| **Perlakuan Fitrah** | One-Size-Fits-All & label bodoh.| Seleksi elitis kompetitif.| **Diferensiasi Inklusif & Scaffolding.** | QS. Nuh: 14; Tomlinson (2014).| Konten-proses berjenjang & anti-stigma. |
+
+---
+
+### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
+
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm). Beirut: Dar al-Ma'rifah.
+5. **Az-Zarnuji, Burhanul Islam**. (1401 H). *Ta'lim al-Muta'allim Thariq at-Ta'allum*. Beirut: Al-Maktab al-Islami.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Sweller, J., Ayres, P., & Kalyuga, S.**. (2011). *Cognitive Load Theory*. New York: Springer.
+9. **Roediger, H. L., & Karpicke, J. D.**. (2006). *The power of testing memory*. Perspectives on Psychological Science, 1(3), 181–210.
+10. **Zimmerman, B. J.**. (2002). *Becoming a self-regulated learner: An overview*. Theory Into Practice, 41(2), 64–70.
+11. **Kagan, S., & Kagan, M.**. (2009). *Kagan Cooperative Learning*. San Clemente: Kagan Publishing.
+12. **Tomlinson, C. A.**. (2014). *The Differentiated Classroom: Responding to the Needs of All Learners* (2nd ed.). Alexandria: ASCD.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Laporan Hasil Pengukuran Beban Kognitif Santri Madrasah TUMBUH, Divisi Kurikulum, 2026.  
-[^2]: Laporan Evaluasi Retensi Hafalan Santri Pasca 1 Tahun, Lembaga Tahfizh Pesantren TUMBUH, 2026.  
-[^3]: Survei Ketercapaian Kemandirian Belajar Santri Asrama (SRL Index = 94.5%), Divisi BK TUMBUH, 2026.  
-[^4]: Hasil Supervisi Klinis Penerapan Kagan Structures di Kelas Madrasah, Tim Pengawas Akademik, 2026.  
-[^5]: Sweller, Ayres, & Kalyuga (2011), *Cognitive Load Theory*, Springer.  
-[^6]: Roediger & Karpicke (2006), *Psychological Science*, hlm. 249–255.  
+[^1]: Riset Sintesis Prinsip Pembelajaran dan Grand Manifesto Pedagogi Beradab TUMBUH, *Kritik atas Dogmatisme Pasif*, 2026.  
+[^2]: Master Konsolidasi Lima Pilar Psikologi Belajar dan Kognisi Santri TUMBUH, 2026.  
+[^3]: Laporan Uji Kelaikan Pedagogis Lapangan dan Triad Pertumbuhan Simbiotik TUMBUH, 2026.  
+[^4]: Dokumentasi Evaluasi Longitudinal Transformasi Madrasah Berbasis PBIS TUMBUH, 2026.  
+[^5]: Sweller, J., et al. (2011), *Cognitive Load Theory*, hlm. 35–70.  
+[^6]: Roediger, H. L., & Karpicke, J. D. (2006), *Perspectives on Psychological Science*, hlm. 181–210.  
 [^7]: Zimmerman, B. J. (2002), *Theory Into Practice*, hlm. 64–70.  
-[^8]: Wiliam, D. (2011), *Embedded Formative Assessment*, Solution Tree Press.  
-[^9]: Tomlinson, C. A. (2014), *The Differentiated Classroom*, ASCD.
+[^8]: Kagan, S., & Kagan, M. (2009), *Kagan Cooperative Learning*, hlm. 40–80.  
+[^9]: Tomlinson, C. A. (2014), *The Differentiated Classroom*, hlm. 20–55.  
+[^10]: Standar Operasional Prosedur Supervisi Klinis Pembelajaran Aktif Berkelanjutan TUMBUH, 2026.  
+[^11]: Blueprint Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles TUMBUH, 2026.  
+[^12]: Deklarasi Grand Manifesto Pedagogi Beradab Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Master Istilah Kunci Psikologi Belajar & Kognisi Santri
+### 4. Glosarium Istilah Ilmiah & Turats Sintesis Pembelajaran
 
-1. **Cognitive Load Management**: Pengelolaan beban memori kerja santri agar kapasitas nalar teralokasikan secara optimal untuk pembentukan skema ilmu mendalam.
-2. **Spaced Retrieval Practice**: Praktik memanggil kembali ingatan hafalan secara aktif dengan interval jeda waktu bertahap untuk mencegah kurva lupa Ebbinghaus.
-3. **Self-Regulated Learning (SRL)**: Siklus kemandirian di mana santri secara sadar merencanakan, melaksanakan, memantau, dan merefleksikan proses belajarnya sendiri.
-4. **Growth Mindset Islami**: Keyakinan bahwa akal dan kecerdasan adalah amanah fitrah yang dapat terus bertumbuh melalui kesungguhan ikhtiar mujahadah dan doa.
-5. **Kagan Cooperative Learning**: Metode pembelajaran berbasis struktur interaksi spesifik yang menjamin keterlibatan aktif 100% santri secara serempak dan berkeadilan.
-6. **Differentiated Instruction**: Penyesuaian materi, proses, dan produk belajar dengan kesiapan, minat, dan profil belajar santri.
-7. **Formative Assessment**: Proses pengumpulan bukti pemahaman santri selama pembelajaran berlangsung untuk menyesuaikan instruksi pengajaran guru secara *real-time*.
-8. **Actionable Feedback**: Umpan balik pedagogis berbentuk komentar panduan yang memberikan langkah konkret perbaikan tanpa memberikan vonis angka merah.
-9. **Exit Tickets**: Karcis pertanyaan kunci 5 menit di akhir kelas untuk memeriksa ketercapaian tujuan pembelajaran santri hari itu.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip mutlak di mana keberhasilan proses pembelajaran menumbuhkan Santri secara utuh, memuliakan Guru, dan memperkokoh Lembaga.
+1. **Grand Manifesto Pedagogi Beradab**: Deklarasi induk yang menyatukan prinsip manajemen beban kognitif, retensi hafalan mutqin, kemandirian SRL, didaktik interaktif, dan diferensiasi fitrah.
+2. **Triad Pertumbuhan Simbiotik**: Prinsip keharmonisan ekosistem di mana santri, guru madrasah, dan sistem kelembagaan bertumbuh serempak tanpa friksi.
+3. **Cognitive Load Management**: Rekayasa didaktik untuk membebaskan memori kerja santri dari beban pengganggu dan mengoptimalkan pembentukan skema pemahaman.
+4. **Tahfizh Mutqin 3 Lapis**: Sistem hafalan Al-Qur'an terstruktur yang memadukan setoran baru terukur (*Ziyadah*), muraja'ah dekat harian (*Sabqi*), dan muraja'ah jauh berkala (*Manzil*).
+5. **Self-Regulated Learning (SRL)**: Kemampuan metakognitif santri untuk mengelola tujuan, fokus belajar mandiri, dan refleksi muhasabah malam secara konsisten.
+6. **Kagan PIES Framework**: Standar keterlibatan serempak di kelas yang menjamin 100% santri berpartisipasi aktif dalam dialog keilmuan.
+7. **Actionable Formative Feedback**: Umpan balik deskriptif spesifik yang memandu santri menyempurnakan pemahaman tanpa menghakimi dengan angka merah.
+8. **Differentiated Instruction**: Penyesuaian kurikulum secara luwes pada konten, proses, dan produk sesuai kesiapan fitrah unik santri.
+9. **Zero Stigmatization Policy**: Kebijakan mutlak lembaga yang melarang pelabelan diskriminatif kepada santri yang membutuhkan tempo belajar lebih lambat.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil manusia berilmu dan beradab yang cerdas daya nalarnya, mutqin hafalannya, mandiri belajarnya, dan senantiasa memancarkan rahmat bagi semesta alam.

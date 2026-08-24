@@ -1,176 +1,152 @@
-# P2-03-05: PRINSIP DIFERENSIASI PEMBELAJARAN, KEBERAGAMAN FITRAH, DAN INKLUSI SANTRI
-## *Monograf Terpadu: Kaidah Khalaqakum Athwara (QS. Nuh: 14) & Keberagaman Potensi Fitrah Santri, Teori Instruksi Berdiferensiasi (Differentiated Instruction Carol Ann Tomlinson), Mitigasi Pelabelan Diskriminatif (Anti-Stigmatization Slow Learner), Strategi Scaffolding Pembelajaran Kitab & Tahfizh, serta Akses Keadilan Pedagogis*
+# P2-03-05: PRINSIP DIFERENSIASI PEMBELAJARAN, KEBERAGAMAN FITRAH, DAN INKLUSI SANTRI (DIFFERENTIATED INSTRUCTION & INCLUSIVE LEARNING)
+## *Monograf Riset Akademik: Kaidah Khalaqakum Athwara (QS. Nuh: 14) & Keberagaman Potensi Fitrah, Differentiated Instruction Carol Ann Tomlinson, Mitigasi Stigmatisasi Negatif, Serta Strategi Scaffolding Vygotsky di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-03-05/MONOGRAF-TERPADU-DIFERENSIASI-INKLUSI/2026`  
-**Domain**: `02 Principles` > `03 Learning Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Standar Baku Diferensiasi Pembelajaran)  
-**Rumpun Disiplin Pengkaji**: Pedagogi Inklusif & Diferensiasi Pembelajaran (*Differentiated Instruction*), Psikologi Kognitif Keberagaman Pembelajar, Fiqh Murā'āt Ahwāl al-Muta'allimīn, Neurosains Perkembangan Kapasitas Belajar  
+**Nomor Identifikasi**: `P2-03-05/MONOGRAF-RISET-DIFERENSIASI-INKLUSI/2026`  
+**Domain**: `02 Principles` > `03 Learning Principles` (Prinsip Pembelajaran 05: *Differentiated Instruction & Inclusive Learning*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Pembelajaran)  
+**Rumpun Disiplin Pengkaji**: Pedagogi Inklusif & Diferensiasi Pembelajaran (*Differentiated Instruction*), Psikologi Kognitif Keberagaman Pembelajar, Fiqh Mura'at Ahwal al-Muta'allimin, Neurosains Perkembangan Kapasitas Belajar  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Menolak Pendekatan "Satu Ukuran untuk Semua" (*One-Size-Fits-All*):**  
->   Memaksa 30 santri di dalam satu kelas untuk belajar dengan kecepatan yang sama, metode yang sama, dan target hafalan harian yang seragam tanpa mempedulikan kesiapan awal mereka adalah bentuk kezaliman pedagogis.
-> * **Prinsip Diferensiasi Berbasis 3 Elemen (Tomlinson):**  
->   1. **Diferensiasi Konten:** Menyesuaikan kedalaman teks materi (teks berharakat/terjemah untuk pemula, matan gundul untuk tingkat mahir).  
->   2. **Diferensiasi Proses:** Menggunakan variasi aktivitas (visual, auditori, kinestetik, dan peer-tutoring kelompok kecil).  
->   3. **Diferensiasi Produk/Asesmen:** Santri dapat mendemonstrasikan pemahaman melalui presentasi lisan, esai analisis, peta konsep visual, atau rekaman video penjelasan.
-> * **Pengharaman Pelabelan Negatif (*Anti-Stigmatization*):**  
->   Dilarang keras menjuluki santri sebagai "santri bodoh", "lemot", atau "otak udang". Setiap santri memiliki waktu tumbuh (*Bloom Timing*) yang berbeda-beda sesuai fitrahnya.
+> * **Kelemahan Paradigma Lama: Tirani "Satu Ukuran untuk Semua" (One-Size-Fits-All) & Pelabelan Negatif:**  
+>   Banyak pengajar memaksakan target kecepatan hafalan dan penguasaan kitab yang seragam kepada seluruh santri tanpa mempedulikan perbedaan kesiapan kognitif awal. Santri yang membutuhkan waktu belajar lebih lambat dicap sebagai "santri pemalas" atau "otak udang" (*Labeling*), memicu keputusasaan belajar (*Learned Helplessness*).
+> * **Inovasi Konseptual: Fiqh Mura'at Ahwal al-Muta'allimin & Differentiated Instruction (Tomlinson):**  
+>   TUMBUH menegakkan firman Allah: *"Dia telah menciptakan kamu dalam beberapa tingkatan/tahapan perkembangan"* (QS. Nuh: 14) dan kaidah turats *Mura'at Ahwal al-Muta'allimin*. Mengadopsi teori **Differentiated Instruction Carol Ann Tomlinson**: mendiferensiasikan 3 elemen (Konten materi berjenjang, Proses scaffolding Vygotsky *Zone of Proximal Development*, dan Produk demonstrasi pemahaman) dengan kebijakan mutlak **Anti-Stigmatisasi Santri**.
+> * **Formulasi Operasional & Penjaminan Keadilan Pedagogis:**  
+>   Monograf ini menguraikan matriks strategi diferensiasi 3 tingkat kesiapan (Pemula, Madya, Mahir), SOP bimbingan klinik akademik khusus (Tier 2 Akademik), protokol peer-tutoring sebaya, dan etika pemuliaan keberagaman fitrah.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET PRINSIP DIFERENSIASI PEMBELAJARAN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-prinsip-diferensiasi-pembelajaran-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Diferensiasi: Mengapa Keberagaman Fitrah Menuntut Fleksibilitas Pengajaran](#1-kerangka-metodologi-diferensiasi-mengapa-keberagaman-fitrah-menuntut-fleksibilitas-pengajaran)
-  - [2. Inkuiri 1: Eksegesis Turats Mura'at Ahwal al-Muta'allimin — Sunnah Nabawi & Ibnu Sahnun](#2-inkuiri-1-eksegesis-turats-muraat-ahwal-al-mutaallimin--sunnah-nabawi--ibnu-sahnun)
-  - [3. Inkuiri 2: Konvergensi Differentiated Instruction (Carol Ann Tomlinson) & Zone of Proximal Development (Vygotsky)](#3-inkuiri-2-konvergensi-differentiated-instruction-carol-ann-tomlinson--zone-of-proximal-development-vygotsky)
-  - [4. Inkuiri 3: Mitigasi Pelabelan Negatif & Desain Scaffolding Bertingkat di Kelas Kitab dan Tahfizh](#4-inkuiri-3-mitigasi-pelabelan-negatif--desain-scaffolding-bertingkat-di-kelas-kitab-dan-tahfizh)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-kelas--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-formulasi-konseptual-standar-diferensiasi-pembelajaran-inklusi-pesantren-tumbuh)
-  - [2. Matriks Strategi Diferensiasi 3 Tingkat Kesiapan Santri: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)](#2-matriks-strategi-diferensiasi-3-tingkat-kesiapan-santri-pemula-fondasi-madya-aplikasi-mahir-kreasi)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Keseragaman Kaku (One-Size-Fits-All) dan Bahaya Stigmatisasi Negatif](#1-latar-belakang-masalah-kritik-atas-keseragaman-kaku-one-size-fits-all-dan-bahaya-stigmatisasi-negatif)
+  - [2. Eksegesis Turats Keberagaman Fitrah: QS. Nuh: 14, Kaidah Mura'at Ahwal al-Muta'allimin, & Sunnah Nabawiyyah](#2-eksegesis-turats-keberagaman-fitrah-qs-nuh-14-kaidah-muraat-ahwal-al-mutaallimin--sunnah-nabawiyyah)
+  - [3. Konvergensi Sains Pembelajaran Berdiferensiasi: Differentiated Instruction (Tomlinson) & ZPD (Vygotsky)](#3-konvergensi-sains-pembelajaran-berdiferensiasi-differentiated-instruction-tomlinson--zpd-vygotsky)
+  - [4. Rekayasa Didaktik Scaffolding Bertingkat & Pengharaman Total Pelabelan Negatif Santri](#4-rekayasa-didaktik-scaffolding-bertingkat--pengharaman-total-pelabelan-negatif-santri)
+  - [5. Kasuistika Lapangan: Kasus Santri Mengalami Hambatan Belajar Bahasa Arab & Resolusi Diferensiasi](#5-kasuistika-lapangan-kasus-santri-mengalami-hambatan-belajar-bahasa-arab--resolusi-diferensiasi)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-diferensiasi-pembelajaran--inklusi-pesantren-tumbuh)
+  - [2. Matriks Strategi Diferensiasi Tiga Tingkat Kesiapan: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)](#2-matriks-strategi-diferensiasi-tiga-tingkat-kesiapan-pemula-fondasi-madya-aplikasi-mahir-kreasi)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Santri Membutuhkan Bimbingan Khusus (Tier 2 Akademik)](#3-standar-prosedur-operasional-sop-penanganan-santri-membutuhkan-bimbingan-khusus-tier-2-akademik)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Diferensiasi Pembelajaran](#1-tabel-sintesis-hasil-riset-diferensiasi-pembelajaran)
+  - [4. Protokol Pendampingan Sebaya (Peer-Tutoring Scaffolding Protocol)](#4-protokol-pendampingan-sebaya-peer-tutoring-scaffolding-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Diferensiasi Pembelajaran & Inklusi](#1-tabel-sintesis-temuan-riset-diferensiasi-pembelajaran--inklusi)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Diferensiasi, Inklusi, ZPD, Scaffolding, & Mura'at Ahwal](#4-glosarium-teknis-diferensiasi-inklusi-zpd-scaffolding--muraat-ahwal)
+  - [4. Glosarium Istilah Ilmiah & Turats Diferensiasi Pembelajaran](#4-glosarium-istilah-ilmiah--turats-diferensiasi-pembelajaran)
 
 ---
 
-# BAGIAN I: RISET PRINSIP DIFERENSIASI PEMBELAJARAN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Diferensiasi: Mengapa Keberagaman Fitrah Menuntut Fleksibilitas Pengajaran
+### 1. Latar Belakang Masalah: Kritik atas Keseragaman Kaku (One-Size-Fits-All) dan Bahaya Stigmatisasi Negatif
 
-Dalam satu ruang kelas madrasah atau halaqah tahfizh di pesantren, terdapat variasi spektrum kemampuan kognitif yang sangat luas:
-* Ada santri yang memiliki memori fotografis dan mampu menghafal 1 halaman Al-Qur'an dalam 20 menit (*Fast Learner*).
-* Ada santri yang membutuhkan waktu 90 menit dan pengulangan 30 kali untuk menghafal ayat yang sama karena memiliki tantangan pemrosesan fonologis (*Slow-Paced Learner*).
-* Jika ustadz memukul rata standar target harian yang kaku, santri cepat akan merasa bosan (*Boredom*), sementara santri lambat akan mengalami keputusasaan mendalam (*Learned Helplessness*) dan trauma belajar.
-
-Ekosistem TUMBUH menegakkan prinsip **Keadilan Pedagogis Berbasis Fitrah**: adil bukan berarti menyamakan semua anak, melainkan memberikan bantuan (*Scaffolding*) yang tepat sesuai kebutuhan unik setiap santri.
+Di banyak ruang kelas madrasah dan halaqah tahfizh pesantren, terdapat variasi rentang kecepatan belajar yang sangat luas:
+* Sebagian santri memiliki daya ingat fotografis dan mampu menghafal 1 halaman dalam 20 menit (*Fast-Paced Learner*).
+* Sebagian santri lainnya membutuhkan waktu 90 menit dan bantuan artikulasi berulang karena memiliki tantangan pemrosesan fonologis (*Slow-Paced Learner*).
+* **Kezaliman Pedagogis Keseragaman Kaku**: Memaksa seluruh santri belajar dengan kecepatan, teks materi, dan tugas yang sama persis. Akibatnya santri cepat merasa jenuh (*Boredom*), sementara santri lambat dicap bodoh, mengalami keputusasaan (*Learned Helplessness*), dan trauma belajar.
+* **Keniscayaan Diferensiasi Pembelajaran**: Adil bukanlah menyamaratakan semua perlakuan, melainkan memberikan dukungan (*Scaffolding*) yang tepat sesuai fitrah dan kesiapan unik setiap santri.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph ModelDiferensiasiPembelajaranTUMBUH["ARSITEKTUR DIFERENSIASI PEMBELAJARAN BERBASIS FITRAH"]
-        AsesmenAwal["1. ASESMEN DIAGNOSTIK NON-KOGNITIF & KOGNITIF AWAL<br/>Memetakan profil modalitas belajar, kecepatan memori, & latar belakang santri."]
+    subgraph TransformasiDiferensiasiFitrah["TRANSFORMASI PEMBELAJARAN INKLUSIF BERDIFERENSIASI"]
+        PolaSeragamLama["KESERAGAMAN KAKU & STIGMATISASI (LAMA)<br/>• Target disamaratakan; santri lambat dicap bodoh.<br/>• Memicu keputusasaan (Learned Helplessness).<br/>• Santri cepat bosan & santri lambat terabaikan."]
         
-        Diferensiasi["2. PENYELENGGARAAN PEMBELAJARAN BERDIFERENSIASI:<br/>• Diferensiasi Konten (Teks bertingkat pemula s/d mahir).<br/>• Diferensiasi Proses (Variasi media audio-visual & kelompok sebaya).<br/>• Diferensiasi Produk (Pilihan unjuk karya autentik)."]
+        PolaDiferensiasiTUMBUH["DIFERENSIASI TOMLINSON & SCAFFOLDING (TUMBUH)<br/>• Diferensiasi Konten, Proses, & Produk unjuk kerja.<br/>• Bantuan bertingkat Vygotsky Zone of Proximal Development.<br/>• Anti-Stigmatisasi: Memuliakan setiap ritme tumbuh fitrah."]
         
-        Scaffolding["3. TIERED SCAFFOLDING & PEER TUTORING:<br/>Santri mahir menjadi tutor sebaya bagi santri yang butuh pendampingan."]
-        
-        Hasil["4. SELURUH SANTRI TUMBUH MAKSIMAL SESUAI POTENSI FITRAHNYA"]
-        
-        AsesmenAwal ==> Diferensiasi ==> Scaffolding ==> Hasil
+        PolaSeragamLama ==>|DIREKONSTRUKSI MENJADI| PolaDiferensiasiTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Mura'at Ahwal al-Muta'allimin — Sunnah Nabawi & Ibnu Sahnun
+### 2. Eksegesis Turats Keberagaman Fitrah: QS. Nuh: 14, Kaidah Mura'at Ahwal al-Muta'allimin, & Sunnah Nabawiyyah
+
+Al-Qur'an menegaskan sunnatullah keberagaman fase penciptaan dan kapasitas manusia:
+
+$$\text{وَقَدْ خَلَقَكُمْ أَطْوَارًا}$$
+
+*"**Padahal sungguh, Dia telah menciptakan kamu dalam beberapa tingkatan/tahapan keadaan (yang beraneka ragam)**."* (QS. Nuh [71]: 14).[^2]
+
+Para pakar pedagogi Islam klasik (seperti Ibnu Sahnun dalam *Adab al-Mu'allimin* dan Imam Al-Ghazali) merumuskan kaidah emas:
+
+$$\text{مُرَاعَاةُ أَحْوَالِ الْمُتَعَلِّمِينَ وَتَفَاوُتِ عُقُولِهِمْ}$$
+
+*"**Wajib hukumnya bagi pendidik untuk memperhatikan perbedaan kondisi murid dan keberagaman tingkat kecerdasan akal mereka**."*[^3]
+
+Rasulullah ﷺ selalu memberikan nasihat, amalan, dan tugas dakwah yang berbeda-beda kepada para sahabat sesuai keunggulan fitrah masing-masing (Khalid bin Walid di bidang kepemimpinan militer, Zaid bin Tsabit di bidang faraidh dan penerjemahan, dan Abu Hurairah di bidang kekuatan hafalan hadits).[^4]
+
+---
+
+### 3. Konvergensi Sains Pembelajaran Berdiferensiasi: Differentiated Instruction (Tomlinson) & ZPD (Vygotsky)
+
+Sains pedagogi modern membuktikan keunggulan pendekatan berdiferensiasi:
+* **Differentiated Instruction** (Carol Ann Tomlinson, 2001; 2014) menetapkan bahwa diferensiasi dilakukan pada 3 komponen utama:
+  1. **Konten (*Content*)**: Kedalaman teks materi yang dipelajari disesuaikan dengan tingkat kesiapan awal santri.
+  2. **Proses (*Process*)**: Ragam aktivitas belajar (auditori, visual, kinestetik, scaffolding berpasangan).
+  3. **Produk (*Product*)**: Santri diberi pilihan mendemonstrasikan pemahaman melalui presentasi lisan, bagan konsep, atau karya tulis.
+* **Zone of Proximal Development (ZPD)** (Lev Vygotsky, 1978): Memberikan bantuan belajar yang pas pada zona perkembangan terdekat santri agar mampu melangkah menuju kemandirian penuh.[^5]
+
+---
+
+### 4. Rekayasa Didaktik Scaffolding Bertingkat & Pengharaman Total Pelabelan Negatif Santri
+
+TUMBUH memberlakukan kebijakan perlindungan martabat pembelajar:
+* **Pengharaman Pelabelan Negatif (*Zero Stigmatization Policy*)**: Dilarang keras menjuluki santri sebagai "santri lemot", "otak udang", atau "kelas buangan".
+* **Klinik Akademik Khusus (Tier 2 PBIS Akademik)**: Santri yang mengalami kesulitan diberikan pendampingan tutorial sebaya (*Peer Tutoring*) atau jam penguatan konsep fondasi secara santun dan ramah.[^6]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Santri Mengalami Hambatan Belajar Bahasa Arab & Resolusi Diferensiasi
+
+* **Studi Kasus: Tiga Santri Baru yang Belum Pernah Belajar Bahasa Arab Mengalami Stres di Kelas Nahwu**  
+  * **Dilema**: Guru langsung menyajikan matan *Al-Jurumiyyah* tanpa harakat; 3 santri tersebut menangis karena tidak paham dan ingin pulang ke rumah.
+  * **Resolusi Diferensiasi TUMBUH**: Guru menerapkan strategi diferensiasi Tomlinson: (1) Untuk kelompok pemula, guru menyediakan modul *Nahwu Bergambar dengan Harakat Lengkap* (*Diferensiasi Konten*); (2) Memasangkan mereka dengan santri yang lebih mahir dalam sesi *Peer Tutoring* 15 menit (*Diferensiasi Proses*); (3) Tugas dinilai berdasarkan kemajuan individu (*Ipsative Progress*). Dalam 6 pekan, ketiga santri tersebut berhasil menguasai kaidah dasar nahwu dan merasa percaya diri di kelas.[^7]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan pedagogi inklusif ke dalam **Arsitektur Tiga Sayap Diferensiasi Beradab (*Arkan at-Ta'lim al-Mutamayyiz*)**:
 
 ```mermaid
-graph TD
-    A["Gugatan Standarisasi Kaku (Pihak A):<br/>'Target pondok harus sama untuk semua santri tanpa kecuali; yang tidak sanggup berarti malas dan harus dihukum!'"]
-    --> B1["Tinjauan Hadits Nabawi Kaidah Berbicara Sesuai Akal Manusia:<br/>'Khathibun naasa 'ala qadri 'uqulihim' (Berbicaralah dan ajarilah manusia sesuai dengan kadar kapasitas akal mereka)."]
-    A --> B2["Tinjauan Kitab Adab al-Mu'allimin Ibnu Sahnun (Wafat 256 H):<br/>Ulama salaf mewajibkan pendidik memperhatikan perbedaan daya tangkap santri dan melarang membebani anak di luar batas kesanggupannya."]
-    A --> B3["Tinjauan Firman Allah QS. Nuh: 14:<br/>'Wa qad khalaqakum athwaara' (Dan sungguh Dia telah menciptakan kamu dalam berbagai tahapan dan keberagaman kondisi)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Diferensiasi pedagogi adalah pengejawantahan sunnah Rasulullah SAW yang paling mulia."]
+flowchart TD
+    subgraph ArsitekturDiferensiasiTUMBUH["ARSITEKTUR DIFERENSIASI PEMBELAJARAN TUMBUH"]
+        
+        DI1_Sayap["1. DIFERENSIASI 3 ELEMEN (Content, Process, Product)<br/>Penyesuaian teks materi, variasi modalitas belajar, & ragam unjuk kerja autentik."]
+        
+        DI2_Sayap["2. SCAFFOLDING TIER 2 AKADEMIK (Tiered Academic Support)<br/>Klinik penguatan fondasi konsep, peer-tutoring ukhuwah, & pendampingan ZPD."]
+        
+        DI3_Sayap["3. IKLIM ANTI-STIGMATISASI (Zero Stigmatization & Karamah)<br/>Penghapusan julukan merendahkan & perayaan keberagaman potensi fitrah insan."]
+        
+        DI1_Sayap <===> DI2_Sayap <===> DI3_Sayap
+    end
 ```
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pemaksaan beban pengajaran yang melampaui kapasitas fitrah pembelajar (*Taklif ma la Yuthaq*) bertentangan dengan prinsip kemudahan syariat (*Yassiru wa la Tu'assiru*) dan merusak fitrah thalabul 'ilmi.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Pembelajaran berdiferensiasi menyesuaikan kedalaman materi dan kecepatan belajar dengan kapasitas masing-masing santri.
-* **Konklusi (*an-Natijah*)**: Maka, penerapan prinsip diferensiasi pembelajaran di kelas pesantren TUMBUH adalah tuntutan syariat Islam yang hakiki.[^1]
-
-#### 📖 Teks Primer Turats: Kaidah Mengajar Sesuai Kadar Akal
-Sayyidina Ali bin Abi Thalib *karramallahu wajhah* menegaskan:
-
-$$\text{حَدِّثُوا النَّاسَ بِمَا يَعْرِفُونَ، أَتُحِبُّونَ أَنْ يُكَذَّبَ اللَّهُ وَرَسُولُهُ؟}$$
-
-*"**Ajarilah dan berbicaralah kepada manusia sesuai dengan apa yang mereka pahami (kadar kapasitas mereka). Apakah kalian ingin Allah dan Rasul-Nya didustakan (akibat salah paham)?**"* (HR. Bukhari No. 127).[^2]
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Diferensiasi Tiga Elemen**: Membuka pintu gerbang ilmu selebar-lebarnya bagi seluruh modalitas belajar santri.[^8]
+2. **Sayap Scaffolding Tier 2 Akademik**: Menyelamatkan santri yang tertinggal sebelum mengalami keputusasaan belajar.[^9]
+3. **Sayap Iklim Anti-Stigmatisasi**: Membentengi rasa percaya diri dan kehormatan martabat seluruh santri.[^10]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Differentiated Instruction* (Carol Ann Tomlinson) & *Zone of Proximal Development* (Vygotsky)
+### 2. Matriks Strategi Diferensiasi Tiga Tingkat Kesiapan: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)
 
-Sains pembelajaran modern mengukuhkan prinsip pedagogis ini:
-* **Zone of Proximal Development (ZPD) Lev Vygotsky:** Santri belajar paling optimal ketika tugas yang diberikan berada sedikit di atas kemampuan mandirinya (*Just Challenging Enough*), tetapi dapat diselesaikan dengan bantuan bimbingan (*Scaffolding*).
-* **Framework Carol Ann Tomlinson (2014):** Guru memodifikasi elemen ruang kelas berdasarkan 3 faktor pembelajar: **Kesiapan (*Readiness*)**, **Minat (*Interest*)**, dan **Profil Belajar (*Learning Profile*)**.
-* Diferensiasi di pesantren TUMBUH tidak memisahkan santri ke dalam "kasta pintar vs kasta bodoh", melainkan menciptakan kelompok belajar fleksibel (*Flexible Grouping*) yang dinamis.[^3]
-
----
-
-### 4. Inkuiri 3: Mitigasi Pelabelan Negatif & Desain Scaffolding Bertingkat di Kelas Kitab dan Tahfizh
-
-| Bidang Pembelajaran | Praktik Diskriminatif Konvensional | Pendekatan Diferensiasi TUMBUH |
-| :--- | :--- | :--- |
-| **Tahfizh Al-Qur'an** | Mewajibkan 1 halaman per hari bagi semua; yang tidak tuntas disuruh berdiri di lapangan. | **Jalur Target Bertingkat:** Jalur Reguler (1/2 halaman mutqin) & Jalur Akselerasi (1–2 halaman), dievaluasi dari kualitas tajwid.[^4] |
-| **Kajian Nahwu/Shorof** | Semua santri membaca kitab gundul tanpa harakat seketika; yang salah diejek di depan kelas. | **Scaffolding Teks Bertingkat:** Pemula menggunakan matan berharakat & bagan visual; santri mahir menganalisis i'rab mendalam. |
-| **Pelajaran Sains & Matematika** | Guru hanya menerangkan rumus abstrak di papan tulis tanpa variasi visual. | **Multi-Modalitas:** Memadukan eksperimen lab sederhana, video animasi, simulasi interaktif, dan lembar kerja adaptif.[^5] |
-
----
-
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Menerapkan Diferensiasi Membuat Guru Repot Karena Harus Menyiapkan Banyak Modul"
-* **Pihak A (Sudut Pandang Kenyamanan Mengajar Monoton)**:  
-  *"Guru honorer gajinya kecil; tidak mungkin disuruh bikin 3 jenis soal atau 3 cara mengajar berbeda tiap hari!"*
-* **Tinjauan Efisiensi Desain Template Modul Terpadu**:  
-  Diferensiasi bukan berarti membuat 30 RPP berbeda, melainkan menggunakan strategi **Tiered Tasks (Tugas Bertingkat)** dalam satu lembar kerja (Soal Level 1 Fondasi, Level 2 Analisis, Level 3 Kreasi Tantangan). Hal ini justru menghemat energi guru karena kelas menjadi tertib, santri aktif, dan guru tidak perlu membuang energi memarahi anak yang tertinggal.[^6]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Santri Jalur Reguler Tidak Akan Merasa Rendah Diri (Minder)?
-* **Pihak A (Sudut Pandang Ketakutan Stigmatisasi)**:  
-  *"Kalau target hafalannya dibedakan, nanti santri yang hafalannya sedikit diejek oleh temannya yang cepat!"*
-* **Tinjauan Budaya Kelas Kolaboratif Ukhuwah**:  
-  Kultur kelas TUMBUH menanamkan doktrin bahwa kemuliaan diukur dari **Kesungguhan Mujahadah dan Kualitas Mutqin**, bukan sekadar banyaknya jumlah hafalan. Santri cepat diberdayakan sebagai mentor sahabat (*Peer Tutor*) yang bertugas membantu temannya, sehingga terbangun rasa saling mengayomi (*Takaful*) tanpa arogansi.[^7]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Inklusi dan Pendampingan Khusus Menjadi Tolok Ukur Kualitas Pesantren?
-* **Pihak A (Sudut Pandang Seleksi Elitis)**:  
-  *"Pesantren hebat itu yang santrinya pintar-pintar semua dari awal; yang lambat lebih baik dikeluarkan saja!"*
-* **Resolusi Hakikat Tarbiyah Transformatif**:  
-  Mendidik anak yang sudah pintar sejak awal adalah hal biasa. Keberkahan dan kehebatan pesantren yang sesungguhnya teruji ketika mampu mengubah santri yang awalnya terbata-bata membaca Al-Qur'an dan minder menjadi santri yang fasih, percaya diri, dan berakhlak mulia (*Transformatif*).[^8]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di Kelas 7 MTs Pesantren C, seorang santri (Santri D) mengalami disleksia ringan dan kesulitan mengeja tulisan Arab pegon. Santri D sering ditertawakan teman-temannya dan dicap "pemalas" oleh guru lama, hingga Santri D menangis ingin kabur dari pondok.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Guru TUMBUH menerapkan strategi *Diferensiasi & Scaffolding*: Santri D diberikan modul visual berwarna dengan ukuran font besar $\rightarrow$ Didampingi oleh santri senior sebagai tutor sebaya saat muthala'ah $\rightarrow$ Evaluasi setoran dilakukan secara lisan tanpa tes tulis yang memicu stres. Dalam 2 semester, Santri D mampu membaca Al-Qur'an dengan lancar, meraih nilai A dalam pemahaman makna sirah, dan menjadi qari' berbakat di asrama.[^9]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghormatan Fitrah Keberagaman Belajar (mura'at Ahwal Al-muta'allimin)**:  
-   Menetapkan bahwa setiap santri berhak mendapatkan pengajaran yang selaras dengan kecepatan kognitif, modalitas belajar, dan tingkat kesiapan awalnya; menolak keras metode kaku 'One-Size-Fits-All'.
-
-2. **Pengharaman Mutlak Pelabelan Negatif & Stigmatisasi Kognitif**:  
-   Mengharamkan penggunaan julukan yang merendahkan martabat santri (bodoh, lemot, malas); mewajibkan penggunaan paradigma Growth Mindset dan apresiasi atas setiap progres kemajuan santri (Ipsatif).
-
-3. **Strategi Integrasi Tugas Bertingkat (tiered Tasks) & Scaffolding Adaptif**:  
-   Mewajibkan pendidik menyusun modul pembelajaran dengan struktur bertingkat (Fondasi, Analisis, & Kreasi) serta memfasilitasi pendampingan kelompok fleksibel (Flexible Grouping & Peer Tutoring).
-
-4. **Layanan Pendampingan Akademik Khusus Tier 2 Tanpa Eksklusi Sosial**:  
-   Menyediakan klinik bimbingan belajar tambahan di sore hari bagi santri yang membutuhkan penguatan tanpa memisahkan santri dari pergaulan kamar asrama reguler guna menjaga ukhuwah islamiyyah.
-
-
----
-
-### 2. Matriks Strategi Diferensiasi 3 Tingkat Kesiapan Santri: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)
-
-| Dimensi Pembelajaran | Tingkat 1: Pemula (Fondasi) | Tingkat 2: Madya (Aplikasi) | Tingkat 3: Mahir (Kreasi & Analisis) |
+| Tingkat Kesiapan | Diferensiasi Konten (Teks Materi) | Diferensiasi Proses (Aktivitas Belajar) | Diferensiasi Produk (Asesmen Pemahaman) |
 | :--- | :--- | :--- | :--- |
-| **Diferensiasi Konten** | Teks berharakat lengkap, terjemah kosa kata kunci, & infografis visual. | Teks harakat parsial, kosa kata kontekstual, & analogi kasus. | Matan kitab gundul, komparasi ibarat syarah, & teks bahasa Arab murni.[^10] |
-| **Diferensiasi Proses** | Bimbingan intensif guru (*High Scaffolding*) & kerja kelompok tutor sebaya. | Diskusi terarah kelompok kecil dengan panduan lembar kerja terstruktur. | Riset mandiri (*Inquiry*), debat ilmiah sokratik, & merumuskan sintesis. |
-| **Diferensiasi Produk** | Membuat ringkasan peta konsep visual atau tes lisan hafalan kaidah dasar. | Menganalisis studi kasus fiqh kontemporer dalam esai terstruktur 2 halaman. | Menulis artikel riset ilmiah perbandingan madzhab atau video presentasi ilmiah. |
+| **1. Tingkat Pemula (Fondasi)**| Matan berharakat lengkap & terjemah kata.| Bimbingan langsung guru & model bertahap.| Menjelaskan konsep dasar dengan bahasa sendiri.|
+| **2. Tingkat Madya (Aplikasi)** | Matan harakat parsial & contoh kontekstual.| Diskusi berpasangan (*Think-Pair-Share*).| Meng-i'rab kalimat baru & analisis hukum fiqh.|
+| **3. Tingkat Mahir (Kreasi)** | Matan gundul & syarah turats klasik.| Meneliti perbandingan pendapat mazhab.| Menulis esai analisis kritis & mengajar junior.|
 
 ---
 
@@ -178,75 +154,97 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ```mermaid
 flowchart TD
-    subgraph SOPTier2BimbinganAkademik["SOP KLINIK BIMBINGAN BELAJAR ADAPTIF (TIER 2)"]
-        Identifikasi["1. IDENTIFIKASI DIAGNOSTIK MINGGUAN GURU MAPEL<br/>Mendeteksi santri yang belum tuntas pada kompetensi dasar setelah 2 kali KBM."]
-        
-        KlinikBelajar["2. SESI KLINIK AKADEMIK KELOMPOK KECIL (3–5 SANTRI)<br/>Pendampingan sore hari 45 menit dengan media ajar manipulatif & visual."]
-        
-        PeerBuddy["3. PENETAPAN SAHABAT BELAJAR SEBAYA DI ASRAMA<br/>Memasangkan santri dengan teman sekamar yang mahir untuk muthala'ah santai."]
-        
-        EvaluasiProgres["4. ASESMEN PROGRES FORMATIF & APRESIASI KEMAJUAN<br/>Pemberian lencana kemajuan saat santri berhasil menguasai kompetensi target."]
-        
-        Identifikasi --> KlinikBelajar --> PeerBuddy --> EvaluasiProgres
+    subgraph SOPPenangananTier2Akademik["SOP KLINIK AKADEMIK KHUSUS (TIER 2)"]
+        DeteksiDiagnostik["1. DETEKSI DINI: Guru Mengidentifikasi Santri yang Mengalami Hambatan Pemahaman via Exit Ticket"]
+        --> PemetaanZPD["2. PEMETAAN ZPD: Menemukan Titik Hambatan Spesifik (Misal: Kesulitan Membedakan Isim & Fi'il)"]
+        --> SesiKlinik30m["3. SESI KLINIK 30 MENIT: Bimbingan Intensif Kelompok Kecil (Maksimal 4 Santri) Ba'da Ashar"]
+        --> EvaluasiIpsatif["4. EVALUASI IPSATIF: Menilai Kemajuan Pertumbuhan Individu & Mengembalikan ke Kelas Reguler"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 4. Protokol Pendampingan Sebaya (Peer-Tutoring Scaffolding Protocol)
+
+TUMBUH menetapkan **Protokol Peer-Tutoring Ukhuwah**:
+1. **Pemasangan Pasangan Simbiotik**: Santri tingkat mahir dipasangkan dengan santri tingkat pemula sebagai Duta Belajar Sebaya.
+2. **Kaidah Adab Tutoring**: Tutor sebaya dilarang menyombongkan diri atau langsung memberikan jawaban; tutor bertugas memandu proses berpikir dengan pertanyaan pemantik santun.
+3. **Pemberian Apresiasi Ganda**: Guru memberikan apresiasi kepada kedua belah pihak: santri pemula diapresiasi kemajuannya, dan tutor sebaya diapresiasi keikhlasan adabnya.[^11]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Diferensiasi Pembelajaran
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Kelas Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Keberagaman Fitrah**| *Athwara* | QS. Nuh: 14, HR. Bukhari No. 127 | Tomlinson (2014), *Differentiated Instruction* | Menyesuaikan materi dengan kesiapan dan modalitas santri. |
-| **Zona Belajar Optimal**| *ZPD & Scaffolding* | Kaidah *Mura'at Ahwal al-Muta'allimin* | Vygotsky (1978), *Mind in Society* | Memberikan bantuan bertingkat agar santri mandiri bertahap. |
-| **Anti-Stigmatisasi** | *Karamah Insaniyyah*| QS. Al-Hujurat: 11 (Larangan Mengolok) | Dweck (2006), *Growth Mindset* | Menghapus julukan bodoh; mengapresiasi setiap ikhtiar kemajuan. |
-| **Tutor Sebaya** | *Ta'awun fil Birr* | HR. Muslim No. 2699 (Menolong Saudara) | Topping (2005), *Trends in Peer Learning* | Santri mahir mendampingi temannya dalam belajar bersama di kamar. |
+Prinsip diferensiasi pembelajaran dan inklusi santri ini membawa implikasi agung bagi peradaban:
+
+* **Membuktikan Keadilan dan Rahmat Syariat Islam dalam Pendidikan**:  
+  Pesantren menjadi rumah ramah bagi seluruh ragam fitrah manusia, membuktikan bahwa setiap anak berharga dan mampu berprestasi sesuai potensinya.
+* **Melahirkan Ulama dan Pemimpin yang Mengayomi Seluruh Lapisan Umat**:  
+  Santri terdidik dalam budaya inklusif yang saling membantu (*Ta'awun*), menepis benih-benih kesombongan intelektual dan elitisme sempit.
+* **Mewujudkan Kembali Kejayaan Halaqah Ilmiah Para Sahabat**:  
+  Inilah sunnah kenabian yang mulia: membina setiap insan menjadi versi terbaik dari potensi fitrah yang Allah titipkan (*Rahmatan lil 'Alamin*).[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Diferensiasi Pembelajaran & Inklusi
+
+| Dimensi Parameter | Mazhab Keseragaman Kaku (Lama) | Model Kompetisi Elitis Kering | **Diferensiasi Inklusif TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pandangan Fitrah**| Semua santri wajib sama cepatnya.| Seleksi alam; singkirkan yang lemah.| **Keberagaman Potensi Fitrah Manusia.** | QS. Nuh: 14; Tomlinson (2014).| Konten, proses, & produk berjenjang. |
+| **Sikap atas Kelambatan**| Dicap bodoh, pemalas, & dihukum.| Nilai merah dibiarkan tidak lulus.| **Diberikan Scaffolding ZPD yang Tepat.** | Vygotsky (1978); Ibnu Sahnun.| Klinik akademik Tier 2 & bimbingan ramah. |
+| **Dukungan Teman** | Ejekan & perundungan bagi yang lemah.| Kompetisi egoistik individual.| **Peer-Tutoring Ukhuwah Simbiotik.** | HR. Muslim (Ta'awun); Bandura.| Santri mahir membimbing pemula ikhlas. |
+| **Metode Evaluasi** | Ujian standar kaku seragam.| Peringkat kelas memicu minder.| **Asesmen Autentik & Kemajuan Ipsatif.**| Dylan Wiliam; Al-Ghazali.| Menilai pertumbuhan kemajuan diri sendiri. |
+| **Hasil Institusi** | Santri stres, putus asa, & keluar.| Lulusan elitis sombong.| **Seluruh Santri Berkembang Optimal.** | QS. Al-Baqarah: 286; Al-Attas.| Madrasah adil, inklusif, & berkah abadi. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Ibnu Sahnun, Muhammad**. (1972). *Adab al-Mu'allimin*. Tunis: Dar al-Kutub asy-Syarqiyyah.
-5. **Al-Ajurri, Abu Bakr Muhammad bin al-Husain**. (1987). *Akhlaq al-'Ulama'*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-6. **Tomlinson, C. A.**. (2014). *The Differentiated Classroom: Responding to the Needs of All Learners* (2nd ed.). ASCD.
-7. **Vygotsky, L. S.**. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
-8. **Dweck, C. S.**. (2006). *Mindset: The New Psychology of Success*. Random House.
-9. **Topping, K. J.**. (2005). *Trends in peer learning*. Educational Psychology, 25(6), 631–645.
-10. **Sousa, D. A., & Tomlinson, C. A.**. (2018). *Differentiation and the Brain: How Neuroscience Supports the Learner-Friendly Classroom*. Solution Tree Press.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **Ibnu Sahnun, Muhammad bin Abdis Salam**. (1416 H). *Adab al-Mu'allimin*. Kairo: Dar ash-Shahwah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Tomlinson, C. A.**. (2014). *The Differentiated Classroom: Responding to the Needs of All Learners* (2nd ed.). Alexandria: ASCD.
+9. **Tomlinson, C. A.**. (2001). *How to Differentiate Instruction in Mixed-Ability Classrooms* (2nd ed.). Alexandria: ASCD.
+10. **Vygotsky, L. S.**. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Cambridge: Harvard University Press.
+11. **Wood, D., Bruner, J. S., & Ross, G.**. (1976). *The role of tutoring in problem solving*. Journal of Child Psychology and Psychiatry, 17(2), 89–100.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Ibnu Sahnun, *Adab al-Mu'allimin*, Tunis, hlm. 35–52; Al-Ajurri, *Akhlaq al-'Ulama'*, hlm. 80–95.  
-[^2]: Shahih al-Bukhari No. 127, Kitab *al-'Ilm*, Bab *Man Khashsha bil-'Ilmi Qawman Duna Qawmin*.  
-[^3]: Tomlinson, C. A. (2014), *The Differentiated Classroom*, ASCD, hlm. 40–65; Vygotsky, L. S. (1978), *Mind in Society*.  
-[^4]: Pedoman Standar Halaqah Tahfizh Berdiferensiasi, Lajnah Tahfizh TUMBUH, 2026.  
-[^5]: Sousa & Tomlinson (2018), *Differentiation and the Brain*, Solution Tree Press.  
-[^6]: Panduan Praktis Guru: Merancang Tugas Bertingkat (Tiered Tasks), Pusat Pengembangan Pedagogi TUMBUH, 2026.  
-[^7]: Topping, K. J. (2005), *Trends in peer learning*, Educational Psychology, hlm. 631–645.  
-[^8]: Dweck, C. S. (2006), *Mindset: The New Psychology of Success*, Random House.  
-[^9]: Studi Kasus Penanganan Santri Disleksia Melalui Program Peer Tutoring, Divisi Konseling TUMBUH, 2026.  
-[^10]: Matriks Desain Modul Kitab Kuning Bertingkat, Biro Akademik Pesantren TUMBUH, 2026.
+[^1]: Riset Prinsip Diferensiasi Pembelajaran dan Inklusi Santri TUMBUH, *Kritik atas Keseragaman Kaku dan Stigmatisasi*, 2026.  
+[^2]: QS. Nuh [71]: 14.  
+[^3]: Ibnu Sahnun, *Adab al-Mu'allimin*, hlm. 20–45; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 75–98.  
+[^4]: Sirah Nabawiyyah Pendekatan Individual Rasulullah ﷺ kepada Para Sahabat.  
+[^5]: Tomlinson, C. A. (2014), *The Differentiated Classroom*, hlm. 15–50; Vygotsky, L. S. (1978), *Mind in Society*, hlm. 79–91.  
+[^6]: Deklarasi Pengharaman Pelabelan Negatif dan Perlindungan Martabat Pembelajar TUMBUH, 2026.  
+[^7]: Dokumentasi Penerapan Differentiated Instruction dan Klinik Belajar Bahasa Arab PBIS TUMBUH, 2026.  
+[^8]: Tomlinson, C. A. (2001), *How to Differentiate Instruction*, hlm. 25–65.  
+[^9]: Wood, D., Bruner, J. S., & Ross, G. (1976), *Journal of Child Psychology and Psychiatry*, hlm. 89–100.  
+[^10]: Master Blueprint Tata Kelola Inklusi dan Layanan Khusus Pesantren TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Peer-Tutoring Ukhuwah dan Pendampingan Sebaya TUMBUH, 2026.  
+[^12]: Deklarasi Pemuliaan Keberagaman Fitrah Pembelajar Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Diferensiasi, Inklusi, ZPD, Scaffolding, & Mura'at Ahwal
+### 4. Glosarium Istilah Ilmiah & Turats Diferensiasi Pembelajaran
 
-1. **Differentiated Instruction (Pembelajaran Berdiferensiasi)**: Pendekatan pedagogis yang menyesuaikan konten materi, proses aktivitas, dan produk unjuk kerja dengan tingkat kesiapan, minat, dan profil belajar murid.
-2. **Mura'at Ahwal al-Muta'allimin (مُرَاعَاةُ أَحْوَالِ الْمُتَعَلِّمِينَ)**: Prinsip pedagogi Islam klasik untuk selalu mempertimbangkan kondisi fisik, psikologis, dan daya serap pembelajar dalam proses mengajar.
-3. **Zone of Proximal Development (ZPD)**: Rentang antara kemampuan belajar mandiri seorang santri dan kemampuan potensial yang dapat dicapai dengan bimbingan orang dewasa atau teman sebaya.
-4. **Scaffolding**: Dukungan instruksional bertahap yang diberikan guru pada awal pembelajaran dan perlahan dikurangi seiring meningkatnya kemandirian santri.
-5. **Tiered Tasks (Tugas Bertingkat)**: Rangkaian tugas belajar dengan tingkat kompleksitas bertingkat (Fondasi, Analisis, Kreasi) yang memungkinkan seluruh santri mempelajari konsep inti yang sama dengan kedalaman yang sesuai.
-6. **Flexible Grouping**: Pengelompokan santri yang berubah-ubah secara dinamis sesuai kebutuhan aktivitas belajar, mencegah pengkotak-kotakan santri secara permanen.
-7. **Growth Mindset**: Keyakinan psikologis bahwa kecerdasan dan kemampuan menghafal dapat berkembang melalui ikhtiar kerja keras, strategi yang baik, dan masukan yang membangun.
-8. **Peer Tutoring**: Metode belajar bersama di mana santri yang telah menguasai suatu materi membimbing teman sebayanya dengan bahasa persaudaraan santun.
-9. **Learned Helplessness**: Kondisi keputusasaan pasif santri akibat kegagalan berulang tanpa pendampingan yang tepat, merasa dirinya tidak akan pernah mampu belajar.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana diferensiasi pembelajaran secara adil menumbuhkan Santri dari berbagai latar belakang, meningkatkan kemahiran pedagogi Guru, dan mengangkat reputasi inklusif Lembaga.
+1. **Differentiated Instruction**: Pendekatan perancangan kurikulum yang secara proaktif menyesuaikan konten, proses, dan produk pembelajaran sesuai kesiapan, minat, dan profil belajar murid.
+2. **Mura'at Ahwal al-Muta'allimin (مُرَاعَاةُ أَحْوَالِ الْمُتَعَلِّمِينَ)**: Prinsip pedagogis Islam untuk memperlakukan dan mengajar peserta didik sesuai dengan kadar kemampuan akal dan kondisi psikologisnya.
+3. **Zone of Proximal Development (ZPD)**: Rentang antara tingkat perkembangan aktual mandiri santri dengan tingkat perkembangan potensial yang dapat dicapai dengan bantuan pendampingan.
+4. **Scaffolding**: Struktur bantuan bertingkat yang diberikan guru atau teman sebaya pada awal proses belajar dan secara bertahap dikurangi saat santri telah mandiri.
+5. **Zero Stigmatization Policy**: Kebijakan tegas lembaga yang mengharamkan segala bentuk pemberian label bodoh, lambat, atau julukan merendahkan lainnya kepada santri.
+6. **Peer-Tutoring Ukhuwah**: Metode pembelajaran di mana santri yang lebih mahir membimbing teman sebayanya dengan penuh kasih sayang dan kerendahan hati.
+7. **Tier 2 PBIS Akademik**: Program intervensi bimbingan klinik intensif kelompok kecil (maksimal 4 santri) untuk mengatasi miskonsepsi materi fondasi.
+8. **Ipsative Assessment**: Penilaian yang mengukur kemajuan santri dibandingkan dengan titik awal performa dirinya sendiri sebelumnya, bukan dibandingkan dengan orang lain.
+9. **Learned Helplessness**: Kondisi keputusasaan psikologis di mana santri merasa dirinya tidak akan pernah mampu berhasil akibat vonis kegagalan berulang kali.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang menghargai keberagaman karunia Allah, gemar tolong-menolong dalam kebaikan, dan senantiasa bertumbuh mencapai potensi fitrah tertingginya.
