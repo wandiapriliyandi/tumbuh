@@ -30,7 +30,7 @@ graph TD
         
         J4["JENJANG J4: KEPEMIMPINAN QUDWAH (Kelas 11-12)<br/>• Tahap 7: MENGGERAKKAN (Mobilizing & Leading / Puncak Santri Akhir)"]
         
-        Pasca["FASE PENGABDIAN & ALUMNI (Post-Pesantren)<br/>• Tahap 8: PELAKSANA (Field Executor & Implementer)<br/>• Tahap 9: PEMBINA (Nurturing & Mentoring Junior)<br/>• Tahap 10: PEMBERDAYA (Systemic Empowerment of Ummah)"]
+        Pasca["FASE PASCA-PESANTREN (Alumni, Guru, & Pimpinan)<br/>• Tahap 8: PELAKSANA (Field Executor & Implementer)<br/>• Tahap 9: PEMBINA (Nurturing & Mentoring Junior)<br/>• Tahap 10: PEMBERDAYA (Systemic Empowerment of Ummah)"]
         
         J1 ==> J2 ==> J3 ==> J4 ==> Pasca
     end

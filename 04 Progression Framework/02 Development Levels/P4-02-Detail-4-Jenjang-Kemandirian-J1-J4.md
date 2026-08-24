@@ -16,7 +16,7 @@
 >   2. **Jenjang J2: Pembiasaan Terpola (*Habituated Practice*)** $\rightarrow$ Mencakup *Tahap 3 (Sadar)* & *Tahap 4 (Membiasakan)*. Scaffolding musyrif: 50%.  
 >   3. **Jenjang J3: Kemandirian Stabil (*Autonomous Stability*)** $\rightarrow$ Mencakup *Tahap 5 (Kuat/Konsisten)* & *Tahap 6 (Memberi Teladan)*. Scaffolding musyrif: 20%.  
 >   4. **Jenjang J4: Kepemimpinan Qudwah (*Exemplary Leadership*)** $\rightarrow$ Mencakup *Tahap 7 (Menggerakkan)* (Puncak Santri Akhir). Scaffolding musyrif: Kolaboratif (0–10%).  
->   * **Pasca-Pesantren (Pengabdian & Alumni)** $\rightarrow$ Mencakup *Tahap 8 (Pelaksana)*, *Tahap 9 (Pembina)*, dan *Tahap 10 (Pemberdaya)*.
+>   * **Pasca-Pesantren (Alumni, Guru, & Pimpinan)** $\rightarrow$ Mencakup *Tahap 8 (Pelaksana)*, *Tahap 9 (Pembina)*, dan *Tahap 10 (Pemberdaya)*.
 
 ---
 
