@@ -26,7 +26,7 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 
 ---
 
-## 3. Dewan Keilmuan Aktif (23 Custom Skills di `.agents/skills/`)
+## 3. Dewan Keilmuan Aktif (24 Custom Skills di `.agents/skills/`)
 Gunakan skill spesialis yang sesuai saat merancang, menguji, dan mengaudit modul:
 - `pakar-penulis-monograf-tumbuh` (Master Author & Begawan Literasi: Penulisan Menggugah, Transformatif, Jelas, & Mengalir)
 - `pakar-filosofi-tumbuh` & `pakar-epistemologi-turats`
@@ -39,6 +39,7 @@ Gunakan skill spesialis yang sesuai saat merancang, menguji, dan mengaudit modul
 - `pakar-tata-kelola-qudwah`, `pakar-metodologi-riset-tumbuh`, `pakar-arsitektur-digital-pesantren`
 - `pakar-kritikus-dan-auditor-kualitas`, `pakar-psikometri-dan-validasi-instrumen`, `pakar-perlindungan-anak-dan-advokasi-santri`
 - `pakar-simulasi-sistem-tumbuh` (Skill Ke-22: Pemodelan Cohort Santri & Simulasi Longitudinal 24-Jam)
+- `pakar-validasi-sitasi-dan-bibliografi` (Skill Ke-24: Verifikasi Autentisitas Teks Turats, Takhrij Hadits, APA 7th, & Footnotes 1-to-1)
 
 ---
 
