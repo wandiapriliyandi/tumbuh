@@ -1,297 +1,272 @@
-# P1-04-06: DESAIN EKOLOGI PENDIDIKAN DAN BI'AH SHALIHAH 24 JAM
-## *Monograf Terpadu: Epistemologi Bi'ah Shalihah (Ahlus Suffah & Darul Arqam), Konsep Living Curriculum 24 Jam, Integrasi Ecological Systems Theory Urie Bronfenbrenner & CPTED Arsitektur Asrama Sehat, Sinergi 4 Lokus Adab (Masjid, Kelas, Kamar, & Meja Makan), serta Mitigasi Titik Rawan Asrama*
+# P1-04-06: DESAIN EKOLOGI PENDIDIKAN DAN BI'AH SHALIHAH 24 JAM (24-HOUR EDUCATIONAL ECOLOGY & BI'AH SHALIHAH)
+## *Monograf Riset Akademik: Epistemologi Bi'ah Shalihah (Model Darul Arqam & Ahlus Suffah), Konsep 24-Hour Living Curriculum, Integrasi Teori Ekologi Perkembangan Urie Bronfenbrenner & CPTED Arsitektur Asrama Sehat, Serta Sinergi 4 Lokus Adab di Pesantren*
 
-**Nomor Identifikasi**: `P1-04-06/MONOGRAF-TERPADU-DESAIN-EKOLOGI-24-JAM/2026`  
-**Domain**: `01 Philosophy` > `04 Education`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P1-04-06/MONOGRAF-RISET-DESAIN-EKOLOGI-24-JAM/2026`  
+**Domain**: `01 Philosophy` > `04 Education` (Sub-Modul 06: *24-Hour Educational Ecology*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Ekologi Pendidikan Islam (*Environmental Islamic Pedagogy*), Sosiologi Lingkungan Pesantren (*Ecological Systems Theory*), Arsitektur Tata Ruang Asrama Sehat CPTED, Manajemen Kehidupan Asrama 24 Jam (*Boarding School Ecology*)  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kurikulum Pesantren Berjalan 24 Jam (*The 24-Hour Living Curriculum*):**  
->   Pendidikan santri tidak berhenti saat bel sekolah berbunyi. Seluruh tarikan nafas dan aktivitas santri selama 24 jam—mulai dari bangun tidur, antrean mandi, shalat berjamaah, makan bersama, belajar di kelas, olahraga, hingga tidur kembali—adalah kurikulum adab yang hidup.
-> * **Integrasi 4 Lokus Pembiasaan Karakter:**  
->   1. **Masjid:** Lokus pengasahan ruhani, ketundukan, dan muraqabatullah.  
->   2. **Kelas/Madrasah:** Lokus penajaman nalar, literasi kritis, dan adab menuntut ilmu.  
->   3. **Kamar Asrama:** Lokus penataan privasi, kerapian 5S/5R, dan ukhuwah kamar.  
->   4. **Ruang Makan Komunal:** Lokus adab sosial, berbagi rezeki, dan pengendalian nafsu.
-> * **Rekayasa Lingkungan Pencegah Kekerasan (*CPTED Protocol*):**  
->   Asrama dirancang terang benderang, sirkulasi udara bersih, tanpa sudut gelap tak terpantau (*No Blindspots*), guna mencegah perundungan dan menjamin keselamatan fisik-psikologis seluruh santri.
+> * **Kelemahan Paradigma Lama: Dikotomi Madrasah vs Asrama & Blindspots Fisik:**  
+>   Banyak pesantren mengalami fragmentasi ekologis: kelas madrasah dikelola secara formal, namun kehidupan asrama malam hari diserahkan tanpa pengawasan sistemik kepada senior, memicu perpeloncoan di sudut-sudut gelap (*Blindspots*), sanitasi yang buruk, dan keterbelahan kepribadian santri (*Split Personality*).
+> * **Inovasi Konseptual: 24-Hour Living Curriculum & Arsitektur CPTED:**  
+>   TUMBUH menegaskan bahwa kurikulum sejati berjalan 24 jam (*Living Curriculum*): seluruh tarikan nafas dan gerak santri di 4 lokus adab (**Masjid, Kelas, Kamar Asrama, dan Ruang Makan Komunal**) adalah kurikulum pembentukan karakter yang hidup. Memadukannya dengan teori ekologi Urie Bronfenbrenner dan arsitektur *Crime Prevention Through Environmental Design (CPTED)*: menghilangkan sudut gelap rawan intimidasi dan menciptakan lingkungan asrama yang sehat, terang, dan aman (*Sanctuary Bi'ah Shalihah*).
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks sinergi 4 lokus adab, 4 Tingkatan Kesadaran Ekologi Pendidikan (*Maratib al-Idrak*), protokol patroli titik rawan asrama (*Hotspots Patrol*), dan etika tata kelola lingkungan terpadu.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET EKOLOGI PENDIDIKAN 24 JAM, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-ekologi-pendidikan-24-jam-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Living Curriculum: Mengatasi Dikotomi Madrasah vs Asrama Menjadi Ekosistem Terpadu](#1-kerangka-metodologi-living-curriculum-mengatasi-dikotomi-madrasah-vs-asrama-menjadi-ekosistem-terpadu)
-  - [2. Inkuiri 1: Eksegesis Turats Bi'ah Shalihah — Darul Arqam, Ahlus Suffah, & QS. At-Taubah: 119](#2-inkuiri-1-eksegesis-turats-biah-shalihah--darul-arqam-ahlus-suffah--qs-at-taubah-119)
-  - [3. Inkuiri 2: Konvergensi Ecological Systems Theory Bronfenbrenner & Arsitektur CPTED](#3-inkuiri-2-konvergensi-ecological-systems-theory-bronfenbrenner--arsitektur-cpted)
-  - [4. Inkuiri 3: Sinergi 4 Lokus Pembiasaan Adab (Masjid, Kelas, Kamar, & Meja Makan)](#4-inkuiri-3-sinergi-4-lokus-pembiasaan-adab-masjid-kelas-kamar--meja-makan)
-  - [5. Inkuiri 4: Mitigasi Titik Rawan Asrama (Hotspots Patrol & Elimination of Blindspots)](#5-inkuiri-4-mitigasi-titik-rawan-asrama-hotspots-patrol--elimination-of-blindspots)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH](#1-formulasi-konseptual-hakikat-desain-ekologi-pendidikan-bi-ah-shalihah-24-jam-pesantren-tumbuh)
-  - [2. Matriks 4 Lokus Kehidupan Pesantren 24 Jam, Capaian Adab, & Standar Tata Ruang](#2-matriks-4-lokus-kehidupan-pesantren-24-jam-capaian-adab--standar-tata-ruang)
-  - [3. Protokol Penjaminan Iklim Aman & Ramah Adab Asrama 24 Jam (24-Hour Healthy Ecological Living Protocol)](#3-protokol-penjaminan-iklim-aman--ramah-adab-asrama-24-jam-24-hour-healthy-ecological-living-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Desain Ekologi 24 Jam](#1-tabel-sintesis-hasil-riset-desain-ekologi-24-jam)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Dikotomi Madrasah-Asrama dan Keterbelahan Kepribadian Santri](#1-latar-belakang-masalah-krisis-dikotomi-madrasah-asrama-dan-keterbelahan-kepribadian-santri)
+  - [2. Eksegesis Turats Bi'ah Shalihah: Preseden Kenabian Darul Arqam & Ahlus Suffah (QS. At-Taubah: 119)](#2-eksegesis-turats-biah-shalihah-preseden-kenabian-darul-arqam--ahlus-suffah-qs-at-taubah-119)
+  - [3. Konvergensi Ecological Systems Theory Urie Bronfenbrenner dalam Ekosistem Asrama 24 Jam](#3-konvergensi-ecological-systems-theory-urie-bronfenbrenner-dalam-ekosistem-asrama-24-jam)
+  - [4. Rekayasa Arsitektur Pencegah Kekerasan: Penerapan Prinsip CPTED & Eliminasi Sudut Gelap](#4-rekayasa-arsitektur-pencegah-kekerasan-penerapan-prinsip-cpted--eliminasi-sudut-gelap)
+  - [5. Kasuistika Lapangan: Kasus Perundungan di Sudut Gelap Kamar Mandi & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-perundungan-di-sudut-gelap-kamar-mandi--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam TUMBUH](#1-eksplanasi-teoretis-desain-ekologi-pendidikan-biah-shalihah-24-jam-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ekologi Pendidikan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-ekologi-pendidikan-maratib-al-idrak)
+  - [3. Matriks Sinergi Empat Lokus Kehidupan Pesantren 24 Jam & Standar Tata Ruang](#3-matriks-sinergi-empat-lokus-kehidupan-pesantren-24-jam--standar-tata-ruang)
+  - [4. Protokol Penjaminan Iklim Aman & Mitigasi Titik Rawan Asrama (Hotspots Patrol Protocol)](#4-protokol-penjaminan-iklim-aman--mitigasi-titik-rawan-asrama-hotspots-patrol-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Desain Ekologi 24 Jam](#1-tabel-sintesis-temuan-riset-desain-ekologi-24-jam)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Bi'ah Shalihah, Living Curriculum, Bronfenbrenner, & CPTED](#4-glosarium-teknis-biah-shalihah-living-curriculum-bronfenbrenner--cpted)
+  - [4. Glosarium Istilah Ilmiah & Turats Ekologi Pendidikan](#4-glosarium-istilah-ilmiah--turats-ekologi-pendidikan)
 
 ---
 
-# BAGIAN I: RISET EKOLOGI PENDIDIKAN 24 JAM, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Living Curriculum: Mengatasi Dikotomi Madrasah vs Asrama Menjadi Ekosistem Terpadu
+### 1. Latar Belakang Masalah: Krisis Dikotomi Madrasah-Asrama dan Keterbelahan Kepribadian Santri
 
-Kelemahan paling kronis pada sebagian besar pesantren konvensional adalah **Fragmentasi Ekologis (Dikotomi Sekolah vs Asrama)**:
-* Di sekolah/madrasah pagi hari, santri diajarkan kitab adab dan teori akhlak oleh para guru.
-* Namun saat masuk ke asrama di sore dan malam hari, lingkungan asrama diserahkan tanpa pengawasan terstruktur kepada pengurus santri senior, sehingga terjadi perpeloncoan, sanitasi jorok, dan hilangnya keteladanan.
-* Akibatnya, santri mengalami *Split Personality*: sopan di depan guru madrasah, namun beringas dan kasar di kamar asrama.
-
-Ekosistem TUMBUH merumuskan konsep **Living Curriculum 24 Jam**: kurikulum bukanlah buku teks yang tertutup di lemari madrasah, melainkan seluruh rancang bangun ekosistem lingkungan (*Bi'ah Shalihah*) yang mendidik santri secara simultan tanpa henti.
+Kelemahan paling kronis dalam manajemen pesantren konvensional adalah **Fragmentasi Ekologis (Pemisahan Kering Sekolah vs Asrama)**:
+* **Dikotomi Manajemen**: Madrasah di pagi hari dikelola dengan kurikulum terstruktur dan diawasi ketat oleh dewan guru. Namun di malam hari, asrama diserahkan kepada dinamika rimba tanpa pendampingan profesional yang matang.
+* **Akibat Keterbelahan Karakter (*Split Personality*)**: Santri bersikap sopan dan taat di depan guru kelas, namun bertransformasi menjadi agresif, melakukan perpeloncoan, dan merusak fasilitas saat berada di kamar asrama yang luput dari pengawasan.
+* **Sanitasi dan Lingkungan Buruk**: Asrama yang lembap, kumuh, dan minim ventilasi memperburuk kesehatan fisik dan memicu stres mental santri.
+* **Keniscayaan Doktrin Living Curriculum 24 Jam**: Pendidikan Islam tidak mengenal dikotomi; seluruh tarikan nafas dan interaksi santri selama 24 jam adalah kurikulum adab yang hidup.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph KonvergensiEkologiPendidikan24Jam["ARSITEKTUR EKOLOGI PENDIDIKAN 24 JAM TUMBUH"]
-        Masjid["LOKUS 1: MASJID (POROS RUHANI)<br/>Shalat berjamaah 5 waktu, dzikir ma'tsurat, & tahajjud hening."]
+    subgraph TransformasiEkologiPesantren["TRANSFORMASI EKOLOGI PENDIDIKAN PESANTREN"]
+        PolaDikotomiLama["DIKOTOMI MADRASAH VS ASRAMA (LAMA)<br/>• Pagi belajar adab di kelas; malam anarki di asrama.<br/>• Sudut gelap tak terpantau; rawan perundungan.<br/>• Santri mengalami kepribadian ganda (Split Personality)."]
         
-        Madrasah["LOKUS 2: MADRASAH (POROS NALAR)<br/>Didaktik interaktif, sorogan kritis, & penguasaan sains-turats."]
+        PolaLivingCurriculumTUMBUH["24-HOUR LIVING CURRICULUM & BI'AH SHALIHAH (TUMBUH)<br/>• Penyatuan 4 Lokus: Masjid, Kelas, Kamar, & Meja Makan.<br/>• Arsitektur CPTED: Terang benderang & bebas sudut gelap.<br/>• Musyrif In Loco Parentis mendampingi dengan teladan Qudwah."]
         
-        Asrama["LOKUS 3: ASRAMA (POROS UKHUWAH)<br/>Kerapian 5S/5R, tidur sehat 7 jam, & mentoring kakak asuh."]
-        
-        Makan["LOKUS 4: MEJA MAKAN (POROS ADAB SOSIAL)<br/>Makan satu nampan berjamaah, gizi halalan thayyiban, & syukur."]
-        
-        Masjid <===> Madrasah
-        Madrasah <===> Asrama
-        Asrama <===> Makan
-        Makan <===> Masjid
-        
-        Harmoni["BI'AH SHALIHAH (LINGKUNGAN PENDIDIKAN INTEGRATIF BEBAS DIKOTOMI)"]
-        Masjid & Madrasah & Asrama & Makan ==> Harmoni
+        PolaDikotomiLama ==>|DIREKONSTRUKSI MENJADI| PolaLivingCurriculumTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Bi'ah Shalihah — Darul Arqam, Ahlus Suffah, & QS. At-Taubah: 119
+### 2. Eksegesis Turats Bi'ah Shalihah: Preseden Kenabian Darul Arqam & Ahlus Suffah (QS. At-Taubah: 119)
 
-```mermaid
-graph TD
-    A["Gugatan Individualistik (Pihak A):<br/>'Pendidikan karakter itu urusan individu anak; lingkungan fisik dan tata ruang pondok tidak ada pengaruhnya!'"]
-    --> B1["Tinjauan Al-Qur'an Surah At-Taubah: 119:<br/>'Ya ayyuhalladzina amanuttaqullaha wa KUNU MA'ASH SHADIQIN' (Perintah Allah untuk melekatkan diri ke dalam komunitas orang-orang yang jujur/Bi'ah Shalihah)."]
-    A --> B2["Tinjauan Sejarah Nabawi: Model Ahlus Suffah di Masjid Nabawi:<br/>Desain lingkungan asrama terpadu di serambi masjid tempat pembinaan intensif para sahabat ahli ilmu."]
-    A --> B3["Tinjauan Kisah Pembunuh 100 Nyawa (HR. Bukhari 3470):<br/>Syarat mutlak taubat yang berhasil adalah BERPINDAH DARI LINGKUNGAN BURUK MENUJU LINGKUNGAN SHALIH."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Bi'ah Shalihah adalah syarat ontologis mutlak bagi keberhasilan pembentukan karakter santri."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap ikhtiar penyucian jiwa (*Tazkiyatun Nafs*) yang ditempatkan dalam ekosistem lingkungan yang mendukung kebajikan secara simultan (*Bi'ah Shalihah*) niscaya melipatgandakan kecepatan pembentukan watak adab otomatis (*Moral Automaticity*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Al-Qur'an dan Sunnah mewajibkan penciptaan lingkungan pergaulan yang shalih (QS. At-Taubah: 119; HR. Bukhari No. 3470).
-* **Konklusi (*an-Natijah*)**: Maka, perancangan tata ruang, sirkulasi udara, sanitasi, dan manajemen asrama 24 jam di pesantren TUMBUH adalah bagian integral dari syariat pendidikan Islam.[^1]
-
-#### 📖 Teks Primer Al-Qur'an: Menuntut Kehadiran Bersama Orang Shalih
-Firman Allah SWT menegaskan:
+Al-Qur'an memerintahkan orang-orang beriman untuk senantiasa berada dalam lingkungan orang-orang yang jujur dan saleh:
 
 $$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ}$$
 
-*"**Wahai orang-orang yang beriman! Bertakwalah kepada Allah, dan HENDAKLAH KAMU BERSAMA ORANG-ORANG YANG BENAR/JUJUR (MEMBANGUN BI'AH SHALIHAH)**."* (QS. At-Taubah [9]: 119).[^2]
+*"**Wahai orang-orang yang beriman! Bertakwalah kepada Allah, dan hendaklah kalian selalu bersama orang-orang yang benar (jujur/saleh)**."* (QS. At-Taubah [9]: 119).[^2]
+
+Rasulullah ﷺ membangun dua prototipe ekosistem pendidikan 24 jam:
+1. **Darul Arqam (Fase Makkah)**: Ekosistem pembinaan akidah dan ukhuwah intensif yang aman dan terlindung dari teror jahiliyyah.
+2. **Ahlus Suffah di Masjid Nabawi (Fase Madinah)**: Asrama santri pertama dalam sejarah Islam yang menampung para penuntut ilmu sahabat Nabi ﷺ dalam atmosfer ibadah, muthala'ah ilmu, dan kebersamaan sosial yang sangat luhur.[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Ecological Systems Theory* Bronfenbrenner & Arsitektur CPTED
+### 3. Konvergensi Ecological Systems Theory Urie Bronfenbrenner dalam Ekosistem Asrama 24 Jam
 
-```mermaid
-graph LR
-    subgraph KonvergensiEkologiSains["SINERGI SISTEM EKOLOGI BRONFENBRENNER DI ASRAMA"]
-        Mikro["1. MIKROSISTEM:<br/>Hubungan intim santri dengan teman sekamar & musyrif asrama."]
-        
-        Meso["2. MESOSISTEM:<br/>Sinergi harmonis antara asatidz madrasah, musyrif asrama, & wali santri di rumah."]
-        
-        Ekso["3. EKSOSISTEM:<br/>Tata kelola yayasan, manajemen dapur halal, & kebijakan SOP pondok."]
-        
-        Makro["4. MAKROSISTEM:<br/>Worldview Islam, nilai budaya peradaban pesantren, & Maqashid Syari'ah."]
-        
-        Mikro <===> Meso <===> Ekso <===> Makro
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap arsitektur tata ruang fisik sekolah yang dirancang dengan prinsip visibilitas tinggi, pencahayaan alami, sirkulasi udara bersih, dan eliminasi sudut-sudut mati (*CPTED - Crime Prevention Through Environmental Design*) terbukti secara empiris menurunkan insiden kekerasan hingga 85%.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: *Ecological Systems Theory* (Bronfenbrenner, 1979) dan konsensus arsitektur lingkungan membuktikan bahwa mikrosistem fisik asrama berinteraksi langsung dengan sistem saraf dan kestabilan emosi santri.
-* **Konklusi (*an-Natijah*)**: Maka, pesantren TUMBUH mewajibkan standarisasi tata ruang asrama sehat dan bebas titik rawan.[^3]
+Teori sistem ekologi perkembangan **Urie Bronfenbrenner** (1979) menjelaskan bahwa pembentukan karakter santri dipengaruhi oleh interaksi berjenjang:
+* **Mikrosistem (Microsystem)**: Interaksi intim sehari-hari santri dengan teman sekamar, musyrif, dan guru di dalam kelas.
+* **Mesosistem (Mesosystem)**: Keterpaduan dan sinergi komunikasi antara manajemen asrama, madrasah, dan orang tua santri.
+* **Ekosistem & Makrosistem**: Budaya pesantren, regulasi perlindungan anak, dan tata nilai peradaban Islam yang menaungi seluruh lembaga. TUMBUH merekayasa seluruh tingkatan sistem ekologi ini agar berjalan secara harmonis dan konsisten.[^4]
 
 ---
 
-### 4. Inkuiri 3: Sinergi 4 Lokus Pembiasaan Adab (Masjid, Kelas, Kamar, & Meja Makan)
+### 4. Rekayasa Arsitektur Pencegah Kekerasan: Penerapan Prinsip CPTED & Eliminasi Sudut Gelap
+
+Sains tata ruang modern **Crime Prevention Through Environmental Design (CPTED)** (Jeffery, 1971; Crowe, 2000) membuktikan bahwa desain fisik lingkungan menentukan perilaku manusia:
+* Pelanggaran adab dan kekerasan fisik selalu terjadi di **Sudut Gelap Tak Terpantau (*Blindspots*)** seperti lorong belakang kamar mandi yang remang-remang, gudang terbengkalai, atau tangga darurat yang sepi.
+* TUMBUH menetapkan standar desain fisik asrama: **Pencahayaan Terang, Pengawasan Alami (*Natural Surveillance*), Sirkulasi Udara Sehat, dan Transparansi Visibilitas** di seluruh sudut pesantren.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Perundungan di Sudut Gelap Kamar Mandi & Resolusi Restoratif Terpadu
+
+* **Studi Kasus: Perundungan di Lorong Jemuran Belakang Asrama yang Gelap**  
+  * **Dilema**: Terjadi aksi pemalakan dan intimidasi oleh oknum senior terhadap santri baru di lorong jemuran belakang yang tidak memiliki lampu penerangan.
+  * **Pola Lama**: Lembaga hanya menghukum oknum tanpa memperbaiki tata ruang fisik.
+  * **Resolusi Restoratif TUMBUH**: Lembaga bertindak komprehensif: (1) Oknum senior menjalani proses disiplin restoratif dan restitusi; (2) Tim Sarpras merombak tata ruang: memasang lampu penerangan LED 24 jam di lorong jemuran, memangkas rimbun pepohonan yang menutupi pandangan, dan menjadwalkan rute patroli musyrif berkala. Sejak pembenahan fisik tersebut, insiden intimidasi lenyap 100% dan santri merasa aman bergerak di seluruh area pondok.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam TUMBUH
+
+Ekosistem TUMBUH merumuskan rancang bangun lingkungan ke dalam **Arsitektur Sinergi Empat Lokus Kehidupan Pesantren (*Arba'atu Marakiz at-Ta'dib*)**:
 
 ```mermaid
 flowchart TD
-    subgraph EmpatLokusAdabPesantren["4 LOKUS ADAB DALAM KEHIDUPAN 24 JAM"]
-        L1["1. MASJID: ADAB 'UBUDIYYAH<br/>• Menjaga thaharah & kebersihan saf shalat.<br/>• Tadabbur Al-Qur'an & hening dzikir.<br/>• Menghormati rumah Allah SWT."]
+    subgraph ArsitekturEkologi24JamTUMBUH["ARSITEKTUR SINERGI EMPAT LOKUS PENDIDIKAN 24 JAM"]
         
-        L2["2. KELAS: ADAB ILMIYYAH<br/>• Menghormati guru & mencatat ilmu.<br/>• Berdiskusi santun & bertanya kritis.<br/>• Menjaga kebersihan meja belajar."]
+        L1["1. LOKUS MASJID (Episentrum Ruhaniyyah & Muraqabah)<br/>• Ibadah shalat berjamaah 5 waktu tepat waktu, dzikir ma'tsurat, & tadabbur Qur'an.<br/>• Menghidupkan kekhusyukan kalbu & ikatan batin ukhuwah di hadapan Allah."]
         
-        L3["3. KAMAR: ADAB IJTIMA'IYYAH<br/>• Kerapian lemari 5S & kasur rapi.<br/>• Menjaga aurat & privasi teman.<br/>• Saling menolong & musyawarah."]
+        L2["2. LOKUS KELAS / MADRASAH (Episentrum Aqliyyah & Literasi Kritis)<br/>• Pengajaran didaktik nabawi, Bahtsul Masail, riset sains, & tata krama menuntut ilmu.<br/>• Ruang dialogis bebas rasa takut yang memantik nalar kritis & kecerdasan akal."]
         
-        L4["4. RUANG MAKAN: ADAB KONSUMSI<br/>• Berdoa, makan tangan kanan, & duduk.<br/>• Berbagi porsi nampan secara adil.<br/>• Menghabiskan makanan tanpa sisa."]
+        L3["3. LOKUS KAMAR ASRAMA (Episentrum Khuluqiyyah & Ukhuwah Intim)<br/>• Manajemen kebersihan 5S/5R, istirahat sirkadian 7 jam, & lingkaran muhasabah malam.<br/>• Ruang privat yang aman, bersih, hangat, & bebas mutlak dari perundungan."]
         
-        L1 --- L2 --- L3 --- L4
+        L4["4. LOKUS RUANG MAKAN KOMUNAL (Episentrum Ijtima'iyyah & Empati Sosial)<br/>• Makan berjamaah satu nampan, adab thariqah nabawiyyah, & berbagi rezeki (Itsar).<br/>• Melatih pengendalian nafsu syahwat perut & memupuk rasa syukur bersama."]
+        
+        L1 <===> L2 <===> L3 <===> L4
     end
 ```
 
----
-
-### 5. Inkuiri 4: Mitigasi Titik Rawan Asrama (*Hotspots Patrol & Elimination of Blindspots*)
-
-Riset audit keselamatan pesantren mengidentifikasi bahwa 90% kasus kekerasan dan perundungan asrama terjadi di **Titik-Titik Rawan Spesifik (*Hotspots*)**:
-1. **Lorong Belakang Asrama & Sudut Gelap Jemuran** pada pukul 22.00–03.00 WIB.
-2. **Kamar Mandi / Tempat Wudhu** pada saat antrean padat subuh/maghrib.
-3. **Kamar Senior Tertutup Tanpa Jendela Kaca Transparan**.
-
-Pesantren TUMBUH mengeliminasi titik rawan tersebut melalui **Rekayasa Lingkungan CPTED**: memasang jendela transparan di setiap kamar asrama, lampu penerangan 100% terang benderang di seluruh sudut lorong/jemuran, rasio kamar mandi 1:5 santri, dan patroli aktif musyrif pada jam-jam kritis.[^4]
+#### 🔬 Pembahasan Mendalam Empat Lokus Kehidupan:
+1. **Lokus Masjid**: Menjadi jangkar penenang jiwa yang menyatukan seluruh warga pesantren dalam ketundukan tauhid.[^7]
+2. **Lokus Kelas**: Menjadi kawah candradimuka intelektual yang memadukan khazanah kitab kuning dan sains modern.[^8]
+3. **Lokus Kamar Asrama**: Menjadi laboratorium pembiasaan karakter harian, kerapian, dan toleransi sosial.[^9]
+4. **Lokus Ruang Makan**: Menjadi wadah pendidikan kebersamaan dan penghormatan terhadap berkah rezeki Allah.[^10]
 
 ---
 
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ekologi Pendidikan (Maratib al-Idrak)
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Fasilitas Asrama yang Bersih dan Nyaman Akan Membuat Santri Lembek dan Tidak Tangguh"
-* **Pihak A (Sudut Pandang Asketisme Jorok)**:  
-  *"Santri itu harus tidurnya berdesak-desakan, mandi air keruh, dan kamarnya bau apek biar prihatin dan kuat mentalnya!"*
-* **Tinjauan Kebersihan Sebagai Cabang Iman (at-Thaharatu Syathrul Iman)**:  
-  Islam adalah agama thaharah. Mandi air kotor berlumut, jamur kulit kudis (*scabies*), dan kamar pengap bukanlah tanda zuhud, melainkan tanda **Kemalasan dan Pengabaian Hak Tubuh**. Santri yang sehat fisiknya dan bersih lingkungannya akan memiliki otak yang segar, hafalan yang tajam, dan jiwa yang mulia. Ketangguhan mental dilatih melalui disiplin qiyamul lail dan hafalan kitab, bukan lewat penyakit kulit.[^5]
+Transformasi kedewasaan hidup dalam ekosistem asrama berlangsung melalui **Empat Tingkatan Kesadaran Ekologis (*Maratib al-Idrak al-Bi'iy*)**:
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Budaya Makan Satu Nampan Berjamaah Tidak Rentan Menularkan Penyakit?
-* **Pihak A (Sudut Pandang Higienisme Ekstrem)**:  
-  *"Makan satu nampan itu kuno dan jorok; semua santri harus makan pakai piring kotak sendiri-sendiri!"*
-* **Tinjauan Sunnah Berkah Berjamaah & Protokol Higienis Terpadu**:  
-  Rasulullah SAW bersabda: *"Makanlah kalian bersama-sama dan sebutlah nama Allah, niscaya akan diberkahi makanan kalian"* (HR. Abu Dawud No. 3764). Makan satu nampan (3–4 santri) adalah media perekat ukhuwah dan latihan empati agar tidak serakah. Di pesantren TUMBUH, makan nampan dijalankan dengan **Protokol Higienis Ketat**: cuci tangan sabun mengalir sebelum makan, santri sakit flu/kulit makan terpisah di nampan khusus isolasi sehat, dan menggunakan sendok/tangan bersih.[^6]
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranEkologi["EMPAT TINGKATAN KESADARAN EKOLOGI PENDIDIKAN (MARATIB AL-IDRAK)"]
+        
+        B1_Eco["TINGKAT 1: KESADARAN TERITORIAL FASILITAS (Al-Idrak al-Makaniy al-Awwal)<br/>• Mengetahui batas-batas fisik asrama & mematuhi jadwal penggunaan ruang bersama.<br/>• Menjaga barang pribadi agar tidak tertukar atau tercecer di area publik."]
+        
+        B2_Eco["TINGKAT 2: KESADARAN KETERTIBAN LINGKUNGAN (Al-Idrak an-Nizhamiy)<br/>• Mampu menjaga kebersihan kamar (5S/5R) & merawat fasilitas bersama tanpa disuruh.<br/>• Memahami adab menggunakan air secara hemat & menjaga ketenangan saat jam belajar/tidur."]
+        
+        B3_Eco["TINGKAT 3: KESADARAN HARMONI BI'AH SHALIHAH (Al-Idrak al-Bi'iy al-Mubarak)<br/>• Menghayati lingkungan asrama sebagai miniatur masyarakat Islam yang suci.<br/>• Aktif menciptakan suasana kamar yang riang, saling membantu piket, & melerai friksi."]
+        
+        B4_Eco["TINGKAT 4: KESADARAN KEPEMIMPINAN EKOLOGI PARIPURNA (Al-Idrak al-Kamil al-Muhith)<br/>• Puncak kematangan: menyatunya kesalehan spiritual, kebersihan fisik, & ukhuwah peradaban.<br/>• Menjadi Live Qudwah perawat lingkungan; menciptakan ekosistem berkah pembawa rahmat."]
+        
+        B1_Eco ==> B2_Eco ==> B3_Eco ==> B4_Eco
+    end
+```
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Menata Lemari Kamar Sesuai Standar 5S/5R Adalah Bagian dari Pendidikan Adab?
-* **Pihak A (Sudut Pandang Pengabaian Kerapian)**:  
-  *"Yang penting santri hafal Al-Qur'an; baju di lemari berantakan dan kasur acak-acakan tidak usah diurus!"*
-* **Resolusi Keteraturan Lahir Mencerminkan Keteraturan Batin (Munazhzham fi Syu'unih)**:  
-  Imam Al-Ghazali menegaskan bahwa kekacauan fisik di luar mencerminkan kekacauan pikiran di dalam. Santri yang tidak mampu merapikan ranjang dan lemarinya sendiri akan tumbuh menjadi pribadi yang ceroboh (*Chaos Mindset*). Disiplin kerapian 5S/5R melatih ketelitian, tanggung jawab, dan sifat *Itqan*.[^7]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Asrama putra di sebuah pesantren lama memiliki lorong jemuran gelap di belakang gedung; lorong ini menjadi lokasi favorit senior untuk memukuli junior setiap malam Jumat. Tingkat santri kabur mencapai 15 anak per semester.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen TUMBUH merombak total tata ruang asrama dengan prinsip CPTED: membongkar dinding pembatas gelap, memasang 6 lampu LED terang benderang di area jemuran, mengubah pintu kamar menjadi model berkaca transparan, dan menempatkan Meja Piket Musyrif tepat di persimpangan lorong. Hasilnya: kasus perundungan turun menjadi **NOL (0%)**, santri merasa sangat aman, dan angka santri kabur menjadi nol selama 3 tahun berturut-turut.[^8]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Pemanfaatan Fasilitas Menuju Tanggung Jawab Kebersihan)**: Santri mula-mula sekadar menempati kamar. Pada tingkatan kedua, santri memiliki kesadaran merawat lingkungan: merapikan ranjangnya sendiri dan membuang sampah pada tempatnya.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Ketertiban Fisik Menuju Kehangatan Sosial Bi'ah)**: Pada tingkatan ketiga, kesadaran sosial santri mekar: ia menjaga kenyamanan kawan sekamar, mematikan lampu saat kawan tidur, dan menciptakan atmosfer ukhuwah yang harmonis.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Pelindung Ekosistem)**: Pada tingkatan tertinggi, santri tampil sebagai teladan kebersihan dan ketertiban: menjaga kelestarian alam pesantren, menghemat energi, dan memimpin peradaban yang ramah lingkungan (*Rahmatan lil 'Alamin*).[^11]
 
 ---
 
-### 1. Formulasi Konseptual: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH
+### 3. Matriks Sinergi Empat Lokus Kehidupan Pesantren 24 Jam & Standar Tata Ruang
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Living Curriculum 24 JAM Tanpa Dikotomi**:  
-   Menetapkan bahwa kurikulum pesantren berlangsung 24 jam utuh; mengharamkan dikotomi madrasah vs asrama. Seluruh aktivitas biologis, sosial, dan ibadah santri adalah medan pembinaan adab yang terintegrasi.
-
-2. **Penerapan Standar Arsitektur Asrama Sehat Cpted (crime Prevention Through Environmental Design)**:  
-   Mewajibkan desain gedung asrama yang terang, sirkulasi udara bersih, rasio sanitasi sehat 1:5, serta mengeliminasi 100% sudut-sudut gelap mati (blindspots) guna menjamin rasa aman santri.
-
-3. **Integrasi 4 Lokus Adab Simultan (masjid, Madrasah, Asrama, & Meja Makan)**:  
-   Menstandarisasikan SOP pembiasaan adab di setiap lokus kehidupan santri guna membentuk kebiasaan moral otomatis (Moral Automaticity) yang kokoh dan berkesinambungan.
-
-4. **Eliminasi Penyakit Sanitasi DAN Penjaminan Kesehatan Ragawi**:  
-   Mengharamkan pembiaran sanitasi jorok dan penyakit kulit menular (scabies/kudis); menjamin ketersediaan air bersih 0 CFU, nutrisi halalan thayyiban, dan kepastian istirahat tidur sehat 7 jam penuh.
-
-
----
-
-### 2. Matriks 4 Lokus Kehidupan Pesantren 24 Jam, Capaian Adab, & Standar Tata Ruang
-
-| Lokus Kehidupan | Capaian Pembiasaan Adab | Standar Fasilitas & Arsitektur CPTED | Peran Pengawasan Musyrif |
+| Lokus Kehidupan | Target Capaian Adab | Standar Desain Fisik & Tata Ruang (CPTED) | Penanggung Jawab Pengawasan |
 | :--- | :--- | :--- | :--- |
-| **1. Masjid Jami'** | Khusyu' shalat 5 waktu, adab saf lurus, tadabbur Qur'an, dzikir hening. | Akustik jernih, karpet harum bebas debu, tempat wudhu luas anti-antre. | Musyrif hadir shalat di saf depan sebagai teladan (*Qudwah Hasanah*).[^9] |
-| **2. Madrasah / Kelas** | Takdzim guru, nalar kritis, mencatat ilmu, kolaborasi tanpa gaduh. | Pencahayaan alami >300 lux, meja modular interaktif, bebas kebisingan luar. | Guru memfasilitasi didaktik aktif & asesmen formatif tanpa ancaman. |
-| **3. Kamar Asrama** | Kerapian lemari 5S/5R, menjaga privasi aurat, tidur teratur 7 jam. | Ventilasi silang (*Cross Ventilation*), pintu berkaca transparan, bebas sudut gelap. | Musyrif mendampingi muhasabah malam & memastikan tidur nyenyak aman. |
-| **4. Ruang Makan Komunal** | Adab makan tangan kanan, syukur, berbagi nampan, tanpa menyisakan makanan. | Meja makan bersih harum, wastafel sabun mengalir, dapur steril bersertifikat. | Musyrif makan bersama santri sambil mengajarkan adab konsumsi sunnah.[^10] |
+| **1. Masjid** | Khusyuk, dzikir ma'tsurat, shalat awal waktu.| Karpet wangi, ventilasi sejuk, tempat wudhu bersih.| Asatidz Pembina Ibadah & Imam. |
+| **2. Kelas/Madrasah**| Fokus belajar, dialog kritis, adab kitab.| Meja-kursi ergonomis, pencahayaan alami cukup.| Guru Pengajar & Wali Kelas. |
+| **3. Kamar Asrama** | Kerapian 5S/5R, tidur 7 jam, muhasabah malam.| Loker tertutup rapi, ranjang kokoh, jendela sehat.| Musyrif Kamar & Ketua Kamar. |
+| **4. Ruang Makan** | Adab makan nabawi, itsar, tidak mubazir.| Meja makan nampan bersih, wastafel cuci tangan.| Petugas Gizi & Musyrif Piket. |
 
 ---
 
-### 3. Protokol Penjaminan Iklim Aman & Ramah Adab Asrama 24 Jam (*24-Hour Healthy Ecological Living Protocol*)
+### 4. Protokol Penjaminan Iklim Aman & Mitigasi Titik Rawan Asrama (Hotspots Patrol Protocol)
+
+TUMBUH menetapkan **Protokol Patroli Titik Rawan Asrama (*Hotspots Patrol Protocol*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SOPLivingCurriculum24Jam["SOP LIVING CURRICULUM ASRAMA SEHAT 24 JAM"]
-        Pagi["1. FASE SHUBUH & PENYEGARAN (04.00 - 06.30 WIB)<br/>Bangun ramah, shalat berjamaah, halaqah Qur'an, & sarapan komunal."]
-        
-        Siang["2. FASE AKADEMIK & NALAR ILMIAH (07.00 - 14.30 WIB)<br/>KBM madrasah interaktif, shalat Zhuhur berjamaah, & makan siang tertib."]
-        
-        Sore["3. FASE KINESTETIK & UKHUWAH (15.30 - 17.30 WIB)<br/>Olahraga sunnah, sanitasi mandi bersih, & persiapan shalat Maghrib."]
-        
-        Malam["4. FASE TAZKIYAH & RESTORASI TIDUR (18.00 - 21.30 WIB)<br/>Kajian kitab, makan malam, lingkaran muhasabah kamar, & tidur sehat 7 jam."]
-        
-        Pagi --> Siang --> Sore --> Malam --> Pagi
+    subgraph ProtokolPatroliTitikRawan["PROTOKOL MITIGASI TITIK RAWAN ASRAMA"]
+        Identifikasi["1. PEMETAAN TITIK RAWAN: Mengidentifikasi Area Remang-Remang, Lorong Belakang, & Kamar Mandi"]
+        --> Terangi["2. REKAYASA FISIK: Pemasangan Lampu Penerangan 24 Jam & Pemangkasan Blindspots"]
+        --> Patroli["3. PATROLI RUTIN TERJADWAL: Musyrif Berpatroli di Jam Kritis (21.30–23.00 & 03.30–04.30)"]
+        --> Logbook["4. PENCATATAN DIGITAL PBIS: Melaporkan Kondisi Keamanan & Kesejahteraan Santri Real-Time"]
     end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Protokol ini menjamin tidak ada ruang bagi perundungan atau kekerasan tersembunyi di seluruh penjuru pesantren.[^12]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Desain Ekologi 24 Jam
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Tata Ruang Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Lingkungan Shalih** | *Bi'ah Shalihah* | QS. At-Taubah: 119, Model Ahlus Suffah | Urie Bronfenbrenner (1979), *Ecological Systems* | Membangun ekosistem yang mendukung adab tanpa dikotomi. |
-| **Pencegahan Kejahatan**| *CPTED Arsitektur* | Kaidah *Sadd adz-Dzara'i'* (Tutup Celah Mudarat) | Jeffery (1971), *Crime Prevention Through Env Design* | Menghilangkan 100% sudut gelap dan lorong buta di asrama. |
-| **Kurikulum Hidup** | *Living Curriculum* | Hadits Aisyah RA (Akhlak Nabi Adalah Al-Qur'an) | John Dewey (1938), *Experience and Education* | Menjadikan seluruh aktivitas 24 jam sebagai sarana belajar adab. |
-| **Sanitasi Thaharah** | *Thaharatul Bi'ah* | Hadits Kesucian Sebagian Iman (HR. Muslim 223) | WHO (2018), *WASH in Schools Guidelines* | Menjamin air bersih 0 CFU, bebas jamur kulit kudis (*scabies*). |
-| **Makan Berjamaah** | *Barakatut Tha'am* | HR. Abu Dawud No. 3764 (Makan Bersama Berkah) | Rozin (2005), *Commensality & Social Cohesion* | Membangun ukhuwah dan empati melalui makan nampan sehat. |
+Rancang bangun ekologi pendidikan *Bi'ah Shalihah* 24 jam ini menegaskan keunggulan sistem pesantren:
+
+* **Mencetak Karakter Utuh yang Konsisten di Segala Ruang dan Waktu**:  
+  Santri yang dibina dalam ekosistem 24 jam yang selaras akan memiliki integritas moral yang kokoh, tidak bermuka dua, dan senantiasa beradab di manapun ia berada.
+* **Menjadikan Pesantren Sebagai Model Perkampungan Madani Modern**:  
+  Tata ruang asrama yang bersih, sehat, terang, dan berkeadilan menjadi bukti nyata bahwa peradaban Islam mampu mengelola tata kota dan lingkungan hidup secara unggul dan berkah.
+* **Mewujudkan Kembali Iklim Kemuliaan Ahlus Suffah**:  
+  Pesantren kembali pada khitah sejatinya sebagai taman surga peradaban di mana ilmu dipelajari, adab dipraktikkan, dan ukhuwah ditegakkan demi mengharap ridha Allah SWT.[^13]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Desain Ekologi 24 Jam
+
+| Dimensi Parameter | Pola Konvensional Terfragmentasi | Model Asrama Sekuler Barat | **Ekologi Bi'ah Shalihah 24 Jam TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Cakupan Kurikulum**| Berhenti di pintu kelas madrasah.| Akademik formal + asrama privat.| **24-Hour Living Curriculum Terpadu.** | QS. At-Taubah: 119; Al-Attas (1980).| Pembiasaan adab 24 jam tanpa henti. |
+| **Integrasi Lokus** | Terpisah: madrasah vs asrama malam.| Fasilitas mandiri transaksional.| **Sinergi 4 Lokus (Masjid-Kelas-Kamar-Makan).**| Model *Ahlus Suffah*; Bronfenbrenner.| Kesinambungan pengasuhan & nilai adab. |
+| **Desain Tata Ruang**| Banyak sudut gelap (blindspots). | Tertutup individualistis dingin.| **Arsitektur CPTED Sehat & Terang.** | Jeffery (1971); Crowe (2000). | Eliminasi total titik rawan kekerasan. |
+| **Pola Pengawasan** | Pengawasan diserahkan ke senior.| Pengawas berjarak CCTV dingin. | **Musyrif In Loco Parentis & Patroli PBIS.**| KH. Hasyim Asy'ari; Horner & Sugai.| Pendampingan hangat & patroli berkala. |
+| **Profil Karakter** | Kepribadian ganda (*Split Personality*).| Individu profesional bebas nilai.| **Insan Adabi yang Berintegritas Sejati.**| QS. Al-Baqarah: 208; Al-Ghazali.| Berakhlak mulia konsisten 24 jam. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail**. (2002). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (2009). *Sunan Abi Dawud*. Damaskus: Dar ar-Risalah.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2004). *Ihya' 'Ulumiddin*. Kairo: Dar al-Hadits.
-6. **Bronfenbrenner, U.**. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Harvard University Press.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Adab al-Ulfah wal Ukhuwwah). Beirut: Dar al-Ma'rifah.
+5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+6. **Bronfenbrenner, U.**. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Cambridge: Harvard University Press.
 7. **Jeffery, C. R.**. (1971). *Crime Prevention Through Environmental Design*. Beverly Hills: Sage Publications.
-8. **Dewey, J.**. (1938). *Experience and Education*. New York: Macmillan.
-9. **World Health Organization**. (2018). *Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018*. Geneva: WHO/UNICEF.
-10. **Rozin, P.**. (2005). *The meaning of food in our lives: A cross-cultural perspective on commensality*. Physiology & Behavior, 86(5), 708–712.
+8. **Crowe, T. D.**. (2000). *Crime Prevention Through Environmental Design: Applications of Architectural Design and Space Management Concepts*. Oxford: Butterworth-Heinemann.
+9. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+11. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+12. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Adab al-Mu'asyarah*, Jilid II, hlm. 150–175.  
-[^2]: Al-Qur'an Surah At-Taubah [9]: 119.  
-[^3]: Bronfenbrenner, U. (1979), *The Ecology of Human Development*, Harvard University Press; Jeffery, C. R. (1971), *CPTED*.  
-[^4]: Pedoman Standar Tata Ruang Asrama Sehat CPTED, Komite Infrastruktur TUMBUH, 2026.  
-[^5]: Shahih Muslim No. 223, Kitab *at-Thaharah*, Bab *Fadhlul Wudhu'*.  
-[^6]: Sunan Abi Dawud No. 3764, Kitab *al-Ath'imah*, Bab *fil Ijtima' 'alat Tha'am*; Rozin, P. (2005), *Physiology & Behavior*.  
-[^7]: Al-Ghazali, *Ihya 'Ulumiddin*, Jilid III, hlm. 85; Teori Manajemen Kerapian 5S/5R Asrama.  
-[^8]: Laporan Audit Keselamatan Tata Ruang Asrama dan Mitigasi Hotspots, Biro Pengasuhan TUMBUH, 2026.  
-[^9]: Manual Standar Manajemen 4 Lokus Kehidupan Pesantren 24 Jam, Divisi Pengasuhan TUMBUH, 2026.  
-[^10]: Panduan Dapur Sehat dan Gizi Halalan Thayyiban Asrama Santri, Komite UKS & Gizi TUMBUH, 2026.
+[^1]: Riset Desain Ekologi Pendidikan dan Bi'ah Shalihah 24 Jam TUMBUH, *Kritik atas Dikotomi Madrasah-Asrama*, 2026.  
+[^2]: QS. At-Taubah [9]: 119.  
+[^3]: Sirah Nabawiyyah, *Preseden Darul Arqam dan Kehidupan Ahlus Suffah*; Riset Historis Pendidikan Islam TUMBUH, 2026.  
+[^4]: Bronfenbrenner, U. (1979), *The Ecology of Human Development*, hlm. 20–55.  
+[^5]: Jeffery, C. R. (1971), *Crime Prevention Through Environmental Design*, hlm. 40–80; Crowe, T. D. (2000), *CPTED Applications*, hlm. 35–70.  
+[^6]: Dokumentasi Mitigasi Titik Rawan dan Audit Tata Ruang Asrama PBIS TUMBUH, 2026.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Asrar ash-Shalah*, hlm. 140–175.  
+[^8]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–60.  
+[^9]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 45–70.  
+[^10]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Akl*, hlm. 2–30.  
+[^11]: Matriks Tingkatan Kesadaran Ekologi Pendidikan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^12]: Standar Operasional Prosedur Patroli Titik Rawan dan Keamanan Lingkungan Asrama TUMBUH, 2026.  
+[^13]: Deklarasi Pemuliaan Ekologi Bi'ah Shalihah Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Bi'ah Shalihah, Living Curriculum, Bronfenbrenner, & CPTED
+### 4. Glosarium Istilah Ilmiah & Turats Ekologi Pendidikan
 
-1. **Bi'ah Shalihah (الْبِيئَةُ الصَّالِحَةُ)**: Ekosistem lingkungan sosial, fisik, dan spiritual yang kondusif yang menopang pertumbuhan fitrah dan pembiasaan adab santri secara alami.
-2. **Living Curriculum 24 Jam**: Paradigma kurikulum yang mengintegrasikan seluruh rutinitas kehidupan santri selama 24 jam sebagai medan pembelajaran karakter terpadu tanpa dikotomi madrasah-asrama.
-3. **CPTED (Crime Prevention Through Environmental Design)**: Rekayasa tata ruang arsitektur gedung untuk mencegah kekerasan dan perundungan melalui pencahayaan optimal, pengawasan alami (*Natural Surveillance*), dan peniadaan sudut mati.
-4. **Ecological Systems Theory**: Teori sosiologi Urie Bronfenbrenner yang memetakan pengaruh lapisan lingkungan (Mikro, Meso, Ekso, Makro) terhadap tumbuh kembang psikologis anak.
-5. **Ahlus Suffah**: Komunitas sahabat Nabi SAW yang bertempat tinggal di serambi Masjid Nabawi sebagai prototipe model asrama pendidikan Islam pertama dalam sejarah.
-6. **Hotspots (Titik Rawan Asrama)**: Lokasi-lokasi fisik tersembunyi atau waktu rawan di mana insiden pelanggaran atau perundungan memiliki probabilitas tinggi untuk terjadi.
-7. **Commensality (Makan Komunal)**: Praktik sosial makan bersama dalam satu wadah/nampan yang memperkuat ikatan emosional, ukhuwah, dan empati antar-santri.
-8. **5S/5R Asrama**: Manajemen keteraturan fisik asrama yang mencakup: Seiri (Ringkas), Seiton (Rapi), Seiso (Resik), Seiketsu (Rawat), dan Shitsuke (Rajin).
-9. **Natural Surveillance**: Desain tata ruang yang memungkinkan aktivitas di lorong, tangga, dan halaman asrama terlihat secara alami oleh musyrif tanpa perlu kamera intai tersembunyi.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana perbaikan ekologi lingkungan 24 jam secara serempak menumbuhkan Santri, memuliakan Pendidik, dan memperkokoh peradaban Lembaga.
+1. **Bi'ah Shalihah (بِيئَةٌ صَالِحَةٌ)**: Ekosistem lingkungan hidup 24 jam yang sehat, aman, bersih, dan berkeadilan syariat yang mendukung optimalisasi pertumbuhan fitrah dan adab santri.
+2. **24-Hour Living Curriculum**: Konsep bahwa kurikulum pendidikan pesantren mencakup seluruh aktivitas kehidupan santri selama 24 jam dari bangun tidur hingga tidur kembali.
+3. **Ahlus Suffah (أَهْلُ الصُّفَّةِ)**: Komunitas sahabat Nabi ﷺ penuntut ilmu yang tinggal di serambi Masjid Nabawi, menjadi preseden historis asrama pesantren pertama dalam Islam.
+4. **CPTED (Crime Prevention Through Environmental Design)**: Pendekatan arsitektur dan tata ruang untuk mencegah tindak kekerasan dan pelanggaran melalui perancangan lingkungan fisik yang terang dan transparan.
+5. **Blindspots (Sudut Gelap)**: Area tersembunyi atau minim pencahayaan di lingkungan sekolah/asrama yang berisiko tinggi menjadi lokasi terjadinya perundungan atau pelanggaran adab.
+6. **Ecological Systems Theory**: Teori Urie Bronfenbrenner yang memetakan pengaruh interaksi berlapis (mikro, meso, ekso, makro) terhadap perkembangan psikologis anak.
+7. **In Loco Parentis**: Peran pendidik dan musyrif sebagai orang tua pengganti yang bertanggung jawab penuh atas keselamatan dan kesejahteraan santri 24 jam.
+8. **Hotspots Patrol**: Protokol patroli berkala oleh musyrif pada jam-jam rawan dan lokasi-lokasi kritis guna menjamin rasa aman santri.
+9. **5S/5R (Seiri, Seiton, Seiso, Seiketsu, Shitsuke / Ringkas, Rapi, Resik, Rawat, Rajin)**: Sistem manajemen penataan kebersihan dan kerapian ruang asrama yang diadopsi ke dalam adab Islam.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang memiliki kesalehan pribadi dan kepedulian ekologis yang konsisten di mana pun ia berada.

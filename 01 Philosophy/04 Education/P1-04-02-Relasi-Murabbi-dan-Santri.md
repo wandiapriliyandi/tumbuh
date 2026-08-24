@@ -1,386 +1,276 @@
-# P1-04-02: RELASI MURABBI DAN SANTRI: KETELADANAN QUDWAH DAN IHTIRAM TIMBAL-BALIK
-## *Monograf Terpadu: Dekonstruksi Relasi Feodal-Otoriter, Rekonstruksi Ta'zhim Hakiki dalam Kitab Hadhratusy Syaikh KH. M. Hasyim Asy'ari (Adab al-'Alim wal Muta'allim), Teori Secure Attachment John Bowlby (In Loco Parentis), Model Kepemimpinan Sayyidul Qawmi Khadimuhum, serta Standar Interaksi Harian Guru-Santri 24 Jam*
+# P1-04-02: RELASI MURABBI DAN SANTRI: KETELADANAN QUDWAH DAN IHTIRAM TIMBAL-BALIK (EDUCATOR-STUDENT RELATIONAL ADAB)
+## *Monograf Riset Akademik: Dekonstruksi Feodalisme Relasi Kuasa Asimetris, Rekonstruksi Ta'zhim Hakiki dalam Adab al-'Alim wal-Muta'allim KH. M. Hasyim Asy'ari, Teori Secure Attachment John Bowlby (In Loco Parentis), Serta Kode Etik Interaksi Guru-Santri di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-04-02/MONOGRAF-TERPADU-RELASI-MURABBI-SANTRI/2026`  
-**Domain**: `01 Philosophy` > `04 Education`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P1-04-02/MONOGRAF-RISET-RELASI-MURABBI-SANTRI/2026`  
+**Domain**: `01 Philosophy` > `04 Education` (Sub-Modul 02: *Educator-Student Relational Dynamics*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Pedagogi & Etika Guru-Murid Turats (*Adab al-Mu'allim wal-Muta'allim*), Psikologi Kelekatan (*Attachment Theory*), Kepemimpinan Qudwah Melayani (*Servant Leadership*), Tata Kelola Perlindungan Santri  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Guru dan Musyrif Bukan Raja Feodal, Melainkan Ayah Spiritual (*Ab Ruhani*):**  
->   Menuntut santri menunduk ketakutan, mencium tangan sambil gemetar, atau melayani kebutuhan pribadi guru bukanlah ajaran Islam. Menurut Hadhratusy Syaikh KH. M. Hasyim Asy'ari, pendidik wajib memperlakukan santri **Laksana Anak Kandungnya Sendiri (*Manzilah al-Awlad*)** dalam limpahan kasih sayang, kelembutan (*ar-Rifq*), dan kesabaran saat santri khilaf.
-> * **Dua Sayap Relasi Ideal: Kasih Sayang (*Rahmah*) & Sikap Tegas Beradab (*Firm & Kind*):**  
->   1. **Kehangatan Penuh Kasih (*Kindness*):** Musyrif tersenyum ramah, mendengarkan keluh kesah santri, merangkul saat santri sedih, dan memvalidasi perasaannya.  
->   2. **Ketegasan Berkeadilan (*Firmness*):** Menjaga batas aturan yang jelas, tidak membiarkan pelanggaran adab, dan menegakkan konsekuensi logis tanpa amarah fisik.
-> * **Konsep Secure Attachment (John Bowlby) di Asrama:**  
->   Musyrif adalah pelabuhan rasa aman (*Secure Base*) bagi santri yang jauh dari orang tuanya. Santri yang merasa aman dan disayangi oleh gurunya akan memiliki semangat belajar tinggi, otak rileks menyerap hafalan, dan tidak akan mencari pelarian pada geng nakal atau merokok.
-> * **Sayyidul Qawmi Khadimuhum (Pemimpin Kaum Adalah Pelayan Mereka):**  
->   Wibawa guru (*Haibah*) tidak lahir dari tongkat kayu atau bentakan keras, melainkan dari **Keteladanan Nyata (*Living Qudwah*)**: guru yang datang shalat lebih awal, guru yang ikut menyapu halaman, dan guru yang memaafkan santri dengan tulus.
+> * **Kelemahan Paradigma Lama: Distorsi Ta'zhim Menjadi Feodalisme dan Eksploitasi:**  
+>   Sebagian lingkungan pesantren mengalami distorsi relasi guru-murid: konsep penghormatan (*Ta'zhim*) disalahgunakan menjadi feodalisme kultural di mana santri dijadikan pelayan pribadi guru, dilarang berpikir kritis karena takut divonis kualat, dan kekerasan fisik dilegitimasi atas nama "riyadhah batin".
+> * **Inovasi Konseptual: Rekonstruksi Hadhratusy Syaikh KH. M. Hasyim Asy'ari & Secure Attachment:**  
+>   TUMBUH menegaskan wasiat emas KH. M. Hasyim Asy'ari: pendidik wajib memperlakukan santri **Laksana Anak Kandung (*Manzilah al-Awlad*)** dalam limpahan kasih sayang (*Ar-Rahmah*), kelembutan (*Ar-Rifq*), dan keteladanan nyata (*Live Qudwah*). Memadukannya dengan teori *Secure Attachment* John Bowlby: musyrif bertindak sebagai pangkalan rasa aman (*Secure Base*) dan pengasuh pengganti (*In Loco Parentis*).
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks kode etik interaksi 24 jam, 4 Tingkatan Kesadaran Relasi Edukatif (*Maratib al-Idrak*), protokol bimbingan empat mata (*1-on-1 Mentoring*), dan etika tata kelola anti-eksploitasi santri.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET DOKTRIN RELASI EDUKATIF, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-doktrin-relasi-edukatif-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Relasi Pendidik: Problem Feodalisme Relasi Kuasa Asimetris](#1-kerangka-metodologi-relasi-pendidik-problem-feodalisme-relasi-kuasa-asimetris)
-  - [2. Inkuiri 1: Eksegesis Wasiat Hadhratusy Syaikh KH. M. Hasyim Asy'ari dalam Adab al-'Alim wal Muta'allim — Kasih Sayang Laksana Anak Kandung & Menolak Kekerasan](#2-inkuiri-1-eksegesis-wasiat-hadhratusy-syaikh-kh-m-hasyim-asyari-dalam-adab-al-alim-wal-mutaallim--kasih-sayang-laksana-anak-kandung--menolak-kekerasan)
-  - [3. Inkuiri 2: Konvergensi Teori Secure Attachment John Bowlby dalam Asrama Pesantren (In Loco Parentis & Regulasi Emosi)](#3-inkuiri-2-konvergensi-teori-secure-attachment-john-bowlby-dalam-asrama-pesantren-in-loco-parentis--regulasi-emosi)
-  - [4. Inkuiri 3: Model Kepemimpinan Qudwah-Centered Leadership: Sayyidul Qawmi Khadimuhum](#4-inkuiri-3-model-kepemimpinan-qudwah-centered-leadership-sayyidul-qawmi-khadimuhum)
-  - [5. Inkuiri 4: Dialektika Kritik atas Relasi Transaksional & Penghapusan Normalisasi Hukuman Fisik](#5-inkuiri-4-dialektika-kritik-atas-relasi-transaksional--penghapusan-normalisasi-hukuman-fisik)
-  - [6. Inkuiri 5: Rekayasa Komunikasi Edukatif: Dialog Empati Hati ke Hati & Batasan Profesional Musyrif](#6-inkuiri-5-rekayasa-komunikasi-edukatif-dialog-empati-hati-ke-hati--batasan-profesional-musyrif)
-  - [7. Inkuiri 6: Translasi Relasi Qudwah ke Tata Kelola Standar Interaksi Harian Guru-Santri 24 Jam](#7-inkuiri-6-translasi-relasi-qudwah-ke-tata-kelola-standar-interaksi-harian-guru-santri-24-jam)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik](#1-formulasi-konseptual-relasi-edukatif-berbasis-qudwah-ihtiram-timbal-balik)
-  - [2. Matriks Komparasi Pola Relasi Guru-Santri: Feodal-Otoriter vs Permisif vs Qudwah-Attachment TUMBUH](#2-matriks-komparasi-pola-relasi-guru-santri-feodal-otoriter-vs-permisif-vs-qudwah-attachment-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Feodalisme dan Relasi Kuasa Asimetris di Pesantren](#1-latar-belakang-masalah-krisis-feodalisme-dan-relasi-kuasa-asimetris-di-pesantren)
+  - [2. Eksegesis Wasiat Turats Hadhratusy Syaikh KH. M. Hasyim Asy'ari: Kasih Sayang Laksana Anak Kandung (Adab al-'Alim wal-Muta'allim)](#2-eksegesis-wasiat-turats-hadhratusy-syaikh-kh-m-hasyim-asyari-kasih-sayang-laksana-anak-kandung-adab-al-alim-wal-mutaallim)
+  - [3. Konvergensi Psikologi Perkembangan: Teori Secure Attachment John Bowlby dan Peran In Loco Parentis](#3-konvergensi-psikologi-perkembangan-teori-secure-attachment-john-bowlby-dan-peran-in-loco-parentis)
+  - [4. Model Kepemimpinan Keteladanan Qudwah: Dekonstruksi Wibawa Punitif Menuju Sayyidul Qawmi Khadimuhum](#4-model-kepemimpinan-keteladanan-qudwah-dekonstruksi-wibawa-punitif-menuju-sayyidul-qawmi-khadimuhum)
+  - [5. Kasuistika Lapangan: Kasus Eksploitasi Tenaga Santri & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-eksploitasi-tenaga-santri--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Relasi Edukatif Berbasis Qudwah dan Ihtiram Timbal-Balik TUMBUH](#1-eksplanasi-teoretis-relasi-edukatif-berbasis-qudwah-dan-ihtiram-timbal-balik-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Relasi Edukatif (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-relasi-edukatif-maratib-al-idrak)
   - [3. Matriks Kode Etik & Batasan Interaksi Harian Guru/Musyrif-Santri 24 Jam](#3-matriks-kode-etik--batasan-interaksi-harian-gurumusyrif-santri-24-jam)
-  - [4. Protokol Bimbingan Empat Mata (1-on-1 Mentoring Protocol) yang Aman & Menjaga Martabat](#4-protokol-bimbingan-empat-mata-1-on-1-mentoring-protocol-yang-aman--menjaga-martabat)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Relasi Murabbi-Santri](#1-tabel-sintesis-hasil-riset-relasi-murabbi-santri)
+  - [4. Protokol Bimbingan Empat Mata (1-on-1 Mentoring Protocol) yang Aman & Bermartabat](#4-protokol-bimbingan-empat-mata-1-on-1-mentoring-protocol-yang-aman--bermartabat)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Relasi Murabbi-Santri](#1-tabel-sintesis-temuan-riset-relasi-murabbi-santri)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Relasi Edukatif & Psikologi Kelekatan](#4-glosarium-dan-penjelasan-istilah-teknis-relasi-edukatif--psikologi-kelekatan)
+  - [4. Glosarium Istilah Ilmiah & Turats Relasi Edukatif](#4-glosarium-istilah-ilmiah--turats-relasi-edukatif)
 
 ---
 
-# BAGIAN I: RISET DOKTRIN RELASI EDUKATIF, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Relasi Pendidik: Problem Feodalisme Relasi Kuasa Asimetris
+### 1. Latar Belakang Masalah: Krisis Feodalisme dan Relasi Kuasa Asimetris di Pesantren
 
-Dalam sejarah pendidikan pesantren, hubungan antara guru (*Kyai / Ustadz / Musyrif*) dan murid (*Santri*) merupakan episentrum keberkahan ilmu (*Barakah*). Namun seiring berjalannya waktu, sebagian lembaga mengalami pergeseran destruktif: penghormatan adab (*Ta'zhim*) terdistorsi menjadi **Feodalisme Relasi Kuasa Asimetris (*Asymmetrical Power Feudalism*)**.
-
-Distorsi ini memanifestasikan dirinya dalam fenomena-fenomena beracun:
-* Santri diperlakukan layaknya budak pelayan pribadi (*Khadim Syakhshi*) yang wajib mencuci pakaian pribadi ustadz, memijat, dan melayani tanpa batas.
-* Santri dilarang bertanya kritis atau mengoreksi kekeliruan nyata guru dengan ancaman stigma "kualat" atau "hilang berkah ilmunya".
-* Guru menjustifikasi amarah kasar, tamparan, dan kekerasan fisik sebagai bentuk "tanda sayang" atau "riyadhah menguji kesabaran".
-
-Ekosistem TUMBUH menegakkan doktrin **Relasi Qudwah Berbasis Ihtiram Timbal-Balik (*Reciprocal Dignity & Attachment*)**:
-
-```mermaid
-graph TD
-    subgraph RelasiFeodalVsQudwah["TRANSFORMASI RELASI PENDIDIK-SANTRI"]
-        Feodal["POLA FEODAL OTORITER (LAMA)<br/>• Guru = Penguasa Mutlak Kebal Kritik.<br/>• Santri = Bawahan Pasif & Ketakutan Buta.<br/>• Kepatuhan semu & kemunafikan karakter."]
-        
-        Permisif["POLA PERMISIF SEKULER<br/>• Guru = Penyedia Jasa Komersial.<br/>• Santri = Pelanggan Bebas Menuntut.<br/>• Hilangnya wibawa adab & desakralisasi ilmu."]
-        
-        Qudwah["POLA QUDWAH-ATTACHMENT (TUMBUH)<br/>• Guru = Ayah Spiritual (In Loco Parentis) & Teladan Hidup.<br/>• Santri = Anak yang Mulia, Beradab, Kritis, & Mandiri.<br/>• Ukhuwah berkeadilan & keberkahan ilmu hakiki."]
-        
-        Feodal ==>|DEKONSTRUKSI| Qudwah
-        Permisif ==>|DEKONSTRUKSI| Qudwah
-    end
-```
-
----
-
-### 2. Inkuiri 1: Eksegesis Wasiat Hadhratusy Syaikh KH. M. Hasyim Asy'ari dalam *Adab al-'Alim wal Muta'allim* — Kasih Sayang Laksana Anak Kandung & Menolak Kekerasan
-
-```mermaid
-graph TD
-    A["Gugatan Feodalisme Pesantren (Pihak A):<br/>'Tradisi pondok itu guru berhak melakukan apa saja kepada santri. Santri harus seperti mayat di tangan orang yang memandikannya!'"]
-    --> B1["Tinjauan Kitab KH. Hasyim Asy'ari:<br/>Guru wajib memperlakukan santri laksana anak kandung sendiri dalam kasih sayang (Manzilah al-Awlad)."]
-    A --> B2["Tinjauan Teks Asli Bab Adab Guru:<br/>KH. Hasyim Asy'ari mewajibkan membimbing dengan kelembutan (al-Luthf) & melarang kekerasan (la bil-'Unf)."]
-    A --> B3["Tinjauan Hadits Nabawi:<br/>Rasulullah SAW bersabda: 'Innama ana lakum bimanzilatil walid' (Sesungguhnya aku bagi kalian laksana seorang ayah)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Hubungan guru-santri adalah kelekatan ayah-anak spiritual yang penuh kasih, bukan perbudakan feodal."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap relasi pedagogis pesantren yang berakar pada ketetapan para pendiri pesantren Nusantara (*Hadhratusy Syaikh KH. M. Hasyim Asy'ari*) niscaya mewajibkan pendidik mencintai santrinya laksana anak kandung dan membimbing dengan kelembutan tanpa kekerasan.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kitab *Adab al-'Alim wal Muta'allim* secara qath'i melarang kekerasan guru (*al-'Unf*) dan memerintahkan kesabaran atas kekhilafan santri (*ar-Rifq was-Syafaqah*).
-* **Konklusi (*an-Natijah*)**: Maka, segala bentuk kekerasan fisik dan arogansi feodal guru di pesantren TUMBUH dinyatakan sebagai penyimpangan terang-terangan terhadap sanad keilmuan para pendiri pesantren.[^1]
-
-#### 📖 Teks Primer Turats: *Adab al-'Alim wal Muta'allim* (1343 H / 1925 M)
-Hadhratusy Syaikh KH. M. Hasyim Asy'ari merumuskan 14 adab guru terhadap muridnya:
-
-$$\text{الْخَامِسُ: أَنْ يُعَامِلَ الْمُتَعَلِّمِينَ بِالرِّفْقِ وَالشَّفَقَةِ، وَأَنْ يُنْزِلَهُمْ مَنْزِلَةَ أَوْلَادِهِ فِي الْمَحَبَّةِ وَالْإِكْرَامِ، وَالِاعْتِنَاءِ بِشَأْنِهِمْ، وَالصَّبْرِ عَلَى جَفْوَتِهِمْ، وَسُوءِ أَدَبِهِمْ فِي بَعْضِ الْأَحْوَالِ، وَيُرْشِدَهُمْ بِاللُّطْفِ لَا بِالْعُنْفِ، وَبِالتَّعْرِيضِ لَا بِالتَّصْرِيحِ مَهْمَا أَمْكَنَ، فَإِنَّ التَّصْرِيحَ يَهْتِكُ حِجَابَ الْهَيْبَةِ، وَيُورِثُ الْجَرَاءَةَ عَلَى الْهُجُومِ بِالْخِلَافِ}$$
-
-*"Adab kelima bagi seorang guru: Hendaklah ia memperlakukan para muridnya dengan **penuh kelembutan (*ar-Rifq*) dan belas kasih (*asy-Syafaqah*)**, serta mendudukkan mereka pada kedudukan anak kandungnya sendiri dalam hal kecintaan, pemuliaan, dan perhatian atas urusan mereka. Hendaklah guru bersabar atas kekasaran dan kekhilafan adab santri dalam beberapa keadaan, dan membimbing mereka dengan kelembutan (*al-Luthf*), bukan dengan kekerasan (*la bil-'Unf*), serta dengan sindiran halus (*Ta'ridh*) bukan dengan cercaan vulgar (*la bit-Tashrih*) selagi memungkinkan. Karena cercaan terbuka akan merobek tabir kewibawaan dan mewariskan keberanian santri untuk melanggar secara terang-terangan!"* (Hasyim Asy'ari, *Adab al-'Alim wal Muta'allim*, hlm. 25–26).[^2]
-
-Dan Rasulullah SAW menegaskan posisi beliau di hadapan para sahabat:
-$$\text{إِنَّمَا أَنَا لَكُمْ بِمَنْزِلَةِ الْوَالِدِ أُعَلِّمُكُمْ}$$
-*"Sesungguhnya kedudukanku bagi kalian adalah laksana seorang ayah (kepada anak-anaknya); aku mengajari kalian (adab dan syariat)."* (HR. Abu Dawud No. 8; An-Nasa'i No. 40; Ibnu Majah No. 313).[^3]
-
-#### 🥊 Ronde 1: Menolak Mitos Bahwa "Kyai/Guru Berhak Memukul Demi Keberkahan"
-* **Pihak A (Sudut Pandang Justifikasi Kekerasan Budaya)**:  
-  *"Dulu para kyai sakti memukul santrinya sampai pingsan dan santrinya jadi ulama besar. Jadi memukul itu cara mentransfer ilmu secara ghaib!"*
-* **Tinjauan Sudut Pandang Sunnah Shahihah & Kaidah Syar'i**:  
-  Cerita anekdotal tidak boleh mengalahkan Sunnah Rasulullah SAW yang shahih. Sayyidah 'Aisyah RA bersumpah: *"Rasulullah SAW tidak pernah sekalipun memukul pembantu atau anak-anak dengan tangannya"* (HR. Muslim). Mengklaim bahwa memukul santri mentransfer keberkahan adalah bid'ah keji yang bertentangan dengan ajaran Nabi SAW dan wasiat KH. Hasyim Asy'ari.[^4]
-
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Menghadapi Santri yang Kurang Ajar (*Jafwah*)?
-* **Pihak A (Sudut Pandang Hilang Kesabaran Guru)**:  
-  *"Kalau santri membantah ustadz dan bermalas-malasan, masa kita harus tetap lembut? Di mana letak wibawa guru kalau tidak dibentak?"*
-* **Tinjauan Sudut Pandang Kaidah Tashrih vs Ta'ridh KH. Hasyim Asy'ari**:  
-  KH. Hasyim Asy'ari justru mengingatkan bahwa **Membentak Santri di Depan Umum Merobek Kewibawaan Guru (*Yahtiku Hijabal Haibah*)**. Ketika guru membentak dan mempermalukan santri, santri akan merasa dendam dan kehilangan rasa hormat. Teguran yang beradab dilakukan empat mata, dengan nada tenang namun tegas (*Firm & Kind*), menjelaskan letak kesalahan dan membimbing perbaikannya.[^5]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Membedakan Tawadhu' Hakiki dengan Penindasan Feodal
-* **Pihak A (Sudut Pandang Eksploitasi Khidmat Santri)**:  
-  *"Menyuruh santri mencuci piring dan mobil ustadz setiap hari itu melatih ketawadhuan santri, kenapa harus dilarang?"*
-* **Resolusi Sudut Pandang Batasan Syar'i Khidmat Ilmu**:  
-  Santri datang ke pesantren untuk menuntut ilmu (*Thalabul 'Ilmi*), bukan untuk menjadi asisten rumah tangga gratis pengurus. Khidmat yang berpahala adalah **Khidmat yang Dilakukan Santri Secara Sukarela Tanpa Paksaan (*Ikhtiyari*)** untuk kemaslahatan umum pesantren (seperti membersihkan masjid atau perpustakaan). Menjadikan santri sebagai pelayan pribadi keluarga guru adalah penyalahgunaan amanah wali santri.[^6]
-
-> #### 📌 Kasuistika Lapangan 1 & Titik Temu Konsensus
-> * **Studi Kasus**: Seorang ustadz muda mewajibkan santri junior membawakan tasnya, memijat kakinya setiap malam, dan mencuci pakaian keluarganya; santri yang menolak diancam tidak diluluskan ujian kitab.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pimpinan pesantren memanggil ustadz tersebut, menegur keras tindakan feodalistik tersebut, dan menegaskan Piagam Etika Pendidik TUMBUH. Praktik perpeloncoan pribadi dihapus 100%. Ustadz meminta maaf kepada santri dan mulai meneladankan mencuci pakaiannya sendiri sesuai sunnah Nabi SAW.[^7]
-
----
-
-### 3. Inkuiri 2: Konvergensi Teori *Secure Attachment* John Bowlby dalam Asrama Pesantren (*In Loco Parentis* & Regulasi Emosi)
-
-```mermaid
-graph TD
-    subgraph BowlbyAttachmentPesantren["TEORI KELEKATAN AMAN (JOHN BOWLBY) DI ASRAMA"]
-        Pemisahan["SANTRI MASUK ASRAMA:<br/>Terpisah dari orang tua kandung (Attachment Disruption)."]
-        
-        MusyrifSecureBase["MUSYRIF SEBAGAI SECURE BASE (IN LOCO PARENTIS):<br/>Hadir hangat, mendengar empatik, konsisten, & tidak mengintimidasi."]
-        
-        DampakPsikologis["DAMPAK REGULASI EMOSI & KOGNISI:<br/>1. Saraf Vagal Ventral aktif (Ketenangan Batin).<br/>2. Korteks Prefrontal rileks & kapasitas hafalan melonjak.<br/>3. Kepercayaan diri sosial & ukhuwah berkembang subur."]
-        
-        Pemisahan --> MusyrifSecureBase --> DampakPsikologis
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap anak yang terpisah dari rumah keluarga dan mendapatkan figur kelekatan pengganti (*Attachment Figure*) yang responsif, hangat, dan konsisten niscaya mengalami penurunan tingkat kecemasan (*Cortisol*) dan menunjukkan performa eksplorasi belajar yang optimal.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Teori *Attachment* John Bowlby membuktikan bahwa pendidik asrama yang bertindak sebagai *In Loco Parentis* yang aman (*Secure Base*) memfasilitasi regulasi emosi santri secara biologis dan psikologis.
-* **Konklusi (*an-Natijah*)**: Maka, musyrif asrama pesantren TUMBUH wajib dilatih menghadirkan komunikasi kelekatan aman dalam interaksi 24 jam bersama santri.[^8]
-
-#### 📖 Teks Sains Internasional: Teori Kelekatan John Bowlby (1969, 1988)
-Dr. John Bowlby dalam karyanya *A Secure Base: Parent-Child Attachment and Healthy Human Development*:
-
-> *"Attachment behavior is any form of behavior that results in a person attaining or maintaining proximity to some other clearly identified individual who is conceived as better able to cope with the world... When the attachment figure is accessible, emotionally responsive, and non-threatening, the child experiences a sense of **security (*Secure Base*)**. This emotional safety liberates the child's exploratory drive, enhances neural integration in the prefrontal cortex, and builds psychological resilience against stress."* (Bowlby, 1988, *A Secure Base*, hlm. 26–29).[^9]
-
-Empat Pilar Kelekatan Aman Musyrif-Santri:
-1. **Aksesibilitas Emosional (*Emotional Accessibility*)**: Musyrif mudah ditemui, tidak berwajah masam, dan menyediakan waktu mendengar santri.
-2. **Responsivitas Empatik (*Empathetic Responsiveness*)**: Tanggap melihat santri yang murung, sakit, atau mengalami perubahan perilaku.
-3. **Ketiadaan Ancaman (*Non-Threatening Presence*)**: Santri tidak merasa terancam akan dipukul atau dipermalukan saat mendekati musyrif.
-4. **Kepastian Struktur (*Predictable Structure*)**: Aturan yang konsisten dan adil, tidak berubah-ubah mengikuti suasana hati (*mood*) musyrif.[^10]
-
----
-
-### 4. Inkuiri 3: Model Kepemimpinan *Qudwah-Centered Leadership*: *Sayyidul Qawmi Khadimuhum*
-
-```mermaid
-graph LR
-    subgraph ModelSayyidulQawm["FILSAFAT KEPEMIMPINAN PENDIDIK: SAYYIDUL QAWMI KHADIMUHUM"]
-        Qudwah1["1. KETELADANAN SUBUH<br/>Guru hadir di masjid mendahului santri & mencontohkan munajat khusyuk."]
-        
-        Qudwah2["2. KETELADANAN ADAB LISAN<br/>Guru bertutur kata santun, tidak mengumpat, & menghargai martabat anak."]
-        
-        Qudwah3["3. KETELADANAN KHIDMAT<br/>Guru ikut memungut sampah di halaman & membersihkan asrama bersama santri."]
-        
-        WibawaHakiki["WIBAWA NABAWI HAKIKI (AL-HAIBAH WAL-MAHABBAH)<br/>Santri taat karena cinta, takjub, & terinspirasi meneladani akhlak guru."]
-        
-        Qudwah1 & Qudwah2 & Qudwah3 ==> WibawaHakiki
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap otoritas kepemimpinan pendidikan yang ditegakkan di atas asas keteladanan amal nyata (*Qudwah*) dan semangat melayani peserta didik niscaya melahirkan kepatuhan sukarela yang menghunjam kuat di dalam kalbu.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW menetapkan kaidah agung kenabian: *"Sayyidul qawmi khadimuhum"* (Pemimpin suatu kaum adalah pelayan bagi mereka).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh asatidz dan musyrif di pesantren TUMBUH wajib memimpin pembinaan santri dengan semangat *Servant Leadership* dan keteladanan amal.[^11]
-
-#### 📖 Teks Primer Hadits: Kaidah Sayyidul Qawmi Khadimuhum
-Rasulullah SAW bersabda mengenai hakikat kepemimpinan sejati:
-
-$$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ فِي السَّفَرِ، فَمَنْ سَبَقَهُمْ بِخِدْمَةٍ لَمْ يَسْبِقُوهُ بِعَمَلٍ إِلَّا الشَّهَادَةَ}$$
-
-*"Pemimpin suatu kaum adalah pelayan bagi mereka dalam perjalanan; barangsiapa yang mendahului mereka dalam hal berkhidmah melayani, maka mereka tidak akan mampu mengunggulinya dengan amal apa pun kecuali mati syahid."* (Diriwayatkan oleh Al-Baihaqi dalam *Syu'abul Iman* No. 8224; Abu Nu'aim dalam *Hilyatul Auliya'*).[^12]
-
----
-
-### 5. Inkuiri 4: Dialektika Kritik atas Relasi Transaksional & Penghapusan Normalisasi Hukuman Fisik
-
-```mermaid
-graph TD
-    subgraph KritikRelasiTransaksional["DEKONSTRUKSI SISTEM TRANSAKSIONAL PUNISHER-TARGET"]
-        ModelLama["POLA PENGAWAS-TTarget (LAMA)<br/>• Guru bertindak sebagai polisi pengawas yang mencari kesalahan.<br/>• Setiap pelanggaran dihukum fisik/denda.<br/>• Santri menjadi licik & mengembangkan perilaku sembunyi-sembunyi."]
-        
-        ModelTUMBUH["POLA PEMBIMBING-PEMBELAJAR (TUMBUH)<br/>• Musyrif bertindak sebagai Murabbi yang merawat pertumbuhan.<br/>• Setiap pelanggaran dipulihkan lewat dialog restoratif & konsekuensi logis 4R.<br/>• Santri jujur mengakui kesalahan & memperbaiki diri."]
-        
-        ModelLama ==>|TRANSFORMASI MUTLAK| ModelTUMBUH
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 4*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap interaksi pembinaan yang mengubah relasi guru-murid menjadi transaksi hukum retributif antara penangkap kesalahan (*Punisher*) dan target hukuman niscaya menghancurkan keikhlasan niat dan memicu permusuhan batin.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Pola pengasuhan yang bertumpu pada hukuman fisik dan pencarian kesalahan menumbuhkan budaya kemunafikan (*Hypocrisy*) di kalangan santri.
-* **Konklusi (*an-Natijah*)**: Maka, pesantren TUMBUH menghapus mutlak pola pengawasan polisi-tahanan dan menggantikannya dengan pendampingan restoratif berbasis bimbingan konseling.[^13]
-
----
-
-### 6. Inkuiri 5: Rekayasa Komunikasi Edukatif: Dialog Empati Hati ke Hati & Batasan Profesional Musyrif
+Hubungan antara pendidik (*Murabbi / Asatidz / Musyrif*) dan santri adalah jantung keberkahan pendidikan Islam. Namun dalam dinamika sosiologis di sebagian pesantren, terjadi distorsi yang mencederai nilai-nilai syariat:
+* **Feodalisme Relasi Kuasa (*Asymmetrical Power Exploitation*)**: Santri diperlakukan layaknya pelayan pribadi yang diwajibkan mencuci pakaian pribadi ustadz, memijat, dan melayani urusan domestik pengasuh tanpa batas waktu.
+* **Pemberangusan Nalar Kritis Melalui Teror Kualat**: Santri yang bertanya kritis atau mengoreksi kekeliruan guru langsung diancam akan kehilangan berkah ilmunya (*Su'ul Adab*), menciptakan budaya ketakutan semu (*Submissive Fear*) dan kemunafikan sikap.
+* **Normalisasi Amarah Kasar**: Pengasuh menjustifikasi tamparan, tendangan, dan caci maki sebagai "tanda sayang" atau "riyadhah batin".
+* **Keniscayaan Doktrin Ihtiram Timbal-Balik**: Islam menolak feodalisme; penghormatan murid kepada guru wajib diimbangi dengan kasih sayang, perlindungan, dan keteladanan guru kepada murid.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph KomunikasiEdukatif["5 PRINSIP KOMUNIKASI EDUKATIF GURU-SANTRI (TUMBUH)"]
-        K1["1. QAWLAN LAYYINA (QS. Thaha: 44)<br/>Tutur kata yang lemah lembut, nada suara rendah, & tanpa teriakan kasar."]
+    subgraph TransformasiRelasiPendidik["TRANSFORMASI POLA HUBUNGAN GURU-SANTRI"]
+        PolaFeodalLama["FEODALISME RELASI KUASA (LAMA)<br/>• Santri jadi pelayan pribadi ustadz.<br/>• Teror kualat jika bertanya kritis.<br/>• Wibawa ditegakkan lewat bentakan & kekerasan."]
         
-        K2["2. QAWLAN SADIDA (QS. Al-Ahzab: 70)<br/>Perkataan yang jujur, tepat sasaran, faktual, & tanpa manipulasi."]
+        PolaQudwahTUMBUH["RELASI QUDWAH & SECURE ATTACHMENT (TUMBUH)<br/>• Guru mengasihi laksana anak kandung (Manzilah al-Awlad).<br/>• Dialogis sokratik: Nalar kritis dihargai & dibimbing.<br/>• Wibawa sejati lahir dari keteladanan akhlak (Live Qudwah)."]
         
-        K3["3. QAWLAN KARIMA (QS. Al-Isra: 23)<br/>Perkataan yang memuliakan harga diri santri & tidak merendahkan."]
-        
-        K4["4. QAWLAN MA'RUFA (QS. An-Nisa: 5)<br/>Perkataan yang pantas, santun, & selaras dengan norma kebaikan."]
-        
-        K5["5. QAWLAN BALIGHA (QS. An-Nisa: 63)<br/>Perkataan yang menyentuh lubuk kalbu & membangkitkan kesadaran batin."]
-        
-        K1 --- K2 --- K3 --- K4 --- K5
+        PolaFeodalLama ==>|DIREKONSTRUKSI MENJADI| PolaQudwahTUMBUH
     end
 ```
 
 ---
 
-### 7. Inkuiri 6: Translasi Relasi Qudwah ke Tata Kelola Standar Interaksi Harian Guru-Santri 24 Jam
+### 2. Eksegesis Wasiat Turats Hadhratusy Syaikh KH. M. Hasyim Asy'ari: Kasih Sayang Laksana Anak Kandung (Adab al-'Alim wal-Muta'allim)
+
+Pendiri Nahdlatul Ulama, **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, dalam mahakaryanya *Adab al-'Alim wal-Muta'allim*, menggariskan pilar etika pendidik:
+
+$$\text{أَنْ يَقْصِدَ بِتَعْلِيمِهِمْ وَتَهْذِيبِهِمْ وَجْهَ اللَّهِ تَعَالَى ... وَأَنْ يُعَامِلَهُمْ بِمَا يُعَامِلُ بِهِ أَعَزَّ أَوْلَادِهِ مِنَ الْحُنُوِّ وَالشَّفَقَةِ وَالإِحْسَانِ}$$
+
+*"**Hendaklah pendidik berniat semata-mata mengharap ridha Allah dalam mengajar dan membina santri ... dan hendaklah ia memperlakukan santri-santrinya sebagaimana ia memperlakukan anak kandungnya yang paling ia cintai: dengan penuh kelembutan, kasih sayang, dan kebaikan**."*[^2]
+
+Beliau menegaskan bahwa pendidik dilarang keras bersikap congkak, dilarang memanfaatkan santri untuk kepentingan pribadi, dan wajib bersabar menghadapi kekeliruan pemahaman murid.[^3]
+
+---
+
+### 3. Konvergensi Psikologi Perkembangan: Teori Secure Attachment John Bowlby dan Peran In Loco Parentis
+
+Teori kelekatan psikologis **John Bowlby** (1982) memvalidasi peran asatidz dan musyrif sebagai **Pangkalan Rasa Aman (*Secure Base*)**:
+* Santri yang tinggal di asrama 24 jam terpisah dari orang tua kandung membutuhkan figur pengganti (*In Loco Parentis*) yang responsif, hangat, dan konsisten.
+* Hubungan kelekatan yang aman (*Secure Attachment*) antara musyrif dan santri meredakan kecemasan amigdala, mengaktifkan hormon oksitosin, dan membuka kapasitas optimal korteks prefrontal untuk menyerap hafalan dan ilmu pengetahuan secara riang.[^4]
+
+---
+
+### 4. Model Kepemimpinan Keteladanan Qudwah: Dekonstruksi Wibawa Punitif Menuju Sayyidul Qawmi Khadimuhum
+
+Kewibawaan guru (*Haibah*) tidak lahir dari kekerasan fisik atau ekspresi wajah yang menakutkan, melainkan memancar dari keteladanan yang hidup (*Live Modeling*):
+* Mengamalkan sabda Rasulullah ﷺ: *"Sayyidul Qawmi Khadimuhum"* (Pemimpin suatu kaum adalah pelayan bagi mereka).
+* Musyrif yang datang ke masjid sebelum adzan berkumandang, menyapa santri dengan senyum tulus, dan ikut memungut sampah di halaman akan disegani dan dicintai secara sukarela oleh santri tanpa rasa takut.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Eksploitasi Tenaga Santri & Resolusi Restoratif Terpadu
+
+* **Studi Kasus: Oknum Pengurus Mewajibkan Santri Junior Mencuci Pakaian Pribadinya Setiap Hari**  
+  * **Dilema**: Santri junior kelelahan hingga tertidur di kelas karena setiap malam dipaksa mencuci baju dan menyetrika pakaian pengurus kamar.
+  * **Pola Lama**: Oknum berkilah bahwa itu adalah "latihan khidmah mencari berkah guru".
+  * **Resolusi Restoratif TUMBUH**: Lembaga menegakkan kode etik perlindungan santri: oknum dicopot dari jabatan kepengurusan; lembaga menegaskan bahwa santri mondok untuk menuntut ilmu, bukan menjadi pembantu rumah tangga. Seluruh asatidz dan musyrif menandatangani pakta integritas mandiri urusan domestik. Tercipta suasana asrama yang adil, bersih, dan beradab.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Relasi Edukatif Berbasis Qudwah dan Ihtiram Timbal-Balik TUMBUH
+
+Ekosistem TUMBUH merumuskan arsitektur hubungan guru-murid ke dalam **Dua Sayap Relasi Qudwah-Ihtiram (*Janahay ar-Rabitah at-Ta'limiyyah*)**:
 
 ```mermaid
-graph TD
-    subgraph StandarInteraksi24Jam["SOP INTERAKSI HARIAN GURU/MUSYRIF-SANTRI"]
-        Pagi["04.00–06.00: Sapaan Subuh Hangat & Shalat Berjamaah Bersama"]
-        Siang["07.00–14.00: Manajemen Kelas Dialogis & Apresiasi Aktif Pembelajaran"]
-        Sore["16.00–17.30: Olahraga Bersama & Interaksi Informal Hangat di Lapangan"]
-        Malam["20.30–22.00: Pendampingan Belajar, Muhasabah Kamar, & Doa Tidur Beradab"]
+flowchart TD
+    subgraph ArsitekturRelasiQudwahTUMBUH["ARSITEKTUR HUBUNGAN GURU-SANTRI TUMBUH"]
         
-        Pagi --> Siang --> Sore --> Malam --> Pagi
+        subgraph SayapPendidik["KEWAJIBAN PENDIDIK (MURABBI / ASATIDZ / MUSYRIF)"]
+            M1["1. KASIH SAYANG HAKIKI (Ar-Rahmah): Mengayomi laksana anak kandung."]
+            M2["2. KETELADANAN HIDUP (Live Qudwah): Mengamalkan ilmu sebelum memerintah."]
+            M3["3. KEADILAN TANPA EKSPLOITASI (Al-'Adalah): Melarang perbudakan domestik."]
+            M4["4. KESABARAN & DIALOG (As-Shabr): Membimbing kekhilafan via Sokratik."]
+        end
+        
+        subgraph SayapSantri["ADAB SANTRI (THALIB / MUTA'ALLIM)"]
+            S1["1. PENGHORMATAN TULUS (Al-Ihtiram): Tawadhu' & mendengarkan ilmu."]
+            S2["2. TANGGUNG JAWAB BELAJAR (Al-Jiddiyyah): Tekun & menjaga amanah."]
+            S3["3. NALAR KRITIS BERADAB (Al-Bahts al-Mu'addab): Bertanya demi kebenaran."]
+            S4["4. DOA KEBERKAHAN (Ad-Du'a'): Mendoakan kebaikan bagi para asatidz."]
+        end
+        
+        SayapPendidik <===>|IHTIRAM TIMBAL-BALIK / BARAKAH MUTUALISME| SayapSantri
     end
 ```
 
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Asas Kasih Sayang Ayah Spiritual (IN Loco Parentis)**:  
-   Seluruh guru, asatidz, dan musyrif wajib memperlakukan setiap santri laksana anak kandungnya sendiri dalam hal kasih sayang (ar-Rifq), belas kasih (asy-Syafaqah), dan pemuliaan martabat insan (al-Ikram).
-
-2. **Dekonstruksi Total Feodalisme Relasi Kuasa**:  
-   Menghapus mutlak segala bentuk perlakuan asimetris yang merendahkan santri menjadi pelayan pribadi guru. Menolak doktrin kepatuhan buta yang mematikan nalar kritis dan memicu inferioritas mental.
-
-3. **Keteladanan Qudwah Melayani (sayyidul Qawmi Khadimuhum)**:  
-   Kewibawaan guru ditegakkan di atas keteladanan amal shalih nyata, keluhuran budi pekerti, dan dedikasi melayani santri. Dilarang keras menuntut ketaatan dengan ancaman tongkat, kekerasan fisik, atau bentakan.
-
-4. **Kelekatan Aman & Perlindungan Mental (secure Base Environment)**:  
-   Musyrif wajib menciptakan lingkungan pengasuhan yang aman secara psikologis, mudah diakses santri, responsif terhadap beban emosi santri, dan menjaga kerahasiaan aib santri secara profesional.
-
+#### 🔬 Pembahasan Mendalam Dua Sayap Relasi:
+1. **Sayap Pendidik (*Qudwah & Rahmah*)**: Mengharuskan guru mendidik dengan kelembutan, menolak segala bentuk pemukulan, dan menjadi figur teladan kebaikan di asrama.[^7]
+2. **Sayap Santri (*Ihtiram & Jiddiyyah*)**: Menumbuhkan rasa hormat yang lahir dari cinta (*Mahabbah*) dan ketakziman spiritual yang tulus, bukan karena takut hukuman rotan.[^8]
+3. **Barakah Mutualisme**: Ilmu membuahkan pemahaman yang mendalam (*Fahm*) ketika guru ikhlas mencurahkan ilmunya dan murid beradab menyerap ajarannya.[^9]
 
 ---
 
-### 2. Matriks Komparasi Pola Relasi Guru-Santri: Feodal-Otoriter vs Permisif vs Qudwah-Attachment TUMBUH
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Relasi Edukatif (Maratib al-Idrak)
 
-| Parameter Komparasi | Pola Feodal-Otoriter (Konvensional Buruk) | Pola Permisif Sekuler (Komersial) | Pola Qudwah-Attachment (Standar Baku TUMBUH) |
-| :--- | :--- | :--- | :--- |
-| **Pandangan Terhadap Santri** | Objek titah bawahan, calon pelanggar yang harus dicurigai. | Pelanggan jasa (*Customer*) yang bebas menuntut hak. | **Anak spiritual mulia (*Amanah Allah*) yang sedang bertumbuh.**[^14] |
-| **Gaya Kepemimpinan Guru** | Diktator absolut, menjaga jarak kaku, menuntut dilayani. | Pasif, laissez-faire, tidak peduli perkembangan moral santri. | **Pelayan yang meneladankan adab (*Sayyidul Qawmi Khadimuhum*).** |
-| **Metode Penegakan Disiplin** | Hukuman fisik, pembentakan, push-up, potong botak di depan umum. | Mengabaikan pelanggaran demi menghindari komplain wali santri. | **Disiplin Restoratif (*Firm & Kind*), dialog empat mata, & Konsekuensi 4R.**[^15] |
-| **Respon Terhadap Pertanyaan Kritis** | Murka, mengancam santri kualat/hilang berkah ilmu. | Menjawab seadanya tanpa membimbing nilai tauhid. | **Menyambut antusias, membimbing nalar kritis beradab (*Husnus Su'al*).** |
-| **Dampak Psikologis pada Santri** | Kepatuhan semu (*Maladaptive Compliance*), dendam, munafik. | Kehilangan arah moral, tidak memiliki rasa ta'zhim dan adab. | **Kemandirian moral otonom, ta'zhim tulus berbasis cinta, & berjiwa merdeka.**[^16] |
+Transformasi kedewasaan relasi pendidik-santri berlangsung melalui **Empat Tingkatan Kesadaran Relasi (*Maratib al-Idrak ar-Rabithiy*)**:
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranRelasiEdukatif["EMPAT TINGKATAN KESADARAN RELASI EDUKATIF (MARATIB AL-IDRAK)"]
+        
+        R1_Rel["TINGKAT 1: KESADARAN TRANSAKSIONAL-FORMAL (Al-Idrak ar-Rasmiy)<br/>• Hubungan dibatasi oleh jam dinas kelas & kepatuhan aturan lahiriah.<br/>• Guru mengajar materi; santri menyimak semata-mata demi menggugurkan kewajiban."]
+        
+        R2_Rel["TINGKAT 2: KESADARAN KELEKATAN EMOSIONAL (Al-Idrak al-Irtibathiy)<br/>• Guru menjadi figur orang tua kedua yang hangat; santri merasa nyaman bercerita.<br/>• Tercipta komunikasi empati yang meredakan stres homesickness & kecemasan asrama."]
+        
+        R3_Rel["TINGKAT 3: KESADARAN AMANAH RUHANIYYAH (Al-Idrak ar-Ruhaniy)<br/>• Guru menghayati santri sebagai titipan Allah; mendidik dengan doa tahajjud hening.<br/>• Santri menghormati guru sebagai pintu hidayah; meneladani adab sang murabbi."]
+        
+        R4_Rel["TINGKAT 4: KESADARAN QUDWAH PERADABAN PARIPURNA (Al-Idrak al-Qudwiy al-Kamil)<br/>• Penyatuan sempurna: relasi guru-murid bertransformasi menjadi kaderisasi perjuangan peradaban.<br/>• Menjadi Live Qudwah bersama yang menginspirasi kebangkitan umat & ilmu pengetahuan."]
+        
+        R1_Rel ==> R2_Rel ==> R3_Rel ==> R4_Rel
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Formalisme Kering Menuju Kelekatan Afektif)**: Hubungan mula-mula kaku seperti di sekolah umum. Pada tingkatan kedua, kehangatan asrama hidup: guru memvalidasi perasaan santri dan menjadi tempat curhat yang aman.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Kehangatan Afektif Menuju Koneksi Ruhani Ikhlas)**: Pada tingkatan ketiga, ikatan batin berakar pada Tauhid: guru mendoakan santri dalam shalat malamnya, dan santri menjaga adabnya baik di hadapan maupun di belakang sang guru.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Peradaban Bersama)**: Pada tingkatan tertinggi, relasi guru-murid melahirkan sinergi peradaban: keduanya bersama-sama berjuang menyebarkan dakwah, sains beradab, dan kedamaian bagi seluruh umat manusia (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
 ### 3. Matriks Kode Etik & Batasan Interaksi Harian Guru/Musyrif-Santri 24 Jam
 
-| Wilayah Interaksi | Perilaku Wajib (*Do's*) | Larangan Keras (*Don'ts - Zero Tolerance*) |
+Ekosistem TUMBUH menetapkan batasan etika profesional yang mengikat:
+
+| Ranah Interaksi | Tindakan Terpuji & Wajib (*Mandub / Wajib*) | Tindakan Terlarang Keras (*Haram & Sanksi*) |
 | :--- | :--- | :--- |
-| **1. Interaksi Fisik** | • Berjabat tangan santun dan menepuk bahu ramah untuk menguatkan.<br/>• Memeluk hangat saat santri menangis histeris rindu orang tua (sesama jenis). | • **DILARANG KERAS** memukul, menampar, menendang, melempar barang, atau mencubit.<br/>• Dilarang segala bentuk kontak fisik yang mengarah pada pelecehan seksual.[^17] |
-| **2. Komunikasi Verbal** | • Menggunakan kata sapaan mulia (*Akhi / Ananda / Nak*).<br/>• Menyapa dengan senyuman dan nada bicara tenang.<br/>• Memuji kemajuan karakter santri secara spesifik. | • **DILARANG KERAS** membentak dengan amarah, mengumpat kotor, melabeli bodoh/pemalas.<br/>• Dilarang mempermalukan kesalahan santri di depan teman-temannya.[^18] |
-| **3. Pemanfaatan Tenaga Santri** | • Mengajak santri bergotong royong membersihkan masjid dan lingkungan bersama guru. | • **DILARANG KERAS** menyuruh santri mencuci pakaian pribadi, memijat, atau mencuci kendaraan pribadi guru/keluarganya.[^19] |
-| **4. Penjagaan Kerahasiaan** | • Menjaga rapat-rapat curahan hati dan aib pribadi santri dari santri lain. | • **DILARANG KERAS** menjadikan masalah pribadi santri sebagai bahan lelucon di ruang guru atau kelas.[^20] |
+| **Bimbingan Fisik** | Salam ramah, senyum hangat, & jabat tangan santun.| Hukuman fisik, tamparan, tendangan, & kontak intim.|
+| **Komunikasi Lisan**| Bahasa santun, dialog sokratik, & apresiasi 4:1. | Caci maki hewan, sarkasme, labeling bodoh, & ancaman kualat.|
+| **Tugas Domestik** | Mengajarkan santri mencuci bajunya sendiri. | Meminta santri mencuci pakaian pribadi/memijat guru.|
+| **Konseling Kasus** | Di ruang terbuka berpandangan jelas (*Glass Door*).| Di ruangan terkunci rapat empat mata secara tertutup.|
+| **Pemberian Hadiah**| Apresiasi prestasi adab secara transparan di kelas.| Pemberian hadiah rahasia personal yang memicu kecemburuan.|
 
 ---
 
-### 4. Protokol Bimbingan Empat Mata (*1-on-1 Mentoring Protocol*) yang Aman & Menjaga Martabat
+### 4. Protokol Bimbingan Empat Mata (1-on-1 Mentoring Protocol) yang Aman & Bermartabat
+
+TUMBUH menetapkan **Protokol Bimbingan Mentoring Aman**:
 
 ```mermaid
 flowchart TD
-    S1["LANGKAH 1: LOKASI TERBUKA & TRANSPARAN<br/>Konseling dilakukan di ruang BK berkaca atau sudut lorong yang terlihat orang lain (Menghindari Khalwat/Fitnah)."]
-    
-    S2["LANGKAH 2: PENETAPAN SUASANA AMAN & KASIH SAYANG<br/>Musyrif mengawali dengan senyuman hangat, menawarkan minum, & memastikan santri merasa aman."]
-    
-    S3["LANGKAH 3: MENDENGARKAN AKTIF TANPA MENGHAKIMI (80% Santri Bicara)<br/>Musyrif mengajukan pertanyaan terbuka & mendengarkan curahan hati santri secara utuh."]
-    
-    S4["LANGKAH 4: MENUNTUN REFLEKSI NURANI & SOLUSI MANDIRI<br/>Membantu santri mengenali letak kekhilafan & menyusun rencana aksi perbaikan adab secara sukarela."]
-    
-    S5["LANGKAH 5: DOA BERSAMA & PENGUATAN UKHUWAH<br/>Musyrif mendoakan kebaikan santri, berjabat tangan erat, & memantau perkembangannya."]
-    
-    S1 --> S2 --> S3 --> S4 --> S5
+    subgraph ProtokolMentoringAman["PROTOKOL BIMBINGAN EMPAT MATA (1-ON-1 MENTORING)"]
+        Lokasi["1. LOKASI TRANSPARAN: Dilaksanakan di Ruang Konseling Berpintu Kaca Terbuka / Area Publik"]
+        --> Waktu["2. WAKTU RESMI: Dilakukan pada Jam Operasional (Bukan Larut Malam di Kamar Pribadi)"]
+        --> Dokumentasi["3. DOKUMENTASI PBIS: Mencatat Ringkasan Poin Solusi Tanpa Membeberkan Aib Santri"]
+        --> Evaluasi["4. TINDAK LANJUT RESTORATIF: Memantau Kemajuan Santri Secara Berkala Bersama Tim Asrama"]
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Protokol ini melindungi martabat santri sekaligus melindungi integritas para asatidz dari fitnah dan kecurigaan.[^11]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Relasi Murabbi-Santri
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Hakikat Relasi** | *Manzilah al-Awlad (Kelekatan Anak)* | KH. Hasyim Asy'ari (*Adab al-'Alim*), HR. Abu Dawud 8 | John Bowlby (1988), *Secure Attachment & In Loco Parentis* | Guru memposisikan diri sebagai ayah spiritual pelindung, bukan mandor penguasa. |
-| **Gaya Kepemimpinan** | *Sayyidul Qawmi Khadimuhum* | HR. Al-Baihaqi No. 8224, Kitab *Syu'abul Iman* | Robert K. Greenleaf (1977), *Servant Leadership in Education* | Wibawa guru dibangun melalui keteladanan amal shalih dan pelayanan nyata. |
-| **Metode Interaksi** | *Ar-Rifq wal-Luthf la bil-'Unf* | Wasiat KH. Hasyim Asy'ari, HR. Muslim 2593 (*Innar Rifqa...*) | Jane Nelsen (2006), *Positive Discipline (Firm & Kind)* | Menghapus hukuman fisik; menegakkan teguran privat dengan bahasa santun. |
-| **Respon Emosi Guru** | *Pencegahan Amygdala Hijack* | Hadits Shahih Bukhari 6116 (*La Taghdhab*) | Daniel Goleman (1995), *Emotional Intelligence & Co-Regulation* | Guru wajib menenangkan emosi diri sebelum menegur atau membimbing santri. |
-| **Batasan Etika** | *Kode Etik Anti-Eksploitasi* | Kaidah Fiqh *Dar'ul Mafasid Muqaddam 'ala Jalbil Mashalih* | *Child Protection Standards & Safe School Policy* | Larangan mutlak memanfaatkan tenaga santri untuk kepentingan pribadi guru. |
+Rekonstruksi relasi edukatif ini membawa angin segar bagi kebangkitan pesantren di era modern:
+
+* **Mencetak Generasi Cendekiawan yang Percaya Diri dan Ksatria**:  
+  Santri yang dididik dengan kasih sayang dan dialog sokratik akan tumbuh menjadi ilmuwan muslim yang berani menyuarakan kebenaran, berakhlak mulia, dan bebas dari sindrom minder atau kepatuhan buta.
+* **Menghapus Total Noda Hitam Kekerasan di Lembaga Islam**:  
+  Dengan menegakkan kode etik keteladanan *Qudwah*, pesantren membersihkan namanya dari stigma kekerasan, membuktikan diri sebagai model pendidikan paling aman dan penuh kasih sayang.
+* **Menghidupkan Kembali Majelis Sahabat dan Rasulullah ﷺ**:  
+  Hubungan guru-santri di TUMBUH merefleksikan kehangatan majelis Nabi ﷺ bersama para sahabat: penuh wibawa namun sangat akrab, penuh ilmu namun sarat cinta dan pengorbanan.[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Relasi Murabbi-Santri
+
+| Dimensi Parameter | Pola Feodal-Otoriter (Lama) | Pola Permisif Sekuler Barat | **Paradigma Qudwah-Attachment TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Peran Pendidik** | Raja penguasa / majikan feodal.| Fasilitator dingin transaksional.| **Ayah Ruhani Teladan (*Live Qudwah*).**| KH. Hasyim Asy'ari; Bowlby (1982). | Mengasihi laksana anak kandung sendiri. |
+| **Sumber Wibawa** | Tongkat rotan, bentakan, & teror.| Status kontrak kerja profesional.| **Keteladanan Akhlak & Khidmah Pelayan.**| HR. Al-Baghawi; Greenleaf (1977). | Wibawa lahir dari kesalehan nyata guru. |
+| **Respon Kesalahan**| Hukuman fisik & pemaluan publik.| Acuh tak acuh selama tak digugat.| **Disiplin Restoratif & Bimbingan Dialog.**| HR. Muslim No. 2612; Zehr (2002). | Ruang konseling damai & restitusi adab. |
+| **Kultur Komunikasi**| Monolog satu arah & tabu kritis.| Bebas tanpa batas adab moral. | **Dialogis Sokratik Penuh Takzim.** | QS. An-Nahl: 125; Al-Ghazali. | Santri berani bertanya dengan santun. |
+| **Profil Lulusan** | Jiwa tertindas / penindas baru.| Individu bebas tanpa rasa hormat.| **Insan Adabi Berwibawa & Rendah Hati.**| QS. Al-Furqan: 63; Al-Attas. | Berilmu luas, santun, & pemimpin umat. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal Muta'allim fima Yahtaju Ilaihi al-Muta'allim fi Ahwali Ta'allumihi wa ma Yatawaqqafu 'Alaihi al-Mu'allim fi Maqamati Ta'limihi*. Jombang: Maktabah at-Turats al-Islami.
-3. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-4. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-5. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (2009). *Sunan Abi Dawud*. Damaskus: Dar ar-Risalah.
-6. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-7. **Al-Baihaqi, Ahmad bin al-Husain**. (2003). *Syu'ab al-Iman*. Riyadh: Maktabah ar-Rusyd.
-8. **Bowlby, J.**. (1988). *A Secure Base: Parent-Child Attachment and Healthy Human Development*. New York: Basic Books.
-9. **Greenleaf, R. K.**. (1977). *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness*. New York: Paulist Press.
-10. **Nelsen, J.**. (2006). *Positive Discipline*. New York: Ballantine Books.
-11. **Goleman, D.**. (1995). *Emotional Intelligence: Why It Can Matter More Than IQ*. New York: Bantam Books.
-12. **Siegel, D. J.**. (2012). *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are*. New York: Guilford Press.
-13. **Porges, S. W.**. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. New York: W. W. Norton.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim fi ma Yahtaju Ilaihi al-Muta'allim fi Ahwali Ta'allumihi wa ma Yatawaqqafu 'Alaihi al-Mu'allim fi Maqamati Ta'limihi*. Jombang: Maktabah At-Turats Al-Islami.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm: Adab al-Mu'allim wal-Muta'allim). Beirut: Dar al-Ma'rifah.
+6. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+7. **Bowlby, J.**. (1982). *Attachment and Loss: Vol. 1. Attachment*. New York: Basic Books.
+8. **Greenleaf, R. K.**. (1977). *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness*. New York: Paulist Press.
+9. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+11. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+12. **Nelsen, J.**. (2006). *Positive Discipline*. New York: Ballantine Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Hasyim Asy'ari, *Adab al-'Alim wal Muta'allim*, hlm. 24–28.  
-[^2]: Ibid., hlm. 25.  
-[^3]: Hadits riwayat Abu Dawud No. 8 dari Abu Hurairah RA dengan sanad hasan shahih.  
-[^4]: Hadits riwayat Muslim No. 2328 dari Sayyidah 'Aisyah RA.  
-[^5]: Hasyim Asy'ari, *Adab al-'Alim wal Muta'allim*, hlm. 26.  
-[^6]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-'Ilm*, Jilid I, hlm. 58 mengenai etika niat mengajar demi akhirat.  
-[^7]: Dokumentasi Kasus Penegakan Kode Etik Asatidz, Badan Pengawas Pengasuhan Pesantren TUMBUH, 2026.  
-[^8]: Siegel, D. J. (2012), *The Developing Mind*, Guilford Press.  
-[^9]: Bowlby, J. (1988), *A Secure Base*, Basic Books, hlm. 27.  
-[^10]: Porges, S. W. (2011), *The Polyvagal Theory*, W. W. Norton.  
-[^11]: Greenleaf, R. K. (1977), *Servant Leadership*, Paulist Press.  
-[^12]: Hadits riwayat Al-Baihaqi dalam *Syu'abul Iman* No. 8224.  
-[^13]: Kohn, A. (1993), *Punished by Rewards*, Houghton Mifflin.  
-[^14]: Rubrik Pola Asuh Asrama Beradab, Tim Penjaminan Mutu PBIS TUMBUH, 2026.  
-[^15]: Nelsen, J. (2006), *Positive Discipline*, Ballantine Books.  
-[^16]: Deci, E. L., & Ryan, R. M. (2000), *Self-determination theory*, Psychological Inquiry.  
-[^17]: Pedoman Perlindungan Anak Pesantren: *Protokol Safe Touch & Child Safeguarding*, TUMBUH, 2026.  
-[^18]: Kode Etik Komunikasi Guru-Santri, Lembaga Pengembangan Pendidik TUMBUH, 2026.  
-[^19]: Peraturan Lembaga Pesantren TUMBUH Nomor 04 Tahun 2026 tentang Larangan Eksploitasi Tenaga Santri.  
-[^20]: Panduan Kerahasiaan Konseling Asrama, Divisi Bimbingan Konseling TUMBUH, 2026.
+[^1]: Riset Relasi Edukatif Murabbi-Santri Pesantren TUMBUH, *Kritik atas Feodalisme dan Relasi Kuasa Asimetris*, 2026.  
+[^2]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, Bab *Adab al-Mu'allim fi Nafsihi wa ma'a Thalabatihi*, hlm. 24–38.  
+[^3]: Ibid., hlm. 39–52.  
+[^4]: Bowlby, J. (1982), *Attachment and Loss*, hlm. 120–155; Sapolsky, R. M. (2017), *Behave*, hlm. 190–225.  
+[^5]: Hadits *Sayyidul Qawmi Khadimuhum* (HR. Al-Baghawi); Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 25–60.  
+[^6]: Dokumentasi Penegakan Kode Etik Pengasuhan dan Perlindungan Hak Santri PBIS TUMBUH, 2026.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 45–70.  
+[^8]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 55–80.  
+[^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 30–55.  
+[^10]: Matriks Tingkatan Kesadaran Relasi Edukatif (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Bimbingan Empat Mata dan Kode Etik Asatidz TUMBUH, 2026.  
+[^12]: Deklarasi Pemuliaan Relasi Guru-Murid Dewan Riset Pendidikan Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Relasi Edukatif & Psikologi Kelekatan
+### 4. Glosarium Istilah Ilmiah & Turats Relasi Edukatif
 
-1. **Qudwah Hasanah (الْقُدْوَةُ الْحَسَنَةُ)**: Keteladanan moral dan spiritual nyata dalam tindakan hidup sehari-hari yang menjadi rujukan utama bagi santri untuk berakhlak mulia.
-2. **In Loco Parentis**: Doktrin hukum dan etika pedagogis di mana guru/musyrif asrama mengemban fungsi, tanggung jawab moral, dan limpahan kasih sayang setara orang tua kandung selama santri berada di lingkungan pesantren.
-3. **Secure Attachment (Kelekatan Aman)**: Kondisi ikatan emosional yang sehat di mana anak merasa aman, dihargai, dan dilindungi oleh figur pengasuh, sehingga membebaskan energinya untuk belajar dan berekspresi positif tanpa ketakutan.
-4. **Sayyidul Qawmi Khadimuhum (سَيِّدُ الْقَوْمِ خَادِمُهُمْ)**: Doktrin kepemimpinan profetik bahwa pemimpin sejati adalah pelayan yang paling banyak mencurahkan tenaga dan perhatian untuk membimbing dan melayani kaum yang dipimpinnya.
-5. **Firm and Kind**: Prinsip interaksi pedagogis yang memadukan kehangatan kasih sayang (*Kindness / ar-Rifq*) dengan ketegasan batasan aturan yang adil (*Firmness / al-Haqq*) tanpa menggunakan kekerasan.
-6. **Co-Regulation (Ko-Regulasi Emosi)**: Proses biologis dan psikologis di mana kehadiran pendidik yang tenang, stabil, dan ramah membantu menstabilkan sistem saraf santri yang sedang mengalami badai emosi atau stres.
-7. **Ta'ridh (التَّعْرِيضُ)**: Metode peneguran adab secara halus dan tidak langsung (isyarat/sindiran bijak) untuk menjaga kehormatan diri santri agar tidak merasa dipermalukan di depan umum.
-8. **Feodalisme Relasi**: Pola hubungan asimetris yang menuntut kepatuhan buta, kultus individu, dan pemanfaatan tenaga santri untuk kepentingan pribadi guru/senior.
-9. **Secure Base**: Posisi figur pengasuh sebagai 'jangkar pelabuhan aman' tempat anak kembali mencari rasa tenang dan perlindungan saat menghadapi kecemasan atau kesulitan hidup.
-10. **Ihtiram Timbal-Balik (Reciprocal Respect)**: Penghormatan dua arah yang beradab: santri menghormati guru karena ilmu dan keteladanannya (*Ta'zhim*), dan guru menghormati santri karena kemuliaan fitrah dan hak martabat insaniahnya (*Ikram*).
+1. **Murabbi (الْمُرَبِّي)**: Pendidik, pengasuh, dan pembimbing jiwa yang mendidik santri dengan ketulusan kasih sayang dan keteladanan akhlak.
+2. **Qudwah Hasanah (الْقُدْوَةُ الْحَسَنَةُ)**: Keteladanan hidup yang nyata dan memikat yang dipancarkan oleh pendidik dalam setiap perkataan dan perbuatannya.
+3. **Ihtiram (الإِحْتِرَامُ)**: Rasa hormat dan takzim yang mendalam yang lahir dari keikhlasan kalbu dan pengakuan terhadap keutamaan ilmu.
+4. **Manzilah al-Awlad (مَنْزِلَةُ الأَوْلَادِ)**: Kedudukan santri yang wajib diperlakukan dan disayangi oleh pendidik laksana anak kandungnya sendiri.
+5. **Secure Attachment (Kelekatan Aman)**: Kondisi ikatan psikologis yang sehat di mana santri merasa aman, dilindungi, dan diterima oleh musyrifnya.
+6. **In Loco Parentis**: Tanggung jawab hukum dan moral pihak pesantren untuk bertindak sebagai orang tua pengganti selama santri berada di asrama.
+7. **Sayyidul Qawmi Khadimuhum**: Kaidah kenabian yang menegaskan bahwa pemimpin dan pendidik sejati adalah pelayan bagi orang-orang yang dibimbingnya.
+8. **Relasi Kuasa Asimetris**: Ketimpangan relasi kekuasaan di mana pihak yang lebih kuat (guru/senior) mengeksploitasi pihak yang lebih lemah (santri/junior).
+9. **Socratic Dialogue (Dialog Sokratik)**: Metode bimbingan berbasis pertanyaan reflektif yang menuntun santri menemukan hikmah dan kebenaran secara mandiri.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang terdidik dalam ekosistem kasih sayang, memiliki nalar kritis, berakhlak mulia, dan berjiwa ksatria.
