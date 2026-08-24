@@ -35,7 +35,7 @@
   - [6. Inkuiri 5: Penjagaan Ritme Energi Ruhani & Mental Santri Sepanjang Tahun Ajaran](#6-inkuiri-5-penjagaan-ritme-energi-ruhani--mental-santri-sepanjang-tahun-ajaran)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Pembiasaan, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-pembiasaan--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Tadarruj dan Istiqamah Kebiasaan Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-tadarruj-dan-istiqamah-kebiasaan-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Tadarruj dan Istiqamah Kebiasaan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-tadarruj-dan-istiqamah-kebiasaan-pesantren-tumbuh)
   - [2. Matriks Komparasi Pendekatan Pembiasaan: Pendekatan Instan Ekstrem vs Pendekatan Tadarruj Istiqamah TUMBUH](#2-matriks-komparasi-pendekatan-pembiasaan-pendekatan-instan-ekstrem-vs-pendekatan-tadarruj-istiqamah-tumbuh)
   - [3. Matriks 4 Hukum Perubahan Kebiasaan (The 4 Laws of Behavior Change) dalam Pembiasaan Adab Asrama](#3-matriks-4-hukum-perubahan-kebiasaan-the-4-laws-of-behavior-change-dalam-pembiasaan-adab-asrama)
   - [4. Protokol Pencegahan Sindrom Kejenuhan Santri (Anti-Futuwr Protocol)](#4-protokol-pencegahan-sindrom-kejenuhan-santri-anti-futuwr-protocol)
@@ -227,34 +227,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Tadarruj dan Istiqamah Kebiasaan Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Tadarruj dan Istiqamah Kebiasaan Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU TADARRUJ & ISTIQAMAH PEMBIASAAN ADAB PESANTREN
-                          SUB-DOMAIN 06: CHANGE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN SUNNAH NABAWIYAH AMAL ADWAMUHA WA IN QALLA (HR. BUKHARI),
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PEMBIASAAN KARAKTER:
+1. **Kewajiban Metodologi Pentahapan Hikmah (sunnah At-tadarruj)**:  
+   Pembiasaan adab dan ibadah santri wajib distrukturkan secara bertahap, realistis, dan selaras dengan perkembangan usia serta kesiapan mental santri. Menolak mutlak pemaksaan target ekstrem yang instan.
 
-1. KEWAJIBAN METODOLOGI PENTAHAPAN HIKMAH (SUNNAH AT-TADARRUJ):
-   Pembiasaan adab dan ibadah santri wajib distrukturkan secara bertahap, realistis, dan selaras dengan
-   perkembangan usia serta kesiapan mental santri. Menolak mutlak pemaksaan target ekstrem yang instan.
+2. **Keutamaan Kekontinuan Amal Mikro (atomic Habits & Istiqamah)**:  
+   Menegakkan prinsip pembiasaan kebiasaan mikro 1% setiap hari (Micro-Habits). Memprioritaskan konsistensi amalan yang kontinu (Dawam) sepanjang hayat di atas kuantitas amalan besar yang cepat terputus.
 
-2. KEUTAMAAN KEKONTINUAN AMAL MIKRO (ATOMIC HABITS & ISTIQAMAH):
-   Menegakkan prinsip pembiasaan kebiasaan mikro 1% setiap hari (Micro-Habits). Memprioritaskan
-   konsistensi amalan yang kontinu (Dawam) sepanjang hayat di atas kuantitas amalan besar yang cepat terputus.
+3. **Mitigasi Sindrom Kejenuhan Ruhani (anti-ghuluw & Anti-futuwr Charter)**:  
+   Lembaga menjamin keseimbangan ritme hidup santri 24 jam antara ibadah mahdhah, belajar, gizi seimbang, olahraga menggembirakan, dan istirahat tidur yang cukup demi menjaga kebugaran fitrah jasmani & ruhani.
 
-3. MITIGASI SINDROM KEJENUHAN RUHANI (ANTI-GHULUW & ANTI-FUTUWR CHARTER):
-   Lembaga menjamin keseimbangan ritme hidup santri 24 jam antara ibadah mahdhah, belajar, gizi seimbang,
-   olahraga menggembirakan, dan istirahat tidur yang cukup demi menjaga kebugaran fitrah jasmani & ruhani.
+4. **Sinergi Keluarga & Portofolio Adab Mandiri Liburan**:  
+   Pembiasaan adab tidak terputus oleh kalender liburan. Sinergi erat dibangun bersama wali santri melalui pemantauan jurnal adab mandiri di rumah demi merawat kesinambungan istiqamah adab seumur hidup.
 
-4. SINERGI KELUARGA & PORTOFOLIO ADAB MANDIRI LIBURAN:
-   Pembiasaan adab tidak terputus oleh kalender liburan. Sinergi erat dibangun bersama wali santri melalui
-   pemantauan jurnal adab mandiri di rumah demi merawat kesinambungan istiqamah adab seumur hidup.
-===================================================================================================
-```
 
 ---
 

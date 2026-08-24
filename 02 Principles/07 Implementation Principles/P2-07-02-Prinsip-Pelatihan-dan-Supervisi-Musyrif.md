@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Desain Halaqah Refleksi & Kalibrasi Adab Pekanan (Weekly Reflective Circle)](#5-inkuiri-4-desain-halaqah-refleksi--kalibrasi-adab-pekanan-weekly-reflective-circle)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Burnout Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-burnout-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
   - [2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (4 Modul Kompetensi)](#2-matriks-kurikulum-sertifikasi--diklat-musyrif-tumbuh-4-modul-kompetensi)
   - [3. Protokol Supervisi Klinis dan Peer Coaching Asrama Mingguan](#3-protokol-supervisi-klinis-dan-peer-coaching-asrama-mingguan)
   - [4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (Musyrif Wellness Charter)](#4-piagam-perlindungan-kesejahteraan--kesehatan-mental-musyrif-musyrif-wellness-charter)
@@ -183,34 +183,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU PELATIHAN & SUPERVISI MUSYRIF PESANTREN
-                         SUB-DOMAIN 07: IMPLEMENTATION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEHORMATAN AMANAH MURABBI DAN HAK-HAK KEMANUSIAAN PENDIDIK,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PENGEMBANGAN MUSYRIF:
+1. **Kewajiban Diklat & Sertifikasi Sebelum Bertugas (pre-service Training Mandate)**:  
+   Mengharamkan mutlak penugasan musyrif baru tanpa melalui program Pelatihan Sertifikasi Kompetensi Pengasuhan Adab TUMBUH minimal 40 jam pelatihan intensif (Teori, Roleplay, & Praktik Terbimbing).
 
-1. DOKTRIN KEWAJIBAN DIKLAT & SERTIFIKASI SEBELUM BERTUGAS (PRE-SERVICE TRAINING MANDATE):
-   Mengharamkan mutlak penugasan musyrif baru tanpa melalui program Pelatihan Sertifikasi Kompetensi
-   Pengasuhan Adab TUMBUH minimal 40 jam pelatihan intensif (Teori, Roleplay, & Praktik Terbimbing).
+2. **Penerapan Model Supervisi Peer Coaching Joyce & Showers**:  
+   Mewajibkan pendampingan langsung di asrama oleh Musyrif Senior Mentor (Peer Coaching) secara berkala, memastikan tercapainya tingkat transfer keterampilan de-eskalasi dan disiplin positif hingga 95%.
 
-2. PENERAPAN MODEL SUPERVISI PEER COACHING JOYCE & SHOWERS:
-   Mewajibkan pendampingan langsung di asrama oleh Musyrif Senior Mentor (Peer Coaching) secara berkala,
-   memastikan tercapainya tingkat transfer keterampilan de-eskalasi dan disiplin positif hingga 95%.
+3. **Perlindungan Kesejahteraan & Kesehatan Mental (anti-burnout Charter)**:  
+   Menjamin hak istirahat teratur musyrif (minimal 1 hari libur per pekan), batas maksimal rasio santri asuh (1 musyrif : 15–20 santri), jadwal tidur bergilir, dan akses konseling kesehatan mental gratis.
 
-3. MANDAT PERLINDUNGAN KESEJAHTERAAN & KESEHATAN MENTAL (ANTI-BURNOUT CHARTER):
-   Menjamin hak istirahat teratur musyrif (minimal 1 hari libur per pekan), batas maksimal rasio santri asuh
-   (1 musyrif : 15–20 santri), jadwal tidur bergilir, dan akses konseling kesehatan mental gratis.
+4. **Kewajiban Halaqah Refleksi & Tazkiyatun Nafs Pekanan (weekly Reflective Circle)**:  
+   Mewajibkan penyelenggaraan forum pertemuan mingguan 60 menit bagi seluruh musyrif sebagai wadah penguatan spiritualitas, pelepasan beban emosional, kalibrasi rubrik BARS, dan penguatan ukhuwah pengasuh.
 
-4. KEWAJIBAN HALAQAH REFLEKSI & TAZKIYATUN NAFS PEKANAN (WEEKLY REFLECTIVE CIRCLE):
-   Mewajibkan penyelenggaraan forum pertemuan mingguan 60 menit bagi seluruh musyrif sebagai wadah
-   penguatan spiritualitas, pelepasan beban emosional, kalibrasi rubrik BARS, dan penguatan ukhuwah pengasuh.
-===================================================================================================
-```
 
 ---
 
@@ -244,32 +232,20 @@ flowchart TD
 
 ### 4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (*Musyrif Wellness Charter*)
 
-```markdown
-===================================================================================================
-                  PIAGAM PERLINDUNGAN KESEJAHTERAAN & KESEHATAN MENTAL MUSYRIF
-                                PESANTREN TUMBUH — TAHUN AJARAN 2026/2027
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-Demi memastikan terwujudnya pengasuhan yang penuh kasih sayang dan bebas dari kekerasan,
-Yayasan dan Pimpinan Pesantren TUMBUH menetapkan hak-hak asasi musyrif sebagai berikut:
+1. **HAK Istirahat & Hari Libur Terjadwal Setiap musyrif berhak mendapatkan 1 (satu) hari libur penuh dalam setiap pekan yang diatur secara bergilir dengan jadwal pengganti yang jelas, bebas dari tugas pengawasan santri.**:  
+   
 
-PASAL 1: HAK ISTIRAHAT & HARI LIBUR TERJADWAL
-Setiap musyrif berhak mendapatkan 1 (satu) hari libur penuh dalam setiap pekan yang diatur secara
-bergilir dengan jadwal pengganti yang jelas, bebas dari tugas pengawasan santri.
+2. **Standarisasi Rasio Pengasuhan Sehat Rasio beban pengasuhan ditetapkan maksimal 1 (satu) musyrif mendampingi 15 hingga 20 orang santri. Kamar asrama dengan populasi di atas 20 santri wajib didampingi oleh 2 orang musyrif (Senior & Junior).**:  
+   
 
-PASAL 2: STANDARISASI RASIO PENGASUHAN SEHAT
-Rasio beban pengasuhan ditetapkan maksimal 1 (satu) musyrif mendampingi 15 hingga 20 orang santri.
-Kamar asrama dengan populasi di atas 20 santri wajib didampingi oleh 2 orang musyrif (Senior & Junior).
+3. **Fasilitas Kesejahteraan & Privasi Pengasuh Pesantren menyediakan kamar istirahat musyrif yang layak, asupan gizi yang sehat, tunjangan kehormatan pengasuhan yang bermartabat, serta perlindungan jaminan kesehatan medis.**:  
+   
 
-PASAL 3: FASILITAS KESEJAHTERAAN & PRIVASI PENGASUH
-Pesantren menyediakan kamar istirahat musyrif yang layak, asupan gizi yang sehat, tunjangan kehormatan
-pengasuhan yang bermartabat, serta perlindungan jaminan kesehatan medis.
+4. **Layanan Konseling & Kesehatan Mental Bebas Stigma Setiap musyrif berhak mengakses layanan konseling privat bersama psikolog/konselor BK secara berkala untuk mendiskusikan kelelahan emosional, stres kerja, maupun permasalahan pribadi tanpa catatan negatif.**:  
+   
 
-PASAL 4: LAYANAN KONSELING & KESEHATAN MENTAL BEBAS STIGMA
-Setiap musyrif berhak mengakses layanan konseling privat bersama psikolog/konselor BK secara berkala
-untuk mendiskusikan kelelahan emosional, stres kerja, maupun permasalahan pribadi tanpa catatan negatif.
-===================================================================================================
-```
 
 ---
 

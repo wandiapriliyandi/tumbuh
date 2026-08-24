@@ -29,7 +29,7 @@
   - [5. Inkuiri 4: Rekonstruksi Relasi Guru-Santri Berbasis Ukhuwah, Musyawarah, & Pemuliaan Martabat](#5-inkuiri-4-rekonstruksi-relasi-guru-santri-berbasis-ukhuwah-musyawarah--pemuliaan-martabat)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH](#1-deklarasi-doktrin-baku-pemurnian-adab-takdzim--pengharaman-feodalisme-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-pemurnian-adab-takdzim-pengharaman-feodalisme-pesantren-tumbuh)
   - [2. Matriks Komparasi Karakteristik: Tawadhu' Autentik Turats vs Feodalisme Otoritarian Toksik](#2-matriks-komparasi-karakteristik-tawadhu-autentik-turats-vs-feodalisme-otoritarian-toksik)
   - [3. Pakta Integritas Pendidik & Piagam Anti-Perpeloncoan Senioritas Asrama (Anti-Hazing Protocol)](#3-pakta-integritas-pendidik--piagam-anti-perpeloncoan-senioritas-asrama-anti-hazing-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -168,34 +168,22 @@ Imam **Az-Zarnuji** dalam *Ta'lim al-Muta'allim* dan Imam **Ibnu Jama'ah** dalam
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU PEMURNIAN ADAB TAKDZIM & PENGHARAMAN FEODALISME PESANTREN TUMBUH
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KELUHURAN ADAB NABAWI DAN KEBEBASAN FITRAH INSANI,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN BAKU PEMURNIAN ADAB TAKDZIM:
+1. **Kesetaraan Martabat Insan DI Hadapan Allah (egalitarianisme Islami)**:  
+   Menegaskan bahwa seluruh santri dan asatidz adalah hamba Allah yang setara kemuliaan martabatnya; kemuliaan sejati diukur dari ketakwaan dan adab (QS. Al-Hujurat: 13), bukan senioritas angkatan.
 
-1. DOKTRIN KESETARAAN MARTABAT INSAN DI HADAPAN ALLAH (EGALITARIANISME ISLAMI):
-   Menegaskan bahwa seluruh santri dan asatidz adalah hamba Allah yang setara kemuliaan martabatnya;
-   kemuliaan sejati diukur dari ketakwaan dan adab (QS. Al-Hujurat: 13), bukan senioritas angkatan.
+2. **Pengharaman Mutlak Segala Bentuk Tradisi Perpeloncoan Senioritas (zero Hazing)**:  
+   Mengharamkan tradisi sidang malam kamar gelap, pemukulan junior, perpeloncoan fisik/verbal, dan pemaksaan mencuci baju/melayani kebutuhan pribadi senior di seluruh lingkungan asrama.
 
-2. PENGHARAMAN MUTLAK SEGALA BENTUK TRADISI PERPELONCOAN SENIORITAS (ZERO HAZING):
-   Mengharamkan tradisi sidang malam kamar gelap, pemukulan junior, perpeloncoan fisik/verbal,
-   dan pemaksaan mencuci baju/melayani kebutuhan pribadi senior di seluruh lingkungan asrama.
+3. **Pemurnian Konsep Tawadhu' Dari Kepatuhan Buta (blind Obedience)**:  
+   Menegakkan Adab Takdzim yang bersumber dari rasa cinta, hormat pada ilmu, dan keikhlasan lillahi ta'ala; mengharamkan pembungkaman nalar kritis dan membuka ruang dialog ilmiah yang santun.
 
-3. PEMURNIAN KONSEP TAWADHU' DARI KEPATUHAN BUTA (BLIND OBEDIENCE):
-   Menegakkan Adab Takdzim yang bersumber dari rasa cinta, hormat pada ilmu, dan keikhlasan lillahi ta'ala;
-   mengharamkan pembungkaman nalar kritis dan membuka ruang dialog ilmiah yang santun.
+4. **Transformasi Peran Santri Senior Menjadi Duta Adab (servant Leadership)**:  
+   Mewajibkan seluruh santri senior memposisikan diri sebagai kakak pelindung, teladan qudwah, dan pembimbing yang menyayangi santri junior sebagaimana sunnah Rasulullah SAW.
 
-4. TRANSFORMASI PERAN SANTRI SENIOR MENJADI DUTA ADAB (SERVANT LEADERSHIP):
-   Mewajibkan seluruh santri senior memposisikan diri sebagai kakak pelindung, teladan qudwah,
-   dan pembimbing yang menyayangi santri junior sebagaimana sunnah Rasulullah SAW.
-===================================================================================================
-```
 
 ---
 

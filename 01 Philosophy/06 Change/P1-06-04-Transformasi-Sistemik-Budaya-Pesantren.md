@@ -32,7 +32,7 @@
   - [6. Inkuiri 5: Menjaga Momentum Keberlanjutan Transformasi Lintas Generasi Pimpinan](#6-inkuiri-5-menjaga-momentum-keberlanjutan-transformasi-lintas-generasi-pimpinan)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Transformasi Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-transformasi-riil--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Transformasi Sistemik Budaya Pesantren TUMBUH](#1-deklarasi-doktrin-baku-transformasi-sistemik-budaya-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Transformasi Sistemik Budaya Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-transformasi-sistemik-budaya-pesantren-tumbuh)
   - [2. Matriks 8 Tahap Transformasi Peradaban Pesantren (Kotter & Sunnah Nabawiyyah)](#2-matriks-8-tahap-transformasi-peradaban-pesantren-kotter--sunnah-nabawiyyah)
   - [3. Matriks Manajemen Resistensi Budaya: Kategori Stakeholder, Gejala Penolakan, & Solusi Dialogis](#3-matriks-manajemen-resistensi-budaya-kategori-stakeholder-gejala-penolakan--solusi-dialogis)
   - [4. Protokol Pelembagaan Budaya PBIS Berkelanjutan (Institutionalizing PBIS Culture Protocol)](#4-protokol-pelembagaan-budaya-pbis-berkelanjutan-institutionalizing-pbis-culture-protocol)
@@ -203,35 +203,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Transformasi Sistemik Budaya Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Transformasi Sistemik Budaya Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU TRANSFORMASI SISTEMIK BUDAYA PESANTREN TUMBUH
-                          SUB-DOMAIN 06: CHANGE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAMBIL SPIRIT HIJRAH NABAWIYAH MENUJU PERADABAN MADANIYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU TRANSFORMASI SISTEMIK:
+1. **Perubahan Sistemik Menyeluruh (total Systemic Transformation)**:  
+   Transformasi budaya pesantren wajib menyentuh seluruh dimensi lembaga secara simultan: Worldview Tauhid, Regulasi SOP tertulis, Pembinaan SDM Asatidz/Musyrif, Arsitektur Tata Ruang, dan Analitik Data. Menolak segala bentuk reformasi seremonial atau tambal sulam parsial.
 
-1. DOKTRIN PERUBAHAN SISTEMIK MENYELURUH (TOTAL SYSTEMIC TRANSFORMATION):
-   Transformasi budaya pesantren wajib menyentuh seluruh dimensi lembaga secara simultan: Worldview
-   Tauhid, Regulasi SOP tertulis, Pembinaan SDM Asatidz/Musyrif, Arsitektur Tata Ruang, dan Analitik Data.
-   Menolak segala bentuk reformasi seremonial atau tambal sulam parsial.
+2. **Penerapan Model Tahapan Perubahan Peradaban (lewin-kotter Framework)**:  
+   Lembaga memandu perubahan melalui 3 fase berkesinambungan: Pencairan Urgensi (Unfreezing), Penggerakan Inovasi Restoratif (Moving), dan Pembekuan Tradisi Baku Berkelanjutan (Refreezing).
 
-2. PENERAPAN MODEL TAHAPAN PERUBAHAN PERADABAN (LEWIN-KOTTER FRAMEWORK):
-   Lembaga memandu perubahan melalui 3 fase berkesinambungan: Pencairan Urgensi (Unfreezing),
-   Penggerakan Inovasi Restoratif (Moving), dan Pembekuan Tradisi Baku Berkelanjutan (Refreezing).
+3. **Pendekatan Jembatan Turats Terhadap Resistensi (bridging Turats With Pbis)**:  
+   Mengatasi penolakan budaya lama melalui dialog keilmuan yang bersumber dari Turats Islam klasik, menegaskan bahwa penegakan adab penuh kasih sayang dan keadilan adalah warisan otentik para ulama salaf.
 
-3. PENDEKATAN JEMBATAN TURATS TERHADAP RESISTENSI (BRIDGING TURATS WITH PBIS):
-   Mengatasi penolakan budaya lama melalui dialog keilmuan yang bersumber dari Turats Islam klasik,
-   menegaskan bahwa penegakan adab penuh kasih sayang dan keadilan adalah warisan otentik para ulama salaf.
+4. **Pelembagaan Data Digital & Suksesi Sistemik (data-driven Institutional Memory)**:  
+   Budaya pembiasaan adab dikunci ke dalam platform logbook digital dan sistem manajemen mutu, menjamin keberlanjutan tradisi Bi'ah Shalihah lintas generasi pimpinan tanpa terputus.
 
-4. PELEMBAGAAN DATA DIGITAL & SUKSESI SISTEMIK (DATA-DRIVEN INSTITUTIONAL MEMORY):
-   Budaya pembiasaan adab dikunci ke dalam platform logbook digital dan sistem manajemen mutu,
-   menjamin keberlanjutan tradisi Bi'ah Shalihah lintas generasi pimpinan tanpa terputus.
-===================================================================================================
-```
 
 ---
 

@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Protokol Serah Terima Informasi Antar-Shift (Shift Handover) Bebas Kebocoran Privasi](#5-inkuiri-4-protokol-serah-terima-informasi-antar-shift-shift-handover-bebas-kebocoran-privasi)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Operasional Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-operasional-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH](#1-deklarasi-doktrin-baku-prinsip-desain-sop-dan-alur-kerja-musyrif-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-sop-dan-alur-kerja-musyrif-tumbuh)
   - [2. Matriks 5 SOP Inti Pengasuhan Asrama Pesantren 24 Jam](#2-matriks-5-sop-inti-pengasuhan-asrama-pesantren-24-jam)
   - [3. Diagram Alur SOP Tanggap Darurat Medis & Krisis Perilaku Santri](#3-diagram-alur-sop-tanggap-darurat-medis--krisis-perilaku-santri)
   - [4. Protokol Handover Antar-Shift Musyrif Asrama (Shift Handover Protocol)](#4-protokol-handover-antar-shift-musyrif-asrama-shift-handover-protocol)
@@ -190,34 +190,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU PERANCANGAN SOP DAN ALUR KERJA MUSYRIF PESANTREN
-                          SUB-DOMAIN 02: DESIGN PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN HAK KEBUGARAN JASMANI DAN KEBERKAHAN PENGABDIAN ASATIDZ,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU ALUR KERJA PENGASUHAN:
+1. **Alur Kerja Human-centered (human-centered Workflow Design)**:  
+   Setiap Prosedur Operasional Baku (SOP) pengasuhan asrama wajib dirancang untuk memudahkan pelayanan, menjamin kejelasan tanggung jawab (Job Description), dan melindungi musyrif dari beban kerja berlebih.
 
-1. DOKTRIN ALUR KERJA HUMAN-CENTERED (HUMAN-CENTERED WORKFLOW DESIGN):
-   Setiap Prosedur Operasional Baku (SOP) pengasuhan asrama wajib dirancang untuk memudahkan pelayanan,
-   menjamin kejelasan tanggung jawab (Job Description), dan melindungi musyrif dari beban kerja berlebih.
+2. **Penerapan Sistem Manajemen Shift & HAK Libur Mandatori (mandatory Day-off)**:  
+   Lembaga menjamin pembagian jam kerja pendampingan santri maksimal 8–10 jam kerja aktif per hari melalui sistem shift yang teratur, serta menjamin hak 1 hari libur penuh (24 jam) per pekan bagi setiap musyrif.
 
-2. PENERAPAN SISTEM MANAJEMEN SHIFT & HAK LIBUR MANDATORI (MANDATORY DAY-OFF):
-   Lembaga menjamin pembagian jam kerja pendampingan santri maksimal 8–10 jam kerja aktif per hari melalui
-   sistem shift yang teratur, serta menjamin hak 1 hari libur penuh (24 jam) per pekan bagi setiap musyrif.
+3. **Protokol Tanggap Darurat Medis & Krisis Satu Pintu (emergency Response Protocol)**:  
+   Penanganan insiden medis dan krisis emosional santri wajib mengikuti alur baku penanganan medis terpadu, pencatatan logbook digital, serta komunikasi terkoordinasi satu pintu kepada pihak keluarga/wali santri.
 
-3. PROTOKOL TANGGAP DARURAT MEDIS & KRISIS SATU PINTU (EMERGENCY RESPONSE PROTOCOL):
-   Penanganan insiden medis dan krisis emosional santri wajib mengikuti alur baku penanganan medis terpadu,
-   pencatatan logbook digital, serta komunikasi terkoordinasi satu pintu kepada pihak keluarga/wali santri.
+4. **Kewajiban Briefing Serah Terima Tugas Berkala (shift Handover Standard)**:  
+   Setiap pergantian shift jaga wajib menyelenggarakan sesi serah terima informasi selama 10 menit berbasis data logbook digital guna menjamin kesinambungan pengasuhan santri tanpa celah kelalaian.
 
-4. KEWAJIBAN BRIEFING SERAH TERIMA TUGAS BERKALA (SHIFT HANDOVER STANDARD):
-   Setiap pergantian shift jaga wajib menyelenggarakan sesi serah terima informasi selama 10 menit
-   berbasis data logbook digital guna menjamin kesinambungan pengasuhan santri tanpa celah kelalaian.
-===================================================================================================
-```
 
 ---
 

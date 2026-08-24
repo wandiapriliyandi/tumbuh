@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Teknik Asesmen Cepat di Kelas: Exit Tickets, Cold Calling Ramah, & Papan Mini](#5-inkuiri-4-teknik-asesmen-cepat-di-kelas-exit-tickets-cold-calling-ramah--papan-mini)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas Madrasah, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kelas-madrasah--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-didaktik-interaktif-dan-asesmen-formatif-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-didaktik-interaktif-dan-asesmen-formatif-pesantren-tumbuh)
   - [2. Matriks 5 Struktur Kagan Cooperative Learning dalam Pembelajaran Kitab & Sains](#2-matriks-5-struktur-kagan-cooperative-learning-dalam-pembelajaran-kitab--sains)
   - [3. Matriks 5 Strategi Kunci Asesmen Formatif Dylan Wiliam & Aplikasi Nyata di Kelas Pesantren](#3-matriks-5-strategi-kunci-asesmen-formatif-dylan-wiliam--aplikasi-nyata-di-kelas-pesantren)
   - [4. Protokol Umpan Balik Formatif Konstruktif (Actionable Feedback Protocol)](#4-protokol-umpan-balik-formatif-konstruktif-actionable-feedback-protocol)
@@ -191,34 +191,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU DIDAKTIK INTERAKTIF DAN ASESMEN FORMATIF PESANTREN
-                          SUB-DOMAIN 03: LEARNING PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENELADANI KELUHURAN SENI DIDAKTIK NABAWI DAN KEADILAN ASESMEN PENDIDIKAN,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PEMBELAJARAN INTERAKTIF:
+1. **Penghapusan Kelas Monolog Pasif (active Participation Mandate)**:  
+   Menolak segala bentuk ceramah monolog satu arah yang menempatkan santri sebagai pendengar pasif. Setiap sesi pembelajaran wajib mengaktifkan 100% santri secara serempak melalui struktur Kagan Cooperative.
 
-1. DOKTRIN PENGHAPUSAN KELAS MONOLOG PASIF (ACTIVE PARTICIPATION MANDATE):
-   Menolak segala bentuk ceramah monolog satu arah yang menempatkan santri sebagai pendengar pasif.
-   Setiap sesi pembelajaran wajib mengaktifkan 100% santri secara serempak melalui struktur Kagan Cooperative.
+2. **Penerapan 5 Strategi Kunci Asesmen Formatif Dylan Wiliam**:  
+   Setiap asatidz wajib menggunakan asesmen formatif harian untuk memantau bukti pemahaman santri secara real-time dan menyesuaikan strategi didaktik sebelum proses pembelajaran berakhir.
 
-2. PENERAPAN 5 STRATEGI KUNCI ASESMEN FORMATIF DYLAN WILIAM:
-   Setiap asatidz wajib menggunakan asesmen formatif harian untuk memantau bukti pemahaman santri secara
-   real-time dan menyesuaikan strategi didaktik sebelum proses pembelajaran berakhir.
+3. **Umpan Balik Berdaya Tanpa Vonis Stigma (actionable Feedback Charter)**:  
+   Mengharamkan vonis angka kering tanpa bimbingan. Setiap koreksi tugas santri wajib memuat komentar panduan konstruktif yang menunjukkan letak kelebihan, kekurangan, dan langkah perbaikan konkret.
 
-3. DOKTRIN UMPAN BALIK BERDAYA TANPA VONIS STIGMA (ACTIONABLE FEEDBACK CHARTER):
-   Mengharamkan vonis angka kering tanpa bimbingan. Setiap koreksi tugas santri wajib memuat komentar
-   panduan konstruktif yang menunjukkan letak kelebihan, kekurangan, dan langkah perbaikan konkret.
+4. **Protokol Asesmen Cepat Ramah Fitrah (exit Tickets & Psychological Safety)**:  
+   Mewajibkan pemanfaatan Exit Tickets 5 menit di akhir kelas, Cold Calling yang ramah dan suportif, serta membangun budaya kelas yang memandang kesalahan sebagai jembatan mulia menuju pemahaman sejati.
 
-4. PROTOKOL ASESMEN CEPAT RAMAH FITRAH (EXIT TICKETS & PSYCHOLOGICAL SAFETY):
-   Mewajibkan pemanfaatan Exit Tickets 5 menit di akhir kelas, Cold Calling yang ramah dan suportif,
-   serta membangun budaya kelas yang memandang kesalahan sebagai jembatan mulia menuju pemahaman sejati.
-===================================================================================================
-```
 
 ---
 

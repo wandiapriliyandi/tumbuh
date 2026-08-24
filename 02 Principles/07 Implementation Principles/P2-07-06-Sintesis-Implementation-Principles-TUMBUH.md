@@ -33,7 +33,7 @@
   - [2. Matriks Uji Kesiapan Skalabilitas & Replikasi Sistem (System Scalability & Readiness Matrix)](#2-matriks-uji-kesiapan-skalabilitas--replikasi-sistem-system-scalability--readiness-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Tata Kelola Lapangan](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-tata-kelola-lapangan)
   - [4. Puncak Penutupan Paripurna Domain 02 Principles Menuju Domain 03 Architecture](#4-puncak-penutupan-paripurna-domain-02-principles-menuju-domain-03-architecture)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU TATA KELOLA IMPLEMENTASI](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-tata-kelola-implementasi)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TATA KELOLA IMPLEMENTASI](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-tata-kelola-implementasi)
   - [1. Grand Manifesto Tata Kelola & Implementasi Lapangan Pesantren TUMBUH](#1-grand-manifesto-tata-kelola--implementasi-lapangan-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 5 Pilar Implementasi ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-implementasi-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Standarisasi Akreditasi Pesantren TUMBUH Mandiri](#3-protokol-penjaminan-mutu--standarisasi-akreditasi-pesantren-tumbuh-mandiri)
@@ -123,46 +123,32 @@ graph TD
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU TATA KELOLA IMPLEMENTASI
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TATA KELOLA IMPLEMENTASI
 
 ---
 
-### 1. Grand Manifesto Tata Kelola & Implementasi Lapangan Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Tata Kelola & Implementasi Lapangan Pesantren TUMBUH
 
-```
-===================================================================================================
-      GRAND MANIFESTO TATA KELOLA & IMPLEMENTASI LAPANGAN PESANTREN TUMBUH (GOVERNANCE CHARTER)
-                  PUNCAK PENUTUPAN PARIPURNA MASTER DOMAIN 02: PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN AMANAH PERADABAN ISLAM DAN KELUHURAN TARBIYAH NABAWIYYAH,
-MAJELIS MASYAIKH TERTINGGI BERSAMA SELURUH DEWAN KEILMUAN DENGAN INI MENETAPKAN GRAND MANIFESTO:
+1. **Kepemimpinan Perubahan Budaya Sistemik (kotter Change Model) Mewajibkan transformasi budaya pesantren dari kultur koersif-feodal menuju ekosistem adab berbasis Qudwah, mengharamkan mutlak justifikasi kekerasan berdalih tradisi masa lalu (Survivorship Bias).**:  
+   
 
-PASAL 1: MANDAT KEPEMIMPINAN PERUBAHAN BUDAYA SISTEMIK (KOTTER CHANGE MODEL)
-Mewajibkan transformasi budaya pesantren dari kultur koersif-feodal menuju ekosistem adab berbasis Qudwah,
-mengharamkan mutlak justifikasi kekerasan berdalih tradisi masa lalu (Survivorship Bias).
+2. **Sertifikasi & Perlindungan Kesejahteraan Musyrif (anti-burnout Charter) Menetapkan kewajiban diklat 40 jam bersertifikasi sebelum penugasan musyrif, pendampingan Peer Coaching langsung di asrama (retensi 95%), serta menjamin hak istirahat teratur, libur mingguan, dan konseling bebas stigma.**:  
+   
 
-PASAL 2: MANDAT SERTIFIKASI & PERLINDUNGAN KESEJAHTERAAN MUSYRIF (ANTI-BURNOUT CHARTER)
-Menetapkan kewajiban diklat 40 jam bersertifikasi sebelum penugasan musyrif, pendampingan Peer Coaching
-langsung di asrama (retensi 95%), serta menjamin hak istirahat teratur, libur mingguan, dan konseling bebas stigma.
+3. **Kemitraan Tripartit 6 Pilar Epstein & Kesinambungan Adab Mengharamkan paradigma lepas tangan orang tua. Mewajibkan sinergi pengasuhan berkelanjutan antara asrama dan keluarga di rumah melalui Piagam Adab Liburan dan etika komunikasi digital Tabayyun privat.**:  
+   
 
-PASAL 3: MANDAT KEMITRAAN TRIPARTIT 6 PILAR EPSTEIN & KESINAMBUNGAN ADAB
-Mengharamkan paradigma lepas tangan orang tua. Mewajibkan sinergi pengasuhan berkelanjutan antara asrama
-dan keluarga di rumah melalui Piagam Adab Liburan dan etika komunikasi digital Tabayyun privat.
+4. **Penjaminan Mutu Kaizen Pdca & Audit Kepatuhan Pbis (tfi $\ge 80\%$) Mewajibkan penyelenggaraan siklus mutu Pdca bulanan dan Audit Mutu Internal semesteran berbasis data analitik faktual logbook Pbis 24 jam, memastikan tercapainya standar kepatuhan implementasi minimal 80%.**:  
+   
 
-PASAL 4: MANDAT PENJAMINAN MUTU KAIZEN PDCA & AUDIT KEPATUHAN PBIS (TFI $\ge 80\%$)
-Mewajibkan penyelenggaraan siklus mutu PDCA bulanan dan Audit Mutu Internal semesteran berbasis data analitik
-faktual logbook PBIS 24 jam, memastikan tercapainya standar kepatuhan implementasi minimal 80%.
+5. **Khidmah Sosial & Bi'ah Nafi'ah Bagi Warga Sekitar Mengharamkan eksklusivisme menara gading; mewajibkan pesantren mengalirkan kemanfaatan air bersih, kesehatan, pasar berkah ekonomi lokal, beasiswa anak warga desa sekitar, dan dakwah rahmatan lil 'alamin.**:  
+   
 
-PASAL 5: MANDAT KHIDMAH SOSIAL & BI'AH NAFI'AH BAGI WARGA SEKITAR
-Mengharamkan eksklusivisme menara gading; mewajibkan pesantren mengalirkan kemanfaatan air bersih, kesehatan,
-pasar berkah ekonomi lokal, beasiswa anak warga desa sekitar, dan dakwah rahmatan lil 'alamin.
+6. **Integrasi Total Triad Pertumbuhan Simbiotik Sebagai Hukum Tertinggi Menetapkan bahwa setiap regulasi dan tindakan operasional wajib secara serempak menumbuhkan Santri, memuliakan Pendidik/Musyrif, serta memperkokoh kemaslahatan, kredibilitas, dan keberkahan Lembaga.**:  
+   
 
-PASAL 6: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK SEBAGAI HUKUM TERTINGGI
-Menetapkan bahwa setiap regulasi dan tindakan operasional wajib secara serempak menumbuhkan Santri,
-memuliakan Pendidik/Musyrif, serta memperkokoh kemaslahatan, kredibilitas, dan keberkahan Lembaga.
-===================================================================================================
-```
 
 ---
 

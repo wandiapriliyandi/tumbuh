@@ -34,7 +34,7 @@
   - [2. Matriks Uji Kelaikan Intervensi Lapangan (Intervention Feasibility & Usability Matrix)](#2-matriks-uji-kelaikan-intervensi-lapangan-intervention-feasibility--usability-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Intervensi Restoratif](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-intervensi-restoratif)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 07 Implementation Principles](#4-jembatan-epistemologis-menuju-sub-domain-07-implementation-principles)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU INTERVENSI RESTORATIF](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-intervensi-restoratif)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL INTERVENSI RESTORATIF](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-intervensi-restoratif)
   - [1. Grand Manifesto Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH](#1-grand-manifesto-disiplin-positif--pemulihan-restoratif-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Intervensi ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-intervensi-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Intervensi Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-intervensi-berkelanjutan)
@@ -131,50 +131,35 @@ graph LR
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU INTERVENSI RESTORATIF
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL INTERVENSI RESTORATIF
 
 ---
 
-### 1. Grand Manifesto Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH
 
-```
-===================================================================================================
-     GRAND MANIFESTO DISIPLIN POSITIF & PEMULIHAN RESTORATIF PESANTREN TUMBUH (INTERVENTION CHARTER)
-                     PUNCAK SUB-DOMAIN 06: INTERVENTION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEAGUNGAN SUNNAH ISHLAH NABAWIYYAH DAN KEHORMATAN UKHUWAH,
-MAJELIS MASYAIKH DAN DEWAN KEILMUAN PESANTREN TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO:
+1. **Pencegahan Proaktif Multi-tier Pbis (tier 1, Tier 2, Tier 3) Menegakkan sistem dukungan perilaku berjenjang**:  
+   mengutamakan pencegahan universal (Tier 1) dengan rasio 4:1, bimbingan CICO terarah (Tier 2), dan pendampingan mendalam tim Wraparound (Tier 3) bebas paradigma pembalasan.
 
-PASAL 1: MANDAT PENCEGAHAN PROAKTIF MULTI-TIER PBIS (TIER 1, TIER 2, TIER 3)
-Menegakkan sistem dukungan perilaku berjenjang: mengutamakan pencegahan universal (Tier 1) dengan rasio 4:1,
-bimbingan CICO terarah (Tier 2), dan pendampingan mendalam tim Wraparound (Tier 3) bebas paradigma pembalasan.
+2. **Analisis Fungsi Perilaku Model ABC (fba & BIP Framework) Mewajibkan diagnosis mendalam terhadap fungsi motif (Menghindar vs Mencari) sebelum menjatuhkan tindakan, serta mewajibkan pengajaran perilaku pengganti yang beradab (Replacement Behavior) melalui dokumen Bip.**:  
+   
 
-PASAL 2: MANDAT ANALISIS FUNGSI PERILAKU MODEL ABC (FBA & BIP FRAMEWORK)
-Mewajibkan diagnosis mendalam terhadap fungsi motif (Menghindar vs Mencari) sebelum menjatuhkan tindakan,
-serta mewajibkan pengajaran perilaku pengganti yang beradab (Replacement Behavior) melalui dokumen BIP.
+3. **Protokol De-eskalasi 3R & Ketenangan Bapak (sifat Al-hilm) Mengharamkan mutlak penanganan amarah santri dengan bentakan atau kekerasan fisik. Mewajibkan penerapan urutan 3R**:  
+   Regulate (Tenangkan) -> Relate (Hubungkan) -> Reason (Ajak Nalar) dengan prinsip Co-Regulation.
 
-PASAL 3: MANDAT PROTOKOL DE-ESKALASI 3R & KETENANGAN BAPAK (SIFAT AL-HILM)
-Mengharamkan mutlak penanganan amarah santri dengan bentakan atau kekerasan fisik. Mewajibkan penerapan
-urutan 3R: Regulate (Tenangkan) -> Relate (Hubungkan) -> Reason (Ajak Nalar) dengan prinsip Co-Regulation.
+4. **Konferensi Restoratif Ishlah Al-bain & Konsekuensi Logis 4R Menolak pembalasan retributif. Mewajibkan pemulihan kerugian korban melalui formula Konsekuensi Logis 4R (Related, Respectful, Reasonable, Restorative) serta menjamin musyawarah damai yang memulihkan hati.**:  
+   
 
-PASAL 4: MANDAT KONFERENSI RESTORATIF ISHLAH AL-BAIN & KONSEKUENSI LOGIS 4R
-Menolak pembalasan retributif. Mewajibkan pemulihan kerugian korban melalui formula Konsekuensi Logis 4R
-(Related, Respectful, Reasonable, Restorative) serta menjamin musyawarah damai yang memulihkan hati.
+5. **Perlindungan Maqashid Siber & Kanal Pengaduan Aman Menegakkan perlindungan Hifzhun Nafs wal-'Irdh di ranah fisik dan siber, memberantas cyberbullying, dan menyediakan kanal pelaporan rahasia Kotak Tabayyun yang menjamin keamanan pelapor.**:  
+   
 
-PASAL 5: MANDAT PERLINDUNGAN MAQASHID SIBER & KANAL PENGADUAN AMAN
-Menegakkan perlindungan Hifzhun Nafs wal-'Irdh di ranah fisik dan siber, memberantas cyberbullying,
-dan menyediakan kanal pelaporan rahasia Kotak Tabayyun yang menjamin keamanan pelapor.
+6. **Reintegrasi Sosial Total & Clean Slate Protocol Menegakkan doktrin At-Taubatu Tajubbu Ma Qablaha; menghapus mutlak pelabelan buruk dan memutihkan rekam jejak digital santri pasca-penuntasan konsekuensi restoratif demi membuka masa depan yang suci.**:  
+   
 
-PASAL 6: MANDAT REINTEGRASI SOSIAL TOTAL & CLEAN SLATE PROTOCOL
-Menegakkan doktrin At-Taubatu Tajubbu Ma Qablaha; menghapus mutlak pelabelan buruk dan memutihkan rekam jejak
-digital santri pasca-penuntasan konsekuensi restoratif demi membuka masa depan yang suci.
+7. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa setiap tindakan intervensi secara serempak memulihkan adab dan martabat Santri, memuliakan profesionalisme Musyrif/Guru, serta menegakkan kemaslahatan dan keberkahan Lembaga.**:  
+   
 
-PASAL 7: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Memastikan bahwa setiap tindakan intervensi secara serempak memulihkan adab dan martabat Santri,
-memuliakan profesionalisme Musyrif/Guru, serta menegakkan kemaslahatan dan keberkahan Lembaga.
-===================================================================================================
-```
 
 ---
 

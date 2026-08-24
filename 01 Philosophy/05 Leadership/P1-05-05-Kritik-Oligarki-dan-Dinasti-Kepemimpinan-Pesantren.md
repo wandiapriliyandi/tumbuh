@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Rekonstruksi Meritokrasi Syar'i: Kriteria Al-Qawiyyul Amin (QS. Al-Qashash: 26)](#4-inkuiri-3-rekonstruksi-meritokrasi-syari-kriteria-al-qawiyyul-amin-qs-al-qashash-26)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH](#1-deklarasi-doktrin-baku-meritokrasi-syari--anti-oligarki-kepemimpinan-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-meritokrasi-syar-i-anti-oligarki-kepemimpinan-pesantren-tumbuh)
   - [2. Matriks Komparasi Sistem Kepemimpinan: Dinasti Oligarki Tertutup vs Meritokrasi Syura TUMBUH](#2-matriks-komparasi-sistem-kepemimpinan-dinasti-oligarki-tertutup-vs-meritokrasi-syura-tumbuh)
   - [3. Standar Prosedur Operasional (SOP) Suksesi Kepemimpinan & Akuntabilitas Tata Kelola Yayasan](#3-standar-prosedur-operasional-sop-suksesi-kepemimpinan--akuntabilitas-tata-kelola-yayasan)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -156,34 +156,22 @@ $$\text{قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأ
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU MERITOKRASI SYAR'I & ANTI-OLIGARKI KEPEMIMPINAN PESANTREN TUMBUH
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KELUHURAN AMANAH SYARIAT DAN KEADILAN ISLAM,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN BAKU TATA KELOLA KEPEMIMPINAN:
+1. **Kepemimpinan Sebagai Amanah Ummah (bukan HAK Milik Dinasti Pribadi)**:  
+   Menegaskan bahwa kepemimpinan pesantren adalah amanah peradaban dan titipan wakaf Allah SWT; mengharamkan praktik nepotisme, oligarki dinasti tertutup, dan privatisasi aset wakaf umat.
 
-1. DOKTRIN KEPEMIMPINAN SEBAGAI AMANAH UMMAH (BUKAN HAK MILIK DINASTI PRIBADI):
-   Menegaskan bahwa kepemimpinan pesantren adalah amanah peradaban dan titipan wakaf Allah SWT;
-   mengharamkan praktik nepotisme, oligarki dinasti tertutup, dan privatisasi aset wakaf umat.
+2. **Penegakan Standar Meritokrasi Syar'i (al-qawiyyul Amin)**:  
+   Setiap suksesi mudir, pimpinan lembaga, dan kepala divisi wajib melalui seleksi terbuka berdasarkan kualifikasi kedalaman ilmu (al-Quwwah), integritas moral (al-Amanah), dan keteladanan (Qudwah).
 
-2. PENEGAKAN STANDAR MERITOKRASI SYAR'I (AL-QAWIYYUL AMIN):
-   Setiap suksesi mudir, pimpinan lembaga, dan kepala divisi wajib melalui seleksi terbuka berdasarkan
-   kualifikasi kedalaman ilmu (al-Quwwah), integritas moral (al-Amanah), dan keteladanan (Qudwah).
+3. **Kepemimpinan Kolektif-kolegial Berbasis Majelis Syura Independen**:  
+   Menghapus pemusatan kekuasaan mutlak satu individu (otoritarianisme); seluruh keputusan strategis kebijakan, keuangan, dan kurikulum wajib diputuskan melalui musyawarah Majelis Syura yang beradab.
 
-3. KEPEMIMPINAN KOLEKTIF-KOLEGIAL BERBASIS MAJELIS SYURA INDEPENDEN:
-   Menghapus pemusatan kekuasaan mutlak satu individu (otoritarianisme); seluruh keputusan strategis
-   kebijakan, keuangan, dan kurikulum wajib diputuskan melalui musyawarah Majelis Syura yang beradab.
+4. **Transparansi Keuangan DAN Audit Publik Berkala**:  
+   Mewajibkan tata kelola keuangan terbuka, pemisahan mutlak rekening yayasan vs pribadi pengurus, dan kewajiban audit tahunan oleh Kantor Akuntan Publik (KAP) independen bersertifikasi.
 
-4. MANDAT TRANSPARANSI KEUANGAN DAN AUDIT PUBLIK BERKALA:
-   Mewajibkan tata kelola keuangan terbuka, pemisahan mutlak rekening yayasan vs pribadi pengurus,
-   dan kewajiban audit tahunan oleh Kantor Akuntan Publik (KAP) independen bersertifikasi.
-===================================================================================================
-```
 
 ---
 

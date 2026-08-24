@@ -34,7 +34,7 @@
   - [6. Inkuiri 5: Penanganan Fase Kekambuhan (Relapse Management) Tanpa Stigmatisasi Moral](#6-inkuiri-5-penanganan-fase-kekambuhan-relapse-management-tanpa-stigmatisasi-moral)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Perubahan Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-perubahan-riil--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH](#1-deklarasi-doktrin-baku-hukum-kausalitas-perubahan-jiwa-dan-perilaku-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH](#1-kaidah-utama-dan-standar-baku-hukum-kausalitas-perubahan-jiwa-dan-perilaku-tumbuh)
   - [2. Matriks 5 Tahap Kesiapan Berubah (TTM Prochaska) vs Pendekatan Pembinaan Musyrif](#2-matriks-5-tahap-kesiapan-berubah-ttm-prochaska-vs-pendekatan-pembinaan-musyrif)
   - [3. Matriks Diferensiasi Intervensi Perilaku Berdasarkan Kesiapan Jiwa Santri](#3-matriks-diferensiasi-intervensi-perilaku-berdasarkan-kesiapan-jiwa-santri)
   - [4. Protokol Diagnosis Kesiapan Berubah Santri (Readiness to Change Diagnostic Protocol)](#4-protokol-diagnosis-kesiapan-berubah-santri-readiness-to-change-diagnostic-protocol)
@@ -235,35 +235,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU HUKUM PERUBAHAN JIWA & PERILAKU PESANTREN TUMBUH
-                          SUB-DOMAIN 06: CHANGE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MEYAKINI SUNNATULLAH KAUSALITAS PERUBAHAN TRANSENDENTAL (QS. AR-RA'D: 11),
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU DINAMIKA PERUBAHAN:
+1. **Poros Utama Perubahan Dari Dalam Jiwa (MA BI Anfusihim)**:  
+   Perubahan karakter dan adab santri yang sejati berakar pada kehendak sadar di kedalaman nurani. Menolak segala bentuk ilusi pemaksaan perubahan instan melalui teror fisik atau rasa malu publik.
 
-1. POROS UTAMA PERUBAHAN DARI DALAM JIWA (MA BI ANFUSIHIM):
-   Perubahan karakter dan adab santri yang sejati berakar pada kehendak sadar di kedalaman nurani.
-   Menolak segala bentuk ilusi pemaksaan perubahan instan melalui teror fisik atau rasa malu publik.
+2. **Penerapan Model Tahapan Perubahan Kognitif (transtheoretical Stages OF Change)**:  
+   Musyrif dan asatidz wajib memperlakukan perubahan santri sebagai proses perkembangan bertahap (TTM): Precontemplation, Contemplation, Preparation, Action, dan Maintenance. Pendekatan bimbingan wajib diselaraskan secara presisi dengan tingkat kesiapan psikologis santri yang bersangkutan.
 
-2. PENERAPAN MODEL TAHAPAN PERUBAHAN KOGNITIF (TRANSTHEORETICAL STAGES OF CHANGE):
-   Musyrif dan asatidz wajib memperlakukan perubahan santri sebagai proses perkembangan bertahap (TTM):
-   Precontemplation, Contemplation, Preparation, Action, dan Maintenance. Pendekatan bimbingan wajib
-   diselaraskan secara presisi dengan tingkat kesiapan psikologis santri yang bersangkutan.
+3. **HAK Perlindungan Dari Stigmatisasi Moral & Manajemen Kekambuhan (relapse)**:  
+   Setiap santri yang mengalami kekambuhan khilaf berhak mendapatkan pendampingan pemulihan klinis tanpa dicap buruk atau divonis putus asa. Kesalahan diposisikan sebagai momentum evaluasi belajar adab.
 
-3. HAK PERLINDUNGAN DARI STIGMATISASI MORAL & MANAJEMEN KEKAMBUHAN (RELAPSE):
-   Setiap santri yang mengalami kekambuhan khilaf berhak mendapatkan pendampingan pemulihan klinis
-   tanpa dicap buruk atau divonis putus asa. Kesalahan diposisikan sebagai momentum evaluasi belajar adab.
+4. **Keharaman Papan AIB DAN Hukuman Mempermalukan Publik (zero Public Shaming)**:  
+   Mengharamkan 100% segala bentuk pengumuman aib pelanggaran, penggantungan kalung penghinaan, atau tindakan mempermalukan santri di depan umum yang merusak martabat fitrah kemanusiaannya.
 
-4. KEHARAMAN PAPAN AIB DAN HUKUMAN MEMPERMALUKAN PUBLIK (ZERO PUBLIC SHAMING):
-   Mengharamkan 100% segala bentuk pengumuman aib pelanggaran, penggantungan kalung penghinaan,
-   atau tindakan mempermalukan santri di depan umum yang merusak martabat fitrah kemanusiaannya.
-===================================================================================================
-```
 
 ---
 

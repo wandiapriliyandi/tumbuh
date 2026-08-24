@@ -31,7 +31,7 @@
   - [4. Inkuiri 3: Eliminasi Scabies & Manajemen Protokol Jemur Kasur Bebas Tungau (Zero Scabies Protocol)](#4-inkuiri-3-eliminasi-scabies--manajemen-protokol-jemur-kasur-bebas-tungau-zero-scabies-protocol)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-desain-fasilitas-sanitasi--kesehatan-asrama-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-desain-fasilitas-sanitasi-kesehatan-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Arsitektur Fisik Asrama: Parameter, Nilai Ambang Baku, & Verifikasi Kelaikan](#2-matriks-standar-arsitektur-fisik-asrama-parameter-nilai-ambang-baku--verifikasi-kelaikan)
   - [3. Standar Prosedur Operasional (SOP) Manajemen Kebersihan Harian & Pengendalian Vektor Penyakit](#3-standar-prosedur-operasional-sop-manajemen-kebersihan-harian--pengendalian-vektor-penyakit)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -152,34 +152,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU STANDAR DESAIN FASILITAS SANITASI & ASRAMA SEHAT PESANTREN TUMBUH
-                          SUB-DOMAIN 02: DESIGN PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KESUCIAN THAHARAH DAN KEMULIAAN JASAD SANTRI,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN BAKU DESAIN SANITASI ASRAMA:
+1. **Penghapusan Mutlak Wabah Penyakit Kulit Menular (zero Scabies Mandate)**:  
+   Menetapkan bahwa asrama pesantren wajib bebas 100% dari penyakit kudis/scabies dan jamur kulit; mengharamkan pembiaran sanitasi kumuh atas dalih mitos tradisi tirakat.
 
-1. DOKTRIN PENGHAPUSAN MUTLAK WABAH PENYAKIT KULIT MENULAR (ZERO SCABIES MANDATE):
-   Menetapkan bahwa asrama pesantren wajib bebas 100% dari penyakit kudis/scabies dan jamur kulit;
-   mengharamkan pembiaran sanitasi kumuh atas dalih mitos tradisi tirakat.
+2. **Penerapan Standar Rasio Fasilitas Sanitasi Sehat 1**:  
+   5: Mewajibkan ketersediaan minimal 1 kamar mandi/toilet untuk setiap 5–7 santri pria dan 1:5 santri wanita, dilengkapi air bersih standar Permenkes (0 CFU E. Coli) dan saluran pembuangan higienis tertutup.
 
-2. PENERAPAN STANDAR RASIO FASILITAS SANITASI SEHAT 1:5:
-   Mewajibkan ketersediaan minimal 1 kamar mandi/toilet untuk setiap 5–7 santri pria dan 1:5 santri wanita,
-   dilengkapi air bersih standar Permenkes (0 CFU E. Coli) dan saluran pembuangan higienis tertutup.
+3. **Kenyamanan Termal & Ventilasi Silang Alami (cross Ventilation)**:  
+   Mewajibkan rancang bangun kamar asrama dengan sirkulasi udara silang, plafon tinggi minimal 3,2 meter, suhu ruangan terjaga 24–27°C, dan pencahayaan alami minimal 300 Lux pada siang hari.
 
-3. MANDAT KENYAMANAN TERMAL & VENTILASI SILANG ALAMI (CROSS VENTILATION):
-   Mewajibkan rancang bangun kamar asrama dengan sirkulasi udara silang, plafon tinggi minimal 3,2 meter,
-   suhu ruangan terjaga 24–27°C, dan pencahayaan alami minimal 300 Lux pada siang hari.
+4. **Kewajiban Protokol Sterilisasi Berkala & Poskestren Siaga 24 JAM**:  
+   Menegakkan SOP jemur kasur mingguan, sterilisasi sprei air panas, penyediaan sabun antiseptik mengalir, serta pemantauan kesehatan berkala oleh Pos Kesehatan Pesantren (Poskestren) yang terakreditasi.
 
-4. KEWAJIBAN PROTOKOL STERILISASI BERKALA & POSKESTREN SIAGA 24 JAM:
-   Menegakkan SOP jemur kasur mingguan, sterilisasi sprei air panas, penyediaan sabun antiseptik mengalir,
-   serta pemantauan kesehatan berkala oleh Pos Kesehatan Pesantren (Poskestren) yang terakreditasi.
-===================================================================================================
-```
 
 ---
 

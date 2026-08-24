@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Transformasi Nafs Lawwamah Menjadi Kekuatan Regulasi Diri (Self-Correction Engine)](#5-inkuiri-4-transformasi-nafs-lawwamah-menjadi-kekuatan-regulasi-diri-self-correction-engine)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH](#1-deklarasi-doktrin-baku-hakikat-dinamika-nafs-insan-santri-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-dinamika-nafs-insan-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Tiga Tingkat Nafs, Fungsi Otak Neurosains, & Strategi Pembinaan Asrama](#2-matriks-integrasi-tiga-tingkat-nafs-fungsi-otak-neurosains--strategi-pembinaan-asrama)
   - [3. Protokol Tazkiyatun Nafs Harian Musyrif & Santri (Muhasabah & Riyadhah 24 Jam)](#3-protokol-tazkiyatun-nafs-harian-musyrif--santri-muhasabah--riyadhah-24-jam)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -192,35 +192,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU HAKIKAT DINAMIKA NAFS INSAN SANTRI PESANTREN
-                          SUB-DOMAIN 02: HUMAN NATURE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN HAKIKAT FITRAH RUHANIYAH DAN MAQASHID TAZKIYATUN NAFS,
-MAJELIS MASYAIKH DAN DEWAN KEILMUAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU DINAMIKA JIWA:
+1. **Pengakuan Tiga Tingkatan Jiwa Manusia (three-tiered Nafs Doctrine)**:  
+   Menolak segala bentuk pelabelan mutlak hitam-putih terhadap pribadi santri. Menetapkan bahwa setiap santri berada dalam dinamika perjuangan batin antara Nafs Ammarah bis-Su', Nafs Lawwamah yang penuh introspeksi, dan Nafs Muthmainnah yang kokoh dalam ketakwaan.
 
-1. DOKTRIN PENGAKUAN TIGA TINGKATAN JIWA MANUSIA (THREE-TIERED NAFS DOCTRINE):
-   Menolak segala bentuk pelabelan mutlak hitam-putih terhadap pribadi santri.
-   Menetapkan bahwa setiap santri berada dalam dinamika perjuangan batin antara Nafs Ammarah bis-Su',
-   Nafs Lawwamah yang penuh introspeksi, dan Nafs Muthmainnah yang kokoh dalam ketakwaan.
+2. **Penetapan Peran Pendidik Sebagai Dokter Jiwa (tabibul Qulub)**:  
+   Seluruh asatidz dan musyrif wajib memposisikan diri sebagai pembimbing jiwa yang mengidentifikasi akar dorongan biologis/emosional santri dan membantu mentransformasikannya menuju adab luhur.
 
-2. PENETAPAN PERAN PENDIDIK SEBAGAI DOKTER JIWA (TABIBUL QULUB):
-   Seluruh asatidz dan musyrif wajib memposisikan diri sebagai pembimbing jiwa yang mengidentifikasi
-   akar dorongan biologis/emosional santri dan membantu mentransformasikannya menuju adab luhur.
+3. **Pemberdayaan Nafs Lawwamah Sebagai Mesin Regulasi Diri**:  
+   Mengoptimalkan rasa penyesalan nurani santri menjadi tindakan perbaikan nyata dan restitusi restoratif, mengharamkan mutlak penanaman rasa malu beracun (Toxic Shame) atau keputusasaan dari rahmat Allah.
 
-3. MANDAT PEMBERDAYAAN NAFS LAWWAMAH SEBAGAI MESIN REGULASI DIRI:
-   Mengoptimalkan rasa penyesalan nurani santri menjadi tindakan perbaikan nyata dan restitusi restoratif,
-   mengharamkan mutlak penanaman rasa malu beracun (Toxic Shame) atau keputusasaan dari rahmat Allah.
+4. **Penerapan Metodologi Riyadhah Al-'ilaju Bidh-dhiddi Al-ghazali**:  
+   Mewajibkan standarisasi latihan pembiasaan adab harian 24 jam yang mengobati kecenderungan negatif nafsu melalui amalan kebalikannya yang maslahat (rendah hati mengobati sombong, sabar mengobati amarah).
 
-4. PENERAPAN METODOLOGI RIYADHAH AL-'ILAJU BIDH-DHIDDI AL-GHAZALI:
-   Mewajibkan standarisasi latihan pembiasaan adab harian 24 jam yang mengobati kecenderungan negatif
-   nafsu melalui amalan kebalikannya yang maslahat (rendah hati mengobati sombong, sabar mengobati amarah).
-===================================================================================================
-```
 
 ---
 

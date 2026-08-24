@@ -34,7 +34,7 @@
   - [2. Matriks Uji Kelaikan Perkembangan Lapangan (Developmental Usability & Feasibility Matrix)](#2-matriks-uji-kelaikan-perkembangan-lapangan-developmental-usability--feasibility-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Pengasuhan Asrama](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-pengasuhan-asrama)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 05 Assessment Principles](#4-jembatan-epistemologis-menuju-sub-domain-05-assessment-principles)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU PERKEMBANGAN JIWA](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-perkembangan-jiwa)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PERKEMBANGAN JIWA](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-perkembangan-jiwa)
   - [1. Grand Manifesto Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH](#1-grand-manifesto-perlindungan--maturasi-fitrah-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Perkembangan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-perkembangan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Pengasuhan Asrama Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-pengasuhan-asrama-berkelanjutan)
@@ -131,50 +131,35 @@ graph LR
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU PERKEMBANGAN JIWA
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PERKEMBANGAN JIWA
 
 ---
 
-### 1. Grand Manifesto Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH
 
-```
-===================================================================================================
-    GRAND MANIFESTO PERLINDUNGAN & MATURASI FITRAH SANTRI PESANTREN TUMBUH (CHILD DEVELOPMENT CHARTER)
-                     PUNCAK SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN HAK KESELAMATAN FITRAH ANAK DAN AMANAH TARBIYAH NABAWIYYAH,
-MAJELIS MASYAIKH DAN DEWAN KEILMUAN PESANTREN TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO:
+1. **Penghormatan Maturasi Neurobiologis Remaja Menegakkan pengasuhan yang selaras dengan kesenjangan maturasi otak remaja (Dual-Systems Model). Menetapkan peran musyrif sebagai Prefrontal Cortex Eksternal dan mengharamkan mutlak hukuman fisik.**:  
+   
 
-PASAL 1: MANDAT PENGHORMATAN MATURASI NEUROBIOLOGIS REMAJA
-Menegakkan pengasuhan yang selaras dengan kesenjangan maturasi otak remaja (Dual-Systems Model).
-Menetapkan peran musyrif sebagai Prefrontal Cortex Eksternal dan mengharamkan mutlak hukuman fisik.
+2. **Pengasuhan Kasih Sayang IN Loco Parentis Mewajibkan seluruh pengasuh asrama memperlakukan santri laksana anak kandung sendiri (Bi Manzilatil Walid), menyediakan Pelabuhan Nyaman (Safe Haven) dan Pangkalan Aman (Secure Base) yang memulihkan homesickness.**:  
+   
 
-PASAL 2: MANDAT PENGASUHAN KASIH SAYANG IN LOCO PARENTIS
-Mewajibkan seluruh pengasuh asrama memperlakukan santri laksana anak kandung sendiri (Bi Manzilatil Walid),
-menyediakan Pelabuhan Nyaman (Safe Haven) dan Pangkalan Aman (Secure Base) yang memulihkan homesickness.
+3. **Diferensiasi Pengasuhan Berjenjang Tangga T1–t4 Menolak penyeragaman pola asuh. Mewajibkan pendampingan penuh di Tangga T1, pembiasaan mandiri di Tangga T2, kemitraan nalar di Tangga T3, dan pemberdayaan kepemimpinan pengabdian (Khidmah) di Tangga T4.**:  
+   
 
-PASAL 3: MANDAT DIFERENSIASI PENGASUHAN BERJENJANG TANGGA T1–T4
-Menolak penyeragaman pola asuh. Mewajibkan pendampingan penuh di Tangga T1, pembiasaan mandiri di Tangga T2,
-kemitraan nalar di Tangga T3, dan pemberdayaan kepemimpinan pengabdian (Khidmah) di Tangga T4.
+4. **Integrasi Sosial-emosional Casel & Tazkiyatun Nafs Mengintegrasikan 5 kompetensi kecerdasan emosi (Muraqabah, Mujahadah, Empati Ukhuwah, Ishlah al-Bain, Hikmah) ke dalam ritme kehidupan 24 jam serta menegakkan Lingkaran Restoratif dalam penyelesaian konflik.**:  
+   
 
-PASAL 4: MANDAT INTEGRASI SOSIAL-EMOSIONAL CASEL & TAZKIYATUN NAFS
-Mengintegrasikan 5 kompetensi kecerdasan emosi (Muraqabah, Mujahadah, Empati Ukhuwah, Ishlah al-Bain, Hikmah)
-ke dalam ritme kehidupan 24 jam serta menegakkan Lingkaran Restoratif dalam penyelesaian konflik.
+5. **Navigasi Krisis Identitas & Penghapusan Geng Eksklusif Memperlakukan santri remaja sebagai sahabat dialog (Khawikhum), menghapus mutlak tradisi perpeloncoan, dan menyalurkan energi muda ke dalam wadah prestasi ilmiah dan pengabdian umat.**:  
+   
 
-PASAL 5: MANDAT NAVIGASI KRISIS IDENTITAS & PENGHAPUSAN GENG EKSKLUSIF
-Memperlakukan santri remaja sebagai sahabat dialog (Khawikhum), menghapus mutlak tradisi perpeloncoan,
-dan menyalurkan energi muda ke dalam wadah prestasi ilmiah dan pengabdian umat.
+6. **Penguatan Resiliensi & Daya Juang (prophetic Grit) Membina ketangguhan mental santri menghadapi kesulitan belajar tahfizh melalui paradigma antirapuh (Antifragile) dan mengaktifkan protokol pemulihan kejenuhan (Futuwr Recovery) secara empatik.**:  
+   
 
-PASAL 6: MANDAT PENGUATAN RESILIENSI & DAYA JUANG (PROPHETIC GRIT)
-Membina ketangguhan mental santri menghadapi kesulitan belajar tahfizh melalui paradigma antirapuh (Antifragile)
-dan mengaktifkan protokol pemulihan kejenuhan (Futuwr Recovery) secara empatik.
+7. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa setiap kebijakan pengasuhan secara serempak menyuburkan keselamatan jiwa Santri, memuliakan keikhlasan dan kompetensi Musyrif, serta memperkokoh reputasi dan keberkahan Lembaga.**:  
+   
 
-PASAL 7: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Memastikan bahwa setiap kebijakan pengasuhan secara serempak menyuburkan keselamatan jiwa Santri,
-memuliakan keikhlasan dan kompetensi Musyrif, serta memperkokoh reputasi dan keberkahan Lembaga.
-===================================================================================================
-```
 
 ---
 

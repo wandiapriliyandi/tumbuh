@@ -32,7 +32,7 @@
   - [2. Matriks Komparasi Filosofis Pendidikan: Esensialisme, Progresivisme, Perenialisme vs Ta'dib Holistik TUMBUH](#2-matriks-komparasi-filosofis-pendidikan-esensialisme-progresivisme-perenialisme-vs-tadib-holistik-tumbuh)
   - [3. Dekonstruksi Total Paradigma Pendidikan Kolonial & Komersial](#3-dekonstruksi-total-paradigma-pendidikan-kolonial--komersial)
   - [4. Jembatan Filosofis & Pedagogis Menuju Sub-Domain 05 Leadership](#4-jembatan-filosofis--pedagogis-menuju-sub-domain-05-leadership)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU FILSAFAT PENDIDIKAN](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-filsafat-pendidikan)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL FILSAFAT PENDIDIKAN](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-filsafat-pendidikan)
   - [1. Grand Manifesto Kelembagaan Pedagogi Adab Pesantren TUMBUH](#1-grand-manifesto-kelembagaan-pedagogi-adab-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Pendidikan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-pendidikan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu Keberkahan dan Keunggulan Pembelajaran](#3-protokol-penjaminan-mutu-keberkahan-dan-keunggulan-pembelajaran)
@@ -112,44 +112,32 @@ graph TD
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU FILSAFAT PENDIDIKAN
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL FILSAFAT PENDIDIKAN
 
 ---
 
-### 1. Grand Manifesto Kelembagaan Pedagogi Adab Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Kelembagaan Pedagogi Adab Pesantren TUMBUH
 
-```
-===================================================================================================
-     GRAND MANIFESTO KELEMBAGAAN PEDAGOGI ADAB PESANTREN (ADAB-CENTERED PEDAGOGY GRAND MANIFESTO)
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DEWAN KEILMUAN BESERTA SELURUH MASYAIKH DAN PIMPINAN LEMBAGA PESANTREN
-EKOSISTEM TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO KELEMBAGAAN PEDAGOGI ADAB:
+1. **Pendidikan Sebagai Ta'dib Pesantren Tumbuh menegakkan Ta'dib sebagai ruh tertinggi seluruh aktivitas pendidikan. Setiap mata pelajaran, halaqah kitab, kegiatan asrama, dan interaksi sosial wajib diarahkan pada penanaman adab.**:  
+   
 
-PASAL 1: MANDAT PENDIDIKAN SEBAGAI TA'DIB
-Pesantren TUMBUH menegakkan Ta'dib sebagai ruh tertinggi seluruh aktivitas pendidikan. Setiap mata
-pelajaran, halaqah kitab, kegiatan asrama, dan interaksi sosial wajib diarahkan pada penanaman adab.
+2. **Prinsip Relasi Kasih Sayang Ayah Spiritual (IN Loco Parentis) Menolak mutlak feodalisme relasi kuasa asimetris. Guru dan musyrif adalah ayah spiritual yang mencintai santrinya laksana anak kandung sendiri (Manzilah al-Awlad), membimbing dengan kelembutan (ar-Rifq).**:  
+   
 
-PASAL 2: PRINSIP RELASI KASIH SAYANG AYAH SPIRITUAL (IN LOCO PARENTIS)
-Menolak mutlak feodalisme relasi kuasa asimetris. Guru dan musyrif adalah ayah spiritual yang mencintai
-santrinya laksana anak kandung sendiri (Manzilah al-Awlad), membimbing dengan kelembutan (ar-Rifq).
+3. **Penegakan Disiplin Restoratif & Zero Tolerance Kekerasan Hukuman fisik, pembentakan, perpeloncoan senior, dan penelanjangan aib Dinyatakan Haram DAN Dilarang 100%. Penanganan pelanggaran wajib menggunakan Keadilan Restoratif (Ishlah) dan formula Konsekuensi 4R.**:  
+   
 
-PASAL 3: PENEGAKAN DISIPLIN RESTORATIF & ZERO TOLERANCE KEKERASAN
-Hukuman fisik, pembentakan, perpeloncoan senior, dan penelanjangan aib DINYATAKAN HARAM DAN DILARANG 100%.
-Penanganan pelanggaran wajib menggunakan Keadilan Restoratif (Ishlah) dan formula Konsekuensi 4R.
+4. **Didaktik Pengajaran Nabawi & Kelas Bebas Ancaman Mewajibkan seluruh guru mempraktikkan seni mengajar Rasulullah SAW dan pembelajaran kooperatif aktif. Ruang kelas dinyatakan sebagai Zona Bebas Rasa Takut (Threat-Free Learning Environment).**:  
+   
 
-PASAL 4: DIDAKTIK PENGAJARAN NABAWI & KELAS BEBAS ANCAMAN
-Mewajibkan seluruh guru mempraktikkan seni mengajar Rasulullah SAW dan pembelajaran kooperatif aktif.
-Ruang kelas dinyatakan sebagai Zona Bebas Rasa Takut (Threat-Free Learning Environment).
+5. **Pembasmian Total Tradisi Feodalisme Senioritas (zero Hazing) Mengharamkan tradisi sidang malam kamar gelap, intimidasi junior, dan mitos sesat kekerasan sebagai barakah.**:  
+   
 
-PASAL 5: PEMBASMIAN TOTAL TRADISI FEODALISME SENIORITAS (ZERO HAZING)
-Mengharamkan tradisi sidang malam kamar gelap, intimidasi junior, dan mitos sesat kekerasan sebagai barakah.
+6. **Integrasi Ekosistem Bi'ah Shalihah Living Curriculum 24 JAM Menyatukan 4 lokus kehidupan (Masjid, Kelas, Kamar, Meja Makan) dalam satu arsitektur ekologis yang sehat.**:  
+   
 
-PASAL 6: INTEGRASI EKOSISTEM BI'AH SHALIHAH LIVING CURRICULUM 24 JAM
-Menyatukan 4 lokus kehidupan (Masjid, Kelas, Kamar, Meja Makan) dalam satu arsitektur ekologis yang sehat.
-===================================================================================================
-```
 
 ---
 

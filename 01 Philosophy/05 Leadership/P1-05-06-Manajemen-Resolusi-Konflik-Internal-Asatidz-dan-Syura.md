@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Anatomi 4 Tahap Protokol Tabayyun & Pemulihan Ukhuwah di Pesantren](#4-inkuiri-3-anatomi-4-tahap-protokol-tabayyun--pemulihan-ukhuwah-di-pesantren)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH](#1-deklarasi-doktrin-baku-piagam-fiqh-ikhtilaf--rekonsiliasi-asatidz-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-fiqh-ikhtilaf-rekonsiliasi-asatidz-pesantren-tumbuh)
   - [2. Matriks Penanganan Tipologi Konflik Internal, Saluran Mediasi, & Solusi Ishlah](#2-matriks-penanganan-tipologi-konflik-internal-saluran-mediasi--solusi-ishlah)
   - [3. Standar Prosedur Operasional (SOP) Mediasi Restoratif & Majelis Ishlah Pendidik](#3-standar-prosedur-operasional-sop-mediasi-restoratif--majelis-ishlah-pendidik)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -151,34 +151,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU FIQH IKHTILAF & REKONSILIASI ASATIDZ EKOSISTEM PESANTREN TUMBUH
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KESUCIAN UKHUWAH ISLAMIYYAH DAN INTEGRITAS DAKWAH,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN RESOLUSI KONFLIK ASATIDZ:
+1. **Kesucian Ukhuwah DI Atas Perbedaan Pendapat (adabul Ikhtilaf)**:  
+   Menetapkan bahwa perbedaan metodologi dan pemikiran adalah dinamika ijtihad yang terhormat; mengharamkan mutlak penyesatan, hasad, ghibah, dan permusuhan personal antartenaga pendidik.
 
-1. DOKTRIN KESUCIAN UKHUWAH DI ATAS PERBEDAAN PENDAPAT (ADABUL IKHTILAF):
-   Menetapkan bahwa perbedaan metodologi dan pemikiran adalah dinamika ijtihad yang terhormat;
-   mengharamkan mutlak penyesatan, hasad, ghibah, dan permusuhan personal antartenaga pendidik.
+2. **Kewajiban Penegakan Tabayyun & Larangan Membawa Konflik KE Hadapan Santri**:  
+   Setiap perselisihan wajib diselesaikan melalui mekanisme Tabayyun privat dan Majelis Mediasi Syura. Dilarang keras menyindir rekan sejawat di depan santri, kelas, atau ruang publik media sosial.
 
-2. KEWAJIBAN PENEGAKAN TABAYYUN & LARANGAN MEMBAWA KONFLIK KE HADAPAN SANTRI:
-   Setiap perselisihan wajib diselesaikan melalui mekanisme Tabayyun privat dan Majelis Mediasi Syura.
-   Dilarang keras menyindir rekan sejawat di depan santri, kelas, atau ruang publik media sosial.
+3. **Penerapan Mediasi Restoratif Berbasis Maslahat Santri (interest-based Mediation)**:  
+   Proses mediasi difokuskan pada perlindungan hak belajar santri dan pencarian solusi menang-menang (win-win), bukan mencari siapa yang menang atau mempermalukan pihak yang keliru.
 
-3. PENERAPAN MEDIASI RESTORATIF BERBASIS MASLAHAT SANTRI (INTEREST-BASED MEDIATION):
-   Proses mediasi difokuskan pada perlindungan hak belajar santri dan pencarian solusi menang-menang (win-win),
-   bukan mencari siapa yang menang atau mempermalukan pihak yang keliru.
+4. **Pengharaman Mutlak Faksionalisme & Politik Kubulisasi DI Ruang Guru**:  
+   Mengharamkan pembentukan faksi/geng permusuhan yang memecah belah persatuan asatidz. Lembaga menegakkan sanksi tegas bagi pihak yang memprovokasi perpecahan di lingkungan pesantren.
 
-4. PENGHARAMAN MUTLAK FAKSIONALISME & POLITIK KUBULISASI DI RUANG GURU:
-   Mengharamkan pembentukan faksi/geng permusuhan yang memecah belah persatuan asatidz.
-   Lembaga menegakkan sanksi tegas bagi pihak yang memprovokasi perpecahan di lingkungan pesantren.
-===================================================================================================
-```
 
 ---
 

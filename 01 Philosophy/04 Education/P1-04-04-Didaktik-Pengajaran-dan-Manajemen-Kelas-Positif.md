@@ -40,7 +40,7 @@
   - [6. Inkuiri 5: Manajemen Kelas Positif: Rutinitas Terstruktur, Transisi Mulus, & Asesmen Formatif Otentik](#6-inkuiri-5-manajemen-kelas-positif-rutinitas-terstruktur-transisi-mulus--asesmen-formatif-otentik)
   - [7. Inkuiri 6: Translasi Didaktik Positif ke Budaya Akademik Madrasah Pesantren 24 Jam](#7-inkuiri-6-translasi-didaktik-positif-ke-budaya-akademik-madrasah-pesantren-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH](#1-deklarasi-doktrin-baku-didaktik-pengajaran-ramah-otak-dan-manajemen-kelas-positif-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH](#1-kaidah-utama-dan-standar-baku-didaktik-pengajaran-ramah-otak-dan-manajemen-kelas-positif-tumbuh)
   - [2. Matriks 7 Metode Didaktik Pengajaran Nabawi & Konvergensi Pedagogi Kontemporer](#2-matriks-7-metode-didaktik-pengajaran-nabawi--konvergensi-pedagogi-kontemporer)
   - [3. Matriks Prosedur Manajemen Kelas Positif: Rutinitas, Transisi, & Respon Distraksi](#3-matriks-prosedur-manajemen-kelas-positif-rutinitas-transisi--respon-distraksi)
   - [4. Protokol Penjaminan Mutu Mengajar Guru (Classroom Quality Assurance Protocol)](#4-protokol-penjaminan-mutu-mengajar-guru-classroom-quality-assurance-protocol)
@@ -252,36 +252,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU DIDAKTIK PENGAJARAN & MANAJEMEN KELAS POSITIF
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN ALLAH YANG MENGAJARKAN MANUSIA DENGAN PENA (AL-QALAM),
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU DIDAKTIK PENGAJARAN:
+1. **HAK Keselamatan Psikologis Kelas (threat-free Classroom Right)**:  
+   Setiap santri berhak belajar di ruang kelas yang aman dari segala bentuk ancaman, ejekan, pembentakan, dan kekerasan fisik. Kesalahan dalam menjawab pertanyaan atau membaca teks kitab diakui sebagai titik tolak suci proses pembelajaran (Teachable Moments).
 
-1. HAK KESELAMATAN PSIKOLOGIS KELAS (THREAT-FREE CLASSROOM RIGHT):
-   Setiap santri berhak belajar di ruang kelas yang aman dari segala bentuk ancaman, ejekan, pembentakan,
-   dan kekerasan fisik. Kesalahan dalam menjawab pertanyaan atau membaca teks kitab diakui sebagai
-   titik tolak suci proses pembelajaran (Teachable Moments).
+2. **Penerapan Seni Didaktik Nabawi & Pembelajaran Aktif**:  
+   Seluruh guru wajib mengintegrasikan metode pengajaran Rasulullah SAW (analogi amtsal, dialog sokratik, visualisasi sketsa, studi kasus nyata) dan struktur pembelajaran kooperatif aktif (Kagan Structures). Dilarang keras menggunakan metode ceramah monolog satu arah 100% yang membosankan.
 
-2. PENERAPAN SENI DIDAKTIK NABAWI & PEMBELAJARAN AKTIF:
-   Seluruh guru wajib mengintegrasikan metode pengajaran Rasulullah SAW (analogi amtsal, dialog sokratik,
-   visualisasi sketsa, studi kasus nyata) dan struktur pembelajaran kooperatif aktif (Kagan Structures).
-   Dilarang keras menggunakan metode ceramah monolog satu arah 100% yang membosankan.
+3. **Manajemen Kelas Positif Berbasis Rutinitas**:  
+   Pengelolaan kelas wajib ditegakkan di atas prosedur rutinitas yang jelas, transisi non-verbal yang ramah, dan penciptaan suasana kewaspadaan yang rileks (Relaxed Alertness) selaras dengan neurosains kognitif.
 
-3. MANAJEMEN KELAS POSITIF BERBASIS RUTINITAS:
-   Pengelolaan kelas wajib ditegakkan di atas prosedur rutinitas yang jelas, transisi non-verbal yang ramah,
-   dan penciptaan suasana kewaspadaan yang rileks (Relaxed Alertness) selaras dengan neurosains kognitif.
+4. **Asesmen Formatif Otentik & Penguatan Rasio 4**:  
+   1: Evaluasi belajar harian diarahkan untuk mendiagnosis pemahaman dan merayakan kemajuan personal santri, didukung oleh pemberian umpan balik positif secara melimpah (minimal rasio 4 apresiasi : 1 koreksi).
 
-4. ASESMEN FORMATIF OTENTIK & PENGUATAN RASIO 4:1:
-   Evaluasi belajar harian diarahkan untuk mendiagnosis pemahaman dan merayakan kemajuan personal santri,
-   didukung oleh pemberian umpan balik positif secara melimpah (minimal rasio 4 apresiasi : 1 koreksi).
-===================================================================================================
-```
 
 ---
 

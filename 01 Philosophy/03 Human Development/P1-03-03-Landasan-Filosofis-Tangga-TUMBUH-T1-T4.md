@@ -35,7 +35,7 @@
   - [6. Inkuiri 5: Dekonstruksi Perankingan Komparatif Toksik Menuju Asesmen Pertumbuhan Ipsatif](#6-inkuiri-5-dekonstruksi-perankingan-komparatif-toksik-menuju-asesmen-pertumbuhan-ipsatif)
   - [7. Inkuiri 6: Translasi Tangga TUMBUH ke Dashboard Digital & Tata Kelola Pengasuhan Asrama 24 Jam](#7-inkuiri-6-translasi-tangga-tumbuh-ke-dashboard-digital--tata-kelola-pengasuhan-asrama-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri](#1-deklarasi-doktrin-baku-tangga-pertumbuhan-tumbuh-t1t4--hak-bertumbuh-santri)
+  - [1. Kaidah Utama dan Standar Baku: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri](#1-kaidah-utama-dan-standar-baku-tangga-pertumbuhan-tumbuh-t1-t4-hak-bertumbuh-santri)
   - [2. Matriks Komprehensif 4 Etape Tangga TUMBUH: Tingkat Kemandirian & Kebutuhan Scaffolding Musyrif](#2-matriks-komprehensif-4-etape-tangga-tumbuh-tingkat-kemandirian--kebutuhan-scaffolding-musyrif)
   - [3. Matriks Progresi 7 Tahap Perkembangan Santri: Menuju Tahap 7 Penggerak](#3-matriks-progresi-7-tahap-perkembangan-santri-menuju-tahap-7-penggerak)
   - [4. Protokol Asesmen Ipsatif: SOP Evaluasi Kemajuan Mandiri Non-Komparatif](#4-protokol-asesmen-ipsatif-sop-evaluasi-kemajuan-mandiri-non-komparatif)
@@ -362,37 +362,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri
+### 1. Kaidah Utama dan Standar Baku: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri
 
-```
-===================================================================================================
-               PIAGAM DOKTRIN BAKU TANGGA PERTUMBUHAN SANTRI (T1–T4) PESANTREN TUMBUH
-                          SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-DENGAN BERPEGANG TEGUH PADA PRINSIP TADARRUJ SYAR'I DAN SUNNATULLAH PERKEMBANGAN INSAN, EKOSISTEM
-PENDIDIKAN PESANTREN TUMBUH DENGAN INI MEMAKLUMKAN KETETAPAN BAKU TANGGA PERTUMBUHAN SANTRI:
+1. **HAK Asasi Bertumbuh Secara Gradual (the Right TO Gradual Growth)**:  
+   Setiap santri memiliki hak asasi fitrah untuk bertumbuh secara bertahap sesuai kapasitas kejiwaan dan biologisnya. Dilarang keras memaksakan tuntutan kesempurnaan instan yang berujung pada kekerasan.
 
-1. HAK ASASI BERTUMBUH SECARA GRADUAL (THE RIGHT TO GRADUAL GROWTH):
-   Setiap santri memiliki hak asasi fitrah untuk bertumbuh secara bertahap sesuai kapasitas kejiwaan
-   dan biologisnya. Dilarang keras memaksakan tuntutan kesempurnaan instan yang berujung pada kekerasan.
+2. **Penerapan 4 Etape Tangga Tumbuh (the 4-stage Ascent)**:  
+   Seluruh aktivitas pembinaan karakter di asrama dan madrasah wajib distrukturkan mengikuti 4 etape: a. ETAPE T1 (TA'ARUF / ADAPTASI): Bantuan intensif (80%) membangun rasa aman & pembiasaan dasar. b. ETAPE T2 (TA'ALLUM / PEMBIASAAN): Bantuan moderat (50%) mengunci konsistensi habit loop harian. c. ETAPE T3 (TAFAHHUM / INTERNALISASI): Bantuan minimal (20%) menguatkan kesadaran muraqabatullah. d. ETAPE T4 (TAWAQQUF / TRANSFORMASI): Kemandirian penuh (0%), melahirkan Duta Adab & Qudwah.
 
-2. PENERAPAN 4 ETAPE TANGGA TUMBUH (THE 4-STAGE ASCENT):
-   Seluruh aktivitas pembinaan karakter di asrama dan madrasah wajib distrukturkan mengikuti 4 etape:
-   a. ETAPE T1 (TA'ARUF / ADAPTASI): Bantuan intensif (80%) membangun rasa aman & pembiasaan dasar.
-   b. ETAPE T2 (TA'ALLUM / PEMBIASAAN): Bantuan moderat (50%) mengunci konsistensi habit loop harian.
-   c. ETAPE T3 (TAFAHHUM / INTERNALISASI): Bantuan minimal (20%) menguatkan kesadaran muraqabatullah.
-   d. ETAPE T4 (TAWAQQUF / TRANSFORMASI): Kemandirian penuh (0%), melahirkan Duta Adab & Qudwah.
+3. **Kaderisasi Tahap 7 Penggerak (servant Leadership Generation)**:  
+   Santri yang mencapai kematangan T4 diarahkan menjadi Penggerak Kebaikan yang memimpin dengan melayani, mengayomi junior, dan mengabdi kepada masyarakat tanpa arogansi senioritas feodal.
 
-3. KADERISASI TAHAP 7 PENGGERAK (SERVANT LEADERSHIP GENERATION):
-   Santri yang mencapai kematangan T4 diarahkan menjadi Penggerak Kebaikan yang memimpin dengan
-   melayani, mengayomi junior, dan mengabdi kepada masyarakat tanpa arogansi senioritas feodal.
+4. **Penghapusan Mutlak Sistem Perangkingan Tunggal (ipsative Revolution)**:  
+   Menghapus selamanya sistem perankingan kelas komparatif toksik. Menegakkan sistem Asesmen Pertumbuhan Ipsatif di mana setiap santri dievaluasi berdasarkan perkembangan dirinya sendiri dari waktu ke waktu.
 
-4. PENGHAPUSAN MUTLAK SISTEM PERANGKINGAN TUNGGAL (IPSATIVE REVOLUTION):
-   Menghapus selamanya sistem perankingan kelas komparatif toksik. Menegakkan sistem Asesmen Pertumbuhan
-   Ipsatif di mana setiap santri dievaluasi berdasarkan perkembangan dirinya sendiri dari waktu ke waktu.
-===================================================================================================
-```
 
 ---
 

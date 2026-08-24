@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Etika Keamanan Data, Enkripsi, & Perlindungan Privasi Rekam Jejak Santri (ISO/IEC 27001)](#5-inkuiri-4-etika-keamanan-data-enkripsi--perlindungan-privasi-rekam-jejak-santri-isoiec-27001)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Digitalisasi Lapangan, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-digitalisasi-lapangan--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH](#1-deklarasi-doktrin-baku-prinsip-desain-uiux-dan-dashboard-logbook-pbis-digital-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-ui-ux-dan-dashboard-logbook-pbis-digital-tumbuh)
   - [2. Matriks 10 Heuristik Usability Jakob Nielsen & Implementasi Konkret pada UI Logbook Musyrif](#2-matriks-10-heuristik-usability-jakob-nielsen--implementasi-konkret-pada-ui-logbook-musyrif)
   - [3. Arsitektur Wireframe Fungsional & Alur Input Logbook Adab 30 Detik (Fast-Tap Interaction)](#3-arsitektur-wireframe-fungsional--alur-input-logbook-adab-30-detik-fast-tap-interaction)
   - [4. Protokol Tata Kelola Privasi Data & Hak Akses Berjenjang (Data Privacy & Access Control Protocol)](#4-protokol-tata-kelola-privasi-data--hak-akses-berjenjang-data-privacy--access-control-protocol)
@@ -192,34 +192,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU DESAIN UI/UX & DASHBOARD LOGBOOK PBIS DIGITAL TUMBUH
-                          SUB-DOMAIN 02: DESIGN PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN INTEGRITAS AMANAH PENCATATAN DATA DAN PERLINDUNGAN PRIVASI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU SISTEM INFORMASI PENGASUHAN:
+1. **Ekonomi Kognitif Fast-tap (the 30-second Interaction Mandate)**:  
+   Antarmuka aplikasi logbook musyrif wajib dirancang dengan prinsip gesekan kognitif rendah (Low Friction). Proses pencatatan apresiasi atau observasi adab per santri wajib dapat diselesaikan dalam <30 detik.
 
-1. DOKTRIN EKONOMI KOGNITIF FAST-TAP (THE 30-SECOND INTERACTION MANDATE):
-   Antarmuka aplikasi logbook musyrif wajib dirancang dengan prinsip gesekan kognitif rendah (Low Friction).
-   Proses pencatatan apresiasi atau observasi adab per santri wajib dapat diselesaikan dalam <30 detik.
+2. **Penerapan 10 Heuristik Usability Jakob Nielsen & Offline-first Architecture**:  
+   Seluruh antarmuka sistem wajib memenuhi standar 10 Heuristik Usability global dan mendukung operasi penuh tanpa koneksi internet (Offline-First), menjamin kelancaran operasional musyrif di pelosok.
 
-2. PENERAPAN 10 HEURISTIK USABILITY JAKOB NIELSEN & OFFLINE-FIRST ARCHITECTURE:
-   Seluruh antarmuka sistem wajib memenuhi standar 10 Heuristik Usability global dan mendukung operasi
-   penuh tanpa koneksi internet (Offline-First), menjamin kelancaran operasional musyrif di pelosok.
+3. **Visualisasi Data Pbis Multi-tier & Peta Panas Spasial (spatial Heatmap)**:  
+   Dashboard pimpinan menyajikan analitik distribusi santri Tier 1 (80–90%), Tier 2 (10–15%), Tier 3 (1–5%), serta memetakan titik rawan waktu dan lokasi asrama guna memandu patroli musyrif berbasis data riil.
 
-3. DOKTRIN VISUALISASI DATA PBIS MULTI-TIER & PETA PANAS SPASIAL (SPATIAL HEATMAP):
-   Dashboard pimpinan menyajikan analitik distribusi santri Tier 1 (80–90%), Tier 2 (10–15%), Tier 3 (1–5%),
-   serta memetakan titik rawan waktu dan lokasi asrama guna memandu patroli musyrif berbasis data riil.
+4. **Keamanan Data & Enkripsi Privasi Mutlak (strict Data Confidentiality)**:  
+   Seluruh rekam jejak konseling santri dienkripsi dengan standar AES-256. Mengharamkan publikasi catatan pelanggaran santri ke ruang publik. Hak akses data diatur secara berjenjang berdasarkan asas amanah.
 
-4. DOKTRIN KEAMANAN DATA & ENKRIPSI PRIVASI MUTLAK (STRICT DATA CONFIDENTIALITY):
-   Seluruh rekam jejak konseling santri dienkripsi dengan standar AES-256. Mengharamkan publikasi catatan
-   pelanggaran santri ke ruang publik. Hak akses data diatur secara berjenjang berdasarkan asas amanah.
-===================================================================================================
-```
 
 ---
 

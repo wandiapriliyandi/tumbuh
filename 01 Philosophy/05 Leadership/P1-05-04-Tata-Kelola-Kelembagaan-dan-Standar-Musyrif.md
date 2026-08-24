@@ -36,7 +36,7 @@
   - [6. Inkuiri 5: Perlindungan Hak Santri & Mitigasi Risiko Hukum Lembaga (Safe School Protocol)](#6-inkuiri-5-perlindungan-hak-santri--mitigasi-risiko-hukum-lembaga-safe-school-protocol)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Tata Kelola Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-tata-kelola-riil--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH](#1-deklarasi-doktrin-baku-standarisasi-tata-kelola-kelembagaan-dan-sertifikasi-musyrif-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH](#1-kaidah-utama-dan-standar-baku-standarisasi-tata-kelola-kelembagaan-dan-sertifikasi-musyrif-tumbuh)
   - [2. Matriks 4 Pilar Standar Kompetensi Musyrif Asrama Pesantren](#2-matriks-4-pilar-standar-kompetensi-musyrif-asrama-pesantren)
   - [3. Bagan Struktur Tata Kelola Kelembagaan Pesantren Mandiri & Akuntabel](#3-bagan-struktur-tata-kelola-kelembagaan-pesantren-mandiri--akuntabel)
   - [4. Protokol Rekrutmen, Onboarding, & Evaluasi Kinerja Pendidik (HRD Protocol)](#4-protokol-rekrutmen-onboarding--evaluasi-kinerja-pendidik-hrd-protocol)
@@ -219,34 +219,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH
 
-```
-===================================================================================================
-             PIAGAM TATA KELOLA KELEMBAGAAN AMANAH & STANDARISASI MUSYRIF PESANTREN
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN INTEGRITAS AMANAH KEPEMIMPINAN DAN MAQASHID SYARI'AH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU TATA KELOLA KELEMBAGAAN:
+1. **Tata Kelola Berbasis Sistem & Syura (systemic & Shura-based Governance)**:  
+   Pesantren wajib dikelola secara profesional, transparan, dan akuntabel melalui struktur organisasi yang jelas, pemisahan wewenang yang tegas, serta mekanisme musyawarah (Syura) berkala.
 
-1. TATA KELOLA BERBASIS SISTEM & SYURA (SYSTEMIC & SHURA-BASED GOVERNANCE):
-   Pesantren wajib dikelola secara profesional, transparan, dan akuntabel melalui struktur organisasi
-   yang jelas, pemisahan wewenang yang tegas, serta mekanisme musyawarah (Syura) berkala.
+2. **Standarisasi 4 Pilar Kompetensi Musyrif Asrama**:  
+   Seluruh tenaga pengasuhan asrama wajib memiliki sertifikasi kompetensi resmi dalam 4 pilar: Pedagogis Ta'dib, Kepribadian Qudwah, Sosial Restoratif (PBIS), dan Profesional Pengasuhan Fisik/P3K.
 
-2. STANDARISASI 4 PILAR KOMPETENSI MUSYRIF ASRAMA:
-   Seluruh tenaga pengasuhan asrama wajib memiliki sertifikasi kompetensi resmi dalam 4 pilar:
-   Pedagogis Ta'dib, Kepribadian Qudwah, Sosial Restoratif (PBIS), dan Profesional Pengasuhan Fisik/P3K.
+3. **Integritas Keuangan Amanah Wakaf (financial Transparency & Audit)**:  
+   Pengelolaan keuangan wakaf, infaq, dan SPP santri wajib diaudit secara berkala oleh akuntan independen dan dilaporkan secara transparan untuk menjamin kemurnian dan keberkahan rezeki lembaga.
 
-3. INTEGRITAS KEUANGAN AMANAH WAKAF (FINANCIAL TRANSPARENCY & AUDIT):
-   Pengelolaan keuangan wakaf, infaq, dan SPP santri wajib diaudit secara berkala oleh akuntan independen
-   dan dilaporkan secara transparan untuk menjamin kemurnian dan keberkahan rezeki lembaga.
+4. **Protokol Keselamatan Santri (safe School & Child Protection Protocol)**:  
+   Menjamin hak mutlak setiap santri atas perlindungan dari segala bentuk kekerasan fisik, psikologis, dan pelecehan, didukung oleh sistem pengaduan rahasia (Whistleblowing) yang diadvokasi secara independen.
 
-4. PROTOKOL KESELAMATAN SANTRI (SAFE SCHOOL & CHILD PROTECTION PROTOCOL):
-   Menjamin hak mutlak setiap santri atas perlindungan dari segala bentuk kekerasan fisik, psikologis,
-   dan pelecehan, didukung oleh sistem pengaduan rahasia (Whistleblowing) yang diadvokasi secara independen.
-===================================================================================================
-```
 
 ---
 

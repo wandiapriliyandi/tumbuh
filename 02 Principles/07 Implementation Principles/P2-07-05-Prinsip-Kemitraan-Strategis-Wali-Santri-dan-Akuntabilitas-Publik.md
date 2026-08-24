@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Dekonstruksi Sikap Eksklusif Menara Gading & Desain Program Khidmah Sosial Warga Lingkungan](#4-inkuiri-3-dekonstruksi-sikap-eksklusif-menara-gading--desain-program-khidmah-sosial-warga-lingkungan)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lembaga--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-kemitraan-tripartit--akuntabilitas-publik-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-kemitraan-tripartit-akuntabilitas-publik-pesantren-tumbuh)
   - [2. Matriks 6 Tipe Kemitraan Keluarga Epstein Diintegrasikan ke dalam Ekosistem Pesantren](#2-matriks-6-tipe-kemitraan-keluarga-epstein-diintegrasikan-ke-dalam-ekosistem-pesantren)
   - [3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Tetangga](#3-standar-prosedur-operasional-sop-transparansi-informasi-wali-santri--khidmah-sosial-tetangga)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -157,34 +157,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU KEMITRAAN STRATEGIS WALI SANTRI & AKUNTABILITAS PUBLIK PESANTREN TUMBUH
-                       SUB-DOMAIN 07: IMPLEMENTATION PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN AMANAH PENDIDIKAN DAN SEMANGAT RAHMATAN LIL 'ALAMIN,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN KEMITRAAN & AKUNTABILITAS PUBLIK:
+1. **Kemitraan Tripartit Pendidikan Simbiotik (pesantren - Rumah - Masyarakat)**:  
+   Menetapkan bahwa keberhasilan pendidikan adab adalah tanggung jawab bersama; mengharamkan pemutusan peran keluarga dan mewajibkan kesinambungan pembiasaan adab di asrama dan rumah saat liburan.
 
-1. DOKTRIN KEMITRAAN TRIPARTIT PENDIDIKAN SIMBIOTIK (PESANTREN - RUMAH - MASYARAKAT):
-   Menetapkan bahwa keberhasilan pendidikan adab adalah tanggung jawab bersama; mengharamkan pemutusan
-   peran keluarga dan mewajibkan kesinambungan pembiasaan adab di asrama dan rumah saat liburan.
+2. **Penerapan Standar Enam Tipe Kemitraan Keluarga Joyce Epstein**:  
+   Mewajibkan penyelenggaraan Sekolah Parenting Nabawi, Dashboard Laporan Naratif Digital, Buku Agenda Adab Liburan, serta forum Majelis Syura Komite Wali Santri sebagai mitra strategis kemajuan lembaga.
 
-2. PENERAPAN STANDAR ENAM TIPE KEMITRAAN KELUARGA JOYCE EPSTEIN:
-   Mewajibkan penyelenggaraan Sekolah Parenting Nabawi, Dashboard Laporan Naratif Digital, Buku Agenda
-   Adab Liburan, serta forum Majelis Syura Komite Wali Santri sebagai mitra strategis kemajuan lembaga.
+3. **Pesantren Sumber Rahmat Bagi Masyarakat Sekitar (bi'ah Nafi'ah)**:  
+   Mengharamkan sikap eksklusif menara gading; mewajibkan lembaga mengalirkan manfaat nyata bagi warga desa sekitar melalui akses air bersih, layanan kesehatan, pasar berkah lokal, dan beasiswa anak warga.
 
-3. DOKTRIN PESANTREN SUMBER RAHMAT BAGI MASYARAKAT SEKITAR (BI'AH NAFI'AH):
-   Mengharamkan sikap eksklusif menara gading; mewajibkan lembaga mengalirkan manfaat nyata bagi warga desa
-   sekitar melalui akses air bersih, layanan kesehatan, pasar berkah lokal, dan beasiswa anak warga.
+4. **Akuntabilitas Publik & Transparansi Tata Kelola Amanah**:  
+   Menegakkan transparansi pelaporan perkembangan karakter santri dan tata kelola sarana prasarana secara jujur dan berkala, mengeliminasi praduga negatif, serta menjaga marwah integritas pesantren di mata umat.
 
-4. AKUNTABILITAS PUBLIK & TRANSPARANSI TATA KELOLA AMANAH:
-   Menegakkan transparansi pelaporan perkembangan karakter santri dan tata kelola sarana prasarana secara
-   jujur dan berkala, mengeliminasi praduga negatif, serta menjaga marwah integritas pesantren di mata umat.
-===================================================================================================
-```
 
 ---
 

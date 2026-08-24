@@ -36,7 +36,7 @@
   - [6. Inkuiri 5: Dialektika Keteladanan Menghadapi Santri Generasi Digital](#6-inkuiri-5-dialektika-keteladanan-menghadapi-santri-generasi-digital)
   - [7. Inkuiri 6: Translasi Falsafah Qudwah ke Tata Kelola Budaya Integritas Lembaga](#7-inkuiri-6-translasi-falsafah-qudwah-ke-tata-kelola-budaya-integritas-lembaga)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH](#1-deklarasi-doktrin-baku-falsafah-kepemimpinan-berbasis-qudwah-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-falsafah-kepemimpinan-berbasis-qudwah-pesantren-tumbuh)
   - [2. Matriks Komparasi Kepemimpinan: Retorika Otoriter vs Permisif vs Kepemimpinan Qudwah TUMBUH](#2-matriks-komparasi-kepemimpinan-retorika-otoriter-vs-permisif-vs-kepemimpinan-qudwah-tumbuh)
   - [3. Matriks 5 Ranah Keteladanan Mutlak Musyrif & Asatidz di Pesantren 24 Jam](#3-matriks-5-ranah-keteladanan-mutlak-musyrif--asatidz-di-pesantren-24-jam)
   - [4. Protokol Evaluasi Diri Keteladanan Pendidik (Daily Qudwah Self-Audit Protocol)](#4-protokol-evaluasi-diri-keteladanan-pendidik-daily-qudwah-self-audit-protocol)
@@ -255,36 +255,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH
 
-```
-===================================================================================================
-               PIAGAM DOKTRIN BAKU KEPEMIMPINAN BERBASIS QUDWAH PESANTREN TUMBUH
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAMBIL IBRAH DARI KEPEMIMPINAN PROFETIK RASULULLAH SHALLALLAHU
-'ALAIHI WA SALLAM DAN WASIAT PARA SALAFUS SHALIH, EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI
-MEMAKLUMKAN KETETAPAN BAKU FALSAFAH KEPEMIMPINAN:
+1. **Utama Qudwah First (leading BY Authentic Example)**:  
+   Kepemimpinan di pesantren TUMBUH adalah kepemimpinan keteladanan nyata. Dilarang keras memimpin hanya dengan perintah verbal dan ancaman kekerasan. Setiap pemimpin, guru, dan musyrif wajib mempraktikkan adab dan kedisiplinan pada dirinya sendiri sebelum menuntutnya dari orang lain.
 
-1. DOKTRIN UTAMA QUDWAH FIRST (LEADING BY AUTHENTIC EXAMPLE):
-   Kepemimpinan di pesantren TUMBUH adalah kepemimpinan keteladanan nyata. Dilarang keras memimpin
-   hanya dengan perintah verbal dan ancaman kekerasan. Setiap pemimpin, guru, dan musyrif wajib
-   mempraktikkan adab dan kedisiplinan pada dirinya sendiri sebelum menuntutnya dari orang lain.
+2. **Keharaman Hipokrisi Kepemimpinan (zero Hypocrisy Tolerance)**:  
+   Menolak segala bentuk kesenjangan moral antara apa yang dikhotbahkan dengan apa yang diamalkan (Kabura Maqtan 'Indallah). Menghapus mutlak normalisasi hak istimewa asatidz untuk melanggar aturan.
 
-2. KEHARAMAN HIPOKRISI KEPEMIMPINAN (ZERO HYPOCRISY TOLERANCE):
-   Menolak segala bentuk kesenjangan moral antara apa yang dikhotbahkan dengan apa yang diamalkan
-   (Kabura Maqtan 'Indallah). Menghapus mutlak normalisasi hak istimewa asatidz untuk melanggar aturan.
+3. **Wibawa Berbasis Cinta & Segang (al-haibah Wal-mahabbah)**:  
+   Kewibawaan pendidik ditegakkan di atas keluhuran ilmu, integritas kejujuran, dan kelembutan kasih sayang. Dilarang keras membangun wibawa semu melalui teror bentakan kasar, mata melotot, dan hukuman fisik.
 
-3. WIBAWA BERBASIS CINTA & SEGANG (AL-HAIBAH WAL-MAHABBAH):
-   Kewibawaan pendidik ditegakkan di atas keluhuran ilmu, integritas kejujuran, dan kelembutan kasih
-   sayang. Dilarang keras membangun wibawa semu melalui teror bentakan kasar, mata melotot, dan hukuman fisik.
+4. **Rekayasa Sistemik Keteladanan Neuron Cermin (mirror Neuron Embrace)**:  
+   Lembaga mengkondisikan seluruh interaksi guru-santri 24 jam sebagai panggung keteladanan biologis alami yang menumbuhkan refleks adab mulia pada diri santri secara otomatis tanpa paksaan.
 
-4. REKAYASA SISTEMIK KETELADANAN NEURON CERMIN (MIRROR NEURON EMBRACE):
-   Lembaga mengkondisikan seluruh interaksi guru-santri 24 jam sebagai panggung keteladanan biologis
-   alami yang menumbuhkan refleks adab mulia pada diri santri secara otomatis tanpa paksaan.
-===================================================================================================
-```
 
 ---
 

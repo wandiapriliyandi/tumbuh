@@ -32,7 +32,7 @@
   - [2. Matriks Komparasi Filosofis Transformasi Sosial: Revolusionisme vs Reformisme Parsial vs Transformasi Nabawi TUMBUH](#2-matriks-komparasi-filosofis-transformasi-sosial-revolusionisme-vs-reformisme-parsial-vs-transformasi-nabawi-tumbuh)
   - [3. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Sub-Domain 01 s/d 06)](#3-puncak-sintesis-filosofis-seluruh-domain-01-philosophy-sub-domain-01-sd-06)
   - [4. Jembatan Filosofis & Aksiologis Menuju Domain 02: Principles](#4-jembatan-filosofis--aksiologis-menuju-domain-02-principles)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU TRANSFORMASI PERADABAN](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-transformasi-peradaban)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TRANSFORMASI PERADABAN](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-transformasi-peradaban)
   - [1. Grand Manifesto Transformasi Peradaban Pesantren TUMBUH](#1-grand-manifesto-transformasi-peradaban-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Dinamika Perubahan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-dinamika-perubahan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Keberlanjutan Transformasi Budaya Pesantren](#3-protokol-penjaminan-keberlanjutan-transformasi-budaya-pesantren)
@@ -128,46 +128,32 @@ graph TD
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU TRANSFORMASI PERADABAN
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TRANSFORMASI PERADABAN
 
 ---
 
-### 1. Grand Manifesto Transformasi Peradaban Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Transformasi Peradaban Pesantren TUMBUH
 
-```
-===================================================================================================
-     GRAND MANIFESTO TRANSFORMASI PERADABAN PESANTREN TUMBUH (CIVILIZATIONAL TRANSFORMATION CHARTER)
-                     PUNCAK MATAKARYA DOMAIN 01: PHILOSOPHY — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN BERSERAH DIRI KEPADA ALLAH SWT, DEWAN KEILMUAN, MAJELIS MASYAIKH,
-DAN SELURUH PIMPINAN LEMBAGA PESANTREN EKOSISTEM TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO:
+1. **Teologis Perubahan Jiwa Internal (MA BI Anfusihim) Menegakkan doktrin bahwa transformasi peradaban pesantren sejati bermula dari penyucian niat, kesadaran fikir, dan kehendak taubat di dalam jiwa santri dan asatidz. Menolak mutlak ilusi pemaksaan lahiriah kasar.**:  
+   
 
-PASAL 1: MANDAT TEOLOGIS PERUBAHAN JIWA INTERNAL (MA BI ANFUSIHIM)
-Menegakkan doktrin bahwa transformasi peradaban pesantren sejati bermula dari penyucian niat, kesadaran
-fikir, dan kehendak taubat di dalam jiwa santri dan asatidz. Menolak mutlak ilusi pemaksaan lahiriah kasar.
+2. **Pentahapan Tadarruj & Kebiasaan Mikro Istiqamah Mewajibkan seluruh pembiasaan karakter dan kurikulum distrukturkan secara bertahap (Tadarruj) melalui penguatan kebiasaan mikro 1% (Atomic Habits) dan menjaga ritme hidup santri dari sindrom kejenuhan (Futuwr).**:  
+   
 
-PASAL 2: MANDAT PENTAHAPAN TADARRUJ & KEBIASAAN MIKRO ISTIQAMAH
-Mewajibkan seluruh pembiasaan karakter dan kurikulum distrukturkan secara bertahap (Tadarruj) melalui
-penguatan kebiasaan mikro 1% (Atomic Habits) dan menjaga ritme hidup santri dari sindrom kejenuhan (Futuwr).
+3. **Rekayasa Bi'ah Shalihah & Arsitektur Cpted Mewajibkan seluruh tata ruang fisik asrama didesain terang, bersih, asri, dan bebas dari titik buta (Blindspots), serta menegakkan SOP Perbaikan Cepat 24 Jam demi menjamin terciptanya lingkungan suci pelindung fitrah santri.**:  
+   
 
-PASAL 3: MANDAT REKAYASA BI'AH SHALIHAH & ARSITEKTUR CPTED
-Mewajibkan seluruh tata ruang fisik asrama didesain terang, bersih, asri, dan bebas dari titik buta (Blindspots),
-serta menegakkan SOP Perbaikan Cepat 24 Jam demi menjamin terciptanya lingkungan suci pelindung fitrah santri.
+4. **Manajemen Resistensi Kultural & Pemuliaan Asatidz Senior Menghadapi penolakan perubahan dengan pendekatan Hikmah (qs. 16**:  
+   125), merangkul asatidz senior melalui dialog Turats salaf, serta membuktikan keberhasilan melalui penciptaan Quick Wins dan pilot project nyata.
 
-PASAL 4: MANAJEMEN RESISTENSI KULTURAL & PEMULIAAN ASATIDZ SENIOR
-Menghadapi penolakan perubahan dengan pendekatan Hikmah (QS. 16:125), merangkul asatidz senior melalui
-dialog Turats salaf, serta membuktikan keberhasilan melalui penciptaan Quick Wins dan pilot project nyata.
+5. **Evaluasi Dampak Longitudinal Cohort 3 Tahun & Kepatuhan Pbis Menilai keberhasilan pembinaan melalui pelacakan longitudinal cohort 3 tahun, pemantauan instrumen kepatuhan sistem (Tiered Fidelity Inventory TFI $\ge 80\%$), dan penjagaan integritas data perilaku Pbis digital.**:  
+   
 
-PASAL 5: EVALUASI DAMPAK LONGITUDINAL COHORT 3 TAHUN & KEPATUHAN PBIS
-Menilai keberhasilan pembinaan melalui pelacakan longitudinal cohort 3 tahun, pemantauan instrumen kepatuhan
-sistem (Tiered Fidelity Inventory TFI $\ge 80\%$), dan penjagaan integritas data perilaku PBIS digital.
+6. **Integrasi Total Triad Pertumbuhan Simbiotik Menjamin bahwa setiap denyut transformasi di pesantren Tumbuh secara simultan menumbuhkan fitrah Santri, memuliakan kompetensi dan kesejahteraan Musyrif/Guru, serta memperkokoh kemandirian Sistem Lembaga.**:  
+   
 
-PASAL 6: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Menjamin bahwa setiap denyut transformasi di pesantren TUMBUH secara simultan menumbuhkan fitrah Santri,
-memuliakan kompetensi dan kesejahteraan Musyrif/Guru, serta memperkokoh kemandirian Sistem Lembaga.
-===================================================================================================
-```
 
 ---
 

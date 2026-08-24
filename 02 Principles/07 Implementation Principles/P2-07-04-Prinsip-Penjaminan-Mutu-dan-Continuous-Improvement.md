@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Mekanisme Audit Mutu Internal (AMI) Karakter Semesteran Bebas Intimidasi](#5-inkuiri-4-mekanisme-audit-mutu-internal-ami-karakter-semesteran-bebas-intimidasi)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Audit Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-audit-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-penjaminan-mutu--continuous-improvement-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-penjaminan-mutu-continuous-improvement-pesantren-tumbuh)
   - [2. Matriks Siklus PDCA Penjaminan Mutu Pengasuhan Adab Pesantren](#2-matriks-siklus-pdca-penjaminan-mutu-pengasuhan-adab-pesantren)
   - [3. Template Instrumen Audit Kepatuhan Implementasi PBIS Asrama (Pesantren TFI Rubric)](#3-template-instrumen-audit-kepatuhan-implementasi-pbis-asrama-pesantren-tfi-rubric)
   - [4. Alur Standar Operasional Prosedur Audit Mutu Internal (AMI) Semesteran](#4-alur-standar-operasional-prosedur-audit-mutu-internal-ami-semesteran)
@@ -197,34 +197,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU PENJAMINAN MUTU & CONTINUOUS IMPROVEMENT PESANTREN
-                         SUB-DOMAIN 07: IMPLEMENTATION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KELUHURAN AMANAH ITQANUL 'AMAL DAN SUNNAH HISAB DIRI NABAWI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PENJAMINAN MUTU PENGASUHAN:
+1. **Penghapusan Formalitas Kertas (anti-fabricated Compliance Charter)**:  
+   Menolak segala bentuk rekayasa data dan formalitas administratif semu dalam penjaminan mutu adab. Penjaminan mutu wajib berakar pada data faktual riil kehidupan asrama 24 jam dan ikhtiar Itqan sejati.
 
-1. DOKTRIN PENGHAPUSAN FORMALITAS KERTAS (ANTI-FABRICATED COMPLIANCE CHARTER):
-   Menolak segala bentuk rekayasa data dan formalitas administratif semu dalam penjaminan mutu adab.
-   Penjaminan mutu wajib berakar pada data faktual riil kehidupan asrama 24 jam dan ikhtiar Itqan sejati.
+2. **Penetapan Siklus Mutu Pdca Deming & Kaizen (plan-do-check-act)**:  
+   Mewajibkan seluruh lini asrama dan madrasah mengoperasikan siklus mutu 4 tahap secara berkala: Merencanakan target adab (Plan) -> Menjalankan pendampingan (Do) -> Mengevaluasi data (Check) -> Memperbaiki sistem (Act).
 
-2. PENETAPAN SIKLUS MUTU PDCA DEMING & KAIZEN (PLAN-DO-CHECK-ACT):
-   Mewajibkan seluruh lini asrama dan madrasah mengoperasikan siklus mutu 4 tahap secara berkala:
-   Merencanakan target adab (Plan) -> Menjalankan pendampingan (Do) -> Mengevaluasi data (Check) -> Memperbaiki sistem (Act).
+3. **Standarisasi Kepatuhan Sistem Berbasis Tiered Fidelity Inventory (tfi Pbis)**:  
+   Menetapkan instrumen TFI sebagai alat ukur kepatuhan implementasi pengasuhan di seluruh asrama, mewajibkan pencapaian skor minimal kelayakan Fidelity Implementasi sebesar 80% (Delapan Puluh Persen).
 
-3. STANDARISASI KEPATUHAN SISTEM BERBASIS TIERED FIDELITY INVENTORY (TFI PBIS):
-   Menetapkan instrumen TFI sebagai alat ukur kepatuhan implementasi pengasuhan di seluruh asrama,
-   mewajibkan pencapaian skor minimal kelayakan Fidelity Implementasi sebesar 80% (Delapan Puluh Persen).
+4. **Protokol Audit Mutu Internal (ami) Karakter Bebas Intimidasi**:  
+   Mewajibkan penyelenggaraan AMI semesteran oleh auditor independen tersertifikasi yang berorientasi pada pemberdayaan suportif, perbaikan fasilitas, peningkatan kompetensi musyrif, dan perlindungan santri.
 
-4. PROTOKOL AUDIT MUTU INTERNAL (AMI) KARAKTER BEBAS INTIMIDASI:
-   Mewajibkan penyelenggaraan AMI semesteran oleh auditor independen tersertifikasi yang berorientasi pada
-   pemberdayaan suportif, perbaikan fasilitas, peningkatan kompetensi musyrif, dan perlindungan santri.
-===================================================================================================
-```
 
 ---
 

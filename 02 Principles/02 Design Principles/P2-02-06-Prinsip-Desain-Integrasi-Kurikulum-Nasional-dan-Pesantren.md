@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Eliminasi Curricular Overload & Desain Ritme Belajar 24 Jam Ramah Kognitif](#4-inkuiri-3-eliminasi-curricular-overload--desain-ritme-belajar-24-jam-ramah-kognitif)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-kelas--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Tematik Mata Pelajaran: Rumpun Turats, Rumpun Sains-Teknologi, & Rumpun Adab](#2-matriks-integrasi-tematik-mata-pelajaran-rumpun-turats-rumpun-sains-teknologi--rumpun-adab)
   - [3. Standar Prosedur Operasional (SOP) Perancangan Modul Integratif & Penjadwalan Bebas Overload](#3-standar-prosedur-operasional-sop-perancangan-modul-integratif--penjadwalan-bebas-overload)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -149,34 +149,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU INTEGRASI KURIKULUM HOLISTIK PESANTREN EKOSISTEM TUMBUH
-                          SUB-DOMAIN 02: DESIGN PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KESATUAN ILMU TAUHIDUL MA'RIFAH,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN BAKU INTEGRASI KURIKULUM:
+1. **Integrasi Total Fardhu 'ain DAN Fardhu Kifayah**:  
+   Menetapkan bahwa kurikulum turats kepesantrenan dan kurikulum sains nasional adalah kesatuan organik yang saling melengkapi; mengharamkan dikotomi pemisahan ilmu sekuler vs agama.
 
-1. DOKTRIN INTEGRASI TOTAL FARDHU 'AIN DAN FARDHU KIFAYAH:
-   Menetapkan bahwa kurikulum turats kepesantrenan dan kurikulum sains nasional adalah kesatuan
-   organik yang saling melengkapi; mengharamkan dikotomi pemisahan ilmu sekuler vs agama.
+2. **Penghapusan Mutlak Sindrom Beban Ganda Kurikulum (anti-overload Policy)**:  
+   Mewajibkan peleburan mata pelajaran redundan melalui model tematik interdisipliner; membatasi jam KBM aktif maksimal 6–7 jam per hari guna melindungi kapasitas kognitif dan kesehatan mental santri.
 
-2. PENGHAPUSAN MUTLAK SINDROM BEBAN GANDA KURIKULUM (ANTI-OVERLOAD POLICY):
-   Mewajibkan peleburan mata pelajaran redundan melalui model tematik interdisipliner; membatasi
-   jam KBM aktif maksimal 6–7 jam per hari guna melindungi kapasitas kognitif dan kesehatan mental santri.
+3. **HAK Tidur Sehat 7 JAM Penuh Untuk Konsolidasi Memori**:  
+   Menetapkan jadwal padam lampu asrama maksimal pukul 21.30 WIB; melarang segala bentuk KBM formal atau sidang malam di atas jam 21.30 WIB demi menjaga fungsi optimal neurobiologis otak santri.
 
-3. MANDAT HAK TIDUR SEHAT 7 JAM PENUH UNTUK KONSOLIDASI MEMORI:
-   Menetapkan jadwal padam lampu asrama maksimal pukul 21.30 WIB; melarang segala bentuk KBM formal
-   atau sidang malam di atas jam 21.30 WIB demi menjaga fungsi optimal neurobiologis otak santri.
+4. **Sistem Asesmen Autentik Integratif Berbasis Karya Proyek**:  
+   Menyatukan evaluasi pembelajaran nasional dan pondok melalui ujian proyek komprehensif (Integrated Portfolio), menghapus sistem ujian beruntun multi-pekan yang memicu distres akademik santri.
 
-4. SISTEM ASESMEN AUTENTIK INTEGRATIF BERBASIS KARYA PROYEK:
-   Menyatukan evaluasi pembelajaran nasional dan pondok melalui ujian proyek komprehensif (Integrated Portfolio),
-   menghapus sistem ujian beruntun multi-pekan yang memicu distres akademik santri.
-===================================================================================================
-```
 
 ---
 

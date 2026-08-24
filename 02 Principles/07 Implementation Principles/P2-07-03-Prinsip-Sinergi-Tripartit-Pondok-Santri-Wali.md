@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Standarisasi Etika Komunikasi Digital Wali Santri (Respectful Digital Communication)](#5-inkuiri-4-standarisasi-etika-komunikasi-digital-wali-santri-respectful-digital-communication)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Sinergi Wali Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-sinergi-wali-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-sinergi-tripartit-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-sinergi-tripartit-pesantren-tumbuh)
   - [2. Matriks 6 Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH](#2-matriks-6-tipe-keterlibatan-keluarga-joyce-epstein-versi-pesantren-tumbuh)
   - [3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (Parent-School Partnership Pact)](#3-piagam-perjanjian-sinergi-kemitraan-orang-tua---pondok-parent-school-partnership-pact)
   - [4. Alur Standar Operasional Prosedur Penanganan Komunikasi & Keluhan Wali Santri](#4-alur-standar-operasional-prosedur-penanganan-komunikasi--keluhan-wali-santri)
@@ -195,34 +195,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Sinergi Tripartit Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Sinergi Tripartit Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU SINERGI TRIPARTIT PONDOK, SANTRI, DAN WALI
-                         SUB-DOMAIN 07: IMPLEMENTATION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN AMANAH PENGASUHAN FITRAH DAN SUNNAH TA'AWUN SYAR'IYYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU KEMITRAAN KELUARGA:
+1. **Penghapusan Paradigma Konsumen Lepas Tangan (anti-abandonment Charter)**:  
+   Menolak segala bentuk pengabaian tanggung jawab pengasuhan orang tua berdalih telah membayar biaya pondok. Menegaskan bahwa orang tua memikul amanah fitrah primer yang wajib disinergikan bersama pesantren.
 
-1. DOKTRIN PENGHAPUSAN PARADIGMA KONSUMEN LEPAS TANGAN (ANTI-ABANDONMENT CHARTER):
-   Menolak segala bentuk pengabaian tanggung jawab pengasuhan orang tua berdalih telah membayar biaya pondok.
-   Menegaskan bahwa orang tua memikul amanah fitrah primer yang wajib disinergikan bersama pesantren.
+2. **Penetapan Framework 6 Pilar Kemitraan Keluarga Joyce Epstein**:  
+   Mewajibkan standarisasi 6 dimensi keterlibatan keluarga: (1) Pola Asuh Selaras, (2) Komunikasi 2 Arah, (3) Relawan Khidmah, (4) Pembiasaan di Rumah, (5) Musyawarah Bersama, dan (6) Kolaborasi Komunitas.
 
-2. PENETAPAN FRAMEWORK 6 PILAR KEMITRAAN KELUARGA JOYCE EPSTEIN:
-   Mewajibkan standarisasi 6 dimensi keterlibatan keluarga: (1) Pola Asuh Selaras, (2) Komunikasi 2 Arah,
-   (3) Relawan Khidmah, (4) Pembiasaan di Rumah, (5) Musyawarah Bersama, dan (6) Kolaborasi Komunitas.
+3. **Protokol Mitigasi Kemunduran Adab Liburan (vacation Adab Continuity)**:  
+   Mewajibkan keselarasan pembiasaan adab asrama selama masa liburan santri di rumah melalui penandatanganan Piagam Komitmen Adab Liburan, pemantauan ibadah harian, dan pembatasan gawai cerdas bersama keluarga.
 
-3. PROTOKOL MITIGASI KEMUNDURAN ADAB LIBURAN (VACATION ADAB CONTINUITY):
-   Mewajibkan keselarasan pembiasaan adab asrama selama masa liburan santri di rumah melalui penandatanganan
-   Piagam Komitmen Adab Liburan, pemantauan ibadah harian, dan pembatasan gawai cerdas bersama keluarga.
+4. **Standarisasi Etika Komunikasi Digital Beradab & Tabayyun Privat**:  
+   Mengharamkan penyebaran keluhan, fitnah, atau polemik di grup publik. Mewajibkan penanganan seluruh aspirasi dan permasalahan santri melalui jalur dialog Tabayyun privat yang santun, adil, dan berbasis data.
 
-4. STANDARISASI ETIKA KOMUNIKASI DIGITAL BERADAB & TABAYYUN PRIVAT:
-   Mengharamkan penyebaran keluhan, fitnah, atau polemik di grup publik. Mewajibkan penanganan seluruh
-   aspirasi dan permasalahan santri melalui jalur dialog Tabayyun privat yang santun, adil, dan berbasis data.
-===================================================================================================
-```
 
 ---
 
@@ -241,34 +229,17 @@ EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU KEMITRA
 
 ### 3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (*Parent-School Partnership Pact*)
 
-```markdown
-===================================================================================================
-                  PIAGAM SINERGI KEMITRAAN PENGASUHAN ORANG TUA & PESANTREN
-                                PESANTREN TUMBUH — TAHUN AJARAN 2026/2027
-===================================================================================================
-Bismillahirrahmânirrahîm. Sebagai wujud tanggung jawab amanah di hadapan Allah SWT, kami:
-Pihak I (Orang Tua / Wali Santri) : Bapak Hendra Gunawan & Ibu Sarah Nurul (Wali dari Wildan Hakim)
-Pihak II (Pesantren TUMBUH)       : Ustadz Ahmad Fauzan, S.Pd.I. (Musyrif Kamar Asrama Ibnu Sina)
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-DENGAN PENUH KEIKHLASAN DAN KESADARAN, KAMI SEPAKAT MENJALIN SINERGI TARBIYAH:
+1. **Kesepakatan Kesinambungan Pembiasaan Adab (home-school Continuity)**:  
+   Pihak I berkomitmen melanjutkan pembiasaan shalat berjamaah 5 waktu di masjid, adab tutur kata santun, dan pembatasan penggunaan gawai (maksimal 2 jam/hari) saat ananda berada di rumah pada masa liburan.
 
-1. KESEPAKATAN KESINAMBUNGAN PEMBIASAAN ADAB (HOME-SCHOOL CONTINUITY):
-   Pihak I berkomitmen melanjutkan pembiasaan shalat berjamaah 5 waktu di masjid, adab tutur kata santun,
-   dan pembatasan penggunaan gawai (maksimal 2 jam/hari) saat ananda berada di rumah pada masa liburan.
+2. **Kesepakatan Komunikasi Digital Beradab & Tabayyun Syar'i**:  
+   Pihak I berkomitmen menyampaikan setiap pertanyaan, kritik, atau keluhan terkait ananda secara langsung melalui jalur komunikasi privat Pihak II, dan mengharamkan penyebaran polemik di grup media sosial.
 
-2. KESEPAKATAN KOMUNIKASI DIGITAL BERADAB & TABAYYUN SYAR'I:
-   Pihak I berkomitmen menyampaikan setiap pertanyaan, kritik, atau keluhan terkait ananda secara langsung
-   melalui jalur komunikasi privat Pihak II, dan mengharamkan penyebaran polemik di grup media sosial.
+3. **Kesepakatan Keteladanan & Dukungan Moral Keluarga**:  
+   Pihak I berkomitmen memberikan keteladanan akhlak di rumah, mendoakan ananda di setiap sujud shalat, serta mendukung penuh seluruh program bimbingan karakter positif yang ditetapkan oleh Pesantren TUMBUH. --------------------------------------------------------------------------------------------------- Tanda Tangan Orang Tua / Wali Santri            Tanda Tangan Musyrif / Pihak Pesantren ( Bapak Hendra Gunawan )                       ( Ustadz Ahmad Fauzan, S.Pd.I. )
 
-3. KESEPAKATAN KETELADANAN & DUKUNGAN MORAL KELUARGA:
-   Pihak I berkomitmen memberikan keteladanan akhlak di rumah, mendoakan ananda di setiap sujud shalat,
-   serta mendukung penuh seluruh program bimbingan karakter positif yang ditetapkan oleh Pesantren TUMBUH.
----------------------------------------------------------------------------------------------------
-Tanda Tangan Orang Tua / Wali Santri            Tanda Tangan Musyrif / Pihak Pesantren
-
-( Bapak Hendra Gunawan )                       ( Ustadz Ahmad Fauzan, S.Pd.I. )
-===================================================================================================
-```
 
 ---
 

@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Hak Kerahasiaan Privasi Santri (Satrul 'Aurat & Confidentiality Konseling BK)](#5-inkuiri-4-hak-kerahasiaan-privasi-santri-satrul-aurat--confidentiality-konseling-bk)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Hak Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-hak-santri--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH](#1-deklarasi-doktrin-baku-piagam-hak-hak-asasi-dan-kemuliaan-martabat-santri-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-hak-hak-asasi-dan-kemuliaan-martabat-santri-pesantren-tumbuh)
   - [2. Matriks 5 Hak Fundamental Santri & Kewajiban Institusi Pesantren](#2-matriks-5-hak-fundamental-santri--kewajiban-institusi-pesantren)
   - [3. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (Child Safeguarding Protocol)](#3-protokol-perlindungan-anak-dan-pencegahan-kekerasan-pengasuhan-child-safeguarding-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -196,39 +196,25 @@ $$\text{وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّ
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH
 
-```
-===================================================================================================
-     PIAGAM HAK-HAK ASASI DAN KEMULIAAN MARTABAT SANTRI PESANTREN TUMBUH (SANTRI RIGHTS CHARTER)
-                          SUB-DOMAIN 02: HUMAN NATURE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN DOKTRIN ILAHI KARAMAH BANI ADAM (QS. AL-ISRA: 70)
-DAN KESUCIAN DARAH SERTA KEHORMATAN MUKMIN DALAM DEKLARASI KHUTBAH WADA' NABAWIYYAH,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH DENGAN INI MEMPROKLAMIRKAN PIAGAM HAK SANTRI:
+1. **HAK Atas Keselamatan Fisik Mutlak & Kebijakan NOL Kekerasan (zero Physical Strike) Setiap santri berhak mendapatkan perlindungan mutlak dari segala bentuk kekerasan fisik, pemukulan rotan, tamparan, tendangan, kekerasan seksual, maupun hukuman fisik yang membahayakan kesehatan tubuh.**:  
+   
 
-PASAL 1: HAK ATAS KESELAMATAN FISIK MUTLAK & KEBIJAKAN NOL KEKERASAN (ZERO PHYSICAL STRIKE)
-Setiap santri berhak mendapatkan perlindungan mutlak dari segala bentuk kekerasan fisik, pemukulan rotan,
-tamparan, tendangan, kekerasan seksual, maupun hukuman fisik yang membahayakan kesehatan tubuh.
+2. **HAK Atas Kehormatan Diri & Perlindungan Dari Perendaman Martabat Setiap santri berhak dilindungi dari kekerasan verbal (makian/ejekan), perundungan (bullying), tradisi feodalisme senioritas asrama, serta hukuman yang mempermalukan di depan publik (Public Shaming).**:  
+   
 
-PASAL 2: HAK ATAS KEHORMATAN DIRI & PERLINDUNGAN DARI PERENDAMAN MARTABAT
-Setiap santri berhak dilindungi dari kekerasan verbal (makian/ejekan), perundungan (bullying), tradisi
-feodalisme senioritas asrama, serta hukuman yang mempermalukan di depan publik (Public Shaming).
+3. **HAK Kerahasiaan AIB & Privasi Konseling (satrul 'aurat Principle) Setiap santri berhak atas kerahasiaan catatan konseling bimbingan jiwa dan catatan medisnya, mengharamkan mutlak penelanjangan aib santri di hadapan khalayak umum masjid atau apel asrama.**:  
+   
 
-PASAL 3: HAK KERAHASIAAN AIB & PRIVASI KONSELING (SATRUL 'AURAT PRINCIPLE)
-Setiap santri berhak atas kerahasiaan catatan konseling bimbingan jiwa dan catatan medisnya,
-mengharamkan mutlak penelanjangan aib santri di hadapan khalayak umum masjid atau apel asrama.
+4. **HAK Atas Keadilan & Tabayyun Dalam Setiap Keluhan (due Process OF Tarbiyah) Setiap santri yang diduga melakukan pelanggaran berhak didengarkan keterangannya secara adil (Right to be Heard), mengharamkan vonis sepihak, serta berhak mendapatkan mediasi perdamaian restoratif (Ishlah al-Bain).**:  
+   
 
-PASAL 4: HAK ATAS KEADILAN & TABAYYUN DALAM SETIAP KELUHAN (DUE PROCESS OF TARBIYAH)
-Setiap santri yang diduga melakukan pelanggaran berhak didengarkan keterangannya secara adil (Right to be Heard),
-mengharamkan vonis sepihak, serta berhak mendapatkan mediasi perdamaian restoratif (Ishlah al-Bain).
+5. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa perlindungan hak asasi santri secara serempak memuliakan kehormatan Santri, meningkatkan profesionalisme Asatidz/Musyrif, serta menjaga martabat dan keberkahan Lembaga Pesantren.**:  
+   
 
-PASAL 5: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Memastikan bahwa perlindungan hak asasi santri secara serempak memuliakan kehormatan Santri,
-meningkatkan profesionalisme Asatidz/Musyrif, serta menjaga martabat dan keberkahan Lembaga Pesantren.
-===================================================================================================
-```
 
 ---
 

@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Empat Tipologi Respon Pendidik Terhadap Perubahan & Strategi Intervensi Komunikasinya](#4-inkuiri-3-empat-tipologi-respon-pendidik-terhadap-perubahan--strategi-intervensi-komunikasinya)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH](#1-deklarasi-doktrin-baku-piagam-manajemen-perubahan-kultural-beradab-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-manajemen-perubahan-kultural-beradab-pesantren-tumbuh)
   - [2. Matriks 8 Tahap Transformasi Budaya Pesantren (Kotter-Lewin Adapted for Pesantren)](#2-matriks-8-tahap-transformasi-budaya-pesantren-kotter-lewin-adapted-for-pesantren)
   - [3. Protokol Pendampingan Transisi & Coaching Dialogis bagi Asatidz Senior](#3-protokol-pendampingan-transisi--coaching-dialogis-bagi-asatidz-senior)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -163,34 +163,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU MANAJEMEN PERUBAHAN KULTURAL BERADAB EKOSISTEM PESANTREN TUMBUH
-                          SUB-DOMAIN 06: CHANGE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN SUNNATULLAH PERUBAHAN INSANIYYAH (QS. AR-RA'D: 11),
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN BAKU MANAJEMEN PERUBAHAN KULTURAL:
+1. **Pendekatan Hikmah & Memuliakan Asatidz Senior**:  
+   Menetapkan bahwa transformasi budaya pengasuhan wajib dijalankan dengan pendekatan Hikmah, kelembutan lisan, dan memuliakan kedudukan para sesepuh pondok (Inzalu an-Nas Manazilahum).
 
-1. DOKTRIN PENDEKATAN HIKMAH & MEMULIAKAN ASATIDZ SENIOR:
-   Menetapkan bahwa transformasi budaya pengasuhan wajib dijalankan dengan pendekatan Hikmah,
-   kelembutan lisan, dan memuliakan kedudukan para sesepuh pondok (Inzalu an-Nas Manazilahum).
+2. **Penerapan Metodologi Tahapan Perubahan Sistemik (unfreezing - Moving - Refreezing)**:  
+   Mengharamkan perubahan instan yang memaksa tanpa edukasi; mewajibkan pentahapan sosialisasi, pembentukan koalisi penggerak, penciptaan Quick Wins, dan pengokohan SOP menjadi tradisi baru.
 
-2. PENERAPAN METODOLOGI TAHAPAN PERUBAHAN SISTEMIK (UNFREEZING - MOVING - REFREEZING):
-   Mengharamkan perubahan instan yang memaksa tanpa edukasi; mewajibkan pentahapan sosialisasi,
-   pembentukan koalisi penggerak, penciptaan Quick Wins, dan pengokohan SOP menjadi tradisi baru.
+3. **Pendampingan Intensif Bagi Asatidz Dalam Masa Transisi (transitional Coaching)**:  
+   Lembaga memfasilitasi pelatihan klinis praktis, bimbingan langsung di kamar asrama, dan ruang konsultasi bagi pendidik yang mengalami kesulitan dalam menerapkan teknik bimbingan restoratif.
 
-3. PENDAMPINGAN INTENSIF BAGI ASATIDZ DALAM MASA TRANSISI (TRANSITIONAL COACHING):
-   Lembaga memfasilitasi pelatihan klinis praktis, bimbingan langsung di kamar asrama, dan ruang
-   konsultasi bagi pendidik yang mengalami kesulitan dalam menerapkan teknik bimbingan restoratif.
+4. **Pembuktian Faktual Melalui Pilot Project Asrama Percontohan**:  
+   Setiap inovasi tata kelola diuji coba terlebih dahulu pada unit percontohan guna menghasilkan data keberhasilan nyata yang terbukti sebelum diimplementasikan secara massal ke seluruh unit.
 
-4. PEMBUKTIAN FAKTUAL MELALUI PILOT PROJECT ASRAMA PERCONTOHAN:
-   Setiap inovasi tata kelola diuji coba terlebih dahulu pada unit percontohan guna menghasilkan
-   data keberhasilan nyata yang terbukti sebelum diimplementasikan secara massal ke seluruh unit.
-===================================================================================================
-```
 
 ---
 

@@ -33,7 +33,7 @@
   - [6. Inkuiri 5: Rekayasa Komunikasi Edukatif: Dialog Empati Hati ke Hati & Batasan Profesional Musyrif](#6-inkuiri-5-rekayasa-komunikasi-edukatif-dialog-empati-hati-ke-hati--batasan-profesional-musyrif)
   - [7. Inkuiri 6: Translasi Relasi Qudwah ke Tata Kelola Standar Interaksi Harian Guru-Santri 24 Jam](#7-inkuiri-6-translasi-relasi-qudwah-ke-tata-kelola-standar-interaksi-harian-guru-santri-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik](#1-deklarasi-doktrin-baku-relasi-edukatif-berbasis-qudwah--ihtiram-timbal-balik)
+  - [1. Kaidah Utama dan Standar Baku: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik](#1-kaidah-utama-dan-standar-baku-relasi-edukatif-berbasis-qudwah-ihtiram-timbal-balik)
   - [2. Matriks Komparasi Pola Relasi Guru-Santri: Feodal-Otoriter vs Permisif vs Qudwah-Attachment TUMBUH](#2-matriks-komparasi-pola-relasi-guru-santri-feodal-otoriter-vs-permisif-vs-qudwah-attachment-tumbuh)
   - [3. Matriks Kode Etik & Batasan Interaksi Harian Guru/Musyrif-Santri 24 Jam](#3-matriks-kode-etik--batasan-interaksi-harian-gurumusyrif-santri-24-jam)
   - [4. Protokol Bimbingan Empat Mata (1-on-1 Mentoring Protocol) yang Aman & Menjaga Martabat](#4-protokol-bimbingan-empat-mata-1-on-1-mentoring-protocol-yang-aman--menjaga-martabat)
@@ -252,35 +252,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik
+### 1. Kaidah Utama dan Standar Baku: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik
 
-```
-===================================================================================================
-               PIAGAM DOKTRIN BAKU RELASI EDUKATIF GURU-SANTRI PESANTREN TUMBUH
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENELADANI AKHLAKUL KARIMAH RASULULLAH SHALLALLAHU 'ALAIHI WA SALLAM
-DAN WASIAT PARA MASYAIKH PENDIRI PESANTREN, EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI
-MENETAPKAN DOKTRIN BAKU RELASI EDUKATIF GURU DAN SANTRI:
+1. **Asas Kasih Sayang Ayah Spiritual (IN Loco Parentis)**:  
+   Seluruh guru, asatidz, dan musyrif wajib memperlakukan setiap santri laksana anak kandungnya sendiri dalam hal kasih sayang (ar-Rifq), belas kasih (asy-Syafaqah), dan pemuliaan martabat insan (al-Ikram).
 
-1. ASAS KASIH SAYANG AYAH SPIRITUAL (IN LOCO PARENTIS):
-   Seluruh guru, asatidz, dan musyrif wajib memperlakukan setiap santri laksana anak kandungnya sendiri
-   dalam hal kasih sayang (ar-Rifq), belas kasih (asy-Syafaqah), dan pemuliaan martabat insan (al-Ikram).
+2. **Dekonstruksi Total Feodalisme Relasi Kuasa**:  
+   Menghapus mutlak segala bentuk perlakuan asimetris yang merendahkan santri menjadi pelayan pribadi guru. Menolak doktrin kepatuhan buta yang mematikan nalar kritis dan memicu inferioritas mental.
 
-2. DEKONSTRUKSI TOTAL FEODALISME RELASI KUASA:
-   Menghapus mutlak segala bentuk perlakuan asimetris yang merendahkan santri menjadi pelayan pribadi
-   guru. Menolak doktrin kepatuhan buta yang mematikan nalar kritis dan memicu inferioritas mental.
+3. **Keteladanan Qudwah Melayani (sayyidul Qawmi Khadimuhum)**:  
+   Kewibawaan guru ditegakkan di atas keteladanan amal shalih nyata, keluhuran budi pekerti, dan dedikasi melayani santri. Dilarang keras menuntut ketaatan dengan ancaman tongkat, kekerasan fisik, atau bentakan.
 
-3. KETELADANAN QUDWAH MELAYANI (SAYYIDUL QAWMI KHADIMUHUM):
-   Kewibawaan guru ditegakkan di atas keteladanan amal shalih nyata, keluhuran budi pekerti, dan dedikasi
-   melayani santri. Dilarang keras menuntut ketaatan dengan ancaman tongkat, kekerasan fisik, atau bentakan.
+4. **Kelekatan Aman & Perlindungan Mental (secure Base Environment)**:  
+   Musyrif wajib menciptakan lingkungan pengasuhan yang aman secara psikologis, mudah diakses santri, responsif terhadap beban emosi santri, dan menjaga kerahasiaan aib santri secara profesional.
 
-4. KELEKATAN AMAN & PERLINDUNGAN MENTAL (SECURE BASE ENVIRONMENT):
-   Musyrif wajib menciptakan lingkungan pengasuhan yang aman secara psikologis, mudah diakses santri,
-   responsif terhadap beban emosi santri, dan menjaga kerahasiaan aib santri secara profesional.
-===================================================================================================
-```
 
 ---
 

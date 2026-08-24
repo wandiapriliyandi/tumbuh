@@ -33,7 +33,7 @@
   - [6. Inkuiri 5: Dialektika Mitigasi Homesickness, Krisis Transisi, & Resolusi Friksi Kamar Santri Baru](#6-inkuiri-5-dialektika-mitigasi-homesickness-krisis-transisi--resolusi-friksi-kamar-santri-baru)
   - [7. Inkuiri 6: Translasi Trajektori Perkembangan ke Tata Kelola Pengasuhan Asrama 24 Jam](#7-inkuiri-6-translasi-trajektori-perkembangan-ke-tata-kelola-pengasuhan-asrama-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Perlindungan dan Pendampingan Fase Perkembangan Santri](#1-deklarasi-doktrin-baku-perlindungan-dan-pendampingan-fase-perkembangan-santri)
+  - [1. Kaidah Utama dan Standar Baku: Perlindungan dan Pendampingan Fase Perkembangan Santri](#1-kaidah-utama-dan-standar-baku-perlindungan-dan-pendampingan-fase-perkembangan-santri)
   - [2. Matriks Komparasi Periodisasi: Turats Marahil al-'Umr vs Psikologi Perkembangan Barat](#2-matriks-komparasi-periodisasi-turats-marahil-al-umr-vs-psikologi-perkembangan-barat)
   - [3. Matriks Diferensiasi Pengasuhan Asrama: Jenjang MTs vs Jenjang MA](#3-matriks-diferensiasi-pengasuhan-asrama-jenjang-mts-vs-jenjang-ma)
   - [4. Protokol Bimbingan Transisi: SOP Mitigasi Homesickness & De-Eskalasi Ledakan Emosi Remaja](#4-protokol-bimbingan-transisi-sop-mitigasi-homesickness--de-eskalasi-ledakan-emosi-remaja)
@@ -367,36 +367,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Perlindungan dan Pendampingan Fase Perkembangan Santri
+### 1. Kaidah Utama dan Standar Baku: Perlindungan dan Pendampingan Fase Perkembangan Santri
 
-```
-===================================================================================================
-                  PIAGAM DOKTRIN BAKU LINTASAN PERKEMBANGAN SANTRI PESANTREN TUMBUH
-                          SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-DENGAN MENGHARAPKAN PETUNJUK DAN KERIDHAAN ALLAH SUBHANAHU WA TA'ALA, EKOSISTEM PENDIDIKAN PESANTREN
-TUMBUH MENETAPKAN KETENTUAN BAKU PENDAMPINGAN FASE PERKEMBANGAN SANTRI:
+1. **Diferensiasi Perkembangan (developmental Differentiation)**:  
+   Pesantren mengakui bahwa santri usia remaja (Murahaqah) sedang mengalami metamorfosis biologis, psikososial, dan kognitif yang dinamis. Dilarang keras memberlakukan pendekatan seragam yang kaku antara santri awal remaja (MTs) dan santri akhir remaja (MA).
 
-1. PRINSIP DIFERENSIASI PERKEMBANGAN (DEVELOPMENTAL DIFFERENTIATION):
-   Pesantren mengakui bahwa santri usia remaja (Murahaqah) sedang mengalami metamorfosis biologis,
-   psikososial, dan kognitif yang dinamis. Dilarang keras memberlakukan pendekatan seragam yang kaku
-   antara santri awal remaja (MTs) dan santri akhir remaja (MA).
+2. **Integrasi Dual-systems Neurosains (neurodevelopmental Compassion)**:  
+   Memahami bahwa ketidakseimbangan antara kematangan sistem emosi limbik dan korteks prefrontal adalah sunnatullah perkembangan otak remaja. Kesalahan perilaku disikapi melalui pembimbingan logis dan disiplin restoratif (Firm & Kind), bukan dengan kekerasan verbal atau hukuman fisik.
 
-2. INTEGRASI DUAL-SYSTEMS NEUROSAINS (NEURODEVELOPMENTAL COMPASSION):
-   Memahami bahwa ketidakseimbangan antara kematangan sistem emosi limbik dan korteks prefrontal
-   adalah sunnatullah perkembangan otak remaja. Kesalahan perilaku disikapi melalui pembimbingan
-   logis dan disiplin restoratif (Firm & Kind), bukan dengan kekerasan verbal atau hukuman fisik.
+3. **HAK Perlindungan & Penghapusan Senioritas Feodal (safe Embrace)**:  
+   Menghapus mutlak segala bentuk perpeloncoan, pemukulan, perendahan verbal, dan penyerahan wewenang hukuman kepada santri senior. Pembinaan kedisiplinan sepenuhnya berada di bawah mandat musyrif dewasa.
 
-3. HAK PERLINDUNGAN & PENGHAPUSAN SENIORITAS FEODAL (SAFE EMBRACE):
-   Menghapus mutlak segala bentuk perpeloncoan, pemukulan, perendahan verbal, dan penyerahan wewenang
-   hukuman kepada santri senior. Pembinaan kedisiplinan sepenuhnya berada di bawah mandat musyrif dewasa.
+4. **Protokol Empatik Penanganan Homesickness (empathetic Attachment)**:  
+   Rindu rumah dan air mata santri baru pada masa transisi diakui sebagai fitrah kemanusiaan yang wajib didampingi dengan kehangatan pelukan, validasi emosi, dan penyediaan jangkar sosial asrama yang ramah.
 
-4. PROTOKOL EMPATIK PENANGANAN HOMESICKNESS (EMPATHETIC ATTACHMENT):
-   Rindu rumah dan air mata santri baru pada masa transisi diakui sebagai fitrah kemanusiaan yang wajib
-   didampingi dengan kehangatan pelukan, validasi emosi, dan penyediaan jangkar sosial asrama yang ramah.
-===================================================================================================
-```
 
 ---
 

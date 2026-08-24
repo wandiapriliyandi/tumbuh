@@ -38,7 +38,7 @@
   - [4. Inkuiri 3: Progresi Tangga TUMBUH T1–T4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4-inkuiri-3-progresi-tangga-tumbuh-t1t4-gradualisme-syari-menuju-tahap-7-penggerak)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
   - [2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Tangga T1–T4](#2-matriks-taksonomi-terpadu-10-muwashafat-5-casel-sel--deskriptor-tangga-t1t4)
   - [3. Protokol Asesmen Pertumbuhan Karakter Ipsatif Non-Ranking (BARS Protocol)](#3-protokol-asesmen-pertumbuhan-karakter-ipsatif-non-ranking-bars-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -158,35 +158,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU STANDAR KOMPETENSI 10 KARAKTER SANTRI EKOSISTEM PESANTREN TUMBUH
-                       SUB-DOMAIN 01: GRADUATE PROFILE — DOMAIN 03 CAPACITY
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN HAKIKAT KESEMPURNAAN AKHLAK NABAWIYYAH,
-MAJELIS MASYAIKH TERTINGGI BERSAMA DEWAN KEILMUAN PESANTREN TUMBUH MENETAPKAN DOKTRIN KOMPETENSI SANTRI:
+1. **Keutuhan 10 Muwashafat Karakter Islami**:  
+   Menetapkan 10 pilar karakter (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qawiyyul Jism, Mutsaqqaful Fikr, Mujahadatun Linafsih, Haritsun 'ala Waqtih, Munazhzham fi Syu'unih, Qadirun 'alal Kasb, dan Nafi'un Lighairih) sebagai profil kapasitas kelulusan santri yang tidak dapat dipisahkan.
 
-1. DOKTRIN KEUTUHAN 10 MUWASHAFAT KARAKTER ISLAMI:
-   Menetapkan 10 pilar karakter (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qawiyyul Jism,
-   Mutsaqqaful Fikr, Mujahadatun Linafsih, Haritsun 'ala Waqtih, Munazhzham fi Syu'unih, Qadirun 'alal Kasb,
-   dan Nafi'un Lighairih) sebagai profil kapasitas kelulusan santri yang tidak dapat dipisahkan.
+2. **Harmonisasi Total Dengan 5 Kompetensi Casel Social-emotional Learning**:  
+   Menerjemahkan seluruh nilai adab turats ke dalam keterampilan psikososial nyata yang teramati dan terlatihkan dalam rutinitas kehidupan madrasah dan asrama 24 jam.
 
-2. HARMONISASI TOTAL DENGAN 5 KOMPETENSI CASEL SOCIAL-EMOTIONAL LEARNING:
-   Menerjemahkan seluruh nilai adab turats ke dalam keterampilan psikososial nyata yang teramati
-   dan terlatihkan dalam rutinitas kehidupan madrasah dan asrama 24 jam.
+3. **Penegakan Gradualisme Tangga Pertumbuhan (t1–t4)**:  
+   Mengharamkan tuntutan kesempurnaan instan; menilai kemajuan santri berdasarkan tahapan adaptasi (T1), pembiasaan (T2), internalisasi (T3), kemandirian (T4), menuju puncak kader penggerak peradaban (Tahap 7).
 
-3. PENEGAKAN GRADUALISME TANGGA PERTUMBUHAN (T1–T4):
-   Mengharamkan tuntutan kesempurnaan instan; menilai kemajuan santri berdasarkan tahapan adaptasi (T1),
-   pembiasaan (T2), internalisasi (T3), kemandirian (T4), menuju puncak kader penggerak peradaban (Tahap 7).
+4. **Asesmen Pertumbuhan Ipsatif Non-komparatif**:  
+   Menghapus perankingan tunggal kelas; menilai pertumbuhan karakter santri dengan membandingkan kemajuan dirinya saat ini terhadap titik awalnya sendiri melalui portofolio adab harian.
 
-4. ASESMEN PERTUMBUHAN IPSATIF NON-KOMPARATIF:
-   Menghapus perankingan tunggal kelas; menilai pertumbuhan karakter santri dengan membandingkan
-   kemajuan dirinya saat ini terhadap titik awalnya sendiri melalui portofolio adab harian.
-===================================================================================================
-```
 
 ---
 

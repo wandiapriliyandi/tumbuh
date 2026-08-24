@@ -33,7 +33,7 @@
   - [6. Inkuiri 5: Dialektika Empat Dimensi Fitrah Santri (Tauhidi, 'Aqli, Nafsi, Jasadi)](#6-inkuiri-5-dialektika-empat-dimensi-fitrah-santri-tauhidi-aqli-nafsi-jasadi)
   - [7. Inkuiri 6: Translasi Ontologi Fitrah ke Budaya Pengasuhan Asrama Pesantren 24 Jam](#7-inkuiri-6-translasi-ontologi-fitrah-ke-budaya-pengasuhan-asrama-pesantren-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hakikat Fitrah & Kodrat Insan Pembelajar](#1-deklarasi-doktrin-baku-hakikat-fitrah--kodrat-insan-pembelajar)
+  - [1. Kaidah Utama dan Standar Baku: Hakikat Fitrah & Kodrat Insan Pembelajar](#1-kaidah-utama-dan-standar-baku-hakikat-fitrah-kodrat-insan-pembelajar)
   - [2. Matriks Komparasi Ontologi Manusia: Islam vs 4 Mazhab Filsafat Barat](#2-matriks-komparasi-ontologi-manusia-islam-vs-4-mazhab-filsafat-barat)
   - [3. Matriks Empat Dimensi Fitrah Santri & Indikator Aktualisasinya](#3-matriks-empat-dimensi-fitrah-santri--indikator-aktualisasinya)
   - [4. Protokol Husnudzan Edukatif & Penanganan Anomali Fitrah Asrama](#4-protokol-husnudzan-edukatif--penanganan-anomali-fitrah-asrama)
@@ -368,11 +368,11 @@ flowchart TD
 
 # BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
 
-*Bagian ini memuat deklarasi doktrin baku Hakikat Fitrah, matriks komparasi ontologi Islam vs Barat, matriks 4 dimensi fitrah santri, dan protokol operasional Husnudzan Edukatif.*
+*Bagian ini memuat rumusan kaidah utama dan standar operasional Hakikat Fitrah, matriks komparasi ontologi Islam vs Barat, matriks 4 dimensi fitrah santri, dan protokol operasional Husnudzan Edukatif.*
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hakikat Fitrah & Kodrat Insan Pembelajar
+### 1. Kaidah Utama dan Standar Baku: Hakikat Fitrah & Kodrat Insan Pembelajar
 
 Ekosistem TUMBUH menetapkan deklarasi resmi ontologi manusia:
 

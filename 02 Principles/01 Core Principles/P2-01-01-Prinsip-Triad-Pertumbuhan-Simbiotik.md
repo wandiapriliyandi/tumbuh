@@ -32,7 +32,7 @@
   - [6. Inkuiri 5: Konvergensi Bioekologi Bronfenbrenner & The Fifth Discipline Peter Senge](#6-inkuiri-5-konvergensi-bioekologi-bronfenbrenner--the-fifth-discipline-peter-senge)
   - [7. Inkuiri 6: Translasi Triad Simbiotik ke Manajemen Operasional Asrama 24 Jam](#7-inkuiri-6-translasi-triad-simbiotik-ke-manajemen-operasional-asrama-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hukum Triad Pertumbuhan Simbiotik](#1-deklarasi-doktrin-baku-hukum-triad-pertumbuhan-simbiotik)
+  - [1. Kaidah Utama dan Standar Baku: Hukum Triad Pertumbuhan Simbiotik](#1-kaidah-utama-dan-standar-baku-hukum-triad-pertumbuhan-simbiotik)
   - [2. Matriks Korespondensi Tiga Entitas Simbiotik TUMBUH](#2-matriks-korespondensi-tiga-entitas-simbiotik-tumbuh)
   - [3. Protokol Perlindungan Musyrif: Shift Kerja Sehat & Anti-Burnout Protocol](#3-protokol-perlindungan-musyrif-shift-kerja-sehat--anti-burnout-protocol)
   - [4. Alur Rapat Koordinasi Mingguan Terpadu Triad (Weekly Triad Convergence)](#4-alur-rapat-koordinasi-mingguan-terpadu-triad-weekly-triad-convergence)
@@ -356,13 +356,13 @@ flowchart TD
 
 # BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
 
-*Bagian ini memuat deklarasi doktrin baku Triad Pertumbuhan Simbiotik, matriks korespondensi tiga entitas, protokol shift sehat anti-burnout, dan standar operasional rapat koordinasi mingguan.*
+*Bagian ini memuat rumusan kaidah utama dan standar operasional Triad Pertumbuhan Simbiotik, matriks korespondensi tiga entitas, protokol shift sehat anti-burnout, dan standar operasional rapat koordinasi mingguan.*
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hukum Triad Pertumbuhan Simbiotik
+### 1. Kaidah Utama dan Standar Baku: Hukum Triad Pertumbuhan Simbiotik
 
-Ekosistem TUMBUH menetapkan deklarasi doktrin baku tata kelola pembinaan:
+Ekosistem TUMBUH menetapkan kaidah operasional dan standar baku tata kelola pembinaan:
 
 > **"Pembinaan adab dan karakter santri adalah fungsi organis dari keterpaduan tiga entitas yang saling menghidupi: Santri yang Mekar Fitrahnya, Guru/Musyrif yang Bahagia dan Terlindungi Kesejahteraan Mentality-nya, serta Sistem Lembaga yang Adil, Transparan, dan Berbasis Data PBIS. Kegagalan pada salah satu entitas adalah kegagalan seluruh ekosistem; dan kesuksesan pembinaan hanya dapat diraih melalui pertumbuhan serempak ketiga entitas tersebut secara simbiotik (*Mutual Holistic Symbiosis*)."**[^38]
 

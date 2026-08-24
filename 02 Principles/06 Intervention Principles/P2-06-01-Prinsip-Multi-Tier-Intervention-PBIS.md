@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Menjaga Rasio Apresiasi Kebaikan Minimal 4:1 (The 4:1 Positivity Ratio)](#5-inkuiri-4-menjaga-rasio-apresiasi-kebaikan-minimal-41-the-41-positivity-ratio)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Intervensi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-intervensi-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-multi-tier-pbis-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-multi-tier-pbis-pesantren-tumbuh)
   - [2. Matriks Komparasi 3 Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)](#2-matriks-komparasi-3-tingkat-pbis-pesantren-tumbuh-tier-1-tier-2-tier-3)
   - [3. Alur Standar Operasional Prosedur Program CICO Tier 2 Harian](#3-alur-standar-operasional-prosedur-program-cico-tier-2-harian)
   - [4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3](#4-protokol-eskalasi-dan-rujukan-santri-dari-tier-1-menuju-tier-3)
@@ -189,35 +189,22 @@ Riset neuropsikologi membuktikan bahwa otak manusia memiliki **Bias Negativitas 
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Multi-Tier PBIS Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Multi-Tier PBIS Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU INTERVENSI MULTI-TIER PBIS PESANTREN
-                          SUB-DOMAIN 06: INTERVENTION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KAIDAH SADD ADZ-DZARA'I' DAN SUNNAH TADARRUJ NABAWIYYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU INTERVENSI PERILAKU:
+1. **Penghapusan Paradigma Reaktif Punitif (anti-reactive Discipline Mandate)**:  
+   Menolak segala bentuk penanganan disiplin berbasis kemarahan spontan, pemukulan rotan, dan pengusiran. Pengelolaan perilaku wajib menggunakan sistem pencegahan proaktif multi-jenjang berlandaskan data.
 
-1. DOKTRIN PENGHAPUSAN PARADIGMA REAKTIF PUNITIF (ANTI-REACTIVE DISCIPLINE MANDATE):
-   Menolak segala bentuk penanganan disiplin berbasis kemarahan spontan, pemukulan rotan, dan pengusiran.
-   Pengelolaan perilaku wajib menggunakan sistem pencegahan proaktif multi-jenjang berlandaskan data.
+2. **Penetapan Struktur Kontinum Multi-tier Pbis 3 Tingkat**:  
+   - Tier 1: Pencegahan Universal untuk 100% populasi santri melalui pengajaran adab eksplisit & rasio 4:1. - Tier 2: Intervensi Terarah bagi 10–15% santri melalui program Check-In/Check-Out (CICO) harian. - Tier 3: Dukungan Intensif Mendalam bagi 1–5% santri melalui tim terpadu Wraparound & FBA-BIP.
 
-2. PENETAPAN STRUKTUR KONTINUM MULTI-TIER PBIS 3 TINGKAT:
-   - Tier 1: Pencegahan Universal untuk 100% populasi santri melalui pengajaran adab eksplisit & rasio 4:1.
-   - Tier 2: Intervensi Terarah bagi 10–15% santri melalui program Check-In/Check-Out (CICO) harian.
-   - Tier 3: Dukungan Intensif Mendalam bagi 1–5% santri melalui tim terpadu Wraparound & FBA-BIP.
+3. **Penegakan Rasio Apresiasi Positif Minimal 4**:  
+   1: Setiap asatidz dan musyrif wajib memastikan pemberian minimal 4 kali pengakuan/apresiasi kebaikan sebelum memberikan 1 kali teguran korektif, demi menjaga kestabilan psikologis dan rasa aman santri.
 
-3. MANDAT PENEGAKAN RASIO APRESIASI POSITIF MINIMAL 4:1:
-   Setiap asatidz dan musyrif wajib memastikan pemberian minimal 4 kali pengakuan/apresiasi kebaikan
-   sebelum memberikan 1 kali teguran korektif, demi menjaga kestabilan psikologis dan rasa aman santri.
+4. **Protokol Pendampingan Cico Harian Bebas Stigmatisasi**:  
+   Mewajibkan pelaksanaan program CICO yang ramah dan konsisten bagi santri yang membutuhkan perancah adab, menjadikannya sebagai jembatan kasih sayang kebapaan (In Loco Parentis), bukan label hukuman.
 
-4. PROTOKOL PENDAMPINGAN CICO HARIAN BEBAS STIGMATISASI:
-   Mewajibkan pelaksanaan program CICO yang ramah dan konsisten bagi santri yang membutuhkan perancah adab,
-   menjadikannya sebagai jembatan kasih sayang kebapaan (In Loco Parentis), bukan label hukuman.
-===================================================================================================
-```
 
 ---
 

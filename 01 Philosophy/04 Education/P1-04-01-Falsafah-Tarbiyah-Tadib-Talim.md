@@ -34,7 +34,7 @@
   - [6. Inkuiri 5: Integrasi Kurikulum Adab Holistik 24 Jam sebagai Aktualisasi Nyata Ta'dib](#6-inkuiri-5-integrasi-kurikulum-adab-holistik-24-jam-sebagai-aktualisasi-nyata-tadib)
   - [7. Inkuiri 6: Translasi Falsafah Ta'dib ke Tata Kelola Budaya Pesantren Bebas Desakralisasi Ilmu](#7-inkuiri-6-translasi-falsafah-tadib-ke-tata-kelola-budaya-pesantren-bebas-desakralisasi-ilmu)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH](#1-deklarasi-doktrin-baku-tadib-sebagai-episentrum-filsafat-pendidikan-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-ta-dib-sebagai-episentrum-filsafat-pendidikan-pesantren-tumbuh)
   - [2. Matriks Distingsi Filosofis & Operasional: Tarbiyah, Ta'lim, dan Ta'dib](#2-matriks-distingsi-filosofis--operasional-tarbiyah-talim-dan-tadib)
   - [3. Matriks 5 Dimensi Penanaman Adab dalam Kehidupan Pesantren 24 Jam](#3-matriks-5-dimensi-penanaman-adab-dalam-kehidupan-pesantren-24-jam)
   - [4. Protokol Standar Pembelajaran Berbasis Ta'dib di Kelas dan Asrama](#4-protokol-standar-pembelajaran-berbasis-tadib-di-kelas-dan-asrama)
@@ -280,37 +280,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU FALSAFAH PENDIDIKAN & TA'DIB PESANTREN TUMBUH
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGHARAPKAN KERIDHAAN ALLAH SUBHANAHU WA TA'ALA DAN MENELADANI
-SUNNAH NABI MUHAMMAD SHALLALLAHU 'ALAIHI WA SALLAM, EKOSISTEM PENDIDIKAN PESANTREN TUMBUH
-DENGAN INI MEMAKLUMKAN DOKTRIN BAKU FALSAFAH PENDIDIKAN:
+1. **Hakikat Pendidikan Adalah Ta'dib (education AS Ta'dib)**:  
+   Pendidikan Islam yang sejati bukanlah sekadar pemeliharaan fisik (Tarbiyah) atau transmisi wawasan kognitif semata (Ta'lim), melainkan PENANAMAN ADAB KE DALAM DIRI INSAN PEMBELAJAR (TA'DIB) agar ia mengenali dan mengakui posisinya yang hakiki di hadapan Allah, guru, sesama manusia, dan alam.
 
-1. HAKIKAT PENDIDIKAN ADALAH TA'DIB (EDUCATION AS TA'DIB):
-   Pendidikan Islam yang sejati bukanlah sekadar pemeliharaan fisik (Tarbiyah) atau transmisi wawasan
-   kognitif semata (Ta'lim), melainkan PENANAMAN ADAB KE DALAM DIRI INSAN PEMBELAJAR (TA'DIB)
-   agar ia mengenali dan mengakui posisinya yang hakiki di hadapan Allah, guru, sesama manusia, dan alam.
+2. **Integrasi Triad Pendidikan (the Triadic Synthesis)**:  
+   a. TARBIYAH: Menyediakan lingkungan asrama yang aman, sehat, bergizi, dan melindungi fisik santri. b. TA'LIM: Mengajarkan ilmu syariat dan sains kontemporer dengan nalar kritis dan dedikasi akademis tinggi. c. TA'DIB: Membimbing kalbu, menyucikan niat, dan mengukir watak adab mulia dalam seluruh amal perbuatan.
 
-2. INTEGRASI TRIAD PENDIDIKAN (THE TRIADIC SYNTHESIS):
-   a. TARBIYAH: Menyediakan lingkungan asrama yang aman, sehat, bergizi, dan melindungi fisik santri.
-   b. TA'LIM: Mengajarkan ilmu syariat dan sains kontemporer dengan nalar kritis dan dedikasi akademis tinggi.
-   c. TA'DIB: Membimbing kalbu, menyucikan niat, dan mengukir watak adab mulia dalam seluruh amal perbuatan.
+3. **Penghapusan Desakralisasi Ilmu & Komersialisasi Pendidikan**:  
+   Menolak segala bentuk komersialisasi ilmu yang mendegradasi relasi guru-murid menjadi transaksi material. Ilmu adalah cahaya Ilahi (Nurullah) yang diwariskan dengan keikhlasan, amanah, dan keteladanan qudwah.
 
-3. PENGHAPUSAN DESAKRALISASI ILMU & KOMERSIALISASI PENDIDIKAN:
-   Menolak segala bentuk komersialisasi ilmu yang mendegradasi relasi guru-murid menjadi transaksi material.
-   Ilmu adalah cahaya Ilahi (Nurullah) yang diwariskan dengan keikhlasan, amanah, dan keteladanan qudwah.
+4. **Kurikulum Adab 24 JAM (the 24-hour Living Curriculum)**:  
+   Menegakkan pembelajaran adab sebagai nafas kehidupan terpadu di ruang kelas, masjid, kamar asrama, meja makan, lapangan olahraga, hingga ruang komunikasi digital.
 
-4. KURIKULUM ADAB 24 JAM (THE 24-HOUR LIVING CURRICULUM):
-   Menegakkan pembelajaran adab sebagai nafas kehidupan terpadu di ruang kelas, masjid, kamar asrama,
-   meja makan, lapangan olahraga, hingga ruang komunikasi digital.
-===================================================================================================
-```
 
 ---
 

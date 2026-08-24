@@ -29,7 +29,7 @@
   - [5. Inkuiri 4: Kepemimpinan Pelayan Berdampak Global (Global Impact Servant Leadership)](#5-inkuiri-4-kepemimpinan-pelayan-berdampak-global-global-impact-servant-leadership)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kiprah Alumni, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kiprah-alumni--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH](#1-deklarasi-doktrin-baku-hakikat-puncak-aktualisasi-insan-adabi-tahap-7-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-puncak-aktualisasi-insan-adabi-tahap-7-pesantren-tumbuh)
   - [2. Matriks 4 Dimensi Kompetensi Tahap 7 Penggerak Peradaban](#2-matriks-4-dimensi-kompetensi-tahap-7-penggerak-peradaban)
   - [3. Portofolio Kelulusan Paripurna & Protokol Pelepasan Alumni (Khitamut Tarbiyah)](#3-portofolio-kelulusan-paripurna--protokol-pelepasan-alumni-khitamut-tarbiyah)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -175,34 +175,22 @@ Santri Tahap 7 dipersiapkan untuk memiliki empat jangkar kepemimpinan peradaban:
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU PUNCAK AKTUALISASI INSAN ADABI TAHAP 7 PENGGERAK PERADABAN
-                       SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN AMANAH KHILAFAH DAN RISALAH RAHMATAN LIL 'ALAMIN,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN PUNCAK AKTUALISASI:
+1. **Penetapan Profil Insan Adabi Sebagai Standard Kelulusan Paripurna (graduate Profile)**:  
+   Menetapkan bahwa profil akhir lulusan pesantren TUMBUH adalah Insan Adabi (Man of Adab) yang meletakkan tauhid di atas segalanya, menguasai sains dan adab, serta berjiwa merdeka lillahi ta'ala.
 
-1. PENETAPAN PROFIL INSAN ADABI SEBAGAI STANDARD KELULUSAN PARIPURNA (GRADUATE PROFILE):
-   Menetapkan bahwa profil akhir lulusan pesantren TUMBUH adalah Insan Adabi (Man of Adab)
-   yang meletakkan tauhid di atas segalanya, menguasai sains dan adab, serta berjiwa merdeka lillahi ta'ala.
+2. **Penetapan Status Mushlih Sebagai Mandat Agung Santri Tahap 7**:  
+   Lulusan TUMBUH diikrarkan bukan sekadar sebagai insan shalih individual, melainkan sebagai Mushlih (agen perbaikan sosial) yang terpanggil membela kaum tertindas dan memakmurkan bumi.
 
-2. PENETAPAN STATUS MUSHLIH SEBAGAI MANDAT AGUNG SANTRI TAHAP 7:
-   Lulusan TUMBUH diikrarkan bukan sekadar sebagai insan shalih individual, melainkan sebagai
-   Mushlih (agen perbaikan sosial) yang terpanggil membela kaum tertindas dan memakmurkan bumi.
+3. **Pengabdian Masyarakat Nyata Sebagai Syarat Kelulusan (khitamul Khidmah)**:  
+   Setiap santri tingkat akhir wajib menuntaskan proyek khidmah pengabdian masyarakat selama minimal 1 semester sebagai bukti nyata integrasi Tangga T1–T4 dan penguasaan kepemimpinan Servant Leadership.
 
-3. MANDAT PENGABDIAN MASYARAKAT NYATA SEBAGAI SYARAT KELULUSAN (KHITAMUL KHIDMAH):
-   Setiap santri tingkat akhir wajib menuntaskan proyek khidmah pengabdian masyarakat selama minimal
-   1 semester sebagai bukti nyata integrasi Tangga T1–T4 dan penguasaan kepemimpinan Servant Leadership.
+4. **Integrasi Total Triad Pertumbuhan Simbiotik Sebagai Warisan Peradaban**:  
+   Memastikan alumni Tahap 7 senantiasa menjaga hubungan mahabbah dengan almamater, memuliakan para masyayikh, dan mendedikasikan hidupnya demi kejayaan Islam dan kemaslahatan bangsa.
 
-4. INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK SEBAGAI WARISAN PERADABAN:
-   Memastikan alumni Tahap 7 senantiasa menjaga hubungan mahabbah dengan almamater, memuliakan
-   para masyayikh, dan mendedikasikan hidupnya demi kejayaan Islam dan kemaslahatan bangsa.
-===================================================================================================
-```
 
 ---
 

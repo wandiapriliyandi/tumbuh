@@ -32,7 +32,7 @@
   - [6. Inkuiri 5: Implementasi Sistem Pendampingan Sebaya (Brotherhood / Sisterhood Mentorship)](#6-inkuiri-5-implementasi-sistem-pendampingan-sebaya-brotherhood--sisterhood-mentorship)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom](#1-deklarasi-doktrin-baku-piagam-anti-perpeloncoan-dan-kepemimpinan-santri-pengayom)
+  - [1. Kaidah Utama dan Standar Baku: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom](#1-kaidah-utama-dan-standar-baku-piagam-anti-perpeloncoan-dan-kepemimpinan-santri-pengayom)
   - [2. Matriks Komparasi Organisasi Santri: Model Senioritas Feodal vs Model Duta Adab TUMBUH](#2-matriks-komparasi-organisasi-santri-model-senioritas-feodal-vs-model-duta-adab-tumbuh)
   - [3. Matriks Kurikulum Pelatihan Kepemimpinan Santri Tahap 7 Penggerak](#3-matriks-kurikulum-pelatihan-kepemimpinan-santri-tahap-7-penggerak)
   - [4. Protokol Mentoring Sahabat Sebaya (Peer Mentorship Charter)](#4-protokol-mentoring-sahabat-sebaya-peer-mentorship-charter)
@@ -217,35 +217,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom
+### 1. Kaidah Utama dan Standar Baku: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom
 
-```
-===================================================================================================
-             PIAGAM ANTI-PERPELONCOAN & KEPEMIMPINAN SANTRI PENGAYOM (DUTA ADAB)
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN PERSAUDARAAN ISLAM YANG SUCI (UKHUWAH ISLAMIYYAH),
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU KEPEMIMPINAN SANTRI:
+1. **Larangan Mutlak Hukuman Oleh Santri Senior (zero Senior Punishment)**:  
+   DILARANG KERAS 100% BAGI SANTRI SENIOR (ORGANISASI SANTRI / KELAS AKHIR) MEMBERIKAN SANKSI FISIK, PEMBENTAKAN VERBAL, SIDANG TENGAH MALAM, ATAU TINDAKAN MERENDAHKAN MARTABAT KEPADA ADIK KELAS. Seluruh wewenang yudisial dan penindakan disiplin berada secara eksklusif di tangan Musyrif dewasa.
 
-1. LARANGAN MUTLAK HUKUMAN OLEH SANTRI SENIOR (ZERO SENIOR PUNISHMENT):
-   DILARANG KERAS 100% BAGI SANTRI SENIOR (ORGANISASI SANTRI / KELAS AKHIR) MEMBERIKAN SANKSI FISIK,
-   PEMBENTAKAN VERBAL, SIDANG TENGAH MALAM, ATAU TINDAKAN MERENDAHKAN MARTABAT KEPADA ADIK KELAS.
-   Seluruh wewenang yudisial dan penindakan disiplin berada secara eksklusif di tangan Musyrif dewasa.
+2. **Transformasi Organisasi Santri Menjadi Dewan Pelayan Duta Adab**:  
+   Organisasi santri difungsikan sebagai wadah pengabdian (Khadim ath-Thullab) untuk memfasilitasi kebutuhan santri, mengorganisir kegiatan kreatif, dan memancarkan keteladanan adab terdepan.
 
-2. TRANSFORMASI ORGANISASI SANTRI MENJADI DEWAN PELAYAN DUTA ADAB:
-   Organisasi santri difungsikan sebagai wadah pengabdian (Khadim ath-Thullab) untuk memfasilitasi
-   kebutuhan santri, mengorganisir kegiatan kreatif, dan memancarkan keteladanan adab terdepan.
+3. **Sistem Sahabat Pengayom (peer Mentorship System)**:  
+   Setiap santri senior Tahap 7 dilatih dan diamanahkan menjadi mentor pendamping bagi 3–5 santri baru, membantu adaptasi ibadah, penguasaan bahasa Arab/Inggris, dan kenyamanan hidup di asrama.
 
-3. MANDAT SISTEM SAHABAT PENGAYOM (PEER MENTORSHIP SYSTEM):
-   Setiap santri senior Tahap 7 dilatih dan diamanahkan menjadi mentor pendamping bagi 3–5 santri baru,
-   membantu adaptasi ibadah, penguasaan bahasa Arab/Inggris, dan kenyamanan hidup di asrama.
+4. **Eliminasi Total Perpeloncoan Masa Orientasi**:  
+   Masa orientasi santri baru wajib diselenggarakan dengan format Pekan Ta'aruf Ukhuwah yang ramah, edukatif, menggembirakan, dan sarat dengan nilai-nilai kasih sayang kenabian.
 
-4. ELIMINASI TOTAL PERPELONCOAN MASA ORIENTASI:
-   Masa orientasi santri baru wajib diselenggarakan dengan format Pekan Ta'aruf Ukhuwah yang ramah,
-   edukatif, menggembirakan, dan sarat dengan nilai-nilai kasih sayang kenabian.
-===================================================================================================
-```
 
 ---
 

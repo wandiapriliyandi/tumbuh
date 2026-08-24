@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Strategi Metakognitif Harian Santri: Self-Monitoring Checklist & Jurnal Refleksi Malam](#5-inkuiri-4-strategi-metakognitif-harian-santri-self-monitoring-checklist--jurnal-refleksi-malam)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kemandirian Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kemandirian-santri--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH](#1-deklarasi-doktrin-baku-prinsip-metakognisi-dan-kemandirian-belajar-santri-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-metakognisi-dan-kemandirian-belajar-santri-tumbuh)
   - [2. Matriks Siklus 3 Fase Self-Regulated Learning (SRL) dalam Rutinitas Santri 24 Jam](#2-matriks-siklus-3-fase-self-regulated-learning-srl-dalam-rutinitas-santri-24-jam)
   - [3. Matriks Transformasi Fixed Mindset Menuju Growth Mindset Islami](#3-matriks-transformasi-fixed-mindset-menuju-growth-mindset-islami)
   - [4. Protokol Muhasabah Kognitif & Jurnal Refleksi Belajar Mandiri (Self-Regulated Study Protocol)](#4-protokol-muhasabah-kognitif--jurnal-refleksi-belajar-mandiri-self-regulated-study-protocol)
@@ -197,34 +197,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU METAKOGNISI DAN KEMANDIRIAN BELAJAR SANTRI PESANTREN
-                          SUB-DOMAIN 03: LEARNING PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEUTAMAAN MUHASABAH DIRI DAN KEMATANGAN ADAB THALABUL 'ILMI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU KEMANDIRIAN BELAJAR SANTRI:
+1. **Transformasi Menuju Pembelajar Mandiri Otonom (autonomous Learner)**:  
+   Pendidikan pesantren wajib menumbuhkan regulasi diri internal santri (Self-Regulation) sehingga santri belajar atas dorongan cinta ilmu dan takwa, bukan karena ketergantungan pengawasan represif.
 
-1. DOKTRIN TRANSFORMASI MENUJU PEMBELAJAR MANDIRI OTONOM (AUTONOMOUS LEARNER):
-   Pendidikan pesantren wajib menumbuhkan regulasi diri internal santri (Self-Regulation) sehingga
-   santri belajar atas dorongan cinta ilmu dan takwa, bukan karena ketergantungan pengawasan represif.
+2. **Penerapan Siklus Self-regulated Learning (srl 3 Fase)**:  
+   Setiap santri dilatih menjalankan siklus belajar mandiri: Perencanaan Target (Forethought), Pemantauan Fokus (Performance), dan Evaluasi Muhasabah Diri (Self-Reflection) dalam rutinitas harian.
 
-2. PENERAPAN SIKLUS SELF-REGULATED LEARNING (SRL 3 FASE):
-   Setiap santri dilatih menjalankan siklus belajar mandiri: Perencanaan Target (Forethought),
-   Pemantauan Fokus (Performance), dan Evaluasi Muhasabah Diri (Self-Reflection) dalam rutinitas harian.
+3. **Penanaman Growth Mindset Islami & Neuroplastisitas Akal**:  
+   Menghapus stigma kecerdasan statis (Fixed Mindset). Menanamkan keyakinan bahwa akal dan pemahaman ilmu berkembang melalui kesungguhan ikhtiar (Mujahadah), strategi belajar yang tepat, dan doa tawakal.
 
-3. PENANAMAN GROWTH MINDSET ISLAMI & NEUROPLASTISITAS AKAL:
-   Menghapus stigma kecerdasan statis (Fixed Mindset). Menanamkan keyakinan bahwa akal dan pemahaman
-   ilmu berkembang melalui kesungguhan ikhtiar (Mujahadah), strategi belajar yang tepat, dan doa tawakal.
+4. **Protokol Jurnal Refleksi Kognitif Harian (nightly Learning Journal)**:  
+   Mewajibkan alokasi waktu 10 menit setiap malam di kamar asrama bagi santri untuk mengisi jurnal muhasabah belajar, memetakan konsep yang belum dipahami, dan menyusun rencana tindak lanjut esok hari.
 
-4. PROTOKOL JURNAL REFLEKSI KOGNITIF HARIAN (NIGHTLY LEARNING JOURNAL):
-   Mewajibkan alokasi waktu 10 menit setiap malam di kamar asrama bagi santri untuk mengisi jurnal
-   muhasabah belajar, memetakan konsep yang belum dipahami, dan menyusun rencana tindak lanjut esok hari.
-===================================================================================================
-```
 
 ---
 

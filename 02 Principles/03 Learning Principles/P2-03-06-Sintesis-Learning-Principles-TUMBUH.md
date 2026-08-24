@@ -33,7 +33,7 @@
   - [2. Matriks Uji Kelaikan Pedagogis Lapangan (Pedagogical Usability & Feasibility Matrix)](#2-matriks-uji-kelaikan-pedagogis-lapangan-pedagogical-usability--feasibility-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Proses Pembelajaran](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-proses-pembelajaran)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles](#4-jembatan-epistemologis-menuju-sub-domain-04-development-principles)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU PEDAGOGI BERADAB](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-pedagogi-beradab)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PEDAGOGI BERADAB](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-pedagogi-beradab)
   - [1. Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH](#1-grand-manifesto-pembelajaran-bermakna--kognisi-beradab-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 5 Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-pembelajaran-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-pembelajaran-aktif-berkelanjutan)
@@ -126,46 +126,32 @@ graph LR
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU PEDAGOGI BERADAB
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PEDAGOGI BERADAB
 
 ---
 
-### 1. Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
 
-```
-===================================================================================================
-      GRAND MANIFESTO PEMBELAJARAN BERMAKNA & KOGNISI BERADAB PESANTREN TUMBUH (LEARNING CHARTER)
-                     PUNCAK SUB-DOMAIN 03: LEARNING PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEAGUNGAN WAHYU DAN KELUHURAN AKAL INSANI,
-MAJELIS GURU BESAR DAN DEWAN KEILMUAN PESANTREN TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO:
+1. **Penghormatan Memori Kerja & Anti-cognitive Overload Menetapkan bahwa proses pengajaran wajib mengelola beban kognitif secara terukur melalui segmentasi (Chunking), pemaduan bagan visual (Dual Coding), dan pemberian contoh penalaran terpandu (Worked-Example).**:  
+   
 
-PASAL 1: MANDAT PENGHORMATAN MEMORI KERJA & ANTI-COGNITIVE OVERLOAD
-Menetapkan bahwa proses pengajaran wajib mengelola beban kognitif secara terukur melalui segmentasi
-(Chunking), pemaduan bagan visual (Dual Coding), dan pemberian contoh penalaran terpandu (Worked-Example).
+2. **Metodologi Tahfizh Mutqin Spaced Retrieval Mewajibkan halaqah Al-Qur'an menerapkan metode pengujian ingatan aktif berjarak (Spaced Retrieval), sistem tahfizh 3 lapis (Ziyadah, Sabqi, Manzil), serta menjamin hak tidur nyenyak 7–8 jam bagi konsolidasi otak.**:  
+   
 
-PASAL 2: MANDAT METODOLOGI TAHFIZH MUTQIN SPACED RETRIEVAL
-Mewajibkan halaqah Al-Qur'an menerapkan metode pengujian ingatan aktif berjarak (Spaced Retrieval),
-sistem tahfizh 3 lapis (Ziyadah, Sabqi, Manzil), serta menjamin hak tidur nyenyak 7–8 jam bagi konsolidasi otak.
+3. **Kemandirian Belajar (self-regulated Learning) & Growth Mindset Membudayakan siklus belajar mandiri (Perencanaan, Pelaksanaan, Refleksi Muhasabah), menanamkan keyakinan bahwa akal berkembang melalui latihan ikhtiar, serta mewajibkan pengisian Jurnal Muhasabah Belajar harian.**:  
+   
 
-PASAL 3: MANDAT KEMANDIRIAN BELAJAR (SELF-REGULATED LEARNING) & GROWTH MINDSET
-Membudayakan siklus belajar mandiri (Perencanaan, Pelaksanaan, Refleksi Muhasabah), menanamkan keyakinan
-bahwa akal berkembang melalui latihan ikhtiar, serta mewajibkan pengisian Jurnal Muhasabah Belajar harian.
+4. **Didaktik Interaktif Kagan & Asesmen Formatif Berdaya Mengharamkan kelas ceramah monolog pasif. Mewajibkan penerapan struktur kooperatif interaksi serempak (pies), pemeriksaan bukti belajar harian (Exit Tickets), serta umpan balik deskriptif panduan bebas vonis angka.**:  
+   
 
-PASAL 4: MANDAT DIDAKTIK INTERAKTIF KAGAN & ASESMEN FORMATIF BERDAYA
-Mengharamkan kelas ceramah monolog pasif. Mewajibkan penerapan struktur kooperatif interaksi serempak (PIES),
-pemeriksaan bukti belajar harian (Exit Tickets), serta umpan balik deskriptif panduan bebas vonis angka.
+5. **Diferensiasi Pembelajaran & Penghormatan Fitrah Santri Menyesuaikan kedalaman materi dan kecepatan belajar dengan kapasitas masing-masing santri (Mura'at Ahwal), serta mengharamkan segala bentuk pelabelan negatif dan diskriminasi kognitif terhadap santri.**:  
+   
 
-PASAL 5: MANDAT DIFERENSIASI PEMBELAJARAN & PENGHORMATAN FITRAH SANTRI
-Menyesuaikan kedalaman materi dan kecepatan belajar dengan kapasitas masing-masing santri (Mura'at Ahwal),
-serta mengharamkan segala bentuk pelabelan negatif dan diskriminasi kognitif terhadap santri.
+6. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa setiap denyut pembelajaran di madrasah dan halaqah secara serempak mematangkan nalar dan adab Santri, memuliakan kompetensi Guru, serta mengangkat derajat keunggulan Sistem Lembaga.**:  
+   
 
-PASAL 6: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Memastikan bahwa setiap denyut pembelajaran di madrasah dan halaqah secara serempak mematangkan nalar
-dan adab Santri, memuliakan kompetensi Guru, serta mengangkat derajat keunggulan Sistem Lembaga.
-===================================================================================================
-```
 
 ---
 

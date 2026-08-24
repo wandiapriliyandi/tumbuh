@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Kemitraan Evaluasi Tiga Pihak dalam Student-Led Conferences (Santri-Guru-Wali)](#5-inkuiri-4-kemitraan-evaluasi-tiga-pihak-dalam-student-led-conferences-santri-guru-wali)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Rapor Karakter, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-rapor-karakter--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-portofolio-pertumbuhan-formatif-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-portofolio-pertumbuhan-formatif-pesantren-tumbuh)
   - [2. Matriks Struktur Portofolio Karakter Digital Santri TUMBUH (E-Portfolio Architecture)](#2-matriks-struktur-portofolio-karakter-digital-santri-tumbuh-e-portfolio-architecture)
   - [3. Template Baku Laporan Naratif Karakter Santri untuk Orang Tua (Narrative Progress Report)](#3-template-baku-laporan-naratif-karakter-santri-untuk-orang-tua-narrative-progress-report)
   - [4. Protokol Konferensi Portofolio Tiga Pihak (Student-Led Conference SOP)](#4-protokol-konferensi-portofolio-tiga-pihak-student-led-conference-sop)
@@ -187,34 +187,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU PORTOFOLIO PERTUMBUHAN FORMATIF PESANTREN
-                          SUB-DOMAIN 05: ASSESSMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEADILAN HISAB DAN SEMANGAT TARBIYAH NABAWIYYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PELAPORAN KARAKTER:
+1. **Penghapusan Vonis Nilai Huruf/angka Kering (anti-labeling Rapor Charter)**:  
+   Menolak segala bentuk pelaporan kepribadian berbasis huruf (A/B/C/D) atau angka tanpa deskripsi. Seluruh pelaporan adab santri wajib disajikan dalam bentuk Portofolio Pertumbuhan Naratif Deskriptif.
 
-1. DOKTRIN PENGHAPUSAN VONIS NILAI HURUF/ANGKA KERING (ANTI-LABELING RAPOR CHARTER):
-   Menolak segala bentuk pelaporan kepribadian berbasis huruf (A/B/C/D) atau angka tanpa deskripsi.
-   Seluruh pelaporan adab santri wajib disajikan dalam bentuk Portofolio Pertumbuhan Naratif Deskriptif.
+2. **Penetapan Struktur 3 Pilar Laporan Naratif Beradab**:  
+   Laporan karakter wajib memuat secara berimbang: (1) Apresiasi Kekuatan Karakter Nyata, (2) Identifikasi Area yang Sedang Berproses Pembinaan, dan (3) Rekomendasi Kemitraan Konkret untuk Orang Tua di Rumah.
 
-2. PENETAPAN STRUKTUR 3 PILAR LAPORAN NARATIF BERADAB:
-   Laporan karakter wajib memuat secara berimbang: (1) Apresiasi Kekuatan Karakter Nyata, (2) Identifikasi
-   Area yang Sedang Berproses Pembinaan, dan (3) Rekomendasi Kemitraan Konkret untuk Orang Tua di Rumah.
+3. **Integrasi Analitik Visual Logbook Pbis Digital Longitudinal**:  
+   Menyajikan visualisasi grafik tren perilaku positif 180 hari dan artefak unjuk kerja adab santri, memastikan orang tua mendapatkan gambaran komprehensif atas dinamika pertumbuhan putera-puterinya.
 
-3. INTEGRASI ANALITIK VISUAL LOGBOOK PBIS DIGITAL LONGITUDINAL:
-   Menyajikan visualisasi grafik tren perilaku positif 180 hari dan artefak unjuk kerja adab santri,
-   memastikan orang tua mendapatkan gambaran komprehensif atas dinamika pertumbuhan putera-puterinya.
+4. **Penyelenggaraan Student-led Conferences Tiga Pihak**:  
+   Mewajibkan mekanisme pembagian rapor di mana santri memimpin presentasi portofolionya di hadapan orang tua dan asatidz/musyrif, menumbuhkan keberanian tanggung jawab, kejujuran batin, dan ukhuwah.
 
-4. MANDAT PENYELENGGARAAN STUDENT-LED CONFERENCES TIGA PIHAK:
-   Mewajibkan mekanisme pembagian rapor di mana santri memimpin presentasi portofolionya di hadapan
-   orang tua dan asatidz/musyrif, menumbuhkan keberanian tanggung jawab, kejujuran batin, dan ukhuwah.
-===================================================================================================
-```
 
 ---
 
@@ -232,39 +220,17 @@ EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PELAPOR
 
 ### 3. Template Baku Laporan Naratif Karakter Santri untuk Orang Tua (*Narrative Progress Report*)
 
-```markdown
-===================================================================================================
-                  LEMBAR LAPORAN NARATIF PERTUMBUHAN ADAB & KARAKTER SANTRI
-                          PESANTREN TUMBUH — SEMESTER GANJIL 2026/2027
-===================================================================================================
-Nama Santri  : Muhammad Zaid Al-Fatih               Kelas / Kamar : 8-B / Asrama Ibnu Sina 03
-Wali Kamar   : Ustadz Ahmad Fauzan, S.Pd.I.         Wali Kelas    : Ustadz Ridwan Hakim, M.Ag.
----------------------------------------------------------------------------------------------------
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-I. APRESIASI KEKUATAN KARAKTER NYATA (STRENGTHS & HIGHLIGHTS):
-Ananda Zaid menunjukkan kematangan adab yang sangat membahagiakan pada semester ini. Di lokus asrama,
-Ananda secara konsisten hadir di masjid 10 menit sebelum adzan Subuh dan secara sukarela membantu
-menata sandal jamaah. Dalam kegiatan piket kamar, Ananda memiliki inisiatif tinggi merapikan kasur
-dan memimpin regu kebersihan kamar dengan tutur kata yang santun dan penuh keteladanan.
+1. **Melibatkan Ananda dalam musyawarah keluarga agar Ananda terbiasa mendengarkan pandangan orang lain.**:  
+   
 
-II. AREA YANG SEDANG DALAM PROSES PEMBINAAN (AREAS OF ACTIVE GROWTH):
-Dalam dinamika kelompok sosial, Ananda Zaid saat ini sedang kami dampingi untuk meningkatkan kesabaran
-dan regulasi emosi ketika menghadapi perbedaan pendapat dalam diskusi kelas atau saat mengalami
-kekalahan dalam pertandingan futsal. Ananda sudah mulai mampu beristighfar dan menenangkan diri
-saat diingatkan oleh musyrif pendamping.
+2. **Mengapresiasi ketertiban shalat berjamaah Ananda di masjid lingkungan rumah.**:  
+   
 
-III. REKOMENDASI KEMITRAAN KELUARGA DI RUMAH (COLLABORATIVE HOME ACTION PLAN):
-Selama masa liburan semester bersama keluarga tercinta di rumah, kami menyarankan Ayahanda dan Ibunda
-untuk:
-1. Melibatkan Ananda dalam musyawarah keluarga agar Ananda terbiasa mendengarkan pandangan orang lain.
-2. Mengapresiasi ketertiban shalat berjamaah Ananda di masjid lingkungan rumah.
-3. Memberikan waktu dialog santai dari hati ke hati untuk mendengarkan cita-cita dan perasaan Ananda.
----------------------------------------------------------------------------------------------------
-Tanda Tangan Santri            Tanda Tangan Wali Santri             Tanda Tangan Musyrif Kamar
+3. **Memberikan waktu dialog santai dari hati ke hati untuk mendengarkan cita-cita dan perasaan Ananda.**:  
+   ------------------------------------------------------------------------------------------------- Tanda Tangan Santri            Tanda Tangan Wali Santri             Tanda Tangan Musyrif Kamar ( Muhammad Zaid Al-Fatih )    ( ............................ )     ( Ustadz Ahmad Fauzan, S.Pd.I. )
 
-( Muhammad Zaid Al-Fatih )    ( ............................ )     ( Ustadz Ahmad Fauzan, S.Pd.I. )
-===================================================================================================
-```
 
 ---
 

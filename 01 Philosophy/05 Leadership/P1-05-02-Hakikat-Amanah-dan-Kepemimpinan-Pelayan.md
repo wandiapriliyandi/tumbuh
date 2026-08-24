@@ -32,7 +32,7 @@
   - [6. Inkuiri 5: Perlindungan Kesejahteraan Jasmani & Ruhani Musyrif sebagai Pondasi Pelayanan Bermutu](#6-inkuiri-5-perlindungan-kesejahteraan-jasmani--ruhani-musyrif-sebagai-pondasi-pelayanan-bermutu)
   - [7. Inkuiri 6: Translasi Doktrin Khidmah ke Manajemen Operasional Pesantren Bebas Eksploitasi](#7-inkuiri-6-translasi-doktrin-khidmah-ke-manajemen-operasional-pesantren-bebas-eksploitasi)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH](#1-deklarasi-doktrin-baku-hakikat-amanah-dan-kepemimpinan-pelayan-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-amanah-dan-kepemimpinan-pelayan-pesantren-tumbuh)
   - [2. Matriks Komparasi Gaya Kepemimpinan: Otoriter Hirarkis vs Korporatis Transaksional vs Servant Leadership TUMBUH](#2-matriks-komparasi-gaya-kepemimpinan-otoriter-hirarkis-vs-korporatis-transaksional-vs-servant-leadership-tumbuh)
   - [3. Matriks 10 Karakteristik Servant Leader Greenleaf dalam Konteks Pesantren](#3-matriks-10-karakteristik-servant-leader-greenleaf-dalam-konteks-pesantren)
   - [4. Protokol Mitigasi Burnout & Standar Jam Kerja Sehat Musyrif Asrama](#4-protokol-mitigasi-burnout--standar-jam-kerja-sehat-musyrif-asrama)
@@ -249,35 +249,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU KEPEMIMPINAN PELAYAN & AMANAH PESANTREN TUMBUH
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGINGAT PERTANGGUNGJAWABAN MAHSYAR DI HADAPAN ALLAH AZZA WA JALLA,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU KEPEMIMPINAN AMANAH & KHIDMAH:
+1. **Hakikat Kepemimpinan Adalah Pelayanan (leadership AS Servant Hood)**:  
+   Setiap pemegang amanah kepemimpinan (Mudir, Kepala Madrasah, Wali Kamar, Musyrif) adalah PELAYAN BAGI ORANG-ORANG YANG DIPIMPINNYA (SAYYIDUL QAWMI KHADIMUHUM). Jabatan adalah beban tanggung jawab hisab akhirat, bukan tahta kekuasaan feodal untuk menuntut dilayani.
 
-1. HAKIKAT KEPEMIMPINAN ADALAH PELAYANAN (LEADERSHIP AS SERVANT HOOD):
-   Setiap pemegang amanah kepemimpinan (Mudir, Kepala Madrasah, Wali Kamar, Musyrif) adalah PELAYAN
-   BAGI ORANG-ORANG YANG DIPIMPINNYA (SAYYIDUL QAWMI KHADIMUHUM). Jabatan adalah beban tanggung jawab
-   hisab akhirat, bukan tahta kekuasaan feodal untuk menuntut dilayani.
+2. **Tolok Ukur Keberhasilan Kepemimpinan (the Growth Test)**:  
+   Keberhasilan kepemimpinan pesantren diukur dari: "Apakah santri dan para guru bertumbuh menjadi pribadi yang lebih beradab, lebih cerdas, lebih merdeka, lebih sehat, dan terlindungi dari kekerasan?"
 
-2. TOLOK UKUR KEBERHASILAN KEPEMIMPINAN (THE GROWTH TEST):
-   Keberhasilan kepemimpinan pesantren diukur dari: "Apakah santri dan para guru bertumbuh menjadi
-   pribadi yang lebih beradab, lebih cerdas, lebih merdeka, lebih sehat, dan terlindungi dari kekerasan?"
+3. **HAK Perlindungan & Kesejahteraan Asatidz/musyrif (anti-burnout Charter)**:  
+   Lembaga menjamin hak musyrif atas sistem jam kerja manusiawi, hak istirahat mingguan (Day-Off), upah finansial yang layak memuliakan martabat keluarga, jaminan kesehatan, dan nutrisi ruhani teratur.
 
-3. HAK PERLINDUNGAN & KESEJAHTERAAN ASATIDZ/MUSYRIF (ANTI-BURNOUT CHARTER):
-   Lembaga menjamin hak musyrif atas sistem jam kerja manusiawi, hak istirahat mingguan (Day-Off),
-   upah finansial yang layak memuliakan martabat keluarga, jaminan kesehatan, dan nutrisi ruhani teratur.
+4. **Penghapusan Mutlak Eksploitasi Tenaga Guru & Santri**:  
+   Dilarang keras membebankan tugas di luar kapasitas manusiawi tanpa kompensasi dan istirahat yang cukup. Penyalahgunaan amanah jabatan untuk kepentingan pribadi dikategorikan sebagai Pelanggaran Berat.
 
-4. PENGHAPUSAN MUTLAK EKSPLOITASI TENAGA GURU & SANTRI:
-   Dilarang keras membebankan tugas di luar kapasitas manusiawi tanpa kompensasi dan istirahat yang cukup.
-   Penyalahgunaan amanah jabatan untuk kepentingan pribadi dikategorikan sebagai Pelanggaran Berat.
-===================================================================================================
-```
 
 ---
 

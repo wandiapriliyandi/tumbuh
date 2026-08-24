@@ -35,7 +35,7 @@
   - [6. Inkuiri 5: Protokol Patroli Titik Rawan Asrama 24 Jam bagi Musyrif Piket](#6-inkuiri-5-protokol-patroli-titik-rawan-asrama-24-jam-bagi-musyrif-piket)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Tata Ruang, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-tata-ruang--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH](#1-deklarasi-doktrin-baku-arsitektur-biah-shalihah-dan-tata-ruang-fisik-asrama-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH](#1-kaidah-utama-dan-standar-baku-arsitektur-bi-ah-shalihah-dan-tata-ruang-fisik-asrama-tumbuh)
   - [2. Matriks 4 Prinsip CPTED & Penerapannya dalam Tata Letak Arsitektur Pesantren](#2-matriks-4-prinsip-cpted--penerapannya-dalam-tata-letak-arsitektur-pesantren)
   - [3. Matriks Pemetaan Titik Rawan Asrama (Hotspots Mapping) & Tindakan Rekayasa Lingkungan](#3-matriks-pemetaan-titik-rawan-asrama-hotspots-mapping--tindakan-rekayasa-lingkungan)
   - [4. Protokol Patroli Titik Rawan & Pengawasan Musyrif Asrama 24 Jam (Hotspots Active Patrol SOP)](#4-protokol-patroli-titik-rawan--pengawasan-musyrif-asrama-24-jam-hotspots-active-patrol-sop)
@@ -231,35 +231,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH
 
-```
-===================================================================================================
-             PIAGAM ARSITEKTUR BI'AH SHALIHAH & REKAYASA TATA RUANG ASRAMA TUMBUH
-                          SUB-DOMAIN 06: CHANGE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN INTEGRITAS EKOSISTEM PENDIDIKAN SUCI PESANTREN,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU TATA RUANG BI'AH SHALIHAH:
+1. **Lingkungan Sebagai Guru Ketiga (environment AS THE Third Teacher)**:  
+   Tata ruang fisik dan iklim sosial asrama adalah instrumen pedagogis yang secara aktif membentuk akhlak santri 24 jam. Lembaga wajib mendesain asrama yang terang, bersih, asri, dan bebas ancaman.
 
-1. DOKTRIN LINGKUNGAN SEBAGAI GURU KETIGA (ENVIRONMENT AS THE THIRD TEACHER):
-   Tata ruang fisik dan iklim sosial asrama adalah instrumen pedagogis yang secara aktif membentuk
-   akhlak santri 24 jam. Lembaga wajib mendesain asrama yang terang, bersih, asri, dan bebas ancaman.
+2. **Penerapan Standar Arsitektur Cpted (crime Prevention Through Environmental Design)**:  
+   Seluruh bangunan asrama wajib memenuhi 4 pilar CPTED: Natural Surveillance (Pengawasan Alami), Natural Access Control (Kontrol Akses), Territorial Reinforcement (Penguatan Teritori), dan Maintenance Prima. Menghilangkan 100% titik buta (Blindspots) dan sudut gelap rawan kekerasan.
 
-2. PENERAPAN STANDAR ARSITEKTUR CPTED (CRIME PREVENTION THROUGH ENVIRONMENTAL DESIGN):
-   Seluruh bangunan asrama wajib memenuhi 4 pilar CPTED: Natural Surveillance (Pengawasan Alami),
-   Natural Access Control (Kontrol Akses), Territorial Reinforcement (Penguatan Teritori), dan
-   Maintenance Prima. Menghilangkan 100% titik buta (Blindspots) dan sudut gelap rawan kekerasan.
+3. **Zero Broken Windows Policy & Standarisasi Sanitasi Prima**:  
+   Menetapkan SOP Perbaikan Cepat 24 Jam untuk setiap kerusakan fasilitas. Fasilitas toilet dan tempat wudhu wajib dijaga dalam kondisi terang, wangi, berair bersih melimpah, dan bebas lumut/kerak.
 
-3. ZERO BROKEN WINDOWS POLICY & STANDARISASI SANITASI PRIMA:
-   Menetapkan SOP Perbaikan Cepat 24 Jam untuk setiap kerusakan fasilitas. Fasilitas toilet dan tempat
-   wudhu wajib dijaga dalam kondisi terang, wangi, berair bersih melimpah, dan bebas lumut/kerak.
+4. **Protokol Patroli Titik Rawan Mandatori (hotspots Active Patrol)**:  
+   Musyrif piket wajib menjalankan patroli pemantauan aktif di seluruh titik rawan (Hotspots) pada jam-jam kritis (Subuh, Senja, Malam) demi menjamin rasa aman dan keselamatan seluruh santri.
 
-4. PROTOKOL PATROLI TITIK RAWAN MANDATORI (HOTSPOTS ACTIVE PATROL):
-   Musyrif piket wajib menjalankan patroli pemantauan aktif di seluruh titik rawan (Hotspots)
-   pada jam-jam kritis (Subuh, Senja, Malam) demi menjamin rasa aman dan keselamatan seluruh santri.
-===================================================================================================
-```
 
 ---
 

@@ -41,7 +41,7 @@
   - [6. Inkuiri 5: Integrasi Matriks Respon Pelanggaran Multi-Tier dalam Pengasuhan Asrama Pesantren 24 Jam](#6-inkuiri-5-integrasi-matriks-respon-pelanggaran-multi-tier-dalam-pengasuhan-asrama-pesantren-24-jam)
   - [7. Inkuiri 6: Translasi Disiplin Restoratif ke Budaya Komunal Tanpa Pengusiran Sepihak](#7-inkuiri-6-translasi-disiplin-restoratif-ke-budaya-komunal-tanpa-pengusiran-sepihak)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH](#1-deklarasi-doktrin-baku-disiplin-restoratif-dan-arsitektur-multi-tier-pbis-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-disiplin-restoratif-dan-arsitektur-multi-tier-pbis-pesantren-tumbuh)
   - [2. Matriks Komparasi Paradigma Disiplin: Retributif vs Permisif vs Disiplin Restoratif PBIS TUMBUH](#2-matriks-komparasi-paradigma-disiplin-retributif-vs-permisif-vs-disiplin-restoratif-pbis-tumbuh)
   - [3. Matriks Multi-Tier PBIS Asrama Pesantren: Karakteristik, Intervensi, & Tim Penanggung Jawab](#3-matriks-multi-tier-pbis-asrama-pesantren-karakteristik-intervensi--tim-penanggung-jawab)
   - [4. Protokol Konferensi Restoratif Komunal (Restorative Conference Protocol)](#4-protokol-konferensi-restoratif-komunal-restorative-conference-protocol)
@@ -289,37 +289,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH
 
-```
-===================================================================================================
-         PIAGAM DOKTRIN BAKU DISIPLIN RESTORATIF & MULTI-TIER PBIS PESANTREN TUMBUH
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGHARAPKAN HIDAYAH DAN RIDHA ALLAH SUBHANAHU WA TA'ALA,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU DISIPLIN RESTORATIF:
+1. **Hakikat Kedisiplinan Restoratif (restorative Discipline)**:  
+   Kedisiplinan di pesantren ditegakkan bukan untuk membalas dendam atau membuat santri menderita, melainkan untuk MEMULIHKAN LUKA RELASI (ISHLAH AL-BAIN), MEMBANGKITKAN KESADARAN EMPATI, DAN MENDIDIK TANGGUNG JAWAB ADAB MELALUI KONSEKUENSI LOGIS YANG MENDIDIK.
 
-1. HAKIKAT KEDISIPLINAN RESTORATIF (RESTORATIVE DISCIPLINE):
-   Kedisiplinan di pesantren ditegakkan bukan untuk membalas dendam atau membuat santri menderita,
-   melainkan untuk MEMULIHKAN LUKA RELASI (ISHLAH AL-BAIN), MEMBANGKITKAN KESADARAN EMPATI,
-   DAN MENDIDIK TANGGUNG JAWAB ADAB MELALUI KONSEKUENSI LOGIS YANG MENDIDIK.
+2. **Penerapan Arsitektur Multi-tier Pbis (positive Behavioral Supports)**:  
+   Seluruh tata tertib asrama dan madrasah wajib distrukturkan ke dalam 3 Tingkat (Tier): a. TIER 1 (UNIVERSAL - 80–90%): Pengkondisian iklim positif, aturan visual jelas, & rasio apresiasi 4:1. b. TIER 2 (TARGETED - 10–15%): Mentoring kelompok terarah, sistem Check-in / Check-out harian. c. TIER 3 (INTENSIVE - 1–5%): Intervensi perilaku individual (FBA), konseling terpadu, & rehabilitasi.
 
-2. PENERAPAN ARSITEKTUR MULTI-TIER PBIS (POSITIVE BEHAVIORAL SUPPORTS):
-   Seluruh tata tertib asrama dan madrasah wajib distrukturkan ke dalam 3 Tingkat (Tier):
-   a. TIER 1 (UNIVERSAL - 80–90%): Pengkondisian iklim positif, aturan visual jelas, & rasio apresiasi 4:1.
-   b. TIER 2 (TARGETED - 10–15%): Mentoring kelompok terarah, sistem Check-in / Check-out harian.
-   c. TIER 3 (INTENSIVE - 1–5%): Intervensi perilaku individual (FBA), konseling terpadu, & rehabilitasi.
+3. **Penghapusan Mutlak Hukuman Fisik & Denda Finansial**:  
+   Mengharamkan 100% segala bentuk pemukulan, tamparan, push-up berlebihan, penyiraman air malam hari, pencukuran botak paksa, papan aib publik, dan penarikan denda finansial atas pelanggaran adab.
 
-3. PENGHAPUSAN MUTLAK HUKUMAN FISIK & DENDA FINANSIAL:
-   Mengharamkan 100% segala bentuk pemukulan, tamparan, push-up berlebihan, penyiraman air malam hari,
-   pencukuran botak paksa, papan aib publik, dan penarikan denda finansial atas pelanggaran adab.
+4. **Kewajiban Formula Konsekuensi Logis 4R**:  
+   Setiap konsekuensi yang diberikan wajib memenuhi 4 syarat mutlak: Terkait secara logis (Related), Disampaikan dengan santun (Respectful), Masuk akal (Reasonable), dan Memulihkan ukhuwah (Restorative).
 
-4. KEWAJIBAN FORMULA KONSEKUENSI LOGIS 4R:
-   Setiap konsekuensi yang diberikan wajib memenuhi 4 syarat mutlak: Terkait secara logis (Related),
-   Disampaikan dengan santun (Respectful), Masuk akal (Reasonable), dan Memulihkan ukhuwah (Restorative).
-===================================================================================================
-```
 
 ---
 

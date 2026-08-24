@@ -30,7 +30,7 @@
   - [4. Inkuiri 3: Eliminasi Praktik Public Shaming & Desain Dialog Asesmen Empat Mata yang Membangkitkan Kesadaran](#4-inkuiri-3-eliminasi-praktik-public-shaming--desain-dialog-asesmen-empat-mata-yang-membangkitkan-kesadaran)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-feedback-konstruktif--dialog-asesmen-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-feedback-konstruktif-dialog-asesmen-pesantren-tumbuh)
   - [2. Matriks 4 Tingkatan Feedback: Task Level, Process Level, Self-Regulation Level, & Spiritually-Anchored Level](#2-matriks-4-tingkatan-feedback-task-level-process-level-self-regulation-level--spiritually-anchored-level)
   - [3. Standar Prosedur Operasional (SOP) Sesi Dialog Asesmen Reflektif Dwi-Mingguan Musyrif-Santri](#3-standar-prosedur-operasional-sop-sesi-dialog-asesmen-reflektif-dwi-mingguan-musyrif-santri)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -148,34 +148,22 @@ Pesantren TUMBUH menambahkan level kelima: **Spiritually-Anchored Feedback (FSA)
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU FEEDBACK KONSTRUKTIF & DIALOG ASESMEN BERADAB PESANTREN TUMBUH
-                       SUB-DOMAIN 05: ASSESSMENT PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN ADAB NASIHAT PROFETIK DAN KEHORMATAN MARTABAT SANTRI,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN FEEDBACK KONSTRUKTIF & MUHASABAH:
+1. **Penghapusan Mutlak Metode Mempermalukan DI Depan Umum (zero Public Shaming)**:  
+   Mengharamkan pengumuman nama santri pelanggar melalui pengeras suara atau sidang umum yang mempermalukan; menetapkan bahwa setiap evaluasi adab wajib disampaikan secara privat empat mata (Khulawiyyah).
 
-1. DOKTRIN PENGHAPUSAN MUTLAK METODE MEMPERMALUKAN DI DEPAN UMUM (ZERO PUBLIC SHAMING):
-   Mengharamkan pengumuman nama santri pelanggar melalui pengeras suara atau sidang umum yang mempermalukan;
-   menetapkan bahwa setiap evaluasi adab wajib disampaikan secara privat empat mata (Khulawiyyah).
+2. **Penerapan Model Umpan Balik Tiga Arah (feed-up, Feed-back, Feed-forward)**:  
+   Mewajibkan asatidz dan musyrif memberikan feedback deskriptif yang menjelaskan tujuan adab yang ingin dicapai, kondisi capaian saat ini secara objektif, dan langkah konkret perbaikan masa depan tanpa vonis angka merah.
 
-2. PENERAPAN MODEL UMPAN BALIK TIGA ARAH (FEED-UP, FEED-BACK, FEED-FORWARD):
-   Mewajibkan asatidz dan musyrif memberikan feedback deskriptif yang menjelaskan tujuan adab yang ingin dicapai,
-   kondisi capaian saat ini secara objektif, dan langkah konkret perbaikan masa depan tanpa vonis angka merah.
+3. **Pembudayaan Jurnal Muhasabah Diri Reflektif Harian (self-assessment)**:  
+   Mewajibkan santri mengisi Jurnal Muhasabah Diri 5–10 menit sebelum tidur malam guna melatih kesadaran muraqabatullah internal, mengevaluasi amal harian, dan merencanakan perbaikan diri secara mandiri.
 
-3. PEMBUDAYAAN JURNAL MUHASABAH DIRI REFLEKTIF HARIAN (SELF-ASSESSMENT):
-   Mewajibkan santri mengisi Jurnal Muhasabah Diri 5–10 menit sebelum tidur malam guna melatih kesadaran
-   muraqabatullah internal, mengevaluasi amal harian, dan merencanakan perbaikan diri secara mandiri.
+4. **Penegakan Rasio Apresiasi Positif Pbis 4**:  
+   1: Mengharuskan pendidik memberikan minimal 4 pengakuan atas kebaikan dan ikhtiar santri untuk setiap 1 koreksi perilaku, menciptakan iklim Bi'ah Shalihah yang hangat, penuh optimisme, dan berkah.
 
-4. PENEGAKAN RASIO APRESIASI POSITIF PBIS 4:1:
-   Mengharuskan pendidik memberikan minimal 4 pengakuan atas kebaikan dan ikhtiar santri untuk setiap
-   1 koreksi perilaku, menciptakan iklim Bi'ah Shalihah yang hangat, penuh optimisme, dan berkah.
-===================================================================================================
-```
 
 ---
 

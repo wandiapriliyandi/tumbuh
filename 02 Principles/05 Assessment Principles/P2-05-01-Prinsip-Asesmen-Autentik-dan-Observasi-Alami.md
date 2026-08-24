@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Menghindari Efek Hawthorne: Mengamati Santri Tanpa Mengintimidasi Privasi](#5-inkuiri-4-menghindari-efek-hawthorne-mengamati-santri-tanpa-mengintimidasi-privasi)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Observasi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-observasi-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Asesmen Autentik dan Observasi Alami Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-asesmen-autentik-dan-observasi-alami-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Asesmen Autentik dan Observasi Alami Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-asesmen-autentik-dan-observasi-alami-pesantren-tumbuh)
   - [2. Matriks Observasi 3 Lokus Kehidupan Asrama 24 Jam & Indikator Adab Nyata](#2-matriks-observasi-3-lokus-kehidupan-asrama-24-jam--indikator-adab-nyata)
   - [3. Protokol Observasi Alami Beretika Bebas Intimidasi (Ethical In-Vivo Observation Protocol)](#3-protokol-observasi-alami-beretika-bebas-intimidasi-ethical-in-vivo-observation-protocol)
   - [4. Alur Integrasi Observasi Lapangan ke dalam Logbook PBIS Harian](#4-alur-integrasi-observasi-lapangan-ke-dalam-logbook-pbis-harian)
@@ -188,34 +188,22 @@ Dalam *The Analysis of Social Interactions*, Cairns membuktikan bahwa ketika sub
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Asesmen Autentik dan Observasi Alami Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Asesmen Autentik dan Observasi Alami Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU ASESMEN AUTENTIK DAN OBSERVASI ALAMI PESANTREN
-                          SUB-DOMAIN 05: ASSESSMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEADILAN TIMBANGAN MIZAN DAN SUNNAH TABAYYUN NABAWIYYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PENGUKURAN KARAKTER:
+1. **Asesmen Berbasis Unjuk Kerja Adab Nyata (authentic Adab Performance)**:  
+   Menolak segala bentuk evaluasi akhlak semata-mata berbasis ujian kertas pilihan ganda. Karakter santri dinilai dari internalisasi adab nyata (Malakah) yang termanifestasi dalam rutinitas 24 jam.
 
-1. DOKTRIN ASESMEN BERBASIS UNJUK KERJA ADAB NYATA (AUTHENTIC ADAB PERFORMANCE):
-   Menolak segala bentuk evaluasi akhlak semata-mata berbasis ujian kertas pilihan ganda.
-   Karakter santri dinilai dari internalisasi adab nyata (Malakah) yang termanifestasi dalam rutinitas 24 jam.
+2. **Penetapan Tiga Lokus Utama Observasi Alami DI Pesantren**:  
+   Pengamatan perilaku difokuskan secara proporsional pada 3 lokus ekologis: Lokus Ibadah (Masjid/Wudhu), Lokus Komunal Asrama (Kamar/Meja Makan/Piket), dan Lokus Sosial-Akademik (Madrasah/Lapangan Olahraga).
 
-2. PENETAPAN TIGA LOKUS UTAMA OBSERVASI ALAMI DI PESANTREN:
-   Pengamatan perilaku difokuskan secara proporsional pada 3 lokus ekologis: Lokus Ibadah (Masjid/Wudhu),
-   Lokus Komunal Asrama (Kamar/Meja Makan/Piket), dan Lokus Sosial-Akademik (Madrasah/Lapangan Olahraga).
+3. **Penerapan Observasi Alami Beretika (ethical Unobtrusive Observation)**:  
+   Musyrif wajib melakukan pengamatan secara natural, bersahabat, dan menyatu dalam dinamika santri, mengharamkan pengawasan intimidatif yang memicu kepatuhan semu sesaat (Efek Hawthorne).
 
-3. PENERAPAN OBSERVASI ALAMI BERETIKA (ETHICAL UNOBTRUSIVE OBSERVATION):
-   Musyrif wajib melakukan pengamatan secara natural, bersahabat, dan menyatu dalam dinamika santri,
-   mengharamkan pengawasan intimidatif yang memicu kepatuhan semu sesaat (Efek Hawthorne).
+4. **Kewajiban Pencatatan Berbasis Data Real-time Logbook Pbis**:  
+   Menghapus penilaian kepribadian berbasis asumsi ingatan akhir semester. Mewajibkan pencatatan bukti perilaku positif harian dalam sistem logbook digital PBIS guna menjamin objektivitas dan keadilan data.
 
-4. KEWAJIBAN PENCATATAN BERBASIS DATA REAL-TIME LOGBOOK PBIS:
-   Menghapus penilaian kepribadian berbasis asumsi ingatan akhir semester. Mewajibkan pencatatan bukti
-   perilaku positif harian dalam sistem logbook digital PBIS guna menjamin objektivitas dan keadilan data.
-===================================================================================================
-```
 
 ---
 

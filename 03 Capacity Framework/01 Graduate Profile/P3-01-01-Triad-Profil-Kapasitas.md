@@ -31,7 +31,7 @@
   - [4. Inkuiri 3: Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren](#4-inkuiri-3-anatomi-kapasitas-tiga-pilar-santri-pendidik-dan-institusi-pesantren)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Piagam Triad Profil Kapasitas Pesantren TUMBUH](#1-deklarasi-doktrin-baku-piagam-triad-profil-kapasitas-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Piagam Triad Profil Kapasitas Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-triad-profil-kapasitas-pesantren-tumbuh)
   - [2. Matriks Integrasi Standar Kapasitas Triad: Indikator, Alat Ukur, & Bukti Pertumbuhan](#2-matriks-integrasi-standar-kapasitas-triad-indikator-alat-ukur--bukti-pertumbuhan)
   - [3. Protokol Penjaminan Simbiosis Triad dalam Kehidupan Pesantren 24 Jam](#3-protokol-penjaminan-simbiosis-triad-dalam-kehidupan-pesantren-24-jam)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -156,34 +156,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Piagam Triad Profil Kapasitas Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Piagam Triad Profil Kapasitas Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU TRIAD PROFIL KAPASITAS EKOSISTEM PESANTREN TUMBUH
-                       SUB-DOMAIN 01: GRADUATE PROFILE — DOMAIN 03 CAPACITY
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN HAKIKAT SIMBIOSIS PENDIDIKAN NABAWIYYAH,
-MAJELIS MASYAIKH TERTINGGI BERSAMA SELURUH DEWAN KEILMUAN PESANTREN TUMBUH DENGAN INI MENETAPKAN:
+1. **Kesatuan Mutlak Triad Pertumbuhan Simbiotik (triadic Capacity Doctrine)**:  
+   Menetapkan bahwa profil kapasitas kelulusan pesantren wajib mencakup tiga pilar yang setara: Profil Kapasitas Santri, Profil Kapasitas Pendidik/Musyrif, dan Profil Kapasitas Sistem Lembaga.
 
-1. DOKTRIN KESATUAN MUTLAK TRIAD PERTUMBUHAN SIMBIOTIK (TRIADIC CAPACITY DOCTRINE):
-   Menetapkan bahwa profil kapasitas kelulusan pesantren wajib mencakup tiga pilar yang setara:
-   Profil Kapasitas Santri, Profil Kapasitas Pendidik/Musyrif, dan Profil Kapasitas Sistem Lembaga.
+2. **Kewajiban Pemenuhan Standar Kapasitas Pendidik & Anti-burnout**:  
+   Lembaga menjamin hak asatidz dan musyrif untuk mendapatkan diklat bersertifikasi, supervisi klinis reflektif mingguan, jam istirahat teratur, dan sistem penggajian yang layak serta memuliakan martabat.
 
-2. KEWAJIBAN PEMENUHAN STANDAR KAPASITAS PENDIDIK & ANTI-BURNOUT:
-   Lembaga menjamin hak asatidz dan musyrif untuk mendapatkan diklat bersertifikasi, supervisi klinis
-   reflektif mingguan, jam istirahat teratur, dan sistem penggajian yang layak serta memuliakan martabat.
+3. **Kapasitas Sistem Lembaga Bebas Kekerasan & Ramah Sanitasi**:  
+   Yayasan dan pimpinan pondok wajib menyediakan infrastruktur PBIS data-driven 24 jam, tata ruang asrama sehat CPTED bebas sudut gelap, sanitasi air 0 CFU, dan protokol perlindungan anak (Safe School).
 
-3. MANDAT KAPASITAS SISTEM LEMBAGA BEBAS KEKERASAN & RAMAH SANITASI:
-   Yayasan dan pimpinan pondok wajib menyediakan infrastruktur PBIS data-driven 24 jam, tata ruang
-   asrama sehat CPTED bebas sudut gelap, sanitasi air 0 CFU, dan protokol perlindungan anak (Safe School).
+4. **Penilaian Integratif Triadik Dalam Audit Mutu Tahunan**:  
+   Keberhasilan santri diukur sejalan dengan integritas keteladanan guru dan kepatuhan sistemik lembaga. Segala bentuk pelemparan kesalahan kegagalan moral santri semata-mata kepada santri dibatalkan demi syariat.
 
-4. PENILAIAN INTEGRATIF TRIADIK DALAM AUDIT MUTU TAHUNAN:
-   Keberhasilan santri diukur sejalan dengan integritas keteladanan guru dan kepatuhan sistemik lembaga.
-   Segala bentuk pelemparan kesalahan kegagalan moral santri semata-mata kepada santri dibatalkan demi syariat.
-===================================================================================================
-```
 
 ---
 

@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Dinamika Pengaruh Kelompok Sebaya (Peer Group Dynamics & Reward Sensitivity)](#5-inkuiri-4-dinamika-pengaruh-kelompok-sebaya-peer-group-dynamics--reward-sensitivity)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Remaja, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-remaja--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
   - [2. Matriks Komparasi Sistem Limbik vs Prefrontal Cortex & Implikasi Pendampingan Musyrif](#2-matriks-komparasi-sistem-limbik-vs-prefrontal-cortex--implikasi-pendampingan-musyrif)
   - [3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (De-Escalation Protocol)](#3-matriks-manajemen-respon-impulsivitas-remaja-berbasis-neurosains-de-escalation-protocol)
   - [4. Protokol Pendampingan Pengaruh Teman Sebaya Positif (Peer Group Channeling Protocol)](#4-protokol-pendampingan-pengaruh-teman-sebaya-positif-peer-group-channeling-protocol)
@@ -191,34 +191,22 @@ Penelitian pencitraan otak (*fMRI*) membuktikan bahwa ketika remaja berada bersa
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU NEUROSAINS MATURITAS SANTRI REMAJA PESANTREN
-                          SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEMULIAAN FITRAH REMAJA DAN SUNNAH TARBIYAH NABAWIYYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PERKEMBANGAN REMAJA:
+1. **Penghormatan Atas Fase Maturasi Otak Remaja (neurodevelopmental Respect)**:  
+   Menolak segala bentuk stigmatisasi moral dan hukuman fisik terhadap kekhilafan impulsif santri remaja. Menyadari bahwa sistem Prefrontal Cortex santri sedang dalam proses penyempurnaan biologis.
 
-1. DOKTRIN PENGHORMATAN ATAS FASE MATURASI OTAK REMAJA (NEURODEVELOPMENTAL RESPECT):
-   Menolak segala bentuk stigmatisasi moral dan hukuman fisik terhadap kekhilafan impulsif santri remaja.
-   Menyadari bahwa sistem Prefrontal Cortex santri sedang dalam proses penyempurnaan biologis.
+2. **Penetapan Peran Musyrif Sebagai Prefrontal Cortex Eksternal**:  
+   Musyrif wajib menjalankan peran perancah kognitif (Scaffolding): menyediakan struktur aturan yang jelas, pengawasan aktif yang hangat, dan de-eskalasi emosi yang menuntun santri mengendalikan impulsivitas.
 
-2. PENETAPAN PERAN MUSYRIF SEBAGAI PREFRONTAL CORTEX EKSTERNAL:
-   Musyrif wajib menjalankan peran perancah kognitif (Scaffolding): menyediakan struktur aturan yang jelas,
-   pengawasan aktif yang hangat, dan de-eskalasi emosi yang menuntun santri mengendalikan impulsivitas.
+3. **Rekayasa Pengaruh Kelompok Sebaya Positif (positive Peer Norms)**:  
+   Pesantren merekayasa kebutuhan pengakuan sosial remaja dengan membentuk komunitas ukhuwah, regu minat, dan halaqah sahabat yang menjadikan ketaatan adab dan prestasi sebagai standar kebanggaan bersama.
 
-3. REKAYASA PENGARUH KELOMPOK SEBAYA POSITIF (POSITIVE PEER NORMS):
-   Pesantren merekayasa kebutuhan pengakuan sosial remaja dengan membentuk komunitas ukhuwah, regu minat,
-   dan halaqah sahabat yang menjadikan ketaatan adab dan prestasi sebagai standar kebanggaan bersama.
+4. **Penegakan Disiplin Tegas DAN Penuh Kasih Sayang (firm & Kind Restorative Discipline)**:  
+   Menegakkan kepatuhan aturan asrama melalui formula Konsekuensi Logis 4R yang mendidik tanggung jawab, mengharamkan mutlak hukuman mempermalukan (Public Shaming), pemukulan, dan senioritas feodal.
 
-4. PENEGAKAN DISIPLIN TEGAS DAN PENUH KASIH SAYANG (FIRM & KIND RESTORATIVE DISCIPLINE):
-   Menegakkan kepatuhan aturan asrama melalui formula Konsekuensi Logis 4R yang mendidik tanggung jawab,
-   mengharamkan mutlak hukuman mempermalukan (Public Shaming), pemukulan, dan senioritas feodal.
-===================================================================================================
-```
 
 ---
 

@@ -32,7 +32,7 @@
   - [6. Inkuiri 5: Program Check-In / Check-Out (CICO) & Functional Behavior Assessment (FBA)](#6-inkuiri-5-program-check-in--check-out-cico--functional-behavior-assessment-fba)
   - [7. Inkuiri 6: Translasi Sistem PBIS ke Dashboard Logbook Digital & Alur Eskalasi Kasus 24 Jam](#7-inkuiri-6-translasi-sistem-pbis-ke-dashboard-logbook-digital--alur-eskalasi-kasus-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Sistemik Multi-Tier PBIS Berbasis Data](#1-deklarasi-doktrin-baku-prinsip-sistemik-multi-tier-pbis-berbasis-data)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Sistemik Multi-Tier PBIS Berbasis Data](#1-kaidah-utama-dan-standar-baku-prinsip-sistemik-multi-tier-pbis-berbasis-data)
   - [2. Matriks Struktur Tiga Tingkat Intervensi Multi-Tier PBIS TUMBUH](#2-matriks-struktur-tiga-tingkat-intervensi-multi-tier-pbis-tumbuh)
   - [3. Protokol Pemecahan Masalah Perilaku Presisi 4W 1H](#3-protokol-pemecahan-masalah-perilaku-presisi-4w-1h)
   - [4. Alur Eskalasi Kasus & Standard Operating Procedures Penanganan Pelanggaran](#4-alur-eskalasi-kasus--standard-operating-procedures-penanganan-pelanggaran)
@@ -370,11 +370,11 @@ flowchart TD
 
 # BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
 
-*Bagian ini memuat deklarasi doktrin baku Multi-Tier PBIS, matriks struktur tiga tingkatan intervensi, protokol pemecahan masalah 4W 1H, dan alur eskalasi penanganan kasus.*
+*Bagian ini memuat rumusan kaidah utama dan standar operasional Multi-Tier PBIS, matriks struktur tiga tingkatan intervensi, protokol pemecahan masalah 4W 1H, dan alur eskalasi penanganan kasus.*
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Sistemik Multi-Tier PBIS Berbasis Data
+### 1. Kaidah Utama dan Standar Baku: Prinsip Sistemik Multi-Tier PBIS Berbasis Data
 
 Ekosistem TUMBUH menetapkan deklarasi resmi sistem perilaku kelembagaan:
 

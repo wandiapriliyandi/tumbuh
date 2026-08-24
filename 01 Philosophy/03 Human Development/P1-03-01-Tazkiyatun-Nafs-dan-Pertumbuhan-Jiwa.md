@@ -34,7 +34,7 @@
   - [6. Inkuiri 5: Dialektika Transformasi Perilaku — Dari Keterpaksaan Menuju Watak Kedua (Second Nature)](#6-inkuiri-5-dialektika-transformasi-perilaku--dari-keterpaksaan-menuju-watak-kedua-second-nature)
   - [7. Inkuiri 6: Translasi Tazkiyatun Nafs ke Jadwal Pengasuhan Asrama Pesantren 24 Jam](#7-inkuiri-6-translasi-tazkiyatun-nafs-ke-jadwal-pengasuhan-asrama-pesantren-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH](#1-deklarasi-doktrin-baku-tazkiyatun-nafs-sebagai-episentrum-human-development-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH](#1-kaidah-utama-dan-standar-baku-tazkiyatun-nafs-sebagai-episentrum-human-development-tumbuh)
   - [2. Matriks Triadik Tazkiyah: Takhalliy, Tahalliy, Tajalliy & Indikator Perilaku Asrama](#2-matriks-triadik-tazkiyah-takhalliy-tahalliy-tajalliy--indikator-perilaku-asrama)
   - [3. Matriks Konvergensi Keilmuan: Riyadhah Turats vs Neurokognitif Habit Loop (Cue, Routine, Reward)](#3-matriks-konvergensi-keilmuan-riyadhah-turats-vs-neurokognitif-habit-loop-cue-routine-reward)
   - [4. Protokol Operasional Pengasuhan: Muhasabah Reflektif Malam & De-Eskalasi Kejenuhan Santri](#4-protokol-operasional-pengasuhan-muhasabah-reflektif-malam--de-eskalasi-kejenuhan-santri)
@@ -398,43 +398,25 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH
 
-```
-===================================================================================================
-                       PIAGAM DEKLARASI DOKTRIN BAKU PERTUMBUHAN JIWA SANTRI
-                          SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-DENGAN MEMOHON TAUFIQ DAN RIDHA ALLAH SUBHANAHU WA TA'ALA, EKOSISTEM PENDIDIKAN PESANTREN TUMBUH
-DENGAN INI MENETAPKAN DOKTRIN BAKU TAZKIYATUN NAFS SEBAGAI EPISENTRUM PERTUMBUHAN MANUSIA:
+1. **Hakikat Pertumbuhan (the Essence OF Growth)**:  
+   Pertumbuhan santri yang hakiki bukanlah sekadar pertambahan usia kronologis, pembesaran fisik, atau akumulasi wawasan kognitif hafalan. Pertumbuhan sejati adalah EVOLUSI SPIRITUAL-MORAL melalui penyucian kalbu (Tazkiyatun Nafs) dari dorongan hawa nafsu primitif menuju kematangan adab dan makrifatullah.
 
-1. HAKIKAT PERTUMBUHAN (THE ESSENCE OF GROWTH):
-   Pertumbuhan santri yang hakiki bukanlah sekadar pertambahan usia kronologis, pembesaran fisik,
-   atau akumulasi wawasan kognitif hafalan. Pertumbuhan sejati adalah EVOLUSI SPIRITUAL-MORAL
-   melalui penyucian kalbu (Tazkiyatun Nafs) dari dorongan hawa nafsu primitif menuju kematangan
-   adab dan makrifatullah.
+2. **Kewajiban Proses Triadik (the Triadic Process)**:  
+   Seluruh kurikulum pengasuhan asrama wajib mengawal tiga tahapan metamorfosis jiwa: a. TAKHALLIY: Pembersihan proaktif dari penyakit hati (hasad, kibr, riya', arogansi, & ghashab). b. TAHALLIY: Penghiasan kalbu dengan akhlak karimah (shidq, amanah, sabar, tawadhu', & empati). c. TAJALLIY: Pemancaran adab luhur secara otomatis sebagai watak kedua (Second Nature / Insan Kamil).
 
-2. KEWAJIBAN PROSES TRIADIK (THE TRIADIC PROCESS):
-   Seluruh kurikulum pengasuhan asrama wajib mengawal tiga tahapan metamorfosis jiwa:
-   a. TAKHALLIY: Pembersihan proaktif dari penyakit hati (hasad, kibr, riya', arogansi, & ghashab).
-   b. TAHALLIY: Penghiasan kalbu dengan akhlak karimah (shidq, amanah, sabar, tawadhu', & empati).
-   c. TAJALLIY: Pemancaran adab luhur secara otomatis sebagai watak kedua (Second Nature / Insan Kamil).
+3. **Metodologi Riyadhah-mujahadah Terstruktur (structured Ascent)**:  
+   Disiplin asrama 24 jam adalah wahana latihan jiwa (Riyadhah) dan medan perjuangan menundukkan ego (Mujahadah). Menolak segala bentuk pemaksaan instan dan hukuman fisik yang merendahkan martabat insan.
 
-3. METODOLOGI RIYADHAH-MUJAHADAH TERSTRUKTUR (STRUCTURED ASCENT):
-   Disiplin asrama 24 jam adalah wahana latihan jiwa (Riyadhah) dan medan perjuangan menundukkan ego
-   (Mujahadah). Menolak segala bentuk pemaksaan instan dan hukuman fisik yang merendahkan martabat insan.
+4. **Integrasi Neurosains Kognitif (neuroplastic Habituation)**:  
+   Mengadopsi prinsip neuroplastisitas pembiasaan 66-hari Dr. Phillippa Lally. Seluruh proses pembiasaan dikawal secara konsisten, bertahap, dan penuh kasih sayang hingga sirkuit kendali perilaku berpindah dari beban korteks prefrontal ke kebiasaan refleks basal ganglia.
 
-4. INTEGRASI NEUROSAINS KOGNITIF (NEUROPLASTIC HABITUATION):
-   Mengadopsi prinsip neuroplastisitas pembiasaan 66-hari Dr. Phillippa Lally. Seluruh proses pembiasaan
-   dikawal secara konsisten, bertahap, dan penuh kasih sayang hingga sirkuit kendali perilaku berpindah
-   dari beban korteks prefrontal ke kebiasaan refleks basal ganglia.
+5. **Peran Musyrif Sebagai Murabbi Ruhani (spiritual Mentorship)**:  
+   Musyrif dilarang bersikap sebagai mandor represif. Musyrif adalah teladan hidup (Qudwah Hasanah), pendengar empatik, dan pemandu taubat yang memfasilitasi muhasabah hening setiap malam.
 
-5. PERAN MUSYRIF SEBAGAI MURABBI RUHANI (SPIRITUAL MENTORSHIP):
-   Musyrif dilarang bersikap sebagai mandor represif. Musyrif adalah teladan hidup (Qudwah Hasanah),
-   pendengar empatik, dan pemandu taubat yang memfasilitasi muhasabah hening setiap malam.
-===================================================================================================
-```
 
 ---
 

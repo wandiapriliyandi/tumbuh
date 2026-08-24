@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Menolak Pola Kelekatan Tidak Sehat (Insecure-Avoidant & Insecure-Anxious)](#5-inkuiri-4-menolak-pola-kelekatan-tidak-sehat-insecure-avoidant--insecure-anxious)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Santri Baru, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-santri-baru--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH](#1-deklarasi-doktrin-baku-prinsip-keterikatan-aman-dan-peran-in-loco-parentis-musyrif-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-keterikatan-aman-dan-peran-in-loco-parentis-musyrif-tumbuh)
   - [2. Matriks 4 Gaya Kelekatan (Attachment Styles) & Pendekatan Respon Musyrif Asrama](#2-matriks-4-gaya-kelekatan-attachment-styles--pendekatan-respon-musyrif-asrama)
   - [3. Protokol Transisi Adaptasi Santri Baru 14 Hari Pertama (Zero Acute Homesickness SOP)](#3-protokol-transisi-adaptasi-santri-baru-14-hari-pertama-zero-acute-homesickness-sop)
   - [4. Matriks Peran Musyrif Sebagai Secure Base & Safe Haven 24 Jam](#4-matriks-peran-musyrif-sebagai-secure-base--safe-haven-24-jam)
@@ -193,34 +193,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU KELEKATAN AMAN & PENGASUHAN IN LOCO PARENTIS
-                          SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN AMANAH KASIH SAYANG HADHANAH DAN SUNNAH KEBAPAAN NABAWI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PENGASUHAN ASRAMA:
+1. **Peran Mutlak Musyrif Sebagai IN Loco Parentis (BI Manzilatil Walid)**:  
+   Setiap musyrif memikul amanah syar'i sebagai orang tua pengganti yang sah, berkewajiban mencurahkan kehangatan kasih sayang, perlindungan jasmani-ruhani, dan bimbingan adab luhur kepada setiap santri.
 
-1. DOKTRIN PERAN MUTLAK MUSYRIF SEBAGAI IN LOCO PARENTIS (BI MANZILATIL WALID):
-   Setiap musyrif memikul amanah syar'i sebagai orang tua pengganti yang sah, berkewajiban mencurahkan
-   kehangatan kasih sayang, perlindungan jasmani-ruhani, dan bimbingan adab luhur kepada setiap santri.
+2. **Penyediaan Secure Base & Safe Haven 24 JAM DI Asrama**:  
+   Lembaga asrama wajib berfungsi sebagai Pelabuhan Nyaman (Safe Haven) saat santri mengalami kecemasan/sakit, serta menjadi Pangkalan Aman (Secure Base) yang menumbuhkan keberanian santri bereksplorasi ilmu.
 
-2. PENYEDIAAN SECURE BASE & SAFE HAVEN 24 JAM DI ASRAMA:
-   Lembaga asrama wajib berfungsi sebagai Pelabuhan Nyaman (Safe Haven) saat santri mengalami kecemasan/sakit,
-   serta menjadi Pangkalan Aman (Secure Base) yang menumbuhkan keberanian santri bereksplorasi ilmu.
+3. **Protokol Empati Penanganan Homesickness 14 Hari Pertama (zero Emotional Neglect)**:  
+   Mengharamkan mutlak pencemoohan, hukuman, atau pengabaian terhadap santri baru yang mengalami rindu rumah. Wajib menerapkan pendampingan empatik bertahap, Buddy System, dan sesi lingkaran ukhuwah kamar.
 
-3. PROTOKOL EMPATI PENANGANAN HOMESICKNESS 14 HARI PERTAMA (ZERO EMOTIONAL NEGLECT):
-   Mengharamkan mutlak pencemoohan, hukuman, atau pengabaian terhadap santri baru yang mengalami rindu rumah.
-   Wajib menerapkan pendampingan empatik bertahap, Buddy System, dan sesi lingkaran ukhuwah kamar.
+4. **Budaya Kelekatan Aman Berlandaskan Mahabbah & Wibawa Beradab**:  
+   Menghapus total gaya pengasuhan dingin, kasar, dan menjaga jarak semu. Menegakkan wibawa pengasuhan yang berakar pada keteladanan qudwah hasanah, kelembutan tutur kata, dan keadilan penegakan aturan.
 
-4. BUDAYA KELEKATAN AMAN BERLANDASKAN MAHABBAH & WIBAWA BERADAB:
-   Menghapus total gaya pengasuhan dingin, kasar, dan menjaga jarak semu. Menegakkan wibawa pengasuhan
-   yang berakar pada keteladanan qudwah hasanah, kelembutan tutur kata, dan keadilan penegakan aturan.
-===================================================================================================
-```
 
 ---
 

@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Protokol Clean Slate (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunal](#4-inkuiri-3-protokol-clean-slate-pemutihan-rekam-jejak--upacara-penerimaan-kembali-komunal)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-reintegrasi--anti-stigmatisasi-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-reintegrasi-anti-stigmatisasi-pesantren-tumbuh)
   - [2. Matriks 3 Fase Reintegrasi: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh](#2-matriks-3-fase-reintegrasi-fase-penyesuaian-fase-pembuktian--fase-pemulihan-penuh)
   - [3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak & Upacara Penerimaan Kembali](#3-standar-prosedur-operasional-sop-pemutihan-rekam-jejak--upacara-penerimaan-kembali)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -151,34 +151,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU REINTEGRASI SOSIAL & ANTI-STIGMATISASI PESANTREN TUMBUH
-                       SUB-DOMAIN 06: INTERVENTION PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KESUCIAN PERTOBATAN DAN KEHORMATAN UKHUWAH ISLAMIYYAH,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN REINTEGRASI SOSIAL & ANTI-STIGMA:
+1. **Penghapusan Mutlak Stigmatisasi (zero Stigmatization Policy)**:  
+   Mengharamkan segala bentuk pelabelan negatif, sindiran masa lalu, dan pengucilan sosial terhadap santri yang telah menyelesaikan proses pertanggungjawaban restoratif dan bertobat dengan tulus.
 
-1. DOKTRIN PENGHAPUSAN MUTLAK STIGMATISASI (ZERO STIGMATIZATION POLICY):
-   Mengharamkan segala bentuk pelabelan negatif, sindiran masa lalu, dan pengucilan sosial terhadap
-   santri yang telah menyelesaikan proses pertanggungjawaban restoratif dan bertobat dengan tulus.
+2. **Penerapan Prinsip Reintegrative Shaming (memisahkan Dosa Dari Pribadi Santri)**:  
+   Mewajibkan seluruh pendidik menolak keras perbuatan pelanggaran hukum syariat dan aturan pondok, namun tetap memuliakan, mengasihi, dan merangkul pribadi santri sebagai saudara seiman yang suci.
 
-2. PENERAPAN PRINSIP REINTEGRATIVE SHAMING (MEMISAHKAN DOSA DARI PRIBADI SANTRI):
-   Mewajibkan seluruh pendidik menolak keras perbuatan pelanggaran hukum syariat dan aturan pondok,
-   namun tetap memuliakan, mengasihi, dan merangkul pribadi santri sebagai saudara seiman yang suci.
+3. **Protokol Pemutihan Rekam Jejak Digital (clean Slate & Expungement System)**:  
+   Menetapkan bahwa setelah masa pemantauan perilaku konsisten (30–60 hari), seluruh catatan poin pelanggaran di-reset kembali menjadi bersih dan diarsipkan secara tertutup dan rahasia.
 
-3. PROTOKOL PEMUTIHAN REKAM JEJAK DIGITAL (CLEAN SLATE & EXPUNGEMENT SYSTEM):
-   Menetapkan bahwa setelah masa pemantauan perilaku konsisten (30–60 hari), seluruh catatan poin
-   pelanggaran di-reset kembali menjadi bersih dan diarsipkan secara tertutup dan rahasia.
+4. **Pemulihan Kepercayaan & Pemberian Amanah Baru**:  
+   Mewajibkan lembaga memberikan kesempatan yang adil bagi santri yang telah bertobat untuk menduduki posisi kepengurusan organisasi santri, tugas kepanitiaan, dan pendelegasian lomba tanpa diskriminasi.
 
-4. MANDAT PEMULIHAN KEPERCAYAAN & PEMBERIAN AMANAH BARU:
-   Mewajibkan lembaga memberikan kesempatan yang adil bagi santri yang telah bertobat untuk menduduki
-   posisi kepengurusan organisasi santri, tugas kepanitiaan, dan pendelegasian lomba tanpa diskriminasi.
-===================================================================================================
-```
 
 ---
 

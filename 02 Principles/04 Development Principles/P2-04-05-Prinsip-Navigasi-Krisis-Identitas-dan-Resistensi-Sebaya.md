@@ -29,7 +29,7 @@
   - [4. Inkuiri 3: Dekonstruksi Polarisasi Geng Asrama & Protokol Rekayasa Iklim Ukhuwah Sejati](#4-inkuiri-3-dekonstruksi-polarisasi-geng-asrama--protokol-rekayasa-iklim-ukhuwah-sejati)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-pembinaan-identitas-remaja--ukhuwah-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-pembinaan-identitas-remaja-ukhuwah-pesantren-tumbuh)
   - [2. Matriks Pendampingan 3 Tahap Krisis Identitas Santri: Difusi, Moratorium, & Pencapaian Identitas Insan Adabi](#2-matriks-pendampingan-3-tahap-krisis-identitas-santri-difusi-moratorium--pencapaian-identitas-insan-adabi)
   - [3. Standar Prosedur Operasional (SOP) Pencegahan & Pembubaran Geng Asrama Eksklusif](#3-standar-prosedur-operasional-sop-pencegahan--pembubaran-geng-asrama-eksklusif)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -158,34 +158,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU PEMBINAAN IDENTITAS REMAJA & UKHUWAH ASRAMA PESANTREN TUMBUH
-                       SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KEMULIAAN GENERASI MUDA ISLAM (MARHALAH ASY-SYABAB),
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN PEMBINAAN IDENTITAS REMAJA:
+1. **Pendampingan Marhalah Asy-syabab Dengan Pendekatan Sahabat (khawikhum)**:  
+   Menetapkan bahwa asatidz dan musyrif wajib memperlakukan santri remaja (usia 12–18 tahun) sebagai sahabat dialog penuh kasih dan wibawa; mengharamkan pola pengasuhan otoriter represif yang kaku.
 
-1. DOKTRIN PENDAMPINGAN MARHALAH ASY-SYABAB DENGAN PENDEKATAN SAHABAT (KHAWIKHUM):
-   Menetapkan bahwa asatidz dan musyrif wajib memperlakukan santri remaja (usia 12–18 tahun) sebagai
-   sahabat dialog penuh kasih dan wibawa; mengharamkan pola pengasuhan otoriter represif yang kaku.
+2. **Penghapusan Mutlak Geng Senioritas Eksklusif & Perpeloncoan Asrama**:  
+   Mengharamkan segala bentuk tradisi senioritas menindas, ospek fisik, dan geng eksklusif; menegakkan doktrin Ukhuwah Islamiyyah berbasis kasih sayang dan saling tolong-menolong (Ta'awun).
 
-2. PENGHAPUSAN MUTLAK GENG SENIORITAS EKSKLUSIF & PERPELONCOAN ASRAMA:
-   Mengharamkan segala bentuk tradisi senioritas menindas, ospek fisik, dan geng eksklusif;
-   menegakkan doktrin Ukhuwah Islamiyyah berbasis kasih sayang dan saling tolong-menolong (Ta'awun).
+3. **Strategi Penyaluran Hasrat Aktualisasi Diri Secara Profetik**:  
+   Mewajibkan lembaga menyediakan panggung aktualisasi bakat santri (riset, dakwah, seni, olahraga) guna memenuhi kebutuhan psikologis pengakuan sosial (*Need for Significance*) ke arah kebaikan.
 
-3. STRATEGI PENYALURAN HASRAT AKTUALISASI DIRI SECARA PROFETIK:
-   Mewajibkan lembaga menyediakan panggung aktualisasi bakat santri (riset, dakwah, seni, olahraga)
-   guna memenuhi kebutuhan psikologis pengakuan sosial (*Need for Significance*) ke arah kebaikan.
+4. **Protokol Restorasi Sosial & Konsultasi Pribadi Aman Asrama**:  
+   Menyediakan ruang konseling privat yang aman bagi santri remaja untuk mendiskusikan krisis identitas, permasalahan pubertas, dan pergulatan emosional tanpa takut dihakimi atau dibocorkan aibnya.
 
-4. PROTOKOL RESTORASI SOSIAL & KONSULTASI PRIBADI AMAN ASRAMA:
-   Menyediakan ruang konseling privat yang aman bagi santri remaja untuk mendiskusikan krisis identitas,
-   permasalahan pubertas, dan pergulatan emosional tanpa takut dihakimi atau dibocorkan aibnya.
-===================================================================================================
-```
 
 ---
 

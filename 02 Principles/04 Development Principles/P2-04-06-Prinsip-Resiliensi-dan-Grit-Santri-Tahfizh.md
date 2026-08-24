@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Navigasi Plateau of Latent Potential & Penerapan Antifragility dalam Mengelola Kegagalan Setoran](#4-inkuiri-3-navigasi-plateau-of-latent-potential--penerapan-antifragility-dalam-mengelola-kegagalan-setoran)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Halaqah, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-halaqah--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH](#1-deklarasi-doktrin-baku-standar-pembinaan-resiliensi--ketahanan-mental-santri-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-pembinaan-resiliensi-ketahanan-mental-santri-tumbuh)
   - [2. Matriks Pengukuran 4 Tingkat Ketahanan Mental Santri: Rapuh, Bertahan, Tangguh, & Antirapuh](#2-matriks-pengukuran-4-tingkat-ketahanan-mental-santri-rapuh-bertahan-tangguh--antirapuh)
   - [3. Standar Prosedur Operasional (SOP) Pemulihan Kejenuhan Menghafal (Futuwr Recovery Protocol)](#3-standar-prosedur-operasional-sop-pemulihan-kejenuhan-menghafal-futuwr-recovery-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -156,34 +156,22 @@ Konsep **Antifragile** karya Nassim Nicholas Taleb mengajarkan bahwa sistem ment
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU PEMBINAAN RESILIENSI & DAYA JUANG (GRIT) SANTRI PESANTREN TUMBUH
-                       SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KESUNGGUHAN MUJAHADAH DAN KESABARAN INSAN ADABI,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN PEMBINAAN RESILIENSI SANTRI:
+1. **Pengembangan Daya Juang Profetik (prophetic Grit & Mujahadah)**:  
+   Menetapkan bahwa ketangguhan mental, konsistensi jangka panjang, dan kesabaran menghadapi kesulitan adalah inti kompetensi karakter santri yang dibina secara sadar dan sistemik.
 
-1. DOKTRIN PENGEMBANGAN DAYA JUANG PROFETIK (PROPHETIC GRIT & MUJAHADAH):
-   Menetapkan bahwa ketangguhan mental, konsistensi jangka panjang, dan kesabaran menghadapi
-   kesulitan adalah inti kompetensi karakter santri yang dibina secara sadar dan sistemik.
+2. **Penerapan Paradigma Antirapuh (antifragility) Dalam Menghadapi Tantangan**:  
+   Mendidik santri untuk memandang ujian, kesulitan hafalan, dan kegagalan sementara sebagai sarana penggemblengan jiwa (*Riyadhah*) yang mematangkan kemandirian dan kedekatan kepada Allah SWT.
 
-2. PENERAPAN PARADIGMA ANTIRAPUH (ANTIFRAGILITY) DALAM MENGHADAPI TANTANGAN:
-   Mendidik santri untuk memandang ujian, kesulitan hafalan, dan kegagalan sementara sebagai sarana
-   penggemblengan jiwa (*Riyadhah*) yang mematangkan kemandirian dan kedekatan kepada Allah SWT.
+3. **Protokol Pemulihan Kejenuhan (futuwr Recovery Protocol)**:  
+   Mengharamkan hukuman keras atau bentakan terhadap santri yang mengalami kejenuhan belajar; mewajibkan pemberian jeda aktif, bimbingan konseling empat mata, dan pembaharuan niat ikhlas secara berkala.
 
-3. PROTOKOL PEMULIHAN KEJENUHAN (FUTUWR RECOVERY PROTOCOL):
-   Mengharamkan hukuman keras atau bentakan terhadap santri yang mengalami kejenuhan belajar; mewajibkan
-   pemberian jeda aktif, bimbingan konseling empat mata, dan pembaharuan niat ikhlas secara berkala.
+4. **Penghargaan Atas Progres Ikhtiar & Konsistensi Hikmah**:  
+   Menegakkan budaya apresiasi atas kesungguhan ikhtiar dan kualitas ketelitian (*Itqan*), bukan sekadar mengejar kuantitas kecepatan hafalan semu yang rapuh dari pemahaman dan pengamalan adab.
 
-4. PENGHARGAAN ATAS PROGRES IKHTIAR & KONSISTENSI HIKMAH:
-   Menegakkan budaya apresiasi atas kesungguhan ikhtiar dan kualitas ketelitian (*Itqan*), bukan sekadar
-   mengejar kuantitas kecepatan hafalan semu yang rapuh dari pemahaman dan pengamalan adab.
-===================================================================================================
-```
 
 ---
 

@@ -35,7 +35,7 @@
   - [5. Inkuiri 4: Perlindungan Iklim Ukhuwah dalam Peer Assessment Sebaya (Sociometric Safeguards)](#5-inkuiri-4-perlindungan-iklim-ukhuwah-dalam-peer-assessment-sebaya-sociometric-safeguards)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Triangulasi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-triangulasi-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-triangulasi-data-multi-sumber-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-triangulasi-data-multi-sumber-pesantren-tumbuh)
   - [2. Matriks Pembobotan 4 Sumber Data Asesmen Karakter Santri 360 Derajat](#2-matriks-pembobotan-4-sumber-data-asesmen-karakter-santri-360-derajat)
   - [3. Protokol Tabayyun & Rekonsiliasi Diskrepansi Data (Data Reconciliation SOP)](#3-protokol-tabayyun--rekonsiliasi-diskrepansi-data-data-reconciliation-sop)
   - [4. SOP Peer Assessment Ramah Ukhuwah (Ukhuwah-Safe Peer Feedback Protocol)](#4-sop-peer-assessment-ramah-ukhuwah-ukhuwah-safe-peer-feedback-protocol)
@@ -195,34 +195,22 @@ Riset sosiometri membuktikan bahwa meminta anak-anak menilai kesalahan teman seb
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU TRIANGULASI DATA MULTI-SUMBER (360 DERAJAT) PESANTREN
-                          SUB-DOMAIN 05: ASSESSMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEWAJIBAN TABAYYUN DAN KEHORMATAN PERSAKSIAN BERIMBANG,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU TRIANGULASI ASESMEN:
+1. **Penghapusan Vonis Penilai Tunggal (anti-single Rater Tyranny)**:  
+   Menolak mutlak penetapan nilai karakter atau status disiplin santri yang hanya bersumber dari 1 orang. Seluruh penilaian karakter wajib mengintegrasikan triangulasi data multi-sumber yang terverifikasi silang.
 
-1. DOKTRIN PENGHAPUSAN VONIS PENILAI TUNGGAL (ANTI-SINGLE RATER TYRANNY):
-   Menolak mutlak penetapan nilai karakter atau status disiplin santri yang hanya bersumber dari 1 orang.
-   Seluruh penilaian karakter wajib mengintegrasikan triangulasi data multi-sumber yang terverifikasi silang.
+2. **Penetapan Empat Pilar Sumber Data Asesmen 360 Derajat**:  
+   Penilaian karakter santri dihitung secara proporsional dari 4 pilar: Pengamatan Musyrif Asrama (35%), Pengamatan Guru Madrasah (35%), Self-Assessment Reflektif Santri (15%), dan Peer Feedback Sahabat (15%).
 
-2. PENETAPAN EMPAT PILAR SUMBER DATA ASESMEN 360 DERAJAT:
-   Penilaian karakter santri dihitung secara proporsional dari 4 pilar: Pengamatan Musyrif Asrama (35%),
-   Pengamatan Guru Madrasah (35%), Self-Assessment Reflektif Santri (15%), dan Peer Feedback Sahabat (15%).
+3. **Protokol Tabayyun Atas Diskrepansi Data Antar-lokus**:  
+   Apabila terjadi perbedaan skor signifikan antara pengamatan asrama dan madrasah, wajib diselenggarakan Sidang Rekonsiliasi Tabayyun klinis untuk mendiagnosis akar masalah sebelum merumuskan kesimpulan akhir.
 
-3. PROTOKOL TABAYYUN ATAS DISKREPANSI DATA ANTAR-LOKUS:
-   Apabila terjadi perbedaan skor signifikan antara pengamatan asrama dan madrasah, wajib diselenggarakan
-   Sidang Rekonsiliasi Tabayyun klinis untuk mendiagnosis akar masalah sebelum merumuskan kesimpulan akhir.
+4. **Perlindungan Ukhuwah Dalam Penilaian Sebaya (positive Peer Nomination)**:  
+   Mengharamkan evaluasi sebaya yang menuntut pencarian kesalahan teman. Penilaian teman sebaya wajib berfokus pada nominasi apresiasi kebaikan (Strength Spotting) demi merawat ukhuwah islamiyyah.
 
-4. PERLINDUNGAN UKHUWAH DALAM PENILAIAN SEBAYA (POSITIVE PEER NOMINATION):
-   Mengharamkan evaluasi sebaya yang menuntut pencarian kesalahan teman. Penilaian teman sebaya wajib
-   berfokus pada nominasi apresiasi kebaikan (Strength Spotting) demi merawat ukhuwah islamiyyah.
-===================================================================================================
-```
 
 ---
 

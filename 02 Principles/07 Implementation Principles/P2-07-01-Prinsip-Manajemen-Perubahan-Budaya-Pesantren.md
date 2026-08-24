@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Transformasi Kepemimpinan Qudwah: Mengubah Mandor Menjadi Murabbi In Loco Parentis](#5-inkuiri-4-transformasi-kepemimpinan-qudwah-mengubah-mandor-menjadi-murabbi-in-loco-parentis)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Resistensi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-resistensi-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-manajemen-perubahan-budaya-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-manajemen-perubahan-budaya-pesantren-tumbuh)
   - [2. Matriks 8 Tahapan Model Kotter Transformasi Budaya Pesantren TUMBUH](#2-matriks-8-tahapan-model-kotter-transformasi-budaya-pesantren-tumbuh)
   - [3. Panduan Mitigasi 4 Tipe Resistensi Staf & Pengurus Asrama](#3-panduan-mitigasi-4-tipe-resistensi-staf--pengurus-asrama)
   - [4. Alur Standar Operasional Prosedur Peluncuran Budaya Baru TUMBUH (100 Hari Pertama)](#4-alur-standar-operasional-prosedur-peluncuran-budaya-baru-tumbuh-100-hari-pertama)
@@ -190,34 +190,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU MANAJEMEN PERUBAHAN BUDAYA PESANTREN
-                         SUB-DOMAIN 07: IMPLEMENTATION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN SUNNATULLAH PERUBAHAN PERADABAN DAN AMANAH TAJDID NABAWI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU TRANSFORMASI BUDAYA:
+1. **Pembaharuan Budaya Sistemik (systemic Cultural Tajdid Mandate)**:  
+   Menolak segala bentuk perubahan instan tanpa persiapan matang serta menolak pelestarian kultur koersif. Transformasi budaya wajib dipandu melalui 8 Tahapan Model Kotter yang diselaraskan dengan hikmah pesantren.
 
-1. DOKTRIN PEMBAHARUAN BUDAYA SISTEMIK (SYSTEMIC CULTURAL TAJDID MANDATE):
-   Menolak segala bentuk perubahan instan tanpa persiapan matang serta menolak pelestarian kultur koersif.
-   Transformasi budaya wajib dipandu melalui 8 Tahapan Model Kotter yang diselaraskan dengan hikmah pesantren.
+2. **Pemberantasan Kesesatan Berpikir Survivorship Bias**:  
+   Mengharamkan justifikasi kekerasan fisik dan verbal berdalih tradisi masa lalu ("dulu kami dipukul bisa sukses"). Menegaskan bahwa keberhasilan santri sejati bersumber dari keikhlasan ilmu, keteladanan Qudwah, dan barokah doa.
 
-2. PEMBERANTASAN KESESATAN BERPIKIR SURVIVORSHIP BIAS:
-   Mengharamkan justifikasi kekerasan fisik dan verbal berdalih tradisi masa lalu ("dulu kami dipukul bisa sukses").
-   Menegaskan bahwa keberhasilan santri sejati bersumber dari keikhlasan ilmu, keteladanan Qudwah, dan barokah doa.
+3. **Pembentukan Koalisi Penggerak Inti (guiding Coalition)**:  
+   Mewajibkan pembentukan Tim Penggerak Inti yang dipimpin langsung oleh Pengasuh/Kyai bersama representasi asatidz, musyrif senior, konselor BK, dan wali santri guna mengawal konsistensi implementasi di seluruh lini.
 
-3. MANDAT PEMBENTUKAN KOALISI PENGGERAK INTI (GUIDING COALITION):
-   Mewajibkan pembentukan Tim Penggerak Inti yang dipimpin langsung oleh Pengasuh/Kyai bersama representasi
-   asatidz, musyrif senior, konselor BK, dan wali santri guna mengawal konsistensi implementasi di seluruh lini.
+4. **Transformasi Peran Musyrif Sebagai Murabbi IN Loco Parentis**:  
+   Mengubah total paradigma peran musyrif dari pengawas koersif (mandor penjara) menjadi figur teladan pengganti orang tua (In Loco Parentis) yang memandu adab santri dengan keteladanan nyata dan kasih sayang.
 
-4. TRANSFORMASI PERAN MUSYRIF SEBAGAI MURABBI IN LOCO PARENTIS:
-   Mengubah total paradigma peran musyrif dari pengawas koersif (mandor penjara) menjadi figur teladan
-   pengganti orang tua (In Loco Parentis) yang memandu adab santri dengan keteladanan nyata dan kasih sayang.
-===================================================================================================
-```
 
 ---
 

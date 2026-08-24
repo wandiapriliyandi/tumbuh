@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Desain Rencana Aksi Perilaku (Behavior Intervention Plan / BIP) & Replacement Behavior](#5-inkuiri-4-desain-rencana-aksi-perilaku-behavior-intervention-plan--bip--replacement-behavior)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika FBA Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-fba-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-functional-behavior-assessment-fba-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-functional-behavior-assessment-fba-pesantren-tumbuh)
   - [2. Matriks Pemetaan Model ABC & Fungsi Perilaku Santri di Asrama/Madrasah](#2-matriks-pemetaan-model-abc--fungsi-perilaku-santri-di-asramamadrasah)
   - [3. Template Baku Dokumen FBA & Rencana Aksi BIP (Behavior Intervention Plan)](#3-template-baku-dokumen-fba--rencana-aksi-bip-behavior-intervention-plan)
   - [4. Alur Standar Operasional Prosedur Pelaksanaan FBA oleh Tim Terpadu BK](#4-alur-standar-operasional-prosedur-pelaksanaan-fba-oleh-tim-terpadu-bk)
@@ -183,34 +183,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) PESANTREN
-                          SUB-DOMAIN 06: INTERVENTION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KAIDAH AL-UMURU BI MAQASHIDIHA DAN HIKMAH DIAGNOSTIK NABAWI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU ANALISIS PERILAKU SANTRI:
+1. **Kebutuhan Fungsional Perilaku (behavioral Functionality Mandate)**:  
+   Menolak segala bentuk hukuman buta atas gejala lahiriah pelanggaran santri. Setiap intervensi perilaku berulang wajib berlandaskan analisis ilmiah terhadap akar fungsi motif (FBA).
 
-1. DOKTRIN KEBUTUHAN FUNGSIONAL PERILAKU (BEHAVIORAL FUNCTIONALITY MANDATE):
-   Menolak segala bentuk hukuman buta atas gejala lahiriah pelanggaran santri.
-   Setiap intervensi perilaku berulang wajib berlandaskan analisis ilmiah terhadap akar fungsi motif (FBA).
+2. **Penetapan Model Tiga Suku Antecedent-behavior-consequence (model Abc)**:  
+   Mewajibkan pemetaan runtut: Pemicu Lingkungan (Antecedent), Bentuk Perilaku Teramati (Behavior), dan Konsekuensi Penguat (Consequence) guna mengidentifikasi fungsi Menghindar (Escape) atau Mencari (Obtain).
 
-2. PENETAPAN MODEL TIGA SUKU ANTECEDENT-BEHAVIOR-CONSEQUENCE (MODEL ABC):
-   Mewajibkan pemetaan runtut: Pemicu Lingkungan (Antecedent), Bentuk Perilaku Teramati (Behavior),
-   dan Konsekuensi Penguat (Consequence) guna mengidentifikasi fungsi Menghindar (Escape) atau Mencari (Obtain).
+3. **Penyusunan Behavior Intervention Plan (bip) & Perilaku Pengganti**:  
+   Setiap santri yang menjalani FBA berhak mendapatkan dokumen BIP individual yang memuat modifikasi lingkungan, pengajaran perilaku pengganti yang beradab (Replacement Behavior), dan penguatan positif.
 
-3. MANDAT PENYUSUNAN BEHAVIOR INTERVENTION PLAN (BIP) & PERILAKU PENGGANTI:
-   Setiap santri yang menjalani FBA berhak mendapatkan dokumen BIP individual yang memuat modifikasi
-   lingkungan, pengajaran perilaku pengganti yang beradab (Replacement Behavior), dan penguatan positif.
+4. **Pelaksanaan Terpadu Oleh TIM Pbis Multidisiplin**:  
+   Mengharamkan analisis sepihak. FBA wajib dilaksanakan secara kolegial oleh Tim Terpadu PBIS (Konselor BK, Musyrif Kamar, Guru Wali Kelas, dan Wali Santri) demi menjamin objektivitas penanganan.
 
-4. PELAKSANAAN TERPADU OLEH TIM PBIS MULTIDISIPLIN:
-   Mengharamkan analisis sepihak. FBA wajib dilaksanakan secara kolegial oleh Tim Terpadu PBIS
-   (Konselor BK, Musyrif Kamar, Guru Wali Kelas, dan Wali Santri) demi menjamin objektivitas penanganan.
-===================================================================================================
-```
 
 ---
 
@@ -226,42 +214,17 @@ EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU ANALISI
 
 ### 3. Template Baku Dokumen FBA & Rencana Aksi BIP (*Behavior Intervention Plan*)
 
-```markdown
-===================================================================================================
-                  DOKUMEN FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) & RENCANA AKSI (BIP)
-                                PESANTREN TUMBUH — TAHUN AJARAN 2026/2027
-===================================================================================================
-Nama Santri : Abdullah Salman                     Kelas / Kamar : 8-A / Asrama Al-Farabi 02
-Tanggal FBA : 24 Agustus 2026                     Tim FBA       : Tim Konseling BK & Musyrif Kamar
----------------------------------------------------------------------------------------------------
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-I. IDENTIFIKASI PERILAKU SASARAN (TARGET BEHAVIOR):
-Santri kerap meninggalkan halaqah Al-Qur'an sore hari tanpa izin (frekuensi: 4x dalam 2 pekan).
+1. **Strategi Pencegahan Pemicu (Antecedent Modifications)**:  
+   Musyrif halaqah membagi target setoran Salman menjadi 2 ayat per sesi (Chunking). Salman diposisikan di urutan setoran awal dalam suasana privat santai agar tidak menumpuk kecemasan menunggu giliran.
 
-II. ANALISIS MODEL TIGA SUKU (ABC DATA SUMMARY):
-- Antecedent : Saat musyrif halaqah mengumumkan giliran setoran ayat hafalan baru (Ziyadah).
-- Behavior   : Santri meminta izin ke toilet lalu tidak kembali hingga halaqah selesai.
-- Consequence: Santri lolos dari giliran setoran dan tidak ditegur saat jam makan malam.
-- Hipotesis Fungsi: Menghindari rasa cemas dan malu akibat belum lancar menghafal (Escape Demand).
+2. **Pengajaran Perilaku Pengganti (Replacement Behavior)**:  
+   Salman dilatih mengangkat tangan dan berkata: "Ustadz, sore ini saya ingin tasmi' 2 ayat dahulu". Salman diberikan waktu tambahan muraja'ah bersama kakak asuh Tangga T4 sebelum halaqah dimulai.
 
-III. RENCANA AKSI PERILAKU POSITIF (BEHAVIOR INTERVENTION PLAN - BIP):
-1. Strategi Pencegahan Pemicu (Antecedent Modifications):
-   Musyrif halaqah membagi target setoran Salman menjadi 2 ayat per sesi (Chunking). Salman diposisikan
-   di urutan setoran awal dalam suasana privat santai agar tidak menumpuk kecemasan menunggu giliran.
+3. **Strategi Konsekuensi & Penguatan Positif (Reinforcement Schedule)**:  
+   Setiap kali Salman bertahan mengikuti halaqah penuh dan menyetorkan hafalan bertahap, musyrif memberikan apresiasi bintang logbook PBIS dan pujian hangat secara langsung. --------------------------------------------------------------------------------------------------- Tanda Tangan Konselor BK       Tanda Tangan Musyrif Kamar       Tanda Tangan Santri ( Ustadz Ridwan, M.Psi. )      ( Ustadz Fauzan, S.Pd.I. )       ( Abdullah Salman )
 
-2. Pengajaran Perilaku Pengganti (Replacement Behavior):
-   Salman dilatih mengangkat tangan dan berkata: "Ustadz, sore ini saya ingin tasmi' 2 ayat dahulu".
-   Salman diberikan waktu tambahan muraja'ah bersama kakak asuh Tangga T4 sebelum halaqah dimulai.
-
-3. Strategi Konsekuensi & Penguatan Positif (Reinforcement Schedule):
-   Setiap kali Salman bertahan mengikuti halaqah penuh dan menyetorkan hafalan bertahap, musyrif
-   memberikan apresiasi bintang logbook PBIS dan pujian hangat secara langsung.
----------------------------------------------------------------------------------------------------
-Tanda Tangan Konselor BK       Tanda Tangan Musyrif Kamar       Tanda Tangan Santri
-
-( Ustadz Ridwan, M.Psi. )      ( Ustadz Fauzan, S.Pd.I. )       ( Abdullah Salman )
-===================================================================================================
-```
 
 ---
 

@@ -31,7 +31,7 @@
   - [4. Inkuiri 3: Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (Maslach Burnout Inventory)](#4-inkuiri-3-proteksi-kesejahteraan-mental-pendidik--mitigasi-burnout-maslach-burnout-inventory)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-kompetensi--kode-etik-musyrif-murabbi-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-kompetensi-kode-etik-musyrif-murabbi-pesantren-tumbuh)
   - [2. Matriks 4 Domain Kompetensi Pendidik/Musyrif, Indikator Kinerja (KPI Qudwah), & Bukti Asesmen](#2-matriks-4-domain-kompetensi-pendidikmusyrif-indikator-kinerja-kpi-qudwah--bukti-asesmen)
   - [3. Piagam Perlindungan Kesejahteraan Mental Musyrif & Jam Kerja Manusiawi (Educator Well-Being Charter)](#3-piagam-perlindungan-kesejahteraan-mental-musyrif--jam-kerja-manusiawi-educator-well-being-charter)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -162,34 +162,22 @@ Pesantren TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: r
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU STANDAR KOMPETENSI & KODE ETIK MUSYRIF MURABBI PESANTREN TUMBUH
-                       SUB-DOMAIN 01: GRADUATE PROFILE — DOMAIN 03 CAPACITY
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KELUHURAN AMANAH PENGASUHAN NABAWIYYAH,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN STANDAR KOMPETENSI MUSYRIF:
+1. **Kedudukan Ayah Spiritual (IN Loco Parentis)**:  
+   Menetapkan bahwa musyrif asrama adalah wakil orang tua yang memegang amanah fitrah santri; wajib mengasuh dengan kelembutan (ar-Rifq), ketegasan adab (Firm & Kind), dan kasih sayang tulus.
 
-1. DOKTRIN KEDUDUKAN AYAH SPIRITUAL (IN LOCO PARENTIS):
-   Menetapkan bahwa musyrif asrama adalah wakil orang tua yang memegang amanah fitrah santri; wajib
-   mengasuh dengan kelembutan (ar-Rifq), ketegasan adab (Firm & Kind), dan kasih sayang tulus.
+2. **Kewajiban Penguasaan 4 Domain Kompetensi Inti**:  
+   Seluruh musyrif wajib menguasai 4 Domain Kompetensi: Spiritual Qudwah, Manajemen Kamar 5S, Protokol De-eskalasi 3R Restoratif, dan Regulasi Kestabilan Emosi Pribadi.
 
-2. KEWAJIBAN PENGUASAAN 4 DOMAIN KOMPETENSI INTI:
-   Seluruh musyrif wajib menguasai 4 Domain Kompetensi: Spiritual Qudwah, Manajemen Kamar 5S,
-   Protokol De-eskalasi 3R Restoratif, dan Regulasi Kestabilan Emosi Pribadi.
+3. **Pengharaman Mutlak Segala Tindakan Kekerasan DAN Hukuman Fisik**:  
+   Dilarang keras memukul, menampar, menendang, menyiram air malam hari, membentak kasar, atau mempermalukan santri di depan umum. Pelanggaran kode etik ini dikenakan sanksi pemberhentian.
 
-3. PENGHARAMAN MUTLAK SEGALA TINDAKAN KEKERASAN DAN HUKUMAN FISIK:
-   Dilarang keras memukul, menampar, menendang, menyiram air malam hari, membentak kasar, atau
-   mempermalukan santri di depan umum. Pelanggaran kode etik ini dikenakan sanksi pemberhentian.
+4. **Piagam Jaminan Kesejahteraan & Perlindungan Anti-burnout**:  
+   Lembaga menjamin rasio ideal musyrif-santri (1:15–20), kepastian istirahat tidur 7 jam, hak libur mingguan, gaji memuliakan martabat, serta pendampingan supervisi klinis reflektif berkelanjutan.
 
-4. PIAGAM JAMINAN KESEJAHTERAAN & PERLINDUNGAN ANTI-BURNOUT:
-   Lembaga menjamin rasio ideal musyrif-santri (1:15–20), kepastian istirahat tidur 7 jam, hak libur
-   mingguan, gaji memuliakan martabat, serta pendampingan supervisi klinis reflektif berkelanjutan.
-===================================================================================================
-```
 
 ---
 

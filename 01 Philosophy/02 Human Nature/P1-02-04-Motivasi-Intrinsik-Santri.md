@@ -32,7 +32,7 @@
   - [6. Inkuiri 5: Dialog Kritis Reward Token vs Keikhlasan Niat (Tashihun Niyyah)](#6-inkuiri-5-dialog-kritis-reward-token-vs-keikhlasan-niat-tashihun-niyyah)
   - [7. Inkuiri 6: Translasi Disiplin Muraqabah ke Ekosistem Pengasuhan Pesantren 24 Jam](#7-inkuiri-6-translasi-disiplin-muraqabah-ke-ekosistem-pengasuhan-pesantren-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Motivasi Intrinsik & Integritas Muraqabah](#1-deklarasi-doktrin-baku-motivasi-intrinsik--integritas-muraqabah)
+  - [1. Kaidah Utama dan Standar Baku: Motivasi Intrinsik & Integritas Muraqabah](#1-kaidah-utama-dan-standar-baku-motivasi-intrinsik-integritas-muraqabah)
   - [2. Matriks Komparasi Tiga Paradigma Disiplin Pesantren (Teror vs Token vs Muraqabah)](#2-matriks-komparasi-tiga-paradigma-disiplin-pesantren-teror-vs-token-vs-muraqabah)
   - [3. Matriks Enam Tahap Kontinum Internalisasi Regulasi Santri TUMBUH](#3-matriks-enam-tahap-kontinum-internalisasi-regulasi-santri-tumbuh)
   - [4. Protokol Muhasabah Hening Malam & Internalisasi Muraqabah (The Nightly Muraqabah Circle)](#4-protokol-muhasabah-hening-malam--internalisasi-muraqabah-the-nightly-muraqabah-circle)
@@ -347,11 +347,11 @@ flowchart TD
 
 # BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
 
-*Bagian ini memuat deklarasi doktrin baku Motivasi Intrinsik & Muraqabah, matriks komparasi 3 paradigma disiplin, matriks kontinum internalisasi regulasi, dan protokol The Nightly Muraqabah Circle.*
+*Bagian ini memuat rumusan kaidah utama dan standar operasional Motivasi Intrinsik & Muraqabah, matriks komparasi 3 paradigma disiplin, matriks kontinum internalisasi regulasi, dan protokol The Nightly Muraqabah Circle.*
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Motivasi Intrinsik & Integritas Muraqabah
+### 1. Kaidah Utama dan Standar Baku: Motivasi Intrinsik & Integritas Muraqabah
 
 Ekosistem TUMBUH menetapkan deklarasi resmi formasi motivasi manusia:
 

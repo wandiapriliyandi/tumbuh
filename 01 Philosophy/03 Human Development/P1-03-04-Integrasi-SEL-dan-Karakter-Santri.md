@@ -38,7 +38,7 @@
   - [6. Inkuiri 5: Rekayasa Rutinitas Sosio-Emosional Asrama 24 Jam (Halaqah Sapa Pagi, Makan Satu Nampan, & Muhasabah Malam)](#6-inkuiri-5-rekayasa-rutinitas-sosio-emosional-asrama-24-jam-halaqah-sapa-pagi-makan-satu-nampan--muhasabah-malam)
   - [7. Inkuiri 6: Translasi CASEL SEL ke Sistem Bimbingan Konseling & Budaya Komunal Pesantren](#7-inkuiri-6-translasi-casel-sel-ke-sistem-bimbingan-konseling--budaya-komunal-pesantren)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH](#1-deklarasi-doktrin-baku-integrasi-sel-dan-taksonomi-adab-nabawi-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-integrasi-sel-dan-taksonomi-adab-nabawi-pesantren-tumbuh)
   - [2. Matriks Harmonisasi 5 Kompetensi CASEL SEL dengan Khazanah Adab Turats & Indikator Lapangan](#2-matriks-harmonisasi-5-kompetensi-casel-sel-dengan-khazanah-adab-turats--indikator-lapangan)
   - [3. Matriks Protokol Harian Rutinitas Sosio-Emosional Asrama 24 Jam](#3-matriks-protokol-harian-rutinitas-sosio-emosional-asrama-24-jam)
   - [4. Protokol Intervensi: Penanganan Konflik Antar-Santri Melalui Restorative Empathy Circle](#4-protokol-intervensi-penanganan-konflik-antar-santri-melalui-restorative-empathy-circle)
@@ -288,39 +288,22 @@ graph TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH
 
-```
-===================================================================================================
-               PIAGAM DOKTRIN BAKU INTEGRASI CASEL SEL & ADAB NABAWI PESANTREN TUMBUH
-                          SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-DENGAN MENGAGUNGKAN NAMA ALLAH YANG MAHA PENGASIH LAGI MAHA PENYAYANG, EKOSISTEM PENDIDIKAN PESANTREN
-TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU KECERDASAN SOSIO-EMOSIONAL DAN ADAB PERGAULAN:
+1. **Kesatuan Adab & Kecerdasan Sosio-emosional (holistic Adab Integration)**:  
+   Adab nabawi bukanlah kepatuhan mekanis yang kaku, melainkan manifestasi kecerdasan sosio-emosional berbasis tauhid yang mencakup kesadaran diri, pengendalian hawa nafsu, empati persaudaraan, keterampilan berkomunikasi santun, dan pengambilan keputusan yang berkeadilan.
 
-1. KESATUAN ADAB & KECERDASAN SOSIO-EMOSIONAL (HOLISTIC ADAB INTEGRATION):
-   Adab nabawi bukanlah kepatuhan mekanis yang kaku, melainkan manifestasi kecerdasan sosio-emosional
-   berbasis tauhid yang mencakup kesadaran diri, pengendalian hawa nafsu, empati persaudaraan,
-   keterampilan berkomunikasi santun, dan pengambilan keputusan yang berkeadilan.
+2. **Penerapan 5 Pilar Integratif Sel-turats**:  
+   Seluruh santri dibina melalui 5 pilar kompetensi: a. MA'RIFATUN NAFS (Self-Awareness): Mengenali potensi, keterbatasan, dan emosi diri di hadapan Allah. b. DHABTHUN NAFS & SHABR (Self-Management): Mengelola amarah, stres, dan menjaga istiqamah amal. c. TAFAQQUD & TARAHUM (Social Awareness): Menghidupkan empati mendalam kepada sesama makhluk. d. ADAB AL-MU'ASYARAH (Relationship Skills): Membangun ukhuwah islamiyah dan menyelesaikan konflik. e. HIKMAH & WARA' (Responsible Decision-Making): Mengambil keputusan berakhlak dan berkeadilan.
 
-2. PENERAPAN 5 PILAR INTEGRATIF SEL-TURATS:
-   Seluruh santri dibina melalui 5 pilar kompetensi:
-   a. MA'RIFATUN NAFS (Self-Awareness): Mengenali potensi, keterbatasan, dan emosi diri di hadapan Allah.
-   b. DHABTHUN NAFS & SHABR (Self-Management): Mengelola amarah, stres, dan menjaga istiqamah amal.
-   c. TAFAQQUD & TARAHUM (Social Awareness): Menghidupkan empati mendalam kepada sesama makhluk.
-   d. ADAB AL-MU'ASYARAH (Relationship Skills): Membangun ukhuwah islamiyah dan menyelesaikan konflik.
-   e. HIKMAH & WARA' (Responsible Decision-Making): Mengambil keputusan berakhlak dan berkeadilan.
+3. **Kebijakan Zero Bullying & Restoratif 100% (safe Bi'ah Shalihah)**:  
+   Menyatakan segala bentuk kekerasan fisik, intimidasi verbal, pengucilan sosial, dan perpeloncoan sebagai PELANGGARAN BERAT YANG HARAM. Penyelesaian konflik wajib menggunakan jalur Restorative Justice.
 
-3. KEBIJAKAN ZERO BULLYING & RESTORATIF 100% (SAFE BI'AH SHALIHAH):
-   Menyatakan segala bentuk kekerasan fisik, intimidasi verbal, pengucilan sosial, dan perpeloncoan
-   sebagai PELANGGARAN BERAT YANG HARAM. Penyelesaian konflik wajib menggunakan jalur Restorative Justice.
+4. **Penguatan 3 Jangkar Rutinitas Sosio-emosional Asrama (daily Embrace)**:  
+   Mewajibkan penyelenggaraan Halaqah Sapa Pagi, Adab Makan Bersama Satu Nampan, dan Lingkaran Muhasabah Malam di setiap kamar asrama santri.
 
-4. PENGUATAN 3 JANGKAR RUTINITAS SOSIO-EMOSIONAL ASRAMA (DAILY EMBRACE):
-   Mewajibkan penyelenggaraan Halaqah Sapa Pagi, Adab Makan Bersama Satu Nampan, dan Lingkaran
-   Muhasabah Malam di setiap kamar asrama santri.
-===================================================================================================
-```
 
 ---
 

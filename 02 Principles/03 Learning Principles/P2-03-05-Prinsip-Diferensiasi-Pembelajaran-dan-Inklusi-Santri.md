@@ -30,7 +30,7 @@
   - [4. Inkuiri 3: Mitigasi Pelabelan Negatif & Desain Scaffolding Bertingkat di Kelas Kitab dan Tahfizh](#4-inkuiri-3-mitigasi-pelabelan-negatif--desain-scaffolding-bertingkat-di-kelas-kitab-dan-tahfizh)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-kelas--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-diferensiasi-pembelajaran--inklusi-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-diferensiasi-pembelajaran-inklusi-pesantren-tumbuh)
   - [2. Matriks Strategi Diferensiasi 3 Tingkat Kesiapan Santri: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)](#2-matriks-strategi-diferensiasi-3-tingkat-kesiapan-santri-pemula-fondasi-madya-aplikasi-mahir-kreasi)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Santri Membutuhkan Bimbingan Khusus (Tier 2 Akademik)](#3-standar-prosedur-operasional-sop-penanganan-santri-membutuhkan-bimbingan-khusus-tier-2-akademik)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -145,34 +145,22 @@ Sains pembelajaran modern mengukuhkan prinsip pedagogis ini:
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU DIFERENSIASI PEMBELAJARAN & INKLUSI FITRAH PESANTREN TUMBUH
-                         SUB-DOMAIN 03: LEARNING PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN KEBERAGAMAN POTENSI FITRAH INSANIYYAH (QS. NUH: 14),
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN DIFERENSIASI PEMBELAJARAN:
+1. **Penghormatan Fitrah Keberagaman Belajar (mura'at Ahwal Al-muta'allimin)**:  
+   Menetapkan bahwa setiap santri berhak mendapatkan pengajaran yang selaras dengan kecepatan kognitif, modalitas belajar, dan tingkat kesiapan awalnya; menolak keras metode kaku 'One-Size-Fits-All'.
 
-1. DOKTRIN PENGHORMATAN FITRAH KEBERAGAMAN BELAJAR (MURA'AT AHWAL AL-MUTA'ALLIMIN):
-   Menetapkan bahwa setiap santri berhak mendapatkan pengajaran yang selaras dengan kecepatan kognitif,
-   modalitas belajar, dan tingkat kesiapan awalnya; menolak keras metode kaku 'One-Size-Fits-All'.
+2. **Pengharaman Mutlak Pelabelan Negatif & Stigmatisasi Kognitif**:  
+   Mengharamkan penggunaan julukan yang merendahkan martabat santri (bodoh, lemot, malas); mewajibkan penggunaan paradigma Growth Mindset dan apresiasi atas setiap progres kemajuan santri (Ipsatif).
 
-2. PENGHARAMAN MUTLAK PELABELAN NEGATIF & STIGMATISASI KOGNITIF:
-   Mengharamkan penggunaan julukan yang merendahkan martabat santri (bodoh, lemot, malas); mewajibkan
-   penggunaan paradigma Growth Mindset dan apresiasi atas setiap progres kemajuan santri (Ipsatif).
+3. **Strategi Integrasi Tugas Bertingkat (tiered Tasks) & Scaffolding Adaptif**:  
+   Mewajibkan pendidik menyusun modul pembelajaran dengan struktur bertingkat (Fondasi, Analisis, & Kreasi) serta memfasilitasi pendampingan kelompok fleksibel (Flexible Grouping & Peer Tutoring).
 
-3. STRATEGI INTEGRASI TUGAS BERTINGKAT (TIERED TASKS) & SCAFFOLDING ADAPTIF:
-   Mewajibkan pendidik menyusun modul pembelajaran dengan struktur bertingkat (Fondasi, Analisis, & Kreasi)
-   serta memfasilitasi pendampingan kelompok fleksibel (Flexible Grouping & Peer Tutoring).
+4. **Layanan Pendampingan Akademik Khusus Tier 2 Tanpa Eksklusi Sosial**:  
+   Menyediakan klinik bimbingan belajar tambahan di sore hari bagi santri yang membutuhkan penguatan tanpa memisahkan santri dari pergaulan kamar asrama reguler guna menjaga ukhuwah islamiyyah.
 
-4. LAYANAN PENDAMPINGAN AKADEMIK KHUSUS TIER 2 TANPA EKSKLUSI SOSIAL:
-   Menyediakan klinik bimbingan belajar tambahan di sore hari bagi santri yang membutuhkan penguatan
-   tanpa memisahkan santri dari pergaulan kamar asrama reguler guna menjaga ukhuwah islamiyyah.
-===================================================================================================
-```
 
 ---
 

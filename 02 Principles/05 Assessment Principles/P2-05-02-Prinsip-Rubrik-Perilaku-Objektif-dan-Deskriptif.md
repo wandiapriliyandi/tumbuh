@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Uji Reliabilitas Antar-Penilai (Inter-Rater Reliability / Cohen's Kappa > 0.80)](#5-inkuiri-4-uji-reliabilitas-antar-penilai-inter-rater-reliability--cohens-kappa--080)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
   - [2. Matriks Rubrik BARS 4 Tingkat untuk 5 Dimensi Adab Utama Santri](#2-matriks-rubrik-bars-4-tingkat-untuk-5-dimensi-adab-utama-santri)
   - [3. Protokol Kalibrasi & Standardisasi Penilaian Antar-Musyrif (Inter-Rater Calibration Protocol)](#3-protokol-kalibrasi--standardisasi-penilaian-antar-musyrif-inter-rater-calibration-protocol)
   - [4. Alur Audit Keadilan Penilaian PBIS (Bias Auditing SOP)](#4-alur-audit-keadilan-penilaian-pbis-bias-auditing-sop)
@@ -192,34 +192,22 @@ Pesantren TUMBUH menetapkan ambang batas mutu $\kappa \ge 0.80$ (*Almost Perfect
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU RUBRIK PERILAKU OBJEKTIF (BARS) PESANTREN
-                          SUB-DOMAIN 05: ASSESSMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEADILAN SYAHADAH DAN PENGHAPUSAN BIAS HAWA NAFSU,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU RUBRIK PENGUKURAN KARAKTER:
+1. **Penghapusan Skala Angka Abstrak Subjektif (anti-subjective Grading Mandate)**:  
+   Menolak segala bentuk pemberian nilai akhlak berbasis angka kering (1–5 / A–E) tanpa indikator nyata. Seluruh penilaian karakter wajib menggunakan deskripsi jangkar perilaku nyata (BARS Framework).
 
-1. DOKTRIN PENGHAPUSAN SKALA ANGKA ABSTRAK SUBJEKTIF (ANTI-SUBJECTIVE GRADING MANDATE):
-   Menolak segala bentuk pemberian nilai akhlak berbasis angka kering (1–5 / A–E) tanpa indikator nyata.
-   Seluruh penilaian karakter wajib menggunakan deskripsi jangkar perilaku nyata (BARS Framework).
+2. **Penerapan 4 Tingkat Deskriptor Perilaku Bars Yang Terukur**:  
+   Setiap dimensi adab dirumuskan dalam 4 level progresif: Level 1 (Perlu Bimbingan / Emerging), Level 2 (Berkembang / Developing), Level 3 (Mandiri Beradab / Proficient), & Level 4 (Penggerak Ihsan / Exemplary).
 
-2. PENERAPAN 4 TINGKAT DESKRIPTOR PERILAKU BARS YANG TERUKUR:
-   Setiap dimensi adab dirumuskan dalam 4 level progresif: Level 1 (Perlu Bimbingan / Emerging),
-   Level 2 (Berkembang / Developing), Level 3 (Mandiri Beradab / Proficient), & Level 4 (Penggerak Ihsan / Exemplary).
+3. **Mutu Reliabilitas Antar-penilai (inter-rater Reliability $\kappa \ge 0.80$)**:  
+   Mewajibkan tingkat kesepakatan skor antar-musyrif mencapai koefisien Cohen's Kappa minimal 0.80, didukung oleh sidang kalibrasi adab pekanan dan pencatatan berbasis logbook digital real-time.
 
-3. STANDAR MUTU RELIABILITAS ANTAR-PENILAI (INTER-RATER RELIABILITY $\kappa \ge 0.80$):
-   Mewajibkan tingkat kesepakatan skor antar-musyrif mencapai koefisien Cohen's Kappa minimal 0.80,
-   didukung oleh sidang kalibrasi adab pekanan dan pencatatan berbasis logbook digital real-time.
+4. **Transparansi Kriteria Adab Kepada Seluruh Santri**:  
+   Rubrik BARS wajib disosialisasikan secara terbuka kepada santri dan orang tua, berfungsi sebagai kompas pembiasaan diri (Self-Regulation Guide) dan sarana muhasabah harian yang memuliakan martabat.
 
-4. DOKTRIN TRANSPARANSI KRITERIA ADAB KEPADA SELURUH SANTRI:
-   Rubrik BARS wajib disosialisasikan secara terbuka kepada santri dan orang tua, berfungsi sebagai
-   kompas pembiasaan diri (Self-Regulation Guide) dan sarana muhasabah harian yang memuliakan martabat.
-===================================================================================================
-```
 
 ---
 

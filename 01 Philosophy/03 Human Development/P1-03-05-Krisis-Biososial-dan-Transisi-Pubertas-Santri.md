@@ -29,7 +29,7 @@
   - [5. Inkuiri 4: Mitigasi Homesickness & Stres Komunal Santri Baru Melalui Secure Attachment In Loco Parentis](#5-inkuiri-4-mitigasi-homesickness--stres-komunal-santri-baru-melalui-secure-attachment-in-loco-parentis)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH](#1-deklarasi-doktrin-baku-hakikat-transisi-baligh-dan-pendampingan-biososial-santri-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-transisi-baligh-dan-pendampingan-biososial-santri-tumbuh)
   - [2. Matriks Integrasi Tahap Baligh, Perubahan Biologis-Emosi, & Intervensi Musyrif Asrama](#2-matriks-integrasi-tahap-baligh-perubahan-biologis-emosi--intervensi-musyrif-asrama)
   - [3. Protokol Edukasi Baligh & Thaharah Pertama Santri (SOP Pendampingan Ihtilam & Haidh)](#3-protokol-edukasi-baligh--thaharah-pertama-santri-sop-pendampingan-ihtilam--haidh)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -165,34 +165,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH
 
-```
-===================================================================================================
-     PIAGAM DOKTRIN BAKU PENDAMPINGAN TRANSISI BALIGH & BIOSOSIAL SANTRI PESANTREN TUMBUH
-                       SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN AMANAH BULUGH DAN KELUHURAN SYARIAT ISLAM,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN PENDAMPINGAN BIOSOSIAL SANTRI:
+1. **Penetapan Fase Baligh Sebagai Tahap Kemuliaan Mukallaf**:  
+   Menyambut transisi pubertas santri sebagai anugerah kedewasaan syar'i yang wajib dirayakan dengan pendidikan fiqh thaharah yang santun, ilmiah, dan memuliakan rasa percaya diri santri.
 
-1. PENETAPAN FASE BALIGH SEBAGAI TAHAP KEMULIAAN MUKALLAF:
-   Menyambut transisi pubertas santri sebagai anugerah kedewasaan syar'i yang wajib dirayakan dengan
-   pendidikan fiqh thaharah yang santun, ilmiah, dan memuliakan rasa percaya diri santri.
+2. **Kewajiban Pendidik Sebagai Jangkar Emosional Pengganti Orang TUA (IN Loco Parentis)**:  
+   Seluruh musyrif wajib hadir memberikan kehangatan, empati, dan mendengarkan keluh kesah santri yang mengalami homesickness atau kegelisahan pubertas, mengharamkan pengabaian emosional (cold neglect).
 
-2. KEWAJIBAN PENDIDIK SEBAGAI JANGKAR EMOSIONAL PENGGANTI ORANG TUA (IN LOCO PARENTIS):
-   Seluruh musyrif wajib hadir memberikan kehangatan, empati, dan mendengarkan keluh kesah santri
-   yang mengalami homesickness atau kegelisahan pubertas, mengharamkan pengabaian emosional (cold neglect).
+3. **Penerapan Mekanisme Sublimasi Energi Biologis Melalui Olahraga & Seni**:  
+   Mewajibkan penyediaan sarana olahraga kinestetik dan aktivitas luar ruang yang cukup setiap hari guna menyalurkan lonjakan hormon pubertas menjadi kesehatan raga dan ketangkasan adab.
 
-3. PENERAPAN MEKANISME SUBLIMASI ENERGI BIOLOGIS MELALUI OLAHRAGA & SENI:
-   Mewajibkan penyediaan sarana olahraga kinestetik dan aktivitas luar ruang yang cukup setiap hari
-   guna menyalurkan lonjakan hormon pubertas menjadi kesehatan raga dan ketangkasan adab.
+4. **Perlindungan Privasi Dari Rasa Malu Transisi Biologis**:  
+   Menjamin kerahasiaan peristiwa mimpi basah (ihtilam) atau haidh pertama santri, melarang keras candaan memalukan di antara sesama santri maupun asatidz.
 
-4. PERLINDUNGAN PRIVASI DARI RASA MALU TRANSISI BIOLOGIS:
-   Menjamin kerahasiaan peristiwa mimpi basah (ihtilam) atau haidh pertama santri, melarang keras
-   candaan memalukan di antara sesama santri maupun asatidz.
-===================================================================================================
-```
 
 ---
 

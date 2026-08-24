@@ -36,7 +36,7 @@
   - [6. Inkuiri 5: Taksonomi Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin](#6-inkuiri-5-taksonomi-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kurikulum, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-kurikulum--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-desain-kurikulum-holistik-terpadu-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-kurikulum-holistik-terpadu-pesantren-tumbuh)
   - [2. Matriks 4 Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH](#2-matriks-4-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [3. Matriks Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin Ilmu](#3-matriks-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin-ilmu)
   - [4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (Classroom-Dormitory Alignment Protocol)](#4-protokol-penyelarasan-kurikulum-kelas-asrama-24-jam-classroom-dormitory-alignment-protocol)
@@ -229,35 +229,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU DESAIN KURIKULUM HOLISTIK TERPADU PESANTREN TUMBUH
-                          SUB-DOMAIN 02: DESIGN PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN HIERARKI ILMU SYAR'I DAN KEMASLAHATAN FITRAH INSAN,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PERANCANGAN KURIKULUM:
+1. **Integrasi 4 Pilar Kurikulum Holistik**:  
+   Kurikulum pesantren wajib mengintegrasikan secara harmonis 4 pilar utama: Dirasah Islamiyah (Turats), Tahfizh Al-Qur'an Mutqin, Karakter Sosial-Emosional (SEL & Adab), dan Sains & Kecakapan Hidup. Menolak segala bentuk kurikulum dikotomis sekuler yang memisahkan ilmu agama dari kehidupan nyata.
 
-1. DOKTRIN INTEGRASI 4 PILAR KURIKULUM HOLISTIK:
-   Kurikulum pesantren wajib mengintegrasikan secara harmonis 4 pilar utama: Dirasah Islamiyah (Turats),
-   Tahfizh Al-Qur'an Mutqin, Karakter Sosial-Emosional (SEL & Adab), dan Sains & Kecakapan Hidup.
-   Menolak segala bentuk kurikulum dikotomis sekuler yang memisahkan ilmu agama dari kehidupan nyata.
+2. **Penerapan Metodologi Backward Design (understanding BY Design)**:  
+   Perancangan kurikulum wajib dimulai dari perumusan capaian profil Insan Adabi yang diinginkan (Stage 1), penentuan instrumen asesmen otentik portofolio adab (Stage 2), dan perancangan modul ajar aktif (Stage 3).
 
-2. PENERAPAN METODOLOGI BACKWARD DESIGN (UNDERSTANDING BY DESIGN):
-   Perancangan kurikulum wajib dimulai dari perumusan capaian profil Insan Adabi yang diinginkan (Stage 1),
-   penentuan instrumen asesmen otentik portofolio adab (Stage 2), dan perancangan modul ajar aktif (Stage 3).
+3. **Penyelarasan Kurikulum Kelas DAN Asrama 24 JAM (classroom-dormitory Alignment)**:  
+   Ruang kelas formal dan asrama kehidupan 24 jam adalah satu kesatuan laboratorium kurikulum. Setiap teori adab yang diajarkan di kelas wajib memiliki indikator pengamalan konkret di asrama dan kantin.
 
-3. PENYELARASAN KURIKULUM KELAS DAN ASRAMA 24 JAM (CLASSROOM-DORMITORY ALIGNMENT):
-   Ruang kelas formal dan asrama kehidupan 24 jam adalah satu kesatuan laboratorium kurikulum. Setiap teori
-   adab yang diajarkan di kelas wajib memiliki indikator pengamalan konkret di asrama dan kantin.
+4. **Regulasi Beban Kognitif & Kesehatan Otak (anti-cognitive Overload Charter)**:  
+   Mengharamkan penjadwalan berlebihan yang merampas hak tidur (7–8 jam) dan kebugaran jasmani santri. Menerapkan prinsip Spaced Retrieval dan manajemen beban kerja kognitif selaras neurosains.
 
-4. REGULASI BEBAN KOGNITIF & KESEHATAN OTAK (ANTI-COGNITIVE OVERLOAD CHARTER):
-   Mengharamkan penjadwalan berlebihan yang merampas hak tidur (7–8 jam) dan kebugaran jasmani santri.
-   Menerapkan prinsip Spaced Retrieval dan manajemen beban kerja kognitif selaras neurosains.
-===================================================================================================
-```
 
 ---
 

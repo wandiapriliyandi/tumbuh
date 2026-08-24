@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Mekanisme Transisi & Kriteria Kenaikan Tangga Berbasis Portofolio Adab Otentik](#5-inkuiri-4-mekanisme-transisi--kriteria-kenaikan-tangga-berbasis-portofolio-adab-otentik)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Berjenjang, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-berjenjang--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren](#1-deklarasi-doktrin-baku-prinsip-progresi-tangga-tumbuh-t1t4-pesantren)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren](#1-kaidah-utama-dan-standar-baku-prinsip-progresi-tangga-tumbuh-t1-t4-pesantren)
   - [2. Matriks Komparasi 4 Tangga TUMBUH: Profil Karakter, Target Capaian, & Pola Pendampingan](#2-matriks-komparasi-4-tangga-tumbuh-profil-karakter-target-capaian--pola-pendampingan)
   - [3. Matriks Diferensiasi Wewenang & Tanggung Jawab Santri Lintas Jenjang Kelas](#3-matriks-diferensiasi-wewenang--tanggung-jawab-santri-lintas-jenjang-kelas)
   - [4. Protokol Asesmen Kenaikan Tangga TUMBUH (Tangga Advancement Protocol)](#4-protokol-asesmen-kenaikan-tangga-tumbuh-tangga-advancement-protocol)
@@ -184,34 +184,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren
+### 1. Kaidah Utama dan Standar Baku: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU PROGRESI TANGGA TUMBUH (T1–T4) PESANTREN
-                          SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN HIKMAH PENTAHAPAN TADARRUJ DAN KEADILAN MARAHIL AL-'UMR,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PROGRESI SANTRI:
+1. **Diferensiasi Pengasuhan Berjenjang (developmental Differentiation Mandate)**:  
+   Menolak mutlak penyeragaman pola asuh lintas usia. Setiap jenjang kelas wajib dibimbing selaras dengan profil dan kebutuhan psikososial fitrahnya melintasi Tangga T1, T2, T3, dan T4.
 
-1. DOKTRIN DIFERENSIASI PENGASUHAN BERJENJANG (DEVELOPMENTAL DIFFERENTIATION MANDATE):
-   Menolak mutlak penyeragaman pola asuh lintas usia. Setiap jenjang kelas wajib dibimbing selaras
-   dengan profil dan kebutuhan psikososial fitrahnya melintasi Tangga T1, T2, T3, dan T4.
+2. **Penetapan Tangga T1 (tertib Adab) Sebagai Fondasi Pendampingan Intensif**:  
+   Santri baru berhak mendapatkan pendampingan penuh (High Scaffolding), adaptasi ramah, dan pembiasaan rutinitas adab dasar tanpa ancaman kekerasan atau ekspektasi kemandirian prematur.
 
-2. PENETAPAN TANGGA T1 (TERTIB ADAB) SEBAGAI FONDASI PENDAMPINGAN INTENSIF:
-   Santri baru berhak mendapatkan pendampingan penuh (High Scaffolding), adaptasi ramah, dan pembiasaan
-   rutinitas adab dasar tanpa ancaman kekerasan atau ekspektasi kemandirian prematur.
+3. **Penetapan Tangga T2 (unggul Ilmu) & T3 (mandiri Analisis) Menuju Kematangan Nalar**:  
+   Mengakselerasi potensi kognitif dan tahfizh mutqin di Tangga T2, serta memfasilitasi kemandirian nalar kritis Bahsul Masail dan kepemimpinan proyek beradab di Tangga T3.
 
-3. PENETAPAN TANGGA T2 (UNGGUL ILMU) & T3 (MANDIRI ANALISIS) MENUJU KEMATANGAN NALAR:
-   Mengakselerasi potensi kognitif dan tahfizh mutqin di Tangga T2, serta memfasilitasi kemandirian
-   nalar kritis Bahsul Masail dan kepemimpinan proyek beradab di Tangga T3.
+4. **Penetapan Tangga T4 (bijak Khidmah) Sebagai Puncak Keteladanan DAN Pengabdian**:  
+   Santri tingkat akhir dimuliakan sebagai Duta Adab dan Peer Mentor bagi adik kelas, mempraktikkan kepemimpinan melayani (Servant Leadership), serta mengharamkan mutlak praktik senioritas feodal.
 
-4. PENETAPAN TANGGA T4 (BIJAK KHIDMAH) SEBAGAI PUNCAK KETELADANAN DAN PENGABDIAN:
-   Santri tingkat akhir dimuliakan sebagai Duta Adab dan Peer Mentor bagi adik kelas, mempraktikkan
-   kepemimpinan melayani (Servant Leadership), serta mengharamkan mutlak praktik senioritas feodal.
-===================================================================================================
-```
 
 ---
 

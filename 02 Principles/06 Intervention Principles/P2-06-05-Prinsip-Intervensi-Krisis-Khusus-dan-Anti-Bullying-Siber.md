@@ -28,7 +28,7 @@
   - [4. Inkuiri 3: Dekonstruksi Perundungan Siber (Cyberbullying) & Desain Sistem Pelaporan Anonim Terlindungi](#4-inkuiri-3-dekonstruksi-perundungan-siber-cyberbullying--desain-sistem-pelaporan-anonim-terlindungi)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-manajemen-krisis--anti-bullying-siber-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-manajemen-krisis-anti-bullying-siber-pesantren-tumbuh)
   - [2. Matriks 4 Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis](#2-matriks-4-tahap-penanganan-krisis-pemicu-eskalasi-puncak-krisis--pemulihan-pasca-krisis)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Kasus Perundungan Siber & Perlindungan Korban](#3-standar-prosedur-operasional-sop-penanganan-kasus-perundungan-siber--perlindungan-korban)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -151,34 +151,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU MANAJEMEN KRISIS KHUSUS & ANTI-BULLYING SIBER PESANTREN TUMBUH
-                       SUB-DOMAIN 06: INTERVENTION PRINCIPLES — DOMAIN 02 PRINCIPLES
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN HAK KESELAMATAN JIWA DAN KEHORMATAN INSAN ADABI,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN MANAJEMEN KRISIS & ANTI-PERUNDUNGAN:
+1. **Perlindungan Mutlak Keselamatan Santri (zero Violence & Zero Bullying)**:  
+   Menetapkan perlindungan total terhadap keselamatan fisik, psikologis, dan kehormatan martabat santri; mengharamkan mutlak segala bentuk kekerasan fisik, intimidasi verbal, dan perundungan siber di pondok.
 
-1. DOKTRIN PERLINDUNGAN MUTLAK KESELAMATAN SANTRI (ZERO VIOLENCE & ZERO BULLYING):
-   Menetapkan perlindungan total terhadap keselamatan fisik, psikologis, dan kehormatan martabat santri;
-   mengharamkan mutlak segala bentuk kekerasan fisik, intimidasi verbal, dan perundungan siber di pondok.
+2. **Penerapan Protokol De-eskalasi Krisis Non-kekerasan (nonviolent De-escalation)**:  
+   Mewajibkan seluruh asatidz dan musyrif menggunakan teknik komunikasi tenang, nada suara rendah, dan penjagaan jarak aman dalam menangani krisis agresi santri tanpa menggunakan kekerasan fisik balasan.
 
-2. PENERAPAN PROTOKOL DE-ESKALASI KRISIS NON-KEKERASAN (NONVIOLENT DE-ESCALATION):
-   Mewajibkan seluruh asatidz dan musyrif menggunakan teknik komunikasi tenang, nada suara rendah,
-   dan penjagaan jarak aman dalam menangani krisis agresi santri tanpa menggunakan kekerasan fisik balasan.
+3. **Penegakan Sistem Kanal Pelaporan Rahasia Terlindungi (kotak Tabayyun Aman)**:  
+   Menyediakan saluran pelaporan fisik dan digital yang menjamin kerahasiaan identitas pelapor (Whistleblower); menjamin perlindungan hukum dan keamanan psikologis penuh bagi korban dan saksi perundungan.
 
-3. PENEGAKAN SISTEM KANAL PELAPORAN RAHASIA TERLINDUNGI (KOTAK TABAYYUN AMAN):
-   Menyediakan saluran pelaporan fisik dan digital yang menjamin kerahasiaan identitas pelapor (Whistleblower);
-   menjamin perlindungan hukum dan keamanan psikologis penuh bagi korban dan saksi perundungan.
+4. **Protokol Pemulihan Trauma Korban & Rehabilitasi Restoratif Pelaku**:  
+   Mewajibkan pendampingan psikoterapi konseling intensif bagi korban perundungan serta penegakan sanksi edukatif-restoratif (restitusi dan khidmah sosial) bagi pelaku demi mewujudkan pertobatan sejati.
 
-4. PROTOKOL PEMULIHAN TRAUMA KORBAN & REHABILITASI RESTORATIF PELAKU:
-   Mewajibkan pendampingan psikoterapi konseling intensif bagi korban perundungan serta penegakan sanksi
-   edukatif-restoratif (restitusi dan khidmah sosial) bagi pelaku demi mewujudkan pertobatan sejati.
-===================================================================================================
-```
 
 ---
 

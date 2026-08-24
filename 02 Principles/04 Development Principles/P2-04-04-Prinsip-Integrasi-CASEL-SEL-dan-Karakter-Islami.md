@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Pengukuran & Rubrik Validasi Karakter SEL-Islami Tanpa Stigma](#5-inkuiri-4-pengukuran--rubrik-validasi-karakter-sel-islami-tanpa-stigma)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Konflik Emosional Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-konflik-emosional-santri--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH](#1-deklarasi-doktrin-baku-integrasi-casel-sel-dan-karakter-islami-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-integrasi-casel-sel-dan-karakter-islami-pesantren-tumbuh)
   - [2. Matriks Integrasi 5 Kompetensi CASEL SEL dengan Khazanah Adab Turats Islam](#2-matriks-integrasi-5-kompetensi-casel-sel-dengan-khazanah-adab-turats-islam)
   - [3. Matriks Skenario Pembiasaan SEL dalam Denyut Kehidupan Pesantren 24 Jam](#3-matriks-skenario-pembiasaan-sel-dalam-denyut-kehidupan-pesantren-24-jam)
   - [4. Protokol Restoratif Resolusi Konflik Sebaya (Peer Conflict Restorative Protocol)](#4-protokol-restoratif-resolusi-konflik-sebaya-peer-conflict-restorative-protocol)
@@ -202,34 +202,22 @@ graph LR
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU INTEGRASI CASEL SEL DAN ADAB TAZKIYATUN NAFS PESANTREN
-                          SUB-DOMAIN 04: DEVELOPMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN MAQASHID PENYUCIAN JIWA DAN KESEMPURNAAN AKHLAQUL KARIMAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PEMBELAJARAN SOSIO-EMOSIONAL:
+1. **Kesatuan Integral Kecerdasan Emosional DAN Tauhid (integrated Spiritual-sel)**:  
+   Menetapkan bahwa 5 kompetensi sosial-emosional (CASEL SEL) adalah manifestasi operasional dari nilai-nilai Tazkiyatun Nafs Islam (Muraqabah, Mujahadah, Empati Ukhuwah, Ishlah al-Bain, & Hikmah).
 
-1. DOKTRIN KESATUAN INTEGRAL KECERDASAN EMOSIONAL DAN TAUHID (INTEGRATED SPIRITUAL-SEL):
-   Menetapkan bahwa 5 kompetensi sosial-emosional (CASEL SEL) adalah manifestasi operasional dari
-   nilai-nilai Tazkiyatun Nafs Islam (Muraqabah, Mujahadah, Empati Ukhuwah, Ishlah al-Bain, & Hikmah).
+2. **Penerapan Pembelajaran SEL Dalam Ritme Kehidupan Asrama 24 JAM**:  
+   Pembinaan kompetensi sosial-emosional bukan sekadar teori kelas, melainkan dipraktikkan secara hidup dalam rutinitas kamar, antrean kantin, halaqah Qur'an, olahraga ukhuwah, dan muhasabah malam.
 
-2. PENERAPAN PEMBELAJARAN SEL DALAM RITME KEHIDUPAN ASRAMA 24 JAM:
-   Pembinaan kompetensi sosial-emosional bukan sekadar teori kelas, melainkan dipraktikkan secara hidup
-   dalam rutinitas kamar, antrean kantin, halaqah Qur'an, olahraga ukhuwah, dan muhasabah malam.
+3. **Protokol Resolusi Konflik Restoratif Sebaya (peer Restorative Circles)**:  
+   Mengharamkan mutlak penanganan perselisihan santri dengan cara kekerasan, ancaman, atau pembalasan fisik. Wajib menggunakan mediasi restoratif yang memulihkan hubungan persaudaraan dan mendidik tanggung jawab.
 
-3. PROTOKOL RESOLUSI KONFLIK RESTORATIF SEBAYA (PEER RESTORATIVE CIRCLES):
-   Mengharamkan mutlak penanganan perselisihan santri dengan cara kekerasan, ancaman, atau pembalasan fisik.
-   Wajib menggunakan mediasi restoratif yang memulihkan hubungan persaudaraan dan mendidik tanggung jawab.
+4. **Kewajiban Pengembangan Kompetensi Emosi Bagi Asatidz DAN Musyrif**:  
+   Seluruh pendidik wajib menguasai keterampilan Co-Regulation dan komunikasi empatik nir-kekerasan (NVC), menjadi teladan ketenangan batin (Qudwah Hasanah) bagi seluruh santri asuhannya.
 
-4. KEWAJIBAN PENGEMBANGAN KOMPETENSI EMOSI BAGI ASATIDZ DAN MUSYRIF:
-   Seluruh pendidik wajib menguasai keterampilan Co-Regulation dan komunikasi empatik nir-kekerasan (NVC),
-   menjadi teladan ketenangan batin (Qudwah Hasanah) bagi seluruh santri asuhannya.
-===================================================================================================
-```
 
 ---
 

@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Mitigasi Titik Rawan Asrama (Hotspots Patrol & Elimination of Blindspots)](#5-inkuiri-4-mitigasi-titik-rawan-asrama-hotspots-patrol--elimination-of-blindspots)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH](#1-deklarasi-doktrin-baku-hakikat-desain-ekologi-pendidikan-biah-shalihah-24-jam-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-desain-ekologi-pendidikan-bi-ah-shalihah-24-jam-pesantren-tumbuh)
   - [2. Matriks 4 Lokus Kehidupan Pesantren 24 Jam, Capaian Adab, & Standar Tata Ruang](#2-matriks-4-lokus-kehidupan-pesantren-24-jam-capaian-adab--standar-tata-ruang)
   - [3. Protokol Penjaminan Iklim Aman & Ramah Adab Asrama 24 Jam (24-Hour Healthy Ecological Living Protocol)](#3-protokol-penjaminan-iklim-aman--ramah-adab-asrama-24-jam-24-hour-healthy-ecological-living-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -188,34 +188,22 @@ Pesantren TUMBUH mengeliminasi titik rawan tersebut melalui **Rekayasa Lingkunga
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH
 
-```
-===================================================================================================
-     DEKLARASI DOKTRIN BAKU DESAIN EKOLOGI PENDIDIKAN BI'AH SHALIHAH 24 JAM PESANTREN TUMBUH
-                          SUB-DOMAIN 04: EDUCATION — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN AMANAH BI'AH SHALIHAH DAN KELUHURAN THAHARAH ISLAM,
-MAJELIS MASYAIKH TERTINGGI PESANTREN TUMBUH MENETAPKAN DOKTRIN BAKU EKOLOGI PENDIDIKAN 24 JAM:
+1. **Living Curriculum 24 JAM Tanpa Dikotomi**:  
+   Menetapkan bahwa kurikulum pesantren berlangsung 24 jam utuh; mengharamkan dikotomi madrasah vs asrama. Seluruh aktivitas biologis, sosial, dan ibadah santri adalah medan pembinaan adab yang terintegrasi.
 
-1. DOKTRIN LIVING CURRICULUM 24 JAM TANPA DIKOTOMI:
-   Menetapkan bahwa kurikulum pesantren berlangsung 24 jam utuh; mengharamkan dikotomi madrasah vs asrama.
-   Seluruh aktivitas biologis, sosial, dan ibadah santri adalah medan pembinaan adab yang terintegrasi.
+2. **Penerapan Standar Arsitektur Asrama Sehat Cpted (crime Prevention Through Environmental Design)**:  
+   Mewajibkan desain gedung asrama yang terang, sirkulasi udara bersih, rasio sanitasi sehat 1:5, serta mengeliminasi 100% sudut-sudut gelap mati (blindspots) guna menjamin rasa aman santri.
 
-2. PENERAPAN STANDAR ARSITEKTUR ASRAMA SEHAT CPTED (CRIME PREVENTION THROUGH ENVIRONMENTAL DESIGN):
-   Mewajibkan desain gedung asrama yang terang, sirkulasi udara bersih, rasio sanitasi sehat 1:5,
-   serta mengeliminasi 100% sudut-sudut gelap mati (blindspots) guna menjamin rasa aman santri.
+3. **Integrasi 4 Lokus Adab Simultan (masjid, Madrasah, Asrama, & Meja Makan)**:  
+   Menstandarisasikan SOP pembiasaan adab di setiap lokus kehidupan santri guna membentuk kebiasaan moral otomatis (Moral Automaticity) yang kokoh dan berkesinambungan.
 
-3. INTEGRASI 4 LOKUS ADAB SIMULTAN (MASJID, MADRASAH, ASRAMA, & MEJA MAKAN):
-   Menstandarisasikan SOP pembiasaan adab di setiap lokus kehidupan santri guna membentuk
-   kebiasaan moral otomatis (Moral Automaticity) yang kokoh dan berkesinambungan.
+4. **Eliminasi Penyakit Sanitasi DAN Penjaminan Kesehatan Ragawi**:  
+   Mengharamkan pembiaran sanitasi jorok dan penyakit kulit menular (scabies/kudis); menjamin ketersediaan air bersih 0 CFU, nutrisi halalan thayyiban, dan kepastian istirahat tidur sehat 7 jam penuh.
 
-4. MANDAT ELIMINASI PENYAKIT SANITASI DAN PENJAMINAN KESEHATAN RAGAWI:
-   Mengharamkan pembiaran sanitasi jorok dan penyakit kulit menular (scabies/kudis); menjamin ketersediaan
-   air bersih 0 CFU, nutrisi halalan thayyiban, dan kepastian istirahat tidur sehat 7 jam penuh.
-===================================================================================================
-```
 
 ---
 

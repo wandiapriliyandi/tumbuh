@@ -33,7 +33,7 @@
   - [2. Matriks Uji Validitas Psikometrik & Kelaikan Asesmen Lapangan (Psychometric Usability Matrix)](#2-matriks-uji-validitas-psikometrik--kelaikan-asesmen-lapangan-psychometric-usability-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Evaluasi Karakter](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-evaluasi-karakter)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 06 Intervention Principles](#4-jembatan-epistemologis-menuju-sub-domain-06-intervention-principles)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU EVALUASI ADAB](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-evaluasi-adab)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL EVALUASI ADAB](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-evaluasi-adab)
   - [1. Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Santri Pesantren TUMBUH](#1-grand-manifesto-keadilan-asesmen--evaluasi-karakter-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 5 Pilar Asesmen ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-asesmen-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Audit Keadilan Evaluasi Berkala](#3-protokol-penjaminan-mutu--audit-keadilan-evaluasi-berkala)
@@ -126,46 +126,32 @@ graph LR
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU EVALUASI ADAB
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL EVALUASI ADAB
 
 ---
 
-### 1. Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Santri Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Keadilan Asesmen & Evaluasi Karakter Santri Pesantren TUMBUH
 
-```
-===================================================================================================
-     GRAND MANIFESTO KEADILAN ASESMEN & EVALUASI KARAKTER PESANTREN TUMBUH (ASSESSMENT CHARTER)
-                     PUNCAK SUB-DOMAIN 05: ASSESSMENT PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN NERACA KEADILAN ILAHI DAN AMANAH TABAYYUN NABAWIYYAH,
-MAJELIS MASYAIKH DAN DEWAN KEILMUAN PESANTREN TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO:
+1. **Asesmen Berbasis Unjuk Kerja Autentik (authentic Adab Performance) Menetapkan bahwa karakter dan adab santri hanya dinilai melalui manifestasi perilaku spontan nyata (Malakah) dalam ritme kehidupan 24 jam di asrama dan madrasah, mengharamkan ujian kertas pilihan ganda akhlak.**:  
+   
 
-PASAL 1: MANDAT ASESMEN BERBASIS UNJUK KERJA AUTENTIK (AUTHENTIC ADAB PERFORMANCE)
-Menetapkan bahwa karakter dan adab santri hanya dinilai melalui manifestasi perilaku spontan nyata (Malakah)
-dalam ritme kehidupan 24 jam di asrama dan madrasah, mengharamkan ujian kertas pilihan ganda akhlak.
+2. **Penggunaan Rubrik Perilaku Objektif (bars Framework) Mewajibkan penggunaan rubrik Behaviorally Anchored Rating Scales 4 tingkat yang mendeskripsikan tindakan nyata, mengeliminasi mutlak bias subjektivitas penilai (Halo/Horn Effect) dengan reliabilitas Kappa minimal 0.80.**:  
+   
 
-PASAL 2: MANDAT PENGGUNAAN RUBRIK PERILAKU OBJEKTIF (BARS FRAMEWORK)
-Mewajibkan penggunaan rubrik Behaviorally Anchored Rating Scales 4 tingkat yang mendeskripsikan tindakan nyata,
-mengeliminasi mutlak bias subjektivitas penilai (Halo/Horn Effect) dengan reliabilitas Kappa minimal 0.80.
+3. **Triangulasi Data Multi-sumber 360 Derajat Berbasis Tabayyun Mengharamkan vonis karakter sepihak. Menetapkan kewajiban memadukan data dari Musyrif Asrama (35%), Guru Madrasah (35%), Self-Assessment Santri (15%), dan Peer Feedback Sahabat (15%).**:  
+   
 
-PASAL 3: MANDAT TRIANGULASI DATA MULTI-SUMBER 360 DERAJAT BERBASIS TABAYYUN
-Mengharamkan vonis karakter sepihak. Menetapkan kewajiban memadukan data dari Musyrif Asrama (35%),
-Guru Madrasah (35%), Self-Assessment Santri (15%), dan Peer Feedback Sahabat (15%).
+4. **Pelaporan Naratif Portofolio & Student-led Conferences Menghapus total pemberian nilai huruf kering (a/b/c/d) pada kolom kepribadian. Mewajibkan Laporan Naratif 3 Pilar dan pelaksanaan Student-Led Conferences yang dipimpin langsung oleh santri di depan orang tua.**:  
+   
 
-PASAL 4: MANDAT PELAPORAN NARATIF PORTOFOLIO & STUDENT-LED CONFERENCES
-Menghapus total pemberian nilai huruf kering (A/B/C/D) pada kolom kepribadian. Mewajibkan Laporan Naratif
-3 Pilar dan pelaksanaan Student-Led Conferences yang dipimpin langsung oleh santri di depan orang tua.
+5. **Feedback Konstruktif & Penghapusan Public Shaming Mengharamkan mempermalukan santri di depan umum; mewajibkan feedback deskriptif privat (Feed-Up, Feed-Back, Feed-Forward) dan membudayakan jurnal muhasabah reflektif harian 10 menit sebelum tidur.**:  
+   
 
-PASAL 5: MANDAT FEEDBACK KONSTRUKTIF & PENGHAPUSAN PUBLIC SHAMING
-Mengharamkan mempermalukan santri di depan umum; mewajibkan feedback deskriptif privat (Feed-Up, Feed-Back,
-Feed-Forward) dan membudayakan jurnal muhasabah reflektif harian 10 menit sebelum tidur.
+6. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa setiap instrumen evaluasi secara serempak mendidik integritas Santri, memuliakan profesionalisme Asatidz/Musyrif, serta memperkokoh kredibilitas keadilan Lembaga.**:  
+   
 
-PASAL 6: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Memastikan bahwa setiap instrumen evaluasi secara serempak mendidik integritas Santri,
-memuliakan profesionalisme Asatidz/Musyrif, serta memperkokoh kredibilitas keadilan Lembaga.
-===================================================================================================
-```
 
 ---
 

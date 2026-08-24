@@ -34,7 +34,7 @@
   - [2. Matriks Uji Kelayakan Lapangan (Field Usability & Feasibility Matrix)](#2-matriks-uji-kelayakan-lapangan-field-usability--feasibility-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Desain Sistem Pesantren](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-desain-sistem-pesantren)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 03 Learning Principles](#4-jembatan-epistemologis-menuju-sub-domain-03-learning-principles)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU DESAIN SISTEM](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-desain-sistem)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL DESAIN SISTEM](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-desain-sistem)
   - [1. Grand Manifesto Arsitektur & Desain Sistem Holistik Pesantren TUMBUH](#1-grand-manifesto-arsitektur--desain-sistem-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Desain ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-desain-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Audit Kepatuhan Desain Sistem](#3-protokol-penjaminan-mutu--audit-kepatuhan-desain-sistem)
@@ -130,46 +130,32 @@ graph LR
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU DESAIN SISTEM
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL DESAIN SISTEM
 
 ---
 
-### 1. Grand Manifesto Arsitektur & Desain Sistem Holistik Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Arsitektur & Desain Sistem Holistik Pesantren TUMBUH
 
-```
-===================================================================================================
-     GRAND MANIFESTO ARSITEKTUR & DESAIN SISTEM HOLISTIK PESANTREN TUMBUH (SYSTEM DESIGN CHARTER)
-                      PUNCAK SUB-DOMAIN 02: DESIGN PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEADILAN, KEINDAHAN (IHSAN), DAN KESELAMATAN FITRAH INSANI,
-DEWAN KEILMUAN DAN MAJELIS PIMPINAN PESANTREN TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO:
+1. **Integrasi Kurikulum Holistik Berbasis UBD & Anti-overload Menetapkan bahwa kurikulum pesantren wajib menyatukan Dirasah Islamiyah, Tahfizh, SEL Adab, dan Sains melalui Backward Design, serta membatasi KBM maksimal 6-7 jam tatap muka guna mencegah kejenuhan kognitif.**:  
+   
 
-PASAL 1: MANDAT INTEGRASI KURIKULUM HOLISTIK BERBASIS UBD & ANTI-OVERLOAD
-Menetapkan bahwa kurikulum pesantren wajib menyatukan Dirasah Islamiyah, Tahfizh, SEL Adab, dan Sains
-melalui Backward Design, serta membatasi KBM maksimal 6-7 jam tatap muka guna mencegah kejenuhan kognitif.
+2. **Arsitektur Asrama Sehat, Ergonomis, & Bebas Blindspots Mewajibkan seluruh bangunan asrama memenuhi standar sirkulasi udara silang, pencahayaan alami 300 Lux, kasur single mandiri (Tafriq al-Madhaji'), dan eliminasi total sudut buta kejahatan (cpted).**:  
+   
 
-PASAL 2: MANDAT ARSITEKTUR ASRAMA SEHAT, ERGONOMIS, & BEBAS BLINDSPOTS
-Mewajibkan seluruh bangunan asrama memenuhi standar sirkulasi udara silang, pencahayaan alami 300 Lux,
-kasur single mandiri (Tafriq al-Madhaji'), dan eliminasi total sudut buta kejahatan (CPTED).
+3. **Sanitasi Prima & Zero Scabies Menjamin ketersediaan air bersih 0 CFU E. Coli, rasio toilet 1**:  
+   5, dan penghapusan 100% penyakit kudis/scabies melalui protokol pengobatan massal dan penjemuran kasur mingguan di bawah sinar matahari.
 
-PASAL 3: MANDAT SANITASI PRIMA & ZERO SCABIES
-Menjamin ketersediaan air bersih 0 CFU E. Coli, rasio toilet 1:5, dan penghapusan 100% penyakit kudis/scabies
-melalui protokol pengobatan massal dan penjemuran kasur mingguan di bawah sinar matahari.
+4. **Alur Kerja Musyrif Human-centered & Anti-burnout Menjamin pembagian jam kerja pendampingan santri maksimal 8–10 jam kerja aktif melalui sistem 3 shift, hak libur penuh 24 jam sepekan, alur tanggap darurat terstandarisasi, dan sesi serah terima shift 10 menit.**:  
+   
 
-PASAL 4: MANDAT ALUR KERJA MUSYRIF HUMAN-CENTERED & ANTI-BURNOUT
-Menjamin pembagian jam kerja pendampingan santri maksimal 8–10 jam kerja aktif melalui sistem 3 shift,
-hak libur penuh 24 jam sepekan, alur tanggap darurat terstandarisasi, dan sesi serah terima shift 10 menit.
+5. **Teknologi Informasi Fast-tap & Etika Privasi Data Mutlak Mengharuskan seluruh aplikasi pencatatan pengasuhan dirancang mudah dan cepat (<30 detik per entri), beroperasi secara Offline-First, menyajikan analitik visual Pbis, dan melindungi kerahasiaan aib santri (aes-256).**:  
+   
 
-PASAL 5: MANDAT TEKNOLOGI INFORMASI FAST-TAP & ETIKA PRIVASI DATA MUTLAK
-Mengharuskan seluruh aplikasi pencatatan pengasuhan dirancang mudah dan cepat (<30 detik per entri),
-beroperasi secara Offline-First, menyajikan analitik visual PBIS, dan melindungi kerahasiaan aib santri (AES-256).
+6. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa setiap kebijakan desain sistemik secara serempak menumbuhkan keselamatan jasmani-ruhani Santri, menjamin kebugaran dan kemuliaan Musyrif, serta memperkokoh kemandirian dan keberkahan Lembaga.**:  
+   
 
-PASAL 6: INTEGRASI TOTAL TRIAD PERTUMBUHAN SIMBIOTIK
-Memastikan bahwa setiap kebijakan desain sistemik secara serempak menumbuhkan keselamatan jasmani-ruhani
-Santri, menjamin kebugaran dan kemuliaan Musyrif, serta memperkokoh kemandirian dan keberkahan Lembaga.
-===================================================================================================
-```
 
 ---
 

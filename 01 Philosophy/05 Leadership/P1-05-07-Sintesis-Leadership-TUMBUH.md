@@ -31,7 +31,7 @@
   - [1. Arsitektur Sintesis Holistik: Konvergensi 6 Pilar Falsafah Kepemimpinan TUMBUH](#1-arsitektur-sintesis-holistik-konvergensi-6-pilar-falsafah-kepemimpinan-tumbuh)
   - [2. Matriks Komparasi Filosofis Kepemimpinan: Feodalisme Patriarkal vs Korporatis Sekuler vs Servant Leadership TUMBUH](#2-matriks-komparasi-filosofis-kepemimpinan-feodalisme-patriarkal-vs-korporatis-sekuler-vs-servant-leadership-tumbuh)
   - [3. Jembatan Epistemologis & Aksiologis Menuju Sub-Domain 06 Change (Dinamika Perubahan Sistemik)](#3-jembatan-epistemologis--aksiologis-menuju-sub-domain-06-change-dinamika-perubahan-sistemik)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU KEPEMIMPINAN](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-kepemimpinan)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL KEPEMIMPINAN](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-kepemimpinan)
   - [1. Grand Manifesto Kelembagaan Kepemimpinan Qudwah & Khidmah Pesantren TUMBUH](#1-grand-manifesto-kelembagaan-kepemimpinan-qudwah--khidmah-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Kepemimpinan ke dalam Tata Kelola Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-kepemimpinan-ke-dalam-tata-kelola-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu Kepemimpinan & Audit Tata Kelola Berkala](#3-protokol-penjaminan-mutu-kepemimpinan--audit-tata-kelola-berkala)
@@ -104,41 +104,29 @@ graph TD
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU KEPEMIMPINAN
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL KEPEMIMPINAN
 
 ---
 
-### 1. Grand Manifesto Kelembagaan Kepemimpinan Qudwah & Khidmah Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Kelembagaan Kepemimpinan Qudwah & Khidmah Pesantren TUMBUH
 
-```
-===================================================================================================
-     GRAND MANIFESTO KELEMBAGAAN KEPEMIMPINAN QUDWAH & KHIDMAH PESANTREN (PROPHETIC SERVANT LEADERSHIP)
-                          SUB-DOMAIN 05: LEADERSHIP — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DEWAN KEILMUAN, MAJELIS MUDIR, BESERTA SELURUH PIMPINAN LEMBAGA PESANTREN
-EKOSISTEM TUMBUH DENGAN INI MEMPROKLAMIRKAN GRAND MANIFESTO KEPEMIMPINAN PROFETIK:
+1. **Poros Kepemimpinan Berbasis Qudwah First Pemimpin pesantren wajib menjadi cermin adab terdepan bagi seluruh warga lembaga. Dilarang keras memerintah tanpa mencontohkan terlebih dahulu. Segala bentuk hipokrisi moral dinyatakan sebagai penyimpangan.**:  
+   
 
-PASAL 1: POROS KEPEMIMPINAN BERBASIS QUDWAH FIRST
-Pemimpin pesantren wajib menjadi cermin adab terdepan bagi seluruh warga lembaga. Dilarang keras
-memerintah tanpa mencontohkan terlebih dahulu. Segala bentuk hipokrisi moral dinyatakan sebagai penyimpangan.
+2. **Kepemimpinan Pelayan (sayyidul Qawmi Khadimuhum) Pimpinan lembaga mendedikasikan waktu, tenaga, dan fasilitas yang dimilikinya untuk melayani kebutuhan tumbuh-kembang santri dan melindungi kesejahteraan guru/musyrif dari eksploitasi dan kejenuhan batin (Burnout).**:  
+   
 
-PASAL 2: MANDAT KEPEMIMPINAN PELAYAN (SAYYIDUL QAWMI KHADIMUHUM)
-Pimpinan lembaga mendedikasikan waktu, tenaga, dan fasilitas yang dimilikinya untuk melayani kebutuhan
-tumbuh-kembang santri dan melindungi kesejahteraan guru/musyrif dari eksploitasi dan kejenuhan batin (Burnout).
+3. **Penarikan Mutlak Wewenang Menghukum Dari Santri Senior Mengharamkan 100% perpeloncoan, sidang malam, dan pemberian sanksi fisik oleh santri senior kepada adik kelas. Organisasi santri ditransformasikan secara mutlak menjadi Dewan Pelayan Duta Adab yang mengayomi.**:  
+   
 
-PASAL 3: PENARIKAN MUTLAK WEWENANG MENGHUKUM DARI SANTRI SENIOR
-Mengharamkan 100% perpeloncoan, sidang malam, dan pemberian sanksi fisik oleh santri senior kepada adik kelas.
-Organisasi santri ditransformasikan secara mutlak menjadi Dewan Pelayan Duta Adab yang mengayomi.
+4. **Meritokrasi Syar'i & Transparansi Akuntabilitas Wakaf Mengharamkan oligarki dinasti nepotisme; suksesi kepemimpinan wajib berdasarkan kriteria Al-Qawiyyul Amin dan diputuskan melalui musyawarah Majelis Syura independen serta diaudit akuntan publik.**:  
+   
 
-PASAL 4: MERITOKRASI SYAR'I & TRANSPARANSI AKUNTABILITAS WAKAF
-Mengharamkan oligarki dinasti nepotisme; suksesi kepemimpinan wajib berdasarkan kriteria Al-Qawiyyul Amin
-dan diputuskan melalui musyawarah Majelis Syura independen serta diaudit akuntan publik.
+5. **Fiqh Ishlah & Protokol Tabayyun Asatidz Mengharamkan faksionalisme dan ghibah di ruang guru; seluruh perselisihan diselesaikan melalui mediasi restoratif.**:  
+   
 
-PASAL 5: FIQH ISHLAH & PROTOKOL TABAYYUN ASATIDZ
-Mengharamkan faksionalisme dan ghibah di ruang guru; seluruh perselisihan diselesaikan melalui mediasi restoratif.
-===================================================================================================
-```
 
 ---
 

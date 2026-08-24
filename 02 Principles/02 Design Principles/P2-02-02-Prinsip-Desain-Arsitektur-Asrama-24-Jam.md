@@ -34,7 +34,7 @@
   - [6. Inkuiri 5: Desain Ergonomi Kamar Santri: Ranjang Tunggal Mandiri, Lemari Pribadi, & Meja Belajar Khusyuk](#6-inkuiri-5-desain-ergonomi-kamar-santri-ranjang-tunggal-mandiri-lemari-pribadi--meja-belajar-khusyuk)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Fisik Asrama, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-fisik-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-deklarasi-doktrin-baku-standar-desain-arsitektur-asrama-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-desain-arsitektur-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Metrik Fisik & Ergonomi Bangunan Asrama Pesantren](#2-matriks-standar-metrik-fisik--ergonomi-bangunan-asrama-pesantren)
   - [3. Matriks Zonasi Tata Ruang Asrama Terpadu (Zona Privat, Semi-Publik, Publik)](#3-matriks-zonasi-tata-ruang-asrama-terpadu-zona-privat-semi-publik-publik)
   - [4. Protokol Audit Kelaikan Fisik & Sanitasi Asrama (Dormitory Facility Audit Protocol)](#4-protokol-audit-kelaikan-fisik--sanitasi-asrama-dormitory-facility-audit-protocol)
@@ -210,34 +210,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Standar Desain Arsitektur Asrama Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Standar Desain Arsitektur Asrama Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU ARSITEKTUR & TATA RUANG ASRAMA PESANTREN TUMBUH
-                          SUB-DOMAIN 02: DESIGN PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN HAK KESELAMATAN JASMANI DAN KEHORMATAN AURAT INSAN (HIFZHUN NAFS),
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU ARSITEKTUR ASRAMA:
+1. **Kapasitas Manusiawi & Pemisahan Tempat Tidur (tafriq Al-madhaji')**:  
+   Setiap santri berhak mendapatkan kasur single mandiri (minimal 90 x 200 cm), lemari pribadi terkunci, dan ruang gerak manusiawi (minimal 4–5 m² per santri). Kapasitas maksimal kamar dibatasi 8–12 santri.
 
-1. DOKTRIN KAPASITAS MANUSIAWI & PEMISAHAN TEMPAT TIDUR (TAFRIQ AL-MADHAJI'):
-   Setiap santri berhak mendapatkan kasur single mandiri (minimal 90 x 200 cm), lemari pribadi terkunci,
-   dan ruang gerak manusiawi (minimal 4–5 m² per santri). Kapasitas maksimal kamar dibatasi 8–12 santri.
+2. **Standarisasi Fisika Bangunan Sehat (ventilasi Silang & LUX Cahaya)**:  
+   Seluruh kamar asrama wajib memiliki bukaan jendela alami (Cross-Ventilation) dengan pencahayaan alami minimal 250–300 Lux, kelembaban udara sehat (50–60% RH), dan peredam kebisingan malam hari (<45 dBA).
 
-2. STANDARISASI FISIKA BANGUNAN SEHAT (VENTILASI SILANG & LUX CAHAYA):
-   Seluruh kamar asrama wajib memiliki bukaan jendela alami (Cross-Ventilation) dengan pencahayaan alami
-   minimal 250–300 Lux, kelembaban udara sehat (50–60% RH), dan peredam kebisingan malam hari (<45 dBA).
+3. **Standarisasi Rasio Sanitasi Berkeadilan (1 Toilet**:  
+   5–7 SANTRI): Lembaga menjamin penyediaan fasilitas toilet dan kamar mandi bersih, terang, beraroma harum, dan berair bersih melimpah dengan rasio minimal 1 bilik toilet untuk setiap 5–7 santri asrama.
 
-3. STANDARISASI RASIO SANITASI BERKEADILAN (1 TOILET : 5–7 SANTRI):
-   Lembaga menjamin penyediaan fasilitas toilet dan kamar mandi bersih, terang, beraroma harum, dan
-   berair bersih melimpah dengan rasio minimal 1 bilik toilet untuk setiap 5–7 santri asrama.
+4. **Penerapan Arsitektur Cpted & Eliminasi Total Sudut Buta (zero Blindspots)**:  
+   Seluruh tata letak lorong, tangga, dan fasilitas asrama wajib dirancang bebas dari sudut gelap dan titik buta melalui penerapan pencahayaan LED terang dan pengawasan alami (Natural Surveillance).
 
-4. PENERAPAN ARSITEKTUR CPTED & ELIMINASI TOTAL SUDUT BUTA (ZERO BLINDSPOTS):
-   Seluruh tata letak lorong, tangga, dan fasilitas asrama wajib dirancang bebas dari sudut gelap dan
-   titik buta melalui penerapan pencahayaan LED terang dan pengawasan alami (Natural Surveillance).
-===================================================================================================
-```
 
 ---
 

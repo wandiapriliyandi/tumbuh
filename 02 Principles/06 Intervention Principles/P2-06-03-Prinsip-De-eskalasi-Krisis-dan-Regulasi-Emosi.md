@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Menolak Jebakan Eskalasi Bersama (Co-Escalation vs Co-Regulation Musyrif)](#5-inkuiri-4-menolak-jebakan-eskalasi-bersama-co-escalation-vs-co-regulation-musyrif)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Krisis Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-krisis-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-de-eskalasi-krisis-dan-sifat-hilm-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-de-eskalasi-krisis-dan-sifat-hilm-pesantren-tumbuh)
   - [2. Matriks Protokol Tindakan Musyrif pada 6 Fase Siklus Krisis Perilaku](#2-matriks-protokol-tindakan-musyrif-pada-6-fase-siklus-krisis-perilaku)
   - [3. Protokol 3R Bruce Perry (Regulate -> Relate -> Reason) dalam Penanganan Emosi Santri](#3-protokol-3r-bruce-perry-regulate---relate---reason-dalam-penanganan-emosi-santri)
   - [4. Standar Operasional Prosedur De-Eskalasi Krisis Asrama 24 Jam (Zero Restraint SOP)](#4-standar-operasional-prosedur-de-eskalasi-krisis-asrama-24-jam-zero-restraint-sop)
@@ -187,34 +187,22 @@ Teori Polivagal Prof. Stephen Porges membuktikan bahwa sistem saraf otonom manus
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU DE-ESKALASI KRISIS & SIFAT AL-HILM PESANTREN
-                          SUB-DOMAIN 06: INTERVENTION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KELUHURAN AKHLAK AL-HILM NABAWI DAN KESELAMATAN JIWA SANTRI,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU MANAJEMEN KRISIS PERILAKU:
+1. **Penghapusan Kekerasan Fisik & Eskalasi Bersama (zero Restraint & Anti-co-escalation)**:  
+   Mengharamkan mutlak tindakan membalas amarah santri dengan bentakan, pemukulan, penguncian fisik berbahaya (Prone Restraint), atau tindakan intimidasi apapun saat menghadapi krisis emosional.
 
-1. DOKTRIN PENGHAPUSAN KEKERASAN FISIK & ESKALASI BERSAMA (ZERO RESTRAINT & ANTI-CO-ESCALATION):
-   Mengharamkan mutlak tindakan membalas amarah santri dengan bentakan, pemukulan, penguncian fisik
-   berbahaya (Prone Restraint), atau tindakan intimidasi apapun saat menghadapi krisis emosional.
+2. **Penerapan Protokol 3R Neurosequential Model (regulate -> Relate -> Reason)**:  
+   Wajib mematuhi urutan biologis otak: Tenangkan fisik dan sensori santri (Regulate) -> Bangun kehangatan empati sistem limbik (Relate) -> Ajak nalar korteks prefrontal berpikir logis setelah tenang (Reason).
 
-2. PENERAPAN PROTOKOL 3R NEUROSEQUENTIAL MODEL (REGULATE -> RELATE -> REASON):
-   Wajib mematuhi urutan biologis otak: Tenangkan fisik dan sensori santri (Regulate) -> Bangun kehangatan
-   empati sistem limbik (Relate) -> Ajak nalar korteks prefrontal berpikir logis setelah tenang (Reason).
+3. **Ketenangan Saraf Pengasuh (co-regulation Principle)**:  
+   Seluruh musyrif dan asatidz wajib melatih ketenangan batin (Sifat Al-Hilm & Al-Anah), menggunakan nada suara rendah, postur tubuh terbuka, dan menjaga jarak aman demi menularkan rasa aman bagi santri krisis.
 
-3. MANDAT KETENANGAN SARAF PENGASUH (CO-REGULATION PRINCIPLE):
-   Seluruh musyrif dan asatidz wajib melatih ketenangan batin (Sifat Al-Hilm & Al-Anah), menggunakan nada
-   suara rendah, postur tubuh terbuka, dan menjaga jarak aman demi menularkan rasa aman bagi santri krisis.
+4. **Protokol Keselamatan Fisik Utama Pada Fase Puncak Krisis (safety-first Protocol)**:  
+   Pada saat terjadi puncak amuk fisik, fokus mutlak adalah evakuasi santri lain dan menyingkirkan benda berbahaya, menunda segala bentuk interogasi atau ceramah moral hingga fase pemulihan tuntas sempurna.
 
-4. PROTOKOL KESELAMATAN FISIK UTAMA PADA FASE PUNCAK KRISIS (SAFETY-FIRST PROTOCOL):
-   Pada saat terjadi puncak amuk fisik, fokus mutlak adalah evakuasi santri lain dan menyingkirkan benda
-   berbahaya, menunda segala bentuk interogasi atau ceramah moral hingga fase pemulihan tuntas sempurna.
-===================================================================================================
-```
 
 ---
 

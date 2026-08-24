@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Pelaksanaan Konferensi Restoratif Komunitas Asrama & Reintegrasi Tanpa Stigma](#5-inkuiri-4-pelaksanaan-konferensi-restoratif-komunitas-asrama--reintegrasi-tanpa-stigma)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Ishlah Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-ishlah-asrama--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH](#1-deklarasi-doktrin-baku-prinsip-restorative-conferencing-dan-ishlah-pesantren-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-restorative-conferencing-dan-ishlah-pesantren-tumbuh)
   - [2. Matriks Komparasi Disiplin Retributif (Lama) vs Disiplin Restoratif PBIS (TUMBUH)](#2-matriks-komparasi-disiplin-retributif-lama-vs-disiplin-restoratif-pbis-tumbuh)
   - [3. Alur Standar Operasional Prosedur Konferensi Restoratif Ishlah (5 Tahapan Baku)](#3-alur-standar-operasional-prosedur-konferensi-restoratif-ishlah-5-tahapan-baku)
   - [4. Piagam Perjanjian Restoratif & Protokol Reintegrasi Kamar (No-Stigma Circle Protocol)](#4-piagam-perjanjian-restoratif--protokol-reintegrasi-kamar-no-stigma-circle-protocol)
@@ -187,34 +187,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU KEADILAN RESTORATIF & ISHLAH AL-BAIN PESANTREN
-                          SUB-DOMAIN 06: INTERVENTION PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN MAQASHID UKHUWAH ISLAMIYYAH DAN SUNNAH ISHLAH NABAWIYYAH,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PEMULIHAN DISIPLIN:
+1. **Transformasi Menuju Keadilan Restoratif (restorative Justice Mandate)**:  
+   Menolak segala bentuk hukuman retributif-pembalasan, kekerasan fisik, dan pengusiran sepihak. Setiap penanganan pelanggaran perilaku difokuskan pada pemulihan luka korban dan rekonsiliasi ukhuwah.
 
-1. DOKTRIN TRANSFORMASI MENUJU KEADILAN RESTORATIF (RESTORATIVE JUSTICE MANDATE):
-   Menolak segala bentuk hukuman retributif-pembalasan, kekerasan fisik, dan pengusiran sepihak.
-   Setiap penanganan pelanggaran perilaku difokuskan pada pemulihan luka korban dan rekonsiliasi ukhuwah.
+2. **Penetapan Formula Konsekuensi Logis 4R (related, Respectful, Reasonable, Restorative)**:  
+   Setiap konsekuensi wajib berhubungan langsung dengan kesalahan, menghormati martabat insani santri, masuk akal sesuai usia, dan berorientasi pada pemulihan ganti rugi nyata (Restitution) bagi korban.
 
-2. PENETAPAN FORMULA KONSEKUENSI LOGIS 4R (RELATED, RESPECTFUL, REASONABLE, RESTORATIVE):
-   Setiap konsekuensi wajib berhubungan langsung dengan kesalahan, menghormati martabat insani santri,
-   masuk akal sesuai usia, dan berorientasi pada pemulihan ganti rugi nyata (Restitution) bagi korban.
+3. **Penyelenggaraan Konferensi Restoratif Ishlah Al-bain**:  
+   Mewajibkan mekanisme dialog mediasi terstruktur yang memfasilitasi pengakuan tanggung jawab pelaku, pendengaran hak korban secara empatik, dan perumusan kesepakatan tertulis pemulihan bersama.
 
-3. MANDAT PENYELENGGARAAN KONFERENSI RESTORATIF ISHLAH AL-BAIN:
-   Mewajibkan mekanisme dialog mediasi terstruktur yang memfasilitasi pengakuan tanggung jawab pelaku,
-   pendengaran hak korban secara empatik, dan perumusan kesepakatan tertulis pemulihan bersama.
+4. **Protokol Reintegrasi Komunitas Tanpa Stigmatisasi (no-stigma Reintegration)**:  
+   Mengharamkan mutlak pelabelan abadi, pencemoohan publik, atau pengucilan terhadap santri yang telah menuntaskan kewajiban restitusinya, mengembalikan hak kehormatannya sebagai saudara seiman yang bertaubat.
 
-4. PROTOKOL REINTEGRASI KOMUNITAS TANPA STIGMATISASI (NO-STIGMA REINTEGRATION):
-   Mengharamkan mutlak pelabelan abadi, pencemoohan publik, atau pengucilan terhadap santri yang telah
-   menuntaskan kewajiban restitusinya, mengembalikan hak kehormatannya sebagai saudara seiman yang bertaubat.
-===================================================================================================
-```
 
 ---
 
@@ -251,34 +239,17 @@ flowchart TD
 
 ### 4. Piagam Perjanjian Restoratif & Protokol Reintegrasi Kamar (*No-Stigma Circle Protocol*)
 
-```markdown
-===================================================================================================
-                     PIAGAM KESEPAKATAN ISHLAH & RESTORATIF ASRAMA PESANTREN
-                                PESANTREN TUMBUH — NOMOR: 042/ISHLAH/2026
-===================================================================================================
-Pada hari ini, Senin 24 Agustus 2026, telah diselenggarakan Konferensi Restoratif Ishlah al-Bain
-antara pihak-pihak yang bersaudara di bawah naungan ukhuwah Islamiyyah:
-Pihak I (Pelaku Tanggung Jawab) : Rayhan Al-Ghifari (Kelas 8-C / Asrama Ibnu Rusyd)
-Pihak II (Pihak yang Dirugikan) : Wildan Hakim (Kelas 8-C / Asrama Ibnu Rusyd)
-Fasilitator Mediasi             : Ustadz Ahmad Fauzan, S.Pd.I. (Musyrif Kamar)
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-I. PENGAKUAN TANGGUNG JAWAB & PERMINTAAN MAAF:
-Pihak I mengakui dengan jujur telah merusak raket bulutangkis milik Pihak II akibat emosi sesaat.
-Pihak I memohon maaf yang tulus kepada Pihak II atas kerugian materi dan rasa sedih yang ditimbulkan.
-Pihak II menerima permohonan maaf Pihak I dengan keikhlasan hati demi merawat tali persaudaraan.
+1. **Pihak I mengganti senar dan gagang raket Pihak II yang rusak dengan spesifikasi yang setara, selambat-lambatnya pada hari Ahad, 30 Agustus 2026.**:  
+   
 
-II. KESEPAKATAN AKSI RESTITUSI LOGIS 4R:
-1. Pihak I mengganti senar dan gagang raket Pihak II yang rusak dengan spesifikasi yang setara,
-   selambat-lambatnya pada hari Ahad, 30 Agustus 2026.
-2. Pihak I membantu tugas piket kamar Pihak II selama 3 hari berturut-turut sebagai wujud khidmah.
-3. Seluruh penghuni kamar Asrama Ibnu Rusyd berkomitmen menjaga kehormatan kedua belah pihak dan
-   mengharamkan mutlak pengungkitan peristiwa ini di masa depan (Zero Stigma Mandate).
----------------------------------------------------------------------------------------------------
-Pihak I (Pelaku Tanggung Jawab)   Pihak II (Pihak Terluka)     Fasilitator Musyrif Kamar
+2. **Pihak I membantu tugas piket kamar Pihak II selama 3 hari berturut-turut sebagai wujud khidmah.**:  
+   
 
-( Rayhan Al-Ghifari )             ( Wildan Hakim )             ( Ustadz Ahmad Fauzan, S.Pd.I. )
-===================================================================================================
-```
+3. **Seluruh penghuni kamar Asrama Ibnu Rusyd berkomitmen menjaga kehormatan kedua belah pihak dan mengharamkan mutlak pengungkitan peristiwa ini di masa depan (Zero Stigma Mandate).**:  
+   ------------------------------------------------------------------------------------------------- Pihak I (Pelaku Tanggung Jawab)   Pihak II (Pihak Terluka)     Fasilitator Musyrif Kamar ( Rayhan Al-Ghifari )             ( Wildan Hakim )             ( Ustadz Ahmad Fauzan, S.Pd.I. )
+
 
 ---
 

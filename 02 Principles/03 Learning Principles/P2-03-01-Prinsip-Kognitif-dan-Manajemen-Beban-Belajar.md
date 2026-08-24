@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Strategi Mengoptimalkan Germane Load: Worked-Example Effect & Guidance Fading](#5-inkuiri-4-strategi-mengoptimalkan-germane-load-worked-example-effect--guidance-fading)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas/Halaqah, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kelashalaqah--titik-temu-konsensus)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH](#1-deklarasi-doktrin-baku-prinsip-desain-kognitif-dan-manajemen-beban-belajar-santri-tumbuh)
+  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-kognitif-dan-manajemen-beban-belajar-santri-tumbuh)
   - [2. Matriks 3 Jenis Beban Kognitif & Protokol Intervensi Didaktik Asatidz](#2-matriks-3-jenis-beban-kognitif--protokol-intervensi-didaktik-asatidz)
   - [3. Matriks 4 Teknik Reduksi Beban Kognitif dalam Pengajaran Kitab & Sains](#3-matriks-4-teknik-reduksi-beban-kognitif-dalam-pengajaran-kitab--sains)
   - [4. Protokol Desain Modul Ajar Rendah Beban Pengganggu (Low Extraneous Load Lesson Design SOP)](#4-protokol-desain-modul-ajar-rendah-beban-pengganggu-low-extraneous-load-lesson-design-sop)
@@ -199,34 +199,22 @@ flowchart TD
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH
+### 1. Kaidah Utama dan Standar Baku: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH
 
-```
-===================================================================================================
-             PIAGAM DOKTRIN BAKU MANAJEMEN BEBAN KOGNITIF SANTRI PESANTREN TUMBUH
-                          SUB-DOMAIN 03: LEARNING PRINCIPLES — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENEGAKKAN KEBERKAHAN TAFHIM DAN KESELAMATAN FITRAH AKAL INSAN,
-EKOSISTEM PENDIDIKAN PESANTREN TUMBUH DENGAN INI MENETAPKAN DOKTRIN BAKU PEMBELAJARAN KOGNITIF:
+1. **Penghormatan Atas Kapasitas Memori Kerja (working Memory Respect)**:  
+   Setiap asatidz wajib menyadari keterbatasan kapasitas memori kerja santri (4–7 elemen informasi) dan mengelola aliran materi agar tidak memicu kelebihan beban kognitif (Cognitive Overload).
 
-1. DOKTRIN PENGHORMATAN ATAS KAPASITAS MEMORI KERJA (WORKING MEMORY RESPECT):
-   Setiap asatidz wajib menyadari keterbatasan kapasitas memori kerja santri (4–7 elemen informasi)
-   dan mengelola aliran materi agar tidak memicu kelebihan beban kognitif (Cognitive Overload).
+2. **Eliminasi Mutlak Beban Pengganggu (zero Extraneous Cognitive Load)**:  
+   Mengharamkan suasana kelas yang penuh ancaman, bentakan, tulisan papan tulis berantakan, serta penyampaian materi yang melompat-lompat tanpa struktur logis yang jelas.
 
-2. ELIMINASI MUTLAK BEBAN PENGGANGGU (ZERO EXTRANEOUS COGNITIVE LOAD):
-   Mengharamkan suasana kelas yang penuh ancaman, bentakan, tulisan papan tulis berantakan, serta
-   penyampaian materi yang melompat-lompat tanpa struktur logis yang jelas.
+3. **Penerapan Dual Coding Theory & Segmentasi Bertahap (chunking)**:  
+   Setiap materi konsep abstrak wajib dipadukan antara narasi lisan dan bagan visual terstruktur, serta dipecah menjadi unit-unit pembelajaran kecil yang tuntas sebelum beralih ke konsep berikutnya.
 
-3. PENERAPAN DUAL CODING THEORY & SEGMENTASI BERTAHAP (CHUNKING):
-   Setiap materi konsep abstrak wajib dipadukan antara narasi lisan dan bagan visual terstruktur,
-   serta dipecah menjadi unit-unit pembelajaran kecil yang tuntas sebelum beralih ke konsep berikutnya.
+4. **Penerapan Metode Contoh Terpandu (worked-example & Guidance Fading)**:  
+   Pengajaran wajib mendemonstrasikan proses penalaran secara eksplisit langkah demi langkah (Worked Example) sebelum menugaskan santri memecahkan soal/kasus secara mandiri, membangun kematangan nalar santri.
 
-4. PENERAPAN METODE CONTOH TERPANDU (WORKED-EXAMPLE & GUIDANCE FADING):
-   Pengajaran wajib mendemonstrasikan proses penalaran secara eksplisit langkah demi langkah (Worked Example)
-   sebelum menugaskan santri memecahkan soal/kasus secara mandiri, membangun kematangan nalar santri.
-===================================================================================================
-```
 
 ---
 

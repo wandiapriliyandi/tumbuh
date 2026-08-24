@@ -32,7 +32,7 @@
   - [2. Matriks Komparasi Filosofis: TUMBUH vs 4 Mazhab Perkembangan Barat (Behaviorisme, Kognitivisme, Psikososial, & Humanistik)](#2-matriks-komparasi-filosofis-tumbuh-vs-4-mazhab-perkembangan-barat-behaviorisme-kognitivisme-psikososial--humanistik)
   - [3. Dekonstruksi Paradigma Reduksionis & Penghapusan Mutlak Stagnasi Punitif](#3-dekonstruksi-paradigma-reduksionis--penghapusan-mutlak-stagnasi-punitif)
   - [4. Jembatan Filosofis & Pedagogis Menuju Sub-Domain 04 Education](#4-jembatan-filosofis--pedagogis-menuju-sub-domain-04-education)
-- [BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU HUMAN DEVELOPMENT](#bagian-ii-piagam-kelembagaan--deklarasi-doktrin-baku-human-development)
+- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL HUMAN DEVELOPMENT](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-human-development)
   - [1. Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri Pesantren TUMBUH](#1-piagam-kelembagaan-pemuliaan-hak-bertumbuh-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Human Development ke dalam Kurikulum Pengasuhan 24 Jam](#2-matriks-integrasi-operasional-6-pilar-human-development-ke-dalam-kurikulum-pengasuhan-24-jam)
   - [3. Protokol Audit Kualitas Pengasuhan Asrama Berbasis Human Development](#3-protokol-audit-kualitas-pengasuhan-asrama-berbasis-human-development)
@@ -113,47 +113,32 @@ graph TD
 
 ---
 
-# BAGIAN II: PIAGAM KELEMBAGAAN & DEKLARASI DOKTRIN BAKU HUMAN DEVELOPMENT
+# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL HUMAN DEVELOPMENT
 
 ---
 
 ### 1. Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri Pesantren TUMBUH
 
-```
-===================================================================================================
-     PIAGAM KELEMBAGAAN PEMULIAAN HAK BERTUMBUH SANTRI (HUMAN DEVELOPMENT GRAND CHARTER)
-                       SUB-DOMAIN 03: HUMAN DEVELOPMENT — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN KESADARAN PENUH AKAN AMANAH ILAHIYAH DALAM MEMELIHARA GENERASI
-PEWARIS NABI, DEWAN KEILMUAN BESERTA SELURUH PIMPINAN PESANTREN EKOSISTEM TUMBUH DENGAN INI
-MENETAPKAN KETENTUAN HUKUM DAN ETIKA BAKU KELEMBAGAAN SEBAGAI BERIKUT:
+1. **HAK Mutlak Kesucian Fitrah & Martabat Setiap santri dilahirkan suci dan mulia (Mukarram). Lembaga menjamin hak setiap santri untuk dibina dengan cinta, rasa hormat, dan kasih sayang (Firm & Kind), tanpa ancaman kekerasan fisik maupun verbal.**:  
+   
 
-PASAL 1: HAK MUTLAK KESUCIAN FITRAH & MARTABAT
-Setiap santri dilahirkan suci dan mulia (Mukarram). Lembaga menjamin hak setiap santri untuk dibina
-dengan cinta, rasa hormat, dan kasih sayang (Firm & Kind), tanpa ancaman kekerasan fisik maupun verbal.
+2. **Penerapan Standar Triadik Tazkiyatun Nafs Seluruh lini pengasuhan asrama 24 jam wajib menerapkan tahapan Takhalliy, Tahalliy, dan Tajalliy melalui kurikulum riyadhah pembiasaan 66 hari menuju pembentukan watak kedua yang otomatis.**:  
+   
 
-PASAL 2: PENERAPAN STANDAR TRIADIK TAZKIYATUN NAFS
-Seluruh lini pengasuhan asrama 24 jam wajib menerapkan tahapan Takhalliy, Tahalliy, dan Tajalliy
-melalui kurikulum riyadhah pembiasaan 66 hari menuju pembentukan watak kedua yang otomatis.
+3. **Pengakuan Diferensiasi Usia & Pendampingan Transisi Baligh Mewajibkan pemisahan pendekatan pedagogis MTs vs MA, pendampingan ramah atas peristiwa mimpi basah/haidh, serta menyediakan fasilitas olahraga kinestetik guna menyalurkan energi hormon pubertas.**:  
+   
 
-PASAL 3: PENGAKUAN DIFERENSIASI USIA & PENDAMPINGAN TRANSISI BALIGH
-Mewajibkan pemisahan pendekatan pedagogis MTs vs MA, pendampingan ramah atas peristiwa mimpi basah/haidh,
-serta menyediakan fasilitas olahraga kinestetik guna menyalurkan energi hormon pubertas.
+4. **Penghapusan Mutlak Perangkingan Tunggal Toksik Sistem perangkingan kelas komparatif dinyatakan Tidak Berlaku Lagi, digantikan oleh Asesmen Pertumbuhan Ipsatif yang mengukur kemajuan personal dan portofolio bakat unik setiap santri.**:  
+   
 
-PASAL 4: PENGHAPUSAN MUTLAK PERANGKINGAN TUNGGAL TOKSIK
-Sistem perangkingan kelas komparatif dinyatakan TIDAK BERLAKU LAGI, digantikan oleh Asesmen Pertumbuhan
-Ipsatif yang mengukur kemajuan personal dan portofolio bakat unik setiap santri.
+5. **Kebijakan Zero Tolerance Kekerasan & Senioritas Feodal Segala bentuk pemukulan, tamparan, push-up berlebihan, penyiraman air malam, pembentakan, pencukuran botak paksa, dan perpeloncoan Dikategorikan Sebagai Pelanggaran Berat Dengan Sanksi Tegas.**:  
+   
 
-PASAL 5: KEBIJAKAN ZERO TOLERANCE KEKERASAN & SENIORITAS FEODAL
-Segala bentuk pemukulan, tamparan, push-up berlebihan, penyiraman air malam, pembentakan, pencukuran
-botak paksa, dan perpeloncoan DIKATEGORIKAN SEBAGAI PELANGGARAN BERAT DENGAN SANKSI TEGAS.
+6. **Kaderisasi Kepemimpinan Tahap 7 Penggerak (mushlih Peradaban) Menetapkan bahwa tujuan akhir wisuda pesantren adalah melahirkan Insan Adabi yang siap mengabdi sebagai Mushlih penyeru kebaikan dan pelayan umat di tengah masyarakat.**:  
+   
 
-PASAL 6: KADERISASI KEPEMIMPINAN TAHAP 7 PENGGERAK (MUSHLIH PERADABAN)
-Menetapkan bahwa tujuan akhir wisuda pesantren adalah melahirkan Insan Adabi yang siap mengabdi
-sebagai Mushlih penyeru kebaikan dan pelayan umat di tengah masyarakat.
-===================================================================================================
-```
 
 ---
 

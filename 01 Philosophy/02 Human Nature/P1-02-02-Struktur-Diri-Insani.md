@@ -33,7 +33,7 @@
   - [6. Inkuiri 5: Neurosains Integrasi Prefrontal Cortex (Aql) & Sistem Limbik-Amigdala (Nafs)](#6-inkuiri-5-neurosains-integrasi-prefrontal-cortex-aql--sistem-limbik-amigdala-nafs)
   - [7. Inkuiri 6: Translasi Harmonisasi Empat Daya ke Ritme Kehidupan Asrama Pesantren 24 Jam](#7-inkuiri-6-translasi-harmonisasi-empat-daya-ke-ritme-kehidupan-asrama-pesantren-24-jam)
 - [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Doktrin Baku: Struktur Diri Insani Integral](#1-deklarasi-doktrin-baku-struktur-diri-insani-integral)
+  - [1. Kaidah Utama dan Standar Baku: Struktur Diri Insani Integral](#1-kaidah-utama-dan-standar-baku-struktur-diri-insani-integral)
   - [2. Matriks Empat Daya Kejiwaan: Hakikat, Fungsi, Potensi Penyimpangan, & Terapi Adab](#2-matriks-empat-daya-kejiwaan-hakikat-fungsi-potensi-penyimpangan--terapi-adab)
   - [3. Matriks Komparasi Anatomi Jiwa: Islam vs Tripartite Plato vs Neurosains Modern](#3-matriks-komparasi-anatomi-jiwa-islam-vs-tripartite-plato-vs-neurosains-modern)
   - [4. Protokol Harmonisasi Psiko-Spiritual Asrama 24 Jam (The Daily Coherence Protocol)](#4-protokol-harmonisasi-psiko-spiritual-asrama-24-jam-the-daily-coherence-protocol)
@@ -371,11 +371,11 @@ flowchart TD
 
 # BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
 
-*Bagian ini memuat deklarasi doktrin baku Struktur Diri Insani, matriks 4 daya kejiwaan, matriks komparasi 3 mazhab anatomi jiwa, dan protokol operasional The Daily Coherence Protocol.*
+*Bagian ini memuat rumusan kaidah utama dan standar operasional Struktur Diri Insani, matriks 4 daya kejiwaan, matriks komparasi 3 mazhab anatomi jiwa, dan protokol operasional The Daily Coherence Protocol.*
 
 ---
 
-### 1. Deklarasi Doktrin Baku: Struktur Diri Insani Integral
+### 1. Kaidah Utama dan Standar Baku: Struktur Diri Insani Integral
 
 Ekosistem TUMBUH menetapkan deklarasi resmi struktur jiwa manusia:
 

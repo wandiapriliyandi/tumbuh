@@ -148,35 +148,26 @@ flowchart TD
 
 ### 1. Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri (*The Grand Charter of Student Dignity*)
 
-```
-===================================================================================================
-     PIAGAM KELEMBAGAAN PEMULIAAN MARTABAT & FITRAH SANTRI (THE GRAND CHARTER OF STUDENT DIGNITY)
-                          SUB-DOMAIN 02: HUMAN NATURE — EKOSISTEM TUMBUH
-===================================================================================================
+Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
 
-BISMILLAHIRRAHMANIRRAHIM. DENGAN MENGAGUNGKAN AMANAH PENCIPTAAN INSAN DAN SUNNAH TARBIYAH NABAWIYYAH,
-MAJELIS MASYAIKH TERTINGGI BERSAMA SELURUH DEWAN KEILMUAN DENGAN INI MENGESAHKAN PIAGAM STATUTA ABADI:
-
-1. KAMI BERSAKSI BAHWA SETIAP SANTRI ADALAH HAMBA ALLAH YANG DIMULIAKAN (MUKARRAM):
+1. **Kami Bersaksi Bahwa Setiap Santri Adalah Hamba Allah Yang Dimuliakan (mukarram)**:  
    Dilahirkan membawa fitrah kesucian tauhid (Mitsaq Azali) dan kompas moral kebaikan bawaan.
 
-2. KAMI MENGHARAMKAN MUTLAK SEGALA BENTUK KEKERASAN FISIK, VERBAL, & PERPELONCOAN:
+2. **Kami Mengharamkan Mutlak Segala Bentuk Kekerasan Fisik, Verbal, & Perpeloncoan**:  
    Menolak pemukulan rotan, tamparan, makian kotor, pencukuran memalukan, dan intimidasi senioritas.
 
-3. KAMI MENEGAKKAN PARADIGMA DOKTER JIWA DALAM MEMBIMBING NAFS SANTRI:
-   Memandang pelanggaran adab sebagai dinamika transisi jiwa yang wajib disembuhkan dengan metode
-   Firm & Kind, disiplin restoratif 4R, dan pemberdayaan suara hati nurani (Nafs Lawwamah).
+3. **Kami Menegakkan Paradigma Dokter Jiwa Dalam Membimbing Nafs Santri**:  
+   Memandang pelanggaran adab sebagai dinamika transisi jiwa yang wajib disembuhkan dengan metode Firm & Kind, disiplin restoratif 4R, dan pemberdayaan suara hati nurani (Nafs Lawwamah).
 
-4. KAMI MENGHORMATI KERAGAMAN SIDIK JARI BAKAT UNIK SETIAP SANTRI:
+4. **Kami Menghormati Keragaman Sidik Jari Bakat Unik Setiap Santri**:  
    Menghapus sistem perankingan tunggal toksik dan memfasilitasi setiap santri memakmurkan bumi.
 
-5. KAMI MENDIDIK SANTRI MENUJU MAQAM MURAQABATULLAH & MOTIVASI INTRINSIK SEJATI:
+5. **Kami Mendidik Santri Menuju Maqam Muraqabatullah & Motivasi Intrinsik Sejati**:  
    Disiplin otonom yang lahir dari rasa cinta dan malu kepada Allah, bukan kepatuhan palsu karena takut.
 
-6. KAMI MENJAMIN PEMENUHAN HAK-HAK BIOLOGIS & KERAHASIAAN PRIVASI SANTRI (SATRUL 'AURAT):
+6. **Kami Menjamin Pemenuhan Hak-hak Biologis & Kerahasiaan Privasi Santri (satrul 'aurat)**:  
    Makanan bergizi thayyib, tidur sehat 7 jam, air sanitasi bersih, dan kerahasiaan catatan konseling BK.
-===================================================================================================
-```
+
 
 ---
 
