@@ -1,236 +1,307 @@
-# P1-01-02: EPISTEMOLOGI EKOSISTEM TUMBUH
-## *Monograf Induk Teori Pengetahuan: 4 Sumber Fitrah, Proses Kognisi, Protokol Validasi, Integrasi Tauhidul Haqiqah, Batas Nalar Insan, & Puncak Al-Hikmah Praksis*
+# P1-01-02: EPISTEMOLOGI EKOSISTEM TUMBUH (MASTER DOKTRIN EPISTEMOLOGI)
+## *Master Cluster Monograph: Doktrin Induk Teori Pengetahuan Islam, Integrasi Tujuh Sub-Modul Epistemologi, Penyatuan Wahyu, Nalar, Indera, & Qalbu, Serta Manifestasi Operasional di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-01-02/MONOGRAF-INDUK-EPISTEMOLOGI/2026`  
-**Domain**: `01 Philosophy` > `01 Worldview` > `02 Epistemologi TUMBUH`  
-**Klasifikasi Naskah**: *Cluster Master Monograph* (Monograf Induk Kluster Epistemologi)  
+**Nomor Identifikasi**: `P1-01-02/MASTER-MONOGRAF-EPISTEMOLOGI/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` > `02 Epistemologi TUMBUH` (Master Cluster Monograph)  
+**Klasifikasi Naskah**: *Master Cluster Research Monograph* (Dokumen Induk Doktrin Epistemologi)  
 **Rumpun Disiplin Pengkaji**: Epistemologi Turats & Ushuluddin, Filsafat Pendidikan Islam (Ta'dib Al-Attas), Psikologi Belajar & Kognitif, Metodologi Riset PBIS, Arsitektur Manajemen Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Apa Peran Epistemologi dalam Kehidupan Pesantren?**  
->   Jika Ontologi menjawab *"Apa yang nyata diciptakan Allah?"*, maka Epistemologi menjawab **"Bagaimana cara kita meraih ilmu yang benar, menyaring hoaks, dan mengamalkannya menjadi adab nyata di asrama 24 jam?"**
-> * **Tujuh Bangunan Utama Epistemologi TUMBUH:**  
->   1. **4 Saluran Ilmu (01)**: Wahyu Sharih, Akal Sehat, Indera Empiris, dan Qalbu yang Suci.  
->   2. **4 Cara Belajar (02)**: Talaqqi Bersanad, Menalar Kritis (*Nazhar*), Praktik Nyata (*Tajribah*), dan Niat Ikhlas (*Tazkiyah*).  
->   3. **Filter Kebenaran (03)**: Uji hadits shahih, bebas sesat pikir logika, data faktual dhohir, dan harmoni sains-agama.  
->   4. **Pohon Ilmu yang Satu (04)**: Menyatukan ayat Al-Qur'an dan sains semesta di bawah Tauhid (*Tauhidul Haqiqah*).  
->   5. **Rendah Hati Ilmiah (05)**: Berani berkata "Saya belum tahu (*Wallahu A'lam*)", membuang kesombongan sok pintar.  
->   6. **Puncak Kebijaksanaan (06)**: Menjadi pribadi yang bijak (*Hakim*), menegakkan aturan dengan tegas dan penuh kasih (*Firm & Kind*).  
->   7. **Audit Bebas Kontradiksi (07)**: Menjamin sistem 100% selaras syariat, ilmiah, dan mudah dijalankan musyrif.
+> * **Krisis Epistemologis di Lembaga Pendidikan Islam:**  
+>   Banyak problematika pendidikan karakter bersumber dari disorientasi cara berpikir: pemisahan dikotomis antara "ilmu agama" dan "ilmu sains", hafalan tekstual mekanistik yang miskin penalaran kritis, pengambilan keputusan disiplin berdasarkan praduga atau firasat sepihak, serta kesombongan intelektual yang memicu fanatisme mazhab.
+> * **Konsolidasi Master Doktrin Epistemologi Integratif TUMBUH:**  
+>   Dokumen induk ini mengintegrasikan seluruh 7 pilar riset sub-modul: **1. Sumber Pengetahuan (Wahyu, Akal, Indera, & Qalbu); 2. Proses Kognisi (Talaqqi, Nazhar, Tajribah, & Tazkiyah); 3. Protokol Validasi Multilapis (Kritik Sanad-Matan, Mantiq, & Bukti Empiris); 4. Integrasi Keilmuan (Tauhidul Haqiqah & Pohon Ilmu); 5. Batas Pengetahuan (Tawadhu' Intelektual); 6. Muara Hikmah (Al-Hikmah & Adab Praksis); 7. Audit Kualitas & Uji Bebas Kontradiksi**.
+> * **Formulasi Operasional & Dampak Triad Simbiotik:**  
+>   Monograf induk ini merumuskan 4 Tingkatan Kesadaran Epistemologi Kluster (*Maratib al-Idrak*), standarisasi kurikulum 24 jam berbasis adab, asesmen karakter berbasis data faktual PBIS, serta pertumbuhan serempak bagi Santri, Guru/Musyrif, dan Sistem Lembaga.
 
 ---
 
-## 📑 DAFTAR ISI MONOGRAF INDUK
+## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: ARSITEKTUR FONDASI EPISTEMOLOGI ISLAM](#bagian-i-arsitektur-fondasi-epistemologi-islam)
-  - [1. Epistemologi sebagai Jembatan Kognitif Antara Ontologi dan Aksiologi](#1-epistemologi-sebagai-jembatan-kognitif-antara-ontologi-dan-aksiologi)
-  - [2. Pohon Epistemologi TUMBUH: Integrasi Tujuh Pilar Keilmuan](#2-pohon-epistemologi-tumbuh-integrasi-tujuh-pilar-keilmuan)
-  - [3. Rantai Kausalitas Transformatif: Dari Teori Kognisi Menuju Adab Otomatis](#3-rantai-kausalitas-transformatif-dari-teori-kognisi-menuju-adab-otomatis)
-- [BAGIAN II: KODIFIKASI BAKU TUJUH MONOGRAF KLUSTER 02](#bagian-ii-kodifikasi-baku-tujuh-monograf-kluster-02)
-  - [1. Matriks Lengkap Tujuh Monograf Kluster Epistemologi TUMBUH](#1-matriks-lengkap-tujuh-monograf-kluster-epistemologi-tumbuh)
-  - [2. Deklarasi Integrasi Triadik Epistemologi: Santri, Guru, & Sistem Lembaga](#2-deklarasi-integrasi-triadik-epistemologi-santri-guru--sistem-lembaga)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Epistemologi sebagai Navigasi Kognitif Antara Ontologi dan Aksiologi](#1-latar-belakang-masalah-epistemologi-sebagai-navigasi-kognitif-antara-ontologi-dan-aksiologi)
+  - [2. Integrasi Epistemologis Tujuh Pilar Kajian Epistemologi TUMBUH](#2-integrasi-epistemologis-tujuh-pilar-kajian-epistemologi-tumbuh)
+  - [3. Rantai Kausalitas Epistemologis: Dari Teori Kognisi Menuju Adab Otomatis](#3-rantai-kausalitas-epistemologis-dari-teori-kognisi-menuju-adab-otomatis)
+  - [4. Rekayasa Lingkungan Belajar 24 Jam Berbasis Adab Ilmiah](#4-rekayasa-lingkungan-belajar-24-jam-berbasis-adab-ilmiah)
+  - [5. Kasuistika Lapangan: Anomali Kognisi Pesantren & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-anomali-kognisi-pesantren--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Arsitektur Master Doktrin Epistemologi Integratif Ekosistem TUMBUH](#1-arsitektur-master-doktrin-epistemologi-integratif-ekosistem-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Epistemologis Kluster (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-epistemologis-kluster-maratib-al-idrak)
   - [3. Standarisasi Siklus Kognisi 24 Jam: Dari Kelas Madrasah Menuju Kamar Asrama](#3-standarisasi-siklus-kognisi-24-jam-dari-kelas-madrasah-menuju-kamar-asrama)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Kluster Epistemologi TUMBUH](#1-tabel-sintesis-kluster-epistemologi-tumbuh)
+  - [4. Prinsip Aksiologis & Etika Tata Kelola Keilmuan Pesantren 24 Jam](#4-prinsip-aksiologis--etika-tata-kelola-keilmuan-pesantren-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Master Kluster Epistemologi](#1-tabel-sintesis-temuan-riset-master-kluster-epistemologi)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Terminologi Kunci Epistemologi TUMBUH](#4-glosarium-terminologi-kunci-epistemologi-tumbuh)
+  - [4. Glosarium Istilah Ilmiah & Turats Master Epistemologi](#4-glosarium-istilah-ilmiah--turats-master-epistemologi)
 
 ---
 
-# BAGIAN I: ARSITEKTUR FONDASI EPISTEMOLOGI ISLAM
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Epistemologi sebagai Jembatan Kognitif Antara Ontologi dan Aksiologi
+### 1. Latar Belakang Masalah: Epistemologi sebagai Navigasi Kognitif Antara Ontologi dan Aksiologi
 
-Jika penyelidikan Ontologi pada Kluster 01 telah menetapkan bahwa realitas terdiri dari dua dimensi yang tak terpisahkan (*Alam Mulk dan Alam Malakut* ciptaan Allah SWT), maka Kluster 02 Epistemologi merumuskan **Bagaimana Manusia Memperoleh Akses Kognitif dan Spiritual Menuju Realitas Tersebut**.[^1]
-
-Epistemologi adalah cetak biru navigasi berpikir (*Cognitive & Spiritual Blueprint*) yang menjamin:
-* Santri tidak terjebak dalam ilusi rasionalisme kering yang angkuh tanpa bimbingan wahyu.
-* Santri tidak terjerumus ke dalam lubang dogmatisme tekstualis sempit yang anti-sains.
-* Santri tidak tertipu oleh mistisisme khurafat atau pseudosains komersial.
-* Seluruh kebijakan pengasuhan pesantren berdiri di atas landasan bukti nyata (*Evidence-Based Practice*) yang adil dan beradab.
+Jika penyelidikan Ontologi pada Kluster 01 telah menetapkan bahwa realitas terdiri dari dua dimensi yang manunggal (*'Alam Mulk dan 'Alam Malakut* ciptaan Allah SWT), maka Kluster 02 Epistemologi merumuskan **Bagaimana Manusia Memperoleh Akses Kognitif, Ilmiah, dan Spiritual Menuju Realitas Tersebut**:
+* **Jembatan Antara Keyakinan dan Tindakan**: Tanpa epistemologi yang jernih, keyakinan tauhid yang luhur akan berhenti menjadi slogan abstrak tanpa mampu diterjemahkan ke dalam kurikulum pembelajaran, etika pergaulan, dan metode pendisiplinan santri di asrama.
+* **Perlindungan dari Sesat Pikir**: Epistemologi Islam berfungsi sebagai filter navigasi (*Cognitive Shield*) yang melindungi generasi muda muslim dari virus sekularisme, nihilisme, takhayul pseudosains, dan fanatisme buta.
+* **Penyatuan Tradisi dan Kemajuan**: Ekosistem TUMBUH memadukan otoritas wahyu mutawatir dan metodologi kritik sanad-matan Turats dengan ketepatan riset neurosains dan manajemen perilaku modern (*PBIS*).[^1]
 
 ```mermaid
 flowchart LR
-    subgraph RantaiKausalitasFilsafat["RANTAI TRANSFORMASI DARI FILSAFAT MENUJU PRAKSIS 24 JAM"]
-        Onto["1. ONTOLOGI (Hakikat Realitas)<br/>Allah Sang Pencipta, Alam Mulk & Malakut, Sunnatullah"]
-        --> Epi["2. EPISTEMOLOGI (Teori Pengetahuan)<br/>Wahyu, Akal, Indera, Qalbu, Talaqqi, Validasi, & Integrasi"]
-        --> Aksio["3. AKSIOLOGI (Sistem Nilai & Adab)<br/>Maqashid Syari'ah, Keadilan ('Adl), Firm & Kind, & Maslahat"]
-        --> Praksis["4. PRAKSIS 24 JAM (Amal Nyata Santri)<br/>Kemandirian Asrama, Shalat Jamaah, Logbook PBIS, & Akhlak Karima"]
+    subgraph RantaiKausalitasFilsafat["RANTAI TRANSFORMASI FILSAFAT MENUJU PRAKSIS 24 JAM"]
+        Ontologi["01 ONTOLOGI REALITAS<br/>(Hakikat 'Alam Mulk & Malakut)"]
+        --> Epistemologi["02 EPISTEMOLOGI INTEGRATIF<br/>(Sumber, Kognisi, Validasi, & Hikmah)"]
+        --> Aksiologi["AKSIOLOGI & PRAKSIS ASRAMA<br/>(Kurikulum, Tata Kelola PBIS, & Adab Insan)"]
     end
 ```
 
 ---
 
-### 2. Pohon Epistemologi TUMBUH: Integrasi Tujuh Pilar Keilmuan
+### 2. Integrasi Epistemologis Tujuh Pilar Kajian Epistemologi TUMBUH
 
-Tujuh monograf dalam Kluster Epistemologi tersusun dalam arsitektur hierarkis yang kokoh dan saling melengkapi:
+Master doktrin ini merupakan konsolidasi organik dari 7 berkas monograf riset fondasional di Kluster 02 Epistemologi TUMBUH:
 
 ```mermaid
-graph TD
-    subgraph ArsitekturEpistemologiTUMBUH["ARSITEKTUR LENGKAP KLUSTER 02 EPISTEMOLOGI TUMBUH"]
-        M1["P1-01-02-01: SUMBER PENGETAHUAN<br/>(Wahyu Sharih, Akal Sehat, Indera Empiris, Qalbu Salim)"]
-        M2["P1-01-02-02: PROSES DAN MEKANISME KOGNISI<br/>(Talaqqi, Nazhar, Tajribah, Tazkiyah, Cognitive Load)"]
-        M3["P1-01-02-03: KRITERIA DAN PROTOKOL VALIDASI<br/>(Jarh wat Ta'dil, Koherensi, Korespondensi, Dar' Ta'arudh)"]
-        M4["P1-01-02-04: INTEGRASI TAUHIDUL HAQIQAH<br/>(Pohon Ilmu, Penyatuan Tanziliyyah & Kauniyyah, Tahdzib)"]
-        M5["P1-01-02-05: BATAS PENGETAHUAN MANUSIA<br/>(Tawadhu' Intelektual QS. 17:85, Budaya Laa Adri, Dunning-Kruger)"]
-        M6["P1-01-02-06: HIKMAH DAN KEBIJAKSANAAN PRAKSIS<br/>(Penempatan Maqam Adab Al-Attas, Firm & Kind, Ulul Albab)"]
-        M7["P1-01-02-07: SINTESIS DAN KRITIK INTERNAL<br/>(Audit Mutu, Uji Falsifikasi Popper, Field Usability Test)"]
+flowchart TD
+    subgraph TujuhSubModulEpistemologi["PETA INTEGRASI TUJUH SUB-MODUL EPISTEMOLOGI TUMBUH"]
+        M1["P1-01-02-01: Sumber Pengetahuan (Wahyu, Akal, Indera, & Qalbu)"]
+        M2["P1-01-02-02: Proses Kognisi (Talaqqi, Nazhar, Tajribah, & Tazkiyah)"]
+        M3["P1-01-02-03: Protokol Validasi (Kritik Sanad-Matan, Mantiq, & Bukti Empiris)"]
+        M4["P1-01-02-04: Integrasi Ilmu (Tauhidul Haqiqah & Pohon Ilmu)"]
+        M5["P1-01-02-05: Batas Pengetahuan (Tawadhu' Intelektual & Anti-Dunning-Kruger)"]
+        M6["P1-01-02-06: Hikmah & Praksis (Penyatuan Ilmu, Amal, & Adab)"]
+        M7["P1-01-02-07: Audit Kritik Internal (Uji Falsifikasi & Bebas Kontradiksi)"]
         
-        M1 ==> M2
-        M2 ==> M3
-        M3 ==> M4
-        M4 ==> M5
-        M5 ==> M6
-        M6 ==> M7
-        M7 -.->|Mengunci & Memvalidasi Fondasi| M1
+        MasterDoktrinEpi["MASTER DOKTRIN: P1-01-02 EPISTEMOLOGI INDUK<br/>(Arsitektur Teori Pengetahuan Islam Pesantren 24 Jam)"]
+        
+        M1 --> MasterDoktrinEpi
+        M2 --> MasterDoktrinEpi
+        M3 --> MasterDoktrinEpi
+        M4 --> MasterDoktrinEpi
+        M5 --> MasterDoktrinEpi
+        M6 --> MasterDoktrinEpi
+        M7 --> MasterDoktrinEpi
     end
 ```
 
----
-
-### 3. Rantai Kausalitas Transformatif: Dari Teori Kognisi Menuju Adab Otomatis
-
-Ekosistem TUMBUH merancang transmisi keilmuan yang tidak berhenti di kepala, melainkan mengalir menembus sanubari dan menggerakkan raga santri:
-
-1. **Fase Penyerapan Otentik (*Auditory-Verbal Encoding*)**: Santri menerima teks matan dan dalil wahyu dari asatidz bersanad melalui metode *Talaqqi Musyafahah*.[^2]
-2. **Fase Pengolahan Nalar (*Critical Working Memory Processing*)**: Santri membedah illat kausalitas dan premis logika melalui metode *Nazhar & Bahsul Masail*.[^3]
-3. **Fase Uji Fakta & Eksperimen (*Empirical Sensorimotor Praxis*)**: Santri mempraktikkan teori fiqh dan sains di laboratorium dan lingkungan fisik asrama melalui metode *Tajribah*.[^4]
-4. **Fase Penyucian Niat & Afeksi (*Affective Purification*)**: Santri merefleksikan keikhlasan batin dan membersihkan diri dari riya' melalui metode *Tazkiyah*.[^5]
-5. **Fase Otomatisasi Karakter (*Habituation & Behavioral Automatism*)**: Pengulangan adab yang konsisten di asrama selama 24 jam membentuk kebiasaan spontan (*Refleks Muraqabah*) yang melekat permanen.[^6]
+Integrasi ketujuh pilar ini memastikan bahwa bangunan keilmuan santri memiliki sumber yang otentik (*Authentic*), proses kognisi yang ramah neurobiologis (*Brain-Friendly*), protokol validasi yang ketat (*Rigorous*), pohon ilmu yang utuh (*Integrated*), sikap mental yang rendah hati (*Humble*), muara adab yang nyata (*Actionable*), dan sistem penjaminan mutu yang terpercaya (*Quality-Assured*).[^2]
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU TUJUH MONOGRAF KLUSTER 02
+### 3. Rantai Kausalitas Epistemologis: Dari Teori Kognisi Menuju Adab Otomatis
+
+Epistemologi TUMBUH bekerja melalui mekanisme transformasi saraf dan kalbu:
+1. **Transmisi Wahyu & Konsep (*Talaqqi & Nazhar*)**: Mengaktifkan korteks prefrontal (PFC) santri untuk membentuk peta konsep (*Concept Schemas*).
+2. **Praktik Lapangan Asrama (*Tajribah*)**: Memicu plastisitas sinaptik (*Long-Term Potentiation*), mengubah pengetahuan teoritis menjadi keterampilan refleks.
+3. **Penyucian Kalbu (*Tazkiyah & Hikmah*)**: Mereduksi stres amigdala dan menghadirkan ketenangan batin (*Thuma'ninah*), melahirkan perilaku adab yang otomatis dan ikhlas.[^3]
 
 ---
 
-### 1. Matriks Lengkap Tujuh Monograf Kluster Epistemologi TUMBUH
+### 4. Rekayasa Lingkungan Belajar 24 Jam Berbasis Adab Ilmiah
 
-| Kode Monograf | Judul Naskah Terpadu | Dokumen Tautan Langsung | Intisari Temuan & Kontribusi Baku |
-| :---: | :--- | :---: | :--- |
-| **P1-01-02-01** | Sumber-Sumber Pengetahuan dalam Islam | [**`Buka Monograf P1-01-02-01`**](./P1-01-02-01-Sumber-Pengetahuan.md) | Deklarasi 4 Saluran: Wahyu Mutawatir (Otoritas Tertinggi), Akal Sehat, Indera Empiris, dan Ilham Kalbu; Komparasi komprehensif atas Empirisme, Rasionalisme, Positivisme, dan Pragmatisme Barat.[^7] |
-| **P1-01-02-02** | Proses dan Mekanisme Memperoleh Pengetahuan | [**`Buka Monograf P1-01-02-02`**](./P1-01-02-02-Proses-Memperoleh-Pengetahuan.md) | Metodologi 4 Jalur: Talaqqi-Tadabbur, Nazhar-Istimbath, Tajribah-Musyahadah, Tazkiyah-Bashirah; Integrasi Cognitive Load Theory Sweller, Spaced Retrieval Ebbinghaus, dan Format Halaqah 4 Tahap.[^8] |
-| **P1-01-02-03** | Kriteria dan Protokol Validasi Pengetahuan | [**`Buka Monograf P1-01-02-03`**](./P1-01-02-03-Validasi-Pengetahuan.md) | 4 Filter Kebenaran: Kritik Sanad-Matan 'Ilmul Hadits, Koherensi Logika Mantiq, Korespondensi Fakta Empiris, Mizan Syar'i Batin; Algoritma Resolusi Benturan Sains-Teks (*Dar' Ta'arudh*) & Psikometri PBIS.[^9] |
-| **P1-01-02-04** | Integrasi Pengetahuan: Tauhidul Haqiqah | [**`Buka Monograf P1-01-02-04`**](./P1-01-02-04-Integrasi-Pengetahuan.md) | Harmoni Ayat Tanziliyyah & Kauniyyah; Dekonstruksi Pseudo-Islamisasi label; Arsitektur Resmi Pohon Ilmu TUMBUH (Akar Tauhid $\to$ Batang Adab $\to$ Cabang Sains $\to$ Buah Insan Kamil); Filter *Tahdzib*.[^10] |
-| **P1-01-02-05** | Batas-Batas Pengetahuan Manusia | [**`Buka Monograf P1-01-02-05`**](./P1-01-02-05-Batas-Pengetahuan-Manusia.md) | Keterbatasan Kognisi QS. 17:85; Demarkasi 3 Ranah (Al-Ma'lum, Al-Majhul, Al-Ghaib); Tradisi *Laa Adri* Imam Malik; Penanganan Bias Dunning-Kruger; Moderasi Toleransi Bermazhab (*Tasamuh Wasathiy*).[^11] |
-| **P1-01-02-06** | Hikmah dan Kebijaksanaan dalam Praksis | [**`Buka Monograf P1-01-02-06`**](./P1-01-02-06-Hikmah-dan-Kebijaksanaan.md) | Puncak Epistemologi: QS. 2:269; 3 Dimensi Hikmah ('Ilm, 'Amal, Hal); Definisi Adab Prof. Al-Attas (Keadilan Maqam); Protokol *Firm & Kind* Pengasuhan; Firasat Mukmin; Profil Lulusan Ulul Albab.[^12] |
-| **P1-01-02-07** | Sintesis Epistemologi dan Kritik Internal | [**`Buka Monograf P1-01-02-07`**](./P1-01-02-07-Sintesis-Epistemologi-dan-Kritik-Internal.md) | Audit Mutu Keilmuan Bebas Kontradiksi; Uji Falsifikasi Karl Popper; Eliminasi Tirani Kasysyaf Sultanul Ulama; Uji Stres Lapangan (*Field Usability Test*); Deklarasi Kelulusan Audit Epistemologi.[^13] |
+Kehidupan pesantren 24 jam dirancang sebagai laboratorium hidup penerapan epistemologi integratif:
+* **Di Kelas Madrasah**: Ditegakkan budaya dialog sokratik, kajian dalil kritis, dan eksperimen sains berbasis tauhid.
+* **Di Asrama & Kobong**: Ditegakkan verifikasi data perilaku objektif (PBIS), etika bertutur kata santun (*Communication Adab*), dan manajemen ritme sirkadian sehat.
+* **Di Masjid Asrama**: Ditegakkan pembersihan jiwa melalui tahajjud fajar, zikir ma'tsurat, dan muhasabah keikhlasan niat.[^4]
 
 ---
 
-### 2. Deklarasi Integrasi Triadik Epistemologi: Santri, Guru, & Sistem Lembaga
+### 5. Kasuistika Lapangan: Anomali Kognisi Pesantren & Resolusi Restoratif Terpadu
 
-Epistemologi TUMBUH menegakkan pertumbuhan simbiotik pada tiga entitas utama ekosistem pesantren:
+Penyelidikan klinis mengonfirmasi bahwa penerapan Master Doktrin Epistemologi mampu mengeliminasi tradisi hafalan tanpa paham, fitnah tuduhan tanpa bukti, dan arogansi intelektual di lingkungan pesantren melalui bimbingan adab restoratif.[^5]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Arsitektur Master Doktrin Epistemologi Integratif Ekosistem TUMBUH
+
+Ekosistem TUMBUH merumuskan Master Doktrin Epistemologi dalam 4 pilar arsitektur konseptual:
 
 ```mermaid
-graph TD
-    subgraph TriadEpistemologiTUMBUH["TRIAD PERTUMBUHAN SIMBIOTIK EPISTEMOLOGIS"]
-        S["1. SANTRI TUMBUH<br/>• Pemikiran Kritis & Bebas Sesat Pikir<br/>• Hafalan Bersanad & Paham Dalil<br/>• Tangga Adab Mandiri J1-J4"]
+flowchart TD
+    subgraph MasterArsitekturEpistemologiTUMBUH["MASTER ARSITEKTUR EPISTEMOLOGI INTEGRATIF TUMBUH"]
         
-        G["2. GURU & MUSYRIF TUMBUH<br/>• Keteladanan Qudwah Hasanah Nyata<br/>• Pengasuhan Firm & Kind Tanpa Kekerasan<br/>• Terlindungi dari Burnout via Shift Terstandar"]
+        subgraph EmpatPilarKonseptual["EMPAT PILAR KONSEPTUAL MASTER DOKTRIN"]
+            E1_Induk["1. HIERARKI EMPAT SALURAN (Masyari' al-Ma'rifah)<br/>Wahyu sebagai Hakim Tertinggi, Akal sebagai Penjelas, Indera sebagai Fakta, & Qalbu sebagai Ikhlas."]
+            E2_Induk["2. SIKLUS KOGNISI EMPAT JALUR (Daurat al-Iktisab)<br/>Talaqqi Sanad, Nazhar Burhani, Tajribah 'Amaliyyah, & Tazkiyatun Nafs."]
+            E3_Induk["3. INTEGRASI TAUHIDUL HAQIQAH (The Unified Truth Tree)<br/>Manunggalnya Ayat Tanziliyyah & Kauniyyah; Filterisasi 3 Langkah Sains Barat."]
+            E4_Induk["4. MUARA AL-HIKMAH & ADAB (Phronesis & Proper Placement)<br/>Menempatkan Segala Sesuatu pada Maqamnya; Pengasuhan Firm & Kind."]
+        end
         
-        L["3. SISTEM LEMBAGA TUMBUH<br/>• Pengambilan Keputusan Berbasis Data PBIS<br/>• SOP Adil Transparan Bebas Otoritarianisme<br/>• Budaya Pembelajar Mutu Berkelanjutan"]
+        subgraph ManifestasiPraksis24Jam["MANIFESTASI PRAKSIS PESANTREN 24 JAM"]
+            O1["• Sorogan Dialogis Sokratik di Kelas."]
+            O2["• Pembuktian Disiplin Berbasis Bukti Faktual PBIS."]
+            O3["• Formasi Insan Adabi Generasi Ulul Albab."]
+        end
         
-        S <===> G
-        G <===> L
-        L <===> S
+        EmpatPilarKonseptual <===> ManifestasiPraksis24Jam
     end
 ```
+
+#### 🔬 Eksplanasi Mendalam Komponen Master Doktrin:
+1. **Harmoni Empat Saluran Pengetahuan**: Menghilangkan perselisihan semu antara ulama tekstualis, saintis empiris, dan pengamal tasawuf. Seluruh saluran diakui pada porsi dan fungsinya masing-masing di bawah kepemimpinan wahyu.[^6]
+2. **Kognisi yang Membumi (*Action-Oriented Epistemology*)**: Ilmu tidak dianggap sempurna jika hanya tersimpan di buku catatan. Ilmu wajib berbuah amal nyata yang merawat sanitasi lingkungan, memajukan teknologi, dan memuliakan sesama manusia.[^7]
+3. **Penjaminan Mutu & Desakralisasi Manajemen**: Seluruh aturan teknis asrama diakui sebagai ijtihad manusia yang wajib diaudit dan dievaluasi terus-menerus berbasis data faktual logbook PBIS.[^8]
+
+---
+
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Epistemologis Kluster (Maratib al-Idrak)
+
+Master Doktrin Epistemologi dipetakan ke dalam Empat Tingkatan Kesadaran Epistemologis Kluster (*Maratib al-Idrak al-Ma'rifiy*):
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranEpistemologiKluster["EMPAT TINGKATAN KESADARAN EPISTEMOLOGIS KLUSTER (MARATIB AL-IDRAK)"]
+        
+        K1_Epi["TINGKAT 1: KESADARAN RESEPTIF-INDRAWI (Al-Idrak al-Hissiy)<br/>• Menyimak teks wahyu & matan kitab secara teliti; mematuhi SOP tertulis asrama.<br/>• Mampu mengamati data fisik kasat mata & membedakan aturan dasar pondok."]
+        
+        K2_Epi["TINGKAT 2: KESADARAN NALAR KRITIS-BURHANI (Al-Idrak al-'Aqliy)<br/>• Mampu menalar dalil, menyusun argumen logika mantiq, & mendeteksi sesat pikir.<br/>• Memahami kaitan sains & syariat; mandiri dalam belajar & mengevaluasi strategi."]
+        
+        K3_Epi["TINGKAT 3: KESADARAN KEJERNIHAN BASHIRAH (Al-Idrak al-Qalbiy)<br/>• Qalbu terhubung dengan Muraqabatullah; memiliki empati firasah batin yang peka.<br/>• Menjaga keikhlasan niat; terbebas dari kepalsuan riya' & arogansi intelektual."]
+        
+        K4_Epi["TINGKAT 4: KESADARAN HIKMAH ULUL ALBAB (Al-Idrak al-Hakimiy)<br/>• Penyatuan paripurna: Ilmu Shahih, Amal Shalih, & Hal Shadiq dalam kepribadian utuh.<br/>• Menjadi Live Qudwah yang memancarkan wibawa adab & memimpin peradaban Islam."]
+        
+        K1_Epi ==> K2_Epi ==> K3_Epi ==> K4_Epi
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Reseptif Menuju Nalar Burhani)**: Santri mula-mula menghafal dan menyimak. Pada tingkatan kedua, santri mengaktifkan nalar kritis: mampu membedakan premis yang meyakinkan dengan premis yang cacat, serta menghubungkan teori kitab dengan realitas semesta.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Nalar Burhani Menuju Mata Hati Bashirah)**: Pada tingkatan ketiga, ilmu meresap ke dalam kalbu melalui *Tazkiyatun Nafs*. Santri memiliki kepekaan rasa (*Sense of Soul*), ikhlas saat beramal dalam kesendirian, dan penuh kasih sayang kepada sesama.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Generasi Ulul Albab)**: Pada tingkatan tertinggi, santri meraih derajat kematangan *Ulul Albab* (QS. Ali 'Imran: 190–191): ilmunya memancarkan hikmah kenabian, mengayomi umat, menyelesaikan masalah dengan adil (*Firm & Kind*), dan membawa berkah bagi peradaban dunia.[^9]
 
 ---
 
 ### 3. Standarisasi Siklus Kognisi 24 Jam: Dari Kelas Madrasah Menuju Kamar Asrama
 
-Ekosistem TUMBUH menetapkan ritme harian terpadu yang menghubungkan ranah kognitif kelas dengan ranah afektif-motorik asrama:
+Penerapan epistemologi diatur secara harmonis dalam jadwal harian santri 24 jam:
 
 ```mermaid
-pie title RITME HARIAN INTEGRASI 24 JAM SANTRI TUMBUH
-    "Kognisi Nalar Tinggi / Madrasah (07.30 - 12.00)" : 4.5
-    "Qailulah & Pemulihan Otak (13.30 - 15.00)" : 1.5
-    "Kinestetik, Sanitasi Asrama, & Fiqh Terapan (16.00 - 17.30)" : 1.5
-    "Talaqqi Qur'an, Adab, & Halaqah Malam (18.30 - 21.00)" : 2.5
-    "Tidur Sirkadian & Konsolidasi Memori (21.30 - 04.00)" : 6.5
-    "Tahajjud, Subuh Jamaah, & Dzikir Pagi (04.00 - 06.30)" : 2.5
-    "Mandi, Sarapan Bergizi, & Persiapan (06.30 - 07.30)" : 1
-    "Istirahat Makan Siang & Shalat Zhuhur (12.00 - 13.30)" : 1.5
-    "Shalat Ashar & Muhasabah Sore (15.00 - 16.00)" : 1
-    "Shalat Maghrib & Makan Malam (17.30 - 18.30)" : 1
-    "Persiapan Tidur (21.00 - 21.30)" : 0.5
+flowchart TD
+    subgraph SiklusEpistemologi24Jam["DISTRIBUSI SALURAN EPISTEMOLOGI DALAM RITME 24 JAM"]
+        
+        Fajar["04.00–06.30 (QALBU & WAHYU): Munajat Tahajjud, Subuh Berjamaah, & Tadabbur Al-Qur'an."]
+        Pagi["07.30–14.00 (AKAL & INDERA SAINS): Kelas Madrasah, Riset Laboratorium, & Mantiq Terapan."]
+        Sore["15.30–17.30 (TAJRIBAH & JASAD): Sorogan Dialogis, Olahraga Raga, & Kebersihan Asrama."]
+        Malam["18.00–21.30 (INTEGRASI & HIKMAH): Shalat Berjamaah, Muthala'ah Mandiri, & Logbook Refleksi PBIS."]
+        Istirahat["21.30–04.00 (RESTORASI BIOLOGIS): Pemulihan Saraf Otak & Jam Tidur Sirkadian (6,5–7 Jam)."]
+        
+        Fajar --> Pagi --> Sore --> Malam --> Istirahat --> Fajar
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Jadwal ini memastikan bahwa seluruh potensi ruhani, intelektual, fisik, dan emosional santri bertumbuh seimbang tanpa mengalami kejenuhan neurobiologis.[^10]
 
 ---
 
-### 1. Tabel Sintesis Kluster Epistemologi TUMBUH
+### 4. Prinsip Aksiologis & Etika Tata Kelola Keilmuan Pesantren 24 Jam
 
-| Parameter Evaluasi | Capaian Baku Kluster 02 Epistemologi TUMBUH |
-| :--- | :--- |
-| **Fondasi Teologis** | Tauhidullah & Prinsip *Tauhidul Haqiqah* (Allah SWT adalah Sumber Segala Kebenaran Hakiki). |
-| **Saluran Kognisi** | Empat Saluran Terpadu: Wahyu Mutawatir, Akal Sehat, Indera Empiris, dan Qalbu yang Suci. |
-| **Metode Didaktik** | Halaqah Interaktif 4 Tahap: Talaqqi (15m), Nazhar (25m), Tajribah (15m), dan Tazkiyah (5m). |
-| **Kriteria Validasi** | Filter Ganda: Kritik Sanad-Matan Hadits, Mantiq Burhani Bebas Fallacy, Korespondensi Data PBIS, & Dar' Ta'arudh. |
-| **Sikap Akademis** | Tawadhu' Intelektual (*Epistemic Humility*), Budaya *Laa Adri*, dan Moderasi Beragama (*Wasathiyyah*). |
-| **Pola Pengasuhan** | *Firm on Standards, Kind in Heart* (Tegas menegakkan aturan tanpa kompromi; Santun dan penuh empati tanpa kekerasan). |
-| **Profil Lulusan** | Generasi Ulul Albab / Insan Kamil: Menyatukan Dzikir Batin, Fikir Sains, Kemandirian Hidup, dan Khidmah Ummah. |
+Master Doktrin Epistemologi melahirkan prinsip etika tata kelola keilmuan:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaEpistemologiMaster["PRINSIP AKSIOLOGIS KEILMUAN PESANTREN 24 JAM"]
+        
+        T1_Induk["1. INTEGRITAS DATA & ASAS TABAYYUN (Evidence Integrity)<br/>• Mengharamkan penjatuhan sanksi atas dasar rumor, praduga, atau firasat sepihak.<br/>• Seluruh keputusan pembinaan wajib didukung data faktual logbook perilaku PBIS."]
+        
+        T2_Induk["2. DIDAKTIK MERDEKA BERPIKIR BERADAB (Adab-Driven Inquiry)<br/>• Membuka ruang dialektika kritis di kelas tanpa rasa takut disalahkan guru.<br/>• Menolak doktrin kepatuhan buta; melatih santri berargumen secara logis & santun."]
+        
+        T3_Induk["3. KEPEMIMPINAN BERBASIS QUDWAH & KHIDMAH (Servant Modeling)<br/>• Pendidik menjadi teladan hidup (Live Modeling) dalam mengamalkan ilmu yang diajarkan.<br/>• Manajemen pesantren dikelola secara transparan, akuntabel, & bebas feodalisme."]
+        
+        T1_Induk <===> T2_Induk <===> T3_Induk
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Standarisasi Pengajaran Interaktif**: Mengharamkan metode ceramah membosankan dan menggantinya dengan pembelajaran aktif (*Active Learning*).
+2. **Perlindungan Privasi Santri**: Menjaga kerahasiaan catatan konseling dan logbook perkembangan santri.
+3. **Budaya Apresiasi Keilmuan**: Mendorong budaya literasi, riset karya tulis ilmiah, dan penghargaan terhadap kreativitas santri.[^11]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Master Doktrin Epistemologi TUMBUH ini menjadi mercusuar bagi masa depan pendidikan Islam:
+
+* **Mewujudkan Generasi Emas Ulul Albab**:  
+  Dari rahim ekosistem ini lahir generasi baru yang menguasai khazanah Turats salafush shalih sekaligus mahir dalam sains mutakhir, memimpin transformasi bangsa dengan adab dan ketakwaan.
+* **Menjawab Krisis Moralitas dan Disorientasi Peradaban Modern**:  
+  Dengan menempatkan wahyu sebagai kompas nilai dan akal-indera sebagai alat eksplorasi, kemajuan teknologi diarahkan untuk kemaslahatan seluruh alam (*Rahmatan lil 'Alamin*).
+* **Meneguhkan Pesantren Sebagai Kiblat Peradaban Keilmuan Dunia**:  
+  Pesantren binaan TUMBUH tampil sebagai model institusi pendidikan masa depan yang memadukan keotentikan spiritualitas Islam dengan keunggulan riset saintifik internasional.[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Master Kluster Epistemologi
+
+| Dimensi Parameter | Pola Tradisional Terfragmentasi | Master Doktrin Epistemologi TUMBUH | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- |
+| **Sumber Ilmu** | Saintisme sekuler vs Tekstualisme kaku. | Hierarki 4 Saluran: Wahyu, Akal, Indera, Qalbu. | QS. Al-'Alaq: 1–5; Al-Attas (1995). | Integrasi wahyu, nalar kritis, & sains. |
+| **Proses Belajar** | Hafalan mekanik pasif tanpa pemahaman. | Siklus 4 Jalur: Talaqqi, Nazhar, Tajribah, Tazkiyah. | Al-Ghazali (*Ihya'*); Sweller (2011). | Sorogan dialogis sokratik & praktik nyata. |
+| **Uji Kebenaran** | Menelan kabar burung & desas-desus. | Protokol Validasi Multilapis & Tabayyun. | QS. Al-Hujurat: 6; Ibnu ash-Shalah. | Verifikasi hadits shahih & data PBIS dhohir. |
+| **Struktur Ilmu** | Dikotomi ilmu agama vs ilmu umum. | Doktrin *Tauhidul Haqiqah* & Pohon Ilmu. | QS. Fushshilat: 53; Al-Faruqi (1982). | Pembelajaran sains bertauhid & holistik. |
+| **Sikap Mental** | Arogansi epistemis & fanatik buta. | *Epistemic Humility* & Budaya *Laa Adri*. | QS. Al-Isra': 85; Imam Malik. | Rendah hati ilmiah & toleransi khilafiyyah. |
+| **Muara Akhir** | Penumpukan data angka kognitif. | **Al-Hikmah, Ta'dib, & Insan Adabi.** | QS. Al-Baqarah: 269; Al-Attas (1980). | Lulusan bijak, beradab, & pemimpin peradaban. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Attas, Syed Muhammad Naquib.** (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM.
-2. **Al-Attas, Syed Muhammad Naquib.** (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC.
-3. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad.** (2004). *Ihya' 'Ulumiddin* (4 Jilid). Kairo: Dar al-Hadits.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad.** (1997). *Al-Mustashfa min 'Ilm al-Ushul*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-5. **Al-Izz bin Abdis Salam, Abu Muhammad Abdul Aziz.** (1999). *Qawa'id al-Ahkam fi Mashalih al-Anam*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-6. **Asy-Syafi'i, Muhammad bin Idris.** (1988). *Diwan al-Imam asy-Syafi'i*. Beirut: Dar al-Kitab al-'Arabi.
-7. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa.** (2003). *Al-Muwafaqat fi Ushul asy-Syari'ah*. Kairo: Dar Ibn 'Affan.
-8. **Ibn Taimiyyah, Taqiuddin Ahmad.** (1991). *Dar' Ta'arudh al-'Aql wan-Naql*. Riyadh: Jami'ah al-Imam Muhammad bin Su'ud.
-9. **Ibnul Qayyim al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr.** (1996). *Madarij as-Salikin*. Beirut: Dar al-Kitab al-'Arabi.
-10. **Popper, Karl R.** (2002). *The Logic of Scientific Discovery*. London & New York: Routledge.
-11. **Sapolsky, Robert M.** (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
-12. **Sugai, George, & Horner, Robert H.** (2006). *"A Promising Approach for Expanding and Sustaining School-Wide Positive Behavior Support"*. *School Psychology Review*, 35(2), 245–259.
-13. **Sweller, John.** (1988). *"Cognitive Load During Problem Solving: Effects on Learning"*. *Cognitive Science*, 12(2), 257–285.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+3. **Al-Attas, Syed Muhammad Naquib**. (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (1990). *Mi'yar al-'Ilm fi Fann al-Mantiq*. Beirut: Dar al-Kutub al-'Ilmiyyah.
+6. **Ibnu Taimiyyah, Taqiyuddin Ahmad bin Abdul Halim**. (1411 H). *Dar'u Ta'arudh al-'Aql wan-Naql*. Riyadh: Jami'ah al-Imam Muhammad bin Su'ud.
+7. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa**. (1417 H). *Al-Muwafaqat fi Ushul asy-Syari'ah*. Khobar: Dar Ibn 'Affan.
+8. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+9. **Al-Faruqi, Ismail Raji**. (1982). *Islamization of Knowledge: General Principles and Work Plan*. Herndon: IIIT.
+10. **Sweller, J., Ayres, P., & Kalyuga, S.**. (2011). *Cognitive Load Theory*. New York: Springer.
+11. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+13. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Syed Muhammad Naquib Al-Attas, *Prolegomena to the Metaphysics of Islam* (Kuala Lumpur: ISTAC, 1995), hlm. 1–30.
-[^2]: Shahih Muslim, *Muqaddimah*, Bab fi Bayan an-Isnad minad Din, Juz I, hlm. 15.
-[^3]: Abu Hamid Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Mantiq* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1993), hlm. 20–40.
-[^4]: David A. Kolb, *Experiential Learning* (New Jersey: Prentice-Hall, 1984), hlm. 35–50.
-[^5]: Abu Hamid Al-Ghazali, *Ihya' 'Ulumiddin*, Kitab Syarh 'Aja'ib al-Qalb, Juz III, hlm. 19–28.
-[^6]: Robert M. Sapolsky, *Behave: The Biology of Humans at Our Best and Worst* (New York: Penguin Press, 2017), hlm. 145–160.
-[^7]: Lihat Monograf [`P1-01-02-01-Sumber-Pengetahuan.md`](./P1-01-02-01-Sumber-Pengetahuan.md).
-[^8]: Lihat Monograf [`P1-01-02-02-Proses-Memperoleh-Pengetahuan.md`](./P1-01-02-02-Proses-Memperoleh-Pengetahuan.md).
-[^9]: Lihat Monograf [`P1-01-02-03-Validasi-Pengetahuan.md`](./P1-01-02-03-Validasi-Pengetahuan.md).
-[^10]: Lihat Monograf [`P1-01-02-04-Integrasi-Pengetahuan.md`](./P1-01-02-04-Integrasi-Pengetahuan.md).
-[^11]: Lihat Monograf [`P1-01-02-05-Batas-Pengetahuan-Manusia.md`](./P1-01-02-05-Batas-Pengetahuan-Manusia.md).
-[^12]: Lihat Monograf [`P1-01-02-06-Hikmah-dan-Kebijaksanaan.md`](./P1-01-02-06-Hikmah-dan-Kebijaksanaan.md).
-[^13]: Lihat Monograf [`P1-01-02-07-Sintesis-Epistemologi-dan-Kritik-Internal.md`](./P1-01-02-07-Sintesis-Epistemologi-dan-Kritik-Internal.md).
+[^1]: Riset Master Doktrin Epistemologi Pesantren TUMBUH, *Kritik atas Fragmentasi Kognisi dan Krisis Arah Pendidikan*, 2026.  
+[^2]: Peta Integrasi Tujuh Sub-Modul Riset Kluster Epistemologi TUMBUH, 2026.  
+[^3]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 90–125; Sweller, J. (2011), *Cognitive Load Theory*, hlm. 35–62.  
+[^4]: Blueprint Standarisasi Siklus Pembelajaran dan Ritme 24 Jam Asrama TUMBUH, 2026.  
+[^5]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 20–45.  
+[^6]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 120–155.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 30–65.  
+[^8]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
+[^9]: Matriks Tingkatan Kesadaran Epistemologis Kluster (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Manajemen Ritme Sirkadian Pesantren TUMBUH, 2026.  
+[^11]: Piagam Etika Keilmuan dan Kebebasan Akademis Beradab Dewan Pakar TUMBUH, 2026.  
+[^12]: Deklarasi Transformasi Epistemologi Peradaban Islam Dewan Riset Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Terminologi Kunci Epistemologi TUMBUH
+### 4. Glosarium Istilah Ilmiah & Turats Master Epistemologi
 
-| No | Istilah / Terminologi | Asal Bahasa / Tradisi | Penjelasan Konseptual & Kontekstual |
-| :---: | :--- | :--- | :--- |
-| 1 | **Epistemologi Integratif** | Filsafat Pendidikan Islam | Teori pengetahuan yang memadukan wahyu, akal, indera, dan kalbu di bawah naungan tauhid. |
-| 2 | **Tauhidul Haqiqah** | Epistemologi Islam (*توحيد الحقيقة*) | Prinsip kesatuan kebenaran hakiki: kebenaran wahyu tanziliyyah selaras dengan kebenaran sains kauniyyah. |
-| 3 | **Firm & Kind** | Disiplin Positif Restoratif | Sikap kepengasuhan: Tegas tanpa kompromi menegakkan aturan syariat; Penuh kasih sayang dan santun dalam interaksi. |
-| 4 | **Ta'dib** | Konsep Syed Naquib Al-Attas (*تأديب*) | Proses pendidikan pembentukan adab, yaitu pengenalan dan pengakuan atas posisi hakiki segala sesuatu dalam tatanan wujud. |
-| 5 | **Dar' Ta'arudh** | Metodologi Ibn Taimiyyah (*درء التعارض*) | Algoritma penyelesaian pertentangan semu antara dalil akal dan wahyu guna membuktikan ketiadaan kontradiksi hakiki. |
-| 6 | **Ulul Albab** | Terminologi Qur'ani (*أولو الألباب*) | Cendekiawan mukmin sejati yang senantiasa berdzikir batin, berfikir sains mendalam, dan menebarkan kemaslahatan umat. |
-| 7 | **Talaqqi Musyafahah** | Tradisi Transmisi Turats (*تلقي مشافهة*) | Metode belajar tatap muka langsung berhadapan dengan guru bersanad guna menjaga akurasi lafazh dan adab keteladanan. |
-| 8 | **Tahdzib al-'Ulum** | Filsafat Islam (*تهذيب العلوم*) | Protokol penyaringan dan penyucian teori sains modern dari racun materialisme dan ateisme sekuler. |
-| 9 | **Epistemic Humility** | Filsafat Epistemologi | Tawadhu' intelektual; kesadaran jujur atas keterbatasan akal budi manusia di hadapan kemahaluasan ilmu Allah SWT. |
-| 10 | **Refleks Muraqabah** | Tasawuf & Perilaku PBIS | Kondisi otomatisasi perilaku di mana santri terbiasa beradab luhur secara spontan karena kesadaran batin diawasi Allah SWT. |
+1. **Master Doktrin Epistemologi**: Dokumen induk filosofis yang merangkum seluruh saluran sumber ilmu, metodologi kognisi, protokol validasi, integrasi keilmuan, batas akal, dan muara hikmah di pesantren 24 jam.
+2. **Masyari' al-Ma'rifah (مَشَارِعُ الْمَعْرِفَةِ)**: Empat saluran resmi pemerolehan ilmu dalam Islam: wahyu (*Al-Khabar ash-Shadiq*), akal sehat (*Al-'Aql as-Salim*), indera empiris (*Al-Hawas as-Salimah*), dan kalbu suci (*Al-Ilham / Al-Bashirah*).
+3. **Tauhidul Haqiqah (تَوْحِيدُ الْحَقِيقَةِ)**: Prinsip kesatuan kebenaran hakiki bahwa seluruh ayat tertulis (*Tanziliyyah*) dan ayat semesta (*Kauniyyah*) bersumber dari Allah SWT Yang Maha Esa.
+4. **Al-Hikmah (الْحِكْمَةُ)**: Puncak integrasi antara ilmu yang shahih, amal yang shalih, dan keikhlasan qalbu yang membuahkan kemampuan menempatkan segala sesuatu pada posisi dan porsinya yang adil (*Adab*).
+5. **Firm & Kind (Al-Hazm war-Rifq)**: Paradigma pengasuhan yang memadukan ketegasan mutlak dalam menjaga batas syariat dengan kelembutan kasih sayang dalam mendidik jiwa santri.
+6. **Talaqqi Musyafahah (التَّلَقِّي مُشَافَهَةً)**: Metode transmisi ilmu secara langsung tatap muka antara guru dan murid dengan menjaga akurasi teks dan ketersambungan sanad.
+7. **Nazhar Burhani (النَّظَرُ الْبُرْهَانِيُّ)**: Proses penalaran rasional menggunakan kaidah logika formal mantiq untuk memahami sebab-akibat dan membuktikan kebenaran secara ilmiah.
+8. **Epistemic Humility (Tawadhu' Intelektual)**: Sikap kerendahan hati ilmiah yang menyadari keterbatasan akal budi manusia di hadapan kemahaluasan ilmu Allah SWT.
+9. **Ulul Albab (أُولُو الأَلْبَابِ)**: Profil insan kamil yang dianugerahi Al-Hikmah, senantiasa berdzikir kepada Allah, produktif meneliti keteraturan semesta, dan memimpin peradaban dengan adab mulia.
+10. **Bi'ah Shalihah (بِيئَةٌ صَالِحَةٌ)**: Ekosistem lingkungan sosial, fisik, dan spiritual asrama 24 jam yang sehat, aman, bersih, dan berkeadilan syariat yang mendukung pertumbuhan fitrah santri.

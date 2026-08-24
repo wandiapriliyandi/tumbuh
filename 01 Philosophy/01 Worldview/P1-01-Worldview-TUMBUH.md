@@ -1,70 +1,71 @@
-# P1-01: WORLDVIEW ISLAM & 10 AKSIOMA FUNDAMENTAL EKOSISTEM TUMBUH
-## *Monograf Induk Domain 01: Ru'yatul Islam lil-Wujud, Sepuluh Pertanyaan Eksistensial Peradaban Pesantren, Sepuluh Aksioma Fundamental, & Piagam Konsensus Worldview TUMBUH*
+# P1-01: WORLDVIEW ISLAM & 10 AKSIOMA FUNDAMENTAL EKOSISTEM TUMBUH (MASTER DOKTRIN WORLDVIEW)
+## *Master Sub-Domain Monograph: Ru'yatul Islam lil-Wujud, Sepuluh Pertanyaan Eksistensial Peradaban Pesantren, Sepuluh Aksioma Fundamental, Serta Piagam Konsensus Worldview TUMBUH di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-01/MONOGRAF-INDUK-WORLDVIEW-TUMBUH/2026`  
-**Domain**: `01 Philosophy` > `01 Worldview`  
-**Klasifikasi Naskah**: *Domain Master Monograph* (Monograf Induk Tingkat Domain 01)  
-**Rumpun Disiplin Pengkaji**: Epistemologi Turats & Ushuluddin, Filsafat Pendidikan Islam, Sosiologi Pesantren, Kebijakan Publik & Tata Kelola Lembaga  
+**Nomor Identifikasi**: `P1-01/MASTER-MONOGRAF-WORLDVIEW-TUMBUH/2026`  
+**Domain**: `01 Philosophy` > `01 Worldview` (Master Sub-Domain Monograph)  
+**Klasifikasi Naskah**: *Master Sub-Domain Research Monograph* (Dokumen Induk Worldview)  
+**Rumpun Disiplin Pengkaji**: Epistemologi Turats & Ushuluddin, Filsafat Pendidikan Islam (Ta'dib Al-Attas), Sosiologi Pesantren, Kebijakan Publik & Tata Kelola Lembaga  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Apa Itu Worldview (*Pandangan Hidup*) TUMBUH?**  
->   Worldview adalah **Kacamata Utama** cara kita memandang santri, ilmu, dan pondok pesantren. Kita memandang santri bukan sebagai "objek yang boleh dibentak/dipukul", melainkan sebagai **Hamba Allah yang Mulia (*Karamah Insaniyyah*)** yang dititipkan untuk dibimbing dengan adab dan kasih sayang.
-> * **Tiga Prinsip Utama yang Mengubah Suasana Pondok:**  
->   1. **Santri Bertumbuh**: Fitrahnya dijaga, adabnya dibina bertahap (J1–J4), dan potensinya dilejitkan tanpa intimidasi.  
->   2. **Guru/Musyrif Bertumbuh**: Menjadi teladan adab nyata (*Qudwah Hasanah*), mendidik dengan prinsip tegas dan santun (*Firm & Kind*), serta terlindungi dari kelelahan mental (*anti-burnout*).  
->   3. **Sistem Lembaga Bertumbuh**: Mengambil keputusan berbasis data nyata (bukan gosip), bebas feodalisme, dan menjamin keadilan bagi semua santri.
-> * **Sepuluh Aksioma Inti:**  
->   Dari Tauhid sebagai sumber kebenaran absolut, kemuliaan fitrah, kepastian sunnatullah, integrasi sains-agama, hingga kepemimpinan melayani (*Servant Leadership*).
+> * **Krisis Fondasi Worldview di Lembaga Pendidikan Islam:**  
+>   Banyak problematika pengasuhan—mulai dari feodalisme senioritas, lingkungan fisik asrama yang kumuh, hingga kejenuhan tenaga pendidik—berakar pada disorientasi pandangan hidup (*worldview*). Lembaga terombang-ambing antara materialisme sekuler hafalan mekanik dan mistisisme pasif fatalistik.
+> * **Konsolidasi Master Doktrin Worldview Islam (*Ru'yatul Islam lil-Wujud*):**  
+>   TUMBUH merumuskan **Worldview Islam** yang berporos pada Tauhidullah: memandang santri sebagai hamba Allah yang membawa fitrah kesucian (*Karamah Insaniyyah*), memandang ilmu sebagai keterpaduan wahyu dan keteraturan sains semesta, serta memandang pengasuhan sebagai keteladanan kepemimpinan melayani (*Servant Leadership & Qudwah Hasanah*).
+> * **Formulasi Operasional & Dampak Triad Simbiotik:**  
+>   Monograf induk ini mengkodifikasikan Sepuluh Aksioma Fundamental, 4 Tingkatan Kesadaran Filosofis Worldview (*Maratib al-Idrak*), Piagam Konsensus Worldview TUMBUH, serta akselerasi Triad Pertumbuhan Simbiotik (Santri, Guru/Musyrif, Lembaga).
 
 ---
 
-## 📑 DAFTAR ISI MONOGRAF INDUK
+## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: ARSITEKTUR FILOSOFIS WORLDVIEW ISLAM](#bagian-i-arsitektur-filosofis-worldview-islam)
-  - [1. Prolegomena: Ru'yatul Islam lil-Wujud sebagai Fondasi Segala Kebijakan](#1-prolegomena-ruyatul-islam-lil-wujud-sebagai-fondasi-segala-kebijakan)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Ru'yatul Islam lil-Wujud sebagai Fondasi Segala Kebijakan](#1-latar-belakang-masalah-ruyatul-islam-lil-wujud-sebagai-fondasi-segala-kebijakan)
   - [2. Sepuluh Pertanyaan Eksistensial-Filosofis Peradaban Pesantren](#2-sepuluh-pertanyaan-eksistensial-filosofis-peradaban-pesantren)
   - [3. Triad Pertumbuhan Simbiotik: Santri, Guru/Musyrif, dan Sistem Lembaga](#3-triad-pertumbuhan-simbiotik-santri-gurumusyrif-dan-sistem-lembaga)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Sepuluh Aksioma Fundamental (*First Principles*) Ekosistem TUMBUH](#1-sepuluh-aksioma-fundamental-first-principles-ekosistem-tumbuh)
-  - [2. Rantai Kausalitas Paradigmatis: Dari Worldview Menuju 11 Domain Operasional](#2-rantai-kausalitas-paradigmatis-dari-worldview-menuju-11-domain-operasional)
-  - [3. Piagam Worldview Ekosistem TUMBUH Pesantren (Deklarasi Konsensus Resmi)](#3-piagam-worldview-ekosistem-tumbuh-pesantren-deklarasi-konsensus-resmi)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Domain 01 Worldview TUMBUH](#1-tabel-sintesis-domain-01-worldview-tumbuh)
+  - [4. Rekayasa Kausalitas Worldview dalam Ekosistem Asrama 24 Jam](#4-rekayasa-kausalitas-worldview-dalam-ekosistem-asrama-24-jam)
+  - [5. Kasuistika Lapangan: Anomali Disorientasi Worldview & Resolusi Restoratif](#5-kasuistika-lapangan-anomali-disorientasi-worldview--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Sepuluh Aksioma Fundamental (First Principles) Ekosistem TUMBUH](#1-eksplanasi-sepuluh-aksioma-fundamental-first-principles-ekosistem-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Worldview (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-worldview-maratib-al-idrak)
+  - [3. Rantai Kausalitas Paradigmatis: Dari Worldview Menuju Praksis Asrama 24 Jam](#3-rantai-kausalitas-paradigmatis-dari-worldview-menuju-praksis-asrama-24-jam)
+  - [4. Piagam Worldview Ekosistem TUMBUH Pesantren (Deklarasi Konsensus Resmi)](#4-piagam-worldview-ekosistem-tumbuh-pesantren-deklarasi-konsensus-resmi)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Domain Worldview TUMBUH](#1-tabel-sintesis-temuan-riset-domain-worldview-tumbuh)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Istilah Kunci Worldview TUMBUH](#4-glosarium-istilah-kunci-worldview-tumbuh)
+  - [4. Glosarium Istilah Ilmiah & Turats Worldview TUMBUH](#4-glosarium-istilah-ilmiah--turats-worldview-tumbuh)
 
 ---
 
-# BAGIAN I: ARSITEKTUR FILOSOFIS WORLDVIEW ISLAM
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Prolegomena: Ru'yatul Islam lil-Wujud sebagai Fondasi Segala Kebijakan
+### 1. Latar Belakang Masalah: Ru'yatul Islam lil-Wujud sebagai Fondasi Segala Kebijakan
 
-Setiap peradaban, sistem peradilan, dan institusi pendidikan selalu bermula dari sebuah pandangan hidup (*Worldview / Weltanschauung*). Prof. Dr. **Syed Muhammad Naquib Al-Attas** mendefinisikan Worldview Islam (*Ru'yatul Islam lil-Wujud*) sebagai:
+Setiap peradaban, sistem peradilan, dan model pendidikan karakter selalu bermula dari sebuah pandangan hidup (*Worldview / Weltanschauung*). Prof. Dr. **Syed Muhammad Naquib Al-Attas** mendefinisikan Worldview Islam (*Ru'yatul Islam lil-Wujud*) sebagai:
 
 > *"Pandangan tentang hakikat wujud dan kebenaran yang diproyeksikan oleh kalbu dan akal budi kaum beriman melalui perantara wahyu ilahi."*[^1]
 
-Ekosistem TUMBUH menolak mengimpor asumsi-asumsi sekuler yang menceraikan pendidikan dari Tuhan. Worldview Islam menempatkan **Tauhidullah** sebagai poros sentral yang menyinari seluruh dimensi:
+Ekosistem TUMBUH menolak mengimpor asumsi sekuler yang menceraikan pendidikan dari Tuhan. Worldview Islam menempatkan **Tauhidullah** sebagai poros sentral yang menyinari seluruh dimensi:
 * Memandang santri sebagai hamba Allah berfitrah suci dan bermartabat mulia (*Karamah Insaniyyah*).
 * Memandang ilmu sebagai amanah ibadah yang memadukan wahyu tanziliyyah dan sains kauniyyah.
 * Memandang musyrif sebagai pembimbing beradab yang memimpin dengan keteladanan (*Qudwah Hasanah*).
-* Memandang pesantren sebagai miniatur peradaban Islam yang adil, aman, dan memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).
+* Memandang pesantren sebagai miniatur peradaban Islam yang adil, aman, dan memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).[^2]
 
 ```mermaid
 flowchart TD
     subgraph PohonWorldviewTUMBUH["POHON PERADABAN EKOSISTEM TUMBUH"]
-        Akar["1. AKAR POKOK: WORLDVIEW ISLAM & 10 AKSIOMA FUNDAMENTAL"]
-        Batang["2. BATANG UTAMA: TRIAD PERTUMBUHAN SIMBIOTIK (Santri - Guru - Lembaga)"]
-        Cabang["3. CABANG PRINSIP: Kemuliaan Fitrah, Qudwah First, Firm & Kind, PBIS Multi-Tier, Tadarruj"]
-        Ranting["4. RANTING KURIKULUM: 10 Muwashafat Karakter & Jenjang Kemandirian TUMBUH (J1–J4) J1-J4"]
-        Buah["5. BUAH MANIS: INSAN ADABI / GENERASI ULUL ALBAB (Shalih, Mandiri, & Berkah)"]
+        Akar["AKAR: Tauhidullah & Aqidah Ahlussunnah wal Jama'ah"]
+        Batang["BATANG: Adab Nabawi, Tazkiyatun Nafs, & Servant Leadership"]
+        Cabang["CABANG: 11 Domain Ekosistem (Arsitektur, Kapasitas, Pengasuhan, PBIS)"]
+        Buah["BUAH: Insan Adabi Kamil & Bi'ah Shalihah 24 Jam Penuh Berkah"]
         
-        Akar ==> Batang ==> Cabang ==> Ranting ==> Buah
+        Akar --> Batang --> Cabang --> Buah
     end
 ```
 
@@ -72,162 +73,205 @@ flowchart TD
 
 ### 2. Sepuluh Pertanyaan Eksistensial-Filosofis Peradaban Pesantren
 
-Sebelum merumuskan SOP teknis atau aplikasi digital, Ekosistem TUMBUH menjawab sepuluh pertanyaan eksistensial dasar:
-
-| No | Dimensi Filosofis | Pertanyaan Eksistensial Kunci | Jawaban Paradigmatis TUMBUH |
-| :---: | :--- | :--- | :--- |
-| **1** | **Ontologi** | *Apa hakikat realitas yang sebenarnya?* | Realitas objektif ciptaan Allah: keterpaduan alam mulk dan alam malakut.[^2] |
-| **2** | **Antropologi** | *Siapa manusia dan bagaimana strukturnya?* | Hamba Allah berfitrah mulia dengan struktur Ruh, Qalb, Aql, dan Nafs.[^3] |
-| **3** | **Teleologi** | *Mengapa manusia diciptakan di bumi?* | Untuk beribadah murni (*'Ibadatullah*) dan memakmurkan bumi (*'Imaratul Ardh*).[^4] |
-| **4** | **Aksiologi** | *Apa sumber nilai dan standar moral tertinggi?* | Syariat Allah yang bersumber dari Al-Qur'an, Sunnah, dan Maqashid Syari'ah.[^5] |
-| **5** | **Epistemologi** | *Bagaimana manusia meraih kebenaran yang sah?* | Integrasi 4 saluran: Wahyu sharih, Akal sehat, Indera empiris, dan Qalbu suci.[^6] |
-| **6** | **Pedagogi** | *Apa hakikat sejati pendidikan Islam?* | *Ta'dib* holistik: penanaman adab 24 jam menyatukan ta'lim akal & tarbiyah raga.[^7] |
-| **7** | **Dinamika Perubahan** | *Bagaimana transformasi karakter terjadi?* | Sunnatullah Taghyir, proses Tadarruj bertahap, dan pembiasaan adab konsisten.[^8] |
-| **8** | **Etika Penertiban** | *Bagaimana menangani kesalahan santri?* | Disiplin Restoratif (*Firm & Kind*), konsekuensi logis, dan *Ishlah al-Bain*.[^9] |
-| **9** | **Kepemimpinan** | *Apa hakikat kepemimpinan di pesantren?* | Keteladanan *Qudwah First* dan kepemimpinan pelayan (*Sayyidul Qawmi Khadimuhum*).[^10] |
-| **10** | **Tujuan Akhir** | *Apa tolok ukur keberhasilan lulusan pondok?* | Menjadi Insan Kamil yang bertakwa, mandiri, beradab, dan *Nafi'un Lighairihi*.[^11] |
+Worldview TUMBUH memberikan jawaban ontologis dan epistemologis atas 10 pertanyaan eksistensial:
+1. *Siapakah Sumber Segala Wujud?* **Allah SWT: Al-Haqq, Pencipta Tunggal semesta.**
+2. *Apakah Hakikat Alam Semesta?* **Dualitas Terpadu: 'Alam Mulk (Fisik) & 'Alam Malakut (Batin).**
+3. *Siapakah Manusia?* **Hamba Allah (*'Abd*) & Khalifah yang membawa fitrah kemuliaan.**
+4. *Apa Hakikat Pengetahuan?* **Cahaya Kebenaran Ilahi (*Tauhidul Haqiqah*) yang memandu adab.**
+5. *Bagaimana Kebenaran Divalidasi?* **Protokol Multilapis: Wahyu, Nalar Mantiq, & Bukti Empiris.**
+6. *Apa Tujuan Tertinggi Pendidikan?* **Ta'dib: Membentuk Insan Adabi Berperadaban.**
+7. *Bagaimana Pembinaan Karakter Berjalan?* **Disiplin Restoratif PBIS (*Firm & Kind*), menolak kekerasan.**
+8. *Bagaimana Relasi Pendidik-Santri?* **Keteladanan Hidup (*Qudwah Hasanah*) & Pelayanan (*Khidmah*).**
+9. *Bagaimana Siklus Hidup Asrama?* **Bi'ah Shalihah 24 Jam yang Sehat, Bersih, & Ramah Saraf.**
+10. *Ke Mana Muara Akhir Kehidupan?* **Pertanggungjawaban Hisab Mutlak di Akhirat (*Ma'ad*).**[^3]
 
 ---
 
 ### 3. Triad Pertumbuhan Simbiotik: Santri, Guru/Musyrif, dan Sistem Lembaga
 
-Ekosistem TUMBUH menolak paradigma pendidikan tradisional yang mengorbankan guru demi murid, atau menindas santri demi nama baik lembaga. Seluruh subsistem wajib bertumbuh serempak:
+Ekosistem TUMBUH menolak pola pembinaan yang mengorbankan salah satu pihak (*Zero-Sum Game*). Seluruh inovasi wajib mewujudkan **Triad Pertumbuhan Simbiotik**:
 
 ```mermaid
-graph TD
-    subgraph TriadPertumbuhanTUMBUH["TRIAD PERTUMBUHAN SIMBIOTIK PESANTREN"]
-        S["1. SANTRI TUMBUH<br/>• Terlindungi dari perpeloncoan senioritas<br/>• Tangga adab mandiri J1-J4 tercapai<br/>• Kecerdasan nalar sains & keikhlasan batin"]
+flowchart TD
+    subgraph TriadPertumbuhan["TRIAD PERTUMBUHAN SIMBIOTIK EKOSISTEM TUMBUH"]
+        Santri["1. SANTRI BERTUMBUH<br/>Fitrah terlindungi, adab terinternalisasi, & otonomi moral berkembang tanpa trauma."]
+        Guru["2. GURU & MUSYRIF BERTUMBUH<br/>Kompetensi pedagogi meningkat, menjadi Live Qudwah, & terlindungi dari burnout."]
+        Lembaga["3. SISTEM LEMBAGA BERTUMBUH<br/>Tata kelola berbasis data PBIS, SOP akuntabel, bebas feodalisme, & unggul global."]
         
-        G["2. GURU & MUSYRIF TUMBUH<br/>• Kompetensi pedagogi master meningkat<br/>• Pengasuhan penuh cinta Firm & Kind<br/>• Terlindungi dari burnout & beban berlebih"]
-        
-        L["3. SISTEM LEMBAGA TUMBUH<br/>• Tata kelola transparan berbasis data PBIS<br/>• Bebas dari feodalisme & nepotisme<br/>• Organisasi pembelajar mutu berkelanjutan"]
-        
-        S <===> G
-        G <===> L
-        L <===> S
+        Santri <===> Guru
+        Guru <===> Lembaga
+        Lembaga <===> Santri
     end
 ```
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 4. Rekayasa Kausalitas Worldview dalam Ekosistem Asrama 24 Jam
+
+Worldview bukan sekadar filsafat abstrak, melainkan cetak biru arsitektur tata kelola 24 jam:
+* Menentukan denah ventilasi dan sanitasi kobong asrama berlandaskan fiqh *Hifzh an-Nafs*.
+* Menentukan penghapusan sanksi fisik rotan berlandaskan *Aksioma Kemuliaan Fitrah*.
+* Menentukan digitalisasi logbook perilaku berlandaskan *Aksioma Keadilan Hisab*.[^4]
 
 ---
 
-### 1. Sepuluh Aksioma Fundamental (*First Principles*) Ekosistem TUMBUH
+### 5. Kasuistika Lapangan: Anomali Disorientasi Worldview & Resolusi Restoratif
 
-1. **Aksioma 1 (Sumber Kebenaran Absolut)**: Allah SWT adalah *Al-Haqq*—sumber tunggal seluruh kebenaran objektif. Nilai kebaikan dan keadilan tidak ditentukan oleh opini tren mayoritas sekuler.[^12]
-2. **Aksioma 2 (Kemuliaan Fitrah & Martabat Insan)**: Santri dilahirkan di atas kesucian fitrah primordial (*Fitrah al-Munazzalah*), membawa potensi tauhid yang wajib dimuliakan (*Karamah Insaniyyah* - QS. 17:70).[^13]
-3. **Aksioma 3 (Ketergantungan Kontingen Makhluk)**: Manusia dan alam semesta bersifat fakir secara ontologis (*Mumkin al-Wujud*), bergantung sepenuhnya pada rahmat dan pemeliharaan Allah SWT.[^14]
-4. **Aksioma 4 (Kepastian Sunnatullah Kausalitas)**: Allah menetapkan hukum sebab-akibat yang teratur dan pasti di alam fisik (*Kauniyyah*) maupun alam moral-sosial (*Syar'iyyah*).[^15]
-5. **Aksioma 5 (Integrasi Tauhidul Haqiqah)**: Tiada pertentangan hakiki antara sains empiris dengan wahyu ilahi; seluruh ilmu yang sahih menyatu di bawah naungan Tauhid.[^16]
-6. **Aksioma 6 (Puncak Adab & Ta'dib)**: Adab adalah manifestasi keadilan menempatkan segala sesuatu pada maqamnya yang tepat (*Putting things in their proper places*).[^17]
-7. **Aksioma 7 (Gradualisme Tadarruj)**: Transformasi karakter manusia tunduk pada hukum pentahapan; keistiqamahan amal berkelanjutan lebih mulia daripada lonjakan sesaat.[^18]
-8. **Aksioma 8 (Keadilan Disiplin Restoratif)**: Pelanggaran santri adalah peluang tarbiyah; penegakan hukum wajib bersifat *Firm & Kind* demi memulihkan ukhuwah (*Ishlah al-Bain*).[^19]
-9. **Aksioma 9 (Keteladanan Qudwah Hasanah)**: Bahasa perbuatan (*Lisanul Hal*) jauh lebih fasih daripada seribu ceramah lisan; asatidz wajib mengamalkan adab sebelum menuntutnya dari santri.[^20]
-10. **Aksioma 10 (Akuntabilitas Khilafah)**: Seluruh santri, guru, dan pengurus memikul amanah pertanggungjawaban di hadapan Mahkamah Allah SWT demi kemaslahatan semesta alam (*Rahmatan lil 'Alamin*).[^21]
+* **Studi Kasus: Normalisasi Perpeloncoan Senioritas Berkedok "Tradisi Khidmah"**  
+  * **Dilema**: Santri senior memaksa santri junior mencuci pakaian dan memijat mereka hingga larut malam, berdalih mengajarkan "adab khidmah dan ketundukan".
+  * **Analisis Worldview**: Tindakan ini merupakan distorsi feodalistik yang merusak fitrah kemuliaan insan dan melanggar hakikat kehambaan kesetaraan manusia di hadapan Allah.
+  * **Resolusi Restoratif TUMBUH**: Pimpinan dewan kiai membubarkan tradisi perpeloncoan; mendeklarasikan kesetaraan martabat santri; dan mengalihkan peran senior menjadi mentor pelindung adik kelas (*Qudwah Hasanah*). Terwujud iklim ukhuwah yang hangat dan bermartabat.[^5]
 
 ---
 
-### 2. Rantai Kausalitas Paradigmatis: Dari Worldview Menuju 11 Domain Operasional
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Sepuluh Aksioma Fundamental (First Principles) Ekosistem TUMBUH
+
+Ekosistem TUMBUH mengkodifikasikan **Sepuluh Aksioma Fundamental Worldview**:
+
+| No | Aksioma Fundamental | Landasan Teologis & Turats | Definisi Konseptual & Implikasi Aksiologis |
+| :---: | :--- | :--- | :--- |
+| **1** | **Tauhidullah (Ketuhanan Mutlak)** | QS. Luqman: 30; *Ihya'* Al-Ghazali. | Allah adalah Sumber Segala Wujud; seluruh amal diniatkan lillahi ta'ala. |
+| **2** | **Karamah Insaniyyah (Kemuliaan Fitrah)** | QS. At-Tin: 4; *The Concept of Education*. | Setiap santri membawa fitrah kesucian; kebijakan *Zero-Stigmatization*. |
+| **3** | **Sunnatullah Kausalitas Semesta** | QS. Al-Ahzab: 62; *Al-Muwafaqat*. | Hukum alam fisik & syariat moral bekerja konstan; wajib ikhtiar ilmiah. |
+| **4** | **Tauhidul Haqiqah (Integrasi Ilmu)** | QS. Fushshilat: 53; *Prolegomena*. | Harmoni ayat Tanziliyyah & Kauniyyah; menolak dikotomi agama vs sains. |
+| **5** | **Ta'dib sebagai Muara Pendidikan** | HR. Al-Bukhari; *Adab al-'Alim*. | Pembentukan Insan Adabi yang meletakkan segala sesuatu pada maqamnya. |
+| **6** | **Disiplin Restoratif (Firm & Kind)** | QS. Asy-Syura: 40; *Positive Discipline*. | Tegas pada aturan moral, lembut pada jiwa; mengharamkan sanksi fisik. |
+| **7** | **Kepemimpinan Qudwah & Khidmah** | HR. Muslim No. 2581; *Adab an-Nufus*. | Pendidik memimpin dengan keteladanan nyata & melayani (*Servant Leadership*). |
+| **8** | **Triad Pertumbuhan Simbiotik** | QS. Al-Ma'idah: 2; *SW-PBIS Framework*. | Pembinaan wajib menumbuhkan Santri, Guru, dan Lembaga secara serempak. |
+| **9** | **Bi'ah Shalihah 24 Jam** | QS. Al-Baqarah: 222; *Allostatic Load*. | Asrama ditata sehat, higienis, aman, dan ramah neurobiologis. |
+| **10**| **Akuntabilitas Hisab Akhirat** | QS. Az-Zalzalah: 7–8; *Al-Ibanah*. | Setiap amal dihisab adil; tata kelola berbasis data transparan tanpa impunitas. |
+
+---
+
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Worldview (Maratib al-Idrak)
+
+Transformasi kedewasaan pandangan hidup santri dan warga pesantren berlangsung melalui **Empat Tingkatan Kesadaran Worldview (*Maratib al-Idrak al-Kulliy*)**:
 
 ```mermaid
-graph TD
-    WV["DOMAIN 01: WORLDVIEW ISLAM (Ru'yatul Islam lil-Wujud)"]
-    
-    WV --> D02["02 PRINCIPLES: 7 Prinsip Inti Konstitusi Pembinaan"]
-    WV --> D03["03 CAPACITY: 10 Muwashafat Karakter Santri"]
-    WV --> D04["04 PROGRESSION: Jenjang Kemandirian TUMBUH (J1–J4) J1-J4 & 7 Tahap Kontinuum"]
-    WV --> D05["05 ASSESSMENT: Asesmen Pertumbuhan Ipsatif Berbasis Bukti"]
-    WV --> D06["06 INTERVENTION: Manual SW-PBIS Multi-Tier 1-3 & Restoratif"]
-    WV --> D07["07 IMPLEMENTATION: SOP Dual-Pillar & Manajemen Asrama 24 Jam"]
-    WV --> D08["08 INTEGRATED: Penyelarasan Total Madrasah-Asrama"]
-    WV --> D09["09 PROGRAMS: Jadwal Ritme Kehidupan & Halaqah Adab"]
-    WV --> D10["10 METHODS: Didaktik Sorogan Interaktif & Mentoring"]
-    WV --> D11["11 TOOLS: Logbook Digital PBIS & Dashboard Analitik"]
+flowchart TD
+    subgraph TingkatanKesadaranWorldviewInduk["EMPAT TINGKATAN KESADARAN WORLDVIEW (MARATIB AL-IDRAK)"]
+        
+        W1_Induk["TINGKAT 1: KESADARAN FORMAL-LEGALISTIK (Al-Idrak azh-Zhahiriy)<br/>• Memahami aturan pondok secara harfiah; tertib menjalankan jadwal harian.<br/>• Mematuhi batasan lahiriah; termotivasi oleh aturan tertulis asrama."]
+        
+        W2_Induk["TINGKAT 2: KESADARAN RASIONAL-KAUSALITAS (Al-Idrak al-'Aqliy)<br/>• Memahami hikmah di balik aturan; menyadari relasi ikhtiar, sains, & prestasi.<br/>• Menolak fatalisme; mandiri dalam menyusun strategi hidup & belajar."]
+        
+        W3_Induk["TINGKAT 3: KESADARAN INTEGRITAS RUHANI (Al-Idrak al-Qalbiy)<br/>• Menghayati kehadiran Allah (Muraqabah); memuliakan martabat sesama kawan.<br/>• Mengawal niat ikhlas; beradab dan jujur tanpa perlu pengawasan lahiriah musyrif."]
+        
+        W4_Induk["TINGKAT 4: KESADARAN KEPEMIMPINAN PERADABAN (Al-Idrak al-Hadharat)<br/>• Penyatuan paripurna: memancarkan wibawa Insan Adabi & keteladanan kenabian.<br/>• Menjadi agen perubahan peradaban yang memimpin umat dengan kasih sayang & keadilan."]
+        
+        W1_Induk ==> W2_Induk ==> W3_Induk ==> W4_Induk
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Legalistik Menuju Nalar Kausalitas)**: Santri baru mula-mula patuh pada tata tertib lahiriah. Pada tingkatan kedua, santri memahami worldview di balik aturan: santri menyadari bahwa menjaga kebersihan kamar dan waktu tidur adalah amanah syariat memuliakan raga.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Nalar Menuju Pengawalan Batin Muraqabah)**: Pada tingkatan ketiga, worldview meresap ke dalam kalbu: santri memiliki radar moral internal, tidak lagi membutuhkan ancaman hukuman untuk berbuat baik, dan memperlakukan kawannya dengan penuh cinta kasih.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Pemimpin Peradaban)**: Pada tingkatan tertinggi, santri tampil sebagai *Insan Adabi*: kepribadiannya memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*), berwibawa, tangguh menghadapi zaman, dan memimpin peradaban Islam di pentas dunia.[^6]
+
+---
+
+### 3. Rantai Kausalitas Paradigmatis: Dari Worldview Menuju Praksis Asrama 24 Jam
+
+Worldview Islam mendasari seluruh operasionalisasi 11 domain ekosistem TUMBUH:
+* *Domain 01 Philosophy* menyediakan landasan ontologi dan epistemologi.
+* *Domain 02 Institutional Architecture* merancang wadah tata ruang asrama 24 jam.
+* *Domain 03 Capacity Framework* merumuskan taksonomi 10 kapasitas insan.
+* *Domain 04–11 Praksis Lapangan* menjalankan pendampingan harian, logbook digital, dan keadilan restoratif.[^7]
+
+---
+
+### 4. Piagam Worldview Ekosistem TUMBUH Pesantren (Deklarasi Konsensus Resmi)
+
+Ekosistem TUMBUH menetapkan **Piagam Konsensus Worldview Resmi**:
+
+```mermaid
+flowchart TD
+    subgraph PiagamWorldviewTUMBUH["PIAGAM KONSENSUS WORLDVIEW EKOSISTEM TUMBUH"]
+        
+        DK1["1. KOMITMEN KEMULIAAN FITRAH (Zero Abuse Commitment)<br/>Pesantren adalah zona suci perlindungan martabat anak; mengharamkan kekerasan fisik & verbal."]
+        
+        DK2["2. KOMITMEN INTEGRASI SAINS & WAHYU (Tawhidic Epistemology)<br/>Pesantren mengajarkan sains modern & turats klasik dalam satu kesatuan pohon ilmu yang utuh."]
+        
+        DK3["3. KOMITMEN KETELADANAN KEPEMIMPINAN (Servant Leadership)<br/>Musyrif & asatidz memimpin dengan akhlak mulia (Qudwah Hasanah) & melindungi kesejahteraan warga pondok."]
+        
+        DK1 <===> DK2 <===> DK3
+    end
 ```
 
 ---
 
-### 3. Piagam Worldview Ekosistem TUMBUH Pesantren (Deklarasi Konsensus Resmi)
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-> **"Bismillaahir Rahmaanir Rahiim.**  
-> **Dengan memohon pertolongan, taufiq, dan ridha Allah Subhanahu wa Ta'ala, seluruh pimpinan, asatidz, musyrif, dan pengelola Ekosistem Pesantren TUMBUH berikrar menegakkan seluruh proses pengasuhan dan pendidikan santri di atas fondasi Worldview Tauhid:**  
-> **1. Memuliakan kemuliaan fitrah dan martabat santri sebagai amanah Ilahi yang suci;**  
-> **2. Mengharamkan segala bentuk kekerasan fisik, intimidasi verbal, dan perpeloncoan feodalisme;**  
-> **3. Meneladankan akhlak nabawi (Qudwah Hasanah) dan mendisiplinkan dengan prinsip Firm & Kind;**  
-> **4. Menyatukan sains empiris dan turats Islam di bawah panji Tauhidul Haqiqah;**  
-> **5. Melahirkan Generasi Ulul Albab / Insan Kamil yang berdzikir batin, berfikir sains mendalam, mandiri, dan menebarkan rahmat bagi seluruh alam semesta."**[^22]
+Worldview Islam yang kokoh ini mengukuhkan transformasi peradaban pesantren:
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+* **Membangun Lembaga Pendidikan Berdaya Tahan Abadi**:  
+  Sistem yang berdiri di atas fondasi aksioma tauhid yang swabukti (*Badihiyyat*) tidak akan goyah oleh pergantian zaman atau tren sekuler sesaat.
+* **Menyelesaikan Paradoks Modernitas dan Spiritualitas**:  
+  TUMBUH membuktikan bahwa kemajuan fasilitas modern, manajemen data PBIS, dan arsitektur sehat justru memperkuat kekhusyukan ibadah dan kesucian ruhani santri.
+* **Melahirkan Generasi Pembaharu Peradaban Islam (*Mujaddid*)**:  
+  Dari rahim worldview ini lahir para ulama, cendekiawan, dan pemimpin masa depan yang memadukan keotentikan sanad salafush shalih dengan keunggulan inovasi global.[^8]
 
 ---
 
-### 1. Tabel Sintesis Domain 01 Worldview TUMBUH
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
-| Kluster Keilmuan | Jumlah Monograf | Status Penyelesaian | Dokumen Induk & Tautan |
-| :---: | :---: | :---: | :--- |
-| **01 Hakikat Realitas** | 6 Naskah Khusus + 1 Induk | **100% Selesai & Valid** | [**`P1-01-01 Hakikat Realitas`**](./01%20Hakikat%20Realitas/P1-01-01-Hakikat-Realitas.md) |
-| **02 Epistemologi TUMBUH** | 7 Naskah Khusus + 1 Induk | **100% Selesai & Valid** | [**`P1-01-02 Epistemologi TUMBUH`**](./02%20Epistemologi%20TUMBUH/P1-01-02-Epistemologi-TUMBUH.md) |
-| **Master Worldview** | 1 Monograf Induk Domain | **100% Selesai & Sah** | [**`P1-01 Worldview TUMBUH`**](./P1-01-Worldview-TUMBUH.md) |
+---
+
+### 1. Tabel Sintesis Temuan Riset Domain Worldview TUMBUH
+
+| Dimensi Parameter | Paradigma Konvensional Terfragmentasi | Master Doktrin Worldview TUMBUH | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pandangan Santri**| Objek disiplin yang boleh dihukum fisik. | Hamba Allah Mulia (*Karamah Insaniyyah*). | QS. At-Tin: 4; Al-Attas (1980). | Kebijakan *Zero-Violence* & Restoratif. |
+| **Pandangan Ilmu** | Terbelah: ilmu agama vs ilmu umum. | Kesatuan Kebenaran (*Tauhidul Haqiqah*). | QS. Fushshilat: 53; Al-Faruqi (1982). | Kurikulum sains bertauhid & holistik. |
+| **Pola Pengasuhan** | Feodalisme senioritas & hukuman rotan. | Keteladanan Melayani (*Live Qudwah*). | HR. Muslim No. 2581; Sapolsky (2017). | Musyrif mengayomi; santri saling melindungi. |
+| **Tata Kelola Fisik**| Lingkungan kumuh dinormalisasi "tirakat".| Ekosistem Sehat Ramah Neurobiologis. | QS. Al-Baqarah: 222; McEwen (2007). | Standarisasi ventilasi, sanitasi, & gizi sehat. |
+| **Muara Akhir** | Nilai hafalan kognitif tanpa adab. | **Insan Adabi Generasi Ulul Albab.** | QS. Ali 'Imran: 190–191; Al-Ghazali. | Lulusan bertakwa, cerdas, & pemimpin umat. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Attas, Syed Muhammad Naquib.** (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM.
-2. **Al-Attas, Syed Muhammad Naquib.** (1995). *Prolegomena to the Metaphysics of Islam: An Exposition of the Fundamental Elements of the Worldview of Islam*. Kuala Lumpur: ISTAC.
-3. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad.** (2004). *Ihya' 'Ulumiddin* (4 Jilid). Kairo: Dar al-Hadits.
-4. **Al-Maturidi, Abu Mansur Muhammad bin Muhammad.** (2003). *Kitab at-Tawhid*. Beirut: Dar Shadir.
-5. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa.** (2003). *Al-Muwafaqat fi Ushul asy-Syari'ah* (4 Jilid). Kairo: Dar Ibn 'Affan.
-6. **Ibn Taimiyyah, Taqiuddin Ahmad.** (1991). *Dar' Ta'arudh al-'Aql wan-Naql* (11 Jilid). Riyadh: Jami'ah al-Imam Muhammad bin Su'ud.
-7. **Ibnul Qayyim al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr.** (1996). *Madarij as-Salikin* (3 Jilid). Beirut: Dar al-Kitab al-'Arabi.
-8. **Nasr, Seyyed Hossein.** (1997). *Man and Nature: The Spiritual Crisis in Modern Man*. Chicago: Kazi Publications.
-9. **Sapolsky, Robert M.** (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
-10. **Sugai, George, & Horner, Robert H.** (2006). *"A Promising Approach for Expanding and Sustaining School-Wide Positive Behavior Support"*. *School Psychology Review*, 35(2), 245–259.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+3. **Al-Attas, Syed Muhammad Naquib**. (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+5. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa**. (1417 H). *Al-Muwafaqat fi Ushul asy-Syari'ah*. Khobar: Dar Ibn 'Affan.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Faruqi, Ismail Raji**. (1982). *Islamization of Knowledge: General Principles and Work Plan*. Herndon: IIIT.
+8. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+9. **McEwen, B. S.**. (2007). *Physiology and neurobiology of stress and adaptation: central role of the brain*. Physiological Reviews, 87(3), 873–904.
+10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+11. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+12. **Deci, E. L., & Ryan, R. M.**. (2000). *The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior*. Psychological Inquiry, 11(4), 227–268.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Syed Muhammad Naquib Al-Attas, *Prolegomena to the Metaphysics of Islam* (Kuala Lumpur: ISTAC, 1995), hlm. 1–15.
-[^2]: Lihat Monograf Induk [`P1-01-01-Hakikat-Realitas.md`](./01%20Hakikat%20Realitas/P1-01-01-Hakikat-Realitas.md).
-[^3]: Syed Muhammad Naquib Al-Attas, *The Nature of Man and the Psychology of the Human Soul* (Kuala Lumpur: ISTAC, 1990), hlm. 1–25.
-[^4]: Al-Qur'an al-Karim, Surah Adz-Dzariyat [51]: 56 dan Surah Hud [11]: 61.
-[^5]: Abu Ishaq Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah* (Kairo: Dar Ibn 'Affan, 2003), Juz II, hlm. 8–15.
-[^6]: Lihat Monograf Induk [`P1-01-02-Epistemologi-TUMBUH.md`](./02%20Epistemologi%20TUMBUH/P1-01-02-Epistemologi-TUMBUH.md).
-[^7]: Syed Muhammad Naquib Al-Attas, *The Concept of Education in Islam* (Kuala Lumpur: ABIM, 1980), hlm. 21–35.
-[^8]: Al-Qur'an al-Karim, Surah Ar-Ra'd [13]: 11; Robert M. Sapolsky, *Behave: The Biology of Humans at Our Best and Worst* (New York: Penguin Press, 2017), hlm. 145–160.
-[^9]: Jane Nelsen, *Positive Discipline* (New York: Ballantine Books, 2006), hlm. 15–35; George Sugai & Robert H. Horner, "A Promising Approach for Expanding and Sustaining School-Wide Positive Behavior Support", *School Psychology Review*, Vol. 35, No. 2 (2006), hlm. 245–259.
-[^10]: Sunan Ibni Majah, *Kitab az-Zuhd*, No. 4172; Burhanul Islam Az-Zarnuji, *Ta'lim al-Muta'allim*, hlm. 18–25.
-[^11]: Al-Qur'an al-Karim, Surah Ali 'Imran [3]: 191; Syed Muhammad Naquib Al-Attas, *ibid.*
-[^12]: Al-Qur'an al-Karim, Surah Al-Hajj [22]: 6; Abu Mansur Al-Maturidi, *Kitab at-Tawhid*, hlm. 15–30.
-[^13]: Al-Qur'an al-Karim, Surah Ar-Rum [30]: 30 dan Surah Al-Isra' [17]: 70.
-[^14]: Al-Qur'an al-Karim, Surah Fathir [35]: 15; Abu Hamid Al-Ghazali, *Ihya' 'Ulumiddin*, Juz I, hlm. 110–125.
-[^15]: Al-Qur'an al-Karim, Surah Al-Fath [48]: 23; Taqiuddin Ibn Taimiyyah, *Majmu' al-Fatawa*, Juz VIII, hlm. 450–465.
-[^16]: Seyyed Hossein Nasr, *Science and Civilization in Islam*, hlm. 21–35.
-[^17]: Syed Muhammad Naquib Al-Attas, *The Concept of Education in Islam*, hlm. 21–25.
-[^18]: Shahih al-Bukhari, *Kitab ar-Riqaq*, No. 6464; Shahih Muslim, *Kitab ash-Shiyam*, No. 782.
-[^19]: George Sugai & Robert H. Horner, *ibid.*, hlm. 245–259.
-[^20]: Shahih Muslim, *Kitab al-Fadha'il*, No. 2309.
-[^21]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 30 dan Surah Al-Anbiya' [21]: 107.
-[^22]: Syed Muhammad Naquib Al-Attas, *Prolegomena to the Metaphysics of Islam*, hlm. 1–30.
+[^1]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 1–25.  
+[^2]: Riset Master Doktrin Worldview Pesantren TUMBUH, *Kritik atas Disorientasi Pandangan Hidup*, 2026.  
+[^3]: Matriks Sepuluh Pertanyaan Eksistensial Peradaban Islam Ekosistem TUMBUH, 2026.  
+[^4]: Blueprint Rekayasa Kausalitas Lingkungan Asrama 24 Jam TUMBUH, 2026.  
+[^5]: Dokumentasi Resolusi Restoratif Dekonstruksi Feodalisme Asrama TUMBUH, 2026.  
+[^6]: Matriks Tingkatan Kesadaran Worldview (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^7]: Master Arsitektur Rantai Kausalitas Paradigmatis Antar-Domain TUMBUH, 2026.  
+[^8]: Deklarasi Peradaban Worldview Islam Dewan Riset Akademik Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Istilah Kunci Worldview TUMBUH
+### 4. Glosarium Istilah Ilmiah & Turats Worldview TUMBUH
 
-| No | Istilah / Terminologi | Asal Bahasa / Tradisi | Penjelasan Konseptual & Kontekstual |
-| :---: | :--- | :--- | :--- |
-| 1 | **Ru'yatul Islam lil-Wujud** | Istilah Syed Naquib Al-Attas (*رؤية الإسلام للوجود*) | Pandangan hidup Islam; visi metafisik tentang hakikat realitas penciptaan Allah dan posisi manusia di alam semesta. |
-| 2 | **Triad Pertumbuhan Simbiotik** | Desain Tata Kelola TUMBUH | Prinsip bahwa santri, guru/musyrif, dan sistem lembaga wajib bertumbuh serempak tanpa ada pihak yang ditindas atau dikorbankan. |
-| 3 | **Karamah Insaniyyah** | Qur'ani (QS. Al-Isra': 70) | Kemuliaan martabat fitrah manusia yang dianugerahkan Allah dan wajib dilindungi dari kekerasan fisik maupun pelecehan verbal. |
-| 4 | **First Principles** | Filsafat Epistemologi | Prinsip-prinsip aksiomatis dasar yang menjadi fondasi tak terbantahkan bagi seluruh penalaran dan kebijakan operasional turunan. |
-| 5 | **Maqashid Syari'ah** | Ushul Fiqh (*مقاصد الشريعة*) | Lima tujuan pokok syariat Islam: menjaga agama (*Ad-Din*), jiwa (*An-Nafs*), akal (*Al-'Aql*), keturunan (*An-Nasl*), dan harta (*Al-Mal*). |
-| 6 | **Firm & Kind** | Psikologi Disiplin Positif | Sikap kepengasuhan berimbang: Teguh pada standar aturan syariat; Santun dan penuh kasih sayang dalam interaksi manusiawi. |
-| 7 | **Qudwah Hasanah** | Qur'ani (QS. Al-Ahzab: 21) | Keteladanan nyata seorang pendidik dalam adab dan akhlak yang menjadi magnet pembiasaan spontan bagi para santri. |
-| 8 | **Tadarruj** | Kaidah Tarbiyah Islam (*تَدَرُّج*) | Prinsip pentahapan dalam mendidik santri selaras dengan kapasitas umur, kematangan mental, dan tingkat tangga adabnya. |
-| 9 | **Insan Adabi / Insan Kamil** | Filsafat Pendidikan Islam | Profil lulusan ideal yang menyatukan kedalaman tauhid, kemuliaan budi pekerti, kecerdasan nalar sains, dan kemandirian hidup. |
-| 10 | **Sayyidul Qawmi Khadimuhum** | Hadits Nabawi (*سيد القوم خادمهم*) | Prinsip kepemimpinan pelayan (*Servant Leadership*): Pemimpin sejati di pesantren adalah yang paling tulus melayani santri dan asatidz. |
+1. **Ru'yatul Islam lil-Wujud (رُؤْيَةُ الإِسْلَامِ لِلْوُجُودِ)**: Pandangan hidup Islam (*Islamic Worldview*) mengenai hakikat Tuhan, alam semesta, manusia, ilmu, dan akhirat yang berakar pada wahyu ilahi.
+2. **Karamah Insaniyyah (كَرَامَةٌ إِنْسَانِيَّةٌ)**: Kemuliaan martabat hakiki yang dianugerahkan Allah SWT kepada setiap manusia sejak lahir yang wajib dilindungi dari kekerasan.
+3. **Triad Pertumbuhan Simbiotik**: Prinsip mutlak ekosistem TUMBUH yang menjamin pertumbuhan serempak bagi Santri, Guru/Musyrif, dan Sistem Lembaga.
+4. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Manusia paripurna yang memiliki pengenalan dan pengakuan yang tepat terhadap kedudukan Allah, semesta, dan sesamanya, serta mewujudkannya dalam adab 24 jam.
+5. **Servant Leadership (Khadimul Ummah)**: Paradigma kepemimpinan Islam yang menempatkan pemimpin sebagai pelayan yang mengayomi, membimbing, dan memudahkan urusan orang yang dipimpinnya.
+6. **Bi'ah Shalihah (بِيئَةٌ صَالِحَةٌ)**: Ekosistem lingkungan asrama 24 jam yang sehat, aman, bersih, dan berkeadilan syariat yang kondusif bagi pertumbuhan fitrah santri.
+7. **Qudwah Hasanah (قُدْوَةٌ حَسَنَةٌ)**: Keteladanan akhlak nyata yang dipancarkan oleh pendidik dan musyrif dalam seluruh gerak-gerik hidupnya sebagai metode didaktik utama.
+8. **Firm & Kind (Al-Hazm war-Rifq)**: Prinsip pengasuhan yang memadukan ketegasan mutlak dalam menjaga batas moral dengan kelembutan kasih sayang dalam memperlakukan jiwa santri.
+9. **Tauhidul Haqiqah (تَوْحِيدُ الْحَقِيقَةِ)**: Doktrin kesatuan kebenaran hakiki bahwa seluruh ayat wahyu tertulis dan ayat sains semesta bersumber dari Allah SWT Yang Maha Esa.
+10. **Ulul Albab (أُولُو الأَلْبَابِ)**: Profil lulusan ideal pesantren yang memiliki kedalaman dzikir spiritual, kecerdasan nalar ilmiah, dan keagungan adab kepemimpinan peradaban.
