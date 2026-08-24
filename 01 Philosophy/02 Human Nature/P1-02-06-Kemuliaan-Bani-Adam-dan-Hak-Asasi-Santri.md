@@ -1,311 +1,279 @@
-# P1-02-06: KEMULIAAN BANI ADAM DAN HAK ASASI SANTRI
-## *Monograf Terpadu: Epistemologi Karamah Insaniyyah (QS. Al-Isra: 70) & Deklarasi Khutbah Wada' (HR. Bukhari No. 1741), Konvergensi Safe School & Child Safeguarding Framework, Dekonstruksi Fiqh Pukulan Edukatif (Kaidah Sadd adz-Dzara'i' Zero Physical Strike), Hak Kerahasiaan Privasi, dan Piagam Perlindungan Santri Pesantren TUMBUH*
+# P1-02-06: KEMULIAAN BANI ADAM DAN HAK ASASI SANTRI (HUMAN DIGNITY & SANCTITY OF STUDENTS' RIGHTS)
+## *Monograf Riset Akademik: Epistemologi Karamah Insaniyyah (QS. Al-Isra': 70), Piagam Khutbah Wada' (HR. Al-Bukhari No. 1741), Konvergensi Child Safeguarding Framework, Kaidah Sadd adz-Dzara'i' Zero Physical Strike, Serta Penegakan Martabat Santri di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-02-06/MONOGRAF-TERPADU-HAK-ASASI-SANTRI/2026`  
-**Domain**: `01 Philosophy` > `02 Human Nature`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
-**Rumpun Disiplin Pengkaji**: Filsafat Hak Asasi Manusia Islam (*Huquq al-Insan fil Islam*), Hukum Perlindungan Anak Pesantren (*Child Safeguarding in Islamic Education*), Maqashid Syari'ah Hifzhun Nafs wal 'Irdh, Etika Konseling & Privasi Pengasuhan  
+**Nomor Identifikasi**: `P1-02-06/MONOGRAF-RISET-HAK-ASASI-SANTRI/2026`  
+**Domain**: `01 Philosophy` > `02 Human Nature` (Sub-Modul 06: *Human Dignity & Rights*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
+**Rumpun Disiplin Pengkaji**: Filsafat Hak Asasi Manusia Islam (*Huquq al-Insan fil Islam*), Hukum Perlindungan Anak Pesantren (*Child Safeguarding*), Maqashid Syari'ah (*Hifzh an-Nafs wal 'Irdh*), Etika Konseling & Privasi Pengasuhan  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Santri Adalah Titipan Amanah Allah yang Memiliki Kemuliaan Martabat (*Karamah*):**  
->   Santri yang mondok di pesantren berhak mendapatkan penghormatan penuh atas fisik, jiwa, dan kehormatannya. Allah SWT menegaskan: *"Dan sungguh telah Kami muliakan anak cucu Adam"* (QS. Al-Isra: 70).
-> * **Haram Mutlak Segala Bentuk Kekerasan Fisik, Verbal, & Perpeloncoan:**  
->   Memukul dengan rotan/sandal, menampar, mencukur paksa botak di depan umum, memaki dengan nama hewan, dan tradisi senioritas menindas adalah **Dosa Kezaliman yang Diharamkan Syariat**.
-> * **Kebijakan Nol Kekerasan Fisik (*Zero Physical Strike Policy*):**  
->   Berdasarkan kaidah *Sadd adz-Dzara'i'*, pesantren TUMBUH mengharamkan hukuman fisik apapun karena terbukti memicu trauma psikologis, merusak hubungan guru-santri, dan memicu risiko cedera fatal serta tuntutan pidana hukum.
-> * **Hak Kerahasiaan Aib & Privasi Santri:**  
->   Musyrif dilarang keras mengumumkan aib atau kesalahan santri di depan apel umum kamar/masjid. Kesalahan santri diselesaikan di ruang privat dengan bimbingan restoratif (*Satrul 'Aurat*).
+> * **Kelemahan Paradigma Lama: Normalisasi Kekerasan Fisik & Perendahan Martabat:**  
+>   Sebagian lingkungan pesantren lama mewajarkan praktik hukuman yang merendahkan martabat: pemukulan dengan rotan/sandal, penamparan wajah, pencukuran botak paksa di depan umum, atau caci maki dengan nama hewan atas dalih "pembinaan mental". Praktik ini melanggar syariat dan mewariskan siklus trauma kekerasan (*Cycle of Abuse*).
+> * **Inovasi Konseptual: Doktrin Karamah Insaniyyah & Kebijakan Nol Kekerasan Fisik:**  
+>   TUMBUH menegakkan doktrin **Karamah Insaniyyah (Kemuliaan Martabat Cucu Adam - QS. Al-Isra': 70)** dan Piagam Khutbah Wada': darah, harta, dan kehormatan santri adalah suci (*Haramun 'Alaikum*). Berdasarkan kaidah fiqh *Sadd adz-Dzara'i'*, TUMBUH memberlakukan **Kebijakan Nol Kekerasan Fisik & Verbal (*Zero Physical & Verbal Strike Policy*)** serta perlindungan mutlak privasi santri (*Satrul 'Aurat*).
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks 5 hak fundamental santri, 4 Tingkatan Kesadaran Penegakan Martabat (*Maratib al-Idrak*), protokol pencegahan kekerasan pengasuhan (*Child Safeguarding Protocol*), dan sistem akuntabilitas dewan disiplin.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET EPISTEMOLOGI KARAMAH INSANIYYAH & HAK-HAK ASASI SANTRI, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-epistemologi-karamah-insaniyyah--hak-hak-asasi-santri-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Perlindungan Martabat: Kritik atas Praktik Perendahan Martabat & Kekerasan di Pesantren](#1-kerangka-metodologi-perlindungan-martabat-kritik-atas-praktik-perendahan-martabat--kekerasan-di-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Kemuliaan Bani Adam — QS. Al-Isra: 70 & Deklarasi Khutbah Wada' HR. Bukhari 1741](#2-inkuiri-1-eksegesis-turats-kemuliaan-bani-adam--qs-al-isra-70--deklarasi-khutbah-wada-hr-bukhari-1741)
-  - [3. Inkuiri 2: Konvergensi Safe School & Child Safeguarding Framework Internasional di Pesantren](#3-inkuiri-2-konvergensi-safe-school--child-safeguarding-framework-internasional-di-pesantren)
-  - [4. Inkuiri 3: Dekonstruksi Fiqh Pukulan Edukatif & Penegakan Kebijakan Zero Physical Strike (Sadd adz-Dzara'i')](#4-inkuiri-3-dekonstruksi-fiqh-pukulan-edukatif--penegakan-kebijakan-zero-physical-strike-sadd-adz-dzarai)
-  - [5. Inkuiri 4: Hak Kerahasiaan Privasi Santri (Satrul 'Aurat & Confidentiality Konseling BK)](#5-inkuiri-4-hak-kerahasiaan-privasi-santri-satrul-aurat--confidentiality-konseling-bk)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Hak Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-hak-santri--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH](#1-formulasi-konseptual-piagam-hak-hak-asasi-dan-kemuliaan-martabat-santri-pesantren-tumbuh)
-  - [2. Matriks 5 Hak Fundamental Santri & Kewajiban Institusi Pesantren](#2-matriks-5-hak-fundamental-santri--kewajiban-institusi-pesantren)
-  - [3. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (Child Safeguarding Protocol)](#3-protokol-perlindungan-anak-dan-pencegahan-kekerasan-pengasuhan-child-safeguarding-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Kemuliaan Martabat & Hak Asasi Santri](#1-tabel-sintesis-hasil-riset-kemuliaan-martabat--hak-asasi-santri)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Normalisasi Kekerasan dan Pelecehan Martabat di Pesantren](#1-latar-belakang-masalah-krisis-normalisasi-kekerasan-dan-pelecehan-martabat-di-pesantren)
+  - [2. Eksegesis Turats Kemuliaan Martabat: QS. Al-Isra': 70 dan Piagam Deklarasi Khutbah Wada' (HR. Al-Bukhari No. 1741)](#2-eksegesis-turats-kemuliaan-martabat-qs-al-isra-70-dan-piagam-deklarasi-khutbah-wada-hr-al-bukhari-no-1741)
+  - [3. Dekonstruksi Fiqh Pukulan Edukatif & Kaidah Sadd adz-Dzara'i' Zero Physical Strike](#3-dekonstruksi-fiqh-pukulan-edukatif--kaidah-sadd-adz-dzarai-zero-physical-strike)
+  - [4. Konvergensi Child Safeguarding Internasional & Hak Kerahasiaan Privasi Santri (Satrul 'Aurat)](#4-konvergensi-child-safeguarding-internasional--hak-kerahasiaan-privasi-santri-satrul-aurat)
+  - [5. Kasuistika Lapangan: Kasus Perundungan Senior Berkedok Disiplin & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-perundungan-senior-berkedok-disiplin--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Piagam Kemuliaan Martabat & Hak Asasi Santri TUMBUH](#1-eksplanasi-teoretis-piagam-kemuliaan-martabat--hak-asasi-santri-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Penegakan Martabat (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-penegakan-martabat-maratib-al-idrak)
+  - [3. Matriks Lima Hak Fundamental Santri & Kewajiban Institusi Pesantren](#3-matriks-lima-hak-fundamental-santri--kewajiban-institusi-pesantren)
+  - [4. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (Child Safeguarding Protocol)](#4-protokol-perlindungan-anak-dan-pencegahan-kekerasan-pengasuhan-child-safeguarding-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Kemuliaan Martabat dan Hak Santri](#1-tabel-sintesis-temuan-riset-kemuliaan-martabat-dan-hak-santri)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Karamah Insaniyyah, Child Safeguarding, & Zero Physical Strike](#4-glosarium-teknis-karamah-insaniyyah-child-safeguarding--zero-physical-strike)
+  - [4. Glosarium Istilah Ilmiah & Turats Perlindungan Hak Santri](#4-glosarium-istilah-ilmiah--turats-perlindungan-hak-santri)
 
 ---
 
-# BAGIAN I: RISET EPISTEMOLOGI KARAMAH INSANIYYAH & HAK-HAK ASASI SANTRI, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Perlindungan Martabat: Kritik atas Praktik Perendahan Martabat & Kekerasan di Pesantren
+### 1. Latar Belakang Masalah: Krisis Normalisasi Kekerasan dan Pelecehan Martabat di Pesantren
 
-Dalam catatan sejarah sebagian pesantren lama, kerap ditemukan anomali perilaku yang berlindung di balik dalih "pembinaan mental santri":
-* Pengurus kamar atau senioritas asrama merasa berhak memukul betis, menampar pipi, mencukur separuh kepala (*gundul botak memalukan*), mengarak santri keliling pondok, atau menyiram air comberan sebagai bentuk hukuman disiplin.
-* Praktik-praktik intimidatif ini merusak fitrah dasar santri: melahirkan manusia-manusia penakut di hadapan penguasa (*Submissive Cowardice*), pendendam di belakang (*Hidden Resentment*), dan calon pelaku kekerasan baru saat mereka naik menjadi senior (*Cycle of Abuse*).
-
-Islam datang untuk memuliakan manusia, bukan menghinakan martabatnya (*Li Takrimi al-Insan La Li Ihanatih*). Ekosistem TUMBUH menegakkan doktrin **Karamah Insaniyyah Santri**: perlindungan mutlak atas hak fisik, jiwa, akal, dan kehormatan santri sebagai pilar tertinggi maqashid syariah pendidikan.
+Dalam dinamika sebagian lembaga pendidikan Islam, kerap terjadi distorsi pemahaman yang melegalkan perlakuan kasar atas nama "ketegasan pendidikan":
+* **Normalisasi Kekerasan Fisik & Verbal**: Tindakan menampar, memukul dengan kayu, mencukur botak separuh kepala secara memalukan (*Gundul Hukuman*), atau menyiram santri dengan air comberan dianggap wajar sebagai "proses penggemblengan mental".
+* **Dampak Kerusakan Neuropsikologis**: Riset membuktikan bahwa kekerasan pengasuhan tidak melahirkan ketaatan sejati, melainkan menghasilkan sindrom kecemasan traumatis (*PTSD*), merusak konektivitas korteks prefrontal otak, memicu perilaku pasif-agresif, dan melestarikan rantai dendam antargenerasi (*Cycle of Violence*).
+* **Keniscayaan Doktrin Karamah Insaniyyah**: Islam diturunkan untuk memuliakan manusia (*Li Takrimil Insan La Li Ihanatih*). Seluruh santri yang dititipkan di pesantren wajib dilindungi fisik, jiwa, dan kehormatannya secara mutlak.[^1]
 
 ```mermaid
 flowchart TD
     subgraph TransformasiPenegakanMartabat["TRANSFORMASI PERLINDUNGAN MARTABAT SANTRI"]
-        KekerasanLama["PRAKTIK KEKERASAN & PERENDAMAN MARTABAT (LAMA)<br/>• Pemukulan fisik, tamparan, & caci maki nama hewan.<br/>• Pencukuran paksa memalukan & pengarakan publik.<br/>• Mewariskan trauma seumur hidup & dendam antar-angkatan."]
+        PolaKekerasanLama["PRAKTIK KEKERASAN & PERENDAHAN (LAMA)<br/>• Pemukulan fisik, tamparan, & caci maki hewan.<br/>• Pencukuran paksa memalukan di depan publik.<br/>• Mewariskan trauma seumur hidup & dendam angkatan."]
         
-        KaramahTUMBUH["PIAGAM KARAMAH INSANIYYAH & SAFE SCHOOL (TUMBUH)<br/>• Perlindungan mutlak hak fisik, emosi, & kehormatan santri.<br/>• Kebijakan Nol Kekerasan Fisik (Zero Physical Strike).<br/>• Disiplin Restoratif Firm & Kind yang memanusiakan santri."]
+        PolaKaramahTUMBUH["DOKTRIN KARAMAH INSANIYYAH (TUMBUH)<br/>• Perlindungan Hak Jiwa, Fisik, & Kehormatan (Maqashid).<br/>• Kebijakan Nol Kekerasan Fisik (Zero Physical Strike).<br/>• Disiplin Restoratif: Memulihkan adab tanpa merendahkan martabat."]
         
-        KekerasanLama ==>|TRANSFORMASI MAQASHID SYARIAH & CHILD SAFEGUARDING| KaramahTUMBUH
+        PolaKekerasanLama ==>|DIREKONSTRUKSI MENJADI| PolaKaramahTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kemuliaan Bani Adam — QS. Al-Isra: 70 & Deklarasi Khutbah Wada' HR. Bukhari 1741
+### 2. Eksegesis Turats Kemuliaan Martabat: QS. Al-Isra': 70 dan Piagam Deklarasi Khutbah Wada' (HR. Al-Bukhari No. 1741)
 
-```mermaid
-graph TD
-    A["Gugatan Pembenaran Kekerasan (Pihak A):<br/>'Santri itu milik pondok; orang tua sudah menyerahkan sepenuhnya, jadi mau dipukul atau digunduli itu hak pengurus demi mendidik!'"]
-    --> B1["Tinjauan Al-Qur'an Surah Al-Isra: 70:<br/>'Wa laqad karramna bani Adam' (Allah memuliakan seluruh anak cucu Adam dengan kemuliaan martabat hakiki)."]
-    A --> B2["Tinjauan Hadits Khutbah Wada' Shahih Bukhari 1741:<br/>'Inna dima'akum wa amwalakum wa a'radhakum 'alaikum haram' (Darah, harta, & kehormatan muslim adalah haram dilanggar)."]
-    A --> B3["Tinjauan Hadits Shahih Muslim 2612:<br/>'Idza qatala ahadukum akhahu falyajtanibil wajh' (Larangan keras Nabi SAW memukul wajah manusia apapun alasannya)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Menjaga kehormatan fisik & martabat santri adalah kewajiban syar'i mutlak bagi seluruh pengasuh."]
-```
+Al-Qur'an menetapkan status kemuliaan universal seluruh anak cucu Adam:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perbuatan pendidik yang melanggar kehormatan fisik, menjatuhkan martabat insani (*Ihanah*), atau menumpahkan darah/mencederai anak didik adalah kezaliman yang diharamkan syariat Islam secara qath'i.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Allah SWT menetapkan kemuliaan bani Adam (QS. Al-Isra: 70) dan Rasulullah SAW mendeklarasikan kesucian darah serta kehormatan setiap mukmin laksana kesucian tanah haram Makkah pada hari haji akbar (HR. Bukhari No. 1741).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh pengurus, asatidz, dan musyrif pesantren TUMBUH diharamkan mutlak melakukan kekerasan fisik, verbal, maupun psikologis terhadap santri.[^1]
+$$\text{وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا}$$
 
-#### 📖 Teks Primer Al-Qur'an & Hadits Khutbah Wada'
-Firman Allah SWT menegaskan kemuliaan martabat manusia:
+*"Dan sungguh telah Kami muliakan anak-anak cucu Adam, dan Kami angkut mereka di daratan dan di lautan, dan Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang telah Kami ciptakan dengan kelebihan yang sempurna."* (QS. Al-Isra' [17]: 70).[^2]
 
-$$\text{۞ وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُمْ مِنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِمَّنْ خَلَقْنَا تَفْضِيلًا}$$
+Dalam **Khutbah Wada'**, Rasulullah ﷺ mendeklarasikan piagam hak asasi manusia paling agung dalam sejarah:
 
-*"**Dan sungguh, telah Kami muliakan anak-cucu Adam**, dan Kami angkut mereka di darat dan di laut, dan Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka di atas banyak makhluk yang Kami ciptakan dengan kelebihan yang sempurna."* (QS. Al-Isra [17]: 70).[^2]
+$$\text{إِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ وَأَعْرَاضَكُمْ عَلَيْكُمْ حَرَامٌ، كَحُرْمَةِ يَوْمِكُمْ هَذَا، فِي شَهْرِكُمْ هَذَا، فِي بَلَدِكُمْ هَذَا}$$
 
-Dan Rasulullah SAW menegaskan dalam khutbah haji perpisahan (*Khutbah Wada'*):
-
-$$\text{فَإِنَّ دِمَاءَكُمْ، وَأَمْوَالَكُمْ، وَأَعْرَاضَكُمْ، بَيْنَكُمْ حَرَامٌ، كَحُرْمَةِ يَوْمِكُمْ هَٰذَا، فِي شَهْرِكُمْ هَٰذَا، فِي بَلَدِكُمْ هَٰذَا}$$
-
-*"**Maka sesungguhnya darah kalian, harta benda kalian, dan KEHORMATAN DIRI KALIAN adalah HARAM (suci dan terlarang dilanggar) di antara sesama kalian**, laksana kesucian hari kalian ini, pada bulan kalian ini, dan di negeri kalian (Makkah) ini!"* (HR. Bukhari No. 1741; Muslim No. 1679).[^3]
+*"**Sesungguhnya darah kalian, harta benda kalian, dan kehormatan martabat kalian adalah haram (suci dan terlarang untuk dinodai) atas sesama kalian**, sebagaimana sucinya hari kalian ini, dalam bulan kalian ini, di negeri kalian ini."* (HR. Al-Bukhari No. 1741 & Muslim No. 1679).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Safe School & Child Safeguarding Framework* Internasional di Pesantren
+### 3. Dekonstruksi Fiqh Pukulan Edukatif & Kaidah Sadd adz-Dzara'i' Zero Physical Strike
 
-```mermaid
-graph TD
-    subgraph EmpatPilarChildSafeguardingTUMBUH["4 PILAR PERLINDUNGAN ANAK PESANTREN (SAFE SCHOOL)"]
-        P1["1. PHYSICAL SAFETY (Keselamatan Fisik Mutlak)<br/>Bebas dari pemukulan, tamparan, tendangan, kekerasan seksual, & sanitasi buruk."]
-        
-        P2["2. PSYCHOLOGICAL SAFETY (Keamanan Psikologis & Emosi)<br/>Bebas dari bentakan, perundungan (Bullying), cemoohan publik, & intimidasi senior."]
-        
-        P3["3. RIGHT TO BE HEARD (Hak Didengar & Bersuara Santun)<br/>Santri memiliki hak klarifikasi (Tabayyun) dan perlindungan dari vonis sepihak."]
-        
-        P4["4. RIGHT TO DEVELOPMENT (Hak Tumbuh Kembang Optimal)<br/>Akses nutrisi sehat, tidur cukup minimal 6–7 jam, & bimbingan konseling profesional."]
-        
-        P1 --- P2 --- P3 --- P4
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap institusi pendidikan berasrama yang menjamin rasa aman menyeluruh (*Safe School & Trauma-Informed Environment*) terbukti menghasilkan lonjakan prestasi akademik hafalan dan kesehatan mental pembelajar secara signifikan.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Konsensus riset psikologi perkembangan anak (UNICEF, 2017; World Health Organization, 2020) membuktikan bahwa kekerasan di sekolah melumpuhkan neuroplastisitas otak dan meningkatkan risiko depresi remaja hingga 300%.
-* **Konklusi (*an-Natijah*)**: Maka, pesantren TUMBUH menetapkan Protokol Perlindungan Anak (*Child Safeguarding Protocol*) sebagai standar operasional wajib.[^4]
+Penyelidikan mendalam terhadap riwayat hadits perintah memukul anak saat enggan shalat pada usia 10 tahun membuktikan bahwa:
+* Pukulan yang dimaksud oleh syariat adalah pukulan isyarat (*Dharb Ghayr Mubarrih*) menggunakan siwak yang sama sekali tidak melukai fisik dan diharamkan mengenai wajah atau bagian tubuh vital.
+* Namun dalam praksis lapangan pesantren, dalil ini kerap diselewengkan menjadi legitimasi pelampiasan amarah membabi-buta oleh musyrif atau senior.
+* Oleh karena itu, berdasarkan kaidah **Sadd adz-Dzara'i' (Menutup Pintu Menuju Kerusakan Fatal)** dan kaidah *Dar'ul Mafasid Muqaddamun 'ala Jalbil Mashalih*, TUMBUH menetapkan **Kebijakan Nol Kekerasan Fisik (*Zero Physical Strike Policy*)**: mengharamkan mutlak segala bentuk kontak fisik hukuman dan menggantinya dengan konsekuensi logis restoratif.[^4]
 
 ---
 
-### 4. Inkuiri 3: Dekonstruksi Fiqh Pukulan Edukatif & Penegakan Kebijakan *Zero Physical Strike* (*Sadd adz-Dzara'i'*)
+### 4. Konvergensi Child Safeguarding Internasional & Hak Kerahasiaan Privasi Santri (Satrul 'Aurat)
 
-```mermaid
-graph TD
-    subgraph DekonstruksiFiqhPukulan["DEKONSTRUKSI FIQH HADITS PUKULAN EDUKATIF"]
-        Hadits["TEKS HADITS (HR. Abu Dawud 495):<br/>'Wa adhribuhum 'alaiha wa hum abna'u 'asyr' (Dan pukullah mereka saat usia 10 tahun jika meninggalkan shalat)."]
-        
-        SyaratTurats["SYARAT KETAT ULAMA FIQH KLASIK:<br/>1. Pukulan bukan untuk melukai (Dharbun Ghairu Mubarrih).<br/>2. Dilarang memukul wajah, kepala, dada, & kemaluan.<br/>3. Dilakukan oleh orang tua kandung, bukan santri senior.<br/>4. Maksimal 3 pukulan ringan laksana menepuk dengan siwak."]
-        
-        KenyataanLap["REALITAS DISTORSI DI LAPANGAN PESANTREN:<br/>Pukulan berubah menjadi ajang pelampiasan emosi dendam musyrif & perpeloncoan brutal senior."]
-        
-        FatwaTUMBUH["RESOLUSI HUKUM TUMBUH (SADD ADZ-DZARA'I'):<br/>Mengharamkan 100% hukuman fisik di pesantren demi menutup pintu kezaliman & melindungi nyawa santri."]
-        
-        Hadits --> SyaratTurats --> KenyataanLap --> FatwaTUMBUH
-    end
-```
-
-#### 📖 Teks Turats Fiqh: Imam As-Subki & Kaidah Ushul Fiqh *Sadd adz-Dzara'i'*
-Imam Taqiyyuddin As-Subki dan para ulama Syafi'iyyah menegaskan bahwa izin memukul dalam mendidik anak memiliki **Syarat Syar'i yang Sangat Ketat (*Syuruthun Qath'iyyah*)** yang hampir mustahil dipenuhi saat pengasuh sedang emosi. Mengingat dalam realitas sejarah asrama pemukulan selalu berujung pada cedera dan dendam permusuhan, maka berdasarkan kaidah **Sadd adz-Dzara'i' (Menutup Pintu Kerusakan)** dan **Dar'ul Mafasid Muqaddamun 'ala Jalbil Mashalih**, hukuman fisik **Wajib Diharamkan Total (*Zero Physical Strike Mandate*)** di ekosistem pesantren modern.[^5]
+Ekosistem TUMBUH menyelaraskan protokol perlindungan anak (*Child Safeguarding Framework*) dengan prinsip syariat **Satrul 'Aurat (Menutup Aib Sesama Muslim)**:
+* Mengumumkan pelanggaran santri di depan umum saat apel kamar atau masjid adalah perbuatan haram yang merusak kehormatan (*Hatk al-'Irdh*).
+* Seluruh penanganan kasus disiplin, konseling BK, dan data catatan perilaku di logbook PBIS bersifat sangat rahasia (*Strictly Confidential*).[^5]
 
 ---
 
-### 5. Inkuiri 4: Hak Kerahasiaan Privasi Santri (*Satrul 'Aurat & Confidentiality* Konseling BK)
+### 5. Kasuistika Lapangan: Kasus Perundungan Senior Berkedok Disiplin & Resolusi Restoratif Terpadu
 
-```mermaid
-graph LR
-    subgraph HakPrivasiDanKerahasiaanSantri["DOKTRIN SYAR'I SATRUL 'AURAT DALAM PENGASUHAN"]
-        GhibahPublik["PENELANJANGAN AIB PUBLIK (LAMA - DIHARAMKAN):<br/>• Mengumumkan nama santri yang melanggar di mikrofon masjid.<br/>• Mencukur gundul setengah kepala di depan ribuan santri.<br/>• Memicu kehancuran harga diri & keputusasaan batin."]
-        
-        SatrulAurat["SATRUL 'AURAT & PRIVASI BK (TUMBUH - DIWAJIBKAN):<br/>• Penanganan privat di Ruang Konseling tertutup.<br/>• Kerahasiaan rekam medis & psikologis terjamin aman.<br/>• Menjaga kehormatan santri agar pintu taubat terbuka lebar."]
-        
-        GhibahPublik -.->|TRANSFORMASI HAK ASASI ISLAMI| SatrulAurat
-    end
-```
-
-#### 📖 Teks Primer Hadits Shahih Muslim: Menutup Aib Sesama Muslim
-Abu Hurairah *radhiyallahu 'anhu* meriwayatkan sabda Rasulullah SAW:
-
-$$\text{وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ، وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ}$$
-
-*"**Dan barangsiapa yang menutupi aib seorang muslim, maka Allah akan menutupi aibnya di dunia dan di akhirat**. Dan Allah senantiasa menolong hamba-Nya selama hamba tersebut menolong saudaranya."* (HR. Muslim No. 2699; Tirmidzi No. 1425).[^6]
+* **Studi Kasus: Senior Menampar Santri Junior yang Tidak Menundukkan Kepala Saat Berpapasan**  
+  * **Dilema**: Santri senior menampar pipi santri junior karena dianggap "tidak punya adab sopan santun terhadap senior".
+  * **Pola Lama**: Kasus didiamkan pengurus karena dianggap sebagai "hirarki wajar asrama".
+  * **Resolusi Restoratif TUMBUH**: Lembaga bertindak tegas menegakkan *Zero-Violence Policy*: hak kepengurusan santri senior dicopot seketika; santri senior menjalani program konseling restoratif untuk merefleksikan dosanya di hadapan syariat (HR. Muslim No. 2612 yang melarang keras memukul wajah). Santri senior meminta maaf secara jantan kepada adik kelas dan keluarganya, serta menandatangani pakta integritas. Tercipta jaminan perlindungan mutlak bagi seluruh santri junior di asrama.[^6]
 
 ---
 
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Hak Santri, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Hak Asasi Santri Adalah Konsep Barat yang Merusak Tradisi Kepatuhan Santri"
-* **Pihak A (Sudut Pandang Dikotomi Kering)**:  
-  *"Hak asasi itu produk HAM Barat sekuler; di pesantren santri harus patuh mutlak tanpa hak apapun!"*
-* **Tinjauan Sudut Pandang Maqashid Syariah & Turats Islam Autentik**:  
-  Islam telah mendeklarasikan hak asasi manusia (*Huquq al-Ibad*) **14 Abad Sebelum Piagam PBB Lahir**. Hak atas keselamatan jiwa (*Hifzhun Nafs*), hak atas kehormatan (*Hifzhul 'Irdh*), dan hak atas keadilan (*Iqamatul 'Adl*) adalah intisari syariat Islam. Menolak hak perlindungan santri atas dalih "tradisi" adalah bentuk pengkhianatan terhadap risalah keadilan Nabi SAW.[^7]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Santri yang Memiliki Hak Akan Menjadi Berani Membantah dan Kurang Ajar kepada Guru?
-* **Pihak A (Sudut Pandang Ketakutan Otoritarian)**:  
-  *"Kalau santri tahu hak-haknya, mereka akan melawan guru dan melapor ke polisi tiap kali ditegur!"*
-* **Tinjauan Sudut Pandang Adab Timbal-Balik (Reciprocal Adab) vs Feodalisme Takut**:  
-  Ketaatan yang lahir dari rasa takut dipukul adalah **Kepatuhan Palsu dan Munafik**. Ketika santri merasa haknya dihormati dan dimuliakan oleh guru (*Karamah*), mereka akan membalasnya dengan **Rasa Takdzim, Cinta Kasih, dan Penghormatan Tulus (*Tawadhu' Haqiqi*)**. Santri TUMBUH diajarkan bahwa hak mereka berjalan seiring dengan kewajiban adab luhur.[^8]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Menghukum di Depan Publik Justru Membunuh Rasa Malu Santri?
-* **Pihak A (Sudut Pandang Mempermalukan di Depan Umum)**:  
-  *"Hukum santri di depan umum biar dia malu dan teman-temannya yang lain takut ikut-ikutan!"*
-* **Resolusi Sudut Pandang Psikologi Kehilangan Rasa Malu (Desensitization to Shame)**:  
-  Mempermalukan santri di depan publik (*Public Shaming*) justru **Membunuh Sifat Haya' (Rasa Malu) Santri**. Begitu rasa malunya hancur di depan teman-temannya, santri akan bersikap *"sekalian saja jadi anak nakal" (Rebellious Defiance)*. Bimbingan privat yang terhormat menjaga rasa malu batin santri dan membangkitkan tekad perbaikan diri.[^9]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri M (kelas 7) kedapatan merokok di belakang asrama; pengurus lama mencukur botak kepalanya dengan motif garis-garis memalukan, menggantungkan bungkus rokok di lehernya, dan menyuruhnya berdiri di gerbang masuk pondok saat jam kunjungan orang tua. Santri M mengalami depresi berat, mogok makan, dan orang tuanya melaporkan pondok ke Komisi Perlindungan Anak.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Kasus dialihkan ke *Protokol Perlindungan Hak Santri TUMBUH*. Manajemen mencabut seluruh sanksi yang mempermalukan $\rightarrow$ Pimpinan pondok meminta maaf secara terhormat kepada orang tua atas kekhilafan pengurus lama $\rightarrow$ Santri M dipindahkan ke Ruang Konseling BK untuk sesi FBA Model ABC. Santri M menjalani *Konsekuensi Logis 4R*: membuat poster edukasi bahaya rokok bagi paru-paru dan mengikuti kelas kebugaran jasmani. Santri M sembuh total dari kecanduan merokok, lulus dengan hafalan Al-Qur'an mutqin, dan hubungan keluarga dengan pondok menjadi sangat erat penuh berkah.[^10]
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 1. Eksplanasi Teoretis Piagam Kemuliaan Martabat & Hak Asasi Santri TUMBUH
 
----
-
-### 1. Formulasi Konseptual: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **HAK Atas Keselamatan Fisik Mutlak & Kebijakan NOL Kekerasan (zero Physical Strike) Setiap santri berhak mendapatkan perlindungan mutlak dari segala bentuk kekerasan fisik, pemukulan rotan, tamparan, tendangan, kekerasan seksual, maupun hukuman fisik yang membahayakan kesehatan tubuh.**:  
-   
-
-2. **HAK Atas Kehormatan Diri & Perlindungan Dari Perendaman Martabat Setiap santri berhak dilindungi dari kekerasan verbal (makian/ejekan), perundungan (bullying), tradisi feodalisme senioritas asrama, serta hukuman yang mempermalukan di depan publik (Public Shaming).**:  
-   
-
-3. **HAK Kerahasiaan AIB & Privasi Konseling (satrul 'aurat Principle) Setiap santri berhak atas kerahasiaan catatan konseling bimbingan jiwa dan catatan medisnya, mengharamkan mutlak penelanjangan aib santri di hadapan khalayak umum masjid atau apel asrama.**:  
-   
-
-4. **HAK Atas Keadilan & Tabayyun Dalam Setiap Keluhan (due Process OF Tarbiyah) Setiap santri yang diduga melakukan pelanggaran berhak didengarkan keterangannya secara adil (Right to be Heard), mengharamkan vonis sepihak, serta berhak mendapatkan mediasi perdamaian restoratif (Ishlah al-Bain).**:  
-   
-
-5. **Integrasi Total Triad Pertumbuhan Simbiotik Memastikan bahwa perlindungan hak asasi santri secara serempak memuliakan kehormatan Santri, meningkatkan profesionalisme Asatidz/Musyrif, serta menjaga martabat dan keberkahan Lembaga Pesantren.**:  
-   
-
-
----
-
-### 2. Matriks 5 Hak Fundamental Santri & Kewajiban Institusi Pesantren
-
-| No | Hak Fundamental Santri | Landasan Syariat Islam | Standar Operasional Pesantren TUMBUH |
-| :---: | :--- | :--- | :--- |
-| **1** | **Hak Perlindungan Fisik** | Maqashid *Hifzhun Nafs* & Hadits Larangan Menyakiti Fisik. | Larangan total pemukulan (*Zero Physical Strike*); fasilitas asrama aman & sanitasi bersih.[^11] |
-| **2** | **Hak Kehormatan Martabat** | QS. Al-Isra: 70 (*Karamah Bani Adam*) & Larangan Ghibah/Naza'. | Larangan caci maki, perpeloncoan senior, & hukuman gundul botak publik. |
-| **3** | **Hak Kerahasiaan Privasi** | Doktrin *Satrul 'Aurat* (HR. Muslim No. 2699). | Penanganan bimbingan di ruang tertutup; rekam medis & konseling terenkripsi aman. |
-| **4** | **Hak Keadilan Tabayyun** | QS. Al-Hujurat: 6 (*Fathabayyanu*) & Keadilan Sidang. | Hak didengar keterangannya; mediasi restoratif 4R; larangan vonis sepihak. |
-| **5** | **Hak Tumbuh Kembang Optimal** | Hadits *Kullukum Ra'in* & Hak Gizi/Tidur Sehat. | Jam tidur cukup minimal 6–7 jam; gizi halalan thayyiban; bimbingan akademik merata.[^12] |
-
----
-
-### 3. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (*Child Safeguarding Protocol*)
+Ekosistem TUMBUH mengkodifikasikan hak santri dalam **Piagam Hak Asasi & Kemuliaan Martabat Santri (*Mitsaq Huquq wa Karamah at-Thalib*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SOPPencegahanDanPenangananKekerasan["SOP CHILD SAFEGUARDING PESANTREN TUMBUH"]
-        Aduan["1. PENERIMAAN LAPORAN KEKERASAN / BULLYING (KOTAK SUARA & WHATSAPP AMAN)<br/>Santri/Wali Santri melaporkan insiden melalui kanal pengaduan rahasia Biro Advokasi."]
+    subgraph PiagamHakSantriTUMBUH["LIMA HAK FUNDAMENTAL SANTRI BERBASIS MAQASHID SYARI'AH"]
         
-        Investigasi["2. INVESTIGASI INDEPENDEN TIM CHILD SAFEGUARDING (< 24 JAM)<br/>Pemeriksaan fakta di lapangan tanpa intimidasi & pengamanan bukti objektif."]
+        H1["1. HAK PERLINDUNGAN JIWA & RAGA (Hifzh an-Nafs)<br/>Bebas mutlak dari kekerasan fisik, pemukulan, penganiayaan, & penelantaran kesehatan."]
         
-        ProteksiMedis["3. PERLINDUNGAN KORBAN & LAYANAN MEDIS/PSIKOLOGIS SEGERA<br/>Korban mendapatkan pendampingan medis UKS dan konseling pemulihan trauma."]
+        H2["2. HAK PERLINDUNGAN KEHORMATAN & PRIVASI (Hifzh al-'Irdh)<br/>Bebas dari caci maki, labeling negatif, perundungan, & pembeberan aib di depan umum."]
         
-        TindakanHukum["4. PENINDAKAN TEGAS PELAKU & SIDANG DEWAN ETIK MASYAYIKH<br/>Sanksi penonaktifan bagi musyrif pelanggar / proses restoratif bagi santri."]
+        H3["3. HAK PENGEMBANGAN AKAL BUDI (Hifzh al-'Aql)<br/>Memperoleh pengajaran bermutu, akses perpustakaan, nutrisi otak, & kebebasan berdiskusi."]
         
-        Aduan --> Investigasi --> ProteksiMedis --> TindakanHukum
+        H4["4. HAK PERLINDUNGAN SPIRITUALITAS FITRAH (Hifzh ad-Din)<br/>Dibimbing dalam ibadah dengan keteladanan kasih sayang tanpa paksaan teror fisik."]
+        
+        H5["5. HAK KEADILAN PEMBUKTIAN & BANDING (Hifzh al-'Adalah)<br/>Asas praduga tak bersalah; berhak didengar pembelaannya & didampingi konselor."]
+        
+        H1 <===> H2 <===> H3 <===> H4 <===> H5
     end
 ```
 
+#### 🔬 Pembahasan Mendalam Lima Hak Santri:
+1. **Hak Perlindungan Fisik (*Hifzh an-Nafs*)**: Jaminan keselamatan tubuh santri dari segala bentuk cedera, infeksi sanitasi buruk, atau penelantaran waktu istirahat.[^7]
+2. **Hak Kehormatan Pribadi (*Hifzh al-'Irdh*)**: Jaminan perlindungan harga diri santri dari segala bentuk penghinaan lisan, sarkasme, dan perundungan siber.[^8]
+3. **Hak Intelektual (*Hifzh al-'Aql*)**: Jaminan bahwa proses belajar santri dilayani dengan pedagogi yang memuliakan nalar kritis dan bebas dari doktrin pembodohan.[^9]
+4. **Hak Kesucian Fitrah (*Hifzh ad-Din*)**: Jaminan pengasuhan yang menumbuhkan cinta kepada Allah dan Rasul-Nya melalui keteladanan *Qudwah Hasanah*.[^10]
+5. **Hak Keadilan Restoratif (*Hifzh al-'Adalah*)**: Jaminan bahwa setiap proses penegakan disiplin dilaksanakan secara transparan, berbasis bukti faktual, dan memiliki saluran banding yang adil.[^11]
+
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Penegakan Martabat (Maratib al-Idrak)
+
+Transformasi kesadaran memuliakan martabat santri berlangsung melalui **Empat Tingkatan Kesadaran Penegakan Martabat (*Maratib al-Idrak al-Karamiy*)**:
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranMartabat["EMPAT TINGKATAN KESADARAN PENEGAKAN MARTABAT (MARATIB AL-IDRAK)"]
+        
+        K1_Hak["TINGKAT 1: KESADARAN KEPATUHAN HUKUM (Al-Idrak al-Imtitsaliy)<br/>• Menahan diri dari memukul atau memaki santri semata-mata karena takut sanksi SOP.<br/>• Melaporkan insiden pelanggaran secara administratif kepada dewan asrama."]
+        
+        K2_Hak["TINGKAT 2: KESADARAN EMPATI KEMANUSIAAN (Al-Idrak al-Insaniy)<br/>• Memahami dampak trauma psikologis akibat kekerasan; memperlakukan santri laksana anak kandung.<br/>• Aktif melerai pertengkaran & melindungi santri yang rentan menjadi korban perundungan."]
+        
+        K3_Hak["TINGKAT 3: KESADARAN MAQASHID AMANAH (Al-Idrak al-Maqashidiy)<br/>• Menghayati bahwa setiap santri adalah titipan Allah yang kelak dipertanggungjawabkan di akhirat.<br/>• Menegakkan disiplin tegas yang sarat kasih sayang (Firm & Kind) tanpa melukai harga diri santri."]
+        
+        K4_Hak["TINGKAT 4: KESADARAN PENJAGAAN KARAMAH PERADABAN (Al-Idrak al-Muhafizh)<br/>• Menciptakan ekosistem Bi'ah Shalihah yang memancarkan rasa aman mutlak (Sanctuary Environment).<br/>• Menjadi Live Qudwah pembela martabat anak; menginspirasi peradaban pesantren ramah anak secara global."]
+        
+        K1_Hak ==> K2_Hak ==> K3_Hak ==> K4_Hak
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Kepatuhan Regulasi Menuju Kehangatan Empati)**: Musyrif mula-mula berhenti memukul karena takut dipecat. Pada tingkatan kedua, musyrif melihat santri dengan mata hati kasih sayang: menyadari betapa rapuhnya jiwa santri yang jauh dari orang tuanya.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Empati Menuju Tanggung Jawab Maqashid)**: Pada tingkatan ketiga, perlindungan santri dihayati sebagai ibadah agung menjaga titipan Allah: pendidik menegakkan disiplin restoratif tanpa ada rasa marah atau dendam pribadi.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Pelindung Peradaban)**: Pada tingkatan tertinggi, pimpinan dan warga pesantren tampil sebagai pelindung martabat kemanusiaan: menjadikan pesantren sebagai benteng keadilan dan peradaban yang dicintai umat.[^12]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Kemuliaan Martabat & Hak Asasi Santri
+### 3. Matriks Lima Hak Fundamental Santri & Kewajiban Institusi Pesantren
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Perlindungan Santri |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kemuliaan Insan** | *Karamah Bani Adam* | QS. Al-Isra: 70, Khutbah Wada' (HR. Bukhari 1741) | Universal Declaration of Human Rights (UDHR) | Menghormati martabat fisik dan jiwa santri secara mutlak. |
-| **Nol Kekerasan** | *Zero Physical Strike* | Kaidah *Sadd adz-Dzara'i'* & Hadits *La Dharara* | Gershoff (2002), *Corporal Punishment Meta-Analysis* | Mengharamkan seluruh bentuk hukuman fisik di pesantren. |
-| **Keamanan Emosional** | *Psychological Safety* | QS. Al-Hujurat: 11 (Larangan Mengolok-olok) | Amy Edmondson (1999), *Psychological Safety* | Melindungi santri dari bentakan, bullying, dan public shaming. |
-| **Kerahasiaan Privasi** | *Satrul 'Aurat* | Hadits Satrul Muslim (HR. Muslim No. 2699) | APA Ethics Code (2017), *Confidentiality Standard* | Menjamin kerahasiaan konseling BK dan aib kekhilafan santri. |
-| **Keadilan Prosedural** | *Haqqut Tabayyun* | QS. Al-Hujurat: 6 (*Fathabayyanu*) | Tyler (2006), *Why People Obey the Law* | Memberikan hak bersuara dan klarifikasi sebelum keputusan diambil. |
+| Hak Fundamental Santri | Landasan Syariat & Turats | Kebijakan Baku Institusi TUMBUH | Mekanisme Pengawasan & Sanksi |
+| :--- | :--- | :--- | :--- |
+| **1. Hak Keselamatan Fisik** | QS. Al-Ma'idah: 32; Khutbah Wada'. | Kebijakan *Zero Physical Strike*; larangan hukuman fisik. | Pemecatan oknum pelaku kekerasan fisik & proses hukum. |
+| **2. Hak Kehormatan Lisan** | QS. Al-Hujurat: 11; HR. Bukhari. | Larangan gelar buruk, sarkasme, & pemaluan publik. | Peringatan tertulis & pembinaan adab asatidz. |
+| **3. Hak Kerahasiaan Aib** | HR. Muslim No. 2699 (*Man satara musliman*).| Penanganan kasus di ruang tertutup; data konseling rahasia.| Audit kerahasiaan logbook PBIS secara berkala. |
+| **4. Hak Sanitasi & Kesehatan**| QS. Al-Baqarah: 222; Fiqh *Thaharah*. | Standar ventilasi sehat, air bersih, & nutrisi 3 kali sehari.| Inspeksi kesehatan lingkungan asrama mingguan. |
+| **5. Hak Pembelaan Diri** | QS. Al-Isra': 36; Fiqh *Al-Qadha'*. | Asas praduga tak bersalah & hak mengajukan banding. | Dewan Disiplin Restoratif Terbuka & Independen. |
+
+---
+
+### 4. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (Child Safeguarding Protocol)
+
+TUMBUH menetapkan **Protokol Pencegahan dan Penanganan Kekerasan (*Child Safeguarding Protocol*)**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolChildSafeguarding["PROTOKOL PENANGANAN KEKERASAN DAN PERLINDUNGAN SANTRI"]
+        Lapor["1. KANAL PELAPORAN AMAN: Santri/Wali Dapat Melapor Melalui Kotak Curhat Rahasia atau Konselor BK"]
+        --> Tanggap["2. TANGGAP DARURAT (1x24 Jam): Melindungi Korban, Pemeriksaan Medis, & De-eskalasi Krisis"]
+        --> Investigasi["3. INVESTIGASI INDEPENDEN: Memeriksa Bukti Faktual, CCTV, & Saksi Terpercaya Tanpa Intimidasi"]
+        --> Resolusi["4. RESOLUSI RESTORATIF / HUKUM: Penegakan Sanksi Tegas Pelaku, Restitusi, & Pemulihan Korban"]
+        --> Reintegrasi["5. REINTEGRASI & EVALUASI: Pemulihan Trauma Psikologis & Audit Evaluasi Sistem Lingkungan"]
+    end
+```
+
+Protokol ini menjamin tidak ada satupun kasus kekerasan yang ditutup-tutupi atas dalih "menjaga nama baik pondok". Perlindungan korban adalah prioritas tertinggi lembaga.[^13]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Penegakan kemuliaan martabat santri membawa dampak peradaban yang transformatif:
+
+* **Mencetak Generasi Muslim yang Berjiwa Ksatria dan Berwibawa**:  
+  Santri yang tumbuh di lingkungan yang menghormati martabatnya akan memiliki harga diri yang tinggi (*Izzah Islamiyyah*), berani menyuarakan kebenaran, dan tidak mudah tunduk pada penindasan.
+* **Memulihkan Kepercayaan Masyarakat Terhadap Pesantren**:  
+  Dengan menegakkan transparansi dan *Zero-Violence Policy*, pesantren membuktikan diri sebagai tempat paling aman, paling berkah, dan paling ramah bagi tumbuh kembang generasi muda.
+* **Mewujudkan Kembali Piagam Madinah di Era Modern**:  
+  Pesantren yang mempraktikkan keadilan, perlindungan hak kaum yang lemah, dan pemuliaan manusia hakikatnya sedang menghidupkan kembali sunnah agung Rasulullah ﷺ dalam menata tatanan peradaban masyarakat madani.[^14]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Kemuliaan Martabat dan Hak Santri
+
+| Dimensi Parameter | Pola Tradisional Represif | Standar Perlindungan HAM Sekuler | **Doktrin Karamah Insaniyyah TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Landasan Hak** | Kekuasaan mutlak pengasuh/senior.| Hukum positif antroposentris Barat.| **Amanah Ketuhanan & Maqashid Syari'ah.**| QS. Al-Isra': 70; Khutbah Wada'. | Hak santri bersifat suci & wajib dipenuhi. |
+| **Kebijakan Kekerasan**| Dinormalisasi sebagai "penggemblengan".| Dilarang berdasar hukum perdata.| **Haram Mutlak (*Zero Physical Strike*).** | Kaidah *Sadd adz-Dzara'i'*; HR. Muslim. | Pemecatan pelaku & perlindungan korban. |
+| **Penanganan Aib** | Pemaluan publik (botak & diarak).| Terbuka tanpa etika spiritual.| **Satrul 'Aurat & Kerahasiaan BK.** | HR. Muslim No. 2699; Al-Ghazali. | Mediasi tertutup di ruang konseling damai. |
+| **Pola Relasi** | Feodalisme kaku & tirani senior.| Transaksional hak-kewajiban dingin.| **Ukhuwah Kasih Sayang & Qudwah Hasanah.**| HR. Bukhari No. 13; KH. Hasyim Asy'ari. | Senior membimbing adik kelas dengan adab. |
+| **Profil Lulusan** | Jiwa tertindas / calon pelaku baru.| Individu bebas nilai tanpa adab.| **Insan Adabi Berwibawa & Berjiwa Ksatria.**| QS. Al-Ma'idah: 32; Al-Attas (1980). | Pembela keadilan & pemimpin beradab. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (2009). *Sunan Abi Dawud*. Damaskus: Dar ar-Risalah.
-5. **As-Subki, Taqiyyuddin Ali bin Abdil Kafi**. (1991). *Fatawa as-Subki*. Kairo: Maktabah al-Qudsi.
-6. **Gershoff, E. T.**. (2002). *Corporal punishment by parents and associated child behaviors and experiences: A meta-analytic and theoretical review*. Psychological Bulletin, 128(4), 539–579.
-7. **Edmondson, A.**. (1999). *Psychological safety and learning behavior in work teams*. Administrative Science Quarterly, 44(2), 350–383.
-8. **UNICEF**. (2017). *A Familiar Face: Violence in the lives of children and adolescents*. New York: UNICEF.
-9. **Tyler, T. R.**. (2006). *Why People Obey the Law*. Princeton, NJ: Princeton University Press.
-10. **World Health Organization**. (2020). *Global Status Report on Preventing Violence Against Children 2020*. Geneva: WHO.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa**. (1417 H). *Al-Muwafaqat fi Ushul asy-Syari'ah*. Khobar: Dar Ibn 'Affan.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Afat al-Lisan & Kitab Adab al-Ulfah). Beirut: Dar al-Ma'rifah.
+6. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+7. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+8. **UNICEF**. (2014). *Hidden in Plain Sight: A Statistical Analysis of Violence Against Children*. New York: United Nations.
+9. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+11. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+12. **Nelsen, J.**. (2006). *Positive Discipline*. New York: Ballantine Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Shahih Bukhari No. 1741, Kitab *al-Hajj*, Bab *al-Khuthbah Ayyama Mina*.  
-[^2]: Al-Qur'an Surah Al-Isra [17]: 70.  
-[^3]: Shahih Bukhari No. 1741; Shahih Muslim No. 1679.  
-[^4]: UNICEF (2017), *A Familiar Face: Violence in the lives of children*, UNICEF Reports.  
-[^5]: As-Subki, *Fatawa as-Subki*, Jilid II, hlm. 380–392; Kaidah *Sadd adz-Dzara'i'*.  
-[^6]: Shahih Muslim No. 2699, Kitab *adz-Dzikr wad-Du'a wat-Taubah*, Bab *Fadhlu al-Ijtima' 'ala Tilawatil Qur'an*.  
-[^7]: Tyler, T. R. (2006), *Why People Obey the Law*, Princeton University Press.  
-[^8]: Edmondson, A. (1999), *Administrative Science Quarterly*, hlm. 350–383.  
-[^9]: Gershoff, E. T. (2002), *Psychological Bulletin*, hlm. 539–579.  
-[^10]: Laporan Kasuistika Advokasi Hak Santri & Penegakan Child Safeguarding, Biro Hukum TUMBUH, 2026.  
-[^11]: Piagam Perlindungan Anak Pesantren (Child Safeguarding Charter), Majelis Masyayikh TUMBUH, 2026.  
-[^12]: Manual Standar Pelayanan Hak Asasi Santri Asrama 24 Jam, Divisi Advokasi Santri TUMBUH, 2026.
+[^1]: Riset Hak Asasi Santri dan Perlindungan Martabat Pesantren TUMBUH, *Kritik atas Normalisasi Kekerasan Pengasuhan*, 2026.  
+[^2]: QS. Al-Isra' [17]: 70.  
+[^3]: *Shahih al-Bukhari*, Kitab al-'Ilm, Hadits No. 1741.  
+[^4]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 4, hlm. 195–230; Deklarasi Zero Physical Strike TUMBUH, 2026.  
+[^5]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Ulfah wal Ukhuwwah*, hlm. 170–198.  
+[^6]: Dokumentasi Penegakan Zero-Violence Policy dan Perlindungan Korban Perundungan PBIS TUMBUH, 2026.  
+[^7]: Asy-Syathibi, *Al-Muwafaqat*, Jilid 2, *Maqashid Hifzh an-Nafs*, hlm. 8–35.  
+[^8]: UNICEF (2014), *Hidden in Plain Sight*, hlm. 45–80.  
+[^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–62.  
+[^10]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 22–48.  
+[^11]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 30–60.  
+[^12]: Matriks Tingkatan Kesadaran Penegakan Martabat (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^13]: Standar Operasional Prosedur Child Safeguarding dan Pencegahan Kekerasan Pesantren TUMBUH, 2026.  
+[^14]: Deklarasi Perlindungan Martabat Insan dan Hak Asasi Santri Dewan Riset Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Karamah Insaniyyah, Child Safeguarding, & Zero Physical Strike
+### 4. Glosarium Istilah Ilmiah & Turats Perlindungan Hak Santri
 
-1. **Karamah Insaniyyah (الْكَرَامَةُ الْإِنْسَانِيَّةُ)**: Doktrin teologis Islam mengenai kemuliaan hakiki dan martabat luhur yang dianugerahkan Allah SWT kepada setiap manusia tanpa memandang usia atau status sosial.
-2. **Child Safeguarding (Perlindungan Anak)**: Kebijakan, prosedur, dan tindakan proaktif untuk memastikan seluruh anak terlindungi dari segala bentuk kekerasan, pelecehan, eksploitasi, dan pengabaian.
-3. **Zero Physical Strike**: Kebijakan pelarangan mutlak segala bentuk pukulan atau hukuman fisik dalam proses pendidikan pesantren demi menutup celah kezaliman (*Sadd adz-Dzara'i'*).
-4. **Satrul 'Aurat (سَتْرُ الْعَوْرَاتِ)**: Kewajiban syariat Islam untuk menutup aib, kelemahan, atau kesalahan masa lalu sesama muslim dari konsumsi publik demi membuka pintu taubat.
-5. **Psychological Safety**: Iklim sosial di mana peserta didik merasa aman untuk bertanya, mengakui kesalahan, dan berekspresi tanpa takut dipermalukan atau dihukum secara kejam.
-6. **Due Process of Tarbiyah**: Prosedur penanganan pelanggaran yang adil, transparan, berbasis pembuktian fakta (*Tabayyun*), dan memberikan hak jawab bagi santri.
-7. **Public Shaming**: Praktik mempermalukan anak di depan khalayak ramai yang terbukti secara psikologis menghancurkan rasa percaya diri dan membunuh rasa malu (*Haya'*).
-8. **Dharbun Ghairu Mubarrih (ضَرْبٌ غَيْرُ مُبَرِّحٍ)**: Batasan fiqh klasik tentang pukulan simbolik yang tidak melukai, tidak mencederai, dan tidak meninggalkan bekas, yang dalam konteks ekosistem TUMBUH digantikan sepenuhnya oleh konsekuensi logis restoratif.
-9. **Kanal Pengaduan Rahasia (Whistleblowing Channel)**: Sarana pelaporan aman dan rahasia bagi santri atau wali santri untuk melaporkan tindakan kekerasan atau perundungan tanpa takut intimidasi balasan.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana perlindungan hak asasi santri secara serempak memuliakan Santri, meningkatkan profesionalisme Pendidik, dan memperkokoh kredibilitas Lembaga.
+1. **Karamah Insaniyyah (كَرَامَةٌ إِنْسَانِيَّةٌ)**: Kemuliaan dan kehormatan martabat hakiki yang dianugerahkan Allah SWT kepada setiap manusia yang wajib dihormati dan dilindungi dari segala bentuk penistaan.
+2. **Khutbah Wada' (خُطْبَةُ الْوَدَاعِ)**: Khutbah perpisahan agung Rasulullah ﷺ pada haji terakhir yang menetapkan kesucian mutlak darah, harta, dan kehormatan setiap orang beriman.
+3. **Zero Physical Strike Policy**: Kebijakan tegas lembaga yang mengharamkan 100% segala bentuk pemukulan, tamparan, tendangan, atau kontak fisik yang menyakitkan dalam penanganan disiplin santri.
+4. **Sadd adz-Dzara'i' (سَدُّ الذَّرَائِعِ)**: Kaidah metodologis hukum Islam untuk menutup dan melarang segala sarana yang berpotensi kuat memicu terjadinya kerusakan besar atau kezaliman.
+5. **Satrul 'Aurat (سَتْرُ الْعَوْرَاتِ)**: Prinsip syariat untuk menjaga kehormatan dan menutupi aib kesalahan sesama muslim, melarang pengumuman kesalahan santri di depan umum.
+6. **Child Safeguarding Framework**: Kerangka kerja sistemik internasional dan kelembagaan untuk melindungi anak dari kekerasan fisik, emosional, perundungan, dan penelantaran di lingkungan pendidikan.
+7. **Hatk al-'Irdh (هَتْكُ الْعِرْضِ)**: Tindakan merobek, menodai, atau menghancurkan kehormatan dan harga diri seseorang melalui caci maki, fitnah, atau pemaluan publik.
+8. **Cycle of Violence (Siklus Kekerasan)**: Pola transmisi kekerasan di mana korban kekerasan di masa lalu cenderung meniru dan melampiaskan kekerasan kepada generasi di bawahnya saat ia memiliki kekuasaan.
+9. **Sanctuary Environment**: Lingkungan pesantren yang dirancang sebagai zona suci yang menghadirkan rasa aman fisik dan psikologis bagi seluruh warga yang tinggal di dalamnya.
+10. **Ulul Albab (أُولُو الأَلْبَابِ)**: Profil santri dan pendidik yang menjunjung tinggi keadilan, memuliakan martabat sesama makhluk, dan menjadi teladan peradaban yang beradab.

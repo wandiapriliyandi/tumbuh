@@ -1,278 +1,269 @@
-# P1-02-07: SINTESIS FILOSOFIS HAKIKAT KODRAT MANUSIA
-## *Monograf Terpadu: Konsolidasi 6 Pilar Paradigma Insan Pembelajar (Fitrah, Struktur Jiwa, Potensi Amanah, Motivasi Intrinsik, Dinamika Nafs, & Hak Asasi Santri), Uji Koherensi Teologi Fitrah & Neurokardiologi, Jembatan Menuju Sub-Domain 03 Human Development, & Piagam Pemuliaan Martabat Santri*
+# P1-02-07: SINTESIS FILOSOFIS HAKIKAT KODRAT MANUSIA (SYNTHESIS OF HUMAN NATURE)
+## *Monograf Riset Akademik: Konsolidasi 6 Pilar Paradigma Insan Pembelajar, Uji Koherensi Teologi Fitrah & Neurokardiologi, Jembatan Filosofis Menuju Human Development, Serta Piagam Pemuliaan Martabat Santri di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-02-07/MONOGRAF-TERPADU-SINTESIS-HUMAN-NATURE/2026`  
-**Domain**: `01 Philosophy` > `02 Human Nature`  
-**Klasifikasi Naskah**: *Comprehensive Synthesis Monograph* (Monograf Sintesis Filosofis & Manifesto Hakikat Insan Pembelajar)  
+**Nomor Identifikasi**: `P1-02-07/MONOGRAF-RISET-SINTESIS-HUMAN-NATURE/2026`  
+**Domain**: `01 Philosophy` > `02 Human Nature` (Sub-Modul 07: *Synthesis of Human Nature*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Ontologi & Antropologi Islam (*Falsafah al-Insan*), Psikologi Spiritual & Kognitif Integratif, Teologi Pendidikan Adab (*Ta'dib*), Tata Kelola Kepemimpinan Qudwah Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Enam Pilar Kodrat Santri yang Wajib Ditegakkan Setiap Asatidz:**  
->   1. **P1-02-01 (Hakikat Fitrah)**: Santri lahir suci membawa modal tauhid (*Mitsaq Azali*) dan moralitas bawaan; bukan kertas kosong (*Tabula Rasa*) dan bukan pemikul dosa warisan.  
->   2. **P1-02-02 (Struktur Diri Insani)**: Santri terdiri dari Ruh, Qalb (Raja Pemimpin), Akal (Perdana Menteri), dan Nafsu (Prajurit Energi). Rawat fisiknya, asah logikanya, hidupkan kalbunya.  
->   3. **P1-02-03 (Potensi & Amanah)**: Santri diciptakan dalam *Ahsani Taqwim* memikul mandat *'Ibadah* dan *'Imaratul Ardh*. Setiap santri memiliki sidik jari bakat unik seperti para sahabat Nabi SAW; hapus ranking tunggal!  
->   4. **P1-02-04 (Motivasi Intrinsik & Muraqabah)**: Disiplin sejati lahir dari rasa cinta dan malu kepada Allah (*Ihsan*), bukan karena takut dipukul rotan musyrif.  
->   5. **P1-02-05 (Dinamika Tiga Tingkat Nafs)**: Jiwa santri berproses dinamis dari *Nafs Ammarah* menuju *Lawwamah* (regulasi diri nurani) hingga *Muthmainnah* (ketenangan takwa).  
->   6. **P1-02-06 (Kemuliaan Martabat & Hak Asasi Santri)**: Santri memiliki kehormatan bani Adam (QS. Al-Isra: 70) yang haram dilanggar. Menegakkan kebijakan nol kekerasan fisik (*Zero Physical Strike*) dan perlindungan privasi (*Satrul 'Aurat*).
-> * **Deklarasi Mutlak Pesantren TUMBUH:**  
->   *"Menampar fisik, mencaci martabat, dan mematikan nalar santri adalah PENGKHIANATAN BESAR terhadap amanah Allah dan syariat Islam. Pesantren TUMBUH adalah taman peradaban yang memuliakan fitrah menuju derajat Insan Kamil!"*
+> * **Konsolidasi Enam Pilar Hakikat Kodrat Manusia:**  
+>   Sub-Domain 02 Human Nature merupakan poros ontologis antropologi Islam. Enam pilar riset fundamental disintesiskan secara koheren: **1. Hakikat Fitrah (Mitsaq Azali & Potensi Suci Aktif); 2. Struktur Diri (Harmoni Ruh, Qalb, 'Aql, Nafs, & Jasad); 3. Potensi & Amanah (Mandat Khilafah & Diferensiasi Bakat Sahabat); 4. Motivasi Intrinsik (Ihsan & Muraqabatullah); 5. Dinamika Jiwa (Transformasi Ammarah, Lawwamah, Menuju Muthmainnah); 6. Hak Asasi & Kemuliaan Martabat (Zero Physical Strike & Satrul 'Aurat)**.
+> * **Uji Ketahanan Falsifikasi & Ketiadaan Kontradiksi Internal:**  
+>   Bangunan teori ini terbukti bebas dari pertentangan logis antara kesucian fitrah dan keberadaan hawa nafsu biologis, teruji menghadapi reduksionisme materialisme sekuler dan asketisme ekstrem, serta aplikatif dijalankan musyrif di asrama 24 jam.
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan Piagam Pemuliaan Martabat Santri (*The Grand Charter of Student Dignity*), 4 Tingkatan Kesadaran Sintesis Kodrat Insan (*Maratib al-Idrak*), matriks konsolidasi holistik, dan jembatan penjalaran menuju Sub-Domain 03 Human Development.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET SINTESIS SISTEMIK, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-sintesis-sistemik-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Konsolidasi 6 Pilar Human Nature](#1-kerangka-metodologi-konsolidasi-6-pilar-human-nature)
-  - [2. Inkuiri 1: Uji Koherensi Logika & Konsolidasi 6 Pilar Human Nature Menjadi Satu Paradigma Utuh](#2-inkuiri-1-uji-koherensi-logika--konsolidasi-6-pilar-human-nature-menjadi-satu-paradigma-utuh)
-  - [3. Inkuiri 2: Uji Eliminasi Kontradiksi Internal antara Fitrah Suci, Daya Hawa Nafsu, & Mandat Amanah](#3-inkuiri-2-uji-eliminasi-kontradiksi-internal-antara-fitrah-suci-daya-hawa-nafsu--mandat-amanah)
-  - [4. Inkuiri 3: Uji Ketahanan Menghadapi Reduksionisme Materialisme Sekuler & Asketisme Ekstrem](#4-inkuiri-3-uji-ketahanan-menghadapi-reduksionisme-materialisme-sekuler--asketisme-ekstrem)
-  - [5. Inkuiri 4: Uji Kelayakan Praksis Pengasuhan Asrama 24 Jam (Field Usability Stress-Test)](#5-inkuiri-4-uji-kelayakan-praksis-pengasuhan-asrama-24-jam-field-usability-stress-test)
-  - [6. Inkuiri 5: Jembatan Filosofis Menuju Sub-Domain 03 (Human Development) & Lintasan Usia Santri](#6-inkuiri-5-jembatan-filosofis-menuju-sub-domain-03-human-development--lintasan-usia-santri)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri (The Grand Charter of Student Dignity)](#1-piagam-kelembagaan-pemuliaan-martabat--fitrah-santri-the-grand-charter-of-student-dignity)
-  - [2. Matriks Epistemologis & Operasional Konsolidasi Domain Human Nature](#2-matriks-epistemologis--operasional-konsolidasi-domain-human-nature)
-  - [3. Peta Jembatan Penjalaran Menuju 4 Sub-Domain Filosofis Lanjutan (P1-03 s/d P1-06)](#3-peta-jembatan-penjalaran-menuju-4-sub-domain-filosofis-lanjutan-p1-03-sd-p1-06)
-  - [4. Protokol Audit Mutu Tahunan Kepatuhan Paradigma Human Nature](#4-protokol-audit-mutu-tahunan-kepatuhan-paradigma-human-nature)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Sintesis Human Nature](#1-tabel-sintesis-hasil-riset-sintesis-human-nature)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Urgensi Konsolidasi Paradigma Insan Pembelajar Holistik](#1-latar-belakang-masalah-urgensi-konsolidasi-paradigma-insan-pembelajar-holistik)
+  - [2. Konsolidasi Enam Pilar Human Nature Menjadi Satu Paradigma Utuh](#2-konsolidasi-enam-pilar-human-nature-menjadi-satu-paradigma-utuh)
+  - [3. Uji Bebas Kontradiksi: Harmonisasi Antara Kesucian Fitrah dan Dinamika Hawa Nafsu](#3-uji-bebas-kontradiksi-harmonisasi-antara-kesucian-fitrah-dan-dinamika-hawa-nafsu)
+  - [4. Uji Ketahanan Menghadapi Reduksionisme Sekuler & Asketisme Ekstrem](#4-uji-ketahanan-menghadapi-reduksionisme-sekuler--asketisme-ekstrem)
+  - [5. Kasuistika Lapangan: Evaluasi Kelayakan Praksis Pengasuhan Asrama 24 Jam & Resolusi Restoratif](#5-kasuistika-lapangan-evaluasi-kelayakan-praksis-pengasuhan-asrama-24-jam--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri](#1-eksplanasi-teoretis-piagam-kelembagaan-pemuliaan-martabat--fitrah-santri)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sintesis Kodrat Insan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-sintesis-kodrat-insan-maratib-al-idrak)
+  - [3. Jembatan Filosofis Menuju Sub-Domain 03 Human Development](#3-jembatan-filosofis-menuju-sub-domain-03-human-development)
+  - [4. Prinsip Aksiologis & Protokol Audit Mutu Tahunan Paradigma Human Nature](#4-prinsip-aksiologis--protokol-audit-mutu-tahunan-paradigma-human-nature)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Sintesis Human Nature](#1-tabel-sintesis-temuan-riset-sintesis-human-nature)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Antropologi Islam & Psikologi](#4-glosarium-dan-penjelasan-istilah-teknis-antropologi-islam--psikologi)
+  - [4. Glosarium Istilah Ilmiah & Turats Sintesis Kodrat Insan](#4-glosarium-istilah-ilmiah--turats-sintesis-kodrat-insan)
 
 ---
 
-# BAGIAN I: RISET SINTESIS SISTEMIK, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Konsolidasi 6 Pilar Human Nature
+### 1. Latar Belakang Masalah: Urgensi Konsolidasi Paradigma Insan Pembelajar Holistik
 
 Sub-Domain `02 Human Nature` adalah jantung ontologi pendidikan Islam:
-* Jika pendidik salah memahami hakikat manusia, maka seluruh kurikulum, aturan disiplin, asesmen, dan tata kelola yang dibangun di atasnya pasti akan melenceng dan melahirkan kezaliman sistemik.
-* Enam modul riset (`P1-02-01` s/d `P1-02-06`) membentuk **Satu Kesatuan Paradigma Insan Pembelajar (*The Unified Paradigm of the Learner*)**:
+* Jika seorang pendidik salah memahami hakikat manusia, maka seluruh kurikulum, aturan tata tertib, sistem asesmen, dan metode pendisiplinan yang dibangun di atasnya pasti akan mengalami distorsi dan melahirkan kezaliman sistemik.
+* Memahami santri secara parsial—hanya melihat aspek otaknya tanpa kalbu, atau menuntut kesalehan tanpa memenuhi hak biologis raganya—telah terbukti memicu kegagalan pembinaan karakter di berbagai lembaga.
+* Ekosistem TUMBUH menyatukan enam sub-modul riset menjadi **Satu Kesatuan Paradigma Insan Pembelajar (*The Unified Paradigm of the Learner*)** yang kokoh secara filosofis dan teruji secara saintifik.[^1]
 
 ```mermaid
 flowchart TD
     subgraph KonsolidasiEnamPilarHumanNature["KONSOLIDASI 6 PILAR HUMAN NATURE EKOSISTEM TUMBUH"]
-        P1["P1-02-01: HAKIKAT FITRAH<br/>Ontologi Kesucian Primordial, Mitsaq Azali, & Bantahan Tabula Rasa"]
-        P2["P1-02-02: STRUKTUR DIRI INSANI<br/>Arsitektur Psiko-Spiritual Ruh, Qalb, 'Aql, Nafs, & Sumbu Neurokardiologi"]
-        P3["P1-02-03: POTENSI & AMANAH<br/>Penciptaan Ahsani Taqwim, Mandat Khilafah, & Diferensiasi Bakat Sahabat"]
-        P4["P1-02-04: MOTIVASI INTRINSIK<br/>Konvergensi Self-Determination Theory dengan Maqam Muraqabatullah"]
-        P5["P1-02-05: DINAMIKA NAFS<br/>Tiga Tingkat Jiwa: Ammarah bis-Su', Lawwamah, & Muthmainnah"]
-        P6["P1-02-06: HAK ASASI SANTRI<br/>Karamah Bani Adam (QS. 17:70), Khutbah Wada', & Zero Physical Strike"]
+        P1["P1-02-01: HAKIKAT FITRAH<br/>Ontologi Kesucian Primordial, Mitsaq Azali, & Dekonstruksi Tabula Rasa."]
+        P2["P1-02-02: STRUKTUR DIRI INSANI<br/>Integrasi Ruh, Qalb, 'Aql, Nafs, & Jasad (Heart-Brain Coherence)."]
+        P3["P1-02-03: POTENSI & AMANAH<br/>Mandat Khilafah, 'Imaratul Ardh, & 8 Tipologi Bakat Sahabat Nabawi."]
+        P4["P1-02-04: MOTIVASI INTRINSIK<br/>Self-Determination Theory & Maqam Muraqabatullah (Ihsan)."]
+        P5["P1-02-05: DINAMIKA NAFS<br/>Psikodinamika Ammarah, Lawwamah, Menuju Muthmainnah."]
+        P6["P1-02-06: HAK ASASI SANTRI<br/>Doktrin Karamah Insaniyyah & Kebijakan Zero Physical Strike."]
         
-        P1 <==> P2
-        P2 <==> P3
-        P3 <==> P4
-        P4 <==> P5
-        P5 <==> P6
-        P6 <==> P1
+        SintesisInduk["P1-02-07: SINTESIS HUMAN NATURE<br/>(Paradigma Utuh Insan Pembelajar TUMBUH)"]
         
-        P1 & P2 & P3 & P4 & P5 & P6 ==> SINTESIS["P1-02-07: SINTESIS KODRAT INSAN PEMBELAJAR (TUMBUH)"]
+        P1 & P2 & P3 & P4 & P5 & P6 ==> SintesisInduk
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Uji Koherensi Logika & Konsolidasi 6 Pilar Human Nature Menjadi Satu Paradigma Utuh
+### 2. Konsolidasi Enam Pilar Human Nature Menjadi Satu Paradigma Utuh
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap teori antropologi pendidikan yang memetakan hakikat asal mula (*Fitrah*), struktur daya kejiwaan (*Ruh-Qalb-Aql-Nafs*), tujuan fungsi mandat (*Amanah Khilafah*), motivasi penggerak (*Muraqabah*), dinamika perjuangan batin (*Maratib an-Nafs*), dan perlindungan martabat hukumnya (*Karamah & Huquq*) niscaya menghasilkan sebuah paradigma manusia pembelajar yang paripurna, kokoh, dan berkeadilan.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Enam modul Sub-Domain `02 Human Nature` merangkum secara presisi keenam pilar eksistensial tersebut.
-* **Konklusi (*an-Natijah*)**: Maka, Domain Human Nature TUMBUH memiliki koherensi logika yang sempurna dan menjadi acuan mutlak bagi seluruh sistem pembinaan.[^1]
-
-#### 📖 Teks Primer Turats: *Tahdzib al-Akhlaq* Ibnu Miskawaih
-Imam **Ibnu Miskawaih** menegaskan kesatuan hakikat manusia:
-
-$$\text{إِنَّ مَعْرِفَةَ حَقِيقَةِ الْإِنْسَانِ وَكَمَالِهِ لَا تَتِمُّ إِلَّا بِاجْتِمَاعِ أُمُورٍ: مَعْرِفَةِ مَبْدَئِهِ وَفِطْرَتِهِ، وَمَعْرِفَةِ قُوَاهُ النَّفْسَانِيَّةِ وَتَرْتِيبِهَا، وَمَعْرِفَةِ غَايَتِهِ الَّتِي خُلِقَ لِأَجْلِهَا مِنَ الْخِلَافَةِ وَالْعِمَارَةِ، وَمَعْرِفَةِ مَرَاتِبِ نَفْسِهِ وَمُجَاهَدَتِهَا، وَحِفْظِ كَرَامَتِهِ وَحُقُوقِهِ؛ فَإِذَا انْتَظَمَتْ هَذِهِ بَلَغَ الْإِنْسَانُ غَايَةَ السَّعَادَةِ}$$
-
-*"Sesungguhnya pengetahuan tentang hakikat manusia dan kesempurnaannya tidak akan sempurna melainkan dengan berhimpunnya: (1) Mengetahui asal mula dan fitrah penciptaannya, (2) Mengetahui daya-daya kejiwaannya dan tata urutannya, (3) Mengetahui tujuan akhir penciptaannya berupa amanah khilafah, (4) Mengetahui tingkatan nafsu dan jalan mujahadah-nya, serta (5) Menjaga kemuliaan martabat dan hak-hak asasinya. Maka apabila hal-hal ini tersusun rapi, niscaya manusia akan mencapai puncak kebahagiaan sejati!"*[^2]
+Keenam pilar saling mengunci secara organis:
+1. *P1-02-01* menetapkan modal suci bawaan santri (*Fitrah*).
+2. *P1-02-02* memetakan anatomi psiko-spiritual penggeraknya (*Struktur Diri*).
+3. *P1-02-03* mengarahkan peruntukan potensi uniknya untuk peradaban (*Amanah Khilafah*).
+4. *P1-02-04* menghidupkan motor penggerak otonomnya dari dalam kalbu (*Muraqabah*).
+5. *P1-02-05* memandu jalan transformasi pergulatan jiwanya (*Tazkiyah*).
+6. *P1-02-06* membentengi batas kehormatan dan keselamatannya dari kezaliman (*Karamah*).[^2]
 
 ---
 
-### 3. Inkuiri 2: Uji Eliminasi Kontradiksi Internal antara Fitrah Suci, Daya Hawa Nafsu, & Mandat Amanah
+### 3. Uji Bebas Kontradiksi: Harmonisasi Antara Kesucian Fitrah dan Dinamika Hawa Nafsu
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap rancang bangun ciptaan Allah SWT yang memadukan fitrah suci dengan daya nafsu dinamis di bawah naungan akal dan kalbu demi tujuan ujian pertanggungjawaban ikhtiar (*Al-Ibtila' wal-Khilafah*) adalah mahakarya hikmah yang sempurna dan mutlak bebas dari cacat kontradiksi (*Zero Internal Contradiction*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Seluruh dokumen Sub-Domain `02 Human Nature` merumuskan dinamika tersebut secara koheren selaras maqashid syari'ah.
-* **Konklusi (*an-Natijah*)**: Maka, ontologi Human Nature TUMBUH dinyatakan lolos audit konsistensi logika formal 100%.[^3]
+Terdapat gugatan kritis: *Jika manusia lahir membawa fitrah suci (P1-02-01), mengapa di dalam dirinya terdapat dorongan hawa nafsu ammarah yang mengajak pada keburukan (P1-02-05)?*
+* **Resolusi Teologis & Psikologis TUMBUH**: Nafsu hewani (*Syahwat & Ghadhab*) pada hakikat asalnya adalah instrumen biologis suci yang diciptakan Allah untuk menjaga kelangsungan hidup manusia (*Self-Preservation*). Nafsu hanya menjadi buruk (*Ammarah bis-Su'*) ketika keluar dari kendali akal sehat dan kalbu yang dibimbing wahyu.
+* Dengan demikian, tidak ada kontradiksi internal antara fitrah yang suci dan keberadaan nafsu biologis.[^3]
 
 ---
 
-### 4. Inkuiri 3: Uji Ketahanan Menghadapi Reduksionisme Materialisme Sekuler & Asketisme Ekstrem
+### 4. Uji Ketahanan Menghadapi Reduksionisme Sekuler & Asketisme Ekstrem
+
+Paradigma Human Nature TUMBUH berhasil mematahkan dua kutub ekstrem:
+* Menghancurkan **Materialisme Sekuler** yang mereduksi manusia sekadar hewan primata tanpa ruh dan hisab akhirat.
+* Mengoreksi **Asketisme Ekstrem** yang menyiksa kebutuhan biologis jasad santri atas nama penyucian jiwa yang keliru.[^4]
+
+---
+
+### 5. Kasuistika Lapangan: Evaluasi Kelayakan Praksis Pengasuhan Asrama 24 Jam & Resolusi Restoratif
+
+Penerapan konsolidasi Human Nature di asrama pesantren membuktikan bahwa ketika musyrif memahami anatomi jiwa dan memuliakan fitrah santri, tingkat pelanggaran berat menurun drastis, suasana kamar menjadi hangat, dan santri berprestasi secara optimal sesuai bakat uniknya.[^5]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri
+
+Ekosistem TUMBUH menetapkan **Piagam Agung Pemuliaan Martabat Santri (*The Grand Charter of Student Dignity*)**:
 
 ```mermaid
 flowchart TD
-    subgraph UjiKetahananOntologiTUMBUH["UJI KETAHANAN MENGHADAPI DUA EKSTREM"]
-        Materialisme["EKSTREM KIRI: MATERIALISME SEKULER<br/>Mereduksi santri jadi mesin biologis/hewan ekonomi<br/>-> Menghapus dimensi Ruh, Ikhlas, & Akhirat"]
+    subgraph PiagamAgungMartabatSantri["PIAGAM AGUNG PEMULIAAN MARTABAT SANTRI TUMBUH"]
         
-        Asketisme["EKSTREM KANAN: ASKETISME EKSTREM (MISTIS)<br/>Menganggap tubuh fisik najis & wajib disiksa<br/>-> Melarang tidur, makan sedikit, & membunuh nafsu"]
+        P_A1["1. ASAS KESUCIAN FITRAH: Menolak Pelabelan 'Anak Nakal/Bandel' Permanen."]
+        P_A2["2. ASAS INTEGRASI JIWA-RAGA: Memenuhi Hak Tidur 7 Jam, Gizi Sehat, & Dzikir Kalbu."]
+        P_A3["3. ASAS DIFERENSIASI BAKAT: Menghargai Keragaman Potensi Tanpa Ranking Tunggal."]
+        P_A4["4. ASAS DISIPLIN MURAQABAH: Membina Kesadaran Ditatap Allah Tanpa Teror Fisik."]
+        P_A5["5. ASAS TAZKIYAH BERTAHAP: Mengaktivasi Nafs Lawwamah Menuju Muthmainnah."]
+        P_A6["6. ASAS ZERO-TOLERANCE KEKERASAN: Mengharamkan Mutlak Pemukulan & Pelecehan Martabat."]
         
-        TUMBUH_Tawazun["JALAN TENGAH ISLAM (WASATHIYYAH TUMBUH)<br/>Memuliakan Ruh & Kalbu dengan Dzikir<br/>Menajamkan Akal dengan Sains & Mantiq<br/>Merawat Fisik & Hak Asasi Santri Bebas Kekerasan"]
-        
-        Materialisme -.->|Ditolak Mutlak| TUMBUH_Tawazun
-        Asketisme -.->|Ditolak Mutlak| TUMBUH_Tawazun
+        P_A1 <===> P_A2 <===> P_A3 <===> P_A4 <===> P_A5 <===> P_A6
     end
 ```
 
+#### 🔬 Pembahasan Mendalam Enam Komitmen Piagam:
+1. **Kesucian Fitrah**: Santri yang melakukan kesalahan dipandang sebagai anak yang sedang mengalami hambatan lingkungan yang wajib dipulihkan (*Husnudzan Edukatif*).[^6]
+2. **Keseimbangan Ekologis**: Asrama menjamin pemenuhan hak jasmani secara prima agar sistem saraf dan kalbu santri berada dalam kondisi optimal (*Homeostasis*).[^7]
+3. **Keadilan Diferensiasi**: Setiap santri difasilitasi melejitkan potensinya untuk menjadi ulama, dokter, insinyur, atau seniman beradab.[^8]
+4. **Disiplin Batin**: Ketertiban ditegakkan melalui koneksi batin dengan Allah SWT (*Ihsan*).[^9]
+5. **Terapi Restoratif**: Pelanggaran diselesaikan dengan pemulihan kerusakan (*Restitusi*) dan bimbingan muhasabah.[^10]
+6. **Perlindungan Mutlak**: Menjamin pesantren sebagai zona suci bebas kekerasan (*Sanctuary Environment*).[^11]
+
 ---
 
-### 5. Inkuiri 4: Uji Kelayakan Praksis Pengasuhan Asrama 24 Jam (*Field Usability Stress-Test*)
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sintesis Kodrat Insan (Maratib al-Idrak)
 
-Uji stres operasional membuktikan bahwa penerapan 6 pilar Human Nature secara serempak menghasilkan:
-1. **Peniadaan Total Kekerasan Fisik & Verbal (Zero Violence)**.
-2. **Penurunan Kasus Pelanggaran Asrama hingga 95%** berkat penguatan motivasi intrinsik dan program bimbingan *Lawwamah*.
-3. **Peningkatan Kesejahteraan Emosional & Rasa Aman Santri** hingga 98,4%.[^4]
-
----
-
-### 6. Inkuiri 5: Jembatan Filosofis Menuju Sub-Domain 03 (Human Development)
+Transformasi kedewasaan memahami hakikat insan berlangsung melalui **Empat Tingkatan Kesadaran Sintesis Kodrat Insan (*Maratib al-Idrak al-Insaniy*)**:
 
 ```mermaid
 flowchart TD
-    HN["02 HUMAN NATURE (Ontologi Hakikat Kodrat Manusia: 6 Pilar)<br/>Siapa hakikat santri? -> Insan fitrah suci, 4 daya jiwa, amanah khilafah, muraqabah, 3 nafs, & mukarram."]
-    
-    ==> Jembatan["JEMBATAN FILOSOFIS & METODOLOGIS:<br/>'Bagaimana kodrat suci ini bertumbuh, menavigasi krisis remaja, & berproses menuju kematangan?'"]
-    
-    ==> HD["03 HUMAN DEVELOPMENT (Trajektori Pertumbuhan & Perkembangan Santri)<br/>1. Pentahapan Tazkiyatun Nafs<br/>2. Neurosains Perkembangan Remaja Pesantren<br/>3. Desain Jenjang Kemandirian TUMBUH (J1–J4) J1-J4<br/>4. Integrasi CASEL Social Emotional Learning<br/>5. Krisis Biososial Pubertas<br/>6. Puncak Aktualisasi Tahap 7 Penggerak"]
+    subgraph TingkatanKesadaranSintesisInsan["EMPAT TINGKATAN KESADARAN SINTESIS KODRAT INSAN (MARATIB AL-IDRAK)"]
+        
+        I1_Sintesis["TINGKAT 1: KESADARAN DIRI AWAL (Al-Idrak al-Basyariy)<br/>• Mengenali dorongan biologis diri & batasan aturan lahiriah asrama.<br/>• Mampu membedakan hal-hal yang membahayakan raga & mematuhi SOP keselamatan."]
+        
+        I2_Sintesis["TINGKAT 2: KESADARAN NALAR REGULATIF (Al-Idrak al-'Aqliy-al-Mustanir)<br/>• Menyadari potensi bakat unik diri & mampu mengendalikan dorongan impulsif nafsu.<br/>• Memahami relasi sebab-akibat antara disiplin ibadah & kejernihan akal pikiran."]
+        
+        I3_Sintesis["TINGKAT 3: KESADARAN INTEGRITAS KALBU (Al-Idrak al-Qalbiy-al-Ihsaniy)<br/>• Menghayati kehadiran Allah (Muraqabah); memuliakan martabat sesama kawan.<br/>• Ikhlas beramal; aktif melerai perselisihan & membantu kawan yang kesulitan."]
+        
+        I4_Sintesis["TINGKAT 4: KESADARAN HAKIKAT INSAN KAMIL (Al-Idrak al-Kamil)<br/>• Puncak kematangan manusia: manunggalnya Fitrah, Ubudiyyah, & Khilafah Peradaban.<br/>• Menjadi Live Qudwah yang memancarkan rahmat bagi semesta alam (Rahmatan lil 'Alamin)."]
+        
+        I1_Sintesis ==> I2_Sintesis ==> I3_Sintesis ==> I4_Sintesis
+    end
 ```
 
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri (*The Grand Charter of Student Dignity*)
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kami Bersaksi Bahwa Setiap Santri Adalah Hamba Allah Yang Dimuliakan (mukarram)**:  
-   Dilahirkan membawa fitrah kesucian tauhid (Mitsaq Azali) dan kompas moral kebaikan bawaan.
-
-2. **Kami Mengharamkan Mutlak Segala Bentuk Kekerasan Fisik, Verbal, & Perpeloncoan**:  
-   Menolak pemukulan rotan, tamparan, makian kotor, pencukuran memalukan, dan intimidasi senioritas.
-
-3. **Kami Menegakkan Paradigma Dokter Jiwa Dalam Membimbing Nafs Santri**:  
-   Memandang pelanggaran adab sebagai dinamika transisi jiwa yang wajib disembuhkan dengan metode Firm & Kind, disiplin restoratif 4R, dan pemberdayaan suara hati nurani (Nafs Lawwamah).
-
-4. **Kami Menghormati Keragaman Sidik Jari Bakat Unik Setiap Santri**:  
-   Menghapus sistem perankingan tunggal toksik dan memfasilitasi setiap santri memakmurkan bumi.
-
-5. **Kami Mendidik Santri Menuju Maqam Muraqabatullah & Motivasi Intrinsik Sejati**:  
-   Disiplin otonom yang lahir dari rasa cinta dan malu kepada Allah, bukan kepatuhan palsu karena takut.
-
-6. **Kami Menjamin Pemenuhan Hak-hak Biologis & Kerahasiaan Privasi Santri (satrul 'aurat)**:  
-   Makanan bergizi thayyib, tidur sehat 7 jam, air sanitasi bersih, dan kerahasiaan catatan konseling BK.
-
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Respon Biologis Menuju Nalar Regulatif)**: Santri mula-mula digerakkan oleh kebutuhan dasar. Pada tingkatan kedua, akal budinya tercerahkan: santri mengenali keunikan bakat dirinya dan mampu menunda kesenangan sesaat demi cita-cita mulia.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Nalar Menuju Pengawalan Kalbu Muraqabah)**: Pada tingkatan ketiga, kesadaran bertransformasi menjadi integritas moral spiritual: santri memperlakukan orang lain dengan penuh kasih sayang dan takut berbuat zhalim kepada sesama.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Insan Kamil)**: Pada tingkatan tertinggi, santri mewujudkan hakikat kemanusiaan paripurna: menyatukan ketundukan ibadah kepada Allah dengan karya nyata memakmurkan peradaban bumi.[^12]
 
 ---
 
-### 2. Matriks Epistemologis & Operasional Konsolidasi Domain Human Nature
+### 3. Jembatan Filosofis Menuju Sub-Domain 03 Human Development
 
-| Nomor Modul | Pokok Bahasan Filosofis | Rujukan Turats Klasik | Rujukan Sains Kontemporer | Manifestasi Operasional di Pesantren |
-| :---: | :--- | :--- | :--- | :--- |
-| **P1-02-01** | **Hakikat Fitrah & Kodrat Insan** | QS. Ar-Rum: 30, QS. 7:172, Ibn Taimiyyah (*Dar' Ta'arudh*), Al-Ghazali. | *Innate Morality* (Paul Bloom, Yale) & Alison Gopnik (*Philosophical Baby*). | Paradigma *Husnudzan Edukatif*; santri dipandang suci dan berpotensi mulia.[^5] |
-| **P1-02-02** | **Struktur Diri Insani (4 Daya)** | Al-Ghazali (*Ma'arij al-Quds & Ihya'*), Ar-Razi (*Kitab an-Nafs war-Ruh*). | *Neurocardiology* (J. A. Armour) & *Heart-Brain Coherence* (McCraty). | *The Daily Coherence Protocol*; keseimbangan asupan Ruh, Akal, dan gizi Nafs raga.[^6] |
-| **P1-02-03** | **Potensi Insan & Mandat Amanah** | QS. At-Tin: 4–6, QS. 33:72, Riwayat 8 Bakat Sahabat Nabi SAW. | *Multiple Intelligences* (Howard Gardner) & *Strengths-Based Pedagogy*. | Kurikulum diferensiasi adab, peniadaan ranking tunggal, & portofolio bakat unik.[^7] |
-| **P1-02-04** | **Motivasi Intrinsik & Muraqabah**| Al-Qusyairi (*Ar-Risalah*), Hadits Jibril Ihsan, Muhasibi (*Adab an-Nufus*). | *Self-Determination Theory* (Edward Deci & Richard Ryan). | *The Nightly Muraqabah Circle*; disiplin otonom seumur hidup tanpa pengawasan teror.[^8] |
-| **P1-02-05** | **Dinamika Tiga Tingkat Nafs** | QS. Yusuf: 53, QS. 75:2, QS. 89:27, Al-Ghazali (*Riyadhatun Nafs*). | *Dual-Systems Model* (Steinberg) & *Cognitive Behavioral Therapy* (Beck). | Pembedahan akar motif perilaku, penguatan *Lawwamah*, & terapi *Al-'Ilaju bidh-Dhidd*.[^9] |
-| **P1-02-06** | **Kemuliaan Martabat & Hak Asasi**| QS. Al-Isra: 70, Khutbah Wada' (HR. Bukhari 1741), Fatawa As-Subki. | *Child Safeguarding Framework* (UNICEF) & *Psychological Safety* (Edmondson). | Kebijakan *Zero Physical Strike*, penghapusan *public shaming*, & SOP perlindungan anak.[^10] |
+Sintesis *Human Nature* menjadi landasan ontologis bagi perumusan **Sub-Domain 03 Human Development**:
+* Dari pemahaman hakikat fitrah, struktur diri, dan dinamika nafs di domain ini, dirumuskanlah **Tahapan Pertumbuhan Jiwa (*Marahil at-Tarbiyah*)** dan **Matriks Taksonomi Kapasitas Insan** pada domain berikutnya.[^13]
 
 ---
 
-### 3. Peta Jembatan Penjalaran Menuju 4 Sub-Domain Filosofis Lanjutan (P1-03 s/d P1-06)
+### 4. Prinsip Aksiologis & Protokol Audit Mutu Tahunan Paradigma Human Nature
 
-```mermaid
-graph TD
-    HN["02 HUMAN NATURE (Ontologi Hakikat Manusia: 6 Pilar Lengkap)"]
-    
-    HN ==> HD["03 HUMAN DEVELOPMENT (P1-03)<br/>Trajektori Pertumbuhan: Tazkiyah, Neurosains Remaja, Jenjang J1–J4, CASEL SEL, & Tahap 7"]
-    
-    HN ==> EDU["04 EDUCATION (P1-04)<br/>Filsafat Kurikulum Adab: Ta'dib Al-Attas, Anti-Feodalisme, Disiplin Restoratif, & Ekologi 24 Jam"]
-    
-    HN ==> LEAD["05 LEADERSHIP (P1-05)<br/>Kepemimpinan Qudwah: Servant Leadership Nabawi, Eliminasi Feodalisme, & Kaderisasi"]
-    
-    HN ==> CHG["06 CHANGE (P1-06)<br/>Dinamika Transformasi Pesantren: Manajemen Perubahan Sistemik, Sunnatullah, & Budaya Mutu"]
-```
-
----
-
-### 4. Protokol Audit Mutu Tahunan Kepatuhan Paradigma Human Nature
+Sintesis ini melahirkan protokol penjaminan mutu kelembagaan:
 
 ```mermaid
 flowchart TD
-    AuditStart["KOMITE PENJAMINAN MUTU PESANTREN MEMULAI AUDIT TAHUNAN DOMAIN HUMAN NATURE"]
-    --> Collect["PENGUMPULAN DATA 6 PILAR:<br/>1. Survei Persepsi Pemuliaan Fitrah & Rasa Aman oleh Santri<br/>2. Audit Kebugaran Fisik, Sanitasi Air, & Jam Tidur 7 Jam<br/>3. Evaluasi Portofolio Bakat Unik Santri & Bebas Ranking<br/>4. Verifikasi Ketiadaan Total Hukuman Fisik & Penelanjangan Aib"]
-    
-    Collect --> Index["SKORING INDEKS HUMAN NATURE (Skor 0 - 100)"]
-    
-    Index --> Status{"HASIL AUDIT MUTU"}
-    Status -- SKOR >= 90 --> Mumtaz["PREDIKAT MUMTAZ: PESANTREN RAMAH FITRAH & BERPERADABAN TINGGI"]
-    Status -- SKOR 75 - 89 --> Perbaikan["REKOMENDASI PERBAIKAN DALAM 30 HARI"]
-    Status -- SKOR < 75 --> EvaluasiTotal["INTERVENSI YAYASAN & RESTRUKTURISASI MANAJEMEN PENGASUHAN"]
+    subgraph AuditMutuHumanNature["PROTOKOL AUDIT MUTU TAHUNAN HUMAN NATURE"]
+        Audit1["1. AUDIT ZERO-VIOLENCE: Memverifikasi 0% Insiden Kekerasan Fisik & Verbal di Asrama"]
+        --> Audit2["2. AUDIT KESEHATAN BIOLOGIS: Memeriksa Keterpenuhan Jam Tidur 7 Jam & Standar Nutrisi"]
+        --> Audit3["3. AUDIT DIFERENSIASI BAKAT: Memastikan Setiap Santri Memiliki Saluran Portofolio Bakat Unik"]
+        --> Audit4["4. AUDIT IKLIM UKHUWAH: Mengukur Skor Kohesi Sosial & Kesejahteraan Psikologis Santri"]
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Audit ini menjamin pesantren senantiasa setia pada mandat memuliakan manusia.[^14]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Sintesis Human Nature
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| No | Babak Inkuiri Sintesis (*Bagian I*) | Hasil Formulasi Baku (*Bagian II*) | Temuan Kunci & Argumen Pembeda |
-| :---: | :--- | :--- | :--- |
-| **1** | **Inkuiri 1**: Koherensi 6 Pilar | **Arsitektur Utuh**: Unified Paradigm | Mengintegrasikan fitrah, struktur jiwa, amanah, muraqabah, dinamika nafs, dan hak asasi santri. |
-| **2** | **Inkuiri 2**: Eliminasi Kontradiksi | **Status Baku**: Zero Contradiction | Membuktikan harmoni antara fitrah suci dan daya nafsu sebagai instrumen jihad nafs. |
-| **3** | **Inkuiri 3**: Uji Ketahanan Dua Ekstrem | **Doktrin Wasathiyyah**: Tawazun | Menolak materialisme tanpa ruh dan menolak asketisme penyiksaan raga. |
-| **4** | **Inkuiri 4**: Uji Kelayakan 24 Jam | **Kelayakan Praksis**: High Usability | Lulus uji stres operasional 24 jam dan menurunkan 95% pelanggaran asrama. |
-| **5** | **Inkuiri 5**: Jembatan ke Sub-Domain 03 | **Peta Trajektori**: P1-03 Human Dev | Menghubungkan ontologi statis kodrat manusia dengan dinamika pertumbuhan usia remaja. |
+Sintesis filosofis kodrat insan ini menegaskan visi agung ekosistem TUMBUH:
+
+* **Melahirkan Kembali Manusia Seutuhnya (*The Restoration of the Whole Human*)**:  
+  Pendidikan modern yang sekuler telah memecah-belah manusia menjadi sekadar roda penggerak industri ekonomi. TUMBUH mengembalikan manusia pada fitrah kemuliaan aslinya sebagai hamba dan khalifah Allah.
+* **Membangun Peradaban Pesantren yang Menginspirasi Dunia**:  
+  Pesantren yang mempraktikkan pemuliaan martabat santri, keunggulan sains bertauhid, dan keadilan restoratif akan tampil sebagai rujukan model pendidikan global.
+* **Menyiapkan Generasi Emas Pembebas Peradaban**:  
+  Dari rahim filosofi ini lahir para pemimpin berkarakter *Insan Adabi* yang siap memimpin peradaban dunia dengan kecerdasan, adab, dan kasih sayang.[^15]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Sintesis Human Nature
+
+| Dimensi Parameter | Mazhab Materialisme Sekuler | Mazhab Pengasuhan Represif | **Sintesis Human Nature TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hakikat Manusia** | Hewan cerdas tanpa jiwa batin. | Makhluk rentan dosa yang harus diteror.| **Hamba & Khalifah Allah yang Mulia.**| QS. Al-Isra': 70; QS. At-Tin: 4. | Memuliakan potensi fitrah bawaan santri. |
+| **Struktur Jiwa** | Otak materiil & fungsi syaraf semata.| Musuh yang harus disiksa tirakat kaku.| **Arsitektur Ruh, Qalb, 'Aql, Nafs, Jasad.**| Al-Ghazali; Armour (1991). | Pemenuhan nutrisi jasmani & dzikir batin. |
+| **Diferensiasi Bakat**| Penyeragaman industri ranking ujian.| Penyeragaman hafalan teks kaku. | **8 Tipologi Bakat Sahabat Nabawi.** | QS. Al-Isra': 84; Ibn Qayyim. | Kurikulum berbasis kekuatan & asesmen ipsatif. |
+| **Motivasi Disiplin**| Transaksional upah materiil. | Teror rotan & bentakan musyrif. | **Motivasi Intrinsik Muraqabatullah.** | HR. Muslim No. 8; Deci & Ryan. | Disiplin mandiri & istiqamah seumur hidup. |
+| **Kebijakan Kekerasan**| Regulasi hukum perdata dingin. | Dinormalisasi demi penggemblengan. | **Haram Mutlak (*Zero Physical Strike*).**| Kaidah *Sadd adz-Dzara'i'*; UNICEF. | Zona aman pesantren bebas kekerasan. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Attas, Syed Muhammad Naquib.** (1990). *The Nature of Man and the Psychology of the Human Soul*. Kuala Lumpur: ISTAC.
-2. **Al-Bukhari, Abu Abdullah Muhammad bin Ismail.** (2002). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad.** (2004). *Ihya' 'Ulumiddin*. Kairo: Dar al-Hadits.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad.** (1964). *Ma'arij al-Quds fi Madarij Ma'rifat an-Nafs*. Kairo: Maktabah al-Jundi.
-5. **Ibnu Miskawaih, Abu Ali Ahmad bin Muhammad.** (2011). *Tahdzib al-Akhlaq wa Tathhir al-A'raq*. Kairo: Dar al-Kutub al-Mishriyyah.
-6. **Ibn Taimiyyah, Taqiuddin Ahmad.** (1991). *Dar' Ta'arudh al-'Aql wan-Naql*. Riyadh: Jami'ah al-Imam.
-7. **Bloom, Paul.** (2013). *Just Babies: The Origins of Good and Evil*. New York: Crown Publishers.
-8. **Deci, Edward L., & Ryan, Richard M.** (2000). *The Self-Determination Theory of Behavior*. Psychological Inquiry, 11(4), 227–268.
-9. **Steinberg, L.** (2008). *A social neuroscience perspective on adolescent risk-taking*. Developmental Review, 28(1), 78–106.
-10. **UNICEF.** (2017). *A Familiar Face: Violence in the lives of children and adolescents*. New York: UNICEF.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+3. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+4. **Al-Attas, Syed Muhammad Naquib**. (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC.
+5. **Ibnu Taimiyyah, Taqiyuddin Ahmad bin Abdul Halim**. (1411 H). *Dar'u Ta'arudh al-'Aql wan-Naql*. Riyadh: Jami'ah al-Imam Muhammad bin Su'ud.
+6. **Ibnu Qayyim al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr**. (1419 H). *Miftah Dar as-Sa'adah*. Kairo: Dar Ibn 'Affan.
+7. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa**. (1417 H). *Al-Muwafaqat fi Ushul asy-Syari'ah*. Khobar: Dar Ibn 'Affan.
+8. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+9. **Bloom, P.**. (2013). *Just Babies: The Origins of Good and Evil*. New York: Crown Publishers.
+10. **Deci, E. L., & Ryan, R. M.**. (2000). *The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior*. Psychological Inquiry, 11(4), 227–268.
+11. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Attas (1990), *The Nature of Man*, hlm. 1–35; Ibnu Miskawaih, *Tahdzib al-Akhlaq*, hlm. 40–55.  
-[^2]: Ibnu Miskawaih, *Tahdzib al-Akhlaq*, hlm. 42.  
-[^3]: Ibn Taimiyyah, *Dar' Ta'arudh al-'Aql wan-Naql*, Juz I, hlm. 140–155.  
-[^4]: Evaluasi Praksis Implementasi Human Nature Asrama Percontohan, Komite Penjaminan Mutu TUMBUH, 2026.  
-[^5]: Al-Qur'an Surah Ar-Rum [30]: 30; Paul Bloom, *Just Babies*, hlm. 15.  
-[^6]: Shahih al-Bukhari, No. 52; J. Andrew Armour, *Neurocardiology*, hlm. 1–25.  
-[^7]: Al-Qur'an Surah At-Tin [95]: 4; Howard Gardner, *Frames of Mind*, hlm. 12.  
-[^8]: Shahih Muslim, No. 8; Deci & Ryan (2000), *Psychological Inquiry*, hlm. 227–268.  
-[^9]: Steinberg (2008), *Developmental Review*, hlm. 78–106; Beck (2011), *CBT*, Guilford Press.  
-[^10]: Al-Qur'an Surah Al-Isra [17]: 70; Shahih Bukhari No. 1741; UNICEF (2017), *Child Safeguarding Reports*.
+[^1]: Riset Konsolidasi Human Nature Pesantren TUMBUH, *Kritik atas Fragmentasi Antropologi Pendidikan*, 2026.  
+[^2]: Master Arsitektur Enam Pilar Human Nature Ekosistem TUMBUH, 2026.  
+[^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Syarh 'Aja'ib al-Qalb*, hlm. 10–38.  
+[^4]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 140–175.  
+[^5]: Dokumentasi Evaluasi Lapangan dan Uji Kelayakan Praksis Pengasuhan Asrama TUMBUH, 2026.  
+[^6]: Ibnu Taimiyyah, *Dar'u Ta'arudh al-'Aql wan-Naql*, Jilid 8, hlm. 390–425.  
+[^7]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 105–140.  
+[^8]: Ibnu Qayyim al-Jauziyyah, *Miftah Dar as-Sa'adah*, Jilid 1, hlm. 125–150.  
+[^9]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268.  
+[^10]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
+[^11]: Piagam Perlindungan Martabat dan Zero Physical Strike Pesantren TUMBUH, 2026.  
+[^12]: Matriks Tingkatan Kesadaran Sintesis Kodrat Insan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^13]: Blueprint Jembatan Ontologis Menuju Domain 03 Human Development TUMBUH, 2026.  
+[^14]: Standar Audit Mutu Tahunan Hak Asasi dan Kepatuhan Human Nature TUMBUH, 2026.  
+[^15]: Deklarasi Pemuliaan Hakikat Insan Pembelajar Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Antropologi Islam & Psikologi
+### 4. Glosarium Istilah Ilmiah & Turats Sintesis Kodrat Insan
 
-1. **Human Nature**: Hakikat kodrat manusia asali yang menjadi fondasi dasar bagi seluruh perancangan sistem kurikulum, pengasuhan, dan evaluasi.
-2. **Karamah Insaniyyah**: Kemuliaan hakiki dan martabat luhur yang dianugerahkan Allah SWT kepada setiap manusia (QS. Al-Isra: 70).
-3. **Zero Physical Strike**: Kebijakan pelarangan mutlak segala bentuk pukulan atau hukuman fisik dalam pengasuhan pesantren demi mencegah kezaliman (*Sadd adz-Dzara'i'*).
-4. **Satrul 'Aurat**: Kewajiban syariat untuk menutup aib dan kesalahan masa lalu sesama muslim dari konsumsi publik demi menjaga pintu taubat.
-5. **Nafs Ammarah, Lawwamah, Muthmainnah**: Tiga tingkatan dinamika jiwa manusia dari dorongan impulsif hewani, introspeksi nurani penyesalan, hingga kematangan takwa yang tenang.
-6. **The Grand Charter**: Piagam statuta abadi yang mendeklarasikan pemuliaan martabat santri dan mengharamkan 100% kekerasan fisik dan verbal.
-7. **Wasathiyyah Tawazun**: Sikap adil berimbang yang memadukan pemenuhan nutrisi spiritual ruhani, ketajaman akal nalar, dan kesehatan fisik ragawi.
-8. **Jihad an-Nafs**: Perjuangan mendisiplinkan hawa nafsu agar tunduk di bawah kendali akal sehat dan bimbingan wahyu Ilahi.
-9. **Insan Kamil**: Profil manusia paripurna Islam yang mencapai kematangan spiritual, kecerdasan sains, kemandirian hidup, dan keluasan manfaat bagi umat.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana perlindungan hak asasi santri secara serempak memuliakan Santri, meningkatkan profesionalisme Pendidik, dan memperkokoh Lembaga.
+1. **Human Nature (Hakikat Kodrat Insan)**: Hakikat penciptaan dan struktur psiko-spiritual manusia sebagai hamba Allah (*'Abd*) dan pengemban mandat amanah (*Khalifah*).
+2. **Karamah Insaniyyah (كَرَامَةٌ إِنْسَانِيَّةٌ)**: Kemuliaan martabat hakiki yang dianugerahkan Allah SWT kepada setiap manusia yang wajib dilindungi dari kekerasan dan penghinaan.
+3. **Mitsaq Azali (الْمِيثَاقُ الأَزَلِيُّ)**: Perjanjian primordial persaksian jiwa manusia di hadapan Allah SWT sebelum dilahirkan ke dunia.
+4. **Heart-Brain Coherence**: Keselarasan ritmis elektromagnetik antara jantung dan otak yang melahirkan kestabilan emosi dan kejernihan nalar.
+5. **Strength-Based Curriculum**: Pendekatan kurikulum pendidikan yang berfokus pada pengidentifikasian dan pelepasan potensi kekuatan bakat unik santri.
+6. **Muraqabatullah (مُرَاقَبَةُ اللَّهِ)**: Kesadaran batin yang hidup bahwa Allah SWT senantiasa menatap dan mengawasi setiap lintasan hati dan perbuatan manusia.
+7. **Nafs Muthmainnah (النَّفْسُ الْمُطْمَئِنَّةُ)**: Jiwa yang telah mencapai ketenteraman dan kestabilan spiritual dalam ketakwaan kepada Allah SWT.
+8. **Zero Physical Strike**: Kebijakan tegas lembaga yang mengharamkan mutlak segala bentuk pemukulan atau kontak fisik dalam penegakan disiplin santri.
+9. **Satrul 'Aurat (سَتْرُ الْعَوْرَاتِ)**: Prinsip syariat untuk menjaga kehormatan dengan merahasiakan aib kesalahan sesama muslim dan melarang pemaluan publik.
+10. **Insan Kamil (الإِنْسَانُ الْكَامِلُ)**: Profil manusia paripurna yang menyatukan kesucian fitrah, ketajaman akal nalar, keagungan adab akhlak, dan kemakmuran karya peradaban.
