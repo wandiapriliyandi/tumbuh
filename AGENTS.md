@@ -6,15 +6,20 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 
 ## 1. Prinsip Mutlak & Nilai Inti
 1. **Bahasa**: Wajib menggunakan Bahasa Indonesia baku, akademis, mendalam, dan mengalir rapi pada seluruh dokumen dan keluaran.
-2. **Prinsip Triad Pertumbuhan Simbiotik**:
+2. **Penahapan Epistemologis Lintas Domain (*Domain-Specific Staging*)**:
+   - **Domain 01 (`01 Philosophy`)**: Wajib fokus pada **Meta-teori, Worldview, Epistemologi, Hakikat Insan, Aksiologi, & Tingkatan Kesadaran Filosofis Murni (*Maratib al-Idrak & Maratib al-Wujud*)**. *Dilarang keras membocorkan detail teknis kurikulum kelas santri J1–J4 (Kelas 7–12) atau SOP teknis asrama secara prematur*.
+   - **Domain 02 (`02 Institutional Architecture`)**: Blueprint Tata Kelola, Arsitektur Lingkungan 24 Jam (*Environmental Engineering*), dan Manajemen Musyrif.
+   - **Domain 03 (`03 Capacity Framework`)**: Tempat perumusan resmi **Taksonomi 10 Kapasitas Insan & Matriks Progresi Tangga J1–J4 (Kelas 7–12)**.
+   - **Domain 04–11 (`Implementation`, `Counseling`, `Dormitory Life`, `Digital`)**: Praksis operasional, logbook digital, CICO, dan restorative justice.
+3. **Prinsip Triad Pertumbuhan Simbiotik**:
    Setiap perumusan modul harus memastikan 3 entitas bertumbuh serempak:
-   - **Santri Tumbuh** (Fitrah, adab, regulasi diri, tangga J1–J4).
+   - **Santri Tumbuh** (Fitrah, adab, regulasi diri, tangga kematangan).
    - **Guru & Musyrif Tumbuh** (Kompetensi pedagogi, konseling, keikhlasan, keteladanan *Qudwah*, terlindungi dari burnout).
    - **Sistem Lembaga Tumbuh** (Organisasi pembelajar berbasis data PBIS, SOP jelas, bebas intimidasi).
-3. **Terminologi Syar'i Baku**:
+4. **Terminologi Syar'i Baku**:
    - Gunakan istilah **Qudwah** / **Qudwah Hasanah** (bukan sekadar uswah).
    - Gunakan istilah **Ta'dib**, **Tarbiyah**, **Ta'lim**, **Tazkiyatun Nafs**, **Mujahadatun Linafsih**, **Bi'ah Shalihah**.
-4. **Etika Restoratif & Anti-Kekerasan**:
+5. **Etika Restoratif & Anti-Kekerasan**:
    - Dilarang keras menjustifikasi hukuman fisik, kekerasan verbal, atau feodalisme/perpeloncoan senioritas.
    - Penanganan pelanggaran selalu menggunakan **Disiplin Restoratif** (*Firm & Kind*), konsekuensi logis, dan sistem pendukung multi-tier PBIS.
 
@@ -48,5 +53,5 @@ Setiap berkas riset monograf di seluruh folder proyek (P1 s/d P11) wajib mematuh
 1. **Gaya Penulisan Riset Murni**: Bebas dari format tanya-jawab dialog buatan (*Anti-Strawman Q&A*); naskah mengalir dalam diskursus ilmiah kritis akademis tingkat Guru Besar.
 2. **Proporsi Bobot Utama di Bagian II (50%)**:
    - **Bagian I (35%)**: Konteks Masalah, Transformasi Paradigma, Inkuiri Epistemologi Turats (Teks Arab berharakat & Syarah), Inkuiri Sains Kognitif/CASEL SEL, Inkuiri Rekayasa Ekosistem 24 Jam, dan Kasuistika Lapangan Klinis Restoratif.
-   - **Bagian II (50% - Paling Tebal)**: Eksplanasi Teoretis & Arsitektur Model Baru secara Menyeluruh, Dekomposisi Indikator & Logika Transisi Tangga J1–J4, Protokol Aksi Operasional PBIS Multi-Tier Terperinci, serta Diskusi Akademik Implikasi Teoretis & Praksis.
+   - **Bagian II (50% - Paling Tebal)**: Eksplanasi Teoretis & Arsitektur Model Baru secara Menyeluruh, Dekomposisi Dimensi & Tingkatan Kesadaran Filosofis (untuk Domain 01) / Matriks Taksonomi J1–J4 (untuk Domain 03), Protokol Aksi Operasional PBIS Multi-Tier Terperinci, serta Diskusi Akademik Implikasi Teoretis & Praksis.
    - **Bagian III (15%)**: Tabel Sintesis Komparasi 5 Kolom, 10–15 Daftar Pustaka Standar APA 7th & Turats, 12–18 Catatan Kaki (*Footnotes* 1-to-1), dan 10 Entri Glosarium.

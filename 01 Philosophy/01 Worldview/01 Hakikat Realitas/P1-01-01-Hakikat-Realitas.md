@@ -15,7 +15,7 @@
 > * **Konsolidasi Master Doktrin Realisme Teistik Integratif:**  
 >   Dokumen induk ini mengintegrasikan seluruh 6 pilar riset sub-modul: **1. Definisi Realitas (Manunggalnya Mulk & Malakut); 2. Enam Aksioma Metafisik (Tauhid, Kehambaan, Keterpaduan, Kausalitas, Fitrah, & Hisab); 3. Validasi Dalil Naqli Mutawatir; 4. Genealogi Sanad Turats 6 Ulama Besar Aswaja; 5. Sintesis Komparatif Melawan 4 Mazhab Barat; 6. Audit Kualitas & Desakralisasi SOP Manajemen**.
 > * **Formulasi Operasional & Dampak Triad Simbiotik:**  
->   Monograf induk ini merumuskan arsitektur kurikulum holistik, standarisasi ekosistem asrama ramah neurobiologis, tangga kematangan adab J1–J4, serta piagam tata kelola pesantren yang menumbuhkan Santri, Guru/Musyrif, dan Sistem Lembaga secara serempak.
+>   Monograf induk ini merumuskan 4 Tingkatan Kesadaran Ontologis Kluster (*Maratib al-Idrak*), standarisasi ekosistem asrama ramah neurobiologis, etika pengasuhan restoratif, serta akselerasi Triad Pertumbuhan Simbiotik (Santri, Guru/Musyrif, Lembaga).
 
 ---
 
@@ -29,8 +29,8 @@
   - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif Terpadu](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif-terpadu)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Master Doktrin Realisme Teistik Integratif Ekosistem TUMBUH](#1-arsitektur-master-doktrin-realisme-teistik-integratif-ekosistem-tumbuh)
-  - [2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4](#2-dekomposisi-indikator-matriks-taksonomi--dinamika-transisi-tangga-j1j4)
-  - [3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan](#3-protokol-aksi-operasional-pbis-multi-tier--tata-kelola-pengasuhan-lapangan)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ontologis Kluster (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-ontologis-kluster-maratib-al-idrak)
+  - [3. Prinsip Aksiologis & Etika Tata Kelola Lingkungan Pesantren 24 Jam](#3-prinsip-aksiologis--etika-tata-kelola-lingkungan-pesantren-24-jam)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Master Kluster Hakikat Realitas](#1-tabel-sintesis-temuan-riset-master-kluster-hakikat-realitas)
@@ -46,7 +46,7 @@
 
 ### 1. Latar Belakang Masalah: Urgensi Ontologis dalam Menentukan Arah Pendidikan Pesantren
 
-Sebelum merancang kurikulum adab, rubrik asesmen perilaku, atau SOP musyrif, pertanyaan filosofis paling pertama yang wajib dijawab adalah: **"Apa hakikat realitas (*Reality / al-Wujud*)?"**
+Sebelum merancang kurikulum, arsitektur asrama, atau tata tertib pengasuhan, pertanyaan filosofis paling pertama yang wajib dijawab adalah: **"Apa hakikat realitas (*Reality / al-Wujud*)?"**
 * **Pengaruh Arah Ontologi Terhadap Seluruh Sistem**: Cara pandang realitas mendikte seluruh cabang tindakan pendidikan. Jika realitas dianggap materi fisik semata (Materialisme), pesantren akan berubah menjadi pabrik angka hafalan mekanis yang mengikis kesucian jiwa. Jika realitas fisik dianggap ilusi kotor (Mistisisme Pasif), asrama akan dibiarkan kumuh, santri dibiarkan sakit, dan kekerasan dinormalisasi sebagai "tirakat".
 * **Jawaban Realisme Teistik Integratif**: TUMBUH memandang realitas secara utuh dan adil: memadukan keimanan kepada alam malakut dengan penataan ilmiah atas sunnatullah di alam mulk, melahirkan generasi santri yang kokoh tauhidnya, sehat raganya, dan cemerlang adabnya.[^1]
 
@@ -117,26 +117,7 @@ Dalam kehidupan pesantren 24 jam, lingkungan fisik dan sosial asrama adalah jemb
 
 ### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif Terpadu
 
-Penyelidikan klinis mengonfirmasi bahwa penerapan Master Doktrin Realisme Teistik mampu menyelesaikan berbagai anomali pengasuhan asrama:
-
-```mermaid
-flowchart TD
-    subgraph ProtokolResolusiMasterAsrama["PROTOKOL RESOLUSI INTEGRAL KASUISTIKA ASRAMA (<12 JAM)"]
-        InsidenKonflik["1. INSIDEN: Pelanggaran Adab / Konflik / Fasilitas Asrama Rusak"]
-        
-        PemisahanDeEskalasi["2. DE-ESKALASI CEPAT: Perlindungan Korban & Penenangan Suasana Aman"]
-        
-        AuditZhawahir["3. TABAYYUN FAKTUAL: Pembuktian Berbasis Fakta Teramati (Bebas Firasat Subjektif)"]
-        
-        RestitusiEdukasi["4. RESTITUSI 4R: Tanggung Jawab Nyata Memperbaiki Kerusakan & Bimbingan Adab"]
-        
-        ReintegrasiUkhuwah["5. ISHLAH PARIPURNA: Pemulihan Hubungan Persaudaraan Tanpa Stigma"]
-        
-        InsidenKonflik --> PemisahanDeEskalasi --> AuditZhawahir --> RestitusiEdukasi --> ReintegrasiUkhuwah
-    end
-```
-
-Melalui protokol restoratif terpadu, pelanggaran tidak lagi disikapi dengan kemarahan emosional atau pukulan fisik, melainkan dijadikan momentum pembelajaran adab (*Teachable Moment*) yang mematangkan regulasi diri santri.[^6]
+Penyelidikan klinis mengonfirmasi bahwa penerapan Master Doktrin Realisme Teistik mampu menyelesaikan berbagai anomali pengasuhan asrama melalui dialog tabayyun, de-eskalasi emosi, dan restitusi edukatif tanpa kekerasan.[^6]
 
 ---
 
@@ -172,53 +153,62 @@ flowchart TD
 #### 🔬 Eksplanasi Mendalam Komponen Master Doktrin:
 1. **Penyatuan Syariat dan Kausalitas**: Ketaatan beragama diwujudkan melalui kepatuhan pada hukum syariat (shalat, puasa, adab) sekaligus kepatuhan pada hukum sunnatullah (menjaga kesehatan, sanitasi, dan disiplin waktu).
 2. **Keadilan Restoratif Tanpa Kekerasan**: Hukuman fisik dihapus secara mutlak karena merusak fitrah kemuliaan manusia (*Karamah Insaniyyah*) dan melanggar hukum biologis otak. Penegakan disiplin menggunakan restitusi logis yang mendidik santri bertanggung jawab.[^7]
-3. **Desakralisasi Tata Tertib Asrama**: Aturan teknis asrama diakui sebagai ijtihad manusia yang dinamis dan wajib dievaluasi secara berkala berbasis data PBIS faktual, memastikan lembaga tidak terjerumus ke dalam otoritarianisme antikritik.[^8]
+3. **Desakralisasi Tata Tertib Asrama**: Aturan teknis asrama diakui sebagai ijtihad manusia yang dinamis dan wajib dievaluasi secara berkala berbasis data PBIS faktual.[^8]
 
 ---
 
-### 2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Ontologis Kluster (Maratib al-Idrak)
 
-Master Doktrin Ontologi Realitas dipetakan ke dalam Matriks Taksonomi Holistik Tangga J1–J4:
-
-| Dimensi Ontologi | Jenjang J1: Adaptasi Dasar (Kelas 7 / Usia 12–13) | Jenjang J2: Habituasi Otonom (Kelas 8–9 / Usia 13–15) | Jenjang J3: Internalisasi (Kelas 10–11 / Usia 15–17) | Jenjang J4: Qudwah Paripurna (Kelas 12 / Usia 17–18) |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Kesadaran Mulk & Malakut** | Mengetahui bahwa kebersihan asrama bernilai ibadah; patuh jadwal piket. | Menjaga kebersihan kamar tidur dan kamar mandi atas inisiatif mandiri. | Menghayati kehadiran Allah (*Muraqabatullah*); menjaga adab saat sendirian. | Menjadi teladan integritas lahir-batin; memimpin gerakan asrama berkah. |
-| **2. Resiliensi Kausalitas** | Tidak menyalahkan takdir saat gagal; bersedia dievaluasi cara belajarnya. | Mengatur pola belajar, makan, dan tidur seimbang secara mandiri. | Memiliki ketangguhan mental (*Grit*); teguh bermujahadah hadapi ujian. | Membimbing adik kelas yang putus asa; menjadi teladan resiliensi mental. |
-| **3. Sikap Kritis & Anti-Hoaks** | Belajar memverifikasi kebenaran kabar; menolak cerita takhayul di kamar. | Terbiasa tabayyun sebelum bertindak; menolak ghibah dan fitnah. | Mampu menganalisis fenomena pemikiran modern dari perspektif tauhid. | Menjadi penengah yang bijak; mendakwahkan worldview Islam kokoh. |
-| **4. Penghormatan Martabat Insan** | Menghargai teman sekamar tanpa diskriminasi fisik atau latar belakang. | Menolak segala bentuk perundungan; membela teman yang dizalimi. | Mengayomi adik kelas dengan kelembutan kasih sayang (*Bi'ah Rahimah*). | Memimpin penegakan keadilan organisasi santri yang adil dan humanis. |
-
-#### 🔄 Narasi Analitis Dinamika Transisi Psikologis Antar-Jenjang:
-* **Transisi J1 ke J2 (Struktur Eksternal Menuju Internalisasi Logis)**: Santri baru J1 yang awalnya membutuhkan pengawasan ketat musyrif bertransformasi di jenjang J2 menjadi individu yang memahami rasionalitas hukum sebab-akibat. Santri merapikan ranjang dan mandi tepat waktu bukan karena takut dihukum, melainkan karena sadar akan kebutuhan kesehatannya.
-* **Transisi J2 ke J3 (Keteraturan Logis Menuju Kematangan Ruhani)**: Pada jenjang J3, kesadaran santri meluas ke alam malakut. Santri berbuat jujur dan amanah karena merasakan pengawasan Allah SWT. Santri aktif membantu teman sekamar yang kesulitan tanpa mengharapkan imbalan.
-* **Transisi J3 ke J4 (Kepemimpinan Peradaban Paripurna)**: Santri J4 mencapai derajat *Insan Adabi*: mereka memancarkan wibawa keteladanan (*Live Qudwah*), mengayomi seluruh adik kelas, dan siap memimpin transformasi umat di masyarakat luas.[^9]
-
----
-
-### 3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan
-
-Untuk memastikan Master Doktrin ini berjalan efektif di seluruh pesantren, ditetapkan Standar Operasional Prosedur (SOP) berbasis PBIS Multi-Tier:
+Master Doktrin Ontologi Realitas dipetakan ke dalam Empat Tingkatan Kesadaran Ontologis Kluster (*Maratib al-Idrak al-Wujudiy*):
 
 ```mermaid
 flowchart TD
-    subgraph StandarMasterOperasionalPBIS["STANDAR OPERASIONAL ASRAMA PBIS MULTI-TIER 24 JAM"]
+    subgraph TingkatanKesadaranKluster["EMPAT TINGKATAN KESADARAN ONTOLOGIS KLUSTER (MARATIB AL-IDRAK)"]
         
-        Tier1_Master["TIER 1: UNIVERSAL ECOSYSTEM CULTURE (100% PESANTREN)<br/>• Desain Kamar Ramah Neurobiologis: Ventilasi >= 10%, Cahaya 150 Lux, Sanitasi Bebas E. coli.<br/>• Jadwal Sirkadian: Tidur Pukul 21.45 (Lampu Padam 22.00 - Bangun 04.00), Qailulah 30 Menit.<br/>• Pembiasaan Penguatan Perilaku Positif Rasio Apresiasi 4:1 di Seluruh Lokus Asrama."]
+        M1_Level["TINGKAT 1: KESADARAN TERTIB INDRAWI ('Alam Mulk)<br/>• Menyadari realitas fisik dhohir; taat jadwal kebersihan kobong kamar & sanitasi.<br/>• Mematuhi batasan lingkungan asrama & belajar adab dasar penuntut ilmu."]
         
-        Tier2_Master["TIER 2: TARGETED RESTORATIVE SUPPORT (10-15% SANTRI)<br/>• Check-In / Check-Out (CICO) Fajar bagi Santri Mengalami Kesulitan Bangun.<br/>• Klinik Bimbingan Belajar & Manajemen Waktu Berbasis Kausalitas Sunnatullah.<br/>• Pendampingan Konseling Sebaya bagi Santri yang Mengalami Demotivasi."]
+        M2_Level["TINGKAT 2: KESADARAN KAUSALITAS METODOLOGIS (Sunnatullah)<br/>• Memahami keteraturan hukum sebab-akibat antara ikhtiar belajar, tidur sehat, & prestasi.<br/>• Menolak fatalisme pasif; mandiri dalam menyusun strategi perbaikan diri."]
         
-        Tier3_Master["TIER 3: INTENSIVE CLINICAL & SYSTEMIC INTERVENTION (1-5% KRISIS)<br/>• De-eskalasi Krisis Emosional & Pemisahan Terapeutik Aman.<br/>• Mediasi Restoratif Segitiga Dipandu Konselor BK & Dewan Masyaikh.<br/>• Investigasi Tim Independen Terhadap Dugaan Pelanggaran Berat Tanpa Pandang Bulu."]
+        M3_Level["TINGKAT 3: KESADARAN RADAR MURAQABAH ('Alam Malakut)<br/>• Menghayati kehadiran Allah SWT; mengawal niat ikhlas & kesucian kalbu.<br/>• Mengayomi kawan sekamar dengan kasih sayang; terbebas dari ghibah & perundungan."]
         
-        Tier1_Master ==> Tier2_Master ==> Tier3_Master
+        M4_Level["TINGKAT 4: KESADARAN MA'RIFAH INSAN ADABI (Kalam & Qudwah)<br/>• Menyatukan hakikat Mulk & Malakut dalam kepribadian utuh (Live Qudwah).<br/>• Menjadi pemimpin peradaban yang memelihara keadilan syariat & memuliakan martabat insan."]
+        
+        M1_Level ==> M2_Level ==> M3_Level ==> M4_Level
     end
 ```
 
-#### 📋 Panduan Taktis Pengasuhan Asrama:
-1. **Standarisasi Lingkungan Fisik Terpadu (Tier 1)**:
-   - Pengurus asrama wajib melakukan inspeksi sanitasi mingguan untuk memastikan tidak ada genangan air jentik nyamuk dan memastikan sirkulasi udara kamar berjalan optimal.
-2. **Sistem Kerja Musyrif Berkeadilan (Pencegahan Burnout)**:
-   - Musyrif bertugas dengan sistem rotasi kerja maksimal 8 jam aktif per hari, didukung logbook digital PBIS yang mempercepat pencatatan laporan harian (<30 detik per peristiwa).
-3. **Kebijakan Nol Kekerasan (*Zero-Tolerance for Violence Policy*)**:
-   - Seluruh bentuk kekerasan fisik dan verbal dilarang mutlak dengan sanksi tegas bagi pelaku, menjamin pesantren sebagai zona aman dan nyaman bagi seluruh santri.[^10]
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Pembiasaan Lahiriah Menuju Nalar Kausalitas)**: Santri mula-mula berinteraksi dengan tata tertib lahiriah asrama. Pada tingkatan kedua, santri menangkap hukum kausalitas sunnatullah: santri memahami bahwa keberhasilan menuntut metode ikhtiar yang benar dan pemenuhan hak-hak biologis tubuh.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Nalar Kausalitas Menuju Pengawalan Ruhani Muraqabah)**: Pada tingkatan ketiga, kesadaran menembus ke alam malakut. Santri merasakan pengawasan Allah SWT (*Muraqabatullah*), menjaga keikhlasan hati saat sendirian, dan memperlakukan sesamanya dengan penuh penghormatan fitrah.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Insan Adabi Paripurna)**: Pada tingkatan tertinggi, santri memancarkan kematangan *Insan Adabi*: seluruh perilakunya di alam mulk mencerminkan kedalaman makrifatnya kepada Allah. Santri memimpin dengan keteladanan (*Qudwah Hasanah*) dan membawa rahmat bagi peradaban umat.[^9]
+
+---
+
+### 3. Prinsip Aksiologis & Etika Tata Kelola Lingkungan Pesantren 24 Jam
+
+Master Doktrin Realisme Teistik melahirkan prinsip etika tata kelola ekosistem asrama:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaMasterKluster["PRINSIP AKSIOLOGIS PENGASUHAN PESANTREN 24 JAM"]
+        
+        A1_E["1. PEMULIAAN HAK BIOLOGIS & SANITASI (Hifzh an-Nafs)<br/>• Menjamin ventilasi silang kamar >= 10% & sanitasi air wudhu bebas bakteri.<br/>• Mengharamkan hukuman fisik, begadang berlebihan, & perundungan."]
+        
+        A2_E["2. HARMONISASI IKHTIAR & MUNAJAT (I'tidal al-Asbab)<br/>• Memadukan 100% ikhtiar sains manajemen dengan 100% kepasrahan doa fajar.<br/>• Menolak mistisisme pasif yang menormalisasi kobong kumuh."]
+        
+        A3_E["3. TATA KELOLA AKUNTABEL & HUMANIS (Triad Growth)<br/>• Pembinaan berbasis data faktual logbook PBIS; desakralisasi SOP manajemen.<br/>• Perlindungan jam istirahat musyrif guna mencegah kelelahan mental (Burnout)."]
+        
+        A1_E <===> A2_E <===> A3_E
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Standarisasi Lingkungan Fisik Ramah Neurobiologis**:
+   - Menjamin sirkulasi udara bersih, pencahayaan alami memadai, dan sanitasi higienis di seluruh kobong asrama.
+2. **Sistem Kerja Musyrif Berkeadilan**:
+   - Musyrif bertugas dengan jam kerja terukur dan perlindungan istirahat yang layak guna mencegah kelelahan mental (*Burnout*).
+3. **Kebijakan Nol Kekerasan (*Zero-Tolerance for Violence*)**:
+   - Menjamin pesantren sebagai zona aman dan nyaman yang melindungi fitrah setiap santri.[^10]
 
 ---
 
@@ -279,7 +269,7 @@ Master Doktrin Hakikat Realitas ini menjadi fondasi bagi pembaharuan peradaban p
 [^6]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 25–50.  
 [^7]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 20–45.  
 [^8]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 120–160.  
-[^9]: Matriks Taksonomi Insan Adabi Tangga J1–J4 Master Kluster TUMBUH, 2026.  
+[^9]: Matriks Tingkatan Kesadaran Ontologis Kluster (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^10]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^11]: Deklarasi Transformasi Peradaban Pesantren Dewan Riset Akademik Ekosistem TUMBUH, 2026.
 

@@ -15,7 +15,7 @@
 > * **Inovasi Konseptual: Deklarasi Posisi Resmi Realisme Teistik Integratif:**  
 >   TUMBUH mendeklarasikan sintesis filosofis resmi: **Realisme Teistik Integratif**, sebuah cara pandang ontologis yang menyatukan domain empiris kasat mata (*'Alam Mulk*) dengan domain transendental metafisik (*'Alam Malakut*). Seluruh hukum sebab-akibat fisika-biologis dan hukum moral syariat diakui sebagai kesatuan tatanan objektif ciptaan Allah (*Nizham al-Wujud*).
 > * **Formulasi Operasional & Pembuktian Lapangan:**  
->   Monograf ini menguraikan 4 pilar ontologi resmi TUMBUH, matriks komparasi kritis terhadap 5 mazhab filsafat dunia, dekomposisi tangga kesadaran realitas J1–J4, SOP dialog worldview tematik madrasah, dan protokol pendampingan syubhat eksistensial santri.
+>   Monograf ini menguraikan 4 pilar ontologi resmi TUMBUH, matriks komparasi kritis terhadap 5 mazhab filsafat dunia, 4 Tingkatan Kesadaran Kematangan Worldview (*Maratib al-Idrak*), prinsip aksiologis integrasi sains-tauhid di madrasah, dan etika tata kelola peradaban Islam.
 
 ---
 
@@ -30,8 +30,8 @@
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
   - [1. Deklarasi Posisi Resmi & Empat Pilar Ontologi Realisme Teistik Integratif](#1-deklarasi-posisi-resmi--empat-pilar-ontologi-realisme-teistik-integratif)
   - [2. Matriks Komparasi Komprehensif: TUMBUH vs Mazhab Ontologi Dunia](#2-matriks-komparasi-komprehensif-tumbuh-vs-mazhab-ontologi-dunia)
-  - [3. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4](#3-dekomposisi-indikator-matriks-taksonomi--dinamika-transisi-tangga-j1j4)
-  - [4. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan](#4-protokol-aksi-operasional-pbis-multi-tier--tata-kelola-pengasuhan-lapangan)
+  - [3. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Worldview (Maratib al-Idrak)](#3-dekomposisi-dimensi--empat-tingkatan-kesadaran-worldview-maratib-al-idrak)
+  - [4. Prinsip Aksiologis & Etika Tata Kelola Integrasi Sains-Tauhid di Madrasah](#4-prinsip-aksiologis--etika-tata-kelola-integrasi-sains-tauhid-di-madrasah)
   - [5. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#5-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Sintesis Filosofis](#1-tabel-sintesis-temuan-riset-sintesis-filosofis)
@@ -89,85 +89,37 @@ flowchart LR
     end
 ```
 
-1. **Dekonstruksi Materialisme Positivistik (Fisikalisme)**:  
-   Materialisme mengklaim bahwa hanya materi fisik kasat mata yang memiliki status eksistensi. Akibatnya, nilai keadilan, keikhlasan, dan pahala akhirat dianggap fiksi sosiologis semata. Dalam psikologi, materialisme melahirkan behaviorisme radikal yang memperlakukan santri laksana mesin yang hanya digerakkan oleh stimulus-respon mekanistik.[^2]
-2. **Dekonstruksi Idealisme Radikal & Solipsisme**:  
-   Idealisme radikal mengklaim bahwa dunia fisik hanyalah proyeksi persepsi pikiran manusia. Hal ini melahirkan pengabaian terhadap hukum fisika dan biologi nyata, yang dalam konteks pesantren bermutasi menjadi mistisisme pasif yang meremehkan sanitasi air dan gizi tubuh.[^3]
-3. **Dekonstruksi Pascamodernisme & Dekonstruksionisme**:  
-   Pascamodernisme mendeklarasikan runtuhnya narasi besar (*Grand Narratives*) dan menganggap realitas hanyalah konstruksi bahasa (*Language Games*). Paham ini memicu relativisme moral: tidak ada lagi adab yang mutlak, tidak ada lagi kebenaran universal. Ini adalah ancaman paling berbahaya bagi akidah generasi muda.[^4]
-4. **Dekonstruksi Dualisme Cartesian**:  
-   René Descartes memecah manusia menjadi dua substansi yang terpisah total: *Res Cogitans* (Jiwa Berpikir) dan *Res Extensa* (Raga Materi). Hal ini memicu dikotomi kurikulum: sekolah mengurusi akal, asrama mengurusi raga, dan masjid mengurusi batin secara terpisah tanpa ada sinergi organik.[^5]
+1. **Dekonstruksi Materialisme Positivistik**: Mereduksi nilai moral menjadi stimulus fisik mekanistik.[^2]
+2. **Dekonstruksi Idealisme Radikal**: Menolak kepastian hukum fisika-biologis di alam nyata.[^3]
+3. **Dekonstruksi Pascamodernisme**: Menghancurkan kepastian kebenaran melalui relativisme bahasa (*Language Games*).[^4]
+4. **Dekonstruksi Dualisme Cartesian**: Memecah secara kaku antara jiwa (*Res Cogitans*) dan raga (*Res Extensa*).[^5]
 
 ---
 
 ### 3. Inkuiri 2: Sintesis Kritis Realisme Teistik Integratif (Theistic Integral Realism)
 
-Menanggapi kegagalan mazhab-mazhab reduksionis tersebut, peradaban Islam menghadirkan **Realisme Teistik Integratif** yang telah dikonsolidasikan oleh para filosof dan mutakallimin Islam terkemuka:
-
 Prof. **Syed Muhammad Naquib Al-Attas** dalam *Prolegomena to the Metaphysics of Islam* merumuskan struktur wujud yang harmonis:
 
 $$\text{إِنَّ الْوُجُودَ لَيْسَ مُجَرَّدَ مَادَّةٍ كَمَا زَعَمَ الْمَادِّيُّونَ، وَلَا مُجَرَّدَ فِكْرَةٍ كَمَا زَعَمَ الْمِثَالِيُّونَ، بَلِ الْوُجُودُ حَقِيقَةٌ وَاحِدَةٌ مُتَدَرِّجَةُ الْمَرَاتِبِ، أَعْلَاهَا وُجُودُ الْحَقِّ سُبْحَانَهُ، وَأَدْنَاهَا عَالَمُ الْمَادَّةِ، وَكِلَاهُمَا مَرْبُوطَانِ بِحِكْمَةِ الْخَلْقِ وَالتَّكْلِيفِ}$$
 
-*"**Sesungguhnya wujud itu bukanlah materi semata sebagaimana diklaim kaum materialis, dan bukan pula ide pikiran semata sebagaimana diklaim kaum idealis, melainkan wujud adalah satu kesatuan hakikat yang berjenjang tingkatannya**; puncaknya adalah Wujud Al-Haqq (Allah SWT), dan tingkat terendahnya adalah alam materi fisik, **dan keduanya terhubung secara organik melalui hikmah penciptaan dan amanah taklif moral manusia**."*[^6]
-
-Sintesis ini menegaskan bahwa realitas alam semesta memiliki derajat hierarkis:
-* *Realitas Tertinggi (Al-Wujud al-A'la)*: Allah SWT sebagai Pencipta Tunggal Yang Maha Mengetahui dan Mengatur.
-* *Realitas Perantara (Al-Wujud al-Barzakhiy/Malakut)*: Alam ruh, malaikat, catatan hisab, dan makna nilai spiritual.
-* *Realitas Fisik (Al-Wujud al-Maddiy/Mulk)*: Tubuh biologis santri, gedung asrama, buku pelajaran, dan hukum fisika semesta.[^7]
+*"**Sesungguhnya wujud itu bukanlah materi semata sebagaimana diklaim kaum materialis, dan bukan pula ide pikiran semata sebagaimana diklaim kaum idealis, melainkan wujud adalah satu kesatuan hakikat yang berjenjang tingkatannya**... dan keduanya terhubung secara organik melalui hikmah penciptaan dan amanah taklif moral manusia."*[^6]
 
 ---
 
 ### 4. Inkuiri 3: Analisis Rekayasa Kausalitas Meta-Ontologis dalam Ekosistem Asrama 24 Jam
 
-Penyelidikan membuktikan bahwa pengakuan terhadap hierarki wujud mentransformasikan seluruh desain ekosistem pesantren 24 jam:
-
-```mermaid
-flowchart TD
-    subgraph RekayasaMetaOntologisAsrama["REKAYASA META-ONTOLOGIS EKOSISTEM ASRAMA 24 JAM"]
-        FisikMulk["1. DIMENSI FISIK (ALAM MULK)<br/>• Desain Kamar: Ventilasi Oksigen 10% & Pencahayaan 150 Lux.<br/>• Sanitasi Air Bersih: Standar Uji Mikrobiologi E. coli 0 CFU.<br/>• Jam Tidur Sirkadian: Istirahat 6-7 Jam Menjaga Korteks Otak."]
-        
-        SosialAdab["2. DIMENSI PSIKOSOSIAL (ALAM NAFS)<br/>• Iklim Bi'ah Shalihah Bebas Perundungan & Feodalisme.<br/>• Pembiasaan Adab Berbicara & Empati Sosial Sebaya.<br/>• Disiplin Restoratif PBIS Multi-Tier (Firm & Kind)."]
-        
-        SpiritualMalakut["3. DIMENSI SPIRITUAL (ALAM MALAKUT)<br/>• Zikir Pagi-Petang & Shalat Berjamaah Saf Awal Khusyu'.<br/>• Kehadiran Radar Muraqabatullah Menjaga Keikhlasan.<br/>• Kesadaran Hisab Akhirat Mengarahkan Cita-Cita Luhur."]
-        
-        FisikMulk <===> SosialAdab <===> SpiritualMalakut
-    end
-```
-
-Santri yang tinggal di kamar yang terang, bersih, dan berventilasi baik (Dimensi Fisik) akan memiliki emosi yang stabil dan mudah berinteraksi secara santun (Dimensi Psikososial), yang pada gilirannya memampukan kalbunya meraih kekhusyukan tinggi dalam shalat dan tilawah (Dimensi Spiritual). Tiga dimensi wujud beroperasi dalam harmoni mutlak.[^8]
+Ekosistem asrama mengintegrasikan tiga dimensi wujud:
+* *Dimensi Fisik ('Alam Mulk)*: Ventilasi udara, sanitasi air bersih, nutrisi, dan tidur cukup.
+* *Dimensi Sosial ('Alam Nafs)*: Iklim ukhuwah, adab berbicara, dan disiplin restoratif.
+* *Dimensi Ruhani ('Alam Malakut)*: Kekhusyukan ibadah, muraqabatullah, dan niat ikhlas.[^7]
 
 ---
 
 ### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
 
-Penyelidikan klinis terhadap santri yang mengalami krisis orientasi hidup akibat benturan cara pandang menghasilkan analisis kasus dan protokol restoratif:
-
-```mermaid
-flowchart TD
-    subgraph AlurPenangananKrisisWorldview["PROTOKOL RESTORATIF PENANGANAN KRISIS EKSISTENSIAL SANTRI"]
-        KrisisIdentitas["1. INSIDEN: Santri Terpapar Nihilisme Medsos & Menganggap Hidup Tidak Ada Gunanya"]
-        
-        AuditEpistemologis["2. AUDIT EPISTEMOLOGIS: Konselor Memetakan Sumber Keraguan (Syubhat) Santri"]
-        
-        DialogWorldview["3. DIALOG SOKRATIK SINTESIS: Menjelaskan Hierarki Wujud & Makna Teleologis Hidup"]
-        
-        AktivasiProyekAdab["4. AKTIVASI PROYEK NYATA: Memberi Amanah Sosial Khidmah & Riset Saintifik"]
-        
-        PemulihanIntegritas["5. KEMATANGAN MORAL: Santri Menemukan Makna Hidup Sejati & Percaya Diri"]
-        
-        KrisisIdentitas --> AuditEpistemologis --> DialogWorldview --> AktivasiProyekAdab --> PemulihanIntegritas
-    end
-```
-
-* **Studi Kasus 1: Santri Terpapar Pemikiran Nihilisme dan Menolak Shalat**  
-  * **Dilema**: Santri kelas 11 yang gemar membaca filsafat eksistensialisme ateistik di internet mulai mempertanyakan eksistensi Tuhan dan enggan shalat berjamaah, seraya berkata: *"Hidup ini absurd dan tidak bermakna, mengapa kita harus repot-repot shalat?"*.
-  * **Akar Masalah**: Masuknya virus nihilisme pascamodern ke dalam akal santri tanpa dibekali benteng epistemologi Realisme Teistik Islam.
-  * **Resolusi Restoratif TUMBUH**: Konselor BK dan Guru Filsafat Islam mengadakan sesi dialog sokratik mingguan: membedah kelemahan ontologis ateisme, membuktikan keteraturan teleologis semesta (*Burhanul Inayah wal Ikhtira'*), dan mengajak santri terlibat dalam proyek sosial kemanusiaan. Santri menemukan kembali kepastian iman (*Yaqin*), shalat dengan penuh kerinduan, dan bertekad mendalami ilmu kalam untuk membela Islam.[^9]
-
-* **Studi Kasus 2: Santri Mengalami Disonansi Antara Pelajaran Biologi dan Akidah**  
-  * **Dilema**: Santri kelas 10 merasa bingung karena guru biologi menjelaskan teori evolusi materialistik seolah-olah alam semesta terjadi secara kebetulan tanpa keterlibatan Tuhan.
-  * **Akar Masalah**: Pembelajaran sains madrasah yang belum terintegrasi dengan worldview Islam (*Epistemic Split*).
-  * **Resolusi Restoratif TUMBUH**: Lembaga menyelenggarakan lokakarya *Integrasi Sains dan Wahyu*: menjelaskan konsep *Sunnatullah Kauniyyah* dan *Tadabbur Ayat Afaqiyyah*. Santri memahami bahwa hukum biologi adalah bukti keagungan perancangan Allah SWT (*Intelligent Design by Al-Khaliq*). Keraguan sirna dan kecintaan pada sains semakin membara.[^10]
+* **Studi Kasus: Disonansi Pelajaran Sains dan Akidah**  
+  * **Dilema**: Santri mengalami kebingungan karena pelajaran biologi diajarkan secara materialistik seolah-olah semesta terjadi secara acak.
+  * **Resolusi Restoratif TUMBUH**: Lembaga menyelenggarakan program integrasi sains dan wahyu: membimbing santri mentadabburi *Sunnatullah Kauniyyah* sebagai bukti keagungan perancangan Allah (*Intelligent Design by Al-Khaliq*). Santri memahami sains sebagai sarana mengagumi kebesaran Allah SWT.[^8]
 
 ---
 
@@ -177,7 +129,7 @@ flowchart TD
 
 ### 1. Deklarasi Posisi Resmi & Empat Pilar Ontologi Realisme Teistik Integratif
 
-Ekosistem TUMBUH secara resmi mendeklarasikan landasan ontologisnya sebagai **Realisme Teistik Integratif (*Theistic Integral Realism*)**, yang tersusun atas Empat Pilar Metafisik:
+Ekosistem TUMBUH mendeklarasikan landasan ontologisnya sebagai **Realisme Teistik Integratif (*Theistic Integral Realism*)**, yang tersusun atas Empat Pilar Metafisik:
 
 ```mermaid
 flowchart TD
@@ -196,14 +148,10 @@ flowchart TD
 ```
 
 #### 🔬 Pembahasan Mendalam Empat Pilar Ontologi:
-1. **Pilar 1: Tauhid Eksistensial (*Divine Primacy*)**:  
-   Segala sesuatu di alam semesta berakar pada kehendak dan kebijaksanaan Allah SWT (*Al-Khaliq*). Di pesantren, sains modern dan metodologi manajemen diakui bukan sebagai berhala baru, melainkan sebagai instrumen untuk membaca ayat-ayat kauniyyah Allah demi mengabdi kepada-Nya.[^11]
-2. **Pilar 2: Keteraturan Kosmis (*Nizham al-Wujud*)**:  
-   Alam semesta bukan arena kekacauan acak (*Chaos*). Setiap sel tubuh santri, setiap molekul udara, dan setiap hukum psikososial tunduk pada keteraturan *Sunnatullah*. Mengabaikan hukum kesehatan raga adalah pengabaian terhadap tatanan suci ciptaan Allah.[^12]
-3. **Pilar 3: Integritas Psiko-Fisik Insan (*Fitrah & Karamah*)**:  
-   Santri bukanlah "hewan yang berpikir" (*Animal Rationale* materialistik) dan bukan pula "malaikat tanpa raga". Santri adalah makhluk dwitunggal: raganya membutuhkan nutrisi, tidur, dan tempat tinggal yang higienis; jiwanya membutuhkan ilmu, zikir, dan keteladanan akhlak mulia.[^13]
-4. **Pilar 4: Teleologi & Akuntabilitas (*Ma'ad & Jaza'*)**:  
-   Hidup ini memiliki tujuan akhir (*Ultimate Purpose*). Setiap detik di asrama tercatat dalam lembaran hisab malaikat. Ini menjadi fondasi penegakan disiplin adab: santri jujur bukan karena takut musyrif, melainkan karena yakin akan perjumpaan dengan Allah di hari akhirat.[^14]
+1. **Pilar 1: Tauhid Eksistensial (*Divine Primacy*)**: Allah SWT adalah Pencipta Tunggal. Seluruh sains dan metodologi manajemen diakui sebagai instrumen membaca ayat kauniyyah untuk beribadah kepada-Nya.[^9]
+2. **Pilar 2: Keteraturan Kosmis (*Nizham al-Wujud*)**: Alam semesta tunduk pada hukum keteraturan *Sunnatullah*. Mengabaikan hukum kesehatan raga adalah pengabaian terhadap tatanan suci ciptaan Allah.[^10]
+3. **Pilar 3: Integritas Psiko-Fisik Insan (*Fitrah & Karamah*)**: Santri adalah makhluk dwitunggal: raganya membutuhkan lingkungan higienis; jiwanya membutuhkan zikir dan keteladanan akhlak mulia.[^11]
+4. **Pilar 4: Teleologi & Akuntabilitas (*Ma'ad & Jaza'*)**: Hidup memiliki tujuan akhir yang mulia. Disiplin ditegakkan atas dasar kesadaran hisab akhirat, bukan karena takut pengawasan lahiriah.[^12]
 
 ---
 
@@ -219,49 +167,58 @@ flowchart TD
 
 ---
 
-### 3. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4
+### 3. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Worldview (Maratib al-Idrak)
 
-Sintesis filosofis Realisme Teistik Integratif ditranslasikan ke dalam Matriks Taksonomi Kematangan Worldview Tangga J1–J4:
-
-| Dimensi Worldview | Jenjang J1: Adaptasi Dasar (Kelas 7 / Usia 12–13) | Jenjang J2: Habituasi Otonom (Kelas 8–9 / Usia 13–15) | Jenjang J3: Internalisasi (Kelas 10–11 / Usia 15–17) | Jenjang J4: Qudwah Paripurna (Kelas 12 / Usia 17–18) |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Pemahaman Realitas Mulk-Malakut** | Memahami bahwa shalat terhubung dengan pahala; patuh pada jadwal sanitasi kamar. | Menyadari bahwa hidup sehat adalah ibadah; menjaga kebersihan asrama mandiri. | Menghayati kehadiran Allah (*Muraqabah*); peka terhadap nilai spiritual di balik rutinitas. | Memandang seluruh semesta sebagai ayat Allah; memimpin gerakan *Green Pesantren*. |
-| **2. Ketahanan Kritis Worldview** | Mampu membedakan antara nilai Islam dan budaya buruk di media sosial. | Menolak pemikiran fatalistik dan relativisme moral dalam diskusi kelas. | Mampu menganalisis fenomena sains modern dari perspektif tauhid integratif. | Menjadi pembicara dan penulis muda yang mendakwahkan worldview Islam kokoh. |
-| **3. Integritas Psiko-Fisik** | Menjaga waktu tidur dan pola makan sehat dengan arahan musyrif. | Menjaga kebugaran jasmani dan ketenangan batin secara disiplin mandiri. | Mampu meregulasi emosi saat stres; aktif berolahraga dan qiyamul lail. | Memiliki kepribadian seimbang (*Tawazun*): bugar, cerdas, beradab, dan khusyu'. |
-| **4. Orientasi Kepemimpinan** | Belajar melayani teman sekamar dan menghormati pengurus asrama. | Berpartisipasi aktif dalam kegiatan sosial dan kebersihan lingkungan. | Menginisiasi program pembinaan adik kelas berbasis kasih sayang. | Menjadi pemimpin transformatif (*Civilizational Leader*) pembawa rahmat umat. |
-
-#### 🔄 Narasi Analitis Dinamika Transisi Psikologis Antar-Jenjang:
-* **Transisi J1 ke J2 (Dari Pembiasaan Menuju Logika Integratif)**: Santri baru J1 menjalani aturan asrama secara taat asas. Pada jenjang J2, santri memahami filsafat di balik aturan: *"Mengapa kita harus tidur cukup? Karena otak kita adalah amanah wujud fisik yang diciptakan Allah untuk berpikir"*. Pemahaman ini melahirkan kedisiplinan mandiri.
-* **Transisi J2 ke J3 (Dari Logika Menuju Kedalaman Eksistensial)**: Pada jenjang J3, santri memiliki kepekaan metafisik yang matang. Mereka memandang waktu bukan sebagai uang (*Time is Money* materialistis), melainkan sebagai nafas ibadah (*Time is Amanah*). Santri menjauhi kesia-siaan (*Laghw*) dan fokus berkarya.
-* **Transisi J3 ke J4 (Kepemimpinan Peradaban Berbasis Qudwah)**: Santri J4 mencapai kematangan *Insan Adabi*: mereka memadukan kepiawaian membaca kitab kuning turats dengan kemahiran metodologi sains modern, tampil percaya diri di forum internasional, dan memiliki kerendahan hati seorang hamba Allah yang sejati.[^15]
-
----
-
-### 4. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan
-
-Untuk menjamin sintesis filosofis ini membumi dalam keseharian asrama 24 jam, dirumuskan Standar Operasional Prosedur (SOP) berbasis PBIS Multi-Tier:
+Transformasi pemahaman santri dan pengasuh terhadap sintesis filosofis wujud berlangsung melalui **Empat Tingkatan Kesadaran Worldview (*Maratib al-Idrak al-Wujudiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph StandarOperasionalSintesisPBIS["STANDAR OPERASIONAL ASRAMA REALISME INTEGRAL PBIS"]
+    subgraph TingkatanKesadaranSintesis["EMPAT TINGKATAN KESADARAN WORLDVIEW (MARATIB AL-IDRAK)"]
         
-        Tier1_D["TIER 1: UNIVERSAL WORLDVIEW CULTURE (100% SANTRI)<br/>• Kurikulum Integrasi Sains & Wahyu di Seluruh Kelas Madrasah.<br/>• Standarisasi Asrama Sehat: Ventilasi, Air Bersih, & Higienitas Gizi.<br/>• Budaya Literasi Kritis Membentengi Santri dari Syubhat Media Sosial."]
+        W1["TINGKAT 1: KESADARAN MATERI-RITUAL (Al-Idrak al-Maddiy)<br/>• Menjalankan rutinitas fisik asrama & shalat berjamaah secara disiplin.<br/>• Mematuhi jadwal sirkadian & menjaga kebersihan lingkungan kamar."]
         
-        Tier2_D["TIER 2: TARGETED EPISTEMIC COUNSELING (10-15% SANTRI)<br/>• Halaqah Khusus Dialog Sokratik bagi Santri Mengalami Syubhat Pikiran.<br/>• Klinik Bimbingan Motivasi Belajar Berbasis Kausalitas Sunnatullah.<br/>• Pendampingan Kesehatan Mental & Manajemen Beban Belajar."]
+        W2["TINGKAT 2: KESADARAN INTEGRASI KAUSALITAS (Al-Idrak at-Tawazuniy)<br/>• Memahami bahwa kesehatan raga & sains adalah bagian integral dari ibadah.<br/>• Memiliki nalar kritis menolak pemikiran fatalistik dan sekularisme."]
         
-        Tier3_D["TIER 3: INTENSIVE EXISTENTIAL RECOVERY (1-5% KASUS KRISIS)<br/>• Konseling Eksistensial Mendalam Bersama Tim Pakar Filsafat & BK.<br/>• Pemulihan Depresi / Krisis Makna Hidup Berbasis Terapi Tauhid.<br/>• Pendampingan Keluarga & Reintegrasi Sosial Penuh Kehangatan."]
+        W3["TINGKAT 3: KESADARAN TELEOLOGIS EKSISTENSIAL (Al-Idrak al-Gha'iy)<br/>• Menghayati hakikat hidup sebagai pengabdian total (Khilafah & 'Ubudiyyah).<br/>• Mengikis kesia-siaan waktu; memiliki kepekaan moral & empati sosial mendalam."]
         
-        Tier1_D ==> Tier2_D ==> Tier3_D
+        W4["TINGKAT 4: KESADARAN INSAN ADABI PERADABAN (Al-Idrak al-Hadharat)<br/>• Mencapai puncak kematangan Insan Adabi; memadukan sains & kesucian ruhani.<br/>• Menjadi agen transformasi peradaban (Civilizational Leader) pembawa berkah umat."]
+        
+        W1 ==> W2 ==> W3 ==> W4
     end
 ```
 
-#### 📋 Panduan Taktis Pengasuhan Asrama:
-1. **Integrasi Worldview Islam dalam Pengajaran Sains**:
-   - Guru Biologi, Fisika, dan Matematika wajib menyertakan tadabbur ayat-ayat kauniyyah dalam setiap bab pelajaran guna meruntuhkan sekat pemisah antara sains dan agama.
-2. **Protokol Penanganan Syubhat Pemikiran (Epistemic Counseling Tier 2)**:
-   - Jika santri melontarkan pertanyaan kritis seputar eksistensi Tuhan atau keadilan takdir, guru dan musyrif dilarang keras membentak atau menuduh santri kafir. Santri diajak berdialog ilmiah dengan penuh kesabaran dan dalil mantiqi yang memuaskan akal.[^16]
-3. **Pembangunan Lingkungan Asrama Berkelanjutan (*Green Eco-Pesantren*)**:
-   - Seluruh fasilitas fisik asrama dirancang hemat energi, ramah lingkungan, dan mendukung kesehatan neurobiologis santri sebagai manifestasi nyata pengamalan Realisme Integral di alam mulk.[^17]
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Pembiasaan Menuju Logika Kausalitas Integratif)**: Santri mula-mula menjalani aturan asrama secara taat asas. Pada tingkatan kedua, santri memahami filsafat di balik aturan: santri menyadari bahwa merawat otak dan menjaga kebersihan kamar adalah bentuk memuliakan amanah Allah SWT.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Logika Kausalitas Menuju Kedalaman Eksistensial)**: Pada tingkatan ketiga, santri memiliki kepekaan metafisik yang matang. Waktu dipandang bukan sebagai komoditas materi (*Time is Money*), melainkan sebagai nafas ibadah (*Time is Amanah*). Santri fokus berkarya dan beribadah dengan penuh kesungguhan.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Pemimpin Peradaban)**: Pada tingkatan tertinggi, santri memancarkan kematangan *Insan Adabi*: santri memadukan kepiawaian membaca kitab kuning turats dengan kemahiran sains modern, tampil percaya diri di panggung dunia, dan memiliki kerendahan hati seorang hamba Allah sejati.[^13]
+
+---
+
+### 4. Prinsip Aksiologis & Etika Tata Kelola Integrasi Sains-Tauhid di Madrasah
+
+Sintesis Realisme Teistik Integratif melahirkan prinsip etika tata kelola kelembagaan:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaSintesis["PRINSIP AKSIOLOGIS INTEGRASI PENDIDIKAN ISLAM"]
+        
+        T1_E["1. INTEGRASI SAINS & WAHYU DI KELAS (Tawhidic Epistemology)<br/>• Mengintegrasikan tadabbur ayat kauniyyah di seluruh mata pelajaran sains.<br/>• Menghapus dikotomi ilmu agama vs ilmu umum di madrasah."]
+        
+        T2_E["2. EKOSISTEM ASRAMA HIJAU BERKAH (Green Eco-Pesantren)<br/>• Tata ruang asrama dirancang higienis, hemat energi, & ramah lingkungan.<br/>• Air bersih, sanitasi, dan ventilasi dikelola dengan standar mutu modern."]
+        
+        T3_E["3. PENDAMPINGAN EKSISTENSIAL SANTRI (Epistemic Counseling)<br/>• Konseling ramah & logis bagi santri yang menghadapi keraguan iman (Syubhat).<br/>• Dialog sokratik yang memuaskan nalar dan menenteramkan kalbu."]
+        
+        T1_E <===> T2_E <===> T3_E
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Kurikulum Sains Berbasis Tauhid**:
+   - Guru sains madrasah wajib menjelaskan hukum fisika dan biologi sebagai manifestasi keteraturan ciptaan Allah SWT (*Intelligent Design*).
+2. **Protokol Penanganan Syubhat Pemikiran**:
+   - Musyrif dilarang membentak santri yang bertanya kritis mengenai takdir atau ketuhanan; santri didampingi melalui dialog sokratik yang santun dan ilmiah.[^14]
+3. **Pengelolaan Lingkungan Berkelanjutan (*Green Pesantren*)**:
+   - Seluruh fasilitas fisik asrama dikelola secara bersih dan teratur sebagai wujud nyata pengamalan Realisme Integral di alam mulk.[^15]
 
 ---
 
@@ -269,12 +226,12 @@ flowchart TD
 
 Sintesis filosofis Realisme Teistik Integratif ini menandai babak baru metamorfosis pesantren di era modern:
 
-* **Mengakhiri Inferioritas Intelektual Terhadap Peradaban Barat**:  
-  Pesantren tidak perlu lagi merasa minder di hadapan modernitas Barat. Dengan Realisme Teistik Integratif, pesantren membuktikan bahwa Islam memiliki epistemologi dan ontologi yang jauh lebih unggul, utuh, dan manusiawi dibanding materialisme sekuler yang hampa makna.
-* **Membangun Model Pendidikan Holistik Percontohan Dunia**:  
-  Integrasi antara kebersihan fisik asrama, kecerdasan sains empiris, dan kekhusyukan ibadah menjadikan pesantren model rujukan pendidikan alternatif bagi krisis peradaban global yang saat ini dilanda dekadensi moral dan krisis kesehatan mental.
+* **Mengakhiri Inferioritas Intelektual Terhadap Barat**:  
+  Pesantren membuktikan bahwa Islam memiliki epistemologi dan ontologi yang jauh lebih unggul, utuh, dan manusiawi dibanding materialisme sekuler yang hampa makna.
+* **Membangun Model Pendidikan Holistik Percontohan Global**:  
+  Integrasi antara kebersihan fisik asrama, kecerdasan sains empiris, dan kekhusyukan ibadah menjadikan pesantren model rujukan pendidikan alternatif bagi krisis peradaban modern.
 * **Melahirkan Generasi Pemimpin Peradaban (*Rijalul Mustaqbal*)**:  
-  Dari rahim ekosistem TUMBUH akan lahir para ulama yang memahami sains, dan para ilmuwan/pemimpin yang hafal Al-Qur'an dan berakhlak mulia, yang siap membawa kejayaan bagi umat dan bangsa.[^18]
+  Dari rahim ekosistem TUMBUH lahir para ulama yang memahami sains, dan para cendekiawan yang hafal Al-Qur'an serta berakhlak mulia.[^16]
 
 ---
 
@@ -290,7 +247,7 @@ Sintesis filosofis Realisme Teistik Integratif ini menandai babak baru metamorfo
 | **Hakikat Kausalitas** | Determinisme buta tanpa Tuhan. | Fatalisme pasrah tanpa ikhtiar. | **Harmoni Kausalitas Kauniyyah-Syar'iyyah.**| Asy-Syathibi (*Muwafaqat*); Bhaskar. | Standarisasi sanitasi, nutrisi, & munajat fajar. |
 | **Model Pembinaan** | Behaviorisme mekanistik / angka. | Penelantaran raga / tirakat kumuh. | **Ta'dib Restoratif PBIS (*Firm & Kind*).** | Horner & Sugai (2015); Zehr (2002). | Lingkungan asrama sehat, aman, & penuh kasih. |
 | **Benteng Pemikiran** | Rentan nihilisme & kehampaan jiwa.| Fanatisme sempit tanpa nalar sains.| **Imunitas Akidah & Nalar Kritis Yaqin.**| Ibnu Taimiyyah (*Dar'u Ta'arudh*). | Santri tangguh hadapi syubhat modernitas. |
-| **Profil Lulusan** | Robot industri sekuler tanpa adab. | Individu pasif terasing dari zaman. | **Insan Adabi Pemimpin Peradaban J4.** | Syed Muhammad Naquib Al-Attas (1980). | Kader ulama intelek pembawa rahmat semesta. |
+| **Profil Lulusan** | Robot industri sekuler tanpa adab. | Individu pasif terasing dari zaman. | **Insan Adabi Pemimpin Peradaban.** | Syed Muhammad Naquib Al-Attas (1980). | Kader ulama intelek pembawa rahmat semesta. |
 
 ---
 
@@ -320,17 +277,15 @@ Sintesis filosofis Realisme Teistik Integratif ini menandai babak baru metamorfo
 [^5]: Descartes, R. (1641), *Meditations on First Philosophy*; Analisis Dekonstruksi Dualisme TUMBUH, 2026.  
 [^6]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 65–90.  
 [^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tawakkul*, hlm. 280–310.  
-[^8]: Blueprint Arsitektur Asrama Sehat Berbasis Meta-Ontologi Realisme TUMBUH, 2026.  
-[^9]: Dokumentasi Bimbingan Konseling Eksistensial & Resolusi Syubhat Santri TUMBUH, 2026.  
-[^10]: Silabus Lokakarya Integrasi Sains & Ayat Kauniyyah Madrasah TUMBUH, 2026.  
-[^11]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 15–35.  
-[^12]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 95–130.  
-[^13]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 110–145.  
-[^14]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 35–60.  
-[^15]: Matriks Progresi Insan Adabi Tangga J1–J4 TUMBUH, 2026.  
-[^16]: Petunjuk Teknis Epistemic Socratic Dialogue Pengasuhan Asrama TUMBUH, 2026.  
-[^17]: Standar Kebijakan Green Eco-Pesantren Tata Kelola TUMBUH, 2026.  
-[^18]: Deklarasi Peradaban Dewan Riset & Intelektual Ekosistem TUMBUH Pesantren, 2026.
+[^8]: Silabus Lokakarya Integrasi Sains & Ayat Kauniyyah Madrasah TUMBUH, 2026.  
+[^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 15–35.  
+[^10]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 95–130.  
+[^11]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 110–145.  
+[^12]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 35–60.  
+[^13]: Matriks Tingkatan Kesadaran Worldview (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^14]: Petunjuk Teknis Epistemic Socratic Dialogue Pengasuhan Asrama TUMBUH, 2026.  
+[^15]: Standar Kebijakan Green Eco-Pesantren Tata Kelola TUMBUH, 2026.  
+[^16]: Deklarasi Peradaban Dewan Riset & Intelektual Ekosistem TUMBUH Pesantren, 2026.
 
 ---
 

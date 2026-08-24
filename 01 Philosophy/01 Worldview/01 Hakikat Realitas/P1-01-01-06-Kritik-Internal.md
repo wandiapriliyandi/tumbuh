@@ -15,7 +15,7 @@
 > * **Inovasi Konseptual: Uji Ketahanan Falsifikasi & Desakralisasi SOP Manajemen:**  
 >   TUMBUH menegakkan audit kritik internal paling ketat: membedakan secara tegas antara Syariat Wahyu yang suci abadi (*Al-Qath'iyyat*) dengan SOP Manajemen Pesantren yang merupakan ijtihad teknis dinamis (*Al-Ijtihadiyyat*) yang wajib diaudit dan dievaluasi terus-menerus berbasis data PBIS faktual.
 > * **Formulasi Operasional & Pembuktian Lapangan:**  
->   Monograf ini menyajikan matriks audit kualitas 6 aksioma, dekomposisi tangga pencegahan egosentrisme spiritual J1–J4, standar pembuktian disiplin berbasis fakta teramati (*Evidence-Based Protocol*), dan mekanisme evaluasi kebijakan partisipatif semesteran.
+>   Monograf ini menyajikan matriks audit kualitas 6 aksioma, 4 Tingkatan Kesadaran Nalar Kritis (*Maratib al-Idrak*), standar pembuktian disiplin berbasis fakta teramati (*Evidence-Based Protocol*), dan etika tata kelola organisasi pembelajar (*Learning Organization*).
 
 ---
 
@@ -30,8 +30,8 @@
   - [6. Inkuiri 5: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#6-inkuiri-5-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Hasil Audit Kualitas & Uji Stres Enam Aksioma Ontologis TUMBUH](#1-matriks-hasil-audit-kualitas--uji-stres-enam-aksioma-ontologis-tumbuh)
-  - [2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4](#2-dekomposisi-indikator-matriks-taksonomi--dinamika-transisi-tangga-j1j4)
-  - [3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan](#3-protokol-aksi-operasional-pbis-multi-tier--tata-kelola-pengasuhan-lapangan)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Nalar Kritis (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-nalar-kritis-maratib-al-idrak)
+  - [3. Prinsip Aksiologis & Piagam Desakralisasi SOP Tata Kelola Asrama](#3-prinsip-aksiologis--piagam-desakralisasi-sop-tata-kelola-asrama)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Kritik Internal](#1-tabel-sintesis-temuan-riset-kritik-internal)
@@ -67,123 +67,47 @@ flowchart TD
 
 ### 2. Inkuiri 1: Uji Demarkasi Realitas Ghaib vs Mitos Khurafat & Firasat Sepihak Pengurus
 
-Dalam tata kelola asrama, sering terjadi pencampuradukan antara keimanan kepada yang ghaib (*Al-Ghaybiyyat*) dengan mitos takhayul dan firasat subjektif:
-
-```mermaid
-flowchart LR
-    subgraph DemarkasiGhaibVsMitos["DEMARKASI EPISTEMOLOGIS: REALITAS GHAIB VS MITOS"]
-        GhaibSyar'i["Realitas Ghaib Syar'i (Wahyu Qath'iy): Malaikat, Jin, Siksa Kubur, Hisab Akhirat"]
-        
-        FaktaDhohir["Fakta Empiris Dhohir (Alam Mulk): Bukti Perilaku Teramati, Logbook, Rekaman CCTV"]
-        
-        DemarkasiKaidah["Kaidah Syariat: 'Nahnu Nahkumu bizh-Zhawahir' Mengharamkan Tuduhan Berbasis Mitos"]
-        
-        GhaibSyar'i --> DemarkasiKaidah
-        FaktaDhohir --> DemarkasiKaidah
-    end
-```
-
 Kaidah fiqh agung yang disepakati ulama menegaskan batasan penegakan hukum dan disiplin:
 
 $$\text{نَحْنُ نَحْكُمُ بِالظَّوَاهِرِ، وَاللَّهُ يَتَوَلَّى السَّرَائِرَ}$$
 
 *"**Kita menetapkan hukum berdasarkan bukti-bukti nyata yang tampak lahiriah (*Zhawahir*), sedangkan Allah SWT semata yang berhak mengadili apa yang tersembunyi di dalam batin/rahasia kalbu**."*[^2]
 
-Penerapan kaidah ini di asrama TUMBUH secara mutlak melarang:
-1. Musyrif menuduh santri mencuri hanya atas dasar "firasat batin" atau "petunjuk mimpi".
-2. Menghukum santri yang pingsan atau mengalami gangguan emosi dengan tuduhan "kesurupan karena berdosa", tanpa melakukan pemeriksaan medis dan psikologis klinis terlebih dahulu. Seluruh penanganan kasus wajib berbasis bukti fakta objektif (*Evidence-Based Verification*).[^3]
+Penerapan kaidah ini di asrama TUMBUH secara mutlak melarang musyrif menuduh santri melakukan pelanggaran hanya atas dasar "firasat batin" atau isu takhayul. Seluruh penanganan kasus wajib berbasis bukti fakta objektif (*Evidence-Based Verification*).[^3]
 
 ---
 
 ### 3. Inkuiri 2: Uji Masalah Kejahatan (The Problem of Evil) & Perundungan Asrama
 
-Tantangan teologis terdalam dalam ontologi adalah teodisi: *Jika Allah Maha Pengasih dan menciptakan alam dengan fitrah kebaikan, mengapa terjadi perundungan (*bullying*) dan kekerasan di asrama pesantren?*
+Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *At-Tawhid*) menguraikan bahwa kejahatan moral (*Asy-Syarr al-Ikhlaqiy*) tidak dinisbatkan kepada Allah sebagai keburukan esensial, melainkan merupakan konsekuensi dari penyalahgunaan kehendak bebas manusia yang menentang syariat.[^4]
 
-```mermaid
-flowchart TD
-    subgraph TeodisiDanPenyelesaianBullying["TEODISI ISLAM & PENANGGULANGAN PERUNDUNGAN"]
-        FitrahInsan["Fitrah Insan: Diciptakan Membawa Potensi Kebaikan & Kehendak Bebas (Ikhtiar)"]
-        
-        PenyalahgunaanNafsu["Penyimpangan Moral: Nafsu Ammarah Memilih Kezaliman Menindas Sesama"]
-        
-        ResponsRestoratif["RESPONS RESTORATIF PBIS (TUMBUH)<br/>• Melindungi Korban Seketika (Zero Tolerance for Harm).<br/>• Membimbing Pelaku Mempertanggungjawabkan Kehendaknya.<br/>• Rekayasa Lingkungan Bi'ah Shalihah Mencegah Terulangnya Kasus."]
-        
-        FitrahInsan --> PenyalahgunaanNafsu --> ResponsRestoratif
-    end
-```
-
-Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *At-Tawhid wal-Inqiyad*) menguraikan bahwa kejahatan moral (*Asy-Syarr al-Ikhlaqiy*) tidak dinisbatkan kepada Allah sebagai keburukan esensial, melainkan merupakan konsekuensi dari penyalahgunaan kehendak bebas (*Al-Ikhtiar al-Insaniy*) yang menentang syariat.[^4]
-
-Di pesantren, perundungan terjadi bukan karena "sudah takdir asrama", melainkan karena adanya kelemahan sistem pengawasan, titik rawan (*Hotspots*), dan kegagalan pendampingan moral. Penanggulangan perundungan adalah kewajiban syar'i (*Fardhu 'Ain*) yang menuntut intervensi sistemik PBIS Multi-Tier, bukan pembiaran fatalistik.[^5]
+Di pesantren, perundungan terjadi bukan karena "sudah takdir asrama", melainkan karena adanya kelemahan sistem pengawasan dan kegagalan pendampingan moral. Penanggulangan perundungan adalah kewajiban syar'i (*Fardhu 'Ain*) yang menuntut intervensi sistemik PBIS, bukan pembiaran fatalistik.[^5]
 
 ---
 
 ### 4. Inkuiri 3: Uji Determinisme Fatalistik vs Pertanggungjawaban Ikhtiar (Kasb)
 
-Santri yang melakukan pelanggaran sering kali bersembunyi di balik dalih takdir (*Fatalistic Rationalization*): *"Ustadz, saya merokok karena sudah ditakdirkan Allah menjadi anak nakal"*.
-
-Paham *Jabariyah* (Determinisme Fatalistik) ini didekonstruksi secara telak oleh doktrin Ahlussunnah wal Jama'ah melalui konsep **Kasb (Usaha/Pilihan Tindakan)** yang dirumuskan Imam Abu al-Hasan al-Asy'ari dan Imam Abu Mansur al-Maturidi:
+Paham *Jabariyah* (Determinisme Fatalistik) didekonstruksi secara telak oleh doktrin Ahlussunnah wal Jama'ah melalui konsep **Kasb (Usaha/Pilihan Tindakan)** yang dirumuskan Imam Abu al-Hasan al-Asy'ari dan Imam Abu Mansur al-Maturidi:
 
 $$\text{إِنَّ لِلْعَبْدِ كَسْبًا وَاخْتِيَارًا يَتَعَلَّقُ بِهِ الثَّوَابُ وَالْعِقَابُ، وَلَيْسَ مَجْبُورًا كَالرِّيشَةِ فِي مَهَبِّ الرِّيحِ؛ فَاحْتِجَاجُ الْعَاصِي بِالْقَدَرِ بَاطِلٌ بِإِجْمَاعِ الْأُمَّةِ}$$
 
-*"**Sesungguhnya seorang hamba memiliki Kasb (ikhtiar usaha) dan kehendak memilih yang kepadanya digantungkan pahala dan sanksi hisab, dan manusia sama sekali bukanlah makhluk yang terpaksa seperti sehelai bulu di hembusan angin**; maka tindakan pelaku maksiat yang beralasan dengan takdir atas dosanya adalah batil menurut konsensus ijma' umat Islam."*[^6]
-
-Santri bertanggung jawab penuh atas setiap perilakunya di asrama. Musyrif membimbing santri untuk tidak meratapi masa lalu, melainkan menggunakan daya *Kasb*-nya hari ini untuk memperbaiki kesalahan melalui amal shaleh dan disiplin restoratif.[^7]
+*"**Sesungguhnya seorang hamba memiliki Kasb (ikhtiar usaha) dan kehendak memilih yang kepadanya digantungkan pahala dan sanksi hisab, dan manusia bukanlah makhluk yang terpaksa seperti sehelai bulu di hembusan angin**; maka tindakan pelaku maksiat yang beralasan dengan takdir atas dosanya adalah batil."*[^6]
 
 ---
 
 ### 5. Inkuiri 4: Uji Desakralisasi Manajemen Asrama — Mencegah Tyranny of Policy
 
 Penyelidikan audit kualitas menegakkan pemisahan tegas antara dua domain hukum di pesantren:
-* **Domain Syariat Suci (*Al-Qath'iyyat / Ash-Shari'ah*)**: Rukun shalat 5 waktu, keharaman mencuri, larangan berzina, kewajiban menutup aurat, dan akhlak birrul walidain. Domain ini bersifat abadi, sakral, dan tidak boleh diubah oleh siapapun.
-* **Domain Manajemen Teknis (*Al-Ijtihadiyyat / As-Siyasah at-Tarbawiyyah*)**: Jam bangun tidur, sistem antrean mandi, format kartu mutaba'ah, denah ranjang kamar, dan prosedur izin keluar pondok. Domain ini adalah produk akal ijtihadi manusia yang bersifat dinamis, tidak sakral, dan wajib dievaluasi secara berkala berdasarkan kemaslahatan nyata santri.[^8]
-
-```mermaid
-flowchart TD
-    subgraph DesakralisasiManajemenAsrama["DESAKRALISASI MANAJEMEN ASRAMA PESANTREN"]
-        SyariatAbadi["1. DOMAIN SYARIAT (AL-QATH'IYYAT)<br/>• Hukum Allah & Rasul-Nya.<br/>• Bersifat Suci, Abadi, & Mutlak.<br/>• Contoh: Wajib Shalat, Haram Zalim."]
-        
-        ManajemenDinamis["2. DOMAIN MANAJEMEN (AL-IJTIHADIYYAT)<br/>• Produk Ijtihad Musyrif & Pengurus.<br/>• Bersifat Dinamis & Terbuka Dievaluasi.<br/>• Contoh: Jam Mandi, SOP Piket, Format Kartu."]
-        
-        KaidahPemisahan["Kaidah Emas: 'Jangan Mensakralkan SOP Teknis Manusia Setara Wahyu Allah'"]
-        
-        SyariatAbadi --> KaidahPemisahan
-        ManajemenDinamis --> KaidahPemisahan
-    end
-```
+* **Domain Syariat Suci (*Al-Qath'iyyat / Ash-Shari'ah*)**: Rukun ibadah, hukum halal-haram, dan akhlak mahmudah yang bersifat abadi dan mutlak.
+* **Domain Manajemen Teknis (*Al-Ijtihadiyyat / As-Siyasah at-Tarbawiyyah*)**: Jam mandi, denah ranjang, jadwal piket, dan sistem perizinan yang bersifat dinamis dan wajib dievaluasi berbasis data.[^7]
 
 ---
 
 ### 6. Inkuiri 5: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
 
-Penyelidikan klinis terhadap kasus-kasus otoritarianisme pengasuhan menghasilkan analisis kasus dan protokol perbaikan:
-
-```mermaid
-flowchart TD
-    subgraph AlurPenyelesaianOtoritarianisme["PROTOKOL RESTORATIF PENANGANAN OTORITARIANISME ASRAMA"]
-        KasusSOPZalim["1. INSIDEN: Musyrif Menghukum Santri Menguras Septic Tank karena Telat 2 Menit"]
-        
-        AuditKebijakan["2. AUDIT PROPORSIONALITAS: Dewan Pengasuhan Membatalkan Sanksi yang Tidak Manusiawi"]
-        
-        MediasiRestoratif["3. RESTORASI KEADILAN: Musyrif Mengakui Kekeliruan & Menata Ulang Konsekuensi Logis"]
-        
-        PembaruanSOPPartisipatif["4. REVISI PARTISIPATIF: Melibatkan Perwakilan Santri & Musyrif Menyusun Aturan Baru"]
-        
-        IklimAsramaSehat["5. PEMULIHAN IKLIM: Asrama Menjadi Lingkungan Pengasuhan yang Adil & Bermartabat"]
-        
-        KasusSOPZalim --> AuditKebijakan --> MediasiRestoratif --> PembaruanSOPPartisipatif --> IklimAsramaSehat
-    end
-```
-
-* **Studi Kasus 1: Sanksi Fisik Ekstrem Menguras Septic Tank Tanpa Alat Pelindung Diri**  
-  * **Dilema**: Musyrif menghukum santri yang terlambat apel pagi 2 menit dengan menyuruh menguras saluran septic tank tanpa sarung tangan dan sepatu bot. Musyrif berdalih: *"Ini aturan pesantren, santri harus taat tanpa bantah!"*.
-  * **Akar Masalah**: *Tyranny of Policy* (kesewenang-wenangan manajemen) yang mengabaikan keselamatan biologis santri (*Hifzh an-Nafs*) dan melanggar prinsip keadilan proporsional.
-  * **Resolusi Restoratif TUMBUH**: Dewan Pimpinan Pesantren membatalkan sanksi tersebut seketika; musyrif ditegur keras dan mengikuti pelatihan etika pengasuhan; santri diperiksa kesehatannya di klinik. Aturan konsekuensi keterlambatan direvisi menjadi tugas edukatif (seperti merapikan perpustakaan atau membuat resume kitab adab).[^9]
-
-* **Studi Kasus 2: Tuduhan Santri Menggunakan Sihir Akibat Prestasi Menghafal Sangat Cepat**  
-  * **Dilema**: Seorang santri kelas 7 mampu menghafal 1 halaman Al-Qur'an dalam 10 menit. Teman-teman sekamarnya menyebarkan fitnah bahwa ia "memakai jimat dan bantuan jin", sehingga santri tersebut dikucilkan.
-  * **Akar Masalah**: Rendahnya literasi demarkasi ghaib vs mitos; kegagalan memahami keberagaman bakat kognitif (*Neurodiversity*).
-  * **Resolusi Restoratif TUMBUH**: Konselor BK dan Asatidz Tahfizh menggelar halaqah edukasi: mendemonstrasikan metode menghafal visual berbasis sains (*Photographic Memory & Spaced Repetition*), membantah fitnah khurafat, dan memulihkan nama baik santri. Rekan-rekan sekamarnya meminta maaf dan belajar metode menghafal cepat dari santri tersebut.[^10]
+* **Studi Kasus: Sanksi Fisik Ekstrem Menguras Septic Tank Tanpa Alat Pengaman**  
+  * **Dilema**: Musyrif menghukum santri yang terlambat apel 2 menit dengan menyuruh menguras saluran septic tank tanpa sarung tangan dan sepatu bot, berdalih menegakkan "aturan pondok".
+  * **Resolusi Restoratif TUMBUH**: Pimpinan pesantren membatalkan sanksi seketika; sanksi yang membahayakan kesehatan dilarang mutlak; aturan konsekuensi keterlambatan direvisi secara partisipatif menjadi tugas edukatif yang bermanfaat.[^8]
 
 ---
 
@@ -197,71 +121,80 @@ Hasil audit pengujian stres (*Stress-Testing*) terhadap Enam Aksioma Realitas di
 
 | No | Aksioma Ontologis TUMBUH | Potensi Bias / Salah Guna Lapangan | Uji Falsifikasi & Stres-Test | Protokol Pengendalian & Mitigasi Risiko |
 | :---: | :--- | :--- | :--- | :--- |
-| **1** | **Aksioma Ketuhanan** | Menghakimi keikhlasan niat orang lain secara sepihak (*Tafsyir an-Niyyat*). | Keikhlasan adalah domain batin Allah; manusia hanya menilai bukti lahiriah dhohir. | Musyrif dilarang mencap santri "kamu tidak ikhlas"; evaluasi fokus pada perilaku faktual teramati. |
+| **1** | **Aksioma Ketuhanan** | Menghakimi keikhlasan niat orang lain secara sepihak (*Tafsyir an-Niyyat*). | Keikhlasan adalah domain batin Allah; manusia hanya menilai bukti lahiriah dhohir. | Musyrif dilarang mencap santri "tidak ikhlas"; evaluasi fokus pada perilaku teramati. |
 | **2** | **Aksioma Kehambaan** | Sikap minder ekstrem (*Inferiority Complex*) dan pasif tidak mau berprestasi. | Menjadi hamba Allah melahirkan keberanian moral tertinggi di hadapan makhluk. | Edukasi bahwa kehambaan di hadapan Allah membebaskan manusia dari perbudakan sesama makhluk. |
 | **3** | **Aksioma Keterpaduan** | Mengultuskan benda fisik asrama seolah-olah memiliki kekuatan magis. | Fisik dihormati sebagai sarana ibadah (*Wasilah*), bukan sesembahan (*Ghayah*). | Standarisasi sanitasi dan ventilasi murni berlandaskan sains dan fiqh *Hifzh an-Nafs*. |
 | **4** | **Aksioma Kausalitas** | Terjebak materialisme murni; melupakan doa dan keajaiban pertolongan Allah. | Hukum sebab-akibat diciptakan Allah; Allah Mahakuasa menolong hamba-Nya yang berdoa. | Menjaga keseimbangan 100% Ikhtiar Kauniyyah dan 100% Kepasrahan Doa Syar'iyyah. |
-| **5** | **Aksioma Fitrah** | Sikap permisif/lembek; membiarkan pelanggaran berat tanpa konsekuensi. | Fitrah luhur wajib dilindungi dengan menegakkan batasan syariat secara tegas (*Firm*). | Disiplin Restoratif Multi-Tier: Tegas melindungi korban, membimbing pemulihan pelaku. |
-| **6** | **Aksioma Hisab** | Munculnya budaya saling mengintai, memata-matai (*Tajassus*), dan menghakimi sesama. | Larangan mutlak tajassus dalam Al-Qur'an (QS. Al-Hujurat: 12). | Sistem logbook PBIS bersifat tertutup privat, terenkripsi, dan berfokus pada rasio apresiasi 4:1. |
+| **5** | **Aksioma Fitrah** | Sikap permisif/lembek; membiarkan pelanggaran berat tanpa konsekuensi. | Fitrah luhur wajib dilindungi dengan menegakkan batasan syariat secara tegas (*Firm*). | Disiplin Restoratif: Tegas melindungi korban, membimbing pemulihan pelaku. |
+| **6** | **Aksioma Hisab** | Munculnya budaya saling mengintai, memata-matai (*Tajassus*), dan menghakimi sesama. | Larangan mutlak tajassus dalam Al-Qur'an (QS. Al-Hujurat: 12). | Sistem logbook PBIS bersifat tertutup privat, terenkripsi, dan berfokus pada apresiasi 4:1. |
 
 ---
 
-### 2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Nalar Kritis (Maratib al-Idrak)
 
-Kapasitas bernalar kritis dan pencegahan egosentrisme spiritual dipetakan ke dalam Matriks Taksonomi Tangga J1–J4:
-
-| Dimensi Audit Nalar | Jenjang J1: Adaptasi Dasar (Kelas 7 / Usia 12–13) | Jenjang J2: Habituasi Otonom (Kelas 8–9 / Usia 13–15) | Jenjang J3: Internalisasi (Kelas 10–11 / Usia 15–17) | Jenjang J4: Qudwah Paripurna (Kelas 12 / Usia 17–18) |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Kematangan Nalar Kritis** | Belajar membedakan fakta nyata dan rumor/takhayul di kamar asrama. | Mampu menolak hoaks dan fitnah; terbiasa tabayyun sebelum mengambil kesimpulan. | Memiliki nalar kritis epistemologis; mampu menguji argumen secara logis. | Menjadi pembimbing nalar sebaya; menyelesaikan sengketa berdasarkan bukti objektif. |
-| **2. Kerendahan Hati Intelektual** | Menerima masukan musyrif dengan sopan tanpa membantah kasar. | Terbiasa berterima kasih atas koreksi kesalahan; mengakui kekeliruan secara terbuka. | Terbebas dari keangkuhan spiritual (*Ujub*); menghargai perbedaan pandangan ijtihadi. | Memancarkan ketawadhu'an sejati; terbuka terhadap kritik dari santri junior sekalipun. |
-| **3. Partisipasi Evaluasi SOP** | Mematuhi SOP asrama dengan tertib dan melaporkan kerusakan fasilitas. | Memberikan usulan perbaikan kebersihan kamar melalui forum musyawarah asrama. | Terlibat aktif dalam tim penjaminan mutu santri (*Santri Quality Council*). | Memimpin musyawarah penyusunan tata tertib santri yang adil, humanis, dan partisipatif. |
-| **4. Penegakan Keadilan Restoratif** | Mampu memaafkan teman yang tidak sengaja merugikan barangnya. | Bersedia melakukan restitusi ganti rugi jika melakukan kesalahan secara kesatria. | Menjadi penengah yang adil dalam konflik kamar; menolak tradisi hukuman fisik. | Menjadi fasilitator mediasi restoratif resmi pesantren; merawat kohesi ukhuwah pondok. |
-
-#### 🔄 Narasi Analitis Dinamika Transisi Psikologis Antar-Jenjang:
-* **Transisi J1 ke J2 (Dari Kepasifan Menuju Literasi Tabayyun)**: Santri baru J1 mudah terpengaruh cerita seram atau rumor takhayul di asrama. Melalui pendampingan di jenjang J2, santri mengaktifkan kaidah tabayyun (QS. Al-Hujurat: 6): santri memverifikasi setiap kabar, menolak gosip, dan menilai masalah berdasarkan bukti dhohir.
-* **Transisi J2 ke J3 (Dari Tabayyun Menuju Kebebasan dari Egosentrisme Spiritual)**: Pada jenjang J3, santri terbebas dari bahaya *Spiritual Bypass* (merasa diri paling suci karena rajin tahajjud). Santri menyadari bahwa kesalehan sejati diukur dari kemampuannya berbuat adil, menyayangi sesama, dan menjaga lisan dari menyakiti orang lain.
-* **Transisi J3 ke J4 (Kepemimpinan Bersih Berbasis Transparansi & Akuntabilitas)**: Santri J4 memimpin organisasi santri dengan paradigma *Servant Leadership*: mereka tidak antikritik, membuka kotak saran pengaduan transparan, dan secara berkala mengevaluasi efektivitas program bersama seluruh warga asrama.[^11]
-
----
-
-### 3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan
-
-Untuk memastikan desakralisasi manajemen dan audit kualitas berjalan sistematis di asrama 24 jam, ditetapkan Standar Operasional Prosedur (SOP) berbasis PBIS Multi-Tier:
+Transformasi kedewasaan bernalar kritis santri dan pengasuh berlangsung melalui **Empat Tingkatan Kesadaran Nalar Kritis (*Maratib al-Idrak an-Naqdiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph StandarAuditOperasionalPBIS["STANDAR AUDIT OPERASIONAL ASRAMA PBIS 24 JAM"]
+    subgraph TingkatanKesadaranKritis["EMPAT TINGKATAN KESADARAN NALAR KRITIS (MARATIB AL-IDRAK)"]
         
-        Tier1_E["TIER 1: UNIVERSAL QUALITY ASSURANCE (100% PESANTREN)<br/>• Audit Semesteran SOP Asrama Melibatkan Dewan Masyaikh, Musyrif, & Santri.<br/>• Prosedur Standar Pembuktian Disiplin Berbasis Fakta Teramati (Evidence-Based).<br/>• Saluran Pengaduan Aman & Anonim bagi Santri Korban Kekerasan / Maladministrasi."]
+        N1["TINGKAT 1: KESADARAN FAKTA LAHIRIAH (Al-Idrak azh-Zhahiriy)<br/>• Belajar membedakan antara fakta nyata teramati dan rumor takhayul di kamar.<br/>• Mematuhi SOP asrama dengan tertib; melaporkan kerusakan fasilitas secara jujur."]
         
-        Tier2_E["TIER 2: TARGETED DISCIPLINARY REHABILITATION (10-15% KASUS)<br/>• Mediasi Restoratif Segitiga Dipandu Konselor BK Profesional.<br/>• Kontrak Perbaikan Perilaku Restoratif (Restitution 4R Agreement).<br/>• Evaluasi Proporsionalitas Sanksi Menghindari Hukuman yang Merugikan Pendidikan."]
+        N2["TINGKAT 2: KESADARAN TABAYYUN & ANTI-HOAKS (Al-Idrak at-Tabayyuniy)<br/>• Menerapkan kaidah tabayyun (QS. Al-Hujurat: 6); menolak fitnah dan ghibah.<br/>• Terbiasa menerima koreksi kesalahan; berterima kasih atas masukan perbaikan."]
         
-        Tier3_E["TIER 3: INTENSIVE SYSTEMIC CASE INVESTIGATION (1-5% KRISIS)<br/>• Investigasi Tim Independen Terhadap Dugaan Pelanggaran Berat / Abuse of Power.<br/>• Perlindungan Penuh Kerahasiaan & Keamanan Saksi / Korban.<br/>• Tindakan Tegas Kelembagaan Tanpa Pandang Bulu & Koordinasi Otoritas Terkait."]
+        N3["TINGKAT 3: KESADARAN INTEGRITAS & TAWADHU' (Al-Idrak al-Inshafiy)<br/>• Terbebas dari egosentrisme spiritual (Spiritual Bypass) & merasa paling suci.<br/>• Menghargai perbedaan ijtihad; mampu melakukan muhasabah diri secara objektif."]
         
-        Tier1_E ==> Tier2_E ==> Tier3_E
+        N4["TINGKAT 4: KESADARAN KEPEMIMPINAN AKUNTABEL (Al-Idrak al-Mizan)<br/>• Memimpin musyawarah organisasi santri dengan adil, transparan, & terbuka.<br/>• Menjadi fasilitator mediasi restoratif yang menyelesaikan sengketa berdasar bukti."]
+        
+        N1 ==> N2 ==> N3 ==> N4
     end
 ```
 
-#### 📋 Panduan Taktis Pengasuhan Asrama:
-1. **Penyelenggaraan Musyawarah Akbar Evaluasi SOP Semesteran**:
-   - Setiap akhir semester, manajemen pesantren menggelar sidang tinjauan manajemen (*Management Review Meeting*): mengaudit seluruh poin peraturan asrama berdasarkan data frekuensi pelanggaran di logbook PBIS. Aturan yang terbukti tidak efektif atau menimbulkan mafsadat langsung direvisi.
-2. **Standar Penegakan Disiplin Berbasis Bukti Nyata (*Evidence-Based Protocol*)**:
-   - Musyrif dilarang menjatuhkan konsekuensi apapun tanpa adanya bukti faktual (minimal kesaksian 2 orang saksi adil, rekaman CCTV, atau pengakuan sadar pelaku).
-3. **Penyediaan Kotak Pengaduan Suara Santri (*Whistleblower System*)**:
-   - Pesantren menyediakan kanal pengaduan langsung kepada Pengasuh Utama (Kiai) yang terjamin kerahasiaannya untuk melaporkan segala bentuk intimidasi, pemerasan, atau kekerasan yang dilakukan oleh oknum pengurus.[^12]
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Kepasifan Menuju Literasi Tabayyun)**: Santri mula-mula mudah terpengaruh rumor atau takhayul. Pada tingkatan kedua, santri mengaktifkan kaidah tabayyun: memverifikasi kebenaran informasi sebelum berbicara dan menilai masalah berdasarkan bukti dhohir.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Tabayyun Menuju Kebebasan dari Egosentrisme Spiritual)**: Pada tingkatan ketiga, santri terbebas dari *Spiritual Bypass* (merasa diri paling suci karena rajin qiyamul lail). Santri menyadari bahwa kesalehan sejati diukur dari keadilan, kasih sayang, dan kejujuran akhlak.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Kepemimpinan Akuntabel)**: Pada tingkatan tertinggi, santri memimpin dengan paradigma *Servant Leadership*: tidak antikritik, membuka kotak saran pengaduan transparan, dan mengevaluasi efektivitas program bersama seluruh warga asrama.[^9]
+
+---
+
+### 3. Prinsip Aksiologis & Piagam Desakralisasi SOP Tata Kelola Asrama
+
+Kritik internal dan uji stres ontologis melahirkan Piagam Desakralisasi Manajemen Asrama:
+
+```mermaid
+flowchart TD
+    subgraph PiagamDesakralisasiSOP["PIAGAM DESAKRALISASI MANAJEMEN ASRAMA"]
+        
+        K1_E["1. AUDIT BERKALA KEBIJAKAN (Self-Correcting System)<br/>• Seluruh SOP teknis asrama wajib dievaluasi setiap semester berbasis data PBIS.<br/>• Aturan yang terbukti tidak efektif atau menimbulkan madharat wajib direvisi."]
+        
+        K2_E["2. STANDAR PEMBUKTIAN BUKTI DILAPANGAN (Evidence-Based Protocol)<br/>• Mengharamkan penjatuhan sanksi atas dasar firasat subjektif atau mimpi.<br/>• Keputusan disiplin wajib didukung bukti nyata: saksi adil, pengakuan, atau rekaman."]
+        
+        K3_E["3. KANAL PENGADUAN AMAN SANTRI (Whistleblower Protection)<br/>• Menyediakan saluran pengaduan langsung dan rahasia bagi santri korban intimidasi.<br/>• Perlindungan mutlak hak santri dan penegakan keadilan tanpa pandang bulu."]
+        
+        K1_E <===> K2_E <===> K3_E
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Evaluasi Kebijakan Partisipatif**:
+   - Melibatkan perwakilan musyrif dan santri dalam forum musyawarah semesteran peninjauan tata tertib asrama.
+2. **Prosedur Penegakan Disiplin Berbasis Bukti Faktual**:
+   - Musyrif dilarang menjatuhkan sanksi tanpa verifikasi bukti objektif teramati.
+3. **Kanal Pengaduan Suara Santri**:
+   - Menjamin tersedianya sarana pengaduan yang aman guna mencegah penyalahgunaan kekuasaan oleh oknum pengurus.[^10]
 
 ---
 
 ### 4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren
 
-Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan peradaban pesantren di era modern:
+Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan kelembagaan pesantren:
 
 * **Mencegah Kemunduran Menjadi Lembaga Otoriter Tertutup (*Total Institution*)**:  
-  Sosiolog Erving Goffman (1961) mendefinisikan *Total Institution* sebagai lembaga tertutup yang membatasi hak asasi penghuninya dan menuntut kepatuhan buta. Dengan mengadopsi kritik internal dan desakralisasi SOP, pesantren TUMBUH bertransformasi menjadi **Komunitas Pendidikan yang Hidup, Humanis, dan Berkeadilan Tinggi (*Vibrant Learning Community*)**.[^13]
+  Dengan mengadopsi kritik internal dan desakralisasi SOP, pesantren TUMBUH bertransformasi dari lembaga tertutup yang menuntut kepatuhan buta menjadi **Organisasi Pembelajar (*Learning Organization*)** yang hidup, humanis, dan berkeadilan tinggi.[^11]
 * **Membangun Budaya Integritas dan Transparansi Moral**:  
-  Ketika santri melihat bahwa asatidz dan pengurus bersedia meminta maaf saat keliru dan terbuka terhadap evaluasi, santri menyerap pelajaran adab tertinggi: bahwa kebenaran berada di atas kekuasaan (*Al-Haqqu Ya'lu wala Yu'la 'Alaih*). Integritas moral menjadi napas hidup seluruh warga pondok.
-* **Menjamin Keberlanjutan Keberkahan Kelembagaan Melintasi Abad**:  
-  Sistem yang antikritik akan rapuh dan runtuh oleh perubahan zaman. Sebaliknya, sistem pesantren yang berakar pada dalil wahyu yang suci sembari membuka diri terhadap audit kualitas saintifik akan terus bertumbuh relevan, kokoh, dan melahirkan para pemimpin peradaban sepanjang masa.[^14]
+  Ketika santri melihat bahwa asatidz dan pengurus bersedia meminta maaf saat keliru dan terbuka terhadap evaluasi, santri menyerap pelajaran adab tertinggi: bahwa kebenaran berada di atas kekuasaan (*Al-Haqqu Ya'lu wala Yu'la 'Alaih*).
+* **Menjamin Keberlanjutan Keberkahan Kelembagaan**:  
+  Sistem pesantren yang berakar pada dalil wahyu yang suci sembari membuka diri terhadap audit kualitas saintifik akan terus bertumbuh relevan, kokoh, dan melahirkan para pemimpin peradaban sepanjang masa.[^12]
 
 ---
 
@@ -276,7 +209,7 @@ Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan
 | **Status Kebijakan** | Sakralisasi SOP teknis setara wahyu. | Desakralisasi SOP: Ijtihad dinamis wajib diaudit. | Asy-Syathibi (*Muwafaqat*); Popper (1959). | Evaluasi semesteran SOP berbasis data PBIS. |
 | **Metode Pembuktian**| Menghukum atas firasat/mimpi sepihak. | Standar Bukti Lahiriah Faktual (*Zhawahir*). | Kaidah Syariat; Al-Ghazali (*Mustashfa*). | Bukti teramati, saksi adil, & rekaman objektif. |
 | **Penyikapan Takdir** | Fatalisme pasif (*Jabariyah* pemalas). | Tanggung Jawab Ikhtiar Nyata (*Kasb Asy'ari*). | Al-Asy'ari (*Al-Ibanah*); Al-Maturidi. | Santri bertanggung jawab penuh atas perilakunya. |
-| **Kultur Manajemen** | Otoritarianisme antikritik & feudal. | Organisasi Pembelajar (*Learning Organization*). | Goffman (1961); Senge (1990); Horner (2015). | Kotak saran transparan & dewan mutu santri. |
+| **Kultur Manajemen** | Otoritarianisme antikritik & feudal. | Organisasi Pembelajar (*Learning Organization*). | Goffman (1961); Senge (1990); Horner (2015). | Kotak saran transparan & dewan penjamin mutu. |
 | **Sikap Spiritual** | *Spiritual Bypass* & keangkuhan moral. | Tawadhu' Hakiki, Introspeksi, & Empati. | Al-Ghazali (*Ihya'*); Al-Attas (1980). | Santri rendah hati, adil, & anti-bullying. |
 
 ---
@@ -306,14 +239,12 @@ Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tawhid*, hlm. 240–275.  
 [^5]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^6]: Al-Asy'ari, *Al-Ibanah 'an Ushul ad-Diyanah*, hlm. 55–80; Al-Maturidi, *Kitab at-Tawhid*, hlm. 110–145.  
-[^7]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 40–65.  
-[^8]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 150–185.  
-[^9]: Dokumentasi Kasus Resolusi Kebijakan Disiplin Tidak Proporsional Asrama TUMBUH, 2026.  
-[^10]: Dokumentasi Klinis Penanganan Fitnah Khurafat Menghafal Al-Qur'an Santri TUMBUH, 2026.  
-[^11]: Matriks Progresi Karakter Nalar Kritis & Kerendahan Hati Tangga J1–J4 TUMBUH, 2026.  
-[^12]: Piagam Desakralisasi SOP & Sistem Whistleblower Perlindungan Santri TUMBUH, 2026.  
-[^13]: Goffman, E. (1961), *Asylums*, hlm. 15–48; Senge, P. (1990), *The Fifth Discipline*, hlm. 65–95.  
-[^14]: Blueprint Tata Kelola Kelembagaan Pesantren Berkelanjutan TUMBUH, 2026.
+[^7]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 150–185.  
+[^8]: Dokumentasi Resolusi Kebijakan Disiplin Tidak Proporsional Asrama TUMBUH, 2026.  
+[^9]: Matriks Tingkatan Kesadaran Nalar Kritis (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^10]: Piagam Desakralisasi SOP & Sistem Whistleblower Perlindungan Santri TUMBUH, 2026.  
+[^11]: Goffman, E. (1961), *Asylums*, hlm. 15–48; Senge, P. (1990), *The Fifth Discipline*, hlm. 65–95.  
+[^12]: Blueprint Tata Kelola Kelembagaan Pesantren Berkelanjutan TUMBUH, 2026.
 
 ---
 

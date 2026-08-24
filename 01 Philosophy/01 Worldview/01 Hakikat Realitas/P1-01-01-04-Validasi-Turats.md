@@ -15,7 +15,7 @@
 > * **Inovasi Konseptual: Validasi Sanad Intelektual 6 Tokoh Otoritatif Aswaja:**  
 >   TUMBUH membuktikan ketersambungan sanad ilmiah (*Ittishal as-Sanad wal-Fahm*) Enam Aksioma Realitas ke 6 pilar keilmuan Islam: **Imam Al-Ghazali (*Wujud Hakiki vs Majazi*), Syaikhul Islam Ibn Taimiyyah (*Realisme Fitrah Kausalitas*), Imam Al-Maturidi & An-Nasafi (*Haqa'iqul Asyya' Tsabitah*), Imam Asy-Syathibi (*Maqashid Kausalitas Kauniyyah-Syar'iyyah*), Imam Ibnu 'Athaillah (*Keseimbangan Maqam Asbab & Tajrid*), dan Prof. Syed Muhammad Naquib Al-Attas (*Dinamika Wujud & Taksonomi Ta'dib*)**.
 > * **Formulasi Operasional & Pembuktian Lapangan:**  
->   Monograf ini menyajikan matriks integrasi sanad Turats dengan 6 aksioma, dekomposisi tangga kematangan adab santri J1–J4 berbasis kitab turats, SOP halaqah kajian aplikatif asrama, dan protokol konseling ruhani restoratif berbasis *Al-Hikam*.
+>   Monograf ini menyajikan matriks integrasi sanad Turats dengan 6 aksioma, 4 Tingkatan Kesadaran Adab Turats (*Maratib al-Idrak*), prinsip aksiologis fiqh asrama, dan etika tata kelola pemuliaan fitrah santri.
 
 ---
 
@@ -29,8 +29,8 @@
   - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Komprehensif Sanad & Keselarasan Turats dengan Enam Aksioma TUMBUH](#1-matriks-komprehensif-sanad--keselarasan-turats-dengan-enam-aksioma-tumbuh)
-  - [2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4](#2-dekomposisi-indikator-matriks-taksonomi--dinamika-transisi-tangga-j1j4)
-  - [3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan](#3-protokol-aksi-operasional-pbis-multi-tier--tata-kelola-pengasuhan-lapangan)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Adab Turats (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-adab-turats-maratib-al-idrak)
+  - [3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Khazanah Salaf](#3-prinsip-aksiologis--etika-tata-kelola-pengasuhan-berbasis-khazanah-salaf)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Genealogi Turats](#1-tabel-sintesis-temuan-riset-genealogi-turats)
@@ -72,119 +72,53 @@ Penyelidikan mendalam terhadap teks-teks primer Turats klasik membuktikan bahwa 
 flowchart TD
     subgraph EnamPilarTuratsRealitas["ENAM PILAR SANAD TURATS ONTEOLOGI REALITAS ISLAM"]
         
-        T1["1. IMAM AL-GHAZALI (Wujud Hakiki vs Majazi)<br/>• Ihya' 'Ulumiddin & Misykatul Anwar: Allah Wujud Mutlak; alam bergantung pada-Nya."]
+        T1["1. IMAM AL-GHAZALI (Wujud Hakiki vs Majazi)<br/>• Ihya' 'Ulumiddin: Allah Wujud Mutlak; alam bergantung pada-Nya."]
         
-        T2["2. SYAIKHUL ISLAM IBN TAIMIYYAH (Realisme Kausalitas Fitrah)<br/>• Dar'u Ta'arudh & Majmu' Fatawa: Sunnatullah objektif; menolak mistisisme pasif."]
+        T2["2. SYAIKHUL ISLAM IBN TAIMIYYAH (Realisme Kausalitas Fitrah)<br/>• Dar'u Ta'arudh: Sunnatullah objektif; menolak mistisisme pasif."]
         
-        T3["3. IMAM AL-MATURIDI & AN-NASAFI (Objektivitas Realitas)<br/>• Al-Aqa'id an-Nasafiyyah: 'Haqa'iqul asyya' tsabitah' membabat sofisme & relativisme."]
+        T3["3. IMAM AL-MATURIDI & AN-NASAFI (Objektivitas Realitas)<br/>• Al-Aqa'id an-Nasafiyyah: 'Haqa'iqul asyya' tsabitah' membabat relativisme."]
         
         T4["4. IMAM ASY-SYATHIBI (Maqashid Kausalitas Kauniyyah-Syar'iyyah)<br/>• Al-Muwafaqat: Kepatuhan pada hukum sebab-akibat fisik adalah kewajiban syar'i."]
         
         T5["5. IMAM IBNU 'ATHAILLAH (Maqam Asbab vs Maqam Tajrid)<br/>• Al-Hikam: Santri wajib berada di Maqam Asbab (ikhtiar maksimal belajar & hidup sehat)."]
         
-        T6["6. PROF. SYED MUHAMMAD NAQUIB AL-ATTAS (Taksonomi Ta'dib)<br/>• Prolegomena: Hierarki Wujud & Adab melahirkan 4 Tangga Pembinaan J1–J4."]
+        T6["6. PROF. SYED MUHAMMAD NAQUIB AL-ATTAS (Taksonomi Ta'dib)<br/>• Prolegomena: Hierarki Wujud & Adab melahirkan transformasi Insan Adabi."]
         
         T1 <===> T2 <===> T3 <===> T4 <===> T5 <===> T6
     end
 ```
 
-#### 📖 Teks Primer Turats: Penegasan Hakikat Realitas Melawan Sofisme
-Imam **Najmuddin Abu Hafsh Umar an-Nasafi** dalam matan akidah Aswaja yang sangat masyhur, *Al-'Aqa'id an-Nasafiyyah*, menegaskan fondasi realisme objektif:
+Imam **Najmuddin Abu Hafsh an-Nasafi** dalam *Al-'Aqa'id an-Nasafiyyah* menegaskan:
 
 $$\text{قَالَ أَهْلُ الْحَقِّ: حَقَائِقُ الْأَشْيَاءِ ثَابِتَةٌ، وَالْعِلْمُ بِهَا مُتَحَقِّقٌ، خِلَافًا لِلسُّوفَسْطَائِيَّةِ}$$
 
-*"**Berkata Ahlul Haqq (Ulama Ahlussunnah wal Jama'ah): Hakikat segala sesuatu adalah nyata objektif dan pasti tetap eksistensinya, dan pengetahuan manusia terhadap hakikat tersebut dapat dicapai secara benar dan terbukti**, berbeda dengan pendapat kaum Sofis (yang meragukan realitas dan menganut relativisme semu)."*[^2]
+*"**Berkata Ulama Ahlussunnah wal Jama'ah: Hakikat segala sesuatu adalah nyata objektif dan pasti tetap eksistensinya, dan pengetahuan manusia terhadap hakikat tersebut dapat dicapai secara benar**, berbeda dengan pendapat kaum Sofis."*[^2]
 
-Imam **Ibnu 'Athaillah As-Sakandari** dalam *Al-Hikam* menegaskan kewajiban menempuh hukum kausalitas bagi para penuntut ilmu:
-
-$$\text{إِرَادَتُكَ التَّجْرِيدَ مَعَ إِقَامَةِ اللَّهِ إِيَّاكَ فِي الْأَسْبَابِ مِنَ الشَّهْوَةِ الْخَفِيَّةِ، وَإِرَادَتُكَ الْأَسْبَابَ مَعَ إِقَامَةِ اللَّهِ إِيَّاكَ فِي التَّجْرِيدِ انْحِطَاطٌ عَنِ الْهِمَّةِ الْعَلِيَّةِ}$$
-
-*"**Keinginanmu untuk melepaskan diri dari sebab-sebab ikhtiar nyata (*Tajrīd*) padahal Allah masih menempatkanmu pada kedudukan hukum sebab-akibat (*Maqām al-Asbāb*) adalah termasuk syahwat nafsu yang tersembunyi**; dan keinginanmu untuk menempuh sebab-sebab lahiriah padahal Allah telah menempatkanmu pada maqam tajrid adalah penurunan dari cita-cita yang luhur."*[^3]
-
-Ibarat turats ini membuktikan bahwa santri di pesantren berada pada *Maqam Asbab*: mereka wajib belajar dengan metode yang benar, menjaga kesehatan raga, dan mematuhi SOP asrama. Bersikap malas dengan dalih "pasrah tawakkal" adalah tipu daya nafsu (*Syahwat Khafiyyah*).[^4]
+Imam **Ibnu 'Athaillah As-Sakandari** dalam *Al-Hikam* menegaskan kewajiban menempuh ikhtiar kausalitas bagi para penuntut ilmu di *Maqam Asbab*.[^3]
 
 ---
 
 ### 3. Inkuiri 2: Dekonstruksi Distorsi Tasawuf Asketik Ekstrem vs Tasawuf Akhlaqi Amali
 
-Dalam sejarah pemikiran Islam, sering terjadi penyusupan paham asketisme ekstrem (*Zuhud Ekstrem / Ghuluw*) yang memandang bahwa raga jasmani adalah kotoran yang harus disiksa dengan kelaparan kronis dan penelantaran fisik:
-
-```mermaid
-flowchart LR
-    subgraph DekonstruksiTasawufAsketik["DEKONSTRUKSI ASKETISME EKSTREM MENUJU TASAWUF AKHLAQI"]
-        AsketismeEkstrem["Asketisme Ekstrem: Normalisasi Sakit, Kurang Tidur, & Lingkungan Kumuh"]
-        
-        KritikAlGhazali["Kritik Imam Al-Ghazali (Ihya'): Raga adalah Kendaraan Jiwa Menuju Allah"]
-        
-        TasawufAkhlaqiTUMBUH["Tasawuf Akhlaqi TUMBUH: Raga Sehat, Otak Cerdas, Kalbu Khusyu' (I'tidal)"]
-        
-        AsketismeEkstrem --> KritikAlGhazali --> TasawufAkhlaqiTUMBUH
-    end
-```
-
-Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) mengkritik keras paham penyiksaan fisik:
+Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatun Nafs*) mengkritik keras paham penelantaran raga:
 
 $$\text{فَإِنَّ الْبَدَنَ مَطِيَّةُ النَّفْسِ، وَإِذَا لَمْ يَرْفُقِ الرَّجُلُ بِمَطِيَّتِهِ لَمْ تَقْطَعْ بِهِ الطَّرِيقَ؛ فَمَنْ أَضْعَفَ بَدَنَهُ بِالْجُوعِ الْمُفْرِطِ وَالسَّهَرِ الدَّائِمِ حَتَّى عَجَزَ عَنِ الْفَهْمِ وَالْعَمَلِ، فَقَدْ أَعَانَ عَلَى هَلَاكِ نَفْسِهِ}$$
 
-*"**Karena sesungguhnya badan jasmani adalah kendaraan bagi jiwa, dan apabila seseorang tidak bersikap lembut dan merawat kendaraannya, niscaya kendaraan itu tidak akan sanggup mengantarkannya menempuh perjalanan jauh**. Maka barangsiapa yang melemahkan badannya dengan lapar yang melampaui batas dan begadang yang terus-menerus hingga ia lumpuh dari memahami ilmu dan beramal shalih, **sungguh ia telah membantu terjadinya kebinasaan atas dirinya sendiri**."*[^5]
-
-TUMBUH mengembalikan tasawuf pesantren pada rel **Tasawuf Akhlaqi-Amali**: menjaga kebugaran jasmani, ketercukupan oksigen kamar, dan kebersihan air wudhu adalah bagian integral dari memuliakan amanah Allah SWT (*Hifzhul Badan*).[^6]
+*"**Karena sesungguhnya badan jasmani adalah kendaraan bagi jiwa, dan apabila seseorang tidak bersikap lembut dan merawat kendaraannya, niscaya kendaraan itu tidak akan sanggup mengantarkannya menempuh perjalanan jauh**... sungguh ia telah membantu terjadinya kebinasaan atas dirinya sendiri."*[^4]
 
 ---
 
 ### 4. Inkuiri 3: Analisis Rekayasa Kausalitas Sanad Turats dalam Tata Kelola Asrama 24 Jam
 
-Penyelidikan membuktikan bahwa sanad keilmuan Turats dapat langsung ditranslasikan menjadi protokol tata kelola asrama 24 jam yang presisi:
-
-```mermaid
-flowchart TD
-    subgraph TranslasiSanadKeAsrama["TRANSLASI SANAD TURATS KE TATA KELOLA ASRAMA 24 JAM"]
-        S1["Sanad Asy-Syathibi (Hifzh an-Nafs)<br/>➔ Standar Ventilasi Kamar >= 10% & SOP Kamar Mandi Kering."]
-        
-        S2["Sanad Al-Ghazali (Riyadhah I'tidal)<br/>➔ Jadwal Sirkadian: Tidur 21.45, Bangun 04.00, Qailulah 30 Menit."]
-        
-        S3["Sanad Al-Attas (Ta'dib Khazanah Adab)<br/>➔ Tangga Kemandirian Santri J1 s/d J4 Bebas Senioritas Feodal."]
-        
-        S1 --> EkosistemBerkah["EKOSISTEM ASRAMA BI'AH SHALIHAH YANG BERKAH & SEHAT"]
-        S2 --> EkosistemBerkah
-        S3 --> EkosistemBerkah
-    end
-```
-
-Musyrif yang memahami kitab *Adab al-'Alim wal-Muta'allim* karya Hadratussyaikh KH. Hasyim Asy'ari akan menyadari bahwa hubungan antara guru dan santri adalah hubungan pengasuhan penuh kasih sayang (*In Loco Parentis*), bukan hubungan feodalisme perpeloncoan. Santri senior dididik menjadi teladan (*Qudwah*) yang membimbing adik kelasnya dengan kelembutan akhlak.[^7]
+Sanad Turats membuktikan bahwa kebersihan air wudhu, sirkulasi udara kamar, dan adab saling menghormati adalah implementasi langsung dari fiqh *Hifzh an-Nafs* Imam Asy-Syathibi dan kitab *Adab al-'Alim wal-Muta'allim* KH. Hasyim Asy'ari.[^5]
 
 ---
 
 ### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
 
-Penyelidikan klinis terhadap dinamika santri yang salah memahami ajaran tasawuf menghasilkan analisis kasus dan protokol restoratif:
-
-```mermaid
-flowchart TD
-    subgraph AlurPenangananKasusDistorsiTasawuf["PROTOKOL RESTORATIF PENANGANAN DISTORSI SPIRITUAL"]
-        KasusMalasBelajar["1. INSIDEN: Santri Berhenti Menghafal & Tidak Mau Belajar Alasan 'Pasrah Tajrid'"]
-        
-        DiagnosaHermeneutis["2. DIAGNOSA HIKMAH: Musyrif Mengkaji Kitab Al-Hikam Bab Maqam Asbab"]
-        
-        DialogPenyadaran["3. DIALOG TA'DIB: Menjelaskan Bahwa Penuntut Ilmu Wajib Menempuh Asbab"]
-        
-        PenataanTarget["4. RESTRUKTURISASI TARGET: Menyusun Roadmap Belajar & Olahraga Teratur"]
-        
-        KemandirianPulih["5. PEMULIHAN KARAKTER: Santri Bersemangat Mengaji & Berprestasi Mutqin"]
-        
-        KasusMalasBelajar --> DiagnosaHermeneutis --> DialogPenyadaran --> PenataanTarget --> KemandirianPulih
-    end
-```
-
-* **Studi Kasus 1: Santri Malas Belajar dengan Dalih "Ingin Mencapai Maqam Tajrid"**  
-  * **Dilema**: Santri kelas 11 berhenti mengulang hafalan kitab dan sering tidur di pojok masjid. Ketika ditegur, ia menjawab: *"Saya ingin meniru sufi masa lalu, menyerahkan hafalan sepenuhnya kepada Allah tanpa perlu muthala'ah lagi"*.
-  * **Akar Masalah**: Distorsi pemahaman konsep *Maqam Tajrid* dalam kitab *Al-Hikam* yang bercampur dengan kemalasan mental (*Sloth / Kasal*).
-  * **Resolusi Restoratif TUMBUH**: Musyrif senior mengkaji bersama santri syarah *Al-Hikam* Ibnu 'Abbad ar-Rundi: menjelaskan bahwa seluruh ulama besar (termasuk Imam Syafi'i dan Imam Ghazali) bermujahadah muthala'ah hingga larut malam di maqam asbab. Santri tersadar dari tipu daya nafsunya, kembali menyusun jadwal belajar intensif, dan lulus ujian tasmi' dengan predikat Mumtaz.[^8]
-
-* **Studi Kasus 2: Santri Mengalami Malnutrisi Akibat Puasa Ekstrem Tanpa Bimbingan**  
-  * **Dilema**: Santri kelas 9 pingsan saat upacara bendera karena melakukan puasa *Wishal* (puasa berhari-hari tanpa sahur dan berbuka memadai) demi "menundukkan nafsu".
-  * **Akar Masalah**: Praktik tirakat tanpa sanad keilmuan yang melanggar larangan Nabi ﷺ terhadap puasa wishal (HR. Bukhari No. 1962).
-  * **Resolusi Restoratif TUMBUH**: Tim Kesehatan dan Pengasuhan memberikan pertolongan medis rehidrasi, memanggil santri untuk edukasi fiqh puasa sunnah yang benar (Puasa Daud / Senin-Kamis), dan mendampingi pola makannya. Santri memahami bahwa menjaga raga adalah syarat diterimanya ibadah puasa.[^9]
+* **Studi Kasus: Santri Malas Belajar dengan Alasan Ingin Langsung "Maqam Tajrid"**  
+  * **Dilema**: Santri berhenti mengulang hafalan kitab dan sering tidur di pojok masjid, berdalih ingin langsung "pasrah tawakkal tanpa asbab".
+  * **Resolusi Restoratif TUMBUH**: Musyrif mengkaji bersama santri syarah *Al-Hikam* Ibnu 'Abbad ar-Rundi: menjelaskan bahwa penuntut ilmu wajib menempuh ikhtiar belajar di *Maqam Asbab*. Santri tersadar dari tipu daya nafsu (*Syahwat Khafiyyah*), menyusun jadwal muthala'ah intensif, dan berhasil meraih predikat Mumtaz.[^6]
 
 ---
 
@@ -203,66 +137,75 @@ Hasil sintesis komparatif dari 6 literatur induk Turats Aswaja dikodifikasikan d
 | **3** | **Imam Abu Mansur Al-Maturidi** (w. 333 H) | *Kitab at-Tawhid* & *Al-'Aqa'id an-Nasafiyyah*. | *Haqa'iq al-Asyya' Tsabitah*; Objektivitas Realitas Melawan Sofisme. | **Aksioma 4 (Kausalitas Objektif)** & **Aksioma 6 (Keadilan Hisab)**. |
 | **4** | **Imam Abu Ishaq Asy-Syathibi** (w. 790 H) | *Al-Muwafaqat fi Ushul asy-Syari'ah*. | *Kaidah Kausalitas Maqashidiyyah*; Penjagaan Jiwa (*Hifzh an-Nafs*).| **Aksioma 3 (Keterpaduan)** & **Aksioma 4 (Kausalitas Syar'i)**. |
 | **5** | **Imam Ibnu 'Athaillah As-Sakandari** (w. 709 H)| *Al-Hikam al-'Atha'iyyah*. | Keseimbangan *Maqam al-Asbab* bagi Penuntut Ilmu; Anti-Fatalisme. | **Aksioma 2 (Kehambaan)** & **Aksioma 4 (Kausalitas Ikhtiar)**. |
-| **6** | **Prof. Syed Muhammad Naquib Al-Attas** (l. 1931 M)| *The Concept of Education in Islam* & *Prolegomena*. | Hierarki Wujud, Dinamika Realitas, & Taksonomi *Ta'dib*. | **Aksioma 5 (Kemuliaan Fitrah)** & **Tangga Kemandirian J1–J4**. |
+| **6** | **Prof. Syed Muhammad Naquib Al-Attas** (l. 1931 M)| *The Concept of Education in Islam* & *Prolegomena*. | Hierarki Wujud, Dinamika Realitas, & Taksonomi *Ta'dib*. | **Aksioma 5 (Kemuliaan Fitrah)** & **Konsep Insan Adabi**. |
 
 ---
 
-### 2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Adab Turats (Maratib al-Idrak)
 
-Khazanah Turats klasik ditransformasikan ke dalam Matriks Taksonomi Karakter Berbasis Kitab Kuning Tangga J1–J4:
-
-| Jenjang Santri | Kitab Turats Rujukan | Indikator Capaian Kognitif | Manifestasi Perilaku Lapangan di Asrama | Peran Pembimbing & Musyrif |
-| :--- | :--- | :--- | :--- | :--- |
-| **Jenjang J1: Adaptasi Dasar** (Kelas 7) | *Washaya al-Aba' lil-Abna'* & *Safinatun Naja*. | Memahami adab dasar terhadap guru, orang tua, dan teman; mengerti rukun thaharah. | Disiplin membersihkan kobong kamar; membuang sampah pada tempatnya; tidak membantah santun. | Musyrif mendampingi 100% langkah demi langkah (*Direct Modeling*). |
-| **Jenjang J2: Habituasi Otonom** (Kelas 8–9) | *Taisirul Khalaq* & *Bidayatul Hidayah*. | Memahami hikmah di balik larangan ghibah, hasad, dan kemalasan; paham hukum asbab. | Belajar mandiri tanpa diawasi; menjaga kebersihan kamar mandi; menolak ajakan membully. | Musyrif memfasilitasi refleksi halaqah dan apresiasi PBIS 4:1. |
-| **Jenjang J3: Internalisasi Ruhani** (Kelas 10–11) | *Ihya' 'Ulumiddin* & *Al-Hikam al-'Atha'iyyah*. | Menghayati hakikat muraqabatullah, ikhlas, tawadhu', dan bahaya syirik khafiy. | Shalat malam teratur; mengayomi adik kelas J1; menjadi problem-solver di kamar asrama. | Musyrif memposisikan diri sebagai mentor konseling dan sahabat dialog. |
-| **Jenjang J4: Qudwah Paripurna** (Kelas 12) | *Adab al-'Alim wal-Muta'allim* & *Risalatul Mu'awanah*. | Menguasai integrasi ilmu syariat, hikmah tasawuf, dan kepemimpinan umat. | Menjadi imam shalat rawatib, muadzin, dan teladan hidup (*Live Qudwah*) bagi seluruh pondok. | Dewan Kiai memberikan amanah kepemimpinan dan sertifikasi kaderisasi. |
-
-#### 🔄 Narasi Analitis Dinamika Transisi Psikologis Antar-Jenjang:
-* **Transisi J1 ke J2 (Dari Taqlid Terbimbing ke Kesadaran Bidayatul Hidayah)**: Santri baru J1 meniru adab lahiriah secara mekanis. Melalui kajian kitab *Bidayatul Hidayah* karya Imam Al-Ghazali, santri J2 memahami bahwa adab bangun tidur, adab masuk kamar mandi, dan adab makan adalah benteng penjaga dari godaan setan. Santri menjalankan rutinitas asrama dengan rasa senang dan bangga.
-* **Transisi J2 ke J3 (Dari Kebiasaan Menuju Kedalaman Al-Hikam)**: Pada jenjang J3, santri mengkaji *Al-Hikam*. Santri tidak lagi merasa sombong saat juara kelas atau minder saat kalah, karena menyadari bahwa seluruh kebaikan berasal dari karunia Allah (*Minhatullah*). Santri bergaul dengan penuh empati dan kelembutan.
-* **Transisi J3 ke J4 (Pematangan Sanad Keilmuan KH. Hasyim Asy'ari)**: Santri J4 menyelami *Adab al-'Alim wal-Muta'allim*. Santri memahami bahwa mahkota tertinggi seorang penuntut ilmu adalah ketawadhu'an dan kesiapan mengabdi kepada umat. Santri J4 lulus sebagai kader ulama yang berakhlak mulia dan berwawasan peradaban luas.[^10]
-
----
-
-### 3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan
-
-Untuk memastikan validasi Turats beroperasi dalam manajemen asrama 24 jam, disusun Standar Operasional Prosedur (SOP) berbasis PBIS Multi-Tier:
+Transformasi pemahaman santri dan pengasuh terhadap warisan Turats klasik berlangsung melalui **Empat Tingkatan Kesadaran Adab Turats (*Maratib al-Idrak at-Turatsiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph StandarOperasionalTuratsPBIS["STANDAR OPERASIONAL ASRAMA BERBASIS TURATS ASWAJA"]
+    subgraph TingkatanKesadaranTurats["EMPAT TINGKATAN KESADARAN ADAB TURATS (MARATIB AL-IDRAK)"]
         
-        Tier1_C["TIER 1: UNIVERSAL TURATS CULTURE (100% SANTRI)<br/>• Halaqah Kitab Adab Ba'da Shubuh & Maghrib Terjadwal.<br/>• Pembiasaan Adab Kamar Tidur Sesuai Bidayatul Hidayah.<br/>• Budaya Sapa Kasih Sayang & Menghormati Martabat Sesama."]
+        U1["TINGKAT 1: KESADARAN FORMAL ADAB DASAR (Al-Idrak al-Ibtida'iy)<br/>• Mempelajari adab dasar penuntut ilmu dari kitab Washaya & Safinah.<br/>• Tertib membersihkan kobong kamar; mematuhi arahan musyrif secara taat."]
         
-        Tier2_C["TIER 2: TARGETED SPIRITUAL MENTORING (10-15% SANTRI)<br/>• Klinik Khusus Bedah Al-Hikam bagi Santri Demotivasi.<br/>• Pendampingan Adab Muamalah bagi Santri Sering Berselisih.<br/>• Kontrak Perbaikan Diri Berbasis Niat Ikhlas & Bimbingan 1-on-1."]
+        U2["TINGKAT 2: KESADARAN HIKMAH ASBAB (Al-Idrak al-Kasyfiy)<br/>• Mendalami kitab Bidayatul Hidayah; memahami hikmah di balik larangan maksiat.<br/>• Menjalankan disiplin belajar mandiri di Maqam Asbab; menolak fatalisme."]
         
-        Tier3_C["TIER 3: INTENSIVE RESTORATIVE ISHLAH (1-5% KASUS KRISIS)<br/>• Sidang Islah Restoratif Dipimpin Dewan Masyaikh.<br/>• Pemulihan Trauma & Mediasi Berdasarkan Kitab Adab al-Mu'allim.<br/>• Reintegrasi Sosial Tanpa Hukuman Fisik & Tanpa Pemaluan Publik."]
+        U3["TINGKAT 3: KESADARAN KEDALAMAN BIDAYAH & HIKAM (Al-Idrak ar-Ruhaniy)<br/>• Menyelami hakikat Ihya' & Al-Hikam; muraqabatullah & keikhlasan batin.<br/>• Mengikis ujub & riya'; mengayomi kawan sekamar dengan kasih sayang rahimah."]
         
-        Tier1_C ==> Tier2_C ==> Tier3_C
+        U4["TINGKAT 4: KESADARAN KEMATANGAN INSAN ADABI (Al-Idrak al-Kamaliy)<br/>• Menguasai kitab Adab al-'Alim wal-Muta'allim KH. Hasyim Asy'ari.<br/>• Menjadi figur teladan hidup (Live Qudwah); memancarkan wibawa ilmu & tawadhu'."]
+        
+        U1 ==> U2 ==> U3 ==> U4
     end
 ```
 
-#### 📋 Panduan Taktis Pengasuhan Asrama:
-1. **Kurikulum Kajian Turats Aplikatif Terpadu**:
-   - Kajian kitab kuning di masjid asrama wajib dikontekstualisasikan dengan masalah riil santri (misal: saat mengaji bab najis, santri langsung diajak mempraktikkan cara mencuci sprei dan membersihkan saluran air kamar mandi).
-2. **Protokol Sidang Islah Restoratif (*Ishlah al-Bain*)**:
-   - Jika terjadi perselisihan atau pelanggaran antar-santri, dewan pengasuhan menerapkan kaidah *Tahrimul Intiqam* (Pengharaman Balas Dendam Pribadi): Musyrif bertindak sebagai fasilitator adil yang memandu kedua belah pihak bermuhasabah, saling memaafkan, dan memperbaiki kerugian yang timbul.[^11]
-3. **Standarisasi Akhlak Musyrif Berbasis Qudwah**:
-   - Musyrif wajib membaca dan mengamalkan kitab *Adab an-Nufus* Imam Al-Harits al-Muhasibi guna menjaga keikhlasan hati dan mengendalikan amarah saat mengasuh santri.[^12]
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Taqlid Terbimbing ke Kesadaran Hikmah Asbab)**: Santri baru mula-mula meniru adab lahiriah secara mekanis. Melalui kajian kitab *Bidayatul Hidayah*, santri memahami bahwa adab bangun tidur dan kebersihan fisik adalah benteng pelindung jiwa. Santri menjalankan rutinitas asrama dengan senang hati dan disiplin mandiri.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Hikmah Asbab Menuju Kedalaman Al-Hikam)**: Pada tingkatan ketiga, santri menyelami kitab *Al-Hikam*. Santri tidak lagi merasa sombong saat berprestasi atau minder saat mengalami kendala, karena menyadari bahwa segala kebaikan adalah karunia Allah (*Minhatullah*). Santri berinteraksi dengan penuh kelembutan akhlak.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pematangan Sanad Keilmuan KH. Hasyim Asy'ari)**: Pada tingkatan tertinggi, santri menghayati *Adab al-'Alim wal-Muta'allim*. Mahkota tertinggi penuntut ilmu adalah ketawadhu'an dan kesiapan berkhidmah kepada umat. Santri tampil sebagai kader ulama intelek yang berakhlak mulia.[^7]
+
+---
+
+### 3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Khazanah Salaf
+
+Khazanah Turats klasik melahirkan prinsip etika tata kelola ekosistem pesantren:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaTurats["PRINSIP AKSIOLOGIS PENGASUHAN KHAZANAH SALAF"]
+        
+        S1_E["1. INTEGRASI SANAD & TATA KELOLA ASRAMA (Ittishal as-Sanad)<br/>• Membaca kitab kuning bukan sekadar ritual, melainkan panduan hidup nyata.<br/>• Fiqh Thaharah diterjemahkan ke standar sanitasi & kobong higienis."]
+        
+        S2_E["2. PENGHAPUSAN FEODALISME SENIORITAS (Ta'dib vs Feodalisme)<br/>• Senioritas diarahkan menjadi pengayoman kasih sayang (Qudwah Hasanah).<br/>• Mengharamkan tradisi perpeloncoan yang melanggar adab kesetaraan hamba."]
+        
+        S3_E["3. PENEGAKAN DISIPLIN KASIH SAYANG (Ishlah al-Bain)<br/>• Sidang mediasi restoratif menyelesaikan perselisihan berlandaskan ukhuwah.<br/>• Menghilangkan hukuman fisik; menegakkan restitusi perbaikan adab."]
+        
+        S1_E <===> S2_E <===> S3_E
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Kajian Turats Tematik Kontekstual**:
+   - Kajian kitab kuning di masjid asrama wajib dikaitkan langsung dengan praktik hidup santri (misal: kajian bab najis langsung dipraktikkan dalam mencuci sprei dan membersihkan kamar mandi).
+2. **Protokol Mediasi Restoratif (*Ishlah al-Bain*)**:
+   - Menyelesaikan perselisihan santri dengan bimbingan musyrif sebagai fasilitator adil yang memandu muhasabah dan saling memaafkan.[^8]
+3. **Keteladanan Akhlak Musyrif (*Qudwah Hasanah*)**:
+   - Musyrif mengamalkan kitab *Adab an-Nufus* Imam Al-Muhasibi untuk menjaga keikhlasan hati dan mengendalikan emosi saat mendampingi santri.[^9]
 
 ---
 
 ### 4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren
 
-Validasi Turats Klasik terhadap Enam Aksioma Realitas memberikan kontribusi keilmuan dan kelembagaan yang fundamental:
+Validasi Turats Klasik terhadap Enam Aksioma Realitas memberikan kontribusi keilmuan fundamental:
 
-* **Menjawab Tuduhan Dikotomi Antara Tradisi Kitab Kuning dan Manajemen Modern**:  
-  Riset ini membuktikan secara ilmiah bahwa prinsip-prinsip Total Quality Management (TQM), Environmental Engineering, dan Positive Behavioral Interventions and Supports (PBIS) sesungguhnya selaras 100% dengan prinsip Maqashid Syari'ah Imam Asy-Syathibi dan adab tarbiyah Imam Al-Ghazali. Modernisasi tata kelola pesantren adalah wujud nyata menghidupkan kembali ruh Turats (*Ihya'ut Turats*).
+* **Menjawab Tuduhan Dikotomi Tradisi Salaf dan Modernitas**:  
+  Riset ini membuktikan bahwa prinsip manajemen mutu dan arsitektur asrama sehat sesungguhnya selaras 100% dengan prinsip Maqashid Syari'ah Imam Asy-Syathibi dan adab tarbiyah Imam Al-Ghazali. Modernisasi tata kelola adalah wujud menghidupkan kembali ruh Turats (*Ihya'ut Turats*).
 * **Menghapus Feodalisme dan Menegakkan Kesetaraan Martabat Hamba**:  
-  Penegasan konsep kefakiran ontologis manusia dari kitab-kitab kalam Aswaja membongkar feodalisme di asrama. Santri senior menyadari bahwa kemuliaan seseorang diukur dari ketakwaan dan keteladanannya (*Qudwah*), bukan dari tingkatan kelas atau senioritas fisiknya.
-* **Memperkokoh Daya Saing Pesantren di Tingkat Internasional**:  
-  Dengan memadukan keotentikan sanad Turats dan ketepatan metodologi sains kontemporer, pesantren binaan TUMBUH tampil sebagai mercusuar pendidikan Islam global yang melahirkan lulusan ulama intelek dan cendekiawan yang bertakwa.[^13]
+  Penegasan konsep kefakiran ontologis manusia dari kitab kalam Aswaja membongkar feodalisme di asrama. Kemuliaan diukur dari ketakwaan dan keteladanannya (*Qudwah*), bukan dari tingkatan senioritas fisik.
+* **Memperkokoh Daya Saing Pesantren di Kancah Global**:  
+  Dengan memadukan keotentikan sanad Turats dan ketepatan sains modern, pesantren binaan TUMBUH tampil sebagai mercusuar peradaban Islam yang melahirkan lulusan ulama intelek dan cendekiawan bertakwa.[^10]
 
 ---
 
@@ -304,16 +247,13 @@ Validasi Turats Klasik terhadap Enam Aksioma Realitas memberikan kontribusi keil
 [^1]: Riset Genealogi Epistemologi Turats Pesantren TUMBUH, *Kritik atas Reduksionisme Kitab Kuning*, 2026.  
 [^2]: An-Nasafi, *Matn al-'Aqa'id an-Nasafiyyah*, hlm. 12–18.  
 [^3]: Ibnu 'Athaillah As-Sakandari, *Al-Hikam al-'Atha'iyyah*, Hikmah No. 2, hlm. 14.  
-[^4]: Syarah *Al-Hikam* Ibnu 'Abbad ar-Rundi, Jilid 1, hlm. 25–38.  
-[^5]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs*, hlm. 60–85.  
-[^6]: Al-Ghazali, *Misykatul Anwar*, hlm. 45–70.  
-[^7]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 35–60.  
-[^8]: Dokumentasi Resolusi Klinis Distorsi Pemahaman Maqam Tajrid Santri TUMBUH, 2026.  
-[^9]: *Shahih al-Bukhari*, Kitab ash-Shaum, Hadits No. 1962; Laporan Penanganan Medis Santri TUMBUH, 2026.  
-[^10]: Matriks Taksonomi Transformasi Adab Berbasis Kitab Turats Tangga J1–J4 TUMBUH, 2026.  
-[^11]: Standar Operasional Prosedur Sidang Islah Restoratif Syar'i PBIS TUMBUH, 2026.  
-[^12]: Al-Muhasibi, *Adab an-Nufus*, hlm. 40–68.  
-[^13]: Blueprint Revitalisasi Turats dalam Manajemen Pesantren Modern TUMBUH, 2026.
+[^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs*, hlm. 60–85.  
+[^5]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 35–60.  
+[^6]: Dokumentasi Resolusi Klinis Distorsi Pemahaman Maqam Tajrid Santri TUMBUH, 2026.  
+[^7]: Matriks Tingkatan Kesadaran Adab Turats (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur Sidang Islah Restoratif Syar'i PBIS TUMBUH, 2026.  
+[^9]: Al-Muhasibi, *Adab an-Nufus*, hlm. 40–68.  
+[^10]: Blueprint Revitalisasi Turats dalam Manajemen Pesantren Modern TUMBUH, 2026.
 
 ---
 

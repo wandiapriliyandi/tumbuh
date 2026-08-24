@@ -15,7 +15,7 @@
 > * **Inovasi Konseptual: Enam Aksioma Metafisik Realitas TUMBUH:**  
 >   TUMBUH merumuskan enam aksioma ontologis yang bersifat swa-bukti (*self-evident / badihiyyat*): **1. Aksioma Ketuhanan (Tauhid Eksistensi); 2. Aksioma Kehambaan (Kefakiran Ontologis); 3. Aksioma Keterpaduan Realitas (Integrasi Mulk & Malakut); 4. Aksioma Kausalitas Pasti (Kepastian Sunnatullah); 5. Aksioma Kemuliaan Fitrah (Karamah Insaniyyah); 6. Aksioma Keadilan Hisab (Moral Accountability)**.
 > * **Formulasi Operasional & Pembuktian Lapangan:**  
->   Monograf ini menguraikan dekomposisi komprehensif 6 aksioma, matriks taksonomi progresi resiliensi Tangga J1–J4, protokol restrukturisasi kognitif PBIS Tier 2 bagi santri yang putus asa, serta kebijakan eliminasi pelabelan negatif (*Zero-Stigmatization Policy*) di asrama.
+>   Monograf ini menguraikan dekomposisi komprehensif 6 aksioma, 4 Tingkatan Kesadaran Aksiomatis (*Maratib al-Idrak*), prinsip restrukturisasi kognitif bagi santri yang putus asa, serta etika tata kelola bebas pelabelan negatif (*Zero-Stigmatization*).
 
 ---
 
@@ -29,8 +29,8 @@
   - [5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif](#5-inkuiri-4-kasuistika-lapangan-klinis--protokol-resolusi-restoratif)
 - [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-mendalam)
   - [1. Eksplanasi Komprehensif Enam Aksioma Metafisik Realitas TUMBUH](#1-eksplanasi-komprehensif-enam-aksioma-metafisik-realitas-tumbuh)
-  - [2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4](#2-dekomposisi-indikator-matriks-taksonomi--dinamika-transisi-tangga-j1j4)
-  - [3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan](#3-protokol-aksi-operasional-pbis-multi-tier--tata-kelola-pengasuhan-lapangan)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Aksiomatis (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-aksiomatis-maratib-al-idrak)
+  - [3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Aksioma](#3-prinsip-aksiologis--etika-tata-kelola-pengasuhan-berbasis-aksioma)
   - [4. Diskusi Ilmiah Mendalam & Implikasi Kebijakan Kelembagaan Pesantren](#4-diskusi-ilmiah-mendalam--implikasi-kebijakan-kelembagaan-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Temuan Riset Enam Aksioma Realitas](#1-tabel-sintesis-temuan-riset-enam-aksioma-realitas)
@@ -78,8 +78,6 @@ $$\text{إِنَّ الْعُلُومَ النَّظَرِيَّةَ لَا بُ
 
 *"**Sesungguhnya seluruh ilmu teoretis niscaya harus bermuara pada ilmu-ilmu primer yang bersifat dharuri dan badihi (aksiomatis)**; sebab jika setiap pengetahuan membutuhkan pembuktian teoritis lain tanpa henti, niscaya akan terjadi rantai kemunduran tak berujung (*Tasalsul*) atau lingkaran setan (*Daur*), dan keduanya adalah mustahil menurut kesepakatan orang-orang berakal. **Maka prinsip-prinsip dasar akal inilah fondasi utama tempat terbangunnya seluruh pemahaman terhadap hakikat realitas**."*[^3]
 
-Prinsip ini menegaskan bahwa keimanan santri tidak boleh dibiarkan mengapung dalam ketidakpastian. Aksioma bahwa *Allah Maha Ada, bahwa alam ini tertata dengan hukum sebab-akibat, dan bahwa tidak ada penciptaan yang sia-sia* adalah titik tolak nalar mutlak yang membimbing santri dalam membedah seluruh persoalan hidup.[^4]
-
 ---
 
 ### 3. Inkuiri 2: Konvergensi Aksioma Teistik, Neurosains Kognitif, & Teori Resiliensi
@@ -99,38 +97,23 @@ flowchart LR
     end
 ```
 
-Ketika seorang santri memiliki keyakinan aksiomatis bahwa *"Usaha belajar yang sungguh-sungguh pasti berbuah hasil sesuai Sunnatullah"* dan bahwa *"Allah tidak pernah menyia-nyiakan amal kebajikan"*, otak santri mengaktifkan *Internal Locus of Control*. 
-
-Riset **Prof. Bruce S. McEwen** (2007) mengenai beban alostatik (*Allostatic Load*) menunjukkan bahwa kepastian kognitif terhadap struktur keteraturan dunia mampu menekan pelepasan hormon kortisol saat individu menghadapi situasi krisis.[^5] Sebaliknya, santri yang hidup dalam ketidakpastian aksiomatis mudah jatuh ke dalam sindrom **Ketidakberdayaan yang Dipelajari (*Learned Helplessness*)** sebagaimana dirumuskan oleh Martin Seligman (1975): santri berhenti berusaha karena merasa usahanya tidak memiliki hubungan kausalitas dengan hasil.[^6]
+Riset **Prof. Bruce S. McEwen** (2007) mengenai beban alostatik (*Allostatic Load*) menunjukkan bahwa kepastian kognitif terhadap struktur keteraturan dunia mampu menekan pelepasan hormon kortisol saat individu menghadapi krisis.[^4] Sebaliknya, santri yang hidup dalam ketidakpastian aksiomatis mudah jatuh ke dalam sindrom **Ketidakberdayaan yang Dipelajari (*Learned Helplessness*)** sebagaimana dirumuskan oleh Martin Seligman (1975).[^5]
 
 ---
 
 ### 4. Inkuiri 3: Rekayasa Kausalitas Ganda: Harmonisasi Sunnatullah Kauniyyah wa Syar'iyyah
 
 Ekosistem TUMBUH membedah kausalitas semesta ke dalam dua dimensi sunnatullah yang saling berkelindan:
-* **Sunnatullah Kauniyyah (Hukum Fisika, Biologi, & Psikososial)**: Jika santri mengulang hafalan (*Muthala'ah*) 10 kali, jalur sinaptik di otak menguat; jika kamar berventilasi baik, oksigenasi otak optimal; jika santri kurang tidur, konsentrasi belajar anjlok.
-* **Sunnatullah Syar'iyyah (Hukum Moral, Syariat, & Pertolongan Ilahi)**: Jika santri berbakti kepada orang tua dan guru, Allah membuka pintu kemudahan; jika santri menjaga pandangan dan wudhu, Allah menurunkan cahaya hikmah (*Nurul Hikmah*); jika santri berbuat zalim, keberkahan hidupnya dicabut.
+* **Sunnatullah Kauniyyah (Hukum Fisika, Biologi, & Psikososial)**: Ikhtiar mengulang hafalan, kecukupan oksigenasi kamar, dan manajemen tidur sirkadian.
+* **Sunnatullah Syar'iyyah (Hukum Moral, Syariat, & Pertolongan Ilahi)**: Keikhlasan niat, shalat tepat waktu, bakti kepada guru, dan doa fajar.
 
-```mermaid
-flowchart TD
-    subgraph HarmonisasiKausalitasGanda["HARMONISASI DUA DIMENSI SUNNATULLAH DI ASRAMA"]
-        Kauniyyah["SUNNATULLAH KAUNIYYAH (HUKUM ALAM)<br/>• Belajar Terstruktur (Spaced Repetition).<br/>• Tidur Cukup 6-7 Jam & Nutrisi Otak Sehat.<br/>• Olahraga & Kebersihan Fisik Asrama."]
-        
-        SinergiTUMBUH["INTEGRASI AMALIAH PARIPURNA (TUMBUH)<br/>Ikhtiar Fisik Maksimal + Kepasrahan Doa Batin"]
-        
-        Syariyyah["SUNNATULLAH SYAR'IYYAH (HUKUM WAHYU)<br/>• Ikhlas Niat & Shalat Tepat Waktu Saf Awal.<br/>• Adab Tawadhu' kepada Guru & Birrul Walidain.<br/>• Zikir Muraqabah & Doa Munajat Fajar."]
-        
-        Kauniyyah <===> SinergiTUMBUH <===> Syariyyah
-    end
-```
-
-Santri yang hanya mengandalkan doa tanpa belajar sejatinya sedang melanggar *Sunnatullah Kauniyyah*; sebaliknya, santri yang hanya mengandalkan kepintaran akal tanpa bersandar kepada Allah sedang melanggar *Sunnatullah Syar'iyyah*. Realitas menuntut penyatuan keduanya secara utuh.[^7]
+Santri yang hanya mengandalkan doa tanpa belajar melanggar *Sunnatullah Kauniyyah*; sebaliknya, santri yang hanya mengandalkan kecerdasan akal tanpa bersandar kepada Allah melanggar *Sunnatullah Syar'iyyah*. Realitas menuntut penyatuan keduanya secara utuh.[^6]
 
 ---
 
 ### 5. Inkuiri 4: Kasuistika Lapangan Klinis & Protokol Resolusi Restoratif
 
-Penyelidikan klinis terhadap kasus-kasus keputusasaan santri di lingkungan pesantren menghasilkan protokol intervensi berbasis aksioma:
+Penyelidikan klinis terhadap kasus-kasus keputusasaan santri menghasilkan protokol intervensi berbasis aksioma:
 
 ```mermaid
 flowchart TD
@@ -150,14 +133,8 @@ flowchart TD
 ```
 
 * **Studi Kasus 1: Santri Mengalami Krisis Putus Asa Pasca-Kegagalan Tasmi'**  
-  * **Dilema**: Santri kelas 8 mengurung diri di kamar mandi, menangis, dan menolak makan setelah gagal dalam ujian tasmi' Al-Qur'an 5 Juz. Santri berkata: *"Allah membenci saya, saya memang anak bodoh yang tidak ditakdirkan bisa hafal Qur'an"*.
-  * **Akar Masalah**: Distorsi kognitif akibat tidak memahami *Aksioma Kausalitas Pasti* dan *Aksioma Kemuliaan Fitrah*; santri menyamakan kegagalan proses dengan vonis takdir permanen.
-  * **Resolusi Restoratif TUMBUH**: Konselor BK menerapkan teknik *Cognitive Reframing*: mengurai jadwal belajar santri yang ternyata sering begadang hingga jam 01.00 malam sehingga otaknya kelelahan. Konselor menata ulang pola tidur santri (tidur jam 21.45, bangun jam 04.00) dan membagi target hafalan ke dalam unit-unit kecil. Dalam ujian ulang 1 bulan kemudian, santri lulus dengan nilai mutqin dan memiliki kepercayaan diri yang tangguh.[^8]
-
-* **Studi Kasus 2: Pelabelan Santri "Biang Onar" oleh Pengurus Asrama**  
-  * **Dilema**: Seorang santri yang sering membuat gaduh di kamar dicap oleh musyrif sebagai "anak rusak yang tidak ada harapan" dan diancam akan dikeluarkan.
-  * **Akar Masalah**: Pelanggaran terhadap *Aksioma Kemuliaan Fitrah* (meyakini secara keliru bahwa ada manusia yang diciptakan tanpa potensi kebaikan).
-  * **Resolusi Restoratif TUMBUH**: Kepala Pengasuhan menegur musyrif dan menegakkan kebijakan *Zero-Stigmatization*. Santri diajak dialog privat, ditemukan bahwa ia memiliki kelebihan energi motorik dan bakat kepemimpinan. Santri tersebut diangkat menjadi Ketua Tim Olahraga Asrama. Perilaku gaduhnya berubah menjadi energi positif yang menggerakkan kedisiplinan teman-temannya.[^9]
+  * **Dilema**: Santri mengurung diri dan menangis setelah gagal dalam ujian tasmi' Al-Qur'an 5 Juz, menganggap dirinya "dikutuk bodoh permanen".
+  * **Resolusi Restoratif TUMBUH**: Konselor menerapkan teknik *Cognitive Reframing*: mengurai jadwal belajar santri yang ternyata sering begadang hingga larut malam. Konselor menata ulang pola tidur biologis dan membagi target hafalan ke unit-unit terukur. Santri lulus pada ujian ulang dengan predikat mutqin dan memiliki ketahanan mental yang kokoh.[^7]
 
 ---
 
@@ -167,7 +144,7 @@ flowchart TD
 
 ### 1. Eksplanasi Komprehensif Enam Aksioma Metafisik Realitas TUMBUH
 
-Ekosistem TUMBUH mengkodifikasikan **Enam Aksioma Metafisik Realitas** sebagai pilar ontologis yang mengikat seluruh kurikulum dan pola asuh:
+Ekosistem TUMBUH mengkodifikasikan **Enam Aksioma Metafisik Realitas** sebagai pilar ontologis:
 
 ```mermaid
 flowchart TD
@@ -190,66 +167,67 @@ flowchart TD
 ```
 
 #### 🔬 Pembahasan Mendalam Enam Aksioma Metafisik:
-
-1. **Aksioma 1: Aksioma Ketuhanan (*The Axiom of Divine Primacy*)**  
-   *Allah SWT adalah Wujud Mutlak yang Menjadi Sebab Pertama dan Tujuan Akhir Segala Sesuatu*. Di pesantren, seluruh aktivitas belajar, mengaji, dan membersihkan kamar tidak boleh bergeser menjadi ajang mencari pujian manusia (*Riya'*), melainkan murni diniatkan untuk beribadah dan meraih ridha Allah semata.[^10]
-2. **Aksioma 2: Aksioma Kehambaan (*The Axiom of Ontological Dependence*)**  
-   *Manusia secara hakiki adalah faqir (mutlak membutuhkan Allah) dan serba terbatas*. Kesadaran ini mematikan kesombongan intelektual pada santri berprestasi dan mematikan feodalisme senioritas: tidak ada santri yang berhak menindas sesamanya karena di hadapan Allah seluruh manusia berstatus hamba yang setara.[^11]
-3. **Aksioma 3: Aksioma Keterpaduan Realitas (*The Axiom of Reality Integration*)**  
-   *Alam fisik kasat mata ('Alam Mulk) dan alam metafisik transendental ('Alam Malakut) adalah satu kesatuan utuh*. Kebersihan kobong kamar tidur, sanitasi kamar mandi, dan kesehatan raga santri memiliki resonansi langsung terhadap ketenangan kalbu dan catatan hisab malaikat.
-4. **Aksioma 4: Aksioma Kausalitas Pasti (*The Axiom of Invariable Causality*)**  
-   *Hukum sebab-akibat (Sunnatullah) bekerja secara konstan dan objektif*. Keberhasilan menuntut ikhtiar metodologis yang benar; kegagalan adalah indikator adanya hukum kausalitas yang belum terpenuhi, bukan alasan untuk bersikap fatalistik.[^12]
-5. **Aksioma 5: Aksioma Kemuliaan Fitrah (*The Axiom of Inherent Dignity*)**  
-   *Setiap anak manusia terlahir membawa fitrah kesucian dan potensi kemuliaan (Karamah Insaniyyah)*. Tidak ada santri yang diciptakan sebagai "produk gagal" atau "anak rusak". Setiap penyimpangan perilaku adalah anomali pengasuhan yang dapat dipulihkan melalui ta'dib dan kasih sayang.[^13]
-6. **Aksioma 6: Aksioma Keadilan Hisab (*The Axiom of Moral Accountability*)**  
-   *Setiap amal perbuatan manusia, sekecil debu sekalipun, pasti memiliki konsekuensi balasan yang adil*. Penegakan disiplin di pesantren tidak boleh tebang pilih atau berdasar pada relasi kedekatan; keadilan ditegakkan secara transparan dan mendidik.[^14]
+1. **Aksioma 1: Aksioma Ketuhanan (*The Axiom of Divine Primacy*)**: Allah SWT adalah Wujud Mutlak. Seluruh aktivitas belajar dan mengaji murni diniatkan untuk meraih ridha Allah semata, membersihkan kalbu dari riya'.[^8]
+2. **Aksioma 2: Aksioma Kehambaan (*The Axiom of Ontological Dependence*)**: Manusia secara hakiki adalah faqir di hadapan Allah. Kesadaran ini mematikan kesombongan intelektual dan menghapus feodalisme senioritas di asrama.[^9]
+3. **Aksioma 3: Aksioma Keterpaduan Realitas (*The Axiom of Reality Integration*)**: Alam fisik (*'Alam Mulk*) dan metafisik (*'Alam Malakut*) menyatu. Kebersihan kamar asrama beresonansi langsung dengan hisab malaikat dan turunnya rahmat.
+4. **Aksioma 4: Aksioma Kausalitas Pasti (*The Axiom of Invariable Causality*)**: Hukum sebab-akibat (*Sunnatullah*) bekerja objektif. Keberhasilan menuntut ikhtiar metode yang tepat; kegagalan menuntut evaluasi strategi, bukan ratapan fatalistik.[^10]
+5. **Aksioma 5: Aksioma Kemuliaan Fitrah (*The Axiom of Inherent Dignity*)**: Setiap anak manusia membawa fitrah kesucian (*Karamah Insaniyyah*). Tidak ada santri yang diciptakan gagal. Penyimpangan adab adalah anomali yang dapat dipulihkan.[^11]
+6. **Aksioma 6: Aksioma Keadilan Hisab (*The Axiom of Moral Accountability*)**: Setiap amal perbuatan memiliki konsekuensi balasan yang adil. Disiplin ditegakkan secara adil, transparan, dan mendidik tanpa tebang pilih.[^12]
 
 ---
 
-### 2. Dekomposisi Indikator, Matriks Taksonomi, & Dinamika Transisi Tangga J1–J4
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Aksiomatis (Maratib al-Idrak)
 
-Penerapan enam aksioma ini dipetakan secara terukur ke dalam Matriks Taksonomi Resiliensi Santri Tangga J1–J4:
-
-| Dimensi Aksiomatis | Jenjang J1: Adaptasi Dasar (Kelas 7 / Usia 12–13) | Jenjang J2: Habituasi Otonom (Kelas 8–9 / Usia 13–15) | Jenjang J3: Internalisasi (Kelas 10–11 / Usia 15–17) | Jenjang J4: Qudwah Paripurna (Kelas 12 / Usia 17–18) |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Tauhid & Keikhlasan Niat** | Belajar mengikhlaskan niat mondok karena Allah, bukan karena paksaan orang tua. | Melaksanakan ibadah dan belajar tanpa menunggu pujian musyrif atau teman. | Menjaga konsistensi amal saat sendirian; membentengi hati dari riya' dan ujub. | Menjadi figur panutan yang ikhlas (*Mukhlis*); membimbing adik kelas memurnikan niat. |
-| **2. Resiliensi & Kausalitas** | Tidak menyalahkan takdir saat nilai turun; bersedia dievaluasi cara belajarnya. | Menganalisis penyebab kegagalan dan menyusun strategi perbaikan mandiri. | Memiliki ketangguhan mental (*Grit*) menghadapi ujian berat; teguh bermujahadah. | Membimbing rekan sebaya yang putus asa; menjadi motivator kebangkitan moral. |
-| **3. Penghormatan Fitrah Martabat** | Mampu menghargai perbedaan latar belakang teman sekamar; bebas ejekan fisik. | Menolak segala bentuk perundungan senioritas; membela teman yang dizalimi. | Mengayomi adik kelas dengan kelembutan kasih sayang (*Bi'ah Rahimah*). | Menggerakkan budaya pesantren yang memuliakan martabat manusia (*Anti-Bullying Leader*). |
-| **4. Akuntabilitas Moral Hisab** | Mengakui kesalahan dengan jujur tanpa mencari kambing hitam saat melanggar. | Bersedia menanggung konsekuensi logis restitusi perbaikan atas kesalahannya. | Memiliki kontrol diri internal (*Self-Restraint*) berlandaskan muraqabatullah. | Menegakkan keadilan organisasi santri secara amanah, objektif, dan transparan. |
-
-#### 🔄 Narasi Analitis Dinamika Transisi Psikologis Antar-Jenjang:
-* **Transisi J1 ke J2 (Deklaratif Menuju Habituasi Logis)**: Santri baru J1 menghafal dan memahami 6 aksioma secara konseptual. Pada transisi ke J2, aksioma tersebut menjelma menjadi kebiasaan berpikir otomatis (*Cognitive Schema*): saat santri mendapatkan nilai 60, otaknya tidak lagi meratap, melainkan langsung mengecek: *"Berapa jam saya belajar pekan lalu? Apakah saya sudah cukup tidur?"* (Aktivasi Aksioma Kausalitas).
-* **Transisi J2 ke J3 (Habituasi Menuju Penghayatan Ruhani yang Mendalam)**: Pada jenjang J3, aksioma berakar ke dalam struktur kalbu. Santri memandang teman sekamarnya bukan sebagai saingan, melainkan sebagai sesama hamba Allah yang mulia (Aksioma Fitrah). Santri mampu menahan amarah dan mengulurkan bantuan tanpa pamrih.
-* **Transisi J3 ke J4 (Kepemimpinan Berbasis Teladan Aksiomatis)**: Santri J4 memancarkan kematangan kepribadian utuh: mereka tidak gentar menghadapi masa depan di luar pondok karena meyakini sepenuhnya bahwa Allah adalah Penjamin Rezeki dan bahwa hukum sebab-akibat syariat akan menuntun langkah mereka menuju kesuksesan dunia-akhirat.[^15]
-
----
-
-### 3. Protokol Aksi Operasional PBIS Multi-Tier & Tata Kelola Pengasuhan Lapangan
-
-Untuk mengoperasionalkan enam aksioma dalam tata kelola harian pesantren, ditetapkan Standar Operasional PBIS Multi-Tier:
+Transformasi penghayatan terhadap enam aksioma metafisik berlangsung melalui **Empat Tingkatan Kesadaran Aksiomatis (*Maratib al-Idrak al-Aksiyumiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph ProtokolOperasionalAksiomaPBIS["PROTOKOL AKSI OPERASIONAL AKSIOMATIS PBIS MULTI-TIER"]
+    subgraph TingkatanKesadaranAksioma["EMPAT TINGKATAN KESADARAN AKSIOMATIS (MARATIB AL-IDRAK)"]
         
-        Tier1_A["TIER 1: UNIVERSAL SCHOOL-WIDE CULTURE<br/>• Morning Briefing 5 Menit: Refleksi 1 Aksioma Harian Sebelum KBM.<br/>• Kebijakan Zero-Stigmatization: Larangan Melabeli Santri 'Bodoh/Nakal'.<br/>• Lingkungan Fisik Terstandarisasi: Sirkulasi Udara & Sanitasi Berkah."]
+        K1["TINGKAT 1: KESADARAN DEKLARATIF INDRAWI (Al-Idrak al-Lafzhiy)<br/>• Mengetahui teks 6 aksioma secara teoritis.<br/>• Patuh pada tata tertib lahiriah & menjaga kebersihan fisik asrama."]
         
-        Tier2_A["TIER 2: TARGETED COGNITIVE REFRAMING<br/>• Konseling Sebaya bagi Santri yang Mengalami Sindrom Putus Asa.<br/>• Modul 'Belajar Cerdas Berbasis Kausalitas' bagi Santri Remedial.<br/>• Kontrak Perbaikan Diri Berbasis Solusi Logis & Pendampingan."]
+        K2["TINGKAT 2: KESADARAN KAUSALITAS LOGIS (Al-Idrak al-Manthiqiy)<br/>• Memahami kaitan sebab-akibat antara ikhtiar belajar, kesehatan raga, & prestasi.<br/>• Menolak fatalisme; aktif mengevaluasi strategi belajar & pola istirahat."]
         
-        Tier3_A["TIER 3: INTENSIVE SPIRITUAL-PSYCHOLOGICAL RECOVERY<br/>• Pendampingan Klinis 1-on-1 bagi Santri Krisis Eksistensial / Depresi.<br/>• Mediasi Restoratif Tingkat Tinggi Melibatkan Wali & Dewan Kiai.<br/>• Pemulihan Trauma & Reintegrasi Sosial Penuh Kasih."]
+        K3["TINGKAT 3: KESADARAN INTEGRITAS RUHANI (Al-Idrak al-Qalbiy)<br/>• Menginternalisasi Aksioma Fitrah & Hisab ke dalam pengawasan batin (Muraqabah).<br/>• Menghargai martabat sesama kawan; jujur tanpa perlu diawasi musyrif."]
         
-        Tier1_A ==> Tier2_A ==> Tier3_A
+        K4["TINGKAT 4: KESADARAN KEPEMIMPINAN AKSIOMATIS (Al-Idrak al-Kulliy)<br/>• Memancarkan keteladanan aksiomatis (Qudwah Hasanah) di seluruh lini kehidupan.<br/>• Membimbing sesama keluar dari keputusasaan & memimpin budaya pesantren damai."]
+        
+        K1 ==> K2 ==> K3 ==> K4
     end
 ```
 
-#### 📋 Panduan Taktis Pengasuhan Asrama:
-1. **Penerapan Kebijakan Nol Stigmatisasi (*Zero-Stigmatization Policy*)**:
-   - Seluruh asatidz dan musyrif diharamkan secara mutlak menggunakan kata-kata peyoratif (seperti *"anak pemalas", "bebal", "sampah pondok"*).
-   - Setiap pelanggaran santri didefinisikan sebagai **"Perilaku yang Belum Tepat"**, bukan **"Identitas Diri yang Rusak"**.
-2. **Refleksi Aksioma Harian dalam Halaqah Shubuh (5 Menit)**:
-   - Setiap ba'da wirid shubuh, musyrif membacakan satu hikmah aksioma (misal: *Hakikat Kausalitas dan Ikhtiar Hari Ini*) untuk mengarahkan orientasi mental santri menyongsong aktivitas harian.
-3. **Mekanisme Restrukturisasi Kognitif Tier 2**:
-   - Jika santri mengalami demotivasi, konselor BK menggunakan lembar kerja *Axiomatic Cognitive Reframing*: membantu santri memisahkan antara fakta kejadian, interpretasi pikiran yang keliru, dan aksioma solusi objektif.[^16]
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Hafalan Teks ke Logika Kausalitas)**: Santri mula-mula menghafal 6 aksioma secara kognitif. Pada tingkatan kedua, aksioma tersebut menjelma menjadi skema berpikir otomatis: saat santri menghadapi kesulitan, otaknya tidak lagi meratap secara fatalistik, melainkan menganalisis pemenuhan sunnatullah ikhtiarnya.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Logika Kausalitas ke Pengawalan Kalbu)**: Pada tingkatan ketiga, aksioma meresap ke dalam struktur kalbu. Aksioma Kemuliaan Fitrah dan Aksioma Keadilan Hisab membuat santri memandang kawan sekamarnya sebagai sesama hamba Allah yang mulia, melenyapkan dorongan perundungan dan ujub.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Keteladanan Kepemimpinan Paripurna)**: Pada tingkatan tertinggi, santri memiliki ketangguhan moral yang utuh: mereka tidak gentar menghadapi rintangan hidup karena meyakini sepenuhnya keadilan dan pertolongan Allah, serta menjadi sumber inspirasi kebangkitan bagi sesamanya.[^13]
+
+---
+
+### 3. Prinsip Aksiologis & Etika Tata Kelola Pengasuhan Berbasis Aksioma
+
+Enam Aksioma Metafisik melahirkan prinsip etika tata kelola kelembagaan pesantren:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaAksiomatis["PRINSIP AKSIOLOGIS PENGASUHAN PESANTREN 24 JAM"]
+        
+        P1_E["1. KEBIJAKAN NOL STIGMATISASI (Zero-Stigmatization Policy)<br/>• Dilarang keras melabeli santri 'anak nakal/bodoh/rusak permanen'.<br/>• Pelanggaran didefinisikan sebagai 'Perilaku yang Belum Tepat', bukan identitas diri."]
+        
+        P2_E["2. HARMONISASI KAUSALITAS LAPANGAN (Sunnatullah Integration)<br/>• Memenuhi hak biologis otak (jadwal tidur sirkadian 6-7 jam & nutrisi sehat).<br/>• Pengasuhan berbasis sains kognitif dan doa munajat fajar."]
+        
+        P3_E["3. AKUNTABILITAS HISAB TRANSAPARAN (Restorative Accountability)<br/>• Penegakan disiplin berbasis data objektif tanpa impunitas kekerasan senioritas.<br/>• Musyrif bertindak sebagai teladan (Qudwah) dengan jam kerja manusiawi."]
+        
+        P1_E <===> P2_E <===> P3_E
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Penerapan Bahasa Pengasuhan yang Memuliakan Fitrah**:
+   - Pendidik diwajibkan menggunakan narasi penguatan (*Strength-Based Language*) yang membangkitkan harga diri santri.
+2. **Restrukturisasi Kognitif Aksiomatis**:
+   - Jika santri mengalami demotivasi atau kegagalan, konselor menggunakan lembar dialog aksiomatis: memisahkan antara fakta kejadian, distorsi pikiran, dan aksioma solusi objektif.[^14]
+3. **Pemberantasan Tradisi Kekerasan Atas Nama Disiplin**:
+   - Mengganti sanksi fisik dengan konsekuensi logis restitutif yang memperbaiki kerusakan dan mendidik tanggung jawab moral santri.[^15]
 
 ---
 
@@ -257,12 +235,12 @@ flowchart TD
 
 Integrasi Enam Aksioma Metafisik ini membawa dampak transformatif bagi masa depan kelembagaan pesantren:
 
-* **Vaksinasi Teologis Terhadap Nihilisme dan Relativisme Moral Pascamodern**:  
-  Generasi santri masa kini hidup di tengah kepungan arus informasi digital yang mempromosikan skeptisisme dan ketiadaan makna hidup (*Nihilism*). Enam Aksioma Realitas menyediakan jangkar kepastian ontologis yang tak tergoyahkan: santri mengetahui dengan pasti siapa Tuhannya, apa tujuan hidupnya, dan bagaimana hukum semesta bekerja.
-* **Transformasi Budaya Pengasuhan dari Feodalistik Menuju Kolaboratif-Restoratif**:  
-  Aksioma Kehambaan dan Kemuliaan Fitrah meruntuhkan relasi kuasa yang menindas di asrama. Musyrif tidak lagi memposisikan diri sebagai "penguasa mutlak", melainkan sebagai *Khadimul Ummah* (Pelayan Umat) yang mengemban amanah Allah untuk menuntun fitrah santri dengan kelembutan hikmah.
-* **Peningkatan Efisiensi Pembelajaran dan Prestasi Akademik**:  
-  Dengan hilangnya rasa takut yang melumpuhkan otak dan hadirnya keyakinan pada hukum kausalitas, motivasi belajar intrinsik santri melonjak tinggi. Santri belajar bukan karena takut dihukum, melainkan karena rindu menyempurnakan fitrah kemanusiaannya di hadapan Allah SWT.[^17]
+* **Vaksinasi Teologis Terhadap Nihilisme dan Krisis Eksistensial Remaja**:  
+  Generasi santri masa kini hidup di tengah kepungan arus informasi digital yang mempromosikan relativisme nilai dan kehampaan makna hidup (*Nihilism*). Enam Aksioma Realitas menyediakan jangkar kepastian ontologis: santri mengetahui dengan pasti kedudukan dirinya sebagai hamba Allah dan hukum semesta yang adil.
+* **Transformasi Budaya Pengasuhan dari Feodalisme Menuju Keteladanan Qudwah**:  
+  Aksioma Kehambaan dan Kemuliaan Fitrah meruntuhkan relasi kuasa yang menindas di asrama. Musyrif memposisikan diri sebagai pelayan umat (*Khadimul Ummah*) yang menuntun fitrah santri dengan kelembutan hikmah.
+* **Peningkatan Efisiensi Pembelajaran dan Motivasi Intrinsik**:  
+  Dengan hilangnya rasa takut yang melumpuhkan otak dan hadirnya keyakinan pada hukum kausalitas, motivasi belajar intrinsik santri melonjak tinggi. Santri belajar karena rindu menyempurnakan fitrah kemanusiaannya di hadapan Allah SWT.[^16]
 
 ---
 
@@ -278,7 +256,7 @@ Integrasi Enam Aksioma Metafisik ini membawa dampak transformatif bagi masa depa
 | **Respon Kegagalan** | Fatalisme pasif / menyalahkan takdir (*Learned Helplessness*). | Aktivasi Kausalitas Pasti & *Internal Locus of Control*. | McEwen (2007); Seligman (1975); Deci & Ryan. | Santri bangkit mandiri & mengevaluasi strategi belajar. |
 | **Pandangan Santri** | Pelabelan negatif: santri dicap "nakal/rusak permanen". | *Aksioma Kemuliaan Fitrah*: Potensi kebaikan hakiki. | QS. At-Tin: 4; Al-Attas (*The Concept of Education*). | Kebijakan *Zero-Stigmatization* & penanganan restoratif. |
 | **Tata Kelola Asrama**| Standar ganda: doa tanpa perencanaan kausalitas fisik. | Harmonisasi Sunnatullah Kauniyyah & Syar'iyyah. | Al-Ghazali (*Ihya'*); Horner & Sugai (2015). | SOP ventilasi, nutrisi, manajemen tidur, & doa fajar. |
-| **Karakter Lulusan** | Kepatuhan semu amigdala; rapuh pasca-lulus pondok. | *Autonomous Self-Regulation* & Malakah Resiliensi J4. | Ryan & Deci (2000); Zehr (2002). | Santri berintegritas tinggi & siap pimpin masyarakat. |
+| **Karakter Lulusan** | Kepatuhan semu amigdala; rapuh pasca-lulus pondok. | *Autonomous Self-Regulation* & Kesadaran Insan Adabi. | Ryan & Deci (2000); Zehr (2002). | Santri berintegritas tinggi & siap pimpin masyarakat. |
 
 ---
 
@@ -304,20 +282,19 @@ Integrasi Enam Aksioma Metafisik ini membawa dampak transformatif bagi masa depa
 [^1]: Riset Aksiomatika Ontologis Pesantren TUMBUH, *Kritik atas Disorientasi Aksiomatis dan Fatalisme Asrama*, 2026.  
 [^2]: QS. Ali 'Imran [3]: 190–191.  
 [^3]: Al-Amidi, *Al-Ihkam fi Ushul al-Ahkam*, Jilid 1, hlm. 18–35.  
-[^4]: Al-Ghazali, *Al-Mustashfa min 'Ilmil Ushul*, Jilid 1, hlm. 45–70.  
-[^5]: McEwen, B. S. (2007), *Physiological Reviews*, hlm. 873–904.  
-[^6]: Seligman, M. E. P. (1975), *Helplessness: On Depression, Development, and Death*, hlm. 45–80.  
-[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tawakkul*, hlm. 270–305.  
-[^8]: Dokumentasi Intervensi Klinis Restrukturisasi Kognitif Santri Remedial Tasmi' TUMBUH, 2026.  
-[^9]: Dokumentasi Penegakan Kebijakan Zero-Stigmatization & Transformasi Santri Ekosistem TUMBUH, 2026.  
-[^10]: Ath-Thahawi, *Al-'Aqidah ath-Thahawiyyah*, Matan No. 1–15, hlm. 20–38.  
-[^11]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 55–85.  
-[^12]: Bhaskar, R. (2008), *A Realist Theory of Science*, hlm. 40–65.  
-[^13]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 25–42.  
-[^14]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 30–55.  
-[^15]: Matriks Progresi Resiliensi Moral Tangga J1–J4 TUMBUH, 2026.  
-[^16]: Petunjuk Teknis SOP Morning Briefing & Restrukturisasi Kognitif PBIS TUMBUH, 2026.  
-[^17]: Blueprint Transformasi Budaya Pesantren Bebas Bullying Berbasis Aksioma Metafisik TUMBUH, 2026.
+[^4]: McEwen, B. S. (2007), *Physiological Reviews*, hlm. 873–904.  
+[^5]: Seligman, M. E. P. (1975), *Helplessness: On Depression, Development, and Death*, hlm. 45–80.  
+[^6]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tawakkul*, hlm. 270–305.  
+[^7]: Dokumentasi Intervensi Klinis Restrukturisasi Kognitif Santri Remedial Tasmi' TUMBUH, 2026.  
+[^8]: Ath-Thahawi, *Al-'Aqidah ath-Thahawiyyah*, Matan No. 1–15, hlm. 20–38.  
+[^9]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 55–85.  
+[^10]: Bhaskar, R. (2008), *A Realist Theory of Science*, hlm. 40–65.  
+[^11]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 25–42.  
+[^12]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 30–55.  
+[^13]: Matriks Tingkatan Kesadaran Aksiomatis (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^14]: Petunjuk Teknis SOP Restrukturisasi Kognitif Aksiomatis PBIS TUMBUH, 2026.  
+[^15]: Kebijakan Nol Stigmatisasi & Disiplin Restoratif Pengasuhan TUMBUH, 2026.  
+[^16]: Blueprint Transformasi Budaya Pesantren Bebas Bullying Berbasis Aksioma Metafisik TUMBUH, 2026.
 
 ---
 
