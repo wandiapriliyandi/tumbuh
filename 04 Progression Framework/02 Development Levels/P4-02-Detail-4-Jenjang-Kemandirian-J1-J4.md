@@ -15,7 +15,8 @@
 >   1. **Jenjang J1: Kepatuhan Terbimbing (*Guided Compliance*)** $\rightarrow$ Mencakup *Tahap 1 (Tahu)* & *Tahap 2 (Paham)*. Scaffolding musyrif: 80%.  
 >   2. **Jenjang J2: Pembiasaan Terpola (*Habituated Practice*)** $\rightarrow$ Mencakup *Tahap 3 (Sadar)* & *Tahap 4 (Membiasakan)*. Scaffolding musyrif: 50%.  
 >   3. **Jenjang J3: Kemandirian Stabil (*Autonomous Stability*)** $\rightarrow$ Mencakup *Tahap 5 (Kuat/Konsisten)* & *Tahap 6 (Memberi Teladan)*. Scaffolding musyrif: 20%.  
->   4. **Jenjang J4: Kepemimpinan Qudwah (*Exemplary Leadership*)** $\rightarrow$ Mencakup *Tahap 7 (Menggerakkan)* & *Tahap 8 (Pelaksana)*. Scaffolding musyrif: Kolaboratif (0–10%).
+>   4. **Jenjang J4: Kepemimpinan Qudwah (*Exemplary Leadership*)** $\rightarrow$ Mencakup *Tahap 7 (Menggerakkan)* (Puncak Santri Akhir). Scaffolding musyrif: Kolaboratif (0–10%).  
+>   * **Pasca-Pesantren (Pengabdian & Alumni)** $\rightarrow$ Mencakup *Tahap 8 (Pelaksana)*, *Tahap 9 (Pembina)*, dan *Tahap 10 (Pemberdaya)*.
 
 ---
 
@@ -29,7 +30,7 @@ graph BT
     
     J3["JENJANG J3: KEMANDIRIAN STABIL<br/>• Scaffolding: 20% (Peran Musyrif: Emotional Coaching & Facilitation)<br/>• Tahapan: Tahap 5 (KUAT / KONSISTEN) & Tahap 6 (MEMBERI TELADAN)<br/>• Fokus: Regulasi nafsu otonom, ukhuwah restoratif, & hafalan mutqin."]
     
-    J4["JENJANG J4: KEPEMIMPINAN QUDWAH<br/>• Scaffolding: Kolaboratif 0-10% (Peran Musyrif: Advisory Partnership)<br/>• Tahapan: Tahap 7 (MENGGERAKKAN) & Tahap 8 (PELAKSANA)<br/>• Fokus: Teladan hidup (Qudwah), kepengurusan organisasi, & khidmah sosial."]
+    J4["JENJANG J4: KEPEMIMPINAN QUDWAH (PUNCAK SANTRI AKHIR)<br/>• Scaffolding: Kolaboratif 0-10% (Peran Musyrif: Advisory Partnership)<br/>• Tahapan: Tahap 7 (MENGGERAKKAN)<br/>• Fokus: Teladan hidup (Qudwah), menggerakkan inisiatif kebaikan, & khidmah asrama."]
 
     J1 --> J2 --> J3 --> J4
 ```
@@ -43,8 +44,8 @@ graph BT
 | **Jenjang J1 (Kepatuhan Terbimbing)** | **1. TAHU**<br/>**2. PAHAM** | Memerlukan aba-aba jelas; belajar memahami hikmah shalat dan aturan asrama; regulasi emosi masih butuh pendampingan erat. | **Instruktur & Pembimbing Hangat** (80% Bantuan Langsung). | Semester 1 (Bulan 1–6) |
 | **Jenjang J2 (Pembiasaan Terpola)** | **3. SADAR**<br/>**4. MEMBIASAKAN** | Bangun subuh tepat waktu; lemari rapi standar 5S; adab santun kepada ustadz mulai terpola menjadi kebiasaan harian (*Habit Loop*). | **Fasilitator & Penguat Positif** (50% Pengawasan + Apresiasi 4:1). | Semester 2–4 (Tahun 1–2) |
 | **Jenjang J3 (Kemandirian Stabil)** | **5. KUAT / KONSISTEN**<br/>**6. MEMBERI TELADAN** | Istiqamah beribadah tanpa diawasi; menolak godaan teman sebaya; menyelesaikan konflik secara restoratif; menginspirasi sekamar. | **Coach Dialogis & Konselor** (20% Bimbingan Reflektif). | Semester 5–8 (Tahun 3–4) |
-| **Jenjang J4 (Kepemimpinan Qudwah)** | **7. MENGGERAKKAN**<br/>**8. PELAKSANA** | Menggerakkan inisiatif asrama; mengemban amanah ketua organisasi/OSIS; membimbing adik kelas (*Peer Mentor*); proyek khidmah. | **Mitra Kolaboratif & Penasihat** (0–10% Supervisi Strategis). | Semester 9–12 (Tahun 5–6) |
-| **Pasca-Pesantren (Alumni Pengabdi)**| **9. PEMBINA**<br/>**10. PEMBERDAYA** | Menjadi musyrif junior/guru pembina; mendirikan unit dakwah; memberdayakan masyarakat luas sebagai pemimpin peradaban Islam. | **Dewan Masyayikh & Mitra Umat** (Jejaring Sinergis). | Tahun Pengabdian & Pasca-Lulus |
+| **Jenjang J4 (Kepemimpinan Qudwah)** | **7. MENGGERAKKAN** | Menggerakkan inisiatif asrama; mengemban amanah ketua organisasi/OSIS; membimbing adik kelas (*Peer Mentor*); proyek khidmah. | **Mitra Kolaboratif & Penasihat** (0–10% Supervisi Strategis). | Semester 9–12 (Tahun 5–6) |
+| **Pasca-Pesantren (Alumni, Pengabdi, & Pemimpin)** | **8. PELAKSANA**<br/>**9. PEMBINA**<br/>**10. PEMBERDAYA** | Menjadi musyrif junior/guru pembina; mendirikan unit dakwah; memberdayakan masyarakat luas sebagai pemimpin peradaban Islam. | **Dewan Masyayikh & Mitra Umat** (Jejaring Sinergis). | Tahun Pengabdian & Pasca-Lulus |
 
 ---
 

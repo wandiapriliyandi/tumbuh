@@ -28,9 +28,9 @@ graph TD
         
         J3["JENJANG J3: KEMANDIRIAN STABIL (Kelas 9-10)<br/>• Tahap 5: KUAT / KONSISTEN (Resilience & Strength)<br/>• Tahap 6: MEMBERI TELADAN (Role Modeling)"]
         
-        J4["JENJANG J4: KEPEMIMPINAN QUDWAH (Kelas 11-12)<br/>• Tahap 7: MENGGERAKKAN (Mobilizing & Leading)<br/>• Tahap 8: PELAKSANA (Executing System)"]
+        J4["JENJANG J4: KEPEMIMPINAN QUDWAH (Kelas 11-12)<br/>• Tahap 7: MENGGERAKKAN (Mobilizing & Leading / Puncak Santri Akhir)"]
         
-        Pasca["FASE PENGABDIAN & ALUMNI (Post-Pesantren)<br/>• Tahap 9: PEMBINA (Nurturing & Mentoring Junior)<br/>• Tahap 10: PEMBERDAYA (Systemic Empowerment of Ummah)"]
+        Pasca["FASE PENGABDIAN & ALUMNI (Post-Pesantren)<br/>• Tahap 8: PELAKSANA (Field Executor & Implementer)<br/>• Tahap 9: PEMBINA (Nurturing & Mentoring Junior)<br/>• Tahap 10: PEMBERDAYA (Systemic Empowerment of Ummah)"]
         
         J1 ==> J2 ==> J3 ==> J4 ==> Pasca
     end
@@ -49,7 +49,7 @@ graph TD
 | **5** | **KUAT / KONSISTEN**| Istiqamah, berdaya tahan tinggi (*Resilience*), dan kokoh menjaga adab meski diuji godaan lingkungan. | **Jenjang J3 (Kemandirian Stabil)** | *Coach Reflektif* (Mendorong konsistensi batin). |
 | **6** | **MEMBERI TELADAN**| Perilaku adab memancar spontan (*Second Nature*) sehingga menginspirasi rekan sekamar secara positif. | **Jenjang J3 (Kemandirian Stabil)** | *Fasilitator Mentorship* (Apresiasi kepemimpinan adab). |
 | **7** | **MENGGERAKKAN** | Memimpin inisiatif kebaikan, aktif mengajak teman, dan menjadi problem solver dalam dinamika asrama. | **Jenjang J4 (Kepemimpinan Qudwah)** | *Mitra Strategis* (Memberi ruang kreasi inisiatif). |
-| **8** | **PELAKSANA** | Mengemban amanah eksekusi organisasi santri (OSIS/Asrama) secara profesional (*Itqan*) dan akuntabel. | **Jenjang J4 (Kepemimpinan Qudwah)** | *Penasihat Kolaboratif* (Supervisi manajemen santri). |
+| **8** | **PELAKSANA** | Mengemban amanah eksekusi organisasi santri (OSIS/Asrama) secara profesional (*Itqan*) dan akuntabel.  | **Pasca-Pesantren (Fase Awal Alumni/Pengabdi)** | *Penasihat Kolaboratif* (Supervisi manajemen santri). |
 | **9** | **PEMBINA** | Mentransformasikan diri menjadi pengasuh/pembimbing yang melatih, mendampingi, dan mengayomi adik kelas. | **Tahun Pengabdian / Musyrif Muda** | *Master Coach* (Pengembangan kompetensi pedagogi). |
 | **10**| **PEMBERDAYA** | Menciptakan sistem baru, memajukan lembaga, mendirikan unit usaha dakwah, dan memberdayakan umat luas. | **Fase Alumni Pemimpin Peradaban** | *Jejaring Kolaborasi Sinergis Global*. |
 
