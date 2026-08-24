@@ -1,257 +1,240 @@
-# P2-06-06: PRINSIP REINTEGRASI SOSIAL, PEMBERSIHAN STIGMA, DAN PEMULIHAN MARTABAT SANTRI
-## *Monograf Terpadu: Doktrin At-Taubatu Tajubbu Ma Qablaha (HR. Muslim No. 121) & Pembasuhan Dosa, Teori Reintegrative Shaming John Braithwaite, Protokol Pembersihan Rekam Jejak (Clean Slate / Expungement Protocol), Upacara Ishlah & Penerimaan Kembali (Social Re-Inclusion Ceremony), serta Mitigasi Stigmatisasi Toksik Pesantren*
+# P2-06-06: PRINSIP REINTEGRASI SOSIAL, PEMBERSIHAN STIGMA, DAN PEMULIHAN MARTABAT SANTRI (SOCIAL REINTEGRATION & NO-STIGMA PROTOCOLS)
+## *Monograf Riset Akademik: Doktrin At-Taubatu Tajubbu Ma Qablaha (HR. Muslim No. 121) & Pembasuhan Dosa, Reintegrative Shaming Theory John Braithwaite, Labeling Theory Howard Becker, Protokol Clean Slate Pemutihan Rekam Jejak, Serta Upacara Penerimaan Kembali di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-06-06/MONOGRAF-TERPADU-REINTEGRASI-ANTI-STIGMA/2026`  
-**Domain**: `02 Principles` > `06 Intervention Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Standar Baku Reintegrasi Sosial Santri)  
+**Nomor Identifikasi**: `P2-06-06/MONOGRAF-RISET-REINTEGRASI-ANTI-STIGMA/2026`  
+**Domain**: `02 Principles` > `06 Intervention Principles` (Prinsip Intervensi 06: *Social Reintegration & No-Stigma Protocols*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Intervensi)  
 **Rumpun Disiplin Pengkaji**: Kriminologi Restoratif & Sosiologi Deviasi (*Reintegrative Shaming*), Teologi Pertobatan Islam (*Fiqh at-Taubah*), Psikologi Sosial Penerimaan Kelompok, Manajemen Pengasuhan Asrama Inklusif  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kesalahan Adalah Peristiwa Masa Lalu, Bukan Cap Seumur Hidup:**  
->   Ketika seorang santri telah menjalani konsekuensi logis restoratif dan bertobat dengan tulus, syariat Islam dan etika pendidikan mengharamkan mutlak pelabelan abadi seperti "anak nakal", "residivis pondok", atau "mantan pembuat onar".
-> * **Teori *Reintegrative Shaming* (John Braithwaite):**  
->   Pisahkan antara perbuatan buruk yang harus ditolak (*Disapprove the Act*) dengan pribadi santri yang tetap dicintai dan dirangkul (*Embrace the Person*).
-> * **Protokol Pembersihan Rekam Jejak (*Clean Slate Protocol*):**  
->   Setelah masa pemantauan perbaikan adab selesai (30–60 hari), data pelanggaran diarsipkan secara tertutup dan status poin santri diputihkan kembali ke nol, memberikan lembaran baru yang bersih dan penuh harapan.
+> * **Kelemahan Paradigma Lama: Pelabelan Abadi (Labeling Stigma) dan Pengucilan Sosial:**  
+>   Banyak pengasuh dan santri terus-menerus mengungkit kesalahan masa lalu santri yang pernah khilaf, memanggilnya dengan julukan buruk ("Si Pencuri", "Mantan Pembuat Onar"), dan menaruh curiga permanen. Pelabelan negatif ini memicu deviasi sekunder (*Secondary Deviance*): santri putus asa lalu benar-benar menjadi penjahat kambuhan (*Recidivism*).
+> * **Inovasi Konseptual: At-Taubatu Tajubbu Ma Qablaha & Reintegrative Shaming (John Braithwaite):**  
+>   TUMBUH menegakkan sabda Rasulullah ﷺ: *"Pertobatan itu menghapuskan dosa-dosa sebelumnya"* (HR. Muslim No. 121) dan atsar Sayyidina Umar RA mengenai penyambutan orang yang bertobat. Mengintegrasikan teori **Reintegrative Shaming (John Braithwaite)**: memisahkan penolakan terhadap tindakan buruk (*Disapprove the Act*) dari penerimaan penuh terhadap pribadi santri (*Embrace the Person*). Menghadirkan **Protokol Pemutihan Rekam Jejak (*Clean Slate / Expungement Protocol*)** dan **Upacara Penerimaan Kembali (*Social Re-Inclusion Ceremony*)**.
+> * **Formulasi Operasional & Penjaminan Pemulihan Martabat:**  
+>   Monograf ini menguraikan matriks 3 fase reintegrasi sosial, SOP pemutihan rekam jejak digital santri pasca-30 hari pembuktian, protokol perlindungan dari perundungan stigma (*Anti-Stigma Code of Conduct*), dan etika ukhuwah Islamiyyah.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET REINTEGRASI SOSIAL, TEORI LABELING, & KASUISTIKA ASRAMA](#bagian-i-riset-reintegrasi-sosial-teori-labeling--kasuistika-asrama)
-  - [1. Kerangka Metodologi Reintegrasi: Mengapa Stigmatisasi Pasca-Pelanggaran Merusak Jiwa Santri](#1-kerangka-metodologi-reintegrasi-mengapa-stigmatisasi-pasca-pelanggaran-merusak-jiwa-santri)
-  - [2. Inkuiri 1: Eksegesis Turats At-Taubatu Tajubbu Ma Qablaha — HR. Muslim No. 121 & Kisah Sahabat yang Bertobat](#2-inkuiri-1-eksegesis-turats-at-taubatu-tajubbu-ma-qablaha--hr-muslim-no-121--kisah-sahabat-yang-bertobat)
-  - [3. Inkuiri 2: Konvergensi Reintegrative Shaming Theory (John Braithwaite) & Labeling Theory (Howard Becker)](#3-inkuiri-2-konvergensi-reintegrative-shaming-theory-john-braithwaite--labeling-theory-howard-becker)
-  - [4. Inkuiri 3: Protokol Clean Slate (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunal](#4-inkuiri-3-protokol-clean-slate-pemutihan-rekam-jejak--upacara-penerimaan-kembali-komunal)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH](#1-formulasi-konseptual-standar-reintegrasi-anti-stigmatisasi-pesantren-tumbuh)
-  - [2. Matriks 3 Fase Reintegrasi: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh](#2-matriks-3-fase-reintegrasi-fase-penyesuaian-fase-pembuktian--fase-pemulihan-penuh)
-  - [3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak & Upacara Penerimaan Kembali](#3-standar-prosedur-operasional-sop-pemutihan-rekam-jejak--upacara-penerimaan-kembali)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Reintegrasi & Anti-Stigma](#1-tabel-sintesis-hasil-riset-reintegrasi--anti-stigma)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Bahaya Pelabelan Abadi (Labeling Theory) dan Deviasi Sekunder](#1-latar-belakang-masalah-kritik-atas-bahaya-pelabelan-abadi-labeling-theory-dan-deviasi-sekunder)
+  - [2. Eksegesis Turats Hakikat Pertobatan Syar'i: Hadits At-Taubatu Tajubbu Ma Qablaha & Fiqh Pembersihan Dosa](#2-eksegesis-turats-hakikat-pertobatan-syari-hadits-at-taubatu-tajubbu-ma-qablaha--fiqh-pembersihan-dosa)
+  - [3. Konvergensi Sains Kriminologi Restoratif: Reintegrative Shaming Theory (John Braithwaite) vs Disintegrative Shaming](#3-konvergensi-sains-kriminologi-restoratif-reintegrative-shaming-theory-john-braithwaite-vs-disintegrative-shaming)
+  - [4. Rekayasa Protokol Clean Slate (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunitas Asrama](#4-rekayasa-protokol-clean-slate-pemutihan-rekam-jejak--upacara-penerimaan-kembali-komunitas-asrama)
+  - [5. Kasuistika Lapangan: Transformasi Santri Khilaf Mencuri Menjadi Santri Teladan Khidmah Asrama](#5-kasuistika-lapangan-transformasi-santri-khilaf-mencuri-menjadi-santri-teladan-khidmah-asrama)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Reintegrasi Sosial & Anti-Stigmatisasi Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-reintegrasi-sosial--anti-stigmatisasi-pesantren-tumbuh)
+  - [2. Matriks Tiga Fase Reintegrasi Sosial: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh](#2-matriks-tiga-fase-reintegrasi-sosial-fase-penyesuaian-fase-pembuktian--fase-pemulihan-penuh)
+  - [3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak (Clean Slate SOP)](#3-standar-prosedur-operasional-sop-pemutihan-rekam-jejak-clean-slate-sop)
+  - [4. Protokol Upacara Penerimaan Kembali Komunal (Social Re-Inclusion Ceremony Protocol)](#4-protokol-upacara-penerimaan-kembali-komunal-social-re-inclusion-ceremony-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Reintegrasi Sosial & Anti-Stigma](#1-tabel-sintesis-temuan-riset-reintegrasi-sosial--anti-stigma)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Reintegrasi, Clean Slate, Labeling, & At-Taubah](#4-glosarium-teknis-reintegrasi-clean-slate-labeling--at-taubah)
+  - [4. Glosarium Istilah Ilmiah & Turats Reintegrasi Sosial](#4-glosarium-istilah-ilmiah--turats-reintegrasi-sosial)
 
 ---
 
-# BAGIAN I: RISET REINTEGRASI SOSIAL, TEORI LABELING, & KASUISTIKA ASRAMA
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Reintegrasi: Mengapa Stigmatisasi Pasca-Pelanggaran Merusak Jiwa Santri
+### 1. Latar Belakang Masalah: Kritik atas Bahaya Pelabelan Abadi (Labeling Theory) dan Deviasi Sekunder
 
-Dalam sosiologi pendidikan, ancaman terbesar setelah terjadinya pelanggaran tata tertib bukanlah pelanggaran itu sendiri, melainkan **Stigmatisasi Sosial Berkelanjutan (*Secondary Deviance*)**:
-* Ketika seorang santri pernah melakukan kesalahan (misal: mengambil barang teman tanpa izin) dan terus-menerus diungkit kesalahannya oleh asatidz atau teman sekamarnya, santri tersebut akan menginternalisasi label tersebut (*"Saya memang anak pencuri, jadi buat apa saya berbuat baik lagi"*).
-* Pelabelan negatif memicu isolasi sosial, depresi, dan mendorong santri untuk mengulangi pelanggaran yang jauh lebih berat (*Recidivism*).
-* Ekosistem TUMBUH merancang **Sistem Reintegrasi Sosial Penuh**: memberikan jalan keluar pertobatan yang terhormat, menghapus catatan pelanggaran, dan merangkul santri kembali ke tengah komunitas pondok sebagai saudara seiman yang suci.
+Dalam sosiologi pendidikan dan kriminologi, bahaya terbesar setelah terjadinya pelanggaran disiplin bukanlah pelanggaran awal itu sendiri, melainkan **Stigmatisasi Sosial Berkelanjutan (*Secondary Deviance Trap*)**:
+* Ketika seorang santri pernah melakukan kesalahan (misal: mengambil barang kawan tanpa izin) dan terus-menerus diungkit masa lalunya oleh asatidz atau teman sekamar (*"Hati-hati dompet kalian, ada dia"*).
+* Santri tersebut perlahan menginternalisasi label buruk tersebut ke dalam konsep dirinya (*"Semua orang menganggap saya pencuri, maka percuma saya berusaha jadi anak baik"*).
+* **Akibat Fatal**: Pelabelan menghancurkan motivasi tobat, melahirkan keputusasaan moral, memicu keterasingan sosial, dan mendorong santri menjadi residivis pelanggaran yang jauh lebih parah (*Recidivism*).
+* **Keniscayaan Reintegrasi Sosial Tanpa Stigma**: Syariat Islam memandang pertobatan sebagai pembersihan total yang mengembalikan kesucian jiwa (*Taharatun Nafs*), menuntut dibukanya lembaran baru yang bersih bagi santri.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph DinamikaReintegrasiTUMBUH["SIKLUS PEMULIHAN MARTABAT & REINTEGRASI SANTRI"]
-        Pelanggaran["1. TERJADINYA PELANGGARAN ADAB & MEDIASI RESTORATIF<br/>Santri mengakui kesalahan, meminta maaf, & menuntaskan restitusi ganti rugi."]
+    subgraph TransformasiReintegrasiSosial["TRANSFORMASI PASCA-PELANGGARAN SANTRI"]
+        PolaStigmaLama["PELABELAN ABADI & PENGUCILAN (LAMA)<br/>• Label 'anak nakal' melekat permanen.<br/>• Aib diungkit terus di asrama & kelas.<br/>• Memicu deviasi sekunder & residivis kambuhan."]
         
-        MasaTransisi["2. MASA PEMBUKTIAN & PENDAMPINGAN SAHABAT (30–60 HARI):<br/>Musyrif dan Duta Adab mendampingi pembiasaan amal shalih harian."]
+        PolaReintegrasiTUMBUH["REINTEGRASI RESTORATIF & CLEAN SLATE (TUMBUH)<br/>• At-Taubatu Tajubbu Ma Qablaha (HR. Muslim No. 121).<br/>• Reintegrative Shaming: Pisahkan perbuatan dari orangnya.<br/>• Protokol Clean Slate: Pemutihan catatan 30-60 hari."]
         
-        PembersihanJejak["3. PROTOKOL CLEAN SLATE (PEMUTIHAN REKAM DATA):<br/>Data pelanggaran diarsipkan tertutup; rekam jejak santri bersih kembali."]
-        
-        PenerimaanKomunal["4. UPACARA ISHLAH & PENERIMAAN KEMBALI SEUTUHNYA:<br/>Makan nampan ukhuwah bersama; haram mengungkit masa lalu."]
-        
-        Pelanggaran ==> MasaTransisi ==> PembersihanJejak ==> PenerimaanKomunal
+        PolaStigmaLama ==>|DIREKONSTRUKSI MENJADI| PolaReintegrasiTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats At-Taubatu Tajubbu Ma Qablaha — HR. Muslim No. 121 & Kisah Sahabat yang Bertobat
+### 2. Eksegesis Turats Hakikat Pertobatan Syar'i: Hadits At-Taubatu Tajubbu Ma Qablaha & Fiqh Pembersihan Dosa
 
-```mermaid
-graph TD
-    A["Gugatan Dendam Sosial (Pihak A):<br/>'Santri yang pernah mencuri tidak boleh dipercaya lagi seumur hidup; harus terus diawasi dan dicurigai!'"]
-    --> B1["Tinjauan Hadits Shahih Muslim No. 121:<br/>'Al-Islamu yajubbu ma kaana qablahu, wal-hijratu tajubbu ma kaana qablaha, wat-taubatu tajubbu ma kaana qablaha' (Islam, hijrah, dan pertobatan MENGHAPUS SELURUH DOSA & KESALAHAN SEBELUMNYA)."]
-    A --> B2["Tinjauan Riwayat Sayyidina Umar RA & Ikrimah bin Abi Jahal RA:<br/>Mantan musuh Islam terberat diterima dengan pelukan hangat saat bertobat dan diangkat menjadi komandan pasukan perang."]
-    A --> B3["Tinjauan Larangan Mencela Dosa Orang yang Bertobat (HR. Tirmidzi No. 2505):<br/>'Man 'ayyara akhaahu bi dzanbin lam yamut hatta ya'malahu' (Barangsiapa mencela saudaranya karena suatu dosa yang telah ia tobati, ia tidak akan mati sebelum melakukan dosa yang sama)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Pertobatan sejati menuntut penghapusan total stigma dan pemulihan kepercayaan penuh."]
-```
+Rasulullah ﷺ menetapkan prinsip fundamental bahwa pertobatan menghapus seluruh noktah masa lalu:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perlakuan yang terus mencurigai dan mengungkit dosa orang yang telah bertobat dan menyelesaikan tanggung jawabnya bertentangan dengan prinsip syariat *At-Taubatu Tajubbu Ma Qablaha* dan merusak ukhuwah Islamiyyah.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Sistem pengasuhan TUMBUH memulihkan martabat santri dan menghapus total catatan pelanggaran pasca-ishlah.
-* **Konklusi (*an-Natijah*)**: Maka, penerapan doktrin reintegrasi anti-stigma di pesantren TUMBUH adalah perwujudan keadilan syariat yang hakiki.[^1]
+$$\text{أَمَا عَلِمْتَ أَنَّ الإِسْلاَمَ يَهْدِمُ مَا كَانَ قَبْلَهُ، وَأَنَّ الْهِجْرَةَ تَهْدِمُ مَا كَانَ قَبْلَهَا، وَأَنَّ الْحَجَّ يَهْدِمُ مَا كَانَ قَبْلَهُ، وَأَنَّ التَّوْبَةَ تَجُبُّ مَا قَبْلَهَا}$$
 
-#### 📖 Teks Primer Hadits: Pertobatan Menghapus Kesalahan Masa Lalu
-Rasulullah SAW bersabda kepada Amr bin al-'Ash RA:
+*"**Tidakkah engkau tahu bahwa Islam menghapuskan apa (dosa) yang terjadi sebelumnya, hijrah menghapuskan apa yang terjadi sebelumnya, haji menghapuskan apa yang terjadi sebelumnya, dan pertobatan yang tulus (At-Taubah) menghapuskan apa (kesalahan) yang terjadi sebelumnya**."* (HR. Muslim No. 121).[^2]
 
-$$\text{أَمَا عَلِمْتَ أَنَّ الْإِسْلَامَ يَهْدِمُ مَا كَانَ قَبْلَهُ، وَأَنَّ الْهِجْرَةَ تَهْدِمُ مَا كَانَ قَبْلَهَا، وَأَنَّ التَّوْبَةَ تَجُبُّ مَا كَانَ قَبْلَهَا؟}$$
-
-*"**Tidakkah engkau tahu bahwa Islam MENGHANCURKAN DOSA-DOSA SEBELUMNYA, hijrah MENGHANCURKAN KESALAHAN SEBELUMNYA, dan PERTOBATAN MENGHAPUS TOTAL SELURUH DOSA MASA LALU?**"* (HR. Muslim No. 121).[^2]
+Sayyidina Umar bin Khattab RA berwasiat: *"Duduklah kalian bersama orang-orang yang bertobat, karena sesungguhnya hati mereka adalah hati yang paling lembut."*[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Reintegrative Shaming Theory* (John Braithwaite) & *Labeling Theory* (Howard Becker)
+### 3. Konvergensi Sains Kriminologi Restoratif: Reintegrative Shaming Theory (John Braithwaite) vs Disintegrative Shaming
 
-Kriminolog dunia **Prof. John Braithwaite** (1989) membedakan dua jenis rasa malu dalam penegakan disiplin:
-1. **Stigmatizing Shaming (Merusak):** Komunitas mencap pelaku sebagai orang jahat (*"Kamu anak nakal/penjahat"*), mengucilkannya, dan memutus hubungan sosial. Hasilnya: pelaku bergabung dengan kelompok kriminal di luar.
-2. **Reintegrative Shaming (Membangun):** Komunitas menegaskan penolakan keras terhadap perbuatannya, tetapi tetap menyayangi dan menerima pelakunya dengan penuh kehangatan (*"Perbuatan mencuri itu haram dan salah, tetapi kami menyayangimu dan ingin kamu bangkit menjadi orang shalih"*).
-
-Pesantren TUMBUH mengadopsi penuh pendekatan *Reintegrative Shaming* yang dipadukan dengan konsep *Taubat Nasuha* dan pemulihan adab.[^3]
+Sains kriminologi modern (**Reintegrative Shaming Theory**, John Braithwaite, 1989; Labeling Theory, Howard Becker, 1963) membuktikan:
+* **Disintegrative Shaming (Punitif Tradisional)**: Mempermalukan dan mencap pelaku sebagai orang buangan, memicu terbentuknya subkultur kriminal bawah tanah (*Deviant Subcultures*).
+* **Reintegrative Shaming (Restoratif TUMBUH)**: Mengutuk perbuatan buruk secara tegas, namun merangkul kembali pelaku ke dalam kehangatan komunitas dengan penuh cinta, rasa hormat, dan pengampunan tulus.[^4]
 
 ---
 
-### 4. Inkuiri 3: Protokol *Clean Slate* (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunal
+### 4. Rekayasa Protokol Clean Slate (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunitas Asrama
+
+TUMBUH merancang sistem pemulihan nama baik:
+* **Clean Slate Protocol**: Setelah santri menjalani masa pembuktian amal shalih (30–60 hari) pasca-restitusi, catatan pelanggaran di logbook digital PBIS diarsipkan secara tertutup (*Expunged*) dan status adab santri diputihkan kembali.
+* **Social Re-Inclusion Ceremony**: Majelis kamar yang hangat di mana santri diterima kembali sebagai saudara tanpa ada lagi yang boleh mengungkit kesalahannya (*Zero Retaliation Code*).[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Transformasi Santri Khilaf Mencuri Menjadi Santri Teladan Khidmah Asrama
+
+* **Studi Kasus: Santri Kelas 8 Pernah Khilaf Mengambil Uang Saku Teman dan Menjalani Proses Ishlah Restoratif**  
+  * **Dilema**: Santri mulai murung karena beberapa teman kamar masih membisikkan kecurigaan saat barang hilang.
+  * **Resolusi Reintegrasi TUMBUH**: Musyrif mengambil tindakan tegas: (1) Mengadakan majelis kamar untuk menegaskan larangan tajassus dan mengungkit kesalahan saudara (*Surah Al-Hujurat: 12*); (2) Menunjuk santri tersebut menjadi Bendahara Piket Kebersihan Kamar sebagai bentuk amanah kepercayaan (*Trust Building*); (3) Setelah 40 hari santri mengelola kas piket dengan sangat jujur dan transparan, musyrif memimpin Upacara Clean Slate. Santri tersebut bangkit penuh percaya diri dan pada akhir tahun terpilih sebagai Santri Teladan Khidmah Asrama.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Reintegrasi Sosial & Anti-Stigmatisasi Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan pemulihan martabat ke dalam **Arsitektur Tiga Sayap Reintegrasi Khuluqiyyah (*Arkan I'adati at-Ta'hil*)**:
 
 ```mermaid
 flowchart TD
-    subgraph ProtokolCleanSlateTUMBUH["PROTOKOL CLEAN SLATE & EXPUNGEMENT PESANTREN"]
-        PenyelesaianSanksi["1. TUNTASNYA RESTITUSI & TUGAS KHIDMAH RESTORATIF<br/>Santri telah menyelesaikan seluruh komitmen perbaikan adab."]
+    subgraph ArsitekturReintegrasiTUMBUH["ARSITEKTUR REINTEGRASI SOSIAL & ANTI-STIGMA"]
         
-        Monitoring["2. MASA PEMANTAUAN ADAB STABIL (30 HARI)<br/>Logbook PBIS mencatat perilaku konsisten positif tanpa pelanggaran baru."]
+        S1_Sayap["1. REINTEGRATIVE EMBRACE (Braithwaite Paradigm)<br/>Menolak perbuatan buruk dengan tegas, namun merangkul jiwa santri dengan penuh kasih."]
         
-        SegelData["3. PENYEGELAN BERKAS PELANGGARAN DI DATABASE DIGITAL<br/>Status poin santri di-reset kembali 100% bersih (Clean Slate)."]
+        S2_Sayap["2. MASA PEMBUKTIAN & PENDAMPINGAN 30-60 HARI (Probationary Mentoring)<br/>Pendampingan intensif musyrif & Duta Adab memfasilitasi habituasi amal shalih."]
         
-        MajelisUkhuwah["4. MAJELIS ISHLAH & DOA BERSAMA ASRAMA<br/>Makan bersama satu nampan dan komitmen saling menjaga kehormatan."]
+        S3_Sayap["3. PROTOKOL CLEAN SLATE & UPACARA ISHLAH (Expungement & Re-Inclusion)<br/>Penghapusan catatan digital terbuka, pemutihan poin, & sambutan persaudaraan kamar."]
         
-        PenyelesaianSanksi --> Monitoring --> SegelData --> MajelisUkhuwah
+        S1_Sayap <===> S2_Sayap <===> S3_Sayap
     end
 ```
 
----
-
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Rekam Jejak Pelanggaran Santri Harus Tetap Terbuka di Rapor Agar Santri Ingat Dosanya"
-* **Pihak A (Sudut Pandang Catatan Hitam Abadi)**:  
-  *"Catatan pelanggaran harus tertulis di rapor kelulusan biar santri selalu ingat masa lalunya!"*
-* **Tinjauan Maqashid Syari'ah Menutup Aib (*Satrul 'Aurah*)**:  
-  Membuka aib masa lalu santri yang telah bertobat di ijazah/rapor akhir adalah kezaliman yang menghalangi masa depan dan karir santri. Islam memerintahkan menutup aib (*Satrul Muslim*). Rapor akhir kelulusan hanya memuat capaian kompetensi dan karakter akhir yang telah matang.[^4]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Teman-Teman Sekamar Tidak Akan Mengungkit Kesalahan Pelaku Saat Bertengkar?
-* **Pihak A (Sudut Pandang Gosip Asrama)**:  
-  *"Anak-anak asrama pasti akan mengungkit-ungkit masa lalunya kalau lagi kesal!"*
-* **Tinjauan Aturan Baku Anti-Mengungkit Dosa (*Zero-Ta'yir Rule*)**:  
-  Pesantren TUMBUH memberlakukan aturan tegas bagi seluruh santri: siapa pun yang mengungkit dosa masa lalu temannya yang sudah bertobat akan dikenakan sanksi restoratif meminta maaf terbuka dan khidmah kebersihan kamar.[^5]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Pemberian Tanggung Jawab Baru Menjadi Kunci Kepercayaan Diri Santri?
-* **Pihak A (Sudut Pandang Isolasi Peran)**:  
-  *"Santri yang pernah bermasalah tidak boleh diberi amanah organisasi apa pun!"*
-* **Resolusi Keteladanan Nabawi Mendidik Pemimpin**:  
-  Memberikan amanah baru (seperti menjadi bendahara kamar atau panitia acara) membuktikan secara nyata bahwa lembaga mempercayai santri tersebut seutuhnya. Kepercayaan ini melahirkan dorongan psikologis yang luar biasa kuat (*Self-Fulfilling Prophecy of Virtue*) untuk menjaga amanah dengan sebaik-baiknya.[^6]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri H (kelas 10) pernah kedapatan melanggar aturan gawai di asrama. Setelah menjalani sanksi restoratif khidmah perpustakaan, beberapa santri sekamarnya menjauhi Santri H dan menjulukinya "Santri Selundup". Santri H merasa tertekan dan minder.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Musyrif TUMBUH mengintervensi seketika: Mengumpulkan seluruh santri kamar dalam Lingkaran Restoratif $\rightarrow$ Menjelaskan hadits larangan mencela dosa orang yang bertobat $\rightarrow$ Memimpin ikrar ukhuwah kamar $\rightarrow$ Menunjuk Santri H sebagai Koordinator Qiyamul Lail kamar pekan itu. Seluruh santri saling merangkul, sekat kecurigaan runtuh, dan kamar tersebut meraih predikat Kamar Paling Rukun teladan pondok.[^7]
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Reintegrative Embrace**: Memutus rantai siklus deviasi sekunder dan mengembalikan rasa berharga santri.[^7]
+2. **Sayap Masa Pembuktian**: Menyediakan panggung pembiasaan amal shalih nyata untuk membuktikan kesungguhan tobat.[^8]
+3. **Sayap Protokol Clean Slate**: Memberikan kepastian keadilan syar'i bahwa dosa yang telah ditobati tidak boleh dijadikan bahan fitnah seumur hidup.[^9]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 2. Matriks Tiga Fase Reintegrasi Sosial: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh
 
----
-
-### 1. Formulasi Konseptual: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghapusan Mutlak Stigmatisasi (zero Stigmatization Policy)**:  
-   Mengharamkan segala bentuk pelabelan negatif, sindiran masa lalu, dan pengucilan sosial terhadap santri yang telah menyelesaikan proses pertanggungjawaban restoratif dan bertobat dengan tulus.
-
-2. **Penerapan Prinsip Reintegrative Shaming (memisahkan Dosa Dari Pribadi Santri)**:  
-   Mewajibkan seluruh pendidik menolak keras perbuatan pelanggaran hukum syariat dan aturan pondok, namun tetap memuliakan, mengasihi, dan merangkul pribadi santri sebagai saudara seiman yang suci.
-
-3. **Protokol Pemutihan Rekam Jejak Digital (clean Slate & Expungement System)**:  
-   Menetapkan bahwa setelah masa pemantauan perilaku konsisten (30–60 hari), seluruh catatan poin pelanggaran di-reset kembali menjadi bersih dan diarsipkan secara tertutup dan rahasia.
-
-4. **Pemulihan Kepercayaan & Pemberian Amanah Baru**:  
-   Mewajibkan lembaga memberikan kesempatan yang adil bagi santri yang telah bertobat untuk menduduki posisi kepengurusan organisasi santri, tugas kepanitiaan, dan pendelegasian lomba tanpa diskriminasi.
-
-
----
-
-### 2. Matriks 3 Fase Reintegrasi: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh
-
-| Fase Reintegrasi | Durasi Waktu | Fokus Aktivitas Santri & Pendidik | Indikator Keberhasilan Sosial |
+| Fase Reintegrasi | Rentang Waktu | Fokus Aktivitas Pembinaan Santri | Indikator Keberhasilan Fase |
 | :--- | :--- | :--- | :--- |
-| **1. Fase Penyesuaian (*Adjustment*)** | Hari ke-1 s/d 14 | Penuntasan sanksi khidmah restoratif; konseling reflektif empat mata dwi-pekanan. | Santri menunjukkan keikhlasan & hubungan dengan korban membaik.[^8] |
-| **2. Fase Pembuktian (*Probation*)** | Hari ke-15 s/d 45 | Pembiasaan ibadah rutin; pemasangan sahabat pendamping (*Peer Buddy*). | Nihil pelanggaran berulang; logbook PBIS hijau stabil. |
-| **3. Fase Pemulihan Penuh (*Clean Slate*)**| Hari ke-46 ke atas | Pengaktifan status Clean Slate; pemberian amanah kepanitiaan baru; doa komunal.| Santri percaya diri, aktif berkontribusi, dan diterima hangat.[^9] |
+| **1. Penyesuaian (Adjustment)** | Hari ke-1 s/d 14 | Penuntasan restitusi 4R & bimbingan konselor BK.| Santri tenang, tidak defensif, minta maaf ikhlas.|
+| **2. Pembuktian (Probation)** | Hari ke-15 s/d 45| Penugasan proyek khidmah kamar & mentoring CICO.| Konsistensi kehadiran jamaah & keaktifan piket.|
+| **3. Pemulihan Penuh (Clean)** | Hari ke-46 s/d 60| Evaluasi akhir PBIS, aktivasi Clean Slate, & Upacara.| Rekam jejak diputihkan & diterima utuh di kamar.|
 
 ---
 
-### 3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak & Upacara Penerimaan Kembali
+### 3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak (Clean Slate SOP)
 
 ```mermaid
 flowchart TD
-    subgraph SOPReintegrasiKomunalTUMBUH["SOP REINTEGRASI KOMUNAL & CLEAN SLATE"]
-        VerifikasiTuntas["1. VERIFIKASI TUNTASNYA MASA PEMBUKTIAN OLEH TIM BK<br/>Memastikan santri lulus seluruh indikator perbaikan adab selama 45 hari."]
-        
-        ResetDatabase["2. EKSEKUSI CLEAN SLATE DI DATABASE LOGBOOK DIGITAL<br/>Status pelanggaran ditutup (Archived) & skor perilaku dipulihkan 100%."]
-        
-        MajelisKamar["3. MAJELIS ISHLAH & MAKAN NAMPAN UKHUWAH KAMAR<br/>Musyrif memandu doa keberkahan dan menyatukan kembali ikatan hati."]
-        
-        PemberianAmanah["4. PELANTIKAN AMANAH TUGAS BARU ASRAMA<br/>Santri diberikan tanggung jawab kepanitiaan untuk mengukuhkan harga dirinya."]
-        
-        VerifikasiTuntas --> ResetDatabase --> MajelisKamar --> PemberianAmanah
+    subgraph SOPCleanSlateExpungement["SOP PEMUTIHAN REKAM JEJAK (CLEAN SLATE)"]
+        VerifikasiMasaProbasi["1. VERIFIKASI PEMBUKTIAN: Koordinator PBIS Memeriksa Rekam Jejak 45 Hari Bebas Pelanggaran"]
+        --> RekomendasiKonselor["2. REKOMENDASI TERTULIS: Konselor BK & Musyrif Kamar Menerbitkan Surat Kelaikan Pemulihan"]
+        --> PengarsipanTertutup["3. ENKRIPSI DATA: Catatan Pelanggaran Ditutup dari Dashboard Publik & Diarsipkan Khusus"]
+        --> PenerbitanRaporBersih["4. PEMUTIHAN STATUS: Akun PBIS Santri Kembali Berstatus Hijau Bersih (Clean Slate Status)"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 4. Protokol Upacara Penerimaan Kembali Komunal (Social Re-Inclusion Ceremony Protocol)
+
+TUMBUH menetapkan **Protokol Majelis Penyambutan Kembali**:
+1. **Waktu & Suasana**: Dilaksanakan dalam halaqah kamar malam hari ba'da Isya dalam suasana hangat dan khusyuk.
+2. **Pernyataan Musyrif**: Musyrif menyampaikan bahwa seluruh konsekuensi telah tuntas dan masa lalu santri telah dihapuskan oleh Allah SWT.
+3. **Ikrar Persaudaraan Kamar**: Seluruh santri sekamar berdiri, saling berpelukan, dan berikrar untuk saling menjaga dan tidak mengungkit masa lalu (*Ta'awun 'alal Birri wat-Taqwa*).[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Reintegrasi & Anti-Stigma
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kesucian Taubat** | *At-Taubatu Tajubbu* | HR. Muslim No. 121, QS. Az-Zumar: 53 | Braithwaite (1989), *Crime, Shame and Reintegration* | Menghapus seluruh stigma masa lalu pasca-pertobatan tulus. |
-| **Menutup Aib** | *Satrul 'Aurah* | HR. Muslim No. 2699, HR. Tirmidzi 2505 | Becker (1963), *Outsiders: Studies in the Sociology of Deviance* | Mengharamkan label abadi yang memicu secondary deviance. |
-| **Pemutihan Rekam Jejak**| *Tabdilus Sayyi'at* | QS. Al-Furqan: 70 (Mengganti Dosa Jadi Kebaikan) | Maruna (2001), *Making Good: How Ex-Convicts Reform* | Menerapkan sistem Clean Slate digital pada logbook PBIS. |
-| **Pemberian Kepercayaan**| *Al-Amanah wal-I'timad*| Sirah Ikrimah bin Abi Jahal RA | Rosenthal & Jacobson (1968), *Pygmalion Effect* | Memberikan amanah baru untuk memperkuat identitas adab. |
+Prinsip reintegrasi sosial dan pemulihan martabat ini membawa implikasi agung bagi peradaban:
+
+* **Membuktikan Kemuliaan Syariat Islam Sebagai Agama Pengampunan dan Pemulihan**:  
+  Pesantren menyajikan cermin agung bahwa pintu tobat Allah senantiasa terbuka lebar bagi setiap hamba yang ingin kembali.
+* **Menghapus Tradisi Kasta dan Marginalisasi Sosial di Lingkungan Pendidikan**:  
+  Tidak ada santri yang dibuang ke pinggiran; setiap insan dipandang memiliki fitrah suci yang berharga dan berhak atas masa depan yang cerah.
+* **Melahirkan Generasi Pembela yang Berhati Lembut dan Penuh Empati**:  
+  Santri yang pernah merasakan indahnya pengampunan dan penerimaan akan tumbuh menjadi pemimpin yang bijaksana, pemaaf, dan pengasih kepada sesama (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Reintegrasi Sosial & Anti-Stigma
+
+| Dimensi Parameter | Mazhab Pelabelan Stigma (Lama) | Model Pembiaran Pasif Acuh | **Reintegrasi Restoratif TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sikap Pasca-Kasus** | Kesalahan diungkit selamanya.| Dibiarkan canggung tanpa mediasi.| **Dipisahkan Antara Dosa & Pelakunya.**| HR. Muslim No. 121; Braithwaite.| Reintegrative Shaming: Rangkul jiwa. |
+| **Status Rekam Jejak** | Rapor bertinta merah abadi.| Status mengambang tidak jelas.| **Clean Slate Protocol (Pemutihan).** | Becker (1963); Fiqh at-Taubah.| Data dienkripsi pasca-45 hari pembuktian. |
+| **Sikap Rekan Sebaya** | Menjauhi, curiga, & mengejek.| Menggunjing di belakang.| **Upacara Penerimaan Kembali Kamar.** | QS. Al-Hujurat: 12; PBIS Tier 3.| Ikrar ukhuwah & pelukan persaudaraan. |
+| **Konsep Diri Santri** | Rusak (Internalize Deviant Label).| Minder & menutup diri.| **Percaya Diri & Terlahir Kembali Suci.**| Atsar Sayyidina Umar RA; Al-Ghazali.| Diberi amanah tanggung jawab baru. |
+| **Hasil Institusi** | Kenakalan berulang (Recidivism tinggi).| Iklim dingin tanpa ukhuwah.| **Generasi Teladan Khidmah Berakhlak.**| QS. Az-Zumar: 53; Al-Attas (1980).| Pesantren pencetak pribadi suci mulia. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **At-Tirmidzi, Muhammad bin Isa**. (1998). *Sunan at-Tirmidzi*. Beirut: Dar al-Gharb al-Islami.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Braithwaite, J.**. (1989). *Crime, Shame and Reintegration*. Cambridge: Cambridge University Press.
-7. **Becker, H. S.**. (1963). *Outsiders: Studies in the Sociology of Deviance*. New York: Free Press.
-8. **Maruna, S.**. (2001). *Making Good: How Ex-Convicts Reform and Rebuild Their Lives*. American Psychological Association.
-9. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Good Books.
-10. **Rosenthal, R., & Jacobson, L.**. (1968). *Pygmalion in the classroom*. The Urban Review.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **Ibnu Qayyim al-Jauziyyah, Syamsuddin Abu Abdillah**. (1416 H). *Madarij as-Salikin Baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Bab Manzilat at-Taubah). Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab at-Taubah). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Braithwaite, J.**. (1989). *Crime, Shame and Reintegration*. Cambridge: Cambridge University Press.
+9. **Becker, H. S.**. (1963). *Outsiders: Studies in the Sociology of Deviance*. New York: Free Press.
+10. **Lemert, E. M.**. (1967). *Human Deviance, Social Problems, and Social Control*. Englewood Cliffs: Prentice-Hall.
+11. **Maruna, S.**. (2001). *Making Good: How Ex-Convicts Reform and Rebuild Their Lives*. Washington, D.C.: American Psychological Association.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Shahih Muslim No. 121, Kitab *al-Iman*, Bab *Kawnul Islami Yahdimu Ma Qablahu*.  
-[^2]: Ibid., No. 121.  
-[^3]: Braithwaite, J. (1989), *Crime, Shame and Reintegration*, Cambridge University Press, hlm. 54–85; Becker (1963), *Outsiders*.  
-[^4]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Afat al-Lisan*, Jilid III, hlm. 120–145.  
-[^5]: Sunan at-Tirmidzi No. 2505, Kitab *Shifat al-Qiyamah*, Bab *Fi Man 'Ayyara bi Dzanb*.  
-[^6]: Rosenthal & Jacobson (1968), *Pygmalion in the classroom*; Maruna (2001), *Making Good*.  
-[^7]: Laporan Kasus Reintegrasi Kamar Asrama Terpadu, Divisi Pengasuhan TUMBUH, 2026.  
-[^8]: Panduan Musyrif: Protokol Reintegrasi dan Pemulihan Santri Pasca-Sanksi, Biro Pengasuhan TUMBUH, 2026.  
-[^9]: SOP Sistem Pemutihan Rekam Jejak Digital (Clean Slate Protocol), Komite PBIS TUMBUH, 2026.
+[^1]: Riset Prinsip Reintegrasi Sosial dan Pembersihan Stigma Santri TUMBUH, *Kritik atas Bahaya Pelabelan Abadi*, 2026.  
+[^2]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 121.  
+[^3]: Atsar Sayyidina Umar bin Khattab RA mengenai pemuliaan orang yang bertobat; Ibnu Qayyim, *Madarij as-Salikin*, Jilid 1, Bab *At-Taubah*, hlm. 310–345.  
+[^4]: Braithwaite, J. (1989), *Crime, Shame and Reintegration*; Becker, H. S. (1963); Lemert, E. M. (1967).  
+[^5]: Master Blueprint Clean Slate Protocol dan Pemutihan Rekam Jejak PBIS TUMBUH, 2026.  
+[^6]: Dokumentasi Keberhasilan Reintegrasi Sosial dan Penobatan Duta Khidmah PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Paradigma Reintegrative Shaming Ekosistem TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur Pendampingan Masa Pembuktian Karakter TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Enkripsi dan Pengarsipan Tertutup Data Pelanggaran Santri TUMBUH, 2026.  
+[^10]: Master Guidelines Protokol Upacara Penerimaan Kembali Komunal Asrama TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Martabat Pertobatan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Reintegrasi, Clean Slate, Labeling, & At-Taubah
+### 4. Glosarium Istilah Ilmiah & Turats Reintegrasi Sosial
 
-1. **At-Taubatu Tajubbu Ma Qablaha (التَّوْبَةُ تَجُبُّ مَا قَبْلَهَا)**: Kaidah syariat Islam yang menetapkan bahwa pertobatan yang tulus menggugurkan dan menghapus seluruh akibat dosa masa lalu.
-2. **Reintegrative Shaming**: Pendekatan disiplin yang menolak keras perbuatan salah namun tetap merangkul dan menerima pelakunya kembali ke dalam komunitas.
-3. **Clean Slate Protocol**: Mekanisme penghapusan dan penyegelan data rekam jejak pelanggaran santri setelah masa pembuktian perbaikan perilaku berhasil dilalui.
-4. **Secondary Deviance**: Kecenderungan individu mengulangi perilaku menyimpang akibat cap/label buruk yang terus dilekatkan masyarakat kepadanya.
-5. **Satrul 'Aurah (سَتْرُ الْعَوْرَةِ)**: Kewajiban syariat untuk menutupi kelemahan, cacat, dan aib masa lalu sesama muslim dari konsumsi publik.
-6. **Social Re-Inclusion**: Proses pemulihan kedudukan sosial dan penerimaan kembali individu ke dalam dinamika kelompok tanpa diskriminasi.
-7. **Ta'yir (التَّعْيِيرُ)**: Tindakan tercela mengungkit-ungkit dosa atau kesalahan masa lalu orang lain yang telah bertobat.
-8. **Pygmalion Effect**: Fenomena psikologis di mana ekspektasi positif dan kepercayaan tinggi yang diberikan pendidik mendorong peningkatan perilaku nyata peserta didik.
-9. **Taubat Nasuha (تَوْبَةٌ نَصُوحٌ)**: Pertobatan murni yang dilandasi penyesalan mendalam, penghentian kemaksiatan seketika, dan tekad kuat untuk tidak mengulanginya.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip mutlak di mana pemulihan santri secara adil menyucikan jiwa Santri, mengasah kemuliaan akhlak Pendidik, dan memperkuat kesolidan Lembaga.
+1. **Social Reintegration (Reintegrasi Sosial)**: Proses pendampingan terencana untuk menerima kembali santri yang telah menjalani konsekuensi ke dalam kehidupan sosial komunitas secara utuh.
+2. **At-Taubatu Tajubbu Ma Qablaha (التَّوْبَةُ تَجُبُّ مَا قَبْلَهَا)**: Doktrin syariat Islam bahwa pertobatan yang tulus menghapuskan seluruh dosa dan rekam jejak kesalahan masa lalu.
+3. **Reintegrative Shaming**: Pendekatan restoratif yang menolak perbuatan melanggar secara tegas, namun merangkul kembali pribadi santri dengan pengampunan dan kasih sayang.
+4. **Disintegrative Shaming**: Pendekatan punitif yang mempermalukan santri dan mencapnya sebagai orang buangan, yang memicu deviasi sekunder.
+5. **Clean Slate Protocol**: Prosedur resmi institusi untuk memutihkan status poin dan mengenkripsi catatan pelanggaran santri setelah masa pembuktian selesai.
+6. **Secondary Deviance**: Kecenderungan seseorang untuk terus melakukan pelanggaran berulang akibat telah dicap negatif oleh lingkungan sosialnya.
+7. **Social Re-Inclusion Ceremony**: Upacara persaudaraan kamar di mana warga kamar secara bersama-sama mengikrarkan penerimaan kembali santri tanpa prasangka.
+8. **Expungement of Records**: Tindakan pengarsipan rahasia dan penghapusan data pelanggaran dari akses publik guna melindungi masa depan santri (*Satrul 'Aurah*).
+9. **Taharatun Nafs (طَهَارَةُ النَّفْسِ)**: Kesucian jiwa yang diraih kembali melalui penyesalan tulus, restitusi ganti rugi, dan perbaikan amal shalih.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang bangkit dari kekhilafan masa lalu, memiliki integritas yang telah teruji, dan menjadi pribadi yang bertakwa serta mulia.

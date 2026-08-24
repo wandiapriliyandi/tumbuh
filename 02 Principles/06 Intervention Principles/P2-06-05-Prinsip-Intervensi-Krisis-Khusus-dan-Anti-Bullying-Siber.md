@@ -1,183 +1,144 @@
-# P2-06-05: PRINSIP INTERVENSI KRISIS KHUSUS, DE-ESKALASI AGRESI, DAN MITIGASI PERUNDUNGAN SIBER
-## *Monograf Terpadu: Protokol Syar'i Daf'u al-Mafasid & Perlindungan Hak Santri, Manajemen De-Eskalasi Krisis Agresi Akut (Nonviolent Crisis Intervention), Mitigasi Perundungan Siber (Cyberbullying & Toxic Online Exposure), Kanal Pelaporan Rahasia Terlindungi (Whistleblower Protection), serta Pendampingan Trauma Psikososial Santri*
+# P2-06-05: PRINSIP INTERVENSI KRISIS KHUSUS, DE-ESKALASI AGRESI, DAN MITIGASI PERUNDUNGAN SIBER (SPECIAL CRISIS INTERVENTION & CYBERBULLYING MITIGATION)
+## *Monograf Riset Akademik: Epistemologi Daf'u al-Mafasid Muqaddamun 'ala Jalbil Mashalih & Hifzhun Nafs, Nonviolent Crisis Intervention, Mitigasi Perundungan Siber (Cyberbullying), Kanal Pelaporan Aman Whistleblower Protection, Serta Pendampingan Trauma Psikososial di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-06-05/MONOGRAF-TERPADU-KRISIS-AGRESI-CYBERBULLYING/2026`  
-**Domain**: `02 Principles` > `06 Intervention Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Standar Baku Intervensi Krisis Pesantren)  
+**Nomor Identifikasi**: `P2-06-05/MONOGRAF-RISET-KRISIS-AGRESI-CYBERBULLYING/2026`  
+**Domain**: `02 Principles` > `06 Intervention Principles` (Prinsip Intervensi 05: *Special Crisis Intervention & Cyberbullying Mitigation*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Intervensi)  
 **Rumpun Disiplin Pengkaji**: Psikologi Krisis & Intervensi Trauma Remaja, Perlindungan Anak & Advokasi Hak Santri (*Child Safeguarding*), Manajemen Konflik & De-Eskalasi Krisis, Keamanan Siber & Etika Digital Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Krisis Emosional Akut Membutuhkan Regulasi Ketenangan, Bukan Agresi Balik:**  
->   Saat santri mengalami amukan emosi histeris (*Meltdown*) atau terlibat perkelahian fisik, asatidz dilarang keras merespon dengan pukulan atau bentakan. Terapkan protokol **De-Eskalasi Non-Violent (Ketenangan Nada Suara & Jaga Jarak Aman 1,5 Meter)** untuk menurunkan hormon kortisol santri.
-> * **Bahaya Perundungan Siber (*Cyberbullying*) di Era Digital:**  
->   Perundungan di era modern tidak hanya terjadi di kamar asrama, tetapi merambah ke grup WhatsApp, media sosial santri, dan forum daring rahasia (*Doxxing, Body Shaming, Pengucilan Siber*).
-> * **Kanal Pelaporan Rahasia Terlindungi (*Safe Whistleblowing*):**  
->   Sediakan Kotak Suara Aman digital dan fisik di mana santri korban atau saksi perundungan dapat melapor tanpa takut diintimidasi atau dicap "tukang ngadu".
+> * **Kelemahan Paradigma Lama: Kealpaan Mengantisipasi Krisis Khusus & Kekerasan Digital:**  
+>   Banyak pesantren tidak memiliki SOP penanganan krisis khusus (seperti santri berniat melukai diri, agresi senjata tajam, atau depresi berat). Ketika santri mengalami histeria (*Meltdown*), pengurus merespons dengan memborgol atau mengurung di ruangan gelap. Di sisi lain, perundungan telah merambah ke dunia digital (*Cyberbullying, Doxxing, Grup WhatsApp Aib*) yang luput dari pantauan musyrif.
+> * **Inovasi Konseptual: Daf'u al-Mafasid & Child Safeguarding Framework:**  
+>   TUMBUH mengoperasionalkan kaidah ushul *Daf'u al-Mafasid Muqaddamun 'ala Jalbil Mashalih* (menolak kerusakan didahulukan daripada menarik kemaslahatan) dan maqashid *Hifzhun Nafs* (perlindungan jiwa dan kehormatan manusia). Mengintegrasikan teori **Nonviolent Crisis Intervention & Trauma-Informed Safeguarding**: menghadirkan **Tim Crisis Response Asrama (CRA)**, **Kanal Pelaporan Rahasia Terlindungi (*Whistleblower Safeguards / Kotak Tabayyun*)**, dan **Protokol Mitigasi Perundungan Siber Terpadu**.
+> * **Formulasi Operasional & Penjaminan Perlindungan Korban:**  
+>   Monograf ini menguraikan matriks 4 fase penanganan krisis akut, SOP penanganan kasus cyberbullying & perlindungan korban, protokol pendampingan trauma (*Post-Crisis Care*), dan etika kerahasiaan konseling klinis (*Satrul 'Aurah*).
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET INTERVENSI KRISIS AKUT, DE-ESKALASI, & PERUNDUNGAN SIBER](#bagian-i-riset-intervensi-krisis-akut-de-eskalasi--perundungan-siber)
-  - [1. Kerangka Metodologi Intervensi Krisis: Mengapa Pesantren Membutuhkan Protokol Khusus Tier 3 PBIS](#1-kerangka-metodologi-intervensi-krisis-mengapa-pesantren-membutuhkan-protokol-khusus-tier-3-pbis)
-  - [2. Inkuiri 1: Eksegesis Turats Daf'u al-Mafasid Muqaddamun 'ala Jalbil Mashalih & Hak Perlindungan Jiwa (Hifzhun Nafs)](#2-inkuiri-1-eksegesis-turats-dafu-al-mafasid-muqaddamun-ala-jalbil-mashalih--hak-perlindungan-jiwa-hifzhun-nafs)
-  - [3. Inkuiri 2: Protokol De-Eskalasi Krisis Non-Violent & Regulasi Trauma Neurosains Remaja](#3-inkuiri-2-protokol-de-eskalasi-krisis-non-violent--regulasi-trauma-neurosains-remaja)
-  - [4. Inkuiri 3: Dekonstruksi Perundungan Siber (Cyberbullying) & Desain Sistem Pelaporan Anonim Terlindungi](#4-inkuiri-3-dekonstruksi-perundungan-siber-cyberbullying--desain-sistem-pelaporan-anonim-terlindungi)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH](#1-formulasi-konseptual-standar-manajemen-krisis-anti-bullying-siber-pesantren-tumbuh)
-  - [2. Matriks 4 Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis](#2-matriks-4-tahap-penanganan-krisis-pemicu-eskalasi-puncak-krisis--pemulihan-pasca-krisis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Ketiadaan Mitigasi Krisis Khusus dan Ancaman Tersembunyi Perundungan Siber](#1-latar-belakang-masalah-kritik-atas-ketiadaan-mitigasi-krisis-khusus-dan-ancaman-tersembunyi-perundungan-siber)
+  - [2. Eksegesis Turats Perlindungan Jiwa & Pencegahan Mudarat: Kaidah Daf'u al-Mafasid & Maqashid Hifzhun Nafs](#2-eksegesis-turats-perlindungan-jiwa--pencegahan-mudarat-kaidah-dafu-al-mafasid--maqashid-hifzhun-nafs)
+  - [3. Konvergensi Sains Perlindungan Anak: Nonviolent Crisis Intervention & Trauma-Informed Safeguarding](#3-konvergensi-sains-perlindungan-anak-nonviolent-crisis-intervention--trauma-informed-safeguarding)
+  - [4. Rekayasa Kanal Pelaporan Rahasia Terlindungi (Whistleblower Protection) & Deteksi Siber Tanpa Tajassus](#4-rekayasa-kanal-pelaporan-rahasia-terlindungi-whistleblower-protection--deteksi-siber-tanpa-tajassus)
+  - [5. Kasuistika Lapangan: Penanganan Kasus Perundungan Siber Grup WhatsApp & Pemulihan Korban](#5-kasuistika-lapangan-penanganan-kasus-perundungan-siber-grup-whatsapp--pemulihan-korban)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Manajemen Krisis Khusus & Anti-Bullying Siber Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-manajemen-krisis-khusus--anti-bullying-siber-pesantren-tumbuh)
+  - [2. Matriks Empat Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis](#2-matriks-empat-tahap-penanganan-krisis-pemicu-eskalasi-puncak-krisis--pemulihan-pasca-krisis)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Kasus Perundungan Siber & Perlindungan Korban](#3-standar-prosedur-operasional-sop-penanganan-kasus-perundungan-siber--perlindungan-korban)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Intervensi Krisis & Anti-Bullying](#1-tabel-sintesis-hasil-riset-intervensi-krisis--anti-bullying)
+  - [4. Protokol Pendampingan Trauma Psikososial Santri (Trauma-Informed Healing Protocol)](#4-protokol-pendampingan-trauma-psikososial-santri-trauma-informed-healing-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Intervensi Krisis & Anti-Bullying Siber](#1-tabel-sintesis-temuan-riset-intervensi-krisis--anti-bullying-siber)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Intervensi Krisis, De-Eskalasi, Cyberbullying, & Hifzhun Nafs](#4-glosarium-teknis-intervensi-krisis-de-eskalasi-cyberbullying--hifzhun-nafs)
+  - [4. Glosarium Istilah Ilmiah & Turats Intervensi Krisis dan Cyberbullying](#4-glosarium-istilah-ilmiah--turats-intervensi-krisis-dan-cyberbullying)
 
 ---
 
-# BAGIAN I: RISET INTERVENSI KRISIS AKUT, DE-ESKALASI, & PERUNDUNGAN SIBER
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Intervensi Krisis: Mengapa Pesantren Membutuhkan Protokol Khusus Tier 3 PBIS
+### 1. Latar Belakang Masalah: Kritik atas Ketiadaan Mitigasi Krisis Khusus dan Ancaman Tersembunyi Perundungan Siber
 
 Dalam piramida intervensi PBIS (*Positive Behavioral Interventions and Supports*), sekitar **1–5% populasi santri berada pada Tier 3 (Krisis Intensif / Risiko Tinggi)**:
-* Santri pada Tier 3 mengalami permasalahan kompleks seperti trauma masa lalu (*Adverse Childhood Experiences / ACEs*), kecanduan game/pornografi digital akut, agresi fisik tidak terkendali, atau menjadi korban/pelaku perundungan siber (*Cyberbullying*).
-* Menangani kasus Tier 3 dengan hukuman konvensional (seperti dijemur di lapangan terik atau dicukur botak separuh) terbukti secara neuropsikologis memperparah trauma santri dan memicu dendam ekstrem.
-* Ekosistem TUMBUH merancang **Protokol Intervensi Krisis Terpadu**: menggabungkan teknik de-eskalasi non-kekerasan, bimbingan konseling klinis bersertifikat, mediasi restoratif syar'i, dan jaminan kerahasiaan pelapor (*Whistleblower Safeguard*).
+* Santri pada Tier 3 mengalami permasalahan kompleks: trauma masa lalu (*Adverse Childhood Experiences / ACEs*), kecanduan digital akut, agresi impulsif, depresi berat, atau menjadi korban/pelaku perundungan siber (*Cyberbullying*).
+* Di era modern, perundungan tidak lagi sebatas perkelahian fisik di asrama, melainkan bertransformasi menjadi kekerasan digital: pembuatan stiker WhatsApp mengejek fisik teman (*Body Shaming*), penyebaran aib (*Doxxing*), dan pengucilan massal di grup media sosial.
+* **Kelemahan Penanganan Konvensional**: Pengurus pondok merespons krisis dengan memarahi korban atau menghukum pelaku dengan hukuman fisik yang memicu trauma baru.
+* **Keniscayaan Protokol Intervensi Krisis Khusus**: Diperlukan tata kelola perlindungan anak terpadu (*Comprehensive Child Safeguarding*) yang memadukan de-eskalasi profesional, perlindungan identitas pelapor (*Whistleblower Safeguards*), dan pemulihan trauma psikososial.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph AlurIntervensiKrisisTUMBUH["ALUR INTERVENSI KRISIS KHUSUS & TIER 3 PBIS"]
-        Laporan["1. DETEKSI DINI / LAPORAN AMAN ANONIM DIGITAL (KOTAK TABAYYUN)<br/>Sistem menerima laporan indikasi bullying/krisis mental tanpa membocorkan identitas."]
+    subgraph TransformasiMitigasiKrisis["TRANSFORMASI MANAJEMEN KRISIS & PERUNDUNGAN"]
+        PolaAbaiLama["KEALPAAN PROTOKOL KRISIS (LAMA)<br/>• Korban bullying dipojokkan 'jangan cengeng'.<br/>• Kejahatan siber grup WhatsApp luput terpantau.<br/>• Hukuman kasar memicu trauma & percobaan bunuh diri."]
         
-        TriaseKrisis["2. TRIASE CEPAT TIM CRISIS RESPONSE ASRAMA (CRA):<br/>Asesmen tingkat ancaman keselamatan fisik & stabilitas psikologis santri."]
+        PolaKrisisTUMBUH["CHILD SAFEGUARDING & ANTI-CYBERBULLYING (TUMBUH)<br/>• Kaidah Daf'u al-Mafasid & Hifzhun Nafs Maqashid.<br/>• Tim Crisis Response Asrama (CRA) & De-Eskalasi Nonviolent.<br/>• Kanal Tabayyun Rahasia & Pemulihan Trauma Korban."]
         
-        DeEskalasi["3. DE-ESKALASI KRISIS & STABILISASI EMOSI (NON-VIOLENT):<br/>Pemisahan ruang aman, teknik pernapasan lambat, & kehadiran tenang asatidz."]
-        
-        Investigasi["4. INVESTIGASI RESTORATIF & INTERVENSI TIER 3:<br/>Konseling trauma, perjanjian restitusi ganti rugi, & rencana pemulihan adab."]
-        
-        Laporan ==> TriaseKrisis ==> DeEskalasi ==> Investigasi
+        PolaAbaiLama ==>|DIREKONSTRUKSI MENJADI| PolaKrisisTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Daf'u al-Mafasid Muqaddamun 'ala Jalbil Mashalih & Hak Perlindungan Jiwa (Hifzhun Nafs)
+### 2. Eksegesis Turats Perlindungan Jiwa & Pencegahan Mudarat: Kaidah Daf'u al-Mafasid & Maqashid Hifzhun Nafs
 
-```mermaid
-graph TD
-    A["Gugatan Pembiaran Konflik (Pihak A):<br/>'Biarkan saja anak-anak asrama bertengkar; itu dinamika wajar anak laki-laki; tidak perlu asatidz ikut campur!'"]
-    --> B1["Tinjauan Kaidah Fiqhiyyah Induk:<br/>'Daf'u al-mafasid muqaddamun 'ala jalbil mashalih' (Menolak kerusakan dan bahaya wajib didahulukan daripada mengejar kebaikan)."]
-    A --> B2["Tinjauan Maqashid Syari'ah: Hifzhun Nafs & Hifzhul 'Irdh:<br/>Wajib syar'i bagi pengasuh melindungi nyawa, fisik, dan martabat kehormatan santri dari segala bentuk kezaliman."]
-    A --> B3["Tinjauan Hadits Larangan Membahayakan (HR. Ibnu Majah No. 2340):<br/>'La dharara wa la dhiraar' (Tidak boleh ada bahaya dan tidak boleh saling membahayakan dalam Islam)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Perundungan dan kekerasan adalah mafsadat mutlak yang wajib dicegah dan ditindak tegas seketika."]
-```
+Ushul Fiqh meletakkan kaidah fundamental prioritas perlindungan kemaslahatan:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pembiaran tindak perundungan, kekerasan fisik, dan penghinaan kehormatan di lingkungan pendidikan Islam adalah pelanggaran berat terhadap Maqashid Syari'ah (*Hifzhun Nafs wal-'Irdh*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Protokol penanganan krisis TUMBUH menghentikan seketika setiap eskalasi kekerasan dan melindungi martabat seluruh santri.
-* **Konklusi (*an-Natijah*)**: Maka, penerapan SOP intervensi krisis dan anti-bullying adalah kewajiban syar'i mutlak bagi pengasuhan pesantren.[^1]
+$$\text{دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ}$$
 
-#### 📖 Teks Primer Hadits: Larangan Menimbulkan Bahaya dalam Islam
-Rasulullah SAW menegaskan:
+*"**Menolak dan mencegah timbulnya kerusakan (kemudaratan/bahaya) harus didahulukan daripada menarik kemaslahatan**."*[^2]
 
-$$\text{لَا ضَرَرَ وَلَا ضِرَارَ}$$
-
-*"**Tidak boleh ada bahaya (mencelakai diri sendiri) dan TIDAK BOLEH SALING MEMBAHAYAKAN (MENCELAKAI ORANG LAIN) DALAM ISLAM!**"* (HR. Ibnu Majah No. 2340; Ahmad No. 2865; Hadits Hasan).[^2]
+Maqashid Syari'ah menempatkan **Perlindungan Jiwa dan Kehormatan (*Hifzhun Nafs wal-'Irdh*)** sebagai pilar dharuriyyat tertinggi yang wajib dijaga oleh institusi pendidikan Islam dari segala bentuk kezaliman dan perundungan.[^3]
 
 ---
 
-### 3. Inkuiri 2: Protokol De-Eskalasi Krisis Non-Violent & Regulasi Trauma Neurosains Remaja
+### 3. Konvergensi Sains Perlindungan Anak: Nonviolent Crisis Intervention & Trauma-Informed Safeguarding
 
-Saat santri berada dalam puncak amarah (*Amygdala Hijack*):
-1. **Nada Suara Rendah dan Lambat (*Low-Pitch Tone*):** Menurunkan frekuensi suara guru secara otomatis memicu respon parasimpatis pada otak santri.
-2. **Jaga Jarak Fisik Aman (*Proximity Control*):** Menjaga jarak minimal 1,5 meter untuk mencegah santri merasa terpojok atau terancam.
-3. **Bahasa Tubuh Terbuka (*Open Posture*):** Kedua tangan terbuka di samping tubuh tanpa menyilangkan lengan atau menunjuk wajah santri.
-4. **Validasi Perasaan Tanpa Menjustifikasi Perilaku:** Mengucapkan *"Ustadz paham kamu sangat marah saat ini, tapi kita tidak memukul teman. Mari tarik napas dulu bersama ustadz"*.[^3]
+Sains manajemen krisis sekolah modern (**Nonviolent Crisis Intervention**, CPI, 2020; Trauma-Informed Care, Bath, 2008) membuktikan:
+* Penanganan krisis akut menuntut stabilitas emosi penolong (*Adult De-escalation Mastery*), pemisahan fisik lingkungan secara aman (*Safe Physical Separation*), dan penghindaran mutlak sentuhan fisik agresif.
+* **Perlindungan Psikososial Terpadu**: Korban perundungan membutuhkan intervensi 3 pilar: *Safety* (rasa aman fisik-digital), *Connection* (keterikatan sosial positif), dan *Coping Skills* (keterampilan resiliensi).[^4]
 
 ---
 
-### 4. Inkuiri 3: Dekonstruksi Perundungan Siber (*Cyberbullying*) & Desain Sistem Pelaporan Anonim Terlindungi
+### 4. Rekayasa Kanal Pelaporan Rahasia Terlindungi (Whistleblower Protection) & Deteksi Siber Tanpa Tajassus
+
+TUMBUH merancang ekosistem pelaporan yang aman:
+* **Kotak Tabayyun Digital & Fisik**: Kanal pelaporan anonim terenkripsi di mana santri korban atau saksi perundungan dapat melapor tanpa takut dicap "tukang ngadu" (*Anti-Snitch Culture*).
+* **Deteksi Etis Bebas Tajassus**: Pengawasan dilakukan pada platform resmi institusi dan aduan publik tanpa melanggar privasi percakapan pribadi (*Satrul 'Aurah*).[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Penanganan Kasus Perundungan Siber Grup WhatsApp & Pemulihan Korban
+
+* **Studi Kasus: Santri Kelas 8 Mengurung Diri di Kamar Mandi Karena Dibuatkan Akun Palsu dan Fotonya Diedit Menjadi Bahan Ejekan di Grup Chat**  
+  * **Dilema**: Santri korban mengalami kecemasan sosial akut dan menolak masuk kelas; orang tua korban menuntut lapor polisi.
+  * **Resolusi Krisis Khusus TUMBUH**: Tim CRA bergerak cepat: (1) Mengamankan santri korban ke ruang konseling dan memberikan pendampingan psikologis awal (*Safety First*); (2) Memverifikasi barang bukti digital melalui kanal laporan (*Tabayyun*); (3) Mengumpulkan 3 santri pembuat konten dalam sesi dialog mediasi; (4) Pembuat konten menghapus seluruh materi, meminta maaf tulus di depan orang tua, dan berkomitmen membuat proyek kampanye anti-bullying; (5) Korban mendapatkan pemulihan trauma selama 4 pekan hingga percaya dirinya pulih sempurna.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Manajemen Krisis Khusus & Anti-Bullying Siber Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan manajemen krisis ke dalam **Arsitektur Tiga Sayap Perlindungan Krisis (*Arkan Himayatil Insan*)**:
 
 ```mermaid
 flowchart TD
-    subgraph StrategiAntiCyberbullyingPesantren["STRATEGI ANTI-CYBERBULLYING PESANTREN TUMBUH"]
-        EdukasiDigital["1. LITERASI DIGITAL & ADAB SIBER (FIQH DIGITAL)<br/>Mendidik santri mengenai dosa ghibah siber, doxxing, dan hukum ITE."]
+    subgraph ArsitekturKrisisTUMBUH["ARSITEKTUR INTERVENSI KRISIS & ANTI-CYBERBULLYING"]
         
-        SOPGawai["2. MANAJEMEN PENGGUNAAN GAWAI TERPANTAU (RESTRICTED TIME)<br/>Gawai hanya digunakan untuk riset dan komunikasi terjadwal di lab/sentra."]
+        K1_Sayap["1. TIM CRISIS RESPONSE ASRAMA (CRA Team & Safe Triase)<br/>Triase cepat darurat, de-eskalasi non-violent, & stabilisasi keselamatan fisik/psikologis."]
         
-        KotakTabayyun["3. KANAL DIGITAL PELAPORAN ANONIM RAHASIA (KOTAK TABAYYUN)<br/>Santri dapat mengirim bukti screenshot perundungan secara aman 24 jam."]
+        K2_Sayap["2. PROTOKOL MITIGASI SIBER & KOTAK TABAYYUN (Digital Safeguarding)<br/>Kanal aduan rahasia terlindungi, respon cepat 1x24 jam, & pembersihan jejak perundungan."]
         
-        AuditSiber["4. TIM CYBER-CARE PBIS & PENDAMPINGAN PSIKOLOGIS KORBAN<br/>Penghapusan konten negatif seketika & pemulihan rasa aman korban."]
+        K3_Sayap["3. PEMULIHAN TRAUMA KORBAN (Trauma-Informed Healing Care)<br/>Pendampingan konselor profesional, pemulihan konsep diri, & reintegrasi aman tanpa stigma."]
         
-        EdukasiDigital --> SOPGawai --> KotakTabayyun --> AuditSiber
+        K1_Sayap <===> K2_Sayap <===> K3_Sayap
     end
 ```
 
----
-
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Santri yang Menjadi Pelaku Bullying Harus Langsung Dikeluarkan (Drop-Out) Tanpa Ampun"
-* **Pihak A (Sudut Pandang Eksklusi Keras)**:  
-  *"Langsung keluarkan saja dari pondok biar tidak mencemari santri lain!"*
-* **Tinjauan Kriminologi Pemulihan & Tarbiyah Ishlah**:  
-  Langsung mengeluarkan santri pelaku tanpa pembinaan hanya akan memindahkan masalah ke masyarakat luar dan melahirkan penjahat baru. Pendekatan TUMBUH adalah memberikan sanksi restoratif berbobot (restitusi, khidmah membersihkan masjid 30 hari, konseling intensif Tier 3) sembari menjamin keamanan total bagi korban. Drop-out hanya diambil sebagai opsi terakhir (*Ultimum Remedium*) jika pelaku membahayakan nyawa dan menolak seluruh program ishlah.[^4]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Pelaporan Anonim Tidak Memicu Fitnah dan Adu Domba Palsu?
-* **Pihak A (Sudut Pandang Ketakutan Fitnah)**:  
-  *"Pelaporan rahasia akan dimanfaatkan santri nakal untuk memfitnah teman yang tidak disukai!"*
-* **Tinjauan Verifikasi Berlapis (*Multi-Tier Tabayyun Protocol*)**:  
-  Setiap laporan anonim tidak pernah langsung dijadikan vonis. Tim Respon Krisis wajib melakukan verifikasi bukti digital, rekaman CCTV asrama, dan kesaksian saksi independen (*Syahadah 'Adlain*) sebelum mengambil tindakan.[^5]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Korban Bullying Membutuhkan Pemulihan Trauma Jangka Panjang?
-* **Pihak A (Sudut Pandang Remeh Temeh Emosi)**:  
-  *"Korban bullying cuma perlu dibilangin 'sudah lupakan saja, jangan cengeng'!"*
-* **Resolusi Trauma Neurosains Remaja**:  
-  Korban perundungan mengalami hiperaktif amigdala dan penyusutan volume hipokampus jika tidak ditangani (*Post-Traumatic Stress Symptoms*). Memulihkan rasa aman korban membutuhkan pendampingan konseling empati, perlindungan sahabat sebaya (*Safe Peer Circle*), dan pemulihan martabat di hadapan komunitas.[^6]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di media sosial santri, beredar foto meme manipulatif yang memperolok bentuk fisik Santri G (kelas 8). Santri G mengalami depresi berat, mogok makan selama 3 hari, dan mengurung diri di kamar mandi.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Tim Respon Krisis TUMBUH bergerak cepat: Menyelamatkan dan mendampingi Santri G di ruang BK aman $\rightarrow$ Mengidentifikasi 3 santri pembuat meme melalui jejak digital forensik $\rightarrow$ Mewajibkan pelaku menghapus seluruh konten dan membuat video permintaan maaf tulus $\rightarrow$ Pelaku dikenakan tugas khidmah sosial menanam 50 pohon di kebun pondok dan mengikuti konseling empati selama 1 semester. Santri G pulih rasa percaya dirinya dan prestasinya melonjak kembali.[^7]
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Tim Crisis Response Asrama**: Memastikan respons tanggap darurat berjalan profesional dan terkoordinasi.[^7]
+2. **Sayap Protokol Mitigasi Siber**: Membentengi santri dari racun kekerasan digital yang merusak kehormatan jiwa.[^8]
+3. **Sayap Pemulihan Trauma Korban**: Menyembuhkan luka batin korban hingga mampu bangkit kembali dengan optimisme penuh.[^9]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 2. Matriks Empat Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis
 
----
-
-### 1. Formulasi Konseptual: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Perlindungan Mutlak Keselamatan Santri (zero Violence & Zero Bullying)**:  
-   Menetapkan perlindungan total terhadap keselamatan fisik, psikologis, dan kehormatan martabat santri; mengharamkan mutlak segala bentuk kekerasan fisik, intimidasi verbal, dan perundungan siber di pondok.
-
-2. **Penerapan Protokol De-eskalasi Krisis Non-kekerasan (nonviolent De-escalation)**:  
-   Mewajibkan seluruh asatidz dan musyrif menggunakan teknik komunikasi tenang, nada suara rendah, dan penjagaan jarak aman dalam menangani krisis agresi santri tanpa menggunakan kekerasan fisik balasan.
-
-3. **Penegakan Sistem Kanal Pelaporan Rahasia Terlindungi (kotak Tabayyun Aman)**:  
-   Menyediakan saluran pelaporan fisik dan digital yang menjamin kerahasiaan identitas pelapor (Whistleblower); menjamin perlindungan hukum dan keamanan psikologis penuh bagi korban dan saksi perundungan.
-
-4. **Protokol Pemulihan Trauma Korban & Rehabilitasi Restoratif Pelaku**:  
-   Mewajibkan pendampingan psikoterapi konseling intensif bagi korban perundungan serta penegakan sanksi edukatif-restoratif (restitusi dan khidmah sosial) bagi pelaku demi mewujudkan pertobatan sejati.
-
-
----
-
-### 2. Matriks 4 Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis
-
-| Tahap Krisis Perilaku | Gejala yang Teramati pada Santri | Respons Intervensi Musyrif TUMBUH | Larangan Keras Pendidik |
-| :--- | :--- | :--- | :--- |
-| **1. Pemicu (*Trigger Phase*)** | Wajah tegang, mengepalkan tangan, gelisah, menyendiri. | Mengajak bicara empat mata ramah; menawarkan air minum. | Mengabaikan atau menertawakan ketegangan santri.[^8] |
-| **2. Eskalasi (*Escalation Phase*)**| Berteriak, membanting pintu, memaki, menolak perintah. | Mengurangi stimulus ruang; menggunakan kalimat pendek tenang. | Membalas berteriak atau mengancam dengan hukuman berat. |
-| **3. Puncak Krisis (*Crisis Peak*)**| Menyerang teman, mengamuk histeris, melempar barang. | Menjaga jarak 1,5 meter; evakuasi santri lain ke tempat aman. | Memukul, menendang, atau membanting santri ke lantai. |
-| **4. Pemulihan (*Post-Crisis Recovery*)**| Menangis, lemas, menyesal, gemetar, diam tertunduk. | Memberikan rasa aman; *Co-Regulation*; air hangat; jeda istirahat.| Menginterogasi atau langsung memarahi santri yang lelah.[^9] |
+| Tahap Krisis | Indikator Kondisi Santri | Protokol Penanganan Tim CRA TUMBUH |
+| :--- | :--- | :--- |
+| **1. Pemicu (Trigger)** | Santri murung, menyendiri, nilai anjlok.| Sapaan ramah konselor & verifikasi laporan rahasia.|
+| **2. Eskalasi (Escalation)**| Menangis histeris, ancaman melukai diri.| Evakuasi ke Ruang Tenang, dampingi 1-on-1 tanpa henti.|
+| **3. Puncak (Peak Crisis)** | Percobaan agresi fisik / panik akut.| **Protokol Keamanan**: Jauhkan benda bahaya, hadir tenang.|
+| **4. Pemulihan (Recovery)** | Detak jantung stabil, santri mulai tenang.| Sesi konseling pemulihan trauma & konferensi ishlah.|
 
 ---
 
@@ -185,74 +146,97 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ```mermaid
 flowchart TD
-    subgraph SOPPenangananCyberbullying["SOP RESPON PERUNDUNGAN SIBER PESANTREN"]
-        LaporanMasuk["1. PENERIMAAN LAPORAN & PENYELAMATAN BUKTI DIGITAL<br/>Menyimpan tangkapan layar (screenshot) & log data digital perundungan."]
-        
-        AmankanKorban["2. PERLINDUNGAN & STABILISASI PSIKOLOGIS KORBAN<br/>Konseling trauma kilat & penonaktifan akun korban dari paparan toxic."]
-        
-        KlarifikasiPelaku["3. PEMANGGILAN & KLARIFIKASI RESTORATIF PELAKU<br/>Investigasi motif, penghapusan konten, & edukasi pertanggungjawaban hukum."]
-        
-        RestorasiIshlah["4. KONFERENSI RESTORATIF & REKONSILIASI KELUARGA<br/>Mediasi ishlah antarkeluarga, komitmen tertulis, & khidmah sosial asrama."]
-        
-        LaporanMasuk --> AmankanKorban --> KlarifikasiPelaku --> RestorasiIshlah
+    subgraph SOPPenangananCyberbullying["SOP PENANGANAN KASUS PERUNDUNGAN SIBER"]
+        LaporanAduan["1. PENERIMAAN LAPORAN: Kotak Tabayyun Menerima Bukti Tangkapan Layar (Screenshot)"]
+        --> VerifikasiBukti["2. VERIFIKASI DIGITAL (1x24 Jam): Tim CRA Memverifikasi Keaslian Bukti Secara Tertutup"]
+        --> PerlindunganKorban["3. PERLINDUNGAN KORBAN: Pendampingan Psikologis Segera & Jaminan Keamanan Identitas"]
+        --> MediasiRestoratif["4. MEDIASI RESTORATIF TERPADU: Pemanggilan Pelaku, Penghapusan Konten, & Komitmen Ishlah"]
+        --> MonitoringTrauma["5. MONITORING LONGITUDINAL (30 Hari): Evaluasi Kesejahteraan Mental Korban Berkala"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 4. Protokol Pendampingan Trauma Psikososial Santri (Trauma-Informed Healing Protocol)
+
+TUMBUH menetapkan **Protokol Pemulihan Trauma Korban**:
+1. **Pemberian Rasa Aman Mutlak (*Safety & Trust*)**: Memastikan korban berada dalam lingkungan asrama yang terlindungi dari intimidasi susulan.
+2. **Rekonstruksi Konsep Diri (*Empowerment*)**: Mengembalikan rasa berharga korban melalui penugasan peran kepemimpinan positif di kamar.
+3. **Kemitraan Hangat Keluarga**: Melibatkan orang tua dalam memberikan afirmasi kasih sayang selama masa pemulihan.[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Intervensi Krisis & Anti-Bullying
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Perlindungan Jiwa** | *Hifzhun Nafs* | Kaidah *Daf'u al-Mafasid*, HR. Ibnu Majah 2340 | UNICEF (2018), *Safe to Learn* | Menegakkan zero tolerance kekerasan fisik dan bullying. |
-| **De-Eskalasi Krisis** | *Al-Hilm wal-Anaah* | HR. Muslim No. 20 (Sifat Santun & Tenang) | CPI (2020), *Nonviolent Crisis Intervention* | Mengendalikan agresi lewat ketenangan nada suara dan ruang aman. |
-| **Etika Siber** | *Hifzhul Lisan wal-Yad*| Hadits Muslim Sejati (HR. Bukhari No. 10) | Hinduja & Patchin (2015), *Bullying Beyond the Schoolyard* | Mencegah cyberbullying via literasi digital & audit berkala. |
-| **Pelaporan Aman** | *Tabayyun & Amanah* | QS. Al-Hujurat: 6, QS. An-Nisa: 135 | Miceli & Near (1992), *Whistleblowing Safeguards* | Menyediakan kotak laporan rahasia terlindungi (Kotak Tabayyun). |
+Prinsip intervensi krisis khusus dan mitigasi perundungan siber ini membawa implikasi agung bagi peradaban:
+
+* **Mewujudkan Pesantren Sebagai Zona Suci Perlindungan Anak (*Safe Haven of Tarbiyah*)**:  
+  Pesantren menjadi tempat teraman bagi tumbuh kembang generasi muda, bebas dari segala bentuk intimidasi fisik maupun maya.
+* **Menghapus Budaya Abai Terhadap Korban Kejahatan Perundungan**:  
+  Lembaga hadir secara nyata membela yang lemah (*Nashrul Mazhlum*) dan membimbing yang tersesat menuju tobat yang lurus.
+* **Menegakkan Standar Child Protection Berbasis Nilai-Nilai Islam Universal**:  
+  Pesantren membuktikan bahwa ajaran Islam adalah pelopor perlindungan hak asasi anak dan kemuliaan martabat manusia (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Intervensi Krisis & Anti-Bullying Siber
+
+| Dimensi Parameter | Mazhab Abai Masa Bodoh (Lama) | Model Respon Represif Keras | **Child Safeguarding Terpadu TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Respon Krisis Akut** | Korban disuruh "sabar/jangan manja".| Mengurung santri di ruang isolasi.| **De-Eskalasi Nonviolent & Triase CRA.**| Daf'u al-Mafasid; CPI (2020).| Evakuasi ruang tenang & dampingi ramah. |
+| **Mitigasi Siber** | Menganggap remeh ejekan online.| Menyita gawai tanpa tindak lanjut.| **Protokol Anti-Cyberbullying & Hapus Jejak.**| Hifzhul 'Irdh; Hinduja & Patchin.| Respon aduan 1x24 jam & mediasi. |
+| **Kanal Pelaporan** | Tidak ada; dicap "tukang ngadu".| Pelaporan terbuka rawan intimidasi.| **Kotak Tabayyun Terlindungi (Whistleblower).**| HR. Muslim (Satrul 'Aurah); PBIS.| Identitas pelapor dienkripsi aman. |
+| **Perlindungan Korban**| Dibiarkan trauma sendirian.| Korban disalahkan balik.| **Trauma-Informed Care & Empowerment.**| Bath (2008); Perry (2021).| Pendampingan 30 hari hingga pulih. |
+| **Hasil Institusi** | Santri bunuh diri / kabur dari pondok.| Iklim teror & saling curiga.| **Ekosistem Suci, Aman, & Penuh Cinta.**| QS. Al-Ma'idah: 32; Al-Attas (1980).| Pesantren rujukan perlindungan anak. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Ibnu Majah, Muhammad bin Yazid al-Qazwini**. (2009). *Sunan Ibnu Majah*. Beirut: Dar ar-Risalah.
-5. **As-Suyuthi, Jalaluddin Abdurrahman**. (1403 H). *Al-Asybah wan-Nazha'ir*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-6. **Crisis Prevention Institute (CPI)**. (2020). *Nonviolent Crisis Intervention Training Manual*. Milwaukee: CPI.
-7. **Hinduja, S., & Patchin, J. W.**. (2015). *Bullying Beyond the Schoolyard: Preventing and Responding to Cyberbullying* (2nd ed.). Corwin Press.
-8. **UNICEF**. (2018). *Safe to Learn: Ending Violence in Schools*. New York: UNICEF.
-9. **van der Kolk, B.**. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking.
-10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: Tier 3 Intensive Supports*. Remedial and Special Education.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **As-Suyuthi, Jalaluddin Abdurrahman bin Abi Bakr**. (1403 H). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (Kaidah Daf'u al-Mafasid). Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa**. (1417 H). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Bab Hifzhun Nafs wal-'Irdh). Kairo: Dar Ibn 'Affan.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Crisis Prevention Institute (CPI)**. (2020). *Nonviolent Crisis Intervention Training Manual*. Milwaukee: CPI Publishing.
+9. **Hinduja, S., & Patchin, J. W.**. (2018). *Bullying Beyond the Schoolyard: Preventing and Responding to Cyberbullying* (3rd ed.). Thousand Oaks: Corwin.
+10. **Bath, H.**. (2008). *The Three Pillars of Trauma-Informed Care*. Reclaiming Children and Youth, 17(3), 17–21.
+11. **Perry, B. D., & Winfrey, O.**. (2021). *What Happened to You? Conversations on Trauma, Resilience, and Healing*. New York: Flatiron Books.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: As-Suyuthi, *Al-Asybah wan-Nazha'ir*, Kaidah ke-5: *Ad-Dhararu Yuzal*, hlm. 84–90.  
-[^2]: Sunan Ibnu Majah No. 2340, Kitab *al-Ahkam*, Bab *Man Bana fi Haqqihi Ma Yadhurru bi Jarihi*.  
-[^3]: Crisis Prevention Institute (CPI, 2020), *Nonviolent Crisis Intervention*, hlm. 35–60; van der Kolk (2014), *The Body Keeps the Score*.  
-[^4]: Zehr, H. (2002), *The Little Book of Restorative Justice*, Good Books, hlm. 40–58.  
-[^5]: Miceli & Near (1992), *Blowing the Whistle*, Lexington Books.  
-[^6]: Hinduja & Patchin (2015), *Bullying Beyond the Schoolyard*, Corwin, hlm. 110–145.  
-[^7]: Laporan Kasus Investigasi Cyberbullying Tim Cyber-Care TUMBUH, Divisi Konseling, 2026.  
-[^8]: Panduan Manajemen Krisis Perilaku Santri Tier 3, Biro Pengasuhan TUMBUH, 2026.  
-[^9]: Protokol Stabilisasi dan De-Eskalasi Emosi Santri, Komite Bimbingan Konseling TUMBUH, 2026.
+[^1]: Riset Prinsip Intervensi Krisis Khusus dan Mitigasi Perundungan Siber TUMBUH, *Kritik atas Kealpaan Protokol Krisis*, 2026.  
+[^2]: As-Suyuthi, *Al-Asybah wan-Nazha'ir*, Kaidah Fiqhiyyah *Daf'u al-Mafasid Muqaddamun 'ala Jalbil Mashalih*, hlm. 85–110.  
+[^3]: Asy-Syathibi, *Al-Muwafaqat*, Jilid 2, Pembahasan *Dharuriyyat Hifzhun Nafs wal-'Irdh*, hlm. 10–35.  
+[^4]: Crisis Prevention Institute (CPI) (2020); Bath, H. (2008), *The Three Pillars of Trauma-Informed Care*, hlm. 17–21.  
+[^5]: Hinduja, S., & Patchin, J. W. (2018), *Bullying Beyond the Schoolyard*; Master Blueprint Kotak Tabayyun Digital TUMBUH, 2026.  
+[^6]: Dokumentasi Penanganan Kasus Perundungan Siber Grup WhatsApp dan Pemulihan Korban PBIS TUMBUH, 2026.  
+[^7]: Standar Operasional Prosedur Pembentukan Tim Crisis Response Asrama (CRA) TUMBUH, 2026.  
+[^8]: Master Blueprint Protokol Mitigasi Perundungan Siber Pesantren 24 Jam TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Trauma-Informed Care dan Pemulihan Korban Perundungan TUMBUH, 2026.  
+[^10]: Master Guidelines Protokol Pendampingan Trauma Psikososial Santri TUMBUH, 2026.  
+[^11]: Deklarasi Pesantren Aman dan Perlindungan Hak Santri Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Intervensi Krisis, De-Eskalasi, Cyberbullying, & Hifzhun Nafs
+### 4. Glosarium Istilah Ilmiah & Turats Intervensi Krisis dan Cyberbullying
 
-1. **Hifzhun Nafs (حِفْظُ النَّفْسِ)**: Salah satu dari lima tujuan pokok syariat Islam (*Maqashid Syari'ah*) yang mewajibkan perlindungan atas keselamatan nyawa dan raga manusia.
-2. **Nonviolent De-Escalation**: Pendekatan komunikasi bertahap tanpa kekerasan untuk meredakan ketegangan emosi santri yang sedang agresif.
-3. **Cyberbullying (Perundungan Siber)**: Tindakan intimidasi, pelecehan, pencemaran nama baik, atau pengucilan yang dilakukan secara sengaja melalui media digital dan internet.
-4. **Amygdala Hijack**: Kondisi di mana pusat emosi otak (amigdala) mengambil alih kendali perilaku sebelum korteks prefrontal sempat berpikir rasional.
-5. **Whistleblower Protection**: Jaminan perlindungan identitas, hukum, dan keamanan fisik bagi individu yang melaporkan tindak pelanggaran atau kejahatan.
-6. **Daf'u al-Mafasid (دَفْعُ الْمَفَاسِدِ)**: Kaidah ushul fiqh mengenai kewajiban menolak segala bentuk bahaya dan kerusakan sebelum mengejar kemaslahatan.
-7. **Restitusi Restoratif**: Tindakan nyata pelaku pelanggaran untuk memperbaiki kerugian atau luka yang dialami korban sebagai wujud tanggung jawab.
-8. **Kotak Tabayyun**: Sistem kanal pelaporan pengaduan terenkripsi dan terlindungi di lingkungan pesantren TUMBUH.
-9. **Co-Regulation**: Ketenangan emosi pendidik yang ditularkan secara neurologis untuk meredakan badai emosi santri.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip mutlak di mana penanganan krisis secara bijak menyelamatkan jiwa Santri, meningkatkan kompetensi Pendidik, dan menjaga marwah amanah Lembaga.
+1. **Child Safeguarding (Perlindungan Anak)**: Kebijakan, prosedur, dan tindakan institusional terpadu untuk melindungi santri dari kekerasan, eksploitasi, perundungan, dan kelalaian pengasuhan.
+2. **Daf'u al-Mafasid (دَرْءُ الْمَفَاسِدِ)**: Kaidah ushul fiqh yang mewajibkan penolakan dan pencegahan bahaya kemudaratan sebelum mengusahakan kebaikan.
+3. **Hifzhun Nafs wal-'Irdh (حِفْظُ النَّفْسِ وَالْعِرْضِ)**: Maqashid syariah fundamental untuk menjaga keselamatan raga, kesehatan jiwa, dan kehormatan martabat manusia.
+4. **Nonviolent Crisis Intervention**: Metode penanganan krisis perilaku akut tanpa menggunakan kekerasan fisik atau senjata, mengutamakan de-eskalasi verbal dan pengamanan ruang.
+5. **Cyberbullying (Perundungan Siber)**: Bentuk kekerasan psikologis, intimidasi, penghinaan, atau pengucilan yang dilakukan melalui platform digital (media sosial, grup chat).
+6. **Whistleblower Protection**: Mekanisme perlindungan hukum dan kerahasiaan identitas bagi saksi atau korban yang melaporkan pelanggaran demi menjamin keamanannya.
+7. **Kotak Tabayyun**: Platform pelaporan insiden perundungan berbasis fisik dan digital yang menjamin privasi dan kerahasiaan pelapor (*Satrul 'Aurah*).
+8. **Crisis Response Asrama (CRA)**: Tim gerak cepat terpadu di pesantren yang bertugas menangani situasi krisis perilaku, medis darurat, dan trauma santri.
+9. **Trauma-Informed Care**: Pendekatan pengasuhan yang menyadari dampak trauma masa lalu dan merancang lingkungan yang memberikan rasa aman (*Safety, Connection, Coping*).
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang berakhlak mulia di dunia nyata dan maya, membela yang tertindas, dan senantiasa menyebarkan kedamaian serta keselamatan.

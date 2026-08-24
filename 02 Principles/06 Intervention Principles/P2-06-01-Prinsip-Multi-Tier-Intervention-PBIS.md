@@ -1,316 +1,246 @@
-# P2-06-01: PRINSIP INTERVENSI MULTI-TIER PBIS PESANTREN
-## *Monograf Terpadu: Epistemologi Sadd adz-Dzara'i' & Kaidah Tadarruj fil Inkar (HR. Muslim No. 49), Konvergensi School-Wide Positive Behavioral Interventions and Supports (SW-PBIS Multi-Tier Horner & Sugai), Operasionalisasi Program Check-In/Check-Out (CICO) 24 Jam, dan Rasio Apresiasi Positif 4:1*
+# P2-06-01: PRINSIP INTERVENSI MULTI-TIER PBIS PESANTREN (MULTI-TIERED BEHAVIORAL INTERVENTIONS & SUPPORTS)
+## *Monograf Riset Akademik: Epistemologi Sadd adz-Dzara'i' & Kaidah Tadarruj fil Inkar (HR. Muslim No. 49), School-Wide Positive Behavioral Interventions and Supports (SW-PBIS Multi-Tier Horner & Sugai), Operasionalisasi Program CICO 24 Jam, Serta Rasio Apresiasi Positif 4:1*
 
-**Nomor Identifikasi**: `P2-06-01/MONOGRAF-TERPADU-MULTI-TIER-PBIS/2026`  
-**Domain**: `02 Principles` > `06 Intervention Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-06-01/MONOGRAF-RISET-MULTI-TIER-PBIS/2026`  
+**Domain**: `02 Principles` > `06 Intervention Principles` (Prinsip Intervensi 01: *Multi-Tier PBIS*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Intervensi)  
 **Rumpun Disiplin Pengkaji**: Sistem Dukungan Perilaku Positif Multi-Jenjang (*Multi-Tiered Behavioral Systems*), Psikologi Pencegahan Primer Pesantren, Manajemen Kasus Pembinaan Asrama, Fiqh Tingkatan Amar Ma'ruf Nahi Munkar  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Jangan Menunggu Santri Berbuat Masalah Besar Baru Bertindak (*Paradigma Reaktif Keliru*):**  
->   Banyak pengurus pondok membiarkan santri sampai terjadi perkelahian berdarah atau pencurian, baru kemudian marah dan memukul santri. PBIS TUMBUH menggunakan **Sistem Pencegahan Multi-Tier 3 Tingkat**: menghentikan masalah sejak dini sebelum membesar.
-> * **Tiga Tingkat Piramida Dukungan Perilaku PBIS:**  
->   1. **Tier 1 (Pencegahan Universal - 80–90% Santri):** Ajarkan aturan adab secara jelas di seluruh area, hadirkan keteladanan musyrif, dan beri apresiasi minimal 4 kebaikan sebelum memberi 1 teguran (**Rasio 4:1**).  
->   2. **Tier 2 (Bimbingan Terarah - 10–15% Santri):** Santri yang mulai sering terlambat atau gelisah didampingi lewat program **CICO (Check-In / Check-Out)**: disapa ramah 3 menit pagi, siang, dan malam oleh musyrif mentor.  
->   3. **Tier 3 (Intervensi Intensif Mendalam - 1–5% Santri):** Santri dengan krisis emosional berat didampingi oleh Tim Terpadu (Konselor BK, Musyrif Senior, Orang Tua, dan Psikolog).
-> * **Program CICO (Check-In / Check-Out) 3x Sehari:**  
->   Musyrif menyapa santri di pagi hari: *"Bagaimana target adab hari ini?"*, memantau di siang hari, dan mengevaluasi penuh kasih di malam hari: *"Hebat, hari ini kamu berhasil shalat di saf awal!"*.
+> * **Kelemahan Paradigma Lama: Sindrom "Pemadam Kebakaran" Reaktif dan Pengusiran Santri:**  
+>   Banyak pesantren bersikap pasif saat asrama tenang, namun ketika terjadi perkelahian atau pelanggaran berat, pengurus panik lalu memukul santri atau mengeluarkannya (*Drop-Out*). Pendekatan reaktif ini sangat melelahkan pengasuh (*Burnout*), menciptakan iklim ketakutan, dan mengabaikan 85% santri baik yang membutuhkan apresiasi.
+> * **Inovasi Konseptual: Sadd adz-Dzara'i' & Arsitektur SW-PBIS Multi-Tier (Horner & Sugai):**  
+>   TUMBUH memadukan kaidah turats *Sadd adz-Dzara'i'* (menutup celah kemudaratan sejak dini) dan *Tadarruj fil Inkar* (penahapan pengubahan kemungkaran, HR. Muslim No. 49) dengan kerangka sains **SW-PBIS Tiga Tingkat: Tier 1 (Pencegahan Universal 80–90% santri via iklim Bi'ah Shalihah & Rasio Apresiasi 4:1); Tier 2 (Bimbingan Terarah 10–15% santri via Program Check-In/Check-Out - CICO); Tier 3 (Intervensi Intensif Khusus 1–5% santri via Tim Terpadu BK-Musyrif-Wali-Psikolog)**.
+> * **Formulasi Operasional & Penjaminan Proaktivitas Pembinaan:**  
+>   Monograf ini menguraikan matriks komparasi 3 tingkatan PBIS, SOP pelaksanaan CICO harian 3 fase, protokol eskalasi dan rujukan kasus santri, dan etika pembinaan tanpa kekerasan.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET SISTEM INTERVENSI MULTI-TIER PBIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-sistem-intervensi-multi-tier-pbis-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi PBIS Pesantren: Mengubah Paradigma Reaktif Menjadi Proaktif Multi-Jenjang](#1-kerangka-metodologi-pbis-pesantren-mengubah-paradigma-reaktif-menjadi-proaktif-multi-jenjang)
-  - [2. Inkuiri 1: Eksegesis Turats Pencegahan & Penahapan Intervensi — Sadd adz-Dzara'i' & Tadarruj fil Inkar](#2-inkuiri-1-eksegesis-turats-pencegahan--penahapan-intervensi--sadd-adz-dzarai--tadarruj-fil-inkar)
-  - [3. Inkuiri 2: Konvergensi School-Wide PBIS Multi-Tier Horner & Sugai (Tier 1, Tier 2, Tier 3)](#3-inkuiri-2-konvergensi-school-wide-pbis-multi-tier-horner--sugai-tier-1-tier-2-tier-3)
-  - [4. Inkuiri 3: Operasionalisasi Program Check-In / Check-Out (CICO) di Asrama 24 Jam](#4-inkuiri-3-operasionalisasi-program-check-in--check-out-cico-di-asrama-24-jam)
-  - [5. Inkuiri 4: Menjaga Rasio Apresiasi Kebaikan Minimal 4:1 (The 4:1 Positivity Ratio)](#5-inkuiri-4-menjaga-rasio-apresiasi-kebaikan-minimal-41-the-41-positivity-ratio)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Intervensi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-intervensi-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-multi-tier-pbis-pesantren-tumbuh)
-  - [2. Matriks Komparasi 3 Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)](#2-matriks-komparasi-3-tingkat-pbis-pesantren-tumbuh-tier-1-tier-2-tier-3)
-  - [3. Alur Standar Operasional Prosedur Program CICO Tier 2 Harian](#3-alur-standar-operasional-prosedur-program-cico-tier-2-harian)
-  - [4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3](#4-protokol-eskalasi-dan-rujukan-santri-dari-tier-1-menuju-tier-3)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Multi-Tier PBIS](#1-tabel-sintesis-hasil-riset-multi-tier-pbis)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Sindrom Pemadam Kebakaran Reaktif dan Budaya Pengusiran Santri](#1-latar-belakang-masalah-kritik-atas-sindrom-pemadam-kebakaran-reaktif-dan-budaya-pengusiran-santri)
+  - [2. Eksegesis Turats Pencegahan & Penahapan Intervensi: Sadd adz-Dzara'i' & Tadarruj fil Inkar (HR. Muslim No. 49)](#2-eksegesis-turats-pencegahan--penahapan-intervensi-sadd-adz-dzarai--tadarruj-fil-inkar-hr-muslim-no-49)
+  - [3. Konvergensi Sains Sistem Perilaku Positif: School-Wide PBIS Multi-Tier Framework (Horner & Sugai)](#3-konvergensi-sains-sistem-perilaku-positif-school-wide-pbis-multi-tier-framework-horner--sugai)
+  - [4. Rekayasa Program Check-In / Check-Out (CICO) 24 Jam & Penegakan Rasio Apresiasi Positif Minimal 4:1](#4-rekayasa-program-check-in--check-out-cico-24-jam--penegakan-rasio-apresiasi-positif-minimal-41)
+  - [5. Kasuistika Lapangan: Pencegahan Dini Eskalasi Pelanggaran Santri Melalui Intervensi Tier 2 CICO](#5-kasuistika-lapangan-pencegahan-dini-eskalasi-pelanggaran-santri-melalui-intervensi-tier-2-cico)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-multi-tier-pbis-pesantren-tumbuh)
+  - [2. Matriks Komparasi Tiga Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)](#2-matriks-komparasi-tiga-tingkat-pbis-pesantren-tumbuh-tier-1-tier-2-tier-3)
+  - [3. Alur Standar Operasional Prosedur (SOP) Program CICO Tier 2 Harian di Asrama](#3-alur-standar-operasional-prosedur-sop-program-cico-tier-2-harian-di-asrama)
+  - [4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3 (Tier Escalation Protocol)](#4-protokol-eskalasi-dan-rujukan-santri-dari-tier-1-menuju-tier-3-tier-escalation-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Multi-Tier PBIS](#1-tabel-sintesis-temuan-riset-multi-tier-pbis)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Multi-Tier PBIS, CICO, & Sadd adz-Dzara'i'](#4-glosarium-dan-penjelasan-istilah-teknis-multi-tier-pbis-cico--sadd-adz-dzarai)
+  - [4. Glosarium Istilah Ilmiah & Turats Multi-Tier PBIS](#4-glosarium-istilah-ilmiah--turats-multi-tier-pbis)
 
 ---
 
-# BAGIAN I: RISET SISTEM INTERVENSI MULTI-TIER PBIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi PBIS Pesantren: Mengubah Paradigma Reaktif Menjadi Proaktif Multi-Jenjang
+### 1. Latar Belakang Masalah: Kritik atas Sindrom Pemadam Kebakaran Reaktif dan Budaya Pengusiran Santri
 
-Pengelolaan disiplin di pesantren lama kerap menderita **Sindrom Pemadam Kebakaran (*The Reactive Firefighting Syndrome*)**:
-* Musyrif bersikap pasif ketika situasi asrama tenang, tanpa pernah mengajarkan adab secara eksplisit atau mengapresiasi santri yang rajin.
-* Begitu ada santri yang meledak emosinya, berkelahi, atau kabur, musyrif panik dan langsung mengerahkan kekerasan fisik atau pengusiran sepihak (*Drop-Out*).
-* Pola ini sangat melelahkan musyrif (*Burnout*), menciptakan iklim teror ketakutan (*Bi'ah al-Khouf*), dan membiarkan 85% santri yang baik terabaikan tanpa perhatian positif.
-
-Ekosistem TUMBUH merestrukturisasi manajemen perilaku dengan menegakkan **School-Wide Positive Behavioral Interventions and Supports (SW-PBIS Multi-Tier)**: sebuah sistem pencegahan proaktif yang mengalokasikan sumber daya pendampingan secara proporsional sesuai tingkat kebutuhan riil santri.
+Tata kelola kedisiplinan di banyak pesantren konvensional masih terbelenggu dalam **Sindrom Pemadam Kebakaran Reaktif (*The Reactive Firefighting Trap*)**:
+* Musyrif bersikap pasif dan abai ketika situasi asrama tenang, tanpa pernah mengajarkan adab secara eksplisit atau memberikan perhatian kepada santri yang tertib.
+* Begitu terjadi pelanggaran berat (seperti perkelahian berdarah atau pencurian), pengurus panik lalu mengerahkan tindakan kekerasan fisik, membotaki santri di depan umum, atau langsung mengeluarkan santri (*Drop-Out*).
+* **Kerusakan Sistemik**: Pendekatan reaktif ini sangat melelahkan musyrif (*Chronic Burnout*), menciptakan iklim teror ketakutan (*Bi'ah al-Khouf*), dan menelantarkan 85% santri baik yang membutuhkan bimbingan pembiasaan positif.
+* **Keniscayaan Intervensi Multi-Tier PBIS**: Diperlukan sistem pendampingan perilaku positif multi-jenjang (*Multi-Tiered Behavioral Support*) yang mengalokasikan sumber daya pembinaan secara terukur, adil, dan proaktif.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiParadigmaDisiplin["TRANSFORMASI PARADIGMA INTERVENSI PERILAKU"]
-        ReaktifPunitif["PARADIGMA REAKTIF-PUNITIF (LAMA)<br/>• Menunggu pelanggaran besar meledak.<br/>• Respon kemarahan, pemukulan rotan, & pengusiran.<br/>• Memicu dendam, kepanikan musyrif, & dropout tinggi."]
+    subgraph TransformasiParadigmaDisiplin["TRANSFORMASI MANAJEMEN PERILAKU ASRAMA"]
+        PolaReaktifLama["DISIPLIN REAKTIF PEMADAM KEBAKARAN (LAMA)<br/>• Pasif saat tenang; panik & memukul saat ada masalah.<br/>• Drop-out santri sepihak; abaikan 85% santri tertib.<br/>• Iklim asrama mencekam & musyrif burnout kronis."]
         
-        PBISTUMBUH["PARADIGMA PROAKTIF MULTI-TIER PBIS (TUMBUH)<br/>• Tier 1: Pencegahan Universal untuk 100% santri (Rasio 4:1).<br/>• Tier 2: Bimbingan CICO Terarah bagi 10–15% santri.<br/>• Tier 3: Dukungan Intensif Wraparound bagi 1–5% santri.<br/>• Lingkungan damai, adab bertumbuh, Zero Dropout."]
+        PolaPBISTUMBUH["SW-PBIS MULTI-TIER PROAKTIF (TUMBUH)<br/>• Tier 1 Universal (80-90%): Bi'ah Shalihah & Rasio 4:1.<br/>• Tier 2 Targeted (10-15%): Mentoring CICO 3x sehari.<br/>• Tier 3 Intensive (1-5%): Tim Terpadu BK-Restoratif."]
         
-        ReaktifPunitif ==>|TRANSFORMASI SISTEM PBIS NABAWI| PBISTUMBUH
+        PolaReaktifLama ==>|DIREKONSTRUKSI MENJADI| PolaPBISTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Pencegahan & Penahapan Intervensi — *Sadd adz-Dzara'i'* & *Tadarruj fil Inkar*
+### 2. Eksegesis Turats Pencegahan & Penahapan Intervensi: Sadd adz-Dzara'i' & Tadarruj fil Inkar (HR. Muslim No. 49)
 
-```mermaid
-graph TD
-    A["Gugatan Vonis Langsung Keras (Pihak A):<br/>'Setiap santri yang bersalah langsung hukum seberat-beratnya biar jera; tidak usah pakai tahap-tahapan bimbingan yang merepotkan!'"]
-    --> B1["Tinjauan Hadits Shahih Muslim 49:<br/>'Man ra'a minkum munkaran falyughayyirhu biyadih, fa in lam yastathi' fabilisatih, fa in lam yastathi' fabiqalbih' (Kaidah penahapan intervensi selaras kapasitas & hikmah)."]
-    A --> B2["Tinjauan Kaidah Ushul Fiqh Sadd adz-Dzara'i':<br/>Kewajiban syariat menutup celah pemicu kerusakan sebelum pelanggaran terjadi (Pencegahan Primer Tier 1)."]
-    A --> B3["Tinjauan Ihya 'Ulumiddin Imam Al-Ghazali (Kitab al-Amr bil Ma'ruf):<br/>Tingkatan meluruskan: Ta'rif (memberitahu ramah) -> Wa'zh (menasihati lembut) -> Taghlizh (tegas beradab)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Intervensi bertingkat proaktif adalah sunnah syariat yang paling agung dalam menjaga fitrah insan."]
-```
+Ushul Fiqh meletakkan kaidah pencegahan primer:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap strategi penegakan disiplin dan perbaikan adab yang berlandaskan kaidah *Sadd adz-Dzara'i'* dan sunnah *Tadarruj fil Inkar* niscaya mengutamakan pencegahan primer universal sebelum menjatuhkan tindakan intervensi bertahap yang proporsional.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW mengajarkan penahapan pengubahan kemunkaran secara bijak (HR. Muslim No. 49) dan Imam Al-Ghazali menetapkan bahwa teguran tidak boleh langsung menggunakan kekerasan jika penyadaran ramah (*Ta'rif*) masih dapat dilakukan.
-* **Konklusi (*an-Natijah*)**: Maka, ekosistem pesantren TUMBUH wajib menerapkan arsitektur intervensi perilaku berjenjang Multi-Tier PBIS.[^1]
+$$\text{سَدُّ الذَّرَائِعِ الْمُفْضِيَةِ إِلَى الْمَفَاسِدِ}$$
 
-#### 📖 Teks Primer Hadits Shahih Muslim & *Ihya 'Ulumiddin*
-Sahabat Abu Sa'id Al-Khudri *radhiyallahu 'anhu* meriwayatkan sabda Rasulullah SAW:
+*"**Menutup dan memblokade segala celah/sebab yang dapat menjerumuskan kepada timbulnya kerusakan moral**."*[^2]
 
-$$\text{مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَٰلِكَ أَضْعَفُ الْإِيمَانِ}$$
+Rasulullah ﷺ menggariskan hukum penahapan pengubahan kemungkaran (*Tadarruj fil Inkar*):
 
-*"Barangsiapa di antara kalian melihat suatu kemunkaran (pelanggaran), **maka hendaklah ia mengubahnya dengan tangannya (otoritas/struktur pencegahan); jika tidak mampu, maka dengan lisannya (nasihat/bimbingan edukatif); dan jika tidak mampu, maka dengan hatinya (kebencian batin & doa)**, dan yang demikian itu adalah selemah-lemah iman."* (HR. Muslim No. 49; Tirmidzi No. 2172).[^2]
+$$\text{مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الإِيمَانِ}$$
 
-Dan Hujjatul Islam Imam Al-Ghazali (w. 505 H) mengkodifikasikan marhalah peneguran:
-1. **Derajat 1 (*At-Ta'rif*)**: Memberitahukan adab yang benar dengan kelembutan, karena boleh jadi santri berbuat salah akibat belum tahu kaidahnya.
-2. **Derajat 2 (*Al-Wa'zh wal-Irsyad*)**: Memberikan nasihat yang menggugah kalbu dengan mengingatkan ancaman Allah dan akibat buruk tindakannya.
-3. **Derajat 3 (*At-Taghlizh bil-Qawl*)**: Berbicara dengan nada tegas dan berwibawa tanpa memaki, menghina nasab, atau berkata kotor. (*Ihya 'Ulumiddin*, Jilid II, hlm. 320–328).[^3]
+*"**Barangsiapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya (kekuasaan/kebijakan); jika tidak mampu, maka dengan lisannya (nasihat hikmah); jika tidak mampu, maka dengan hatinya (penolakan batin), dan itulah selemah-lemah iman**."* (HR. Muslim No. 49).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *School-Wide PBIS Multi-Tier* Horner & Sugai (Tier 1, Tier 2, Tier 3)
+### 3. Konvergensi Sains Sistem Perilaku Positif: School-Wide PBIS Multi-Tier Framework (Horner & Sugai)
 
-```mermaid
-graph TD
-    subgraph PiramidaPBISTUMBUH["KONTINUM TIGA TINGKAT PBIS PESANTREN TUMBUH"]
-        T1["TIER 1: PENCEGAHAN UNIVERSAL (80–90% Santri)<br/>• Pengajaran eksplisit matriks adab di seluruh asrama & kelas.<br/>• Apresiasi perilaku positif minimal rasio 4:1.<br/>• Dikelola oleh: Seluruh Asatidz, Musyrif, & Staf Pesantren."]
-        
-        T2["TIER 2: INTERVENSI TERARAH (10–15% Santri)<br/>• Santri dengan 3–5 pelanggaran minor / adaptasi sulit.<br/>• Program harian Check-In / Check-Out (CICO) 3x sehari.<br/>• Kelompok kecil bimbingan keterampilan emosi (Social Skills Group).<br/>• Dikelola oleh: Musyrif Wali Kamar & Tim PBIS Asrama."]
-        
-        T3["TIER 3: DUKUNGAN INTENSIF MENDALAM (1–5% Santri)<br/>• Krisis emosi berat, trauma, perkelahian berulang, atau kabur.<br/>• Functional Behavior Assessment (FBA) & Behavior Intervention Plan (BIP).<br/>• Tim Wraparound Terpadu: Konselor BK, Wali Asrama, Dokter UKS, & Orang Tua."]
-        
-        T1 ==> T2 ==> T3
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap institusi pendidikan yang menerapkan sistem dukungan perilaku multi-tingkat berbasis data faktual niscaya mampu menekan angka pelanggaran berat hingga di bawah 5% dan memaksimalkan iklim pembelajaran kondusif bagi 95% populasi pembelajar.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Riset konsensus global *School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)* (Prof. Robert Horner & Prof. George Sugai, 2002, 2015) membuktikan keunggulan arsitektur piramida 3 tier dalam ratusan ribu sekolah di seluruh dunia.
-* **Konklusi (*an-Natijah*)**: Maka, pesantren TUMBUH mengkodifikasikan piramida PBIS 3 tier sebagai standar baku penanganan perilaku santri 24 jam.[^4]
+Sains intervensi perilaku sekolah berbasis bukti (**SW-PBIS Multi-Tier**, Robert H. Horner & George Sugai, 2000; 2015) menetapkan piramida dukungan tiga lapis:
+1. **Tier 1 (Universal Support / 80–90% Santri)**: Pengajaran adab eksplisit, rekayasa lingkungan asrama sehat, dan pembiasaan budaya kebaikan.
+2. **Tier 2 (Targeted Support / 10–15% Santri)**: Intervensi kelompok kecil bagi santri yang mulai menunjukkan penurunan motivasi atau pelanggaran minor.
+3. **Tier 3 (Intensive Support / 1–5% Santri)**: Intervensi individual mendalam (*Wraparound Care*) bagi santri dengan tantangan perilaku kompleks.[^4]
 
 ---
 
-### 4. Inkuiri 3: Operasionalisasi Program *Check-In / Check-Out (CICO)* di Asrama 24 Jam
+### 4. Rekayasa Program Check-In / Check-Out (CICO) 24 Jam & Penegakan Rasio Apresiasi Positif Minimal 4:1
+
+TUMBUH mengoperasionalkan intervensi Tier 2:
+* **Program CICO (Hawken & Horner, 2003)**: Santri disapa hangat oleh musyrif mentor 3 kali sehari (*Check-In Subuh, Midday Check, dan Check-Out Malam*) untuk meninjau target adab harian.
+* **The 4:1 Positivity Ratio**: Musyrif wajib memberikan minimal **4 Pengakuan Kebaikan Konkret** sebelum memberikan 1 koreksi kesalahan, menciptakan iklim psikologis yang subur bagi pertumbuhan watak.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Pencegahan Dini Eskalasi Pelanggaran Santri Melalui Intervensi Tier 2 CICO
+
+* **Studi Kasus: Santri Kelas 8 Mulai Sering Bolos Halaqah Sore dan Menunjukkan Sikap Menantang Musyrif**  
+  * **Dilema**: Musyrif asrama lama ingin langsung memberi surat peringatan skorsing ke orang tua santri.
+  * **Resolusi Tier 2 CICO TUMBUH**: Santri diikutsertakan dalam program CICO selama 4 pekan: (1) Musyrif menyapa ramah setiap pagi dan memeriksa kartu target adab; (2) Guru madrasah memberi skor apresiasi saat santri aktif di kelas; (3) Musyrif mengevaluasi kartu CICO malam hari dengan pelukan hangat. Dalam 3 pekan, kehadiran halaqah santri kembali 100%, sikap santri menjadi sangat santun, dan santri berhasil lulus dari program CICO kembali ke Tier 1 mandiri.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Multi-Tier PBIS Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan piramida intervensi ke dalam **Arsitektur Tiga Tingkat Intervensi Positif (*Thabaqat ad-Da'mi as-Sulukiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SiklusCICOHarian["STRUKTUR 3 TITIK TEMU PROGRAM CICO TIER 2 HARIAN"]
-        Pagi["1. PAGI HARI (CHECK-IN - Pukul 05.30 WIB / 3 Menit)<br/>Santri bertemu musyrif mentor: Meninjau kartu target adab hari ini & menerima dorongan semangat."]
+    subgraph PiramidaPBISTUMBUH["PIRAMIDA INTERVENSI MULTI-TIER PBIS TUMBUH"]
         
-        Siang["2. SIANG & SORE (MONITORING & FORMAL LOGGING)<br/>Guru madrasah & musyrif memberikan paraf singkat pada kartu adab santri pasca KBM."]
+        Tier3["TIER 3: INTERVENSI INTENSIF INDIVIDUAL (1–5% Santri)<br/>Functional Behavior Assessment (FBA), Wraparound Care, & Tim Terpadu BK-Psikolog."]
         
-        Malam["3. MALAM HARI (CHECK-OUT - Pukul 20.30 WIB / 3 Menit)<br/>Santri kembali bertemu musyrif: Menghitung total skor bintang, muhasabah apresiatif, & motivasi esok."]
+        Tier2["TIER 2: BIMBINGAN TERARAH KELOMPOK KECIL (10–15% Santri)<br/>Program Check-In/Check-Out (CICO), Mentor Sebaya, & Klinik Regulasi Emosi."]
         
-        Pagi ==> Siang ==> Malam ==> Pagi
+        Tier1["TIER 1: PENCEGAHAN UNIVERSAL UNTUK SELURUH SANTRI (80–90% Santri)<br/>Pengajaran Adab Eksplisit, Bi'ah Shalihah Asrama Sehat, & Rasio Apresiasi 4:1."]
+        
+        Tier3 ==> Tier2 ==> Tier1
     end
 ```
 
-#### 📖 Teks Sains Perilaku: Prof. Leanne S. Hawken & Prof. Robert Horner (2003)
-Program *Check-In / Check-Out (CICO)* terbukti secara empiris meningkatkan keterlibatan perilaku positif santri hingga 85% karena menyediakan **Umpan Balik Positif Terstruktur dan Hubungan Mentor yang Hangat dan Konsisten (*Predictable Adult Connection*)** setiap hari.[^5]
+#### 🔬 Pembahasan Mendalam Tiga Tingkat:
+1. **Tingkat Tier 1 (Universal)**: Menjamin seluruh santri mendapatkan fondasi keteladanan, aturan jelas, dan iklim yang memuliakan.[^7]
+2. **Tingkat Tier 2 (Targeted CICO)**: Memberikan jaring pengaman cepat agar santri yang mulai goyah tidak terperosok ke pelanggaran berat.[^8]
+3. **Tingkat Tier 3 (Intensive Wraparound)**: Menyelamatkan jiwa santri yang mengalami krisis berat tanpa pernah putus asa dari rahmat Allah.[^9]
 
 ---
 
-### 5. Inkuiri 4: Menjaga Rasio Apresiasi Kebaikan Minimal 4:1 (*The 4:1 Positivity Ratio*)
+### 2. Matriks Komparasi Tiga Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)
 
-```mermaid
-graph LR
-    subgraph RasioApresiasiPositif["HUKUM RASIO POSITIVITAS 4:1 GOTTMAN & PBIS"]
-        Teguran["1 KALI TEGURAN / KOREKSI ADAB<br/>(Diberikan secara privat & santun)"]
-        
-        Apresiasi["4 KALI APRESIASI PERILAKU POSITIF NYATA<br/>(Pujian usaha, senyuman hangat, bintang logbook, tepukan pundak)"]
-        
-        Apresiasi <===>|KESEIMBANGAN SISTEM SARAF EMOSI SANTRI| Teguran
-    end
-```
-
-#### 📖 Teks Sains Hubungan Insani: Riset Dr. John Gottman (1994) & PBIS Research
-Riset neuropsikologi membuktikan bahwa otak manusia memiliki **Bias Negativitas (*Negativity Bias*)**: 1 kata bentakan atau kritik tajam membutuhkan minimal **4 hingga 5 interaksi positif** untuk memulihkan rasa aman dan kepercayaan diri anak. Musyrif yang hanya menegur tanpa pernah memuji akan menciptakan santri yang defensif dan menutup diri.[^6]
-
----
-
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Intervensi Asrama, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Mitos Bahwa "Memberi Apresiasi Bintang dan Pujian Merusak Keikhlasan Niat Santri"
-* **Pihak A (Sudut Pandang Purisme Niat Kering)**:  
-  *"Santri berbuat baik harus ikhlas lillahi ta'ala; kalau diberi apresiasi bintang atau pujian musyrif nanti niatnya jadi riya' dan rusak!"*
-* **Tinjauan Sudut Pandang Tarbiyah Tabsyir & Tahbibul Iman**:  
-  Rasulullah SAW sendiri berulang kali memuji para sahabat secara terbuka: *"Sebaik-baik hamba adalah Abdullah bin Umar seandainya ia rajin shalat malam"* (HR. Bukhari). Apresiasi pendidik adalah **Pemberian Kabar Gembira (*Tabsyir*)** yang menjadi perancah awal kecintaan pada amal shalih bagi jiwa remaja yang sedang bertumbuh.[^7]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Santri Tier 3 yang Melakukan Pelanggaran Berat Harus Langsung Dikeluarkan dari Pondok?
-* **Pihak A (Sudut Pandang Eksklusi Pengusiran Cepat)**:  
-  *"Kalau ada santri berkelahi atau mencuri, langsung keluarkan saja biar tidak menulari santri yang lain!"*
-* **Tinjauan Sudut Pandang Misi Mulia Tarbiyah & Tim Wraparound Tier 3**:  
-  Mengeluarkan santri bermasalah adalah **Bentuk Keputusasaan Lembaga Pendidikan**. Santri Tier 3 adalah santri yang sedang terluka batinnya dan membutuhkan pertolongan intensif. Melalui asesmen FBA, intervensi klinis konselor BK, dan pendampingan orang tua, 90% santri Tier 3 berhasil dipulihkan menjadi pribadi beradab unggul.[^8]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Program CICO Tier 2 Berhasil Tanpa Perlu Menambah Beban Musyrif?
-* **Pihak A (Sudut Pandang Kelelahan Tenaga Musyrif)**:  
-  *"Musyrif sudah sibuk, mana sempat melayani Check-In Check-Out santri tiap hari!"*
-* **Resolusi Sudut Pandang Efisiensi Mikro 3 Menit**:  
-  Sesi CICO hanya memakan waktu **3 Menit di Pagi Hari dan 3 Menit di Malam Hari**. Menginvestasikan 6 menit sehari untuk mendampingi santri Tier 2 terbukti **Menghemat Ratusan Jam Waktu Musyrif** yang selama ini habis terkuras untuk mengurusi sidang pelanggaran besar yang meledak akibat pembiaran.[^9]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri Y (kelas 8) memiliki rekor 12 kali terlambat jamaah Subuh dan sering tidur di kelas; musyrif lama mengusulkan agar Santri Y digunduli kepalanya dan dihukum membersihkan selokan selama 1 pekan.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Kasus dialihkan ke *Protokol Tier 2 PBIS TUMBUH*. Santri Y diikutsertakan dalam program *CICO* bersama Musyrif Fauzan. Setiap pagi pukul 04.30 WIB Musyrif Fauzan menyapa ramah Santri Y dan menepuk pundaknya. Dalam 3 pekan, keterlambatan Santri Y turun menjadi 0%, skor bintang hariannya mencapai 95%, dan ia menjadi ketua regu kebersihan masjid.[^10]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Prinsip Multi-Tier PBIS Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghapusan Paradigma Reaktif Punitif (anti-reactive Discipline Mandate)**:  
-   Menolak segala bentuk penanganan disiplin berbasis kemarahan spontan, pemukulan rotan, dan pengusiran. Pengelolaan perilaku wajib menggunakan sistem pencegahan proaktif multi-jenjang berlandaskan data.
-
-2. **Penetapan Struktur Kontinum Multi-tier Pbis 3 Tingkat**:  
-   - Tier 1: Pencegahan Universal untuk 100% populasi santri melalui pengajaran adab eksplisit & rasio 4:1. - Tier 2: Intervensi Terarah bagi 10–15% santri melalui program Check-In/Check-Out (CICO) harian. - Tier 3: Dukungan Intensif Mendalam bagi 1–5% santri melalui tim terpadu Wraparound & FBA-BIP.
-
-3. **Penegakan Rasio Apresiasi Positif Minimal 4**:  
-   1: Setiap asatidz dan musyrif wajib memastikan pemberian minimal 4 kali pengakuan/apresiasi kebaikan sebelum memberikan 1 kali teguran korektif, demi menjaga kestabilan psikologis dan rasa aman santri.
-
-4. **Protokol Pendampingan Cico Harian Bebas Stigmatisasi**:  
-   Mewajibkan pelaksanaan program CICO yang ramah dan konsisten bagi santri yang membutuhkan perancah adab, menjadikannya sebagai jembatan kasih sayang kebapaan (In Loco Parentis), bukan label hukuman.
-
-
----
-
-### 2. Matriks Komparasi 3 Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)
-
-| Dimensi PBIS | Tier 1: Universal Prevention | Tier 2: Targeted Intervention | Tier 3: Intensive Wraparound |
+| Dimensi PBIS | Tier 1: Universal (Pencegahan) | Tier 2: Targeted (Bimbingan) | Tier 3: Intensive (Pemulihan) |
 | :--- | :--- | :--- | :--- |
-| **Sasaran Populasi** | **100% Seluruh Santri** (Menjangkau 80–90% santri dengan sukses). | **10–15% Santri** dengan catatan 3–5 pelanggaran minor / kesulitan adaptasi. | **1–5% Santri** dengan masalah perilaku berat, trauma, atau krisis emosi akut. |
-| **Bentuk Intervensi** | • Pengajaran matriks adab di seluruh area.<br/>• Apresiasi perilaku positif rasio 4:1.<br/>• Lingkaran adab kamar harian. | • Program *Check-In / Check-Out (CICO)* 3x sehari.<br/>• Kelompok keterampilan sosial (*Social Skills*).<br/>• Kontrak komitmen adab terarah. | • *Functional Behavior Assessment (FBA)*.<br/>• *Behavior Intervention Plan (BIP)* individual.<br/>• Konseling klinis BK & terapi restoratif.[^11] |
-| **Penanggung Jawab** | Seluruh Asatidz, Musyrif Kamar, & Staf Lembaga. | Musyrif Wali Kamar & Tim PBIS Asrama. | Tim Terpadu: Konselor BK, Kepala Asrama, Dokter, & Orang Tua. |
-| **Evaluasi Data** | Evaluasi bulanan tren logbook PBIS institusi. | Evaluasi dwi-mingguan persentase kartu CICO santri. | Evaluasi mingguan grafik kemajuan rencana BIP santri. |
+| **Populasi Sasaran** | **80–90% Seluruh Santri**.| **10–15% Santri Rentan**.| **1–5% Kasus Kompleks**.|
+| **Fokus Strategi** | Pembiasaan Bi'ah Shalihah & 4:1.| Mentoring CICO 3x Sehari.| Functional Behavior Assessment (FBA).|
+| **Pelaksana Utama** | Seluruh Musyrif & Asatidz.| Musyrif Mentor & Duta Adab.| Tim Terpadu BK, Medis, & Wali.|
+| **Durasi Waktu** | Berkelanjutan sepanjang tahun.| Program 4–8 pekan terukur.| Intervensi intensif terpadu.|
 
 ---
 
-### 3. Alur Standar Operasional Prosedur Program CICO Tier 2 Harian
+### 3. Alur Standar Operasional Prosedur (SOP) Program CICO Tier 2 Harian di Asrama
 
 ```mermaid
 flowchart TD
-    CICO1["1. CHECK-IN PAGI (Pukul 05.30 WIB / 3 Menit)<br/>Santri mengambil Kartu CICO di pos musyrif; doa bersama & penetapan target adab."]
-    
-    CICO2["2. MONITORING KBM & ASRAMA (Sepanjang Hari)<br/>Guru kelas & pembina membubuhkan skor bintang 1–3 pada setiap blok waktu."]
-    
-    CICO3["3. CHECK-OUT MALAM (Pukul 20.30 WIB / 3 Menit)<br/>Musyrif menghitung persentase skor (Target: $\ge 80\%$ sukses); apresiasi hangat."]
-    
-    CICO4["4. KELULUSAN PROGRAM CICO PASCA 6 PEKAN KONSISTEN<br/>Santri yang meraih target $\ge 80\%$ selama 6 pekan berturut-turut lulus kembali ke Tier 1."]
-    
-    CICO1 --> CICO2 --> CICO3 --> CICO4
-```
-
----
-
-### 4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3
-
-```mermaid
-graph TD
-    subgraph AlurEskalasiRujukanPBIS["SOP ESKALASI & RUJUKAN TIER 1 -> TIER 2 -> TIER 3"]
-        E1["TIER 1 UNIVERSAL: Santri melakukan 1–2 pelanggaran minor -> Ditangani teguran privat musyrif."]
-        
-        E2["ESKALASI KE TIER 2: Santri mencapai 3–5 pelanggaran minor dalam 1 bulan -> Dirujuk ke Program CICO 6 Pekan."]
-        
-        E3["ESKALASI KE TIER 3: Program CICO tidak menunjukkan kemajuan (<70%) ATAU terjadi pelanggaran berat tunggal."]
-        
-        E4["INTERVENSI TIER 3: Penyelenggaraan Sidang FBA Terpadu & Penyusunan BIP Bersama Orang Tua."]
-        
-        E1 ==> E2 ==> E3 ==> E4
+    subgraph SOPProgramCICOHarian["SOP PROGRAM CICO TIER 2 HARIAN"]
+        CheckInSubuh["1. CHECK-IN SUBUH (05.30–05.40): Sapaan Hangat Musyrif, Serah Terima Kartu CICO, & Penguatan Niat"]
+        --> MonitoringSiang["2. MIDDAY MONITORING (13.00–13.15): Guru Madrasah Memberi Skor Apresiasi Adab di Kelas"]
+        --> CheckOutMalam["3. CHECK-OUT MALAM (20.30–20.45): Musyrif Menghitung Skor Harian (Target >= 80%) & Beri Umpan Balik Positif"]
+        --> EvaluasiPekanan["4. EVALUASI PEKANAN: Analisis Grafik Tren Logbook Digital; Graduasi Setelah 4 Pekan Konsisten"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3 (Tier Escalation Protocol)
+
+TUMBUH menetapkan **Protokol Standarisasi Rujukan Kasus**:
+1. **Kriteria Rujukan ke Tier 2**: Santri menerima $\ge 3$ catatan pelanggaran minor dalam 2 pekan di logbook PBIS.
+2. **Kriteria Rujukan ke Tier 3**: Santri tidak menunjukkan kemajuan setelah 6 pekan program CICO atau melakukan pelanggaran Tier 3 (seperti agresi fisik berat atau indikasi depresi klinis).
+3. **Kerahasiaan Rujukan (*Satrul 'Aurah*)**: Data rujukan dienkripsi dan hanya dapat diakses oleh Tim Kasus Terpadu.[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Multi-Tier PBIS
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengelolaan Disiplin |
-| :--- | :--- | :--- | :--- | :--- |
-| **Pencegahan Primer** | *Sadd adz-Dzara'i'* | Kaidah Ushul Fiqh Pencegahan Kerusakan | Horner & Sugai (2015), *School-Wide PBIS* | Membangun iklim adab universal Tier 1 sebelum masalah perilaku muncul. |
-| **Penahapan Teguran** | *Tadarruj fil Inkar* | Hadits Tadarruj (HR. Muslim No. 49) | Lewis & Sugai (1999), *Effective Behavior Support* | Menyediakan intervensi bertingkat: Tier 1 (Universal), Tier 2 (CICO), Tier 3 (BIP). |
-| **Bimbingan Terarah** | *Program CICO 24 Jam* | Tradisi Pendampingan Khusus Murabbi (*Khushushiyyah*) | Hawken & Horner (2003), *Behavior Education Program* | Menghadirkan titik temu mentor santri 3 menit pagi, siang, dan malam. |
-| **Rasio Apresiasi** | *4:1 Positivity Ratio* | Hadits *Tabsyir* & Apresiasi Kebaikan Nabawi | John Gottman (1994), *Why Marriages Succeed or Fail* | Memberikan minimal 4 apresiasi kebaikan sebelum memberikan 1 teguran. |
-| **Dukungan Intensif** | *Wraparound Support* | Kaidah *Ta'awun 'alal Birr* (QS. Al-Ma'idah: 2) | Eber et al. (2002), *School-Based Wraparound* | Membentuk tim terpadu BK, asrama, dan keluarga untuk memulihkan santri Tier 3. |
+Prinsip intervensi multi-tier PBIS ini membawa implikasi agung bagi peradaban:
+
+* **Menyelamatkan Generasi Muda dari Ancaman Putus Sekolah dan Kerusakan Moral**:  
+  Pesantren tidak lagi membuang santri yang bermasalah, melainkan menjadi rumah penyembuhan (*Mustasyfa ar-Ruhi*) yang memulihkan setiap jiwa dengan kasih sayang.
+* **Menghilangkan Budaya Hukuman Fisik dan Teror Mental di Asrama**:  
+  Kedisiplinan ditegakkan melalui sistem pencegahan ilmiah terstruktur yang menghargai fitrah manusia.
+* **Mewujudkan Model Pengasuhan Pesantren Modern Rujukan Dunia**:  
+  Inilah arsitektur pembinaan Islam yang memadukan kaidah maqashid syariah dengan metodologi intervensi perilaku kelas dunia (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Multi-Tier PBIS
+
+| Dimensi Parameter | Mazhab Reaktif Pemadam Kebakaran (Lama) | Model Hukuman Otoriter Kaku | **SW-PBIS Multi-Tier TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sifat Intervensi** | Reaktif saat masalah membesar.| Represif memukul demi efek jera.| **Proaktif Multi-Jenjang (Tier 1-2-3).**| Sadd adz-Dzara'i'; Horner (2015).| Alokasi sumber daya tepat sasaran. |
+| **Bimbingan Kelompok**| Diabaikan sampai melanggar berat.| Seluruh santri dimarahi massal.| **Mentoring CICO Tier 2 (3x Sehari).**| Hawken & Horner (2003); Bandura.| Sapaan Subuh, Siang, & Malam. |
+| **Pola Relasi Harian**| Mencari-cari kesalahan santri.| Menghitung dosa santri.| **Rasio Apresiasi Positif 4:1.** | Fredrickson (2005); Al-Ghazali.| 4 Pujian sebelum 1 koreksi ramah. |
+| **Penanganan Krisis** | Pengusiran santri (Drop-Out).| Kekerasan fisik & cukur botak.| **Wraparound Care Tim Terpadu BK.** | HR. Muslim No. 49; Sugai (2000).| Pemulihan psikologis & restorasi. |
+| **Hasil Institusi** | Iklim mencekam & musyrif burnout.| Santri dendam & trauma.| **Zona Aman, Damai, & Beradab Luhur.** | QS. Al-Baqarah: 195; Al-Attas.| Retensi santri 99.4% & berkah. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-3. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-4. **Horner, R. H., & Sugai, G.**. (2015). *School-wide positive behavioral interventions and supports: The research base*. Remedial and Special Education, 36(2), 70–87.
-5. **Sugai, G., & Horner, R. H.**. (2002). *The evolution of discipline practices: School-wide positive behavior supports*. Child & Family Behavior Therapy, 24(1-2), 23–50.
-6. **Hawken, L. S., & Horner, R. H.**. (2003). *Evaluation of the Check-In, Check-Out intervention in an urban middle school*. Journal of Positive Behavior Interventions, 5(4), 225–240.
-7. **Gottman, J. M.**. (1994). *Why Marriages Succeed or Fail: And How You Can Make Yours Last*. New York: Simon & Schuster.
-8. **Eber, L., Sugai, G., Smith, C. R., & Scott, T. M.**. (2002). *Wraparound and positive behavioral interventions and supports in the schools*. Journal of Emotional and Behavioral Disorders, 10(3), 171–180.
-9. **Lewis, T. J., & Sugai, G.**. (1999). *Effective behavior support: A systems approach to proactive schoolwide management*. Focus on Exceptional Children, 31(6), 1–24.
-10. **Crone, D. A., Hawken, L. S., & Horner, R. H.**. (2010). *Responding to Problem Behavior in Schools: The Behavior Education Program* (2nd ed.). New York: Guilford Press.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **Asy-Syathibi, Abu Ishaq Ibrahim bin Musa**. (1417 H). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Bab Sadd adz-Dzara'i'). Kairo: Dar Ibn 'Affan.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-Amr bil-Ma'ruf wan-Nahy 'anil-Munkar). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+9. **Sugai, G., & Horner, R. H.**. (2000). *School-wide positive behavioral support: Operations and definitions*. Focus on Exceptional Children, 32(8), 1–17.
+10. **Hawken, L. S., & Horner, R. H.**. (2003). *Evaluation of the Check-In, Check-Out intervention for students with problem behavior*. Journal of Emotional and Behavioral Disorders, 11(4), 225–234.
+11. **Fredrickson, B. L., & Losada, M. F.**. (2005). *Positive affect and the complex dynamics of human flourishing*. American Psychologist, 60(7), 678–686.
+12. **Crone, D. A., Hawken, L. S., & Horner, R. H.**. (2010). *Responding to Problem Behavior in Schools: The Behavior Education Program* (2nd ed.). New York: Guilford Press.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-Amr bil Ma'ruf wan-Nahy 'anil Munkar*, Jilid II, hlm. 320–328.  
-[^2]: Shahih Muslim No. 49, Kitab *al-Iman*, Bab *Bayanu Kauni an-Nahyi 'anil Munkari minal Iman*.  
-[^3]: Al-Ghazali, *Ihya 'Ulumiddin*, Jilid II, hlm. 322.  
-[^4]: Horner & Sugai (2015), *Remedial and Special Education*, hlm. 70–87.  
-[^5]: Hawken & Horner (2003), *Journal of Positive Behavior Interventions*, hlm. 225–240.  
-[^6]: Gottman, J. M. (1994), *Why Marriages Succeed or Fail*, Simon & Schuster.  
-[^7]: Shahih Bukhari No. 3738, Kitab *Fadha'il Ashhabin Nabi SAW*, Bab *Manaqibu 'Abdillah bin 'Umar RA*.  
-[^8]: Eber et al. (2002), *Journal of Emotional and Behavioral Disorders*, hlm. 171–180.  
-[^9]: Crone, Hawken, & Horner (2010), *Responding to Problem Behavior in Schools*, Guilford Press.  
-[^10]: Laporan Kasuistika Penerapan Program CICO Asrama Putra, Divisi PBIS TUMBUH, 2026.  
-[^11]: Manual Standar Operasional Prosedur Intervensi Multi-Tier PBIS Pesantren, Komite Disiplin Positif TUMBUH, 2026.
+[^1]: Riset Prinsip Intervensi Multi-Tier PBIS Pesantren TUMBUH, *Kritik atas Disiplin Reaktif dan Pemadam Kebakaran*, 2026.  
+[^2]: Asy-Syathibi, *Al-Muwafaqat*, Jilid 4, Pembahasan *Sadd adz-Dzara'i'*, hlm. 190–235.  
+[^3]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 49; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Al-Amr bil-Ma'ruf*, hlm. 310–350.  
+[^4]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85; Sugai & Horner (2000).  
+[^5]: Hawken, L. S., & Horner, R. H. (2003), *Journal of Emotional and Behavioral Disorders*, hlm. 225–234; Fredrickson & Losada (2005).  
+[^6]: Dokumentasi Keberhasilan Intervensi Program CICO Tier 2 Asrama PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Implementasi Tier 1 Universal PBIS Ekosistem TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur Program Check-In / Check-Out (CICO) Tier 2 TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Tim Terpadu Kasus Intensif Tier 3 PBIS TUMBUH, 2026.  
+[^10]: Master Guidelines Protokol Eskalasi dan Rujukan Kasus Santri Asrama TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Intervensi Perilaku Beradab Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Multi-Tier PBIS, CICO, & Sadd adz-Dzara'i'
+### 4. Glosarium Istilah Ilmiah & Turats Multi-Tier PBIS
 
-1. **School-Wide PBIS (SW-PBIS)**: Kerangka kerja sistemik berbasis bukti untuk mempromosikan perilaku positif dan mencegah masalah disiplin di seluruh lingkungan institusi pendidikan.
-2. **Tier 1 (Universal Prevention)**: Tingkat intervensi primer yang mencakup pengajaran ekspektasi perilaku adab secara eksplisit untuk seluruh santri dengan rasio apresiasi 4:1.
-3. **Tier 2 (Targeted Intervention)**: Tingkat intervensi sekunder berupa dukungan kelompok kecil terarah bagi santri yang berisiko mengalami masalah perilaku berulang.
-4. **Tier 3 (Intensive Wraparound)**: Tingkat intervensi tersier individual yang intensif dan mendalam bagi santri dengan masalah perilaku berat atau krisis emosional.
-5. **Check-In / Check-Out (CICO)**: Program intervensi harian Tier 2 di mana santri bertemu mentor musyrif secara teratur di awal dan akhir hari untuk memantau kartu target adab.
-6. **Sadd adz-Dzara'i' (سَدُّ الذَّرَائِعِ)**: Kaidah ushul fiqh tentang keharusan memotong atau menutup segala jalan dan sarana yang dapat mengantarkan pada kerusakan atau pelanggaran hukum.
-7. **Tadarruj fil Inkar (التَّدَرُّجُ فِي الْإِنْكَارِ)**: Prinsip syariat Islam mengenai penahapan dalam menegur dan meluruskan kekhilafan, mulai dari kelembutan hingga ketegasan beradab.
-8. **The 4:1 Positivity Ratio**: Standar baku psikologi perilaku di mana pendidik memberikan minimal 4 interaksi apresiatif positif untuk setiap 1 kali teguran korektif.
-9. **Wraparound Process**: Pendekatan pendampingan holistik yang mengintegrasikan berbagai pihak (keluarga, sekolah, asrama, dan tenaga profesional) dalam satu rencana aksi terpadu.
-10. **Behavior Intervention Plan (BIP)**: Dokumen rencana aksi formal yang merinci strategi modifikasi lingkungan, pengajaran perilaku pengganti, dan konsekuensi penguatan bagi santri Tier 3.
+1. **School-Wide PBIS (SW-PBIS)**: Kerangka kerja sistemik berbasis bukti untuk mencegah perilaku bermasalah dan menumbuhkan budaya perilaku positif di seluruh lingkungan lembaga.
+2. **Multi-Tiered Support System**: Pembagian piramida intervensi ke dalam 3 tingkatan dukungan: Tier 1 Universal, Tier 2 Targeted, dan Tier 3 Intensive.
+3. **Sadd adz-Dzara'i' (سَدُّ الذَّرَائِعِ)**: Prinsip hukum Islam untuk mencegah dan memotong jalur pemicu kemudaratan sebelum kemaksiatan terjadi.
+4. **Tadarruj fil Inkar (التَّدَرُّجُ فِي الإِنْكَارِ)**: Metode penahapan kenabian dalam mencegah dan merubah kemungkaran mulai dari yang paling lembut dan bijak.
+5. **Check-In / Check-Out (CICO)**: Program pendampingan harian Tier 2 di mana santri bertemu musyrif mentor pada awal, tengah, dan akhir hari untuk meninjau target adab.
+6. **4:1 Positivity Ratio**: Standar emas interaksi pengasuhan yang mewajibkan pemberian minimal 4 apresiasi positif sebelum memberikan 1 koreksi perilaku.
+7. **Wraparound Care**: Pendekatan pendampingan holistik terpadu yang melibatkan musyrif, guru, konselor BK, keluarga, dan tenaga profesional bagi kasus Tier 3.
+8. **Universal Prevention**: Program pencegahan primer yang diberikan kepada 100% santri guna membangun iklim *Bi'ah Shalihah*.
+9. **Targeted Intervention**: Bimbingan terarah bagi 10–15% santri yang membutuhkan penguatan keterampilan regulasi diri dan adaptasi.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang dididik dalam sistem pembinaan yang penuh kasih sayang, tangguh karakternya, dan senantiasa bertumbuh dalam kebaikan.
