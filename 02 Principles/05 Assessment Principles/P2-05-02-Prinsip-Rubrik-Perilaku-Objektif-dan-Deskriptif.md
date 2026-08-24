@@ -1,320 +1,252 @@
-# P2-05-02: PRINSIP RUBRIK PERILAKU OBJEKTIF DAN DESKRIPTIF
-## *Monograf Terpadu: Epistemologi Mizan al-'Adl (QS. Ar-Rahman: 9) & Kaidah Al-Yaqinu la Yazulu bisy-Syakk, Konvergensi Behaviorally Anchored Rating Scales (BARS Smith & Kendall), Eliminasi Halo/Horn Effect, serta Standarisasi Reliabilitas Antar-Penilai (Inter-Rater Reliability Cohen's Kappa > 0.80)*
+# P2-05-02: PRINSIP RUBRIK PERILAKU OBJEKTIF DAN DESKRIPTIF (OBJECTIVE BEHAVIORAL RUBRICS & BARS)
+## *Monograf Riset Akademik: Epistemologi Mizan al-'Adl (QS. Ar-Rahman: 9) & Kaidah Al-Yaqinu la Yazulu bisy-Syakk, Behaviorally Anchored Rating Scales (BARS Smith & Kendall), Eliminasi Halo/Horn Effect, Serta Standarisasi Reliabilitas Antar-Penilai (Cohen's Kappa > 0.80) di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-05-02/MONOGRAF-TERPADU-RUBRIK-PERILAKU-OBJEKTIF/2026`  
-**Domain**: `02 Principles` > `05 Assessment Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-05-02/MONOGRAF-RISET-RUBRIK-PERILAKU-OBJEKTIF/2026`  
+**Domain**: `02 Principles` > `05 Assessment Principles` (Prinsip Asesmen 02: *Objective Behavioral Rubrics & BARS*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Asesmen)  
 **Rumpun Disiplin Pengkaji**: Psikometri Pengukuran Perilaku (*Behavioral Psychometrics*), Metodologi Konstruksi Rubrik BARS, Audit Bias Kognitif Penilai, Fiqh Keadilan Persaksian Islam (*Fiqh asy-Syahadah wa al-Mizan*)  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Hapus Penilaian Karakter Berbasis "Suka atau Tidak Suka" (*Like & Dislike*):**  
->   Seringkali di pesantren, santri yang pendiam dan rajin mencium tangan guru langsung dinilai "Akhlak: 95" (*Halo Effect*), sementara santri yang kritis atau pernah berbuat salah langsung divonis "Akhlak: 50" (*Horn Effect*). Ini adalah kezaliman penilaian yang dilarang keras dalam Islam.
-> * **Gunakan Rubrik Perilaku BARS (Deskripsi Tindakan Nyata):**  
->   Jangan menilai santri dengan angka abstrak (1–5) yang membingungkan. Gunakan rubrik BARS yang mendeskripsikan tindakan nyata:  
->   - **Level 1 (Perlu Bimbingan):** Sering memotong antrean wudhu dan membantah saat ditegur.  
->   - **Level 2 (Berkembang):** Mengantre wudhu tertib namun masih perlu diingatkan.  
->   - **Level 3 (Mandiri):** Mengantre tertib secara mandiri dan meletakkan sandal rapi.  
->   - **Level 4 (Teladan/Ihsan):** Menertibkan antrean, membantu kawan, dan mendahulukan orang lain.
-> * **Uji Kesepakatan Antar-Musyrif (*Inter-Rater Reliability*):**  
->   Setiap bulan, para musyrif melakukan kalibrasi bersama. Dua musyrif yang mengamati santri yang sama harus menghasilkan kesimpulan penilaian yang sama persis (Tingkat kesepakatan Cohen's Kappa > 0.80).
+> * **Kelemahan Paradigma Lama: Subjektivitas Buta Skala Likert Angka Abstrak:**  
+>   Penilaian akhlak santri sering kali didasarkan pada selera pribadi musyrif (*Like & Dislike*). Santri penurut yang rajin mencium tangan guru langsung dinilai A (*Halo Effect*), sementara santri yang kritis langsung divonis nilai C (*Horn Effect*). Format angka abstrak 1–5 tanpa deskriptor perilaku konkret memicu ketidakadilan penilaian.
+> * **Inovasi Konseptual: Mizan al-'Adl Syar'i & Behaviorally Anchored Rating Scales (BARS):**  
+>   TUMBUH menegakkan perintah Allah: *"Dan tegakkanlah timbangan itu dengan adil dan janganlah kamu mengurangi neraca itu"* (QS. Ar-Rahman: 9) dan kaidah ushul *Al-Yaqinu la Yazulu bisy-Syakk* (keyakinan fakta tidak gugur oleh prasangka). Mengadopsi metode **BARS (Smith & Kendall)**: mengganti angka abstrak dengan deskripsi perilaku konkret yang teramati (*Observable Behavioral Anchors*) dalam 4 tingkat kematangan: **Level 1 (Perlu Bimbingan), Level 2 (Berkembang), Level 3 (Mandiri), Level 4 (Teladan/Ihsan)**.
+> * **Formulasi Operasional & Penjaminan Reliabilitas Penilai:**  
+>   Monograf ini menguraikan matriks rubrik BARS 5 dimensi adab utama, protokol kalibrasi antar-penilai (*Inter-Rater Reliability Cohen's Kappa > 0.80*), audit bias penilai (*Bias Auditing SOP*), dan etika persaksian objektif.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET RUBRIK PERILAKU OBJEKTIF & RELIABILITAS ASESMEN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-rubrik-perilaku-objektif--reliabilitas-asesmen-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Rubrik Perilaku: Menghentikan Penilaian Kepribadian Subjektif](#1-kerangka-metodologi-rubrik-perilaku-menghentikan-penilaian-kepribadian-subjektif)
-  - [2. Inkuiri 1: Eksegesis Turats Keadilan Neraca Hisab — Mizan al-'Adl & Kaidah Al-Yaqinu la Yazulu bisy-Syakk](#2-inkuiri-1-eksegesis-turats-keadilan-neraca-hisab--mizan-al-adl--kaidah-al-yaqinu-la-yazulu-bisy-syakk)
-  - [3. Inkuiri 2: Konvergensi Behaviorally Anchored Rating Scales (BARS Smith & Kendall)](#3-inkuiri-2-konvergensi-behaviorally-anchored-rating-scales-bars-smith--kendall)
-  - [4. Inkuiri 3: Eliminasi Bias Kognitif Pengasuh (Halo Effect, Horn Effect, & Central Tendency)](#4-inkuiri-3-eliminasi-bias-kognitif-pengasuh-halo-effect-horn-effect--central-tendency)
-  - [5. Inkuiri 4: Uji Reliabilitas Antar-Penilai (Inter-Rater Reliability / Cohen's Kappa > 0.80)](#5-inkuiri-4-uji-reliabilitas-antar-penilai-inter-rater-reliability--cohens-kappa--080)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
-  - [2. Matriks Rubrik BARS 4 Tingkat untuk 5 Dimensi Adab Utama Santri](#2-matriks-rubrik-bars-4-tingkat-untuk-5-dimensi-adab-utama-santri)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Subjektivitas Buta, Halo/Horn Effect, dan Ketidakadilan Nilai Rapor](#1-latar-belakang-masalah-kritik-atas-subjektivitas-buta-halohorn-effect-dan-ketidakadilan-nilai-rapor)
+  - [2. Eksegesis Turats Keadilan Neraca Hisab: Mizan al-'Adl (QS. Ar-Rahman: 9) & Kaidah Al-Yaqinu la Yazulu bisy-Syakk](#2-eksegesis-turats-keadilan-neraca-hisab-mizan-al-adl-qs-ar-rahman-9--kaidah-al-yaqinu-la-yazulu-bisy-syakk)
+  - [3. Konvergensi Sains Psikometri Perilaku: Behaviorally Anchored Rating Scales (BARS Smith & Kendall)](#3-konvergensi-sains-psikometri-perilaku-behaviorally-anchored-rating-scales-bars-smith--kendall)
+  - [4. Rekayasa Eliminasi Bias Kognitif Penilai & Standarisasi Reliabilitas Antar-Musyrif (Cohen's Kappa > 0.80)](#4-rekayasa-eliminasi-bias-kognitif-penilai--standarisasi-reliabilitas-antar-musyrif-cohens-kappa--080)
+  - [5. Kasuistika Lapangan: Kasus Perbedaan Penilaian Ekstrem Dua Musyrif & Resolusi Rubrik BARS](#5-kasuistika-lapangan-kasus-perbedaan-penilaian-ekstrem-dua-musyrif--resolusi-rubrik-bars)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
+  - [2. Matriks Rubrik BARS Empat Tingkat untuk Lima Dimensi Adab Utama Santri](#2-matriks-rubrik-bars-empat-tingkat-untuk-lima-dimensi-adab-utama-santri)
   - [3. Protokol Kalibrasi & Standardisasi Penilaian Antar-Musyrif (Inter-Rater Calibration Protocol)](#3-protokol-kalibrasi--standardisasi-penilaian-antar-musyrif-inter-rater-calibration-protocol)
   - [4. Alur Audit Keadilan Penilaian PBIS (Bias Auditing SOP)](#4-alur-audit-keadilan-penilaian-pbis-bias-auditing-sop)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Rubrik Perilaku Objektif](#1-tabel-sintesis-hasil-riset-rubrik-perilaku-objektif)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Rubrik Perilaku Objektif](#1-tabel-sintesis-temuan-riset-rubrik-perilaku-objektif)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis BARS, Psikometri Perilaku, & Reliabilitas Asesmen](#4-glosarium-dan-penjelasan-istilah-teknis-bars-psikometri-perilaku--reliabilitas-asesmen)
+  - [4. Glosarium Istilah Ilmiah & Turats Rubrik Perilaku Objektif](#4-glosarium-istilah-ilmiah--turats-rubrik-perilaku-objektif)
 
 ---
 
-# BAGIAN I: RISET RUBRIK PERILAKU OBJEKTIF & RELIABILITAS ASESMEN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Rubrik Perilaku: Menghentikan Penilaian Kepribadian Subjektif
+### 1. Latar Belakang Masalah: Kritik atas Subjektivitas Buta, Halo/Horn Effect, dan Ketidakadilan Nilai Rapor
 
-Penyakit kronis dalam pemberian nilai kepribadian/akhlak santri di pesantren konvensional adalah **Subjektivitas Buta Penilai (*Rater Subjectivity & Impressionistic Grading*)**:
-* Nilai akhlak diberikan berdasarkan kesan emosional sesaat (*Mood Musyrif*), bukan bukti perilaku objektif.
-* Format penilaian hanya menggunakan angka skala Likert abstrak (1 = Sangat Buruk, 5 = Sangat Baik) tanpa ada penjelasan apa yang membedakan nilai 3 dan nilai 4. Akibatnya, setiap musyrif memiliki standar tafsir sendiri-sendiri yang berbeda-beda.
-* Santri yang pandai mengambil hati guru (*Social Masking*) selalu mendapat nilai A, sementara santri yang kritis dan vokal kerap divonis berakhlak buruk (*Horn Effect*).
-
-Syariat Islam menuntut tegaknya **Keadilan Timbangan Neraca (*Mizanul 'Adl*)** yang tidak boleh dicurangi oleh hawa nafsu. Evaluasi karakter di ekosistem TUMBUH distandarisasi menggunakan metode **Behaviorally Anchored Rating Scales (BARS)**.
+Penyakit kronis dalam penilaian karakter santri di madrasah dan asrama konvensional adalah **Subjektivitas Buta Penilai (*Impressionistic Grading & Rater Bias*)**:
+* Nilai akhlak diberikan berdasarkan impresi emosional sesaat (*Mood Musyrif*), bukan berbasis bukti perilaku faktual.
+* Lembar penilaian hanya menyediakan skala angka abstrak 1–5 (Sangat Buruk s/d Sangat Baik) tanpa kejelasan definisi pembeda.
+* Terjadinya **Halo Effect** (santri yang pandai mengambil hati guru langsung dinilai A tanpa melihat kelalaian asramanya) dan **Horn Effect** (santri yang kritis atau pernah berbuat salah sekali langsung divonis nilai D secara permanen).
+* **Keniscayaan Keadilan Asesmen Ilmiah**: Diperlukan instrumen rubrik deskriptif yang menguraikan perilaku kasat mata secara objektif (*Behaviorally Anchored*) guna menjamin keadilan penilaian di hadapan Allah SWT dan manusia.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiRubrikPenilaian["TRANSFORMASI RUBRIK PENILAIAN ADAB"]
-        LikertAbstrak["SKALA ANGKA ABSTRAK SUBJEKTIF (LAMA)<br/>• Skala angka 1–5 tanpa deskripsi perilaku nyata.<br/>• Dipengaruhi bias Like & Dislike, mood, & Halo Effect.<br/>• Santri merasa diperlakukan tidak adil & bingung."]
+    subgraph TransformasiRubrikPerilaku["TRANSFORMASI RUBRIK PENILAIAN KARAKTER"]
+        PolaLikertLama["ANGKA ABSTRAK & BIAS SUBJEKTIF (LAMA)<br/>• Skala Likert 1-5 tanpa deskriptor nyata.<br/>• Terjebak Halo Effect & Horn Effect musyrif.<br/>• Vonis akhlak berdasarkan emosi suka/tidak suka."]
         
-        BARSTUMBUH["RUBRIK PERILAKU OBJEKTIF BARS (TUMBUH)<br/>• Deskripsi jangkar perilaku nyata 4 tingkat (J1–J4).<br/>• Reliabilitas antar-penilai terkalibrasi (Kappa > 0.80).<br/>• Penilaian adil, transparan, & mendidik perbaikan."]
+        PolaBARSTUMBUH["RUBRIK BARS OBJEKTIF & TERKALIBRASI (TUMBUH)<br/>• Deskripsi tindakan konkret 4 level kematangan.<br/>• Kaidah Mizanul 'Adl & Al-Yaqinu la Yazulu bisy-Syakk.<br/>• Uji Reliabilitas Antar-Musyrif (Cohen's Kappa > 0.80)."]
         
-        LikertAbstrak ==>|STANDARISASI PSIKOMETRI ISLAMI| BARSTUMBUH
+        PolaLikertLama ==>|DIREKONSTRUKSI MENJADI| PolaBARSTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Keadilan Neraca Hisab — *Mizan al-'Adl* & Kaidah *Al-Yaqinu la Yazulu bisy-Syakk*
+### 2. Eksegesis Turats Keadilan Neraca Hisab: Mizan al-'Adl (QS. Ar-Rahman: 9) & Kaidah Al-Yaqinu la Yazulu bisy-Syakk
 
-```mermaid
-graph TD
-    A["Gugatan Penilaian Berbasis Firasat Bebas (Pihak A):<br/>'Musyrif itu punya firasat batin, jadi cukup pakai insting saja untuk menilai apakah santri ini berakhlak baik atau buruk!'"]
-    --> B1["Tinjauan Al-Qur'an Surah Ar-Rahman: 9 & Al-Hadid: 25:<br/>Perintah menegakkan timbangan keadilan (Al-Mizan) dengan lurus tanpa mengurangi takaran."]
-    A --> B2["Tinjauan Al-Qur'an Surah Al-Hujurat: 12:<br/>Larangan keras berprasangka buruk (Inna ba'dhazh-zhann itsm) & menuduh tanpa bukti nyata."]
-    A --> B3["Tinjauan Kaidah Fiqhiyyah As-Suyuthi:<br/>'Al-Yaqinu la yazulu bisy-syakk' (Keyakinan bahwa seorang santri pada asalnya baik tidak boleh digugurkan hanya oleh kecurigaan atau prasangka penilai)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Menilai adab santri wajib berlandaskan bukti nyata perilaku yang terukur secara adil & objektif."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap keputusan evaluasi kepribadian dan persaksian atas kehormatan santri niscaya wajib ditegakkan di atas neraca keadilan bukti (*Mizan al-Bayyinah*) yang bebas dari persangkaan subjektif dan kezaliman hawa nafsu penilai.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Allah SWT memerintahkan penegakan timbangan dengan adil (QS. Ar-Rahman: 9) dan kaidah fiqhiyyah menetapkan bahwa vonis kesalahan tidak sah dijatuhkan hanya atas dasar keraguan (*Syakk*) atau prasangka (*Zhann*).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh instrumen penilaian karakter di pesantren TUMBUH wajib menggunakan rubrik perilaku terukur yang memiliki jangkar bukti operasional objektif.[^1]
-
-#### 📖 Teks Primer Al-Qur'an & Kaidah Fiqhiyyah
-Firman Allah SWT menegaskan kewajiban menegakkan timbangan:
+Allah SWT memerintahkan penegakan keadilan neraca timbangan tanpa kecurangan sedikit pun:
 
 $$\text{وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ}$$
 
-*"**Dan tegakkanlah timbangan itu dengan adil dan janganlah kamu mengurangi neraca timbangan itu!**"* (QS. Ar-Rahman [55]: 9).[^2]
+*"**Dan tegakkanlah timbangan itu dengan adil dan janganlah kamu mengurangi neraca timbangan itu**."* (QS. Ar-Rahman [55]: 9).[^2]
 
-Dan Imam Jalaluddin As-Suyuthi (w. 911 H) menegaskan kaidah hukum dalam *Al-Asybah wan-Nazha'ir*:
+Kaidah Fiqhiyyah induk menegaskan:
 
-$$\text{الْيَقِينُ لَا يَزُولُ بِالشَّكِّ، وَالْأَصْلُ بَرَاءَةُ الذِّمَّةِ}$$
+$$\text{الْيَقِينُ لَا يَزُولُ بِالشَّكِّ}$$
 
-*"**Keyakinan tidak dapat dihilangkan oleh keraguan, dan hukum asal bagi seorang manusia adalah bebas dari segala tuduhan kesalahan (Praduga Tidak Bersalah)**."* (*Al-Asybah wan-Nazha'ir*, hlm. 51).[^3]
+*"**Sesuatu yang yakin (fakta perilaku riil yang terbukti) tidak boleh digugurkan atau diubah oleh keraguan (prasangka subjektif penilai)**."*[^3]
 
----
-
-### 3. Inkuiri 2: Konvergensi *Behaviorally Anchored Rating Scales (BARS)* Smith & Kendall
-
-```mermaid
-graph TD
-    subgraph StrukturRubrikBARS["STRUKTUR 4 TINGKAT RUBRIK BARS TUMBUH"]
-        L1["TINGKAT 1: PERLU BIMBINGAN (EMERGING)<br/>Contoh Indikator: Menolak giliran piket kamar & melempar sampah di lantai."]
-        
-        L2["TINGKAT 2: BERKEMBANG (DEVELOPING)<br/>Contoh Indikator: Menyapu kamar hanya saat diperintah musyrif berulang kali."]
-        
-        L3["TINGKAT 3: MANDIRI BERADAB (PROFICIENT)<br/>Contoh Indikator: Menyapu kamar secara mandiri sesuai jadwal tanpa perlu diingatkan."]
-        
-        L4["TINGKAT 4: PENGGERAK IHSAN (EXEMPLARY)<br/>Contoh Indikator: Menyapu kamar mandiri + membantu kawan piket yang sedang sakit."]
-        
-        L1 ==> L2 ==> L3 ==> L4
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem penilaian perilaku yang menyediakan deskriptor tindakan empiris konkret pada setiap tingkatannya (*Behavioral Anchors*) niscaya meminimalkan distorsi interpretasi penilai dan meningkatkan kejelasan ekspektasi bagi pembelajar.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Metodologi *Behaviorally Anchored Rating Scales (BARS)* (Smith & Kendall, 1963; Schwab et al., 1975) terbukti secara psikometrik menghasilkan akurasi evaluasi tertinggi dalam pengukuran performa manusia.
-* **Konklusi (*an-Natijah*)**: Maka, ekosistem TUMBUH mengadopsi struktur BARS 4 tingkat dalam seluruh instrumen rubrik adab santri.[^4]
+Pemberian nilai akhlak kepada santri adalah bentuk persaksian (*Syahadah*) di hadapan Allah SWT; bersaksi tanpa bukti perilaku faktual adalah dosa persaksian palsu (*Syahadatu az-Zur*).[^4]
 
 ---
 
-### 4. Inkuiri 3: Eliminasi Bias Kognitif Pengasuh (*Halo Effect, Horn Effect, & Central Tendency*)
+### 3. Konvergensi Sains Psikometri Perilaku: Behaviorally Anchored Rating Scales (BARS Smith & Kendall)
 
-```mermaid
-graph TD
-    subgraph TigaBiasKognitifPenilai["3 BIAS KOGNITIF YANG WAJIB DIELIMINASI"]
-        Halo["1. HALO EFFECT (Bias Kemilau)<br/>Santri juara kelas / fasih bahasa Arab otomatis dinilai baik adabnya,<br/>padahal belum tentu disiplin merapikan kasur."]
-        
-        Horn["2. HORN EFFECT (Bias Tanduk Setan)<br/>Santri yang pernah melanggar 1 aturan langsung dicap nakal selamanya,<br/>sehingga kebaikan-kebaikan barunya tidak pernah diakui."]
-        
-        Central["3. CENTRAL TENDENCY BIAS (Bias Main Aman)<br/>Musyrif malas mengamati sehingga memberi nilai rata-rata (skor 3/C)<br/>ke semua santri tanpa pembedaan."]
-        
-        Halo --- Horn --- Central
-    end
-```
+Sains psikometri modern (**BARS**, Smith & Kendall, 1963; Schwab et al., 1975) menetapkan standar konstruksi rubrik:
+* Mengganti label abstrak dengan **Jangkar Perilaku Kritis (*Critical Behavioral Incidents*)**.
+* Setiap tingkatan skor (Level 1 hingga Level 4) dideskripsikan melalui tindakan operasional spesifik yang dapat diobservasi secara kasat mata (*Observable & Measurable*), sehingga meminimalkan ruang interpretasi liar penilai.[^5]
 
 ---
 
-### 5. Inkuiri 4: Uji Reliabilitas Antar-Penilai (*Inter-Rater Reliability / Cohen's Kappa > 0.80*)
+### 4. Rekayasa Eliminasi Bias Kognitif Penilai & Standarisasi Reliabilitas Antar-Musyrif (Cohen's Kappa > 0.80)
 
-```mermaid
-flowchart LR
-    MusyrifA["Musyrif Kamar A<br/>Mengamati Santri Z"] --> Komparasi["KOMPARASI DATA OBSERVASI BARS"]
-    MusyrifB["Musyrif Kamar B<br/>Mengamati Santri Z"] --> Komparasi
-    
-    Komparasi --> Kappa["UJI STATISTIK COHEN'S KAPPA COEFFICIENT<br/>• Kappa < 0.60: Tidak Valid (Rubrik Masih Bias).<br/>• Kappa 0.60–0.79: Cukup.<br/>• Kappa ≥ 0.80: SANGAT RELIABEL & ADIL (Standar TUMBUH)."]
-```
-
-#### 📖 Teks Sains Psikometri: Prof. Jacob Cohen (1960)
-Koefisien *Cohen's Kappa ($\kappa$)* mengukur derajat kesepakatan murni antara dua penilai independen setelah memperhitungkan faktor kebetulan (*Chance Agreement*):
-
-$$\kappa = \frac{P_o - P_e}{1 - P_e}$$
-
-Pesantren TUMBUH menetapkan ambang batas mutu $\kappa \ge 0.80$ (*Almost Perfect Agreement*). Apabila nilai kesepakatan di bawah 0.80, rubrik wajib direvisi dan musyrif wajib mengikuti pelatihan kalibrasi ulang.[^5]
+TUMBUH memberlakukan protokol audit reliabilitas:
+* **Uji Kesepakatan Antar-Penilai (*Inter-Rater Reliability*)**: Dua musyrif yang mengamati santri yang sama dalam lokus waktu yang sama wajib menghasilkan skor yang kongruen dengan koefisien **Cohen's Kappa ($\kappa$) Minimal $0.80$**.
+* **Sesi Kalibrasi Bulanan**: Majelis musyrif menelaah rekaman studi kasus perilaku nyata untuk menyamakan persepsi rubrik.[^6]
 
 ---
 
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 5. Kasuistika Lapangan: Kasus Perbedaan Penilaian Ekstrem Dua Musyrif & Resolusi Rubrik BARS
 
-#### 🥊 Ronde 1: Menolak Mitos Bahwa "Membuat Rubrik Deskriptif Membebani Musyrif dengan Administrasi yang Rumit"
-* **Pihak A (Sudut Pandang Resistensi Beban Kerja)**:  
-  *"Musyrif itu sudah capek mengurus santri dari pagi sampai malam; jangan disuruh menghafal rubrik BARS yang tebal dan rumit!"*
-* **Tinjauan Sudut Pandang Antarmuka Digital Cepat (Fast-Tap UX)**:  
-  Rubrik BARS di ekosistem TUMBUH **Tidak Berupa Kertas Tebal**, melainkan telah diintegrasikan ke dalam antarmuka aplikasi digital musyrif (*Fast-Tap UI*). Musyrif cukup memilih ikon perilaku spesifik dalam 3 detik. Rubrik BARS justru **Mempermudah Musyrif** karena menghilangkan kebingungan dalam menentukan kriteria penilaian.[^6]
-
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Jika Dua Musyrif Tetap Berbeda Pendapat Mengenai Skor Seorang Santri?
-* **Pihak A (Sudut Pandang Kebuntuan Penilaian)**:  
-  *"Kalau musyrif A menilai Level 3 dan musyrif B menilai Level 2, bagaimana solusinya tanpa berdebat kusir?"*
-* **Tinjauan Sudut Pandang Sidang Kalibrasi & Pembuktian Bukti (Evidence-Based Resolution)**:  
-  Perbedaan diselesaikan melalui **Sidang Kalibrasi Adab Pekanan**: kedua musyrif memaparkan bukti tanggal dan catatan logbook masing-masing. Diskusi berfokus pada **Fakta Perilaku Teramati**, bukan opini perasaan. Jika ada keraguan, status santri diputuskan dengan prinsip kehati-hatian yang berpihak pada perbaikan santri.[^7]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Transparansi Rubrik Kepada Santri Menumbuhkan Keadilan?
-* **Pihak A (Sudut Pandang Rahasia Pengasuh)**:  
-  *"Rubrik penilaian itu rahasia para ustadz; santri tidak boleh tahu kriteria apa saja yang dinilai biar tidak pura-pura baik!"*
-* **Resolusi Sudut Pandang Transparansi Pedagogis (Assessment as Learning)**:  
-  Merahasiakan kriteria penilaian adalah bentuk kezaliman informasi. Santri berhak mengetahui apa standar adab yang diharapkan darinya. Ketika rubrik BARS dipasang transparan di dinding kamar, santri termotivasi untuk **Mengevaluasi Dirinya Sendiri (*Self-Regulated Alignment*)** menuju level 4 (Teladan Ihsan).[^8]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Musyrif senior selalu memberi nilai D kepada Santri D karena Santri D berwajah ketus dan jarang tersenyum; Santri D merasa didiskriminasi dan putus asa.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen menerapkan *Audit Rubrik BARS*. Saat diuji dengan indikator objektif BARS (shalat berjamaah tepat waktu, tidak pernah melanggar jam tidur, piket kamar selalu tuntas), Santri D terbukti berada di Level 3 (Mandiri Beradab). Nilai Santri D dikoreksi secara adil dan musyrif senior mendapatkan bimbingan teknis mengenai bahaya bias *Horn Effect*.[^9]
+* **Studi Kasus: Santri Dinilai "A" oleh Musyrif Pagi Namun Diberi "D" oleh Musyrif Malam**  
+  * **Dilema**: Musyrif pagi menilai santri rajin karena selalu tersenyum saat piket, sedangkan musyrif malam menilai santri nakal karena suka berdiskusi hingga larut malam.
+  * **Resolusi BARS TUMBUH**: Kepala Pengasuhan melakukan audit rubrik: (1) Menghentikan penggunaan formulir lama; (2) Menerapkan rubrik BARS dimensi kedisiplinan istirahat dan tanggung jawab piket; (3) Kedua musyrif mengukur berdasarkan jangkar perilaku nyata (santri telah menuntaskan piket dan begadang untuk muraja'ah bersama teman). Skor santri dikoreksi menjadi Level 3 (Mandiri) secara adil dan disepakati kedua musyrif.[^7]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
-### 1. Formulasi Konseptual: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghapusan Skala Angka Abstrak Subjektif (anti-subjective Grading Mandate)**:  
-   Menolak segala bentuk pemberian nilai akhlak berbasis angka kering (1–5 / A–E) tanpa indikator nyata. Seluruh penilaian karakter wajib menggunakan deskripsi jangkar perilaku nyata (BARS Framework).
-
-2. **Penerapan 4 Tingkat Deskriptor Perilaku Bars Yang Terukur**:  
-   Setiap dimensi adab dirumuskan dalam 4 level progresif: Level 1 (Perlu Bimbingan / Emerging), Level 2 (Berkembang / Developing), Level 3 (Mandiri Beradab / Proficient), & Level 4 (Penggerak Ihsan / Exemplary).
-
-3. **Mutu Reliabilitas Antar-penilai (inter-rater Reliability $\kappa \ge 0.80$)**:  
-   Mewajibkan tingkat kesepakatan skor antar-musyrif mencapai koefisien Cohen's Kappa minimal 0.80, didukung oleh sidang kalibrasi adab pekanan dan pencatatan berbasis logbook digital real-time.
-
-4. **Transparansi Kriteria Adab Kepada Seluruh Santri**:  
-   Rubrik BARS wajib disosialisasikan secara terbuka kepada santri dan orang tua, berfungsi sebagai kompas pembiasaan diri (Self-Regulation Guide) dan sarana muhasabah harian yang memuliakan martabat.
-
-
----
-
-### 2. Matriks Rubrik BARS 4 Tingkat untuk 5 Dimensi Adab Utama Santri
-
-| Dimensi Adab | Level 1: Perlu Bimbingan *(Emerging)* | Level 2: Berkembang *(Developing)* | Level 3: Mandiri Beradab *(Proficient)* | Level 4: Penggerak Ihsan *(Exemplary)* |
-| :--- | :--- | :--- | :--- | :--- |
-| **1. Adab Thaharah & Ibadah** | Terlambat jamaah, sandal berantakan di masjid, wudhu tergesa-gesa mencipratkan air. | Tepat waktu jamaah setelah dibangunkan musyrif; menata sandal rapi setelah diingatkan. | Shalat di shaf awal mandiri, menata sandal rapi tanpa disuruh, tenang berzikir. | Hadir 10 menit sebelum adzan, mengumandangkan adzan/iqamah, mengajak kawan kamar shalat.[^10] |
-| **2. Kebersihan & Kerapian Kamar** | Kasur dan sprei berantakan, baju kotor menumpuk di lantai, mangkir tugas piket. | Merapikan kasur dan menyapu kamar jika diawasi langsung oleh musyrif kamar. | Kasur, sprei, dan lemari selalu tertata rapi mandiri; piket tuntas tepat waktu. | Menjaga kamar selalu wangi, membantu membersihkan area umum lorong asrama. |
-| **3. Adab Makan & Komunal** | Berebut lauk makan nampan, makan sambil berdiri/berbicara keras, meninggalkan piring kotor. | Makan dengan duduk tertib; mencuci piring sendiri setelah ditegur teman/musyrif. | Makan dari sisi terdekat dengan tangan kanan mandiri, mencuci dan menata piring rapi. | Mendahulukan kawan mengambil lauk terbaik, membersihkan meja makan bersama. |
-| **4. Ukhuwah & Komunikasi** | Berkata kasar/mengejek junior, mudah marah saat berselisih, mengucilkan teman. | Tidak berkata kasar namun enggan bergaul dengan teman luar kamar; masih pasif. | Bertutur kata santun (*Nir-Kekerasan Verbal*), ramah menyapa teman, toleran. | Menjadi mediator juru damai saat kawan berselisih (*Mushlih*), membimbing adik kelas. |
-| **5. Kedisiplinan & Belajar** | Mengobrol/tidur saat jam belajar malam; melanggar jam malam tanpa izin. | Mengikuti belajar malam namun sesekali terdistraksi gawai/obrolan santai. | Fokus belajar mandiri 45 menit, mengisi Jurnal Muhasabah Belajar malam rutin. | Menginisiasi kelompok diskusi belajar sebaya (*Peer Tutoring*), membantu kawan belajar.[^11] |
-
----
-
-### 3. Protokol Kalibrasi & Standardisasi Penilaian Antar-Musyrif (*Inter-Rater Calibration Protocol*)
+Ekosistem TUMBUH merumuskan rubrik perilaku ke dalam **Arsitektur Tiga Sayap Rubrik BARS (*Arkan al-Miqyas as-Sulukiy*)**:
 
 ```mermaid
 flowchart TD
-    Kalib1["1. SELEKSI 3 SAMPEL KASUS PERILAKU SANTRI NYATA (BULANAN)<br/>Kepala Asrama menyiapkan studi kasus video/catatan interaksi santri."]
-    
-    Kalib2["2. PENILAIAN INDEPENDEN OLEH SELURUH MUSYRIF (BLIND SCORING)<br/>Setiap musyrif memberikan skor level BARS secara mandiri tanpa berdiskusi."]
-    
-    Kalib3["3. PERHITUNGAN KOEFISIEN KESEPAKATAN COHEN'S KAPPA ($\kappa$)<br/>Sistem menghitung persentase kecocokan skor antar-musyrif secara otomatis."]
-    
-    Kalib4["4. SIDANG BEDAH PERBEDAAN SKOR & PENYELARASAN PERSEPSI<br/>Mendiskusikan kasus yang skornya tidak cocok hingga dicapai konsensus bulat."]
-    
-    Kalib1 --> Kalib2 --> Kalib3 --> Kalib4
+    subgraph ArsitekturRubrikBARSTUMBUH["ARSITEKTUR RUBRIK PERILAKU OBJEKTIF BARS"]
+        
+        B1_Sayap["1. JANGKAR PERILAKU 4 LEVEL (Behaviorally Anchored Levels)<br/>Deskripsi tindakan nyata: Level 1 (Bimbingan), Level 2 (Berkembang), Level 3 (Mandiri), Level 4 (Teladan)."]
+        
+        B2_Sayap["2. PROTOKOL KALIBRASI ANTAR-MUSYRIF (Inter-Rater Calibration Protocol)<br/>Sesi penyelarasan persepsi bulanan menjamin Cohen's Kappa > 0.80."]
+        
+        B3_Sayap["3. AUDIT BIAS HISTORIS (Bias Auditing System)<br/>Pemeriksaan algoritma analitik untuk mencegah Halo Effect & Horn Effect penilai."]
+        
+        B1_Sayap <===> B2_Sayap <===> B3_Sayap
+    end
 ```
+
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Jangkar Perilaku Empat Level**: Mengeliminasi ambiguitas angka dan memberikan kriteria unjuk kerja yang transparan bagi santri.[^8]
+2. **Sayap Protokol Kalibrasi**: Menjamin konsistensi dan reliabilitas penilaian di seluruh asrama.[^9]
+3. **Sayap Audit Bias Historis**: Membentengi sistem asesmen dari dendam atau favoritisme subjektif pengasuh.[^10]
 
 ---
 
-### 4. Alur Audit Keadilan Penilaian PBIS (*Bias Auditing SOP*)
+### 2. Matriks Rubrik BARS Empat Tingkat untuk Lima Dimensi Adab Utama Santri
+
+| Dimensi Adab | Level 1: Perlu Bimbingan | Level 2: Berkembang | Level 3: Mandiri | Level 4: Teladan (Ihsan) |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Adab Ibadah** | Terlambat jamaah & gaduh di shaf.| Datang tepat waktu saat diingatkan.| Hadir sebelum azan & dzikir tertib.| Mengajak teman & merapikan sandal masjid.|
+| **2. Kebersihan 5S** | Ranjang berantakan & baju tercecer.| Merapikan kasur setelah ditegur.| Merapikan ranjang & lemari mandiri.| Membantu piket kawan & memilah sampah asrama.|
+| **3. Adab Makan** | Memotong antrean & buang makanan.| Antre tertib & makan habis diingatkan.| Antre mandiri, makan tenang & cuci piring.| Mendahulukan kawan & bersihkan meja makan.|
+| **4. Tutur Kata** | Berkata kasar & memanggil julukan.| Menahan kata kasar saat ada ustadz.| Berbicara santun kepada semua orang.| Menengahi pertengkaran & mendamaikan kawan.|
+| **5. Kejujuran** | Mengambil hak teman / berbohong.| Mengakui salah saat ditanya bukti.| Jujur mengakui khilaf secara inisiatif.| Menjaga amanah kantin & kembalikan barang temuan.|
+
+---
+
+### 3. Protokol Kalibrasi & Standardisasi Penilaian Antar-Musyrif (Inter-Rater Calibration Protocol)
+
+TUMBUH menetapkan **Protokol Kalibrasi Bulanan**:
+1. **Sesi Uji Kasus Video/Simulasi**: Seluruh musyrif menilai 3 video simulasi perilaku santri yang sama.
+2. **Perhitungan Koefisien Kappa**: Hasil penilaian dihitung melalui rumus Cohen's Kappa:
+
+$$\kappa = \frac{P_o - P_e}{1 - P_e}$$
+
+3. **Diskusi Rekonsiliasi**: Jika $\kappa < 0.80$, majelis melakukan bedah perbedaan pandangan hingga mencapai kesepakatan standar penafsiran rubrik.[^11]
+
+---
+
+### 4. Alur Audit Keadilan Penilaian PBIS (Bias Auditing SOP)
 
 ```mermaid
-graph TD
-    subgraph AlurAuditKeadilanPBIS["SOP AUDIT BIAS PENILAIAN ADAB"]
-        Deteksi["1. DETEKSI ANOMALI DATA OLEH SISTEM (ALGORITHMIC CHECK)<br/>Sistem mendeteksi jika ada musyrif yang memberi nilai ekstrem (Semua A atau Semua D)."]
-        
-        Review["2. TINJAUAN KLINIS OLEH KOMITE PENJAMINAN MUTU ADAB<br/>Tim mengecek kesesuaian antara catatan insiden harian dengan skor akhir."]
-        
-        Wawancara["3. WAWANCARA DUA ARAH MUSYRIF & SANTRI TERKAIT<br/>Memastikan tidak ada unsur sentimen pribadi dalam pemberian skor."]
-        
-        Koreksi["4. KOREKSI DATA & PEMUTAKHIRAN STATUS REKOR ADAB SANTRI<br/>Skor disahkan secara objektif dan akuntabel di hadapan Majelis Masyayikh."]
-        
-        Deteksi --> Review --> Wawancara --> Koreksi
+flowchart TD
+    subgraph SOPAuditBiasPenilai["SOP AUDIT BIAS PENILAIAN PBIS"]
+        DeteksiAnomali["1. DETEKSI ANOMALI: Algoritma Mendeteksi Musyrif yang Memberi Skor Terlalu Ekstrem (Terlalu Royal/Keras)"]
+        --> CrossReview["2. CROSS-REVIEW: Musyrif Independen Melakukan Observasi Ulang Bersama"]
+        --> SesiRefleksiQudwah["3. DIALOG KLINIS: Pembimbingan Reflektif untuk Menghilangkan Bias Pribadi Penilai"]
+        --> RekalibrasiSkor["4. REKALIBRASI: Penyesuaian Skor Akhir Berbasis Fakta Logbook Digital Terverifikasi"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Prinsip rubrik perilaku objektif BARS ini membawa implikasi agung bagi peradaban:
+
+* **Menegakkan Keadilan Syariat yang Hakiki dalam Dunia Pendidikan**:  
+  Santri mendapatkan hak penilaian yang adil dan transparan, menumbuhkan rasa percaya mendalam kepada para pendidik dan institusi.
+* **Menghilangkan Budaya Asal Bapak Senang (ABS) dan Penjilatan**:  
+  Santri sadar bahwa kedudukan mulia hanya diraih melalui amal shalih nyata dan akhlak luhur yang konsisten, bukan melalui pencitraan sesaat.
+* **Menyajikan Standar Psikometri Karakter Islam Berkelas Internasional**:  
+  Model BARS berbasis syariat membuktikan bahwa nilai-nilai akhlak Islam dapat diukur secara presisi, ilmiah, dan berkeadilan tinggi (*Rahmatan lil 'Alamin*).[^12]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Rubrik Perilaku Objektif
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengukuran Karakter |
-| :--- | :--- | :--- | :--- | :--- |
-| **Keadilan Neraca** | *Mizan al-'Adl* | QS. Ar-Rahman: 9, QS. Al-Hadid: 25 | Smith & Kendall (1963), *BARS Methodology* | Mengganti angka skala abstrak dengan deskripsi jangkar perilaku teramati nyata. |
-| **Praduga Baik** | *Bara'ah adz-Dzimmah* | Kaidah *Al-Yaqinu la Yazulu bisy-Syakk* | Schwab et al. (1975), *Behaviorally Anchored Rating Scales* | Mengharamkan vonis akhlak buruk atas dasar prasangka tanpa bukti logbook. |
-| **Eliminasi Bias** | *Anti-Halo & Horn Effect* | Pengharaman Hawa Nafsu (*Al-Hawa*) dalam Hukum | Thorndike (1920), *A Constant Error in Psychological Ratings* | Melatih musyrif membedakan antara prestasi akademik dan perilaku adab asrama. |
-| **Reliabilitas Skor** | *Inter-Rater Agreement* | Syarat *Syahadah 'Adlain* dalam Fiqh Peradilan | Jacob Cohen (1960), *A Coefficient of Agreement for Nominal Scales* | Menjamin kesepakatan penilaian antar-musyrif mencapai koefisien Kappa $\ge 0.80$. |
-| **Transparansi Rubrik** | *Al-Bayan wal-Idhah* | Kaidah *La Taklifa illa bi Ma'lum* | Andrade (2000), *Using Rubrics to Promote Thinking and Learning* | Memasang rubrik BARS secara terbuka agar santri mampu meregulasi perilakunya. |
+---
+
+### 1. Tabel Sintesis Temuan Riset Rubrik Perilaku Objektif
+
+| Dimensi Parameter | Mazhab Skala Angka Abstrak (Lama) | Model Penilaian Emosional Guru | **Rubrik BARS Terkalibrasi TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Bentuk Rubrik** | Angka Likert 1–5 tanpa deskripsi.| Nilai huruf A–E berdasarkan selera.| **Deskriptor Tindakan Nyata 4 Level.** | QS. Ar-Rahman: 9; Smith (1963).| Jangkar perilaku konkret teramati. |
+| **Objektivitas** | Rawan bias Halo & Horn Effect.| Dipengaruhi suasana hati penilai.| **Objektif Berbasis Bukti Nyata Kasat Mata.**| Kaidah Ushul *Al-Yaqin*; BARS.| Skor identik lintas pengamat. |
+| **Reliabilitas** | Rendah; beda guru beda nilai.| Fluktuatif tanpa standar.| **Terkalibrasi (Cohen's Kappa > 0.80).** | Cohen (1960); Schwab (1975).| Sesi kalibrasi bulanan musyrif. |
+| **Transparansi Santri**| Santri bingung mengapa dapat nilai C.| Nilai dirahasiakan pengasuh.| **Santri Paham Kriteria Naik Level.** | Dylan Wiliam; Al-Ghazali.| Panduan perbaikan diri yang jelas. |
+| **Hasil Institusi** | Kecemburuan sosial & ketidakadilan.| Budaya menjilat & kemunafikan.| **Budaya Berkeadilan & Integritas Nyata.**| QS. An-Nisa: 135; Al-Attas (1980).| Rapor karakter valid & beradab. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **As-Suyuthi, Jalaluddin Abdurrahman**. (1403 H). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-3. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-4. **Smith, P. C., & Kendall, L. M.**. (1963). *Retranslation of expectations: An approach to the construction of unambiguous anchors for rating scales*. Journal of Applied Psychology, 47(2), 149–155.
-5. **Schwab, D. P., Heneman, H. G., & DeCotiis, T. A.**. (1975). *Behaviorally anchored rating scales: A review of the literature, problems, and prospects*. Personnel Psychology, 28(4), 549–562.
-6. **Cohen, J.**. (1960). *A coefficient of agreement for nominal scales*. Educational and Psychological Measurement, 20(1), 37–46.
-7. **Thorndike, E. L.**. (1920). *A constant error in psychological ratings*. Journal of Applied Psychology, 4(1), 25–29.
-8. **Andrade, H. G.**. (2000). *Using rubrics to promote thinking and learning*. Educational Leadership, 57(5), 13–18.
-9. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: The research base*. Remedial and Special Education, 36(2), 70–87.
-10. **Landis, J. R., & Koch, G. G.**. (1977). *The measurement of observer agreement for categorical data*. Biometrics, 33(1), 159–174.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **As-Suyuthi, Jalaluddin Abdurrahman bin Abi Bakr**. (1403 H). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-Qisthas al-Mustaqim). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Smith, P. C., & Kendall, L. M.**. (1963). *Retranslation of expectations: An approach to the construction of unambiguous anchors for rating scales*. Journal of Applied Psychology, 47(2), 149–155.
+9. **Schwab, D. P., Heneman, H. G., & DeCotiis, T. A.**. (1975). *Behaviorally anchored rating scales: A review of the literature*. Personnel Psychology, 28(4), 549–562.
+10. **Cohen, J.**. (1960). *A coefficient of agreement for nominal scales*. Educational and Psychological Measurement, 20(1), 37–46.
+11. **Thorndike, E. L.**. (1920). *A constant error in psychological ratings*. Journal of Applied Psychology, 4(1), 25–29.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: As-Suyuthi, *Al-Asybah wan-Nazha'ir*, Dar al-Kutub al-'Ilmiyyah, hlm. 51.  
-[^2]: Al-Qur'an Surah Ar-Rahman [55]: 9.  
-[^3]: As-Suyuthi, *Al-Asybah wan-Nazha'ir*, hlm. 51.  
-[^4]: Smith & Kendall (1963), *Journal of Applied Psychology*, hlm. 149–155.  
-[^5]: Cohen, J. (1960), *Educational and Psychological Measurement*, hlm. 37–46; Landis & Koch (1977), *Biometrics*, hlm. 159–174.  
-[^6]: Manual Desain UI/UX Logbook Digital PBIS Cepat Musyrif, Divisi Sistem Digital TUMBUH, 2026.  
-[^7]: Standar Prosedur Sidang Kalibrasi Adab Pekanan Musyrif, Komite Penjaminan Mutu TUMBUH, 2026.  
-[^8]: Andrade, H. G. (2000), *Educational Leadership*, hlm. 13–18.  
-[^9]: Laporan Audit Keadilan Penilaian Rekor Adab Santri, Komite Disiplin Positif TUMBUH, 2026.  
-[^10]: Matriks Lengkap Rubrik BARS 5 Dimensi Adab Santri Pesantren, Pusat Standardisasi Mutu TUMBUH, 2026.  
-[^11]: Silabus Standar Kompetensi Adab Asrama Jenjang J1–J4, Pusat Kurikulum TUMBUH, 2026.
+[^1]: Riset Prinsip Rubrik Perilaku Objektif dan Deskriptif BARS TUMBUH, *Kritik atas Subjektivitas Buta dan Bias Rater*, 2026.  
+[^2]: QS. Ar-Rahman [55]: 9.  
+[^3]: As-Suyuthi, *Al-Asybah wan-Nazha'ir*, Kaidah Fiqhiyyah Kedua *Al-Yaqinu la Yazulu bisy-Syakk*, hlm. 55–70.  
+[^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Qadha' wash-Syahadat*, hlm. 210–235.  
+[^5]: Smith, P. C., & Kendall, L. M. (1963), *Journal of Applied Psychology*, hlm. 149–155; Schwab, D. P., et al. (1975).  
+[^6]: Cohen, J. (1960), *Educational and Psychological Measurement*, hlm. 37–46; Thorndike, E. L. (1920).  
+[^7]: Dokumentasi Kalibrasi Rubrik BARS dan Audit Bias Penilai Asrama PBIS TUMBUH, 2026.  
+[^8]: Master Blueprint Rubrik BARS 5 Dimensi Adab Utama Santri TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Kalibrasi Bulanan Reliabilitas Musyrif Asrama TUMBUH, 2026.  
+[^10]: Petunjuk Teknis Audit Bias Historis Penilaian PBIS Digital TUMBUH, 2026.  
+[^11]: Master Guidelines Pelaksanaan Inter-Rater Reliability Testing Asrama TUMBUH, 2026.  
+[^12]: Deklarasi Penegakan Mizanul 'Adl Asesmen Karakter Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis BARS, Psikometri Perilaku, & Reliabilitas Asesmen
+### 4. Glosarium Istilah Ilmiah & Turats Rubrik Perilaku Objektif
 
-1. **Behaviorally Anchored Rating Scales (BARS)**: Skala penilaian psikometrik yang menggunakan contoh perilaku operasional konkret sebagai titik jangkar (*Anchors*) pada setiap tingkat penilaian.
-2. **Halo Effect (Bias Kemilau)**: Bias kognitif di mana kesan positif penilai pada satu aspek (misal kepintaran kognitif) secara keliru memengaruhi penilaian positif pada seluruh aspek kepribadian lainnya.
-3. **Horn Effect (Bias Tanduk)**: Bias kognitif di mana kesan negatif penilai pada satu kesalahan santri secara keliru membutakan penilai dari seluruh perilaku baik lainnya.
-4. **Inter-Rater Reliability (Reliabilitas Antar-Penilai)**: Tingkat konsistensi dan kesepakatan skor antara dua atau lebih penilai independen saat mengevaluasi subjek yang sama.
-5. **Cohen's Kappa ($\kappa$)**: Uji statistik psikometrik untuk mengukur derajat kesepakatan antar-penilai dengan mengeliminasi faktor kesepakatan kebetulan.
-6. **Mizan al-'Adl (مِيزَانُ الْعَدْلِ)**: Konsep teologis dan metodologis Islam tentang keharusan menegakkan timbangan penilaian yang adil, presisi, dan bebas dari hawa nafsu.
-7. **Bara'ah adz-Dzimmah (بَرَاءَةُ الذِّمَّةِ)**: Kaidah hukum Islam mengenai asas praduga tak bersalah; seseorang dianggap bersih dari kesalahan hingga ada bukti nyata yang meyakinkan.
-8. **Central Tendency Bias**: Kecenderungan penilai yang enggan memberikan nilai ekstrem (tinggi/rendah) sehingga menumpuk semua nilai di kisaran tengah rata-rata.
-9. **Fast-Tap UI**: Desain antarmuka aplikasi digital yang dirancang untuk pencatatan data cepat di lapangan hanya dengan 1–3 ketukan layar.
-10. **Blind Scoring**: Metode penilaian di mana penilai tidak mengetahui skor yang diberikan oleh penilai lain guna mencegah saling memengaruhi (*Conformity Bias*).
+1. **Behaviorally Anchored Rating Scales (BARS)**: Sistem rubrik pengukuran perilaku yang menggunakan deskripsi tindakan nyata operasional sebagai jangkar penentu skor.
+2. **Mizan al-'Adl (مِيزَانُ الْعَدْلِ)**: Konsep syariat mengenai neraca keadilan yang presisi, objektif, dan tidak boleh dikurangi atau dicurangi dalam menilai amal manusia.
+3. **Al-Yaqinu la Yazulu bisy-Syakk**: Kaidah fiqh yang menegaskan bahwa fakta keyakinan yang terbukti secara objektif tidak boleh digugurkan oleh dugaan atau prasangka subjektif.
+4. **Halo Effect**: Bias kognitif penilai di mana kesan positif umum pada satu aspek (misal: wajah ramah) membuat penilai memberi skor tinggi pada semua aspek lainnya secara tidak objektif.
+5. **Horn Effect**: Bias kognitif penilai di mana satu kesalahan santri di masa lalu membuat penilai memvonis buruk seluruh perilaku santri tersebut secara tidak adil.
+6. **Inter-Rater Reliability**: Tingkat kesepakatan dan konsistensi skor antara dua atau lebih penilai independen saat mengamati subjek yang sama.
+7. **Cohen's Kappa ($\kappa$)**: Uji statistik psikometri untuk mengukur derajat kesepakatan antar-penilai dengan mengoreksi faktor kebetulan (*Chance Agreement*).
+8. **Critical Incidents**: Peristiwa perilaku spesifik dan kasat mata yang menjadi bukti kuat penguasaan atau pelanggaran standar adab.
+9. **Bias Auditing**: Prosedur audit sistematis untuk mendeteksi anomali penilaian dan mengoreksi kecenderungan subjektif pengasuh.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang dinilai secara adil berdasarkan amal shalih nyata, memiliki kematangan adab lahir-batin, dan konsisten berbuat ihsan.
