@@ -42,5 +42,4 @@ graph TD
 
 ## 4. Status Dokumen
 * **Status**: 🌟 **A+ (Dokumen Induk Shahihul Ibadah)**
-* **Level**: Project 3 - `03 Capacity Framework / 05 Shahihul Ibadah`
-* **Langkah Berikutnya**: **`01 Philosophy/P3-05-01-Filosofi-dan-Landasan-Turats.md`**.
+* **Level**: Project 3 - `03 Capacity Framework / ./P3-05-01-Filosofi-dan-Landasan-Turats.md`**.

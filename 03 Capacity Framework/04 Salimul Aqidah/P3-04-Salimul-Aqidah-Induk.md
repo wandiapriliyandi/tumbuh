@@ -39,5 +39,4 @@ graph TD
 
 ## 4. Status Dokumen
 * **Status**: 🌟 **A+ (Dokumen Induk Salimul Aqidah)**
-* **Level**: Project 3 - `03 Capacity Framework / 04 Salimul Aqidah`
-* **Langkah Berikutnya**: **`01 Philosophy/P3-04-01-Filosofi-dan-Landasan-Turats.md`**.
+* **Level**: Project 3 - `03 Capacity Framework / ./P3-04-01-Filosofi-dan-Landasan-Turats.md`**.
