@@ -5,7 +5,7 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 ---
 
 ## 1. Prinsip Mutlak & Nilai Inti
-1. **Bahasa**: Wajib menggunakan Bahasa Indonesia baku, akademis, dan terstruktur rapi pada seluruh dokumen dan keluaran.
+1. **Bahasa**: Wajib menggunakan Bahasa Indonesia baku, akademis, mendalam, dan mengalir rapi pada seluruh dokumen dan keluaran.
 2. **Prinsip Triad Pertumbuhan Simbiotik**:
    Setiap perumusan modul harus memastikan 3 entitas bertumbuh serempak:
    - **Santri Tumbuh** (Fitrah, adab, regulasi diri, tangga J1–J4).
@@ -22,7 +22,7 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 
 ## 2. Standar Rujukan Sumber
 * Rujukan data dan struktur utama wajib mengacu pada berkas **Markdown di folder `source/`** (`source/*.md`).
-* Rujukan keilmuan wajib memadukan **Turats Islam** dan **Konsensus Sains Internasional Peer-Reviewed** (*Neurosains, CASEL SEL, PBIS, Self-Determination Theory, Restorative Justice*).
+* Rujukan keilmuan wajib memadukan **Turats Islam** dan **Konsensus Sains Internasional Peer-Reviewed** (*Neurosains Kognitif, CASEL SEL, SW-PBIS Multi-Tier, Self-Determination Theory, Restorative Justice*).
 
 ---
 
@@ -43,14 +43,10 @@ Gunakan skill spesialis yang sesuai saat merancang, menguji, dan mengaudit modul
 
 ---
 
-## 4. Standar Mutu Struktur Naskah Monograf (Model Hibrida Dialektis)
+## 4. Standar Mutu Struktur Naskah Monograf (Model Riset Akademik Murni)
 Setiap berkas riset monograf di seluruh folder proyek (P1 s/d P11) wajib mematuhi **[Workflow-Isi-Penelitian-dan-Struktur-Monograf-Baku.md](file:///c:/xampp/htdocs/tumbuh/METHODOLOGY/Workflow-Isi-Penelitian-dan-Struktur-Monograf-Baku.md)**:
-1. **Panjang & Kedalaman**: Berkisar **15.000–38.000+ karakter** (350–450 baris padat).
-2. **Dialektika Sejak Inkuiri 1**:
-   - **Inkuiri 1 (Turats & Teologi)**: Diagram Alur, Silogisme *Qiyas Mantiqi 1*, Teks Arab Turats berharakat, dan **🥊 3 Ronde Tanya-Jawab Kritis**.
-   - **Inkuiri 2 (Sains & Psikologi)**: Diagram Konvergensi, Silogisme *Qiyas Mantiqi 2*, Konsensus Sains (CASEL SEL/Neurosains), dan **🥊 3 Ronde Tanya-Jawab Kritis**.
-   - **Inkuiri 3 (Sistem Asrama 24 Jam)**: Diagram Kausalitas, Silogisme *Qiyas Mantiqi 3*, Dinamika Asrama 4 Lokus, dan **🥊 3 Ronde Tanya-Jawab Kritis**.
-   - **Inkuiri 4 (Arena Kasuistika Asrama)**: Pertarungan Dialektika Pamungkas, Diagram Alur Protokol Restoratif (<12 Jam), dan **📌 3 Kasuistika Lapangan Nyata Asrama** (*Dilema, Akar Masalah, & Titik Temu Konsensus*).
-3. **Formulasi & Protokol (Bagian II)**: Arsitektur Dimensi, Matriks Taksonomi Tangga J1–J4, dan Protokol Operasional PBIS 3-Tier.
-4. **Aparatus Lengkap (Bagian III)**: Tabel Sintesis 5 Kolom, **Minimal 10 Rujukan Primer**, **Minimal 12 Catatan Kaki (*Footnotes*)**, dan **10 Entri Glosarium**.
-
+1. **Gaya Penulisan Riset Murni**: Bebas dari format tanya-jawab dialog buatan (*Anti-Strawman Q&A*); naskah mengalir dalam diskursus ilmiah kritis akademis tingkat Guru Besar.
+2. **Proporsi Bobot Utama di Bagian II (50%)**:
+   - **Bagian I (35%)**: Konteks Masalah, Transformasi Paradigma, Inkuiri Epistemologi Turats (Teks Arab berharakat & Syarah), Inkuiri Sains Kognitif/CASEL SEL, Inkuiri Rekayasa Ekosistem 24 Jam, dan Kasuistika Lapangan Klinis Restoratif.
+   - **Bagian II (50% - Paling Tebal)**: Eksplanasi Teoretis & Arsitektur Model Baru secara Menyeluruh, Dekomposisi Indikator & Logika Transisi Tangga J1–J4, Protokol Aksi Operasional PBIS Multi-Tier Terperinci, serta Diskusi Akademik Implikasi Teoretis & Praksis.
+   - **Bagian III (15%)**: Tabel Sintesis Komparasi 5 Kolom, 10–15 Daftar Pustaka Standar APA 7th & Turats, 12–18 Catatan Kaki (*Footnotes* 1-to-1), dan 10 Entri Glosarium.
