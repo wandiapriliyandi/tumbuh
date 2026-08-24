@@ -1,275 +1,266 @@
-# P1-06-05: MANAJEMEN RESISTENSI KULTURAL DAN PSIKOLOGI PERUBAHAN PESANTREN
-## *Monograf Terpadu: Analisis Psikososial Resistensi Budaya Lama Asrama, Integrasi Force-Field Analysis Kurt Lewin & 8-Step Change Model John Kotter, Strategi Pendekatan Hikmah & Persuasi Syar'i Terhadap Asatidz Senior, serta Mitigasi Gesekan Transisi Menuju Sistem PBIS Restoratif*
+# P1-06-05: MANAJEMEN RESISTENSI KULTURAL DAN PSIKOLOGI PERUBAHAN PESANTREN (CULTURAL RESISTANCE MANAGEMENT)
+## *Monograf Riset Akademik: Analisis Psikososial Resistensi Budaya Asrama, Epistemologi Dakwah Bil-Hikmah (QS. An-Nahl: 125), Integrasi Force-Field Analysis Kurt Lewin, Serta Mitigasi Gesekan Transisi Sistem PBIS di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-06-05/MONOGRAF-TERPADU-MANAJEMEN-RESISTENSI/2026`  
-**Domain**: `01 Philosophy` > `06 Change`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Strategi Baku Manajemen Perubahan Budaya)  
+**Nomor Identifikasi**: `P1-06-05/MONOGRAF-RISET-MANAJEMEN-RESISTENSI/2026`  
+**Domain**: `01 Philosophy` > `06 Change` (Sub-Modul 05: *Cultural Resistance Management*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Manajemen Perubahan Organisasi (*Organizational Change Management*), Sosiologi Kultural Pesantren, Psikologi Resistensi & Perilaku Kelompok, Komunikasi Persuasif Dakwah Islam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Memahami Bahwa Resistensi Adalah Respon Manusiawi yang Wajar:**  
->   Ketika sistem pembinaan pesantren diubah dari pola hukuman fisik konvensional menuju sistem PBIS Restoratif, wajar jika muncul penolakan dari sebagian asatidz senior. Penolakan ini bukan karena mereka membenci kebaikan, melainkan karena rasa takut kehilangan kendali (*Fear of Losing Control*) dan ketidaktahuan atas cara kerja sistem baru.
-> * **Jangan Menghadapi Resistensi dengan Kesombongan atau Pemaksaan Otoriter:**  
->   Pendekatan konfrontatif hanya akan memicu sabotase pasif (*Passive Resistance*). Perubahan budaya harus dipandu dengan **Hikmah, Mau'izhah Hasanah, dan Pembuktian Data Faktual (*Evidence-Based*)**.
-> * **Strategi Melibatkan Tokoh Kunci (*Early Adopters & Sesepuh*):**  
->   Ajak kiai sepuh dan guru senior yang disegani untuk menjadi bagian dari perumusan SOP baru, tunjukkan hasil nyata bahwa santri menjadi lebih tertib dan hafalan meningkat, sehingga mereka bertransformasi menjadi pembela utama gerakan perubahan.
+> * **Kelemahan Paradigma Lama: Pemaksaan Otoriter & Sabotase Pasif (Malicious Compliance):**  
+>   Banyak inovasi pesantren gagal karena pimpinan memaksakan perubahan secara arogan melalui dekrit sepihak tanpa merangkul kekhawatiran batin para guru senior. Hal ini memicu penolakan bawah tanah (*Passive Sabotage*): para asatidz pura-pura setuju dalam rapat formal, namun tetap memukul santri secara sembunyi-sembunyi di asrama.
+> * **Inovasi Konseptual: Dakwah Bil-Hikmah & Force-Field Analysis Kurt Lewin:**  
+>   TUMBUH memandang resistensi bukan sebagai musuh yang harus diberantas, melainkan sebagai ekspresi kecintaan terhadap tradisi yang membutuhkan dialog hikmah (**QS. An-Nahl: 125**). Mengintegrasikan *Force-Field Analysis* Kurt Lewin untuk memetakan kekuatan pendorong (*Driving Forces*) dan faktor penahan (*Restraining Forces*), melatih para sesepuh menjadi duta perubahan melalui pembuktian data faktual (*Evidence-Based Demonstration*).
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks tipologi respon pendidik terhadap perubahan, 4 Tingkatan Kesadaran Manajemen Resistensi (*Maratib al-Idrak*), protokol coaching dialogis bagi asatidz senior, dan etika transformasi kultural damai.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET RESISTENSI KULTURAL, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-resistensi-kultural-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Manajemen Perubahan: Mengapa 70% Inovasi Pendidikan Gagal Akibat Resistensi Budaya](#1-kerangka-metodologi-manajemen-perubahan-mengapa-70-inovasi-pendidikan-gagal-akibat-resistensi-budaya)
-  - [2. Inkuiri 1: Eksegesis Turats Pendekatan Hikmah dalam Mengubah Tradisi Jahiliyyah (QS. An-Nahl: 125)](#2-inkuiri-1-eksegesis-turats-pendekatan-hikmah-dalam-mengubah-tradisi-jahiliyyah-qs-an-nahl-125)
-  - [3. Inkuiri 2: Konvergensi Force-Field Analysis Kurt Lewin & 8-Step Change Model John Kotter di Pesantren](#3-inkuiri-2-konvergensi-force-field-analysis-kurt-lewin--8-step-change-model-john-kotter-di-pesantren)
-  - [4. Inkuiri 3: Empat Tipologi Respon Pendidik Terhadap Perubahan & Strategi Intervensi Komunikasinya](#4-inkuiri-3-empat-tipologi-respon-pendidik-terhadap-perubahan--strategi-intervensi-komunikasinya)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH](#1-formulasi-konseptual-piagam-manajemen-perubahan-kultural-beradab-pesantren-tumbuh)
-  - [2. Matriks 8 Tahap Transformasi Budaya Pesantren (Kotter-Lewin Adapted for Pesantren)](#2-matriks-8-tahap-transformasi-budaya-pesantren-kotter-lewin-adapted-for-pesantren)
-  - [3. Protokol Pendampingan Transisi & Coaching Dialogis bagi Asatidz Senior](#3-protokol-pendampingan-transisi--coaching-dialogis-bagi-asatidz-senior)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Manajemen Resistensi](#1-tabel-sintesis-hasil-riset-manajemen-resistensi)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Mengapa 70% Inovasi Pendidikan Gagal Akibat Salah Kelola Resistensi Manusia](#1-latar-belakang-masalah-mengapa-70-inovasi-pendidikan-gagal-akibat-salah-kelola-resistensi-manusia)
+  - [2. Eksegesis Turats Metodologi Dakwah Transformatif: Hikmah, Mau'izhah Hasanah, & Jidal Ahsan (QS. An-Nahl: 125)](#2-eksegesis-turats-metodologi-dakwah-transformatif-hikmah-mauizhah-hasanah--jidal-ahsan-qs-an-nahl-125)
+  - [3. Konvergensi Teori Psikologi Perubahan: Force-Field Analysis Kurt Lewin & Model Difusi Inovasi Everett Rogers](#3-konvergensi-teori-psikologi-perubahan-force-field-analysis-kurt-lewin--model-difusi-inovasi-everett-rogers)
+  - [4. Tipologi Respon Psikologis Pendidik Terhadap Pembaruan dan Strategi Komunikasi Persuasif](#4-tipologi-respon-psikologis-pendidik-terhadap-pembaruan-dan-strategi-komunikasi-persuasif)
+  - [5. Kasuistika Lapangan: Kasus Penolakan SOP Disiplin Positif oleh Asatidz Sepuh & Resolusi Restoratif](#5-kasuistika-lapangan-kasus-penolakan-sop-disiplin-positif-oleh-asatidz-sepuh--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Manajemen Resistensi Kultural Beradab TUMBUH](#1-eksplanasi-teoretis-manajemen-resistensi-kultural-beradab-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Manajemen Resistensi (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-manajemen-resistensi-maratib-al-idrak)
+  - [3. Matriks Empat Tipologi Respon Pendidik, Gejala Penolakan, & Pendekatan Intervensi](#3-matriks-empat-tipologi-respon-pendidik-gejala-penolakan--pendekatan-intervensi)
+  - [4. Protokol Pendampingan Transisi & Coaching Dialogis bagi Asatidz Senior](#4-protokol-pendampingan-transisi--coaching-dialogis-bagi-asatidz-senior)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Manajemen Resistensi](#1-tabel-sintesis-temuan-riset-manajemen-resistensi)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Manajemen Resistensi, Force-Field, Kotter Model, & Hikmah](#4-glosarium-teknis-manajemen-resistensi-force-field-kotter-model--hikmah)
+  - [4. Glosarium Istilah Ilmiah & Turats Manajemen Resistensi](#4-glosarium-istilah-ilmiah--turats-manajemen-resistensi)
 
 ---
 
-# BAGIAN I: RISET RESISTENSI KULTURAL, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Manajemen Perubahan: Mengapa 70% Inovasi Pendidikan Gagal Akibat Resistensi Budaya
+### 1. Latar Belakang Masalah: Mengapa 70% Inovasi Pendidikan Gagal Akibat Salah Kelola Resistensi Manusia
 
-Riset manajemen strategis dunia pendidikan membuktikan bahwa **70% program transformasi sekolah gagal bukan karena konsepnya salah, melainkan karena kegagalan mengelola resistensi manusia (*Human Cultural Resistance*)**:
-* Di lingkungan pesantren, tradisi memiliki kekuatan sakralitas yang sangat tinggi.
-* Ketika diperkenalkan sistem baru (seperti penghapusan hukuman fisik dan penerapan PBIS), sebagian guru menganggapnya sebagai "intervensi asing yang melemahkan mental santri".
-* Jika pimpinan memaksakan SOP baru secara arogan melalui surat edaran sepihak, para guru akan melakukan perlawanan diam-diam (*Malicious Compliance*): pura-pura setuju di rapat, namun tetap memukul santri secara sembunyi-sembunyi.
-
-Ekosistem TUMBUH memandang resistensi sebagai peluang untuk berdialog. Manajemen perubahan TUMBUH memadukan **Metodologi Dakwah Bil-Hikmah** dengan **Sains Manajemen Perubahan Modern** guna mencairkan resistensi menjadi gelombang dukungan kolektif.
+Riset manajemen perubahan global membuktikan bahwa **Sebagian Besar Reformasi Pendidikan Gagal Akibat Kegagalan Mengelola Resistensi Kultural (*Human Cultural Resistance*)**:
+* **Kesakralan Tradisi Pesantren**: Di lingkungan pesantren, kebiasaan lama kerap dipandang memiliki nilai kesakralan turun-temurun; pembaruan yang datang tiba-tiba dianggap sebagai "ancaman dekadensi moral".
+* **Kekhawatiran Kehilangan Kendali (*Fear of Loss of Control*)**: Para asatidz senior khawatir jika tongkat rotan dihilangkan, santri akan menjadi pembangkang dan wibawa guru akan runtuh.
+* **Bahaya Pendekatan Otoriter**: Memaksakan SOP baru dengan ancaman sanksi bagi guru hanya melahirkan resistensi pasif (*Passive Resistance*) dan pembangkangan di balik layar.
+* **Keniscayaan Manajemen Resistensi Berbasis Hikmah**: Resistensi dikelola melalui dialog ilmiah, pendampingan empati, dan pembuktian keberhasilan nyata di lapangan (*Evidence-Based Transformation*).[^1]
 
 ```mermaid
 flowchart TD
-    subgraph DinamikaResistensiPerubahanTUMBUH["ARSITEKTUR MANAJEMEN RESISTENSI KULTURAL PESANTREN"]
-        Inovasi["GAGASAN TRANSFORMASI BARU:<br/>Penerapan PBIS Restoratif, Penghapusan Hukuman Fisik, & SOP 24 Jam."]
+    subgraph DinamikaResistensiPerubahanTUMBUH["ARSITEKTUR MANAJEMEN RESISTENSI KULTURAL"]
+        PolaPaksaanLama["PEMAKSAAN OTORITER SEPIHAK (LAMA)<br/>• Dekrit sepihak tanpa merangkul guru senior.<br/>• Memicu resistensi pasif & kemunafikan sistem.<br/>• Guru tetap memukul secara sembunyi-sembunyi."]
         
-        Resistensi["RESISTENSI KULTURAL ALAMI:<br/>Kekhawatiran guru senior: 'Nanti santri jadi manja dan tidak takut lagi!'"]
+        PolaHikmahTUMBUH["DAKWAH BIL-HIKMAH & FORCE-FIELD (TUMBUH)<br/>• Dialog turats & pelibatan kiai sepuh dalam tim syura.<br/>• Pembuktian data keberhasilan pilot project PBIS.<br/>• Mengubah penentang menjadi pembela utama pembaruan."]
         
-        Salah["PENDEKATAN KELIRU (PEMAKSAAN OTORITER):<br/>Mengancam pecat guru yang menolak $\rightarrow$ Terjadi sabotase pasif & kegagalan sistem."]
-        
-        Benar["PENDEKATAN TUMBUH (MANAJEMEN PERUBAHAN PROFETIK):<br/>• Dialog hikmah & pelibatan kiai sepuh.<br/>• Quick Wins: Pembuktian santri lebih tertib tanpa dipukul.<br/>• Training klinis bertahap & pendampingan intensif."]
-        
-        Inovasi --> Resistensi
-        Resistensi -.-> Salah
-        Resistensi ==> Benar
+        PolaPaksaanLama ==>|DIREKONSTRUKSI MENJADI| PolaHikmahTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Pendekatan Hikmah dalam Mengubah Tradisi Jahiliyyah (QS. An-Nahl: 125)
+### 2. Eksegesis Turats Metodologi Dakwah Transformatif: Hikmah, Mau'izhah Hasanah, & Jidal Ahsan (QS. An-Nahl: 125)
 
-```mermaid
-graph TD
-    A["Gugatan Radikalisme Transformasi (Pihak A):<br/>'Pokoknya semua guru yang masih mau pakai hukuman fisik langsung dipecat hari ini juga, tidak usah diajak ngobrol!'"]
-    --> B1["Tinjauan Al-Qur'an Surah An-Nahl: 125:<br/>'Ud'u ila sabili Rabbika BIL-HIKMATI WAL-MAU'IZHATIL HASANAH wa jadilhum billati hiya ahsan' (Perintah dakwah dengan hikmah, nasihat baik, dan dialog santun)."]
-    A --> B2["Tinjauan Strategi Nabawi Menghapus Budaya Jahiliyyah:<br/>Rasulullah SAW menghapus kebiasaan khamr dan riba secara bertahap (Tadarruj) dalam 3 periode berbeda agar masyarakat siap secara mental."]
-    A --> B3["Tinjauan Kaidah Fiqhiyyah:<br/>'Ad-Dar'u lil-Mafasid Muqaddamun 'ala Jalbil Mashalih' (Mencegah perpecahan lembaga diutamakan sebelum memaksakan maslahat baru)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Transformasi budaya wajib dijalankan dengan tahapan hikmah dan dialog persuasif."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap upaya pembaruan tata kelola umat Islam yang dijalankan dengan cara-cara pemaksaan kasar tanpa mempedulikan kesiapan psikologis komunitas niscaya memicu resistensi destruktif (*Fitnah*) yang menghancurkan tujuan pembaruan itu sendiri.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Sunnah Rasulullah SAW meneladankan tahapan persuasif (*Tadarruj*) dan pemuliaan martabat para tokoh senior (*Inzalu an-Nas Manazilahum*) dalam mengubah adat kebiasaan lama.
-* **Konklusi (*an-Natijah*)**: Maka, penerapan ekosistem TUMBUH di pesantren wajib mengadopsi protokol manajemen resistensi berbasis hikmah dan pendampingan bertahap.[^1]
-
-#### 📖 Teks Primer Al-Qur'an: Metodologi Utama Perubahan Umat
-Firman Allah SWT menegaskan:
+Al-Qur'an menetapkan metode komunikasi transformatif yang agung:
 
 $$\text{ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ}$$
 
-*"**Serulah (manusia) kepada jalan Tuhanmu DENGAN HIKMAH DAN PENGAJARAN YANG BAIK, dan berdebatlah (berdialoglah) dengan mereka dengan CARA YANG PALING BAIK/SANTUN**."* (QS. An-Nahl [16]: 125).[^2]
+*"**Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah (berdialoglah) dengan mereka dengan cara yang paling baik**."* (QS. An-Nahl [16]: 125).[^2]
+
+Imam Ibnu Katsir (*Tafsir al-Qur'an al-'Azhim*) menjelaskan bahwa *Al-Hikmah* adalah menempatkan argumentasi yang tepat sasaran sesuai kondisi intelektual lawan bicara, sedangkan *Al-Mau'izhah al-Hasanah* adalah sentuhan nasihat yang melunakkan kekakuan kalbu dengan penuh kelembutan.[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Force-Field Analysis* Kurt Lewin & 8-Step Change Model John Kotter di Pesantren
+### 3. Konvergensi Teori Psikologi Perubahan: Force-Field Analysis Kurt Lewin & Model Difusi Inovasi Everett Rogers
 
-```mermaid
-graph LR
-    subgraph ForceFieldLewinPesantren["FORCE-FIELD ANALYSIS DALAM TRANSFORMASI PESANTREN"]
-        Driving["FAKTOR PENDORONG PERUBAHAN (DRIVING FORCES):<br/>• Maraknya kasus kekerasan santri yang viral.<br/>• Tuntutan wali santri akan pengasuhan beradab.<br/>• Visi pimpinan mewujudkan Bi'ah Shalihah global."]
-        
-        Restraining["FAKTOR PENGHAMBAT / RESISTENSI (RESTRAINING FORCES):<br/>• Kebiasaan lama memukul yang dianggap praktis.<br/>• Rasa takut guru kehilangan wibawa jika tidak galak.<br/>• Kurangnya keterampilan konseling musyrif."]
-        
-        Ekuilibrium["TITIK KESEIMBANGAN BUDAYA LAMA"]
-        
-        Driving ==> Ekuilibrium
-        Restraining ==> Ekuilibrium
-        
-        Solusi["STRATEGI TUMBUH: Memperkuat Driving Forces & Melemahkan Restraining Forces lewat Training & Bukti Faktual."]
-        Ekuilibrium -.-> Solusi
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Transformasi organisasi berhasil secara langgeng apabila institusi mampu melewati tiga fase transisi Kurt Lewin: **Unfreezing (Mencairkan kebiasaan lama), Moving (Mengadopsi pola perilaku baru), dan Refreezing (Mengokohkan pola baru menjadi budaya baku)**.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Model 8-Langkah John Kotter (menciptakan urgensi, membentuk koalisi penggerak, menciptakan kemenangan cepat / *Quick Wins*) menyediakan panduan operasional implementasi yang selaras dengan nilai syariat.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh tahapan implementasi modul TUMBUH disusun menggunakan sintesis Lewin-Kotter yang disyar'ikan.[^3]
+Sains psikologi sosial modern memvalidasi keunggulan manajemen perubahan partisipatif:
+* **Kurt Lewin** (1951) merumuskan **Force-Field Analysis**: perubahan terjadi bukan dengan menambah tekanan pendorong (*Driving Forces*), melainkan dengan **mengurangi faktor penahan (*Restraining Forces*)** seperti rasa takut dan ketidaktahuan.
+* **Everett Rogers** (1962; 2003) dalam teori *Diffusion of Innovations* membagi pemangku kepentingan ke dalam 5 kelompok: *Innovators*, *Early Adopters*, *Early Majority*, *Late Majority*, dan *Laggards*. TUMBUH memberdayakan para *Early Adopters* untuk menjadi jembatan dialogis bagi kelompok yang ragu-ragu.[^4]
 
 ---
 
-### 4. Inkuiri 3: Empat Tipologi Respon Pendidik Terhadap Perubahan & Strategi Intervensi Komunikasinya
+### 4. Tipologi Respon Psikologis Pendidik Terhadap Pembaruan dan Strategi Komunikasi Persuasif
 
-| Tipologi Pendidik | Karakteristik Sikap & Respon | Kekhawatiran Utama | Strategi Pendekatan Komunikasi TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **1. Inovator & Early Adopters (20%)** | Langsung antusias, siap mencoba SOP baru PBIS. | Takut program berhenti di tengah jalan. | Diberdayakan sebagai **Duta Pelopor / Core PBIS Team**.[^4] |
-| **2. Mayoritas Pengamat (50%)** | Menunggu bukti, bersikap netral dan hati-hati. | Takut kerepotan mengisi aplikasi logbook baru. | Tunjukkan **Quick Wins** (kemudahan UI logbook & kelas lebih tertib). |
-| **3. Kaum Skeptis Tradisional (20%)**| Meragukan efektivitas pendekatan ramah adab. | Khawatir santri tidak menghormati guru lagi. | **Dialog Empat Mata & Kunjungan Studi Tiru** ke asrama percontohan. |
-| **4. Penolak Keras / Resisten Aktif (10%)**| Menolak terang-terangan, tetap ingin memukul. | Kehilangan zona nyaman dan kekuasaan otoriter. | **Coaching Intensif 90 Hari & Penegakan Pakta Integritas Hukum**.[^5] |
+TUMBUH memetakan respon asatidz:
+* **Penyelaras Cepat (Champions)**: Asatidz muda yang antusias $\rightarrow$ Diberdayakan menjadi fasilitator teknis.
+* **Penyelaras Ragu (Hesitant Majority)**: Menunggu bukti $\rightarrow$ Dilibatkan dalam observasi kelas percontohan.
+* **Penentang Kultural (Traditional Skeptics)**: Khawatir kehilangan wibawa $\rightarrow$ Dirangkul melalui dialog personal turats bersama pimpinan pengasuh.[^5]
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 5. Kasuistika Lapangan: Kasus Penolakan SOP Disiplin Positif oleh Asatidz Sepuh & Resolusi Restoratif
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Asatidz Senior yang Menolak SOP Baru Harus Segera Disingkirkan Agar Tidak Menjadi Racun"
-* **Pihak A (Sudut Pandang Purifikasi Radikal)**:  
-  *"Guru tua yang tidak mau pakai PBIS pecat saja; mereka cuma menghambat kemajuan pondok!"*
-* **Tinjauan Penghormatan Terhadap Jasa Senior (*Inzalu an-Nas Manazilahum*)**:  
-  Rasulullah SAW bersabda: *"Bukan termasuk golongan kami orang yang tidak menyayangi yang muda dan TIDAK MEMULIAKAN YANG TUA DI ANTARA KAMI"* (HR. Tirmidzi No. 1919). Guru-guru senior telah mengabdi puluhan tahun saat pesantren belum memiliki fasilitas apa-apa. Menyingkirkan mereka secara tidak terhormat adalah **Kezaliman dan Tindakan Su'ul Adab**. Mereka harus dihormati, diajak bicara dari hati ke hati, dan dibimbing secara sabar.[^6]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Menunjukkan Keberhasilan Asrama Percontohan (Pilot Project) Mampu Meyakinkan Guru Skeptis?
-* **Pihak A (Sudut Pandang Keputusasaan Teori)**:  
-  *"Guru skeptis tidak akan percaya teori atau presentasi slide sehebat apa pun!"*
-* **Tinjauan Kekuatan Bukti Faktual Lapangan (Al-Mu'ayanah wal-Burhan)**:  
-  Manusia mempercayai apa yang dilihatnya (*Seeing is Believing*). Ketika 1 gedung asrama percontohan (*Pilot Project*) membuktikan bahwa tanpa pukulan dan tanpa bentakan santri justru shalat subuh tepat waktu dan kamar lemarinya sangat rapi 5S, para guru skeptis akan menyaksikan fakta tak terbantahkan. Keraguan mereka runtuh oleh **Bukti Nyata Lapangan (*Al-Fakhtul 'Aini*)**.[^7]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Perubahan Harus Menghasilkan 'Quick Wins' (Kemenangan Cepat) di 3 Bulan Pertama?
-* **Pihak A (Sudut Pandang Perubahan Lambat Pasrah)**:  
-  *"Perubahan karakter butuh puluhan tahun; 3 bulan pertama tidak usah mengharapkan hasil apa-apa!"*
-* **Resolusi Teori Momentum Psikologis John Kotter**:  
-  Jika dalam 90 hari pertama asatidz tidak merasakan manfaat nyata (misalnya: asrama terasa lebih hening saat jam tidur, berkurangnya keributan antre mandi, atau aplikasi logbook yang menghemat waktu administrasi), motivasi guru akan padam. *Quick Wins* menyalakan api optimisme bahwa sistem baru benar-benar bekerja.[^8]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di Pondok Pesantren Z, seorang kiai sepuh senior (Ustadz K) menolak keras program PBIS TUMBUH dan tetap membawa tongkat rotan ke asrama. Beliau mengancam akan keluar dari pondok jika rotan dilarang.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Mudir TUMBUH tidak mendebat Ustadz K di forum umum $\rightarrow$ Mudir sowan secara pribadi ke kediaman beliau dengan membawakan hadiah, mencium tangan beliau, dan memohon nasihat $\rightarrow$ Mudir mengajak Ustadz K menjadi Penasihat Utama Majelis Ishlah $\rightarrow$ Ustadz K diajak menyaksikan sesi dialog restoratif yang berhasil membuat dua santri yang berkelahi menangis saling berpelukan dan bertaubat. Ustadz K sangat tersentuh, secara sukarela meletakkan tongkat rotannya di lemari, dan berkata: *"Inilah cara Rasulullah SAW mendidik yang sebenarnya."* Beliau kini menjadi pembela nomor satu sistem TUMBUH.[^9]
+* **Studi Kasus: Penolakan Keras oleh Guru Senior Terhadap Penghapusan Sanksi Fisik**  
+  * **Dilema**: Ustadz senior yang telah mengajar 25 tahun menolak mengisi logbook PBIS dan tetap membawa tongkat ke kelas.
+  * **Pola Lama**: Lembaga mengancam memotong gaji atau memecat sang guru senior, memicu gejolak santri dan alumni.
+  * **Resolusi Restoratif TUMBUH**: Majelis Pimpinan menempuh jalan hikmah: Mudir sowan secara pribadi ke kediaman ustadz senior, membawa kitab *Ihya' 'Ulumiddin*, dan mendiskusikan bab keutamaan kelembutan dalam mengajar. Sang ustadz senior diajak menjadi penasihat kehormatan *Majelis Ishlah Syura*. Ketika sang ustadz melihat santri di kelas PBIS menjadi sangat tertib dan cinta belajar, beliau meneteskan air mata haru dan secara terbuka mengumumkan dukungannya kepada seluruh dewan guru.[^6]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
-### 1. Formulasi Konseptual: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Manajemen Resistensi Kultural Beradab TUMBUH
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Pendekatan Hikmah & Memuliakan Asatidz Senior**:  
-   Menetapkan bahwa transformasi budaya pengasuhan wajib dijalankan dengan pendekatan Hikmah, kelembutan lisan, dan memuliakan kedudukan para sesepuh pondok (Inzalu an-Nas Manazilahum).
-
-2. **Penerapan Metodologi Tahapan Perubahan Sistemik (unfreezing - Moving - Refreezing)**:  
-   Mengharamkan perubahan instan yang memaksa tanpa edukasi; mewajibkan pentahapan sosialisasi, pembentukan koalisi penggerak, penciptaan Quick Wins, dan pengokohan SOP menjadi tradisi baru.
-
-3. **Pendampingan Intensif Bagi Asatidz Dalam Masa Transisi (transitional Coaching)**:  
-   Lembaga memfasilitasi pelatihan klinis praktis, bimbingan langsung di kamar asrama, dan ruang konsultasi bagi pendidik yang mengalami kesulitan dalam menerapkan teknik bimbingan restoratif.
-
-4. **Pembuktian Faktual Melalui Pilot Project Asrama Percontohan**:  
-   Setiap inovasi tata kelola diuji coba terlebih dahulu pada unit percontohan guna menghasilkan data keberhasilan nyata yang terbukti sebelum diimplementasikan secara massal ke seluruh unit.
-
-
----
-
-### 2. Matriks 8 Tahap Transformasi Budaya Pesantren (*Kotter-Lewin Adapted for Pesantren*)
-
-| Tahapan Perubahan | Fokus Aktivitas Utama | Output Konkret | Kunci Keberhasilan Epistemologis |
-| :--- | :--- | :--- | :--- |
-| **1. Create Urgency** | Memaparkan data krisis kekerasan & urgensi menjaga marwah pondok. | Kesadaran bersama perlunya perubahan sistem. | Membangkitkan rasa takut kepada hisab akhirat.[^10] |
-| **2. Build Guiding Coalition**| Membentuk Tim Inti PBIS (gabungan kiai sepuh & guru muda visioner). | Terbentuknya Satgas Transformasi Berwibawa. | Keseimbangan antara karisma tradisi & keahlian modern. |
-| **3. Form Strategic Vision**| Merumuskan visi *Pesantren Bi'ah Shalihah Ramah Adab 24 Jam*. | Dokumen Grand Design yang jelas & membumi. | Keselarasan dengan Al-Qur'an, Sunnah, & Turats. |
-| **4. Enlist Volunteer Army**| Menggelar daurah akbar & sosialisasi partisipatif seluruh musyrif. | 80% asatidz memahami dan mendukung arah baru. | Menggunakan bahasa dakwah yang menyentuh kalbu. |
-| **5. Enable Action (Remove Barriers)**| Menghapus aturan lama yang kaku & melatih teknik konseling 3R. | Hambatan struktural & ketakutan guru teratasi. | Dukungan fasilitas, sarana air bersih, & jam istirahat. |
-| **6. Generate Quick Wins** | Menerapkan PBIS di 1 blok asrama percontohan selama 90 hari. | Penurunan drastis insiden asrama percontohan. | Bukti nyata yang membungkam keraguan kaum skeptis. |
-| **7. Sustain Acceleration**| Memperluas implementasi ke seluruh unit madrasah & asrama. | Standarisasi total seluruh lokus kehidupan 24 jam. | Konsistensi monitoring mingguan & clinical coaching. |
-| **8. Institute Change** | Menjadikan SOP PBIS sebagai statuta resmi & budaya pesantren. | Terbentuknya kultur Bi'ah Shalihah yang abadi. | Doa istiqamah, regenerasi kader, & audit berkelanjutan. |
-
----
-
-### 3. Protokol Pendampingan Transisi & Coaching Dialogis bagi Asatidz Senior
+Ekosistem TUMBUH mengkodifikasikan penanganan resistensi ke dalam **Arsitektur Tiga Sayap Transformasi Beradab (*Arkan Idaratil Muqawamah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SOPPendampinganTransisiSenior["PROTOKOL COACHING DIALOGIS ASATIDZ SENIOR"]
-        SowanPrivat["1. SOWAN PRIBADI & PENGHORMATAN ADAB<br/>Pimpinan mendatangi asatidz senior secara privat, memohon doa restu & masukan."]
+    subgraph ArsitekturManajemenResistensiTUMBUH["ARSITEKTUR MANAJEMEN RESISTENSI KULTURAL"]
         
-        CoachingRakan["2. CLINICAL TEAM-TEACHING DI ASRAMA<br/>Konselor mendampingi senior saat menangani kasus pelanggaran santri secara halus."]
+        R1_Sayap["1. DIALOG SYARIAT HIKMAH (Epistemic Respect)<br/>Menghormati dedikasi masa lalu; membangun titik temu dalil turats klasik."]
         
-        ApresiasiTerbuka["3. APRESIASI KETELADANAN SENIOR DI MAJELIS GURU<br/>Pimpinan memuji kesabaran dan peran teladan asatidz senior di hadapan seluruh rekan."]
+        R2_Sayap["2. DEMONSTRASI BUKTI LAPANGAN (Evidence-Based Proof)<br/>Uji coba pilot project percontohan untuk membuktikan efektivitas sistem PBIS."]
         
-        IntegrasiTradisi["4. TRANSFORMASI SENIOR MENJADI PENASIHAT ISHLAH<br/>Senior memimpin majelis musyawarah rekonsiliasi santri dengan wibawa penuh kasih."]
+        R3_Sayap["3. PEMBERDAYAAN PARTISIPATIF (Inclusive Ownership)<br/>Melibatkan asatidz senior dalam perumusan SOP & tim mediasi syura."]
         
-        SowanPrivat --> CoachingRakan --> ApresiasiTerbuka --> IntegrasiTradisi
+        R1_Sayap <===> R2_Sayap <===> R3_Sayap
     end
 ```
 
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Dialog Hikmah**: Memastikan para guru senior merasa dihargai martabat keilmuannya dan tidak dipinggirkan.[^7]
+2. **Sayap Bukti Lapangan**: Menghilangkan keraguan melalui fakta empiris bahwa disiplin restoratif membuat santri lebih disiplin dan berprestasi.[^8]
+3. **Sayap Kepemilikan Inklusif**: Menjadikan seluruh asatidz sebagai pemilik bersama gerakan pembaruan pesantren.[^9]
+
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Manajemen Resistensi (Maratib al-Idrak)
+
+Transformasi kepemimpinan dalam mengelola dinamika penolakan dipetakan ke dalam Empat Tingkatan Kesadaran Manajemen Resistensi (*Maratib al-Idrak fi Idaratil Muqawamah*):
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranManajemenResistensi["EMPAT TINGKATAN KESADARAN MANAJEMEN RESISTENSI (MARATIB AL-IDRAK)"]
+        
+        M1_Resist["TINGKAT 1: KESADARAN TEKANAN INSTRUKTIF (Al-Idrak al-Qasriy al-Awwal)<br/>• Menghadapi penolakan staf dengan ancaman teguran, pemotongan insentif, atau mutasi.<br/>• Memperburuk resistensi tersembunyi & merusak iklim persaudaraan lembaga."]
+        
+        M2_Resist["TINGKAT 2: KESADARAN KOMUNIKASI PERSUASIF (Al-Idrak al-Iqna'iy)<br/>• Mampu memaparkan data & manfaat sistem baru secara rasional dalam forum rapat.<br/>• Mulai memahami kekhawatiran staf & memberikan pelatihan teknis operasional."]
+        
+        M3_Resist["TINGKAT 3: KESADARAN HIKMAH & EMPATI RUHANI (Al-Idrak al-Hakim ar-Ruhaniy)<br/>• Menghadapi resistensi dengan kerendahan hati, sowan privat, & doa kebaikan.<br/>• Menyatukan dalil turats dengan sains modern; merangkul sesepuh sebagai mitra syura."]
+        
+        M4_Resist["TINGKAT 4: KESADARAN KEPEMIMPINAN REKONSILIASI PARIPURNA (Al-Idrak al-Jami' al-Kamil)<br/>• Puncak kematangan: mampu mengubah resistensi paling keras menjadi energi pendukung utama.<br/>• Menjadi Live Qudwah pemersatu peradaban yang memandu transformasi tanpa friksi perpecahan."]
+        
+        M1_Resist ==> M2_Resist ==> M3_Resist ==> M4_Resist
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Pemaksaan Otoriter Menuju Komunikasi Persuasif)**: Pimpinan mula-mula sekadar memberi instruksi kaku. Pada tingkatan kedua, pimpinan memaparkan data dan memberikan pelatihan praktis kepada guru yang ragu.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Paparan Rasional Menuju Sentuhan Hikmah Ruhani)**: Pada tingkatan ketiga, pimpinan mendekati para sesepuh dengan adab santun, mendengarkan kekhawatirannya, dan merumuskan solusi bersama atas dasar turats.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Rekonsiliasi Paripurna)**: Pada tingkatan tertinggi, pimpinan berhasil menyatukan seluruh elemen pesantren menjadi satu shaf peradaban yang solid, penuh cinta, dan siap melangkah bersama menuju masa depan gemilang (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Manajemen Resistensi
+### 3. Matriks Empat Tipologi Respon Pendidik, Gejala Penolakan, & Pendekatan Intervensi
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Perubahan Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Metode Dakwah** | *Bil-Hikmah* | QS. An-Nahl: 125, QS. Ali Imran: 159 | Roger (2003), *Diffusion of Innovations* | Mengubah budaya lewat persuasi santun dan bukti nyata. |
-| **Dinamika Perubahan**| *Force-Field Analysis*| Kaidah *Tadarruj fi at-Tasyri'* | Kurt Lewin (1947), *Field Theory* | Melemahkan hambatan budaya lama lewat pelatihan aplikatif. |
-| **Pentahapan Sukses**| *8-Step Change* | Strategi Hijrah & Fathu Makkah Nabawi | John Kotter (1996), *Leading Change* | Memandu transformasi melalui 8 langkah terstruktur. |
-| **Penghormatan Senior**| *Inzalu an-Nas* | HR. Tirmidzi No. 1919 (Hormati yang Tua) | Schein (2010), *Organizational Culture* | Melibatkan sesepuh pondok sebagai pilar penasihat perubahan. |
+| Tipologi Respon Pendidik | Gejala Perilaku Nyata | Akar Kekhawatiran Batin | Strategi Pendekatan Terpadu |
+| :--- | :--- | :--- | :--- |
+| **1. Penggerak Antusias (Champions)**| Menyambut aktif & menguji coba PBIS.| Semangat pembaruan adab.| Berdayakan sebagai Fasilitator Pelatih. |
+| **2. Pengamat Ragu (Hesitant)** | Menunggu bukti & pasif dalam rapat.| Takut repot & takut gagal.| Libatkan dalam pilot project kamar sukses.|
+| **3. Penentang Kultural (Skeptics)**| Mengkritik tajam di ruang guru.| Takut santri manja & hilang wibawa.| Sowan privat, dialog turats, & data empiris.|
+| **4. Penolak Pasif (Passive Resisters)**| Setuju di rapat, melanggar di kamar.| Merasa kebebasannya dibatasi.| Pendampingan coaching satu per satu.|
+
+---
+
+### 4. Protokol Pendampingan Transisi & Coaching Dialogis bagi Asatidz Senior
+
+TUMBUH menetapkan **Protokol Coaching Dialogis bagi Asatidz Senior**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolCoachingSenior["PROTOKOL COACHING DIALOGIS ASATIDZ SENIOR"]
+        SowanPrivat["1. SOWAN PRIVAT PENUH TAKZIM: Pimpinan Berkunjung Menyampaikan Maksud Pembaruan"]
+        --> DengarAspirasi["2. MENDENGAR ASPIRASI: Meminta Nasihat & Masukan Kritis Terkait Pengalaman Masa Lalu"]
+        --> BedahTurats["3. BEDAH TURATS BERSAMA: Mengkaji Hadits Kelembutan & Kitab Adab Para Ulama Salaf"]
+        --> AmanahKehormatan["4. PEMBERIAN PERAN STRATEGIS: Mengukuhkan Asatidz Senior Sebagai Penasihat Majelis Syura"]
+    end
+```
+
+Protokol ini menjamin transisi budaya berjalan mulus tanpa melukai martabat para sesepuh pondok.[^11]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Manajemen resistensi kultural yang beradab ini membawa pelajaran agung bagi peradaban:
+
+* **Membuktikan Bahwa Pembaruan Islam Bersifat Merangkul, Bukan Menggusur**:  
+  Pendidikan Islam maju bukan dengan membuang tradisi lama, melainkan dengan memurnikan tradisi tersebut agar kembali pada kemurnian ajaran kenabian.
+* **Mencegah Polarisasi dan Perpecahan Generasi di Pesantren**:  
+  Sinergi antara kearifan guru senior dan inovasi guru muda melahirkan institusi yang kokoh, berakar kuat pada nilai salaf, dan terbang tinggi menatap masa depan.
+* **Meneladani Kelembutan Dakwah Rasulullah SAW**:  
+  Inilah rahasia keberhasilan dakwah Nabi ﷺ yang mampu melunakkan hati para tokoh Quraisy yang paling keras menjadi pahlawan-pahlawan pembela Islam (*Rahmatan lil 'Alamin*).[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Manajemen Resistensi
+
+| Dimensi Parameter | Mazhab Otoriter Menindas (Lama) | Model Korporat Transaksional | **Manajemen Resistensi Bil-Hikmah TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sikap atas Resistensi**| Memusuhi & memecat penentang.| Mengabaikan keluhan non-struktural.| **Peluang Dialog Hikmah & Evaluasi.** | QS. An-Nahl: 125; Lewin (1951).| Sowan privat & halaqah syura. |
+| **Metode Komunikasi** | Instruksi sepihak surat edaran.| Sosialisasi presentasi dingin. | **Kajian Turats & Pembuktian Data Faktual.**| Ibnu Katsir; Rogers (2003). | Bedah kitab salaf & pilot project PBIS. |
+| **Posisi Guru Senior** | Disingkirkan karena dianggap kuno.| Pekerja yang harus patuh KPI.| **Mitra Dialog Utama & Penasihat Syura.** | HR. Bukhari No. 13; KH. Hasyim Asy'ari.| Dilibatkan dalam perumusan kebijakan. |
+| **Dampak Transisi** | Boikot kerja & perpecahan pondok.| Kepatuhan semu tanpa keikhlasan.| **Kohesi Lembaga & Sinergi Generasi.** | QS. Ali 'Imran: 159; Kotter (1996).| Seluruh asatidz bersatu padu. |
+| **Hasil Institusi** | Lembaga rapuh sarat konflik.| Korporasi mekanis tanpa berkah.| **Pesantren Beradab, Kuat, & Berkah Abadi.**| QS. Ibrahim: 24–25; Al-Attas (1980).| Tradisi pembaruan berkelanjutan. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **At-Tirmidzi, Muhammad bin Isa**. (1998). *Sunan at-Tirmidzi*. Beirut: Dar al-Gharb al-Islami.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Lewin, K.**. (1947). *Frontiers in group dynamics: Concept, method and reality in social science*. Human Relations, 1(1), 5–41.
-7. **Kotter, J. P.**. (1996). *Leading Change*. Boston: Harvard Business School Press.
-8. **Rogers, E. M.**. (2003). *Diffusion of Innovations* (5th ed.). Free Press.
-9. **Fullan, M.**. (2007). *The New Meaning of Educational Change*. Teachers College Press.
-10. **Schein, E. H.**. (2010). *Organizational Culture and Leadership*. San Francisco: Jossey-Bass.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Ibnu Katsir, Abul Fida' Isma'il bin Umar**. (1420 H). *Tafsir al-Qur'an al-'Azhim*. Riyadh: Dar Thayyibah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm & Kitab Adab al-Ulfah). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Lewin, K.**. (1951). *Field Theory in Social Science*. New York: Harper & Row.
+9. **Kotter, J. P.**. (1996). *Leading Change*. Boston: Harvard Business School Press.
+10. **Rogers, E. M.**. (2003). *Diffusion of Innovations* (5th ed.). New York: Free Press.
+11. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+12. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-Amr bil Ma'ruf wan Nahyi 'anil Munkar*, Jilid II, hlm. 310–330.  
-[^2]: Al-Qur'an Surah An-Nahl [16]: 125.  
-[^3]: Lewin, K. (1947), *Human Relations*, hlm. 5–41; Kotter, J. P. (1996), *Leading Change*, Harvard Business Press.  
-[^4]: Rogers, E. M. (2003), *Diffusion of Innovations*, Free Press, hlm. 280–310.  
-[^5]: Fullan, M. (2007), *The New Meaning of Educational Change*, Teachers College Press.  
-[^6]: Sunan at-Tirmidzi No. 1919, Kitab *al-Birr wash-Shilah*, Bab *Maa Jaa'a fi Rahmatish Shibyan*.  
-[^7]: Laporan Evaluasi Implementasi Pilot Project Asrama Percontohan, Divisi Litbang TUMBUH, 2026.  
-[^8]: Kotter, J. P. (1996), *Leading Change*, Bab 8: *Generating Short-Term Wins*.  
-[^9]: Catatan Sejarah Transformasi Budaya Pesantren Mitra Jawa Timur, Majelis Masyayikh TUMBUH, 2026.  
-[^10]: Manual Standar Manajemen Perubahan Budaya Asrama Pesantren, Komite Eksekutif TUMBUH, 2026.
+[^1]: Riset Manajemen Resistensi Kultural dan Psikologi Perubahan Pesantren TUMBUH, *Kritik atas Pendekatan Otoriter*, 2026.  
+[^2]: QS. An-Nahl [16]: 125.  
+[^3]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Tafsir QS. An-Nahl: 125, Jilid 4, hlm. 610–615.  
+[^4]: Lewin, K. (1951), *Field Theory in Social Science*, hlm. 40–70; Rogers, E. M. (2003), *Diffusion of Innovations*, hlm. 20–65.  
+[^5]: Master Framework Tipologi Stakeholder dan Komunikasi Persuasif PBIS TUMBUH, 2026.  
+[^6]: Dokumentasi Mediasi dan Halaqah Sowan Asatidz Senior PBIS TUMBUH, 2026.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 50–75.  
+[^8]: Horner, R. H., & Sugai, G. (2015), *School-wide PBIS*, hlm. 82–85.  
+[^9]: Kotter, J. P. (1996), *Leading Change*, hlm. 35–60.  
+[^10]: Matriks Tingkatan Kesadaran Manajemen Resistensi (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Coaching Dialogis dan Pendampingan Transisi Asatidz TUMBUH, 2026.  
+[^12]: Deklarasi Pemuliaan Hikmah Transformatif Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Manajemen Resistensi, Force-Field, Kotter Model, & Hikmah
+### 4. Glosarium Istilah Ilmiah & Turats Manajemen Resistensi
 
-1. **Manajemen Resistensi Kultural**: Serangkaian strategi psikososial dan manajerial untuk mengidentifikasi, memahami, dan mengubah kekhawatiran atau penolakan komunitas terhadap inovasi baru menjadi komitmen dukungan bersama.
-2. **Force-Field Analysis**: Kerangka analisis Kurt Lewin yang memetakan kekuatan pendorong (*Driving Forces*) dan kekuatan penghambat (*Restraining Forces*) yang mempengaruhi keberhasilan suatu perubahan.
-3. **8-Step Change Model**: Model manajemen perubahan delapan langkah karya John Kotter untuk memandu organisasi melewati proses transformasi secara terstruktur dan berkelanjutan.
-4. **Quick Wins (Kemenangan Cepat)**: Hasil positif nyata yang dapat dicapai dalam waktu singkat (30–90 hari) untuk membuktikan efektivitas sistem baru dan membangun kepercayaan warga lembaga.
-5. **Pilot Project (Asrama Percontohan)**: Uji coba penerapan SOP pembinaan baru pada satu unit terbatas guna menguji kelayakan lapangan dan menghasilkan bukti keberhasilan empiris.
-6. **Inzalu an-Nas Manazilahum**: Kaidah adab Islam untuk memperlakukan dan menempatkan setiap orang sesuai dengan kedudukan, kehormatan, dan kontribusi historisnya.
-7. **Malicious Compliance (Kepatuhan Semu/Pasif)**: Sikap pura-pura mematuhi instruksi pimpinan di permukaan, namun secara diam-diam menjalankan pola lama atau membiarkan kesalahan terjadi demi membuktikan sistem baru gagal.
-8. **Clinical Coaching**: Pendampingan praktis di lapangan oleh mentor senior untuk melatih pendidik secara langsung dalam mempraktikkan keterampilan baru.
-9. **Diffusion of Innovations**: Teori Everett Rogers mengenai bagaimana suatu ide baru, gagasan, atau teknologi menyebar dan diadopsi oleh berbagai segmen masyarakat.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana keberhasilan manajemen perubahan secara harmonis menumbuhkan Santri, memuliakan Pendidik senior, dan memperkokoh peradaban Lembaga.
+1. **Manajemen Resistensi Kultural**: Pendekatan strategis untuk memahami, merangkul, dan mengatasi kekhawatiran psikososial para pemangku kepentingan terhadap pembaruan sistem.
+2. **Dakwah Bil-Hikmah (الدَّعْوَةُ بِالْحِكْمَةِ)**: Metode penyampaian kebenaran yang tepat sasaran, proporsional, santun, dan sesuai dengan kapasitas intelektual penerimanya.
+3. **Force-Field Analysis**: Alat analisis Kurt Lewin untuk memetakan kekuatan pendorong (*Driving Forces*) dan faktor penahan (*Restraining Forces*) dalam perubahan organisasi.
+4. **Diffusion of Innovations**: Teori Everett Rogers mengenai pola penyebaran gagasan baru dalam suatu sistem sosial melalui tahapan adopsi.
+5. **Malicious Compliance (Kepatuhan Semu)**: Sikap pura-pura mematuhi aturan formal di depan atasan sembari tetap menjalankan kebiasaan lama secara sembunyi-sembunyi.
+6. **Coaching Dialogis**: Pendekatan bimbingan empat mata berbasis dialog takzim untuk mendengar keluhan dan mendampingi guru senior beradaptasi.
+7. **Evidence-Based Transformation**: Pendekatan pembaruan yang meyakinkan para penentang melalui pembuktian data fakta keberhasilan nyata di lapangan.
+8. **Restraining Forces**: Hambatan psikologis dan tradisi yang memperlambat laju perubahan dalam institusi pendidikan.
+9. **Champions (Duta Pembaruan)**: Kader-kader asatidz yang antusias dan memiliki kompetensi untuk memimpin pelaksanaan sistem baru.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil pendidik yang berjiwa pembelajar, bijaksana dalam menyikapi perbedaan, dan senantiasa menjaga keutuhan ukhuwah.

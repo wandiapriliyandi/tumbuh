@@ -1,367 +1,271 @@
-# P1-06-01: SUNNATULLAH PERUBAHAN JIWA DAN PERILAKU SANTRI
-## *Monograf Terpadu: Hukum Kausalitas Perubahan Transendental dalam Turats (QS. Ar-Ra'd: 11 & Tafsir Mafatih al-Ghaib Ar-Razi), Konvergensi Transtheoretical Model (TTM) Stages of Change Prochaska & DiClemente, Mitigasi Resistensi Psikologis Santri (Psychological Reactance), serta Diferensiasi Pendampingan Berbasis Kesiapan Jiwa 24 Jam*
+# P1-06-01: SUNNATULLAH PERUBAHAN JIWA DAN PERILAKU SANTRI (LAWS OF BEHAVIORAL & SPIRITUAL TRANSFORMATION)
+## *Monograf Riset Akademik: Hukum Kausalitas Perubahan Transendental dalam Turats (QS. Ar-Ra'd: 11 & Tafsir Fakhruddin Ar-Razi), Konvergensi Transtheoretical Model Stages of Change Prochaska, Mitigasi Psychological Reactance, Serta Pendampingan Diferensiatif di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-06-01/MONOGRAF-TERPADU-SUNNATULLAH-PERUBAHAN/2026`  
-**Domain**: `01 Philosophy` > `06 Change`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P1-06-01/MONOGRAF-RISET-SUNNATULLAH-PERUBAHAN/2026`  
+**Domain**: `01 Philosophy` > `06 Change` (Sub-Modul 01: *Sunnatullah of Behavioral Transformation*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Epistemologi Hukum Perubahan Sosial-Spiritual (*Sunnatullah at-Taghyir*), Psikologi Perubahan Perilaku (*Behavior Change Psychology*), Motivasi Transformatif Santri, Tata Kelola Intervensi Diferensiasi Asrama  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Perubahan Perilaku Santri Dimulai dari Gerakan Jiwa Internal (*Ma bi Anfusihim*):**  
->   Al-Qur'an (QS. Ar-Ra'd: 11) menetapkan hukum pasti: *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum sampai mereka mengubah apa yang ada pada diri mereka sendiri"*. Memaksa santri dengan kekerasan fisik hanya menghasilkan perubahan topeng lahiriah sesaat. Perubahan sejati dan abadi baru terjadi ketika kesadaran niat dan cara pandang kalbu santri berhasil disentuh.
-> * **Lima Tahap Kesiapan Berubah Santri (Transtheoretical Model Prochaska):**  
->   1. **Precontemplation (Belum Sadar):** Santri merasa tidak punya masalah dan menolak dinasehati $\rightarrow$ *Pendekatan*: Bangun kedekatan emosional tanpa menghakimi.  
->   2. **Contemplation (Mulai Bimbang):** Santri menyadari perbuatannya salah tapi masih ragu untuk berubah $\rightarrow$ *Pendekatan*: Dialog reflektif 5 pertanyaan restoratif.  
->   3. **Preparation (Siap Berubah):** Santri meminta bimbingan dan berniat memperbaiki diri $\rightarrow$ *Pendekatan*: Buat kontrak target adab kecil yang realistis.  
->   4. **Action (Melakukan Tindakan):** Santri aktif mempraktikkan adab baru $\rightarrow$ *Pendekatan*: Berikan apresiasi verbal melimpah (Rasio 4:1).  
->   5. **Maintenance (Menjaga Istiqamah):** Pembiasaan adab telah berlangsung >6 bulan $\rightarrow$ *Pendekatan*: Jadikan santri mentor bagi temannya.
-> * **Jangan Menghakimi Santri yang Mengalami Kekambuhan (*Relapse*):**  
->   Perubahan bukanlah garis lurus yang mulus, melainkan proses spiral. Jika santri yang sedang berikhtiar baik sesekali khilaf kembali melanggar, musyrif membimbingnya untuk bangkit kembali (*Forgive and Reset*), bukan mencapnya sebagai anak munafik atau putus asa.
+> * **Kelemahan Paradigma Lama: Ilusi Perubahan Instan Melalui Koersi Fisik:**  
+>   Banyak pengasuh asrama berasumsi bahwa perilaku buruk santri dapat diubah seketika melalui paksaan fisik, teror bentakan, atau razia mendadak (*Instant Coercive Illusion*). Fakta sains membuktikan pendekatan represif memicu resistensi psikologis (*Psychological Reactance*), melahirkan kepatuhan semu kamuflase, dan menumbuhkan bibit kemunafikan.
+> * **Inovasi Konseptual: Sunnatullah at-Taghyir & Transtheoretical Model Prochaska:**  
+>   TUMBUH menegaskan hukum perubahan Ilahi: *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri (Ma bi Anfusihim)"* (QS. Ar-Ra'd: 11). Mengintegrasikan eksegesis Imam Fakhruddin Ar-Razi dengan *Transtheoretical Model (TTM)* James Prochaska: memetakan perubahan melalui 5 tahap kesiapan jiwa (**Precontemplation, Contemplation, Preparation, Action, dan Maintenance**) serta memitigasi fase kekambuhan (*Relapse*) secara bijak tanpa vonis kafir/munafik.
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks diferensiasi intervensi perilaku berbasis kesiapan jiwa, 4 Tingkatan Kesadaran Transformasi Jiwa (*Maratib al-Idrak*), protokol diagnosis kesiapan berubah santri, dan etika pendampingan bertahap.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET DOKTRIN SUNNATULLAH PERUBAHAN JIWA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-doktrin-sunnatullah-perubahan-jiwa-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Hukum Kausalitas Perubahan Insan: Sunnatullah at-Taghyir](#1-kerangka-metodologi-hukum-kausalitas-perubahan-insan-sunnatullah-at-taghyir)
-  - [2. Inkuiri 1: Eksegesis Turats QS. Ar-Ra'd: 11 & QS. Al-Anfal: 53 — Tafsir Mafatih al-Ghaib Ar-Razi mengenai Inisiatif Internal Jiwa (Ma bi Anfusihim)](#2-inkuiri-1-eksegesis-turats-qs-ar-rad-11--qs-al-anfal-53--tafsir-mafatih-al-ghaib-ar-razi-mengenai-inisiatif-internal-jiwa-ma-bi-anfusihim)
-  - [3. Inkuiri 2: Konvergensi Transtheoretical Model (TTM) Stages of Change Prochaska & DiClemente (5 Tahap Kesiapan Jiwa)](#3-inkuiri-2-konvergensi-transtheoretical-model-ttm-stages-of-change-prochaska--diclemente-5-tahap-kesiapan-jiwa)
-  - [4. Inkuiri 3: Dialektika Mengatasi Resistensi Perilaku Santri: Mengapa Pendekatan Represif Memicu Psychological Reactance](#4-inkuiri-3-dialektika-mengatasi-resistensi-perilaku-santri-mengapa-pendekatan-represif-memicu-psychological-reactance)
-  - [5. Inkuiri 4: Strategi Intervensi Terdiferensiasi Berbasis Tahap Kesiapan Berubah Santri di Asrama](#5-inkuiri-4-strategi-intervensi-terdiferensiasi-berbasis-tahap-kesiapan-berubah-santri-di-asrama)
-  - [6. Inkuiri 5: Penanganan Fase Kekambuhan (Relapse Management) Tanpa Stigmatisasi Moral](#6-inkuiri-5-penanganan-fase-kekambuhan-relapse-management-tanpa-stigmatisasi-moral)
-  - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Perubahan Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-perubahan-riil--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH](#1-formulasi-konseptual-hukum-kausalitas-perubahan-jiwa-dan-perilaku-tumbuh)
-  - [2. Matriks 5 Tahap Kesiapan Berubah (TTM Prochaska) vs Pendekatan Pembinaan Musyrif](#2-matriks-5-tahap-kesiapan-berubah-ttm-prochaska-vs-pendekatan-pembinaan-musyrif)
-  - [3. Matriks Diferensiasi Intervensi Perilaku Berdasarkan Kesiapan Jiwa Santri](#3-matriks-diferensiasi-intervensi-perilaku-berdasarkan-kesiapan-jiwa-santri)
-  - [4. Protokol Diagnosis Kesiapan Berubah Santri (Readiness to Change Diagnostic Protocol)](#4-protokol-diagnosis-kesiapan-berubah-santri-readiness-to-change-diagnostic-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Sunnatullah Perubahan Jiwa](#1-tabel-sintesis-hasil-riset-sunnatullah-perubahan-jiwa)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Ilusi Perubahan Instan dan Bahaya Kepatuhan Kamuflase](#1-latar-belakang-masalah-krisis-ilusi-perubahan-instan-dan-bahaya-kepatuhan-kamuflase)
+  - [2. Eksegesis Turats Sunnatullah at-Taghyir: QS. Ar-Ra'd: 11 & QS. Al-Anfal: 53 dalam Tafsir Fakhruddin Ar-Razi](#2-eksegesis-turats-sunnatullah-at-taghyir-qs-ar-rad-11--qs-al-anfal-53-dalam-tafsir-fakhruddin-ar-razi)
+  - [3. Konvergensi Transtheoretical Model (TTM) Stages of Change James Prochaska & Carlo DiClemente](#3-konvergensi-transtheoretical-model-ttm-stages-of-change-james-prochaska--carlo-diclemente)
+  - [4. Mitigasi Resistensi Psikologis Santri (Psychological Reactance) Melalui Otonomi Niat Batin](#4-mitigasi-resistensi-psikologis-santri-psychological-reactance-melalui-otonomi-niat-batin)
+  - [5. Kasuistika Lapangan: Kasus Kekambuhan Santri Merokok & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-kekambuhan-santri-merokok--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Sunnatullah Perubahan Jiwa dan Perilaku TUMBUH](#1-eksplanasi-teoretis-sunnatullah-perubahan-jiwa-dan-perilaku-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transformasi Jiwa (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-transformasi-jiwa-maratib-al-idrak)
+  - [3. Matriks Lima Tahap Kesiapan Berubah TTM vs Pendekatan Intervensi Musyrif Asrama](#3-matriks-lima-tahap-kesiapan-berubah-ttm-vs-pendekatan-intervensi-musyrif-asrama)
+  - [4. Protokol Diagnosis Kesiapan Berubah Santri (Readiness to Change Protocol)](#4-protokol-diagnosis-kesiapan-berubah-santri-readiness-to-change-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Sunnatullah Perubahan Jiwa](#1-tabel-sintesis-temuan-riset-sunnatullah-perubahan-jiwa)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Sunnatullah Perubahan & Psikologi Perilaku](#4-glosarium-dan-penjelasan-istilah-teknis-sunnatullah-perubahan--psikologi-perilaku)
+  - [4. Glosarium Istilah Ilmiah & Turats Perubahan Jiwa](#4-glosarium-istilah-ilmiah--turats-perubahan-jiwa)
 
 ---
 
-# BAGIAN I: RISET DOKTRIN SUNNATULLAH PERUBAHAN JIWA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Hukum Kausalitas Perubahan Insan: *Sunnatullah at-Taghyir*
+### 1. Latar Belakang Masalah: Krisis Ilusi Perubahan Instan dan Bahaya Kepatuhan Kamuflase
 
-Banyak pendidik dan musyrif asrama terjebak dalam **Ilusi Perubahan Instan (*The Illusion of Instant Coercion*)**: meyakini bahwa dengan satu kali bentakan keras, ancaman cambuk, atau razia mendadak, perilaku santri yang menyimpang akan langsung berubah menjadi shalih secara permanen.
-
-Fakta lapangan dan sains perilaku membuktikan hal sebaliknya:
-* Pemaksaan lahiriah tanpa penyadaran batin hanya melahirkan **Kepatuhan Kamuflase (*Camouflage Compliance*)**: santri berlaku tertib di depan mata musyrif, namun melakukan pelanggaran yang jauh lebih berat di tempat tersembunyi.
-* Otak manusia menolak perubahan yang dipaksakan secara kasar karena memicu mekanisme pertahanan diri biologis (*Psychological Reactance*).
-* Hukum Ilahi (*Sunnatullah*) menetapkan bahwa transformasi peradaban dan karakter adalah proses kausalitas bertahap yang berakar pada keputusan sadar di kedalaman jiwa (*Taghyiru Ma bi Anfusihim*).
-
-Ekosistem TUMBUH menegakkan doktrin **Sunnatullah Perubahan Jiwa Berbasis Kesiapan Nurani**:
+Kekeliruan paling umum dalam pengasuhan asrama konvensional adalah **Ilusi Perubahan Instan (*The Illusion of Instant Coercion*)**:
+* **Asumsi Dogmatis Koersif**: Berasumsi bahwa santri yang membangkang akan seketika menjadi saleh jika dipukul rotan, disiram air dingin, atau dibotaki paksa di depan umum.
+* **Lahirnya Kepatuhan Kamuflase (*Camouflage Compliance*)**: Santri menunjukkan ketaatan lahiriah palsu saat berada di bawah pengawasan musyrif, namun melampiaskan pelanggaran yang lebih parah di tempat tersembunyi (*Covert Delinquency*).
+* **Fenomena Psychological Reactance**: Tekanan fisik yang represif memicu mekanisme pertahanan diri biologis di mana jiwa santri secara otomatis melawan (*Rebel*) untuk mempertahankan rasa kebebasan individunya.
+* **Keniscayaan Hukum Kausalitas Perubahan (*Sunnatullah at-Taghyir*)**: Perubahan karakter sejati adalah proses metamorfosis batin yang berakar pada penyadaran kalbu dan keputusan niat otonom (*Taghyiru Ma bi Anfusihim*).[^1]
 
 ```mermaid
 flowchart TD
-    subgraph SunnatullahPerubahanPerilaku["PARADIGMA SUNNATULLAH PERUBAHAN PERILAKU"]
-        KausaDalam["1. GERAKAN KESADARAN INTERNAL (MA BI ANFUSIHIM)<br/>Perubahan niat, cara pandang akal, & kehendak taubat di dalam kalbu santri."]
+    subgraph TransformasiSunnatullahPerubahan["TRANSFORMASI PARADIGMA PERUBAHAN PERILAKU"]
+        PolaKoersiLama["ILUSI KOERSI INSTAN (LAMA)<br/>• Memaksa perubahan dengan rotan & bentakan.<br/>• Memicu perlawanan psikologis (Psychological Reactance).<br/>• Menghasilkan kemunafikan & kepatuhan kamuflase."]
         
-        IkhtiarSistem["2. SISTEM PENDAMPINGAN TERDIFERENSIASI (PBIS & MUSYRIF)<br/>Musyrif memberikan intervensi yang tepat sesuai tingkat kesiapan psikologis santri."]
+        PolaTaghyirTUMBUH["SUNNATULLAH AT-TAGHYIR & TTM (TUMBUH)<br/>• Perubahan dimulai dari kesadaran jiwa (Ma bi Anfusihim).<br/>• 5 Tahap Kesiapan Berubah (Prochaska Stages of Change).<br/>• Pendampingan bertahap: Taubat nasuha & istiqamah sejati."]
         
-        KetetapanIlahi["3. BANTUAN HIDAYAH & PERUBAHAN LAHIRIAH ABADI<br/>Allah menurunkan rahmat perubahan akhlak karimah yang menghunjam permanen."]
-        
-        KausaDalam ==> IkhtiarSistem ==> KetetapanIlahi
+        PolaKoersiLama ==>|DIREKONSTRUKSI MENJADI| PolaTaghyirTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats QS. Ar-Ra'd: 11 & QS. Al-Anfal: 53 — Tafsir *Mafatih al-Ghaib* Ar-Razi mengenai Inisiatif Internal Jiwa (*Ma bi Anfusihim*)
+### 2. Eksegesis Turats Sunnatullah at-Taghyir: QS. Ar-Ra'd: 11 & QS. Al-Anfal: 53 dalam Tafsir Fakhruddin Ar-Razi
 
-```mermaid
-graph TD
-    A["Gugatan Fatalisme / Pemaksaan (Pihak A):<br/>'Santri itu kalau bandel ya takdirnya bandel; hukum saja sekeras-kerasnya biar takut, tidak usah repot-repot memahami psikologi jiwanya!'"]
-    --> B1["Tinjauan Tafsir QS. Ar-Ra'd 11 (Imam Fakhruddin Ar-Razi):<br/>Allah menetapkan sunnatullah kausalitas: perubahan nasib & karakter kaum mensyaratkan perubahan ikhtiar kehendak jiwa."]
-    A --> B2["Tinjauan Tafsir QS. Al-Anfal 53:<br/>Kenikmatan petunjuk Allah tidak akan dicabut kecuali jika manusia sendiri yang merusak fitrah dirinya."]
-    A --> B3["Tinjauan Fiqh Kausalitas (Ibnu Taimiyyah):<br/>Meninggalkan sebab-sebab psikologis ilmiah dalam mendidik adalah bentuk kebodohan dalam syariat."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Pendidikan adab wajib menyentuh dimensi internal jiwa sesuai hukum kausalitas sunnatullah."]
-```
+Al-Qur'an menetapkan kaidah abadi mengenai hukum perubahan jiwa manusia:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap transformasi karakter dan peradaban yang dijanjikan oleh Allah SWT niscaya beroperasi melalui hukum sebab-akibat (*Sunnatullah*) yang menuntut adanya inisiatif perubahan pada cara berpikir dan kehendak di dalam jiwa manusia itu sendiri.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Al-Qur'an secara qath'i menegaskan bahwa Allah tidak akan mengubah keadaan suatu kaum hingga mereka berikhtiar mengubah apa yang ada pada diri jiwa mereka sendiri (QS. Ar-Ra'd: 11).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh strategi pembinaan disiplin dan karakter di pesantren TUMBUH wajib diarahkan untuk membangkitkan kesadaran otonom di dalam jiwa santri, bukan sekadar memaksakan kepatuhan jasmani luar.[^1]
+$$\text{إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ}$$
 
-#### 📖 Teks Primer Al-Qur'an & Tafsir Klasik
-Allah SWT berfirman mengenai undang-undang perubahan:
+*"**Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri (Ma bi Anfusihim)**."* (QS. Ar-Ra'd [13]: 11).[^2]
 
-$$\text{إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ ۗ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ ۚ وَمَا لَهُم مِّن دُونِهِ مِن وَالٍ}$$
-
-*"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum **sebelum mereka mengubah keadaan diri mereka sendiri**. Dan apabila Allah menghendaki keburukan terhadap suatu kaum, maka tak ada yang dapat menolaknya dan tidak ada pelindung bagi mereka selain Dia."* (QS. Ar-Ra'd [13]: 11).[^2]
-
-Dan Allah SWT menegaskan kembali dalam Surah Al-Anfal:
-$$\text{ذَٰلِكَ بِأَنَّ اللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ ۙ وَأَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ}$$
-*"Yang demikian itu adalah karena sesungguhnya **Allah tidak akan mengubah suatu nikmat yang telah dianugerahkan-Nya kepada suatu kaum, hingga kaum itu mengubah apa-apa yang ada pada diri mereka sendiri**; dan sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui."* (QS. Al-Anfal [8]: 53).[^3]
-
-Imam Fakhruddin Ar-Razi (w. 606 H) dalam kitab tafsir monumentalnya *Mafatih al-Ghaib* menjelaskan makna ayat ini secara mendalam:
-
-> *"Ayat ini menetapkan pokok kaidah teologis agung: Bahwa hukum Allah (*Sunnatullah*) yang berlaku pada hamba-hamba-Nya adalah bahwa Dia tidak mengubah limpahan taufik, penjagaan, dan kemuliaan dari suatu kaum sebelum kaum tersebut mengubah kesucian niat, ketaatan, dan kehendak ikhtiar di dalam jiwa mereka (*Hatta Yughayyiru Ma bi Anfusihim*)... Perubahan luar (*at-Taghyir azh-Zhahir*) adalah buah tak terpisahkan dari perubahan batin (*at-Taghyir al-Bathin*). Barangsiapa menginginkan perbaikan akhlak generasinya tanpa memperbaiki cara berpikir dan kebersihan kalbu mereka, ia telah menentang sunnatullah kausalitas."* (Ar-Razi, *Tafsir Mafatih al-Ghaib*, Jilid XIX, hlm. 21–24).[^4]
+Imam Fakhruddin Ar-Razi (*Mafatih al-Ghaib*) menjelaskan rahasia teologis ayat ini:
+* Allah SWT mengaitkan perubahan nasib lahiriah (*Taghyir azh-Zhahir*) dengan perubahan kondisi batiniah (*Taghyir al-Bathin*).
+* Selama niat, keyakinan tauhid, dan kecenderungan kalbu santri belum bertransformasi secara sadar, intervensi fisik dari luar tidak akan pernah mampu mewujudkan kesalehan yang sejati.[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Transtheoretical Model (TTM) Stages of Change* James Prochaska & Carlo DiClemente (5 Tahap Kesiapan Jiwa)
+### 3. Konvergensi Transtheoretical Model (TTM) Stages of Change James Prochaska & Carlo DiClemente
 
-```mermaid
-graph TD
-    subgraph TahapanKesiapanBerubahTTM["5 TAHAP KESIAPAN PERUBAHAN PERILAKU (PROCHASKA & DICLEMENTE)"]
-        S1["1. PRECONTEMPLATION (Belum Sadar)<br/>Santri belum menyadari kesalahannya & menolak dinasehati.<br/>Respon Musyrif: Membangun rapport kehangatan & validasi tanpa ancaman."]
-        
-        S2["2. CONTEMPLATION (Mulai Menimbang)<br/>Santri menyadari dampak buruk perilakunya namun bimbang.<br/>Respon Musyrif: Dialog 5 Pertanyaan Restoratif & eksplorasi nilai."]
-        
-        S3["3. PREPARATION (Persiapan Berubah)<br/>Santri berniat kuat memperbaiki diri dalam 30 hari ke depan.<br/>Respon Musyrif: Menyusun target adab mikro & Action Plan harian."]
-        
-        S4["4. ACTION (Tindakan Nyata)<br/>Santri aktif mengamalkan adab baru & meninggalkan kebiasaan buruk.<br/>Respon Musyrif: Penguatan positif berlimpah (Rasio Apresiasi 4:1)."]
-        
-        S5["5. MAINTENANCE (Pemeliharaan Istiqamah)<br/>Adab baru telah berjalan konsisten >6 bulan & menjadi karakter otomatis.<br/>Respon Musyrif: Diberdayakan menjadi Duta Adab & mentor sebaya."]
-        
-        S1 --> S2 --> S3 --> S4 --> S5
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap intervensi pendidikan yang diselaraskan secara presisi dengan tingkat kesiapan psikologis pembelajar niscaya melipatgandakan peluang keberhasilan perubahan perilaku dan meminimalkan resistensi reaktif.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Teori *Transtheoretical Model (TTM)* James Prochaska membuktikan secara ilmiah bahwa manusia bertransisi melalui 5 tahapan kesiapan kognitif dan motivasional sebelum mengadopsi kebiasaan baru secara permanen.
-* **Konklusi (*an-Natijah*)**: Maka, para musyrif dan asatidz di pesantren TUMBUH wajib mendiagnosis tahap kesiapan santri sebelum merumuskan pendekatan bimbingan adab.[^5]
-
-#### 📖 Teks Sains Internasional: Riset Prof. James Prochaska & Carlo DiClemente (1983, 1992)
-Dalam publikasi monumental di *American Psychologist*, Prochaska & DiClemente merumuskan model tahapan perubahan:
-
-> *"Behavior change is not a single, discrete event, but a developmental process that unfolds through a series of stages:  
-> 1. **Precontemplation**: Individuals do not intend to take action in the foreseeable future, often because they are uninformed or underinformed about the consequences of their behavior.  
-> 2. **Contemplation**: Individuals intend to change within the next six months; they are deeply aware of the pros of changing, but also acutely aware of the cons (chronic ambivalence).  
-> 3. **Preparation**: Individuals intend to take immediate action and have typically taken some significant steps in the past year.  
-> 4. **Action**: Individuals have made specific, overt modifications in their lifestyles.  
-> 5. **Maintenance**: Individuals work to prevent relapse and consolidate the gains attained during action... **Mismatching interventions to a person's stage of readiness creates resistance and guarantees intervention failure**."* (Prochaska, DiClemente, & Norcross, 1992, *In Search of How People Change*, American Psychologist).[^6]
+Sains psikologi perilaku modern (Prochaska & DiClemente, 1983; 1992) memetakan perubahan manusia melalui 5 tahap kesiapan:
+1. **Precontemplation (Belum Sadar)**: Santri belum menyadari keburukan perilakunya dan menolak dinasehati.
+2. **Contemplation (Mulai Menimbang)**: Santri mulai menyadari kerugian perilakunya namun masih bimbang untuk berubah.
+3. **Preparation (Persiapan Niat)**: Santri telah memiliki tekad untuk berubah dan mencari bimbingan langkah praktis.
+4. **Action (Aksi Nyata)**: Santri aktif mempraktikkan pembiasaan adab baru secara disiplin.
+5. **Maintenance (Pemeliharaan Istiqamah)**: Perilaku adab telah terintegrasi menjadi karakter menetap selama lebih dari 6 bulan.[^4]
 
 ---
 
-### 4. Inkuiri 3: Dialektika Mengatasi Resistensi Perilaku Santri: Mengapa Pendekatan Represif Memicu *Psychological Reactance*
+### 4. Mitigasi Resistensi Psikologis Santri (Psychological Reactance) Melalui Otonomi Niat Batin
 
-```mermaid
-graph LR
-    subgraph MekanismeResistensiPsikologis["MEKANISME RESISTENSI: BENTAKAN vs DIALOG RESTORATIF"]
-        Represif["PENDEKATAN REPRESIF KASAR:<br/>Musyrif membentak & memaksa santri di tahap Precontemplation.<br/>-> Otak mengaktifkan Psychological Reactance (Jack Brehm).<br/>-> Santri merasa kebebasannya dirampas & memberontak lebih licik."]
-        
-        Restoratif["PENDEKATAN MOTIVASIONAL TUMBUH:<br/>Musyrif menggunakan Motivational Interviewing & empati.<br/>-> Santri merasa otonominya dihargai (Self-Determination Theory).<br/>-> Timbul dorongan taubat intrinsik dari lubuk hati."]
-        
-        Represif ==>|TRANSFORMASI| Restoratif
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pemaksaan kehendak secara represif yang mengancam rasa otonomi pribadi manusia niscaya memicu reaksi penolakan defensif (*Reactivity*) yang memperkokoh perilaku menyimpang.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Teori *Psychological Reactance* (Jack Brehm) dan *Self-Determination Theory* (Deci & Ryan) membuktikan bahwa remaja akan melawan balik jika merasa hak otonomi moralnya diinjak-injak dengan kekerasan.
-* **Konklusi (*an-Natijah*)**: Maka, musyrif dilarang menggunakan intimidasi verbal/fisik terhadap santri yang sedang berada pada fase penolakan (*Precontemplation*).[^7]
+Teori *Psychological Reactance* (Brehm, 1966) dan *Self-Determination Theory* (Ryan & Deci, 2000) membuktikan bahwa manusia membutuhkan rasa otonomi moral (*Moral Autonomy*):
+* Ketika musyrif memaksakan aturan tanpa dialog hikmah, santri merasa kebebasannya dirampas sehingga terdorong untuk melanggar aturan tersebut secara sembunyi-sembunyi.
+* TUMBUH memulihkan otonomi batin santri melalui dialog sokratik dan pilihan konsekuensi logis yang bermartabat.[^5]
 
 ---
 
-### 5. Inkuiri 4: Strategi Intervensi Terdiferensiasi Berbasis Tahap Kesiapan Berubah Santri di Asrama
+### 5. Kasuistika Lapangan: Kasus Kekambuhan Santri Merokok & Resolusi Restoratif Terpadu
 
-```mermaid
-graph TD
-    subgraph StrategiIntervensiAsrama["DIREKTORI INTERVENSI ASRAMA BERBASIS TAHAP TTM"]
-        I1["Santri Precontemplation -> Intervensi: Obrolan informal di nampan makan & sapaan hangat."]
-        I2["Santri Contemplation -> Intervensi: Sesi Konseling 1-on-1 & Tadabbur ayat fadhilah adab."]
-        I3["Santri Preparation -> Intervensi: Pembuatan lembar komitmen target adab mingguan."]
-        I4["Santri Action -> Intervensi: Apresiasi rasio 4:1 & pemantauan Check-in / Check-out (CICO)."]
-        I5["Santri Maintenance -> Intervensi: Penugasan sebagai pendamping adik kelas (Buddy Mentor)."]
-        
-        I1 --> I2 --> I3 --> I4 --> I5
-    end
-```
+* **Studi Kasus: Santri yang Sedang Berikhtiar Berhenti Merokok Mengalami Kekambuhan (Relapse)**  
+  * **Dilema**: Santri yang telah 2 bulan berusaha berhenti merokok mendadak kedapatan merokok kembali 1 batang di belakang kamar mandi saat mengalami tekanan tugas ujian.
+  * **Pola Lama**: Lembaga langsung mencapnya "santri munafik tak tertolong" dan mengeluarkannya dari pesantren (*Drop-Out*).
+  * **Resolusi Restoratif TUMBUH**: Musyrif dan konselor BK menerapkan *Relapse Management*: (1) Menjelaskan kepada santri bahwa kekambuhan adalah fase wajar dalam kurva perubahan spiral, bukan kegagalan total; (2) Menganalisis pemicu stres (*Trigger Assessment*); (3) Merancang mekanisme koping stres yang sehat melalui olahraga dan dzikir; (4) Memberikan apresiasi atas usahanya bertahan selama 2 bulan sebelumnya. Santri kembali termotivasi penuh, berhasil melewati fase adiksi, dan istiqamah bersih dari rokok hingga lulus.[^6]
 
 ---
 
-### 6. Inkuiri 5: Penanganan Fase Kekambuhan (*Relapse Management*) Tanpa Stigmatisasi Moral
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Sunnatullah Perubahan Jiwa dan Perilaku TUMBUH
+
+Ekosistem TUMBUH mengkodifikasikan dinamika perubahan ke dalam **Arsitektur Tiga Poros Transformasi Jiwa (*Arkan at-Taghyir an-Nafsiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph ManajemenKekambuhanAdab["PROTOKOL PENANGANAN KEKAMBUHAN (RELAPSE)"]
-        Kejadian["SANTRI KHILAF MENGULANGI KESALAHAN (RELAPSE)"]
+    subgraph ArsitekturTransformasiJiwaTUMBUH["ARSITEKTUR TIGA POROS TRANSFORMASI JIWA"]
         
-        ResponSalah["RESPON SALAH LAMA:<br/>Mencap 'munafik!', memukul, atau mempermalukan di depan umum (Menghancurkan motivasi)."]
+        P1_Poros["1. POROS KESADARAN KALBU (Taghyiru Ma bi Anfusihim)<br/>Pencerahan akidah, penyucian niat ikhlas, & pemahaman maqashid syariat."]
         
-        ResponTUMBUH["RESPON RESTORATIF TUMBUH:<br/>1. Validasi ikhtiar yang sudah berhasil dijalankan sebelumnya.<br/>2. Analisis pemicu kambuh (Trigger Analysis).<br/>3. Re-komitmen & perbaikan strategi pencegahan bersama."]
+        P2_Poros["2. POROS TAHAPAN KESIAPAN JIWA (TTM Stages of Change)<br/>Diferensiasi intervensi pendampingan sesuai derajat kesiapan batin santri."]
         
-        Kejadian ==> ResponTUMBUH
-        ResponSalah -.->|DIHAPUS 100%| ResponTUMBUH
+        P3_Poros["3. POROS REKONSILIASI KEKAMBUHAN (Relapse Recovery Protocol)<br/>Penanganan fase kekambuhan secara restoratif tanpa stigmatisasi dosa."]
+        
+        P1_Poros <===> P2_Poros <===> P3_Poros
     end
 ```
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 5*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pendidik yang memahami fitrah manusia menyadari bahwa proses taubat dan penyucian jiwa (*Tazkiyah*) kerap diuji oleh kelemahan sesaat, sehingga seorang pembelajar yang terpeleset wajib ditolong untuk bangkit kembali, bukan dicampakkan.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Hadits Rasulullah SAW menegaskan bahwa setiap anak Adam pasti pernah berbuat salah, dan sebaik-baik orang yang berbuat salah adalah mereka yang bertaubat (*Kullu Bani Adama Khaththa'* - HR. At-Tirmidzi).
-* **Konklusi (*an-Natijah*)**: Maka, terjadinya kekambuhan pelanggaran (*Relapse*) disikapi sebagai bahan evaluasi klinis pedagogis, bukan alasan untuk memberikan vonis penghancuran moral.[^8]
+#### 🔬 Pembahasan Mendalam Tiga Poros:
+1. **Poros Kesadaran Kalbu**: Menembus lapisan terdalam motif santri agar perubahan lahir dari cinta kepada Allah, bukan rasa takut kepada manusia.[^7]
+2. **Poros Kesiapan Jiwa**: Mencegah salah asuh dengan menyesuaikan dosis bimbingan sesuai tahap perkembangan santri.[^8]
+3. **Poros Rekonsiliasi**: Memberikan ruang harapan (*Raja'*) dan pintu taubat yang senantiasa terbuka bagi santri yang tersandung khilaf.[^9]
 
 ---
 
-### 7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Perubahan Riil, & Titik Temu Konsensus
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transformasi Jiwa (Maratib al-Idrak)
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Santri Nakal Itu Tidak Punya Harapan Berubah"
-* **Pihak A (Sudut Pandang Fatalisme Pesimis)**:  
-  *"Santri ini dari sananya sudah keras kepala dan nakal; diberi nasehat apa pun tidak mempan. Lebih baik dikeluarkan saja daripada merusak yang lain!"*
-* **Tinjauan Sudut Pandang Doktrin Kemurnian Fitrah & Neuroplastisitas Otak**:  
-  Tidak ada santri yang ditakdirkan abadi menjadi penjahat. Setiap anak terlahir di atas fitrah suci. Otak remaja memiliki kapasitas perubahan plastisitas (*Neuroplasticity*) yang sangat lentur. Santri menolak bukan karena tidak bisa berubah, melainkan karena musyrif salah memilih metode intervensi yang tidak cocok dengan tahap kesiapan mentalnya.[^9]
+Proses pendampingan transformasi perilaku berlangsung melalui **Empat Tingkatan Kesadaran Transformasi Jiwa (*Maratib al-Idrak fit-Taghyir*)**:
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Menyesuaikan Tahap Kesiapan Santri Berarti Kompromi dengan Pelanggaran?
-* **Pihak A (Sudut Pandang Kekakuan Syariat)**:  
-  *"Kalau kita maklumi santri yang di tahap Precontemplation, berarti kita berkompromi dengan dosa dan membiarkan aturan pondok dilanggar!"*
-* **Tinjauan Sudut Pandang Kebijaksanaan Dakwah Bertahap (*Al-Hikmah fit-Tadarruj*)**:  
-  Menyesuaikan tahap intervensi **bukan berarti membenarkan perbuatan dosa**. Aturan tetap ditegakkan (*Firm*), namun pendekatan komunikasinya disesuaikan dengan bahasa kasih sayang (*Kind*). Rasulullah SAW tidak langsung memerintahkan hukum-hukum berat pada fase awal dakwah Makkah, melainkan mematangkan akidah dan kesiapan jiwa terlebih dahulu.[^10]
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranTransformasiJiwa["EMPAT TINGKATAN KESADARAN TRANSFORMASI JIWA (MARATIB AL-IDRAK)"]
+        
+        C1_Taghyir["TINGKAT 1: KESADARAN PAKSAAN LAHIRIAH (Al-Idrak al-Ijbarir al-Awwal)<br/>• Santri mengubah perilaku semata-mata karena takut pengawasan fisik musyrif.<br/>• Niat batin belum berubah; rentan kambuh saat pengawasan melemah."]
+        
+        C2_Taghyir["TINGKAT 2: KESADARAN LOGIKA MANFAAT-MUDHARAT (Al-Idrak al-Mashlahiy)<br/>• Memahami relasi sebab-akibat & kerugian nyata dari perilaku buruknya.<br/>• Mulai memiliki niat batin untuk memperbaiki diri; meminta bimbingan musyrif."]
+        
+        C3_Taghyir["TINGKAT 3: KESADARAN TAZKIYATUN NAFS RUHANI (Al-Idrak at-Tazkawiy)<br/>• Mengubah perilaku atas dasar penyesalan taubat & muraqabah kepada Allah SWT.<br/>• Menjalani pembiasaan adab dengan kelezatan iman; istiqamah dalam kebaikan."]
+        
+        C4_Taghyir["TINGKAT 4: KESADARAN METAMORFOSIS PARIPURNA (Al-Idrak al-Mutabadil al-Kamil)<br/>• Puncak kematangan: karakter adab telah menjadi watak hidup alami (*Malakah Thabi'iyyah*).<br/>• Menjadi Live Qudwah penggerak perubahan yang membimbing kawan-kawannya menuju kebaikan."]
+        
+        C1_Taghyir ==> C2_Taghyir ==> C3_Taghyir ==> C4_Taghyir
+    end
+```
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Mempermalukan Santri di Depan Umum Mematikan Pintu Taubat?
-* **Pihak A (Sudut Pandang Efek Jera Sosial Publik)**:  
-  *"Umumkan namanya di pengeras suara masjid dan pasang fotonya di papan aib biar dia malu dan kapok!"*
-* **Resolusi Sudut Pandang Fiqh Menutup Aib (*Satrul 'Aurah*) & Trauma Sosial**:  
-  Mempermalukan anak di depan publik memicu **Kerusakan Harga Diri (*Toxic Shame*)**. Santri akan merasa dirinya dicap sampah masyarakat, yang justru mendorongnya bergabung dengan geng kenakalan yang menerima dirinya apa adanya. Rasulullah SAW secara tegas melarang membongkar aib saudara muslim dan mencontohkan teguran umum tanpa menyebut nama (*Ma balu aqwamin...*).[^11]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri C (kelas 8) tertangkap merokok sembunyi-sembunyi di belakang asrama untuk ketiga kalinya; musyrif lama hendak menggantungkan bungkus rokok di lehernya dan mengaraknya keliling asrama.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Tindakan arak publik dibatalkan total. Musyrif PBIS mendiagnosis Santri C berada di tahap *Contemplation* (merokok karena pelarian dari tekanan broken home orang tuanya). Dilakukan sesi konseling mendalam, fasilitasi penyaluran emosi lewat olahraga basket, dan kontrak komitmen berhenti bertahap dengan bimbingan dokter pondok. Dalam 2 bulan, Santri C bersih total dari rokok dan menjadi ketua tim kebersihan asrama.[^12]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Kepatuhan Takut Menuju Kesadaran Logis)**: Santri mula-mula taat karena takut disanksi. Pada tingkatan kedua, santri menyadari bahwa perbuatannya merugikan masa depannya sendiri dan bertekad untuk berubah.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Logika Kognitif Menuju Kesucian Kalbu)**: Pada tingkatan ketiga, perubahan bertransformasi menjadi ibadah spiritual: santri bertaubat nasuha, menjaga kesucian perilakunya di hadapan Allah, dan merasakan nikmatnya beradab.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Metamorfosis Paripurna)**: Pada tingkatan tertinggi, kepribadian adab telah melekat permanen dalam sanubarinya: ia tampil sebagai teladan kebaikan yang memancarkan cahaya perubahan bagi lingkungannya (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
-### 1. Formulasi Konseptual: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH
+### 3. Matriks Lima Tahap Kesiapan Berubah TTM vs Pendekatan Intervensi Musyrif Asrama
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Poros Utama Perubahan Dari Dalam Jiwa (MA BI Anfusihim)**:  
-   Perubahan karakter dan adab santri yang sejati berakar pada kehendak sadar di kedalaman nurani. Menolak segala bentuk ilusi pemaksaan perubahan instan melalui teror fisik atau rasa malu publik.
-
-2. **Penerapan Model Tahapan Perubahan Kognitif (transtheoretical Stages OF Change)**:  
-   Musyrif dan asatidz wajib memperlakukan perubahan santri sebagai proses perkembangan bertahap (TTM): Precontemplation, Contemplation, Preparation, Action, dan Maintenance. Pendekatan bimbingan wajib diselaraskan secara presisi dengan tingkat kesiapan psikologis santri yang bersangkutan.
-
-3. **HAK Perlindungan Dari Stigmatisasi Moral & Manajemen Kekambuhan (relapse)**:  
-   Setiap santri yang mengalami kekambuhan khilaf berhak mendapatkan pendampingan pemulihan klinis tanpa dicap buruk atau divonis putus asa. Kesalahan diposisikan sebagai momentum evaluasi belajar adab.
-
-4. **Keharaman Papan AIB DAN Hukuman Mempermalukan Publik (zero Public Shaming)**:  
-   Mengharamkan 100% segala bentuk pengumuman aib pelanggaran, penggantungan kalung penghinaan, atau tindakan mempermalukan santri di depan umum yang merusak martabat fitrah kemanusiaannya.
-
-
----
-
-### 2. Matriks 5 Tahap Kesiapan Berubah (TTM Prochaska) vs Pendekatan Pembinaan Musyrif
-
-| Tahap Kesiapan Santri | Karakteristik Sikap Santri | Fokus Pendekatan Musyrif Asrama | Indikator Keberhasilan Tahap |
+| Tahap Kesiapan Jiwa | Ciri Psikologis Santri | Perilaku Terlarang Musyrif | Strategi Intervensi Wajib Musyrif |
 | :--- | :--- | :--- | :--- |
-| **1. Precontemplation**<br/>*(Belum Sadar)* | Menyangkal masalah, defensif, menganggap aturan terlalu ketat. | **Rapport & Validasi**: Membangun kehangatan hubungan, mendengarkan tanpa menghakimi.[^13] | Santri mau berbicara jujur dan mempercayai musyrif. |
-| **2. Contemplation**<br/>*(Mulai Menimbang)* | Mengakui kesalahan di dalam hati, namun merasa sulit berubah. | **Dialog 5 Pertanyaan Restoratif**: Mengajak santri menimbang dampak buruk perbuatannya. | Santri menyatakan keinginan tulus untuk memperbaiki diri. |
-| **3. Preparation**<br/>*(Persiapan Berubah)* | Meminta bantuan, siap membuat rencana perbaikan nyata. | **Action Planning**: Merumuskan target adab mikro harian dan konsekuensi logis 4R. | Tersusunnya lembar kontrak komitmen adab tertulis. |
-| **4. Action**<br/>*(Tindakan Aktif)* | Aktif mengamalkan kebiasaan baru dan menjauhi pemicu salah. | **Positive Reinforcement**: Memberikan apresiasi lisan tulus berlimpah (Rasio 4:1).[^14] | Konsistensi adab baru berjalan stabil selama 30–90 hari. |
-| **5. Maintenance**<br/>*(Pemeliharaan)* | Adab baru telah menjadi bagian identitas otomatis santri. | **Empowerment**: Memberdayakan santri menjadi Duta Adab bagi teman sebayanya. | Mampu membimbing santri lain tanpa kembali pada kesalahan lama.[^15] |
+| **1. Precontemplation**| Merasa tidak bersalah & defensif.| Membentak kasar & menceramahi panjang.| Bangun relasi kasih sayang tanpa menghakimi. |
+| **2. Contemplation** | Bimbang, sadar salah tapi ragu.| Memaksa perubahan seketika.| Dialog sokratik reflektif & eksplorasi nilai.|
+| **3. Preparation** | Berniat berubah, mencari bantuan.| Mengabaikan atau menunda respon.| Buat kontrak komitmen target adab realistis. |
+| **4. Action** | Aktif menjalankan adab baru.| Mengkritik kekhilafan kecil.| Apresiasi positif melimpah (Rasio 4:1). |
+| **5. Maintenance** | Istiqamah > 6 bulan membiasakan adab.| Lengah tanpa pendampingan.| Berdayakan santri menjadi Mentor Sebaya. |
 
 ---
 
-### 3. Matriks Diferensiasi Intervensi Perilaku Berdasarkan Kesiapan Jiwa Santri
+### 4. Protokol Diagnosis Kesiapan Berubah Santri (Readiness to Change Protocol)
 
-```mermaid
-graph TD
-    subgraph MatriksIntervensiDiferensiasi["INTERVENSI TERDIFERENSIASI PENGASUHAN ASRAMA"]
-        P1["PRECONTEMPLATION: Pendekatan Tanpa Beban Target (Relational Bonding & Active Listening)."]
-        P2["CONTEMPLATION: Pendekatan Reflektif Nilai (Motivational Interviewing & Restorative Inquiry)."]
-        P3["PREPARATION: Pendekatan Sasaran Terstruktur (Goal Setting & Micro-Habits Coaching)."]
-        P4["ACTION: Pendekatan Umpan Balik Positif (Daily Check-in / Check-out & Praise Ratio 4:1)."]
-        P5["MAINTENANCE: Pendekatan Kepemimpinan (Peer Leadership & Role Model Stewardship)."]
-        
-        P1 --> P2 --> P3 --> P4 --> P5
-    end
-```
-
----
-
-### 4. Protokol Diagnosis Kesiapan Berubah Santri (*Readiness to Change Diagnostic Protocol*)
+TUMBUH menetapkan **Protokol Diagnosis Kesiapan Berubah (*Readiness to Change Diagnostic Protocol*)**:
 
 ```mermaid
 flowchart TD
-    Diag1["1. OBSERVASI & WAWANCARA RAMAH 1-ON-1<br/>Musyrif menanyakan pandangan santri tentang perilakunya: 'Bagaimana perasaanmu tentang hal kemarin?'"]
-    
-    Diag2["2. SKRINING SKALA KESIAPAN (READINESS RULER 1–10)<br/>'Dari skala 1 sampai 10, seberapa penting bagimu untuk memperbaiki adab ini?'"]
-    
-    Diag3["3. PENETAPAN TAHAP KESIAPAN PSIKOLOGIS SANTRI<br/>Menentukan apakah santri berada di Tahap 1, 2, 3, 4, atau 5."]
-    
-    Diag4["4. PEMILIHAN MODUL INTERVENSI YANG COCOK<br/>Menerapkan strategi bimbingan yang sinkron dengan tahap kesiapan santri tanpa memaksa."]
-    
-    Diag1 --> Diag2 --> Diag3 --> Diag4
+    subgraph ProtokolDiagnosisBerubah["PROTOKOL DIAGNOSIS KESIAPAN BERUBAH SANTRI"]
+        Observasi["1. OBSERVASI ADAB HARIAN: Musyrif Mencatat Respon Santri Saat Ditegur / Dibimbing"]
+        --> Wawancara["2. DIALOG REFLEKTIF BK: Menilai Derajat Kesiapan Jiwa (Precontemplation s/d Maintenance)"]
+        --> RencanaIndividual["3. PENYUSUNAN TARGET ADAB DIFERENSIATIF: Menetapkan Langkah Aksi Bertahap Sesuai Kesiapan"]
+        --> EvaluasiPekanan["4. EVALUASI LOGBOOK PBIS: Memantau Kemajuan & Memberikan Penguatan Apresiasi"]
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Protokol ini memastikan setiap santri mendapatkan bimbingan yang tepat sasaran sesuai kematangan jiwanya.[^11]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Sunnatullah Perubahan Jiwa
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Hukum Perubahan** | *Sunnatullah at-Taghyir* | QS. Ar-Ra'd: 11, QS. Al-Anfal: 53, Tafsir Ar-Razi | *Self-Determination Theory (Deci & Ryan, 2000)* | Perubahan perilaku wajib dimulai dari penyadaran nurani batin, bukan pemaksaan fisik. |
-| **Model Tahapan** | *Stages of Change (TTM)* | Prinsip *Tadarruj* Syariat (Tahapan Dakwah Makkah) | James Prochaska & Carlo DiClemente (1983, 1992) | Musyrif menyelaraskan intervensi dengan 5 tahap kesiapan psikologis santri. |
-| **Mitigasi Resistensi** | *Anti-Psychological Reactance* | Kaidah *Ud'u ila Sabili Rabbika bil Hikmah* (QS. 16:125) | Jack Brehm (1966), *Theory of Psychological Reactance* | Menghapus bentakan kasar yang memicu pemberontakan dan dendam santri. |
-| **Manajemen Khilaf** | *Relapse Recovery Management* | Hadits *Kullu Bani Adama Khaththa'* (HR. Tirmidzi) | G. Alan Marlatt (1985), *Relapse Prevention Model* | Membimbing santri yang terpeleset kembali bangkit tanpa vonis penghinaan moral. |
-| **Etika Perlindungan** | *Zero Public Shaming* | Hadits Menutup Aib Muslim (*Man Satara Musliman*) | Brené Brown (2012), *Daring Greatly: Toxic Shame Research* | Mengharamkan segala bentuk papan aib dan pengumuman pelanggaran di depan umum. |
+Pemahaman atas *Sunnatullah at-Taghyir* ini membawa revolusi pedagogis bagi peradaban Islam:
+
+* **Melahirkan Generasi yang Berakhlak Mulia Berbasis Kesadaran Intrinsik**:  
+  Santri binaan TUMBUH beradab bukan karena takut kepada manusia, melainkan karena dorongan cinta dan ketakwaan batin yang kokoh kepada Allah SWT.
+* **Menghapus Tradisi Menghakimi dan Mengucilkan Santri Bermasalah**:  
+  Pesantren bertransformasi menjadi rumah sakit jiwa spiritual (*Mustasyfa ar-Ruh*) yang sabar merawat dan menyembuhkan penyakit akhlak santri secara bertahap.
+* **Menghidupkan Kembali Metodologi Dakwah Kenabian**:  
+  Inilah metodologi Rasulullah ﷺ dalam mentransformasikan masyarakat jahiliyyah Makkah menjadi generasi sahabat terbaik sepanjang sejarah: melalui tahapan penyucian jiwa yang sabar, hikmah, dan berlandaskan kasih sayang ilahiah (*Rahmatan lil 'Alamin*).[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Sunnatullah Perubahan Jiwa
+
+| Dimensi Parameter | Mazhab Koersif Represif (Lama) | Model Modifikasi Perilaku Mekanis | **Sunnatullah at-Taghyir TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Akar Penggerak** | Ancaman hukuman fisik & rasa takut.| Pengkondisian stimulus-respon dingin.| **Transformasi Niat Kalbu (*Ma bi Anfusihim*).**| QS. Ar-Ra'd: 11; Fakhruddin Ar-Razi.| Penyadaran batin mendahului aturan fisik. |
+| **Sifat Perubahan** | Instan, temporer, & kamuflase.| Mekanis bergantung pada reward eksternal.| **Progresif, Bertahap, & Menetap Abadi.**| Prochaska (1992); Al-Ghazali.| 5 Tahap kesiapan berubah (TTM). |
+| **Respon Kekambuhan**| Vonis munafik & dikeluarkan pondok.| Pemotongan poin administratif kaku.| **Relapse Recovery & Taubat Restoratif.**| HR. Muslim No. 2749; Zehr (2002).| Analisis pemicu stres & pintu harapan. |
+| **Peran Pengasuh** | Algojo penegak disiplin kasar.| Operator pengawas teknis.| **Murabbi Ruhani & Fasilitator Jiwa.** | QS. An-Nahl: 125; Ryan & Deci (2000).| Bimbingan empati & rasio apresiasi 4:1. |
+| **Hasil Karakter** | Kemunafikan & dendam batin.| Kepatuhan robotik tanpa ruh.| **Insan Adabi Berakhlak Mulia Sejati.** | QS. Al-Anfal: 53; Al-Attas (1980).| Karakter adab melekat sebagai watak hidup. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Ar-Razi, Fakhruddin Muhammad bin Umar**. (1981). *Tafsir al-Fakhr ar-Razi al-Musytahar bi al-Tafsir al-Kabir wa Mafatih al-Ghaib*. Beirut: Dar al-Fikr.
-3. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-4. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-5. **At-Tirmidzi, Muhammad bin 'Isa**. (1998). *Sunan at-Tirmidzi*. Beirut: Dar al-Gharb al-Islami.
-6. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+3. **Ar-Razi, Fakhruddin Muhammad bin Umar**. (1420 H). *Mafatih al-Ghaib (At-Tafsir al-Kabir)*. Beirut: Dar Ihya' at-Turats al-'Arabi.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab at-Taubah & Kitab Riyadhatin Nafs). Beirut: Dar al-Ma'rifah.
+5. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+6. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
 7. **Prochaska, J. O., & DiClemente, C. C.**. (1983). *Stages and processes of self-change of smoking: Toward an integrative model of change*. Journal of Consulting and Clinical Psychology, 51(3), 390–395.
 8. **Prochaska, J. O., DiClemente, C. C., & Norcross, J. C.**. (1992). *In search of how people change: Applications to addictive behaviors*. American Psychologist, 47(9), 1102–1114.
-9. **Deci, E. L., & Ryan, R. M.**. (2000). *The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior*. Psychological Inquiry, 11(4), 227–268.
-10. **Brehm, J. W.**. (1966). *A Theory of Psychological Reactance*. New York: Academic Press.
-11. **Marlatt, G. A., & Gordon, J. R.**. (1985). *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors*. New York: Guilford Press.
-12. **Brown, B.**. (2012). *Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead*. New York: Gotham Books.
+9. **Brehm, J. W.**. (1966). *A Theory of Psychological Reactance*. New York: Academic Press.
+10. **Ryan, R. M., & Deci, E. L.**. (2000). *Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being*. American Psychologist, 55(1), 68–78.
+11. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+12. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Ar-Razi, *Mafatih al-Ghaib*, Jilid XIX, hlm. 21–25.  
-[^2]: Al-Qur'an Surah Ar-Ra'd [13]: 11.  
-[^3]: Al-Qur'an Surah Al-Anfal [8]: 53.  
-[^4]: Ar-Razi, op. cit., hlm. 23.  
-[^5]: Prochaska & DiClemente (1983), *Journal of Consulting and Clinical Psychology*, hlm. 390–395.  
-[^6]: Prochaska, DiClemente, & Norcross (1992), *American Psychologist*, hlm. 1102–1106.  
-[^7]: Brehm, J. W. (1966), *A Theory of Psychological Reactance*, Academic Press; Deci & Ryan (2000), *Psychological Inquiry*.  
-[^8]: Hadits riwayat At-Tirmidzi No. 2499 dan Ibnu Majah No. 4251 dengan sanad hasan.  
-[^9]: Dweck, C. S. (2006), *Mindset: The New Psychology of Success*, Random House.  
-[^10]: Asy-Syathibi, *Al-Muwafaqat*, Jilid II, hlm. 92–105 mengenai Sunnah Tadarruj dalam Syariat.  
-[^11]: Brown, B. (2012), *Daring Greatly*, Gotham Books, hlm. 71–85 mengenai bahaya Toxic Shame bagi perkembangan jiwa.  
-[^12]: Laporan Penanganan Kasus Kebiasaan Santri, Divisi PBIS Asrama TUMBUH, 2026.  
-[^13]: Miller, W. R., & Rollnick, S. (2012), *Motivational Interviewing: Helping People Change*, Guilford Press.  
-[^14]: Horner & Sugai (2005), *School-Wide PBIS Framework*, Journal of Emotional and Behavioral Disorders.  
-[^15]: Panduan Kaderisasi Duta Adab Berkelanjutan, Badan Pengasuhan Santri TUMBUH, 2026.
+[^1]: Riset Sunnatullah Perubahan Jiwa dan Perilaku Santri TUMBUH, *Kritik atas Ilusi Koersi Instan*, 2026.  
+[^2]: QS. Ar-Ra'd [13]: 11.  
+[^3]: Fakhruddin Ar-Razi, *Mafatih al-Ghaib*, Tafsir QS. Ar-Ra'd: 11, Jilid 19, hlm. 18–25; QS. Al-Anfal [8]: 53.  
+[^4]: Prochaska, J. O., & DiClemente, C. C. (1983), *Journal of Consulting and Clinical Psychology*, hlm. 390–395; Prochaska, et al. (1992), *American Psychologist*, hlm. 1102–1114.  
+[^5]: Brehm, J. W. (1966), *A Theory of Psychological Reactance*, hlm. 15–45; Ryan, R. M., & Deci, E. L. (2000), *American Psychologist*, hlm. 68–78.  
+[^6]: Dokumentasi Pendampingan Restoratif Fase Kekambuhan PBIS TUMBUH, 2026.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Taubah*, hlm. 2–35.  
+[^8]: Horner, R. H., & Sugai, G. (2015), *School-wide PBIS*, hlm. 80–85.  
+[^9]: *Shahih Muslim*, Kitab at-Taubah, Hadits No. 2749; Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 45–68.  
+[^10]: Matriks Tingkatan Kesadaran Transformasi Jiwa (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Diagnosis Kesiapan Berubah dan Intervensi Diferensiatif TUMBUH, 2026.  
+[^12]: Deklarasi Pemuliaan Sunnatullah at-Taghyir Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Sunnatullah Perubahan & Psikologi Perilaku
+### 4. Glosarium Istilah Ilmiah & Turats Perubahan Jiwa
 
-1. **Sunnatullah at-Taghyir (سُنَّةُ اللهِ فِي التَّغْيِيرِ)**: Hukum kepastian Ilahi dalam kausalitas perubahan sosial dan karakter, di mana perbaikan lahiriah masyarakat disyaratkan oleh inisiatif perbaikan kehendak dan akal di dalam jiwa (*Ma bi Anfusihim*).
-2. **Transtheoretical Model (TTM)**: Model psikologis perubahan perilaku integratif yang memetakan kesiapan seseorang ke dalam lima tahapan sekuensial: *Precontemplation, Contemplation, Preparation, Action,* dan *Maintenance*.
-3. **Precontemplation**: Fase di mana individu belum memiliki niat atau kesadaran untuk mengubah perilakunya dalam waktu dekat, seringkali karena minimnya wawasan atas dampak perbuatannya.
-4. **Contemplation**: Fase kebimbangan (*Ambivalence*) di mana seseorang mulai menyadari masalahnya namun masih menimbang-nimbang antara keuntungan dan kerugian untuk berubah.
-5. **Psychological Reactance (Resistensi Psikologis)**: Reaksi emosional pemberontakan yang muncul saat seseorang merasa hak kebebasan memilih atau otonomi dirinya dirampas melalui pemaksaan atau intimidasi kasar.
-6. **Relapse (Kekambuhan Khilaf)**: Terpelesetnya seseorang kembali ke pola perilaku lama setelah sempat melakukan perubahan positif, yang dalam pendekatan restoratif disikapi sebagai bahan evaluasi belajar, bukan vonis keputusasaan.
-7. **Motivational Interviewing (Wawancara Motivasionil)**: Teknik komunikasi konseling empatik yang membantu santri mengurai kebimbangan batinnya dan menumbuhkan motivasi taubat intrinsik dari dalam dirinya sendiri.
-8. **Toxic Shame (Rasa Malu Merusak)**: Beban emosi destruktif di mana anak merasa dirinya pada hakikatnya cacat, hina, dan tidak berharga sebagai manusia, yang dipicu oleh tindakan mempermalukan anak di depan umum (*Public Shaming*).
-9. **Camouflage Compliance (Kepatuhan Kamuflase)**: Sikap pura-pura tertib dan patuh di hadapan pengawas demi menghindari hukuman fisik, namun melakukan pelanggaran lebih parah saat tidak diawasi.
-10. **Readiness Ruler**: Instrumen penilaian visual skala 1–10 yang digunakan musyrif untuk mengukur seberapa penting dan seberapa siap seorang santri melakukan perbaikan adab tertentu.
+1. **Sunnatullah at-Taghyir (سُنَّةُ اللهِ فِي التَّغْيِيرِ)**: Hukum kausalitas Ilahi yang menetapkan bahwa perubahan realitas lahiriah manusia bergantung pada inisiatif perubahan kesadaran dan niat di kedalaman batinnya.
+2. **Taghyiru Ma bi Anfusihim (تَغْيِيرُ مَا بِأَنْفُسِهِمْ)**: Transformasi kondisi spiritual, cara pandang, dan niat di dalam jiwa manusia sebagai prasyarat datangnya pertolongan Allah.
+3. **Transtheoretical Model (TTM)**: Model psikologi perubahan perilaku integratif yang memetakan proses perubahan manusia melalui lima tahapan kesiapan berurutan.
+4. **Precontemplation**: Tahap di mana seseorang belum menyadari bahwa perilakunya bermasalah dan belum memiliki niat untuk melakukan perubahan dalam waktu dekat.
+5. **Contemplation**: Tahap di mana seseorang mulai menyadari problematika perilakunya dan menimbang untung-rugi untuk berubah.
+6. **Preparation**: Tahap di mana seseorang telah membulatkan tekad untuk berubah dan mulai menyusun langkah-langkah persiapan nyata.
+7. **Psychological Reactance**: Reaksi emosional penolakan otomatis dari seseorang ketika merasakan kebebasan atau otonomi pilihannya dirampas secara paksa.
+8. **Relapse (Kekambuhan)**: Fenomena kembali tergelincirnya seseorang ke dalam kebiasaan lama selama proses pembentukan perilaku baru, yang harus ditangani secara restoratif.
+9. **Moral Autonomy (Otonomi Moral)**: Kemampuan seseorang untuk mengambil keputusan berperilaku baik atas dasar kesadaran nurani dan tanggung jawab batinnya sendiri.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang telah mencapai kematangan adab paripurna di mana kebaikan memancar alami sebagai karakter hidupnya.

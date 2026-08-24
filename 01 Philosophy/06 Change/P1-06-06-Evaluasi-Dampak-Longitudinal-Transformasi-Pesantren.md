@@ -1,259 +1,263 @@
-# P1-06-06: EVALUASI DAMPAK LONGITUDINAL DAN KEBERLANJUTAN TRANSFORMASI PESANTREN
-## *Monograf Terpadu: Epistemologi Istimrarul 'Amal & Muhasabah Sistemik (HR. Bukhari No. 6464), Desain Riset Longitudinal Cohort 3 Tahun, Pengukuran Kepatuhan Sistem (Tiered Fidelity Inventory TFI ≥ 80%), Triangulasi Dampak Triad Pertumbuhan, serta Pelembagaan Budaya Berkelanjutan*
+# P1-06-06: EVALUASI DAMPAK LONGITUDINAL DAN KEBERLANJUTAN SISTEM (LONGITUDINAL EVALUATION & SUSTAINABILITY)
+## *Monograf Riset Akademik: Epistemologi Istimrarul 'Amal & Muhasabah Sistemik (HR. Bukhari No. 6464), Desain Riset Longitudinal Multi-Tahun, Pengukuran Kepatuhan Sistem (TFI ≥ 80%), Serta Penjaminan Privasi Data Santri Bebas Tajassus di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-06-06/MONOGRAF-TERPADU-EVALUASI-LONGITUDINAL/2026`  
-**Domain**: `01 Philosophy` > `06 Change`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Metodologi Evaluasi Dampak Sistemik)  
+**Nomor Identifikasi**: `P1-06-06/MONOGRAF-RISET-EVALUASI-LONGITUDINAL/2026`  
+**Domain**: `01 Philosophy` > `06 Change` (Sub-Modul 06: *Longitudinal Impact & Sustainability*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Evaluasi Program Pendidikan (*Educational Program Evaluation*), Metodologi Riset Longitudinal Cohort, Psikometri Sistem PBIS (*Implementation Science & TFI*), Teologi Istiqamah & Muhasabah Kelembagaan  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Keberhasilan Pembinaan Adab Tidak Boleh Dinilai dari Peristiwa Sesaat:**  
->   Menilai keberhasilan pesantren dari satu acara wisuda megah atau ketiadaan masalah selama satu pekan adalah ilusi evaluasi. Karakter sejati teruji dari **Keistiqamahan Adab Sepanjang Waktu (*Istimrarul 'Amal*)**.
-> * **Desain Evaluasi Longitudinal Cohort 3 Tahun:**  
->   Ekosistem TUMBUH melacak angkatan santri (*Cohort*) sejak kelas 7 (T1 Adaptasi) hingga lulus kelas 9/12 (T4 Transformasi / Tahap 7 Penggerak) untuk membuktikan apakah adab mereka semakin mengakar atau luntur.
-> * **Pengukuran Tiga Dimensi (*Triad Impact Measurement*):**  
->   1. **Santri:** Penurunan 80% insiden pelanggaran dan peningkatan kemandirian ibadah mandiri.  
->   2. **Musyrif:** Penurunan tingkat stres *burnout* dan peningkatan kebahagiaan mengasuh.  
->   3. **Lembaga:** Skor kepatuhan SOP PBIS (*Tiered Fidelity Inventory / TFI*) mencapai minimal $\ge 80\%$.
+> * **Kelemahan Paradigma Lama: Evaluasi Sesaat (Snapshot Illusion) & Spionase Data:**  
+>   Banyak lembaga menilai keberhasilan karakter dari ketiadaan masalah sesaat saat wisuda atau lembar kuesioner formalitas sekali setahun (*Cross-Sectional Snapshot*). Sebagian bahkan menggunakan sistem pencatatan pelanggaran yang memata-matai privasi (*Tajassus*) dan mengumbar aib santri di ruang publik.
+> * **Inovasi Konseptual: Istimrarul 'Amal, Riset Longitudinal, & Enkripsi Satrul 'Aurah:**  
+>   TUMBUH menegakkan doktrin **Istimrarul 'Amal (Kontinuitas Karakter Sepanjang Hayat)** melalui desain riset longitudinal melacak cohort perkembangan santri, musyrif, dan sistem lembaga secara berkala. Menjamin skor kepatuhan implementasi (*Tiered Fidelity Inventory / TFI*) $\ge 80\%$, **mengharamkan mutlak spionase tajassus**, serta mengunci seluruh data rekam jejak adab santri dengan enkripsi perlindungan kerahasiaan aib (*Satrul 'Aurah*).
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks evaluasi longitudinal triad pertumbuhan, 4 Tingkatan Kesadaran Evaluasi Berkelanjutan (*Maratib al-Idrak*), SOP audit tahunan analitik PBIS, dan etika riset perlindungan privasi santri.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET EVALUASI LONGITUDINAL, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-evaluasi-longitudinal-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Riset Longitudinal: Mengapa Evaluasi Karakter Membutuhkan Pelacakan Multi-Tahun](#1-kerangka-metodologi-riset-longitudinal-mengapa-evaluasi-karakter-membutuhkan-pelacakan-multi-tahun)
-  - [2. Inkuiri 1: Eksegesis Turats Istimrarul 'Amal & Muhasabah — Ihya 'Ulumiddin & HR. Bukhari No. 6464](#2-inkuiri-1-eksegesis-turats-istimrarul-amal--muhasabah--ihya-ulumiddin--hr-bukhari-no-6464)
-  - [3. Inkuiri 2: Konvergensi Implementation Science & Tiered Fidelity Inventory (Horner & Sugai)](#3-inkuiri-2-konvergensi-implementation-science--tiered-fidelity-inventory-horner--sugai)
-  - [4. Inkuiri 3: Tiga Dimensi Evaluasi Dampak Longitudinal: Santri, Musyrif, dan Sistem Kelembagaan](#4-inkuiri-3-tiga-dimensi-evaluasi-dampak-longitudinal-santri-musyrif-dan-sistem-kelembagaan)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH](#1-formulasi-konseptual-standar-evaluasi-dampak-longitudinal-pesantren-tumbuh)
-  - [2. Matriks Lintasan Capaian Cohort 3 Tahun: Tahun 1 Inisiasi, Tahun 2 Stabilisasi, Tahun 3 Transformasi](#2-matriks-lintasan-capaian-cohort-3-tahun-tahun-1-inisiasi-tahun-2-stabilisasi-tahun-3-transformasi)
-  - [3. Standar Prosedur Operasional (SOP) Audit Longitudinal Tahunan & Dashboard Analitik PBIS](#3-standar-prosedur-operasional-sop-audit-longitudinal-tahunan--dashboard-analitik-pbis)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Evaluasi Longitudinal](#1-tabel-sintesis-hasil-riset-evaluasi-longitudinal)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Evaluasi Sesaat dan Bahaya Spionase Data Pribadi Santri](#1-latar-belakang-masalah-krisis-evaluasi-sesaat-dan-bahaya-spionase-data-pribadi-santri)
+  - [2. Eksegesis Turats Istimrarul 'Amal & Muhasabah Sistemik: Khazanah Ihya' 'Ulumiddin & HR. Bukhari No. 6464](#2-eksegesis-turats-istimrarul-amal--muhasabah-sistemik-khazanah-ihya-ulumiddin--hr-bukhari-no-6464)
+  - [3. Konvergensi Implementation Science: Tiered Fidelity Inventory (TFI) Sugai & Horner](#3-konvergensi-implementation-science-tiered-fidelity-inventory-tfi-sugai--horner)
+  - [4. Triangulasi Evaluasi Triad Pertumbuhan dan Pengharaman Tajassus dalam Pencatatan Data](#4-triangulasi-evaluasi-triad-pertumbuhan-dan-pengharaman-tajassus-dalam-pencatatan-data)
+  - [5. Kasuistika Lapangan: Kasus Perubahan Karakter Santri Multi-Tahun & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-perubahan-karakter-santri-multi-tahun--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-evaluasi-dampak-longitudinal-pesantren-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Evaluasi Berkelanjutan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-evaluasi-berkelanjutan-maratib-al-idrak)
+  - [3. Matriks Evaluasi Longitudinal Triad Pertumbuhan (Santri, Pendidik, Lembaga)](#3-matriks-evaluasi-longitudinal-triad-pertumbuhan-santri-pendidik-lembaga)
+  - [4. Standar Prosedur Operasional (SOP) Audit Longitudinal Tahunan & Dashboard Analitik PBIS](#4-standar-prosedur-operasional-sop-audit-longitudinal-tahunan--dashboard-analitik-pbis)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Evaluasi Longitudinal](#1-tabel-sintesis-temuan-riset-evaluasi-longitudinal)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Longitudinal Cohort, Tiered Fidelity Inventory, Istimrarul Amal, & PDCA](#4-glosarium-teknis-longitudinal-cohort-tiered-fidelity-inventory-istimrarul-amal--pdca)
+  - [4. Glosarium Istilah Ilmiah & Turats Evaluasi Longitudinal](#4-glosarium-istilah-ilmiah--turats-evaluasi-longitudinal)
 
 ---
 
-# BAGIAN I: RISET EVALUASI LONGITUDINAL, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Riset Longitudinal: Mengapa Evaluasi Karakter Membutuhkan Pelacakan Multi-Tahun
+### 1. Latar Belakang Masalah: Krisis Evaluasi Sesaat dan Bahaya Spionase Data Pribadi Santri
 
-Kelemahan fatal pada sebagian besar evaluasi pendidikan karakter di Indonesia adalah **Pengujian Cross-Sectional Sesaat (*Snapshot Evaluation*)**:
-* Sekolah hanya mengevaluasi karakter melalui ujian tulis PPKn atau lembar kuesioner sekali setahun.
-* Evaluasi semacam ini tidak mampu mendeteksi apakah kebiasaan shalat subuh santri akan bertahan saat liburan di rumah atau setelah lulus menjadi alumni.
-* Banyak santri yang tampak patuh di tahun pertama (karena takut), namun meledak menjadi pemberontak di tahun ketiga (karena akumulasi tekanan tanpa internalisasi adab).
-
-Ekosistem TUMBUH menegakkan metodologi **Evaluasi Longitudinal Cohort 3 Tahun**: melacak perkembangan trajektori psikospiritual kelompok santri yang sama dari waktu ke waktu (*Time-Series Analysis*), mengukur pembentukan watak otomatis (*Moral Automaticity*), dan menguji ketahanan adab santri dalam menghadapi godaan lingkungan luar.
+Evaluasi pendidikan karakter di banyak lembaga kerap mengalami **Ilusi Pengukuran Sesaat (*The Snapshot Evaluation Fallacy*)**:
+* **Ujian Kognitif Sesaat**: Menilai kesalehan santri murni dari nilai ujian tulis atau lembar kuesioner setahun sekali, yang tidak mampu mengukur ketahanan watak (*Moral Resilience*) santri saat berada di luar asrama.
+* **Pola Spionase Data (*Tajassus Data Collection*)**: Sebagian pengurus menggunakan sistem "papan hitam pelanggaran publik" atau menyuruh santri memata-matai aib temannya, yang mencoreng kehormatan mukmin dan diharamkan syariat (QS. Al-Hujurat: 12).
+* **Ketiadaan Evaluasi Kesejahteraan Guru**: Mengabaikan pengukuran tingkat kejenuhan (*Burnout*) asatidz, padahal kelelahan guru adalah penyebab utama runtuhnya kualitas pengasuhan santri.
+* **Keniscayaan Desain Riset Longitudinal Triad Pertumbuhan**: Evaluasi karakter wajib dilakukan secara berkesinambungan lintas tahun (*Time-Series Tracking*), mengukur santri, guru, dan sistem lembaga secara holistik dengan jaminan kerahasiaan data 100%.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph MetodologiEvaluasiLongitudinalTUMBUH["DESAIN RISET LONGITUDINAL COHORT 3 TAHUN"]
-        T1["TAHUN 1: ADAPTASI & HABITUASI DASAR (T1–T2)<br/>• Baseline Asesmen Fitrah & Emosi Awal Masuk.<br/>• Pelacakan kurva adaptasi homesickness 90 hari.<br/>• Kepatuhan SOP thaharah & shalat berjamaah."]
+    subgraph TransformasiEvaluasiLongitudinal["TRANSFORMASI METODOLOGI EVALUASI PENDIDIKAN"]
+        PolaSnapshotLama["EVALUASI SESAAT & PAPAN AIB (LAMA)<br/>• Ujian tertulis sesaat; tidak menguji ketahanan adab.<br/>• Spionase mencari aib (Tajassus) & mempermalukan publik.<br/>• Guru tidak pernah dievaluasi tingkat stresnya."]
         
-        T2["TAHUN 2: STABILISASI & INTERNALISASI (T2–T3)<br/>• Uji ketahanan adab tanpa pengawasan ketat musyrif.<br/>• Keterlibatan sosial kamar & penurunan konflik peer.<br/>• Peningkatan kapasitas hafalan Al-Qur'an mutqin."]
+        PolaLongitudinalTUMBUH["RISET LONGITUDINAL & TRIAD EVALUATION (TUMBUH)<br/>• Pelacakan trajektori multi-tahun (Istimrarul 'Amal).<br/>• Enkripsi Satrul 'Aurah: Kerahasiaan data privat 100%.<br/>• Triad Simbiotik: Santri, Musyrif, & Kepatuhan Sistem TFI."]
         
-        T3["TAHUN 3: KEMANDIRIAN & KADER PENGGERAK (T3–T4 $\rightarrow$ TAHAP 7)<br/>• Asesmen Khitamut Tarbiyah pengabdian masyarakat.<br/>• Portofolio kemandirian akhlak otonom.<br/>• Kesiapan alumni memimpin peradaban (Mushlih)."]
-        
-        T1 ==> T2 ==> T3
+        PolaSnapshotLama ==>|DIREKONSTRUKSI MENJADI| PolaLongitudinalTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Istimrarul 'Amal & Muhasabah — Ihya 'Ulumiddin & HR. Bukhari No. 6464
+### 2. Eksegesis Turats Istimrarul 'Amal & Muhasabah Sistemik: Khazanah Ihya' 'Ulumiddin & HR. Bukhari No. 6464
 
-```mermaid
-graph TD
-    A["Gugatan Evaluasi Formalitas (Pihak A):<br/>'Pesantren cukup menguji santri di ujian akhir semester; tidak usah repot melacak data 3 tahun!'"]
-    --> B1["Tinjauan Hadits Shahih Bukhari No. 6464:<br/>'Ahabbul a'mali ilallahi ADWAMUHA wa in qalla' (Amalan yang paling dicintai Allah adalah yang PALING KONSISTEN/KONTINU, meskipun sedikit)."]
-    A --> B2["Tinjauan Kitab Al-Muhasabah wal-Muraqabah Al-Ghazali:<br/>Evaluasi jiwa yang hakiki menuntut audit berkesinambungan (Musyarathah, Muraqabah, Muhasabah, Mu'aqabah, Mujahadah)."]
-    A --> B3["Tinjauan Sunnah Khalifah Umar RA:<br/>'Hasibu anfusakum qabla an tuhasabu' (Hisablah diri kalian secara berkala sebelum kalian dihisab di akhirat)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Evaluasi karakter sejati wajib berbasis kontinuitas waktu (Istimrar) dan akurasi hisab berkala."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap klaim keberhasilan pendidikan Islam yang tidak dibuktikan oleh kontinuitas amal nyata yang konsisten dari waktu ke waktu (*ad-Dawam wal-Istimrar*) adalah klaim semu yang rapuh di hadapan timbangan syariat.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Hadits Rasulullah SAW menetapkan bahwa kualitas iman dan amal diukur dari keistiqamahannya (HR. Bukhari No. 6464).
-* **Konklusi (*an-Natijah*)**: Maka, metodologi evaluasi dampak pembinaan santri di ekosistem TUMBUH wajib berakar pada riset longitudinal pelacakan keistiqamahan adab.[^1]
-
-#### 📖 Teks Primer Hadits: Amalan yang Paling Dicintai Allah
-Sayyidah Aisyah *radhiyallahu 'anha* meriwayatkan sabda Rasulullah SAW:
+Rasulullah ﷺ menegaskan bahwa ukuran kemuliaan amal di sisi Allah adalah kelanggengannya:
 
 $$\text{أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ}$$
 
-*"**Amalan yang paling dicintai oleh Allah adalah amalan yang PALING KONSISTEN / BERKELANJUTAN (ISTIQAMAH), meskipun jumlahnya sedikit!**"* (HR. Bukhari No. 6464; Muslim No. 782).[^2]
+*"**Amalan yang paling dicintai oleh Allah adalah amalan yang paling kontinu (dawam / istiqamah) meskipun sedikit**."* (HR. Al-Bukhari No. 6464).[^2]
+
+Imam Al-Ghazali (*Ihya' 'Ulumiddin*, Kitab *Al-Muraqabah wal-Muhasabah*) memaparkan tahapan evaluasi jiwa sistemik: *Musyharathah* (penetapan target niat awal), *Muraqabah* (pengawalan harian), *Muhasabah* (audit evaluasi amal), *Mu'aqabah* (konsekuensi perbaikan), dan *Mujahadah* (kesungguhan berkelanjutan).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Implementation Science* & *Tiered Fidelity Inventory* (Horner & Sugai)
+### 3. Konvergensi Implementation Science: Tiered Fidelity Inventory (TFI) Sugai & Horner
 
-Dalam sains implementasi modern (*Implementation Science*), sebuah program pembinaan tidak boleh dinilai hanya dari hasilnya, melainkan dari **Tingkat Kepatuhan Sistemik (*Fidelity of Implementation*)**:
-* **Tiered Fidelity Inventory (TFI):** Instrumen validasi berbasis 15 indikator untuk mengukur apakah asatidz dan musyrif benar-benar menjalankan SOP PBIS secara konsisten di seluruh asrama.
-* Riset **Horner & Sugai** (2015) membuktikan bahwa pesantren yang mencapai skor TFI $\ge 80\%$ mengalami penurunan kasus kekerasan sebesar 75% dan retensi hafalan santri melonjak hingga 40%.
-* Evaluasi longitudinal TUMBUH memadukan instrumen TFI dengan sistem pencatatan digital logbook musyrif 24 jam.[^3]
-
----
-
-### 4. Inkuiri 3: Tiga Dimensi Evaluasi Dampak Longitudinal: Santri, Musyrif, dan Sistem Kelembagaan
-
-```mermaid
-graph LR
-    subgraph TigaDimensiEvaluasiLongitudinal["3 DIMENSI EVALUASI DAMPAK LONGITUDINAL TUMBUH"]
-        D1["1. DIMENSI SANTRI (STUDENT LEVEL):<br/>• Penurunan 80% insiden pelanggaran berat asrama.<br/>• Peningkatan skor Asesmen Ipsatif Jenjang J1–J4.<br/>• Mutqin hafalan Al-Qur'an & kemandirian ibadah 24 jam."]
-        
-        D2["2. DIMENSI PENDIDIK (EDUCATOR LEVEL):<br/>• Penurunan Maslach Burnout Inventory (MBI) <20%.<br/>• Peningkatan kepuasan kerja & retensi musyrif >90%.<br/>• Penguasaan keterampilan de-eskalasi restoratif 3R."]
-        
-        D3["3. DIMENSI SISTEM (INSTITUTION LEVEL):<br/>• Skor Tiered Fidelity Inventory (TFI) $\ge 80\%$.<br/>• Sanitasi air 0 CFU & zero kasus scabies.<br/>• Akuntabilitas audit keuangan publik WTP."]
-        
-        D1 <===> D2 <===> D3
-    end
-```
+Sains implementasi modern (*Implementation Science*) membuktikan bahwa keberhasilan program pendidikan ditentukan oleh **Tingkat Kepatuhan Sistem (*System Implementation Fidelity*)**:
+* Instrumen standar internasional **Tiered Fidelity Inventory (TFI)** (Horner, Sugai, & Lewis, 2015) mengukur konsistensi penerapan PBIS: pembiasaan universal (Tier 1), bimbingan terarah (Tier 2), dan penanganan intensif (Tier 3).
+* TUMBUH menetapkan standar mutu kelembagaan: skor kepatuhan TFI wajib mencapai minimal $\ge 80\%$ setiap semester untuk menjamin program berjalan efektif dan berkelanjutan.[^4]
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 4. Triangulasi Evaluasi Triad Pertumbuhan dan Pengharaman Tajassus dalam Pencatatan Data
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Mencatat Data Pelanggaran dan Kebaikan Santri di Aplikasi Menghabiskan Waktu Pengasuhan"
-* **Pihak A (Sudut Pandang Tradisi Tanpa Catatan)**:  
-  *"Musyrif jangan disuruh mencatat data di komputer; musyrif tugasnya mendampingi santri secara langsung!"*
-* **Tinjauan Desain Antarmuka Fast-Tap (<30 Detik) & Kekuatan Data Analitik**:  
-  Pencatatan data TUMBUH menggunakan **Aplikasi Fast-Tap UI** yang selesai dalam waktu kurang dari 30 detik per kamar. Tanpa data tercatat, musyrif akan mengandalkan memori subjektif yang bias dan lupa kapan seorang santri mulai menunjukkan gejala distres. Data objektif memungkinkan intervensi dini sebelum masalah membesar menjadi krisis.[^4]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Melacak Santri Selama 3 Tahun Tidak Melanggar Hak Privasi Mereka?
-* **Pihak A (Sudut Pandang Kekhawatiran Surveillance)**:  
-  *"Melacak santri 3 tahun itu seperti memata-matai anak; tidak ada kebebasan bagi santri!"*
-* **Tinjauan Perlindungan Amanah Tarbiyah vs Pengintaian Tajassus**:  
-  Islam melarang *Tajassus* (mencari-cari aib pribadi untuk dipermalukan). Namun, **Muraqabah Tarbawiyyah** adalah pemantauan penuh kasih sayang dari ayah spiritual (*In Loco Parentis*) untuk memastikan santri selamat dari perundungan, tidak sakit, dan berkembang karakternya. Data perkembangan santri bersifat rahasia (*Strictly Confidential*) dan hanya digunakan untuk kebaikan santri.[^5]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Audit Sistem Berkala Menjadi Kunci Keabadian Transformasi Budaya?
-* **Pihak A (Sudut Pandang Rutinitas Melelahkan)**:  
-  *"Kalau sistem PBIS sudah berjalan lancar di tahun pertama, tahun-tahun berikutnya tidak perlu diaudit lagi!"*
-* **Resolusi Hukum Entropi Budaya (Kaidah Al-Ittika')**:  
-  Sains organisasi dan hukum alam membuktikan bahwa sistem yang tidak diaudit akan mengalami kemerosotan alami (*Cultural Entropy*). Tanpa audit berkala tahunan, kebiasaan lama (memukul dan perpeloncoan) akan menyusup kembali secara perlahan. Audit adalah benteng yang menjaga keistiqamahan peradaban lembaga.[^6]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Pesantren A menerapkan sistem PBIS di tahun 2024 dan sukses besar. Namun di tahun 2025, tidak dilakukan audit longitudinal karena merasa sudah sukses; musyrif baru tidak ditraining ulang. Di tahun 2026, kasus pemukulan oleh senior muncul kembali di asrama putra.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Majelis Masyayikh TUMBUH menegakkan kembali **Siklus Audit Longitudinal Tahunan (PDCA Cycle)**: Seluruh musyrif baru wajib mengikuti Daurah Sertifikasi 4 Pilar $\rightarrow$ Evaluasi Cohort 3 Tahun diwajibkan sebagai syarat akreditasi internal $\rightarrow$ Skor TFI dipantau setiap semester via dashboard PBIS terintegrasi. Hasilnya: dalam 6 bulan, skor TFI kembali mencapai **88%**, budaya perundungan musnah selamanya, dan pesantren meraih predikat *Pesantren Teladan Restoratif Nasional*.[^7]
+TUMBUH menegaskan etika data syariat:
+* **Pengharaman Tajassus Mutlak**: Dilarang menggunakan data pribadi santri untuk mempermalukan atau menghakimi di forum umum.
+* **Prinsip Satrul 'Aurah & Enkripsi**: Data logbook konseling dan evaluasi perilaku santri bersifat rahasia (*Strictly Confidential*), dienkripsi dalam sistem digital, dan hanya dapat diakses oleh konselor BK dan mudir pengasuhan untuk tujuan pembinaan kasih sayang.[^5]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 5. Kasuistika Lapangan: Kasus Perubahan Karakter Santri Multi-Tahun & Resolusi Restoratif Terpadu
+
+* **Studi Kasus: Pelacakan Trajektori Santri yang Awalnya Agresif Menjadi Duta Adab Penggerak**  
+  * **Dilema**: Santri kelas 7 masuk dengan riwayat sering memukul teman di SD; sistem konvensional biasanya langsung mengeluarkannya di bulan ke-3.
+  * **Intervensi Longitudinal TUMBUH**: Lembaga mendampingi dengan protokol TFI Multi-Tier: (1) Tahun 1: Intervensi Tier 2 CICO coaching harian; (2) Tahun 2: Santri mulai stabil emosinya dan dilatih menjadi tutor sebaya; (3) Tahun 3: Santri bertransformasi penuh menjadi Ketua Dewan Duta Adab (*Khadim ath-Thullab*) yang mengayomi adik kelas. Riset longitudinal membuktikan bahwa dengan pendampingan sistemik yang sabar, potensi fitrah setiap anak dapat diselamatkan dan mekar secara gemilang.[^6]
 
 ---
 
-### 1. Formulasi Konseptual: Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kontinuitas Evaluasi Berbasis Cohort 3 Tahun**:  
-   Menetapkan bahwa penilaian keberhasilan pembinaan adab santri wajib menggunakan pelacakan longitudinal selama 3 tahun penuh (Jenjang J1 Adaptasi hingga Jenjang J4 Transformasi).
-
-2. **Kewajiban Pengukuran Tiga Dimensi Triadik Secara Simultan**:  
-   Evaluasi tahunan wajib mengukur secara terpadu: Indeks Pertumbuhan Santri (Ipsatif Portofolio), Indeks Kesejahteraan Musyrif (MBI & Kepuasan Kerja), dan Indeks Kepatuhan Sistem Lembaga (TFI $\ge 80\%$).
-
-3. **Integritas Data Berbasis Dashboard Pbis Digital Real-time**:  
-   Mewajibkan penggunaan dashboard analitik perilaku PBIS yang transparan, objektif, dan terverifikasi, serta menjaga kerahasiaan data pribadi santri (Strict Data Privacy Protocol).
-
-4. **Siklus Penjaminan Mutu Abadi Berbasis Pdca (plan - DO - Check - Adjust)**:  
-   Menjadikan audit evaluasi dampak longitudinal sebagai agenda resmi tahunan lembaga; setiap hasil temuan audit wajib ditindaklanjuti melalui program pemutakhiran SOP berkelanjutan.
-
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
-### 2. Matriks Lintasan Capaian Cohort 3 Tahun: Tahun 1 Inisiasi, Tahun 2 Stabilisasi, Tahun 3 Transformasi
+### 1. Eksplanasi Teoretis Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH
 
-| Parameter Evaluasi | Tahun 1: Etape Adaptasi & Habituasi | Tahun 2: Etape Stabilisasi & Internalisasi | Tahun 3: Etape Transformasi & Penggerak |
-| :--- | :--- | :--- | :--- |
-| **Capaian Jenjang Kemandirian TUMBUH (J1–J4)** | Santri mencapai Jenjang J1 $\rightarrow$ T2 (Pembiasaan). | Santri mencapai Jenjang J2 $\rightarrow$ T3 (Internalisasi). | Santri mencapai Jenjang J4 (Mandiri) & Tahap 7.[^8] |
-| **Tingkat Ketergantungan Musyrif**| Membutuhkan bimbingan 80% (Scaffolding). | Bimbingan berkurang menjadi 30% (Mandiri). | Otonomi penuh 100% & membimbing adik kelas. |
-| **Insiden Pelanggaran Asrama** | Adaptasi awal; insiden ringan turun 50%. | Insiden ringan turun 80%; nihil kekerasan fisik. | Zero insiden kekerasan fisik (0%) & nihil bullying. |
-| **Kualitas Hafalan Qur'an** | Adaptasi tahsin makharijul huruf & juz awal. | Retensi hafalan mutqin meningkat stabil. | Ujian Tasmi' Mutqin 1 Kali Duduk lancar mutqin.[^9] |
-| **Skor Kepatuhan Lembaga (TFI)** | Skor TFI mencapai $\ge 70\%$ di akhir tahun 1. | Skor TFI stabil di kisaran $\ge 80\%$. | Skor TFI mencapai $\ge 90\%$ (Exemplary Status).[10] |
-
----
-
-### 3. Standar Prosedur Operasional (SOP) Audit Longitudinal Tahunan & Dashboard Analitik PBIS
+Ekosistem TUMBUH mengkodifikasikan evaluasi ke dalam **Arsitektur Tiga Dimensi Evaluasi Triad (*Arkan at-Taqyim ats-Tsulatsiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SOPAuditLongitudinalTahunan["SOP AUDIT LONGITUDINAL TAHUNAN PESANTREN"]
-        EkstraksiData["1. EKSTRAKSI DATA LOGBOOK PBIS DIGITAL TAHUNAN<br/>Sistem mengagregasi ribuan data perilaku santri di 4 lokus asrama 24 jam."]
+    subgraph ArsitekturEvaluasiLongitudinalTUMBUH["ARSITEKTUR EVALUASI LONGITUDINAL TRIAD PERTUMBUHAN"]
         
-        AsesmenTFI["2. PENILAIAN TIERED FIDELITY INVENTORY (TFI) OLEH AUDITOR<br/>Auditor independen memeriksa kepatuhan SOP di lapangan (target $\ge 80\%$)."]
+        E1_Triad["1. DIMENSI SANTRI (Student Trajectory)<br/>Kemandirian adab, ketahanan moral, penurunan friksi 80%, & prestasi karya."]
         
-        SurveiTriad["3. SURVEI KEPUASAN & KESEJAHTERAAN TRIADIK<br/>Survei Maslach Burnout guru, survei rasa aman santri, & feedback wali santri."]
+        E2_Triad["2. DIMENSI MUSYRIF (Staff Well-Being)<br/>Penurunan skor Maslach Burnout, kepuasan kerja, & penguasaan 4 pilar kompetensi."]
         
-        SidangTahunan["4. SIDANG PLENO EVALUASI MASYAIKH & ACTION PLAN<br/>Penyusunan Rencana Strategis Perbaikan Mutu (Continuous Improvement) tahun berikutnya."]
+        E3_Triad["3. DIMENSI SISTEM LEMBAGA (System Fidelity TFI)<br/>Kepatuhan implementasi SOP PBIS ≥ 80%, transparansi syura, & audit aset wakaf."]
         
-        EkstraksiData --> AsesmenTFI --> SurveiTriad --> SidangTahunan
+        E1_Triad <===> E2_Triad <===> E3_Triad
     end
 ```
 
+#### 🔬 Pembahasan Mendalam Tiga Dimensi:
+1. **Dimensi Santri**: Memastikan pembiasaan karakter berlangsung konsisten sepanjang jenjang pendidikan hingga menjadi watak alami.[^7]
+2. **Dimensi Pendidik**: Menjamin asatidz dan musyrif bekerja dalam lingkungan yang sehat, bahagia, dan penuh berkah.[^8]
+3. **Dimensi Sistem**: Menjaga kualitas tata kelola institusi agar senantiasa beroperasi pada standar mutu tertinggi (*Excellence*).[^9]
+
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Evaluasi Berkelanjutan (Maratib al-Idrak)
+
+Transformasi kepemimpinan dalam melakukan evaluasi dipetakan ke dalam Empat Tingkatan Kesadaran Evaluasi (*Maratib al-Idrak at-Taqyimiy*):
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranEvaluasiLongitudinal["EMPAT TINGKATAN KESADARAN EVALUASI BERKELANJUTAN (MARATIB AL-IDRAK)"]
+        
+        T1_Eval["TINGKAT 1: KESADARAN EVALUASI ADMINISTRATIF SESAAT (Al-Idrak at-Taqyimiy al-Awwal)<br/>• Menilai keberhasilan dari lembar angka ujian tertulis & ketiadaan sengketa sesaat.<br/>• Pengumpulan data bersifat administratif tanpa analisis tren multi-tahun."]
+        
+        T2_Eval["TINGKAT 2: KESADARAN METRIK SISTEMIK TFI (Al-Idrak an-Nizhamiy al-Muhasib)<br/>• Mampu mengukur kepatuhan SOP PBIS (TFI ≥ 80%) & tingkat burnout staf.<br/>• Melacak data perilaku santri secara digital dengan menjaga kerahasiaan aib."]
+        
+        T3_Eval["TINGKAT 3: KESADARAN MUHASABAH ISTIQAMAH RUHANI (Al-Idrak al-Muhasib an-Naqiy)<br/>• Menghayati evaluasi sebagai muhasabah hisab di hadapan Allah SWT.<br/>• Menilai keistiqamahan adab batin santri & kebahagiaan pengabdian musyrif."]
+        
+        T4_Eval["TINGKAT 4: KESADARAN EVALUASI PERADABAN PARIPURNA (Al-Idrak at-Taqyimiy al-Kamil)<br/>• Puncak kematangan: melahirkan riset longitudinal yang memvalidasi model peradaban Islam.<br/>• Menjadi Live Qudwah institusi pembelajar unggul yang abadi mencetak ulama beradab."]
+        
+        T1_Eval ==> T2_Eval ==> T3_Eval ==> T4_Eval
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Ujian Kertas Menuju Pengukuran Metrik TFI)**: Lembaga mula-mula sekadar melihat nilai rapor. Pada tingkatan kedua, lembaga melacak data kepatuhan sistem PBIS dan tingkat kesehatan kerja guru secara profesional.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Metrik Digital Menuju Muhasabah Ruhani)**: Pada tingkatan ketiga, evaluasi menjadi ibadah kalbu: pimpinan mengevaluasi ketulusan niat, mendoakan santri yang sedang berproses, dan merawat keikhlasan staf.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Evaluasi Peradaban Paripurna)**: Pada tingkatan tertinggi, data longitudinal pesantren menjadi bukti ilmiah tak terbantahkan bagi dunia bahwa pendidikan berbasis fitrah Islam adalah model terbaik dalam membangun peradaban manusia (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Evaluasi Longitudinal
+### 3. Matriks Evaluasi Longitudinal Triad Pertumbuhan (Santri, Pendidik, Lembaga)
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Evaluasi Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kontinuitas Amal** | *Istimrarul 'Amal* | HR. Bukhari No. 6464 (Amalan Paling Dicintai) | Diggle et al. (2002), *Analysis of Longitudinal Data* | Melacak perkembangan adab kelompok santri selama 3 tahun. |
-| **Kepatuhan Sistem** | *TFI Implementation* | Kaidah *Al-Muhasabah ad-Dauriyyah* | Horner & Sugai (2015), *Implementation Science* | Menstandarisasikan skor kepatuhan SOP PBIS $\ge 80\%$. |
-| **Pengukuran Triadik**| *Triad Metric* | Hadits *Kullukum Ra'in* (Tanggung Jawab) | Darling-Hammond (2020), *Systems Coherence* | Mengukur santri, pendidik, dan sistem secara simultan. |
-| **Siklus Perbaikan** | *PDCA Syar'i* | QS. Al-Hasyr: 18 (Evaluasi Hari Esok) | Deming (1986), *Out of the Crisis (PDCA)* | Melakukan audit tahunan untuk perbaikan berkelanjutan. |
+| Entitas Triad | Parameter Pengukuran Baku | Instrumen Riset Standar | Target Capaian Mutu |
+| :--- | :--- | :--- | :--- |
+| **1. Santri** | Penurunan friksi adab, kemandirian shalat, hafalan.| Logbook PBIS & Observasi Adab.| Penurunan 80% insiden pelanggaran. |
+| **2. Pendidik** | Skor kelelahan mental, kepuasan kerja, jam tidur.| Maslach Burnout Inventory (MBI).| Skor burnout kategori rendah (< 15%).|
+| **3. Lembaga** | Kepatuhan SOP PBIS, akuntabilitas dana wakaf.| Tiered Fidelity Inventory (TFI).| Skor TFI $\ge 80\%$ & WTP audit wakaf.|
+
+---
+
+### 4. Standar Prosedur Operasional (SOP) Audit Longitudinal Tahunan & Dashboard Analitik PBIS
+
+TUMBUH menetapkan **Protokol Audit Longitudinal Tahunan**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolAuditTahunan["PROTOKOL AUDIT LONGITUDINAL TAHUNAN"]
+        PengumpulanData["1. AGREGASI DATA DIGITAL: Penarikan Data Logbook PBIS Terenkripsi Tanpa Membuka Aib Personal"]
+        --> PengukuranTFI["2. AUDIT IMPLEMENTATION FIDELITY: Pengukuran Skor Kepatuhan Sistem Multi-Tier TFI oleh Auditor Independen"]
+        --> ForumSyura["3. MAJELIS MUHASABAH SYURA: Presentasi Temuan Tren Evaluasi di Hadapan Majelis Pimpinan & Yayasan"]
+        --> PerbaikanSistem["4. RENCANA AKSI PERBAIKAN (Continuous Quality Improvement): Penyesuaian Program Pengasuhan Tahun Depan"]
+    end
+```
+
+Protokol ini menjamin tata kelola pesantren senantiasa bertumbuh dan belajar secara berkelanjutan.[^11]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Evaluasi dampak longitudinal ini membawa implikasi fundamental bagi masa depan pendidikan Islam:
+
+* **Menghentikan Klaim Keberhasilan Semu Berbasis Retorika**:  
+  Pesantren mampu membuktikan keunggulan pendidikannya melalui data empiris ilmiah yang valid, terukur, dan diakui oleh komunitas akademis internasional.
+* **Menjamin Perlindungan Privasi Santri Sesuai Syariat Islam**:  
+  Dengan menolak spionase *Tajassus* dan mengenkripsi data konseling, pesantren menjadi institusi yang paling menghormati kehormatan insan (*Karamah al-Insan*).
+* **Mewujudkan Institusi Pembelajar Berkelanjutan (*Learning Organization*)**:  
+  Pesantren tidak pernah merasa puas, melainkan senantiasa bermuhasabah dan menyempurnakan sistem pembinaannya demi menggapai derajat insan kamil (*Rahmatan lil 'Alamin*).[^12]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Evaluasi Longitudinal
+
+| Dimensi Parameter | Mazhab Snapshot Sesaat (Lama) | Model Akreditasi Administratif Kaku | **Evaluasi Longitudinal Triad TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Rentang Waktu** | Ujian tertulis sesaat setahun sekali.| Audit berkas formalitas 5 tahunan.| **Pelacakan Cohort Multi-Tahun Berkala.**| HR. Bukhari No. 6464; Horner (2015).| Analisis tren perkembangan karakter. |
+| **Perlindungan Data**| Papan nama aib publik & spionase.| Formulir umum tanpa proteksi enkripsi.| **Enkripsi Satrul 'Aurah Bebas Tajassus.**| QS. Al-Hujurat: 12; ISO/IEC 27001.| Data konseling rahasia & terlindungi. |
+| **Cakupan Entitas** | Santri dinilai sepihak; guru luput.| Dokumen fasilitas fisik semata. | **Triad Simbiotik (Santri, Guru, Lembaga).**| Al-Ghazali; Maslach et al. (2001).| Kesejahteraan guru & skor TFI $\ge 80\%$.|
+| **Tujuan Evaluasi** | Memberi hukuman / sanksi nilai.| Memenuhi syarat izin operasional.| **Muhasabah & Continuous Improvement.**| Kaidah *Hisab al-Amal*; Deming (1986).| Penyesuaian program demi perbaikan adab. |
+| **Hasil Institusi** | Lembaga stagnan mengulang masalah.| Kepatuhan kertas tanpa dampak nyata.| **Institusi Pembelajar Madani Berkelanjutan.**| QS. Al-Hasyr: 18; Al-Attas (1980).| Pesantren unggul, adil, & penuh berkah. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-5. **Ibnu Qudamah al-Maqdisi, Ahmad bin Abdurrahman**. (1998). *Mukhtashar Minhaaj al-Qashidin*. Damaskus: Maktabah Dar al-Bayan.
-6. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An example of applied behavior analysis implemented at a scale of social importance*. Behavior Analysis in Practice, 8(1), 80–85.
-7. **Diggle, P. J., Heagerty, P., Liang, K. Y., & Zeger, S. L.**. (2002). *Analysis of Longitudinal Data*. Oxford University Press.
-8. **Fixsen, D. L., et al.**. (2005). *Implementation Research: A Synthesis of the Literature*. University of South Florida.
-9. **Deming, W. E.**. (1986). *Out of the Crisis*. Cambridge: MIT Press.
-10. **Darling-Hammond, L.**. (2020). *Accountability in teacher education*. Action in Teacher Education, 42(1), 60–71.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-Muraqabah wal-Muhasabah). Beirut: Dar al-Ma'rifah.
+5. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+6. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+7. **Horner, R. H., Sugai, G., & Lewis, T.**. (2015). *School-wide PBIS Tiered Fidelity Inventory (TFI)*. Eugene: OSEP Technical Assistance Center.
+8. **Maslach, C., Schaufeli, W. B., & Leiter, M. P.**. (2001). *Job burnout*. Annual Review of Psychology, 52(1), 397–422.
+9. **Deming, W. E.**. (1986). *Out of the Crisis*. Cambridge: MIT Center for Advanced Educational Services.
+10. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+11. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+12. **Prochaska, J. O., DiClemente, C. C., & Norcross, J. C.**. (1992). *In search of how people change*. American Psychologist, 47(9), 1102–1114.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-Muraqabah wal-Muhasabah*, Jilid IV, hlm. 395–420.  
-[^2]: Shahih al-Bukhari No. 6464, Kitab *ar-Riqaq*, Bab *al-Qashdu wal-Mudawamah 'alal 'Amal*.  
-[^3]: Horner, R. H. & Sugai, G. (2015), *Behavior Analysis in Practice*, hlm. 80–85.  
-[^4]: Manual Penggunaan Aplikasi Dashboard PBIS Analitik Pesantren TUMBUH, Divisi IT, 2026.  
-[^5]: Ibnu Qudamah, *Mukhtashar Minhaaj al-Qashidin*, Bab *Riyadhatun Nafs*, hlm. 145–160.  
-[^6]: Deming, W. E. (1986), *Out of the Crisis*, MIT Press; Kaidah Siklus Kualitas PDCA.  
-[^7]: Laporan Hasil Audit Longitudinal Cohort 2023–2026 Pesantren Percontohan TUMBUH, 2026.  
-[^8]: Matriks Progresi Capaian Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, Komite Pengasuhan TUMBUH, 2026.  
-[^9]: Pedoman Penjaminan Mutu Ujian Mutqin Tahfizh Al-Qur'an 30 Juz, Lembaga Tahfizh TUMBUH, 2026.  
-[^10]: Standar Akreditasi Kepatuhan Sistem PBIS (Tiered Fidelity Inventory), Badan Akreditasi TUMBUH, 2026.
+[^1]: Riset Evaluasi Dampak Longitudinal dan Keberlanjutan Sistem TUMBUH, *Kritik atas Evaluasi Sesaat dan Spionase Data*, 2026.  
+[^2]: *Shahih al-Bukhari*, Kitab ar-Riqaq, Hadits No. 6464.  
+[^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *Al-Muraqabah wal-Muhasabah*, hlm. 380–420.  
+[^4]: Horner, R. H., Sugai, G., & Lewis, T. (2015), *School-wide PBIS Tiered Fidelity Inventory (TFI)*, hlm. 1–35.  
+[^5]: QS. Al-Hujurat [49]: 12; Protokol Standar Perlindungan Data dan Pengharaman Tajassus TUMBUH, 2026.  
+[^6]: Dokumentasi Evaluasi Longitudinal Cohort 3 Tahun PBIS TUMBUH, 2026.  
+[^7]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 40–68.  
+[^8]: Maslach, C., et al. (2001), *Annual Review of Psychology*, hlm. 397–422.  
+[^9]: Deming, W. E. (1986), *Out of the Crisis*, hlm. 50–95.  
+[^10]: Matriks Tingkatan Kesadaran Evaluasi Berkelanjutan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Audit Longitudinal Tahunan dan Analitik PBIS TUMBUH, 2026.  
+[^12]: Deklarasi Pemuliaan Evaluasi Istiqamah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Longitudinal Cohort, Tiered Fidelity Inventory, Istimrarul Amal, & PDCA
+### 4. Glosarium Istilah Ilmiah & Turats Evaluasi Longitudinal
 
-1. **Evaluasi Longitudinal Cohort**: Metodologi penelitian yang melacak dan mengukur perkembangan kelompok santri yang sama secara berkala sepanjang rentang waktu multi-tahun (3 hingga 6 tahun).
-2. **Tiered Fidelity Inventory (TFI)**: Instrumen baku internasional untuk mengukur tingkat kepatuhan lembaga dalam mengimplementasikan komponen-komponen sistem pembinaan PBIS Tier 1, Tier 2, dan Tier 3.
-3. **Istimrarul 'Amal (اسْتِمْرَارُ الْعَمَلِ)**: Prinsip kontinuitas dan keistiqamahan dalam menjalankan amal kebaikan yang menjadi standar penilaian utama kematangan adab dalam Islam.
-4. **Time-Series Analysis**: Analisis statistik terhadap rangkaian data perilaku yang dikumpulkan pada interval waktu teratur untuk melihat tren kenaikan atau penurunan adab santri.
-5. **Continuous Quality Improvement (CQI)**: Filosofi manajemen mutu yang menuntut evaluasi dan perbaikan sistemik secara berkelanjutan tanpa henti.
-6. **PDCA Cycle (Plan-Do-Check-Adjust)**: Siklus manajemen empat langkah (Rencanakan - Kerjakan - Periksa - Sesuaikan) yang menjamin tata kelola pesantren senantiasa beradaptasi dengan kebutuhan zaman.
-7. **Implementation Science**: Cabang ilmu terapan yang mempelajari metode dan faktor-faktor yang mempengaruhi keberhasilan adopsi sebuah inovasi ke dalam praktik nyata di lapangan.
-8. **Muraqabah Tarbawiyyah**: Pengawasan penuh kasih sayang dan tanggung jawab moral dari pendidik demi menjaga keselamatan dan perkembangan fitrah anak asuh.
-9. **Khitamut Tarbiyah**: Wisuda inisiasi pengabdian lapangan nyata bagi santri tingkat akhir sebelum terjun ke masyarakat luas.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana evaluasi longitudinal membuktikan pertumbuhan serempak antara kemandirian Santri, kebahagiaan Pendidik, dan keunggulan Lembaga.
+1. **Evaluasi Longitudinal Cohort**: Metodologi riset evaluasi pendidikan yang melacak kelompok santri yang sama dari waktu ke waktu secara berkesinambungan lintas tahun.
+2. **Istimrarul 'Amal (اسْتِمْرَارُ الْعَمَلِ)**: Kelanggengan dan kontinuitas amal kebaikan sepanjang hayat yang menjadi bukti sejati keberhasilan pendidikan adab.
+3. **Satrul 'Aurah Data (سَتْرُ الْعَوْرَةِ)**: Prinsip syariat untuk melindungi, menjaga kerahasiaan, dan menutup aib kesalahan santri dari konsumsi publik.
+4. **Tahrim at-Tajassus**: Larangan mutlak syariat terhadap perbuatan memata-matai atau mengintai kesalahan tersembunyi orang lain dalam pengumpulan data.
+5. **Tiered Fidelity Inventory (TFI)**: Instrumen evaluasi standar internasional untuk mengukur integritas dan kepatuhan penerapan sistem PBIS multi-tier di sekolah.
+6. **Implementation Science**: Cabang ilmu terapan yang meneliti metode dan faktor pendukung keberhasilan penerapan inovasi program secara berkelanjutan.
+7. **Triad Impact Evaluation**: Model evaluasi komprehensif yang mengukur dampak perubahan pada tiga entitas serentak: santri, pendidik, dan sistem lembaga.
+8. **Snapshot Evaluation**: Kekeliruan evaluasi yang hanya memotret kondisi sesaat tanpa melihat kontinuitas perkembangan karakter jangka panjang.
+9. **Continuous Quality Improvement (CQI)**: Siklus evaluasi dan penyempurnaan sistem secara berkesinambungan berbasis data empiris.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang memiliki kematangan akal budi dan keistiqamahan akhlak yang abadi di mana pun ia berada.

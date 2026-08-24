@@ -1,251 +1,276 @@
-# P1-06-07: SINTESIS DINAMIKA PERUBAHAN SISTEMIK DAN GRAND MANIFESTO TRANSFORMASI PERADABAN PESANTREN
-## *Monograf Terpadu: Sintesis Holistik 6 Pilar Dinamika Perubahan (Sunnatullah Taghyir, Tadarruj Istiqamah, Bi'ah Shalihah CPTED, Transformasi Sistemik Lewin-Kotter, Manajemen Resistensi Kultural, & Evaluasi Longitudinal Cohort), Matriks Komparasi Paradigma Perubahan Sosial, Puncak Sintesis Agung Domain 01 Philosophy, serta Jembatan Epistemologis Menuju Domain 02 Principles*
+# P1-06-07: SINTESIS DINAMIKA PERUBAHAN SISTEMIK DAN GRAND MANIFESTO TRANSFORMASI PERADABAN (SYNTHESIS OF CHANGE & SYSTEMIC RE-ENGINEERING)
+## *Monograf Riset Akademik: Sintesis Holistik 6 Pilar Dinamika Perubahan, Matriks Komparasi Paradigma Perubahan Sosial, Puncak Sintesis Agung Domain 01 Philosophy, Serta Jembatan Epistemologis Menuju Domain 02 Principles*
 
-**Nomor Identifikasi**: `P1-06-07/MONOGRAF-TERPADU-SINTESIS-CHANGE/2026`  
-**Domain**: `01 Philosophy` > `06 Change`  
-**Klasifikasi Naskah**: *Comprehensive Synthesis Monograph* (Monograf Sintesis Filosofis & Grand Manifesto Peradaban)  
+**Nomor Identifikasi**: `P1-06-07/MONOGRAF-RISET-SINTESIS-CHANGE/2026`  
+**Domain**: `01 Philosophy` > `06 Change` (Sub-Modul 07: *Synthesis of Change Dynamics*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Filsafat Perubahan Sosial Islam (*Falsafah at-Taghyir al-Hadari*), Sosiologi Peradaban Islam, Teori Perubahan Organisasi Sistemik, Arsitektur Epistemologi Pendidikan Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kesatuan Utuh 6 Pilar Dinamika Perubahan Ekosistem TUMBUH:**  
->   Perubahan di pesantren TUMBUH adalah orkestrasi agung yang memadukan 6 dimensi:  
->   1. **P1-06-01 (Sunnatullah Taghyir):** Menegakkan hukum kausalitas bahwa perubahan lahiriah bermula dari gerakan kesadaran jiwa internal (*Ma bi Anfusihim* QS. Ar-Ra'd: 11) dan model 5 tahap TTM Prochaska.  
->   2. **P1-06-02 (Tadarruj & Istiqamah):** Menerapkan pentahapan syariat, pembiasaan mikro 1% (*Atomic Habits*), dan mencegah sindrom kelelahan/kejenuhan (*Anti-Futuwr*).  
->   3. **P1-06-03 (Bi'ah Shalihah & CPTED):** Merekayasa tata ruang fisik bebas titik buta (*Blindspots*), kebersihan prima (*Broken Windows*), dan patroli titik rawan asrama.  
->   4. **P1-06-04 (Transformasi Sistemik Lewin-Kotter):** Menggerakkan seluruh pilar lembaga secara serempak melalui 3 fase (*Unfreezing-Moving-Refreezing*) dan pendekatan *Bridging Turats*.  
->   5. **P1-06-05 (Manajemen Resistensi Kultural):** Menghadapi penolakan dengan hikmah, memuliakan asatidz senior, dan menunjukkan bukti nyata (*Quick Wins*).  
->   6. **P1-06-06 (Evaluasi Dampak Longitudinal):** Mengukur keberlanjutan adab santri melalui pelacakan cohort 3 tahun dan instrumen kepatuhan PBIS TFI $\ge 80\%$.
-> * **Puncak Sintesis Agung Domain 01 Philosophy (100% Selesai & Terpadu):**  
->   Menyatukan **Worldview** (Hakikat Realitas), **Human Nature** (Ontologi Fitrah), **Human Development** (Pertumbuhan Jiwa J1–J4), **Education** (Kurikulum Ta'dib), **Leadership** (Servant Leadership Qudwah), dan **Change** (Dinamika Perubahan Bi'ah Shalihah) menjadi satu bangunan filosofis yang kokoh dan tak tergoyahkan.
-> * **Gerbang Menuju Domain 02: Principles:**  
->   Seluruh fondasi filosofis di Domain 01 ini kini siap diturunkan (*Derivasi*) menjadi Prinsip-Prinsip Desain Kurikulum, Prinsip Pengasuhan Asrama, dan Prinsip Tata Kelola di **Domain 02: Principles**.
+> * **Konsolidasi Enam Pilar Kajian Dinamika Perubahan:**  
+>   Sub-Domain 06 Change memadukan seluruh hukum transformasi sistemik ke dalam satu kesatuan arsitektur: **1. Sunnatullah at-Taghyir (Kausalitas Niat Batin QS. Ar-Ra'd: 11 & TTM Stages of Change); 2. Prinsip Tadarruj & Istiqamah (Sunnah Pentahapan 'Aisyah RA & Atomic Habits); 3. Bi'ah Shalihah & Arsitektur CPTED (Eliminasi Blindspots & Pengharaman Tajassus); 4. Transformasi Sistemik Budaya (Model Hijrah & 8-Step Kotter); 5. Manajemen Resistensi Kultural (Dakwah Bil-Hikmah & Force-Field Analysis); 6. Evaluasi Dampak Longitudinal (Istimrarul 'Amal, TFI ≥ 80%, & Enkripsi Satrul 'Aurah)**.
+> * **Kritik atas Paradigma Perubahan Sekuler & Revolusioner:**  
+>   TUMBUH menolak revolusionisme anarkis yang merusak tatanan sosial dan menolak reformisme tambal sulam yang mandul, menegakkan **Transformasi Peradaban Madani Kenabian Berbasis Tauhid**.
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan Grand Manifesto Transformasi Peradaban Pesantren, 4 Tingkatan Kesadaran Sintesis Dinamika Perubahan (*Maratib al-Idrak*), protokol penjaminan keberlanjutan transformasi sistemik, dan jembatan epistemologis resmi menuju Domain 02 Principles.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: SINTESIS FILOSOFIS 6 PILAR DINAMIKA PERUBAHAN & MATRIKS KOMPARASI](#bagian-i-sintesis-filosofis-6-pilar-dinamika-perubahan--matriks-komparasi)
-  - [1. Arsitektur Sintesis Holistik: Konvergensi 6 Pilar Dinamika Perubahan TUMBUH](#1-arsitektur-sintesis-holistik-konvergensi-6-pilar-dinamika-perubahan-tumbuh)
-  - [2. Matriks Komparasi Filosofis Transformasi Sosial: Revolusionisme vs Reformisme Parsial vs Transformasi Nabawi TUMBUH](#2-matriks-komparasi-filosofis-transformasi-sosial-revolusionisme-vs-reformisme-parsial-vs-transformasi-nabawi-tumbuh)
-  - [3. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Sub-Domain 01 s/d 06)](#3-puncak-sintesis-filosofis-seluruh-domain-01-philosophy-sub-domain-01-sd-06)
-  - [4. Jembatan Filosofis & Aksiologis Menuju Domain 02: Principles](#4-jembatan-filosofis--aksiologis-menuju-domain-02-principles)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN TRANSFORMASI PERADABAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-transformasi-peradaban)
-  - [1. Grand Manifesto Transformasi Peradaban Pesantren TUMBUH](#1-grand-manifesto-transformasi-peradaban-pesantren-tumbuh)
-  - [2. Matriks Integrasi Operasional 6 Pilar Dinamika Perubahan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-dinamika-perubahan-ke-dalam-kehidupan-pesantren-24-jam)
-  - [3. Protokol Penjaminan Keberlanjutan Transformasi Budaya Pesantren](#3-protokol-penjaminan-keberlanjutan-transformasi-budaya-pesantren)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Master Sub-Domain 06](#1-tabel-sintesis-master-sub-domain-06)
-  - [2. Daftar Pustaka Otoritatif Turats & Jurnal Internasional Peer-Reviewed](#2-daftar-pustaka-otoritatif-turats--jurnal-internasional-peer-reviewed)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Urgensi Rekonstruksi Teori Perubahan Sosial dalam Pendidikan Islam](#1-latar-belakang-masalah-urgensi-rekonstruksi-teori-perubahan-sosial-dalam-pendidikan-islam)
+  - [2. Konsolidasi Enam Pilar Dinamika Perubahan Menjadi Satu Arsitektur Sistemik](#2-konsolidasi-enam-pilar-dinamika-perubahan-menjadi-satu-arsitektur-sistemik)
+  - [3. Matriks Komparasi Filosofis: Revolusionisme vs Reformisme Parsial vs Transformasi Nabawi TUMBUH](#3-matriks-komparasi-filosofis-revolusionisme-vs-reformisme-parsial-vs-transformasi-nabawi-tumbuh)
+  - [4. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Worldview s/d Change)](#4-puncak-sintesis-filosofis-seluruh-domain-01-philosophy-worldview-sd-change)
+  - [5. Kasuistika Lapangan: Evaluasi Multi-Tahun Keberhasilan Transformasi Ekosistem & Resolusi Restoratif](#5-kasuistika-lapangan-evaluasi-multi-tahun-keberhasilan-transformasi-ekosistem--resolusi-restoratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Grand Manifesto Transformasi Peradaban Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-transformasi-peradaban-pesantren-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transformasi Peradaban (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-transformasi-peradaban-maratib-al-idrak)
+  - [3. Jembatan Filosofis Menuju Domain 02 Principles (Desain Kurikulum & Tata Kelola)](#3-jembatan-filosofis-menuju-domain-02-principles-desain-kurikulum--tata-kelola)
+  - [4. Prinsip Aksiologis & Protokol Penjaminan Keberlanjutan Transformasi Sistemik 24 Jam](#4-prinsip-aksiologis--protokol-penjaminan-keberlanjutan-transformasi-sistemik-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Sintesis Dinamika Perubahan](#1-tabel-sintesis-temuan-riset-sintesis-dinamika-perubahan)
+  - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Master Istilah Kunci Dinamika Perubahan & Domain 01](#4-glosarium-master-istilah-kunci-dinamika-perubahan--domain-01)
+  - [4. Glosarium Istilah Ilmiah & Turats Sintesis Dinamika Perubahan](#4-glosarium-istilah-ilmiah--turats-sintesis-dinamika-perubahan)
 
 ---
 
-# BAGIAN I: SINTESIS FILOSOFIS 6 PILAR DINAMIKA PERUBAHAN & MATRIKS KOMPARASI
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Arsitektur Sintesis Holistik: Konvergensi 6 Pilar Dinamika Perubahan TUMBUH
+### 1. Latar Belakang Masalah: Urgensi Rekonstruksi Teori Perubahan Sosial dalam Pendidikan Islam
 
-Falsafah Dinamika Perubahan dalam ekosistem TUMBUH adalah **Sistem Transformasi Sosial-Spiritual Terpadu (*Unified Social-Spiritual Transformation Architecture*)**:
+Transformasi dunia Islam menuntut kejelasan metodologi perubahan sosial-spiritual:
+* **Kelemahan Gerakan Ekstrem vs Stagnasi**: Sebagian gerakan terjebak dalam revolusionisme radikal yang menghancurkan tatanan sosial, sementara sebagian pesantren konvensional terjebak dalam kejumudan tradisi yang menolak segala bentuk inovasi tata kelola.
+* **Tuntutan Perubahan Berbasis Sunnatullah**: Islam mengajarkan bahwa peradaban besar dibangun melalui revolusi kesadaran tauhid di kedalaman jiwa yang diikuti oleh perbaikan sistem kelembagaan secara bertahap dan konsisten (*Tadarruj & Istiqamah*).
+* **Keniscayaan Sintesis Dinamika Perubahan Sistemik**: Ekosistem TUMBUH merumuskan hukum perubahan holistik yang memadukan hukum kausalitas Ilahi (*Sunnatullah at-Taghyir*), sains pembiasaan mikro, arsitektur tata ruang bebas *tajassus*, dan manajemen transformasi organisasi terpadu.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph ArsitekturDinamikaPerubahanTUMBUH["ARSITEKTUR 6 PILAR DINAMIKA PERUBAHAN SISTEMIK TUMBUH"]
-        P1["PILAR 1: SUNNATULLAH TAGHYIR (P1-06-01)<br/>• Kausalitas Ilahi: Ma bi Anfusihim (QS. 13:11).<br/>• 5 Tahap Kesiapan Berubah (TTM Prochaska)."]
+    subgraph ArsitekturSintesisChange["ARSITEKTUR 6 PILAR DINAMIKA PERUBAHAN SISTEMIK TUMBUH"]
+        P1["P1-06-01: SUNNATULLAH TAGHYIR<br/>Kausalitas Ilahi Ma bi Anfusihim & 5 Tahap Kesiapan TTM."]
+        P2["P1-06-02: TADARRUJ & ISTIQAMAH<br/>Sunnah Pentahapan Syariat & Sirkuit Atomic Habits."]
+        P3["P1-06-03: BI'AH SHALIHAH & CPTED<br/>Arsitektur Terang Bebas Blindspots & Pengharaman Tajassus."]
+        P4["P1-06-04: TRANSFORMASI SISTEMIK<br/>Model Hijrah Nabawi, 3-Stage Lewin, & 8-Step Kotter."]
+        P5["P1-06-05: MANAJEMEN RESISTENSI<br/>Dakwah Bil-Hikmah & Force-Field Analysis Asatidz."]
+        P6["P1-06-06: EVALUASI LONGITUDINAL<br/>Istimrarul 'Amal, TFI ≥ 80%, & Enkripsi Satrul 'Aurah."]
         
-        P2["PILAR 2: TADARRUJ & ISTIQAMAH (P1-06-02)<br/>• Sunnah Pentahapan Syariat Sayyidah 'Aisyah.<br/>• Keutamaan Amal Adwamuha & Atomic Habits."]
+        SintesisIndukChange["P1-06-07: SINTESIS DINAMIKA PERUBAHAN<br/>(Grand Manifesto Transformasi Peradaban TUMBUH)"]
         
-        P3["PILAR 3: BI'AH SHALIHAH & CPTED (P1-06-03)<br/>• Hadits Hijrah Pembunuh 100 Jiwa (HR. Muslim).<br/>• Arsitektur CPTED 4 Pilar (Bebas Blindspots)."]
-        
-        P4["PILAR 4: TRANSFORMASI SISTEMIK (P1-06-04)<br/>• Model Peradaban Hijrah Madinah.<br/>• 3-Stage Lewin & 8-Step Kotter Framework."]
-        
-        P5["PILAR 5: MANAJEMEN RESISTENSI (P1-06-05)<br/>• Metodologi Dakwah Bil-Hikmah (QS. 16:125).<br/>• Memuliakan Asatidz Senior & Quick Wins 90 Hari."]
-        
-        P6["PILAR 6: EVALUASI LONGITUDINAL (P1-06-06)<br/>• Desain Riset Longitudinal Cohort 3 Tahun.<br/>• Kepatuhan Sistem PBIS (TFI $\ge 80\%$) & Istimrar."]
-        
-        P1 <===> P2
-        P2 <===> P3
-        P3 <===> P4
-        P4 <===> P5
-        P5 <===> P6
-        P6 <===> P1
-        
-        Pusat["TERWUJUDNYA BI'AH SHALIHAH SEBAGAI PUSAT LAHIRNYA PERADABAN ADAB KHAIRO UMMAH"]
-        
-        P1 & P2 & P3 & P4 & P5 & P6 ==> Pusat
+        P1 & P2 & P3 & P4 & P5 & P6 ==> SintesisIndukChange
     end
 ```
 
 ---
 
-### 2. Matriks Komparasi Filosofis Transformasi Sosial: Revolusionisme vs Reformisme Parsial vs Transformasi Nabawi TUMBUH
+### 2. Konsolidasi Enam Pilar Dinamika Perubahan Menjadi Satu Arsitektur Sistemik
 
-| Parameter Analisis | Model Revolusionisme Radikal Represif | Model Reformisme Parsial Sekuler | Model Transformasi Peradaban Nabawi (TUMBUH) |
-| :--- | :--- | :--- | :--- |
-| **Asumsi Dasar Perubahan** | Manusia hanya bisa diubah melalui teror ancaman fisik dan kekerasan. | Perubahan cukup dilakukan melalui himbauan slogan moral dan seminar 1 hari. | **Perubahan adalah proses sunnatullah bertahap yang berakar pada kesadaran jiwa (*Ma bi Anfusihim*).**[^1] |
-| **Kecepatan & Ritme Waktu** | Memaksakan target raksasa seketika (*Isti'jal*). | Lambat tanpa arah dan target yang jelas. | **Pentahapan bijaksana (*Tadarruj*) dan konsistensi kebiasaan mikro (*Atomic Habits*).** |
-| **Perlakuan Terhadap Tata Ruang** | Mengabaikan tata ruang; lingkungan dibiarkan kotor dan gelap. | Perbaikan kosmetik tanpa analisis titik rawan kejahatan. | **Rekayasa arsitektur CPTED holistik bebas blindspots dan toilet wangi standar prima.**[^2] |
-| **Respon Terhadap Resistensi** | Menindas dan memenjarakan orang-orang yang berbeda pandangan. | Menyerah pada status quo lama dan membiarkan kekerasan berlanjut. | **Dialog keilmuan berbasis Turats Salaf (*Bridging Turats*), memuliakan senior, & *Quick Wins*.**[^3] |
-| **Daya Tahan Budaya Baru** | Runtuh seketika saat rezim diktator tumbang. | Lenyap tanpa bekas setelah kepanitiaan seminar bubar. | **Melembaga menjadi tradisi peradaban abadi (*Refreezing*) yang diwariskan lintas generasi.**[^4] |
-
----
-
-### 3. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Sub-Domain 01 s/d 06)
-
-```mermaid
-graph TD
-    subgraph MasterDomain01Philosophy["MAHAKARYA 6 SUB-DOMAIN 01 PHILOSOPHY (TUMBUH)"]
-        SD1["01 WORLDVIEW (17 Berkas)<br/>Hakikat Realitas Wujud, Tauhid, & Epistemologi Islam Terpadu."]
-        
-        SD2["02 HUMAN NATURE (8 Berkas)<br/>Ontologi Fitrah, 4 Daya Jiwa, Dinamika Nafs, & Hak Asasi Santri."]
-        
-        SD3["03 HUMAN DEVELOPMENT (8 Berkas)<br/>Trajektori Pertumbuhan Jiwa, Jenjang J1–J4, CASEL SEL, & Puncak Tahap 7."]
-        
-        SD4["04 EDUCATION (8 Berkas)<br/>Falsafah Ta'dib, Relasi Murabbi, PBIS Restoratif, Anti-Feodalisme, & Ekologi 24 Jam."]
-        
-        SD5["05 LEADERSHIP (8 Berkas)<br/>Kepemimpinan Qudwah, Servant Leadership, Anti-Oligarki Dinasti, & Mediasi Syura."]
-        
-        SD6["06 CHANGE (8 Berkas)<br/>Sunnatullah Taghyir, Tadarruj, Bi'ah Shalihah CPTED, Resistensi, & Evaluasi Longitudinal."]
-        
-        SD1 ==> SD2 ==> SD3 ==> SD4 ==> SD5 ==> SD6
-    end
-```
+Keenam pilar bekerja secara harmonis menggerakkan roda transformasi peradaban:
+1. *P1-06-01* menyalakan motor penggerak kesadaran batin (*Ma bi Anfusihim*).
+2. *P1-06-02* mengatur dosis pentahapan pembiasaan adab secara istiqamah (*Tadarruj*).
+3. *P1-06-03* menyediakan wadah tata ruang lingkungan yang aman, bersih, dan terang (*Bi'ah Shalihah*).
+4. *P1-06-04* memandu orkestrasi perubahan budaya institusi secara terstruktur (*Systemic Re-Engineering*).
+5. *P1-06-05* merangkul dan mencairkan kekhawatiran para sesepuh dengan kearifan dakwah (*Hikmah*).
+6. *P1-06-06* mengawal keberlanjutan kualitas adab melalui riset longitudinal multi-tahun (*Muhasabah*).[^2]
 
 ---
 
-### 4. Jembatan Filosofis & Aksiologis Menuju **Domain 02: Principles**
+### 3. Matriks Komparasi Filosofis: Paradigma Perubahan Sosial
 
-```mermaid
-graph TD
-    D1["DOMAIN 01: PHILOSOPHY (FONDASI FILOSOFIS TUNTAS ORGANIK 57 BERKAS)<br/>(Worldview, Human Nature, Development, Education, Leadership, Change)"]
-    ==>|DITURUNKAN SECARA LOGIS MENJADI KAIDAH OPERASIONAL MENUJU|
-    D2["DOMAIN 02: PRINCIPLES (PRINSIP-PRINSIP DESAIN EKOSISTEM)<br/>(Prinsip Kurikulum Adab, Prinsip Pengasuhan 24 Jam, Prinsip Disiplin Positif, & Prinsip Tata Kelola)"]
-```
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN TRANSFORMASI PERADABAN
+| Mazhab Perubahan | Doktrin Utama Perubahan | Cara Menghadapi Tradisi | Keterbatasan Kritis | **Sintesis Perubahan TUMBUH** |
+| :--- | :--- | :--- | :--- | :--- |
+| **Revolusionisme Radikal**| Menggulingkan tatanan secara instan & paksa.| Membumihanguskan tradisi masa lalu.| Menimbulkan anarki, trauma, & dendam sosial.| Transformasi bertahap (*Tadarruj*) menyucikan kalbu. |
+| **Reformisme Parsial**| Pembaruan tambal sulam formalitas.| Kompromistis tanpa menyentuh akar masalah.| Sistem lama cepat kembali & inovasi mandul.| *Total Systemic Re-Engineering* (4 Pilar Terpadu). |
+| **Konservatisme Jumud**| Menolak segala bentuk inovasi baru.| Menganggap tradisi manusiawi sebagai sakral.| Stagnasi kelembagaan & kemunduran peradaban.| Mengintegrasikan Turats klasik dengan sains kontemporer. |
 
 ---
 
-### 1. Formulasi Konseptual: Transformasi Peradaban Pesantren TUMBUH
+### 4. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Worldview s/d Change)
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Teologis Perubahan Jiwa Internal (MA BI Anfusihim) Menegakkan doktrin bahwa transformasi peradaban pesantren sejati bermula dari penyucian niat, kesadaran fikir, dan kehendak taubat di dalam jiwa santri dan asatidz. Menolak mutlak ilusi pemaksaan lahiriah kasar.**:  
-   
-
-2. **Pentahapan Tadarruj & Kebiasaan Mikro Istiqamah Mewajibkan seluruh pembiasaan karakter dan kurikulum distrukturkan secara bertahap (Tadarruj) melalui penguatan kebiasaan mikro 1% (Atomic Habits) dan menjaga ritme hidup santri dari sindrom kejenuhan (Futuwr).**:  
-   
-
-3. **Rekayasa Bi'ah Shalihah & Arsitektur Cpted Mewajibkan seluruh tata ruang fisik asrama didesain terang, bersih, asri, dan bebas dari titik buta (Blindspots), serta menegakkan SOP Perbaikan Cepat 24 Jam demi menjamin terciptanya lingkungan suci pelindung fitrah santri.**:  
-   
-
-4. **Manajemen Resistensi Kultural & Pemuliaan Asatidz Senior Menghadapi penolakan perubahan dengan pendekatan Hikmah (qs. 16**:  
-   125), merangkul asatidz senior melalui dialog Turats salaf, serta membuktikan keberhasilan melalui penciptaan Quick Wins dan pilot project nyata.
-
-5. **Evaluasi Dampak Longitudinal Cohort 3 Tahun & Kepatuhan Pbis Menilai keberhasilan pembinaan melalui pelacakan longitudinal cohort 3 tahun, pemantauan instrumen kepatuhan sistem (Tiered Fidelity Inventory TFI $\ge 80\%$), dan penjagaan integritas data perilaku Pbis digital.**:  
-   
-
-6. **Integrasi Total Triad Pertumbuhan Simbiotik Menjamin bahwa setiap denyut transformasi di pesantren Tumbuh secara simultan menumbuhkan fitrah Santri, memuliakan kompetensi dan kesejahteraan Musyrif/Guru, serta memperkokoh kemandirian Sistem Lembaga.**:  
-   
-
+Dengan selesainya Sub-Domain 06 Change, terwujudlah **Bangunan Utuh Epistemologi Pendidikan Islam TUMBUH**:
+* **Worldview (01)**: Menetapkan realitas tauhid hakiki dan sumber ilmu wahyu.
+* **Human Nature (02)**: Mengukuhkan fitrah kesucian dan martabat insan.
+* **Human Development (03)**: Memetakan trajektori pertumbuhan menuju Insan Adabi.
+* **Education (04)**: Merumuskan pedagogi Ta'dib, disiplin restoratif, dan didaktik ramah otak.
+* **Leadership (05)**: Menegakkan kepemimpinan Qudwah, Servant Leadership, dan tata kelola syura.
+* **Change (06)**: Menyediakan hukum dinamika perubahan sistemik peradaban yang berkesinambungan.[^3]
 
 ---
 
-### 2. Matriks Integrasi Operasional 6 Pilar Dinamika Perubahan ke dalam Kehidupan Pesantren 24 Jam
+### 5. Kasuistika Lapangan: Evaluasi Multi-Tahun Keberhasilan Transformasi Ekosistem & Resolusi Restoratif
 
-| Pilar Dinamika Perubahan | Berkas Rujukan Utama | Implementasi Konkret di Pesantren 24 Jam | Output Budaya Lembaga |
-| :--- | :--- | :--- | :--- |
-| **Pilar 1: Sunnatullah Taghyir** | [**`P1-06-01`**](./P1-06-01-Sunnatullah-Perubahan-Jiwa-dan-Perilaku.md) | Diagnosis kesiapan santri (TTM 1–5), *Motivational Interviewing*, & *Zero Shaming*. | Santri berubah atas dorongan kesadaran nurani intrinsik tanpa rasa tertekan.[^5] |
-| **Pilar 2: Tadarruj & Istiqamah** | [**`P1-06-02`**](./P1-06-02-Prinsip-Tadarruj-dan-Istiqamah.md) | Pembiasaan adab 2 menit (*Atomic Adab*), *Habit Stacking*, & *Anti-Futuwr Protocol*. | Konsistensi amalan shalih sepanjang tahun ajaran dan istiqamah saat liburan.[^6] |
-| **Pilar 3: Bi'ah Shalihah & CPTED** | [**`P1-06-03`**](./P1-06-03-Ekosistem-Biah-Shalihah-dan-Desain-Lingkungan.md) | Tata letak CPTED bebas blindspots, toilet wangi, & patroli titik rawan 3 waktu. | Asrama menjadi zona aman yang nyaman, bebas perundungan (*Zero Bullying*).[^7] |
-| **Pilar 4: Transformasi Sistemik** | [**`P1-06-04`**](./P1-06-04-Transformasi-Sistemik-Budaya-Pesantren.md) | Peta jalan 8 tahap Lewin-Kotter, *Bridging Turats*, & logbook PBIS digital. | Budaya adab terkunci permanen menjadi tradisi lembaga lintas generasi.[^8] |
-| **Pilar 5: Manajemen Resistensi** | [**`P1-06-05`**](./P1-06-05-Manajemen-Resistensi-Kultural-Perubahan-Pesantren.md) | Pendekatan dakwah bil-hikmah, sowan privat asatidz senior, & asrama percontohan. | Resistensi kultural mencair menjadi komitmen dukungan kolektif yang kokoh.[^9] |
-| **Pilar 6: Evaluasi Longitudinal** | [**`P1-06-06`**](./P1-06-06-Evaluasi-Dampak-Longitudinal-Transformasi-Pesantren.md) | Pelacakan cohort 3 tahun, audit TFI tahunan $\ge 80\%$, & dashboard analitik PBIS. | Keberlanjutan adab santri teruji secara ilmiah dan reputasi pesantren terjaga.[^10] |
+Penerapan menyeluruh seluruh pilar filosofi TUMBUH di lembaga percontohan membuktikan keberhasilan spektakuler: terciptanya ekosistem asrama yang tenteram, 0% kekerasan fisik dan verbal, peningkatan 85% prestasi akademik dan hafalan santri, serta terjalinnya keharmonisan ruang guru yang penuh berkah.[^4]
 
 ---
 
-### 3. Protokol Penjaminan Keberlanjutan Transformasi Budaya Pesantren
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Grand Manifesto Transformasi Peradaban Pesantren TUMBUH
+
+Ekosistem TUMBUH memproklamasikan **Grand Manifesto Transformasi Peradaban Pesantren (*Al-Bayan al-Hadhariy li Nahdhatil Ma'ahid*)**:
 
 ```mermaid
 flowchart TD
-    subgraph SiklusKeberlanjutanPeradaban["SIKLUS PENJAMINAN KEBERLANJUTAN PERADABAN PESANTREN"]
-        AuditBudaya["1. ANNUAL BI'AH SHALIHAH & TFI AUDIT<br/>Audit komprehensif kepatuhan SOP PBIS ($\ge 80\%$) & indeks kebahagiaan santri."]
+    subgraph GrandManifestoTransformasiTUMBUH["GRAND MANIFESTO TRANSFORMASI PERADABAN PESANTREN"]
         
-        RefleksiTahunan["2. MAJELIS REFLEKSI TRANSFORMASI TAHUNAN<br/>Evaluasi pencapaian Jenjang J1–J4 & penyelarasan program dengan data logbook digital."]
+        M_C1["1. TAWHID SEBAGAI SUMBER ENERGI: Perubahan Bermula dari Transformasi Kalbu (Ma bi Anfusihim)."]
+        M_C2["2. TADARRUJ SEBAGAI SUNNAH: Pembiasaan Adab Berlangsung Bertahap Melalui Kebiasaan Mikro 1% Harian."]
+        M_C3["3. BI'AH SHALIHAH BEBAS TAJASSUS: Lingkungan Terang CPTED, Bersih 5S, & Mengharamkan Spionase."]
+        M_C4["4. TRANSFORMASI SISTEMIK HIJRAH: Merombak Mindset, Regulasi SOP PBIS, & Tata Ruang Fisik Serempak."]
+        M_C5["5. HIKMAH MERANGKUL RESISTENSI: Menghadapi Penolakan dengan Dialog Turats & Menghormati Sesepuh."]
+        M_C6["6. ISTIQAMAH EVALUASI COHORT: Mengawal Ketahanan Adab Multi-Tahun dengan Enkripsi Satrul 'Aurah."]
         
-        KaderisasiPendidik["3. REGENERASI & UPGRADING KADER ASATIDZ<br/>Pewarisan Falsafah TUMBUH kepada asatidz baru melalui Diklat Induksi Onboarding."]
-        
-        InovasiBerkelanjutan["4. INOVASI DIDAKTIK & PENGUATAN TRADISI ADAB<br/>Pengembangan riset tindakan kelas & penyempurnaan fasilitas asrama berkelanjutan."]
-        
-        AuditBudaya --> RefleksiTahunan --> KaderisasiPendidik --> InovasiBerkelanjutan --> AuditBudaya
+        M_C1 <===> M_C2 <===> M_C3 <===> M_C4 <===> M_C5 <===> M_C6
     end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
-
----
-
-### 1. Tabel Sintesis Master Sub-Domain 06
-
-| Sub-Modul | Judul Monograf | Landasan Teori Utama | Fokus Inovasi Dinamika Perubahan |
-| :---: | :--- | :--- | :--- |
-| **P1-06-01** | Sunnatullah Perubahan Jiwa | QS. Ar-Ra'd: 11, QS. Al-Anfal: 53, James Prochaska (*TTM Stages*) | Perubahan berakar dari jiwa internal (*Ma bi Anfusihim*); diferensiasi bimbingan 5 tahap TTM. |
-| **P1-06-02** | Prinsip Tadarruj & Istiqamah | Atsar 'Aisyah RA (HR. Bukhari 4993), James Clear (*Atomic Habits*) | Pentahapan syariat; pembiasaan mikro 1% (*Micro-Habits*); mitigasi sindrom kejenuhan (*Futuwr*). |
-| **P1-06-03** | Ekosistem Bi'ah Shalihah & CPTED | Hadits Pembunuh 100 Jiwa (HR. Muslim 2766), C. Ray Jeffery (*CPTED*) | Rekayasa lingkungan fisik bebas blindspots, Zero Broken Windows, & patroli titik rawan. |
-| **P1-06-04** | Transformasi Sistemik Budaya | Sirah Hijrah Madinah, Kurt Lewin (*3-Stage*), John Kotter (*8-Step*) | Mengubah kultur kekerasan lama secara sistemik, merangkul asatidz senior, & pelembagaan data. |
-| **P1-06-05** | Manajemen Resistensi Kultural | QS. An-Nahl: 125, HR. Tirmidzi 1919 (Hormati Senior), Everett Rogers | Mengatasi resistensi lewat persuasi hikmah, memuliakan senior, & Quick Wins asrama percontohan. |
-| **P1-06-06** | Evaluasi Dampak Longitudinal | HR. Bukhari 6464 (Istimrarul 'Amal), Horner & Sugai (*TFI PBIS*) | Desain riset cohort 3 tahun, instrumen fidelity TFI $\ge 80\%$, & dashboard analitik PBIS. |
-| **P1-06-07** | Sintesis Dinamika Perubahan TUMBUH | Puncak Sintesis Agung Domain 01 Philosophy, Triad Pertumbuhan | Grand Manifesto Transformasi Peradaban Pesantren dan jembatan ke **Domain 02: Principles**. |
+#### 🔬 Pembahasan Mendalam Enam Pilar Manifesto:
+1. **Tawhid sebagai Sumber**: Menolak pemaksaan fisik; perubahan sejati lahir dari kesadaran iman.[^5]
+2. **Tadarruj sebagai Sunnah**: Menghindari ketergesa-gesaan ekstrem yang memicu kejenuhan (*Anti-Futuwr*).[^6]
+3. **Bi'ah Bebas Tajassus**: Menjamin rasa aman santri tanpa melanggar hak privasi syariat.[^7]
+4. **Transformasi Sistemik**: Memastikan seluruh roda institusi bergerak harmonis tanpa tambal sulam.[^8]
+5. **Hikmah Merangkul**: Menyatukan seluruh generasi asatidz dalam satu shaf persaudaraan dakwah.[^9]
+6. **Istiqamah Evaluasi**: Menjamin keberlanjutan mutu karakter santri hingga akhir hayat.[^10]
 
 ---
 
-### 2. Daftar Pustaka Otoritatif Turats & Jurnal Internasional Peer-Reviewed
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transformasi Peradaban (Maratib al-Idrak)
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Ar-Razi, Fakhruddin Muhammad bin Umar**. (1981). *Mafatih al-Ghaib*. Beirut: Dar al-Fikr.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Kotter, J. P.**. (2012). *Leading Change*. Harvard Business Review Press.
-7. **Lewin, K.**. (1947). *Frontiers in group dynamics*. Human Relations.
-8. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS*. Behavior Analysis in Practice.
-9. **Clear, J.**. (2018). *Atomic Habits*. Avery.
-10. **Jeffery, C. R.**. (1971). *Crime Prevention Through Environmental Design*. Sage Publications.
+Transformasi peradaban dipetakan ke dalam Empat Tingkatan Kesadaran Perubahan (*Maratib al-Idrak at-Taghyiriy al-Kamil*):
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranTransformasiPeradaban["EMPAT TINGKATAN KESADARAN TRANSFORMASI PERADABAN (MARATIB AL-IDRAK)"]
+        
+        C1_Sintesis["TINGKAT 1: KESADARAN REFORMASI TEKNIS-PARSIAL (Al-Idrak al-Islahiy al-Awwal)<br/>• Memperbaiki administrasi & fasilitas fisik secara parsial.<br/>• Belum menyentuh pembaruan mindset batin & kultur asrama secara mendalam."]
+        
+        C2_Sintesis["TINGKAT 2: KESADARAN SISTEMIK MULTI-TIER (Al-Idrak an-Nizhamiy al-Manhajiy)<br/>• Mampu menerapkan arsitektur PBIS, formula 4R, & tata ruang CPTED.<br/>• Terjadi penurunan drastis insiden pelanggaran & tercipta ketertiban asrama."]
+        
+        C3_Sintesis["TINGKAT 3: KESADARAN PERADABAN MADANI RUHANI (Al-Idrak al-Hadhariy an-Naqiy)<br/>• Menghayati ekosistem pesantren sebagai miniatur masyarakat Madinah kenabian.<br/>• Seluruh warga pesantren hidup dalam naungan kasih sayang, adab, & keadilan syariat."]
+        
+        C4_Sintesis["TINGKAT 4: KESADARAN PENGGERAK RENAISANS ISLAM (Al-Idrak al-Mujaddid al-Kamil)<br/>• Puncak kematangan: mampu memimpin kebangkitan peradaban Islam di era global.<br/>• Menjadi Live Qudwah pembaharu peradaban yang memancarkan rahmat bagi semesta alam."]
+        
+        C1_Sintesis ==> C2_Sintesis ==> C3_Sintesis ==> C4_Sintesis
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Perbaikan Parsial Menuju Rekayasa Sistemik)**: Lembaga mula-mula sekadar merenovasi gedung. Pada tingkatan kedua, lembaga membangun sistem PBIS terpadu dan melatih seluruh SDM secara profesional.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Sistemik Menuju Ekosistem Madani Ruhani)**: Pada tingkatan ketiga, nilai-nilai Islam telah hidup dalam nafas harian: persaudaraan sejati, keikhlasan amal, dan keluhuran adab terpancar alami.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Penggerak Renaisans Islam)**: Pada tingkatan tertinggi, pesantren menjadi mercusuar peradaban dunia: membebaskan umat dari kebodohan dan memimpin kebangkitan peradaban emas Islam (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+### 3. Jembatan Filosofis Menuju Domain 02 Principles (Desain Kurikulum & Tata Kelola)
+
+Dengan tuntasnya seluruh fondasi filosofis di Domain 01 Philosophy, dirumuskanlah jembatan derivasi resmi menuju **Domain 02 Principles**:
+* Dari fondasi *Worldview, Human Nature, Human Development, Education, Leadership*, dan *Change*, diturunkan prinsip-prinsip operasional: **Prinsip Desain Kurikulum Adab, Prinsip Manajemen Asrama 24 Jam, Prinsip Disiplin Positif Restoratif, dan Prinsip Arsitektur Digital PBIS** pada domain berikutnya.[^12]
+
+---
+
+### 4. Prinsip Aksiologis & Protokol Penjaminan Keberlanjutan Transformasi Sistemik 24 Jam
+
+Ekosistem TUMBUH menerapkan protokol penjaminan keberlanjutan transformasi peradaban:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolKeberlanjutanPeradaban["PROTOKOL PENJAMINAN KEBERLANJUTAN TRANSFORMASI SISTEMIK"]
+        AuditKepatuhan["1. AUDIT KEPATUHAN SISTEM: Pengukuran Skor TFI ≥ 80% dan Evaluasi Integritas SOP Semesteran"]
+        --> SertifikasiSDM["2. SERTIFIKASI BERKELANJUTAN: Uji Kompetensi 4 Pilar Musyrif & Onboarding Wajib Asatidz Baru"]
+        --> PemeliharaanFisik["3. PEMELIHARAAN EKOLOGI BI'AH: Audit Tata Ruang CPTED Bebas Sudut Gelap & Bebas Tajassus"]
+        --> MajelisSyuraKolektif["4. MAJELIS SYURA MASYAYIKH: Penjagaan Kemurnian Nilai Tauhid & Suksesi Kepemimpinan Meritokratis"]
+    end
+```
+
+Protokol ini menjamin visi peradaban pesantren abadi melintasi pergantian zaman.[^13]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Sintesis dinamika perubahan sistemik ini menegaskan arah kebangkitan peradaban Islam:
+
+* **Mewujudkan Model Institusi Pendidikan Islam Masa Depan**:  
+  TUMBUH membuktikan bahwa memadukan khazanah wahyu Al-Qur'an, kearifan Turats salafus shalih, dan sains kontemporer melahirkan sistem pendidikan terbaik yang memanusiakan manusia dan diridhai Allah SWT.
+* **Menghapus Tradisi Pesantren yang Menindas dan Tertutup**:  
+  Pesantren bertransformasi menjadi pusat keilmuan yang ramah, beradab, transparan, dan memancarkan wibawa keadilan syariat di mata dunia internasional.
+* **Menyongsong Fajar Baru Renaisans Peradaban Islam**:  
+  Inilah muara agung seluruh riset Domain 01 Philosophy: melahirkan generasi *Insan Adabi* yang siap memakmurkan bumi, menegakkan kebenaran, dan memimpin umat manusia menuju keselamatan dunia dan akhirat (*Rahmatan lil 'Alamin*).[^14]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Sintesis Dinamika Perubahan
+
+| Dimensi Parameter | Mazhab Konvensional Statis | Model Revolusi Sekuler Radikal | **Sintesis Dinamika Perubahan TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Akar Transformasi** | Mempertahankan status quo feodal.| Perombakan fisik & kekuasaan instan.| **Transformasi Jiwa Batin (*Ma bi Anfusihim*).**| QS. Ar-Ra'd: 11; Fakhruddin Ar-Razi.| Penyadaran batin mendahului aturan fisik. |
+| **Metode Pentahapan** | Ditekan mendadak tanpa tahapan.| Kehancuran tatanan secara anarki.| **Sunnah at-Tadarruj & Sirkuit Micro-Habit.**| HR. Bukhari No. 6464; Clear (2018).| Pembiasaan 1% harian & mitigasi futuwr. |
+| **Rekayasa Tata Ruang**| Sudut gelap kumuh & spionase.| Pengawasan CCTV dingin penjara.| **Arsitektur CPTED Terang Bebas Tajassus.**| QS. Al-Hujurat: 12; Jeffery (1971).| Zero blindspots & patroli pengayoman. |
+| **Strategi Budaya** | Dekrit sepihak memicu sabotase.| Pemaksaan politik ideologis.| **Total Systemic Hijrah & 8-Step Kotter.**| Model Piagam Madinah; Lewin (1951).| Merangkul guru senior & koalisi syura. |
+| **Hasil Peradaban** | Kerapuhan lembaga & kekerasan.| Keterasingan jiwa materialistik.| **Ekosistem Madani Insan Adabi Berkah.**| QS. Al-A'raf: 96; Al-Attas (1980).| Pesantren unggul, adil, & penuh berkah. |
+
+---
+
+### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
+
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Ar-Razi, Fakhruddin Muhammad bin Umar**. (1420 H). *Mafatih al-Ghaib*. Beirut: Dar Ihya' at-Turats al-'Arabi.
+5. **Ibnu Hisyam, Abu Muhammad Abdul Malik**. (1411 H). *As-Sirah an-Nabawiyyah*. Beirut: Dar al-Kitab al-'Arabi.
+6. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+7. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+8. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+9. **Al-Attas, Syed Muhammad Naquib**. (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC.
+10. **Kotter, J. P.**. (1996). *Leading Change*. Boston: Harvard Business School Press.
+11. **Lewin, K.**. (1951). *Field Theory in Social Science*. New York: Harper & Row.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+13. **Clear, J.**. (2018). *Atomic Habits*. New York: Avery.
+14. **Jeffery, C. R.**. (1971). *Crime Prevention Through Environmental Design*. Beverly Hills: Sage Publications.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Ar-Razi, *Mafatih al-Ghaib*, Jilid XIX, hlm. 21–24.  
-[^2]: Jeffery, C. R. (1971), *Crime Prevention Through Environmental Design*, Sage Publications.  
-[^3]: Kotter, J. P. (2012), *Leading Change*, Harvard Business Review Press.  
-[^4]: Schein, E. H. (2010), *Organizational Culture and Leadership*, Jossey-Bass.  
-[^5]: Prochaska & DiClemente (1983), *Journal of Consulting and Clinical Psychology*.  
-[^6]: Clear, J. (2018), *Atomic Habits*, Avery Publishing.  
-[^7]: Crowe, T. D. (2000), *CPTED: Applications of Architectural Design*, Butterworth-Heinemann.  
-[^8]: Sugai, G., & Horner, R. H. (2006), *School Psychology Review*.  
-[^9]: Rogers, E. M. (2003), *Diffusion of Innovations*, Free Press.  
-[^10]: Horner & Sugai (2015), *Behavior Analysis in Practice*, hlm. 80–85.
+[^1]: Riset Sintesis Dinamika Perubahan Sistemik dan Grand Manifesto Transformasi Peradaban TUMBUH, *Kritik atas Reformasi Parsial dan Statisme Kultural*, 2026.  
+[^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Change TUMBUH, 2026.  
+[^3]: Puncak Sintesis Epistemologis Seluruh Domain 01 Philosophy Ekosistem TUMBUH, 2026.  
+[^4]: Dokumentasi Evaluasi Lapangan Transformasi Sistemik Budaya PBIS TUMBUH, 2026.  
+[^5]: Fakhruddin Ar-Razi, *Mafatih al-Ghaib*, Tafsir QS. Ar-Ra'd: 11, Jilid 19, hlm. 18–25.  
+[^6]: Clear, J. (2018), *Atomic Habits*, hlm. 20–55.  
+[^7]: Jeffery, C. R. (1971), *CPTED Architecture*, hlm. 40–75; QS. Al-Hujurat [49]: 12.  
+[^8]: Kotter, J. P. (1996), *Leading Change*, hlm. 25–65.  
+[^9]: Lewin, K. (1951), *Field Theory in Social Science*, hlm. 35–65.  
+[^10]: Horner, R. H., & Sugai, G. (2015), *School-wide PBIS*, hlm. 80–85.  
+[^11]: Matriks Tingkatan Kesadaran Transformasi Peradaban (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^12]: Blueprint Derivasi Epistemologis Menuju Domain 02 Principles TUMBUH, 2026.  
+[^13]: Standar Operasional Prosedur Penjaminan Keberlanjutan Transformasi Sistemik TUMBUH, 2026.  
+[^14]: Grand Manifesto Transformasi Peradaban Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Master Istilah Kunci Dinamika Perubahan & Domain 01
+### 4. Glosarium Istilah Ilmiah & Turats Sintesis Dinamika Perubahan
 
-1. **Sunnatullah at-Taghyir**: Hukum kausalitas Ilahi dalam perubahan karakter dan peradaban yang berakar pada transformasi kesadaran jiwa internal manusia.
-2. **Tadarruj**: Prinsip penerapan tahapan bertahap yang selaras dengan kodrat perkembangan psikologis pembelajar.
-3. **Bi'ah Shalihah**: Lingkungan suci fisik dan sosial yang dirancang untuk menumbuhkan fitrah adab dan mematikan peluang kemungkaran selama 24 jam.
-4. **CPTED**: Rekayasa arsitektur tata ruang untuk mengeliminasi titik buta (*Blindspots*) dan memaksimalkan pengawasan alami.
-5. **Quick Wins**: Hasil positif nyata dalam 90 hari pertama yang membangun keyakinan komunitas atas efektivitas sistem baru.
-6. **Tiered Fidelity Inventory (TFI)**: Instrumen validasi internasional untuk mengukur kepatuhan implementasi sistem pembinaan PBIS.
-7. **Istimrarul 'Amal**: Kontinuitas dan keistiqamahan amal yang menjadi tolok ukur utama keberhasilan pendidikan karakter Islam.
-8. **Unfreezing-Moving-Refreezing**: Tiga tahapan perubahan organisasi Kurt Lewin untuk mencairkan budaya lama, menggerakkan inovasi, dan mengunci norma baru.
-9. **Bridging Turats**: Dialog persuasif yang mengonfirmasikan keselarasan antara inovasi sistem kontemporer dengan khazanah kitab klasik salaf.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip mutlak ekosistem TUMBUH di mana Santri, Musyrif/Guru, dan Sistem Lembaga bertumbuh serempak tanpa saling mengorbankan.
+1. **Transformasi Peradaban Nabawi**: Rekayasa perubahan sosial-spiritual total yang berakar pada kesucian akidah tauhid, pentahapan syariat, tata kelola syura, dan keadilan hukum.
+2. **Sunnatullah at-Taghyir**: Ketetapan hukum kausalitas Ilahi bahwa perubahan kondisi lahiriah umat bergantung pada inisiatif perubahan batiniah jiwanya (*Ma bi Anfusihim*).
+3. **Tadarruj (التَّدَرُّجُ)**: Metodologi pentahapan syariat dalam pembiasaan adab melalui langkah-langkah mikro yang terjangkau (*Atomic Habits*).
+4. **Bi'ah Shalihah**: Ekosistem lingkungan hidup 24 jam yang sehat, aman, terang (*CPTED*), bersih (*Broken Windows Prevention*), dan bebas dari spionase tajassus.
+5. **Tahrim at-Tajassus**: Pengharaman mutlak syariat terhadap perbuatan memata-matai atau mengintai privasi orang lain.
+6. **Total Systemic Re-Engineering**: Perombakan terpadu atas empat dimensi: mindset epistemologis, regulasi SOP, kompetensi SDM, dan tata ruang fisik.
+7. **Dakwah Bil-Hikmah**: Metode komunikasi persuasif yang tepat sasaran, santun, dan merangkul para sesepuh dalam mengelola resistensi perubahan.
+8. **Istimrarul 'Amal**: Kelanggengan dan kontinuitas pengamalan adab sepanjang hayat yang diuji melalui riset longitudinal cohort multi-tahun.
+9. **Tiered Fidelity Inventory (TFI)**: Skor baku integritas kepatuhan penerapan sistem PBIS multi-tier di lembaga (target $\ge 80\%$).
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil manusia paripurna yang menyatukan kesucian iman, ketajaman nalar, keluhuran budi pekerti, dan kepemimpinan peradaban yang memancarkan rahmat bagi semesta alam.
