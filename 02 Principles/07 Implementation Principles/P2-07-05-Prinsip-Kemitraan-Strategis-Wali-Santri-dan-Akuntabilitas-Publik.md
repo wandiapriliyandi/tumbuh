@@ -1,267 +1,247 @@
-# P2-07-05: PRINSIP KEMITRAAN STRATEGIS WALI SANTRI, AKUNTABILITAS PUBLIK, DAN KHIDMAH MASYARAKAT
-## *Monograf Terpadu: Kaidah Al-Amanah wal-Mas'uliyyah (HR. Bukhari No. 893) & Tripartit Pendidikan Islam, Model Kemitraan Keluarga Joyce Epstein (School-Family-Community Partnerships), Transparansi Akuntabilitas Publik Pesantren, Khidmah Sosial Pemberdayaan Warga Sekitar Pondok, serta Mitigasi Konflik Lembaga-Masyarakat*
+# P2-07-05: PRINSIP KEMITRAAN STRATEGIS, AKUNTABILITAS PUBLIK, DAN KHIDMAH MASYARAKAT (STRATEGIC PARTNERSHIP, PUBLIC ACCOUNTABILITY, & COMMUNITY ENGAGEMENT)
+## *Monograf Riset Akademik: Epistemologi Al-Amanah wal-Mas'uliyyah (HR. Bukhari No. 893) & Tripartit Pendidikan Islam, Epstein’s School-Family-Community Framework, Transparansi Tata Kelola Publik Pesantren, Serta Khidmah Sosial Pemberdayaan Warga Lingkungan di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-07-05/MONOGRAF-TERPADU-KEMITRAAN-WALI-AKUNTABILITAS/2026`  
-**Domain**: `02 Principles` > `07 Implementation Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Standar Baku Kemitraan Ekosistem Pesantren)  
+**Nomor Identifikasi**: `P2-07-05/MONOGRAF-RISET-KEMITRAAN-WALI-AKUNTABILITAS/2026`  
+**Domain**: `02 Principles` > `07 Implementation Principles` (Prinsip Implementasi 05: *Strategic Partnership & Public Accountability*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Implementasi)  
 **Rumpun Disiplin Pengkaji**: Manajemen Hubungan Lembaga-Masyarakat (*Educational Public Relations*), Sosiologi Kemitraan Keluarga-Sekolah (*Epstein Framework*), Fiqh Amanah Sosial Islam, Tata Kelola Akuntabilitas Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Pendidikan Pesantren Bukanlah "Menyerahkan Anak Sepenuhnya Tanpa Tanggung Jawab Orang Tua":**  
->   Paradigma lama *"Saya serahkan anak saya hidup atau mati kepada kyai"* diubah menjadi **Kemitraan Tripartit Simbiotik (Pesantren – Orang Tua – Santri)**. Orang tua adalah pendidik utama yang menyelaraskan adab di rumah saat liburan.
-> * **Enam Tipe Kemitraan Keluarga (Joyce Epstein Framework):**  
->   1. *Parenting* (Penyelarasan pola asuh), 2. *Communicating* (Kanal komunikasi transparan dua arah), 3. *Volunteering* (Keterlibatan bakat orang tua), 4. *Learning at Home* (Habituasi adab liburan), 5. *Decision Making* (Komite Majelis Orang Tua Santri), 6. *Collaborating with Community* (Khidmah sosial lingkungan).
-> * **Prinsip "Pondok Menjadi Rahmat Bagi Warga Sekitar" (*Bi'ah Nafiah*):**  
->   Pesantren tidak boleh menjadi menara gading eksklusif bertembok tinggi yang terasing dari tetangga kampung sekitar, melainkan pusat layanan sosial, air bersih gratis, dan pengajian ukhuwah.
+> * **Kelemahan Paradigma Lama: Sikap Eksklusif "Menara Gading" & Ketertutupan Finansial/Tata Kelola:**  
+>   Banyak pesantren bertembok tinggi mengisolasi diri dari warga kampung sekitar, mengabaikan keluhan tetangga atas kebisingan/limbah, dan tertutup mengenai tata kelola keuangan serta penanganan insiden santri. Ketertutupan ini memicu prasangka buruk, konflik sosial dengan warga, dan kecurigaan wali santri.
+> * **Inovasi Konseptual: Al-Amanah wal-Mas'uliyyah & Bi'ah Nafi'ah Rahmatan lil 'Alamin:**  
+>   TUMBUH menegakkan hadits kepemimpinan amanah publik (HR. Bukhari No. 893) dan firman Allah mengenai sebaik-baik manusia adalah yang paling bermanfaat bagi sesamanya (*Khairunnas Anfa'uhum lin-Nas*). Mengintegrasikan teori **School-Family-Community Partnerships (Joyce Epstein)**: menghadirkan **Transparansi Tata Kelola Publik**, **Komite Majelis Wali Santri**, dan **Program Khidmah Sosial Warga Sekitar Pondok (Penyediaan Air Bersih Gratis, Klinik Terbuka, & Bazar Berkah)**.
+> * **Formulasi Operasional & Penjaminan Akuntabilitas:**  
+>   Monograf ini menguraikan matriks 6 pilar kemitraan dan khidmah lingkungan, SOP penanganan komunikasi publik dan keterbukaan informasi, protokol resolusi konflik lembaga-masyarakat, dan etika ukhuwah ijtima'iyyah.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET KEMITRAAN STRATEGIS, AKUNTABILITAS, & KHIDMAH SOSIAL](#bagian-i-riset-kemitraan-strategis-akuntabilitas--khidmah-sosial)
-  - [1. Kerangka Metodologi Kemitraan Ekosistem: Mengapa Keberlanjutan Karakter Santri Membutuhkan Sinergi Rumah-Pondok](#1-kerangka-metodologi-kemitraan-ekosistem-mengapa-keberlanjutan-karakter-santri-membutuhkan-sinergi-rumah-pondok)
-  - [2. Inkuiri 1: Eksegesis Turats Kullukum Ra'in — HR. Bukhari No. 893 & Amanah Tanggung Jawab Kolektif Orang Tua-Pendidik](#2-inkuiri-1-eksegesis-turats-kullukum-rain--hr-bukhari-no-893--amanah-tanggung-jawab-kolektif-orang-tua-pendidik)
-  - [3. Inkuiri 2: Konvergensi School-Family Partnership Theory (Joyce Epstein) & Budaya Komunikasi Terbuka Pesantren](#3-inkuiri-2-konvergensi-school-family-partnership-theory-joyce-epstein--budaya-komunikasi-terbuka-pesantren)
-  - [4. Inkuiri 3: Dekonstruksi Sikap Eksklusif Menara Gading & Desain Program Khidmah Sosial Warga Lingkungan](#4-inkuiri-3-dekonstruksi-sikap-eksklusif-menara-gading--desain-program-khidmah-sosial-warga-lingkungan)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lembaga--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-formulasi-konseptual-standar-kemitraan-tripartit-akuntabilitas-publik-pesantren-tumbuh)
-  - [2. Matriks 6 Tipe Kemitraan Keluarga Epstein Diintegrasikan ke dalam Ekosistem Pesantren](#2-matriks-6-tipe-kemitraan-keluarga-epstein-diintegrasikan-ke-dalam-ekosistem-pesantren)
-  - [3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Tetangga](#3-standar-prosedur-operasional-sop-transparansi-informasi-wali-santri--khidmah-sosial-tetangga)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Kemitraan & Akuntabilitas](#1-tabel-sintesis-hasil-riset-kemitraan--akuntabilitas)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Sikap Menara Gading Eksklusif dan Ketertutupan Akuntabilitas Pesantren](#1-latar-belakang-masalah-kritik-atas-sikap-menara-gading-eksklusif-dan-ketertutupan-akuntabilitas-pesantren)
+  - [2. Eksegesis Turats Amanah Kepemimpinan Publik: Hadits Kullukum Ra'in & Prinsip Khairunnas Anfa'uhum lin-Nas](#2-eksegesis-turats-amanah-kepemimpinan-publik-hadits-kullukum-rain--prinsip-khairunnas-anfauhum-lin-nas)
+  - [3. Konvergensi Sains Kemitraan Komunitas: School-Family-Community Partnerships Framework (Joyce Epstein)](#3-konvergensi-sains-kemitraan-komunitas-school-family-community-partnerships-framework-joyce-epstein)
+  - [4. Rekayasa Transformasi Menjadi Bi'ah Nafi'ah: Program Khidmah Sosial & Transparansi Informasi Terbuka](#4-rekayasa-transformasi-menjadi-biah-nafiah-program-khidmah-sosial--transparansi-informasi-terbuka)
+  - [5. Kasuistika Lapangan: Penyelesaian Gesekan Pesantren-Warga Melalui Penyediaan Akses Air Bersih Komunal](#5-kasuistika-lapangan-penyelesaian-gesekan-pesantren-warga-melalui-penyediaan-akses-air-bersih-komunal)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-kemitraan-tripartit--akuntabilitas-publik-pesantren-tumbuh)
+  - [2. Matriks Enam Tipe Kemitraan Keluarga & Komunitas Epstein dalam Ekosistem Pesantren](#2-matriks-enam-tipe-kemitraan-keluarga--komunitas-epstein-dalam-ekosistem-pesantren)
+  - [3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Warga](#3-standar-prosedur-operasional-sop-transparansi-informasi-wali-santri--khidmah-sosial-warga)
+  - [4. Protokol Mitigasi & Resolusi Konflik Lembaga-Masyarakat (Community Conflict Resolution Protocol)](#4-protokol-mitigasi--resolusi-konflik-lembaga-masyarakat-community-conflict-resolution-protocol)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Kemitraan Strategis & Akuntabilitas](#1-tabel-sintesis-temuan-riset-kemitraan-strategis--akuntabilitas)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Kemitraan Tripartit, Epstein Model, Akuntabilitas, & Khidmah](#4-glosarium-teknis-kemitraan-tripartit-epstein-model-akuntabilitas--khidmah)
+  - [4. Glosarium Istilah Ilmiah & Turats Kemitraan dan Akuntabilitas](#4-glosarium-istilah-ilmiah--turats-kemitraan-dan-akuntabilitas)
 
 ---
 
-# BAGIAN I: RISET KEMITRAAN STRATEGIS, AKUNTABILITAS, & KHIDMAH SOSIAL
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Kemitraan Ekosistem: Mengapa Keberlanjutan Karakter Santri Membutuhkan Sinergi Rumah-Pondok
+### 1. Latar Belakang Masalah: Kritik atas Sikap Menara Gading Eksklusif dan Ketertutupan Akuntabilitas Pesantren
 
-Riset longitudinal pendidikan membuktikan terjadinya fenomena **"Kebocoran Karakter Musim Liburan (*Holiday Adab Regression*)"**:
-* Santri yang selama 5 bulan di asrama telah tertib shalat berjamaah dan bertutur kata santun, sering kali mengalami kemunduran drastis hanya dalam 2 pekan liburan di rumah karena orang tua membiarkan anak kecanduan gawai tanpa batas.
-* Sebaliknya, konflik antara wali santri dan pihak pondok (misal: terkait transparansi uang makan atau isu kedisiplinan) kerap memicu kepanikan massal di media sosial jika tidak ada kanal komunikasi resmi yang transparan.
-* Ekosistem TUMBUH merancang **Kemitraan Tripartit Simbiotik**: menghubungkan asatidz, orang tua, dan warga sekitar pondok dalam satu visi peradaban yang transparan, akuntabel, dan saling menguatkan.
+Sebagian lembaga pesantren modern kerap terjebak dalam **Sindrom Menara Gading Eksklusif (*The Exclusive Ivory Tower Syndrome*)**:
+* Pesantren membangun tembok benteng tinggi yang menutup akses interaksi dengan warga perkampungan sekitar, santri dilarang menyapa warga, dan pimpinan pondok tidak pernah hadir dalam musyawarah rukun warga.
+* Di sisi lain, tata kelola keuangan dana infaq/SPP dan laporan penanganan kasus santri ditutup rapat dari akses wali santri tanpa akuntabilitas yang jelas.
+* **Kerusakan Hubungan Sosial**: Ketertutupan memicu kecurigaan publik, ketegangan sosial saat terjadi masalah parkir atau limbah air, dan kerapuhan dukungan komunitas saat pesantren menghadapi fitnah luar.
+* **Keniscayaan Kemitraan Strategis dan Akuntabilitas Publik**: Pesantren dalam Islam adalah lembaga wakaf umat yang wajib memancarkan kemaslahatan (*Rahmatan lil 'Alamin*), berkhidmat bagi lingkungan (*Bi'ah Nafi'ah*), dan akuntabel di hadapan Allah SWT serta masyarakat.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph EkosistemKemitraanTripartitTUMBUH["KEMITRAAN TRIPARTIT SIMBIOTIK PESANTREN TUMBUH"]
-        Pesantren["1. PESANTREN / ASATIDZ:<br/>Menyediakan pendidikan adab 24 jam, laporan naratif berkala, & transparansi tata kelola."]
+    subgraph TransformasiRelasiMasyarakat["TRANSFORMASI HUBUNGAN PESANTREN & PUBLIK"]
+        PolaMenaraGadingLama["MENARA GADING EKSKLUSIF & TERTUTUP (LAMA)<br/>• Tembok tinggi terasing dari warga kampung.<br/>• Ketertutupan tata kelola & picu kecurigaan.<br/>• Konflik limbah/parkir tanpa dialog damai."]
         
-        OrangTua["2. KELUARGA / ORANG TUA SANTRI:<br/>Menjadi mitra sevisi; melanjutkan habituasi adab di rumah saat liburan; dialog SLC."]
+        PolaKemitraanTUMBUH["KEMITRAAN TRIPARTIT & BI'AH NAFI'AH (TUMBUH)<br/>• Khairunnas Anfa'uhum lin-Nas & HR. Bukhari 893.<br/>• Epstein Community Model: Khidmah warga komunal.<br/>• Laporan akuntabilitas publik transparan & berkah."]
         
-        Masyarakat["3. WARGA SEKITAR & MASYARAKAT:<br/>Menjadi lingkungan pendukung yang aman; kolaborasi khidmah sosial & dakwah rahmatan lil 'alamin."]
-        
-        Pesantren <===> OrangTua
-        OrangTua <===> Masyarakat
-        Masyarakat <===> Pesantren
-        
-        Pusat["KARAKTER INSAN ADABI SANTRI TERPELIHARA KONSISTEN SEUMUR HIDUP"]
-        
-        Pesantren & OrangTua & Masyarakat ==> Pusat
+        PolaMenaraGadingLama ==>|DIREKONSTRUKSI MENJADI| PolaKemitraanTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kullukum Ra'in — HR. Bukhari No. 893 & Amanah Tanggung Jawab Kolektif Orang Tua-Pendidik
+### 2. Eksegesis Turats Amanah Kepemimpinan Publik: Hadits Kullukum Ra'in & Prinsip Khairunnas Anfa'uhum lin-Nas
 
-```mermaid
-graph TD
-    A["Gugatan Lepas Tangan (Pihak A):<br/>'Kami sudah bayar SPP mahal ke pondok; jadi urusan moral anak 100% tanggung jawab asatidz, orang tua tidak mau repot!'"]
-    --> B1["Tinjauan Hadits Shahih Bukhari No. 893:<br/>'Kullukum raa'in wa kullukum mas'uulun 'an ra'iyyatihi... war-rajulu raa'in fi ahli baitihi' (Setiap kalian adalah pemimpin dan akan dimintai pertanggungjawaban atas yang dipimpinnya... dan seorang ayah adalah pemimpin di rumahnya)."]
-    A --> B2["Tinjauan Tafsir Surah At-Tahrim: 6:<br/>'Quu anfusakum wa ahliikum naara' (Jagalah dirimu dan KELUARGAMU dari api neraka)."]
-    A --> B3["Tinjauan Kaidah Al-Ghurmu bil Ghunmi:<br/>Kemanfaatan masa depan anak yang shalih dinikmati oleh orang tua, maka beban pendidikan wajib dipikul bersama."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Pendidikan anak adalah amanah bersama yang menuntut kemitraan aktif antara pondok dan keluarga."]
-```
+Rasulullah ﷺ menegaskan bahwa sebaik-baik manusia adalah yang memberikan kemanfaatan sosial terluas:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pemutusan peran orang tua dalam pengasuhan anak saat berada di pesantren memicu inkonsistensi karakter dan melanggar amanah syariat *Quu Anfusakum wa Ahlikum Naara*.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kerangka kerja kemitraan TUMBUH menyelaraskan pembiasaan adab asrama dengan pola asuh orang tua di rumah.
-* **Konklusi (*an-Natijah*)**: Maka, standarisasi program kemitraan wali santri adalah rukun implementasi yang wajib ditegakkan lembaga.[^1]
+$$\text{خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ}$$
 
-#### 📖 Teks Primer Hadits: Tanggung Jawab Kepemimpinan Kolektif
-Rasulullah SAW bersabda:
+*"**Sebaik-baik manusia adalah yang paling banyak memberikan manfaat bagi sesama manusia**."* (HR. Ath-Thabarani & Al-Qudha'i).[^2]
 
-$$\text{كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ ... وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا}$$
+Rasulullah ﷺ juga meletakkan prinsip akuntabilitas kepemimpinan institusi:
 
-*"**Setiap kalian adalah PEMIMPIN dan setiap kalian AKAN DIMINTAI PERTANGGUNGJAWABAN ATAS APA YANG DIPIMPINNYA: ... Seorang laki-laki (ayah) adalah pemimpin bagi keluarganya dan bertanggung jawab atas mereka, dan seorang wanita (ibu) adalah pemimpin di rumah suaminya dan bertanggung jawab atas amanahnya!**"* (HR. Bukhari No. 893; Muslim No. 1829).[^2]
+$$\text{كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ}$$
+
+*"**Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya di hadapan Allah**."* (HR. Al-Bukhari No. 893 & Muslim No. 1829).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *School-Family Partnership Theory* (Joyce Epstein) & Budaya Komunikasi Terbuka Pesantren
+### 3. Konvergensi Sains Kemitraan Komunitas: School-Family-Community Partnerships Framework (Joyce Epstein)
 
-Profesor sosiologi Johns Hopkins University **Joyce L. Epstein** merumuskan *Six Types of Parent Involvement*:
-1. **Parenting:** Pesantren menyelenggarakan *Sekolah Orang Tua Santri (Parenting Nabawi)* berkala.
-2. **Communicating:** Menyediakan Dashboard Wali Santri Digital dan Laporan Naratif 3 Pilar.
-3. **Volunteering:** Mengundang orang tua berbagi keahlian profesional (dokter, insinyur, pengusaha) ke santri.
-4. **Learning at Home:** Panduan *Buku Agenda Adab Liburan* yang dipantau bersama orang tua.
-5. **Decision Making:** Forum Komite Majelis Wali Santri untuk masukan strategis kebijakan pondok.
-6. **Collaborating with Community:** Bakti sosial terpadu bersama keluarga santri untuk warga desa sekitar.[^3]
+Sains sosiologi pendidikan modern (**Community Engagement**, Joyce Epstein, 2018; Henderson & Mapp, 2002) membuktikan:
+* Sekolah yang mengintegrasikan komunitas sekitar (*Community-School Nexus*) mengalami penurunan tingkat konflik eksternal hingga 90% dan meningkatkan modal sosial (*Social Capital*) para peserta didik.
+* Mengintegrasikan kemitraan 3 pilar: Pesantren, Majelis Wali Santri, dan Warga Masyarakat Sekitar.[^4]
 
 ---
 
-### 4. Inkuiri 3: Dekonstruksi Sikap Eksklusif Menara Gading & Desain Program Khidmah Sosial Warga Lingkungan
+### 4. Rekayasa Transformasi Menjadi Bi'ah Nafi'ah: Program Khidmah Sosial & Transparansi Informasi Terbuka
+
+TUMBUH merealisasikan pengabdian lingkungan:
+* **Program Tiga Khidmah Tetangga**: (1) Akses air bersih siap minum gratis bagi warga kampung; (2) Pengajian ukhuwah bulanan dan layanan bimbingan tahsin gratis; (3) Pasar Berkah Sembako Murah berkala.
+* **Transparansi Informasi Publik**: Penyediaan kanal laporan tahunan tata kelola dan sistem penerimaan aduan warga (*Public Accountability Dashboard*).[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Penyelesaian Gesekan Pesantren-Warga Melalui Penyediaan Akses Air Bersih Komunal
+
+* **Studi Kasus: Warga Kampung Sekitar Pesantren Memprotes Sumur Bor Pondok yang Dituduh Menyedot Air Sumur Warga Saat Kemarau**  
+  * **Dilema**: Terjadi ketegangan antarpemuda kampung dan santri yang berisiko memicu demonstrasi penutupan jalan pondok.
+  * **Resolusi Kemitraan Komunitas TUMBUH**: Direktur Pengasuhan dan Pengurus Pondok turun langsung: (1) Mengundang Ketua RT, RW, dan tokoh masyarakat bermusyawarah di aula pondok (*Tabayyun Ukhuwah*); (2) Membuka instalasi pipa air bersih dari tandon utama pesantren ke 4 titik kran umum di perkampungan warga (*Water Sharing Program*); (3) Menggratiskan suplai air bersih bagi seluruh warga selama musim kemarau. Ketegangan mencair seketika; warga kampung justru bergotong-royong menjaga keamanan lingkungan pondok dengan penuh cinta.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan akuntabilitas ke dalam **Arsitektur Tiga Sayap Kemitraan dan Khidmah (*Arkan al-Khidmah al-Ijtima'iyyah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph ProgramKhidmahMasyarakatTUMBUH["INTEGRASI KHIDMAH SOSIAL LINGKUNGAN PONDOK"]
-        SentraAir["1. SUMBER AIR BERSIH & FASILITAS UMUM GRATIS<br/>Pondok membagikan air minum & membuka klinik pengobatan bagi tetangga sekitar."]
+    subgraph ArsitekturKemitraanMasyarakatTUMBUH["ARSITEKTUR KEMITRAAN STRATEGIS & KHIDMAH"]
         
-        PengajianWarga["2. HALAQAH TA'LIM & PENGAJIAN PEKANAN WARGA<br/>Asatidz mengisi kajian agama di masjid-masjid kampung sekitar pondok."]
+        K1_Sayap["1. SINERGI MAJELIS WALI SANTRI (Parent-School Council)<br/>Keterlibatan aktif komite orang tua dalam perumusan kebijakan adab & monitoring rapor."]
         
-        PemberdayaanEkonomi["3. PEMBERDAYAAN EKONOMI LOKAL (PASAR BERKAH)<br/>Kebutuhan sayur mayur dapur pondok dibeli dari petani warga setempat."]
+        K2_Sayap["2. PROGRAM KHIDMAH BI'AH NAFI'AH (Community Social Services)<br/>Layanan air bersih komunal, klinik gratis, pasar berkah sembako, & pembinaan tahsin warga."]
         
-        SantriKhidmah["4. PROGRAM SANTRI BERKHIDMAH (KERJA BAKTI DESA)<br/>Santri Jenjang J4 memimpin pembersihan saluran air & penghijauan desa."]
+        K3_Sayap["3. AKUNTABILITAS TATA KELOLA PUBLIK (Public Transparency System)<br/>Laporan tahunan berkala, kanal aduan terbuka, & audit independen amanah wakaf umat."]
         
-        SentraAir --> PengajianWarga --> PemberdayaanEkonomi --> SantriKhidmah
+        K1_Sayap <===> K2_Sayap <===> K3_Sayap
+    end
+```
+
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Sinergi Majelis Wali Santri**: Membangun rasa kepemilikan bersama (*Sense of Shared Ownership*) antara keluarga dan pondok.[^7]
+2. **Sayap Program Khidmah Bi'ah Nafi'ah**: Menghadirkan eksistensi pesantren sebagai sumber solusi nyata bagi problem masyarakat sekitar.[^8]
+3. **Sayap Akuntabilitas Tata Kelola**: Menjaga kesucian amanah wakaf umat dan reputasi mulia lembaga dari fitnah finansial.[^9]
+
+---
+
+### 2. Matriks Enam Tipe Kemitraan Keluarga & Komunitas Epstein dalam Ekosistem Pesantren
+
+| Dimensi Kemitraan | Fokus Aksi Kemitraan di Pesantren TUMBUH | Sasaran Mitra |
+| :--- | :--- | :--- |
+| **1. Parenting Adab** | Seminar parenting syar'i & mitigasi kecanduan gawai anak.| Wali Santri Baru & Lama.|
+| **2. Transparansi Info** | Dashboard PBIS digital, laporan keuangan tahunan wakaf.| Wali Santri & Donatur.|
+| **3. Khidmah Relawan** | Pelibatan dokter/arsitek/profesional wali santri di pondok.| Komite Orang Tua.|
+| **4. Kesinambungan Rumah**| Piagam adab liburan, pengawasan shalat berjamaah rumah.| Keluarga di Rumah.|
+| **5. Musyawarah Majelis**| Forum dengar pendapat penyusunan statuta tata tertib santri.| Perwakilan Komite Wali.|
+| **6. Khidmah Warga** | Pipa air bersih gratis, bazar sembako murah, pengajian RW.| Warga Kampung Sekitar.|
+
+---
+
+### 3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Warga
+
+```mermaid
+flowchart TD
+    subgraph SOPTransparansiDanKhidmah["SOP TRANSPARANSI & KHIDMAH PUBLIK"]
+        PenerbitanLaporanTahunan["1. LAPORAN TAHUNAN: Menerbitkan Laporan Akuntabilitas Akademik & Keuangan Terbuka"]
+        --> LayananAduanPublik["2. LAYANAN SATU PINTU: Menerima Masukan/Keluhan Warga & Wali Cepat Tanggap (<24 Jam)"]
+        --> EksekusiKhidmahWarga["3. PROGRAM BULANAN KHIDMAH: Penyaluran Air Bersih, Klinik Gratis, & Pengajian Warga"]
+        --> ForumMusyawarahRW["4. SILATURAHMI SEMESTERAN: Pimpinan Pondok Hadir Duduk Bersama Pengurus RT/RW"]
     end
 ```
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus
+### 4. Protokol Mitigasi & Resolusi Konflik Lembaga-Masyarakat (Community Conflict Resolution Protocol)
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Orang Tua Tidak Boleh Terlalu Banyak Diberi Tahu Soal Masalah Anak Biar Tidak Panik"
-* **Pihak A (Sudut Pandang Ketertutupan Informasi)**:  
-  *"Sembunyikan saja masalah pelanggaran anak dari orang tua biar pondok tidak disalahkan!"*
-* **Tinjauan Maqashid Amanah & Akuntabilitas**:  
-  Menyembunyikan masalah santri dari orang tua adalah pelanggaran amanah (*Khianat*). Ketika masalah akhirnya meledak, orang tua akan merasa dikhianati dan menuntut secara hukum. Transparansi dini yang disampaikan secara santun dan solutif (*Feed-Forward*) justru membangun kepercayaan mendalam (*Trust*).[^4]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Keterlibatan Komite Orang Tua Tidak Mengintervensi Otoritas Kyai/Pimpinan?
-* **Pihak A (Sudut Pandang Feodalisme Kebijakan)**:  
-  *"Kyai pemegang otoritas mutlak; masukan orang tua akan merusak tradisi pondok!"*
-* **Tinjauan Syura Nabawiyyah & Batasan Mandat**:  
-  Musyawarah (*Syura*) adalah perintah Al-Qur'an (QS. Asy-Syura: 38). Komite Orang Tua berfungsi sebagai mitra pertimbangan (*Advisory Board*) dalam peningkatan fasilitas dan layanan santri, sementara otoritas keilmuan syariat dan kurikulum tetap berada di bawah Majelis Masyayikh yang kompeten.[^5]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Pesantren Wajib Membuka Pintu Khidmah Bagi Warga Sekitar?
-* **Pihak A (Sudut Pandang Isolasi Steril)**:  
-  *"Warga sekitar jangan dibiarkan masuk; nanti mengganggu ketenangan belajar santri!"*
-* **Resolusi Dakwah Rahmatan Lil 'Alamin**:  
-  Pesantren yang memusuhi atau mengabaikan tetangga sekitar akan rentan mengalami konflik sosial, sabotase, atau penolakan izin lingkungan. Pesantren yang dermawan dan menjadi sumber manfaat ekonomi bagi warga akan dijaga dan dibela dengan tulus oleh masyarakat kampung sekitarnya.[^6]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di sebuah pesantren cabang, terjadi gesekan dengan warga kampung karena genangan air pembuangan pondok meluap ke sawah warga. Warga memblokir jalan masuk pondok.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pimpinan TUMBUH mengaktifkan protokol kemitraan sosial: Mengadakan musyawarah ishlah dengan kepala desa dan tokoh warga $\rightarrow$ Membangun sistem drainase modern dan instalasi sumur resapan bersama $\rightarrow$ Mempekerjakan warga lokal dalam operasional dapur pondok $\rightarrow$ Memberikan beasiswa penuh tahfizh bagi 5 anak warga desa sekitar. Konflik padam total, jalan dibuka kembali dengan sukacita, dan warga menjadi benteng pelindung pondok yang paling setia.[^7]
+TUMBUH menetapkan **Protokol Resolusi Konflik Lingkungan**:
+1. **Dilarang Arogan Lembaga**: Mengedepankan kerendahan hati (*Tawadhu'*) saat menerima kritik dari warga tetangga pondok.
+2. **Kunjungan Silaturahmi Langsung**: Pimpinan turun menemui tokoh masyarakat dalam waktu 1x24 jam sejak timbulnya keluhan.
+3. **Solusi Musyawarah Mufakat (*Shulh*)**: Menyepakati solusi bersama yang menguntungkan kedua belah pihak (*Win-Win Solution*).[^10]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Prinsip kemitraan strategis dan akuntabilitas publik ini membawa implikasi agung bagi peradaban:
+
+* **Mengembalikan Hakikat Pesantren Sebagai Jantung Peradaban Masyarakat**:  
+  Pesantren tidak lagi terasing dari denyut nadi kehidupan umat, melainkan menjadi pusat pemberdayaan sosial dan pencerahan moral.
+* **Membangun Standar Baru Tata Kelola Pendidikan Islam yang Transparan dan Bersih**:  
+  Pesantren memimpin peradaban dalam akuntabilitas publik, membuktikan bahwa amanah syariat dapat dipertanggungjawabkan secara profesional.
+* **Melahirkan Santri yang Memiliki Kepekaan Sosial dan Jiwa Khidmah Tinggi**:  
+  Santri terbiasa melayani masyarakat, menyapa tetangga, dan kelak menjadi pemimpin yang dicintai oleh rakyatnya (*Rahmatan lil 'Alamin*).[^11]
 
 ---
 
-### 1. Formulasi Konseptual: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kemitraan Tripartit Pendidikan Simbiotik (pesantren - Rumah - Masyarakat)**:  
-   Menetapkan bahwa keberhasilan pendidikan adab adalah tanggung jawab bersama; mengharamkan pemutusan peran keluarga dan mewajibkan kesinambungan pembiasaan adab di asrama dan rumah saat liburan.
-
-2. **Penerapan Standar Enam Tipe Kemitraan Keluarga Joyce Epstein**:  
-   Mewajibkan penyelenggaraan Sekolah Parenting Nabawi, Dashboard Laporan Naratif Digital, Buku Agenda Adab Liburan, serta forum Majelis Syura Komite Wali Santri sebagai mitra strategis kemajuan lembaga.
-
-3. **Pesantren Sumber Rahmat Bagi Masyarakat Sekitar (bi'ah Nafi'ah)**:  
-   Mengharamkan sikap eksklusif menara gading; mewajibkan lembaga mengalirkan manfaat nyata bagi warga desa sekitar melalui akses air bersih, layanan kesehatan, pasar berkah lokal, dan beasiswa anak warga.
-
-4. **Akuntabilitas Publik & Transparansi Tata Kelola Amanah**:  
-   Menegakkan transparansi pelaporan perkembangan karakter santri dan tata kelola sarana prasarana secara jujur dan berkala, mengeliminasi praduga negatif, serta menjaga marwah integritas pesantren di mata umat.
-
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 
-### 2. Matriks 6 Tipe Kemitraan Keluarga Epstein Diintegrasikan ke dalam Ekosistem Pesantren
+### 1. Tabel Sintesis Temuan Riset Kemitraan Strategis & Akuntabilitas
 
-| Tipe Kemitraan Epstein | Program Konkret Pesantren TUMBUH | Frekuensi Pelaksanaan | Dampak Terhadap Karakter Santri |
-| :--- | :--- | :--- | :--- |
-| **1. Parenting (Pola Asuh)** | *Sekolah Parenting Nabawi & Tazkiyah Keluarga* | 1 Kali Tiap Semester | Keselarasan gaya komunikasi orang tua di rumah.[^8] |
-| **2. Communicating (Komunikasi)**| Dashboard Digital & Laporan Naratif 3 Pilar | *Real-time* & Akhir Semester | Orang tua memahami progres tanpa prasangka buruk. |
-| **3. Volunteering (Kerelawanan)**| *Guest Lecture Day* (Orang tua berbagi profesi) | 1 Kali Tiap Bulan | Membuka wawasan karir dan inspirasi santri. |
-| **4. Learning at Home (Rumah)**| *Buku Jurnal Adab Liburan & Muroja'ah Mandiri* | Setiap Masa Liburan | Mencegah kemunduran adab (*Zero Adab Loss*).[^9] |
-| **5. Decision Making (Musyawarah)**| Majelis Syura Komite Orang Tua Santri | 2 Kali Tiap Tahun | Peningkatan kualitas layanan berbasis masukan konstruktif. |
-| **6. Collaborating (Komunitas)** | Khidmah Sosial Santri T4 & Pasar Berkah Warga | Pekanan & Hari Besar Islam | Santri berjiwa dermawan dan diterima hangat warga.[^10] |
-
----
-
-### 3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Tetangga
-
-```mermaid
-flowchart TD
-    subgraph SOPKemitraanDanKhidmahTUMBUH["SOP KEMITRAAN WALI SANTRI & KHIDMAH SOSIAL"]
-        LaporanRutin["1. PUBLIKASI LAPORAN NARATIF & TREN PBIS BERKALA<br/>Orang tua mengakses portofolio adab santri melalui portal resmi digital."]
-        
-        ParentingPondok["2. WORKSHOP PARENTING NABAWI SEBELUM MASA LIBURAN<br/>Asatidz membekali orang tua tips menjaga ritme ibadah santri di rumah."]
-        
-        KemitraanDesa["3. FORUM SILATURRAHMI BULANAN DENGAN TOKOH WARGA SEKITAR<br/>Membahas keamanan lingkungan, kebersihan bersama, & penyerapan logistik."]
-        
-        BaktiKhidmah["4. EKSEKUSI BAKTI SOSIAL & PENGAJIAN AKBAR KOMUNITAS<br/>Santri dan asatidz terjun melayani kebutuhan sosial warga sekitar pondok."]
-        
-        LaporanRutin --> ParentingPondok --> KemitraanDesa --> BaktiKhidmah
-    end
-```
-
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
-
----
-
-### 1. Tabel Sintesis Hasil Riset Kemitraan & Akuntabilitas
-
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Implementasi Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Amanah Bersama** | *Kullukum Ra'in* | HR. Bukhari No. 893, QS. At-Tahrim: 6 | Epstein (2018), *School, Family, and Community Partnerships* | Membangun kemitraan tripartit yang harmonis. |
-| **Syura Terbuka** | *Wa Amruhum Syura* | QS. Asy-Syura: 38, HR. Tirmidzi 1714 | Henderson & Mapp (2002), *A New Wave of Evidence* | Menyelenggarakan forum Majelis Komite Wali Santri. |
-| **Khidmah Sosial** | *Khairunnas Anfa'uhum*| Hadits Manfaat (HR. Thabrani), QS. 21:107 | Bowen & Ostroff (2004), *HRM & Social Climate* | Menjadikan pesantren rahmat bagi warga kampung sekitar. |
-| **Habituasi Liburan**| *Istiqamah fil Bayt* | Hadits Amal Berkelanjutan (HR. Muslim 782) | Cooper et al. (1996), *Summer Learning Loss Effects* | Menerapkan Buku Agenda Adab Liburan terpadu. |
+| Dimensi Parameter | Mazhab Menara Gading Eksklusif (Lama) | Model Hubungan Transaksional | **Kemitraan Tripartit & Khidmah TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Relasi Tetangga** | Menutup diri & pasang tembok tinggi.| Hubungan dingin tanpa sapaan.| **Khidmah Sosial Warga (Bi'ah Nafi'ah).**| Khairunnas Anfa'uhum; Epstein.| Air bersih gratis, klinik, & pengajian RW. |
+| **Tata Kelola Data** | Tertutup rapat & picu kecurigaan.| Laporan seadanya saat diminta.| **Transparansi Akuntabilitas Publik.** | HR. Bukhari No. 893; TQM.| Laporan tahunan terbuka & audit wakaf. |
+| **Peran Komite Wali**| Sekadar juru tarik sumbangan uang.| Pasif tanpa keterlibatan ide.| **Majelis Konsultasi Wali Sejajar.** | Epstein (2018); Henderson (2002).| Terlibat perumusan kebijakan adab. |
+| **Resolusi Konflik** | Menantang warga secara hukum.| Membayar preman / mengabaikan.| **Musyawarah Shulh Rendah Hati.** | Fiqh ash-Shulh; QS. Al-Hujurat: 10.| Kunjungan 1x24 jam & solusi mufakat. |
+| **Hasil Institusi** | Konflik sosial & fitnah publik.| Dukungan eksternal rapuh.| **Pusat Rahmat & Dicintai Seluruh Umat.**| QS. Al-Qashash: 77; Al-Attas (1980).| Ekosistem berkah & modal sosial kuat. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **At-Thabrani, Sulaiman bin Ahmad**. (1995). *Al-Mu'jam al-Awsath*. Kairo: Dar al-Haramain.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Epstein, J. L.**. (2018). *School, Family, and Community Partnerships: Preparing Educators and Improving Schools* (2nd ed.). Routledge.
-7. **Henderson, A. T., & Mapp, K. L.**. (2002). *A New Wave of Evidence: The Impact of School, Family, and Community Connections on Student Achievement*. SEDL.
-8. **Bowen, D. E., & Ostroff, C.**. (2004). *Understanding HRM-firm performance linkages: The role of the "strength" of the HRM system*. Academy of Management Review.
-9. **Cooper, H., et al.**. (1996). *The effects of summer vacation on achievement test scores: A narrative and meta-analytic review*. Review of Educational Research.
-10. **Bryk, A. S., & Schneider, B.**. (2002). *Trust in Schools: A Core Resource for Improvement*. Russell Sage Foundation.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Ath-Thabarani, Sulaiman bin Ahmad**. (1415 H). *Al-Mu'jam al-Awsath* (Hadits Khairunnas Anfa'uhum lin-Nas). Kairo: Dar al-Haramain.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Adab al-Ulfah wal-Ukhuwwah wa Huquq al-Jiwar). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Epstein, J. L.**. (2018). *School, Family, and Community Partnerships: Preparing Educators and Improving Schools* (2nd ed.). New York: Routledge.
+9. **Henderson, A. T., & Mapp, K. L.**. (2002). *A New Wave of Evidence: The Impact of School, Family, and Community Connections on Student Achievement*. Austin: SEDL.
+10. **Putnam, R. D.**. (2000). *Bowling Alone: The Collapse and Revival of American Community*. New York: Simon & Schuster.
+11. **Bryk, A. S., & Schneider, B.**. (2002). *Trust in Schools: A Core Resource for Improvement*. New York: Russell Sage Foundation.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Riyadhatun Nafs*, Jilid III, hlm. 74–90.  
-[^2]: Shahih al-Bukhari No. 893, Kitab *al-Jumu'ah*, Bab *al-Jumu'atu fil Qura wal-Mudun*.  
-[^3]: Epstein, J. L. (2018), *School, Family, and Community Partnerships*, Routledge, hlm. 60–120.  
-[^4]: Bryk & Schneider (2002), *Trust in Schools*, Russell Sage Foundation.  
-[^5]: Henderson & Mapp (2002), *A New Wave of Evidence*, SEDL.  
-[^6]: Al-Mu'jam al-Awsath At-Thabrani No. 5787; Al-Albani menilainya Hasan dalam *Shahih al-Jami'*.  
-[^7]: Laporan Resolusi Konflik Sosial dan Kemitraan Warga Sekitar Pondok, Humas TUMBUH, 2026.  
-[^8]: Modul Sekolah Parenting Nabawi Pesantren TUMBUH, Biro Konseling Keluarga, 2026.  
-[^9]: Cooper et al. (1996), *Review of Educational Research*, hlm. 227–268.  
-[^10]: Panduan Pelaksanaan Khidmah Sosial Santri Jenjang J4, Komite Pengabdian Masyarakat TUMBUH, 2026.
+[^1]: Riset Prinsip Kemitraan Strategis, Akuntabilitas Publik, dan Khidmah Masyarakat TUMBUH, *Kritik atas Menara Gading Eksklusif*, 2026.  
+[^2]: *Al-Mu'jam al-Awsath* karya Ath-Thabarani, Hadits No. 5787; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Huquq al-Jiwar*, hlm. 210–235.  
+[^3]: *Shahih al-Bukhari*, Kitab al-Jumu'ah, Hadits No. 893; *Shahih Muslim*, Hadits No. 1829.  
+[^4]: Epstein, J. L. (2018), *School, Family, and Community Partnerships*; Henderson & Mapp (2002); Putnam, R. D. (2000).  
+[^5]: Master Blueprint Khidmah Sosial Tetangga dan Transparansi Tata Kelola Publik TUMBUH, 2026.  
+[^6]: Dokumentasi Mediasi Resolusi Sengketa Akses Air Bersih Warga PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Struktur Majelis Komite Wali Santri Ekosistem TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur Program Layanan Khidmah Warga Lingkungan TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Laporan Tahunan Keterbukaan Informasi dan Akuntabilitas Publik TUMBUH, 2026.  
+[^10]: Master Guidelines Protokol Resolusi Konflik Lembaga-Masyarakat TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Khidmah Peradaban Umat Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Kemitraan Tripartit, Epstein Model, Akuntabilitas, & Khidmah
+### 4. Glosarium Istilah Ilmiah & Turats Kemitraan dan Akuntabilitas
 
-1. **Kemitraan Tripartit**: Model kolaborasi sinergis antara Pesantren (Asatidz/Musyrif), Keluarga (Orang Tua), dan Masyarakat sekitar pondok.
-2. **Kullukum Ra'in (كُلُّكُمْ رَاعٍ)**: Kaidah kenabian mengenai tanggung jawab moral kepemimpinan kolektif dalam mendidik generasi penerus.
-3. **Six Types of Parent Involvement (Joyce Epstein)**: Kerangka kerja 6 pilar kemitraan keluarga: *Parenting, Communicating, Volunteering, Learning at Home, Decision Making,* dan *Collaborating with Community*.
-4. **Holiday Adab Regression**: Fenomena penurunan mutu kedisiplinan dan adab santri yang terjadi selama masa liburan di rumah akibat ketiadaan habituasi terstruktur.
-5. **Bi'ah Nafi'ah (بِيئَةٌ نَافِعَةٌ)**: Lingkungan pesantren yang menjadi sumber manfaat, berkah, dan kemaslahatan nyata bagi masyarakat di sekitarnya.
-6. **Student-Led Conferences (SLC)**: Pertemuan evaluasi rapor yang dipimpin secara mandiri oleh santri di hadapan orang tua untuk mempresentasikan portofolionya.
-7. **Syura (الشُّورَى)**: Musyawarah perundingan berbasis adab Islam untuk mencapai keputusan strategis yang membawa maslahat bersama.
-8. **Relational Trust**: Derajat kepercayaan timbal balik yang tulus antara guru, orang tua, santri, dan pimpinan sekolah.
-9. **Khidmah Ijtima'iyyah (خِدْمَةٌ اجْتِمَاعِيَّةٌ)**: Pengabdian sosial nyata untuk membantu mengatasi kesulitan hidup dan meningkatkan kesejahteraan sesama warga.
-10. **Triad Pertumbuhan Simbiotik**: Maha-prinsip di mana kemitraan yang transparan dan harmonis secara serempak menumbuhkan Santri, memuliakan Pendidik, dan mengukuhkan Lembaga.
+1. **Strategic Community Partnership (Kemitraan Strategis)**: Pola kerjasama berkelanjutan antara lembaga pesantren, wali santri, dan masyarakat lingkungan sekitar untuk saling mendukung.
+2. **Khairunnas Anfa'uhum lin-Nas (خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ)**: Doktrin profetik Islam bahwa derajat kemuliaan seseorang atau lembaga ditentukan oleh seberapa besar manfaat sosial yang dihadirkannya bagi sesama.
+3. **Al-Amanah wal-Mas'uliyyah (الأَمَانَةُ وَالْمَسْئُولِيَّةُ)**: Prinsip pertanggungjawaban moral, operasional, dan finansial tertinggi dalam tata kelola institusi Islam.
+4. **Bi'ah Nafi'ah (بِيئَةٌ نَافِعَةٌ)**: Lingkungan pesantren yang menjadi sumber kebaikan, kedamaian, dan solusi nyata bagi problematika warga di sekitarnya.
+5. **Huquq al-Jiwar (حُقُوقُ الْجِوَارِ)**: Hak-hak tetangga dalam syariat Islam yang wajib dijaga kehormatannya, dipenuhi kebutuhannya, dan dilindungi dari gangguan.
+6. **Ivory Tower Syndrome (Sindrom Menara Gading)**: Sikap eksklusif lembaga pendidikan yang merasa lebih suci/tinggi sehingga mengisolasi diri dari realitas sosial masyarakat sekitarnya.
+7. **Social Capital (Modal Sosial)**: Jaringan kepercayaan, norma timbal balik, dan hubungan harmonis yang terbangun antara pesantren dan masyarakat.
+8. **Public Accountability Dashboard**: Sistem keterbukaan informasi publik yang mempublikasikan laporan program, rekam jejak capaian adab, dan tata kelola wakaf secara transparan.
+9. **Water Sharing Program**: Program khidmah nyata pesantren membagikan akses air bersih gratis bagi warga tetangga pondok sebagai wujud kepedulian sosial.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri dan pendidik yang rendah hati, berakhlak mulia di tengah masyarakat, dan senantiasa berkhidmat menebar manfaat bagi peradaban.

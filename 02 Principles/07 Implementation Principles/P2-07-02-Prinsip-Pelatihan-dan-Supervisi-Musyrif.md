@@ -1,309 +1,241 @@
-# P2-07-02: PRINSIP PELATIHAN DAN SUPERVISI MUSYRIF
-## *Monograf Terpadu: Epistemologi Tarbiyatul Murabbi Qabla Tarbiyatis Santri & Tazkiyatun Nafs Pengasuh, Konvergensi Continuing Professional Development & Peer Coaching Model (Joyce & Showers), Mitigasi Burnout Musyrif (Christina Maslach), dan Protokol Halaqah Reflektif Pekanan*
+# P2-07-02: PRINSIP PELATIHAN DAN SUPERVISI MUSYRIF (EDUCATOR TRAINING & CLINICAL SUPERVISION)
+## *Monograf Riset Akademik: Epistemologi Tarbiyatul Murabbi Qabla Tarbiyatis Santri & Tazkiyatun Nafs Pengasuh, Continuing Professional Development & Peer Coaching Model (Joyce & Showers), Mitigasi Burnout Maslach, Serta Protokol Halaqah Reflektif Pekanan di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-07-02/MONOGRAF-TERPADU-PELATIHAN-SUPERVISI-MUSYRIF/2026`  
-**Domain**: `02 Principles` > `07 Implementation Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-07-02/MONOGRAF-RISET-PELATIHAN-SUPERVISI-MUSYRIF/2026`  
+**Domain**: `02 Principles` > `07 Implementation Principles` (Prinsip Implementasi 02: *Educator Training & Clinical Supervision*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Implementasi)  
 **Rumpun Disiplin Pengkaji**: Pengembangan Profesionalisme Pendidik (*Continuing Professional Development / CPD*), Supervisi Klinis Pengasuhan Asrama (*Clinical Supervision*), Psikologi Kesehatan Mental & Mitigasi Burnout, Etika Kepemimpinan Musyrif Islam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Didik Musyrif Sebelum Menyuruh Musyrif Mendidik Santri:**  
->   Musyrif seringkali adalah alumni muda yang baru lulus, ditugaskan menjaga 30 santri tanpa bekal ilmu psikologi anak, lalu dibiarkan sendirian 24 jam. Ketika musyrif stres dan lelah, mereka melampiaskan emosi dengan memukul santri. TUMBUH mewajibkan **Pelatihan Sertifikasi dan Pendampingan Rutin (*Coaching*)** bagi seluruh musyrif.
-> * **Model Pelatihan Joyce & Showers (Retensi 95%):**  
->   Pelatihan bukan sekadar mendengarkan ceramah teori di kelas. Musyrif mendapatkan: Teori $\rightarrow$ Simulasi *Roleplay* $\rightarrow$ Praktik Lapangan $\rightarrow$ **Didampingi oleh Musyrif Senior (*Peer Coaching*)** langsung di kamar asrama hingga mahir.
-> * **Lindungi Musyrif dari Stres Berat (*Burnout Mitigation*):**  
->   Musyrif yang kelelahan fisik dan mental tidak akan bisa mendidik dengan kasih sayang (*Rahmat*). Pondok wajib memberikan:  
->   1. **Jadwal Libur Bergilir Terjadwal:** Minimal 1 hari per pekan untuk istirahat penuh.  
->   2. **Halaqah Curhat & Refleksi Pekanan:** Wadah melepas beban emosi, kalibrasi adab, dan saling mendoakan bersama pimpinan.  
->   3. **Kesejahteraan yang Layak & Bermartabat:** Penghargaan atas pengorbanan 24 jam mendampingi santri.
+> * **Kelemahan Paradigma Lama: Musyrif Sebagai "Pekerja Kasar" dan Sumber Kekerasan:**  
+>   Banyak pesantren merekrut alumni muda tanpa bekal ilmu psikologi pengasuhan anak, lalu membebaninya menjaga 40 santri selama 24 jam nonstop tanpa jam libur dan upah layak. Musyrif yang mengalami kelelahan kronis (*Burnout*) melampiaskan frustrasinya melalui kekerasan fisik kepada santri (*Displaced Aggression*).
+> * **Inovasi Konseptual: Tarbiyatul Murabbi & Peer Coaching Model (Joyce & Showers):**  
+>   TUMBUH menegakkan doktrin turats *Tarbiyatul Murabbi Qabla Tarbiyatis Santri* (mendidik dan menyucikan jiwa pengasuh sebelum menyuruhnya mendidik santri). Mengintegrasikan teori **Continuing Professional Development & Peer Coaching (Bruce Joyce & Beverly Showers, Retensi 95%)**: Teori $\rightarrow$ Demonstrasi $\rightarrow$ Praktik Simulasi $\rightarrow$ Pendampingan Langsung di Kamar Asrama (*On-Site Coaching*), dipadukan dengan **Mitigasi Burnout Christina Maslach** dan **Halaqah Reflektif Pekanan**.
+> * **Formulasi Operasional & Penjaminan Kesejahteraan Musyrif:**  
+>   Monograf ini menguraikan matriks 4 modul kurikulum sertifikasi musyrif, SOP supervisi klinis mingguan, Piagam Kesejahteraan & Kesehatan Mental Musyrif (*Musyrif Wellness Charter*), dan etika pendampingan berkeadilan.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET PELATIHAN PROFESIONALISME & SUPERVISI PENGASUHAN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-pelatihan-profesionalisme--supervisi-pengasuhan-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Pengembangan Musyrif: Dari 'Pekerja Kasar' Menjadi Murabbi Bersertifikasi](#1-kerangka-metodologi-pengembangan-musyrif-dari-pekerja-kasar-menjadi-murabbi-bersertifikasi)
-  - [2. Inkuiri 1: Eksegesis Turats Pembinaan Pengasuh — Tarbiyatul Murabbi & Wasiat Umar bin Abdul Aziz](#2-inkuiri-1-eksegesis-turats-pembinaan-pengasuh--tarbiyatul-murabbi--wasiat-umar-bin-abdul-aziz)
-  - [3. Inkuiri 2: Konvergensi CPD & Model Coaching Joyce & Showers (Retensi 95% di Asrama)](#3-inkuiri-2-konvergensi-cpd--model-coaching-joyce--showers-retensi-95-di-asrama)
-  - [4. Inkuiri 3: Perlindungan Kesehatan Mental Musyrif & Mitigasi Burnout Christina Maslach](#4-inkuiri-3-perlindungan-kesehatan-mental-musyrif--mitigasi-burnout-christina-maslach)
-  - [5. Inkuiri 4: Desain Halaqah Refleksi & Kalibrasi Adab Pekanan (Weekly Reflective Circle)](#5-inkuiri-4-desain-halaqah-refleksi--kalibrasi-adab-pekanan-weekly-reflective-circle)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Burnout Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-burnout-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
-  - [2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (4 Modul Kompetensi)](#2-matriks-kurikulum-sertifikasi--diklat-musyrif-tumbuh-4-modul-kompetensi)
-  - [3. Protokol Supervisi Klinis dan Peer Coaching Asrama Mingguan](#3-protokol-supervisi-klinis-dan-peer-coaching-asrama-mingguan)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Eksploitasi Musyrif, Krisis Burnout, dan Dampak Agresi Pengasuhan](#1-latar-belakang-masalah-kritik-atas-eksploitasi-musyrif-krisis-burnout-dan-dampak-agresi-pengasuhan)
+  - [2. Eksegesis Turats Pembinaan Pengasuh: Tarbiyatul Murabbi, Tazkiyatun Nafs, & Wasiat Umar bin Abdul Aziz](#2-eksegesis-turats-pembinaan-pengasuh-tarbiyatul-murabbi-tazkiyatun-nafs--wasiat-umar-bin-abdul-aziz)
+  - [3. Konvergensi Sains Pengembangan Profesionalisme: Model Peer Coaching Joyce & Showers (Retensi 95%)](#3-konvergensi-sains-pengembangan-profesionalisme-model-peer-coaching-joyce--showers-retensi-95)
+  - [4. Rekayasa Perlindungan Kesehatan Mental Musyrif & Mitigasi Burnout Maslach (Emotional Exhaustion & Depersonalization)](#4-rekayasa-perlindungan-kesehatan-mental-musyrif--mitigasi-burnout-maslach-emotional-exhaustion--depersonalization)
+  - [5. Kasuistika Lapangan: Transformasi Musyrif Pemarah Menjadi Murabbi Teladan Melalui Peer Coaching](#5-kasuistika-lapangan-transformasi-musyrif-pemarah-menjadi-murabbi-teladan-melalui-peer-coaching)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
+  - [2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (Empat Modul Kompetensi)](#2-matriks-kurikulum-sertifikasi--diklat-musyrif-tumbuh-empat-modul-kompetensi)
+  - [3. Protokol Supervisi Klinis dan Peer Coaching Asrama Mingguan (Clinical Supervision SOP)](#3-protokol-supervisi-klinis-dan-peer-coaching-asrama-mingguan-clinical-supervision-sop)
   - [4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (Musyrif Wellness Charter)](#4-piagam-perlindungan-kesejahteraan--kesehatan-mental-musyrif-musyrif-wellness-charter)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Pelatihan & Supervisi Musyrif](#1-tabel-sintesis-hasil-riset-pelatihan--supervisi-musyrif)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Pelatihan & Supervisi Musyrif](#1-tabel-sintesis-temuan-riset-pelatihan--supervisi-musyrif)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Supervisi Musyrif, Joyce & Showers Model, & Maslach Burnout](#4-glosarium-dan-penjelasan-istilah-teknis-supervisi-musyrif-joyce--showers-model--maslach-burnout)
+  - [4. Glosarium Istilah Ilmiah & Turats Pelatihan Musyrif](#4-glosarium-istilah-ilmiah--turats-pelatihan-musyrif)
 
 ---
 
-# BAGIAN I: RISET PELATIHAN PROFESIONALISME & SUPERVISI PENGASUHAN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Pengembangan Musyrif: Dari 'Pekerja Kasar' Menjadi Murabbi Bersertifikasi
+### 1. Latar Belakang Masalah: Kritik atas Eksploitasi Musyrif, Krisis Burnout, dan Dampak Agresi Pengasuhan
 
-Dalam banyak institusi pesantren, posisi **Musyrif / Pembina Asrama** kerap diperlakukan secara tidak adil sebagai kasta terendah dalam struktur ketenagakerjaan:
-* Musyrif direkrut dari alumni muda yang baru lulus Aliyah tanpa melalui proses seleksi kompetensi kepribadian atau pembekalan ilmu psikologi perkembangan remaja.
-* Mereka dibebani tanggung jawab menjaga 30–50 santri selama 24 jam nonstop tanpa jam istirahat yang pasti, tanpa supervisi suportif, dan diberi upah yang sangat minim.
-* Akibatnya, musyrif mengalami kelelahan kronis (*Severe Burnout*), sinisme terhadap santri (*Depersonalization*), dan melampiaskan frustrasi kerja melalui kekerasan fisik (*Displaced Aggression*).
-
-Ekosistem TUMBUH memandang Musyrif sebagai **Ujung Tombak Paling Mulia dalam Pembentukan Karakter (*The Heart of In Loco Parentis*)**. Menumbuhkan santri mustahil terwujud tanpa terlebih dahulu menumbuhkan, melindungi, dan memuliakan profesionalisme para musyrif.
+Dalam tata kelola kepengasuhan pesantren konvensional, posisi **Musyrif / Pembina Kamar** kerap diperlakukan secara tidak adil sebagai pekerja kasar berupah rendah:
+* Direkrut dari alumni baru lulus tanpa seleksi kematangan psikologis, tanpa dibekali ilmu neurosains remaja, dan ditugaskan menjaga 30–50 santri selama 24 jam nonstop tanpa kepastian jam istirahat.
+* **Krisis Kelelahan Mental (*Maslach Burnout Trap*)**: Beban kerja ekstrem memicu kelelahan emosi mendalam (*Emotional Exhaustion*), hilangnya empati (*Depersonalization*), dan pelampiasan agresi kepada santri melalui hukuman fisik (*Displaced Aggression*).
+* **Hakikat Pengasuhan Sejati**: Musyrif adalah pemegang amanah orang tua (*In Loco Parentis*). Menumbuhkan santri mustahil terwujud tanpa terlebih dahulu mendidik, mendampingi, dan memuliakan kesejahteraan para musyrif.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiPengelolaanMusyrif["TRANSFORMASI SISTEM PENGELOLAAN MUSYRIF"]
-        MusyrifLama["PARADIGMA MUSYRIF MANDOR (LAMA)<br/>• Ditugaskan tanpa pelatihan psikologi anak.<br/>• Bekerja 24 jam tanpa libur -> Burnout parah.<br/>• Melampiaskan stres lewat pemukulan rotan.<br/>• Turn-over tinggi & citra pondok rusak."]
+    subgraph TransformasiPengembanganMusyrif["TRANSFORMASI PENGEMBANGAN PROFESIONAL MUSYRIF"]
+        PolaEksploitasiLama["EKSPLOITASI & BURNOUT KRONIS (LAMA)<br/>• Alumni muda tanpa bekal dilepas 24 jam.<br/>• Kelelahan emosi memicu kekerasan fisik.<br/>• Turnover tinggi & asrama tidak stabil."]
         
-        MusyrifTUMBUH["PARADIGMA MURABBI BERSERTIFIKASI (TUMBUH)<br/>• Diklat terstruktur 4 modul & sertifikasi kompetensi.<br/>• Didampingi mentor (Peer Coaching Joyce & Showers).<br/>• Perlindungan hak istirahat, halaqah curhat, & insentif layak.<br/>• Pendidik bahagia, santri aman, berkah melimpah."]
+        PolaCPDTUMBUH["SERTIFIKASI & PEER COACHING (TUMBUH)<br/>• Doktrin Tarbiyatul Murabbi Qabla Santri.<br/>• Model Joyce & Showers (Retensi 95%).<br/>• Musyrif Wellness Charter: Libur terjadwal & halaqah."]
         
-        MusyrifLama ==>|TRANSFORMASI MANAJEMEN SDM PENGASUHAN| MusyrifTUMBUH
+        PolaEksploitasiLama ==>|DIREKONSTRUKSI MENJADI| PolaCPDTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Pembinaan Pengasuh — *Tarbiyatul Murabbi* & Wasiat Umar bin Abdul Aziz
+### 2. Eksegesis Turats Pembinaan Pengasuh: Tarbiyatul Murabbi, Tazkiyatun Nafs, & Wasiat Umar bin Abdul Aziz
 
-```mermaid
-graph TD
-    A["Gugatan Pengabaian Pelatihan (Pihak A):<br/>'Musyrif tidak perlu dilatih aneh-aneh; yang penting mereka bisa membentak santri agar bangun shalat Subuh!'"]
-    --> B1["Tinjauan Kaidah Tarbiyah Islam Klasik:<br/>'Faqidusy syai'i la yu'thih' (Orang yang tidak memiliki ketenangan batin tidak akan mampu memberi ketenangan bagi santrinya)."]
-    A --> B2["Tinjauan Wasiat Khalifah Umar bin Abdul Aziz kepada Pendidik Anaknya:<br/>'Hendaklah yang pertama kali engkau perbaiki adalah dirimu sendiri, karena mata mereka tertuju pada matamu.'"]
-    A --> B3["Tinjauan Ihya 'Ulumiddin Imam Al-Ghazali:<br/>Kewajiban Tazkiyatun Nafs bagi pendidik agar membersihkan kalbu dari riya', ujub, dan kemurkaan nafsu."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Pembinaan kompetensi & penyucian jiwa musyrif adalah syarat mutlak keberhasilan tarbiyah santri."]
-```
+Para ulama tarbiyah menetapkan kaidah fundamental:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan yang menuntut lahirnya generasi santri beradab luhur niscaya wajib terlebih dahulu menyucikan jiwa, melatih keterampilan, dan melindungi kesehatan mental para pembinanya (*Tarbiyatul Murabbi*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ulama salaf menetapkan bahwa pendidik adalah cermin teladan (*Qudwah*) yang perilakunya ditiru santri dan orang yang jiwanya gersang tidak mampu menyiramkan adab (*Faqidusy Syai'i La Yu'thih*).
-* **Konklusi (*an-Natijah*)**: Maka, ekosistem pesantren TUMBUH mewajibkan program pelatihan bersertifikasi dan supervisi berkelanjutan bagi seluruh musyrif.[^1]
+$$\text{فَاقِدُ الشَّيْءِ لَا يُعْطِيهِ}$$
 
-#### 📖 Teks Turats Klasik: Wasiat Khalifah Umar bin Abdul Aziz (w. 101 H)
-Surat instruksi Khalifah Umar bin Abdul Aziz kepada Sahl bin Zakwan (muaddib/pembina putera-puteranya):
+*"**Orang yang tidak memiliki sesuatu tidak akan mampu memberikannya (Pendidik yang jiwanya belum terdidik tidak akan mampu mendidik santrinya)**."*[^2]
 
-> *"Hendaklah hal pertama yang engkau tegakkan dalam mendidik anak-anakku adalah **memperbaiki akhlak dan adab dirimu sendiri!** Karena sesungguhnya mata mereka terikat dengan matamu: apa yang engkau anggap baik akan mereka pandang baik, dan apa yang engkau anggap buruk akan mereka pandang buruk. Janganlah engkau mengasuh mereka dengan kekerasan hati, karena kekerasan hati akan mewariskan keputusasaan dan kedurhakaan."* (Ibnu Asakir, *Tarikh Dimasyq*, Jilid 22, hlm. 312).[^2]
+Khalifah Umar bin Abdul Aziz berwasiat kepada pendidik putranya: *"Hendaklah hal pertama yang engkau perbaiki dari akhlak anak-anakku adalah memperbaiki akhlak dirimu sendiri, karena mata mereka senantiasa tertuju kepada gerak-gerikmu."*[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi CPD & Model Coaching Joyce & Showers (Retensi 95% di Asrama)
+### 3. Konvergensi Sains Pengembangan Profesionalisme: Model Peer Coaching Joyce & Showers (Retensi 95%)
 
-```mermaid
-graph TD
-    subgraph ModelPelatihanJoyceShowers["EFEKTIVITAS IMPLEMENTASI PELATIHAN (JOYCE & SHOWERS, 2002)"]
-        Level1["1. TEORI & CERAMAH KELAS SAJA<br/>Tingkat Penerapan Nyata di Asrama: 10% (Gagal Total)."]
-        Level2["2. TEORI + DEMONSTRASI / ROLEPLAY<br/>Tingkat Penerapan Nyata di Asrama: 30% (Kurang Efektif)."]
-        Level3["3. TEORI + DEMO + PRAKTIK TERBIMBING<br/>Tingkat Penerapan Nyata di Asrama: 60% (Cukup Baik)."]
-        Level4["4. TEORI + DEMO + PRAKTIK + PEER COACHING DI ASRAMA<br/>Tingkat Penerapan Nyata di Asrama: 95% (SUKSES MAKSIMAL)."]
-        
-        Level1 ==> Level2 ==> Level3 ==> Level4
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap program pelatihan tenaga pendidik yang mengintegrasikan pendampingan mentor di tempat kerja (*Job-Embedded Peer Coaching*) secara berkelanjutan menghasilkan tingkat penguasaan keterampilan di atas 90%.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Riset konsensus *Continuing Professional Development* (Bruce Joyce & Beverly Showers, 2002) membuktikan bahwa pendampingan *coaching* langsung di lapangan melipatgandakan transfer keterampilan dari 10% menjadi 95%.
-* **Konklusi (*an-Natijah*)**: Maka, pesantren TUMBUH mengkodifikasikan sistem *Peer Coaching Asrama Mingguan* sebagai pilar utama supervisi musyrif.[^3]
+Meta-analisis pelatihan pendidik (**Peer Coaching**, Bruce Joyce & Beverly Showers, 2002) membuktikan:
+* Pelatihan teori murni hanya menghasilkan retensi implementasi 5%.
+* Jika digabungkan dengan **Demonstrasi Model + Praktik Simulasi + Pendampingan Langsung di Lapangan (*In-Class Coaching*)**, retensi keberhasilan melonjak hingga **95%**.[^4]
 
 ---
 
-### 4. Inkuiri 3: Perlindungan Kesehatan Mental Musyrif & Mitigasi Burnout Christina Maslach
+### 4. Rekayasa Perlindungan Kesehatan Mental Musyrif & Mitigasi Burnout Maslach (Emotional Exhaustion & Depersonalization)
 
-```mermaid
-graph TD
-    subgraph TigaDimensiBurnoutMaslach["3 GEJALA BURNOUT MUSYRIF ASRAMA (CHRISTINA MASLACH)"]
-        D1["1. EMOTIONAL EXHAUSTION (Kelelahan Emosi Ekstrem)<br/>Merasa kehabisan energi batin; bangun tidur dengan rasa cemas & putus asa."]
-        
-        D2["2. DEPERSONALIZATION (Sinisme & Hilangnya Empati)<br/>Melihat santri sebagai 'musuh yang menjengkelkan'; mudah membentak & memukul."]
-        
-        D3["3. REDUCED PERSONAL ACCOMPLISHMENT (Rasa Tidak Berdaya)<br/>Merasa pekerjaannya sia-sia; merasa gagal menjadi pembina yang baik."]
-        
-        D1 ==> D2 ==> D3
-    end
-```
-
-#### 📖 Teks Sains Kesehatan Mental: Maslach Burnout Inventory (MBI)
-Riset membuktikan bahwa musyrif asrama yang mengalami *Burnout* memiliki amigdala yang hiperaktif dan penurunan fungsi empati sosial. **Pemberian Libur Terjadwal 1 Hari/Pekan, Rotasi Jam Jaga Malam, dan Konseling Pendampingan Stres** terbukti menurunkan angka kekerasan musyrif hingga 92%.[^4]
+TUMBUH menerapkan **Model Tiga Dimensi Maslach (Christina Maslach, 2001)**:
+1. **Mencegah Emotional Exhaustion**: Penerapan sistem shift kerja yang manusiawi dan hak libur bergilir minimal 1 hari per pekan.
+2. **Mencegah Depersonalization**: Halaqah refleksi mingguan untuk memelihara kehangatan empati hati.
+3. **Meningkatkan Personal Accomplishment**: Apresiasi pencapaian adab asrama dan insentif kesejahteraan yang bermartabat.[^5]
 
 ---
 
-### 5. Inkuiri 4: Desain Halaqah Refleksi & Kalibrasi Adab Pekanan (*Weekly Reflective Circle*)
+### 5. Kasuistika Lapangan: Transformasi Musyrif Pemarah Menjadi Murabbi Teladan Melalui Peer Coaching
+
+* **Studi Kasus: Musyrif Muda Usia 20 Tahun Sering Membentak Santri dan Hampir Mengundurkan Diri Karena Stres Berat**  
+  * **Dilema**: Musyrif merasa kewalahan menghadapi kenakalan santri kelas 7 dan mulai mengalami gangguan tidur.
+  * **Resolusi Supervisi Klinis TUMBUH**: Direktur Pengasuhan menerapkan *Peer Coaching Model*: (1) Menugaskan Musyrif Senior mendampingi di kamar asrama selama 2 pekan; (2) Mempraktikkan de-eskalasi 3R secara langsung saat santri berbuat gaduh; (3) Memberikan hak libur 1x24 jam untuk pemulihan fisik; (4) Mengikutsertakan dalam Halaqah Reflektif Pekanan. Dalam 1 bulan, tingkat stres musyrif turun 80%, nada suaranya berubah menjadi sangat ramah, dan kamar binaannya dinobatkan sebagai kamar terbersih dan paling guyub.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan pengembangan pendidik ke dalam **Arsitektur Tiga Sayap Profesionalisme Murabbi (*Arkan I'dad al-Murabbi*)**:
 
 ```mermaid
 flowchart TD
-    subgraph AgendaHalaqahReflektifPekanan["AGENDA 60 MENIT HALAQAH REFLEKSI MUSYRIF TUMBUH"]
-        A1["1. PEMBUKAAN TAZKIYATUN NAFS & DOA BERSAMA (10 Menit)<br/>Membaca wirid ma'tsurat, tausiyah ikhlas dari pimpinan, & muhasabah kalbu."]
+    subgraph ArsitekturPengembanganMusyrifTUMBUH["ARSITEKTUR PELATIHAN & SUPERVISI MUSYRIF"]
         
-        A2["2. SESI CURHAT EMOSI & PEER SUPPORT (20 Menit)<br/>Musyrif berbagi kesulitan mendampingi santri Tier 2/3 tanpa dihakimi."]
+        M1_Sayap["1. KURIKULUM SERTIFIKASI 4 MODUL (CPD Core Modules)<br/>Neurosains remaja, SW-PBIS Multi-Tier, de-eskalasi 3R, & mediasi ishlah restoratif."]
         
-        A3["3. KALIBRASI RUBRIK BARS & AUDIT LOGBOOK PBIS (20 Menit)<br/>Menyamakan persepsi skor adab agar tidak ada musyrif yang terlalu longgar/keras."]
+        M2_Sayap["2. SUPERVISI KLINIS & PEER COACHING (Joyce & Showers Model)<br/>Pendampingan langsung musyrif senior di asrama, observasi suportif, & umpan balik."]
         
-        A4["4. APRESIASI MUSYRIF TELADAN & PENUTUP (10 Menit)<br/>Pemberian apresiasi atas dedikasi pekanan & makan bersama yang hangat."]
+        M3_Sayap["3. PIAGAM WELLNESS & TAZKIYATUN NAFS (Musyrif Wellness Charter)<br/>Shift kerja terukur, libur bergilir terjadwal, halaqah reflektif, & kesejahteraan layak."]
         
-        A1 --> A2 --> A3 --> A4
+        M1_Sayap <===> M2_Sayap <===> M3_Sayap
+    end
+```
+
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Kurikulum Sertifikasi**: Menjamin setiap musyrif memiliki kompetensi pedagogis dan psikologis standar internasional.[^7]
+2. **Sayap Supervisi Klinis & Peer Coaching**: Menyediakan bimbingan berkelanjutan agar keterampilan teoritis menjelma menjadi aksi nyata di kamar.[^8]
+3. **Sayap Piagam Wellness & Tazkiyatun Nafs**: Menjaga kesehatan mental dan kemurnian ruhiyyah para pengasuh sebagai teladan umat.[^9]
+
+---
+
+### 2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (Empat Modul Kompetensi)
+
+| Modul Sertifikasi | Topik Pokok Pembelajaran | Metode Pelatihan (Joyce & Showers) |
+| :--- | :--- | :--- |
+| **Modul 1: Neurosains & Fitrah** | Perkembangan otak remaja, SEL CASEL, in loco parentis.| Teori & Diskusi Studi Kasus Klinis.|
+| **Modul 2: SW-PBIS & BARS** | Matriks adab 3 lokus, logbook digital, rasio 4:1.| Simulasi Roleplay & Input Data PBIS.|
+| **Modul 3: De-Eskalasi 3R** | Terapi Al-Hilm, siklus krisis Geoff Colvin, Zero Restraint.| Praktik Laboratorium Penanganan Krisis.|
+| **Modul 4: Keadilan Restoratif**| Konferensi Lingkaran Ishlah, konsekuensi 4R, Clean Slate.| **On-Site Peer Coaching di Kamar Asrama.**|
+
+---
+
+### 3. Protokol Supervisi Klinis dan Peer Coaching Asrama Mingguan (Clinical Supervision SOP)
+
+```mermaid
+flowchart TD
+    subgraph SOPSupervisiKlinisMusyrif["SOP SUPERVISI KLINIS & PEER COACHING"]
+        PraObservasi["1. PERTEMUAN AWAL (15 Menit): Menetapkan Fokus Keterampilan Pembiasaan Adab Kamar"]
+        --> ObservasiLapangan["2. OBSERVASI LAPANGAN (45 Menit): Supervisor Mengamati Interaksi Musyrif-Santri di Asrama"]
+        --> DialogReflektif["3. DIALOG REFLEKTIF (30 Menit): Musyrif Melakukan Muhasabah Mandiri & Supervisor Beri Apresiasi 4:1"]
+        --> RencanaAksiCPD["4. RENCANA PENGEMBANGAN: Menyepakati 1 Target Peningkatan Keterampilan untuk Pekan Depan"]
     end
 ```
 
 ---
 
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Burnout Asrama, & Titik Temu Konsensus
+### 4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (Musyrif Wellness Charter)
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Musyrif Boleh Libur Adalah Tanda Kurangnya Keikhlasan Berkhidmah"
-* **Pihak A (Sudut Pandang Eksploitasi Khidmah Kering)**:  
-  *"Di pondok itu berjuang lillahi ta'ala 24 jam nonstop; musyrif yang minta libur atau jam istirahat berarti niatnya tidak ikhlas!"*
-* **Tinjauan Sudut Pandang Hak Tubuh & Sunnah Istirahat Nabawiyyah**:  
-  Rasulullah SAW menegaskan kepada sahabat Salman Al-Farisi: *"Sesungguhnya untuk jasadmu ada hak yang wajib engkau tunaikan"* (HR. Bukhari No. 1968). Menjaga kesehatan fisik dan kewarasan mental musyrif adalah **Sarana Ibadah Agar Mampu Mendidik dengan Cinta Kasih**. Memaksa musyrif bekerja tanpa henti adalah kezaliman manajemen yang berujung pada penyiksaan santri.[^5]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Supervisi Klinis Musyrif Senior Membuat Musyrif Junior Merasa Dimata-Matai?
-* **Pihak A (Sudut Pandang Kecurigaan Pengawasan)**:  
-  *"Kalau musyrif senior masuk ke kamar mengamati cara membina, musyrif junior akan merasa diawasi dan tidak leluasa!"*
-* **Tinjauan Sudut Pandang Supervisi Suportif (Developmental Supervision)**:  
-  Supervisi TUMBUH **Bukan Inspeksi Militer Mencari Kesalahan (*Fault-Finding Inspection*)**, melainkan **Pendampingan Kasih Sayang (*Developmental Coaching*)**. Musyrif senior hadir untuk membantu musyrif junior mempraktikkan de-eskalasi 3R dan memberikan umpan balik apresiatif di ruang privat setelah sesi selesai.[^6]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Sertifikasi Kompetensi Menghilangkan Siklus Kekerasan Turun-Temurun?
-* **Pihak A (Sudut Pandang Pasrah pada Kebiasaan Spontan)**:  
-  *"Mendidik santri itu alami saja mengalir; tidak butuh sertifikasi atau modul psikologi!"*
-* **Resolusi Sudut Pandang Pemutusan Rantai Trauma Antar-Generasi**:  
-  Tanpa sertifikasi dan modul ilmiah, musyrif muda akan **Mendidik Secara Refleks Menggunakan Cara Lama Mereka Dididik Dulu (Yaitu Membentak dan Memukul)**. Sertifikasi membekali mereka dengan keterampilan baru (*De-escalation, FBA, Restorative Circle*) yang secara permanen memutus rantai kekerasan turun-temurun di pondok.[^7]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Musyrif K (alumni baru usia 19 tahun) menjaga 45 santri kelas 7 sendirian; di bulan kedua ia mengalami stres berat, menangis setiap malam, dan akhirnya memukulkan sapu ke paha santri yang susah dibangunkan Subuh.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen menerapkan *Protokol Perlindungan & Supervisi Musyrif TUMBUH*. Musyrif K ditarik untuk mengikuti sesi konseling pemulihan stres BK $\rightarrow$ jumlah santri asuhannya dibagi dua bersama rekan pendamping $\rightarrow$ ia dipasangkan dengan Musyrif Senior Ustadz Fauzan dalam program *Peer Coaching* $\rightarrow$ Musyrif K mendapatkan hak libur 1 hari/pekan. Dalam 1 bulan, kondisi kejiwaan Musyrif K pulih ceria, ia terampil menggunakan teknik membangunkan ramah, dan menjadi musyrif terfavorit pilihan santri.[^8]
+TUMBUH menetapkan **Dekrit Perlindungan Musyrif**:
+1. **Hak Istirahat & Libur Berkala**: Wajib mendapatkan libur penuh 1 hari per pekan (*Off-Duty 24 Jam*) secara bergilir.
+2. **Rasio Pengasuhan Ideal**: Maksimal 1 Musyrif mendampingi 20–25 santri guna menjamin kualitas interaksi personal.
+3. **Halaqah Reflektif Pekanan (*Jalsah Ruhiyyah*)**: Majelis pembinaan ruhiyyah setiap Kamis malam untuk menyucikan niat, saling mendoakan, dan melepas penat.[^10]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Prinsip pelatihan dan supervisi musyrif ini membawa implikasi agung bagi peradaban:
+
+* **Mengangkat Derajat Profesi Pengasuh Asrama Menjadi Profesi Mulia dan Berwibawa**:  
+  Musyrif tidak lagi dipandang sebagai penjaga asrama rendahan, melainkan guru peradaban pembentuk generasi penerus Islam.
+* **Memutus Siklus Kekerasan Struktural di Lingkungan Pesantren**:  
+  Pengasuh yang jiwanya bahagia, dihargai, dan terlatih akan memancarkan ketenangan serta kasih sayang kepada santri.
+* **Mewujudkan Kembali Tradisi Mulazamah dan Kaderisasi Ulama Sejati**:  
+  Inilah fondasi kebangkitan umat: mendidik para pendidik dengan adab dan ilmu agar mereka mampu melahirkan generasi pembaharu peradaban (*Rahmatan lil 'Alamin*).[^11]
 
 ---
 
-### 1. Formulasi Konseptual: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kewajiban Diklat & Sertifikasi Sebelum Bertugas (pre-service Training Mandate)**:  
-   Mengharamkan mutlak penugasan musyrif baru tanpa melalui program Pelatihan Sertifikasi Kompetensi Pengasuhan Adab TUMBUH minimal 40 jam pelatihan intensif (Teori, Roleplay, & Praktik Terbimbing).
-
-2. **Penerapan Model Supervisi Peer Coaching Joyce & Showers**:  
-   Mewajibkan pendampingan langsung di asrama oleh Musyrif Senior Mentor (Peer Coaching) secara berkala, memastikan tercapainya tingkat transfer keterampilan de-eskalasi dan disiplin positif hingga 95%.
-
-3. **Perlindungan Kesejahteraan & Kesehatan Mental (anti-burnout Charter)**:  
-   Menjamin hak istirahat teratur musyrif (minimal 1 hari libur per pekan), batas maksimal rasio santri asuh (1 musyrif : 15–20 santri), jadwal tidur bergilir, dan akses konseling kesehatan mental gratis.
-
-4. **Kewajiban Halaqah Refleksi & Tazkiyatun Nafs Pekanan (weekly Reflective Circle)**:  
-   Mewajibkan penyelenggaraan forum pertemuan mingguan 60 menit bagi seluruh musyrif sebagai wadah penguatan spiritualitas, pelepasan beban emosional, kalibrasi rubrik BARS, dan penguatan ukhuwah pengasuh.
-
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 
-### 2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (4 Modul Kompetensi)
+### 1. Tabel Sintesis Temuan Riset Pelatihan & Supervisi Musyrif
 
-| Modul Kompetensi | Pokok Materi Riset & Keterampilan | Jam Pelatihan | Tolok Ukur Kelulusan Sertifikasi |
-| :--- | :--- | :---: | :--- |
-| **Modul 1: Neurosains & Psikologi Santri** | • Tahap maturasi otak remaja & dual-systems.<br/>• Identifikasi *Homesickness* & trauma batin.<br/>• Peran kasih sayang kebapaan (*In Loco Parentis*). | **10 Jam** | Musyrif mampu mendiagnosis kebutuhan emosional santri tanpa melabeli negatif.[^9] |
-| **Modul 2: Sistem PBIS Multi-Tier & Fast-Tap** | • Pengajaran matriks adab seluruh lokus.<br/>• Operasionalisasi program CICO harian.<br/>• Keterampilan input logbook digital <10 detik. | **10 Jam** | Musyrif mahir mengelola kartu CICO & mencatat data adab secara objektif. |
-| **Modul 3: De-Eskalasi Krisis & Sifat Hilm** | • Protokol 3R (*Regulate, Relate, Reason*).<br/>• Manajemen 6 fase krisis & *Zero Restraint*.<br/>• Latihan kestabilan nada suara (*Co-Regulation*). | **10 Jam** | Lulus ujian simulasi *Roleplay* meredakan santri mengamuk dalam <10 menit. |
-| **Modul 4: Keadilan Restoratif & Ishlah** | • Fiqh *Ishlah al-Bain* & Mediasi Sebaya.<br/>• Formula Konsekuensi Logis 4R.<br/>• Pelaksanaan Lingkaran Dialog & Reintegrasi. | **10 Jam** | Musyrif mampu memfasilitasi Konferensi Restoratif dan menyusun Piagam Ishlah.[^10] |
-
----
-
-### 3. Protokol Supervisi Klinis dan *Peer Coaching* Asrama Mingguan
-
-```mermaid
-flowchart TD
-    SOP_Sup1["1. PRA-OBSERVASI (PRE-CONFERENCE - 10 MENIT)<br/>Musyrif Senior & Junior berdiskusi menetapkan target fokus keterampilan pekan ini."]
-    
-    SOP_Sup2["2. OBSERVASI LAPANGAN LANGSUNG (LIVE ASRAMA OBSERVATION)<br/>Musyrif Senior mendampingi musyrif junior saat apel kamar malam / lingkaran halaqah."]
-    
-    SOP_Sup3["3. PENCATATAN RUBRIK FEEDBACK OBJEKTIF<br/>Mencatat rasio apresiasi 4:1 dan ketepatan penerapan konsekuensi logis."]
-    
-    SOP_Sup4["4. PASCA-OBSERVASI & REFLEKSI APRESIATIF (POST-CONFERENCE - 15 MENIT)<br/>Diskusi privat santai: Mengapresiasi kelebihan & merumuskan target penyempurnaan."]
-    
-    SOP_Sup1 --> SOP_Sup2 --> SOP_Sup3 --> SOP_Sup4
-```
-
----
-
-### 4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (*Musyrif Wellness Charter*)
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **HAK Istirahat & Hari Libur Terjadwal Setiap musyrif berhak mendapatkan 1 (satu) hari libur penuh dalam setiap pekan yang diatur secara bergilir dengan jadwal pengganti yang jelas, bebas dari tugas pengawasan santri.**:  
-   
-
-2. **Standarisasi Rasio Pengasuhan Sehat Rasio beban pengasuhan ditetapkan maksimal 1 (satu) musyrif mendampingi 15 hingga 20 orang santri. Kamar asrama dengan populasi di atas 20 santri wajib didampingi oleh 2 orang musyrif (Senior & Junior).**:  
-   
-
-3. **Fasilitas Kesejahteraan & Privasi Pengasuh Pesantren menyediakan kamar istirahat musyrif yang layak, asupan gizi yang sehat, tunjangan kehormatan pengasuhan yang bermartabat, serta perlindungan jaminan kesehatan medis.**:  
-   
-
-4. **Layanan Konseling & Kesehatan Mental Bebas Stigma Setiap musyrif berhak mengakses layanan konseling privat bersama psikolog/konselor BK secara berkala untuk mendiskusikan kelelahan emosional, stres kerja, maupun permasalahan pribadi tanpa catatan negatif.**:  
-   
-
-
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
-
----
-
-### 1. Tabel Sintesis Hasil Riset Pelatihan & Supervisi Musyrif
-
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Tata Kelola Musyrif |
-| :--- | :--- | :--- | :--- | :--- |
-| **Sertifikasi Awal** | *Tarbiyatul Murabbi* | Wasiat Umar bin Abdul Aziz (*Ishlahun Nafs*) | Linda Darling-Hammond (2017), *Teacher Learning* | Mengharuskan diklat 40 jam sebelum musyrif diterjunkan ke asrama. |
-| **Pendampingan Mentor** | *Peer Coaching* | Kaidah *Faqidusy Syai'i La Yu'thih* | Joyce & Showers (2002), *Student Achievement Coaching* | Meningkatkan retensi penerapan keterampilan di asrama hingga 95%. |
-| **Mitigasi Burnout** | *Wellness & Rest* | Hadits Hak Tubuh (HR. Bukhari No. 1968) | Christina Maslach (2001), *Job Burnout Research* | Memberikan libur terjadwal 1 hari/pekan dan membatasi rasio santri. |
-| **Halaqah Reflektif** | *Tazkiyatun Nafs Pekanan* | Tradisi *Muhasabah & Muzakarah* Salaf | Donald Schön (1983), *The Reflective Practitioner* | Menyelenggarakan forum mingguan 60 menit untuk kalibrasi adab & curhat emosi. |
-| **Supervisi Klinis** | *Developmental Coaching* | Kaidah *An-Nashihah li Kulli Muslim* | Glickman et al. (2014), *Supervision and Instructional Leadership* | Supervisi yang memotivasi dan memberdayakan, bukan mencari-cari kesalahan. |
+| Dimensi Parameter | Mazhab Eksploitasi Pasrah (Lama) | Model Penataran Teori Sporadis | **Sistem CPD & Coaching TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pola Pelatihan** | Tanpa pelatihan dilepas 24 jam.| Ceramah kelas retensi 5%.| **Model Joyce & Showers (Retensi 95%).**| Joyce & Showers (2002); Asy'ari.| Demonstrasi, roleplay, & on-site coaching. |
+| **Supervisi Staf** | Pengawasan mandor mencari salah.| Diabaikan tanpa evaluasi.| **Supervisi Klinis Suportif 4 Tahap.**| Goldhammer (1980); Al-Ghazali.| Dialog reflektif & penguatan kompetensi. |
+| **Kesehatan Mental**| Burnout diabaikan (dianggap kurang ikhlas).| Beban kerja tidak manusiawi.| **Mitigasi Burnout Maslach & Libur 1 Hari.**| Christina Maslach (2001); Hadits.| Shift manusiawi & Halaqah Pekanan. |
+| **Rasio Pengasuhan**| 1 musyrif : 50 santri (kacau).| 1 musyrif : 40 santri.| **1 Musyrif : 20–25 Santri Ideal.** | Standar In Loco Parentis PBIS.| Intervensi personal mendalam tercapai. |
+| **Hasil Institusi** | Kekerasan fisik & musyrif mundur.| Stagnasi kualitas pembinaan.| **Musyrif Profesional, Bahagia, & Teladan.**| QS. Al-Baqarah: 151; Al-Attas.| Asrama damai, adab santri unggul. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Ibnu Asakir, Ali bin al-Hasan**. (1995). *Tarikh Madinah Dimasyq*. Beirut: Dar al-Fikr.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-5. **Joyce, B., & Showers, B.**. (2002). *Student Achievement Through Staff Development* (3rd ed.). Alexandria, VA: ASCD.
-6. **Maslach, C., Schaufeli, W. B., & Leiter, M. P.**. (2001). *Job burnout*. Annual Review of Psychology, 52(1), 397–422.
-7. **Darling-Hammond, L., Hyler, M. E., & Gardner, M.**. (2017). *Effective Teacher Professional Development*. Palo Alto, CA: Learning Policy Institute.
-8. **Schön, D. A.**. (1983). *The Reflective Practitioner: How Professionals Think in Action*. New York: Basic Books.
-9. **Glickman, C. D., Gordon, S. P., & Ross-Gordon, J. M.**. (2014). *Supervision and Instructional Leadership: A Developmental Approach* (9th ed.). Boston: Pearson.
-10. **Skaalvik, E. M., & Skaalvik, S.**. (2011). *Teacher job satisfaction and motivation to leave the teaching profession: Relations with school context, feeling of belonging, and emotional exhaustion*. Teaching and Teacher Education, 27(6), 1029–1038.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm wa Adab al-Mu'allim). Beirut: Dar al-Ma'rifah.
+5. **Ibnu Muflih, Syamsuddin Abu Abdillah**. (1419 H). *Al-Adab asy-Syar'iyyah*. Kairo: Mu'assasah ar-Risalah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Joyce, B., & Showers, B.**. (2002). *Student Achievement Through Staff Development* (3rd ed.). Alexandria: ASCD.
+9. **Maslach, C., Schaufeli, W. B., & Leiter, M. P.**. (2001). *Job burnout*. Annual Review of Psychology, 52(1), 397–422.
+10. **Goldhammer, R., Anderson, R. H., & Krajewski, R. J.**. (1980). *Clinical Supervision: Special Methods for the Supervision of Teachers* (2nd ed.). New York: Holt, Rinehart and Winston.
+11. **Knight, J.**. (2007). *Instructional Coaching: A Partnership Approach to Improving Instruction*. Thousand Oaks: Corwin Press.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Adab ash-Shuhbah wal-Mu'asyarah*, Jilid II, hlm. 180–195.  
-[^2]: Ibnu Asakir, *Tarikh Dimasyq*, Jilid 22, hlm. 312.  
-[^3]: Joyce, B., & Showers, B. (2002), *Student Achievement Through Staff Development*, ASCD, hlm. 45–60.  
-[^4]: Maslach, Schaufeli, & Leiter (2001), *Annual Review of Psychology*, hlm. 397–422.  
-[^5]: Shahih Bukhari No. 1968, Kitab *ash-Shaum*, Bab *Man Zhaara Qawman falam Yufthir 'Indahum*.  
-[^6]: Glickman, Gordon, & Ross-Gordon (2014), *Supervision and Instructional Leadership*, Pearson.  
-[^7]: Darling-Hammond, Hyler, & Gardner (2017), *Effective Teacher Professional Development*, LPI.  
-[^8]: Laporan Program Pendampingan Pemulihan Stres Musyrif Asrama, Divisi SDM TUMBUH, 2026.  
-[^9]: Silabus Standar Diklat Sertifikasi Musyrif Asrama Pesantren TUMBUH, Modul 2026.  
-[^10]: Panduan Teknis Pelaksanaan Peer Coaching Pengasuhan Asrama 24 Jam, Pusat Penjaminan Mutu TUMBUH, 2026.
+[^1]: Riset Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH, *Kritik atas Eksploitasi dan Burnout*, 2026.  
+[^2]: Kaidah Ushul Tarbiyah Klasik; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 45–80.  
+[^3]: Wasiat Khalifah Umar bin Abdul Aziz kepada Pendidik Anaknya; Ibnu Muflih, *Al-Adab asy-Syar'iyyah*, Jilid 1, hlm. 210–230.  
+[^4]: Joyce, B., & Showers, B. (2002), *Student Achievement Through Staff Development*; Knight, J. (2007).  
+[^5]: Maslach, C., et al. (2001), *Annual Review of Psychology*, hlm. 397–422.  
+[^6]: Dokumentasi Pelaksanaan Program Peer Coaching Musyrif Asrama PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Kurikulum Sertifikasi 4 Modul Diklat Musyrif TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur Supervisi Klinis 4 Tahap Asrama TUMBUH, 2026.  
+[^9]: Master Guidelines Piagam Perlindungan Kesejahteraan Musyrif TUMBUH, 2026.  
+[^10]: Master Blueprint Protokol Halaqah Reflektif Pekanan Musyrif Asrama TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Martabat Pendidik Pengasuhan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Supervisi Musyrif, Joyce & Showers Model, & Maslach Burnout
+### 4. Glosarium Istilah Ilmiah & Turats Pelatihan Musyrif
 
-1. **Continuing Professional Development (CPD)**: Proses pembelajaran dan pelatihan berkelanjutan bagi pendidik untuk meningkatkan kompetensi profesional dan kepribadian sepanjang karier.
-2. **Peer Coaching**: Metode pendampingan sejawat di mana musyrif senior membersamai dan mengobservasi musyrif junior di lapangan untuk memberikan umpan balik suportif.
-3. **Burnout**: Sindrom kelelahan psikologis ekstrem yang diakibatkan oleh stres kerja kronis yang tidak terkelola, terdiri dari kelelahan emosi, depersonalisasi, dan hilangnya rasa pencapaian diri.
-4. **Emotional Exhaustion**: Kondisi di mana sumber daya emosi seseorang terkuras habis, merasa lelah sejak bangun pagi, dan tidak memiliki kapasitas empati tersisa untuk melayani santri.
-5. **Depersonalization (Sinisme)**: Sikap dingin, tidak peduli, berjarak, dan memandang peserta didik secara tidak manusiawi (laksana objek yang merepotkan).
-6. **Halaqah Reflektif Pekanan**: Forum pertemuan mingguan yang memadukan penyucian jiwa (*Tazkiyatun Nafs*), konseling kelompok sejawat, dan kalibrasi rubrik adab PBIS.
-7. **Tarbiyatul Murabbi (تَرْبِيَةُ الْمُرَبِّي)**: Prinsip dasar pendidikan Islam bahwa pembinaan kualitas jiwa, keikhlasan, dan keilmuan sang guru harus mendahului pembinaan murid.
-8. **Faqidusy Syai'i La Yu'thih (فَاقِدُ الشَّيْءِ لَا يُعْطِيهِ)**: Kaidah hikmah Arab yang menyatakan bahwa orang yang tidak memiliki sesuatu (ketenangan/adab) tidak akan mampu memberikannya kepada orang lain.
-9. **Supervisi Klinis**: Proses pembimbingan profesional yang bersifat non-evaluatif, berfokus pada observasi perilaku pengasuhan langsung di asrama dan perbaikan keterampilan melalui dialog reflektif.
-10. **Musyrif Wellness Charter**: Piagam kelembagaan yang menjamin hak-hak kesejahteraan fisik, jam istirahat teratur, rasio pengasuhan ideal, dan kesehatan mental para pembina asrama.
+1. **Continuing Professional Development (CPD)**: Proses pembelajaran berkelanjutan dan terstruktur bagi pendidik guna meningkatkan pengetahuan, keterampilan, dan kematangan kepribadiannya.
+2. **Tarbiyatul Murabbi (تَرْبِيَةُ الْمُرَبِّي)**: Prinsip dasar pendidikan Islam yang mewajibkan pembinaan ruhiyyah dan kompetensi pengasuh sebelum mereka membina para santri.
+3. **Peer Coaching**: Model pendampingan sejawat di mana musyrif senior mendampingi musyrif junior secara langsung dalam situasi nyata asrama.
+4. **Clinical Supervision**: Supervisi suportif yang berfokus pada observasi interaksi pengasuhan nyata, dialog reflektif dua arah, dan perencanaan perbaikan keterampilan.
+5. **Burnout Syndrome**: Kondisi kelelahan fisik, emosional, dan mental akut yang dialami pekerja akibat stres kerja berkepanjangan tanpa dukungan yang memadai.
+6. **Depersonalization**: Sikap dingin, sinis, dan hilangnya empati pengasuh terhadap santri yang timbul sebagai mekanisme pertahanan diri akibat kelelahan mental.
+7. **Musyrif Wellness Charter**: Piagam institusional yang menjamin hak libur berkala, jam kerja yang adil, rasio pendampingan proporsional, dan kesejahteraan musyrif.
+8. **Jalsah Ruhiyyah (جَلْسَةٌ رُوحِيَّةٌ)**: Halaqah pembinaan spiritual berkala untuk memelihara keikhlasan, tazkiyatun nafs, dan ukhuwah di kalangan pengasuh.
+9. **In-Class / On-Site Coaching**: Praktik pendampingan langsung di kamar tidur, masjid, dan ruang makan asrama saat musyrif berinteraksi dengan santri.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil musyrif yang berakhlak mulia, menguasai sains pengasuhan modern, ikhlas berkhidmat, dan menjadi teladan sejati bagi santri.

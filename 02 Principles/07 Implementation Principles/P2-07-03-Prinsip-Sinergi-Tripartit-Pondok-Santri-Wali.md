@@ -1,322 +1,267 @@
-# P2-07-03: PRINSIP SINERGI TRIPARTIT PONDOK, SANTRI, DAN WALI
-## *Monograf Terpadu: Epistemologi Amanah Pengasuhan (QS. At-Tahrim: 6 & HR. Bukhari No. 893) serta Kaidah Ta'awun 'alal Birri wat-Taqwa, Konvergensi Framework 6 Tipe Keterlibatan Keluarga (Joyce L. Epstein), Mitigasi Fenomena Kemunduran Adab Liburan (Vacation Regression), dan Tata Kelola Komunikasi Digital Beradab*
+# P2-07-03: PRINSIP SINERGI TRIPARTIT PONDOK, SANTRI, DAN WALI (TRIPARTITE EDUCATIONAL PARTNERSHIP)
+## *Monograf Riset Akademik: Epistemologi Amanah Pengasuhan (QS. At-Tahrim: 6 & HR. Bukhari No. 893) & Kaidah Ta'awun 'alal Birri wat-Taqwa, Framework 6 Tipe Keterlibatan Keluarga Joyce L. Epstein, Mitigasi Vacation Regression, Serta Tata Kelola Komunikasi Digital Beradab di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-07-03/MONOGRAF-TERPADU-SINERGI-TRIPARTIT/2026`  
-**Domain**: `02 Principles` > `07 Implementation Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-07-03/MONOGRAF-RISET-SINERGI-TRIPARTIT/2026`  
+**Domain**: `02 Principles` > `07 Implementation Principles` (Prinsip Implementasi 03: *Tripartite Partnership*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Implementasi)  
 **Rumpun Disiplin Pengkaji**: Kemitraan Sekolah, Keluarga, dan Komunitas (*School-Family-Community Partnerships*), Sosiologi Pendidikan Keluarga Muslim, Komunikasi Pedagogis Kemitraan Orang Tua, Fiqh Amanah dan Tanggung Jawab Pengasuhan  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Hapus Budaya "Pasrah Bongkokan / Lepas Tangan" Orang Tua:**  
->   Banyak orang tua menganggap setelah membayar SPP dan menitipkan anak di pondok, mereka lepas tanggung jawab 100%. Ketika anak pulang liburan, orang tua membiarkan anak bermain gawai seharian dan meninggalkan shalat. TUMBUH menegakkan **Sinergi Tripartit (Pondok - Santri - Wali Santri)** sebagai satu kesatuan tarbiyah yang tak terpisahkan.
-> * **Enam Pilar Kemitraan Keluarga Model Epstein di Pesantren:**  
->   1. **Pola Asuh (Parenting):** Seminar parenting adab berkala bagi wali santri.  
->   2. **Komunikasi (Communicating):** Info perkembangan via aplikasi & tabayyun santun tanpa ribut di grup WA.  
->   3. **Khidmah Relawan (Volunteering):** Wali santri berbagi ilmu keahlian profesi bagi santri.  
->   4. **Belajar di Rumah (Learning at Home):** Menjaga shalat berjamaah dan muraja'ah saat liburan semester.  
->   5. **Musyawarah (Decision Making):** Pelibatan Majelis Wali Santri dalam penyusunan kebijakan adab.  
->   6. **Jejaring Komunitas (Collaborating):** Sinergi dengan alumni dan tokoh masyarakat.
-> * **Cegah Penyakit "Lupa Adab Saat Liburan" (*Vacation Regression*):**  
->   Sebelum liburan, santri dan orang tua menandatangani **Piagam Komitmen Adab Liburan**. Santri tetap mengisi jurnal harian ibadah, dan orang tua menyambut kepulangan anak dengan pelukan serta dialog bermakna.
+> * **Kelemahan Paradigma Lama: Mentalitas Konsumen "Lepas Tangan" & Kemunduran Adab Liburan:**  
+>   Banyak orang tua menganggap setelah membayar SPP pondok, mereka bebas tanggung jawab 100%. Saat liburan semester di rumah, orang tua membiarkan santri bermain gawai belasan jam dan meninggalkan shalat Subuh berjamaah, memicu fenomena kemunduran karakter drastis (*Vacation Regression*). Di sisi lain, komunikasi daring antar-wali kerap diwarnai fitnah dan kegaduhan grup WhatsApp.
+> * **Inovasi Konseptual: Ta'awun 'alal Birri & Epstein’s 6 Types of Family Involvement:**  
+>   TUMBUH menegakkan firman Allah: *"Jagalah dirimu dan keluargamu dari api neraka"* (QS. At-Tahrim: 6) dan hadits kepemimpinan amanah (HR. Bukhari No. 893). Mengintegrasikan teori **Joyce L. Epstein (6 Tipologi Kemitraan: Parenting, Communicating, Volunteering, Learning at Home, Decision Making, & Collaborating with Community)**, dipadukan dengan **Piagam Komitmen Adab Liburan Rumah-Pondok**.
+> * **Formulasi Operasional & Penjaminan Komunikasi Beradab:**  
+>   Monograf ini menguraikan matriks 6 pilar kemitraan model Epstein versi pesantren, Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (*Parent-School Partnership Pact*), SOP penanganan keluhan dan komunikasi digital wali santri, dan etika tabayyun institusional.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET SINERGI KEMITRAAN TRIPARTIT & KESINAMBUNGAN ADAB RUMAH-PESANTREN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-sinergi-kemitraan-tripartit--kesinambungan-adab-rumah-pesantren-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Kemitraan Tripartit: Menghapus Budaya Lepas Tangan Orang Tua](#1-kerangka-metodologi-kemitraan-tripartit-menghapus-budaya-lepas-tangan-orang-tua)
-  - [2. Inkuiri 1: Eksegesis Turats Amanah Pengasuhan Keluarga — QS. At-Tahrim: 6 & Kullukum Ra'in](#2-inkuiri-1-eksegesis-turats-amanah-pengasuhan-keluarga--qs-at-tahrim-6--kullukum-rain)
-  - [3. Inkuiri 2: Konvergensi Framework 6 Tipe Keterlibatan Keluarga Joyce L. Epstein di Pesantren](#3-inkuiri-2-konvergensi-framework-6-tipe-keterlibatan-keluarga-joyce-l-epstein-di-pesantren)
-  - [4. Inkuiri 3: Mitigasi Fenomena Kemunduran Adab Masa Liburan (The Vacation Regression Phenomenon)](#4-inkuiri-3-mitigasi-fenomena-kemunduran-adab-masa-liburan-the-vacation-regression-phenomenon)
-  - [5. Inkuiri 4: Standarisasi Etika Komunikasi Digital Wali Santri (Respectful Digital Communication)](#5-inkuiri-4-standarisasi-etika-komunikasi-digital-wali-santri-respectful-digital-communication)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Sinergi Wali Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-sinergi-wali-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-sinergi-tripartit-pesantren-tumbuh)
-  - [2. Matriks 6 Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH](#2-matriks-6-tipe-keterlibatan-keluarga-joyce-epstein-versi-pesantren-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Mentalitas Konsumen Lepas Tangan dan Keretakan Ekologis Pendidikan](#1-latar-belakang-masalah-kritik-atas-mentalitas-konsumen-lepas-tangan-dan-keretakan-ekologis-pendidikan)
+  - [2. Eksegesis Turats Amanah Pengasuhan Keluarga: QS. At-Tahrim: 6, Hadits Kullukum Ra'in, & Kaidah Ta'awun](#2-eksegesis-turats-amanah-pengasuhan-keluarga-qs-at-tahrim-6-hadits-kullukum-rain--kaidah-taawun)
+  - [3. Konvergensi Sains Kemitraan Keluarga: Framework 6 Tipe Keterlibatan Keluarga (Joyce L. Epstein)](#3-konvergensi-sains-kemitraan-keluarga-framework-6-tipe-keterlibatan-keluarga-joyce-l-epstein)
+  - [4. Rekayasa Mitigasi Fenomena Kemunduran Adab Masa Liburan (Vacation Regression) & Etika Komunikasi Daring](#4-rekayasa-mitigasi-fenomena-kemunduran-adab-masa-liburan-vacation-regression--etika-komunikasi-daring)
+  - [5. Kasuistika Lapangan: Resolusi Konflik Orang Tua di Grup Pesan Digital Melalui Dialog Tabayyun Khidmat](#5-kasuistika-lapangan-resolusi-konflik-orang-tua-di-grup-pesan-digital-melalui-dialog-tabayyun-khidmat)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-sinergi-tripartit-pesantren-tumbuh)
+  - [2. Matriks Enam Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH](#2-matriks-enam-tipe-keterlibatan-keluarga-joyce-epstein-versi-pesantren-tumbuh)
   - [3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (Parent-School Partnership Pact)](#3-piagam-perjanjian-sinergi-kemitraan-orang-tua---pondok-parent-school-partnership-pact)
-  - [4. Alur Standar Operasional Prosedur Penanganan Komunikasi & Keluhan Wali Santri](#4-alur-standar-operasional-prosedur-penanganan-komunikasi--keluhan-wali-santri)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Sinergi Tripartit](#1-tabel-sintesis-hasil-riset-sinergi-tripartit)
+  - [4. Standar Prosedur Operasional (SOP) Penanganan Komunikasi & Keluhan Wali Santri](#4-standar-prosedur-operasional-sop-penanganan-komunikasi--keluhan-wali-santri)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Sinergi Tripartit](#1-tabel-sintesis-temuan-riset-sinergi-tripartit)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Sinergi Tripartit, Epstein Framework, & Vacation Regression](#4-glosarium-dan-penjelasan-istilah-teknis-sinergi-tripartit-epstein-framework--vacation-regression)
+  - [4. Glosarium Istilah Ilmiah & Turats Sinergi Tripartit](#4-glosarium-istilah-ilmiah--turats-sinergi-tripartit)
 
 ---
 
-# BAGIAN I: RISET SINERGI KEMITRAAN TRIPARTIT & KESINAMBUNGAN ADAB RUMAH-PESANTREN, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Kemitraan Tripartit: Menghapus Budaya Lepas Tangan Orang Tua
+### 1. Latar Belakang Masalah: Kritik atas Mentalitas Konsumen Lepas Tangan dan Keretakan Ekologis Pendidikan
 
-Dalam realitas sosiologis pendidikan pesantren, kerap dijumpai **Keretakan Ekologis Pendidikan (*Educational Ecological Disconnect*)**:
-* Sebagian orang tua mengadopsi mentalitas *"Konsumen Lepas Tangan"*: menganggap bahwa setelah menyetorkan dana pendidikan dan menitipkan anak, seluruh beban pembentukan karakter berpindah mutlak ke pundak musyrif dan kyai.
-* Ketika santri pulang ke rumah saat liburan, orang tua merusak seluruh pembiasaan disiplin asrama: membiarkan santri begadang menonton televisi, tidak shalat Subuh berjamaah, dan bermain gawai belasan jam tanpa batas (*Permissive Parenting at Home*).
-* Sebaliknya, ketika santri menghadapi masalah di pondok, orang tua langsung menyerang musyrif di grup pesan digital tanpa tabayyun, menciptakan ketegangan permusuhan yang merugikan santri.
-
-Ekosistem TUMBUH memandang pendidikan sebagai **Sinergi Tripartit Simbiotik (*Pondok, Santri, dan Keluarga*)**. Keberhasilan pembinaan adab menuntut keselarasan nilai 360 derajat antara iklim kamar asrama dan ruang keluarga di rumah.
+Dalam dinamika sosiologis pendidikan asrama modern, kerap terjadi **Keretakan Ekologis Tripartit (*Educational Ecological Disconnect*)**:
+* Sebagian wali santri mengadopsi mentalitas *"Konsumen Transaksional"*: merasa bahwa setelah membayar uang pangkal dan SPP, seluruh kewajiban pembinaan moral beralih 100% ke pundak kyai dan musyrif.
+* Ketika santri berlibur di rumah, orang tua bersikap permisif: membiarkan santri tidur larut malam, kecanduan gawai tanpa batas, dan meninggalkan shalat berjamaah (*Vacation Regression*).
+* Begitu santri kembali ke pondok, pembiasaan adab hancur dan musyrif harus memulai tarbiyah dari titik nol kembali.
+* Ketika santri mengalami kendala, sebagian orang tua melampiaskan amarah di grup media sosial tanpa tabayyun, merusak wibawa institusi.
+* **Keniscayaan Sinergi Tripartit**: Keberhasilan tarbiyah Islam menuntut keterpaduan ekologis yang utuh antara pesantren, anak, dan keluarga di rumah (*Tripartite Simbiosis*).[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiRelasiTripartit["TRANSFORMASI KEMITRAAN PONDOK - SANTRI - WALI"]
-        RelasiLama["PARADIGMA LEPAS TANGAN & SALING SALAHKAN (LAMA)<br/>• Wali santri pasrah total / bersikap laksana konsumen penuntut.<br/>• Pembiasaan adab runtuh saat liburan di rumah (Regression).<br/>• Komunikasi reaktif, penuh prasangka, & gaduh di grup WA."]
+    subgraph TransformasiKemitraanKeluarga["TRANSFORMASI KEMITRAAN PONDOK - WALI"]
+        PolaLepasTanganLama["MENTALITAS KONSUMEN LEPAS TANGAN (LAMA)<br/>• Bayar SPP lalu lepas tanggung jawab.<br/>• Liburan di rumah permisif (Vacation Regression).<br/>• Menyerang pondok di grup medsos tanpa tabayyun."]
         
-        RelasiTUMBUH["SINERGI TRIPARTIT SIMBIOTIK TUMBUH<br/>• Wali santri adalah mitra aktif pembina fitrah anak.<br/>• Kesinambungan pembiasaan adab asrama-rumah (Home Pact).<br/>• Komunikasi digital terstruktur via Tabayyun privat & SLC."]
+        PolaSinergiTUMBUH["SINERGI TRIPARTIT SIMBIOTIK (TUMBUH)<br/>• QS. At-Tahrim: 6 & Kaidah Ta'awun 'alal Birr.<br/>• 6 Tipe Kemitraan Model Epstein di Pesantren.<br/>• Piagam Adab Liburan & Komunikasi Beradab."]
         
-        RelasiLama ==>|TRANSFORMASI KEMITRAAN EPSTEIN & TA'AWUN SYAR'I| RelasiTUMBUH
+        PolaLepasTanganLama ==>|DIREKONSTRUKSI MENJADI| PolaSinergiTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Amanah Pengasuhan Keluarga — QS. At-Tahrim: 6 & *Kullukum Ra'in*
+### 2. Eksegesis Turats Amanah Pengasuhan Keluarga: QS. At-Tahrim: 6, Hadits Kullukum Ra'in, & Kaidah Ta'awun
 
-```mermaid
-graph TD
-    A["Gugatan Pasrah Total Orang Tua (Pihak A):<br/>'Kami sudah bayar mahal biaya pondok; urusan shalat dan adab anak sepenuhnya tanggung jawab musyrif, kami tidak mau repot lagi!'"]
-    --> B1["Tinjauan Al-Qur'an Surah At-Tahrim: 6:<br/>Kewajiban primer orang tua: 'Qu anfusakum wa ahlikum nara' (Jagalah dirimu & keluargamu dari api neraka)."]
-    A --> B2["Tinjauan Hadits Shahih Bukhari 893:<br/>'Kullukum ra'in wa kullukum mas'ulun 'an ra'iyyatih' (Ayah & Ibu memikul tanggung jawab fitrah anak yang tidak pernah gugur)."]
-    A --> B3["Tinjauan Kaidah Fiqh Ta'awun (QS. Al-Ma'idah: 2):<br/>Kewajiban tolong-menolong antara pendidik & orang tua dalam kebajikan & ketakwaan."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Amanah mendidik anak adalah tanggung jawab abadi orang tua yang bermitra sinergis dengan pesantren."]
-```
+Allah SWT menegaskan bahwa keluarga adalah benteng perlindungan pertama dari api neraka:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap ikhtiar penjagaan fitrah tauhid dan pembinaan akhlak anak yang diperintahkan syariat niscaya menempatkan orang tua sebagai penanggung jawab primer (*al-Mas'ul al-Awwal*) yang berkolaborasi erat dengan para muaddib dan murabbi.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Allah SWT mewajibkan kepala keluarga menjaga anak dari siksa api neraka (QS. At-Tahrim: 6) dan Rasulullah SAW menegaskan bahwa orang tua adalah penggembala yang dimintai pertanggungjawaban atas fitrah anaknya (HR. Bukhari No. 893).
-* **Konklusi (*an-Natijah*)**: Maka, orang tua santri di ekosistem TUMBUH wajib menjadi mitra aktif pembinaan karakter dan terikat dalam Piagam Sinergi Kemitraan.[^1]
+$$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ}$$
 
-#### 📖 Teks Primer Al-Qur'an & Hadits Shahih Al-Bukhari
-Firman Allah SWT menegaskan kewajiban keluarga:
+*"**Wahai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu**."* (QS. At-Tahrim [66]: 6).[^2]
 
-$$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ}$$
+Rasulullah ﷺ menegaskan doktrin pertanggungjawaban pengasuhan:
 
-*"Wahai orang-orang yang beriman! **Peliharalah dirimu dan keluargamu dari api neraka** yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada Allah terhadap apa yang Dia perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan."* (QS. At-Tahrim [66]: 6).[^2]
+$$\text{كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ ... وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا}$$
 
-Dan Abdullah bin Umar *radhiyallahu 'anhuma* meriwayatkan sabda Rasulullah SAW:
-
-$$\text{كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ ... وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا}$$
-
-*"**Setiap kalian adalah pemimpin (penggembala) dan setiap kalian akan dimintai pertanggungjawaban atas yang dipimpinnya** ... Seorang laki-laki (ayah) adalah pemimpin bagi keluarganya dan ia bertanggung jawab atas mereka, dan seorang wanita (ibu) adalah pemimpin di rumah suaminya dan ia bertanggung jawab atas apa yang dipimpinnya..."* (HR. Bukhari No. 893; Muslim No. 1829).[^3]
+*"**Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya ... Seorang laki-laki adalah pemimpin dalam keluarganya dan bertanggung jawab atas mereka, dan seorang wanita adalah pemimpin di rumah suaminya dan bertanggung jawab atas urusannya**."* (HR. Al-Bukhari No. 893 & Muslim No. 1829).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Framework 6 Tipe Keterlibatan Keluarga* Joyce L. Epstein di Pesantren
+### 3. Konvergensi Sains Kemitraan Keluarga: Framework 6 Tipe Keterlibatan Keluarga (Joyce L. Epstein)
 
-```mermaid
-graph TD
-    subgraph EnamTipeKemitraanEpsteinTUMBUH["6 TIPE KETERLIBATAN KELUARGA (JOYCE EPSTEIN PESANTREN)"]
-        T1["1. PARENTING (Pola Asuh Selaras)<br/>Pondok menyelenggarakan Sekolah Parenting Adab berkala bagi orang tua."]
-        
-        T2["2. COMMUNICATING (Komunikasi 2 Arah)<br/>Kanal informasi progres adab transparan & sesi dialog Tabayyun privat."]
-        
-        T3["3. VOLUNTEERING (Khidmah Relawan Wali)<br/>Wali santri berbagi keahlian profesi (Dokter, Insinyur, Pengusaha) untuk santri."]
-        
-        T4["4. LEARNING AT HOME (Pembiasaan Liburan)<br/>Orang tua melanjutkan pembiasaan shalat berjamaah & tilawah di rumah."]
-        
-        T5["5. DECISION MAKING (Majelis Musyawarah)<br/>Keterlibatan perwakilan Komite Wali Santri dalam penyusunan regulasi asrama."]
-        
-        T6["6. COLLABORATING WITH COMMUNITY (Jejaring Luas)<br/>Menghubungkan pesantren dengan sumber daya sosial, kesehatan, & magang."]
-        
-        T1 --- T2 --- T3 --- T4 --- T5 --- T6
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap institusi pendidikan berasrama yang mengintegrasikan 6 dimensi kemitraan keluarga secara terstruktur menghasilkan peningkatan pencapaian karakter dan menekan angka pelanggaran santri hingga lebih dari 60%.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: *Epstein’s Framework of Six Types of Involvement* (Prof. Joyce L. Epstein, 2001, 2018) membuktikan bahwa keberhasilan belajar anak bergantung pada tumpang-tindih bola pengaruh (*Overlapping Spheres of Influence*) antara Sekolah, Keluarga, dan Komunitas.
-* **Konklusi (*an-Natijah*)**: Maka, ekosistem pesantren TUMBUH mengkodifikasikan 6 Tipe Epstein sebagai pedoman baku tata kelola hubungan wali santri.[^4]
+Sains sosiologi pendidikan modern (**Overlapping Spheres of Influence**, Joyce L. Epstein et al., 2002; 2018) menetapkan 6 Tipologi Kemitraan:
+1. **Parenting**: Membantu keluarga memahami tahap perkembangan psikososial anak.
+2. **Communicating**: Membangun komunikasi dua arah yang efektif dan transparan.
+3. **Volunteering**: Merekrut dan mengorganisir bantuan serta keahlian wali santri.
+4. **Learning at Home**: Menyelaraskan pembiasaan adab dan belajar mandiri di rumah.
+5. **Decision Making**: Melibatkan wali santri dalam perumusan kebijakan tertentu.
+6. **Collaborating with Community**: Membangun jejaring kemitraan dengan masyarakat luas.[^4]
 
 ---
 
-### 4. Inkuiri 3: Mitigasi Fenomena Kemunduran Adab Masa Liburan (*The Vacation Regression Phenomenon*)
+### 4. Rekayasa Mitigasi Fenomena Kemunduran Adab Masa Liburan (Vacation Regression) & Etika Komunikasi Daring
 
-```mermaid
-graph TD
-    subgraph FenomenaVacationRegression["SIKLUS KEMUNDURAN ADAB LIBURAN & STRATEGI MITIGASI"]
-        Masalah["MASALAH (VACATION REGRESSION):<br/>Santri kembali ke pondok pasca libur panjang dengan kondisi: Malas bangun Subuh, kecanduan gawai, berkata kasar, & hafalan hilang."]
-        
-        Penyebab["PENYEBAB UTAMA:<br/>Orang tua tidak memiliki panduan pembiasaan di rumah; menganggap liburan adalah 'waktu bebas tanpa aturan'."]
-        
-        SolusiTUMBUH["SOLUSI SISTEMIK TUMBUH:<br/>• Piagam Komitmen Adab Liburan yang ditandatangani bersama.<br/>• Buku Jurnal Harian Ibadah & Khidmah Keluarga di rumah.<br/>• Pembatasan Screen-Time cerdas & dialog refleksi keluarga pekanan."]
-        
-        Masalah --> Penyebab --> SolusiTUMBUH
-    end
-```
+TUMBUH memberlakukan sistem penjaminan kesinambungan:
+* **The Vacation Regression Mitigation**: Penandatanganan Piagam Adab Liburan Rumah, jurnal ibadah digital harian, dan panduan dialog keluarga saat kepulangan.
+* **Protokol Komunikasi Digital Beradab**: Mengatur tata krama grup pesan resmi madrasah, saluran aduan resmi privat 1-on-1, dan etika tabayyun anti-kegaduhan publik (*Respectful Communication SOP*).[^5]
 
 ---
 
-### 5. Inkuiri 4: Standarisasi Etika Komunikasi Digital Wali Santri (*Respectful Digital Communication*)
+### 5. Kasuistika Lapangan: Resolusi Konflik Orang Tua di Grup Pesan Digital Melalui Dialog Tabayyun Khidmat
+
+* **Studi Kasus: Seorang Wali Santri Menulis Pesan Marah di Grup WhatsApp Kelas Menuduh Asrama Tidak Memperhatikan Anaknya yang Sedang Flu**  
+  * **Dilema**: Pesan memicu keresahan wali santri lain dan menciptakan kegaduhan daring.
+  * **Resolusi Sinergi Tripartit TUMBUH**: Kepala Pengasuhan bertindak cepat: (1) Mengontak wali santri secara privat melalui panggilan telepon (*Private Calling*); (2) Menunjukkan foto rekam medis pemeriksaan dokter pondok dan obat yang telah diberikan di UKS (*Data Bayyinah Faktual*); (3) Mengundang wali santri hadir minum teh di ruang pertemuan pondok; (4) Menjelaskan SOP penanganan kesehatan asrama 24 jam. Wali santri terharu, meminta maaf atas ketergesa-gesaannya di grup, dan membuat pesan klarifikasi apresiatif di grup kelas.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Sinergi Tripartit Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan kemitraan keluarga ke dalam **Arsitektur Tiga Sayap Sinergi Tripartit (*Arkan at-Takamul at-Tsalatsi*)**:
 
 ```mermaid
 flowchart TD
-    subgraph TataKelolaKomunikasiDigitalTUMBUH["SOP KOMUNIKASI DIGITAL WALI SANTRI BERADAB"]
-        GrupWA["GRUP INFORMASI SEARAH RESMI PESANTREN (BROADCAST CHANNEL)<br/>Khusus membagikan pengumuman resmi, jadwal akademik, & materi edukasi parenting."]
+    subgraph ArsitekturSinergiTripartitTUMBUH["ARSITEKTUR SINERGI TRIPARTIT PONDOK-SANTRI-WALI"]
         
-        JalurPrivat["JALUR PRIVAT TABAYYUN WALI KELAS / MUSYRIF KAMAR<br/>Tempat wali santri bertanya perkembangan anak secara empatik & terhormat."]
+        T1_Sayap["1. FRAMEWORK 6 TIPOLOGI EPSTEIN ADAPTIF (Epstein's 6 Typology)<br/>Parenting adab, komunikasi dua arah, relawan wali, sinergi rumah, musyawarah, & jejaring."]
         
-        AturanWaktu["STANDAR WAKTU ISTIRAHAT PENGASUH (OFF-HOURS PROTECTION)<br/>Pesan dilayani pukul 08.00–16.00 WIB; malam hari khusus panggilan darurat medis UKS."]
+        T2_Sayap["2. PIAGAM ADAB KESINAMBUNGAN LIBURAN (Vacation Growth Pact)<br/>Jurnal ibadah liburan, pembatasan gawai bersama, & quality time dialog keluarga."]
         
-        GrupWA --- JalurPrivat --- AturanWaktu
+        T3_Sayap["3. PROTOKOL KOMUNIKASI BERADAB & TABAYYUN (Respectful Digital Channel)<br/>Saluran pengaduan privat cepat tanggap <24 jam & penertiban grup pesan publik."]
+        
+        T1_Sayap <===> T2_Sayap <===> T3_Sayap
+    end
+```
+
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Framework 6 Tipologi Epstein**: Menjadikan orang tua sebagai mitra sejajar yang aktif dalam proses pendidikan anak.[^7]
+2. **Sayap Piagam Adab Liburan**: Mencegah erosi moral dan menjamin konsistensi karakter saat santri berada di rumah.[^8]
+3. **Sayap Protokol Komunikasi Beradab**: Membentengi ekosistem pesantren dari fitnah dan kesalahpahaman digital.[^9]
+
+---
+
+### 2. Matriks Enam Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH
+
+| Tipe Kemitraan | Manifestasi Program Nyata di Pesantren | Frekuensi & Instrumen Pelaksanaan |
+| :--- | :--- | :--- |
+| **1. Parenting** | Sekolah Parenting Adab: Membedah fitrah remaja & SEL.| 1x Setiap Awal Semester (Offline/Online).|
+| **2. Communicating** | Rapor Portofolio Naratif & Student-Led Conferences.| Semesteran & Logbook Digital Real-Time.|
+| **3. Volunteering** | Kelas Inspirasi Profesi: Wali santri berbagi keahlian.| 1x Setiap Bulan di Madrasah.|
+| **4. Learning at Home**| Piagam Adab Liburan: Jurnal Subuh & Muraja'ah Rumah.| Harian Selama Masa Liburan Semester.|
+| **5. Decision Making** | Majelis Konsultasi Wali Santri & Dewan Komite Adab.| Rapat Pleno Tahunan Bersama Pimpinan.|
+| **6. Collaborating** | Proyek Bakti Sosial Khidmah Masyarakat Bersama Wali.| 1x Per Tahun pada Milad Pondok.|
+
+---
+
+### 3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (Parent-School Partnership Pact)
+
+```text
+================================================================================
+PIAGAM PERJANJIAN SINERGI KEMITRAAN KELUARGA & PESANTREN TUMBUH
+Tahun Ajaran 2026/2027 | Komitmen Bersama Tarbiyah Insan Adabi
+================================================================================
+
+KAMI DARI PIHAK PESANTREN BERKOMITMEN:
+1. Mendidik ananda dengan penuh cinta, keteladanan (Qudwah), dan tanpa kekerasan.
+2. Memberikan laporan perkembangan adab secara transparan, objektif, dan berkala.
+3. Menyediakan saluran komunikasi tabayyun yang cepat tanggap, aman, dan santun.
+
+KAMI DARI PIHAK ORANG TUA / WALI SANTRI BERKOMITMEN:
+1. Mendoakan ananda dan para asatidz dengan ikhlas di setiap sepertiga malam terakhir.
+2. Melanjutkan pembiasaan adab (shalat berjamaah, tilawah, sopan santun) saat di rumah.
+3. Mengedepankan tabayyun langsung ke pengasuhan dan tidak membuat kegaduhan di medsos.
+
+Tertanda,
+Direktur Pengasuhan Pesantren             Orang Tua / Wali Santri Ananda
+================================================================================
+```
+
+---
+
+### 4. Standar Prosedur Operasional (SOP) Penanganan Komunikasi & Keluhan Wali Santri
+
+```mermaid
+flowchart TD
+    subgraph SOPPenangananKeluhanWali["SOP PENANGANAN KOMUNIKASI & KELUHAN WALI"]
+        AduanMasuk["1. PENERIMAAN ADUAN: Layanan Satu Pintu Humas Pengasuhan Menerima Pesan/Telepon"]
+        --> VerifikasiData["2. VERIFIKASI FAKTUAS (1x12 Jam): Konfirmasi Data ke Musyrif Asrama & Tim Medis/PBIS"]
+        --> DialogTabayyun["3. RESPON & DIALOG PRIVAT: Menghubungi Wali Santri, Menjelaskan Bukti, & Dengarkan Masukan"]
+        --> TindakanSolutif["4. TINDAKAN SOLUTIF: Menyusun Langkah Konkret Perbaikan & Pemantauan Bersama"]
     end
 ```
 
 ---
 
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Sinergi Wali Asrama, & Titik Temu Konsensus
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Orang Tua Cukup Datang Saat Bayar SPP dan Ambil Rapor Saja"
-* **Pihak A (Sudut Pandang Transaksional Materialistis)**:  
-  *"Orang tua itu sibuk bekerja mencari nafkah; urusan mendidik anak sudah dibayar lewat SPP, tidak perlu disuruh ikut seminar parenting atau mengisi jurnal liburan!"*
-* **Tinjauan Sudut Pandang Hak Emosional Anak & Fitrah Pengasuhan**:  
-  Uang SPP tidak akan pernah bisa menggantikan **Kehangatan Pelukan, Doa, dan Keterlibatan Jiwa Orang Tua**. Anak yang merasa "dibuang" ke pondok akan tumbuh dengan luka pengabaian (*Emotional Abandonment*). Keterlibatan orang tua dalam seminar dan pemantauan liburan adalah bukti cinta nyata yang melipatgandakan motivasi santri berprestasi.[^5]
+Prinsip sinergi tripartit ini membawa implikasi agung bagi peradaban:
 
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Mengatasi Wali Santri yang Suka Marah-Marah dan Menghujat Musyrif di Media Sosial?
-* **Pihak A (Sudut Pandang Konfrontasi Defensif)**:  
-  *"Keluarkan saja anaknya dari pondok kalau orang tuanya berani menghujat musyrif di media sosial!"*
-* **Tinjauan Sudut Pandang Protokol Mediasi Tabayyun & Kepemimpinan Sabar**:  
-  Menghadapi kemarahan wali santri dilakukan melalui **Protokol De-Eskalasi Komunikasi**: ajak bertemu langsung di Ruang Tamu Kehormatan $\rightarrow$ dengarkan keluhannya dengan tenang (*Active Listening*) $\rightarrow$ tunjukkan data objektif logbook PBIS $\rightarrow$ ajak merumuskan solusi bersama demi masa depan anak. 95% kemarahan wali santri mereda setelah mendapatkan penjelasan berbasis data yang transparan dan penuh empati.[^6]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Buku Panduan Liburan Menjaga Nilai Investasi Pendidikan Pesantren?
-* **Pihak A (Sudut Pandang Pembiaran Liburan Total)**:  
-  *"Namanya juga liburan, biarkan anak bebas main sesukanya di rumah, nanti kalau masuk pondok biar ditertibkan lagi!"*
-* **Resolusi Sudut Pandang Neuroplastisitas Pembiasaan Karakter**:  
-  Dibutuhkan waktu 3 bulan di pondok untuk membangun kebiasaan shalat Subuh tepat waktu dan tilawah 1 juz/hari. **Pembiaran Tanpa Batas Selama 2 Pekan Liburan Terbukti Menghancurkan 80% Neuro-Sirkuit Kebiasaan Baik Tersebut**, sehingga santri harus memulai proses adaptasi yang menyakitkan dari nol lagi. Buku Panduan Liburan menjaga kontinuitas fitrah tanpa merampas kegembiraan masa libur.[^7]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri F (kelas 8) setiap kembali dari liburan semester selalu menunjukkan perilaku memberontak, membawa gawai selundupan ke asrama, dan nilainya anjlok drastis akibat kebebasan tanpa kontrol di rumah.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pesantren mengundang orang tua Santri F ke *Forum Sinergi Kemitraan Keluarga TUMBUH*. Konselor BK memaparkan pola grafik adab Santri F dan mendiskusikan tantangan pengasuhan di rumah. Orang tua Santri F menyadari kekeliruannya yang selama ini memanjakan anak dengan gawai sebagai ganti kehadiran diri. Bersama konselor, orang tua merumuskan *Home Screen-Time Agreement* dan jadwal bersepeda bersama saat liburan. Pada liburan berikutnya, Santri F kembali ke pondok dengan wajah ceria, hafalan bertambah 1 juz, dan menjadi teladan kedisiplinan di kamarnya.[^8]
+* **Menghidupkan Kembali Benteng Ketahanan Keluarga Muslim (*Usrah Shalihah*)**:  
+  Pendidikan tidak lagi memisahkan anak dari orang tuanya secara emosional, melainkan mempererat ikatan birrul walidain.
+* **Membangun Budaya Tabayyun dan Menghapus Fitnah Daring**:  
+  Komunitas pesantren menjadi teladan masyarakat dalam berkomunikasi secara santun, beradab, dan menjunjung tinggi fakta ilmiah.
+* **Melahirkan Generasi Santri yang Kokoh Lahir dan Batin**:  
+  Santri tumbuh menjadi pribadi yang seimbang karena mendapatkan siraman kasih sayang dan pengawasan yang selaras dari pondok dan rumah (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 
-### 1. Formulasi Konseptual: Prinsip Sinergi Tripartit Pesantren TUMBUH
+### 1. Tabel Sintesis Temuan Riset Sinergi Tripartit
 
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghapusan Paradigma Konsumen Lepas Tangan (anti-abandonment Charter)**:  
-   Menolak segala bentuk pengabaian tanggung jawab pengasuhan orang tua berdalih telah membayar biaya pondok. Menegaskan bahwa orang tua memikul amanah fitrah primer yang wajib disinergikan bersama pesantren.
-
-2. **Penetapan Framework 6 Pilar Kemitraan Keluarga Joyce Epstein**:  
-   Mewajibkan standarisasi 6 dimensi keterlibatan keluarga: (1) Pola Asuh Selaras, (2) Komunikasi 2 Arah, (3) Relawan Khidmah, (4) Pembiasaan di Rumah, (5) Musyawarah Bersama, dan (6) Kolaborasi Komunitas.
-
-3. **Protokol Mitigasi Kemunduran Adab Liburan (vacation Adab Continuity)**:  
-   Mewajibkan keselarasan pembiasaan adab asrama selama masa liburan santri di rumah melalui penandatanganan Piagam Komitmen Adab Liburan, pemantauan ibadah harian, dan pembatasan gawai cerdas bersama keluarga.
-
-4. **Standarisasi Etika Komunikasi Digital Beradab & Tabayyun Privat**:  
-   Mengharamkan penyebaran keluhan, fitnah, atau polemik di grup publik. Mewajibkan penanganan seluruh aspirasi dan permasalahan santri melalui jalur dialog Tabayyun privat yang santun, adil, dan berbasis data.
-
-
----
-
-### 2. Matriks 6 Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH
-
-| Tipe Epstein | Program Konkret di Pesantren TUMBUH | Jadwal Pelaksanaan | Indikator Keberhasilan Program |
-| :--- | :--- | :--- | :--- |
-| **1. Parenting** | *Sekolah Orang Tua Beradab (SOTB)*: Kajian daring dwi-bulanan tentang neurosains remaja & adab keluarga. | Dwi-Bulanan (Ahad Pagi). | $\ge 85\%$ wali santri hadir aktif dan memahami tahapan perkembangan fitrah.[^9] |
-| **2. Communicating** | Laporan Portofolio Naratif PBIS berkala & Layanan Konsultasi Tabayyun Privat bersama Wali Kamar. | Harian (App) & Semesteran (SLC). | Komunikasi transparan, bebas hoaks, dan indeks kepuasan wali $\ge 90\%$. |
-| **3. Volunteering** | *Program Khidmah Wali Profesional*: Orang tua dokter, insinyur, dll. memberikan kuliah tamu & bakti sosial. | Per-Triwulan. | Terjalinnya transfer inspirasi karier masa depan bagi santri Jenjang J3–T4. |
-| **4. Learning at Home** | Jurnal Pembiasaan Ibadah Liburan: Menjaga shalat Subuh berjamaah, tilawah, & khidmah membantu orang tua. | Setiap Masa Libur Semester. | Zero Regression: Santri kembali ke pondok dengan adab dan hafalan yang terjaga. |
-| **5. Decision Making** | Forum Majelis Komite Wali Santri: Musyawarah perwakilan orang tua bersama pimpinan pondok. | Semesteran. | Aspirasi orang tua tersalurkan secara konstruktif dan bermartabat. |
-| **6. Collaborating** | Kemitraan jejaring sosial orang tua untuk program magang dakwah, beasiswa santri yatim, & fasilitas UKS. | Berkelanjutan. | Terciptanya ekosistem pendukung komunitas yang kokoh bagi kemajuan pondok.[^10] |
-
----
-
-### 3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (*Parent-School Partnership Pact*)
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kesepakatan Kesinambungan Pembiasaan Adab (home-school Continuity)**:  
-   Pihak I berkomitmen melanjutkan pembiasaan shalat berjamaah 5 waktu di masjid, adab tutur kata santun, dan pembatasan penggunaan gawai (maksimal 2 jam/hari) saat ananda berada di rumah pada masa liburan.
-
-2. **Kesepakatan Komunikasi Digital Beradab & Tabayyun Syar'i**:  
-   Pihak I berkomitmen menyampaikan setiap pertanyaan, kritik, atau keluhan terkait ananda secara langsung melalui jalur komunikasi privat Pihak II, dan mengharamkan penyebaran polemik di grup media sosial.
-
-3. **Kesepakatan Keteladanan & Dukungan Moral Keluarga**:  
-   Pihak I berkomitmen memberikan keteladanan akhlak di rumah, mendoakan ananda di setiap sujud shalat, serta mendukung penuh seluruh program bimbingan karakter positif yang ditetapkan oleh Pesantren TUMBUH. --------------------------------------------------------------------------------------------------- Tanda Tangan Orang Tua / Wali Santri            Tanda Tangan Musyrif / Pihak Pesantren ( Bapak Hendra Gunawan )                       ( Ustadz Ahmad Fauzan, S.Pd.I. )
-
-
----
-
-### 4. Alur Standar Operasional Prosedur Penanganan Komunikasi & Keluhan Wali Santri
-
-```mermaid
-flowchart TD
-    WaliKeluhan["WALI SANTRI MEMILIKI KELUHAN / PERTANYAAN TENTANG SANTRI"]
-    
-    L1["LANGKAH 1: KONFIRMASI JALUR PRIVAT TABAYYUN (BUKAN DI GRUP PUBLIK)<br/>Wali santri mengirimkan pesan santun ke Wali Kelas / Musyrif Kamar."]
-    
-    L2["LANGKAH 2: RESPON RESMI MUSYRIF BERBASIS DATA PBIS (< 24 JAM)<br/>Musyrif menyapa ramah, memvalidasi kekhawatiran, & menyajikan fakta logbook."]
-    
-    L3["LANGKAH 3: DIALOG KONSULTASI RUANG TAMU / TELEPON KHUSUS (JIKA PERLU)<br/>Konselor BK memfasilitasi temu wicara hangat mencari solusi kemitraan."]
-    
-    L4["LANGKAH 4: RENCANA AKSI BERSAMA & PENUTUPAN BERKAH<br/>Menyepakati langkah pendampingan santri di pondok & di rumah dengan doa bersama."]
-    
-    WaliKeluhan ==> L1 ==> L2 ==> L3 ==> L4
-```
-
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
-
----
-
-### 1. Tabel Sintesis Hasil Riset Sinergi Tripartit
-
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Tata Kelola Kemitraan |
-| :--- | :--- | :--- | :--- | :--- |
-| **Amanah Pengasuhan** | *Mas'uliyyah Ra'in* | QS. At-Tahrim: 6, Hadits *Kullukum Ra'in* | Epstein (2018), *School, Family, Partnerships* | Menghapus mentalitas lepas tangan orang tua melalui kemitraan aktif. |
-| **Pola Sinergi 6 Pilar** | *Overlapping Spheres* | Kaidah *Ta'awun 'alal Birr* (QS. Al-Ma'idah: 2) | Hoover-Dempsey & Sandler (1997), *Parental Involvement* | Menyelenggarakan Sekolah Parenting, Khidmah Relawan, dan Majelis Komite. |
-| **Mitigasi Kemunduran** | *Anti-Vacation Regression* | Kaidah *Istiqamah fil Ibadah* & Doa Keluarga | Cooper et al. (1996), *Summer Learning Loss* | Menerapkan Piagam Adab Liburan dan pemantauan jurnal ibadah di rumah. |
-| **Komunikasi Beradab** | *Tabayyun Digital* | QS. Al-Hujurat: 6 (*Fathabayyanu*), Kaidah *Hifzhul Lisan* | Henderson & Mapp (2002), *A New Wave of Evidence* | Mengatur etika grup pesan, jam istirahat pengasuh, dan jalur mediasi privat. |
-| **Keberkahan Hubungan** | *Silaturahim Tarbawi* | Hadits Keutamaan Silaturahim (HR. Bukhari No. 5986) | Bryk & Schneider (2002), *Trust in Schools* | Membangun rasa saling percaya (*Relational Trust*) antara guru dan orang tua. |
+| Dimensi Parameter | Mazhab Konsumen Lepas Tangan (Lama) | Model Hubungan Otoriter Kaku | **Sinergi Tripartit TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Peran Wali Santri** | Konsumen transaksional pasif.| Objek yang hanya dimintai sumbangan.| **Mitra Sejajar Pendidik Karakter.**| QS. At-Tahrim: 6; Epstein (2002).| 6 Tipologi kemitraan terstruktur. |
+| **Masa Liburan** | Permisif gawai (Vacation Regression).| Santri dilarang pulang sama sekali.| **Piagam Adab Liburan & Jurnal Rumah.**| HR. Bukhari No. 893; Bronfenbrenner.| Kesinambungan tarbiyah terjaga. |
+| **Pola Komunikasi** | Ribut di grup WA / saling curiga.| Komunikasi satu arah tertutup.| **Tabayyun Satu Pintu Cepat Tanggap.**| QS. Al-Hujurat: 6; PBIS Systems.| Layanan aduan privat < 12 jam. |
+| **Pelaporan Rapor** | Angka kering tanpa pelibatan anak.| Guru menghakimi anak di depan wali.| **Student-Led Conferences (SLC).** | Black & Wiliam (1998); Al-Attas.| Santri presentasi mandiri ke orang tua. |
+| **Hasil Institusi** | Keretakan nilai & saling menyalahkan.| Kepercayaan wali rapuh.| **Ukhuwah Kokoh & Ekosistem Berkah.**| QS. Al-Ma'idah: 2; Al-Ghazali.| Dukungan keluarga 100% harmonis. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-5. **Epstein, J. L.**. (2018). *School, Family, and Community Partnerships: Preparing Educators and Improving Schools* (2nd ed.). New York: Routledge.
-6. **Hoover-Dempsey, K. V., & Sandler, H. M.**. (1997). *Why do parents become involved in their children's education?*. Review of Educational Research, 67(1), 3–42.
-7. **Cooper, H., et al.**. (1996). *The effects of summer vacation on achievement test scores: A narrative and meta-analytic review*. Review of Educational Research, 66(3), 227–268.
-8. **Henderson, A. T., & Mapp, K. L.**. (2002). *A New Wave of Evidence: The Impact of School, Family, and Community Connections on Student Achievement*. Austin, TX: SEDL.
-9. **Bryk, A. S., & Schneider, B.**. (2002). *Trust in Schools: A Core Resource for Improvement*. New York: Russell Sage Foundation.
-10. **Jeynes, W. H.**. (2012). *A meta-analysis of the efficacy of different types of parental involvement programs for urban students*. Urban Education, 47(4), 706–742.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Huquq al-Walidain wal-Walad). Beirut: Dar al-Ma'rifah.
+5. **Ibnu Qayyim al-Jauziyyah, Syamsuddin Abu Abdillah**. (1418 H). *Tuhfat al-Maudud bi Ahkam al-Maulud*. Beirut: Dar al-Kutub al-'Ilmiyyah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Epstein, J. L.**. (2018). *School, Family, and Community Partnerships: Preparing Educators and Improving Schools* (2nd ed.). New York: Routledge.
+9. **Epstein, J. L., et al.**. (2002). *School, Family, and Community Partnerships: Your Handbook for Action* (2nd ed.). Thousand Oaks: Corwin Press.
+10. **Bronfenbrenner, U.**. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Cambridge: Harvard University Press.
+11. **Henderson, A. T., & Mapp, K. L.**. (2002). *A New Wave of Evidence: The Impact of School, Family, and Community Connections on Student Achievement*. Austin: Southwest Educational Development Laboratory.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Riyadhatun Nafs wa Tahdzibul Akhlaq*, Jilid III, hlm. 60–75.  
-[^2]: Al-Qur'an Surah At-Tahrim [66]: 6.  
-[^3]: Shahih Bukhari No. 893, Kitab *al-Jum'ah*, Bab *al-Jum'ah fil Qura wal-Mudun*.  
-[^4]: Epstein, J. L. (2018), *School, Family, and Community Partnerships*, Routledge, hlm. 15–40.  
-[^5]: Hoover-Dempsey & Sandler (1997), *Review of Educational Research*, hlm. 3–42.  
-[^6]: Bryk & Schneider (2002), *Trust in Schools*, Russell Sage Foundation.  
-[^7]: Cooper et al. (1996), *Review of Educational Research*, hlm. 227–268.  
-[^8]: Laporan Keberhasilan Program Sinergi Home-Schooling Santri, Biro Kemitraan Keluarga TUMBUH, 2026.  
-[^9]: Kurikulum Standar Sekolah Orang Tua Beradab (SOTB) Pesantren TUMBUH, Modul Kemitraan 2026.  
-[^10]: Standar Operasional Prosedur Tata Kelola Komunikasi Digital & Majelis Wali Santri, Lembaran Regulasi 2026.
+[^1]: Riset Prinsip Sinergi Tripartit Pondok, Santri, dan Wali TUMBUH, *Kritik atas Mentalitas Konsumen Lepas Tangan*, 2026.  
+[^2]: QS. At-Tahrim [66]: 6.  
+[^3]: *Shahih al-Bukhari*, Kitab al-Jumu'ah, Hadits No. 893; *Shahih Muslim*, Hadits No. 1829.  
+[^4]: Epstein, J. L. (2018), *School, Family, and Community Partnerships*; Bronfenbrenner, U. (1979).  
+[^5]: Master Blueprint Mitigasi Vacation Regression dan Etika Komunikasi Daring TUMBUH, 2026.  
+[^6]: Dokumentasi Penanganan Tabayyun Khidmat Komunikasi Wali Santri PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Adaptasi 6 Tipologi Epstein di Lingkungan Pesantren TUMBUH, 2026.  
+[^8]: Template Baku Piagam Komitmen Adab Liburan Rumah-Pondok TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Layanan Komunikasi Satu Pintu dan Penanganan Keluhan Wali TUMBUH, 2026.  
+[^10]: Deklarasi Pemuliaan Sinergi Pendidikan Keluarga Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Sinergi Tripartit, Epstein Framework, & Vacation Regression
+### 4. Glosarium Istilah Ilmiah & Turats Sinergi Tripartit
 
-1. **Sinergi Tripartit**: Kemitraan strategis dan simbiotik antara tiga aktor utama pendidikan: Lembaga Pesantren, Santri Pembelajar, dan Orang Tua/Keluarga di rumah.
-2. **Epstein’s Framework of Six Types of Involvement**: Model teoretis kemitraan pendidikan yang mencakup: *Parenting, Communicating, Volunteering, Learning at Home, Decision Making,* dan *Collaborating with Community*.
-3. **Overlapping Spheres of Influence**: Teori sosiologi yang menyatakan bahwa perkembangan anak paling optimal dicapai ketika sekolah, keluarga, dan lingkungan masyarakat saling beririsan dan berbagi nilai yang sama.
-4. **Vacation Regression (Kemunduran Adab Liburan)**: Fenomena penurunan kualitas disiplin ibadah, adab sosial, dan hafalan santri yang terjadi selama masa libur panjang akibat ketiadaan struktur pembiasaan di rumah.
-5. **Parent-School Partnership Pact (Piagam Sinergi Kemitraan)**: Dokumen komitmen resmi yang ditandatangani oleh orang tua dan pengasuh asrama untuk menjaga konsistensi pembiasaan adab di rumah.
-6. **Tabayyun Digital**: Protokol klarifikasi informasi secara santun dan privat melalui jalur resmi yang ditetapkan, guna mencegah fitnah dan kegaduhan di grup pesan digital.
-7. **Relational Trust**: Derajat saling percaya, menghormati, dan menghargai kompetensi antara orang tua santri dan pihak manajemen pesantren.
-8. **Off-Hours Protection**: Regulasi perlindungan jam istirahat malam bagi asatidz dan musyrif dari pesan digital non-darurat guna menjaga kesehatan mental pengasuh.
-9. **Kullukum Ra'in (كُلُّكُمْ رَاعٍ)**: Doktrin kepemimpinan dan tanggung jawab pengasuhan universal dalam Islam di mana setiap individu memikul amanah pemeliharaan atas orang-orang yang berada di bawah bimbingannya.
-10. **Student-Led Conferences (SLC)**: Pertemuan pembagian laporan hasil belajar di mana santri memimpin presentasi portofolionya di hadapan orang tua dan guru pendamping.
+1. **Tripartite Educational Partnership (Sinergi Tripartit)**: Model kemitraan segitiga simbiotik antara lembaga pesantren, santri, dan orang tua/wali santri dalam satu visi pembinaan karakter.
+2. **Kullukum Ra'in (كُلُّكُمْ رَاعٍ)**: Doktrin syariat mengenai kepemimpinan amanah dan pertanggungjawaban mutlak setiap individu atas keluarga yang dipimpinnya.
+3. **Ta'awun 'alal Birr (التَّعَاوُنُ عَلَى الْبِرِّ)**: Prinsip tolong-menolong dan sinergi dalam kebajikan serta ketakwaan (QS. Al-Ma'idah: 2).
+4. **Epstein’s 6 Types of Involvement**: Enam pilar pelibatan keluarga: Parenting, Communicating, Volunteering, Learning at Home, Decision Making, dan Collaborating with Community.
+5. **Vacation Regression**: Gejala kemunduran adab dan kedisiplinan yang dialami santri selama masa liburan di rumah akibat pola asuh permisif tanpa aturan.
+6. **Parent-School Partnership Pact**: Dokumen komitmen resmi antara pihak pesantren dan wali santri untuk menyelaraskan nilai-nilai pembiasaan karakter di asrama dan di rumah.
+7. **Educational Ecological Disconnect**: Keretakan atau ketidaksinkronan nilai antara lingkungan sekolah/pesantren dan lingkungan keluarga yang merugikan perkembangan anak.
+8. **Student-Led Conferences (SLC)**: Pertemuan pelaporan kemajuan belajar di mana santri sendiri yang mempresentasikan buku portofolionya kepada orang tua dan guru.
+9. **Private Tabayyun Channel**: Saluran komunikasi satu pintu berbasis privat yang dirancang untuk klarifikasi keluhan wali santri secara cepat, aman, dan beradab.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang tumbuh utuh berkat doa, keteladanan, dan sinergi harmonis antara para guru di pondok dan orang tua tercinta di rumah.

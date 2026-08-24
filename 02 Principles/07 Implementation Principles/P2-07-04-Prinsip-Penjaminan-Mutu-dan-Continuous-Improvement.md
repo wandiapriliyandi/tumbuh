@@ -1,341 +1,265 @@
-# P2-07-04: PRINSIP PENJAMINAN MUTU DAN CONTINUOUS IMPROVEMENT
-## *Monograf Terpadu: Epistemologi Itqanul 'Amal (HR. Al-Baihaqi No. 4931) & Hisab Diri Kolektif (Hasibu Anfusakum), Konvergensi Siklus Mutu PDCA Deming & Kaizen dalam Pengasuhan Asrama, Instrumen Kepatuhan Tiered Fidelity Inventory (TFI PBIS Horner & Sugai), dan Audit Mutu Internal Karakter Bebas Intimidasi*
+# P2-07-04: PRINSIP PENJAMINAN MUTU DAN CONTINUOUS IMPROVEMENT (QUALITY ASSURANCE & CONTINUOUS IMPROVEMENT)
+## *Monograf Riset Akademik: Epistemologi Itqanul 'Amal (HR. Al-Baihaqi No. 4931) & Hisab Diri Kolektif (Hasibu Anfusakum), Siklus Mutu PDCA W. Edwards Deming & Kaizen, Tiered Fidelity Inventory (TFI Horner & Sugai), Serta Audit Mutu Internal Karakter di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-07-04/MONOGRAF-TERPADU-PENJAMINAN-MUTU-CONTINUOUS-IMPROVEMENT/2026`  
-**Domain**: `02 Principles` > `07 Implementation Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-07-04/MONOGRAF-RISET-PENJAMINAN-MUTU-CONTINUOUS-IMPROVEMENT/2026`  
+**Domain**: `02 Principles` > `07 Implementation Principles` (Prinsip Implementasi 04: *Quality Assurance & Continuous Improvement*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Implementasi)  
 **Rumpun Disiplin Pengkaji**: Penjaminan Mutu Pendidikan Pesantren (*Total Quality Management in Education*), Evaluasi Kepatuhan Implementasi PBIS (*Implementation Fidelity*), Analisis Keputusan Berbasis Data Perilaku (*Data-Driven Decision Making*), Fiqh Itqan dan Akuntabilitas Lembaga Islam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Jangan Biarkan Sistem Hanya Menjadi Tumpukan Kertas SOP (*Kultur Formalitas*):**  
->   Banyak pesantren memiliki buku tata tertib tebal, namun di lapangan musyrif tidak menjalankannya dan pimpinan tidak pernah memeriksa apakah aturan tersebut berjalan efektif. Penjaminan Mutu TUMBUH memastikan sistem adab dijalankan dengan sempurna (*Itqan*) dan terus disempurnakan setiap pekan.
-> * **Siklus Mutu 4 Tahap PDCA (Plan -> Do -> Check -> Act):**  
->   1. **Plan (Rencanakan):** Tetapkan target adab dan SOP musyrif yang jelas.  
->   2. **Do (Laksanakan):** Terapkan pembiasaan di asrama dan catat data di logbook digital PBIS.  
->   3. **Check (Evaluasi Data Tiap Bulan):** Lihat grafik: Mengapa di Asrama B banyak santri terlambat Subuh? Apakah karena kran air wudhu kurang?  
->   4. **Act (Tindak Lanjut Nyata):** Tambah kran air wudhu dan beri pelatihan musyrif agar masalah selesai tuntas.
-> * **Uji Kepatuhan Sistem (*Tiered Fidelity Inventory / TFI*):**  
->   Tim penjamin mutu memeriksa apakah seluruh kamar asrama menerapkan rasio apresiasi 4:1 dan program CICO dengan benar (Target minimal kelayakan: $\ge 80\%$ kepatuhan).
-> * **Audit Mutu yang Membimbing, Bukan Mencari Kesalahan:**  
->   Audit internal bukan untuk memarahi musyrif, melainkan untuk mendengarkan kesulitan lapangan dan memberikan bantuan fasilitas yang dibutuhkan.
+> * **Kelemahan Paradigma Lama: Ilusi Formalitas Kertas SOP & Rekayasa Laporan Akreditasi:**  
+>   Banyak lembaga pesantren merasa telah memiliki penjaminan mutu hanya karena memiliki tumpukan berkas SOP di lemari pimpinan. Namun di kamar asrama, SOP tidak dijalankan: musyrif tetap melakukan hukuman fisik, data buku catatan kosong, dan saat evaluasi data direkayasa (*Fabricated Compliance*).
+> * **Inovasi Konseptual: Itqanul 'Amal & Siklus PDCA Deming / Kaizen:**  
+>   TUMBUH menegakkan sabda Rasulullah ﷺ: *"Sesungguhnya Allah mencintai seorang hamba yang apabila melakukan suatu pekerjaan, ia melakukannya dengan Itqan (sempurna, profesional, dan presisi)"* (HR. Al-Baihaqi No. 4931) dan wasiat Sayyidina Umar RA (*Hasibu Anfusakum*). Mengintegrasikan teori **Siklus PDCA (Plan $\rightarrow$ Do $\rightarrow$ Check $\rightarrow$ Act)** W. Edwards Deming, falsafah perbaikan berkelanjutan (*Kaizen*), dan instrumen kepatuhan implementasi **Tiered Fidelity Inventory (TFI Horner & Sugai, Ambang Kepatuhan $\ge 80\%$)**.
+> * **Formulasi Operasional & Penjaminan Audit Mutu Internal:**  
+>   Monograf ini menguraikan matriks siklus PDCA pengasuhan adab 24 jam, template instrumen Pesantren TFI Rubric, SOP Audit Mutu Internal (AMI) karakter semesteran, dan etika evaluasi yang membimbing tanpa intimidasi.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET PENJAMINAN MUTU BERKELANJUTAN & PENGAMBILAN KEPUTUSAN BERBASIS DATA PBIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-penjaminan-mutu-berkelanjutan--pengambilan-keputusan-berbasis-data-pbis-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Penjaminan Mutu Pesantren: Dari Formalitas Kertas Menjadi Kultur Itqan & Kaizen](#1-kerangka-metodologi-penjaminan-mutu-pesantren-dari-formalitas-kertas-menjadi-kultur-itqan--kaizen)
-  - [2. Inkuiri 1: Eksegesis Turats Kesempurnaan Amal & Hisab Terus-Menerus — Itqanul 'Amal & Hasibu Anfusakum](#2-inkuiri-1-eksegesis-turats-kesempurnaan-amal--hisab-terus-menerus--itqanul-amal--hasibu-anfusakum)
-  - [3. Inkuiri 2: Konvergensi Siklus Mutu PDCA W. Edwards Deming & Kaizen dalam Pengasuhan Asrama](#3-inkuiri-2-konvergensi-siklus-mutu-pdca-w-edwards-deming--kaizen-dalam-pengasuhan-asrama)
-  - [4. Inkuiri 3: Instrumen Evaluasi Kepatuhan Sistem (Tiered Fidelity Inventory / TFI Sugai & Horner)](#4-inkuiri-3-instrumen-evaluasi-kepatuhan-sistem-tiered-fidelity-inventory--tfi-sugai--horner)
-  - [5. Inkuiri 4: Mekanisme Audit Mutu Internal (AMI) Karakter Semesteran Bebas Intimidasi](#5-inkuiri-4-mekanisme-audit-mutu-internal-ami-karakter-semesteran-bebas-intimidasi)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Audit Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-audit-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-penjaminan-mutu-continuous-improvement-pesantren-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Ilusi Kepatuhan Dokumen Kertas dan Ketiadaan Tindak Lanjut Nyata](#1-latar-belakang-masalah-kritik-atas-ilusi-kepatuhan-dokumen-kertas-dan-ketiadaan-tindak-lanjut-nyata)
+  - [2. Eksegesis Turats Kesempurnaan Amal & Hisab Terus-Menerus: Hadits Itqanul 'Amal & Hasibu Anfusakum](#2-eksegesis-turats-kesempurnaan-amal--hisab-terus-menerus-hadits-itqanul-amal--hasibu-anfusakum)
+  - [3. Konvergensi Sains Penjaminan Mutu: Siklus PDCA W. Edwards Deming, Falsafah Kaizen, & Data-Driven Decision Making](#3-konvergensi-sains-penjaminan-mutu-siklus-pdca-w-edwards-deming-falsafah-kaizen--data-driven-decision-making)
+  - [4. Rekayasa Evaluasi Kepatuhan Sistem (Tiered Fidelity Inventory / TFI PBIS) & Audit Mutu Bebas Intimidasi](#4-rekayasa-evaluasi-kepatuhan-sistem-tiered-fidelity-inventory--tfi-pbis--audit-mutu-bebas-intimidasi)
+  - [5. Kasuistika Lapangan: Peningkatan Mutu Ketertiban Subuh Asrama Melalui Siklus PDCA dan Perbaikan Sarana](#5-kasuistika-lapangan-peningkatan-mutu-ketertiban-subuh-asrama-melalui-siklus-pdca-dan-perbaikan-sarana)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-penjaminan-mutu--continuous-improvement-pesantren-tumbuh)
   - [2. Matriks Siklus PDCA Penjaminan Mutu Pengasuhan Adab Pesantren](#2-matriks-siklus-pdca-penjaminan-mutu-pengasuhan-adab-pesantren)
   - [3. Template Instrumen Audit Kepatuhan Implementasi PBIS Asrama (Pesantren TFI Rubric)](#3-template-instrumen-audit-kepatuhan-implementasi-pbis-asrama-pesantren-tfi-rubric)
-  - [4. Alur Standar Operasional Prosedur Audit Mutu Internal (AMI) Semesteran](#4-alur-standar-operasional-prosedur-audit-mutu-internal-ami-semesteran)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Penjaminan Mutu & Continuous Improvement](#1-tabel-sintesis-hasil-riset-penjaminan-mutu--continuous-improvement)
+  - [4. Alur Standar Operasional Prosedur (SOP) Audit Mutu Internal (AMI) Semesteran](#4-alur-standar-operasional-prosedur-sop-audit-mutu-internal-ami-semesteran)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Penjaminan Mutu & Continuous Improvement](#1-tabel-sintesis-temuan-riset-penjaminan-mutu--continuous-improvement)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Penjaminan Mutu, PDCA Deming, TFI PBIS, & Itqanul 'Amal](#4-glosarium-dan-penjelasan-istilah-teknis-penjaminan-mutu-pdca-deming-tfi-pbis--itqanul-amal)
+  - [4. Glosarium Istilah Ilmiah & Turats Penjaminan Mutu dan Kaizen](#4-glosarium-istilah-ilmiah--turats-penjaminan-mutu-dan-kaizen)
 
 ---
 
-# BAGIAN I: RISET PENJAMINAN MUTU BERKELANJUTAN & PENGAMBILAN KEPUTUSAN BERBASIS DATA PBIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Penjaminan Mutu Pesantren: Dari Formalitas Kertas Menjadi Kultur Itqan & Kaizen
+### 1. Latar Belakang Masalah: Kritik atas Ilusi Kepatuhan Dokumen Kertas dan Ketiadaan Tindak Lanjut Nyata
 
-Penyakit kronis dalam penjaminan mutu lembaga pendidikan adalah **Ilusi Kepatuhan Dokumen (*The Document Compliance Illusion*)**:
-* Pesantren merasa telah memiliki sistem mutu hanya karena memiliki bundel SOP dan piagam aturan yang tersusun rapi di lemari arsip kantor direktur.
-* Namun di kamar asrama pada pukul 03.00 pagi, SOP tersebut tidak pernah berjalan: musyrif tetap menyiram air got ke kasur santri yang terlambat bangun, catatan pelanggaran tidak diisi, dan pimpinan tidak pernah memvalidasi data lapangan.
-* Ketika akreditasi datang, seluruh data direkayasa (*Asal Bapak Senang / Fabricated Compliance*).
-
-Prinsip Islam memandang amanah pembinaan sebagai kewajiban profesional tertinggi yang menuntut kesempurnaan mutu (*Itqanul 'Amal*). Ekosistem TUMBUH menegakkan **Siklus Penjaminan Mutu Berkelanjutan PDCA (Plan-Do-Check-Act)** berbasis data analitik riil logbook PBIS 24 jam.
+Penyakit kronis dalam penjaminan mutu lembaga pendidikan adalah **Ilusi Kepatuhan Dokumen Formalitas (*The Paper Compliance Illusion*)**:
+* Pesantren merasa telah tertib dan bermutu tinggi hanya karena memiliki tumpukan bundel buku SOP tebal yang tersimpan di lemari direktur.
+* Namun di kamar asrama pada pukul 03.30 pagi, SOP tersebut tidak berjalan: musyrif tetap menyiram air ke kasur santri yang terlambat bangun, logbook digital kosong, dan pimpinan tidak pernah memvalidasi data lapangan secara objektif.
+* Saat visitasi akreditasi tiba, seluruh dokumen direkayasa secara kilat (*Asal Bapak Senang / Fabricated Compliance*).
+* **Keniscayaan Budaya Itqan dan Kaizen**: Penjaminan mutu dalam Islam bukan formalitas mencari sertifikat, melainkan ibadah hisab diri berkelanjutan (*Continuous Muhasabah*) berbasis data analitik riil guna memastikan setiap santri mendapatkan hak pengasuhan terbaik.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiPenjaminanMutu["TRANSFORMASI SISTEM PENJAMINAN MUTU PESANTREN"]
-        MutuFormalitas["PARADIGMA FORMALITAS KERTAS (LAMA)<br/>• SOP hanya hiasan lemari kantor.<br/>• Data direkayasa menjelang akreditasi formal.<br/>• Masalah asrama berulang tanpa perbaikan sistemik."]
+    subgraph TransformasiPenjaminanMutu["TRANSFORMASI PENJAMINAN MUTU PENGASUHAN"]
+        PolaKertasLama["FORMALITAS KERTAS & REKAYASA DATA (LAMA)<br/>• SOP tebal di lemari arsip; asrama tidak terurus.<br/>• Musyrif tetap memukul & data direkayasa saat audit.<br/>• Masalah berulang tanpa perbaikan nyata."]
         
-        MutuTUMBUH["KULTUR MUTU BERBASIS ITQAN & DATA PBIS (TUMBUH)<br/>• Siklus PDCA Deming & Kaizen perbaikan berkelanjutan.<br/>• Audit kepatuhan lapangan via Tiered Fidelity Inventory (TFI $\ge 80\%$).<br/>• Pengambilan keputusan berbasis grafik tren data 24 jam."]
+        PolaPDCATUMBUH["SIKLUS MUTU PDCA & KAIZEN ITQAN (TUMBUH)<br/>• Hadits Itqanul 'Amal & Hasibu Anfusakum.<br/>• Siklus Deming 4 Tahap: Plan -> Do -> Check -> Act.<br/>• Audit Kepatuhan TFI PBIS (Target >= 80%)."]
         
-        MutuFormalitas ==>|TRANSFORMASI PENJAMINAN MUTU HOLISTIK| MutuTUMBUH
+        PolaKertasLama ==>|DIREKONSTRUKSI MENJADI| PolaPDCATUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kesempurnaan Amal & Hisab Terus-Menerus — *Itqanul 'Amal* & *Hasibu Anfusakum*
+### 2. Eksegesis Turats Kesempurnaan Amal & Hisab Terus-Menerus: Hadits Itqanul 'Amal & Hasibu Anfusakum
 
-```mermaid
-graph TD
-    A["Gugatan Mutu Asal Berjalan (Pihak A):<br/>'Pesantren itu yang penting barokah kyai; tidak butuh audit-auditan mutu atau grafik data yang njelimet!'"]
-    --> B1["Tinjauan Hadits Sunan Al-Baihaqi 4931:<br/>'Inna Allaha yuhibbu idza 'amila ahadukum 'amalan an yutqinah' (Kewajiban menegakkan kesempurnaan mutu profesional)."]
-    A --> B2["Tinjauan Atsar Amirul Mukminin Umar bin Khattab RA:<br/>'Hasibu anfusakum qabla an tuhasabu' (Kewajiban audit & hisab diri kolektif secara terus-menerus)."]
-    A --> B3["Tinjauan Kaidah Ihsanul 'Amal (QS. Al-Mulk: 2):<br/>Tujuan penciptaan hidup adalah menguji siapa yang terbaik amalnya (Liyabluwakum ayyukum ahsanu 'amala)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Menegakkan penjaminan mutu berbasis data adalah manifestasi ibadah Itqan & Ihsan tertinggi."]
-```
+Rasulullah ﷺ mewajibkan profesionalisme kesempurnaan mutu dalam setiap karya dan amanah:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan Islam yang mengemban amanah umat niscaya wajib menjalankan tata kelola pengasuhan dengan derajat kesempurnaan mutu profesional (*Itqan*) dan evaluasi akuntabilitas berkelanjutan (*Muhasabah Nizhamiyyah*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW menegaskan bahwa Allah SWT mencintai hamba yang bekerja secara profesional-sempurna (HR. Al-Baihaqi No. 4931) dan Sayyidina Umar RA memerintahkan audit hisab sebelum datangnya hari hisab akbar.
-* **Konklusi (*an-Natijah*)**: Maka, ekosistem pesantren TUMBUH mewajibkan pembentukan Pusat Penjaminan Mutu Karakter dan penerapan siklus PDCA.[^1]
+$$\text{إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ}$$
 
-#### 📖 Teks Primer Hadits Syu'abul Iman & Atsar Sayyidina Umar RA
-Ummul Mukminin Aisyah *radhiyallahu 'anha* meriwayatkan sabda Rasulullah SAW:
+*"**Sesungguhnya Allah sangat mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal perbuatan, ia melakukannya dengan Itqan (sempurna, presisi, tuntas, dan bermutu tinggi)**."* (HR. Al-Baihaqi No. 4931 & Abu Ya'la).[^2]
 
-$$\text{إِنَّ اللَّهَ تَعَالَى يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ}$$
+Sayyidina Umar bin Khattab RA menegaskan falsafah evaluasi diri berkelanjutan:
 
-*"**Sesungguhnya Allah Ta'ala sangat mencintai apabila salah seorang di antara kalian melakukan suatu pekerjaan/tugas, ia melakukannya secara ITQAN (sempurna, profesional, rapi, dan bermutu tinggi)**."* (HR. Al-Baihaqi dalam *Syu'abul Iman* No. 4931; Abu Ya'la No. 4386).[^2]
+$$\text{حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا، وَزِنُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُوزَنُوا}$$
 
-Dan Amirul Mukminin Umar bin Khattab *radhiyallahu 'anhu* berwasiat:
-
-$$\text{حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا، وَزِنُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُوزَنُوا، فَإِنَّهُ أَهْوَنُ عَلَيْكُمْ فِي الْحِسَابِ غَدًا أَنْ تُحَاسِبُوا أَنْفُسَكُمُ الْيَوْمَ}$$
-
-*"**Lakukanlah hisab (audit evaluasi) atas diri kalian sebelum kalian dihisab di hadapan Allah!** Dan timbanglah amal kalian sebelum amal kalian ditimbang! Karena sesungguhnya hisab kalian di akhirat kelak akan jauh lebih ringan apabila kalian telah terbiasa menghisab diri kalian pada hari ini..."* (HR. Tirmidzi No. 2459; Ahmad dalam *az-Zuhd*).[^3]
+*"**Hisablah (evaluasilah) diri kalian sebelum kalian dihisab di akhirat, dan timbanglah amal kalian sebelum amal kalian ditimbang**."*[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Siklus Mutu PDCA W. Edwards Deming & *Kaizen* dalam Pengasuhan Asrama
+### 3. Konvergensi Sains Penjaminan Mutu: Siklus PDCA W. Edwards Deming, Falsafah Kaizen, & Data-Driven Decision Making
 
-```mermaid
-flowchart TD
-    subgraph SiklusPDCAPesantrenTUMBUH["SIKLUS MUTU PDCA DEMING PENGASUHAN PESANTREN"]
-        P["1. PLAN (Rencanakan Target Mutu)<br/>• Menetapkan ekspektasi adab BARS seluruh lokus.<br/>• Menyusun jadwal CICO & rasio apresiasi 4:1.<br/>• Merancang modul pelatihan musyrif."]
-        
-        D["2. DO (Eksekusi Lapangan & Pencatatan Data)<br/>• Mengajar adab secara eksplisit & keteladanan Qudwah.<br/>• Musyrif mencatat logbook digital via Fast-Tap UI.<br/>• Melaksanakan program pembiasaan kamar 24 jam."]
-        
-        C["3. CHECK (Analisis Data Bulanan & Audit TFI)<br/>• Meninjau grafik tren perilaku di dashboard PBIS.<br/>• Menghitung skor indeks kepatuhan sistem (TFI $\ge 80\%$).<br/>• Mengidentifikasi hotspot pelanggaran (cth: lorong wudhu)."]
-        
-        A["4. ACT (Standarisasi Solusi & Kaizen Berkelanjutan)<br/>• Melakukan rekayasa lingkungan (tambah kran wudhu/penerangan).<br/>• Memberikan diklat penyegaran teknik de-eskalasi.<br/>• Memperbarui SOP baku berdasarkan temuan data."]
-        
-        P ==> D ==> C ==> A ==> P
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem manajemen mutu terpadu yang memadukan siklus PDCA Deming dengan filosofi *Kaizen* (perbaikan terus-menerus langkah demi langkah) dan pengambilan keputusan berbasis data faktual niscaya meniadakan kegagalan berulang dan menjamin keunggulan lembaga.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Riset *Total Quality Management* (W. Edwards Deming, 1986; Masaaki Imai, 1986) dan *PBIS Data-Driven Decision Making* (Horner & Sugai, 2015) membuktikan keunggulan siklus PDCA dalam mereduksi deviasi mutu hingga di bawah 1%.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh divisi pengasuhan pesantren TUMBUH wajib mengoperasikan siklus PDCA setiap bulan.[^4]
+Sains manajemen mutu modern (**Total Quality Management**, W. Edwards Deming, 1986; Masaaki Imai, 1986) merumuskan 4 siklus perbaikan terus-menerus (*Kaizen*):
+1. **Plan**: Merumuskan target kompetensi adab dan SOP yang terukur.
+2. **Do**: Mengimplementasikan pembiasaan adab dan mencatat fakta di logbook digital PBIS.
+3. **Check**: Menganalisis grafik tren data, mendeteksi anomali masalah, dan audit kepatuhan.
+4. **Act**: Mengambil tindakan korektif sistemik (rekayasa fasilitas atau pelatihan musyrif).[^4]
 
 ---
 
-### 4. Inkuiri 3: Instrumen Evaluasi Kepatuhan Sistem (*Tiered Fidelity Inventory / TFI* Sugai & Horner)
+### 4. Rekayasa Evaluasi Kepatuhan Sistem (Tiered Fidelity Inventory / TFI PBIS) & Audit Mutu Bebas Intimidasi
 
-```mermaid
-graph TD
-    subgraph TigaTingkatAuditTFIPBIS["AUDIT TIERED FIDELITY INVENTORY (TFI) PESANTREN"]
-        TFI_T1["TFI TIER 1 (Universal Fidelity - Bobot 15 Poin)<br/>• Matriks adab terpasang di seluruh lokus.<br/>• Rasio apresiasi 4:1 terbukti dalam logbook.<br/>• Evaluasi data bulanan oleh pimpinan."]
-        
-        TFI_T2["TFI TIER 2 (Targeted Fidelity - Bobot 12 Poin)<br/>• Kriteria seleksi santri CICO transparan.<br/>• Pertemuan CICO 3x sehari berjalan konsisten.<br/>• Evaluasi dwi-mingguan persentase kartu."]
-        
-        TFI_T3["TFI TIER 3 (Intensive Fidelity - Bobot 15 Poin)<br/>• Dokumen FBA memuat hipotesis fungsi valid.<br/>• Rencana BIP memuat perilaku pengganti konkret.<br/>• Tim multidisiplin Wraparound bertemu mingguan."]
-        
-        TFI_T1 --- TFI_T2 --- TFI_T3
-        
-        Hasil["SYARAT KELAIKAN MUTU PBIS TUMBUH: SKOR TOTAL TFI $\ge 80\%$ DI SETIAP ASRAMA"]
-        
-        TFI_T1 & TFI_T2 & TFI_T3 ==> Hasil
-    end
-```
+TUMBUH memberlakukan instrumen evaluasi kepatuhan:
+* **Pesantren TFI Rubric (Sugai & Horner, 2017)**: Mengukur kepatuhan implementasi pada 3 domain: Fondasi Tim PBIS, Implementasi Lapangan, dan Pemanfaatan Data Keputusan (*Ambang Minimal Kelayakan $\ge 80\%$*).
+* **Audit Mutu Bebas Intimidasi (*Suportive Quality Audit*)**: Auditor bertindak sebagai konsultan pendamping, bukan jaksa pemeriksa kesalahan.[^5]
 
 ---
 
-### 5. Inkuiri 4: Mekanisme Audit Mutu Internal (AMI) Karakter Semesteran Bebas Intimidasi
+### 5. Kasuistika Lapangan: Peningkatan Mutu Ketertiban Subuh Asrama Melalui Siklus PDCA dan Perbaikan Sarana
+
+* **Studi Kasus: Tingginya Keterlambatan Shalat Subuh di Asrama B (35% Santri Terlambat Tiap Hari)**  
+  * **Dilema**: Musyrif lama menyalahkan santri yang malas dan memukul betis santri dengan sajadah lipat.
+  * **Resolusi Siklus PDCA TUMBUH**: Tim Penjamin Mutu melakukan tahapan PDCA: (1) *Check (Analisis Data)*: Diperiksa rekaman logbook dan observasi fisik; (2) *Temuan Faktual*: Terjadi antrean wudhu hingga 20 menit karena dari 8 kran air, 5 kran rusak dan debit air kecil; (3) *Act (Tindakan Rekayasa)*: Direktur Sarana menambah 10 kran air wudhu berdebit deras dan memperbaiki lampu lorong; (4) *Hasil*: Dalam 7 hari, angka keterlambatan Subuh turun drastis dari 35% menjadi 0.8% tanpa satu pun hukuman fisik.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan penjaminan mutu ke dalam **Arsitektur Tiga Sayap Itqan Kelembagaan (*Arkan Itqan at-Tarbiyah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph AlurAuditMutuInternalAMI["4 TAHAP AUDIT MUTU INTERNAL KARAKTER BEBAS INTIMIDASI"]
-        AMI1["1. AUDIT DOKUMEN & INTEGRITAS DATA DIGITAL (DESK EVALUATION)<br/>Auditor meninjau konsistensi logbook digital, reliabilitas Kappa, & dokumen BIP."]
+    subgraph ArsitekturPenjaminanMutuTUMBUH["ARSITEKTUR PENJAMINAN MUTU ITQAN & KAIZEN"]
         
-        AMI2["2. OBSERVASI LAPANGAN ALAMIAH ASRAMA 24 JAM (ON-SITE AUDIT)<br/>Auditor mengamati langsung interaksi musyrif-santri saat apel malam & shalat Subuh."]
+        Q1_Sayap["1. SIKLUS PDCA DEMING PENGASUHAN (Continuous Improvement Loop)<br/>Plan (Target Adab) -> Do (Implementasi 24 Jam) -> Check (Analisis Logbook) -> Act (Solusi Sistemik)."]
         
-        AMI3["3. WAWANCARA FOKUS DENGAN MUSYRIF & SANTRI (HEARING SESSION)<br/>Auditor menggali suara santri & musyrif tentang rasa aman, beban kerja, & fasilitas."]
+        Q2_Sayap["2. AUDIT KEPATUHAN TFI PBIS (Tiered Fidelity Inventory >= 80%)<br/>Pengukuran berkala kepatuhan rasio 4:1, pelaksanaan CICO, FBA, & restorative justice."]
         
-        AMI4["4. SIDANG PLENO PENETAPAN REKOMENDASI PERBAIKAN (EXIT CONFERENCE)<br/>Penyampaian apresiasi, rekomendasi suportif, & alokasi anggaran perbaikan fasilitas."]
+        Q3_Sayap["3. PENGAMBILAN KEPUTUSAN BERBASIS DATA (Data-Driven Decision Making)<br/>Keputusan didasarkan pada grafik fakta empiris digital, bukan prasangka atau emosi."]
         
-        AMI1 --> AMI2 --> AMI3 --> AMI4
+        Q1_Sayap <===> Q2_Sayap <===> Q3_Sayap
     end
 ```
 
----
-
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Audit Asrama, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Audit Karakter Meragukan Keikhlasan dan Keberkahan Musyrif"
-* **Pihak A (Sudut Pandang Sentimen Emosional)**:  
-  *"Musyrif sudah berkhidmah ikhlas siang malam; kalau diaudit logbook-nya berarti pengurus curiga dan meragukan keikhlasannya!"*
-* **Tinjauan Sudut Pandang Penjagaan Keikhlasan Melalui Ketertiban Sistem**:  
-  Audit penjaminan mutu **Bukan Menghakimi Niat Hati (*Niyyat*)**, melainkan **Memastikan Standar Pelayanan dan Perlindungan Hak Santri Berjalan Sempurna (*Itqanul Amal*)**. Keikhlasan yang hakiki selalu berbanding lurus dengan ketertiban dan kedisiplinan kerja. Audit justru melindungi musyrif dari tuduhan sepihak.[^5]
-
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Jika Hasil Audit TFI Menunjukkan Skor Asrama di Bawah 80%?
-* **Pihak A (Sudut Pandang Pemecatan Punitif Cepat)**:  
-  *"Kalau ada asrama yang skor TFI-nya rendah, langsung pecat kepala asramanya dan ganti orang baru!"*
-* **Tinjauan Sudut Pandang Continuous Improvement & Pendampingan Sistem**:  
-  Skor TFI di bawah 80% adalah **Sinyal Kebutuhan Bantuan (*Support Needed Indicator*)**, bukan vonis hukuman. Tim penjamin mutu akan menganalisis penyebabnya: apakah rasio santri terlalu padat? Apakah fasilitas rusak? Tim memberikan bantuan fasilitas, *coaching* intensif selama 30 hari, dan melakukan audit ulang secara suportif.[^6]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Pengambilan Keputusan Harus Berbasis Data Bukan Asumsi Perasaan?
-* **Pihak A (Sudut Pandang Kepemimpinan Berbasis Feeling)**:  
-  *"Pimpinan pondok sudah berpengalaman puluhan tahun; cukup pakai insting dan perasaan batin saja, tidak perlu repot melihat grafik data!"*
-* **Resolusi Sudut Pandang Maqashid Keadilan Data-Driven**:  
-  Insting manusia rentan terhadap bias kognitif (*Confirmation Bias & Recency Effect*): satu kasus viral kemarin bisa membuat pimpinan panik dan membuat aturan keras yang menzalimi ratusan santri lainnya. **Data Analitik PBIS Menyajikan Fakta Objektif 360 Derajat**, sehingga solusi pimpinan tepat sasaran, adil, dan hemat sumber daya.[^7]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di Asrama C, tercatat lonjakan kasus santri mengantuk saat pelajaran pagi madrasah; musyrif menuduh santri malas dan menghukum mereka lari keliling lapangan setiap Subuh, namun masalah mengantuk tetap terjadi.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Tim Penjamin Mutu TUMBUH melakukan *Audit Siklus PDCA Berbasis Data*. Auditor memeriksa data waktu tidur asrama dan menemukan fakta lapangan: lampu lorong asrama sangat bising oleh dengungan trafo listrik yang rusak dan air mandi sering mati di malam hari, sehingga santri baru bisa tidur pukul 00.30 WIB. Solusi ACT: Manajemen mengganti instalasi listrik dan memperbaiki pompa air dalam 3 hari. Dalam 1 pekan, seluruh santri tidur nyenyak tepat pukul 22.00 WIB, kasus mengantuk di kelas turun 95%, dan hukuman lari dihapus total.[^8]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghapusan Formalitas Kertas (anti-fabricated Compliance Charter)**:  
-   Menolak segala bentuk rekayasa data dan formalitas administratif semu dalam penjaminan mutu adab. Penjaminan mutu wajib berakar pada data faktual riil kehidupan asrama 24 jam dan ikhtiar Itqan sejati.
-
-2. **Penetapan Siklus Mutu Pdca Deming & Kaizen (plan-do-check-act)**:  
-   Mewajibkan seluruh lini asrama dan madrasah mengoperasikan siklus mutu 4 tahap secara berkala: Merencanakan target adab (Plan) -> Menjalankan pendampingan (Do) -> Mengevaluasi data (Check) -> Memperbaiki sistem (Act).
-
-3. **Standarisasi Kepatuhan Sistem Berbasis Tiered Fidelity Inventory (tfi Pbis)**:  
-   Menetapkan instrumen TFI sebagai alat ukur kepatuhan implementasi pengasuhan di seluruh asrama, mewajibkan pencapaian skor minimal kelayakan Fidelity Implementasi sebesar 80% (Delapan Puluh Persen).
-
-4. **Protokol Audit Mutu Internal (ami) Karakter Bebas Intimidasi**:  
-   Mewajibkan penyelenggaraan AMI semesteran oleh auditor independen tersertifikasi yang berorientasi pada pemberdayaan suportif, perbaikan fasilitas, peningkatan kompetensi musyrif, dan perlindungan santri.
-
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Siklus PDCA Deming**: Menjamin ekosistem pengasuhan selalu adaptif dan terus bertumbuh (*Dynamic Kaizen*).[^7]
+2. **Sayap Audit Kepatuhan TFI PBIS**: Memastikan standar SOP dijalankan secara konsisten di seluruh asrama.[^8]
+3. **Sayap Keputusan Berbasis Data**: Menjauhkan lembaga dari bias subjektif dan vonis serampangan.[^9]
 
 ---
 
 ### 2. Matriks Siklus PDCA Penjaminan Mutu Pengasuhan Adab Pesantren
 
-| Tahapan PDCA | Agenda Operasional Penjaminan Mutu | Alat / Instrumen Kerja | Output Terukur Mutu |
-| :--- | :--- | :--- | :--- |
-| **1. Plan (Rencanakan)** | Menetapkan target karakter semesteran, standarisasi matriks adab BARS, & jadwal CICO. | Dokumen Kurikulum Adab & Kalender PBIS. | Target mutu terdefinisi jelas bagi seluruh asatidz/musyrif.[^9] |
-| **2. Do (Laksanakan)** | Menjalankan pembiasaan adab harian, pengajaran eksplisit, & pencatatan logbook Fast-Tap. | Aplikasi Logbook PBIS & Kartu CICO. | 100% interaksi adab terdokumentasi tanpa membebani musyrif. |
-| **3. Check (Evaluasi)** | Menganalisis grafik tren adab bulanan & audit skor kepatuhan TFI asrama. | Dashboard Analitik PBIS & Rubrik TFI. | Teridentifikasinya keberhasilan dan area rawan (*Hotspots*) secara presisi. |
-| **4. Act (Tindak Lanjut)** | Melakukan perbaikan lingkungan, diklat penyegaran musyrif, & revisi SOP baku. | Rencana Tindak Lanjut AMI & Anggaran Sarpras. | Masalah teratasi dari akar penyebab (*Zero Recurring Problems*).[^10] |
+| Siklus Tahapan | Aktivitas Utama di Ekosistem Pesantren | Output & Indikator Keberhasilan |
+| :--- | :--- | :--- |
+| **1. PLAN (Rencanakan)** | Tetapkan target adab jenjang J1–J4 & standarisasi SOP.| Dokumen Matrix PBIS & Jadwal Pengasuhan.|
+| **2. DO (Laksanakan)** | Terapkan di asrama, bimbingan CICO, & input fast-tap.| Logbook Digital terisi konsisten harian.|
+| **3. CHECK (Periksa Data)**| Rapat pleno bulanan membedah grafik tren pelanggaran.| Laporan Analitik Data & Audit TFI ($\ge 80\%$).|
+| **4. ACT (Tindak Lanjut)** | Perbaiki sarana, pelatihan musyrif, & update SOP.| Masalah tuntas di akar penyebab fisik/sistem.|
 
 ---
 
-### 3. Template Instrumen Audit Kepatuhan Implementasi PBIS Asrama (*Pesantren TFI Rubric*)
+### 3. Template Instrumen Audit Kepatuhan Implementasi PBIS Asrama (Pesantren TFI Rubric)
 
-```markdown
-===================================================================================================
-                  INSTRUMEN AUDIT TIERED FIDELITY INVENTORY (TFI) ASRAMA PESANTREN
-                                PESANTREN TUMBUH — SEMESTER GANJIL 2026/2027
-===================================================================================================
-Nama Asrama   : Asrama Al-Ghazali (Putra)           Jumlah Kamar / Santri : 6 Kamar / 90 Santri
-Kepala Asrama : Ustadz Ridwan Hakim, M.Ag.          Auditor Mutu          : Tim Pusat Penjaminan Mutu
----------------------------------------------------------------------------------------------------
-Skala Penilaian: 0 = Belum Diterapkan | 1 = Diterapkan Sebagian | 2 = Diterapkan Sempurna (Itqan)
+```text
+================================================================================
+INSTRUMEN AUDIT KEPATUHAN IMPLEMENTASI PBIS ASRAMA (PESANTREN TFI RUBRIC)
+Nama Asrama : Asrama Ali bin Abi Thalib | Auditor : Tim Penjamin Mutu Internal
+Skor Penilaian: 0 = Belum Diterapkan | 1 = Diterapkan Sebagian | 2 = Diterapkan Sempurna
+================================================================================
 
-NO.  ELEMEN AUDIT KEPATUHAN SISTEM PBIS ASRAMA                          SKOR (0-2)   BUKTI FISIK
----------------------------------------------------------------------------------------------------
-I. TIER 1: PENCEGAHAN UNIVERSAL (TARGET SKOR: $\ge 80\%$)
-1.1  Matriks ekspektasi adab tertulis dipajang di seluruh kamar & lorong.    [ 2 ]    Foto dokumentasi
-1.2  Musyrif mengajarkan adab secara eksplisit di lingkaran halaqah kamar.   [ 2 ]    Jurnal halaqah
-1.3  Rasio apresiasi positif minimal 4:1 terbukti dalam logbook digital.    [ 2 ]    Data analitik app
-1.4  Pemberian Konsekuensi Logis 4R bebas dari hukuman fisik/kekerasan.      [ 2 ]    Wawancara santri
-1.5  Pertemuan evaluasi data adab bulanan bersama seluruh musyrif kamar.     [ 2 ]    Notulensi rapat
+ELEMEN TIER 1: PENCEGAHAN UNIVERSAL & IKLIM ASRAMA (BOBOT: 40%)
+1. Matriks Ekspektasi Adab 3 Lokus terpajang rapi & dipahami santri    : [ 2 ]
+2. Musyrif menerapkan Rasio Apresiasi Positif 4:1 terverifikasi logbook : [ 2 ]
+3. SOP bebas kekerasan fisik (Zero Restraint) dipatuhi 100%           : [ 2 ]
 
-II. TIER 2: BIMBINGAN TERARAH CICO (TARGET SKOR: $\ge 80\%$)
-2.1  Kriteria objektif seleksi santri peserta program CICO berjalan adil.    [ 2 ]    Data skor BARS
-2.2  Pelaksanaan sesi Check-In pagi (05.30) & Check-Out malam (20.30) rutin. [ 2 ]    Kartu paraf CICO
-2.3  Evaluasi kelulusan program CICO dwi-mingguan berbasis target $\ge 80\%$.[ 2 ]    Grafik CICO
+ELEMEN TIER 2: BIMBINGAN TERARAH & CICO (BOBOT: 30%)
+4. Program CICO berjalan 3x sehari (Subuh, Siang, Malam) tepat waktu   : [ 2 ]
+5. Pertemuan koordinasi dwi-mingguan musyrif mentor & wali kelas       : [ 1 ]
 
-III. TIER 3: DUKUNGAN INTENSIF WRAPAROUND (TARGET SKOR: $\ge 80\%$)
-3.1  Pelaksanaan asesmen FBA Model ABC bagi santri krisis perilaku berat.    [ 2 ]    Dokumen FBA
-3.2  Dokumen BIP memuat modifikasi pemicu & perilaku pengganti (Replacement).[ 2 ]    Dokumen BIP
-3.3  Tim terpadu BK, Kepala Asrama, & Wali Santri bertemu secara berkala.    [ 2 ]    Berita acara temu
----------------------------------------------------------------------------------------------------
-TOTAL SKOR KEPATUHAN (TOTAL FIDELITY SCORE) : 20 / 20 = 100% (STATUS: 🌟 SANGAT ITQAN / PARIPURNA)
-===================================================================================================
+ELEMEN TIER 3: RESTORATIVE JUSTICE & DATA USE (BOBOT: 30%)
+6. Sengketa diselesaikan melalui Konferensi Restoratif Lingkaran 4R    : [ 2 ]
+7. Keputusan tindak lanjut berbasis data grafik analitik mingguan       : [ 2 ]
+
+TOTAL SKOR KEPATUHAN: 11 / 14 = 85.7% (STATUS: IMPLEMENTASI MUTU UNGGUL / MEMENUHI SYARAT)
+================================================================================
 ```
 
 ---
 
-### 4. Alur Standar Operasional Prosedur Audit Mutu Internal (AMI) Semesteran
+### 4. Alur Standar Operasional Prosedur (SOP) Audit Mutu Internal (AMI) Semesteran
 
 ```mermaid
 flowchart TD
-    AMI_SOP1["1. PERSIAPAN AUDIT MUTU (H-14 SEBELUM AMI)<br/>Pusat Penjaminan Mutu menetapkan jadwal, menunjuk auditor independen, & mengirim instrumen TFI."]
-    
-    AMI_SOP2["2. AUDIT DESK EVALUATION & ANALITIK DATA DIGITAL (H-3)<br/>Auditor meninjau konsistensi input logbook, reliabilitas Cohen's Kappa, & piagam ishlah."]
-    
-    AMI_SOP3["3. AUDIT VISITASI LAPANGAN ASRAMA 24 JAM (HARI-H)<br/>Auditor mengobservasi apel malam, kebersihan kamar, & wawancara sampel santri/musyrif."]
-    
-    AMI_SOP4["4. EXIT CONFERENCE & PENYERAHAN LAPORAN REKOMENDASI (H+3)<br/>Auditor menyampaikan temuan maslahat kepada Pengasuh Pondok & Dewan Masyayikh."]
-    
-    AMI_SOP1 --> AMI_SOP2 --> AMI_SOP3 --> AMI_SOP4
+    subgraph SOPAuditMutuInternalSemesteran["SOP AUDIT MUTU INTERNAL (AMI) SEMESTERAN"]
+        PenetapanJadwal["1. PENETAPAN JADWAL & INSTRUMEN: Tim Penjamin Mutu Menerbitkan Jadwal Audit Asrama"]
+        --> ObservasiLapanganTFI["2. OBSERVASI LAPANGAN & REVIEW DATA: Auditor Menilai Kepatuhan Menggunakan Rubrik TFI"]
+        --> DialogKemitraanMusyrif["3. DIALOG KEMITRAAN SUPORTIF: Mendiskusikan Kendala Lapangan & Rencana Solusi"]
+        --> LaporanRekomendasiDireksi["4. LAPORAN REKOMENDASI: Menyampaikan Hasil Audit & Alokasi Anggaran Perbaikan ke Direktur"]
+    end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Prinsip penjaminan mutu dan continuous improvement ini membawa implikasi agung bagi peradaban:
+
+* **Membuktikan Bahwa Nilai Islam Bersenyawa Sempurna dengan Profesionalisme Mutu**:  
+  Pesantren menyajikan bukti bahwa spiritualitas keikhlasan tidak bertentangan dengan ketelitian manajemen mutu, melainkan saling menyempurnakan (*Al-Islam Dinul Itqan*).
+* **Menghilangkan Budaya Menyalahkan Santri Secara Sepihak**:  
+  Lembaga selalu terlebih dahulu memeriksa sarana prasarana dan sistem kepengasuhannya sebelum menghakimi perilaku santri.
+* **Membangun Organisasi Pembelajar yang Berkelanjutan (*Learning Organization*)**:  
+  Pesantren terus bertransformasi menjadi mercusuar peradaban yang senantiasa beradaptasi dan berbenah menuju keunggulan dunia dan akhirat (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Penjaminan Mutu & Continuous Improvement
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Tata Kelola Mutu |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kesempurnaan Mutu** | *Itqanul 'Amal* | Hadits Itqan (HR. Al-Baihaqi No. 4931) | Deming (1986), *Out of the Crisis* | Mengganti formalitas kertas dengan penjaminan mutu riil 24 jam. |
-| **Hisab Berkelanjutan** | *Continuous Kaizen* | Atsar Umar RA (*Hasibu Anfusakum*) | Masaaki Imai (1986), *Kaizen Philosophy* | Mengoperasikan siklus PDCA setiap bulan untuk perbaikan bertahap. |
-| **Evaluasi Kepatuhan** | *Fidelity Assessment* | Kaidah *Al-Wafa' bil 'Uqud* (QS. Al-Ma'idah: 1) | Horner et al. (2014), *Tiered Fidelity Inventory* | Mengukur kepatuhan implementasi PBIS dengan target skor $\ge 80\%$. |
-| **Keputusan Berbasis Data** | *Data-Driven Decision* | Tradisi *Tabayyun & Hisab Faktual* | Sugai & Horner (2006), *Data-Based Decision Making* | Mengambil kebijakan pengasuhan berdasarkan grafik tren analitik PBIS. |
-| **Audit Suportif** | *AMI Bebas Intimidasi* | Wasiat *An-Nashihah wal Irsyad* | ISO 21001:2018 (*Educational Organizations Management*) | Audit yang memberdayakan dan menyelesaikan hambatan fasilitas. |
+---
+
+### 1. Tabel Sintesis Temuan Riset Penjaminan Mutu & Continuous Improvement
+
+| Dimensi Parameter | Mazhab Kepatuhan Dokumen Kertas (Lama) | Pendekatan Penilaian Acak Subjektif | **Sistem Mutu PDCA & Itqan TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Paradigma Mutu** | Formalitas arsip lemari direktur.| Menerka tanpa standar baku.| **Kultur Itqanul 'Amal & Kaizen.** | HR. Al-Baihaqi No. 4931; Deming.| Sempurna, tuntas, & presisi 24 jam. |
+| **Siklus Perbaikan** | Statis tanpa evaluasi bertahun-tahun.| Sporadis saat ada inspeksi mendadak.| **Siklus PDCA Berkelanjutan.** | Masaaki Imai (1986); Deming (1986).| Plan, Do, Check, Act bulanan. |
+| **Uji Kepatuhan** | Diukur dari ketebalan buku aturan.| Tidak ada alat ukur objektif.| **Tiered Fidelity Inventory (TFI $\ge 80\%$).**| Sugai & Horner (2017); McIntosh.| Audit kepatuhan berbasis bukti riil. |
+| **Dasar Keputusan**| Asumsi & amarah pimpinan.| Suasana hati pengasuh.| **Data-Driven Decision Making.** | Hasibu Anfusakum; PBIS Data.| Keputusan berbasis grafik logbook digital. |
+| **Hasil Institusi** | Rekayasa laporan & kebobrokan asrama.| Sistem rapuh tanpa akuntabilitas.| **Organisasi Pembelajar Terpercaya.** | QS. Al-Insyiqaq: 6; Al-Attas (1980).| Mutu pengasuhan unggul & berkah. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Baihaqi, Abu Bakr Ahmad bin al-Husain**. (1424 H). *Syu'abul Iman*. Riyadh: Maktabah ar-Rusyd.
-3. **At-Tirmidzi, Muhammad bin Isa**. (1998). *Sunan at-Tirmidzi*. Beirut: Dar al-Gharb al-Islami.
-4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-5. **Deming, W. E.**. (1986). *Out of the Crisis*. Cambridge, MA: MIT Center for Advanced Engineering Study.
-6. **Imai, M.**. (1986). *Kaizen: The Key to Japan's Competitive Success*. New York: McGraw-Hill.
-7. **Horner, R. H., Sugai, G., & Lewis, T.**. (2015). *School-wide PBIS Tiered Fidelity Inventory (TFI)*. Eugene, OR: OSEP Technical Assistance Center on PBIS.
-8. **Sugai, G., & Horner, R. R.**. (2006). *A promising approach for expanding and sustaining school-wide positive behavior support*. School Psychology Review, 35(2), 245–259.
-9. **Sallis, E.**. (2014). *Total Quality Management in Education* (3rd ed.). London: Routledge.
-10. **ISO 21001:2018**. *Educational organizations — Management systems for educational organizations — Requirements with guidance for use*. Geneva: International Organization for Standardization.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Baihaqi, Abu Bakr Ahmad bin al-Husain**. (1424 H). *Syu'ab al-Iman* (Hadits Itqanul 'Amal No. 4931). Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-Muraqabah wal-Muhasabah). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Deming, W. E.**. (1986). *Out of the Crisis*. Cambridge: MIT Center for Advanced Engineering Study.
+9. **Imai, M.**. (1986). *Kaizen: The Key to Japan's Competitive Success*. New York: McGraw-Hill.
+10. **Sugai, G., Horner, R. H., & McIntosh, K.**. (2017). *School-Wide Positive Behavioral Interventions and Supports (SWPBIS) Tiered Fidelity Inventory (TFI)*. Eugene: OSEP Technical Assistance Center on PBIS.
+11. **McIntosh, K., & Goodman, S.**. (2016). *Integrated Multi-Tiered Systems of Support: Blending RTI and PBIS*. New York: Guilford Press.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-Muraqabah wal-Muhasabah*, Jilid IV, hlm. 395–410.  
-[^2]: Al-Baihaqi, *Syu'abul Iman*, Hadits No. 4931; Maktabah ar-Rusyd.  
-[^3]: Sunan at-Tirmidzi No. 2459, Kitab *Shifatil Qiyamah*, Bab *Minhu*.  
-[^4]: Deming, W. E. (1986), *Out of the Crisis*, MIT Press; Imai, M. (1986), *Kaizen*, McGraw-Hill.  
-[^5]: Sallis, E. (2014), *Total Quality Management in Education*, Routledge.  
-[^6]: Horner, Sugai, & Lewis (2015), *PBIS Tiered Fidelity Inventory*, OSEP.  
-[^7]: Sugai & Horner (2006), *School Psychology Review*, hlm. 245–259.  
-[^8]: Laporan Audit Siklus PDCA Penanganan Keluhan Asrama C, Komite Mutu TUMBUH, 2026.  
-[^9]: Manual Mutu Standar Operasional Prosedur Pengasuhan Asrama 24 Jam, Divisi Mutu TUMBUH, 2026.  
-[^10]: Panduan Pelaksanaan Audit Mutu Internal (AMI) Karakter Pesantren, Lembaran Dokumen 2026.
+[^1]: Riset Prinsip Penjaminan Mutu dan Continuous Improvement Pesantren TUMBUH, *Kritik atas Formalitas Kertas SOP*, 2026.  
+[^2]: *Syu'ab al-Iman* karya Al-Baihaqi, Hadits No. 4931; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *Al-Muhasabah*, hlm. 380–415.  
+[^3]: Atsar Sayyidina Umar bin Khattab RA mengenai kewajiban hisab diri; Ibnu Muflih, *Al-Adab asy-Syar'iyyah*, Jilid 1, hlm. 140–165.  
+[^4]: Deming, W. E. (1986), *Out of the Crisis*; Imai, M. (1986), *Kaizen*.  
+[^5]: Sugai, G., Horner, R. H., & McIntosh, K. (2017), *SWPBIS Tiered Fidelity Inventory (TFI)*; McIntosh & Goodman (2016).  
+[^6]: Dokumentasi Pelaksanaan Siklus PDCA Penyelesaian Keterlambatan Shalat Subuh Asrama PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Siklus Mutu PDCA Pengasuhan Pesantren 24 Jam TUMBUH, 2026.  
+[^8]: Master Blueprint Adaptasi Tiered Fidelity Inventory (Pesantren TFI Rubric) TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Pengambilan Keputusan Berbasis Data Analitik PBIS TUMBUH, 2026.  
+[^10]: Deklarasi Pemuliaan Budaya Mutu Itqan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Penjaminan Mutu, PDCA Deming, TFI PBIS, & Itqanul 'Amal
+### 4. Glosarium Istilah Ilmiah & Turats Penjaminan Mutu dan Kaizen
 
-1. **Total Quality Management (TQM) in Education**: Pendekatan manajemen holistik yang berfokus pada perbaikan terus-menerus atas seluruh proses dan layanan pendidikan guna memenuhi kepuasan pemangku kepentingan.
-2. **Siklus PDCA (Plan-Do-Check-Act)**: Model iteratif empat langkah untuk pengendalian dan perbaikan proses bisnis serta tata kelola mutu institusi secara berkelanjutan.
-3. **Kaizen (改善)**: Filosofi perbaikan mutu berkelanjutan yang berfokus pada perubahan positif langkah demi langkah secara konsisten dan melibatkan seluruh anggota organisasi.
-4. **Tiered Fidelity Inventory (TFI)**: Instrumen validasi terstandarisasi untuk mengukur derajat kepatuhan dan integritas implementasi sistem PBIS pada Tier 1, Tier 2, dan Tier 3.
-5. **Implementation Fidelity (Integritas Penerapan)**: Tingkat kesesuaian antara intervensi atau SOP yang dipraktikkan di lapangan dengan protokol panduan aslinya.
-6. **Data-Driven Decision Making (DDDM)**: Pendekatan kepemimpinan dan manajemen yang mendasarkan seluruh perumusan kebijakan pada bukti data empiris faktual, bukan pada asumsi atau insting subjektif.
-7. **Itqanul 'Amal (إِتْقَانُ الْعَمَلِ)**: Prinsip syariat Islam mengenai keharusan bekerja dengan tingkat kecermatan, kerapian, keahlian, dan mutu tertinggi lillahi ta'ala.
-8. **Audit Mutu Internal (AMI)**: Proses evaluasi mandiri yang sistematis, independen, dan terdokumentasi untuk memastikan kesesuaian operasional lembaga dengan standar mutu yang ditetapkan.
-9. **Hotspots (Titik Rawan)**: Lokasi, waktu, atau situasi spesifik dalam ritme 24 jam asrama di mana frekuensi pelanggaran perilaku santri terdeteksi paling tinggi dalam analitik data.
-10. **Exit Conference**: Sesi pertemuan penutup audit mutu di mana tim auditor memaparkan temuan positif, apresiasi, dan rekomendasi perbaikan suportif kepada pimpinan auditee.
+1. **Continuous Improvement (Perbaikan Berkelanjutan / Kaizen)**: Falsafah manajemen yang berfokus pada upaya penyempurnaan proses, sistem, dan hasil pembinaan secara bertahap dan konsisten.
+2. **Itqanul 'Amal (إِتْقَانُ الْعَمَلِ)**: Standar moral dan profesionalisme tertinggi dalam Islam yang mewajibkan pelaksanaan setiap pekerjaan dengan sempurna, teliti, dan tuntas.
+3. **Hasibu Anfusakum (حَاسِبُوا أَنْفُسَكُمْ)**: Prinsip audit dan evaluasi diri berkelanjutan dalam Islam sebelum datangnya hari pertanggungjawaban di hadapan Allah SWT.
+4. **Siklus PDCA (Plan-Do-Check-Act)**: Model manajerial empat langkah W. Edwards Deming untuk mengontrol dan menyempurnakan mutu secara terus-menerus.
+5. **Tiered Fidelity Inventory (TFI)**: Instrumen validasi standar emas untuk mengukur tingkat kepatuhan dan integritas implementasi School-Wide PBIS pada Tier 1, 2, dan 3.
+6. **Data-Driven Decision Making (DDDM)**: Pendekatan pengambilan keputusan kelembagaan yang didasarkan pada analisis data faktual empiris, bukan pada intuisi atau emosi sesaat.
+7. **Audit Mutu Internal (AMI)**: Proses pemeriksaan sistematis dan independen yang dilakukan oleh tim internal lembaga untuk memastikan keselarasan operasional dengan standar mutu.
+8. **Implementation Fidelity**: Derajat sejauh mana suatu program pembinaan dijalankan persis sesuai dengan desain dan protokol rancangan aslinya.
+9. **Supportive Quality Audit**: Pendekatan audit yang berorientasi pada pendampingan, pemecahan masalah fasilitas, dan pemberdayaan staf, bukan penghakiman kesalahan.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri dan pengasuh yang berjiwa profesional, senantiasa beramal shalih secara itqan, dan berkomitmen menyempurnakan kebaikan tiada henti.

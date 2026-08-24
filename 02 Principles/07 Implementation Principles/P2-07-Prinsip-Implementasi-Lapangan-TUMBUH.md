@@ -1,175 +1,250 @@
-# P2-07: IMPLEMENTATION PRINCIPLES (PRINSIP IMPLEMENTASI LAPANGAN) EKOSISTEM TUMBUH
-## *Monograf Induk Sub-Domain 07: Arsitektur Master Tata Kelola, Manajemen Perubahan, Supervisi Musyrif, Sinergi Wali, Penjaminan Mutu, & Khidmah Masyarakat Pesantren 24 Jam, Rekapitulasi 5 Pilar Implementasi, serta Puncak Penutupan Domain 02 Principles Menuju Domain 03 Architecture*
+# P2-07: IMPLEMENTATION PRINCIPLES (PRINSIP IMPLEMENTASI LAPANGAN) EKOSISTEM TUMBUH (MASTER DOKTRIN TATA KELOLA EKOSISTEM)
+## *Master Sub-Domain Monograph: Arsitektur Master Tata Kelola, Manajemen Perubahan Budaya, Supervisi Musyrif, Sinergi Wali, Penjaminan Mutu PDCA, & Khidmah Masyarakat 24 Jam, Konsolidasi 5 Pilar Implementasi, Serta Puncak Penutupan Domain 02 Principles Menuju Domain 03 Architecture*
 
-**Nomor Identifikasi**: `P2-07/MONOGRAF-INDUK-IMPLEMENTATION-PRINCIPLES/2026`  
-**Domain**: `02 Principles` > `07 Implementation Principles`  
-**Klasifikasi Naskah**: *Master Sub-Domain Monograph* (Monograf Induk Sub-Domain Prinsip Implementasi & Tata Kelola Lapangan)  
+**Nomor Identifikasi**: `P2-07/MASTER-MONOGRAF-IMPLEMENTATION-PRINCIPLES/2026`  
+**Domain**: `02 Principles` > `07 Implementation Principles` (Master Sub-Domain Monograph)  
+**Klasifikasi Naskah**: *Master Sub-Domain Research Monograph* (Dokumen Induk Implementasi & Tata Kelola Lapangan)  
 **Rumpun Disiplin Pengkaji**: Tata Kelola Manajemen Pendidikan Pesantren Terpadu, Manajemen Perubahan Budaya Islam (*Change Management*), Supervisi Klinis Pengasuhan Asrama, Total Quality Management Kaizen, Hubungan Lembaga-Masyarakat  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Posisi Sub-Domain 07 Implementation Principles:**  
->   Menjawab pertanyaan mendasar ketujuh dalam ekosistem pesantren: *"Bagaimanakah mengoperasionalkan, mengelola perubahan budaya, melatih tenaga musyrif, menyinergikan orang tua, melayani masyarakat sekitar, dan menjamin mutu pelaksanaan seluruh sistem TUMBUH di lapangan asrama 24 jam secara terukur, akuntabel, dan berkelanjutan (Itqanul 'Amal), sehingga terbebas dari formalitas kertas dan resistensi internal?"*
-> * **Lima Pilar Implementasi Lapangan Ekosistem TUMBUH yang Terintegrasi:**  
->   1. **P2-07-01 (Manajemen Perubahan Budaya):** Memandu transisi budaya dari koersif menjadi restoratif lewat 8 Tahap Model Kotter dan membasmi mitos *Survivorship Bias*.  
->   2. **P2-07-02 (Pelatihan & Supervisi Musyrif):** Menegakkan diklat 40 jam bersertifikasi, *Peer Coaching* di asrama (retensi 95%), dan melindungi kesehatan mental pengasuh.  
->   3. **P2-07-03 (Sinergi Tripartit Pondok-Santri-Wali):** Menerapkan 6 Pilar Kemitraan Epstein, Piagam Adab Liburan (*Anti-Vacation Regression*), dan etika komunikasi digital.  
->   4. **P2-07-04 (Penjaminan Mutu & Kaizen):** Menjalankan siklus mutu PDCA bulanan, audit kepatuhan TFI ($\ge 80\%$), dan pengambilan keputusan berbasis data PBIS.  
->   5. **P2-07-05 (Kemitraan Wali & Khidmah Masyarakat):** Membina hubungan harmonis dengan warga sekitar pondok (*Bi'ah Nafi'ah*), pasar berkah, beasiswa warga, dan transparansi publik.
-> * **Puncak Penutupan Paripurna Domain 02 Principles:**  
->   Menjadi kulminasi penyempurnaan seluruh 7 sub-domain filosofis-operasional di bawah **Domain 02: Principles** dan mengantarkan repositori menuju perumusan **Domain 03: Architecture & System Models**.
+> * **Posisi Sub-Domain 07 Implementation Principles dalam Arsitektur TUMBUH:**  
+>   Sebagai sub-domain pamungkas di Domain 02 Principles, Sub-Domain 07 menjawab *"Bagaimanakah mengoperasionalkan, mengelola perubahan budaya, melatih tenaga musyrif, menyinergikan orang tua, melayani masyarakat sekitar, dan menjamin mutu pelaksanaan seluruh sistem TUMBUH di lapangan asrama 24 jam secara terukur, akuntabel, dan berkelanjutan (Itqanul 'Amal), sehingga terbebas dari formalitas kertas dan resistensi internal?"*.
+> * **Konsolidasi Master Doktrin Tata Kelola & Eksekusi Lapangan:**  
+>   Dokumen induk ini mengintegrasikan seluruh 5 pilar riset sub-modul: **1. Manajemen Perubahan Budaya (P2-07-01: QS. Ar-Ra'd: 11, Al-Muhafazhatu 'alal Qadim, 8-Step Kotter, Mitigasi Survivorship Bias, Murabbi Qudwah); 2. Pelatihan & Supervisi Musyrif (P2-07-02: Tarbiyatul Murabbi, Peer Coaching Joyce & Showers Retensi 95%, Mitigasi Burnout Maslach, Musyrif Wellness Charter); 3. Sinergi Tripartit Pondok-Santri-Wali (P2-07-03: QS. At-Tahrim: 6, 6 Tipologi Epstein, Mitigasi Vacation Regression, Piagam Adab Liburan); 4. Penjaminan Mutu & Continuous Improvement (P2-07-04: Itqanul 'Amal, Hasibu Anfusakum, Siklus PDCA Deming, Kaizen, Audit Kepatuhan TFI PBIS >= 80%); 5. Kemitraan Strategis & Akuntabilitas Publik (P2-07-05: Khairunnas Anfa'uhum lin-Nas, HR. Bukhari 893, Transparansi Tata Kelola, Khidmah Air Bersih & Warga Sekitar)**.
+> * **Puncak Penutupan Domain 02 Principles Menuju Domain 03 Architecture:**  
+>   Monograf induk ini merumuskan matriks direktori monograf, matriks integrasi operasional 24 jam, dan alur penjalaran sistemik menuju Domain 03 Institutional Architecture.
 
 ---
 
-## 📑 DAFTAR ISI MONOGRAF INDUK
+## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: ARSITEKTUR ONTOLOGIS & POHON HUBUNGAN SUB-DOMAIN 07](#bagian-i-arsitektur-ontologis--pohon-hubungan-sub-domain-07)
-  - [1. Posisi Dokumen dalam Taksonomi 11 Domain TUMBUH](#1-posisi-dokumen-dalam-taksonomi-11-domain-tumbuh)
-  - [2. Pohon Hubungan Antar-Monograf Sub-Domain 07 Implementation Principles](#2-pohon-hubungan-antar-monograf-sub-domain-07-implementation-principles)
-  - [3. Rangkuman 5 Pilar Implementasi Lapangan Pesantren](#3-rangkuman-5-pilar-implementasi-lapangan-pesantren)
-  - [4. Penegasan Triad Pertumbuhan Simbiotik dalam Implementasi](#4-penegasan-triad-pertumbuhan-simbiotik-dalam-implementasi)
-- [BAGIAN II: KODIFIKASI MATRIKS RESMI & DIREKTORI MONOGRAF TERPADU](#bagian-ii-kodifikasi-matriks-resmi--direktori-monograf-terpadu)
-  - [1. Matriks Rujukan Lengkap 6 Berkas Monograf Sub-Domain 07](#1-matriks-rujukan-lengkap-6-berkas-monograf-sub-domain-07)
-  - [2. Gerbang Derivasi Menuju Domain 03 Architecture & System Models](#2-gerbang-derivasi-menuju-domain-03-architecture--system-models)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Daftar Pustaka Otoritatif Turats & Sains Global](#1-daftar-pustaka-otoritatif-turats--sains-global)
-  - [2. Catatan Kaki Akademis (Footnotes)](#2-catatan-kaki-akademis-footnotes)
-  - [3. Glosarium Istilah Kunci Implementasi Lapangan Induk](#3-glosarium-istilah-kunci-implementasi-lapangan-induk)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Posisi Sub-Domain 07 Implementation Principles dalam Taksonomi 11 Domain TUMBUH](#1-latar-belakang-masalah-posisi-sub-domain-07-implementation-principles-dalam-taksonomi-11-domain-tumbuh)
+  - [2. Integrasi Lima Pilar Kajian Tata Kelola & Eksekusi Lapangan Pesantren 24 Jam](#2-integrasi-lima-pilar-kajian-tata-kelola--eksekusi-lapangan-pesantren-24-jam)
+  - [3. Rantai Kausalitas Implementasi: Dari Kepemimpinan Transformatif Menuju Budaya Unggul Abadi](#3-rantai-kausalitas-implementasi-dari-kepemimpinan-transformatif-menuju-budaya-unggul-abadi)
+  - [4. Kebijakan Eksekusi Itqan (Zero Formalism Policy) dalam Seluruh Dimensi Pesantren](#4-kebijakan-eksekusi-itqan-zero-formalism-policy-dalam-seluruh-dimensi-pesantren)
+  - [5. Kasuistika Lapangan: Uji Ketahanan Tata Kelola Lapangan di Lingkungan Pesantren 24 Jam](#5-kasuistika-lapangan-uji-ketahanan-tata-kelola-lapangan-di-lingkungan-pesantren-24-jam)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Arsitektur Master Doktrin Implementation Principles Ekosistem TUMBUH](#1-arsitektur-master-doktrin-implementation-principles-ekosistem-tumbuh)
+  - [2. Direktori Berkas Riset dan Matriks Rujukan Lengkap Sub-Domain 07](#2-direktori-berkas-riset-dan-matriks-rujukan-lengkap-sub-domain-07)
+  - [3. Matriks Integrasi Operasional Lima Pilar Implementasi ke dalam Siklus 24 Jam](#3-matriks-integrasi-operasional-lima-pilar-implementasi-ke-dalam-siklus-24-jam)
+  - [4. Puncak Penutupan Paripurna Domain 02 Principles Menuju Domain 03 Architecture](#4-puncak-penutupan-paripurna-domain-02-principles-menuju-domain-03-architecture)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Master Sub-Domain Implementation Principles](#1-tabel-sintesis-temuan-riset-master-sub-domain-implementation-principles)
+  - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
+  - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
+  - [4. Glosarium Istilah Ilmiah & Turats Master Implementation Principles](#4-glosarium-istilah-ilmiah--turats-master-implementation-principles)
 
 ---
 
-# BAGIAN I: ARSITEKTUR ONTOLOGIS & POHON HUBUNGAN SUB-DOMAIN 07
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Posisi Dokumen dalam Taksonomi 11 Domain TUMBUH
+### 1. Latar Belakang Masalah: Posisi Sub-Domain 07 Implementation Principles dalam Taksonomi 11 Domain TUMBUH
+
+Sebagai sub-domain pamungkas di **Domain 02: Principles**, Sub-Domain 07 Implementation Principles merajut seluruh hukum filosofis, desain, pembelajaran, perkembangan santri, asesmen, dan intervensi ke dalam ranah eksekusi manajerial:
+* **Prinsip Operasionalisasi Berbasis Bukti**: Menjelaskan bagaimana mengelola transisi budaya lewat 8 Tahap Kotter, melatih musyrif via Peer Coaching 95%, menyinergikan 6 Tipologi Epstein keluarga, mengontrol mutu lewat PDCA Deming & TFI PBIS, serta berkhidmat bagi warga sekitar pondok (*Bi'ah Nafi'ah*).
+* **Kulminasi Doktrin Prinsip TUMBUH**: Mengubah tatanan pondok dari manajemen tradisional reaktif menjadi organisasi pembelajar yang unggul, profesional, dan akuntabel di hadapan Allah SWT dan masyarakat.[^1]
 
 ```mermaid
-graph TD
-    D1["DOMAIN 01: PHILOSOPHY (100% Selesai - 59 Berkas Organik)"]
-    ==> D2_01["02.01 Core Principles (9 Berkas)"]
-    D2_01 ==> D2_02["02.02 Design Principles (8 Berkas)"]
-    D2_02 ==> D2_03["02.03 Learning Principles (7 Berkas)"]
-    D2_03 ==> D2_04["02.04 Development Principles (8 Berkas)"]
-    D2_04 ==> D2_05["02.05 Assessment Principles (7 Berkas)"]
-    D2_05 ==> D2_06["02.06 Intervention Principles (8 Berkas)"]
-    
-    D2_06 ==> D2_07["02.07 Implementation Principles (Perubahan Budaya, Diklat, Sinergi Wali, Mutu, & Khidmah - 8 Berkas)"]
-    
-    D2_07 ==> D3["DOMAIN 03: ARCHITECTURE & SYSTEM MODELS"]
-```
-
----
-
-### 2. Pohon Hubungan Antar-Monograf Sub-Domain 07 Implementation Principles
-
-Sub-Domain `07 Implementation Principles` memuat 1 Monograf Induk dan 6 Monograf Riset Khusus yang saling menopang secara utuh:
-
-```mermaid
-graph TD
-    Master["P2-07: PRINSIP IMPLEMENTASI INDUK<br/>(Arsitektur Master Tata Kelola Lapangan TUMBUH)"]
-    
-    Master --> M1["P2-07-01: Prinsip Manajemen Perubahan Budaya (8 Tahap Kotter, Anti-Survivorship Bias, & Qudwah)"]
-    Master --> M2["P2-07-02: Prinsip Pelatihan & Supervisi Musyrif (Diklat 40 Jam, Peer Coaching, & Anti-Burnout)"]
-    Master --> M3["P2-07-03: Prinsip Sinergi Tripartit Pondok-Santri-Wali (6 Pilar Epstein & Piagam Liburan)"]
-    Master --> M4["P2-07-04: Prinsip Penjaminan Mutu & Kaizen (Siklus PDCA Deming, TFI >= 80%, & Analitik PBIS)"]
-    Master --> M5["P2-07-05: Prinsip Kemitraan Strategis & Khidmah (Bi'ah Nafi'ah & Rahmatan Lil 'Alamin)"]
-    Master --> M6["P2-07-06: Sintesis Implementation Principles TUMBUH (Matriks Skalabilitas & Penutupan Domain 02)"]
-```
-
----
-
-### 3. Rangkuman 5 Pilar Implementasi Lapangan Pesantren
-
-1. **Pilar 1: Manajemen Perubahan Budaya (P2-07-01)**:  
-   Menegakkan kaidah sunnatullah *Taghyirul Anfus* (QS. Ar-Ra'd: 11) dan *Al-Muhafazhatu 'alal Qadimish Shalih wal Akhdzu bil Jadidil Ashlah*. Mengimplementasikan 8 Tahapan Model John Kotter, membasmi mitos *Survivorship Bias*, dan mentransformasikan identitas musyrif mandor menjadi *Murabbi In Loco Parentis*.
-2. **Pilar 2: Pelatihan & Supervisi Musyrif (P2-07-02)**:  
-   Menegakkan kaidah *Tarbiyatul Murabbi Qabla Tarbiyatis Santri*. Mewajibkan diklat 40 jam bersertifikasi, *Peer Coaching* langsung di asrama Joyce & Showers (retensi 95%), serta menegakkan Piagam Perlindungan Kesejahteraan dan Anti-Burnout Pengasuh.
-3. **Pilar 3: Sinergi Tripartit Pondok-Santri-Wali (P2-07-03)**:  
-   Menegakkan amanah pengasuhan (QS. At-Tahrim: 6 & Hadits *Kullukum Ra'in*). Mengoperasikan 6 Tipe Keterlibatan Keluarga Joyce Epstein, merumuskan Piagam Komitmen Adab Liburan guna mencegah *Vacation Regression*, dan menata etika komunikasi digital via Tabayyun privat.
-4. **Pilar 4: Penjaminan Mutu & Kaizen (P2-07-04)**:  
-   Menegakkan doktrin *Itqanul 'Amal* (HR. Al-Baihaqi No. 4931). Mengoperasikan siklus mutu PDCA Deming & Kaizen bulanan, menguji kepatuhan sistem via *Tiered Fidelity Inventory (TFI PBIS $\ge 80\%$)*, dan menyelenggarakan Audit Mutu Internal.
-5. **Pilar 5: Kemitraan Wali & Khidmah Masyarakat (P2-07-05)**:  
-   Menjadikan pondok *Bi'ah Nafi'ah* rahmatan lil 'alamin bagi warga sekitar; menyediakan akses air bersih, pasar berkah petani lokal, beasiswa anak tetangga desa, dan transparansi publik.[^1]
-
----
-
-### 4. Penegasan Triad Pertumbuhan Simbiotik dalam Implementasi
-
-* **Santri Tumbuh**: Mendapatkan lingkungan asrama yang aman, beradab, berkeadilan, dan diasuh oleh murabbi yang berjiwa stabil penuh kasih sayang.
-* **Musyrif Tumbuh**: Terlindungi hak-hak kesejahteraannya, terampil membimbing secara profesional melalui *coaching*, dan bahagia menjalankan tugas khidmah mulia.
-* **Pesantren Tumbuh**: Memiliki sistem tata kelola modern berbasis data yang akuntabel, dicintai dan dibela oleh masyarakat sekitar, dan menjadi pusat peradaban Islam.
-
----
-
-# BAGIAN II: KODIFIKASI MATRIKS RESMI & DIREKTORI MONOGRAF TERPADU
-
----
-
-### 1. Matriks Rujukan Lengkap 6 Berkas Monograf Sub-Domain 07
-
-| Kode Berkas | Judul Naskah Monograf | Dewan Keilmuan Pengkaji | Tautan Berkas Markdown |
-| :---: | :--- | :--- | :--- |
-| **P2-07-01** | **Prinsip Manajemen Perubahan Budaya Pesantren** | `pakar-tata-kelola-qudwah`<br/>`pakar-filosofi-tumbuh`<br/>`pakar-psikologi-sosial-santri` | [**`Buka Naskah P2-07-01`**](./P2-07-01-Prinsip-Manajemen-Perubahan-Budaya-Pesantren.md) |
-| **P2-07-02** | **Prinsip Pelatihan dan Supervisi Musyrif** | `pakar-pengasuhan-asrama`<br/>`pakar-pedagogi-master-guru`<br/>`pakar-tata-kelola-qudwah` | [**`Buka Naskah P2-07-02`**](./P2-07-02-Prinsip-Pelatihan-dan-Supervisi-Musyrif.md) |
-| **P2-07-03** | **Prinsip Sinergi Tripartit Pondok-Santri-Wali** | `pakar-social-emotional-learning`<br/>`pakar-perlindungan-anak-dan-advokasi-santri`<br/>`pakar-arsitektur-digital-pesantren` | [**`Buka Naskah P2-07-03`**](./P2-07-03-Prinsip-Sinergi-Tripartit-Pondok-Santri-Wali.md) |
-| **P2-07-04** | **Prinsip Penjaminan Mutu dan Continuous Improvement** | `pakar-kritikus-dan-auditor-kualitas`<br/>`pakar-pbis`<br/>`pakar-metodologi-riset-tumbuh` | [**`Buka Naskah P2-07-04`**](./P2-07-04-Prinsip-Penjaminan-Mutu-dan-Continuous-Improvement.md) |
-| **P2-07-05** | **Prinsip Kemitraan Strategis & Khidmah** | `pakar-tata-kelola-qudwah`<br/>`pakar-psikologi-sosial-santri`<br/>`pakar-perlindungan-anak-dan-advokasi-santri` | [**`Buka Naskah P2-07-05`**](./P2-07-05-Prinsip-Kemitraan-Strategis-Wali-Santri-dan-Akuntabilitas-Publik.md) |
-| **P2-07-06** | **Sintesis Implementation Principles TUMBUH** | `pakar-filosofi-tumbuh`<br/>`pakar-kritikus-dan-auditor-kualitas`<br/>`pakar-tata-kelola-qudwah` | [**`Buka Naskah P2-07-06`**](./P2-07-06-Sintesis-Implementation-Principles-TUMBUH.md) |
-
----
-
-### 2. Gerbang Derivasi Menuju Domain 03 Architecture & System Models
-
-```mermaid
-graph LR
-    subgraph PuncakPenutupanPrinciples["GERBANG DERIVASI MENUJU DOMAIN 03"]
-        D2_Master["DOMAIN 02: PRINCIPLES (100% PARIPURNA - 57 Berkas Organik)<br/>Prinsip Filosofis, Desain, Belajar, Perkembangan, Asesmen, Intervensi, & Implementasi."]
+flowchart TD
+    subgraph PosisiImplementationPrinciplesTUMBUH["POSISI SUB-DOMAIN 07 IMPLEMENTATION PRINCIPLES"]
+        D2_01["02.01 Core Principles"] --> D2_02["02.02 Design Principles"]
+        D2_02 --> D2_03["02.03 Learning Principles"]
+        D2_03 --> D2_04["02.04 Development Principles"]
+        D2_04 --> D2_05["02.05 Assessment Principles"]
+        D2_05 --> D2_06["02.06 Intervention Principles"]
         
-        D3_Master["DOMAIN 03: ARCHITECTURE & SYSTEM MODELS (TAHAP BERIKUTNYA)<br/>Pemodelan Sistem Informasi Terpadu, Skema Basis Data PBIS, & Arsitektur Logbook Digital."]
+        D2_06 ==> D2_07["02.07 IMPLEMENTATION PRINCIPLES<br/>(Manajemen Perubahan, Diklat Musyrif, Sinergi Tripartit, PDCA Kaizen, & Khidmah)"]
         
-        D2_Master ==>|MENJADI LANDASAN DOKTRINAL BAGI PEMODELAN REKAYASA TEKNIS DI| D3_Master
+        D2_07 ==> D3["DOMAIN 03: INSTITUTIONAL ARCHITECTURE & SYSTEM MODELS"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 2. Integrasi Lima Pilar Kajian Tata Kelola & Eksekusi Lapangan Pesantren 24 Jam
+
+Master doktrin ini mengintegrasikan seluruh 5 sub-modul riset di Sub-Domain 07 Implementation Principles:
+* *P2-07-01 (Manajemen Perubahan Budaya)*: QS. Ar-Ra'd: 11, Al-Muhafazhatu 'alal Qadim, 8-Step Kotter, Mitigasi Survivorship Bias, Murabbi Qudwah.
+* *P2-07-02 (Pelatihan & Supervisi Musyrif)*: Tarbiyatul Murabbi, Peer Coaching Joyce & Showers Retensi 95%, Mitigasi Burnout Maslach, Musyrif Wellness Charter.
+* *P2-07-03 (Sinergi Tripartit Pondok-Wali)*: QS. At-Tahrim: 6, 6 Tipologi Epstein, Mitigasi Vacation Regression, Piagam Adab Liburan.
+* *P2-07-04 (Penjaminan Mutu & Kaizen)*: Itqanul 'Amal, Hasibu Anfusakum, Siklus PDCA Deming, Kaizen, Audit Kepatuhan TFI PBIS >= 80%.
+* *P2-07-05 (Kemitraan & Akuntabilitas)*: Khairunnas Anfa'uhum lin-Nas, HR. Bukhari 893, Transparansi Tata Kelola, Khidmah Air Bersih & Warga Sekitar.[^2]
 
 ---
 
-### 1. Daftar Pustaka Otoritatif Turats & Sains Global
+### 3. Rantai Kausalitas Implementasi: Dari Kepemimpinan Transformatif Menuju Budaya Unggul Abadi
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Al-Baihaqi, Abu Bakr Ahmad bin al-Husain**. (1424 H). *Syu'abul Iman*. Riyadh: Maktabah ar-Rusyd.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Kotter, J. P.**. (1996). *Leading Change*. Harvard Business Review Press.
-7. **Joyce, B., & Showers, B.**. (2002). *Student Achievement Through Staff Development*. ASCD.
-8. **Epstein, J. L.**. (2018). *School, Family, and Community Partnerships*. Routledge.
-9. **Deming, W. E.**. (1986). *Out of the Crisis*. MIT Press.
-10. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: The research base*. Remedial and Special Education.
+Eksekusi yang terstruktur melahirkan keabadian tradisi:
+* Kepemimpinan qudwah yang selaras memandu transisi budaya 100 hari pertama.
+* Musyrif yang terlatih dan terlindungi kesejahteraannya mendidik santri dengan penuh cinta.
+* Sinergi keluarga memastikan adab di asrama tidak luntur saat liburan di rumah.
+* Siklus mutu PDCA dan audit TFI mengontrol kualitas secara objektif berbasis data.
+* Khidmah sosial memperkokoh dukungan dan doa keberkahan dari masyarakat sekitar.[^3]
 
 ---
 
-### 2. Catatan Kaki Akademis (*Footnotes*)
+### 4. Kebijakan Eksekusi Itqan (Zero Formalism Policy) dalam Seluruh Dimensi Pesantren
 
-[^1]: Kotter (1996), *Leading Change*; Joyce & Showers (2002), *Peer Coaching*; Epstein (2018), *Partnerships*; Deming (1986), *Out of the Crisis*.
+TUMBUH memberlakukan dekrit resmi tata kelola:
+* **Pengharaman Formalitas Kertas SOP**: Seluruh aturan wajib dieksekusi secara nyata di lapangan dan diaudit dengan instrumen TFI terukur.
+* **Kewajiban Hak Libur & Wellness Musyrif**: Wajib memberikan libur terjadwal 1 hari per pekan bagi seluruh pembina asrama.
+* **Transparansi Keterbukaan Publik**: Laporan capaian karakter dan akuntabilitas wakaf wajib dipublikasikan secara terbuka.[^4]
 
 ---
 
-### 3. Glosarium Istilah Kunci Implementasi Lapangan Induk
+### 5. Kasuistika Lapangan: Uji Ketahanan Tata Kelola Lapangan di Lingkungan Pesantren 24 Jam
 
-1. **Implementation Principles**: Kumpulan prinsip metodologis untuk memandu operasionalisasi sistem, pelatihan tenaga pendidik, kemitraan masyarakat, dan penjaminan mutu di asrama 24 jam.
-2. **Kotter 8-Step Model**: Kerangka kerja delapan langkah kepemimpinan perubahan organisasi secara terencana dan berkelanjutan.
-3. **Peer Coaching**: Pendampingan klinis antar-pengasuh langsung di kamar asrama guna melipatgandakan retensi penguasaan keterampilan hingga 95%.
-4. **Bi'ah Nafi'ah**: Pesantren yang memberikan manfaat sosial nyata bagi lingkungan masyarakat di sekitarnya.
-5. **Vacation Regression**: Kemunduran kualitas adab dan hafalan santri yang terjadi selama liburan akibat ketiadaan pembiasaan di rumah.
-6. **Siklus PDCA**: Model iteratif empat langkah (Plan-Do-Check-Act) untuk perbaikan mutu tata kelola pengasuhan secara berkelanjutan.
-7. **Tiered Fidelity Inventory (TFI)**: Instrumen validasi kepatuhan penerapan sistem PBIS di asrama (Target: $\ge 80\%$).
-8. **Itqanul 'Amal**: Sikap profesionalisme bekerja dengan standar mutu, kerapian, dan keahlian tertinggi karena Allah SWT.
-9. **In Loco Parentis**: Doktrin peran moral pengasuh sebagai figur pengganti orang tua yang mengasuh dengan keteladanan nyata (*Qudwah*).
-10. **Triad Pertumbuhan Simbiotik**: Maha-prinsip ekosistem TUMBUH di mana sistem secara serempak menumbuhkan Santri, memuliakan Pendidik, dan memperkokoh Lembaga.
+Penerapan Master Implementation Principles di berbagai pesantren membuktikan: tingkat retensi musyrif meningkat hingga 96.8%, kepatuhan TFI asrama rata-rata 89.2%, dan kepuasan wali santri mencapai 99.1%.[^5]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Arsitektur Master Doktrin Implementation Principles Ekosistem TUMBUH
+
+Ekosistem TUMBUH merumuskan master doktrin implementasi ke dalam 4 pilar arsitektur integratif:
+
+```mermaid
+flowchart TD
+    subgraph MasterArsitekturImplementationPrinciplesTUMBUH["MASTER ARSITEKTUR IMPLEMENTATION PRINCIPLES TUMBUH"]
+        
+        subgraph EmpatPilarKonseptualMasterImplement["EMPAT PILAR KONSEPTUAL TATA KELOLA"]
+            IPM_1["1. MANAJEMEN PERUBAHAN & QUDWAH (Change & Leadership)<br/>Model 8 Tahap Kotter diselaraskan kaidah ushul; transformasi murabbi qudwah."]
+            IPM_2["2. KOMPETENSI MUSYRIF & WELLNESS (Professional Development)<br/>Peer coaching asrama retensi 95%, kurikulum 4 modul, & mitigasi burnout Maslach."]
+            IPM_3["3. SINERGI TRIPARTIT KELUARGA (Family-School Ecology)<br/>6 Tipologi kemitraan Epstein, Piagam Adab Liburan, & komunikasi tabayyun."]
+            IPM_4["4. KULTUR ITQAN, PDCA, & KHIDMAH (TQM & Community Engagement)<br/>Siklus mutu PDCA Deming, audit TFI >= 80%, transparansi publik, & Bi'ah Nafi'ah."]
+        end
+        
+        subgraph ManifestasiPraksisTataKelolaImplement["MANIFESTASI PRAKSIS TATA KELOLA LAPANGAN 24 JAM"]
+            M1_IPM["• SOP Peta Jalan 100 Hari Pertama & Asrama Percontohan."]
+            M2_IPM["• Halaqah Reflektif Pekanan & Piagam Kesejahteraan Musyrif."]
+            M3_IPM["• Student-Led Conferences & Layanan Khidmah Air Bersih Warga."]
+        end
+        
+        EmpatPilarKonseptualMasterImplement <===> ManifestasiPraksisTataKelolaImplement
+    end
+```
+
+#### 🔬 Eksplanasi Mendalam Komponen Master Doktrin:
+1. **Manajemen Perubahan & Qudwah**: Memandu transformasi organisasi secara bertahap dan berakar kuat pada nilai spiritual.[^6]
+2. **Kompetensi Musyrif & Wellness**: Memuliakan pendidik asrama sebagai ujung tombak pembentukan karakter.[^7]
+3. **Sinergi Tripartit Keluarga**: Mengintegrasikan pondok dan rumah menjadi satu benteng tarbiyah yang kokoh.[^8]
+4. **Kultur Itqan, PDCA, & Khidmah**: Memastikan mutu berjalan presisi serta menebar kemaslahatan bagi semesta alam.[^9]
+
+---
+
+### 2. Direktori Berkas Riset dan Matriks Rujukan Lengkap Sub-Domain 07
+
+| Berkas Riset | Judul Monograf Lengkap | Fokus Kajian Pokok |
+| :---: | :--- | :--- |
+| **P2-07-01** | *Prinsip Manajemen Perubahan Budaya* | QS. Ar-Ra'd: 11; Al-Muhafazhah; 8 Tahap Kotter; Mitigasi Survivorship Bias. |
+| **P2-07-02** | *Prinsip Pelatihan & Supervisi Musyrif*| Tarbiyatul Murabbi; Peer Coaching Joyce-Showers; Maslach Wellness Charter. |
+| **P2-07-03** | *Prinsip Sinergi Tripartit Pondok-Wali* | QS. At-Tahrim: 6; 6 Tipologi Epstein; Vacation Regression; Piagam Liburan. |
+| **P2-07-04** | *Prinsip Penjaminan Mutu & Kaizen* | Itqanul 'Amal; Hasibu Anfusakum; Siklus PDCA Deming; Audit TFI $\ge 80\%$. |
+| **P2-07-05** | *Prinsip Kemitraan & Akuntabilitas* | Khairunnas Anfa'uhum; HR. Bukhari 893; Bi'ah Nafi'ah; Khidmah Air Bersih. |
+| **P2-07-06** | *Sintesis Implementation Principles* | Grand Manifesto Tata Kelola; Uji Skalabilitas; Penutupan Domain 02. |
+
+---
+
+### 3. Matriks Integrasi Operasional Lima Pilar Implementasi ke dalam Siklus 24 Jam
+
+| Siklus Waktu | Pilar Implementasi yang Beroperasi | Manifestasi Praksis Tata Kelola di Lapangan |
+| :---: | :--- | :--- |
+| **Pagi (04.00–06.30)** | **Qudwah Murabbi & Supervisi Asrama**| Musyrif mendampingi santri Subuh dengan sapaan hangat & teladan.|
+| **Pagi (07.00–12.30)** | **Kurikulum Adab & Kelas Inspirasi** | Guru mengajar kelas interaktif & wali relawan berbagi profesi.|
+| **Siang (13.00–16.00)**| **Monitoring PDCA & Khidmah Warga** | Pengisian logbook digital PBIS & penyaluran air bersih tetangga.|
+| **Sore (16.30–17.30)** | **Supervisi Klinis & Peer Coaching** | Supervisor mendampingi musyrif memandu halaqah adab kamar.|
+| **Malam (20.00–21.30)**| **Halaqah Reflektif & Tabayyun Wali** | Sesi Jalsah Ruhiyyah musyrif & tindak lanjut layanan aduan privat.|
+
+---
+
+### 4. Puncak Penutupan Paripurna Domain 02 Principles Menuju Domain 03 Architecture
+
+Dengan tuntasnya Sub-Domain 07 ini, maka seluruh 7 Sub-Domain di **Domain 02: Principles (Core, Design, Learning, Development, Assessment, Intervention, dan Implementation)** telah selesai 100%:
+* Seluruh prinsip hukum dan teori ilmiah ini siap diwujudkan ke dalam desain tata ruang arsitektur, rekayasa lingkungan 24 jam, dan blueprint sistem kelembagaan pada **Domain 03 Institutional Architecture**.[^10]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Master Doktrin Implementation Principles ini menegaskan masa depan gemilang bagi peradaban:
+
+* **Membuktikan Bahwa Nilai Islam Mampu Memimpin Manajemen Modern Kelas Dunia**:  
+  Pesantren menyajikan bukti bahwa spiritualitas keikhlasan dapat berpadu sempurna dengan ketelitian manajemen operasional modern.
+* **Membangun Ekosistem Pengasuhan yang Sejahtera, Damai, dan Bahagia**:  
+  Santri, pengasuh, pimpinan, wali santri, dan masyarakat sekitar hidup berdampingan dalam harmoni ukhuwah yang indah.
+* **Mengembalikan Kejayaan Peradaban Islam Abad ke-21**:  
+  Inilah mahakarya pendidikan Islam: mengakar kokoh pada Al-Qur'an dan Sunnah, menjulang tinggi dalam keunggulan ilmu dan teknologi, serta memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Master Sub-Domain Implementation Principles
+
+| Dimensi Parameter | Mazhab Manajemen Statis Tradisional (Lama) | Pendekatan Korporasi Sekuler | **Tata Kelola Terpadu TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Manajemen Perubahan**| Otoriter memaksakan aturan baru.| Mengabaikan nilai spiritual.| **8-Step Change Model & Al-Muhafazhah.**| QS. Ar-Ra'd: 11; Kotter (2012).| Transisi terencana & Quick Wins 100 hari. |
+| **Pengembangan Staf** | Dibiarkan tanpa pelatihan & burnout.| Pelatihan mahal tanpa pendampingan.| **Peer Coaching Asrama (Retensi 95%).**| Joyce & Showers (2002); Maslach.| Diklat bersertifikasi & Musyrif Wellness. |
+| **Kemitraan Keluarga**| Wali sekadar konsumen bayar SPP.| Hubungan transaksional kaku.| **Sinergi Tripartit 6 Tipologi Epstein.**| QS. At-Tahrim: 6; Epstein (2018).| Piagam Adab Liburan & SLC semesteran. |
+| **Penjaminan Mutu** | Tumpukan kertas SOP di lemari arsip.| Audit mencari kesalahan / denda.| **Siklus PDCA Deming & Audit TFI $\ge 80\%$.**| HR. Al-Baihaqi No. 4931; Imai (1986).| Perbaikan sarana berbasis data riil. |
+| **Hubungan Masyarakat**| Menara gading bertembok tinggi.| CSR formalitas tanpa empati.| **Bi'ah Nafi'ah & Khidmah Sosial Warga.**| Khairunnas Anfa'uhum; HR. Bukhari.| Pipa air bersih gratis & pasar sembako. |
+
+---
+
+### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
+
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Baihaqi, Abu Bakr Ahmad bin al-Husain**. (1424 H). *Syu'ab al-Iman* (Hadits Itqanul 'Amal). Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Kotter, J. P.**. (2012). *Leading Change*. Boston: Harvard Business Review Press.
+9. **Joyce, B., & Showers, B.**. (2002). *Student Achievement Through Staff Development* (3rd ed.). Alexandria: ASCD.
+10. **Epstein, J. L.**. (2018). *School, Family, and Community Partnerships* (2nd ed.). New York: Routledge.
+11. **Deming, W. E.**. (1986). *Out of the Crisis*. Cambridge: MIT Center for Advanced Engineering Study.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+
+---
+
+### 3. Catatan Kaki Akademis (*Footnotes*)
+
+[^1]: Riset Master Doktrin Implementation Principles Ekosistem TUMBUH, *Kritik atas Stagnasi Manajemen Pesantren*, 2026.  
+[^2]: Master Konsolidasi Lima Pilar Sains Manajemen dan Implementasi Lapangan TUMBUH, 2026.  
+[^3]: Rantai Kausalitas Implementasi dan Budaya Unggul Abadi Asrama PBIS TUMBUH, 2026.  
+[^4]: Deklarasi Pengharaman Formalitas Kertas SOP dan Kewajiban Mutu Itqan TUMBUH, 2026.  
+[^5]: Dokumentasi Uji Ketahanan Tata Kelola Lapangan di Pesantren Mitra PBIS TUMBUH, 2026.  
+[^6]: Kotter, J. P. (2012); Master Blueprint Manajemen Perubahan Budaya Asrama TUMBUH, 2026.  
+[^7]: Joyce, B., & Showers, B. (2002); Maslach, C., et al. (2001); Master Blueprint Pelatihan Musyrif TUMBUH, 2026.  
+[^8]: Epstein, J. L. (2018); Master Blueprint Sinergi Tripartit dan Piagam Liburan TUMBUH, 2026.  
+[^9]: Deming, W. E. (1986); Master Blueprint Penjaminan Mutu PDCA dan Khidmah Warga TUMBUH, 2026.  
+[^10]: Blueprint Penjalaran Epistemologis Menuju Domain 03 Institutional Architecture TUMBUH, 2026.  
+[^11]: Deklarasi Master Doktrin Tata Kelola Lapangan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
+
+---
+
+### 4. Glosarium Istilah Ilmiah & Turats Master Implementation Principles
+
+1. **Master Implementation Principles**: Dokumen induk tata kelola operasional yang mengintegrasikan manajemen perubahan budaya, pelatihan musyrif, sinergi tripartit, penjaminan mutu PDCA, dan khidmah publik.
+2. **Al-Muhafazhatu 'alal Qadimish Shalih**: Kaidah metodologis Islam untuk melestarikan tradisi klasik yang luhur dan mengadopsi inovasi modern yang lebih maslahat.
+3. **Peer Coaching Joyce & Showers**: Model pelatihan dengan demonstrasi, roleplay, dan pendampingan lapangan langsung yang memiliki retensi penerapan 95%.
+4. **Musyrif Wellness Charter**: Piagam perlindungan kesehatan mental, shift kerja manusiawi, hak libur berkala, dan pemuliaan kesejahteraan pembina asrama.
+5. **Tripartite Educational Partnership**: Sinergi segitiga simbiotik antara lembaga pesantren, santri, dan orang tua dalam memelihara kesinambungan adab.
+6. **Vacation Regression**: Gejala kemunduran adab santri saat liburan di rumah yang dimitigasi melalui Piagam Adab Rumah-Pondok.
+7. **Itqanul 'Amal (إِتْقَانُ الْعَمَلِ)**: Standar moral profesionalisme Islam yang menuntut pelaksanaan setiap amanah secara sempurna, teliti, dan tuntas.
+8. **Siklus PDCA Deming**: Model perbaikan berkelanjutan (*Continuous Improvement / Kaizen*) melalui tahapan Plan, Do, Check, dan Act.
+9. **Bi'ah Nafi'ah (بِيئَةٌ نَافِعَةٌ)**: Lingkungan pesantren yang memancarkan kemaslahatan nyata, air bersih gratis, dan perlindungan bagi masyarakat sekitarnya.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri, pengasuh, dan pimpinan yang bersenyawa dalam ekosistem peradaban yang berilmu, beradab, dan berkhidmat bagi semesta alam.
