@@ -4,22 +4,22 @@ Domain ini merupakan akar ontologis, epistemologis, dan antropologis dari seluru
 
 ---
 
-## Struktur Sub-Domain
+## 🏛️ Struktur Sub-Domain (6 Pilar Lengkap 100%)
 
 ```mermaid
 graph TD
-    P1["01 Philosophy"]
-    P1 --> D1["01 Worldview<br/>(Aksioma Realitas, Epistemologi, Model Triad Pertumbuhan)"]
-    P1 --> D2["02 Human Nature<br/>(Fitrah Santri, Struktur 5 Lapis Jiwa, Motivasi Mahabbah)"]
-    P1 --> D3["03 Human Development<br/>(Tazkiyatun Nafs, Tangga T1-T4, Integrasi CASEL SEL)"]
-    P1 --> D4["04 Education<br/>(Trilogi Tarbiyah-Ta'dib-Ta'lim, Disiplin Restoratif PBIS)"]
-    P1 --> D5["05 Leadership<br/>(Kepemimpinan Berbasis Qudwah, Kaderisasi Tanpa Kekerasan)"]
-    P1 --> D6["06 Change<br/>(Sunnatullah Perubahan, Tadarruj, Istiqamah, Bi'ah Shalihah)"]
+    P1["01 PHILOSOPHY (FONDASI FILOSOFIS LENGKAP 100%)"]
+    P1 --> D1["01 Worldview<br/>(Aksioma Realitas, Epistemologi, Model Triad Pertumbuhan - 17 Berkas)"]
+    P1 --> D2["02 Human Nature<br/>(Fitrah Santri, Struktur Jasad-Aqal-Qalb-Ruh, & Mahabbah - 6 Berkas)"]
+    P1 --> D3["03 Human Development<br/>(Tazkiyatun Nafs, Tangga T1-T4, & Integrasi CASEL SEL - 7 Berkas)"]
+    P1 --> D4["04 Education<br/>(Falsafah Ta'dib, Relasi Kasih Sayang, Disiplin Restoratif PBIS, & Didaktik - 7 Berkas)"]
+    P1 --> D5["05 Leadership<br/>(Kepemimpinan Qudwah First, Servant Leadership, & Tata Kelola Syura - 7 Berkas)"]
+    P1 --> D6["06 Change<br/>(Sunnatullah Taghyir, Tadarruj, Bi'ah Shalihah CPTED, & Transformasi Sistemik - 7 Berkas)"]
 ```
 
 ---
 
-## Indeks Dokumen Induk & Jurnal Riset Monograf Utuh
+## 📑 Indeks Dokumen Induk & Jurnal Riset Monograf Utuh
 
 * 📄 **[Jurnal-Monograf-Riset-Filosofi-TUMBUH.md](./Jurnal-Monograf-Riset-Filosofi-TUMBUH.md)**: **Monograf Riset Ilmiah Utuh & Terkonsolidasi** (Mencakup 6 Pilar Filosofis, Matriks Operational Asrama, Pertanggungjawaban Syar'i & De-sekularisasi Sains, serta Rujukan Turats & Sains Internasional).
 * 📄 **[P1-00-Model-Pertumbuhan-Triadik.md](./P1-00-Model-Pertumbuhan-Triadik.md)**: Maha-Prinsip Triad Pertumbuhan Simbiotik (Santri Tumbuh, Guru Tumbuh, Sistem Tumbuh).
@@ -27,10 +27,11 @@ graph TD
 
 ---
 
-## Direktori Sub-Domain
-1. 📁 **[01 Worldview](./01%20Worldview/README.md)** (17 Dokumen: Ontologi, Epistemologi & Model Triad)
-2. 📁 **[02 Human Nature](./02%20Human%20Nature/README.md)** (5 Dokumen: Hakikat Fitrah & Struktur Insan)
-3. 📁 **[03 Human Development](./03%20Human%20Development/README.md)** (5 Dokumen: Tazkiyah, Tangga T1-T4 & SEL)
-4. 📁 **[04 Education](./04%20Education/README.md)** (4 Dokumen: Falsafah Tarbiyah & Disiplin Restoratif PBIS)
-5. 📁 **[05 Leadership](./05%20Leadership/README.md)** (4 Dokumen: Falsafah Kepemimpinan Qudwah & Kaderisasi)
-6. 📁 **[06 Change](./06%20Change/README.md)** (4 Dokumen: Sunnatullah Perubahan & Bi'ah Shalihah)
+## 📁 Direktori 6 Sub-Domain (Tersusun 100% Monograf Komprehensif)
+
+1. 📁 **[01 Worldview](./01%20Worldview/README.md)** (17 Dokumen: Ontologi Wujud, Epistemologi Islam Terpadu, & Model Triad)
+2. 📁 **[02 Human Nature](./02%20Human%20Nature/README.md)** (6 Dokumen: Hakikat Fitrah, Struktur Insan, & Motivasi Mahabbah)
+3. 📁 **[03 Human Development](./03%20Human%20Development/README.md)** (7 Dokumen: Tazkiyatun Nafs, Tangga T1–T4, & CASEL SEL)
+4. 📁 **[04 Education](./04%20Education/README.md)** (7 Dokumen: Falsafah Ta'dib, Relasi Murabbi, SW-PBIS Restoratif, & Didaktik Ramah Otak)
+5. 📁 **[05 Leadership](./05%20Leadership/README.md)** (7 Dokumen: Falsafah Kepemimpinan Qudwah, Servant Leadership, & Tata Kelola Syura)
+6. 📁 **[06 Change](./06%20Change/README.md)** (7 Dokumen: Sunnatullah Taghyir, Tadarruj Istiqamah, Bi'ah Shalihah CPTED, & Transformasi Sistemik)
