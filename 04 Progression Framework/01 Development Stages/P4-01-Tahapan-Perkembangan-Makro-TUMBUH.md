@@ -48,10 +48,10 @@ graph TD
 | **4** | **MEMBIASAKAN** | Mempraktikkan adab dalam rutinitas 24 jam secara teratur hingga menjadi kebiasaan otomatis (*Habit Loop*). | **Jenjang J2 (Pembiasaan Terpola)** | *Pemantau Rutinitas & Apresiasi 4:1*. |
 | **5** | **KUAT / KONSISTEN**| Istiqamah, berdaya tahan tinggi (*Resilience*), dan kokoh menjaga adab meski diuji godaan lingkungan. | **Jenjang J3 (Kemandirian Stabil)** | *Coach Reflektif* (Mendorong konsistensi batin). |
 | **6** | **MEMBERI TELADAN**| Perilaku adab memancar spontan (*Second Nature*) sehingga menginspirasi rekan sekamar secara positif. | **Jenjang J3 (Kemandirian Stabil)** | *Fasilitator Mentorship* (Apresiasi kepemimpinan adab). |
-| **7** | **MENGGERAKKAN** | Memimpin inisiatif kebaikan, aktif mengajak teman, dan menjadi problem solver dalam dinamika asrama. | **Jenjang J4 (Kepemimpinan Qudwah)** | *Mitra Strategis* (Memberi ruang kreasi inisiatif). |
-| **8** | **PELAKSANA** | Mengemban amanah eksekusi organisasi santri (OSIS/Asrama) secara profesional (*Itqan*) dan akuntabel.  | **Pasca-Pesantren (Fase Awal Alumni/Pengabdi)** | *Penasihat Kolaboratif* (Supervisi manajemen santri). |
-| **9** | **PEMBINA** | Mentransformasikan diri menjadi pengasuh/pembimbing yang melatih, mendampingi, dan mengayomi adik kelas. | **Tahun Pengabdian / Musyrif Muda** | *Master Coach* (Pengembangan kompetensi pedagogi). |
-| **10**| **PEMBERDAYA** | Menciptakan sistem baru, memajukan lembaga, mendirikan unit usaha dakwah, dan memberdayakan umat luas. | **Fase Alumni Pemimpin Peradaban** | *Jejaring Kolaborasi Sinergis Global*. |
+| **7** | **MENGGERAKKAN** | Memimpin inisiatif kebaikan, menggerakkan rekan sebaya, & menjadi teladan aktif di asrama. | **Santri Akhir / Santri Tahun Pengabdian (Jenjang J4)** | *Motor Penggerak & Duta Adab Asrama*. | *Mitra Strategis* (Memberi ruang kreasi inisiatif). |
+| **8** | **PELAKSANA** | Mengemban amanah eksekusi teknis program pondok, KBM kelas, & operasional asrama secara profesional (*Itqan*). | **Alumni Lanjut Khidmah / Guru Baru (Tahun 1–3)** | *Eksekutor Lapangan & Musyrif Muda*. | *Penasihat Kolaboratif* (Supervisi manajemen santri). |
+| **9** | **PEMBINA** | Membimbing, melatih, mengasuh, mengevaluasi guru baru, serta menjadi konselor penanganan santri Tier 2/3. | **Guru Senior / Asatidz Berpengalaman (Lulusan S1/Senior)** | *Murabbi, Coach, & Supervisor Pengasuhan*. | *Master Coach* (Pengembangan kompetensi pedagogi). |
+| **10**| **PEMBERDAYA** | Memberdayakan sistem, merancang kebijakan makro, memimpin visi kelembagaan, & memajukan peradaban umat. | **Pimpinan Lembaga / Kyai / Mudir / Jabatan Tertinggi** | *Strategic Leader & Empowerer Umat*. | *Jejaring Kolaborasi Sinergis Global*. |
 
 ---
 

@@ -37,15 +37,15 @@ graph BT
 
 ---
 
-## 📑 2. MATRIKS INTEGRASI 4 JENJANG & 10 TAHAPAN PERKEMBANGAN
-
-| Jenjang Kemandirian | Tahapan Karakter Padanan | Karakteristik Perilaku Santri di Asrama | Peran Utama Musyrif | Target Waktu Tempuh |
+| Jenjang / Fase Ekosistem | Tahapan Karakter Padanan | Profil Institusional & Praktik Perilaku Nyata | Peran Pendampingan / Tanggung Jawab | Target Tahapan |
 | :--- | :--- | :--- | :--- | :---: |
-| **Jenjang J1 (Kepatuhan Terbimbing)** | **1. TAHU**<br/>**2. PAHAM** | Memerlukan aba-aba jelas; belajar memahami hikmah shalat dan aturan asrama; regulasi emosi masih butuh pendampingan erat. | **Instruktur & Pembimbing Hangat** (80% Bantuan Langsung). | Semester 1 (Bulan 1–6) |
-| **Jenjang J2 (Pembiasaan Terpola)** | **3. SADAR**<br/>**4. MEMBIASAKAN** | Bangun subuh tepat waktu; lemari rapi standar 5S; adab santun kepada ustadz mulai terpola menjadi kebiasaan harian (*Habit Loop*). | **Fasilitator & Penguat Positif** (50% Pengawasan + Apresiasi 4:1). | Semester 2–4 (Tahun 1–2) |
-| **Jenjang J3 (Kemandirian Stabil)** | **5. KUAT / KONSISTEN**<br/>**6. MEMBERI TELADAN** | Istiqamah beribadah tanpa diawasi; menolak godaan teman sebaya; menyelesaikan konflik secara restoratif; menginspirasi sekamar. | **Coach Dialogis & Konselor** (20% Bimbingan Reflektif). | Semester 5–8 (Tahun 3–4) |
-| **Jenjang J4 (Kepemimpinan Qudwah)** | **7. MENGGERAKKAN** | Menggerakkan inisiatif asrama; mengemban amanah ketua organisasi/OSIS; membimbing adik kelas (*Peer Mentor*); proyek khidmah. | **Mitra Kolaboratif & Penasihat** (0–10% Supervisi Strategis). | Semester 9–12 (Tahun 5–6) |
-| **Pasca-Pesantren (Alumni, Pengabdi, & Pemimpin)** | **8. PELAKSANA**<br/>**9. PEMBINA**<br/>**10. PEMBERDAYA** | Menjadi musyrif junior/guru pembina; mendirikan unit dakwah; memberdayakan masyarakat luas sebagai pemimpin peradaban Islam. | **Dewan Masyayikh & Mitra Umat** (Jejaring Sinergis). | Tahun Pengabdian & Pasca-Lulus |
+| **Jenjang J1 (Kepatuhan Terbimbing)** | **1. TAHU**<br/>**2. PAHAM** | **Santri Baru (Kelas 7 MTs/SMP)**: Memerlukan instruksi eksplisit, bimbingan adab shalat, penyesuaian kamar, & pemahaman dalil/hikmah. | **Instruktur & Pengasuh Langsung** (80% Scaffolding Musyrif). | Semester 1 (Bulan 1–6) |
+| **Jenjang J2 (Pembiasaan Terpola)** | **3. SADAR**<br/>**4. MEMBIASAKAN** | **Santri Madya (Kelas 8 MTs/SMP)**: Bangun subuh mandiri, kamar rapi standar 5S, adab kelas konsisten terpola menjadi kebiasaan harian. | **Fasilitator & Penguat Positif** (50% Scaffolding + Apresiasi 4:1). | Semester 2–4 (Tahun 1–2) |
+| **Jenjang J3 (Kemandirian Stabil)** | **5. KUAT / KONSISTEN**<br/>**6. MEMBERI TELADAN** | **Santri Menengah (Kelas 9–10 MA/SMA)**: Istiqamah beribadah tanpa diawasi, tahan godaan teman, memancarkan adab teladan di kamar. | **Coach Dialogis & Konselor BK** (20% Scaffolding Reflektif). | Semester 5–8 (Tahun 3–4) |
+| **Jenjang J4 (Kepemimpinan Qudwah)** | **7. MENGGERAKKAN** | **Santri Akhir (Kelas 11–12) / Santri Pengabdian Awal**: Menjadi motor penggerak kebaikan, inisiator kegiatan asrama, & teladan aktif bagi adik kelas. | **Mitra Kolaboratif & Penasihat** (0–10% Supervisi Strategis). | Semester 9–12 & Tahun Pengabdian |
+| **Pasca-Pesantren: Fase Eksekutor** | **8. PELAKSANA** | **Alumni Lanjut Khidmah di Pondok / Guru-Guru Baru (Tahun 1–3)**: Mengemban amanah eksekusi KBM kelas, teknis piket asrama, & operasional pondok. | **Pelaksana Lapangan & Musyrif Muda** (Dibimbing Guru Senior). | Alumni Mengajar / Staf Baru |
+| **Pasca-Pesantren: Fase Pengasuh** | **9. PEMBINA** | **Guru Senior / Asatidz Berpengalaman (Sudah Lulus S1/Senior)**: Membimbing, mengasuh, melatih guru baru, mengelola konseling santri, & membina bi'ah. | **Murabbi, Coach, & Supervisor Pengasuhan** (Pilar Asrama). | Guru Tetap / Asatidz Senior |
+| **Pasca-Pesantren: Fase Strategis** | **10. PEMBERDAYA** | **Pimpinan Lembaga / Kyai / Mudir / Pemegang Jabatan Tertinggi**: Menetapkan visi kebijakan makro, memajukan institusi, & memberdayakan peradaban umat. | **Strategic Leader & Empowerer Peradaban** (Pengambil Kebijakan). | Dewan Masyayikh & Pimpinan |
 
 ---
 
