@@ -1,338 +1,255 @@
-# P2-02-02: PRINSIP DESAIN ARSITEKTUR ASRAMA PESANTREN 24 JAM
-## *Monograf Terpadu: Standarisasi Tata Ruang Fisik Asrama Beradab (QS. An-Nur: 58 & Hadits Pemisahan Tempat Tidur Remaja), Rekayasa Arsitektur Biofilik & Sirkulasi Udara Silang (Cross-Ventilation), Standar Iluminasi Lux & Akustik Sehat, serta Eliminasi Blindspots CPTED dan Rasio Sanitasi Prima*
+# P2-02-02: PRINSIP DESAIN ARSITEKTUR ASRAMA PESANTREN 24 JAM (24-HOUR DORMITORY ARCHITECTURE)
+## *Monograf Riset Akademik: Standarisasi Tata Ruang Fisik Asrama Beradab (QS. An-Nur: 58 & Hadits Tafriq al-Madhaji'), Rekayasa Ventilasi Silang (Cross-Ventilation), Standar Iluminasi Lux & Akustik Sehat, Serta Eliminasi Total Blindspots CPTED di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-02-02/MONOGRAF-TERPADU-ARSITEKTUR-ASRAMA/2026`  
-**Domain**: `02 Principles` > `02 Design Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-02-02/MONOGRAF-RISET-ARSITEKTUR-ASRAMA/2026`  
+**Domain**: `02 Principles` > `02 Design Principles` (Prinsip Desain 02: *24-Hour Dormitory Architecture*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Desain)  
 **Rumpun Disiplin Pengkaji**: Arsitektur Pesantren & Tata Ruang Islam (*Handasah al-Mabani al-Islamiyyah*), Ergonomi Lingkungan Pengasuhan, Fisika Bangunan & Sanitasi Sehat, Kriminologi Arsitektur Pencegahan Kekerasan (*CPTED*)  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Asrama Bukan Barak Militer Kumuh, Melainkan "Baituna Jannatuna" yang Mulia:**  
->   Banyak santri mudah sakit kudis (*Scabies*), sesak napas, atau mengalami stres kronis bukan karena santri lemah, melainkan karena kamar asrama terlalu padat (1 kamar diisi 40 santri tanpa ventilasi), lembab, gelap, dan toilet berkerak. Asrama TUMBUH dirancang manusiawi: kapasitas maksimal 8–12 santri per kamar dengan sirkulasi udara silang (*Cross-Ventilation*).
-> * **Pemisahan Tempat Tidur Remaja (*Tafriq al-Madhaji'*):**  
->   Rasulullah SAW memerintahkan: *"Pisahkanlah tempat tidur mereka saat berusia 10 tahun"* (HR. Abu Dawud). Setiap santri wajib memiliki kasur single mandiri, lemari pribadi yang terkunci rapi, dan sekat privasi aurat yang terjaga. Dilarang keras tidur bertumpuk dalam 1 kasur bersama.
-> * **Standar Fasilitas Fisik & Sanitasi Sehat:**  
->   1. *Sirkulasi Udara & Cahaya*: Jendela terbuka dengan ventilasi silang; pencahayaan alami kamar 250–300 Lux.  
->   2. *Rasio Sanitasi Berkeadilan*: Minimal **1 Toilet Bersih untuk setiap 5–7 Santri** (mencegah antrean panjang saat Subuh).  
->   3. *Akustik Peredam Bising*: Kebisingan di zona kamar tidur malam hari maksimal 40–45 dB agar santri tidur pulas.
-> * **Eliminasi Sudut Gelap & Blindspots (Prinsip CPTED):**  
->   Semua selasar lorong lurus, terang dengan lampu LED, pintu kamar memiliki kaca pantau setinggi dada, dan kamar musyrif berada di titik strategis memantau pergerakan lorong asrama.
+> * **Kelemahan Paradigma Lama: Kelebihan Kepadatan Barak & Pengabaian Sanitasi Sehat:**  
+>   Banyak bangunan asrama pesantren konvensional dibangun layaknya barak padat kumuh (1 kamar memuat 30-40 santri berhimpitan tanpa ventilasi memadai), gelap, lembab, dan toilet berkerak dengan rasio 1:40 santri. Dampaknya: santri mengalami penyakit kulit menular (*Scabies*), stres kronis, dan maraknya perundungan akibat banyaknya sudut gelap (*Blindspots*).
+> * **Inovasi Konseptual: Arsitektur Bi'ah Shalihah & Hadits Tafriq al-Madhaji':**  
+>   TUMBUH mengadopsi perintah kenabian: *"Pisahkanlah tempat tidur mereka saat berusia 10 tahun"* (HR. Abu Dawud No. 495). Menerapkan arsitektur sehat: kapasitas manusiawi 8–12 santri per kamar dengan ranjang tunggal mandiri, ventilasi silang (*Cross-Ventilation*), pencahayaan alami 250–300 Lux, akustik peredam bising malam ($\le 45\text{ dB}$), **rasio sanitasi prima 1 toilet per 5–7 santri**, dan tata ruang bebas sudut gelap (*CPTED Natural Surveillance*) tanpa spionase *tajassus*.
+> * **Formulasi Operasional & Penjaminan Kelaikan Fasilitas:**  
+>   Monograf ini menguraikan matriks standar metrik fisik dan ergonomi bangunan, matriks zonasi tata ruang asrama (Privat, Semi-Publik, Publik), protokol audit kelaikan fasilitas asrama, dan standar arsitektur ramah adab.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET KAIDAH DESAIN ARSITEKTUR ASRAMA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-kaidah-desain-arsitektur-asrama-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Arsitektur Asrama Pesantren: Dari Barak Padat Kumuh Menuju Bi'ah Shalihah Ergonomis](#1-kerangka-metodologi-arsitektur-asrama-pesantren-dari-barak-padat-kumuh-menuju-biah-shalihah-ergonomis)
-  - [2. Inkuiri 1: Eksegesis Turats Tata Ruang Beradab — Adab Maskun As-Salaf, Hak Privasi Aurat (QS. An-Nur: 58–59), & Hadits Tafriq al-Madhaji'](#2-inkuiri-1-eksegesis-turats-tata-ruang-beradab--adab-maskun-as-salaf-hak-privasi-aurat-qs-an-nur-5859--hadits-tafriq-al-madhaji)
-  - [3. Inkuiri 2: Konvergensi Standar Fisika Bangunan Sehat — Cross-Ventilation, Iluminasi Lux Cahaya, & Akustik Noise Control](#3-inkuiri-2-konvergensi-standar-fisika-bangunan-sehat--cross-ventilation-iluminasi-lux-cahaya--akustik-noise-control)
-  - [4. Inkuiri 3: Standar Rasio Sanitasi Berkeadilan & Fiqh Thaharah Bebas Penyakit Asrama (Scabies & Infeksi Kulit)](#4-inkuiri-3-standar-rasio-sanitasi-berkeadilan--fiqh-thaharah-bebas-penyakit-asrama-scabies--infeksi-kulit)
-  - [5. Inkuiri 4: Integrasi Arsitektur Biofilik & Eliminasi Total Blindspots CPTED di Seluruh Zona Asrama](#5-inkuiri-4-integrasi-arsitektur-biofilik--eliminasi-total-blindspots-cpted-di-seluruh-zona-asrama)
-  - [6. Inkuiri 5: Desain Ergonomi Kamar Santri: Ranjang Tunggal Mandiri, Lemari Pribadi, & Meja Belajar Khusyuk](#6-inkuiri-5-desain-ergonomi-kamar-santri-ranjang-tunggal-mandiri-lemari-pribadi--meja-belajar-khusyuk)
-  - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Fisik Asrama, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-fisik-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-formulasi-konseptual-standar-desain-arsitektur-asrama-pesantren-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Pola Barak Padat Kumuh dan Dampaknya pada Fisio-Psikologis Santri](#1-latar-belakang-masalah-kritik-atas-pola-barak-padat-kumuh-dan-dampaknya-pada-fisio-psikologis-santri)
+  - [2. Eksegesis Turats Tata Ruang Beradab: QS. An-Nur: 58–59 & Hadits Pemisahan Tempat Tidur Remaja (Tafriq al-Madhaji')](#2-eksegesis-turats-tata-ruang-beradab-qs-an-nur-5859--hadits-pemisahan-tempat-tidur-remaja-tafriq-al-madhaji)
+  - [3. Konvergensi Standar Fisika Bangunan Sehat: Sirkulasi Udara Silang, Iluminasi Lux, & Akustik Lingkungan](#3-konvergensi-standar-fisika-bangunan-sehat-sirkulasi-udara-silang-iluminasi-lux--akustik-lingkungan)
+  - [4. Rekayasa Arsitektur Pencegahan Kejahatan (CPTED): Natural Surveillance Bebas Blindspots Tanpa Spionase Tajassus](#4-rekayasa-arsitektur-pencegahan-kejahatan-cpted-natural-surveillance-bebas-blindspots-tanpa-spionase-tajassus)
+  - [5. Kasuistika Lapangan: Kasus Wabah Scabies Massal di Kamar Lembab & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-wabah-scabies-massal-di-kamar-lembab--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-desain-arsitektur-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Metrik Fisik & Ergonomi Bangunan Asrama Pesantren](#2-matriks-standar-metrik-fisik--ergonomi-bangunan-asrama-pesantren)
   - [3. Matriks Zonasi Tata Ruang Asrama Terpadu (Zona Privat, Semi-Publik, Publik)](#3-matriks-zonasi-tata-ruang-asrama-terpadu-zona-privat-semi-publik-publik)
   - [4. Protokol Audit Kelaikan Fisik & Sanitasi Asrama (Dormitory Facility Audit Protocol)](#4-protokol-audit-kelaikan-fisik--sanitasi-asrama-dormitory-facility-audit-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Arsitektur Asrama 24 Jam](#1-tabel-sintesis-hasil-riset-arsitektur-asrama-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Arsitektur Asrama 24 Jam](#1-tabel-sintesis-temuan-riset-arsitektur-asrama-24-jam)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Arsitektur Asrama, Sanitasi, & Fisika Bangunan](#4-glosarium-dan-penjelasan-istilah-teknis-arsitektur-asrama-sanitasi--fisika-bangunan)
+  - [4. Glosarium Istilah Ilmiah & Turats Arsitektur Asrama](#4-glosarium-istilah-ilmiah--turats-arsitektur-asrama)
 
 ---
 
-# BAGIAN I: RISET KAIDAH DESAIN ARSITEKTUR ASRAMA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Arsitektur Asrama Pesantren: Dari Barak Padat Kumuh Menuju Bi'ah Shalihah Ergonomis
+### 1. Latar Belakang Masalah: Kritik atas Pola Barak Padat Kumuh dan Dampaknya pada Fisio-Psikologis Santri
 
-Dalam sejarah infrastruktur pesantren di Nusantara, kerap dijumpai pola pembangunan fisik yang mengabaikan **Kaidah Ergonomi dan Kesehatan Lingkungan (*Environmental Health Disregard*)**. Demi mengejar kuantitas daya tampung santri sebanyak-banyaknya:
-* Satu kamar berukuran $4 \times 5\text{ meter}$ dipaksakan memuat 30 hingga 40 santri yang tidur berhimpitan di lantai tanpa kasur memadai.
-* Sirkulasi udara tertutup rapat tanpa jendela terbuka, memicu kelembaban udara ekstrem (>80% RH) yang menjadi sarang jamur, tungau *Sarcoptes scabiei* (penyakit gudikan), dan bakteri infeksi pernapasan.
-* Rasio fasilitas sanitasi yang sangat buruk (1 toilet dipakai 35–50 santri), memicu antrean panjang saat Subuh, keterlambatan shalat, dan bau pesing menyengat yang mencemari lingkungan masjid.
-
-Arsitektur fisik bukanlah benda mati yang netral. Tata ruang bangunan adalah **Lingkungan Guru Ketiga (*The Third Teacher*)** yang secara biologis mempengaruhi kadar stres kortisol, kualitas tidur, dan stabilitas emosi santri.
-
-Ekosistem TUMBUH menegakkan prinsip **Desain Arsitektur Asrama Ramah Fitrah & Bebas Blindspots**:
+Pembangunan fisik asrama pesantren konvensional kerap mengalami **Pengabaian Kaidah Ergonomi dan Kesehatan Lingkungan (*Environmental Health Neglect*)**:
+* **Kepadatan Ekstrem (*Overcrowding*)**: Memaksakan 30–40 santri tidur berhimpitan di satu kamar berukuran $4 \times 5\text{ meter}$, memicu stres sensorik, insomnia, dan tingginya friksi antar-santri.
+* **Kelembaban Udara & Penyakit Menular**: Ruangan tanpa ventilasi silang memicu kelembaban tinggi ($>80\%\text{ RH}$) yang menjadi sarang penularan tungau *Sarcoptes scabiei* (kudis gudikan), infeksi jamur kulit, dan penyakit saluran pernapasan.
+* **Rasio Sanitasi yang Buruk**: Satu toilet dipakai bersama oleh 35–50 santri, memicu antrean panjang saat Subuh, keterlambatan shalat berjamaah, dan kondisi toilet yang kotor berbau pesing.
+* **Keniscayaan Arsitektur Asrama Sehat 24 Jam**: Tata ruang asrama adalah **Guru Ketiga (*The Third Teacher*)** yang secara biologis mempengaruhi kebugaran fisik, stabilitas emosi, dan keluhuran adab santri.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiArsitekturAsrama["TRANSFORMASI ARSITEKTUR ASRAMA PESANTREN"]
-        BarakKumuh["MODEL BARAK PADAT & KUMUH (LAMA)<br/>• 30–40 santri/kamar berdesakan; ventilasi minim.<br/>• Rasio toilet 1:40; sarang penyakit Scabies & stres.<br/>• Sudut gelap banyak; pemicu bullying & anarki."]
+    subgraph TransformasiArsitekturAsrama["TRANSFORMASI ARSITEKTUR FISIK ASRAMA"]
+        PolaBarakLama["BARAK PADAT & SANITASI KUMUH (LAMA)<br/>• 40 santri/kamar tanpa ventilasi (lembab >80% RH).<br/>• Scabies massal & rasio toilet 1:40 santri.<br/>• Sudut gelap (blindspots) memicu perundungan."]
         
-        AsramaTUMBUH["ARSITEKTUR SEHAT BI'AH SHALIHAH (TUMBUH)<br/>• Maksimal 8–12 santri/kamar; kasur single & lemari rapi.<br/>• Cross-Ventilation, cahaya 300 Lux, & rasio toilet 1:6.<br/>• Desain CPTED bebas blindspots; asri & harum."]
+        PolaCPTEDTUMBUH["ARSITEKTUR BI'AH SHALIHAH 24 JAM (TUMBUH)<br/>• 8-12 santri/kamar ranjang tunggal mandiri.<br/>• Cross-ventilation, 250-300 Lux, & toilet 1:5-7 santri.<br/>• CPTED Natural Surveillance: Terang & bebas blindspots."]
         
-        BarakKumuh ==>|REVOLUSI INFRASTRUKTUR| AsramaTUMBUH
+        PolaBarakLama ==>|DIREKONSTRUKSI MENJADI| PolaCPTEDTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Tata Ruang Beradab — Adab Maskun As-Salaf, Hak Privasi Aurat (QS. An-Nur: 58–59), & Hadits *Tafriq al-Madhaji'*
+### 2. Eksegesis Turats Tata Ruang Beradab: QS. An-Nur: 58–59 & Hadits Pemisahan Tempat Tidur Remaja (Tafriq al-Madhaji')
 
-```mermaid
-graph TD
-    A["Gugatan Tirakat Kumuh (Pihak A):<br/>'Santri tidur berdesak-desakan di lantai dan kena gudikan itu tanda berkah tirakat mencari ilmu!'"]
-    --> B1["Tinjauan Hadits Shahih Abu Dawud 495:<br/>'Fariqu bainahum fil madhaji'' (Pisahkanlah tempat tidur anak-anak saat berusia 10 tahun)."]
-    A --> B2["Tinjauan QS. An-Nur 58–59:<br/>Kewajiban menjaga privasi aurat & adab meminta izin (Isti'dzan) sebelum memasuki ruangan."]
-    A --> B3["Tinjauan Fiqh Thaharah & Hifzhun Nafs:<br/>Kewajiban syariat menjaga kebersihan raga & mencegah wabah penyakit menular."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Menyediakan asrama yang bersih, memiliki tempat tidur mandiri, & sehat adalah kewajiban syar'i."]
-```
+Al-Qur'an mengatur etika privasi dan tata ruang kamar tidur:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan tata ruang hunian pengasuhan santri usia remaja (*Murahaqah*) wajib menegakkan syariat pemisahan tempat tidur (*Tafriq al-Madhaji'*), perlindungan privasi aurat (*Hifzhul 'Aurah*), dan pencegahan penularan penyakit fisik (*Hifzhun Nafs*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW secara tegas memerintahkan orang tua dan pengasuh untuk memisahkan tempat tidur anak-anak saat mencapai usia 10 tahun (HR. Abu Dawud No. 495).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh asrama di pesantren TUMBUH wajib menyediakan tempat tidur tunggal (*Single Bed*) mandiri dan lemari pribadi bagi setiap santri, mengharamkan tidur bersama dalam satu ranjang/kasur.[^1]
+$$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنكُمْ ثَلَاثَ مَرَّاتٍ ۚ مِّن قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ الظَّهِيرَةِ وَمِن بَعْدِ صَلَاةِ الْعِشَاءِ}$$
 
-#### 📖 Teks Primer Hadits Shahih: Perintah Pemisahan Tempat Tidur
-Rasulullah SAW bersabda:
+*"**Wahai orang-orang yang beriman! Hendaklah hamba sahaya yang kamu miliki dan anak-anak yang belum baligh meminta izin kepadamu pada tiga waktu: sebelum shalat Subuh, ketika kamu menanggalkan pakaianmu pada tengah hari, dan setelah shalat Isya**."* (QS. An-Nur [24]: 58).[^2]
 
-$$\text{مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
+Rasulullah ﷺ memerintahkan pemisahan tempat tidur bagi anak-anak yang telah menginjak usia remaja:
 
-*"Perintahkanlah anak-anakmu melaksanakan shalat ketika mereka berusia tujuh tahun, dan berikanlah ketegasan (bimbingan tegas) atasnya ketika mereka berusia sepuluh tahun, **dan pisahkanlah di antara mereka tempat-tempat tidurnya (Fariqqu Bainahum fil Madhaji')!**"* (HR. Abu Dawud No. 495; Ahmad No. 6689).[^2]
+$$\text{مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
 
-Dan Allah SWT menetapkan adab privasi ruangan:
-$$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنكُمْ ثَلَاثَ مَرَّاتٍ ۚ مِّن قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ الظَّهِيرَةِ وَمِن بَعْدِ صَلَاةِ الْعِشَاءِ ۚ ثَلَاثُ عَوْرَاتٍ لَّكُمْ}$$
-*"Wahai orang-orang yang beriman! Hendaklah hamba sahaya yang kamu miliki dan anak-anak yang belum baligh di antaramu meminta izin kepadamu pada tiga waktu: sebelum shalat Subuh, ketika kamu menanggalkan pakaianmu di tengah hari, dan setelah shalat Isya. (Itulah) tiga waktu aurat bagimu..."* (QS. An-Nur [24]: 58).[^3]
+*"**Perintahkan anak-anakmu untuk shalat saat mereka berusia 7 tahun, dan berikan ketegasan saat mereka berusia 10 tahun, dan pisahkanlah tempat tidur di antara mereka!**."* (HR. Abu Dawud No. 495).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Standar Fisika Bangunan Sehat — *Cross-Ventilation*, Iluminasi Lux Cahaya, & Akustik *Noise Control*
+### 3. Konvergensi Standar Fisika Bangunan Sehat: Sirkulasi Udara Silang, Iluminasi Lux, & Akustik Lingkungan
 
-```mermaid
-graph TD
-    subgraph StandarFisikaBangunanAsrama["STANDAR FISIKA BANGUNAN ASRAMA SEHAT (TUMBUH)"]
-        Udara["1. SIRKULASI UDARA SILANG (CROSS-VENTILATION)<br/>Bukaan ventilasi minimal 15–20% dari luas lantai; pergantian udara (ACH) 6–8x/jam."]
-        
-        Cahaya["2. TINGKAT ILUMINASI PENCAHAYAAN ALAMI<br/>Kamar Tidur: 150–200 Lux | Meja Belajar: 300–500 Lux | Lorong Selasar: 100–150 Lux."]
-        
-        Akustik["3. PENGENDALIAN KEBISINGAN (NOISE CONTROL)<br/>Maksimal kebisingan malam hari di kamar tidur: <40–45 dBA (Menjamin Deep Sleep)."]
-        
-        Suhu["4. KENYAMANAN TERMAL RUANGAN<br/>Suhu ideal kamar: 24°C–27°C dengan kelembaban relatif (RH) 50%–60%."]
-        
-        Udara --- Cahaya --- Akustik --- Suhu
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap bangunan hunian santri yang memenuhi parameter fisika bangunan sehat (ventilasi silang, pencahayaan lux memadai, dan kebisingan rendah) niscaya mengoptimalkan regenerasi sel otak saat tidur dan mereduksi angka absensi sakit santri hingga lebih dari 70%.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Riset arsitektur kesehatan lingkungan (*ASHRAE Standards & WHO Housing Guidelines*) membuktikan bahwa kualitas udara dalam ruang (*Indoor Air Quality*) berkorelasi langsung dengan konsentrasi belajar dan kekebalan imunitas tubuh.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh desain gedung asrama baru di ekosistem TUMBUH wajib diaudit kelayakannya berdasarkan standar fisika bangunan sehat.[^4]
+Sains rekayasa bangunan (*Building Physics*) menetapkan standar kenyamanan termal dan kesehatan:
+* **Ventilasi Silang (*Cross-Ventilation*)**: Aliran udara alami menjaga kelembaban udara pada batas sehat $50\%\text{--}60\%\text{ RH}$ dan kadar $CO_2 < 800\text{ ppm}$, mencegah rasa kantuk berlebih dan infeksi pernapasan.
+* **Pencahayaan Alami (Daylighting)**: Kamar tidur dan meja belajar memperoleh intensitas cahaya $250\text{--}300\text{ Lux}$ untuk menjaga ritme sirkadian dan kesehatan mata.
+* **Pengendalian Kebisingan (*Acoustic Comfort*)**: Tingkat kebisingan di zona tidur malam hari dibatasi maksimal $40\text{--}45\text{ dB}$ untuk menjamin fase tidur lelap (*Deep Sleep*).[^4]
 
 ---
 
-### 4. Inkuiri 3: Standar Rasio Sanitasi Berkeadilan & Fiqh Thaharah Bebas Penyakit Asrama (*Scabies* & Infeksi Kulit)
+### 4. Rekayasa Arsitektur Pencegahan Kejahatan (CPTED): Natural Surveillance Bebas Blindspots Tanpa Spionase Tajassus
 
-```mermaid
-graph LR
-    subgraph RasioSanitasiAsrama["STANDAR RASIO SANITASI PESANTREN BERADAB"]
-        LamaSanitasi["STANDAR LAMA TIDAK LAYAK:<br/>1 Toilet : 35–50 Santri.<br/>Akibat: Antrean Subuh 1 jam, telat shalat, bau pesing, & gatal-gatal."]
-        
-        TUMBUHSanitasi["STANDAR BAKU TUMBUH (BERADAB):<br/>1 Toilet Bersih : 5–7 Santri.<br/>1 Kran Wudhu : 4–5 Santri.<br/>Akibat: Bebas antrean, shalat tepat waktu, toilet wangi, & Scabies 0%."]
-        
-        LamaSanitasi ==>|STANDARISASI PRIMA| TUMBUHSanitasi
-    end
-```
+TUMBUH menerapkan prinsip CPTED (*Crime Prevention Through Environmental Design*):
+* **Penerangan Koridor & Kaca Pantau**: Selasar asrama lurus, diterangi lampu LED terang, dan pintu kamar dilengkapi kaca pantau setinggi dada sehingga aktivitas umum dapat terpantau secara alami (*Natural Surveillance*).
+* **Posisi Strategis Musyrif**: Kamar musyrif diletakkan di simpul utama pintu masuk lorong asrama.
+* **Pengharaman Spionase (*Tahrim at-Tajassus*)**: Tidak ada intaian mata-mata atau perampasan privasi; pengawasan dilakukan murni di ruang terbuka publik untuk melindungi santri dari kekerasan.[^5]
 
 ---
 
-### 5. Inkuiri 4: Integrasi Arsitektur Biofilik & Eliminasi Total Blindspots CPTED di Seluruh Zona Asrama
+### 5. Kasuistika Lapangan: Kasus Wabah Scabies Massal di Kamar Lembab & Resolusi Restoratif Terpadu
 
-```mermaid
-graph TD
-    subgraph TataRuangCPTEDBiofilik["INTEGRASI CPTED & DESAIN BIOFILIK ASRAMA"]
-        CPTED["ELIMINASI BLINDSPOTS (CPTED):<br/>• Lorong lurus pandang bebas kelokan mati.<br/>• Lampu LED sensor otomatis di setiap sudut.<br/>• Kamar musyrif berada di simpul pengawasan alami."]
-        
-        Biofilik["ELEMEN BIOFILIK (KONEKSI ALAM):<br/>• Taman hijau mini di tengah selasar asrama (Inner Courtyard).<br/>• Dinding bernuansa kayu & batu alam alami.<br/>• Tanaman lidah mertua pembersih udara di selasar."]
-        
-        CPTED <===> Biofilik
-        
-        AmanAsri["ASRAMA AMAN DARI BULLYING & ASRI MENENANGKAN JIWA"]
-        
-        CPTED & Biofilik ==> AmanAsri
-    end
-```
+* **Studi Kasus: 80% Santri Asrama Menderita Penyakit Kulit Menular (Scabies) dan Jamur**  
+  * **Dilema**: Santri satu asrama menggaruk tubuh hingga bernanah, tidak bisa tidur malam, dan tertidur di kelas karena kamar berkapasitas 35 orang tanpa jendela terbuka dan kasur bertumpuk di lantai.
+  * **Resolusi Arsitektur TUMBUH**: Lembaga merenovasi fasilitas: (1) Membatasi kapasitas kamar menjadi maksimal 10 santri; (2) Memasang ranjang tunggal mandiri berkasur busa anti-bakteri dan sprei individual; (3) Membongkar tembok mati untuk memasang jendela kaca ventilasi silang; (4) Memperbaiki fasilitas sanitasi: menyediakan 1 toilet per 6 santri dan instalasi jemuran matahari terbuka. Dalam 30 hari, wabah scabies tuntas 100% dan santri belajar dengan bugar.[^6]
 
 ---
 
-### 6. Inkuiri 5: Desain Ergonomi Kamar Santri: Ranjang Tunggal Mandiri, Lemari Pribadi, & Meja Belajar Khusyuk
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Desain Arsitektur Asrama Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan desain asrama ke dalam **Arsitektur Tiga Sayap Asrama Beradab (*Arkan al-Maskan ash-Shihhiy*)**:
 
 ```mermaid
 flowchart TD
-    subgraph DesainKamarErgonomis["STANDAR ERGONOMI KAMAR SANTRI (TUMBUH)"]
-        Kasur["1. RANJANG SINGLE / TINGKAT ERGONOMIS<br/>Ukuran kasur busa density tinggi minimal 90 x 200 cm; pagar pelindung ranjang atas kokoh."]
+    subgraph ArsitekturAsramaTUMBUH["ARSITEKTUR ASRAMA PESANTREN 24 JAM TUMBUH"]
         
-        Lemari["2. LEMARI DUA PINTU TERKUNCI DENGAN VENTILASI<br/>Tinggi 150 cm; gantungan baju rapi; slot buku & mushaf; kunci master dipegang santri & musyrif."]
+        A1_Sayap["1. REKAYASA FISIK ERGONOMIS (Physical Health & Ergonomics)<br/>Kapasitas 8–12 santri/kamar, ranjang tunggal mandiri, & ventilasi silang (50-60% RH)."]
         
-        Meja["3. MEJA BELAJAR KHUSYUK & COLOKAN AMAN<br/>Lampu baca 300 Lux; kursi ergonomis; tata letak menghadap dinding/jendela terang."]
+        A2_Sayap["2. TATA RUANG CPTED TERANG (Illuminated Natural Surveillance)<br/>Eliminasi total sudut gelap (Zero Blindspots) & pengawasan pengayoman bebas tajassus."]
         
-        Jemuran["4. RAK SEPATU & TEMPAT HANDUK BERJARAK<br/>Handuk dijemur di luar kamar berjarak 15 cm antar-handuk untuk mencegah penularan jamur."]
+        A3_Sayap["3. SANITASI PRIMA BERKEADILAN (Sanitation Excellence)<br/>Rasio 1 toilet per 5–7 santri, air bersih melimpah, & kultur higienitas 5S/5R."]
         
-        Kasur --- Lemari --- Meja --- Jemuran
+        A1_Sayap <===> A2_Sayap <===> A3_Sayap
     end
 ```
 
----
-
-### 7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Fisik Asrama, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Membangun Asrama Standar Ergonomis Itu Terlalu Boros Biaya"
-* **Pihak A (Sudut Pandang Penghematan Anggaran Ekstrem)**:  
-  *"Membangun kamar dengan kapasitas 8 orang dan toilet 1:6 itu memakan biaya terlalu mahal. Lebih baik bangun barak besar muat 50 orang biar hemat tanah dan dana!"*
-* **Tinjauan Sudut Pandang Analisis Biaya Kesehatan & Efektivitas Belajar**:  
-  Membangun barak padat kumuh justru memicu **Biaya Kerugian Medis yang Jauh Lebih Besar (*Hidden Medical Cost*)**: wabah scabies massal, biaya obat ke klinik, santri yang drop-out karena tidak betah, dan rusaknya reputasi lembaga di mata wali santri. Asrama yang sehat adalah investasi peradaban bernilai tinggi yang menjaga keberlanjutan pesantren.[^5]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Kasur Single Mandiri Menghilangkan Rasa Kebersamaan Santri?
-* **Pihak A (Sudut Pandang Romantisme Tidur Berdesakan)**:  
-  *"Kalau setiap santri punya kasur sendiri, nanti jiwa korsa dan kebersamaan santri hilang, santri jadi individualis!"*
-* **Tinjauan Sudut Pandang Penegakan Adab Syar'i Tanpa Mengorbankan Ukhuwah**:  
-  Rasa kebersamaan dan ukhuwah dipupuk melalui **Makan Nampan Bersama, Shalat Berjamaah, Olahraga Bareng, dan Halaqah Mudzakarah**, BUKAN dengan melanggar syariat tidur berhimpitan dalam satu kasur. Kasur mandiri melindungi martabat kehormatan aurat santri dan mencegah penularan penyakit kulit.[^6]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Suhu dan Kualitas Udara Mempengaruhi Daya Hafal Al-Qur'an?
-* **Pihak A (Sudut Pandang Pengabaian Kualitas Udara)**:  
-  *"Santri zaman dulu menghafal di tempat pengap tetap lancar 30 juz, udara kamar tidak ada hubungannya dengan hafalan!"*
-* **Resolusi Sudut Pandang Neurosains Pasokan Oksigen Otak**:  
-  Otak manusia mengonsumsi 20% pasokan oksigen tubuh. Udara kamar yang pengap dengan kadar karbon dioksida ($CO_2$) tinggi (>1500 ppm) menyebabkan **Hipoksia Otak Ringan**: santri sering menguap, sakit kepala, dan daya konsentrasi memori kerja (*Working Memory*) anjlok 50%. Sirkulasi udara silang menjamin pasokan oksigen segar yang membuat santri tangkas menghafal.[^7]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di Asrama Darul Ulum, 80% santri baru terkena infeksi scabies parah pada bulan kedua akibat menjemur handuk basah bertumpuk di dalam kamar yang lembab tanpa jendela; 12 santri meminta pulang mengundurkan diri.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen merombak tata ruang asrama: dibuat bukaan jendela silang (*Cross-Ventilation*), dipasang rak jemuran handuk stainless steel di balkon terbuka yang terkena sinar matahari langsung, dan seluruh kasur lama diganti kasur busa anti-tungau berbungkus kulit sintetis yang mudah disanitasi. Dalam 3 pekan, wabah scabies tuntas 0% dan seluruh santri sehat bugar.[^8]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Standar Desain Arsitektur Asrama Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Kapasitas Manusiawi & Pemisahan Tempat Tidur (tafriq Al-madhaji')**:  
-   Setiap santri berhak mendapatkan kasur single mandiri (minimal 90 x 200 cm), lemari pribadi terkunci, dan ruang gerak manusiawi (minimal 4–5 m² per santri). Kapasitas maksimal kamar dibatasi 8–12 santri.
-
-2. **Standarisasi Fisika Bangunan Sehat (ventilasi Silang & LUX Cahaya)**:  
-   Seluruh kamar asrama wajib memiliki bukaan jendela alami (Cross-Ventilation) dengan pencahayaan alami minimal 250–300 Lux, kelembaban udara sehat (50–60% RH), dan peredam kebisingan malam hari (<45 dBA).
-
-3. **Standarisasi Rasio Sanitasi Berkeadilan (1 Toilet**:  
-   5–7 SANTRI): Lembaga menjamin penyediaan fasilitas toilet dan kamar mandi bersih, terang, beraroma harum, dan berair bersih melimpah dengan rasio minimal 1 bilik toilet untuk setiap 5–7 santri asrama.
-
-4. **Penerapan Arsitektur Cpted & Eliminasi Total Sudut Buta (zero Blindspots)**:  
-   Seluruh tata letak lorong, tangga, dan fasilitas asrama wajib dirancang bebas dari sudut gelap dan titik buta melalui penerapan pencahayaan LED terang dan pengawasan alami (Natural Surveillance).
-
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Fisik Ergonomis**: Memenuhi hak biologis santri atas udara segar, cahaya matahari, dan istirahat berkualitas.[^7]
+2. **Sayap CPTED Terang**: Menutup celah fisik bagi terjadinya tindak perundungan, pemalakan, atau kejahatan asrama.[^8]
+3. **Sayap Sanitasi Prima**: Menegakkan kesucian thaharah dan menghilangkan antrean panjang yang memicu keterlambatan shalat.[^9]
 
 ---
 
 ### 2. Matriks Standar Metrik Fisik & Ergonomi Bangunan Asrama Pesantren
 
-| Parameter Fisik Bangunan | Standar Baku Minimal Pesantren TUMBUH | Rujukan Regulasi & Sains | Dampak Positif pada Santri |
-| :--- | :--- | :--- | :--- |
-| **Kapasitas Hunian Kamar** | **8 – 12 Santri per Kamar** (Luas min. $40\text{ m}^2$). | *WHO Housing & Health Guidelines* | Menjaga privasi, ketenangan adab, & kontrol musyrif.[^9] |
-| **Luas Area per Santri** | **$4,0 - 5,0\text{ m}^2$ per Santri** (Kamar + Sirkulasi). | Standar Ergonomi Ruang Tidur | Mencegah rasa sesak (*Claustrophobia*) & stres emosi. |
-| **Rasio Fasilitas Toilet** | **1 Bilik Toilet Bersih per 5 – 7 Santri**. | Standar Sanitasi Permenkes RI | Bebas antrean Subuh; toilet terjaga harum & bersih.[^10] |
-| **Rasio Kran Wudhu** | **1 Kran Air Mengalir per 4 – 5 Santri**. | Standar Fasilitas Ibadah Asrama | Mempercepat transisi santri menuju shalat berjamaah. |
-| **Bukaan Sirkulasi Udara** | **Min. 15% – 20% dari Luas Lantai** (*Cross-Ventilation*). | *ASHRAE Standard 62.1 Indoor Air Quality* | Pasokan oksigen optimal; bebas jamur & scabies 0%. |
-| **Tingkat Pencahayaan** | **250 – 300 Lux** (Kamar) \| **300 – 500 Lux** (Meja Belajar). | SNI Pencahayaan Buatan & Alami | Menjaga kesehatan mata santri saat tilawah & belajar.[^11] |
-| **Batas Kebisingan Malam** | **Maksimal 40 – 45 dBA** (Pukul 22.00 – 04.00). | Standar Akustik Tidur Sehat | Menjamin fase *Deep Sleep* untuk konsolidasi memori. |
+| Parameter Fisik Bangunan | Standar Metrik Wajib TUMBUH | Batas Toleransi Kritis |
+| :--- | :--- | :--- |
+| **Kapasitas Kamar Tidur**| 8 hingga 12 Santri per Kamar.| Maksimal 12 Santri (Dilarang $>12$).|
+| **Luas Area per Santri** | Minimal $3.5\text{ m}^2$ per Santri.| Minimal $3.0\text{ m}^2$ (termasuk ranjang & loker).|
+| **Ranjang Tidur** | Ranjang Tunggal Mandiri ($90 \times 200\text{ cm}$).| Dilarang tidur bertumpuk dalam 1 kasur.|
+| **Pencahayaan Alami** | $250\text{--}300\text{ Lux}$ di meja belajar & kamar.| Minimal $150\text{ Lux}$ saat malam.|
+| **Kelembaban Relatif (RH)**| $50\%\text{--}60\%\text{ RH}$ (Ventilasi Silang).| Dilarang $>75\%\text{ RH}$ (Rawan Scabies).|
+| **Tingkat Kebisingan** | Maksimal $40\text{--}45\text{ dB}$ pada jam tidur malam.| Dilarang $>55\text{ dB}$ setelah jam 22.00.|
+| **Rasio Fasilitas Toilet** | **1 Toilet Bersih untuk 5–7 Santri**.| Maksimal 1:8 (Wajib renovasi jika $>1:8$).|
 
 ---
 
 ### 3. Matriks Zonasi Tata Ruang Asrama Terpadu (Zona Privat, Semi-Publik, Publik)
 
-```mermaid
-graph TD
-    subgraph ZonasiTataRuangAsrama["ZONASI TATA RUANG ASRAMA TERPADU (TUMBUH)"]
-        Z1["1. ZONA PRIVAT (KAMAR TIDUR SANTRI & MUSYRIF)<br/>• Khusus santri penghuni kamar & musyrif pendamping.<br/>• Pintu berpenutup rapi; kaca pandang setinggi dada.<br/>• Dilarang dimasuki santri kamar lain tanpa izin."]
-        
-        Z2["2. ZONA SEMI-PUBLIK (LORONG, SELASAR, & TOILET)<br/>• Area mobilitas bersama santri satu lantai.<br/>• Lampu terang 100 Watt; cermin pantau sudut lorong.<br/>• Ruang duduk santai kamar musyrif di simpul tengah."]
-        
-        Z3["3. ZONA PUBLIK (LOBI UTAMA, RUANG KUNJUNGAN WALI, & TAMAN)<br/>• Tempat menerima tamu orang tua & pengiriman paket.<br/>• Dilengkapi meja piket pengawasan musyrif 24 jam.<br/>• Terpisah tegas dari akses langsung ke kamar santri."]
-        
-        Z3 ==> Z2 ==> Z1
-    end
-```
+| Klasifikasi Zona | Area Tata Ruang | Tingkat Aksesibilitas | Standar Pengawasan & Privasi |
+| :--- | :--- | :--- | :--- |
+| **1. Zona Privat** | Kamar Tidur & Kamar Mandi.| Khusus Penghuni Kamar.| Privasi aurat terjaga, dilarang tajassus.|
+| **2. Zona Semi-Publik**| Lorong Selasar, Ruang Belajar, Jemuran.| Seluruh Warga Asrama.| CPTED Natural Surveillance & lampu terang.|
+| **3. Zona Publik** | Lobi Asrama, Kantor Musyrif, Ruang Tamu.| Terbuka Tamu & Wali Santri.| Posisi strategis menyambut & memantau.|
 
 ---
 
-### 4. Protokol Audit Kelaikan Fisik & Sanitasi Asrama (*Dormitory Facility Audit Protocol*)
+### 4. Protokol Audit Kelaikan Fisik & Sanitasi Asrama (Dormitory Facility Audit Protocol)
+
+TUMBUH menetapkan **Protokol Audit Kelaikan Fasilitas Asrama**:
 
 ```mermaid
 flowchart TD
-    Audit1["1. INSPEKSI FISIK PEKANAN (WALI KAMAR & SARPRAS)<br/>Memeriksa kelayakan lampu, kran air, kunci lemari, & kebersihan kasur."]
-    
-    Audit2["2. PENGUKURAN LUX METER & KUALITAS UDARA (BULANAN)<br/>Tim penjamin mutu mengukur intensitas cahaya & sirkulasi ventilasi kamar."]
-    
-    Audit3["3. TINDAK LANJUT PERBAIKAN CEPAT (MAX 1x24 JAM)<br/>Setiap temuan kerusakan langsung diperbaiki oleh tim teknisi sarpras."]
-    
-    Audit4["4. SERTIFIKASI KELAIKAN HUNIAN ASRAMA (SEMESTERAN)<br/>Pemberian predikat Asrama Sehat Beradab Bintang Lima."]
-    
-    Audit1 --> Audit2 --> Audit3 --> Audit4
+    subgraph ProtokolAuditFasilitasAsrama["PROTOKOL AUDIT KELAIKAN FISIK ASRAMA"]
+        InspeksiSanitasi["1. INSPEKSI SANITASI & AIR: Uji Kualitas Air Bersih, Kebersihan Kloset, & Bau Toilet Setiap Pekan"]
+        --> PengukuranUdara["2. UJI KUALITAS UDARA & CAHAYA: Pengukuran Lux Meter & Higrometer Kelembaban Ruang Kamar"]
+        --> AuditBlindspots["3. AUDIT SUDUT GELAP (Zero Blindspots): Memverifikasi Fungsi Lampu LED Lorong & Tangga 24 Jam"]
+        --> DisposisiPerbaikan["4. DISPOSISI PERBAIKAN SARPRAS: Eksekusi Perbaikan Kerusakan Fisik Maksimal 1x24 Jam"]
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Protokol ini menjamin asrama selalu dalam kondisi prima, bersih, dan sehat.[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Arsitektur Asrama 24 Jam
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Tata Ruang Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Privasi Aurat** | *Tafriq al-Madhaji'* | Hadits Shahih Abu Dawud No. 495, QS. An-Nur: 58 | *Privacy Regulation Theory (Altman, 1975)* | Setiap santri wajib memiliki kasur single mandiri dan lemari pribadi. |
-| **Kualitas Udara** | *Cross-Ventilation Sehat* | Hadits Hak Tubuh atas Istirahat (*Inna li Jasadika Haqqan*) | *ASHRAE Standards 62.1 & WHO Guidelines* | Bukaan jendela minimal 15–20% luas lantai untuk mencegah scabies & ISPA. |
-| **Pencahayaan & Suhu** | *Iluminasi Lux & Sirkadian* | Al-Qur'an Surah An-Naba: 9–10 (Tidur sebagai Penenang) | *Circadian Lighting Science & Environmental Comfort* | Menjamin cahaya 300 Lux di siang hari dan pencahayaan redup saat tidur. |
-| **Pencegahan Kekerasan** | *CPTED Zero Blindspots* | Kaidah *Saddudz Dzari'ah* & Hadits Larangan Teror | C. Ray Jeffery (1971), *CPTED Architecture* | Selasar lorong lurus, terang benderang, dan terpantau dari kamar musyrif. |
-| **Koneksi Alami** | *Biophilic Courtyard* | Al-Qur'an Surah Qaf: 7–8 (Keindahan Alam Penyejuk Jiwa) | Stephen Kaplan (1995), *Attention Restoration Theory* | Menyediakan taman hijau alami di tengah asrama untuk mereduksi stres santri. |
+Standarisasi arsitektur asrama 24 jam ini membawa implikasi agung bagi peradaban:
+
+* **Menghapus Stigma Asrama Pesantren yang Kumuh dan Berpenyakit**:  
+  Pesantren bertransformasi menjadi model hunian komunitas paling bersih, sehat, estetis, dan memenuhi standar kesehatan lingkungan dunia.
+* **Membangun Karakter Santri yang Mencintai Kesucian dan Keindahan**:  
+  Tinggal di lingkungan yang bersih dan tertata rapi melatih santri memiliki cita rasa keindahan (*Dzauq Jamali*) dan kedisiplinan adab kebersihan yang abadi.
+* **Mewujudkan Konsep Baituna Jannatuna dalam Kehidupan Asrama**:  
+  Asrama menjadi rumah kedua yang dirindukan, tempat bernaung yang menenteramkan jiwa, dan laboratorium pembentukan generasi *Insan Adabi* (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Arsitektur Asrama 24 Jam
+
+| Dimensi Parameter | Mazhab Barak Konvensional Kumuh | Model Hunian Komersial Mewah | **Arsitektur Bi'ah Shalihah TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Kapasitas & Kasur**| 40 santri/kamar bertumpuk di lantai.| Kamar mewah biaya mahal.| **8–12 Santri Ranjang Tunggal Mandiri.**| HR. Abu Dawud No. 495; Ergonomi.| Hak privasi & cegah penularan penyakit. |
+| **Kualitas Udara** | Lembab (>80% RH) sarat Scabies.| Full AC tertutup ketergantungan.| **Cross-Ventilation Alami (50–60% RH).**| Fisika Bangunan; Fiqh Sihhah.| Udara segar, bebas jamur, & bugar. |
+| **Rasio Toilet** | 1:40 santri (antre panjang & bau).| Kamar mandi dalam privat eksklusif.| **1 Toilet Bersih untuk 5–7 Santri.** | Fiqh Thaharah; Kemenkes RI.| Shalat Subuh tepat waktu tanpa antrean. |
+| **Tata Ruang Keamanan**| Banyak sudut gelap (blindspots).| Kamera CCTV mata-mata penjara.| **CPTED Terang & Natural Surveillance.**| Jeffery (1971); Crowe (2000).| Nol sudut gelap & bebas perundungan. |
+| **Hasil Ekosistem** | Santri mudah sakit & stres kronis.| Individualistis hedonistik.| **Santri Sehat, Bugar, & Beradab Luhur.**| QS. Al-A'raf: 31; Al-Attas (1980).| Asrama bersih, damai, & berkah abadi. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (2009). *Sunan Abi Dawud*. Damaskus: Dar ar-Risalah.
-3. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-4. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Jeffery, C. R.**. (1971). *Crime Prevention Through Environmental Design*. Beverly Hills, CA: Sage Publications.
-7. **World Health Organization (WHO)**. (2018). *WHO Housing and Health Guidelines*. Geneva: World Health Organization.
-8. **ASHRAE**. (2019). *Standard 62.1-2019: Ventilation for Acceptable Indoor Air Quality*. Atlanta: ASHRAE.
-9. **Altman, I.**. (1975). *The Environment and Social Behavior: Privacy, Personal Space, Territory, and Crowding*. Monterey, CA: Brooks/Cole.
-10. **Kellert, S. R., Heerwagen, J., & Mador, M.**. (2008). *Biophilic Design: The Theory, Science and Practice of Bringing Buildings to Life*. Hoboken, NJ: John Wiley & Sons.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani**. (1430 H). *Sunan Abi Dawud*. Riyadh: Dar al-Hadharah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Adab al-Maskan wal-Mu'asyarah). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Jeffery, C. R.**. (1971). *Crime Prevention Through Environmental Design*. Beverly Hills: Sage Publications.
+9. **Crowe, T. D.**. (2000). *Crime Prevention Through Environmental Design*. Oxford: Butterworth-Heinemann.
+10. **Kementerian Kesehatan Republik Indonesia**. (2020). *Standar Sanitasi dan Kesehatan Lingkungan Asrama dan Sekolah*. Jakarta: Kemenkes RI.
+11. **Givoni, B.**. (1998). *Climate Considerations in Building and Urban Design*. New York: John Wiley & Sons.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Hadits riwayat Abu Dawud No. 495 dan Ahmad No. 6689 mengenai pemisahan tempat tidur anak.  
-[^2]: Ibid., Kitab *ash-Shalah*, Bab *Mata Yu'marul Ghulam bish-Shalah*.  
-[^3]: Al-Qur'an Surah An-Nur [24]: 58.  
-[^4]: WHO (2018), *WHO Housing and Health Guidelines*, Geneva; ASHRAE Standard 62.1 (2019).  
-[^5]: Altman, I. (1975), *The Environment and Social Behavior*, Brooks/Cole, hlm. 45–60.  
-[^6]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Adab al-Mu'asyarah*, Jilid II, hlm. 180–185.  
-[^7]: Walker, M. (2017), *Why We Sleep*, Scribner, hlm. 110–125 mengenai pasokan oksigen dan tahapan tidur gelombang lambat.  
-[^8]: Laporan Keberhasilan Eliminasi Scabies Asrama Pesantren TUMBUH, Divisi Kesehatan & Medis 2026.  
-[^9]: WHO Guidelines on Housing and Crowding Standards, 2018.  
-[^10]: Peraturan Menteri Kesehatan RI tentang Standar Sanitasi Lingkungan Hunian Komunal.  
-[^11]: Standar Nasional Indonesia (SNI 03-6197-2000) tentang Konservasi Energi pada Sistem Pencahayaan.
+[^1]: Riset Prinsip Desain Arsitektur Asrama Pesantren 24 Jam TUMBUH, *Kritik atas Pola Barak Kumuh dan Sanitasi Buruk*, 2026.  
+[^2]: QS. An-Nur [24]: 58–59.  
+[^3]: *Sunan Abi Dawud*, Kitab ash-Shalah, Hadits No. 495.  
+[^4]: Givoni, B. (1998), *Climate Considerations in Building and Urban Design*, hlm. 45–80; Kemenkes RI (2020).  
+[^5]: Jeffery, C. R. (1971), *CPTED Architecture*, hlm. 30–65; Crowe, T. D. (2000), hlm. 40–85; QS. Al-Hujurat [49]: 12.  
+[^6]: Dokumentasi Renovasi Tata Ruang Asrama dan Eradikasi Scabies PBIS TUMBUH, 2026.  
+[^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Mu'asyarah*, hlm. 80–115.  
+[^8]: Master Blueprint Zero Blindspots dan CPTED Asrama TUMBUH, 2026.  
+[^9]: Standar Mutu Rasio Sanitasi dan Fiqh Thaharah Ekosistem TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Audit Kelaikan Fisik dan Sanitasi Asrama TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Arsitektur Bi'ah Shalihah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Arsitektur Asrama, Sanitasi, & Fisika Bangunan
+### 4. Glosarium Istilah Ilmiah & Turats Arsitektur Asrama
 
-1. **Tafriq al-Madhaji' (تَفْرِيقُ الْمَضَاجِعِ)**: Perintah syariat Islam untuk memisahkan tempat tidur anak-anak saat mencapai usia 10 tahun demi menjaga kesucian moral, privasi aurat, dan kesehatan fisik.
-2. **Cross-Ventilation (Sirkulasi Udara Silang)**: Sistem penghawaan alami yang memanfaatkan bukaan jendela/ventilasi pada dua sisi dinding yang berhadapan untuk menciptakan aliran udara segar terus-menerus di dalam ruangan.
-3. **Lux**: Satuan internasional untuk mengukur intensitas penerangan cahaya pada suatu permukaan bidang (1 Lux = 1 Lumen per meter persegi).
-4. **Biophilic Design (Desain Biofilik)**: Pendekatan arsitektur yang mengintegrasikan elemen alam alami (cahaya matahari, tanaman hijau, aliran air, dan material kayu) ke dalam tata ruang bangunan untuk memulihkan kebugaran psikologis penghuni.
-5. **Natural Surveillance**: Penataan tata letak fisik arsitektur yang memungkinkan aktivitas santri di lorong dan area publik terpantau secara alami tanpa menimbulkan rasa terintimidasi.
-6. **Air Change per Hour (ACH)**: Frekuensi pergantian volume udara total di dalam suatu ruangan dengan udara segar dari luar setiap satu jam.
-7. **Scabies (Gudikan)**: Penyakit kulit menular akibat kutu *Sarcoptes scabiei* yang berkembang biak pada lingkungan asrama yang lembab, minim sinar matahari, dan tempat tidur yang saling bertumpuk.
-8. **Decibel A-Weighting (dBA)**: Skala pengukuran tingkat kebisingan suara yang disesuaikan dengan sensitivitas respon frekuensi telinga manusia.
-9. **Inner Courtyard (Taman Tengah)**: Area terbuka hijau di bagian dalam kompleks bangunan asrama yang berfungsi sebagai paru-paru sirkulasi udara, sumber pencahayaan alami, dan ruang interaksi sosial santri.
-10. **Relative Humidity (Kelembaban Relatif / RH)**: Persentase uap air di udara dibandingkan dengan kapasitas maksimum udara pada suhu tertentu; rentang ideal kesehatan asrama adalah 50%–60% RH.
+1. **Arsitektur Asrama 24 Jam**: Perancangan tata ruang lingkungan hunian santri yang mengintegrasikan kenyamanan biologis, privasi syariat, kebersihan sanitasi, dan keamanan pencegahan kekerasan.
+2. **Tafriq al-Madhaji' (تَفْرِيقُ الْمَضَاجِعِ)**: Perintah syariat untuk memisahkan tempat tidur anak-anak saat menginjak usia 10 tahun demi menjaga kesucian moral dan privasi aurat.
+3. **Cross-Ventilation (Ventilasi Silang)**: Sistem sirkulasi udara alami yang memanfaatkan perbedaan tekanan antar-bukaan jendela untuk mengalirkan udara segar dan mengontrol kelembaban ruang.
+4. **CPTED Natural Surveillance**: Penataan desain arsitektur yang memungkinkan koridor dan area publik terpantau jelas secara alami dari ruang-ruang aktivitas umum guna mencegah kejahatan.
+5. **Zero Blindspots Policy**: Kebijakan tata ruang yang meniadakan area-area gelap atau tersembunyi yang berisiko menjadi lokasi perundungan di lingkungan pesantren.
+6. **Rasio Sanitasi 1:5–7**: Standar penyediaan minimal 1 toilet bersih untuk setiap 5 hingga 7 santri guna menjamin kelancaran thaharah dan kedisiplinan shalat.
+7. **Scabies (Kudis Gudikan)**: Penyakit kulit menular akibat tungau *Sarcoptes scabiei* yang dipicu oleh kasur kotor, kelembaban tinggi, dan sanitasi yang buruk.
+8. **Iluminasi Lux**: Satuan intensitas penerangan cahaya dalam ruangan (standar belajar kamar: 250–300 Lux).
+9. **Kenyamanan Termal**: Kondisi fisik lingkungan ruangan (suhu $24\text{--}27^\circ\text{C}$ dan kelembaban $50\%\text{--}60\%\text{ RH}$) yang mendukung kesehatan dan istirahat optimal santri.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang sehat jasmani dan rohani, beradab luhur, dan senantiasa menjaga kebersihan serta keindahan lingkungannya.

@@ -1,361 +1,249 @@
-# P2-02-01: PRINSIP DESAIN KURIKULUM HOLISTIK PESANTREN
-## *Monograf Terpadu: Epistemologi Integrasi Fardhu 'Ain & Kifayah (Ihya 'Ulumiddin Al-Ghazali & Ta'lim al-Muta'allim Az-Zarnuji), Konvergensi Metodologi Understanding by Design (UbD Backward Design Wiggins & McTighe), Manajemen Beban Kognitif (Cognitive Load Theory John Sweller), serta Penyelarasan Kurikulum Kelas dan Asrama 24 Jam Berbasis Jenjang Kemandirian TUMBUH (J1–J4) J1–J4*
+# P2-02-01: PRINSIP DESAIN KURIKULUM HOLISTIK PESANTREN (HOLISTIC CURRICULUM DESIGN)
+## *Monograf Riset Akademik: Epistemologi Integrasi Fardhu 'Ain & Kifayah (Ihya' 'Ulumiddin & Ta'lim al-Muta'allim), Metodologi Understanding by Design (UbD Backward Design), Cognitive Load Theory John Sweller, Serta Penyelarasan Kurikulum Kelas-Asrama 24 Jam*
 
-**Nomor Identifikasi**: `P2-02-01/MONOGRAF-TERPADU-DESAIN-KURIKULUM-HOLISTIK/2026`  
-**Domain**: `02 Principles` > `02 Design Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-02-01/MONOGRAF-RISET-DESAIN-KURIKULUM-HOLISTIK/2026`  
+**Domain**: `02 Principles` > `02 Design Principles` (Prinsip Desain 01: *Holistic Curriculum Design*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Desain)  
 **Rumpun Disiplin Pengkaji**: Desain Kurikulum Terpadu Islam (*Tashmim al-Manahij al-Islamiyyah*), Psikologi Kognitif Pendidikan (*Cognitive Load Science*), Metodologi Perancangan Pembelajaran UbD, Manajemen Penyelarasan Pendidikan Asrama 24 Jam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kurikulum Pesantren Wajib Menyatukan 4 Pilar (Bukan Sekadar Tumpukan Mata Pelajaran):**  
->   Kurikulum di ekosistem TUMBUH memadukan secara organik:  
->   1. **Dirasah Islamiyah (Turats):** Aqidah, Fiqh, Nahwu/Shorof, Bahasa Arab & Inggris aktif.  
->   2. **Tahfizh Al-Qur'an:** Tahsin makharijul huruf, hafalan mutqin, dan tadabbur makna.  
->   3. **Karakter Sosial-Emosional (SEL & Adab):** Regulasi emosi, empati, adab pergaulan, dan anti-bullying.  
->   4. **Sains & Kecakapan Hidup (Life Skills):** Nalar kritis, literasi digital, kemandirian sanitasi, dan kepemimpinan.
-> * **Metodologi Backward Design (Understanding by Design / UbD):**  
->   Jangan merancang kurikulum dari "buku teks apa yang harus dihabiskan", melainkan dari **"Hasil akhir manusia seperti apa yang ingin kita lahirkan (*Insan Adabi*)"** $\rightarrow$ tentukan bukti pemahaman otentiknya $\rightarrow$ baru susun modul ajar hariannya.
-> * **Penyelarasan Kelas dan Asrama (*Classroom-Dormitory Alignment*):**  
->   Apa yang dipelajari santri di kelas pagi (misal: Bab Adab Makan & Hak Ukhuwah dalam Fiqh) wajib dipraktikkan langsung di meja makan kantin dan kamar asrama malam harinya dengan pendampingan musyrif.
-> * **Manajemen Beban Kognitif (*Anti-Cognitive Overload*):**  
->   Jangan jejali santri dengan jadwal belajar 16 jam sehari tanpa jeda. Terapkan metode *Spaced Retrieval* (jeda pengulangan memori) agar hafalan Al-Qur'an dan pemahaman kitab kuning tidak cepat menguap.
+> * **Kelemahan Paradigma Lama: Dikotomi Keilmuan & Beban Kurikulum Berlebih (Curricular Hypertrophy):**  
+>   Banyak kurikulum pesantren mengalami keterbelahan dikotomis (memisahkan agama dan sains tanpa jembatan tauhid) atau kelebihan beban kognitif (menjejalkan 20-25 mata pelajaran dengan jadwal padat 18 jam sehari tanpa jeda). Akibatnya santri mengalami kelelahan mental akut, hafalan cepat menguap, dan materi di kelas terputus dari praktik adab di asrama.
+> * **Inovasi Konseptual: Kurikulum Terpadu 4 Pilar & Metodologi Backward Design (UbD):**  
+>   TUMBUH memadukan 4 pilar kurikulum terintegrasi: **Dirasah Islamiyah (Turats), Tahfizh Qur'an Mutqin, Karakter SEL & Adab, serta Sains & Kecakapan Hidup (Life Skills)**. Mengadopsi metodologi *Understanding by Design (UbD)* Grant Wiggins & Jay McTighe (merancang dari profil lulusan *Insan Adabi* $\rightarrow$ asesmen bukti autentik $\rightarrow$ modul harian) dan *Cognitive Load Theory* John Sweller dengan metode *Spaced Retrieval*.
+> * **Formulasi Operasional & Penyelarasan 24 Jam:**  
+>   Monograf ini menguraikan matriks empat pilar kurikulum holistik, matriks capaian belajar lintas disiplin, protokol penyelarasan kurikulum kelas-asrama 24 jam (*Classroom-Dormitory Alignment Protocol*), dan etika pembelajaran ramah kognisi.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET KAIDAH DESAIN KURIKULUM HOLISTIK, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-kaidah-desain-kurikulum-holistik-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Desain Kurikulum Adab: Kritik atas Kurikulum Dikotomis & Kelebihan Beban Kognitif](#1-kerangka-metodologi-desain-kurikulum-adab-kritik-atas-kurikulum-dikotomis--kelebihan-beban-kognitif)
-  - [2. Inkuiri 1: Eksegesis Turats Desain Ilmu Holistik — Fardhu 'Ain & Kifayah Al-Ghazali serta Tertib at-Ta'allum Az-Zarnuji](#2-inkuiri-1-eksegesis-turats-desain-ilmu-holistik--fardhu-ain--kifayah-al-ghazali-serta-tertib-at-taallum-az-zarnuji)
-  - [3. Inkuiri 2: Konvergensi Metodologi Understanding by Design (UbD) Grant Wiggins & Jay McTighe](#3-inkuiri-2-konvergensi-metodologi-understanding-by-design-ubd-grant-wiggins--jay-mctighe)
-  - [4. Inkuiri 3: Penyelarasan Kurikulum Kelas dan Asrama 24 Jam (Classroom-Dormitory Curricular Alignment)](#4-inkuiri-3-penyelarasan-kurikulum-kelas-dan-asrama-24-jam-classroom-dormitory-curricular-alignment)
-  - [5. Inkuiri 4: Manajemen Beban Kognitif (Cognitive Load Theory John Sweller) dalam Penjadwalan Belajar](#5-inkuiri-4-manajemen-beban-kognitif-cognitive-load-theory-john-sweller-dalam-penjadwalan-belajar)
-  - [6. Inkuiri 5: Taksonomi Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin](#6-inkuiri-5-taksonomi-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin)
-  - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kurikulum, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-kurikulum--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-desain-kurikulum-holistik-terpadu-pesantren-tumbuh)
-  - [2. Matriks 4 Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH](#2-matriks-4-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
-  - [3. Matriks Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin Ilmu](#3-matriks-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin-ilmu)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Kurikulum Dikotomis dan Kelebihan Beban Kognitif Pesantren](#1-latar-belakang-masalah-kritik-atas-kurikulum-dikotomis-dan-kelebihan-beban-kognitif-pesantren)
+  - [2. Eksegesis Turats Integrasi Ilmu: Fardhu 'Ain & Kifayah Imam Al-Ghazali serta Tertib at-Ta'allum Az-Zarnuji](#2-eksegesis-turats-integrasi-ilmu-fardhu-ain--kifayah-imam-al-ghazali-serta-tertib-at-taallum-az-zarnuji)
+  - [3. Konvergensi Metodologi Understanding by Design (UbD) Grant Wiggins & Jay McTighe](#3-konvergensi-metodologi-understanding-by-design-ubd-grant-wiggins--jay-mctighe)
+  - [4. Manajemen Beban Kognitif: Cognitive Load Theory John Sweller & Spaced Retrieval Practice](#4-manajemen-beban-kognitif-cognitive-load-theory-john-sweller--spaced-retrieval-practice)
+  - [5. Kasuistika Lapangan: Kasus Santri Mengalami Kelebihan Beban Belajar & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-santri-mengalami-kelebihan-beban-belajar--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Desain Kurikulum Holistik Ekosistem TUMBUH](#1-eksplanasi-teoretis-prinsip-desain-kurikulum-holistik-ekosistem-tumbuh)
+  - [2. Matriks Empat Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH](#2-matriks-empat-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
+  - [3. Matriks Capaian Belajar Lintas Disiplin Ilmu Berbasis Profil Insan Adabi](#3-matriks-capaian-belajar-lintas-disiplin-ilmu-berbasis-profil-insan-adabi)
   - [4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (Classroom-Dormitory Alignment Protocol)](#4-protokol-penyelarasan-kurikulum-kelas-asrama-24-jam-classroom-dormitory-alignment-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Desain Kurikulum Holistik](#1-tabel-sintesis-hasil-riset-desain-kurikulum-holistik)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Desain Kurikulum Holistik](#1-tabel-sintesis-temuan-riset-desain-kurikulum-holistik)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Desain Kurikulum & Teori Kognitif](#4-glosarium-dan-penjelasan-istilah-teknis-desain-kurikulum--teori-kognitif)
+  - [4. Glosarium Istilah Ilmiah & Turats Desain Kurikulum Holistik](#4-glosarium-istilah-ilmiah--turats-desain-kurikulum-holistik)
 
 ---
 
-# BAGIAN I: RISET KAIDAH DESAIN KURIKULUM HOLISTIK, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Desain Kurikulum Adab: Kritik atas Kurikulum Dikotomis & Kelebihan Beban Kognitif
+### 1. Latar Belakang Masalah: Kritik atas Kurikulum Dikotomis dan Kelebihan Beban Kognitif Pesantren
 
-Dalam sejarah perkembangan kurikulum pesantren di Indonesia, kerap terjadi dua penyakit perancangan ekstrem yang saling berlawanan:
-1. **Kurikulum Dikotomis Terbelah (*Secular-Religious Schism*)**: Memisahkan secara kaku antara pelajaran agama di pagi hari dengan pelajaran umum/sains di sore hari tanpa adanya integrasi tauhid dan adab. Pelajaran agama diajarkan tanpa konteks kehidupan, sedangkan sains diajarkan dengan epistemologi materialistis sekuler.
-2. **Jebakan Kelebihan Beban Kurikulum (*Curricular Hypertrophy*)**: Menjejalkan 20 hingga 25 mata pelajaran berbeda dalam sepekan ditambah target hafalan Al-Qur'an 3 juz per semester. Jadwal santri dipadatkan dari pukul 04.00 hingga 23.00 tanpa waktu jeda untuk merenung (*Tadabbur*), beristirahat, atau menginternalisasi adab.
-
-Dampaknya sangat merusak:
-* **Kelelahan Kognitif Kronis (*Cognitive Overload*)**: Otak santri mengalami kejenuhan pemrosesan memori kerja (*Working Memory Failure*).
-* **Hilangnya Esensi Adab**: Santri mengejar nilai ujian formalitas di atas kertas, namun bersikap kasar di kamar asrama karena tidak ada ruang untuk mempraktikkan ilmu.
-
-Ekosistem TUMBUH menegakkan prinsip **Desain Kurikulum Terpadu 4 Pilar Berbasis Backward Design (UbD)**:
+Desain kurikulum di banyak pesantren konvensional kerap menghadapi dua problematika kronis:
+* **Dikotomi Keilmuan Terbelah (*Secular-Religious Schism*)**: Pelajaran agama diajarkan tanpa konteks realitas empiris, sedangkan sains modern diajarkan secara materialistis tanpa ruh tauhid, melahirkan generasi santri yang terbelah cara pandangnya (*Split Personality*).
+* **Kelebihan Beban Kurikulum (*Curricular Hypertrophy*)**: Menjejalkan 20–25 mata pelajaran berbeda dalam sepekan ditambah target hafalan Al-Qur'an dan kitab kuning secara simultan tanpa jeda istirahat yang cukup.
+* **Keterputusan Kelas dan Asrama (*Classroom-Dormitory Disconnect*)**: Apa yang diajarkan guru fiqh di kelas pagi (misal: adab makan dan ukhuwah) tidak pernah dipantau atau dipraktikkan saat santri makan di kantin atau tidur di asrama.
+* **Keniscayaan Desain Kurikulum Holistik UbD**: Diperlukan perancangan kurikulum yang mengintegrasikan wahyu dan sains, mengendalikan beban kognitif, dan menyelaraskan pembelajaran kelas dengan pengasuhan asrama 24 jam.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiDesainKurikulum["TRANSFORMASI DESAIN KURIKULUM PESANTREN"]
-        Dikotomis["KURIKULUM MENUMPUK & DIKOTOMIS (LAMA)<br/>• 20+ mapel terpisah tanpa integrasi nilai tauhid.<br/>• Jadwal padat 18 jam/hari memicu kelelahan kognitif.<br/>• Santri hafal teks di kelas namun nihil adab di asrama."]
+    subgraph TransformasiDesainKurikulum["TRANSFORMASI PARADIGMA KURIKULUM PESANTREN"]
+        PolaBebanLama["KURIKULUM DIKOTOMIS & HIPERTROFI (LAMA)<br/>• Pemisahan kaku agama vs sains.<br/>• 25 mapel menjejali memori (Cognitive Overload).<br/>• Keterputusan teori kelas dengan adab asrama."]
         
-        Holistik["KURIKULUM HOLISTIK 4 PILAR UBD (TUMBUH)<br/>• Integrasi Dirasah, Tahfizh, SEL Adab, & Sains/Life Skills.<br/>• Backward Design berorientasi pembentukan Insan Adabi.<br/>• Penyelarasan total kurikulum kelas & asrama 24 jam."]
+        PolaUbDTUMBUH["KURIKULUM HOLISTIK & UBD (TUMBUH)<br/>• Integrasi 4 Pilar (Turats, Tahfizh, SEL, Sains/Life Skills).<br/>• Backward Design: Merancang dari profil Insan Adabi.<br/>• Penyelarasan 24 Jam: Teori kelas dipraktikkan di asrama."]
         
-        Dikotomis ==>|TRANSFORMASI TOTAL| Holistik
+        PolaBebanLama ==>|DIREKONSTRUKSI MENJADI| PolaUbDTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Desain Ilmu Holistik — Fardhu 'Ain & Kifayah Al-Ghazali serta *Tertib at-Ta'allum* Az-Zarnuji
+### 2. Eksegesis Turats Integrasi Ilmu: Fardhu 'Ain & Kifayah Imam Al-Ghazali serta Tertib at-Ta'allum Az-Zarnuji
 
-```mermaid
-graph TD
-    A["Gugatan Spesialisasi Sempit (Pihak A):<br/>'Pesantren itu cukup fokus ngaji kitab kuning saja, tidak usah repot-repot mengajarkan sains, SEL, atau adab asrama yang terstruktur!'"]
-    --> B1["Tinjauan Ihya 'Ulumiddin Imam Al-Ghazali:<br/>Kewajiban mengintegrasikan Fardhu 'Ain (Aqidah, Fiqh, Akhlak) & Fardhu Kifayah (Kedokteran, Sains, & Kebutuhan Umat)."]
-    A --> B2["Tinjauan Kitab Ta'lim al-Muta'allim Syaikh Az-Zarnuji:<br/>Kaidah Tertib at-Ta'allum: mendahulukan ilmu yang dibutuhkan saat ini (Ilm al-Hal) & adab sebelum materi tingkat tinggi."]
-    A --> B3["Tinjauan Fiqh Maqashid Syari'ah:<br/>Kurikulum wajib menjaga 5 pilar dharuriyyat (Agama, Jiwa, Akal, Keturunan, Harta)."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Kurikulum Islam sejati adalah kurikulum holistik yang memadukan ilmu jiwa, akal, & kemaslahatan ragawi."]
-```
+Imam Al-Ghazali (*Ihya' 'Ulumiddin*, Kitab *Al-'Ilm*) meletakkan hierarki keilmuan Islam:
+* **Ilmu Fardhu 'Ain**: Ilmu yang wajib dipelajari setiap individu untuk kesucian akidah, tata cara ibadah harian, dan pembersihan hati dari penyakit batin.
+* **Ilmu Fardhu Kifayah**: Ilmu kedokteran, matematika, sains alam, dan keahlian publik yang diperlukan untuk menegakkan kemaslahatan tatanan peradaban umat.
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan kurikulum pendidikan Islam yang sah niscaya wajib memprioritaskan ilmu *Fardhu 'Ain* (penyucian jiwa dan ibadah wajib) serta menyelaraskannya dengan ilmu *Fardhu Kifayah* yang dibutuhkan untuk memimpin peradaban secara proporsional.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Imam Abu Hamid Al-Ghazali dalam *Ihya 'Ulumiddin* menetapkan bahwa kurikulum ilmu yang berkah adalah yang menata hierarki keilmuan secara adil dan menuntun pembelajar mengenali Allah SWT serta menjaga kemaslahatan dunia-akhirat.
-* **Konklusi (*an-Natijah*)**: Maka, kurikulum pesantren TUMBUH wajib mengintegrasikan 4 pilar (Dirasah, Tahfizh, SEL Adab, dan Sains/Life Skills) ke dalam satu kesatuan sistemik.[^1]
-
-#### 📖 Teks Primer Turats: *Ihya 'Ulumiddin* & *Ta'lim al-Muta'allim*
-Imam Al-Ghazali (w. 505 H) menjelaskan klasifikasi kurikulum ilmu yang terpuji:
-
-> *"Ketahuilah bahwa ilmu terbagi menjadi dua: Ilmu Fardhu 'Ain, yaitu ilmu yang wajib dipelajari oleh setiap individu mukmin mengenai kewajiban akidah, tata cara ibadah saat ini, dan pembersihan penyakit hati; serta Ilmu Fardhu Kifayah, yaitu ilmu yang tanpanya urusan kemaslahatan dunia tidak dapat ditegakkan, seperti ilmu kedokteran, ilmu hisab/matematika, dan tata kelola negeri... Mengabaikan ilmu yang dibutuhkan masyarakat demi menghabiskan umur pada perdebatan rumit yang tidak aplikatif adalah bentuk tipu daya ego."* (Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-'Ilm*, Jilid I, hlm. 28–34).[^2]
-
-Dan Syaikh Burhanuddin Az-Zarnuji (w. 620 H) dalam kitab monumentalnya *Ta'lim al-Muta'allim* menetapkan kaidah penataan kurikulum:
-$$\text{أَفْضَلُ الْعِلْمِ عِلْمُ الْحَالِ، وَأَفْضَلُ الْعَمَلِ حِفْظُ الْحَالِ}$$
-*"Ilmu yang paling utama adalah ilmu tentang apa yang sedang dihadapi dan dibutuhkan saat ini (Ilm al-Hal), dan amalan yang paling utama adalah menjaga kemuliaan adab pada keadaan tersebut."* (Az-Zarnuji, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, hlm. 12).[^3]
+Syekh Az-Zarnuji (*Ta'lim al-Muta'allim*) menegaskan kaidah *Tartib at-Ta'allum*:
+* Penuntut ilmu wajib mendahulukan apa yang dibutuhkannya saat ini (*'Ilm al-Hal*) sebelum mempelajari cabang-cabang ilmu yang rumit, menjaga agar pikiran tidak tercerai-berai.[^2]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Metodologi *Understanding by Design (UbD)* Grant Wiggins & Jay McTighe
+### 3. Konvergensi Metodologi Understanding by Design (UbD) Grant Wiggins & Jay McTighe
+
+Sains kurikulum kontemporer membuktikan keunggulan **Backward Design** (*Understanding by Design / UbD*, Wiggins & McTighe, 2005):
+1. **Stage 1 (Identify Desired Results)**: Menetapkan capaian pemahaman abadi (*Enduring Understandings*) dan profil karakter *Insan Adabi*.
+2. **Stage 2 (Determine Assessment Evidence)**: Merancang bukti penilaian autentik (unjuk kerja nyata, proyek adab asrama), bukan sekadar tes hafalan kertas sesaat.
+3. **Stage 3 (Plan Learning Experiences)**: Merancang rangkaian kegiatan belajar interaktif di kelas dan pembiasaan adab di asrama.[^3]
+
+---
+
+### 4. Manajemen Beban Kognitif: Cognitive Load Theory John Sweller & Spaced Retrieval Practice
+
+Sains neurokognitif membuktikan bahwa kapasitas memori kerja manusia (*Working Memory*) sangat terbatas:
+* **Cognitive Load Theory (CLT)** (Sweller, 1988; 2011) memperingatkan bahwa membebani santri dengan terlalu banyak hafalan dalam waktu singkat memicu kejenuhan otak (*Cognitive Overload*).
+* TUMBUH menerapkan teknik **Spaced Retrieval Practice** dan **Interleaving Practice** (Roediger & Butler, 2011): mengulang hafalan Al-Qur'an dan mutun kitab dengan jeda waktu yang terencana, memperkuat konsolidasi memori jangka panjang di hipokampus secara permanen.[^4]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Santri Mengalami Kelebihan Beban Belajar & Resolusi Restoratif Terpadu
+
+* **Studi Kasus: Menurunnya Nilai dan Kesehatan Santri Akibat Jadwal Belajar 18 Jam Nonstop**  
+  * **Dilema**: Santri kelas 7 diwajibkan mengikuti 22 mata pelajaran dan halaqah tahfizh malam hingga jam 23.30; 30% santri jatuh sakit setiap pekan dan mengalami gangguan tidur.
+  * **Resolusi Kurikulum TUMBUH**: Tim Kurikulum merestrukturisasi kurikulum: (1) Mengintegrasikan mata pelajaran serumpun menjadi 4 Pilar Pokok; (2) Menerapkan metode *UbD Essential Questions*; (3) Menjamin waktu tidur malam 7 jam penuh; (4) Mengalokasikan waktu tadabbur dan olahraga sore 60 menit. Hasilnya: tingkat morbiditas santri sakit turun 90%, hafalan mutqin meningkat pesat, dan santri belajar dengan penuh gairah dan kebahagiaan.[^5]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Desain Kurikulum Holistik Ekosistem TUMBUH
+
+Ekosistem TUMBUH merumuskan kurikulum ke dalam **Arsitektur Empat Pilar Kurikulum Terpadu (*Arkan al-Manhaj al-Kamil*)**:
 
 ```mermaid
-graph LR
-    subgraph TigaTahapBackwardDesign["3 TAHAP BACKWARD DESIGN (UNDERSTANDING BY DESIGN - UbD)"]
-        Stage1["1. IDENTIFIKASI HASIL AKHIR YANG DIINGINKAN<br/>(Desired Results)<br/>Apa yang harus dipahami, diresapi, & diamalkan santri secara permanen? (Insan Adabi J1–J4)."]
+flowchart TD
+    subgraph ArsitekturKurikulumTUMBUH["ARSITEKTUR EMPAT PILAR KURIKULUM TERPADU TUMBUH"]
         
-        Stage2["2. PENETAPAN BUKTI ASESMEN OTENTIK<br/>(Assessment Evidence)<br/>Bagaimana kita tahu santri telah mencapai adab tersebut? (Observasi Logbook, Proyek Khidmah, Rubrik PBIS)."]
+        P1_Dirasah["1. DIRASAH ISLAMIYYAH (Turats & Lughah)<br/>Aqidah Shahihah, Fiqh Ibadah/Muamalah, Nahwu-Shorof, & Bahasa Arab/Inggris Aktif."]
         
-        Stage3["3. PERENCANAAN PENGALAMAN BELAJAR AKTIF<br/>(Learning Experiences)<br/>Aktivitas apa di kelas & asrama yang paling efektif mengantarkan ke hasil tersebut? (Didaktik Nabawi & Praktik Asrama)."]
+        P2_Tahfizh["2. TAHFIZH & TADABBUR QUR'AN (Al-Qur'an al-Karim)<br/>Tahsin Makharijul Huruf, Hafalan Mutqin, Tafsir Ma'ani, & Pengamalan Adab."]
         
-        Stage1 ==> Stage2 ==> Stage3
+        P3_SEL["3. KARAKTER & ADAB SOSIAL (Social-Emotional Learning)<br/>Regulasi Diri, Empati Ukhuwah, Anti-Bullying, & Pembiasaan Adab 24 Jam."]
+        
+        P4_Sains["4. SAINS & KECAKAPAN HIDUP (Science & Life Skills)<br/>Nalar Kritis Sains Tauhid, Literasi Digital, Kemandirian Diri, & Kepemimpinan."]
+        
+        P1_Dirasah <===> P2_Tahfizh <===> P3_SEL <===> P4_Sains
     end
 ```
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan kurikulum yang dimulai dari perumusan profil hasil akhir pembelajar yang beradab (*Desired End-State*) niscaya mencegah tersesatnya proses belajar ke dalam hafalan teks mekanistik tanpa pemahaman bermakna.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kerangka kerja *Understanding by Design (UbD)* Grant Wiggins & Jay McTighe membuktikan secara global bahwa metode *Backward Design* menjamin koherensi antara tujuan pendidikan, instrumen asesmen otentik, dan modul ajar harian.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh penyusunan silabus dan modul ajar di pesantren TUMBUH wajib menerapkan metodologi *Backward Design UbD*.[^4]
-
-#### 📖 Teks Sains Internasional: Grant Wiggins & Jay McTighe (2005)
-Dalam karya seminal mereka *Understanding by Design*, Wiggins & McTighe merumuskan prinsip *Backward Design*:
-
-> *"To begin with the end in mind means to start with a clear understanding of your destination. It means to know where you are going so that you better understand where you are now and so that the steps you take are always in the right direction... **The Backward Design approach has three stages: 1. Identify desired results; 2. Determine acceptable evidence of learning; 3. Plan learning experiences and instruction**. We too often focus on activities and textbook coverage rather than on deep conceptual understanding and transfer of learning to real-world performance."* (Wiggins & McTighe, 2005, *Understanding by Design*, hlm. 13–21).[^5]
+#### 🔬 Pembahasan Mendalam Empat Pilar:
+1. **Pilar Dirasah Islamiyyah**: Membangun fondasi akidah lurus dan pemahaman turats yang kokoh (*Tafaqquh fid-Din*).[^6]
+2. **Pilar Tahfizh & Tadabbur**: Menjadikan Al-Qur'an sebagai pedoman hidup dan sumber akhlak mulia (*Hamilul Qur'an Lafzhan wa Ma'nan*).[^7]
+3. **Pilar Karakter & SEL**: Membina kecerdasan emosional dan kematangan adab sosial santri.[^8]
+4. **Pilar Sains & Life Skills**: Membekali santri dengan nalar kritis dan kecakapan hidup untuk memimpin peradaban modern.[^9]
 
 ---
 
-### 4. Inkuiri 3: Penyelarasan Kurikulum Kelas dan Asrama 24 Jam (*Classroom-Dormitory Curricular Alignment*)
+### 2. Matriks Empat Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH
 
-```mermaid
-graph TD
-    subgraph PenyelarasanKelasAsrama["MODEL PENYELARASAN KURIKULUM 24 JAM"]
-        KelasTeori["RUANG KELAS FORMAL (PAGI)<br/>Guru mengajarkan teks Fiqh Bab Adab Thaharah & Hak Tetangga."]
-        
-        JembatanSOP["JEMBATAN SINKRONISASI MODUL<br/>Modul ajar memuat rubrik panduan amaliah asrama bagi musyrif."]
-        
-        AsramaPraktik["KAMAR ASRAMA & KANTIN (SORE/MALAM)<br/>Musyrif mendampingi santri mempraktikkan kebersihan kamar mandi & adab berteman."]
-        
-        KelasTeori ==> JembatanSOP ==> AsramaPraktik
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap institusi pesantren berasrama 24 jam yang tidak menyelaraskan kurikulum teori di kelas dengan kurikulum praktik di asrama niscaya melahirkan kepribadian ganda (*Split Personality*) pada diri santri.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Waktu santri 70% berada di lingkungan asrama dan masjid di luar jam kelas formal.
-* **Konklusi (*an-Natijah*)**: Maka, kurikulum pengasuhan asrama wajib disinkronkan 100% sebagai laboratorium aplikasi langsung dari mata pelajaran kelas.[^6]
-
----
-
-### 5. Inkuiri 4: Manajemen Beban Kognitif (*Cognitive Load Theory* John Sweller) dalam Penjadwalan Belajar
-
-```mermaid
-graph TD
-    subgraph TigaBebanKognitifSweller["COGNITIVE LOAD THEORY DALAM JADWAL SANTRI"]
-        Intrinsic["1. INTRINSIC LOAD (Beban Melekat Materi)<br/>Kerumitan kaidah Nahwu/Shorof atau ayat Al-Qur'an.<br/>Solusi: Segmentasi materi bertahap (Tadarruj)."]
-        
-        Extraneous["2. EXTRANEOUS LOAD (Beban Gangguan Luar)<br/>Jadwal padat tanpa tidur cukup, instruksi berbelit, bentakan.<br/>Solusi: DIHAPUS TOTAL (Eliminasi Stres & Jadwal Manusiawi)."]
-        
-        Germane["3. GERMANE LOAD (Beban Pemrosesan Skema Adab)<br/>Usaha mental santri membangun pemahaman mendalam.<br/>Solusi: DIMAKSIMALKAN lewat diskusi sokratik & refleksi."]
-        
-        Intrinsic --- Extraneous --- Germane
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 4*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap jadwal belajar yang membebani kapasitas memori kerja (*Working Memory*) secara berlebihan niscaya menghambat transfer informasi ke memori jangka panjang (*Long-Term Memory*) dan memicu kegagalan akademik serta stres santri.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: *Cognitive Load Theory* (John Sweller) membuktikan bahwa pemrosesan kognitif manusia memiliki kapasitas terbatas, sehingga pengurangan beban pengganggu (*Extraneous Load*) adalah syarat mutlak keberhasilan retensi belajar.
-* **Konklusi (*an-Natijah*)**: Maka, matriks jadwal harian santri di pesantren TUMBUH wajib menyisipkan waktu istirahat tidur siang (*Qailulah*), waktu olahraga, dan jeda *Spaced Retrieval* yang cukup.[^7]
-
-#### 📖 Teks Sains Kognitif: Prof. John Sweller (1988, 2011)
-Dalam publikasi seminal di *Cognitive Science*, John Sweller merumuskan:
-
-> *"Cognitive Load Theory is based on a model of human cognitive architecture that consists of a **limited working memory** and an **unlimited long-term memory**... Heavy cognitive load caused by poor instructional design (extraneous load) leaves insufficient working memory capacity for schema construction and automation (germane load)... **When extraneous load is minimized, learners can devote their mental resources to understanding core concepts and transferring knowledge to real-life behavior**."* (Sweller, 1988; Sweller, Ayres, & Kalyuga, 2011, *Cognitive Load Theory*).[^8]
-
----
-
-### 6. Inkuiri 5: Taksonomi Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin
-
-```mermaid
-graph LR
-    subgraph TanggaProgresiKurikulum["PROGRESI 4 TANGGA TUMBUH (J1–J4)"]
-        T1["T1: TERTIB ADAB (Fondasi)<br/>Adaptasi kamar, tahsin huruf, & kepatuhan adab dasar."]
-        
-        T2["T2: UNGGUL ILMU (Akselerasi)<br/>Kaidah syariat, hafalan mutqin, & regulasi diri otonom."]
-        
-        T3["T3: MANDIRI ANALISIS (Kematangan)<br/>Bahsul Masail kritis, kepemimpinan proyek, & kecakapan hidup."]
-        
-        T4["T4: BIJAK KHIDMAH (Penggerak)<br/>Pengabdian dakwah, peer mentor, & kepemimpinan melayani."]
-        
-        T1 ==> T2 ==> T3 ==> T4
-    end
-```
-
----
-
-### 7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kurikulum, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Mitos Bahwa "Semakin Padat Jadwal Santri Tanpa Libur, Semakin Cerdas Santri"
-* **Pihak A (Sudut Pandang Eksploitasi Waktu Belajar)**:  
-  *"Santri harus belajar dari jam 03.30 sampai jam 23.30 tanpa ada waktu luang sedetik pun agar tidak sempat berbuat nakal!"*
-* **Tinjauan Sudut Pandang Neurosains Konsolidasi Memori Hipokampus**:  
-  Otak manusia membutuhkan tidur berkualitas 7–8 jam per hari untuk **Mengkonsolidasi Memori Hafalan (*Memory Consolidation*)**. Memangkas waktu tidur santri hingga di bawah 6 jam justru membunuh sel neuron hipokampus, membuat santri mudah lupa, mengantuk di kelas, dan emosinya tidak stabil. Jadwal yang sehat dan teratur adalah kunci kecerdasan hakiki.[^9]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Mengintegrasikan SEL Mengurangi Waktu Belajar Kitab Kuning?
-* **Pihak A (Sudut Pandang Kekhawatiran Erosi Kitab)**:  
-  *"Kalau kurikulum diberi porsi untuk materi regulasi emosi (SEL) dan kecakapan hidup, nanti porsi ngaji kitab kuning jadi berkurang!"*
-* **Tinjauan Sudut Pandang Integrasi Tematik Adab dalam Kitab**:  
-  Pembelajaran SEL **bukan mata pelajaran baru yang berdiri terpisah**, melainkan **Diintegrasikan Langsung ke dalam Pembahasan Kitab Kuning**. Ketika membaca bab *Ghadhab* (Marah) dalam kitab *Akhlaq lil-Banin*, guru langsung memandu santri mempraktikkan teknik pernapasan menahan amarah (*Diaphragmatic Breathing*) dan membaca ta'awwudz. Penguasaan kitab menjadi jauh lebih aplikatif dan hidup.[^10]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Ujian Tertulis Saja Tidak Cukup Mengukur Keberhasilan Santri?
-* **Pihak A (Sudut Pandang Kognitivisme Kertas Ujian)**:  
-  *"Keberhasilan belajar itu cukup diukur dari nilai raport angka 100 saat ujian semester tertulis!"*
-* **Resolusi Sudut Pandang Asesmen Otentik Portofolio Adab 360 Derajat**:  
-  Nilai 100 di atas kertas tidak ada artinya jika santri masih membully temannya di asrama. Kurikulum TUMBUH menggunakan **Asesmen Otentik Triad (Kognitif Madrasah, Logbook Adab Musyrif, dan Penilaian Sahabat Sebaya)** untuk memastikan santri benar-benar bertumbuh menjadi *Insan Adabi* yang utuh.[^11]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di sebuah madrasah pesantren, santri kelas 7 diwajibkan menghafal 5 kitab matan berbeda sekaligus dalam 1 semester; 40% santri mengalami demam stres (*Psychosomatic Illness*) dan mogok belajar.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Kurikulum direstrukturisasi dengan prinsip *Cognitive Load & Backward Design*. Materi disederhanakan menjadi 2 matan inti per semester dengan fokus pendalaman makna dan latihan aplikasi asrama. Angka santri sakit turun menjadi 0% dan tingkat kelulusan ujian pemahaman naik dari 60% menjadi 98%.[^12]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Integrasi 4 Pilar Kurikulum Holistik**:  
-   Kurikulum pesantren wajib mengintegrasikan secara harmonis 4 pilar utama: Dirasah Islamiyah (Turats), Tahfizh Al-Qur'an Mutqin, Karakter Sosial-Emosional (SEL & Adab), dan Sains & Kecakapan Hidup. Menolak segala bentuk kurikulum dikotomis sekuler yang memisahkan ilmu agama dari kehidupan nyata.
-
-2. **Penerapan Metodologi Backward Design (understanding BY Design)**:  
-   Perancangan kurikulum wajib dimulai dari perumusan capaian profil Insan Adabi yang diinginkan (Stage 1), penentuan instrumen asesmen otentik portofolio adab (Stage 2), dan perancangan modul ajar aktif (Stage 3).
-
-3. **Penyelarasan Kurikulum Kelas DAN Asrama 24 JAM (classroom-dormitory Alignment)**:  
-   Ruang kelas formal dan asrama kehidupan 24 jam adalah satu kesatuan laboratorium kurikulum. Setiap teori adab yang diajarkan di kelas wajib memiliki indikator pengamalan konkret di asrama dan kantin.
-
-4. **Regulasi Beban Kognitif & Kesehatan Otak (anti-cognitive Overload Charter)**:  
-   Mengharamkan penjadwalan berlebihan yang merampas hak tidur (7–8 jam) dan kebugaran jasmani santri. Menerapkan prinsip Spaced Retrieval dan manajemen beban kerja kognitif selaras neurosains.
-
-
----
-
-### 2. Matriks 4 Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH
-
-| Pilar Kurikulum | Mata Pelajaran / Materi Pokok | Metodologi Pembelajaran | Indikator Capaian Otentik Santri |
+| Pilar Kurikulum | Mata Pelajaran Inti | Pendekatan Pembelajaran | Lokus Penerapan 24 Jam |
 | :--- | :--- | :--- | :--- |
-| **1. Dirasah Islamiyah (Turats)** | Aqidah Tauhid, Fiqh Ibadah & Muamalah, Akhlaq Lil Banin/Banat, Nahwu-Shorof, Bahasa Arab & Inggris aktif. | *Active Kagan*, kajian matan bertahap, analogi *Amtsal*, dan dialog sokratik. | Mampu membaca dan memahami kitab kuning dasar serta bertutur kata bahasa resmi aktif.[^13] |
-| **2. Tahfizh Al-Qur'an** | Tahsin Makharijul Huruf, Tahfizh Ziyadah Terukur, Muraja'ah Dawam, & Tadabbur Tematik. | *Talaqqi-Musyafahah*, metode *Spaced Retrieval*, dan hafalan berpasangan (*Buddy System*). | Hafalan mutqin dengan tajwid presisi dan memahami pesan moral ayat yang dihafal. |
-| **3. SEL & Karakter Adab** | 5 Kompetensi CASEL (Kesadaran Diri, Regulasi Emosi, Empati, Relasi Sehat, Pengambilan Keputusan Bijak). | Integrasi studi kasus kontekstual, refleksi muhasabah malam kamar, & *Restorative Circles*. | Memiliki kematangan emosi, toleransi ukhuwah tinggi, dan Zero Bullying.[^14] |
-| **4. Sains & Life Skills** | Matematika Logis, Sains Eksperimental, Literasi Digital Beradab, Sanitasi Mandiri, & Kepemimpinan. | *Project-Based Learning (PjBL)*, praktikum laboratorium, dan khidmat sosial asrama. | Mandiri mengurus diri, berpikir kritis-logis, dan mampu memimpin kegiatan kemasyarakatan.[^15] |
+| **1. Dirasah Islamiyyah**| Aqidah, Fiqh, Nahwu, Shorof, Bahasa Arab.| Kajian Matan Turats & Tanya Jawab Kritis.| Ruang Kelas & Halaqah Masjid.|
+| **2. Tahfizh & Tadabbur**| Tahsin, Tahfizh Al-Qur'an, Tadabbur.| Talaqqi, Spaced Retrieval, & Muraja'ah.| Masjid, Kamar Asrama, & Waktu Subuh.|
+| **3. Karakter & SEL** | 10 Kapasitas Insan, Regulasi Emosi, Adab.| Modeling Qudwah, Refleksi Diri, & PBIS.| Kehidupan Asrama 24 Jam & Meja Makan.|
+| **4. Sains & Life Skills**| Matematika, IPA Terpadu, TI, Kepemimpinan.| Problem-Based Learning & Proyek Mandiri.| Laboratorium, Kelas, & Organisasi Santri.|
 
 ---
 
-### 3. Matriks Capaian Belajar Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4) Lintas Disiplin Ilmu
+### 3. Matriks Capaian Belajar Lintas Disiplin Ilmu Berbasis Profil Insan Adabi
 
-```mermaid
-graph TD
-    subgraph MatriksCapaianTUMBUH["MATRIKS CAPAIAN KURIKULUM TANGGA TUMBUH J1–J4"]
-        T1["TANGGA T1: TERTIB ADAB (Kelas 7 / Santri Baru)<br/>• Dirasah: Adab belajar & aqidah dasar.<br/>• Tahfizh: Tahsin tajwid & Juz 30 mutqin.<br/>• SEL: Adaptasi asrama & regulasi homesick.<br/>• Life Skills: Merapikan kasur & mencuci mandiri."]
-        
-        T2["TANGGA T2: UNGGUL ILMU (Kelas 8 / Menengah Bawah)<br/>• Dirasah: Kaidah Nahwu dasar & Fiqh thaharah-shalat.<br/>• Tahfizh: Akselerasi Ziyadah teratur.<br/>• SEL: Resolusi konflik sebaya & empati.<br/>• Life Skills: Manajemen waktu belajar & kebersihan."]
-        
-        T3["TANGGA T3: MANDIRI ANALISIS (Kelas 9 / Menengah Atas)<br/>• Dirasah: Analisis kitab kuning & debat ilmiah.<br/>• Tahfizh: Muraja'ah mandiri & tadabbur ayat.<br/>• SEL: Kepemimpinan organisasi santri.<br/>• Life Skills: Literasi digital & proyek sains."]
-        
-        T4["TANGGA T4: BIJAK KHIDMAH (Santri Akhir / Penggerak)<br/>• Dirasah: Fatwa kontekstual & metodologi dakwah.<br/>• Tahfizh: Sanad/Khatam hafalan & pengajaran.<br/>• SEL: Menjadi Duta Adab & Peer Mentor adik kelas.<br/>• Life Skills: Khidmat sosial masyarakat & riset."]
-        
-        J1 --> J2 --> J3 --> J4
-    end
-```
+| Tingkat Kematangan | Capaian Dirasah & Tahfizh | Capaian Karakter SEL & Adab | Capaian Sains & Life Skills |
+| :--- | :--- | :--- | :--- |
+| **Tahap Inisiasi (Adaptasi)** | Menguasai Thaharah, Shalat, & Tahsin Juz 30.| Mampu mengelola rindu rumah & mandiri 5S.| Menata barang pribadi & literasi dasar.|
+| **Tahap Habituasi (Penguatan)**| Memahami Fiqh Muamalah & Hafal 3–5 Juz Mutqin.| Empati ukhuwah & disiplin waktu tanpa diawasi.| Logika matematika & pemecahan masalah.|
+| **Tahap Internalisasi (Kemandirian)**| Membaca Kitab Kuning Dasar & Tadabbur 10 Juz.| Memimpin musyawarah kamar & membina junior.| Proyek sains terpadu & kepemimpinan syura.|
 
 ---
 
-### 4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (*Classroom-Dormitory Alignment Protocol*)
+### 4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (Classroom-Dormitory Alignment Protocol)
+
+TUMBUH menetapkan **Protokol Penyelarasan Kurikulum 24 Jam**:
 
 ```mermaid
 flowchart TD
-    Langkah1["1. PERUMUSAN MATRIKS SINKRONISASI MINGGUAN<br/>Guru Madrasah & Kepala Asrama menyelaraskan tema mingguan (Contoh: 'Adab Berbicara Santun')."]
-    
-    Langkah2["2. PENYAMPAIAN TEORI & DALIL DI KELAS (Pagi Hari)<br/>Guru mengajarkan ayat Al-Qur'an & hadits tentang larangan ghibah dan mencela."]
-    
-    Langkah3["3. PENDAMPINGAN PRAKTIK NYATA DI ASRAMA (Sore-Malam)<br/>Musyrif mengamati interaksi kamar, memandu muhasabah lisan malam, & mengisi logbook."]
-    
-    Langkah4["4. EVALUASI FORMATIF TERPADU AKHIR PEKAN<br/>Rapat koordinasi Guru-Musyrif mengevaluasi santri yang membutuhkan penguatan Tier 2 PBIS."]
-    
-    Langkah1 --> Langkah2 --> Langkah3 --> Langkah4
+    subgraph ProtokolPenyelarasanKurikulum["PROTOKOL PENYELARASAN KURIKULUM KELAS-ASRAMA"]
+        PagiKelas["1. TEORI DI KELAS PAGI: Guru Mengajarkan Konsep Fiqh / Adab (Misal: Adab Bertutur Kata Santun)"]
+        --> HandoverMusyrif["2. BRIEFING HANDOVER SIANG: Guru & Musyrif Menyelaraskan Target Perilaku Harian"]
+        --> PraktikAsrama["3. PRAKTIK ASRAMA SORE-MALAM: Musyrif Mendampingi & Mengapresiasi Praktik Nyata di Asrama"]
+        --> RefleksiLogbook["4. REFLEKSI LOGBOOK PBIS: Pencatatan Portofolio Adab Autentik Santri Secara Terpadu"]
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Protokol ini menjamin tidak ada jurang pemisah antara teori di kepala dan akhlak di lapangan.[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Desain Kurikulum Holistik
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Kurikulum Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Integrasi Ilmu** | *Fardhu 'Ain & Kifayah* | *Ihya 'Ulumiddin* Al-Ghazali, *Ta'lim al-Muta'allim* | *Holistic Education Framework & Transdisciplinary Curriculum* | Menyatukan Dirasah, Tahfizh, SEL, dan Sains ke dalam satu kurikulum utuh. |
-| **Metodologi Desain** | *Understanding by Design (UbD)* | Kaidah *Al-Umuru bi Maqashidiha* | Grant Wiggins & Jay McTighe (2005), *Backward Design* | Merancang kurikulum dari profil hasil Insan Adabi menuju bukti asesmen & modul ajar. |
-| **Penyelarasan 24 Jam** | *Classroom-Dormitory Alignment* | Adab Majelis Ilmu KH. Hasyim Asy'ari (*Adab al-'Alim*) | *Ecological Systems Theory (Bronfenbrenner, 1979)* | Menjadikan asrama sebagai laboratorium praktik langsung dari materi kelas madrasah. |
-| **Kapasitas Kognitif** | *Cognitive Load Management* | Prinsip Kemudahan Syariat (HR. Bukhari No. 39) | John Sweller (1988), *Cognitive Load Theory* | Mereduksi beban berlebih; menjamin hak tidur 7–8 jam dan jeda konsolidasi memori. |
-| **Diferensiasi Jenjang** | *Tangga Progresi J1–J4* | Kaidah *Tadarruj Marahil al-'Umr* | *Taxonomy of Educational Objectives (Bloom Revised)* | Menetapkan capaian belajar yang berbeda secara berjenjang dari kelas 7 hingga kelas akhir. |
+Desain kurikulum holistik ini membawa implikasi revolusioner bagi peradaban:
+
+* **Menghapus Keterasingan Intelektual Muslim Modern**:  
+  Santri tumbuh dengan memandang sains dan teknologi sebagai ayat-ayat kauniyyah Allah yang wajib dikuasai untuk menegakkan kemakmuran bumi.
+* **Melahirkan Ulama Intelektual dan Saintis yang Shalih**:  
+  Pesantren kembali menjadi rahim lahirnya tokoh-tokoh besar kaliber Ibnu Sina, Al-Biruni, dan Ibnu Rusyd yang menyatukan kedalaman fiqh dengan kepeloporan sains.
+* **Mewujudkan Pendidikan Islam yang Membahagiakan dan Berkah**:  
+  Dengan kurikulum yang ramah kognisi (*Brain-Friendly*), santri merasakan lezatnya menuntut ilmu tanpa tekanan stres mental (*Rahmatan lil 'Alamin*).[^11]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Desain Kurikulum Holistik
+
+| Dimensi Parameter | Mazhab Dikotomis Terbelah (Lama) | Model Kurikulum Sekuler Beban Penuh | **Kurikulum Holistik UbD TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Struktur Ilmu** | Agama & sains dipisah secara kaku.| Sekularistik tanpa fondasi wahyu.| **Integrasi 4 Pilar Berbasis Tauhid.** | Ihya' 'Ulumiddin; Al-Attas (1980).| Dirasah, Tahfizh, SEL, & Sains/Life Skills. |
+| **Metode Desain** | Berorientasi menghabiskan buku teks.| Berorientasi tes standar angka kaku.| **Understanding by Design (UbD).** | Wiggins & McTighe (2005). | Merancang dari profil Insan Adabi. |
+| **Beban Kognitif** | 25 mapel dijejalkan tanpa jeda.| Jadwal padat menekan mental.| **Cognitive Load Theory & Spaced Retrieval.**| Sweller (2011); Roediger (2011).| Memori kerja terlindungi & hafalan mutqin. |
+| **Integrasi 24 Jam**| Teori kelas terputus dari asrama.| Tidak mengurusi kehidupan asrama.| **Penyelarasan Kelas-Asrama 24 Jam.** | Ta'lim al-Muta'allim; Dewey (1938).| Teori fiqh dipraktikkan di asrama harian. |
+| **Profil Lulusan** | Hafal teks tanpa adab nyata.| Teknokrat cerdas tanpa akhlak.| **Insan Adabi Berilmu & Berakhlak Mulia.**| QS. Al-Baqarah: 151; Al-Ghazali.| Siap memimpin peradaban madani. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-3. **Az-Zarnuji, Burhanuddin**. (2008). *Ta'lim al-Muta'allim Thariq at-Ta'allum*. Beirut: Dar Ibn Hazm.
-4. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal Muta'allim*. Jombang: Maktabah at-Turats al-Islami.
-5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
-6. **Wiggins, G., & McTighe, J.**. (2005). *Understanding by Design* (2nd ed.). Alexandria, VA: ASCD.
-7. **Sweller, J.**. (1988). *Cognitive load during problem solving: Effects on learning*. Cognitive Science, 12(2), 257–285.
-8. **Sweller, J., Ayres, P., & Kalyuga, S.**. (2011). *Cognitive Load Theory*. New York: Springer.
-9. **Bronfenbrenner, U.**. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Cambridge, MA: Harvard University Press.
-10. **CASEL**. (2020). *CASEL's SEL Framework: What Are the Core Competence Areas and Where Are They Promoted?*. Chicago: CASEL.
-11. **Anderson, L. W., & Krathwohl, D. R.**. (2001). *A Taxonomy for Learning, Teaching, and Assessing: A Revision of Bloom's Taxonomy of Educational Objectives*. New York: Longman.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm). Beirut: Dar al-Ma'rifah.
+5. **Az-Zarnuji, Burhanul Islam**. (1401 H). *Ta'lim al-Muta'allim Thariq at-Ta'allum*. Beirut: Al-Maktab al-Islami.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Wiggins, G., & McTighe, J.**. (2005). *Understanding by Design* (2nd ed.). Alexandria: ASCD.
+9. **Sweller, J.**. (2011). *Cognitive load theory*. Psychology of Learning and Motivation, 55, 37–76.
+10. **Roediger, H. L., & Butler, A. C.**. (2011). *The critical role of retrieval practice in long-term retention*. Trends in Cognitive Sciences, 15(1), 20–27.
+11. **Dewey, J.**. (1938). *Experience and Education*. New York: Macmillan.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-'Ilm*, Jilid I, hlm. 28–35.  
-[^2]: Ibid., hlm. 30.  
-[^3]: Az-Zarnuji, *Ta'lim al-Muta'allim*, hlm. 12–15.  
-[^4]: Wiggins & McTighe (2005), *Understanding by Design*, ASCD, hlm. 13–21.  
-[^5]: Ibid., hlm. 15.  
-[^6]: Panduan Penyelarasan Kurikulum Madrasah-Asrama, Dewan Pendidikan TUMBUH, 2026.  
-[^7]: Sweller, J. (1988), *Cognitive load during problem solving*, Cognitive Science.  
-[^8]: Sweller, Ayres, & Kalyuga (2011), *Cognitive Load Theory*, Springer, hlm. 45–60.  
-[^9]: Walker, M. (2017), *Why We Sleep: Unlocking the Power of Sleep and Dreams*, Scribner.  
-[^10]: Modul Integrasi CASEL SEL dalam Pembelajaran Turats, Pusat Riset Kurikulum TUMBUH, 2026.  
-[^11]: Standar Asesmen Otentik Karakter Santri 360 Derajat, Badan Penjaminan Mutu TUMBUH, 2026.  
-[^12]: Laporan Evaluasi Restrukturisasi Kurikulum Tahfidz & Matan, Pesantren TUMBUH, 2026.  
-[^13]: Silabus Standar Dirasah Islamiyah Terpadu, Divisi Kurikulum Pesantren TUMBUH, 2026.  
-[^14]: Rubrik Indikator Karakter SEL Asrama Santri, Divisi Bimbingan Konseling TUMBUH, 2026.  
-[^15]: Panduan Proyek Sains & Life Skills Santri Mandiri, Modul Pembelajaran TUMBUH 2026.
+[^1]: Riset Prinsip Desain Kurikulum Holistik Pesantren TUMBUH, *Kritik atas Kurikulum Dikotomis dan Hipertrofi Beban*, 2026.  
+[^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 15–45; Az-Zarnuji, *Ta'lim al-Muta'allim*, hlm. 10–28.  
+[^3]: Wiggins, G., & McTighe, J. (2005), *Understanding by Design*, hlm. 13–34.  
+[^4]: Sweller, J. (2011), *Cognitive Load Theory*, hlm. 37–76; Roediger, H. L., & Butler, A. C. (2011), *Trends in Cognitive Sciences*, hlm. 20–27.  
+[^5]: Dokumentasi Audit dan Restrukturisasi Kurikulum Terpadu PBIS TUMBUH, 2026.  
+[^6]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 25–55.  
+[^7]: Kaidah Tahfizh wa Tadabbur al-Qur'an Ekosistem TUMBUH, 2026.  
+[^8]: Master Framework Social-Emotional Learning (CASEL) Terintegrasi Adab TUMBUH, 2026.  
+[^9]: Blueprint Kurikulum Sains Tauhid dan Kecakapan Hidup Pesantren TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Penyelarasan Kurikulum Kelas-Asrama 24 Jam TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Kurikulum Holistik Peradaban Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Desain Kurikulum & Teori Kognitif
+### 4. Glosarium Istilah Ilmiah & Turats Desain Kurikulum Holistik
 
-1. **Kurikulum Holistik Terpadu (الْمَنْهَجُ التَّكَامُلِيُّ الشَّامِلُ)**: Desain kurikulum pendidikan Islam yang memadukan secara organik antara penguasaan ilmu agama klasik (*Turats*), hafalan Al-Qur'an mutqin, pembinaan kematangan sosial-emosional (*Adab SEL*), serta sains dan kecakapan hidup modern.
-2. **Understanding by Design (UbD)**: Kerangka kerja perancangan kurikulum berbasis *Backward Design* di mana perancang menetapkan capaian pemahaman otentik akhir terlebih dahulu sebelum merumuskan asesmen dan modul ajar harian.
-3. **Fardhu 'Ain (فَرْضُ عَيْنٍ)**: Kategori ilmu wajib yang harus dipelajari dan diamalkan oleh setiap individu mukmin mengenai pokok-pokok aqidah, tata cara ibadah harian, dan penyucian hati dari sifat tercela.
-4. **Fardhu Kifayah (فَرْضُ كِفَايَةٍ)**: Kategori ilmu yang wajib dikuasai oleh sebagian anggota masyarakat demi kemaslahatan umum peradaban, seperti sains, kedokteran, teknologi, dan tata kelola negeri.
-5. **Classroom-Dormitory Alignment**: Penyelarasan sistemik antara materi teori yang diajarkan di ruang kelas madrasah dengan rutinitas pembiasaan adab yang didampingi musyrif di lingkungan asrama 24 jam.
-6. **Cognitive Load Theory (CLT)**: Teori psikologi kognitif yang menjelaskan kapasitas pemrosesan memori kerja otak manusia dan bagaimana desain pembelajaran dapat mengoptimalkan retensi memori jangka panjang tanpa kelelahan kognitif.
-7. **Intrinsic Load**: Tingkat kesulitan inheren yang melekat pada suatu konsep keilmuan yang sedang dipelajari santri.
-8. **Extraneous Load**: Beban kognitif pengganggu yang disebabkan oleh desain instruksional yang buruk, jadwal yang terlalu padat, atau suasana kelas yang penuh ancaman.
-9. **Germane Load**: Usaha mental produktif yang dicurahkan santri untuk mengintegrasikan informasi baru ke dalam skema kognitif pemahaman jangka panjang.
-10. **Spaced Retrieval**: Teknik pembelajaran dan pengulangan hafalan dengan memberi jeda waktu teratur yang terbukti memperkokoh kekuatan memori jangka panjang santri (*Long-Term Retention*).
+1. **Kurikulum Holistik**: Desain kurikulum terpadu yang menyatukan dirasah Islamiyyah turats, tahfizh Al-Qur'an, karakter SEL adab, dan sains kecakapan hidup.
+2. **Understanding by Design (UbD)**: Metodologi perancangan kurikulum mundur (*Backward Design*) yang dimulai dari penentuan profil capaian akhir, bukti asesmen autentik, lalu rencana pembelajaran.
+3. **Fardhu 'Ain & Fardhu Kifayah**: Klasifikasi kewajiban menuntut ilmu dalam Islam antara ilmu pembinaan jiwa pribadi dan ilmu penegak kemaslahatan publik.
+4. **Cognitive Load Theory (CLT)**: Teori psikologi kognitif John Sweller mengenai batas kapasitas memori kerja otak manusia dalam memproses informasi baru.
+5. **Spaced Retrieval Practice**: Strategi pengulangan materi hafalan dengan jeda waktu terencana untuk mengoptimalkan retensi memori jangka panjang.
+6. **Classroom-Dormitory Alignment**: Penyelarasan kurikulum di mana teori yang diajarkan di kelas pagi dipraktikkan langsung di lingkungan asrama malam hari.
+7. **Curricular Hypertrophy**: Penyakit kurikulum yang menjejalkan terlalu banyak mata pelajaran sehingga membebani mental dan menurunkan kualitas belajar.
+8. **Enduring Understandings**: Pemahaman inti dan mendalam yang diharapkan tetap diingat dan diamalkan santri seumur hidup.
+9. **Tafaqquh fid-Din**: Pendalaman keilmuan agama secara komprehensif untuk membimbing umat menuju keselamatan dunia dan akhirat.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang memiliki keutuhan akidah, kedalaman ilmu agama dan sains, serta keluhuran akhlak mulia dalam bermasyarakat.

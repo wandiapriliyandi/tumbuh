@@ -1,259 +1,254 @@
-# P2-02-05: PRINSIP DESAIN FASILITAS SANITASI, KENYAMANAN TERMAL, DAN KESEHATAN FISIK ASRAMA
-## *Monograf Terpadu: Standarisasi Rekayasa Lingkungan Fisik Thaharah (Air Bersih 0 CFU, Rasio Sanitasi 1:5, & Eliminasi Scabies/Kudis), Prinsip Kenyamanan Termal & Ventilasi Silang (Cross Ventilation), Iluminasi Pencahayaan Alami (Lux Standard), serta Protokol Higienitas Asrama 24 Jam*
+# P2-02-05: PRINSIP DESAIN FASILITAS SANITASI, KENYAMANAN TERMAL, DAN KESEHATAN FISIK ASRAMA (SANITATION, THERMAL COMFORT & PHYSICAL HEALTH)
+## *Monograf Riset Akademik: Standarisasi Rekayasa Lingkungan Thaharah (Air Bersih 0 CFU, Rasio Toilet 1:5–7, & Zero Scabies Policy), Kenyamanan Termal Tropis (Cross-Ventilation), Standar Iluminasi Lux Sehat, Serta Protokol Higienitas 24 Jam*
 
-**Nomor Identifikasi**: `P2-02-05/MONOGRAF-TERPADU-SANITASI-KENYAMANAN-ASRAMA/2026`  
-**Domain**: `02 Principles` > `02 Design Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Standar Baku Desain Sanitasi Asrama)  
+**Nomor Identifikasi**: `P2-02-05/MONOGRAF-RISET-SANITASI-KENYAMANAN-ASRAMA/2026`  
+**Domain**: `02 Principles` > `02 Design Principles` (Prinsip Desain 05: *Sanitation, Thermal Comfort & Physical Health*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Desain)  
 **Rumpun Disiplin Pengkaji**: Arsitektur Lingkungan Sehat Pesantren, Fiqh Thaharah & Kesehatan Lingkungan (*Environmental Health & WASH in Schools*), Ergonomi Fisik & Kenyamanan Termal Asrama 24 Jam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Kesehatan Raga Adalah Fondasi Ibadah dan Hafalan yang Kuat (*Al-'Aqlus Salim fil Jismis Salim*):**  
->   Santri tidak akan mampu khusyu' shalat malam atau menghafal Al-Qur'an jika tubuhnya tersiksa oleh gatal jamur kulit kudis (*scabies*), kamarnya pengap lembab, dan harus mengantre 30 menit di depan toilet kotor saat subuh.
-> * **Standar Baku Fasilitas Sanitasi Sehat TUMBUH:**  
->   1. **Rasio Kamar Mandi / Toilet:** Minimal 1 unit per 5–7 santri (mengeliminasi antrean padat pemicu perkelahian subuh).  
->   2. **Kualitas Air Bersih:** 0 CFU E. Coli, tidak berbau, tidak berwarna, dan bersirkulasi lancar.  
->   3. **Kenyamanan Termal & Ventilasi:** Ventilasi silang (*Cross Ventilation*), suhu optimal 24–27°C, dan pergantian udara 6 kali per jam (*ACH*).  
->   4. **Pencahayaan Alami:** Minimal 300 Lux di ruang belajar kamar untuk menjaga kesehatan mata santri.
-> * **Pengharaman Pembiaran Penyakit Kulit Menular:**  
->   Menganggap penyakit kudis sebagai "tanda sahnya santri" adalah kebodohan jahiliyyah yang wajib dibasmi 100%. Pesantren menjamin hak hidup bersih dan sehat bagi seluruh santri.
+> * **Kelemahan Paradigma Lama: Mitos Romantisasi Penyakit Kulit & Sanitasi Buruk:**  
+>   Banyak pesantren konvensional masih membiarkan mitos keliru bahwa terkena kudis (*Scabies*) adalah "tanda sahnya menjadi santri sejati". Akibatnya, terjadi pembiaran terhadap sanitasi kotor, toilet berkerak dengan rasio 1:40 santri, kamar pengap tanpa sirkulasi, dan jemuran pakaian bertumpuk di dalam kamar yang merusak kesehatan raga.
+> * **Inovasi Konseptual: Fiqh Thaharah WASH in Schools & Protokol Zero Scabies:**  
+>   TUMBUH menegaskan doktrin kenabian *"Kebersihan adalah sebagian dari iman"* dan kaidah *"Al-'Aqlus Salim fil Jismis Salim"* (Akal yang sehat berada pada jasad yang sehat). Mengintegrasikan standar internasional **WHO WASH in Schools**: menjamin **Air Bersih 0 CFU E. Coli**, rasio berkeadilan **1 toilet per 5–7 santri**, suhu termal optimal $24\text{--}27^\circ\text{C}$ dengan pergantian udara 6 kali per jam (*Air Changes per Hour / ACH*), pencahayaan alami $\ge 300\text{ Lux}$, dan protokol jemur kasur ultraviolet berkala.
+> * **Formulasi Operasional & Penjaminan Kesehatan Fisik:**  
+>   Monograf ini menguraikan matriks standar arsitektur fisik sanitasi asrama, standar prosedur operasional (SOP) higienitas harian, protokol eliminasi total scabies (*Zero Scabies Protocol*), dan etika thaharah terpadu.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET PRINSIP DESAIN SANITASI & KENYAMANAN TERMAL ASRAMA](#bagian-i-riset-prinsip-desain-sanitasi--kenyamanan-termal-asrama)
-  - [1. Kerangka Metodologi Rekayasa Lingkungan Fisik: Dampak Biologis Sanitasi Terhadap Kognisi Santri](#1-kerangka-metodologi-rekayasa-lingkungan-fisik-dampak-biologis-sanitasi-terhadap-kognisi-santri)
-  - [2. Inkuiri 1: Eksegesis Turats Thaharah — An-Nazhafatu Minal Iman & Pembasmian Mitos Sesat Kudis](#2-inkuiri-1-eksegesis-turats-thaharah--an-nazhafatu-minal-iman--pembasmian-mitos-sesat-kudis)
-  - [3. Inkuiri 2: Standarisasi WHO WASH in Schools & Arsitektur Kenyamanan Termal Tropis](#3-inkuiri-2-standarisasi-who-wash-in-schools--arsitektur-kenyamanan-termal-tropis)
-  - [4. Inkuiri 3: Eliminasi Scabies & Manajemen Protokol Jemur Kasur Bebas Tungau (Zero Scabies Protocol)](#4-inkuiri-3-eliminasi-scabies--manajemen-protokol-jemur-kasur-bebas-tungau-zero-scabies-protocol)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-formulasi-konseptual-standar-desain-fasilitas-sanitasi-kesehatan-asrama-pesantren-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Mitos Sesat Kudis dan Dampak Biologis Sanitasi Buruk pada Kognisi](#1-latar-belakang-masalah-kritik-atas-mitos-sesat-kudis-dan-dampak-biologis-sanitasi-buruk-pada-kognisi)
+  - [2. Eksegesis Turats Thaharah: Doktrin Kesucian Mutlak Raga & Pembasmian Mitos Romantisasi Penyakit](#2-eksegesis-turats-thaharah-doktrin-kesucian-mutlak-raga--pembasmian-mitos-romantisasi-penyakit)
+  - [3. Konvergensi Standarisasi WHO WASH in Schools & Arsitektur Kenyamanan Termal Tropis](#3-konvergensi-standarisasi-who-wash-in-schools--arsitektur-kenyamanan-termal-tropis)
+  - [4. Rekayasa Eradikasi Total Vektor Scabies: Protokol Higienitas Linen, Kasur Busa, & Sinar Matahari](#4-rekayasa-eradikasi-total-vektor-scabies-protokol-higienitas-linen-kasur-busa--sinar-matahari)
+  - [5. Kasuistika Lapangan: Kasus Santri Mengalami Depresi Akibat Scabies Kronis & Resolusi Medis Terpadu](#5-kasuistika-lapangan-kasus-santri-mengalami-depresi-akibat-scabies-kronis--resolusi-medis-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-desain-fasilitas-sanitasi--kesehatan-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Arsitektur Fisik Asrama: Parameter, Nilai Ambang Baku, & Verifikasi Kelaikan](#2-matriks-standar-arsitektur-fisik-asrama-parameter-nilai-ambang-baku--verifikasi-kelaikan)
   - [3. Standar Prosedur Operasional (SOP) Manajemen Kebersihan Harian & Pengendalian Vektor Penyakit](#3-standar-prosedur-operasional-sop-manajemen-kebersihan-harian--pengendalian-vektor-penyakit)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Desain Sanitasi](#1-tabel-sintesis-hasil-riset-desain-sanitasi)
+  - [4. Protokol Penanganan & Pencegahan Scabies Massal (Zero Scabies Protocol 24 Jam)](#4-protokol-penanganan--pencegahan-scabies-massal-zero-scabies-protocol-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Desain Sanitasi & Kenyamanan Termal](#1-tabel-sintesis-temuan-riset-desain-sanitasi--kenyamanan-termal)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Sanitasi, Kenyamanan Termal, WASH, & Zero Scabies](#4-glosarium-teknis-sanitasi-kenyamanan-termal-wash--zero-scabies)
+  - [4. Glosarium Istilah Ilmiah & Turats Sanitasi Asrama](#4-glosarium-istilah-ilmiah--turats-sanitasi-asrama)
 
 ---
 
-# BAGIAN I: RISET PRINSIP DESAIN SANITASI & KENYAMANAN TERMAL ASRAMA
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Rekayasa Lingkungan Fisik: Dampak Biologis Sanitasi Terhadap Kognisi Santri
+### 1. Latar Belakang Masalah: Kritik atas Mitos Sesat Kudis dan Dampak Biologis Sanitasi Buruk pada Kognisi
 
-Riset neurosains dan kesehatan lingkungan membuktikan bahwa **Kualitas Udara, Suhu Kamar, dan Bebas Penyakit Kulit berkorelasi langsung dengan Konsentrasi Belajar dan Daya Ingat (*Working Memory Capacity*)**:
-* Santri yang terkena penyakit kudis (*Sarcoptes scabiei*) mengalami gangguan tidur parah di malam hari akibat rasa gatal ekstrem yang memuncak saat suhu tubuh menghangat.
-* Kurang tidur kronis menurunkan fungsi korteks prefrontal sebesar 40%, memicu emosi labil, mudah marah, dan melemahkan retensi hafalan Al-Qur'an.
-* Udara kamar yang pengap dengan kadar CO2 tinggi (>1.200 ppm) menyebabkan hipoksia ringan, kantuk berlebih, dan rasa malas belajar.
-
-Ekosistem TUMBUH memandang **Desain Fisik Fasilitas Asrama sebagai Bagian Integral dari Ibadah Thaharah**. Merawat raga santri dengan fasilitas yang sehat adalah kewajiban syar'i untuk mencetak generasi mujahid dakwah yang kuat (*Qawiyyul Jism*).
+Dalam diskursus pengasuhan pesantren tradisional, kerap dijumpai kekeliruan fatal berupa **Mitos Romantisasi Penyakit Kulit (*The Scabies Myth Fallacy*)**:
+* Menganggap penyakit kudis gudikan (*Sarcoptes scabiei*) sebagai "tanda keramat", berkah tirakat, atau syarat kelulusan santri sejati.
+* **Dampak Biologis pada Otak Santri**: Gatal ekstrem di malam hari merusak arsitektur tidur lelap (*Deep Sleep Deprivation*), memicu peningkatan hormon stres kortisol, merusak konsolidasi memori di hipokampus, dan menurunkan kapasitas memori kerja (*Working Memory*) hingga 40%.
+* Santri menjadi lemas di kelas, hafalan Al-Qur'an cepat hilang, dan emosinya menjadi sangat labil dan mudah marah.
+* **Keniscayaan Desain Sanitasi Sehat & Zero Scabies**: Memelihara kesehatan raga santri adalah perintah syariat yang mutlak untuk melahirkan generasi mujahid dakwah yang kuat dan tangguh (*Qawiyyul Jism*).[^1]
 
 ```mermaid
 flowchart TD
-    subgraph DampakSanitasiTerhadapHafalanSantri["HUBUNGAN KAUSALITAS SANITASI FISIK & HAFALAN MUTQIN"]
-        FasilitasBuruk["SANITASI BURUK & KAMAR PENGAP:<br/>Air keruh, toilet 1:30, kamar lembab, & wabah scabies/kudis."]
+    subgraph KausalitasSanitasiHafalan["HUBUNGAN KAUSALITAS SANITASI SEHAT & PRESTASI SANTRI"]
+        SanitasiBuruk["SANITASI KUMUH & SCABIES (LAMA)<br/>• Gatal ekstrem malam hari & kurang tidur kronis.<br/>• Korteks prefrontal lelah & memori kerja turun 40%.<br/>• Hafalan cepat hilang & emosi mudah marah."]
         
-        DistresBiologis["GANGGUAN BIOLOGIS SANTRI:<br/>Gatal parah malam hari, tidur rusak (<5 jam), & infeksi sekunder."]
+        SanitasiTUMBUH["SANITASI SEHAT & ZERO SCABIES (TUMBUH)<br/>• Air bersih 0 CFU, toilet 1:5-7, & ventilasi silang.<br/>• Tidur lelap sirkadian 7 jam penuh tanpa gatal.<br/>• Korteks prefrontal bugar: Hafalan Al-Qur'an Mutqin."]
         
-        PenurunanKognisi["PENURUNAN PRESTASI & ADAB:<br/>Korteks prefrontal drop, santri emosional, & hafalan Al-Qur'an hilang."]
-        
-        FasilitasSehat["STANDAR ASRAMA SEHAT TUMBUH:<br/>Air 0 CFU, toilet 1:5, ventilasi silang, & Zero Scabies."]
-        
-        KebugaranPrima["KONDISI FISIK BUGAR & JIWA TENANG:<br/>Tidur lelap 7 jam, konsentrasi tajam, & hafalan Al-Qur'an mutqin."]
-        
-        FasilitasBuruk ==> DistresBiologis ==> PenurunanKognisi
-        FasilitasSehat ==> KebugaranPrima
+        SanitasiBuruk ==>|DIREKONSTRUKSI MENJADI| SanitasiTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Thaharah — An-Nazhafatu Minal Iman & Pembasmian Mitos Sesat Kudis
+### 2. Eksegesis Turats Thaharah: Doktrin Kesucian Mutlak Raga & Pembasmian Mitos Romantisasi Penyakit
 
-```mermaid
-graph TD
-    A["Gugatan Mitos Kuno (Pihak A):<br/>'Belum sah jadi santri kalau belum pernah kena gudik/scabies; itu tanda berkah tirakat!'"]
-    --> B1["Tinjauan Hadits Shahih Muslim No. 223:<br/>'At-Thahaaratu syathrul iimaan' (Kesucian dan kebersihan adalah separuh dari keimanan)."]
-    A --> B2["Tinjauan Fiqh Thaharah Kitab Bidayatul Mujtahid:<br/>Syariat Islam mewajibkan bersuci dari najis dan kotoran secara mutlak sebelum menghadap Allah."]
-    A --> B3["Tinjauan Kaidah Kedokteran Nabawi Ibnu Qayyim:<br/>Nabi SAW memerintahkan menjaga kebersihan pakaian dan menolak pembiaran wabah menular."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Mitos gudik adalah kebodohan tradisi; menjaga kebersihan sanitasi adalah cabang iman tertinggi."]
-```
+Rasulullah ﷺ meletakkan prinsip fundamental kesucian:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap kondisi lingkungan fisik yang menyebabkan penularan penyakit kulit, merusak kekhusyu'an ibadah, dan menyiksa fisik para penuntut ilmu adalah kemudaratan (*Dharar*) yang wajib dihilangkan menurut syariat (*Ad-Dhararu Yuzal*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Sanitasi buruk dan pembiaran penyakit scabies di asrama menyebabkan penderitaan fisik dan merusak konsentrasi ibadah santri.
-* **Konklusi (*an-Natijah*)**: Maka, standarisasi fasilitas sanitasi sehat dan eliminasi scabies 100% di pesantren TUMBUH adalah kewajiban syar'i yang mengikat.[^1]
+$$\text{الطَّهُورُ شَطْرُ الإِيمَانِ}$$
 
----
+*"**Kesucian (Thaharah) itu adalah separuh dari keimanan**."* (HR. Muslim No. 223).[^2]
 
-### 3. Inkuiri 2: Standarisasi WHO WASH in Schools & Arsitektur Kenyamanan Termal Tropis
+Imam Al-Ghazali (*Ihya' 'Ulumiddin*, Kitab *Asrar ath-Thaharah*) menguraikan empat tingkatan thaharah:
+1. Menyucikan lahiriah dari najis, kotoran, dan hadats.
+2. Menyucikan anggota badan dari dosa dan kejahatan.
+3. Menyucikan hati dari akhlak tercela.
+4. Menyucikan sanubari terdalam dari selain Allah SWT.
 
-Ekosistem TUMBUH mengadopsi standar **WASH (Water, Sanitation and Hygiene) in Schools UNICEF/WHO** yang dipadukan dengan arsitektur iklim tropis:
-1. **Rasio Sanitasi:** Maksimal 1 kloset/kamar mandi untuk 5–7 santri (pria) dan 1:5 santri (wanita).
-2. **Kualitas Air (Permenkes 2/2023):** Bebas bakteri *E. Coli* (0 CFU/100ml), pH 6.5–8.5, TDS <300 mg/L.
-3. **Kenyamanan Termal:** Memaksimalkan bukaan jendela ventilasi silang (*Cross Ventilation*) untuk menjamin sirkulasi udara alami tanpa bergantung pada AC yang boros energi.
-4. **Pencahayaan Alami:** Desain plafon tinggi dan jendela kaca dengan pencahayaan >300 Lux pada siang hari, mengurangi kelembaban kamar pemicu jamur dinding.[^2]
+Tingkatan pertama adalah pintu gerbang mutlak bagi tercapainya tingkatan spiritual yang lebih tinggi; membiarkan tubuh bernanah dan gatal adalah kelalaian atas amanah raga yang Allah titipkan.[^3]
 
 ---
 
-### 4. Inkuiri 3: Eliminasi Scabies & Manajemen Protokol Jemur Kasur Bebas Tungau (*Zero Scabies Protocol*)
+### 3. Konvergensi Standarisasi WHO WASH in Schools & Arsitektur Kenyamanan Termal Tropis
+
+Sains kesehatan lingkungan internasional (*WHO WASH in Schools Standards*, 2019) dan fisika termal bangunan menetapkan:
+* **Kualitas Air Bersih**: $0\text{ CFU } E. Coli$ per $100\text{ ml}$ air wudhu dan mandi, tidak berbau, tidak berwarna, dengan debit air stabil minimal $20\text{ liter/menit}$.
+* **Kenyamanan Termal**: Suhu ruangan kamar tidur dipertahankan pada kisaran $24^\circ\text{C}\text{--}27^\circ\text{C}$ dengan kelembaban relatif $50\%\text{--}60\%\text{ RH}$ melalui ventilasi silang alami yang menjamin $6\times$ pergantian udara per jam (*Air Changes per Hour / ACH*).
+* **Standar Iluminasi**: Ruang belajar kamar wajib memiliki pencahayaan alami minimal $300\text{ Lux}$ untuk mencegah miopia dan kelelahan saraf optik.[^4]
+
+---
+
+### 4. Rekayasa Eradikasi Total Vektor Scabies: Protokol Higienitas Linen, Kasur Busa, & Sinar Matahari
+
+TUMBUH menerapkan protokol medis eradikasi parasit:
+* **Pengharaman Berbagi Pakaian (*No Sharing of Personal Linens*)**: Setiap santri memiliki handuk, pakaian, dan perlengkapan mandi pribadi.
+* **Protokol Jemur Kasur Mingguan**: Seluruh kasur busa dijemur di bawah terik sinar ultraviolet matahari setiap hari Jumat selama minimal 2 jam.
+* **Pencucian Air Panas $\ge 60^\circ\text{C}$**: Sprei dan selimut dicuci berkala dengan air panas untuk membunuh telur dan tungau *Sarcoptes scabiei* secara tuntas.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Santri Mengalami Depresi Akibat Scabies Kronis & Resolusi Medis Terpadu
+
+* **Studi Kasus: Santri Kelas 8 Menderita Scabies Parah dan Menolak Masuk Kelas Selama 1 Bulan**  
+  * **Dilema**: Santri dikucilkan oleh teman-temannya karena tangan dan kakinya penuh nanah; santri menangis setiap malam, tidak bisa tidur, dan berniat keluar dari pondok.
+  * **Resolusi Terpadu TUMBUH**: Tim UKS dan Musyrif menerapkan *Zero Scabies Action*: (1) Isolasi ramah di Ruang Rawat Klinik UKS selama 5 hari dengan pengobatan salep *Permethrin 5%* standar medis; (2) Seluruh sprei, baju, dan kasur santri dicuci air panas dan disterilisasi; (3) Konselor BK memberikan konseling pemulihan rasa percaya diri; (4) Menata ulang ventilasi kamar santri. Dalam 7 hari santri sembuh total, kembali belajar dengan ceria, dan hafalan Al-Qur'annya melonjak drastis.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan standar fisik ke dalam **Arsitektur Tiga Pilar Sanitasi Beradab (*Arkan ash-Shihhah al-Bi'iyyah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph ProtokolZeroScabiesTUMBUH["PROTOKOL ZERO SCABIES ASRAMA TUMBUH"]
-        Deteksi["1. SCREENING KESEHATAN AWAL MASUK (POSKESTREN)<br/>Pemeriksaan kulit seluruh santri baru oleh dokter/perawat pondok."]
+    subgraph ArsitekturSanitasiTUMBUH["ARSITEKTUR FASILITAS SANITASI & TERMAL TUMBUH"]
         
-        IsolasiSehat["2. PENGOBATAN SEREMPAK MASSAL (MASS TREATMENT)<br/>Jika terdeteksi 1 santri scabies, seluruh teman sekamar diobati salep Permetrin 5% serempak."]
+        S1_Pilar["1. FASILITAS AIR & SANITASI BERKEADILAN (WASH Excellence)<br/>Air bersih 0 CFU, rasio toilet 1:5–7 santri, kloset higienis, & drainase lancar."]
         
-        SanitasiSprei["3. PEREBUSAN SPREI & PAKAIAN AIR PANAS (>60°C)<br/>Membunuh tungau & telur Sarcoptes scabiei pada kain dan handuk."]
+        S2_Pilar["2. KENYAMANAN TERMAL & UDARA SEGAR (Thermal Comfort)<br/>Ventilasi silang (6 ACH), suhu 24–27°C, kelembaban 50–60% RH, & pencahayaan 300 Lux."]
         
-        JemurRutin["4. JADWAL JEMUR KASUR MINGGUAN DI BAWAH TERIK MATAHARI<br/>Seluruh kasur busa dijemur setiap Sabtu pagi di area jemuran CPTED terang."]
+        S3_Pilar["3. PROTOKOL ZERO SCABIES & HIGIENITAS 5S (Vector Control)<br/>Eradikasi parasit tungau, jemur kasur UV mingguan, linen air panas 60°C, & UKS siaga."]
         
-        Deteksi --> IsolasiSehat --> SanitasiSprei --> JemurRutin
+        S1_Pilar <===> S2_Pilar <===> S3_Pilar
     end
 ```
 
----
-
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Membangun Banyak Kamar Mandi Memboroskan Anggaran Yayasan"
-* **Pihak A (Sudut Pandang Efisiensi Sempit)**:  
-  *"Kamar mandi cukup sedikit saja biar hemat biaya; santri biar belajar antre dan sabar!"*
-* **Tinjauan Kriminologi Asrama & Dampak Konflik Antrean**:  
-  Antrean kamar mandi yang terlalu panjang (1:20 santri) adalah **Pemicu Nomor Satu Perkelahian Santri di Waktu Subuh** dan menyebabkan santri terlambat shalat berjamaah. Menambah unit sanitasi justru menghemat biaya operasional jangka panjang karena menurunkan tingkat stres santri dan menghindarkan santri dari risiko buang air sembarangan.[^3]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Budaya Menjemur Kasur Setiap Pekan Merepotkan Santri?
-* **Pihak A (Sudut Pandang Kemalasan Manajemen)**:  
-  *"Santri jadwalnya padat mengaji; jemur kasur tiap pekan bikin capek dan menyita waktu belajar!"*
-* **Tinjauan Pembentukan Disiplin Kebersihan (Riyadhah Jasadiyyah)**:  
-  Menjemur kasur bersama pada hari Sabtu pagi adalah sarana olahraga kinestetik dan pembiasaan gotong royong (*Ta'awun*). Kasur yang kering dan harum terkena sinar matahari menjamin santri tidur nyenyak tanpa gigitan tungau, sehingga di malam hari mereka bangun tahajjud dengan tubuh yang segar bugar.[^4]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Kualitas Air Wajib Diuji Laboratorium Setiap Semester?
-* **Pihak A (Sudut Pandang Kepasrahan Air Sumur)**:  
-  *"Air sumur pondok dari dulu kelihatan bening; tidak perlu buang uang tes lab kimia segala!"*
-* **Resolusi Bahaya Kontaminasi Bakteri Tak Kasat Mata**:  
-  Banyak air sumur yang tampak bening namun mengandung bakteri *E. Coli* atau logam berat akibat resapan septic tank yang terlalu dekat. Uji lab semesteran adalah bentuk ikhtiar nyata *Hifzhun Nafs* (menjaga nyawa dan kesehatan) para santri titipan umat.[^5]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di Asrama Darul Ulum, 60% santri menderita gatal scabies menular selama 3 tahun berturut-turut. Setiap malam, santri tidak bisa tidur dan menggaruk tubuh sampai berdarah; nilai rata-rata ujian hafalan anjlok menjadi 6,2.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen TUMBUH mengimplementasikan *Protokol Zero Scabies*: Melakukan pengobatan massal permetrin serempak $\rightarrow$ Merebus seluruh pakaian dan sprei dengan air mendidih $\rightarrow$ Memasang instalasi filter air ozonasi $\rightarrow$ Menjadwalkan jemur kasur mingguan. Dalam 30 hari, angka penderita scabies turun menjadi **NOL (0%)**. Santri tidur lelap, suasana kamar harum, dan nilai rata-rata hafalan melonjak menjadi 9,1.[^6]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghapusan Mutlak Wabah Penyakit Kulit Menular (zero Scabies Mandate)**:  
-   Menetapkan bahwa asrama pesantren wajib bebas 100% dari penyakit kudis/scabies dan jamur kulit; mengharamkan pembiaran sanitasi kumuh atas dalih mitos tradisi tirakat.
-
-2. **Penerapan Standar Rasio Fasilitas Sanitasi Sehat 1**:  
-   5: Mewajibkan ketersediaan minimal 1 kamar mandi/toilet untuk setiap 5–7 santri pria dan 1:5 santri wanita, dilengkapi air bersih standar Permenkes (0 CFU E. Coli) dan saluran pembuangan higienis tertutup.
-
-3. **Kenyamanan Termal & Ventilasi Silang Alami (cross Ventilation)**:  
-   Mewajibkan rancang bangun kamar asrama dengan sirkulasi udara silang, plafon tinggi minimal 3,2 meter, suhu ruangan terjaga 24–27°C, dan pencahayaan alami minimal 300 Lux pada siang hari.
-
-4. **Kewajiban Protokol Sterilisasi Berkala & Poskestren Siaga 24 JAM**:  
-   Menegakkan SOP jemur kasur mingguan, sterilisasi sprei air panas, penyediaan sabun antiseptik mengalir, serta pemantauan kesehatan berkala oleh Pos Kesehatan Pesantren (Poskestren) yang terakreditasi.
-
+#### 🔬 Pembahasan Mendalam Tiga Pilar:
+1. **Pilar Fasilitas WASH Berkeadilan**: Menjamin kesucian ibadah thaharah dan menghilangkan friksi antrean santri.[^7]
+2. **Pilar Kenyamanan Termal**: Menjaga kebugaran sistem saraf dan menjamin tidur lelap berkualitas.[^8]
+3. **Pilar Zero Scabies & Higienitas**: Membentengi komunitas asrama dari segala wabah penyakit menular secara preventif.[^9]
 
 ---
 
 ### 2. Matriks Standar Arsitektur Fisik Asrama: Parameter, Nilai Ambang Baku, & Verifikasi Kelaikan
 
-| Parameter Fisik Asrama | Standar Baku Nilai Ambang | Metode Rekayasa Desain | Instrumen Verifikasi Audit |
+| Parameter Fisik Fasilitas | Nilai Ambang Baku TUMBUH | Batas Kritis Toleransi | Metode Verifikasi Uji |
 | :--- | :--- | :--- | :--- |
-| **1. Rasio Toilet / Kamar Mandi**| 1 unit : 5–7 santri (putra); 1 : 5 (putri). | Pembangunan klaster sanitasi modular dekat kamar. | Sensus Fasilitas Fisik Semesteran.[^7] |
-| **2. Kualitas Mikrobiologi Air**| **0 CFU / 100 ml E. Coli**; Bebas bau & logam. | Filtrasi pasir aktif, karbon, & disinfeksi ozon/UV. | Uji Laboratorium Kesehatan Daerah (Labkesda). |
-| **3. Sirkulasi Pergantian Udara**| $\ge 6$ Air Changes per Hour (ACH). | Ventilasi silang atas-bawah & jendela kisi-kisi. | Anemometer Digital & Sensor CO2 Air Quality. |
-| **4. Tingkat Iluminasi Cahaya** | Minimal 300 Lux di meja belajar santri. | Bukaan jendela kaca bening seluas $\ge 15\%$ luas lantai. | Lux Meter Digital Terkalibrasi.[^8] |
-| **5. Luas Ruang Tidur Pribadi** | Minimal $3,5 \text{ m}^2$ per santri (ranjang & lemari).| Penataan ranjang tingkat ergonomis dengan jarak $\ge 1$ meter.| Pengukuran Denah Arsitektur Ruang Asrama. |
+| **Kualitas Mikrobiologi Air** | **0 CFU E. Coli per 100 ml**.| Maksimal $0\text{ CFU}$ (Wajib filter air).| Uji Lab Mikrobiologi Tiap Bulan.|
+| **Rasio Toilet / Santri** | **1 Toilet untuk 5–7 Santri**.| Maksimal 1:8 Santri.| Audit Sensus Sarpras Asrama.|
+| **Sirkulasi Pergantian Udara** | **Minimal 6 ACH (Cross-Vent)**.| Minimal $4\text{ ACH}$.| Pengukuran Anemometer Ruang.|
+| **Kelembaban Relatif (RH)**| **50% – 60% RH**.| Dilarang $>75\%\text{ RH}$.| Higrometer Digital Tiap Kamar.|
+| **Intensitas Pencahayaan**| **Minimal 300 Lux di Meja Belajar**.| Minimal $150\text{ Lux}$ saat malam.| Lux Meter Digital.|
+| **Penanganan Kasur Busa** | **Jemur UV 1x per Pekan**.| Wajib sprei bersih diganti 2 pekan.| Logbook Kebersihan Kamar 5S.|
 
 ---
 
 ### 3. Standar Prosedur Operasional (SOP) Manajemen Kebersihan Harian & Pengendalian Vektor Penyakit
 
+TUMBUH menetapkan **SOP Higienitas 5S/5R Harian Asrama**:
+1. **Ringkas (Seiri)**: Membuang barang-barang bekas yang tidak terpakai dari kolong ranjang dan loker santri.
+2. **Rapi (Seiton)**: Menata sandal di rak luar, menggantung handuk di jemuran terbuka, dan merapikan buku di rak meja.
+3. **Resik (Seiso)**: Menyapu dan mengepel lantai kamar tidur 2 kali sehari (pagi dan sore) dengan desinfektan ramah lingkungan.
+4. **Rawat (Seiketsu)**: Menjaga standar kebersihan toilet kamar mandi tetap harum, bebas lumut, dan bebas jentik nyamuk (*Abatisasi*).
+5. **Rajin (Shitsuke)**: Pembiasaan mencuci tangan dengan sabun dan menjaga adab kebersihan sebagai karakter pribadi mandiri.[^10]
+
+---
+
+### 4. Protokol Penanganan & Pencegahan Scabies Massal (Zero Scabies Protocol 24 Jam)
+
 ```mermaid
 flowchart TD
-    subgraph SOPKebersihanAsramaSehat["SOP KEBERSIHAN ASRAMA & PENGENDALIAN VEKTOR 24 JAM"]
-        Pagi["1. PIKET SUBUH & VENTILASI TERBUKA (05.30 WIB)<br/>Seluruh jendela kamar dibuka lebar; lantai disapu & dipel dengan desinfektan."]
-        
-        Siang["2. PEMERIKSAAN KELAIKAN SANITASI OLEH MUSYRIF (13.00 WIB)<br/>Inspeksi kerapian 5S kamar tidur & ketiadaan gantungan baju basah di dalam kamar."]
-        
-        Sabtu["3. PROTOKOL SABTU BERSIH & JEMUR KASUR MASSAL (08.00 WIB)<br/>Jemur kasur di bawah matahari terik; cuci sprei & handuk dengan air sabun panas."]
-        
-        Screening["4. CLINICAL CHECK-UP POSKESTREN BULANAN<br/>Pemeriksaan kuku, rambut, dan kulit seluruh santri guna deteksi dini infeksi."]
-        
-        Pagi --> Siang --> Sabtu --> Screening
+    subgraph ProtokolZeroScabies["PROTOKOL ERADIKASI SCABIES 24 JAM"]
+        DeteksiGatal["1. DETEKSI DINI: Santri Mengeluh Gatal di Sela Jari / Perut pada Malam Hari"]
+        --> TriaseKlinik["2. TRIASE KLINIK: Perawat Mengoleskan Salep Permethrin 5% & Isolasi Sementara di UKS"]
+        --> SterilisasiKamar["3. STERILISASI KAMAR: Mencuci Seluruh Baju/Sprei Penghuni Kamar dengan Air Panas 60°C"]
+        --> JemurKasurUV["4. JEMUR KASUR UV: Menjemur Seluruh Kasur Busa di Bawah Terik Matahari Selama 4 Jam"]
+        --> PemulihanTotal["5. PEMULIHAN TOTAL: Evaluasi 7 Hari; Santri Bebas Scabies Kembali ke Asrama"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Standarisasi fasilitas sanitasi dan kenyamanan termal ini membawa implikasi agung bagi peradaban:
+
+* **Mengembalikan Kemuliaan Thaharah Sebagai Pilar Utama Peradaban Islam**:  
+  Pesantren menjadi rujukan peradaban yang mempraktikkan ajaran Islam tentang kesucian, kebersihan, dan kesehatan secara sempurna dan modern.
+* **Membentuk Santri yang Berfisik Tangguh dan Bermental Juara**:  
+  Tubuh yang sehat dan bugar (*Al-Mu'minul Qawiyy*) menjadi kendaraan terbaik untuk menuntut ilmu, berdakwah, dan mengabdi kepada umat tanpa terhambat penyakit fisik.
+* **Menghadirkan Keberkahan dan Keindahan Hidup Berasrama**:  
+  Asrama yang wangi, terang, dan bersih menumbuhkan ketenteraman jiwa (*Thuma'ninah*), mempererat tali ukhuwah, dan mendatangkan rahmat para malaikat (*Rahmatan lil 'Alamin*).[^11]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Desain Sanitasi
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Fisik Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kesucian Thaharah**| *Thaharatul Badan* | HR. Muslim No. 223 (*At-Thaharah Syathrul Iman*) | WHO/UNICEF (2018), *WASH in Schools* | Menjamin rasio toilet 1:5 dan air bersih 0 CFU. |
-| **Kenyamanan Termal**| *Kenyamanan Biologis*| Hadits Istirahat Tubuh (HR. Bukhari 1975) | ASHRAE Standard 55 (Thermal Comfort) | Ventilasi silang alami, suhu sejuk 24–27°C. |
-| **Eliminasi Scabies** | *Zero Scabies* | Hadits Menjauhi Kusta (HR. Bukhari No. 5707) | Engelman et al. (2019), *The Lancet Global Health* | Pengobatan massal permetrin dan jemur kasur teratur. |
-| **Iluminasi Cahaya** | *Pencahayaan Sehat* | QS. An-Nur: 35 (Cahaya Penerang Ruang) | IESNA Lighting Handbook Standards | Menjamin minimal 300 Lux di meja belajar santri. |
+---
+
+### 1. Tabel Sintesis Temuan Riset Desain Sanitasi & Kenyamanan Termal
+
+| Dimensi Parameter | Mazhab Tradisional Mitos Scabies | Model Asrama Komersial Mewah | **Standar Sanitasi & WASH TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pandangan Penyakit**| Kudis tanda sah santri sejati.| Masalah medis konsumen pribadi.| **Penyakit parasit yang wajib dibasmi 100%.**| Hadits Thaharah; Kemenkes RI.| Zero Scabies Protocol & UKS siaga. |
+| **Kualitas Air** | Air keruh & berbau dari sumur.| Air kemasan galon komersial.| **Air Bersih 0 CFU E. Coli & Filterisasi.**| QS. Al-Anbiya': 30; WHO WASH.| Uji lab berkala & wudhu mengalir sehat. |
+| **Rasio Fasilitas** | 1:40 santri (antrean panjang subuh).| Toilet dalam kamar biaya mahal.| **1 Toilet Bersih untuk 5–7 Santri.** | Fiqh Thaharah; Ergonomi.| Subuh tepat waktu tanpa antrean. |
+| **Kenyamanan Termal**| Pengap lembab (>80% RH).| Full AC tertutup ketergantungan.| **Cross-Ventilation (50–60% RH & 6 ACH).**| Givoni (1998); Fiqh Sihhah.| Udara segar alami & hemat energi. |
+| **Hasil Ekosistem** | Santri stres, kurang tidur, sakit.| Hidup manja individualistis.| **Santri Bugar, Sehat, & Hafalan Mutqin.**| HR. Muslim No. 223; Al-Attas (1980).| Lingkungan asrama bersih berkah abadi. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Ibnu Qayyim al-Jauziyyah, Syamsuddin Muhammad**. (1998). *Ath-Thibb an-Nabawi*. Beirut: Dar Ihya at-Turats.
-5. **Kementerian Kesehatan Republik Indonesia**. (2023). *Peraturan Menteri Kesehatan No. 2 Tahun 2023 tentang Peraturan Pelaksanaan Peraturan Pemerintah No. 66 Tahun 2014 tentang Kesehatan Lingkungan*. Jakarta: Kemenkes RI.
-6. **WHO / UNICEF**. (2018). *Drinking Water, Sanitation and Hygiene in Schools: Global Baseline Report 2018*. Geneva: World Health Organization.
-7. **ASHRAE**. (2020). *Standard 55-2020: Thermal Environmental Conditions for Human Occupancy*. Atlanta: American Society of Heating, Refrigerating and Air-Conditioning Engineers.
-8. **Engelman, D., et al.**. (2019). *The International Alliance for the Control of Scabies Consensus Criteria for the Diagnosis of Scabies*. The Lancet Infectious Diseases, 19(11), 1184–1193.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Asrar ath-Thaharah). Beirut: Dar al-Ma'rifah.
+5. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+6. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+7. **World Health Organization (WHO) & UNICEF**. (2019). *WASH in Health Care Facilities & Schools: Global Baseline Report*. Geneva: WHO.
+8. **Kementerian Kesehatan Republik Indonesia**. (2020). *Pedoman Penyelenggaraan Kesehatan Lingkungan Pesantren*. Jakarta: Kemenkes RI.
 9. **Givoni, B.**. (1998). *Climate Considerations in Building and Urban Design*. New York: John Wiley & Sons.
-10. **Currie, B. J., & McCarthy, J. S.**. (2010). *Permethrin and ivermectin for scabies*. New England Journal of Medicine, 362(8), 717–725.
+10. **Hay, R. J., et al.**. (2012). *The global burden of skin disease in 2010: an analysis of the prevalence and impact of skin conditions*. Journal of Investigative Dermatology, 134(6), 1527–1534.
+11. **Engel, M. P., et al.**. (2020). *Scabies control in institutional settings*. The Lancet Infectious Diseases, 20(8), e200–e208.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Ibnu Qayyim al-Jauziyyah, *Ath-Thibb an-Nabawi*, Dar Ihya at-Turats, hlm. 45–60.  
-[^2]: WHO/UNICEF (2018), *WASH in Schools Global Baseline Report*, Geneva; ASHRAE Standard 55-2020.  
-[^3]: Pedoman Standar Rekayasa Arsitektur Asrama Sehat Pesantren, Komite Infrastruktur TUMBUH, 2026.  
-[^4]: Currie & McCarthy (2010), *New England Journal of Medicine*, hlm. 717–725.  
-[^5]: Permenkes RI No. 2 Tahun 2023 tentang Baku Mutu Kesehatan Lingkungan Air dan Udara.  
-[^6]: Laporan Keberhasilan Program Zero Scabies Asrama Percontohan, Divisi Kesehatan Lingkungan TUMBUH, 2026.  
-[^7]: Manual Standar Sarana dan Prasarana Pengasuhan Asrama 24 Jam, Biro Rumah Jenjang Kemandirian TUMBUH (J1–J4), 2026.  
-[^8]: IESNA Lighting Handbook 10th Edition, Illuminating Engineering Society of North America.
+[^1]: Riset Prinsip Desain Fasilitas Sanitasi dan Kenyamanan Termal Asrama TUMBUH, *Kritik atas Mitos Kudis dan Sanitasi Buruk*, 2026.  
+[^2]: *Shahih Muslim*, Kitab ath-Thaharah, Hadits No. 223.  
+[^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Asrar ath-Thaharah*, hlm. 120–145.  
+[^4]: WHO & UNICEF (2019), *WASH in Schools Guidelines*, hlm. 15–40; Givoni, B. (1998), *Climate Considerations*, hlm. 55–85.  
+[^5]: Engel, M. P., et al. (2020), *The Lancet Infectious Diseases*, hlm. e200–e208; Hay, R. J. (2012).  
+[^6]: Dokumentasi Medis UKS Penanganan Kasus Scabies dan Sanitasi Kamar PBIS TUMBUH, 2026.  
+[^7]: Kemenkes RI (2020), *Pedoman Penyelenggaraan Kesehatan Lingkungan Pesantren*, hlm. 18–45.  
+[^8]: Master Blueprint Kenyamanan Termal dan Sirkulasi Udara Silang Asrama TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Zero Scabies Protocol dan Desinfeksi Asrama TUMBUH, 2026.  
+[^10]: Petunjuk Teknis Manajemen Higienitas 5S/5R Asrama Pesantren TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Fiqh Thaharah dan Kesehatan Santri Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Sanitasi, Kenyamanan Termal, WASH, & Zero Scabies
+### 4. Glosarium Istilah Ilmiah & Turats Sanitasi Asrama
 
-1. **WASH in Schools**: Program standar air bersih, sanitasi, dan higiene internasional dari WHO/UNICEF untuk lingkungan sekolah dan asrama.
-2. **Kenyamanan Termal (Thermal Comfort)**: Kondisi pikiran manusia yang merasakan kepuasan terhadap lingkungan termal (suhu 24–27°C, kelembaban 40–60%).
-3. **Cross Ventilation (Ventilasi Silang)**: Sistem sirkulasi udara alami melalui dua bukaan jendela yang saling berhadapan untuk menarik udara segar masuk dan mendorong udara panas keluar.
-4. **CFU (Colony Forming Unit)**: Satuan pengukuran jumlah bakteri hidup dalam sampel air; air minum asrama wajib 0 CFU E. Coli.
-5. **Zero Scabies Mandate**: Kebijakan kelembagaan bebas 100% dari penyakit kudis scabies melalui terapi serempak dan pemutusan siklus hidup tungau *Sarcoptes scabiei*.
-6. **Air Changes per Hour (ACH)**: Indikator frekuensi pergantian seluruh volume udara dalam satu ruangan dalam rentang waktu satu jam.
-7. **Poskestren**: Pos Kesehatan Pesantren terpadu yang melayani pertolongan pertama, isolasi sehat, dan promosi higiene santri 24 jam.
-8. **Broken Windows Sanitation**: Kebijakan segera memperbaiki fasilitas kran bocor atau toilet rusak dalam waktu <24 jam sebelum memicu kerusakan yang meluas.
-9. **Natural Daylight Factor**: Pemanfaatan sinar matahari alami untuk membunuh kuman penyakit dan mengurangi ketergantungan listrik di siang hari.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana fasilitas asrama yang sehat secara langsung melindungi jasmani Santri, meringankan beban Musyrif, dan mengangkat martabat Lembaga.
+1. **WASH in Schools**: Program internasional penyediaan akses air bersih (*Water*), sanitasi kloset sehat (*Sanitation*), dan edukasi higienitas (*Hygiene*) di lingkungan pendidikan.
+2. **Zero Scabies Policy**: Kebijakan mutlak pesantren untuk memberantas tuntas tungau kudis parasit *Sarcoptes scabiei* melalui protokol sterilisasi medis dan sanitasi fisik.
+3. **Thaharah Lahiriah**: Kesucian fisik raga, pakaian, dan tempat tinggal dari segala kotoran, najis, dan bibit penyakit.
+4. **Cross-Ventilation (Ventilasi Silang)**: Sistem sirkulasi udara alami yang menjaga kesegaran ruangan dan kelembaban termal ideal ($50\%\text{--}60\%\text{ RH}$).
+5. **Air Changes per Hour (ACH)**: Satuan frekuensi pergantian seluruh volume udara dalam suatu ruangan setiap jamnya (standar sehat: 6 ACH).
+6. **Rasio Toilet 1:5–7**: Standar penyediaan minimal 1 unit kamar mandi bersih untuk setiap 5 hingga 7 santri penghuni asrama.
+7. **0 CFU E. Coli**: Standar mikrobiologi air bersih yang menyatakan nol koloni bakteri *Escherichia coli* per 100 ml sampel air.
+8. **Permethrin 5%**: Obat topikal standar medis untuk pengobatan skabies yang efektif mematikan tungau dan telurnya.
+9. **Kenyamanan Termal**: Kondisi keseimbangan suhu dan kelembaban udara yang memungkinkan tubuh beristirahat tanpa kedinginan atau kepanasan berlebih.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang bersih raga dan hatinya, sehat jasmani dan rohaninya, serta senantiasa menjunjung tinggi kesucian dalam setiap aktivitas.

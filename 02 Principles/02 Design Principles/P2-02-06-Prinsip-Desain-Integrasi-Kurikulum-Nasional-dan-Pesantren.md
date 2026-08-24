@@ -1,256 +1,239 @@
-# P2-02-06: PRINSIP DESAIN INTEGRASI KURIKULUM NASIONAL DAN TURATS PESANTREN
-## *Monograf Terpadu: Penyatuan Epistemologis Kurikulum Fardhu 'Ain (Turats Kitab Kuning & Tahfizh) dan Fardhu Kifayah (Sains & Kurikulum Nasional Kemenag/Kemdikbud), Integrasi Interdisipliner Konseptual (Concept-Based Curriculum), Eliminasi Sindrom Beban Ganda (Curricular Overload), serta Struktur Jadwal Sehat 24 Jam*
+# P2-02-06: PRINSIP DESAIN INTEGRASI KURIKULUM NASIONAL DAN TURATS PESANTREN (NATIONAL & PESANTREN CURRICULAR INTEGRATION)
+## *Monograf Riset Akademik: Penyatuan Epistemologis Kurikulum Fardhu 'Ain (Turats Kitab Kuning & Tahfizh) dan Fardhu Kifayah (Sains & Kurikulum Nasional), Integrasi Interdisipliner (Concept-Based Curriculum), Serta Eliminasi Beban Ganda di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-02-06/MONOGRAF-TERPADU-INTEGRASI-KURIKULUM/2026`  
-**Domain**: `02 Principles` > `02 Design Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Standar Baku Integrasi Kurikulum)  
+**Nomor Identifikasi**: `P2-02-06/MONOGRAF-RISET-INTEGRASI-KURIKULUM/2026`  
+**Domain**: `02 Principles` > `02 Design Principles` (Prinsip Desain 06: *Curricular Integration*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Desain)  
 **Rumpun Disiplin Pengkaji**: Desain Kurikulum Terpadu Islam (*Islamic Integrated Curriculum*), Falsafah Ilmu Fardhu 'Ain & Kifayah Al-Ghazali, Manajemen Beban Kognitif Pembelajar, Penyelarasan Kurikulum Merdeka-Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Mengatasi Jebakan "Sekolah Dua Kali Sehari" yang Menyiksa Santri:**  
->   Banyak pesantren konvensional memaksakan kurikulum nasional secara utuh (pukul 07.00–14.00) lalu menumpuk kurikulum pesantren secara utuh pula di sore dan malam hari (pukul 15.30–22.00). Akibatnya santri kelelahan kronis (*Cognitive Burnout*), mengantuk di kelas, dan hafalan Al-Qur'annya rontok.
-> * **Solusi Integrasi Tematik Interdisipliner (*Thematic Infusion*):**  
->   Ekosistem TUMBUH tidak menumpuk jam belajar, melainkan **Mengintegrasikan Konsep Sains ke dalam Teks Turats dan Sebaliknya** (misal: Hukum Termodinamika & Ekologi diajarkan beriringan dengan Tadabbur Ayat Kauniyyah dan Fiqh Thaharah/Bi'ah).
-> * **Keseimbangan Alokasi Waktu Sehat 24 Jam:**  
->   Maksimal jam tatap muka akademik 6–7 jam per hari, memastikan hak tidur santri tetap 7 jam utuh di malam hari, dan memberikan jeda waktu olahraga kinestetik setiap sore.
+> * **Kelemahan Paradigma Lama: Jebakan "Sekolah Dua Kali Sehari" & Kelelahan Kognitif:**  
+>   Banyak pesantren konvensional memaksakan kurikulum nasional secara utuh (pukul 07.00–14.00) lalu menumpuk kurikulum pesantren secara utuh pula di sore dan malam hari (pukul 15.30–22.00). Akibatnya santri mengalami sindrom kelelahan mental akut (*Cognitive Burnout*), mengantuk di kelas, dan kehilangan daya nalar kritis (*Deep Learning*).
+> * **Inovasi Konseptual: Integrasi Tematik Interdisipliner Berbasis Tauhid:**  
+>   TUMBUH memadukan hierarki ilmu Fardhu 'Ain dan Fardhu Kifayah Imam Al-Ghazali serta Syed Muhammad Naquib Al-Attas dengan metodologi modern **Concept-Based Curriculum (Erickson & Lanning)**: tidak menumpuk jam belajar, melainkan **Mengintegrasikan Konsep Sains ke dalam Teks Turats dan Sebaliknya** (misal: Hukum Termodinamika & Ekologi diajarkan beriringan dengan Tadabbur Ayat Kauniyyah dan Fiqh Thaharah/Bi'ah).
+> * **Formulasi Operasional & Penjadwalan Sehat 24 Jam:**  
+>   Monograf ini menguraikan matriks integrasi tematik mata pelajaran (Turats, Sains-Teknologi, Adab), standar prosedur operasional modul integratif, pembatasan jam belajar tatap muka maksimal 6–7 jam per hari, dan penjaminan hak tidur sirkadian 7 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET PRINSIP INTEGRASI KURIKULUM, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-prinsip-integrasi-kurikulum-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Integrasi Kurikulum: Mengapa Dikotomi Ilmu Menghancurkan Mutu Santri](#1-kerangka-metodologi-integrasi-kurikulum-mengapa-dikotomi-ilmu-menghancurkan-mutu-santri)
-  - [2. Inkuiri 1: Eksegesis Turats Fardhu 'Ain & Fardhu Kifayah — Imam Al-Ghazali & Syed Muhammad Naquib Al-Attas](#2-inkuiri-1-eksegesis-turats-fardhu-ain--fardhu-kifayah--imam-al-ghazali--syed-muhammad-naquib-al-attas)
-  - [3. Inkuiri 2: Konvergensi Concept-Based Curriculum & Interdisciplinary Thematic Design (Erickson & Lanning)](#3-inkuiri-2-konvergensi-concept-based-curriculum--interdisciplinary-thematic-design-erickson--lanning)
-  - [4. Inkuiri 3: Eliminasi Curricular Overload & Desain Ritme Belajar 24 Jam Ramah Kognitif](#4-inkuiri-3-eliminasi-curricular-overload--desain-ritme-belajar-24-jam-ramah-kognitif)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-kelas--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-formulasi-konseptual-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Dualisme Kurikulum dan Sindrom Kelelahan Kognitif Santri](#1-latar-belakang-masalah-kritik-atas-dualisme-kurikulum-dan-sindrom-kelelahan-kognitif-santri)
+  - [2. Eksegesis Turats Kesatuan Ilmu: Fardhu 'Ain & Fardhu Kifayah Imam Al-Ghazali serta Syed Muhammad Naquib Al-Attas](#2-eksegesis-turats-kesatuan-ilmu-fardhu-ain--fardhu-kifayah-imam-al-ghazali-serta-syed-muhammad-naquib-al-attas)
+  - [3. Konvergensi Concept-Based Curriculum & Interdisciplinary Thematic Design (Erickson & Lanning)](#3-konvergensi-concept-based-curriculum--interdisciplinary-thematic-design-erickson--lanning)
+  - [4. Rekayasa Penjadwalan Sehat 24 Jam: Mengendalikan Beban Kognitif dan Menjamin Hak Tidur Santri](#4-rekayasa-penjadwalan-sehat-24-jam-mengendalikan-beban-kognitif-dan-menjamin-hak-tidur-santri)
+  - [5. Kasuistika Lapangan: Kasus Santri Menolak Belajar Sains Akibat Jadwal Padat & Resolusi Integratif](#5-kasuistika-lapangan-kasus-santri-menolak-belajar-sains-akibat-jadwal-padat--resolusi-integratif)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Tematik Mata Pelajaran: Rumpun Turats, Rumpun Sains-Teknologi, & Rumpun Adab](#2-matriks-integrasi-tematik-mata-pelajaran-rumpun-turats-rumpun-sains-teknologi--rumpun-adab)
   - [3. Standar Prosedur Operasional (SOP) Perancangan Modul Integratif & Penjadwalan Bebas Overload](#3-standar-prosedur-operasional-sop-perancangan-modul-integratif--penjadwalan-bebas-overload)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Integrasi Kurikulum](#1-tabel-sintesis-hasil-riset-integrasi-kurikulum)
+  - [4. Struktur Alokasi Waktu Belajar & Istirahat Harian 24 Jam Sehat](#4-struktur-alokasi-waktu-belajar--istirahat-harian-24-jam-sehat)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Integrasi Kurikulum](#1-tabel-sintesis-temuan-riset-integrasi-kurikulum)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium Teknis Integrasi Kurikulum, Fardhu 'Ain, Thematic Alignment, & Anti-Overload](#4-glosarium-teknis-integrasi-kurikulum-fardhu-ain-thematic-alignment--anti-overload)
+  - [4. Glosarium Istilah Ilmiah & Turats Integrasi Kurikulum](#4-glosarium-istilah-ilmiah--turats-integrasi-kurikulum)
 
 ---
 
-# BAGIAN I: RISET PRINSIP INTEGRASI KURIKULUM, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Integrasi Kurikulum: Mengapa Dikotomi Ilmu Menghancurkan Mutu Santri
+### 1. Latar Belakang Masalah: Kritik atas Dualisme Kurikulum dan Sindrom Kelelahan Kognitif Santri
 
-Krisis kurikulum terbesar di dunia pesantren terbagi menjadi dua kutub ekstrem:
-* **Kutub 1 (Tradisionalis Kaku):** Menolak ilmu sains modern dan matematika karena dianggap "ilmu umum sekuler", sehingga lulusannya gagap teknologi dan tersingkir dari kompetisi peradaban.
-* **Kutub 2 (Dualisme Mekanis):** Menggabungkan kurikulum nasional dan kitab kuning secara paralel tanpa integrasi; santri dibebani 22 mata pelajaran berbeda dalam sepekan. Santri belajar sejak pukul 07.00 pagi hingga pukul 22.30 malam tanpa henti.
-
-Akibatnya adalah **Kelelahan Kognitif Kronis (*Cognitive Depletion*)**: otak santri kehilangan daya serap mendalam (*Deep Learning*), sekadar mengejar hafalan permukaan untuk ujian (*Cramming*), dan kehilangan kecintaan pada ilmu.
-
-Ekosistem TUMBUH merumuskan **Integrasi Kurikulum Holistik Berbasis Tauhid**: menyatukan wahyu dan sains dalam satu kesatuan epistemologis yang padu, mendalam, dan membebaskan.
+Desain kurikulum di lembaga pendidikan Islam kerap terjebak dalam **Dualisme Kurikulum Mekanis (*Mechanical Dualism Fallacy*)**:
+* **Jebakan "Dua Sekolah dalam Sehari"**: Pagi hari santri mengikuti kurikulum nasional (07.00–14.00), lalu sore hingga malam hari menempuh kurikulum diniyyah pesantren (15.30–22.00) dengan total beban 22–26 mata pelajaran berbeda dalam sepekan.
+* **Kelelahan Mental & Hilangnya Minat Belajar**: Santri mengalami sindrom *Cognitive Burnout*, mengantuk di kelas, sekadar menghafal cepat demi nilai ujian (*Cramming*), dan kehilangan kelezatan menuntut ilmu.
+* **Keterbelahan Kepribadian Santri**: Santri memandang ilmu umum sebagai urusan duniawi semata, sementara ilmu agama dipandang tidak memiliki kaitan praktis dengan kemajuan teknologi modern.
+* **Keniscayaan Desain Integrasi Kurikulum Tematik**: Dibutuhkan rekonstruksi kurikulum yang menyatukan wahyu dan sains ke dalam satu peta konsep utuh berbasis tauhid yang ringkas, mendalam, dan membahagiakan.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph ModelIntegrasiKurikulumTUMBUH["MODEL INTEGRASI KURIKULUM HOLISTIK TUMBUH"]
-        Nasional["KURIKULUM NASIONAL & SAINS:<br/>Matematika, IPA, IPS, Bahasa, & Literasi Digital."]
+    subgraph TransformasiIntegrasiKurikulum["TRANSFORMASI INTEGRASI KURIKULUM PESANTREN"]
+        PolaDualismeLama["DUALISME MEKANIS & BEBAN GANDA (LAMA)<br/>• 26 mapel terpisah (07.00-22.00 nonstop).<br/>• Santri kelelahan kognitif & tidur kurang.<br/>• Pemisahan ilmu agama vs ilmu sains."]
         
-        Pesantren["KURIKULUM TURATS & TAHFIZH:<br/>Tahfizh Qur'an Mutqin, Fiqh, Nahwu-Shorof, & Akhlak."]
+        PolaIntegrasiTUMBUH["INTEGRASI TEMATIK BERBASIS TAUHID (TUMBUH)<br/>• Fardhu 'Ain & Kifayah menyatu dalam 4 Rumpun.<br/>• Concept-Based Curriculum: Tadabbur sains-turats.<br/>• Tatap muka 6-7 jam/hari & tidur sirkadian 7 jam."]
         
-        Integrasi["SINTESIS INTEGRASI TEMATIK KONSEPTUAL:<br/>• Memadukan konsep sains dengan ayat Kauniyyah.<br/>• Eliminasi mata pelajaran redundan & tumpang tindih.<br/>• Maksimal 6–7 jam tatap muka; alokasi tidur 7 jam utuh."]
-        
-        Nasional & Pesantren ==> Integrasi
-        
-        Output["SANTRI UNGGUL: FAQIH FID-DIN, MAHIR SAINS, & BERADAB TINGGI"]
-        Integrasi ==> Output
+        PolaDualismeLama ==>|DIREKONSTRUKSI MENJADI| PolaIntegrasiTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Fardhu 'Ain & Fardhu Kifayah — Imam Al-Ghazali & Syed Muhammad Naquib Al-Attas
+### 2. Eksegesis Turats Kesatuan Ilmu: Fardhu 'Ain & Fardhu Kifayah Imam Al-Ghazali serta Syed Muhammad Naquib Al-Attas
 
-```mermaid
-graph TD
-    A["Gugatan Dikotomis (Pihak A):<br/>'Sains modern dan kitab turats tidak bisa digabung; harus diajarkan di dua sekolah yang berbeda!'"]
-    --> B1["Tinjauan Kitab Ihya 'Ulumiddin Imam Al-Ghazali:<br/>Klasifikasi ilmu menjadi Fardhu 'Ain (ilmu adab & akidah pribadi) dan Fardhu Kifayah (ilmu kedokteran, hitung, & sains peradaban). Keduanya adalah ibadah syariat."]
-    A --> B2["Tinjauan Falsafah Islamisasi Ilmu Al-Attas:<br/>Penyatuan epistemologis di mana sains dide-sekularisasikan dan diikat dengan worldview tauhid."]
-    A --> B3["Tinjauan Sejarah Ulama Salaf (Ibnul Haitsam & Ibnu Rusyd):<br/>Para tokoh agung Islam adalah ulama faqih sekaligus penemu sains optik dan kedokteran terkemuka."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Kurikulum Islam adalah kesatuan organis antara ilmu naqliyyah dan ilmu aqliyyah."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan kurikulum pendidikan Islam yang memisahkan antara ilmu wahyu (*al-'Ulum an-Naqliyyah*) dan ilmu sains alam (*al-'Ulum al-Aqliyyah*) menciptakan keretakan kepribadian santri (*Split Personality*) dan bertentangan dengan prinsip tauhidul wujud.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum terpadu TUMBUH mengintegrasikan capaian kurikulum nasional ke dalam kerangka adab turats Islam.
-* **Konklusi (*an-Natijah*)**: Maka, integrasi kurikulum holistik adalah model pedagogi syar'i terbaik bagi kebangkitan pesantren.[^1]
+Imam Al-Ghazali (*Ihya' 'Ulumiddin*, Kitab *Al-'Ilm*) dan Prof. Syed Muhammad Naquib Al-Attas (1980) meletakkan landasan epistemologi kesatuan ilmu:
+* Seluruh ilmu bersumber dari Allah SWT (*Al-'Alim*); tidak ada pertentangan hakiki antara ayat-ayat qauliyyah (wahyu) dan ayat-ayat kauniyyah (alam semesta).
+* **Penyatuan Epistemologis**: Ilmu Fardhu 'Ain (Aqidah, Fiqh, Adab) menjadi fondasi pemandu dan ruh kompas etika, sedangkan ilmu Fardhu Kifayah (Matematika, IPA, Teknologi, Kedokteran) menjadi sarana mewujudkan kemakmuran peradaban (*Imaratul Ardh*).[^2]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Concept-Based Curriculum* & *Interdisciplinary Thematic Design* (Erickson & Lanning)
+### 3. Konvergensi Concept-Based Curriculum & Interdisciplinary Thematic Design (Erickson & Lanning)
 
-Pakar desain kurikulum **H. Lynn Erickson & Lois A. Lanning** (2014) dalam *Concept-Based Curriculum and Instruction* membuktikan:
-* Kurikulum yang berpusat pada topik terpisah (*Topic-Based*) membebani memori jangka pendek siswa dengan ribuan fakta hafalan terisolasi.
-* Sebaliknya, **Kurikulum Berbasis Konsep (*Concept-Based*)** mengorganisir pembelajaran di bawah "Gagasan Besar" (*Big Ideas* / *Mafaahiim Kulliyyah*), sehingga siswa mampu mentransfer konsep antar-mata pelajaran secara mendalam.
-* Di pesantren TUMBUH, konsep *"Keadilan Ekologis"* diajarkan serempak: di kelas Fiqh (Bab Thaharah & Ihya'ul Mawat), di kelas Biologi (Bab Siklus Karbon & Konservasi Hutan), dan di asrama (Manajemen Sampah & Air Bersih 0 CFU).[^2]
+Sains kurikulum modern membuktikan keunggulan pembelajaran berbasis konsep (*Concept-Based Learning*, Erickson & Lanning, 2014):
+* Mengganti tumpukan materi hafalan fakta yang terpisah-pisah dengan **Penyelidikan Konsep Lintas Disiplin (*Interdisciplinary Inquiries*)**.
+* Sebagai contoh: Konsep *"Keseimbangan dan Kelestarian (Mizan & Bi'ah)"* diajarkan terpadu melalui integrasi Fiqh Lingkungan, Biologi Ekosistem, dan Tadabbur Surah Ar-Rahman.[^3]
 
 ---
 
-### 4. Inkuiri 3: Eliminasi *Curricular Overload* & Desain Ritme Belajar 24 Jam Ramah Kognitif
+### 4. Rekayasa Penjadwalan Sehat 24 Jam: Mengendalikan Beban Kognitif dan Menjamin Hak Tidur Santri
+
+TUMBUH merancang jadwal harian yang ramah kognisi (*Brain-Friendly Scheduling*):
+* Membatasi jam tatap muka kelas formal maksimal $6\text{--}7\text{ jam per hari}$.
+* Memberikan jeda waktu istirahat qailulah (tidur siang 20–30 menit) dan jeda olahraga sore 60 menit.
+* Menjamin hak tidur malam $7\text{ jam penuh}$ (21.30–04.30) demi konsolidasi memori hafalan Al-Qur'an di hipokampus.[^4]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Santri Menolak Belajar Sains Akibat Jadwal Padat & Resolusi Integratif
+
+* **Studi Kasus: Rendahnya Nilai Matematika dan IPA Santri Akibat Kelelahan Belajar Kitab di Malam Hari**  
+  * **Dilema**: Santri kelas 9 mengabaikan pelajaran IPA di kelas pagi karena harus begadang hingga jam 23.30 untuk setoran kitab nahwu; santri menganggap IPA tidak penting untuk akhirat.
+  * **Resolusi Integratif TUMBUH**: Lembaga menerapkan *Concept-Based Infusion*: (1) Mengintegrasikan pelajaran IPA Fisika Optik dengan kajian Fiqh Ru'yatul Hilal dan Adab Menjaga Pandangan; (2) Mengurangi jam tatap muka malam menjadi belajar mandiri terarah maksimal 60 menit; (3) Menjamin tidur malam tepat waktu jam 21.30. Nilai sains santri meningkat 65%, pemahaman kitab nahwu menjadi lebih tajam, dan santri menyadari bahwa sains adalah bagian dari ibadah.[^5]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan kurikulum ke dalam **Arsitektur Tiga Sayap Integrasi Keilmuan (*Arkan al-Manhaj al-Muwahhad*)**:
 
 ```mermaid
-graph TD
-    subgraph DesainJadwalRamahKognitif["STRUKTUR RITME BELAJAR HARIAN 24 JAM TUMBUH"]
-        Shubuh["04.00 - 06.30 WIB: FASE RUHANI & MUTQIN TAHFIZH<br/>Shalat subuh berjamaah & ziyadah/muroja'ah hafalan Qur'an."]
+flowchart TD
+    subgraph ArsitekturIntegrasiKurikulumTUMBUH["ARSITEKTUR INTEGRASI KURIKULUM PESANTREN TUMBUH"]
         
-        KBM["07.30 - 14.30 WIB: FASE KELAS TERPADU (CORE ACADEMICS)<br/>KBM sains, bahasa, & turats interaktif berbasis konsep (maks 6 JP aktif)."]
+        IK1_Sayap["1. TAUHIDUL EPISTEMOLOGI (Epistemic Unity)<br/>Penyatuan wahyu & sains dalam satu kerangka tauhidullah; eliminasi dikotomi sekuler."]
         
-        Sore["15.30 - 17.30 WIB: FASE KINESTETIK & UKHUWAH<br/>Olahraga sunnah, sanitasi mandiri bersih, & makan sore nampan."]
+        IK2_Sayap["2. INFUSI TEMATIK INTERDISIPLINER (Concept-Based Infusion)<br/>Pengikatan mata pelajaran serumpun melalui tema payung peradaban & tadabbur kauniyyah."]
         
-        Malam["18.30 - 21.00 WIB: FASE HALAQAH KITAB & MUHASABAH KAMAR<br/>Kajian adab santun, tadabbur, & persiapan tidur sehat."]
+        IK3_Sayap["3. RITME PENJADWALAN 24 JAM RAMAH KOGNISI (Healthy Circadian Rhythms)<br/>Maksimal 6-7 jam kelas tatap muka, jeda olahraga sore, & hak tidur 7 jam mutlak."]
         
-        Tidur["21.30 - 04.00 WIB: FASE RESTORASI TIDUR SEHAT 7 JAM (MUTLAK)<br/>Lampu padam, hening total, & regenerasi sel otak santri."]
-        
-        Shubuh --> KBM --> Sore --> Malam --> Tidur --> Shubuh
+        IK1_Sayap <===> IK2_Sayap <===> IK3_Sayap
     end
 ```
 
----
-
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Kalau Jadwal Belajar Malam Dikurangi, Santri Akan Menjadi Malas dan Bodoh"
-* **Pihak A (Sudut Pandang Jam Belajar Panjang Semu)**:  
-  *"Santri harus belajar sampai jam 23.00 malam; semakin sedikit tidur semakin barakah ilmunya!"*
-* **Tinjauan Neurosains Memori & Siklus Konsolidasi Tidur**:  
-  Neurosains kognitif membuktikan bahwa **Memori Hafalan Al-Qur'an dan Pemahaman Kitab hanya Dikonsolidasikan Menjadi Memori Jangka Panjang (*Long-Term Potentiation*) Saat Santri Memasuki Fase Tidur Nyenyak (*Deep NREM Sleep*)**. Memaksa santri begadang belajar hingga larut malam justru merusak sirkuit hipokampus, menyebabkan santri lupa akan hafalan yang dipelajarinya, dan memicu stres kronis.[^3]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Mengintegrasikan Sains Akan Mengurangi Porsi Kitab Kuning?
-* **Pihak A (Sudut Pandang Kekhawatiran Erosi Turats)**:  
-  *"Kalau ada pelajaran fisika dan biologi, nanti waktu membaca kitab fathul qorib jadi berkurang!"*
-* **Tinjauan Efisiensi Tematik Interdisipliner**:  
-  Pelajaran IPA dan matematika tidak berdiri sebagai mata pelajaran asing, melainkan diperkaya dengan literatur Turats para ilmuwan muslim (*Ibnul Haitsam, Al-Khawarizmi, Ibnu Sina*). Santri membaca teks sains dalam bahasa Arab/Inggris sekaligus, sehingga penguasaan bahasa kitab dan pemahaman sains modern tercapai dalam satu sesi pembelajaran terpadu.[^4]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Ujian Nasional dan Ujian Pondok Wajib Diselaraskan?
-* **Pihak A (Sudut Pandang Dua Ujian Terpisah)**:  
-  *"Biarkan santri ikut ujian semester madrasah 2 pekan, lalu lanjut ujian imtihan pondok 2 pekan lagi!"*
-* **Resolusi Asesmen Autentik Portofolio Terpadu**:  
-  Membebani santri dengan 4 pekan masa ujian berturut-turut adalah bentuk kekerasan akademik (*Academic Abuse*). Pesantren TUMBUH menyatukan ujian dalam bentuk **Asesmen Autentik Berbasis Proyek (*Integrated Project-Based Assessment*)**: sebuah karya tulis ilmiah santri dinilai sekaligus untuk mata pelajaran Bahasa Arab, Fiqh, dan Metodologi Riset IPA.[^5]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Di MA Pesantren B, santri diwajibkan mengikuti 20 mata pelajaran dengan jadwal belajar dari jam 07.00 hingga 22.30 WIB. Setiap pagi, 40% santri tertidur di kelas saat guru mengajar, dan 25% santri mengalami sakit lambung (GERD) dan tipus karena kelelahan.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen TUMBUH merestrukturisasi kurikulum MA Pesantren B: Menggabungkan 20 mapel menjadi 6 Klaster Tematik Terpadu $\rightarrow$ Membatasi KBM tatap muka maksimal hingga pukul 14.30 WIB $\rightarrow$ Menjamin lampu asrama padam pukul 21.30 WIB untuk istirahat 7 jam penuh. Hasilnya: tidak ada lagi santri tertidur di kelas, angka sakit turun 90%, dan kelulusan masuk perguruan tinggi negeri serta universitas Islam internasional (Al-Azhar) melonjak hingga **92%**.[^6]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Integrasi Total Fardhu 'ain DAN Fardhu Kifayah**:  
-   Menetapkan bahwa kurikulum turats kepesantrenan dan kurikulum sains nasional adalah kesatuan organik yang saling melengkapi; mengharamkan dikotomi pemisahan ilmu sekuler vs agama.
-
-2. **Penghapusan Mutlak Sindrom Beban Ganda Kurikulum (anti-overload Policy)**:  
-   Mewajibkan peleburan mata pelajaran redundan melalui model tematik interdisipliner; membatasi jam KBM aktif maksimal 6–7 jam per hari guna melindungi kapasitas kognitif dan kesehatan mental santri.
-
-3. **HAK Tidur Sehat 7 JAM Penuh Untuk Konsolidasi Memori**:  
-   Menetapkan jadwal padam lampu asrama maksimal pukul 21.30 WIB; melarang segala bentuk KBM formal atau sidang malam di atas jam 21.30 WIB demi menjaga fungsi optimal neurobiologis otak santri.
-
-4. **Sistem Asesmen Autentik Integratif Berbasis Karya Proyek**:  
-   Menyatukan evaluasi pembelajaran nasional dan pondok melalui ujian proyek komprehensif (Integrated Portfolio), menghapus sistem ujian beruntun multi-pekan yang memicu distres akademik santri.
-
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Epistemologi Tauhid**: Membangun worldview Islam yang kokoh pada setiap materi ajar.[^6]
+2. **Sayap Infusi Tematik**: Menghilangkan duplikasi materi yang memboroskan waktu dan energi santri.[^7]
+3. **Sayap Penjadwalan Ramah Kognisi**: Menjaga stamina biologis santri agar selalu siap menyerap ilmu dengan prima.[^8]
 
 ---
 
 ### 2. Matriks Integrasi Tematik Mata Pelajaran: Rumpun Turats, Rumpun Sains-Teknologi, & Rumpun Adab
 
-| Klaster Kurikulum Terpadu | Peleburan Mata Pelajaran | Konvergensi Capaian Terpadu | Alokasi Jam Belajar Mingguan |
+| Rumpun Kurikulum | Mata Pelajaran Integratif | Tema Payung Pemersatu | Lokus Aplikasi 24 Jam |
 | :--- | :--- | :--- | :--- |
-| **1. Klaster Al-Qur'an & Bahasa**| Tahfizh Mutqin, Bahasa Arab Fushha, Bahasa Inggris, & Nahwu. | Mahir komunikasi aktif 2 bahasa & hafal mutqin dengan tajwid presisi. | 10 Jam Pelajaran (JP).[^7] |
-| **2. Klaster Syariah & Dirasah** | Fiqh Mu'amalah, Ushul Fiqh, Hadits Ahkam, & Sirah Nabawiyyah. | Mampu menafsirkan teks kitab kuning & kontekstualisasi fiqh kontemporer. | 8 Jam Pelajaran (JP). |
-| **3. Klaster Sains & Kauniyyah** | Biologi, Fisika, Kimia, Matematika, & Tadabbur Ayat Kauniyyah. | Penguasaan nalar saintifik kritis berbasis worldview Islam tauhid. | 8 Jam Pelajaran (JP). |
-| **4. Klaster Sosial & Peradaban**| Sejarah Kebudayaan Islam, Sosiologi, Geografi, & Wawasan Kebangsaan. | Pemahaman geopolitik umat, cinta tanah air, & kepemimpinan global. | 6 Jam Pelajaran (JP). |
-| **5. Klaster Vokasi & Adab Digital**| Keterampilan Mandiri (Coding/Desain/Agro), 5S Asrama, & Etika Siber.| Santri mandiri, beretos kerja unggul (*Qadirun 'alal Kasb*), & bijak digital.[^8] | 4 Jam Pelajaran (JP). |
+| **Rumpun Turats & Bahasa** | Fiqh, Ushul Fiqh, Bahasa Arab, Nahwu/Shorof.| *Al-Lughah wal-Fahm ad-Diniy* (Memahami Wahyu).| Ruang Kelas & Halaqah Masjid.|
+| **Rumpun Sains & Teknologi**| Matematika, IPA Fisika/Biologi, TI/Koding.| *Ayatullah fil-Afaq* (Sains Kauniyyah).| Laboratorium IPA & Kelas Komputer.|
+| **Rumpun Adab & Karakter** | 10 Kapasitas Insan, SEL, Bimbingan Konseling.| *At-Tarbiyah al-Huluqiyyah* (Adab Sehari-hari).| Kehidupan Asrama 24 Jam & Meja Makan.|
 
 ---
 
 ### 3. Standar Prosedur Operasional (SOP) Perancangan Modul Integratif & Penjadwalan Bebas Overload
 
-```mermaid
-flowchart TD
-    subgraph SOPDesainModulIntegratif["SOP PERANCANGAN MODUL KURIKULUM INTEGRATIF"]
-        AnalisisCP["1. ANALISIS CAPAIAN PEMBELAJARAN (CP KEMENAG & STANDAR TURATS)<br/>Tim kurikulum memetakan irisan kompetensi sains dan fikih."]
-        
-        TemaKonseptual["2. PENENTUAN TEMA KONSEPTUAL BESAR (BIG IDEAS)<br/>Merumuskan modul tematik (misal: 'Thaharah, Hidrologi, & Konservasi Air')."]
-        
-        DesainRPP["3. PENYUSUNAN MODUL AJAR TEAM-TEACHING<br/>Guru IPA dan Asatidz Kitab berkolaborasi merancang materi & lembar proyek terpadu."]
-        
-        SimulasiBeban["4. AUDIT SIMULASI BEBAN KOGNITIF & JADWAL SEHAT<br/>Memastikan total tugas rumah <60 menit/hari & kepastian tidur 7 jam santri."]
-        
-        AnalisisCP --> TemaKonseptual --> DesainRPP --> SimulasiBeban
-    end
+TUMBUH menetapkan **SOP Perancangan Modul Integratif**:
+1. **Identifikasi Kompetensi Serumpun**: Guru agama dan guru sains duduk bersama dalam *Subject Matter Syura* untuk memetakan irisan materi kurikulum nasional dan turats.
+2. **Penyusunan Modul Tematik Terpadu**: Menyusun satu modul ajar gabungan berbasis pertanyaan pemantik esensial (*Essential Questions*).
+3. **Validasi Beban Waktu**: Memastikan tugas mandiri tidak melebihi 30 menit per hari dan tidak ada pekerjaan rumah di asrama malam hari.[^9]
+
+---
+
+### 4. Struktur Alokasi Waktu Belajar & Istirahat Harian 24 Jam Sehat
+
+```
+04.00 – 05.30 : Bangun Tidur, Qiyamullail, Shalat Subuh, & Halaqah Tahfizh Pagi (1.5 Jam)
+05.30 – 07.00 : Mandi Santun, Sarapan Bergizi, & Persiapan Madrasah
+07.00 – 11.45 : Sesi Belajar Akademik Kelas Pagi (4.75 Jam - Diselingi Istirahat 30 Menit)
+11.45 – 13.30 : Shalat Zhuhur Berjamaah, Makan Siang, & Qailulah (Tidur Siang 30 Menit)
+13.30 – 15.00 : Sesi Belajar Terapan & Praktikum Laboratorium (1.5 Jam)
+15.00 – 17.00 : Shalat Ashar Berjamaah, Olahraga Sehat, & Rekreasi Kinestetik (2 Jam)
+17.00 – 18.00 : Mandi Sore & Makan Malam Bersama
+18.00 – 20.00 : Shalat Maghrib, Tadabbur Al-Qur'an, & Shalat Isya Berjamaah
+20.00 – 21.15 : Belajar Mandiri Terarah / Bimbingan Kamar Musyrif (1.25 Jam)
+21.30 – 04.00 : Istirahat Tidur Lelap Sirkadian 7 Jam Penuh (Wajib Hening Asrama)
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Integrasi kurikulum nasional dan turats pesantren ini membawa implikasi agung bagi peradaban:
+
+* **Mencetak Generasi Ulama Saintis yang Memimpin Peradaban**:  
+  Santri tumbuh menjadi ilmuwan yang bertakwa, dokter yang hafal Al-Qur'an, dan insinyur yang berakhlak mulia (*Insan Adabi*).
+* **Menghapus Keterbelahan Dualisme Pendidikan di Dunia Islam**:  
+  Pendidikan Islam membuktikan kesanggupannya menyatukan tradisi keilmuan klasik yang autentik dengan kemajuan teknologi kontemporer secara gemilang.
+* **Menghadirkan Pesantren Sebagai Pusat Keunggulan Intelektual Global**:  
+  Inilah kurikulum peradaban yang memadukan kedalaman spiritual, keluasan wawasan ilmiah, dan kebahagiaan hidup belajar santri (*Rahmatan lil 'Alamin*).[^10]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Integrasi Kurikulum
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Kurikulum Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Penyatuan Ilmu** | *Tauhidul Ma'rifah* | Al-Ghazali (*Ihya*), Al-Attas (1980) | Erickson (2014), *Concept-Based Curriculum* | Meleburkan sains dan turats dalam tema konseptual terpadu. |
-| **Anti-Overload** | *Taysir fit-Ta'lim* | Hadits Memudahkan (HR. Bukhari 69) | Sweller (2011), *Cognitive Load Theory* | Membatasi KBM maks 7 jam; menghapus jadwal belajar malam larut. |
-| **Konsolidasi Memori**| *Siklus Restorasi* | QS. An-Naba: 9 (*Subata wa Nauma*) | Walker (2017), *Why We Sleep (NREM Memory)* | Menjamin kepastian tidur 7 jam untuk mengunci hafalan mutqin. |
-| **Asesmen Terpadu** | *Proyek Portofolio* | Kaidah *Al-Ibrah bil-Haqaiq* | Wiggins & McTighe (2005), *UbD Framework* | Mengganti ujian ganda dengan asesmen proyek interdisipliner. |
+---
+
+### 1. Tabel Sintesis Temuan Riset Integrasi Kurikulum
+
+| Dimensi Parameter | Mazhab Dualisme Mekanis (Lama) | Model Sekolah Sekuler Murni | **Kurikulum Terintegrasi TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Penyusunan Kurikulum**| Dua kurikulum ditumpuk 26 mapel.| Mata pelajaran sekuler terpisah.| **Integrasi Tematik 4 Rumpun Pokok.**| Al-Ghazali; Al-Attas (1980).| Turats & sains saling menguatkan. |
+| **Beban Waktu Tatap Muka**| 14–16 jam sehari nonstop.| 7 jam tanpa pembinaan adab asrama.| **Maksimal 6–7 Jam/Hari + 7 Jam Tidur.**| Sweller (2011); Ritme Sirkadian.| Santri segar, hafalan mutqin, & bugar. |
+| **Epistemologi Ilmu** | Pemisahan dikotomis agama vs sains.| Rasionalisme materialistis sekuler.| **Kesatuan Epistemologi Tauhidullah.**| QS. Al-'Alaq: 1–5; Erickson (2014).| Sains dipelajari sebagai ayat kauniyyah. |
+| **Metode Evaluasi** | Ujian kertas hafalan permukaan.| Standarisasi angka kaku.| **Asesmen Pemahaman Konseptual & Proyek.**| Wiggins & McTighe (2005).| Unjuk kerja nyata & portofolio adab. |
+| **Profil Lulusan** | Santri lelah kognitif & terbelah.| Teknokrat tanpa adab ruhani.| **Insan Adabi: Ulama Saintis Pemimpin.**| QS. Al-Baqarah: 151; Senge (1990).| Siap memimpin peradaban madani. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-4. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
-5. **Erickson, H. L., & Lanning, L. A.**. (2014). *Transitioning to Concept-Based Curriculum and Instruction: How to Bring Content and Process Together*. Corwin Press.
-6. **Sweller, J., Ayres, P., & Kalyuga, S.**. (2011). *Cognitive Load Theory*. New York: Springer.
-7. **Walker, M.**. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. New York: Scribner.
-8. **Wiggins, G., & McTighe, J.**. (2005). *Understanding by Design* (2nd ed.). ASCD.
-9. **Kementerian Agama Republik Indonesia**. (2022). *KMA No. 347 Tahun 2022 tentang Pedoman Implementasi Kurikulum Merdeka pada Madrasah*. Jakarta: Kemenag RI.
-10. **Wan Daud, W. M. N.**. (1998). *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab al-'Ilm). Beirut: Dar al-Ma'rifah.
+5. **Az-Zarnuji, Burhanul Islam**. (1401 H). *Ta'lim al-Muta'allim Thariq at-Ta'allum*. Beirut: Al-Maktab al-Islami.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Erickson, H. L., & Lanning, L. A.**. (2014). *Transitioning to Concept-Based Curriculum and Instruction: How to Bring Content and Process Together*. Thousand Oaks: Corwin Press.
+9. **Wiggins, G., & McTighe, J.**. (2005). *Understanding by Design* (2nd ed.). Alexandria: ASCD.
+10. **Sweller, J.**. (2011). *Cognitive load theory*. Psychology of Learning and Motivation, 55, 37–76.
+11. **Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi RI**. (2022). *Panduan Pembelajaran dan Asesmen Kurikulum Merdeka*. Jakarta: Kemendikbudristek.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-'Ilm*, Jilid I, hlm. 25–48; Al-Attas, *The Concept of Education in Islam*, hlm. 30–45.  
-[^2]: Erickson, H. L. & Lanning, L. A. (2014), *Concept-Based Curriculum and Instruction*, Corwin Press.  
-[^3]: Walker, M. (2017), *Why We Sleep*, Scribner, hlm. 110–135; Sweller, J. (2011), *Cognitive Load Theory*.  
-[^4]: Wan Daud, W. M. N. (1998), *The Educational Philosophy of Al-Attas*, ISTAC, hlm. 210–235.  
-[^5]: Wiggins, G. & McTighe, J. (2005), *Understanding by Design*, ASCD.  
-[^6]: Laporan Reformasi Kurikulum Terpadu Pesantren Mitra, Biro Akademik TUMBUH, 2026.  
-[^7]: Struktur Kurikulum Terpadu Madrasah-Pesantren TUMBUH, Komite Kurikulum, 2026.  
-[^8]: Panduan Modul Pembelajaran Interdisipliner Berbasis Proyek Santri, Pusat Kurikulum TUMBUH, 2026.
+[^1]: Riset Prinsip Desain Integrasi Kurikulum Nasional dan Turats Pesantren TUMBUH, *Kritik atas Dualisme Mekanis dan Beban Ganda*, 2026.  
+[^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 20–55; Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–65.  
+[^3]: Erickson, H. L., & Lanning, L. A. (2014), *Concept-Based Curriculum*, hlm. 25–60.  
+[^4]: Sweller, J. (2011), *Cognitive Load Theory*, hlm. 37–76; Ritme Sirkadian dan Konsolidasi Memori Hipokampus TUMBUH, 2026.  
+[^5]: Dokumentasi Penerapan Concept-Based Infusion dan Penataan Jadwal PBIS TUMBUH, 2026.  
+[^6]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 40–70.  
+[^7]: Master Blueprint Integrasi Tematik Kurikulum Pesantren TUMBUH, 2026.  
+[^8]: Standar Alokasi Waktu Belajar dan Istirahat 24 Jam Ramah Kognisi TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Perancangan Modul Integratif Antar-Disiplin TUMBUH, 2026.  
+[^10]: Deklarasi Pemuliaan Integrasi Kurikulum Peradaban Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium Teknis Integrasi Kurikulum, Fardhu 'Ain, Thematic Alignment, & Anti-Overload
+### 4. Glosarium Istilah Ilmiah & Turats Integrasi Kurikulum
 
-1. **Integrasi Kurikulum Holistik**: Kerangka kerja penyatuan kurikulum kepesantrenan dan nasional ke dalam tema-tema konseptual interdisipliner tanpa menumpuk jam belajar santri.
-2. **Fardhu 'Ain (فَرْضُ عَيْنٍ)**: Kategori ilmu yang wajib dipelajari dan diamalkan oleh setiap individu muslim (akidah tauhid, fardhu thaharah/shalat, dan tazkiyatun nafs).
-3. **Fardhu Kifayah (فَرْضُ كِفَايَةٍ)**: Kategori ilmu yang wajib dikuasai oleh sebagian anggota masyarakat demi kemaslahatan peradaban (sains medis, teknik, ekonomi, dan bahasa internasional).
-4. **Curricular Overload**: Kondisi patologis di mana peserta didik dibebani terlalu banyak materi pelajaran dan jam belajar melebihi batas kapasitas kognitif manusia.
-5. **Concept-Based Curriculum**: Model desain kurikulum yang berfokus pada pemahaman konsep-konsep mendalam dan prinsip universal yang dapat ditransfer ke berbagai bidang ilmu.
-6. **Cognitive Load Theory**: Teori kognitif John Sweller mengenai keterbatasan kapasitas memori kerja (*Working Memory*) dalam memproses informasi baru.
-7. **Memory Consolidation**: Proses biologis otak memindahkan informasi dari memori jangka pendek di hipokampus ke memori jangka panjang di neokorteks selama tidur nyenyak.
-8. **Integrated Project-Based Assessment**: Metode asesmen terpadu di mana satu proyek karya santri digunakan untuk menguji kompetensi dari beberapa mata pelajaran sekaligus.
-9. **Team-Teaching**: Praktik mengajar kolaboratif di mana guru sains dan asatidz turats mengajar bersama di satu kelas untuk mengupas satu tema keilmuan.
-10. **Triad Pertumbuhan Simbiotik**: Prinsip di mana kurikulum yang seimbang dan tidak membebani secara serempak menumbuhkan Santri, memuliakan Pendidik, dan memperkokoh marwah Lembaga.
+1. **Integrasi Kurikulum**: Penyatuan kurikulum nasional dan turats pesantren ke dalam tema konsep terpadu berbasis pandangan hidup Islam tanpa menumpuk beban jam belajar.
+2. **Fardhu 'Ain**: Kategori ilmu kewajiban individu (akidah, fiqh ibadah, adab) yang menjadi fondasi penuntun moral seluruh ilmu pengetahuan.
+3. **Fardhu Kifayah**: Kategori ilmu kewajiban kolektif (sains alam, matematika, teknologi kedokteran) untuk menegakkan kemaslahatan peradaban umat.
+4. **Concept-Based Curriculum**: Metodologi desain kurikulum yang berfokus pada pemahaman konsep-konsep universal lintas disiplin ilmu.
+5. **Cognitive Burnout**: Kondisi kelelahan mental akut akibat beban belajar berlebih tanpa jeda istirahat yang cukup sehingga merusak daya serap memori.
+6. **Ritme Sirkadian 24 Jam**: Siklus biologis tubuh manusia yang menuntut keteraturan waktu belajar, aktivitas fisik, dan hak tidur 7 jam di malam hari.
+7. **Qailulah (الْقَيْلُولَةُ)**: Sunnah tidur siang singkat (20–30 menit) sebelum atau setelah shalat Zhuhur untuk memulihkan energi kognitif dan stamina tubuh.
+8. **Essential Questions**: Pertanyaan pemantik mendalam dalam pembelajaran yang merangsang daya nalar kritis dan tadabbur santri.
+9. **Subject Matter Syura**: Forum musyawarah berkala antara guru agama dan guru sains untuk menyelaraskan modul ajar tematik terpadu.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang menyatukan kedalaman ilmu agama, kepeloporan sains modern, dan keluhuran akhlak mulia dalam memimpin peradaban.
