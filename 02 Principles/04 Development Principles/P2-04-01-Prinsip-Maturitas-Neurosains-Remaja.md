@@ -1,318 +1,238 @@
-# P2-04-01: PRINSIP MATURITAS NEUROSAINS DAN PSIKOLOGI SANTRI REMAJA
-## *Monograf Terpadu: Eksegesis Turats Hakikat Masa Pubertas (Marhalah al-Murahaqah wa al-Bulugh dalam Tuhfat al-Mawdud Ibnu Qayyim Al-Jauziyyah), Konvergensi Dual-Systems Model of Adolescent Brain (Laurence Steinberg), Peran Musyrif Sebagai Prefrontal Cortex Eksternal, serta Mitigasi Impulsivitas dan Rekayasa Pengaruh Teman Sebaya (Peer Influence)*
+# P2-04-01: PRINSIP MATURITAS NEUROSAINS DAN PSIKOLOGI SANTRI REMAJA (ADOLESCENT NEUROSCIENCE & DEVELOPMENTAL MATURATION)
+## *Monograf Riset Akademik: Hakikat Masa Pubertas (Marhalah al-Murahaqah wa al-Bulugh dalam Tuhfat al-Mawdud), Dual-Systems Model of Adolescent Brain Laurence Steinberg, Peran Musyrif Sebagai External Prefrontal Cortex, Serta Rekayasa Pengaruh Sebaya di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P2-04-01/MONOGRAF-TERPADU-NEUROSAINS-REMAJA/2026`  
-**Domain**: `02 Principles` > `04 Development Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-04-01/MONOGRAF-RISET-NEUROSAINS-REMAJA/2026`  
+**Domain**: `02 Principles` > `04 Development Principles` (Prinsip Perkembangan 01: *Adolescent Neuroscience*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Perkembangan)  
 **Rumpun Disiplin Pengkaji**: Neurosains Kognitif Remaja (*Neurosains al-Murahaqah*), Psikologi Perkembangan Islam (*'Ilm an-Nafs an-Numuwwi*), Manajemen Perilaku Asrama 24 Jam, Dinamika Sosiologis Kelompok Sebaya Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Otak Santri Remaja Sedang Mengalami "Kesenjangan Pematangan Saraf" (*The Brain Gap*):**  
->   Banyak musyrif marah karena santri usia 12–17 tahun sering bertindak nekat, bercanda kelewatan, atau begadang mengobrol. Neurosains membuktikan ini bukan karena santri "jahat", melainkan karena **Sistem Limbik (Pusat Emosi & Sensasi Sosial) Sudah Matang Sejak Pubertas**, sedangkan **Korteks Prefrontal (Rem Logika & Kontrol Diri) Baru Matang Sempurna di Usia 25 Tahun**!
-> * **Musyrif Sebagai "Prefrontal Cortex Eksternal" (*Rem Logika Luar*):**  
->   Karena rem internal santri belum kuat, musyrif bertindak sebagai pemandu yang tenang: menyediakan jadwal teratur, mengingatkan konsekuensi secara ramah, dan hadir mendampingi di jam-jam rawan tanpa perlu membentak atau memukul.
-> * **Sensitivitas Tinggi Terhadap Pengakuan Teman Sebaya (*Peer Acceptance*):**  
->   Bagi santri remaja, pengakuan teman sekamar terasa lebih penting daripada nasihat orang tua. Pesantren mengarahkan energi ini dengan membentuk **Regu Sahabat Halaqah & Duta Kebaikan**, bukan membiarkan terbentuknya geng senioritas yang menindas.
-> * **Respon Tenang Saat Santri Berbuat Impulsif (Prinsip Firm & Kind):**  
->   Ketika santri remaja melanggar aturan, jangan dihakimi: *"Kamu memang anak nakal tak bermoral!"*. Gunakan pendekatan ilmiah: tenangkan emosinya $\rightarrow$ ajak menalar dampak tindakannya $\rightarrow$ tetapkan konsekuensi logis 4R untuk memperbaiki kerusakan.
+> * **Kelemahan Paradigma Lama: Salah Vonis "Moral Rusak" atas Kesenjangan Pematangan Otak Remaja:**  
+>   Banyak pengasuh memvonis santri usia 12–17 tahun sebagai anak "pembangkang" atau "berhati busuk" ketika bertindak impulsif atau terpengaruh teman sebaya, lalu menjatuhkan hukuman fisik dan cukur botak paksa. Tindakan ini merusak jiwa santri karena mengabaikan kenyataan biologis bahwa otak remaja sedang mengalami pematangan saraf besar-besaran.
+> * **Inovasi Konseptual: Fiqh al-Bulugh & Dual-Systems Model (Laurence Steinberg):**  
+>   TUMBUH memadukan pandangan Ibnu Qayyim Al-Jauziyyah mengenai fase *Murahaqah* dengan **Dual-Systems Model (Steinberg)**: memahami bahwa **Sistem Limbik (Pusat Emosi & Sensasi Sosial) Sudah Aktif Penuh Sejak Pubertas**, sedangkan **Korteks Prefrontal (Pusat Logika & Kendali Diri) Baru Matang Sempurna di Usia 25 Tahun**. Musyrif berperan sebagai **External Prefrontal Cortex** (pemandu eksternal yang tenang, memberi batasan terstruktur tanpa kekerasan).
+> * **Formulasi Operasional & Pembinaan Sebaya Positif:**  
+>   Monograf ini menguraikan matriks komparasi sistem limbik vs korteks prefrontal, protokol de-eskalasi impulsivitas remaja, rekayasa dinamika kelompok sebaya (*Peer Group Channeling*), dan etika pendampingan remaja 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET NEUROSAINS REMAJA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-neurosains-remaja-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Neurosains Remaja: Memahami Otak Santri Usia 12–18 Tahun Tanpa Stigmatisasi](#1-kerangka-metodologi-neurosains-remaja-memahami-otak-santri-usia-1218-tahun-tanpa-stigmatisasi)
-  - [2. Inkuiri 1: Eksegesis Turats Hakikat Usia Pubertas (Murahaqah & Bulugh) — Ibnu Qayyim & Hadits 7 Golongan](#2-inkuiri-1-eksegesis-turats-hakikat-usia-pubertas-murahaqah--bulugh--ibnu-qayyim--hadits-7-golongan)
-  - [3. Inkuiri 2: Konvergensi Dual-Systems Model of Adolescent Brain Laurence Steinberg](#3-inkuiri-2-konvergensi-dual-systems-model-of-adolescent-brain-laurence-steinberg)
-  - [4. Inkuiri 3: Peran Musyrif Sebagai Prefrontal Cortex Eksternal (Cognitive & Emotional Scaffolding)](#4-inkuiri-3-peran-musyrif-sebagai-prefrontal-cortex-eksternal-cognitive--emotional-scaffolding)
-  - [5. Inkuiri 4: Dinamika Pengaruh Kelompok Sebaya (Peer Group Dynamics & Reward Sensitivity)](#5-inkuiri-4-dinamika-pengaruh-kelompok-sebaya-peer-group-dynamics--reward-sensitivity)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Remaja, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-remaja--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Stigmatisasi Moralitas dan Pengabaian Kesenjangan Pematangan Saraf Remaja](#1-latar-belakang-masalah-kritik-atas-stigmatisasi-moralitas-dan-pengabaian-kesenjangan-pematangan-saraf-remaja)
+  - [2. Eksegesis Turats Hakikat Masa Pubertas: Marhalah al-Murahaqah wa al-Bulugh dalam Tuhfat al-Mawdud & Hadits 7 Golongan Naungan Allah](#2-eksegesis-turats-hakikat-masa-pubertas-marhalah-al-murahaqah-wa-al-bulugh-dalam-tuhfat-al-mawdud--hadits-7-golongan-naungan-allah)
+  - [3. Konvergensi Sains Perkembangan Remaja: Dual-Systems Model of Adolescent Brain Laurence Steinberg](#3-konvergensi-sains-perkembangan-remaja-dual-systems-model-of-adolescent-brain-laurence-steinberg)
+  - [4. Rekayasa Peran Musyrif Sebagai External Prefrontal Cortex & Dinamika Sensitivitas Sosial Teman Sebaya](#4-rekayasa-peran-musyrif-sebagai-external-prefrontal-cortex--dinamika-sensitivitas-sosial-teman-sebaya)
+  - [5. Kasuistika Lapangan: Kasus Kenakalan Impulsif Santri Remaja & Resolusi Neurosains Terpadu](#5-kasuistika-lapangan-kasus-kenakalan-impulsif-santri-remaja--resolusi-neurosains-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
   - [2. Matriks Komparasi Sistem Limbik vs Prefrontal Cortex & Implikasi Pendampingan Musyrif](#2-matriks-komparasi-sistem-limbik-vs-prefrontal-cortex--implikasi-pendampingan-musyrif)
   - [3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (De-Escalation Protocol)](#3-matriks-manajemen-respon-impulsivitas-remaja-berbasis-neurosains-de-escalation-protocol)
   - [4. Protokol Pendampingan Pengaruh Teman Sebaya Positif (Peer Group Channeling Protocol)](#4-protokol-pendampingan-pengaruh-teman-sebaya-positif-peer-group-channeling-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Neurosains Remaja](#1-tabel-sintesis-hasil-riset-neurosains-remaja)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Neurosains Remaja](#1-tabel-sintesis-temuan-riset-neurosains-remaja)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Neurosains Perkembangan & Psikologi Remaja](#4-glosarium-dan-penjelasan-istilah-teknis-neurosains-perkembangan--psikologi-remaja)
+  - [4. Glosarium Istilah Ilmiah & Turats Neurosains Remaja](#4-glosarium-istilah-ilmiah--turats-neurosains-remaja)
 
 ---
 
-# BAGIAN I: RISET NEUROSAINS REMAJA, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Neurosains Remaja: Memahami Otak Santri Usia 12–18 Tahun Tanpa Stigmatisasi
+### 1. Latar Belakang Masalah: Kritik atas Stigmatisasi Moralitas dan Pengabaian Kesenjangan Pematangan Saraf Remaja
 
-Dalam paradigma pengasuhan pesantren lama yang kaku, perilaku remaja seperti bercanda fisik berlebihan, mudah terprovokasi teman, atau melanggar jam tidur sering disikapi dengan **Stigmatisasi Moralitas Mutlak (*Moral Pathologization*)**:
+Dalam paradigma pengasuhan pesantren tradisional yang kaku, perilaku remaja—seperti bercanda fisik berlebihan, mudah terprovokasi teman sebaya, atau begadang malam—sering kali disikapi dengan **Stigmatisasi Moralitas Mutlak (*Moral Pathologization*)**:
 * Santri divonis "berhati busuk", "keras kepala", atau "pembangkang", lalu dijatuhi hukuman fisik yang keras seperti dipukul rotan atau digunduli di depan umum.
-* Hukuman keras tersebut tidak pernah menyelesaikan masalah; sebaliknya, santri semakin membenci pengasuh dan mencari pelampiasan kenakalan yang lebih tersembunyi.
-
-Sains modern neurobiologi membuktikan bahwa masa remaja (*Adolescence / Marhalah al-Murahaqah*) adalah masa **Rekonstruksi Otak Besar-Besaran (*Massive Neural Pruning & Myelination*)**. Memahami profil neurokognitif santri remaja adalah prasyarat mutlak bagi pengasuhan yang beradab dan efektif.
+* Hukuman keras tersebut tidak pernah menyelesaikan masalah; sebaliknya, santri semakin membenci pengasuh, memicu dendam, dan mendorong kenakalan sembunyi-sembunyi.
+* **Fakta Neurosains Perkembangan**: Masa remaja (*Adolescence / Marhalah al-Murahaqah*) adalah masa rekonstruksi otak besar-besaran (*Neural Pruning & Myelination*). Memahami profil neurokognitif santri remaja adalah prasyarat mutlak bagi pengasuhan yang beradab, berkeadilan, dan efektif.[^1]
 
 ```mermaid
 flowchart TD
     subgraph TransformasiParadigmaRemaja["TRANSFORMASI CARA PANDANG PENGASUHAN REMAJA"]
-        Stigmatisasi["PARADIGMA STIGMATISASI MORAL (LAMA)<br/>• Memandang kenakalan remaja sebagai kerusakan moral bawaan.<br/>• Respon kemarahan, hukuman fisik, & label 'santri nakal'.<br/>• Memicu dendam, perlawanan, & trauma psikologis."]
+        PolaVonisLama["VONIS MORAL & HUKUMAN FISIK (LAMA)<br/>• Santri nekat dianggap jahat/pembangkang.<br/>• Dibalas bentakan keras & cukur botak paksa.<br/>• Memicu dendam batin & perlawanan bawah tanah."]
         
-        NeurosainsTUMBUH["PARADIGMA NEUROSAINS BERADAB (TUMBUH)<br/>• Memahami kesenjangan maturasi Limbik vs Prefrontal Cortex.<br/>• Musyrif bertindak sebagai 'Prefrontal Cortex Eksternal'.<br/>• Pembinaan restoratif firm & kind membimbing kematangan diri."]
+        PolaNeurosainsTUMBUH["NEUROSAINS & MUSYRIF EXTERNAL PFC (TUMBUH)<br/>• Paham kesenjangan Limbik vs Prefrontal Cortex.<br/>• Musyrif hadir tenang sebagai rem logika eksternal.<br/>• Mengarahkan energi teman sebaya ke amal shaleh."]
         
-        Stigmatisasi ==>|TRANSFORMASI SAINTIFIK ISLAMI| NeurosainsTUMBUH
+        PolaVonisLama ==>|DIREKONSTRUKSI MENJADI| PolaNeurosainsTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Hakikat Usia Pubertas (*Murahaqah & Bulugh*) — Ibnu Qayyim & Hadits 7 Golongan
+### 2. Eksegesis Turats Hakikat Masa Pubertas: Marhalah al-Murahaqah wa al-Bulugh dalam Tuhfat al-Mawdud & Hadits 7 Golongan Naungan Allah
 
-```mermaid
-graph TD
-    A["Gugatan Pesimisme Remaja (Pihak A):<br/>'Anak remaja itu fitrahnya memang susah diatur dan perusak aturan, tidak ada gunanya dinasihati baik-baik!'"]
-    --> B1["Tinjauan Hadits Shahih Bukhari 660:<br/>Kemuliaan pemuda yang tumbuh dalam ibadah kepada Allah (Syabbun Nasya'a fi 'Ibadatillah) sebagai salah satu dari 7 golongan naungan 'Arsy."]
-    A --> B2["Tinjauan Kitab Tuhfat al-Mawdud Imam Ibnu Qayyim Al-Jauziyyah:<br/>Masa Bulugh adalah fase transisi penting di mana syahwat & fitrah bertarung menuntut bimbingan hikmah."]
-    A --> B3["Tinjauan Ihya 'Ulumiddin Imam Al-Ghazali:<br/>Jiwa anak laksana permata bersih yang siap menerima ukiran apapun; peran murabbi adalah mengukir keindahan adab."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Masa remaja adalah fase emas pembentukan fitrah yang menuntut pengasuhan penuh kelembutan & keteladanan."]
-```
+Imam Ibnu Qayyim Al-Jauziyyah (*Tuhfat al-Mawdud bi Ahkam al-Mawlud*) menguraikan bahwa masa peralihan menuju baligh (*Al-Murahaqah*) adalah fase pergolakan tabiat (*Ghalabat ath-Thabi'ah*):
+* Nafsu syahwat dan gejolak emosi mekar mendahului kematangan akal budi sempurna.
+* Oleh karena itu, pendidik dituntut memperlakukan mereka dengan kesabaran ekstra, membimbing fitrahnya, dan tidak memperlakukan mereka seperti orang dewasa yang telah matang sempurna.[^2]
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap fase perkembangan biologis remaja (*Marhalah al-Murahaqah*) yang diakui syariat Islam adalah momentum transisi fitrah menuju kematangan taklif (*Bulughul Asyudd*) yang menuntut perlindungan lingkungan suci (*Bi'ah Shalihah*) dan bimbingan pendidik yang penuh hikmah.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW memberikan kedudukan yang sangat mulia bagi pemuda yang tumbuh dalam ketaatan kepada Allah SWT (HR. Bukhari No. 660) dan memerintahkan pendampingan anak dengan ketegasan beradab tanpa kezaliman.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh sistem pengasuhan santri remaja di pesantren TUMBUH wajib berlandaskan pada prinsip kasih sayang dan pendampingan maturitas ilmiah.[^1]
+Rasulullah ﷺ menjanjikan kedudukan mulia di hari kiamat bagi pemuda yang tumbuh dalam ketaatan:
 
-#### 📖 Teks Primer Hadits Shahih Bukhari & Muslim
-Sahabat Abu Hurairah *radhiyallahu 'anhu* meriwayatkan sabda Rasulullah SAW:
+$$\text{سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لاَ ظِلَّ إِلَّا ظِلُّهُ... وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ}$$
 
-$$\text{سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ: ... وَشَابٌّ نَشَأَ فِي عِبَادَةِ رَبِّهِ}$$
-
-*"Tujuh golongan yang akan dinaungi oleh Allah di bawah naungan 'Arsy-Nya pada hari yang tiada naungan selain naungan-Nya: ... **dan seorang pemuda yang tumbuh dewasa dalam beribadah kepada Tuhannya (Syabbun Nasya'a fi 'Ibadati Rabbih)...**"* (HR. Bukhari No. 660; Muslim No. 1031).[^2]
-
-Dan Imam Ibnu Qayyim Al-Jauziyyah (w. 751 H) menjelaskan dalam *Tuhfat al-Mawdud bi Ahkam al-Mawlud*:
-
-> *"Masa baligh (*Bulugh*) adalah masa ketika potensi akal mulai merekah bersamaan dengan berkobarnya dorongan syahwat biologis. Apabila anak dibimbing oleh murabbi yang berilmu dan bijaksana dengan menanamkan adab, muraqabah, dan pembiasaan shalih, niscaya akalnya akan memimpin syahwatnya dan ia tumbuh menjadi generasi Rabbani yang mulia."* (Ibnu Qayyim, *Tuhfat al-Mawdud*, hlm. 228–235).[^3]
+*"**Tujuh golongan yang akan dinaungi oleh Allah di bawah naungan-Nya pada hari yang tiada naungan selain naungan-Nya... (salah satunya adalah) seorang pemuda yang tumbuh dalam beribadah kepada Allah**."* (HR. Al-Bukhari No. 660 & Muslim No. 1031).[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Dual-Systems Model of Adolescent Brain* Laurence Steinberg
+### 3. Konvergensi Sains Perkembangan Remaja: Dual-Systems Model of Adolescent Brain Laurence Steinberg
+
+Sains neurobiologi perkembangan (**Dual-Systems Model**, Laurence Steinberg, 2008; 2010) membuktikan terjadinya kesenjangan pematangan saraf (*The Brain Gap*):
+1. **Socioemotional System (Sistem Limbik & Amigdala)**: Pusat pencari sensasi gairah dan sensitivitas pengakuan sosial yang telah **Matang Penuh Sejak Awal Pubertas (Usia 11–13 Tahun)**.
+2. **Cognitive Control System (Korteks Prefrontal / PFC)**: Pusat penalaran logis, pertimbangan konsekuensi jangka panjang, dan kendali impuls yang **Baru Matang Sempurna di Usia Sekitar 25 Tahun**.
+* Akibatnya, santri remaja memiliki "mesin pendorong gas" yang sangat kuat, namun "pedal rem kendali diri" yang masih dalam tahap konstruksi.[^4]
+
+---
+
+### 4. Rekayasa Peran Musyrif Sebagai External Prefrontal Cortex & Dinamika Sensitivitas Sosial Teman Sebaya
+
+TUMBUH menetapkan fungsi strategis pengasuhan:
+* **Musyrif Sebagai External Prefrontal Cortex**: Karena pedal rem biologis santri belum matang, musyrif hadir menyediakan struktur jadwal yang teratur, mengingatkan batasan secara tenang, dan menjadi tempat bersandar emosi santri.
+* **Peer Group Dynamics**: Santri remaja sangat sensitif terhadap penerimaan teman sebaya (*Peer Acceptance*). Lembaga merancang kelompok halaqah kecil yang saling menguatkan kebaikan (*Bi'ah Shalihah*) guna membentengi santri dari konformitas negatif.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Kenakalan Impulsif Santri Remaja & Resolusi Neurosains Terpadu
+
+* **Studi Kasus: Sekelompok Santri Kelas 8 Memanjat Pagar Asrama Malam Hari untuk Membeli Makanan Ringan**  
+  * **Dilema**: Musyrif senior marah besar dan mengusulkan santri digunduli botak serta dijemur di depan masjid agar kapok.
+  * **Resolusi Neurosains TUMBUH**: Majelis Musyrif menolak sanksi fisik dan menerapkan pendekatan restoratif: (1) Menenangkan emosi musyrif (*Self-Regulation*); (2) Memanggil para santri dalam dialog empat mata untuk menalar risiko keselamatan (*PFC Coaching*); (3) Menetapkan konsekuensi logis: membersihkan dapur asrama selama 3 hari dan membuat kesepakatan tata tertib kamar; (4) Mengaktifkan kantin malam asrama sehat. Santri tidak lagi memanjat pagar dan hubungan ukhuwah dengan musyrif semakin erat.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
+
+Ekosistem TUMBUH merumuskan pengasuhan remaja ke dalam **Arsitektur Tiga Sayap Pendampingan Remaja (*Arkan ar-Ri'ayah an-Numuwwiyyah*)**:
 
 ```mermaid
-graph TD
-    subgraph DualSystemsModelSteinberg["DUAL-SYSTEMS MODEL OF ADOLESCENT BRAIN (LAURENCE STEINBERG)"]
-        Limbik["1. SISTEM SOSIOEMOSIONAL (LIMBIK / AMIGDALA)<br/>• Matang LEBIH DINI saat pubertas (Usia 11–13 Tahun).<br/>• Sangat peka terhadap sensasi baru, sensasi sosial, & penerimaan teman sebaya.<br/>• Memicu ledakan emosi dan keberanian mengambil risiko."]
+flowchart TD
+    subgraph ArsitekturPendampinganRemajaTUMBUH["ARSITEKTUR PENDAMPINGAN SANTRI REMAJA TUMBUH"]
         
-        PFC["2. SISTEM KONTROL KOGNITIF (PREFRONTAL CORTEX / PFC)<br/>• Matang LEBIH LAMBAT (Baru tuntas usia 20–25 Tahun).<br/>• Pusat kendali 'rem logika', perencanaan jangka panjang, & kalkulasi konsekuensi.<br/>• Masih dalam tahap konstruksi saraf (Myelination)."]
+        R1_Sayap["1. MUSYRIF SEBAGAI EXTERNAL PFC (Scaffolding Cognitive Control)<br/>Pendampingan tenang di jam rawan, penataan jadwal teratur, & rem logika santun."]
         
-        Gap["KESENJANGAN MATURASI SARAF (THE NEURAL MATURATION GAP):<br/>Ibarat Mobil dengan 'Mesin Turbo Kuat' (Limbik) namun 'Rem Belum Sempurna' (PFC)!"]
+        R2_Sayap["2. DE-ESKALASI RESPON IMPULSIF (Trauma-Informed De-escalation)<br/>Kaidah Firm & Kind: Regulasi emosi sebelum koreksi (Connection Before Correction)."]
         
-        Limbik & PFC ==> Gap
+        R3_Sayap["3. KANALISASI SEBAYA POSITIF (Positive Peer Channeling)<br/>Pemberdayaan regu halaqah ukhuwah, duta adab, & pengakuan sosial atas prestasi kebaikan."]
+        
+        R1_Sayap <===> R2_Sayap <===> R3_Sayap
     end
 ```
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap fenomena perilaku impulsif dan pencarian sensasi pada diri remaja yang berakar pada kesenjangan biologis pematangan otak (*Neurodevelopmental Asynchrony*) niscaya tidak dapat disembuhkan dengan kekerasan fisik, melainkan menuntut struktur pendampingan eksternal yang konsisten.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: *Dual-Systems Model* (Prof. Laurence Steinberg, Temple University) membuktikan bahwa sistem sosioemosional remaja berkembang jauh lebih cepat daripada sistem kontrol kognitif korteks prefrontal.
-* **Konklusi (*an-Natijah*)**: Maka, musyrif pesantren TUMBUH wajib bertindak sebagai *Prefrontal Cortex Eksternal* yang menyediakan regulasi dan batasan aman bagi santri remaja.[^4]
-
-#### 📖 Teks Sains Internasional: Prof. Laurence Steinberg (2008, 2014)
-Dalam karya seminal di *Current Directions in Psychological Science*, Steinberg merumuskan:
-
-> *"Adolescent risk-taking is the product of an interaction between two brain networks: a **socioemotional network** that becomes assertive at puberty and leads to increased reward-seeking and risk-taking, and a **cognitive control network** that matures gradually over the course of adolescence and young adulthood... **Adolescents do not engage in risky behavior because they lack knowledge of risks, but because their socioemotional system overwhelms their cognitive control system, especially in the presence of peers**."* (Steinberg, 2008, *A Social Neuroscience Perspective on Adolescent Risk-Taking*).[^5]
-
----
-
-### 4. Inkuiri 3: Peran Musyrif Sebagai "Prefrontal Cortex Eksternal" (*Cognitive & Emotional Scaffolding*)
-
-```mermaid
-graph TD
-    subgraph MusyrifSebagaiPFCExternal["PERAN MUSYRIF SEBAGAI PREFRONTAL CORTEX EKSTERNAL"]
-        RemLuar["1. REM LOGIKA EKSTERNAL: Musyrif mengingatkan aturan asrama dengan tenang saat santri mulai terbawa euforia."]
-        
-        Zonasi["2. ZONASI AMAN: Menghilangkan situasi pemicu risiko (Lorong gelap, waktu luang tanpa aktivitas terarah)."]
-        
-        Validasi["3. VALIDASI EMOSI: Mendengarkan kegelisahan santri tanpa langsung menghakimi atau menceramahi kasar."]
-        
-        Konsekuensi["4. KONSEKUENSI LOGIS 4R: Membimbing santri menanggung tanggung jawab nyata atas kekhilafannya."]
-        
-        RemLuar --- Zonasi --- Validasi --- Konsekuensi
-    end
-```
-
----
-
-### 5. Inkuiri 4: Dinamika Pengaruh Kelompok Sebaya (*Peer Group Dynamics & Reward Sensitivity*)
-
-```mermaid
-graph LR
-    subgraph RekayasaPeerPressure["TRANSFORMASI TEKANAN SEBAYA (PEER PRESSURE)"]
-        GengNegatif["PENGARUH SEBAYA LIAR (DESTRUKTIF):<br/>• Geng senioritas & perpeloncoan.<br/>• Berlomba melanggar aturan demi dianggap 'jagoan'.<br/>• Mengucilkan santri yang rajin & taat."]
-        
-        UkhuwahTUMBUH["REKAYASA SEBAYA BERADAB (KONSTRUKTIF):<br/>• Tim Halaqah Tahfizh & Regu Piket Bersaudara.<br/>• Apresiasi publik untuk kamar paling rapi & kompak.<br/>• Menjadikan ketaatan adab sebagai standar keren (Cool)."]
-        
-        GengNegatif ==>|REKAYASA SOSIAL TUMBUH| UkhuwahTUMBUH
-    end
-```
-
-#### 📖 Teks Sains Sosial: Riset Chein, Albert, O'Brien, & Steinberg (2011)
-Penelitian pencitraan otak (*fMRI*) membuktikan bahwa ketika remaja berada bersama teman sebayanya, aktivitas sirkuit dopamin di *Ventral Striatum* melonjak drastis, melipatgandakan dorongan untuk mencari sensasi pengakuan sosial. Pesantren TUMBUH memanfaatkan mekanisme biologis ini dengan **Menjadikan Pembelaan Adab dan Prestasi Bersama sebagai Sumber Pengakuan Sosial Tertinggi (*Positive Peer Norms*)**.[^6]
-
----
-
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Remaja, & Titik Temu Konsensus
-
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Remaja yang Bercanda Berlebihan Harus Ditindak Keras Agar Tidak Melunjak"
-* **Pihak A (Sudut Pandang Kekerasan Militeristik)**:  
-  *"Santri remaja kalau bercanda dorong-dorongan atau gaduh di kamar harus langsung dihukum push-up 100 kali atau dipukul biar jera!"*
-* **Tinjauan Sudut Pandang De-Eskalasi Neurosains**:  
-  Menghukum fisik atas perilaku impulsif remaja memicu pelepasan hormon kortisol dan adrenalin yang justru mengaktifkan **Respon Lawan-atau-Lari (*Fight-or-Flight*)**. Santri menjadi semakin dendam dan agresif. Respon yang benar adalah **De-eskalasi Tenang**: pisahkan santri $\rightarrow$ alirkan energi fisiknya ke olahraga $\rightarrow$ ajak refleksi adab.[^7]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Mengerti Neurosains Otak Berarti Memaklumi Segala Pelanggaran Santri?
-* **Pihak A (Sudut Pandang Kekhawatiran Permisivisme)**:  
-  *"Kalau kita maklumi otak remajanya belum matang, nanti santri bebas melanggar aturan dan musyrif tidak bisa berbuat apa-apa!"*
-* **Tinjauan Sudut Pandang Tegas Tanpa Menyakiti (*Firm & Kind Distinction*)**:  
-  Memahami neurosains **bukan berarti membiarkan pelanggaran (*Permissiveness*)**. Santri yang melanggar **Tetap Dikenakan Konsekuensi Logis 4R** (Related, Respectful, Reasonable, Restorative). Bedanya: musyrif menegakkan aturan dengan **Hati yang Tenang, Tanpa Emosi Murka, dan Tanpa Merendahkan Martabat Santri**.[^8]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Senioritas Feodal di Asrama Merusak Otak Santri Junior?
-* **Pihak A (Sudut Pandang Tradisi Pengkaderan Keras)**:  
-  *"Senioritas itu melatih mental adik kelas agar kuat menghadapi dunia luar yang kejam!"*
-* **Resolusi Sudut Pandang Neurotoksisitas Stres Kronis (Toxic Stress)**:  
-  Perpeloncoan dan ancaman senior menciptakan **Stres Toksik Kronis (*Toxic Stress*)** yang merusak struktur dendrit di hipokampus dan mengecilkan volume korteks prefrontal santri junior. Akibatnya, santri junior mengalami kecemasan sosial, penurunan daya ingat hafalan, dan kelak saat menjadi senior akan membalas dendam menindas generasi berikutnya. Senioritas feodal wajib diberantas 100%.[^9]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri F (kelas 8) tertangkap menyelinap keluar asrama malam hari untuk membeli mie instan bersama 3 temannya; musyrif lama berniat membotaki kepalanya dan memajangnya di depan masjid.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Penanganan dialihkan dengan pendekatan *Neurosains TUMBUH*. Santri F tidak dibotaki, melainkan diajak berdialog mengenai motif tindakannya (mencari sensasi seru bersama teman). Santri F dan temannya diberikan Konsekuensi Logis 4R: membantu juru masak dapur menyiapkan sarapan asrama selama 3 hari. Santri F sadar, merasa diperlakukan adil, dan tidak pernah mengulangi pelanggaran tersebut.[^10]
-
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Penghormatan Atas Fase Maturasi Otak Remaja (neurodevelopmental Respect)**:  
-   Menolak segala bentuk stigmatisasi moral dan hukuman fisik terhadap kekhilafan impulsif santri remaja. Menyadari bahwa sistem Prefrontal Cortex santri sedang dalam proses penyempurnaan biologis.
-
-2. **Penetapan Peran Musyrif Sebagai Prefrontal Cortex Eksternal**:  
-   Musyrif wajib menjalankan peran perancah kognitif (Scaffolding): menyediakan struktur aturan yang jelas, pengawasan aktif yang hangat, dan de-eskalasi emosi yang menuntun santri mengendalikan impulsivitas.
-
-3. **Rekayasa Pengaruh Kelompok Sebaya Positif (positive Peer Norms)**:  
-   Pesantren merekayasa kebutuhan pengakuan sosial remaja dengan membentuk komunitas ukhuwah, regu minat, dan halaqah sahabat yang menjadikan ketaatan adab dan prestasi sebagai standar kebanggaan bersama.
-
-4. **Penegakan Disiplin Tegas DAN Penuh Kasih Sayang (firm & Kind Restorative Discipline)**:  
-   Menegakkan kepatuhan aturan asrama melalui formula Konsekuensi Logis 4R yang mendidik tanggung jawab, mengharamkan mutlak hukuman mempermalukan (Public Shaming), pemukulan, dan senioritas feodal.
-
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Musyrif External PFC**: Memberikan perlindungan kognitif bagi santri yang sedang berproses menuju kematangan.[^7]
+2. **Sayap De-eskalasi Responsif**: Mengubah hukuman fisik menjadi momen edukasi moral yang berharga (*Teachable Moments*).[^8]
+3. **Sayap Kanalisasi Sebaya**: Memanfaatkan energi sosial remaja untuk saling berlomba dalam kebaikan (*Fastabiqul Khairat*).[^9]
 
 ---
 
 ### 2. Matriks Komparasi Sistem Limbik vs Prefrontal Cortex & Implikasi Pendampingan Musyrif
 
-| Dimensi Otak Remaja | Karakteristik Biologis & Usia Kematangan | Manifestasi Perilaku di Asrama Pesantren | Tindakan Pendampingan Tepat Musyrif TUMBUH |
+| Dimensi Sistem Otak | Karakteristik Biologis Remaja | Dampak Perilaku di Asrama | Peran Pendampingan Musyrif TUMBUH |
 | :--- | :--- | :--- | :--- |
-| **Sistem Limbik**<br/>*(Amigdala & Ventral Striatum)* | • Matang dini saat pubertas (Usia 11–13 tahun).<br/>• Pusat emosi, gairah, & sensasi penghargaan sosial (*Reward Sensitivity*). | • Mudah terprovokasi emosi.<br/>• Sangat haus pengakuan teman sebaya.<br/>• Berani mengambil risiko demi terlihat hebat. | **Penyaluran Energi Konstruktif**: Mengarahkan energi kompetitif ke turnamen olahraga, proyek kreativitas, & apresiasi ukhuwah.[^11] |
-| **Korteks Prefrontal (PFC)**<br/>*(Prefrontal Cortex)* | • Matang lambat (Baru tuntas sempurna pada usia 20–25 tahun).<br/>• Pusat kendali nalar, inhibisi impuls, & perencanaan jangka panjang. | • Sering lupa konsekuensi tindakan.<br/>• Sulit menahan godaan mengobrol malam.<br/>• Keputusan sering didorong dorongan sesaat. | **Musyrif Sebagai PFC Eksternal**: Menjaga jadwal tidur konsisten, mengingatkan batasan aturan secara teratur, & bimbingan dialogis. |
+| **Sistem Limbik (Amigdala)**| Matang cepat sejak pubertas (12–14 th).| Emosional, haus sensasi, sensitif teman.| Memberi apresiasi tulus & rasa aman batin.|
+| **Korteks Prefrontal (PFC)** | Matang lambat (sempurna usia 25 th).| Sulit menimbang akibat jangka panjang.| Menjadi "rem luar" dengan SOP & jadwal jelas.|
+| **Konektivitas Saraf** | Proses myelination sedang berlangsung.| Kadang bijak, kadang sangat kekanak-kanakan.| Sabar menghadapi fluktuasi emosi santri.|
 
 ---
 
-### 3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (*De-Escalation Protocol*)
+### 3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (De-Escalation Protocol)
 
-```mermaid
-flowchart TD
-    subgraph ProtokolDeEskalasiNeurosains["PROTOKOL DE-ESKALASI IMPULSIVITAS REMAJA"]
-        Langkah1["1. JANGAN MEMBALAS DENGAN KEMARAHAN (CO-REGULATION)<br/>Musyrif mengatur napas, merendahkan nada suara, & tidak berdiri mengintimidasi."]
-        
-        Langkah2["2. BERIKAN JEDA PENURUNAN EMOSI (COOLING DOWN 10 MENIT)<br/>Mengajak santri berwudhu atau duduk tenang agar amigdala mereda."]
-        
-        Langkah3["3. DIALOG RESTORATIF SAAT KORTEKS PREFRONTAL AKTIF KEMBALI<br/>Mengajukan pertanyaan reflektif: 'Apa yang tadi terjadi? Apa dampaknya bagi temanmu?'."]
-        
-        Langkah4["4. PENETAPAN KONSEKUENSI LOGIS 4R BERSAMA SANTRI<br/>Santri merumuskan sendiri cara memperbaiki kesalahan secara terhormat."]
-        
-        Langkah1 --> Langkah2 --> Langkah3 --> Langkah4
-    end
-```
+| Tahap De-Eskalasi | Tindakan Pengasuh yang Diharamkan | Tindakan Beradab Musyrif TUMBUH | Landasan Neurosains |
+| :--- | :--- | :--- | :--- |
+| **1. Saat Santri Marah / Nekat** | Membentak, membalas teriakan, memukul.| Menjaga nada bicara rendah & tenang.| Mencegah *Amygdala Hijack* pada santri.|
+| **2. Saat Menyelidiki Masalah**| Menginterogasi di depan santri banyak.| Mengajak dialog empat mata di ruang BK.| Menghilangkan rasa terancam martabat sosial.|
+| **3. Saat Menegakkan Batasan** | Memberi hukuman fisik / cukur botak.| Menerapkan konsekuensi logis restoratif.| Mengaktifkan penalaran korteks prefrontal.|
 
 ---
 
-### 4. Protokol Pendampingan Pengaruh Teman Sebaya Positif (*Peer Group Channeling Protocol*)
+### 4. Protokol Pendampingan Pengaruh Teman Sebaya Positif (Peer Group Channeling Protocol)
 
-```mermaid
-graph TD
-    subgraph RekayasaKelompokSebayaPositif["SOP PEER GROUP CHANNELING ASRAMA"]
-        P1["1. PEMBENTUKAN REGU UKHUWAH HETEROGEN (BUDDY SYSTEM)<br/>Memasangkan santri aktif dengan santri pendiam dalam 1 regu kamar."]
-        
-        P2["2. TRADISI LINGKARAN ADAB KAMAR (DAILY CIRCLE - 15 MENIT)<br/>Saling mengapresiasi kebaikan teman sekamar sebelum tidur malam."]
-        
-        P3["3. PEMBERDAYAAN DUTA ADAB PENGGERAK SEBAYA<br/>Memberikan rompi/lencana Duta Kebaikan bagi santri yang menolong teman."]
-        
-        P4["4. ZERO TOLERANCE ATAS PENGKASTAAN SENIOR-JUNIOR<br/>Pemberian sanksi tegas bagi santri yang mencoba membangun geng intimidasi."]
-        
-        P1 --> P2 --> P3 --> P4
-    end
-```
+TUMBUH menetapkan **Protokol Kanalisasi Kelompok Sebaya**:
+1. **Pembentukan Regu Kamar Simbiotik**: Mengombinasikan santri dari berbagai karakter agar saling melengkapi dan mencegah dominasi geng eksklusif.
+2. **Duta Kebaikan Sebaya (*Peer Ambassadors*)**: Memberikan amanah kepemimpinan bergilir kepada setiap santri untuk memimpin kebersihan kamar dan muraja'ah.
+3. **Tradisi Apresiasi Kelompok**: Memberikan pengakuan sosial publik kepada kamar yang paling rapi, kompak, dan beradab.[^10]
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Prinsip maturitas neurosains remaja ini membawa implikasi agung bagi peradaban:
+
+* **Menyelamatkan Generasi Muda Islam dari Luka Jiwa dan Trauma Pengasuhan**:  
+  Santri remaja didampingi dengan kelembutan kasih sayang dan ketegasan aturan yang adil, sehingga tumbuh menjadi pribadi yang percaya diri dan berintegritas.
+* **Membuktikan Keselarasan Ajaran Islam dengan Sains Modern**:  
+  Pesantren mampu menerjemahkan wasiat kenabian mengenai pemuliaan pemuda ke dalam praksis pengasuhan berbasis neurosains terkini.
+* **Mencetak Generasi Pemimpin Masa Depan yang Matang Emosi dan Ruhaninya**:  
+  Inilah fondasi lahirnya para ksatria dakwah yang memiliki kekuatan fisik, kecerdasan nalar, dan kematangan emosional untuk memimpin peradaban dunia (*Rahmatan lil 'Alamin*).[^11]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Neurosains Remaja
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Maturitas Saraf** | *Dual-Systems Model* | *Tuhfat al-Mawdud* Ibnu Qayyim Al-Jauziyyah | Laurence Steinberg (2008), *Adolescent Risk-Taking* | Menghapus hukuman fisik; musyrif bertindak sebagai Prefrontal Cortex Eksternal. |
-| **Sensitivitas Sosial** | *Peer Reward Sensitivity* | Hadits Shahibul Qur'an & Sahabat Shalih | Chein et al. (2011), *fMRI Peer Effect on Risk Taking* | Membentuk kultur ukhuwah kamar yang menjadikan adab sebagai norma keren bersama. |
-| **Regulasi Emosi** | *De-eskalasi Co-Regulation* | Hadits Menahan Marah & Berwudhu (HR. Abu Dawud) | Bruce Perry (2006), *Neurosequential Model of Therapeutics* | Menenangkan emosi santri terlebih dahulu sebelum mengajak menalar konsekuensi. |
-| **Penegakan Disiplin** | *Firm & Kind Restorative* | Kaidah *La Dharara wa La Dhirara* | Jane Nelsen (2006), *Positive Discipline Framework* | Menerapkan Konsekuensi Logis 4R yang relevan, mendidik, dan terhormat. |
-| **Eliminasi Toksisitas** | *Zero Bullying & Toxic Stress* | Pengharaman Menakut-nakuti Muslim (HR. Abu Dawud) | Jack Shonkoff (2012), *Toxic Stress in Child Development* | Memberantas total senioritas feodal demi menjaga kesehatan saraf otak santri. |
+---
+
+### 1. Tabel Sintesis Temuan Riset Neurosains Remaja
+
+| Dimensi Parameter | Mazhab Vonis Moral Otoriter (Lama) | Pendekatan Permisif Abai | **Neurosains Maturitas TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Pandangan Remaja** | Jiwa pembangkang yang harus dihancurkan.| Dibiarkan bebas tanpa batasan.| **Masa Rekonstruksi Otak & Kesenjangan PFC.**| Steinberg (2008); Ibnu Qayyim.| Didampingi sabar dengan batasan adil. |
+| **Peran Pengasuh** | Algojo algojo pemukul yang ditakuti.| Penonton pasif yang diabaikan.| **External Prefrontal Cortex (Rem Logika).**| Vygotsky (1978); Siegel (2014).| Hadir tenang di jam rawan & memandu. |
+| **Penanganan Impulsif**| Hukuman fisik & cukur botak paksa.| Pembiaran tanpa konsekuensi.| **De-Eskalasi Tenang & Restoratif Logis.** | HR. Muslim No. 2594; Casey.| Regulasi emosi sebelum koreksi (4R). |
+| **Kelompok Sebaya** | Tumbuh menjadi geng senioritas perpeloncoan.| Dibiarkan tanpa arahan nilai.| **Kanalisasi Regu Halaqah Duta Kebaikan.** | Bandura (1977); QS. Al-Hujurat.| Peer tutoring & saling menguatkan adab. |
+| **Hasil Institusi** | Santri trauma, munafik, & dendam.| Asrama kacau tanpa disiplin.| **Santri Matang Emosi, Beradab, & Mandiri.**| HR. Bukhari No. 660; Al-Attas.| Pemuda tangguh dinaungi Allah SWT. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Ibnu Qayyim Al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr**. (1971). *Tuhfat al-Mawdud bi Ahkam al-Mawlud*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Steinberg, L.**. (2008). *A social neuroscience perspective on adolescent risk-taking*. Developmental Review, 28(1), 78–106.
-7. **Steinberg, L.**. (2014). *Age of Opportunity: Lessons from the New Science of Adolescence*. Boston: Houghton Mifflin Harcourt.
-8. **Chein, J., Albert, D., O’Brien, L., Uckert, K., & Steinberg, L.**. (2011). *Peers increase adolescent risk taking by enhancing activity in the brain’s reward circuitry*. Developmental Science, 14(2), F1–F10.
-9. **Perry, B. D.**. (2006). *The neurosequential model of therapeutics: Applying principles of neurodevelopment to clinical work with maltreated children*. New York: Guilford Press.
-10. **Shonkoff, J. P., et al.**. (2012). *The lifelong effects of early childhood adversity and toxic stress*. Pediatrics, 129(1), e232–e246.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Ibnu Qayyim Al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr**. (1414 H). *Tuhfat al-Mawdud bi Ahkam al-Mawlud*. Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Riyadhatin Nafs). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Steinberg, L.**. (2008). *A social neuroscience perspective on adolescent risk-taking*. Developmental Review, 28(1), 78–106.
+9. **Steinberg, L.**. (2010). *A dual-systems model of adolescent risk-taking*. Developmental Psychobiology, 52(3), 216–224.
+10. **Casey, B. J., Getz, S., & Galvan, A.**. (2008). *The adolescent brain*. Developmental Review, 28(1), 62–77.
+11. **Siegel, D. J.**. (2014). *Brainstorm: The Power and Purpose of the Teenage Brain*. New York: TarcherPerigee.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Ibnu Qayyim Al-Jauziyyah, *Tuhfat al-Mawdud bi Ahkam al-Mawlud*, hlm. 228–235; Hadits Shahih Bukhari No. 660.  
-[^2]: Shahih Bukhari No. 660, Kitab *al-Adzan*, Bab *Man Jalasa fil-Masjidi Yantazhirush-Shalah*.  
-[^3]: Ibnu Qayyim, *Tuhfat al-Mawdud*, hlm. 230.  
-[^4]: Steinberg, L. (2008), *Developmental Review*, hlm. 78–106.  
-[^5]: Steinberg, L. (2014), *Age of Opportunity*, Houghton Mifflin Harcourt, hlm. 45–70.  
-[^6]: Chein et al. (2011), *Developmental Science*, hlm. F1–F10.  
-[^7]: Perry, B. D. (2006), *The Neurosequential Model of Therapeutics*, Guilford Press.  
-[^8]: Nelsen, J. (2006), *Positive Discipline*, Ballantine Books.  
-[^9]: Shonkoff, J. P. (2012), *Pediatrics*, hlm. e232–e246.  
-[^10]: Laporan Kasuistika De-Eskalasi Impulsivitas Santri Asrama, Divisi Kepengasuhan TUMBUH, 2026.  
-[^11]: Panduan Pembinaan Karakter Santri Usia Murahaqah Berbasis Neurosains, Komite PBIS TUMBUH, 2026.
+[^1]: Riset Prinsip Maturitas Neurosains dan Psikologi Santri Remaja TUMBUH, *Kritik atas Stigmatisasi Moralitas*, 2026.  
+[^2]: Ibnu Qayyim Al-Jauziyyah, *Tuhfat al-Mawdud bi Ahkam al-Mawlud*, hlm. 140–175.  
+[^3]: *Shahih al-Bukhari*, Kitab al-Adzan, Hadits No. 660; *Shahih Muslim*, Hadits No. 1031.  
+[^4]: Steinberg, L. (2008), *Developmental Review*, hlm. 78–106; Steinberg, L. (2010), *Developmental Psychobiology*, hlm. 216–224.  
+[^5]: Casey, B. J., et al. (2008), *The Adolescent Brain*, hlm. 62–77; Siegel, D. J. (2014), *Brainstorm*, hlm. 35–80.  
+[^6]: Dokumentasi Penanganan Kasus Impulsivitas Remaja dan De-Eskalasi Restoratif PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Musyrif Sebagai External Prefrontal Cortex Asrama TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur De-Eskalasi Perilaku Impulsif Santri Remaja TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Pembinaan Regu Sebaya dan Duta Adab Asrama TUMBUH, 2026.  
+[^10]: Master Guidelines Kanalisasi Kelompok Sebaya Positif Ekosistem TUMBUH, 2026.  
+[^11]: Deklarasi Pemuliaan Generasi Muda Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Neurosains Perkembangan & Psikologi Remaja
+### 4. Glosarium Istilah Ilmiah & Turats Neurosains Remaja
 
-1. **Dual-Systems Model**: Teori neurosains perkembangan remaja yang menjelaskan ketidakseimbangan waktu pematangan antara sistem sosioemosional limbik yang matang lebih awal dengan korteks prefrontal yang matang lebih lambat.
-2. **Prefrontal Cortex (Korteks Prefrontal / PFC)**: Wilayah lobus frontal otak bagian depan yang berfungsi sebagai pusat kendali eksekutif, nalar logis, pengambilan keputusan jangka panjang, dan pengendalian impuls emosi.
-3. **Sistem Limbik (Amigdala)**: Jaringan struktur saraf di dalam otak yang mengatur respon emosi dasar, sensitivitas terhadap penghargaan (*Reward*), dan reaksi instingtif bertahan hidup.
-4. **Prefrontal Cortex Eksternal**: Peran pendampingan struktural yang dijalankan oleh musyrif atau guru untuk memberikan bimbingan logika, batasan aman, dan pengawasan hangat bagi santri remaja.
-5. **Peer Reward Sensitivity**: Peningkatan aktivitas neurobiologis pencarian sensasi dan penghargaan sosial pada otak remaja ketika berada di hadapan teman sebayanya.
-6. **Co-Regulation**: Proses di mana ketenangan emosi dan nada suara pendidik membantu menenangkan sistem saraf santri yang sedang mengalami amarah atau kepanikan.
-7. **Marhalah al-Murahaqah (مَرْحَلَةُ الْمُرَاهَقَةِ)**: Istilah turats Islam untuk fase transisi usia remaja (pubertas) menuju kedewasaan taklif (*Bulugh*).
-8. **Toxic Stress (Stres Toksik)**: Respon stres berkepanjangan akibat intimidasi atau kekerasan kronis yang merusak sirkuit arsitektur otak yang sedang berkembang.
-9. **Neural Pruning**: Proses pemangkasan sinapsis saraf yang tidak terpakai di otak remaja untuk meningkatkan efisiensi pemrosesan kognitif.
-10. **Firm & Kind (Tegas dan Lembut)**: Pendekatan disiplin positif yang menghormati martabat santri (Kind) sekaligus menegakkan aturan dan batasan secara konsisten (Firm).
+1. **Dual-Systems Model**: Teori neurosains Laurence Steinberg mengenai ketidakseimbangan perkembangan antara sistem sosio-emosional (matang awal) dan sistem kontrol kognitif (matang lambat) pada remaja.
+2. **Prefrontal Cortex (PFC)**: Bagian otak depan yang bertanggung jawab atas pengendalian diri, perencanaan jangka panjang, pertimbangan moral, dan pengambilan keputusan bijak.
+3. **Sistem Limbik (Amigdala)**: Jaringan saraf otak bagian dalam yang memproses respon emosi, pencarian sensasi gairah, dan reaksi bertahan hidup.
+4. **External Prefrontal Cortex**: Peran pengasuh dan musyrif sebagai penuntun logika eksternal yang menyediakan batasan terstruktur bagi santri remaja.
+5. **Marhalah al-Murahaqah (مَرْحَلَةُ الْمُرَاهَقَةِ)**: Fase perkembangan masa remaja dalam turats Islam yang ditandai dengan perubahan fisik pubertas dan gejolak emosional.
+6. **Al-Bulugh (الْبُلُوغُ)**: Titik kedewasaan biologis dan legalitas syariat di mana seseorang mulai memikul tanggung jawab hukum taklif (*Mukallaf*).
+7. **Neural Pruning**: Proses alami otak memangkas koneksi saraf yang tidak terpakai guna meningkatkan efisiensi kerja otak pada masa remaja.
+8. **Peer Acceptance Sensitivity**: Tingginya kepekaan biologis remaja terhadap pengakuan dan penerimaan kelompok teman sebayanya.
+9. **De-escalation Protocol**: Prosedur penanganan situasi krisis emosi untuk menurunkan ketegangan secara tenang tanpa kekerasan.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil pemuda shalih yang matang akalnya, terkendali emosinya, luhur pekertinya, dan mendedikasikan masa mudanya dalam ketaatan kepada Allah SWT.

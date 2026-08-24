@@ -1,317 +1,244 @@
-# P2-04-02: PRINSIP KETERIKATAN AMAN DAN PENGASUHAN IN LOCO PARENTIS
-## *Monograf Terpadu: Epistemologi Murabbi bi Manzilatil Walid (HR. Abu Dawud & Bukhari), Konvergensi Attachment Theory John Bowlby & Mary Ainsworth (Secure Base & Safe Haven), Anatomi Separation Anxiety Santri Baru, serta Protokol Penanganan Homesickness 14 Hari Pertama di Asrama 24 Jam*
+# P2-04-02: PRINSIP KETERIKATAN AMAN DAN PENGASUHAN IN LOCO PARENTIS (SECURE ATTACHMENT & IN LOCO PARENTIS CAREGIVING)
+## *Monograf Riset Akademik: Epistemologi Murabbi bi Manzilatil Walid (HR. Abu Dawud No. 8), Attachment Theory John Bowlby & Mary Ainsworth, Anatomi Separation Anxiety, Serta Protokol Transisi Homesickness di Asrama 24 Jam*
 
-**Nomor Identifikasi**: `P2-04-02/MONOGRAF-TERPADU-ATTACHMENT-IN-LOCO-PARENTIS/2026`  
-**Domain**: `02 Principles` > `04 Development Principles`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P2-04-02/MONOGRAF-RISET-ATTACHMENT-IN-LOCO-PARENTIS/2026`  
+**Domain**: `02 Principles` > `04 Development Principles` (Prinsip Perkembangan 02: *Secure Attachment & In Loco Parentis*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Prinsip Perkembangan)  
 **Rumpun Disiplin Pengkaji**: Psikologi Kelekatan & Relasi Asrama (*Attachment Psychology*), Pengasuhan Pengganti Orang Tua (*In Loco Parentis*), Bimbingan Konseling Adaptasi Santri Baru (*Homesickness Therapy*), Fiqh Wilayah Pengasuhan Islam (*Hadhanah*)  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Musyrif Adalah "Ayah & Ibu Pengganti yang Sah" (*In Loco Parentis*):**  
->   Ketika orang tua menitipkan anaknya di pesantren, amanah pengasuhan berpindah ke pundak musyrif. Rasulullah SAW bersabda: *"Sesungguhnya kedudukanku bagi kalian adalah laksana seorang ayah bagi anaknya, aku mengajari kalian"* (HR. Abu Dawud No. 8). Musyrif bukan sekadar satpam penjaga malam, melainkan figur pelindung penuh kasih sayang.
-> * **Teori Kelekatan Aman (*Secure Attachment - John Bowlby*):**  
->   Santri yang merasa aman dan disayangi di asrama akan memiliki rasa percaya diri tinggi untuk berprestasi. Musyrif wajib menjadi:  
->   1. **Safe Haven (Pelabuhan Nyaman):** Tempat santri berlindung, menangis, dan bercerita saat sedih/sakit.  
->   2. **Secure Base (Pangkalan Aman):** Fondasi kokoh yang mendorong santri berani menghafal Qur'an dan mengeksplorasi ilmu.
-> * **Menangani Santri Baru yang Menangis Rindu Rumah (*Homesickness 14 Hari Pertama*):**  
->   Jangan pernah mengejek: *"Sudah besar kok masih cengeng menangis minta pulang!"*. Rindu orang tua (*Separation Anxiety*) adalah reaksi biologis normal. Rangkul pundaknya, dengarkan perasaannya dengan hangat, libatkan dalam permainan asrama yang seru, dan pasangkan dengan kakak asuh teladan (*Buddy System*).
-> * **Hapus Pola Asuh Dingin & Kasar (*Anti-Avoidant Attachment*):**  
->   Sikap cuek, bentakan kasar, atau mengabaikan santri yang sakit akan melahirkan santri yang mati rasa emosinya (*Avoidant*), tidak percaya pada guru, dan cenderung memberontak.
+> * **Kelemahan Paradigma Lama: Pengasuhan Dingin & Sikap Mencemooh Homesickness:**  
+>   Banyak pengurus asrama bersikap dingin layaknya sipir penjara dan mencemooh santri baru yang menangis rindu orang tua sebagai "anak manja dan cengeng". Ketiadaan kehangatan figur pengganti orang tua (*Attachment Vacuum*) memicu kecemasan perpisahan akut (*Separation Anxiety*), demam psikogenik, mogok makan, hingga trauma batin berkepanjangan.
+> * **Inovasi Konseptual: Murabbi bi Manzilatil Walid & Attachment Theory (Bowlby & Ainsworth):**  
+>   TUMBUH menegakkan sabda Rasulullah ﷺ: *"Sesungguhnya kedudukanku bagi kalian adalah laksana seorang ayah bagi anaknya, aku membimbing kalian"* (HR. Abu Dawud No. 8). Menerapkan doktrin hukum **In Loco Parentis** dan **Attachment Theory (John Bowlby)**: musyrif bertindak sebagai **Safe Haven (Pelabuhan Nyaman)** saat santri sedih dan **Secure Base (Pangkalan Aman)** yang menumbuhkan keberanian santri dalam menuntut ilmu secara mandiri.
+> * **Formulasi Operasional & Penjaminan Adaptasi 14 Hari:**  
+>   Monograf ini menguraikan matriks 4 gaya kelekatan (*Attachment Styles*), protokol adaptasi transisi santri baru 14 hari pertama (*Zero Acute Homesickness SOP*), sistem pendampingan kakak asuh (*Buddy System*), dan etika pengasuhan penuh kasih sayang 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET TEORI KELEKATAN & IN LOCO PARENTIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-teori-kelekatan--in-loco-parentis-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Pengasuhan Asrama: Dari Penjara Pengawas Menuju Rumah Penuh Kehangatan](#1-kerangka-metodologi-pengasuhan-asrama-dari-penjara-pengawas-menuju-rumah-penuh-kehangatan)
-  - [2. Inkuiri 1: Eksegesis Turats Hakikat Kasih Sayang Pengasuh — Hadits Bi Manzilatil Walid (HR. Abu Dawud) & Fiqh Hadhanah](#2-inkuiri-1-eksegesis-turats-hakikat-kasih-sayang-pengasuh--hadits-bi-manzilatil-walid-hr-abu-dawud--fiqh-hadhanah)
-  - [3. Inkuiri 2: Konvergensi Attachment Theory John Bowlby (Secure Base & Safe Haven di Asrama)](#3-inkuiri-2-konvergensi-attachment-theory-john-bowlby-secure-base--safe-haven-di-asrama)
-  - [4. Inkuiri 3: Fenomena Homesickness 14 Hari Pertama: Anatomi Separation Anxiety & Protokol Transisi Empatik](#4-inkuiri-3-fenomena-homesickness-14-hari-pertama-anatomi-separation-anxiety--protokol-transisi-empatik)
-  - [5. Inkuiri 4: Menolak Pola Kelekatan Tidak Sehat (Insecure-Avoidant & Insecure-Anxious)](#5-inkuiri-4-menolak-pola-kelekatan-tidak-sehat-insecure-avoidant--insecure-anxious)
-  - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Santri Baru, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-santri-baru--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH](#1-formulasi-konseptual-prinsip-keterikatan-aman-dan-peran-in-loco-parentis-musyrif-tumbuh)
-  - [2. Matriks 4 Gaya Kelekatan (Attachment Styles) & Pendekatan Respon Musyrif Asrama](#2-matriks-4-gaya-kelekatan-attachment-styles--pendekatan-respon-musyrif-asrama)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Kritik atas Pengasuhan Dingin dan Keterputusan Kelekatan Emosional Santri Baru](#1-latar-belakang-masalah-kritik-atas-pengasuhan-dingin-dan-keterputusan-kelekatan-emosional-santri-baru)
+  - [2. Eksegesis Turats Hakikat Pengasuhan Kasih Sayang: Hadits Bi Manzilatil Walid (HR. Abu Dawud No. 8) & Fiqh Hadhanah](#2-eksegesis-turats-hakikat-pengasuhan-kasih-sayang-hadits-bi-manzilatil-walid-hr-abu-dawud-no-8--fiqh-hadhanah)
+  - [3. Konvergensi Attachment Theory John Bowlby & Mary Ainsworth: Secure Base dan Safe Haven di Asrama](#3-konvergensi-attachment-theory-john-bowlby--mary-ainsworth-secure-base-dan-safe-haven-di-asrama)
+  - [4. Rekayasa Manajemen Homesickness 14 Hari Pertama: Anatomi Separation Anxiety & Protokol Transisi Empatik](#4-rekayasa-manajemen-homesickness-14-hari-pertama-anatomi-separation-anxiety--protokol-transisi-empatik)
+  - [5. Kasuistika Lapangan: Kasus Santri Baru Mengalami Homesickness Berat & Resolusi Kelekatan Aman](#5-kasuistika-lapangan-kasus-santri-baru-mengalami-homesickness-berat--resolusi-kelekatan-aman)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH](#1-eksplanasi-teoretis-prinsip-keterikatan-aman-dan-peran-in-loco-parentis-musyrif-tumbuh)
+  - [2. Matriks Empat Gaya Kelekatan (Attachment Styles) & Pendekatan Respon Musyrif Asrama](#2-matriks-empat-gaya-kelekatan-attachment-styles--pendekatan-respon-musyrif-asrama)
   - [3. Protokol Transisi Adaptasi Santri Baru 14 Hari Pertama (Zero Acute Homesickness SOP)](#3-protokol-transisi-adaptasi-santri-baru-14-hari-pertama-zero-acute-homesickness-sop)
-  - [4. Matriks Peran Musyrif Sebagai Secure Base & Safe Haven 24 Jam](#4-matriks-peran-musyrif-sebagai-secure-base--safe-haven-24-jam)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Keterikatan Aman & In Loco Parentis](#1-tabel-sintesis-hasil-riset-keterikatan-aman--in-loco-parentis)
+  - [4. Matriks Peran Musyrif Sebagai Secure Base & Safe Haven dalam Kehidupan 24 Jam](#4-matriks-peran-musyrif-sebagai-secure-base--safe-haven-dalam-kehidupan-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Keterikatan Aman & In Loco Parentis](#1-tabel-sintesis-temuan-riset-keterikatan-aman--in-loco-parentis)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Attachment Theory & Pengasuhan In Loco Parentis](#4-glosarium-dan-penjelasan-istilah-teknis-attachment-theory--pengasuhan-in-loco-parentis)
+  - [4. Glosarium Istilah Ilmiah & Turats Pengasuhan In Loco Parentis](#4-glosarium-istilah-ilmiah--turats-pengasuhan-in-loco-parentis)
 
 ---
 
-# BAGIAN I: RISET TEORI KELEKATAN & IN LOCO PARENTIS, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Pengasuhan Asrama: Dari Penjara Pengawas Menuju Rumah Penuh Kehangatan
+### 1. Latar Belakang Masalah: Kritik atas Pengasuhan Dingin dan Keterputusan Kelekatan Emosional Santri Baru
 
-Tantangan psikologis terbesar bagi anak usia 11–13 tahun saat pertama kali masuk pesantren adalah **Keterputusan Tiba-Tiba dari Figur Kelekatan Utama (*Abrupt Attachment Disruption*)**:
-* Santri yang terbiasa mendapatkan pelukan, kehangatan, dan rasa aman dari ayah-ibunya di rumah mendadak dipisahkan ke lingkungan asing dengan ratusan orang baru.
-* Jika di asrama mereka disambut oleh musyrif yang dingin, galak, dan memperlakukan asrama layaknya barak tahanan, santri akan mengalami **Kecemasan Perpisahan Akut (*Acute Separation Anxiety / Severe Homesickness*)**.
-* Reaksi yang muncul: demam psikogenik, menangis histeris setiap malam, mogok makan, mengunci diri di toilet, hingga nekad kabur melompati pagar asrama.
-
-Prinsip hukum dan psikologi pengasuhan menegaskan doktrin **In Loco Parentis (Berdiri Menggantikan Posisi Orang Tua Sah)**: musyrif bukan sekadar mandor pengawas aturan, melainkan figur pengasuh yang wajib memberikan kehangatan kelekatan aman (*Secure Attachment*) bagi setiap jiwa santri asuhannya.
+Tantangan psikologis terbesar bagi anak usia 11–13 tahun saat pertama kali melangkahkan kaki ke pesantren adalah **Keterputusan Mendadak dari Figur Kelekatan Utama (*Abrupt Attachment Disruption*)**:
+* Santri yang terbiasa mendapatkan kehangatan, pelukan, dan rasa aman dari orang tuanya di rumah mendadak dipisahkan ke lingkungan asing yang dihuni ratusan orang baru.
+* Jika di asrama mereka disambut oleh musyrif yang berwatak dingin, kaku, dan memperlakukan asrama layaknya barak militer, santri akan mengalami **Kecemasan Perpisahan Akut (*Acute Separation Anxiety / Severe Homesickness*)**.
+* Reaksi fisik dan emosional yang muncul: demam psikogenik, menangis histeris setiap malam, mogok makan, mengunci diri di kamar mandi, hingga dorongan nekat melarikan diri dari asrama.
+* **Keniscayaan Doktrin In Loco Parentis Berbasis Kelekatan Aman**: Musyrif bukan sekadar petugas pencatat pelanggaran, melainkan orang tua pengganti sah yang wajib memancarkan rasa aman (*Secure Attachment*) bagi setiap jiwa santri asuhannya.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiPengasuhanAsrama["TRANSFORMASI FIGUR PENGASUH ASRAMA PESANTREN"]
-        MandorDingin["PARADIGMA MANDOR PENGAWAS DINGIN (LAMA)<br/>• Musyrif hanya menegakkan sanksi & menghitung pelanggaran.<br/>• Santri yang menangis diejek 'cengeng & tidak jantan'.<br/>• Memicu Homesickness akut, isolasi sosial, & kabur pondok."]
+    subgraph TransformasiPengasuhanAsrama["TRANSFORMASI POLA PENGASUHAN ASRAMA PESANTREN"]
+        PolaDinginLama["PENGASUHAN DINGIN & MENCEMOOH HOMESICK (LAMA)<br/>• Santri menangis diejek cengeng & manja.<br/>• Musyrif bersikap layaknya sipir pengawas dingin.<br/>• Memicu kecemasan akut & trauma perpisahan."]
         
-        InLocoParentis["PARADIGMA IN LOCO PARENTIS BERADAB (TUMBUH)<br/>• Musyrif hadir sebagai sosok ayah/ibu pengganti yang hangat.<br/>• Menyediakan Safe Haven (Pelabuhan Nyaman saat Cemas).<br/>• Membangun Secure Attachment; santri betah & percaya diri."]
+        PolaInLocoParentisTUMBUH["IN LOCO PARENTIS & KELEKATAN AMAN (TUMBUH)<br/>• Hadits Bi Manzilatil Walid: Kasih sayang orang tua sah.<br/>• Musyrif sebagai Safe Haven & Secure Base 24 jam.<br/>• Protokol Transisi 14 Hari: Hangat, empatik, & Buddy System."]
         
-        MandorDingin ==>|TRANSFORMASI KASIH SAYANG NABAWI| InLocoParentis
+        PolaDinginLama ==>|DIREKONSTRUKSI MENJADI| PolaInLocoParentisTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Hakikat Kasih Sayang Pengasuh — Hadits *Bi Manzilatil Walid* (HR. Abu Dawud) & Fiqh *Hadhanah*
+### 2. Eksegesis Turats Hakikat Pengasuhan Kasih Sayang: Hadits Bi Manzilatil Walid (HR. Abu Dawud No. 8) & Fiqh Hadhanah
 
-```mermaid
-graph TD
-    A["Gugatan Pengasuhan Kering (Pihak A):<br/>'Tugas musyrif itu cuma memastikan santri shalat dan tidak melanggar aturan; tidak perlu sok dekat atau menyayangi santri seperti anak sendiri!'"]
-    --> B1["Tinjauan Hadits Shahih Abu Dawud 8:<br/>'Innama ana lakum bi manzilatil walidi u'allimukum' (Sesungguhnya kedudukanku bagi kalian laksana seorang ayah, aku mengajari kalian)."]
-    A --> B2["Tinjauan Hadits Shahih Bukhari 2699:<br/>'Al-Khalatu bi manzilatil umm' (Bibi/pengasuh berkedudukan setara dengan ibu kandung dalam hak kasih sayang & pengasuhan)."]
-    A --> B3["Tinjauan Fiqh Hadhanah (Imam An-Nawawi dalam Al-Majmu'):<br/>Kewajiban pengasuh memenuhi kebutuhan fisik, emosional, & keselamatan jiwa anak asuh."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Menjadi figur orang tua pengganti penuh kasih sayang adalah amanah syar'i primer musyrif."]
-```
+Rasulullah ﷺ meletakkan prinsip agung pengasuhan bahwa pendidik berkedudukan sebagai orang tua:
 
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap institusi pengasuhan pesantren yang menerima mandat perwalian santri di bawah umur (*Hadhanah*) niscaya memikul kewajiban syar'i untuk memperlakukan dan menyayangi santri sebagaimana kedudukan anak kandung sendiri (*Bi Manzilatil Walid*).
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW menetapkan bahwa relasi pendidik sejati dengan pembelajarnya adalah relasi kasih sayang kebapaan yang tulus dan mengayomi (HR. Abu Dawud No. 8).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh musyrif di pesantren TUMBUH wajib menjalankan peran *In Loco Parentis* dengan kehangatan empati dan perlindungan penuh.[^1]
+$$\text{إِنَّمَا أَنَا لَكُمْ بِمَنْزِلَةِ الْوَالِدِ أُعَلِّمُكُمْ}$$
 
-#### 📖 Teks Primer Hadits Shahih Abu Dawud & Al-Bukhari
-Rasulullah SAW bersabda menegaskan relasi pengasuh:
+*"**Sesungguhnya kedudukanku bagi kalian adalah laksana seorang ayah bagi anaknya, aku membimbing dan mengajari kalian**."* (HR. Abu Dawud No. 8 & An-Nasa'i No. 40).[^2]
 
-$$\text{إِنَّمَا أَنَا لَكُمْ بِمَنْزِلَةِ الْوَالِدِ، أُعَلِّمُكُمْ}$$
-
-*"**Sesungguhnya kedudukanku bagi kalian adalah laksana seorang ayah bagi anaknya**, aku senantiasa mengajari dan membimbing kalian..."* (HR. Abu Dawud No. 8; An-Nasa'i No. 40; Ibnu Majah No. 313).[^2]
-
-Dan Rasulullah SAW menegaskan prinsip pengasuhan pengganti:
-$$\text{الْخَالَةُ بِمَنْزِلَةِ الْأُمِّ}$$
-*"Bibi (pengasuh pengganti) adalah menempati kedudukan ibu kandung (dalam hak kasih sayang dan pengasuhan)."* (HR. Bukhari No. 2699; Tirmidzi No. 1904).[^3]
+Para ulama fiqh meletakkan bab **Hadhanah (الْحَضَانَةُ)**:
+* Merawat, mendidik, dan melindungi anak yang belum mandiri dari bahaya fisik dan psikologis dengan penuh kasih sayang dan kelemahlembutan (*Ar-Rahmah*).
+* Pengasuh asrama yang menerima amanah hadhanah memikul tanggung jawab syar'i dan moral untuk memastikan kesejahteraan batin santri.[^3]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Attachment Theory* John Bowlby (*Secure Base & Safe Haven* di Asrama)
+### 3. Konvergensi Attachment Theory John Bowlby & Mary Ainsworth: Secure Base dan Safe Haven di Asrama
 
-```mermaid
-graph TD
-    subgraph TeoriKelekatanBowlbyAsrama["DUA PILAR KELEKATAN AMAN ASRAMA (JOHN BOWLBY)"]
-        SafeHaven["1. SAFE HAVEN (PELABUHAN NYAMAN)<br/>• Saat santri sedih, sakit, homesick, atau gagal ujian.<br/>• Musyrif menyambut dengan pelukan, validasi emosi, & teh hangat.<br/>• Santri merasa aman untuk menangis tanpa takut dihakimi."]
-        
-        SecureBase["2. SECURE BASE (PANGKALAN EKSPLORASI)<br/>• Saat santri siap belajar, menghafal Qur'an, & berlomba.<br/>• Musyrif memberi dorongan semangat & doa restu.<br/>• Santri berani keluar mencoba hal baru karena tahu ada yang mendukung."]
-        
-        SafeHaven <===> SecureBase
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap remaja yang memiliki figur kelekatan aman (*Secure Attachment Figure*) di lingkungannya niscaya memiliki tingkat kecemasan rendah, resiliensi emosi yang kuat, dan keberanian eksplorasi akademik yang tinggi.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: *Attachment Theory* (John Bowlby, 1969; Mary Ainsworth, 1978) membuktikan bahwa fungsi *Secure Base* dan *Safe Haven* adalah kebutuhan biologis mendasar manusia untuk meregulasi sistem stres otak.
-* **Konklusi (*an-Natijah*)**: Maka, musyrif pesantren TUMBUH wajib dilatih secara profesional untuk menjadi figur kelekatan aman bagi seluruh santri asuhannya.[^4]
-
-#### 📖 Teks Sains Internasional: Prof. John Bowlby (1969, 1988)
-Dalam karya monumentalnya *A Secure Base*, John Bowlby merumuskan:
-
-> *"Attachment behavior is any form of behavior that results in a person attaining or retaining proximity to some other differentiated and preferred individual... **The provision by an attachment figure of a secure base and a safe haven from which a child or adolescent can explore the world and to which he can return when distressed is the cornerstone of healthy emotional development**."* (Bowlby, 1988, *A Secure Base: Parent-Child Attachment and Healthy Human Development*).[^5]
+Sains psikologi kelekatan modern (**Attachment Theory**, John Bowlby, 1969; Mary Ainsworth, 1978) membuktikan dua fungsi utama pengasuh:
+1. **Safe Haven (Pelabuhan Nyaman)**: Tempat santri kembali mencari perlindungan, pelukan hangat, dan ketenteraman saat merasa takut, cemas, sakit, atau sedih.
+2. **Secure Base (Pangkalan Aman)**: Pijakan kokoh yang memberikan rasa percaya diri bagi santri untuk melangkah keluar mengeksplorasi ilmu, berprestasi, dan berinteraksi sosial secara mandiri.[^4]
 
 ---
 
-### 4. Inkuiri 3: Fenomena *Homesickness* 14 Hari Pertama: Anatomi *Separation Anxiety* & Protokol Transisi Empatik
+### 4. Rekayasa Manajemen Homesickness 14 Hari Pertama: Anatomi Separation Anxiety & Protokol Transisi Empatik
+
+TUMBUH merancang fase adaptasi santri baru:
+* Mengakui bahwa rindu rumah adalah proses neurobiologis normal akibat penurunan hormon oksitosin dan lonjakan kortisol.
+* **Protokol Transisi Empatik**: (1) Sambutan kedatangan hangat; (2) Pemasangan *Buddy System* (kakak asuh pendamping kamar); (3) Aktivitas keakraban kelompok malam; (4) Fasilitasi komunikasi video call terarah dengan orang tua pada akhir pekan pertama.[^5]
+
+---
+
+### 5. Kasuistika Lapangan: Kasus Santri Baru Mengalami Homesickness Berat & Resolusi Kelekatan Aman
+
+* **Studi Kasus: Santri Kelas 7 Menangis Nonstop Selama 5 Hari dan Menolak Makan di Kantin**  
+  * **Dilema**: Musyrif senior menganggap santri cengeng dan menyuruhnya tidur di luar kamar jika terus menangis.
+  * **Resolusi Kelekatan Aman TUMBUH**: Musyrif pembina menerapkan *In Loco Parentis Care*: (1) Merangkul santri, mendengarkan curahan hatinya, dan memvalidasi perasaannya (*"Wajar sedih, ustadz dulu juga rindu orang tua"*); (2) Membawa makanan ke kamar dan makan bersama santri; (3) Mengaktifkan kakak asuh sekamar untuk mengajak bermain olahraga sore; (4) Memberi afirmasi doa dan membacakan kisah sahabat. Pada hari ke-8, tangisan santri reda total, santri mulai tertawa ceria bersama teman-temannya, dan mulai fokus menghafal Al-Qur'an.[^6]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH
+
+Ekosistem TUMBUH merumuskan pengasuhan ke dalam **Arsitektur Tiga Sayap Kelekatan Asrama (*Arkan ar-Ri'ayah al-Walidiyyah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph FaseAdaptasiEmpatik14Hari["PROTOKOL TRANSISI 14 HARI PERTAMA SANTRI BARU"]
-        Hari1_3["HARI 1–3: FASE ORIENTASI HANGAT & BUDDY SYSTEM<br/>Penyambutan ramah, pengenalan kamar, & pendampingan kakak asuh teladan."]
+    subgraph ArsitekturKelekatanTUMBUH["ARSITEKTUR KELEKATAN AMAN & IN LOCO PARENTIS TUMBUH"]
         
-        Hari4_7["HARI 4–7: FASE EMOSIONAL KRITIS (PEAK HOMESICK)<br/>Sesi lingkaran curhat malam, olahraga gembira, & video call terjadwal orang tua."]
+        A1_Sayap["1. MUSYRIF SEBAGAI SAFE HAVEN (Emotional Sanctuary)<br/>Tempat santri bercerita saat sedih, validasi emosi tanpa celaan, & pelindung raga."]
         
-        Hari8_11["HARI 8–11: FASE INTERNALISASI RITME & KELOMPOK<br/>Santri mulai terbiasa jadwal shalat berjamaah, makan bersama, & kelas halaqah."]
+        A2_Sayap["2. MUSYRIF SEBAGAI SECURE BASE (Platform of Exploration)<br/>Pendorong keberanian mandiri, penegak batasan adab yang adil, & apresiasi 4:1."]
         
-        Hari12_14["HARI 12–14: FASE INTEGRASI & PERAYAAN KELUARGA ASRAMA<br/>Malam inagurasi ukhuwah; santri merasa asrama adalah rumah keduanya."]
+        A3_Sayap["3. SISTEM PENDAMPINGAN BUDDY SYSTEM (Peer Mentorship)<br/>Pemasangan kakak asuh teladan kamar untuk memandu adaptasi 14 hari pertama."]
         
-        Hari1_3 ==> Hari4_7 ==> Hari8_11 ==> Hari12_14
+        A1_Sayap <===> A2_Sayap <===> A3_Sayap
     end
 ```
 
----
-
-### 5. Inkuiri 4: Menolak Pola Kelekatan Tidak Sehat (*Insecure-Avoidant & Insecure-Anxious*)
-
-```mermaid
-graph TD
-    subgraph EmpatGayaKelekatanAsrama["4 GAYA KELEKATAN SANTRI DI ASRAMA (AINSWORTH)"]
-        Secure["1. SECURE (Aman & Mandiri):<br/>Percaya pada musyrif, mudah berteman, beradab luhur."]
-        
-        Avoidant["2. INSECURE-AVOIDANT (Menghindar & Dingin):<br/>Menutup diri, tidak mau curhat, menganggap musyrif musuh.<br/>Pemicu: Musyrif sering membentak & mencemooh perasaan santri."]
-        
-        Anxious["3. INSECURE-ANXIOUS (Cemas & Ketergantungan):<br/>Selalu gelisah, takut ditinggal, sering menangis berlebihan.<br/>Pemicu: Pengasuhan yang tidak konsisten (kadang ramah kadang galak)."]
-        
-        Disorganized["4. DISORGANIZED (Kacau & Agresif):<br/>Perilaku merusak, memberontak, atau membeku ketakutan.<br/>Pemicu: Riwayat kekerasan fisik/verbal di masa lalu."]
-        
-        Secure --- Avoidant --- Anxious --- Disorganized
-    end
-```
+#### 🔬 Pembahasan Mendalam Tiga Sayap:
+1. **Sayap Safe Haven**: Memulihkan stabilitas hormon oksitosin dan meredakan kepanikan emosional santri.[^7]
+2. **Sayap Secure Base**: Membangun efikasi diri santri agar berani menghadapi tantangan kurikulum dan hafalan.[^8]
+3. **Sayap Buddy System**: Menciptakan iklim ukhuwah kekeluargaan yang saling menguatkan di asrama.[^9]
 
 ---
 
-### 6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Santri Baru, & Titik Temu Konsensus
+### 2. Matriks Empat Gaya Kelekatan (Attachment Styles) & Pendekatan Respon Musyrif Asrama
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Santri yang Menangis Rindu Orang Tua Harus Didiamkan Saja Biar Terbiasa"
-* **Pihak A (Sudut Pandang Pengabaian Dingin)**:  
-  *"Biarkan saja santri menangis di pojok kamar sampai capek, nanti juga diam sendiri! Kalau diladeni malah makin manja!"*
-* **Tinjauan Sudut Pandang Penanganan Trauma Pengabaian (Emotional Neglect)**:  
-  Membiarkan anak menangis ketakutan tanpa pendampingan memicu **Banjir Hormon Stres Kortisol di Otak** yang dapat merusak struktur amigdala dan menumbuhkan luka batin pengabaian (*Attachment Trauma*). Respon musyrif beradab: **Duduk di sampingnya, dengarkan kesedihannya, dan validasi perasaannya**: *"Ustadz paham kamu rindu Ibu. Wajar sekali merasa sedih. Mari kita doakan Ibu bersama-sama ya"*. Tangisan santri akan mereda dengan damai.[^6]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Terlalu Menyayangi Santri Akan Membuat Musyrif Kehilangan Wibawa?
-* **Pihak A (Sudut Pandang Wibawa Takut)**:  
-  *"Musyrif harus menjaga jarak dan pasang muka seram agar santri segan dan patuh!"*
-* **Tinjauan Sudut Pandang Wibawa Cinta (Mahabbah) vs Wibawa Takut (Khouf)**:  
-  Kepatuhan yang lahir dari **Rasa Takut (*Fear-Based Compliance*)** adalah kepatuhan palsu yang rapuh; santri patuh di depan mata namun mengutuk di belakang. Sebaliknya, kepatuhan yang lahir dari **Rasa Hormat dan Cinta (*Love-Based Authority*)** melahirkan ketaatan sejati yang tulus dan permanen seumur hidup. Inilah teladan Rasulullah SAW bersama para sahabat.[^7]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Memberikan Hak Telepon Orang Tua Terjadwal Tidak Bikin Santri Makin Cengeng?
-* **Pihak A (Sudut Pandang Isolasi Total Ekstrem)**:  
-  *"Santri baru tidak boleh kontak orang tua sama sekali selama 3 bulan pertama biar cepat mandiri!"*
-* **Resolusi Sudut Pandang Pangkalan Aman (Secure Base Connection)**:  
-  Isolasi total tanpa kabar menciptakan kepanikan emosional (*Panic Separation*). Riset membuktikan bahwa **Jadwal Video Call Singkat (10 Menit/Pekan)** memberikan kepastian psikologis (*Predictability*) bagi santri bahwa orang tuanya tetap mencintainya, sehingga santri kembali bersemangat belajar di asrama dengan tenang.[^8]
-
-> #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
-> * **Studi Kasus**: Santri A (kelas 7) mengurung diri di kamar mandi asrama dan menangis histeris selama 4 jam menuntut pulang pada hari ke-5; musyrif lama mengancam akan menghukumnya membersihkan aula.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Musyrif senior TUMBUH mengintervensi dengan *Protokol In Loco Parentis*: pintu diajak terbuka ramah, santri A diajak ke ruang konseling yang nyaman, diberikan segelas teh hangat, dan didampingi secara empati. Santri A dipasangkan dengan kakak asuh kelas 9 yang ramah. Dalam 2 hari, tangisan santri A reda total dan ia menjadi santri yang paling ceria dan aktif di halaqah.[^9]
+| Gaya Kelekatan Santri | Ciri Perilaku Santri di Asrama | Pendekatan Intervensi Musyrif TUMBUH |
+| :--- | :--- | :--- |
+| **1. Secure (Aman)** | Percaya diri, mudah bergaul, kooperatif.| Beri ruang eksplorasi & peran kepemimpinan kamar.|
+| **2. Anxious (Cemas)** | Selalu mencari perhatian, takut ditinggal, manja.| Beri kepastian afirmasi kasih sayang & jadwal teratur.|
+| **3. Avoidant (Menghindar)**| Menyendiri, dingin, menolak bantuan saat sakit.| Bangun hubungan perlahan tanpa memaksa, tunjukkan empati.|
+| **4. Disorganized (Kacau)** | Kadang agresif, kadang sangat ketakutan.| Pendampingan intensif bersama tim Konselor BK.|
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Peran Mutlak Musyrif Sebagai IN Loco Parentis (BI Manzilatil Walid)**:  
-   Setiap musyrif memikul amanah syar'i sebagai orang tua pengganti yang sah, berkewajiban mencurahkan kehangatan kasih sayang, perlindungan jasmani-ruhani, dan bimbingan adab luhur kepada setiap santri.
-
-2. **Penyediaan Secure Base & Safe Haven 24 JAM DI Asrama**:  
-   Lembaga asrama wajib berfungsi sebagai Pelabuhan Nyaman (Safe Haven) saat santri mengalami kecemasan/sakit, serta menjadi Pangkalan Aman (Secure Base) yang menumbuhkan keberanian santri bereksplorasi ilmu.
-
-3. **Protokol Empati Penanganan Homesickness 14 Hari Pertama (zero Emotional Neglect)**:  
-   Mengharamkan mutlak pencemoohan, hukuman, atau pengabaian terhadap santri baru yang mengalami rindu rumah. Wajib menerapkan pendampingan empatik bertahap, Buddy System, dan sesi lingkaran ukhuwah kamar.
-
-4. **Budaya Kelekatan Aman Berlandaskan Mahabbah & Wibawa Beradab**:  
-   Menghapus total gaya pengasuhan dingin, kasar, dan menjaga jarak semu. Menegakkan wibawa pengasuhan yang berakar pada keteladanan qudwah hasanah, kelembutan tutur kata, dan keadilan penegakan aturan.
-
-
----
-
-### 2. Matriks 4 Gaya Kelekatan (*Attachment Styles*) & Pendekatan Respon Musyrif Asrama
-
-| Gaya Kelekatan Santri | Ciri Perilaku yang Tampak di Asrama | Kebutuhan Psikologis Terdalam | Strategi Pendampingan Khusus Musyrif TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **1. Secure**<br/>*(Kelekatan Aman)* | • Ceria, percaya diri, mudah bergaul.<br/>• Terbuka menceritakan masalah kepada musyrif.<br/>• Disiplin mematuhi aturan asrama. | Butuh ruang eksplorasi, apresiasi, & peran kepemimpinan. | **Pemberdayaan**: Memberikan peran sebagai Duta Adab kamar atau ketua regu belajar.[^10] |
-| **2. Insecure-Avoidant**<br/>*(Menghindar / Dingin)* | • Menyendiri, tampak tidak peduli aturan.<br/>• Menolak bantuan & enggan menatap mata musyrif.<br/>• Menyimpan kemarahan secara pasif-agresif. | Butuh rasa aman bahwa ia tidak akan dihakimi atau ditolak. | **Pendekatan Bertahap Tanpa Pemaksaan**: Menyapa ramah setiap hari, membangun kepercayaan lewat tindakan nyata, & tidak memojokkan. |
-| **3. Insecure-Anxious**<br/>*(Cemas / Menempel)* | • Sangat sering menangis mencari perhatian.<br/>• Takut berbuat salah; cemas berlebihan.<br/>• Sulit tidur sendirian di malam hari. | Butuh kepastian kehadiran pengasuh (*Reassurance*) & rutinitas teratur. | **Pemberian Kepastian Rutin**: Memberikan jadwal harian yang pasti, mendampingi saat menjelang tidur, & apresiasi keberanian kecil. |
-| **4. Disorganized**<br/>*(Kacau / Trauma)* | • Emosi meledak-ledak tanpa pemicu jelas.<br/>• Terkadang sangat manis, terkadang sangat agresif.<br/>• Riwayat pola asuh keras di rumah. | Butuh lingkungan yang stabil, tenang, & bebas kekerasan 100%. | **Rujukan Konseling Khusus BK (Tier 3 PBIS)**: Pendampingan intensif oleh konselor psikologi pesantren dengan terapi naratif restoratif.[^11] |
-
----
-
-### 3. Protokol Transisi Adaptasi Santri Baru 14 Hari Pertama (*Zero Acute Homesickness SOP*)
+### 3. Protokol Transisi Adaptasi Santri Baru 14 Hari Pertama (Zero Acute Homesickness SOP)
 
 ```mermaid
 flowchart TD
-    H1["HARI 1: PENYAMBUTAN HANGAT (WELCOME HOME CEREMONY)<br/>Musyrif menyambut santri di depan kamar, membantu menata lemari, & doa bersama."]
-    
-    H2["HARI 2–4: PROGRAM KAKAK ASUH SEBAYA (BUDDY MENTORING)<br/>Santri baru didampingi 1 kakak kelas teladan untuk diajak ke masjid & kantin."]
-    
-    H3["HARI 5–7: MALAM LINGKARAN CERITA & GAMES TA'ARUF (PEAK HOMESICK WINDOW)<br/>Permainan asrama seru, sesi teh manis hangat, & video call singkat ke orang tua."]
-    
-    H4["HARI 8–14: INTERNALISASI PERAN & INAGURASI KELUARGA BESAR KAMAR<br/>Pemberian selempang 'Santri Mandiri' & pentas kebersamaan kamar asrama."]
-    
-    H1 --> H2 --> H3 --> H4
-```
-
----
-
-### 4. Matriks Peran Musyrif Sebagai *Secure Base* & *Safe Haven* 24 Jam
-
-```mermaid
-graph TD
-    subgraph MatriksPeranMusyrif24Jam["PERAN MUSYRIF SEBAGAI DUA SAYAP KELEKATAN"]
-        SB["SAYAP 1: SECURE BASE (PANGKALAN MANDIRI)<br/>• Pagi Hari: Melepas santri ke madrasah dengan senyuman & doa sukses.<br/>• Sore Hari: Mendampingi olahraga & menyemangati hafalan Qur'an.<br/>• Mengajarkan kemandirian merapikan kasur & mencuci pakaian."]
-        
-        SH["SAYAP 2: SAFE HAVEN (PELABUHAN KASIH SAYANG)<br/>• Siang Hari: Menyambut santri pulang kelas yang lelah dengan sapaan hangat.<br/>• Malam Hari: Mengusap punggung santri yang sakit di UKS & menyuapi makan.<br/>• Mendengarkan keluh kesah santri yang berselisih tanpa memarahi."]
-        
-        SB <===> SH
+    subgraph SOPTransisi14Hari["SOP TRANSISI ADAPTASI 14 HARI PERTAMA"]
+        Hari1_3["1. HARI 1–3 (Penyambutan Hangat): Penataan Kamar Bersama Musyrif, Ice Breaking, & Pengenalan Buddy System"]
+        --> Hari4_7["2. HARI 4–7 (Stabilisasi Emosi): Aktivitas Keakraban Asrama, Validasi Homesick, & Video Call Perdana"]
+        --> Hari8_10["3. HARI 8–10 (Habituasi Rutinitas): Pembiasaan Jadwal Ibadah Bersama dengan Rasio Apresiasi 4:1"]
+        --> Hari11_14["4. HARI 11–14 (Kemandirian Penuh): Santri Aktif Belajar & Terintegrasi Sempurna dalam Budaya Pesantren"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 4. Matriks Peran Musyrif Sebagai Secure Base & Safe Haven dalam Kehidupan 24 Jam
+
+| Siklus 24 Jam | Manifestasi Peran Safe Haven (Pelindung) | Manifestasi Peran Secure Base (Pendorong) |
+| :---: | :--- | :--- |
+| **Pagi (04.00–07.00)** | Membangunkan dengan usapan hangat & wudhu ramah.| Mendorong santri shalat Subuh berjamaah tepat waktu.|
+| **Siang (12.00–14.00)**| Menanyakan kabar santri saat makan siang di kantin.| Mempersiapkan mental santri untuk sesi madrasah siang.|
+| **Sore (16.00–18.00)**| Mendengarkan keluhan lelah santri ba'da olahraga.| Mendampingi muraja'ah tahfizh bersama teman sebaya.|
+| **Malam (20.00–22.00)**| Menemani santri sakit & memeriksa selimut kamar.| Mengapresiasi keberhasilan belajar mandiri malam.|
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Keterikatan Aman & In Loco Parentis
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Pengasuhan Asrama |
-| :--- | :--- | :--- | :--- | :--- |
-| **Mandat Pengasuhan** | *In Loco Parentis* | Hadits *Bi Manzilatil Walid* (HR. Abu Dawud No. 8) | *Legal & Ethical In Loco Parentis Doctrine* | Musyrif memikul tanggung jawab hukum dan moral sebagai orang tua pengganti sah. |
-| **Kelekatan Aman** | *Attachment Theory* | Kaidah *Al-Khalatu bi Manzilatil Ummi* | John Bowlby (1969), *Attachment and Loss* | Menyediakan fungsi *Secure Base* dan *Safe Haven* bagi kestabilan emosi santri. |
-| **Adaptasi Awal** | *Separation Anxiety / Homesick* | Atsar Kasih Sayang Salaf kepada Anak Yatim/Gharib | Thurber & Walton (2012), *Homesickness and Adjustment* | Menerapkan protokol pendampingan 14 hari pertama bebas pengabaian emosional. |
-| **Gaya Relasi** | *Attachment Styles Intervention* | Kaidah *Khatibun Nasi 'ala Qadri 'Uqulihim* | Mary Ainsworth (1978), *Patterns of Attachment* | Menyesuaikan respon pendampingan bagi santri avoidant, anxious, dan disorganized. |
-| **Otoritas Beradab** | *Love-Based Authority* | Wasiat *Ihya 'Ulumiddin* (Kasih Sayang Murabbi) | Baumrind (1991), *Authoritative Parenting Style* | Menegakkan disiplin tegas yang berakar pada kehangatan cinta dan keteladanan. |
+Prinsip keterikatan aman dan pengasuhan in loco parentis ini membawa implikasi agung bagi peradaban:
+
+* **Menghapus Trauma Perpisahan dan Membangun Kesehatan Mental Generasi Muda**:  
+  Pesantren bertransformasi menjadi rumah kedua yang penuh cinta kasih, membentengi santri dari depresi, kecemasan, dan kenakalan remaja.
+* **Membangkitkan Karakter Pemimpin yang Penuh Welas Asih (*Compassionate Leaders*)**:  
+  Santri yang dibesarkan dalam naungan kelekatan aman akan tumbuh menjadi pemimpin yang berempati tinggi, adil, dan mengayomi rakyatnya.
+* **Mewujudkan Kembali Kehangatan Tradisi Pengasuhan Nabawiyyah**:  
+  Inilah ruh pesantren sejati: hubungan guru dan santri bukan sekadar transaksi birokrasi, melainkan ikatan ruhani kebapakan yang kekal hingga akhirat (*Rahmatan lil 'Alamin*).[^10]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Keterikatan Aman & In Loco Parentis
+
+| Dimensi Parameter | Mazhab Pengasuhan Dingin (Lama) | Model Asrama Komersial Transaksional | **In Loco Parentis & Attachment TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Status Musyrif** | Mandor penjaga malam yang ditakuti.| Staf pelayanan fasilitas berbayar.| **Murabbi bi Manzilatil Walid (Orang Tua Sah).**| HR. Abu Dawud No. 8; Fiqh Hadhanah.| Pengasuh pelindung penuh kasih sayang. |
+| **Respon Homesick** | Dicemooh cengeng & dibiarkan menangis.| Formalitas medis obat tidur.| **Validasi Empati & Protokol Transisi 14 Hari.**| Bowlby (1969); Thurber (2007).| Safe Haven, pelukan hangat, & Buddy System. |
+| **Pola Relasi Asrama**| Otoriter menekan & rasa takut.| Individualistis eksklusif.| **Kelekatan Aman (Secure Attachment).** | Ainsworth (1978); Siegel (2014).| Secure Base santri berani berprestasi. |
+| **Penanganan Sakit** | Santri dibiarkan di kamar sendirian.| Ditagihkan biaya tambahan perawatan.| **UKS Siaga, Diantar Makan, & Dihibur.** | HR. Bukhari (Merawat Sakit); WHO.| Rawat penuh kasih & notifikasi santun wali. |
+| **Hasil Institusi** | Santri trauma, dendam, & kabur.| Hubungan dingin pasca-lulus.| **Ukhuwah Ruhani Abadi & Mental Bugar.** | QS. At-Taubah: 128; Al-Attas (1980).| Santri mandiri, cinta pondok, & beradab. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Abu Dawud, Sulaiman bin al-Asy'ats as-Sijistani**. (2009). *Sunan Abi Dawud*. Damaskus: Dar ar-Risalah.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **An-Nawawi, Abu Zakariya Yahya bin Syaraf**. (2005). *Al-Majmu' Syarh al-Muhadzdzab*. Kairo: Dar al-Hadits.
-7. **Bowlby, J.**. (1969). *Attachment and Loss: Vol. 1. Attachment*. New York: Basic Books.
-8. **Bowlby, J.**. (1988). *A Secure Base: Parent-Child Attachment and Healthy Human Development*. New York: Basic Books.
-9. **Ainsworth, M. D. S., et al.**. (1978). *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale, NJ: Erlbaum.
-10. **Thurber, C. A., & Walton, E. A.**. (2012). *Homesickness and adjustment in boarding schools and summer camps*. Children's Health Care, 41(1), 41–60.
-11. **Baumrind, D.**. (1991). *The influence of parenting style on adolescent competence and substance use*. The Journal of Early Adolescence, 11(1), 56–95.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani**. (1430 H). *Sunan Abi Dawud*. Riyadh: Dar al-Hadharah.
+3. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+4. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Adab al-Ulfah wal-Ukhuwwah). Beirut: Dar al-Ma'rifah.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+7. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+8. **Bowlby, J.**. (1969/1982). *Attachment and Loss: Vol. 1. Attachment* (2nd ed.). New York: Basic Books.
+9. **Ainsworth, M. D. S., et al.**. (1978). *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale: Lawrence Erlbaum.
+10. **Thurber, C. A., & Walton, E. A.**. (2007). *Preventing and treating homesickness*. Pediatrics, 119(1), 192–201.
+11. **Siegel, D. J., & Bryson, T. P.**. (2012). *The Whole-Brain Child*. New York: Bantam.
+12. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab*, Kitab *al-Hadhanah*, Jilid XVIII, hlm. 320–335.  
-[^2]: Sunan Abi Dawud No. 8, Kitab *ath-Thaharah*, Bab *Karahiyatistidbari al-Qiblati 'indal-Hajah*.  
-[^3]: Shahih Bukhari No. 2699, Kitab *ash-Shulh*, Bab *Kaifa Yuktabu Hadza ma Shalaha Fulan*.  
-[^4]: Bowlby, J. (1969), *Attachment and Loss*, Basic Books.  
-[^5]: Bowlby, J. (1988), *A Secure Base*, Basic Books, hlm. 11–25.  
-[^6]: Thurber & Walton (2012), *Children's Health Care*, hlm. 41–60.  
-[^7]: Baumrind, D. (1991), *The Journal of Early Adolescence*, hlm. 56–95.  
-[^8]: Laporan Evaluasi Adaptasi Psikologis Santri Baru, Pusat Layanan Konseling Pesantren TUMBUH, 2026.  
-[^9]: Notulensi Studi Kasus Resolusi Homesickness Akut Asrama, Komite Pengasuhan TUMBUH, 2026.  
-[^10]: Ainsworth et al. (1978), *Patterns of Attachment*, Erlbaum.  
-[^11]: Standar Operasional Prosedur Penanganan Santri Attachment Trauma Tier 3, Divisi BK TUMBUH, 2026.
+[^1]: Riset Prinsip Keterikatan Aman dan Pengasuhan In Loco Parentis TUMBUH, *Kritik atas Pengasuhan Dingin dan Separation Anxiety*, 2026.  
+[^2]: *Sunan Abi Dawud*, Kitab ath-Thaharah, Hadits No. 8; *Sunan an-Nasa'i*, Hadits No. 40.  
+[^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Ukhuwwah*, hlm. 140–185.  
+[^4]: Bowlby, J. (1969/1982), *Attachment and Loss*, hlm. 45–95; Ainsworth, M. D. S., et al. (1978), *Patterns of Attachment*.  
+[^5]: Thurber, C. A., & Walton, E. A. (2007), *Pediatrics*, hlm. 192–201; Siegel, D. J., & Bryson, T. P. (2012), *The Whole-Brain Child*.  
+[^6]: Dokumentasi Pendampingan Santri Baru dan Eradikasi Acute Homesickness PBIS TUMBUH, 2026.  
+[^7]: Master Blueprint Musyrif Safe Haven dan Kesejahteraan Emosional Asrama TUMBUH, 2026.  
+[^8]: Blueprint Musyrif Secure Base dan Kemandirian Santri TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Buddy System dan Kakak Asuh Kamar Asrama TUMBUH, 2026.  
+[^10]: Deklarasi Pemuliaan Kasih Sayang In Loco Parentis Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Attachment Theory & Pengasuhan In Loco Parentis
+### 4. Glosarium Istilah Ilmiah & Turats Pengasuhan In Loco Parentis
 
-1. **In Loco Parentis (فِي مَقَامِ الْوَالِدَيْنِ)**: Doktrin hukum dan etika pengasuhan di mana musyrif memegang wewenang, hak, dan kewajiban pengasuhan sah menggantikan orang tua kandung selama santri berada di pesantren.
-2. **Secure Attachment (Kelekatan Aman)**: Ikatan emosional positif dan sehat antara santri dan pengasuh yang memberikan rasa aman, percaya diri, dan keberanian bereksplorasi.
-3. **Safe Haven (Pelabuhan Nyaman)**: Peran pengasuh sebagai tempat perlindungan yang hangat dan menenangkan saat santri mengalami ketakutan, kesedihan, atau stres.
-4. **Secure Base (Pangkalan Aman)**: Peran pengasuh sebagai landasan kokoh yang memberikan dorongan keyakinan bagi santri untuk belajar mandiri dan berprestasi.
-5. **Separation Anxiety (Kecemasan Perpisahan)**: Reaksi emosional alami berupa kegelisahan dan ketakutan yang dialami anak saat dipisahkan dari figur kelekatan utamanya (orang tua).
-6. **Homesickness**: Gejala stres psikologis dan kerinduan mendalam terhadap rumah dan keluarga yang lazim dialami santri baru di awal masa tinggal di asrama.
-7. **Buddy System (Sistem Kakak Asuh Sebaya)**: Metode pendampingan di mana santri baru dipasangkan dengan santri senior teladan untuk memandu adaptasi kehidupan asrama.
-8. **Insecure-Avoidant**: Gaya kelekatan di mana santri menekan emosinya, enggan meminta bantuan, dan menjaga jarak dingin dari pengasuh akibat pengalaman penolakan masa lalu.
-9. **Insecure-Anxious**: Gaya kelekatan di mana santri mengalami kecemasan tinggi, sangat takut ditolak, dan terus-menerus menuntut perhatian pengasuh.
-10. **Hadhanah (الْحَضَانَةُ)**: Istilah fiqh Islam untuk hak dan kewajiban pemeliharaan, penjagaan, dan pendidikan anak di bawah umur yang belum mampu mengurus dirinya sendiri.
+1. **In Loco Parentis**: Doktrin hukum dan etika pengasuhan di mana lembaga dan musyrif memegang tanggung jawab legal dan moral sebagai orang tua pengganti sah bagi santri.
+2. **Murabbi bi Manzilatil Walid (الْمُرَبِّي بِمَنْزِلَةِ الْوَالِدِ)**: Konsep kenabian agung bahwa kedudukan pendidik dan pengasuh bagi muridnya adalah laksana ayah kandung yang mendidik dengan penuh kasih sayang.
+3. **Secure Attachment (Kelekatan Aman)**: Ikatan emosional positif dan mendalam antara santri dengan musyrif yang melahirkan rasa percaya diri, ketenteraman batin, dan kemandirian.
+4. **Safe Haven**: Peran pengasuh sebagai pelabuhan aman tempat santri mencari ketenteraman emosional saat menghadapi kesedihan, rasa takut, atau kelelahan.
+5. **Secure Base**: Peran pengasuh sebagai pangkalan aman yang memberikan landasan percaya diri bagi santri untuk menjelajahi ilmu dan berprestasi.
+6. **Separation Anxiety**: Reaksi kecemasan psikobiologis alami anak saat terpisah dari orang tua atau rumah tempat tinggal asalnya.
+7. **Acute Homesickness**: Sindrom kerinduan mendalam terhadap rumah yang dialami santri baru pada fase awal masa adaptasi di pesantren.
+8. **Buddy System (Sistem Kakak Asuh)**: Pemasangan santri senior teladan untuk mendampingi dan membimbing santri baru selama 14 hari pertama masa transisi.
+9. **Hadhanah (الْحَضَانَةُ)**: Tanggung jawab pemeliharaan, pengasuhan fisik, dan perlindungan moral anak dalam fiqh Islam.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang sehat psikologisnya, penuh kasih sayang kepada sesama, dan memiliki kematangan adab luhur sejati.
