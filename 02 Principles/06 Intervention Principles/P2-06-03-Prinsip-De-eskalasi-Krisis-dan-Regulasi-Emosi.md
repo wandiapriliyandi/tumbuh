@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Pemetaan 6 Fase Siklus Krisis Perilaku Geoff Colvin (Calm hingga Recovery)](#4-inkuiri-3-pemetaan-6-fase-siklus-krisis-perilaku-geoff-colvin-calm-hingga-recovery)
   - [5. Inkuiri 4: Menolak Jebakan Eskalasi Bersama (Co-Escalation vs Co-Regulation Musyrif)](#5-inkuiri-4-menolak-jebakan-eskalasi-bersama-co-escalation-vs-co-regulation-musyrif)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Krisis Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-krisis-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-de-eskalasi-krisis-dan-sifat-hilm-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-de-eskalasi-krisis-dan-sifat-hilm-pesantren-tumbuh)
   - [2. Matriks Protokol Tindakan Musyrif pada 6 Fase Siklus Krisis Perilaku](#2-matriks-protokol-tindakan-musyrif-pada-6-fase-siklus-krisis-perilaku)
   - [3. Protokol 3R Bruce Perry (Regulate -> Relate -> Reason) dalam Penanganan Emosi Santri](#3-protokol-3r-bruce-perry-regulate---relate---reason-dalam-penanganan-emosi-santri)
   - [4. Standar Operasional Prosedur De-Eskalasi Krisis Asrama 24 Jam (Zero Restraint SOP)](#4-standar-operasional-prosedur-de-eskalasi-krisis-asrama-24-jam-zero-restraint-sop)
@@ -183,13 +183,13 @@ Teori Polivagal Prof. Stephen Porges membuktikan bahwa sistem saraf otonom manus
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Kekerasan Fisik & Eskalasi Bersama (zero Restraint & Anti-co-escalation)**:  
    Mengharamkan mutlak tindakan membalas amarah santri dengan bentakan, pemukulan, penguncian fisik berbahaya (Prone Restraint), atau tindakan intimidasi apapun saat menghadapi krisis emosional.

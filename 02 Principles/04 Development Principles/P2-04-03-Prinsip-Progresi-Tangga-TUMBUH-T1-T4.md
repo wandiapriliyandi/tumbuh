@@ -31,8 +31,8 @@
   - [4. Inkuiri 3: Arsitektur 4 Tangga Progresi TUMBUH (T1 Tertib, T2 Unggul, T3 Mandiri, T4 Bijak)](#4-inkuiri-3-arsitektur-4-tangga-progresi-tumbuh-t1-tertib-t2-unggul-t3-mandiri-t4-bijak)
   - [5. Inkuiri 4: Mekanisme Transisi & Kriteria Kenaikan Tangga Berbasis Portofolio Adab Otentik](#5-inkuiri-4-mekanisme-transisi--kriteria-kenaikan-tangga-berbasis-portofolio-adab-otentik)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Berjenjang, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-berjenjang--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren](#1-kaidah-utama-dan-standar-baku-prinsip-progresi-tangga-tumbuh-t1-t4-pesantren)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren](#1-formulasi-konseptual-prinsip-progresi-tangga-tumbuh-t1-t4-pesantren)
   - [2. Matriks Komparasi 4 Tangga TUMBUH: Profil Karakter, Target Capaian, & Pola Pendampingan](#2-matriks-komparasi-4-tangga-tumbuh-profil-karakter-target-capaian--pola-pendampingan)
   - [3. Matriks Diferensiasi Wewenang & Tanggung Jawab Santri Lintas Jenjang Kelas](#3-matriks-diferensiasi-wewenang--tanggung-jawab-santri-lintas-jenjang-kelas)
   - [4. Protokol Asesmen Kenaikan Tangga TUMBUH (Tangga Advancement Protocol)](#4-protokol-asesmen-kenaikan-tangga-tumbuh-tangga-advancement-protocol)
@@ -180,13 +180,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren
+### 1. Formulasi Konseptual: Prinsip Progresi Tangga TUMBUH T1–T4 Pesantren
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Diferensiasi Pengasuhan Berjenjang (developmental Differentiation Mandate)**:  
    Menolak mutlak penyeragaman pola asuh lintas usia. Setiap jenjang kelas wajib dibimbing selaras dengan profil dan kebutuhan psikososial fitrahnya melintasi Tangga T1, T2, T3, dan T4.

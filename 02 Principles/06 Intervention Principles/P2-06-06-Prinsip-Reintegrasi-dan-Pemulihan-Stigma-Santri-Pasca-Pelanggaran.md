@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Konvergensi Reintegrative Shaming Theory (John Braithwaite) & Labeling Theory (Howard Becker)](#3-inkuiri-2-konvergensi-reintegrative-shaming-theory-john-braithwaite--labeling-theory-howard-becker)
   - [4. Inkuiri 3: Protokol Clean Slate (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunal](#4-inkuiri-3-protokol-clean-slate-pemutihan-rekam-jejak--upacara-penerimaan-kembali-komunal)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-reintegrasi-anti-stigmatisasi-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH](#1-formulasi-konseptual-standar-reintegrasi-anti-stigmatisasi-pesantren-tumbuh)
   - [2. Matriks 3 Fase Reintegrasi: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh](#2-matriks-3-fase-reintegrasi-fase-penyesuaian-fase-pembuktian--fase-pemulihan-penuh)
   - [3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak & Upacara Penerimaan Kembali](#3-standar-prosedur-operasional-sop-pemutihan-rekam-jejak--upacara-penerimaan-kembali)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -147,13 +147,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Reintegrasi & Anti-Stigmatisasi Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Mutlak Stigmatisasi (zero Stigmatization Policy)**:  
    Mengharamkan segala bentuk pelabelan negatif, sindiran masa lalu, dan pengucilan sosial terhadap santri yang telah menyelesaikan proses pertanggungjawaban restoratif dan bertobat dengan tulus.

@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Dialektika Ketegasan dan Kasih Sayang (Firm & Kind) dalam Pengasuhan Asrama](#5-inkuiri-4-dialektika-ketegasan-dan-kasih-sayang-firm--kind-dalam-pengasuhan-asrama)
   - [6. Inkuiri 5: Pembentukan Firasat Mukmin & Pencerahan Kalbu (Ittaqoo Firasatal Mu'min)](#6-inkuiri-5-pembentukan-firasat-mukmin--pencerahan-kalbu-ittaqoo-firasatal-mumin)
   - [7. Inkuiri 6: Translasi Hikmah ke Standar Profil Lulusan Generasi Ulul Albab / Insan Kamil](#7-inkuiri-6-translasi-hikmah-ke-standar-profil-lulusan-generasi-ulul-albab--insan-kamil)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Tangga Transformasi Kognisi Empat Tingkat: Dari Data Menuju Al-Hikmah](#1-tangga-transformasi-kognisi-empat-tingkat-dari-data-menuju-al-hikmah)
   - [2. Matriks Penempatan Maqam Adab Lima Dimensi Kehidupan Santri](#2-matriks-penempatan-maqam-adab-lima-dimensi-kehidupan-santri)
   - [3. Protokol Intervensi Disiplin Berhikmah: Prinsip Firm & Kind bagi Musyrif](#3-protokol-intervensi-disiplin-berhikmah-prinsip-firm--kind-bagi-musyrif)
@@ -368,7 +368,7 @@ $$\text{الَّذِينَ يَذْكُرُونَ اللَّهَ قِيَامً�
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat tangga transformasi kognisi, matriks penempatan maqam adab lima dimensi, protokol intervensi Firm & Kind, dan profil standar kompetensi lulusan Ulul Albab.*
 

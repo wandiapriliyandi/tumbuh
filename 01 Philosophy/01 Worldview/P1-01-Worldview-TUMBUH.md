@@ -27,7 +27,7 @@
   - [1. Prolegomena: Ru'yatul Islam lil-Wujud sebagai Fondasi Segala Kebijakan](#1-prolegomena-ruyatul-islam-lil-wujud-sebagai-fondasi-segala-kebijakan)
   - [2. Sepuluh Pertanyaan Eksistensial-Filosofis Peradaban Pesantren](#2-sepuluh-pertanyaan-eksistensial-filosofis-peradaban-pesantren)
   - [3. Triad Pertumbuhan Simbiotik: Santri, Guru/Musyrif, dan Sistem Lembaga](#3-triad-pertumbuhan-simbiotik-santri-gurumusyrif-dan-sistem-lembaga)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Sepuluh Aksioma Fundamental (*First Principles*) Ekosistem TUMBUH](#1-sepuluh-aksioma-fundamental-first-principles-ekosistem-tumbuh)
   - [2. Rantai Kausalitas Paradigmatis: Dari Worldview Menuju 11 Domain Operasional](#2-rantai-kausalitas-paradigmatis-dari-worldview-menuju-11-domain-operasional)
   - [3. Piagam Worldview Ekosistem TUMBUH Pesantren (Deklarasi Konsensus Resmi)](#3-piagam-worldview-ekosistem-tumbuh-pesantren-deklarasi-konsensus-resmi)
@@ -110,7 +110,7 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 

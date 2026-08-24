@@ -30,8 +30,8 @@
   - [5. Inkuiri 4: Tipologi Diferensiasi Bakat Sahabat Nabawi (Khalid, Bilal, Mu'adz, Salman, Abu Hurairah)](#5-inkuiri-4-tipologi-diferensiasi-bakat-sahabat-nabawi-khalid-bilal-muadz-salman-abu-hurairah)
   - [6. Inkuiri 5: Dialog Kritis Multiple Intelligences Howard Gardner dalam Bingkai Maqashid Syari'ah](#6-inkuiri-5-dialog-kritis-multiple-intelligences-howard-gardner-dalam-bingkai-maqashid-syariah)
   - [7. Inkuiri 6: Translasi Kurikulum Berbasis Kekuatan (Strength-Based) ke Budaya Pesantren 24 Jam](#7-inkuiri-6-translasi-kurikulum-berbasis-kekuatan-strength-based-ke-budaya-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Potensi Insan & Mandat Amanah Khilafah](#1-kaidah-utama-dan-standar-baku-potensi-insan-mandat-amanah-khilafah)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Potensi Insan & Mandat Amanah Khilafah](#1-formulasi-konseptual-potensi-insan-mandat-amanah-khilafah)
   - [2. Matriks Komparasi 8 Tipologi Bakat Sahabat Nabi vs Kecerdasan Majemuk Modern](#2-matriks-komparasi-8-tipologi-bakat-sahabat-nabi-vs-kecerdasan-majemuk-modern)
   - [3. Matriks Kurikulum Diferensiasi Adab & Asesmen Pertumbuhan Ipsatif](#3-matriks-kurikulum-diferensiasi-adab--asesmen-pertumbuhan-ipsatif)
   - [4. Protokol Penyaluran Amanah Tanggung Jawab Nyata Asrama (The Student Stewardship Protocol)](#4-protokol-penyaluran-amanah-tanggung-jawab-nyata-asrama-the-student-stewardship-protocol)
@@ -358,13 +358,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
-*Bagian ini memuat rumusan kaidah utama dan standar operasional Potensi Insan & Amanah, matriks komparasi 8 tipologi bakat sahabat Nabi vs modern, matriks kurikulum diferensiasi adab, dan protokol operasional Student Stewardship.*
+*Bagian ini memuat pembahasan temuan penelitian, formulasi model teoretis, dan sintesis konseptual Potensi Insan & Amanah,* matriks komparasi 8 tipologi bakat sahabat Nabi vs modern, matriks kurikulum diferensiasi adab, dan protokol operasional Student Stewardship.*
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Potensi Insan & Mandat Amanah Khilafah
+### 1. Formulasi Konseptual: Potensi Insan & Mandat Amanah Khilafah
 
 Ekosistem TUMBUH menetapkan deklarasi resmi potensi dan mandat manusia:
 

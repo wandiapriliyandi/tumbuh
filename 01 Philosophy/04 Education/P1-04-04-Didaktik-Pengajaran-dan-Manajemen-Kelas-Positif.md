@@ -39,8 +39,8 @@
   - [5. Inkuiri 4: Dialektika Transformasi Halaqah Tradisional: Dari Dikte Monolog Pasif Menuju Diskusi Analitis Beradab](#5-inkuiri-4-dialektika-transformasi-halaqah-tradisional-dari-dikte-monolog-pasif-menuju-diskusi-analitis-beradab)
   - [6. Inkuiri 5: Manajemen Kelas Positif: Rutinitas Terstruktur, Transisi Mulus, & Asesmen Formatif Otentik](#6-inkuiri-5-manajemen-kelas-positif-rutinitas-terstruktur-transisi-mulus--asesmen-formatif-otentik)
   - [7. Inkuiri 6: Translasi Didaktik Positif ke Budaya Akademik Madrasah Pesantren 24 Jam](#7-inkuiri-6-translasi-didaktik-positif-ke-budaya-akademik-madrasah-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH](#1-kaidah-utama-dan-standar-baku-didaktik-pengajaran-ramah-otak-dan-manajemen-kelas-positif-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH](#1-formulasi-konseptual-didaktik-pengajaran-ramah-otak-dan-manajemen-kelas-positif-tumbuh)
   - [2. Matriks 7 Metode Didaktik Pengajaran Nabawi & Konvergensi Pedagogi Kontemporer](#2-matriks-7-metode-didaktik-pengajaran-nabawi--konvergensi-pedagogi-kontemporer)
   - [3. Matriks Prosedur Manajemen Kelas Positif: Rutinitas, Transisi, & Respon Distraksi](#3-matriks-prosedur-manajemen-kelas-positif-rutinitas-transisi--respon-distraksi)
   - [4. Protokol Penjaminan Mutu Mengajar Guru (Classroom Quality Assurance Protocol)](#4-protokol-penjaminan-mutu-mengajar-guru-classroom-quality-assurance-protocol)
@@ -248,13 +248,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH
+### 1. Formulasi Konseptual: Didaktik Pengajaran Ramah Otak dan Manajemen Kelas Positif TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **HAK Keselamatan Psikologis Kelas (threat-free Classroom Right)**:  
    Setiap santri berhak belajar di ruang kelas yang aman dari segala bentuk ancaman, ejekan, pembentakan, dan kekerasan fisik. Kesalahan dalam menjawab pertanyaan atau membaca teks kitab diakui sebagai titik tolak suci proses pembelajaran (Teachable Moments).

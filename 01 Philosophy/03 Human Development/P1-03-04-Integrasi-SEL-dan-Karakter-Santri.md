@@ -37,8 +37,8 @@
   - [5. Inkuiri 4: Dialektika Mitigasi Perundungan (Bullying) & Eksklusi Sosial Melalui Budaya Empati Aktif](#5-inkuiri-4-dialektika-mitigasi-perundungan-bullying--eksklusi-sosial-melalui-budaya-empati-aktif)
   - [6. Inkuiri 5: Rekayasa Rutinitas Sosio-Emosional Asrama 24 Jam (Halaqah Sapa Pagi, Makan Satu Nampan, & Muhasabah Malam)](#6-inkuiri-5-rekayasa-rutinitas-sosio-emosional-asrama-24-jam-halaqah-sapa-pagi-makan-satu-nampan--muhasabah-malam)
   - [7. Inkuiri 6: Translasi CASEL SEL ke Sistem Bimbingan Konseling & Budaya Komunal Pesantren](#7-inkuiri-6-translasi-casel-sel-ke-sistem-bimbingan-konseling--budaya-komunal-pesantren)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-integrasi-sel-dan-taksonomi-adab-nabawi-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH](#1-formulasi-konseptual-integrasi-sel-dan-taksonomi-adab-nabawi-pesantren-tumbuh)
   - [2. Matriks Harmonisasi 5 Kompetensi CASEL SEL dengan Khazanah Adab Turats & Indikator Lapangan](#2-matriks-harmonisasi-5-kompetensi-casel-sel-dengan-khazanah-adab-turats--indikator-lapangan)
   - [3. Matriks Protokol Harian Rutinitas Sosio-Emosional Asrama 24 Jam](#3-matriks-protokol-harian-rutinitas-sosio-emosional-asrama-24-jam)
   - [4. Protokol Intervensi: Penanganan Konflik Antar-Santri Melalui Restorative Empathy Circle](#4-protokol-intervensi-penanganan-konflik-antar-santri-melalui-restorative-empathy-circle)
@@ -284,13 +284,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH
+### 1. Formulasi Konseptual: Integrasi SEL dan Taksonomi Adab Nabawi Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kesatuan Adab & Kecerdasan Sosio-emosional (holistic Adab Integration)**:  
    Adab nabawi bukanlah kepatuhan mekanis yang kaku, melainkan manifestasi kecerdasan sosio-emosional berbasis tauhid yang mencakup kesadaran diri, pengendalian hawa nafsu, empati persaudaraan, keterampilan berkomunikasi santun, dan pengambilan keputusan yang berkeadilan.

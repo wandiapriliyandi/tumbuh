@@ -31,8 +31,8 @@
   - [4. Inkuiri 3: Sinergi 4 Lokus Pembiasaan Adab (Masjid, Kelas, Kamar, & Meja Makan)](#4-inkuiri-3-sinergi-4-lokus-pembiasaan-adab-masjid-kelas-kamar--meja-makan)
   - [5. Inkuiri 4: Mitigasi Titik Rawan Asrama (Hotspots Patrol & Elimination of Blindspots)](#5-inkuiri-4-mitigasi-titik-rawan-asrama-hotspots-patrol--elimination-of-blindspots)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-desain-ekologi-pendidikan-bi-ah-shalihah-24-jam-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH](#1-formulasi-konseptual-hakikat-desain-ekologi-pendidikan-bi-ah-shalihah-24-jam-pesantren-tumbuh)
   - [2. Matriks 4 Lokus Kehidupan Pesantren 24 Jam, Capaian Adab, & Standar Tata Ruang](#2-matriks-4-lokus-kehidupan-pesantren-24-jam-capaian-adab--standar-tata-ruang)
   - [3. Protokol Penjaminan Iklim Aman & Ramah Adab Asrama 24 Jam (24-Hour Healthy Ecological Living Protocol)](#3-protokol-penjaminan-iklim-aman--ramah-adab-asrama-24-jam-24-hour-healthy-ecological-living-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -184,13 +184,13 @@ Pesantren TUMBUH mengeliminasi titik rawan tersebut melalui **Rekayasa Lingkunga
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH
+### 1. Formulasi Konseptual: Hakikat Desain Ekologi Pendidikan Bi'ah Shalihah 24 Jam Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Living Curriculum 24 JAM Tanpa Dikotomi**:  
    Menetapkan bahwa kurikulum pesantren berlangsung 24 jam utuh; mengharamkan dikotomi madrasah vs asrama. Seluruh aktivitas biologis, sosial, dan ibadah santri adalah medan pembinaan adab yang terintegrasi.

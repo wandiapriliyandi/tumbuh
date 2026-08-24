@@ -30,8 +30,8 @@
   - [5. Inkuiri 4: Protokol Emas "Connection Before Correction" & Neurosains Regulasi Diri](#5-inkuiri-4-protokol-emas-connection-before-correction--neurosains-regulasi-diri)
   - [6. Inkuiri 5: Resolusi Restoratif (Ishlah al-Bain) vs Pembalasan Retributif](#6-inkuiri-5-resolusi-restoratif-ishlah-al-bain-vs-pembalasan-retributif)
   - [7. Inkuiri 6: Translasi Sikap Firm and Kind ke Manajemen Penanganan Pelanggaran Asrama 24 Jam](#7-inkuiri-6-translasi-sikap-firm-and-kind-ke-manajemen-penanganan-pelanggaran-asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Disiplin Restoratif Firm and Kind](#1-kaidah-utama-dan-standar-baku-prinsip-disiplin-restoratif-firm-and-kind)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Disiplin Restoratif Firm and Kind](#1-formulasi-konseptual-prinsip-disiplin-restoratif-firm-and-kind)
   - [2. Matriks Empat Kuadran Pengasuhan & Dampak Perkembangan Santri](#2-matriks-empat-kuadran-pengasuhan--dampak-perkembangan-santri)
   - [3. Matriks Perbandingan Respons Kasus Asrama: Otoriter vs Permisif vs Firm & Kind](#3-matriks-perbandingan-respons-kasus-asrama-otoriter-vs-permisif-vs-firm--kind)
   - [4. Protokol Operasional Dialog Restoratif 4 Tahap (Connection-Before-Correction Protocol)](#4-protokol-operasional-dialog-restoratif-4-tahap-connection-before-correction-protocol)
@@ -363,13 +363,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
-*Bagian ini memuat rumusan kaidah utama dan standar operasional Disiplin Restoratif Firm and Kind, matriks 4 kuadran pengasuhan, matriks perbandingan respon kasus, dan protokol operasional Connection Before Correction.*
+*Bagian ini memuat pembahasan temuan penelitian, formulasi model teoretis, dan sintesis konseptual Disiplin Restoratif Firm and Kind,* matriks 4 kuadran pengasuhan, matriks perbandingan respon kasus, dan protokol operasional Connection Before Correction.*
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Disiplin Restoratif Firm and Kind
+### 1. Formulasi Konseptual: Prinsip Disiplin Restoratif Firm and Kind
 
 Ekosistem TUMBUH menetapkan deklarasi resmi disiplin pengasuhan:
 

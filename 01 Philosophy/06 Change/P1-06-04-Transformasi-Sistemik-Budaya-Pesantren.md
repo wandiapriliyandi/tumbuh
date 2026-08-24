@@ -31,8 +31,8 @@
   - [5. Inkuiri 4: Pelembagaan Budaya Adab PBIS Berbasis Data Menjadi Tradisi Permanen Lembaga](#5-inkuiri-4-pelembagaan-budaya-adab-pbis-berbasis-data-menjadi-tradisi-permanen-lembaga)
   - [6. Inkuiri 5: Menjaga Momentum Keberlanjutan Transformasi Lintas Generasi Pimpinan](#6-inkuiri-5-menjaga-momentum-keberlanjutan-transformasi-lintas-generasi-pimpinan)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Transformasi Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-transformasi-riil--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Transformasi Sistemik Budaya Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-transformasi-sistemik-budaya-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Transformasi Sistemik Budaya Pesantren TUMBUH](#1-formulasi-konseptual-transformasi-sistemik-budaya-pesantren-tumbuh)
   - [2. Matriks 8 Tahap Transformasi Peradaban Pesantren (Kotter & Sunnah Nabawiyyah)](#2-matriks-8-tahap-transformasi-peradaban-pesantren-kotter--sunnah-nabawiyyah)
   - [3. Matriks Manajemen Resistensi Budaya: Kategori Stakeholder, Gejala Penolakan, & Solusi Dialogis](#3-matriks-manajemen-resistensi-budaya-kategori-stakeholder-gejala-penolakan--solusi-dialogis)
   - [4. Protokol Pelembagaan Budaya PBIS Berkelanjutan (Institutionalizing PBIS Culture Protocol)](#4-protokol-pelembagaan-budaya-pbis-berkelanjutan-institutionalizing-pbis-culture-protocol)
@@ -199,13 +199,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Transformasi Sistemik Budaya Pesantren TUMBUH
+### 1. Formulasi Konseptual: Transformasi Sistemik Budaya Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Perubahan Sistemik Menyeluruh (total Systemic Transformation)**:  
    Transformasi budaya pesantren wajib menyentuh seluruh dimensi lembaga secara simultan: Worldview Tauhid, Regulasi SOP tertulis, Pembinaan SDM Asatidz/Musyrif, Arsitektur Tata Ruang, dan Analitik Data. Menolak segala bentuk reformasi seremonial atau tambal sulam parsial.

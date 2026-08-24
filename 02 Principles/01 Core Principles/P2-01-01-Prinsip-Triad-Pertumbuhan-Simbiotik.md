@@ -31,8 +31,8 @@
   - [5. Inkuiri 4: Entitas 3 (Sistem Lembaga Tumbuh) — Transformasi Menjadi Learning Organization Berbasis Data PBIS](#5-inkuiri-4-entitas-3-sistem-lembaga-tumbuh--transformasi-menjadi-learning-organization-berbasis-data-pbis)
   - [6. Inkuiri 5: Konvergensi Bioekologi Bronfenbrenner & The Fifth Discipline Peter Senge](#6-inkuiri-5-konvergensi-bioekologi-bronfenbrenner--the-fifth-discipline-peter-senge)
   - [7. Inkuiri 6: Translasi Triad Simbiotik ke Manajemen Operasional Asrama 24 Jam](#7-inkuiri-6-translasi-triad-simbiotik-ke-manajemen-operasional-asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hukum Triad Pertumbuhan Simbiotik](#1-kaidah-utama-dan-standar-baku-hukum-triad-pertumbuhan-simbiotik)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hukum Triad Pertumbuhan Simbiotik](#1-formulasi-konseptual-hukum-triad-pertumbuhan-simbiotik)
   - [2. Matriks Korespondensi Tiga Entitas Simbiotik TUMBUH](#2-matriks-korespondensi-tiga-entitas-simbiotik-tumbuh)
   - [3. Protokol Perlindungan Musyrif: Shift Kerja Sehat & Anti-Burnout Protocol](#3-protokol-perlindungan-musyrif-shift-kerja-sehat--anti-burnout-protocol)
   - [4. Alur Rapat Koordinasi Mingguan Terpadu Triad (Weekly Triad Convergence)](#4-alur-rapat-koordinasi-mingguan-terpadu-triad-weekly-triad-convergence)
@@ -354,13 +354,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
-*Bagian ini memuat rumusan kaidah utama dan standar operasional Triad Pertumbuhan Simbiotik, matriks korespondensi tiga entitas, protokol shift sehat anti-burnout, dan standar operasional rapat koordinasi mingguan.*
+*Bagian ini memuat pembahasan temuan penelitian, formulasi model teoretis, dan sintesis konseptual Triad Pertumbuhan Simbiotik,* matriks korespondensi tiga entitas, protokol shift sehat anti-burnout, dan standar operasional rapat koordinasi mingguan.*
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hukum Triad Pertumbuhan Simbiotik
+### 1. Formulasi Konseptual: Hukum Triad Pertumbuhan Simbiotik
 
 Ekosistem TUMBUH menetapkan kaidah operasional dan standar baku tata kelola pembinaan:
 

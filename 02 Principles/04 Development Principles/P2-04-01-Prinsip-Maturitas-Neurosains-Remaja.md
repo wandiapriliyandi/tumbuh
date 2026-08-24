@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Peran Musyrif Sebagai Prefrontal Cortex Eksternal (Cognitive & Emotional Scaffolding)](#4-inkuiri-3-peran-musyrif-sebagai-prefrontal-cortex-eksternal-cognitive--emotional-scaffolding)
   - [5. Inkuiri 4: Dinamika Pengaruh Kelompok Sebaya (Peer Group Dynamics & Reward Sensitivity)](#5-inkuiri-4-dinamika-pengaruh-kelompok-sebaya-peer-group-dynamics--reward-sensitivity)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama Remaja, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama-remaja--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
   - [2. Matriks Komparasi Sistem Limbik vs Prefrontal Cortex & Implikasi Pendampingan Musyrif](#2-matriks-komparasi-sistem-limbik-vs-prefrontal-cortex--implikasi-pendampingan-musyrif)
   - [3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (De-Escalation Protocol)](#3-matriks-manajemen-respon-impulsivitas-remaja-berbasis-neurosains-de-escalation-protocol)
   - [4. Protokol Pendampingan Pengaruh Teman Sebaya Positif (Peer Group Channeling Protocol)](#4-protokol-pendampingan-pengaruh-teman-sebaya-positif-peer-group-channeling-protocol)
@@ -187,13 +187,13 @@ Penelitian pencitraan otak (*fMRI*) membuktikan bahwa ketika remaja berada bersa
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghormatan Atas Fase Maturasi Otak Remaja (neurodevelopmental Respect)**:  
    Menolak segala bentuk stigmatisasi moral dan hukuman fisik terhadap kekhilafan impulsif santri remaja. Menyadari bahwa sistem Prefrontal Cortex santri sedang dalam proses penyempurnaan biologis.

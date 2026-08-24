@@ -35,8 +35,8 @@
   - [5. Inkuiri 4: Sistem Pendukung Kesejahteraan & Pengembangan Karir Pendidik (Continuous Professional Development / CPD)](#5-inkuiri-4-sistem-pendukung-kesejahteraan--pengembangan-karir-pendidik-continuous-professional-development--cpd)
   - [6. Inkuiri 5: Perlindungan Hak Santri & Mitigasi Risiko Hukum Lembaga (Safe School Protocol)](#6-inkuiri-5-perlindungan-hak-santri--mitigasi-risiko-hukum-lembaga-safe-school-protocol)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Tata Kelola Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-tata-kelola-riil--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH](#1-kaidah-utama-dan-standar-baku-standarisasi-tata-kelola-kelembagaan-dan-sertifikasi-musyrif-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH](#1-formulasi-konseptual-standarisasi-tata-kelola-kelembagaan-dan-sertifikasi-musyrif-tumbuh)
   - [2. Matriks 4 Pilar Standar Kompetensi Musyrif Asrama Pesantren](#2-matriks-4-pilar-standar-kompetensi-musyrif-asrama-pesantren)
   - [3. Bagan Struktur Tata Kelola Kelembagaan Pesantren Mandiri & Akuntabel](#3-bagan-struktur-tata-kelola-kelembagaan-pesantren-mandiri--akuntabel)
   - [4. Protokol Rekrutmen, Onboarding, & Evaluasi Kinerja Pendidik (HRD Protocol)](#4-protokol-rekrutmen-onboarding--evaluasi-kinerja-pendidik-hrd-protocol)
@@ -215,13 +215,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH
+### 1. Formulasi Konseptual: Standarisasi Tata Kelola Kelembagaan dan Sertifikasi Musyrif TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Tata Kelola Berbasis Sistem & Syura (systemic & Shura-based Governance)**:  
    Pesantren wajib dikelola secara profesional, transparan, dan akuntabel melalui struktur organisasi yang jelas, pemisahan wewenang yang tegas, serta mekanisme musyawarah (Syura) berkala.

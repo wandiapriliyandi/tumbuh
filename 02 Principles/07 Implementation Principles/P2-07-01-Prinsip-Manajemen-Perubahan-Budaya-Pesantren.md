@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Mitigasi Resistensi Paradigma Lama & Kritik Survivorship Bias Pendidikan](#4-inkuiri-3-mitigasi-resistensi-paradigma-lama--kritik-survivorship-bias-pendidikan)
   - [5. Inkuiri 4: Transformasi Kepemimpinan Qudwah: Mengubah Mandor Menjadi Murabbi In Loco Parentis](#5-inkuiri-4-transformasi-kepemimpinan-qudwah-mengubah-mandor-menjadi-murabbi-in-loco-parentis)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Resistensi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-resistensi-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-manajemen-perubahan-budaya-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-manajemen-perubahan-budaya-pesantren-tumbuh)
   - [2. Matriks 8 Tahapan Model Kotter Transformasi Budaya Pesantren TUMBUH](#2-matriks-8-tahapan-model-kotter-transformasi-budaya-pesantren-tumbuh)
   - [3. Panduan Mitigasi 4 Tipe Resistensi Staf & Pengurus Asrama](#3-panduan-mitigasi-4-tipe-resistensi-staf--pengurus-asrama)
   - [4. Alur Standar Operasional Prosedur Peluncuran Budaya Baru TUMBUH (100 Hari Pertama)](#4-alur-standar-operasional-prosedur-peluncuran-budaya-baru-tumbuh-100-hari-pertama)
@@ -186,13 +186,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pembaharuan Budaya Sistemik (systemic Cultural Tajdid Mandate)**:  
    Menolak segala bentuk perubahan instan tanpa persiapan matang serta menolak pelestarian kultur koersif. Transformasi budaya wajib dipandu melalui 8 Tahapan Model Kotter yang diselaraskan dengan hikmah pesantren.

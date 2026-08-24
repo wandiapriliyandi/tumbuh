@@ -34,7 +34,7 @@
   - [2. Matriks Uji Kelayakan Lapangan (Field Usability & Feasibility Matrix)](#2-matriks-uji-kelayakan-lapangan-field-usability--feasibility-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Desain Sistem Pesantren](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-desain-sistem-pesantren)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 03 Learning Principles](#4-jembatan-epistemologis-menuju-sub-domain-03-learning-principles)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL DESAIN SISTEM](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-desain-sistem)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN DESAIN SISTEM](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-desain-sistem)
   - [1. Grand Manifesto Arsitektur & Desain Sistem Holistik Pesantren TUMBUH](#1-grand-manifesto-arsitektur--desain-sistem-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Desain ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-desain-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Audit Kepatuhan Desain Sistem](#3-protokol-penjaminan-mutu--audit-kepatuhan-desain-sistem)
@@ -130,13 +130,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL DESAIN SISTEM
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN DESAIN SISTEM
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Arsitektur & Desain Sistem Holistik Pesantren TUMBUH
+### 1. Formulasi Konseptual: Arsitektur & Desain Sistem Holistik Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Integrasi Kurikulum Holistik Berbasis UBD & Anti-overload Menetapkan bahwa kurikulum pesantren wajib menyatukan Dirasah Islamiyah, Tahfizh, SEL Adab, dan Sains melalui Backward Design, serta membatasi KBM maksimal 6-7 jam tatap muka guna mencegah kejenuhan kognitif.**:  
    

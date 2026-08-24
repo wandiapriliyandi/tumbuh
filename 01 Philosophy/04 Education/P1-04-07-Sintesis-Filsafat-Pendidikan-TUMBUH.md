@@ -32,7 +32,7 @@
   - [2. Matriks Komparasi Filosofis Pendidikan: Esensialisme, Progresivisme, Perenialisme vs Ta'dib Holistik TUMBUH](#2-matriks-komparasi-filosofis-pendidikan-esensialisme-progresivisme-perenialisme-vs-tadib-holistik-tumbuh)
   - [3. Dekonstruksi Total Paradigma Pendidikan Kolonial & Komersial](#3-dekonstruksi-total-paradigma-pendidikan-kolonial--komersial)
   - [4. Jembatan Filosofis & Pedagogis Menuju Sub-Domain 05 Leadership](#4-jembatan-filosofis--pedagogis-menuju-sub-domain-05-leadership)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL FILSAFAT PENDIDIKAN](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-filsafat-pendidikan)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN FILSAFAT PENDIDIKAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-filsafat-pendidikan)
   - [1. Grand Manifesto Kelembagaan Pedagogi Adab Pesantren TUMBUH](#1-grand-manifesto-kelembagaan-pedagogi-adab-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Pendidikan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-pendidikan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu Keberkahan dan Keunggulan Pembelajaran](#3-protokol-penjaminan-mutu-keberkahan-dan-keunggulan-pembelajaran)
@@ -112,13 +112,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL FILSAFAT PENDIDIKAN
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN FILSAFAT PENDIDIKAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Kelembagaan Pedagogi Adab Pesantren TUMBUH
+### 1. Formulasi Konseptual: Kelembagaan Pedagogi Adab Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pendidikan Sebagai Ta'dib Pesantren Tumbuh menegakkan Ta'dib sebagai ruh tertinggi seluruh aktivitas pendidikan. Setiap mata pelajaran, halaqah kitab, kegiatan asrama, dan interaksi sosial wajib diarahkan pada penanaman adab.**:  
    

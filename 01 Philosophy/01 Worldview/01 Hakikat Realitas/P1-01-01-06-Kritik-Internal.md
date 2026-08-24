@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Uji Desakralisasi Manajemen — Mencegah Tyranny of Policy Berkedok Dalil](#5-inkuiri-4-uji-desakralisasi-manajemen--mencegah-tyranny-of-policy-berkedok-dalil)
   - [6. Inkuiri 5: Uji Pencegahan Egosentrisme Spiritual & Superioritas Moral Santri](#6-inkuiri-5-uji-pencegahan-egosentrisme-spiritual--superioritas-moral-santri)
   - [7. Inkuiri 6: Uji Ketahanan Sistem terhadap Disrupsi Budaya Digital & Perubahan Generasi](#7-inkuiri-6-uji-ketahanan-sistem-terhadap-disrupsi-budaya-digital--perubahan-generasi)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Hasil Audit Kualitas Enam Aksioma Ontologis TUMBUH](#1-matriks-hasil-audit-kualitas-enam-aksioma-ontologis-tumbuh)
   - [2. Protokol Mitigasi Risiko Teologis & Penyimpangan Kebijakan Asrama](#2-protokol-mitigasi-risiko-teologis--penyimpangan-kebijakan-asrama)
   - [3. Piagam Desakralisasi SOP Operasional Berbasis Data PBIS Faktual](#3-piagam-desakralisasi-sop-operasional-berbasis-data-pbis-faktual)
@@ -347,7 +347,7 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat matriks resmi kelulusan audit kualitas, protokol mitigasi risiko teologis, dan piagam desakralisasi manajemen.*
 

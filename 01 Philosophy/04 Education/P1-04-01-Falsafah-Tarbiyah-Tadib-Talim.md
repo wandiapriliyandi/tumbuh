@@ -33,8 +33,8 @@
   - [5. Inkuiri 4: Dialektika Kritik atas Intelektualisme Sekuler Kering vs Dogmatisme Asketis](#5-inkuiri-4-dialektika-kritik-atas-intelektualisme-sekuler-kering-vs-dogmatisme-asketis)
   - [6. Inkuiri 5: Integrasi Kurikulum Adab Holistik 24 Jam sebagai Aktualisasi Nyata Ta'dib](#6-inkuiri-5-integrasi-kurikulum-adab-holistik-24-jam-sebagai-aktualisasi-nyata-tadib)
   - [7. Inkuiri 6: Translasi Falsafah Ta'dib ke Tata Kelola Budaya Pesantren Bebas Desakralisasi Ilmu](#7-inkuiri-6-translasi-falsafah-tadib-ke-tata-kelola-budaya-pesantren-bebas-desakralisasi-ilmu)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-ta-dib-sebagai-episentrum-filsafat-pendidikan-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH](#1-formulasi-konseptual-ta-dib-sebagai-episentrum-filsafat-pendidikan-pesantren-tumbuh)
   - [2. Matriks Distingsi Filosofis & Operasional: Tarbiyah, Ta'lim, dan Ta'dib](#2-matriks-distingsi-filosofis--operasional-tarbiyah-talim-dan-tadib)
   - [3. Matriks 5 Dimensi Penanaman Adab dalam Kehidupan Pesantren 24 Jam](#3-matriks-5-dimensi-penanaman-adab-dalam-kehidupan-pesantren-24-jam)
   - [4. Protokol Standar Pembelajaran Berbasis Ta'dib di Kelas dan Asrama](#4-protokol-standar-pembelajaran-berbasis-tadib-di-kelas-dan-asrama)
@@ -276,13 +276,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH
+### 1. Formulasi Konseptual: Ta'dib sebagai Episentrum Filsafat Pendidikan Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Hakikat Pendidikan Adalah Ta'dib (education AS Ta'dib)**:  
    Pendidikan Islam yang sejati bukanlah sekadar pemeliharaan fisik (Tarbiyah) atau transmisi wawasan kognitif semata (Ta'lim), melainkan PENANAMAN ADAB KE DALAM DIRI INSAN PEMBELAJAR (TA'DIB) agar ia mengenali dan mengakui posisinya yang hakiki di hadapan Allah, guru, sesama manusia, dan alam.

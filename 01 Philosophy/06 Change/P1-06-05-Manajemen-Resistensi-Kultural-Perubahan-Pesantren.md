@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Konvergensi Force-Field Analysis Kurt Lewin & 8-Step Change Model John Kotter di Pesantren](#3-inkuiri-2-konvergensi-force-field-analysis-kurt-lewin--8-step-change-model-john-kotter-di-pesantren)
   - [4. Inkuiri 3: Empat Tipologi Respon Pendidik Terhadap Perubahan & Strategi Intervensi Komunikasinya](#4-inkuiri-3-empat-tipologi-respon-pendidik-terhadap-perubahan--strategi-intervensi-komunikasinya)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-manajemen-perubahan-kultural-beradab-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH](#1-formulasi-konseptual-piagam-manajemen-perubahan-kultural-beradab-pesantren-tumbuh)
   - [2. Matriks 8 Tahap Transformasi Budaya Pesantren (Kotter-Lewin Adapted for Pesantren)](#2-matriks-8-tahap-transformasi-budaya-pesantren-kotter-lewin-adapted-for-pesantren)
   - [3. Protokol Pendampingan Transisi & Coaching Dialogis bagi Asatidz Senior](#3-protokol-pendampingan-transisi--coaching-dialogis-bagi-asatidz-senior)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -159,13 +159,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH
+### 1. Formulasi Konseptual: Piagam Manajemen Perubahan Kultural Beradab Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pendekatan Hikmah & Memuliakan Asatidz Senior**:  
    Menetapkan bahwa transformasi budaya pengasuhan wajib dijalankan dengan pendekatan Hikmah, kelembutan lisan, dan memuliakan kedudukan para sesepuh pondok (Inzalu an-Nas Manazilahum).

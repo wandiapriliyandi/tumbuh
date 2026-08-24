@@ -31,7 +31,7 @@
   - [4. Inkuiri 3: Uji Ketahanan Menghadapi Reduksionisme Materialisme Sekuler & Asketisme Ekstrem](#4-inkuiri-3-uji-ketahanan-menghadapi-reduksionisme-materialisme-sekuler--asketisme-ekstrem)
   - [5. Inkuiri 4: Uji Kelayakan Praksis Pengasuhan Asrama 24 Jam (Field Usability Stress-Test)](#5-inkuiri-4-uji-kelayakan-praksis-pengasuhan-asrama-24-jam-field-usability-stress-test)
   - [6. Inkuiri 5: Jembatan Filosofis Menuju Sub-Domain 03 (Human Development) & Lintasan Usia Santri](#6-inkuiri-5-jembatan-filosofis-menuju-sub-domain-03-human-development--lintasan-usia-santri)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri (The Grand Charter of Student Dignity)](#1-piagam-kelembagaan-pemuliaan-martabat--fitrah-santri-the-grand-charter-of-student-dignity)
   - [2. Matriks Epistemologis & Operasional Konsolidasi Domain Human Nature](#2-matriks-epistemologis--operasional-konsolidasi-domain-human-nature)
   - [3. Peta Jembatan Penjalaran Menuju 4 Sub-Domain Filosofis Lanjutan (P1-03 s/d P1-06)](#3-peta-jembatan-penjalaran-menuju-4-sub-domain-filosofis-lanjutan-p1-03-sd-p1-06)
@@ -142,13 +142,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
 ### 1. Piagam Kelembagaan Pemuliaan Martabat & Fitrah Santri (*The Grand Charter of Student Dignity*)
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kami Bersaksi Bahwa Setiap Santri Adalah Hamba Allah Yang Dimuliakan (mukarram)**:  
    Dilahirkan membawa fitrah kesucian tauhid (Mitsaq Azali) dan kompas moral kebaikan bawaan.

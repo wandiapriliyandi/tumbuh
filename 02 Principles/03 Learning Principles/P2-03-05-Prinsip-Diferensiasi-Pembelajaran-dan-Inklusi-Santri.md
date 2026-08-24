@@ -29,8 +29,8 @@
   - [3. Inkuiri 2: Konvergensi Differentiated Instruction (Carol Ann Tomlinson) & Zone of Proximal Development (Vygotsky)](#3-inkuiri-2-konvergensi-differentiated-instruction-carol-ann-tomlinson--zone-of-proximal-development-vygotsky)
   - [4. Inkuiri 3: Mitigasi Pelabelan Negatif & Desain Scaffolding Bertingkat di Kelas Kitab dan Tahfizh](#4-inkuiri-3-mitigasi-pelabelan-negatif--desain-scaffolding-bertingkat-di-kelas-kitab-dan-tahfizh)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-kelas--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-diferensiasi-pembelajaran-inklusi-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-formulasi-konseptual-standar-diferensiasi-pembelajaran-inklusi-pesantren-tumbuh)
   - [2. Matriks Strategi Diferensiasi 3 Tingkat Kesiapan Santri: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)](#2-matriks-strategi-diferensiasi-3-tingkat-kesiapan-santri-pemula-fondasi-madya-aplikasi-mahir-kreasi)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Santri Membutuhkan Bimbingan Khusus (Tier 2 Akademik)](#3-standar-prosedur-operasional-sop-penanganan-santri-membutuhkan-bimbingan-khusus-tier-2-akademik)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -141,13 +141,13 @@ Sains pembelajaran modern mengukuhkan prinsip pedagogis ini:
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghormatan Fitrah Keberagaman Belajar (mura'at Ahwal Al-muta'allimin)**:  
    Menetapkan bahwa setiap santri berhak mendapatkan pengajaran yang selaras dengan kecepatan kognitif, modalitas belajar, dan tingkat kesiapan awalnya; menolak keras metode kaku 'One-Size-Fits-All'.

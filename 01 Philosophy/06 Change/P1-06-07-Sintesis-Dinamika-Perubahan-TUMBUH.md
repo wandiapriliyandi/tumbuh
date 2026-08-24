@@ -32,7 +32,7 @@
   - [2. Matriks Komparasi Filosofis Transformasi Sosial: Revolusionisme vs Reformisme Parsial vs Transformasi Nabawi TUMBUH](#2-matriks-komparasi-filosofis-transformasi-sosial-revolusionisme-vs-reformisme-parsial-vs-transformasi-nabawi-tumbuh)
   - [3. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Sub-Domain 01 s/d 06)](#3-puncak-sintesis-filosofis-seluruh-domain-01-philosophy-sub-domain-01-sd-06)
   - [4. Jembatan Filosofis & Aksiologis Menuju Domain 02: Principles](#4-jembatan-filosofis--aksiologis-menuju-domain-02-principles)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TRANSFORMASI PERADABAN](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-transformasi-peradaban)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN TRANSFORMASI PERADABAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-transformasi-peradaban)
   - [1. Grand Manifesto Transformasi Peradaban Pesantren TUMBUH](#1-grand-manifesto-transformasi-peradaban-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Dinamika Perubahan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-dinamika-perubahan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Keberlanjutan Transformasi Budaya Pesantren](#3-protokol-penjaminan-keberlanjutan-transformasi-budaya-pesantren)
@@ -128,13 +128,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TRANSFORMASI PERADABAN
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN TRANSFORMASI PERADABAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Transformasi Peradaban Pesantren TUMBUH
+### 1. Formulasi Konseptual: Transformasi Peradaban Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Teologis Perubahan Jiwa Internal (MA BI Anfusihim) Menegakkan doktrin bahwa transformasi peradaban pesantren sejati bermula dari penyucian niat, kesadaran fikir, dan kehendak taubat di dalam jiwa santri dan asatidz. Menolak mutlak ilusi pemaksaan lahiriah kasar.**:  
    

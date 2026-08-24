@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Strategi Mereduksi Extraneous Load: Chunking, Dual Coding Allan Paivio, & Modality Effect](#4-inkuiri-3-strategi-mereduksi-extraneous-load-chunking-dual-coding-allan-paivio--modality-effect)
   - [5. Inkuiri 4: Strategi Mengoptimalkan Germane Load: Worked-Example Effect & Guidance Fading](#5-inkuiri-4-strategi-mengoptimalkan-germane-load-worked-example-effect--guidance-fading)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas/Halaqah, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kelashalaqah--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-kognitif-dan-manajemen-beban-belajar-santri-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH](#1-formulasi-konseptual-prinsip-desain-kognitif-dan-manajemen-beban-belajar-santri-tumbuh)
   - [2. Matriks 3 Jenis Beban Kognitif & Protokol Intervensi Didaktik Asatidz](#2-matriks-3-jenis-beban-kognitif--protokol-intervensi-didaktik-asatidz)
   - [3. Matriks 4 Teknik Reduksi Beban Kognitif dalam Pengajaran Kitab & Sains](#3-matriks-4-teknik-reduksi-beban-kognitif-dalam-pengajaran-kitab--sains)
   - [4. Protokol Desain Modul Ajar Rendah Beban Pengganggu (Low Extraneous Load Lesson Design SOP)](#4-protokol-desain-modul-ajar-rendah-beban-pengganggu-low-extraneous-load-lesson-design-sop)
@@ -195,13 +195,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH
+### 1. Formulasi Konseptual: Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghormatan Atas Kapasitas Memori Kerja (working Memory Respect)**:  
    Setiap asatidz wajib menyadari keterbatasan kapasitas memori kerja santri (4–7 elemen informasi) dan mengelola aliran materi agar tidak memicu kelebihan beban kognitif (Cognitive Overload).

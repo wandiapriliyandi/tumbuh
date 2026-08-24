@@ -33,8 +33,8 @@
   - [5. Inkuiri 4: Dekonstruksi Standar Ganda (Double Standards) Pendidik vs Santri](#5-inkuiri-4-dekonstruksi-standar-ganda-double-standards-pendidik-vs-santri)
   - [6. Inkuiri 5: Sistem Audit Integritas & Umpan Balik Rahasia Santri (Student Voice)](#6-inkuiri-5-sistem-audit-integritas--umpan-balik-rahasia-santri-student-voice)
   - [7. Inkuiri 6: Translasi Qudwah-First ke Budaya Ekosistem Pesantren 24 Jam](#7-inkuiri-6-translasi-qudwah-first-ke-budaya-ekosistem-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Qudwah-First (Lisanul Hal)](#1-kaidah-utama-dan-standar-baku-prinsip-qudwah-first-lisanul-hal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Qudwah-First (Lisanul Hal)](#1-formulasi-konseptual-prinsip-qudwah-first-lisanul-hal)
   - [2. Matriks Lima Standar Wajib Qudwah Hasanah Pendidik TUMBUH](#2-matriks-lima-standar-wajib-qudwah-hasanah-pendidik-tumbuh)
   - [3. Matriks Eliminasi Standar Ganda Pendidik (Zero Double-Standards Matrix)](#3-matriks-eliminasi-standar-ganda-pendidik-zero-double-standards-matrix)
   - [4. Protokol Audit Integritas & Evaluasi Etika Musyrif/Asatidz](#4-protokol-audit-integritas--evaluasi-etika-musyrifasatidz)
@@ -360,13 +360,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
-*Bagian ini memuat rumusan kaidah utama dan standar operasional Qudwah-First, matriks 5 standar keteladanan, matriks Zero Double-Standards, dan protokol audit integritas pendidik.*
+*Bagian ini memuat pembahasan temuan penelitian, formulasi model teoretis, dan sintesis konseptual Qudwah-First,* matriks 5 standar keteladanan, matriks Zero Double-Standards, dan protokol audit integritas pendidik.*
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Qudwah-First (Lisanul Hal)
+### 1. Formulasi Konseptual: Prinsip Qudwah-First (Lisanul Hal)
 
 Ekosistem TUMBUH menetapkan deklarasi resmi keteladanan pendidik:
 

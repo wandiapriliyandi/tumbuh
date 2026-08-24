@@ -33,8 +33,8 @@
   - [4. Inkuiri 3: Desain Alur Tanggap Darurat Medis & De-Eskalasi Krisis Emosional Santri (Tier 3 PBIS)](#4-inkuiri-3-desain-alur-tanggap-darurat-medis--de-eskalasi-krisis-emosional-santri-tier-3-pbis)
   - [5. Inkuiri 4: Protokol Serah Terima Informasi Antar-Shift (Shift Handover) Bebas Kebocoran Privasi](#5-inkuiri-4-protokol-serah-terima-informasi-antar-shift-shift-handover-bebas-kebocoran-privasi)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Operasional Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-operasional-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-sop-dan-alur-kerja-musyrif-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH](#1-formulasi-konseptual-prinsip-desain-sop-dan-alur-kerja-musyrif-tumbuh)
   - [2. Matriks 5 SOP Inti Pengasuhan Asrama Pesantren 24 Jam](#2-matriks-5-sop-inti-pengasuhan-asrama-pesantren-24-jam)
   - [3. Diagram Alur SOP Tanggap Darurat Medis & Krisis Perilaku Santri](#3-diagram-alur-sop-tanggap-darurat-medis--krisis-perilaku-santri)
   - [4. Protokol Handover Antar-Shift Musyrif Asrama (Shift Handover Protocol)](#4-protokol-handover-antar-shift-musyrif-asrama-shift-handover-protocol)
@@ -186,13 +186,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH
+### 1. Formulasi Konseptual: Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Alur Kerja Human-centered (human-centered Workflow Design)**:  
    Setiap Prosedur Operasional Baku (SOP) pengasuhan asrama wajib dirancang untuk memudahkan pelayanan, menjamin kejelasan tanggung jawab (Job Description), dan melindungi musyrif dari beban kerja berlebih.

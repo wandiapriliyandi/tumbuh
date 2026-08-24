@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Konvergensi School-Family Partnership Theory (Joyce Epstein) & Budaya Komunikasi Terbuka Pesantren](#3-inkuiri-2-konvergensi-school-family-partnership-theory-joyce-epstein--budaya-komunikasi-terbuka-pesantren)
   - [4. Inkuiri 3: Dekonstruksi Sikap Eksklusif Menara Gading & Desain Program Khidmah Sosial Warga Lingkungan](#4-inkuiri-3-dekonstruksi-sikap-eksklusif-menara-gading--desain-program-khidmah-sosial-warga-lingkungan)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lembaga--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-kemitraan-tripartit-akuntabilitas-publik-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-formulasi-konseptual-standar-kemitraan-tripartit-akuntabilitas-publik-pesantren-tumbuh)
   - [2. Matriks 6 Tipe Kemitraan Keluarga Epstein Diintegrasikan ke dalam Ekosistem Pesantren](#2-matriks-6-tipe-kemitraan-keluarga-epstein-diintegrasikan-ke-dalam-ekosistem-pesantren)
   - [3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Tetangga](#3-standar-prosedur-operasional-sop-transparansi-informasi-wali-santri--khidmah-sosial-tetangga)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -153,13 +153,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kemitraan Tripartit Pendidikan Simbiotik (pesantren - Rumah - Masyarakat)**:  
    Menetapkan bahwa keberhasilan pendidikan adab adalah tanggung jawab bersama; mengharamkan pemutusan peran keluarga dan mewajibkan kesinambungan pembiasaan adab di asrama dan rumah saat liburan.

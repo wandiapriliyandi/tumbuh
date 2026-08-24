@@ -33,7 +33,7 @@
   - [2. Matriks Uji Kelaikan Pedagogis Lapangan (Pedagogical Usability & Feasibility Matrix)](#2-matriks-uji-kelaikan-pedagogis-lapangan-pedagogical-usability--feasibility-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Proses Pembelajaran](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-proses-pembelajaran)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles](#4-jembatan-epistemologis-menuju-sub-domain-04-development-principles)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PEDAGOGI BERADAB](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-pedagogi-beradab)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN PEDAGOGI BERADAB](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-pedagogi-beradab)
   - [1. Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH](#1-grand-manifesto-pembelajaran-bermakna--kognisi-beradab-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 5 Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-pembelajaran-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-pembelajaran-aktif-berkelanjutan)
@@ -126,13 +126,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PEDAGOGI BERADAB
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN PEDAGOGI BERADAB
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
+### 1. Formulasi Konseptual: Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghormatan Memori Kerja & Anti-cognitive Overload Menetapkan bahwa proses pengajaran wajib mengelola beban kognitif secara terukur melalui segmentasi (Chunking), pemaduan bagan visual (Dual Coding), dan pemberian contoh penalaran terpandu (Worked-Example).**:  
    

@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Konvergensi dengan Psikologi Kognitif: Mengatasi Efek Dunning-Kruger pada Santri](#5-inkuiri-4-konvergensi-dengan-psikologi-kognitif-mengatasi-efek-dunning-kruger-pada-santri)
   - [6. Inkuiri 5: Demarkasi Wilayah Ijtihad vs Dogma Syar'i — Mencegah Fanatisme Mazhab Sempit (Ta'ashshub)](#6-inkuiri-5-demarkasi-wilayah-ijtihad-vs-dogma-syari--mencegah-fanatisme-mazhab-sempit-taashshub)
   - [7. Inkuiri 6: Translasi Tawadhu' Intelektual ke Budaya Akademis & Tata Kelola Pesantren 24 Jam](#7-inkuiri-6-translasi-tawadhu-intelektual-ke-budaya-akademis--tata-kelola-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Tiga Ranah Epistemologis Pengetahuan Manusia](#1-matriks-tiga-ranah-epistemologis-pengetahuan-manusia)
   - [2. Matriks Komparasi: Kesombongan Epistemis vs Tawadhu' Intelektual TUMBUH](#2-matriks-komparasi-kesombongan-epistemis-vs-tawadhu-intelektual-tumbuh)
   - [3. Protokol Pembinaan Sikap Ilmiah 'Khasyyah & Tabayyun' bagi Guru dan Santri](#3-protokol-pembinaan-sikap-ilmiah-khasyyah--tabayyun-bagi-guru-dan-santri)
@@ -352,7 +352,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat matriks resmi tiga ranah epistemologis, matriks komparasi sikap ilmiah, dan protokol operasional pembinaan adab ilmiah santri dan pendidik.*
 

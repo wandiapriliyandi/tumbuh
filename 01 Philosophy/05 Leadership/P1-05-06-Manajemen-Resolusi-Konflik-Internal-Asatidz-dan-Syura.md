@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Konvergensi Interest-Based Relational (IBR) Mediation (Fisher & Ury, 1981)](#3-inkuiri-2-konvergensi-interest-based-relational-ibr-mediation-fisher--ury-1981)
   - [4. Inkuiri 3: Anatomi 4 Tahap Protokol Tabayyun & Pemulihan Ukhuwah di Pesantren](#4-inkuiri-3-anatomi-4-tahap-protokol-tabayyun--pemulihan-ukhuwah-di-pesantren)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-fiqh-ikhtilaf-rekonsiliasi-asatidz-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH](#1-formulasi-konseptual-piagam-fiqh-ikhtilaf-rekonsiliasi-asatidz-pesantren-tumbuh)
   - [2. Matriks Penanganan Tipologi Konflik Internal, Saluran Mediasi, & Solusi Ishlah](#2-matriks-penanganan-tipologi-konflik-internal-saluran-mediasi--solusi-ishlah)
   - [3. Standar Prosedur Operasional (SOP) Mediasi Restoratif & Majelis Ishlah Pendidik](#3-standar-prosedur-operasional-sop-mediasi-restoratif--majelis-ishlah-pendidik)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -147,13 +147,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH
+### 1. Formulasi Konseptual: Piagam Fiqh Ikhtilaf & Rekonsiliasi Asatidz Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kesucian Ukhuwah DI Atas Perbedaan Pendapat (adabul Ikhtilaf)**:  
    Menetapkan bahwa perbedaan metodologi dan pemikiran adalah dinamika ijtihad yang terhormat; mengharamkan mutlak penyesatan, hasad, ghibah, dan permusuhan personal antartenaga pendidik.

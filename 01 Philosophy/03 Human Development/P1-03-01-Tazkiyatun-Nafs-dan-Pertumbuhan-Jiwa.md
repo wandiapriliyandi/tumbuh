@@ -33,8 +33,8 @@
   - [5. Inkuiri 4: Konvergensi dengan Neurosains Pembiasaan 66-Hari Dr. Phillippa Lally & Mielinisasi dlPFC vs Basal Ganglia](#5-inkuiri-4-konvergensi-dengan-neurosains-pembiasaan-66-hari-dr-phillippa-lally--mielinisasi-dlpfc-vs-basal-ganglia)
   - [6. Inkuiri 5: Dialektika Transformasi Perilaku — Dari Keterpaksaan Menuju Watak Kedua (Second Nature)](#6-inkuiri-5-dialektika-transformasi-perilaku--dari-keterpaksaan-menuju-watak-kedua-second-nature)
   - [7. Inkuiri 6: Translasi Tazkiyatun Nafs ke Jadwal Pengasuhan Asrama Pesantren 24 Jam](#7-inkuiri-6-translasi-tazkiyatun-nafs-ke-jadwal-pengasuhan-asrama-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH](#1-kaidah-utama-dan-standar-baku-tazkiyatun-nafs-sebagai-episentrum-human-development-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH](#1-formulasi-konseptual-tazkiyatun-nafs-sebagai-episentrum-human-development-tumbuh)
   - [2. Matriks Triadik Tazkiyah: Takhalliy, Tahalliy, Tajalliy & Indikator Perilaku Asrama](#2-matriks-triadik-tazkiyah-takhalliy-tahalliy-tajalliy--indikator-perilaku-asrama)
   - [3. Matriks Konvergensi Keilmuan: Riyadhah Turats vs Neurokognitif Habit Loop (Cue, Routine, Reward)](#3-matriks-konvergensi-keilmuan-riyadhah-turats-vs-neurokognitif-habit-loop-cue-routine-reward)
   - [4. Protokol Operasional Pengasuhan: Muhasabah Reflektif Malam & De-Eskalasi Kejenuhan Santri](#4-protokol-operasional-pengasuhan-muhasabah-reflektif-malam--de-eskalasi-kejenuhan-santri)
@@ -394,13 +394,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH
+### 1. Formulasi Konseptual: Tazkiyatun Nafs sebagai Episentrum Human Development TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Hakikat Pertumbuhan (the Essence OF Growth)**:  
    Pertumbuhan santri yang hakiki bukanlah sekadar pertambahan usia kronologis, pembesaran fisik, atau akumulasi wawasan kognitif hafalan. Pertumbuhan sejati adalah EVOLUSI SPIRITUAL-MORAL melalui penyucian kalbu (Tazkiyatun Nafs) dari dorongan hawa nafsu primitif menuju kematangan adab dan makrifatullah.

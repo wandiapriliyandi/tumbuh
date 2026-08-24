@@ -37,8 +37,8 @@
   - [3. Inkuiri 2: Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam](#3-inkuiri-2-konvergensi-5-kompetensi-casel-sel-ke-dalam-matriks-perilaku-santri-24-jam)
   - [4. Inkuiri 3: Progresi Tangga TUMBUH T1–T4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4-inkuiri-3-progresi-tangga-tumbuh-t1t4-gradualisme-syari-menuju-tahap-7-penggerak)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
   - [2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Tangga T1–T4](#2-matriks-taksonomi-terpadu-10-muwashafat-5-casel-sel--deskriptor-tangga-t1t4)
   - [3. Protokol Asesmen Pertumbuhan Karakter Ipsatif Non-Ranking (BARS Protocol)](#3-protokol-asesmen-pertumbuhan-karakter-ipsatif-non-ranking-bars-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -154,13 +154,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Keutuhan 10 Muwashafat Karakter Islami**:  
    Menetapkan 10 pilar karakter (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qawiyyul Jism, Mutsaqqaful Fikr, Mujahadatun Linafsih, Haritsun 'ala Waqtih, Munazhzham fi Syu'unih, Qadirun 'alal Kasb, dan Nafi'un Lighairih) sebagai profil kapasitas kelulusan santri yang tidak dapat dipisahkan.

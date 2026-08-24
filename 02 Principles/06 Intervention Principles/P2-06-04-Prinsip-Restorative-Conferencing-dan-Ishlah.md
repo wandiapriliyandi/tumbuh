@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Formula Konsekuensi Logis 4R (Related, Respectful, Reasonable, Restorative)](#4-inkuiri-3-formula-konsekuensi-logis-4r-related-respectful-reasonable-restorative)
   - [5. Inkuiri 4: Pelaksanaan Konferensi Restoratif Komunitas Asrama & Reintegrasi Tanpa Stigma](#5-inkuiri-4-pelaksanaan-konferensi-restoratif-komunitas-asrama--reintegrasi-tanpa-stigma)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Ishlah Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-ishlah-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-restorative-conferencing-dan-ishlah-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-restorative-conferencing-dan-ishlah-pesantren-tumbuh)
   - [2. Matriks Komparasi Disiplin Retributif (Lama) vs Disiplin Restoratif PBIS (TUMBUH)](#2-matriks-komparasi-disiplin-retributif-lama-vs-disiplin-restoratif-pbis-tumbuh)
   - [3. Alur Standar Operasional Prosedur Konferensi Restoratif Ishlah (5 Tahapan Baku)](#3-alur-standar-operasional-prosedur-konferensi-restoratif-ishlah-5-tahapan-baku)
   - [4. Piagam Perjanjian Restoratif & Protokol Reintegrasi Kamar (No-Stigma Circle Protocol)](#4-piagam-perjanjian-restoratif--protokol-reintegrasi-kamar-no-stigma-circle-protocol)
@@ -183,13 +183,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Transformasi Menuju Keadilan Restoratif (restorative Justice Mandate)**:  
    Menolak segala bentuk hukuman retributif-pembalasan, kekerasan fisik, dan pengusiran sepihak. Setiap penanganan pelanggaran perilaku difokuskan pada pemulihan luka korban dan rekonsiliasi ukhuwah.
@@ -239,7 +239,7 @@ flowchart TD
 
 ### 4. Piagam Perjanjian Restoratif & Protokol Reintegrasi Kamar (*No-Stigma Circle Protocol*)
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pihak I mengganti senar dan gagang raket Pihak II yang rusak dengan spesifikasi yang setara, selambat-lambatnya pada hari Ahad, 30 Agustus 2026.**:  
    

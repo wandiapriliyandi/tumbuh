@@ -33,8 +33,8 @@
   - [4. Inkuiri 3: Mitigasi Fenomena Kemunduran Adab Masa Liburan (The Vacation Regression Phenomenon)](#4-inkuiri-3-mitigasi-fenomena-kemunduran-adab-masa-liburan-the-vacation-regression-phenomenon)
   - [5. Inkuiri 4: Standarisasi Etika Komunikasi Digital Wali Santri (Respectful Digital Communication)](#5-inkuiri-4-standarisasi-etika-komunikasi-digital-wali-santri-respectful-digital-communication)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Sinergi Wali Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-sinergi-wali-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-sinergi-tripartit-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-sinergi-tripartit-pesantren-tumbuh)
   - [2. Matriks 6 Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH](#2-matriks-6-tipe-keterlibatan-keluarga-joyce-epstein-versi-pesantren-tumbuh)
   - [3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (Parent-School Partnership Pact)](#3-piagam-perjanjian-sinergi-kemitraan-orang-tua---pondok-parent-school-partnership-pact)
   - [4. Alur Standar Operasional Prosedur Penanganan Komunikasi & Keluhan Wali Santri](#4-alur-standar-operasional-prosedur-penanganan-komunikasi--keluhan-wali-santri)
@@ -191,13 +191,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Sinergi Tripartit Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Sinergi Tripartit Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Paradigma Konsumen Lepas Tangan (anti-abandonment Charter)**:  
    Menolak segala bentuk pengabaian tanggung jawab pengasuhan orang tua berdalih telah membayar biaya pondok. Menegaskan bahwa orang tua memikul amanah fitrah primer yang wajib disinergikan bersama pesantren.
@@ -229,7 +229,7 @@ Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan 
 
 ### 3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (*Parent-School Partnership Pact*)
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kesepakatan Kesinambungan Pembiasaan Adab (home-school Continuity)**:  
    Pihak I berkomitmen melanjutkan pembiasaan shalat berjamaah 5 waktu di masjid, adab tutur kata santun, dan pembatasan penggunaan gawai (maksimal 2 jam/hari) saat ananda berada di rumah pada masa liburan.

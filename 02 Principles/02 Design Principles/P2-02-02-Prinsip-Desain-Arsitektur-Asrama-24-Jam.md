@@ -33,8 +33,8 @@
   - [5. Inkuiri 4: Integrasi Arsitektur Biofilik & Eliminasi Total Blindspots CPTED di Seluruh Zona Asrama](#5-inkuiri-4-integrasi-arsitektur-biofilik--eliminasi-total-blindspots-cpted-di-seluruh-zona-asrama)
   - [6. Inkuiri 5: Desain Ergonomi Kamar Santri: Ranjang Tunggal Mandiri, Lemari Pribadi, & Meja Belajar Khusyuk](#6-inkuiri-5-desain-ergonomi-kamar-santri-ranjang-tunggal-mandiri-lemari-pribadi--meja-belajar-khusyuk)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Fisik Asrama, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-fisik-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-desain-arsitektur-asrama-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-formulasi-konseptual-standar-desain-arsitektur-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Metrik Fisik & Ergonomi Bangunan Asrama Pesantren](#2-matriks-standar-metrik-fisik--ergonomi-bangunan-asrama-pesantren)
   - [3. Matriks Zonasi Tata Ruang Asrama Terpadu (Zona Privat, Semi-Publik, Publik)](#3-matriks-zonasi-tata-ruang-asrama-terpadu-zona-privat-semi-publik-publik)
   - [4. Protokol Audit Kelaikan Fisik & Sanitasi Asrama (Dormitory Facility Audit Protocol)](#4-protokol-audit-kelaikan-fisik--sanitasi-asrama-dormitory-facility-audit-protocol)
@@ -206,13 +206,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Desain Arsitektur Asrama Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Desain Arsitektur Asrama Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kapasitas Manusiawi & Pemisahan Tempat Tidur (tafriq Al-madhaji')**:  
    Setiap santri berhak mendapatkan kasur single mandiri (minimal 90 x 200 cm), lemari pribadi terkunci, dan ruang gerak manusiawi (minimal 4–5 m² per santri). Kapasitas maksimal kamar dibatasi 8–12 santri.

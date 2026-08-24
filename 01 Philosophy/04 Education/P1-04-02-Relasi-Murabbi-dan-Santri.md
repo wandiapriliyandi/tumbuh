@@ -32,8 +32,8 @@
   - [5. Inkuiri 4: Dialektika Kritik atas Relasi Transaksional & Penghapusan Normalisasi Hukuman Fisik](#5-inkuiri-4-dialektika-kritik-atas-relasi-transaksional--penghapusan-normalisasi-hukuman-fisik)
   - [6. Inkuiri 5: Rekayasa Komunikasi Edukatif: Dialog Empati Hati ke Hati & Batasan Profesional Musyrif](#6-inkuiri-5-rekayasa-komunikasi-edukatif-dialog-empati-hati-ke-hati--batasan-profesional-musyrif)
   - [7. Inkuiri 6: Translasi Relasi Qudwah ke Tata Kelola Standar Interaksi Harian Guru-Santri 24 Jam](#7-inkuiri-6-translasi-relasi-qudwah-ke-tata-kelola-standar-interaksi-harian-guru-santri-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik](#1-kaidah-utama-dan-standar-baku-relasi-edukatif-berbasis-qudwah-ihtiram-timbal-balik)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik](#1-formulasi-konseptual-relasi-edukatif-berbasis-qudwah-ihtiram-timbal-balik)
   - [2. Matriks Komparasi Pola Relasi Guru-Santri: Feodal-Otoriter vs Permisif vs Qudwah-Attachment TUMBUH](#2-matriks-komparasi-pola-relasi-guru-santri-feodal-otoriter-vs-permisif-vs-qudwah-attachment-tumbuh)
   - [3. Matriks Kode Etik & Batasan Interaksi Harian Guru/Musyrif-Santri 24 Jam](#3-matriks-kode-etik--batasan-interaksi-harian-gurumusyrif-santri-24-jam)
   - [4. Protokol Bimbingan Empat Mata (1-on-1 Mentoring Protocol) yang Aman & Menjaga Martabat](#4-protokol-bimbingan-empat-mata-1-on-1-mentoring-protocol-yang-aman--menjaga-martabat)
@@ -248,13 +248,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik
+### 1. Formulasi Konseptual: Relasi Edukatif Berbasis Qudwah & Ihtiram Timbal-Balik
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Asas Kasih Sayang Ayah Spiritual (IN Loco Parentis)**:  
    Seluruh guru, asatidz, dan musyrif wajib memperlakukan setiap santri laksana anak kandungnya sendiri dalam hal kasih sayang (ar-Rifq), belas kasih (asy-Syafaqah), dan pemuliaan martabat insan (al-Ikram).

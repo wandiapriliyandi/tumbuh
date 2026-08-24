@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Arsitektur Visualisasi Dashboard PBIS Multi-Tier & Spatial Heatmap Titik Rawan](#4-inkuiri-3-arsitektur-visualisasi-dashboard-pbis-multi-tier--spatial-heatmap-titik-rawan)
   - [5. Inkuiri 4: Etika Keamanan Data, Enkripsi, & Perlindungan Privasi Rekam Jejak Santri (ISO/IEC 27001)](#5-inkuiri-4-etika-keamanan-data-enkripsi--perlindungan-privasi-rekam-jejak-santri-isoiec-27001)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Digitalisasi Lapangan, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-digitalisasi-lapangan--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-ui-ux-dan-dashboard-logbook-pbis-digital-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH](#1-formulasi-konseptual-prinsip-desain-ui-ux-dan-dashboard-logbook-pbis-digital-tumbuh)
   - [2. Matriks 10 Heuristik Usability Jakob Nielsen & Implementasi Konkret pada UI Logbook Musyrif](#2-matriks-10-heuristik-usability-jakob-nielsen--implementasi-konkret-pada-ui-logbook-musyrif)
   - [3. Arsitektur Wireframe Fungsional & Alur Input Logbook Adab 30 Detik (Fast-Tap Interaction)](#3-arsitektur-wireframe-fungsional--alur-input-logbook-adab-30-detik-fast-tap-interaction)
   - [4. Protokol Tata Kelola Privasi Data & Hak Akses Berjenjang (Data Privacy & Access Control Protocol)](#4-protokol-tata-kelola-privasi-data--hak-akses-berjenjang-data-privacy--access-control-protocol)
@@ -188,13 +188,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH
+### 1. Formulasi Konseptual: Prinsip Desain UI/UX dan Dashboard Logbook PBIS Digital TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Ekonomi Kognitif Fast-tap (the 30-second Interaction Mandate)**:  
    Antarmuka aplikasi logbook musyrif wajib dirancang dengan prinsip gesekan kognitif rendah (Low Friction). Proses pencatatan apresiasi atau observasi adab per santri wajib dapat diselesaikan dalam <30 detik.

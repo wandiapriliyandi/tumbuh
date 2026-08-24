@@ -35,8 +35,8 @@
   - [5. Inkuiri 4: Manajemen Beban Kognitif (Cognitive Load Theory John Sweller) dalam Penjadwalan Belajar](#5-inkuiri-4-manajemen-beban-kognitif-cognitive-load-theory-john-sweller-dalam-penjadwalan-belajar)
   - [6. Inkuiri 5: Taksonomi Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin](#6-inkuiri-5-taksonomi-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kurikulum, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-kurikulum--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-desain-kurikulum-holistik-terpadu-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-desain-kurikulum-holistik-terpadu-pesantren-tumbuh)
   - [2. Matriks 4 Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH](#2-matriks-4-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [3. Matriks Capaian Belajar Tangga TUMBUH (T1–T4) Lintas Disiplin Ilmu](#3-matriks-capaian-belajar-tangga-tumbuh-t1t4-lintas-disiplin-ilmu)
   - [4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (Classroom-Dormitory Alignment Protocol)](#4-protokol-penyelarasan-kurikulum-kelas-asrama-24-jam-classroom-dormitory-alignment-protocol)
@@ -225,13 +225,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Desain Kurikulum Holistik Terpadu Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Integrasi 4 Pilar Kurikulum Holistik**:  
    Kurikulum pesantren wajib mengintegrasikan secara harmonis 4 pilar utama: Dirasah Islamiyah (Turats), Tahfizh Al-Qur'an Mutqin, Karakter Sosial-Emosional (SEL & Adab), dan Sains & Kecakapan Hidup. Menolak segala bentuk kurikulum dikotomis sekuler yang memisahkan ilmu agama dari kehidupan nyata.

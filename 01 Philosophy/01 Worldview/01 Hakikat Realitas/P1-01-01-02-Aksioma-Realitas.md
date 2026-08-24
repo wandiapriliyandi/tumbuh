@@ -32,7 +32,7 @@
   - [3. Inkuiri 2: Investigasi Masalah Eksistensi: Bagaimana Struktur Semesta Beroperasi?](#3-inkuiri-2-investigasi-masalah-eksistensi-bagaimana-struktur-semesta-beroperasi)
   - [4. Inkuiri 3: Investigasi Dikotomi Kausalitas: Mengapa Hukum Fisika dan Tuntunan Syariat Sering Dipertentangkan?](#4-inkuiri-3-investigasi-dikotomi-kausalitas-mengapa-hukum-fisika-dan-tuntunan-syariat-sering-dipertentangkan)
   - [5. Inkuiri 4: Investigasi Psikososial: Apa Dampak Struktur Realitas Ini terhadap Jiwa Santri?](#5-inkuiri-4-investigasi-psikososial-apa-dampak-struktur-realitas-ini-terhadap-jiwa-santri)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Definisi dan Kedudukan Aksioma dalam Bangunan Filosofis](#1-definisi-dan-kedudukan-aksioma-dalam-bangunan-filosofis)
   - [2. Enam Aksioma Metafisik Realitas Ekosistem TUMBUH](#2-enam-aksioma-metafisik-realitas-ekosistem-tumbuh)
   - [3. Matriks Kausalitas: Sunnatullah Kauniyyah vs Syar'iyyah](#3-matriks-kausalitas-sunnatullah-kauniyyah-vs-syariyyah)
@@ -279,7 +279,7 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat kodifikasi enam aksioma baku yang disarikan langsung dari hasil pembuktian logika formal (*qiyas burhani*), dialektika tiga ronde, dan pengujian lapangan pada Bagian I di atas.*
 

@@ -28,8 +28,8 @@
   - [3. Inkuiri 2: Konvergensi Psychosocial Identity Theory (Erik Erikson) & Social Inclusion Theory di Asrama](#3-inkuiri-2-konvergensi-psychosocial-identity-theory-erik-erikson--social-inclusion-theory-di-asrama)
   - [4. Inkuiri 3: Dekonstruksi Polarisasi Geng Asrama & Protokol Rekayasa Iklim Ukhuwah Sejati](#4-inkuiri-3-dekonstruksi-polarisasi-geng-asrama--protokol-rekayasa-iklim-ukhuwah-sejati)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-pembinaan-identitas-remaja-ukhuwah-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH](#1-formulasi-konseptual-standar-pembinaan-identitas-remaja-ukhuwah-pesantren-tumbuh)
   - [2. Matriks Pendampingan 3 Tahap Krisis Identitas Santri: Difusi, Moratorium, & Pencapaian Identitas Insan Adabi](#2-matriks-pendampingan-3-tahap-krisis-identitas-santri-difusi-moratorium--pencapaian-identitas-insan-adabi)
   - [3. Standar Prosedur Operasional (SOP) Pencegahan & Pembubaran Geng Asrama Eksklusif](#3-standar-prosedur-operasional-sop-pencegahan--pembubaran-geng-asrama-eksklusif)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -154,13 +154,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pendampingan Marhalah Asy-syabab Dengan Pendekatan Sahabat (khawikhum)**:  
    Menetapkan bahwa asatidz dan musyrif wajib memperlakukan santri remaja (usia 12–18 tahun) sebagai sahabat dialog penuh kasih dan wibawa; mengharamkan pola pengasuhan otoriter represif yang kaku.

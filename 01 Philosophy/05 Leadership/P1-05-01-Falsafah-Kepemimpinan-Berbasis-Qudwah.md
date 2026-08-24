@@ -35,8 +35,8 @@
   - [5. Inkuiri 4: Formulasi Prinsip Lead by Example dalam Rutinitas 24 Jam Pendidik Pesantren](#5-inkuiri-4-formulasi-prinsip-lead-by-example-dalam-rutinitas-24-jam-pendidik-pesantren)
   - [6. Inkuiri 5: Dialektika Keteladanan Menghadapi Santri Generasi Digital](#6-inkuiri-5-dialektika-keteladanan-menghadapi-santri-generasi-digital)
   - [7. Inkuiri 6: Translasi Falsafah Qudwah ke Tata Kelola Budaya Integritas Lembaga](#7-inkuiri-6-translasi-falsafah-qudwah-ke-tata-kelola-budaya-integritas-lembaga)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-falsafah-kepemimpinan-berbasis-qudwah-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH](#1-formulasi-konseptual-falsafah-kepemimpinan-berbasis-qudwah-pesantren-tumbuh)
   - [2. Matriks Komparasi Kepemimpinan: Retorika Otoriter vs Permisif vs Kepemimpinan Qudwah TUMBUH](#2-matriks-komparasi-kepemimpinan-retorika-otoriter-vs-permisif-vs-kepemimpinan-qudwah-tumbuh)
   - [3. Matriks 5 Ranah Keteladanan Mutlak Musyrif & Asatidz di Pesantren 24 Jam](#3-matriks-5-ranah-keteladanan-mutlak-musyrif--asatidz-di-pesantren-24-jam)
   - [4. Protokol Evaluasi Diri Keteladanan Pendidik (Daily Qudwah Self-Audit Protocol)](#4-protokol-evaluasi-diri-keteladanan-pendidik-daily-qudwah-self-audit-protocol)
@@ -251,13 +251,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH
+### 1. Formulasi Konseptual: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Utama Qudwah First (leading BY Authentic Example)**:  
    Kepemimpinan di pesantren TUMBUH adalah kepemimpinan keteladanan nyata. Dilarang keras memimpin hanya dengan perintah verbal dan ancaman kekerasan. Setiap pemimpin, guru, dan musyrif wajib mempraktikkan adab dan kedisiplinan pada dirinya sendiri sebelum menuntutnya dari orang lain.

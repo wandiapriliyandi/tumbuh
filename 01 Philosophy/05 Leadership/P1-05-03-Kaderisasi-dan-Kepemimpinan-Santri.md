@@ -31,8 +31,8 @@
   - [5. Inkuiri 4: Kurikulum Kaderisasi Kepemimpinan Santri Tahap 7 Penggerak (Tangga TUMBUH)](#5-inkuiri-4-kurikulum-kaderisasi-kepemimpinan-santri-tahap-7-penggerak-tangga-tumbuh)
   - [6. Inkuiri 5: Implementasi Sistem Pendampingan Sebaya (Brotherhood / Sisterhood Mentorship)](#6-inkuiri-5-implementasi-sistem-pendampingan-sebaya-brotherhood--sisterhood-mentorship)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom](#1-kaidah-utama-dan-standar-baku-piagam-anti-perpeloncoan-dan-kepemimpinan-santri-pengayom)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom](#1-formulasi-konseptual-piagam-anti-perpeloncoan-dan-kepemimpinan-santri-pengayom)
   - [2. Matriks Komparasi Organisasi Santri: Model Senioritas Feodal vs Model Duta Adab TUMBUH](#2-matriks-komparasi-organisasi-santri-model-senioritas-feodal-vs-model-duta-adab-tumbuh)
   - [3. Matriks Kurikulum Pelatihan Kepemimpinan Santri Tahap 7 Penggerak](#3-matriks-kurikulum-pelatihan-kepemimpinan-santri-tahap-7-penggerak)
   - [4. Protokol Mentoring Sahabat Sebaya (Peer Mentorship Charter)](#4-protokol-mentoring-sahabat-sebaya-peer-mentorship-charter)
@@ -213,13 +213,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom
+### 1. Formulasi Konseptual: Piagam Anti-Perpeloncoan dan Kepemimpinan Santri Pengayom
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Larangan Mutlak Hukuman Oleh Santri Senior (zero Senior Punishment)**:  
    DILARANG KERAS 100% BAGI SANTRI SENIOR (ORGANISASI SANTRI / KELAS AKHIR) MEMBERIKAN SANKSI FISIK, PEMBENTAKAN VERBAL, SIDANG TENGAH MALAM, ATAU TINDAKAN MERENDAHKAN MARTABAT KEPADA ADIK KELAS. Seluruh wewenang yudisial dan penindakan disiplin berada secara eksklusif di tangan Musyrif dewasa.

@@ -34,7 +34,7 @@
   - [2. Matriks Uji Kelaikan Perkembangan Lapangan (Developmental Usability & Feasibility Matrix)](#2-matriks-uji-kelaikan-perkembangan-lapangan-developmental-usability--feasibility-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Pengasuhan Asrama](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-pengasuhan-asrama)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 05 Assessment Principles](#4-jembatan-epistemologis-menuju-sub-domain-05-assessment-principles)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PERKEMBANGAN JIWA](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-perkembangan-jiwa)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN PERKEMBANGAN JIWA](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-perkembangan-jiwa)
   - [1. Grand Manifesto Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH](#1-grand-manifesto-perlindungan--maturasi-fitrah-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Perkembangan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-perkembangan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Pengasuhan Asrama Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-pengasuhan-asrama-berkelanjutan)
@@ -131,13 +131,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL PERKEMBANGAN JIWA
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN PERKEMBANGAN JIWA
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH
+### 1. Formulasi Konseptual: Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghormatan Maturasi Neurobiologis Remaja Menegakkan pengasuhan yang selaras dengan kesenjangan maturasi otak remaja (Dual-Systems Model). Menetapkan peran musyrif sebagai Prefrontal Cortex Eksternal dan mengharamkan mutlak hukuman fisik.**:  
    

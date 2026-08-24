@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Dekonstruksi Fiqh Pukulan Edukatif & Penegakan Kebijakan Zero Physical Strike (Sadd adz-Dzara'i')](#4-inkuiri-3-dekonstruksi-fiqh-pukulan-edukatif--penegakan-kebijakan-zero-physical-strike-sadd-adz-dzarai)
   - [5. Inkuiri 4: Hak Kerahasiaan Privasi Santri (Satrul 'Aurat & Confidentiality Konseling BK)](#5-inkuiri-4-hak-kerahasiaan-privasi-santri-satrul-aurat--confidentiality-konseling-bk)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Hak Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-hak-santri--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-hak-hak-asasi-dan-kemuliaan-martabat-santri-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH](#1-formulasi-konseptual-piagam-hak-hak-asasi-dan-kemuliaan-martabat-santri-pesantren-tumbuh)
   - [2. Matriks 5 Hak Fundamental Santri & Kewajiban Institusi Pesantren](#2-matriks-5-hak-fundamental-santri--kewajiban-institusi-pesantren)
   - [3. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (Child Safeguarding Protocol)](#3-protokol-perlindungan-anak-dan-pencegahan-kekerasan-pengasuhan-child-safeguarding-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -192,13 +192,13 @@ $$\text{وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّ
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH
+### 1. Formulasi Konseptual: Piagam Hak-Hak Asasi dan Kemuliaan Martabat Santri Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **HAK Atas Keselamatan Fisik Mutlak & Kebijakan NOL Kekerasan (zero Physical Strike) Setiap santri berhak mendapatkan perlindungan mutlak dari segala bentuk kekerasan fisik, pemukulan rotan, tamparan, tendangan, kekerasan seksual, maupun hukuman fisik yang membahayakan kesehatan tubuh.**:  
    

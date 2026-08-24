@@ -32,8 +32,8 @@
   - [5. Inkuiri 4: Analisis Diferensiasi Karakteristik & Kebutuhan Pedagogis Jenjang MTs (12–15 Tahun) vs MA (15–18 Tahun)](#5-inkuiri-4-analisis-diferensiasi-karakteristik--kebutuhan-pedagogis-jenjang-mts-1215-tahun-vs-ma-1518-tahun)
   - [6. Inkuiri 5: Dialektika Mitigasi Homesickness, Krisis Transisi, & Resolusi Friksi Kamar Santri Baru](#6-inkuiri-5-dialektika-mitigasi-homesickness-krisis-transisi--resolusi-friksi-kamar-santri-baru)
   - [7. Inkuiri 6: Translasi Trajektori Perkembangan ke Tata Kelola Pengasuhan Asrama 24 Jam](#7-inkuiri-6-translasi-trajektori-perkembangan-ke-tata-kelola-pengasuhan-asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Perlindungan dan Pendampingan Fase Perkembangan Santri](#1-kaidah-utama-dan-standar-baku-perlindungan-dan-pendampingan-fase-perkembangan-santri)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Perlindungan dan Pendampingan Fase Perkembangan Santri](#1-formulasi-konseptual-perlindungan-dan-pendampingan-fase-perkembangan-santri)
   - [2. Matriks Komparasi Periodisasi: Turats Marahil al-'Umr vs Psikologi Perkembangan Barat](#2-matriks-komparasi-periodisasi-turats-marahil-al-umr-vs-psikologi-perkembangan-barat)
   - [3. Matriks Diferensiasi Pengasuhan Asrama: Jenjang MTs vs Jenjang MA](#3-matriks-diferensiasi-pengasuhan-asrama-jenjang-mts-vs-jenjang-ma)
   - [4. Protokol Bimbingan Transisi: SOP Mitigasi Homesickness & De-Eskalasi Ledakan Emosi Remaja](#4-protokol-bimbingan-transisi-sop-mitigasi-homesickness--de-eskalasi-ledakan-emosi-remaja)
@@ -363,13 +363,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Perlindungan dan Pendampingan Fase Perkembangan Santri
+### 1. Formulasi Konseptual: Perlindungan dan Pendampingan Fase Perkembangan Santri
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Diferensiasi Perkembangan (developmental Differentiation)**:  
    Pesantren mengakui bahwa santri usia remaja (Murahaqah) sedang mengalami metamorfosis biologis, psikososial, dan kognitif yang dinamis. Dilarang keras memberlakukan pendekatan seragam yang kaku antara santri awal remaja (MTs) dan santri akhir remaja (MA).

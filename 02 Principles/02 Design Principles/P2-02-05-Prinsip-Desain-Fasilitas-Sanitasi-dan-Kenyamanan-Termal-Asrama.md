@@ -30,8 +30,8 @@
   - [3. Inkuiri 2: Standarisasi WHO WASH in Schools & Arsitektur Kenyamanan Termal Tropis](#3-inkuiri-2-standarisasi-who-wash-in-schools--arsitektur-kenyamanan-termal-tropis)
   - [4. Inkuiri 3: Eliminasi Scabies & Manajemen Protokol Jemur Kasur Bebas Tungau (Zero Scabies Protocol)](#4-inkuiri-3-eliminasi-scabies--manajemen-protokol-jemur-kasur-bebas-tungau-zero-scabies-protocol)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-desain-fasilitas-sanitasi-kesehatan-asrama-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-formulasi-konseptual-standar-desain-fasilitas-sanitasi-kesehatan-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Arsitektur Fisik Asrama: Parameter, Nilai Ambang Baku, & Verifikasi Kelaikan](#2-matriks-standar-arsitektur-fisik-asrama-parameter-nilai-ambang-baku--verifikasi-kelaikan)
   - [3. Standar Prosedur Operasional (SOP) Manajemen Kebersihan Harian & Pengendalian Vektor Penyakit](#3-standar-prosedur-operasional-sop-manajemen-kebersihan-harian--pengendalian-vektor-penyakit)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -148,13 +148,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Mutlak Wabah Penyakit Kulit Menular (zero Scabies Mandate)**:  
    Menetapkan bahwa asrama pesantren wajib bebas 100% dari penyakit kudis/scabies dan jamur kulit; mengharamkan pembiaran sanitasi kumuh atas dalih mitos tradisi tirakat.

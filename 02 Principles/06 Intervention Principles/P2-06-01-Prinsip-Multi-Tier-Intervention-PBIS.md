@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Operasionalisasi Program Check-In / Check-Out (CICO) di Asrama 24 Jam](#4-inkuiri-3-operasionalisasi-program-check-in--check-out-cico-di-asrama-24-jam)
   - [5. Inkuiri 4: Menjaga Rasio Apresiasi Kebaikan Minimal 4:1 (The 4:1 Positivity Ratio)](#5-inkuiri-4-menjaga-rasio-apresiasi-kebaikan-minimal-41-the-41-positivity-ratio)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Intervensi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-intervensi-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-multi-tier-pbis-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-multi-tier-pbis-pesantren-tumbuh)
   - [2. Matriks Komparasi 3 Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)](#2-matriks-komparasi-3-tingkat-pbis-pesantren-tumbuh-tier-1-tier-2-tier-3)
   - [3. Alur Standar Operasional Prosedur Program CICO Tier 2 Harian](#3-alur-standar-operasional-prosedur-program-cico-tier-2-harian)
   - [4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3](#4-protokol-eskalasi-dan-rujukan-santri-dari-tier-1-menuju-tier-3)
@@ -185,13 +185,13 @@ Riset neuropsikologi membuktikan bahwa otak manusia memiliki **Bias Negativitas 
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Multi-Tier PBIS Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Multi-Tier PBIS Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Paradigma Reaktif Punitif (anti-reactive Discipline Mandate)**:  
    Menolak segala bentuk penanganan disiplin berbasis kemarahan spontan, pemukulan rotan, dan pengusiran. Pengelolaan perilaku wajib menggunakan sistem pencegahan proaktif multi-jenjang berlandaskan data.

@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Penanaman Growth Mindset Carol Dweck vs Fixed Mindset dalam Pembelajaran Bahasa Arab & Kitab](#4-inkuiri-3-penanaman-growth-mindset-carol-dweck-vs-fixed-mindset-dalam-pembelajaran-bahasa-arab--kitab)
   - [5. Inkuiri 4: Strategi Metakognitif Harian Santri: Self-Monitoring Checklist & Jurnal Refleksi Malam](#5-inkuiri-4-strategi-metakognitif-harian-santri-self-monitoring-checklist--jurnal-refleksi-malam)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kemandirian Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kemandirian-santri--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-metakognisi-dan-kemandirian-belajar-santri-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH](#1-formulasi-konseptual-prinsip-metakognisi-dan-kemandirian-belajar-santri-tumbuh)
   - [2. Matriks Siklus 3 Fase Self-Regulated Learning (SRL) dalam Rutinitas Santri 24 Jam](#2-matriks-siklus-3-fase-self-regulated-learning-srl-dalam-rutinitas-santri-24-jam)
   - [3. Matriks Transformasi Fixed Mindset Menuju Growth Mindset Islami](#3-matriks-transformasi-fixed-mindset-menuju-growth-mindset-islami)
   - [4. Protokol Muhasabah Kognitif & Jurnal Refleksi Belajar Mandiri (Self-Regulated Study Protocol)](#4-protokol-muhasabah-kognitif--jurnal-refleksi-belajar-mandiri-self-regulated-study-protocol)
@@ -193,13 +193,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH
+### 1. Formulasi Konseptual: Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Transformasi Menuju Pembelajar Mandiri Otonom (autonomous Learner)**:  
    Pendidikan pesantren wajib menumbuhkan regulasi diri internal santri (Self-Regulation) sehingga santri belajar atas dorongan cinta ilmu dan takwa, bukan karena ketergantungan pengawasan represif.

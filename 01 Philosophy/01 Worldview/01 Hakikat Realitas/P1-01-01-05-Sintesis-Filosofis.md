@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Dekonstruksi Dualisme Cartesian Sekuler — Mengintegrasikan Jiwa dan Raga Santri](#5-inkuiri-4-dekonstruksi-dualisme-cartesian-sekuler--mengintegrasikan-jiwa-dan-raga-santri)
   - [6. Inkuiri 5: Penyelarasan Realisme Kritis Kontemporer dengan Epistemologi Turats Aswaja](#6-inkuiri-5-penyelarasan-realisme-kritis-kontemporer-dengan-epistemologi-turats-aswaja)
   - [7. Inkuiri 6: Translasi Sintesis Realitas ke Desain Ekosistem Pesantren 24 Jam](#7-inkuiri-6-translasi-sintesis-realitas-ke-desain-ekosistem-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Deklarasi Posisi Filosofis Resmi TUMBUH: Realisme Teistik Integratif](#1-deklarasi-posisi-filosofis-resmi-tumbuh-realisme-teistik-integratif)
   - [2. Empat Pilar Ontologi Baku Realisme Teistik Integratif](#2-empat-pilar-ontologi-baku-realisme-teistik-integratif)
   - [3. Matriks Komparasi Komprehensif: TUMBUH vs Mazhab Ontologi Barat](#3-matriks-komparasi-komprehensif-tumbuh-vs-mazhab-ontologi-barat)
@@ -308,7 +308,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat deklarasi resmi posisi filosofis TUMBUH, empat pilar ontologis, matriks komparasi mazhab dunia, dan implikasi operasional bagi pesantren.*
 

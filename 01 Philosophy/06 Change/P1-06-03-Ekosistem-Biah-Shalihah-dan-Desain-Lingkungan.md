@@ -34,8 +34,8 @@
   - [5. Inkuiri 4: Integrasi Broken Windows Theory dalam Menjaga Kebersihan & Fasilitas Sanitasi Asrama](#5-inkuiri-4-integrasi-broken-windows-theory-dalam-menjaga-kebersihan--fasilitas-sanitasi-asrama)
   - [6. Inkuiri 5: Protokol Patroli Titik Rawan Asrama 24 Jam bagi Musyrif Piket](#6-inkuiri-5-protokol-patroli-titik-rawan-asrama-24-jam-bagi-musyrif-piket)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Tata Ruang, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-tata-ruang--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH](#1-kaidah-utama-dan-standar-baku-arsitektur-bi-ah-shalihah-dan-tata-ruang-fisik-asrama-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH](#1-formulasi-konseptual-arsitektur-bi-ah-shalihah-dan-tata-ruang-fisik-asrama-tumbuh)
   - [2. Matriks 4 Prinsip CPTED & Penerapannya dalam Tata Letak Arsitektur Pesantren](#2-matriks-4-prinsip-cpted--penerapannya-dalam-tata-letak-arsitektur-pesantren)
   - [3. Matriks Pemetaan Titik Rawan Asrama (Hotspots Mapping) & Tindakan Rekayasa Lingkungan](#3-matriks-pemetaan-titik-rawan-asrama-hotspots-mapping--tindakan-rekayasa-lingkungan)
   - [4. Protokol Patroli Titik Rawan & Pengawasan Musyrif Asrama 24 Jam (Hotspots Active Patrol SOP)](#4-protokol-patroli-titik-rawan--pengawasan-musyrif-asrama-24-jam-hotspots-active-patrol-sop)
@@ -227,13 +227,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH
+### 1. Formulasi Konseptual: Arsitektur Bi'ah Shalihah dan Tata Ruang Fisik Asrama TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Lingkungan Sebagai Guru Ketiga (environment AS THE Third Teacher)**:  
    Tata ruang fisik dan iklim sosial asrama adalah instrumen pedagogis yang secara aktif membentuk akhlak santri 24 jam. Lembaga wajib mendesain asrama yang terang, bersih, asri, dan bebas ancaman.

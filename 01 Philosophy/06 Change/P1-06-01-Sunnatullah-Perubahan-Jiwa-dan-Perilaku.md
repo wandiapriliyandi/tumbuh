@@ -33,8 +33,8 @@
   - [5. Inkuiri 4: Strategi Intervensi Terdiferensiasi Berbasis Tahap Kesiapan Berubah Santri di Asrama](#5-inkuiri-4-strategi-intervensi-terdiferensiasi-berbasis-tahap-kesiapan-berubah-santri-di-asrama)
   - [6. Inkuiri 5: Penanganan Fase Kekambuhan (Relapse Management) Tanpa Stigmatisasi Moral](#6-inkuiri-5-penanganan-fase-kekambuhan-relapse-management-tanpa-stigmatisasi-moral)
   - [7. Inkuiri 6: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Perubahan Riil, & Titik Temu Konsensus](#7-inkuiri-6-silogisme-logika-dialektika-3-ronde-kasuistika-perubahan-riil--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH](#1-kaidah-utama-dan-standar-baku-hukum-kausalitas-perubahan-jiwa-dan-perilaku-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH](#1-formulasi-konseptual-hukum-kausalitas-perubahan-jiwa-dan-perilaku-tumbuh)
   - [2. Matriks 5 Tahap Kesiapan Berubah (TTM Prochaska) vs Pendekatan Pembinaan Musyrif](#2-matriks-5-tahap-kesiapan-berubah-ttm-prochaska-vs-pendekatan-pembinaan-musyrif)
   - [3. Matriks Diferensiasi Intervensi Perilaku Berdasarkan Kesiapan Jiwa Santri](#3-matriks-diferensiasi-intervensi-perilaku-berdasarkan-kesiapan-jiwa-santri)
   - [4. Protokol Diagnosis Kesiapan Berubah Santri (Readiness to Change Diagnostic Protocol)](#4-protokol-diagnosis-kesiapan-berubah-santri-readiness-to-change-diagnostic-protocol)
@@ -231,13 +231,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH
+### 1. Formulasi Konseptual: Hukum Kausalitas Perubahan Jiwa dan Perilaku TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Poros Utama Perubahan Dari Dalam Jiwa (MA BI Anfusihim)**:  
    Perubahan karakter dan adab santri yang sejati berakar pada kehendak sadar di kedalaman nurani. Menolak segala bentuk ilusi pemaksaan perubahan instan melalui teror fisik atau rasa malu publik.

@@ -32,7 +32,7 @@
   - [2. Matriks Komparasi Filosofis: TUMBUH vs 4 Mazhab Perkembangan Barat (Behaviorisme, Kognitivisme, Psikososial, & Humanistik)](#2-matriks-komparasi-filosofis-tumbuh-vs-4-mazhab-perkembangan-barat-behaviorisme-kognitivisme-psikososial--humanistik)
   - [3. Dekonstruksi Paradigma Reduksionis & Penghapusan Mutlak Stagnasi Punitif](#3-dekonstruksi-paradigma-reduksionis--penghapusan-mutlak-stagnasi-punitif)
   - [4. Jembatan Filosofis & Pedagogis Menuju Sub-Domain 04 Education](#4-jembatan-filosofis--pedagogis-menuju-sub-domain-04-education)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL HUMAN DEVELOPMENT](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-human-development)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN HUMAN DEVELOPMENT](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-human-development)
   - [1. Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri Pesantren TUMBUH](#1-piagam-kelembagaan-pemuliaan-hak-bertumbuh-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Human Development ke dalam Kurikulum Pengasuhan 24 Jam](#2-matriks-integrasi-operasional-6-pilar-human-development-ke-dalam-kurikulum-pengasuhan-24-jam)
   - [3. Protokol Audit Kualitas Pengasuhan Asrama Berbasis Human Development](#3-protokol-audit-kualitas-pengasuhan-asrama-berbasis-human-development)
@@ -113,13 +113,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL HUMAN DEVELOPMENT
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN HUMAN DEVELOPMENT
 
 ---
 
 ### 1. Piagam Kelembagaan Pemuliaan Hak Bertumbuh Santri Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **HAK Mutlak Kesucian Fitrah & Martabat Setiap santri dilahirkan suci dan mulia (Mukarram). Lembaga menjamin hak setiap santri untuk dibina dengan cinta, rasa hormat, dan kasih sayang (Firm & Kind), tanpa ancaman kekerasan fisik maupun verbal.**:  
    

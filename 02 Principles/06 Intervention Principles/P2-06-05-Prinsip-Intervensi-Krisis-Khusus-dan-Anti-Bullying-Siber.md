@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Protokol De-Eskalasi Krisis Non-Violent & Regulasi Trauma Neurosains Remaja](#3-inkuiri-2-protokol-de-eskalasi-krisis-non-violent--regulasi-trauma-neurosains-remaja)
   - [4. Inkuiri 3: Dekonstruksi Perundungan Siber (Cyberbullying) & Desain Sistem Pelaporan Anonim Terlindungi](#4-inkuiri-3-dekonstruksi-perundungan-siber-cyberbullying--desain-sistem-pelaporan-anonim-terlindungi)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-manajemen-krisis-anti-bullying-siber-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH](#1-formulasi-konseptual-standar-manajemen-krisis-anti-bullying-siber-pesantren-tumbuh)
   - [2. Matriks 4 Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis](#2-matriks-4-tahap-penanganan-krisis-pemicu-eskalasi-puncak-krisis--pemulihan-pasca-krisis)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Kasus Perundungan Siber & Perlindungan Korban](#3-standar-prosedur-operasional-sop-penanganan-kasus-perundungan-siber--perlindungan-korban)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -147,13 +147,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Manajemen Krisis & Anti-Bullying Siber Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Perlindungan Mutlak Keselamatan Santri (zero Violence & Zero Bullying)**:  
    Menetapkan perlindungan total terhadap keselamatan fisik, psikologis, dan kehormatan martabat santri; mengharamkan mutlak segala bentuk kekerasan fisik, intimidasi verbal, dan perundungan siber di pondok.

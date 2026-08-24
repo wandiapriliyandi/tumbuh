@@ -34,8 +34,8 @@
   - [4. Inkuiri 3: Metodologi Rekonsiliasi Diskrepansi Data Antar-Lokus (Asrama vs Madrasah)](#4-inkuiri-3-metodologi-rekonsiliasi-diskrepansi-data-antar-lokus-asrama-vs-madrasah)
   - [5. Inkuiri 4: Perlindungan Iklim Ukhuwah dalam Peer Assessment Sebaya (Sociometric Safeguards)](#5-inkuiri-4-perlindungan-iklim-ukhuwah-dalam-peer-assessment-sebaya-sociometric-safeguards)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Triangulasi Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-triangulasi-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-triangulasi-data-multi-sumber-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-triangulasi-data-multi-sumber-pesantren-tumbuh)
   - [2. Matriks Pembobotan 4 Sumber Data Asesmen Karakter Santri 360 Derajat](#2-matriks-pembobotan-4-sumber-data-asesmen-karakter-santri-360-derajat)
   - [3. Protokol Tabayyun & Rekonsiliasi Diskrepansi Data (Data Reconciliation SOP)](#3-protokol-tabayyun--rekonsiliasi-diskrepansi-data-data-reconciliation-sop)
   - [4. SOP Peer Assessment Ramah Ukhuwah (Ukhuwah-Safe Peer Feedback Protocol)](#4-sop-peer-assessment-ramah-ukhuwah-ukhuwah-safe-peer-feedback-protocol)
@@ -191,13 +191,13 @@ Riset sosiometri membuktikan bahwa meminta anak-anak menilai kesalahan teman seb
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Vonis Penilai Tunggal (anti-single Rater Tyranny)**:  
    Menolak mutlak penetapan nilai karakter atau status disiplin santri yang hanya bersumber dari 1 orang. Seluruh penilaian karakter wajib mengintegrasikan triangulasi data multi-sumber yang terverifikasi silang.

@@ -33,8 +33,8 @@
   - [4. Inkuiri 3: Rekayasa Laporan Naratif Deskriptif Beradab (Apresiasi, Area Proses, Kemitraan)](#4-inkuiri-3-rekayasa-laporan-naratif-deskriptif-beradab-apresiasi-area-proses-kemitraan)
   - [5. Inkuiri 4: Kemitraan Evaluasi Tiga Pihak dalam Student-Led Conferences (Santri-Guru-Wali)](#5-inkuiri-4-kemitraan-evaluasi-tiga-pihak-dalam-student-led-conferences-santri-guru-wali)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Rapor Karakter, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-rapor-karakter--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-portofolio-pertumbuhan-formatif-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-portofolio-pertumbuhan-formatif-pesantren-tumbuh)
   - [2. Matriks Struktur Portofolio Karakter Digital Santri TUMBUH (E-Portfolio Architecture)](#2-matriks-struktur-portofolio-karakter-digital-santri-tumbuh-e-portfolio-architecture)
   - [3. Template Baku Laporan Naratif Karakter Santri untuk Orang Tua (Narrative Progress Report)](#3-template-baku-laporan-naratif-karakter-santri-untuk-orang-tua-narrative-progress-report)
   - [4. Protokol Konferensi Portofolio Tiga Pihak (Student-Led Conference SOP)](#4-protokol-konferensi-portofolio-tiga-pihak-student-led-conference-sop)
@@ -183,13 +183,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Vonis Nilai Huruf/angka Kering (anti-labeling Rapor Charter)**:  
    Menolak segala bentuk pelaporan kepribadian berbasis huruf (A/B/C/D) atau angka tanpa deskripsi. Seluruh pelaporan adab santri wajib disajikan dalam bentuk Portofolio Pertumbuhan Naratif Deskriptif.
@@ -220,7 +220,7 @@ Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan 
 
 ### 3. Template Baku Laporan Naratif Karakter Santri untuk Orang Tua (*Narrative Progress Report*)
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Melibatkan Ananda dalam musyawarah keluarga agar Ananda terbiasa mendengarkan pandangan orang lain.**:  
    

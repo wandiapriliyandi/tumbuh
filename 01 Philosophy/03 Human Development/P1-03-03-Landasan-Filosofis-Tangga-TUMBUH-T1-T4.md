@@ -34,8 +34,8 @@
   - [5. Inkuiri 4: Dialektika Progresi Menuju Tahap 7 Penggerak — Menumbuhkan Duta Adab & Servant Leadership](#5-inkuiri-4-dialektika-progresi-menuju-tahap-7-penggerak--menumbuhkan-duta-adab--servant-leadership)
   - [6. Inkuiri 5: Dekonstruksi Perankingan Komparatif Toksik Menuju Asesmen Pertumbuhan Ipsatif](#6-inkuiri-5-dekonstruksi-perankingan-komparatif-toksik-menuju-asesmen-pertumbuhan-ipsatif)
   - [7. Inkuiri 6: Translasi Tangga TUMBUH ke Dashboard Digital & Tata Kelola Pengasuhan Asrama 24 Jam](#7-inkuiri-6-translasi-tangga-tumbuh-ke-dashboard-digital--tata-kelola-pengasuhan-asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri](#1-kaidah-utama-dan-standar-baku-tangga-pertumbuhan-tumbuh-t1-t4-hak-bertumbuh-santri)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri](#1-formulasi-konseptual-tangga-pertumbuhan-tumbuh-t1-t4-hak-bertumbuh-santri)
   - [2. Matriks Komprehensif 4 Etape Tangga TUMBUH: Tingkat Kemandirian & Kebutuhan Scaffolding Musyrif](#2-matriks-komprehensif-4-etape-tangga-tumbuh-tingkat-kemandirian--kebutuhan-scaffolding-musyrif)
   - [3. Matriks Progresi 7 Tahap Perkembangan Santri: Menuju Tahap 7 Penggerak](#3-matriks-progresi-7-tahap-perkembangan-santri-menuju-tahap-7-penggerak)
   - [4. Protokol Asesmen Ipsatif: SOP Evaluasi Kemajuan Mandiri Non-Komparatif](#4-protokol-asesmen-ipsatif-sop-evaluasi-kemajuan-mandiri-non-komparatif)
@@ -358,13 +358,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri
+### 1. Formulasi Konseptual: Tangga Pertumbuhan TUMBUH T1–T4 & Hak Bertumbuh Santri
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **HAK Asasi Bertumbuh Secara Gradual (the Right TO Gradual Growth)**:  
    Setiap santri memiliki hak asasi fitrah untuk bertumbuh secara bertahap sesuai kapasitas kejiwaan dan biologisnya. Dilarang keras memaksakan tuntutan kesempurnaan instan yang berujung pada kekerasan.

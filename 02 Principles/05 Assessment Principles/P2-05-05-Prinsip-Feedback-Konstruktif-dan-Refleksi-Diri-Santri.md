@@ -29,8 +29,8 @@
   - [3. Inkuiri 2: Konvergensi Feedback Model (John Hattie & Helen Timperley) & Reflective Muhasabah di Pesantren](#3-inkuiri-2-konvergensi-feedback-model-john-hattie--helen-timperley--reflective-muhasabah-di-pesantren)
   - [4. Inkuiri 3: Eliminasi Praktik Public Shaming & Desain Dialog Asesmen Empat Mata yang Membangkitkan Kesadaran](#4-inkuiri-3-eliminasi-praktik-public-shaming--desain-dialog-asesmen-empat-mata-yang-membangkitkan-kesadaran)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-feedback-konstruktif-dialog-asesmen-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH](#1-formulasi-konseptual-standar-feedback-konstruktif-dialog-asesmen-pesantren-tumbuh)
   - [2. Matriks 4 Tingkatan Feedback: Task Level, Process Level, Self-Regulation Level, & Spiritually-Anchored Level](#2-matriks-4-tingkatan-feedback-task-level-process-level-self-regulation-level--spiritually-anchored-level)
   - [3. Standar Prosedur Operasional (SOP) Sesi Dialog Asesmen Reflektif Dwi-Mingguan Musyrif-Santri](#3-standar-prosedur-operasional-sop-sesi-dialog-asesmen-reflektif-dwi-mingguan-musyrif-santri)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -144,13 +144,13 @@ Pesantren TUMBUH menambahkan level kelima: **Spiritually-Anchored Feedback (FSA)
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Mutlak Metode Mempermalukan DI Depan Umum (zero Public Shaming)**:  
    Mengharamkan pengumuman nama santri pelanggar melalui pengeras suara atau sidang umum yang mempermalukan; menetapkan bahwa setiap evaluasi adab wajib disampaikan secara privat empat mata (Khulawiyyah).

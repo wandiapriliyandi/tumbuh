@@ -31,8 +31,8 @@
   - [4. Inkuiri 3: Perlindungan Kesehatan Mental Musyrif & Mitigasi Burnout Christina Maslach](#4-inkuiri-3-perlindungan-kesehatan-mental-musyrif--mitigasi-burnout-christina-maslach)
   - [5. Inkuiri 4: Desain Halaqah Refleksi & Kalibrasi Adab Pekanan (Weekly Reflective Circle)](#5-inkuiri-4-desain-halaqah-refleksi--kalibrasi-adab-pekanan-weekly-reflective-circle)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Burnout Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-burnout-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
   - [2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (4 Modul Kompetensi)](#2-matriks-kurikulum-sertifikasi--diklat-musyrif-tumbuh-4-modul-kompetensi)
   - [3. Protokol Supervisi Klinis dan Peer Coaching Asrama Mingguan](#3-protokol-supervisi-klinis-dan-peer-coaching-asrama-mingguan)
   - [4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (Musyrif Wellness Charter)](#4-piagam-perlindungan-kesejahteraan--kesehatan-mental-musyrif-musyrif-wellness-charter)
@@ -179,13 +179,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kewajiban Diklat & Sertifikasi Sebelum Bertugas (pre-service Training Mandate)**:  
    Mengharamkan mutlak penugasan musyrif baru tanpa melalui program Pelatihan Sertifikasi Kompetensi Pengasuhan Adab TUMBUH minimal 40 jam pelatihan intensif (Teori, Roleplay, & Praktik Terbimbing).
@@ -232,7 +232,7 @@ flowchart TD
 
 ### 4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (*Musyrif Wellness Charter*)
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **HAK Istirahat & Hari Libur Terjadwal Setiap musyrif berhak mendapatkan 1 (satu) hari libur penuh dalam setiap pekan yang diatur secara bergilir dengan jadwal pengganti yang jelas, bebas dari tugas pengawasan santri.**:  
    

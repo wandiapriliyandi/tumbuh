@@ -40,8 +40,8 @@
   - [5. Inkuiri 4: Formulasi Syarat Baku Konsekuensi Logis 4R (Related, Respectful, Reasonable, Restorative)](#5-inkuiri-4-formulasi-syarat-baku-konsekuensi-logis-4r-related-respectful-reasonable-restorative)
   - [6. Inkuiri 5: Integrasi Matriks Respon Pelanggaran Multi-Tier dalam Pengasuhan Asrama Pesantren 24 Jam](#6-inkuiri-5-integrasi-matriks-respon-pelanggaran-multi-tier-dalam-pengasuhan-asrama-pesantren-24-jam)
   - [7. Inkuiri 6: Translasi Disiplin Restoratif ke Budaya Komunal Tanpa Pengusiran Sepihak](#7-inkuiri-6-translasi-disiplin-restoratif-ke-budaya-komunal-tanpa-pengusiran-sepihak)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-disiplin-restoratif-dan-arsitektur-multi-tier-pbis-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH](#1-formulasi-konseptual-disiplin-restoratif-dan-arsitektur-multi-tier-pbis-pesantren-tumbuh)
   - [2. Matriks Komparasi Paradigma Disiplin: Retributif vs Permisif vs Disiplin Restoratif PBIS TUMBUH](#2-matriks-komparasi-paradigma-disiplin-retributif-vs-permisif-vs-disiplin-restoratif-pbis-tumbuh)
   - [3. Matriks Multi-Tier PBIS Asrama Pesantren: Karakteristik, Intervensi, & Tim Penanggung Jawab](#3-matriks-multi-tier-pbis-asrama-pesantren-karakteristik-intervensi--tim-penanggung-jawab)
   - [4. Protokol Konferensi Restoratif Komunal (Restorative Conference Protocol)](#4-protokol-konferensi-restoratif-komunal-restorative-conference-protocol)
@@ -285,13 +285,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH
+### 1. Formulasi Konseptual: Disiplin Restoratif dan Arsitektur Multi-Tier PBIS Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Hakikat Kedisiplinan Restoratif (restorative Discipline)**:  
    Kedisiplinan di pesantren ditegakkan bukan untuk membalas dendam atau membuat santri menderita, melainkan untuk MEMULIHKAN LUKA RELASI (ISHLAH AL-BAIN), MEMBANGKITKAN KESADARAN EMPATI, DAN MENDIDIK TANGGUNG JAWAB ADAB MELALUI KONSEKUENSI LOGIS YANG MENDIDIK.

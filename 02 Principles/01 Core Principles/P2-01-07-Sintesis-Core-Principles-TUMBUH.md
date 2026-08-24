@@ -33,7 +33,7 @@
   - [5. Inkuiri 4: Uji Kelayakan Operasional Lapangan 24 Jam (Field Usability Stress-Test)](#5-inkuiri-4-uji-kelayakan-operasional-lapangan-24-jam-field-usability-stress-test)
   - [6. Inkuiri 5: Pemetaan Interkoneksi Core Principles Menuju 6 Sub-Domain Prinsip Lanjutan (P2-02 s/d P2-07)](#6-inkuiri-5-pemetaan-interkoneksi-core-principles-menuju-6-sub-domain-prinsip-lanjutan-p2-02-sd-p2-07)
   - [7. Inkuiri 6: Deklarasi Piagam Konstitusi Nilai Ekosistem Pesantren TUMBUH](#7-inkuiri-6-deklarasi-piagam-konstitusi-nilai-ekosistem-pesantren-tumbuh)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Piagam Konstitusi Nilai Ekosistem Pesantren TUMBUH (The Grand Constitution of TUMBUH)](#1-piagam-konstitusi-nilai-ekosistem-pesantren-tumbuh-the-grand-constitution-of-tumbuh)
   - [2. Matriks Epistemologis & Operasional Enam Core Principles](#2-matriks-epistemologis--operasional-enam-core-principles)
   - [3. Peta Pohon Interkoneksi Core Principles ke 6 Sub-Domain Lanjutan](#3-peta-pohon-interkoneksi-core-principles-ke-6-sub-domain-lanjutan)
@@ -333,7 +333,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat Piagam Konstitusi Nilai Resmi TUMBUH, matriks epistemologis 6 core principles, peta interkoneksi sub-domain, dan protokol audit mutu tahunan.*
 

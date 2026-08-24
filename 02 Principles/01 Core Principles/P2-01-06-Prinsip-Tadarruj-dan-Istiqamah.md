@@ -30,8 +30,8 @@
   - [5. Inkuiri 4: Doktrin Tasawuf "Al-Istiqamatu A'zhamu Karamah" & Amal Sedikit Berkelanjutan (Adwamuha wa In Qalla)](#5-inkuiri-4-doktrin-tasawuf-al-istiqamatu-azhamu-karamah--amal-sedikit-berkelanjutan-adwamuha-wa-in-qalla)
   - [6. Inkuiri 5: Manajemen Fase Kelesuan (Futuwr) Santri Tanpa Hukuman Represif](#6-inkuiri-5-manajemen-fase-kelesuan-futuwr-santri-tanpa-hukuman-represif)
   - [7. Inkuiri 6: Translasi Tadarruj-Istiqamah ke Arsitektur Kurikulum Tangga TUMBUH (T1–T4)](#7-inkuiri-6-translasi-tadarruj-istiqamah-ke-arsitektur-kurikulum-tangga-tumbuh-t1t4)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Tadarruj dan Istiqamah](#1-kaidah-utama-dan-standar-baku-prinsip-tadarruj-dan-istiqamah)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Tadarruj dan Istiqamah](#1-formulasi-konseptual-prinsip-tadarruj-dan-istiqamah)
   - [2. Matriks Aplikasi Tadarruj-Istiqamah dalam Tiga Fase Kehidupan Asrama](#2-matriks-aplikasi-tadarruj-istiqamah-dalam-tiga-fase-kehidupan-asrama)
   - [3. Protokol Penanganan Fase Futuwr & Kelesuan Semangat Santri](#3-protokol-penanganan-fase-futuwr--kelesuan-semangat-santri)
   - [4. Rubrik Asesmen Pertumbuhan Adab Berkelanjutan (Bintang Istiqamah 40-Hari)](#4-rubrik-asesmen-pertumbuhan-adab-berkelanjutan-bintang-istiqamah-40-hari)
@@ -357,13 +357,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
-*Bagian ini memuat rumusan kaidah utama dan standar operasional Tadarruj dan Istiqamah, matriks kontinuum tiga fase asrama, protokol penanganan fase futuwr, dan rubrik asesmen Bintang Istiqamah 40-Hari.*
+*Bagian ini memuat pembahasan temuan penelitian, formulasi model teoretis, dan sintesis konseptual Tadarruj dan Istiqamah,* matriks kontinuum tiga fase asrama, protokol penanganan fase futuwr, dan rubrik asesmen Bintang Istiqamah 40-Hari.*
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Tadarruj dan Istiqamah
+### 1. Formulasi Konseptual: Prinsip Tadarruj dan Istiqamah
 
 Ekosistem TUMBUH menetapkan deklarasi resmi metodologi pembinaan:
 

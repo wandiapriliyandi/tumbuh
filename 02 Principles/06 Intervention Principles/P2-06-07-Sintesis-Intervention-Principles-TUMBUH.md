@@ -34,7 +34,7 @@
   - [2. Matriks Uji Kelaikan Intervensi Lapangan (Intervention Feasibility & Usability Matrix)](#2-matriks-uji-kelaikan-intervensi-lapangan-intervention-feasibility--usability-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Intervensi Restoratif](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-intervensi-restoratif)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 07 Implementation Principles](#4-jembatan-epistemologis-menuju-sub-domain-07-implementation-principles)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL INTERVENSI RESTORATIF](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-intervensi-restoratif)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN INTERVENSI RESTORATIF](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-intervensi-restoratif)
   - [1. Grand Manifesto Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH](#1-grand-manifesto-disiplin-positif--pemulihan-restoratif-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 6 Pilar Intervensi ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-6-pilar-intervensi-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Intervensi Berkelanjutan](#3-protokol-penjaminan-mutu--supervisi-intervensi-berkelanjutan)
@@ -131,13 +131,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL INTERVENSI RESTORATIF
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN INTERVENSI RESTORATIF
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH
+### 1. Formulasi Konseptual: Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pencegahan Proaktif Multi-tier Pbis (tier 1, Tier 2, Tier 3) Menegakkan sistem dukungan perilaku berjenjang**:  
    mengutamakan pencegahan universal (Tier 1) dengan rasio 4:1, bimbingan CICO terarah (Tier 2), dan pendampingan mendalam tim Wraparound (Tier 3) bebas paradigma pembalasan.

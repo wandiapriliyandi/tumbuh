@@ -31,8 +31,8 @@
   - [5. Inkuiri 4: Kontinum Internalisasi Regulasi Moral: Dari Amotivasi Menuju Motivasi Intrinsik Integratif](#5-inkuiri-4-kontinum-internalisasi-regulasi-moral-dari-amotivasi-menuju-motivasi-intrinsik-integratif)
   - [6. Inkuiri 5: Dialog Kritis Reward Token vs Keikhlasan Niat (Tashihun Niyyah)](#6-inkuiri-5-dialog-kritis-reward-token-vs-keikhlasan-niat-tashihun-niyyah)
   - [7. Inkuiri 6: Translasi Disiplin Muraqabah ke Ekosistem Pengasuhan Pesantren 24 Jam](#7-inkuiri-6-translasi-disiplin-muraqabah-ke-ekosistem-pengasuhan-pesantren-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Motivasi Intrinsik & Integritas Muraqabah](#1-kaidah-utama-dan-standar-baku-motivasi-intrinsik-integritas-muraqabah)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Motivasi Intrinsik & Integritas Muraqabah](#1-formulasi-konseptual-motivasi-intrinsik-integritas-muraqabah)
   - [2. Matriks Komparasi Tiga Paradigma Disiplin Pesantren (Teror vs Token vs Muraqabah)](#2-matriks-komparasi-tiga-paradigma-disiplin-pesantren-teror-vs-token-vs-muraqabah)
   - [3. Matriks Enam Tahap Kontinum Internalisasi Regulasi Santri TUMBUH](#3-matriks-enam-tahap-kontinum-internalisasi-regulasi-santri-tumbuh)
   - [4. Protokol Muhasabah Hening Malam & Internalisasi Muraqabah (The Nightly Muraqabah Circle)](#4-protokol-muhasabah-hening-malam--internalisasi-muraqabah-the-nightly-muraqabah-circle)
@@ -345,13 +345,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
-*Bagian ini memuat rumusan kaidah utama dan standar operasional Motivasi Intrinsik & Muraqabah, matriks komparasi 3 paradigma disiplin, matriks kontinum internalisasi regulasi, dan protokol The Nightly Muraqabah Circle.*
+*Bagian ini memuat pembahasan temuan penelitian, formulasi model teoretis, dan sintesis konseptual Motivasi Intrinsik & Muraqabah,* matriks komparasi 3 paradigma disiplin, matriks kontinum internalisasi regulasi, dan protokol The Nightly Muraqabah Circle.*
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Motivasi Intrinsik & Integritas Muraqabah
+### 1. Formulasi Konseptual: Motivasi Intrinsik & Integritas Muraqabah
 
 Ekosistem TUMBUH menetapkan deklarasi resmi formasi motivasi manusia:
 

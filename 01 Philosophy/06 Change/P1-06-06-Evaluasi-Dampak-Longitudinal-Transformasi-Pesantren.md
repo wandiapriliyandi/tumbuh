@@ -29,8 +29,8 @@
   - [3. Inkuiri 2: Konvergensi Implementation Science & Tiered Fidelity Inventory (Horner & Sugai)](#3-inkuiri-2-konvergensi-implementation-science--tiered-fidelity-inventory-horner--sugai)
   - [4. Inkuiri 3: Tiga Dimensi Evaluasi Dampak Longitudinal: Santri, Musyrif, dan Sistem Kelembagaan](#4-inkuiri-3-tiga-dimensi-evaluasi-dampak-longitudinal-santri-musyrif-dan-sistem-kelembagaan)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-evaluasi-dampak-longitudinal-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH](#1-formulasi-konseptual-standar-evaluasi-dampak-longitudinal-pesantren-tumbuh)
   - [2. Matriks Lintasan Capaian Cohort 3 Tahun: Tahun 1 Inisiasi, Tahun 2 Stabilisasi, Tahun 3 Transformasi](#2-matriks-lintasan-capaian-cohort-3-tahun-tahun-1-inisiasi-tahun-2-stabilisasi-tahun-3-transformasi)
   - [3. Standar Prosedur Operasional (SOP) Audit Longitudinal Tahunan & Dashboard Analitik PBIS](#3-standar-prosedur-operasional-sop-audit-longitudinal-tahunan--dashboard-analitik-pbis)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -146,13 +146,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kontinuitas Evaluasi Berbasis Cohort 3 Tahun**:  
    Menetapkan bahwa penilaian keberhasilan pembinaan adab santri wajib menggunakan pelacakan longitudinal selama 3 tahun penuh (Tangga T1 Adaptasi hingga Tangga T4 Transformasi).

@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Investigasi Intuisi Batin & Cahaya Qalbu (Al-Ilham / Al-Bashirah) — Demarkasi Kasyaf vs Halusinasi](#5-inkuiri-4-investigasi-intuisi-batin--cahaya-qalbu-al-ilham--al-bashirah--demarkasi-kasyaf-vs-halusinasi)
   - [6. Inkuiri 5: Investigasi Bahaya Reduksionisme Sepihak — Kritik atas Saintisme, Rasionalisme, & Tekstualisme](#6-inkuiri-5-investigasi-bahaya-reduksionisme-sepihak--kritik-atas-saintisme-rasionalisme--tekstualisme)
   - [7. Inkuiri 6: Translasi Empat Saluran Epistemologi ke Desain Pembelajaran & Asrama 24 Jam](#7-inkuiri-6-translasi-empat-saluran-epistemologi-ke-desain-pembelajaran--asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Struktur Hierarkis Empat Saluran Epistemologis Islam](#1-struktur-hierarkis-empat-saluran-epistemologis-islam)
   - [2. Matriks Komparasi Komprehensif: TUMBUH vs Mazhab Epistemologi Barat](#2-matriks-komparasi-komprehensif-tumbuh-vs-mazhab-epistemologi-barat)
   - [3. Kaidah Penyelarasan Antarsumber: Integrasi Wahyu, Nalar, Indera, & Qalbu](#3-kaidah-penyelarasan-antarsumber-integrasi-wahyu-nalar-indera--qalbu)
@@ -358,7 +358,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat struktur resmi hierarki empat saluran epistemologi, matriks komparasi mazhab dunia, kaidah integrasi, dan implikasi operasional bagi kurikulum dan pengasuhan.*
 

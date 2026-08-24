@@ -35,7 +35,7 @@
   - [5. Inkuiri 4: Jalur Pemrosesan Qalbu (Tazkiyatun Nafs & Riyadhah) — Kejernihan Batin Penolak Bias Nafsu](#5-inkuiri-4-jalur-pemrosesan-qalbu-tazkiyatun-nafs--riyadhah--kejernihan-batin-penolak-bias-nafsu)
   - [6. Inkuiri 5: Konvergensi Epistemologi Islam dengan Cognitive Load Theory & Neurosains Memori](#6-inkuiri-5-konvergensi-epistemologi-islam-dengan-cognitive-load-theory--neurosains-memori)
   - [7. Inkuiri 6: Translasi Mekanisme Kognisi ke Format Desain Pembelajaran Halaqah & Asrama](#7-inkuiri-6-translasi-mekanisme-kognisi-ke-format-desain-pembelajaran-halaqah--asrama)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Alur Pemrosesan Kognisi Terpadu Santri (Empat Jalur Integratif)](#1-matriks-alur-pemrosesan-kognisi-terpadu-santri-empat-jalur-integratif)
   - [2. Protokol Konsolidasi Memori Jangka Panjang: Dari Hipokampus ke Adab Otomatis](#2-protokol-konsolidasi-memori-jangka-panjang-dari-hipokampus-ke-adab-otomatis)
   - [3. Standarisasi Format Halaqah Interaktif 4 Tahap (Talaqqi - Nazhar - Tajribah - Tazkiyah)](#3-standarisasi-format-halaqah-interaktif-4-tahap-talaqqi---nazhar---tajribah---tazkiyah)
@@ -352,7 +352,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat matriks resmi alur kognisi Islam, protokol konsolidasi memori jangka panjang, dan standarisasi operasional format halaqah 4 tahap.*
 

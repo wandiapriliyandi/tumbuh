@@ -30,8 +30,8 @@
   - [3. Inkuiri 2: Empat Pilar Kompetensi Guru/Musyrif & Keterampilan De-Eskalasi 3R (Dr. Bruce Perry)](#3-inkuiri-2-empat-pilar-kompetensi-gurumusyrif--keterampilan-de-eskalasi-3r-dr-bruce-perry)
   - [4. Inkuiri 3: Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (Maslach Burnout Inventory)](#4-inkuiri-3-proteksi-kesejahteraan-mental-pendidik--mitigasi-burnout-maslach-burnout-inventory)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-kompetensi-kode-etik-musyrif-murabbi-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-kode-etik-musyrif-murabbi-pesantren-tumbuh)
   - [2. Matriks 4 Domain Kompetensi Pendidik/Musyrif, Indikator Kinerja (KPI Qudwah), & Bukti Asesmen](#2-matriks-4-domain-kompetensi-pendidikmusyrif-indikator-kinerja-kpi-qudwah--bukti-asesmen)
   - [3. Piagam Perlindungan Kesejahteraan Mental Musyrif & Jam Kerja Manusiawi (Educator Well-Being Charter)](#3-piagam-perlindungan-kesejahteraan-mental-musyrif--jam-kerja-manusiawi-educator-well-being-charter)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -158,13 +158,13 @@ Pesantren TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: r
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kedudukan Ayah Spiritual (IN Loco Parentis)**:  
    Menetapkan bahwa musyrif asrama adalah wakil orang tua yang memegang amanah fitrah santri; wajib mengasuh dengan kelembutan (ar-Rifq), ketegasan adab (Firm & Kind), dan kasih sayang tulus.

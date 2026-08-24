@@ -31,7 +31,7 @@
   - [5. Inkuiri 4: Pengujian Stres Tiga Unsur Pokok Realitas](#5-inkuiri-4-pengujian-stres-tiga-unsur-pokok-realitas)
   - [6. Inkuiri 5: Manunggalnya 'Alam Mulk & 'Alam Malakut](#6-inkuiri-5-manunggalnya-alam-mulk--alam-malakut)
   - [7. Inkuiri 6: Translasi Lapangan ke Arsitektur Asrama & PBIS 24 Jam](#7-inkuiri-6-translasi-lapangan-ke-arsitektur-asrama--pbis-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Definisi Operasional Baku Realitas](#1-definisi-operasional-baku-realitas)
   - [2. Tiga Unsur Pokok Realitas](#2-tiga-unsur-pokok-realitas)
   - [3. Peta Realitas: 'Alam Mulk (Dhohir) & 'Alam Malakut (Batin)](#3-peta-realitas-alam-mulk-dhohir--alam-malakut-batin)
@@ -369,7 +369,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat rumusan kesimpulan akhir, definisi operasional, dan prinsip-prinsip baku yang dihasilkan dari penyelidikan mendalam pada Bagian I di atas.*
 

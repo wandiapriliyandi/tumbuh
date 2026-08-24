@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Audit Demarkasi Teosentrisme vs Antroposentrisme — Menjaga Kemurnian Ubudiyyah](#5-inkuiri-4-audit-demarkasi-teosentrisme-vs-antroposentrisme--menjaga-kemurnian-ubudiyyah)
   - [6. Inkuiri 5: Uji Stres Lapangan (Field Usability Test) — Menilai Beban Kognitif Musyrif 24 Jam](#6-inkuiri-5-uji-stres-lapangan-field-usability-test--menilai-beban-kognitif-musyrif-24-jam)
   - [7. Inkuiri 6: Audit Koherensi Holistik Antar-Modul Kluster 02 (P1-01-02-01 s/d P1-01-02-06)](#7-inkuiri-6-audit-koherensi-holistik-antar-modul-kluster-02-p1-01-02-01-sd-p1-01-02-06)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Sintesis Utuh Enam Pilar Epistemologi TUMBUH](#1-matriks-sintesis-utuh-enam-pilar-epistemologi-tumbuh)
   - [2. Matriks Uji Falsifikasi & Pertahanan Imunitas Epistemologis](#2-matriks-uji-falsifikasi--pertahanan-imunitas-epistemologis)
   - [3. Deklarasi Kelulusan Audit Mutu Epistemologis (Statement of Epistemic Integrity)](#3-deklarasi-kelulusan-audit-mutu-epistemologis-statement-of-epistemic-integrity)
@@ -343,7 +343,7 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat matriks sintesis utuh enam pilar epistemologi, matriks pertahanan falsifikasi, dan pernyataan resmi kelulusan audit mutu keilmuan TUMBUH.*
 

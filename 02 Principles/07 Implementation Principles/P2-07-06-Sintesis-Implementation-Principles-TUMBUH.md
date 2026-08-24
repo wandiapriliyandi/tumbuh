@@ -33,7 +33,7 @@
   - [2. Matriks Uji Kesiapan Skalabilitas & Replikasi Sistem (System Scalability & Readiness Matrix)](#2-matriks-uji-kesiapan-skalabilitas--replikasi-sistem-system-scalability--readiness-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Tata Kelola Lapangan](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-tata-kelola-lapangan)
   - [4. Puncak Penutupan Paripurna Domain 02 Principles Menuju Domain 03 Architecture](#4-puncak-penutupan-paripurna-domain-02-principles-menuju-domain-03-architecture)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TATA KELOLA IMPLEMENTASI](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-tata-kelola-implementasi)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN TATA KELOLA IMPLEMENTASI](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-tata-kelola-implementasi)
   - [1. Grand Manifesto Tata Kelola & Implementasi Lapangan Pesantren TUMBUH](#1-grand-manifesto-tata-kelola--implementasi-lapangan-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 5 Pilar Implementasi ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-implementasi-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Standarisasi Akreditasi Pesantren TUMBUH Mandiri](#3-protokol-penjaminan-mutu--standarisasi-akreditasi-pesantren-tumbuh-mandiri)
@@ -123,13 +123,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL TATA KELOLA IMPLEMENTASI
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN TATA KELOLA IMPLEMENTASI
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Tata Kelola & Implementasi Lapangan Pesantren TUMBUH
+### 1. Formulasi Konseptual: Tata Kelola & Implementasi Lapangan Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kepemimpinan Perubahan Budaya Sistemik (kotter Change Model) Mewajibkan transformasi budaya pesantren dari kultur koersif-feodal menuju ekosistem adab berbasis Qudwah, mengharamkan mutlak justifikasi kekerasan berdalih tradisi masa lalu (Survivorship Bias).**:  
    

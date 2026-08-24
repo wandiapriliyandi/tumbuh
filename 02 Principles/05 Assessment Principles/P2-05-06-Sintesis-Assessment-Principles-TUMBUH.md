@@ -33,7 +33,7 @@
   - [2. Matriks Uji Validitas Psikometrik & Kelaikan Asesmen Lapangan (Psychometric Usability Matrix)](#2-matriks-uji-validitas-psikometrik--kelaikan-asesmen-lapangan-psychometric-usability-matrix)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Evaluasi Karakter](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-evaluasi-karakter)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 06 Intervention Principles](#4-jembatan-epistemologis-menuju-sub-domain-06-intervention-principles)
-- [BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL EVALUASI ADAB](#bagian-ii-kodifikasi-kaidah-dan-standar-operasional-evaluasi-adab)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN EVALUASI ADAB](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan-evaluasi-adab)
   - [1. Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Santri Pesantren TUMBUH](#1-grand-manifesto-keadilan-asesmen--evaluasi-karakter-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional 5 Pilar Asesmen ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-5-pilar-asesmen-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Audit Keadilan Evaluasi Berkala](#3-protokol-penjaminan-mutu--audit-keadilan-evaluasi-berkala)
@@ -126,13 +126,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI KAIDAH DAN STANDAR OPERASIONAL EVALUASI ADAB
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN EVALUASI ADAB
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Keadilan Asesmen & Evaluasi Karakter Santri Pesantren TUMBUH
+### 1. Formulasi Konseptual: Keadilan Asesmen & Evaluasi Karakter Santri Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Asesmen Berbasis Unjuk Kerja Autentik (authentic Adab Performance) Menetapkan bahwa karakter dan adab santri hanya dinilai melalui manifestasi perilaku spontan nyata (Malakah) dalam ritme kehidupan 24 jam di asrama dan madrasah, mengharamkan ujian kertas pilihan ganda akhlak.**:  
    

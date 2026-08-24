@@ -32,8 +32,8 @@
   - [5. Inkuiri 4: Rekonstruksi Teori Perilaku Modern (PBIS & Neurosains) di Bawah Maqashid Syari'ah](#5-inkuiri-4-rekonstruksi-teori-perilaku-modern-pbis--neurosains-di-bawah-maqashid-syariyah)
   - [6. Inkuiri 5: Arsitektur Pohon Ilmu TUMBUH — Dari Akar Tauhid Menuju Buah Insan Kamil](#6-inkuiri-5-arsitektur-pohon-ilmu-tumbuh--dari-akar-tauhid-menuju-buah-insan-kamil)
   - [7. Inkuiri 6: Translasi Integrasi ke Kurikulum Kelas & Kehidupan Asrama 24 Jam](#7-inkuiri-6-translasi-integrasi-ke-kurikulum-kelas--kehidupan-asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Deklarasi Prinsip Tauhidul Haqiqah (Kesatuan Kebenaran Ilahi)](#1-deklarasi-prinsip-tauhidul-haqiqah-kesatuan-kebenaran-ilahi)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. sintesis prinsip Tauhidul Haqiqah (Kesatuan Kebenaran Ilahi)](#1-deklarasi-prinsip-tauhidul-haqiqah-kesatuan-kebenaran-ilahi)
   - [2. Matriks Komparasi 3 Model Integrasi Ilmu: Sekuler, Kosmetik, & Organik TUMBUH](#2-matriks-komparasi-3-model-integrasi-ilmu-sekuler-kosmetik--organik-tumbuh)
   - [3. Peta Struktur Baku Pohon Ilmu TUMBUH (The Growth Tree of Knowledge)](#3-peta-struktur-baku-pohon-ilmu-tumbuh-the-growth-tree-of-knowledge)
   - [4. Protokol Tiga Langkah Rekonstruksi Teori Sains Kontemporer (Filterisasi Syar'i)](#4-protokol-tiga-langkah-rekonstruksi-teori-sains-kontemporer-filterisasi-syari)
@@ -357,13 +357,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat deklarasi resmi prinsip Tauhidul Haqiqah, matriks komparasi 3 model integrasi, peta resmi Pohon Ilmu TUMBUH, dan protokol rekonstruksi sains kontemporer.*
 
 ---
 
-### 1. Deklarasi Prinsip Tauhidul Haqiqah (Kesatuan Kebenaran Ilahi)
+### 1. sintesis prinsip Tauhidul Haqiqah (Kesatuan Kebenaran Ilahi)
 
 Ekosistem TUMBUH menetapkan deklarasi resmi integrasi keilmuan:
 
@@ -432,7 +432,7 @@ Setiap teori sains sosial, psikologi, atau manajemen modern yang akan diadopsi k
 
 | No | Babak Inkuiri Integrasi (*Bagian I*) | Hasil Formulasi Baku (*Bagian II*) | Temuan Kunci & Argumen Pembeda |
 | :---: | :--- | :--- | :--- |
-| **1** | **Inkuiri 1**: Dekonstruksi Dikotomi Ilmu | **Deklarasi Prinsip**: Tauhidul Haqiqah | Menetapkan sains sebagai Fardhu Kifayah syar'i; menghapus sekat ilmu agama vs umum. |
+| **1** | **Inkuiri 1**: Dekonstruksi Dikotomi Ilmu | **sintesis prinsip**: Tauhidul Haqiqah | Menetapkan sains sebagai Fardhu Kifayah syar'i; menghapus sekat ilmu agama vs umum. |
 | **2** | **Inkuiri 2**: Kritik Pseudo-Islamisasi | **Matriks Komparasi**: 3 Model Integrasi | Membongkar bahaya behaviorisme token hadiah; menggantinya dengan Muraqabah otonom. |
 | **3** | **Inkuiri 3**: Harmoni Dua Ayat | **Peta Epistemologi**: Tanziliyyah & Kauniyyah | Memposisikan semesta sebagai mushaf terbentang (*Al-Kawn al-Manzhur*) pelengkap Al-Qur'an. |
 | **4** | **Inkuiri 4**: Rekonstruksi PBIS & Maqashid | **SOP Perilaku**: Multi-Tier Restoratif | Mentransformasikan PBIS menjadi instrumen penegakan *Hifzh an-Nafs* dan *Ishlah al-Bain*. |

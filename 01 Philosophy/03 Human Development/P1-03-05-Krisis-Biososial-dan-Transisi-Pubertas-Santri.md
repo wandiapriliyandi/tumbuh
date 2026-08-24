@@ -28,8 +28,8 @@
   - [4. Inkuiri 3: Psikososial Erik Erikson di Asrama: Resolusi Krisis Identitas Melalui Ukhuwah](#4-inkuiri-3-psikososial-erik-erikson-di-asrama-resolusi-krisis-identitas-melalui-ukhuwah)
   - [5. Inkuiri 4: Mitigasi Homesickness & Stres Komunal Santri Baru Melalui Secure Attachment In Loco Parentis](#5-inkuiri-4-mitigasi-homesickness--stres-komunal-santri-baru-melalui-secure-attachment-in-loco-parentis)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-transisi-baligh-dan-pendampingan-biososial-santri-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH](#1-formulasi-konseptual-hakikat-transisi-baligh-dan-pendampingan-biososial-santri-tumbuh)
   - [2. Matriks Integrasi Tahap Baligh, Perubahan Biologis-Emosi, & Intervensi Musyrif Asrama](#2-matriks-integrasi-tahap-baligh-perubahan-biologis-emosi--intervensi-musyrif-asrama)
   - [3. Protokol Edukasi Baligh & Thaharah Pertama Santri (SOP Pendampingan Ihtilam & Haidh)](#3-protokol-edukasi-baligh--thaharah-pertama-santri-sop-pendampingan-ihtilam--haidh)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -161,13 +161,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH
+### 1. Formulasi Konseptual: Hakikat Transisi Baligh dan Pendampingan Biososial Santri TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penetapan Fase Baligh Sebagai Tahap Kemuliaan Mukallaf**:  
    Menyambut transisi pubertas santri sebagai anugerah kedewasaan syar'i yang wajib dirayakan dengan pendidikan fiqh thaharah yang santun, ilmiah, dan memuliakan rasa percaya diri santri.

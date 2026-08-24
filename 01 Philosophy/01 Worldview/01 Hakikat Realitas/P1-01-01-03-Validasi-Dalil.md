@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Validasi Nash Aksioma 4 — Kepastian Hukum Sunnatullah Kauniyyah-Syar'iyyah](#5-inkuiri-4-validasi-nash-aksioma-4--kepastian-hukum-sunnatullah-kauniyyah-syariyyah)
   - [6. Inkuiri 5: Validasi Nash Aksioma 5 — Teleologi Penciptaan: Ghayah wa Hikmah](#6-inkuiri-5-validasi-nash-aksioma-5--teleologi-penciptaan-ghayah-wa-hikmah)
   - [7. Inkuiri 6: Validasi Nash Aksioma 6 — Akuntabilitas Eksistensial & Mahkamah Hisab](#7-inkuiri-6-validasi-nash-aksioma-6--akuntabilitas-eksistensial--mahkamah-hisab)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Komprehensif Sanad & Derajat Dalil Enam Aksioma](#1-matriks-komprehensif-sanad--derajat-dalil-enam-aksioma)
   - [2. Kaidah Hermeneutika Penyelarasan Akal dan Wahyu (Dar' Ta'arudh)](#2-kaidah-hermeneutika-penyelarasan-akal-dan-wahyu-dar-taarudh)
   - [3. Transformasi Dalil Menjadi Karakter dan Iklim Asrama (Bi'ah Shalihah)](#3-transformasi-dalil-menjadi-karakter-dan-iklim-asrama-biah-shalihah)
@@ -390,7 +390,7 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat kodifikasi formal derajat dalil naqli, kaidah hermeneutika ushul, dan pedoman translasi operasional bagi seluruh tata kelola ekosistem pesantren.*
 

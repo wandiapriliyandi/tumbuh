@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Metodologi Spaced Retrieval Practice & Testing Effect (Henry Roediger & Jeffrey Karpicke)](#4-inkuiri-3-metodologi-spaced-retrieval-practice--testing-effect-henry-roediger--jeffrey-karpicke)
   - [5. Inkuiri 4: Integrasi Interleaving Practice: Memadukan Ziyadah, Sabqi, & Manzil](#5-inkuiri-4-integrasi-interleaving-practice-memadukan-ziyadah-sabqi--manzil)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Halaqah Tahfizh, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-halaqah-tahfizh--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Retensi Memori dan Standar Tahfizh Mutqin Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-retensi-memori-dan-standar-tahfizh-mutqin-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Retensi Memori dan Standar Tahfizh Mutqin Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-retensi-memori-dan-standar-tahfizh-mutqin-pesantren-tumbuh)
   - [2. Matriks Integrasi Tahfizh 3 Lapis: Ziyadah (Hafalan Baru), Sabqi (Muraja'ah Dekat), Manzil (Muraja'ah Jauh)](#2-matriks-integrasi-tahfizh-3-lapis-ziyadah-hafalan-baru-sabqi-murajaah-dekat-manzil-murajaah-jauh)
   - [3. Matriks Jadwal Spaced Retrieval & Interval Pengulangan Optimal (Leitner Box Method for Tahfizh)](#3-matriks-jadwal-spaced-retrieval--interval-pengulangan-optimal-leitner-box-method-for-tahfizh)
   - [4. Protokol Ujian Tasmi' & Sertifikasi Mutqin 30 Juz (Mutqin Certification Protocol)](#4-protokol-ujian-tasmi--sertifikasi-mutqin-30-juz-mutqin-certification-protocol)
@@ -188,13 +188,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Retensi Memori dan Standar Tahfizh Mutqin Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Retensi Memori dan Standar Tahfizh Mutqin Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Keutamaan Mutqin DI Atas Kecepatan (quality Over Speed Mandate)**:  
    Standar keberhasilan tahfizh diukur dari kemutqinan dan kelancaran hafalan yang melekat permanen seumur hidup, bukan dari kecepatan wisuda formalitas. Menolak keras metode setoran maraton (Cramming).

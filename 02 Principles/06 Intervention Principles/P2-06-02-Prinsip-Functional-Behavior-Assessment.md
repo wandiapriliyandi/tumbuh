@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Dua Fungsi Utama Perilaku Manusia (Escape/Avoid vs Obtain/Access)](#4-inkuiri-3-dua-fungsi-utama-perilaku-manusia-escapeavoid-vs-obtainaccess)
   - [5. Inkuiri 4: Desain Rencana Aksi Perilaku (Behavior Intervention Plan / BIP) & Replacement Behavior](#5-inkuiri-4-desain-rencana-aksi-perilaku-behavior-intervention-plan--bip--replacement-behavior)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika FBA Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-fba-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-functional-behavior-assessment-fba-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-functional-behavior-assessment-fba-pesantren-tumbuh)
   - [2. Matriks Pemetaan Model ABC & Fungsi Perilaku Santri di Asrama/Madrasah](#2-matriks-pemetaan-model-abc--fungsi-perilaku-santri-di-asramamadrasah)
   - [3. Template Baku Dokumen FBA & Rencana Aksi BIP (Behavior Intervention Plan)](#3-template-baku-dokumen-fba--rencana-aksi-bip-behavior-intervention-plan)
   - [4. Alur Standar Operasional Prosedur Pelaksanaan FBA oleh Tim Terpadu BK](#4-alur-standar-operasional-prosedur-pelaksanaan-fba-oleh-tim-terpadu-bk)
@@ -179,13 +179,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kebutuhan Fungsional Perilaku (behavioral Functionality Mandate)**:  
    Menolak segala bentuk hukuman buta atas gejala lahiriah pelanggaran santri. Setiap intervensi perilaku berulang wajib berlandaskan analisis ilmiah terhadap akar fungsi motif (FBA).
@@ -214,7 +214,7 @@ Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan 
 
 ### 3. Template Baku Dokumen FBA & Rencana Aksi BIP (*Behavior Intervention Plan*)
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Strategi Pencegahan Pemicu (Antecedent Modifications)**:  
    Musyrif halaqah membagi target setoran Salman menjadi 2 ayat per sesi (Chunking). Salman diposisikan di urutan setoran awal dalam suasana privat santai agar tidak menumpuk kecemasan menunggu giliran.

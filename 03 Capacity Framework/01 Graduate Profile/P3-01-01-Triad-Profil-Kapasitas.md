@@ -30,8 +30,8 @@
   - [3. Inkuiri 2: Konvergensi Whole-School Relational Capacity Framework (Darling-Hammond, 2020)](#3-inkuiri-2-konvergensi-whole-school-relational-capacity-framework-darling-hammond-2020)
   - [4. Inkuiri 3: Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren](#4-inkuiri-3-anatomi-kapasitas-tiga-pilar-santri-pendidik-dan-institusi-pesantren)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Piagam Triad Profil Kapasitas Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-piagam-triad-profil-kapasitas-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Pesantren TUMBUH](#1-formulasi-konseptual-piagam-triad-profil-kapasitas-pesantren-tumbuh)
   - [2. Matriks Integrasi Standar Kapasitas Triad: Indikator, Alat Ukur, & Bukti Pertumbuhan](#2-matriks-integrasi-standar-kapasitas-triad-indikator-alat-ukur--bukti-pertumbuhan)
   - [3. Protokol Penjaminan Simbiosis Triad dalam Kehidupan Pesantren 24 Jam](#3-protokol-penjaminan-simbiosis-triad-dalam-kehidupan-pesantren-24-jam)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -152,13 +152,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Piagam Triad Profil Kapasitas Pesantren TUMBUH
+### 1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kesatuan Mutlak Triad Pertumbuhan Simbiotik (triadic Capacity Doctrine)**:  
    Menetapkan bahwa profil kapasitas kelulusan pesantren wajib mencakup tiga pilar yang setara: Profil Kapasitas Santri, Profil Kapasitas Pendidik/Musyrif, dan Profil Kapasitas Sistem Lembaga.

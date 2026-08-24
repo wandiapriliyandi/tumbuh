@@ -31,8 +31,8 @@
   - [4. Inkuiri 3: Metodologi Riyadhah & Mujahadah Imam Al-Ghazali dan Ibnu Qayyim Al-Jauziyyah](#4-inkuiri-3-metodologi-riyadhah--mujahadah-imam-al-ghazali-dan-ibnu-qayyim-al-jauziyyah)
   - [5. Inkuiri 4: Transformasi Nafs Lawwamah Menjadi Kekuatan Regulasi Diri (Self-Correction Engine)](#5-inkuiri-4-transformasi-nafs-lawwamah-menjadi-kekuatan-regulasi-diri-self-correction-engine)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-dinamika-nafs-insan-santri-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH](#1-formulasi-konseptual-hakikat-dinamika-nafs-insan-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Tiga Tingkat Nafs, Fungsi Otak Neurosains, & Strategi Pembinaan Asrama](#2-matriks-integrasi-tiga-tingkat-nafs-fungsi-otak-neurosains--strategi-pembinaan-asrama)
   - [3. Protokol Tazkiyatun Nafs Harian Musyrif & Santri (Muhasabah & Riyadhah 24 Jam)](#3-protokol-tazkiyatun-nafs-harian-musyrif--santri-muhasabah--riyadhah-24-jam)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -188,13 +188,13 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH
+### 1. Formulasi Konseptual: Hakikat Dinamika Nafs Insan Santri Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pengakuan Tiga Tingkatan Jiwa Manusia (three-tiered Nafs Doctrine)**:  
    Menolak segala bentuk pelabelan mutlak hitam-putih terhadap pribadi santri. Menetapkan bahwa setiap santri berada dalam dinamika perjuangan batin antara Nafs Ammarah bis-Su', Nafs Lawwamah yang penuh introspeksi, dan Nafs Muthmainnah yang kokoh dalam ketakwaan.

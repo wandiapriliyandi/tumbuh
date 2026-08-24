@@ -30,8 +30,8 @@
   - [4. Inkuiri 3: Lima Strategi Kunci Asesmen Formatif Dylan Wiliam (Inside the Black Box)](#4-inkuiri-3-lima-strategi-kunci-asesmen-formatif-dylan-wiliam-inside-the-black-box)
   - [5. Inkuiri 4: Teknik Asesmen Cepat di Kelas: Exit Tickets, Cold Calling Ramah, & Papan Mini](#5-inkuiri-4-teknik-asesmen-cepat-di-kelas-exit-tickets-cold-calling-ramah--papan-mini)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas Madrasah, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kelas-madrasah--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-didaktik-interaktif-dan-asesmen-formatif-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-didaktik-interaktif-dan-asesmen-formatif-pesantren-tumbuh)
   - [2. Matriks 5 Struktur Kagan Cooperative Learning dalam Pembelajaran Kitab & Sains](#2-matriks-5-struktur-kagan-cooperative-learning-dalam-pembelajaran-kitab--sains)
   - [3. Matriks 5 Strategi Kunci Asesmen Formatif Dylan Wiliam & Aplikasi Nyata di Kelas Pesantren](#3-matriks-5-strategi-kunci-asesmen-formatif-dylan-wiliam--aplikasi-nyata-di-kelas-pesantren)
   - [4. Protokol Umpan Balik Formatif Konstruktif (Actionable Feedback Protocol)](#4-protokol-umpan-balik-formatif-konstruktif-actionable-feedback-protocol)
@@ -187,13 +187,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Kelas Monolog Pasif (active Participation Mandate)**:  
    Menolak segala bentuk ceramah monolog satu arah yang menempatkan santri sebagai pendengar pasif. Setiap sesi pembelajaran wajib mengaktifkan 100% santri secara serempak melalui struktur Kagan Cooperative.

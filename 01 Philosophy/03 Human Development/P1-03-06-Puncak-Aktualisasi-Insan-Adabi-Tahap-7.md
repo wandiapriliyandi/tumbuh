@@ -28,8 +28,8 @@
   - [4. Inkuiri 3: Kodifikasi 7 Tahap Kontinuum TUMBUH: Menempatkan Tahap 7 Pasca Tangga T1–T4](#4-inkuiri-3-kodifikasi-7-tahap-kontinuum-tumbuh-menempatkan-tahap-7-pasca-tangga-t1t4)
   - [5. Inkuiri 4: Kepemimpinan Pelayan Berdampak Global (Global Impact Servant Leadership)](#5-inkuiri-4-kepemimpinan-pelayan-berdampak-global-global-impact-servant-leadership)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kiprah Alumni, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-kiprah-alumni--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-puncak-aktualisasi-insan-adabi-tahap-7-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH](#1-formulasi-konseptual-hakikat-puncak-aktualisasi-insan-adabi-tahap-7-pesantren-tumbuh)
   - [2. Matriks 4 Dimensi Kompetensi Tahap 7 Penggerak Peradaban](#2-matriks-4-dimensi-kompetensi-tahap-7-penggerak-peradaban)
   - [3. Portofolio Kelulusan Paripurna & Protokol Pelepasan Alumni (Khitamut Tarbiyah)](#3-portofolio-kelulusan-paripurna--protokol-pelepasan-alumni-khitamut-tarbiyah)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -171,13 +171,13 @@ Santri Tahap 7 dipersiapkan untuk memiliki empat jangkar kepemimpinan peradaban:
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH
+### 1. Formulasi Konseptual: Hakikat Puncak Aktualisasi Insan Adabi Tahap 7 Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penetapan Profil Insan Adabi Sebagai Standard Kelulusan Paripurna (graduate Profile)**:  
    Menetapkan bahwa profil akhir lulusan pesantren TUMBUH adalah Insan Adabi (Man of Adab) yang meletakkan tauhid di atas segalanya, menguasai sains dan adab, serta berjiwa merdeka lillahi ta'ala.

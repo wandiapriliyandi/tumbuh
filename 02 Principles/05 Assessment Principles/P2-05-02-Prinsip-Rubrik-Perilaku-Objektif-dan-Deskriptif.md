@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Eliminasi Bias Kognitif Pengasuh (Halo Effect, Horn Effect, & Central Tendency)](#4-inkuiri-3-eliminasi-bias-kognitif-pengasuh-halo-effect-horn-effect--central-tendency)
   - [5. Inkuiri 4: Uji Reliabilitas Antar-Penilai (Inter-Rater Reliability / Cohen's Kappa > 0.80)](#5-inkuiri-4-uji-reliabilitas-antar-penilai-inter-rater-reliability--cohens-kappa--080)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-formulasi-konseptual-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
   - [2. Matriks Rubrik BARS 4 Tingkat untuk 5 Dimensi Adab Utama Santri](#2-matriks-rubrik-bars-4-tingkat-untuk-5-dimensi-adab-utama-santri)
   - [3. Protokol Kalibrasi & Standardisasi Penilaian Antar-Musyrif (Inter-Rater Calibration Protocol)](#3-protokol-kalibrasi--standardisasi-penilaian-antar-musyrif-inter-rater-calibration-protocol)
   - [4. Alur Audit Keadilan Penilaian PBIS (Bias Auditing SOP)](#4-alur-audit-keadilan-penilaian-pbis-bias-auditing-sop)
@@ -188,13 +188,13 @@ Pesantren TUMBUH menetapkan ambang batas mutu $\kappa \ge 0.80$ (*Almost Perfect
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
+### 1. Formulasi Konseptual: Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Penghapusan Skala Angka Abstrak Subjektif (anti-subjective Grading Mandate)**:  
    Menolak segala bentuk pemberian nilai akhlak berbasis angka kering (1–5 / A–E) tanpa indikator nyata. Seluruh penilaian karakter wajib menggunakan deskripsi jangkar perilaku nyata (BARS Framework).

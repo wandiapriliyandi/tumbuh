@@ -32,8 +32,8 @@
   - [4. Inkuiri 3: Operasionalisasi 5 Kompetensi SEL ke dalam Rutinitas Kehidupan Pesantren 24 Jam](#4-inkuiri-3-operasionalisasi-5-kompetensi-sel-ke-dalam-rutinitas-kehidupan-pesantren-24-jam)
   - [5. Inkuiri 4: Pengukuran & Rubrik Validasi Karakter SEL-Islami Tanpa Stigma](#5-inkuiri-4-pengukuran--rubrik-validasi-karakter-sel-islami-tanpa-stigma)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Konflik Emosional Santri, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-konflik-emosional-santri--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-integrasi-casel-sel-dan-karakter-islami-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH](#1-formulasi-konseptual-integrasi-casel-sel-dan-karakter-islami-pesantren-tumbuh)
   - [2. Matriks Integrasi 5 Kompetensi CASEL SEL dengan Khazanah Adab Turats Islam](#2-matriks-integrasi-5-kompetensi-casel-sel-dengan-khazanah-adab-turats-islam)
   - [3. Matriks Skenario Pembiasaan SEL dalam Denyut Kehidupan Pesantren 24 Jam](#3-matriks-skenario-pembiasaan-sel-dalam-denyut-kehidupan-pesantren-24-jam)
   - [4. Protokol Restoratif Resolusi Konflik Sebaya (Peer Conflict Restorative Protocol)](#4-protokol-restoratif-resolusi-konflik-sebaya-peer-conflict-restorative-protocol)
@@ -198,13 +198,13 @@ graph LR
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH
+### 1. Formulasi Konseptual: Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kesatuan Integral Kecerdasan Emosional DAN Tauhid (integrated Spiritual-sel)**:  
    Menetapkan bahwa 5 kompetensi sosial-emosional (CASEL SEL) adalah manifestasi operasional dari nilai-nilai Tazkiyatun Nafs Islam (Muraqabah, Mujahadah, Empati Ukhuwah, Ishlah al-Bain, & Hikmah).

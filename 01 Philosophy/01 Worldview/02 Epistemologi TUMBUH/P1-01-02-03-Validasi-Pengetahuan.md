@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Validasi Kalbu — Pengujian Mizan asy-Syar'i atas Firasat & Pengalaman Spiritual](#5-inkuiri-4-validasi-kalbu--pengujian-mizan-asy-syari-atas-firasat--pengalaman-spiritual)
   - [6. Inkuiri 5: Protokol Rekonsiliasi Pertentangan Semu (Dar' Ta'arudh al-'Aql wan-Naql)](#6-inkuiri-5-protokol-rekonsiliasi-pertentangan-semu-dar-taarudh-al-aql-wan-naql)
   - [7. Inkuiri 6: Translasi Validasi ke Sistem Asesmen Karakter & Pengambilan Keputusan PBIS](#7-inkuiri-6-translasi-validasi-ke-sistem-asesmen-karakter--pengambilan-keputusan-pbis)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Kriteria Validitas Empat Saluran Pengetahuan TUMBUH](#1-matriks-kriteria-validitas-empat-saluran-pengetahuan-tumbuh)
   - [2. Tiga Teori Kebenaran Terpadu (Koherensi, Korespondensi, & Pragmatis-Aksiologis)](#2-tiga-teori-kebenaran-terpadu-koherensi-korespondensi--pragmatis-aksiologis)
   - [3. Algoritma Baku Resolusi Pertentangan Semu (Protokol Dar' Ta'arudh)](#3-algoritma-baku-resolusi-pertentangan-semu-protokol-dar-taarudh)
@@ -351,7 +351,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat matriks resmi kriteria validitas empat saluran pengetahuan, tiga teori kebenaran terpadu, algoritma resolusi pertentangan semu, dan standarisasi asesmen PBIS.*
 

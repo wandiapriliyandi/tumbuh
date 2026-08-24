@@ -34,7 +34,7 @@
   - [5. Inkuiri 4: Validasi Imam Abu Ishaq Asy-Syathibi — Integrasi Maqashid Kausalitas Kauniyyah-Syar'iyyah](#5-inkuiri-4-validasi-imam-abu-ishaq-asy-syathibi--integrasi-maqashid-kausalitas-kauniyyah-syariyyah)
   - [6. Inkuiri 5: Validasi Imam Ibnu 'Athaillah As-Sakandari — Keseimbangan Maqam Asbab & Tajrid](#6-inkuiri-5-validasi-imam-ibnu-athaillah-as-sakandari--keseimbangan-maqam-asbab--tajrid)
   - [7. Inkuiri 6: Validasi Prof. Syed Muhammad Naquib Al-Attas — Hierarki Wujud, Dinamika Realitas, & Taksonomi Adab](#7-inkuiri-6-validasi-prof-syed-muhammad-naquib-al-attas--hierarki-wujud-dinamika-realitas--taksonomi-adab)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Matriks Sanad & Keselarasan Komprehensif Turats dengan Enam Aksioma TUMBUH](#1-matriks-sanad--keselarasan-komprehensif-turats-dengan-enam-aksioma-tumbuh)
   - [2. Peta Genealogi Epistemologis Mazhab Aswaja dalam Menjaga Kemurnian Ontologi](#2-peta-genealogi-epistemologis-mazhab-aswaja-dalam-menjaga-kemurnian-ontologi)
   - [3. Translasi Khazanah Turats ke Tata Kelola Asrama 24 Jam & SOP Musyrif](#3-translasi-khazanah-turats-ke-tata-kelola-asrama-24-jam--sop-musyrif)
@@ -356,7 +356,7 @@ Dan dalam *The Concept of Education in Islam* beliau menegaskan:
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat matriks resmi sanad keilmuan, peta genealogi tradisi intelektual Aswaja, dan pedoman operasional tata kelola pesantren.*
 

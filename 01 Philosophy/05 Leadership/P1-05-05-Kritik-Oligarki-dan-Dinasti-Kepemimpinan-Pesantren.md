@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Dekonstruksi Familisme Amoral (Edward Banfield) & Oligarki Organisasi Tradisional](#3-inkuiri-2-dekonstruksi-familisme-amoral-edward-banfield--oligarki-organisasi-tradisional)
   - [4. Inkuiri 3: Rekonstruksi Meritokrasi Syar'i: Kriteria Al-Qawiyyul Amin (QS. Al-Qashash: 26)](#4-inkuiri-3-rekonstruksi-meritokrasi-syari-kriteria-al-qawiyyul-amin-qs-al-qashash-26)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-meritokrasi-syar-i-anti-oligarki-kepemimpinan-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH](#1-formulasi-konseptual-meritokrasi-syar-i-anti-oligarki-kepemimpinan-pesantren-tumbuh)
   - [2. Matriks Komparasi Sistem Kepemimpinan: Dinasti Oligarki Tertutup vs Meritokrasi Syura TUMBUH](#2-matriks-komparasi-sistem-kepemimpinan-dinasti-oligarki-tertutup-vs-meritokrasi-syura-tumbuh)
   - [3. Standar Prosedur Operasional (SOP) Suksesi Kepemimpinan & Akuntabilitas Tata Kelola Yayasan](#3-standar-prosedur-operasional-sop-suksesi-kepemimpinan--akuntabilitas-tata-kelola-yayasan)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -152,13 +152,13 @@ $$\text{قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأ
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH
+### 1. Formulasi Konseptual: Meritokrasi Syar'i & Anti-Oligarki Kepemimpinan Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kepemimpinan Sebagai Amanah Ummah (bukan HAK Milik Dinasti Pribadi)**:  
    Menegaskan bahwa kepemimpinan pesantren adalah amanah peradaban dan titipan wakaf Allah SWT; mengharamkan praktik nepotisme, oligarki dinasti tertutup, dan privatisasi aset wakaf umat.

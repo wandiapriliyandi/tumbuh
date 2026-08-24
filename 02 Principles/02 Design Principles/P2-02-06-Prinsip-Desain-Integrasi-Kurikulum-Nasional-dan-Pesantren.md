@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Konvergensi Concept-Based Curriculum & Interdisciplinary Thematic Design (Erickson & Lanning)](#3-inkuiri-2-konvergensi-concept-based-curriculum--interdisciplinary-thematic-design-erickson--lanning)
   - [4. Inkuiri 3: Eliminasi Curricular Overload & Desain Ritme Belajar 24 Jam Ramah Kognitif](#4-inkuiri-3-eliminasi-curricular-overload--desain-ritme-belajar-24-jam-ramah-kognitif)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Kelas, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-kelas--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-formulasi-konseptual-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Tematik Mata Pelajaran: Rumpun Turats, Rumpun Sains-Teknologi, & Rumpun Adab](#2-matriks-integrasi-tematik-mata-pelajaran-rumpun-turats-rumpun-sains-teknologi--rumpun-adab)
   - [3. Standar Prosedur Operasional (SOP) Perancangan Modul Integratif & Penjadwalan Bebas Overload](#3-standar-prosedur-operasional-sop-perancangan-modul-integratif--penjadwalan-bebas-overload)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -145,13 +145,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Integrasi Total Fardhu 'ain DAN Fardhu Kifayah**:  
    Menetapkan bahwa kurikulum turats kepesantrenan dan kurikulum sains nasional adalah kesatuan organik yang saling melengkapi; mengharamkan dikotomi pemisahan ilmu sekuler vs agama.

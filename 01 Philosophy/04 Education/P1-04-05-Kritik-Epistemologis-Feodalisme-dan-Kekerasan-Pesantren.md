@@ -28,8 +28,8 @@
   - [4. Inkuiri 3: Kritik Historis Mitos 'Barakah Pukulan': Mengembalikan Hakikat Barakah Sesuai Sunnah](#4-inkuiri-3-kritik-historis-mitos-barakah-pukulan-mengembalikan-hakikat-barakah-sesuai-sunnah)
   - [5. Inkuiri 4: Rekonstruksi Relasi Guru-Santri Berbasis Ukhuwah, Musyawarah, & Pemuliaan Martabat](#5-inkuiri-4-rekonstruksi-relasi-guru-santri-berbasis-ukhuwah-musyawarah--pemuliaan-martabat)
   - [6. Inkuiri 5: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#6-inkuiri-5-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-pemurnian-adab-takdzim-pengharaman-feodalisme-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH](#1-formulasi-konseptual-pemurnian-adab-takdzim-pengharaman-feodalisme-pesantren-tumbuh)
   - [2. Matriks Komparasi Karakteristik: Tawadhu' Autentik Turats vs Feodalisme Otoritarian Toksik](#2-matriks-komparasi-karakteristik-tawadhu-autentik-turats-vs-feodalisme-otoritarian-toksik)
   - [3. Pakta Integritas Pendidik & Piagam Anti-Perpeloncoan Senioritas Asrama (Anti-Hazing Protocol)](#3-pakta-integritas-pendidik--piagam-anti-perpeloncoan-senioritas-asrama-anti-hazing-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -164,13 +164,13 @@ Imam **Az-Zarnuji** dalam *Ta'lim al-Muta'allim* dan Imam **Ibnu Jama'ah** dalam
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH
+### 1. Formulasi Konseptual: Pemurnian Adab Takdzim & Pengharaman Feodalisme Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Kesetaraan Martabat Insan DI Hadapan Allah (egalitarianisme Islami)**:  
    Menegaskan bahwa seluruh santri dan asatidz adalah hamba Allah yang setara kemuliaan martabatnya; kemuliaan sejati diukur dari ketakwaan dan adab (QS. Al-Hujurat: 13), bukan senioritas angkatan.

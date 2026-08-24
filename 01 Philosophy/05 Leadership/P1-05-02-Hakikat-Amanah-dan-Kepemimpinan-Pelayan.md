@@ -31,8 +31,8 @@
   - [5. Inkuiri 4: Mitigasi Burnout Pendidik & Musyrif Asrama: Teori Christina Maslach & Beban Kerja Manusiawi](#5-inkuiri-4-mitigasi-burnout-pendidik--musyrif-asrama-teori-christina-maslach--beban-kerja-manusiawi)
   - [6. Inkuiri 5: Perlindungan Kesejahteraan Jasmani & Ruhani Musyrif sebagai Pondasi Pelayanan Bermutu](#6-inkuiri-5-perlindungan-kesejahteraan-jasmani--ruhani-musyrif-sebagai-pondasi-pelayanan-bermutu)
   - [7. Inkuiri 6: Translasi Doktrin Khidmah ke Manajemen Operasional Pesantren Bebas Eksploitasi](#7-inkuiri-6-translasi-doktrin-khidmah-ke-manajemen-operasional-pesantren-bebas-eksploitasi)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH](#1-kaidah-utama-dan-standar-baku-hakikat-amanah-dan-kepemimpinan-pelayan-pesantren-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH](#1-formulasi-konseptual-hakikat-amanah-dan-kepemimpinan-pelayan-pesantren-tumbuh)
   - [2. Matriks Komparasi Gaya Kepemimpinan: Otoriter Hirarkis vs Korporatis Transaksional vs Servant Leadership TUMBUH](#2-matriks-komparasi-gaya-kepemimpinan-otoriter-hirarkis-vs-korporatis-transaksional-vs-servant-leadership-tumbuh)
   - [3. Matriks 10 Karakteristik Servant Leader Greenleaf dalam Konteks Pesantren](#3-matriks-10-karakteristik-servant-leader-greenleaf-dalam-konteks-pesantren)
   - [4. Protokol Mitigasi Burnout & Standar Jam Kerja Sehat Musyrif Asrama](#4-protokol-mitigasi-burnout--standar-jam-kerja-sehat-musyrif-asrama)
@@ -245,13 +245,13 @@ graph TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH
+### 1. Formulasi Konseptual: Hakikat Amanah dan Kepemimpinan Pelayan Pesantren TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Hakikat Kepemimpinan Adalah Pelayanan (leadership AS Servant Hood)**:  
    Setiap pemegang amanah kepemimpinan (Mudir, Kepala Madrasah, Wali Kamar, Musyrif) adalah PELAYAN BAGI ORANG-ORANG YANG DIPIMPINNYA (SAYYIDUL QAWMI KHADIMUHUM). Jabatan adalah beban tanggung jawab hisab akhirat, bukan tahta kekuasaan feodal untuk menuntut dilayani.

@@ -32,7 +32,7 @@
   - [5. Inkuiri 4: Konvergensi dengan UU Perlindungan Anak No. 35/2014 & PMA No. 73/2022](#5-inkuiri-4-konvergensi-dengan-uu-perlindungan-anak-no-352014--pma-no-732022)
   - [6. Inkuiri 5: Saluran Pengaduan Aman (Safe Whistleblowing) & Pendidikan Batasan Personal](#6-inkuiri-5-saluran-pengaduan-aman-safe-whistleblowing--pendidikan-batasan-personal)
   - [7. Inkuiri 6: Translasi Doktrin Kemuliaan Fitrah ke Standar Operasional Asrama 24 Jam](#7-inkuiri-6-translasi-doktrin-kemuliaan-fitrah-ke-standar-operasional-asrama-24-jam)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
   - [1. Piagam Perlindungan Martabat Insan Santri (The Charter of Sanctity of the Pupil)](#1-piagam-perlindungan-martabat-insan-santri-the-charter-of-sanctity-of-the-pupil)
   - [2. Matriks Lima Hak Fundamental Santri Berbasis Maqashid Syari'ah](#2-matriks-lima-hak-fundamental-santri-berbasis-maqashid-syari-ah)
   - [3. Standar Eliminasi Mutlak Praktik yang Merendahkan Martabat (Zero Humiliation Matrix)](#3-standar-eliminasi-mutlak-praktik-yang-merendahkan-martabat-zero-humiliation-matrix)
@@ -348,7 +348,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 *Bagian ini memuat Piagam Perlindungan Martabat Insan Santri, matriks 5 hak fundamental, matriks Zero Humiliation, dan protokol operasional Safe Whistleblowing.*
 

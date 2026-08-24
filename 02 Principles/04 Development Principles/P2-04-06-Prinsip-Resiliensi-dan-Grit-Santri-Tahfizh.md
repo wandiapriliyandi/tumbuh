@@ -27,8 +27,8 @@
   - [3. Inkuiri 2: Konvergensi Grit Theory (Angela Duckworth) & Growth Mindset (Carol Dweck) dalam Tahfizh](#3-inkuiri-2-konvergensi-grit-theory-angela-duckworth--growth-mindset-carol-dweck-dalam-tahfizh)
   - [4. Inkuiri 3: Navigasi Plateau of Latent Potential & Penerapan Antifragility dalam Mengelola Kegagalan Setoran](#4-inkuiri-3-navigasi-plateau-of-latent-potential--penerapan-antifragility-dalam-mengelola-kegagalan-setoran)
   - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Halaqah, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-halaqah--titik-temu-konsensus)
-- [BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL](#bagian-ii-kodifikasi-baku-hasil-riset--kesimpulan-formal)
-  - [1. Kaidah Utama dan Standar Baku: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH](#1-kaidah-utama-dan-standar-baku-standar-pembinaan-resiliensi-ketahanan-mental-santri-tumbuh)
+- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [1. Formulasi Konseptual: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH](#1-formulasi-konseptual-standar-pembinaan-resiliensi-ketahanan-mental-santri-tumbuh)
   - [2. Matriks Pengukuran 4 Tingkat Ketahanan Mental Santri: Rapuh, Bertahan, Tangguh, & Antirapuh](#2-matriks-pengukuran-4-tingkat-ketahanan-mental-santri-rapuh-bertahan-tangguh--antirapuh)
   - [3. Standar Prosedur Operasional (SOP) Pemulihan Kejenuhan Menghafal (Futuwr Recovery Protocol)](#3-standar-prosedur-operasional-sop-pemulihan-kejenuhan-menghafal-futuwr-recovery-protocol)
 - [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
@@ -152,13 +152,13 @@ Konsep **Antifragile** karya Nassim Nicholas Taleb mengajarkan bahwa sistem ment
 
 ---
 
-# BAGIAN II: KODIFIKASI BAKU HASIL RISET & KESIMPULAN FORMAL
+# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
 
 ---
 
-### 1. Kaidah Utama dan Standar Baku: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH
+### 1. Formulasi Konseptual: Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH
 
-Berdasarkan sintesis inkuiri turats dan konsensus sains pendidikan, prinsip dan regulasi operasional dirumuskan ke dalam kaidah-kaidah baku berikut:
+Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
 1. **Pengembangan Daya Juang Profetik (prophetic Grit & Mujahadah)**:  
    Menetapkan bahwa ketangguhan mental, konsistensi jangka panjang, dan kesabaran menghadapi kesulitan adalah inti kompetensi karakter santri yang dibina secara sadar dan sistemik.
