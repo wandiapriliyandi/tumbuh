@@ -1,385 +1,280 @@
-# P1-05-01: FALSAFAH KEPEMIMPINAN BERBASIS QUDWAH
-## *Monograf Terpadu: Doktrin Qudwah First dalam Turats Islam (QS. Al-Ahzab: 21 & QS. Ash-Shaff: 2–3), Dekonstruksi Kepemimpinan Retorika Tanpa Amal (Kabura Maqtan), Konvergensi Mirror Neuron System Giacomo Rizzolatti & Social Learning Theory Albert Bandura, serta Transformasi Budaya Keteladanan Asatidz 24 Jam*
+# P1-05-01: FALSAFAH KEPEMIMPINAN BERBASIS QUDWAH (QUDWAH-CENTERED LEADERSHIP)
+## *Monograf Riset Akademik: Doktrin Qudwah First dalam Turats Islam (QS. Al-Ahzab: 21 & QS. Ash-Shaff: 2–3), Dekonstruksi Kepemimpinan Retorika (Kabura Maqtan), Konvergensi Mirror Neuron System Giacomo Rizzolatti & Social Learning Theory, Serta Transformasi Keteladanan di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-05-01/MONOGRAF-TERPADU-FALSAFAH-QUDWAH/2026`  
-**Domain**: `01 Philosophy` > `05 Leadership`  
-**Klasifikasi Naskah**: *Comprehensive Integrated Monograph* (Monograf Akademis & Rumusan Baku Terpadu)  
+**Nomor Identifikasi**: `P1-05-01/MONOGRAF-RISET-FALSAFAH-QUDWAH/2026`  
+**Domain**: `01 Philosophy` > `05 Leadership` (Sub-Modul 01: *Philosophy of Qudwah Leadership*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Riset Akademik Fondasional)  
 **Rumpun Disiplin Pengkaji**: Filsafat Kepemimpinan Islam (*Imamah & Qudwah*), Fiqh Akhlak Nabawi, Neurosains Kognitif Peniruan Perilaku (*Social Cognitive Neuroscience*), Psikologi Kepemimpinan Pendidikan, Tata Kelola Budaya Pesantren  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Keteladanan Amal Mendahului Ribuan Kata Nasihat (*Qudwah Qabla ad-Da'wah*):**  
->   Santri di pesantren belajar bukan dari apa yang kita pidatokan di atas mimbar, melainkan dari apa yang mereka lihat dari gerak-gerik hidup kita sehari-hari. Jika ustadz menyuruh santri bangun shalat subuh tepat waktu tetapi ustadznya sendiri masbuq atau datang terlambat, seluruh wibawa kepemimpinan runtuh seketika.
-> * **Penjelasan Ilmiah Mengapa Keteladanan Begitu Kuat (Mirror Neurons):**  
->   Otak manusia dibekali **Sistem Neuron Cermin (*Mirror Neuron System*)**. Ketika santri melihat musyrif dengan sabar menyapa temannya yang sakit atau ikut memungut sampah di halaman, neuron cermin di otak santri langsung merekam dan meniru (*Modeling*) perilaku tersebut sebagai cetak biru adab otomatis.
-> * **Bahaya Murka Allah atas Pemimpin yang Hanya Pandai Berteori (*Kabura Maqtan*):**  
->   Al-Qur'an (QS. Ash-Shaff: 2–3) memperingatkan dengan keras: *"Wahai orang-orang yang beriman, mengapa kamu mengatakan apa yang tidak kamu perbuat? Sangat besar kemurkaan di sisi Allah bahwa kamu mengatakan apa yang tidak kamu perbuat"*. Memimpin dengan teladan adalah benteng keselamatan akhirat bagi para pendidik.
-> * **Lima Ranah Keteladanan Mutlak Musyrif 24 Jam:**  
->   1. *Keteladanan Ibadah*: Hadir di masjid sebelum adzan berkumandang.  
->   2. *Keteladanan Adab Lisan*: Tidak pernah membentak kasar atau mengumpat kotor.  
->   3. *Keteladanan Kerapian*: Menjaga kamar dan meja kerja asatidz tetap rapi dan wangi.  
->   4. *Keteladanan Khidmat*: Ringan tangan membantu membersihkan lingkungan bersama santri.  
->   5. *Keteladanan Integritas*: Menepati janji dan jujur mengakui kekhilafan diri.
+> * **Kelemahan Paradigma Lama: Kepemimpinan Retorika Kering (Hypocritical Moral Gap):**  
+>   Banyak pemimpin dan pengasuh pesantren mengandalkan instruksi verbal satu arah dan pidato retoris di atas mimbar, namun gerak-gerik pribadinya menyelisihi ucapannya (datang terlambat shalat, merokok di area kantor, atau membentak kasar). Kemunafikan ini memicu kemurkaan Allah (*Kabura Maqtan 'Indallah* - QS. Ash-Shaff: 3) dan menghancurkan wibawa kepemimpinan di hadapan santri.
+> * **Inovasi Konseptual: Qudwah Qabla ad-Da'wah & Neurosains Mirror Neurons:**  
+>   TUMBUH menegakkan doktrin **Keteladanan Mendahului Instruksi (*Qudwah Qabla ad-Da'wah*)**: santri belajar 90% dari apa yang mereka lihat secara konsisten dari perilaku asatidz. Sains neurobiologi (Rizzolatti) membuktikan aktivasi *Mirror Neuron System* di otak santri yang menyerap dan menduplikasi adab sang guru secara otomatis tanpa perlu banyak kata.
+> * **Formulasi Operasional & Pembuktian Lapangan:**  
+>   Monograf ini menguraikan matriks 5 ranah keteladanan mutlak pendidik 24 jam, 4 Tingkatan Kesadaran Kepemimpinan Qudwah (*Maratib al-Idrak*), protokol audit mandiri harian (*Daily Qudwah Self-Audit*), dan etika tata kelola kepemimpinan keteladanan.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET DOKTRIN KEPEMIMPINAN QUDWAH, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-doktrin-kepemimpinan-qudwah-dialektika-inkuiri--kasuistika-lapangan)
-  - [1. Kerangka Metodologi Kepemimpinan Qudwah: Kritik atas Kepemimpinan Retorika (Kabura Maqtan)](#1-kerangka-metodologi-kepemimpinan-qudwah-kritik-atas-kepemimpinan-retorika-kabura-maqtan)
-  - [2. Inkuiri 1: Eksegesis Turats Mandat Keteladanan — QS. Al-Ahzab: 21, QS. Al-Baqarah: 44, & Hadits Akhlak Nabi SAW (Kana Khuluquhul Qur'an)](#2-inkuiri-1-eksegesis-turats-mandat-keteladanan--qs-al-ahzab-21-qs-al-baqarah-44--hadits-akhlak-nabi-saw-kana-khuluquhul-quran)
-  - [3. Inkuiri 2: Konvergensi Neurosains Kognitif Peniruan Perilaku — Mirror Neuron System Giacomo Rizzolatti & Social Learning Theory Albert Bandura](#3-inkuiri-2-konvergensi-neurosains-kognitif-peniruan-perilaku--mirror-neuron-system-giacomo-rizzolatti--social-learning-theory-albert-bandura)
-  - [4. Inkuiri 3: Dialektika Wibawa Hakiki — Karisma Keteladanan (Haibah al-Qudwah) vs Karisma Otoriter Rasa Takut (Haibah al-Khauf)](#4-inkuiri-3-dialektika-wibawa-hakiki--karisma-keteladanan-haibah-al-qudwah-vs-karisma-otoriter-rasa-takut-haibah-al-khauf)
-  - [5. Inkuiri 4: Formulasi Prinsip Lead by Example dalam Rutinitas 24 Jam Pendidik Pesantren](#5-inkuiri-4-formulasi-prinsip-lead-by-example-dalam-rutinitas-24-jam-pendidik-pesantren)
-  - [6. Inkuiri 5: Dialektika Keteladanan Menghadapi Santri Generasi Digital](#6-inkuiri-5-dialektika-keteladanan-menghadapi-santri-generasi-digital)
-  - [7. Inkuiri 6: Translasi Falsafah Qudwah ke Tata Kelola Budaya Integritas Lembaga](#7-inkuiri-6-translasi-falsafah-qudwah-ke-tata-kelola-budaya-integritas-lembaga)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
-  - [1. Formulasi Konseptual: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH](#1-formulasi-konseptual-falsafah-kepemimpinan-berbasis-qudwah-pesantren-tumbuh)
-  - [2. Matriks Komparasi Kepemimpinan: Retorika Otoriter vs Permisif vs Kepemimpinan Qudwah TUMBUH](#2-matriks-komparasi-kepemimpinan-retorika-otoriter-vs-permisif-vs-kepemimpinan-qudwah-tumbuh)
-  - [3. Matriks 5 Ranah Keteladanan Mutlak Musyrif & Asatidz di Pesantren 24 Jam](#3-matriks-5-ranah-keteladanan-mutlak-musyrif--asatidz-di-pesantren-24-jam)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Krisis Kepemimpinan Retorika dan Jurang Kemunafikan Moral](#1-latar-belakang-masalah-krisis-kepemimpinan-retorika-dan-jurang-kemunafikan-moral)
+  - [2. Eksegesis Turats Mandat Keteladanan Kenabian: QS. Al-Ahzab: 21, QS. Ash-Shaff: 2–3, & Akhlak Nabawi](#2-eksegesis-turats-mandat-keteladanan-kenabian-qs-al-ahzab-21-qs-ash-shaff-23--akhlak-nabawi)
+  - [3. Konvergensi Neurosains Kognitif: Mirror Neuron System Giacomo Rizzolatti & Social Learning Theory Albert Bandura](#3-konvergensi-neurosains-kognitif-mirror-neuron-system-giacomo-rizzolatti--social-learning-theory-albert-bandura)
+  - [4. Dialektika Wibawa Hakiki: Karisma Keteladanan (Haibah al-Qudwah) vs Karisma Otoriter Rasa Takut (Haibah al-Khauf)](#4-dialektika-wibawa-hakiki-karisma-keteladanan-haibah-al-qudwah-vs-karisma-otoriter-rasa-takut-haibah-al-khauf)
+  - [5. Kasuistika Lapangan: Kasus Inkonsistensi Disiplin Shalat Ustadz & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-inkonsistensi-disiplin-shalat-ustadz--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Eksplanasi Teoretis Falsafah Kepemimpinan Berbasis Qudwah TUMBUH](#1-eksplanasi-teoretis-falsafah-kepemimpinan-berbasis-qudwah-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Kepemimpinan Qudwah (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-kepemimpinan-qudwah-maratib-al-idrak)
+  - [3. Matriks Lima Ranah Keteladanan Mutlak Musyrif dan Asatidz di Pesantren 24 Jam](#3-matriks-lima-ranah-keteladanan-mutlak-musyrif-dan-asatidz-di-pesantren-24-jam)
   - [4. Protokol Evaluasi Diri Keteladanan Pendidik (Daily Qudwah Self-Audit Protocol)](#4-protokol-evaluasi-diri-keteladanan-pendidik-daily-qudwah-self-audit-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Tabel Sintesis Hasil Riset Kepemimpinan Qudwah](#1-tabel-sintesis-hasil-riset-kepemimpinan-qudwah)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Kepemimpinan Qudwah](#1-tabel-sintesis-temuan-riset-kepemimpinan-qudwah)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
-  - [4. Glosarium dan Penjelasan Istilah Teknis Kepemimpinan Qudwah & Neurosains Peniruan](#4-glosarium-dan-penjelasan-istilah-teknis-kepemimpinan-qudwah--neurosains-peniruan)
+  - [4. Glosarium Istilah Ilmiah & Turats Kepemimpinan Qudwah](#4-glosarium-istilah-ilmiah--turats-kepemimpinan-qudwah)
 
 ---
 
-# BAGIAN I: RISET DOKTRIN KEPEMIMPINAN QUDWAH, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Kerangka Metodologi Kepemimpinan Qudwah: Kritik atas Kepemimpinan Retorika (*Kabura Maqtan*)
+### 1. Latar Belakang Masalah: Krisis Kepemimpinan Retorika dan Jurang Kemunafikan Moral
 
-Penyakit paling kronis dalam kepemimpinan pendidikan modern adalah terjadinya **Kesenjangan Moral (*Hypocritical Moral Gap*)**: jurang pemisah yang menganga antara apa yang diucapkan oleh para pemimpin lembaga dengan apa yang dipraktikkan dalam kehidupan nyata.
-
-Di sebagian pesantren konvensional:
-* Pimpinan dan guru berpidato berjam-jam tentang bahaya merokok, namun merokok bebas di kantor asatidz di hadapan santri.
-* Musyrif mewajibkan santri bangun pukul 03.30 untuk tahajud dengan ancaman hukuman cambuk, namun para musyrif baru bergegas ke masjid saat iqamah Subuh telah berkumandang.
-* Pengurus menuntut santri bersikap santun dan lembut, namun pengurus sendiri mengumpat kasar dan menampar santri saat marah.
-
-Kesenjangan ini menghancurkan efektivitas pendidikan adab karena Al-Qur'an menetapkan hukum abadi: kata-kata yang tidak disertai perbuatan nyata akan melahirkan kutukan kemurkaan Allah SWT (*Kabura Maqtan*) dan melahirkan generasi santri yang sinis, munafik, dan kehilangan rasa hormat kepada ulama.
-
-Ekosistem TUMBUH menegakkan doktrin **Kepemimpinan Berbasis Qudwah First (*Action-Driven Leadership*)**:
+Krisis kepemimpinan pendidikan Islam paling akut berakar pada terjadinya **Jurang Kemunafikan Moral (*Hypocritical Moral Gap*)**:
+* **Ketidaksesuaian Kata dan Perbuatan**: Pemimpin berkhotbah tentang pentingnya shalat awal waktu, namun dirinya sendiri kerap masbuq; guru mengajarkan adab lisan, namun membentak santri dengan makian kasar di depan umum.
+* **Kehancuran Kepercayaan Santri (*Erosion of Moral Trust*)**: Santri remaja yang sedang mencari jati diri mendeteksi inkonsistensi ini seketika, memicu sinisme batin, hilangnya takzim, dan melahirkan generasi munafik yang hanya patuh saat diawasi mata pengurus.
+* **Keniscayaan Doktrin Qudwah First**: Kepemimpinan dalam Islam adalah seni mendahului dalam beramal saleh (*As-Sabqu bil-Khayrat*), bukan sekadar kemahiran merangkai retorika mimbar.[^1]
 
 ```mermaid
 flowchart TD
-    subgraph TransformasiKepemimpinanQudwah["TRANSFORMASI KEPEMIMPINAN PESANTREN"]
-        Retorika["KEPEMIMPINAN RETORIKA KOSONG (LAMA)<br/>• Memerintah dengan titah verbal & ancaman hukuman.<br/>• Guru tidak mempraktikkan apa yang diperintahkan.<br/>• Santri menjadi sinis, munafik, & hilang rasa ta'zhim."]
+    subgraph TransformasiKepemimpinanQudwah["TRANSFORMASI PARADIGMA KEPEMIMPINAN PESANTREN"]
+        PolaRetorikaLama["KEPEMIMPINAN RETORIKA MIMBAR (LAMA)<br/>• Banyak bicara nasihat, minim keteladanan amal.<br/>• Menuntut santri disiplin, ustadz melanggar aturan.<br/>• Menghasilkan kepatuhan palsu & sinisme santri."]
         
-        Qudwah["KEPEMIMPINAN QUDWAH NYATA (TUMBUH)<br/>• Guru memimpin dengan mencontohkan amal shalih terlebih dahulu.<br/>• Hadir lebih awal, berbicara santun, & melayani dengan ikhlas.<br/>• Santri meniru dengan takjub, cinta, & kemandirian moral."]
+        PolaQudwahTUMBUH["KEPEMIMPINAN BERBASIS QUDWAH (TUMBUH)<br/>• Qudwah Qabla ad-Da'wah: Amal mendahului kata.<br/>• Wibawa lahir dari kesalehan & kebersihan akhlak.<br/>• Mirror Neurons: Santri menduplikasi karakter luhur guru."]
         
-        Retorika ==>|TRANSFORMASI TOTAL| Qudwah
+        PolaRetorikaLama ==>|DIREKONSTRUKSI MENJADI| PolaQudwahTUMBUH
     end
 ```
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Mandat Keteladanan — QS. Al-Ahzab: 21, QS. Al-Baqarah: 44, & Hadits Akhlak Nabi SAW (*Kana Khuluquhul Qur'an*)
+### 2. Eksegesis Turats Mandat Keteladanan Kenabian: QS. Al-Ahzab: 21, QS. Ash-Shaff: 2–3, & Akhlak Nabawi
 
-```mermaid
-graph TD
-    A["Gugatan Posisi Penguasa (Pihak A):<br/>'Guru itu tugasnya memerintah santri, bukan harus ikut mengerjakan semua aturan santri. Wajar kalau guru punya hak istimewa!'"]
-    --> B1["Tinjauan Tafsir QS. Al-Ahzab 21:<br/>Rasulullah SAW dijadikan Uswatun Hasanah karena beliau selalu berada di garis depan mengamalkan apa yang diperintahkan."]
-    A --> B2["Tinjauan Peringatan Keras QS. Al-Baqarah 44:<br/>Ata'murunan naasa bil birri wa tansawna anfusakum (Kecaman Allah atas mereka yang menyuruh kebaikan tapi lupa diri)."]
-    A --> B3["Tinjauan Hadits Sayyidah 'Aisyah RA:<br/>Akhlak Nabi SAW adalah Al-Qur'an hidup yang memancarkan keteladanan visual 24 jam."]
-    B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Qudwah adalah syarat mutlak keabsahan otoritas moral kepemimpinan dalam Islam."]
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap figur pendidik yang menuntut orang lain berbuat kebajikan namun dirinya sendiri mengabaikan kebajikan tersebut niscaya terancam oleh kemurkaan Allah SWT (*Kabura Maqtan*) dan kehilangan legitimasi moral untuk membina adab.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Al-Qur'an secara qath'i mengecam keras orang yang memerintahkan kebaikan kepada manusia namun melupakan dirinya sendiri (QS. Al-Baqarah: 44 dan QS. Ash-Shaff: 2–3).
-* **Konklusi (*an-Natijah*)**: Maka, seluruh asatidz, musyrif, dan pimpinan di pesantren TUMBUH wajib mempraktikkan nilai adab dan kedisiplinan pada diri sendiri sebelum menuntutnya dari santri.[^1]
-
-#### 📖 Teks Primer Al-Qur'an: Mandat Uswatun Hasanah & Bahaya Kemurkaan Allah
-Allah SWT menegaskan poros keteladanan kenabian:
+Al-Qur'an menetapkan Rasulullah ﷺ sebagai teladan mutlak bagi siapa saja yang mengharap ridha Allah dan keselamatan akhirat:
 
 $$\text{لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا}$$
 
-*"Sungguh, telah ada pada (diri) Rasulullah itu **suri teladan yang baik (Uswatun Hasanah)** bagimu (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari kiamat dan dia banyak mengingat Allah."* (QS. Al-Ahzab [33]: 21).[^2]
+*"**Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik (Uswah Hasanah / Qudwah) bagimu, (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari kiamat dan dia banyak mengingat Allah**."* (QS. Al-Ahzab [33]: 21).[^2]
 
-Dan Allah SWT memperingatkan bahaya hipokrisi retorika kepemimpinan:
-$$\text{أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ}$$
-*"Mengapa kamu menyuruh orang lain (mengerjakan) kebajikan, sedangkan kamu melupakan dirimu sendiri, padahal kamu membaca Kitab (Taurat)? Tidakkah kamu mengerti?"* (QS. Al-Baqarah [2]: 44).[^3]
+Allah SWT juga memperingatkan dengan ancaman kemurkaan yang sangat keras bagi para pengkhutbah yang tidak mengamalkan ucapannya:
 
 $$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۝ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ}$$
-*"Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan? (Itu) sangat dibenci di sisi Allah jika kamu mengatakan apa-apa yang tidak kamu kerjakan."* (QS. Ash-Shaff [61]: 2–3).[^4]
 
-Ketika Sayyidah 'Aisyah *radhiyallahu 'anha* ditanya mengenai hakikat kepemimpinan dan akhlak Rasulullah SAW, beliau menjawab singkat dan padat:
-$$\text{كَانَ خُلُقُهُ الْقُرْآنَ}$$
-*"Akhlak beliau adalah Al-Qur'an (yang hidup dan berjalan)."* (HR. Muslim No. 746; Ahmad No. 24601).[^5]
+*"**Wahai orang-orang yang beriman, mengapa kamu mengatakan apa yang tidak kamu perbuat? Sangat besar kemurkaan di sisi Allah bahwa kamu mengatakan apa yang tidak kamu perbuat**."* (QS. Ash-Shaff [61]: 2–3).[^3]
 
-#### 🥊 Ronde 1: Menolak Normalisasi Hak Istimewa Guru untuk Melanggar Aturan
-* **Pihak A (Sudut Pandang Feodalisme Asatidz)**:  
-  *"Guru itu punya derajat khusus di atas santri. Santri dilarang merokok dan dilarang pegang gawai, tapi guru bebas merokok dan main gawai di depan santri karena guru sudah dewasa!"*
-* **Tinjauan Sudut Pandang Psikologi Perkembangan & Dampak Keteladanan Negatif**:  
-  Mempertontonkan pelanggaran di depan anak yang sedang dilarang melakukan hal tersebut adalah **Pukulan Telak bagi Integritas Lembaga**. Santri akan menyimpulkan bahwa aturan adab hanyalah permainan kekuasaan (*Hypocritical Power Play*). Pendidik yang beradab berpuasa dari apa yang ia larang bagi muridnya demi menjaga kesucian tauladan.[^6]
-
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Guru Dituntut Menjadi Manusia Sempurna Tanpa Cela?
-* **Pihak A (Sudut Pandang Tuntutan Kemaksuman)**:  
-  *"Kalau guru harus 100% sempurna dulu baru boleh mendidik, maka di dunia ini tidak akan ada orang yang boleh menjadi guru karena semua manusia punya dosa!"*
-* **Tinjauan Sudut Pandang Kejujuran Memperbaiki Diri & Keteladanan Taubat**:  
-  *Qudwah* tidak menuntut kemaksuman malaikat. *Qudwah* menuntut **Kejujuran dan Kesungguhan Ikhtiar (*Shidqul Mujahadah*)**. Ketika seorang guru berbuat khilaf (misalnya terlambat hadir karena kendala mendesak), keteladanan yang sejati adalah **Meminta Maaf Secara Ksatria Kepada Santri di Awal Kelas**, bukan mencari-cari alasan palsu atau marah-marah untuk menutupi kesalahannya.[^7]
-
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Kata-Kata Tanpa Teladan Melahirkan Santri yang Sinis?
-* **Pihak A (Sudut Pandang Kekuatan Retorika Verbal)**:  
-  *"Yang penting ustadz pandai berpidato dengan dalil-dalil yang hebat, santri pasti terkesima dan mengikutinya!"*
-* **Resolusi Sudut Pandang Teori Disonansi Kognitif & Keberkahan Batin**:  
-  Retorika tanpa amal memicu **Disonansi Kognitif Kronis** pada santri. Santri melihat kontradiksi antara kata dan fakta, yang berujung pada hilangnya rasa hormat dan tumbuhnya sikap sinis terhadap dakwah agama secara keseluruhan. Ucapan yang keluar dari lisan hanya sampai di telinga, namun keteladanan yang lahir dari kalbu akan menembus lubuk kalbu.[^8]
-
-> #### 📌 Kasuistika Lapangan 1 & Titik Temu Konsensus
-> * **Studi Kasus**: Di sebuah asrama, program bangun qiyamul lail gagal total selama 3 tahun karena musyrif hanya membunyikan bel dari kamarnya sambil melanjutkan tidur.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Manajemen mengubah kebijakan pengasuhan berbasis *Qudwah First*. Musyrif wajib bangun pukul 03.15, berwudhu, menyalakan lampu lorong, dan tersenyum menyapa santri di pintu kamar sambil memegang mushaf. Tanpa perlu teriakan keras, 98% santri bangun dengan penuh semangat karena melihat musyrifnya telah berdiri siap shalat di shaf pertama masjid.[^9]
+Sayyidah 'Aisyah radhiyallahu 'anha menegaskan hakikat kepemimpinan Nabi ﷺ: *"Kana Khuluquhul Qur'an"* (Akhlak beliau adalah perwujudan nyata Al-Qur'an - HR. Muslim No. 746).[^4]
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Neurosains Kognitif Peniruan Perilaku — *Mirror Neuron System* Giacomo Rizzolatti & *Social Learning Theory* Albert Bandura
+### 3. Konvergensi Neurosains Kognitif: Mirror Neuron System Giacomo Rizzolatti & Social Learning Theory Albert Bandura
 
-```mermaid
-graph TD
-    subgraph NeurosainsMirrorNeurons["MEKANISME BIOLOGIS PENIRUAN KETELADANAN"]
-        AksiGuru["1. OBSERVASI VISUAL PERILAKU GURU<br/>Santri melihat musyrif merapikan sajadah, bertutur santun, & tersenyum."]
-        
-        MirrorNeurons["2. AKTIVASI SISTEM NEURON CERMIN (MIRROR NEURONS)<br/>Area F5 & Korteks Premotorik santri menyala merefleksikan gerakan motorik & emosi guru layaknya dilakukan sendiri."]
-        
-        ModelingBandura["3. INTERNALISASI MODELING (ALBERT BANDURA)<br/>Perilaku guru menjadi skema kognitif standar adab di otak santri."]
-        
-        OtomasiPerilaku["4. REPRODUKSI ADAB OTOMATIS<br/>Santri meniru adab guru secara spontan tanpa perlu disuruh."]
-        
-        AksiGuru --> MirrorNeurons --> ModelingBandura --> OtomasiPerilaku
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem saraf biologis manusia yang dilengkapi dengan neuron cermin (*Mirror Neurons*) niscaya secara otomatis menyerap, memetakan, dan mereplikasi pola perilaku serta ekspresi emosional figur otoritas yang diamatinya setiap hari.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Santri di pesantren hidup bersama asatidz dan musyrif selama 24 jam penuh dalam interaksi visual tatap muka yang intensif.
-* **Konklusi (*an-Natijah*)**: Maka, karakter dan adab santri secara biologis merupakan cerminan langsung (*Mirroring*) dari mutu keteladanan yang diperagakan oleh para asatidz dan musyrifnya.[^10]
-
-#### 📖 Teks Sains Internasional: Riset Prof. Giacomo Rizzolatti & Prof. Albert Bandura
-Prof. Giacomo Rizzolatti (University of Parma) dalam penemuan monumental mengenai *Mirror Neuron System*:
-
-> *"Mirror neurons are a particular class of visuomotor neurons that discharge both when an individual performs a specific motor act and when the individual observes another individual performing a similar act... They provide a direct, automatic, non-mediated neural mechanism for **action understanding, empathy, and behavioral imitation**. The observer's brain simulates the observed action internally, creating a biological template for learning through observation."* (Rizzolatti & Craighero, 2004, *The mirror-neuron system*, Annual Review of Neuroscience).[^11]
-
-Sementara Prof. Albert Bandura (Stanford University) merumuskan *Social Learning Theory & Observational Learning*:
-* Pembelajar belajar 80% melalui **Peniruan Model Hidup (*Live Modeling*)**.
-* Empat tahap pembelajaran sosial: **Perhatian (*Attention*)**, **Retensi (*Retention*)**, **Reproduksi Motorik (*Motor Reproduction*)**, dan **Motivasi Penguatan (*Motivation*)**.
-* Jika model hidup menunjukkan inkonsistensi antara aturan (*Preached Rules*) dan perbuatan nyata (*Observed Actions*), anak secara konsisten akan **Meniru Perbuatan Nyata Model dan Mengabaikan Ucapannya**.[^12]
+Sains kognitif modern memvalidasi keunggulan pembelajaran melalui keteladanan:
+* Penemuan **Sistem Neuron Cermin (*Mirror Neuron System*)** oleh neurosaintis **Giacomo Rizzolatti** (1996; 2004) membuktikan bahwa sel-sel saraf di otak santri menembakkan sinyal listrik yang sama persis saat mereka mengamati tindakan sang guru laksana mereka sendiri yang sedang melakukannya.
+* Teori Pembelajaran Sosial (*Social Learning Theory*) **Albert Bandura** (1977) menegaskan bahwa sebagian besar perilaku moral manusia dipelajari melalui **Pemodelan Tingkah Laku (*Behavioral Modeling*)**, bukan melalui ceramah verbal abstrak.[^5]
 
 ---
 
-### 4. Inkuiri 3: Dialektika Wibawa Hakiki — Karisma Keteladanan (*Haibah al-Qudwah*) vs Karisma Otoriter Rasa Takut (*Haibah al-Khauf*)
+### 4. Dialektika Wibawa Hakiki: Karisma Keteladanan (Haibah al-Qudwah) vs Karisma Otoriter Rasa Takut (Haibah al-Khauf)
 
-```mermaid
-graph LR
-    subgraph KomparasiWibawa["DIALEKTIKA WIBAWA GURU DI PESANTREN"]
-        Khauf["WIBAWA SEMU BERBASIS TEROR (HAIBAH AL-KHAUF)<br/>• Dibangun lewat bentakan, mata melotot, & tongkat kayu.<br/>• Santri patuh saat guru menatap; mengumpat saat guru lewat.<br/>• Wibawa sirna seketika saat jabatan/tongkat hilang."]
-        
-        QudwahWibawa["WIBAWA HAKIKI BERBASIS QUDWAH (HAIBAH AL-MAHABBAH)<br/>• Dibangun lewat keikhlasan amal, ilmu mendalam, & kasih sayang.<br/>• Santri patuh atas dasar cinta, segan, & ingin meneladani.<br/>• Wibawa abadi menghunjam di kalbu santri seumur hidup."]
-        
-        Khauf ==>|DEKONSTRUKSI MUTLAK| QudwahWibawa
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap kewibawaan kepemimpinan yang berakar pada ketakutan jasmani niscaya melahirkan kepatuhan semu yang rapuh, sedangkan kewibawaan yang berakar pada ketakjuban moral akhlak karimah niscaya melahirkan kesetiaan adab yang abadi.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Rasulullah SAW memancarkan kewibawaan profetik (*Al-Haibah*) yang membuat para sahabat segan dan mencintainya bukan karena senjata tirani, melainkan karena kesempurnaan akhlak dan keadilan beliau.
-* **Konklusi (*an-Natijah*)**: Maka, para musyrif dan pimpinan di pesantren TUMBUH dilarang membangun kewibawaan semu melalui teror ancaman fisik.[^13]
+Ekosistem TUMBUH membedakan secara tegas dua jenis kewibawaan:
+* **Haibah al-Khauf (Kewibawaan Semu karena Takut)**: Wibawa yang dipaksakan melalui bentakan, wajah sangar, dan tongkat rotan. Kewibawaan ini runtuh seketika saat sang guru tidak ada di tempat.
+* **Haibah al-Qudwah (Kewibawaan Hakiki karena Keteladanan)**: Wibawa yang memancar dari kesucian batin, keikhlasan amal, dan akhlak mulia. Santri segan dan takzim secara tulus, menjaga adabnya baik di hadapan maupun di belakang sang guru.[^6]
 
 ---
 
-### 5. Inkuiri 4: Formulasi Prinsip *Lead by Example* dalam Rutinitas 24 Jam Pendidik Pesantren
+### 5. Kasuistika Lapangan: Kasus Inkonsistensi Disiplin Shalat Ustadz & Resolusi Restoratif Terpadu
 
-```mermaid
-graph TD
-    subgraph Rutinitas24JamQudwah["INTEGRASI KETELADANAN DALAM RUTINITAS 24 JAM ASATIDZ"]
-        SubuhQ["04.00–06.00: KETELADANAN IBADAH MAHDHAH<br/>Hadir shaf terdepan masjid, memandu tilawah, & menyapa santri penuh senyum."]
-        
-        PagiQ["07.00–14.00: KETELADANAN PROFESIONALISME KELAS<br/>Hadir tepat waktu, menguasai materi mendalam, & menghargai santri."]
-        
-        SoreQ["16.00–17.30: KETELADANAN INTERAKSI INFORMAL<br/>Olahraga bersama, mempraktikkan sportivitas, & menjaga kebersihan fasilitas."]
-        
-        MalamQ["20.00–22.00: KETELADANAN REFLEKSI & MUHASABAH<br/>Mendampingi belajar santri, memandu muhasabah kamar, & menjaga adab tidur."]
-        
-        SubuhQ --> PagiQ --> SoreQ --> MalamQ --> SubuhQ
-    end
-```
-
-#### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 4*)
-* **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap ekosistem pesantren yang menuntut santri hidup dalam disiplin adab 24 jam wajib menyediakan keteladanan hidup nyata dari para pendidiknya di sepanjang rentang waktu 24 jam tersebut.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Musyrif yang mendampingi santri secara langsung di asrama memegang peran sebagai cermin adab paling dominan bagi santri.
-* **Konklusi (*an-Natijah*)**: Maka, jadwal harian musyrif harus distrukturkan secara seimbang dan manusiawi agar mampu memancarkan keteladanan tanpa mengalami kelelahan kronis (*Burnout*).[^14]
+* **Studi Kasus: Musyrif Sering Terlambat Masuk Shaf Shalat Berjamaah Subuh**  
+  * **Dilema**: Santri mulai malas bangun subuh karena melihat oknum musyrif kamar tidur kembali setelah membunyikan bel dan baru lari ke masjid saat rakaat kedua shalat subuh berlangsung.
+  * **Pola Lama**: Pengurus asrama hanya menghukum santri yang terlambat tanpa menegur oknum musyrif.
+  * **Resolusi Restoratif TUMBUH**: Majelis Pimpinan menegakkan audit Qudwah: musyrif tersebut dipanggil secara privat, ditegur dengan adab, dan menandatangani komitmen perbaikan diri. Musyrif berinisiatif meminta maaf kepada santri binaannya dan berkomitmen hadir di shaf terdepan 15 menit sebelum adzan subuh. Menyaksikan perubahan nyata sang musyrif, seluruh santri tergerak bangun lebih awal dengan penuh semangat tanpa perlu diteriaki.[^7]
 
 ---
 
-### 6. Inkuiri 5: Dialektika Keteladanan Menghadapi Santri Generasi Digital
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Eksplanasi Teoretis Falsafah Kepemimpinan Berbasis Qudwah TUMBUH
+
+Ekosistem TUMBUH mengkodifikasikan kepemimpinan Islam ke dalam **Arsitektur Lima Dimensi Kepemimpinan Qudwah (*Arkan al-Qiyadah bil-Qudwah*)**:
 
 ```mermaid
 flowchart TD
-    subgraph QudwahDiEraDigital["TANTANGAN KETELADANAN DI ERA DIGITAL"]
-        Tantangan["SANTRI GENERASI DIGITAL (GEN Z/ALPHA):<br/>Kritis mendeteksi inkonsistensi (Anti-Pencitraan / Bullshit Detector Tajam)."]
+    subgraph ArsitekturKepemimpinanQudwahTUMBUH["ARSITEKTUR LIMA DIMENSI KEPEMIMPINAN QUDWAH"]
         
-        ResponSalah["RESPON SALAH LAMA:<br/>Membungkam santri dengan otoritas feodal atau melarang total gawai tanpa bimbingan adab."]
+        Q1["1. QUDWAH RUHANIYYAH (Spiritual Modeling)<br/>Kehadiran di shaf shalat terdepan, dawam tilawah Qur'an, & kekhusyukan dzikir."]
         
-        ResponTUMBUH["RESPON QUDWAH TUMBUH:<br/>1. Keteladanan Otentik & Transparan (No Pencitraan).<br/>2. Keteladanan Beradab Digital (Etika Guru Bermedia Sosial).<br/>3. Dialog Logis & Pendampingan Literasi Digital Beradab."]
+        Q2["2. QUDWAH KHULUQIYYAH (Moral & Ethical Modeling)<br/>Kejujuran mutlak, kelembutan tutur kata, menolak ghibah, & adab memaafkan."]
         
-        Tantangan ==> ResponTUMBUH
-        ResponSalah -.->|DIHAPUS| ResponTUMBUH
+        Q3["3. QUDWAH 'ILMIYYAH (Epistemic Modeling)<br/>Semangat muthala'ah tanpa henti, riset ilmiah kritis, & kerendahan hati intelektual."]
+        
+        Q4["4. QUDWAH 'AMALIYYAH (Service & Khidmah Modeling)<br/>Ringan tangan memungut sampah, menata fasilitas bersama, & melayani santri."]
+        
+        Q5["5. QUDWAH NIZHAMIYYAH (Integrity & Discipline Modeling)<br/>Tepat waktu dalam segala janji, ketaatan pada SOP, & transparansi amanah."]
+        
+        Q1 <===> Q2 <===> Q3 <===> Q4 <===> Q5
     end
 ```
 
+#### 🔬 Pembahasan Mendalam Lima Dimensi Qudwah:
+1. **Qudwah Ruhaniyyah**: Menjadi teladan hubungan vertikal yang hidup dengan Allah SWT.[^8]
+2. **Qudwah Khuluqiyyah**: Menjadi cermin keindahan akhlak nabawi dalam pergaulan harian.[^9]
+3. **Qudwah 'Ilmiyyah**: Membakar kecintaan menuntut ilmu melalui kegemaran membaca dan menulis karya.[^10]
+4. **Qudwah 'Amaliyyah**: Mengikis arogansi keningratan melalui kerendahan hati melayani sesama.[^11]
+5. **Qudwah Nizhamiyyah**: Menegakkan integritas hukum dan ketertiban organisasi tanpa pilih kasih.[^12]
+
 ---
 
-### 7. Inkuiri 6: Translasi Falsafah Qudwah ke Tata Kelola Budaya Integritas Lembaga
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Kepemimpinan Qudwah (Maratib al-Idrak)
+
+Transformasi kedewasaan kepemimpinan asatidz berlangsung melalui **Empat Tingkatan Kesadaran Kepemimpinan Qudwah (*Maratib al-Idrak al-Qiyadiy*)**:
 
 ```mermaid
-graph TD
-    subgraph BudayaIntegritasLembaga["PIRAMIDA BUDAYA INTEGRITAS QUDWAH PESANTREN"]
-        Kyai["1. LEVEL PIMPINAN PUNCAK (KYAI / MUDIR)<br/>Transparansi tata kelola, keikhlasan amal, & keteladanan zuhud."]
+flowchart TD
+    subgraph TingkatanKesadaranQudwah["EMPAT TINGKATAN KESADARAN KEPEMIMPINAN QUDWAH (MARATIB AL-IDRAK)"]
         
-        Asatidz["2. LEVEL PENDIDIK & MUSYRIF<br/>Ketepatan waktu, kelembutan bimbingan, & integritas akademik."]
+        Q1_Level["TINGKAT 1: KESADARAN INSTRUKTIF-RETORIS (Al-Idrak al-Wa'zhiy)<br/>• Memimpin melalui ceramah nasihat & instruksi tugas administratif.<br/>• Mengandalkan struktur jabatan formal untuk menggerakkan santri & bawahan."]
         
-        SantriSenior["3. LEVEL SANTRI PENGGERAK (TAHAP 7)<br/>Menjadi Duta Adab yang mengayomi & melayani adik kelas."]
+        Q2_Level["TINGKAT 2: KESADARAN KONSISTENSI DISIPLIN PRIBADI (Al-Idrak al-Mundhabith)<br/>• Menjaga ketaatan aturan lembaga pada diri sendiri; hadir tepat waktu.<br/>• Menyadari bahwa santri memperhatikan perilaku lahiriah guru setiap saat."]
         
-        SantriSemua["4. LEVEL SELURUH SANTRI ASRAMA<br/>Budaya ukhuwah, adab mandiri, & Zero Bullying memancar otomatis."]
+        Q3_Level["TINGKAT 3: KESADARAN KASIH SAYANG & PENGORBANAN (Al-Idrak ar-Rahimiy)<br/>• Memimpin dengan kelembutan kalbu; mengayomi santri laksana anak kandung.<br/>• Mendoakan santri dalam keheningan malam; melayani kebutuhan santri dengan tulus."]
         
-        Kyai --> Asatidz --> SantriSenior --> SantriSemua
+        Q4_Level["TINGKAT 4: KESADARAN LIVE QUDWAH PARIPURNA (Al-Idrak al-Qudwiy al-Kamil)<br/>• Puncak kematangan: seluruh hembusan nafas & tindakan memancarkan akhlak Qur'ani.<br/>• Menjadi magnet peradaban yang mentransformasi ribuan jiwa menuju keridhaan Allah."]
+        
+        Q1_Level ==> Q2_Level ==> Q3_Level ==> Q4_Level
     end
 ```
 
----
-
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
-
----
-
-### 1. Formulasi Konseptual: Falsafah Kepemimpinan Berbasis Qudwah Pesantren TUMBUH
-
-Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
-
-1. **Utama Qudwah First (leading BY Authentic Example)**:  
-   Kepemimpinan di pesantren TUMBUH adalah kepemimpinan keteladanan nyata. Dilarang keras memimpin hanya dengan perintah verbal dan ancaman kekerasan. Setiap pemimpin, guru, dan musyrif wajib mempraktikkan adab dan kedisiplinan pada dirinya sendiri sebelum menuntutnya dari orang lain.
-
-2. **Keharaman Hipokrisi Kepemimpinan (zero Hypocrisy Tolerance)**:  
-   Menolak segala bentuk kesenjangan moral antara apa yang dikhotbahkan dengan apa yang diamalkan (Kabura Maqtan 'Indallah). Menghapus mutlak normalisasi hak istimewa asatidz untuk melanggar aturan.
-
-3. **Wibawa Berbasis Cinta & Segang (al-haibah Wal-mahabbah)**:  
-   Kewibawaan pendidik ditegakkan di atas keluhuran ilmu, integritas kejujuran, dan kelembutan kasih sayang. Dilarang keras membangun wibawa semu melalui teror bentakan kasar, mata melotot, dan hukuman fisik.
-
-4. **Rekayasa Sistemik Keteladanan Neuron Cermin (mirror Neuron Embrace)**:  
-   Lembaga mengkondisikan seluruh interaksi guru-santri 24 jam sebagai panggung keteladanan biologis alami yang menumbuhkan refleks adab mulia pada diri santri secara otomatis tanpa paksaan.
-
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Retorika Menuju Konsistensi Amal Pribadi)**: Pemimpin mula-mula sekadar memberi perintah. Pada tingkatan kedua, pemimpin mendisiplinkan dirinya sendiri terlebih dahulu: ia menjadi orang pertama yang menjalankan apa yang ia perintahkan.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Disiplin Diri Menuju Kepemimpinan Kasih Sayang)**: Pada tingkatan ketiga, kepemimpinan berakar pada cinta dan pengorbanan: pemimpin mendidik dengan kelembutan, memaafkan kekhilafan, dan mendoakan para pengikutnya.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Live Qudwah Paripurna)**: Pada tingkatan tertinggi, kepemimpinannya menjadi perwujudan nyata sunnah kenabian: ia tidak lagi memerlukan instruksi panjang, sebab keteladanan hidupnya telah menjadi lentera peradaban yang memandu umat (*Rahmatan lil 'Alamin*).[^13]
 
 ---
 
-### 2. Matriks Komparasi Kepemimpinan: Retorika Otoriter vs Permisif vs Kepemimpinan Qudwah TUMBUH
+### 3. Matriks Lima Ranah Keteladanan Mutlak Musyrif dan Asatidz di Pesantren 24 Jam
 
-| Parameter Komparasi | Kepemimpinan Retorika Otoriter (Lama) | Kepemimpinan Permisif (Laissez-Faire) | Kepemimpinan Qudwah TUMBUH (Standar Baku) |
+| Ranah Keteladanan | Perilaku Wajib Guru/Musyrif | Perilaku Terlarang Keras | Dampak Psikologis pada Santri |
 | :--- | :--- | :--- | :--- |
-| **Sumber Otoritas Pemimpin** | Jabatan formal, tongkat kekuasaan, rasa takut. | Ketidakpedulian, menghindari gesekan sosial. | **Keluhuran akhlak, keteladanan amal, & integritas nurani.**[^15] |
-| **Pola Interaksi dengan Santri** | Memerintah dari atas meja, menjaga jarak kaku. | Membiarkan santri tanpa arahan moral yang jelas. | **Hadir bersama santri, mendengarkan, & mencontohkan langsung.** |
-| **Respon Terhadap Pelanggaran Sendiri** | Defensif, mencari kambing hitam, marah jika dikritik. | Bersikap apatis dan tidak peduli pada aturan. | **Ksatria meminta maaf secara terbuka & memperbaiki diri.** |
-| **Mekanisme Peniruan di Otak Santri** | *Mirroring* agresivitas amigdala & budaya dendam. | Kehilangan model identifikasi karakter luhur. | **Aktivasi *Mirror Neurons* adab, empati, & kedisiplinan otonom.**[^16] |
-| **Dampak Jangka Panjang** | Mencetak generasi santri munafik & feodal. | Mencetak generasi santri anarki & nir-adab. | **Mencetak Pemimpin Beradab yang Mengayomi & Mengabdi (*Insan Kamil*).**[^17] |
+| **1. Ibadah & Dzikir** | Hadir di masjid sebelum adzan & khusyuk.| Masbuq berulang kali & bermain gawai saat shalat.| Santri gemar shalat berjamaah awal waktu. |
+| **2. Adab Tutur Kata** | Bahasa santun, senyum ramah, apresiasi 4:1.| Caci maki hewan, sarkasme, & bentakan kasar. | Santri santun bertutur kata & berempati. |
+| **3. Kebersihan Raga** | Baju rapi, wangi, loker meja asatidz rapi.| Pakaian kumal, merokok, & meja kerja berantakan.| Santri mencintai kerapian & kebersihan 5S/5R. |
+| **4. Pelayanan Khidmah**| Ikut menyapu halaman & melayani antrean.| Bersikap feodal & menyuruh santri mencuci baju.| Santri memiliki jiwa ksatria & rendah hati. |
+| **5. Waktu & Janji** | Tepat waktu masuk kelas & menepati janji.| Terlambat mengajar & mengingkari janji reward.| Santri disiplin waktu & memegang amanah. |
 
 ---
 
-### 3. Matriks 5 Ranah Keteladanan Mutlak Musyrif & Asatidz di Pesantren 24 Jam
+### 4. Protokol Evaluasi Diri Keteladanan Pendidik (Daily Qudwah Self-Audit Protocol)
 
-| Ranah Keteladanan | Perilaku Teladan Nyata (*Living Examples*) | Indikator Mutu di Lapangan Pesantren 24 Jam |
-| :--- | :--- | :--- |
-| **1. Keteladanan Ibadah Mahdhah** | Hadir di masjid shaf pertama sebelum adzan; tilawah Al-Qur'an secara istiqamah; khusyuk dalam shalat. | Tidak ada santri yang melihat musyrif masbuq tanpa uzur syar'i yang jelas.[^18] |
-| **2. Keteladanan Adab Lisan** | Mengucapkan salam lebih awal; bertutur kata lemah lembut (*Qawlan Layyina*); tidak pernah mengumpat/ghibah. | Suasana asrama tenang, santun, dan bebas dari teriakan kemarahan kasar. |
-| **3. Keteladanan Kerapian & Thaharah** | Kamar asatidz rapi dan harum; berpakaian bersih dan syar'i; membuang sampah pada tempatnya. | Santri termotivasi menjaga kebersihan lemari dan kamar tidurnya secara mandiri. |
-| **4. Keteladanan Khidmat & Rendah Hati** | Memungut sampah di lorong; makan bersama santri di nampan yang sama; tidak menuntut dilayani. | Menghancurkan sekat feodalisme kasta guru-murid dan melahirkan ta'zhim tulus. |
-| **5. Keteladanan Integritas Waktu** | Masuk dan keluar kelas tepat waktu; menepati janji pertemuan konseling; disiplin mengajar. | Santri menghargai waktu dan tidak ada jam pelajaran yang kosong tanpa pendampingan.[^19] |
-
----
-
-### 4. Protokol Evaluasi Diri Keteladanan Pendidik (*Daily Qudwah Self-Audit Protocol*)
+TUMBUH menetapkan **Protokol Audit Mandiri Keteladanan Harian (*Daily Qudwah Self-Audit Protocol*)**:
 
 ```mermaid
 flowchart TD
-    Audit1["1. MUHASABAH LISAN (Malam Hari)<br/>'Adakah kata-kataku hari ini yang melukai martabat santri atau bertentangan dengan perbuatanku?'"]
-    
-    Audit2["2. MUHASABAH IBADAH & DISIPLIN WAKTU<br/>'Apakah aku telah hadir di masjid & ruang kelas mendahului para santri?'"]
-    
-    Audit3["3. MUHASABAH KASIH SAYANG & PELAYANAN<br/>'Apakah aku telah menyapa santri yang sedang murung & mendengarkan keluh kesahnya?'"]
-    
-    Audit4["4. RESOLUSI PERBAIKAN DIRI ESOK HARI<br/>Beristighfar, memaafkan santri yang khilaf, & berniat memancarkan qudwah lebih baik esok Subuh."]
-    
-    Audit1 --> Audit2 --> Audit3 --> Audit4
+    subgraph ProtokolAuditQudwah["PROTOKOL EVALUASI DIRI KETELADANAN PENDIDIK"]
+        Muhasabah["1. MUHASABAH MALAM: Mengisi Form Refleksi Mandiri Harian di Aplikasi PBIS Asatidz"]
+        --> Periksa["2. PEMERIKSAAN 5 RANAH: Menilai Skor Keteladanan Ibadah, Lisan, Kerapian, Khidmah, & Waktu"]
+        --> Taubat["3. ISTIGHFAR & RESOLUSI: Mengakui Kekhilafan di Hadapan Allah & Berjanji Memperbaiki Esok Hari"]
+        --> Halaqah["4. HALAQAH ASATIDZ PEKANAN: Majelis Tarbiyah Ruhaniyyah Bersama Pengasuh Pesantren"]
+    end
 ```
 
----
-
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+Protokol ini menjaga kebersihan hati para pendidik agar senantiasa menjadi bejana ilmu yang suci dan berkah.[^14]
 
 ---
 
-### 1. Tabel Sintesis Hasil Riset Kepemimpinan Qudwah
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
 
-| Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Kepemimpinan Pesantren |
-| :--- | :--- | :--- | :--- | :--- |
-| **Doktrin Utama** | *Qudwah First (Action-Driven)* | QS. Al-Ahzab: 21, QS. Ash-Shaff: 2–3 | Albert Bandura (1977), *Social Learning & Observational Modeling* | Pendidik mencontohkan perilaku adab sebelum memerintahkannya kepada santri. |
-| **Biologi Peniruan** | *Mirror Neuron System* | Hadits *Kana Khuluquhul Qur'an* (HR. Muslim 746) | Giacomo Rizzolatti (2004), *Visuomotor Mirror Neurons* | Interaksi tatap muka 24 jam memfasilitasi peniruan otomatis adab mulia. |
-| **Wibawa Sejati** | *Haibah al-Mahabbah* | Syamail an-Nabi SAW (At-Tirmidzi) | *Authentic & Transformational Leadership Theory* | Menghapus wibawa semu berbasis ancaman fisik dan bentakan kasar. |
-| **Etika Kepemimpinan** | *Anti-Hipokrisi (Kabura Maqtan)* | QS. Al-Baqarah: 44, Hadits *Usamah bin Zaid* (HR. Bukhari) | *Moral Integrity & Behavioral Consistency Theory* | Menghapus hak istimewa guru untuk melanggar aturan asrama. |
-| **Evaluasi Harian** | *Daily Qudwah Self-Audit* | Atsar Sayyidina Umar RA (*Hasibu Anfusakum*) | *Reflective Leadership Practice* (Schon, 1983) | Musyrif menyelenggarakan audit nurani keteladanan setiap malam sebelum tidur. |
+Kepemimpinan berbasis *Qudwah* ini menjadi kunci utama kebangkitan peradaban Islam:
+
+* **Melahirkan Generasi Pemimpin yang Berintegritas Tanpa Cacat**:  
+  Santri yang dibina oleh para asatidz yang berjiwa *Live Qudwah* akan mewarisi karakter kepemimpinan yang jujur, anti-korupsi, dan berani berkorban demi kemaslahatan rakyat.
+* **Mengembalikan Marwah dan Kepercayaan Umat Kepada Pesantren**:  
+  Pesantren kembali menjadi rujukan moral tertinggi masyarakat karena para kiainya, asatidznya, dan santrinya mempraktikkan apa yang mereka ajarkan secara nyata.
+* **Menghidupkan Kembali Kepemimpinan Generasi Kenabian**:  
+  Inilah rahasia kejayaan para Khulafaur Rasyidin dan para sahabat: mereka memimpin bukan dengan hegemoni kekuasaan, melainkan dengan keteladanan akhlak mulia yang memikat dunia.[^15]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Kepemimpinan Qudwah
+
+| Dimensi Parameter | Mazhab Otoriter Retoris (Lama) | Model Manajemen Sekuler | **Kepemimpinan Qudwah TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sumber Penggerak**| Perintah verbal & ancaman sanksi.| Insentif finansial & KPI bisnis.| **Keteladanan Amal (*Qudwah First*).**| QS. Ash-Shaff: 2–3; Bandura (1977).| Pemimpin mendahului dalam beramal saleh. |
+| **Landasan Saraf** | Pembajakan rasa takut amigdala.| Transaksional rasional dingin. | **Sistem Neuron Cermin (*Mirror Neurons*).**| Rizzolatti (2004); Sapolsky (2017).| Peniruan karakter adab secara alami. |
+| **Pola Relasi** | Raja feodal menuntut dilayani. | Atasan-bawahan profesional. | **Ayah Spiritual & Khidmah Pelayan.** | HR. Muslim No. 746; Greenleaf.| Mengayomi santri laksana anak kandung. |
+| **Evaluasi Kinerja**| Evaluasi sepihak atas bawahan.| Penilaian metrik administratif.| **Daily Qudwah Self-Audit & Halaqah.**| HR. Muslim No. 2588; Al-Ghazali.| Refleksi batin harian & integritas moral. |
+| **Hasil Karakter** | Kemunafikan & kepatuhan semu.| Kinerja mekanis tanpa ruh. | **Insan Adabi Berwibawa & Berintegritas.**| QS. Al-Ahzab: 21; Al-Attas (1980).| Pemimpin ksatria, jujur, & dicintai umat. |
 
 ---
 
 ### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **At-Tirmidzi, Muhammad bin 'Isa**. (1998). *Asy-Syama'il al-Muhammadiyyah*. Beirut: Dar al-Gharb al-Islami.
-5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Al-Mawardi, Ali bin Muhammad**. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (Kitab Adab al-Mu'allim & Kitab Dhamm al-Ghurur). Beirut: Dar al-Ma'rifah.
+5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+6. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
 7. **Rizzolatti, G., & Craighero, L.**. (2004). *The mirror-neuron system*. Annual Review of Neuroscience, 27, 169–192.
-8. **Bandura, A.**. (1977). *Social Learning Theory*. Englewood Cliffs, NJ: Prentice-Hall.
-9. **Bandura, A.**. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Englewood Cliffs, NJ: Prentice-Hall.
-10. **Avolio, B. J., & Gardner, W. L.**. (2005). *Authentic leadership development: Getting to the root of positive forms of leadership*. The Leadership Quarterly, 16(3), 315–338.
-11. **Schön, D. A.**. (1983). *The Reflective Practitioner: How Professionals Think in Action*. New York: Basic Books.
+8. **Bandura, A.**. (1977). *Social Learning Theory*. Englewood Cliffs: Prentice-Hall.
+9. **Greenleaf, R. K.**. (1977). *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness*. New York: Paulist Press.
+10. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+11. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
+12. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
 
 ---
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-'Ilm*, Jilid I, hlm. 62 mengenai bahaya ulama su' yang tidak mengamalkan ilmunya.  
-[^2]: Al-Qur'an Surah Al-Ahzab [33]: 21.  
-[^3]: Al-Qur'an Surah Al-Baqarah [2]: 44.  
-[^4]: Al-Qur'an Surah Ash-Shaff [61]: 2–3.  
-[^5]: Hadits riwayat Muslim No. 746 dan Ahmad No. 24601 dari Sayyidah 'Aisyah RA.  
-[^6]: Bandura, A. (1986), *Social Foundations of Thought and Action*, Prentice-Hall, hlm. 68.  
-[^7]: Avolio & Gardner (2005), *Authentic leadership development*, The Leadership Quarterly.  
-[^8]: Festinger, L. (1957), *A Theory of Cognitive Dissonance*, Stanford University Press.  
-[^9]: Laporan Observasi Program Qiyamul Lail Asrama, Divisi Kepengasuhan TUMBUH, 2026.  
-[^10]: Iacoboni, M. (2009), *Imitation, empathy, and mirror neurons*, Annual Review of Psychology.  
-[^11]: Rizzolatti & Craighero (2004), *The mirror-neuron system*, Annual Review of Neuroscience, hlm. 169–175.  
-[^12]: Bandura, A. (1977), *Social Learning Theory*, Prentice-Hall.  
-[^13]: At-Tirmidzi, *Asy-Syama'il al-Muhammadiyyah*, Bab *fi Khuluqi Rasulillah SAW*, hlm. 112.  
-[^14]: Panduan Standar Beban Kerja Musyrif, Badan Penjaminan Mutu Pendidik TUMBUH, 2026.  
-[^15]: Rubrik Penilaian Kepemimpinan Asatidz, Divisi HRD & Tata Kelola TUMBUH, 2026.  
-[^16]: Rizzolatti & Sinigaglia (2008), *Mirrors in the Brain: How Our Minds Share Actions, Emotions, and Experience*, Oxford University Press.  
-[^17]: Standar Kompetensi Kepemimpinan Qudwah Pesantren, Majelis Mudir TUMBUH, 2026.  
-[^18]: Standar Operasional Ibadah Musyrif Asrama 2026, Pesantren TUMBUH.  
-[^19]: Pakta Integritas Pendidik Pesantren TUMBUH Nomor 01/PI/2026.
+[^1]: Riset Kepemimpinan Berbasis Qudwah dan Integritas Pendidik Pesantren TUMBUH, *Kritik atas Kepemimpinan Retorika dan Kemunafikan Moral*, 2026.  
+[^2]: QS. Al-Ahzab [33]: 21.  
+[^3]: QS. Ash-Shaff [61]: 2–3.  
+[^4]: *Shahih Muslim*, Kitab Shalat al-Musafirin wa Qashruha, Hadits No. 746.  
+[^5]: Rizzolatti, G., & Craighero, L. (2004), *Annual Review of Neuroscience*, hlm. 169–192; Bandura, A. (1977), *Social Learning Theory*, hlm. 22–55.  
+[^6]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 55–80.  
+[^7]: Dokumentasi Intervensi Mediasi dan Audit Qudwah Asatidz PBIS TUMBUH, 2026.  
+[^8]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 30–58.  
+[^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 38–65.  
+[^10]: Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 30–65.  
+[^11]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 195–230.  
+[^12]: Riset Tata Kelola Integritas Pendidik Pesantren TUMBUH, 2026.  
+[^13]: Matriks Tingkatan Kesadaran Kepemimpinan Qudwah (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^14]: Standar Operasional Prosedur Daily Qudwah Self-Audit Pendidik TUMBUH, 2026.  
+[^15]: Deklarasi Pemuliaan Kepemimpinan Qudwah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
 
-### 4. Glosarium dan Penjelasan Istilah Teknis Kepemimpinan Qudwah & Neurosains Peniruan
+### 4. Glosarium Istilah Ilmiah & Turats Kepemimpinan Qudwah
 
-1. **Qudwah Hasanah (الْقُدْوَةُ الْحَسَنَةُ)**: Keteladanan hidup yang nyata dan otentik dalam seluruh aspek pemikiran, ucapan, dan perbuatan yang menginspirasi orang lain untuk berbuat kebajikan tanpa paksaan fisik.
-2. **Mirror Neuron System (Sistem Neuron Cermin)**: Jaringan neuron khusus di korteks premotorik dan lobus parietal otak yang teraktivasi saat seseorang melihat orang lain melakukan suatu tindakan, menciptakan simulasi saraf internal untuk meniru perilaku tersebut secara biologis.
-3. **Observational Learning (Pembelajaran Melalui Pengamatan)**: Proses perolehan pola perilaku, sikap, dan nilai baru melalui pengamatan langsung terhadap model keteladanan hidup (*Live Modeling*) di lingkungan sekitar.
-4. **Kabura Maqtan (كَبُرَ مَقْتًا)**: Kemurkaan dan kebencian yang amat besar di sisi Allah SWT terhadap orang-orang yang gemar mengajarkan dan memerintahkan kebajikan namun dirinya sendiri mengabaikannya.
-5. **Authentic Leadership (Kepemimpinan Otentik)**: Pola kepemimpinan yang berakar pada keselarasan antara nilai moral batin, kejujuran diri, transparansi tindakan, dan konsistensi etika tanpa pencitraan palsu.
-6. **Haibah al-Qudwah**: Kewibawaan sejati yang terpancar secara alami dari keluhuran akhlak, kedalaman ilmu, dan ketulusan amal seorang pendidik, melahirkan rasa segan yang penuh cinta di hati para santri.
-7. **Social Simulation Theory**: Teori kognitif yang menjelaskan bahwa manusia memahami intensi dan perasaan orang lain dengan cara merefleksikan dan mensimulasikan keadaan mental tersebut di dalam sirkuit otaknya sendiri.
-8. **Disonansi Kognitif (Cognitive Dissonance)**: Kondisi ketegangan mental dan kebingungan psikologis yang dialami seseorang saat menyaksikan kontradiksi mencolok antara nilai-nilai yang dikhotbahkan dengan fakta perilaku yang dipertontonkan oleh figur panutan.
-9. **Daily Qudwah Self-Audit**: Prosedur muhasabah harian terstruktur yang dilakukan oleh pendidik untuk mengevaluasi konsistensi antara ucapan dan tindakannya sepanjang hari.
-10. **Bi'ah Shalihah (الْبِيئَةُ الصَّالِحَةُ)**: Ekosistem komunal yang aman, teratur, dan dipenuhi oleh model-model keteladanan hidup positif yang secara aktif menyuburkan potensi fitrah kebaikan seluruh warga pesantren.
+1. **Kepemimpinan Qudwah (الْقِيَادَةُ بِالْقُدْوَةِ)**: Paradigma kepemimpinan Islam yang berpusat pada kekuatan keteladanan amal nyata mendahului instruksi kata-kata nasihat (*Qudwah Qabla ad-Da'wah*).
+2. **Uswah Hasanah (الأُسْوَةُ الْحَسَنَةُ)**: Figur teladan sempurna yang dicontohkan oleh Rasulullah ﷺ dalam segala dimensi kehidupan spiritual, moral, intelektual, dan sosial.
+3. **Kabura Maqtan (كَبُرَ مَقْتًا)**: Peringatan kemurkaan Allah yang sangat dahsyat atas orang-orang yang menyuruh kebaikan tetapi dirinya sendiri tidak mengamalkannya.
+4. **Mirror Neuron System (Sistem Neuron Cermin)**: Jaringan sel saraf di otak yang menembakkan sinyal listrik saat mengamati tindakan orang lain, mendasari proses peniruan karakter dan empati.
+5. **Behavioral Modeling**: Proses belajar di mana seseorang mengamati, mengingat, dan menduplikasi perilaku yang ditampilkan oleh figur panutannya.
+6. **Haibah al-Qudwah (هَيْبَةُ الْقُدْوَةِ)**: Kewibawaan sejati yang lahir secara alami dari kesucian batin, keikhlasan amal, dan keluhuran akhlak sang pemimpin.
+7. **Haibah al-Khauf (هَيْبَةُ الْخَوْفِ)**: Kewibawaan palsu yang dipaksakan melalui rasa takut, ancaman bentakan, dan kekerasan fisik.
+8. **Daily Qudwah Self-Audit**: Protokol refleksi mandiri harian bagi para pendidik untuk mengevaluasi konsistensi keteladanan perilakunya di hadapan Allah dan santri.
+9. **Servant Leadership (Kepemimpinan Pelayan)**: Model kepemimpinan di mana pemimpin mendedikasikan energinya untuk mengayomi, membimbing, dan melayani orang-orang yang dipimpinnya.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri dan pendidik yang menyatukan integritas tauhid, keteladanan akhlak, dan kepemimpinan peradaban yang penuh berkah.

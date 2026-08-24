@@ -1,185 +1,288 @@
-# P1-05: LEADERSHIP (FALSAFAH KEPEMIMPINAN QUDWAH & TATA KELOLA) EKOSISTEM TUMBUH
-## *Monograf Induk Sub-Domain 05: Arsitektur Kepemimpinan Profetik Khidmah, Rekapitulasi 6 Pilar Leadership (Qudwah First, Servant Leadership, Kaderisasi Pengayom, Tata Kelola Syura, Anti-Oligarki, & Mediasi Sengketa), Matriks Standarisasi Musyrif, & Piagam Kelembagaan Kepemimpinan Pelayan Pesantren 24 Jam*
+# P1-05: LEADERSHIP (FALSAFAH KEPEMIMPINAN QUDWAH & TATA KELOLA) EKOSISTEM TUMBUH (MASTER DOKTRIN KEPEMIMPINAN & TATA KELOLA)
+## *Master Sub-Domain Monograph: Arsitektur Kepemimpinan Profetik Khidmah, Konsolidasi 6 Pilar Leadership (Qudwah First, Servant Leadership, Kaderisasi Pengayom, Tata Kelola Syura, Anti-Oligarki, & Mediasi Sengketa), Serta Manifestasi Praksis di Pesantren 24 Jam*
 
-**Nomor Identifikasi**: `P1-05/MONOGRAF-INDUK-LEADERSHIP/2026`  
-**Domain**: `01 Philosophy` > `05 Leadership`  
-**Klasifikasi Naskah**: *Master Sub-Domain Monograph* (Monograf Induk Sub-Domain Filsafat Kepemimpinan & Tata Kelola)  
+**Nomor Identifikasi**: `P1-05/MASTER-MONOGRAF-LEADERSHIP/2026`  
+**Domain**: `01 Philosophy` > `05 Leadership` (Master Sub-Domain Monograph)  
+**Klasifikasi Naskah**: *Master Sub-Domain Research Monograph* (Dokumen Induk Filsafat Kepemimpinan)  
 **Rumpun Disiplin Pengkaji**: Filsafat Kepemimpinan Islam (*al-Imamah wal-Qiyadah*), Servant Leadership Theory, Sosiologi Pesantren, Manajemen Tata Kelola Sumber Daya Manusia Pendidikan 24 Jam  
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT PAHAM UNTUK ASATIDZ & MUSYRIF)
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Posisi Sub-Domain 05 Leadership:**  
->   Menjawab pertanyaan mendasar keempat dalam ekosistem pendidikan Islam: *"Bagaimanakah kepemimpinan dan tata kelola kelembagaan pesantren dirancang agar seluruh asatidz memimpin dengan teladan nyata (Qudwah), melayani dengan ikhlas (Khidmah), mendidik santri tanpa kekerasan feodal, dan terlindungi dari kejenuhan kerja (Burnout)?"*
-> * **Enam Pilar Kepemimpinan Ekosistem TUMBUH yang Terintegrasi:**  
->   1. **P1-05-01 (Qudwah First):** Menghapus kepemimpinan retorika kosong (*Kabura Maqtan*); memimpin dengan keteladanan amal shalih yang mengaktifkan sistem neuron cermin (*Mirror Neurons*) santri.  
->   2. **P1-05-02 (Servant Leadership):** Menegakkan doktrin kenabian *Sayyidul Qawmi Khadimuhum*, hisab amanah kepemimpinan akhirat (*Khizyun wa Nadamah*), dan mitigasi kelelahan emosional musyrif.  
->   3. **P1-05-03 (Kaderisasi Santri Pengayom):** Menarik 100% wewenang menghukum dari tangan santri senior, mentransformasikan OSIS menjadi Duta Adab (*Dewan Pelayan Santri*), dan kurikulum kaderisasi Tahap 7 Penggerak.  
->   4. **P1-05-04 (Tata Kelola Syura & Standar Musyrif):** Menerapkan manajemen berbasis syura yang transparan, standarisasi 4 pilar kompetensi musyrif, dan *Safe School Protocol*.  
->   5. **P1-05-05 (Kritik Oligarki Dinasti):** Menegakkan meritokrasi syar'i (*Al-Qawiyyul Amin*), menolak suksesi nepotisme tertutup, dan mengaudit aset wakaf.  
->   6. **P1-05-06 (Manajemen Resolusi Konflik):** Memfasilitasi mediasi IBR restoratif dan protokol tabayyun bagi asatidz guna mencegah faksionalisme.
-> * **Komitmen Kelembagaan Anti-Feodalisme & Anti-Eksploitasi:**  
->   Dilarang keras menyalahgunakan kekuasaan untuk menindas bawahan, membebankan jam kerja 24 jam nonstop tanpa istirahat mingguan, atau melegalkan perpeloncoan fisik oleh senior.
+> * **Krisis Epistemologis Kepemimpinan Pesantren Kontemporer:**  
+>   Banyak lembaga Islam mengalami kemunduran akibat terjebak dalam perangkap otokrasi feodal: pemimpin yang banyak beretorika tanpa keteladanan amal nyata (*Hypocritical Moral Gap*), eksploitasi kerja musyrif 24 jam nonstop yang memicu burnout, pelegalan perpeloncoan senioritas, oligarki dinasti suksesi tertutup, dan faksionalisme ruang guru.
+> * **Konsolidasi Master Doktrin Leadership & Tata Kelola Islam:**  
+>   Dokumen induk ini mengintegrasikan seluruh 6 pilar riset sub-modul: **1. Qudwah First (Keteladanan Mendahului Instruksi & Mirror Neurons); 2. Servant Leadership (Sayyidul Qawmi Khadimuhum & Mitigasi Burnout); 3. Kaderisasi Santri Pengayom (Zero Hazing & Duta Adab); 4. Tata Kelola Syura (Pemisahan Wewenang & Sertifikasi 4 Pilar Musyrif); 5. Kritik Oligarki Dinasti (Meritokrasi Syar'i & Akuntabilitas Wakaf); 6. Manajemen Resolusi Konflik (Adab al-Ikhtilaf & Mediasi IBR Tabayyun)**.
+> * **Formulasi Operasional & Dampak Triad Simbiotik:**  
+>   Monograf induk ini merumuskan 4 Tingkatan Kesadaran Filosofis Kepemimpinan (*Maratib al-Idrak*), Grand Manifesto Kepemimpinan Pelayan Pesantren, penghapusan mutlak eksploitasi kerja dan perpeloncoan, serta jaminan institusi wakaf madani yang mandiri dan berkelanjutan (*Sanctuary Governance*).
 
 ---
 
-## 📑 DAFTAR ISI MONOGRAF INDUK
+## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: ARSITEKTUR ONTOLOGIS & POHON HUBUNGAN SUB-DOMAIN 05](#bagian-i-arsitektur-ontologis--pohon-hubungan-sub-domain-05)
-  - [1. Posisi Dokumen dalam Taksonomi 11 Domain TUMBUH](#1-posisi-dokumen-dalam-taksonomi-11-domain-tumbuh)
-  - [2. Pohon Hubungan Antar-Monograf Sub-Domain 05 Leadership](#2-pohon-hubungan-antar-monograf-sub-domain-05-leadership)
-  - [3. Rangkuman 6 Pilar Falsafah Kepemimpinan & Tata Kelola Ekosistem TUMBUH](#3-rangkuman-6-pilar-falsafah-kepemimpinan--tata-kelola-ekosistem-tumbuh)
-  - [4. Matriks Komitmen Kelembagaan Kepemimpinan Qudwah (Zero Hypocrisy & Zero Exploitation Policy)](#4-matriks-komitmen-kelembagaan-kepemimpinan-qudwah-zero-hypocrisy--zero-exploitation-policy)
-- [BAGIAN II: KODIFIKASI MATRIKS RESMI & DIREKTORI MONOGRAF TERPADU](#bagian-ii-kodifikasi-matriks-resmi--direktori-monograf-terpadu)
-  - [1. Matriks Rujukan Lengkap 7 Berkas Monograf Sub-Domain 05](#1-matriks-rujukan-lengkap-7-berkas-monograf-sub-domain-05)
-  - [2. Alur Penjalaran Filosofis Menuju Sub-Domain Lanjutan (P1-06 Change)](#2-alur-penjalaran-filosofis-menuju-sub-domain-lanjutan-p1-06-change)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
-  - [1. Daftar Pustaka Otoritatif Turats & Sains Global](#1-daftar-pustaka-otoritatif-turats--sains-global)
-  - [2. Catatan Kaki Akademis (Footnotes)](#2-catatan-kaki-akademis-footnotes)
-  - [3. Glosarium Istilah Kunci Kepemimpinan Induk](#3-glosarium-istilah-kunci-kepemimpinan-induk)
+- [BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS](#bab-i-landasan-teoretis--diskursus-kritis)
+  - [1. Latar Belakang Masalah: Posisi Sub-Domain 05 dalam Struktur Filosofi TUMBUH](#1-latar-belakang-masalah-posisi-sub-domain-05-dalam-struktur-filosofi-tumbuh)
+  - [2. Integrasi Enam Pilar Kajian Filsafat Kepemimpinan TUMBUH](#2-integrasi-enam-pilar-kajian-filsafat-kepemimpinan-tumbuh)
+  - [3. Rantai Kausalitas Ontologis: Dari Kepemimpinan Qudwah Menuju Keberlanjutan Lembaga](#3-rantai-kausalitas-ontologis-dari-kepemimpinan-qudwah-menuju-keberlanjutan-lembaga)
+  - [4. Rekayasa Tata Kelola Lembaga Bebas Otokrasi dan Eksploitasi Tenaga Pengasuh](#4-rekayasa-tata-kelola-lembaga-bebas-otokrasi-dan-eksploitasi-tenaga-pengasuh)
+  - [5. Kasuistika Lapangan: Anomali Manajemen Kepemimpinan & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-anomali-manajemen-kepemimpinan--resolusi-restoratif-terpadu)
+- [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Arsitektur Master Doktrin Leadership & Tata Kelola Ekosistem TUMBUH](#1-arsitektur-master-doktrin-leadership--tata-kelola-ekosistem-tumbuh)
+  - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Filsafat Kepemimpinan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-filsafat-kepemimpinan-maratib-al-idrak)
+  - [3. Standarisasi Kebijakan Kepemimpinan (Zero Hypocrisy & Zero Exploitation Policy)](#3-standarisasi-kebijakan-kepemimpinan-zero-hypocrisy--zero-exploitation-policy)
+  - [4. Prinsip Aksiologis & Etika Tata Kelola Kepemimpinan Pelayan 24 Jam](#4-prinsip-aksiologis--etika-tata-kelola-kepemimpinan-pelayan-24-jam)
+  - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
+- [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Temuan Riset Master Sub-Domain Leadership](#1-tabel-sintesis-temuan-riset-master-sub-domain-leadership)
+  - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
+  - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
+  - [4. Glosarium Istilah Ilmiah & Turats Master Leadership](#4-glosarium-istilah-ilmiah--turats-master-leadership)
 
 ---
 
-# BAGIAN I: ARSITEKTUR ONTOLOGIS & POHON HUBUNGAN SUB-DOMAIN 05
+# BAB I: LANDASAN TEORETIS & DISKURSUS KRITIS
 
 ---
 
-### 1. Posisi Dokumen dalam Taksonomi 11 Domain TUMBUH
+### 1. Latar Belakang Masalah: Posisi Sub-Domain 05 dalam Struktur Filosofi TUMBUH
+
+Sub-Domain 05 Leadership menjawab pertanyaan fundamental keempat dalam ekosistem pendidikan Islam: **"Bagaimanakah Kepemimpinan dan Tata Kelola Kelembagaan Pesantren Dirancang Agar Seluruh Asatidz Memimpin dengan Teladan Nyata (Qudwah), Melayani dengan Ikhlas (Khidmah), Mendidik Tanpa Feodalisme, dan Terlindungi dari Kejenuhan Kerja (Burnout)?"**:
+* **Jembatan dari Pedagogi Menuju Manajemen Sistemik**: Kurikulum adab terbaik tidak akan berfungsi jika pimpinan lembaganya korup, zalim, atau menindas stafnya.
+* **Perlindungan dari Feodalisme dan Nepotisme Dinasti**: Mengubah pola pikir kekuasaan monarki tertutup menjadi amanah syura meritokratis yang akuntabel di hadapan Allah dan umat.
+* **Penyatuan Nilai Imamah Khulafaur Rasyidin dan Tata Kelola Organisasi Modern**: Mengintegrasikan kearifan kepemimpinan profetik dengan standar profesionalisme manajemen sumber daya insani (*Human Capital Management*).[^1]
 
 ```mermaid
-graph TD
-    WV["01 Worldview (Hakikat Realitas)"] 
-    ==> HN["02 Human Nature (Ontologi Fitrah)"]
-    
-    HN ==> HD["03 Human Development (Trajektori Jiwa)"]
-    
-    HD ==> ED["04 Education (Falsafah Ta'dib & Kurikulum Adab)"]
-    
-    ED ==> LD["05 Leadership (Falsafah Kepemimpinan Qudwah & Tata Kelola)"]
-    
-    LD ==> CH["06 Change (Dinamika Transformasi Sistemik Pesantren)"]
-```
-
----
-
-### 2. Pohon Hubungan Antar-Monograf Sub-Domain 05 Leadership
-
-Sub-Domain `05 Leadership` memuat 1 Monograf Induk dan 7 Monograf Riset Khusus yang saling menopang secara utuh:
-
-```mermaid
-graph TD
-    Master["P1-05: LEADERSHIP INDUK<br/>(Arsitektur Kepemimpinan Qudwah TUMBUH)"]
-    
-    Master --> M1["P1-05-01: Falsafah Kepemimpinan Berbasis Qudwah (Qudwah First & Mirror Neurons)"]
-    Master --> M2["P1-05-02: Hakikat Amanah & Servant Leadership (Sayyidul Qawm & Mitigasi Burnout)"]
-    Master --> M3["P1-05-03: Kaderisasi Santri Pengayom (Penarikan Yudisial Senior & Duta Adab)"]
-    Master --> M4["P1-05-04: Tata Kelola Kelembagaan & Standar Musyrif (Syura & Sertifikasi 4 Pilar)"]
-    Master --> M5["P1-05-05: Kritik Oligarki & Dinasti Kepemimpinan (Meritokrasi Syar'i & Audit Wakaf)"]
-    Master --> M6["P1-05-06: Manajemen Resolusi Konflik Internal Asatidz (Adab Ikhtilaf & Mediasi IBR)"]
-    Master --> M7["P1-05-07: Sintesis Kepemimpinan Pesantren TUMBUH (Grand Manifesto Kepemimpinan Khidmah)"]
-```
-
----
-
-### 3. Rangkuman 6 Pilar Falsafah Kepemimpinan & Tata Kelola Ekosistem TUMBUH
-
-1. **Pilar 1: Qudwah First & Keteladanan Otentik (P1-05-01)**:  
-   Menegakkan kepemimpinan berbasis keteladanan nyata di garis depan. Pendidik mencontohkan ibadah di shaf pertama masjid, bertutur kata santun, dan menjaga kerapian sebelum menuntutnya dari santri. Mengaktifkan sistem neuron cermin (*Mirror Neurons*) biologis dan menghapus hipokrisi lisan (*Kabura Maqtan*).
-2. **Pilar 2: Hakikat Amanah & Servant Leadership (P1-05-02)**:  
-   Menghayati jabatan kepemimpinan sebagai beban amanah hisab akhirat (*Khizyun wa Nadamah*) yang dijalankan melalui pelayanan tulus (*Sayyidul Qawmi Khadimuhum*). Mengintegrasikan teori *Servant Leadership* Greenleaf dengan proteksi kesehatan mental musyrif asrama (*Mitigasi Burnout Maslach*) dan hak libur mingguan (*Mandatory Day-Off*).
-3. **Pilar 3: Kaderisasi Santri Pengayom (P1-05-03)**:  
-   Menarik mutlak 100% wewenang menghukum dan merazia fisik dari tangan santri senior. Mentransformasikan organisasi santri menjadi **Dewan Pelayan Duta Adab (*Khadim ath-Thullab*)** dan membekali santri senior Tahap 7 Penggerak dengan keterampilan mentoring sahabat sebaya (*Brotherhood Mentorship*).
-4. **Pilar 4: Tata Kelola Kelembagaan Syura & Standar Musyrif (P1-05-04)**:  
-   Mentransformasikan manajemen otokratis personal menjadi organisasi pembelajar berbasis sistem (*Syura & SOP*). Mewajibkan sertifikasi 4 pilar kompetensi musyrif asrama, menerapkan audit akuntabilitas keuangan wakaf secara independen, dan menegakkan protokol keselamatan santri (*Safe School Protocol*).
-5. **Pilar 5: Meritokrasi Syar'i & Anti-Oligarki Dinasti (P1-05-05)**:  
-   Membongkar praktik familisme amoral dan dinasti kepemimpinan tertutup. Menegakkan seleksi kepemimpinan terbuka berbasis kriteria *Al-Qawiyyul Amin* (QS. 28:26) dan memisahkan secara tegas antara aset wakaf umat dengan kekayaan pribadi pengurus.
-6. **Pilar 6: Fiqh Ikhtilaf & Mediasi Resolusi Konflik Asatidz (P1-05-06)**:  
-   Menerapkan etika perselisihan ilmiah (*Adabul Ikhtilaf* Imam Asy-Syafi'i), protokol Tabayyun 4 langkah, dan mediasi IBR restoratif guna mencegah faksionalisme dan permusuhan di ruang guru.[^1]
-
----
-
-### 4. Matriks Komitmen Kelembagaan Kepemimpinan Qudwah (*Zero Hypocrisy & Zero Exploitation Policy*)
-
-| Larangan Pelanggaran Tata Kelola | Praktik Konvensional yang Dihapus 100% | Alternatif Beradab dalam Ekosistem TUMBUH |
-| :--- | :--- | :--- |
-| **1. Hipokrisi Retorika Guru** | Guru melanggar aturan yang dibuatnya sendiri (merokok, telat shalat). | **Qudwah First**: Guru menjadi cermin teladan nomor satu dan meminta maaf jika khilaf.[^2] |
-| **2. Otokrasi Manajemen Satu Figur** | Mengambil keputusan sepihak tanpa musyawarah dan tanpa SOP jelas. | **Tata Kelola Syura & SOP Baku**: Struktur organisasi transparan dan akuntabel. |
-| **3. Eksploitasi Jam Kerja Musyrif** | Musyrif bertugas 24 jam nonstop tanpa libur dan digaji tidak layak. | **Sistem Shift & Hak Libur Mandatori**: Gaji standar memuliakan & mitigasi burnout.[^3] |
-| **4. Delegasi Hukuman ke Senior** | Membiarkan santri senior menampar dan menyidang adik kelas di malam hari. | **Penarikan Wewenang Yudisial 100%**: Senior hanya bertindak sebagai Duta Adab & mentor.[^4] |
-| **5. Suksesi Nepotisme Tertutup** | Menyerahkan jabatan mudir secara otomatis kepada anak/menantu tanpa kompetensi. | **Meritokrasi Syar'i (Al-Qawiyyul Amin)**: Seleksi terbuka berbasis ilmu & integritas. |
-
----
-
-# BAGIAN II: KODIFIKASI MATRIKS RESMI & DIREKTORI MONOGRAF TERPADU
-
----
-
-### 1. Matriks Rujukan Lengkap 7 Berkas Monograf Sub-Domain 05
-
-| Kode Berkas | Judul Naskah Monograf | Dewan Keilmuan Pengkaji | Tautan Berkas Markdown |
-| :---: | :--- | :--- | :---: |
-| **P1-05-01** | **Falsafah Kepemimpinan Berbasis Qudwah** | `pakar-filosofi-tumbuh`<br/>`pakar-tata-kelola-qudwah`<br/>`pakar-neurosains-perkembangan` | [**`Buka Naskah P1-05-01`**](./P1-05-01-Falsafah-Kepemimpinan-Berbasis-Qudwah.md) |
-| **P1-05-02** | **Hakikat Amanah dan Kepemimpinan Pelayan** | `pakar-tata-kelola-qudwah`<br/>`pakar-epistemologi-turats`<br/>`pakar-pengasuhan-asrama` | [**`Buka Naskah P1-05-02`**](./P1-05-02-Hakikat-Amanah-dan-Kepemimpinan-Pelayan.md) |
-| **P1-05-03** | **Kaderisasi dan Kepemimpinan Santri Pengayom** | `pakar-psikologi-sosial-santri`<br/>`pakar-perlindungan-anak-dan-advokasi-santri`<br/>`pakar-arsitektur-pbis-restoratif` | [**`Buka Naskah P1-05-03`**](./P1-05-03-Kaderisasi-dan-Kepemimpinan-Santri.md) |
-| **P1-05-04** | **Tata Kelola Kelembagaan dan Standar Musyrif** | `pakar-tata-kelola-qudwah`<br/>`pakar-metodologi-riset-tumbuh`<br/>`pakar-pengasuhan-asrama` | [**`Buka Naskah P1-05-04`**](./P1-05-04-Tata-Kelola-Kelembagaan-dan-Standar-Musyrif.md) |
-| **P1-05-05** | **Kritik Oligarki & Dinasti Kepemimpinan** | `pakar-tata-kelola-qudwah`<br/>`pakar-epistemologi-turats`<br/>`pakar-kritikus-dan-auditor-kualitas` | [**`Buka Naskah P1-05-05`**](./P1-05-05-Kritik-Oligarki-dan-Dinasti-Kepemimpinan-Pesantren.md) |
-| **P1-05-06** | **Manajemen Resolusi Konflik Asatidz** | `pakar-bimbingan-konseling`<br/>`pakar-kuratif-restoratif`<br/>`pakar-tata-kelola-qudwah` | [**`Buka Naskah P1-05-06`**](./P1-05-06-Manajemen-Resolusi-Konflik-Internal-Asatidz-dan-Syura.md) |
-| **P1-05-07** | **Sintesis Falsafah Kepemimpinan TUMBUH** | `pakar-filosofi-tumbuh`<br/>`pakar-tata-kelola-qudwah`<br/>`pakar-metodologi-riset-tumbuh` | [**`Buka Naskah P1-05-07`**](./P1-05-07-Sintesis-Leadership-TUMBUH.md) |
-
----
-
-### 2. Alur Penjalaran Filosofis Menuju Sub-Domain Lanjutan (`P1-06 Change`)
-
-```mermaid
-graph LR
-    subgraph PenjalaranFilosofisSubDomain05["PENJALARAN FILOSOFIS MENUJU SUB-DOMAIN 06"]
-        LD["SUB-DOMAIN 05: LEADERSHIP (KEPEMIMPINAN)<br/>(Qudwah First, Servant Leadership, Kaderisasi, Syura, Anti-Oligarki, & Mediasi)"]
+flowchart TD
+    subgraph PosisiLeadershipTUMBUH["POSISI SUB-DOMAIN 05 DALAM ARSITEKTUR FILOSOFI"]
+        WV["01 Worldview<br/>(Hakikat Realitas & Epistemologi)"] 
+        ==> HN["02 Human Nature<br/>(Ontologi Fitrah & Potensi Santri)"]
         
-        CH["SUB-DOMAIN 06: CHANGE (TRANSFORMASI SISTEMIK)<br/>(Teori Perubahan Kurt Lewin, Manajemen Resistensi Budaya, & Ekosistem PBIS)"]
+        HN ==> HD["03 Human Development<br/>(Trajektori Pertumbuhan & Insan Adabi)"]
         
-        LD ==> CH
+        HD ==> ED["04 Education<br/>(Filsafat Ta'dib & Kurikulum Adab)"]
+        
+        ED ==> LD["05 Leadership<br/>(Kepemimpinan Qudwah & Tata Kelola Syura)"]
+        
+        LD ==> CH["06 Change<br/>(Dinamika Transformasi Sistemik Pesantren)"]
     end
 ```
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+### 2. Integrasi Enam Pilar Kajian Filsafat Kepemimpinan TUMBUH
+
+Master doktrin ini mengintegrasikan seluruh 6 sub-modul riset di Sub-Domain 05 Leadership:
+* *P1-05-01 (Qudwah First)*: Menegakkan keteladanan amal nyata mendahului instruksi kata (*Qudwah Qabla ad-Da'wah*).
+* *P1-05-02 (Servant Leadership)*: Menegakkan doktrin *Sayyidul Qawmi Khadimuhum*, hisab amanah *Khizyun wa Nadamah*, dan mitigasi burnout musyrif.
+* *P1-05-03 (Kaderisasi Santri Pengayom)*: Menarik 100% hak menghukum dari santri senior dan mentransformasikan organisasi santri menjadi Duta Adab.
+* *P1-05-04 (Tata Kelola Syura & Standar Musyrif)*: Menerapkan manajemen syura transparan, akuntabilitas wakaf, dan sertifikasi 4 pilar musyrif.
+* *P1-05-05 (Kritik Oligarki Dinasti)*: Menegakkan meritokrasi syar'i (*Al-Qawiyyu al-Amin*) dan perlindungan aset wakaf publik.
+* *P1-05-06 (Manajemen Resolusi Konflik)*: Menerapkan adab ikhtilaf, protokol tabayyun tertutup, dan mediasi IBR bagi asatidz.[^2]
 
 ---
 
-### 1. Daftar Pustaka Otoritatif Turats & Sains Global
+### 3. Rantai Kausalitas Ontologis: Dari Kepemimpinan Qudwah Menuju Keberlanjutan Lembaga
 
-1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
-2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
-4. **Al-Mawardi, Ali bin Muhammad**. (1989). *Al-Ahkam as-Sulthaniyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-5. **Ibnu Taimiyyah, Ahmad bin Abdul Halim**. (1998). *As-Siyasah asy-Syar'iyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-6. **Al-Alwani, Thaha Jabir**. (1989). *Adab al-Ikhtilaf fil Islam*. IIIT.
-7. **Greenleaf, R. K.**. (1977). *Servant Leadership*. New York: Paulist Press.
-8. **Rizzolatti, G., & Craighero, L.**. (2004). *The mirror-neuron system*. Annual Review of Neuroscience, 27, 169–192.
-9. **Maslach, C., Schaufeli, W. B., & Leiter, M. P.**. (2001). *Job burnout*. Annual Review of Psychology, 52(1), 397–422.
-10. **Fisher, R., & Ury, W.**. (1981). *Getting to Yes*. Houghton Mifflin.
+Kepemimpinan yang beradab melahirkan ekosistem yang sehat:
+* Guru dan musyrif yang dimuliakan haknya akan mengasuh santri dengan limpahan kasih sayang.
+* Santri yang dibina dengan keteladanan akan tumbuh menjadi kader pemimpin yang jujur dan adil.
+* Lembaga yang dikelola secara profesional dan transparan akan dipercaya oleh umat dan abadi keberkahannya.[^3]
 
 ---
 
-### 2. Catatan Kaki Akademis (*Footnotes*)
+### 4. Rekayasa Tata Kelola Lembaga Bebas Otokrasi dan Eksploitasi Tenaga Pengasuh
 
-[^1]: Ibnu Taimiyyah, *As-Siyasah asy-Syar'iyyah*, hlm. 15–20.  
-[^2]: Bandura, A. (1977), *Social Learning Theory*, Prentice-Hall.  
-[^3]: Maslach & Leiter (2016), *Understanding the burnout experience*, World Psychiatry.  
-[^4]: Steinberg, L. (2008), *A social neuroscience perspective on adolescent risk-taking*, Developmental Review.
+Pesantren ditata sebagai **Zona Kepemimpinan Bersih & Melayani (*Sanctuary Governance*)**:
+* Mengharamkan mutlak segala bentuk otokrasi sepihak, nepotisme buta, dan eksploitasi jam kerja musyrif tanpa istirahat.
+* Menegakkan sistem shift kerja manusiawi dengan hak libur mingguan (*1 Day-Off per Week*).
+* Membuka kanal partisipasi syura yang terbuka bagi seluruh warga pesantren.[^4]
 
 ---
 
-### 3. Glosarium Istilah Kunci Kepemimpinan Induk
+### 5. Kasuistika Lapangan: Anomali Manajemen Kepemimpinan & Resolusi Restoratif Terpadu
 
-1. **Qudwah First**: Prinsip kepemimpinan di mana pemimpin wajib mempraktikkan amal adab pada dirinya sendiri sebelum menuntutnya dari orang lain.
-2. **Servant Leadership**: Paradigma kepemimpinan pelayan di mana pemimpin mendedikasikan energinya untuk menumbuhkan orang yang dipimpinnya.
-3. **Sayyidul Qawmi Khadimuhum**: Kaidah kenabian bahwa pemimpin kaum adalah pelayan sejati mereka.
-4. **Meritokrasi Syar'i**: Sistem seleksi kepemimpinan terbuka berdasarkan kompetensi (*Al-Quwwah*) dan integritas (*Al-Amanah*).
-5. **Adab al-Ikhtilaf**: Etika menyikapi perbedaan pendapat dengan tetap menjaga keutuhan ukhuwah dan kebersihan hati.
-6. **Khadim ath-Thullab**: Formasi dewan pelayan santri yang menggantikan organisasi santri konvensional yang bercorak represif.
-7. **Syura**: Musyawarah mufakat berbasis hikmah dan syariat dalam pengambilan keputusan strategis lembaga.
-8. **Safe School Protocol**: Rangkaian regulasi yang menjamin perlindungan menyeluruh terhadap hak dan keselamatan santri di pesantren.
-9. **Triad Pertumbuhan Simbiotik**: Maha-prinsip di mana kepemimpinan profetik secara serempak menumbuhkan Santri, memuliakan Pendidik, dan memperkokoh Lembaga.
+Implementasi Master Doktrin Leadership di lapangan membuktikan penurunan drastis angka turnover guru, terciptanya keharmonisan ruang guru tanpa friksi destruktif, dan peningkatan kepuasan wali santri terhadap mutu pengasuhan asrama.[^5]
+
+---
+
+# BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Arsitektur Master Doktrin Leadership & Tata Kelola Ekosistem TUMBUH
+
+Ekosistem TUMBUH merumuskan master doktrin kepemimpinan ke dalam 4 pilar arsitektur integratif:
+
+```mermaid
+flowchart TD
+    subgraph MasterArsitekturLeadershipTUMBUH["MASTER ARSITEKTUR LEADERSHIP & TATA KELOLA TUMBUH"]
+        
+        subgraph EmpatPilarKonseptualLead["EMPAT PILAR KONSEPTUAL KEPEMIMPINAN PROFETIK"]
+            LD1["1. KETELADANAN MUTLAK QUDWAH (Haibah al-Qudwah)<br/>Wibawa lahir dari kesucian akhlak, kehadiran di shaf terdepan, & kejujuran."]
+            LD2["2. KEPEMIMPINAN PELAYAN KHIDMAH (Sayyidul Qawmi Khadimuhum)<br/>Pemimpin melayani kebutuhan asatidz & santri; menjamin kesehatan kerja musyrif."]
+            LD3["3. MERITOKRASI SYAR'I & AKUNTABILITAS WAKAF (Al-Qawiyyu al-Amin)<br/>Suksesi berbasis kompetensi & musyawarah syura; memisahkan aset pribadi vs wakaf."]
+            LD4["4. KADERISASI PENGAYOM & MEDIASI DAMAI (Ukhuwah wa Ishlah)<br/>Zero Hazing pada santri & mediasi IBR tabayyun tertutup bagi asatidz."]
+        end
+        
+        subgraph ManifestasiPraksisTataKelolaLead["MANIFESTASI PRAKSIS TATA KELOLA 24 JAM"]
+            M1_LD["• Daily Qudwah Self-Audit & Halaqah Tarbiyah."]
+            M2_LD["• Sistem Shift 2 Musyrif & 1 Day-Off per Week."]
+            M3_LD["• Majelis Syura Masyayikh & Audit Publik BWI."]
+        end
+        
+        EmpatPilarKonseptualLead <===> ManifestasiPraksisTataKelolaLead
+    end
+```
+
+#### 🔬 Eksplanasi Mendalam Komponen Master Doktrin:
+1. **Keteladanan Qudwah**: Memastikan seluruh ucapan pemimpin telah diwujudkan dalam amal nyata pribadinya.[^6]
+2. **Khidmah Pelayan**: Menjadikan dedikasi melayani orang lain (*Growing Others*) sebagai mahkota kesuksesan.[^7]
+3. **Meritokrasi Syar'i**: Membentengi institusi dari bahaya oligarki dan memastikan suksesi berjalan secara adil.[^8]
+4. **Kaderisasi & Ishlah**: Memelihara rasa aman santri dan menjaga kesucian hati seluruh tenaga pendidik.[^9]
+
+---
+
+### 2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Filsafat Kepemimpinan (Maratib al-Idrak)
+
+Transformasi kepemimpinan kelembagaan dipetakan ke dalam Empat Tingkatan Kesadaran Kepemimpinan (*Maratib al-Idrak al-Qiyadiy*):
+
+```mermaid
+flowchart TD
+    subgraph TingkatanKesadaranLeadershipMaster["EMPAT TINGKATAN KESADARAN FILSAFAT KEPEMIMPINAN (MARATIB AL-IDRAK)"]
+        
+        LD1_Level["TINGKAT 1: KESADARAN OTORITAS FORMAL (Al-Idrak ar-Riyasiy al-Awwal)<br/>• Menjalankan fungsi kepemimpinan sesuai deskripsi jabatan birokratis.<br/>• Mengandalkan instruksi instruktif & pengawasan administratif."]
+        
+        LD2_Level["TINGKAT 2: KESADARAN TELADAN & KHIDMAH NYATA (Al-Idrak al-Qudwiy al-Khadim)<br/>• Menjadi teladan ibadah & disiplin; peduli pada beban kerja & kesehatan bawahan.<br/>• Menegakkan meritokrasi & mediasi tabayyun dalam menyelesaikan masalah."]
+        
+        LD3_Level["TINGKAT 3: KESADARAN AMANAH SYURA RUHANIYYAH (Al-Idrak asy-Syurawiy an-Naqiy)<br/>• Menghayati kepemimpinan sebagai beban hisab akhirat yang sakral di hadapan Allah SWT.<br/>• Memimpin dengan kelembutan kalbu; mengutamakan kemaslahatan santri di atas ego pribadi."]
+        
+        LD4_Level["TINGKAT 4: KESADARAN IMAMAH PERADABAN PARIPURNA (Al-Idrak al-Imamiy al-Hadhariy)<br/>• Penyatuan paripurna: menyatukan Tauhid, Keadilan Syariat, Servant Leadership, & Qudwah.<br/>• Menjadi Live Qudwah peradaban yang melahirkan ribuan kader pemimpin beradab."]
+        
+        LD1_Level ==> LD2_Level ==> LD3_Level ==> LD4_Level
+    end
+```
+
+#### 🔄 Narasi Analitis Dinamika Transisi Filosofis Antar-Tingkatan:
+* **Transisi Tingkat 1 ke Tingkat 2 (Dari Otoritas Formal Menuju Keteladanan Khidmah)**: Pemimpin mula-mula sekadar memerintah. Pada tingkatan kedua, pemimpin mendisiplinkan dirinya terlebih dahulu dan melayani kebutuhan timnya.
+* **Transisi Tingkat 2 ke Tingkat 3 (Dari Khidmah Menuju Amanah Syura Ruhani)**: Pada tingkatan ketiga, kepemimpinan menjadi ibadah batin murni: pemimpin bermusyawarah dengan ketundukan takwa dan mendoakan santri-stafnya di keheningan malam.
+* **Transisi Tingkat 3 ke Tingkat 4 (Pencapaian Derajat Imamah Peradaban Paripurna)**: Pada tingkatan tertinggi, kepemimpinannya menjadi sumber inspirasi kebangkitan umat: melahirkan institusi madani yang kokoh, berwibawa, dan memancarkan rahmat bagi semesta alam (*Rahmatan lil 'Alamin*).[^10]
+
+---
+
+### 3. Standarisasi Kebijakan Kepemimpinan (Zero Hypocrisy & Zero Exploitation Policy)
+
+TUMBUH memberlakukan dekrit resmi tata kelola:
+
+$$\text{تَحْرِيمُ النِّفَاقِ الْأَخْلَاقِيِّ وَاسْتِغْلَالِ الْعَامِلِينَ فِي التَّرْبِيَةِ تَحْرِيمًا قَاطِعًا}$$
+
+*"**Diharamkan secara mutlak kemunafikan moral antara kata dan perbuatan, eksploitasi jam kerja tenaga pengasuh tanpa istirahat, oligarki dinasti tertutup, dan perpeloncoan fisik di seluruh ekosistem lembaga tanpa pengecualian**."*
+
+Setiap pimpinan yang melanggar kode etik ini wajib diproses melalui audit independen Majelis Syura.[^11]
+
+---
+
+### 4. Prinsip Aksiologis & Etika Tata Kelola Kepemimpinan Pelayan 24 Jam
+
+Master Doktrin Leadership melahirkan prinsip etika tata kelola kelembagaan:
+
+```mermaid
+flowchart TD
+    subgraph EtikaTataKelolaLeadMaster["PRINSIP AKSIOLOGIS KEPEMIMPINAN DAN TATA KELOLA 24 JAM"]
+        
+        LD_E1["1. INTEGRITAS QUDWAH MUTLAK (Uncompromising Modeling Integrity)<br/>• Menilai kelayakan pemimpin dari kesucian akhlak & konsistensi amalnya.<br/>• Menolak pemimpin yang hanya pandai beretorika tanpa keteladanan nyata."]
+        
+        LD_E2["2. KESEJAHTERAAN & PERLINDUNGAN INSANI (Human Dignity & Wellness)<br/>• Menjamin shift kerja manusiawi, hak istirahat, & kompensasi bermartabat.<br/>• Melindungi asatidz & musyrif dari ancaman burnout dan kelelahan mental."]
+        
+        LD_E3["3. AKUNTABILITAS SYURA & WAKAF ABADI (Sacred Trust & Stewardship)<br/>• Pengambilan keputusan strategis berbasis musyawarah syura kolektif.<br/>• Menjaga harta wakaf umat dari korupsi dan klaim kepemilikan dinasti."]
+        
+        LD_E1 <===> LD_E2 <===> LD_E3
+    end
+```
+
+#### 📋 Panduan Etika Pengasuhan Lapangan:
+1. **Audit Keteladanan 360 Derajat Berkala**: Evaluasi keteladanan pimpinan dan asatidz oleh atasan, rekan sejawat, dan santri setiap semester.
+2. **Kanal Pengaduan Independen (*Whistleblowing*)**: Menjamin perlindungan bagi staf dan santri yang melaporkan pelanggaran tata kelola.[^12]
+3. **Penyusunan Rencana Suksesi 5 Tahunan**: Menyiapkan kader-kader pelapis kepemimpinan melalui program kaderisasi terstruktur.[^13]
+
+---
+
+### 5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam
+
+Penerapan Master Doktrin Leadership ini menegaskan arah kebangkitan peradaban Islam di abad ke-21:
+
+* **Mencetak Pemimpin Masa Depan yang Berjiwa Khadimul Ummah**:  
+  Santri tumbuh dengan menyaksikan para gurunya memimpin dengan kerendahan hati melayani, sehingga kelak saat menjadi pemimpin bangsa mereka akan menjadi abdi rakyat yang jujur, adil, dan amanah.
+* **Menjadikan Pesantren Sebagai Kiblat Tata Kelola Madani Kelas Dunia**:  
+  TUMBUH membuktikan bahwa hukum syariat Islam menghasilkan sistem manajemen yang paling akuntabel, manusiawi, dan bebas dari penyakit korupsi dinasti.
+* **Menegakkan Kembali Kepemimpinan Khilafah Kenabian yang Rahmatan lil 'Alamin**:  
+  Inilah esensi kepemimpinan Islam: menyatukan ketundukan ibadah kepada Allah SWT dengan pelayanan tulus memakmurkan bumi demi menggapai kebahagiaan dunia dan akhirat.[^14]
+
+---
+
+# BAB III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Temuan Riset Master Sub-Domain Leadership
+
+| Dimensi Parameter | Mazhab Tradisional Feodal | Model Korporat Bisnis Sekuler | **Master Doktrin Leadership TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Sumber Otoritas** | Hak istimewa dinasti & rasa takut.| Gaji materiil & kontrak hukum perdata.| **Keteladanan Amal (*Live Qudwah*).** | QS. Ash-Shaff: 2–3; Bandura (1977).| Pemimpin terdepan dalam amal saleh. |
+| **Fokus Utama** | Mempertahankan privilese kekuasaan.| Efisiensi metrik & margin keuntungan.| **Melayani Kebutuhan Staf & Santri.** | HR. Muslim No. 1825; Greenleaf.| Menjamin kesejahteraan & jam kerja musyrif. |
+| **Kaderisasi Santri**| Senioritas menindas & perpeloncoan.| Elitisme persaingan nilai angka.| **Duta Adab & Kakak Asuh Pengayom.**| HR. Abu Dawud No. 5004; Steinberg.| Dilarang santri menghukum junior. |
+| **Struktur Organisasi**| Otokrasi dinasti keluarga tertutup.| Dewan direksi kapitalistik dingin. | **Meritokrasi Majelis Syura & Wakaf.**| QS. Asy-Syura: 38; QS. Al-Qashash: 26.| Pemisahan wewenang & audit independen. |
+| **Penyelesaian Friksi**| Otoritarianisme sepihak / mutasi.| Litigasi pengadilan perdata dingin.| **Protokol Tabayyun & Mediasi Ishlah.**| Adab al-Ikhtilaf; Fisher & Ury.| Ukhuwah pulih & hati bersih. |
+
+---
+
+### 2. Daftar Pustaka Akademis & Rujukan Turats Primer
+
+1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anihi**.
+2. **Al-Bukhari, Abu Abdillah Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Kairo: Dar Thawq an-Najah.
+3. **Muslim bin al-Hajjaj an-Naisaburi**. (1427 H). *Shahih Muslim*. Riyadh: Dar Thayyibah.
+4. **Al-Mawardi, Abul Hasan Ali bin Muhammad**. (1414 H). *Al-Ahkam as-Sulthaniyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
+5. **Ibnu Taimiyyah, Taqiyuddin Ahmad bin Abdul Halim**. (1425 H). *As-Siyasah asy-Syar'iyyah fi Ishlah ar-Ra'i war-Ra'iyyah*. Madinah: Majma' al-Malik Fahd.
+6. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya' 'Ulumiddin* (4 Jilid). Beirut: Dar al-Ma'rifah.
+7. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.
+8. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
+9. **Greenleaf, R. K.**. (1977). *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness*. New York: Paulist Press.
+10. **Maslach, C., Schaufeli, W. B., & Leiter, M. P.**. (2001). *Job burnout*. Annual Review of Psychology, 52(1), 397–422.
+11. **Rizzolatti, G., & Craighero, L.**. (2004). *The mirror-neuron system*. Annual Review of Neuroscience, 27, 169–192.
+12. **Fisher, R., & Ury, W.**. (1981). *Getting to YES: Negotiating Agreement Without Giving In*. Boston: Houghton Mifflin.
+13. **Zehr, H.**. (2002). *The Little Book of Restorative Justice*. Intercourse: Good Books.
+14. **Sapolsky, R. M.**. (2017). *Behave: The Biology of Humans at Our Best and Worst*. New York: Penguin Press.
+
+---
+
+### 3. Catatan Kaki Akademis (*Footnotes*)
+
+[^1]: Riset Master Doktrin Leadership dan Tata Kelola Qudwah TUMBUH, *Kritik atas Otokrasi dan Krisis Kepemimpinan Pesantren*, 2026.  
+[^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Leadership TUMBUH, 2026.  
+[^3]: Blueprint Jembatan Ontologis Menuju Sub-Domain 06 Change TUMBUH, 2026.  
+[^4]: Piagam Sanctuary Governance dan Perlindungan Hak Pengasuh TUMBUH, 2026.  
+[^5]: Dokumentasi Longitudinal Transformasi Tata Kelola dan Iklim Kerja Musyrif PBIS TUMBUH, 2026.  
+[^6]: Rizzolatti, G., & Craighero, L. (2004), *Annual Review of Neuroscience*, hlm. 169–192; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, hlm. 60–85.  
+[^7]: Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 20–55; Maslach, C., et al. (2001), *Job Burnout*, hlm. 397–422.  
+[^8]: Fiqh al-Kafa'ah asy-Syar'iyyah dan Perlindungan Aset Wakaf Umat TUMBUH, 2026.  
+[^9]: Standar Piagam Anti-Perpeloncoan dan Protokol Mediasi IBR Asatidz TUMBUH, 2026.  
+[^10]: Matriks Tingkatan Kesadaran Filsafat Kepemimpinan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
+[^11]: Dekrit Resmi Pengharaman Eksploitasi Pengasuh dan Oligarki Majelis Kiai TUMBUH, 2026.  
+[^12]: Standar Operasional Prosedur Whistleblowing dan Audit Kepemimpinan Tahunan TUMBUH, 2026.  
+[^13]: Petunjuk Teknis Perencanaan Suksesi dan Kaderisasi Kepemimpinan Pesantren TUMBUH, 2026.  
+[^14]: Deklarasi Peradaban Kepemimpinan Profetik Khidmah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
+
+---
+
+### 4. Glosarium Istilah Ilmiah & Turats Master Leadership
+
+1. **Master Doktrin Leadership**: Dokumen induk filosofis yang merangkum falsafah Qudwah, Servant Leadership, kaderisasi santri pengayom, tata kelola syura, meritokrasi syar'i, dan resolusi damai asatidz.
+2. **Kepemimpinan Qudwah & Khidmah**: Paradigma kepemimpinan profetik Islam yang memadukan kekuatan keteladanan amal (*Qudwah*) dengan ketulusan melayani umat (*Khidmah*).
+3. **Sayyidul Qawmi Khadimuhum**: Kaidah kenabian agung bahwa pemimpin sejati suatu kaum adalah pelayan bagi kaumnya.
+4. **Meritokrasi Syar'i**: Sistem seleksi dan suksesi kepemimpinan yang berlandaskan kualifikasi profesional (*Al-Quwwah*) dan integritas takwa (*Al-Amanah*).
+5. **Syura Kolektif-Kolegial**: Mekanisme pengambilan keputusan strategis melalui musyawarah dewan masyayikh independen.
+6. **Zero Hazing Policy**: Ketetapan mutlak yang melarang 100% perpeloncoan dan mencabut hak menghukum dari santri senior.
+7. **Mitigasi Burnout Maslach**: Sistem penataan jam kerja dan hak istirahat sehat untuk melindungi kesejahteraan para pengasuh asrama.
+8. **Interest-Based Relational (IBR) Mediation**: Metode penyelesaian sengketa yang memisahkan manusia dari masalah guna mencari solusi win-win yang memulihkan ukhuwah.
+9. **Nazhir Wakaf Mandiri**: Struktur pengelola aset wakaf yang akuntabel, transparan, dan tidak dapat diwariskan menjadi hak milik pribadi keluarga.
+10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil pemimpin paripurna yang menyatukan integritas tauhid, keteladanan akhlak, dan kepemimpinan peradaban yang memancarkan rahmat bagi semesta alam.
