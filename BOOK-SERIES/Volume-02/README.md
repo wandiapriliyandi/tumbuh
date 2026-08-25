@@ -11,7 +11,7 @@
 
 | Bab | Judul Bab | Fokus Utama Kajian | Jumlah Sub-Bab | Berkas Bab & Sub-Bab |
 | :---: | :--- | :--- | :---: | :---: |
-| **00** | **Naskah Lengkap Monograf Volume 02** | Kompilasi Utuh Seluruh Bab Volume 02 (2.678 Baris) | 33 Sub-Bab | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Buku-Volume-02-Taksonomi-Kapasitas-dan-10-Profil-Karakter.md) |
+| **00** | **Naskah Lengkap Monograf Volume 02** | Kompilasi Utuh Seluruh Bab Volume 02 (2.678 Baris) | 33 Sub-Bab | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Buku-Volume-02-Taksonomi-Kapasitas-dan-10-Profil-Karakter-Santri-TUMBUH.md) |
 | **01** | **Arsitektur Kapasitas Holistik Berbasis Fitrah** | Pendekatan *Whole-Child*, 5 dimensi kapasitas, integrasi CASEL SEL, & SDT. | **4 Sub-Bab** | [Buka Folder Bab 01](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-01-Arsitektur-Kapasitas-Holistik-Berbasis-Fitrah/) |
 | **02** | **Profil 10 Muwashafat Karakter Santri TUMBUH** | Indikator perilaku konkret *Salimul Aqidah* hingga *Nafi'un Lighairihi* (10 karakter mandiri). | **10 Sub-Bab** | [Buka Folder Bab 02](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-02-Profil-10-Muwashafat-Karakter-Santri/) |
 | **03** | **Trajektori Biososial-Spiritual Remaja Pesantren** | Gap maturasi sistem limbik vs PFC usia 12–18 tahun, krisis identitas, & *External PFC*. | **4 Sub-Bab** | [Buka Folder Bab 03](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-03-Trajektori-Biososial-Spiritual-Remaja-Pesantren/) |

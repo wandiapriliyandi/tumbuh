@@ -11,7 +11,7 @@
 
 | Bab | Judul Bab | Fokus Utama Kajian | Berkas Bab |
 | :---: | :--- | :--- | :---: |
-| **00** | **Naskah Lengkap Monograf Volume 01** | Kompilasi Utuh Seluruh Bab Volume 01 | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Buku-Volume-01-Akar-Filosofis-dan-Epistemologi-TUMBUH.md) |
+| **00** | **Naskah Lengkap Monograf Volume 01** | Kompilasi Utuh Seluruh Bab Volume 01 | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Buku-Volume-01-Akar-Filosofis-dan-Epistemologi-Pendidikan-Karakter-Pesantren.md) |
 | **01** | **Krisis Karakter, Patologi Pendidikan, & Urgensi Rekonstruksi** | Dekonstruksi kepatuhan semu, trauma amigdala, & kelemahan behaviorisme sekuler. | [Buka Folder Bab 01](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-01-Krisis-Karakter-dan-Urgensi-Rekonstruksi/README.md) |
 | **02** | **Ontologi Fitrah & Hakikat Insan Pembelajar** | *Fitrah al-Munazzalah*, dinamika *Nafs-Aql-Qalb*, & rekonstruksi *Ta'dib-Tarbiyah-Ta'lim*. | [Buka Folder Bab 02](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-02-Ontologi-Fitrah-dan-Hakikat-Insan-Pembelajar/README.md) |
 | **03** | **Epistemologi Integratif: Turats Nabawi & Neurosains Kognitif** | Integrasi ayat *Kauniyyah-Qawliyyah*, neuroplastisitas 66-hari, & *Executive Function*. | [Buka Folder Bab 03](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-01/Bab-03-Epistemologi-Integratif-Turats-dan-Neurosains/README.md) |

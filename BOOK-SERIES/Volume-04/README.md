@@ -11,7 +11,7 @@
 
 | Bab | Judul Bab | Fokus Utama Kajian | Berkas Bab |
 | :---: | :--- | :--- | :---: |
-| **00** | **Naskah Lengkap Monograf Volume 04** | Kompilasi Utuh Seluruh Bab Volume 04 | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-04/Buku-Volume-04-Pedoman-Intervensi-PBIS-dan-Praktik-Restoratif.md) |
+| **00** | **Naskah Lengkap Monograf Volume 04** | Kompilasi Utuh Seluruh Bab Volume 04 | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-04/Buku-Volume-04-Pedoman-Intervensi-Berjenjang-PBIS-dan-Praktik-Restoratif-di-Asrama.md) |
 | **01** | **Arsitektur Piramida Intervensi Multi-Tier PBIS** | Prinsip piramida 3 tingkat (Tier 1 80%, Tier 2 15%, Tier 3 5%) & anti-retributif. | [Buka Bab 01](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-04/Bab-01-Arsitektur-Piramida-Intervensi-Multi-Tier-PBIS.md) |
 | **02** | **Intervensi Tier 1: Preventif & Budaya Universal** | Matriks harapan adab per zona, rasio apresiasi 4:1, & manajemen titik rawan (*hotspot*). | [Buka Bab 02](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-04/Bab-02-Intervensi-Tier-1-Preventif-dan-Budaya-Universal.md) |
 | **03** | **Intervensi Tier 2: Terarah & Protokol CICO** | Mekanisme *Check-In / Check-Out* (CICO) harian & kelompok regulasi emosi santri. | [Buka Bab 03](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-04/Bab-03-Intervensi-Tier-2-Targeted-dan-Protokol-CICO.md) |

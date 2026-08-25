@@ -11,7 +11,7 @@
 
 | Bab | Judul Bab | Fokus Utama Kajian | Berkas Bab |
 | :---: | :--- | :--- | :---: |
-| **00** | **Naskah Lengkap Monograf Volume 03** | Kompilasi Utuh Seluruh Bab Volume 03 | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-03/Buku-Volume-03-Sistem-Asesmen-Perkembangan-dan-Evaluasi.md) |
+| **00** | **Naskah Lengkap Monograf Volume 03** | Kompilasi Utuh Seluruh Bab Volume 03 | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-03/Buku-Volume-03-Sistem-Asesmen-Perkembangan-dan-Evaluasi-Berbasis-Bukti.md) |
 | **01** | **Paradigma Baru Evaluasi: Dari Vonis ke Asesmen Ipsatif** | Dekonstruksi sistem poin defisit/dosa & penerapan evaluasi laju pertumbuhan pribadi. | [Buka Bab 01](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-03/Bab-01-Paradigma-Baru-Evaluasi-Asesmen-Ipsatif.md) |
 | **02** | **Landasan Psikometrik & Validasi Instrumen Adab** | Uji Aiken’s V ($> 0.85$), reliabilitas Cohen’s Kappa ($> 0.78$), & eliminasi bias halo. | [Buka Bab 02](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-03/Bab-02-Landasan-Psikometrik-dan-Validitas-Instrumen.md) |
 | **03** | **Triangulasi Evaluasi 360-Derajat Multi-Sumber** | Integrasi muhasabah santri, rekan kamar, observasi musyrif asrama, & guru kelas. | [Buka Bab 03](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-03/Bab-03-Triangulasi-Evaluasi-360-Derajat.md) |
