@@ -1142,6 +1142,23 @@ Dalam Sistem TUMBUH, kita menggunakan cara yang jauh lebih cerdas, sejuk, dan me
 
 Kurikulum dalam Sistem TUMBUH dirancang sebagai satu kesatuan utuh antara kurikulum intrakurikuler (Madrasah), kokurikuler (Halaqah & Pembiasaan), dan ekstrakurikuler (Khidmah & Organisasi). Setiap mata pelajaran madrasah memiliki benang merah adab yang beresonansi dengan kehidupan asrama malam hari.
 
+#### A. Desain Kurikulum 24-Jam: Menghubungkan Madrasah Pagi dan Asrama Malam
+Kurikulum Sistem TUMBUH tidak memisahkan antara ranah kognitif madrasah (pagi) dengan pembiasaan adab asrama (malam). Konsep ini diwujudkan melalui:
+1. **Penyelarasan Nilai Tematik**: Jika di kelas pagi santri belajar tentang adab menghormati guru dan ilmu (*Tadzkirat as-Sami'*), maka pada malam hari di asrama musyrif memfasilitasi sesi refleksi tentang bagaimana santri memperlakukan buku, kerapian meja belajar, dan saling menyimak hafalan sesama teman.
+2. **Kemitraan Dual-Pillar**: Wali Kelas dan Musyrif Asrama melakukan *handover* harian selama 15 menit untuk saling memperbarui data santri yang sedang mengalami kesulitan emosional atau membutuhkan apresiasi khusus.
+3. **Praktik Pembelajaran Berbasis Proyek Karakter**: Santri tidak hanya mengerjakan tugas teori, melainkan diberi misi nyata seperti merawat taman asrama, mengelola kebersihan masjid, atau membimbing adik kelas yang baru belajar makhraj huruf.
+
+```mermaid
+graph TD
+    Madrasah["KURIKULUM MADRASAH (07.00 - 15.00)<br/>Penguasaan Ilmu Syar'i & Sains Kognitif"] --> Handover["HANDOVER HARIAN 15 MENIT<br/>Sinergi Data Wali Kelas & Musyrif"]
+    Handover --> Asrama["KURIKULUM ASRAMA 24 JAM (15.00 - 05.00)<br/>Internalisasi Adab, Tahfizh, & Kemandirian Kamar"]
+    Asrama --> Integrasi["INSAN ADABI PARIPURNA<br/>Pribadi yang Menguasai Ilmu & Berakhlak Mulia"]
+```
+
+#### B. Strategi Integrasi Guru Mata Pelajaran
+* Setiap guru mata pelajaran wajib menyisipkan pesan adab praktis selama 3–5 menit di awal pelajaran (*Adab Embedding*).
+* Melarang keras penggunaan ancaman nilai akademik untuk menghukum pelanggaran asrama, menjaga objektivitas penilaian dan rasa keadilan santri.
+
 
 ---
 
@@ -3804,6 +3821,25 @@ Dalam Sistem TUMBUH, kita menggunakan cara yang jauh lebih cerdas, sejuk, dan me
 Menghafal Al-Qur'an dan kitab turats membutuhkan stamina kognitif tinggi. Santri dilatih memiliki *Growth Mindset* dan ketangguhan mental (*Grit*): memandang kesulitan hafalan bukan sebagai tanda kebodohan, melainkan proses pembentukan jalur sinaptik baru di otak yang bernilai pahala berlipat ganda.
 
 
+#### A. Membangun Daya Tahan Mental (*Grit*) dalam Menghafal Al-Qur'an
+Menghafal Al-Qur'an 30 juz menuntut stamina mental dan ketekunan luar biasa (*Mujahadah*). Sering kali santri mengalami masa jenuh (*plateau phase*) atau frustrasi ketika menghadapi ayat-ayat mutasyabihat:
+1. **Prinsip *Small Wins* (Kemenangan Kecil Bertahap)**: Membagi target hafalan besar menjadi potongan-potongan kecil yang dapat dicapai setiap hari (misalnya 1 halaman atau 5 baris mutqin) untuk memicu pelepasan dopamin alami dan rasa percaya diri santri.
+2. **Kultur Saling Menyimak (*Tadarus Ukhuwah*)**: Mengubah proses setoran yang menegangkan menjadi suasana kemitraan yang saling menyemangati antarsantri se-kamar.
+3. **Reframing Rasa Lelah sebagai Penggugur Dosa**: Mengajarkan santri memaknai keletihan menghafal sebagai proses tazkiyatun nafs dan investasi abadi di akhirat, bukan beban kompetisi ranking.
+
+```mermaid
+graph LR
+    Niat["Niat Ikhlas & Target Realistis"] --> SmallWins["Pencapaian Kemenangan Kecil Harian"]
+    SmallWins --> Dopamin["Motivasi Intrinsik Terbakar Alami"]
+    Dopamin --> Resiliensi["Grit & Ketahanan Saat Fase Jenuh"]
+    Resiliensi --> Mutqin["Hafalan Kokoh (Mutqin) & Karakter Tangguh"]
+```
+
+#### B. Protokol Musyrif Mengatasi Kejenuhan Santri
+* Sediakan jeda aktif (*Active Recovery*) seperti olahraga memanah, renang, atau rihlah alam terbuka di akhir pekan saat target mingguan tercapai.
+* Larang keras hukuman berdiri berjam-jam saat setoran belum lancar; gantikan dengan pendampingan sorogan reflektif yang sabar.
+
+
 ---
 
 
@@ -5448,6 +5484,24 @@ Dalam Sistem TUMBUH, kita menggunakan cara yang jauh lebih cerdas, sejuk, dan me
 ### Ujian Hakiki Adab Adalah di Luar Pagar Pesantren
 
 Santri Tahap 7 Penggerak dibekali kemampuan navigasi moral independen: tetap menjaga shalat berjamaah, integritas muamalah, dan kerendahan hati saat berbaur di kampus sekuler maupun dunia profesional internasional.
+
+
+#### A. Menjaga Nyala Adab di Luar Gerbang Pesantren
+Ujian sejati pendidikan karakter di pesantren bukanlah saat santri berada di dalam lingkungan yang serba terkontrol, melainkan ketika mereka melangkah keluar ke dunia kampus, masyarakat, dan dunia digital:
+1. **Transisi Bertahap Menuju Otonomi Penuh**: Pada kelas 12 (Jenjang J4), santri diberi kepercayaan mengelola jadwal belajar mandiri, memimpin kepanitiaan pondok, dan menjadi mentor bagi adik kelas tanpa pengawasan ketat musyrif.
+2. **Internalisasi Kompas Moral Pribadi**: Memastikan motivasi beribadah dan menjaga pandangan telah bertransformasi dari faktor eksternal (takut musyrif) menjadi kesadaran batin (*Muraqabatullah*).
+3. **Jejaring Ikatan Alumni Karakter**: Membangun forum mentoring berkala antara alumni senior yang sukses berkarier dengan santri yang baru lulus untuk menjaga bi'ah shalihah di bangku universitas.
+
+```mermaid
+graph TD
+    J1J2["J1 & J2: Pembiasaan Eksternal Asrama"] --> J3J4["J3 & J4: Otonomi & Servant Leadership"]
+    J3J4 --> Wisuda["Kelulusan: Pemegang Kompas Moral Mandiri"]
+    Wisuda --> Masyarakat["INSAN ADABI DI MASYARAKAT<br/>Membawa Nilai TUMBUH di Kampus, Tempat Kerja, & Keluarga"]
+```
+
+#### B. Panduan Pengasuhan Menjelang Kelulusan
+* Sediakan program pembekalan pra-kampus: literasi digital islami, manajemen finansial halal, dan mitigasi fitnah syubhat & syahwat.
+* Berikan sertifikat Transkrip Karakter Naratif yang mengabadikan jam khidmah sosial dan rekam jejak kepemimpinan santri.
 
 
 ---
