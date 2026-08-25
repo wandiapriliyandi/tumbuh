@@ -1,27 +1,165 @@
-# P11-08-01: Spesifikasi Aplikasi Logbook Musyrif Mobile App
+# P11-08-01: Spesifikasi Aplikasi Logbook Musyrif Mobile App (Spesifikasi LOGBOOK-MobileApp)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
 * **Sub-Domain**: `11 Tools / 08 Digital Tools`
-* **Penanggung Jawab Keilmuan**: Dewan Keilmuan TUMBUH (*Pakar Arsitektur Digital Pesantren & Pakar Pengasuhan Asrama*)
+* **Penanggung Jawab Keilmuan**: Dewan Keilmuan TUMBUH (*Pakar Arsitektur Digital Pesantren, Pakar Pengasuhan Asrama, & Pakar PBIS*)
+* **Bentuk Instrumen**: Spesifikasi LOGBOOK-MobileApp (Spesifikasi Kebutuhan Perangkat Lunak / SRS, Wireframe UI/UX 3-Tap Entry, & Arsitektur Offline-First PWA)
 
 ---
 
-## 1. Operasionalisasi Fitur & UI/UX Logbook Musyrif App
+# BAGIAN I: LANDASAN TEORETIS & INKUIRI KEILMUAN MULTIDISIPLINER
 
-Aplikasi didesain ringkas dengan filosofi **3-Tap Entry System** agar Musyrif dapat mencatat data dalam kurun waktu kurang dari 30 detik:
+## 1.1 Konteks Masalah: Beban Kognitif Musyrif dan Fenomena Digital Burnout
+Dalam operasional asrama pesantren 24 jam, musyrif memikul beban fisik dan emosional yang sangat padat: mendampingi santri dari bangun Subuh hingga tidur malam, mengawal halaqah, dan menangani dinamika kamar. Banyak inisiatif digitalisasi pesantren mengalami kegagalan fatal karena mengadopsi aplikasi mobile yang rumit, membutuhkan banyak navigasi form berbelit-belit (*clunky form navigation*), dan mewajibkan koneksi internet konstan di area asrama yang kerap mengalami titik buta sinyal (*network dead-zones*).
+
+Alih-alih membantu, aplikasi yang tidak ergonomis tersebut memicu **kelelahan digital (*musyrif digital burnout*)**, menurunkan kualitas interaksi tatap muka dengan santri, dan berujung pada pengisian data fiktif di akhir pekan (*data falsification*).
+
+TUMBUH merancang **Aplikasi Logbook Musyrif Mobile (LOGBOOK-MobileApp)** dengan filosofi desain **3-Tap Entry System** dan **Arsitektur Offline-First**. Aplikasi ini menjamin bahwa seluruh pencatatan absensi shalat, pemberian apresiasi poin PBIS, dan laporan insiden dapat diselesaikan dalam waktu **kurang dari 30 detik**, membebaskan musyrif untuk fokus memberikan keteladanan dan kasih sayang nyata (*high-touch, low-friction*).
 
 ```mermaid
 graph TD
-    MusyrifAppFeatures["4 Fitur Utama Logbook Musyrif App"]
-    MusyrifAppFeatures --> QuickPresence["1. Quick-Tap Presensi Sholat & Halaqah (Scan QR / Toggle List Santri)"]
-    MusyrifAppFeatures --> PBISPointLogger["2. PBIS Positive Reinforcement Logger (Tombol Cepat Beri Poin Kebaikan +5)"]
-    MusyrifAppFeatures --> IncidentFormMobile["3. Incident Report Mobile Form (Perekaman A-B-C Data + Foto Bukti)"]
-    MusyrifAppFeatures --> ShiftHandoverNote["4. Shift Handover Digital Memo (Catatan Penyerahan Tugas Shift Malam Musyrif)"]
+    BebanRumit["Aplikasi Lambat, Form Berbelit, & Butuh Internet Konstan (Digital Burnout)"] --> Transformasi["Rekonstruksi Menjadi Aplikasi Ergonomis Lapangan"]
+    Transformasi --> MusyrifApp["LOGBOOK-MobileApp<br/>(3-Tap Entry & Offline-First PWA)"]
+    MusyrifApp --> F1["1. Quick-Tap Presensi Sholat & Halaqah (Toggle < 10 Detik)"]
+    MusyrifApp --> F2["2. Instant PBIS Praise Logger (+1 s/d +5 Poin Otomatis)"]
+    MusyrifApp --> F3["3. Rapid ABC Incident Capture (Suara-ke-Teks & Foto)"]
+    MusyrifApp --> F4["4. Shift Handover Digital Memo (Operan Jaga Malam Otomatis)"]
+    F1 & F2 & F3 & F4 --> Efisiensi["Pencatatan Cepat < 30 Detik, Data Presisi, & Musyrif Fokus Mengayomi"]
 ```
+
+## 1.2 Inkuiri Epistemologi Turats: Doktrin Taisir dan Kaidah Masyaqqah Tajlibut Taisir
+Epistemologi Islam meletakkan prinsip kemudahan (*at-taisir*) dan penghapusan beban yang menyulitkan (*raf'ul haraj*) sebagai maqashid syari'ah fundamental. Rasulullah SAW bersabda menegaskan hal ini:
+
+> يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا
+> 
+> *"Permudahlah dan jangan mempersulit, berilah kabar gembira dan jangan membuat orang lari menjauh."* [^1]
+
+Kaidah fiqhiyyah universal menetapkan: **"Al-Masyaqqah Tajlibut Taisir"** (Kesulitan mendatangkan kemudahan) [^2]. Dalam konteks pencatatan data pembinaan, Imam Al-Qalqasyandi dalam *Subh al-A'sya fi Shina'at al-Insya* menjelaskan bahwa perangkat pencatatan yang digunakan oleh para juru tulis amanah (*kuttab al-amanah*) harus dirancang seringkas mungkin (*ijaz al-lafzh ma'a wuduh al-ma'na*) agar tidak menghabiskan waktu yang seharusnya digunakan untuk melayani rakyat dan menegakkan keadilan [^3]. Spesifikasi LOGBOOK-MobileApp mewujudkan kaidah kemudahan ini ke dalam tata letak antarmuka perangkat lunak modern.
+
+## 1.3 Inkuiri Sains Rekayasa Perangkat Lunak & HCI: Offline-First & Micro-Interactions
+Dalam domain *Human-Computer Interaction* (HCI) dan prinsip desain kegunaan (*Usability Heuristics* oleh Jakob Nielsen, 1994), aplikasi lapangan bagi pekerja garis depan (*frontline mobile workers*) harus meminimalkan beban kognitif (*cognitive load*) melalui **interaksi mikro instan (*micro-interactions*)** dan efisiensi navigasi [^4].
+
+Secara arsitektur teknologi perangkat lunak, sistem menerapkan pola **Offline-First Progressive Web App (PWA) / Hybrid Native** yang didukung oleh basis data lokal terindeks (*IndexedDB / Local SQLite*). Seluruh operasi input data dieksekusi secara instan pada penyimpanan lokal gawai musyrif tanpa terhalang latensi jaringan (*zero network latency*). *Background Sync Worker* secara otomatis mendeteksi koneksi dan menyinkronkan data terenkripsi ke peladen pusat (*central Supabase/PostgreSQL server*) saat sinyal Wi-Fi asrama terhubung kembali [^5].
 
 ---
 
-## 2. Fitur Offline Syncing
+# BAGIAN II: FORMULASI KONSEPTUAL, ARSITEKTUR INSTRUMEN, & SPESIFIKASI FORM
 
-Aplikasi mendukung penyimpanan data lokal (*Offline First Architecture*), secara otomatis mengunggah data saat perangkat kembali terhubung ke jaringan internet.
+## 2.1 Dekomposisi 4 Modul Inti Aplikasi Logbook Musyrif
+Aplikasi LOGBOOK-MobileApp mencakup 4 fitur utama yang dirancang untuk kecepatan operasi di lapangan:
+
+1. **Modul 1: Quick-Tap Attendance Toggle (Presensi Kilat Shalat/Halaqah)**:
+   - Menampilkan daftar foto dan nama santri sekamar dalam 1 layar.
+   - Status default adalah *"Hadir Lengkap di Shaf Awal"*. Musyrif hanya perlu mengetuk (*single-tap*) santri yang terlambat/udzur, mencatat presensi 15 santri hanya dalam 5–10 detik.
+2. **Modul 2: Instant PBIS Praise Logger (Perekaman Apresiasi Cepat)**:
+   - Tombol pintas (*Floating Action Button / FAB*) untuk memberikan poin kebaikan spesifik: *+1 (Kerapian Ranjang)*, *+2 (Membantu Teman)*, *+3 (Adab Halaqah Khusyu')*.
+   - Memicu notifikasi instan berupa umpan balik visual haptic yang menyenangkan.
+3. **Modul 3: Rapid ABC Incident Form (Laporan Insiden Suara & Foto)**:
+   - Perekaman insiden pelanggaran adab menggunakan fitur *Voice-to-Text* bahasa Indonesia untuk mencatat Anteseden (A), Perilaku (B), dan Konsekuensi (C) dalam hitungan detik.
+4. **Modul 4: Shift Handover Digital Memo (Operan Jaga Piket Malam)**:
+   - Catatan serah terima tugas otomatis antar-musyrif (misal: santri yang sedang demam di Poskestren, lampu kamar yang padam) yang muncul di layar beranda musyrif shift berikutnya.
+
+```mermaid
+flowchart LR
+    subgraph UIWorkflow["ALUR KERJA 3-TAP ENTRY SISTEM LOGBOOK"]
+        Screen1["Layar 1: Beranda Kamar<br/>(Pilih Kamar / Halaqah)"] -->|Tap 1| Screen2["Layar 2: Daftar Santri<br/>(Toggle Cepat / FAB Poin)"]
+        Screen2 -->|Tap 2: Pilih Aksi Kebaikan| Screen3["Layar 3: Konfirmasi + Haptic<br/>(Simpan Lokal < 1 Detik)"]
+        Screen3 -->|Tap 3: Selesai| Sync["Background Sync Worker<br/>(Sinkron Otomatis ke Cloud)"]
+    end
+```
+
+## 2.2 Format Wireframe & Spesifikasi Teknis Antarmuka (UI/UX Spec)
+
+```markdown
+================================================================================
+      SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK: LOGBOOK-MOBILEAPP (SRS-P11-08-01)
+================================================================================
+Platform Target : Android 10+ / iOS 15+ / Progressive Web App (PWA)
+Tech Stack      : React Native / Flutter + Local SQLite + Supabase Sync Engine
+Security Level  : End-to-End Encryption (AES-256) + Biometric Fingerprint Login
+--------------------------------------------------------------------------------
+
+[TAMPILAN 1: BERANDA PRESENSI SHALAT SUBUH (QUICK-TAP TOGGLE)]
++------------------------------------------------------------------------------+
+| 🕌 SUBUH BERJAMAAH | Kamar: Salman Al-Farisi (12 Santri)   [ 📶 Offline Mode ]|
++------------------------------------------------------------------------------+
+| [✓] Ahmad Zaki     (Hadir Shaf 1)   | [✓] Fajar Shiddiq  (Hadir Shaf 1)      |
+| [✓] Hilman Hakim   (Hadir Shaf 1)   | [!] M. Rizky       (Masbuq 1 Raka'at)  |
+| [✓] Farhan Ali     (Hadir Shaf 1)   | [🏥] Salman Alif   (Udzur Poskestren)  |
+| [✓] Dani Pratama   (Hadir Shaf 1)   | [✓] Rayhan Putra   (Hadir Shaf 1)      |
++------------------------------------------------------------------------------+
+| [ TOMBOL KUNCI PRESENSI (1-TAP) ] -> Durasi Input: 6.8 Detik                |
++------------------------------------------------------------------------------+
+
+[TAMPILAN 2: PBIS QUICK PRAISE LOGGER (MODAL POP-UP)]
++------------------------------------------------------------------------------+
+| ⭐ BERI APRESIASI ADAB: Ahmad Zaki                                           |
++------------------------------------------------------------------------------+
+| ( +1 Kerapian Kasur )   ( +2 Membantu Teman )   ( +3 Halaqah Khusyu' )       |
+| ( +2 Menjaga Wudhu )    ( +5 Teladan Qudwah )   ( 🎤 Voice Memo Catatan... ) |
++------------------------------------------------------------------------------+
+| [ KIRIM APRESIASI & SINKRON ] -> Notifikasi Haptic Getar Sukses               |
++------------------------------------------------------------------------------+
+```
+
+## 2.3 Rubrik Evaluasi Kegunaan Perangkat Lunak (Usability Heuristic Rubric)
+Tim Pengembang Perangkat Lunak mengaudit kinerja aplikasi setiap rilis pembaruan (*release update*):
+
+| Parameter Kegunaan | Standar Minimum (Gagal) | Standar Target (Lulus Uji Lapangan TUMBUH) |
+| :--- | :--- | :--- |
+| **Kecepatan Input Data** | Memerlukan $> 60$ detik dan lebih dari 5 ketukan layar per santri. | Tuntas dalam $\le 30$ detik dengan maksimal 3 ketukan layar (*3-Tap*). |
+| **Keandalan Mode Offline**| Aplikasi mengalami error/crash saat tidak ada koneksi internet. | 100% data tersimpan aman di SQLite lokal dan sinkron otomatis saat online. |
+| **Beban Konsumsi Baterai**| Menghabiskan daya baterai gawai musyrif $> 15\%$ per shift jaga. | Hemat daya ekstrem ($< 4\%$ konsumsi baterai per shift 8 jam). |
+
+---
+
+# BAGIAN III: TABEL SINTESIS, DAFTAR PUSTAKA, CATATAN KAKI, & GLOSARIUM
+
+## 3.1 Tabel Sintesis Integrasi Spesifikasi LOGBOOK-MobileApp
+
+| Komponen LOGBOOK-MobileApp | Landasan Turats & Fiqh | Landasan Sains Rekayasa Perangkat Lunak | Target Transformasi Musyrif |
+| :--- | :--- | :--- | :--- |
+| **3-Tap Entry System** | Kaidah *Taisir* & *Yassirū walā Tu'assirū*. | *HCI Cognitive Load Reduction* & *Micro-Interactions*. | Mengeliminasi kelelahan digital musyrif asrama. |
+| **Offline-First Architecture**| Prinsip kehati-hatian (*Ihtiyath*) penjagaan data. | *IndexedDB / SQLite to Cloud Eventual Consistency*. | Pencatatan tidak terganggu meski di titik buta sinyal. |
+| **Rapid ABC Logging** | Kaidah hisab amal presisi & kejujuran (*Shidq*). | *Structured Behavioral Telemetry* (SW-PBIS). | Laporan insiden objektif tanpa bias memori masa lalu. |
+
+## 3.2 Catatan Kaki (Footnotes 1-to-1)
+[^1]: Diriwayatkan oleh Imam Al-Bukhari dalam *Shahih al-Bukhari*, kitab *al-'Ilm*, hadits no. 69; Imam Muslim dalam *Shahih Muslim*, no. 1734.
+[^2]: As-Suyuthi, Jalaluddin. (2001). *Al-Asybah wa an-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Kairo: Dar al-Hadits, hlm. 75–82.
+[^3]: Al-Qalqasyandi, Ahmad bin Ali. (1987). *Subh al-A'sya fi Shina'at al-Insya*. Beirut: Dar al-Kutub al-'Ilmiyyah, juz 1, hlm. 120–132.
+[^4]: Nielsen, J. (1994). *Usability Engineering*. San Francisco: Morgan Kaufmann.
+[^5]: Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. Sebastopol, CA: O'Reilly Media.
+[^6]: Norman, D. (2013). *The Design of Everyday Things: Revised and Expanded Edition*. New York: Basic Books.
+[^7]: Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.
+[^8]: An-Nawawi, Yahya bin Syaraf. (1994). *Syarh Shahih Muslim*. Beirut: Dar al-Khair, juz 12, hlm. 40–48.
+[^9]: Fling, B. (2009). *Mobile Design and Development: Practical Concepts and Techniques for Creating Mobile Sites and Web Apps*. Sebastopol, CA: O'Reilly Media.
+[^10]: Al-Mawardi, Ali bin Muhammad. (1989). *Al-Ahkam as-Sulthaniyyah*. Kairo: Dar al-Hadits, hlm. 102–110.
+[^11]: Tidwell, J., Brewer, C., & Valencia-Rosas, A. (2020). *Designing Interfaces: Patterns for Effective Interaction Design* (3rd ed.). Sebastopol, CA: O'Reilly Media.
+[^12]: Ibnu Taimiyyah, Ahmad. (1995). *Majmu' al-Fatawa: Al-Qawa'id an-Nuraniyyah*. Madinah: Majma' al-Malik Fahd, juz 29, hlm. 45–55.
+
+## 3.3 Daftar Pustaka (APA 7th Edition & Turats Klasik)
+* Al-Bukhari, M. I. (2002). *Shahih al-Bukhari*. Riyadh: Bait al-Afkar ad-Dauliyyah.
+* Al-Mawardi, A. M. (1989). *Al-Ahkam as-Sulthaniyyah*. Kairo: Dar al-Hadits.
+* Al-Qalqasyandi, A. A. (1987). *Subh al-A'sya fi Shina'at al-Insya* (Vol. 1). Beirut: Dar al-Kutub al-'Ilmiyyah.
+* An-Nawawi, Y. S. (1994). *Syarh Shahih Muslim* (Vol. 12). Beirut: Dar al-Khair.
+* As-Suyuthi, J. (2001). *Al-Asybah wa an-Nazha'ir*. Kairo: Dar al-Hadits.
+* Fling, B. (2009). *Mobile Design and Development*. Sebastopol, CA: O'Reilly Media.
+* Ibnu Taimiyyah, A. (1995). *Majmu' al-Fatawa* (Vol. 29). Madinah: Majma' al-Malik Fahd.
+* Kleppmann, M. (2017). *Designing Data-Intensive Applications*. Sebastopol, CA: O'Reilly Media.
+* Nielsen, J. (1994). *Usability Engineering*. San Francisco: Morgan Kaufmann.
+* Norman, D. (2013). *The Design of Everyday Things*. New York: Basic Books.
+* Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.
+* Tidwell, J., Brewer, C., & Valencia-Rosas, A. (2020). *Designing Interfaces* (3rd ed.). Sebastopol, CA: O'Reilly Media.
+
+## 3.4 Glosarium Istilah
+1. **LOGBOOK-MobileApp**: Aplikasi seluler resmi pendamping tugas musyrif asrama untuk pencatatan presensi, poin PBIS, dan insiden perilaku secara instan.
+2. **3-Tap Entry System**: Filosofi desain antarmuka yang memungkinkan seluruh aksi pencatatan data rutin selesai dalam maksimal tiga ketukan layar.
+3. **Offline-First Architecture**: Pola arsitektur perangkat lunak yang menyimpan data pada basis data lokal gawai terlebih dahulu sebelum menyinkronkannya ke peladen awan.
+4. **Musyrif Digital Burnout**: Kelelahan psikologis dan fisik yang dialami pembina asrama akibat tuntutan pengisian aplikasi administrasi yang rumit dan menyita waktu.
+5. **Taisir**: Prinsip syariat yang menghendaki kemudahan, kepraktisan, dan keringanan dalam menjalankan tugas-tugas kebaikan.
+6. **Micro-Interactions**: Elemen desain antarmuka kecil (seperti getaran haptik, tombol geser, animasi centang) yang memberikan umpan balik langsung kepada pengguna.
+7. **Background Sync Worker**: Layanan latar belakang pada sistem operasi yang secara cerdas mendeteksi ketersediaan internet untuk melakukan sinkronisasi data tanpa mengganggu pengguna.
+8. **Eventual Consistency**: Model konsistensi data terdistribusi di mana data lokal dan data peladen pusat dipastikan akan identik setelah sinkronisasi berhasil.
+9. **Cognitive Load Reduction**: Upaya merancang sistem informasi agar pengguna tidak perlu berpikir keras atau mengingat-ingat langkah saat mengoperasikannya.
+10. **Shift Handover Note**: Fitur memo serah terima tugas piket antar-musyrif yang menjamin kesinambungan pengawasan santri selama 24 jam penuh.
