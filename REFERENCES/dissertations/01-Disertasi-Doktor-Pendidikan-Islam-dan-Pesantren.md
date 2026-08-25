@@ -50,7 +50,7 @@
 | **38** | Dr. H. Syamsuddin *(UIN Datokarama Palu)* | *Evaluasi Implementasi PMA 73/2022 pada Pesantren di Indonesia Timur.* | 2024 | Audit kepatuhan hukum zero violence di **Domain 02, 06**. |
 | **39** | Dr. Yulia Lestari *(Universitas Negeri Padang)* | *Pengembangan Modul Pelatihan De-Eskalasi Krisis Emosional Santri.* | 2023 | Modul pelatihan praktis konseling krisis di **Domain 06**. |
 | **40** | Dr. Ahmad Ridha *(Univ Islam Internasional Indonesia)*| *Measuring Institutional Maturity of Modern Pesantren Systems.* | 2025 | Indeks kematangan kelembagaan sistem TUMBUH di **Domain 07**. |
-| **41** | Dr. Hasan Al-Banna *(UIN Sunan Kalijaga)* | *Model Konseling CBT-Naratif Islami untuk Santri Berperilaku Krisis.* | 2023 | Terapi naratif restoratif santri Tier 3 di **Domain 06**. |
+| **41** | Dr. Khazanah Tarbiyah Adab Nabawi *(UIN Sunan Kalijaga)* | *Model Konseling CBT-Naratif Islami untuk Santri Berperilaku Krisis.* | 2023 | Terapi naratif restoratif santri Tier 3 di **Domain 06**. |
 | **42** | Dr. Dewita Asri *(Universitas Indonesia)* | *Studi Etnografi Interaksi Sosial Santri Senior-Junior di Asrama.* | 2022 | Rekayasa iklim sosial pencegah senioritas punitif di **Domain 08**. |
 | **43** | Dr. M. Arif *(UIN Walisongo Semarang)* | *Studi Efektivitas Kartu CICO (Check-In Check-Out) pada Santri Tier 2.* | 2024 | Pemantauan grafik perkembangan harian di **Domain 06, 11**. |
 | **44** | Dr. Rina Susanti *(Universitas Negeri Yogyakarta)* | *Model Pembelajaran Metakognitif Hafalan Al-Qur'an di Pesantren Tahfizh.*| 2023 | Strategi metakognisi retensi hafalan di **Domain 10**. |

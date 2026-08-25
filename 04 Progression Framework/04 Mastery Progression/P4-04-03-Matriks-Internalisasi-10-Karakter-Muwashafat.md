@@ -76,7 +76,7 @@ flowchart LR
     subgraph TuratsKhisalAsyrahSalaf["DOKTRIN 10 SIFAT MUKMIN TURATS"]
         HaditsSyiam["HR. Al-Bukhari & Muslim:<br/>خَصْلَتَانِ لَا تَجْتَمِعَانِ فِي مُؤْمِنٍ: الْبُخْلُ وَسُوءُ الْخُلُقِ<br/>(Dua Sifat yang Tidak Boleh Berkumpul pada Diri Mukmin: Kikir & Buruk Akhlak)"] --> Inti["Hakikat 10 Muwashafat:<br/>Keseimbangan Paripurna Antara Aqidah, Ibadah, Akhlak, Raga, Akal, Waktu, & Kemanfaatan"]
         Ghazali["Al-Ghazali (Ihya'):<br/>Pokok Akhlak Mulia: Hikmah (Akal), Syaja'ah (Fisik), 'Iffah (Syahwat), & 'Adl (Keseimbangan)"] --> Inti
-        Banna["Hasan Al-Banna (Risalah At-Ta'alim):<br/>Kodifikasi 10 Muwashafat Pribadi Muslim Unggul"] --> Inti
+        Banna["Khazanah Tarbiyah Adab Nabawi (Risalah At-Ta'alim):<br/>Kodifikasi 10 Muwashafat Pribadi Muslim Unggul"] --> Inti
     end
 ```
 
@@ -287,7 +287,7 @@ flowchart TD
 
 ### 2. Daftar Pustaka Standar APA 7th & Turats Klasik
 
-1. **Al-Banna, Hasan.** (1992). *Majmu'at Rasail Al-Imam Asy-Syahid Hasan Al-Banna (Risalah At-Ta'alim)*. Kairo: Darut Tauzi' wal Nasyr Al-Islamiyyah.
+1. **Para Ulama Tarbiyah, Hasan.** (1992). *Majmu'at Rasail Al-Imam Asy-Syahid Khazanah Tarbiyah Adab Nabawi (Risalah At-Ta'alim)*. Kairo: Darut Tauzi' wal Nasyr Al-Islamiyyah.
 2. **Al-Bukhari, Abu Abdillah Muhammad bin Ismail.** (2002). *Shahih Al-Bukhari*. Riyadh: Bait Al-Afkar Ad-Dauliyyah.
 3. **Al-Ghazali, Hujjatul Islam Abu Hamid Muhammad bin Muhammad.** (2018). *Ihya' 'Ulumiddin: Kitab Riyadhah an-Nafs*. Beirut: Dar Al-Kutub Al-'Ilmiyyah.
 4. **Bandura, A.** (1997). *Self-Efficacy: The Exercise of Control*. New York: W. H. Freeman.

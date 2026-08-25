@@ -226,7 +226,7 @@ flowchart TD
 | Kode Berkas | Judul Monograf Riset | Landasan Teori Utama | Fokus Inovasi Profil Lulusan |
 | :---: | :--- | :--- | :--- |
 | **P3-01-01** | Triad Profil Kapasitas | Triad Pertumbuhan Simbiotik, Bronfenbrenner | Standar simbiotik Santri, Musyrif, & Kelembagaan. |
-| **P3-01-02** | Kompetensi Inti 10 Karakter | Taksonomi Muwashafat Hasan Al-Banna, CASEL | Taksonomi 10 karakter santri di Jenjang J4. |
+| **P3-01-02** | Kompetensi Inti 10 Karakter | Taksonomi Muwashafat Khazanah Tarbiyah Adab Nabawi, CASEL | Taksonomi 10 karakter santri di Jenjang J4. |
 | **P3-01-03** | Standar Kompetensi Qudwah Musyrif | *Tarbiyatul Murabbi*, Wasiat Umar RA, BARS | Standar keteladanan musyrif & diklat 40 jam bersertifikat. |
 | **P3-01-04** | Standar Kapasitas Kelembagaan | QS. 4:58, Peter Senge (*Learning Org*), Edmondson | Transformasi pesantren ke institusi pembelajar berbasis data. |
 | **P3-01-05** | Profil Kesiapan Disrupsi Global | QS. 2:143 (*Ummatan Wasathan*), WEF Abad 21 | Nalar mantiq, digital wisdom, & kepemimpinan wasathiyyah. |

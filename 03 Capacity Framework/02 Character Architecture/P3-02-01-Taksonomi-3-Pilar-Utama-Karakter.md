@@ -1,5 +1,5 @@
 # P3-02-01: TAKSONOMI TIGA PILAR UTAMA KARAKTER DAN INTEGRASI FITRAH INSANI
-## *Monograf Riset Akademik: Dekonstruksi Tripartit Karakter Islami (Ruhiyah-Khuluqiyah, Jasadiyah-'Aqliyah, & Munazhzhamah-Khadamiyyah), Pemetaan 10 Muwashafat Hasan Al-Banna, Integrasi Lima Kompetensi CASEL SEL, serta Landasan Epistemologi Taksonomi Adab Pesantren*
+## *Monograf Riset Akademik: Dekonstruksi Tripartit Karakter Islami (Ruhiyah-Khuluqiyah, Jasadiyah-'Aqliyah, & Munazhzhamah-Khadamiyyah), Pemetaan 10 Muwashafat Khazanah Tarbiyah Adab Nabawi, Integrasi Lima Kompetensi CASEL SEL, serta Landasan Epistemologi Taksonomi Adab Pesantren*
 
 **Nomor Identifikasi**: `P3-02-01/MONOGRAF-RISET-TAKSONOMI-3-PILAR-KARAKTER/2026`  
 **Domain**: `03 Capacity Framework` > `02 Character Architecture`  
@@ -76,7 +76,7 @@ graph TD
     A["Gugatan Reduksionisme (Pihak A):<br/>'Karakter Islam itu cukup akidah dan shalat saja; kerapian kamar mandi dan manajemen waktu itu urusan duniawi sekuler!'"]
     --> B1["Tinjauan Hadits Shahih Muwatha' Malik No. 1614:<br/>'Innama bu'itstu li-utammima makaarimal akhlaaq' (Misi kenabian adalah menyempurnakan seluruh spektrum kemuliaan akhlak)."]
     A --> B2["Tinjauan Syarah Kitab Ihya' 'Ulumiddin (Al-Ghazali):<br/>Akhlak adalah Hay'ah Rasiyyah (watak batin yang kokoh) yang memancar spontan dalam seluruh amal perbuatan dhohir."]
-    A --> B3["Tinjauan Risalah Hasan Al-Banna (10 Muwashafat):<br/>Karakter muslim paripurna wajib menghimpun akidah, ibadah, akhlak, fisik, akal, mujahadah, waktu, kerapian, usaha, dan manfaat."]
+    A --> B3["Tinjauan Risalah Khazanah Tarbiyah Adab Nabawi (10 Muwashafat):<br/>Karakter muslim paripurna wajib menghimpun akidah, ibadah, akhlak, fisik, akal, mujahadah, waktu, kerapian, usaha, dan manfaat."]
     B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Kerapian, disiplin waktu, dan khidmah sosial adalah manifestasi tak terpisahkan dari kesalehan akidah."]
 ```
 
@@ -253,7 +253,7 @@ flowchart TD
 3. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
 4. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
 5. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
-6. **Al-Banna, Hasan**. (2006). *Majmu'ah Rasail al-Imam asy-Syahid Hasan al-Banna*. Kairo: Dar at-Tawzi' wal-Nasyr al-Islamiyyah.
+6. **Para Ulama Tarbiyah, Hasan**. (2006). *Majmu'ah Rasail al-Imam asy-Syahid khazanah tarbiyah adab nabawi*. Kairo: Dar at-Tawzi' wal-Nasyr al-Islamiyyah.
 7. **CASEL**. (2020). *CASEL's SEL Framework: What Are the Core Competence Areas and Where Are They Promoted?*. Chicago: CASEL.
 8. **Marzano, R. J., & Kendall, J. S.**. (2007). *The New Taxonomy of Educational Objectives*. Corwin Press.
 9. **Liker, J. K.**. (2004). *The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer*. McGraw-Hill.
@@ -280,7 +280,7 @@ flowchart TD
 
 1. **Educational Taxonomy (Taksonomi Pendidikan)**: Sistem klasifikasi terstruktur yang mengelompokkan tujuan dan kompetensi pembelajaran ke dalam domain-domain hierarkis.
 2. **Social-Emotional Learning (CASEL SEL)**: Proses pengembangan kemampuan anak dan remaja dalam memahami dan mengelola emosi, menetapkan tujuan positif, menunjukkan empati, dan membangun hubungan sehat.
-3. **Muwashafat (مُوَاصَفَاتٌ)**: Standar profil karakter ideal yang dirumuskan oleh Imam Hasan Al-Banna mencakup 10 dimensi integritas pribadi muslim.
+3. **Muwashafat (مُوَاصَفَاتٌ)**: Standar profil karakter ideal yang dirumuskan oleh Imam Khazanah Tarbiyah Adab Nabawi mencakup 10 dimensi integritas pribadi muslim.
 4. **Hay'ah Rasikhah (هَيْئَةٌ رَاسِخَةٌ)**: Kondisi kejiwaan yang tertanam kokoh di dalam jiwa sehingga melahirkan perilaku lahiriah secara spontan tanpa perlu rekayasa berat.
 5. **Self-Regulation (Regulasi Diri)**: Kapasitas mental untuk mengontrol impuls dorongan biologis/emosional demi mencapai tujuan luhur jangka panjang (*Mujahadah*).
 6. **5S Methodology (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)**: Metode penataan ruang kerja/kamar yang teratur, bersih, terstandarisasi, dan disiplin.

@@ -35,7 +35,7 @@ flowchart LR
 
 ### 2. Landasan Turats & Sains
 
-Rasulullah SAW bersabda: *"Sesungguhnya yang terbaik di antara kalian adalah yang paling baik akhlaknya"* (HR. Al-Bukhari No. 6035). Hasan Al-Banna merumuskan 10 Karakter Dasar Muslim (*Al-Muwashafāt Al-'Asyarah*) sebagai kompendium kompetensi holistik pembinaan insan. W. James Popham (1997) dan Robert Marzano (2006) menegaskan bahwa asesmen karakter dan kinerja hanya valid dan reliabel jika menggunakan *Analytic Rubric* yang memuat dimensi jelas, skala bertingkat, dan deskriptor perilaku eksplisit (*Explicit Behavioral Descriptors*). Penelitian psikometri membuktikan rubrik berbasis kriteria meningkatkan reliabilitas antar-penilai (*Inter-Rater Reliability*) dari $r = 0.32$ (sangat rendah) menjadi $r = 0.94$ (sangat tinggi).[^2]
+Rasulullah SAW bersabda: *"Sesungguhnya yang terbaik di antara kalian adalah yang paling baik akhlaknya"* (HR. Al-Bukhari No. 6035). Khazanah Tarbiyah Adab Nabawi merumuskan 10 Karakter Dasar Muslim (*Al-Muwashafāt Al-'Asyarah*) sebagai kompendium kompetensi holistik pembinaan insan. W. James Popham (1997) dan Robert Marzano (2006) menegaskan bahwa asesmen karakter dan kinerja hanya valid dan reliabel jika menggunakan *Analytic Rubric* yang memuat dimensi jelas, skala bertingkat, dan deskriptor perilaku eksplisit (*Explicit Behavioral Descriptors*). Penelitian psikometri membuktikan rubrik berbasis kriteria meningkatkan reliabilitas antar-penilai (*Inter-Rater Reliability*) dari $r = 0.32$ (sangat rendah) menjadi $r = 0.94$ (sangat tinggi).[^2]
 
 ### 3. Rekayasa Matriks 4 Tingkat Kemandirian (T1 – T4)
 
@@ -163,7 +163,7 @@ flowchart TD
 
 1. **Popham, W. J.** (1997). *What's wrong—and what's right—with rubrics*. *Educational Leadership*, 55(2), 72-75.
 2. **Marzano, R. J.** (2006). *Classroom Assessment & Grading That Work*. Alexandria: ASCD.
-3. **Al-Banna, Hasan.** (1992). *Risālatut Ta'ālīm* (Al-Arkān Al-'Asyarah wa Al-Muwashafāt). Kairo: Dar At-Tawzi' wan Nasyr Al-Islamiyyah.
+3. **Para Ulama Tarbiyah, Hasan.** (1992). *Risālatut Ta'ālīm* (Al-Arkān Al-'Asyarah wa Al-Muwashafāt). Kairo: Dar At-Tawzi' wan Nasyr Al-Islamiyyah.
 4. **Al-Bukhari, Muhammad bin Ismail.** (2002). *Shahih Al-Bukhari No. 6035* (Hadits Khiyarukum Ahsanukum Akhlaqan). Damaskus: Dar Ibn Katsir.
 
 [^1]: W. James Popham mengenai distorsi dan kriteria instrumen rubrik yang valid dalam mengukur performa perilaku pembelajar, Popham (1997, hlm. 73).

@@ -45,7 +45,7 @@
 | **33** | **Imam Al-Ghazali** | *Kimiya-yi Sa'adat (Kimia Kebahagiaan)* | Abad 5 H | Transformasi jiwa & kebahagiaan sejati dalam pembinaan di **Domain 01**. |
 | **34** | **Imam Ibn Khas** | *Adab an-Nisa' fi al-Islam* | Abad 6 H | Pengasuhan & adab khusus santriwati di asrama di **Domain 07, 08**. |
 | **35** | **Syekh Muhammad Al-Ghazali** | *Khuluq al-Muslim* | 1990 M | Relevansi akhlak muslim kontemporer dalam kedisiplinan di **Domain 03**. |
-| **36** | **Dr. Yusuf Al-Qaradawi** | *At-Tarbiyah al-Islamiyyah wa Madrasat Hasan al-Banna* | 1992 M | Metodologi tarbiyah holistik & pembentukan muwashafat di **Domain 03, 04**. |
+| **36** | **Dr. Yusuf Al-Qaradawi** | *At-Tarbiyah al-Islamiyyah wa Madrasat khazanah tarbiyah adab nabawi* | 1992 M | Metodologi tarbiyah holistik & pembentukan muwashafat di **Domain 03, 04**. |
 | **37** | **Imam Raghib Al-Isfahani** | *Al-Dhari'ah ila Makarim al-Syari'ah* | Abad 5 H | Jalan menuju keluhuran syariat & adab kepemimpinan di **Domain 01, 02**. |
 | **38** | **Imam Abu Bakr Al-Ajurri** | *Akhlaq al-Ulama'* | Abad 4 H | Budi pekerti ulama & pengasuh santri di **Domain 02, 07**. |
 | **39** | **Imam Abu Bakr Al-Ajurri** | *Akhlaq Hamalat al-Qur'an* | Abad 4 H | Etika & adab para penghafal Al-Qur'an di **Domain 10**. |

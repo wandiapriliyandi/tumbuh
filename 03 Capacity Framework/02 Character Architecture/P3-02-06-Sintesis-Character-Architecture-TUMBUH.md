@@ -219,7 +219,7 @@ flowchart TD
 
 | Kode Berkas | Judul Monograf Riset | Landasan Teori Utama | Fokus Inovasi Arsitektur Karakter |
 | :---: | :--- | :--- | :--- |
-| **P3-02-01** | Taksonomi 3 Pilar Karakter | 10 Muwashafat Al-Banna, CASEL SEL | Tripartit Ruhiyah, Ketangguhan, & Keteraturan-Khidmah. |
+| **P3-02-01** | Taksonomi 3 Pilar Karakter | 10 Muwashafat Para Ulama Tarbiyah, CASEL SEL | Tripartit Ruhiyah, Ketangguhan, & Keteraturan-Khidmah. |
 | **P3-02-02** | Struktur Gradasi 4 Level | *Maratibul Iman*, Deci & Ryan SDT, ZPD | Jenjang Kemandirian TUMBUH (J1–J4) T1 (Kepatuhan) s/d T4 (Penggerak Qudwah). |
 | **P3-02-03** | Penyelarasan Turats-Bloom | *Ta'dib* Al-Attas, Marzano, Bloom Revisi | Integrasi C1-C6 ke pendakian Ta'lim-Tarbiyah-Ta'dib-Tazkiyah. |
 | **P3-02-04** | Skema Rubrik BARS Teramati | *Bayyinah*, BARS Smith-Kendall, Fast-Log| Deskriptor konkret teramati 24 jam & mitigasi 4 bias. |
@@ -235,7 +235,7 @@ flowchart TD
 3. **Muslim bin al-Hajjaj an-Naisaburi**. (1374 H). *Shahih Muslim*. Kairo: Isa al-Babi al-Halabi.
 4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
 5. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
-6. **Al-Banna, Hasan**. (2006). *Majmu'ah Rasail al-Imam asy-Syahid Hasan al-Banna*. Kairo.
+6. **Para Ulama Tarbiyah, Hasan**. (2006). *Majmu'ah Rasail al-Imam asy-Syahid khazanah tarbiyah adab nabawi*. Kairo.
 7. **Smith, P. C., & Kendall, L. M.**. (1963). *Retranslation of expectations*. Journal of Applied Psychology.
 8. **Aiken, L. R.**. (1985). *Three coefficients for analyzing ratings*. Educational and Psychological Measurement.
 9. **Ryan, R. M., & Deci, E. L.**. (2000). *Self-determination theory*. American Psychologist.

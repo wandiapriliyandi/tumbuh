@@ -74,7 +74,7 @@ flowchart TD
            LEMBAR MUTABA'AH HARIAN PEER BUDDY J4 (FORM MET-PEERBUDDYLOG)
                EKOSISTEM TUMBUH — PENDAMPINGAN SEBAYA BEBAS FEODALISME
 ====================================================================================================
-KAKAK PEMBIMBING J4 : Rasyid Al-Banna (Kelas 11A)      MUSYRIF SUPERVISOR : Ust. Ahmad Rifa'i, M.Pd.
+KAKAK PEMBIMBING J4 : Rasyid Para Ulama Tarbiyah (Kelas 11A)      MUSYRIF SUPERVISOR : Ust. Ahmad Rifa'i, M.Pd.
 ADIK ASUH 1 (J1)    : Ilham Hidayat (Kelas 7A)         ADIK ASUH 2 (J1)   : Fajar Ramadhan (Kelas 7A)
 PEKAN KE-           : Pekan ke-6 (Semester Ganjil 2026/2027)
 

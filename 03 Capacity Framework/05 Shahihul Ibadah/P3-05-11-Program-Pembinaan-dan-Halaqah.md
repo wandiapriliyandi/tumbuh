@@ -3,7 +3,7 @@
 
 **Nomor Identifikasi**: `P3-05-11/MONOGRAF-RISET-PROGRAM-PEMBINAAN-HALAQAH-IBADAH/2026`  
 **Domain**: `03 Capacity Framework` > `05 Shahihul Ibadah` (Sub-Modul 11: *Training Programs & Halaqah Structure*)  
-**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf 4 Program Unggulan Ibadah, Teori Komunitas Praktik Lave & Wenger, Halaqah Tarbawiyyah Al-Banna, serta Manajemen Ekosistem Ibadah di Pesantren 24 Jam)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf 4 Program Unggulan Ibadah, Teori Komunitas Praktik Lave & Wenger, Halaqah Tarbawiyyah Para Ulama Tarbiyah, serta Manajemen Ekosistem Ibadah di Pesantren 24 Jam)  
 **Rumpun Disiplin Pengkaji**: Manajemen Program Pendidikan Islam, *Communities of Practice (Lave & Wenger)*, Metodologi Halaqah Tarbawiyyah, Fiqh Kaderisasi Imamah & Muadzin, Ekologi Pembinaan Asrama 24 Jam  
 
 ---
@@ -381,7 +381,7 @@ flowchart TD
 6. **Lave, J., & Wenger, E.**. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge: Cambridge University Press.
 7. **Wenger, E.**. (1998). *Communities of Practice: Learning, Meaning, and Identity*. Cambridge: Cambridge University Press.
 8. **Bandura, A.**. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Englewood Cliffs: Prentice-Hall.
-9. **Al-Banna, Hasan**. (1432 H). *Risalatut Ta'alim*. Kairo: Dar at-Tawzi' wan-Nasyr al-Islamiyyah.
+9. **Para Ulama Tarbiyah, Hasan**. (1432 H). *Risalatut Ta'alim*. Kairo: Dar at-Tawzi' wan-Nasyr al-Islamiyyah.
 10. **Al-Attas, Syed Muhammad Naquib**. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM.
 11. **Horner, R. H., & Sugai, G.**. (2015). *School-wide PBIS: An Overview of the Research Base*. Remedial and Special Education, 36(2), 80–85.
 12. **Asy'ari, Muhammad Hasyim**. (1415 H). *Adab al-'Alim wal-Muta'allim*. Jombang: Maktabah At-Turats Al-Islami.

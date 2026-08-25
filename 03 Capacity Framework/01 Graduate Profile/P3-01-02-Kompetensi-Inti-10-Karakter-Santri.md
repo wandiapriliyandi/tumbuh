@@ -1,5 +1,5 @@
 # P3-01-02: KOMPETENSI INTI 10 KARAKTER SANTRI DAN INTEGRASI CASEL SEL
-## *Monograf Terpadu: Taksonomi Holistik 10 Muwashafat Karakter Islami (Hasan Al-Banna), Integrasi 5 Kompetensi CASEL Social-Emotional Learning, Penjenjangan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, dan Rubrik Perilaku Teramati (BARS Ipsatif)*
+## *Monograf Terpadu: Taksonomi Holistik 10 Muwashafat Karakter Islami (Khazanah Tarbiyah Islamiyah), Integrasi 5 Kompetensi CASEL Social-Emotional Learning, Penjenjangan Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, dan Rubrik Perilaku Teramati (BARS Ipsatif)*
 
 **Nomor Identifikasi**: `P3-01-02/MONOGRAF-TERPADU-KOMPETENSI-10-KARAKTER-SANTRI/2026`  
 **Domain**: `03 Capacity Framework` > `01 Graduate Profile`  
@@ -33,7 +33,7 @@
 
 - [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Kerangka Metodologi Taksonomi Karakter: Memadukan Turats Muwashafat dengan Sains SEL](#1-kerangka-metodologi-taksonomi-karakter-memadukan-turats-muwashafat-dengan-sains-sel)
-  - [2. Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi](#2eksegesis-turats-10-karakter-muwashafat-hasan-al-banna-adab-nabawi)
+  - [2. Eksegesis Turats 10 Karakter Muwashafat Khazanah Tarbiyah Adab Nabawi & Adab Nabawi](#2eksegesis-turats-10-karakter-muwashafat-adab-nabawi-adab-nabawi)
   - [3. Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam](#3konvergensi-5-kompetensi-casel-sel-ke-dalam-matriks-perilaku-santri-24-jam)
   - [4. Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4progresi-jenjang-kemandirian-tumbuh-j1j4-j1j4-gradualisme-syari-menuju-tahap-7-penggerak)
   - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
@@ -59,7 +59,7 @@ Pendidikan karakter di pesantren sering kali mengalami kegagalan pengukuran (*Me
 * Karakter hanya diajarkan sebagai teori abstrak di kelas kitab (misalnya "santri harus tawadhu' dan sabar"), tanpa indikator perilaku teramati (*Observable Behavioral Descriptors*) yang jelas di kehidupan asrama 24 jam.
 * Asatidz kesulitan menilai apakah seorang santri sudah memiliki kemandirian adab atau sekadar berpura-pura patuh saat diawasi.
 
-Ekosistem TUMBUH memecahkan kebuntuan ini dengan menyintesiskan **10 Karakter Muwashafat Islami (*Hasan Al-Banna*)** dengan **5 Kompetensi CASEL Social-Emotional Learning** ke dalam sebuah taksonomi operasional yang dapat diamati dan dinilai secara ipsatif sepanjang tangga pertumbuhan J1–J4.
+Ekosistem TUMBUH memecahkan kebuntuan ini dengan menyintesiskan **10 Karakter Muwashafat Islami (*Khazanah Tarbiyah Adab Nabawi*)** dengan **5 Kompetensi CASEL Social-Emotional Learning** ke dalam sebuah taksonomi operasional yang dapat diamati dan dinilai secara ipsatif sepanjang tangga pertumbuhan J1–J4.
 
 ```mermaid
 flowchart TD
@@ -77,13 +77,13 @@ flowchart TD
 
 ---
 
-### 2. Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi
+### 2. Eksegesis Turats 10 Karakter Muwashafat Khazanah Tarbiyah Adab Nabawi & Adab Nabawi
 
 ```mermaid
 graph TD
     A["Gugatan Dikotomi Karakter (Pihak A):<br/>'Yang penting di pesantren itu akidah dan ibadah saja; manajemen waktu dan kerapian kamar itu urusan sepele!'"]
     --> B1["Tinjauan Hadits Jibril (Islam, Iman, Ihsan):<br/>Agama adalah kesatuan integral yang mencakup keyakinan hati, amalan lahir, dan keindahan akhlak."]
-    A --> B2["Tinjauan Risalah Ta'alim Hasan Al-Banna:<br/>10 Muwashafat merumuskan profil kader muslim holistik: spiritual, intelektual, fisik, moral, & manajerial."]
+    A --> B2["Tinjauan Risalah Ta'alim Khazanah Tarbiyah Adab Nabawi:<br/>10 Muwashafat merumuskan profil kader muslim holistik: spiritual, intelektual, fisik, moral, & manajerial."]
     A --> B3["Tinjauan Kitab Ihya 'Ulumiddin Al-Ghazali:<br/>Kerapian lahiriah (Munazhzham) dan disiplin waktu adalah cermin ketertiban batin."]
     B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>10 Muwashafat adalah pilar taksonomi karakter muslim paripurna yang tidak boleh dipilah-pilah."]
 ```
@@ -258,7 +258,7 @@ flowchart TD
 
 | Dimensi Kajian | Konsep Kunci | Landasan Turats Primer | Konvergensi Sains Global | Implikasi Kurikulum Santri |
 | :--- | :--- | :--- | :--- | :--- |
-| **Taksonomi Karakter**| *10 Muwashafat* | Hasan Al-Banna (*Risalah at-Ta'alim*) | CASEL SEL Framework (2020) | Menstandarisasikan 10 kompetensi holistik santri. |
+| **Taksonomi Karakter**| *10 Muwashafat* | Khazanah Tarbiyah Adab Nabawi (*Risalah at-Ta'alim*) | CASEL SEL Framework (2020) | Menstandarisasikan 10 kompetensi holistik santri. |
 | **Kemandirian Bertahap**| *Jenjang J1–J4* | Hadits Tadarruj (HR. Bukhari 'Aisyah RA) | Vygotsky (1978), *Scaffolding ZPD* | Menumbuhkan karakter secara bertahap tanpa paksaan instan. |
 | **Pengukuran Objektif**| *BARS Ipsatif* | QS. Asy-Syu'ara: 88–89 (*Qalbin Salim*) | Hughes (2014), *Ipsative Assessment* | Mengukur kemajuan personal santri tanpa ranking toksik. |
 | **Kemandirian Vokasi**| *Qadirun 'alal Kasb* | Hadits Kasb Thayyib (HR. Ahmad 8419) | SDT Deci & Ryan (2000), *Autonomy* | Membekali santri dengan jiwa kewirausahaan mandiri. |
@@ -269,7 +269,7 @@ flowchart TD
 
 1. **Al-Qur'an al-Karim wa Tarjamatu Ma'anih**.
 2. **Al-Bukhari, Muhammad bin Isma'il**. (1422 H). *Shahih al-Bukhari*. Beirut: Dar Thawq an-Najah.
-3. **Al-Banna, Hasan**. (1992). *Majmu'atu Rasa'il al-Imam asy-Syahid Hasan al-Banna* (Risalah at-Ta'alim). Kairo: Dar at-Tawzi' wal-Nasyr al-Islamiyyah.
+3. **Para Ulama Tarbiyah, Hasan**. (1992). *Majmu'atu Rasa'il al-Imam asy-Syahid khazanah tarbiyah adab nabawi* (Risalah at-Ta'alim). Kairo: Dar at-Tawzi' wal-Nasyr al-Islamiyyah.
 4. **Al-Ghazali, Abu Hamid Muhammad bin Muhammad**. (2011). *Ihya 'Ulumiddin*. Beirut: Dar al-Ma'rifah.
 5. **CASEL**. (2020). *CASEL's SEL Framework: What Are the Core Competence Areas and Where Are They Promoted?* Chicago: Collaborative for Academic, Social, and Emotional Learning.
 6. **Hughes, G.**. (2014). *Ipsative Assessment: Motivation through marking progress*. London: Palgrave Macmillan.
@@ -282,7 +282,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Hasan Al-Banna, *Risalah at-Ta'alim*, Rukun Bai'ah ke-4 (*al-'Amal*), hlm. 270–275.  
+[^1]: Khazanah Tarbiyah Adab Nabawi, *Risalah at-Ta'alim*, Rukun Bai'ah ke-4 (*al-'Amal*), hlm. 270–275.  
 [^2]: CASEL (2020), *SEL Framework Core Competencies*, Chicago.  
 [^3]: Durlak, J. A. et al. (2011), *Child Development*, hlm. 405–432.  
 [^4]: Shahih al-Bukhari No. 52, Kitab *al-Iman*, Bab *Fadhlu Man Istabra'a Li Diinih*.  
@@ -296,7 +296,7 @@ flowchart TD
 
 ### 4. Glosarium Teknis 10 Muwashafat, CASEL SEL, & Jenjang J1–J4
 
-1. **Muwashafat (الْمُوَاصَفَاتُ)**: Sepuluh profil standar kualitas karakter pribadi muslim ideal yang dirumuskan oleh Imam Hasan Al-Banna dalam *Risalah at-Ta'alim*.
+1. **Muwashafat (الْمُوَاصَفَاتُ)**: Sepuluh profil standar kualitas karakter pribadi muslim ideal yang dirumuskan oleh Imam Khazanah Tarbiyah Adab Nabawi dalam *Risalah at-Ta'alim*.
 2. **CASEL SEL**: Kerangka kerja pembelajaran sosial-emosional internasional yang memetakan lima kompetensi inti: Kesadaran Diri, Manajemen Diri, Kesadaran Sosial, Keterampilan Berelasi, dan Pengambilan Keputusan Bertanggung Jawab.
 3. **BARS (Behaviorally Anchored Rating Scales)**: Skala penilaian psikometri yang menggunakan deskripsi perilaku teramati konkret sebagai jangkar tingkatan nilai.
 4. **Asesmen Ipsatif**: Evaluasi kemajuan belajar yang membandingkan performa santri saat ini dengan performa awalnya di masa lalu, bukan membandingkannya dengan santri lain.
