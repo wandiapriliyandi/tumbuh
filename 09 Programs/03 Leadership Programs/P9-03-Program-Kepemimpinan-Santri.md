@@ -1,26 +1,49 @@
-# P9-03: Program Kepemimpinan Santri
+# P9-03: DOKUMEN INDUK PROGRAM KEPEMIMPINAN SANTRI PESANTREN
+## *Arsitektur dan Standarisasi Program Kaderisasi Servant Leadership Santri Jenjang J4, Program Mentoring Sebaya (Peer Buddy System) Rasio 1:2 Bebas Feodalisme, Serta Program Musyawarah Restoratif Dwi-Pekanan Dewan Santri sebagai Tiga Pilar Kepemimpinan Pelayan Qudwah (Servant Leadership LKSL Form PRO-LKSLJ4, Peer Buddy System Form PRO-PeerBuddy, Serta Restorative Council Form PRO-MusyawarahOSIS) di Ekosistem TUMBUH Pesantren*
 
-## Status Dokumen
-* **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
-* **Sub-Domain**: `09 Programs / 03 Leadership Programs`
-* **Penanggung Jawab Keilmuan**: Dewan Keilmuan TUMBUH (*Pakar Tata Kelola Qudwah & Pakar Psikologi Sosial Santri*)
+**Nomor Identifikasi**: `P9-03/DOKUMEN-INDUK-PROGRAM-KEPEMIMPINAN-SANTRI/2026`  
+**Domain**: `09 Programs` > `03 Leadership Programs` (Gugus Sub-Domain 03: *Student Leadership & Peer Mentoring Programs*)  
+**Klasifikasi Naskah**: *Master Architecture & Navigation Monograph*  
+**Rumpun Disiplin Pengkaji**: Servant Leadership Theory (Greenleaf), Peer Learning & Tutoring (Topping), Communicative Action (Habermas), Fiqh Al-Imamah wal Khidmah  
 
 ---
 
-## 1. Konseptualisasi Program Kepemimpinan Santri Qudwah T4
+> ### 💡 INTISARI EKSEKUTIF
+>
+> * **Kedudukan Strategis Gugus Program Kepemimpinan Santri:** Gugus ini adalah inkubator kepemimpinan peradaban (*civilizational leadership incubator*) di ekosistem TUMBUH. Membongkar tuntas tradisi feodalisme senioritas, perpeloncoan, dan arogansi kekuasaan yang merusak pesantren tradisional, pendekatan ini mencetak generasi santri penggerak Jenjang J4 yang memimpin dengan keteladanan nyata (*Qudwah Hasanah*), melayani adik kelas dengan kasih sayang (*Servant Leadership*), dan mengelola organisasi melalui musyawarah deliberatif yang egaliter (*Leading by Serving, Inspiring by Example*).
+> * **Triad Program Kepemimpinan Santri TUMBUH:** (1) **Kaderisasi LKSL J4** (Latihan Kepemimpinan Servant Leadership 32 Jam) berbasis sumpah ikrar qudwah, (2) **Peer Buddy System 1:2** untuk pendampingan hafalan, belajar diniyyah, dan afeksi santri baru, dan (3) **Musyawarah Restoratif OSIS** dwi-pekanan berbasis diskursus bebas dominasi Habermas.
+> * **3 Monograf Riset Komprehensif:** Form PRO-LKSLJ4, Form PRO-PeerBuddy, dan Form PRO-MusyawarahOSIS.
 
-Program Kepemimpinan (*Leadership Programs*) melatih santri senior yang mencapai Jenjang J4 menjadi pemimpin bertipe **Servant Leader** yang melayani dan mengayomi adik kelas:
+---
+
+## 📑 PETA NAVIGASI TIGA MONOGRAF
 
 ```mermaid
-graph TD
-    LeadPillars["3 Pilar Program Kepemimpinan Santri"]
-    LeadPillars --> ServantKader["1. Kaderisasi Servant Leadership T4<br/>Pelatihan kepemimpinan berbasis keteladanan, kerendahan hati, & kepedulian sosial."]
-    LeadPillars --> PeerBuddyProg["2. Program Peer Buddy Mentoring<br/>Penugasan pendampingan 1 santri senior T4 untuk 2 adik kelas T1/T2."]
-    LeadPillars --> RestorativeCouncil["3. Forum Musyawarah Restoratif OSIS<br/>Pengelolaan dinamika kegiatan santri melalui musyawarah terbuka tanpa intimidasi."]
+flowchart TD
+    subgraph LeadershipProgramsFramework["STRUKTUR 3 MONOGRAF PROGRAM KEPEMIMPINAN SANTRI TUMBUH"]
+        M01["[P9-03-01] Program Kaderisasi Servant Leadership J4<br/>• Sayyidu al-Qawmi Khādimuhum | Greenleaf Servant Leadership, Van Dierendonck, & Sumpah Qudwah"]
+        M02["[P9-03-02] Program Mentoring Sebaya Peer Buddy System<br/>• Al-Mu'ākhāh | Topping Cross-Age Tutoring, Vygotsky ZPD Scaffolding, & 1:2 Buddy Pairing"]
+        M03["[P9-03-03] Program Musyawarah Restoratif OSIS<br/>• Wa Amruhum Syūrā | Habermas Communicative Action, Restorative Governance, & Egalitarian Diskursus"]
+        M01 --> M02 --> M03
+    end
 ```
 
 ---
 
-## 2. Pemurnian dari Budaya Senioritas Intimidatif
+## 📚 DESKRIPSI RINGKAS 3 BERKAS MONOGRAF
 
-Program kepemimpinan ini secara mutlak menghapuskan hak senior untuk menghukum atau memperpelonco adik kelas, menggantinya dengan amanah keteladanan adab (*Qudwah Hasanah*).
+1. **[P9-03-01: Program Kaderisasi Servant Leadership Santri T4](file:///c:/xampp/htdocs/tumbuh/09%20Programs/03%20Leadership%20Programs/P9-03-01-Program-Kaderisasi-Servant-Leadership-Santri-T4.md)**  
+   *Kurikulum LKSL J4 32 jam 4 modul (khidmah, non-violent communication, peer tutoring, pakta integritas), naskah ikrar sumpah qudwah, dan Form PRO-LKSLJ4.*
+2. **[P9-03-02: Program Mentoring Sebaya Peer Buddy System](file:///c:/xampp/htdocs/tumbuh/09%20Programs/03%20Leadership%20Programs/P9-03-02-Program-Mentoring-Sebaya-Peer-Buddy-System.md)**  
+   *Sistem pasangan persaudaraan Mu'akhah 1 senior J4 : 2 adik J1, tiga misi harian (peer tutoring tahfizh 20 mnt, makan nampan ukhuwah, emotional support), dan Form PRO-PeerBuddy.*
+3. **[P9-03-03: Program Musyawarah Restoratif OSIS dan Dewan Santri](file:///c:/xampp/htdocs/tumbuh/09%20Programs/03%20Leadership%20Programs/P9-03-03-Program-Musyawarah-Restoratif-OSIS-dan-Dewan-Santri.md)**  
+   *Musyawarah dwi-pekanan 4 agenda (evaluasi data SIM, aspirasi junior, proyek khidmah, muhasabah qudwah), tata tertib sidang bebas dominasi, notulensi syura, dan Form PRO-MusyawarahOSIS.*
+
+---
+
+## 🎯 STANDAR PENJAMINAN MUTU KEPEMIMPINAN SANTRI
+
+Penerapan gugus **Program Kepemimpinan Santri** menjamin bahwa:
+1. **Seluruh Struktur Organisasi Santri Bersih dari Feodalisme dan Perpeloncoan (*Zero Hazing Guarantee*)**: Menjamin kepemimpinan santri berfungsi murni sebagai pelindung dan pelayan.
+2. **Transfer Adab dan Keilmuan Terjadi Secara Alami Antar-Generasi (*Seamless Value Scaffolding Guarantee*)**: Peer Buddy memastikan santri baru bertumbuh dalam dekapan persaudaraan hangat.
+3. **Santri Terlatih Menjadi Negosiator Damai dan Pengambil Keputusan Bijak (*Deliberative Governance Guarantee*)**: Musyawarah restoratif melahirkan negarawan muda muslim yang matang.
