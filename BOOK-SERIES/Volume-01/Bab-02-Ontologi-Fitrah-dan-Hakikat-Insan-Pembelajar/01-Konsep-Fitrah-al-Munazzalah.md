@@ -1,4 +1,4 @@
-# PANDUAN OPERASIONAL 2.1: KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL
+# KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL
 
 ---
 
@@ -16,9 +16,6 @@
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).

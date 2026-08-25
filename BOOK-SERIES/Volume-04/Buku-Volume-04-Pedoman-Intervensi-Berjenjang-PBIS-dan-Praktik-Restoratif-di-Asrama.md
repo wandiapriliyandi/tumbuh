@@ -1,4 +1,4 @@
-# BUKU PANDUAN VOLUME 04: INTERVENSI BERJENJANG PBIS & DISIPLIN RESTORATIF DI ASRAMA
+# BUKU VOLUME 04: INTERVENSI BERJENJANG PBIS & DISIPLIN RESTORATIF DI ASRAMA
 ## *Pedoman Penanganan Pelanggaran, Check-In/Check-Out (CICO), Bimbingan Khusus, & Ishlah Al-Bain*
 
 ---
@@ -52,7 +52,7 @@
 
 ---
 
-# PANDUAN OPERASIONAL 1.1: MATRIKS ESKALASI PENANGANAN KASUS PERILAKU
+# MATRIKS ESKALASI PENANGANAN KASUS PERILAKU
 
 ---
 
@@ -70,9 +70,6 @@
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -398,7 +395,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 1.2: ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)
+# ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)
 
 ---
 
@@ -416,9 +413,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -741,7 +735,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 1.3: PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)
+# PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)
 
 ---
 
@@ -759,9 +753,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -1083,7 +1074,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 2.1: ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA
+# ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA
 
 ---
 
@@ -1101,9 +1092,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -1432,7 +1420,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 2.2: PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION
+# PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION
 
 ---
 
@@ -1450,9 +1438,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -1778,7 +1763,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 2.3: ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH
+# ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH
 
 ---
 
@@ -1796,9 +1781,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -2124,7 +2106,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 2.4: OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN
+# OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN
 
 ---
 
@@ -2142,9 +2124,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -2477,7 +2456,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 2.5: SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS
+# SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS
 
 ---
 
@@ -2495,9 +2474,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -2824,7 +2800,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 3.1: TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF
+# TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF
 
 ---
 
@@ -2842,9 +2818,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -3168,7 +3141,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 3.2: KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)
+# KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)
 
 ---
 
@@ -3186,9 +3159,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -3515,7 +3485,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 3.3: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH
+# MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH
 
 ---
 
@@ -3533,9 +3503,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -3864,7 +3831,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 3.4: SISTEM MENTORING QUDWAH MUSYRIF-SANTRI
+# SISTEM MENTORING QUDWAH MUSYRIF-SANTRI
 
 ---
 
@@ -3882,9 +3849,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -4061,7 +4025,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 3.5: PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT
+# PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT
 
 ---
 
@@ -4079,9 +4043,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -4413,7 +4374,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 4.1: SOP MANAJEMEN KASUS KHUSUS TIER 3
+# SOP MANAJEMEN KASUS KHUSUS TIER 3
 
 ---
 
@@ -4431,9 +4392,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -4760,7 +4718,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 4.2: PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI
+# PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI
 
 ---
 
@@ -4778,9 +4736,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -5105,7 +5060,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 4.3: SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA
+# SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA
 
 ---
 
@@ -5123,9 +5078,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -5447,7 +5399,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 4.4: MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI
+# MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI
 
 ---
 
@@ -5465,9 +5417,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -5791,7 +5740,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 4.5: PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW
+# PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW
 
 ---
 
@@ -5809,9 +5758,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -6136,7 +6082,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 5.1: PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN
+# PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN
 
 ---
 
@@ -6154,9 +6100,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -6480,7 +6423,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 5.2: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
+# SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
 
 ---
 
@@ -6498,9 +6441,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -6828,7 +6768,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 5.3: PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN
+# PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN
 
 ---
 
@@ -6846,9 +6786,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -7172,7 +7109,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 5.4: PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU
+# PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU
 
 ---
 
@@ -7190,9 +7127,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -7514,7 +7448,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 5.5: CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN
+# CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN
 
 ---
 
@@ -7532,9 +7466,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -7853,7 +7784,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 6.1: ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN
+# ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN
 
 ---
 
@@ -7871,9 +7802,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -8047,7 +7975,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 6.2: INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH
+# INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH
 
 ---
 
@@ -8065,9 +7993,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -8247,7 +8172,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 6.3: METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI
+# METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI
 
 ---
 
@@ -8265,9 +8190,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -8451,7 +8373,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 6.4: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
+# PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
 
 ---
 
@@ -8469,9 +8391,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
@@ -8644,7 +8563,7 @@ flowchart TD
 ---
 
 
-# PANDUAN OPERASIONAL 6.5: INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB
+# INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB
 
 ---
 
@@ -8662,9 +8581,6 @@ flowchart TD
 3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
 
 ---
-
----
-
 ### 🎯 Tujuan & Manfaat Panduan
 Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
 1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
