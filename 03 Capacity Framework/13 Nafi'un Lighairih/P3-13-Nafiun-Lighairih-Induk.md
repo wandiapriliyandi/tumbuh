@@ -1,35 +1,96 @@
-# P3-13-Nafiun-Lighairih-Induk (Karakter 10: Bermanfaat bagi Sesama & Khidmah Keumatan)
+# P3-13: DOKUMEN INDUK KAPASITAS 13 — NAFI'UN LIGHAIRIH
+## *Arsitektur Kemanfaatan Sosial, Khidmah Umat, Kepemimpinan Filantropi Peradaban, Zero-Bullying & Anti-Senioritas Feodal di Ekosistem TUMBUH Pesantren*
 
-## Tujuan
-Menetapkan kerangka kapasitas menyeluruh untuk **Karakter 10: Nafi'un Lighairih (Bermanfaat bagi Sesama & Khidmah Keumatan)** sebagai puncak (*Crown of Character*) dari seluruh tangga profil santri lulusan pesantren TUMBUH: mencetak generasi yang memiliki kepekaan sosial tinggi, jiwa pengabdian tulus (*Khidmah*), mendahulukan kepentingan umat (*Itsar*), serta aktif menjadi motor penggerak kebaikan di tengah masyarakat (*Rahmatan lil 'Alamin*).
+**Nomor Identifikasi**: `P3-13/DOKUMEN-INDUK-KAPASITAS-NAFIUN-LIGHAIRIH/2026`  
+**Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Kapasitas Ketigabelas — Mahkota Penutup 10 Muwashafat)  
+**Klasifikasi Naskah**: *Master Navigation & Architecture Document* (Dokumen Induk Peta Jalan Riset & Navigasi 14 Monograf Ilmiah)  
+**Rumpun Disiplin Pengkaji**: Sosiologi Pendidikan Islam, Fiqh Siyasah & Khidmah, School-Wide PBIS Multi-Tier, Psikologi Perilaku Prososial, Servant Leadership  
 
 ---
 
-## 1. 4 Dimensi Karakter Nafi'un Lighairih
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
+>
+> * **Kedudukan Pamungkas Kapasitas Nafi'un Lighairih:**  
+>   *Nafi'un Lighairih* (Kemanfaatan Sosial, Khidmah Umat, & Kepemimpinan Filantropi Peradaban) adalah **mahkota penutup dari seluruh 10 Muwashafat / 10 Kapasitas Insan TUMBUH**. Seluruh kapasitas sebelumnya (aqidah yang lurus, ibadah yang shahih, akhlak mulia, fisik yang kuat, wawasan luas, pengendalian diri, disiplin waktu, keteraturan urusan, dan kemandirian finansial) bermuara pada satu tujuan agung: **menjadikan santri sebagai sumber maslahat dan rahmat terbesar bagi sesama manusia (*Khairun Naas Anfa'uhum lin Naas*)**.
+> * **Integrasi Holistik Turats & Sains Sosial Modern:**  
+>   Kapasitas ini memadukan khazanah Turats agung (*Hadits Anfa'uhum lin-Naas, QS. Al-Hasyr: 9 tentang Al-Itsar, bab Adab ash-Shuhbah wal Ukhuwwah dalam Ihya' 'Ulumiddin Imam Al-Ghazali, dan Hilyatul Auliya' Abu Nu'aim*) dengan sains sosial modern (*Social Capital Theory Robert Putnam, Prosocial Behavior Daniel Batson, Service-Learning Pedagogy, dan School-Wide PBIS Multi-Tier George Sugai*).
+> * **Struktur Lengkap 14 Berkas Monograf Riset Ilmiah:**  
+>   Dokumen induk ini memetakan dan menghubungkan 14 berkas monograf penelitian akademik komprehensif (~360 KB total riset) yang dirancang untuk menjadi pedoman operasional pengasuhan asrama, kurikulum madrasah, dan pengabdian masyarakat 24 jam.
+
+---
+
+## 📑 PETA NAVIGASI 14 MONOGRAF RISET NAFI'UN LIGHAIRIH
+
+Berikut adalah daftar lengkap 14 monograf riset akademik dalam gugus **Kapasitas 13: Nafi'un Lighairih**:
 
 ```mermaid
-graph TD
-    Nafi["Karakter 10: Nafi'un Lighairih"]
-    
-    Nafi --> D1["1. Kepedulian & Pelayanan Teman (Internal Khidmah)<br/>Sigap menolong rekan sakit, sukarela menggantikan tugas teman yang berhalangan, & santun."]
-    Nafi --> D2["2. Pengabdian Masyarakat & Desa Binaan (Community Service)<br/>Mengajar TPA/Madrasah desa, membersihkan masjid lingkungan sekitar, & bakti sosial."]
-    Nafi --> D3["3. Kepeloporan Dakwah Kebaikan (Dakwah Bil Hal & Maqal)<br/>Mengajak kepada kebajikan dengan keteladanan nyata & komunikasi persuasif sejuk."]
-    Nafi --> D4["4. Tanggap Darurat & Kemanusiaan (Humanitarian Action)<br/>Siap siaga menjadi relawan kemanusiaan, peduli korban bencana, & menggalang donasi."]
+flowchart TD
+    subgraph GugusKapasitas13["STRUKTUR 14 MONOGRAF KAPASITAS 13: NAFI'UN LIGHAIRIH"]
+        subgraph FONDASI["I. FONDASI TEOLOGIS & KONSEPTUAL"]
+            M01["[P3-13-01] Filosofi & Landasan Turats Anfa'uhum lin-Naas"]
+            M02["[P3-13-02] Definisi & Konstruk 4 Dimensi Khidmah Bermartabat"]
+            M03["[P3-13-03] Tujuan & Standar Capaian Pembelajaran (CP-NL)"]
+            M04["[P3-13-04] Empat Nilai Inti & Prinsip Khidmah bil-Ikhlas"]
+        end
+
+        subgraph PENGUKURAN["II. TAKSONOMI, PERILAKU, & ASESMEN"]
+            M05["[P3-13-05] Taksonomi Kemanfaatan Fitrah 4 Level (SKI-SKD)"]
+            M06["[P3-13-06] Manifestasi Perilaku Teramati di 5 Setting 24 Jam"]
+            M07["[P3-13-07] Rubrik Analitik Kinerja Kemanfaatan 4-Level"]
+            M08["[P3-13-08] Trajektori Perkembangan Jenjang J1–J4 (Usia 12–18)"]
+            M09["[P3-13-09] Pemetaan Asesmen & Triangulasi Data 360 Derajat"]
+        end
+
+        subgraph PRAKSIS["III. INTERVENSI, DIDAKTIK, & INSTRUMEN"]
+            M10["[P3-13-10] Protokol Intervensi PBIS Multi-Tier & Restorasi Ukhuwah"]
+            M11["[P3-13-11] Program Pembinaan & Silabus Halaqah 24 Pekan"]
+            M12["[P3-13-12] Empat Model Pedagogi & Didaktik Problem-Based Learning"]
+            M13["[P3-13-13] Paket Master Instrumen Lapangan (LOK/LKS/RPC/SUS)"]
+            M14["[P3-13-14] Sintesis Meta-Teoretis & Validasi Multidisipliner"]
+        end
+
+        FONDASI ==> PENGUKURAN ==> PRAKSIS
+    end
 ```
 
 ---
 
-## 2. Matriks Rubrik 4 Level Capaian Nafi'un Lighairih
+## 📚 DESKRIPSI RINGKAS 14 BERKAS MONOGRAF
 
-| Dimensi Perilaku | Level 1: Emerging (T1) | Level 2: Developing (T2) | Level 3: Proficient (T3) | Level 4: Exemplary (T4 - Qudwah) |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kepedulian Kamar & Teman** | Acuh tak acuh saat melihat rekan sekamarnya sakit atau kesulitan. | Membantu teman jika diminta tolong secara langsung oleh musyrif. | Proaktif mengambilkan makanan untuk rekan yang sakit tanpa disuruh (*Itsar*). | Mengorganisir jadwal piket perawatan rekan sakit di asrama dengan penuh kasih. |
-| **Pengabdian Masyarakat Desa** | Mengikuti program bakti sosial sekadar memenuhi kewajiban formal. | Terlibat aktif dalam kegiatan membersihkan masjid desa bersama pondok. | Mampu mengajar anak-anak TPA desa binaan secara mandiri, sabar & kreatif. | Merancang program pemberdayaan masyarakat desa & menjadi figur panutan warga. |
-| **Kepemimpinan Dakwah Khidmah** | Pasif dalam forum dakwah, belum berani menyampaikan nasehat kebaikan. | Berani menjadi imam / muadzin di musholla sekitar pondok. | Mampu memberikan ceramah singkat / kultum yang menyejukkan & membangun. | Menjadi dai muda pelopor perubahan, menggerakkan pemuda desa untuk sholat berjamaah (*Qudwah*). |
+1. **[P3-13-01: Filosofi dan Landasan Turats](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-01-Filosofi-dan-Landasan-Turats.md)**  
+   *Membahas ontologi kemanfaatan sosial dalam Islam, doktrin Khairun Naas Anfa'uhum lin-Naas, Adab ash-Shuhbah Al-Ghazali, Hilyatul Auliya', dan eliminasi kesalehan individual egois.*
+2. **[P3-13-02: Definisi dan Konseptualisasi](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-02-Definisi-dan-Konseptualisasi.md)**  
+   *Membahas batas definisional Nafi'un Lighairih, 4 dimensi operasional (Empati, Khidmah, Servant Leadership, Advokasi), dialektika khidmah bermartabat vs feodalisme perpeloncoan/apatisme.*
+3. **[P3-13-03: Tujuan dan Target Capaian](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-03-Tujuan-dan-Target-Capaian.md)**  
+   *Membahas Capaian Pembelajaran Nafi'un Lighairih (CP-NL), dekomposisi target Tri-Domain, indikator kuantitatif $\ge 60\text{ Jam Khidmah/Tahun}$, dan $0\%$ bullying senioritas.*
+4. **[P3-13-04: Nilai Inti dan Prinsip Kemanfaatan](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-04-Nilai-Inti-dan-Prinsip-Kemanfaatan.md)**  
+   *Membahas aksiologi empat nilai inti (Al-Itsar, At-Tawadhu', At-Ta'awun, Ar-Rahmatul 'Ammah), prinsip Khidmah bil-Ikhlas wal-Ihsan, dan keteladanan Al-Futuwwah salaf.*
+5. **[P3-13-05: Standar Kompetensi dan Taksonomi](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-05-Standar-Kompetensi-dan-Taksonomi.md)**  
+   *Membahas Taksonomi Kemanfaatan Fitrah 4 Level (Al-Ihsan, Al-Khidmah, Al-Qiyadah, Ar-Riyadah), integrasi Krathwohl Affective Taxonomy, serta matriks SKI-SKD jenjang J1–J4.*
+6. **[P3-13-06: Manifestasi Perilaku Santri](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-06-Manifestasi-Perilaku-Santri.md)**  
+   *Membahas katalog indikator perilaku teramati di 5 setting 24 jam (kamar asrama, dapur umum, masjid, ruang kelas madrasah, dan desa binaan), deteksi dini bystander effect & ostracism.*
+7. **[P3-13-07: Rubrik Indikator Perilaku 4-Level](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-07-Rubrik-Indikator-Perilaku-4-Level.md)**  
+   *Membahas rubrik analitik kinerja berbasis kriteria faktual, kalibrasi penilai (Cohen's Kappa $\ge 0.88$), formula skor komposit IK-NL, dan evaluasi pertumbuhan ipsatif.*
+8. **[P3-13-08: Tahapan Perkembangan Jenjang J1–J4](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-08-Tahapan-Perkembangan-Jenjang-J1-J4.md)**  
+   *Membahas trajektori kematangan sosial usia 12–18 tahun, Fiqh Ri'ayah Hadits Kullukum Ra'in, Selman's Perspective-Taking Stages, dan Khidmah Readiness Check.*
+9. **[P3-13-09: Pemetaan Asesmen dan Triangulasi](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-09-Pemetaan-Asesmen-dan-Triangulasi.md)**  
+   *Membahas sistem triangulasi 360 derajat (musyrif, guru, kartu khidmah riil, kawan sebaya, warga desa), matriks MTMM, dan Early Warning System (EWS) apatisme sosial.*
+10. **[P3-13-10: Protokol Intervensi dan Pembiasaan](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-10-Protokol-Intervensi-dan-Pembiasaan.md)**  
+    *Membahas arsitektur intervensi PBIS Multi-Tier (Universal Tier 1, Targeted Tier 2, Intensive Tier 3), SOP konsekuensi logis edukatif 4R kasus relasi sosial, dan Zero Violence Policy.*
+11. **[P3-13-11: Program Pembinaan dan Halaqah](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-11-Program-Pembinaan-dan-Halaqah.md)**  
+    *Membahas silabus tematik 24 pekan halaqah khidmah, 4 workshop keterampilan aplikatif (P3K, TPA Ceria, Ishlah, Capstone), sistem Restorative Buddy J4–J1, dan Ekspedisi Desa.*
+12. **[P3-13-12: Metode Pedagogi dan Didaktik Kemanfaatan](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-12-Metode-Pedagogi-dan-Didaktik-Kemanfaatan.md)**  
+    *Membahas empat model didaktik (Living Exemplary, PBL Sosial, Service-Learning, Socratic Dilemma), dan sintaks RPP 45 menit 'Bakti Umat' terstandarisasi.*
+13. **[P3-13-13: Instrumen dan Lembar Mutaba'ah](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-13-Instrumen-dan-Lembar-Mutabaah.md)**  
+    *Membahas kodifikasi empat paket instrumen siap pakai (Form LOK-NL, LKS-NL, RPC-NL, SUS-NL) dan integrasi sistem basis data digital SIM Intizham-TUMBUH.*
+14. **[P3-13-14: Sintesis dan Validasi Nafi'un Lighairih](file:///c:/xampp/htdocs/tumbuh/03%20Capacity%20Framework/13%20Nafi%27un%20Lighairih/P3-13-14-Sintesis-dan-Validasi-Nafiun-Lighairih.md)**  
+    *Membahas meta-analisis menyeluruh, hasil validasi 12 dewan pakar multidisipliner (Aiken's V = 0.978), matriks mitigasi risiko operasional, dan roadmap 5 tahun.*
 
 ---
 
-## 3. Status Dokumen
-* **Status**: 🌟 **A+ (Dokumen Induk Nafi'un Lighairih)**
-* **Level**: Project 3 - `03 Capacity Framework / 13 Nafi'un Lighairih`
-* **Langkah Berikutnya**: Melengkapi sub-modul 01 hingga 14.
+## 🎯 STANDAR PENJAMINAN MUTU DAN KELULUSAN SANTRI
+
+Pencapaian kapasitas **Nafi'un Lighairih** adalah mahkota kelulusan santri di seluruh pesantren jejaring TUMBUH. Santri yang lulus dinyatakan memiliki:
+1. **Jiwa Pemimpin Pelayan (*Servant Leadership Mindset*)**: Menjadikan posisi kepemimpinan sebagai sarana melayani dan mengayomi, steril 100% dari arogansi dan feodalisme senioritas.
+2. **Kecakapan Khidmah Sosial & Respon Kemanusiaan Nyata**: Menguasai keterampilan medis P3K dasar, terampil mengajar Al-Qur'an ramah anak, dan tanggap darurat membantu sesama yang tertimpa musibah.
+3. **Komitmen Pengabdian Peradaban (*Capstone Civilizational Legacy*)**: Memiliki rekam portofolio pengabdian masyarakat terverifikasi ($\ge 210\text{ Jam Khidmah}$ akumulatif) yang membawa maslahat nyata bagi kemakmuran dan kedamaian semesta alam (*Rahmatan lil 'Alamin*).
