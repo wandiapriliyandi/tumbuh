@@ -1,86 +1,101 @@
 # SUB-BAB 4.1: TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS
-## *Fase Transisi Kritis Bulan 1–6: Orientasi Nilai, Regulasi Awal, Pengikatan Afektif, dan Terapi Kerinduan Rumah*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Transisi Institusional, Teori Kelekatan (*Attachment Theory*), & Manajemen Adaptasi Asrama  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Bimbingan Konseling*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Tangga Pertama: Gerbang Paling Rentan dalam Kehidupan Santri
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Dalam arsitektur progresi karakter Ekosistem TUMBUH, **Jenjang J1 (Adaptasi / *Ta'aruf*)** menaungi santri pada **6 bulan pertama** kehidupannya di pondok pesantren.
+---
 
-Fase ini adalah fase paling rentan (*the most vulnerable phase*):
-* Lebih dari 85% santri baru mengalami sindrom kerinduan rumah (*Homesickness*) tingkat sedang hingga berat.
-* Santri mengalami disorientasi ruang, kejutan budaya (*culture shock*), dan kecemasan perpisahan (*separation anxiety*) dari orang tua.
-* Jika fase T1 ini tidak didampingi dengan kehangatan afektif yang tepat, santri berisiko mengalami trauma psikologis, mogok makan, jatuh sakit, hingga kabur dari pondok pesantren.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+
+Penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph KarakteristikT1["PROFIL CAPAIAN SANTRI TANGGA T1 (ADAPTASI / TA'ARUF)"]
-        Fokus["FOKUS UTAMA T1 (Bulan 1-6):<br/>Transisi Aman, Adaptasi Homesickness, & Pengenalan Adab Dasar"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Fokus --> C1["1. Penyesuaian Emosional (Emotional Settlement)<br/>Mampu mengelola rasa rindu rumah & membangun rasa aman di asrama."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Fokus --> C2["2. Pengenalan Nilai Adab (Ta'aruf al-Qiyam)<br/>Mengetahui letak sandal, alur wudhu, jadwal shalat, & etika menyapa ustadz."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Fokus --> C3["3. Kelekatan Afektif Musyrif (Attachment Formation)<br/>Memandang musyrif sebagai figur pengganti orang tua yang aman & dipercaya."]
-        
-        Fokus --> C4["4. Kemitraan Kamar (Room Bonding)<br/>Mengenal nama & karakter kawan sekamar tanpa rasa takut diintimidasi."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 4.1.1:</b> Peta Capaian Karakter Santri pada Jenjang J1 (Adaptasi / Ta'aruf).</sub></div>
 
-Pakar psikologi klinis anak **Christopher A. Thurber**[^1] membuktikan bahwa kerinduan rumah (*homesickness*) bukanlah sekadar "cengeng", melainkan respons duka normal (*normative grief response*) akibat hilangnya rasa aman primer. Pendekatan yang efektif bukanlah mencemooh anak, melainkan membangun rasa kelekatan baru di lingkungan institusi.
-
----
-
-### Teori Kelekatan John Bowlby: Musyrif sebagai Pangkalan Rasa Aman (*Secure Base*)
-
-Pakar psikologi perkembangan terkemuka **John Bowlby**[^2] dalam *Attachment Theory* merumuskan bahwa anak hanya akan mampu mengeksplorasi lingkungan baru dan belajar dengan optimal apabila ia memiliki **"Pangkalan Rasa Aman (*Secure Base*)"**:
-
-```mermaid
-graph LR
-    subgraph SiklusKelekatan["MEKANISME PANGKALAN RASA AMAN DI ASRAMA SANTRI BARU"]
-        Cemas["Santri Baru Merasa Cemas & Rindu Rumah (Homesick)"] --> Sandaran["Mendatangi Musyrif Hangat (Pangkalan Aman)"]
-        Sandaran --> Pelukan["Divalidasi Emosinya & Diberi Penguatan Kasih Sayang"]
-        Pelukan --> Tenang["Amigdala Tenang (Ventral Vagal Active)"]
-        Tenang --> Eksplorasi["Santri Percaya Diri Belajar, Shalat, & Bermain Bersama Kawan"]
-    end
-```
-<div align="center"><sub><b>Gambar 4.1.2:</b> Alur Pembentukan Kelekatan Aman Santri Baru dengan Musyrif Asrama.</sub></div>
-
-Di asrama TUMBUH, musyrif hadir sebagai pangkalan aman:
-* Musyrif mendengarkan tangisan rindu santri baru tanpa menghakimi: *"Wajar antum kangen Ummi, Nak. Ustadz di sini menemani antum, insya Allah kita berjuang bersama."*
-* Sentuhan fisik yang santun (menepuk pundak dengan hangat) dan senyuman tulus menstimulasi pelepasan hormon *oksitosin* yang meredakan rasa cemas anak.
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Integrasi Turats: Konsep *Ta'aruf* & *Ta'lif al-Qulub* Ulama Salaf
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Pendekatan adaptasi berbasis kelembutan ini selaras dengan prinsip dakwah dan tarbiyah nabawiyyah.
-
-**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ayyuhal Walad*[^3] mengingatkan bahwa penuntut ilmu pemula laksana tunas tanaman yang baru dipindahkan ke tanah baru; ia membutuhkan siraman air yang lembut dan naungan dari terik matahari yang menyengat agar akarnya tidak layu.
-
-Pendiri Gontor **KH. Imam Zarkasyi**[^4] menetapkan masa perkenalan santri baru (*Pekan Perkenalan Khutbatul 'Arsy*) sebagai masa paling sakral: santri tidak boleh dibebani hukuman berat, melainkan diperkenalkan pada keindahan nilai pondok dengan riang gembira.
-
----
-
-### Solusi Sistemik TUMBUH: Protokol 30 Hari Pertama Penanganan Homesickness
-
-Sistem TUMBUH merancang **Protokol 30 Hari Transisi Emas (*Golden Transition Protocol*)**:
-1. **Zero Punitive Zone**: Selama 30 hari pertama, santri di tangga T1 tidak dikenakan konsekuensi pelanggaran berat. Setiap kesalahan adab diposisikan sebagai peluang edukasi langsung (*immediate instructional coaching*).
-2. **Jadwal Telepon Terjadwal & Hangat**: Memfasilitasi komunikasi suara dengan orang tua secara teratur dengan pendampingan musyrif untuk menjaga kestabilan emosi anak.
-3. **Malam Keakraban Kamar (*Baituna Jannatuna Night*)**: Setiap malam Ahad diadakan makan bersama dan permainan kelompok di dalam kamar untuk mempercepat perekatan persaudaraan antarsantri baru.
-
-Dengan tuntasnya Jenjang J1, santri telah berhasil melintasi masa krisis adaptasi, siap melangkah mantap menaiki **Jenjang J2 (Habituasi / Ta'awun)**.
+Praksis **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Christopher A. Thurber & Edward A. Walton**, "Preventing and treating homesickness", *Pediatrics*, Vol. 119, No. 1 (2007), hlm. 192–201; serta **Christopher A. Thurber**, *The Secret Ingredients of Summer Camp: How to Have the Most Fun, Make the Best Friends, and Learn the Coolest Things* (New York: CampSpirit, 2011).
-[^2]: **John Bowlby**, *Attachment and Loss: Vol. 1. Attachment* (New York: Basic Books, 1969; Edisi ke-2, 1982), Bab 11: "The Child's Tie to His Mother: Attachment Behavior", hlm. 177–209.
-[^3]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ayyuhal Walad fi Nashihat at-Talamidz*, Tahqiq: Dr. Ahmad Ahmad Badawi (Kairo: Dar al-Qalam, 1986), hlm. 18–32.
-[^4]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 40–62.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

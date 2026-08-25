@@ -1,86 +1,101 @@
 # SUB-BAB 4.3: TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM
-## *Fase Pematangan Bulan 19–36: Kesadaran Muraqabatullah, Otonomi Moral, dan Ketahanan terhadap Tekanan Sebaya*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perkembangan Moral, Internalisasi Nilai (*Value Internalization*), & Teologi Muraqabah  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Epistemologi Turats & Pakar Social Emotional Learning*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Tangga Ketiga: Lompatan Kualitatif dari Ketaatan Lahir Menuju Kesadaran Batin
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Jika Jenjang J1 berfokus pada adaptasi dan Jenjang J2 berfokus pada pembiasaan fisik, maka **Jenjang J3 (Internalisasi / *Tafahum*)** yang menaungi santri pada **bulan ke-19 hingga bulan ke-36** (Tahun Kedua hingga Tahun Ketiga) adalah **fase pematangan spiritual dan otonomi moral**.
+---
 
-Pada tangga T3, santri mengalami lompatan kualitatif:
-* Santri tidak lagi berbuat baik karena takut dicatat pelanggarannya oleh musyrif.
-* Santri tidak lagi menjaga shalat berjamaah karena ingin mendapatkan stiker bintang atau pujian kawan.
-* **Santri menjaga adab secara sukarela karena hatinya telah tertanam kesadaran *Muraqabatullah* (merasa senantiasa diawasi oleh Allah SWT)**.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+
+Penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph KarakteristikT3["PROFIL CAPAIAN SANTRI TANGGA T3 (INTERNALISASI / TAFAHUM)"]
-        Fokus["FOKUS UTAMA T3 (Bulan 19-36):<br/>Disiplin Otonom, Integritas Tanpa Pengawas, & Resiliensi Tekanan Sebaya"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Fokus --> C1["1. Disiplin Otonom Muraqabatullah (Autonomous Integrity)<br/>Menjaga shalat, aurat, & kebersihan saat lampu mati / saat musyrif tidak berada di tempat."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Fokus --> C2["2. Ketahanan Tekanan Sebaya (Peer Resistance Grit)<br/>Berani menolak ajakan ghashab / melanggar aturan meskipun diejek oleh kawan sekamar."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Fokus --> C3["3. Penghayatan Nilai Syar'i (Deep Value Understanding)<br/>Memahami hikmah & maqashid syari'ah di balik setiap tata tertib pondok."]
-        
-        Fokus --> C4["4. Pengendalian Konflik Internal (Self-Mediation)<br/>Mampu menahan amarah & berinisiatif meminta maaf lebih dahulu saat terjadi salah paham."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 4.3.1:</b> Peta Capaian Karakter Santri pada Jenjang J3 (Internalisasi / Tafahum).</sub></div>
 
-Pakar psikologi perkembangan moral **Lawrence Kohlberg**[^1] merumuskan bahwa perkembangan moral tertinggi terjadi saat individu berpindah dari tingkat konvensional (patuh demi hukum sosial dan kelompok) menuju **tingkat pasca-konvensional (*post-conventional moral stage*)**: bertindak atas dasar prinsip etika universal dan integritas nurani yang hakiki.
-
----
-
-### Teori Internalisasi Nilai Deci & Ryan: Terciptanya Regulasi Terintegrasi
-
-Pakar psikologi motivasi **Richard M. Ryan & Edward L. Deci**[^2] menjelaskan proses **Internalisasi (*Internalization Process*)**:
-1. Nilai adab yang mulanya berasal dari luar (*ekstrinsik*) diserap ke dalam struktur diri santri melalui proses refleksi dan pemahaman makna (*Tafahum*).
-2. Nilai tersebut menyatu dengan identitas diri (*Integrated Regulation*), sehingga melanggar adab terasa sebagai pengkhianatan terhadap nilai moral dirinya sendiri.
-
-Ketika seorang santri T3 menemukan sandal tergeletak tanpa pemilik, rem batinnya langsung menyala: *"Ini bukan hak milik ana. Allah Maha Melihat. Ana tidak akan memakainya."* Inilah integritas sejati yang dicari oleh pendidikan Islam.
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Integrasi Turats: Maqam *Muraqabah* Imam Ibnul Qayyim & Al-Muhasibi
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Puncak internalisasi nilai ini adalah pencapaian maqam spiritual yang agung dalam tasawuf Sunni.
-
-**Al-Imam Ibn al-Qayyim al-Jawziyyah** dalam *Madarij as-Salikin*[^3] mendefinisikan maqam **Al-Muraqabah**:
-$$\text{الْمُرَاقَبَةُ: دَوَامُ عِلْمِ الْعَبْدِ وَتَيَقُّنِهِ بِاطِّلَاعِ الرَّبِّ سُبْحَانَهُ وَتَعَالَى عَلَى ظَاهِرِهِ وَبَاطِنِهِ فِي كُلِّ لَحْظَةٍ}$$
-*"Muraqabah adalah kesinambungan ilmu dan keyakinan mantap seorang hamba bahwa Allah SWT senantiasa mengawasi lahir dan batinnya dalam setiap detik helaan nafasnya."*
-
-```mermaid
-graph LR
-    subgraph TransformasiMotivasi["TRANSFORMASI MOTIVASI MORAL PADA TANGGA T3"]
-        Awal["Kepatuhan Eksternal (Takut Pengawas Manusia)"] --> Transisi["Proses Tafahum & Penghayatan Hikmah"]
-        Transisi --> Muraqabah["Maqam Muraqabah: Integritas Batin Karena Allah (Ihsan)"]
-    end
-```
-<div align="center"><sub><b>Gambar 4.3.2:</b> Transformasi Motivasi Santri Menuju Maqam Muraqabah pada Jenjang J3.</sub></div>
-
-**Al-Imam Al-Harits al-Muhasibi** dalam *Adab an-Nufus*[^4] menegaskan bahwa jiwa yang telah mencapai derajat *Tafahum* akan merasa malu kepada Allah (*al-Haya' minallah*) bahkan saat ia berada sendirian di kegelapan malam yang sunyi.
-
----
-
-### Solusi Sistemik TUMBUH: Transisi Menuju Manajemen Otonom Kamar
-
-Pada Jenjang J3, Sistem TUMBUH memberikan porsi kepercayaan dan otonomi yang lebih besar:
-1. **Pemberian Tanggung Jawab Mandiri (*Self-Managed Dormitory*)**: Musyrif mengurangi intensitas komando langsung dan berperan sebagai konsultan / fasilitator dialogis mingguan.
-2. **Halaqah Muhasabah Diri (*Self-Reflection Circle*)**: Santri mengisi jurnal refleksi adab pribadi (*Ipsative Adab Journal*), mengevaluasi titik lemah dirinya secara jujur tanpa rasa takut dihukum.
-3. **Pelatihan Asertivitas Menolak Ajaran Buruk (*Peer Resistance Workshop*)**: Santri dilatih teknik komunikasi asertif untuk berani berkata tidak saat diajak melanggar aturan oleh kawan sebaya.
-
-Santri di tangga T3 telah memiliki **benteng moral internal yang kokoh**: mereka beradab di tengah keramaian, dan tetap beradab di kesunyian bilik asrama saat tidak ada mata manusia yang memandangnya.
+Praksis **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Lawrence Kohlberg**, *The Psychology of Moral Development: The Nature and Validity of Moral Stages* (San Francisco: Harper & Row, 1984), Bab 3: "Synopses of Moral Stages", hlm. 170–215.
-[^2]: **Richard M. Ryan & Edward L. Deci**, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017), Bab 8: "Internalization and the Facilitation of Extrinsic Motivation", hlm. 179–215.
-[^3]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid II: "Manzilat al-Muraqabah", hlm. 65–85.
-[^4]: **Al-Imam Al-Harits bin Asad al-Muhasibi**, *Adab an-Nufus*, Tahqiq: Dr. Abdul Qadir Ahmad 'Atha (Kairo & Beirut: Dar al-Kutub al-'Ilmiyyah, 1986), hlm. 35–62.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

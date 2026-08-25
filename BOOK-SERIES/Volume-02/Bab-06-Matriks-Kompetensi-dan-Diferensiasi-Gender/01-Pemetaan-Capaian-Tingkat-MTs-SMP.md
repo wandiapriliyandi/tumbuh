@@ -1,76 +1,101 @@
 # SUB-BAB 6.1: PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)
-## *Arsitektur Kurikulum Adab Usia Dini Remaja (12–15 Tahun): Keteraturan Fisik, Pengelolaan Barang, dan Pengendalian Diri Awal*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-06/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Desain Kurikulum Diferensiasi (*Differentiated Curriculum*), Psikologi Remaja Awal, & Standarisasi Kompetensi Adab MTs  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Desain Kurikulum Adab & Pakar Psikologi Belajar*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Karakteristik Perkembangan Santri MTs / SMP (Usia 12–15 Tahun)
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Jenjang Madrasah Tsanawiyah (MTs) atau Sekolah Menengah Pertama (SMP) adalah **fase fondasi pembentukan kepribadian santri**.
+---
 
-Santri pada rentang usia 12 hingga 15 tahun memiliki ciri khas perkembangan yang sangat spesifik:
-* **Secara Fisik**: Sedang mengalami percepatan pertumbuhan biologis (*growth spurt*), sering merasa lapar, mudah lelah, dan memiliki koordinasi motorik yang masih beradaptasi.
-* **Secara Kognitif**: Sedang bertransisi dari tahap berpikir operasional konkret menuju tahap operasional formal; masih membutuhkan aturan yang jelas, visual, dan terstruktur.
-* **Secara Sosio-Emosional**: Sangat sensitif terhadap penerimaan teman sebaya, rentan mengalami kecemasan sosial, dan masih membutuhkan bimbingan intensif dalam mengelola barang-barang pribadinya.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+
+Penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph FokusKurikulumMTs["TIGA FOKUS UTAMA KURIKULUM ADAB TINGKAT MTS/SMP"]
-        MTs["KURIKULUM ADAB SANTRI MTS / SMP (USIA 12-15 TAHUN)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        MTs --> F1["1. KETERATURAN FISIK & SANITASI (Thaharah & Higienitas Pribadi)<br/>Mandi teratur, kebersihan pakaian, menata kasur, & bebas skabies."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        MTs --> F2["2. MANAJEMEN BARANG PRIBADI (Anti-Ghashab & Kepemilikan Sah)<br/>Memberi label nama pada barang, menjaga sandal, & menata lemari 5S."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        MTs --> F3["3. PENGENDALIAN LISAN & EMOSI AWAL (Hifzhul Lisan & Regulasi Diri)<br/>Menghapus ejekan/julukan buruk, antre tertib, & berani mengakui kesalahan."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 6.1.1:</b> Tiga Fokus Utama Kurikulum Karakter Santri Tingkat MTs/SMP.</sub></div>
 
-Pakar perkembangan manusia **Robert J. Havighurst**[^1] merumuskan bahwa tugas perkembangan utama pada masa remaja awal (*early adolescence*) adalah menerima kondisi fisik tubuhnya, belajar bergaul dengan teman sebaya dari berbagai latar belakang, dan mencapai kemandirian emosional dasar dari orang tua.
-
----
-
-### Matriks Capaian Pembelajaran Adab Berjenjang MTs (Kelas 7, 8, dan 9)
-
-Pakar diferensiasi kurikulum **Carol Ann Tomlinson**[^2] menekankan bahwa kurikulum yang efektif harus disesuaikan dengan kesiapan belajar (*readiness*), minat, dan profil belajar peserta didik. 
-
-Tabel berikut menyajikan pemetaan capaian adab berjenjang pada tingkat MTs dalam sistem TUMBUH di pesantren:
-
-| Jenjang Kelas | Target Jenjang Kemandirian TUMBUH (J1–J4) | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
-| :--- | :--- | :--- |
-| **Kelas 7 MTs**<br/>*(Usia 12–13 Tahun)* | **Jenjang J1 (Adaptasi)** $\rightarrow$ **Awal Jenjang J2 (Habituasi)** | • Mengatasi kerinduan rumah (*homesickness*) secara sehat.<br/>• Hafal jadwal kegiatan harian asrama dan madrasah.<br/>• Menjaga kebersihan loker pribadi dan tidak meletakkan pakaian kotor sembarangan.<br/>• Mengenakan sandal sendiri dan tidak pernah mengambil sandal kawan tanpa izin.<br/>• Hadir di masjid tepat saat adzan berkumandang. |
-| **Kelas 8 MTs**<br/>*(Usia 13–14 Tahun)* | **Jenjang J2 (Habituasi Penuh)** | • Melaksanakan tugas piket kamar dan lorong secara konsisten tanpa diperingatkan.<br/>• Menolak terlibat dalam perundungan verbal atau pemberian julukan buruk (*laqab pejoratif*).<br/>• Mampu mencuci dan melipat pakaian pribadi secara mandiri.<br/>• Mengelola uang saku mingguan dengan catatan pembukuan sederhana.<br/>• Menjaga keheningan saat muthala'ah malam di kamar. |
-| **Kelas 9 MTs**<br/>*(Usia 14–15 Tahun)* | **Transisi Menuju Jenjang J3 (Internalisasi Awal)** | • Shalat berjamaah di shaf pertama atas kesadaran *muraqabatullah* mandiri.<br/>• Berani menolak ajakan kawan untuk melanggar aturan pondok (*peer resistance*).<br/>• Menyelesaikan perselisihan dengan kawan sekamar melalui dialog damai.<br/>• Menjadi teladan ketertiban bagi santri kelas 7 (memulai peran *junior buddy*).<br/>• Memiliki target hafalan Al-Qur'an dan muthala'ah kitab yang terencana mandiri. |
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Wawasan Turats: Tahapan Mendidik Anak Usia Dini Remaja
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Pembagian target capaian usia 12–15 tahun ini sangat selaras dengan arahan para ulama pedagogi Islam klasik.
-
-**Al-Imam Abu al-Hasan Ali bin Muhammad al-Qabisi** dalam *Ar-Risalah al-Mufashshilah*[^3] menegaskan bahwa pada masa pubertas awal, pendidik wajib fokus pada pembiasaan ibadah praktis, penataan disiplin harian, dan pemisahan tempat tidur (*tafriq fil madhaji'*), serta mengawasi pergaulan anak agar tidak terjerumus pada pengaruh buruk kawan sebayanya.
-
-**Syekh Burhanuddin Al-Zarnuji** dalam *Ta'lim al-Muta'allim*[^4] menggarisbawahi bahwa santri pemula wajib dilatih untuk tidak makan secara berlebihan (*taqlil ath-tha'am*) dan tidak banyak tidur, karena keteraturan fisik adalah kunci terbukanya pintu kecerdasan akal dan kelembutan hati.
-
----
-
-### Solusi Sistemik TUMBUH: Buku Panduan Logbook Adab MTs
-
-Dalam sistem TUMBUH di pesantren, setiap santri MTs memegang **Buku Jurnal Adab Harian MTs (*My Daily Adab Log*)**:
-* Berisi checklist 7 kebiasaan emas harian: Shalat 5 waktu berjamaah, tilawah 1 juz, loker rapi 5S, qobliyah-ba'diyah, piket kamar, kata-kata santun, dan tidur tepat pukul 22.00 WIB.
-* Diperiksa secara berkala setiap sore oleh Musyrif Asrama dan diparaf oleh Wali Kelas Madrasah, mewujudkan sinergi pengasuhan yang utuh dan terukur.
-
-Santri lulusan MTs TUMBUH bertumbuh menjadi remaja yang kokoh fondasi adabnya: mandiri merawat dirinya, santun tutur katanya, dan tertib dalam ritme ibadahnya, siap menapaki tangga kedewasaan pada tingkat Madrasah Aliyah.
+Praksis **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Robert J. Havighurst**, *Human Development and Education* (New York: Longmans, Green and Co., 1953), Bab 9: "Developmental Tasks of Early Adolescence", hlm. 111–158.
-[^2]: **Carol Ann Tomlinson**, *The Differentiated Classroom: Responding to the Needs of All Learners* (Alexandria: Association for Supervision and Curriculum Development / ASCD, 1999; Edisi ke-2, 2014), Bab 2: "The Elements of Differentiation", hlm. 15–38.
-[^3]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Qabisi**, *Ar-Risalah al-Mufashshilah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wal Muta'allimin*, Tahqiq: Ahmad Khalid Jam'ah (Damaskus: Dar al-Fikr, 1986), hlm. 68–95.
-[^4]: **Al-Imam Burhanuddin al-Zarnuji**, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Tahqiq: Syaikh Mustafa Asyur (Kairo: Dar al-I'tisham, 1986), hlm. 35–48.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

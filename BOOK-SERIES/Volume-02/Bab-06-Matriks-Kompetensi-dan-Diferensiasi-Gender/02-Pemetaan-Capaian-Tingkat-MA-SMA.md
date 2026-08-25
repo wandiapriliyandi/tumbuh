@@ -1,79 +1,101 @@
 # SUB-BAB 6.2: PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)
-## *Arsitektur Kurikulum Adab Remaja Lanjut (15–18 Tahun): Kedalaman Tafaqquh, Etika Digital, dan Kepemimpinan Transformatif*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-06/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Pendidikan Karakter Remaja Akhir, Etika Digital & Literasi Kritis, & Standarisasi Kompetensi Adab MA  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Desain Kurikulum Adab & Pakar Tata Kelola Qudwah*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Karakteristik Perkembangan Santri MA / SMA (Usia 15–18 Tahun)
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Memasuki jenjang Madrasah Aliyah (MA) atau Sekolah Menengah Atas (SMA), santri berada pada **fase kematangan remaja lanjut (*late adolescence*)**:
-* **Secara Kognitif**: Kapasitas berpikir abstrak (*formal operational thought*), analisis kritis, dan penalaran moral telah berkembang pesat. Santri mulai mempertanyakan filosofi di balik aturan dan mencari relevansi ilmu dengan masa depannya.
-* **Secara Psikososial**: Santri membutuhkan ruang aktualisasi kepemimpinan nyata, pencarian identitas karier, dan pengakuan martabat sebagai insan dewasa muda.
-* **Tantangan Zaman**: Santri MA berhadapan langsung dengan tantangan disrupsi digital, godaan etika di ruang siber, dan tuntutan kesiapan berkontribusi di tengah masyarakat majemuk.
+---
+
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+
+Penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph FokusKurikulumMA["TIGA FOKUS UTAMA KURIKULUM ADAB TINGKAT MA/SMA"]
-        MA["KURIKULUM ADAB SANTRI MA / SMA (USIA 15-18 TAHUN)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        MA --> F1["1. KEDALAMAN KONSEPTUAL & TAFAQQUH FIDDIN<br/>Menganalisis maqashid syari'ah, logika ushul fiqih, & berdiskusi ilmiah santun."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        MA --> F2["2. INTEGRITAS ETIKA DIGITAL & ANTI-DISRUPSI<br/>Prinsip tabayyun informasi, wara' di media sosial, & literasi digital beradab."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        MA --> F3["3. KEPEMIMPINAN TRANSFORMATIF & MENTORING SEBAYA<br/>Memimpin organisasi santri melayani (Servant Leadership) & mendampingi adik kelas."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 6.2.1:</b> Tiga Fokus Utama Kurikulum Karakter Santri Tingkat MA/SMA.</sub></div>
 
-Pakar psikologi perkembangan **Erik H. Erikson**[^1] menegaskan bahwa keberhasilan pada fase remaja akhir ditentukan oleh kemampuan mengintegrasikan nilai-nilai moral ke dalam komitmen hidup nyata dan kesiapan mengemban tanggung jawab sosial di masyarakat.
-
----
-
-### Matriks Capaian Pembelajaran Adab Berjenjang MA (Kelas 10, 11, dan 12)
-
-Tabel berikut menyajikan matriks capaian adab berjenjang santri tingkat MA dalam Ekosistem TUMBUH:
-
-| Jenjang Kelas | Target Jenjang Kemandirian TUMBUH (J1–J4) | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
-| :--- | :--- | :--- |
-| **Kelas 10 MA**<br/>*(Usia 15–16 Tahun)* | **Jenjang J3 (Internalisasi Penuh)** | • Menjaga integritas ibadah dan adab kamar secara mandiri tanpa pengawasan ustadz.<br/>• Memahami argumen rasional dan dalil syar'i di balik setiap tata tertib pondok.<br/>• Mampu mengelola waktu belajar mandiri (*muthala'ah*) minimal 90 menit per hari.<br/>• Menerapkan prinsip *Tabayyun* dalam menerima informasi berita dan media sosial.<br/>• Memulai peran pendampingan adik asuh (*Junior Peer Mentor*). |
-| **Kelas 11 MA**<br/>*(Usia 16–17 Tahun)* | **Awal Jenjang J4 (Transformasi)** | • Mengemban amanah kepengurusan Organisasi Santri dengan etos *Servant Leadership*.<br/>• Menolak keras segala bentuk tradisi perpeloncoan dan intimidasi fisik kepada adik kelas.<br/>• Mampu memediasi konflik antarteman menggunakan prinsip lingkaran restoratif damai.<br/>• Menginisiasi proyek khidmah sosial (perpustakaan asrama, bank sampah, kebun hijau).<br/>• Menulis karya ilmiah / esai refleksi adab berbasis kajian Turats dan sains modern. |
-| **Kelas 12 MA**<br/>*(Usia 17–18 Tahun)* | **Puncak Jenjang J4 $\rightarrow$ Tahap 7 PENGGERAK** | • Menjadi figur teladan hidup (*Living Qudwah*) bagi seluruh santri asrama.<br/>• Memimpin majlis musyawarah santri dan mendampingi adik kelas T1 dalam masa adaptasi.<br/>• Memiliki kematangan visi hidup: merencanakan studi lanjut dan kiprah dakwah di masyarakat.<br/>• Menunjukkan adab tawadhu' dan khidmah tulus kepada para kiai, masyaikh, dan asatidz.<br/>• Siap secara mental, pedagogis, dan spiritual memasuki **Tahun Khidmah (Pengabdian)**. |
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Wawasan Turats: Hakikat *Tafaqquh Fiddin* & Adab Penuntut Ilmu Lanjut
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Karakter santri tingkat atas berakar pada kematangan akal budi dan keluasan wawasan peradaban.
-
-**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *al-'Ilm*)[^2] menegaskan bahwa hakikat ilmu yang terpuji (*al-'Ilm an-Nafi'*) bukanlah sekadar kepandaian berdebat atau menumpuk hafalan lafadz, melainkan ilmu yang menumbuhkan rasa takut kepada Allah (*Khasy-yatullah*), menambah kesadaran akan aib diri sendiri, dan menjauhkan hati dari cinta kemegahan dunia.
-
-**Hadhratusy Syaikh KH. M. Hasyim Asy'ari** dalam *Adab al-'Alim wal Muta'allim*[^3] mengingatkan para santri senior agar tidak terperangkap dalam sifat *Kibr* (sombong) dan ujub atas ilmunya:
-
-> [!NOTE]
-> ### 📜 Pesan Hadhratusy Syaikh KH. Hasyim Asy'ari kepada Santri Senior:
-> 
-> $$\text{كُلَّمَا ازْدَادَ طَالِبُ الْعِلْمِ رِفْعَةً فِي الدَّرَجَاتِ، وَجَبَ عَلَيْهِ أَنْ يَزْدَادَ تَوَاضُعًا وَشَفَقَةً عَلَى مَنْ هُوَ دُونَهُ، فَإِنَّ الْعِلْمَ كَالْمَطَرِ؛ لَا يَسْتَقِرُّ فِي رُؤُوسِ الْجِبَالِ الشَّامِخَةِ، وَإِنَّمَا يَسْتَقِرُّ فِي الْأَوْدِيَةِ الْمُنْخَفِضَةِ}$$
-> 
-> **Artinya:**  
-> *"Setiap kali seorang penuntut ilmu bertambah tinggi tingkatan ilmunya, wajib baginya untuk semakin bertambah tawadhu' (rendah hati) dan semakin bertambah kasih sayangnya kepada orang-orang di bawahnya. Karena sesungguhnya ilmu itu laksana air hujan; ia tidak akan pernah mengendap di puncak gunung yang menjulang tinggi angkuh, melainkan ia akan mengalir dan menetap di lembah-lembah yang rendah."*
-
----
-
-### Solusi Sistemik TUMBUH: Portofolio Karakter & Visi Hidup Santri Akhir
-
-Sebagai syarat kelulusan tingkat MA dalam sistem TUMBUH di pesantren, setiap santri wajib menyusun:
-1. **Portofolio Capaian Karakter (*Ipsative Adab Portfolio*)**: Rekam jejak pertumbuhan kepribadian santri selama 3 tahun di madrasah dan asrama.
-2. **Karya Tulis Visi Hidup (*My 10-Year Life Vision & Khidmah Blueprint*)**: Naskah komprehensif tentang rencana kontribusi keilmuan, kepemimpinan, dan pengabdian sosial santri bagi umat manusia.
-
-Santri lulusan MA TUMBUH bertumbuh menjadi sosok **Cendekiawan Muslim Transformatif (*The Transformative Scholar*)**: berakidah murni, berpikiran terbuka, berakhlak mulia, dan siap menggerakkan roda peradaban Islam di pentas global.
+Praksis **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Erik H. Erikson**, *Identity: Youth and Crisis* (New York: W. W. Norton & Company, 1968), Bab 3: "The Life Cycle: Epigenesis of Identity", hlm. 91–141.
-[^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab al-'Ilm (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 12–38.
-[^3]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Fi Adab al-Muta'allim ma'a Syaikhihi", hlm. 26–38.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

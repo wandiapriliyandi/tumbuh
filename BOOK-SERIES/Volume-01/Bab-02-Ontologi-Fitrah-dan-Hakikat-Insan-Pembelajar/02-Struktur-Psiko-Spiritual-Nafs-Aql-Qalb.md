@@ -1,126 +1,101 @@
 # SUB-BAB 2.2: STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB
-## *Anatomi Kejiwaan Manusia dalam Turats Imam Al-Ghazali dan Ibn al-Qayyim serta Integrasinya dengan Neurosains Kognitif Kontemporer*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Spiritual Islam (*Ilm an-Nafs al-Islami*), Tasawuf Falsafi, Neurokardiologi, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Neurosains Perkembangan*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Metafora Kerajaan di Dalam Diri Manusia
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Bayangkan sebuah negeri kerajaan yang megah di dalam diri setiap santri:
+---
 
-Di singgasana istana, duduk **Sang Raja (Al-Qalb / Kalbu)** yang memegang tongkat kepemimpinan. Di sampingnya berdiri **Perdana Menteri yang bijaksana (Al-'Aql / Akal)** yang bertugas menimbang maslahat dan memberi pertimbangan nalar. Di luar istana, bertugas **Panglima Kepolisian (Al-Ghadhab / Daya Amarah)** yang bertugas menjaga kedaulatan dan membela kebenaran, serta **Pelayan Logistik (Asy-Syahwah / Daya Keinginan Biologis)** yang bertugas mendatangkan makanan dan memenuhi kebutuhan hidup.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Perumpamaan agung yang ditulis oleh **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin*[^1] ini menjelaskan rahasia keseimbangan jiwa manusia:
+Penerapan **STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
-> ### 📜 Tamsil Kerajaan Jiwa Imam Al-Ghazali:
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
 > 
-> $$\text{إِذَا اسْتَعَانَ الْمَلِكُ بِوَزِيرِهِ، وَقَهَرَ الْعَبْدَ وَصَاحِبَ الشُّرْطَةِ وَجَعَلَهُمَا تَحْتَ إِشَارَةِ الْوَزِيرِ، صَلَحَتْ أَحْوَالُ الْمَمْلَكَةِ وَعَمَّ الْعَدْلُ}$$
-> 
-> **Artinya:**  
-> *"Ketika sang Raja (Kalbu) senantiasa meminta nasihat kepada Perdana Menterinya (Akal), serta menundukkan sang Pelayan (Syahwat) dan Panglima Polisi (Amarah) di bawah arahan sang Perdana Menteri, niscaya makmurlah negeri jiwa itu dan tegaklah keadilan.*  
-> *Namun, apabila sang Pelayan atau sang Polisi memberontak dan menawan sang Raja, niscaya hancurlah negeri jiwa itu dan binasalah seluruh rakyatnya!"*
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph ArsitekturJiwa["ARSITEKTUR PSIKO-SPIRITUAL INSAN DALAM ISLAM"]
-        Ruh["1. AR-RUH (Percikan Kehidupan Ilahiah / Al-Amr Al-Ilahi)<br/>Hakikat terdalam manusia yang ditiupkan Allah SWT (QS. Al-Hijr: 29)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Qalb["2. AL-QALB (Pusat Kesadaran Transendental & Pengendali Akhlak)<br/>Tahta makrifatullah, pusat intuisi moral, keikhlasan, & cinta sejati"]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Aql["3. AL-'AQL (Daya Intelektual & Penalaran Kritis)<br/>Kapasitas menimbang maslahat vs mafsadat, menganalisis kausalitas alam"]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Nafs["4. AN-NAFS (Daya Dorong Biologis & Nafsu Alamiah)<br/>Nafsu makan/minum (Syahwat), amarah membela diri (Ghadhab), ego instingtif"]
-        
-        Ruh --- Qalb
-        Qalb --> Aql
-        Aql --> Nafs
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 2.2.1:</b> Struktur Hirarki Empat Dimensi Psiko-Spiritual Manusia dalam Khazanah Islam.</sub></div>
 
-Pendidikan karakter dalam Islam **tidak pernah bertujuan membunuh nafsu atau mematikan amarah**. Tanpa nafsu makan santri akan mati kelaparan, dan tanpa daya amarah santri tidak akan punya keberanian membela kebenaran. Tujuan adab adalah **mendidik nafsu dan amarah agar tunduk di bawah kendali akal yang disinari oleh cahaya kalbu**.
-
----
-
-### Empat Dimensi Jiwa Manusia dalam Khazanah Islam
-
-Khazanah Islam memetakan kepribadian insan ke dalam empat dimensi yang saling melengkapi:
-
-1. **Ar-Ruh (الرُّوح)**: Percikan kehidupan ilahiah (*Al-Amr al-Ilahi*) yang ditiupkan Allah ke dalam jasad janin (QS. Al-Hijr: 29). Dimensi inilah yang membuat manusia selalu haus akan makna hidup dan rindu bersujud kepada Allah.
-2. **Al-Qalb (القَلْب)**: Pusat kesadaran spiritual dan kompas moral manusia. Dinamakan *Qalb* (yang berbolak-balik) karena sifatnya yang sangat dinamis. Kalbulah yang menjadi tempat bersemayamnya keikhlasan, cinta, dan iman.
-3. **Al-'Aql (العَقْل)**: Daya nalar dan instrumen analitis untuk menimbang sebab-akibat, membedakan mana yang bermanfaat dan mana yang membahayakan.
-4. **An-Nafs (النَّفْس)**: Daya dorong biologis hayati yang mencakup nafsu makan (*syahwat*) dan dorongan membela diri (*ghadhab*).
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Distingsi Epistemologis: Model Jiwa Islam vs Plato
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Secara historis, filsuf Yunani Plato merumuskan konsep tiga jiwa (*The Tripartite Soul*): *Epithymia* (nafsu), *Thymos* (emosi), dan *Logistikon* (rasio). Namun terdapat perbedaan mendasar antara pandangan sekuler Barat dan Islam:
-
-```mermaid
-graph LR
-    subgraph ModelPlato["MODEL FILSAFAT RATIO SEKULER"]
-        P1["Rasio Akal (Logistikon) adalah Otoritas Moral Tertinggi"]
-    end
-
-    subgraph ModelIslam["MODEL PSIKOSPIRITUAL ISLAM (TUMBUH)"]
-        I1["Akal adalah Pelayan Logis, namun Mahkota Tertinggi adalah KALBU (QALB) yang Menerima Petunjuk Wahyu Ilahi"]
-    end
-
-    ModelPlato <-->|"Distingsi Fundamental"| ModelIslam
-```
-<div align="center"><sub><b>Gambar 2.2.2:</b> Perbedaan Ontologis antara Rasionalisme Sekuler dan Psikospiritual Islam.</sub></div>
-
-Bagi filsafat Barat, akal rasional adalah penguasa tertinggi. Namun Islam membuktikan bahwa akal yang cerdas bisa saja berubah menjadi alat kelicikan (*cunning intellect*) jika kalbunya buta dari iman. Oleh karena itu, dalam Islam, mahkota tertinggi yang memimpin hidup manusia adalah **Qalb**—organ spiritual yang memiliki mata batin (*Bashirah*) untuk menyaksikan kebenaran (QS. Al-Hajj: 46).
-
----
-
-### Integrasi Neurosains: Sumbu Jantung-Otak (*The Brain-Heart Axis*)
-
-Kajian mutakhir dalam neurobiologi klinis oleh *HeartMath Institute*[^2] kini membuktikan secara empiris bahwa kedudukan kalbu bukanlah sekadar bahasa kiasan, melainkan memiliki dasar biologis yang sangat nyata:
-
-```mermaid
-graph TD
-    Dzikir["Ketenangan Kalbu: Dzikir, Tilawah, Shalat Khusyuk, & Ikhlas"] --> Koherensi["Koherensi Irama Jantung (Heart Rate Variability / HRV)"]
-    Koherensi --> JalurAferen["Sinyal Saraf Naik Melalui Jalur Saraf Vagus Menuju Otak"]
-    JalurAferen --> OptimalPFC["Optimalisasi Korteks Prefrontal (PFC): Daya Ingat Kuat & Emosi Stabil"]
-```
-<div align="center"><sub><b>Gambar 2.2.3:</b> Sumbu Jantung-Otak (Brain-Heart Axis): Dampak Ketenangan Kalbu terhadap Fungsi Kognitif Otak.</sub></div>
-
-Fakta ilmiah membuktikan:
-1. **Otak Kecil di Jantung (*The Little Brain in the Heart*)**: Jantung manusia memiliki lebih dari 40.000 sel neuron sensorik yang mampu memproses emosi dan menghasilkan hormon independen dari otak kepala.
-2. **Sinyal dari Jantung ke Otak**: Terdapat lebih banyak kabel saraf yang mengirimkan sinyal dari jantung menuju otak dibanding sebaliknya.
-3. **Koherensi Jantung-Otak**: Ketika santri berdzikir dengan khusyuk dan merasakan keikhlasan (*Qalb Salim*), detak jantung membentuk gelombang ritmis yang sangat halus (koheren). Sinyal ketenangan ini dikirim ke otak depan (*PFC*), yang seketika meningkatkan daya konsentrasi menghafal Al-Qur'an dan menstabilkan emosi santri.
-
----
-
-### Solusi Sistemik TUMBUH: Penyelarasan Hak Triad Jiwa Santri
-
-Berdasarkan struktur psiko-spiritual ini, **Sistem TUMBUH** mewajibkan pemenuhan hak tiga dimensi secara seimbang dalam jadwal harian pesantren:
-
-```mermaid
-graph TD
-    RootHak["PENYELARASAN TIGA DIMENSI JIWA SANTRI SISTEM TUMBUH"]
-    
-    RootHak --> H1["1. Pemenuhan Hak Nafs Jasadi<br/>Makanan bergizi halal-thayyib, olahraga harian, & jaminan tidur 7-8 jam."]
-    
-    RootHak --> H2["2. Pengasahan Daya Akal ('Aqliyyah)<br/>Pembelajaran dialogis di kelas, diskusi memecahkan masalah, & nalar kritis."]
-    
-    RootHak --> H3["3. Penyucian Dimensi Kalbu (Ruhaniyyah)<br/>Shalat berjamaah awal waktu, tilawah tenang, & tazkiyatun nufus berkala."]
-```
-<div align="center"><sub><b>Gambar 2.2.4:</b> Tiga Pilar Penyelarasan Hak Psiko-Spiritual Santri dalam Ritme Keseharian TUMBUH.</sub></div>
-
-1. **Hak Nafs Jasadi**: Santri dijamin mendapat asupan gizi yang baik, sarana olahraga, dan tidur yang manusiawi, sehingga nafsu biologisnya tenang dan tidak memberontak.
-2. **Hak Akal 'Aqliyyah**: Pembelajaran kitab kuning disajikan secara interaktif agar akal santri terbiasa berpikir kritis dan memahami hikmah syariat.
-3. **Hak Kalbu Ruhaniyyah**: Menjadikan masjid sebagai oase ketenangan batin melalui shalat khusyuk dan dzikir, menyiram dahaga spiritual santri setiap hari.
+Praksis **STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab 'Aja'ibil Qalb (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 6–10.
-[^2]: **Rollin McCraty et al.**, "The coherent heart: Heart-brain interactions, psychophysiological coherence, and the emergence of system-wide order", *Integral Review*, Vol. 5, No. 2 (2009), hlm. 10–115; serta **J. Andrew Armour**, *Neurocardiology: Anatomical and Functional Principles* (New York: Oxford University Press, 1991).
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

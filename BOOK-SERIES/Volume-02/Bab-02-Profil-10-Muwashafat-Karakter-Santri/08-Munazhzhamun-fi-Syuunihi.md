@@ -1,115 +1,101 @@
 # SUB-BAB 2.8: MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)
-## *Fondasi Keteraturan Hidup, Metodologi Manajemen Loker 5S/5R, Estetika Spasial Asrama, dan Penataan Mental 24-Jam*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-08/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Keteraturan Spasial (*Spatial Psychology*), Manajemen Kualitas Lean & Kaizen (5S), Adab Penataan Kitab Turats, & Ergonomi Asrama  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Pengasuhan Asrama, & Pakar Desain Kurikulum Adab*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### I. Hakikat Munazhzhamun fi Syu'unihi: Ketertiban Fisik sebagai Cermin Jiwa
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Ada sebuah pepatah kearifan kuno yang berbunyi: *"Kondisi kamarmu adalah cerminan dari isi pikiranmu."*
+---
 
-Ketika kita melangkah masuk ke dalam sebagian bilik asrama santri konvensional, kita kerap disuguhi pemandangan yang memilukan hati:
-* Pakaian bersih dan pakaian kotor bercampur baur di dalam lemari yang dijejalkan sembarangan;
-* Kitab-kitab suci bertumpuk miring di lantai semen tanpa sampul pelindung, bercampur dengan bungkus makanan dan kaos kaki kotor;
-* Setiap pagi saat hendak berangkat ke madrasah, suasana asrama berubah menjadi kepanikan massal: santri berteriak-teriak mencari pecinya yang hilang, berebut setrika, atau kalang kabut mencari buku tugas yang terselip entah di mana.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Kekacauan fisik (*physical disorder*) semacam ini bukan sekadar masalah estetika sepele, melainkan **manifestasi dari kelumpuhan manajemen mental (*mental clutter*)**. Santri yang hidup dalam kesemrawutan ruang akan menghabiskan energi kognitifnya setiap hari hanya untuk mencari barang-barang yang tercecer, memicu stres kronis, dan menurunkan kualitas fokus belajarnya.
+Penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-Dalam Ekosistem TUMBUH, **Munazhzhamun fi Syu'unihi** (Teratur dan Rapi dalam Segala Urusan Hidup) adalah wujud nyata dari keimanan dan adab. Islam adalah agama yang mencintai keindahan dan keteraturan (*Inna Allaha jamilun yuhibbul jamal*). Santri dididik untuk menguasai keterampilan manajemen tata ruang pribadi, memelihara perlengkapan hidupnya dengan standar 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*), dan menata ritme kesehariannya dengan presisi yang menenangkan jiwa.
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph PilarKeteraturan["TIGA PILAR UTAMA MUNAZHZHAMUN FI SYU'UNIHI EKOSISTEM TUMBUH"]
-        PorosTertib["MUNAZHZHAMUN FI SYU'UNIHI (KETERATURAN HIDUP 24 JAM)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        PorosTertib --> P1["1. MANAJEMEN LOKER & RUANG PRIBADI BERBASIS 5S/5R<br/>Pemisahan baju bersih-kotor, zonasi loker teratur, kasur rapi bersudut, & kamar estetik."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        PorosTertib --> P2["2. PENATAAN KITAB & PERLENGKAPAN BELAJAR BERADAB<br/>Kitab bersampul rapi, Al-Qur'an di posisi teratas, & tas sekolah siap H-1 malam."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        PorosTertib --> P3["3. MANAJEMEN RENCANA HARIAN (DAILY ACTION PLAN)<br/>Menata alur waktu dari bangun tidur hingga tidur kembali tanpa disorientasi."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 2.8.1:</b> Tiga Pilar Operasional Karakter Munazhzhamun fi Syu'unihi Santri.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### II. Khazanah Turats: Syarah Imam Al-Khathib Al-Baghdadi & Syekh Az-Zarnuji
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Penghormatan ulama salaf terhadap keteraturan penataan buku dan kerapian hidup merupakan teladan peradaban yang sangat memukau.
-
-#### 1. Keindahan dan Kerapian adalah Bagian dari Sunnah
-Dalam hadits shahih yang diriwayatkan oleh **Imam Muslim**[^1], Rasulullah SAW bersabda:
-
-$$\text{إِنَّ اللهَ جَمِيلٌ يُحِبُّ الْجَمَالَ}$$
-
-**Artinya:** *"Sesungguhnya Allah itu Maha Indah dan mencintai keindahan."*
-
-#### 2. Adab Menata Kitab Menurut Imam Al-Khathib Al-Baghdadi
-Dalam mahakaryanya *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'*[^2], **Al-Hafizh Al-Khathib Al-Baghdadi** menetapkan protokol kerapian penuntut ilmu:
-> *"Wajib bagi penuntut ilmu untuk memelihara kerapian kitab-kitabnya. Janganlah ia meletakkan kitab berserakan di tanah, jangan melipat halaman buku sebagai pembatas, dan hendaklah ia menyusun kitab-kitabnya berdasarkan kemuliaan ilmunya: meletakkan Al-Qur'anul Karim di tumpukan paling atas, disusul kitab Shahih Hadits, kitab Fiqih, Ushul, hingga kitab Bahasa.*
-> 
-> *Kerapian lemari buku dan kebersihan catatan seorang murid mencerminkan ketajaman akal dan kesucian adabnya kepada ilmu."*
-
-Senada dengan itu, **Syekh Burhanuddin Az-Zarnuji** dalam *Ta'lim al-Muta'allim*[^3] menegaskan bahwa keberkahan ilmu dan kemudahan pemahaman diperoleh salah satunya melalui keteraturan tulisan (*husnul khath*) dan penjagaan alat-alat tulis agar selalu siap digunakan.
-
----
-
-### III. Tinjauan Sains: Metodologi Kaizen 5S & Psikologi Ketertiban Ruang
-
-Bagaimana sains manajemen kualitas dan psikologi lingkungan membuktikan keunggulan hidup teratur?
-
-#### 1. Implementasi Metodologi Lean 5S (5R) di Asrama Pesantren
-Metodologi efisiensi industri global dari Jepang **5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)**[^4] diadaptasi secara sempurna ke dalam pembiasaan asrama TUMBUH:
-* **1. Seiri (Ringkas / Sisihkan)**: Memilah barang yang masih terpakai dan menyedekahkan pakaian/barang yang sudah kekecilan atau tidak terpakai; tidak menimbun sampah di loker.
-* **2. Seiton (Rapi / Susun)**: Memberi label dan menempatkan setiap barang pada zonanya (Rak 1: Baju gantung/seragam; Rak 2: Baju lipat; Rak 3: Buku & alat shalat; Rak 4: Peralatan mandi).
-* **3. Seiso (Resik / Bersihkan)**: Membersihkan debu loker dan menyapu lantai kamar setiap hari.
-* **4. Seiketsu (Rawat / Standarisasi)**: Mempertahankan standar kerapian kamar setiap saat, bukan hanya saat ada inspeksi.
-* **5. Shitsuke (Rajin / Pembiasaan Diri)**: Menjadikan keteraturan sebagai refleks watak yang mendarah daging.
-
-#### 2. Riset Psikologi Ketertiban Ruang Kathleen Vohs
-Pakar psikologi dari University of Minnesota, **Prof. Kathleen D. Vohs**[^5] membuktikan melalui riset eksperimental bahwa lingkungan ruang yang rapi dan teratur (*orderly environment*) secara signifikan meningkatkan:
-* Ketaatan terhadap norma moral dan aturan sosial;
-* Kecenderungan untuk berbagi dan bersedekah (*altruistic behavior*);
-* Ketahanan konsentrasi belajar dan penurunan hormon stres kortisol.
-
-```mermaid
-graph LR
-    subgraph Dampak5S["DAMPAK PSIKOLOGIS PENERAPAN LOKER 5S DI ASRAMA"]
-        Ruang5S["Penerapan Standar Loker 5S & Kasur Rapi Bersudut"] --> BebanKognitifTurun["Beban Kognitif Pencarian Barang Turun Drastis (Dari 15 Mnt ke 5 Dtk)"]
-        BebanKognitifTurun --> KetenanganSpasial["Tercipta Ketenangan Batin (Spatial Peace) & Waktu Belajar Meningkat"]
-        KetenanganSpasial --> KarakterTertib["Terbentuk Mentalitas Disiplin, Teliti, & Beradab Tinggi"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.8.2:</b> Alur Transformasi dari Manajemen Loker 5S Menuju Ketenangan Mental Santri.</sub></div>
-
----
-
-### IV. Matriks Indikator Perilaku Faktual Munazhzhamun fi Syu'unihi (24 Jam)
-
-| Objek & Waktu Keseharian | Indikator Perilaku Positif (Munazhzhamun fi Syu'unihi) | Perilaku Defisit / Kesemrawutan | Protokol Pembiasaan Sistemik TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Tempat Tidur Saat Bangun Pagi** | Menarik sprei kencang bebas kerutan, melipat selimut rapi di ujung kasur, menaruh bantal sejajar. | Meninggalkan kasur dalam kondisi acak-acakan, selimut terlempar di lantai, bantal berceceran. | Pembiasaan protokol 2 menit *Make Your Bed* setiap fajar sebelum melangkah ke masjid. |
-| **Penataan Loker Pribadi (5S)** | Pakaian tersusun rapi sesuai kategori (gamis, seragam, kaos), tidak ada barang basah di loker. | Loker dijejali pakaian kusut bercampur baur, makanan terbuka mengundang semut/tikus. | Audit mingguan visual 5S kamar dengan feedback edukatif tanpa mempermalukan santri. |
-| **Penataan Meja Belajar & Kitab** | Kitab tersusun tegak bersampul rapi, alat tulis berada di kotak pensil, meja bebas sampah. | Kitab terbuka tergeletak di lantai, halaman terlipat, pulpen berserakan di kolong ranjang. | Pembagian rak buku bersekat untuk setiap santri dan gerakan *Cinta Kitab Suci*. |
-| **Persiapan Sekolah Madrasah (H-1 Malam)** | Menyiapkan seragam tersetrika, tas sekolah, dan buku pelajaran sebelum tidur pukul 21.45 WIB. | Baru mencari buku dan kaos kaki saat bel madrasah berbunyi, panik, dan terlambat masuk kelas. | Rutinitas 10 menit persiapan H-1 malam di setiap kamar asrama dipandu Musyrif. |
-
----
-
-### V. Solusi Sistemik TUMBUH: Standarisasi Desain Loker & Festival Kamar Asri
-
-Lembaga merumuskan program pendukung:
-1. **Desain Modular Loker Ergonomis**: Setiap santri difasilitasi loker pribadi 4 sekat standar dengan ventilasi udara yang baik dan gantungan baju standar.
-2. **Festival Kamar Asri & Estetik (*Bi'ah Jamilah Award*)**: Penghargaan bulanan bagi kamar yang paling konsisten menjaga kerapian 5S, kebersihan sanitasi, dan kenyamanan belajar, dengan hadiah jamuan makan bersama pengasuh pondok.
+Praksis **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Al-Imam Abu al-Husain Muslim bin al-Hajjaj an-Naisaburi**, *Shahih Muslim*, Kitab al-Iman, Bab Tahrim al-Kibr wa Bayanihi (Kairo: Dar Ihya' at-Turats al-'Arabi, 1955), Hadits No. 91.
-[^2]: **Al-Hafizh Al-Khathib Abu Bakar Ahmad bin Ali al-Baghdadi**, *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'*, Tahqiq: Dr. Mahmud ath-Thahhan (Riyadh: Maktabah al-Ma'arif, 1983), Jilid I, hlm. 380–415.
-[^3]: **Al-Imam Burhanuddin al-Zarnuji**, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Tahqiq: Syaikh Mustafa Asyur (Kairo: Dar al-I'tisham, 1986), Bab "Fi Adab al-Kutub", hlm. 55–68.
-[^4]: **Hiroyuki Hirano**, *5 Pillars of the Visual Workplace: The Sourcebook for 5S Implementation* (Portland: Productivity Press, 1995), Bab 1–3, hlm. 1–45; serta **Masaaki Imai**, *Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy* (New York: McGraw-Hill, 2012).
-[^5]: **Kathleen D. Vohs, Joseph P. Redden, & Ryan Rahinel**, "Physical order produces healthy choices, generosity, and conventionality, whereas disorder produces creativity", *Psychological Science*, Vol. 24, No. 9 (2013), hlm. 1860–1867.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

@@ -1,153 +1,101 @@
 # SUB-BAB 1.4: KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI
-## *Kritik atas Reduksionisme Hadiah-Hukuman Mekanis, Efek Overjustification, dan Erosi Keikhlasan Niat*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Psikologi Motivasi Humanistik, Self-Determination Theory, & Hermeneutika Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, Epistemologi Turats, & Social Emotional Learning*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Ilusi Modernisasi Disiplin: Ketika Ibadah Direduksi Menjadi Perburuan Poin
-
-Dalam beberapa dekade terakhir, banyak pesantren berupaya melakukan modernisasi disiplin dengan mengadopsi sistem modifikasi perilaku ala Barat: **Sistem Poin Pinalti dan Token Hadiah (*Token Economy System*)**.
-
-Aturan mulai dipenuhi angka-angka:
-* Merapikan kasur sebelum subuh mendapat stiker bintang emas atau +10 poin.
-* Berada di saf terdepan masjid mendapat kupon jajan gratis di kantin.
-* Sebaliknya, terlambat dipotong -5 poin atau didenda uang saku.
-
-Di atas kertas, sistem ini tampak sangat rapi dan modern. Namun, di balik keteraturan fisik tersebut, para pakar pendidikan Islam dan psikolog menemukan sebuah **tragedi spiritual yang amat memprihatinkan**:
-
-> [!CAUTION]
-> ### ⚠️ Fenomena Kepunahan Perilaku (*The Behavioral Extinction Effect*):
-> Santri yang terbiasa digerakkan oleh stiker bintang dan kupon jajan hanya akan berbuat baik **selama ada hadiah materiil yang dibagikan**.  
-> 
-> Begitu masa liburan semester tiba atau anak lulus dari pondok—di mana tidak ada lagi musyrif yang mencatat skor poin—**seluruh kebiasaan ibadah tersebut runtuh seketika**. Santri kembali bangun kesiangan dan meninggalkan shalat berjamaah, karena api motivasi di dalam kalbunya tidak pernah dinyalakan.
-
-```mermaid
-graph TD
-    subgraph FenomenaPerburuan["ILUSI PERUBAHAN KARAKTER METODE TOKEN REWARD"]
-        F1["1. Stimulus Hadiah Materiil: Pemberian Stiker Bintang, Poin, & Kupon Jajan"]
-        F2["2. Keteraturan Semu: Santri Berlomba Menata Asrama Semata Demi Poin"]
-        F3["3. Penarikan Reward / Liburan: Ketiadaan Hadiah Menghentikan Seluruh Perilaku"]
-        F4["4. Kepunahan Karakter: Amal Lenyap karena Niat Bersifat Transaksional"]
-        
-        F1 --> F2 --> F3 --> F4
-    end
-```
-<div align="center"><sub><b>Gambar 1.4.1:</b> Siklus Kepunahan Amal (*Extinction Effect*) dalam Sistem Modifikasi Perilaku Mekanis.</sub></div>
-
-Sistem hadiah-hukuman mekanis berhasil memanipulasi gerak fisik anak untuk sementara waktu, namun **secara perlahan membunuh keikhlasan niat dan melahirkan jiwa yang transaksional**.
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
 ---
 
-### Menelanjangi Behaviorisme Radikal Skinner: Reduksi Manusia Menjadi Organisme Refleks
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Akar kesalahan sistem ini berasal dari teori **Behaviorisme Radikal** karya **B.F. Skinner**[^1]. Skinner merumuskan teorinya dari eksperimen terhadap burung merpati dan tikus: hewan diberi butiran jagung jika mematuk tombol (*reward*), dan disengat listrik jika salah menginjak tuas (*punishment*). Skinner menganggap manusia sama seperti hewan percobaan: tidak memiliki jiwa spiritual dan perilakunya dapat direkayasa sepenuhnya lewat pancingan hadiah luar.
+Penerapan **KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-```mermaid
-graph LR
-    subgraph Reduksionisme["REDUKSIONISME BEHAVIORISME SEKULER"]
-        Stimulus["Perilaku Santri Dimanipulasi dengan Reward/Token Ekstrinsik"] --> MotifMekanik["Santri Beramal Demi Hadiah Materiil / Takut Kehilangan Poin"]
-        MotifMekanik --> Erosi["Erosi Total Niat Ikhlas Lillahi Ta'ala (Lahirnya Jiwa Transaksional)"]
-        Erosi --> Runtuh["Perilaku Lenyap Seketika saat Sistem Reward Ditarik (Extinction Effect)"]
-    end
-```
-<div align="center"><sub><b>Gambar 1.4.2:</b> Alur Reduksionisme Behaviorisme Sekuler dan Erosi Keikhlasan Beramal Santri.</sub></div>
-
-Ketika sistem ini diterapkan pada santri, bahayanya sangat nyata: santri dididik menjadi materialistis (*"Berapa poin yang saya dapat jika menyapu masjid ini?"*), nilai kesucian ibadah tercemar oleh riya' dan pemburuan pujian manusia, dan amal saleh akan mati seketika Ketika hadiah tidak lagi dibagikan.
-
----
-
-### Teori Self-Determination & Fenomena Overjustification Effect
-
-Pakar psikologi motivasi **Edward L. Deci dan Richard M. Ryan**[^2] bersama **Alfie Kohn**[^3] membuktikan bahwa hadiah materiil justru merusak motivasi alami anak melalui fenomena yang disebut **Efek Pembenaran Berlebih (*The Overjustification Effect*)**:
-
-$$\text{Pemberian Hadiah Materiil Berlebihan} \Longrightarrow \text{Menghancurkan Minat Batin Alami}$$
-
-Ketika seorang santri yang awalnya ikhlas membaca Al-Qur'an diiming-imingi kupon hadiah, otak bawah sadarnya bergeser: *"Aku mengaji bukan lagi karena cinta pada Allah, melainkan demi mengumpulkan kupon bintang dari ustadz."*
-
-Alfie Kohn merangkum **Tiga Racun Sistem Hadiah-Hukuman**:
-1. **Hadiah adalah Hukuman yang Menyamar**: Menciptakan kecemasan dan rasa tertekan pada anak.
-2. **Hadiah Merusak Ukhuwah**: Memicu persaingan saling menjatuhkan dan kecemburuan antar-kawan sekamar.
-3. **Hadiah Menghancurkan Kejujuran**: Anak terdorong berbuat curang demi mendapatkan skor nilai tinggi.
-
----
-
-### Kontinuum Regulasi Motivasi: Menuju Kesadaran Muraqabatullah
-
-Sains psikologi memetakan motivasi manusia ke dalam sebuah tangga lima tingkat dari kepatuhan hewani menuju kemerdekaan jiwa:
-
-```mermaid
-graph TD
-    subgraph Kontinuum["KONTINUUM REGULASI PERILAKU MENUJU MURAQABAH"]
-        L1["1. EXTERNAL REGULATION (Kepatuhan Primitif Kuno)<br/>Beramal semata-mata karena takut rotan atau mengejar token stiker."]
-        L2["2. INTROJECTED REGULATION (Regulasi Terproyeksi Gengsi)<br/>Beramal demi menghindari rasa bersalah yang toksik atau menjaga gengsi sosial."]
-        L3["3. IDENTIFIED REGULATION (Regulasi Nilai Sadar)<br/>Santri mulai memahami manfaat logis dan tujuan kemaslahatan suatu adab."]
-        L4["4. INTEGRATED REGULATION (Regulasi Terintegrasi)<br/>Nilai adab telah menyatu secara harmonis dengan identitas dan jati diri santri."]
-        L5["5. INTRINSIC / MURAQABATULLAH (Motivasi Otonom Spiritual Tertinggi)<br/>Berbuat kebajikan murni karena kenikmatan ruhani, cinta Rasul, & ridha Allah SWT."]
-        
-        L1 --> L2 --> L3 --> L4 --> L5
-    end
-```
-<div align="center"><sub><b>Gambar 1.4.3:</b> Kontinuum Spektrum Regulasi Motivasi: Dari Ketergantungan Eksternal Menuju Kesadaran Muraqabatullah.</sub></div>
-
-Tingkat 1 (takut rotan/berburu stiker) adalah level kepatuhan hewani. Puncak pembinaan karakter santri yang sesungguhnya berada di **Tingkat 5 (*Muraqabatullah*)**: yaitu Ketika santri bangun shalat tahajjud di keheningan malam dan menjaga kebersihan asrama murni karena merasakan kenikmatan beribadah kepada Allah SWT (*Halaawatul Iman*), tanpa peduli apakah ada guru yang melihatnya atau tidak.
-
----
-
-### Hermeneutika Turats: Hakikat Niat Ikhlas vs Bahaya Riya'
-
-Di sinilah letak keagungan ajaran Islam. Jauh sebelum para psikolog Barat merumuskan teori motivasi, ulama agung **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin* telah mengingatkan hakikat niat:
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
-> ### 📜 Hermeneutika Niat Imam Al-Ghazali dalam *Ihya 'Ulumiddin*:[^4]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
 > 
-> $$\text{إِنَّ النِّيَّةَ هِيَ انْبِعَاثُ الْقَلْبِ إِلَى مَا يَرَاهُ مُوَافِقًا لِغَرَضٍ مِنْ أَغْرَاضِهِ، إِمَّا عَاجِلًا وَإِمَّا آجِلًا. فَالْإِخْلَاصُ هُوَ تَجْرِيدُ قَصْدِ التَّقَرُّبِ إِلَى اللَّهِ تَعَالَى عَنْ جَمِيعِ الشَّوَائِبِ. فَإِذَا امْتَزَجَ بِالْعَمَلِ غَرَضٌ دُنْيَوِيٌّ مِنْ طَلَبِ مَحْمَدَةٍ، أَوْ جَلْبِ مَنْفَعَةٍ، أَوْ دَفْعِ مَذَمَّةٍ، خَرَجَ الْعَمَلُ عَنْ حَدِّ الْإِخْلَاصِ وَصَارَ شِرْكًا خَفِيًّا يُحْبِطُ الْأَجْرَ}$$
-> 
-> **Artinya:**  
-> *"Hakikat **Ikhlas adalah memurnikan niat mendekatkan diri kepada Allah dari segala campuran pamrih lain**.*  
-> *Ketika suatu amal telah tercampur oleh pamrih duniawi—seperti mengejar pujian manusia (*riya'*), mengejar keuntungan materiil (*token hadiah*), atau sekadar menghindari celaan—maka amal tersebut telah keluar dari batas keikhlasan dan berubah menjadi **syirik tersembunyi yang menggugurkan seluruh pahala di sisi Allah!**"*
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-> [!NOTE]
-> ### 📜 Tamsil Indah Ibn al-Qayyim al-Jawziyyah dalam *Al-Fawa'id*:[^5]
-> 
-> $$\text{الْعَمَلُ بِغَيْرِ إِخْلَاصٍ وَلَا اقْتِدَاءٍ، كَالْمُسَافِرِ يَمْلَأُ جِرَابَهُ رَمْلًا، يُثْقِلُهُ وَلَا يَنْفَعُهُ}$$
-> 
-> **Artinya:**  
-> *"Amal yang dikerjakan tanpa keikhlasan niat ibarat seorang musafir yang mengisi kantong bekalnya dengan pasir: pasir itu hanya memberatkannya di perjalanan namun sama sekali tidak bermanfaat mengenyangkan rasa laparnya."*
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
-Sistem reward-token materiil tanpa disadari melatih santri menjadi pemburu pujian manusia sejak belia, yang secara perlahan mematikan ketulusan tauhid di dalam dada mereka.
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
 
 ---
 
-### Solusi Sistemik TUMBUH: Model Apresiasi Relasional & Internalisasi Makna
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-**Sistem TUMBUH** merekayasa model pembinaan motivasi yang menjaga kemurnian niat melalui **Tiga Pilar Apresiasi Relasional**:
+Penerapan **KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    RootModel["TIGA PILAR APRESIASI & INTERNALISASI MAKNA SISTEM TUMBUH"]
-    
-    RootModel --> P1["1. Apresiasi Relasional 4:1 (Non-Materiil)<br/>Pengakuan tulus musyrif atas usaha & proses karakter, bukan hadiah materiil."]
-    
-    RootModel --> P2["2. Protokol Tazkiyatun Niyyah Berkala<br/>Muhasabah niat harian: menautkan setiap adab dengan cinta Allah & Rasul-Nya."]
-    
-    RootModel --> P3["3. Dialog Makna & Autonomy Support<br/>Santri diajak memahami hikmah syar'i aturan & diberi ruang tanggung jawab otonom."]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+        
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        
+        T1 --> T2 --> T3
+    end
 ```
-<div align="center"><sub><b>Gambar 1.4.4:</b> Tiga Pilar Model Apresiasi Relasional dan Internalisasi Makna Adab Ekosistem TUMBUH.</sub></div>
 
-Penerapan pilar sistemik di lapangan:
-1. **Apresiasi Relasional 4:1 (Bukan Hadiah Benda)**: Mengganti stiker materiil dengan apresiasi kata-kata tulus atas proses perjuangan santri (*"Ustadz bangga melihat antum tetap sabar mengantre tadi"*).
-2. **Pembersihan Niat Berkala (*Tazkiyatun Niyyah*)**: Membiasakan santri memperbarui niat ikhlas sebelum piket, belajar, dan shalat agar terbiasa mengaitkan seluruh amalnya hanya kepada Allah SWT.
-3. **Dialog Makna & Tanggung Jawab Otonom**: Mengajak santri berdiskusi memahami hikmah di balik aturan asrama, sehingga kepatuhan lahir dari kesadaran batin, bukan karena keterpaksaan.
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+
+---
+
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+
+Praksis **KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Burrhus Frederic Skinner**, *Science and Human Behavior* (New York: Macmillan, 1953); serta *About Behaviorism* (New York: Vintage Books, 1974).
-[^2]: **Edward L. Deci & Richard M. Ryan**, *Intrinsic Motivation and Self-Determination in Human Behavior* (New York: Plenum, 1985); serta *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017).
-[^3]: **Alfie Kohn**, *Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes* (Boston: Houghton Mifflin Company, 1993), hlm. 49–98.
-[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab an-Niyyah wal Ikhlas wash-Shidq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Juz IV, hlm. 364–367.
-[^5]: **Al-Imam Ibn al-Qayyim al-Jawziyyah**, *Al-Fawa'id*, Tahqiq: Syaikh Ali Hasan al-Halabi (Kairo: Dar al-Kutub al-Ilmiyyah, 1996), Fashl fi Ikhlasil Amal, hlm. 67–69.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

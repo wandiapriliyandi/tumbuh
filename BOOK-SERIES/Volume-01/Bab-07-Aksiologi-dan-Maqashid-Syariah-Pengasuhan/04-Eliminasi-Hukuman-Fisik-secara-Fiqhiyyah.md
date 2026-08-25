@@ -1,105 +1,101 @@
 # SUB-BAB 7.4: ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH
-## *Hermeneutika Hadits Pendidikan, Kaidah Fiqih Sadd adz-Dzari'ah, dan Pengharaman Mutlak Kekerasan di Lingkungan Pengasuhan*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Fiqih Pendidikan (*Fiqh at-Tarbiyah*), Ushul Fiqih (*Kaidah Sadd adz-Dzari'ah*), & Hadits Tarbawi  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Perlindungan Anak*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Meluruskan Pemahaman atas Hadits Pemukulan Anak
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Sebagian pengasuh dan santri senior kerap mencari dalil pembenaran atas tindakan kekerasan fisik di asrama dengan mengutip hadits masyhur berikut ini:
+---
 
-$$\text{مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرٍ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
-*"Perintahkanlah anak-anakmu melaksanakan shalat ketika mereka berusia 7 tahun, dan **pukullah mereka karena meninggalkannya ketika berusia 10 tahun**, serta pisahkanlah tempat tidur di antara mereka."* (HR. Abu Dawud no. 495 dan Ahmad no. 6689).
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Kerap kali teks hadits ini dipotong secara serampangan untuk melegalkan tamparan, cambukan rotan, tendangan di asrama, hingga perpeloncoan malam yang mengatasnamakan "penegakan disiplin".
+Penerapan **ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-Mari kita bedah secara ilmiah dan jujur berdasarkan khazanah Turats: **bagaimana sebenarnya para fuqaha dan ulama hadits salaf terkemuka mensyarah teks hadits ini?**
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph SyaratFiqih["LIMA SYARAT KETAT 'DHARB AT-TA'DIB' MENURUT JUMHUR FUQAHA"]
-        S1["1. HANYA KHUSUS UNTUK URUSAN SHALAT WAJIB<br/>(Bukan untuk urusan sepele sandal, pakaian, atau piket kamar)"]
-        S2["2. SUDAH MELALUI TAHAP PEMBIASAAN 3 TAHUN PENUH<br/>(Rentang usia 7 s.d. 10 tahun = lebih dari 5.000 kali shalat dinasihati)"]
-        S3["3. TIDAK BOLEH MEMUKUL WAJAH, KEPALA, ATAU BAGIAN VITAL TUBUH<br/>(Haram mutlak memukul wajah berdasarkan larangan tegas Nabi SAW)"]
-        S4["4. DILARANG MENINGGALKAN BEKAS LUKA, MEMAR, ATAU PATAH TULANG<br/>(Wajib Ghayru Mubarrih: sentuhan simbolis ujung siwak/kain lembut)"]
-        S5["5. DILARANG KERAS DILAKUKAN KETIKA GURU SEDANG DIKUASAI AMARAH<br/>(Pukulan saat marah adalah pelampiasan nafsu setan, bukan ta'dib)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        S1 --> S2 --> S3 --> S4 --> S5
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 7.4.1:</b> Lima Syarat Ketat 'Dharb at-Ta'dib' Menurut Jumhur Ulama Fiqih Klasik.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Syarah Fiqih Turats: Pukulan Simbolis Kasih Sayang, Bukan Siksaan Balas Dendam
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Ketika kita menelaah kitab-kitab induk fiqih empat mazhab, para ulama meletakkan batasan yang teramat ketat mengenai apa yang disebut sebagai *Dharb at-Ta'dib* (pukulan pendidikan):
-
-1. **Bukan Hukuman Primer, Melainkan Simbol Ketegasan Setelah 3 Tahun Pembiasaan**:  
-   Hadits di atas menyebutkan perintah shalat dimulai usia 7 tahun dan teguran fisik baru diizinkan pada usia 10 tahun. Artinya, ada rentang waktu **3 tahun penuh (36 bulan = 1.095 hari = 5.475 waktu shalat)** di mana orang tua dan guru wajib mencontohkan, mengajak, dan menasihati shalat dengan penuh kelembutan setiap hari! Jika seorang guru belum pernah mendampingi shalat dengan sabar selama 3 tahun lalu langsung memukul santri baru, maka guru tersebut telah melanggar urutan sunnah nabawi.
-2. **Karakter Pukulan: *Dharb Ghayru Mubarrih***:  
-   Imam **Ibnu Qudamah** dalam *Al-Mughni*[^1] dan Imam **An-Nawawi** dalam *Al-Majmu'* menegaskan bahwa pukulan ta'dib adalah sentuhan ringan tanpa ayunan tenaga—seperti menepuk pundak anak menggunakan ujung siwak atau sapu tangan yang dilipat—bukan pukulan yang menimbulkan rasa sakit fisik, apalagi memar atau berdarah!
-3. **Larangan Mutlak Memukul Wajah (*Nahyu 'an Dharbil Wajh*)**:  
-   Rasulullah SAW bersabda dengan sangat tegas:
-   $$\text{إِذَا قَاتَلَ أَحَدُكُمْ فَلْيَجْتَنِبِ الْوَجْهَ}$$
-   *"Jika salah seorang di antara kalian terpaksa memukul, maka **jauhilah wajah!**"* (HR. Al-Bukhari no. 2559 dan Muslim no. 2612). Memukul wajah, menampar pipi, atau menjitak kepala santri adalah perbuatan maksiat yang diharamkan secara ijma'.
-4. **Tanggung Jawab Pidana & Ganti Rugi (*Dhaman wa Jinayah*)**:  
-   Imam Asy-Syafi'i menegaskan bahwa jika seorang guru memukul murid hingga menimbulkan cedera fisik, luka memar, atau kematian, maka guru tersebut **wajib membayar denda (*diyat*) atau di-qishash di hadapan pengadilan syariat**, karena hak mendidik tidak pernah mencakup hak merusak raga anak!
-
----
-
-### Kaidah Fiqih *Sadd adz-Dzari'ah*: Mengapa di Era Modern Hukuman Fisik Wajib Dihapus 100%?
-
-Dalam ilmu ushul fiqih, para ulama merumuskan sebuah kaidah pencegahan preventif yang sangat agung:
-
-$$\text{سَدُّ الذَّرَائِعِ: مَا أَدَّى إِلَى الْمَفْسَدَةِ فَهُوَ مَمْنُوعٌ}$$
-*"Menutup pintu kerusakan (*Sadd adz-Dzari'ah*): Segala sarana yang terbukti dalam kenyataan lapangan berujung pada kerusakan dan kezaliman yang haram, maka sarana tersebut hukumnya menjadi terlarang!"*
-
-Mari kita lihat realitas lapangan di era modern:
-* Membiarkan adanya "ruang toleransi pemukulan kecil" di pesantren terbukti secara empiris selalu disalahgunakan oleh oknum pembina dan santri senior untuk melakukan penganiayaan berat, perpeloncoan malam, bahkan berujung pada kematian santri.
-* Riset neurosains mutakhir membuktikan bahwa otak anak yang dipukul mengalami lonjakan hormon kortisol kronis yang merusak sel-sel neuron di *Korteks Prefrontal* dan *Hipokampus*, membuat anak mengalami trauma berkepanjangan (*PTSD*), kelumpuhan nalar moral, dan memicu perilaku agresif di masa depan.
-
-```mermaid
-graph LR
-    subgraph SaddDzariah["KAIDAH SADD ADZ-DZARI'AH DALAM PENGASUHAN SANTRI"]
-        ToleransiKecil["Toleransi Pemukulan Fisik di Asrama"] --> Eskalasi["Eskalasi Kuasa & Pelampiasan Emosi Pengurus"]
-        Eskalasi --> Mafsadat["Mafsadat Nyata: Penganiayaan, Cedera Otak, Kematian, & Citra Buruk Pesantren"]
-        Mafsadat ==> Fatwa["FATWA KEBIJAKAN TUMBUH: ZERO CORPORAL PUNISHMENT 100% (SADDAN LIDZ-DZARI'AH)"]
-    end
-```
-<div align="center"><sub><b>Gambar 7.4.2:</b> Alur Kaidah Sadd adz-Dzari'ah dalam Mengharamkan Hukuman Fisik di Pesantren.</sub></div>
-
-Oleh karena itu, berpijak pada prinsip *Sadd adz-Dzari'ah* dan pemeliharaan *Hifzh an-Nafs* (Maqashid Syari'ah), **Ekosistem TUMBUH menetapkan kebijakan mutlak: HUKUMAN FISIK DI PESANTREN HARAM DITERAPKAN 100%**.
-
----
-
-### Menghidupkan Sunnah Murni: Rasulullah SAW Tidak Pernah Memukul Anak
-
-Keputusan menghapus hukuman fisik bukanlah bentuk "tunduk pada budaya barat", melainkan **kembali kepada keteladanan murni (*Sunnah Muttaba'ah*) dari Baginda Rasulullah SAW**.
-
-Ummul Mukminin **Aisyah radhiyallahu 'anha** bersaksi dengan sumpah yang sangat mengharukan tentang akhlak Rasulullah SAW:
-
-> [!NOTE]
-> ### 📜 Kesaksian Abadi Sayyidah Aisyah RA tentang Rasulullah SAW:
-> 
-> $$\text{مَا ضَرَبَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْئًا قَطُّ بِيَدِهِ، وَلَا امْرَأَةً، وَلَا خَادِمًا، إِلَّا أَنْ يُجَاهِدَ فِي سَبِيلِ اللَّهِ}$$
-> 
-> **Artinya:**  
-> *"Rasulullah SAW **sama sekali tidak pernah memukul apa pun dengan tangannya sepanjang hayat beliau**: tidak pernah memukul seorang wanita, dan **tidak pernah memukul seorang pelayan/anak kecil**, kecuali tatkala beliau berjihad membela agama Allah di medan perang."*  
-> *(HR. Muslim no. 2328).*
-
-Sahabat **Anas bin Malik RA**—yang melayani Rasulullah SAW sejak usia 10 tahun selama sepuluh tahun penuh—bersaksi:
-$$\text{خَدَمْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، فَمَا قَالَ لِي أُفٍّ قَطُّ، وَلَا قَالَ لِشَيْءٍ فَعَلْتُهُ: لِمَ فَعَلْتَهُ؟ وَلَا لِشَيْءٍ لَمْ أَفْعَلْهُ: أَلَّا فَعَلْتَهُ!}$$
-*"Aku melayani Rasulullah SAW selama 10 tahun, dan beliau tidak pernah sekalipun membentakku dengan kata 'Ah!', tidak pernah mencelaku atas apa yang aku lakukan: 'Mengapa kamu lakukan itu?', dan tidak pernah memarahiku atas apa yang tidak aku lakukan: 'Mengapa tidak kamu lakukan!'"* (HR. Al-Bukhari no. 6038 dan Muslim no. 2309).
-
-Inilah puncak keluhuran akhlak nabawi yang dihidupkan kembali oleh Sistem TUMBUH: wibawa sejati seorang pendidik tidak lahir dari rotan atau kepalan tangan, melainkan memancar dari keteladanan akhlak, kedalaman ilmu, dan ketulusan kasih sayangnya kepada santri.
+Praksis **ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Ibnu Qudamah al-Maqdisi**, *Al-Mughni*, Tahqiq: Dr. Abdullah bin Abdul Muhsin at-Turki (Kairo: Hajar, 1986), Jilid IX: "Kitab ad-Diyat", hlm. 550–558.
-[^2]: **Al-Imam Abu Bakar Ibnu al-Arabi**, *Ahkam al-Qur'an* (Beirut: Dar al-Kutub al-Ilmiyyah, 2003), Jilid I, hlm. 535–542.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

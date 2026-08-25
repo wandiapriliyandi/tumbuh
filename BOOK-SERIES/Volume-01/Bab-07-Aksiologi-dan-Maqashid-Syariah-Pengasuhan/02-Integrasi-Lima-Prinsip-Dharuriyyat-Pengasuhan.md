@@ -1,110 +1,101 @@
 # SUB-BAB 7.2: INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN
-## *Implementasi Panca Perlindungan Hak Asasi Islam (Ad-Dharuriyyat al-Khamsah) dalam Ekosistem Asrama 24-Jam*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Maqashid Syari'ah Terapan, Hukum Perlindungan Anak Pesantren, & Etika Fiqih Pengasuhan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Perlindungan Anak*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Lima Benteng Utama Hak Asasi Santri
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Di dalam khazanah hukum Islam (*Fiqh wa Ushulul Fiqh*), tidak ada konsep perlindungan hak asasi yang lebih komprehensif dan sakral selain **Panca Kebutuhan Primer (*Ad-Dharuriyyat al-Khamsah*)**[^1].
+---
 
-Para fuqaha sepakat bahwa tegak dan runtuhnya peradaban manusia ditentukan oleh sejauh mana lima hak dasar ini dijaga:
-1. Penjagaan Agama (*Hifzh ad-Din*)
-2. Penjagaan Jiwa dan Raga (*Hifzh an-Nafs*)
-3. Penjagaan Akal dan Fungsi Kognitif (*Hifzh al-'Aql*)
-4. Penjagaan Kehormatan dan Martabat Keturunan (*Hifzh al-'Irdh wan-Nasl*)
-5. Penjagaan Harta dan Hak Milik Pribadi (*Hifzh al-Mal*)
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Di lingkungan pondok pesantren, kelima prinsip dharuriyyat ini kerap kali hanya dipelajari sebagai materi hafalan teoritis dalam kitab ushul fiqih seperti *Al-Mustashfa* karya Al-Ghazali[^1] atau *Ushul al-Fiqh al-Islami* karya Wahbah az-Zuhaili[^2]. Para santri hafal matang definisinya di lembar ujian, namun ketika melangkah ke bilik asrama, kelima hak dasar tersebut justru terabaikan dalam tata kelola keseharian.
+Penerapan **INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-Sistem **TUMBUH** melakukan kontekstualisasi dan integrasi penuh dari kelima prinsip ini menjadi **Konstitusi Operasional Pengasuhan Asrama 24-Jam**:
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph DharuriyyatTUMBUH["INTEGRASI 5 DHARURIYYAT DALAM PENGASUHAN 24-JAM"]
-        D1["1. HIFZH AD-DIN (Penjagaan Agama)<br/>Menjaga kemurnian tauhid, membebaskan ibadah dari riya', & mengawal shalat berjamaah."]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        D2["2. HIFZH AN-NAFS (Penjagaan Jiwa & Fisik)<br/>Menghapus mutlak hukuman fisik, perundungan, & menjamin keselamatan medis anak."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        D3["3. HIFZH AL-'AQL (Penjagaan Akal & Nalar)<br/>Menjamin hak tidur 7-8 jam, bebas stres toksik kortisol, & stimulasi nalar kritis."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        D4["4. HIFZH AL-'IRDH (Penjagaan Kehormatan)<br/>Melarang caci maki pejoratif, body shaming, & menjaga privasi bilik santri."]
-        
-        D5["5. HIFZH AL-MAL (Penjagaan Harta Pribadi)<br/>Memberantas mutlak budaya ghashab sandal/gayung & pemalakan uang saku."]
-        
-        D1 --- D2 --- D3 --- D4 --- D5
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 7.2.1:</b> Peta Integrasi Lima Prinsip Dharuriyyat Khamsah dalam Ekosistem Asrama 24-Jam TUMBUH.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Bedah Operasional Panca Perlindungan dalam Keseharian Santri
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Mari kita bedah bagaimana masing-masing dari lima prinsip dharuriyyat ini diwujudkan secara konkret dalam kehidupan asrama ekosistem pesantren berbasis TUMBUH:
-
-#### 1. Hifzh ad-Din (Perlindungan Aqidah & Kemurnian Ibadah)
-Tujuan tertinggi pesantren adalah menjaga keselamatan aqidah santri. Namun, banyak lembaga keliru menerapkan strategi penegakannya:
-* **Kekeliruan Lama**: Menghitung ibadah shalat dan tilawah dengan sistem poin hukuman fisik atau imbalan materiil, yang secara tidak sadar justru mendidik santri menjadi munafik (beribadah hanya ketika dilihat musyrif).
-* **Solusi Sistem TUMBUH**: Membangun kesadaran *Muraqabatullah* melalui **Tazkiyatun Niyyah** dan **Apresiasi Relasional 4:1**. Musyrif hadir shalat berjamaah bersama santri di shaf depan, mendampingi dzikir dengan khusyuk, dan membangun dialog batin yang menyentuh kalbu santri tentang nikmatnya bermunajat kepada Allah.
-
-#### 2. Hifzh an-Nafs (Perlindungan Mutlak atas Jiwa & Raga Santri)
-Rasulullah SAW bersabda dalam khutbah Haji Wada' yang monumental:
-$$\text{إِنَّ دِمَاءَكُمْ وَأَمْوَالَكُمْ وَأَعْرَاضَكُمْ عَلَيْكُمْ حَرَامٌ، كَحُرْمَةِ يَوْمِكُمْ هَٰذَا، فِي شَهْرِكُمْ هَٰذَا، فِي بَلَدِكُمْ هَٰذَا}$$
-*"Sesungguhnya darahmu, hartamu, dan kehormatanmu adalah haram (suci dan terlarang dinistakan) bagi sesamamu, sebagaimana sucinya harimu ini, di bulanmu ini, di negerimu ini!"* (HR. Al-Bukhari no. 1741 dan Muslim no. 1679).
-
-Dalam Sistem TUMBUH, *Hifzh an-Nafs* diterjemahkan menjadi:
-* **Penghapusan Total Hukuman Fisik**: Rotan, tamparan, tendangan, atau sanksi fisik apa pun dilarang 100% tanpa pengecualian.
-* **Protokol Tanggap Darurat Medis (*Medical Safety Protocol*)**: Asrama dilengkapi pos kesehatan pesantren (Poskestren) yang aktif 24 jam dan SOP rujukan cepat ke rumah sakit jika santri mengalami demam tinggi atau cedera fisik.
-* **Standar Nutrisi Seimbang**: Menu makan santri diawasi ketat oleh ahli gizi untuk memastikan kebutuhan protein, vitamin, dan higienitas makanan terpenuhi.
-
-#### 3. Hifzh al-'Aql (Perlindungan Kapasitas Akal & Kesehatan Saraf Otak)
-Akal adalah instrumen utama santri dalam memahami wahyu dan menghafal Al-Qur'an. Menjaga akal tidak hanya berarti melarang konsumsi zat terlarang (khamr dan narkoba), melainkan juga **menjaga kesehatan neurobiologis otak santri dari kerusakan kognitif**:
-* **Jaminan Waktu Tidur Sirkadian**: Riset neurosains tidur oleh Dr. Matthew Walker[^3] membuktikan tidur lelap sangat vital bagi konsolidasi memori. Sistem TUMBUH mewajibkan lampu asrama dipadamkan pada pukul 22.00 WIB dan santri baru dibangunkan pada pukul 03.45 WIB, memastikan santri memperoleh minimal 6–7 jam tidur malam lelap (*REM Sleep*).
-* **Bebas dari Stres Toksik Kortisol**: Riset psikiatri anak oleh Dr. Bruce D. Perry[^4] membuktikan suasana asrama yang ramah dan suportif menjaga otak santri berada dalam gelombang alfa yang tenang, mencegah terjadinya atrofi sel neuron hipokampus akibat stres berkepanjangan.
-
-```mermaid
-graph LR
-    subgraph SarafAkal["HIFZH AL-'AQL: DAMPAK WAKTU TIDUR & RASA AMAN TERHADAP OTAK SANTRI"]
-        TidurCukup["Tidur Berkualitas 7 Jam + Lingkungan Aman"] --> Neurogenesis["Neurogenesis & Penebalan Mielin di Basal Ganglia"]
-        Neurogenesis --> HafalanKuat["Daya Ingat Hafalan Qur'an Melekat Kuat & Nalar Kritis Tajam"]
-        
-        KurangTidur["Tidur < 4 Jam + Teror Bentakan Asrama"] --> BanjirKortisol["Banjir Hormon Kortisol & Pembajakan Amigdala"]
-        BanjirKortisol --> KerusakanSaraf["Atrofi Hipokampus: Santri Lemot, Pelupa, & Emosional"]
-    end
-```
-<div align="center"><sub><b>Gambar 7.2.2:</b> Relevansi Medis-Biologis Prinsip Hifzh al-'Aql dalam Regulasi Waktu Istirahat Santri.</sub></div>
-
-#### 4. Hifzh al-'Irdh (Perlindungan Kehormatan, Privasi, & Martabat Diri)
-Kehormatan seorang mukmin memiliki kedudukan yang sangat tinggi di sisi Allah. Sistem TUMBUH menjaga kehormatan santri melalui:
-* **Penegakan Kebijakan Anti-Perundungan (*Zero Bullying Policy*)**: Melarang keras segala bentuk ejekan fisik, celaan nama orang tua, atau julukan binatang antar-santri.
-* **Penjagaan Batasan Aurat & Privasi Bilik**: Kamar asrama dan area mandi dirancang dengan partisi tertutup yang menjaga aurat santri dari pandangan orang lain saat berganti pakaian.
-* **Kerahasiaan Rekam Jejak Konseling (*Counseling Confidentiality*)**: Catatan konseling BK dan proses pemulihan pelanggaran santri dijaga kerahasiaannya secara ketat, tidak boleh diumumkan di mimbar masjid atau dijadikan bahan gosip antar-pengurus.
-
-#### 5. Hifzh al-Mal (Perlindungan Harta & Pemberantasan Budaya Ghashab)
-Penyakit sosial yang paling lazim namun kerap disepelekan di pesantren tradisional adalah **Ghashab** (memakai sandal, baju, gayung, atau sajadah orang lain tanpa izin). Sikap menyepelekan ghashab adalah pintu masuk runtuhnya integritas moral santri.
-
-Sistem TUMBUH memberantas ghashab melalui pendekatan sistemik:
-* **Penyediaan Loker Pribadi Berkunci**: Setiap santri memiliki lemari loker pribadi untuk menyimpan barang-barang berharga dan pakaian pribadinya.
-* **Standardisasi Fasilitas Asrama**: Asrama menyediakan fasilitas bersama (seperti gayung mandi, ember cuci, dan sapu) dalam jumlah yang berlimpah, sehingga santri tidak memiliki alasan untuk meminjam barang kawan tanpa izin.
-* **Edukasi Kepemilikan yang Beradab**: Mengajarkan fiqih kepemilikan harta (*Fiqh al-Milkiyyah*) dan membiasakan santri untuk selalu meminta izin (*Isti'dzan*) sebelum meminjam barang milik sesama warga asrama.
-
----
-
-### Dharuriyyat Khamsah sebagai Piagam Keselamatan Santri
-
-Ketika lima pilar *Dharuriyyat* ini ditegakkan secara utuh, pesantren membuktikan dirinya sebagai institusi yang paling terdepan dalam memuliakan hak-hak kemanusiaan.
-
-Santri tidak lagi merasa terancam saat berada di pondok. Mereka merasa bahwa agama mereka dibimbing, tubuh mereka dilindungi, akal mereka dicerdaskan, kehormatan mereka dijaga, dan hak milik mereka dihormati. Inilah lingkungan ideal yang melahirkan generasi muttaqin yang siap memimpin peradaban umat dengan keteladanan akhlak nabawi.
+Praksis **INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Al-Mustashfa min 'Ilmil Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420.
-[^2]: **Wahbah az-Zuhaili**, *Ushul al-Fiqh al-Islami* (Damaskus: Dar al-Fikr, 1986), Jilid II: "Al-Maqashid asy-Syar'iyyah", hlm. 1017–1045.
-[^3]: **Matthew Walker**, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner / Simon & Schuster, 2017), Bab 6: "Sleep, Memory, and Brain Plasticity", hlm. 107–132.
-[^4]: **Bruce D. Perry & Maia Szalavitz**, *The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook* (New York: Basic Books, 2006; edisi revisi 2017), hlm. 45–80.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

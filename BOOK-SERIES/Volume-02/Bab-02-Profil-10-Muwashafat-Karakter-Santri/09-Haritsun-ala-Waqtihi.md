@@ -1,112 +1,101 @@
 # SUB-BAB 2.9: HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)
-## *Fondasi Penjagaan Modal Kehidupan, Eliminasi Prokrastinasi, Matriks Prioritas Kuadran II, dan Nilai Waktu Ulama Turats 24-Jam*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-09/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Manajemen Waktu & Prokrastinasi, Epistemologi Nilai Waktu (*Qimatuz Zaman*), *Time-Blocking Methodology*, & Produktivitas Belajar  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Psikologi Belajar, & Pakar Pedagogi Master Guru*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### I. Hakikat Haritsun 'ala Waqtihi: Waktu Adalah Modal Eksistensial Utama
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Dalam filsafat pendidikan Islam, waktu bukanlah sekadar deretan detik pada jam dinding, bukan pula "uang" sebagaimana dalam adagium materialistis Barat (*time is money*). Waktu adalah **kehidupan itu sendiri (*al-waqtu huwa al-hayah*)** dan modal eksistensial paling berharga yang dianugerahkan Allah kepada manusia untuk mengumpulkan bekal akhirat.
+---
 
-Namun, di banyak lingkungan asrama, kebocoran waktu (*time leakage*) menjadi penyakit laten yang paling banyak membunuh potensi santri:
-* **Sindrom Menunda-nunda (*Chronic Procrastination*)**: Baru mulai belajar menghafal kitab pada pukul 23.00 WIB malam saat besok paginya ada ujian setoran (*the cramming trap*);
-* **Obrolan Hampa (*Laghow / Idle Gossip*)**: Menghabiskan waktu berjam-jam ba'da ashar atau ba'da isya hanya untuk duduk melamun di teras atau mengobrolkan hal-hal yang tidak bernilai ilmu maupun pahala;
-* **Budaya "Jam Karet"**: Terbiasa datang terlambat ke masjid atau ke ruang madrasah tanpa merasa bersalah (*punctuality deficit*).
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Dalam Ekosistem TUMBUH, **Haritsun 'ala Waqtihi** (Sangat Menjaga dan Menghargai Waktu) adalah tanda kematangan akal dan keimanan. Santri dalam sistem TUMBUH dilatih untuk menjadi tuan atas waktunya: mampu membagi waktu secara cerdas (*Time Blocking*), memprioritaskan aktivitas utama di atas aktivitas sekunder, dan memanfaatkan waktu-waktu sela (*micro-time*) untuk memperbanyak dzikir, muroja'ah hafalan, dan karya produktif.
+Penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph PilarWaktu["TIGA PILAR UTAMA HARITSUN 'ALA WAQTIHI EKOSISTEM TUMBUH"]
-        PorosWaktu["HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS 24 JAM)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        PorosWaktu --> P1["1. ELIMINASI PROKRASTINASI & TEKNIK POMODORO<br/>Mengerjakan tugas saat pertama kali diberikan; memecah belajar dalam blok 25 menit."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        PorosWaktu --> P2["2. MANAJEMEN PRIORITAS MATRIKS KUADRAN II<br/>Fokus pada hal 'PENTING & TIDAK MENDESAK' (Muthala'ah, Ibadah, Olahraga, & Ukhuwah)."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        PorosWaktu --> P3["3. OPTIMALISASI WAKTU SELA (MICRO-TIME MANAGEMENT)<br/>Mengantongi buku saku mufrodat & muroja'ah 5 menit saat antre makan atau wudhu."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 2.9.1:</b> Tiga Pilar Operasional Karakter Haritsun 'ala Waqtihi Santri.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### II. Khazanah Turats: Syarah Hasan Al-Bashri & Syaikh Abu Ghuddah (*Qimatuz Zaman*)
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Para ulama salafus shalih adalah manusia yang paling kikir terhadap waktunya melebihi orang bakhil yang menjaga hartanya.
-
-#### 1. Wasiat Keabadian Imam Hasan Al-Bashri
-Ulama tabi'in agung **Imam Al-Hasan Al-Bashri**[^1] mewariskan untaian hikmah yang menggetarkan kalbu:
-
-$$\text{يَا ابْنَ آدَمَ، إِنَّمَا أَنْتَ أَيَّامٌ، كُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكَ}$$
-
-**Artinya:** *"Wahai anak Adam! Sesungguhnya hakikat dirimu hanyalah kumpulan hari-hari; setiap kali satu hari berlalu dari hidupmu, maka hilanglah sebagian dari keberadaan dirimu."*
-
-Beliau juga menegaskan: *"Aku menjumpai suatu kaum (para sahabat Nabi) yang mereka itu jauh lebih kikir terhadap waktu-waktu mereka daripada kekikiran kalian terhadap dinar dan dirham kalian."*
-
-#### 2. Mahakarya Syaikh Abdul Fattah Abu Ghuddah (*Qimatuz Zaman 'indal 'Ulama*)
-Ulama hadits dan pakar tarbiyah terkemuka abad ke-20, **Syaikh Abdul Fattah Abu Ghuddah** dalam kitab monumentalnya *Qimatuz Zaman 'indal 'Ulama*[^2] mengisahkan bagaimana para ulama klasik memanfaatkan setiap detik kehidupannya:
-* **Al-Imam Ibnu Jarir ath-Thabari** menulis 40 lembar karya ilmiah setiap hari sepanjang 40 tahun hidupnya;
-* **Al-Imam Abu al-Wafa' Ibnu 'Aqil** memakan roti kering yang dicelupkan ke air agar tidak membuang waktu mengunyah makanan, seraya berkata: *"Aku tidak rela membiarkan satu jam pun dari umurku berlalu tanpa lidahku membaca ilmu atau tanganku menulis catatan."*
-
----
-
-### III. Tinjauan Sains: Psikologi Prokrastinasi & Matriks Prioritas Eisenhower-Covey
-
-Bagaimana sains perilaku modern menjelaskan fenomena penundaan waktu dan solusinya?
-
-#### 1. Hakikat Prokrastinasi sebagai Masalah Regulasi Emosi (Timothy Pychyl)
-Pakar psikologi prokrastinasi dunia **Dr. Timothy A. Pychyl**[^3] membuktikan bahwa menunda-nunda pekerjaan (*procrastination*) bukanlah masalah ketidakmampuan mengatur jadwal jam dinding, melainkan **kegagalan regulasi emosi (*short-term mood repair*)**:
-* Ketika santri dihadapkan pada tugas hafalan kitab yang sulit, otaknya merasa cemas dan terancam;
-* Untuk meredakan rasa cemas sesaat tersebut, santri melarikan diri ke aktivitas yang memberi kesenangan instan (seperti mengobrol atau melamun);
-* Solusinya adalah teknik **"Just Start 5 Minutes"**: membimbing santri untuk mulai membaca hanya 5 menit pertama, yang secara otomatis menurunkan ambang kecemasan otak (*activation energy hurdle*).
-
-#### 2. Matriks Manajemen Waktu Kuadran II Stephen R. Covey
-Pakar kepemimpinan global **Stephen R. Covey**[^4] merumuskan Matriks 4 Kuadran Waktu:
-
-```mermaid
-graph TD
-    subgraph MatriksWaktu["MATRIKS KUADRAN WAKTU STEPHEN COVEY DI PESANTREN"]
-        Q1["KUADRAN I: Mendesak & Penting<br/>(Krisis, Ujian Besok Pagi, Tugas Deadline Menumpuk)<br/><i>Dampak: Stres, Kelelahan, Panik</i>"]
-        
-        Q2["KUADRAN II: TIDAK MENDESAK TAPI SANGAT PENTING<br/>(Muthala'ah Harian, Tahajjud, Olahraga, Perencanaan Karir, Ukhuwah)<br/><b>PUSAT PERTUMBUHAN SANTRI TUMBUH (PROAKTIF & TENANG)</b>"]
-        
-        Q3["KUADRAN III: Mendesak tapi Tidak Penting<br/>(Gangguan Kawan, Interupsi Tak Terduga)<br/><i>Dampak: Fokus Terpecah</i>"]
-        
-        Q4["KUADRAN IV: Tidak Mendesak & Tidak Penting<br/>(Melamun Berjam-jam, Obrolan Unfaedah, Begadang Kosong)<br/><i>Dampak: Kebinasaan Waktu (Laghow)</i>"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.9.2:</b> Matriks Empat Kuadran Waktu dalam Kehidupan Santri Pesantren.</sub></div>
-
-Santri dalam sistem TUMBUH dilatih untuk mengalokasikan 70% energinya di **Kuadran II**: aktivitas yang tidak mendesak namun sangat menentukan kualitas masa depannya (seperti muroja'ah rutin, qiyamul lail, dan menjaga kesehatan).
-
----
-
-### IV. Matriks Indikator Perilaku Faktual Haritsun 'ala Waqtihi (24 Jam)
-
-| Situasi Ritme Waktu Harian | Indikator Perilaku Positif (Haritsun 'ala Waqtihi) | Perilaku Defisit / Pemborosan Waktu | Tindakan Terbimbing Ekosistem TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Transisi Jam Madrasah & Masjid** | Hadir 5 menit sebelum bel masuk atau adzan berkumandang, siap dengan perlengkapan lengkap. | Datang terlambat terengah-engah setelah guru berada di kelas atau imam telah ruku'. | Budaya ketepatan waktu (*Punctuality Creed*) dan penugasan piket penyambut waktu. |
-| **Pemanfaatan Waktu Sela (Micro-Time)** | Membaca 1 lembar Al-Qur'an atau kartu saku kosakata Arab saat mengantre makanan/laundry. | Berdiri bengong, saling senggol, atau mengeluh panjang tentang lamanya antrean. | Gerakan *Pocket Card Mufrodat*: membekali santri kartu hafalan saku yang mudah dibawa. |
-| **Mengerjakan Tugas Belajar & PR** | Langsung menuntaskan tugas di jam muthala'ah sore hari tanpa menunggu malam ujian. | Menunda tugas hingga larut malam, menyalin tugas kawan di pagi hari sebelum bel masuk. | Penerapan teknik Pomodoro terpimpin (25 menit hening belajar, 5 menit relaksasi) di aula. |
-| **Waktu Ba'da Isya (20.30 - 21.45 WIB)** | Mengoptimalkan untuk muthala'ah kitab, muroja'ah tahfizh, dan persiapan tidur tepat waktu. | Duduk mengobrol ngalor-ngidul di tangga asrama, ribut main tebak-tebakan tidak berfaedah. | Pengawasan aktif koridor asrama oleh Musyrif Asrama dan penataan ruang belajar hening. |
-
----
-
-### V. Solusi Sistemik TUMBUH: Protokol Jam Sinkron & Daily Time-Blocking Sheet
-
-Lembaga merumuskan fasilitas pendukung:
-1. **Sinkronisasi Jam Digital Pesantren (*Unified Clock System*)**: Seluruh jam dinding di madrasah, masjid, asrama, dan ruang makan disinkronkan secara presisi menggunakan waktu server digital terpusat.
-2. **Lembar Perencanaan Blok Waktu (*Daily Time-Blocking Sheet*)**: Setiap santri menyusun jadwal harian mandiri di awal pekan, memetakan jam belajar, ibadah, olahraga, dan istirahat dalam blok-blok waktu visual yang disiplin.
+Praksis **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Abu Nu'aim Ahmad bin Abdillah al-Ashbahani**, *Hilyatul Auliya' wa Thabaqat al-Ashfiya'* (Kairo: Maktabah al-Khanji, 1932), Jilid II, hlm. 145–160 (Biografi Al-Hasan Al-Bashri).
-[^2]: **Syaikh Abdul Fattah Abu Ghuddah**, *Qimatuz Zaman 'indal 'Ulama* (Aleppo & Beirut: Maktab al-Mathbu'at al-Islamiyyah, 1984; Edisi ke-10, 2012), hlm. 25–88.
-[^3]: **Timothy A. Pychyl**, *Solving the Procrastination Puzzle: A Concise Guide to Solving the Procrastination Problem* (New York: TarcherPerigee / Penguin Random House, 2013), Bab 1–3, hlm. 1–45; serta **Piers Steel**, "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure", *Psychological Bulletin*, Vol. 133, No. 1 (2007), hlm. 65–94.
-[^4]: **Stephen R. Covey**, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* (New York: Free Press, 1989; Edisi Peringatan 30 Tahun, Simon & Schuster, 2020), Habit 3: "Put First Things First", hlm. 157–195.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

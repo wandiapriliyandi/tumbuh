@@ -1,154 +1,101 @@
 # SUB-BAB 2.1: KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL
-## *Hakikat Insan Pembelajar dalam Pandangan Teologi Islam, Hermeneutika Perjanjian Azali, dan Bantahan atas Tabula Rasa Sekuler*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Teologi Islam (*Ilmul Kalam*), Antropologi Filosofis, Psikologi Perkembangan Fitrah, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Epistemologi Turats*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Jejak Cahaya di Lubuk Jiwa Setiap Santri
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Pernahkah kita merenungkan sebuah keajaiban batin yang terjadi Ketika seorang santri baru melangkah melewati pintu gerbang pondok?
+---
 
-Di dalam dadanya, anak itu tidak datang dengan kekosongan mutlak tanpa arah. Jauh di kedalaman jiwanya yang paling hening, tersimpan sebuah kompas batin yang tak kasat mata: kerinduan alami kepada kebenaran, rasa kagum pada kebaikan, rasa bersalah Ketika berbuat zalim, dan getaran cinta kepada Sang Pencipta.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Pendidikan Islam tidak pernah memandang santri sebagai "kertas putih kosong" yang pasif, apalagi memandangnya sebagai "makhluk kotor pembawa dosa warisan" yang harus ditaklukkan dengan pentungan. Di dalam pandangan teologi Islam, setiap anak manusia lahir membawa **Kesucian Primordial (*Fitrah al-Munazzalah*)**—sebuah cetak biru keluhuran moral yang telah dipatri langsung oleh Allah SWT sejak di alam arwah.
+Penerapan **KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    AlamArwah["ALAM ARWAH: PERJANJIAN AZALI (AL-MITHAQ)<br/>Kesaksian Jiwa atas Rububiyyah Allah SWT (QS. Al-A'raf: 172)"]
-    AlamArwah --> Kelahiran["KELAHIRAN KE DUNIA: KESUCIAN PRIMORDIAL (FITRAH)<br/>Membawa Potensi Tauhid, Integritas Moral, & Kerinduan pada Kebaikan"]
-    
-    Kelahiran --> BiahTUMBUH["BI'AH SHALIHAH (Ekosistem TUMBUH)<br/>Menyiram Benih Fitrah dengan Qudwah, Kasih Sayang, & Ta'dib"]
-    BiahTUMBUH --> Mekar["FITRAH MEKAR SEMPURNA MENJADI INSAN ADABI"]
-    
-    Kelahiran --> BiahToksik["LINGKUNGAN TOKSIK (Kekerasan & Teror)<br/>Menimbun Fitrah dengan Trauma, Dendam, & Sandiwara Moral"]
-    BiahToksik --> Tertutup["FITRAH TERBELENGGU (GHUBRA & FASAD)"]
-```
-<div align="center"><sub><b>Gambar 2.1.1:</b> Trajektori Perjalanan Fitrah dari Perjanjian Azali Menuju Mekarnya Insan Adabi dalam Ekosistem TUMBUH.</sub></div>
-
-Bagan di atas merangkum perjalanan eksistensial fitrah manusia: benih kesucian yang dibawa sejak alam arwah akan mekar menjadi pribadi santri paripurna jika disiram oleh lingkungan yang hangat (*Bi'ah Shalihah*), atau sebaliknya akan tertimbun debu kepalsuan jika dirusak oleh pola asuh kekerasan.
-
----
-
-### Prolegomena Teologis: Perjanjian Azali (*Al-Mithaq*) sebagai Akar Eksistensial
-
-Al-Qur'an mengabadikan dialog agung yang mendasari eksistensi ruhani setiap manusia:
-
-> [!NOTE]
-> ### 📜 Firman Allah SWT tentang Kesaksian Primordial Jiwa Manusia:
-> 
-> $$\text{وَإِذْ أَخَذَ رَبُّكَ مِن بَنِي آدَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰ أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ ۖ قَالُوا بَلَىٰ ۛ شَهِدْنَا ۛ أَن تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَٰذَا غَافِلِينَ}$$
-> 
-> **Artinya:**  
-> *"Dan (ingatlah) ketika Tuhanmu mengeluarkan keturunan anak-anak Adam dari sulbi mereka dan Allah mengambil kesaksian terhadap jiwa mereka (seraya berfirman): 'Bukankah Aku ini Tuhanmu?' Mereka menjawab: 'Benar (Engkau Tuhan kami), kami menjadi saksi.' (Kami lakukan yang demikian itu) agar di hari kiamat kamu tidak mengatakan: 'Sesungguhnya kami adalah orang-orang yang lengah terhadap ini.' "*  
-> *(QS. Al-A'raf: 172)*
-
-Perjanjian azali (*Al-Mithaq*) ini membuktikan bahwa fitrah santri pada dasarnya sudah mengenal Allah dan mencintai keadilan. Santri yang datang ke pondok bukanlah makhluk asing yang harus "dibuatkan moral baru dari nol", melainkan **jiwa yang perlu diingatkan kembali (*Tadzkir*) dan dibangunkan potensi fitrahnya yang tertidur (*Inma'ul Fitrah*)**.
-
----
-
-### Bantahan Epistemologis atas Tabula Rasa Sekuler dan Doktrin Dosa Asal
-
-Pandangan teologi Islam mengenai fitrah berdiri tegak menolak dua kutub ekstrem filsafat Barat yang keliru:
-
-```mermaid
-graph LR
-    subgraph Barat1["DOKTRIN DOSA ASAL (Augustinian Theology)"]
-        D1["Manusia lahir dalam keadaan rusak/berdosa warisan, harus dihukum keras."]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+        
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        
+        T1 --> T2 --> T3
     end
-
-    subgraph Islam["TEOLOGI FITRAH ISLAM (TUMBUH)"]
-        I1["Manusia lahir suci membawa potensi tauhid (Hanif), tugas pendidik adalah menumbuhkan."]
-    end
-
-    subgraph Barat2["DOKTRIN TABULA RASA (Empirisisme John Locke)"]
-        D2["Manusia lahir seperti kertas kosong netral tanpa kecenderungan bawaan."]
-    end
-
-    Barat1 <-->|"Kritik Islam"| Islam
-    Islam <-->|"Kritik Islam"| Barat2
 ```
-<div align="center"><sub><b>Gambar 2.1.2:</b> Distingsi Epistemologis antara Teologi Fitrah Islam, Doktrin Dosa Asal, dan Tabula Rasa.</sub></div>
 
-Dua kekeliruan besar filsafat Barat yang dibantah secara tuntas oleh Islam:
-
-1. **Bantahan atas Doktrin Dosa Asal (*Original Sin*)**:  
-   Teologi Abad Pertengahan Barat memandang anak lahir membawa kutukan dosa nenek moyang, sehingga mendidik anak diartikan sebagai "menghancurkan kedagingan yang kotor" lewat siksaan fisik. Islam menolak keras paham ini: setiap anak terlahir suci (*thahir*), bersih tanpa dosa, dan tidak memikul kesalahan orang lain (QS. Al-An'am: 164).
-2. **Bantahan atas Doktrin Tabula Rasa (*The Blank Slate*)**:  
-   Filsuf John Locke[^1] menganggap jiwa anak ibarat kertas putih kosong yang pasif tanpa potensi bawaan. Pandangan ini keliru karena mereduksi manusia menjadi benda mati yang dibentuk semata-mata oleh indoktrinasi lingkungan luar.
-
-Islam menegaskan sabda abadi Rasulullah SAW:
-$$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
-*"Setiap anak dilahirkan di atas fitrah kesucian; maka kedua orang tuanyalah (lingkungannyalah) yang menjadikannya Yahudi, Nasrani, atau Majusi."* (HR. Al-Bukhari no. 1358 dan Muslim no. 2658).
-
----
-
-### Analisis Turats Ibn Taimiyyah & Al-Ghazali tentang Sifat Fitrah
-
-Syaikhul Islam **Ibnu Taimiyyah** dalam karyanya *Dar' Ta'arudh al-'Aql wan-Naql*[^2] memberikan perumpamaan yang sangat cemerlang tentang bagaimana fitrah manusia bekerja:
-
-> [!NOTE]
-> ### 📜 Mutiara Ibnu Taimiyyah tentang Daya Tarik Fitrah Menuju Kebaikan:
-> 
-> $$\text{إِنَّ الْفِطْرَةَ سَلِيمَةٌ تَقْتَضِي مَعْرِفَةَ الْحَقِّ وَمَحَبَّتَهُ، وَلَكِنْ قَدْ يَعْرِضُ لَهَا مَا يُفْسِدُهَا مِنَ الشُّبُهَاتِ وَالشَّهَوَاتِ، كَمَا أَنَّ الْعَيْنَ الصَّحِيحَةَ تَقْتَضِي رُؤْيَةَ الشَّمْسِ إِلَّا أَنْ يَحُولَ بَيْنَهَا وَبَيْنَهَا حِجَابٌ}$$
-> 
-> **Artinya:**  
-> *"Sesungguhnya fitrah manusia pada dasarnya sehat dan selamat; ia secara alami menuntut untuk mengenal kebenaran dan mencintainya. Namun terkadang menimpa kepadanya hal-hal yang mengotorinya berupa kerancuan pemikiran (*syubhat*) dan hawa nafsu primitif (*syahwat*)—**sebagaimana mata yang sehat secara alami menuntut untuk melihat cahaya matahari, kecuali jika ada tabir tebal yang menghalanginya**."*
-
-Senada dengan itu, **Imam Abu Hamid Al-Ghazali** dalam *Ihya 'Ulumiddin*[^3] menggambarkan kalbu anak ibarat permata murni:
-
-> [!NOTE]
-> ### 📜 Pesan Imam Al-Ghazali tentang Hati Anak:
-> 
-> $$\text{الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ، وَمَائِلٌ إِلَى كُلِّ مَا يُمَالُ بِهِ إِلَيْهِ}$$
-> 
-> **Artinya:**  
-> *"Anak adalah amanah suci di tangan kedua orang tua dan para pendidiknya. Kalbunya yang bersih adalah permata yang amat berharga, murni, dan siap menerima ukiran kebaikan yang digoreskan padanya."*
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Temuan Sains Modern: Bukti Moral Bawaan Sejak Bayi
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Kebenaran konsep fitrah Islam kini divalidasi secara menakjubkan oleh riset sains perkembangan anak mutakhir:
-* **Riset Yale University oleh Prof. Paul Bloom**[^4] dalam *Just Babies: The Origins of Good and Evil* membuktikan bahwa bayi manusia usia 3–6 bulan secara konsisten memilih karakter yang suka menolong dibanding karakter yang jahat. Ini adalah bukti empiris bahwa rasa keadilan dan empati bukanlah buatan manusia, melainkan perangkat lunak bawaan (*innate moral sense*) yang sudah terpasang sejak lahir.
-* **Teori Moral Foundations oleh Jonathan Haidt**[^5] dalam *The Righteous Mind* membuktikan manusia lahir dengan intuisi kebaikan universal (kepedulian, keadilan, dan kesucian) sebelum mereka belajar membaca teori moral.
-
-Ketika seorang santri melakukan kesalahan di asrama, kesalahan itu bukanlah bukti bahwa jiwanya cacat, melainkan karena benih fitrahnya sedang terhalang oleh debu kebiasaan buruk atau rasa takut yang belum dibimbing dengan benar.
-
----
-
-### Solusi Sistemik TUMBUH: Empat Prinsip Ta'dib Berbasis Fitrah
-
-Berpijak pada ontologi fitrah ini, **Sistem TUMBUH** merumuskan **Empat Prinsip Ta'dib Fitrah**:
-
-```mermaid
-graph TD
-    PrinsipFitrah["EMPAT PRINSIP TA'DIB FITRAH EKOSISTEM TUMBUH"]
-    
-    PrinsipFitrah --> F1["1. Menjaga Martabat Kemanusiaan (Karamah Insaniyyah)<br/>Santri diperlakukan sebagai hamba Allah yang mulia, bukan objek pelampiasan emosi."]
-    
-    PrinsipFitrah --> F2["2. Pendekatan Berbasis Potensi Kebaikan (Strength-Based)<br/>Fokus pembinaan adalah menumbuhkan kebaikan santri, bukan melabeli kekurangannya."]
-    
-    PrinsipFitrah --> F3["3. Keteladanan Nyata Sebelum Kata (Qudwah Hasanah)<br/>Fitrah santri menyerap contoh akhlak musyrif jauh lebih cepat daripada ribuan ceramah."]
-    
-    PrinsipFitrah --> F4["4. Rekayasa Ekologi yang Bersih & Aman (Bi'ah Shalihah)<br/>Menciptakan asrama yang hangat agar benih fitrah mekar tanpa terhalang teror ketakutan."]
-```
-<div align="center"><sub><b>Gambar 2.1.3:</b> Empat Prinsip Ta'dib Fitrah Ekosistem TUMBUH dalam Membimbing Santri.</sub></div>
-
-Penerapan prinsip fitrah ini di pesantren:
-1. **Karamah Insaniyyah**: Tidak ada lagi hukuman fisik, caci maki, atau pembentakan, karena tubuh dan kehormatan santri adalah amanah suci Allah SWT.
-2. **Strength-Based Approach**: Guru fokus mencari percikan kebaikan pada setiap anak—bahkan pada anak yang paling sering melanggar—lalu membesarkan percikan tersebut menjadi api karakter yang kuat.
-3. **Qudwah Hasanah**: Para asatidz dan musyrif menampilkan akhlak sabar, jujur, dan disiplin dalam kehidupan nyata di hadapan santri.
-4. **Bi'ah Shalihah**: Menjaga lingkungan asrama selalu aman dan penuh kasih sayang, sehingga fitrah santri bertumbuh mekar dengan subur.
+Praksis **KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **John Locke**, *An Essay Concerning Human Understanding*, Ed. Peter H. Nidditch (Oxford: Clarendon Press, 1975; cetak ulang dari edisi orisinal 1690), Buku II, Bab I, hlm. 104.
-[^2]: **Syaikhul Islam Ibnu Taimiyyah**, *Dar' Ta'arudh al-'Aql wan-Naql*, Tahqiq: Dr. Muhammad Rasyad Salim (Riyadh: Jami'ah al-Imam Muhammad bin Su'ud al-Islamiyyah, 1411 H), Jilid VIII, hlm. 446–450.
-[^3]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 72–75.
-[^4]: **Paul Bloom**, *Just Babies: The Origins of Good and Evil* (New York: Crown Publishers / Random House, 2013), hlm. 19–45.
-[^5]: **Jonathan Haidt**, *The Righteous Mind: Why Good People Are Divided by Politics and Religion* (New York: Pantheon Books, 2012), Bab 6: "Taste Buds of the Righteous Mind", hlm. 111–134.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

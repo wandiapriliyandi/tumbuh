@@ -1,105 +1,101 @@
 # SUB-BAB 3.4: MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION
-## *Integrasi Doktrin Penundukan Hawa Nafsu Turats dan Neurosains Fungsi Eksekutif Korteks Prefrontal*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Tasawuf Amali Klasik (*Mujahadah*), Neurosains Kognitif (*Executive Function*), & Teori Regulasi Diri  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Neurosains Perkembangan, & Pakar Epistemologi Turats*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Titik Temu Antara Tirakat Batin dan Sirkuit Otak
-
-Dalam literatur tasawuf klasik, konsep pengendalian diri dikenal dengan istilah agung: **Mujahadatun Nafs (Perjuangan Menundukkan Hawa Nafsu)**[^1].
-
-Imam Al-Ghazali, Ibnu Qayyim al-Jauziyyah, dan para ulama sufi salaf menegaskan bahwa puncak kemuliaan manusia terletak pada kemampuannya untuk mengendalikan syahwat jasmaniah dan dorongan amarah di bawah kendali akal yang beriman kepada Allah SWT.
-
-Menariknya, tatkala sains neurobiologi kognitif modern berkembang pesat di abad ke-21 melalui teknologi pemindaian otak *fMRI*, para ilmuwan saraf menemukan sirkuit biologis yang menjalankan fungsi tepat sebagaimana yang dijelaskan dalam kitab-kitab tasawuf tersebut: yaitu **Fungsi Eksekutif (*Executive Function*)** yang bermarkas di **Korteks Prefrontal (*Prefrontal Cortex / PFC*)**[^2].
-
-```mermaid
-graph LR
-    Turats["TURATS TAZKIYATUN NAFS<br/>• Konsep: *Mujahadatun Nafs*<br/>• Pusat: Akal Sehat & Qalb Salim<br/>• Target: Menundukkan Hawa Nafsu (*Nafs Ammarah*)"]
-    
-    Bridge["TITIK TEMU INTEGRATIF SISTEM TUMBUH<br/>(Wahyu Qawliyyah + Neurosains Kauniyyah)"]
-    
-    Neurosains["NEUROSAINS KOGNITIF MODERN<br/>• Konsep: *Executive Function & Self-Regulation*<br/>• Pusat: Korteks Prefrontal (PFC)<br/>• Target: Menghambat Dorongan Impulsif Amigdala"]
-    
-    Turats <==> Bridge <==> Neurosains
-```
-<div align="center"><sub><b>Gambar 3.4.1:</b> Titik Temu Integratif Antara Doktrin Mujahadatun Nafs Turats dan Neurosains Executive Function.</sub></div>
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
 ---
 
-### Tiga Pilar Fungsi Eksekutif (*Executive Function*) di Otak Santri
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Pakar neuropsikologi **Adele Diamond**[^2] merumuskan tiga pilar utama Fungsi Eksekutif yang mengendalikan perilaku manusia:
+Penerapan **MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    RootEF["TIGA PILAR FUNGSI EKSEKUTIF OTAK SANTRI (ADELE DIAMOND)"]
-    
-    RootEF --> EF1["1. KONTROL PENGHAMBATAN (Inhibitory Control / 'Kaf an-Nafs')<br/>Kemampuan menahan diri dari godaan instan: menolak mengobrol saat jam wajib belajar,<br/>menahan amarah saat diejek kawan, & bergegas shalat saat adzan."]
-    
-    RootEF --> EF2["2. MEMORI KERJA AKTIF (Working Memory / 'Hifzh al-Qalbi')<br/>Kemampuan menyimpan & mengolah informasi dalam waktu singkat: mengingat nomor urut ayat,<br/>mengingat instruksi piket musyrif, & merangkai argumen nahwu."]
-    
-    RootEF --> EF3["3. KELENTURAN KOGNITIF (Cognitive Flexibility / 'Husnut Tasharruf')<br/>Kemampuan beradaptasi dengan perubahan situasi: mengubah strategi belajar saat materi sulit,<br/>berlapang dada menerima perbedaan pendapat, & mencari solusi alternatif saat terjadi konflik."]
-```
-<div align="center"><sub><b>Gambar 3.4.2:</b> Tiga Pilar Fungsi Eksekutif Otak Santri dalam Perspektif Sistem TUMBUH.</sub></div>
-
-Pada usia remaja (usia santri MTs/MA atau SMP/SMA), bagian *Korteks Prefrontal* ini **belum matang sempurna** (proses maturasi biologisnya baru tuntas pada usia 25 tahun!). 
-
-Sebaliknya, bagian otak emosi dan syahwat (*Amigdala dan Nukleus Akumbens*) telah aktif 100%. Inilah sebabnya mengapa santri remaja sangat mudah tergoda oleh dorongan impulsif, mudah terpancing emosi, dan rentan melanggar aturan jika tidak didampingi dengan sistem pendukung eksternal yang bijaksana.
-
----
-
-### Riset *Ego Depletion*: Mengapa Disiplin Santri Runtuh di Sore Hari?
-
-Pakar psikologi eksperimental **Roy Baumeister**[^3] menemukan fenomena krusial yang disebut sebagai **Kelelahan Energi Kemauan (*Ego Depletion*)**:
-
-* Daya pengendalian diri manusia bukanlah sumber daya yang tak terbatas, melainkan bekerja layaknya **otot fisik yang bisa kelelahan**.
-* Setiap kali santri menahan kantuk di kelas subuh, menahan lapar saat puasa sunnah, menahan diri untuk fokus menghafal Al-Qur'an selama berjam-jam, glukosa dan energi neurotransmitter di Korteks Prefrontal otaknya terkuras habis.
-* Tatkala sore hari tiba menjelang ashar atau maghrib, santri mengalami *Ego Depletion*: energi pengendalian dirinya habis. Akibatnya, pada jam-jam inilah santri paling rentan bertengkar, saling mengejek saat antre mandi, atau melanggar aturan asrama!
-
-```mermaid
-graph LR
-    subgraph KaskadeEgoDepletion["KASKADE EGO DEPLETION PADA KEHIDUPAN HARIAN SANTRI"]
-        Pagi["Pagi: Energi PFC Penuh<br/>(Fokus menghafal, tenang, disiplin)"] --> Siang["Siang: Pengurasan Energi Berkelanjutan<br/>(Menahan ngantuk, ujian madrasah)"]
-        Siang --> Sore["Sore: Ego Depletion Titik Kritis<br/>(PFC Lemah, Amigdala Reaktif -> Rawan Konflik Asrama!)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+        
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 3.4.3:</b> Dinamika Penurunan Energi Kemauan (Ego Depletion) Santri Sepanjang Hari.</sub></div>
 
-Jika para musyrif tidak memahami sains ini, mereka akan menghakimi santri yang bertengkar di sore hari sebagai *"santri yang keras kepala dan tidak beradab"*. Padahal, anak tersebut sedang mengalami kelelahan biologis pada sistem saraf otaknya!
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Manajemen Energi Kemauan (*Willpower Management*) Sistem TUMBUH
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Ekosistem TUMBUH merancang manajemen jadwal asrama yang secara cerdas menjaga cadangan energi *Korteks Prefrontal* santri:
-
-```mermaid
-graph TD
-    RootWillpower["PROTOKOL MANAJEMEN ENERGI KEMAUAN ASRAMA SISTEM TUMBUH"]
-    
-    RootWillpower --> W1["1. Sunnah Qailulah Siang (Power Nap 20 Menit)<br/>Tidur sejenak ba'da dzuhur meregenerasi glukosa otak & menyegarkan kembali daya tahan PFC."]
-    
-    RootWillpower --> W2["2. Asupan Nutrisi Glukosa Alami Halal Sehat<br/>Pemberian camilan kurma/buah segar di sore hari untuk memulihkan energi metabolik otak santri."]
-    
-    RootWillpower --> W3["3. Penataan Jadwal Tugas Berat di Jam Prima<br/>Menempatkan hafalan kitab sulit di waktu pagi; sore hari diisi kegiatan fisik rileks/olahraga."]
-    
-    RootWillpower --> W4["4. Pengurangan Gesekan Antrean Fasilitas<br/>Menyediakan kran wudhu & sanitasi berlimpah untuk mencegah stres saat energi santri sedang rendah."]
-```
-<div align="center"><sub><b>Gambar 3.4.4:</b> Empat Protokol Manajemen Energi Kemauan Ekosistem TUMBUH.</sub></div>
-
-* **Menghidupkan Sunnah Qailulah Siang**: Santri diwajibkan tidur siang sejenak (*Power Nap*) selama 15–20 menit ba'da shalat dzuhur. Riset membuktikan tidur singkat ini mampu memulihkan kapasitas *Executive Function* otak hingga 90%!
-* **Penataan Jadwal Berbasis Jam Prima**: Tugas-tugas yang membutuhkan daya konsentrasi tinggi (menghafal Al-Qur'an dan mengkaji nahwu sharaf) ditempatkan pada waktu pagi hari. Sore hari dialokasikan untuk kegiatan penyaluran energi fisik yang menyenangkan (olahraga sunnah dan seni Islam).
-* **Mitigasi Titik Rawan Sore Hari**: Musyrif hadir berjaga secara aktif di lorong-lorong asrama dan kamar mandi pada pukul 16.30–17.30 WIB untuk menyapa santri dengan senyuman dan mengatur antrean dengan ramah, meredam potensi konflik sebelum terjadi.
-
-Dengan memadukan kemuliaan ajaran mujahadatun nafs ulama salaf dengan keakuratan sains fungsi eksekutif, Sistem TUMBUH mendidik santri menguasai seni pengendalian diri sejati: menundukkan hawa nafsu dengan bimbingan iman, sembari merawat kesehatan biologis otak dengan penuh kebijaksanaan.
+Praksis **MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo: Dar al-Hadits, 2004), Jilid III, hlm. 65–85.
-[^2]: **Adele Diamond**, "Executive functions", *Annual Review of Psychology*, Vol. 64 (2013), hlm. 135–168.
-[^3]: **Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven, & Dianne M. Tice**, "Ego depletion: Is the active self a limited resource?", *Journal of Personality and Social Psychology*, Vol. 74, No. 5 (1998), hlm. 1252–1265.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

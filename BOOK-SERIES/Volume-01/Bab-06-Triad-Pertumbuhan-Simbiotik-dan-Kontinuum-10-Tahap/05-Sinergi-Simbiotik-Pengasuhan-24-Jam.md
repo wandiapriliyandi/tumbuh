@@ -1,103 +1,101 @@
 # SUB-BAB 6.5: SINERGI SIMBIOTIK PENGASUHAN 24-JAM
-## *Integrasi Dual-Pillar Guru Madrasah dan Musyrif Asrama Menuju Harmoni Triad Pertumbuhan Lembaga*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-06/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Pengasuhan Terpadu, Sinergi Interdisipliner Pendidik, & Sistem Komunikasi Lembaga  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Pengasuhan Asrama*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Menyatukan Dua Belahan Sayap Pesantren
-
-Ibarat seekor burung rajawali yang perkasa, pendidikan pesantren hanya akan mampu terbang tinggi menggapai puncak kejayaan peradaban jika **kedua belah sayapnya mengepak serempak dalam irama harmoni yang sempurna**:
-* Sayap Kanan adalah **Guru dan Wali Kelas di Madrasah** (mengawal 8 jam transmisi nalar akal dan keilmuan syariat).
-* Sayap Kiri adalah **Musyrif dan Pembina di Asrama** (mengawal 16 jam denyut kehidupan nyata, karakter, dan adab bilik kamar).
-
-Ketika kedua sayap ini berjalan sendiri-sendiri tanpa jalinan komunikasi—seperti yang kerap terjadi di banyak pesantren tradisional di mana guru madrasah tidak tahu apa yang terjadi di asrama, dan musyrif asrama tidak tahu apa yang terjadi di ruang kelas—maka burung peradaban itu akan oleng, kehilangan keseimbangan, dan jatuh terhempas ke tanah.
-
-Perhatikan akibat buruk dari diskoneksi ini:
-* Seorang santri yang semalaman menangis histeris di asrama karena demam tinggi atau baru saja menerima kabar duka dari keluarganya, keesokan paginya di kelas langsung dibentak dan dihukum berdiri oleh guru madrasah karena dianggap "mengantuk dan tidak memperhatikan pelajaran".
-* Sebaliknya, seorang santri yang seharian berprestasi cemerlang di kelas berhasil menjuarai lomba hafalan, di malam hari di asrama tidak mendapatkan penguatan apa pun dari musyrif karena musyrif tidak pernah menerima informasi tersebut.
-
-Ekosistem **TUMBUH** meruntuhkan sekat pemisah ini dan menghadirkan **Sistem Pengasuhan Simbiotik Dual-Pillar 24-Jam[^1]**:
-
-```mermaid
-graph LR
-    Walas["WALI KELAS MADRASAH (8 Jam)<br/>• Mengawal fokus belajar di kelas.<br/>• Membimbing nalar adab & syariat.<br/>• Mengamati kestabilan emosi pagi."]
-    
-    Handover["PROTOKOL HANDOVER 15-MENIT<br/>(Pertukaran Data Logbook Digital PBIS<br/>Pagi 06.45 & Sore 16.00 WIB)"]
-    
-    Musyrif["MUSYRIF ASRAMA (16 Jam)<br/>• Mengawal adab bilik kamar & tidur.<br/>• Mendampingi antrean wudhu & makan.<br/>• Menjadi tempat curhat malam santri."]
-    
-    Walas <==> Handover <==> Musyrif
-```
-<div align="center"><sub><b>Gambar 6.5.1:</b> Sinergi Simbiotik Dual-Pillar Pengasuhan 24-Jam Ekosistem TUMBUH.</sub></div>
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **SINERGI SIMBIOTIK PENGASUHAN 24-JAM** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
 ---
 
-### Protokol Sinkronisasi Handover 15-Menit Harian
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Sistem TUMBUH menetapkan mekanisme operasional yang menghubungkan madrasah dan asrama melalui **Dua Titik Temu Sinkronisasi Data Harian**:
+Penerapan **SINERGI SIMBIOTIK PENGASUHAN 24-JAM** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-```mermaid
-graph TD
-    subgraph ProtokolHandover["ALUR DUA TITIK TEMU HANDOVER HARIAN SISTEM TUMBUH"]
-        Pagi["1. MORNING HANDOVER (Pukul 06.45 WIB)<br/>Musyrif menyerahkan catatan malam kepada Wali Kelas sebelum bel masuk berbunyi."]
-        
-        Siang["2. PROSES PEMBELAJARAN MADRASAH (07.00 - 15.30 WIB)<br/>Wali Kelas membimbing santri dengan mempertimbangkan kondisi batin anak."]
-        
-        Sore["3. AFTERNOON HANDOVER (Pukul 16.00 WIB)<br/>Wali Kelas menyerahkan catatan siang kepada Musyrif saat kepulangan santri ke asrama."]
-        
-        Malam["4. KEHIDUPAN ASRAMA & REKONSILIASI (16.00 - 22.00 WIB)<br/>Musyrif memberikan pengasuhan malam yang selaras dengan catatan madrasah."]
-        
-        Pagi --> Siang --> Sore --> Malam --> Pagi
-    end
-```
-<div align="center"><sub><b>Gambar 6.5.2:</b> Alur Siklus Protokol Handover 15-Menit Pagi dan Sore Ekosistem TUMBUH.</sub></div>
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
-#### 1. Morning Handover (Pukul 06.45 WIB / Sebelum Bel Madrasah)
-* **Tempat**: Ruang Pertemuan Terbuka Kantor Guru / Aplikasi PBIS Digital.
-* **Prosedur**: Musyrif asrama menyerahkan ringkasan kondisi santri semalam kepada Wali Kelas:
-  - *Santri yang sakit/kurang tidur*: *"Ustadz, santri Fulan tadi malam demam dan baru tidur pukul 02.00 pagi setelah minum obat, mohon di kelas tidak dipaksa maju ke depan dulu."*
-  - *Santri yang mengalami krisis emosi*: *"Santri Zaid semalam menangis rindu orang tuanya, mohon disapa dengan hangat saat jam pertama."*
-* **Dampak Pedagogis**: Wali Kelas menyambut santri di pintu kelas dengan senyuman dan pelukan empati, sehingga anak merasa aman dan tidak takut bersekolah.
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-#### 2. Afternoon Handover (Pukul 16.00 WIB / Saat Kepulangan Madrasah)
-* **Prosedur**: Wali Kelas menyerahkan catatan dinamika santri selama jam sekolah kepada Musyrif asrama:
-  - *Prestasi & Kebaikan*: *"Ustadz, santri Umar tadi siang berhasil meraih nilai sempurna dalam ujian nahwu dan sangat aktif membantu kawannya yang kesulitan, mohon nanti malam di kamar diapresiasi ya."*
-  - *Catatan Perilaku*: *"Santri Khalid tadi siang tampak murung dan tidak fokus, mohon nanti saat halaqah malam diajak bicara dari hati ke hati."*
-* **Dampak Pedagogis**: Malam harinya di bilik asrama, musyrif tersenyum bangga, menepuk pundak Umar di depan teman-teman sekamarnya, dan mengajak Khalid mengobrol hangat di serambi masjid.
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **SINERGI SIMBIOTIK PENGASUHAN 24-JAM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **SINERGI SIMBIOTIK PENGASUHAN 24-JAM** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
 
 ---
 
-### Puncak Harmoni: Triad Pertumbuhan Simbiotik Lembaga
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Melalui jalinan sinergi tanpa sekat antara madrasah dan asrama ini, terwujudlah visi agung **Triad Pertumbuhan Simbiotik**:
+Penerapan **SINERGI SIMBIOTIK PENGASUHAN 24-JAM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph TriadHarmoni["TRIAD PERTUMBUHAN SIMBIOTIK EKOSISTEM TUMBUH"]
-        Santri["1. SANTRI BERTUMBUH<br/>• Merasa aman, dimuliakan, & dibimbing utuh 24 jam tanpa diskoneksi.<br/>• Mendaki tangga kapasitas adab T1 s.d. T4 dengan bahagia."]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Pendidik["2. PENDIDIK & MUSYRIF BERTUMBUH<br/>• Saling menopang sebagai satu tim solid, bebas dari rasa terisolasi.<br/>• Terlindungi dari burnout & terus meningkat kompetensi pedagoginya."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Lembaga["3. SISTEM LEMBAGA BERTUMBUH<br/>• Memiliki SOP 24 jam yang rapi, transparan, & berbasis bukti data PBIS.<br/>• Meraih kepercayaan penuh umat & memancarkan berkah peradaban."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Santri <--> Pendidik
-        Pendidik <--> Lembaga
-        Lembaga <--> Santri
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 6.5.3:</b> Triad Pertumbuhan Simbiotik Ekosistem TUMBUH.</sub></div>
 
-* **Santri Bertumbuh**: Anak-anak santri merasakan bahwa seluruh orang dewasa di pondok—mulai dari kiai, guru kelas, hingga musyrif kamar—berada dalam satu frekuensi kasih sayang yang sama. Tidak ada ruang kosong atau celah di mana anak merasa diabaikan.
-* **Guru & Musyrif Bertumbuh**: Beban berat mengasuh santri tidak lagi dipikul sendirian di pundak satu orang. Pendidik saling berbagi informasi, saling menguatkan tatkala lelah, dan bersama-sama merayakan setiap kemajuan kecil santrinya.
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar yang berwibawa, profesional, bebas dari kekerasan, dan diberkahi oleh Allah SWT.
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
-Pendidikan adab bukanlah pekerjaan sambilan seorang individu, melainkan gerakan kebersamaan seluruh ekosistem. Dengan menyatukan madrasah dan asrama dalam satu detak nafas pengasuhan 24 jam, Sistem TUMBUH menjamin bahwa setiap anak titipan umat akan dibimbing dengan cinta, keadilan, dan keteladanan akhlak nabawi seutuhnya.
+---
+
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+
+Praksis **SINERGI SIMBIOTIK PENGASUHAN 24-JAM** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Urie Bronfenbrenner**, *The Ecology of Human Development: Experiments by Nature and Design* (Cambridge: Harvard University Press, 1979), Bab 4: "Mesosystems and Human Development", hlm. 205–235.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

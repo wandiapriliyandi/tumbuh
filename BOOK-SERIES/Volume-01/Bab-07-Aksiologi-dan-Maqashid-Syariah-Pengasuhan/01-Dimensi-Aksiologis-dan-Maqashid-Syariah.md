@@ -1,117 +1,101 @@
 # SUB-BAB 7.1: DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN
-## *Tujuan Luhur Penegakan Syariat, Perlindungan Martabat Santri, dan Landasan Nilai Etis Pendidikan Pesantren*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Aksiologi Pendidikan Islam, Filsafat Hukum Islam (*Maqashid asy-Syari'ah*), & Hak Asasi Manusia dalam Islam  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Perlindungan Anak*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Untuk Apa Seluruh Aturan Pesantren Ditegakkan?
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Pernahkah kita berhenti sejenak di tengah hiruk-pikuk aktivitas pesantren dan mengajukan sebuah pertanyaan paling mendasar: *Untuk apa sebenarnya seluruh aturan pondok, jadwal asrama, bel disiplin, dan buku tata tertib ini dibuat?*
+---
 
-Apakah aturan diciptakan semata-mata agar asrama terlihat rapi dan senyap di mata tamu yang berkunjung? Apakah tata tertib dirancang agar pengurus memiliki wewenang untuk menertibkan adik kelasnya? Ataukah ada tujuan yang jauh lebih agung dan transendental di balik setiap butir pasal yang kita susun?
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Dalam ranah filsafat ilmu, pertanyaan tentang nilai, tujuan, dan kemanfaatan ini disebut sebagai **Dimensi Aksiologis (*Axiology*)**. Aksiologi adalah kompas moral penentu arah: ia memastikan bahwa sarana teknis yang kita gunakan tidak melenceng dari tujuan hakiki penciptaannya.
+Penerapan **DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-Di dunia pesantren, banyak krisis pengasuhan terjadi justru ketika sebuah lembaga kehilangan pijakan aksiologisnya. Aturan tata tertib diperlakukan sebagai "benda keramat" yang kaku dan mekanis, sementara manusia yang menjalaninya—yaitu anak-anak santri—diperlakukan layaknya baut dan sekrup di dalam mesin pabrik. Tatkala ada santri yang tersandung, lembaga lebih sibuk menyelamatkan wibawa aturan ketimbang menyelamatkan jiwa anak.
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
-Sistem **TUMBUH** menegaskan bahwa seluruh bangunan pengasuhan pesantren wajib bersandar pada tujuan tertinggi syariat Islam: **Maqashid asy-Syari'ah**.
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph PiramidaAksiologis["ARSITEKTUR AKSIOLOGIS MAQASHID SYARI'AH DALAM SISTEM TUMBUH"]
-        Dharuriyyat["1. TINGKAT DHARURIYYAT (Perlindungan Pokok Hak Asasi Santri)<br/>• Menjamin mutlak keselamatan fisik, mental, & kehormatan santri.<br/>• Zero Tolerance terhadap kekerasan fisik, verbal, & perpeloncoan."]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Hajiyyat["2. TINGKAT HAJIYYAT (Kemudahan, Kenyamanan, & Kelapangan Hidup Asrama)<br/>• Rasio kran wudhu & sanitasi memadai (1:5 santri), ventilasi kamar sehat.<br/>• Perlindungan hak tidur 7-8 jam & pembagian shift musyrif yang adil."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Tahsiniyyat["3. TINGKAT TAHSINIYYAT (Penyempurna Keindahan & Kemuliaan Akhlak)<br/>• Budaya komunikasi santun (Qaulan Karima), seni hadrah, kaligrafi.<br/>• Etiket makan berjamaah, kerapian loker, & tradisi saling memaafkan."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Dharuriyyat ==> Hajiyyat ==> Tahsiniyyat
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 7.1.1:</b> Tiga Tingkatan Piramida Aksiologis Maqashid Syari'ah dalam Pengasuhan Santri Ekosistem TUMBUH.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Menghidupkan Kaidah Emas Imam Asy-Syathibi di Asrama
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Ulama ushul fiqih terkemuka asal Granada, **Imam Abu Ishaq Asy-Syathibi**, dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah*[^1] meletakkan satu kaidah universal yang menjadi pedoman utama peradaban Islam:
-
-> [!NOTE]
-> ### 📜 Kaidah Agung Maqashid Syari'ah Imam Asy-Syathibi:
-> 
-> $$\text{إِنَّ وَضْعَ الشَّرَائِعِ إِنَّمَا هُوَ لِمَصَالِحِ الْعِبَادِ فِي الْعَاجِلِ وَالْآجِلِ مَعًا، وَأَنَّ الشَّرِيعَةَ كُلَّهَا مَبْنِيَّةٌ عَلَى جَلْبِ الْمَصَالِحِ وَدَرْءِ الْمَفَاسِدِ}$$
-> 
-> **Artinya:**  
-> *"Sesungguhnya pensyariatan seluruh hukum agama ini tiada lain bertujuan untuk mewujudkan **kemaslahatan sejati bagi seluruh hamba Allah di dunia maupun di akhirat kelak**; dan sesungguhnya seluruh bangunan syariat ditegakkan di atas prinsip **meraih kemaslahatan (*Jalbul Mashalih*) dan menolak segala bentuk kerusakan (*Dar'ul Mafasid*)**."*
-
-Kaidah ini memberikan standar evaluasi yang sangat jernih bagi para pemangku kebijakan pesantren:
-* Setiap kali kita merumuskan sebuah SOP asrama, tanyakanlah: *Apakah SOP ini mendatangkan kemaslahatan nyata bagi keselamatan jiwa dan perkembangan akal santri, ataukah justru memicu kerusakan mental dan rasa trauma?*
-* Jika sebuah metode penegakan disiplin—seperti menjemur santri di terik matahari berjam-jam atau mencukur rambut secara separuh untuk mempermalukannya—terbukti memicu kebencian batin, rasa terhina, dan merusak harga diri anak, maka metode tersebut secara aksiologis **telah bertentangan secara diametral dengan Maqashid Syari'ah**!
-
-Syariat Islam tidak pernah diturunkan untuk menyiksa manusia. Allah SWT berfirman:
-$$\text{مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ}$$
-*"Allah tidak ingin menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, agar kamu bersyukur."* (QS. Al-Ma'idah: 6).
-
----
-
-### Tiga Tingkatan Kemaslahatan Pengasuhan dalam Sistem TUMBUH
-
-Sistem TUMBUH mengoperasionalkan piramida Maqashid Syari'ah ke dalam tiga tingkatan kebijakan pengasuhan:
-
-```mermaid
-graph LR
-    subgraph PenerapanMaqashid["OPERASIONALISASI TIGA TINGKAT KEMASLAHATAN ASRAMA"]
-        P1["1. DHARURIYYAT (Tingkat Pokok/Primer)<br/>Fokus: Perlindungan Keselamatan & Hak Hidup.<br/>Praktik: Larangan mutlak pemukulan, pengawasan titik rawan 24 jam, makanan bergizi, tanggap darurat medis."]
-        
-        P2["2. HAJIYYAT (Tingkat Kebutuhan Sekunder)<br/>Fokus: Menghilangkan Kesulitan (Raf'ul Haraj).<br/>Praktik: Jadwal harian seimbang, jeda qailulah siang, fasilitas loker pribadi, pendampingan santri homesick."]
-        
-        P3["3. TAHSINIYYAT (Tingkat Estetika & Keindahan)<br/>Fokus: Penyempurna Karakter & Budi Pekerti.<br/>Praktik: Pembiasaan salam hangat, apresiasi 4:1, panggung ekspresi bakat, keindahan taman asrama."]
-        
-        P1 --> P2 --> P3
-    end
-```
-<div align="center"><sub><b>Gambar 7.1.2:</b> Aliran Penerapan Tiga Tingkat Kemaslahatan Maqashid dalam Kebijakan Asrama TUMBUH.</sub></div>
-
-#### 1. Kemaslahatan Dharuriyyat (Hak Asasi Mutlak yang Wajib Dilindungi)
-Tingkat *Dharuriyyat* adalah garis merah yang tidak boleh dilanggar dalam situasi apa pun. Di ranah pengasuhan asrama, tingkat ini mencakup jaminan bahwa tubuh santri tidak boleh disakiti, akalnya tidak boleh dirusak oleh teror mental, dan martabat kehormatannya tidak boleh dinistakan. 
-
-Jika sebuah pesantren mengklaim memiliki program tahfizh yang hebat namun membiarkan santrinya dipukuli oleh senior hingga patah tulang atau lebam di asrama, maka pesantren tersebut telah gagal total pada tingkat *Dharuriyyat*.
-
-#### 2. Kemaslahatan Hajiyyat (Penghapusan Kesulitan Hidup Santri)
-Tingkat *Hajiyyat* bertujuan untuk memudahkan santri dalam menjalani kehidupan belajar (*Raf'ul Haraj wa Daf'ul Masyaqqah*). Ketiadaan sarana pada tingkat ini memang tidak langsung mematikan santri, namun membuat hidup santri sangat menderita dan memicu timbulnya pelanggaran adab.
-
-Contoh nyata: apabila asrama dihuni oleh 100 santri tetapi hanya memiliki 3 kran air wudhu, maka setiap subuh santri akan saling berebut, saling dorong, dan terlambat shalat berjamaah. Dalam Sistem TUMBUH, manajemen pesantren wajib menyediakan fasilitas sanitasi yang layak sebagai pemenuhan kebutuhan *Hajiyyat*, sehingga sumber ketegangan emosi antar-santri dapat dieliminasi sejak dini.
-
-#### 3. Kemaslahatan Tahsiniyyat (Penyempurna Keindahan Budi Pekerti)
-Tingkat *Tahsiniyyat* adalah mahkota keindahan peradaban pesantren. Pada tingkat ini, santri tidak hanya hidup tertib dan aman, melainkan dihiasi dengan keanggunan budi pekerti: tata krama bertutur kata yang menyejukkan hati (*Qaulan Karima*), seni merapikan sajadah, etiket makan berjamaah dengan tenang (*Adab al-Akl*), dan tradisi bersalaman dengan wajah berseri-seri.
-
----
-
-### Menyelaraskan Aksiologi Pesantren dengan Hak-Hak Anak
-
-Pakar Maqashid kontemporer **Prof. Dr. Jasser Auda**[^2] menegaskan bahwa pendekatan Maqashid modern harus bergeser dari sekadar *"hukum proteksi pasif"* (*protection-oriented*) menjadi *"sistem pengembangan potensi manusia"* (*human development-oriented*). Hal ini sejalan dengan pandangan **Prof. Syed Muhammad Naquib al-Attas**[^3] bahwa orientasi tertinggi pendidikan Islam adalah penanaman adab (*Ta'dib*) untuk membebaskan jiwa manusia dari belenggu kebodohan dan kezaliman.
-
-Dalam konteks pesantren masa kini, menyelaraskan aksiologi Maqashid Syari'ah berarti memastikan bahwa hak-hak perkembangan anak—sebagaimana dilindungi oleh syariat Islam, standar PBIS modern[^4], dan hukum perlindungan anak nasional—berjalan beriringan tanpa kontradiksi:
-
-| Hak Dasar Santri | Landasan Syariat Maqashid | Landasan Hukum & Sains Kontemporer | Praktik Nyata Ekosistem TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Hak atas Keselamatan Jiwa & Raga** | *Hifzhun Nafs* (QS. Al-Ma'idah: 32) | UU Perlindungan Anak No. 35/2014 & Standar WHO Anti-Violence | Penghapusan 100% hukuman fisik dan razia kekerasan malam di asrama. |
-| **Hak atas Perkembangan Nalar Sehat** | *Hifzhul 'Aql* (QS. Al-Mulk: 10) | Neurosains Perkembangan Otak Remaja (*PFC Maturation*) | Jaminan tidur malam 7-8 jam dan pembelajaran dialogis interaktif. |
-| **Hak atas Kehormatan & Martabat** | *Hifzhul 'Irdh* (QS. Al-Hujurat: 11-12) | Konvensi Hak Anak PBB (*CRC Articles 19 & 28*) | Larangan total *body shaming*, julukan pejoratif, dan perundungan. |
-| **Hak atas Rasa Aman Kepemilikan** | *Hifzhul Mal* (QS. Al-Baqarah: 188) | Etika Hak Milik Pribadi & *Property Rights Protection* | Penyediaan loker berkunci dan pemberantasan tuntas tradisi *ghashab*. |
-
-Ketika nilai-nilai aksiologis ini dipahami secara mendalam oleh seluruh dewan kiai, ustadz, musyrif, dan santri senior, maka asrama pesantren akan bertransformasi dari sekadar barak penginapan menjadi **oase peradaban yang memuliakan manusia**. 
-
-Setiap teguran yang diberikan, setiap peraturan yang ditegakkan, dan setiap fasilitas yang dibangun selalu memancarkan satu aroma yang sama: kasih sayang murni demi mengantarkan hamba-hamba Allah meraih kemuliaan hidup di dunia dan keselamatan abadi di akhirat kelak.
+Praksis **DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Al-Imam Abu Ishaq Ibrahim asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II, hlm. 9–35.
-[^2]: **Prof. Dr. Jasser Auda**, *Maqasid al-Shariah as Philosophy of Islamic Law: A Systems Approach* (London: The International Institute of Islamic Thought / IIIT, 2008), Bab 1: "Maqasid al-Shariah: A Systematic Overview", hlm. 1–45.
-[^3]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *Aims and Objectives of Islamic Education* (Jeddah: King Abdulaziz University / Hodder and Stoughton, 1979), hlm. 1–32.
-[^4]: **Robert H. Horner & George Sugai**, "School-wide positive behavioral interventions and supports: The research base on implementation with fidelity", *Exceptionality*, Vol. 23, No. 4 (2015), hlm. 197–212.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

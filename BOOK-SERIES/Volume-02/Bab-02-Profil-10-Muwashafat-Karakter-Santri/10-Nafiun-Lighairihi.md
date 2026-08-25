@@ -1,112 +1,101 @@
 # SUB-BAB 2.10: NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)
-## *Puncak Keberadaban Khidmah, Kepemimpinan Pelayanan (Servant Leadership), Altruisme Ukhuwah, dan Pembelaan Kaum Lemah 24-Jam*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
-**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-10/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Teologi Sosial & Fiqih Khidmah, Kepemimpinan Pelayan (*Servant Leadership*), Psikologi Prososial & Altruisme, & Sosiologi Pendidikan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Psikologi Sosial Santri*)
+**Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-010/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### I. Hakikat Nafi'un Lighairihi: Muara Agung Seluruh Kurikulum Adab
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Dalam arsitektur sepuluh karakter (*Muwashafat*) Ekosistem TUMBUH, **Nafi'un Lighairihi** (Bermanfaat Luas bagi Sesama Manusia) menempati posisi sebagai **puncak kubah peradaban (*The Crown of Character*)**.
+---
 
-Sembilan muwashafat sebelumnya—mulai dari akidah yang bersih, ibadah yang benar, akhlak kokoh, kemandirian finansial, wawasan luas, kebugaran fisik, pengendalian nafsu, keteraturan hidup, hingga disiplin waktu—sesungguhnya adalah proses pembentukan kapasitas internal (*internal capacity building*). Namun, seluruh kapasitas tersebut tidak boleh berhenti sebagai kesalehan individual yang egois (*individualistic piety*).
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Di banyak lembaga pendidikan, kerap muncul santri yang cerdas luar biasa dan rajin beribadah di shaf terdepan, namun memiliki kepribadian yang dingin dan antisosial:
-* Enggan mengajari kawannya yang kesulitan memahami nahwu karena takut tersaingi dalam perebutan ranking kelas;
-* Menutup mata ketika melihat kawan sekamarnya menangis demam tinggi di ranjang, dan memilih fokus menghafal Al-Qur'an sendirian;
-* Ketika menjabat sebagai pengurus asrama, ia memimpin dengan tangan besi dan arogansi kekuasaan, menuntut dilayani dan dihormati adik kelasnya.
+Penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
-Dalam Ekosistem TUMBUH, **Nafi'un Lighairihi** membalikkan paradigma kekuasaan tersebut: **ukuran kemuliaan santri ditentukan oleh seberapa besar pengorbanan dan pelayanan yang ia persembahkan bagi kemaslahatan saudaranya**. Santri dididik untuk memiliki jiwa kepemimpinan pelayan (*Servant Leadership*), menghidupkan tradisi luhur *Khidmah* pesantren, dan menjadikan setiap tarikan napasnya sebagai rahmat bagi alam semesta (*Rahmatan lil 'Alamin*).
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph PilarKhidmah["TIGA PILAR UTAMA NAFI'UN LIGHAIRIHI EKOSISTEM TUMBUH"]
-        PorosKhidmah["NAFI'UN LIGHAIRIHI (KEBERMANFAATAN SOSIAL & SERVANT LEADERSHIP 24 JAM)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        PorosKhidmah --> P1["1. JIWA KHIDMAH & ALTRUISME ASRAMA<br/>Proaktif melayani kawan yang sakit, sukarela membersihkan fasilitas umum, & empati."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        PorosKhidmah --> P2["2. KEPEMIMPINAN PELAYAN (SERVANT LEADERSHIP)<br/>Memimpin dengan keteladanan qudwah, melindungi adik kelas, & anti-feodalisme."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        PorosKhidmah --> P3["3. PEER TUTORING & BERBAGI KARYA KEILMUAN<br/>Membimbing kawan yang kesulitan belajar & mendedikasikan ilmu untuk ummat."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 2.10.1:</b> Tiga Pilar Operasional Karakter Nafi'un Lighairihi Santri Ekosistem TUMBUH.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### II. Khazanah Turats: Syarah Hadits Manusia Paling Dicintai Allah & Tradisi Khidmah
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Islam memandang bahwa ibadah sosial yang membawa kebahagiaan bagi sesama memiliki derajat pahala yang melampaui ibadah sunnah individual.
-
-#### 1. Manusia dan Amal yang Paling Dicintai Allah
-Dalam hadits monumental yang diriwayatkan oleh **Imam Ath-Thabrani** dalam *Al-Mu'jam al-Awsath*[^1], Rasulullah SAW bersabda dengan sabda yang sangat agung:
-
-$$\text{أَحَبُّ النَّاسِ إِلَى اللهِ أَنْفَعُهُمْ لِلنَّاسِ، وَأَحَبُّ الْأَعْمَالِ إِلَى اللهِ عَزَّ وَجَلَّ سُرُورٌ تُدْخِلُهُ عَلَى مُسْلِمٍ، أَوْ تَكْشِفُ عَنْهُ كُرْبَةً، أَوْ تَقْضِي عَنْهُ دَيْنًا، أَوْ تَطْرُدُ عَنْهُ جُوعًا،}$$
-$$\text{وَلَأَنْ أَمْشِيَ مَعَ أَخٍ لِي فِي حَاجَةٍ أَحَبُّ إِلَيَّ مِنْ أَنْ أَعْتَكِفَ فِي هَذَا الْمَسْجِدِ (مَسْجِدِ الْمَدِينَةِ) شَهْرًا}$$
-
-**Terjemahan Berjiwa:**
-> *"Manusia yang paling dicintai oleh Allah adalah yang paling bermanfaat bagi sesama manusia. Dan amalan yang paling dicintai oleh Allah 'Azza wa Jalla adalah rasa bahagia yang engkau masukkan ke dalam hati seorang muslim, atau engkau hilangkan kesusahannya, atau engkau lunaskan utangnya, atau engkau singkirkan rasa laparnya.*
-> 
-> *Dan sungguh, jika aku berjalan bersama saudaraku demi menolong memenuhi suatu hajat kebutuhannya, hal itu jauh lebih aku cintai daripada aku beri'tikaf di masjidku ini (Masjid Nabawi di Madinah) selama satu bulan penuh!"*
-
-#### 2. Tradisi Khidmah Agung di Bumi Pesantren Nusantara
-Para ulama dan kiai Nusantara meletakkan tradisi **Khidmah** sebagai pintu pembuka keberkahan ilmu yang paling utama. Syaikhina wa Murobbina KH. Hasyim Asy'ari, KH. Ahmad Dahlan, dan KH. Imam Zarkasyi mendidik para santrinya bahwa kepintaran otak tidak ada artinya jika hatinya sombong dan enggan berkhidmah melayani ummat. Santri yang ikhlas membantu di dapur umum pondok, menyapu halaman masjid, dan menjaga keamanan santri yunior sering kali dibukakan pintu futuh ilmu yang luar biasa oleh Allah SWT.
-
----
-
-### III. Tinjauan Sains: Servant Leadership (Greenleaf) & Neurobiologi Altruisme
-
-Bagaimana sains kepemimpinan modern dan neurobiologi memvalidasi keagungan karakter *Nafi'un Lighairihi*?
-
-#### 1. Teori Servant Leadership Robert K. Greenleaf
-Pakar kepemimpinan global **Robert K. Greenleaf**[^2] merumuskan konsep **Kepemimpinan Pelayan (*Servant Leadership*)**:
-> *"Pemimpin sejati bukanlah orang yang menuntut kekuasaan dan meminta dilayani (*power-oriented*), melainkan orang yang dorongan terdalam hatinya berawal dari keinginan tulus untuk melayani terlebih dahulu (*to serve first*). Uji kehebatan seorang servant-leader adalah: Apakah orang-orang yang ia layani bertumbuh menjadi lebih mandiri, lebih bijak, lebih sehat, dan terinspirasi untuk ikut melayani sesamanya?"*
-
-Sistem TUMBUH menghancurkan tradisi feodalisme senioritas dan menggantikannya dengan *Servant Leadership*: santri senior kelas akhir tidak bertindak sebagai mandor penindas, melainkan sebagai **pelindung dan pengasuh (*protective mentors*)** yang siap berkorban demi keselamatan adik kelasnya.
-
-#### 2. Fenomena Neurobiologis "The Helper's High" (Allan Luks)
-Riset neurofisiologi perilaku prososial oleh **Allan Luks & Dr. Stephen Post**[^3] membuktikan bahwa ketika seseorang menolong orang lain dengan tulus tanpa pamrih:
-* Otak mengalami fenomena yang disebut **"The Helper's High"**: pelepasan hormon **Oksitosin, Dopamin, dan Endorfin** secara serentak;
-* Tingkat hormon stres kortisol anjlok hingga **50%**;
-* Sistem imunitas tubuh menguat drastis, meningkatkan kesehatan kardiovaskular dan melahirkan rasa bahagia batin yang mendalam (*eudaimonic well-being*).
-
-```mermaid
-graph LR
-    subgraph NeuroAltruisme["DAMPAK NEUROBIOLOGIS DARI KHIDMAH PELAYANAN SOSIAL"]
-        TindakanKhidmah["Tindakan Khidmah: Merawat Teman Sakit & Mengajari Adik Kelas"] --> PelepasanHormon["Pelepasan Oksitosin, Dopamin, & Endorfin ('The Helper's High')"]
-        PelepasanHormon --> PenurunanKortisol["Kortisol Turun Drastis, Imunitas Fisik Naik, & Empati Menguat"]
-        PenurunanKortisol --> JiwaPemimpin["Terbentuk Karakter Pemimpin Sejati yang Dicintai Seluruh Komunal"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.10.2:</b> Alur Dampak Neurobiologis Pelayanan Sosial (Khidmah) terhadap Kebahagiaan Santri.</sub></div>
-
----
-
-### IV. Matriks Indikator Perilaku Faktual Nafi'un Lighairihi (24 Jam)
-
-| Situasi Sosial Keseharian | Indikator Perilaku Positif (Nafi'un Lighairihi) | Perilaku Defisit / Egoisme Pribadi | Protokol Pembiasaan Ekosistem TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Kawan Sekamar Mengalami Sakit** | Spontan mengambilkan makanan ke dapur, membelikan obat di Poskestren, dan menemani dengan hangat. | Bersikap acuh tak acuh, mengeluh karena kamar jadi berisik, atau menjauhi kawan yang sakit. | Penugasan giliran *Duta Khidmah Kamar* untuk merawat santri sakit dipantau Musyrif. |
-| **Bimbingan Belajar Sebaya (Peer Tutoring)** | Ikhlas mengajari kawan yang belum lancar membaca kitab atau matematika tanpa meminta bayaran. | Menyembunyikan catatan pelajaran, pelit ilmu (*intellectual hoarding*), atau meremehkan kawan yang lambat. | Program resmi *Peer Tutoring Halaqah*: santri berprestasi membimbing 2 santri junior. |
-| **Kepemimpinan Organisasi Santri** | Memimpin dengan turun ke lapangan, ikut menyapu bersama adik kelas, mendengar masukan santri. | Duduk berpangku tangan memerintah dengan bentakan, menggunakan tongkat hukuman fisik (*tyranny*). | Standardisasi SOP Pengurus Santri berbasis *Qudwah Hasanah* dan evaluasi kepemimpinan 360°. |
-| **Kepedulian terhadap Lingkungan Asrama** | Spontan memungut sampah yang tercecer di jalan, mematikan kran air yang meluap, merawat tanaman. | Melangkah melewati sampah begitu saja (*bystander apathy*), membiarkan air tumpah terbuang. | Gerakan *Operasi Semut 5 Menit* serentak ba'da shalat ashar di seluruh area pondok. |
-
----
-
-### V. Solusi Sistemik TUMBUH: Inkubasi Tahun Khidmah & Ekspedisi Pengabdian Ummat
-
-Sebagai puncak penempaan sepuluh karakter, lembaga merancang program aksi:
-1. **Program Inkubasi Pengabdian Santri Akhir (*Tahun Khidmah*)**: Santri kelas akhir diwajibkan menjalani masa khidmah dakwah dan pelayanan sosial di pesantren cabang atau masyarakat pedalaman sebelum diwisuda.
-2. **Ekspedisi Sosial-Ekologis Berkah Desa**: Setiap liburan semester, santri diterjunkan ke desa-desa sekitar pondok untuk mengajar TPA gratis, merenovasi fasilitas umum desa, dan menyelenggarakan pengobatan gratis bersama tim Poskestren.
-
-Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri dalam sistem TUMBUH pada Bab 02 ini**, arsitektur kurikulum pembinaan karakter telah berdiri lengkap, utuh, dan operasional. Kita siap melangkah ke **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** untuk membedah dinamika biologis dan neurosains transisi usia 12–18 tahun santri.
+Praksis **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Al-Hafizh Al-Imam Abu al-Qasim Sulaiman bin Ahmad ath-Thabrani**, *Al-Mu'jam al-Awsath*, Tahqiq: Dr. Mahmud ath-Thahhan (Kairo: Dar al-Haramain, 1415 H), Jilid VI, Hadits No. 6026; serta **Al-Albani**, *Silsilah al-Ahadits ash-Shahihah*, No. 906.
-[^2]: **Robert K. Greenleaf**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977; Edisi Peringatan 25 Tahun, 2002), Bab 1: "The Servant as Leader", hlm. 21–48; serta **Larry C. Spears** (Ed.), *Reflections on Leadership: How Robert K. Greenleaf's Theory of Servant-Leadership Influenced Today's Top Management Thinkers* (New York: John Wiley & Sons, 1995).
-[^3]: **Allan Luks & Peggy Payne**, *The Healing Power of Doing Good: The Health and Spiritual Benefits of Helping Others* (New York: Ballantine Books, 1991; Edisi Revisi, iUniverse, 2001), Bab 2 & 3: "The Helper's High", hlm. 17–58; serta **Stephen G. Post**, *Why Good Things Happen to Good People: The Exciting New Science of How Being a Good Person Can Help You Live a Longer, Healthier, Largely Happier Life* (New York: Broadway Books, 2007).
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

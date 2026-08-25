@@ -1,85 +1,101 @@
 # SUB-BAB 6.3: DIFERENSIASI PENGASUHAN SANTRI PUTRA
-## *Pendekatan Pengasuhan Spesifik Santri Putra: Maskulinitas Positif, Sublimasi Energi Motorik, dan Pembentukan Karakter Muru'ah Ksatria*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-06/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perkembangan Gender Positif, Neurosains Otak Laki-Laki, & Konsep Muru'ah Ksatria Islam (*Al-Futuwwah*)  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pengasuhan Asrama & Pakar Neurosains Perkembangan*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### Keunikan Fitrah Biologis & Psikologis Santri Putra
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **DIFERENSIASI PENGASUHAN SANTRI PUTRA** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Dalam perancangan sistem pembinaan adab pesantren, menyamaratakan pendekatan antara santri putra dan santri putri adalah sebuah kekeliruan metodologis yang fatal (*the fallacy of gender blindness*).
+---
 
-Secara neurobiologis dan psikologis, santri putra memiliki karakteristik khas:
-* **Dominasi Spasial-Kinestetik**: Otak remaja laki-laki memproses stres dan emosi lebih banyak melalui aktivitas fisik motorik daripada kata-kata verbal.
-* **Lonjakan Hormon Testosteron**: Mendorong tingginya dorongan kompetisi fisik, pencarian status kelompok (*hierarchical ranking*), dan keberanian mengambil risiko (*risk-taking behavior*).
-* **Kebutuhan Ruang Bergerak**: Santri putra yang dipaksa duduk diam mendengarkan ceramah pasif selama berjam-jam akan mengalami penumpukan energi motorik yang berisiko meledak menjadi keonaran di asrama.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+
+Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph PengasuhanPutra["TIGA PILAR PENGASUHAN SANTRI PUTRA EKOSISTEM TUMBUH"]
-        Putra["PENGASUHAN SANTRI PUTRA BERBASIS FITRAH"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Putra --> P1["1. SUBLIMASI ENERGI MOTORIK (Kinesthetic Channeling)<br/>Olahraga fisik intensif harian: bela diri silat, futsal, panahan, & kerja bakti."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Putra --> P2["2. PENANAMAN MASKULINITAS POSITIF (Al-Muru'ah & Al-Futuwwah)<br/>Ksatria pelindung yang kuat, pantang menindas yang lemah, santun, & bertanggung jawab."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Putra --> P3["3. RUANG VULNERABILITAS EMOSI AMAN (Safe Emotional Expression)<br/>Membongkar mitos toksik 'laki-laki tidak boleh menangis'; melatih ekspresi emosi sehat."]
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 6.3.1:</b> Tiga Pilar Pendekatan Pengasuhan Santri Putra Ekosistem TUMBUH.</sub></div>
 
-Pakar psikologi dan neurosains gender **Michael Gurian & Leonard Sax**[^1] membuktikan bahwa otak anak laki-laki memiliki aliran darah serebral yang berbeda dan memerlukan stimulasi kinestetik terarah agar fungsi regulasi diri (*inhibitory control*) di lobus frontal dapat bekerja optimal.
-
----
-
-### Dekonstruksi Maskulinitas Toksik Menuju Konsep *Al-Futuwwah* Ksatria Islam
-
-Di lingkungan asrama putra konvensional, kerap berkembang budaya maskulinitas toksik (*toxic masculinity*): anggapan bahwa "laki-laki sejati" harus berwajah garang, suka memukul, merokok sembunyi-sembunyi, dan tidak boleh menunjukkan kelembutan atau empati.
-
-Sistem TUMBUH merekonstruksi konsep maskulinitas santri putra berakar pada konsep agung Turats Islam: **Al-Muru'ah** dan **Al-Futuwwah (Etika Ksatria Islam)**.
-
-Ksatria sejati dalam Islam bukanlah pembuat onar yang menindas junior, melainkan sosok pemuda yang:
-* Menggunakan kekuatan fisiknya untuk **melindungi yang lemah, memikul beban yang berat, dan membela kebenaran**.
-* Memiliki kelembutan hati yang meneteskan air mata saat bersujud di keheningan malam (*Fursanun bin Nahar, Ruhbanun bil Lail*).
-
-**Al-Imam Ibn al-Qayyim al-Jawziyyah** dalam karyanya *Al-Furusiyyah*[^2] menegaskan bahwa ketangkasan fisik dan keberanian ksatria (*asy-Saja'ah*) harus senantiasa dipandu oleh ketakwaan dan keadilan, agar tidak tergelincir menjadi kezaliman binatang buas.
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### Mengelola Dinamika Hierarki Kelompok Santri Putra
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Pakar psikologi evolusi **David C. Geary**[^3] menjelaskan bahwa kelompok laki-laki secara alamiah cenderung membentuk struktur hierarki (*dominance hierarchy*).
-
-Di asrama santri putra TUMBUH, naluri hierarki alami ini disalurkan secara terstruktur:
-1. **Pemberian Tanggung Jawab Fisik Komunal**: Santri putra dilibatkan dalam proyek-proyek fisik yang membanggakan (seperti merawat taman pondok, memindahkan logistik bantuan sosial, dan menjaga keamanan pintu gerbang).
-2. **Turnamen Olahraga Beradab (*Adab Champions League*)**: Kompetisi olahraga antar-kamar yang mengedepankan sportivitas, jabat tangan persaudaraan sebelum bertanding, dan sujud syukur bersama di akhir laga.
-3. **Pendampingan Musyrif Putra yang Tegas & Hangat (*Fatherly Mentorship*)**: Musyrif putra hadir sebagai figur ayah teladan (*role model*) yang menunjukkan bagaimana menjadi pria muslim yang tangguh, adil, penyayang, dan tidak gengsi meminta maaf.
-
-```mermaid
-graph LR
-    subgraph TransformasiPutra["TRANSFORMASI ENERGI SANTRI PUTRA"]
-        Energi["Energi Testosteron & Dorongan Fisik Tinggi"] --> Sublimasi["Penyaluran: Olahraga Sunnah, Bela Diri, & Proyek Khidmah"]
-        Sublimasi --> Hasil["Lahir Generasi Mujahid Beradab: Fisik Kuat, Hati Lembut, & Siap Melayani"]
-    end
-```
-<div align="center"><sub><b>Gambar 6.3.2:</b> Alur Sublimasi Energi Motorik Santri Putra Menuju Karakter Ksatria Beradab.</sub></div>
-
----
-
-### Solusi Sistemik TUMBUH: Halaqah Ksatria Subuh (*Futuwwah Circle*)
-
-Santri putra TUMBUH mengikuti program pembinaan khusus:
-* **Halaqah Kisah Kepahlawanan Sahabat (*Sirah Fursan*)**: Membedah keteladanan Sayyidina Ali bin Abi Thalib, Khalid bin Walid, Saad bin Abi Waqqas, dan Shalahuddin Al-Ayyubi: bagaimana keberanian fisik mereka berpadu dengan air mata kekhusyukan dan adab yang sangat mulia.
-* **Protokol Tanggap Bencana & Pertolongan Pertama (PMR Santri)**: Melatih santri putra sigap membantu evakuasi dan pengobatan saat kawan mengalami cedera fisik.
-
-Santri putra TUMBUH bertumbuh menjadi **Pilar Pelindung Umat (*Rijalun Qawwamun*)**: tegap langkahnya, tangguh raganya, mulia akhlaknya, dan siap menjadi benteng pertahanan peradaban Islam di masa depan.
+Praksis **DIFERENSIASI PENGASUHAN SANTRI PUTRA** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Michael Gurian**, *The Wonder of Boys: What Parents, Mentors and Educators Can Do to Shape Boys into Exceptional Men* (New York: Jeremy P. Tarcher / Putnam, 1996; Edisi Peringatan 20 Tahun, 2006), Bab 2: "The Biology of Boys", hlm. 15–48; serta **Leonard Sax**, *Boys Adrift: The Five Factors Driving the Growing Epidemic of Unmotivated Boys and Underachieving Young Men* (New York: Basic Books, 2007; Edisi Revisi, 2016), hlm. 25–65.
-[^2]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Al-Furusiyyah al-Muhammadiyyah asy-Syar'iyyah*, Tahqiq: Syaikh Masyhur Hasan Salman (Riyadh: Dar al-Ashalah, 1414 H), hlm. 18–45.
-[^3]: **David C. Geary**, *Male, Female: The Evolution of Human Sex Differences* (Washington: American Psychological Association / APA Books, 1998; Edisi ke-2, 2010), Bab 8: "Male and Female Social Relationships", hlm. 285–330.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.

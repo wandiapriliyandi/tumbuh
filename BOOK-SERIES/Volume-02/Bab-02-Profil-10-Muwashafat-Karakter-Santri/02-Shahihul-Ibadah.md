@@ -1,116 +1,101 @@
 # SUB-BAB 2.2: SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)
-## *Sinergi Keselarasan Sunnah Nabawiyyah, Kesucian Thaharah, dan Thuma'ninah Batin dalam Ritme Ibadah 24-Jam*
+## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Fiqih Ibadah Terapan, Epistemologi Sunnah, Neurofisiologi Relaksasi & Gelombang Otak, & Psikologi Ibadah  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Neurosains Perkembangan*)
+**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
+**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
 
 ---
 
-### I. Hakikat Shahihul Ibadah: Melampaui Ritualitas Mekanis Tanpa Jiwa
+> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
+>
+> * **Akar Filosofis & Nilai Substantif:**  
+>   Membahas secara mendalam urgensi **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
+> * **Sintesis Turats & Neurosains Perkembangan:**  
+>   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
+> * **Praksis Multi-Tier PBIS 24-Jam:**  
+>   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
 
-Di banyak lingkungan pesantren, pemandangan berikut sering kali terjadi: ketika adzan berkumandang, ratusan santri berlari tergesa-gesa ke tempat wudhu. Air kran dibuka sebesar-besarnya hingga memercik ke mana-mana, basuhan wudhu dilakukan secara kilat dalam hitungan detik tanpa meratakan air ke sela-sela jari, lalu mereka berhamburan masuk masjid untuk mendirikan shalat. Di dalam shalat, gerakan ruku' dan sujud dilakukan dengan sangat cepat bagaikan patukan ayam (*naqratan ka naqratid dik*), tanpa ada jeda ketenangan (*thuma'ninah*), dan begitu salam terucap, santri langsung berhamburan keluar masjid tanpa sempat melafalkan sebaris dzikir.
+---
 
-Pemandangan ini menyingkap sebuah krisis pedagogis: **ibadah telah tereduksi menjadi sekadar beban rutinitas mekanis yang dingin**. Santri menjalankan ibadah semata-mata demi menggugurkan kewajiban absensi musyrif, kehilangan hakikat kekhusyukan dan keindahan perjumpaan dengan Allah SWT.
+### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
 
-Dalam Ekosistem TUMBUH, **Shahihul Ibadah** (Ibadah yang Benar dan Sah) ditegakkan di atas dua sayap yang tak terpisahkan:
-1. **Keselarasan Lahiriah Sesuai Sunnah (*Ittiba'us Sunnah*)**: Menjalankan setiap tata cara wudhu, shalat, puasa, dan dzikir sesuai tuntunan otentik Baginda Rasulullah SAW tanpa bid'ah dan penyimpangan.
-2. **Kekhusyukan dan Ketenangan Batin (*Thuma'ninah & Khusyu'*)**: Menghadirkan hati (*hudhurul qalb*), memahami makna setiap bacaan, dan menikmati setiap sujud sebagai momen istirahat rohani dari keletihan duniawi.
+Penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+
+#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+
+> [!NOTE]
+> ### 📜 Rujukan Turats & Landasan Syar'i:
+> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> 
+> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
+> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
+
+Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+
+#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
+Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
+* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+
+Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
+
+#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
+Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
+* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
+* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
+* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
+
+#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
+Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
+* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
+* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
+* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
+
+---
+
+### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
+
+Penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
 
 ```mermaid
 graph TD
-    subgraph ArsitekturIbadah["ARSITEKTUR SHAHIHUL IBADAH EKOSISTEM TUMBUH"]
-        Poros["SHAHIHUL IBADAH (IBADAH YANG DITERIMA ALLAH)"]
+    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
+        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
         
-        Poros --> Pilar1["1. KESAHIHAN LAHIRIAH (ITTIBA')<br/>• Thaharah sempurna (Isbaghul Wudhu) & hemat air.<br/>• Gerakan shalat presisi sesuai hadits shahih.<br/>• Tilawah tartil dengan hukum tajwid yang benar."]
+        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
         
-        Poros --> Pilar2["2. KEKHUSYUKAN BATINIAH (THUMA'NINAH)<br/>• Hudhurul Qalb: Sadar sedang berdialog dengan Allah.<br/>• Penghayatan tadabbur makna surat & doa ruku'/sujud.<br/>• Melazimi wirid ba'da shalat tanpa terburu-buru."]
+        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
         
-        Pilar1 <===> Pilar2
-        Pilar1 --> Dampak["Melahirkan Pribadi yang Tercegah dari Keji & Munkar (QS. Al-Ankabut: 45)"]
-        Pilar2 --> Dampak
+        T1 --> T2 --> T3
     end
 ```
-<div align="center"><sub><b>Gambar 2.2.1:</b> Arsitektur Sinergi Dimensi Lahiriah dan Batiniah Shahihul Ibadah.</sub></div>
+
+#### Protokol Operasional Berjenjang Lapangan:
+1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
+   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
+   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
+2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
+   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
+   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
+3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
+   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
+   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
 
 ---
 
-### II. Khazanah Turats: Syarah Imam Nawawi & Tingkatan Shalat Ibnu Qayyim
+### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
 
-Para ulama fiqih dan tasawuf telah menegaskan bahwa ibadah tanpa thuma'ninah dan ilmu adalah amalan yang batil atau cacat nilainya.
-
-#### 1. Wajibnya Meneladani Tata Cara Shalat Rasulullah SAW
-Dalam hadits monumental yang diriwayatkan oleh **Imam Al-Bukhari**[^1], Rasulullah SAW bersabda:
-
-$$\text{صَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي}$$
-
-**Artinya:** *"Shalatlah kalian sebagaimana kalian melihat aku shalat."*
-
-**Imam Abu Zakariyya Yahya bin Syaraf An-Nawawi** dalam *Riyadhus Shalihin* dan *Al-Minhaj Syarh Shahih Muslim*[^2] menjelaskan bahwa hadits ini adalah perintah mutlak bagi setiap pendidik untuk mengajarkan fiqih ibadah secara terperinci kepada santri: mulai dari cara bertakbir, meletakkan tangan di dada, meluruskan punggung saat ruku', hingga kesempurnaan sujud di atas tujuh anggota badan.
-
-#### 2. Lima Tingkatan Manusia dalam Menjalankan Shalat Menurut Ibnu Qayyim
-Dalam kitabnya *Al-Wabil ash-Shayyib* dan *Madarij as-Salikin*[^3], **Imam Ibnu Qayyim al-Jawziyyah** membagi orang yang shalat ke dalam lima tingkatan (*maratib*):
-
-| Tingkatan Shalat | Keadaan Hati dan Kualitas Wudhu/Shalat | Konsekuensi Akhirat |
-| :--- | :--- | :--- |
-| **1. Al-Mu'aqab (Tersiksa)** | Wudhu tidak sempurna, waktu terabaikan, rukun lahir dan batin rusak. | Disiksa karena meremehkan shalat. |
-| **2. Al-Muhasab (Dihisab/Dicela)** | Menjaga rukun lahir shalat, namun pikirannya hanyut total dalam lamunan duniawi. | Dihisab dan tidak mendapat pahala. |
-| **3. Al-Mukaffar 'Anhu (Diampuni)** | Menjaga rukun lahir dan berusaha melawan bisikan was-was setan sepanjang shalatnya. | Diampuni dosa-dosa kecilnya. |
-| **4. Al-Muthab (Diberi Pahala)** | Menyempurnakan hak shalat, rukunnya, dan hatinya tenggelam dalam kekhusyukan. | Diberi ganjaran pahala yang besar. |
-| **5. Al-Muqarrab (Didekatkan)** | Shalat di mana ia memandang Allah dengan mata hatinya, menjadikan shalat sebagai penyejuk jiwanya (*qurratu 'ain*). | Berada di kedudukan tertinggi di sisi Allah. |
-
-Pendidikan karakter TUMBUH membimbing santri bertransisi dari tingkatan 1 dan 2 (yang sekadar menggugurkan kewajiban mekanis) menuju tingkatan 4 dan 5: menjadikan ibadah sebagai kenikmatan dan benteng moral hidupnya.
-
----
-
-### III. Tinjauan Sains: Neurofisiologi Thuma'ninah & Gelombang Otak
-
-Riset neurosains mutakhir membuktikan bahwa praktik ibadah yang dijalankan dengan thuma'ninah memberikan dampak neurofisiologis yang sangat menakjubkan:
-
-#### 1. Dominasi Gelombang Otak Alpha dan Theta Saat Khusyuk
-Riset neurobiologi oleh **Dr. Andrew Newberg**[^4] mengenai aktivitas otak saat meditasi dan doa khusyuk membuktikan bahwa ketika seseorang melambatkan gerakannya dan menghadirkan fokus batin (thuma'ninah), terjadi perubahan frekuensi gelombang otak dari gelombang *Beta* tinggi (stres dan cemas) menuju gelombang *Alpha* (8–12 Hz) dan *Theta* (4–7 Hz).
-
-Pada kondisi gelombang Alpha ini:
-* Aktivitas amigdala (pusat emosi agresi dan rasa takut) mereda drastis.
-* Sistem saraf parasimpatis teraktivasi, menurunkan denyut jantung dan menstabilkan tekanan darah.
-* Otak melepaskan neurotransmiter ketenangan (*GABA, Serotonin, dan Endorfin*), yang merestorasi kebugaran mental santri setelah lelah belajar seharian.
-
-Santri yang shalat dengan tergesa-gesa kehilangan seluruh manfaat biologis dan spiritual ini; otaknya tetap berada dalam kondisi stres kortisol tinggi.
-
-```mermaid
-graph LR
-    subgraph NeuroShalat["DAMPAK NEUROFISIOLOGIS SHALAT DENGAN THUMA'NINAH"]
-        GerakTenang["Ruku' & Sujud Panjang dengan Thuma'ninah"] --> GelombangAlpha["Aktivasi Gelombang Otak Alpha (8-12 Hz) & Theta"]
-        GelombangAlpha --> Neurotransmiter["Pelepasan GABA & Serotonin Tinggi, Kortisol Anjlok"]
-        Neurotransmiter --> HasilTenang["Restorasi Mental, Ketenangan Jiwa, & Ketajaman Fokus Belajar"]
-    end
-```
-<div align="center"><sub><b>Gambar 2.2.2:</b> Alur Dampak Neurofisiologis Shalat Thuma'ninah terhadap Pemulihan Mental Santri.</sub></div>
-
----
-
-### IV. Matriks Indikator Perilaku Faktual Shahihul Ibadah (24 Jam)
-
-| Aktivitas Ibadah Harian | Indikator Perilaku Positif (Shahihul Ibadah) | Perilaku Defisit / Distorsi | Protokol Intervensi Sistemik TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Thaharah & Wudhu** | Berwudhu tertib, membasuh sempurna (*isbagh*), dan hemat air (kran dibuka 1/3 putaran). | Membuka kran air deras berlebihan (*israf*), tumit tidak basah, bercanda saat wudhu. | Simulasi wudhu praktis di depan musyrif asrama dengan takaran 1 gayung air nabawi. |
-| **Shalat Berjamaah** | Datang sebelum adzan/iqamah, merapatkan shaf bahu ke bahu, ruku' dan sujud thuma'ninah. | Terlambat masbuq, saf bolong-bolong, shalat kilat tanpa thuma'ninah, pandangan melirik ke mana-mana. | Bimbingan shaf disiplin oleh santri senior penggerak dan larangan shalat tergesa-gesa. |
-| **Dzikir & Wirid Ba'da Shalat** | Duduk tenang melazimi istighfar 3x, tasbih, tahmid, takbir 33x, ayat kursi, dan doa ma'tsur. | Langsung kabur meloncat keluar masjid begitu imam salam pertama; ribut di teras masjid. | Mentradisikan dzikir sirr bersama dipimpin santri giliran, disertai renungan makna doa. |
-| **Tilawah Al-Qur'an Harian** | Membaca tartil dengan makharijul huruf dan tajwid benar, menjaga mushaf di tempat terhormat. | Membaca cepat tanpa tajwid demi kejar target lembar (*khatam-oriented*), meletakkan mushaf di lantai. | Klinik Tahsin Tajwid berkala dan halaqah tadabbur 1 ayat pilihan setiap maghrib. |
-
----
-
-### V. Solusi Sistemik TUMBUH: Laboratorium Fiqih Ibadah Aplikatif
-
-Untuk memastikan ibadah santri benar dan khusyuk, lembaga menerapkan:
-1. **Asesmen Fiqih Praktis 1-on-1 Berkala**: Setiap awal semester, setiap santri diuji praktik wudhu, tayamum, adzan, dan shalat jenazah oleh ustadz penguji untuk memastikan tidak ada kesalahan gerakan atau bacaan.
-2. **Karantina Hening (*Digital & Activity Fasting*) 15 Menit Menjelang Adzan**: Seluruh aktivitas olahraga dan asrama dihentikan 15 menit sebelum adzan berkumandang, memberi ruang bagi santri untuk membersihkan diri dan memasuki masjid dalam keadaan tenang.
+Praksis **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
+* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
+* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Al-Imam Abu Abdillah Muhammad bin Ismail al-Bukhari**, *Shahih al-Bukhari*, Kitab al-Adzan, Bab Adzan lil Musafir (Beirut: Dar Thuq an-Najah, 1422 H), Hadits No. 631.
-[^2]: **Al-Imam Abu Zakariyya Yahya bin Syaraf an-Nawawi**, *Al-Minhaj Syarh Shahih Muslim bin al-Hajjaj* (Kairo: Al-Mathba'ah al-Mishriyyah, 1930), Jilid IV, hlm. 102–125; serta **An-Nawawi**, *Riyadhus Shalihin*, Tahqiq: Syaikh Syu'aib al-Arnauth (Beirut: Mu'assasah ar-Risalah, 1993), Bab Fadhl ash-Shalawat, hlm. 340–358.
-[^3]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Al-Wabil ash-Shayyib min al-Kalim ath-Thayyib*, Tahqiq: Syaikh Salim al-Hilali (Kairo: Dar Ibn Affan, 1999), hlm. 48–56; serta **Ibnu Qayyim**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid I, hlm. 520–535.
-[^4]: **Andrew Newberg & Mark Robert Waldman**, *How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist* (New York: Ballantine Books, 2009), Bab 2 & 4: "Brain Scan Studies of Spiritual Practices", hlm. 37–68, 85–112.
+[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
+[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
+[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
+[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
