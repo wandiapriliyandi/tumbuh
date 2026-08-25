@@ -83,7 +83,7 @@
 Penerapan **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -92,12 +92,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -117,7 +117,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -189,7 +189,7 @@ Praksis **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** menegaskan komitmen
 Penerapan **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -198,12 +198,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -223,7 +223,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -295,7 +295,7 @@ Praksis **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** menegaskan komitmen mutlak Si
 Penerapan **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -304,12 +304,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -329,7 +329,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -401,7 +401,7 @@ Praksis **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** menegaskan komitmen
 Penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -410,12 +410,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -435,7 +435,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -507,7 +507,7 @@ Praksis **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** menegaskan komitme
 Penerapan **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -516,12 +516,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -541,7 +541,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -613,7 +613,7 @@ Praksis **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** menegaskan komitmen
 Penerapan **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -622,12 +622,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -647,7 +647,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -719,7 +719,7 @@ Praksis **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** menegaskan komitmen mutl
 Penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -728,12 +728,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -753,7 +753,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -825,7 +825,7 @@ Praksis **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** menegaskan komitmen mu
 Penerapan **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -834,12 +834,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -859,7 +859,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -931,7 +931,7 @@ Praksis **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** menegaskan komitmen mutl
 Penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -940,12 +940,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -965,7 +965,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1037,7 +1037,7 @@ Praksis **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** menegask
 Penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1046,12 +1046,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1071,7 +1071,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1143,7 +1143,7 @@ Praksis **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** menegaskan kom
 Penerapan **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1152,12 +1152,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1177,7 +1177,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1249,7 +1249,7 @@ Praksis **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** menegaskan kom
 Penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1258,12 +1258,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1283,7 +1283,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1355,7 +1355,7 @@ Praksis **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** menega
 Penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1364,12 +1364,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1389,7 +1389,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1461,7 +1461,7 @@ Praksis **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** menegaskan k
 Penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1470,12 +1470,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1495,7 +1495,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1567,7 +1567,7 @@ Praksis **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** menega
 Penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1576,12 +1576,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1601,7 +1601,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1673,7 +1673,7 @@ Praksis **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** menegaskan komitmen
 Penerapan **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1682,12 +1682,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1707,7 +1707,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1779,7 +1779,7 @@ Praksis **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** menegaskan komitmen mut
 Penerapan **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1788,12 +1788,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1813,7 +1813,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1885,7 +1885,7 @@ Praksis **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** menegaskan komitmen
 Penerapan **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -1894,12 +1894,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -1919,7 +1919,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -1991,7 +1991,7 @@ Praksis **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** menegaskan komitmen
 Penerapan **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2000,12 +2000,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2025,7 +2025,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2097,7 +2097,7 @@ Praksis **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** mene
 Penerapan **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2106,12 +2106,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2131,7 +2131,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2203,7 +2203,7 @@ Praksis **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** menegaskan komitm
 Penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2212,12 +2212,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2237,7 +2237,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2309,7 +2309,7 @@ Praksis **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** menegaskan komitmen 
 Penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2318,12 +2318,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2343,7 +2343,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2415,7 +2415,7 @@ Praksis **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** menegaskan kom
 Penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2424,12 +2424,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2449,7 +2449,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2521,7 +2521,7 @@ Praksis **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** menegaskan k
 Penerapan **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2530,12 +2530,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2555,7 +2555,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2627,7 +2627,7 @@ Praksis **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** menegaskan komitm
 Penerapan **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2636,12 +2636,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2661,7 +2661,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2733,7 +2733,7 @@ Praksis **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** menegaskan komitmen 
 Penerapan **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2742,12 +2742,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2767,7 +2767,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2839,7 +2839,7 @@ Praksis **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** menegaskan komitmen mutlak
 Penerapan **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2848,12 +2848,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2873,7 +2873,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -2945,7 +2945,7 @@ Praksis **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** menegaskan komitmen mutlak Si
 Penerapan **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -2954,12 +2954,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -2979,7 +2979,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3051,7 +3051,7 @@ Praksis **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** menegaskan komi
 Penerapan **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3060,12 +3060,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3085,7 +3085,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3157,7 +3157,7 @@ Praksis **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** menegaskan komitmen mutlak Sist
 Penerapan **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3166,12 +3166,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3191,7 +3191,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3263,7 +3263,7 @@ Praksis **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** menegaskan komitmen mu
 Penerapan **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3272,12 +3272,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3297,7 +3297,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3369,7 +3369,7 @@ Praksis **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** menegaskan komit
 Penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3378,12 +3378,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3403,7 +3403,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3475,7 +3475,7 @@ Praksis **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** menegaskan komitm
 Penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3484,12 +3484,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3509,7 +3509,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3581,7 +3581,7 @@ Praksis **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** menegaskan komi
 Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3590,12 +3590,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3615,7 +3615,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3687,7 +3687,7 @@ Praksis **DIFERENSIASI PENGASUHAN SANTRI PUTRA** menegaskan komitmen mutlak Sist
 Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRI** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3696,12 +3696,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DIFERENSIASI PENGASUHAN SANTRI PUTRI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DIFERENSIASI PENGASUHAN SANTRI PUTRI** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRI** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3721,7 +3721,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **DIFERENSIASI PENGASUHAN SANTRI PUTRI** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
@@ -3793,7 +3793,7 @@ Praksis **DIFERENSIASI PENGASUHAN SANTRI PUTRI** menegaskan komitmen mutlak Sist
 Penerapan **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
 
 #### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta'dib* (penanaman adab ke dalam jiwa) dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
 
 > [!NOTE]
 > ### 📜 Rujukan Turats & Landasan Syar'i:
@@ -3802,12 +3802,12 @@ Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar tran
 > *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
 > *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
 
-Al-Imam Badruddin Ibnu Jama'ah dalam *Tadzkirat as-Sami' wal Mutakallim* menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
+Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
 
 #### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
 Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
 * **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.
+* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
 
 Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
 
@@ -3827,7 +3827,7 @@ Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
 
 ### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
 
-Penerapan **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*):
+Penerapan **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
 
 ```mermaid
 graph TD
