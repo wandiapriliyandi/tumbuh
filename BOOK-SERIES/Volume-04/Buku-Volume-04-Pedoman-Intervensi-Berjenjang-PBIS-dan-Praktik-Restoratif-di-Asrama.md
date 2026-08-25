@@ -51,6 +51,8 @@
   - [05 Integrasi Neurosains Kognitif dan Neuroplastisitas](#05-integrasi-neurosains-kognitif-dan-neuroplastisitas)
 - [DAFTAR PUSTAKA & RUJUKAN PANDUAN VOLUME 04](#daftar-pustaka--rujukan-panduan-volume-04)
 
+---
+
 
 ---
 
@@ -445,6 +447,48 @@ flowchart TD
 9. **Decision Routing Pipeline**: Logika komputasi pada SIM Intizham yang secara otomatis menentukan siapa pejabat yang berwenang menangani suatu laporan insiden.
 10. **Al-'Uqūbah bi Qadril Jināyah (الْعُقُوبَةُ بِقَدْرِ الْجِنَايَةِ)**: Prinsip hukum syariat bahwa sanksi dan tindakan koreksi wajib sebanding dengan kadar pelanggarannya.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Matriks Eskalasi Penanganan Kasus Perilaku
+
+Penanganan kasus dan intervensi pada dimensi **MATRIKS ESKALASI PENANGANAN KASUS PERILAKU** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **MATRIKS ESKALASI PENANGANAN KASUS PERILAKU**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -754,6 +798,48 @@ flowchart TD
 9. **Decision Threshold (Ambang Batas Keputusan)**: Nilai batas kuantitatif (angka pelanggaran) yang memicu perpindahan status pembinaan santri secara otomatis.
 10. **Halo Effect Shield**: Bias kognitif di mana kebaikan santri di satu bidang (misal: juara tahfizh) membuatnya dilindungi secara keliru dari pertanggungjawaban kesalahan di bidang lain.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Aturan Rujukan (Rule Of 3 Strikes & Immediate Tier 3)
+
+Penanganan kasus dan intervensi pada dimensi **ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -1061,6 +1147,48 @@ flowchart TD
 8. **Sleep Hygiene**: Kebiasaan dan kondisi lingkungan tidur yang teratur (suhu sejuk, gelap, tenang) untuk menjamin kualitas tidur restoratif bagi remaja.
 9. **Halāwatul Īmān (حَلَاوَةُ الْإِيمَانِ)**: Manisnya kenikmatan iman di dalam kalbu yang membuat ketaatan terasa ringan dan maksiat terasa menjijikkan.
 10. **Aversive Conditioning**: Bentuk pengondisian negatif di mana stimulus hukuman yang menyakitkan menyebabkan subjek mengembangkan penolakan/kebencian pada aktivitas terkait.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Pemetaan Intervensi Karakter Spiritual Dan Ibadah (K1, K2, K3)
+
+Penanganan kasus dan intervensi pada dimensi **PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -1377,6 +1505,48 @@ flowchart TD
 9. **Cross-Ventilation**: Sistem ventilasi silang yang memastikan aliran udara segar mengalir terus-menerus di dalam kamar asrama untuk kenyamanan pernafasan.
 10. **Open-Foyer Layout**: Desain area bersama (seperti teras kamar mandi) yang dibuat terbuka dan terang guna mencegah isolasi sosial.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Environmental Engineering Dan Tata Ruang Asrama
+
+Penanganan kasus dan intervensi pada dimensi **ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -1689,6 +1859,48 @@ flowchart TD
 9. **Al-'Asasul Lailī (الْعَسَسُ اللَّيْلِيُّ)**: Tradisi patroli keliling malam hari yang dipelopori oleh para khalifah Islam untuk menjaga ketenangan rakyat.
 10. **Reporting Barrier**: Hambatan psikologis (rasa takut, segan, cemas dibalas) yang membuat korban atau saksi enggan melaporkan insiden ke pembina.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Protokol Patroli Titik Rawan Dan Hotspots Mitigation
+
+Penanganan kasus dan intervensi pada dimensi **PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -2000,6 +2212,48 @@ flowchart TD
 8. **Visual Signage**: Sistem komunikasi visual (poster, kaligrafi, stiker) yang dirancang untuk menyampaikan pesan edukatif secara estetis dan terstandar.
 9. **Default Setting**: Kondisi awal suatu lingkungan (misal: sajadah yang sudah terbentang rapi) yang membuat perilaku yang diharapkan menjadi pilihan termudah.
 10. **Bi'ah Shālihah (الْبِيئَةُ الصَّالِحَةُ)**: Ekosistem lingkungan sosial, fisik, dan spiritual yang secara alami menuntun warganya menuju kebaikan dan ketakwaan.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Arsitektur Nudges Visual Dan Budaya Bi'Ah Shalihah
+
+Penanganan kasus dan intervensi pada dimensi **ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -2320,6 +2574,48 @@ flowchart TD
 9. **Striatum Dopaminergic Firing**: Pelepasan neurotransmitter dopamin di otak saat seseorang menerima apresiasi tulus yang mengunci memori kebiasaan baik.
 10. **Tally Counter Tracking**: Metode pencatatan frekuensi interaksi positif dan korektif secara digital pada aplikasi ponsel pintar musyrif.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Operasionalisasi Magic Ratio 4:1 Dalam Pengasuhan
+
+Penanganan kasus dan intervensi pada dimensi **OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -2633,6 +2929,48 @@ flowchart TD
 9. **Fading Out Schedule**: Proses pengurangan frekuensi token eksternal secara bertahap seiring matangnya motivasi intrinsik dan keikhlasan batin santri.
 10. **Fastabiqul Khairāt (فَاسْتَبِقُوا الْخَيْرَاتِ)**: Perintah syariat Al-Qur'an untuk saling berlomba-lomba secara sehat dan produktif dalam mengerjakan segala kebajikan.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Sistem Poin Apresiasi Dan Portofolio Karakter Pbis
+
+Penanganan kasus dan intervensi pada dimensi **SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -2942,6 +3280,48 @@ flowchart TD
 8. **Tahdzībul Akhlāq (تَهْذِيبُ الْأَخْلَاقِ)**: Proses penyempurnaan, penghalusan, dan pengarahan tabiat manusia menuju derajat budi pekerti luhur dan mulia.
 9. **Extinction**: Prosedur dalam modifikasi perilaku di mana penguatan (*Reinforcement*) yang selama ini memelihara perilaku masalah dihentikan secara total.
 10. **Generalization**: Kemampuan santri untuk menampilkan perilaku terpuji baru di berbagai setting ruang (kelas, asrama, masjid) dan bersama berbagai guru/musyrif.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Teknik Pelatihan Replacement Behavior Adaptif
+
+Penanganan kasus dan intervensi pada dimensi **TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -3255,6 +3635,48 @@ flowchart TD
 8. **Role-Play Simulation**: Metode pembelajaran aktif di mana peserta didik memperagakan skenario situasi sosial nyata untuk mempraktikkan keterampilan baru.
 9. **Khafdhul Janāh (خَفْضُ الْجَنَاحِ)**: Sikap rendah hati, ramah, dan penuh kasih sayang dalam memperlakukan sesama saudara yang beriman.
 10. **Tell-Show-Do-Practice**: Siklus pedagogis 4 tahap pengajaran keterampilan: Jelaskan (*Tell*), Contohkan (*Show*), Simulasikan (*Do*), dan Terapkan (*Practice*).
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Kurikulum Pelatihan Casel Sel Kelompok Kecil (Ssig)
+
+Penanganan kasus dan intervensi pada dimensi **KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -3571,6 +3993,48 @@ flowchart TD
 9. **Interoception**: Kemampuan otak dan sistem saraf untuk merasakan dan menginterpretasikan sinyal-sinyal fisiologis dari dalam organ tubuh sendiri.
 10. **Nafs al-Muthma'innah (النَّفْسُ الْمُطْمَئِنَّةُ)**: Tingkatan jiwa yang telah mencapai ketenangan, kedamaian, dan keharmonisan batiniah yang kokoh di hadapan Allah SWT.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Modul Pengembangan Regulasi Emosi Dan Mujahadah
+
+Penanganan kasus dan intervensi pada dimensi **MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -3733,6 +4197,48 @@ flowchart TD
 [^2]: Hadits wasiat Rasulullah SAW kepada Ibnu Abbas RA mengenai teladan pengasuhan dan mentoring personal pemuda, HR. At-Tirmidzi No. 2516.
 [^3]: Studi kasus sesi mentoring 1-on-1 menyelamatkan santri berprestasi dari krisis keputusasaan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak relasi kelekatan aman (secure attachment) terhadap resiliensi emosional dan stabilitas hafalan santri (2026).
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Sistem Mentoring Qudwah Musyrif-Santri
+
+Penanganan kasus dan intervensi pada dimensi **SISTEM MENTORING QUDWAH MUSYRIF-SANTRI** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **SISTEM MENTORING QUDWAH MUSYRIF-SANTRI**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -4052,6 +4558,48 @@ flowchart TD
 9. **Weekly Check-In**: Sesi evaluasi singkat mingguan (10–15 menit) antara santri dan musyrif mentor untuk meninjau pencapaian data logbook.
 10. **Wafā' bil 'Ahd (الْوَفَاءُ بِالْعَهْدِ)**: Keluhuran akhlaq Islam berupa kesetiaan menjaga dan menunaikan janji komitmen moral di hadapan Allah dan sesama manusia.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Penyusunan Dan Monitoring Behavioral Contract
+
+Penanganan kasus dan intervensi pada dimensi **PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -4365,6 +4913,48 @@ flowchart TD
 9. **Replacement Behavior**: Perilaku adaptif positif yang diajarkan secara eksplisit kepada santri untuk menggantikan perilaku maladaptif dalam memenuhi kebutuhannya.
 10. **Tier-Down Transition**: Proses penurunan tingkat intensitas intervensi secara bertahap dari Tier 3 kembali ke Tier 2 seiring tercapainya kestabilan perilaku santri.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Sop Manajemen Kasus Khusus Tier 3
+
+Penanganan kasus dan intervensi pada dimensi **SOP MANAJEMEN KASUS KHUSUS TIER 3** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **SOP MANAJEMEN KASUS KHUSUS TIER 3**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -4676,6 +5266,48 @@ flowchart TD
 9. **Low-Tone Whisper Technique**: Teknik berbicara dengan volume sangat rendah dan nada bariton tenang untuk memaksa lawan bicara meredakan teriakannya.
 10. **Post-Crisis Debriefing**: Sesi refleksi dan pembelajaran bersama santri yang dilakukan setelah badai emosi benar-benar reda dan akal sehat pulih total.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Protokol De-Eskalasi Krisis Emosional Santri
+
+Penanganan kasus dan intervensi pada dimensi **PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -4983,6 +5615,48 @@ flowchart TD
 8. **Home-Dorm Alignment**: Keselarasan nilai, tata tertib, dan pola interaksi yang diterapkan di kamar asrama dengan yang dipraktikkan di rumah saat liburan.
 9. **Triangulation Exploitation**: Pemanfaatan konflik atau ketidakharmonisan komunikasi antar-pihak oleh pihak ketiga demi keuntungan pribadi.
 10. **At-Takāfulut Tarbawī (التَّكَافُلُ التَّرْبَوِيُّ)**: Saling menanggung dan memikul amanah pendidikan generasi muda secara kolektif antara pihak sekolah, asrama, dan keluarga.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Sinergi Segitiga Pengasuhan Musyrif, Bk, Dan Orang Tua
+
+Penanganan kasus dan intervensi pada dimensi **SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -5293,6 +5967,48 @@ flowchart TD
 8. **Informed Consent**: Lembar persetujuan tindakan medis yang ditandatangani oleh wali santri setelah mendapatkan penjelasan lengkap mengenai kondisi kesehatan anaknya.
 9. **UPTD PPA**: Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak yang bertugas memberikan layanan perlindungan dan pendampingan hukum.
 10. **Medical Neglect**: Tindakan pengabaian medis di mana anak yang sakit tidak diberikan pengobatan medis yang layak sehingga membahayakan keselamatan jiwanya.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Manajemen Rujukan Eksternal Psikiatri Dan Hukum Santri
+
+Penanganan kasus dan intervensi pada dimensi **MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -5605,6 +6321,48 @@ flowchart TD
 9. **Role-Based Access Control (RBAC)**: Mekanisme keamanan sistem digital yang membatasi hak akses data rahasia santri hanya kepada pejabat yang berwenang.
 10. **Remedial Ethics Training**: Program pelatihan ulang wajib bagi staf/musyrif yang terbukti melakukan pelanggaran prosedur disiplin ringan sebelum diizinkan bertugas kembali.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Protokol Audit Fidelitas Manajemen Kasus Dan Ethics Review
+
+Penanganan kasus dan intervensi pada dimensi **PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -5914,6 +6672,48 @@ flowchart TD
 8. **Justification**: Kecenderungan psikologis santri untuk mencari alasan pembenaran atas perbuatan salahnya ketika merasa diserang oleh pertanyaan intimidatif.
 9. **Relational Harm**: Kerusakan kepercayaan, rasa sakit hati, atau ketidaknyamanan batiniah yang dialami korban akibat perbuatan salah orang lain.
 10. **Restitution (Restorasi/Ganti Rugi)**: Tindakan nyata yang dilakukan pelanggar untuk memperbaiki, mengganti, atau memulihkan keadaan korban ke kondisi semula.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Panduan Praktis Restorative Chat 5 Pertanyaan
+
+Penanganan kasus dan intervensi pada dimensi **PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -6229,6 +7029,48 @@ flowchart TD
 9. **Closing Ritual**: Rangkaian penutupan lingkaran berupa saling berjabat tangan, doa kafaratul majelis, dan komitmen menjaga kerahasiaan bersama.
 10. **Ishlāhu Dzātil Bain (إِصْلَاحُ ذَاتِ الْبَيْنِ)**: Upaya syar'i mendamaikan hubungan persaudaraan yang retak demi menjaga keutuhan agama dan masyarakat.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Sop Penyelenggaraan Restorative Circles Asrama
+
+Penanganan kasus dan intervensi pada dimensi **SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -6539,6 +7381,48 @@ flowchart TD
 9. **Dhamānul 'Udwān (ضَمَانُ الْعُدْوَانِ)**: Tanggung jawab perdata syar'i untuk mengganti kerugian materiil atas harta benda yang dirusak secara sengaja atau lalai.
 10. **Resentment**: Perasaan dendam, sakit hati, dan marah yang mengendap dalam jiwa santri akibat diperlakukan secara tidak adil atau dipermalukan.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Penerapan Konsekuensi Logis Dan Ishlah Al-Bain
+
+Penanganan kasus dan intervensi pada dimensi **PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -6847,6 +7731,48 @@ flowchart TD
 9. **Relational Healing**: Proses pemulihan rasa percaya, kedamaian batin, dan keharmonisan hubungan sosial yang sebelumnya rusak akibat konflik.
 10. **Sulhul Ukhuwwah (صُلْحُ الْأُخُوَّةِ)**: Perdamaian persaudaraan sejati yang menyatukan kembali dua hati orang yang beriman dalam ikatan cinta karena Allah SWT.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Protokol Pemulihan Relasi Korban Dan Pelaku
+
+Penanganan kasus dan intervensi pada dimensi **PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -7152,6 +8078,48 @@ flowchart TD
 9. **Collateral Consequences**: Dampak buruk turunan yang merugikan masa depan seseorang (seperti ditolak beasiswa) akibat keberadaan catatan disiplin masa lalu.
 10. **Tabula Rasa Re-start**: Momen di mana santri memulai kembali kehidupannya di pesantren dengan status reputasi bersih tanpa prasangka buruk dari siapapun.
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Clean Slate Policy Dan Eliminasi Stigma Permanen
+
+Penanganan kasus dan intervensi pada dimensi **CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -7311,6 +8279,48 @@ flowchart TD
 [^2]: Landasan hadits Nabawi mengenai prinsip kemudahan dan kabar gembira dalam tarbiyah, HR. Al-Bukhari No. 69.
 [^3]: Studi kasus penerapan CICO Tier 2 mencegah eskalasi sanksi santri berisiko Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak fidelitas Tier 1 terhadap penurunan beban intervensi kasus Tier 2 dan Tier 3 di lingkungan asrama 24 jam (2026).
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Arsitektur Sw-Pbis Multi-Tier Pesantren
+
+Penanganan kasus dan intervensi pada dimensi **ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -7477,6 +8487,48 @@ flowchart TD
 [^2]: Ibnu Miskawaih mengenai definisi akhlak sebagai disposisi jiwa yang melahirkan perilaku spontan tanpa beban, Ibnu Miskawaih (2011, hlm. 25).
 [^3]: Studi kasus penerapan modul regulasi emosi SEL-Tazkiyah mereduksi agresi reaktif santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penggabungan nilai syar'i dan teknik neurosains afektif terhadap penurunan kadar stres dan peningkatan kohesi sosial santri (2026).
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Integrasi 5 Kompetensi Casel Dengan Adab Tazkiyah
+
+Penanganan kasus dan intervensi pada dimensi **INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -7648,6 +8700,48 @@ flowchart TD
 [^3]: Studi kasus penerapan sesi coaching GROW Islami mentransformasi kedisiplinan fajar santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penguatan internal locus of control terhadap keberlanjutan motivasi belajar dan hafalan santri (2026).
 
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Metodologi Coaching Karakter Grow Model Islami
+
+Penanganan kasus dan intervensi pada dimensi **METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
+
 
 ---
 
@@ -7806,6 +8900,48 @@ flowchart TD
 [^2]: Tafsir ayat Al-Qur'an mengenai prinsip kelembutan dan kebijaksanaan dalam kepemimpinan umat, QS. Ali 'Imran: 159.
 [^3]: Studi kasus penerapan komunikasi Firm & Kind menghentikan pembangkangan piket asrama Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengasuhan Firm & Kind terhadap eliminasi trauma psikologis dan peningkatan kepatuhan sukarela santri (2026).
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Prinsip Disiplin Positif Firm And Kind Jane Nelsen
+
+Penanganan kasus dan intervensi pada dimensi **PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---
@@ -7973,6 +9109,48 @@ flowchart TD
 [^2]: Ibnu Khaldun mengenai pembentukan Al-Malakah (disposisi karakter kokoh) melalui pengulangan perbuatan terus-menerus, Muqaddimah (2005, hlm. 542).
 [^3]: Studi kasus penerapan siklus 66 hari neuro-adab mentransformasi refleks fajar santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Mekanisme mielinisasi selubung akson dalam memindahkan beban kontrol kognitif prefrontal cortex ke basal ganglia otomatis (2026).
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Integrasi Neurosains Kognitif Dan Neuroplastisitas Adab
+
+Penanganan kasus dan intervensi pada dimensi **INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.
 
 
 ---

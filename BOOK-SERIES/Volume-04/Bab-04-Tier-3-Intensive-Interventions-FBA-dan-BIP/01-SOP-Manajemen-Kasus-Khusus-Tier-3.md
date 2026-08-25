@@ -306,3 +306,45 @@ flowchart TD
 8. **Antecedent Modification**: Rekayasa lingkungan fisik dan sosial untuk menghilangkan pemicu yang memicu munculnya perilaku krisis santri.
 9. **Replacement Behavior**: Perilaku adaptif positif yang diajarkan secara eksplisit kepada santri untuk menggantikan perilaku maladaptif dalam memenuhi kebutuhannya.
 10. **Tier-Down Transition**: Proses penurunan tingkat intensitas intervensi secara bertahap dari Tier 3 kembali ke Tier 2 seiring tercapainya kestabilan perilaku santri.
+
+---
+
+### IV. Arsitektur Intervensi Mendalam & Protokol Resolusi Sop Manajemen Kasus Khusus Tier 3
+
+Penanganan kasus dan intervensi pada dimensi **SOP MANAJEMEN KASUS KHUSUS TIER 3** ditegakkan di atas prinsip multi-tier PBIS yang sistemik, terukur, dan mengutamakan pemulihan martabat kemanusiaan (*Restorative Justice*):
+
+1. **Analisis Fungsional Perilaku (*Functional Behavior Assessment / FBA*)**:
+   Setiap perilaku maladaptif santri selalu memiliki motif fungsional dasar (*Underlying Function*). Musyrif dan konselor membedahnya melalui model rantai **A-B-C**:
+   * **Antecedent (Pemicu Awal)**: Kelelahan fisik akibat kurang tidur, rasa frustrasi terhadap tugas tahfizh, atau provokasi teman sebaya di kamar.
+   * **Behavior (Bentuk Perilaku)**: Tindakan menarik diri, membantah instruksi, atau melanggar kesepakatan jam malam.
+   * **Consequence (Dampak yang Dicari)**: Menghindari beban tugas (*Task Avoidance*) atau mencari perhatian dan penerimaan kelompok (*Peer Attention*).
+
+2. **Alur Intervensi Multi-Tier Berbasis Data**:
+
+```mermaid
+graph TD
+    Tier1["<b>TIER 1: PENCEGAHAN UNIVERSAL (80-85% SANTRI)</b><br/>• Pembiasaan Adab Kamar, Matriks Ekspektasi Visual, & Rasio Apresiasi 4:1"]
+    Tier2["<b>TIER 2: INTERVENSI TERARAH (10-15% SANTRI)</b><br/>• Kartu Harian CICO, Mentoring Kelompok Kecil, & Penyelarasan Orang Tua"]
+    Tier3["<b>TIER 3: INTERVENSI INTENSIF (1-5% SANTRI)</b><br/>• Rencana BIP Khusus, Sesi Konseling CBT Islami, & Sidang Ishlah al-Bain"]
+    
+    Tier1 -->|Penurunan Adab 3 Hari Berturut| Tier2
+    Tier2 -->|Eskalasi Kasus Berat / Krisis| Tier3
+    Tier3 -->|Pemulihan Tuntas & Clean Slate| Tier1
+```
+
+3. **Format Rencana Intervensi Perilaku Individual (*Behavior Intervention Plan / BIP*)**:
+
+| Komponen BIP | Deskripsi Rencana Aksi Terarah | Penanggung Jawab |
+| :--- | :--- | :--- |
+| **Target Perilaku Pengganti (*Replacement Behavior*)** | Mengajarkan teknik regulasi emosi nafas dalam (*Ta'awwudz*) saat marah dan meminta jeda 5 menit. | Musyrif Kamar & Santri |
+| **Modifikasi Lingkungan (*Environmental Adjustment*)** | Memindahkan posisi tempat tidur santri menjauhi kawan yang sering memicu pertengkaran. | Kepala Asrama |
+| **Sistem Penguatan Positif (*Reinforcement Schedule*)** | Memberikan pengakuan verbal dan validasi setiap kali santri berhasil mengendalikan diri. | Wali Kelas & Musyrif |
+| **Protokol Pemulihan Hubungan (*Restitution Plan*)** | Memperbaiki barang yang rusak dan melakukan khidmah sosial membersihkan ruang bersama. | Tim Disiplin Restoratif |
+
+---
+
+### V. Mitigasi Risiko & Protokol Perlindungan Rasa Aman Santri
+
+Dalam mengoperasionalkan **SOP MANAJEMEN KASUS KHUSUS TIER 3**, lembaga wajib memastikan terciptanya rasa aman psikologis dan fisik secara mutlak:
+* **Prinsip Kerahasiaan Konseling (*Counseling Confidentiality*)**: Seluruh catatan kasus bimbingan konseling dan FBA dikelola secara aman dalam sistem terenkripsi dan tidak boleh dijadikan bahan pergunjingan di ruang asatidz.
+* **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**: Santri yang telah menuntaskan proses restitusi dan ishlah berhak mendapatkan pemulihan reputasi penuh tanpa ada stigma negatif permanen yang melekat pada dirinya.

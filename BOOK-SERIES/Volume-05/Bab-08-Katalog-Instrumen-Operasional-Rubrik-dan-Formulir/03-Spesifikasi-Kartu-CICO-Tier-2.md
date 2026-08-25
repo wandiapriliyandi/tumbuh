@@ -206,3 +206,43 @@ flowchart TD
 8. **Graduasi Tier 2**: Status keberhasilan santri yang telah memenuhi target perilaku 80% selama 4 pekan berturut-turut untuk kembali ke sistem universal.
 9. **Stigmatization Prevention**: Protokol perlindungan kehormatan santri agar tidak dilabeli negatif oleh teman sebaya atau guru selama masa intervensi.
 10. **Positive Reinforcement**: Penguatan perilaku melalui konsekuensi yang menyenangkan (apresiasi, afirmasi) untuk meningkatkan probabilitas berulangnya perilaku baik.
+
+---
+
+### IV. Standardisasi Operasional Lanjutan & Manajemen Tata Kelola Spesifikasi Kartu Cico Check-In Check-Out Tier 2 (Form Cico-Tier2)
+
+Penerapan operasional **SPESIFIKASI KARTU CICO CHECK-IN CHECK-OUT TIER 2 (FORM CICO-TIER2)** dalam ritme kehidupan asrama 24 jam menuntut standarisasi kerja yang presisi, manusiawi, dan terbebas dari gesekan birokrasi:
+
+1. **Rincian Alur Kerja (*Operational Workflow*) Shift Musyrif**:
+   Untuk mencegah kelelahan fisik dan mental (*Burnout*), operasional asrama dibagi ke dalam 4 shift kerja terintegrasi dengan pembagian tugas yang jelas:
+   * **Shift Pagi (04.00 - 07.30)**: Membangunkan santri dengan salam hangat, mengawal shalat Subuh berjamaah, sarapan sehat, dan kerapian kamar 5S.
+   * **Shift Siang (12.00 - 16.00)**: Mengawal shalat Zhuhur, makan siang bersama (*Mayoran*), istirahat siang (*Qailulah* 30-45 menit), dan shalat Ashar.
+   * **Shift Sore-Malam (17.30 - 22.00)**: Mengawal halaqah Maghrib-Isya, mudzakarah pelajaran mandiri, dan penutupan presensi malam.
+   * **Shift Jaga Malam & Patroli (22.00 - 04.00)**: Melindungi ketenangan tidur santri (6.5–7 jam) dan patroli rutin mitigasi titik rawan (*Hotspots Patrol*).
+
+2. **Arsitektur Sinergi Dual-Pillar Madrasah-Asrama**:
+
+```mermaid
+graph LR
+    Madrasah["WALI KELAS MADRASAH<br/>(Pemantauan Kognitif, Akademik, & Kehadiran Kelas)"] -- Handover Harian 15 Menit --> Asrama["MUSYRIF ASRAMA 24 JAM<br/>(Pemantauan Adab Kamar, Ibadah, & Kesejahteraan Santri)"]
+    Asrama -- Logbook Digital Terpadu --> SIM["SISTEM INFORMASI MANAJEMEN PESANTREN<br/>(Dashboard Perkembangan Santri Real-Time)"]
+    SIM --> Pimpinan["PIMPINAN PESANTREN & WALI SANTRI<br/>(Kebijakan Terarah & Laporan Periodik)"]
+```
+
+3. **Checklist Audit Standar Mutu Kamar & Lingkungan 5S**:
+
+| Aspek Pemeriksaan 5S | Indikator Baku yang Harus Terpenuhi | Skor Kelayakan |
+| :--- | :--- | :---: |
+| **Ringkas (Seiri)** | Tidak ada barang mubazir atau pakaian kotor yang menumpuk di luar keranjang laundry. | 1 – 4 |
+| **Rapi (Seiton)** | Kasur terbentang rata, bantal bersarung bersih, dan lemari pakaian tertata sesuai zona. | 1 – 4 |
+| **Resik (Seiso)** | Lantai kamar disapu dan dipel bersih, ventilasi bebas debu, dan tempat sampah kosong. | 1 – 4 |
+| **Rawat (Seiketsu)** | Sirkulasi udara segar mengalir lancar, pencahayaan cukup, dan bebas bau lembab. | 1 – 4 |
+| **Rajin (Shitsuke)** | Seluruh penghuni kamar menjalankan piket harian secara sukarela dengan penuh disiplin. | 1 – 4 |
+
+---
+
+### V. Manajemen Perlindungan Musyrif & Mitigasi Burnout
+
+Lembaga yang sehat memandang musyrif sebagai aset peradaban yang harus dilindungi kesejahteraannya:
+* **Pemberian Hak Libur Mingguan Terjadwal (*1 Day-Off per Week*)**: Setiap musyrif wajib mengambil hak libur 24 jam secara bergilir dengan digantikan oleh musyrif cadangan (*Relief Mentor*).
+* **Supervisi Klinis & Dukungan Kesehatan Mental**: Mengadakan sesi konseling kelompok dan *recharge* spiritual bulanan bersama Pimpinan Pondok untuk menyegarkan kembali niat ikhlas dan mengurai beban psikologis pengasuhan.

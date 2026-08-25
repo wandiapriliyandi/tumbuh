@@ -101,3 +101,45 @@ Untuk menjaga iklim akhlak yang kokoh, lembaga menetapkan:
 [^3]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Fi Adabil Muta'allim ma'a Ikhwanihi wa Aqranihi", hlm. 28–39.
 [^4]: **Marshall B. Rosenberg**, *Nonviolent Communication: A Language of Life* (Encinitas: PuddleDancer Press, 2003; Edisi ke-3, 2015), Bab 1–4, hlm. 1–66.
 [^5]: **Giacomo Rizzolatti & Corrado Sinigaglia**, *Mirrors in the Brain: How Our Minds Share Actions and Emotions* (Oxford: Oxford University Press, 2008), Bab 5 & 6: "Empathy and the Mirror System", hlm. 135–184.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Matinul Khuluq (Akhlak Yang Kokoh & Santun)
+
+Pengembangan kompetensi **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.

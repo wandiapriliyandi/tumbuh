@@ -329,3 +329,42 @@ flowchart TD
 8. **Behavior Intervention Plan (BIP)**: Dokumen rencana aksi formal yang merinci strategi modifikasi anteseden, pengajaran perilaku pengganti, dan penguatan konsekuensi positif.
 9. **Setting Events**: Kondisi fisik atau psikologis latar belakang (misal: kurang tidur, lapar, atau sakit) yang meningkatkan kemungkinan pemicu memunculkan perilaku buruk.
 10. **Ma'rifatul 'Ilal (مَعْرِفَةُ الْعِلَلِ)**: Pengetahuan dan kemampuan mendalam dalam menyingkap sebab-sebab dan motif hakiki di balik suatu peristiwa hukum atau perilaku manusia.
+
+---
+
+### IV. Analisis Metodologis Lanjutan & Penjaminan Mutu Asesmen Protokol Functional Behavior Assessment (Fba)
+
+Keberhasilan implementasi asesmen pada tema **PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)** mensyaratkan validitas data yang kokoh dan bebas dari bias subjektivitas evaluator:
+
+1. **Formulasi Matematis & Uji Psikometrik Data Observasi**:
+   Untuk menjamin reliabilitas antar-penilai (*Inter-Rater Reliability*), instrumen asesmen diuji secara berkala menggunakan koefisien kesepakatan penilai **Cohen's Kappa** dan **Fleiss' Kappa**:
+   
+   $$\kappa = \frac{P_o - P_e}{1 - P_e}$$
+   
+   *Di mana $P_o$ adalah proporsi kesepakatan teramati antar-musyrif, dan $P_e$ adalah probabilitas kesepakatan hipotetis secara acak. Nilai $\kappa \ge 0.80$ menjadi standar baku kelayakan instrumen sebelum diterapkan di seluruh angkatan santri.*
+
+2. **Arsitektur Alur Pengolahan Data Triangulasi 360°**:
+
+```mermaid
+graph TD
+    Self["1. Self-Assessment (Muhasabah Santri Harian) - Bobot 20%"] --> Engine["ENGINE ANALITIK DATA PBIS<br/>(Normalisasi Skor, Deteksi Diskrepansi, & Koreksi Bias)"]
+    Peer["2. Peer-Assessment (Sosiometri Ukhuwah Sebaya) - Bobot 20%"] --> Engine
+    Musyrif["3. Mentor-Assessment (Observasi Logbook Musyrif 24 Jam) - Bobot 40%"] --> Engine
+    Teacher["4. Teacher-Assessment (Wali Kelas & Guru Madrasah) - Bobot 20%"] --> Engine
+    
+    Engine --> Report["RAPOR NARATIF PERKEMBANGAN KARAKTER<br/>(Grafik Laju Kemajuan Ipsatif & Rekomendasi Pembinaan)"]
+```
+
+3. **Protokol Rekonsiliasi Diskrepansi Data Ekstrem**:
+   Jika ditemukan perbedaan skor $> 30\%$ antara penilaian diri santri dan catatan observasi musyrif:
+   * **Sesi Konferensi Klarifikasi (15 Menit)**: Musyrif dan santri duduk bersama dalam suasana persaudaraan untuk mengkaji artefak catatan tanpa sikap menghakimi.
+   * **Eksplorasi Sudut Pandang Subjektif**: Mendengarkan alasan santri mengapa ia menilai dirinya demikian, sekaligus menunjukkan catatan fakta lapangan musyrif sebagai cermin pertumbuhan.
+   * **Penyepakatan Target Perbaikan Mandiri**: Merumuskan 1–2 target adab prioritas yang akan dipantau bersama dalam siklus 14 hari ke depan.
+
+---
+
+### V. Pemanfaatan Data Asesmen bagi Kebijakan Pondok
+
+Hasil pengukuran **PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)** tidak boleh berakhir sebagai angka mati dalam arsip administratif, melainkan harus bertransformasi menjadi dasar pengambilan keputusan (*Data-Based Decision Making*):
+* **Identifikasi Titik Rawan Lingkungan (*Hotspots Mapping*)**: Menganalisis waktu dan lokasi mana yang paling sering memicu penurunan adab santri, guna dilakukan rekayasa tata ruang dan peningkatan patroli hangat.
+* **Evaluasi Efektivitas Program Pengasuhan**: Mengukur apakah program pembinaan yang berjalan selama satu semester benar-benar menghasilkan kemajuan karakter yang signifikan pada diri santri.

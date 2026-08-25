@@ -104,3 +104,45 @@ Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri dalam sistem TUMBUH p
 [^1]: **Al-Hafizh Al-Imam Abu al-Qasim Sulaiman bin Ahmad ath-Thabrani**, *Al-Mu'jam al-Awsath*, Tahqiq: Dr. Mahmud ath-Thahhan (Kairo: Dar al-Haramain, 1415 H), Jilid VI, Hadits No. 6026; serta **Al-Albani**, *Silsilah al-Ahadits ash-Shahihah*, No. 906.
 [^2]: **Robert K. Greenleaf**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977; Edisi Peringatan 25 Tahun, 2002), Bab 1: "The Servant as Leader", hlm. 21–48; serta **Larry C. Spears** (Ed.), *Reflections on Leadership: How Robert K. Greenleaf's Theory of Servant-Leadership Influenced Today's Top Management Thinkers* (New York: John Wiley & Sons, 1995).
 [^3]: **Allan Luks & Peggy Payne**, *The Healing Power of Doing Good: The Health and Spiritual Benefits of Helping Others* (New York: Ballantine Books, 1991; Edisi Revisi, iUniverse, 2001), Bab 2 & 3: "The Helper's High", hlm. 17–58; serta **Stephen G. Post**, *Why Good Things Happen to Good People: The Exciting New Science of How Being a Good Person Can Help You Live a Longer, Healthier, Largely Happier Life* (New York: Broadway Books, 2007).
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Nafi'Un Lighairihi (Bermanfaat Luas Bagi Sesama)
+
+Pengembangan kompetensi **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.

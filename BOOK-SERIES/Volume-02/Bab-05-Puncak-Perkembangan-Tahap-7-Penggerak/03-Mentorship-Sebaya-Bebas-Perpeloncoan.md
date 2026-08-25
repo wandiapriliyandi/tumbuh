@@ -80,3 +80,45 @@ Dengan lenyapnya tradisi perpeloncoan dan tegaknya sistem Sahabat Asuh, asrama p
 [^2]: **Al-Imam Abu Zakariyya Yahya bin Syaraf an-Nawawi**, *Al-Minhaj Syarh Shahih Muslim bin al-Hajjaj* (Kairo: Al-Mathba'ah al-Mishriyyah / Dar Ihya' at-Turats al-'Arabi, 1349 H / 1930 M), Jilid XVI, hlm. 165–172.
 [^3]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Majmu' al-Fatawa*, Dikumpulkan oleh Abdurrahman bin Muhammad bin Qasim (Madinah: Majma' al-Malik Fahd li Thiba'at al-Mush-haf asy-Syarif, 1416 H / 1995 M), Jilid XVIII: "Kitab al-Jihad wa Tahrim azh-Zhulm", hlm. 135–160.
 [^4]: **Keith J. Topping**, *Peer-Assisted Learning: A Practical Guide for Teachers* (Cambridge: Brookline Books, 2001), Bab 2: "Principles of Peer Tutoring", hlm. 21–48.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Mentorship Sebaya Bebas Perpeloncoan
+
+Pengembangan kompetensi **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.

@@ -59,6 +59,8 @@
   - [05 Epilog Menghantarkan Santri Menuju Puncak Adab](#05-epilog-menghantarkan-santri-menuju-puncak-adab)
 - [DAFTAR PUSTAKA & RUJUKAN PANDUAN VOLUME 02](#daftar-pustaka--rujukan-panduan-volume-02)
 
+---
+
 
 ---
 
@@ -301,6 +303,48 @@ Dengan meletakkan fondasi *Whole-Child* ini, kita melangkah menuju **Sub-Bab 1.2
 [^6]: **Al-Imam Abu Abdillah Muhammad bin Sahnun at-Tanukhi**, *Adab al-Mu'allimin*, Tahqiq: Dr. Hasan Husni Abdul Wahhab (Tunis: Dar al-Kutub asy-Syarqiyyah, 1972), hlm. 28–45.
 [^7]: **Hujjatul Islam Imam Abu Hamid Muhammad bin Muhammad al-Ghazali**, *Ayyuhal Walad fi Nashihat at-Talamidz*, Tahqiq: Dr. Ahmad Ahmad Badawi (Kairo: Dar al-Qalam, 1986), hlm. 12–28.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Dekonstruksi Karakter Parsial Menuju Whole-Child
+
+Pengembangan kompetensi **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **DEKONSTRUKSI KARAKTER PARSIAL MENUJU WHOLE-CHILD** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -457,6 +501,48 @@ Inilah perwujudan keadilan kurikulum sejati: menghormati fitrah kemanusiaan sant
 [^4]: **Al-Syaikh ar-Ra'is Ibnu Sina (Avicenna)**, *Al-Qanun fi at-Tibb*, Tahqiq: Idwar al-Qasy (Beirut: Dar al-Kutub al-'Ilmiyyah, 1999), Jilid I, Buku 1: "Fi Kulliyyat 'Ilmit Thibb", hlm. 25–48.
 [^5]: **Matthew Walker**, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), Bab 7: "Too Extreme for the Guinness Book of World Records: Sleep Deprivation and the Brain", hlm. 133–163.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Lima Dimensi Kapasitas Holistik Santri
+
+Pengembangan kompetensi **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **LIMA DIMENSI KAPASITAS HOLISTIK SANTRI** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -598,6 +684,48 @@ Dengan integrasi taksonomi adab dan CASEL SEL ini, pembinaan karakter santri ber
 [^6]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Qabisi**, *Ar-Risalah al-Mufashshilah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wal Muta'allimin*, Tahqiq: Ahmad Khalid Jam'ah (Damaskus: Dar al-Fikr, 1986), hlm. 55–82.
 [^7]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Fi Adabil Muta'allim fi Nafsihi wa ma'a Aqranihi", hlm. 24–38.
 [^8]: **Al-Imam Abu Ishaq Ibrahim bin Musa asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid V: "Kitab al-Ijtihad wa al-Ma'alat", hlm. 177–210.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Integrasi Taksonomi Adab Turats Dengan Casel Sel
+
+Pengembangan kompetensi **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -766,6 +894,48 @@ Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini
 [^6]: **Richard H. Thaler & Cass R. Sunstein**, *Nudge: Improving Decisions About Health, Wealth, and Happiness* (New Haven: Yale University Press, 2008; Edisi Revisi, Penguin Books, 2009), Bab 1: "Biases and Blunders", hlm. 17–39; serta Bab 5: "Choice Architecture", hlm. 81–100.
 [^7]: **Hujjatul Islam Imam Abu Hamid Muhammad bin Muhammad al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah wa Mu'asyaratil Khalq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 175–190.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Teori Penentuan Diri & Rekayasa Lingkungan Asrama
+
+Pengembangan kompetensi **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -793,6 +963,48 @@ graph TD
 #### B. Strategi Integrasi Guru Mata Pelajaran
 * Setiap guru mata pelajaran wajib menyisipkan pesan adab praktis selama 3–5 menit di awal pelajaran (*Adab Embedding*).
 * Melarang keras penggunaan ancaman nilai akademik untuk menghukum pelanggaran asrama, menjaga objektivitas penilaian dan rasa keadilan santri.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Implikasi Kurikuler Desain Pembelajaran Holistik
+
+Pengembangan kompetensi **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **IMPLIKASI KURIKULER DESAIN PEMBELAJARAN HOLISTIK** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -892,6 +1104,48 @@ Untuk menanamkan *Salimul Aqidah* secara berkelanjutan, lembaga menerapkan langk
 [^2]: **Hujjatul Islam Imam Abu Hamid Muhammad bin Muhammad al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Qawa'id al-'Aqa'id (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 85–112.
 [^3]: **Robert A. Emmons & Michael E. McCullough**, "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life", *Journal of Personality and Social Psychology*, Vol. 84, No. 2 (2003), hlm. 377–389; serta **Kenneth I. Pargament**, *The Psychology of Religion and Coping: Theory, Research, Practice* (New York: Guilford Press, 1997), Bab 4–6, hlm. 90–162.
 [^4]: **Justin L. Barrett**, *Why Would Anyone Believe in God?* (Walnut Creek: AltaMira Press, 2004), Bab 3: "How the Mind Conceives the Divine", hlm. 45–74.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Salimul Aqidah (Aqidah Yang Bersih & Murni)
+
+Pengembangan kompetensi **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -1008,6 +1262,48 @@ Untuk memastikan ibadah santri benar dan khusyuk, lembaga menerapkan:
 [^3]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Al-Wabil ash-Shayyib min al-Kalim ath-Thayyib*, Tahqiq: Syaikh Salim al-Hilali (Kairo: Dar Ibn Affan, 1999), hlm. 48–56; serta **Ibnu Qayyim**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid I, hlm. 520–535.
 [^4]: **Andrew Newberg & Mark Robert Waldman**, *How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist* (New York: Ballantine Books, 2009), Bab 2 & 4: "Brain Scan Studies of Spiritual Practices", hlm. 37–68, 85–112.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Shahihul Ibadah (Ibadah Yang Benar & Khusyuk)
+
+Pengembangan kompetensi **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -1116,6 +1412,48 @@ Untuk menjaga iklim akhlak yang kokoh, lembaga menetapkan:
 [^4]: **Marshall B. Rosenberg**, *Nonviolent Communication: A Language of Life* (Encinitas: PuddleDancer Press, 2003; Edisi ke-3, 2015), Bab 1–4, hlm. 1–66.
 [^5]: **Giacomo Rizzolatti & Corrado Sinigaglia**, *Mirrors in the Brain: How Our Minds Share Actions and Emotions* (Oxford: Oxford University Press, 2008), Bab 5 & 6: "Empathy and the Mirror System", hlm. 135–184.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Matinul Khuluq (Akhlak Yang Kokoh & Santun)
+
+Pengembangan kompetensi **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -1219,6 +1557,48 @@ Lembaga mengoperasionalkan pembinaan kemandirian melalui dua inovasi:
 [^3]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Mawardi**, *Adab ad-Dunya wad-Din*, Tahqiq: Dr. Muhammad Ridha Qahwaji (Beirut: Dar Ibnu Katsir, 1993), Bab 5: "Fi Adabil Kasbi wal Ma'asy", hlm. 215–248.
 [^4]: **Albert Bandura**, *Self-Efficacy: The Exercise of Control* (New York: W. H. Freeman and Company, 1997), Bab 2 & 3: "Sources of Self-Efficacy", hlm. 79–115; serta **Albert Bandura**, *Social Foundations of Thought and Action: A Social Cognitive Theory* (Englewood Cliffs: Prentice-Hall, 1986).
 [^5]: **Annamaria Lusardi & Olivia S. Mitchell**, "The economic importance of financial literacy: Theory and evidence", *Journal of Economic Literature*, Vol. 52, No. 1 (2014), hlm. 5–44.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Qadirun 'Alal Kasbi (Mandiri Secara Finansial & Etos Kerja)
+
+Pengembangan kompetensi **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -1328,6 +1708,48 @@ Untuk memfasilitasi bertumbuhnya nalar kritis yang beradab, lembaga menyelenggar
 [^2]: **Abu Utsman Amr bin Bahr al-Jahizh**, *Kitab al-Hayawan*, Tahqiq: Abdussalam Muhammad Harun (Kairo: Musthafa al-Babi al-Halabi, 1965), Jilid I, hlm. 18–45; serta **Al-Jahizh**, *Al-Bayan wat-Tabyin* (Kairo: Maktabah al-Khanji, 1998), hlm. 33–55.
 [^3]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer, 2011), Bab 2 & 3: "Human Cognitive Architecture and Cognitive Load", hlm. 15–42.
 [^4]: **John H. Flavell**, "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry", *American Psychologist*, Vol. 34, No. 10 (1979), hlm. 906–911; serta **Douglas J. Hacker, John Dunlosky, & Arthur C. Graesser** (Eds.), *Handbook of Metacognition in Education* (New York: Routledge, 2009), hlm. 1–20.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Mutsaqqoful Fikri (Berwawasan Luas & Bernalar Kritis)
+
+Pengembangan kompetensi **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -1443,6 +1865,48 @@ Untuk mewujudkan asrama pesantren yang sehat dan bugar, lembaga menerapkan:
 [^2]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Zad al-Ma'ad fi Hadyi Khairil 'Ibad*, Tahqiq: Syaikh Syu'aib al-Arnauth & Abdul Qadir al-Arnauth (Beirut: Mu'assasah ar-Risalah, 1979), Jilid IV: "Ath-Thibb an-Nabawi", hlm. 12–45, 180–225.
 [^3]: **John J. Ratey & Eric Hagerman**, *Spark: The Revolutionary New Science of Exercise and the Brain* (New York: Little, Brown and Company, 2008), Bab 1 & 2: "Learning: Grow Your Brain Cells", hlm. 35–64; serta **Henriette van Praag**, "Exercise and the brain: Something to chew on", *Trends in Neurosciences*, Vol. 32, No. 5 (2009), hlm. 283–290.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Qowiyyul Jismi (Kebugaran Raga & Higienitas Thaharah)
+
+Pengembangan kompetensi **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -1552,6 +2016,48 @@ Lembaga merumuskan instrumen aplikatif:
 [^3]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Al-Fawa'id*, Tahqiq: Syaikh Syu'aib al-Arnauth (Kairo: Dar al-Afaq al-Jadidah, t.th.), hlm. 88–104; serta **Ibnu Qayyim**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid II, hlm. 340–360.
 [^4]: **Walter Mischel, Yuichi Shoda, & Philip K. Peake**, "Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification: Identifying delayed predictors", *Developmental Psychology*, Vol. 26, No. 6 (1990), hlm. 978–986; serta **Walter Mischel**, *The Marshmallow Test: Mastering Self-Control* (New York: Little, Brown and Company, 2014), hlm. 1–45.
 [^5]: **Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven, & Dianne M. Tice**, "Ego depletion: Is the active self a limited resource?", *Journal of Personality and Social Psychology*, Vol. 74, No. 5 (1998), hlm. 1252–1265; serta **Roy F. Baumeister & John Tierney**, *Willpower: Rediscovering the Greatest Human Strength* (New York: Penguin Press, 2011), Bab 1 & 2.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Mujahidun Linafsihi (Pengendalian Hawa Nafsu & Regulasi Diri)
+
+Pengembangan kompetensi **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -1667,6 +2173,48 @@ Lembaga merumuskan program pendukung:
 [^4]: **Hiroyuki Hirano**, *5 Pillars of the Visual Workplace: The Sourcebook for 5S Implementation* (Portland: Productivity Press, 1995), Bab 1–3, hlm. 1–45; serta **Masaaki Imai**, *Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy* (New York: McGraw-Hill, 2012).
 [^5]: **Kathleen D. Vohs, Joseph P. Redden, & Ryan Rahinel**, "Physical order produces healthy choices, generosity, and conventionality, whereas disorder produces creativity", *Psychological Science*, Vol. 24, No. 9 (2013), hlm. 1860–1867.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Munazhzhamun Fi Syu'Unihi (Teratur Dalam Segala Urusan)
+
+Pengembangan kompetensi **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -1777,6 +2325,48 @@ Lembaga merumuskan fasilitas pendukung:
 [^2]: **Syaikh Abdul Fattah Abu Ghuddah**, *Qimatuz Zaman 'indal 'Ulama* (Aleppo & Beirut: Maktab al-Mathbu'at al-Islamiyyah, 1984; Edisi ke-10, 2012), hlm. 25–88.
 [^3]: **Timothy A. Pychyl**, *Solving the Procrastination Puzzle: A Concise Guide to Solving the Procrastination Problem* (New York: TarcherPerigee / Penguin Random House, 2013), Bab 1–3, hlm. 1–45; serta **Piers Steel**, "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure", *Psychological Bulletin*, Vol. 133, No. 1 (2007), hlm. 65–94.
 [^4]: **Stephen R. Covey**, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* (New York: Free Press, 1989; Edisi Peringatan 30 Tahun, Simon & Schuster, 2020), Habit 3: "Put First Things First", hlm. 157–195.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Haritsun 'Ala Waqtihi (Disiplin Waktu & Produktivitas Tinggi)
+
+Pengembangan kompetensi **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -1889,6 +2479,48 @@ Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri dalam sistem TUMBUH p
 [^2]: **Robert K. Greenleaf**, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (New York: Paulist Press, 1977; Edisi Peringatan 25 Tahun, 2002), Bab 1: "The Servant as Leader", hlm. 21–48; serta **Larry C. Spears** (Ed.), *Reflections on Leadership: How Robert K. Greenleaf's Theory of Servant-Leadership Influenced Today's Top Management Thinkers* (New York: John Wiley & Sons, 1995).
 [^3]: **Allan Luks & Peggy Payne**, *The Healing Power of Doing Good: The Health and Spiritual Benefits of Helping Others* (New York: Ballantine Books, 1991; Edisi Revisi, iUniverse, 2001), Bab 2 & 3: "The Helper's High", hlm. 17–58; serta **Stephen G. Post**, *Why Good Things Happen to Good People: The Exciting New Science of How Being a Good Person Can Help You Live a Longer, Healthier, Largely Happier Life* (New York: Broadway Books, 2007).
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Nafi'Un Lighairihi (Bermanfaat Luas Bagi Sesama)
+
+Pengembangan kompetensi **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -1999,6 +2631,48 @@ Menjawab dinamika transisi pubertas ini, Ekosistem TUMBUH menerapkan strategi ka
 [^1]: **Laurence Steinberg**, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Houghton Mifflin Harcourt, 2014), Bab 1 & 2: "The Adolescent Brain: A Work in Progress", hlm. 15–58.
 [^2]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Tuhfat al-Maudud bi Ahkam al-Maulud*, Tahqiq: Syaikh Abdul Qadir al-Arnauth (Damaskus: Maktabah Dar al-Bayan, 1971), Bab 15: "Fi Fasl Maratib al-Insan min al-Wiladah ila al-Bulugh", hlm. 140–185.
 [^3]: **B.J. Casey, Rebecca M. Jones, & Todd A. Hare**, "The adolescent brain", *Annals of the New York Academy of Sciences*, Vol. 1124, No. 1 (2008), hlm. 111–126; serta **B.J. Casey**, "Beyond simple models of self-control to circuit-based accounts of adolescent behavior", *Annual Review of Psychology*, Vol. 66 (2015), hlm. 295–319.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Transisi Pubertas & Dinamika Hormonal Asrama
+
+Pengembangan kompetensi **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -2128,6 +2802,48 @@ Untuk mencegah malpraktik penanganan santri:
 [^3]: **Daniel Goleman**, *Emotional Intelligence: Why It Can Matter More Than IQ* (New York: Bantam Books, 1995; Edisi Peringatan 10 Tahun, 2005), Bab 2: "Anatomy of an Emotional Hijacking", hlm. 13–28.
 [^4]: **Al-Imam Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani**, *Sunan Abi Dawud*, Kitab al-Adab, Bab Ma Yuqalu 'indal Ghadhab (Beirut: Al-Maktabah al-'Ashriyyah, t.th.), Hadits No. 4782.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Kesenjangan Maturasi Limbik Vs Prefrontal Cortex
+
+Pengembangan kompetensi **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -2241,6 +2957,48 @@ Untuk mengokohkan fondasi identitas santri, lembaga menyelenggarakan:
 [^3]: **Erik H. Erikson**, *Identity: Youth and Crisis* (New York: W. W. Norton & Company, 1968), Bab 3 & 4: "The Life Cycle: Epigenesis of Identity" & "Identity Confusion", hlm. 91–178.
 [^4]: **James E. Marcia**, "Development and validation of ego-identity status", *Journal of Personality and Social Psychology*, Vol. 3, No. 5 (1966), hlm. 551–558; serta **James E. Marcia**, "Identity in adolescence", dalam J. Adelson (Ed.), *Handbook of Adolescent Psychology* (New York: John Wiley & Sons, 1980), hlm. 159–187.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Krisis Identitas & Konstruksi Konsep Diri Santri
+
+Pengembangan kompetensi **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -2349,6 +3107,48 @@ Dengan tuntasnya **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** ini
 [^3]: **Hujjatul Islam Imam Abu Hamid Muhammad bin Muhammad al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah wa Mu'asyaratil Khalq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 170–215.
 [^4]: **Matthew D. Lieberman**, *Social: Why Our Brains Are Wired to Connect* (New York: Crown Publishers / Random House, 2013), Bab 3: "Broken Hearts and Broken Bones: The Pain of Social Loss", hlm. 39–72; serta **Naomi I. Eisenberger, Matthew D. Lieberman, & Kipling D. Williams**, "Does rejection hurt? An fMRI study of social exclusion", *Science*, Vol. 302, No. 5643 (2003), hlm. 290–292.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Konformitas Sebaya & Musyrif Sebagai External Prefrontal Cortex
+
+Pengembangan kompetensi **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -2378,6 +3178,48 @@ graph LR
 #### B. Protokol Musyrif Mengatasi Kejenuhan Santri
 * Sediakan jeda aktif (*Active Recovery*) seperti olahraga memanah, renang, atau rihlah alam terbuka di akhir pekan saat target mingguan tercapai.
 * Larang keras hukuman berdiri berjam-jam saat setoran belum lancar; gantikan dengan pendampingan sorogan reflektif yang sabar.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Resiliensi & Grit Santri Menghadapi Target Tahfizh
+
+Pengembangan kompetensi **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **RESILIENSI & GRIT SANTRI MENGHADAPI TARGET TAHFIZH** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -2463,6 +3305,48 @@ Dengan tuntasnya Jenjang J1, santri telah berhasil melintasi masa krisis adaptas
 [^2]: **John Bowlby**, *Attachment and Loss: Vol. 1. Attachment* (New York: Basic Books, 1969; Edisi ke-2, 1982), Bab 11: "The Child's Tie to His Mother: Attachment Behavior", hlm. 177–209.
 [^3]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ayyuhal Walad fi Nashihat at-Talamidz*, Tahqiq: Dr. Ahmad Ahmad Badawi (Kairo: Dar al-Qalam, 1986), hlm. 18–32.
 [^4]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 40–62.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Tangga T1 — Adaptasi (Ta'Aruf) & Homesickness
+
+Pengembangan kompetensi **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -2554,6 +3438,48 @@ Santri di tangga T2 telah membiasakan adab dalam ritme fisiknya: mereka tertib, 
 [^3]: **Al-Imam Abu Ishaq Ibrahim asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II, hlm. 112–135.
 [^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 62–74.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Tangga T2 — Habituasi (Ta'Awun) & Pembiasaan 24-Jam
+
+Pengembangan kompetensi **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -2638,6 +3564,48 @@ Santri di tangga T3 telah memiliki **benteng moral internal yang kokoh**: mereka
 [^2]: **Richard M. Ryan & Edward L. Deci**, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017), Bab 8: "Internalization and the Facilitation of Extrinsic Motivation", hlm. 179–215.
 [^3]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid II: "Manzilat al-Muraqabah", hlm. 65–85.
 [^4]: **Al-Imam Al-Harits bin Asad al-Muhasibi**, *Adab an-Nufus*, Tahqiq: Dr. Abdul Qadir Ahmad 'Atha (Kairo & Beirut: Dar al-Kutub al-'Ilmiyyah, 1986), hlm. 35–62.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Tangga T3 — Internalisasi (Tafahum) & Disiplin Otonom
+
+Pengembangan kompetensi **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -2730,6 +3698,48 @@ Santri Jenjang J4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah
 [^3]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Al-Hisbah fil Islam aw Wazhifah al-Hukumah al-Islamiyyah*, Tahqiq: Syaikh Abdul Aziz bin Zaid ar-Rumi (Riyadh: Dar al-Wathan, 1412 H), hlm. 35–58.
 [^4]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Mawardi**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 5–22.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Tangga T4 — Transformasi (Takaful) & Keteladanan
+
+Pengembangan kompetensi **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -2790,6 +3800,48 @@ $$\text{إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِ
 [^1]: **G. Alan Marlatt & Judith R. Gordon** (Eds.), *Relapse Prevention: Maintenance Strategies in the Treatment of Addictive Behaviors* (New York: Guilford Press, 1985; Edisi ke-2, 2005), Bab 1: "Relapse Prevention: Theoretical Rationale and Overview", hlm. 1–45.
 [^2]: **Leanne S. Hawken, Cynthia M. Anderson, & Donald P. Crone**, *Responding to Problem Behavior in Schools: The Behavior Education Program (Check-In, Check-Out)* (New York: Guilford Press, 2014; Edisi ke-2), Bab 2: "The BEP/CICO Process", hlm. 15–48.
 [^3]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid I: "Manzilat ash-Shidq wa Dawam al-Amal", hlm. 115–138.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Dinamika Transisi & Penanganan Regresi Karakter
+
+Pengembangan kompetensi **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -2893,6 +3945,48 @@ Dengan berakhirnya Bab 04 ini, arsitektur tangga perkembangan karakter J1–J4 t
 [^3]: **Al-Imam ar-Raghib al-Isfahani**, *Adz-Dzari'ah ila Makarim asy-Syari'ah*, Tahqiq: Dr. Abu al-Yazid Abu Zaid al-'Ajami (Kairo: Dar as-Salam, 2007), Bab 2: "Fi Maratib al-Insan", hlm. 95–130.
 [^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Mizan al-'Amal*, Tahqiq: Dr. Sulaiman Dunya (Kairo: Dar al-Ma'arif, 1964), Bab 1: "Fi Bayani 'Ilmi Akhlaq", hlm. 25–48.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Matriks Rubrik Indikator Kenaikan J1–J4
+
+Pengembangan kompetensi **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -2987,6 +4081,48 @@ Santri Tahap 7 Penggerak membuktikan bahwa kemuliaan santri sejati terletak pada
 [^3]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab al-Amr bil Ma'ruf wan Nahy 'anil Munkar (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 305–332.
 [^4]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Mawardi**, *Al-Ahkam as-Sulthaniyyah wal Wilayat ad-Diniyyah*, Tahqiq: Dr. Ahmad Mubarak al-Baghdadi (Kuwait: Dar Ibn Qutaibah, 1989), Bab 1: "Aqd al-Imamah", hlm. 12–28.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Karakteristik Santri Tahap 7 Penggerak
+
+Pengembangan kompetensi **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -3079,6 +4215,48 @@ Tahun Khidmah dalam Ekosistem TUMBUH menjadi kawah candradimuka peradaban: mence
 [^3]: **Al-Imam Abu Zakariyya Yahya bin Syaraf an-Nawawi**, *At-Tibyan fi Adab Hamalatil Qur'an*, Tahqiq: Syaikh Muhammad al-Hajjar (Beirut: Dar Ibnu Hazm, 1994), Bab 3: "Fi Adab Mu'allimil Qur'an wa Muta'allimihi", hlm. 45–68.
 [^4]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 75–98.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Desain Program Tahun Khidmah (Inkubasi Kepemimpinan)
+
+Pengembangan kompetensi **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -3166,6 +4344,48 @@ Dengan lenyapnya tradisi perpeloncoan dan tegaknya sistem Sahabat Asuh, asrama p
 [^3]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Majmu' al-Fatawa*, Dikumpulkan oleh Abdurrahman bin Muhammad bin Qasim (Madinah: Majma' al-Malik Fahd li Thiba'at al-Mush-haf asy-Syarif, 1416 H / 1995 M), Jilid XVIII: "Kitab al-Jihad wa Tahrim azh-Zhulm", hlm. 135–160.
 [^4]: **Keith J. Topping**, *Peer-Assisted Learning: A Practical Guide for Teachers* (Cambridge: Brookline Books, 2001), Bab 2: "Principles of Peer Tutoring", hlm. 21–48.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Mentorship Sebaya Bebas Perpeloncoan
+
+Pengembangan kompetensi **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MENTORSHIP SEBAYA BEBAS PERPELONCOAN** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -3211,6 +4431,48 @@ Rasulullah SAW bersabda: *"Maukah kalian aku kabarkan tentang suatu amalan yang 
 [^2]: **Lee S. Shulman**, "Knowledge and teaching: Foundations of the new reform", *Harvard Educational Review*, Vol. 57, No. 1 (1987), hlm. 1–22.
 [^3]: **Al-Imam Abu Bakar Muhammad bin al-Husain al-Ajurri**, *Akhlaq al-'Ulama*, Tahqiq: Dr. Faruq Hamadah (Riyadh: Dar Thayyibah, 1408 H / 1987 M), hlm. 48–75.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Mediasi Restoratif & Transisi Karier Pendidik
+
+Pengembangan kompetensi **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -3239,6 +4501,48 @@ graph TD
 #### B. Panduan Pengasuhan Menjelang Kelulusan
 * Sediakan program pembekalan pra-kampus: literasi digital islami, manajemen finansial halal, dan mitigasi fitnah syubhat & syahwat.
 * Berikan sertifikat Transkrip Karakter Naratif yang mengabadikan jam khidmah sosial dan rekam jejak kepemimpinan santri.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Transisi Kepengasuhan & Kemandirian Pasca-Pesantren
+
+Pengembangan kompetensi **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **TRANSISI KEPENGASUHAN & KEMANDIRIAN PASCA-PESANTREN** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -3314,6 +4618,48 @@ Santri lulusan MTs TUMBUH bertumbuh menjadi remaja yang kokoh fondasi adabnya: m
 [^2]: **Carol Ann Tomlinson**, *The Differentiated Classroom: Responding to the Needs of All Learners* (Alexandria: Association for Supervision and Curriculum Development / ASCD, 1999; Edisi ke-2, 2014), Bab 2: "The Elements of Differentiation", hlm. 15–38.
 [^3]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Qabisi**, *Ar-Risalah al-Mufashshilah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wal Muta'allimin*, Tahqiq: Ahmad Khalid Jam'ah (Damaskus: Dar al-Fikr, 1986), hlm. 68–95.
 [^4]: **Al-Imam Burhanuddin al-Zarnuji**, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Tahqiq: Syaikh Mustafa Asyur (Kairo: Dar al-I'tisham, 1986), hlm. 35–48.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Pemetaan Capaian Tingkat Mts / Smp (Kelas 7, 8, 9)
+
+Pengembangan kompetensi **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -3392,6 +4738,48 @@ Santri lulusan MA TUMBUH bertumbuh menjadi sosok **Cendekiawan Muslim Transforma
 [^1]: **Erik H. Erikson**, *Identity: Youth and Crisis* (New York: W. W. Norton & Company, 1968), Bab 3: "The Life Cycle: Epigenesis of Identity", hlm. 91–141.
 [^2]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab al-'Ilm (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid I, hlm. 12–38.
 [^3]: **Hadhratusy Syaikh KH. M. Hasyim Asy'ari**, *Adab al-'Alim wal Muta'allim fi ma Yahtaju Ilayhi al-Muta'allim fi Ahwal Ta'allumihi wa ma Yatawaqqafu 'alayhi al-Mu'allim fi Maqamat Ta'limihi* (Jombang: Maktabah at-Turats al-Islami, 1415 H), Bab 2: "Fi Adab al-Muta'allim ma'a Syaikhihi", hlm. 26–38.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Pemetaan Capaian Tingkat Ma / Sma (Kelas 10, 11, 12)
+
+Pengembangan kompetensi **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---
@@ -3477,6 +4865,48 @@ Santri putra TUMBUH bertumbuh menjadi **Pilar Pelindung Umat (*Rijalun Qawwamun*
 [^2]: **Al-Imam Syamsuddin Muhammad bin Abi Bakr Ibnu Qayyim al-Jawziyyah**, *Al-Furusiyyah al-Muhammadiyyah asy-Syar'iyyah*, Tahqiq: Syaikh Masyhur Hasan Salman (Riyadh: Dar al-Ashalah, 1414 H), hlm. 18–45.
 [^3]: **David C. Geary**, *Male, Female: The Evolution of Human Sex Differences* (Washington: American Psychological Association / APA Books, 1998; Edisi ke-2, 2010), Bab 8: "Male and Female Social Relationships", hlm. 285–330.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Diferensiasi Pengasuhan Santri Putra
+
+Pengembangan kompetensi **DIFERENSIASI PENGASUHAN SANTRI PUTRA** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **DIFERENSIASI PENGASUHAN SANTRI PUTRA** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **DIFERENSIASI PENGASUHAN SANTRI PUTRA** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -3560,6 +4990,48 @@ Santri putri TUMBUH bertumbuh menjadi **Srikandi Peradaban Islam (*Nisa'un Shali
 [^3]: **Rachel Simmons**, *Odd Girl Out: The Hidden Culture of Aggression in Girls* (New York: Harcourt, 2002; Edisi Revisi, Mariner Books, 2011), Bab 1: "The Secret World of Girls' Bullying", hlm. 15–52.
 [^4]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Qabisi**, *Ar-Risalah al-Mufashshilah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wal Muta'allimin*, Tahqiq: Ahmad Khalid Jam'ah (Damaskus: Dar al-Fikr, 1986), hlm. 102–125.
 
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Diferensiasi Pengasuhan Santri Putri
+
+Pengembangan kompetensi **DIFERENSIASI PENGASUHAN SANTRI PUTRI** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **DIFERENSIASI PENGASUHAN SANTRI PUTRI** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **DIFERENSIASI PENGASUHAN SANTRI PUTRI** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
+
 
 ---
 
@@ -3639,6 +5111,48 @@ Pertanyaan agung ini akan dibedah secara tuntas dan sistematis pada **Buku Volum
 [^2]: **Prof. Dr. Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: International Institute of Islamic Thought and Civilization / ISTAC, 1980), hlm. 15–38.
 [^3]: **K.H. Abdurrahman Wahid (Gus Dur)**, *Menggerakkan Tradisi: Esai-Esai Pesantren* (Yogyakarta: LKiS, 2001), Bab 1: "Pesantren sebagai Subkultur", hlm. 1–28.
 [^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 72–73.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Epilog Volume 02 — Menuju Puncak Adab Khidmah
+
+Pengembangan kompetensi **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
 
 
 ---

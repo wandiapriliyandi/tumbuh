@@ -104,3 +104,45 @@ Lembaga merumuskan fasilitas pendukung:
 [^2]: **Syaikh Abdul Fattah Abu Ghuddah**, *Qimatuz Zaman 'indal 'Ulama* (Aleppo & Beirut: Maktab al-Mathbu'at al-Islamiyyah, 1984; Edisi ke-10, 2012), hlm. 25–88.
 [^3]: **Timothy A. Pychyl**, *Solving the Procrastination Puzzle: A Concise Guide to Solving the Procrastination Problem* (New York: TarcherPerigee / Penguin Random House, 2013), Bab 1–3, hlm. 1–45; serta **Piers Steel**, "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure", *Psychological Bulletin*, Vol. 133, No. 1 (2007), hlm. 65–94.
 [^4]: **Stephen R. Covey**, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* (New York: Free Press, 1989; Edisi Peringatan 30 Tahun, Simon & Schuster, 2020), Habit 3: "Put First Things First", hlm. 157–195.
+
+---
+
+### IV. Pembedahan Kapasitas Lanjutan & Trajektori Progresi Haritsun 'Ala Waqtihi (Disiplin Waktu & Produktivitas Tinggi)
+
+Pengembangan kompetensi **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** pada santri memerlukan strategi diferensiasi yang selaras dengan tahapan usia perkembangan remaja (*Developmental Milestones*):
+
+1. **Dekomposisi Indikator Kematangan Perilaku**:
+   Untuk memastikan karakter **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** tertanam secara operasional, dewan asatidz dan musyrif memetakan indikator perilakunya ke dalam 3 ranah capaian:
+   * **Ranah Kognitif-Reflektif (*Ma'rifah*)**: Santri memahami dalil syar'i, urgensi akhlak, dan konsekuensi logis dari setiap pilihannya.
+   * **Ranah Afektif-Ruhiyyah (*Wijdan*)**: Tumbuhnya kepekaan nurani, rasa malu berbuat dosa (*Haya'*), dan kenikmatan dalam berbuat kebajikan.
+   * **Ranah Psikomotorik-Habituasi (*'Amal*)**: Terwujudnya keterampilan bertindak nyata secara spontan, konsisten, dan mandiri tanpa perlu disuruh.
+
+2. **Matriks Penahapan Lintas Jenjang Kemandirian (J1–J4)**:
+
+```mermaid
+graph TD
+    J1["<b>Jenjang J1 (Kelas 7 - Adaptasi & Fondasi)</b><br/>• Pendampingan Penuh (High Support, High Warmth)<br/>• Pembentukan Rutinitas Dasar & Orientasi Adab"]
+    J2["<b>Jenjang J2 (Kelas 8 - Pembiasaan & Konsolidasi)</b><br/>• Penguatan Akuntabilitas Kelompok Sebaya<br/>• Pembiasaan Disiplin Kamar & Kerapian 5S"]
+    J3["<b>Jenjang J3 (Kelas 9-10 - Kematangan & Regulasi Diri)</b><br/>• Otonomi Terbimbing & Manajemen Waktu Mandiri<br/>• Pelibatan dalam Pengelolaan Halaqah Junior"]
+    J4["<b>Jenjang J4 (Kelas 11-12 - Kader Penggerak & Khidmah)</b><br/>• Servant Leadership & Mentoring Adik Kelas (Peer Buddy)<br/>• Internalisasi Kompas Moral Alumni Paripurna"]
+    
+    J1 --> J2 --> J3 --> J4
+```
+
+3. **Rubrik Evaluasi Kualitatif & Indikator Pencapaian**:
+
+| Level Kemandirian | Karakteristik Perilaku Teramati (*Behavioral Anchor*) | Pendekatan Bimbingan Musyrif |
+| :--- | :--- | :--- |
+| **Level 1 (Emerging)** | Memerlukan instruksi berulang dan pengawasan langsung musyrif. | *Direct Prompting* & pengingat visual harian. |
+| **Level 2 (Developing)** | Mampu menjalankan adab saat diingatkan oleh teman sebaya. | Penguatan positif melalui pujian deskriptif. |
+| **Level 3 (Proficient)** | Menjalankan adab secara mandiri dan konsisten tanpa diawasi. | Pemberian kepercayaan dan peran tanggung jawab kamar. |
+| **Level 4 (Exemplary)** | Menjadi teladan (*Qudwah*) dan mampu membimbing kawan-kawannya. | Pelibatan aktif dalam struktur Dewan Santri & Mentor. |
+
+---
+
+### V. Panduan Praksis Pendampingan Musyrif di Asrama
+
+Agar penanaman **HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)** berhasil maksimal di lapangan, musyrif disarankan menerapkan protokol pendampingan berikut:
+* **Fokus pada Usaha (*Effort-Oriented Praise*)**: Berikan apresiasi atas proses perjuangan santri dalam memperbaiki diri, bukan semata-mata hasil akhir yang sempurna.
+* **Dialog Sokratik Saat Santri Mengalami Kesulitan**: Ajukan pertanyaan reflektif seperti: *"Apa yang membuat antum merasa berat menjalankan adab ini hari ini? Bagaimana kita bisa mengatasinya bersama besok?"*
+* **Menjaga Iklim Ukhuwah Bebas Perundungan**: Pastikan senioritas dimaknai sebagai amanah pengayoman dan perlindungan kepada yang lebih muda, bukan hak istimewa untuk memerintah.
