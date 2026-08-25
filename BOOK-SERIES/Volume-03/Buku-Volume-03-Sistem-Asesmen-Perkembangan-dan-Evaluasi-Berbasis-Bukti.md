@@ -12,89 +12,112 @@
 
 ## 📑 DAFTAR ISI LENGKAP VOLUME 03
 
-- [BAB 01 FILOSOFI ASESMEN IPSATIF DAN FORMATIF](#bab-01-filosofi-asesmen-ipsatif-dan-formatif)
+- [BAB 01 FONDASI FILOSOFIS DAN KRITIK EVALUASI PUNITIF](#bab-01-fondasi-filosofis-dan-kritik-evaluasi-punitif)
   - [01 Dekonstruksi Ranking Komparatif dan Stigmatisasi](#01-dekonstruksi-ranking-komparatif-dan-stigmatisasi)
   - [02 Prinsip Asesmen Formatif Autentik 24 Jam](#02-prinsip-asesmen-formatif-autentik-24-jam)
-  - [03 Konsep Asesmen Ipsatif Evaluasi Pertumbuhan Diri](#03-konsep-asesmen-ipsatif-evaluasi-pertumbuhan-diri)
-  - [04 Etika Kerahasiaan Data dan Non Labeling Santri](#04-etika-kerahasiaan-data-dan-non-labeling-santri)
-  - [05 Umpan Balik Konstruktif dan Feedforward Tarbawiyyah](#05-umpan-balik-konstruktif-dan-feedforward-tarbawiyyah)
-- [BAB 02 ARSITEKTUR ASESMEN 360 DERAJAT DAN TRIANGULASI](#bab-02-arsitektur-asesmen-360-derajat-dan-triangulasi)
+  - [03 Kritik Evaluasi Kertas Formalitas Tanpa Ruh](#03-kritik-evaluasi-kertas-formalitas-tanpa-ruh)
+  - [04 Etika Kerahasiaan Data dan Kebijakan Non Labeling](#04-etika-kerahasiaan-data-dan-kebijakan-non-labeling)
+- [BAB 02 METODOLOGI ASESMEN IPSATIF NON RANKING](#bab-02-metodologi-asesmen-ipsatif-non-ranking)
+  - [01 Konsep Asesmen Ipsatif Evaluasi Pertumbuhan Diri](#01-konsep-asesmen-ipsatif-evaluasi-pertumbuhan-diri)
+  - [02 Pengukuran Diri vs Rekam Jejak Masa Lalu](#02-pengukuran-diri-vs-rekam-jejak-masa-lalu)
+  - [03 Umpan Balik Konstruktif dan Feedforward Tarbawiyyah](#03-umpan-balik-konstruktif-dan-feedforward-tarbawiyyah)
+  - [04 Penguatan Motivasi Intrinsik dan Self Regulated Learning](#04-penguatan-motivasi-intrinsik-dan-self-regulated-learning)
+- [BAB 03 ARSITEKTUR PENGUKURAN 360 DERAJAT DAN TRIANGULASI](#bab-03-arsitektur-pengukuran-360-derajat-dan-triangulasi)
   - [01 Triangulasi Tiga Poros Santri Musyrif Guru](#01-triangulasi-tiga-poros-santri-musyrif-guru)
   - [02 Instrumen Self Assessment dan Muhasabah Harian](#02-instrumen-self-assessment-dan-muhasabah-harian)
   - [03 Peer Assessment Sosiometrik dan Saling Menjaga](#03-peer-assessment-sosiometrik-dan-saling-menjaga)
   - [04 Observasi Perilaku Alami Musyrif Asrama 24 Jam](#04-observasi-perilaku-alami-musyrif-asrama-24-jam)
   - [05 Sesi Rekonsiliasi Diskrepansi Data Triangulasi](#05-sesi-rekonsiliasi-diskrepansi-data-triangulasi)
-- [BAB 03 DESAIN RUBRIK KARAKTER DAN SKALA MUWASHAFAT](#bab-03-desain-rubrik-karakter-dan-skala-muwashafat)
+- [BAB 04 TAKSONOMI RUBRIK 10 MUWASHAFAT BERBASIS BUKTI](#bab-04-taksonomi-rubrik-10-muwashafat-berbasis-bukti)
   - [01 Rubrik Perilaku 4 Level 10 Muwashafat](#01-rubrik-perilaku-4-level-10-muwashafat)
   - [02 Standarisasi Indikator Perilaku Teramati](#02-standarisasi-indikator-perilaku-teramati)
   - [03 Skala Pengukuran Dimensi Ruhiyah dan Ibadah](#03-skala-pengukuran-dimensi-ruhiyah-dan-ibadah)
   - [04 Skala Pengukuran Dimensi Fisik dan Sanitasi 5S](#04-skala-pengukuran-dimensi-fisik-dan-sanitasi-5s)
-  - [05 Skala Pengukuran Dimensi Sosial dan Regulasi Emosi](#05-skala-pengukuran-dimensi-sosial-dan-regulasi-emosi)
-- [BAB 04 VALIDASI PSIKOMETRIK DAN KALIBRASI RATER](#bab-04-validasi-psikometrik-dan-kalibrasi-rater)
+- [BAB 05 PSIKOMETRI VALIDITAS AIKENS V DAN KALIBRASI RATER](#bab-05-psikometri-validitas-aikens-v-dan-kalibrasi-rater)
   - [01 Uji Validitas Isi Aikens V dan Reliabilitas Kappa](#01-uji-validitas-isi-aikens-v-dan-reliabilitas-kappa)
   - [02 Prosedur Expert Judgment Panel Dewan Keilmuan](#02-prosedur-expert-judgment-panel-dewan-keilmuan)
   - [03 Standarisasi Pelatihan Asesor Musyrif Asrama](#03-standarisasi-pelatihan-asesor-musyrif-asrama)
   - [04 Mitigasi Bias Halo Effect Leniency dan Severity](#04-mitigasi-bias-halo-effect-leniency-dan-severity)
   - [05 Validasi Konstruk dan Analisis Faktor Eksploratori](#05-validasi-konstruk-dan-analisis-faktor-eksploratori)
-- [BAB 05 SISTEM OBSERVASI DAN LOGBOOK DIGITAL MUSYRIF](#bab-05-sistem-observasi-dan-logbook-digital-musyrif)
+  - [06 Standarisasi Baku Psikometri Pesantren Indonesia](#06-standarisasi-baku-psikometri-pesantren-indonesia)
+- [BAB 06 SISTEM DIGITAL LOGGING DAN EARLY WARNING SYSTEM](#bab-06-sistem-digital-logging-dan-early-warning-system)
   - [01 SOP Pencatatan Digital Efisien 15 Menit](#01-sop-pencatatan-digital-efisien-15-menit)
   - [02 Arsitektur Logbook Mobile App Offline First](#02-arsitektur-logbook-mobile-app-offline-first)
   - [03 Dashboard Early Warning System Deteksi Dini](#03-dashboard-early-warning-system-deteksi-dini)
   - [04 Manajemen Privasi dan Keamanan Siber Data Santri](#04-manajemen-privasi-dan-keamanan-siber-data-santri)
   - [05 Analitik Prediktif dan Visualisasi Pertumbuhan](#05-analitik-prediktif-dan-visualisasi-pertumbuhan)
-- [BAB 06 PORTOFOLIO KARAKTER DAN PELAPORAN IPSATIF](#bab-06-portofolio-karakter-dan-pelaporan-ipsatif)
+- [BAB 07 RAPOR NARATIF PERTUMBUHAN DAN PORTOFOLIO KARAKTER](#bab-07-rapor-naratif-pertumbuhan-dan-portofolio-karakter)
   - [01 Desain Rapor Karakter Ipsatif Bagi Wali Santri](#01-desain-rapor-karakter-ipsatif-bagi-wali-santri)
   - [02 Dokumentasi Artefak Khidmah dan Portofolio Adab](#02-dokumentasi-artefak-khidmah-dan-portofolio-adab)
   - [03 Parent Teacher Musyrif Conference Triwulanan](#03-parent-teacher-musyrif-conference-triwulanan)
   - [04 Transkrip Karakter Resmi Kelulusan Santri](#04-transkrip-karakter-resmi-kelulusan-santri)
-  - [05 Evaluasi Longitudinal Dampak Pendidikan Asrama](#05-evaluasi-longitudinal-dampak-pendidikan-asrama)
 - [DAFTAR PUSTAKA LENGKAP VOLUME 03](#daftar-pustaka-lengkap-volume-03)
 
 ---
 
-# SUB-BAB 1.1: DEKONSTRUKSI RANKING KOMPARATIF & STIGMATISASI
-## *Kritik atas Model Evaluasi Reduksionis, Bahaya Perbandingan Antar-Santri, dan Landasan Teologis Asesmen Ipsatif*
+# SUB-BAB 1.1: DEKONSTRUKSI RANKING KOMPARATIF & BAHAYA STIGMATISASI
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
 **Kode Klasifikasi**: `BOOK-03/BAB-01/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikometri Pendidikan Islam, Evaluasi Pembelajaran Ipsatif, & Teori Motivasi Intrinsik  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Asesmen Ipsatif & Pakar Psikometri*)
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
 ---
 
-### Menghapus Tirani Ranking dalam Pembinaan Karakter
+### Eksplanasi Teoretis & Urgensi Praksis
 
-Salah satu kekeliruan fatal dalam evaluasi adab di pesantren tradisional adalah memeringkat (*ranking*) kesalehan santri. Membandingkan kesalehan seorang anak dengan anak lain secara kuantitatif (*Norm-Referenced Evaluation*) melahirkan dua mudarat psikologis besar:
-1. **Superioritas Semu & Kesombongan Spiritual (*Ujub*)**: Santri yang menduduki peringkat atas merasa lebih suci daripada kawannya.
-2. **Inferioritas, Keputusasaan, & Stigma Permanen**: Santri di peringkat bawah dicap sebagai "anak bermasalah" atau "santri nakal", yang memicu *Self-Fulfilling Prophecy* di mana anak justru menginternalisasi label negatif tersebut.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Dekonstruksi Ranking Komparatif & Bahaya Stigmatisasi**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
-Sistem TUMBUH menegakkan prinsip **Asesmen Ipsatif (*Ipsative Assessment*)**: setiap santri hanya dibandingkan dengan rekam jejak dirinya sendiri di masa lalu (*Self-Referenced Progress*). Keberhasilan diukur dari seberapa jauh fitrah santri bertumbuh hari ini dibandingkan kemarin.
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Dekonstruksi Ranking Komparatif & Bahaya Stigmatisasi"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
 
 
 ---
 
 
-# SUB-BAB 1.2: PRINSIP ASESMEN FORMATIF AUTENTIK 24-JAM
-## *Evaluasi Berkelanjutan sebagai Alat Bimbingan (Assessment for Learning) Melampaui Ujian Kertas Formalitas*
+# SUB-BAB 1.2: PRINSIP ASESMEN FORMATIF AUTENTIK DALAM KEHIDUPAN NYATA
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
 **Kode Klasifikasi**: `BOOK-03/BAB-01/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Asesmen Otentik, Formative Feedback Loop, & Didaktik Pesantren  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Pedagogi Master Guru & Pakar Asesmen*)
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
 ---
 
-### Karakter Diuji dalam Tindakan Nyata, Bukan di Atas Kertas Ujian
+### Eksplanasi Teoretis & Urgensi Praksis
 
-Adab dan akhlak tidak dapat diukur secara valid melalui ujian tertulis pilihan ganda. Santri bisa saja menghafal dalil kejujuran dengan nilai 100 di ruang kelas madrasah, namun menyembunyikan sandal kawan di asrama.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Prinsip Asesmen Formatif Autentik dalam Kehidupan Nyata**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
-Sistem TUMBUH mengoperasionalkan **Asesmen Formatif Autentik 24 Jam**:
-* **Observasi Kontekstual Alami**: Asesmen dilakukan secara terintegrasi saat santri beraktivitas wajar—saat antre mengambil makanan di dapur umum, saat merapikan sajadah masjid, dan saat berinteraksi di kamar tidur.
-* **Umpan Balik Seketika (*Immediate Constructive Feedforward*)**: Asatidz dan musyrif tidak menunggu akhir semester untuk menegur atau memuji, melainkan memberikan bimbingan reflektif seketika saat perilaku muncul (*Teachable Moments*).
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Prinsip Asesmen Formatif Autentik dalam Kehidupan Nyata"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
 
 
 ---
 
 
-# SUB-BAB 1.3: KONSEP ASESMEN IPSATIF: EVALUASI BERPUSAT PADA PERTUMBUHAN DIRI
+# SUB-BAB 1.3: KRITIK ATAS EVALUASI KERTAS FORMALITAS TANPA RUH
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
 **Kode Klasifikasi**: `BOOK-03/BAB-01/SUB-03/MONOGRAF-MASTER-VIBRANT`  
@@ -105,11 +128,11 @@ Sistem TUMBUH mengoperasionalkan **Asesmen Formatif Autentik 24 Jam**:
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Konsep Asesmen Ipsatif: Evaluasi Berpusat pada Pertumbuhan Diri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Kritik atas Evaluasi Kertas Formalitas Tanpa Ruh**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Konsep Asesmen Ipsatif: Evaluasi Berpusat pada Pertumbuhan Diri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Kritik atas Evaluasi Kertas Formalitas Tanpa Ruh"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -156,10 +179,72 @@ graph TD
 ---
 
 
-# SUB-BAB 1.5: UMPAN BALIK KONSTRUKTIF & FEEDFORWARD TARBAWIYYAH
+# SUB-BAB 2.1: KONSEP ASESMEN IPSATIF: EVALUASI BERPUSAT PADA PERTUMBUHAN DIRI
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-01/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-01/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Konsep Asesmen Ipsatif: Evaluasi Berpusat pada Pertumbuhan Diri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Konsep Asesmen Ipsatif: Evaluasi Berpusat pada Pertumbuhan Diri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 2.2: PENGUKURAN KEMAJUAN DIRI VS REKAM JEJAK MASA LALU
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Pengukuran Kemajuan Diri vs Rekam Jejak Masa Lalu**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Pengukuran Kemajuan Diri vs Rekam Jejak Masa Lalu"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 2.3: UMPAN BALIK KONSTRUKTIF & FEEDFORWARD TARBAWIYYAH
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-03/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -187,32 +272,72 @@ graph TD
 ---
 
 
-# SUB-BAB 2.1: TRIANGULASI TIGA POROS: SANTRI, MUSYRIF, & GURU
-## *Arsitektur Pengumpulan Bukti Perilaku Multi-Sumber untuk Menjamin Objektivitas dan Eliminasi Bias Personal*
-
-**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Multi-Source Assessment Methodology, Triangulasi Psikometri, & Validitas Ekologis  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Validasi Instrumen & Pakar Psikometri*)
-
----
-
-### Menghilangkan Subjektivitas Penilaian Tunggal
-
-Asesmen karakter dalam Sistem TUMBUH tidak pernah diserahkan pada opini tunggal satu orang pengasuh. Penilaian ditegakkan di atas **Triangulasi Tiga Poros**:
-1. **Poros Asesmen Diri Santri (*Self-Reflection*)**: Santri mengisi jurnal muhasabah harian untuk melatih kejujuran batin.
-2. **Poros Observasi Musyrif Asrama (*Dormitory Behavioral Log*)**: Musyrif mencatat pembiasaan ibadah dan kerapian 5S.
-3. **Poros Evaluasi Guru Madrasah (*Classroom Academic Adab*)**: Guru mencatat kesungguhan belajar, nalar kritis, dan adab majelis ilmu.
-
-Jika terjadi diskrepansi data > 30% antar-poros, sistem analitik PBIS akan memicu sesi dialog klarifikasi (*Triangulation Conference*) bersama konselor BK.
-
-
----
-
-
-# SUB-BAB 2.2: INSTRUMEN SELF-ASSESSMENT & JURNAL MUHASABAH BATIN
+# SUB-BAB 2.4: PENGUATAN MOTIVASI INTRINSIK & SELF-REGULATED LEARNING
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Penguatan Motivasi Intrinsik & Self-Regulated Learning**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Penguatan Motivasi Intrinsik & Self-Regulated Learning"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 3.1: TRIANGULASI TIGA POROS: SANTRI, MUSYRIF, DAN GURU
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-01/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Triangulasi Tiga Poros: Santri, Musyrif, dan Guru**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Triangulasi Tiga Poros: Santri, Musyrif, dan Guru"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 3.2: INSTRUMEN SELF-ASSESSMENT & JURNAL MUHASABAH BATIN
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-02/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -240,10 +365,10 @@ graph TD
 ---
 
 
-# SUB-BAB 2.3: PEER ASSESSMENT SOSIOMETRIK & BUDAYA SALING MENJAGA
+# SUB-BAB 3.3: PEER ASSESSMENT SOSIOMETRIK & BUDAYA SALING MENJAGA
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-03/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-03/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -271,10 +396,10 @@ graph TD
 ---
 
 
-# SUB-BAB 2.4: OBSERVASI PERILAKU ALAMI MUSYRIF ASRAMA 24-JAM
+# SUB-BAB 3.4: OBSERVASI PERILAKU ALAMI MUSYRIF ASRAMA 24-JAM
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-04/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -302,10 +427,10 @@ graph TD
 ---
 
 
-# SUB-BAB 2.5: SESI REKONSILIASI DISKREPANSI DATA TRIANGULASI
+# SUB-BAB 3.5: SESI REKONSILIASI DISKREPANSI DATA TRIANGULASI
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-02/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-05/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -333,31 +458,10 @@ graph TD
 ---
 
 
-# SUB-BAB 3.1: RUBRIK PERILAKU 4-LEVEL 10 MUWASHAFAT
-## *Standarisasi Indikator Perilaku Teramati (Observable Behaviors) dari Level 1 (Pemula) hingga Level 4 (Penggerak)*
-
-**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Rubrik Analitik Perilaku, Taksonomi Karakter Berbasis Bukti, & Psikometri Islam  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Desain Kurikulum Adab & Pakar PBIS*)
-
----
-
-### Matriks Rubrik 4 Level Perkembangan
-
-Setiap dari 10 Muwashafat Karakter dioperasionalkan ke dalam 4 tingkatan deskriptif yang jelas:
-* **Level 1 (Tahap Inisiasi/Perlu Bimbingan)**: Santri menjalankan adab hanya jika diawasi secara langsung.
-* **Level 2 (Tahap Habituasi/Berkembang)**: Santri mulai mampu menjalankan adab secara konsisten dengan pengingat minimal.
-* **Level 3 (Tahap Internalisasi/Mandiri)**: Santri menjalankan adab atas dorongan kesadaran diri dan istiqamah.
-* **Level 4 (Tahap Transformasi/Penggerak/Qudwah)**: Santri memancarkan keteladanan dan aktif membimbing kawan-kawannya.
-
-
----
-
-
-# SUB-BAB 3.2: STANDARISASI INDIKATOR PERILAKU TERAMATI (OBSERVABLE BEHAVIORS)
+# SUB-BAB 4.1: RUBRIK PERILAKU 4-LEVEL 10 MUWASHAFAT KARAKTER
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-01/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -365,11 +469,11 @@ Setiap dari 10 Muwashafat Karakter dioperasionalkan ke dalam 4 tingkatan deskrip
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Standarisasi Indikator Perilaku Teramati (Observable Behaviors)**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Rubrik Perilaku 4-Level 10 Muwashafat Karakter**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Standarisasi Indikator Perilaku Teramati (Observable Behaviors)"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Rubrik Perilaku 4-Level 10 Muwashafat Karakter"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -385,10 +489,41 @@ graph TD
 ---
 
 
-# SUB-BAB 3.3: SKALA PENGUKURAN DIMENSI RUHIYAH & KEDISIPLINAN IBADAH
+# SUB-BAB 4.2: STANDARISASI INDIKATOR PERILAKU TERAMATI (OBSERVABLE ANCHORS)
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-03/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Standarisasi Indikator Perilaku Teramati (Observable Anchors)**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Standarisasi Indikator Perilaku Teramati (Observable Anchors)"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 4.3: SKALA PENGUKURAN DIMENSI RUHIYAH & KEDISIPLINAN IBADAH
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-03/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -416,10 +551,10 @@ graph TD
 ---
 
 
-# SUB-BAB 3.4: SKALA PENGUKURAN DIMENSI FISIK, KEBUGARAN, & SANITASI 5S
+# SUB-BAB 4.4: SKALA PENGUKURAN DIMENSI FISIK, KEBUGARAN, & SANITASI 5S
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-04/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -447,10 +582,10 @@ graph TD
 ---
 
 
-# SUB-BAB 3.5: SKALA PENGUKURAN DIMENSI SOSIAL SEL & REGULASI DIRI
+# SUB-BAB 5.1: UJI VALIDITAS ISI AIKEN'S V & RELIABILITAS KAPPA
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-03/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-01/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -458,11 +593,11 @@ graph TD
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Skala Pengukuran Dimensi Sosial SEL & Regulasi Diri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Uji Validitas Isi Aiken's V & Reliabilitas Kappa**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Skala Pengukuran Dimensi Sosial SEL & Regulasi Diri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Uji Validitas Isi Aiken's V & Reliabilitas Kappa"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -478,29 +613,10 @@ graph TD
 ---
 
 
-# SUB-BAB 4.1: UJI VALIDITAS ISI AIKEN'S V & RELIABILITAS KAPPA
-## *Metodologi Pengujian Ilmiah Ketepatan Alat Ukur Karakter dan Konsistensi Penilaian Antar-Musyrif*
-
-**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikometri Lanjutan, Analisis Kesepakatan Penilai (Inter-Rater Reliability), & Statistik Terapan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Metodologi Riset & Pakar Psikometri*)
-
----
-
-### Menjamin Sahihnya Alat Ukur Perkembangan Santri
-
-Seluruh instrumen asesmen karakter TUMBUH diuji melalui prosedur psikometri ketat:
-* **Validitas Isi (*Content Validity*)**: Diuji melalui panel pakar Dewan Keilmuan dengan koefisien **Aiken's V $\ge 0.85$** untuk setiap butir indikator.
-* **Reliabilitas Antar-Penilai (*Inter-Rater Reliability*)**: Menggunakan koefisien **Cohen's Kappa & Fleiss' Kappa $\ge 0.80$** untuk menjamin bahwa dua musyrif berbeda yang mengamati santri yang sama akan menghasilkan skor penilaian yang selaras dan objektif.
-
-
----
-
-
-# SUB-BAB 4.2: PROSEDUR EXPERT JUDGMENT PANEL DEWAN KEILMUAN
+# SUB-BAB 5.2: PROSEDUR EXPERT JUDGMENT PANEL DEWAN KEILMUAN
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-02/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -528,10 +644,10 @@ graph TD
 ---
 
 
-# SUB-BAB 4.3: STANDARISASI PELATIHAN ASESOR & RATER CALIBRATION MUSYRIF
+# SUB-BAB 5.3: STANDARISASI PELATIHAN ASESOR & RATER CALIBRATION MUSYRIF
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-03/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-03/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -559,10 +675,10 @@ graph TD
 ---
 
 
-# SUB-BAB 4.4: MITIGASI BIAS PENILAIAN: HALO EFFECT, LENIENCY, & SEVERITY BIAS
+# SUB-BAB 5.4: MITIGASI BIAS PENILAIAN: HALO EFFECT, LENIENCY, & SEVERITY
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-04/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -570,11 +686,11 @@ graph TD
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Mitigasi Bias Penilaian: Halo Effect, Leniency, & Severity Bias**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Mitigasi Bias Penilaian: Halo Effect, Leniency, & Severity**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Mitigasi Bias Penilaian: Halo Effect, Leniency, & Severity Bias"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Mitigasi Bias Penilaian: Halo Effect, Leniency, & Severity"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -590,10 +706,10 @@ graph TD
 ---
 
 
-# SUB-BAB 4.5: VALIDASI KONSTRUK & ANALISIS FAKTOR INSTRUMEN KARAKTER
+# SUB-BAB 5.5: VALIDASI KONSTRUK & ANALISIS FAKTOR INSTRUMEN KARAKTER
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-04/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-05/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -621,30 +737,72 @@ graph TD
 ---
 
 
-# SUB-BAB 5.1: SOP PENCATATAN DIGITAL EFISIEN 15-MENIT
-## *Desain Aplikasi Mobile Logbook Musyrif Offline-First yang Melindungi Pendidik dari Beban Administrasi Berlebih*
-
-**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Rekayasa Sistem Informasi Pesantren, UI/UX Asrama, & Pencegahan Burnout  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Arsitektur Digital & Pakar Pengasuhan Asrama*)
-
----
-
-### Digitalisasi yang Meringankan, Bukan Membebani
-
-Sistem TUMBUH merancang aplikasi *Logbook Digital Musyrif* dengan prinsip efisiensi ekstrem:
-* **Maksimal 15 Menit/Hari**: Musyrif cukup memilih opsi *one-tap logging* untuk mencatat observasi harian kamar asrama.
-* **Offline-First Synchronization**: Aplikasi dapat digunakan di area asrama yang minim sinyal internet dan tersinkronisasi otomatis saat terhubung jaringan.
-* **Dashboard Peringatan Dini (*Early Warning System*)**: Memberikan notifikasi visual jika seorang santri terdeteksi mengalami penurunan semangat ibadah berturut-turut dalam 3 hari.
-
-
----
-
-
-# SUB-BAB 5.2: ARSITEKTUR LOGBOOK MOBILE APP OFFLINE-FIRST SYNCING
+# SUB-BAB 5.6: STANDARISASI BAKU PSIKOMETRI PESANTREN INDONESIA
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-06/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Standarisasi Baku Psikometri Pesantren Indonesia**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Standarisasi Baku Psikometri Pesantren Indonesia"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 6.1: SOP PENCATATAN DIGITAL EFISIEN 15-MENIT
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-01/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **SOP Pencatatan Digital Efisien 15-Menit**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: SOP Pencatatan Digital Efisien 15-Menit"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 6.2: ARSITEKTUR LOGBOOK MOBILE APP OFFLINE-FIRST SYNCING
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-02/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -672,10 +830,10 @@ graph TD
 ---
 
 
-# SUB-BAB 5.3: DASHBOARD EARLY WARNING SYSTEM (EWS) DETEKSI DINI PENURUNAN ADAB
+# SUB-BAB 6.3: DASHBOARD EARLY WARNING SYSTEM (EWS) DETEKSI DINI PENURUNAN ADAB
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-03/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-03/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -703,10 +861,10 @@ graph TD
 ---
 
 
-# SUB-BAB 5.4: MANAJEMEN PRIVASI & KEAMANAN SIBER DATA KARAKTER SANTRI
+# SUB-BAB 6.4: MANAJEMEN PRIVASI & KEAMANAN SIBER DATA KARAKTER
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-04/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -714,11 +872,11 @@ graph TD
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Manajemen Privasi & Keamanan Siber Data Karakter Santri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Manajemen Privasi & Keamanan Siber Data Karakter**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Manajemen Privasi & Keamanan Siber Data Karakter Santri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Manajemen Privasi & Keamanan Siber Data Karakter"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -734,10 +892,10 @@ graph TD
 ---
 
 
-# SUB-BAB 5.5: ANALITIK PREDIKTIF & VISUALISASI GRAFIK PERTUMBUHAN SANTRI
+# SUB-BAB 6.5: ANALITIK PREDIKTIF & VISUALISASI GRAFIK PERTUMBUHAN
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-05/SUB-05/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-05/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -745,11 +903,11 @@ graph TD
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Analitik Prediktif & Visualisasi Grafik Pertumbuhan Santri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Analitik Prediktif & Visualisasi Grafik Pertumbuhan**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Analitik Prediktif & Visualisasi Grafik Pertumbuhan Santri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Analitik Prediktif & Visualisasi Grafik Pertumbuhan"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -765,30 +923,10 @@ graph TD
 ---
 
 
-# SUB-BAB 6.1: DESAIN RAPOR KARAKTER IPSATIF BAGI WALI SANTRI
-## *Transformasi Laporan Pendidikan: Menyajikan Narasi Pertumbuhan Fitrah yang Menggembirakan Hati Orang Tua*
-
-**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Pelaporan Pendidikan Positif, Kemitraan Sekolah-Keluarga, & Narasi Ipsatif  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Bimbingan Konseling & Pakar Evaluasi*)
-
----
-
-### Rapor yang Membina Harapan, Bukan Menghancurkan Mental
-
-Rapor Karakter Ipsatif TUMBUH menggantikan format angka kering dengan **Narasi Pertumbuhan Komprehensif**:
-* Menyajikan grafik perkembangan 10 Muwashafat dari semester ke semester.
-* Menyertakan dokumentasi foto portofolio karya nyata dan jam khidmah santri.
-* Memberikan rekomendasi konkret bagi orang tua untuk melanjutkan resonansi pembiasaan adab saat santri berlibur di rumah.
-
-
----
-
-
-# SUB-BAB 6.2: DOKUMENTASI ARTEFAK KHIDMAH & PORTOFOLIO ADAB SANTRI
+# SUB-BAB 7.1: DESAIN RAPOR KARAKTER IPSATIF BAGI WALI SANTRI
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-07/SUB-01/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -796,11 +934,11 @@ Rapor Karakter Ipsatif TUMBUH menggantikan format angka kering dengan **Narasi P
 
 ### Eksplanasi Teoretis & Urgensi Praksis
 
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Dokumentasi Artefak Khidmah & Portofolio Adab Santri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Desain Rapor Karakter Ipsatif bagi Wali Santri**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
 
 ```mermaid
 graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Dokumentasi Artefak Khidmah & Portofolio Adab Santri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Tujuan["PONDASI NILAI & MAQASHID: Desain Rapor Karakter Ipsatif bagi Wali Santri"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
@@ -816,10 +954,41 @@ graph TD
 ---
 
 
-# SUB-BAB 6.3: PARENT-TEACHER-MUSYRIF CONFERENCE (PTMC) TRIWULANAN
+# SUB-BAB 7.2: DOKUMENTASI ARTEFAK KHIDMAH & PORTOFOLIO ADAB
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-03/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-07/SUB-02/MONOGRAF-MASTER-VIBRANT`  
+**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
+
+---
+
+### Eksplanasi Teoretis & Urgensi Praksis
+
+Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Dokumentasi Artefak Khidmah & Portofolio Adab**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
+
+```mermaid
+graph TD
+    Tujuan["PONDASI NILAI & MAQASHID: Dokumentasi Artefak Khidmah & Portofolio Adab"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
+    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
+```
+
+---
+
+### Protokol Aksi Operasional Berjenjang
+
+1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
+2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
+3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
+
+
+---
+
+
+# SUB-BAB 7.3: PARENT-TEACHER-MUSYRIF CONFERENCE (PTMC) TRIWULANAN
+## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
+
+**Kode Klasifikasi**: `BOOK-03/BAB-07/SUB-03/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -847,10 +1016,10 @@ graph TD
 ---
 
 
-# SUB-BAB 6.4: TRANSKRIP KARAKTER RESMI KELULUSAN & REKOMENDASI KHIDMAH
+# SUB-BAB 7.4: TRANSKRIP KARAKTER RESMI KELULUSAN & REKOMENDASI KHIDMAH
 ## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
 
-**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-04/MONOGRAF-MASTER-VIBRANT`  
+**Kode Klasifikasi**: `BOOK-03/BAB-07/SUB-04/MONOGRAF-MASTER-VIBRANT`  
 **Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
 **Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
 
@@ -863,37 +1032,6 @@ Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan opera
 ```mermaid
 graph TD
     Tujuan["PONDASI NILAI & MAQASHID: Transkrip Karakter Resmi Kelulusan & Rekomendasi Khidmah"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
-    Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
-```
-
----
-
-### Protokol Aksi Operasional Berjenjang
-
-1. **Langkah Preventif Universal (Tahap Persiapan)**: Pengkondisian sarana, sosialisasi SOP, dan pembiasaan keteladanan *Qudwah Hasanah*.
-2. **Langkah Eksekusi Lapangan (Tahap Berjalan)**: Pendampingan lekat oleh musyrif asrama dan wali kelas dengan prinsip *Firm & Kind*.
-3. **Langkah Refleksi & Restorasi (Tahap Evaluasi)**: Pencatatan pada logbook digital dan penanganan kendala melalui dialog restoratif.
-
-
----
-
-
-# SUB-BAB 6.5: EVALUASI LONGITUDINAL DAMPAK PENDIDIKAN ASRAMA 7 TAHUN
-## *Kajian Mendalam & Panduan Implementatif Ekosistem TUMBUH Pesantren*
-
-**Kode Klasifikasi**: `BOOK-03/BAB-06/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Metodologi Pendidikan Islam, Sains Perilaku Terapan, & Tata Kelola Pesantren  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)
-
----
-
-### Eksplanasi Teoretis & Urgensi Praksis
-
-Pendidikan karakter yang efektif dalam Sistem TUMBUH membutuhkan kejelasan operasional pada aspek **Evaluasi Longitudinal Dampak Pendidikan Asrama 7 Tahun**. Naskah ini menguraikan landasan filosofis Turats, bukti empiris sains perilaku, dan protokol implementasi lapangan 24 jam.
-
-```mermaid
-graph TD
-    Tujuan["PONDASI NILAI & MAQASHID: Evaluasi Longitudinal Dampak Pendidikan Asrama 7 Tahun"] --> Operasional["PROTOKOL OPERASIONAL PBIS 24 JAM"]
     Operasional --> Evaluasi["EVALUASI FORMATIF-IPSATIF BERKELANJUTAN"]
 ```
 
