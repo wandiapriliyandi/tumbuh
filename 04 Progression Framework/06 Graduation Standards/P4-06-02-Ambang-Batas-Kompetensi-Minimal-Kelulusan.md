@@ -232,6 +232,40 @@ Penerapan ambang batas kompetensi minimal kelulusan menghadirkan dampak sistemik
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Ambang Batas Minimal Kompetensi Kelulusan
+
+Standar ambang batas (*Passing Standard*) yang wajib dipenuhi oleh setiap calon wisudawan:
+
+#### A. Standar 1: Ambang Batas Ruhiyah & Hafalan Al-Qur'an
+Wajib lulus tasmi' Al-Qur'an minimal 7 juz mutqin (atau 30 juz bagi takhassus), menguasai hukum tajwid secara teoritis dan praktis, dan lulus uji praktik imam shalat dan khutbah.
+
+#### B. Standar 2: Ambang Batas Akademik Turats & Madrasah
+Indeks Prestasi Kumulatif (IPK) madrasah minimal 80.0, lulus munaqasyah qira'ah kitab kuning matan gundul, dan menguasai percakapan bahasa Arab aktif.
+
+#### C. Standar 3: Ambang Batas Khidmah Masyarakat & Capstone Project
+Menyelesaikan minimal 210 jam khidmah masyarakat kumulatif dan lulus munaqasyah Capstone Civilizational Project dengan predikat minimal 'Jayyid Jiddan' ($\ge 80.0$).
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Ambang Batas Kelulusan
+
+```mermaid
+flowchart TD
+    subgraph PBISAmbangKelulusan["PROTOKOL AKSI PBIS AMBANG BATAS KELULUSAN"]
+        T1["TIER 1: SCREENING SEMESTER AKHIR<br/>• Audit kelengkapan berkas kelulusan seluruh santri kelas 12.<br/>• Verifikasi data jam khidmah dan sertifikat tasmi'."]
+        
+        T2["TIER 2: INTENSIVE REMEDIATION (SANTRI KURANG < 10% KOMPETENSI)<br/>• Program akselerasi pemenuhan jam khidmah atau setoran hafalan intensif."]
+        
+        T3["TIER 3: SIDANG SENAT DEWAN KIAI (KASUS DEFISIT SIGNIFIKAN)<br/>• Penetapan masa perpanjangan studi bersyarat demi menjaga integritas ijazah."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

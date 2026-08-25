@@ -236,6 +236,40 @@ Penerapan matriks internalisasi 10 karakter muwashafat ini menghadirkan keunggul
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Matriks Internalisasi 10 Karakter Muwashafat
+
+Internalisasi 10 karakter moral santri dipetakan secara terukur:
+
+#### A. Karakter Fondasional Ruhiyah (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq)
+Menjadi akar ketakwaan: keyakinan tauhid yang bersih dari syirik dan tahayyul, ibadah yang sesuai sunnah Rasulullah SAW, dan budi pekerti yang luhur dalam keseharian.
+
+#### B. Karakter Pengembangan Diri (Qawiyyul Jism, Mutsaqqaful Fikr, Mujahidun Linafsih)
+Menjadi batang kapasitas: kebugaran fisik bebas penyakit, kecerdasan nalar kritis, dan ketangguhan melawan hawa nafsu dan godaan kemalasan.
+
+#### C. Karakter Keteraturan & Kontribusi (Munazhzham fi Syu'unih, Haritsun 'ala Waqtih, Qadirun 'alal Kasb, Nafi'un Lighairih)
+Menjadi buah kemanfaatan: manajemen hidup rapi 5S, disiplin waktu produktif, jiwa mandiri berdaya, dan komitmen melayani kemaslahatan masyarakat luas.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Internalisasi Muwashafat
+
+```mermaid
+flowchart TD
+    subgraph PBISMuwashafat["PROTOKOL AKSI PBIS 10 KARAKTER MUWASHAFAT"]
+        T1["TIER 1: UNIVERSAL (MUTABA'AH DIGITAL 100%)<br/>• Rubrik 10 Muwashafat terintegrasi rapor karakter santri semesteran.<br/>• Apresiasi Anugerah Santri Teladan 10 Dimensi di wisuda tahunan."]
+        
+        T2["TIER 2: TARGETED (SANTRI DENGAN DEFISIT PADA 1-2 DIMENSI)<br/>• Mentoring tematik personal bersama musyrif bidang terkait (ibadah/5S/akademik)."]
+        
+        T3["TIER 3: INTENSIVE (DEFISIT MULTIDIMENSI AKUT)<br/>• Rencana Intervensi Karakter Komprehensif (Multi-Trait Behavioral Plan)."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

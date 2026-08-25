@@ -233,6 +233,43 @@ Penerapan taksonomi progresi kognitif diniyyah ini menghadirkan lompatan mutu:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Taksonomi Progresi Kognitif Pembelajar Santri
+
+Perkembangan intelektual santri ditata melintasi empat jenjang taksonomi terpadu:
+
+#### A. Etape 1: Hifzh & Al-Fahm (Penghafalan Matan & Pemahaman Konseptual)
+Santri menguasai matan-matan kunci turats melalui metode pengulangan terencana (*Spaced Repetition*) dan pemahaman makna harfiah kosakata bahasa Arab.
+
+#### B. Etape 2: At-Tathbiq & At-Tahlil (Penerapan Kaidah & Analisis Dalil)
+Santri mampu menerapkan kaidah nahwu-shorof ke dalam bacaan kitab dan menganalisis 'illat hukum fikih dalam kehidupan asrama 24 jam.
+
+#### C. Etape 3: At-Tarkib & Al-Munaqasyah (Sintesis Keilmuan & Dialektika Debat Ilmiah)
+Santri membandingkan berbagai madzhab fikih, mengintegrasikan dalil naqli dengan sains modern, dan berargumentasi secara logis dalam forum Bahtsul Masa'il.
+
+#### D. Etape 4: Al-Ibtikar & Al-Istinbath (Inovasi Solutif & Perumusan Karya Ilmiah)
+Santri mampu merumuskan ijtihad aplikatif melalui proyek Capstone dan menghasilkan karya tulis ilmiah berbobot yang bermanfaat bagi umat.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier dalam Pembelajaran Kognitif
+
+```mermaid
+flowchart TD
+    subgraph PBISKognitif["PROTOKOL AKSI PBIS PROGRESI KOGNITIF"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI 100%)<br/>• Manajemen beban kognitif (Cognitive Load): Sesi fokus 45 menit + jeda aktif 10 menit.<br/>• Penggunaan metode peta konsep visual (Mind Mapping) di setiap mata pelajaran."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI MENGALAMI LEARNING BOTTLENECK)<br/>• Klinik Belajar Berbimbingan (Sorogan Intensif) dalam kelompok kecil 1:4.<br/>• Penugasan tutor sebaya santri J3/J4 untuk pendampingan nahwu-shorof."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI DENGAN KESULITAN BELAJAR SPESIFIK)<br/>• Diagnostik asesmen neuropsikologis oleh tim konseling BK.<br/>• Individualized Education Plan (IEP) dengan adaptasi metode instruksional."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

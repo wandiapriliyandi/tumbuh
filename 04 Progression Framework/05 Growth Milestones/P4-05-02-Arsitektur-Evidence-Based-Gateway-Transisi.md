@@ -224,6 +224,40 @@ Penerapan arsitektur evidence-based gateway transisi menghadirkan keunggulan sis
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Arsitektur Evidence-Based Gateway Transisi
+
+Gateway transisi dirancang sebagai gerbang penjaminan mutu berbasis bukti autentik (*Evidence-Based Gateway*):
+
+#### A. Pilar 1: Portofolio Bukti Multi-Modal (Multi-Modal Evidence)
+Gateway tidak didasarkan pada selera subjektif penguji, melainkan pada akumulasi bukti autentik: rekaman video tasmi' Al-Qur'an, logbook jam khidmah terverifikasi, lembar mutaba'ah 66 hari, dan artefak karya tulis.
+
+#### B. Pilar 2: Sidang Asesmen Berkeadilan & Non-Diskriminatif
+Proses telaah berkas dilakukan oleh dewan penguji yang independen, menggunakan rubrik standar baku TUMBUH yang transparan dan dapat diakses oleh santri dan wali santri.
+
+#### C. Pilar 3: Umpan Balik Kualitatif Konstruktif (Constructive Feedforward)
+Setiap santri menerima lembar rekomendasi pengembangan diri yang merinci area kekuatan (*Strengths*) dan area yang perlu ditingkatkan (*Growth Areas*).
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Gateway Transisi
+
+```mermaid
+flowchart TD
+    subgraph PBISGatewayTransisi["PROTOKOL AKSI PBIS GATEWAY TRANSISI"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI GATEWAY)<br/>• Workshop persiapan portofolio gateway 2 bulan sebelum masa sidang.<br/>• Simulasi presentasi munaqasyah di halaqah sebaya."]
+        
+        T2["TIER 2: TARGETED (SANTRI DENGAN KEKURANGAN DOKUMEN PORTOFOLIO)<br/>• Fasilitasi klinik portofolio bersama asisten musyrif."]
+        
+        T3["TIER 3: INTENSIVE (SANTRI DENGAN DEFISIT KOMPETENSI KRITIS)<br/>• Pendampingan intensif 6 pekan hingga seluruh indikator minimal terpenuhi."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

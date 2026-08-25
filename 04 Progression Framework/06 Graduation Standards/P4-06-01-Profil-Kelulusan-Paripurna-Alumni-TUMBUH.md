@@ -226,6 +226,40 @@ Perumusan profil kelulusan paripurna Insan Kamil Khadimul Ummah menghasilkan lom
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Profil Kelulusan Paripurna Alumni TUMBUH
+
+Profil alumni dirumuskan sebagai perwujudan utuh Insan Adabi yang siap memimpin peradaban:
+
+#### A. Dimensi 1: Kedalaman Spiritual & Integritas Tauhid (Salimul Aqidah & Shahihul Ibadah)
+Alumni memiliki aqidah lurus yang bebas syirik, istiqamah menjalankan ibadah wajib dan sunnah, serta memiliki akhlak mulia (*Matinul Khuluq*) yang memancar dalam interaksi sosial.
+
+#### B. Dimensi 2: Keunggulan Intelektual & Wawasan Peradaban (Mutsaqqaful Fikr)
+Alumni menguasai literasi turats dasar, berfikir kritis dialektis, fasih berbahasa Arab/Inggris, dan memiliki kecerdasan ilmiah untuk melanjutkan studi di kampus terbaik dunia.
+
+#### C. Dimensi 3: Jiwa Pengabdian & Kepemimpinan Pelayanan (Nafi'un Lighairih & Qudwah)
+Alumni mendedikasikan ilmunya untuk kemaslahatan umat, berjiwa wirausaha mandiri (*Qadirun 'alal Kasb*), dan memimpin dengan keteladanan akhlak di manapun berada.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Penjaminan Profil Kelulusan
+
+```mermaid
+flowchart TD
+    subgraph PBISProfilKelulusan["PROTOKOL AKSI PBIS PROFIL KELULUSAN"]
+        T1["TIER 1: UNIVERSAL COHORT MONITORING<br/>• Pemetaan capaian profil lulusan sepanjang 6 tahun pendidikan.<br/>• Pembekalan intensif pasca-ujian akhir (Senior Leadership Retreat)."]
+        
+        T2["TIER 2: TARGETED CAREER & UNIVERSITY CLINIC<br/>• Bimbingan studi lanjut ke universitas Timur Tengah, Barat, dan PTN ternama.<br/>• Pendampingan persiapan beasiswa dan tes bahasa internasional."]
+        
+        T3["TIER 3: ALUMNI MENTORSHIP NETWORK<br/>• Integrasi jejaring alumni global untuk pendampingan adaptasi dunia kampus."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

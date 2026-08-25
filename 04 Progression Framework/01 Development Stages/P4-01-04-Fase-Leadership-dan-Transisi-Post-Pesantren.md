@@ -216,6 +216,43 @@ Penerapan fase kepemimpinan dan transisi paripurna ini melahirkan keunggulan str
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Empat Pilar Fase Kepemimpinan & Transisi Pasca-Pesantren (J4)
+
+Fase kepemimpinan (Jenjang J4 / Kelas 11–12 / Usia 17–18 tahun) adalah etape kulminasi pembinaan santri menuju profil Insan Adabi penggerak peradaban:
+
+#### A. Pilar 1: Aktualisasi Kepemimpinan Pelayanan (Servant Leadership OPPM)
+Santri J4 mengemban amanah sebagai Pengurus Sentral Organisasi Santri OPPM. Kepemimpinan ditegakkan di atas doktrin kenabian *Sayyidul Qaumi Khaadimuhum* (Pemimpin suatu kaum adalah pelayan bagi mereka). Santri J4 memimpin dengan teladan nyata (*Qudwah bi Lisan al-Hal*): menjadi yang pertama hadir di masjid, memegang sapu di barisan depan saat kerja bakti, dan mengayomi adik kelas dengan kasih sayang.
+
+#### B. Pilar 2: Eksekusi Riset & Proyek Pengabdian Peradaban (Capstone Project)
+Sebagai syarat kelulusan, santri J4 menyusun dan mengeksekusi *Capstone Civilizational Project*. Proyek ini merupakan sintesis antara khazanah syariat Islam, sains modern, dan kebutuhan riil masyarakat (misal: sistem filtrasi air bersih pesantren, digitalisasi bank sampah desa binaan, atau riset komparasi fiqh muamalah digital).
+
+#### C. Pilar 3: Resiliensi Mental & Navigasi Transisi Dunia Kampus
+Santri J4 dibekali ketahanan mental menghadapi disrupsi dunia luar pasca-pesantren (*Post-Pesantren Transition Resilience*). Melalui klinik karir, bimbingan studi lanjut, dan simulasi kehidupan kampus independen, santri dilatih mempertahankan prinsip syariat dan adab di lingkungan yang pluralistik tanpa kehilangan jati diri keislaman.
+
+#### D. Pilar 4: Penjaga Konstitusi Zero-Violence & Budaya Ukhuwah Asrama
+Santri J4 memegang mandat sebagai *Custodians of Safe Sanctuary*. Mereka memastikan bahwa ekosistem asrama steril dari segala bentuk intimidasi, pemalakan, atau perpeloncoan senioritas, serta menjadi teladan hidup bagi seluruh adik kelas di bawahnya.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier pada Fase Kepemimpinan
+
+```mermaid
+flowchart TD
+    subgraph PBISLeadershipJ4["PROTOKOL AKSI PBIS FASE KEPEMIMPINAN (J4)"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI J4 100%)<br/>• Piagam Kepemimpinan Otonom (Honor Code System) tanpa pengawasan mikro musyrif.<br/>• Forum Musyawarah Syura mingguan evaluasi kinerja kepengurusan asrama & kebersihan."]
+        
+        T2["TIER 2: TARGETED (10-15% PENGURUS MENGALAMI LEADERSHIP BURNOUT)<br/>• Executive Coaching manajemen waktu & prioritas bersama Mudir Pengasuhan.<br/>• Program retret relaksasi ruhiyah (Qiyamullail & Tadabbur Alam) pemulihan energi batin."]
+        
+        T3["TIER 3: INTENSIVE (1-2% KASUS KELALAIAN AMANAH ORGANISASI BERAT)<br/>• Sidang Etika Restoratif Dewan Kehormatan Asatidz & Santri.<br/>• Restitusi kepemimpinan nyata melalui penugasan khidmah perbaikan sistemik."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

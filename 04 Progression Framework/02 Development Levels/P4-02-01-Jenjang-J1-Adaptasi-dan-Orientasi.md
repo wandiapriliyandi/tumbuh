@@ -215,6 +215,40 @@ Penerapan standarisasi Jenjang J1 menghadirkan transformasi kelembagaan:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Komprehensif Karakteristik Jenjang J1 (Adaptasi & Inisiasi)
+
+Jenjang J1 (Kelas 7 / Usia 12–13 Tahun) adalah peletakan batu pertama seluruh bangunan kemandirian santri:
+
+#### A. Dimensi Ruhiyah: Pembiasaan Shalat Tanpa Teror
+Fokus ibadah pada J1 adalah membentuk asosiasi positif antara ibadah dan ketenteraman batin (*Farah bil 'Ibadah*). Musyrif menghindari sanksi fisik yang memicu trauma masjid. Pengondisian shalat berjamaah dilakukan dengan keteladanan hadir awal musyrif di saf terdepan.
+
+#### B. Dimensi Kognitif: Transisi dari Konkret ke Formal Abstrak Awal
+Santri J1 berada pada fase akhir operasional konkret Piaget. Pelajaran nahwu, shorof, dan tajwid disampaikan dengan alat peraga visual, lagu matan (*Nadham*), dan hafalan berulang yang menyenangkan untuk mengoptimalkan kapasitas memori kerja tanpa kejenuhan.
+
+#### C. Dimensi Fisik: Kurikulum Keterampilan Hidup Terstruktur
+Santri J1 wajib menyelesaikan modul *Life-Skills Mastery*: teknik mencuci pakaian bebas noda, melipat sarung standar rapi, sanitasi kasur anti-tungau, dan manajemen waktu mandi pagi sebelum subuh.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Jenjang J1
+
+```mermaid
+flowchart TD
+    subgraph PBISJenjangJ1["PROTOKOL AKSI PBIS JENJANG J1 (KELAS 7)"]
+        T1["TIER 1: UNIVERSAL (100% SANTRI J1)<br/>• Matriks adab visual di dinding kamar & kartu panduan saku 24 jam.<br/>• Apresiasi stiker bintang adab untuk kerapian loker & kemandirian mencuci."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI DISREGULASI WAKTU)<br/>• Program CICO J1: Musyrif memeriksa kesiapan perlengkapan sekolah & kasur.<br/>• Pendampingan 'Buddy Senior' J4 untuk latihan tahfizh & cuci baju bersama."]
+        
+        T3["TIER 3: INTENSIVE (1-3% KASUS PHOBIA ASRAMA / DISORGANISASI TOTAL)<br/>• Konseling individual BK, pemetaan riwayat pengasuhan keluarga, & kontrak bertahap.<br/>• Home-Pesantren Collaboration: Panduan komunikasi suportif orang tua."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

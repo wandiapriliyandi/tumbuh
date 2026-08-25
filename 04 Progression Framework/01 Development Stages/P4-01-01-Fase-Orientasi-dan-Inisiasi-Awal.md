@@ -216,6 +216,43 @@ Penerapan paradigma inisiasi ramah anak (*Child-Friendly Initiation Protocol*) i
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Empat Pilar Fase Inisiasi (Dimensi Kritis Adaptasi J1)
+
+Penahapan fase orientasi tidak dapat disederhanakan sebagai rutinitas administratif belaka, melainkan proses restrukturisasi neuropsikologis santri baru:
+
+#### A. Pilar 1: Stabilisasi Psiko-Spiritual & Regulasi Emosi Transisi
+Pada 14 hari pertama, amigdala santri berada pada tingkat keterjagaan tinggi (*Hyper-vigilance*) akibat keterpisahan dari figur lekat primer (*Primary Attachment Figures*). Pendekatan represif atau memaksa santri "langsung tegar" akan mengunci otak dalam mode bertahan hidup (*Survival Mode*). Musyrif memfasilitasi ko-regulasi melalui kehadiran fisik yang tenang, nada bicara afektif yang teduh, dan penanaman konsep *Mahabbah Ilahiyyah* bahwa keberadaan mereka di ma'had adalah bentuk penjagaan dan pemuliaan Allah SWT.
+
+#### B. Pilar 2: Pembiasaan Kemandirian Fisik & Higienitas Asrama (Life-Skills Lab)
+Santri baru kerap mengalami *Executive Function Overload* ketika dihadapkan pada puluhan tugas domestik baru secara bersamaan (mencuci baju, menyikat kerah, melipat gamis, menjaga kerapian loker, dan mencuci piring). Musyrif menerapkan metode *Chaining & Scaffolding*: musyrif mendemonstrasikan secara langsung teknik mencuci efisien, mendampingi santri melakukan bersama, lalu secara bertahap mengurangi bantuan (*Fading Out*) hingga santri mampu melaksanakannya secara otonom dalam 21 hari.
+
+#### C. Pilar 3: Social Bonding & Kohesi Ukhuwah Sekamar
+Kamar asrama diformulasikan sebagai *Micro-Ecosystem of Belonging*. Musyrif melarang keras pembentukan kelompok homogen berbasis daerah asal atau latar belakang ekonomi. Setiap malam diadakan *Circle of Gratitude* beralas karpet bersama di mana santri saling berbagi kisah harian dan saling mendoakan.
+
+#### D. Pilar 4: Literasi Tata Tertib Positif (Zero-Violence & Safe School)
+Santri diberikan edukasi mengenai hak-hak perlindungan santri (*Student Protection Rights*). Santri memahami alur pelaporan aman (*Safe Whistleblowing Protocol*) jika mengalami ketidaknyamanan, mengetahui letak Posko Konseling BK, dan memahami bahwa kesalahan adab diselesaikan melalui dialog perbaikan restoratif, bukan hukuman fisik.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier pada Fase Inisiasi
+
+```mermaid
+flowchart TD
+    subgraph PBISInisiasiSantriBaru["PROTOKOL AKSI PBIS FASE ORIENTASI (J1)"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI BARU 100%)<br/>• Matriks visual alur hidup asrama 24 jam & panduan higienitas kamar mandi.<br/>• Pendampingan tidur musyrif di blok yang sama & apresiasi verbal harian 4:1."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI HOMESICK SEDANG)<br/>• Program CICO Adaptasi: Check-in pagi saat sarapan & check-out malam sebelum tidur.<br/>• Bimbingan kelompok kecil 'Sahabat Baru' bersama konselor BK."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI MOGOK MAKAN / ENURESIS TRAUMA)<br/>• Konseling individual harian, pelukan ko-regulasi, & konsultasi virtual orang tua.<br/>• FBA mendalam & penyesuaian jadwal harian hingga kestabilan emosi pulih."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

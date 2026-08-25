@@ -216,6 +216,43 @@ Penerapan katalog instrumen asesmen terstandarisasi ini menghasilkan keunggulan:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Katalog Instrumen Asesmen Milestone
+
+Standarisasi instrumen pengukuran kematangan santri di ekosistem TUMBUH:
+
+#### A. Instrumen Form SKA-F1 (Jenjang J1): Skala Kesiapan & Adaptasi Asrama
+Mengukur 15 indikator adaptasi: regulasi homesickness, kemandirian mencuci pakaian, keteraturan shalat berjamaah, dan kebersihan diri.
+
+#### B. Instrumen Form LMK-F2 (Jenjang J2): Lembar Mutaba'ah Karakter & 5S
+Mengukur 20 indikator konsistensi: otomatisasi bangun shubuh 04.00, standar 5S kamar tidur, kecakapan P3K dasar, dan disiplin belajar malam.
+
+#### C. Instrumen Form SKE-F3 (Jenjang J3): Skala Kematangan Emosi & Khidmah
+Mengukur 25 indikator: 5 kompetensi CASEL SEL, manajemen amarah, portofolio Restorative Buddy J1, dan ketercapaian 60 jam khidmah desa.
+
+#### D. Instrumen Form RKK-F4 (Jenjang J4): Rubrik Kelulusan Paripurna & Capstone
+Mengukur 30 indikator paripurna: integritas kepemimpinan OPPM, kualitas riset munaqasyah Capstone, kemandirian moral, dan akumulasi 210 jam khidmah.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Penggunaan Katalog Instrumen
+
+```mermaid
+flowchart TD
+    subgraph PBISInstrumenCatalog["PROTOKOL AKSI PBIS PENGGUNAAN INSTRUMEN"]
+        T1["TIER 1: DIGITAL LOGGING (24 JAM)<br/>• Input data real-time via aplikasi mobile Musyrif TUMBUH.<br/>• Rekapitulasi otomatis ke portofolio digital santri."]
+        
+        T2["TIER 2: VERIFIKASI WALI ASRAMA<br/>• Validasi silang mingguan antara catatan musyrif dan wali kelas madrasah."]
+        
+        T3["TIER 3: PENGESAHAN AKADEMIK & PENGASUHAN<br/>• Penerbitan transkrip resmi berkala berstatus sah secara kelembagaan."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

@@ -212,6 +212,40 @@ Penerapan standarisasi Jenjang J2 menghadirkan lompatan peradaban:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Komprehensif Karakteristik Jenjang J2 (Habituasi Dasar)
+
+Jenjang J2 (Kelas 8 / Usia 13–14 Tahun) merupakan etape konsolidasi rutinitas dan internalisasi disiplin:
+
+#### A. Dimensi Ruhiyah: Kemandirian Shalat Shubuh & Puasa Sunnah
+Santri J2 dilatih memiliki alarm internal: bangun shubuh mandiri tanpa ketukan pintu musyrif, membiasakan tilawah 1 juz per hari, dan istiqamah menjalankan puasa Senin-Kamis secara sukarela.
+
+#### B. Dimensi Tata Kelola Ruang: Sertifikasi Standar 5S Kamar Tidur
+Santri J2 menguasai manajemen ruang asrama 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*). Setiap barang di loker memiliki tempat baku yang berlabel, tempat tidur ditarik kencang tanpa kerutan, dan lantai kamar disapu-pel bergilir 3x sehari.
+
+#### C. Dimensi Akademik: Kemandirian Belajar Malam (Mudzakarah)
+Santri J2 mengalokasikan waktu 60 menit belajar mandiri setiap malam untuk muthala'ah pelajaran madrasah, membuat ringkasan bab kitab syarah, dan menyelesaikan tugas tanpa pengawasan ketat.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Jenjang J2
+
+```mermaid
+flowchart TD
+    subgraph PBISJenjangJ2["PROTOKOL AKSI PBIS JENJANG J2 (KELAS 8)"]
+        T1["TIER 1: UNIVERSAL (100% SANTRI J2)<br/>• Mutaba'ah Habit Loop 66 Hari digital logbook & pengakuan Duta 5S Kamar.<br/>• Kompetisi kebersihan kamar antar-lorong berhadiah rihlah edukatif."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI MENGALAMI HABITUATION PLATEAU)<br/>• Program CICO J2: Musyrif mendampingi fokus belajar malam & manajemen waktu.<br/>• Kelompok belajar terbimbing 'Klinik Nahwu-Shorof' bersama tutor sebaya."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI DENGAN PELANGGARAN KELALAIAN BERULANG)<br/>• Functional Behavior Assessment (FBA) untuk mengurai motif di balik kemalasan.<br/>• Restorasi adab terstruktur: Penugasan khidmah merapikan perpustakaan pondok."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

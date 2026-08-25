@@ -230,6 +230,40 @@ Penerapan rubrik triangulasi asesmen karakter ini menghadirkan keunggulan:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Rubrik Triangulasi Asesmen Karakter
+
+Triangulasi data menjamin objektivitas dan keakuratan profil perkembangan santri:
+
+#### A. Sumber Data 1: Asesmen Diri Santri (Self-Assessment)
+Santri mengisi instrumen refleksi diri secara berkala, melatih kejujuran eksistensial dan kesadaran metakognitif mengenai kelemahan dan kemajuan dirinya.
+
+#### B. Sumber Data 2: Asesmen Teman Sebaya (Peer Review)
+Teman sekamar memberikan penilaian sosiometrik mengenai kehangatan komunikasi, kerjasama piket kamar, dan empati sosial santri dalam kehidupan sehari-hari.
+
+#### C. Sumber Data 3: Observasi Musyrif & Guru (Staff Behavioral Logging)
+Musyrif mendokumentasikan perilaku spontan santri 24 jam melalui logbook digital PBIS, memverifikasi konsistensi antara klaim diri dan tindakan nyata di lapangan.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Triangulasi Asesmen
+
+```mermaid
+flowchart TD
+    subgraph PBISTriangulasi["PROTOKOL AKSI PBIS TRIANGULASI ASESMEN"]
+        T1["TIER 1: UNIVERSAL (SISTEMIK DIGITAL)<br/>• Integrasi otomatis data 3 arah ke dalam Dashboard Analitik Santri.<br/>• Notifikasi dini jika ditemukan diskrepansi data > 30%."]
+        
+        T2["TIER 2: TARGETED (DISKRIPANSI DATA ANTARA KLAIM DIRI & OBSERVASI)<br/>• Dialog klarifikasi tiga pihak (Santri, Musyrif, dan Konselor BK)."]
+        
+        T3["TIER 3: INTENSIVE (AUDIT VALIDITAS ASESMEN TINGKAT TINGGI)<br/>• Investigasi mendalam oleh tim Quality Assurance Pesantren."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

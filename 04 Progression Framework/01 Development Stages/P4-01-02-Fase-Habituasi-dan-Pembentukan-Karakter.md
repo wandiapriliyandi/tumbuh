@@ -215,6 +215,43 @@ Pembiasaan berbasis otomatisasi neurokognitif ini melahirkan keunggulan фунд
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Empat Pilar Fase Habituasi (Konsolidasi Karakter 66 Hari)
+
+Fase habituasi (Jenjang J2 / Kelas 8 / Usia 13–14 tahun) adalah periode kritis peletakan pondasi otomatisasi adab (*Automaticity of Virtue*):
+
+#### A. Pilar 1: Otomatisasi Ibadah & Zikir Harian (*The Spiritual Habit Loop*)
+Pada fase ini, ibadah shalat shubuh, rawatib, dan zikir pagi-petang ditransformasikan dari "kewajiban yang diawasi" menjadi "refleks spiritual otomatis". Mengacu pada riset *Neuroplasticity & Habit Formation* Dr. Phillippa Lally (UCL), pembentukan jalur sinaptik baru membutuhkan waktu rata-rata 66 hari pengulangan konsisten tanpa jeda. Musyrif mendampingi santri dengan teknik *Environmental Cues*: lonceng asrama yang merdu, pencahayaan bertahap sebelum azan, dan tradisi saling menyapa hangat saat menuju masjid.
+
+#### B. Pilar 2: Disiplin Tata Kelola Ruang & Higienitas 5S
+Kamar asrama ditingkatkan ke standar kebersihan mandiri 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*). Santri J2 tidak lagi sekadar merapikan kasur saat diperintah, melainkan memiliki kesadaran sanitasi: menjemur kasur berkala untuk pencegahan scabies, merapikan loker dengan prinsip ergonomis, dan mengelola giliran piket kebersihan sektor secara adil.
+
+#### C. Pilar 3: Regulasi Waktu Belajar Mandiri & Metakognisi Dasar
+Santri J2 mulai dibiasakan mengelola waktu belajar malam (*Mudzakarah Lailiyyah*) selama 60 menit tanpa ketergantungan penuh pada asatidz. Santri dilatih menyusun ringkasan peta konsep (*Concept Mapping*), mengidentifikasi materi yang belum dipahami (*Metacognitive Monitoring*), dan berdiskusi secara sehat dalam kelompok kecil.
+
+#### D. Pilar 4: Kohesi Sosial & Pencegahan Polarisasi Kamar
+Santri J2 mulai mengalami peningkatan dorongan penerimaan kelompok sebaya (*Peer Group Acceptance*). Musyrif memitigasi potensi pembentukan 'klik' atau kubu eksklusif dengan merotasi penugasan regu piket dan menyelenggarakan agenda *Ukhuwah Night* mingguan.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier pada Fase Habituasi
+
+```mermaid
+flowchart TD
+    subgraph PBISHabituasiSantri["PROTOKOL AKSI PBIS FASE HABITUASI (J2)"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI J2 100%)<br/>• Lembar Mutaba'ah Harian 66 Hari terintegrasi logbook digital musyrif.<br/>• Apresiasi publik 4:1 untuk konsistensi bangun shubuh mandiri & kerapian 5S."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI DENGAN HABITUATION LAG)<br/>• Program CICO Habituasi: Monitoring fokus jam belajar malam & kebersihan loker.<br/>• Bimbingan kelompok kecil 'Klinik Kedisiplinan' bersama wali kelas & musyrif."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI DENGAN RESISTENSI RUTINITAS KRONIS)<br/>• Evaluasi FBA untuk mendeteksi akar masalah (gangguan tidur sirkadian/kejenuhan batin).<br/>• Perancangan BIP individual & kontrak komitmen restoratif bersama orang tua."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

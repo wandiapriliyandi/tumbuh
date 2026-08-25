@@ -212,6 +212,40 @@ Penerapan standarisasi Jenjang J3 menghasilkan lompatan peradaban:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Komprehensif Karakteristik Jenjang J3 (Internalisasi Nilai & SEL)
+
+Jenjang J3 (Kelas 9–10 / Usia 15–16 Tahun) berfokus pada kematangan sosio-emosional dan peran sosial:
+
+#### A. Dimensi Kesadaran Mukallaf: Integrasi Syariat dan Identitas Diri
+Santri J3 memahami konsekuensi taklif syariat secara utuh pasca-baligh. Ibadah dijalankan sebagai ekspresi penghambaan tulus, zikir menjadi benteng dari gejolak syahwat, dan akhlak ditegakkan di ruang ramai maupun sunyi.
+
+#### B. Dimensi Kecerdasan Sosio-Emosional (CASEL SEL): Empati & Manajemen Amarah
+Santri J3 dilatih mengendalikan impulsivitas amarah (*Anger Sublimation*), berkomunikasi asertif saat terjadi silang pendapat antarteman, dan memiliki kepekaan sosial mendalam terhadap penderitaan sesama.
+
+#### C. Dimensi Pengabdian: Kakak Asuh (Restorative Buddy) & Dakwah Desa
+Santri J3 mempraktikkan ilmu secara nyata dengan menjadi pendamping santri baru J1 dan mengajar Al-Qur'an bagi anak-anak di TPA desa binaan sekitar pesantren.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Jenjang J3
+
+```mermaid
+flowchart TD
+    subgraph PBISJenjangJ3["PROTOKOL AKSI PBIS JENJANG J3 (KELAS 9–10)"]
+        T1["TIER 1: UNIVERSAL (100% SANTRI J3)<br/>• Lingkaran Dialog Restoratif (Talking Circles) mingguan membahas adab pergaulan.<br/>• Program 'Ekspedisi Khidmah Desa' minimal 60 jam per tahun ajaran."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI FLUKTUATIF EMOSI BALIGH)<br/>• Konseling kelompok 'Suhbah Tarbawiyyah' fokus pada manajemen gejolak pubertas.<br/>• Mediasi restoratif sebaya untuk menyelesaikan perselisihan kamar tidur."]
+        
+        T3["TIER 3: INTENSIVE (1-3% KASUS PERILAKU MENYIMPANG / SARKASME SOSIAL)<br/>• FBA intensif & konseling CBT-Naratif Islami bersama psikolog/asatidz BK.<br/>• Restorative Conferencing melibatkan pihak terdampak demi pemulihan ukhuwah."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

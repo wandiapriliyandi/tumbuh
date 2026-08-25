@@ -229,6 +229,43 @@ Penerapan tangga kepemimpinan servant leadership ini menghasilkan lompatan perad
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Tangga Kepemimpinan Santri (Servant Leadership)
+
+Evolusi kepemimpinan santri bergerak dari pengikut teladan menuju pelayan peradaban:
+
+#### A. Level 1: Follower Beradab (Exemplary Followers)
+Santri menjalankan instruksi dengan penuh amanah, mendukung program asrama secara aktif, dan memberikan masukan konstruktif dengan adab santun.
+
+#### B. Level 2: Pemimpin Regu Kamar (Small Group Facilitators)
+Mengkoordinasikan piket kebersihan kamar, merawat kawan sekamar yang sakit, dan menciptakan atmosfer kamar tidur yang hangat dan suportif.
+
+#### C. Level 3: Koordinator Divisi & Event Organizer (Program Leaders)
+Memimpin kepanitiaan acara-acara besar pondok (Pekan Olahraga & Seni, Ramadhan di Ma'had, Ekspedisi Desa) dengan manajemen waktu dan koordinasi tim yang solid.
+
+#### D. Level 4: Pengurus Sentral OPPM (Servant Leaders Paripurna)
+Mengemban kepemimpinan sentral dengan filosofi *Khidmah Total*: mengutamakan kenyamanan adik kelas di atas kepentingan pribadi dan mengayomi seluruh santri dengan prinsip keadilan.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Kepemimpinan Santri
+
+```mermaid
+flowchart TD
+    subgraph PBISServantLeader["PROTOKOL AKSI PBIS TANGGA KEPEMIMPINAN"]
+        T1["TIER 1: UNIVERSAL (KADERISASI 100% SANTRI)<br/>• Pelatihan Dasar Kepemimpinan Islam (LDKI) berjenjang di setiap kenaikan kelas.<br/>• Evaluasi 360 derajat kepemimpinan sebaya berkala."]
+        
+        T2["TIER 2: TARGETED (PENGURUS MENGALAMI DISKREPANSI OTORITAS)<br/>• Coaching kepemimpinan empatik & teknik resolusi konflik tanpa bentakan."]
+        
+        T3["TIER 3: INTENSIVE (PENYALAHGUNAAN WEWENANG / SENIORITAS FEODAL)<br/>• Sidang Restoratif Dewan Kehormatan: Penonaktifan amanah & program pembinaan adab."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

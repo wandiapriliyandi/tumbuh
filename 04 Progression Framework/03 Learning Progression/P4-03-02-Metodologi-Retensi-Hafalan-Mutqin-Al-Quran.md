@@ -211,6 +211,40 @@ Penerapan metodologi retensi mutqin berbasis neurokognitif ini melahirkan keungg
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Metodologi Retensi Hafalan Mutqin Al-Qur'an
+
+Sistem tahfizh TUMBUH memadukan kaidah tahfidz salaf dengan neurosains memori jangka panjang:
+
+#### A. Pilar 1: Kodifikasi Akurasi Talaqqi & Ziyadah Terukur
+Santri menyetorkan hafalan baru hanya setelah dinyatakan lulus fasahah dan tajwid melalui talaqqi musyafahah bersama muhaffizh bersanad. Beban hafalan dibatasi agar tidak melampaui kapasitas konsolidasi sinaptik otak.
+
+#### B. Pilar 2: Sirkuit Muraja'ah Harian (*The Long-Term Memory Circuit*)
+Menerapkan rasio emas tahfizh: 20% waktu untuk menambah hafalan baru (*Ziyadah*) dan 80% waktu untuk mengulang hafalan lama (*Muraja'ah*). Menggunakan prinsip *Interleaving & Retrieval Practice* untuk mengunci memori di korteks serebral.
+
+#### C. Pilar 3: Tasmi' Sekali Duduk & Sertifikasi Mutqin Berkala
+Santri diuji melalui tasmi' bil-ghaib 1 juz, 5 juz, hingga 30 juz sekali duduk di hadapan dewan penguji untuk menjamin mutu hafalan mutqin seumur hidup.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier dalam Program Tahfizh
+
+```mermaid
+flowchart TD
+    subgraph PBISTahfizh["PROTOKOL AKSI PBIS PROGRAM TAHFIZH MUTQIN"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI PENGHAFAL 100%)<br/>• Jadwal halaqah tahfizh harian 2x sehari diselingi hidrasi air & senam peregangan.<br/>• Apresiasi sertifikat mutqin per juz & apresiasi publik saat wisuda tasmi'."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI MENGALAMI PENURUNAN DAYA INGAT / DEMOTIVASI)<br/>• Program 'Halaqah Re-Charging': Mengurangi beban ziyadah & fokus muraja'ah santai.<br/>• Bimbingan psikologis manajemen kecemasan ujian tasmi' bersama konselor BK."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI MENGALAMI HAFALAN MACET TOTAL / TRAUMA TAHFIZH)<br/>• Evaluasi menyeluruh beban akademik & penundaan target setoran sementara.<br/>• Terapi naratif ruhiyah membangkitkan kembali kecintaan pada kalam Ilahi."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

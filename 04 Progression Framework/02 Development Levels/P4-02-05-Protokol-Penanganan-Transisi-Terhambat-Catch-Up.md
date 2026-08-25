@@ -234,6 +234,40 @@ Penerapan protokol penanganan transisi terhambat (Tier 2 Catch-Up) menghadirkan 
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Protokol Catch-Up Intervensi Transisi Terhambat
+
+Santri yang mengalami keterlambatan adaptasi (*Developmental Lag*) memerlukan intervensi terstruktur tanpa label negatif:
+
+#### A. Pilar 1: Skrining Diagnostik Hambatan Transisi (Multi-Domain Screening)
+Tim terpadu (Wali Kelas, Musyrif, dan Konselor BK) melakukan asesmen komprehensif untuk membedakan antara hambatan adaptasi emosional (*Affective Lag*), hambatan akademik (*Skill Deficit*), atau hambatan fungsi eksekutif (*Executive Function Lag*).
+
+#### B. Pilar 2: Rencana Intervensi Individual (Individualized Growth Plan)
+Menetapkan target mikro terukur selama 30 hari: membagi tugas besar menjadi langkah-langkah kecil (*Chunking*), menyederhanakan instruksi harian, dan memberikan pendampingan khusus 1-on-1 saat waktu-waktu kritis.
+
+#### C. Pilar 3: Ko-Regulasi & Penguatan Kemitraan Orang Tua
+Menghubungkan orang tua secara transparan melalui *Bi-Weekly Progress Report*, memberikan panduan afirmasi positif di rumah, dan menjaga agar santri tidak merasa diadili atau dibandingkan dengan kawan seangkatannya.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Program Catch-Up
+
+```mermaid
+flowchart TD
+    subgraph PBISCatchUp["PROTOKOL AKSI PBIS CATCH-UP TRANSISI TERHAMBAT"]
+        T1["TIER 1: PENCEGAHAN (SELURUH SANTRI KELAS 7/8)<br/>• Pemantauan adaptasi harian 30 hari pertama oleh musyrif kamar.<br/>• Apresiasi kemajuan kecil dalam mutaba'ah harian."]
+        
+        T2["TIER 2: TARGETED CATCH-UP (10-15% SANTRI DENGAN SKOR GATEWAY < 2.50)<br/>• Program CICO Catch-Up harian dengan kartu monitoring personal.<br/>• Sesi bimbingan belajar tambahan 3x sepekan bersama asisten musyrif."]
+        
+        T3["TIER 3: INTENSIVE REMEDIATION (1-3% SANTRI REGRESI BERKELANJUTAN)<br/>• Asesmen FBA mendalam & intervensi psikologis intensif oleh konselor BK.<br/>• Sidang Pleno Edukasi menetapkan perpanjangan masa adaptasi tanpa sanksi tinggal kelas."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

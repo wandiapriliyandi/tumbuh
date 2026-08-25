@@ -212,6 +212,40 @@ Penerapan standarisasi Jenjang J4 melahirkan profil alumni yang berintegritas ti
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Komprehensif Karakteristik Jenjang J4 (Kemandirian & Qudwah)
+
+Jenjang J4 (Kelas 11–12 / Usia 17–18 Tahun) adalah puncak kemandirian santri sebagai insan adabi penggerak:
+
+#### A. Dimensi Kepemimpinan Pelayanan: Servant Leadership OPPM
+Santri J4 mengelola organisasi santri dengan prinsip keteladanan (*Qudwah*). Mereka memimpin dengan melayani, memastikan keadilan distribusi tugas, dan mengayomi adik kelas tanpa intimidasi.
+
+#### B. Dimensi Keilmuan & Riset: Capstone Civilizational Project
+Santri J4 menuntaskan proyek riset mandiri berbasis Maqashid Syari'ah yang menyelesaikan permasalahan nyata masyarakat, membuktikan integrasi antara keilmuan agama dan sains aplikatif.
+
+#### C. Dimensi Transisi: Kesiapan Integritas di Era Disrupsi Global
+Santri J4 memiliki kemandirian moral yang kokoh (*Moral Autonomy*) sehingga siap menjaga adab dan komitmen ibadah saat melanjutkan studi ke perguruan tinggi sekuler maupun internasional.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Jenjang J4
+
+```mermaid
+flowchart TD
+    subgraph PBISJenjangJ4["PROTOKOL AKSI PBIS JENJANG J4 (KELAS 11–12)"]
+        T1["TIER 1: UNIVERSAL (100% SANTRI J4)<br/>• Honor Code System: Pengelolaan asrama berbasis integritas tanpa inspeksi mikro.<br/>• Forum Syura mingguan evaluasi program kerja organisasi & dakwah peradaban."]
+        
+        T2["TIER 2: TARGETED (10-15% PENGURUS MENGALAMI OVERLOAD TUGAS)<br/>• Executive Mentoring manajemen stres & delegasi bersama Mudir Pengasuhan.<br/>• Retreat relaksasi spiritual di alam terbuka untuk rekalibrasi keikhlasan niat."]
+        
+        T3["TIER 3: INTENSIVE (1-2% KASUS KELALAIAN AKUT INTEGRITAS KEPEMIMPINAN)<br/>• Sidang Dewan Kehormatan Adab Asatidz & Santri Senior.<br/>• Restitusi kepemimpinan melalui perbaikan SOP dan kerja bakti sosial nyata."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

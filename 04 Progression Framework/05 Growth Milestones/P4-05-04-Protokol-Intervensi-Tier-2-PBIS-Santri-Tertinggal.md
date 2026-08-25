@@ -230,6 +230,40 @@ Penerapan protokol intervensi Tier 2 PBIS ini menghadirkan lompatan peradaban:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Protokol Intervensi Tier 2 PBIS Santri Tertinggal
+
+Pendampingan terfokus bagi santri yang membutuhkan akselerasi pertumbuhan (*Targeted Support*):
+
+#### A. Pilar 1: Identifikasi Dini Melalui Sistem Peringatan Dini (Early Warning System)
+Dashboard PBIS secara otomatis memberi sinyal peringatan jika santri mencatatkan keterlambatan shalat > 3x sepekan atau skor mutaba'ah < 70%.
+
+#### B. Pilar 2: Modifikasi Lingkungan & Kontrak Perilaku Positif
+Musyrif menyusun kontrak perilaku positif (*Positive Behavioral Contract*) dengan target mingguan yang realistis, disertai penguatan positif yang bermakna bagi santri.
+
+#### C. Pilar 3: Kelompok Dukungan Sebaya (Peer Support Circle)
+Memasangkan santri dengan sahabat pembimbing (*Study & Habit Buddy*) yang memiliki keteladanan kuat untuk memberikan teladan langsung dan dorongan moral.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Tier 2 Terarah
+
+```mermaid
+flowchart TD
+    subgraph PBISTier2Targeted["PROTOKOL AKSI PBIS TIER 2 TARGETED SUPPORT"]
+        T1["TIER 1: SCREENING UNIVERSAL<br/>• Analisis tren data perilaku mingguan oleh Mudir Pengasuhan."]
+        
+        T2["TIER 2: PROGRAM CICO TARGETED (DURASI 6-8 PEKAN)<br/>• Pertemuan harian pagi & malam bersama mentor PBIS.<br/>• Review progres mingguan & reward kemajuan konsisten."]
+        
+        T3["TIER 3: GRADUATION OR ESCALATION<br/>• Santri yang tuntas kembali ke Tier 1; santri yang belum merespons dirujuk ke Tier 3."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

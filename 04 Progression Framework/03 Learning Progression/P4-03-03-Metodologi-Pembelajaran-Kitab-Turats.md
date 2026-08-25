@@ -229,6 +229,40 @@ Penerapan metodologi pembelajaran Turats terpadu ini melahirkan keunggulan strat
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Metodologi Pembelajaran Kitab Turats Integratif
+
+Kajian kitab kuning klasik ditransformasikan dari sekadar transfer teks pasif menjadi dialektika intelektual aktif:
+
+#### A. Pilar 1: Metode Sorogan Dialogis Sokratik
+Santri membaca teks kitab di hadapan ustadz, menjelaskan kedudukan i'rob nahwu-shorof, dan diajak mendiskusikan *'illat* hukum melalui pertanyaan pemantik nalar kritis.
+
+#### B. Pilar 2: Kontekstualisasi Maqashid Syari'ah & Isu Kontemporer
+Kajian kitab fiqh dan akhlak dihubungkan dengan realitas kekinian: etika bersosial media, hukum transaksi digital, bioetika medis, dan pelestarian lingkungan hidup.
+
+#### C. Pilar 3: Internalisasi Adab Majelis Ilmu (Ta'dzimul 'Ilmi wa Ahlih)
+Menjaga kesucian niat menuntut ilmu, menghormati guru dan sanad keilmuan, serta menjaga kebersihan fisik dan pakaian selama berada di majelis halaqah.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Pembelajaran Turats
+
+```mermaid
+flowchart TD
+    subgraph PBISTurats["PROTOKOL AKSI PBIS PEMBELAJARAN TURATS"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI HALAQAH 100%)<br/>• Silabus berjenjang dari matan ringkas hingga syarah mu'tabar.<br/>• Sesi bahtsul masa'il santri mingguan untuk melatih nalar argumentasi mantiq."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI KESULITAN QIRAAH GUNDUL)<br/>• Kelas Klinik Qira'ah 'Asasul Lughah' sore hari bersama santri senior J4.<br/>• Panduan glosarium istilah fiqh saku bergambar."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI DENGAN HAMBATAN LITERASI ARAB AKUT)<br/>• Pendampingan talaqqi privat 1-on-1 dengan target modul teradaptasi."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

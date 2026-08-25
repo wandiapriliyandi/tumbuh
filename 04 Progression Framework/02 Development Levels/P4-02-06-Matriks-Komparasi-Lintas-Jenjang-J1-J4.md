@@ -30,8 +30,10 @@
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Matriks Komparasi Lintas Jenjang J1, J2, J3, dan J4](#1-arsitektur-matriks-komparasi-lintas-jenjang-j1-j2-j3-dan-j4)
   - [2. Tabel Master Komparasi 10 Dimensi Perkembangan Santri (J1–J4)](#2-tabel-master-komparasi-10-dimensi-perkembangan-santri-j1j4)
-  - [3. Trajektori Pergeseran Peran Pendidik: Dari Figur Lekat (In Loco Parentis) Menuju Mentor Strategis](#3-trajektori-pergeseran-peran-pendidik-dari-figur-lekat-in-loco-parentis-menuju-mentor-strategis)
-  - [4. Diskusi Akademis & Implikasi bagi Kebijakan Kepengasuhan Multi-Jenjang di Pesantren](#4-diskusi-akademis--implikasi-bagi-kebijakan-kepengasuhan-multi-jenjang-di-pesantren)
+  - [3. Pembedahan Deskriptif Komparatif Sepuluh Dimensi Perkembangan Santri](#3-pembedahan-deskriptif-komparatif-sepuluh-dimensi-perkembangan-santri)
+  - [4. Analisis Dinamika Transisi Antar-Jenjang & Mitigasi Hambatan Pertumbuhan](#4-analisis-dinamika-transisi-antar-jenjang--mitigasi-hambatan-pertumbuhan-growth-bottlenecks)
+  - [5. Protokol Aksi Operasional PBIS Multi-Tier Diferensiasi Lintas Jenjang](#5-protokol-aksi-operasional-pbis-multi-tier-diferensiasi-lintas-jenjang)
+  - [6. Diskusi Akademis & Implikasi Kebijakan Kepengasuhan Pesantren 24 Jam](#6-diskusi-akademis--implikasi-kebijakan-kepengasuhan-pesantren-24-jam)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Matriks Komparasi Lintas Jenjang J1–J4](#1-tabel-sintesis-matriks-komparasi-lintas-jenjang-j1j4)
   - [2. Daftar Pustaka Standar APA 7th & Turats Klasik](#2-daftar-pustaka-standar-apa-7th--turats-klasik)
@@ -154,16 +156,18 @@ Intervensi rekalibrasi kompetensi kepengasuhan ini menegakkan keadilan proporsio
 
 ### 1. Arsitektur Matriks Komparasi Lintas Jenjang J1, J2, J3, dan J4
 
+Perkembangan santri di ekosistem TUMBUH dibangun di atas prinsip *Tadarruj Syar'i* dan *Dynamic Scaffolding*, yang mengintegrasikan kesiapan neurobiologis otak remaja dengan tuntutan taklif syariat. Matriks ini memetakan transisi kematangan santri melintasi empat etape berurutan:
+
 ```mermaid
 flowchart TD
     subgraph ArsitekturMatriksEmpatJenjang["ARSITEKTUR PERGESERAN EMPAT JENJANG PERKEMBANGAN"]
-        J1Box["JENJANG J1: ADAPTASI & ORIENTASI (KELAS 7 / USIA 12–13)<br/>• Etape: Inisiasi Kehidupan Asrama & Safe Haven.<br/>• Kognisi: Operasional Konkret Menuju Abstrak Awal.<br/>• Moral: Kepatuhan Berbasis Rasa Aman & Kasih Sayang."]
+        J1Box["JENJANG J1: ADAPTASI & ORIENTASI (KELAS 7 / USIA 12–13 TAHUN)<br/>• Etape: Inisiasi Kehidupan Asrama & Pembentukan Safe Haven.<br/>• Kognisi: Operasional Konkret Menuju Abstrak Awal & Talaqqi Musyafahah.<br/>• Moral: Kepatuhan Berbasis Rasa Aman, Kasih Sayang, & Regulasi Sensorik."]
         
-        J2Box["JENJANG J2: HABITUASI DASAR (KELAS 8 / USIA 13–14)<br/>• Etape: Konsolidasi Rutinitas & Otomatisasi Ibadah 66 Hari.<br/>• Kognisi: Operasional Formal Awal & Regulasi Belajar.<br/>• Moral: Kepatuhan Berbasis Hukum & Ketertiban 5S."]
+        J2Box["JENJANG J2: HABITUASI DASAR (KELAS 8 / USIA 13–14 TAHUN)<br/>• Etape: Konsolidasi Rutinitas, Otomatisasi Ibadah 66 Hari, & Manajemen 5S.<br/>• Kognisi: Operasional Formal Awal & Regulasi Waktu Belajar Mandiri.<br/>• Moral: Kepatuhan Berbasis Kaidah Sosial, Ketertiban Kelompok, & Tanggung Jawab."]
         
-        J3Box["JENJANG J3: INTERNALISASI NILAI & SEL (KELAS 9–10 / USIA 15–16)<br/>• Etape: Kematangan Sosial-Emosional & Mukallaf Baligh.<br/>• Kognisi: Nalar Kritis Dialektis & Analisis Sosial.<br/>• Moral: Empati Prososial, Anti-Geng, & Restorative Buddy J1."]
+        J3Box["JENJANG J3: INTERNALISASI NILAI & SEL (KELAS 9–10 / USIA 15–16 TAHUN)<br/>• Etape: Kematangan Sosial-Emosional, Kesadaran Mukallaf Baligh, & Khidmah Komunitas.<br/>• Kognisi: Nalar Kritis Dialektis, Analisis 'Illat Fiqh, & Kepekaan Sosial Realistis.<br/>• Moral: Empati Prososial, Anti-Geng Feodal, & Pelindung Restoratif Adik Kelas J1."]
         
-        J4Box["JENJANG J4: KEMANDIRIAN & LEADERSHIP (KELAS 11–12 / USIA 17–18)<br/>• Etape: Servant Leadership Organisasi OPPM & Transisi Kampus.<br/>• Kognisi: Metakognisi Tinggi, Sintesis Ilmu, & Riset Peradaban.<br/>• Moral: Al-Itsar Sejati & Prinsip Etika Universal Pengabdian."]
+        J4Box["JENJANG J4: KEMANDIRIAN & LEADERSHIP (KELAS 11–12 / USIA 17–18 TAHUN)<br/>• Etape: Servant Leadership Organisasi OPPM, Riset Capstone, & Kesiapan Peradaban.<br/>• Kognisi: Metakognisi Tinggi, Sintesis Multidisiplin, & Karya Solutif Umat.<br/>• Moral: Al-Itsar Sejati, Integritas Tanpa Pengawasan, & Kepemimpinan Qudwah Paripurna."]
         
         J1Box ==> J2Box ==> J3Box ==> J4Box
     end
@@ -175,45 +179,133 @@ flowchart TD
 
 | Dimensi Parameter | Jenjang J1 (Kelas 7) | Jenjang J2 (Kelas 8) | Jenjang J3 (Kelas 9–10) | Jenjang J4 (Kelas 11–12) |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Ruhiyah & Ibadah** | Shalat 5 waktu tertib, tilawah 1 juz/hari, hafalan 1–2 juz mutqin. | Bangun shubuh mandiri jam 04.00, hafalan 3–4 juz, zikir pagi-petang. | Kesadaran mukallaf, qiyamullail mandiri, puasa sunnah, hafalan 5–6 juz. | Keikhlasan sejati (*Lillahi Ta'ala*), hafalan 7–10 juz (atau 30 juz), Al-Itsar. |
-| **2. Fisik & Higienitas 5S** | Cuci pakaian mandiri, merapikan kasur seketika bangun, kebersihan diri. | Standar 5S kamar tidur konsisten, sertifikasi P3K dasar luka ringan. | Kebugaran bela diri/panahan, sanitasi kamar 5S, evakuasi tanggap darurat. | Ketahanan fisik memimpin khidmah, 5S mandiri tanpa inspeksi, stamina prima. |
-| **3. Kognitif & Turats** | Nahwu-shorof dasar, membaca kitab matan berharakat, rapor $\ge 75.0$. | Belajar mandiri 60 menit, membaca kitab lanjutan, rapor $\ge 78.0$. | Nalar kritis problem sosial, qira'ah kitab kuning matan, rapor $\ge 80.0$. | Qira'ah kitab gundul lancar, Capstone Civilizational Project, rapor $\ge 85.0$. |
-| **4. Emosi & SEL** | Mengatasi homesickness $\le 40\text{ hari}$, rasa aman asrama (*Safe Haven*). | Regulasi diri mandiri (*Self-Monitoring*), konsistensi 66 hari. | 5 Kompetensi CASEL SEL, kontrol amarah (*Idaratul Ghadhab*). | Kematangan kepemimpinan bijaksana, ketahanan stres kampus (*Resilience*). |
-| **5. Dinamika Sebaya** | Adaptasi kawan sekamar, berbagi makanan, anti-ejekan fisik/verbal. | Tutor sebaya belajar kawan, piket dapur umum, persahabatan kamar. | Anti-geng kedaerahan, *Restorative Buddy* pelindung adik kelas J1. | Mengayomi seluruh santri junior, penegakan Zero-Bullying Policy 100%. |
-| **6. Khidmah & Pengabdian** | Khidmah kamar & rawat kawan sakit ($\ge 30\text{ Jam/Tahun}$). | Piket dapur umum & kebersihan fasilitas ($\ge 45\text{ Jam/Tahun}$). | Ekspedisi Santri Mengajar TPA Desa ($\ge 60\text{ Jam/Tahun}$). | Eksekusi Capstone Project & Pengabdian Desa ($\ge 75\text{ Jam/Tahun}$). |
-| **7. Peran Kepemimpinan** | Anggota kamar yang kooperatif (*Follower*). | Penanggung jawab regu piket kamar/dapur. | Koordinator Ekspedisi Desa & Kakak Asuh J1. | Pengurus Sentral Organisasi OPPM (*Servant Leader*). |
-| **8. Pola Asuh Musyrif** | *In Loco Parentis*: Pengasuh penuh kasih & pendamping langsung. | *Habituation Coach*: Pelatih kebiasaan & pengingat konsistensi. | *SEL Facilitator*: Konselor dialogis & pembimbing empati. | *Strategic Mentor*: Mentor kepemimpinan & pengarah visi karir. |
-| **9. Rasio Pengawasan** | $1\text{ Musyrif} : 12\text{ Santri}$ (Tidur 1 blok). | $1\text{ Musyrif} : 18\text{ Santri}$ (Monitoring kamar). | $1\text{ Musyrif} : 24\text{ Santri}$ (Fasilitasi program). | $1\text{ Musyrif} : 30\text{ Santri}$ (Mentoring otonom). |
-| **10. Ambang Gateway** | Skor SKA $\ge 2.50$; Life-skills tuntas. | Skor LMK $\ge 2.75$; 5S & P3K tuntas. | Skor SKE $\ge 3.00$; Buddy & TPA tuntas. | Skor RKK $\ge 3.25$; Capstone & Khidmah $\ge 210\text{ Jam}$. |
+| **1. Ruhiyah & Ibadah** | Shalat 5 waktu tertib berjamaah di saf awal, tilawah 1 juz/hari terbimbing, hafalan 1–2 juz mutqin, doa harian dasar. | Bangun shubuh mandiri pukul 04.00, hafalan 3–4 juz mutqin, zikir ma'tsurat pagi-petang, puasa sunnah Senin-Kamis terpola. | Kesadaran mukallaf penuh, qiyamullail mandiri 2x/pekan, puasa Daud/Ayyamul Bidh, hafalan 5–6 juz mutqin, tadabbur makna. | Keikhlasan sejati (*Lillahi Ta'ala*), qiyamullail istiqamah, hafalan 7–10 juz (atau 30 juz), khusyuk tanpa pengawasan musyrif. |
+| **2. Fisik & Higienitas 5S** | Cuci pakaian pribadi bertahap, merapikan kasur seketika bangun, kebersihan diri mandi 2x sehari, makan teratur. | Standar 5S kamar tidur konsisten, sertifikasi P3K dasar & sanitasi mandiri, olahraga aerobik 3x/pekan terjadwal. | Kebugaran bela diri/panahan/renang, sanitasi komunal kamar 5S, evakuasi tanggap darurat, manajemen gizi baligh. | Ketahanan fisik prima memimpin kerja bakti, 5S mandiri tanpa inspeksi musyrif, disiplin ergonomi & manajemen tidur sehat. |
+| **3. Kognitif & Turats** | Kaidah nahwu-shorof dasar, membaca kitab matan berharakat, penguasaan peta konsep belajar, rapor akademik $\ge 75.0$. | Belajar mandiri 60 menit/malam, membaca kitab syarah tingkat dasar, logika mantiq pemula, rapor akademik $\ge 78.0$. | Nalar kritis membedah isu sosial kontemporer, qira'ah kitab kuning matan tanpa harakat, debat ilmiah, rapor $\ge 80.0$. | Qira'ah kitab gundul lancar & istinbath hukum dasar, penyusunan *Capstone Civilizational Project*, rapor $\ge 85.0$. |
+| **4. Emosi & SEL** | Mengatasi homesickness $\le 40\text{ hari}$, membangun rasa aman (*Safe Haven*), identifikasi emosi dasar saat sedih/marah. | Regulasi diri mandiri (*Self-Monitoring*), konsistensi habit loop 66 hari, teknik de-eskalasi emosi pernapasan lambat. | Penguasaan 5 Kompetensi CASEL SEL, manajemen amarah (*Idaratul Ghadhab*), resiliensi menghadapi kegagalan target belajar. | Kematangan emosi kepemimpinan bijaksana, ketahanan stres tinggi (*Adversity Quotient*), kesiapan mental transisi universitas. |
+| **5. Dinamika Sebaya** | Adaptasi kawan lintas daerah, berbagi fasilitas kamar secara adil, zero ejekan fisik/verbal/daerah, empati sekamar. | Tutor sebaya belajar kelompok, piket dapur umum kooperatif, persahabatan sehat (*Suhbah Shalihah*), resolusi konflik kecil. | Penolakan mutlak geng kedaerahan, menjadi *Restorative Buddy* pelindung adik kelas J1, mediasi damai konflik teman sebaya. | Mengayomi seluruh santri junior, penegakan *Zero-Bullying Policy* 100%, menciptakan kultur ukhuwah inklusif di asrama. |
+| **6. Khidmah & Pengabdian** | Khidmah kebersihan kamar & merawat kawan sekamar yang sakit ($\ge 30\text{ Jam/Tahun}$). | Piket dapur umum, kebersihan masjid, & pemeliharaan taman pondok ($\ge 45\text{ Jam/Tahun}$). | Ekspedisi Santri Mengajar TPA Desa & bakti sosial warga sekitar pondok ($\ge 60\text{ Jam/Tahun}$). | Eksekusi proyek pemberdayaan umat *Capstone Project* di desa binaan ($\ge 75\text{ Jam/Tahun}$; Total Kumulatif $\ge 210\text{ Jam}$). |
+| **7. Peran Kepemimpinan** | Anggota kamar yang tertib, kooperatif, dan patuh pada kesepakatan (*Active Follower*). | Penanggung jawab regu piket kamar, koordinator kebersihan sektor asrama (*Team Leader*). | Koordinator Divisi Ekspedisi Desa, Ketua Tim Halaqah Sebaya, Mentor Asrama (*Facilitative Leader*). | Pengurus Sentral Organisasi Santri OPPM, Ketua Dewan Kehormatan Adab (*Servant Leader & Custodian of Values*). |
+| **8. Pola Asuh Musyrif** | *In Loco Parentis*: Pengasuh penuh kasih sayang, pendamping fisik langsung, figur lekat pengganti orang tua. | *Habituation Coach*: Pelatih kebiasaan terstruktur, pemandu CICO harian, pemberi penguatan positif rasio 4:1. | *SEL Dialogical Facilitator*: Konselor dialogis, fasilitator lingkaran restoratif, pembimbing empati dakwah. | *Strategic Leadership Mentor*: Mentor kepemimpinan peradaban, konsultan riset capstone, pengarah navigasi karir masa depan. |
+| **9. Rasio Pengawasan** | $1\text{ Musyrif} : 12\text{ Santri}$ (Kamar tidur berada dalam 1 blok lorong yang sama). | $1\text{ Musyrif} : 18\text{ Santri}$ (Monitoring kamar terstruktur & briefing berkala). | $1\text{ Musyrif} : 24\text{ Santri}$ (Fasilitasi program mandiri & observasi perilaku). | $1\text{ Musyrif} : 30\text{ Santri}$ (Mentoring otonom, refleksi mingguan, & supervisi manajerial). |
+| **10. Ambang Gateway** | Form SKA-F1 $\ge 2.50$; Ujian Life-Skills Dasar tuntas; Nihil residu homesickness akut. | Form LMK-F2 $\ge 2.75$; Sertifikasi 5S & P3K lulus; Konsistensi shalat shubuh $\ge 90\%$. | Form SKE-F3 $\ge 3.00$; Portofolio Buddy J1 & Khidmah TPA tuntas; Baligh screening valid. | Form RKK-F4 $\ge 3.25$; Munaqasyah Capstone Project $\ge 80.0$; Total Khidmah $\ge 210\text{ Jam}$. |
 
 ---
 
-### 3. Trajektori Pergeseran Peran Pendidik: Dari Figur Lekat (In Loco Parentis) Menuju Mentor Strategis
+### 3. Pembedahan Deskriptif Komparatif Sepuluh Dimensi Perkembangan Santri
+
+Setiap dimensi dalam matriks komparasi di atas merepresentasikan perubahan kualitatif yang mendalam pada struktur fisik, psikologis, sosial, dan spiritual santri:
+
+#### 1. Dimensi Ruhiyah & Ibadah: Dari Pengondisian Eksternal Menuju Otonomi Ikhlas
+* **Jenjang J1**: Fokus utama adalah desensitisasi kecemasan dan pembiasaan shalat 5 waktu tanpa beban traumatik. Musyrif membangunkan santri dengan sentuhan hangat, bukan siraman air atau bentakan. Santri belajar mencintai masjid sebagai pusat ketenangan.
+* **Jenjang J2**: Terjadi konsolidasi sirkuit kebiasaan (*Habit Loop 66 Hari*). Santri mulai mampu bangun sendiri dengan alarm internal dan menikmati puasa sunnah sebagai bagian dari identitas santri yang tangguh.
+* **Jenjang J3**: Masuknya fase baligh (*Ahkamut Taklif*) menggeser motivasi ibadah dari sekadar "menjalankan tata tertib pondok" menjadi "tanggung jawab pribadi di hadapan Allah SWT". Qiyamullail dilakukan secara mandiri atas dorongan kebutuhan spiritual jiwa.
+* **Jenjang J4**: Puncak kematangan ruhiyah, di mana ibadah telah menjadi sumber kekuatan hidup (*Thuma'ninah*). Santri beramal dengan asas *Al-Itsar* (mendahulukan orang lain) dan keikhlasan mutlak tanpa membutuhkan pengawasan atau pujian manusia.[^5]
+
+#### 2. Dimensi Fisik & Higienitas 5S: Penguasaan Raga dan Tata Ruang Kehidupan
+* **Jenjang J1**: Transisi kemandirian fisik mendasar (*Fundamental Life-Skills*). Santri diajarkan cara memilah pakaian kotor, mencuci dengan tangan/mesin secara efisien, menjemur dengan rapi, dan menjaga kebersihan loker pribadi.
+* **Jenjang J2**: Peningkatan standar menuju metodologi 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*). Kamar asrama bukan sekadar tempat tidur, melainkan laboratorium kerapian dan kebersihan yang bebas dari sarang kuman.
+* **Jenjang J3**: Integrasi kesehatan fisik dengan olahraga sunnah (bela diri, panahan, renang). Santri memiliki pemahaman tentang nutrisi seimbang, metabolisme tubuh pubertas, dan kesiapan pertolongan pertama pada kecelakaan (P3K).
+* **Jenjang J4**: Ketahanan fisik yang matang untuk memimpin kegiatan operasional pondok dan ekspedisi pengabdian masyarakat. Santri memiliki kesadaran ergonomi dan disiplin menjaga siklus sirkadian tidur sehat di tengah padatnya tugas kepengurusan.
+
+#### 3. Dimensi Kognitif & Turats: Dari Penyerapan Teks Menuju Rekonstruksi Solusi Peradaban
+* **Jenjang J1**: Menekankan transmisi ilmu berbasis *Talaqqi Musyafahah* dan hafalan teks-teks matan dasar (Jurumiyyah, Taisir Khalaq, Matan Jazariyyah). Tujuannya adalah memperkuat kapasitas memori kerja (*Working Memory Encoding*) dan pelafalan lisan yang presisi.
+* **Jenjang J2**: Santri mulai diajak menalar logika kausalitas hukum melalui kajian syarah dan pemetaan konsep visual (*Concept Mapping*). Santri dibimbing belajar mandiri secara terfokus selama 60 menit setiap malam.
+* **Jenjang J3**: Aktivasi nalar kritis dialektis (*Nazhar Burhani*). Santri membedah perbedaan pendapat fuqaha (*Ikhtilaf*), mengkaji teks kitab kuning gundul tingkat menengah, dan menghubungkannya dengan fenomena sosial di era digital.
+* **Jenjang J4**: Sintesis keilmuan tingkat tinggi melalui *Capstone Civilizational Project*. Santri wajib merumuskan karya ilmiah/proyek terapan berbasis Maqashid Syari'ah yang menyelesaikan masalah riil di masyarakat (misal: sistem ketahanan pangan desa, purifikasi air mandiri, atau kurikulum dakwah anak jalanan).
+
+#### 4. Dimensi Sosio-Emosional (CASEL SEL): Regulasi Diri dan Resiliensi Batin
+* **Jenjang J1**: Fokus pada resolusi *separation anxiety* (rindu rumah) dan validasi emosi. Santri dilatih mengenali nama-nama emosi (*Affect Labeling*) agar tidak melampiaskan stres menjadi agresi fisik atau isolasi diri.
+* **Jenjang J2**: Penguatan kontrol diri (*Self-Management*). Santri diajarkan teknik *Pause-Breathe-Reflect* saat mengalami kejengkelan di kamar tidur dan memonitor grafis kemajuan emosinya dalam lembar mutaba'ah harian.
+* **Jenjang J3**: Penguasaan penuh 5 kompetensi CASEL SEL (Self-Awareness, Self-Management, Social Awareness, Relationship Skills, Responsible Decision-Making). Santri memiliki empati mendalam untuk merasakan beban penderitaan kawan dan mampu mengelola amarah secara konstruktif (*Anger Sublimation*).
+* **Jenjang J4**: Kematangan mental tingkat tinggi (*Emotional Resilience & Wisdom*). Santri mampu menghadapi kritik keras dengan kepala dingin, memimpin musyawarah yang menegangkan tanpa permusuhan pribadi, dan siap mental menghadapi disrupsi dunia kampus.
+
+#### 5. Dimensi Dinamika Sebaya: Eradikasi Feodalisme Menuju Persaudaraan Inklusif
+* **Jenjang J1**: Belajar hidup bersama dalam keberagaman latar belakang suku dan bahasa. Santri dididik untuk tidak membentuk kubu-kubu eksklusif di kamar dan saling menghormati hak privasi kawan sekamar.
+* **Jenjang J2**: Pembentukan kelompok belajar suportif (*Study Circles*). Santri yang unggul dalam satu mata pelajaran secara sukarela menjadi tutor bagi kawannya yang mengalami kesulitan akademik.
+* **Jenjang J3**: Penugasan sebagai *Restorative Buddy* bagi santri baru J1. Santri J3 bertindak sebagai kakak asuh yang mendampingi, menghibur saat rindu rumah, dan melindungi santri J1 dari segala bentuk intimidasi.
+* **Jenjang J4**: Penjaga Konstitusi Anti-Kekerasan (*Custodians of Zero-Violence*). Pengurus J4 memastikan bahwa tidak ada satu pun tradisi perpeloncoan, pemalakan, atau sarkasme verbal yang hidup di lingkungan asrama.
+
+#### 6. Dimensi Khidmah & Pengabdian Sosial: Evolusi Jiwa Melayani
+* **Jenjang J1 (30 Jam/Tahun)**: Khidmah dimulai dari lingkaran terdekat: merawat kasur kawan sekamar yang sakit, menyapu koridor kamar tidur, dan membantu merapikan rak sandal masjid.
+* **Jenjang J2 (45 Jam/Tahun)**: Khidmah diperluas ke fasilitas umum pondok: piket dapur umum, mencuci piring nampan bersama, membersihkan selokan lingkungan asrama, dan memelihara perpustakaan.
+* **Jenjang J3 (60 Jam/Tahun)**: Khidmah menembus dinding pesantren menuju masyarakat sekitar: mengajar anak-anak desa di TPA binaan, membantu panen petani dhuafa, dan menyelenggarakan posko kesehatan lingkungan.
+* **Jenjang J4 (75 Jam/Tahun; Kumulatif $\ge 210$ Jam)**: Memimpin dan mengeksekusi proyek pengabdian peradaban berskala besar (*Capstone Civilizational Engagement*) yang dampaknya dirasakan langsung oleh masyarakat luas sebelum kelulusan.
+
+#### 7. Dimensi Peran Kepemimpinan: Tangga Menuju Servant Leader Sejati
+* **Jenjang J1**: Menjadi pengikut yang aktif dan beradab (*Exemplary Follower*). Kepatuhan lahir dari rasa hormat dan pemahaman makna tata tertib, bukan ketakutan.
+* **Jenjang J2**: Belajar memimpin kelompok kecil (*Small Team Leadership*). Mengkoordinasikan regu kebersihan kamar dan memastikan seluruh anggota regu bekerja dengan gembira dan adil.
+* **Jenjang J3**: Kepemimpinan fasilitatif (*Facilitative Leadership*). Memimpin forum diskusi santri, mengelola divisi kepanitiaan acara pondok, dan menjadi jembatan komunikasi antara adik kelas dan pengurus senior.
+* **Jenjang J4**: Kepemimpinan Pelayanan Paripurna (*Servant Leadership*). Mengemban amanah sebagai Pengurus Sentral OPPM (Organisasi Pelajar Pondok Modern) dengan moto hidup *Sayyidul Qaumi Khaadimuhum* (Pemimpin kaum adalah pelayan bagi mereka).
+
+#### 8. Dimensi Pola Asuh Musyrif: Transformasi Pendampingan Bersiklus 4 Tahun
+* **Jenjang J1 (*In Loco Parentis*)**: Musyrif mencurahkan 80% waktunya pada kehangatan pengasuhan fisik dan emosional: menyuapi santri saat demam, membacakan kisah hikmah sebelum tidur, dan memeluk santri yang menangis rindu keluarga.
+* **Jenjang J2 (*Habituation Coach*)**: Musyrif bertindak seperti pelatih disiplin positif: memberikan instruksi yang jelas, memverifikasi konsistensi jadwal, dan memberikan apresiasi tulus (*Praise for Effort*) dengan rasio 4 kebaikan berbanding 1 teguran.
+* **Jenjang J3 (*SEL Dialogical Facilitator*)**: Musyrif bertindak sebagai fasilitator dialog sokratik: duduk bersama santri dalam lingkaran restoratif (*Talking Circle*), membedah konflik antarkawan secara bijak, dan membimbing kematangan emosi baligh.
+* **Jenjang J4 (*Strategic Leadership Mentor*)**: Musyrif bertindak sebagai rekan diskusi strategis (*Executive Mentor*): mendampingi perumusan program kerja OPPM, membimbing riset masa depan, dan memberikan supervisi berbasis kepercayaan otonom.
+
+#### 9. Dimensi Rasio Pengawasan: Rekayasa Kedekatan Relasional 24 Jam
+* **Jenjang J1 (1:12)**: Rasio terketat karena santri J1 membutuhkan atensi individual tinggi. Kamar tidur musyrif berada di lorong yang sama persis dengan kamar santri J1 untuk menjamin keamanan 24 jam.
+* **Jenjang J2 (1:18)**: Rasio mulai dilonggarkan seiring tumbuhnya kemandirian rutinitas kamar tidur, dengan fokus pada monitoring jam-jam transisi kritis (Subuh, Maghrib, dan Jam Belajar Malam).
+* **Jenjang J3 (1:24)**: Pengawasan beralih dari inspeksi fisik menuju fasilitasi program dan observasi dinamika relasi sosial santri.
+* **Jenjang J4 (1:30)**: Rasio paling longgar di mana musyrif memposisikan diri sebagai konsultan, memberikan ruang kebebasan bertanggung jawab bagi santri senior untuk mengelola asrama secara mandiri.
+
+#### 10. Dimensi Ambang Gateway Kenaikan Tangga: Asesmen Pertumbuhan Non-Komparatif
+* **Jenjang J1 (Form SKA-F1 $\ge 2.50$)**: Menjamin tuntasnya adaptasi kehidupan asrama dan kemandirian mencuci pakaian/merawat diri sebelum melangkah ke jenjang habituasi.
+* **Jenjang J2 (Form LMK-F2 $\ge 2.75$)**: Menjamin otomatisasi shalat berjamaah 5 waktu dan ketuntasan standar 5S kamar tidur sebelum memasuki fase taklif baligh.
+* **Jenjang J3 (Form SKE-F3 $\ge 3.00$)**: Menjamin kematangan kecerdasan sosio-emosional, ketuntasan peran kakak asuh J1, dan pengabdian TPA desa sebelum diberi amanah kepemimpinan organisasi.
+* **Jenjang J4 (Form RKK-F4 $\ge 3.25$)**: Menjamin kelulusan munaqasyah Capstone Project, integritas moral otonom, dan akumulasi minimal 210 jam khidmah umat sebagai syarat mutlak wisuda kelulusan.
+
+---
+
+### 4. Analisis Dinamika Transisi Antar-Jenjang & Mitigasi Hambatan Pertumbuhan (*Growth Bottlenecks*)
+
+Perpindahan santri dari satu jenjang ke jenjang berikutnya kerap memicu goncangan adaptasi (*Developmental Transition Crises*). TUMBUH merumuskan protokol mitigasi transisi berbasis tahapan:
 
 ```mermaid
 flowchart TD
-    subgraph PergeseranPeranMusyrif["EVOLUSI PERAN PENDIDIK SEPANJANG J1–J4"]
-        P1["J1: IN LOCO PARENTIS (FIGUR LEKAT PENGGANTI IBU-AYAH)<br/>• Menyuapi saat sakit, menenangkan saat menangis, mendampingi cuci baju."]
+    subgraph DinamikaTransisiTUMBUH["MITIGASI TIGA ETAPE KRITIS TRANSISI PERKEMBANGAN"]
+        T1["TRANSISI 1: J1 -> J2 (KRISIS HOMESICKNESS KE RUTINITAS KERING)<br/>• Risiko: Kebosanan rutinitas & penurunan antusiasme ibadah pasca-adaptasi.<br/>• Mitigasi: Program 'Discovery Project' & rotasi peran piket kamar yang variatif."]
         
-        P2["J2: HABITUATION COACH (PELATIH KEBIASAAN OTONOM)<br/>• Memeriksa konsistensi 5S, memandu CICO harian, memberi apresiasi 4:1."]
+        T2["TRANSISI 2: J2 -> J3 (KRISIS PUBERTAS, HORMONAL, & KEBINGUNGAN IDENTITAS)<br/>• Risiko: Lonjakan emosi agresif, rasa ingin tahu seksualitas tabu, & godaan geng.<br/>• Mitigasi: Edukasi baligh privat oleh dokter/asatidz, sublimasi bela diri, & amanah Buddy J1."]
         
-        P3["J3: SEL DIALOGICAL FACILITATOR (FASILITATOR KEMATANGAN EMOSI)<br/>• Memimpin Restorative Talking Circle, membimbing empati dakwah desa."]
+        T3["TRANSISI 3: J3 -> J4 (KRISIS BEBAN TANGGUNG JAWAB & ANXIETY KAMPUS)<br/>• Risiko: Burnout kepengurusan OPPM, friksi antar-koordinator, & ketakutan ujian akhir.<br/>• Mitigasi: Coaching manajemen waktu Eisenhower, Retreat Muhasabah Kepemimpinan, & Career Clinic."]
         
-        P4["J4: STRATEGIC LEADERSHIP MENTOR (MENTOR KEPEMIMPINAN PERADABAN)<br/>• Mendiskusikan arah organisasi OPPM, membimbing Capstone, navigasi universitas."]
-        
-        P1 --> P2 --> P3 --> P4
+        T1 ==> T2 ==> T3
     end
 ```
 
 ---
 
-### 4. Diskusi Akademis & Implikasi bagi Kebijakan Kepengasuhan Multi-Jenjang di Pesantren
+### 5. Protokol Aksi Operasional PBIS Multi-Tier Diferensiasi Lintas Jenjang
 
-Penerapan matriks komparasi lintas jenjang ini menghadirkan keunggulan tata kelola:
+Sistem PBIS (*Positive Behavioral Interventions and Supports*) diterapkan dengan strategi diferensiasi yang disesuaikan dengan tingkat kematangan usia:
 
-1. **Kejelasan Standar Operasional Pengasuhan (SOP) Berbasis Usia**: Meniadakan kerancuan perlakuan musyrif dan menjamin perlakuan yang adil sesuai martabat perkembangan santri.
-2. **Harmonisasi Hubungan Antar-Angkatan Santri (*Inter-Cohort Synergy*)**: Menghapus total jurang permusuhan senioritas dan menggantinya dengan ekosistem saling asah, asih, dan asuh.
-3. **Penyempurnaan Sistem Penjaminan Mutu Lulusan Berkelanjutan**: Memastikan setiap tahapan perkembangan dilalui secara tuntas tanpa ada kompetensi fitrah yang terlewatkan.[^5]
+```mermaid
+flowchart TD
+    subgraph PBISMultiTierBerjenjang["PROTOKOL AKSI PBIS MULTI-TIER DIFERENSIASI LINTAS JENJANG"]
+        T1_PBIS["TIER 1 (UNIVERSAL - SELURUH SANTRI 100%)<br/>• J1: Matriks visual bergambar adab kamar & panduan life-skills di dinding.<br/>• J2: Kartu refleksi mutaba'ah 66 hari & reward sistem apresiasi 4:1.<br/>• J3: Lingkaran restoratif mingguan (Talking Circle) membahas isu empati.<br/>• J4: Piagam Integritas Otonom tanpa CCTV / inspeksi mendadak."]
+        
+        T2_PBIS["TIER 2 (TARGETED - 10-15% SANTRI BERISIKO)<br/>• J1-J2: Program CICO (Check-In Check-Out) fokus pada kedisiplinan bangun subuh & kebersihan loker.<br/>• J3-J4: Mentoring sebaya kelompok kecil (Suhbah Coaching) fokus pada manajemen stres & resolusi konflik kepengurusan."]
+        
+        T3_PBIS["TIER 3 (INTENSIVE - 1-5% SANTRI KASUS KHUSUS)<br/>• J1-J2: FBA terintegrasi konseling keluarga (Home-Pesantren Partnership) untuk kasus enuresis/homesickness kronis.<br/>• J3-J4: Restorative Family Group Conferencing untuk pelanggaran integritas berat dengan fokus restitusi adab nyata."]
+        
+        T1_PBIS ==> T2_PBIS ==> T3_PBIS
+    end
+```
+
+---
+
+### 6. Diskusi Akademis & Implikasi Kebijakan Kepengasuhan Pesantren 24 Jam
+
+Penerapan Matriks Komparasi Lintas Jenjang J1–J4 membawa paradigma baru dalam tata kelola pesantren:
+
+1. **Mendekonstruksi Tirani "One-Size-Fits-All" dalam Pendidikan Asrama**:  
+   Menyamakan aturan dan sanksi antara anak usia 12 tahun (J1) dan pemuda usia 18 tahun (J4) adalah bentuk kezaliman pedagogis (*Pedagogical Injustice*). Matriks ini mengembalikan prinsip keadilan proporsional syariat: memperlakukan setiap insan sesuai kadar kapasitas akal dan fitrah biologisnya (*Wadh'u asy-Syaf'i fi Mahallihi*).
+2. **Memutus Mata Rantai Kekerasan Antar-Generasi Santri (*Intergenerational Trauma Chain*)**:  
+   Dengan menempatkan santri J3 sebagai *Restorative Buddy* dan santri J4 sebagai *Servant Leader*, hierarki usia tidak lagi menjadi instrumen penindasan dan perpeloncoan, melainkan saluran kasih sayang, perlindungan, dan keteladanan akhlak.
+3. **Efisiensi Manajemen dan Perlindungan Musyrif dari Burnout**:  
+   Kejelasan rasio pengawasan (dari 1:12 hingga 1:30) dan spesifikasi peran musyrif menghindarkan tenaga pendidik dari kelelahan kronis. Musyrif J1 dapat fokus memberikan cinta kasih tanpa dibebani urusan manajerial berat, sementara musyrif J4 dapat fokus pada pendampingan strategis peradaban.[^6]
 
 ---
 

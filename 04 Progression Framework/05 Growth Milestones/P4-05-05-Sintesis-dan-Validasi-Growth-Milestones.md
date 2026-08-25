@@ -210,6 +210,40 @@ Meta-validasi sistem Growth Milestones ini memberikan kontribusi ilmiah фунд
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Sintesis & Validasi Growth Milestones
+
+Memastikan seluruh sistem milestone terhubung secara organik dan sahih:
+
+#### A. Pilar 1: Kalibrasi Validitas Konstruk & Reliabilitas Antar-Penilai (Inter-Rater Reliability)
+Dewan Keilmuan melakukan uji kalibrasi berkala bagi seluruh musyrif dan asatidz untuk menjamin kesamaan persepsi dalam menilai indikator rubrik.
+
+#### B. Pilar 2: Perlindungan dari Bias Subjektivitas & Favoritisme
+Sistem pengacakan penilai pada munaqasyah gateway menjamin tidak ada santri yang diuntungkan atau dirugikan oleh relasi personal dengan penguji.
+
+#### C. Pilar 3: Pemanfaatan Data untuk Penyempurnaan Kurikulum Pesantren
+Data agregat capaian milestone digunakan untuk mengevaluasi efektivitas program asrama dan melakukan perbaikan kurikulum secara berkesinambungan (*Data-Driven Decision Making*).
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Validasi Milestone
+
+```mermaid
+flowchart TD
+    subgraph PBISValidasiMilestone["PROTOKOL AKSI PBIS VALIDASI MILESTONES"]
+        T1["TIER 1: AUDIT DATA AGREGAT (SEMESTERAN)<br/>• Analisis persentase kelulusan gateway per angkatan (Target $\ge 90\%$).<br/>• Publikasi Laporan Kualitas Pertumbuhan Santri kepada Kiai & Pimpinan."]
+        
+        T2["TIER 2: RE-PELATIHAN ASESOR MUSYRIF<br/>• Pelatihan penyelarasan standar penilaian rubrik bagi pembina baru."]
+        
+        T3["TIER 3: PERBAIKAN STRUKTUR MODUL<br/>• Revisi indikator rubrik yang terbukti ambigu atau bias di lapangan."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

@@ -217,6 +217,43 @@ Penerapan kurikulum pembinaan sosial-emosional di Fase III menghasilkan dampak t
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Empat Pilar Kematangan Sosio-Emosional (Transisi Baligh J3)
+
+Fase kematangan sosio-emosional (Jenjang J3 / Kelas 9–10 / Usia 15–16 tahun) bertepatan dengan masa transisi biologis baligh (*Bulugh*) dan pematangan sirkuit limbik otak:
+
+#### A. Pilar 1: Kesadaran Mukallaf & Tanggung Jawab Moral Eksistensial
+Masuknya fase baligh menandai perubahan status hukum syariat santri menjadi *Mukallaf* (subjek hukum penuh). Ibadah dan kepatuhan adab tidak lagi dipandang sebagai aturan pondok, melainkan kontrak pertanggungjawaban personal di hadapan Allah SWT (*Inna 'Ahdallahi Kana Mas'ula*). Santri dibimbing memahami hakikat hisab akhirat dengan pendekatan cinta dan kesadaran, bukan ketakutan neurotik.
+
+#### B. Pilar 2: Regulasi Amarah & Sublimasi Dorongan Biopsikologis
+Lonjakan hormon testosteron dan estrogen pada masa pubertas memicu reaktivitas emosional yang tinggi. Santri J3 dibekali teknik *Anger Sublimation* (mengalihkan energi kemarahan melalui wudhu, diam, mengubah posisi tubuh, dan latihan bela diri/panahan). Pembina asrama mendampingi santri dengan keterbukaan dialogis mengenai dinamika perubahan fisik dan mimpi basah (*Ihtilam*) secara ilmiah dan syar'i tanpa tabu yang memalukan.
+
+#### C. Pilar 3: Internalisasi 5 Kompetensi CASEL SEL
+Santri menguasai secara praktis lima dimensi kecerdasan sosio-emosional: mengenali pemicu emosi diri (*Self-Awareness*), mengendalikan impulsivitas (*Self-Management*), memahami perasaan kawan lintas kamar (*Social Awareness*), berkomunikasi asertif tanpa agresi (*Relationship Skills*), dan mengambil keputusan moral berbasis maslahat (*Responsible Decision-Making*).
+
+#### D. Pilar 4: Peran Pengayom sebagai Restorative Buddy Santri Baru
+Santri J3 diberi tanggung jawab resmi sebagai *Restorative Buddy* bagi adik kelas J1. Peran ini mengikis naluri senioritas feodal dan menumbuhkan kapasitas *Empathic Altruism*: santri J3 belajar mendengarkan, menghibur saat adik kelas rindu rumah, dan menjadi teladan nyata di asrama.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier pada Fase Kematangan Sosio-Emosional
+
+```mermaid
+flowchart TD
+    subgraph PBISSELBaligh["PROTOKOL AKSI PBIS FASE KEMATANGAN SOSIO-EMOSIONAL (J3)"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI J3 100%)<br/>• Lingkaran Dialog Restoratif (Restorative Talking Circles) mingguan membahas empati & ukhuwah.<br/>• Program 'Santri Mengajar TPA Desa' sebagai laboratorium pengabdian sosial nyata."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI DENGAN FLUKTUASI EMOSI PUBERTAS)<br/>• Konseling kelompok sebaya 'Suhbah Tarbawiyyah' fokus pada manajemen amarah & citra diri.<br/>• Program mediasi restoratif difasilitasi konselor BK untuk resolusi perselisihan kawan."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI DENGAN KASUS KEKERASAN VERBAL / KRISIS IDENTITAS)<br/>• Intervensi FBA mendalam & konseling CBT-Naratif Islami untuk dekonstruksi pola agresif.<br/>• Restorative Conferencing melibatkan korban, pelaku, dan wali santri demi rekonsiliasi tuntas."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

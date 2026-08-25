@@ -208,6 +208,40 @@ Penerapan meta-teori trajektori biososial-spiritual ini menghasilkan lompatan pe
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Matriks Integrasi Trajektori Biososial-Spiritual Santri
+
+Trajektori pertumbuhan santri di ekosistem TUMBUH menyatukan tiga dimensi fitrah secara harmonis:
+
+#### A. Dimensi 1: Evolusi Biologis & Neurokognitif (Otak Remaja & Fisik)
+Pertumbuhan fisik dan otak santri bergerak dari dominasi sistem limbik emosional pada usia 12 tahun (J1) menuju pematangan *Dorsolateral Prefrontal Cortex (dlPFC)* pada usia 18 tahun (J4). Pendekatan didaktik diselaraskan dengan tahapan ini: dari instruksi konkret berbasis visual dan gerak kinestetik menuju penalaran abstrak tingkat tinggi dan sintesis ilmiah multidisiplin.
+
+#### B. Dimensi 2: Evolusi Sosiologis & Relasi Komunitas (Ukhuwah & Kepemimpinan)
+Relasi sosial santri berevolusi dari kebutuhan rasa aman kelompok kecil sekamar (J1), meluas ke persahabatan sebaya lintas kelas (J2), bergeser ke kepedulian masyarakat desa binaan (J3), hingga mencapai puncak aktualisasi kepemimpinan peradaban yang melayani umat luas (J4).
+
+#### C. Dimensi 3: Evolusi Spiritual & Kematangan Jiwa (*Tazkiyatun Nafs*)
+Trajektori spiritual santri mendaki tangga kesadaran fitrah: dari kepatuhan indrawi-lahiriah (*Al-Idrak al-Hissiy*), meningkat ke pemahaman logika syariat (*Al-Idrak al-'Aqliy*), merasuk ke dalam keheningan muraqabah kalbu (*Al-Idrak al-Qalbiy*), hingga memancar menjadi keteladanan akhlak paripurna (*Al-Idrak al-Kulliy / Insan Adabi*).
+
+---
+
+### 4. Protokol Integrasi Lembaga: Penyelarasan Kurikulum Sekolah, Asrama, dan Keluarga
+
+```mermaid
+flowchart TD
+    subgraph IntegrasiTripartitPesantren["PROTOKOL PENYELARASAN TRIPARTIT PERTUMBUHAN"]
+        Madrasah["1. MADRASAH (KURIKULUM TA'LIM)<br/>Mengawal perkembangan kognitif, literasi turats, & kecerdasan sains."]
+        Asrama["2. ASRAMA (KURIKULUM TARBIYAH & TA'DIB)<br/>Mengawal habituasi ibadah, higienitas 5S, & kematangan sosio-emosional 24 jam."]
+        Keluarga["3. KELUARGA (KEMITRAAN WALI SANTRI)<br/>Menjaga resonansi nilai saat liburan & memberikan dukungan cinta tanpa syarat."]
+        
+        Madrasah <===> Asrama
+        Asrama <===> Keluarga
+        Keluarga <===> Madrasah
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

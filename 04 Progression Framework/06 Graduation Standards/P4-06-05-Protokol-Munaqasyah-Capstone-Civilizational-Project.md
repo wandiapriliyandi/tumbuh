@@ -220,6 +220,40 @@ Penerapan protokol munaqasyah Capstone Project ini menghasilkan lompatan peradab
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Munaqasyah Capstone Civilizational Project
+
+Munaqasyah Capstone adalah ujian pamungkas pembuktian integrasi keilmuan dan kontribusi nyata santri:
+
+#### A. Pilar 1: Standar Mutu Karya Proyek Solutif Umat
+Proyek wajib memenuhi 3 kriteria utama: berakar pada dalil syariat (*Ashalah Syar'iyyah*), menggunakan metodologi ilmiah yang valid (*Rasa'il 'Ilmiyyah*), dan memberikan dampak kemanfaatan riil bagi masyarakat (*Manfa'ah 'Ammah*).
+
+#### B. Pilar 2: Sidang Munaqasyah Terbuka di Hadapan Pakar
+Santri mempresentasikan karya tulis dan prototipe di hadapan dewan penguji yang terdiri dari asatidz senior, dosen universitas mitra, dan tokoh masyarakat.
+
+#### C. Pilar 3: Publikasi Ilmiah & Replikasi Proyek
+Karya-karya terbaik dibukukan dalam *Jurnal Inovasi Santri TUMBUH* dan prototipe terapan diserahterimakan kepada desa binaan untuk dikelola secara berkelanjutan.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Munaqasyah Capstone
+
+```mermaid
+flowchart TD
+    subgraph PBISCapstone["PROTOKOL AKSI PBIS MUNAQASYAH CAPSTONE"]
+        T1["TIER 1: PENDAMPINGAN RISET 6 BULAN<br/>• Alokasi dosen/asatidz pembimbing 1-on-1 untuk setiap kelompok riset santri.<br/>• Sidang pra-munaqasyah untuk verifikasi metodologi dan data lapangan."]
+        
+        T2["TIER 2: TARGETED REMEDIATION (REVISI NASKAH KARYA TULIS)<br/>• Masa revisi 14 hari pasca-munaqasyah dengan bimbingan intensif pembimbing."]
+        
+        T3["TIER 3: PENGANUGERAHAN CAPSTONE EXCELLENCE AWARD<br/>• Apresiasi tertinggi bagi karya riset terbaik saat upacara wisuda kelulusan."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

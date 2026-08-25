@@ -209,6 +209,43 @@ Penerapan kontinuum penguasaan adab thalabul ilmi menghasilkan keunggulan perada
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Kontinuum Penguasaan Adab Thalabul Ilmi
+
+Penguasaan adab menuntut ilmu ditata melalui empat etape pendakian moral:
+
+#### A. Etape 1: Adab Diri & Kesucian Niat (Tahdzibun Niyyah)
+Santri memurnikan tujuan belajar semata-mata untuk mengangkat kebodohan dari diri sendiri, mengamalkan syariat, dan mengharap ridha Allah SWT, bukan demi popularitas atau perdebatan kusir.
+
+#### B. Etape 2: Adab Majelis & Penghormatan Guru (Ta'dzimul Asatidz)
+Menjaga adab duduk yang khusyuk di hadapan guru, tidak memotong pembicaraan, menyimak dengan tawadhu', dan mendoakan kebaikan bagi para asatidz dan ulama musannif kitab.
+
+#### C. Etape 3: Adab Kitab & Literasi Barakah (Hurmatul Kutub)
+Memuliakan kitab-kitab turats: tidak meletakkan kitab di lantai, memegang dalam keadaan suci, mencatat faedah ilmu dengan rapi, dan menjaga kelestarian fisik kitab.
+
+#### D. Etape 4: Pengamalan & Keteladanan Nyata (Al-'Amal bil 'Ilm)
+Setiap kaidah adab yang dipelajari diwujudkan dalam tindakan refleks: santri yang mengkaji bab kebersihan menjadi orang pertama yang membersihkan kamar mandi, santri yang mengkaji bab ukhuwah memuliakan kawan sekamar.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Adab Thalabul Ilmi
+
+```mermaid
+flowchart TD
+    subgraph PBISAdabIlmu["PROTOKOL AKSI PBIS PENGUASAAN ADAB THALABUL ILMI"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI MAJELIS)<br/>• Piagam Adab Majelis di setiap ruang kelas & pembacaan doa adab sebelum halaqah.<br/>• Apresiasi ketawadhu'an & ketertiban menyimak sorogan."]
+        
+        T2["TIER 2: TARGETED (SANTRI DENGAN INDIKASI ADAB LALAI)<br/>• Sesi refleksi adab 1-on-1 bersama ustadz pembina halaqah.<br/>• Penugasan khidmah merapikan dan membersihkan majelis taklim."]
+        
+        T3["TIER 3: INTENSIVE (KASUS KETIDAKSOPANAN EKSTREM KEPADA ASATIDZ)<br/>• Restorative Dialogue dipimpin Dewan Kiai untuk pemulihan takzim & taubat nasuha."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

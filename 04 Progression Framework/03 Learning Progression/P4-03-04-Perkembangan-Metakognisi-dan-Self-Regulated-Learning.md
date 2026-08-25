@@ -225,6 +225,40 @@ Penerapan sistem metakognisi dan SRL ini menghadirkan transformasi фундам�
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Metakognisi & Self-Regulated Learning Santri
+
+Kemandirian berpikir santri dibina melalui penguasaan keterampilan metakognitif tingkat tinggi:
+
+#### A. Pilar 1: Perencanaan Belajar Mandiri (Goal Setting & Planning)
+Santri menetapkan target belajar harian dan mingguan secara mandiri, memetakan tingkat kesulitan materi, dan mengalokasikan waktu belajar secara proporsional.
+
+#### B. Pilar 2: Monitoring Pemahaman Real-Time (Self-Monitoring)
+Santri dilatih mengajukan pertanyaan reflektif kepada diri sendiri: *"Apakah saya benar-benar memahami dalil ini atau hanya menghafal lafalnya? Di mana letak kelemahan argumentasi saya?"*.
+
+#### C. Pilar 3: Evaluasi & Adaptasi Strategi Kognitif (Self-Evaluation & Adaptation)
+Santri menganalisis hasil ujian atau evaluasi sorogan untuk memperbaiki cara belajar, merombak peta konsep, dan mencoba metode mnemonik yang lebih efektif.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Kemandirian Belajar
+
+```mermaid
+flowchart TD
+    subgraph PBISMetakognisi["PROTOKOL AKSI PBIS METAKOGNISI BELAJAR"]
+        T1["TIER 1: UNIVERSAL (100% SANTRI)<br/>• Jurnal Refleksi Metakognitif harian sebelum tidur selama 10 menit.<br/>• Pelatihan teknik belajar 'Feynman Technique' & 'Pomodoro Study Rhythm'."]
+        
+        T2["TIER 2: TARGETED (10-15% SANTRI DENGAN PROKRASTINASI TINGGI)<br/>• Coaching manajemen waktu Eisenhower Matrix bersama wali kelas.<br/>• Study buddy pairing di ruang belajar terpusat asrama."]
+        
+        T3["TIER 3: INTENSIVE (1-3% SANTRI DENGAN KECEMASAN AKADEMIK TINGGI)<br/>• Konseling reduksi stres akademik & rekonstruksi persepsi kegagalan (Growth Mindset)."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

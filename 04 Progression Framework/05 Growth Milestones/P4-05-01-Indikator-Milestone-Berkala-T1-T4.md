@@ -213,6 +213,43 @@ Penerapan indikator milestone berkala ini melahirkan dampak transformatif:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Indikator Milestone Berkala T1–T4
+
+Penilaian capaian tahapan berkala ditata melintasi empat checkpoint perkembangan:
+
+#### A. Milestone T1 (Semester 1–2): Tuntas Adaptasi & Kemandirian Dasar
+Santri membuktikan ketuntasan adaptasi emosional di asrama, mampu merawat diri dan pakaian secara mandiri, dan tertib shalat berjamaah 5 waktu di saf awal.
+
+#### B. Milestone T2 (Semester 3–4): Konsistensi Habituasi & 5S Mandiri
+Santri membuktikan otomatisasi bangun shubuh pukul 04.00, kelulusan standar 5S kamar tidur, sertifikasi P3K dasar, dan ketercapaian target hafalan minimal 4 juz mutqin.
+
+#### C. Milestone T3 (Semester 5–8): Kematangan SEL, Taklif Mukallaf, & Khidmah TPA
+Santri membuktikan kelulusan 5 kompetensi CASEL SEL, kelayakan menjadi Restorative Buddy bagi santri baru J1, dan pemenuhan minimal 60 jam khidmah mengajar TPA desa.
+
+#### D. Milestone T4 (Semester 9–12): Kepemimpinan Qudwah, Capstone, & Kesiapan Kampus
+Santri membuktikan keberhasilan kepengurusan sentral OPPM, munaqasyah Capstone Project dengan nilai minimal 80.0, dan akumulasi total minimal 210 jam khidmah umat.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Evaluasi Milestone
+
+```mermaid
+flowchart TD
+    subgraph PBISMilestone["PROTOKOL AKSI PBIS EVALUASI MILESTONE T1–T4"]
+        T1["TIER 1: UNIVERSAL (100% SANTRI)<br/>• Sidang Verifikasi Milestone semesteran berbasis data portofolio digital.<br/>• Penyematan Pin Milestone Kehormatan saat apel akbar."]
+        
+        T2["TIER 2: TARGETED (SANTRI TERTINGGAL 1 INDIKATOR GATEWAY)<br/>• Program Remediasi Terarah 'Milestone Clinic' selama 30 hari.<br/>• Mentoring personal bersama pembina asrama untuk melengkapi bukti portofolio."]
+        
+        T3["TIER 3: INTENSIVE (SANTRI TERTINGGAL MULTI-DIMENSI)<br/>• Sidang Pleno Pendampingan: Penjadwalan ulang gateway tanpa labelling negatif."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

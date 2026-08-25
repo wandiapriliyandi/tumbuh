@@ -210,6 +210,40 @@ Penerapan kurikulum integratif STEM-Diniyyah ini melahirkan dampak monumental:
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Integrasi Kurikulum Diniyyah dan Sains Kontemporer
+
+Penyatuan wahyu Al-Qur'an (*Ayat Tanziliyyah*) dan sains alam (*Ayat Kauniyyah*) menghapus dikotomi keilmuan sekuler:
+
+#### A. Pilar 1: Epistemologi Tauhidul Haqiqah
+Menegaskan bahwa alam semesta dan syariat berasal dari Pencipta yang Satu (Allah SWT), sehingga temuan sains yang shahih tidak akan pernah bertentangan dengan nash wahyu yang qath'i.
+
+#### B. Pilar 2: Laboratorium Terpadu Sains-Pesantren
+Mempelajari biologi melalui tadabbur ayat penciptaan manusia, mengkaji fisika melalui hukum keteraturan orbit planet (astronomi falak), dan mengkaji kimia melalui proses fermentasi halal-thayyib.
+
+#### C. Pilar 3: Solusi Peradaban Berbasis Maqashid Syari'ah
+Santri ditantang melahirkan karya inovasi sains-teknologi yang menjaga lima pilar Maqashid: *Hifzhud Din* (Agama), *Hifzhun Nafs* (Jiwa), *Hifzhul 'Aql* (Akal), *Hifzhun Nasl* (Keturunan), dan *Hifzhul Mal* (Harta).
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Kurikulum Terpadu
+
+```mermaid
+flowchart TD
+    subgraph PBISSainsDiniyyah["PROTOKOL AKSI PBIS INTEGRASI KURIKULUM"]
+        T1["TIER 1: UNIVERSAL (SELURUH KELAS PEMBELAJARAN)<br/>• Modul terintegrasi 'Sains Qur'ani' di setiap bab pelajaran madrasah.<br/>• Pameran Karya Sains & Turats Tahunan (Pesantren Science Fair)."]
+        
+        T2["TIER 2: TARGETED (SANTRI KLUB RISET & OLIMPIADE)<br/>• Bimbingan intensif metodologi riset ilmiah bersama dosen/peneliti tamu.<br/>• Laboratorium riset terapan buka hingga malam dengan supervisi guru sains."]
+        
+        T3["TIER 3: INTENSIVE (PENDAMPINGAN CAPSTONE PROJECT INOVASI UMAT)<br/>• Pendanaan seed-grant pesantren & inkubasi prototipe karya santri."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

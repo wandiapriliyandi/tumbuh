@@ -238,6 +238,40 @@ Penerapan protokol evaluasi mastery dan transkrip karakter resmi ini menghadirka
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Evaluasi Mastery & Transkrip Karakter PBIS
+
+Asesmen kematangan karakter santri dilaksanakan dengan prinsip validitas autentik:
+
+#### A. Pilar 1: Penilaian Kinerja Autentik (Authentic Performance Assessment)
+Mengukur karakter bukan melalui ujian kertas teoretis, melainkan melalui observasi perilaku nyata 24 jam dalam situasi alami (saat antre makan, piket kamar mandi, dan membantu kawan yang kesulitan).
+
+#### B. Pilar 2: Triangulasi Penilai 360 Derajat (Triangulated Assessment)
+Menggabungkan data penilaian diri santri (*Self-Assessment*), penilaian teman sekamar (*Peer Review*), catatan harian musyrif asrama, dan evaluasi guru madrasah.
+
+#### C. Pilar 3: Transkrip Karakter & Digital Badging
+Setiap lulusan menerima Transkrip Karakter PBIS resmi yang merinci profil penguasaan 10 Muwashafat, total jam khidmah masyarakat, dan sertifikasi keahlian hidup.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Evaluasi Mastery
+
+```mermaid
+flowchart TD
+    subgraph PBISEvaluasiMastery["PROTOKOL AKSI PBIS EVALUASI MASTERY"]
+        T1["TIER 1: UNIVERSAL (SELURUH SANTRI 100%)<br/>• Pengisian instrumen observasi perilaku harian via logbook digital musyrif.<br/>• Penerbitan Rapor Karakter Ipsatif setiap akhir semester."]
+        
+        T2["TIER 2: TARGETED (SANTRI DENGAN DISKREPANSI NILAI PENILAI)<br/>• Sesi rekonsiliasi nilai triangulasi bersama wali kelas & konselor BK."]
+        
+        T3["TIER 3: INTENSIVE (AUDIT VALIDITAS TRANSKRIP KELULUSAN)<br/>• Sidang Munaqasyah Dewan Asatidz untuk pengesahan transkrip kelulusan santri."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

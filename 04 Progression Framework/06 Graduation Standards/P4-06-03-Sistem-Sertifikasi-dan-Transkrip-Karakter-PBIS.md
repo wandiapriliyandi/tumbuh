@@ -238,6 +238,40 @@ Penerapan sistem sertifikasi dan transkrip karakter PBIS ini memberikan keunggul
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Sistem Sertifikasi & Transkrip Karakter PBIS
+
+Transkrip Karakter TUMBUH melengkapi ijazah akademik sebagai bukti autentik kematangan adab:
+
+#### A. Pilar 1: Standarisasi Skor Transkrip Karakter (Character GPA)
+Menghitung rata-rata kumulatif 10 Muwashafat Karakter sepanjang masa studi, disajikan dalam skala 4.00 dengan deskripsi naratif capaian adab.
+
+#### B. Pilar 2: Digital Badging & Sertifikat Keahlian Khusus
+Menerbitkan sertifikat digital terverifikasi (Sertifikat Tahfizh Mutqin, Sertifikat Instruktur P3K, Sertifikat Leader Ekspedisi Desa, dan Sertifikat Qira'ah Turats).
+
+#### C. Pilar 3: Pengakuan Nasional & Internasional
+Transkrip karakter dirancang berstandar internasional sehingga dapat dilampirkan dalam aplikasi beasiswa global dan rekrutmen institusi dakwah dan profesional.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Penerbitan Transkrip
+
+```mermaid
+flowchart TD
+    subgraph PBISTranskripKarakter["PROTOKOL AKSI PBIS PENERBITAN TRANSKRIP"]
+        T1["TIER 1: AUTOMATED TRANSCRIPT GENERATION<br/>• Agregasi data digital logbook 6 tahun menjadi dokumen transkrip resmi.<br/>• Pencetakan dokumen berkeamanan tinggi dengan QR code verifikasi publik."]
+        
+        T2["TIER 2: VERIFIKASI KEHORMATAN ADAB<br/>• Dewan Kehormatan Asatidz memvalidasi bahwa santri bersih dari catatan sanksi berat."]
+        
+        T3["TIER 3: LEGALISASI & WISUDA KELULUSAN<br/>• Penandatanganan basah oleh Pimpinan Pesantren dan Mudir Pengasuhan."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---

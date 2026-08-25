@@ -209,6 +209,40 @@ Penerapan sistem keteladanan qudwah dan anti-feodalisme menghadirkan lompatan pe
 
 ---
 
+---
+
+### 3. Pembedahan Deskriptif Sistem Keteladanan Qudwah & Eradikasi Feodalisme
+
+Membangun ekosistem asrama steril dari tradisi intimidasi dan kekerasan:
+
+#### A. Pilar 1: Keteladanan Tindakan Nyata (Qudwah bi Lisan al-Hal)
+Pendidik dan santri senior mendidik melalui perbuatan nyata: hadir paling awal di shaf shalat, merawat kebersihan fasilitas bersama, dan bertutur kata santun penuh kelembutan (*Al-Qaul al-Layyin*).
+
+#### B. Pilar 2: Dekonstruksi Hak Istimewa Senioritas (Eradikasi Feodalisme)
+Mengharamkan tradisi perpeloncoan, pemaksaan cuci baju junior, pemalakan barang kebutuhan pribadi (*ghashab* terselubung), dan sanksi fisik ilegal. Semua santri setara dalam martabat kemanusiaan.
+
+#### C. Pilar 3: Sistem Pelaporan Aman & Perlindungan Korban (Safe Whistleblowing)
+Menyediakan kotak aspirasi fisik dan kanal digital rahasia yang terhubung langsung ke Mudir Pengasuhan dan Konselor Perlindungan Anak, menjamin kerahasiaan 100% tanpa risiko aksi balas dendam.
+
+---
+
+### 4. Protokol Aksi Operasional PBIS Multi-Tier Keteladanan Qudwah
+
+```mermaid
+flowchart TD
+    subgraph PBISQudwah["PROTOKOL AKSI PBIS KETELADANAN QUDWAH & ZERO VIOLENCE"]
+        T1["TIER 1: PENCEGAHAN PRIMER (100% ASRAMA)<br/>• Deklarasi Piagam Pesantren Ramah Anak & Pakta Integritas Senior Anti-Bullying.<br/>• Patroli titik rawan (Hotspots Patrol) oleh musyrif pada jam-jam transisi."]
+        
+        T2["TIER 2: EARLY INTERVENTION (TANDA-TANDA SARKASME / EKSKLUSI SOSIAL)<br/>• Dialog restoratif dini di kamar tidur untuk mencegah eskalasi konflik."]
+        
+        T3["TIER 3: RESPONSE TO VIOLENCE (PELANGGARAN KEKERASAN FISIK/VERBAL)<br/>• Penghentian seketika, perlindungan psikologis korban, & sanksi restoratif proporsional bagi pelaku."]
+        
+        T1 ==> T2 ==> T3
+    end
+```
+
+---
+
 # BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
