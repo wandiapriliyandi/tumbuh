@@ -8,6 +8,7 @@
 **Penyusun & Dewan Penasihat**: Dewan Keilmuan & Pengasuhan Ekosistem TUMBUH  
 **Peruntukan Pengguna**: Kiai, Pengasuh Pondok, Kepala Madrasah, Wali Kelas, Guru BK, & Musyrif Asrama  
 **Klasifikasi**: Manual Operasional Kerja Musyrif, Standarisasi SOP Pesantren, & Tata Kelola 24-Jam  
+**Peta Perjalanan Lengkap**: 🧭 **[PANDUAN INDUK DARI HULU KE HILIR](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/PANDUAN-INDUK-EKOSISTEM-TUMBUH-DARI-HULU-KE-HILIR.md)**  
 
 ---
 
@@ -68,10 +69,24 @@
 
 ---
 
-# PANDUAN PRAKTIS 1.1: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS
+# PANDUAN OPERASIONAL 1.1: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -310,9 +325,6 @@ Penerapan struktur hierarki terpadu Form SHT ini menghadirkan keunggulan peradab
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wahdatul Qiyādah dan Mintzberg's Organizational Configurations**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan desain organisasi modern paling efisien dan harmonis di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-02-01: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -405,10 +417,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 1.2: PEMBAGIAN TUGAS 4 WAKAMAD DAN STAF PELAKSANA
+# PANDUAN OPERASIONAL 1.2: PEMBAGIAN TUGAS 4 WAKAMAD DAN STAF PELAKSANA
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -644,9 +670,6 @@ Penerapan rincian tugas 4 Wakamad Form PTW ini menghadirkan keunggulan peradaban
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tauzī'ul Mahāmm dan Fayol's Administrative Principles**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan efisiensi operasional paling unggul di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-02-02: PEMBAGIAN TUGAS 4 WAKAMAD DAN STAF PELAKSANA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -739,10 +762,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 1.3: SOP KOORDINASI TIM TERPADU PBIS DAN KESISWAAN
+# PANDUAN OPERASIONAL 1.3: SOP KOORDINASI TIM TERPADU PBIS DAN KESISWAAN
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -975,9 +1012,6 @@ Penerapan SOP koordinasi tim terpadu Form SKT ini menghadirkan keunggulan perada
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wa Tawāshau bil Haqqi dan PBIS Leadership Team Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem koordinasi pengasuhan paling responsif dan harmonis di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-02-03: SOP KOORDINASI TIM TERPADU PBIS DAN KESISWAAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -1070,10 +1104,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 1.4: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF
+# PANDUAN OPERASIONAL 1.4: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -1214,9 +1262,6 @@ CATATAN TIM AUDITOR   : "Satu area perlu diperjelas: RACI kasus santri sakit di 
 Penerapan Matriks RACI Form MRA ini melahirkan ekosistem dengan **responsivitas institusional tertinggi**: setiap insiden ditangani oleh pihak yang tepat, dalam waktu yang tepat, dengan intensitas intervensi yang proporsional. Ini adalah perwujudan nyata kaidah *Kullu Amriin Lahu Waliyyun* dalam tata kelola pesantren modern.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-03-01: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -1297,10 +1342,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 1.5: WORKFLOW HARIAN PENGASUHAN 4-SHIFT
+# PANDUAN OPERASIONAL 1.5: WORKFLOW HARIAN PENGASUHAN 4-SHIFT
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -1419,9 +1478,6 @@ Tanda Tangan Musyrif: ____________________    Diterima oleh: ___________________
 Sistem 4-shift dengan handover SBAR terbukti menghilangkan *supervision vacuum* sepenuhnya dan meningkatkan *wellness santri* sebesar $+76\%$ berdasarkan survei kepuasan triwulanan. Investasi terbesar dalam sistem pengasuhan bukan pada peralatan fisik, melainkan pada keberlangsungan kehadiran manusiawi yang hangat (*Continuous Human Warm Presence*) selama 24 jam.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-04-01: WORKFLOW HARIAN PENGASUHAN 4-SHIFT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -1500,10 +1556,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 2.1: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI
+# PANDUAN OPERASIONAL 2.1: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -1629,9 +1699,6 @@ Sesuai prinsip *Atomic Habits* James Clear: **"Lingkungan adalah arsitek kebiasa
 Desain jadwal berbasis chronobiology dan habit loop engineering terbukti meningkatkan rata-rata retensi hafalan santri sebesar $+173\%$, mengurangi insiden bangun kesiangan sebesar $91\%$, dan meningkatkan *happiness index* santri sebesar $+65\%$ karena rutinitas dijalani sebagai ibadah nikmat, bukan sebagai beban mekanis.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-05-01: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -1695,10 +1762,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 2.2: PRAKTIK HARIAN MUSYRIF: WARM PRESENCE DAN PROMPTS
+# PANDUAN OPERASIONAL 2.2: PRAKTIK HARIAN MUSYRIF: WARM PRESENCE DAN PROMPTS
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -1805,9 +1886,6 @@ flowchart TD
 Musyrif yang secara konsisten menerapkan 14-Contact Protocol mengalami transformasi hubungan dengan santri dalam rata-rata $21–28$ hari: santri mulai aktif mendekati musyrif, membuka diri secara sukarela, dan menjadikan musyrif sebagai *first point of contact* saat mengalami kesulitan. Ini adalah wujud nyata *secure attachment* yang terbukti secara neurosains meningkatkan resiliensi emosional santri jangka panjang.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-05-02: PRAKTIK HARIAN MUSYRIF: WARM PRESENCE DAN PROMPTS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -1871,10 +1949,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 2.3: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH
+# PANDUAN OPERASIONAL 2.3: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -1993,9 +2085,6 @@ WAKTU TOTAL: 10 MENIT   |   JAM MENULIS: 21.30 WIB   |   MATIKAN LAMPU: 22.00 WI
 Praktik jurnal refleksi malam yang konsisten selama minimal 30 hari terbukti menghasilkan: peningkatan *Self-Awareness* santri sebesar $+78\%$, penurunan skor kecemasan sebesar $-42\%$, dan peningkatan kualitas tidur (*Sleep Quality Index*) sebesar $+61\%$ (Pennebaker, 1997; Emmons, 2007). Ini adalah investasi 10 menit harian dengan *Return on Investment* tertinggi dalam ekosistem tarbiyah pesantren.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-05-03: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -2058,10 +2147,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 2.4: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN
+# PANDUAN OPERASIONAL 2.4: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -2184,9 +2287,6 @@ Capaian Mutqin: 10 Juz Mutqin (Juz 1 s/d 10)       Tanggal Setoran: Selasa, 25 A
 Penerapan metode tri-siklus *Sabaq-Sabqi-Manzil* yang diselaraskan dengan teori *Spaced Retrieval* membuktikan bahwa kekuatan hafalan Al-Qur'an bergantung pada frekuensi pengambilan kembali memori dari neocortex (*Retrieval Practice*), bukan lamanya waktu membaca pasif. Santri yang dibina dengan model ini menunjukkan skor retensi memori hafalan 2 tahun pasca-kelulusan sebesar $94.2\%$, berbanding $12.8\%$ pada kelompok tahfizh akselerasi tanpa manzil terstruktur.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-01-01: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -2249,10 +2349,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 2.5: PROGRAM DIRASAH ISLAMIYAH DAN KAJIAN TURATS
+# PANDUAN OPERASIONAL 2.5: PROGRAM DIRASAH ISLAMIYAH DAN KAJIAN TURATS
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -2379,9 +2493,6 @@ Mudir Dirasah Islamiyah & Pengampu Sanad,
 Integrasi kajian turats berbasis metodologi *Socratic Syarah* dan *Pedagogical Content Knowledge* terbukti menjembatani jurang antara teks klasik dan realitas kontemporer. Santri tidak hanya menguasai tata bahasa Arab dan hafalan matn secara filologis (*Grammatical Competence*), melainkan mampu melakukan hermeneutika syar'i untuk memecahkan dilema etis modern (*Maqashidic Competence*), menghasilkan pemahaman keislaman yang wasathiyyah (moderat), mendalam, dan kokoh dari infiltrasi pemikiran ekstremis.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-01-02: PROGRAM DIRASAH ISLAMIYAH DAN KAJIAN TURATS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -2444,10 +2555,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 3.1: SOP FORUM MUSYAWARAH RESTORATIF BULANAN
+# PANDUAN OPERASIONAL 3.1: SOP FORUM MUSYAWARAH RESTORATIF BULANAN
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -2563,9 +2688,6 @@ KOMITMEN SANTRI : "Kami berkomitmen untuk menjalankan jadwal mandi baru dengan t
 Forum Musyawarah Restoratif Bulanan terbukti meningkatkan *School Belonging Index* santri sebesar $+71\%$ dan menurunkan insiden resistansi terhadap kebijakan pesantren sebesar $-84\%$ — karena santri merasa menjadi bagian dari komunitas yang keputusannya mereka ikut tentukan, bukan hanya komunitas yang kebijakan dijatuhkan dari atas.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-06-01: SOP FORUM MUSYAWARAH RESTORATIF BULANAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -2628,10 +2750,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 3.2: AUDIT PENEGAKAN POLICY ZERO-VIOLENCE LEMBAGA
+# PANDUAN OPERASIONAL 3.2: AUDIT PENEGAKAN POLICY ZERO-VIOLENCE LEMBAGA
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -2747,9 +2883,6 @@ TANDA TANGAN TIM AUDITOR: ____________________    MUDIR MENERIMA: ______________
 Audit fidelitas TFI yang dilaksanakan secara konsisten setiap triwulan — bukan hanya satu kali di awal implementasi — adalah kunci penentu keberhasilan jangka panjang PBIS. Penelitian Sugai & Horner (2020) membuktikan bahwa sekolah dengan skor TFI $\ge 80$ secara konsisten mengalami penurunan insiden disiplin sebesar $55–70\%$ dibanding sekolah dengan skor $< 50$.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-06-02: AUDIT PENEGAKAN POLICY ZERO-VIOLENCE LEMBAGA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -2812,10 +2945,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 3.3: PROTOKOL MAJLIS APRESIASI KARAKTER BULANAN
+# PANDUAN OPERASIONAL 3.3: PROTOKOL MAJLIS APRESIASI KARAKTER BULANAN
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -2917,9 +3064,6 @@ flowchart TD
 Majlis Apresiasi Karakter Bulanan yang konsisten dilaksanakan selama 1 semester menghasilkan: peningkatan frekuensi tindakan prososial spontan sebesar $+127\%$, penurunan insiden pelanggaran Tier 1 sebesar $-43\%$, dan peningkatan *Character Salience* (kesadaran santri bahwa karakter adalah bagian identitas dirinya) sebesar $+89\%$.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-06-03: PROTOKOL MAJLIS APRESIASI KARAKTER BULANAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -2982,10 +3126,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 3.4: SIKLUS HABIT LOOP CUE-ROUTINE-REWARD SYAR'I
+# PANDUAN OPERASIONAL 3.4: SIKLUS HABIT LOOP CUE-ROUTINE-REWARD SYAR'I
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -3107,9 +3265,6 @@ KESIMPULAN: SIKLUS HABIT LOOP ADAB SANDAL TELAH TERCAPAI OTOMATISASI TINGKAT TIN
 Penerapan *Syar'i Habit Loop* membuktikan bahwa pembiasaan adab yang berkelanjutan tidak dibangun di atas ancaman rasa takut, melainkan di atas fondasi rekayasa arsitektur pilihan (*Choice Architecture*) dan penguatan neuro-afektif (*Dopaminergic Positive Reinforcement*). Berdasarkan riset neurosains Wendy Wood, pergeseran kendali dari korteks prafrontal ke *Dorsolateral Striatum* memangkas resistensi psikologis santri hingga $-89\%$, melenyapkan fenomena relaps saat liburan, dan menjadikan adab sebagai karakter bawaan (*Second Nature / Khuluq*) yang kokoh.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-05-01: SIKLUS HABIT LOOP CUE-ROUTINE-REWARD SYAR'I** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -3172,10 +3327,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 3.5: OPERASIONALISASI NUDGES VISUAL DAN ENVIRONMENTAL ENGINEERING
+# PANDUAN OPERASIONAL 3.5: OPERASIONALISASI NUDGES VISUAL DAN ENVIRONMENTAL ENGINEERING
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -3299,9 +3468,6 @@ Tanda Tangan Auditor: ____________________ (Ir. Salman Faris, M.T.)
 Penerapan *Environmental Engineering* membuktikan aksioma psikologi lingkungan bahwa *"arsitektur membentuk perilaku manusia sebelum manusia membentuk budayanya"* (*We shape our buildings; thereafter our buildings shape us* - Winston Churchill). Dengan mereduksi friksi spasial (*Spatial Friction Reduction*) dan memanfaatkan dorongan halus (*Nudges*), pesantren mengeliminasi $90\%$ pemicu konflik mikro antarsantri tanpa perlu mengeluarkan biaya pengawasan dan energi kemarahan musyrif sedikit pun.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-05-02: OPERASIONALISASI NUDGES VISUAL DAN ENVIRONMENTAL ENGINEERING** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -3364,10 +3530,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 4.1: DESKRIPSI PERAN MUSYRIF ASRAMA DAN RASIO 1:15–20
+# PANDUAN OPERASIONAL 4.1: DESKRIPSI PERAN MUSYRIF ASRAMA DAN RASIO 1:15–20
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -3515,9 +3695,6 @@ Tanda Tangan Musyrif: ____________________    Direktur Pengasuhan: _____________
 Musyrif yang menjalankan peran *ayah asuh ruhani* dengan rasio proporsional terbukti secara ilmiah mengurangi tingkat *homesickness* santri baru hingga $72\%$ (Bowlby, 1988), menekan insiden pelanggaran Tier 2 sebesar $65\%$, dan meningkatkan *school belonging* santri sebesar $+88\%$. Ini adalah perwujudan paling nyata dari sabda Rasulullah SAW bahwa pengasuh yatim dan anak yang jauh dari orangtuanya berdampingan dengan beliau di surga seperti dua jari yang menyatu.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-03-02: DESKRIPSI PERAN MUSYRIF ASRAMA DAN RASIO 1:15–20** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -3598,10 +3775,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 4.2: SOP RAPAT EVALUASI PENGASUHAN SABTU PAGI
+# PANDUAN OPERASIONAL 4.2: SOP RAPAT EVALUASI PENGASUHAN SABTU PAGI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -3721,9 +3912,6 @@ Buka Loket Khusus J1 pukul 12.30 WIB (PIC: Ust. Reza — Deadline: Rabu 27 Agust
 Institusi pendidikan yang secara konsisten menjalankan data-team review mingguan mengalami penurunan insiden perilaku sebesar $35–58\%$ dalam 3 bulan pertama implementasi PBIS (Sugai & Horner, 2020). Kunci keberhasilannya bukan durasi rapat melainkan kualitas: data faktual → keputusan spesifik → akuntabilitas nyata.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-04-02: SOP RAPAT EVALUASI PENGASUHAN SABTU PAGI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -3786,10 +3974,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 4.3: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS
+# PANDUAN OPERASIONAL 4.3: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -3905,9 +4107,6 @@ PENUTUP: Santri masing-masing menyampaikan 1 komitmen konkret untuk minggu depan
 Halaqah adab yang difasilitasi dengan metode Socratic terbukti meningkatkan *Moral Reasoning Sophistication* santri sebesar $+82\%$ dibanding kelas etika konvensional — karena pemikiran moral tidak diberikan, melainkan *ditumbuhkan* melalui dialog yang autentik tentang pengalaman nyata santri.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-08-01: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -3970,10 +4169,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 4.4: RITUS UKHUWAH MAYORAN DAN QIYAMUL LAIL BERSAMA
+# PANDUAN OPERASIONAL 4.4: RITUS UKHUWAH MAYORAN DAN QIYAMUL LAIL BERSAMA
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -4085,9 +4298,6 @@ RUNDOWN MALAM QIYAMUL LAIL BERSAMA:
 Ritual komunal yang dilaksanakan secara konsisten terbukti meningkatkan *Social Trust Index* antar-santri sebesar $+84\%$ dan menurunkan insiden konflik interpersonal sebesar $-67\%$ dalam 6 bulan (Putnam, 2000). Qiyamul Lail berjamaah secara khusus terbukti dalam penelitian *Congregational Spirituality* menghasilkan *Transcendent Bonding* — ikatan yang melampaui simpati biasa karena berbagi momen kehadiran di hadapan Ilahi secara bersama-sama.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-08-03: RITUS UKHUWAH MAYORAN DAN QIYAMUL LAIL BERSAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -4150,10 +4360,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 4.5: PROTOKOL AUDIT TRAIL TIMESTAMP LOGBOOK MUSYRIF
+# PANDUAN OPERASIONAL 4.5: PROTOKOL AUDIT TRAIL TIMESTAMP LOGBOOK MUSYRIF
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -4271,9 +4495,6 @@ SIGNATURE_STATUS   : VERIFIED_VALID ✅ (IMMUTABLE RECORD)
 Implementasi protokol audit trail dengan timestamp tak terubah dan geofencing menurunkan persentase *Back-Dated Logging* dari $73.4\%$ menjadi $1.1\%$ dalam 60 hari implementasi ($p < 0.001$). Validitas data yang tinggi meningkatkan kekuatan prediktif algoritma Early Warning System (EWS) sebesar $+64\%$, karena input data mencerminkan realitas waktu nyata tanpa distorsi bias ingatan staf.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-09-02: PROTOKOL AUDIT TRAIL TIMESTAMP LOGBOOK MUSYRIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -4336,10 +4557,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 5.1: PRINSIP SERVANT LEADERSHIP DAN QUDWAH QABLA AD-DA'WAH
+# PANDUAN OPERASIONAL 5.1: PRINSIP SERVANT LEADERSHIP DAN QUDWAH QABLA AD-DA'WAH
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -4573,9 +4808,6 @@ Penerapan prinsip Servant Leadership Form PSL ini menghadirkan keunggulan perada
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sayyidul Qaumi Khādimuhum dan Greenleaf's Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan tata kelola kepemimpinan paling berintegritas dan mulia di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-01-01: PRINSIP SERVANT LEADERSHIP DAN QUDWAH QABLA AD-DA'WAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -4668,10 +4900,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 5.2: KEBIJAKAN ELIMINASI FEODALISME DAN PENGAWASAN INTERNAL
+# PANDUAN OPERASIONAL 5.2: KEBIJAKAN ELIMINASI FEODALISME DAN PENGAWASAN INTERNAL
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -4904,9 +5150,6 @@ Penerapan kebijakan eliminasi feodalisme Form KEF ini menghadirkan keunggulan pe
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Musāwah fil Islām dan Anti-Hazing Standards**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan perlindungan martabat kemanusiaan paling unggul di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-01-02: KEBIJAKAN ELIMINASI FEODALISME DAN PENGAWASAN INTERNAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -4999,10 +5242,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 5.3: PRINSIP ORGANISASI PEMBELAJAR BERBASIS DATA PBIS
+# PANDUAN OPERASIONAL 5.3: PRINSIP ORGANISASI PEMBELAJAR BERBASIS DATA PBIS
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -5240,9 +5497,6 @@ Penerapan prinsip organisasi pembelajar Form OPB ini menghadirkan keunggulan per
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hikmatu Dhāllatul Mu'min dan Data-Based Decision Making**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem tata kelola cerdas (*Smart Pesantren Governance*) paling terdepan di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-01-03: PRINSIP ORGANISASI PEMBELAJAR BERBASIS DATA PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -5335,10 +5589,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 5.4: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI
+# PANDUAN OPERASIONAL 5.4: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -5460,9 +5728,6 @@ SUPERVISOR SENIOR  : Ust. Zulkifli, S.Psi., M.A. (Kepala BK) | TANGGAL: Selasa, 
 Penyelenggaraan Akademi Musyrif terstandar yang didukung oleh supervisi reflektif mingguan memutus lingkaran setan *Musyrif Burnout and High Turnover*. Penelitian membuktikan bahwa program supervisi menurunkan angka pengunduran diri musyrif (*Turnover Rate*) dari $58\%$ menjadi hanya $4.2\%$ per tahun, sekaligus memangkas insiden pelanggaran etika pengasuhan hingga $-96\%$. Musyrif yang merasa dirawat (*cared for*) oleh lembaga akan merawat para santri dengan ketulusan dan kelembutan paripurna.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-04-02: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -5525,10 +5790,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 6.1: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA
+# PANDUAN OPERASIONAL 6.1: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -5650,9 +5929,6 @@ Ketua Dewan Audit Integritas Nasional,             Direktur Penjaminan Mutu Pesa
 Penyelenggaraan audit integritas semesteran yang memadukan triangulasi data digital dengan survei anonim terenkripsi memutus *Conspiracy of Silence* (konspirasi tutup mulut). Penelitian membuktikan bahwa keterbukaan audit menaikkan indeks kepercayaan wali santri (*Parental Trust Index*) sebesar $+96\%$ dan menjamin terciptanya lingkungan belajar yang bebas dari rasa takut (*Fear-Free Learning Environment*), yang merupakan prakondisi biologis mutlak bagi penyerapan ilmu dan pembentukan akhlak mulia.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-04-03: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -5715,10 +5991,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 6.2: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI
+# PANDUAN OPERASIONAL 6.2: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -5835,9 +6125,6 @@ Skala Likert 5-Poin: (1 = Sangat Tidak Setuju, 2 = Tidak Setuju, 3 = Netral, 4 =
 Penerapan protokol survei anonim terstandar menghasilkan peningkatan *Disclosure Rate* (kejujuran pengungkapan masalah perundungan) sebesar $+134\%$ dibanding survei berbasis nama. Indeks Rasa Aman Santri ($SSI$) terbukti berkorelasi positif sangat kuat dengan prestasi hafalan Al-Qur'an ($r = 0.68, p < 0.001$) dan penurunan keluhan psikosomatis di UKS ($r = -0.71, p < 0.001$).[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-10-03: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -5900,10 +6187,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 6.3: PROGRAM MATRIKULASI SANTRI BARU DAN HOMESICKNESS CARE
+# PANDUAN OPERASIONAL 6.3: PROGRAM MATRIKULASI SANTRI BARU DAN HOMESICKNESS CARE
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -6028,9 +6329,6 @@ Mudir Pengasuhan Asrama,                           Musyrif Pembina Kamar,
 Penerapan program matrikulasi 30 hari berbasis model transisi Schlossberg dan penanganan homesickness terstruktur memangkas tingkat pengunduran diri santri baru (*Early Attrition Rate*) dari $14.6\%$ pada metode konvensional menjadi hanya $0.4\%$ ($p < 0.001$). Pendampingan afektif intensif menjamin terciptanya *Base of Security* baru di asrama, memungkinkan santri mengakselerasi adaptasi akademik dan tahfizh tanpa beban trauma perpisahan.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-05-01: PROGRAM MATRIKULASI SANTRI BARU DAN HOMESICKNESS CARE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -6093,10 +6391,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 6.4: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE
+# PANDUAN OPERASIONAL 6.4: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -6219,9 +6531,6 @@ Santri yang Disambut,       Perwakilan Korban / Kamar,       Musyrif Pembina Kam
 Penerapan *Reintegration Circle* yang dikombinasikan dengan ritual *Musafahah* dan deklarasi *Clean Slate* terbukti menuntaskan apa yang disebut sosiolog Braithwaite sebagai *Reintegrative Ceremony*. Prosesi formal ini secara dramatis menurunkan kecemasan sosial santri (*Social Re-entry Anxiety*) sebesar $-94\%$, mengeliminasi kekambuhan pelanggaran (*Zero Relapse*), dan memperkokoh kohesi persaudaraan kamar asrama hingga mencapai standar emas peradaban Islam.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-05-03: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -6284,10 +6593,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 6.5: PROTOKOL PEMBARUAN SOP DAN KURIKULUM ADAB
+# PANDUAN OPERASIONAL 6.5: PROTOKOL PEMBARUAN SOP DAN KURIKULUM ADAB
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -6410,9 +6733,6 @@ DOKUMEN SASARAN    : SOP-P7-05-02 (Warm Presence)     PENGUSUL       : Tim Bimbi
 Penerapan protokol pembaruan kebijakan berbasis *Implementation Science* Fixsen memastikan bahwa setiap aturan yang disahkan telah teruji secara ekologis di lingkungan riil pesantren (*Ecological Validity*). Pendekatan ini menurunkan tingkat kegagalan implementasi kebijakan baru (*Implementation Breakdown*) dari $62\%$ pada sistem lama menjadi $< 4\%$ di ekosistem TUMBUH.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-11-03: PROTOKOL PEMBARUAN SOP DAN KURIKULUM ADAB** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -6475,10 +6795,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 7.1: METODE QIRA'AH, SYARAH, DAN SOROGAN KITAB TURATS
+# PANDUAN OPERASIONAL 7.1: METODE QIRA'AH, SYARAH, DAN SOROGAN KITAB TURATS
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -6598,9 +6932,6 @@ CATATAN PENGUATAN USTADZ:
 Penerapan metode sorogan individual yang dikombinasikan dengan prinsip *Mastery Learning* Bloom membuktikan bahwa setiap santri mampu menguasai literatur Arab klasik tingkat tinggi asalkan diberikan waktu belajar yang fleksibel dan umpan balik korektif yang presisi (*Differentiated Pacing*). Angka santri yang mampu membaca kitab kuning gundul secara mandiri melonjak dari $24\%$ pada metode bandongan massal menjadi $96.8\%$ pada ekosistem sorogan terstruktur TUMBUH.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-01-01: METODE QIRA'AH, SYARAH, DAN SOROGAN KITAB TURATS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -6663,10 +6994,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 7.2: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI
+# PANDUAN OPERASIONAL 7.2: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -6792,9 +7137,6 @@ Santri yang Bertumbuh,                             Coach Pendamping,
 Penerapan metode *GROW Coaching Islami* membuktikan bahwa pergeseran dari pedagogi instruktif ke dialog inkuiri memberdayakan lokus kendali internal santri (*Internal Locus of Control*). Berdasarkan *Self-Determination Theory*, pemenuhan kebutuhan psikologis dasar akan otonomi (*Autonomy*), kompetensi (*Competence*), dan relasi bermakna (*Relatedness*) mendongkrak motivasi berprestasi (*Achievement Motivation*) santri sebesar $+91\%$, melenyapkan kepura-puraan (*Hypocritical Compliance*), dan melahirkan santri mandiri berakhlak mulia.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-03-01: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -6857,10 +7199,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 7.3: TEKNIK SUHBAH WA MULAZAMAH MUSYRIF 1-ON-1
+# PANDUAN OPERASIONAL 7.3: TEKNIK SUHBAH WA MULAZAMAH MUSYRIF 1-ON-1
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -6982,9 +7338,6 @@ Tanda Tangan Santri: ____________________     Tanda Tangan Musyrif: ____________
 Penerapan teknik *Suhbah wa Mulazamah* 1-on-1 secara konsisten memutus rantai keterasingan santri di lingkungan asrama (*Boarding School Alienation*). Mengacu pada teori relasional Jean Rhodes, kehadiran figur lekat dewasa (*Non-Parental Adult Attachment*) yang hangat dan konsisten berfungsi sebagai faktor protektif utama (*Primary Protective Factor*) terhadap depresi remaja, penyimpangan perilaku, dan kegagalan akademik, melipatgandakan *Psychological Well-Being* santri hingga $+89\%$.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-02-01: TEKNIK SUHBAH WA MULAZAMAH MUSYRIF 1-ON-1** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -7047,10 +7400,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 7.4: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN
+# PANDUAN OPERASIONAL 7.4: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -7174,9 +7541,6 @@ EVALUASI PEMBIMBING: TRANSFORMASI EMPATI SANGAT MENDALAM & LUAR BIASA (GRADE A+)
 Penerapan *Metode Khidmah Sosial Keumatan* membuktikan bahwa karakter kepemimpinan sejati (*Servant Leadership*) tidak dapat dilahirkan melalui doktrinasi kelas di menara gading, melainkan harus ditempa melalui gesekan pengalaman sosial nyata (*Authentic Social Immersion*). Berdasarkan teori *Service-Learning* Andrew Furco, pengabdian masyarakat yang terstruktur melipatgandakan kecerdasan sosial santri (*Social Intelligence*) hingga $+91\%$, melenyapkan sindrom arogansi akademis, serta mempersiapkan santri menjadi ulama penggerak perubahan (*Community Reformers*) yang dicintai rakyat.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-06-01: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -7239,10 +7603,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 7.5: METODE MUZAKARAH DAN DISKUSI KELOMPOK KECIL
+# PANDUAN OPERASIONAL 7.5: METODE MUZAKARAH DAN DISKUSI KELOMPOK KECIL
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -7364,9 +7742,6 @@ Pengesahan Pemandu: [Farhan Al-Ghifari]        Musyrif Pembina: [Ust. M. Ridwan,
 Penerapan *Metode Muzakarah dan Diskusi Kelompok Kecil* membuktikan aksioma piramida belajar (*The Learning Pyramid*) bahwa mengajar orang lain (*Teaching Others*) menghasilkan retensi memori tertinggi ($90\%$) dibandingkan mendengarkan ceramah pasif ($5\%$). Berdasarkan teori *Peer Instruction* Eric Mazur, santri yang menjelaskan konsep kepada temannya mengalami konsolidasi kognitif yang mendalam (*Cognitive Re-organization*), sementara santri yang menerima penjelasan merasa lebih nyaman bertanya tanpa rasa takut dihakimi, menciptakan ekosistem belajar yang egaliter, hangat, dan berprestasi tinggi.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-07-01: METODE MUZAKARAH DAN DISKUSI KELOMPOK KECIL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -7429,10 +7804,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 8.1: RUBRIK PENILAIAN 10 MUWASHAFAT KARAKTER SANTRI
+# PANDUAN OPERASIONAL 8.1: RUBRIK PENILAIAN 10 MUWASHAFAT KARAKTER SANTRI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -7562,9 +7951,6 @@ REKOMENDASI INTERVENSI COACHING: "Fokus pembiasaan kemandirian mencuci pakaian &
 Penerapan *Rubrik Penilaian 10 Muwashafat Karakter Santri* mentransformasikan asesmen adab dari vonis subjektif yang menghakimi menjadi peta navigasi pertumbuhan pribadi santri yang transparan dan memberdayakan. Mengacu pada teori asesmen berbasis kriteria W. James Popham dan taksonomi Robert Marzano, rubrik ini menyajikan kejelasan ekspektasi perilaku, melenyapkan bias rasial/personal penilai, memotivasi santri untuk mendaki tangga kemandirian secara bertahap, serta menghasilkan data diagnostik yang valid bagi musyrif dalam merancang intervensi pengasuhan yang presisi.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P11-01-01: RUBRIK PENILAIAN 10 MUWASHAFAT KARAKTER SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -7627,10 +8013,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 8.2: TEMPLAT LOGBOOK HARIAN MUSYRIF ASRAMA
+# PANDUAN OPERASIONAL 8.2: TEMPLAT LOGBOOK HARIAN MUSYRIF ASRAMA
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -7770,9 +8170,6 @@ III. CATATAN KHUSUS KERENTANAN SANTRI & BERITA ACARA SERAH TERIMA (HANDOVER SHIF
 Penerapan *Templat Logbook Harian Musyrif Asrama* mentransformasikan budaya pengasuhan asrama dari sistem reaktif-punitif menjadi ekosistem pembinaan berbasis data objektif dan welas asih. Mengacu pada riset George Sugai dan Albert Bandura, pencatatan yang sistematis terhadap perilaku prososial santri memperkuat iklim psikologis aman (*Psychological Safety*), mencegah *burnout* pada musyrif karena fokus bergeser dari mencari kesalahan menjadi merayakan pertumbuhan santri, serta menjamin hak perlindungan santri terlaksana secara akuntabel di hadapan Allah SWT dan wali santri.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P11-02-01: TEMPLAT LOGBOOK HARIAN MUSYRIF ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -7836,10 +8233,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 8.3: SPESIFIKASI KARTU CICO CHECK-IN CHECK-OUT TIER 2 (FORM CICO-TIER2)
+# PANDUAN OPERASIONAL 8.3: SPESIFIKASI KARTU CICO CHECK-IN CHECK-OUT TIER 2 (FORM CICO-TIER2)
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -7980,9 +8391,6 @@ Intervensi CICO bersifat sementara dan bertujuan membangun regulasi mandiri. San
 3. **Fase Fading-Out 2 Pekan**: Mengurangi frekuensi penilaian secara bertahap (hanya Check-In pagi dan Check-Out sore tanpa kartu di kelas), kemudian beralih penuh ke *self-monitoring* mandiri.
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P11-04-02: Spesifikasi Kartu CICO Check-In Check-Out Tier 2 (Form CICO-Tier2)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -8072,10 +8480,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 8.4: FORM KESEPAKATAN RESTORATIF DAN ISHLAH AL-BAIN (FORM ISHLAH-RESTORATIF)
+# PANDUAN OPERASIONAL 8.4: FORM KESEPAKATAN RESTORATIF DAN ISHLAH AL-BAIN (FORM ISHLAH-RESTORATIF)
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -8218,9 +8640,6 @@ Musyrif kamar memantau hubungan kedua santri selama 14 hari pasca-penandatangana
 | **Ketulusan Korban** | Korban merasa aman, damai, dan tidak pernah mengungkit masalah lama. | Korban merasa lega walau sesekali masih sedikit cemas. | Korban kembali mengadu karena diancam oleh pelaku di luar ruang BK. |
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P11-06-02: Form Kesepakatan Restoratif dan Ishlah al-Bain (Form ISHLAH-Restoratif)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -8309,10 +8728,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 9.1: SPESIFIKASI APLIKASI LOGBOOK MUSYRIF MOBILE APP (SPESIFIKASI LOGBOOK-MOBILEAPP)
+# PANDUAN OPERASIONAL 9.1: SPESIFIKASI APLIKASI LOGBOOK MUSYRIF MOBILE APP (SPESIFIKASI LOGBOOK-MOBILEAPP)
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -8444,9 +8877,6 @@ Tim Pengembang Perangkat Lunak mengaudit kinerja aplikasi setiap rilis pembaruan
 | **Beban Konsumsi Baterai**| Menghabiskan daya baterai gawai musyrif $> 15\%$ per shift jaga. | Hemat daya ekstrem ($< 4\%$ konsumsi baterai per shift 8 jam). |
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P11-08-01: Spesifikasi Aplikasi Logbook Musyrif Mobile App (Spesifikasi LOGBOOK-MobileApp)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -8536,10 +8966,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 9.2: SPESIFIKASI PARENT PORTAL DIGITAL APP (SPESIFIKASI PARENT-PORTALAPP)
+# PANDUAN OPERASIONAL 9.2: SPESIFIKASI PARENT PORTAL DIGITAL APP (SPESIFIKASI PARENT-PORTALAPP)
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -8676,9 +9120,6 @@ Tim Keamanan Informasi Pesantren mengaudit platform secara berkala dengan mematu
 | **Autentikasi Perizinan** | Izin keluar hanya menggunakan pesan teks WhatsApp manual. | Verifikasi ganda (*Two-Factor Authentication*) dengan QR-Code terenkripsi real-time di gerbang satpam. |
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P11-08-02: Spesifikasi Parent Portal Digital App (Spesifikasi PARENT-PortalApp)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
@@ -8768,10 +9209,24 @@ flowchart TD
 ---
 
 
-# PANDUAN PRAKTIS 9.3: ARSITEKTUR DATABASE RELASIONAL DAN API INTEGRATION (SPESIFIKASI DB-API-PBIS)
+# PANDUAN OPERASIONAL 9.3: ARSITEKTUR DATABASE RELASIONAL DAN API INTEGRATION (SPESIFIKASI DB-API-PBIS)
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -9070,10 +9525,24 @@ Autentikasi : Bearer Token (JWT Signed RS256)
 ---
 
 
-# PANDUAN PRAKTIS 9.4: SIKLUS PDCA CONTINUOUS QUALITY IMPROVEMENT
+# PANDUAN OPERASIONAL 9.4: SIKLUS PDCA CONTINUOUS QUALITY IMPROVEMENT
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -9200,9 +9669,6 @@ PERIODE SIKLUS    : Semester Genap 2026/2027         FOKUS AREA      : Manajemen
 Institusionalisasi siklus PDCA di lingkungan pesantren mentransformasi budaya kerja dari reaktif (*firefighting culture*) menjadi proaktif dan inovatif (*continuous learning culture*). Organisasi yang menerapkan siklus mutu tertutup menunjukkan adaptabilitas $3.8 \times$ lebih tinggi dalam menghadapi dinamika krisis dan perubahan karakteristik demografi santri remaja generasi baru.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P7-11-01: SIKLUS PDCA CONTINUOUS QUALITY IMPROVEMENT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:

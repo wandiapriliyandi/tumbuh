@@ -1,7 +1,21 @@
-# PANDUAN PRAKTIS 5.2: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
+# PANDUAN OPERASIONAL 5.2: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `CABANG & DAUN EKOSISTEM (Intervensi Berjenjang PBIS & Disiplin Restoratif 3R)`
+* **Peruntukan Pengguna**: Musyrif Pembina, Tim Penegak Disiplin Restoratif, Guru BK, & Wali Santri
+* **Fokus Panduan**: Menangani masalah perilaku secara berjenjang (Tier 1 Pencegahan, Tier 2 Bimbingan CICO, Tier 3 Bimbingan Khusus) dan Ishlah al-Bain tanpa kekerasan.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -240,9 +254,6 @@ Penerapan SOP Restorative Circles Form SRC ini menghadirkan keunggulan peradaban
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Majālisul Ishlāh dan Peacemaking Circles Process**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai ekosistem pendidikan Islam dengan manajemen konflik komunal terbaik di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P6-07-02: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:

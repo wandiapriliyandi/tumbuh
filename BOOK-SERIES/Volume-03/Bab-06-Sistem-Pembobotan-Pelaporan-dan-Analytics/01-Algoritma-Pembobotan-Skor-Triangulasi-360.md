@@ -1,7 +1,21 @@
-# PANDUAN PRAKTIS 6.1: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
+# PANDUAN OPERASIONAL 6.1: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `BATANG EKOSISTEM II (Asesmen Perkembangan Karakter & Evaluasi 360° Berbasis Bukti)`
+* **Peruntukan Pengguna**: Tim Asesmen Karakter, Wali Kelas, Musyrif Asrama, & Konselor BK
+* **Fokus Panduan**: Memantau laju kemajuan personal santri (Asesmen Ipsatif) tanpa ranking/labeling, triangulasi data 3 poros, dan penyusunan Rapor Naratif Karakter.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -252,9 +266,6 @@ Penerapan algoritma pembobotan skor triangulasi Form MAT ini menghadirkan keungg
 3. **Penyempurnaan Penjaminan Mutu Berbasis Generalizability Theory dan Kaidah Syariat**: Menjadikan sistem pelaporan karakter TUMBUH sebagai model skoring kepribadian paling akurat dan adil di dunia.[^5]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P5-10-01: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:

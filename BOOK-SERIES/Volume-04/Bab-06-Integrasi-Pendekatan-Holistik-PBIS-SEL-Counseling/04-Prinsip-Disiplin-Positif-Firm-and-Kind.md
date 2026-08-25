@@ -1,7 +1,21 @@
-# PANDUAN PRAKTIS 6.4: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
+# PANDUAN OPERASIONAL 6.4: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `CABANG & DAUN EKOSISTEM (Intervensi Berjenjang PBIS & Disiplin Restoratif 3R)`
+* **Peruntukan Pengguna**: Musyrif Pembina, Tim Penegak Disiplin Restoratif, Guru BK, & Wali Santri
+* **Fokus Panduan**: Menangani masalah perilaku secara berjenjang (Tier 1 Pencegahan, Tier 2 Bimbingan CICO, Tier 3 Bimbingan Khusus) dan Ishlah al-Bain tanpa kekerasan.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -115,9 +129,6 @@ CATATAN KETELADANAN:
 Penerapan prinsip *Firm and Kind* secara konsisten di lingkungan asrama 24 jam memutus transmisi trauma antargenerasi (*Intergenerational Trauma Transmission*). Penelitian Jane Nelsen (2006) membuktikan bahwa remaja yang dibina dengan disiplin positif memiliki tingkat kepatuhan sukarela (*Internalized Compliance*) sebesar $+84\%$ lebih tinggi, tingkat harga diri akademik (*Academic Self-Esteem*) $+72\%$ lebih kuat, dan kecenderungan agresi $-88\%$ lebih rendah dibanding remaja dari lingkungan otoriter.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P8-05-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:

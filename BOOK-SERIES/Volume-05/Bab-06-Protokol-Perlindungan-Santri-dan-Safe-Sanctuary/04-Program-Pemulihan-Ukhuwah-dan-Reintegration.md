@@ -1,7 +1,21 @@
-# PANDUAN PRAKTIS 6.4: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE
+# PANDUAN OPERASIONAL 6.4: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -124,9 +138,6 @@ Santri yang Disambut,       Perwakilan Korban / Kamar,       Musyrif Pembina Kam
 Penerapan *Reintegration Circle* yang dikombinasikan dengan ritual *Musafahah* dan deklarasi *Clean Slate* terbukti menuntaskan apa yang disebut sosiolog Braithwaite sebagai *Reintegrative Ceremony*. Prosesi formal ini secara dramatis menurunkan kecemasan sosial santri (*Social Re-entry Anxiety*) sebesar $-94\%$, mengeliminasi kekambuhan pelanggaran (*Zero Relapse*), dan memperkokoh kohesi persaudaraan kamar asrama hingga mencapai standar emas peradaban Islam.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-05-03: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:

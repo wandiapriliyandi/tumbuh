@@ -1,7 +1,21 @@
-# PANDUAN PRAKTIS 5.4: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI
+# PANDUAN OPERASIONAL 5.4: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -123,9 +137,6 @@ SUPERVISOR SENIOR  : Ust. Zulkifli, S.Psi., M.A. (Kepala BK) | TANGGAL: Selasa, 
 Penyelenggaraan Akademi Musyrif terstandar yang didukung oleh supervisi reflektif mingguan memutus lingkaran setan *Musyrif Burnout and High Turnover*. Penelitian membuktikan bahwa program supervisi menurunkan angka pengunduran diri musyrif (*Turnover Rate*) dari $58\%$ menjadi hanya $4.2\%$ per tahun, sekaligus memangkas insiden pelanggaran etika pengasuhan hingga $-96\%$. Musyrif yang merasa dirawat (*cared for*) oleh lembaga akan merawat para santri dengan ketulusan dan kelembutan paripurna.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P9-04-02: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:

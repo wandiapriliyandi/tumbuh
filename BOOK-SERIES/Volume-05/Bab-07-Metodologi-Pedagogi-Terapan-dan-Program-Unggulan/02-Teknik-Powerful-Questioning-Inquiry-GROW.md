@@ -1,7 +1,21 @@
-# PANDUAN PRAKTIS 7.2: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI
+# PANDUAN OPERASIONAL 7.2: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI
 
-**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
-**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+---
+
+### 🧭 PETA POSISI PANDUAN DALAM SISTEM TUMBUH (DARI HULU KE HILIR)
+* **Posisi Arsitektur**: `HILIR OPERASIONAL (Manual SOP Musyrif 24-Jam, Standar Kamar 5S, & Anti-Burnout)`
+* **Peruntukan Pengguna**: Musyrif Asrama, Kepala Asrama, Staf Kebersihan & Gizi, serta Pimpinan Operasional
+* **Fokus Panduan**: Menjalankan rutinitas harian 24 jam santri (Subuh–Malam), ritme tidur sehat 7 jam, shift kerja musyrif manusiawi, dan pemanfaatan Logbook Digital.
+* **Hasil Akhir yang Dituju**: Terwujudnya santri berkarakter *Insan Adabi* yang mandiri, musyrif yang mengasuh dengan kasih sayang tanpa *burnout*, dan pesantren yang aman berbasis data (*Safe Boarding School*).
+
+---
+
+### 🎯 Mengapa Panduan Ini Ada & Masalah Nyata yang Dipecahkan
+1. **Latar Masalah di Lapangan**: Sering kali pengasuhan di pesantren berjalan tanpa SOP yang jelas atau terjebak dalam pola reaktif—menunggu santri berbuat salah baru dihukum dengan emosional.
+2. **Solusi Sistem TUMBUH**: Panduan ini memberikan langkah preventif dan terstruktur agar setiap pembiasaan adab berjalan terencana, konsisten, dan terukur.
+3. **Sasaran Perubahan**: Memastikan nilai-nilai Islam menyatu dalam perilaku harian santri melalui keteladanan nyata (*Qudwah Hasanah*).
+
+---
 
 ---
 
@@ -127,9 +141,6 @@ Santri yang Bertumbuh,                             Coach Pendamping,
 Penerapan metode *GROW Coaching Islami* membuktikan bahwa pergeseran dari pedagogi instruktif ke dialog inkuiri memberdayakan lokus kendali internal santri (*Internal Locus of Control*). Berdasarkan *Self-Determination Theory*, pemenuhan kebutuhan psikologis dasar akan otonomi (*Autonomy*), kompetensi (*Competence*), dan relasi bermakna (*Relatedness*) mendongkrak motivasi berprestasi (*Achievement Motivation*) santri sebesar $+91\%$, melenyapkan kepura-puraan (*Hypocritical Compliance*), dan melahirkan santri mandiri berakhlak mulia.[^4]
 
 ---
-
----
-
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
 Penerapan dan operasionalisasi **P10-03-01: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
