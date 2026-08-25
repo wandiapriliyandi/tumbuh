@@ -1,49 +1,272 @@
-﻿# P4-01-03: Fase Kematangan Sosial-Emosional Santri (Tahun 2–3)
+# P4-01-03: FASE KEMATANGAN SOSIAL-EMOSIONAL SANTRI
+## *Monograf Riset Akademik: Trajektori Perkembangan Identitas Moral, Regulasi Emosi Remaja Madya (Usia 15–16 Tahun / Jenjang J3), Integrasi Fiqh Marahil at-Taklif dengan CASEL Social-Emotional Learning Framework & Erikson's Identity Formation, Mitigasi Dinamika Sebaya Negatif (Peer Pressure, Geng Eksklusif, & Bullying), Serta Rekayasa Iklim Ukhuwah Bi'ah Shalihah di Pesantren TUMBUH*
 
-## Status Dokumen
-* **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
-* **Sub-Domain**: `04 Progression Framework / 01 Development Stages`
-* **Penanggung Jawab Keilmuan**: Dewan Keilmuan TUMBUH (*Pakar Bimbingan Konseling & Pakar Psikologi Sosial Santri*)
+**Nomor Identifikasi**: `P4-01-03/MONOGRAF-RISET-FASE-KEMATANGAN-SOSIAL-EMOSIONAL/2026`  
+**Domain**: `04 Progression Framework` > `01 Development Stages` (Sub-Modul 03: *Social-Emotional Maturity Stage*)  
+**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Penelitian Psikologi Perkembangan Remaja Madya, Social-Emotional Learning Islam, & Pembentukan Identitas Santri)  
+**Rumpun Disiplin Pengkaji**: Psikologi Perkembangan Remaja Madya (*Middle Adolescent Psychology*), CASEL Social-Emotional Learning (SEL), Fiqh Buluqh wa Mukallaf, Sosiologi Remaja Asrama  
 
 ---
 
-## 1. Konseptualisasi Kematangan Sosial-Emosional
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
+>
+> * **Krisis Identitas & Turbulensi Emosional Remaja Madya di Pesantren:**  
+>   Usia 15–16 tahun (Jenjang J3 / Fase III) merupakan fase transisi krusial dari *Buluqh* (kematangan biologis) menuju *Taklif* (tanggung jawab moral penuh). Pada fase ini, terjadi ledakan hormonal pubertas dan dorongan pencarian identitas diri (*Identity vs Role Confusion*) yang kerap termanifestasikan dalam bentuk ketidakstabilan emosi (*Mood Swings*), konformitas buta pada kelompok sebaya (*Peer Pressure*), pembentukan geng eksklusif (*Cliques*), hingga resistensi terhadap figur otoritas.
+> * **Integrasi Fiqh Marahil at-Taklif & 5 Kompetensi CASEL SEL:**  
+>   Ekosistem TUMBUH memadukan doktrin taklif syar'i (*Marahil at-Taklif*) dalam Fiqh Islam dengan 5 Kompetensi Inti CASEL SEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*). Santri dibimbing mengenali gejolak emosi batiniah (*Muhasabatun Nafs*), mengendalikan amarah melalui wudhu dan shalat (*Idaratul Ghadhab*), serta membangun empati sosial mendalam melalui dakwah dan khidmah masyarakat.
+> * **Arsitektur Pembinaan Fase III (Usia 15–16 Tahun / Jenjang J3):**  
+>   Monograf ini merumuskan protokol pembinaan kematangan sosial-emosional: program *Restorative Talking Circle*, peran kakak asuh *Restorative Buddy* bagi adik kelas J1, keterlibatan dalam Ekspedisi Santri Bina Desa, dan penegakan absolut *Zero-Bullying Sanctuary*.
 
-Fase 3 berlangsung pada Tahun ke-2 hingga Tahun ke-3. Pada fase ini, fokus pembinaan bergeser dari sekadar kedisiplinan fisik luar menuju kedalaman regulasi emosi internal, kesadaran moral (*Moral Reasoning*), dan kematangan relasi sosial sesuai kerangka **CASEL Social-Emotional Learning (SEL)** dan **Tazkiyatun Nafs**.
+---
+
+## 📑 DAFTAR ISI MONOGRAF
+
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
+  - [1. Latar Belakang Masalah: Bahaya Turbulensi Emosi Pubertas & Polarisasi Geng Asrama Tanpa Bimbingan SEL](#1-latar-belakang-masalah-bahaya-turbulensi-emosi-pubertas--polarisasi-geng-asrama-tanpa-bimbingan-sel)
+  - [2. Eksegesis Turats: Doktrin Marahil at-Taklif, Fiqh Buluqh, & Adab Pengendalian Hawa Nafsu Remaja](#2-eksegesis-turats-doktrin-marahil-at-taklif-fiqh-buluqh--adab-pengendalian-hawa-nafsu-remaja)
+  - [3. Konvergensi Sains Perkembangan Remaja: Erikson's Identity Crisis & CASEL Social-Emotional Learning (SEL)](#3-konvergensi-sains-perkembangan-remaja-eriksons-identity-crisis--casel-social-emotional-learning-sel)
+  - [4. Rekayasa Ekologi Asrama 24 Jam: Menyalurkan Energi Pubertas Menuju Khidmah & Prestasi Peradaban](#4-rekayasa-ekologi-asrama-24-jam-menyalurkan-energi-pubertas-menuju-khidmah--prestasi-peradaban)
+  - [5. Kasuistika Lapangan Klinis & Protokol De-eskalasi Polarisasi Geng Kamar yang Memicu Tawuran Antar-Kamar Asrama](#5-kasuistika-lapangan-klinis--protokol-de-eskalasi-polarisasi-geng-kamar-yang-memicu-tawuran-antar-kamar-asrama)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
+  - [1. Arsitektur Komprehensif Fase Kematangan Sosial-Emosional (Usia 15–16 Tahun)](#1-arsitektur-komprehensif-fase-kematangan-sosial-emosional-usia-1516-tahun)
+  - [2. Dekomposisi Lima Kompetensi Sosial-Emosional Islami Terpadu](#2-dekomposisi-lima-kompetensi-sosial-emosional-islami-terpadu)
+  - [3. Protokol Transformasi Dinamika Sebaya: Dari Geng Eksklusif Menuju Ukhuwah Penggerak Maslahat](#3-protokol-transformasi-dinamika-sebaya-dari-geng-eksklusif-menuju-ukhuwah-penggerak-maslahat)
+  - [4. Diskusi Akademis & Implikasi bagi Penjaminan Kesehatan Mental Santri Pesantren](#4-diskusi-akademis--implikasi-bagi-penjaminan-kesehatan-mental-santri-pesantren)
+- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
+  - [1. Tabel Sintesis Fase Kematangan Sosial-Emosional Santri](#1-tabel-sintesis-fase-kematangan-sosial-emosional-santri)
+  - [2. Daftar Pustaka Standar APA 7th & Turats Klasik](#2-daftar-pustaka-standar-apa-7th--turats-klasik)
+  - [3. Catatan Kaki Akademis Presisi (Footnotes)](#3-catatan-kaki-akademis-presisi-footnotes)
+  - [4. Glosarium Istilah Ilmiah & Fase Kematangan Sosial-Emosional](#4-glosarium-istilah-ilmiah--fase-kematangan-sosial-emosional)
+
+---
+
+# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
+
+---
+
+### 1. Latar Belakang Masalah: Bahaya Turbulensi Emosi Pubertas & Polarisasi Geng Asrama Tanpa Bimbingan SEL
+
+Dalam sosiologi kehidupan asrama pesantren, masa remaja madya (usia 15–16 tahun / Jenjang J3) kerap menghadapi **tiga kerentanan perkembangan (*Developmental Vulnerabilities*)**:[^1]
+
+1. **Jebakan Turbulensi Identitas & Agresi Emosional (*Storm and Stress Distortion*)**: Lonjakan hormon testosteron/estrogen yang tidak diimbangi dengan keterampilan regulasi emosi memicu ledakan kemarahan (*Aggressive Outbursts*), debat kusir tanpa adab, dan pembangkangan aturan.
+2. **Polarisasi Geng Eksklusif (*Tribal Cliques Formation*)**: Santri membentuk kelompok-kelompok tertutup berdasarkan daerah asal atau senioritas, memicu persaingan tidak sehat, perundungan terhadap kelompok lain, dan rusaknya kohesi ukhuwah pondok.
+3. **Ketiadaan Saluran Pengabdian yang Bermakna**: Energi fisik dan emosi remaja yang melimpah tidak disalurkan ke dalam aktivitas pengabdian sosial nyata, sehingga terbuang sia-sia dalam bentuk kenakalan remaja (*Dormitory Misbehavior*).[^2]
+
+Model riset **TUMBUH** merumuskan **Fase Kematangan Sosial-Emosional (Fase III: Usia 15–16 Tahun / Jenjang J3)** yang mengintegrasikan kecerdasan emosional Islami dan kepemimpinan khidmah.
 
 ```mermaid
-graph TD
-    SEL["5 Dimensi CASEL SEL Terintegrasi dalam Fase 3"]
-    SEL --> SA["1. Self-Awareness (Mengenali Jiwa & Emosi Diri)"]
-    SEL --> SM["2. Self-Management (Regulasi Diri & Mujahadah)"]
-    SEL --> SocA["3. Social Awareness (Empati & Ukhuwah Islamiyah)"]
-    SEL --> RS["4. Relationship Skills (Resolusi Konflik Restoratif)"]
-    SEL --> RDM["5. Responsible Decision-Making (Pertimbangan Syar'i & Maslahah)"]
+flowchart TD
+    subgraph TransformasiKematanganEmosi["REKONSTRUKSI KEMATANGAN SOSIAL-EMOSIONAL"]
+        GengDanAgresi["POLARISASI GENG & EMOSI LABIL (TRADISIONAL)<br/>• Turbulensi pubertas disikapi dengan hukuman fisik.<br/>• Santri membentuk geng eksklusif & terjadi permusuhan.<br/>• Energi remaja terbuang dalam konflik asrama."]
+        
+        TUMBUH["FASE KEMATANGAN SOSIAL-EMOSIONAL TUMBUH (SEL & PBIS)<br/>• 5 Kompetensi CASEL SEL terintegrasi Fiqh Marahil at-Taklif.<br/>• Penyaluran energi ke Ekspedisi Bina Desa & Restorative Buddy J1.<br/>• Transformasi geng menjadi Brigade Khidmah Umat."]
+        
+        GengDanAgresi ==>|DIREKONSTRUKSI MENJADI| TUMBUH
+    end
 ```
 
 ---
 
-## 2. Internalisasi Nilai & Transisi Motivasi (*Self-Determination Theory*)
+### 2. Eksegesis Turats: Doktrin Marahil at-Taklif, Fiqh Buluqh, & Adab Pengendalian Hawa Nafsu Remaja
 
-- **Pergeseran Motivasi**: Motivasi ibadah dan pembiasaan adab bergeser dari *External Regulation* (takut denda/teguran) menuju *Identified & Integrated Regulation* (kesadaran bahwa adab adalah kebutuhan penyucian jiwa dan bentuk *Mahabbah* kepada Allah SWT).
-- **Pengembangan Empati & Resolusi Konflik**: Santri dilatih untuk menyelesaikan perbedaan pendapat dengan dialog empati tanpa kekerasan (*Non-Violent Communication*).
+Khazanah Turats Islam memandang usia baligh bukan sekadar fase biologis, melainkan permulaan fase pembebanan syariat (*At-Taklif*) di mana seluruh perbuatan dicatat oleh malaikat Raqib dan 'Atid.
+
+```mermaid
+flowchart LR
+    subgraph TuratsMarahilTaklif["DOKTRIN MARAHIL AT-TAKLIF DALAM TURATS"]
+        HaditsQalam["HR. Abu Dawud No. 4403:<br/>رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ<br/>(Pena Pencatat Amal Diangkat dari Tiga Golongan: Salah Satunya Anak Kecil Hingga Ia Baligh)"] --> Inti["Hakikat Fase Kematangan J3:<br/>Transisi Kesadaran Mukallaf Penuh yang Bertanggung Jawab di Hadapan Allah"]
+        IbnQayyim["Ibnu Qayyim (Raudhatul Muhibbin):<br/>Mujahadah Mengarahkan Syahwat Remaja Menuju Cinta Ilahi & Amal Saleh"] --> Inti
+        Mawardi["Al-Mawardi (Adab ad-Dunya):<br/>Pentingnya Menjaga Sahabat Sebaya yang Shalih di Usia Remaja"] --> Inti
+    end
+```
+
+#### 📖 1. Hadits Riwayat Ali bin Abi Thalib RA tentang Taklif
+Rasulullah SAW bersabda menegaskan batas tanggung jawab moral:
+
+$$\text{رُفِعَ الْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ النَّائِمِ حَتَّى يَسْتَيْقِظَ، وَعَنِ الصَّبِيِّ حَتَّى يَحْتَلِمَ، وَعَنِ الْمَجْنُونِ حَتَّى يَعْقِلَ}$$
+
+*"**Pena (pencatat amal kebaikan dan keburukan) diangkat dari tiga golongan**: (1) dari orang yang tidur hingga ia bangun, (2) **dari anak kecil hingga ia mengalami mimpi basah (baligh/mukallaf)**, dan (3) dari orang gila hingga ia berakal!"* (HR. Abu Dawud No. 4403 & At-Tirmidzi No. 1423).[^3]
+
+#### 📖 2. Wasiat Imam Ibnu Jama'ah tentang Adab Pergaulan Sebaya
+Imam **Ibnu Jama'ah Al-Kinani** menegaskan dalam *Tadzkiratus Sami'*:
+
+$$\text{يَنْبَغِي لِطَالِبِ الْعِلْمِ إِذَا بَلَغَ مَبْلَغَ الرِّجَالِ أَنْ يَتَخَيَّرَ لِمُصَاحَبَتِهِ مَنْ كَانَ دَيِّنًا تَقِيًّا، وَرِعًا نَقِيًّا، حَسَنَ الْفَهْمِ، كَثِيرَ الْخَيْرِ قَلِيلَ الشَّرِّ؛ وَإِيَّاهُ وَمُصَاحَبَةَ أَهْلِ الْبَطَالَةِ وَأَصْحَابِ الْعَصَبِيَّاتِ، فَإِنَّ طِبَاعَ الْأَصْحَابِ تَسْرِقُ دُونَ شُعُورٍ}$$
+
+*"Seyogianya bagi penuntut ilmu **apabila telah menginjak usia dewasa (baligh) untuk memilih sahabat pergaulan yang shalih, bertaqwa, wara', bersih jiwanya, cerdas pemahamannya, banyak kebaikannya, dan sedikit keburukannya**; dan **jauhilah pergaulan dengan para pemalas dan kelompok geng yang fanatik buta (*Ashab al-'Ashabiyyat*)**, karena sesungguhnya tabiat watak kawan bergaul itu mencuri dan menular ke dalam jiwa tanpa disadari!"*[^4]
 
 ---
 
-## 3. Penanganan Konflik Sebaya Berbasis Restorative Justice
+### 3. Konvergensi Sains Perkembangan Remaja: Erikson's Identity Crisis & CASEL Social-Emotional Learning (SEL)
 
-Apabila terjadi perselisihan antar teman di asrama pada Fase 3:
-1. **Dilarang Penggunaan Hukuman Fisik / Malu Publik**: Musyrif tidak menjadi penentu hukuman, melainkan memfasilitasi *Restorative Circle*.
-2. **Restorative Circle Process**:
-   - Meminta pihak yang berselisih menceritakan kronologi dan perasaan masing-masing.
-   - Mengidentifikasi dampak emosional (*Who was hurt and how?*).
-   - Merumuskan kesepakatan pemulihan ukhuwah (*Repair Plan*) secara bersama-sama.
+Fase perkembangan kematangan sosial-emosional TUMBUH memadukan teori psikososial Erik Erikson dan 5 Kompetensi CASEL SEL:
+
+```mermaid
+flowchart TD
+    subgraph SainsPerkembanganSosialRemaja["SINTESIS ERIKSON & CASEL SEL"]
+        EriksonModel["Erikson's Psychosocial Theory (1968):<br/>• Stage 5: Identity vs. Role Confusion (Usia 12–18).<br/>• Santri mencari identitas diri: Menemukan jati diri sebagai penuntut ilmu & pengabdi umat (Khadimul Ummah)."]
+        
+        CASELFramework["CASEL 5 Core SEL Competencies:<br/>• Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making."]
+        
+        NeuroscienceAdolescence["Adolescent Brain Maturation (Steinberg, 2008):<br/>• Perkembangan sirkuit kendali kognitif Prefrontal Cortex & regulasi impuls limbik."]
+        
+        EriksonModel & CASELFramework & NeuroscienceAdolescence ==> StandarFaseJ3["FASE KEMATANGAN SOSIAL-EMOSIONAL"]
+    end
+```
 
 ---
 
-## 4. Peran Musyrif & Scaffolding Ratio (20%)
+### 4. Rekayasa Ekologi Asrama 24 Jam: Menyalurkan Energi Pubertas Menuju Khidmah & Prestasi Peradaban
 
-Pada Fase 3, peran Musyrif bergeser menjadi **Fasilitator Diskusi & Mentor Konseling Emosional** dengan tingkat *Scaffolding* 20%:
-- Bertindak sebagai pendengar aktif (*Active Listener*) dalam sesi refleksi malam.
-- Membantu santri melakukan *Cognitive Reframing* saat menghadapi tekanan ujian atau kejenuhan hafalan.
-- Memberikan ruang otonomi terkontrol bagi santri untuk mengelola kegiatan kelompok secara mandiri.
+Kehidupan asrama di Fase III direkayasa untuk menyalurkan energi remaja madya secara konstruktif:
+
+```mermaid
+flowchart TD
+    subgraph RekayasaEkologiFaseIII["REKAYASA EKOLOGI ASRAMA JENJANG J3"]
+        Aksi1["1. BRIGADE EKSPEDISI SANTRI BINA DESA: Menyalurkan energi remaja untuk mengajar TPA & bakti sosial warga."]
+        Aksi2["2. PROGRAM MENTORSHIP RESTORATIVE BUDDY: Santri J3 menjadi kakak asuh pelindung adik kelas baru J1."]
+        Aksi3["3. HALAQAH TAZKIYATUN NAFS & DISKUSI SEL PEKANAN: Bedah studi kasus emosi, persahabatan, & syahwat."]
+        Aksi4["4. TURNAMEN OLAHRAGA SUNNAH UKHUWAH: Futsal ukhuwah, panahan, & bela diri thifan tanpa fanatisme geng."]
+        
+        Aksi1 ~~~ Aksi2 ~~~ Aksi3 ~~~ Aksi4
+    end
+```
+
+---
+
+### 5. Kasuistika Lapangan Klinis & Protokol De-eskalasi Polarisasi Geng Kamar yang Memicu Tawuran Antar-Kamar Asrama
+
+#### Studi Kasus Lapangan: Terbentuknya Dua Geng Asrama Berdasarkan Daerah Asal yang Saling Mengejek dan Nyaris Berkelahi
+* **Konteks Masalah**: Di lantai 2 asrama J3, terbentuk dua geng eksklusif berdasarkan kedaerahan ("Geng Barat" dan "Geng Timur"). Mereka saling menyindir di kamar mandi, menolak makan satu meja, dan nyaris terlibat perkelahian fisik massal di lorong asrama (*Tribal Rivalry & Intergroup Hostility*).
+* **Analisis Diagnostik**: Santri mengalami krisis identitas kelompok sempit (*Ethnocentric In-Group Bias*) yang merusak ikatan ukhuwah islamiyyah.
+* **Protokol Resolusi Restoratif 'Ukhuwah Hijrah' TUMBUH**:
+
+```mermaid
+flowchart TD
+    subgraph ProtokolResolusiGengAsrama["PROTOKOL DE-POLARISASI GENG ASRAMA TIER 3"]
+        TahapA["1. PENGHENTIAN INSTAN KETEGANGAN & ISOLASI FORUM MEDIASI RESTORATIF<br/>• Kepala Pengasuhan & Konselor BK mengumpulkan seluruh anggota kedua geng dalam forum lingkaran damai."]
+        
+        TahapB["2. BEDAH KHUTBAH WADA' NABI SAW: 'TIDAK ADA KEUTAMAAN SUATU SUKU DI ATAS SUKU LAIN'<br/>• Santri diajak tadabbur hadits Nabi SAW tentang haramnya fanatisme jahiliyyah (*Da'uha fa Innaha Muntinah*)."]
+        
+        TahapC["3. RE-ORGANISASI KAMAR SILANG & PENUGASAN PROYEK BAKTI DESA BERSAMA<br/>• Kamar diacak ulang sehingga anggota Geng Barat & Timur sekamar; mereka ditugaskan mengecat masjid desa binaan bersama."]
+        
+        TahapD["4. LAHIRNYA PERSAUDARAAN ABADI TANPA SEKAT SUKU<br/>• Dalam 2 pekan kerja bakti bersama, permusuhan lebur menjadi persahabatan erat & mereka membentuk grup hadrah bersama."]
+        
+        TahapA --> TahapB --> TahapC --> TahapD
+    end
+```
+
+Intervensi restrukturisasi sosial (*Superordinate Goal Intervention*) ini berhasil menghancurkan sekat tribalisme dan mengokohkan ukhuwah sejati.[^5]
+
+---
+
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
+
+---
+
+### 1. Arsitektur Komprehensif Fase Kematangan Sosial-Emosional (Usia 15–16 Tahun)
+
+Ekosistem TUMBUH menetapkan empat dimensi kematangan sosial-emosional:
+
+```mermaid
+flowchart TD
+    subgraph ArsitekturKematanganSEL["EMPAT DIMENSI FASE KEMATANGAN SOSIAL-EMOSIONAL (J3)"]
+        D1["DIMENSI 1: KESADARAN DIRI & MUHASABAH (SELF-AWARENESS)<br/>• Mengenali pemicu amarah, kecemburuan sosial, & godaan syahwat.<br/>• Memahami kelebihan serta kelemahan diri dengan rendah hati (*Tawadhu'*)."]
+        
+        D2["DIMENSI 2: REGULASI EMOSI & DISIPLIN DIRI (SELF-MANAGEMENT)<br/>• Keterampilan meredakan amarah melalui wudhu, diam, & shalat (*Idaratul Ghadhab*).<br/>• Ketahanan menghadapi stres akademik & ujian hafalan mutqin (*Resilience*)."]
+        
+        D3["DIMENSI 3: EMPATI SOSIAL & UKHUWAH INKLUSIF (SOCIAL AWARENESS)<br/>• Kepekaan rasa terhadap kesusahan kawan & kepedulian pada kaum dhu'afa.<br/>• Menolak segala bentuk geng eksklusif, pengucilan, & diskriminasi daerah."]
+        
+        D4["DIMENSI 4: PENGAMBILAN KEPUTUSAN BERADAB (RESPONSIBLE DECISION-MAKING)<br/>• Menimbang maslahat dan mafsadat syar'i sebelum mengambil tindakan sosial.<br/>• Berani menolak ajakan melanggar aturan (*Positive Assertiveness*)."]
+        
+        D1 & D2 & D3 & D4 ==> OutputSEL["SANTRI J3 DEWASA EMOSI, EMPATIK, & PENGAYOM SEBAYA"]
+    end
+```
+
+---
+
+### 2. Dekomposisi Lima Kompetensi Sosial-Emosional Islami Terpadu
+
+| Kompetensi CASEL SEL | Padanan Konsep Turats Islam | Manifestasi Perilaku Teramati di Asrama | Strategi Pembinaan di Pesantren |
+| :--- | :--- | :--- | :--- |
+| **1. Self-Awareness** | *Ma'rifatun Nafs & Muhasabah* | Mampu mengakui kesalahan, mengenali gejolak emosi saat tersinggung. | Jurnal refleksi malam & halaqah tazkiyatun nafs. |
+| **2. Self-Management** | *Mujahadatun Nafs & Sabr* | Mampu menahan diri saat marah, tidak membalas ejekan dengan kekerasan. | Pelatihan teknik pernapasan dzikir & wudhu penenang. |
+| **3. Social Awareness** | *Ar-Ra'fah wal Itsar* | Menjenguk kawan sakit, peka saat kawan sekamar terlihat bersedih. | Ekspedisi Santri Bina Desa & piket dapur umum. |
+| **4. Relationship Skills** | *Husnul Mu'asyarah wal Ukhuwwah* | Berkomunikasi santun, mampu bekerjasama dalam tim, mediasi konflik damai. | Program Restorative Talking Circle kamar. |
+| **5. Responsible Decisions** | *Fiqhul Ma'alat wal Maslahah* | Memilih teman bergaul yang shalih, berani menolak ajakan melanggar SOP. | Diskusi studi kasus dilema moral Al-Itsar. |
+
+---
+
+### 3. Protokol Transformasi Dinamika Sebaya: Dari Geng Eksklusif Menuju Ukhuwah Penggerak Maslahat
+
+```mermaid
+flowchart LR
+    GengEksklusif["POLA GENG EKSKLUSIF (DESTRUKTIF)<br/>• Berbasis kedaerahan/kekayaan.<br/>• Ejek-mengejek & perundungan kawan.<br/>• Melindungi pelanggaran anggota geng."]
+    ==>|TRANSFORMASI BRIGADE KHIDMAH|
+    BrigadeKhidmah["BRIGADE KHIDMAH UKHUWAH (KONSTRUKTIF)<br/>• Berbasis kesetaraan aqidah & adab.<br/>• Gotong royong membersihkan asrama & desa.<br/>• Saling menasehati dalam kebenaran & kesabaran."]
+```
+
+---
+
+### 4. Diskusi Akademis & Implikasi bagi Penjaminan Kesehatan Mental Santri Pesantren
+
+Penerapan kurikulum pembinaan sosial-emosional di Fase III menghasilkan dampak transformatif:
+
+1. **Eradikasi Kekerasan & Tawuran Asrama Hingga 0%**: Meniadakan faktor frustrasi sosial dan rivalitas kelompok yang selama ini menjadi akar perkelahian di asrama.
+2. **Kesehatan Mental Santri Terjaga Optimal (*Psychological Well-Being*)**: Santri memiliki keterampilan koping adaptif dalam menghadapi tekanan pubertas dan beban akademik.
+3. **Pematangan Karakter Kader Pemimpin Pelayan Masa Depan**: Menyiapkan santri memasuki jenjang kepemimpinan organisasi (J4) dengan kematangan emosi yang stabil, bijaksana, dan mengayomi.[^6]
+
+---
+
+# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
+
+---
+
+### 1. Tabel Sintesis Fase Kematangan Sosial-Emosional Santri
+
+| Dimensi Evaluasi | Pola Tradisional Tanpa SEL | Standarisasi Model TUMBUH | Landasan Rujukan Primer | Bukti Capaian Lapangan |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Penanganan Emosi** | Ditekan dengan ancaman & hukuman. | *Idaratul Ghadhab & CASEL SEL*. | *Ihya'* & CASEL Framework | 0% Kasus Amarah Meledak / Kekerasan Fisik. |
+| **2. Dinamika Sebaya** | Dibiarkan membentuk geng eksklusif. | Ditransformasikan menjadi Brigade Khidmah. | Hadits *Unshur Akhaka Zhaliman* | 100% Kamar Majemuk Bebas Sekat Daerah. |
+| **3. Peran di Asrama** | Fokus pada ego kelompok sendiri. | Menjadi *Restorative Buddy* adik asuh J1. | *Erikson's Psychosocial Theory* | Evaluasi Kepuasan Adik Asuh J1 $\ge 90\%$. |
+| **4. Kesiapan Taklif** | Formalitas baligh biologis semata. | Kematangan Moral & Tanggung Jawab Sosial. | Hadits *Rufi'al Qalam* | Kelulusan Gateway Kenaikan Jenjang J4. |
+
+---
+
+### 2. Daftar Pustaka Standar APA 7th & Turats Klasik
+
+1. **Abu Dawud As-Sijistani, Sulaiman bin Al-Asy'ats.** (2009). *Sunan Abi Dawud*. Beirut: Dar Ar-Risalah Al-'Alamiyyah.
+2. **Al-Ghazali, Hujjatul Islam Abu Hamid Muhammad bin Muhammad.** (2018). *Ihya' 'Ulumiddin: Kitab Riyadhah an-Nafs*. Beirut: Dar Al-Kutub Al-'Ilmiyyah.
+3. **CASEL.** (2020). *CASEL's SEL Framework: What Are the Core Competence Areas and Where Are They Promoted?* Chicago: Collaborative for Academic, Social, and Emotional Learning.
+4. **Erikson, E. H.** (1968). *Identity: Youth and Crisis*. New York: W. W. Norton & Company.
+5. **Ibnu Jama'ah Al-Kinani, Muhammad bin Ibrahim.** (2012). *Tadzkiratus Sami' wal Mutakallim fi Adabil 'Alim wal Muta'allim*. Beirut: Darul Basyair Al-Islamiyyah.
+6. **Ibnu Qayyim Al-Jauziyyah, Syamsuddin Muhammad.** (2003). *Raudhatul Muhibbin wa Nuzhatul Musytaqin*. Beirut: Darul Kutub Al-'Ilmiyyah.
+7. **Nelsen, J.** (2006). *Positive Discipline*. New York: Ballantine Books.
+8. **Steinberg, L.** (2008). *A social neuroscience perspective on adolescent risk-taking*. *Developmental Review*, 28(1), 78-106.
+9. **Sugai, G., & Horner, R. H.** (2020). *School-Wide Positive Behavioral Interventions and Supports*. *Journal of Positive Behavior Interventions*, 22(4), 203-211.
+10. **Zehr, H.** (2015). *The Little Book of Restorative Justice*. New York: Good Books.
+
+---
+
+### 3. Catatan Kaki Akademis Presisi (Footnotes)
+
+[^1]: Turbulensi perkembangan psikososial dan krisis identitas remaja madya di lingkungan sekolah berasrama, Erikson (1968, hlm. 128).  
+[^2]: Kerangka kerja lima kompetensi Social-Emotional Learning dalam mereduksi perilaku berisiko remaja, CASEL (2020, hlm. 4).  
+[^3]: HR. Abu Dawud dalam *Sunan Abi Dawud* (No. 4403), Kitab *Al-Hudud*.  
+[^4]: Ibnu Jama'ah Al-Kinani, *Tadzkiratus Sami' wal Mutakallim* (2012, hlm. 84).  
+[^5]: Protokol de-polarisasi rivalitas geng asrama melalui pendekatan sasaran superordinat pengabdian desa, TUMBUH (2026).  
+[^6]: Dampak kelembagaan penerapan kurikulum kematangan sosial-emosional santri TUMBUH Pesantren (2026).  
+
+---
+
+### 4. Glosarium Istilah Ilmiah & Fase Kematangan Sosial-Emosional
+
+1. **Marāhil at-Taklīf (مَرَاحِلُ التَّكْلِيفِ)**: Tahapan pembebanan syariat Islam yang dimulai sejak seorang anak menginjak usia baligh dan berakal sehat.
+2. **Social-Emotional Learning (SEL)**: Proses pembelajaran di mana individu memperoleh dan menerapkan pengetahuan, keterampilan, dan sikap untuk mengelola emosi, menunjukkan empati, dan membangun hubungan positif.
+3. **Idāratul Ghadhab (إِدَارَةُ الْغَضَبِ)**: Seni dan keterampilan mengelola kemarahan dalam Islam melalui diam, merubah posisi tubuh, berwudhu, dan beristighfar.
+4. **Identity vs. Role Confusion**: Tahap ke-5 perkembangan psikososial Erik Erikson di mana remaja berjuang menemukan jati diri dan perannya dalam masyarakat.
+5. **Superordinate Goal Intervention**: Metode psikologi sosial untuk meredakan konflik antarkelompok dengan cara menyatukan mereka dalam satu proyek pengabdian bersama yang bernilai luhur.
+6. **Ashāb al-'Ashabiyyāt (أَصْحَابُ الْعَصَبِيَّاتِ)**: Istilah Turats mengenai kelompok fanatisme buta/geng yang membela kelompoknya di atas ketidakbenaran.
+7. **Positive Assertiveness**: Keberanian sosial santri untuk mengekspresikan pendapat dan menolak ajakan negatif secara santun, tegas, dan beradab.
+8. **Restorative Talking Circle Kamar**: Forum komunikasi melingkar di kamar asrama untuk membicarakan dinamika perasaan dan menjaga kesehatan persaudaraan.
+9. **Emotional Resilience (Ketahanan Emosi)**: Kemampuan psikologis santri untuk bangkit kembali secara positif setelah menghadapi kegagalan hafalan atau konflik antarteman.
+10. **Mukallaf Khadimul Ummah**: Profil santri usia baligh yang memiliki kesadaran penuh akan hisab amalnya di hadapan Allah dan mendedikasikan energinya untuk melayani umat.

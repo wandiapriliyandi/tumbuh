@@ -1,62 +1,69 @@
-# P4-01: TAHAPAN PERKEMBANGAN MAKRO SANTRI DAN KONTINUUM 10 TAHAP TUMBUH
-## *Monograf Riset: Diferensiasi Konseptual Antara 4 Jenjang Kemandirian (J1–J4) dan 10 Tahapan Pembentukan Karakter (Tahu, Paham, Sadar, Membiasakan, Kuat/Konsisten, Memberi Teladan, Menggerakkan, Pelaksana, Pembina, Pemberdaya)*
+# P4-01: DOKUMEN INDUK TAHAPAN PERKEMBANGAN MAKRO SANTRI
+## *Peta Jalan Longitudinal Evolusi Biososial-Spiritual Santri Usia 12–18 Tahun (Fase I Inisiasi Awal, Fase II Habituasi Karakter, Fase III Kematangan Sosial-Emosional, Serta Fase IV Servant Leadership & Transisi Peradaban) di Ekosistem TUMBUH Pesantren*
 
-**Nomor Identifikasi**: `P4-01/MONOGRAF-INDUK-TAHAPAN-MAKRO/2026`  
-**Domain**: `04 Progression Framework` > `01 Development Stages`  
-**Klasifikasi Naskah**: *Academic Research Monograph* (Monograf Kerangka Progresi Makro)  
-**Rumpun Disiplin Pengkaji**: Psikologi Perkembangan Remaja, Neurosains Kognitif, Teori Kontinuum Pembinaan Adab Turats  
+**Nomor Identifikasi**: `P4-01/DOKUMEN-INDUK-TAHAPAN-PERKEMBANGAN-MAKRO/2026`  
+**Domain**: `04 Progression Framework` > `01 Development Stages` (Gugus Sub-Domain 01: *Macro Developmental Stages*)  
+**Klasifikasi Naskah**: *Master Navigation & Architecture Document* (Dokumen Induk Peta Jalan Riset & Navigasi 6 Monograf Ilmiah Etape Perkembangan)  
+**Rumpun Disiplin Pengkaji**: Epistemologi Perkembangan Fitrah Islam, Neurosains Kognitif Terpadu, Fiqh Marahil at-Ta'dib wa at-Taklif, Dynamic Systems Theory  
 
 ---
 
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
-> * **Diferensiasi Nomenklatur: 4 Jenjang Kemandirian (J1–J4) vs 10 Tahapan Pembentukan Karakter:**  
->   Untuk menghindari kerancuan istilah, ekosistem TUMBUH membedakan secara tegas antara:
->   1. **Jenjang Kemandirian Santri (J1–J4):** Skala 4 level operasional kemandirian adab santri di asrama (J1 Terbimbing, J2 Pembiasaan, J3 Mandiri, J4 Qudwah).
->   2. **10 Tahapan Pembentukan Karakter (Tahap 1–10):** Lintasan metamorfosis psikososial dan kapasitas kepemimpinan: **1. Tahu $\rightarrow$ 2. Paham $\rightarrow$ 3. Sadar $\rightarrow$ 4. Membiasakan $\rightarrow$ 5. Kuat/Konsisten $\rightarrow$ 6. Memberi Teladan $\rightarrow$ 7. Menggerakkan $\rightarrow$ 8. Pelaksana $\rightarrow$ 9. Pembina $\rightarrow$ 10. Pemberdaya**.
+> * **Kedudukan Strategis Gugus Tahapan Perkembangan Makro:**  
+>   *Development Stages (Tahapan Perkembangan Makro)* merupakan kompas navigasi evolusi pertumbuhan santri sepanjang 6 tahun masa penempaan di pesantren (usia 12 hingga 18 tahun). Doktrin Islam memandang bahwa mendidik anak manusia tidak boleh dilakukan secara seragam dan instan, melainkan wajib mengikuti hukum penahapan fitrah (*Sunnatut Tadrīj fil Khalq*), dari masa transisi pelepasan keluarga (*Inisiasi*), pembiasaan otomatisasi ibadah (*Habituasi*), pematangan kecerdasan rasa dan empati (*Kematangan SEL*), hingga kristalisasi kepemimpinan pelayan peradaban (*Servant Leadership*).
+> * **Integrasi Multidisipliner Turats & Neurosains Perkembangan:**  
+>   Gugus riset ini memadukan konsep *Marahil at-Ta'dib wa at-Taklif* dalam Turats (*Tuhfatul Maudud* Ibnu Qayyim, *Ihya' 'Ulumiddin* Al-Ghazali, dan *Adab ash-Shibyan* Ibnu Sahnun) dengan sains perkembangan mutakhir (*Attachment Theory Bowlby, Dual-Process Habit Loop Wood & Neal, CASEL SEL Framework, Emerging Adulthood Arnett, dan Dynamic Systems Theory Thelen & Smith*).
+> * **Struktur Lengkap 6 Berkas Monograf Riset Ilmiah:**  
+>   Dokumen induk ini memetakan dan menghubungkan 6 berkas monograf penelitian akademik komprehensif (~160 KB total riset) yang dirancang untuk menjadi pedoman induk kurikulum kepengasuhan, bimbingan konseling, dan penjaminan mutu kenaikan etape santri 24 jam.
 
 ---
 
-## 🏛️ 1. MATRIKS KORELASI 4 JENJANG (J1–J4) DAN 10 TAHAPAN PERKEMBANGAN
+## 📑 PETA NAVIGASI ENAM MONOGRAF RISET TAHAPAN PERKEMBANGAN
+
+Berikut adalah daftar lengkap 6 monograf riset akademik dalam gugus **`01 Development Stages`**:
 
 ```mermaid
-graph TD
-    subgraph ModelIntegrasiJenjangDanTahapan["INTEGRASI 4 JENJANG KEMANDIRIAN & 10 TAHAPAN PERKEMBANGAN"]
-        J1["JENJANG J1: KEPATUHAN TERBIMBING (Kelas 7)<br/>• Tahap 1: TAHU (Knowledge Acquisition)<br/>• Tahap 2: PAHAM (Comprehension & Insight)"]
-        
-        J2["JENJANG J2: PEMBIASAAN TERPOLA (Kelas 8)<br/>• Tahap 3: SADAR (Internal Awareness & Conscience)<br/>• Tahap 4: MEMBIASAKAN (Habituation Loop)"]
-        
-        J3["JENJANG J3: KEMANDIRIAN STABIL (Kelas 9-10)<br/>• Tahap 5: KUAT / KONSISTEN (Resilience & Strength)<br/>• Tahap 6: MEMBERI TELADAN (Role Modeling)"]
-        
-        J4["JENJANG J4: KEPEMIMPINAN QUDWAH (Kelas 11-12)<br/>• Tahap 7: MENGGERAKKAN (Mobilizing & Leading / Puncak Santri Akhir)"]
-        
-        Pasca["FASE PASCA-PESANTREN (Alumni, Guru, & Pimpinan)<br/>• Tahap 8: PELAKSANA (Field Executor & Implementer)<br/>• Tahap 9: PEMBINA (Nurturing & Mentoring Junior)<br/>• Tahap 10: PEMBERDAYA (Systemic Empowerment of Ummah)"]
-        
-        J1 ==> J2 ==> J3 ==> J4 ==> Pasca
+flowchart TD
+    subgraph GugusDevelopmentStages["STRUKTUR 6 MONOGRAF TAHAPAN PERKEMBANGAN MAKRO"]
+        subgraph FASEPERKEMBANGAN["I. EMPAT ETAPE MAKRO PERKEMBANGAN LONGITUDINAL"]
+            M01["[P4-01-01] Fase Orientasi & Inisiasi Awal (Usia 12–13 / J1)<br/>• Transisi SD-Asrama, Attachment Safe Haven, & De-eskalasi Homesick"]
+            M02["[P4-01-02] Fase Habituasi & Pembentukan Karakter (Usia 13–14 / J2)<br/>• Dual-Process Habit Loop 66 Hari, Otomatisasi Ibadah, & 5S Kamar"]
+            M03["[P4-01-03] Fase Kematangan Sosial-Emosional (Usia 15–16 / J3)<br/>• CASEL SEL, Fiqh Taklif Buluqh, De-Polarisasi Geng, & Ekspedisi Desa"]
+            M04["[P4-01-04] Fase Leadership & Transisi Post-Pesantren (Usia 17–18 / J4)<br/>• Servant Leadership OPPM, Capstone Project, & Imunitas Moral Kampus"]
+        end
+
+        subgraph SINTESISDANINSTRUMEN["II. META-SINTESIS & MASTER INSTRUMEN"]
+            M05["[P4-01-05] Sintesis Trajektori Biososial-Spiritual Terpadu<br/>• Dynamic Systems Theory, Fiqh At-Tadrij, & Peta 6 Tahun"]
+            M06["[P4-01-06] Katalog Master Instrumen Evaluasi Tahapan Perkembangan<br/>• Form SKA-F1, LMK-F2, SKE-F3, RKK-F4, & Gateway Transisi"]
+        end
+
+        FASEPERKEMBANGAN ==> SINTESISDANINSTRUMEN
     end
 ```
 
 ---
 
-## 📑 2. TABEL DEFINISI OPERASIONAL 10 TAHAPAN PERKEMBANGAN KARAKTER
+## 📚 DESKRIPSI RINGKAS 6 BERKAS MONOGRAF
 
-| No | Tahapan Karakter | Definisi Operasional & Indikator Psikologis | Padanan Jenjang Kemandirian | Peran Musyrif / Ekosistem |
-| :---: | :--- | :--- | :---: | :--- |
-| **1** | **TAHU** | Mengetahui aturan dasar, teks dalil syar'i, dan SOP asrama secara kognitif. | **Jenjang J1 (Kepatuhan Terbimbing)** | *Instruktur Langsung* (Aba-aba jelas & demonstrasi). |
-| **2** | **PAHAM** | Memahami alasan logis, hikmah syariat, dan konsekuensi logis di balik setiap adab. | **Jenjang J1 (Kepatuhan Terbimbing)** | *Eksplikator Dialogis* (Tadabbur makna & diskusi). |
-| **3** | **SADAR** | Tumbuh kesadaran nurani batin (*Muraqabah*) bahwa adab adalah kebutuhan diri, bukan beban luar. | **Jenjang J2 (Pembiasaan Terpola)** | *Penguat Niat* (Refleksi muhasabah malam). |
-| **4** | **MEMBIASAKAN** | Mempraktikkan adab dalam rutinitas 24 jam secara teratur hingga menjadi kebiasaan otomatis (*Habit Loop*). | **Jenjang J2 (Pembiasaan Terpola)** | *Pemantau Rutinitas & Apresiasi 4:1*. |
-| **5** | **KUAT / KONSISTEN**| Istiqamah, berdaya tahan tinggi (*Resilience*), dan kokoh menjaga adab meski diuji godaan lingkungan. | **Jenjang J3 (Kemandirian Stabil)** | *Coach Reflektif* (Mendorong konsistensi batin). |
-| **6** | **MEMBERI TELADAN**| Perilaku adab memancar spontan (*Second Nature*) sehingga menginspirasi rekan sekamar secara positif. | **Jenjang J3 (Kemandirian Stabil)** | *Fasilitator Mentorship* (Apresiasi kepemimpinan adab). |
-| **7** | **MENGGERAKKAN** | Memimpin inisiatif kebaikan, menggerakkan rekan sebaya, & menjadi teladan aktif di asrama. | **Santri Akhir / Santri Tahun Pengabdian (Jenjang J4)** | *Motor Penggerak & Duta Adab Asrama*. | *Mitra Strategis* (Memberi ruang kreasi inisiatif). |
-| **8** | **PELAKSANA** | Mengemban amanah eksekusi teknis program pondok, KBM kelas, & operasional asrama secara profesional (*Itqan*). | **Alumni Lanjut Khidmah / Guru Baru (Tahun 1–3)** | *Eksekutor Lapangan & Musyrif Muda*. | *Penasihat Kolaboratif* (Supervisi manajemen santri). |
-| **9** | **PEMBINA** | Membimbing, melatih, mengasuh, mengevaluasi guru baru, serta menjadi konselor penanganan santri Tier 2/3. | **Guru Senior / Asatidz Berpengalaman (Lulusan S1/Senior)** | *Murabbi, Coach, & Supervisor Pengasuhan*. | *Master Coach* (Pengembangan kompetensi pedagogi). |
-| **10**| **PEMBERDAYA** | Memberdayakan sistem, merancang kebijakan makro, memimpin visi kelembagaan, & memajukan peradaban umat. | **Pimpinan Lembaga / Kyai / Mudir / Jabatan Tertinggi** | *Strategic Leader & Empowerer Umat*. | *Jejaring Kolaborasi Sinergis Global*. |
+1. **[P4-01-01: Fase Orientasi dan Inisiasi Awal](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/01%20Development%20Stages/P4-01-01-Fase-Orientasi-dan-Inisiasi-Awal.md)**  
+   *Membahas trajektori adaptasi psikososial transisi SD ke asrama, Attachment Theory John Bowlby, In Loco Parentis, eliminasi perpeloncoan/ospek militeristik, dan protokol First 40 Days.*
+2. **[P4-01-02: Fase Habituasi dan Pembentukan Karakter](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/01%20Development%20Stages/P4-01-02-Fase-Habituasi-dan-Pembentukan-Karakter.md)**  
+   *Membahas pembiasaan ibadah dan regulasi diri usia 13–14 tahun, Dual-Process Habit Loop Wendy Wood, neurobiologi basal ganglia, siklus konsistensi 66 hari, dan mitigasi post-holiday relapse.*
+3. **[P4-01-03: Fase Kematangan Sosial-Emosional](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/01%20Development%20Stages/P4-01-03-Fase-Kematangan-Sosial-Emosional.md)**  
+   *Membahas identitas moral dan regulasi emosi pubertas usia 15–16 tahun, Fiqh Marahil at-Taklif, 5 Kompetensi CASEL SEL, de-polarisasi rivalitas geng asrama, dan peran Restorative Buddy J1.*
+4. **[P4-01-04: Fase Leadership dan Transisi Post-Pesantren](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/01%20Development%20Stages/P4-01-04-Fase-Leadership-dan-Transisi-Post-Pesantren.md)**  
+   *Membahas Servant Leadership usia 17–18 tahun, doktrin Imarah fil Ardh, Emerging Adulthood Jeffrey Arnett, Capstone Civilizational Project di desa binaan, dan navigasi transisi kampus bebas.*
+5. **[P4-01-05: Sintesis Trajektori Biososial-Spiritual](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/01%20Development%20Stages/P4-01-05-Sintesis-Trajektori-Biososial-Spiritual.md)**  
+   *Membahas meta-teori integrasi jasad-akal-ruh, Fiqh At-Tadrij ma'al Fitrah Ibnu Qayyim, Dynamic Systems Theory, diagnosis holistik (anemia/stres), dan peta jalan longitudinal 6 tahun.*
+6. **[P4-01-06: Katalog Instrumen Evaluasi Tahapan Perkembangan](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/01%20Development%20Stages/P4-01-06-Katalog-Instrumen-Evaluasi-Tahapan-Perkembangan.md)**  
+   *Membahas kodifikasi empat paket instrumen siap pakai (Form SKA-F1, LMK-F2, SKE-F3, RKK-F4), standar gateway kelulusan etape, dan visualisasi dashboard radar SIM Intizham.*
 
 ---
 
-## 🏛️ 3. TIGA PILAR PROGRESI PERKEMBANGAN BIOSOSIAL-SPIRITUAL
+## 🎯 STANDAR PENJAMINAN MUTU PERKEMBANGAN SANTRI
 
-1. **Pilar Biososial (Neurosains PFC)**: Dari dominasi impuls emosi limbik di Fase Awal (J1 / Tahap 1-2) menuju maturasi Prefrontal Cortex optimal di Fase Akhir (J4 / Tahap 7-8).
-2. **Pilar Spiritual (Tazkiyatun Nafs)**: Dari *Nafs Ammarah* (J1) $\rightarrow$ *Nafs Lawwamah* (J2-J3) $\rightarrow$ *Nafs Mutma'innah* (J4 / Tahap 6-10).
-3. **Pilar Kepemimpinan (Servant Leadership)**: Dari penerima bimbingan pasif menuju *Khidmah* melayani dan memberdayakan peradaban.
+Penerapan gugus **Tahapan Perkembangan Makro (Development Stages)** menjamin bahwa:
+1. **Pendidikan Berjalan Sesuai Fitrah (*Fitrah-Aligned Progression*)**: Santri dididik dengan penuh kasih sayang dan penahapan ilmiah tanpa pemaksaan beban prematur atau kekerasan fisik.
+2. **Keseimbangan Holistik Tiga Dimensi (*Bio-Psycho-Spiritual Integration*)**: Memastikan santri tumbuh dengan fisik yang sehat bugar, kestabilan emosi dan empati sosial, serta kematangan tauhid dan ibadah.
+3. **Kesiapan Menjadi Pemimpin Peradaban (*Future Civilizational Leader*)**: Memastikan setiap alumni lulus dengan kepribadian ksatria, mandiri secara moral di kampus/masyarakat, dan berdedikasi melayani kemaslahatan umat (*Khadimul Ummah*).
