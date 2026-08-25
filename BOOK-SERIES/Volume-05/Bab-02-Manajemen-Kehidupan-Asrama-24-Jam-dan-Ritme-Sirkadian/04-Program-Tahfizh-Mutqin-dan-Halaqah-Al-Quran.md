@@ -1,5 +1,26 @@
-# SUB-BAB 2.4: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN
-## *Monograf Riset Akademik: Standarisasi Metodologi Tahfizh Al-Qur'an Berbasis Tri-Siklus Klasik (Sabaq, Sabqi, Manzil), Integrasi Neurosains Retensi Memori Jangka Panjang (Spaced Repetition & Working Memory Capacity), dan Desain Halaqah Al-Qur'an Rendah Stres (Mutqin Quranic Memorization Program, Tri-Cycle Methodology, & Long-Term Memory Retention Architecture / Form PRO-TahfizhMutqin), Integrasi Doktrin 'Hifzhu al-Qur'ān ma'a al-Fahm wal Itqān' Turats Klasik dengan Ebbinghaus Spaced Retrieval, Sweller Cognitive Load Theory, Serta Penjagaan Kalamullah di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.4: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P9-01-01/MONOGRAF-RISET-PROGRAM-TAHFIZH-MUTQIN/2026`  
 **Domain**: `09 Programs` > `01 Core Programs` (Sub-Modul 01: *Mutqin Quranic Memorization & Tri-Cycle Halaqah Architecture*)  

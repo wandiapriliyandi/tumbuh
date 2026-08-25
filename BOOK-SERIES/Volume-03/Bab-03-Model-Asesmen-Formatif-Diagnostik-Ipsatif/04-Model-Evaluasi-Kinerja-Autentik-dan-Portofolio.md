@@ -1,5 +1,26 @@
-# SUB-BAB 3.4: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI
-## *Monograf Riset Akademik: Epistemologi Penilaian Kinerja Nyata Berbasis Bukti Otentik (Authentic Performance Assessment) dan Portofolio Karya Hidup (Digital Life-Portfolio), Integrasi Doktrin 'Al-Kalam 'alal Amal wa Qabulul Atsar' Turats Klasik dengan Wiggins-McTighe Authentic Task Design & E-Portfolio Framework, Serta Desain Pameran Karya Khidmah di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.4: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-03-04/MONOGRAF-RISET-EVALUASI-KINERJA-AUTENTIK-PORTOFOLIO/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 04: *Authentic Performance Assessment & Digital Portfolio Model*)  

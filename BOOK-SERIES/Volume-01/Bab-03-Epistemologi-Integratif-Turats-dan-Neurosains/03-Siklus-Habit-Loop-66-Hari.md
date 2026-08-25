@@ -1,9 +1,26 @@
-# SUB-BAB 3.3: SIKLUS HABIT LOOP & TRAJEKTORI 66-HARI
-## *Membongkar Mitos 21 Hari, Riset Kinesiologi Perilaku UCL, dan Arsitektur Tiga Fase Pembiasaan Adab Asrama*
+# PANDUAN PRAKTIS 3.3: SIKLUS HABIT LOOP & TRAJEKTORI 66-HARI
 
-**Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perilaku (*Behavioral Psychology*), Neurosains Habituasi, & Manajemen Pengasuhan Asrama  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Arsitektur PBIS Restoratif, & Pakar Pengasuhan Asrama*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 

@@ -1,5 +1,26 @@
-# SUB-BAB 2.5: SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS
-## *Monograf Riset Akademik: Standarisasi Sistem Penghargaan Non-Material, Penguatan Token Ekonomi Berkelanjutan, dan Dokumentasi Portofolio Adab Digital (School-Wide Positive Reinforcement System, Token Economy Architecture, & Character Portfolio / Form PAK-Apresiasi), Integrasi Doktrin 'Khabī'atut Tha'ah wa Kitābul Hasanāt' Turats Klasik dengan Kazdin's Token Economy Framework, Self-Determination Theory, Serta Motivasi Intrinsik di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.5: SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P6-08-02/MONOGRAF-RISET-SISTEM-POIN-APRESIASI-PBIS/2026`  
 **Domain**: `06 Intervention Framework` > `08 Reinforcement` (Sub-Modul 02: *School-Wide Positive Reinforcement System & Character Portfolio*)  

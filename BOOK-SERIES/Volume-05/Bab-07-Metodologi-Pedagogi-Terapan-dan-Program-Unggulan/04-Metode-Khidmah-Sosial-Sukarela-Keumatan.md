@@ -1,5 +1,26 @@
-# SUB-BAB 7.4: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN
-## *Monograf Riset Akademik: Standarisasi Metode Pengabdian Sosial Berbasis Pembelajaran Berpengalaman (Community Service-Learning & Khidmah Keumatan), Desain Empat Tahap Siklus Kolb Terintegrasi Nilai Ikhlas Lil-Ummah, Serta Eliminasi Total Feodalisme Pelayanan Senioritas (Community Service-Learning Architecture, Anti-Feudal Servant Leadership, & Kolb Experiential Cycle / Form MET-KhidmahSosial), Integrasi Doktrin 'Sayyidul Qawmi Khādimuhum' Turats Klasik dengan David Kolb Experiential Learning Theory, Andrew Furco Service-Learning Framework, Serta Pengabdian Masyarakat di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 7.4: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P10-06-01/MONOGRAF-RISET-KHIDMAH-SOSIAL/2026`  
 **Domain**: `10 Methods` > `06 Experiential Learning` (Sub-Modul 01: *Community Service-Learning & Khidmah Keumatan*)  

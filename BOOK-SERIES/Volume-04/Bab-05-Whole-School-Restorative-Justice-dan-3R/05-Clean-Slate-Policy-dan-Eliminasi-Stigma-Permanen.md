@@ -1,5 +1,26 @@
-# SUB-BAB 5.5: CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN
-## *Monograf Riset Akademik: Standarisasi Kebijakan Penghapusan Catatan Pelanggaran, Perlindungan Kerahasiaan Data Disiplin Digital, dan Penjaminan Hak Lembaran Baru Santri (Clean Slate Expungement Policy, Digital Privacy Safeguards, & Tabula Rasa Re-start / Form CSP-CleanSlate), Integrasi Doktrin 'Mahwudz Dzunūb wa Karāmatul Insān' Turats Klasik dengan Juvenile Record Expungement Frameworks, GDPR/Data Privacy in Education, Serta Kemuliaan Nama Baik di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.5: CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P6-09-03/MONOGRAF-RISET-CLEAN-SLATE-POLICY/2026`  
 **Domain**: `06 Intervention Framework` > `09 Recovery` (Sub-Modul 03: *Clean Slate Expungement Policy & Digital Privacy Safeguards*)  

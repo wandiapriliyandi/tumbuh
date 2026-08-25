@@ -1,5 +1,26 @@
-# SUB-BAB 5.1: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Karakter Spiritual (Salīmul 'Aqīdah, Shahīhul 'Ibādah, & Matīnul Khuluq), Integrasi Doktrin 'Al-Imān, Al-Islām, wal Ihsān' Turats Klasik dengan Restorative Positive Behavior Support & Character Psychometrics, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.1: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-01/MONOGRAF-RISET-RUBRIK-SPIRITUAL-IBADAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 01: *Spiritual & Worship Character Rubrics - Dimensions 1 to 3*)  

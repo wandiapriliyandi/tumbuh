@@ -1,5 +1,26 @@
-# SUB-BAB 1.4: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF
-## *Monograf Riset Akademik: Standarisasi Matriks Pertanggungjawaban Lintas Jabatan, Pemetaan Akuntabilitas RACI Penanganan Kasus, dan Eliminasi Ambiguitas Wewenang (RACI Accountability Matrix, Cross-Role Responsibility Mapping, & Institutional Decision Rights / Form MRA-RACI), Integrasi Doktrin 'Kullu Amriin Lahu Waliyyun Mukhtalif' Turats Klasik dengan Bain & Rasiel's RACI Method, Lencioni's Organizational Clarity, Serta Tata Kelola di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.4: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-03-01/MONOGRAF-RISET-MATRIKS-RACI-PERAN/2026`  
 **Domain**: `07 Implementation Framework` > `03 Roles and Responsibilities` (Sub-Modul 01: *RACI Accountability Matrix & Decision Rights*)  

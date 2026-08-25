@@ -1,5 +1,26 @@
-# SUB-BAB 6.1: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
-## *Monograf Riset Akademik: Formulasi Matematis Pembobotan Komposit Multi-Sumber Evaluasi 360 Derajat (Mathematical Weighting Algorithm for 360-Degree Triangulated Scoring / Form MAT-Triangulasi), Integrasi Doktrin 'Mīzānul 'Adli wa Ta'addudusy Syuhūd' Turats Klasik dengan Generalizability Theory (G-Theory), Multi-Trait Multi-Method (MTMM), Serta Engine Komputasi di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.1: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-10-01/MONOGRAF-RISET-ALGORITMA-PEMBOBOTAN-360/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 01: *360-Degree Multi-Source Triangulated Weighting Algorithm*)  

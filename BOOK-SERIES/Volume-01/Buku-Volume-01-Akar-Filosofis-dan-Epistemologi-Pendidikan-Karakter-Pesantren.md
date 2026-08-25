@@ -1,16 +1,17 @@
-# BUKU VOLUME 01: AKAR FILOSOFIS & EPISTEMOLOGI PENDIDIKAN KARAKTER PESANTREN
-## *Kajian Ontologi Fitrah, Sintesis Epistemologis Turats-Neurosains, Kritik Feodalisme, & Landasan Filosofis Ekosistem TUMBUH*
+# BUKU PANDUAN VOLUME 01: AKAR FILOSOFIS & FONDASI NILAI PEMBINAAN KARAKTER PESANTREN
+## *Pedoman Pimpinan & Pendidik dalam Memahami Fitrah, Worldview, & Adab Nabawi dalam Sistem TUMBUH*
 
 ---
 
-**Nomor Buku**: `BOOK-SERIES/VOL-01/MASTER-2026`  
-**Seri Publikasi**: Seri Buku Master Ekosistem TUMBUH Pesantren (Volume 1 dari 5)  
-**Dewan Editor & Penulis**: Dewan Keilmuan Ekosistem TUMBUH (24 Bidang Kepakaran)  
-**Klasifikasi**: Monograf Riset Akademis, Monograf Riset Akademis, Filsafat Pendidikan Islam, & Teori Pembinaan Karakter 24-Jam  
+**Nomor Panduan**: `BOOK-SERIES/VOL-01/PANDUAN-PRAKTIS-2026`  
+**Seri Publikasi**: Seri Buku Panduan Praktis Ekosistem TUMBUH Pesantren (Buku 1 dari 5)  
+**Penyusun & Dewan Penasihat**: Dewan Keilmuan & Pengasuhan Ekosistem TUMBUH  
+**Peruntukan Pengguna**: Kiai, Pengasuh Pondok, Kepala Madrasah, Wali Kelas, Guru BK, & Musyrif Asrama  
+**Klasifikasi**: Buku Panduan Induk, Filosofi Pendidikan Islam, & Worldview Pengasuhan 24-Jam  
 
 ---
 
-## 📑 DAFTAR ISI LENGKAP VOLUME 01
+## 📑 DAFTAR ISI PANDUAN VOLUME 01
 
 - [BAB 01 KRISIS KARAKTER DAN URGENSI REKONSTRUKSI](#bab-01-krisis-karakter-dan-urgensi-rekonstruksi)
   - [01 Anomali Pendidikan Karakter Tradisional](#01-anomali-pendidikan-karakter-tradisional)
@@ -55,16 +56,33 @@
   - [03 Keadilan Restoratif Islam dan Ishlah al Bain](#03-keadilan-restoratif-islam-dan-ishlah-al-bain)
   - [04 Eliminasi Hukuman Fisik secara Fiqhiyyah](#04-eliminasi-hukuman-fisik-secara-fiqhiyyah)
   - [05 Epilog Pesantren Masa Depan Mercusuar Peradaban](#05-epilog-pesantren-masa-depan-mercusuar-peradaban)
-- [DAFTAR PUSTAKA LENGKAP VOLUME 01](#daftar-pustaka-lengkap-volume-01)
+- [DAFTAR PUSTAKA & RUJUKAN PANDUAN VOLUME 01](#daftar-pustaka--rujukan-panduan-volume-01)
 
 ---
 
-# SUB-BAB 1.1: ANOMALI PENDIDIKAN KARAKTER TRADISIONAL
-## *Menyingkap Tabir Jurang Pemisah antara Hafalan Kitab Adab dan Realitas Perilaku Keseharian di Asrama*
+# PANDUAN PRAKTIS 1.1: ANOMALI PENDIDIKAN KARAKTER TRADISIONAL
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Fenomenologi Pendidikan Islam, Neurosains Kognitif Terapan, Sosiologi Pesantren, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi, Epistemologi Turats, & Neurosains Perkembangan*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -296,12 +314,29 @@ Kelima pilar sistemik ini bekerja serempak di lapangan:
 ---
 
 
-# SUB-BAB 1.2: FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL
-## *Membongkar Mitos 'Penempaan Mental Baja', Meluruskan Residu Tradisi, dan Menegakkan Martabat Kemanusiaan Santri*
+# PANDUAN PRAKTIS 1.2: FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Sosiologi Kekerasan Pendidikan, Psikologi Trauma Perkembangan, Hukum Perlindungan Anak, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Perlindungan Anak, Epistemologi Turats, & Disiplin Positif*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -469,12 +504,29 @@ Langkah konkret Sistem TUMBUH di lapangan:
 ---
 
 
-# SUB-BAB 1.3: DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC
-## *Mekanisme Pembajakan Amigdala, Disregulasi Hormon Kortisol, dan Kerusakan Sirkuit Regulasi Moral Otak Remaja*
+# PANDUAN PRAKTIS 1.3: DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Neurosains Kognitif Terapan, Neurobiologi Trauma, Teori Polivagal, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Neurosains Perkembangan, Disiplin Positif, & Bimbingan Konseling*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -650,12 +702,29 @@ Penerapan protokol sistemik di lapangan:
 ---
 
 
-# SUB-BAB 1.4: KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI
-## *Kritik atas Reduksionisme Hadiah-Hukuman Mekanis, Efek Overjustification, dan Erosi Keikhlasan Niat*
+# PANDUAN PRAKTIS 1.4: KELEMAHAN BEHAVIORISME SEKULER & KEHAMPAAN RUHANI
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Psikologi Motivasi Humanistik, Self-Determination Theory, & Hermeneutika Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, Epistemologi Turats, & Social Emotional Learning*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -808,12 +877,29 @@ Penerapan pilar sistemik di lapangan:
 ---
 
 
-# SUB-BAB 1.5: URGENSI REKONSTRUKSI PARADIGMA MENUJU EKOSISTEM TUMBUH
-## *Sintesis Filosofis-Empiris, Deklarasi Enam Pilar Holistik, dan Peta Jalan Kebangkitan Peradaban Pesantren*
+# PANDUAN PRAKTIS 1.5: URGENSI REKONSTRUKSI PARADIGMA MENUJU EKOSISTEM TUMBUH
 
-**Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam Terapan, Rekayasa Sistem Sosial Pesantren, & Teori Transformasi Kelembagaan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH[^4] (*Master Author, Pakar Filosofi TUMBUH, Arsitektur PBIS Restoratif, & Tata Kelola Qudwah*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -942,13 +1028,33 @@ Dari bilik-bilik asrama yang penuh cinta inilah, kelak akan bangkit generasi san
 ---
 
 
-# STUDI KASUS & DIALEKTIKA KRITIS KHUSUS BAB 01
-## *Tiga Studi Kasus Faktual Kegagalan Paradigma Lama dan Solusi Rekonstruktif Ekosistem TUMBUH*
+# PANDUAN PRAKTIS 1.6: STUDI KASUS & DIALEKTIKA KRITIS KHUSUS BAB 01
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `BOOK-01/BAB-01/STUDI-KASUS/MASTER`  
 **Volume**: Buku 01 — *Akar Filosofis & Epistemologi Pendidikan Karakter Pesantren*  
 **Fokus Keilmuan**: Analisis Kasus Lapangan, Diagnosis Psiko-Sosiologis, & Protokol Restoratif  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Kuratif Restoratif, & Perlindungan Anak*)
 
 ---
 
@@ -1040,12 +1146,29 @@ Alur reaksi pada bagan di atas memperlihatkan kegagalan sistem kontrol punitive 
 ---
 
 
-# SUB-BAB 2.1: KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL
-## *Hakikat Insan Pembelajar dalam Pandangan Teologi Islam, Hermeneutika Perjanjian Azali, dan Bantahan atas Tabula Rasa Sekuler*
+# PANDUAN PRAKTIS 2.1: KONSEP FITRAH AL-MUNAZZALAH & KESUCIAN PRIMORDIAL
 
-**Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Teologi Islam (*Ilmul Kalam*), Antropologi Filosofis, Psikologi Perkembangan Fitrah, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Epistemologi Turats*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1199,12 +1322,29 @@ Penerapan prinsip fitrah ini di pesantren:
 ---
 
 
-# SUB-BAB 2.2: STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB
-## *Anatomi Kejiwaan Manusia dalam Turats Imam Al-Ghazali dan Ibn al-Qayyim serta Integrasinya dengan Neurosains Kognitif Kontemporer*
+# PANDUAN PRAKTIS 2.2: STRUKTUR PSIKO-SPIRITUAL: DINAMIKA NAFS, AQL, & QALB
 
-**Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Spiritual Islam (*Ilm an-Nafs al-Islami*), Tasawuf Falsafi, Neurokardiologi, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Neurosains Perkembangan*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1330,12 +1470,29 @@ graph TD
 ---
 
 
-# SUB-BAB 2.3: TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH
-## *Tahapan Gradasi Moral Santri, Dinamika Muhasabah Diri, dan Komparasi Tahap Perkembangan Ego-Moral Kontemporer*
+# PANDUAN PRAKTIS 2.3: TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH
 
-**Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perkembangan Islam (*Tazkiyatun Nafs*), Tasawuf 'Amali, Teori Perkembangan Moral, & Epistemologi Turats  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Desain Kurikulum Adab*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1446,12 +1603,29 @@ Ekosistem **TUMBUH** melarang pendekatan seragam yang memukul rata seluruh santr
 ---
 
 
-# SUB-BAB 2.4: REKONSTRUKSI TA'DIB, TARBIYAH, & TA'LIM
-## *Analisis Semantik Prof. Dr. Syed Muhammad Naquib al-Attas, Integrasi Tiga Dimensi Pendidikan Islam, dan Penanaman Adab Paripurna*
+# PANDUAN PRAKTIS 2.4: REKONSTRUKSI TA'DIB, TARBIYAH, & TA'LIM
 
-**Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Bahasa Pendidikan Islam, Epistemologi Tarbiyah, & Teori Kurikulum Adab  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Desain Kurikulum Adab*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1551,12 +1725,29 @@ Dengan merekonstruksi dan memahkotai seluruh proses pendidikan dengan **Ta'dib N
 ---
 
 
-# SUB-BAB 2.5: IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH
-## *Dari Kesucian Fitrah Menuju Rekayasa Lingkungan Asrama 24-Jam yang Menumbuhkan Karakter Mulia*
+# PANDUAN PRAKTIS 2.5: IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH
 
-**Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Lingkungan (*Environmental Psychology*), Arsitektur Ekologi Asrama, & Desain Bi'ah Shalihah  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Intervensi Preventif, & Pakar Pengasuhan Asrama*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1639,12 +1830,29 @@ Santri merasa bahagia, aman, dicintai, dan dihargai. Dari lingkungan yang penuh 
 ---
 
 
-# SUB-BAB 3.1: INTEGRASI AYAT QAWLIYYAH & KAUNIYYAH
-## *Menyulam Kebenaran Transendental Wahyu dan Konsensus Empiris Sains Perkembangan Manusia*
+# PANDUAN PRAKTIS 3.1: INTEGRASI AYAT QAWLIYYAH & KAUNIYYAH
 
-**Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Epistemologi Islam Integratif, Filsafat Ilmu (*Falsafat al-'Ilm*), Hermeneutika Sains, & Neurosains Kognitif  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Neurosains Perkembangan*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1738,12 +1946,29 @@ Setiap SOP pengasuhan di asrama TUMBUH selalu memenuhi dua syarat mutlak:
 ---
 
 
-# SUB-BAB 3.2: NEUROSAINS PEMBIASAAN ADAB & NEUROPLASTISITAS
-## *Hukum Hebbian, Mekanisme Mielinisasi Sirkuit Saraf, dan Konsep Riyadhatun Nafs Imam Al-Ghazali*
+# PANDUAN PRAKTIS 3.2: NEUROSAINS PEMBIASAAN ADAB & NEUROPLASTISITAS
 
-**Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Neurosains Kognitif Terapan, Plastisitas Saraf (*Neuroplasticity*), & Tasawuf 'Amali  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Neurosains Perkembangan, & Pakar Pedagogi Guru*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1833,12 +2058,29 @@ Penerapan di pesantren:
 ---
 
 
-# SUB-BAB 3.3: SIKLUS HABIT LOOP & TRAJEKTORI 66-HARI
-## *Membongkar Mitos 21 Hari, Riset Kinesiologi Perilaku UCL, dan Arsitektur Tiga Fase Pembiasaan Adab Asrama*
+# PANDUAN PRAKTIS 3.3: SIKLUS HABIT LOOP & TRAJEKTORI 66-HARI
 
-**Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perilaku (*Behavioral Psychology*), Neurosains Habituasi, & Manajemen Pengasuhan Asrama  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Arsitektur PBIS Restoratif, & Pakar Pengasuhan Asrama*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -1938,12 +2180,29 @@ graph TD
 ---
 
 
-# SUB-BAB 3.4: MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION
-## *Integrasi Doktrin Penundukan Hawa Nafsu Turats dan Neurosains Fungsi Eksekutif Korteks Prefrontal*
+# PANDUAN PRAKTIS 3.4: MUJAHADATUN NAFS VS. EXECUTIVE FUNCTION
 
-**Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Tasawuf Amali Klasik (*Mujahadah*), Neurosains Kognitif (*Executive Function*), & Teori Regulasi Diri  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Neurosains Perkembangan, & Pakar Epistemologi Turats*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2048,12 +2307,29 @@ Dengan memadukan kemuliaan ajaran mujahadatun nafs ulama salaf dengan keakuratan
 ---
 
 
-# SUB-BAB 3.5: DESAIN HALAQAH BERBASIS CARA KERJA OTAK
-## *Rekonstruksi Majelis Ilmu Interaktif: Mengintegrasikan Teori Beban Kognitif, Neurosains Memori, dan Kejeniusan Tradisi Sorogan Klasik*
+# PANDUAN PRAKTIS 3.5: DESAIN HALAQAH BERBASIS CARA KERJA OTAK
 
-**Kode Klasifikasi**: `BOOK-01/BAB-03/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Didaktik Pembelajaran Islam, Neurosains Kognitif Pembelajaran (*Educational Neuroscience*), & Teori Beban Kognitif  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Pedagogi Master Guru, & Pakar Psikologi Belajar*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2180,12 +2456,29 @@ Dengan mengintegrasikan sains kognitif modern ke dalam keagungan tradisi halaqah
 ---
 
 
-# SUB-BAB 4.1: DEKONSTRUKSI RELASI KUASA ASIMETRIS
-## *Membongkar Hegemoni Otoriter, Normalisasi Rasa Takut, dan Rekonstruksi Relasi Edukatif Berbasis Kasih Sayang Nabawi*
+# PANDUAN PRAKTIS 4.1: DEKONSTRUKSI RELASI KUASA ASIMETRIS
 
-**Kode Klasifikasi**: `BOOK-01/BAB-04/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Sosiologi Pendidikan Kritis, Hermeneutika Kuasa Michel Foucault, & Etika Kepemimpinan Islam  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Filosofi TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2297,12 +2590,29 @@ Dengan mendekonstruksi relasi kuasa asimetris dan menggantinya dengan Kepemimpin
 ---
 
 
-# SUB-BAB 4.2: DISTORSI TAWADHU' & IHTIRAM
-## *Meluruskan Salah Kaprah Konsep Kerendahan Hati: Membedakan Tawadhu' Sejati dari Mentalitas Kehinaan Diri yang Tercela*
+# PANDUAN PRAKTIS 4.2: DISTORSI TAWADHU' & IHTIRAM
 
-**Kode Klasifikasi**: `BOOK-01/BAB-04/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Tasawuf Akhlaqi Klasik, Psikologi Kepribadian Remaja, & Komunikasi Asertif Islami  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Filosofi TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2412,12 +2722,29 @@ Islam tidak pernah membutuhkan generasi penakut yang menunduk dalam kepalsuan. I
 ---
 
 
-# SUB-BAB 4.3: KEKERASAN SIMBOLIK & PERPELONCOAN SENIORITAS
-## *Analisis Sosiologi Pierre Bourdieu, Dekonstruksi Istilah "Khidmah", dan Protokol Toleransi Nol Perundungan Halus*
+# PANDUAN PRAKTIS 4.3: KEKERASAN SIMBOLIK & PERPELONCOAN SENIORITAS
 
-**Kode Klasifikasi**: `BOOK-01/BAB-04/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Sosiologi Kritis Pierre Bourdieu, Viktimologi Pesantren, & Protokol Anti-Bullying  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Perlindungan Anak, & Pakar Sosiologi Santri*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2516,12 +2843,29 @@ Dengan memberantas tuntas segala bentuk kekerasan simbolik dan feodalisme senior
 ---
 
 
-# SUB-BAB 4.4: MODEL SERVANT QUDWAH LEADERSHIP
-## *Rekonstruksi Kepemimpinan Santri Berbasis Khidmah Nabawiyyah, Teladan Sebelum Kata, dan Pemberdayaan Kakak Asuh*
+# PANDUAN PRAKTIS 4.4: MODEL SERVANT QUDWAH LEADERSHIP
 
-**Kode Klasifikasi**: `BOOK-01/BAB-04/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Teori Kepemimpinan Islam (*Al-Qiyadah al-Islamiyyah*), Servant Leadership, & Manajemen Kaderisasi Santri  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Filosofi TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2638,12 +2982,29 @@ Dengan menegakkan model *Servant Qudwah Leadership*, Sistem TUMBUH melahirkan ge
 ---
 
 
-# SUB-BAB 4.5: TRANSFORMASI ORGANISASI SANTRI PENGAYOM
-## *Restrukturisasi Organisasi Santri dari Lembaga Yudisial Represif Menjadi Wadah Pengayoman, Pelayanan Kreatif, dan Mediasi Sebaya*
+# PANDUAN PRAKTIS 4.5: TRANSFORMASI ORGANISASI SANTRI PENGAYOM
 
-**Kode Klasifikasi**: `BOOK-01/BAB-04/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Organisasi Pendidikan Islam, Sosiologi Komunitas Santri, & Teori Dinamika Kelompok Sebaya  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Arsitektur PBIS Restoratif*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2751,12 +3112,29 @@ Dengan mereformasi organisasi santri menjadi wadah pengayoman kreatif, Sistem TU
 ---
 
 
-# SUB-BAB 5.1: POSTULAT 1 S.D. 3: HAKIKAT SANTRI, PENDIDIK, & TUJUAN AKHIR
-## *Tiga Fondasi Eksistensial: Kesucian Fitrah Pembelajar, Keteladanan Qudwah Pengasuh, dan Profil Insan Adabi*
+# PANDUAN PRAKTIS 5.1: POSTULAT 1 S.D. 3: HAKIKAT SANTRI, PENDIDIK, & TUJUAN AKHIR
 
-**Kode Klasifikasi**: `BOOK-01/BAB-05/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Antropologi Teologis, & Etika Profesi Pendidik  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Epistemologi Turats*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2857,12 +3235,29 @@ Dengan memancangkan tiga postulat eksistensial ini, Sistem TUMBUH memastikan bah
 ---
 
 
-# SUB-BAB 5.2: POSTULAT 4 S.D. 6: SUMBER NILAI, PERUBAHAN, & DISIPLIN
-## *Tiga Pilar Operasional: Otoritas Integratif Wahyu-Sains, Trajektori Perubahan 66-Hari, dan Disiplin Restoratif Tanpa Kekerasan*
+# PANDUAN PRAKTIS 5.2: POSTULAT 4 S.D. 6: SUMBER NILAI, PERUBAHAN, & DISIPLIN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-05/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Epistemologi Moral Islam, Kinesiologi Perubahan Karakter, & Teori Disiplin Restoratif  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Arsitektur PBIS Restoratif, & Pakar Disiplin Positif*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -2966,12 +3361,29 @@ Dengan memadukan otoritas integratif wahyu-sains, kesabaran habituasi 66 hari, d
 ---
 
 
-# SUB-BAB 5.3: POSTULAT 7 & 8: EKOSISTEM TOTAL & RESTORASI KESALAHAN
-## *Dua Fondasi Ekologis: Lingkungan 24-Jam Bi'ah Shalihah dan Paradigma Kesalahan sebagai Peluang Pembelajaran Moral*
+# PANDUAN PRAKTIS 5.3: POSTULAT 7 & 8: EKOSISTEM TOTAL & RESTORASI KESALAHAN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-05/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Ekologi Pendidikan Pesantren, Kriminologi Restoratif Anak, & Manajemen Kasus Asrama  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Kuratif Restoratif, & Pakar Pengasuhan Asrama*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3064,12 +3476,29 @@ Dengan menyatukan lingkungan Bi'ah Shalihah 24-jam yang menyejukkan dan paradigm
 ---
 
 
-# SUB-BAB 5.4: POSTULAT 9 & 10: KESEJAHTERAAN PENDIDIK & VISI GLOBAL
-## *Dua Mahkota Terakhir: Perlindungan Musyrif dari Kelelahan Kronis dan Visi Pesantren sebagai Rahmatan lil 'Alamin*
+# PANDUAN PRAKTIS 5.4: POSTULAT 9 & 10: KESEJAHTERAAN PENDIDIK & VISI GLOBAL
 
-**Kode Klasifikasi**: `BOOK-01/BAB-05/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Kesejahteraan Pendidik (*Teacher Well-Being*), Psikologi Burnout, & Visi Peradaban Islam  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Filosofi TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3161,12 +3590,29 @@ Dengan menyatukan perlindungan kesejahteraan pendidik di garis depan dan visi pe
 ---
 
 
-# SUB-BAB 5.5: MANIFESTO FILOSOFIS TUMBUH BAGI PESANTREN
-## *Piagam Deklarasi Sepuluh Postulat Fondasional bagi Kebangkitan Ekosistem Pendidikan Karakter Pesantren Abad ke-21*
+# PANDUAN PRAKTIS 5.5: MANIFESTO FILOSOFIS TUMBUH BAGI PESANTREN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-05/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Peradaban Islam, Kebijakan Strategis Pendidikan, & Teori Transformasi Organisasi  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Epistemologi Turats*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3237,12 +3683,29 @@ Dengan memegang teguh piagam ini, Ekosistem TUMBUH melangkah mantap menyongsong 
 ---
 
 
-# SUB-BAB 6.1: SANTRI BERTUMBUH: TANGGA KAPASITAS T1 S.D. T4
-## *Peta Jalan Empat Tangga Metamorfosis Adab Santri: Dari Mengetahui hingga Menjadi Teladan Penggerak*
+# PANDUAN PRAKTIS 6.1: SANTRI BERTUMBUH: TANGGA KAPASITAS T1 S.D. T4
 
-**Kode Klasifikasi**: `BOOK-01/BAB-06/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perkembangan Karakter, Taksonomi Pendidikan Islam, & Teori Pembelajaran Berjenjang  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Desain Kurikulum Adab, & Pakar Filosofi TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3347,12 +3810,29 @@ Dengan memandu santri mendaki tangga T1 s.d. T4 ini secara sabar dan terukur, Si
 ---
 
 
-# SUB-BAB 6.2: PENDIDIK & MUSYRIF BERTUMBUH: ANTI-BURNOUT
-## *Kompetensi Pedagogi Pengasuhan, Manajemen Regulasi Emosi Pembina, dan Protokol Perlindungan Musyrif dari Kelelahan Kronis*
+# PANDUAN PRAKTIS 6.2: PENDIDIK & MUSYRIF BERTUMBUH: ANTI-BURNOUT
 
-**Kode Klasifikasi**: `BOOK-01/BAB-06/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Profesi Pendidik, Manajemen Beban Kerja Asrama (*Workload Management*), & Kesehatan Mental Pendidik  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Pengasuhan Asrama*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3458,12 +3938,29 @@ Ketika para musyrif merasa dihargai oleh yayasan, memiliki waktu istirahat yang 
 ---
 
 
-# SUB-BAB 6.3: SISTEM LEMBAGA BERTUMBUH: BERBASIS DATA
-## *Transformasi Pesantren Menjadi Organisasi Pembelajar, Arsitektur PBIS Berbasis Bukti, dan Pengambilan Keputusan Tanpa Asumsi*
+# PANDUAN PRAKTIS 6.3: SISTEM LEMBAGA BERTUMBUH: BERBASIS DATA
 
-**Kode Klasifikasi**: `BOOK-01/BAB-06/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Mutu Pendidikan Pesantren, Teori Organisasi Pembelajar (*Learning Organization*), & Sistem Informasi PBIS  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Arsitektur Digital Pesantren, & Pakar Arsitektur PBIS*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3558,12 +4055,29 @@ Pesantren tidak lagi berjalan dengan cara-cara coba-coba (*trial and error*) yan
 ---
 
 
-# SUB-BAB 6.4: KONTINUUM 10-TAHAP EKOSISTEM TUMBUH
-## *Peta Jalan Longitudinal Transformasi Karakter Santri dan Kematangan Lembaga: Dari Inisiasi Awal Menuju Penggerak Peradaban*
+# PANDUAN PRAKTIS 6.4: KONTINUUM 10-TAHAP EKOSISTEM TUMBUH
 
-**Kode Klasifikasi**: `BOOK-01/BAB-06/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Psikologi Perkembangan Longitudinal, Rekayasa Kurikulum Berjenjang, & Manajemen Perubahan Organisasi  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Simulasi Sistem TUMBUH, & Pakar Filosofi TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3677,12 +4191,29 @@ Dengan berpegang pada Kontinuum 10-Tahap ini, proses pendidikan di pesantren tid
 ---
 
 
-# SUB-BAB 6.5: SINERGI SIMBIOTIK PENGASUHAN 24-JAM
-## *Integrasi Dual-Pillar Guru Madrasah dan Musyrif Asrama Menuju Harmoni Triad Pertumbuhan Lembaga*
+# PANDUAN PRAKTIS 6.5: SINERGI SIMBIOTIK PENGASUHAN 24-JAM
 
-**Kode Klasifikasi**: `BOOK-01/BAB-06/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Manajemen Pengasuhan Terpadu, Sinergi Interdisipliner Pendidik, & Sistem Komunikasi Lembaga  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Pengasuhan Asrama*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3785,12 +4316,29 @@ Pendidikan adab bukanlah pekerjaan sambilan seorang individu, melainkan gerakan 
 ---
 
 
-# SUB-BAB 7.1: DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN
-## *Tujuan Luhur Penegakan Syariat, Perlindungan Martabat Santri, dan Landasan Nilai Etis Pendidikan Pesantren*
+# PANDUAN PRAKTIS 7.1: DIMENSI AKSIOLOGIS & MAQASHID SYARI'AH PENGASUHAN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-01/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Aksiologi Pendidikan Islam, Filsafat Hukum Islam (*Maqashid asy-Syari'ah*), & Hak Asasi Manusia dalam Islam  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Perlindungan Anak*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -3907,12 +4455,29 @@ Setiap teguran yang diberikan, setiap peraturan yang ditegakkan, dan setiap fasi
 ---
 
 
-# SUB-BAB 7.2: INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN
-## *Implementasi Panca Perlindungan Hak Asasi Islam (Ad-Dharuriyyat al-Khamsah) dalam Ekosistem Asrama 24-Jam*
+# PANDUAN PRAKTIS 7.2: INTEGRASI LIMA PRINSIP DHARURIYYAT PENGASUHAN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Maqashid Syari'ah Terapan, Hukum Perlindungan Anak Pesantren, & Etika Fiqih Pengasuhan  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Perlindungan Anak*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -4022,12 +4587,29 @@ Santri tidak lagi merasa terancam saat berada di pondok. Mereka merasa bahwa aga
 ---
 
 
-# SUB-BAB 7.3: KEADILAN RESTORATIF ISLAM & ISHLAH AL-BAIN
-## *Konsep Keadilan Pemulihan dalam Turats Fiqih, Rekonsiliasi Ukhuwah, dan Mekanisme Lingkaran Restoratif Asrama*
+# PANDUAN PRAKTIS 7.3: KEADILAN RESTORATIF ISLAM & ISHLAH AL-BAIN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Fiqih Jinayah Terapan, Teori Keadilan Restoratif (*Restorative Justice*), & Manajemen Konflik Perdamaian  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Kuratif Restoratif, & Pakar Epistemologi Turats*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -4142,12 +4724,29 @@ Pesantren bertransformasi menjadi laboratorium perdamaian yang hidup, membuktika
 ---
 
 
-# SUB-BAB 7.4: ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH
-## *Hermeneutika Hadits Pendidikan, Kaidah Fiqih Sadd adz-Dzari'ah, dan Pengharaman Mutlak Kekerasan di Lingkungan Pengasuhan*
+# PANDUAN PRAKTIS 7.4: ELIMINASI HUKUMAN FISIK SECARA FIQHIYYAH
 
-**Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Fiqih Pendidikan (*Fiqh at-Tarbiyah*), Ushul Fiqih (*Kaidah Sadd adz-Dzari'ah*), & Hadits Tarbawi  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Epistemologi Turats, & Pakar Perlindungan Anak*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 
@@ -4252,12 +4851,29 @@ Inilah puncak keluhuran akhlak nabawi yang dihidupkan kembali oleh Sistem TUMBUH
 ---
 
 
-# SUB-BAB 7.5: EPILOG VOLUME 01: PESANTREN MASA DEPAN SEBAGAI MERCUSUAR PERADABAN
-## *Sintesis Agung Tujuh Bab, Menatap Masa Depan Gemilang, dan Panggilan Suci Transformasi Pendidikan Karakter Nusantara*
+# PANDUAN PRAKTIS 7.5: EPILOG VOLUME 01: PESANTREN MASA DEPAN SEBAGAI MERCUSUAR PERADABAN
 
-**Kode Klasifikasi**: `BOOK-01/BAB-07/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Peradaban Islam, Futurologi Pendidikan Pesantren, & Grand Synthesis Volume 01  
-**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Seluruh Dewan Pakar Keilmuan TUMBUH*)
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 ---
 

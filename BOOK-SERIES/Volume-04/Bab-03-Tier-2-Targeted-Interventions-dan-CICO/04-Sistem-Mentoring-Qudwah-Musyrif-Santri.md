@@ -1,5 +1,26 @@
-# SUB-BAB 3.4: SISTEM MENTORING QUDWAH MUSYRIF-SANTRI
-## *Monograf Riset Akademik: Standarisasi Sistem Mentoring Relasional 1-on-1 Musyrif-Santri Berbasis Qudwah Hasanah, Protokol Dialog Perkembangan Dua Pekanan (Bi-Weekly Developmental Mentoring), dan Rekayasa Ikatan Kelekatan Aman (1-on-1 Musyrif-Student Mentoring System, Bi-Weekly Growth Dialogue Protocol, & Secure Attachment Engineering / Form MEN-Qudwah), Integrasi Doktrin 'Al-Ukhuwwah fir-Ri'āyah wal Mujālasah bil-Ihsān' Turats Klasik dengan Rhodes Youth Mentoring Model, Bowlby Attachment Theory, Serta Ketahanan Jiwa Santri di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.4: SISTEM MENTORING QUDWAH MUSYRIF-SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P8-03-01/MONOGRAF-RISET-MENTORING-QUDWAH-MUSYRIF/2026`  
 **Domain**: `08 Integrated Approaches` > `03 Mentoring` (Sub-Modul 01: *1-on-1 Musyrif-Student Qudwah Mentoring System*)  

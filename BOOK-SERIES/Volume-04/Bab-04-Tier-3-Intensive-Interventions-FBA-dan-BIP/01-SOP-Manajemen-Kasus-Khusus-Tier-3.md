@@ -1,5 +1,26 @@
-# SUB-BAB 4.1: SOP MANAJEMEN KASUS KHUSUS TIER 3
-## *Monograf Riset Akademik: Standarisasi Manajemen Kasus Intensif Individual, Pembentukan Tim Multidisiplin Pengasuhan, dan Perancangan Rencana Intervensi Perilaku Komprehensif (Intensive Individualized Case Management SOP, Multi-Disciplinary Care Teams MDT, & Tier 3 Behavior Intervention Plans BIP / Form MKK-Tier3), Integrasi Doktrin 'Ri'āyatun Nuwāzili wal Hawāditsil Khāshshah' Turats Klasik dengan Eber & Sugai's Tier 3 Wraparound Case Management, Serta Penyelamatan Santri di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 4.1: SOP MANAJEMEN KASUS KHUSUS TIER 3
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P6-10-01/MONOGRAF-RISET-MANAJEMEN-KASUS-TIER3/2026`  
 **Domain**: `06 Intervention Framework` > `10 Case Management` (Sub-Modul 01: *Intensive Individualized Case Management SOP & Multi-Disciplinary Care Teams*)  

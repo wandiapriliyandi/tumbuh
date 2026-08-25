@@ -1,5 +1,26 @@
-# SUB-BAB 1.4: ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)
-## *Monograf Riset Akademik: Algoritma Rujukan Berbasis Data Frekuensi Pelanggaran Kumulatif dan Jalur Akselerasi Kasus Darurat (Data-Based Referral Rules: Modified Rule of 3-Strikes & Immediate Tier 3 Fast-Track / Form ARU-Rujukan), Integrasi Doktrin 'Al-I'dzār wal Indzār Tsalātsan wa Hifzhun Nufūs' Turats Klasik dengan McIntosh's SWIS Decision Benchmarks, Crisis Triage Protocols, Serta Sistem Rujukan Otomatis di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.2: ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P6-03-02/MONOGRAF-RISET-ATURAN-RUJUKAN-3-STRIKES/2026`  
 **Domain**: `06 Intervention Framework` > `03 Decision Rules` (Sub-Modul 02: *Data-Based Referral Rules: 3-Strikes & Immediate Tier 3*)  

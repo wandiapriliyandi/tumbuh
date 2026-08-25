@@ -1,5 +1,26 @@
-# SUB-BAB 1.5: WORKFLOW HARIAN PENGASUHAN 4-SHIFT
-## *Monograf Riset Akademik: Standarisasi Alur Kerja Operasional Harian Pengasuhan 24 Jam dalam 4 Shift Terpadu, Protokol Serah Terima Shift Tanpa Kekosongan Pengawasan, dan Ritme Biologis Santri Berbasis Chronobiology (24-Hour Residential Care Shift System, Zero-Gap Handover Protocol, & Circadian-Aligned Staff Scheduling / Form WHP-Shift), Integrasi Doktrin 'At-Tartīb waz Ziyadah fil Khidmah' Turats Klasik dengan Circadian Biology, Lean Management Daily Standups, Serta Keberlanjutan Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.5: WORKFLOW HARIAN PENGASUHAN 4-SHIFT
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-04-01/MONOGRAF-RISET-WORKFLOW-4-SHIFT/2026`  
 **Domain**: `07 Implementation Framework` > `04 Workflow` (Sub-Modul 01: *24-Hour Residential Care Shift System & Zero-Gap Handover*)  

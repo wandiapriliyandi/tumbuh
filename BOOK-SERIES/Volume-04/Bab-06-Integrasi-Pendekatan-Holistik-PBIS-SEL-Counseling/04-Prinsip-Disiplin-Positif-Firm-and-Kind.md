@@ -1,5 +1,26 @@
-# SUB-BAB 6.4: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
-## *Monograf Riset Akademik: Standarisasi Prinsip Disiplin Positif Tegas dan Hangat (Firm and Kind) dalam Pengasuhan Asrama 24 Jam, Penyatuan Batasan Jelas dengan Kehangatan Emosional, dan Eliminasi Siklus Hukuman-Permisivitas (Firm and Kind Positive Discipline Principles, Boundary-Warmth Synthesis, & Elimination of the Punishment-Permissiveness Pendulum / Form DIS-FirmKind), Integrasi Doktrin 'Al-Hikmah: Al-Hazm ma'a ar-Rahmah' Turats Klasik dengan Positive Discipline Nelsen, Adlerian Individual Psychology, Serta Kepemimpinan Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.4: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P8-05-01/MONOGRAF-RISET-DISIPLIN-POSITIF-FIRM-KIND/2026`  
 **Domain**: `08 Integrated Approaches` > `05 Positive Discipline` (Sub-Modul 01: *Firm & Kind Positive Discipline Principles*)  

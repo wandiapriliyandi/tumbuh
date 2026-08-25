@@ -1,5 +1,26 @@
-# SUB-BAB 4.3: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS
-## *Monograf Riset Akademik: Standarisasi Metodologi Halaqah Adab sebagai Wahana Pembentukan Karakter Komunal, Desain Kajian Turats Klasik yang Hidup dan Kontekstual, dan Integrasi Nilai Pesantren Otentik dengan Pedagogi Kontemporer (Halaqah Adab Methodology, Living Turats Study Design, & Character Formation Community / Form HAT-Halaqah), Integrasi Doktrin 'Al-Mudzākarah wal Halaqah fit Tarbiyah' Turats Klasik dengan Community of Practice Wenger, Socratic Seminar Method, Serta Pendidikan Karakter Kontekstual di Ekosistem TUMBUH*
+# PANDUAN PRAKTIS 4.3: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-08-01/MONOGRAF-RISET-HALAQAH-ADAB-TURATS/2026`  
 **Domain**: `07 Implementation Framework` > `08 Pesantren Practices` (Sub-Modul 01: *Halaqah Adab Methodology & Living Turats Study*)  

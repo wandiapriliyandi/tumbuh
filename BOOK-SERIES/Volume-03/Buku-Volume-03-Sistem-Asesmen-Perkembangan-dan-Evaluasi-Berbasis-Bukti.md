@@ -1,16 +1,17 @@
-# BUKU VOLUME 03: SISTEM ASESMEN PERKEMBANGAN & EVALUASI BERBASIS BUKTI
-## *Asesmen Ipsatif Non-Ranking, Validasi Psikometrik, Observasi 24-Jam, & Portofolio Karakter Santri*
+# BUKU PANDUAN VOLUME 03: ASESMEN PERKEMBANGAN KARAKTER & EVALUASI BERBASIS BUKTI
+## *Pedoman Observasi 24-Jam, Penilaian Diri-Sebaya, Rubrik Muwashafat, & Rapor Naratif Non-Ranking*
 
 ---
 
-**Nomor Buku**: `BOOK-SERIES/VOL-03/MASTER-2026`  
-**Seri Publikasi**: Seri Buku Master Ekosistem TUMBUH Pesantren (Volume 3 dari 5)  
-**Dewan Editor & Penulis**: Dewan Keilmuan Ekosistem TUMBUH (24 Bidang Kepakaran)  
-**Klasifikasi**: Monograf Riset Akademis, Psikometri Karakter, & Sistem Evaluasi Pesantren 24-Jam  
+**Nomor Panduan**: `BOOK-SERIES/VOL-03/PANDUAN-PRAKTIS-2026`  
+**Seri Publikasi**: Seri Buku Panduan Praktis Ekosistem TUMBUH Pesantren (Buku 3 dari 5)  
+**Penyusun & Dewan Penasihat**: Dewan Keilmuan & Pengasuhan Ekosistem TUMBUH  
+**Peruntukan Pengguna**: Kiai, Pengasuh Pondok, Kepala Madrasah, Wali Kelas, Guru BK, & Musyrif Asrama  
+**Klasifikasi**: Buku Panduan Evaluasi Karakter, Rubrik Perilaku, & Sistem Pelaporan Asrama  
 
 ---
 
-## 📑 DAFTAR ISI LENGKAP VOLUME 03
+## 📑 DAFTAR ISI PANDUAN VOLUME 03
 
 - [BAB 01 FILOSOFI ASESMEN FORMATIF RESTORATIF](#bab-01-filosofi-asesmen-formatif-restoratif)
   - [01 Prinsip Penilaian Non Stigmatisasi dan Restoratif](#01-prinsip-penilaian-non-stigmatisasi-dan-restoratif)
@@ -51,12 +52,33 @@
   - [04 Format Transkrip Adab dan QR Code Verification](#04-format-transkrip-adab-dan-qr-code-verification)
   - [05 Spesifikasi Dashboard Analitik PBIS](#05-spesifikasi-dashboard-analitik-pbis)
   - [06 Algoritma Early Warning System EWS Behavioral](#06-algoritma-early-warning-system-ews-behavioral)
-- [DAFTAR PUSTAKA LENGKAP VOLUME 03](#daftar-pustaka-lengkap-volume-03)
+- [DAFTAR PUSTAKA & RUJUKAN PANDUAN VOLUME 03](#daftar-pustaka--rujukan-panduan-volume-03)
 
 ---
 
-# SUB-BAB 1.1: PRINSIP PENILAIAN NON-STIGMATISASI DAN RESTORATIF
-## *Monograf Riset Akademik: Epistemologi Asesmen Format-Restoratif Berbasis Martabat Insan, Eliminasi Mutlak Labeling Teori & Stigmatisasi Pelanggaran di Pesantren, Integrasi Doktrin Sitrul 'Urub wa Da'watut Taubah Turats dengan Restorative Justice Assessment & Labeling Theory (Becker), Serta Desain Protokol Evaluasi Berorientasi Pemulihan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.1: PRINSIP PENILAIAN NON-STIGMATISASI DAN RESTORATIF
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-01-01/MONOGRAF-RISET-PRINSIP-PENILAIAN-NON-STIGMATISASI/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 01: *Non-Stigmatizing & Restorative Assessment Principles*)  
@@ -361,8 +383,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 1.2: INTEGRASI TAZKIYATUN NAFS DAN ASESMEN FITRAH
-## *Monograf Riset Akademik: Epistemologi Penilaian Pertumbuhan Jiwa Berbasis Pensucian Kalbu (Tazkiyatun Nafs) dan Pengenalan Potensi Fitrah Manusia, Integrasi Doktrin Maratib an-Nafs (Ammarah, Lawwamah, Muthma'innah) Turats dengan Self-Determination Theory & Authentic Assessment, Serta Desain Matriks Evaluasi Spiritual-Psikologis di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.2: INTEGRASI TAZKIYATUN NAFS DAN ASESMEN FITRAH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-01-02/MONOGRAF-RISET-INTEGRASI-TAZKIYAH-ASESMEN-FITRAH/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 02: *Tazkiyatun Nafs & Fitrah Assessment Integration*)  
@@ -683,8 +726,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 1.3: PENERAPAN GROWTH MINDSET DALAM UMPAN BALIK ASESMEN
-## *Monograf Riset Akademik: Formulasi Umpan Balik Formatif Berbasis Pola Pikir Bertumbuh (Growth Mindset Feedback), Integrasi Doktrin Al-Mujahadah wa Thalabuz Ziyadah Turats Klasik dengan Carol Dweck's Implicit Theories of Intelligence & Hattie-Timperley's Feedback Model, Serta Desain Protokol Dialog Umpan Balik Musyrif-Santri di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.3: PENERAPAN GROWTH MINDSET DALAM UMPAN BALIK ASESMEN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-01-03/MONOGRAF-RISET-GROWTH-MINDSET-UMPAN-BALIK/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 03: *Growth Mindset & Formative Feedback Application*)  
@@ -1010,8 +1074,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 1.4: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI
-## *Monograf Riset Akademik: Protokol Etika Pengelolaan Data Karakter dan Psikososial Santri 24 Jam, Penjaminan Kerahasiaan Konseling BK & Rekam Jejak Perilaku, Integrasi Doktrin Hifzhul Amanah wa Sitril 'Urub Turats dengan Standar Perlindungan Data Internasional (FERPA & GDPR Compliance) dan Etika Psikologi (APA Code of Conduct), Serta Arsitektur Keamanan Akses Berjenjang (RBAC) di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.4: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-01-04/MONOGRAF-RISET-ETIKA-KERAHASIAAN-DATA-ASESMEN/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 04: *Assessment Data Ethics & Confidentiality Protocol*)  
@@ -1334,8 +1419,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 1.5: EPISTEMOLOGI ASESMEN IPSATIF DAN PERTUMBUHAN FITRAH
-## *Monograf Riset Akademik: Dekonstruksi Paradigma Penilaian Normatif-Komparatif (Norm-Referenced) Menuju Penilaian Ipsatif Berkelanjutan (Self-Referenced Ipsative Assessment), Integrasi Doktrin 'Kullu Muyassarun Lima Khuliqa Lahu' Turats Klasik dengan Hughes' Ipsative Assessment Theory & Bronfenbrenner's Bioecological Model, Serta Rekayasa Metrik Pertumbuhan Personal di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.5: EPISTEMOLOGI ASESMEN IPSATIF DAN PERTUMBUHAN FITRAH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-01-05/MONOGRAF-RISET-EPISTEMOLOGI-ASESMEN-IPSATIF/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 05: *Ipsative Assessment Epistemology & Fitrah Growth*)  
@@ -1665,8 +1771,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 2.1: MODEL TRIANGULASI DATA ASESMEN 360 DERAJAT
-## *Monograf Riset Akademik: Arsitektur Pengumpulan Data Asesmen Karakter Multi-Sumber 360 Derajat (Musyrif Asrama, Guru Madrasah, Sima'an Sebaya, & Muhasabah Santri), Integrasi Kaidah Tawatsul asy-Syuhud Turats Klasik dengan Multi-Trait Multi-Method (MTMM) Matrix & 360-Degree Feedback Theory, Serta Algoritma Normalisasi Reduksi Bias di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.1: MODEL TRIANGULASI DATA ASESMEN 360 DERAJAT
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-01/MONOGRAF-RISET-MODEL-TRIANGULASI-DATA-360/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 01: *360-Degree Triangulation Assessment Architecture*)  
@@ -1975,8 +2102,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 2.2: ALUR INTEGRASI DATA MULTI-SUMBER ASESMEN SANTRI
-## *Monograf Riset Akademik: Rekayasa Arsitektur Aliran Data (Data Pipeline & Interoperability) Asesmen Santri 24 Jam Lintas Ekosistem Asrama, Madrasah, Masjid, dan Poskestren, Integrasi Kaidah Tashnifur Riwayah wa Dhabthul Asanid Turats dengan Enterprise Data Integration & RESTful API Architecture, Serta Desain Engine SIM Intizham di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.2: ALUR INTEGRASI DATA MULTI-SUMBER ASESMEN SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-02/MONOGRAF-RISET-ALUR-INTEGRASI-DATA-MULTI-SUMBER/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 02: *Multi-Source Data Integration Pipeline*)  
@@ -2313,8 +2461,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 2.3: JADWAL DAN FREKUENSI PENGUMPULAN DATA ASESMEN PBIS
-## *Monograf Riset Akademik: Matriks Penjadwalan dan Frekuensi Pengumpulan Data Perilaku Positif Multi-Tier PBIS (Harian, Mingguan, Bulanan, Triwulanan, & Tahunan), Integrasi Doktrin Al-Waqtu Huwal Hayah Turats Klasik dengan Measurement Burst Designs & Data-Based Decision Making (DBDM), Serta Desain Kalender Asesmen Terpadu di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.3: JADWAL DAN FREKUENSI PENGUMPULAN DATA ASESMEN PBIS
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-03/MONOGRAF-RISET-JADWAL-FREKUENSI-DATA-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 03: *PBIS Data Collection Schedule & Frequency*)  
@@ -2633,8 +2802,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 2.4: MANAJEMEN ALUR KERJA ASESMEN SANTRI 24 JAM
-## *Monograf Riset Akademik: Standard Operating Procedure (SOP) Alur Kerja Sirkulasi Evaluasi dan Pembinaan Karakter Santri 24 Jam (Siklus Pagi, Madrasah, Sore, Malam, & Dini Hari), Integrasi Doktrin Ni'matul Faragh Turats Klasik dengan Lean Six Sigma Service Architecture & Workflow Automation, Serta Mitigasi Friksi Operasional Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.4: MANAJEMEN ALUR KERJA ASESMEN SANTRI 24 JAM
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-04/MONOGRAF-RISET-MANAJEMEN-ALUR-KERJA-ASESMEN-24JAM/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 04: *24-Hour Assessment Workflow Management*)  
@@ -2952,8 +3142,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 2.5: PROTOKOL AUDIT VALIDITAS DAN RELIABILITAS DATA ASESMEN
-## *Monograf Riset Akademik: Metodologi Audit Penjaminan Mutu Psikometri Data Asesmen Santri (Generalizability Theory, Inter-Rater Reliability ICC, & Rasch Measurement Model), Integrasi Kaidah Al-Jarh wat Ta'dil Turats Klasik dengan Standards for Educational and Psychological Testing (AERA, APA, NCME), Serta Desain Kalibrasi Penilai Berkala di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.5: PROTOKOL AUDIT VALIDITAS DAN RELIABILITAS DATA ASESMEN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-05/MONOGRAF-RISET-PROTOKOL-AUDIT-VALIDITAS-DATA/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 05: *Assessment Data Validity & Reliability Audit Protocol*)  
@@ -3284,8 +3495,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 2.6: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH
-## *Monograf Riset Akademik: Arsitektur Perangkat Lunak dan Rekayasa Infrastruktur Digital Sistem Informasi Manajemen Pengasuhan Pesantren (SIM Intizham-TUMBUH), Integrasi Doktrin Tanzhimul Jama'ah Turats Klasik dengan Cloud-Native Microservices, Progressive Web Apps (PWA), & Cryptographic Security Architecture, Serta Desain Dashboard Analitik Karakter di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.6: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-06/MONOGRAF-RISET-INFRASTRUKTUR-DIGITAL-SIM-TUMBUH/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 06: *Digital Infrastructure & Assessment SIM Architecture*)  
@@ -3597,8 +3829,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 3.1: MODEL ASESMEN FORMATIF HARIAN DAN FEEDBACK LOOP
-## *Monograf Riset Akademik: Epistemologi dan Praksis Siklus Evaluasi Formatif Harian Berkelanjutan (Daily Formative Assessment Loop), Integrasi Doktrin Al-Muhasabah ad-Da'imah Turats Klasik dengan Black-Wiliam Assessment for Learning (AfL) & Agile Feedback Loops, Serta Rekayasa Micro-Assessment di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.1: MODEL ASESMEN FORMATIF HARIAN DAN FEEDBACK LOOP
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-03-01/MONOGRAF-RISET-MODEL-ASESMEN-FORMATIF-HARIAN/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 01: *Daily Formative Assessment & Feedback Loop Model*)  
@@ -3922,8 +4175,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 3.2: PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)
-## *Monograf Riset Akademik: Metodologi Asesmen Fungsi Perilaku (Functional Behavior Assessment / FBA) untuk Mengidentifikasi Anteseden, Perilaku Inti, dan Konsekuensi (ABC Model) Pelanggaran Adab Santri Tier 2 & Tier 3, Integrasi Kaidah Tashawwurul Mas'alah wa Ma'rifatul 'Ilal Turats Klasik dengan Behavioral Functional Analysis & Positive Behavior Support, Serta Desain Rencana Intervensi Perilaku Positif (BIP) di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.2: PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-03-02/MONOGRAF-RISET-PROTOKOL-FBA-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 02: *Functional Behavior Assessment Protocol*)  
@@ -4260,8 +4534,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 3.3: METODOLOGI ASESMEN IPSATIF LAJU PERTUMBUHAN DIRI
-## *Monograf Riset Akademik: Formulasi Psikometri dan Metodologi Komputasi Laju Pertumbuhan Diri (Ipsative Growth Rate Computation), Integrasi Doktrin 'Man Kāna Yawmuhu Khayran Min Amsihi' Turats Klasik dengan Longitudinal Growth Modeling (LGM) & Individual Growth Curves, Serta Desain Rapor Trajektori Radar 10 Kapasitas di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.3: METODOLOGI ASESMEN IPSATIF LAJU PERTUMBUHAN DIRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-03-03/MONOGRAF-RISET-METODOLOGI-ASESMEN-IPSATIF-PERTUMBUHAN/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 03: *Ipsative Self-Growth Rate Methodology*)  
@@ -4595,8 +4890,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 3.4: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI
-## *Monograf Riset Akademik: Epistemologi Penilaian Kinerja Nyata Berbasis Bukti Otentik (Authentic Performance Assessment) dan Portofolio Karya Hidup (Digital Life-Portfolio), Integrasi Doktrin 'Al-Kalam 'alal Amal wa Qabulul Atsar' Turats Klasik dengan Wiggins-McTighe Authentic Task Design & E-Portfolio Framework, Serta Desain Pameran Karya Khidmah di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.4: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-03-04/MONOGRAF-RISET-EVALUASI-KINERJA-AUTENTIK-PORTOFOLIO/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 04: *Authentic Performance Assessment & Digital Portfolio Model*)  
@@ -4907,8 +5223,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 3.5: MODEL VALIDASI PSIKOMETRI MULTI-TRAIT MULTI-METHOD (MTMM)
-## *Monograf Riset Akademik: Validasi Konstruk Lintas Sifat dan Lintas Metode (Multi-Trait Multi-Method / MTMM Matrix) pada Pengukuran Karakter Santri dalam sistem TUMBUH, Integrasi Kaidah Al-Jam'u bainar Riwayatain Turats Klasik dengan Campbell-Fiske Construct Validity & Confirmatory Factor Analysis (CFA), Serta Verifikasi Validitas Konvergen dan Diskriminan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 3.5: MODEL VALIDASI PSIKOMETRI MULTI-TRAIT MULTI-METHOD (MTMM)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-03-05/MONOGRAF-RISET-VALIDASI-PSIKOMETRI-MTMM/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 05: *Multi-Trait Multi-Method Psychometric Validation Model*)  
@@ -5242,8 +5579,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 4.1: TEKNIK OBSERVASI NATURALISTIK DAN TIME SAMPLING ASRAMA
-## *Monograf Riset Akademik: Metodologi Pengamatan Perilaku Santri 24 Jam Tanpa Distorsi (Naturalistic Unobtrusive Observation), Integrasi Kaidah 'At-Tafaqqud bil Bashīrah' Turats Klasik dengan Momentary Time Sampling (MTS), Partial Interval Recording (PIR), & Behavioral Ecology, Serta Desain Jadwal Interval Observasi Musyrif di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 4.1: TEKNIK OBSERVASI NATURALISTIK DAN TIME SAMPLING ASRAMA
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-05-01/MONOGRAF-RISET-OBSERVASI-NATURALISTIK-TIME-SAMPLING/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 01: *Naturalistic Observation & Time Sampling Technique*)  
@@ -5554,8 +5912,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 4.2: PENERAPAN MAGIC RATIO 4:1 DALAM PENCATATAN ASRAMA
-## *Monograf Riset Akademik: Standarisasi Protokol Rasio Penguatan Positif Empat Berbanding Satu (4:1 Positive Reinforcement Magic Ratio), Integrasi Doktrin 'Al-Bisyru wat Taisir Qablal Indzar' Turats Klasik dengan Gottman-Fredrickson Positivity Ratio & PBIS Positive Behavioral Interactions, Serta Desain Counter Apresiasi Digital di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 4.2: PENERAPAN MAGIC RATIO 4:1 DALAM PENCATATAN ASRAMA
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-05-02/MONOGRAF-RISET-MAGIC-RATIO-EMPAT-BANDING-SATU/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 02: *4:1 Magic Ratio Application in Behavioral Logging*)  
@@ -5868,8 +6247,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 4.3: METODOLOGI MUHASABAH DAN SELF-MONITORING SANTRI
-## *Monograf Riset Akademik: Metodologi Asesmen Diri Terstruktur (Self-Assessment & Metacognitive Monitoring), Integrasi Doktrin 'Hāsibū Anfusakum Qabla an Tuhāsabū' Turats Klasik dengan Self-Regulated Learning (SRL), Metacognitive Calibration, & Self-Determination Theory (SDT), Serta Pembentukan Kesadaran Fitrah di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 4.3: METODOLOGI MUHASABAH DAN SELF-MONITORING SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-06-01/MONOGRAF-RISET-METODOLOGI-MUHASABAH-SELF-MONITORING/2026`  
 **Domain**: `05 Assessment Framework` > `06 Self Assessment` (Sub-Modul 01: *Muhasabah Methodology & Student Self-Monitoring*)  
@@ -6177,8 +6577,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 4.4: ASESMEN SEBAYA BERBASIS UKHUWAH ISLAMIYAH
-## *Monograf Riset Akademik: Metodologi Penilaian Teman Sebaya Konstruktif (Constructive Peer Assessment & Peer Feedback), Integrasi Doktrin 'Al-Mu'minu Mir'ātu Akhīhi wa An-Nashīhatu lil Muslimīn' Turats Klasik dengan Topping's Peer Assessment Framework, Social-Emotional Learning (CASEL Relationship Skills), Serta Desain Umpan Balik Kebaikan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 4.4: ASESMEN SEBAYA BERBASIS UKHUWAH ISLAMIYAH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-07-01/MONOGRAF-RISET-ASESMEN-SEBAYA-UKHUWAH/2026`  
 **Domain**: `05 Assessment Framework` > `07 Peer Assessment` (Sub-Modul 01: *Ukhuwah-Based Peer Assessment & Constructive Feedback*)  
@@ -6493,8 +6914,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 4.5: PERAN MUSYRIF SEBAGAI EVALUATOR EMPATIS
-## *Monograf Riset Akademik: Transformasi Peran Pembina Asrama dari Hakim Punitif Menjadi Evaluator Empatis (The Mentor as an Empathetic Evaluator & Growth Coach), Integrasi Doktrin 'Ar-Rifq fil Mu'allim wa Ri'āyatul Fitrah' Turats Klasik dengan Carl Rogers' Unconditional Positive Regard, Growth Mindset Coaching (Dweck), Serta Desain Relasi Edukatif di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 4.5: PERAN MUSYRIF SEBAGAI EVALUATOR EMPATIS
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-08-01/MONOGRAF-RISET-MUSYRIF-EVALUATOR-EMPATIS/2026`  
 **Domain**: `05 Assessment Framework` > `08 Mentor Assessment` (Sub-Modul 01: *Mentor as Empathetic Evaluator & Growth Coach*)  
@@ -6808,8 +7250,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 5.1: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Karakter Spiritual (Salīmul 'Aqīdah, Shahīhul 'Ibādah, & Matīnul Khuluq), Integrasi Doktrin 'Al-Imān, Al-Islām, wal Ihsān' Turats Klasik dengan Restorative Positive Behavior Support & Character Psychometrics, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.1: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-01/MONOGRAF-RISET-RUBRIK-SPIRITUAL-IBADAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 01: *Spiritual & Worship Character Rubrics - Dimensions 1 to 3*)  
@@ -7119,8 +7582,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 5.2: RUBRIK KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (DIMENSI 4–6)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Kapasitas Diri (Qawiyyul Jism, Mutsaqqaful Fikr, & Mujāhadatun Linafsih), Integrasi Doktrin 'Al-Quwwah wal Amānah wa Jihādun Nafs' Turats Klasik dengan Cognitive Load Theory, Self-Regulation Neurobiology, & Physical Health Standards, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.2: RUBRIK KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (DIMENSI 4–6)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-02/MONOGRAF-RISET-RUBRIK-FISIK-INTELEKTUAL-MUJAHADAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 02: *Physical, Intellectual, & Self-Discipline Character Rubrics - Dimensions 4 to 6*)  
@@ -7431,8 +7915,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 5.3: RUBRIK KARAKTER MANAJEMEN WAKTU DAN KHIDMAH (DIMENSI 7–10)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Empat Dimensi Kemandirian dan Kontribusi Sosial (Hāritsun 'alā Waqtih, Munazhzhamun fī Syu'ūnih, Qādirun 'alal Kasb, & Nāfi'un Lighairih), Integrasi Doktrin 'Hifzhul Waqt, Al-Itqān, Al-Kasbul Halāl, wa Khairun Nās' Turats Klasik dengan Time-Use Efficiency, 5S Workplace Organization, Entrepreneurial Mindset, & Prosocial Service Learning, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.3: RUBRIK KARAKTER MANAJEMEN WAKTU DAN KHIDMAH (DIMENSI 7–10)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-03/MONOGRAF-RISET-RUBRIK-WAKTU-ORGANISASI-KHIDMAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 03: *Time-Management, Organization, Productivity, & Altruism Rubrics - Dimensions 7 to 10*)  
@@ -7750,8 +8255,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 5.4: METODOLOGI PENYUSUNAN RUBRIK BARS 4 LEVEL
-## *Monograf Riset Akademik: Metodologi Rekayasa Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Evaluasi Karakter Pesantren (Engineering BARS Methodology for Islamic Boarding Character Assessment), Integrasi Doktrin 'Marātibul Wujūd wal 'Amal' Turats Klasik dengan Critical Incident Technique (Flanagan), Psychometric Anchor Calibration, Serta Algoritma Standardisasi Deskriptor di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.4: METODOLOGI PENYUSUNAN RUBRIK BARS 4 LEVEL
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-04/MONOGRAF-RISET-METODOLOGI-PENYUSUNAN-BARS/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 04: *Engineering 4-Level BARS Rubric Methodology*)  
@@ -8068,8 +8594,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 5.5: VALIDASI PSIKOMETRIK DAN STANDARISASI RUBRIK
-## *Monograf Riset Akademik: Protokol Validasi Psikometrik Konstruk dan Standarisasi Konten Rubrik Perilaku (Psychometric Construct & Content Validity of Behavioral Rubrics / Form VPR-Validasi), Integrasi Doktrin 'Tahqīqul Manāth wa Ta'dīlur Ruwāh' Turats Klasik dengan Aiken's V, Content Validity Index (CVI), Rasch Rating Scale Model (RSM), Serta Standar ISO 21001 di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.5: VALIDASI PSIKOMETRIK DAN STANDARISASI RUBRIK
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-05/MONOGRAF-RISET-VALIDASI-PSIKOMETRIK-RUBRIK/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 05: *Psychometric Validation & Rubric Standardization*)  
@@ -8389,8 +8936,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 5.6: PANDUAN OPERASIONAL PENILAI RUBRIK ASRAMA (USER MANUAL RATER)
-## *Monograf Riset Akademik: Pedoman Teknis Operasional Penilai Rubrik Pembina Asrama dan Dewan Asatidz (Operational Guide & Frame-of-Reference Training for Raters / Form POP-Rater), Integrasi Doktrin 'Adābul Mu'allim fil Qadhā' wal Hikmah' Turats Klasik dengan Frame-of-Reference (FOR) Training, Rater Error Training (RET), & Mitigasi Bias Evaluator, Serta Standar Sertifikasi Rater di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.6: PANDUAN OPERASIONAL PENILAI RUBRIK ASRAMA (USER MANUAL RATER)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-09-06/MONOGRAF-RISET-PANDUAN-OPERASIONAL-PENILAI-RUBRIK/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 06: *Operational Guide & Frame-of-Reference Manual for Raters*)  
@@ -8707,8 +9275,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 6.1: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
-## *Monograf Riset Akademik: Formulasi Matematis Pembobotan Komposit Multi-Sumber Evaluasi 360 Derajat (Mathematical Weighting Algorithm for 360-Degree Triangulated Scoring / Form MAT-Triangulasi), Integrasi Doktrin 'Mīzānul 'Adli wa Ta'addudusy Syuhūd' Turats Klasik dengan Generalizability Theory (G-Theory), Multi-Trait Multi-Method (MTMM), Serta Engine Komputasi di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.1: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-10-01/MONOGRAF-RISET-ALGORITMA-PEMBOBOTAN-360/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 01: *360-Degree Multi-Source Triangulated Weighting Algorithm*)  
@@ -9035,8 +9624,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 6.2: PERHITUNGAN BONUS PERTUMBUHAN DIRI IPSATIF
-## *Monograf Riset Akademik: Algoritma Perhitungan Laju Pertumbuhan Diri dan Formulasi Bonus Progresi Ipsatif (Ipsative Growth Bonus & Self-Referenced Velocity Algorithm / Form BPI-Ipsatif), Integrasi Doktrin 'Man Kāna Yawmuhu Khairan min Amsih' Turats Klasik dengan Ipsative Assessment Theory (Hughes), Value-Added Modeling (VAM), Serta Rekompensasi Ikhtiar di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.2: PERHITUNGAN BONUS PERTUMBUHAN DIRI IPSATIF
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-10-03/MONOGRAF-RISET-BONUS-PERTUMBUHAN-IPSATIF/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 03: *Ipsative Growth Bonus & Value-Added Scoring Algorithm*)  
@@ -9361,8 +9971,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 6.3: SPESIFIKASI RAPOR KARAKTER PERIODIK PBIS (BUKU RAPOR 24 JAM)
-## *Monograf Riset Akademik: Standarisasi Desain dan Arsitektur Informasi Buku Rapor Karakter Komposit 24 Jam (Periodic PBIS Character Report Card Specifications / Form RKP-Master), Integrasi Doktrin 'Shahīfatur Ri'āyah wa Kitābul A'māl' Turats Klasik dengan Visual Data Dashboarding (Few), Standards-Based Progress Reporting, Serta Desain Rapor Holistik di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.3: SPESIFIKASI RAPOR KARAKTER PERIODIK PBIS (BUKU RAPOR 24 JAM)
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-11-01/MONOGRAF-RISET-SPESIFIKASI-RAPOR-KARAKTER/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 01: *Periodic PBIS Character Report Card Specifications*)  
@@ -9681,8 +10312,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 6.4: FORMAT TRANSKRIP ADAB DAN QR CODE VERIFICATION
-## *Monograf Riset Akademik: Standarisasi Transkrip Kompetensi Karakter Kumulatif Lulusan dan Sistem Verifikasi Kriptografis Digital (Graduation Adab Transcript & Cryptographic QR Code Verification / Form TAK-Transkrip), Integrasi Doktrin 'Shahādatut Tazkiyah wa Tsubūtul 'Adālah' Turats Klasik dengan W3C Verifiable Credentials, Public Key Infrastructure (PKI), Serta Ijazah Adab di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.4: FORMAT TRANSKRIP ADAB DAN QR CODE VERIFICATION
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-11-02/MONOGRAF-RISET-TRANSKRIP-ADAB-QR-CODE/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 02: *Graduation Adab Transcript & Cryptographic Verification*)  
@@ -10009,8 +10661,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 6.5: SPESIFIKASI DASHBOARD ANALITIK PBIS
-## *Monograf Riset Akademik: Standarisasi Arsitektur Visual dan Metrik Real-Time Dashboard Analitik Pembinaan Pesantren (School-Wide PBIS Real-Time Analytics Dashboard / Form DAB-Master), Integrasi Doktrin 'Al-Misykātul Mudhī'ah wa Ru'yatut Tadzakkur' Turats Klasik dengan Shneiderman's Visual Information Seeking Mantra, SWIS PBIS Metrics, Serta Desain Ruang Kendali Pimpinan di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.5: SPESIFIKASI DASHBOARD ANALITIK PBIS
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-12-01/MONOGRAF-RISET-DASHBOARD-ANALITIK-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 01: *School-Wide PBIS Real-Time Analytics Dashboard*)  
@@ -10327,8 +11000,29 @@ flowchart TD
 ---
 
 
-# SUB-BAB 6.6: ALGORITMA EARLY WARNING SYSTEM (EWS) BEHAVIORAL
-## *Monograf Riset Akademik: Formulasi Algoritma Sistem Peringatan Dini Penurunan Karakter dan Risiko Krisis Santri (Behavioral Early Warning System Algorithm / Form EWS-Behavioral), Integrasi Doktrin 'Saddudz Dzarī'ah wa Istisyrāful Futun' Turats Klasik dengan Multi-Variate Logistic Regression, Anomaly Detection Algorithms, Serta Protokol De-eskalasi Krisis di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.6: ALGORITMA EARLY WARNING SYSTEM (EWS) BEHAVIORAL
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-12-02/MONOGRAF-RISET-ALGORITMA-EWS-BEHAVIORAL/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 02: *Behavioral Early Warning System & Crisis Prediction Algorithm*)  

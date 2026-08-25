@@ -1,5 +1,26 @@
-# SUB-BAB 1.4: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI
-## *Monograf Riset Akademik: Protokol Etika Pengelolaan Data Karakter dan Psikososial Santri 24 Jam, Penjaminan Kerahasiaan Konseling BK & Rekam Jejak Perilaku, Integrasi Doktrin Hifzhul Amanah wa Sitril 'Urub Turats dengan Standar Perlindungan Data Internasional (FERPA & GDPR Compliance) dan Etika Psikologi (APA Code of Conduct), Serta Arsitektur Keamanan Akses Berjenjang (RBAC) di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.4: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-01-04/MONOGRAF-RISET-ETIKA-KERAHASIAAN-DATA-ASESMEN/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 04: *Assessment Data Ethics & Confidentiality Protocol*)  

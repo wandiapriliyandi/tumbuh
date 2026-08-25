@@ -1,5 +1,26 @@
-# SUB-BAB 6.1: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA
-## *Monograf Riset Akademik: Standarisasi Program Audit Integritas Zero-Violence Semesteran, Metodologi Survei Anonim Rasa Aman Santri (Anonymous Student Safety Climate Survey), dan Penegakan Standar Sekolah Ramah Anak Bebas Kekerasan (Bi-Annual Zero-Violence Integrity Audit Program, Anonymous Safety Polling Methodology, & Safe-School Certification / Form PRO-AuditIntegritas), Integrasi Doktrin 'Al-Amānah wal Muhāsabah al-Mu'assasiyyah' Turats Klasik dengan ISO 37001 Anti-Bribery/Integrity Principles, UNICEF Safe-to-Learn Framework, Serta Kredibilitas Lembaga di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.1: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P9-04-03/MONOGRAF-RISET-AUDIT-INTEGRITAS-ZERO-VIOLENCE/2026`  
 **Domain**: `09 Programs` > `04 Institutional Programs` (Sub-Modul 03: *Institutional Zero-Violence Integrity Audit Program*)  

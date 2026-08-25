@@ -1,5 +1,26 @@
-# SUB-BAB 6.1: ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN
-## *Monograf Riset Akademik: Standarisasi Arsitektur School-Wide Positive Behavioral Interventions and Supports (SW-PBIS) Multi-Tier dalam Ekosistem Asrama 24 Jam, Desain Piramida Intervensi Proporsional (Tier 1 Universal, Tier 2 Targeted, Tier 3 Intensive), dan Mekanisme Transisi Berbasis Data (Multi-Tier SW-PBIS Architecture in 24-Hour Pesantren, Proportional Intervention Pyramid, & Data-Driven Transition Protocols / Form PBIS-Arsitektur), Integrasi Doktrin 'Marātib at-Tarbiyah wal Ināyah bil-Khalq' Turats Klasik dengan Horner-Sugai PBIS Framework, MTSS Behavioral Systems, Serta Rekayasa Iklim Perilaku di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.1: ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P8-01-01/MONOGRAF-RISET-ARSITEKTUR-SW-PBIS/2026`  
 **Domain**: `08 Integrated Approaches` > `01 PBIS` (Sub-Modul 01: *School-Wide Multi-Tier PBIS Architecture in Pesantren*)  

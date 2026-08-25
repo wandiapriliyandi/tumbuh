@@ -1,5 +1,26 @@
-# SUB-BAB 5.2: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
-## *Monograf Riset Akademik: Standarisasi Protokol Penyelenggaraan Lingkaran Restoratif Kamar, Mediasi Konflik Komunal Asrama, dan Rekonsiliasi Ukhuwah (Dormitory Restorative Circles SOP, Talking Piece Rituals, & Community Healing / Form SRC-Circles), Integrasi Doktrin 'Al-Majālis asy-Syūrā wal Ishlāh al-Jamā'ī' Turats Klasik dengan Boyes-Watson & Pranis' Circle Process Model, Whole-School Restorative Justice, Serta Bi'ah Damai di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 5.2: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P6-07-02/MONOGRAF-RISET-SOP-RESTORATIVE-CIRCLES/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 02: *Dormitory Restorative Circles SOP & Community Healing*)  

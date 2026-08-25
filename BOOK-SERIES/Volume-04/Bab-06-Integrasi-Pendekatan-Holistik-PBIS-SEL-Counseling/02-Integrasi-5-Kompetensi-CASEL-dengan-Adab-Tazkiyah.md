@@ -1,5 +1,26 @@
-# SUB-BAB 6.2: INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH
-## *Monograf Riset Akademik: Standarisasi Integrasi 5 Kompetensi Social-Emotional Learning (CASEL) dengan Taksonomi Adab dan Tazkiyatun Nafs, Rekayasa Kurikulum Sosio-Emosional Islami, dan Penyelarasan Neurosains Afektif dengan Turats (Integrating CASEL 5 Core Competencies with Tazkiyatun Nafs Taxonomy, Islamic SEL Curriculum Engineering, & Affective Neuroscience Alignment / Form SEL-Tazkiyah), Integrasi Doktrin 'Tahdzīb al-Akhlāq wa Riyādhatun Nafs' Turats Klasik dengan CASEL SEL Framework, Durlak Meta-Analysis, Serta Kematangan Karakter di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.2: INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P8-02-01/MONOGRAF-RISET-INTEGRASI-CASEL-TAZKIYAH/2026`  
 **Domain**: `08 Integrated Approaches` > `02 SEL` (Sub-Modul 01: *Integrating CASEL 5 Core Competencies with Tazkiyatun Nafs*)  

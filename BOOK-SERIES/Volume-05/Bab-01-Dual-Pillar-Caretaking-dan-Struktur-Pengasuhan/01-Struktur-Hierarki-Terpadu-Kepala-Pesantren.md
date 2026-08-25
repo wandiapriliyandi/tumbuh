@@ -1,5 +1,26 @@
-# SUB-BAB 1.1: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS
-## *Monograf Riset Akademik: Standarisasi Integrasi Struktur Kepemimpinan Ma'had dan Madrasah Formal, Penyatuan Visi Kurikulum 24 Jam, dan Eliminasi Dikotomi Pengasuh vs Guru Sekolah (Unified Leadership Hierarchy, Ma'had-Madrasah Dual Integration, & One-Roof Pesantren Structure / Form SHT-Struktur), Integrasi Doktrin 'Wahdatul Qiyādah wal Imāmah' Turats Klasik dengan Mintzberg's Organizational Configurations, Matrix Organizational Theory, Serta Sinergi di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 1.1: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-02-01/MONOGRAF-RISET-STRUKTUR-HIERARKI-TERPADU/2026`  
 **Domain**: `07 Implementation Framework` > `02 Organizational Structure` (Sub-Modul 01: *Unified Leadership Hierarchy & Ma'had-Madrasah Integration*)  

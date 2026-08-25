@@ -1,5 +1,26 @@
-# SUB-BAB 2.6: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH
-## *Monograf Riset Akademik: Arsitektur Perangkat Lunak dan Rekayasa Infrastruktur Digital Sistem Informasi Manajemen Pengasuhan Pesantren (SIM Intizham-TUMBUH), Integrasi Doktrin Tanzhimul Jama'ah Turats Klasik dengan Cloud-Native Microservices, Progressive Web Apps (PWA), & Cryptographic Security Architecture, Serta Desain Dashboard Analitik Karakter di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.6: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P5-02-06/MONOGRAF-RISET-INFRASTRUKTUR-DIGITAL-SIM-TUMBUH/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 06: *Digital Infrastructure & Assessment SIM Architecture*)  

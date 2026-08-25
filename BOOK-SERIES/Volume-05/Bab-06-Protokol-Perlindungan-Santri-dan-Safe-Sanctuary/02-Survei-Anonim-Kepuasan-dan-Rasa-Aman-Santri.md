@@ -1,5 +1,26 @@
-# SUB-BAB 6.2: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI
-## *Monograf Riset Akademik: Standarisasi Instrumen Survei Kepuasan dan Indeks Rasa Aman Santri (Student Safety Index / SSI), Metodologi Pengumpulan Data Anonim Bebas Tekanan, dan Analisis Iklim Psikososial Pesantren (Student Safety Index Measurement, Anonymous Data Collection Protocol, & Psychosocial Climate Analysis / Form SAK-Survei), Integrasi Doktrin 'Al-Amn wal Amān fil Bay'ah ash-Shālihah' Turats Klasik dengan School Climate Measure (CSCI), Psychological Safety Theory Edmondson, Serta Perlindungan Hak Santri di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 6.2: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-10-03/MONOGRAF-RISET-SURVEI-RASA-AMAN-SANTRI/2026`  
 **Domain**: `07 Implementation Framework` > `10 Evaluation` (Sub-Modul 03: *Student Safety & Psychosocial Climate Survey*)  

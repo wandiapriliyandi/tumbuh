@@ -1,5 +1,26 @@
-# SUB-BAB 2.3: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH
-## *Monograf Riset Akademik: Standarisasi Praktik Jurnal Refleksi Malam 10 Menit, Muhasabah Terstruktur Santri, dan Konsolidasi Memori Pembelajaran melalui Tulisan (Evening Reflection Journal, Structured Muhasabah Protocol, & Memory Consolidation via Writing / Form JRM-Jurnal), Integrasi Doktrin 'Al-Muhasabah qabl an-Nawn wal Katsratu Dzikril Mawt' Turats Klasik dengan Expressive Writing (Pennebaker), Gratitude Journaling Science, Serta Pertumbuhan Diri Remaja di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.3: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-05-03/MONOGRAF-RISET-JURNAL-REFLEKSI-MUHASABAH/2026`  
 **Domain**: `07 Implementation Framework` > `05 Daily Practices` (Sub-Modul 03: *Evening Reflection Journal & Structured Muhasabah Protocol*)  

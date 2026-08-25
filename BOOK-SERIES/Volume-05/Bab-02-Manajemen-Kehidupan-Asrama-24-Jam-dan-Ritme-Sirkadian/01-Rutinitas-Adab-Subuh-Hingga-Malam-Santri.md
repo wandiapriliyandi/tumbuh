@@ -1,5 +1,26 @@
-# SUB-BAB 2.1: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI
-## *Monograf Riset Akademik: Standarisasi Jadwal Rutinitas Pembiasaan Adab Santri 24 Jam Berbasis Neurosains Pembentukan Kebiasaan, Kronobiologi, dan Tazkiyatun Nafs (Daily Habit Formation Routine, Circadian-Aligned Schedule, & Adab Practice Standards / Form RAH-Jadwal), Integrasi Doktrin 'Al-'Ādat Tabī'ah Tsāniyah wal Mudāwamah' Turats Klasik dengan James Clear's Atomic Habits, Habit Loop Neuroscience, Serta Pembiasaan Berbasis Cinta di Ekosistem Pesantren Berbasis TUMBUH*
+# PANDUAN PRAKTIS 2.1: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI
+
+**Sasaran Pengguna**: Pimpinan Pondok, Kepala Pengasuhan, Wali Kelas, & Musyrif Asrama  
+**Fokus Penerapan**: Panduan Kerja Lapangan & Pembiasaan Karakter Harian Sistem TUMBUH  
+
+---
+
+### 🎯 Tujuan & Manfaat Panduan
+Panduan ini dirancang sebagai petunjuk operasional terapan agar pendidik dan musyrif dapat:
+1. Menjalankan pembinaan adab santri dengan pendekatan kasih sayang (*Rahmah*) dan ketegasan yang mendidik (*Firm & Kind*).
+2. Menghindari cara-cara kekerasan fisik, bentakan verbal, maupun hukuman yang mempermalukan santri.
+3. Menciptakan suasana asrama dan kelas yang aman, tertib, dan menumbuhkan kesadaran diri (*Bi'ah Shalihah*).
+
+---
+
+### 💡 Intisari Cepat (3 Menit Memahami Esensi)
+* **Kunci Pengasuhan**: Karakter santri tumbuh melalui keteladanan nyata (*Qudwah Hasanah*), komunikasi empatik, dan pembiasaan terstruktur 24 jam.
+* **Tindakan Utama**: Terapkan panduan langkah demi langkah di bawah ini secara konsisten, pantau perkembangan santri secara objektif, dan berikan apresiasi atas setiap perbaikan diri yang mereka capai.
+* **Prinsip Disiplin**: Fokus pada pemulihan hubungan dan tanggung jawab nyata (*Restoratif*), bukan sekadar melampiaskan amarah atau menghukum.
+
+---
+
+### 📖 Uraian Panduan & Langkah Aksi Lapangan
 
 **Nomor Identifikasi**: `P7-05-01/MONOGRAF-RISET-RUTINITAS-ADAB-HARIAN/2026`  
 **Domain**: `07 Implementation Framework` > `05 Daily Practices` (Sub-Modul 01: *Daily Habit Formation Routine & Circadian-Aligned Adab Schedule*)  
