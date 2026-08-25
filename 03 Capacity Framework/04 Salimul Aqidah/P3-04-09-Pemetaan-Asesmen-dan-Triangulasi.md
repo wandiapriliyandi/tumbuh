@@ -14,20 +14,20 @@
 >   Banyak lembaga hanya mengandalkan penilaian sepihak dari guru kelas atau satu musyrif tertentu. Akibatnya, santri yang mahir melakukan manipulasi kesan (*Impression Management*) di depan guru mendapatkan predikat terpuji, sementara perilaku zalimnya di kamar asrama tidak terdeteksi. Sebaliknya, santri pemalu kerap dinilai pasif meskipun memiliki integritas batin yang sangat kokoh.
 > * **Inovasi Triangulasi 360° Salimul Aqidah TUMBUH:**  
 >   TUMBUH memetakan instrumen asesmen melalui **Empat Sumber Data Terpadu: 1. Observasi In-Vivo Musyrif Asrama, 2. Pengamatan Adab Guru Kelas/Madrasah, 3. Jurnal Self-Muhasabah Refleksi Batin Santri, dan 4. Konfirmasi Sosiometri Teman Kamar (*Peer Confirmation*)** yang direkonsiliasi via mesin analitik PBIS.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah teologi persaksian anggota badan dan saksi adil (*Syuhud al-Haqq* QS. Yasin: 65 & QS. An-Nur: 24), menyintesiskan metodologi triangulasi Denzin (1978) dan matriks MTMM Campbell & Fiske (1959), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan algoritma penyelarasan diskrepansi data lintas lokus.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA ASESMEN TRIANGULASI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-asesmen-triangulasi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya "Asesmen Sumber Tunggal" & Manipulasi Kesan di Pesantren](#1-latar-belakang-masalah-bahaya-asesmen-sumber-tunggal--manipulasi-kesan-di-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Persaksian Multi-Dimensi & Fiqh Tazkiyah asy-Syuhud (QS. Yasin: 65 & Asy-Syathibi)](#2-inkuiri-1-eksegesis-turats-persaksian-multi-dimensi--fiqh-tazkiyah-asy-syuhud-qs-yasin-65--asy-syathibi)
-  - [3. Inkuiri 2: Teori Triangulasi Multimoda Denzin (1978) & Multitrait-Multimethod Matrix (MTMM) Campbell & Fiske](#3-inkuiri-2-teori-triangulasi-multimoda-denzin-1978--multitrait-multimethod-matrix-mtmm-campbell--fiske)
-  - [4. Inkuiri 3: Arsitektur Empat Sumber Data Asesmen 360° dalam Pengasuhan Asrama 24 Jam](#4-inkuiri-3-arsitektur-empat-sumber-data-asesmen-360-dalam-pengasuhan-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-asesmen-triangulasi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Persaksian Multi-Dimensi & Fiqh Tazkiyah asy-Syuhud (QS. Yasin: 65 & Asy-Syathibi)](#2eksegesis-turats-persaksian-multi-dimensi-fiqh-tazkiyah-asy-syuhud-qs-yasin-65-asy-syathibi)
+  - [3. Teori Triangulasi Multimoda Denzin (1978) & Multitrait-Multimethod Matrix (MTMM) Campbell & Fiske](#3teori-triangulasi-multimoda-denzin-1978-multitrait-multimethod-matrix-mtmm-campbell-fiske)
+  - [4. Arsitektur Empat Sumber Data Asesmen 360° dalam Pengasuhan Asrama 24 Jam](#4arsitektur-empat-sumber-data-asesmen-360-dalam-pengasuhan-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-asesmen-triangulasi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Triangulasi 360° Asesmen Salimul Aqidah (Instrumen, Lokus, Frekuensi, & Bobot)](#1-matriks-triangulasi-360-asesmen-salimul-aqidah-instrumen-lokus-frekuensi--bobot)
   - [2. Protokol Rekonsiliasi Diskrepansi Data Antar-Lokus (Cross-Locus Reconciliation Protocol)](#2-protokol-rekonsiliasi-diskrepansi-data-antar-lokus-cross-locus-reconciliation-protocol)
   - [3. Format Baku Lembar Jurnal Self-Muhasabah & Rubrik Konfirmasi Sosiometri Kamar](#3-format-baku-lembar-jurnal-self-muhasabah--rubrik-konfirmasi-sosiometri-kamar)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Persaksian Multi-Dimensi & Fiqh Tazkiyah asy-Syuhud (QS. Yasin: 65 & Asy-Syathibi)
+### 2. Eksegesis Turats Persaksian Multi-Dimensi & Fiqh Tazkiyah asy-Syuhud (QS. Yasin: 65 & Asy-Syathibi)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُ�
 
 *"Pada hari (ketika) lidah, tangan, dan kaki mereka menjadi saksi atas mereka terhadap apa yang dahulu mereka kerjakan."* (QS. An-Nur [24]: 24).[^4]
 
-#### 🥊 Ronde 1: Persaksian Teman Sekamar (*Peer Feedback*) Bukan Spionase
+#### 1. Diskursus Dialektika Kritis: Persaksian Teman Sekamar (*Peer Feedback*) Bukan Spionase
 * **Pihak A (Sudut Pandang Kekhawatiran Budaya Tajassus)**:  
   *"Melibatkan teman sekamar untuk mengonfirmasi perilaku santri sama saja mengajarkan spionase (Tajassus) yang dilarang Al-Qur'an!"*
 * **Tinjauan Fiqh Ukhuwah & Saling Menasehati dalam Kebenaran**:  
   Konfirmasi teman sebaya (*Peer Feedback*) dalam TUMBUH **bukan spionase mencari-cari aib (*Tajassus*)**, melainkan instrumen saling menjaga amanah dan mengonfirmasi kebaikan (*Tawashaw bil-Haqqi wa Tawashaw bish-Shabr*). Pertanyaan sosiometri dirancang positif: *"Siapakah rekan sekamarmu yang paling amanah menjaga barang dan paling menenangkan saat diajak shalat berjamaah?"*. Ini memperkuat kohesi ukhuwah, bukan memecah belah.[^5]
 
-#### 🥊 Ronde 2: Jurnal Self-Muhasabah Santri Sebagai Pengakuan Batin Otentik
+#### 2. Diskursus Dialektika Kritis: Jurnal Self-Muhasabah Santri Sebagai Pengakuan Batin Otentik
 * **Pihak A (Sudut Pandang Skeptisisme Kejujuran Santri)**:  
   *"Santri pasti akan berbohong dan menulis hal-hal yang bagus saja di buku muhasabah pribadinya!"*
 * **Tinjauan Psikologi Refleksi & Budaya Kejujuran Batin**:  
   Jurnal Self-Muhasabah TUMBUH tidak dinilai berdasarkan "apakah santri suci dari dosa", melainkan berdasarkan **Kapasitas Refleksi Kritis & Kejujuran Mengakui Kekurangan (*Metacognitive Self-Awareness*)**. Santri yang menulis: *"Malam ini saya merasa shalat saya kurang khusyuk karena memikirkan game, saya beristighfar dan bertekad besok hadir di saf pertama"* justru mendapatkan poin apresiasi tinggi karena menunjukkan hidupnya radar batin *Muraqabah*.[^6]
 
-#### 🥊 Ronde 3: Kedudukan Rekonsiliasi Musyrif Asrama vs Guru Kelas
+#### 3. Diskursus Dialektika Kritis: Kedudukan Rekonsiliasi Musyrif Asrama vs Guru Kelas
 * **Pihak A (Sudut Pandang Arogansi Sektoral)**:  
   *"Guru kelas merasa lebih pintar dari musyrif asrama, sementara musyrif merasa lebih tahu kehidupan santri; siapa yang harus dimenangkan?"*
 * **Resolusi Algoritma Rekonsiliasi Tertimbang**:  
@@ -113,7 +113,7 @@ $$\text{يَوْمَ تَشْهَدُ عَلَيْهِمْ أَلْسِنَتُ�
 
 ---
 
-### 3. Inkuiri 2: Teori Triangulasi Multimoda Denzin (1978) & Multitrait-Multimethod Matrix (MTMM) Campbell & Fiske
+### 3. Teori Triangulasi Multimoda Denzin (1978) & Multitrait-Multimethod Matrix (MTMM) Campbell & Fiske
 
 ```mermaid
 graph TD
@@ -142,19 +142,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Menguji Validitas Konvergen vs Validitas Diskriminan
+#### 1. Diskursus Dialektika Kritis: Menguji Validitas Konvergen vs Validitas Diskriminan
 * **Pihak A (Sudut Pandang Kerancuan Penilaian Karakter)**:  
   *"Santri yang pintar pidato dan pandai bahasa Arab otomatis pasti aqidahnya lurus; tidak perlu dipisahkan penilaiannya!"*
 * **Tinjauan Validitas Diskriminan MTMM Campbell & Fiske**:  
   Menyamakan kepandaian pidato (*Verbal Fluency*) dengan kemurnian aqidah (*Salimul Aqidah*) adalah **Kekeliruan Konstruk Fatal (*Construct Contamination*)**. Banyak santri pandai berorasi tentang tauhid, namun di kamar asrama melakukan ghashab dan berbohong. Metodologi MTMM memisahkan keterampilan retorika dari integritas aqidah privat. Triangulasi memastikan hanya santri yang terbukti jujur di ruang privat yang mendapat predikat unggul.[^9]
 
-#### 🥊 Ronde 2: Resolusi Otomatis Diskrepansi Data Antar-Penilai
+#### 2. Diskursus Dialektika Kritis: Resolusi Otomatis Diskrepansi Data Antar-Penilai
 * **Pihak A (Sudut Pandang Kebingungan Pengolahan Data)**:  
   *"Bagaimana jika nilai musyrif dan nilai guru sangat berbeda jauh; apakah sistem tidak macet?"*
 * **Tinjauan Algoritma Rekonsiliasi Cerdas PBIS**:  
   Sistem analitik TUMBUH menerapkan **Ambang Batas Diskrepansi Otomatis (*Discrepancy Threshold Trigger*)**: Jika perbedaan skor antar-lokus melebihi 30%, sistem tidak memaksakan rata-rata matematis buta, melainkan menandai status *"Perlu Rekonsiliasi Lapangan"*. Tim BK memfasilitasi musyawarah singkat 10 menit antara guru dan musyrif untuk menelaah bukti insiden. Data diselaraskan berdasarkan fakta objektif.[^10]
 
-#### 🥊 Ronde 3: Perlindungan Privasi Data Jurnal Refleksi Batin
+#### 3. Diskursus Dialektika Kritis: Perlindungan Privasi Data Jurnal Refleksi Batin
 * **Pihak A (Sudut Pandang Transparansi Tanpa Batas)**:  
   *"Semua tulisan curhat santri di buku muhasabah harus dibacakan di depan seluruh santri asrama agar kapok!"*
 * **Resolusi Kerahasiaan Konseling & Larangan Membuka Aib**:  
@@ -162,7 +162,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Arsitektur Empat Sumber Data Asesmen 360° dalam Pengasuhan Asrama 24 Jam
+### 4. Arsitektur Empat Sumber Data Asesmen 360° dalam Pengasuhan Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -199,13 +199,13 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memetakan instrumen asesmen ke dalam matriks triangulasi 4 lokus asrama secara terpadu.
 * **Konklusi (*an-Natijah*)**: Maka, keputusan penentuan jenjang kemandirian santri terbebas dari kesalahan vonis dan mencerminkan kematangan aqidah yang sesungguhnya.[^12]
 
-#### 🥊 Ronde 1: Menentukan Proporsi Bobot Triangulasi yang Berkeadilan
+#### 1. Diskursus Dialektika Kritis: Menentukan Proporsi Bobot Triangulasi yang Berkeadilan
 * **Pihak A (Sudut Pandang Kesetaraan Rata 25% untuk Semua)**:  
   *"Bagi saja semua sumber data sama rata masing-masing 25%; itu jauh lebih adil dan mudah dihitung!"*
 * **Tinjauan Bobot Fungsional Pengasuhan Asrama 24 Jam**:  
   Membagi rata 25% adalah bentuk keadilan semu. Waktu terbesar santri dihabiskan dalam interaksi asrama (16 jam/hari), sementara di kelas hanya 8 jam/hari. Selain itu, musyrif adalah pengasuh utama (*In Loco Parentis*). Memberikan bobot 40% pada musyrif, 30% pada guru, 20% pada self-muhasabah, dan 10% pada peer sosiometri merefleksikan proporsi realitas kehidupan santri secara akurat.[^13]
 
-#### 🥊 Ronde 2: Frekuensi Pengambilan Data (Harian, Mingguan, & Semesteran)
+#### 2. Diskursus Dialektika Kritis: Frekuensi Pengambilan Data (Harian, Mingguan, & Semesteran)
 * **Pihak A (Sudut Pandang Asesmen Harian Non-Stop Melelahkan)**:  
   *"Apakah musyrif dan guru harus mengisi instrumen triangulasi ini setiap detik setiap hari?"*
 * **Tinjauan Desain Sampling Perilaku Ergonomis**:  
@@ -215,7 +215,7 @@ flowchart TD
   * **Santri**: Pengisian jurnal muhasabah refleksi sepekan sekali pada malam Jumat (15 menit).
   * **Peer Sosiometri**: Pengisian instrumen konfirmasi kamar sebulan sekali. Proses berjalan ringan tanpa menambah beban administrasi.[^14]
 
-#### 🥊 Ronde 3: Pemanfaatan Hasil Triangulasi untuk Keputusan Promosi Tangga J1–J4
+#### 3. Diskursus Dialektika Kritis: Pemanfaatan Hasil Triangulasi untuk Keputusan Promosi Tangga J1–J4
 * **Pihak A (Sudut Pandang Keputusan Sepihak Kepala Sekolah)**:  
   *"Kepala sekolah yang memutuskan siapa santri yang naik jenjang; data triangulasi cukup jadi lampiran pajangan!"*
 * **Resolusi Musyawarah Pleno Dewan Pengasuhan (Syura Tarbawiyyah)**:  
@@ -223,9 +223,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Diskrepansi Ekstrem Nilai Guru vs Musyrif)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Diskrepansi Ekstrem Nilai Guru vs Musyrif)
 Pertarungan filosofis-metodologis terdalam di asrama bermuara pada kasus: **"Bagaimana dewan pengasuhan menetapkan status capaian aqidah santri K, di mana Guru Madrasah memberinya skor Level 4 (Exemplary: santri teladan juara kelas), namun Musyrif Asrama memberinya skor Level 1 (Emerging: santri sering mengintimidasi teman sekamar dan tidak mau dzikir jika musyrif lengah)?"**
 
 * **Pendekatan Lama (Konflik Kewenangan Tanpa Solusi)**:  
@@ -273,7 +273,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

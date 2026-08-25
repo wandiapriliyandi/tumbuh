@@ -14,20 +14,20 @@
 >   Buku mutaba'ah amaliah harian di pesantren konvensional kerap terdegradasi menjadi rutinitas formalitas yang penuh kebohongan: santri mencentang seluruh kolom shalat dan dzikir sekaligus pada akhir pekan menjelang pemeriksaan musyrif. Instrumen gagal menjadi cermin penyucian jiwa dan justru mengajarkan kecurangan sistemik.
 > * **Inovasi Empat Instrumen Terintegrasi Salimul Aqidah TUMBUH:**  
 >   TUMBUH merancang ekosistem instrumen berbasis *Self-Regulation Theory* Kanfer (1970): **1. Kartu Kendali Dzikir & Muraqabah Yaumiyyah (<2 Menit), 2. Jurnal Refleksi Batin Mingguan, 3. Lembar Observasi Fast-Tap Musyrif, dan 4. Formulir Konseling Syubhat & Krisis Aqidah BK (Terkunci & Rahasia)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah risalah agung *Muhasabatun Nafsi* Al-Harits Al-Muhasibi dan QS. Al-Hasyr: 18, menyintesiskan teori psikologi regulasi diri Kanfer, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan format instrumen cetak-digital yang ergonomis dan bebas manipulasi.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA INSTRUMEN MUTABAAH](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-instrumen-mutabaah)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Tragedi "Centang Palsu" & Formalisme Buku Mutaba'ah Tradisional](#1-latar-belakang-masalah-tragedi-centang-palsu--formalisme-buku-mutabaah-tradisional)
-  - [2. Inkuiri 1: Eksegesis Turats Hakikat Muhasabah & Hisab Diri (QS. Al-Hasyr: 18 & Al-Harits Al-Muhasibi)](#2-inkuiri-1-eksegesis-turats-hakikat-muhasabah--hisab-diri-qs-al-hasyr-18--al-harits-al-muhasibi)
-  - [3. Inkuiri 2: Teori Regulasi Diri Frederick Kanfer (Self-Monitoring, Self-Evaluation, & Self-Reinforcement)](#3-inkuiri-2-teori-regulasi-diri-frederick-kanfer-self-monitoring-self-evaluation--self-reinforcement)
-  - [4. Inkuiri 3: Arsitektur Empat Instrumen Baku Salimul Aqidah dalam Kehidupan Asrama 24 Jam](#4-inkuiri-3-arsitektur-empat-instrumen-baku-salimul-aqidah-dalam-kehidupan-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Instrumen](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-desain-instrumen)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Hakikat Muhasabah & Hisab Diri (QS. Al-Hasyr: 18 & Al-Harits Al-Muhasibi)](#2eksegesis-turats-hakikat-muhasabah-hisab-diri-qs-al-hasyr-18-al-harits-al-muhasibi)
+  - [3. Teori Regulasi Diri Frederick Kanfer (Self-Monitoring, Self-Evaluation, & Self-Reinforcement)](#3teori-regulasi-diri-frederick-kanfer-self-monitoring-self-evaluation-self-reinforcement)
+  - [4. Arsitektur Empat Instrumen Baku Salimul Aqidah dalam Kehidupan Asrama 24 Jam](#4arsitektur-empat-instrumen-baku-salimul-aqidah-dalam-kehidupan-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Instrumen](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-desain-instrumen)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Desain Kartu Kendali Dzikir & Muraqabah Yaumiyyah (Format Cetak & Digital)](#1-desain-kartu-kendali-dzikir--muraqabah-yaumiyyah-format-cetak--digital)
   - [2. Format Baku Formulir Konseling Syubhat & Krisis Aqidah (Dokumen Rahasia Tim BK)](#2-format-baku-formulir-konseling-syubhat--krisis-aqidah-dokumen-rahasia-tim-bk)
   - [3. Rubrik Penilaian Portofolio Mutaba'ah & Indeks Kepatuhan Ruhiyah (IKR)](#3-rubrik-penilaian-portofolio-mutabaah--indeks-kepatuhan-ruhiyah-ikr)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Hakikat Muhasabah & Hisab Diri (QS. Al-Hasyr: 18 & Al-Harits Al-Muhasibi)
+### 2. Eksegesis Turats Hakikat Muhasabah & Hisab Diri (QS. Al-Hasyr: 18 & Al-Harits Al-Muhasibi)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُو
 
 *"Wahai orang-orang yang beriman! Bertakwalah kepada Allah dan **hendaklah setiap jiwa memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat)**; dan bertakwalah kepada Allah. Sungguh, Allah Maha Teliti terhadap apa yang kamu kerjakan."* (QS. Al-Hasyr [59]: 18).[^4]
 
-#### 🥊 Ronde 1: Lembar Mutaba'ah Sebagai Alat Tazkiyah, Bukan Alat Eksekusi Takzir
+#### 1. Diskursus Dialektika Kritis: Lembar Mutaba'ah Sebagai Alat Tazkiyah, Bukan Alat Eksekusi Takzir
 * **Pihak A (Sudut Pandang Pengawas Punitif)**:  
   *"Buku mutaba'ah itu sengaja dibuat untuk mencari kesalahan santri; santri yang kolomnya kosong harus langsung disuruh push-up 100 kali!"*
 * **Tinjauan Fiqh Tarbiyah & Bahaya Pemalsuan Massal**:  
   Menjadikan lembar mutaba'ah sebagai alat eksekusi hukuman fisik adalah **Kesalahan Fatal yang Memicu Santri Belajar Berbohong**. Santri akan memilih berbohong mencentang penuh daripada jujur tapi dihukum. Pendidik TUMBUH mengapresiasi santri yang jujur menulis: *"Hari ini saya terlambat dzikir ma'tsurat karena mengantuk"*. Musyrif mendampingi santri tersebut dengan empati: *"Terima kasih atas kejujuranmu, mari kita atur jam tidur malammu agar besok lebih segar"*. Kejujuran dihargai, integritas terpelihara.[^5]
 
-#### 🥊 Ronde 2: Mengikis Sindrom Centang Palsu via Validasi Triangulasi
+#### 2. Diskursus Dialektika Kritis: Mengikis Sindrom Centang Palsu via Validasi Triangulasi
 * **Pihak A (Sudut Pandang Kepasrahan Manipulasi Data)**:  
   *"Mustahil tahu apakah santri benar-benar dzikir atau bohong; biarkan saja mereka mencentang semaunya!"*
 * **Tinjauan Sistem Validasi Silang PBIS**:  
   TUMBUH mengatasi manipulasi data dengan **Triangulasi Otomatis**: Data centang mandiri santri dicocokkan secara berkala dengan presensi halaqah masjid oleh musyrif dan sosiometri kamar. Jika terdapat diskrepansi ekstrem, musyrif mengajak santri berdialog empatis (*Tabayyun Sokratik*), membimbingnya menghayati bahwa Allah SWT Maha Melihat (*Al-Bashir*) setiap goresan pena yang ia tulis.[^6]
 
-#### 🥊 Ronde 3: Akuntabilitas Lembar Mutaba'ah di Hadapan Kiai dan Orang Tua
+#### 3. Diskursus Dialektika Kritis: Akuntabilitas Lembar Mutaba'ah di Hadapan Kiai dan Orang Tua
 * **Pihak A (Sudut Pandang Penyimpanan Kertas Sampah)**:  
   *"Buku mutaba'ah yang sudah penuh ditumpuk saja di gudang; tidak perlu dianalisis atau dilaporkan ke orang tua!"*
 * **Resolusi Portofolio Digital Pertumbuhan Santri**:  
@@ -113,7 +113,7 @@ $$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُو
 
 ---
 
-### 3. Inkuiri 2: Teori Regulasi Diri Frederick Kanfer (Self-Monitoring, Self-Evaluation, & Self-Reinforcement)
+### 3. Teori Regulasi Diri Frederick Kanfer (Self-Monitoring, Self-Evaluation, & Self-Reinforcement)
 
 ```mermaid
 graph TD
@@ -142,19 +142,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Self-Monitoring Mandiri vs Pengawasan Surveillance Eksternal
+#### 1. Diskursus Dialektika Kritis: Self-Monitoring Mandiri vs Pengawasan Surveillance Eksternal
 * **Pihak A (Sudut Pandang Kepolisian Pesantren)**:  
   *"Pasang saja kamera CCTV di setiap sudut kamar mandi dan ranjang santri; itu jauh lebih efektif daripada menyuruh santri mencatat sendiri!"*
 * **Tinjauan Kerusakan Moral Akibat Surveillance State**:  
   Pengawasan CCTV total di ruang privat merusak rasa tanggung jawab pribadi dan menghancurkan pembentukan radar batin *Muraqabatullah*. Santri hanya patuh pada kamera mati, bukan pada Allah Yang Maha Hidup. Teori Kanfer membuktikan bahwa **Mencatat Perilaku Diri Sendiri (*Self-Monitoring*)** melatih otot nurani dan mengaktifkan kesadaran moral internal. CCTV hanya dipasang di area publik luar, sementara ruang asrama diawal dengan instrumen kendali nurani.[^9]
 
-#### 🥊 Ronde 2: Reduksi Friksi Pengisian Instrumen (<2 Menit Per Hari)
+#### 2. Diskursus Dialektika Kritis: Reduksi Friksi Pengisian Instrumen (<2 Menit Per Hari)
 * **Pihak A (Sudut Pandang Kuesioner Berbelit-belit)**:  
   *"Buku mutaba'ah harus memuat 50 pertanyaan esai setiap malam agar santri benar-benar berpikir mendalam!"*
 * **Tinjauan Fenomena Survey Fatigue & Cognitive Ergonomics**:  
   Memaksa santri mengisi 50 pertanyaan esai setiap malam sebelum tidur memicu **Kelelahan Pengisian (*Survey Fatigue*)**. Santri akan mengisi sembarangan atau menyalin tulisan temannya. Kartu Kendali TUMBUH dirancang dengan prinsip **Micro-Logging Ergonomis**: hanya memuat 4 indikator inti (Dzikir Ma'tsurat, Adab Tidur, Muraqabah Privat, & Zero Ghashab) yang selesai diisi dalam 90 detik. Ringkas, padat, dan bermakna.[^10]
 
-#### 🥊 Ronde 3: Formulasi Refleksi Naratif Singkat (Micro-Journaling 1 Kalimat)
+#### 3. Diskursus Dialektika Kritis: Formulasi Refleksi Naratif Singkat (Micro-Journaling 1 Kalimat)
 * **Pihak A (Sudut Pandang Penolakan Catatan Bebas)**:  
   *"Cukup tanda centang saja, tidak usah ada kolom catatan bebas agar tidak membuang waktu!"*
 * **Resolusi Kekuatan Micro-Journaling Reflektif**:  
@@ -162,7 +162,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Arsitektur Empat Instrumen Baku Salimul Aqidah dalam Kehidupan Asrama 24 Jam
+### 4. Arsitektur Empat Instrumen Baku Salimul Aqidah dalam Kehidupan Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -185,19 +185,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Repositori kapasitas TUMBUH menyediakan cetak biru empat instrumen baku Salimul Aqidah yang terintegrasi secara modular.
 * **Konklusi (*an-Natijah*)**: Maka, operasional pengasuhan pesantren TUMBUH memiliki instrumen asesmen dan pembinaan yang terstandarisasi secara profesional.[^12]
 
-#### 🥊 Ronde 1: Integrasi Kartu Fisik Saku vs Aplikasi Mobile Digital
+#### 1. Diskursus Dialektika Kritis: Integrasi Kartu Fisik Saku vs Aplikasi Mobile Digital
 * **Pihak A (Sudut Pandang Larangan Total Kertas atau Larangan Total Digital)**:  
   *"Pesantren modern harus 100% digital tanpa kertas sama sekali, atau sebaliknya 100% kitab kuning tanpa layar digital!"*
 * **Tinjauan Pendekatan Hibrida Fleksibel (Hybrid Usability)**:  
   TUMBUH menerapkan **Model Hibrida Adaptif**: Untuk santri jenjang SMP/MTs (Jenjang J1–J2) yang belum memegang gawai pribadi di kamar, digunakan **Kartu Saku Fisik Eksklusif (*Pocket Habit Card*)**. Untuk santri SMA/MA (Jenjang J3–J4) dan Musyrif Asrama, digunakan **Aplikasi Mobile PBIS Terintegrasi**. Keduanya memiliki struktur data identik yang tersinkronisasi sempurna ke dalam database analitik pesantren.[^13]
 
-#### 🥊 Ronde 2: Proteksi Akses Formulir Konseling Krisis Aqidah BK
+#### 2. Diskursus Dialektika Kritis: Proteksi Akses Formulir Konseling Krisis Aqidah BK
 * **Pihak A (Sudut Pandang Keterbukaan Catatan BK untuk Semua Pihak)**:  
   *"Semua catatan konseling santri yang ragu aqidah harus bisa dibaca oleh seluruh musyrif dan wali kelas!"*
 * **Tinjauan Standar Etika Kerahasiaan Konseling (Ethical Code of Confidentiality)**:  
   Catatan santri yang mencurahkan keraguan teologisnya atau trauma fobianya adalah **Dokumen Rahasia Medis-Spiritual (*Privileged Communication*)**. Jika bocor, santri akan dipermalukan dan dikucilkan oleh lingkungan. Formulir Konseling BK TUMBUH dikunci secara digital dengan enkripsi AES-256 dan hanya boleh diakses oleh Konselor BK penanggung jawab kasus dan Kiai Pengasuh Utama.[^14]
 
-#### 🥊 Ronde 3: Standarisasi Rubrik Penilaian Portofolio Mutaba'ah (Indeks Kepatuhan Ruhiyah - IKR)
+#### 3. Diskursus Dialektika Kritis: Standarisasi Rubrik Penilaian Portofolio Mutaba'ah (Indeks Kepatuhan Ruhiyah - IKR)
 * **Pihak A (Sudut Pandang Perhitungan Rumit Tak Bermakna)**:  
   *"Tidak usah dihitung indeks kepatuhannya; cukup kumpulkan kartu saku di kardus lalu dibakar di akhir tahun!"*
 * **Resolusi Formula Indeks Kepatuhan Ruhiyah (IKR)**:  
@@ -209,9 +209,9 @@ Santri dengan IKR $\ge 85\%$ otomatis memenuhi syarat administratif untuk promos
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Instrumen
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Instrumen
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Penemuan Catatan Keraguan Aqidah di Buku Santri)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Penemuan Catatan Keraguan Aqidah di Buku Santri)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana musyrif merespons temuan tulisan rahasia di lembar jurnal santri cerdas kelas 10 yang menulis: 'Sejujurnya aku merasa hampa saat shalat dan aku ragu apakah surga dan neraka itu benar-benar ada atau hanya dongeng pelipur lara'?"**
 
 * **Pendekatan Lama (Histeris & Menghukum Tulisan Jujur)**:  
@@ -260,7 +260,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

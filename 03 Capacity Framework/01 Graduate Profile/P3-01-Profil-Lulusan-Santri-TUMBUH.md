@@ -24,12 +24,12 @@
 
 ## 📑 DAFTAR ISI MONOGRAF INDUK
 
-- [BAGIAN I: ARSITEKTUR ONTOLOGIS & POHON HUBUNGAN SUB-DOMAIN 01](#bagian-i-arsitektur-ontologis--pohon-hubungan-sub-domain-01)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Posisi Dokumen dalam Taksonomi Domain 03 Capacity Framework](#1-posisi-dokumen-dalam-taksonomi-domain-03-capacity-framework)
   - [2. Pohon Hubungan Antar-Monograf Sub-Domain 01 Graduate Profile](#2-pohon-hubungan-antar-monograf-sub-domain-01-graduate-profile)
   - [3. Rangkuman 6 Pilar Riset Profil Kapasitas Kelulusan](#3-rangkuman-6-pilar-riset-profil-kapasitas-kelulusan)
   - [4. Penegasan Triad Pertumbuhan Simbiotik dalam Profil Kelulusan](#4-penegasan-triad-pertumbuhan-simbiotik-dalam-profil-kelulusan)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Rujukan Lengkap 7 Berkas Monograf Sub-Domain 01](#1-matriks-rujukan-lengkap-7-berkas-monograf-sub-domain-01)
   - [2. Gerbang Derivasi Menuju Sub-Domain 02 Character Architecture](#2-gerbang-derivasi-menuju-sub-domain-02-character-architecture)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -87,7 +87,7 @@ graph TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

@@ -14,20 +14,20 @@
 >   Banyak program ibadah di pesantren hanya bersifat insidental (misal: tabligh akbar setahun sekali atau hukuman massal saat ada santri bolos), tanpa memiliki struktur halaqah pembinaan mingguan yang berkesinambungan dan terintegrasi dengan tangga perkembangan santri.
 > * **Inovasi Empat Program Unggulan & Halaqah Terstruktur TUMBUH:**  
 >   TUMBUH merancang ekosistem pembinaan terpadu berbasis *Communities of Practice* (Lave & Wenger): **1. Gerakan Shubuh Akbar & Qiyamul Lail Terbimbing (Mabit Ruhaniyah Mingguan); 2. Daurah Fiqh Thaharah & Shalat Presisi (Workshop Klinis Awal Semester); 3. Halaqah One Day One Juz (ODOJ) Mandiri (Time-Blocking System); 4. Kaderisasi Imam & Muadzin Muda / KIM (Sertifikasi Kepemimpinan J3–J4)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah tradisi *Ashhabus Suffah* di Masjid Nabawi dan halaqah sahabat (HR. Muslim No. 2701), menyintesiskan teori *Legitimate Peripheral Participation*, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan SOP kaderisasi imam dan muadzin muda.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA PROGRAM PEMBINAAN](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-program-pembinaan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Program Seremonial Musiman vs Ketiadaan Halaqah Terstruktur](#1-latar-belakang-masalah-program-seremonial-musiman-vs-ketiadaan-halaqah-terstruktur)
-  - [2. Inkuiri 1: Eksegesis Turats Halaqah Tarbawiyyah As-Suffah & Khidmah Masjid (QS. Ali 'Imran: 159 & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-halaqah-tarbawiyyah-as-suffah--khidmah-masjid-qs-ali-imran-159--al-ghazali)
-  - [3. Inkuiri 2: Teori Komunitas Praktik (Communities of Practice Lave & Wenger) & Peer Mentoring Ibadah](#3-inkuiri-2-teori-komunitas-praktik-communities-of-practice-lave--wenger--peer-mentoring-ibadah)
-  - [4. Inkuiri 3: Desain Empat Program Unggulan Shahihul Ibadah dalam Kalender 24 Jam](#4-inkuiri-3-desain-empat-program-unggulan-shahihul-ibadah-dalam-kalender-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Program Pembinaan](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-program-pembinaan)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Halaqah Tarbawiyyah As-Suffah & Khidmah Masjid (QS. Ali 'Imran: 159 & Al-Ghazali)](#2eksegesis-turats-halaqah-tarbawiyyah-as-suffah-khidmah-masjid-qs-ali-imran-159-al-ghazali)
+  - [3. Teori Komunitas Praktik (Communities of Practice Lave & Wenger) & Peer Mentoring Ibadah](#3teori-komunitas-praktik-communities-of-practice-lave-wenger-peer-mentoring-ibadah)
+  - [4. Desain Empat Program Unggulan Shahihul Ibadah dalam Kalender 24 Jam](#4desain-empat-program-unggulan-shahihul-ibadah-dalam-kalender-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Program Pembinaan](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-program-pembinaan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Empat Program Unggulan Pembinaan Shahihul Ibadah TUMBUH](#1-arsitektur-empat-program-unggulan-pembinaan-shahihul-ibadah-tumbuh)
   - [2. Silabus & Matriks Pelaksanaan Halaqah Ibadah Mingguan (4 Semester)](#2-silabus--matriks-pelaksanaan-halaqah-ibadah-mingguan-4-semester)
   - [3. Standar Operasional Prosedur (SOP) Kaderisasi Imam & Muadzin Muda (KIM)](#3-standar-operasional-prosedur-sop-kaderisasi-imam--muadzin-muda-kim)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Halaqah Tarbawiyyah As-Suffah & Khidmah Masjid (QS. Ali 'Imran: 159 & Al-Ghazali)
+### 2. Eksegesis Turats Halaqah Tarbawiyyah As-Suffah & Khidmah Masjid (QS. Ali 'Imran: 159 & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{فَائِدَةُ عَقْدِ الْحَلَقَاتِ الصَّغِ�
 
 *"**Manfaat pembentukan lingkar halaqah-halaqah kecil di dalam masjid adalah: Bahwa kalbu-kalbu jika saling berdekatan dalam kehendak kebajikan, niscaya akan semakin kuat cahayanya, berlipat ganda keberkahannya, dan sebagian mereka menjadi cermin bagi sebagian yang lain**; seorang saudara melihat kekurangan dirinya melalui keadaan saudaranya, sehingga ia tersadar dari kelalaian dan merasa malu dari kekurangan menunaikan hak Tuhannya."*[^4]
 
-#### 🥊 Ronde 1: Halaqah Kecil (8–10 Santri) Menjamin Sentuhan Personal
+#### 1. Diskursus Dialektika Kritis: Halaqah Kecil (8–10 Santri) Menjamin Sentuhan Personal
 * **Pihak A (Sudut Pandang Penghematan Tenaga Pembina)**:  
   *"Kumpulkan saja 200 santri di masjid, suruh satu ustadz berbicara pakai mic selama 2 jam; itu jauh lebih praktis daripada membagi ke halaqah kecil!"*
 * **Tinjauan Efektivitas Interaksi Pedagogis**:  
   Ceramah massal 200 orang membuat 70% santri melamun, mengantuk, dan tidak berani bertanya tentang masalah pribadinya (seperti cara mandi wajib atau mimpi basah). Dalam **Halaqah Kecil TUMBUH (1 Musyrif : 8 Santri)**: Musyrif mengenal kepribadian setiap anak, mendengarkan curahan hati mereka, dan membetulkan makhraj bacaan shalat secara privat. Sentuhan personal inilah yang mengubah karakter santri secara permanen.[^5]
 
-#### 🥊 Ronde 2: Shubuh Akbar Mingguan & Mabit Ruhaniyah (Spiritual Gathering)
+#### 2. Diskursus Dialektika Kritis: Shubuh Akbar Mingguan & Mabit Ruhaniyah (Spiritual Gathering)
 * **Pihak A (Sudut Pandang Mabit Hanya Membuang Waktu Istirahat Santri)**:  
   *"Santri sudah capek sekolah dari Senin sampai Sabtu; malam Minggu biarkan mereka tidur puas tidak perlu ada program Mabit!"*
 * **Tinjauan Pengisian Bahan Bakar Ruhani (Spiritual Refueling)**:  
   Santri membutuhkan oase penyegaran jiwa setelah 6 hari disibukkan pelajaran akademik. Program **Gerakan Shubuh Akbar & Mabit Malam Ahad**: diisi qiyamul lail berjamaah yang syahdu, muhasabah taubat yang menyentuh kalbu, doa bersama fajar, dan sarapan ukhuwah bersama asatidz. Santri mendapatkan suntikan energi spiritual baru untuk menghadapi pekan berikutnya dengan riang dan bersemangat.[^6]
 
-#### 🥊 Ronde 3: Kaderisasi Muadzin & Imam Muda (KIM)
+#### 3. Diskursus Dialektika Kritis: Kaderisasi Muadzin & Imam Muda (KIM)
 * **Pihak A (Sudut Pandang Santri Tidak Boleh Mengumandangkan Adzan Resmi)**:  
   *"Adzan masjid pondok harus selalu dikumandangkan oleh muadzin tetap yang sudah tua; santri suaranya cempreng dan tidak berwibawa!"*
 * **Resolusi Program KIM (Kaderisasi Imam & Muadzin Muda)**:  
@@ -113,7 +113,7 @@ $$\text{فَائِدَةُ عَقْدِ الْحَلَقَاتِ الصَّغِ�
 
 ---
 
-### 3. Inkuiri 2: Teori Komunitas Praktik (Communities of Practice Lave & Wenger) & Peer Mentoring Ibadah
+### 3. Teori Komunitas Praktik (Communities of Practice Lave & Wenger) & Peer Mentoring Ibadah
 
 ```mermaid
 graph TD
@@ -142,19 +142,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Legitimate Peripheral Participation: Santri Baru Belajar dari Mengamati
+#### 1. Diskursus Dialektika Kritis: Legitimate Peripheral Participation: Santri Baru Belajar dari Mengamati
 * **Pihak A (Sudut Pandang Santri Baru Langsung Dihukum Jika Tidak Tahu Adab)**:  
   *"Santri baru harus langsung tahu semua aturan shalat sejak hari pertama; kalau salah langsung beri hukuman!"*
 * **Tinjauan Teori LPP Jean Lave & Etienne Wenger**:  
   Pemula (*Novice*) membutuhkan fase pengamatan (*Observational Phase*). Di semester pertama, santri baru Jenjang J1 ditempatkan berdampingan dengan santri senior Jenjang J4 di saf shalat. Santri baru melihat bagaimana kakak kelasnya merapikan tumit, bersiwak dengan tenang, dan ruku' dengan thuma'ninah. Proses belajar berlangsung alami melalui penyerapan keteladanan visual (*Social Modeling*), bukan rasa takut.[^9]
 
-#### 🥊 Ronde 2: The Protégé Effect: Santri Senior Semakin Shalih Saat Membimbing Adik
+#### 2. Diskursus Dialektika Kritis: The Protégé Effect: Santri Senior Semakin Shalih Saat Membimbing Adik
 * **Pihak A (Sudut Pandang Santri Senior Tidak Mau Direpotkan Adik Kelas)**:  
   *"Santri kelas 12 itu sibuk belajar ujian nasional, jangan disuruh membimbing tahsin adik kelas!"*
 * **Tinjauan Psikologi Belajar The Protégé Effect (Fiqh Man 'Allama)**:  
   Riset membuktikan bahwa cara terbaik mengokohkan suatu ilmu dan karakter adalah dengan **Mengajarkannya Kepada Orang Lain (*Learning by Teaching / The Protégé Effect*)**. Santri Jenjang J4 yang ditugaskan membimbing tahsin wudhu dan shalat adik kelas J1 menjadi jauh lebih berhati-hati menjaga shalatnya sendiri karena merasa memikul amanah keteladanan. Santri senior dan junior sama-sama bertumbuh mulia.[^10]
 
-#### 🥊 Ronde 3: Pembentukan Identitas Komunal Shalih (Bi'ah Shalihah)
+#### 3. Diskursus Dialektika Kritis: Pembentukan Identitas Komunal Shalih (Bi'ah Shalihah)
 * **Pihak A (Sudut Pandang Lingkungan Asrama Tidak Berpengaruh pada Ibadah)**:  
   *"Ibadah santri itu tergantung takdir hatinya masing-masing, lingkungan asrama tidak ada pengaruhnya!"*
 * **Resolusi Teori Ekologi Budaya Sosial (Bronfenbrenner)**:  
@@ -162,7 +162,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Desain Empat Program Unggulan Shahihul Ibadah dalam Kalender 24 Jam
+### 4. Desain Empat Program Unggulan Shahihul Ibadah dalam Kalender 24 Jam
 
 ```mermaid
 flowchart TD
@@ -185,19 +185,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH memetakan Empat Program Unggulan tersebut secara presisi ke dalam kalender akademik dan ritme harian asrama 24 jam.
 * **Konklusi (*an-Natijah*)**: Maka, santri di pesantren TUMBUH senantiasa berada dalam orbit pembinaan yang terarah, bermakna, dan penuh inspirasi.[^12]
 
-#### 🥊 Ronde 1: Daurah Fiqh Awal Semester: Refreshing Presisi Gerakan
+#### 1. Diskursus Dialektika Kritis: Daurah Fiqh Awal Semester: Refreshing Presisi Gerakan
 * **Pihak A (Sudut Pandang Teori Fiqh Cukup Diajarkan Sekali Seumur Hidup)**:  
   *"Kalau santri sudah pernah diajari wudhu di kelas 7, tidak perlu lagi diadakan daurah praktik di kelas 8 dan 9!"*
 * **Tinjauan Fenomena Erosi Keterampilan Kinestetik (Skill Decay)**:  
   Keterampilan motorik yang tidak disegarkan secara berkala akan mengalami degradasi (*Habit Erosion*): santri mulai membasuh wudhu secara terburu-buru dan sujud melengkung kembali. Program **Daurah Fiqh Awal Semester (3 Hari Intensif)**: menyegarkan kembali ingatan, membedah kitab *Fathul Qarib*, dan menguji ulang gerakan setiap santri. Kualitas ibadah terjaga presisi sepanjang tahun.[^13]
 
-#### 🥊 Ronde 2: Halaqah ODOJ Mandiri Berbasis Time-Blocking
+#### 2. Diskursus Dialektika Kritis: Halaqah ODOJ Mandiri Berbasis Time-Blocking
 * **Pihak A (Sudut Pandang Santri Disuruh Membaca 1 Juz Sekaligus di Malam Hari)**:  
   *"Suruh santri membaca 1 juz penuh jam 21.00 malam sebelum tidur; itu lebih ringkas daripada dibagi-bagi!"*
 * **Tinjauan Beban Kognitif & Kelelahan Mata Santri**:  
   Membaca 10 lembar Al-Qur'an sekaligus di malam hari saat santri sudah mengantuk memicu bacaan yang tergesa-gesa tanpa tajwid (*Hadzramah*) dan mata perih. Dengan sistem **Time-Blocking Shalat 5 Waktu (2 Lembar Ba'da Setiap Shalat Fardhu)**: membaca 2 lembar hanya membutuhkan waktu 6–8 menit. Santri menuntaskan 1 juz harian dengan nafas santai, suara tartil yang merdu, dan hati yang tenang.[^14]
 
-#### 🥊 Ronde 3: Sertifikasi Resmi Kaderisasi Imam & Muadzin Muda (KIM)
+#### 3. Diskursus Dialektika Kritis: Sertifikasi Resmi Kaderisasi Imam & Muadzin Muda (KIM)
 * **Pihak A (Sudut Pandang Siapa Saja Boleh Langsung Jadi Imam Tanpa Uji)**:  
   *"Siapa saja santri yang berani maju ke depan boleh langsung jadi imam shalat Maghrib; tidak perlu ada seleksi sertifikasi KIM!"*
 * **Resolusi Fiqhul Imamah & Tanggung Jawab Shalat Jamaah**:  
@@ -205,9 +205,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Program Pembinaan
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Program Pembinaan
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Mengalami Demam Panggung Saat Tugas Muadzin Pertama Kali)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Mengalami Demam Panggung Saat Tugas Muadzin Pertama Kali)
 Pertarungan filosofis-pedagogis terdalam bermuara pada kasus: **"Bagaimana musyrif menangani Santri H (Jenjang J3) yang telah berlatih adzan selama 2 bulan di program KIM, namun saat tiba jadwal adzan Shubuh perdananya di masjid pondok, ia mengalami demam panggung parah (*Severe Stage Fright*): tangannya gemetar hebat, suaranya tercekat di tenggorokan, dan ia menangis di samping mikrofon karena takut ditertawakan teman-temannya?"**
 
 * **Pendekatan Lama (Memarahi & Mengganti dengan Orang Lain Secara Kasar)**:  
@@ -256,7 +256,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

@@ -14,20 +14,20 @@
 >   Karakter **Salimul Aqidah (Aqidah yang Bersih, Murni, & Lurus)** adalah pondasi ontologis, epistemologis, dan aksiologis dari seluruh arsitektur 10 Karakter Utama ekosistem TUMBUH. Tanpa aqidah yang salim, seluruh ibadah menjadi hampa (*Habā'an Mansyūrā*), akhlak kehilangan jangkar transendental, dan disiplin santri hanya bertahan selama ada kamera pengawas atau ancaman rotan.
 > * **Integrasi Holistik Empat Dimensi & Triad Pertumbuhan:**  
 >   Dokumen Induk ini mengunci sintesis komprehensif: **1. Kemurnian Tauhidullah (Rububiyyah, Uluhiyyah, & Asma wa Shifat), 2. Radar Batin Muraqabatullah (Ihsan di Ruang Privat), 3. Pembebasan Mutlak dari Khurafat, Jimat, & Zodiak, dan 4. Tawakkal & Ridha (Ketenteraman Hati)** yang menggerakkan *Santri Tumbuh, Musyrif Tumbuh, dan Sistem Lembaga Tumbuh*.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah nash tauhid Al-Qur'an (QS. Al-An'am: 82 & Hadits Jibril), menyintesiskan teori identitas moral Blasi dan neurosains regulasi diri, menguji dialektika 3 ronde di setiap inkuiri, dan menyajikan peta navigasi terpadu 14 sub-modul kapasitas siap implementasi.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF INDUK
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA KAPASITAS INDUK SALIMUL AQIDAH](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-kapasitas-induk-salimul-aqidah)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Krisis Sekularisasi Tersembunyi & Formalisme Ibadah Tanpa Tauhid](#1-latar-belakang-masalah-krisis-sekularisasi-tersembunyi--formalisme-ibadah-tanpa-tauhid)
-  - [2. Inkuiri 1: Eksegesis Turats Hakikat Kemurnian Tauhidullah & Ihsan Muraqabatullah (QS. Al-An'am: 82 & Hadits Jibril)](#2-inkuiri-1-eksegesis-turats-hakikat-kemurnian-tauhidullah--ihsan-muraqabatullah-qs-al-anam-82--hadits-jibril)
-  - [3. Inkuiri 2: Teori Identitas Moral (Blasi & Aquino) & Neurosains Regulasi Diri dalam Pembentukan Salimul Aqidah](#3-inkuiri-2-teori-identitas-moral-blasi--aquino--neurosains-regulasi-diri-dalam-pembentukan-salimul-aqidah)
-  - [4. Inkuiri 3: Arsitektur Empat Dimensi Salimul Aqidah & Operasionalisasi 24 Jam di 4 Lokus Asrama](#4-inkuiri-3-arsitektur-empat-dimensi-salimul-aqidah--operasionalisasi-24-jam-di-4-lokus-asrama)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Master Induk](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-master-induk)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Hakikat Kemurnian Tauhidullah & Ihsan Muraqabatullah (QS. Al-An'am: 82 & Hadits Jibril)](#2eksegesis-turats-hakikat-kemurnian-tauhidullah-ihsan-muraqabatullah-qs-al-anam-82-hadits-jibril)
+  - [3. Teori Identitas Moral (Blasi & Aquino) & Neurosains Regulasi Diri dalam Pembentukan Salimul Aqidah](#3teori-identitas-moral-blasi-aquino-neurosains-regulasi-diri-dalam-pembentukan-salimul-aqidah)
+  - [4. Arsitektur Empat Dimensi Salimul Aqidah & Operasionalisasi 24 Jam di 4 Lokus Asrama](#4arsitektur-empat-dimensi-salimul-aqidah-operasionalisasi-24-jam-di-4-lokus-asrama)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Master Induk](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-master-induk)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Komprehensif Empat Dimensi Salimul Aqidah](#1-arsitektur-komprehensif-empat-dimensi-salimul-aqidah)
   - [2. Matriks Taksonomi Capaian Jenjang J1–J4 & Rubrik BARS 4-Level](#2-matriks-taksonomi-capaian-jenjang-j1j4--rubrik-bars-4-level)
   - [3. Peta Navigasi Terpadu Empat Belas Sub-Modul Salimul Aqidah (P3-04-01 s/d P3-04-14)](#3-peta-navigasi-terpadu-empat-belas-sub-modul-salimul-aqidah-p3-04-01-sd-p3-04-14)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Hakikat Kemurnian Tauhidullah & Ihsan Muraqabatullah (QS. Al-An'am: 82 & Hadits Jibril)
+### 2. Eksegesis Turats Hakikat Kemurnian Tauhidullah & Ihsan Muraqabatullah (QS. Al-An'am: 82 & Hadits Jibril)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ
 
 *"Malaikat Jibril bertanya: 'Beritahukan kepadaku tentang Ihsan!' Rasulullah SAW menjawab: **'Engkau menyembah Allah seakan-akan engkau melihat-Nya; dan jika engkau tidak dapat melihat-Nya, maka sesungguhnya Dia Maha Melihatmu'**."* (HR. Muslim No. 8 & HR. Bukhari No. 50).[^4]
 
-#### 🥊 Ronde 1: Membebaskan Iman dari Segala Bentuk Syirik Khafi dan Khurafat
+#### 1. Diskursus Dialektika Kritis: Membebaskan Iman dari Segala Bentuk Syirik Khafi dan Khurafat
 * **Pihak A (Sudut Pandang Normalisasi Tradisi Sinkretis)**:  
   *"Membawa rajah sabuk dari kakek atau membaca ramalan bintang zodiak itu cuma tradisi budaya yang lumrah; tidak perlu dipermasalahkan dalam aqidah santri!"*
 * **Tinjauan Kemurnian Tauhidullah & Bahaya Syirik Khafi**:  
   Mempercayai bahwa selembar kain rajah atau gugusan bintang memiliki kekuatan menentukan keselamatan dan nasib adalah **Pembatalan Halus terhadap Tauhid Rububiyyah dan Uluhiyyah**. Rasulullah SAW menegaskan: *"Barangsiapa menggantungkan jimat, maka sungguh ia telah berbuat syirik"* (HR. Ahmad No. 17404). Salimul Aqidah memurnikan tauhid santri: menghancurkan ketergantungan pada benda mati, menanamkan keyakinan mutlak bahwa manfaat dan mudharat hanya berada di tangan Allah SWT.[^5]
 
-#### 🥊 Ronde 2: Ihsan Muraqabah Sebagai Radar Pengawas Ruang Privat
+#### 2. Diskursus Dialektika Kritis: Ihsan Muraqabah Sebagai Radar Pengawas Ruang Privat
 * **Pihak A (Sudut Pandang Kepatuhan Visual Musyrif)**:  
   *"Santri itu yang penting patuh saat diabsen musyrif; urusan apa yang ia lakukan di dalam kamar saat musyrif tidur itu bukan urusan kurikulum!"*
 * **Tinjauan Radar Ihsan & Integritas Batin**:  
   Pendidikan yang hanya mendidik santri patuh pada mata musyrif sedang mendidik generasi munafik. Inti dari Salimul Aqidah adalah **Internalisasi Ihsan Muraqabatullah**: santri merasakan kehadiran Allah SWT di dalam dadanya. Saat berada sendirian di kamar mandi atau lorong asrama yang sepi, santri tidak akan mengambil sandal temannya (*Ghashab*) dan tidak akan menyontek saat ujian, karena ia meyakini dengan *Haqqul Yaqin* bahwa Allah Maha Menyaksikan setiap detik kehidupannya.[^6]
 
-#### 🥊 Ronde 3: Tauhid Sebagai Sumber Keberanian Mental (Shaja'ah) & Ketenangan Jiwa
+#### 3. Diskursus Dialektika Kritis: Tauhid Sebagai Sumber Keberanian Mental (Shaja'ah) & Ketenangan Jiwa
 * **Pihak A (Sudut Pandang Pembinaan Berbasis Teror & Hantu)**:  
   *"Asrama sengaja dibuat angker dan ditakut-takuti cerita jin agar santri tidak berani keluar malam-malam!"*
 * **Resolusi Tauhid Melahirkan Jiwa Kesatria (*Shaja'ah*)**:  
@@ -113,7 +113,7 @@ $$\text{قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ
 
 ---
 
-### 3. Inkuiri 2: Teori Identitas Moral (Blasi & Aquino) & Neurosains Regulasi Diri dalam Pembentukan Salimul Aqidah
+### 3. Teori Identitas Moral (Blasi & Aquino) & Neurosains Regulasi Diri dalam Pembentukan Salimul Aqidah
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Integrasi Akal, Kalbu, dan Perilaku (Tri-Domain Integration)
+#### 1. Diskursus Dialektika Kritis: Integrasi Akal, Kalbu, dan Perilaku (Tri-Domain Integration)
 * **Pihak A (Sudut Pandang Dikotomi Kognitif Ekstrem)**:  
   *"Yang penting santri lulus ujian tulis nilai 100; perilaku santri di luar kelas tidak perlu mempengaruhi kelulusan aqidah!"*
 * **Tinjauan Teori Identitas Moral Augusto Blasi**:  
   Mengetahui konsep baik (*Moral Knowledge*) tidak otomatis membuat seseorang berbuat baik (*Moral Action*). Jurang pemisah antara pengetahuan dan tindakan (*Judgment-Action Gap*) hanya dapat dijembatani jika aqidah menjadi **Pusat Identitas Diri (*Self-Identity Centrality*)**. Santri TUMBUH tidak hanya tahu bahwa ghashab itu dosa; ia menolak ghashab karena *"Mengambil hak orang lain bertentangan dengan identitasku sebagai hamba Allah yang beraqidah lurus"*. Pengetahuan, rasa kalbu, dan tindakan menyatu padu.[^9]
 
-#### 🥊 Ronde 2: Pembebasan dari Sindrom Disonansi Kognitif (Leon Festinger)
+#### 2. Diskursus Dialektika Kritis: Pembebasan dari Sindrom Disonansi Kognitif (Leon Festinger)
 * **Pihak A (Sudut Pandang Normalisasi Kemunafikan Santri)**:  
   *"Wajar kalau santri berbohong di depan guru, semua orang juga begitu; tidak usah dipikirkan disonansinya!"*
 * **Tinjauan Resolusi Disonansi Festinger & Tazkiyah**:  
   Ketika santri diajarkan kejujuran namun lingkungan asramanya membiarkan kecurangan, santri mengalami **Disonansi Kognitif Menyakitkan (*Painful Cognitive Dissonance*)**. Untuk meredakannya, santri akan menjustifikasi kebohongan sebagai hal normal. Ekosistem TUMBUH merekayasa lingkungan *Bi'ah Shalihah*: menghapus sistem takzir yang memicu kebohongan dan memberikan penghargaan pada pengakuan jujur. Disonansi lenyap, integritas batin pulih sempurna.[^10]
 
-#### 🥊 Ronde 3: Pembentukan Internal Spiritual Locus of Control
+#### 3. Diskursus Dialektika Kritis: Pembentukan Internal Spiritual Locus of Control
 * **Pihak A (Sudut Pandang Mentalitas Korban / Menyalahkan Takdir)**:  
   *"Santri malas belajar katakan saja sudah takdirnya bodoh; tidak perlu diajarkan tanggung jawab ikhtiar pribadi!"*
 * **Resolusi Locus of Control & Konsep Kasb Asy'ariyyah**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Arsitektur Empat Dimensi Salimul Aqidah & Operasionalisasi 24 Jam di 4 Lokus Asrama
+### 4. Arsitektur Empat Dimensi Salimul Aqidah & Operasionalisasi 24 Jam di 4 Lokus Asrama
 
 ```mermaid
 flowchart TD
@@ -187,19 +187,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Naskah Induk Salimul Aqidah TUMBUH mengoperasionalkan 4 Dimensi Kapasitas ke dalam 4 lokus asrama dan ritme waktu 24 jam.
 * **Konklusi (*an-Natijah*)**: Maka, Salimul Aqidah TUMBUH adalah sistem pembinaan karakter terpadu yang aplikatif, terukur, dan berdaya ubah tinggi.[^12]
 
-#### 🥊 Ronde 1: Penerapan Triad Pertumbuhan Simbiotik dalam Domain 04
+#### 1. Diskursus Dialektika Kritis: Penerapan Triad Pertumbuhan Simbiotik dalam Domain 04
 * **Pihak A (Sudut Pandang Santri-Sentris Eksploitatif)**:  
   *"Kurikulum ini hanya fokus menuntut perubahan pada santri; musyrif dan lembaga tidak perlu berubah atau dievaluasi!"*
 * **Tinjauan Triad Pertumbuhan Simbiotik TUMBUH**:  
   Perubahan karakter santri mustahil terjadi jika musyrifnya stres dan sistem lembaganya korup. Triad TUMBUH memastikan 3 entitas bertumbuh serempak: (1) **Santri Tumbuh** meraih kemandirian J1–J4; (2) **Musyrif Tumbuh** menjadi teladan *Qudwah*, mahir konseling sokratik, dan terlindungi dari burnout; (3) **Sistem Lembaga Tumbuh** menjadi organisasi pembelajar berbasis data PBIS dengan kebijakan *Zero-Violence* mutlak.[^13]
 
-#### 🥊 Ronde 2: Eliminasi Budaya Ghashab Sandal & Mitos Tempat Angker
+#### 2. Diskursus Dialektika Kritis: Eliminasi Budaya Ghashab Sandal & Mitos Tempat Angker
 * **Pihak A (Sudut Pandang Permakluman Budaya Buruk Asrama)**:  
   *"Ghashab sandal di masjid dan cerita kamar mandi berhantu itu sudah tradisi pesantren sejak ratusan tahun; tidak mungkin bisa dihilangkan!"*
 * **Tinjauan Rekayasa Bi'ah Shalihah & Zero-Tolerance**:  
   Menormalisasi ghashab sama dengan menormalisasi pencurian kecil yang merusak sensitivitas nurani santri. TUMBUH membuktikan bahwa dengan **Intervensi Lingkungan CPTED (Lampu Terang, Rak Sandal Bersekat Nama, & Pos Lapor Kejujuran)** dipadukan dengan **Pembiasaan Radar Muraqabah**, kasus ghashab sandal berhasil dipangkas hingga 95% dalam 1 semester. Pesantren menjadi Bi'ah Shalihah yang mulia dan terhormat.[^14]
 
-#### 🥊 Ronde 3: Pengawalan Siklus Pembiasaan Harian 24 Jam Non-Stop
+#### 3. Diskursus Dialektika Kritis: Pengawalan Siklus Pembiasaan Harian 24 Jam Non-Stop
 * **Pihak A (Sudut Pandang Jam Kantor 08.00–16.00)**:  
   *"Pembinaan karakter cukup saat jam sekolah; setelah jam 16.00 santri dilepas bebas tanpa panduan pembiasaan!"*
 * **Resolusi Total Immersion Pengasuhan 24 Jam**:  
@@ -207,9 +207,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Master Induk
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Master Induk
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Mahkota Integritas Santri di Ruang Privat)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Mahkota Integritas Santri di Ruang Privat)
 Pertarungan filosofis-operasional terdalam di dunia pesantren bermuara pada pertanyaan: **"Apakah tolak ukur tertinggi bahwa seorang santri telah benar-benar memiliki Salimul Aqidah yang hakiki?"**
 
 * **Pendekatan Lama (Penilaian Kulit Formalistik)**:  
@@ -254,7 +254,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

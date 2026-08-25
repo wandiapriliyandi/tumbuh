@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA KAPASITAS LEMBAGA](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-kapasitas-lembaga)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Dilema Ketergantungan Personal Figur vs Institusionalisasi Sistem Pesantren](#1-latar-belakang-masalah-dilema-ketergantungan-personal-figur-vs-institusionalisasi-sistem-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Amanah Kelembagaan (QS. An-Nisa: 58) & Fiqh Tata Kelola Majelis Syura](#2-inkuiri-1-eksegesis-turats-amanah-kelembagaan-qs-an-nisa-58--fiqh-tata-kelola-majelis-syura)
-  - [3. Inkuiri 2: Teori Organisasi Pembelajar Peter Senge (5 Disiplin) & Adaptabilitas Pesantren Modern](#3-inkuiri-2-teori-organisasi-pembelajar-peter-senge-5-disiplin--adaptabilitas-pesantren-modern)
-  - [4. Inkuiri 3: Teori Keamanan Psikologis Amy Edmondson & Eliminasi Budaya Ketakutan di Asrama](#4-inkuiri-3-teori-keamanan-psikologis-amy-edmondson--eliminasi-budaya-ketakutan-di-asrama)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lembaga--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Amanah Kelembagaan (QS. An-Nisa: 58) & Fiqh Tata Kelola Majelis Syura](#2eksegesis-turats-amanah-kelembagaan-qs-an-nisa-58-fiqh-tata-kelola-majelis-syura)
+  - [3. Teori Organisasi Pembelajar Peter Senge (5 Disiplin) & Adaptabilitas Pesantren Modern](#3teori-organisasi-pembelajar-peter-senge-5-disiplin-adaptabilitas-pesantren-modern)
+  - [4. Teori Keamanan Psikologis Amy Edmondson & Eliminasi Budaya Ketakutan di Asrama](#4teori-keamanan-psikologis-amy-edmondson-eliminasi-budaya-ketakutan-di-asrama)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lembaga-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Empat Dimensi Kapasitas Kelembagaan Pesantren TUMBUH](#1-formulasi-konseptual-empat-dimensi-kapasitas-kelembagaan-pesantren-tumbuh)
   - [2. Matriks Tingkat Kematangan Kelembagaan Pesantren (Institutional Maturity Matrix)](#2-matriks-tingkat-kematangan-kelembagaan-pesantren-institutional-maturity-matrix)
   - [3. Standar Operasional & Parameter Fisik-Psikososial Pesantren Mandiri](#3-standar-operasional--parameter-fisik-psikososial-pesantren-mandiri)
@@ -75,7 +75,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Amanah Kelembagaan (QS. An-Nisa: 58) & Fiqh Tata Kelola Majelis Syura
+### 2. Eksegesis Turats Amanah Kelembagaan (QS. An-Nisa: 58) & Fiqh Tata Kelola Majelis Syura
 
 ```mermaid
 graph TD
@@ -100,7 +100,7 @@ $$\text{إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّ
 
 ---
 
-### 3. Inkuiri 2: Teori Organisasi Pembelajar Peter Senge (5 Disiplin) & Adaptabilitas Pesantren Modern
+### 3. Teori Organisasi Pembelajar Peter Senge (5 Disiplin) & Adaptabilitas Pesantren Modern
 
 Profesor manajemen MIT **Peter M. Senge** dalam karya klasiknya *The Fifth Discipline* (1990) merumuskan 5 pilar organisasi pembelajar yang sangat relevan dengan pesantren:
 1. **Personal Mastery (Kematangan Pribadi Musyrif):** Pendidik terus mengasah kompetensi pedagogi dan tazkiyatun nafs.
@@ -111,7 +111,7 @@ Profesor manajemen MIT **Peter M. Senge** dalam karya klasiknya *The Fifth Disci
 
 ---
 
-### 4. Inkuiri 3: Teori Keamanan Psikologis Amy Edmondson & Eliminasi Budaya Ketakutan di Asrama
+### 4. Teori Keamanan Psikologis Amy Edmondson & Eliminasi Budaya Ketakutan di Asrama
 
 Profesor Harvard Business School **Amy C. Edmondson** dalam riset seminalnya *The Fearless Organization* (2018) membuktikan bahwa organisasi yang berkinerja tinggi adalah organisasi yang memiliki **Keamanan Psikologis (*Psychological Safety*)**:
 * Ketika santri atau musyrif junior merasa takut dihukum atau dipermalukan saat mengakui kesalahan/kelemahan, mereka akan menyembunyikan masalah hingga menjadi krisis besar (*information suppression*).
@@ -119,21 +119,21 @@ Profesor Harvard Business School **Amy C. Edmondson** dalam riset seminalnya *Th
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "SOP Tertulis Menghilangkan Fleksibilitas & Barakah Kyai"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "SOP Tertulis Menghilangkan Fleksibilitas & Barakah Kyai"
 * **Pihak A (Sudut Pandang Sentralistik Tradisional)**:  
   *"SOP hanya membuat birokrasi kaku; pesantren dulu maju tanpa SOP tertulis!"*
 * **Tinjauan Maqashid Syari'ah & Kompleksitas Lembaga**:  
   Ketika santri berjumlah puluhan orang, pengawasan langsung satu figur masih memungkinkan. Namun saat santri mencapai ratusan atau ribuan, ketiadaan SOP tertulis memicu ketidakadilan penanganan (*arbitrary enforcement*) dan kelalaian pengawasan titik rawan. SOP tertulis adalah bejana pelindung barakah pengasuhan agar nilai-nilai luhur Kyai dapat dijalankan secara konsisten oleh seluruh staf.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Budaya Keamanan Psikologis Tidak Melemahkan Wibawa Asatidz?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Budaya Keamanan Psikologis Tidak Melemahkan Wibawa Asatidz?
 * **Pihak A (Sudut Pandang Otoriter Militeristik)**:  
   *"Jika santri tidak takut pada ustadz, mereka akan kurang ajar dan tidak memiliki rasa takdzim!"*
 * **Tinjauan Relasi Edukatif & Adab Nabawi**:  
   Rasa takut menghasilkan **Kepatuhan Semu (*Pseudo-Compliance*)** yang rapuh. Wibawa sejati (*Haibah*) lahir dari **Keteladanan Luhur (*Qudwah*) dan Keadilan Perlakuan**, bukan dari teror bentakan. Santri yang merasa aman secara psikologis justru akan mencintai dan menghormati gurunya secara tulus dari lubuk hati terdalam.[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Integrasi Dashboard Analitik Data dengan Spiritualitas Pondok
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Integrasi Dashboard Analitik Data dengan Spiritualitas Pondok
 * **Pihak A (Sudut Pandang Dikotomi Data vs Batin)**:  
   *"Karakter dan keikhlasan ada di dalam hati; tidak bisa diukur oleh angka-angka aplikasi digital!"*
 * **Resolusi Data-Driven Decision Making**:  
@@ -145,7 +145,7 @@ Profesor Harvard Business School **Amy C. Edmondson** dalam riset seminalnya *Th
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

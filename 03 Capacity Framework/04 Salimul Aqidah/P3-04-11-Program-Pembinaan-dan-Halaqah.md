@@ -14,20 +14,20 @@
 >   Banyak program pembinaan aqidah di pesantren terjebak dalam rutinitas ceramah monolog satu arah (*Passive Lecturing*) di mana ustadz membaca kitab tebal sementara santri mengantuk dan pasif. Program tidak menyentuh emosi, nalar kritis, atau pengalaman empiris santri dalam memecahkan masalah kehidupan nyata.
 > * **Inovasi Empat Program Unggulan Salimul Aqidah TUMBUH:**  
 >   TUMBUH merancang ekosistem program terpadu: **1. Halaqah Subuh Al-Ma'tsurat Interaktif (Harian), 2. Bedah Turats Aqidah Tematik Burhani (Mingguan), 3. Rihlah Tafakkur Alam Ayat Kauniyah (Semesteran), dan 4. Pekan Literasi Anti-Takhayul & Sains Islam (Tahunan)** berbasis *Experiential Learning* Kolb (1984).
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah tradisi *Majalisudz Dzikr* nabawiyyah (HR. Muslim No. 2700 & QS. Ali 'Imran: 190–191), menyintesiskan teori belajar pengalaman Kolb dan *Social Modeling* Bandura, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan panduan teknis operasional halaqah 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA PROGRAM PEMBINAAN](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-program-pembinaan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Formalisme Halaqah Monoton vs Pembinaan Berbasis Pengalaman Nyata](#1-latar-belakang-masalah-formalisme-halaqah-monoton-vs-pembinaan-berbasis-pengalaman-nyata)
-  - [2. Inkuiri 1: Eksegesis Turats Majalisudz Dzikr Nabawiyyah & Tafakkur Ayat Kauniyah (QS. Ali 'Imran: 190–191 & HR. Muslim)](#2-inkuiri-1-eksegesis-turats-majalisudz-dzikr-nabawiyyah--tafakkur-ayat-kauniyah-qs-ali-imran-190191--hr-muslim)
-  - [3. Inkuiri 2: Experiential Learning Theory (David Kolb) & Social Modeling (Albert Bandura) dalam Desain Program Aqidah](#3-inkuiri-2-experiential-learning-theory-david-kolb--social-modeling-albert-bandura-dalam-desain-program-aqidah)
-  - [4. Inkuiri 3: Translasi Empat Program Unggulan ke dalam Kalender Tahunan Asrama 24 Jam](#4-inkuiri-3-translasi-empat-program-unggulan-ke-dalam-kalender-tahunan-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Program](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-desain-program)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Majalisudz Dzikr Nabawiyyah & Tafakkur Ayat Kauniyah (QS. Ali 'Imran: 190–191 & HR. Muslim)](#2eksegesis-turats-majalisudz-dzikr-nabawiyyah-tafakkur-ayat-kauniyah-qs-ali-imran-190191-hr-muslim)
+  - [3. Experiential Learning Theory (David Kolb) & Social Modeling (Albert Bandura) dalam Desain Program Aqidah](#3experiential-learning-theory-david-kolb-social-modeling-albert-bandura-dalam-desain-program-aqidah)
+  - [4. Translasi Empat Program Unggulan ke dalam Kalender Tahunan Asrama 24 Jam](#4translasi-empat-program-unggulan-ke-dalam-kalender-tahunan-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Program](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-desain-program)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Empat Program Unggulan Pembinaan Salimul Aqidah TUMBUH](#1-arsitektur-empat-program-unggulan-pembinaan-salimul-aqidah-tumbuh)
   - [2. Matriks Kalender Tahunan & Rencana Aksi Semesteran Program Aqidah (Semester Ganjil & Genap)](#2-matriks-kalender-tahunan--rencana-aksi-semesteran-program-aqidah-semester-ganjil--genap)
   - [3. Panduan Teknis Pelaksanaan Halaqah Subuh Interaktif & Rihlah Tafakkur Alam](#3-panduan-teknis-pelaksanaan-halaqah-subuh-interaktif--rihlah-tafakkur-alam)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Majalisudz Dzikr Nabawiyyah & Tafakkur Ayat Kauniyah (QS. Ali 'Imran: 190–191 & HR. Muslim)
+### 2. Eksegesis Turats Majalisudz Dzikr Nabawiyyah & Tafakkur Ayat Kauniyah (QS. Ali 'Imran: 190–191 & HR. Muslim)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{مَا اجْتَمَعَ قَوْمٌ فِي بَيْتٍ مِنْ بُ
 
 *"Tidaklah suatu kaum berkumpul di salah satu rumah Allah (masjid), membaca Kitabullah dan **saling mempelajarinya di antara mereka (Yatadaarasunahu bainahum)**, melainkan akan turun kepada mereka ketenangan (sakinah), diliputi oleh rahmat, dinaungi oleh para malaikat, dan Allah menyebut-nyebut mereka di hadapan makhluk yang ada di sisi-Nya."* (HR. Muslim No. 2700).[^4]
 
-#### 🥊 Ronde 1: Menolak Halaqah Monolog: Menghidupkan Budaya Yatadaarasunahu
+#### 1. Diskursus Dialektika Kritis: Menolak Halaqah Monolog: Menghidupkan Budaya Yatadaarasunahu
 * **Pihak A (Sudut Pandang Tradisionalisme Pasif)**:  
   *"Santri tugasnya mendengarkan ustadz membaca kitab; santri tidak pantas banyak bertanya atau berdiskusi di dalam halaqah!"*
 * **Tinjauan Makna Yatadaarasunahu & Didaktik Kenabian**:  
   Kata *Yatadaarasunahu* dalam hadits menggunakan wazan *Tafaa'ala* yang menunjukkan **Aktivitas Dialog Interaktif Dua Arah (*Mutual Interactive Learning*)**. Rasulullah SAW senantiasa melontarkan pertanyaan pemantik kepada para sahabat untuk menajamkan nalar mereka. Halaqah aqidah TUMBUH melarang pembacaan kitab monolog pasif; musyrif bertindak sebagai fasilitator yang memandu santri menganalisis realitas kehidupan modern menggunakan dalil kitab turats.[^5]
 
-#### 🥊 Ronde 2: Tafakkur Alam Bukan Sekadar Wisata Rekreasi
+#### 2. Diskursus Dialektika Kritis: Tafakkur Alam Bukan Sekadar Wisata Rekreasi
 * **Pihak A (Sudut Pandang Pragmatisme Biaya)**:  
   *"Program mabit di alam terbuka itu boros anggaran dan menghabiskan waktu santri; lebih baik santri disuruh menghafal di kelas saja!"*
 * **Tinjauan Psikologi Spiritual & Efek Keterhubungan Alam (Nature Connectedness)**:  
   Melihat luasnya samudra, kokohnya gunung, dan bentangan bintang di langit malam memicu respon batin **Kekaguman Transendental (*Awe Experience*)** yang meluluhkan kesombongan ego manusia. Menghafal dalil tanpa pernah menatap ciptaan Allah membuat iman menjadi kering dan abstrak. Program *Tafakkur Alam* menghubungkan teks wahyu dengan bukti fisik kauniyah, melahirkan keyakinan *'Ainul Yaqin* yang tak tergoyahkan.[^6]
 
-#### 🥊 Ronde 3: Kaderisasi Santri Senior sebagai Mentor Halaqah Kamar
+#### 3. Diskursus Dialektika Kritis: Kaderisasi Santri Senior sebagai Mentor Halaqah Kamar
 * **Pihak A (Sudut Pandang Sentralisasi Ustadz)**:  
   *"Seluruh halaqah asrama harus dipimpin langsung oleh ustadz lulusan universitas; santri senior belum layak memimpin halaqah!"*
 * **Resolusi Kepemimpinan Qudwah & Efisiensi Rasio Pengasuhan**:  
@@ -112,7 +112,7 @@ $$\text{مَا اجْتَمَعَ قَوْمٌ فِي بَيْتٍ مِنْ بُ
 
 ---
 
-### 3. Inkuiri 2: Experiential Learning Theory (David Kolb) & Social Modeling (Albert Bandura) dalam Desain Program Aqidah
+### 3. Experiential Learning Theory (David Kolb) & Social Modeling (Albert Bandura) dalam Desain Program Aqidah
 
 ```mermaid
 graph TD
@@ -143,19 +143,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Menerapkan 4 Tahap Siklus Kolb dalam Halaqah Asmaul Husna
+#### 1. Diskursus Dialektika Kritis: Menerapkan 4 Tahap Siklus Kolb dalam Halaqah Asmaul Husna
 * **Pihak A (Sudut Pandang Hafalan Leksikal Cepat)**:  
   *"Target halaqah Asmaul Husna itu santri hafal 99 nama dalam sebulan; tidak usah repot membuat refleksi atau eksperimen aksi!"*
 * **Tinjauan Integrasi Siklus Kolb**:  
   Menghafal 99 nama tanpa memahami aplikasinya hanya menghasilkan hafalan lisan yang hampa. Dalam metode TUMBUH: (1) Santri diajak mengamati semut yang membawa rezeki (*Concrete Experience*), (2) Merefleksikan rasa cemas mereka tentang masa depan (*Reflective Observation*), (3) Membedah makna nama *Ar-Razzaq & Al-Wakil* dari kitab tafsir (*Abstract Conceptualization*), dan (4) Berkomitmen membagikan makanan ke teman kamar (*Active Experimentation*). Aqidah menyatu ke dalam darah daging santri.[^9]
 
-#### 🥊 Ronde 2: Musyrif Sebagai Model Hidup (Live Modeling Albert Bandura)
+#### 2. Diskursus Dialektika Kritis: Musyrif Sebagai Model Hidup (Live Modeling Albert Bandura)
 * **Pihak A (Sudut Pandang Pemisahan Teori dan Praktik Pengajar)**:  
   *"Guru tugasnya mengajar materi di kelas; urusan guru shalat berjamaah di masjid atau tidak, itu urusan pribadi!"*
 * **Tinjauan Teori Social Learning Bandura & Kaidah Qudwah**:  
   Santri belajar 80% dari **Apa yang Mereka Lihat (*Observational Modeling*)**, bukan dari apa yang mereka dengar. Guru yang mengajar keutamaan saf pertama namun dirinya sendiri selalu datang masbuq sedang mengajarkan kemunafikan kepada santrinya. Dalam ekosistem TUMBUH, seluruh asatidz dan musyrif adalah model hidup tauhid: mereka hadir di masjid sebelum adzan, melafalkan dzikir ma'tsurat dengan khusyuk, dan menjaga integritas amanah di hadapan santri.[^10]
 
-#### 🥊 Ronde 3: Gamifikasi Literasi Sains Islam (Pekan Detektif Anti-Khurafat)
+#### 3. Diskursus Dialektika Kritis: Gamifikasi Literasi Sains Islam (Pekan Detektif Anti-Khurafat)
 * **Pihak A (Sudut Pandang Penolakan Unsur Permainan)**:  
   *"Aqidah itu ilmu sakral dan serius; tidak boleh dijadikan permainan kuis atau kompetisi detektif!"*
 * **Resolusi Gamifikasi Pedagogis & Engagement**:  
@@ -163,7 +163,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Translasi Empat Program Unggulan ke dalam Kalender Tahunan Asrama 24 Jam
+### 4. Translasi Empat Program Unggulan ke dalam Kalender Tahunan Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -186,19 +186,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum kapasitas TUMBUH mengunci 4 program unggulan Salimul Aqidah ke dalam kalender operasional asrama 24 jam.
 * **Konklusi (*an-Natijah*)**: Maka, ekosistem pembinaan aqidah TUMBUH berjalan secara terstruktur, berkesinambungan, dan terbebas dari kepasifan manajemen.[^12]
 
-#### 🥊 Ronde 1: Integrasi Program Kokurikuler dengan Jadwal Belajar Madrasah
+#### 1. Diskursus Dialektika Kritis: Integrasi Program Kokurikuler dengan Jadwal Belajar Madrasah
 * **Pihak A (Sudut Pandang Benturan Jam Pelajaran Formal)**:  
   *"Santri sudah sangat padat jadwal kurikulum dinas dan ujian sekolah; tidak ada waktu lagi untuk program tafakkur alam atau pekan literasi!"*
 * **Tinjauan Sinergi Kurikulum Terpadu**:  
   TUMBUH menolak pemisahan dikotomis antara "kurikulum formal" dan "program asrama". Program *Tafakkur Alam* diintegrasikan dengan praktikum mata pelajaran IPA (Biologi/Fisika), sedangkan *Pekan Literasi Anti-Khurafat* dijadikan proyek penguatan profil pelajar (P5/P2RA). Santri tidak merasa terbebani tugas ganda, melainkan merasakan keindahan integrasi antara sains alam dan tauhid Ilahi.[^13]
 
-#### 🥊 Ronde 2: Evaluasi Dampak Perilaku Program (Bukan Sekadar Absensi Kehadiran)
+#### 2. Diskursus Dialektika Kritis: Evaluasi Dampak Perilaku Program (Bukan Sekadar Absensi Kehadiran)
 * **Pihak A (Sudut Pandang Formalisme Laporan LPJ)**:  
   *"Yang penting acara terlaksana, ada foto dokumentasi dan daftar hadir santri 100%; itu sudah tanda program sukses!"*
 * **Tinjauan Evaluasi Program Model Kirkpatrick (Level 3 - Behavior Impact)**:  
   Dokumentasi foto dan absensi hanyalah keberhasilan administratif tingkat rendah (*Level 1 Reaction*). Keberhasilan sejati program aqidah diukur pada **Perubahan Perilaku Nyata (*Level 3 Behavioral Change*)**: Apakah setelah program Tafakkur Alam angka kasus ghashab sandal turun 50%? Apakah santri menjadi lebih jujur di ruang privat? Evaluasi PBIS mengukur korelasi nyata antara keikutsertaan program dengan kenaikan level BARS santri.[^14]
 
-#### 🥊 Ronde 3: Akuntabilitas Anggaran & Keberlanjutan Program (Sustainability)
+#### 3. Diskursus Dialektika Kritis: Akuntabilitas Anggaran & Keberlanjutan Program (Sustainability)
 * **Pihak A (Sudut Pandang Ketergantungan Dana Yayasan)**:  
   *"Kalau yayasan tidak mencairkan dana jutaan rupiah, semua program pembinaan aqidah terpaksa ditiadakan!"*
 * **Resolusi Program Mandiri Berbiaya Rendah Berdampak Tinggi (Low-Cost High-Impact)**:  
@@ -206,9 +206,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Program
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Desain Program
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri yang Menolak Mengikuti Halaqah Subuh)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri yang Menolak Mengikuti Halaqah Subuh)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana menangani santri kelas 9 (Jenjang J3) yang selalu melarikan diri dari masjid setelah salam shalat subuh dan menolak mengikuti Halaqah Dzikir Al-Ma'tsurat dengan alasan ingin tidur lagi?"**
 
 * **Pendekatan Lama (Takzir Punitif Kekerasan)**:  
@@ -254,7 +254,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

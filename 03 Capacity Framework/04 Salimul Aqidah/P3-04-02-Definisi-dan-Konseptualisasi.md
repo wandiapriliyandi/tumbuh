@@ -14,20 +14,20 @@
 >   Banyak instrumen penilaian pesantren mendefinisikan aqidah secara sempit hanya sebagai *"kelancaran menghafal matan teologi atau rukun iman"*. Akibat ketiadaan definisi operasional yang jelas, musyrif kesulitan mendeteksi anomali kepribadian terbelah (*Moral Schizophrenia*), di mana santri hafal dalil tauhid namun tidak memiliki integritas moral di ruang privat.
 > * **Formulasi Definisi Operasional Baku Salimul Aqidah TUMBUH:**  
 >   *Salimul Aqidah* dirumuskan secara komprehensif sebagai **kapasitas integritas psiko-spiritual santri yang berpijak pada tauhidullah murni, terbebas dari noda syirik dan khurafat, yang termanifestasikan secara konsisten dalam kesadaran pengawasan Allah (*Muraqabatullah*), kejujuran privat, serta ketenteraman tawakkal dalam dinamika kehidupan 24 jam**.
-> * **Penerapan Model Hibrida Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah akar leksikografi *'Aqada* dan *Salima* (*Qalbun Salim* QS. Asy-Syu'ara: 89), menyintesiskan teori identitas moral (*Aquino & Reed, 2002*), menguji seluruh keberatan secara dialektis 3 ronde di setiap inkuiri, dan merumuskan deskriptor perilaku teramati di 4 lokus asrama.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA DEFINISI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-definisi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Reduksionisme Definisi Aqidah Menjadi Hafalan Verbal Kering](#1-latar-belakang-masalah-bahaya-reduksionisme-definisi-aqidah-menjadi-hafalan-verbal-kering)
-  - [2. Inkuiri 1: Eksegesis Semantik Akar Kata 'Aqada, Salima, & Hakikat Qalbun Salim (QS. Asy-Syu'ara: 89)](#2-inkuiri-1-eksegesis-semantik-akar-kata-aqada-salima--hakikat-qalbun-salim-qs-asy-syuara-89)
-  - [3. Inkuiri 2: Konstruk Teori Identitas Moral (Aquino & Reed, 2002) & Spiritual Self-Concept](#3-inkuiri-2-konstruk-teori-identitas-moral-aquino--reed-2002--spiritual-self-concept)
-  - [4. Inkuiri 3: Batasan Ruang Lingkup Operasional: Menghapus Dikotomi Ruang Suci vs Ruang Sekuler Asrama](#4-inkuiri-3-batasan-ruang-lingkup-operasional-menghapus-dikotomi-ruang-suci-vs-ruang-sekuler-asrama)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Rekonsiliasi Definisi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-rekonsiliasi-definisi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Semantik Akar Kata 'Aqada, Salima, & Hakikat Qalbun Salim (QS. Asy-Syu'ara: 89)](#2eksegesis-semantik-akar-kata-aqada-salima-hakikat-qalbun-salim-qs-asy-syuara-89)
+  - [3. Konstruk Teori Identitas Moral (Aquino & Reed, 2002) & Spiritual Self-Concept](#3konstruk-teori-identitas-moral-aquino-reed-2002-spiritual-self-concept)
+  - [4. Batasan Ruang Lingkup Operasional: Menghapus Dikotomi Ruang Suci vs Ruang Sekuler Asrama](#4batasan-ruang-lingkup-operasional-menghapus-dikotomi-ruang-suci-vs-ruang-sekuler-asrama)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Rekonsiliasi Definisi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-rekonsiliasi-definisi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Tiga Lapisan Makna Definisi Baku Salimul Aqidah TUMBUH](#1-tiga-lapisan-makna-definisi-baku-salimul-aqidah-tumbuh)
   - [2. Taksonomi 4 Konstruk Inti Salimul Aqidah](#2-taksonomi-4-konstruk-inti-salimul-aqidah)
   - [3. Matriks Indikator Operasional Perilaku Teramati (Observable Anchors) Lintas Lokus 24 Jam](#3-matriks-indikator-operasional-perilaku-teramati-observable-anchors-lintas-lokus-24-jam)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Semantik Akar Kata 'Aqada, Salima, & Hakikat Qalbun Salim (QS. Asy-Syu'ara: 89)
+### 2. Eksegesis Semantik Akar Kata 'Aqada, Salima, & Hakikat Qalbun Salim (QS. Asy-Syu'ara: 89)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ 
 
 *"Yaitu pada hari di mana harta dan anak-anak laki-laki tidak berguna, **kecuali orang-orang yang menghadap Allah dengan hati yang bersih (Qalbun Salim)**."* (QS. Asy-Syu'ara [26]: 88–89).[^4]
 
-#### 🥊 Ronde 1: Gugatan Definisi Tekstual-Intelektual vs Definisi Karakter Eksistensial
+#### 1. Diskursus Dialektika Kritis: Gugatan Definisi Tekstual-Intelektual vs Definisi Karakter Eksistensial
 * **Pihak A (Sudut Pandang Intelektualisme Semata)**:  
   *"Di kitab-kitab ilmu kalam klasik, aqidah didefinisikan sebagai 'hukum-hukum i'tiqadiyyah yang pasti'. Memasukkan unsur kejujuran kamar asrama ke dalam definisi aqidah adalah mencampuradukkan antara bab Aqidah dengan bab Akhlak!"*
 * **Tinjauan Turats Epistemologi Aswaja**:  
   Pemisahan kaku antara i'tiqad dan akhlak adalah produk kemunduran skolastik pasca-klasik. Ulama Salaf seperti **Imam Al-Hasan Al-Bashri** menegaskan: *"Bukanlah iman itu sekadar angan-angan atau hiasan kata-kata, melainkan apa yang terhunjam kukuh di dalam kalbu dan dibuktikan secara nyata oleh seluruh perbuatan"* (HR. Ibnu Abi Syaibah). Ketika santri berbohong, ia sedang mengalami pelemahan ikatan tauhid pada sifat *Al-Bashir* dan *Ar-Raqib*. Mendefinisikan aqidah secara eksistensial adalah mengembalikan ruh tauhid nabawi yang utuh.[^5]
 
-#### 🥊 Ronde 2: Batasan Pembeda Antara Syirik, Khurafat, dan Adat Istiadat
+#### 2. Diskursus Dialektika Kritis: Batasan Pembeda Antara Syirik, Khurafat, dan Adat Istiadat
 * **Pihak A (Sudut Pandang Generalisasi Takfiri)**:  
   *"Jika definisi Salimul Aqidah mencakup 'pembersihan khurafat', apakah santri yang masih membawa tradisi sungkeman adat atau meminum air doa kiai langsung divonis aqidahnya rusak?"*
 * **Tinjauan Fiqh Adab & Kaidah Maqashid Syari'ah**:  
   Definisi Salimul Aqidah membedakan secara presisi antara **Kesyirikan Eksplisit (*Menyandarkan kekuatan independen selain Allah*)** dengan **Tawassul / Tabarruk Syar'i yang Sah** serta **Adat Budaya (*Al-'Adah Muhakkamah*)**. Menghormati guru dengan bersalaman dan mencium tangan adalah adab sunnah (*Ta'dzim*), bukan syirik. Sebaliknya, meyakini cincin batu akik dapat mendatangkan keberuntungan ujian adalah khurafat yang merusak kemurnian tawakkal. Definisi operasional TUMBUH menetapkan parameter ilmiah berbasis nash, bukan prasangka ekstrem.[^6]
 
-#### 🥊 Ronde 3: Qalbun Salim vs Kekakuan Dogmatis (Dogmatism vs Wholesome Heart)
+#### 3. Diskursus Dialektika Kritis: Qalbun Salim vs Kekakuan Dogmatis (Dogmatism vs Wholesome Heart)
 * **Pihak A (Sudut Pandang Fanatisme Golongan)**:  
   *"Apakah santri yang beraqidah salim adalah santri yang hafal matan madzhab tertentu dan gemar membid'ahkan kelompok lain?"*
 * **Resolusi Hakikat Qalbun Salim**:  
@@ -112,7 +112,7 @@ $$\text{يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ 
 
 ---
 
-### 3. Inkuiri 2: Konstruk Teori Identitas Moral (Aquino & Reed, 2002) & Spiritual Self-Concept
+### 3. Konstruk Teori Identitas Moral (Aquino & Reed, 2002) & Spiritual Self-Concept
 
 ```mermaid
 graph TD
@@ -141,19 +141,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Moralitas Teistik vs Moralitas Sekuler di Lingkungan Asrama
+#### 1. Diskursus Dialektika Kritis: Moralitas Teistik vs Moralitas Sekuler di Lingkungan Asrama
 * **Pihak A (Sudut Pandang Humanisme Sekuler)**:  
   *"Orang yang tidak beragama pun bisa jujur dan tidak mencuri. Mengapa integritas santri harus selalu dikaitkan dengan doktrin aqidah dan akhirat?"*
 * **Tinjauan Teori Psikologi Perkembangan & Turats**:  
   Moralitas sekuler bertumpu pada kesepakatan sosial (*Social Contract*) atau empati alamiah yang rentan bergeser ketika ada keuntungan pragmatis besar atau ketika tidak ada orang yang melihat (*The Ring of Gyges Dilemma*). Sebaliknya, **Moralitas Teistik Salimul Aqidah Bertumpu pada Pengawasan Mutlak Allah (*All-Seeing Divine Accountability*)**. Bagi santri beraqidah lurus, mencuri uang teman di kamar sepi tetap bernilai dosa besar yang disaksikan malaikat Raqib dan Atid. Aqidah menyediakan fondasi moral yang tidak bisa dinegosiasikan oleh situasi.[^9]
 
-#### 🥊 Ronde 2: Mengapa Terjadi Anomali "Santri Cerdas Tapi Berperilaku Buruk"?
+#### 2. Diskursus Dialektika Kritis: Mengapa Terjadi Anomali "Santri Cerdas Tapi Berperilaku Buruk"?
 * **Pihak A (Sudut Pandang Determinisme Intelektual)**:  
   *"Jika seorang santri hafal kitab aqidah tingkat tinggi, ia otomatis pasti berakhlak mulia. Jika akhlaknya buruk, pasti hafalan kitabnya belum lancar!"*
 * **Tinjauan Riset Psikologi Kognitif Moral (Rest, 1986 & Blasi, 1983)**:  
   Riset membuktikan adanya jurang antara **Penalaran Moral (*Moral Reasoning*)** dengan **Tindakan Moral (*Moral Action*)**. Santri bisa memiliki pengetahuan moral yang canggih (*High Cognitive Level*), namun jika nilai tersebut tidak menjadi inti identitas dirinya (*Low Moral Centrality*), ia tetap akan melanggar. Salimul Aqidah dalam TUMBUH bukan sekadar pengetahuan kognitif, melainkan internalisasi identitas fitrah yang mengunci kehendak (*Volition*) untuk beramal shalih.[^10]
 
-#### 🥊 Ronde 3: Kekuatan Self-Regulation Berbasis Tauhid Saat Mengakses Gawai
+#### 3. Diskursus Dialektika Kritis: Kekuatan Self-Regulation Berbasis Tauhid Saat Mengakses Gawai
 * **Pihak A (Sudut Pandang Keputusasaan Era Digital)**:  
   *"Remaja di era internet pasti akan tergoda pornografi dan judi online jika memegang gawai; tidak ada teori aqidah yang mampu menahan syahwat remaja!"*
 * **Resolusi Neurosains Spiritual & Muraqabatullah**:  
@@ -161,7 +161,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Batasan Ruang Lingkup Operasional: Menghapus Dikotomi Ruang Suci vs Ruang Sekuler Asrama
+### 4. Batasan Ruang Lingkup Operasional: Menghapus Dikotomi Ruang Suci vs Ruang Sekuler Asrama
 
 ```mermaid
 flowchart TD
@@ -179,19 +179,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kehidupan santri di asrama berlangsung selama 24 jam melintasi lokus masjid, ruang kelas, kamar tidur, kamar mandi, ruang makan, dan arena olahraga.
 * **Konklusi (*an-Natijah*)**: Maka, ruang lingkup definisi operasional Salimul Aqidah wajib mencakup seluruh lokus dan aktivitas santri 24 jam tanpa ada pemisahan ruang sekuler.[^12]
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Kerapian Lemari Baju Tidak Ada Kaitannya dengan Aqidah"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Kerapian Lemari Baju Tidak Ada Kaitannya dengan Aqidah"
 * **Pihak A (Sudut Pandang Sekularisasi Praktis)**:  
   *"Menata lemari baju rapi atau membuang sampah pada tempatnya itu urusan kebersihan estetika, tidak ada sangkut pautnya dengan aqidah tauhid!"*
 * **Tinjauan Hadits Cabang-Cabang Iman (Syu'abul Iman)**:  
   Rasulullah SAW bersabda: *"Iman itu memiliki 70 lebih cabang; yang paling utama adalah ucapan Laa ilaaha illallah, dan yang paling rendah adalah menyingkirkan duri/kotoran dari jalanan, dan malu adalah sebagian dari iman"* (HR. Muslim No. 35). Membuang sampah sembarangan atau membiarkan pakaian kotor bertumpuk hingga berbau busuk adalah cermin kelemahan cabang iman dan pengabaian amanah fisik. Salimul Aqidah memandang kebersihan kamar (*Munazhzham fi Syu'unih*) sebagai manifestasi nyata tauhid praktis.[^13]
 
-#### 🥊 Ronde 2: Standarisasi Mutaba'ah Aqidah yang Rendah Friksi (<30 Detik)
+#### 2. Diskursus Dialektika Kritis: Standarisasi Mutaba'ah Aqidah yang Rendah Friksi (<30 Detik)
 * **Pihak A (Sudut Pandang Beban Administrasi Musyrif)**:  
   *"Jika aqidah diukur di setiap lokus kamar dan meja makan, musyrif akan kelelahan mencatat ratusan instrumen checklist setiap hari!"*
 * **Tinjauan Desain Ergonomi PBIS Digital TUMBUH**:  
   Operasionalisasi Salimul Aqidah tidak menggunakan lembar ceklis kertas birokratis yang panjang, melainkan menggunakan **Fast-Tap Behavioral Logging di Aplikasi Mobile**: Musyrif cukup menekan ikon perilaku spesifik (misal: `[Aqidah - T3: Mengakui Kekhilafan Mandiri]` atau `[Aqidah - T2: Dzikir Pagi Tertib]`) dalam waktu kurang dari 15 detik saat melakukan *Presence Walk* keliling asrama. Data otomatis tersinkronisasi tanpa membebani musyrif.[^14]
 
-#### 🥊 Ronde 3: Peran Keteladanan Qudwah Musyrif dalam Mengawal Definisi Operasional
+#### 3. Diskursus Dialektika Kritis: Peran Keteladanan Qudwah Musyrif dalam Mengawal Definisi Operasional
 * **Pihak A (Sudut Pandang Penegakan Otoriter)**:  
   *"Definisi operasional cukup dihafal oleh musyrif untuk menghukum santri yang melanggar; musyrif sendiri tidak perlu dievaluasi aqidahnya!"*
 * **Resolusi Doktrin Triad Pertumbuhan Simbiotik**:  
@@ -199,9 +199,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Rekonsiliasi Definisi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Rekonsiliasi Definisi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Operasionalisasi di Asrama)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Operasionalisasi di Asrama)
 Pertarungan mendasar dalam penetapan definisi operasional di lapangan pesantren bermuara pada kasus: **"Bagaimana mendefinisikan dan menangani santri yang menunjukkan kelesuan iman akut (*Spiritual Apathy / Nihilism*) dengan dalih 'Percuma saya shalat dan beradab kalau hati saya belum ikhlas'?"**
 
 * **Pendekatan Lama (Koersif / Memaksa Tanpa Dialog)**:  
@@ -249,7 +249,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

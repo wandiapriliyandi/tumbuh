@@ -14,20 +14,20 @@
 >   Ketika menemukan santri yang membawa jimat, mempercayai ramalan zodiak, atau terpapar syubhat ateisme di media sosial, banyak pengurus pondok langsung merespons dengan kemarahan, hukuman fisik, pembongkaran aib di depan umum, hingga pengusiran sepihak (*Drop-Out*). Pendekatan ini gagal menyembuhkan penyakit keraguan batin santri dan justru menjauhkannya dari Islam.
 > * **Inovasi Arsitektur PBIS Multi-Tier Salimul Aqidah TUMBUH:**  
 >   TUMBUH merancang sistem intervensi bertingkat berbasis data: **Tier 1 (Universal 80–90%): Pembiasaan Dzikir Ma'tsurat & Tadabbur Asmaul Husna Kamar; Tier 2 (Targeted 10–15%): Mentoring Khusus Santri Cemas Mistis & Zodiak; Tier 3 (Intensive 1–5%): Konseling Individual Burhani & Ruqyah Syar'iyyah Pedagogis bersama Tim Ahli**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah metode konseling kenabian (*Hiwar Sokratik Nabawi & Istithabah Edukatif*), menyintesiskan arsitektur SW-PBIS Horner & Sugai (2015) dan *Functional Behavior Assessment* (FBA), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan SOP pembiasaan 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA PROTOKOL INTERVENSI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-protokol-intervensi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Pengusiran Sepihak & Penanganan Deviasi Aqidah yang Tidak Ilmiah](#1-latar-belakang-masalah-bahaya-pengusiran-sepihak--penanganan-deviasi-aqidah-yang-tidak-ilmiah)
-  - [2. Inkuiri 1: Eksegesis Turats Konseling Aqidah Nabawiyyah & Fiqh Istithabah Edukatif (Ibnul Qayyim & HR. Ahmad)](#2-inkuiri-1-eksegesis-turats-konseling-aqidah-nabawiyyah--fiqh-istithabah-edukatif-ibnul-qayyim--hr-ahmad)
-  - [3. Inkuiri 2: Arsitektur School-Wide PBIS Multi-Tier (Horner & Sugai) & Functional Behavior Assessment (FBA)](#3-inkuiri-2-arsitektur-school-wide-pbis-multi-tier-horner--sugai--functional-behavior-assessment-fba)
-  - [4. Inkuiri 3: Rekayasa Neurosains Pembiasaan Dzikir 24 Jam (Habit Loop & Cue-Routine-Reward)](#4-inkuiri-3-rekayasa-neurosains-pembiasaan-dzikir-24-jam-habit-loop--cue-routine-reward)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Intervensi PBIS](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-intervensi-pbis)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Konseling Aqidah Nabawiyyah & Fiqh Istithabah Edukatif (Ibnul Qayyim & HR. Ahmad)](#2eksegesis-turats-konseling-aqidah-nabawiyyah-fiqh-istithabah-edukatif-ibnul-qayyim-hr-ahmad)
+  - [3. Arsitektur School-Wide PBIS Multi-Tier (Horner & Sugai) & Functional Behavior Assessment (FBA)](#3arsitektur-school-wide-pbis-multi-tier-horner-sugai-functional-behavior-assessment-fba)
+  - [4. Rekayasa Neurosains Pembiasaan Dzikir 24 Jam (Habit Loop & Cue-Routine-Reward)](#4rekayasa-neurosains-pembiasaan-dzikir-24-jam-habit-loop-cue-routine-reward)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Intervensi PBIS](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-intervensi-pbis)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Piramida PBIS 3-Tier Salimul Aqidah (Tier 1 Universal, Tier 2 Targeted, Tier 3 Intensive)](#1-arsitektur-piramida-pbis-3-tier-salimul-aqidah-tier-1-universal-tier-2-targeted-tier-3-intensive)
   - [2. Matriks Functional Behavior Assessment (FBA) Kasus Deviasi Aqidah (Trigger, Function, & Replacement)](#2-matriks-functional-behavior-assessment-fba-kasus-deviasi-aqidah-trigger-function--replacement)
   - [3. Standar Operasional Prosedur (SOP) Pembiasaan Harian Asrama 24 Jam](#3-standar-operasional-prosedur-sop-pembiasaan-harian-asrama-24-jam)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Konseling Aqidah Nabawiyyah & Fiqh Istithabah Edukatif (Ibnul Qayyim & HR. Ahmad)
+### 2. Eksegesis Turats Konseling Aqidah Nabawiyyah & Fiqh Istithabah Edukatif (Ibnul Qayyim & HR. Ahmad)
 
 ```mermaid
 graph TD
@@ -87,19 +87,19 @@ $$\text{إِنَّ فَتًى شَابًّا أَتَى النَّبِيَّ ﷺ
 
 *"Sesungguhnya seorang pemuda mendatangi Nabi SAW lalu berkata: 'Wahai Rasulullah, izinkanlah aku berzina!' Maka orang-orang membentak dan memarahinya. Namun Nabi SAW bersabda: **'Dekatkanlah ia kemari'**. Lalu pemuda itu duduk dekat beliau. Nabi bertanya secara sokratik: **'Apakah kamu suka perbuatan itu terjadi pada ibumu?'** Pemuda itu menjawab: 'Tidak, demi Allah, semoga Allah menjadikanku tebusanmu.' Nabi bersabda: **'Begitu pula orang lain tidak suka itu terjadi pada ibu-ibu mereka'**... Kemudian Nabi meletakkan tangannya yang mulia di dada pemuda itu seraya berdoa: **'Ya Allah, ampunilah dosanya, sucikanlah hatinya, dan jagalah kemaluannya'**."* (HR. Ahmad No. 22211 - Sanad Shahih).[^3]
 
-#### 🥊 Ronde 1: Mendekatkan Santri yang Mengalami Krisis, Bukan Menjauhkannya
+#### 1. Diskursus Dialektika Kritis: Mendekatkan Santri yang Mengalami Krisis, Bukan Menjauhkannya
 * **Pihak A (Sudut Pandang Eksklusivisme Punitif)**:  
   *"Santri yang membawa jimat atau bertanya ateis itu menularkan racun; harus segera diisolasi dan diusir dari pondok!"*
 * **Tinjauan Keteladanan Nabawi (*Udwatun Hasanah*)**:  
   Tindakan para sahabat membentak pemuda dikoreksi oleh Rasulullah SAW dengan sabda: *"Dekatkanlah ia kemari"*. Santri yang membawa jimat atau meragukan Tuhan sedang mengalami **Krisis Jiwa dan Kebingungan Nalar**. Jika diusir, ia akan hancur selamanya. Pendidik beradab merangkul santri tersebut, mengajaknya berdiskusi secara privat di ruang konseling, membongkar mitos jimat secara ilmiah, dan membimbing kalbunya kembali ke pangkuan tauhid murni.[^4]
 
-#### 🥊 Ronde 2: Fiqh Ruqyah Syar'iyyah Pedagogis Bebas Praktik Perdukunan
+#### 2. Diskursus Dialektika Kritis: Fiqh Ruqyah Syar'iyyah Pedagogis Bebas Praktik Perdukunan
 * **Pihak A (Sudut Pandang Mistifikasi Penanganan Kesurupan)**:  
   *"Santri yang takut hantu atau histeris di asrama harus dipanggilkan dukun atau dipukul pakai rotan untuk mengusir jinnya!"*
 * **Tinjauan Ruqyah Syar'iyyah & Psikologi Trauma**:  
   Banyak kasus santri "histeris/kesurupan" di asrama sebetulnya adalah **Reaksi Konversi Histeris (*Mass Psychogenic Illness*)** akibat stres adaptasi, kelelahan tidur, atau kecemasan ekstrem (*Panic Attack*). TUMBUH menerapkan **Ruqyah Syar'iyyah Pedagogis**: Membacakan ayat-ayat Al-Qur'an (Al-Fatihah, Ayat Kursi, Al-Mu'awwidzatain) dengan suara tenang dan penuh kehangatan, memberikan air minum hangat, menstabilkan pernapasan (*Grounding Technique*), dan meniadakan segala bentuk atraksi pemukulan atau ramalan mistis dukun.[^5]
 
-#### 🥊 Ronde 3: Istithabah Edukatif Menghilangkan Syubhat Nalar Santri
+#### 3. Diskursus Dialektika Kritis: Istithabah Edukatif Menghilangkan Syubhat Nalar Santri
 * **Pihak A (Sudut Pandang Interogasi Militer)**:  
   *"Santri yang bertanya tentang asal-usul Tuhan cukup disuruh bersyahadat ulang sambil diancam takzir!"*
 * **Resolusi Manhaj Istithabah Imam Al-Asy'ari**:  
@@ -107,7 +107,7 @@ $$\text{إِنَّ فَتًى شَابًّا أَتَى النَّبِيَّ ﷺ
 
 ---
 
-### 3. Inkuiri 2: Arsitektur School-Wide PBIS Multi-Tier (Horner & Sugai) & Functional Behavior Assessment (FBA)
+### 3. Arsitektur School-Wide PBIS Multi-Tier (Horner & Sugai) & Functional Behavior Assessment (FBA)
 
 ```mermaid
 graph TD
@@ -138,19 +138,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Membedah Fungsi di Balik Penggunaan Jimat (Security Seeking)
+#### 1. Diskursus Dialektika Kritis: Membedah Fungsi di Balik Penggunaan Jimat (Security Seeking)
 * **Pihak A (Sudut Pandang Penghakiman Gejala Luar)**:  
   *"Santri yang membawa sabuk rajah itu niatnya mau menantang musyrif dan pamer kesaktian!"*
 * **Tinjauan Diagnostik FBA**:  
   Hasil audit FBA membuktikan bahwa 90% santri baru yang membawa jimat melakukannya karena **Rasa Takut dan Cemas (*Need for Security & Protection*)** atas suruhan orang tua atau kakeknya di desa agar tidak diganggu senior. Fungsinya adalah mencari perlindungan. Intervensi yang benar bukan memukuli santri, melainkan mengajarkan **Perilaku Pengganti (*Replacement Behavior*)**: memberikan doa perlindungan ma'tsur nabawiyyah (*Ayat Kursi & Al-Falaq/An-Nas*), menjamin keamanan asrama bebas bullying, dan memusnahkan jimat tersebut secara terhormat atas kerelaan santri sendiri.[^8]
 
-#### 🥊 Ronde 2: Intervensi Tier 2 Kelompok Kecil bagi Santri Cemas Mistis
+#### 2. Diskursus Dialektika Kritis: Intervensi Tier 2 Kelompok Kecil bagi Santri Cemas Mistis
 * **Pihak A (Sudut Pandang Pengabaian Ketakutan Santri)**:  
   *"Santri yang takut ke kamar mandi malam-malam itu manja; biarkan saja terkunci di luar biar berani!"*
 * **Tinjauan Intervensi Targeted Tier 2 PBIS**:  
   Ketakutan mistis yang dibiarkan memicu gangguan tidur kronis dan trauma psikologis. Santri Tier 2 (10–15%) dimasukkan ke dalam **Kelompok Mentoring Tauhid & Keberanian (*Shaja'ah Circle*)**: musyrif membedah hakekat makhluk jin yang lemah di hadapan orang beriman (QS. An-Nisa: 76), melatih adab masuk kamar mandi dengan basmalah dan doa perlindungan, serta menata penerangan kamar mandi terang benderang. Ketakutan santri lenyap dalam 2 pekan.[^9]
 
-#### 🥊 Ronde 3: Intervensi Tier 3 Kasus Krisis Syubhat Pemikiran Akut
+#### 3. Diskursus Dialektika Kritis: Intervensi Tier 3 Kasus Krisis Syubhat Pemikiran Akut
 * **Pihak A (Sudut Pandang Debat Terbuka Mempermalukan)**:  
   *"Santri yang terpengaruh pemikiran liberal harus didebat di hadapan seluruh santri di masjid agar malu!"*
 * **Resolusi Konseling Individual Privat Tier 3**:  
@@ -158,7 +158,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Rekayasa Neurosains Pembiasaan Dzikir 24 Jam (Habit Loop & Cue-Routine-Reward)
+### 4. Rekayasa Neurosains Pembiasaan Dzikir 24 Jam (Habit Loop & Cue-Routine-Reward)
 
 ```mermaid
 flowchart TD
@@ -179,19 +179,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: SOP pembiasaan asrama TUMBUH menstrukturkan jadwal harian santri berdasarkan arsitektur *Habit Loop* dzikir ma'tsurat dan tadabbur Asmaul Husna.
 * **Konklusi (*an-Natijah*)**: Maka, rutinitas ibadah santri di pesantren TUMBUH bertransformasi dari keterpaksaan formalistik menjadi kebutuhan spiritual yang membahagiakan jiwa.[^11]
 
-#### 🥊 Ronde 1: Waktu Kritis Transisi Subuh dan Maghrib (Golden Spiritual Hours)
+#### 1. Diskursus Dialektika Kritis: Waktu Kritis Transisi Subuh dan Maghrib (Golden Spiritual Hours)
 * **Pihak A (Sudut Pandang Waktu Bebas Tanpa Struktur)**:  
   *"Setelah shalat subuh dan maghrib biarkan santri langsung main bola atau tidur lagi; tidak perlu ada jadwal dzikir ma'tsurat!"*
 * **Tinjauan Neurosains Gelombang Alfa Otak & Sunnah Wirid**:  
   Waktu ba'da Shubuh dan Maghrib adalah **Periode Emas Gelombang Otak Alfa (*Alpha Wave State*)**: pikiran manusia berada dalam kondisi paling reseptif untuk menyerap sugesti positif dan ketenangan spiritual. Mengisi waktu ini dengan Dzikir Al-Ma'tsurat Kubra selama 15 menit membentuk jalur saraf kedamaian (*Neural Pathway of Serenity*) dan melindungi santri dari kecemasan sepanjang hari. Membiarkan waktu ini kosong adalah kerugian pedagogis besar.[^12]
 
-#### 🥊 Ronde 2: Tadabbur Asmaul Husna 5 Menit di Kamar Sebelum Tidur
+#### 2. Diskursus Dialektika Kritis: Tadabbur Asmaul Husna 5 Menit di Kamar Sebelum Tidur
 * **Pihak A (Sudut Pandang Ceramah Panjang Melelahkan)**:  
   *"Kajian aqidah sebelum tidur harus minimal 1 jam membahas kitab tebal; kalau cuma 5 menit tidak ada ilmunya!"*
 * **Tinjauan Cognitive Load Theory & Sleep Consolidation**:  
   Sebelum tidur pukul 21.30, kapasitas kognitif santri telah lelah setelah seharian belajar. Ceramah panjang hanya membuat santri tertidur dan kesal. Sesi **Tadabbur Asmaul Husna 5 Menit**: musyrif duduk melingkar bersama 6 santri kamar, membedah 1 nama Allah (misal: *Al-Wakil - Maha Pemelihara*), menanyakan refleksi hari ini, lalu berdoa bersama. Pesan singkat ini terkonsolidasi sempurna dalam memori jangka panjang santri selama fase tidur REM.[^13]
 
-#### 🥊 Ronde 3: Kemitraan Orang Tua Saat Santri Liburan di Rumah (Home-Continuity Protocol)
+#### 3. Diskursus Dialektika Kritis: Kemitraan Orang Tua Saat Santri Liburan di Rumah (Home-Continuity Protocol)
 * **Pihak A (Sudut Pandang Lepas Tangan Masa Libur)**:  
   *"Saat liburan di rumah itu urusan orang tua 100%; pondok tidak perlu ikut campur apakah santri dzikir atau tidak!"*
 * **Resolusi Mesosistem Home-School Continuity**:  
@@ -199,9 +199,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Intervensi PBIS
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Intervensi PBIS
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Penanganan Santri Terpapar Komunitas Agnostik Siber)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Penanganan Santri Terpapar Komunitas Agnostik Siber)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana menangani santri cerdas kelas 11 (Jenjang J3) yang tertangkap basah menjadi anggota aktif forum agnostik/ateis di media sosial dan mulai membagikan postingan meragukan kebenaran Al-Qur'an kepada teman-temannya di grup WhatsApp kamar?"**
 
 * **Pendekatan Lama (Histeris & Pengusiran Kilat)**:  
@@ -250,7 +250,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

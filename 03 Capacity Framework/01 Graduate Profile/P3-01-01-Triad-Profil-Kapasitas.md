@@ -24,17 +24,17 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET INKUIRI TRIAD PROFIL KAPASITAS, DIALEKTIKA MULTI-PERSPEKTIF, & KASUISTIKA LAPANGAN](#bagian-i-riset-inkuiri-triad-profil-kapasitas-dialektika-multi-perspektif--kasuistika-lapangan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Kerangka Metodologi Triad Pertumbuhan Simbiotik: Mengapa Profil Kapasitas Wajib Triadik](#1-kerangka-metodologi-triad-pertumbuhan-simbiotik-mengapa-profil-kapasitas-wajib-triadik)
-  - [2. Inkuiri 1: Eksegesis Turats Triad Pendidikan — Insan Kamil, Qudwah Hasanah, & Bi'ah Shalihah](#2-inkuiri-1-eksegesis-turats-triad-pendidikan--insan-kamil-qudwah-hasanah--biah-shalihah)
-  - [3. Inkuiri 2: Konvergensi Whole-School Relational Capacity Framework (Darling-Hammond, 2020)](#3-inkuiri-2-konvergensi-whole-school-relational-capacity-framework-darling-hammond-2020)
-  - [4. Inkuiri 3: Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren](#4-inkuiri-3-anatomi-kapasitas-tiga-pilar-santri-pendidik-dan-institusi-pesantren)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Triad Pendidikan — Insan Kamil, Qudwah Hasanah, & Bi'ah Shalihah](#2eksegesis-turats-triad-pendidikan-insan-kamil-qudwah-hasanah-biah-shalihah)
+  - [3. Konvergensi Whole-School Relational Capacity Framework (Darling-Hammond, 2020)](#3konvergensi-whole-school-relational-capacity-framework-darling-hammond-2020)
+  - [4. Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren](#4anatomi-kapasitas-tiga-pilar-santri-pendidik-dan-institusi-pesantren)
+  - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Pesantren TUMBUH](#1-formulasi-konseptual-piagam-triad-profil-kapasitas-pesantren-tumbuh)
   - [2. Matriks Integrasi Standar Kapasitas Triad: Indikator, Alat Ukur, & Bukti Pertumbuhan](#2-matriks-integrasi-standar-kapasitas-triad-indikator-alat-ukur--bukti-pertumbuhan)
   - [3. Protokol Penjaminan Simbiosis Triad dalam Kehidupan Pesantren 24 Jam](#3-protokol-penjaminan-simbiosis-triad-dalam-kehidupan-pesantren-24-jam)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
+- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Hasil Riset Triad Profil Kapasitas](#1-tabel-sintesis-hasil-riset-triad-profil-kapasitas)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -42,7 +42,7 @@
 
 ---
 
-# BAGIAN I: RISET INKUIRI TRIAD PROFIL KAPASITAS, DIALEKTIKA MULTI-PERSPEKTIF, & KASUISTIKA LAPANGAN
+# BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS
 
 ---
 
@@ -75,12 +75,12 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Triad Pendidikan — Insan Kamil, Qudwah Hasanah, & Bi'ah Shalihah
+### 2. Eksegesis Turats Triad Pendidikan — Insan Kamil, Qudwah Hasanah, & Bi'ah Shalihah
 
 ```mermaid
 graph TD
     A["Gugatan Monolitik Santri-Sentris (Pihak A):<br/>'Profil kelulusan itu ya hanya untuk santri; guru dan pondok tidak perlu dibuatkan profil kapasitas!'"]
-    --> B1["Tinjauan Al-Qur'an Surah Al-Ahzab: 21 (Poros Pendidik):<br/>'Laqad kana lakum fi Rasulillahi USWATUN HASANAH' (Kapasitas keteladanan guru adalah syarat mutlak keberhasilan transmisi adab)."]
+    --> B1["Tinjauan Al-Qur'an Surah Al-Ahzab: 21 (Poros Pendidik):<br/>'Laqad kana lakum fi Rasulillahi QUDWAH HASANAH' (Kapasitas keteladanan guru adalah syarat mutlak keberhasilan transmisi adab)."]
     A --> B2["Tinjauan Al-Qur'an Surah At-Taubah: 119 (Poros Lingkungan/Sistem):<br/>'Wa kunu ma'ash SHADIQIN' (Kapasitas ekosistem kelembagaan yang jujur & aman adalah wadah pembentukan fitrah)."]
     A --> B3["Tinjauan Kitab Al-Insan al-Kamil Abdul Karim Al-Jili (Poros Pelajar):<br/>Aktualisasi kesempurnaan manusia pembelajar sebagai cermin sifat Ilahi."]
     B1 & B2 & B3 --> C["Titik Temu Konsensus:<br/>Ketiga poros wajib distandarisasi bersamaan dalam dokumen kapasitas kelembagaan."]
@@ -100,7 +100,7 @@ $$\text{إِنَّ التَّعْلِيمَ وَإِنْ كَانَ نَقْلً
 
 ---
 
-### 3. Inkuiri 2: Konvergensi *Whole-School Relational Capacity Framework* (Darling-Hammond, 2020)
+### 3. Konvergensi *Whole-School Relational Capacity Framework* (Darling-Hammond, 2020)
 
 Riset mutakhir dalam *Educational Policy and Systems Design* oleh **Linda Darling-Hammond** (2020) menegaskan teori **Kapasitas Relasional Sekolah Menyeluruh (*Whole-School Relational Capacity Framework*)**:
 * Kualitas lulusan sebuah institusi pendidikan berkorelasi 0,84 dengan tingkat kesejahteraan mental guru (*Educator Well-being*) dan kejelasan tata kelola sistem organisasi (*System Coherence*).
@@ -109,7 +109,7 @@ Riset mutakhir dalam *Educational Policy and Systems Design* oleh **Linda Darlin
 
 ---
 
-### 4. Inkuiri 3: Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren
+### 4. Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren
 
 ```mermaid
 graph LR
@@ -126,21 +126,21 @@ graph LR
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Pesantren Cukup Fokus pada Santri Saja, Kesejahteraan Musyrif Itu Urusan Nomor Dua"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Pesantren Cukup Fokus pada Santri Saja, Kesejahteraan Musyrif Itu Urusan Nomor Dua"
 * **Pihak A (Sudut Pandang Eksploitasi Pengasuh)**:  
   *"Musyrif itu niatnya mengabdi dan mencari pahala akhirat; tidak perlu diberi jam istirahat atau pelatihan khusus!"*
 * **Tinjauan Maqashid Syari'ah & Hukum Kausalitas Psikologis**:  
   Pendidik yang kelelahan kronis (*Burnout*) akibat jam kerja 24 jam tanpa libur akan mengalami penumpulan empati (*Depersonalization*). Begitu amigdalanya tertekan, ia akan mudah memukul, menampar, atau membentak santri saat terjadi pelanggaran kecil. **Menjaga Kesejahteraan dan Pelatihan Musyrif Adalah Syarat Wajib untuk Menjaga Keselamatan Fisik dan Jiwa Santri**. Mengabaikan musyrif sama dengan merusak santri secara sengaja.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Sistem Kelembagaan Berbasis Data PBIS Menghilangkan Unsur Keikhlasan Pesantren?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Sistem Kelembagaan Berbasis Data PBIS Menghilangkan Unsur Keikhlasan Pesantren?
 * **Pihak A (Sudut Pandang Mistifikasi Administrasi)**:  
   *"Pesantren itu urusan berkah dan ikhlas; memasang dashboard data perilaku PBIS dan SOP tata ruang membuat pondok jadi seperti pabrik sekuler!"*
 * **Tinjauan Itqanul 'Amal & Sunnah Manajemen Nabawi**:  
   Rasulullah SAW dan Sayyidina Umar RA mengelola administrasi kaum muslimin dengan pencatatan (*Diwan*) yang sangat teliti. Keikhlasan ada di dalam kalbu, sedangkan kerapian tata kelola sistem (*Itqanul 'Amal*) adalah perintah syariat nyata (HR. Al-Baihaqi No. 4931). Menolak data objektif atas dalih "keikhlasan" adalah kedok bagi kemalasan manajemen dan pengabaian amanah umat.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Tiga Profil Kapasitas Ini Harus Diukur Bersamaan dalam Audit Mutu?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Tiga Profil Kapasitas Ini Harus Diukur Bersamaan dalam Audit Mutu?
 * **Pihak A (Sudut Pandang Parsialisme Mutu)**:  
   *"Audit kelulusan ya cukup menguji santri di panggung wisuda; kenapa pimpinan pondok dan musyrif juga harus diaudit kapasitasnya?"*
 * **Resolusi Tanggung Jawab Ekologis Menyeluruh (Kullukum Ra'in)**:  
@@ -152,7 +152,7 @@ graph LR
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -204,7 +204,7 @@ flowchart TD
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

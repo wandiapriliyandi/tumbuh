@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA INTELEKTUAL-VOKASIONAL](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-intelektual-vokasional)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Pengangguran Terdidik Alumni Pesantren & Mitos "Santri Anti-Bisnis"](#1-latar-belakang-masalah-bahaya-pengangguran-terdidik-alumni-pesantren--mitos-santri-anti-bisnis)
-  - [2. Inkuiri 1: Eksegesis Turats Shalat dan Mencari Karunia Allah (QS. Al-Jumu'ah: 9–10) & Kitab Al-Kasb Imam Asy-Syaibani](#2-inkuiri-1-eksegesis-turats-shalat-dan-mencari-karunia-allah-qs-al-jumuah-910--kitab-al-kasb-imam-asy-syaibani)
-  - [3. Inkuiri 2: Teori Human Capital Gary Becker & Keterampilan Vokasional Berbasis Nalar Kritis](#3-inkuiri-2-teori-human-capital-gary-becker--keterampilan-vokasional-berbasis-nalar-kritis)
-  - [4. Inkuiri 3: Peran Kemandirian Ekonomi dalam Menjaga Independensi Fatwa & Integritas Dakwah](#4-inkuiri-3-peran-kemandirian-ekonomi-dalam-menjaga-independensi-fatwa--integritas-dakwah)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Shalat dan Mencari Karunia Allah (QS. Al-Jumu'ah: 9–10) & Kitab Al-Kasb Imam Asy-Syaibani](#2eksegesis-turats-shalat-dan-mencari-karunia-allah-qs-al-jumuah-910-kitab-al-kasb-imam-asy-syaibani)
+  - [3. Teori Human Capital Gary Becker & Keterampilan Vokasional Berbasis Nalar Kritis](#3teori-human-capital-gary-becker-keterampilan-vokasional-berbasis-nalar-kritis)
+  - [4. Peran Kemandirian Ekonomi dalam Menjaga Independensi Fatwa & Integritas Dakwah](#4peran-kemandirian-ekonomi-dalam-menjaga-independensi-fatwa-integritas-dakwah)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Model Keterpaduan Nalar Intelektual & Kemandirian Finansial TUMBUH](#1-formulasi-konseptual-model-keterpaduan-nalar-intelektual--kemandirian-finansial-tumbuh)
   - [2. Matriks Integrasi Kompetensi Sains-Turats dengan Unit Usaha Vokasional Pesantren](#2-matriks-integrasi-kompetensi-sains-turats-dengan-unit-usaha-vokasional-pesantren)
   - [3. Peta Jalan Kurikulum Santripreneur Berbasis Jenjang J1–J4 di Pesantren](#3-peta-jalan-kurikulum-santripreneur-berbasis-tangga-t1t4-di-pesantren)
@@ -69,7 +69,7 @@ flowchart LR
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Shalat dan Mencari Karunia Allah (QS. Al-Jumu'ah: 9–10) & Kitab Al-Kasb Imam Asy-Syaibani
+### 2. Eksegesis Turats Shalat dan Mencari Karunia Allah (QS. Al-Jumu'ah: 9–10) & Kitab Al-Kasb Imam Asy-Syaibani
 
 ```mermaid
 graph TD
@@ -87,7 +87,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Human Capital Gary Becker & Keterampilan Vokasional Berbasis Nalar Kritis
+### 3. Teori Human Capital Gary Becker & Keterampilan Vokasional Berbasis Nalar Kritis
 
 Pemenang Nobel Ekonomi **Gary S. Becker** dalam *Human Capital Theory* (1964) membuktikan bahwa investasi pada pengetahuan dan keterampilan manusia meningkatkan produktivitas ekonomi secara dramatis:
 * Dalam konteks pesantren, keterampilan teknis (misal: pertanian hidroponik, desain grafis, akuntansi syariah) akan bernilai jauh lebih tinggi jika didasari oleh **Nalar Kritis Mantiq (*Critical Thinking*)**:
@@ -95,7 +95,7 @@ Pemenang Nobel Ekonomi **Gary S. Becker** dalam *Human Capital Theory* (1964) me
 
 ---
 
-### 4. Inkuiri 3: Peran Kemandirian Ekonomi dalam Menjaga Independensi Fatwa & Integritas Dakwah
+### 4. Peran Kemandirian Ekonomi dalam Menjaga Independensi Fatwa & Integritas Dakwah
 
 ```mermaid
 flowchart TD
@@ -112,21 +112,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Belajar Wirausaha di Pondok Mengurangi Waktu Menghafal Al-Qur'an"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Belajar Wirausaha di Pondok Mengurangi Waktu Menghafal Al-Qur'an"
 * **Pihak A (Sudut Pandang Zero-Sum Game)**:  
   *"Waktu santri 24 jam harus habis untuk hafalan; mengajarkan bisnis 2 jam seminggu akan menggagalkan target tahfizh!"*
 * **Tinjauan Psikologi Belajar & Keseimbangan Otak**:  
   Belajar kognitif secara terus-menerus tanpa variasi kinestetik memicu kebosanan mental (*Mental Saturation*). Praktik keterampilan vokasional 2 jam sepekan justru menjadi sarana penyegaran otak (*Active Rest*), yang melatih santri membumikan hafalan ayat-ayat muamalah ke dunia nyata.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Pesantren Tidak Berubah Menjadi Sekolah Vokasi Sekuler?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Pesantren Tidak Berubah Menjadi Sekolah Vokasi Sekuler?
 * **Pihak A (Sudut Pandang Kekhawatiran Komersialisasi)**:  
   *"Jika santri diajari jualan, pesantren akan bergeser orientasinya menjadi lembaga bisnis pencari laba!"*
 * **Tinjauan Fiqh Mu'amalah & Niat Barakah**:  
   Vokasional dalam ekosistem TUMBUH dibingkai oleh **Fiqh Mu'amalah dan Etika Bisnis Islam**: Santri diajari kejujuran timbangan (*Sidiq*), amanah transaksi (*Amanah*), transparansi tanpa riba (*Bebas Gharar*), dan menyisihkan 20% laba untuk beasiswa santri yatim. Bisnis diposisikan sebagai wasilah ibadah.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Literasi Digital & Komputasi Termasuk Qadirun 'Alal Kasb?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Literasi Digital & Komputasi Termasuk Qadirun 'Alal Kasb?
 * **Pihak A (Sudut Pandang Vokasi Tradisional)**:  
   *"Kemandirian santri itu cukup menjahit dan bertani cangkul, tidak perlu diajari komputer atau coding!"*
 * **Resolusi Disrupsi Ekonomi Digital Abad 21**:  
@@ -138,7 +138,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

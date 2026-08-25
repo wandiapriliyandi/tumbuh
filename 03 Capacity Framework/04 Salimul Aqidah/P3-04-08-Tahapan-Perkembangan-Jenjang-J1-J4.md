@@ -14,20 +14,20 @@
 >   Banyak pesantren menuntut santri baru (usia 12–13 tahun) untuk langsung memiliki kematangan ruhiyah, kekhusyukan dzikir, dan integritas otonom setara santri senior. Ketika santri baru tersebut berbuat salah karena proses adaptasi, mereka langsung divonis dan dihukum keras. Hal ini memicu trauma religius (*Religious Trauma*) dan kemunafikan perilaku (*Pseudomaturity*).
 > * **Inovasi Tangga Progresi J1–J4 Salimul Aqidah TUMBUH:**  
 >   TUMBUH merancang kurikulum pembiasaan aqidah bertahap (*Tadarruj Syar'i*) melalui **Empat Jenjang Kemandirian: Jenjang J1 (Kepatuhan Terbimbing / Ta'aruf), Jenjang J2 (Pembiasaan Konsisten / Tafahum), Jenjang J3 (Kemandirian Stabil / Ta'awun), dan Jenjang J4 (Penggerak Qudwah / Takaful)** dengan degradasi bantuan musyrif secara sistemik (*Fading Scaffolding* dari 80% ke 0%).
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah atsar sahabat Ibnu Umar RA (*"Kami belajar iman sebelum belajar Al-Qur'an"*), menyintesiskan teori tahapan moral Kohlberg dan ZPD Vygotsky, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan protokol asesmen promosi kenaikan jenjang.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TAHAPAN PERKEMBANGAN](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-tahapan-perkembangan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya "Tuntutan Keshalihan Instan" & Hipokrisi Semu Santri Baru](#1-latar-belakang-masalah-bahaya-tuntutan-keshalihan-instan--hipokrisi-semu-santri-baru)
-  - [2. Inkuiri 1: Eksegesis Turats Marahil al-Iman & Atsar Ibnu Umar (QS. Al-Furqan: 32 & Ibnu Abdil Barr)](#2-inkuiri-1-eksegesis-turats-marahil-al-iman--atsar-ibnu-umar-qs-al-furqan-32--ibnu-abdil-barr)
-  - [3. Inkuiri 2: Teori Perkembangan Moral Kognitif (Piaget & Kohlberg) serta Scaffolding ZPD Vygotsky](#3-inkuiri-2-teori-perkembangan-moral-kognitif-piaget--kohlberg-serta-scaffolding-zpd-vygotsky)
-  - [4. Inkuiri 3: Translasi Empat Jenjang Kemandirian (J1–J4) ke dalam Ekosistem Asrama 24 Jam](#4-inkuiri-3-translasi-empat-jenjang-kemandirian-t1t4-ke-dalam-ekosistem-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Lintasan Perkembangan](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-lintasan-perkembangan)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Marahil al-Iman & Atsar Ibnu Umar (QS. Al-Furqan: 32 & Ibnu Abdil Barr)](#2eksegesis-turats-marahil-al-iman-atsar-ibnu-umar-qs-al-furqan-32-ibnu-abdil-barr)
+  - [3. Teori Perkembangan Moral Kognitif (Piaget & Kohlberg) serta Scaffolding ZPD Vygotsky](#3teori-perkembangan-moral-kognitif-piaget-kohlberg-serta-scaffolding-zpd-vygotsky)
+  - [4. Translasi Empat Jenjang Kemandirian (J1–J4) ke dalam Ekosistem Asrama 24 Jam](#4translasi-empat-jenjang-kemandirian-j1j4-ke-dalam-ekosistem-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Lintasan Perkembangan](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-lintasan-perkembangan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Roadmap Trajektori Longitudinal Perkembangan Salimul Aqidah (Tahun ke-1 s/d Tahun ke-6)](#1-roadmap-trajektori-longitudinal-perkembangan-salimul-aqidah-tahun-ke-1-sd-tahun-ke-6)
   - [2. Matriks Rincian Capaian Kognitif, Afektif, dan Amaliyyah Melintasi Jenjang J1–J4](#2-matriks-rincian-capaian-kognitif-afektif-dan-amaliyyah-melintasi-jenjang-t1t4)
   - [3. Protokol Asesmen Kenaikan Jenjang Kemandirian (Rubrik Promosi Tangga J1 ke J2, J2 ke J3, J3 ke J4)](#3-protokol-asesmen-kenaikan-jenjang-kemandirian-rubrik-promosi-tangga-t1-ke-t2-t2-ke-t3-t3-ke-t4)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Marahil al-Iman & Atsar Ibnu Umar (QS. Al-Furqan: 32 & Ibnu Abdil Barr)
+### 2. Eksegesis Turats Marahil al-Iman & Atsar Ibnu Umar (QS. Al-Furqan: 32 & Ibnu Abdil Barr)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{وَقَالَ الَّذِينَ كَفَرُوا لَوْلَا نُز
 
 *"Dan orang-orang kafir berkata: 'Mengapa Al-Qur'an itu tidak diturunkan kepadanya sekaligus?' **Demikianlah, agar Kami meneguhkan hatimu dengannya dan Kami membacakannya secara tartil (berangsur-angsur)**."* (QS. Al-Furqan [25]: 32).[^4]
 
-#### 🥊 Ronde 1: Penanaman Cinta Iman Sebelum Pembebanan Formalisme Syariat
+#### 1. Diskursus Dialektika Kritis: Penanaman Cinta Iman Sebelum Pembebanan Formalisme Syariat
 * **Pihak A (Sudut Pandang Legalistik Kering)**:  
   *"Hari pertama santri masuk asrama harus langsung dicek hafalan matan fiqihnya; tidak perlu buang-buang waktu dengan pembiasaan kehangatan atau obrolan tauhid!"*
 * **Tinjauan Tarbiyah Nabawiyyah Ibnu Abdil Barr**:  
   Membebankan hafalan hukum dan ancaman neraka kepada santri baru yang kalbunya belum merasakan manisnya iman (*Halawatul Iman*) akan melahirkan penolakan bawah sadar terhadap agama (*Aversion Conditioning*). Pada Jenjang J1, fokus utama pengasuhan adalah **Membangun Keterikatan Kasih Sayang (*Mahabbah*) kepada Allah dan Rasul-Nya**, mengenalkan keindahan Asmaul Husna, dan menghadirkan rasa aman di asrama. Ketika kalbu telah terpikat cinta Ilahi, beban syariat akan dipikul dengan penuh kenikmatan.[^5]
 
-#### 🥊 Ronde 2: Mengawal Fase Transisi Kritis Jenjang J1 Menuju J2
+#### 2. Diskursus Dialektika Kritis: Mengawal Fase Transisi Kritis Jenjang J1 Menuju J2
 * **Pihak A (Sudut Pandang Ketidaksabaran Hasil)**:  
   *"Santri sudah 6 bulan di pondok kok masih harus dibangunkan shalat subuh oleh musyrif? Harusnya sudah mandiri total!"*
 * **Tinjauan Pembentukan Kebiasaan (Neural Habituation)**:  
   Membangun ritme sirkadian baru (bangun pukul 03.30) dan kebiasaan dzikir rutin membutuhkan waktu adaptasi neurobiologis minimal 66 hingga 90 hari. Transisi dari J1 (didampingi 80%) menuju J2 (didampingi 50%) adalah fase rawan di mana santri mulai belajar mengatur diri (*Self-Regulation*). Menghakimi santri pada fase ini justru menghancurkan kepercayaan dirinya. Musyrif bertindak sebagai pemandu yang sabar (*Gentle Scaffolder*).[^6]
 
-#### 🥊 Ronde 3: Puncak Tahap 7 Insan Adabi pada Jenjang J4
+#### 3. Diskursus Dialektika Kritis: Puncak Tahap 7 Insan Adabi pada Jenjang J4
 * **Pihak A (Sudut Pandang Kepasifan Santri Senior)**:  
   *"Santri kelas akhir tidak usah dilibatkan dalam kepengurusan aqidah adik kelas; biarkan mereka fokus persiapan ujian tulis nasional!"*
 * **Resolusi Kepemimpinan Qudwah & Khidmah Ummah**:  
@@ -112,7 +112,7 @@ $$\text{وَقَالَ الَّذِينَ كَفَرُوا لَوْلَا نُز
 
 ---
 
-### 3. Inkuiri 2: Teori Perkembangan Moral Kognitif (Piaget & Kohlberg) serta Scaffolding ZPD Vygotsky
+### 3. Teori Perkembangan Moral Kognitif (Piaget & Kohlberg) serta Scaffolding ZPD Vygotsky
 
 ```mermaid
 graph TD
@@ -139,13 +139,13 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Dari Kepatuhan Heteronom (Takut Rotan) Menuju Kepatuhan Otonom (Muraqabah)
+#### 1. Diskursus Dialektika Kritis: Dari Kepatuhan Heteronom (Takut Rotan) Menuju Kepatuhan Otonom (Muraqabah)
 * **Pihak A (Sudut Pandang Fiksasi Moral Rendah)**:  
   *"Santri itu sampai kapanpun harus ditakut-takuti pakai rotan dan takzir poin, kalau tidak mereka pasti liar!"*
 * **Tinjauan Krisis Fiksasi Pra-Konvensional**:  
   Memelihara ketakutan hukuman fisik secara terus-menerus mengunci perkembangan moral santri pada **Level Pra-Konvensional Kohlberg (Tahap 1: Obedience and Punishment Orientation)**. Akibatnya, saat tidak ada musyrif, santri merasa bebas berbuat maksiat. TUMBUH menuntun santri melompat ke **Level Pasca-Konvensional (Muraqabatullah)**: santri taat bukan karena takut rotan, melainkan karena mencintai Allah dan malu berbuat dosa (*Haya' lillaah*).[^9]
 
-#### 🥊 Ronde 2: Desain Fading Scaffolding Musyrif (80% $\rightarrow$ 50% $\rightarrow$ 20% $\rightarrow$ 0%)
+#### 2. Diskursus Dialektika Kritis: Desain Fading Scaffolding Musyrif (80% $\rightarrow$ 50% $\rightarrow$ 20% $\rightarrow$ 0%)
 * **Pihak A (Sudut Pandang Serba-Lepas atau Serba-Kekang)**:  
   *"Pilihannya cuma dua: musyrif mengawasi 24 jam penuh tanpa henti, atau membiarkan santri bebas semaunya!"*
 * **Tinjauan Proporsi Pendampingan Fading Scaffolding**:  
@@ -155,7 +155,7 @@ flowchart LR
   * **Jenjang J3**: Musyrif hadir 20% (pemantauan berkala, memberdayakan pengurus kamar).
   * **Jenjang J4**: Musyrif hadir 0% sebagai pengawas, beralih menjadi mitra dialog dan konsultan spiritual.[^10]
 
-#### 🥊 Ronde 3: Zona Perkembangan Proksimal (ZPD) dalam Diskusi Syubhat Nalar
+#### 3. Diskursus Dialektika Kritis: Zona Perkembangan Proksimal (ZPD) dalam Diskusi Syubhat Nalar
 * **Pihak A (Sudut Pandang Anti-Pertanyaan Kritis)**:  
   *"Santri yang bertanya kritis tentang takdir atau sains evolusi itu tanda aqidahnya mulai goyah; harus disuruh istighfar dan dilarang bertanya lagi!"*
 * **Resolusi ZPD Kognitif & Dialog Burhani**:  
@@ -163,7 +163,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Translasi Empat Jenjang Kemandirian (J1–J4) ke dalam Ekosistem Asrama 24 Jam
+### 4. Translasi Empat Jenjang Kemandirian (J1–J4) ke dalam Ekosistem Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -186,19 +186,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem asrama TUMBUH menata peran santri senior (J4) sebagai pelindung dan mentor adik kelas (J1), bukan sebagai penguasa yang menindas.
 * **Konklusi (*an-Natijah*)**: Maka, progresi tangga J1–J4 TUMBUH berhasil mentransformasi kultur feodal asrama menjadi Bi'ah Shalihah yang aman dan memberdayakan.[^12]
 
-#### 🥊 Ronde 1: Penanganan Regresi Karakter Santri (Character Regression Protocol)
+#### 1. Diskursus Dialektika Kritis: Penanganan Regresi Karakter Santri (Character Regression Protocol)
 * **Pihak A (Sudut Pandang Hukuman Turun Jenjang Seketika)**:  
   *"Santri Jenjang J3 yang sekali saja ketahuan menyontek harus langsung diturunkan ke Jenjang J1 dan dicopot semua haknya!"*
 * **Tinjauan Diagnostik Krisis Jiwa & Pendampingan Restoratif**:  
   Manusia mengalami dinamika fluktuasi iman (*Al-Imanu Yazidu wa Yanqus*). Regresi karakter sesaat sering dipicu oleh beban stres belajar, masalah keluarga, atau keletihan fisik. Alih-alih menjatuhkan sanksi demosi yang mempermalukan santri, Tim Konselor BK melakukan **Audit Diagnostik Kasus**: mengidentifikasi akar pemicu, memberikan sesi refleksi pemulihan niat, dan menetapkan kontrak restorasi selama 14 hari. Keadilan ditegakkan dengan penuh hikmah dan kasih sayang.[^13]
 
-#### 🥊 Ronde 2: Mentoring Ukhuwah Sebaya (Peer Mentoring J4 ke J1 Tanpa Feodalisme)
+#### 2. Diskursus Dialektika Kritis: Mentoring Ukhuwah Sebaya (Peer Mentoring J4 ke J1 Tanpa Feodalisme)
 * **Pihak A (Sudut Pandang Kekhawatiran Penyalahgunaan Wewenang Senior)**:  
   *"Memberi peran kepada santri senior untuk membimbing junior rawan memicu bullying dan tradisi ospek terselubung!"*
 * **Tinjauan SOP Anti-Bullying & Pembatasan Peran Mentor**:  
   TUMBUH melarang keras santri senior memberikan hukuman fisik atau verbal kepada junior. Peran santri Jenjang J4 dibatasi secara tegas sebagai **Fasilitator Kasih Sayang & Teladan Ibadah (*Peer Brother / Ukhti Pendamping*)**: menyimak hafalan doa, menyapa santri baru yang bersedih, dan mengajak shalat berjamaah bersama. Seluruh intervensi kedisiplinan tetap berada di bawah wewenang eksklusif Musyrif resmi.[^14]
 
-#### 🥊 Ronde 3: Kriteria Baku Kelulusan Promosi Kenaikan Jenjang (Promotion Gate)
+#### 3. Diskursus Dialektika Kritis: Kriteria Baku Kelulusan Promosi Kenaikan Jenjang (Promotion Gate)
 * **Pihak A (Sudut Pandang Kenaikan Otomatis Berdasarkan Usia)**:  
   *"Setiap santri yang naik kelas 8 otomatis naik ke Jenjang J2, tidak perlu diuji rubrik karakternya!"*
 * **Resolusi Asesmen Autentik Berbasis Bukti**:  
@@ -206,9 +206,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Lintasan Perkembangan
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Lintasan Perkembangan
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Senior Jenjang J4 yang Mengalami Demotivasi)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Senior Jenjang J4 yang Mengalami Demotivasi)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana menangani santri teladan kelas 12 (Jenjang J4) yang tiba-tiba mogok memimpin doa, mengurung diri di kamar, dan menyatakan bahwa dirinya lelah berpura-pura menjadi teladan bagi adik kelas?"**
 
 * **Pendekatan Lama (Penghakiman Reputasi Lembaga)**:  
@@ -254,7 +254,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

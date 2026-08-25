@@ -18,7 +18,7 @@ Banyak pesantren mengalami kemandekan (*stagnasi*) karena memandang pertumbuhan 
 ```mermaid
 graph TD
     subgraph Ekosistem_TUMBUH["Triad Pertumbuhan Simbiotik TUMBUH"]
-        Santri["1. SANTRI TUMBUH<br/>- Kapasitas Fitrah & Adab Mekar<br/>- Jenjang J1 -> T2 -> T3 -> T4<br/>- Regulasi Diri & Motivasi Ibadah Sadar"]
+        Santri["1. SANTRI TUMBUH<br/>- Kapasitas Fitrah & Adab Mekar<br/>- Pentahapan Kesadaran Maratib al-Idrak<br/>- Regulasi Diri & Motivasi Ibadah Sadar"]
         Guru["2. GURU & MUSYRIF TUMBUH<br/>- Keteladanan Qudwah Meningkat<br/>- Keterampilan Pedagogi & Konseling Terasah<br/>- Kesejahteraan Ruhiyah & Profesional Terjaga"]
         Sistem["3. SISTEM LEMBAGA TUMBUH<br/>- Pembelajaran Organisasi (Learning Organization)<br/>- SOP Terstandarisasi & Adaptif Berbasis Data PBIS<br/>- Budaya Ukhuwah & Iklim Tanpa Rasa Takut"]
     end
@@ -34,7 +34,7 @@ graph TD
 
 ### A. Pilar 1: Santri Tumbuh (*Pertumbuhan Subjek Didik*)
 * **Esensi**: Santri tidak dicetak seperti pabrik, melainkan difasilitasi tumbuh dari benih fitrah menjadi pribadi mandiri yang berilmu dan berakhlak mulia.
-* **Lintasan**: Melalui Jenjang J1 (Adaptasi) → T2 (Habituasi) → T3 (Internalisasi) → T4 (Kemandirian & Qudwah).
+* **Lintasan**: Melalui pentahapan filosofis: *Adaptasi Fitrah* → *Habituasi Adab* → *Internalisasi Nilai* → *Kemandirian Ruhani & Qudwah*.
 * **Indikator**: Mampu meregulasi emosi, berinisiatif dalam ibadah tanpa diawasi, dan aktif berkontribusi bagi sesama santri.
 
 ### B. Pilar 2: Guru & Musyrif Tumbuh (*Pertumbuhan Pendidik & Pengasuh*)

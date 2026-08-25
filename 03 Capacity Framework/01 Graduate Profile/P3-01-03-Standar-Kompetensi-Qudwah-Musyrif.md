@@ -24,17 +24,17 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET STANDAR KOMPETENSI MUSYRIF, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-standar-kompetensi-musyrif-dialektika-inkuiri--kasuistika-lapangan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Kerangka Metodologi Profesionalisme Musyrif: Mengapa Musyrif Wajib Memiliki Standar Kompetensi Baku](#1-kerangka-metodologi-profesionalisme-musyrif-mengapa-musyrif-wajib-memiliki-standar-kompetensi-baku)
-  - [2. Inkuiri 1: Eksegesis Turats Adab Murabbi — Kitab KH. Hasyim Asy'ari & Ihya 'Ulumiddin](#2-inkuiri-1-eksegesis-turats-adab-murabbi--kitab-kh-hasyim-asyari--ihya-ulumiddin)
-  - [3. Inkuiri 2: Empat Pilar Kompetensi Guru/Musyrif & Keterampilan De-Eskalasi 3R (Dr. Bruce Perry)](#3-inkuiri-2-empat-pilar-kompetensi-gurumusyrif--keterampilan-de-eskalasi-3r-dr-bruce-perry)
-  - [4. Inkuiri 3: Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (Maslach Burnout Inventory)](#4-inkuiri-3-proteksi-kesejahteraan-mental-pendidik--mitigasi-burnout-maslach-burnout-inventory)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Adab Murabbi — Kitab KH. Hasyim Asy'ari & Ihya 'Ulumiddin](#2eksegesis-turats-adab-murabbi-kitab-kh-hasyim-asyari-ihya-ulumiddin)
+  - [3. Empat Pilar Kompetensi Guru/Musyrif & Keterampilan De-Eskalasi 3R (Dr. Bruce Perry)](#3empat-pilar-kompetensi-gurumusyrif-keterampilan-de-eskalasi-3r-dr-bruce-perry)
+  - [4. Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (Maslach Burnout Inventory)](#4proteksi-kesejahteraan-mental-pendidik-mitigasi-burnout-maslach-burnout-inventory)
+  - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-kode-etik-musyrif-murabbi-pesantren-tumbuh)
   - [2. Matriks 4 Domain Kompetensi Pendidik/Musyrif, Indikator Kinerja (KPI Qudwah), & Bukti Asesmen](#2-matriks-4-domain-kompetensi-pendidikmusyrif-indikator-kinerja-kpi-qudwah--bukti-asesmen)
   - [3. Piagam Perlindungan Kesejahteraan Mental Musyrif & Jam Kerja Manusiawi (Educator Well-Being Charter)](#3-piagam-perlindungan-kesejahteraan-mental-musyrif--jam-kerja-manusiawi-educator-well-being-charter)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
+- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Hasil Riset Standar Kompetensi Musyrif](#1-tabel-sintesis-hasil-riset-standar-kompetensi-musyrif)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -68,7 +68,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Adab Murabbi — Kitab KH. Hasyim Asy'ari & Ihya 'Ulumiddin
+### 2. Eksegesis Turats Adab Murabbi — Kitab KH. Hasyim Asy'ari & Ihya 'Ulumiddin
 
 ```mermaid
 graph TD
@@ -93,7 +93,7 @@ $$\text{أَنْ يَقْصِدَ بِتَعْلِيمِهِمْ وَتَهْذ�
 
 ---
 
-### 3. Inkuiri 2: Empat Pilar Kompetensi Guru/Musyrif & Keterampilan De-Eskalasi 3R (Dr. Bruce Perry)
+### 3. Empat Pilar Kompetensi Guru/Musyrif & Keterampilan De-Eskalasi 3R (Dr. Bruce Perry)
 
 Ekosistem TUMBUH merumuskan **Empat Pilar Kompetensi Musyrif**:
 1. **Domain 1: Spiritual & Qudwah (Keteladanan Ibadah):** Menjadi teladan hidup dalam shalat berjamaah di saf depan, tilawah Al-Qur'an, dan kejujuran.
@@ -121,7 +121,7 @@ flowchart TD
 
 ---
 
-### 4. Inkuiri 3: Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (*Maslach Burnout Inventory*)
+### 4. Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (*Maslach Burnout Inventory*)
 
 Riset psikologi organisasi oleh **Christina Maslach** (2001) membuktikan bahwa *Burnout* pada pengasuh asrama terjadi akibat 3 faktor utama:
 1. **Emotional Exhaustion (Kelelahan Emosional):** Akibat jam kerja berlebih tanpa tidur cukup.
@@ -132,21 +132,21 @@ Pesantren TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: r
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Musyrif yang Mengasuh dengan Lembut Akan Diremehkan dan Tidak Disegani Santri"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Musyrif yang Mengasuh dengan Lembut Akan Diremehkan dan Tidak Disegani Santri"
 * **Pihak A (Sudut Pandang Kekuatan Teror)**:  
   *"Musyrif harus pasang muka galak, bawa tongkat rotan, dan suka membentak biar santri takut dan patuh!"*
 * **Tinjauan Kewibawaan Sejati (Haibah) vs Ketakutan Semu (Khauf)**:  
   Kewibawaan sejati (*Haibah*) lahir dari keteladanan akhlak, konsistensi prinsip, dan kedalaman ilmu, bukan dari muka seram atau tongkat pemukul. Santri yang takut pada musyrif galak hanya akan patuh saat di depan mata, namun melakukan pelanggaran liar di belakangnya. Musyrif yang mempraktikkan **Firm & Kind (Tegas dalam Prinsip, Lembut dalam Cara)** akan dicintai sekaligus ditaati santri dengan penuh kesadaran tulus.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Mengatur Jam Kerja dan Libur Musyrif Akan Merusak Budaya Pengabdian Ikhlas?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Mengatur Jam Kerja dan Libur Musyrif Akan Merusak Budaya Pengabdian Ikhlas?
 * **Pihak A (Sudut Pandang Pengeksploitasian Ikhlas)**:  
   *"Dulu para kiai mengabdi siang malam tidak pernah minta libur; memberi libur musyrif itu tanda hilangnya keikhlasan pesantren!"*
 * **Tinjauan Hak Tubuh & Larangan Menzalimi Diri Sendiri (Inna Li Jasadika 'Alaika Haqqa)**:  
   Rasulullah SAW menegur sahabat yang beribadah sepanjang malam tanpa tidur: *"Sesungguhnya tubuhmu memiliki hak istirahat atasmu, dan matamu memiliki hak tidur atasmu"* (HR. Bukhari No. 1975). Menuntut musyrif bekerja 24 jam nonstop 7 hari sepekan adalah bentuk kezaliman struktural yang merusak kesehatan fisik dan mental musyrif, yang pada akhirnya membahayakan keselamatan santri asuhan.[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Musyrif Wajib Mengikuti Supervisi Klinis Reflektif Mingguan?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Musyrif Wajib Mengikuti Supervisi Klinis Reflektif Mingguan?
 * **Pihak A (Sudut Pandang Resistensi Evaluasi)**:  
   *"Musyrif sudah sarjana agama dan hafal Qur'an; tidak perlu disupervisi atau diawasi cara mengasuhnya!"*
 * **Resolusi Tradisi Mudzakarah & Penjagaan Kualitas Pengasuhan**:  
@@ -158,7 +158,7 @@ Pesantren TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: r
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -211,7 +211,7 @@ flowchart TD
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

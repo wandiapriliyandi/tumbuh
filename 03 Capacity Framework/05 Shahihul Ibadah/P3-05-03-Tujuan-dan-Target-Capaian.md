@@ -14,20 +14,20 @@
 >   Target pembinaan ibadah di banyak pesantren hanya terpaku pada angka absensi shalat (kehadiran fisik di masjid) tanpa memiliki peta target kualitatif yang jelas mengenai kedalaman thuma'ninah, penguasaan fiqh thaharah mandiri, kelaziman shalat nawafil, dan transformasi akhlak sosial santri.
 > * **Inovasi Tiga Tingkatan Tujuan & Roadmap SMART TUMBUH:**  
 >   TUMBUH menstrukturkan target capaian Shahihul Ibadah berbasis *Goal-Setting Theory* Locke & Latham (2002): **1. Tujuan Jangka Pendek (Immediate Goal - J1): Penguasaan Fiqh Thaharah Presisi & Zero Masbuq di Saf Awal; 2. Tujuan Jangka Menengah (Intermediate Goal - J2–J3): Kelaziman Shalat Rawatib, Dhuha, & Tilawah 1 Juz/Hari; 3. Tujuan Jangka Panjang (Ultimate Goal - J4): Terbentuknya Malakah Ibadah Mandiri, Kepemimpinan Imam/Khatib, & Kesiapan Menjadi Qudwah Abadi**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah teleologi syariat *(Aqimish Shalata li Dzikri QS. Thaha: 14 & QS. Al-'Ankabut: 45)*, risalah *Maqashid ash-Shalah* Sultanul Ulama Al-'Izz bin Abdis Salam, menyintesiskan teori motivasi penetapan tujuan modern, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan roadmap 6 tahun pembentukan karakter ibadah.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TUJUAN TARGET](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-tujuan-target)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Ilusi Kuantitas Absensi Shalat vs Ketiadaan Target Kualitas Kekhusyukan](#1-latar-belakang-masalah-ilusi-kuantitas-absensi-shalat-vs-ketiadaan-target-kualitas-kekhusyukan)
-  - [2. Inkuiri 1: Eksegesis Turats Teleologi Syariat Shalat: Mencegah Keji & Mengingat Allah (QS. Al-'Ankabut: 45 & Al-'Izz bin Abdis Salam)](#2-inkuiri-1-eksegesis-turats-teleologi-syariat-shalat-mencegah-keji--mengingat-allah-qs-al-ankabut-45--al-izz-bin-abdis-salam)
-  - [3. Inkuiri 2: Goal-Setting Theory Edwin Locke & Gary Latham (2002) dalam Perancangan Target Ibadah SMART](#3-inkuiri-2-goal-setting-theory-edwin-locke--gary-latham-2002-dalam-perancangan-target-ibadah-smart)
-  - [4. Inkuiri 3: Gradasi Tiga Tingkatan Tujuan Ibadah Santri dalam Kalender Asrama 24 Jam](#4-inkuiri-3-gradasi-tiga-tingkatan-tujuan-ibadah-santri-dalam-kalender-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tujuan Ibadah](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-tujuan-ibadah)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Teleologi Syariat Shalat: Mencegah Keji & Mengingat Allah (QS. Al-'Ankabut: 45 & Al-'Izz bin Abdis Salam)](#2eksegesis-turats-teleologi-syariat-shalat-mencegah-keji-mengingat-allah-qs-al-ankabut-45-al-izz-bin-abdis-salam)
+  - [3. Goal-Setting Theory Edwin Locke & Gary Latham (2002) dalam Perancangan Target Ibadah SMART](#3goal-setting-theory-edwin-locke-gary-latham-2002-dalam-perancangan-target-ibadah-smart)
+  - [4. Gradasi Tiga Tingkatan Tujuan Ibadah Santri dalam Kalender Asrama 24 Jam](#4gradasi-tiga-tingkatan-tujuan-ibadah-santri-dalam-kalender-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tujuan Ibadah](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-tujuan-ibadah)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Tiga Tingkatan Tujuan Pembinaan Shahihul Ibadah (Immediate, Intermediate, & Ultimate)](#1-arsitektur-tiga-tingkatan-tujuan-pembinaan-shahihul-ibadah-immediate-intermediate--ultimate)
   - [2. Matriks Target Kuantitatif & Kualitatif Capaian Ibadah Berjenjang J1–J4](#2-matriks-target-kuantitatif--kualitatif-capaian-ibadah-berjenjang-j1j4)
   - [3. Roadmap Pembinaan Ibadah 6 Tahun (Kurikulum Akselerasi Malakah Ibadah)](#3-roadmap-pembinaan-ibadah-6-tahun-kurikulum-akselerasi-malakah-ibadah)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Teleologi Syariat Shalat: Mencegah Keji & Mengingat Allah (QS. Al-'Ankabut: 45 & Al-'Izz bin Abdis Salam)
+### 2. Eksegesis Turats Teleologi Syariat Shalat: Mencegah Keji & Mengingat Allah (QS. Al-'Ankabut: 45 & Al-'Izz bin Abdis Salam)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{الْغَرَضُ الْأَقْصَى مِنَ الصَّلَاةِ: �
 
 *"**Tujuan tertinggi dari shalat adalah: Memuliakan dan mengagungkan Allah Subhanahu wa Ta'ala dengan kalbu, lisan, dan seluruh anggota badan, serta menyucikan jiwa dari akhlak-akhlak yang tercela**. Karena sesungguhnya seorang mushalli jika menghadirkan keagungan wibawa Allah di dalam shalatnya, niscaya akan runtuh syahwatnya, tertunduk nafsu ammarahnya, dan luruslah seluruh anggota badannya dalam ketaatan di luar shalat."*[^4]
 
-#### 🥊 Ronde 1: Shalat Sebagai Obat Penawar Jiwa (Bukan Beban Pajak Harian)
+#### 1. Diskursus Dialektika Kritis: Shalat Sebagai Obat Penawar Jiwa (Bukan Beban Pajak Harian)
 * **Pihak A (Sudut Pandang Beban Kewajiban Berat)**:  
   *"Wajar kalau santri merasa shalat 5 waktu itu melelahkan dan menyita waktu istirahat; target kita adalah memaksa mereka tahan banting!"*
 * **Tinjauan Sabda Nabi SAW Arihna ya Bilal**:  
   Rasulullah SAW bersabda kepada Bilal bin Rabah RA saat waktu shalat tiba: *"Wahai Bilal, kumandangkanlah adzan, **istirahatkanlah (tenangkanlah) kami dengan shalat!**"* (HR. Abu Dawud No. 4985). Shalat bukanlah beban yang melelahkan, melainkan **Oase Ketenangan Jiwa (*Restorative Oasis*)** dari hiruk-pikuk kehidupan. Target TUMBUH adalah mendidik santri hingga merasakan shalat sebagai tempat beristirahat dan berlindung yang paling membahagiakan kalbu.[^5]
 
-#### 🥊 Ronde 2: Dzikrullah Sebagai Puncak Target Pembinaan
+#### 2. Diskursus Dialektika Kritis: Dzikrullah Sebagai Puncak Target Pembinaan
 * **Pihak A (Sudut Pandang Penolakan Dzikir Ba'da Shalat)**:  
   *"Setelah salam shalat, target santri selesai; biarkan mereka langsung lari keluar masjid tanpa perlu berdzikir!"*
 * **Tinjauan Keutamaan Dzikir Ba'da Shalat (QS. An-Nisa: 103)**:  
   Allah SWT berfirman: *"Maka apabila kamu telah menyelesaikan shalatmu, ingatlah Allah di waktu berdiri, di waktu duduk dan di waktu berbaring"* (QS. An-Nisa: 103). Dzikir ba'da shalat adalah **Masa Penguncian Kekhusyukan (*Spiritual Consolidation Phase*)**: melafalkan tasbih, tahmid, takbir, dan ayat kursi mengintegrasikan ketenangan shalat ke dalam alam bawah sadar santri sebelum kembali beraktivitas di asrama.[^6]
 
-#### 🥊 Ronde 3: Keberlanjutan Ibadah Pasca-Pesantren (Lifelong Malakah Target)
+#### 3. Diskursus Dialektika Kritis: Keberlanjutan Ibadah Pasca-Pesantren (Lifelong Malakah Target)
 * **Pihak A (Sudut Pandang Target Sempit Selama di Pondok Saja)**:  
   *"Yang penting santri shalat tertib selama di pondok; urusan setelah lulus mereka shalat atau tidak itu urusan orang tua masing-masing!"*
 * **Resolusi Pembentukan Malakah Abadi (Lifelong Habitualization)**:  
@@ -113,7 +113,7 @@ $$\text{الْغَرَضُ الْأَقْصَى مِنَ الصَّلَاةِ: �
 
 ---
 
-### 3. Inkuiri 2: Goal-Setting Theory Edwin Locke & Gary Latham (2002) dalam Perancangan Target Ibadah SMART
+### 3. Goal-Setting Theory Edwin Locke & Gary Latham (2002) dalam Perancangan Target Ibadah SMART
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Specific & Challenging Goals: Mengganti Instruksi Samar
+#### 1. Diskursus Dialektika Kritis: Specific & Challenging Goals: Mengganti Instruksi Samar
 * **Pihak A (Sudut Pandang Instruksi Mengambang)**:  
   *"Katakan saja kepada santri 'shalatlah yang baik dan khusyu'', santri pasti mengerti sendiri maksudnya!"*
 * **Tinjauan Teori Locke & Latham**:  
   Instruksi samar *"Shalatlah yang baik"* memiliki tingkat kegagalan implementasi sangat tinggi karena setiap santri memiliki interpretasi berbeda. Dalam sistem TUMBUH, target dikonkretkan secara spesifik: *(1) Tiba di masjid sebelum muadzin selesai mengumandangkan adzan; (2) Meluruskan tumit sejajar garis saf; (3) Membaca dzikir ruku' dan sujud minimal 3 kali dengan thuma'ninah 4 detik*. Kejelasan instruksi ini memandu santri mencapai kesempurnaan ibadah secara presisi.[^9]
 
-#### 🥊 Ronde 2: Umpan Balik Formatif (Continuous Progress Feedback)
+#### 2. Diskursus Dialektika Kritis: Umpan Balik Formatif (Continuous Progress Feedback)
 * **Pihak A (Sudut Pandang Evaluasi Setahun Sekali)**:  
   *"Target ibadah santri cukup dievaluasi di akhir semester saat pembagian rapor; tidak perlu evaluasi berkala!"*
 * **Tinjauan Mekanisme Feedback Loop & Retensi Kebiasaan**:  
   Target tanpa umpan balik berkala akan kehilangan daya dorong dalam 14 hari. Sistem TUMBUH menyediakan **Umpan Balik Formatif Mingguan (*Weekly Progress Feedback*)**: Musyrif kamar mereview kartu kendali dzikir dan shalat bersama santri setiap Jumat malam, memberikan apresiasi atas kemajuan yang dicapai, dan mendiskusikan kendala ngantuk atau malas secara santun. Santri merasa didampingi dan termotivasi memperbaiki diri.[^10]
 
-#### 🥊 Ronde 3: Motivasi Otonom vs Beban Target Stres (Self-Determination)
+#### 3. Diskursus Dialektika Kritis: Motivasi Otonom vs Beban Target Stres (Self-Determination)
 * **Pihak A (Sudut Pandang Pengejaran Angka Buta)**:  
   *"Paksa santri membaca Al-Qur'an 3 juz per hari; kalau tidak tercapai, hukum lari keliling lapangan 20 putaran!"*
 * **Resolusi Self-Determination Theory (Deci & Ryan)**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Gradasi Tiga Tingkatan Tujuan Ibadah Santri dalam Kalender Asrama 24 Jam
+### 4. Gradasi Tiga Tingkatan Tujuan Ibadah Santri dalam Kalender Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -185,19 +185,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum Shahihul Ibadah TUMBUH memetakan target perkembangan ibadah santri melintasi roadmap 6 tahun pengasuhan asrama.
 * **Konklusi (*an-Natijah*)**: Maka, proses pembinaan ibadah santri di pesantren TUMBUH berlangsung secara terarah, realistis, dan berkesinambungan.[^12]
 
-#### 🥊 Ronde 1: Target Thaharah Presisi & Zero Masbuq di Jenjang J1 (Kelas 7)
+#### 1. Diskursus Dialektika Kritis: Target Thaharah Presisi & Zero Masbuq di Jenjang J1 (Kelas 7)
 * **Pihak A (Sudut Pandang Menyepelekan Fiqh Wudhu Santri Baru)**:  
   *"Santri baru lulusan SD/MI pasti sudah bisa wudhu; tidak perlu diajari praktik wudhu dan mandi wajib lagi!"*
 * **Tinjauan Data Audit Fiqh Thaharah Santri Baru**:  
   Hasil audit lapangan membuktikan bahwa 68% santri baru masih melakukan kesalahan fatal dalam thaharah: tumit kaki tidak terbasuh sempurna, tidak berkumur-kumur, dan tidak memahami cara mandi janabah yang sah. Target mutlak Jenjang J1 selama semester pertama adalah **Sertifikasi Praktik Fiqh Thaharah & Shalat 1-on-1**: setiap santri diuji langsung oleh musyrif hingga gerakannya presisi 100% sesuai sunnah.[^13]
 
-#### 🥊 Ronde 2: Target Tilawah 1 Juz & Shalat Rawatib di Jenjang J2–J3 (Kelas 8–11)
+#### 2. Diskursus Dialektika Kritis: Target Tilawah 1 Juz & Shalat Rawatib di Jenjang J2–J3 (Kelas 8–11)
 * **Pihak A (Sudut Pandang Keterpaksaan Tilawah Massal)**:  
   *"Target 1 juz per hari itu terlalu berat untuk anak SMP/SMA; biarkan saja mereka membaca 1 lembar seminggu!"*
 * **Tinjauan Distribusi Waktu 24 Jam (Time-Blocking Method)**:  
   Membaca 1 juz Al-Qur'an (10 lembar) hanya membutuhkan waktu 30–40 menit per hari jika dibagi dengan metode **Time-Blocking Shalat 5 Waktu**: membaca 2 lembar (4 halaman) setelah setiap shalat fardhu (2 lembar x 5 waktu = 10 lembar / 1 juz). Santri Jenjang J2–J3 berhasil menuntaskan 1 juz setiap hari tanpa merasa lelah dan merasakan manisnya berinteraksi dengan Al-Qur'an setiap saat.[^14]
 
-#### 🥊 Ronde 3: Target Kepemimpinan Imam & Khatib di Jenjang J4 (Kelas 12)
+#### 3. Diskursus Dialektika Kritis: Target Kepemimpinan Imam & Khatib di Jenjang J4 (Kelas 12)
 * **Pihak A (Sudut Pandang Santri Tidak Boleh Jadi Imam Masjid)**:  
   *"Imam shalat rawatib dan khatib Jumat di masjid pondok harus selalu ustadz sepuh; santri kelas 12 belum pantas menjadi imam!"*
 * **Resolusi Kaderisasi Kepemimpinan Umat (Imamatush Shalah)**:  
@@ -205,9 +205,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tujuan Ibadah
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tujuan Ibadah
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Mengejar Target Hafalan Tapi Kehilangan Adab)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Mengejar Target Hafalan Tapi Kehilangan Adab)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana pesantren menyikapi santri yang berhasil mencapai target kuantitatif khatam hafalan Al-Qur'an 30 Juz dalam 2 tahun, namun santri tersebut menjadi sombong, meremehkan teman yang hafalannya sedikit, dan menolak ikut gotong royong membersihkan masjid asrama?"**
 
 * **Pendekatan Lama (Pembiaran & Pemuliaan Buta Penghafal)**:  
@@ -256,7 +256,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

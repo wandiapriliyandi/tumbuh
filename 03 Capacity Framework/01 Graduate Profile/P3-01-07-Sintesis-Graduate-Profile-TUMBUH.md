@@ -22,12 +22,12 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: SINTESIS TEORETIS 6 PILAR PROFIL KAPASITAS & ARSITEKTUR KELULUSAN](#bagian-i-sintesis-teoretis-6-pilar-profil-kapasitas--arsitektur-kelulusan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Arsitektur Sintesis Holistik: Integrasi Triad Profil Kapasitas Pesantren TUMBUH](#1-arsitektur-sintesis-holistik-integrasi-triad-profil-kapasitas-pesantren-tumbuh)
   - [2. Grand Model Penyelarasan Taksonomi Profil Lulusan dengan Kebutuhan Zaman](#2-grand-model-penyelarasan-taksonomi-profil-lulusan-dengan-kebutuhan-zaman)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Profil Kelulusan](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-profil-kelulusan)
   - [4. Jembatan Konseptual Menuju Sub-Domain 02 Character Architecture](#4-jembatan-konseptual-menuju-sub-domain-02-character-architecture)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Grand Model Taksonomi Profil Lulusan Pesantren TUMBUH](#1-formulasi-konseptual-grand-model-taksonomi-profil-lulusan-pesantren-tumbuh)
   - [2. Matriks Grand Rubrik Profil Kelulusan Paripurna 10 Muwashafat](#2-matriks-grand-rubrik-profil-kelulusan-paripurna-10-muwashafat)
   - [3. Standar Prosedur Evaluasi Kelulusan & Verifikasi Portofolio Mutqin](#3-standar-prosedur-evaluasi-kelulusan--verifikasi-portofolio-mutqin)
@@ -122,7 +122,7 @@ graph LR
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

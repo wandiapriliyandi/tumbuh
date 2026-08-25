@@ -26,13 +26,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA BIMBINGAN TERPADU](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-bimbingan-terpadu)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Kegagalan Pembinaan Parsial (Kurikulum Adab Terisolasi dari Rutinitas Asrama)](#1-latar-belakang-masalah-kegagalan-pembinaan-parsial-kurikulum-adab-terisolasi-dari-rutinitas-asrama)
-  - [2. Inkuiri 1: Eksegesis Turats Tarbiyah Nabawiyyah 24 Jam (Sirah Shahabat) & Totalitas Keteladanan](#2-inkuiri-1-eksegesis-turats-tarbiyah-nabawiyyah-24-jam-sirah-shahabat--totalitas-keteladanan)
-  - [3. Inkuiri 2: Teori Multi-Tiered System of Supports (MTSS/PBIS) & Desain Intervensi Majemuk](#3-inkuiri-2-teori-multi-tiered-system-of-supports-mtsspbis--desain-intervensi-majemuk)
-  - [4. Inkuiri 3: Sinergi Ekologis Antara Guru Kelas, Musyrif Asrama, dan Konselor BK](#4-inkuiri-3-sinergi-ekologis-antara-guru-kelas-musyrif-asrama-dan-konselor-bk)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Tarbiyah Nabawiyyah 24 Jam (Sirah Shahabat) & Totalitas Keteladanan](#2eksegesis-turats-tarbiyah-nabawiyyah-24-jam-sirah-shahabat-totalitas-keteladanan)
+  - [3. Teori Multi-Tiered System of Supports (MTSS/PBIS) & Desain Intervensi Majemuk](#3teori-multi-tiered-system-of-supports-mtsspbis-desain-intervensi-majemuk)
+  - [4. Sinergi Ekologis Antara Guru Kelas, Musyrif Asrama, dan Konselor BK](#4sinergi-ekologis-antara-guru-kelas-musyrif-asrama-dan-konselor-bk)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Matriks Aktivitas Harian 24 Jam Berbasis Cross-Character Synergy](#1-formulasi-konseptual-matriks-aktivitas-harian-24-jam-berbasis-cross-character-synergy)
   - [2. Desain 4 Program Unggulan Asrama Pengungkit Multi-Karakter Simultan](#2-desain-4-program-unggulan-asrama-pengungkit-multi-karakter-simultan)
   - [3. Standar Operasional Prosedur (SOP) Penanganan Kasus Krisis Multidimensi (Tier 2 & Tier 3)](#3-standar-operasional-prosedur-sop-penanganan-kasus-krisis-multidimensi-tier-2--tier-3)
@@ -72,7 +72,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Tarbiyah Nabawiyyah 24 Jam (Sirah Shahabat) & Totalitas Keteladanan
+### 2. Eksegesis Turats Tarbiyah Nabawiyyah 24 Jam (Sirah Shahabat) & Totalitas Keteladanan
 
 ```mermaid
 graph TD
@@ -90,7 +90,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Multi-Tiered System of Supports (MTSS/PBIS) & Desain Intervensi Majemuk
+### 3. Teori Multi-Tiered System of Supports (MTSS/PBIS) & Desain Intervensi Majemuk
 
 Kerangka kerja global *Positive Behavioral Interventions and Supports (PBIS)* menetapkan piramida dukungan multi-tier:
 * **Tier 1 (Universal - 80-90% Santri):** Seluruh santri mendapatkan pembiasaan cross-character rutin (jadwal asrama terpadu, rasio apresiasi positif 4:1).
@@ -99,7 +99,7 @@ Kerangka kerja global *Positive Behavioral Interventions and Supports (PBIS)* me
 
 ---
 
-### 4. Inkuiri 3: Sinergi Ekologis Antara Guru Kelas, Musyrif Asrama, dan Konselor BK
+### 4. Sinergi Ekologis Antara Guru Kelas, Musyrif Asrama, dan Konselor BK
 
 ```mermaid
 flowchart TD
@@ -120,21 +120,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Musyrif dan Guru Kelas Tidak Perlu Saling Berbagi Data Santri"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Musyrif dan Guru Kelas Tidak Perlu Saling Berbagi Data Santri"
 * **Pihak A (Sudut Pandang Ego Sektoral)**:  
   *"Urusan di kelas biar diselesaikan guru, urusan asrama urusan musyrif; tidak perlu repot sinkronisasi data!"*
 * **Tinjauan Kebutuhan Holistik Santri**:  
   Santri yang mengantuk di kelas jam ke-1 sering kali bukan karena malas pelajaran, melainkan karena semalam begadang di asrama merawat teman sekamarnya yang sakit. Tanpa sinkronisasi data, guru akan salah menghukum santri yang berjiwa pahlawan (*Nafi'un Lighairih*). Integrasi data mencegah salah diagnosa.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Pendekatan Cross-Character Tidak Membuat Santri Bingung?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Pendekatan Cross-Character Tidak Membuat Santri Bingung?
 * **Pihak A (Sudut Pandang Beban Kognitif Santri)**:  
   *"Melatih 5 karakter sekaligus dalam 1 kegiatan membuat santri bingung fokus mana yang harus dicapai!"*
 * **Tinjauan Pembelajaran Alami & Otentik**:  
   Dalam kehidupan nyata, manusia tidak pernah menggunakan satu karakter secara terisolasi. Saat santri memasak di dapur umum, ia secara alami menggunakan nalar higienitas (*Qawiyyul Jism*), kerja sama tim (*Matinul Khuluq*), dan ketepatan waktu sahur (*Haritsun 'Ala Waqtih*). Pendekatan terpadu justru terasa alami dan menyenangkan.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Kasus Pelanggaran Berat Wajib Dikelola Secara Restoratif?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Kasus Pelanggaran Berat Wajib Dikelola Secara Restoratif?
 * **Pihak A (Sudut Pandang Pengeluaran Instan / Drop-Out)**:  
   *"Santri yang melanggar berat langsung keluarkan saja dari pondok agar tidak menular ke santri lain!"*
 * **Resolusi Misi Tarbiyah & Penyelamatan Generasi**:  
@@ -146,7 +146,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

@@ -31,17 +31,17 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: RISET TAKSONOMI 10 KARAKTER, DIALEKTIKA INKUIRI, & KASUISTIKA LAPANGAN](#bagian-i-riset-taksonomi-10-karakter-dialektika-inkuiri--kasuistika-lapangan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Kerangka Metodologi Taksonomi Karakter: Memadukan Turats Muwashafat dengan Sains SEL](#1-kerangka-metodologi-taksonomi-karakter-memadukan-turats-muwashafat-dengan-sains-sel)
-  - [2. Inkuiri 1: Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi](#2-inkuiri-1-eksegesis-turats-10-karakter-muwashafat-hasan-al-banna--adab-nabawi)
-  - [3. Inkuiri 2: Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam](#3-inkuiri-2-konvergensi-5-kompetensi-casel-sel-ke-dalam-matriks-perilaku-santri-24-jam)
-  - [4. Inkuiri 3: Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4-inkuiri-3-progresi-tangga-tumbuh-t1t4-gradualisme-syari-menuju-tahap-7-penggerak)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-asrama--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi](#2eksegesis-turats-10-karakter-muwashafat-hasan-al-banna-adab-nabawi)
+  - [3. Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam](#3konvergensi-5-kompetensi-casel-sel-ke-dalam-matriks-perilaku-santri-24-jam)
+  - [4. Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4progresi-jenjang-kemandirian-tumbuh-j1j4-j1j4-gradualisme-syari-menuju-tahap-7-penggerak)
+  - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
   - [2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Jenjang J1–J4](#2-matriks-taksonomi-terpadu-10-muwashafat-5-casel-sel--deskriptor-tangga-t1t4)
   - [3. Protokol Asesmen Pertumbuhan Karakter Ipsatif Non-Ranking (BARS Protocol)](#3-protokol-asesmen-pertumbuhan-karakter-ipsatif-non-ranking-bars-protocol)
-- [BAGIAN III: APARATUS AKADEMIS & APENDIKS](#bagian-iii-aparatus-akademis--apendiks)
+- [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
   - [1. Tabel Sintesis Hasil Riset Taksonomi 10 Karakter](#1-tabel-sintesis-hasil-riset-taksonomi-10-karakter)
   - [2. Daftar Pustaka Akademis & Rujukan Turats Primer](#2-daftar-pustaka-akademis--rujukan-turats-primer)
   - [3. Catatan Kaki Akademis (Footnotes)](#3-catatan-kaki-akademis-footnotes)
@@ -77,7 +77,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi
+### 2. Eksegesis Turats 10 Karakter Muwashafat Hasan Al-Banna & Adab Nabawi
 
 ```mermaid
 graph TD
@@ -95,7 +95,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam
+### 3. Konvergensi 5 Kompetensi CASEL SEL ke dalam Matriks Perilaku Santri 24 Jam
 
 | Kompetensi CASEL SEL | Domain Muwashafat Terkait | Padanan Nilai Turats Islam | Perilaku Teramati di Pesantren 24 Jam |
 | :--- | :--- | :--- | :--- |
@@ -107,7 +107,7 @@ graph TD
 
 ---
 
-### 4. Inkuiri 3: Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak
+### 4. Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak
 
 ```mermaid
 flowchart TD
@@ -128,21 +128,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Asrama, & Titik Temu Konsensus
+### 5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Karakter Santri Tidak Bisa Dinilai Secara Objektif Karena Urusan Hati"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Karakter Santri Tidak Bisa Dinilai Secara Objektif Karena Urusan Hati"
 * **Pihak A (Sudut Pandang Subjektivisme Ekstrem)**:  
   *"Akhlak itu urusan batin dan hati dengan Allah; tidak bisa dibuat rubrik perilakunya!"*
 * **Tinjauan Hadits Nabi SAW: Amal Nyata Cermin Hati**:  
   Rasulullah SAW bersabda: *"Sesungguhnya di dalam tubuh ada segumpal daging; jika ia baik maka baik pula SELURUH AMAL PERBUATANNYA"* (HR. Bukhari No. 52). Kebaikan hati memancarkan **Perilaku Nyata Teramati (*Observable Actions*)**: shalat tepat waktu, berbicara santun, kamar rapi, dan tidak memukul teman. Menolak pengukuran objektif adalah alasan untuk mengabaikan evaluasi pembinaan.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Menggunakan Rubrik Penilaian Karakter Akan Menjadikan Santri Bersikap Munafik (Pencitraan)?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Menggunakan Rubrik Penilaian Karakter Akan Menjadikan Santri Bersikap Munafik (Pencitraan)?
 * **Pihak A (Sudut Pandang Ketakutan Riya')**:  
   *"Kalau dinilai rubrik, santri akan pura-pura shalih di depan musyrif demi dapat nilai A!"*
 * **Tinjauan Asesmen Triangulasi 360 Derajat & Asesmen Ipsatif**:  
   Pesantren TUMBUH menerapkan **Asesmen Triangulasi 360 Derajat**: penilaian tidak hanya dari musyrif, melainkan laporan sosiometrik teman sebaya sekamar (*Peer Review*), evaluasi diri rahasia (*Self-Reflection*), dan catatan portofolio adab harian. Pencitraan sesaat akan langsung terdeteksi oleh dinamika asrama 24 jam. Asesmen ipsatif memotivasi perbaikan diri personal, bukan persaingan nilai.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Karakter 'Qadirun 'alal Kasb' (Kemandirian Vokasi) Wajib Masuk Profil Santri?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Karakter 'Qadirun 'alal Kasb' (Kemandirian Vokasi) Wajib Masuk Profil Santri?
 * **Pihak A (Sudut Pandang Dikotomi Akhirat vs Dunia)**:  
   *"Santri itu fokus mengaji kitab saja; tidak usah diajari wirausaha atau kemandirian ekonomi!"*
 * **Resolusi Tradisi Kemandirian Ulama Salaf**:  
@@ -154,7 +154,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
@@ -213,7 +213,7 @@ flowchart TD
 
 ---
 
-# BAGIAN III: APARATUS AKADEMIS & APENDIKS
+# BAGIAN III: KESIMPULAN & APARATUS AKADEMIS
 
 ---
 

@@ -14,20 +14,20 @@
 >   Banyak santri rajin shalat berjamaah di saf pertama, namun datang ke masjid mengenakan sarung berbau apek, kaos lusuh bergambar mengganggu, membuang sampah tisu di selasar masjid, serta tertawa gaduh di saat santri lain sedang khusyu' mendirikan shalat sunnah. Ibadah terdistorsi menjadi ritual fisik yang kehilangan nilai pemuliaan (*Ta'zhim*) dan kesucian (*Nazhafah*).
 > * **Inovasi Lima Nilai Inti Shahihul Ibadah TUMBUH:**  
 >   TUMBUH menetapkan 5 Nilai Inti Aksiologis: **1. Ittiba'us Sunnah (Ketaatan Otentik Nabawiyyah), 2. Thuma'ninah & Khusyu' (Ketenangan Raga & Batin), 3. Ta'zhimul Masjid (Memuliakan Rumah Allah), 4. Nazhafah Syar'iyyah (Kesucian & Kerapian Paripurna), dan 5. Istiqamah Nawafil (Konsistensi Menjaga Amalan Sunnah)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah nash Al-Qur'an (QS. An-Nur: 36 & QS. Al-A'raf: 31), kitab induk *Al-Majmu'* Imam An-Nawawi, menyintesiskan teori nilai dasar Shalom Schwartz (1992) dan resolusi disonansi kognitif Festinger, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan standar pakaian shalat serta kode etik masjid 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA NILAI INTI IBADAH](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-nilai-inti-ibadah)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Jurang Pemisah Antara Ritual Masjid dan Adab Lingkungan Asrama](#1-latar-belakang-masalah-jurang-pemisah-antara-ritual-masjid-dan-adab-lingkungan-asrama)
-  - [2. Inkuiri 1: Eksegesis Turats Lima Nilai Inti Ibadah & Adab Memuliakan Masjid (QS. An-Nur: 36 & An-Nawawi)](#2-inkuiri-1-eksegesis-turats-lima-nilai-inti-ibadah--adab-memuliakan-masjid-qs-an-nur-36--an-nawawi)
-  - [3. Inkuiri 2: Teori Nilai Dasar Shalom Schwartz & Resolusi Disonansi Kognitif Festinger dalam Internalisasi Ibadah](#3-inkuiri-2-teori-nilai-dasar-shalom-schwartz--resolusi-disonansi-kognitif-festinger-dalam-internalisasi-ibadah)
-  - [4. Inkuiri 3: Translasi Lima Nilai Inti ke dalam Tata Kelola Asrama 24 Jam](#4-inkuiri-3-translasi-lima-nilai-inti-ke-dalam-tata-kelola-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Nilai Inti Ibadah](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-nilai-inti-ibadah)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Lima Nilai Inti Ibadah & Adab Memuliakan Masjid (QS. An-Nur: 36 & An-Nawawi)](#2eksegesis-turats-lima-nilai-inti-ibadah-adab-memuliakan-masjid-qs-an-nur-36-an-nawawi)
+  - [3. Teori Nilai Dasar Shalom Schwartz & Resolusi Disonansi Kognitif Festinger dalam Internalisasi Ibadah](#3teori-nilai-dasar-shalom-schwartz-resolusi-disonansi-kognitif-festinger-dalam-internalisasi-ibadah)
+  - [4. Translasi Lima Nilai Inti ke dalam Tata Kelola Asrama 24 Jam](#4translasi-lima-nilai-inti-ke-dalam-tata-kelola-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Nilai Inti Ibadah](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-nilai-inti-ibadah)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Komprehensif Lima Nilai Inti Shahihul Ibadah TUMBUH](#1-arsitektur-komprehensif-lima-nilai-inti-shahihul-ibadah-tumbuh)
   - [2. Matriks Kode Etik & Batasan Larangan Mutlak (Red Lines) Adab Masjid & Ibadah](#2-matriks-kode-etik--batasan-larangan-mutlak-red-lines-adab-masjid--ibadah)
   - [3. Standar Kelayakan Pakaian Shalat (Libasush Shalah Protocol)](#3-standar-kelayakan-pakaian-shalat-libasush-shalah-protocol)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Lima Nilai Inti Ibadah & Adab Memuliakan Masjid (QS. An-Nur: 36 & An-Nawawi)
+### 2. Eksegesis Turats Lima Nilai Inti Ibadah & Adab Memuliakan Masjid (QS. An-Nur: 36 & An-Nawawi)
 
 ```mermaid
 graph TD
@@ -99,19 +99,19 @@ $$\text{يُسْتَحَبُّ لِقَاصِدِ الْمَسْجِدِ أَن�
 
 *"**Disunnahkan bagi orang yang hendak menuju masjid untuk membersihkan diri dengan memotong kuku, merapikan rambut, dan menghilangkan bau tidak sedap, serta mengenakan pakaian terbaiknya yang paling bersih, dan yang paling utama adalah warna putih**. Dan sangat dimakruhkan (bahkan haram jika mengganggu) meninggikan suara di masjid, berbicara gaduh, bertengkar, dan segala hal yang mengacaukan kekhusyukan orang-orang yang sedang shalat."*[^5]
 
-#### 🥊 Ronde 1: Memuliakan Masjid dari Kegaduhan & Candaan Santri
+#### 1. Diskursus Dialektika Kritis: Memuliakan Masjid dari Kegaduhan & Candaan Santri
 * **Pihak A (Sudut Pandang Masjid Sebagai Tempat Bermain Santai)**:  
   *"Santri itu masih anak-anak; wajar kalau mereka berlarian, tertawa terbahak-bahak, dan saling melempar sarung di dalam masjid!"*
 * **Tinjauan Fiqh Ta'zhimul Masajid & Sakralitas Tempat Suci**:  
   Membiarkan masjid menjadi arena bermain gaduh adalah **Pelecehan Terhadap Keagungan Rumah Allah (*Hormatullah*)**. Rasulullah SAW melarang berbicara keras atau membaca Al-Qur'an dengan suara berteriak jika mengganggu makmum lain yang sedang shalat (HR. Abu Dawud No. 1332). Di pesantren TUMBUH, masjid adalah **Zona Keheningan Sakral (*Sacred Silence Zone*)**: santri melangkah dengan tenang, berdzikir dengan suara khusyu', dan menjaga adab bicara berbisik santun.[^6]
 
-#### 🥊 Ronde 2: Kesucian Thaharah vs Pakaian Lusuh Berbau Apek
+#### 2. Diskursus Dialektika Kritis: Kesucian Thaharah vs Pakaian Lusuh Berbau Apek
 * **Pihak A (Sudut Pandang Asal Menutup Aurat Sudah Cukup)**:  
   *"Shalat memakai kaos kutang bekas olahraga atau sarung basah bau apek itu sah-sah saja, yang penting menutup pusar sampai lutut!"*
 * **Tinjauan Adab Khudzū Ziinatakum & Hak Sesama Jamaah**:  
   Menghadap raja manusia saja kita memakai pakaian terbaik dan wangi, bagaimana mungkin menghadap Sang Pencipta alam semesta dengan pakaian dekil berbau busuk? Malaikat dan sesama jamaah merasa terganggu oleh bau tidak sedap (*Innal Mala'ikata Tata'addza mimma Yata'addza minhu Banu Adam* - HR. Muslim No. 564). TUMBUH mewajibkan **Standar Libasush Shalah**: santri mengenakan pakaian bersih khusus shalat (gamis/koko putih rapi), bersiwak, dan memakai wewangian non-alkohol sebelum masuk masjid.[^7]
 
-#### 🥊 Ronde 3: Kedudukan Istiqamah Nawafil Sebagai Mahkota Keimanan
+#### 3. Diskursus Dialektika Kritis: Kedudukan Istiqamah Nawafil Sebagai Mahkota Keimanan
 * **Pihak A (Sudut Pandang Meremehkan Amalan Sunnah)**:  
   *"Shalat rawatib dan dhuha itu tidak wajib; kalau santri malas shalat sunnah biarkan saja tidak usah dinilai!"*
 * **Resolusi Nilai Istiqamah Nawafil**:  
@@ -119,7 +119,7 @@ $$\text{يُسْتَحَبُّ لِقَاصِدِ الْمَسْجِدِ أَن�
 
 ---
 
-### 3. Inkuiri 2: Teori Nilai Dasar Shalom Schwartz & Resolusi Disonansi Kognitif Festinger dalam Internalisasi Ibadah
+### 3. Teori Nilai Dasar Shalom Schwartz & Resolusi Disonansi Kognitif Festinger dalam Internalisasi Ibadah
 
 ```mermaid
 graph TD
@@ -148,19 +148,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Teori Nilai Schwartz: Menghubungkan Transendensi dengan Kebaikan Sosial
+#### 1. Diskursus Dialektika Kritis: Teori Nilai Schwartz: Menghubungkan Transendensi dengan Kebaikan Sosial
 * **Pihak A (Sudut Pandang Kesalehan Individual Tertutup)**:  
   *"Ibadah itu urusan vertikal dengan Allah; tidak ada kaitannya dengan urusan menyapu lantai kamar atau tersenyum pada teman!"*
 * **Tinjauan Teori Nilai Schwartz (Self-Transcendence & Benevolence)**:  
   Struktur nilai kemanusiaan universal membuktikan bahwa kesadaran transendensi kepada Tuhan (*Self-Transcendence*) secara alami melahirkan dorongan berbuat baik kepada sesama makhluk (*Benevolence*). Santri yang shalatnya benar akan menjadi orang yang paling peduli pada kebersihan fasilitas umum, paling ringan tangan membantu teman sekamar, dan paling ramah menyapa orang lain. Shalat yang memisahkan diri dari kebaikan sosial adalah kesalehan palsu (*Pseudo-Piety*).[^10]
 
-#### 🥊 Ronde 2: Mengatasi Disonansi "Rajin Shalat Namun Kamar Kumuh Berantakan"
+#### 2. Diskursus Dialektika Kritis: Mengatasi Disonansi "Rajin Shalat Namun Kamar Kumuh Berantakan"
 * **Pihak A (Sudut Pandang Permakluman Kamar Asrama Kumuh)**:  
   *"Santri itu sibuk mengaji dan shalat, wajar kalau kamarnya berantakan dan bajunya berserakan di mana-mana!"*
 * **Tinjauan Teori Disonansi Kognitif Festinger & Kaidah At-Thaharah**:  
   Membiarkan kamar kumuh di samping masjid yang megah memicu **Disonansi Moral Akut**: santri belajar bahwa "kesucian" hanyalah sandiwara di dalam masjid. Dalam filosofi TUMBUH: *At-Thaharatu Syathrul Iman* (Kesucian adalah setengah dari keimanan). Standar kesucian shalat di masjid ditranslasikan 100% ke dalam kamar asrama: kasur rapi berselimut lipat sudut presisi, pakaian digantung rapi di lemari, dan lantai kamar wangi bersih tanpa debu.[^11]
 
-#### 🥊 Ronde 3: Nilai Kesucian Lingkungan Bi'ah Shalihah (Green Eco-Pesantren)
+#### 3. Diskursus Dialektika Kritis: Nilai Kesucian Lingkungan Bi'ah Shalihah (Green Eco-Pesantren)
 * **Pihak A (Sudut Pandang Pengabaian Sampah Plastik)**:  
   *"Membuang sampah botol plastik sembarangan di halaman pondok itu dosa kecil yang tidak membatalkan shalat!"*
 * **Resolusi Fiqhul Bi'ah & Keimanan Ekologis**:  
@@ -168,7 +168,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Translasi Lima Nilai Inti ke dalam Tata Kelola Asrama 24 Jam
+### 4. Translasi Lima Nilai Inti ke dalam Tata Kelola Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -193,19 +193,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH mengunci 5 Nilai Inti Ibadah ke dalam tata tertib asrama, indikator BARS, dan sistem reward logbook PBIS.
 * **Konklusi (*an-Natijah*)**: Maka, nilai-nilai luhur ibadah di pesantren TUMBUH terwujud secara nyata dalam rutinitas kehidupan sehari-hari.[^13]
 
-#### 🥊 Ronde 1: Larangan Menggunakan Kaos Bergambar Mengganggu di Masjid
+#### 1. Diskursus Dialektika Kritis: Larangan Menggunakan Kaos Bergambar Mengganggu di Masjid
 * **Pihak A (Sudut Pandang Kebebasan Berbusana Santri)**:  
   *"Santri bebas memakai kaos apa saja saat shalat, termasuk kaos bergambar logo band metal atau tulisan iklan besar!"*
 * **Tinjauan Fiqh Menghilangkan Distraksi Visual Shalat**:  
   Rasulullah SAW pernah meminta Aisyah RA melepas tirai bergambar di rumahnya seraya bersabda: *"Singkirkanlah tirai ini dariku, karena sesungguhnya gambar-gambarnya senantiasa mengganggu shalatku"* (HR. Bukhari No. 374). Kaos bergambar mencolok di punggung santri merusak kekhusyukan puluhan makmum di belakangnya. TUMBUH menegakkan aturan: **Dilarang Shalat Menggunakan Pakaian Bergambar Makhluk Bernyawa atau Tulisan Distraktif**. Santri wajib memakai pakaian polos beradab.[^14]
 
-#### 🥊 Ronde 2: Perlindungan Ketenangan Waktu Dzikir Ba'da Shalat
+#### 2. Diskursus Dialektika Kritis: Perlindungan Ketenangan Waktu Dzikir Ba'da Shalat
 * **Pihak A (Sudut Pandang Pengumuman Pengeras Suara Saat Shalat Sunnah)**:  
   *"Segera setelah salam shalat fardhu, pengurus boleh langsung menyalakan mic pengeras suara untuk mengumumkan jadwal piket atau memanggil santri!"*
 * **Tinjauan Hak Ketenangan Ibadah Nawafil**:  
   Menyalakan mic pengeras suara secara memekakkan telinga di saat santri sedang khusyu' shalat sunnah ba'diyyah atau membaca wirid adalah **Pelanggaran Adab Masjid Berat**. Pengumuman administratif hanya boleh dilakukan setelah jeda 10 menit ba'da shalat (setelah shalat sunnah selesai) dengan volume suara yang santun dan teduh. Ketenangan munajat santri terlindungi sepenuhnya.[^15]
 
-#### 🥊 Ronde 3: Sistem Apresiasi Istiqamah Nawafil (Fast-Tap PBIS Recognition)
+#### 3. Diskursus Dialektika Kritis: Sistem Apresiasi Istiqamah Nawafil (Fast-Tap PBIS Recognition)
 * **Pihak A (Sudut Pandang Ibadah Tidak Boleh Diberi Poin Apresiasi)**:  
   *"Memberi poin apresiasi PBIS untuk santri yang shalat dhuha atau rawatib itu merusak keikhlasan ibadah!"*
 * **Resolusi Behavioral Reinforcement & Tarbiyatul Aulad**:  
@@ -213,9 +213,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Nilai Inti Ibadah
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Nilai Inti Ibadah
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Menegur Santri Senior yang Melanggar Adab Masjid)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Menegur Santri Senior yang Melanggar Adab Masjid)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana musyrif menyikapi ketua organisasi santri kelas 12 yang masuk masjid dengan tergesa-gesa, melangkahi pundak jamaah adik kelas yang sedang duduk membaca Al-Qur'an (*Takhaththil Riqab*), dan shalat Maghrib tanpa thuma'ninah di barisan terdepan?"**
 
 * **Pendekatan Lama (Sungkan & Pembiaran Terhadap Tokoh Santri)**:  
@@ -261,7 +261,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

@@ -21,13 +21,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA PENGUKURAN PERILAKU](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-pengukuran-perilaku)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Bias Subjektivitas Penilai & Nilai Rapor Kepribadian Palsu](#1-latar-belakang-masalah-bahaya-bias-subjektivitas-penilai--nilai-rapor-kepribadian-palsu)
-  - [2. Inkuiri 1: Eksegesis Turats Kaidah Bayyinah (HR. Al-Bukhari) & Keadilan Penilaian Faktual](#2-inkuiri-1-eksegesis-turats-kaidah-bayyinah-hr-al-bukhari--keadilan-penilaian-faktual)
-  - [3. Inkuiri 2: Teori Behaviorally Anchored Rating Scales (Smith & Kendall 1963) & Presisi Pengamatan](#3-inkuiri-2-teori-behaviorally-anchored-rating-scales-smith--kendall-1963--presisi-pengamatan)
-  - [4. Inkuiri 3: Mitigasi Empat Bias Psikometrik Penilai (Halo, Central Tendency, Leniency, & Contrast Effect)](#4-inkuiri-3-mitigasi-empat-bias-psikometrik-penilai-halo-central-tendency-leniency--contrast-effect)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kaidah Bayyinah (HR. Al-Bukhari) & Keadilan Penilaian Faktual](#2eksegesis-turats-kaidah-bayyinah-hr-al-bukhari-keadilan-penilaian-faktual)
+  - [3. Teori Behaviorally Anchored Rating Scales (Smith & Kendall 1963) & Presisi Pengamatan](#3teori-behaviorally-anchored-rating-scales-smith-kendall-1963-presisi-pengamatan)
+  - [4. Mitigasi Empat Bias Psikometrik Penilai (Halo, Central Tendency, Leniency, & Contrast Effect)](#4mitigasi-empat-bias-psikometrik-penilai-halo-central-tendency-leniency-contrast-effect)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Arsitektur Rubrik BARS Karakter Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-arsitektur-rubrik-bars-karakter-terpadu-pesantren-tumbuh)
   - [2. Matriks Indikator & Deskriptor Perilaku Teramati (Observable Anchors) 10 Muwashafat](#2-matriks-indikator--deskriptor-perilaku-teramati-observable-anchors-10-muwashafat)
   - [3. Protokol Operasional Pengamatan Cepat Musyrif (<30 Detik Fast-Logging)](#3-protokol-operasional-pengamatan-cepat-musyrif-30-detik-fast-logging)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kaidah Bayyinah (HR. Al-Bukhari) & Keadilan Penilaian Faktual
+### 2. Eksegesis Turats Kaidah Bayyinah (HR. Al-Bukhari) & Keadilan Penilaian Faktual
 
 ```mermaid
 graph TD
@@ -81,7 +81,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Behaviorally Anchored Rating Scales (Smith & Kendall 1963) & Presisi Pengamatan
+### 3. Teori Behaviorally Anchored Rating Scales (Smith & Kendall 1963) & Presisi Pengamatan
 
 Patricia Cain Smith & Lorne Kendall (1963) menciptakan BARS untuk mengatasi kelemahan skala Likert tradisional:
 * Dalam BARS, setiap titik skala (1, 2, 3, 4) memiliki **Deskripsi Perilaku Kritis (*Critical Incident Behaviors*)** yang eksplisit.
@@ -89,7 +89,7 @@ Patricia Cain Smith & Lorne Kendall (1963) menciptakan BARS untuk mengatasi kele
 
 ---
 
-### 4. Inkuiri 3: Mitigasi Empat Bias Psikometrik Penilai (Halo, Central Tendency, Leniency, & Contrast Effect)
+### 4. Mitigasi Empat Bias Psikometrik Penilai (Halo, Central Tendency, Leniency, & Contrast Effect)
 
 ```mermaid
 flowchart TD
@@ -108,21 +108,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Mengisi Rubrik BARS Membuat Musyrif Menjadi Robot Administrasi"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Mengisi Rubrik BARS Membuat Musyrif Menjadi Robot Administrasi"
 * **Pihak A (Sudut Pandang Beban Kerja Musyrif)**:  
   *"Musyrif sudah lelah mengawasi santri 24 jam; jika disuruh mengisi rubrik panjang, musyrif akan burnout!"*
 * **Tinjauan Desain Ergonomi Rendah Friksi (<30 Detik)**:  
   Rubrik BARS TUMBUH dirancang dalam format **Aplikasi Digital Mobile Fast-Tap**: Musyrif tidak menulis esai narasi panjang, melainkan cukup menekan ikon perilaku spesifik dalam hitungan detik saat berkeliling asrama. Sistem otomatis mengagregasi data ke logbook santri.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Deskriptor Fisik Mampu Menilai Karakter Batiniah?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Deskriptor Fisik Mampu Menilai Karakter Batiniah?
 * **Pihak A (Sudut Pandang Esoterisme Ekstrem)**:  
   *"Karakter seperti khusyuk dan ikhlas tidak bisa dibuatkan deskriptor perilaku teramati!"*
 * **Tinjauan Indikator Khusyuk dalam Fiqh & Psikologi**:  
   Ulama fiqh sendiri merumuskan indikator khusyuk: *tidak menoleh saat shalat, tuma'ninah dalam ruku'/sujud minimal seukuran bacaan tasbih, dan tidak memainkan pakaian/jari*. Semua ini adalah deskriptor teramati. BARS tidak mengklaim membelah dada, melainkan mengukur disiplin fisik yang menjadi bejana bagi kekhusyukan batin.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Umpan Balik BARS Wajib Transparan bagi Santri?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Umpan Balik BARS Wajib Transparan bagi Santri?
 * **Pihak A (Sudut Pandang Kerahasiaan Otoriter)**:  
   *"Catatan nilai adab harus dirahasiakan oleh asatidz agar santri tidak banyak protes!"*
 * **Resolusi Asesmen Formatif Edukatif**:  
@@ -134,7 +134,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

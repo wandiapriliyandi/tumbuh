@@ -105,7 +105,7 @@ $$\text{إِنَّ مُعَالَجَةَ النَّفْسِ تَكُونُ بِ
 ### 5. Kasuistika Lapangan: Ledakan Impuls Remaja & Resolusi Restoratif Terpadu
 
 * **Studi Kasus: Santri Remaja Membanting Lemari karena Kalah Bermain Sepak Bola**  
-  * **Dilema**: Santri kelas 8 mengamuk dan menendang pintu lemari hingga penyok saat timnya kalah dalam turnamen antarkelas.
+  * **Dilema**: Santri fase perkembangan remaja awal mengamuk dan menendang pintu lemari hingga penyok saat timnya kalah dalam turnamen olahraga.
   * **Pola Lama**: Santri diseret ke lapangan, dijemur, dan dicap "anak temperamen perusak".
   * **Resolusi Restoratif TUMBUH**: Musyrif membawa santri ke ruang tenang, memberikan air minum, dan membiarkan denyut nadinya stabil. Setelah tenang, konselor mengaktivasi *Nafs Lawwamah*-nya dengan pertanyaan reflektif: *"Apa yang sebenarnya terjadi di hatimu? Apakah merusak pintu membuat timmu menang?"*. Santri menangis menyadari kekhilafannya, meminta maaf kepada teman sekamarnya, dan sukarela memperbaiki engsel lemari yang rusak. Santri diajarkan teknik zikir istirja' saat emosi memuncak.[^7]
 
@@ -148,15 +148,15 @@ Transformasi kedewasaan jiwa santri berlangsung melalui **Empat Tingkatan Kesada
 flowchart TD
     subgraph TingkatanKesadaranDinamikaNafs["EMPAT TINGKATAN KESADARAN DINAMIKA JIWA (MARATIB AL-IDRAK)"]
         
-        J1_Level["TINGKAT 1: KESADARAN NAFS AMMARAH (Al-Idrak al-Ammariy)<br/>• Cenderung bersikap reaktif & impulsif; sulit menahan godaan jangka pendek.<br/>• Membutuhkan batasan lingkungan (safeguards) & teladan pengasuh yang kokoh."]
+        N1_Level["TINGKAT 1: KESADARAN NAFS AMMARAH (Al-Idrak al-Ammariy)<br/>• Cenderung bersikap reaktif & impulsif; sulit menahan godaan jangka pendek.<br/>• Membutuhkan batasan lingkungan (safeguards) & teladan pengasuh yang kokoh."]
         
-        J2_Level["TINGKAT 2: KESADARAN NAFS LAWWAMAH AWAL (Al-Idrak al-Lawwamiy al-Awwal)<br/>• Masih sering tergelincir, namun segera merasa menyesal & mengakui kesalahan.<br/>• Mulai berlatih teknik menenangkan diri (de-eskalasi) & meminta maaf secara jujur."]
+        N2_Level["TINGKAT 2: KESADARAN NAFS LAWWAMAH AWAL (Al-Idrak al-Lawwamiy al-Awwal)<br/>• Masih sering tergelincir, namun segera merasa menyesal & mengakui kesalahan.<br/>• Mulai berlatih teknik menenangkan diri (de-eskalasi) & meminta maaf secara jujur."]
         
-        J3_Level["TINGKAT 3: KESADARAN NAFS LAWWAMAH MATANG (Al-Idrak al-Lawwamiy al-Baligh)<br/>• Mampu mengerem hawa nafsu sebelum terlanjur berbuat maksiat (prevention).<br/>• Mandiri dalam bermuhasabah; konsisten memperbaiki adab kamar & ibadah harian."]
+        N3_Level["TINGKAT 3: KESADARAN NAFS LAWWAMAH MATANG (Al-Idrak al-Lawwamiy al-Baligh)<br/>• Mampu mengerem hawa nafsu sebelum terlanjur berbuat maksiat (prevention).<br/>• Mandiri dalam bermuhasabah; konsisten memperbaiki adab kamar & ibadah harian."]
         
-        J4_Level["TINGKAT 4: KESADARAN NAFS MUTHMAINNAH (Al-Idrak al-Muthmainn)<br/>• Jiwa stabil dalam ketakwaan; tidak terombang-ambing oleh pujian atau celaan.<br/>• Memancarkan ketenteraman bagi lingkungan sekitarnya; menjadi figur Live Qudwah."]
+        N4_Level["TINGKAT 4: KESADARAN NAFS MUTHMAINNAH (Al-Idrak al-Muthmainn)<br/>• Jiwa stabil dalam ketakwaan; tidak terombang-ambing oleh pujian atau celaan.<br/>• Memancarkan ketenteraman bagi lingkungan sekitarnya; menjadi figur Live Qudwah."]
         
-        J1_Level ==> J2_Level ==> J3_Level ==> J4_Level
+        N1_Level ==> N2_Level ==> N3_Level ==> N4_Level
     end
 ```
 

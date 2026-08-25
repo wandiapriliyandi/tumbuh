@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA REGULASI DIRI & WAKTU](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-regulasi-diri--waktu)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Dilema "Jadwal Asrama Rapi Tapi Santri Selalu Terlambat & Menunda Tugas"](#1-latar-belakang-masalah-dilema-jadwal-asrama-rapi-tapi-santri-selalu-terlambat--menunda-tugas)
-  - [2. Inkuiri 1: Eksegesis Turats Waktu Adalah Kehidupan (Hasan Al-Bashri & Al-Qasim) & Riyadhah Nafs](#2-inkuiri-1-eksegesis-turats-waktu-adalah-kehidupan-hasan-al-bashri--al-qasim--riyadhah-nafs)
-  - [3. Inkuiri 2: Teori Ego Depletion Roy Baumeister & Peran Prefrontal Cortex dalam Manajemen Waktu](#3-inkuiri-2-teori-ego-depletion-roy-baumeister--peran-prefrontal-cortex-dalam-manajemen-waktu)
-  - [4. Inkuiri 3: Teori Implementation Intentions Peter Gollwitzer & Otomasi Tindakan Positif](#4-inkuiri-3-teori-implementation-intentions-peter-gollwitzer--otomasi-tindakan-positif)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Waktu Adalah Kehidupan (Hasan Al-Bashri & Al-Qasim) & Riyadhah Nafs](#2eksegesis-turats-waktu-adalah-kehidupan-hasan-al-bashri-al-qasim-riyadhah-nafs)
+  - [3. Teori Ego Depletion Roy Baumeister & Peran Prefrontal Cortex dalam Manajemen Waktu](#3teori-ego-depletion-roy-baumeister-peran-prefrontal-cortex-dalam-manajemen-waktu)
+  - [4. Teori Implementation Intentions Peter Gollwitzer & Otomasi Tindakan Positif](#4teori-implementation-intentions-peter-gollwitzer-otomasi-tindakan-positif)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Model Sinergi Resonansi Mujahadah dan Disiplin Waktu TUMBUH](#1-formulasi-konseptual-model-sinergi-resonansi-mujahadah-dan-disiplin-waktu-tumbuh)
   - [2. Matriks Korelasi Silang & Efek Saling Menguatkan Antara Mujahadah dan Haritsun 'Ala Waqtih](#2-matriks-korelasi-silang--efek-saling-menguatkan-antara-mujahadah-dan-haritsun-ala-waqtih)
   - [3. Protokol Anti-Prokrastinasi Asrama: Teknik Pomodoro Syar'i & Manajemen Transisi Jadwal](#3-protokol-anti-prokrastinasi-asrama-teknik-pomodoro-syari--manajemen-transisi-jadwal)
@@ -69,7 +69,7 @@ flowchart LR
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Waktu Adalah Kehidupan (Hasan Al-Bashri & Al-Qasim) & Riyadhah Nafs
+### 2. Eksegesis Turats Waktu Adalah Kehidupan (Hasan Al-Bashri & Al-Qasim) & Riyadhah Nafs
 
 ```mermaid
 graph TD
@@ -87,7 +87,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Ego Depletion Roy Baumeister & Peran Prefrontal Cortex dalam Manajemen Waktu
+### 3. Teori Ego Depletion Roy Baumeister & Peran Prefrontal Cortex dalam Manajemen Waktu
 
 Profesor psikologi Florida State University **Roy Baumeister** merumuskan *Ego Depletion Model*:
 * Energi kehendak (*Willpower / Self-Control*) bekerja seperti otot fisik: ia memiliki kapasitas terbatas dan akan terkuras jika terus-menerus digunakan untuk mengambil keputusan tanpa jeda.
@@ -96,7 +96,7 @@ Profesor psikologi Florida State University **Roy Baumeister** merumuskan *Ego D
 
 ---
 
-### 4. Inkuiri 3: Teori *Implementation Intentions* Peter Gollwitzer & Otomasi Tindakan Positif
+### 4. Teori *Implementation Intentions* Peter Gollwitzer & Otomasi Tindakan Positif
 
 Peter Gollwitzer merumuskan strategi *Implementation Intentions* berbasis formula **If-Then Planning (Jika-Maka)**:
 * Daripada sekadar memiliki niat umum: *"Saya ingin bangun subuh tepat waktu"*, santri dilatih merumuskan rencana operasional: *"**Jika** alarm kamar berbunyi pukul 03.45 WIB, **maka** saya langsung duduk tegak, membaca doa bangun tidur, dan melangkah ke tempat wudhu tanpa menyentuh kasur lagi."*
@@ -104,21 +104,21 @@ Peter Gollwitzer merumuskan strategi *Implementation Intentions* berbasis formul
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Disiplin Waktu di Pesantren Cukup Mengandalkan Sirine & Rotan Keamanan"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Disiplin Waktu di Pesantren Cukup Mengandalkan Sirine & Rotan Keamanan"
 * **Pihak A (Sudut Pandang Teror Disiplin)**:  
   *"Sirine keras dan ancaman rotan pengurus sudah terbukti efektif membuat santri lari ke masjid!"*
 * **Tinjauan Kepatuhan Semu & Perilaku Pasca-Lulus**:  
   Sirine dan rotan hanya menciptakan **Kepatuhan Berbasis Teror Luar (*Fear-Based Compliance*)**. Saat santri pulang liburan ke rumah atau lulus dari pondok, ia kembali tidur seharian dan meninggalkan shalat subuh karena tidak pernah memiliki regulasi diri (*Mujahadah*) dari dalam kalbunya.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Istirahat yang Fleksibel Tidak Lebih Baik Bagi Santri yang Stres?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Istirahat yang Fleksibel Tidak Lebih Baik Bagi Santri yang Stres?
 * **Pihak A (Sudut Pandang Permisivisme Relaksasi)**:  
   *"Santri di pondok belajar seharian; biarkan mereka tidur bebas tanpa jadwal agar tidak depresi!"*
 * **Tinjauan Neurosains Sirkadian & Higienitas Tidur**:  
   Jam tidur yang tidak teratur (*Irregular Sleep Schedule*) justru merusak ritme sirkadian tubuh, menurunkan sekresi hormon pertumbuhan, dan meningkatkan hormon kortisol pemicu stres/depresi. Standar TUMBUH menjamin **Waktu Tidur Berkualitas 7 Jam Penuh (Pukul 22.00–03.30 WIB + Qailulah 30 Menit Siang)**, yang menyehatkan fisik dan mental.[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Manajemen Waktu Wajib Ditautkan dengan Waktu Shalat?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Manajemen Waktu Wajib Ditautkan dengan Waktu Shalat?
 * **Pihak A (Sudut Pandang Manajemen Waktu Sekuler)**:  
   *"Manajemen waktu harus mengikuti standar jam kantor 08.00–17.00, tidak perlu disangkutpautkan dengan waktu shalat!"*
 * **Resolusi Manajemen Waktu Profetik**:  
@@ -130,7 +130,7 @@ Peter Gollwitzer merumuskan strategi *Implementation Intentions* berbasis formul
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

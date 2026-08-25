@@ -14,20 +14,20 @@
 >   Banyak pesantren memperlakukan santri baru usia 12 tahun (fase transisi pubertas) dengan beban dan ekspektasi yang sama persis dengan santri usia 18 tahun (fase kematangan kognitif). Akibatnya, santri junior mengalami trauma psikologis, homesickness akut yang merusak semangat ibadah, dan pemberontakan spiritual saat memasuki usia madya.
 > * **Inovasi Tangga Kemandirian Empat Tingkat TUMBUH (J1–J4):**  
 >   TUMBUH memetakan kematangan Shahihul Ibadah melintasi 4 tangga perkembangan: **1. Jenjang J1 (Adaptasi Dasar & Scaffolding Fiqh Thaharah / Usia 12–13 Thn); 2. Jenjang J2 (Habituasi Otonom & Shalat Rawatib / Usia 13–15 Thn); 3. Jenjang J3 (Internalisasi Ruhaniyah & Qiyamul Lail / Usia 15–17 Thn); 4. Jenjang J4 (Kepemimpinan Qudwah & Imāmah / Usia 17–18 Thn)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah hadits nabawi pentahapan usia shalat (*Murū Awlādakum bis-Shalah li Sab'i Sinīn* HR. Abu Dawud), menyintesiskan teori moral Kohlberg dan *Self-Determination Theory* Deci & Ryan (2000), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan protokol gerbang transisi kenaikan tangga (*Level-Up Gateways*).
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TAHAPAN PERKEMBANGAN](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-tahapan-perkembangan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Kegagalan Model Pembinaan "Pukul Rata" Tanpa Memperhatikan Usia](#1-latar-belakang-masalah-kegagalan-model-pembinaan-pukul-rata-tanpa-memperhatikan-usia)
-  - [2. Inkuiri 1: Eksegesis Turats Marahil at-Tarbiyah wa at-Taklif (Hadits Tahapan Usia Shalat & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-marahil-at-tarbiyah-wa-at-taklif-hadits-tahapan-usia-shalat--al-ghazali)
-  - [3. Inkuiri 2: Sintesis Teori Moral Kohlberg, Self-Determination Theory, & Neurosains Remaja](#3-inkuiri-2-sintesis-teori-moral-kohlberg-self-determination-theory--neurosains-remaja)
-  - [4. Inkuiri 3: Progresi Empat Tangga Kemandirian Ibadah (J1 s/d J4) dalam Kalender 24 Jam](#4-inkuiri-3-progresi-empat-tangga-kemandirian-ibadah-j1-sd-j4-dalam-kalender-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tahapan Perkembangan](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-tahapan-perkembangan)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Marahil at-Tarbiyah wa at-Taklif (Hadits Tahapan Usia Shalat & Al-Ghazali)](#2eksegesis-turats-marahil-at-tarbiyah-wa-at-taklif-hadits-tahapan-usia-shalat-al-ghazali)
+  - [3. Sintesis Teori Moral Kohlberg, Self-Determination Theory, & Neurosains Remaja](#3sintesis-teori-moral-kohlberg-self-determination-theory-neurosains-remaja)
+  - [4. Progresi Empat Tangga Kemandirian Ibadah (J1 s/d J4) dalam Kalender 24 Jam](#4progresi-empat-tangga-kemandirian-ibadah-j1-sd-j4-dalam-kalender-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tahapan Perkembangan](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-tahapan-perkembangan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Komprehensif Tangga Perkembangan Kemandirian Ibadah J1–J4](#1-arsitektur-komprehensif-tangga-perkembangan-kemandirian-ibadah-j1j4)
   - [2. Matriks Indikator Perkembangan Ibadah Santri Berdasarkan Usia & Tangga Kemandirian](#2-matriks-indikator-perkembangan-ibadah-santri-berdasarkan-usia--tangga-kemandirian)
   - [3. Protokol Gerbang Transisi Antar-Jenjang (Level-Up Gateways & Inisiasi Tangga)](#3-protokol-gerbang-transisi-antar-jenjang-level-up-gateways--inisiasi-tangga)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Marahil at-Tarbiyah wa at-Taklif (Hadits Tahapan Usia Shalat & Al-Ghazali)
+### 2. Eksegesis Turats Marahil at-Tarbiyah wa at-Taklif (Hadits Tahapan Usia Shalat & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{اعْلَمْ أَنَّ التَّدْرِيجَ فِي رِيَاضَ
 
 *"**Ketahuilah bahwa pentahapan (*At-Tadrij*) dalam pembinaan anak-anak adalah syarat mutlak yang tidak boleh diabaikan**; karena sesungguhnya anak pada awal pertumbuhannya terbiasa dengan sesuatu melalui **pembiasaan fisik (*At-Ta'wid*) dan keteladanan (*Al-Musyahadah*)**, kemudian meningkat menuju **pemahaman nalar (*Al-Fahm*)**, lalu naik menuju **kenikmatan batin (*Adz-Dzauq*)**. Maka barangsiapa yang membebani anak kecil dengan tingkatan orang dewasa sekaligus secara mendadak, niscaya ia akan mematahkan karakternya, merusak fitrahnya, dan mewariskan kebencian terhadap ibadah."*[^4]
 
-#### 🥊 Ronde 1: Fase Mumayyiz Menuju Fase Baligh Taklif (Jenjang J1 / Kelas 7)
+#### 1. Diskursus Dialektika Kritis: Fase Mumayyiz Menuju Fase Baligh Taklif (Jenjang J1 / Kelas 7)
 * **Pihak A (Sudut Pandang Santri Baru Langsung Dihukumi Dosa Besar)**:  
   *"Santri kelas 7 yang masbuq shalat Maghrib harus diancam masuk neraka dan disuruh istighfar 1000 kali!"*
 * **Tinjauan Psikologi Transisi Pubertas & Scaffolding Kasih Sayang**:  
   Santri usia 12–13 tahun baru memasuki masa transisi dari *Tamyiz* menuju *Baligh*. Otak dan emosinya sedang beradaptasi dengan lingkungan baru yang jauh dari orang tua. Pendekatan Jenjang J1 adalah **Scaffolding Pendampingan Penuh Kasih (*Loving Scaffolding*)**: musyrif menjadi figur pengganti orang tua (*In Loco Parentis*), membangunkan dengan senyuman, membetulkan wudhu dengan sabar, dan memberikan pujian tulus saat santri berhasil shalat di saf awal. Fondasi cinta ditanamkan lebih dahulu.[^5]
 
-#### 🥊 Ronde 2: Pendekatan Cinta Sebelum Penegakan Disiplin Ketat
+#### 2. Diskursus Dialektika Kritis: Pendekatan Cinta Sebelum Penegakan Disiplin Ketat
 * **Pihak A (Sudut Pandang Disiplin Besi Tanpa Empati)**:  
   *"Pesantren itu kawah candradimuka; tidak boleh ada empati atau kasih sayang berlebihan dalam urusan shalat!"*
 * **Tinjauan Tarbiyah Nabawiyyah**:  
   Rasulullah SAW mendidik Anas bin Malik RA selama 10 tahun tanpa pernah sekalipun membentak atau berkata kasar (HR. Bukhari No. 6038). Disiplin tanpa empati melahirkan **Kepribadian Munafik (*Hypocritical Compliance*)**: santri rajin shalat di depan ustadz namun meninggalkannya di belakang. TUMBUH menegakkan prinsip **Firm & Kind (Tegas Menegakkan Waktu, Lembut Menyentuh Qalbu)**.[^6]
 
-#### 🥊 Ronde 3: Larangan Mutlak Kekerasan Fisik dalam Pembiasaan Ibadah
+#### 3. Diskursus Dialektika Kritis: Larangan Mutlak Kekerasan Fisik dalam Pembiasaan Ibadah
 * **Pihak A (Sudut Pandang Salah Menafsirkan 'Pukullah Mereka')**:  
   *"Hadits Nabi jelas menyuruh memukul anak usia 10 tahun, jadi memukul betis santri dengan selang air itu sunnah!"*
 * **Resolusi Fiqh Dhawabith Adh-Dharb (Imam An-Nawawi & Ibnu Hajar)**:  
@@ -113,7 +113,7 @@ $$\text{اعْلَمْ أَنَّ التَّدْرِيجَ فِي رِيَاضَ
 
 ---
 
-### 3. Inkuiri 2: Sintesis Teori Moral Kohlberg, Self-Determination Theory, & Neurosains Remaja
+### 3. Sintesis Teori Moral Kohlberg, Self-Determination Theory, & Neurosains Remaja
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Dari Kepatuhan Ekstrinsik Menuju Regulasi Otonom Intrinsik
+#### 1. Diskursus Dialektika Kritis: Dari Kepatuhan Ekstrinsik Menuju Regulasi Otonom Intrinsik
 * **Pihak A (Sudut Pandang Santri Harus Langsung Ikhlas Sejak Hari Pertama)**:  
   *"Santri baru kelas 7 harus langsung ikhlas lillahi ta'ala 100%; kalau masih shalat karena disuruh musyrif, shalatnya tidak berpahala!"*
 * **Tinjauan Spektrum Self-Determination Theory (Deci & Ryan)**:  
   Menuntut keikhlasan tingkat tinggi secara instan pada anak usia 12 tahun adalah kenaifan psikologis. Menurut teori Deci & Ryan, motivasi manusia bergeser secara alami: berawal dari **Regulasi Eksternal (J1: Butuh Diingatkan)**, berlanjut ke **Regulasi Teridentifikasi (J2: Sadar Manfaat)**, naik ke **Regulasi Terintegrasi (J3: Menjadi Kebutuhan Diri)**, hingga mencapai **Motivasi Otonom Ikhlas Paripurna (J4: Beribadah karena Cinta kepada Allah)**. Kurikulum TUMBUH mengawal transisi ini secara bertahap dan terukur.[^9]
 
-#### 🥊 Ronde 2: Kematangan Prefrontal Cortex & Kebutuhan Penataan Ritme Tidur
+#### 2. Diskursus Dialektika Kritis: Kematangan Prefrontal Cortex & Kebutuhan Penataan Ritme Tidur
 * **Pihak A (Sudut Pandang Menganggap Remaja yang Mengantuk Sebagai Anak Nakal)**:  
   *"Santri yang tertidur saat dzikir Shubuh itu anak malas dan tidak punya niat mengaji!"*
 * **Tinjauan Neurosains Remaja (Sarah-Jayne Blakemore)**:  
   Riset neurosains membuktikan bahwa remaja mengalami pergeseran ritme sirkadian biologis (*Circadian Phase Delay*): hormon melatonin baru dilepaskan 2 jam lebih lambat dibanding orang dewasa. Di samping itu, korteks prefrontal yang mengendalikan fungsi eksekutif (*Inhibitory Control*) masih dalam proses penyempurnaan mielinisasi. Menghadapi kondisi ini, pesantren harus menata **Jadwal Tidur Malam yang Cukup ($\ge 7$ Jam)** dan memberikan jeda gerak fisik ringan sebelum shalat fardhu. Pendekatan neurobiologis menyelamatkan santri dari kelelahan otak kronis.[^10]
 
-#### 🥊 Ronde 3: Perkembangan Moral Pascakonvensional: Ibadah Tanpa Pengawasan
+#### 3. Diskursus Dialektika Kritis: Perkembangan Moral Pascakonvensional: Ibadah Tanpa Pengawasan
 * **Pihak A (Sudut Pandang Pengawasan Kamera CCTV dan Absen Fisik Selamanya)**:  
   *"Sampai kelas 12 santri harus tetap diabsen satu per satu di pintu masjid oleh musyrif!"*
 * **Resolusi Tahap Moral Kohlberg (Post-Conventional Morality)**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Progresi Empat Tangga Kemandirian Ibadah (J1 s/d J4) dalam Kalender 24 Jam
+### 4. Progresi Empat Tangga Kemandirian Ibadah (J1 s/d J4) dalam Kalender 24 Jam
 
 ```mermaid
 flowchart TD
@@ -187,19 +187,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH menetapkan instrumen uji kelayakan kenaikan tangga (*Level-Up Gateways*) dari Jenjang J1 menuju J2, J3, dan J4.
 * **Konklusi (*an-Natijah*)**: Maka, progresi kemandirian ibadah santri di pesantren TUMBUH berlangsung secara terstruktur, teruji, dan berkesinambungan.[^12]
 
-#### 🥊 Ronde 1: Scaffolding Disiplin di Jenjang J1: Zero Masbuq
+#### 1. Diskursus Dialektika Kritis: Scaffolding Disiplin di Jenjang J1: Zero Masbuq
 * **Pihak A (Sudut Pandang Membiarkan Santri Baru Masbuq Berkali-kali)**:  
   *"Santri baru kelas 7 biarkan saja masbuq dulu, nanti kalau sudah kelas 9 pasti rajin sendiri!"*
 * **Tinjauan Pembentukan Pola Kebiasaan Awal (The Imprinting Phase)**:  
   Membiarkan santri baru masbuq di semester pertama menanamkan pola kebiasaan buruk (*Bad Imprinting*) yang akan bertahan hingga santri dewasa. Di Jenjang J1, santri mendapatkan **Scaffolding Intensif**: musyrif memastikan santri berangkat ke masjid bersama-sama 10 menit sebelum iqamah. Pola tepat waktu tertanam kuat di memori prosedural santri.[^13]
 
-#### 🥊 Ronde 2: Otonomi Nawafil & Tilawah di Jenjang J2–J3: Mengembangkan Daya Tahan
+#### 2. Diskursus Dialektika Kritis: Otonomi Nawafil & Tilawah di Jenjang J2–J3: Mengembangkan Daya Tahan
 * **Pihak A (Sudut Pandang Santri Cukup Shalat Wajib Saja)**:  
   *"Santri SMP kelas 8 tidak perlu dibiasakan tilawah 1 juz atau shalat rawatib, nanti mereka stres!"*
 * **Tinjauan Penguatan Kapasitas Ruhaniyah Usia Emas**:  
   Usia 13–16 tahun adalah masa emas untuk membangun **Daya Tahan Spiritual (*Spiritual Resilience*)**. Melalui metode pembagian waktu yang proporsional (*Time-Blocking*), santri Jenjang J2–J3 membuktikan mampu menuntaskan tilawah 1 juz per hari dan istiqamah shalat rawatib tanpa stres, bahkan merasa bahagia karena jiwanya terlindungi dari pengaruh negatif masa pubertas.[^14]
 
-#### 🥊 Ronde 3: Kepemimpinan Spiritual di Jenjang J4: Menjadi Imam dan Khatib
+#### 3. Diskursus Dialektika Kritis: Kepemimpinan Spiritual di Jenjang J4: Menjadi Imam dan Khatib
 * **Pihak A (Sudut Pandang Meragukan Kesiapan Santri Menjadi Imam)**:  
   *"Santri SMA belum pantas menjadi imam shalat jamaah di masjid pondok; imam masjid harus orang dewasa!"*
 * **Resolusi Tradisi Salaf dalam Kaderisasi Imam Muda**:  
@@ -207,9 +207,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tahapan Perkembangan
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Tahapan Perkembangan
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Mengalami Futur Spiritual di Jenjang J3)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Mengalami Futur Spiritual di Jenjang J3)
 Pertarungan filosofis-pedagogis terdalam bermuara pada kasus: **"Bagaimana musyrif menangani santri kelas 10 (Jenjang J3) yang sebelumnya sangat rajin shalat di Jenjang J1–J2, namun tiba-tiba mengalami kejenuhan spiritual parah (Futur): sering terlambat shalat berjamaah, malas tilawah, dan menunjukkan sikap sinis terhadap kegiatan ibadah asrama?"**
 
 * **Pendekatan Lama (Vonis Kemunafikan & Hukuman Disiplin Berat)**:  
@@ -258,7 +258,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

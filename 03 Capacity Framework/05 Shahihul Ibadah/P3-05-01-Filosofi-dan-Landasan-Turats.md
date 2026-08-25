@@ -14,20 +14,20 @@
 >   Praktik ibadah santri di banyak asrama sering terperangkap dalam dua kutub ekstrem: **(1) Formalisme Gerakan Otomatis**: Santri shalat tergesa-gesa tanpa thuma'ninah dan tanpa memahami makna bacaan semata-mata demi menggugurkan kewajiban; atau **(2) Patologi Was-Was Obsesif (*Obsessive-Compulsive Ritualism*)**: Santri mengulang-ulang wudhu dan niat shalat belasan kali hingga membuang puluhan liter air dan tertinggal saf jamaah.
 > * **Inovasi Paradigma Shahihul Ibadah TUMBUH:**  
 >   TUMBUH merumuskan karakter **Shahihul Ibadah (Ibadah yang Sah, Benar Sesuai Sunnah, & Hidup Kalbunya)** melalui integrasi utuh dua pilar: **(1) Pilar Fiqh Zhahir (Ketepatan Syarat, Rukun, & Sunnah Haiah/Ab'adh sesuai Kaidah Turats)** dan **(2) Pilar Fiqh Bathin (Kehadiran Hati, Thuma'ninah, Fahmul Ma'ani, & Raja'-Khauf)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah nash Al-Qur'an (QS. Al-Kahf: 110 & Al-Baqarah: 43), hadits agung *Shallu kama ra'aitumuni ushalli* (HR. Bukhari No. 631), karya klasik *Ihya' 'Ulumiddin* dan *Matan al-Ghayah wat-Taqrib*, menyintesiskan sains kognisi somatik (*Embodied Cognition*), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan standar protokol ibadah 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA FILOSOFI IBADAH](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-filosofi-ibadah)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Tragedi Ibadah Otomatisasi Mekanis vs Patologi Was-Was Santri](#1-latar-belakang-masalah-tragedi-ibadah-otomatisasi-mekanis-vs-patologi-was-was-santri)
-  - [2. Inkuiri 1: Eksegesis Turats Hakikat Dua Syarat Qabul Ibadah (Ikhlas & Ittiba' Sesuai Sunnah)](#2-inkuiri-1-eksegesis-turats-hakikat-dua-syarat-qabul-ibadah-ikhlas--ittiba-sesuai-sunnah)
-  - [3. Inkuiri 2: Teori Embodied Cognition & Psikofisiologi Kekhusyukan dalam Gerakan Ibadah Mahdhah](#3-inkuiri-2-teori-embodied-cognition--psikofisiologi-kekhusyukan-dalam-gerakan-ibadah-mahdhah)
-  - [4. Inkuiri 3: Integrasi Fiqh Ibadah Praktis dalam Dinamika Ekosistem Asrama 24 Jam](#4-inkuiri-3-integrasi-fiqh-ibadah-praktis-dalam-dinamika-ekosistem-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Shahihul Ibadah](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-shahihul-ibadah)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Hakikat Dua Syarat Qabul Ibadah (Ikhlas & Ittiba' Sesuai Sunnah)](#2eksegesis-turats-hakikat-dua-syarat-qabul-ibadah-ikhlas-ittiba-sesuai-sunnah)
+  - [3. Teori Embodied Cognition & Psikofisiologi Kekhusyukan dalam Gerakan Ibadah Mahdhah](#3teori-embodied-cognition-psikofisiologi-kekhusyukan-dalam-gerakan-ibadah-mahdhah)
+  - [4. Integrasi Fiqh Ibadah Praktis dalam Dinamika Ekosistem Asrama 24 Jam](#4integrasi-fiqh-ibadah-praktis-dalam-dinamika-ekosistem-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Shahihul Ibadah](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-shahihul-ibadah)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Dua Pilar Shahihul Ibadah: Sinergi Fiqh Zhahir & Fiqh Bathin](#1-arsitektur-dua-pilar-shahihul-ibadah-sinergi-fiqh-zhahir--fiqh-bathin)
   - [2. Matriks Taksonomi Capaian Fiqh Ibadah Berjenjang J1–J4 (Ghayah wat-Taqrib s/d Bidayatul Mujtahid)](#2-matriks-taksonomi-capaian-fiqh-ibadah-berjenjang-j1j4-ghayah-wat-taqrib-sd-bidayatul-mujtahid)
   - [3. Standar Protokol Shalat Berjamaah 5 Waktu & Pembiasaan Thaharah Asrama](#3-standar-protokol-shalat-berjamaah-5-waktu--pembiasaan-thaharah-asrama)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Hakikat Dua Syarat Qabul Ibadah (Ikhlas & Ittiba' Sesuai Sunnah)
+### 2. Eksegesis Turats Hakikat Dua Syarat Qabul Ibadah (Ikhlas & Ittiba' Sesuai Sunnah)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ رَضِيَ
 
 *"Dari Malik bin Al-Huwairits RA, ia berkata: Rasulullah SAW bersabda: **'Shalatlah kalian sebagaimana kalian melihat aku shalat'**."* (HR. Al-Bukhari No. 631).[^4]
 
-#### 🥊 Ronde 1: Kaidah Dasar Ibadah Mahdhah adalah Tauqifiyyah (Bebas Inovasi Bid'ah)
+#### 1. Diskursus Dialektika Kritis: Kaidah Dasar Ibadah Mahdhah adalah Tauqifiyyah (Bebas Inovasi Bid'ah)
 * **Pihak A (Sudut Pandang Inovasi Ibadah Bebas)**:  
   *"Boleh saja santri menambah sujud menjadi tiga kali atau membuat bacaan shalat baru asalkan merasa lebih dekat dengan Tuhan!"*
 * **Tinjauan Kaidah Ushul Fiqh Al-Ashlu fil 'Ibadati al-Hazhr**:  
   Kaidah agung ushul fiqh menetapkan: **Hukum Asal Ibadah Mahdhah adalah Terlarang (*Al-Ashlu fil 'Ibadati al-Hazhru wat-Tauqif*)** hingga ada dalil shahih yang memerintahkannya. Berbeda dengan urusan duniawi yang hukum asalnya mubah. Menambah gerakan atau bacaan shalat atas nama "kreativitas" adalah pintu *Bid'ah Dhalalah* yang merusak syariat. Shahihul Ibadah mengunci ketepatan ibadah santri persis pada rel sunnah nabawiyyah.[^5]
 
-#### 🥊 Ronde 2: Harmonisasi Fiqh Zhahir (Abu Syuja') dan Fiqh Bathin (Al-Ghazali)
+#### 2. Diskursus Dialektika Kritis: Harmonisasi Fiqh Zhahir (Abu Syuja') dan Fiqh Bathin (Al-Ghazali)
 * **Pihak A (Sudut Pandang Dikotomi Fiqh vs Tasawuf)**:  
   *"Ahli fiqh hanya mengurusi sah-batalnya gerakan; urusan khusyu' dan kehadiran hati itu urusan sufi yang tidak wajib dipelajari santri!"*
 * **Tinjauan Asrar ash-Shalah Hujjatul Islam Al-Ghazali**:  
   Memisahkan fiqh lahiriah dari kekhusyukan batin adalah **Tragedi Ilmu yang Mematikan Jiwa**. Seseorang yang shalat memenuhi rukun namun pikirannya 100% melayang ke makanan memang sah secara hukum qadha' (tidak perlu mengulang shalat), namun ia tidak membawa pulang pahala apapun ke akhirat. Imam Al-Ghazali dalam *Ihya'* merumuskan 6 rukun batin shalat: *Hudhurul Qalb* (Kehadiran Hati), *Tafahhum* (Memahami Makna), *Ta'zhim* (Mengagungkan Allah), *Haibah* (Rasa Takut yang Mulia), *Raja'* (Pengharapan Penuh), dan *Haya'* (Rasa Malu atas Dosa). Santri TUMBUH diajarkan memadukan keduanya secara simfoni.[^6]
 
-#### 🥊 Ronde 3: Mengikis Patologi Was-Was Thaharah (Terapi Fiqh Anti-Waswas)
+#### 3. Diskursus Dialektika Kritis: Mengikis Patologi Was-Was Thaharah (Terapi Fiqh Anti-Waswas)
 * **Pihak A (Sudut Pandang Pembiaran Santri Was-Was)**:  
   *"Santri yang berwudhu 15 menit dan takbir berulang-ulang itu tandanya santri yang sangat wara' dan hati-hati!"*
 * **Resolusi Fiqh Ibnul Qayyim (*Ighatsatul Lahfan*)**:  
@@ -113,7 +113,7 @@ $$\text{عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ رَضِيَ
 
 ---
 
-### 3. Inkuiri 2: Teori Embodied Cognition & Psikofisiologi Kekhusyukan dalam Gerakan Ibadah Mahdhah
+### 3. Teori Embodied Cognition & Psikofisiologi Kekhusyukan dalam Gerakan Ibadah Mahdhah
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Keselarasan Postur Kinestetik dengan Ketenangan Saraf Vagal
+#### 1. Diskursus Dialektika Kritis: Keselarasan Postur Kinestetik dengan Ketenangan Saraf Vagal
 * **Pihak A (Sudut Pandang Shalat Cepat Efisiensi Waktu)**:  
   *"Shalat berjamaah harus secepat mungkin agar santri tidak mengantuk; tidak perlu menahan ruku' dan sujud berlama-lama!"*
 * **Tinjauan Neurosains Postur Sujud & Vagal Tone**:  
   Shalat cepat tanpa thuma'ninah memicu lonjakan hormon stres karena otak membaca gerakan terburu-buru sebagai ancaman bahaya. Sebaliknya, saat sujud dilakukan dengan thuma'ninah (darah mengalir optimal ke lobus frontal otak dan sistem saraf parasimpatis teraktivasi), detak jantung melambat dan gelombang otak memasuki **Fase Alfa-Teta yang Menenangkan**. Shalat yang tenang adalah terapi neurobiologis terbaik bagi santri yang lelah belajar seharian.[^9]
 
-#### 🥊 Ronde 2: Mengunci Perhatian via Fahmul Ma'ani (Reduksi Mind-Wandering)
+#### 2. Diskursus Dialektika Kritis: Mengunci Perhatian via Fahmul Ma'ani (Reduksi Mind-Wandering)
 * **Pihak A (Sudut Pandang Hafalan Bunyi Tanpa Makna)**:  
   *"Santri cukup melafalkan huruf Arabnya dengan fasih; tidak perlu tahu arti terjemahan doa ruku', sujud, dan tasyahhud!"*
 * **Tinjauan Cognitive Attention & Default Mode Network (DMN)**:  
   Ketika seseorang melafalkan kalimat yang tidak ia pahami artinya, otak secara otomatis mengaktifkan *Default Mode Network* (DMN) yang memicu **Lamunan Pikiran Liar (*Mind-Wandering*)**: santri membaca Al-Fatihah di lisan, namun otaknya memikirkan menu makan siang atau tugas madrasah. TUMBUH mewajibkan **Program Fahmul Ma'ani Shalat**: santri mempelajari makna setiap lafaz shalat, sehingga memori kerja kognitif terkunci penuh menghayati dialog dengan Allah SWT.[^10]
 
-#### 🥊 Ronde 3: Otomatisasi Kebiasaan Wudhu Ergonomis Hemat Air
+#### 3. Diskursus Dialektika Kritis: Otomatisasi Kebiasaan Wudhu Ergonomis Hemat Air
 * **Pihak A (Sudut Pandang Keran Air Mengucur Deras)**:  
   *"Membuka keran air sebesar-besarnya itu tanda kesempurnaan wudhu agar seluruh kulit basah kuyup!"*
 * **Resolusi Sunnah Nabawiyyah & Konservasi Sumber Daya**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Integrasi Fiqh Ibadah Praktis dalam Dinamika Ekosistem Asrama 24 Jam
+### 4. Integrasi Fiqh Ibadah Praktis dalam Dinamika Ekosistem Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -191,19 +191,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum Shahihul Ibadah TUMBUH mengawal transisi ibadah 24 jam dengan sistem pendampingan musyrif berbasis kasih sayang dan apresiasi.
 * **Konklusi (*an-Natijah*)**: Maka, pembiasaan ibadah di pesantren TUMBUH terbebas dari kepalsuan formalistik dan melahirkan generasi abid yang beradab.[^12]
 
-#### 🥊 Ronde 1: Saf Pertama Bukan Hak Istimewa (Privilese) Senioritas
+#### 1. Diskursus Dialektika Kritis: Saf Pertama Bukan Hak Istimewa (Privilese) Senioritas
 * **Pihak A (Sudut Pandang Feodalisme Asrama)**:  
   *"Saf pertama di masjid itu khusus santri kelas 12; santri baru kelas 7 yang berani duduk di saf pertama harus diusir ke belakang!"*
 * **Tinjauan Hadits Keutamaan Saf Awal & Penghapusan Kasta**:  
   Rasulullah SAW bersabda: *"Seandainya manusia mengetahui pahala yang ada pada adzan dan saf pertama, lalu mereka tidak bisa mendapatkannya kecuali dengan mengundi, niscaya mereka akan mengundinya"* (HR. Bukhari No. 615). Menjadikan saf pertama sebagai hak feodal senior adalah **Pelanggaran Syariat Berat yang Menghalangi Santri Berlomba dalam Kebaikan (*Fastabiqul Khairat*)**. Di masjid TUMBUH, saf pertama terbuka mutlak bagi siapa saja yang datang lebih awal. Santri junior dan senior duduk berdampingan tanpa kasta.[^13]
 
-#### 🥊 Ronde 2: Fiqh Toleransi Ikhtilaf Furuiyyah di Kalangan Santri
+#### 2. Diskursus Dialektika Kritis: Fiqh Toleransi Ikhtilaf Furuiyyah di Kalangan Santri
 * **Pihak A (Sudut Pandang Fanatisme Madzhab Tunggal Kaku)**:  
   *"Santri yang tidak membaca qunut Shubuh atau yang membaca basmalah pelan harus disuruh mengulang shalatnya karena beda dengan madzhab pondok!"*
 * **Tinjauan Fiqh Perbandingan Madzhab & Adab Ikhtilaf**:  
   Para ulama salaf sepakat: *La Inkaara fi Masa'il al-Ijtihad* (Tidak boleh ada pengingkaran kasar dalam masalah-masalah ijtihadiyyah furu'). Imam Syafi'i sendiri tidak membaca qunut saat shalat di dekat makam Imam Abu Hanifah demi menghormati beliau. Santri TUMBUH diajarkan **Fiqh Muqaran Tematik**: memahami dalil masing-masing madzhab mu'tabar (Syafi'i, Hanafi, Maliki, Hanbali), saling menghormati perbedaan sunnah haiah, dan menjaga ukhuwah islamiyyah di atas segalanya.[^14]
 
-#### 🥊 Ronde 3: Qiyamul Lail Bertahap Bebas Pemaksaan Kasar
+#### 3. Diskursus Dialektika Kritis: Qiyamul Lail Bertahap Bebas Pemaksaan Kasar
 * **Pihak A (Sudut Pandang Siraman Air Dingin Jam 03.00)**:  
   *"Cara membangunkan tahajjud yang paling ampuh adalah menyiram muka santri yang sedang tidur dengan ember air es!"*
 * **Resolusi Adab Membangunkan Shalat Kenabian**:  
@@ -211,9 +211,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Shahihul Ibadah
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Shahihul Ibadah
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Shalat Santri yang Belajar Hingga Larut Malam)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Shalat Santri yang Belajar Hingga Larut Malam)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana pesantren menyikapi santri cerdas kelas 12 yang belajar untuk olimpiade sains hingga pukul 01.30 dini hari, lalu saat shalat Shubuh pukul 04.45 santri tersebut tertidur pulas di kamar dan melewatkan shalat berjamaah di masjid?"**
 
 * **Pendekatan Lama (Takzir Buta Tanpa Diagnostik)**:  
@@ -259,7 +259,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

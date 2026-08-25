@@ -14,20 +14,20 @@
 >   Evaluasi ibadah yang hanya bertumpu pada lembar laporan mandiri santri (*Self-Report Only*) memicu budaya pemalsuan data (*Faking Good*): santri mencentang semua kolom shalat dhuha dan tahajjud agar mendapat pujian. Sebaliknya, evaluasi yang hanya bersumber dari ingatan musyrif (*Single Musyrif Bias*) sangat rawan bias subjektif dan prasangka personal.
 > * **Inovasi Triangulasi 360 Derajat & Matriks MTMM TUMBUH:**  
 >   TUMBUH mengintegrasikan **Empat Pilar Sumber Data Terverifikasi: 1. Observasi In-Vivo Musyrif Asrama (35%); 2. Ujian Praktik Klinis Asatidz Fiqh / OSCE (30%); 3. Self-Assessment Reflektif Santri (20%); 4. Peer-Confirmation Rekan Sekamar (15%)** yang diuji silang menggunakan *Multitrait-Multimethod Matrix (MTMM)* Campbell & Fiske (1959).
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah kaidah syariat *Al-Bayyinatu 'alal Mudda'i* (HR. Al-Bukhari) dan persaksian adil (*Asy-Syahadah* QS. Al-Baqarah: 282), menyintesiskan metodologi triangulasi Norman Denzin (1978), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan algoritma deteksi diskrepansi data ibadah.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA ASESMEN TRIANGULASI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-asesmen-triangulasi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bias Sumber Tunggal & Fenomena Pemalsuan Laporan Diri](#1-latar-belakang-masalah-bias-sumber-tunggal--fenomena-pemalsuan-laporan-diri)
-  - [2. Inkuiri 1: Eksegesis Turats Triangulasi Persaksian Adil & Al-Bayyinah (QS. Al-Baqarah: 282 & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-triangulasi-persaksian-adil--al-bayyinah-qs-al-baqarah-282--al-ghazali)
-  - [3. Inkuiri 2: Multitrait-Multimethod Matrix (MTMM) & Triangulasi 360 Derajat Norman Denzin](#3-inkuiri-2-multitrait-multimethod-matrix-mtmm--triangulasi-360-derajat-norman-denzin)
-  - [4. Inkuiri 3: Empat Pilar Sumber Data Asesmen Ibadah Asrama 24 Jam](#4-inkuiri-3-empat-pilar-sumber-data-asesmen-ibadah-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-asesmen-triangulasi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Triangulasi Persaksian Adil & Al-Bayyinah (QS. Al-Baqarah: 282 & Al-Ghazali)](#2eksegesis-turats-triangulasi-persaksian-adil-al-bayyinah-qs-al-baqarah-282-al-ghazali)
+  - [3. Multitrait-Multimethod Matrix (MTMM) & Triangulasi 360 Derajat Norman Denzin](#3multitrait-multimethod-matrix-mtmm-triangulasi-360-derajat-norman-denzin)
+  - [4. Empat Pilar Sumber Data Asesmen Ibadah Asrama 24 Jam](#4empat-pilar-sumber-data-asesmen-ibadah-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-asesmen-triangulasi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Triangulasi 360 Derajat Asesmen Shahihul Ibadah](#1-arsitektur-triangulasi-360-derajat-asesmen-shahihul-ibadah)
   - [2. Matriks Multitrait-Multimethod (MTMM) & Bobot Komposisi Skor Ibadah](#2-matriks-multitrait-multimethod-mtmm--bobot-komposisi-skor-ibadah)
   - [3. Algoritma Rekonsiliasi & Deteksi Anomali Diskrepansi Data Asesmen](#3-algoritma-rekonsiliasi--deteksi-anomali-diskrepansi-data-asesmen)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Triangulasi Persaksian Adil & Al-Bayyinah (QS. Al-Baqarah: 282 & Al-Ghazali)
+### 2. Eksegesis Turats Triangulasi Persaksian Adil & Al-Bayyinah (QS. Al-Baqarah: 282 & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَن�
 
 *"Dari Ibnu Abbas RA: Bahwa Nabi ﷺ bersabda: **'Seandainya manusia diberi hak hanya berdasarkan klaim (tuduhan sepihak) mereka, niscaya orang-orang akan menuntut harta dan darah suatu kaum. Akan tetapi, bukti nyata (Al-Bayyinah) wajib atas penuduh/penilai, dan sumpah wajib atas yang mengingkari'**."* (HR. Al-Bukhari No. 4552 & Muslim No. 1711).[^4]
 
-#### 🥊 Ronde 1: Kesaksian Teman Sebaya yang Adil (Peer Confirmation)
+#### 1. Diskursus Dialektika Kritis: Kesaksian Teman Sebaya yang Adil (Peer Confirmation)
 * **Pihak A (Sudut Pandang Teman Sebaya Pasti Berbohong)**:  
   *"Santri itu pasti saling membela temannya sendiri atau saling fitnah; data dari rekan sekamar tidak ada gunanya!"*
 * **Tinjauan Sosiometri Sebaya & Konfirmasi Silang**:  
   Teman sekamar adalah saksi hidup 24 jam yang melihat apakah seorang santri benar-benar bangun saat tahajjud atau menarik selimut kembali setelah musyrif lewat. Dalam sistem TUMBUH, *Peer Confirmation* tidak meminta santri memberi nilai angka, melainkan **Konfirmasi Faktual Sederhana (*Fact-Checking Prompts*)**: misal *"Apakah teman sekamarmu bangun saat adzan Shubuh hari ini?"*. Data dianonimkan dan dikalibrasi silang dengan logbook musyrif. Kejujuran komunal terbangun kokoh.[^5]
 
-#### 🥊 Ronde 2: Verifikasi Praktik Langsung oleh Asatidz Fiqh (OSCE Practicum)
+#### 2. Diskursus Dialektika Kritis: Verifikasi Praktik Langsung oleh Asatidz Fiqh (OSCE Practicum)
 * **Pihak A (Sudut Pandang Cukup Nilai Observasi Asrama Tanpa Ujian Praktik)**:  
   *"Kalau musyrif sudah mencatat santri hadir di masjid setiap hari, buat apa lagi diuji praktik wudhu dan shalat oleh guru fiqh?"*
 * **Tinjauan Pemisahan Antara Presensi Waktu dan Kualitas Gerakan**:  
   Hadir di masjid tepat waktu (*Punctuality*) tidak menjamin gerakan wudhu dan sujudnya memenuhi syarat rukun fiqh (*Kinesthetic Validity*). Pilar Ujian Praktik Klinis oleh Guru Fiqh menguji secara khusus aspek hukum: membasuh 7 anggota sujud, batas basuhan wajah, dan tajwid Al-Fatihah. Presensi asrama dan presisi hukum saling melengkapi.[^6]
 
-#### 🥊 Ronde 3: Keikhlasan Mutaba'ah Diri: Dari Centang Formalitas ke Muhasabah
+#### 3. Diskursus Dialektika Kritis: Keikhlasan Mutaba'ah Diri: Dari Centang Formalitas ke Muhasabah
 * **Pihak A (Sudut Pandang Hapus Saja Buku Mutaba'ah Santri Karena Banyak Palsu)**:  
   *"Karena santri suka mengisi centang palsu di buku mutaba'ah, hapus saja buku mutaba'ah selamanya!"*
 * **Resolusi Tarbiyah Muhasabatun Nafs (Al-Ghazali & Umar bin Khattab)**:  
@@ -113,7 +113,7 @@ $$\text{عَنِ ابْنِ عَبَّاسٍ رَضِيَ اللَّهُ عَن�
 
 ---
 
-### 3. Inkuiri 2: Multitrait-Multimethod Matrix (MTMM) & Triangulasi 360 Derajat Norman Denzin
+### 3. Multitrait-Multimethod Matrix (MTMM) & Triangulasi 360 Derajat Norman Denzin
 
 ```mermaid
 graph TD
@@ -149,19 +149,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Validitas Konvergen: Keselarasan Empat Sumber Data
+#### 1. Diskursus Dialektika Kritis: Validitas Konvergen: Keselarasan Empat Sumber Data
 * **Pihak A (Sudut Pandang Mengabaikan Diskrepansi Data)**:  
   *"Kalau nilai ujian praktik fiqh santri 100 tapi musyrif mencatat santri sering masbuq, masukkan saja nilai 100 ke rapor!"*
 * **Tinjauan Uji Validitas Konvergen (MTMM)**:  
   Diskrepansi tajam antara nilai ujian (100) dan catatan perilaku lapangan (sering masbuq) membuktikan adanya kelemahan integritas (*Knowledge-Behavior Gap*). Validitas konvergen menuntut integrasi: sistem memicu **Algoritma Deteksi Diskrepansi**: musyrif dan guru fiqh duduk bersama merekonsiliasi data. Skor akhir mencerminkan sintesis adil yang mendorong santri menyelaraskan teori dengan tindakan.[^9]
 
-#### 🥊 Ronde 2: Validitas Diskriminan: Memisahkan Ibadah dari Keterampilan Sosial
+#### 2. Diskursus Dialektika Kritis: Validitas Diskriminan: Memisahkan Ibadah dari Keterampilan Sosial
 * **Pihak A (Sudut Pandang Mencampuradukkan Nilai Ibadah dengan Nilai Pidato)**:  
   *"Santri yang pintar pidato bahasa Arab otomatis nilainya harus A di rapor ibadah!"*
 * **Tinjauan Validitas Diskriminan Campbell & Fiske**:  
   Mencampuradukkan kepandaian public speaking dengan karakter ibadah adalah **Pencemaran Konstruk (*Construct Contamination*)**. Validitas diskriminan memastikan bahwa asesmen Shahihul Ibadah murni mengukur ketaatan thaharah, kehadiran shalat saf awal, kekhusyukan thuma'ninah, dan kelaziman rawatib, bukan mengukur kelancaran bicara santri. Setiap konstruk dinilai secara independen dan murni.[^10]
 
-#### 🥊 Ronde 3: Reduksi Efek Kebetulan (Chance Agreement Reduction)
+#### 3. Diskursus Dialektika Kritis: Reduksi Efek Kebetulan (Chance Agreement Reduction)
 * **Pihak A (Sudut Pandang Satu Kali Pengamatan Sudah Cukup)**:  
   *"Musyrif cukup melihat santri shalat sekali saja saat ujian semester; tidak perlu mencatat data sepanjang tahun!"*
 * **Resolusi Time-Sampling Triangulation (Norman Denzin)**:  
@@ -169,7 +169,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Empat Pilar Sumber Data Asesmen Ibadah Asrama 24 Jam
+### 4. Empat Pilar Sumber Data Asesmen Ibadah Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -192,19 +192,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Formula Pembobotan 360 Derajat TUMBUH mengunci keempat proporsi pilar tersebut dalam kalkulasi analitik dashboard sistem.
 * **Konklusi (*an-Natijah*)**: Maka, rapor karakter ibadah santri di pesantren TUMBUH memiliki bobot kebenaran faktual yang dapat dipertanggungjawabkan di hadapan Allah dan wali santri.[^12]
 
-#### 🥊 Ronde 1: Audit Silang Data Logbook Musyrif vs Mutaba'ah Santri
+#### 1. Diskursus Dialektika Kritis: Audit Silang Data Logbook Musyrif vs Mutaba'ah Santri
 * **Pihak A (Sudut Pandang Tidak Perlu Mengkroscek Buku Santri)**:  
   *"Percayakan saja buku catatan santri; kalau santri menulis shalat dhuha 8 rakaat, anggap saja benar tanpa perlu dicek!"*
 * **Tinjauan Mekanisme Cross-Audit Verification**:  
   Kepercayaan tanpa verifikasi memfasilitasi kebiasaan berbohong pada anak. Dalam sistem TUMBUH: Setiap malam Jumat, Musyrif kamar membuka aplikasi PBIS dan mencocokkan laporan santri dengan data kehadiran masjid. Jika terjadi ketidaksesuaian (santri mengklaim shalat Shubuh di saf awal padahal musyrif mencatat masbuq), musyrif mengajak santri berdialog santun: *"Ayo kita jujur, apa yang membuatmu mengisi centang ini?"*. Kejujuran santri dipulihkan tanpa penghakiman.[^13]
 
-#### 🥊 Ronde 2: Validasi Format Uji Praktik OSCE Fiqh Ibadah
+#### 2. Diskursus Dialektika Kritis: Validasi Format Uji Praktik OSCE Fiqh Ibadah
 * **Pihak A (Sudut Pandang Ujian Praktik Santai Tanpa Format Standar)**:  
   *"Ujian praktik shalat cukup disuruh ruku' sebentar di depan kelas selama 10 detik, lalu beri nilai 90!"*
 * **Tinjauan Standarisasi Stasiun OSCE Fiqh**:  
   Ujian kilat 10 detik tidak mampu mendeteksi kesalahan rukun shalat yang tersembunyi. Format OSCE Fiqh TUMBUH mewajibkan **4 Stasiun Uji Klinis**: (1) Stasiun Thaharah Mandiri; (2) Stasiun Gerakan Shalat & Thuma'ninah; (3) Stasiun Tajwid & Fahmul Ma'ani; dan (4) Stasiun Kelayakan Imamah. Setiap stasiun dinilai dengan rubrik checklist analitik terstandarisasi. Validitas keterampilan santri terjamin 100%.[^14]
 
-#### 🥊 Ronde 3: Sosiometri Rekan Sekamar Bebas Fitnah (Anonymous Blind Peer Feedback)
+#### 3. Diskursus Dialektika Kritis: Sosiometri Rekan Sekamar Bebas Fitnah (Anonymous Blind Peer Feedback)
 * **Pihak A (Sudut Pandang Sosiometri Terbuka Memicu Perkelahian)**:  
   *"Kalau santri disuruh menilai teman sekamarnya secara terang-terangan, mereka akan saling baku hantam di kamar!"*
 * **Resolusi Sistem Umpan Balik Anonim Terenkripsi**:  
@@ -212,9 +212,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Asesmen Triangulasi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Diskrepansi Data Santri Berbakat vs Catatan Asrama)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Diskrepansi Data Santri Berbakat vs Catatan Asrama)
 Pertarungan filosofis-metodologis terdalam bermuara pada kasus: **"Bagaimana Dewan Asesmen menyelesaikan kasus Santri K: Guru Fiqh memberikan nilai 100 pada Ujian Praktik OSCE karena gerakan dan tajwidnya sempurna; Santri K mengisi mutaba'ah mandiri dengan skor 95; namun Musyrif Asrama dan 3 Rekan Sekamarnya mencatat bahwa Santri K sering masbuq shalat Shubuh dan suka bersembunyi di kamar mandi saat bel qiyamul lail berbunyi?"**
 
 * **Pendekatan Lama (Memenangkan Nilai Guru Kelas Secara Buta)**:  
@@ -264,7 +264,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

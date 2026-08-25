@@ -14,20 +14,20 @@
 >   Sebelum hadirnya riset ini, kurikulum fiqh di kelas madrasah berjalan terpisah total dari manajemen kehidupan asrama dan bimbingan konseling. Guru fiqh hanya mengajar teori di kelas, musyrif menghukum santri secara serampangan di masjid, dan santri memalsukan kartu kendali mutaba'ah.
 > * **Inovasi Meta-Sintesis 14 Sub-Modul & Validasi Panel Delphi TUMBUH:**  
 >   TUMBUH menyatukan 14 pilar sub-modul Shahihul Ibadah ke dalam satu kesatuan doktrin organik yang telah diuji validitas isinya oleh 12 Guru Besar lintas disiplin (Pakar Turats, Fiqh Sunnah, PBIS, Neurosains, dan Psikometri) dengan perolehan **Scale-Level Content Validity Index ($S\text{-}CVI/\text{Ave} = 0.97$)**, mengonfirmasi kelayakan penuh implementasi (*Status Mutu: A+ Paripurna*).
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah kesempurnaan syariat (*Al-Yauma Akmaltu Lakum Dinakum* QS. Al-Ma'idah: 3 & *Al-Muwafaqat* Asy-Syathibi), menyintesiskan metodologi konsensus Delphi tiga putaran, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan doktrin Triad Pertumbuhan Simbiotik (Santri, Guru, Lembaga).
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA SINTESIS VALIDASI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-sintesis-validasi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Fragmentasi Kurikulum Ibadah vs Keniscayaan Meta-Sintesis Terpadu](#1-latar-belakang-masalah-fragmentasi-kurikulum-ibadah-vs-keniscayaan-meta-sintesis-terpadu)
-  - [2. Inkuiri 1: Eksegesis Turats Kesempurnaan Integrasi Syariat Ibadah (QS. Al-Ma'idah: 3 & Asy-Syathibi)](#2-inkuiri-1-eksegesis-turats-kesempurnaan-integrasi-syariat-ibadah-qs-al-maidah-3--asy-syathibi)
-  - [3. Inkuiri 2: Metodologi Validasi Delphi Tiga Putaran & Content Validity Index (Lawshe & Lynn)](#3-inkuiri-2-metodologi-validasi-delphi-tiga-putaran--content-validity-index-lawshe--lynn)
-  - [4. Inkuiri 3: Arsitektur Triad Pertumbuhan Simbiotik Domain 05 Shahihul Ibadah](#4-inkuiri-3-arsitektur-triad-pertumbuhan-simbiotik-domain-05-shahihul-ibadah)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Pamungkas](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-validasi-pamungkas)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kesempurnaan Integrasi Syariat Ibadah (QS. Al-Ma'idah: 3 & Asy-Syathibi)](#2eksegesis-turats-kesempurnaan-integrasi-syariat-ibadah-qs-al-maidah-3-asy-syathibi)
+  - [3. Metodologi Validasi Delphi Tiga Putaran & Content Validity Index (Lawshe & Lynn)](#3metodologi-validasi-delphi-tiga-putaran-content-validity-index-lawshe-lynn)
+  - [4. Arsitektur Triad Pertumbuhan Simbiotik Domain 05 Shahihul Ibadah](#4arsitektur-triad-pertumbuhan-simbiotik-domain-05-shahihul-ibadah)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Pamungkas](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-validasi-pamungkas)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Meta-Sintesis 14 Sub-Modul Kapasitas Karakter 2: Shahihul Ibadah (Peta Konseptual Holistik)](#1-meta-sintesis-14-sub-modul-kapasitas-karakter-2-shahihul-ibadah-peta-konseptual-holistik)
   - [2. Matriks Hasil Uji Validasi Panel Ahli Delphi & Kalkulasi I-CVI/S-CVI](#2-matriks-hasil-uji-validasi-panel-ahli-delphi--kalkulasi-i-cvis-cvi)
   - [3. Doktrin Triad Pertumbuhan Simbiotik Karakter Shahihul Ibadah](#3-doktrin-triad-pertumbuhan-simbiotik-karakter-shahihul-ibadah)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kesempurnaan Integrasi Syariat Ibadah (QS. Al-Ma'idah: 3 & Asy-Syathibi)
+### 2. Eksegesis Turats Kesempurnaan Integrasi Syariat Ibadah (QS. Al-Ma'idah: 3 & Asy-Syathibi)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{الشَّرِيعَةُ كُلُّهَا تَرْجِعُ إِلَى ح
 
 *"**Syariat secara keseluruhan bermuara pada penjagaan tujuan-tujuan luhurnya (*Maqashid*) pada diri makhluk; dan tujuan-tujuan ini tidak akan pernah tercapai dengan mengambil sebagian hukum dan membuang sebagian yang lain, melainkan syariat itu laksana satu tubuh** yang apabila satu anggota sakit maka seluruh tubuh akan merasakannya. **Maka barangsiapa yang memisahkan fiqh ibadah dari tujuan penyucian jiwa (*At-Tazkiyah*) dan penegakan keteraturan sistem sosial jamaah, sungguh ia telah jahil terhadap hikmah Sang Pembuat Syariat**."*[^4]
 
-#### 🥊 Ronde 1: Kesatuan Fiqh, Tasawuf, & Disiplin Sosial Asrama
+#### 1. Diskursus Dialektika Kritis: Kesatuan Fiqh, Tasawuf, & Disiplin Sosial Asrama
 * **Pihak A (Sudut Pandang Dikotomi Fiqh vs Tasawuf)**:  
   *"Fiqh itu cuma urusan sah-batal; tasawuf urusan hati; manajemen asrama urusan satpam; tidak boleh dicampuradukkan!"*
 * **Tinjauan Integrasi Tiga Dimensi Keagamaan (Islam, Iman, Ihsan)**:  
   Memisahkan fiqh dari tasawuf dan tata kelola asrama melahirkan generasi muslim yang berkepribadian terbelah (*Split Personality*). Dalam sintesis TUMBUH: Fiqh menyediakan **Standar Presisi Syariat (*Rukun & Syarat*)**; Tasawuf menyediakan **Kedalaman Ruhani (*Khusyu' & Thuma'ninah*)**; dan SW-PBIS menyediakan **Arsitektur Pengasuhan Ramah Karakter (*Bi'ah Shalihah*)**. Ketiganya menyatu harmonis.[^5]
 
-#### 🥊 Ronde 2: Triad Pertumbuhan: Menjaga Kesejahteraan Seluruh Entitas
+#### 2. Diskursus Dialektika Kritis: Triad Pertumbuhan: Menjaga Kesejahteraan Seluruh Entitas
 * **Pihak A (Sudut Pandang Santri Harus Tumbuh Walau Musyrif Tumbang Burnout)**:  
   *"Tujuan pesantren hanya untuk santri; musyrif mau stres, tidak tidur, atau jatuh sakit itu risiko perjuangan!"*
 * **Tinjauan Doktrin Triad Pertumbuhan Simbiotik TUMBUH**:  
   Musyrif yang lelah kronis (*Burnout*) tidak akan mampu memberikan keteladanan qudwah yang penuh kasih, melainkan akan melampiaskan amarahnya kepada santri. Prinsip Triad TUMBUH menegaskan: **Santri hanya bisa bertumbuh jika Musyrif bertumbuh terlindungi (*Protected & Competent*), dan Lembaga bertumbuh memiliki SOP bebas kekerasan**. Tiga entitas bertumbuh serempak.[^6]
 
-#### 🥊 Ronde 3: Pencegahan Fahsya' & Munkar Sebagai Bukti Validitas Sintesis
+#### 3. Diskursus Dialektika Kritis: Pencegahan Fahsya' & Munkar Sebagai Bukti Validitas Sintesis
 * **Pihak A (Sudut Pandang Indikator Ibadah Tidak Boleh Dikaitkan dengan Bullying)**:  
   *"Kalau shalat santri sudah sah, urusan ada kasus bullying dan perkelahian di asrama tidak boleh dikaitkan dengan modul ibadah!"*
 * **Resolusi QS. Al-Ankabut: 45**:  
@@ -112,7 +112,7 @@ $$\text{الشَّرِيعَةُ كُلُّهَا تَرْجِعُ إِلَى ح
 
 ---
 
-### 3. Inkuiri 2: Metodologi Validasi Delphi Tiga Putaran & Content Validity Index (Lawshe & Lynn)
+### 3. Metodologi Validasi Delphi Tiga Putaran & Content Validity Index (Lawshe & Lynn)
 
 ```mermaid
 graph TD
@@ -143,19 +143,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Panel 12 Pakar Lintas Disiplin: Menghancurkan Bias Sektoral
+#### 1. Diskursus Dialektika Kritis: Panel 12 Pakar Lintas Disiplin: Menghancurkan Bias Sektoral
 * **Pihak A (Sudut Pandang Penilai Cukup dari Satu Golongan Saja)**:  
   *"Penguji modul ibadah cukup pakar fiqh saja, tidak perlu mengundang pakar neurosains atau konselor perlindungan anak!"*
 * **Tinjauan Keunggulan Multi-Disiplin Delphi**:  
   Menilai kurikulum ibadah hanya dari kacamata fiqh membuat modul buta terhadap aspek perkembangan mental anak dan risiko hukum kekerasan. Panel Delphi TUMBUH menghadirkan **12 Pakar Spesialis**: 3 Pakar Turats Fiqh, 2 Pakar Neurosains Kognitif, 2 Pakar SW-PBIS, 2 Pakar Psikometri, 2 Praktisi Pengasuhan Asrama, dan 1 Pakar Advokasi Hak Anak. Seluruh celah kelemahan tertutup sempurna.[^9]
 
-#### 🥊 Ronde 2: Uji Validitas Isi Kuantitatif ($S\text{-}CVI/\text{Ave} = 0.97$)
+#### 2. Diskursus Dialektika Kritis: Uji Validitas Isi Kuantitatif ($S\text{-}CVI/\text{Ave} = 0.97$)
 * **Pihak A (Sudut Pandang Menolak Metodologi Statistik)**:  
   *"Tidak ada gunanya menghitung angka I-CVI dan S-CVI untuk kitab kurikulum shalat!"*
 * **Tinjauan Standar Mutu Psikometri Internasional (Polit & Beck, 2006)**:  
   Angka $S\text{-}CVI/\text{Ave} = 0.97$ adalah **Bukti Ilmiah Validitas Isi Tanpa Cacat**: dari 14 sub-modul yang dinilai dalam 56 item kriteria, 12 pakar secara independen memberikan skor relevansi maksimal (Skor 3 dan 4) pada 97% aspek yang diuji. Ini membuktikan bahwa kurikulum TUMBUH memenuhi standar publikasi monograf internasional.[^10]
 
-#### 🥊 Ronde 3: Kelayakan Lapangan (Field Usability Verification)
+#### 3. Diskursus Dialektika Kritis: Kelayakan Lapangan (Field Usability Verification)
 * **Pihak A (Sudut Pandang Modul Teori Bagus Tapi Mustahil Diterapkan)**:  
   *"Teori di modul ini terlalu canggih dan idealis, pasti musyrif di lapangan tidak sanggup menjalankannya!"*
 * **Resolusi Uji Coba Lapangan 6 Bulan (Pilot Project)**:  
@@ -163,7 +163,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Arsitektur Triad Pertumbuhan Simbiotik Domain 05 Shahihul Ibadah
+### 4. Arsitektur Triad Pertumbuhan Simbiotik Domain 05 Shahihul Ibadah
 
 ```mermaid
 flowchart TD
@@ -186,19 +186,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Doktrin Triad Pertumbuhan Simbiotik Domain 05 TUMBUH menjamin keterpaduan pertumbuhan kapasitas Santri, Musyrif, dan Lembaga Pesantren.
 * **Konklusi (*an-Natijah*)**: Maka, ekosistem Shahihul Ibadah TUMBUH menghasilkan keberkahan peradaban yang berkesinambungan.[^12]
 
-#### 🥊 Ronde 1: Santri Tumbuh: Meraih Malakah Khusyu' Mandiri
+#### 1. Diskursus Dialektika Kritis: Santri Tumbuh: Meraih Malakah Khusyu' Mandiri
 * **Pihak A (Sudut Pandang Santri Cukup Patuh Secara Mekanis)**:  
   *"Yang penting santri shalatnya rapi saat diabsen musyrif; tidak peduli hatinya khusyu' atau mandiri!"*
 * **Tinjauan Hakikat Pertumbuhan Santri (Malakah Ibadah)**:  
   Kepatuhan mekanis tanpa kesadaran hati adalah kepalsuan. Santri yang bertumbuh dalam sistem TUMBUH mengalami transformasi batiniah: ia shalat karena rindu kepada Allah, bangun tahajjud tanpa perlu dibangunkan bel, dan siap memimpin shalat di tengah masyarakat sebagai imam yang berwibawa (*Live Qudwah*).[^13]
 
-#### 🥊 Ronde 2: Musyrif Tumbuh: Menjadi Pendidik Profesional Bebas Burnout
+#### 2. Diskursus Dialektika Kritis: Musyrif Tumbuh: Menjadi Pendidik Profesional Bebas Burnout
 * **Pihak A (Sudut Pandang Musyrif Hanya Buruh Pengawas Asrama)**:  
   *"Musyrif itu cukup bertugas jaga malam dan memarahi santri yang ribut; tidak perlu ditingkatkan kompetensinya!"*
 * **Tinjauan Perlindungan & Pengembangan Kapasitas Pendidik**:  
   Memperlakukan musyrif sebagai penjaga malam menurunkan martabat pendidikan Islam. Dalam ekosistem TUMBUH: Musyrif ditingkatkan kapasitasnya menjadi **Master Coach & Konselor Ibadah**: menguasai FBA klinis, teknik de-eskalasi emosi, dan pedagogi kinestetik. Musyrif mengasuh dengan keikhlasan tinggi dan terlindungi dari kelelahan jiwa.[^14]
 
-#### 🥊 Ronde 3: Lembaga Tumbuh: Pesantren Modern Berbasis Bukti Ilmiah
+#### 3. Diskursus Dialektika Kritis: Lembaga Tumbuh: Pesantren Modern Berbasis Bukti Ilmiah
 * **Pihak A (Sudut Pandang Pesantren Tidak Perlu Data Analitik Digital)**:  
   *"Pesantren itu lembaga barakah; tidak butuh grafik data analitik PBIS atau laporan komputasi!"*
 * **Resolusi Tata Kelola Kelembagaan Islam Profesional (Al-Itqan)**:  
@@ -206,9 +206,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Pamungkas
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Pamungkas
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Transisi Menghapus Hukuman Fisik Menghadapi Santri Kebal)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Transisi Menghapus Hukuman Fisik Menghadapi Santri Kebal)
 Pertarungan filosofis-institusional terdalam bermuara pada kasus: **"Bagaimana dewan pimpinan pesantren meyakinkan para asatidz senior tradisional yang bersikeras bahwa: 'Metode PBIS multi-tier dan disiplin restoratif ini terlalu lembek; santri-santri yang kebal dan bandel hanya bisa ditertibkan jika kita tetap menggunakan hukuman cambuk sajadah dan push-up 100 kali'?"**
 
 * **Pendekatan Lama (Kompromi Mengizinkan Kekerasan Terbatas)**:  
@@ -259,7 +259,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

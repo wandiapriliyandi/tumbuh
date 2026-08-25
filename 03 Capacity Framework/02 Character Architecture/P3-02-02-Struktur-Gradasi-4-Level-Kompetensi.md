@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA GRADASI KOMPETENSI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-gradasi-kompetensi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Kegagalan Ekspektasi Instan & Bahaya Menghakimi Santri Baru](#1-latar-belakang-masalah-kegagalan-ekspektasi-instan--bahaya-menghakimi-santri-baru)
-  - [2. Inkuiri 1: Eksegesis Turats Maratibul Iman & Tahapan Metamorfosis Jiwa (Ihya' & Madarijus Salikin)](#2-inkuiri-1-eksegesis-turats-maratibul-iman--tahapan-metamorfosis-jiwa-ihya--madarijus-salikin)
-  - [3. Inkuiri 2: Teori Kontinuum Regulasi Diri Deci & Ryan (Dari Ekstrinsik ke Otonom)](#3-inkuiri-2-teori-kontinuum-regulasi-diri-deci--ryan-dari-ekstrinsik-ke-otonom)
-  - [4. Inkuiri 3: Peran Scaffolding Vygotsky & Zone of Proximal Development (ZPD) dalam Pembiasaan Asrama](#4-inkuiri-3-peran-scaffolding-vygotsky--zone-of-proximal-development-zpd-dalam-pembiasaan-asrama)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Maratibul Iman & Tahapan Metamorfosis Jiwa (Ihya' & Madarijus Salikin)](#2eksegesis-turats-maratibul-iman-tahapan-metamorfosis-jiwa-ihya-madarijus-salikin)
+  - [3. Teori Kontinuum Regulasi Diri Deci & Ryan (Dari Ekstrinsik ke Otonom)](#3teori-kontinuum-regulasi-diri-deci-ryan-dari-ekstrinsik-ke-otonom)
+  - [4. Peran Scaffolding Vygotsky & Zone of Proximal Development (ZPD) dalam Pembiasaan Asrama](#4peran-scaffolding-vygotsky-zone-of-proximal-development-zpd-dalam-pembiasaan-asrama)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Arsitektur 4 Level Gradasi Jenjang Kemandirian TUMBUH (J1–J4) (J1–J4)](#1-formulasi-konseptual-arsitektur-4-level-gradasi-tangga-tumbuh-t1t4)
   - [2. Matriks Komparasi Karakteristik, Motivasi, & Peran Musyrif pada Setiap Jenjang J1–J4](#2-matriks-komparasi-karakteristik-motivasi--peran-musyrif-pada-setiap-tangga-t1t4)
   - [3. Protokol Transisi & Kriteria Kenaikan Tangga Santri Antar-Semester](#3-protokol-transisi--kriteria-kenaikan-tangga-santri-antar-semester)
@@ -68,7 +68,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Maratibul Iman & Tahapan Metamorfosis Jiwa (Ihya' & Madarijus Salikin)
+### 2. Eksegesis Turats Maratibul Iman & Tahapan Metamorfosis Jiwa (Ihya' & Madarijus Salikin)
 
 ```mermaid
 graph TD
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Kontinuum Regulasi Diri Deci & Ryan (Dari Ekstrinsik ke Otonom)
+### 3. Teori Kontinuum Regulasi Diri Deci & Ryan (Dari Ekstrinsik ke Otonom)
 
 Profesor psikologi University of Rochester **Edward L. Deci & Richard M. Ryan** merumuskan *Self-Determination Continuum*:
 1. **External Regulation (T1):** Perilaku didorong oleh aturan luar dan kehadiran figur otoritas.
@@ -96,7 +96,7 @@ Profesor psikologi University of Rochester **Edward L. Deci & Richard M. Ryan** 
 
 ---
 
-### 4. Inkuiri 3: Peran *Scaffolding* Vygotsky & *Zone of Proximal Development* (ZPD) dalam Pembiasaan Asrama
+### 4. Peran *Scaffolding* Vygotsky & *Zone of Proximal Development* (ZPD) dalam Pembiasaan Asrama
 
 Pakar psikologi perkembangan **Lev Vygotsky** merumuskan teori *Zone of Proximal Development (ZPD)*:
 * Santri pada Jenjang J1 berada dalam ZPD yang membutuhkan **Scaffolding Intensif (Pendampingan Erat Musyrif)**: Musyrif memberikan aba-aba jelas, mendemonstrasikan cara melipat baju, dan menyapa di pintu kamar.
@@ -104,21 +104,21 @@ Pakar psikologi perkembangan **Lev Vygotsky** merumuskan teori *Zone of Proximal
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Santri Jenjang J1 yang Patuh Karena Diawasi Itu Munafik"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Santri Jenjang J1 yang Patuh Karena Diawasi Itu Munafik"
 * **Pihak A (Sudut Pandang Purisme Niat)**:  
   *"Santri yang shalat hanya karena ada ustadz itu riya' dan munafik; lebih baik tidak usah shalat sekalian daripada tidak ikhlas!"*
 * **Tinjauan Fiqh Tarbiyah & Wasiat Salaf**:  
   Ulama salaf menegaskan: *"Thalabnal 'ilma lighairillahi fa-aba al-'ilmu illa an yakuuna lillahi"* (Kami dahulu menuntut ilmu bukan karena Allah, namun ilmu itu sendiri yang akhirnya menuntun kami menjadi ikhlas karena Allah). Kepatuhan awal yang dibimbing (T1) adalah pintu gerbang menuju keikhlasan sejati (T3). Mengharamkan kepatuhan awal akan mematikan proses belajar anak.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Memastikan Santri Jenjang J4 Tidak Bersikap Feodal?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Bagaimana Memastikan Santri Jenjang J4 Tidak Bersikap Feodal?
 * **Pihak A (Sudut Pandang Risiko Senioritas)**:  
   *"Memberikan wewenang kepada santri senior Jenjang J4 rawan memicu perpeloncoan dan kekerasan terhadap junior!"*
 * **Tinjauan Kepemimpinan Pelayan (Servant Leadership)**:  
   Santri Jenjang J4 dalam ekosistem TUMBUH tidak memegang tongkat hukuman fisik, melainkan memegang peran **Mentor Pengayom & Kakak Asuh (*Peer Tutor & Khadim*)**. Kriteria kelulusan T4 diuji dari seberapa tulus ia melayani dan melindungi adik kelasnya, bukan seberapa ditakuti ia oleh juniornya.[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Kenaikan Tangga Wajib Berbasis Bukti Portofolio?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Kenaikan Tangga Wajib Berbasis Bukti Portofolio?
 * **Pihak A (Sudut Pandang Otomatisasi Kelas)**:  
   *"Kenaikan level santri cukup otomatis naik seiring naiknya jenjang kelas sekolah (Kelas 7 = T1, Kelas 8 = T2, dst.)!"*
 * **Resolusi Asesmen Autentik**:  
@@ -130,7 +130,7 @@ Pakar psikologi perkembangan **Lev Vygotsky** merumuskan teori *Zone of Proximal
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

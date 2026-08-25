@@ -14,20 +14,20 @@
 >   Banyak kurikulum karakter pesantren gagal diterapkan karena dokumennya terpecah-pecah tanpa koherensi sistemik: silabus kelas tidak nyambung dengan kehidupan kamar, instrumen mutaba'ah bertolak belakang dengan SOP musyrif, dan tidak pernah diuji validitas konstruksinya oleh para pakar independen (*Zero Expert Validation*).
 > * **Inovasi Sintesis Holistik 14 Sub-Modul Salimul Aqidah TUMBUH:**  
 >   TUMBUH menyatukan seluruh 14 sub-modul (Filosofi, Definisi, Tujuan, Nilai Inti, Taksonomi, Perilaku, Rubrik BARS, Tahapan J1–J4, Triangulasi 360°, Protokol Intervensi PBIS, Program Halaqah, Metode Didaktik, & Instrumen Mutaba'ah) ke dalam satu arsitektur terpadu yang telah lolos uji **Content Validity Index (S-CVI = 0.96)** melalui konsensus Delphi 3 putaran.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah maqashid penjagaan agama (*Hifzhud Din* QS. Al-Ma'idah: 3 & *Qawa'id al-Ahkam* Izzuddin bin Abdis Salam), menyintesiskan metodologi validasi Delphi dan CVI Lynn (1986), menguji dialektika 3 ronde di setiap inkuiri, dan mendeklarasikan sertifikasi kelayakan implementasi (*Ready for Deployment*).
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA SINTESIS VALIDASI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-sintesis-validasi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Fragmentasi Kurikulum & Cacat Validasi Karakter](#1-latar-belakang-masalah-bahaya-fragmentasi-kurikulum--cacat-validasi-karakter)
-  - [2. Inkuiri 1: Eksegesis Turats Kesempurnaan Syariat & Maqashid Hifzhud Din (QS. Al-Ma'idah: 3 & Izzuddin bin Abdis Salam)](#2-inkuiri-1-eksegesis-turats-kesempurnaan-syariat--maqashid-hifzhud-din-qs-al-maidah-3--izzuddin-bin-abdis-salam)
-  - [3. Inkuiri 2: Metodologi Validasi Ahli Delphi (Hsu & Sandford) & Content Validity Index (CVI Lynn, 1986)](#3-inkuiri-2-metodologi-validasi-ahli-delphi-hsu--sandford--content-validity-index-cvi-lynn-1986)
-  - [4. Inkuiri 3: Integrasi Koheren 14 Sub-Modul Salimul Aqidah dalam Ekosistem Asrama 24 Jam](#4-inkuiri-3-integrasi-koheren-14-sub-modul-salimul-aqidah-dalam-ekosistem-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Paripurna](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-validasi-paripurna)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kesempurnaan Syariat & Maqashid Hifzhud Din (QS. Al-Ma'idah: 3 & Izzuddin bin Abdis Salam)](#2eksegesis-turats-kesempurnaan-syariat-maqashid-hifzhud-din-qs-al-maidah-3-izzuddin-bin-abdis-salam)
+  - [3. Metodologi Validasi Ahli Delphi (Hsu & Sandford) & Content Validity Index (CVI Lynn, 1986)](#3metodologi-validasi-ahli-delphi-hsu-sandford-content-validity-index-cvi-lynn-1986)
+  - [4. Integrasi Koheren 14 Sub-Modul Salimul Aqidah dalam Ekosistem Asrama 24 Jam](#4integrasi-koheren-14-sub-modul-salimul-aqidah-dalam-ekosistem-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Paripurna](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-validasi-paripurna)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Sintesis Holistik Salimul Aqidah (Integrasi 14 Sub-Modul & Triad Pertumbuhan)](#1-arsitektur-sintesis-holistik-salimul-aqidah-integrasi-14-sub-modul--triad-pertumbuhan)
   - [2. Matriks Laporan Hasil Uji Validitas Pakar Delphi & Skor CVI (10 Dimensi Pengujian)](#2-matriks-laporan-hasil-uji-validitas-pakar-delphi--skor-cvi-10-dimensi-pengujian)
   - [3. Piagam Deklarasi Pengesahan & Kesiapan Implementasi Lapangan (Declaration of Readiness)](#3-piagam-deklarasi-pengesahan--kesiapan-implementasi-lapangan-declaration-of-readiness)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kesempurnaan Syariat & Maqashid Hifzhud Din (QS. Al-Ma'idah: 3 & Izzuddin bin Abdis Salam)
+### 2. Eksegesis Turats Kesempurnaan Syariat & Maqashid Hifzhud Din (QS. Al-Ma'idah: 3 & Izzuddin bin Abdis Salam)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{أَعْلَى الْمَقَاصِدِ الشَّرْعِيَّةِ: ح
 
 *"**Puncak tertinggi dari seluruh Maqashid Syari'ah adalah: Menjaga Agama (Hifzhud Din) dari penyimpangan dan syubhat, serta melindungi kalbu dari riya' dan syirik**. Dan hal itu tidak akan pernah terwujud sempurna melainkan dengan **memperkokoh fondasi dasar (Ushul) dan mencabangkan aturan-aturannya secara presisi (Itqan)** yang memutus tuntas segala akar kerusakan."*[^4]
 
-#### 🥊 Ronde 1: Keutuhan Integrasi 14 Sub-Modul Salimul Aqidah
+#### 1. Diskursus Dialektika Kritis: Keutuhan Integrasi 14 Sub-Modul Salimul Aqidah
 * **Pihak A (Sudut Pandang Reduksionisme Sederhana)**:  
   *"Kenapa harus ada 14 sub-modul? Bukankah cukup dengan modul materi dalil dan lembar ujian saja?"*
 * **Tinjauan Keterkaitan Organik 14 Pilar Kapasitas**:  
   Menghilangkan salah satu sub-modul sama dengan merusak satu organ tubuh: Tanpa *Filosofi* (01) kurikulum kehilangan ruh; tanpa *Definisi* (02) istilah menjadi rancu; tanpa *Nilai Inti* (04) terjadi disonansi moral; tanpa *Taksonomi* (05) asesmen membabi-buta; tanpa *Perilaku* (06) dan *BARS* (07) rapor menjadi subjektif; tanpa *PBIS* (10) penanganan pelanggaran menjadi zalim; tanpa *Program* (11) dan *Pedagogi* (12) santri jenuh; dan tanpa *Mutaba'ah* (13) evaluasi hampa. Integrasi 14 sub-modul menjamin ekosistem pembinaan berjalan tanpa celah.[^5]
 
-#### 🥊 Ronde 2: Proteksi Hifzhud Din dari Reduksionisme Sekuler
+#### 2. Diskursus Dialektika Kritis: Proteksi Hifzhud Din dari Reduksionisme Sekuler
 * **Pihak A (Sudut Pandang Sekularisasi Sains)**:  
   *"Apakah mengadopsi teori sains modern seperti CASEL, Kohlberg, dan Sweller tidak mengotori kemurnian tauhid Islam?"*
 * **Tinjauan Epistemologi Islamisasi & Hifzhud Din**:  
   TUMBUH menerapkan **Penyaringan Epistemologis Ketat (*Epistemological Islamization*)**: Kita memanfaatkan perangkat metodologis sains (*Methodological Apparatus*) untuk memahami kerja otak dan perilaku, namun **Fondasi Ontologis dan Aksiologisnya Berakar Mutlak 100% pada Al-Qur'an dan Sunnah**. Sains bertindak sebagai pelayan (*Khadim*) bagi wahyu, bukan sebagai tuhan yang mendikte. Ini adalah puncak penjagaan agama (*Hifzhud Din*).[^6]
 
-#### 🥊 Ronde 3: Kesiapan Validasi Dewan Kiai dan Pakar Independen
+#### 3. Diskursus Dialektika Kritis: Kesiapan Validasi Dewan Kiai dan Pakar Independen
 * **Pihak A (Sudut Pandang Subjektivitas Internal Penyusun)**:  
   *"Cukup tim penulis sendiri yang menyatakan modul ini bagus; tidak perlu diuji oleh dewan kiai luar atau pakar psikometri!"*
 * **Resolusi Audit Independen & Kaidah Syura**:  
@@ -112,7 +112,7 @@ $$\text{أَعْلَى الْمَقَاصِدِ الشَّرْعِيَّةِ: ح
 
 ---
 
-### 3. Inkuiri 2: Metodologi Validasi Ahli Delphi (Hsu & Sandford) & Content Validity Index (CVI Lynn, 1986)
+### 3. Metodologi Validasi Ahli Delphi (Hsu & Sandford) & Content Validity Index (CVI Lynn, 1986)
 
 ```mermaid
 graph TD
@@ -143,19 +143,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Menghilangkan Bias Dominasi Tokoh via Double-Blind Delphi
+#### 1. Diskursus Dialektika Kritis: Menghilangkan Bias Dominasi Tokoh via Double-Blind Delphi
 * **Pihak A (Sudut Pandang Rapat Terbuka Tradisional)**:  
   *"Kumpulkan saja semua pakar dalam satu ruangan rapat; kiai senior yang memutuskan, yang lain pasti setuju!"*
 * **Tinjauan Fenomena Groupthink & Dominasi Otoritas**:  
   Rapat terbuka sering dirusak oleh **Groupthink**: peserta junior atau pakar muda merasa sungkan mengkritik kelemahan konsep di depan kiai sepuh. Metodologi *Delphi Double-Blind* menyelesaikan masalah ini: seluruh pakar memberikan masukan, kritik, dan skor secara anonim via sistem digital. Kritik objektif tersampaikan secara jujur tanpa rasa sungkan, menghasilkan penyempurnaan kurikulum yang sangat tajam dan presisi.[^9]
 
-#### 🥊 Ronde 2: Menetapkan Ambang Batas Kelolosan CVI $\ge 0.90$
+#### 2. Diskursus Dialektika Kritis: Menetapkan Ambang Batas Kelolosan CVI $\ge 0.90$
 * **Pihak A (Sudut Pandang Standar Rendah)**:  
   *"Skor validitas 0.70 sudah cukup bagus; tidak perlu menargetkan 0.90 yang terlalu sulit dicapai!"*
 * **Tinjauan Standar Mutu Psikometri Lynn (1986)**:  
   Untuk domain sakral seperti aqidah dan keselamatan mental santri di asrama 24 jam, toleransi kesalahan harus ditekan seminimal mungkin (*High-Stakes Assessment*). Menetapkan ambang batas S-CVI $\ge 0.90$ menjamin bahwa minimal 9 dari 10 pakar sepakat bulat bahwa instrumen tersebut sangat relevan, bebas dari celah kekerasan, dan aman bagi perkembangan jiwa santri.[^10]
 
-#### 🥊 Ronde 3: Eliminasi Kontradiksi SOP Antar-Modul (Cross-Module Audit)
+#### 3. Diskursus Dialektika Kritis: Eliminasi Kontradiksi SOP Antar-Modul (Cross-Module Audit)
 * **Pihak A (Sudut Pandang Pengabaian Silang Modul)**:  
   *"Jika ada sedikit perbedaan alur antara modul intervensi dan modul rubrik, biarkan saja musyrif yang menyesuaikan sendiri di lapangan!"*
 * **Resolusi Audit Koherensi Kualitas**:  
@@ -163,7 +163,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Integrasi Koheren 14 Sub-Modul Salimul Aqidah dalam Ekosistem Asrama 24 Jam
+### 4. Integrasi Koheren 14 Sub-Modul Salimul Aqidah dalam Ekosistem Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -202,19 +202,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Domain 04: Salimul Aqidah mengintegrasikan 14 sub-modul secara utuh dan selaras dengan prinsip Triad Pertumbuhan Simbiotik.
 * **Konklusi (*an-Natijah*)**: Maka, Domain 04: Salimul Aqidah adalah cetak biru pembinaan karakter aqidah yang paripurna dan siap menjadi fondasi bagi 9 domain karakter berikutnya.[^12]
 
-#### 🥊 Ronde 1: Kesiapan Transisi ke Karakter 2: Shahihul Ibadah (Domain 05)
+#### 1. Diskursus Dialektika Kritis: Kesiapan Transisi ke Karakter 2: Shahihul Ibadah (Domain 05)
 * **Pihak A (Sudut Pandang Pembinaan Terisolasi)**:  
   *"Karakter Salimul Aqidah harus selesai 100% tuntas dulu baru boleh mulai mengajarkan Karakter Shahihul Ibadah!"*
 * **Tinjauan Hubungan Simbiotik Aqidah dan Ibadah**:  
   Aqidah adalah akar pohon, sedangkan ibadah adalah batang dan cabangnya. Menuntaskan kodifikasi Domain 04 membuka pintu gerbang emas bagi **Domain 05: Shahihul Ibadah**. Santri yang telah memiliki *Salimul Aqidah* (sadar Muraqabatullah dan bebas khurafat) akan menjalankan ibadah shalat dan thaharah dengan penuh kekhusyukan, bukan sebagai beban mekanis. Domain 04 menjadi fondasi kokoh bagi seluruh arsitektur 10 Karakter TUMBUH.[^13]
 
-#### 🥊 Ronde 2: Jaminan Perlindungan Musyrif dari Burnout (Triad Simbiotik)
+#### 2. Diskursus Dialektika Kritis: Jaminan Perlindungan Musyrif dari Burnout (Triad Simbiotik)
 * **Pihak A (Sudut Pandang Eksploitasi Tenaga Musyrif)**:  
   *"Dengan adanya 14 modul ini, musyrif harus bekerja 24 jam penuh tanpa libur untuk mengawasi seluruh santri!"*
 * **Tinjauan Proteksi Anti-Burnout Sistem Lembaga**:  
   TUMBUH menegakkan prinsip **Triad Pertumbuhan**: Musyrif tidak dieksploitasi, melainkan diberdayakan dengan instrumen ergonomis fast-logging (<10 detik), jadwal shift sehat (istirahat 7 jam tidur), dan sesi recharge spiritual mingguan bersama Kiai. Ketika musyrif bahagia dan sehat mentalnya, santri diasuh dengan pancaran kasih sayang dan wibawa keteladanan yang sejati.[^14]
 
-#### 🥊 Ronde 3: Akuntabilitas Lembaga dan Jaminan Zero-Violence
+#### 3. Diskursus Dialektika Kritis: Akuntabilitas Lembaga dan Jaminan Zero-Violence
 * **Pihak A (Sudut Pandang Kebiasaan Takzir Tradisional)**:  
   *"Apakah sistem ini benar-benar menjamin tidak ada santri yang dipukul atau dibentak di asrama?"*
 * **Resolusi Audit Zero-Violence & Perlindungan Santri**:  
@@ -222,9 +222,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Paripurna
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Validasi Paripurna
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Pengesahan Akreditasi Kelayakan Karakter)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Pengesahan Akreditasi Kelayakan Karakter)
 Pertarungan filosofis-institusional terdalam bermuara pada keputusan: **"Apakah Dewan Keilmuan TUMBUH berhak mengesahkan Domain 04: Salimul Aqidah berstatus 🌟 A+ (Tervalidasi Paripurna) dan merekomendasikannya untuk diterapkan di seluruh jaringan pesantren mitra?"**
 
 * **Pendekatan Lama (Keraguan Birokrasi Tak Berujung)**:  
@@ -273,7 +273,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

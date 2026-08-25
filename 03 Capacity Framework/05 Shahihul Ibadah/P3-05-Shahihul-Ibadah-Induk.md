@@ -14,20 +14,20 @@
 >   Banyak santri menjalankan shalat sekadar untuk menggugurkan kewajiban administratif dan menghindari sanksi musyrif. Praktik ibadah terpisah dari pembentukan karakter moral, wudhu dilakukan dengan pemborosan air, shalat dilakukan kilat tanpa thuma'ninah, dan sepulang dari masjid santri kembali melakukan pelanggaran adab di asrama.
 > * **Doktrin Induk Shahihul Ibadah TUMBUH: Transformasi Holistik 24 Jam:**  
 >   TUMBUH merumuskan doktrin induk: *"Kapasitas ketaatan santri dalam menjalankan seluruh rangkaian ibadah mahdhah secara presisi memenuhi syarat dan rukun syariat sesuai Sunnah Rasulullah ﷺ, yang dilaksanakan dengan thuma'ninah, khusyuk, kendali perhatian penuh (Attentional Regulation), serta melahirkan kedisiplinan hidup pribadi dan ketenteraman sosial melintasi Tangga Kemandirian J1 hingga J4"*.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf Induk ini mengintegrasikan seluruh 14 sub-modul riset (Filosofi, Definisi, Target, Nilai Inti, SKL, Manifestasi Perilaku, BARS 4-Level, Tangga J1–J4, Triangulasi 360°, PBIS Multi-Tier, 4 Program Unggulan, Direct Instruction, Toolkits Saku, dan Meta-Sintesis Delphi), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan piagam kebijakan operasional pesantren 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA DOKTRIN INDUK](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-doktrin-induk)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Krisis Ibadah Formalistik vs Visi Ekosistem Ibadah Transformatif](#1-latar-belakang-masalah-krisis-ibadah-formalistik-vs-visi-ekosistem-ibadah-transformatif)
-  - [2. Inkuiri 1: Eksegesis Turats Fondasi Induk Shahihul Ibadah (QS. Al-An'am: 162 & Madarijus Salikin)](#2-inkuiri-1-eksegesis-turats-fondasi-induk-shahihul-ibadah-qs-al-anam-162--madarijus-salikin)
-  - [3. Inkuiri 2: Sintesis Multidisipliner Induk (Fiqh, CASEL Self-Management, Attentional Control, & PBIS)](#3-inkuiri-2-sintesis-multidisipliner-induk-fiqh-casel-self-management-attentional-control--pbis)
-  - [4. Inkuiri 3: Arsitektur Ekosistem Pembiasaan Ibadah Asrama 24 Jam (4 Lokus & 4 Program Unggulan)](#4-inkuiri-3-arsitektur-ekosistem-pembiasaan-ibadah-asrama-24-jam-4-lokus--4-program-unggulan)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Doktrin Induk](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-doktrin-induk)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Fondasi Induk Shahihul Ibadah (QS. Al-An'am: 162 & Madarijus Salikin)](#2eksegesis-turats-fondasi-induk-shahihul-ibadah-qs-al-anam-162-madarijus-salikin)
+  - [3. Sintesis Multidisipliner Induk (Fiqh, CASEL Self-Management, Attentional Control, & PBIS)](#3sintesis-multidisipliner-induk-fiqh-casel-self-management-attentional-control-pbis)
+  - [4. Arsitektur Ekosistem Pembiasaan Ibadah Asrama 24 Jam (4 Lokus & 4 Program Unggulan)](#4arsitektur-ekosistem-pembiasaan-ibadah-asrama-24-jam-4-lokus-4-program-unggulan)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Doktrin Induk](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-doktrin-induk)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Master Doktrin Kapasitas Karakter 2: Shahihul Ibadah (Empat Dimensi Kapasitas)](#1-arsitektur-master-doktrin-kapasitas-karakter-2-shahihul-ibadah-empat-dimensi-kapasitas)
   - [2. Matriks Komprehensif Rubrik Capaian Berjenjang Tangga J1–J4 (4 Level)](#2-matriks-komprehensif-rubrik-capaian-berjenjang-tangga-j1j4-4-level)
   - [3. Protokol Kebijakan Lembaga & Standar Operasional Asrama PBIS 24 Jam](#3-protokol-kebijakan-lembaga--standar-operasional-asrama-pbis-24-jam)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Fondasi Induk Shahihul Ibadah (QS. Al-An'am: 162 & Madarijus Salikin)
+### 2. Eksegesis Turats Fondasi Induk Shahihul Ibadah (QS. Al-An'am: 162 & Madarijus Salikin)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{حَقِيقَةُ الْعُبُودِيَّةِ تَنْتَظِمُ �
 
 *"**Hakikat ibadah (*Haqiqatul 'Ubudiyyah*) tersusun dari dua prinsip agung: Kesempurnaan Cinta (*Kamalul Hubb*) yang menyatu dengan Kesempurnaan Ketundukan (*Kamaludz Dzull wal-Khudhu'*); dan hal itu tidak akan pernah sah melainkan dengan Memurnikan Tauhid hanya untuk Allah, dan Memurnikan Ketaatan (*Ittiba'*) hanya kepada Rasulullah ﷺ**; maka amalan yang tidak ikhlas adalah debu yang berterbangan, dan amalan yang tidak ada tuntunannya dari Nabi ﷺ adalah tertolak atas pelakunya."*[^4]
 
-#### 🥊 Ronde 1: Tauhid Ibadah Murni: Memurnikan Niat dari Syirik Khafiy
+#### 1. Diskursus Dialektika Kritis: Tauhid Ibadah Murni: Memurnikan Niat dari Syirik Khafiy
 * **Pihak A (Sudut Pandang Ibadah Boleh Demi Mendapat Pujian Prestasi)**:  
   *"Wajar kalau santri shalat rajin agar dinobatkan sebagai santri teladan; tidak perlu terlalu keras menuntut keikhlasan murni!"*
 * **Tinjauan Fiqh Ikhlas & Perlindungan dari Riya'**:  
   Membiarkan santri beribadah demi status sosial merusak tauhid batiniah anak (*Asy-Syirk al-Khafiy*). Kurikulum TUMBUH membimbing santri melalui **Tarbiyah Niat Mandiri**: penghargaan PBIS diberikan sebagai apresiasi atas proses usaha (*Effort Recognition*), sembari menanamkan secara mendalam bahwa tujuan hakiki shalat adalah meraih ridha Allah dan keselamatan akhirat. Santri beribadah dengan hati yang bersih.[^5]
 
-#### 🥊 Ronde 2: Ittiba'us Sunnah Sebagai Syarat Mutlak Penerimaan Amal
+#### 2. Diskursus Dialektika Kritis: Ittiba'us Sunnah Sebagai Syarat Mutlak Penerimaan Amal
 * **Pihak A (Sudut Pandang Menoleransi Inovasi Ibadah yang Tidak Ada Dalilnya)**:  
   *"Kalau santri menciptakan gerakan shalat baru atau menambah jumlah rakaat sendiri karena semangat, biarkan saja itu tanda kreativitas!"*
 * **Tinjauan Kaidah Al-Ashlu fil 'Ibadati al-Hazhr wal-Ittiba'**:  
   Ibadah mahdhah bersifat *Tauqifiyyah* (terikat ketetapan wahyu). Berkreasi dalam gerakan shalat adalah bid'ah terlarang (*Man 'Amila 'Amalan Laisa 'Alaihi Amruna fa Huwa Raddun* - HR. Muslim No. 1718). TUMBUH menjaga **Kemurnian Sunnah Nabawiyyah**: seluruh tata cara wudhu, shalat fardhu, dan amalan nawafil mengacu murni pada hadits-hadits shahih dan kaidah fiqh mu'tabar. Keabsahan ibadah terjamin.[^6]
 
-#### 🥊 Ronde 3: Kelezatan Ibadah Sepanjang Hayat (Halawatul 'Ibadah)
+#### 3. Diskursus Dialektika Kritis: Kelezatan Ibadah Sepanjang Hayat (Halawatul 'Ibadah)
 * **Pihak A (Sudut Pandang Ibadah Adalah Penderitaan yang Wajib Dijalani)**:  
   *"Ibadah itu memang pahit dan menyiksa; santri tidak mungkin bisa merasakan senang saat shalat!"*
 * **Resolusi Konsep Halawatul Iman (Ibnul Qayyim & Al-Ghazali)**:  
@@ -113,7 +113,7 @@ $$\text{حَقِيقَةُ الْعُبُودِيَّةِ تَنْتَظِمُ �
 
 ---
 
-### 3. Inkuiri 2: Sintesis Multidisipliner Induk (Fiqh, CASEL Self-Management, Attentional Control, & PBIS)
+### 3. Sintesis Multidisipliner Induk (Fiqh, CASEL Self-Management, Attentional Control, & PBIS)
 
 ```mermaid
 graph TD
@@ -149,19 +149,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Self-Management & Inhibitory Control: Kunci Ketepatan Shalat Fajar
+#### 1. Diskursus Dialektika Kritis: Self-Management & Inhibitory Control: Kunci Ketepatan Shalat Fajar
 * **Pihak A (Sudut Pandang Menolak Pendekatan Regulasi Diri)**:  
   *"Santri tidak butuh diajari self-management; kalau tidur malam suruh tidur saja, tidak usah diajari kontrol impuls!"*
 * **Tinjauan CASEL Self-Management & Neurosains Prefrontal Cortex**:  
   Bangun fajar pukul 04.00 menuntut kapasitas kendali impuls (*Inhibitory Control*) yang tinggi untuk melawan rasa kantuk dan tarikan selimut. Pembinaan TUMBUH melatih fungsi eksekutif santri: membatasi penggunaan gadget malam hari, menata jam tidur teratur, dan membiasakan respon refleks segera berwudhu saat mendengar adzan. Regulasi diri santri terbangun kokoh.[^9]
 
-#### 🥊 Ronde 2: Rubrik BARS 4-Level & Triangulasi Asesmen 360 Derajat
+#### 2. Diskursus Dialektika Kritis: Rubrik BARS 4-Level & Triangulasi Asesmen 360 Derajat
 * **Pihak A (Sudut Pandang Cukup Nilai Perasaan Guru)**:  
   *"Nilai ibadah santri cukup dinilai berdasarkan firasat batin guru yang sudah kasyaf!"*
 * **Tinjauan Objektivitas Psikometri Modern**:  
   Mengandalkan "firasat" membuka pintu kezaliman penilaian dan fitnah. TUMBUH menerapkan **Rubrik BARS 4-Level Berlabuh Perilaku Nyata** yang diverifikasi melalui **Triangulasi 360 Derajat**: mengombinasikan data observasi musyrif (35%), ujian praktik fiqh OSCE (30%), mutaba'ah reflektif santri (20%), dan konfirmasi teman sekamar (15%). Rapor santri memiliki validitas data mutlak.[^10]
 
-#### 🥊 Ronde 3: Disiplin Positif Firm & Kind: Menghapus Warisan Feodalisme
+#### 3. Diskursus Dialektika Kritis: Disiplin Positif Firm & Kind: Menghapus Warisan Feodalisme
 * **Pihak A (Sudut Pandang Pesantren Harus Keras dan Menakutkan)**:  
   *"Kalau pesantren tidak keras dan menakutkan, santri akan manja dan tidak tahan banting!"*
 * **Resolusi Firm & Kind Framework**:  
@@ -169,7 +169,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Arsitektur Ekosistem Pembiasaan Ibadah Asrama 24 Jam (4 Lokus & 4 Program Unggulan)
+### 4. Arsitektur Ekosistem Pembiasaan Ibadah Asrama 24 Jam (4 Lokus & 4 Program Unggulan)
 
 ```mermaid
 flowchart TD
@@ -198,19 +198,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Naskah Induk Shahihul Ibadah TUMBUH memetakan seluruh aktivitas santri dari bangun fajar hingga tidur malam ke dalam matriks ekosistem pembiasaan terpadu.
 * **Konklusi (*an-Natijah*)**: Maka, seluruh warga pesantren TUMBUH hidup dalam lingkungan Bi'ah Shalihah yang menjaga dan menyuburkan fitrah ibadah sepanjang waktu.[^12]
 
-#### 🥊 Ronde 1: The 10-Minute Call Bebas Ketergesaan (No-Rush Protocol)
+#### 1. Diskursus Dialektika Kritis: The 10-Minute Call Bebas Ketergesaan (No-Rush Protocol)
 * **Pihak A (Sudut Pandang Menolak Aturan 10 Menit Sebelum Adzan)**:  
   *"Santri biarkan berangkat ke masjid pas adzan berkumandang; tidak perlu ada panggilan 10 menit sebelumnya!"*
 * **Tinjauan Pencegahan Keterlambatan Massal & Ketenangan Jiwa**:  
   Berangkat pas adzan berkumandang menyebabkan penumpukan antrean wudhu dan shalat dalam keadaan terengah-engah. Melalui **The 10-Minute Call**: Santri telah selesai wudhu dan berjalan tenang menuju masjid 10 menit sebelum adzan. Santri mendirikan shalat Tahiyyatul Masjid, membaca doa antara adzan dan iqamah, dan mengisi saf terdepan dengan khusyu'. Suasana masjid menjadi hening dan penuh wibawa.[^13]
 
-#### 🥊 Ronde 2: Halaqah ODOJ Berbasis Time-Blocking Shalat 5 Waktu
+#### 2. Diskursus Dialektika Kritis: Halaqah ODOJ Berbasis Time-Blocking Shalat 5 Waktu
 * **Pihak A (Sudut Pandang Target Khatam Al-Qur'an Diserahkan Bebas)**:  
   *"Tidak perlu ada target 1 juz per hari, yang penting santri mengaji semaunya saja!"*
 * **Tinjauan Pembiasaan Disiplin Interaksi dengan Al-Qur'an**:  
   Membiarkan santri tanpa target melahirkan fenomena berhari-hari tidak menyentuh Al-Qur'an. Formula **Time-Blocking ODOJ (2 Lembar Ba'da Setiap Shalat Fardhu)**: menjadikan tilawah 1 juz sebagai rutinitas ringan yang tuntas setiap hari. Santri mengkhatamkan Al-Qur'an 30 juz setiap bulan dengan tajwid yang fasih dan hati yang bercahaya.[^14]
 
-#### 🥊 Ronde 3: Kaderisasi Imam & Muadzin Muda Menuju Kemandirian J4
+#### 3. Diskursus Dialektika Kritis: Kaderisasi Imam & Muadzin Muda Menuju Kemandirian J4
 * **Pihak A (Sudut Pandang Santri Cukup Menjadi Makmum Selamanya)**:  
   *"Tugas santri di pondok itu cuma jadi makmum; urusan jadi imam nanti saja kalau sudah tua!"*
 * **Resolusi Visi Kaderisasi Pemimpin Peradaban Umat**:  
@@ -218,9 +218,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Doktrin Induk
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Doktrin Induk
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Transformasi Santri Paling Bermasalah Menjadi Muadzin Berprestasi)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Transformasi Santri Paling Bermasalah Menjadi Muadzin Berprestasi)
 Pertarungan filosofis-pedagogis terdalam bermuara pada kasus nyata: **"Bagaimana ekosistem TUMBUH menangani Santri B (kelas 9) yang memiliki catatan 45 kali masbuq shalat Shubuh dalam 1 semester, sering sembunyi di kamar mandi, dan telah divonis oleh pengurus lama sebagai 'santri gagal yang tidak ada harapan', namun setelah diterapkan Protokol PBIS Multi-Tier bertransformasi menjadi Juara 1 Lomba Adzan dan Muadzin Utama Masjid Pesantren?"**
 
 * **Kronologi Penanganan Berbasis Doktrin TUMBUH**:  
@@ -268,7 +268,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

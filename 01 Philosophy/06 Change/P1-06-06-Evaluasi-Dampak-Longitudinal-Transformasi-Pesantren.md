@@ -97,8 +97,8 @@ TUMBUH menegaskan etika data syariat:
 ### 5. Kasuistika Lapangan: Kasus Perubahan Karakter Santri Multi-Tahun & Resolusi Restoratif Terpadu
 
 * **Studi Kasus: Pelacakan Trajektori Santri yang Awalnya Agresif Menjadi Duta Adab Penggerak**  
-  * **Dilema**: Santri kelas 7 masuk dengan riwayat sering memukul teman di SD; sistem konvensional biasanya langsung mengeluarkannya di bulan ke-3.
-  * **Intervensi Longitudinal TUMBUH**: Lembaga mendampingi dengan protokol TFI Multi-Tier: (1) Tahun 1: Intervensi Tier 2 CICO coaching harian; (2) Tahun 2: Santri mulai stabil emosinya dan dilatih menjadi tutor sebaya; (3) Tahun 3: Santri bertransformasi penuh menjadi Ketua Dewan Duta Adab (*Khadim ath-Thullab*) yang mengayomi adik kelas. Riset longitudinal membuktikan bahwa dengan pendampingan sistemik yang sabar, potensi fitrah setiap anak dapat diselamatkan dan mekar secara gemilang.[^6]
+  * **Dilema**: Santri fase adaptasi awal asrama masuk dengan riwayat sering memukul kawan di lingkungan sebelumnya; sistem konvensional biasanya langsung mengeluarkannya di bulan ke-3.
+  * **Intervensi Longitudinal TUMBUH**: Lembaga mendampingi dengan protokol TFI Multi-Tier: (1) Tahun 1: Intervensi Tier 2 CICO coaching harian; (2) Tahun 2: Santri mulai stabil emosinya dan dilatih menjadi tutor sebaya; (3) Tahun 3: Santri bertransformasi penuh menjadi Ketua Dewan Duta Adab (*Khadim ath-Thullab*) yang mengayomi sesama santri. Riset longitudinal membuktikan bahwa dengan pendampingan sistemik yang sabar, potensi fitrah setiap anak dapat diselamatkan dan mekar secara gemilang.[^6]
 
 ---
 

@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA KESIAPAN GLOBAL](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-kesiapan-global)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Dikotomi "Tradisional Terisolasi" vs "Modern Terasing dari Agama"](#1-latar-belakang-masalah-bahaya-dikotomi-tradisional-terisolasi-vs-modern-terasing-dari-agama)
-  - [2. Inkuiri 1: Eksegesis Turats Risalah Peradaban (QS. Al-Baqarah: 143) & Konsep Syuhada 'Alan Nas](#2-inkuiri-1-eksegesis-turats-risalah-peradaban-qs-al-baqarah-143--konsep-syuhada-alan-nas)
-  - [3. Inkuiri 2: Sintesis Kerangka Kerja 21st Century Skills (WEF/P21) & Maqashid Syari'ah](#3-inkuiri-2-sintesis-kerangka-kerja-21st-century-skills-wefp21--maqashid-syariah)
-  - [4. Inkuiri 3: Literasi Digital Syar'i (Digital Wisdom) & Mitigasi Krisis Dekadensi Era Algoritma](#4-inkuiri-3-literasi-digital-syari-digital-wisdom--mitigasi-krisis-dekadensi-era-algoritma)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Risalah Peradaban (QS. Al-Baqarah: 143) & Konsep Syuhada 'Alan Nas](#2eksegesis-turats-risalah-peradaban-qs-al-baqarah-143-konsep-syuhada-alan-nas)
+  - [3. Sintesis Kerangka Kerja 21st Century Skills (WEF/P21) & Maqashid Syari'ah](#3sintesis-kerangka-kerja-21st-century-skills-wefp21-maqashid-syariah)
+  - [4. Literasi Digital Syar'i (Digital Wisdom) & Mitigasi Krisis Dekadensi Era Algoritma](#4literasi-digital-syari-digital-wisdom-mitigasi-krisis-dekadensi-era-algoritma)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Profil 4 Dimensi Kesiapan Global Alumni Pesantren TUMBUH](#1-formulasi-konseptual-profil-4-dimensi-kesiapan-global-alumni-pesantren-tumbuh)
   - [2. Matriks Kompetensi Abad 21 Terintegrasi 10 Karakter Muwashafat](#2-matriks-kompetensi-abad-21-terintegrasi-10-karakter-muwashafat)
   - [3. Peta Jalan Kurikulum Penguatan Kesiapan Global di Asrama Jenjang J3 & T4](#3-peta-jalan-kurikulum-penguatan-kesiapan-global-di-asrama-tangga-t3--t4)
@@ -68,7 +68,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Risalah Peradaban (QS. Al-Baqarah: 143) & Konsep Syuhada 'Alan Nas
+### 2. Eksegesis Turats Risalah Peradaban (QS. Al-Baqarah: 143) & Konsep Syuhada 'Alan Nas
 
 ```mermaid
 graph TD
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Sintesis Kerangka Kerja 21st Century Skills (WEF/P21) & Maqashid Syari'ah
+### 3. Sintesis Kerangka Kerja 21st Century Skills (WEF/P21) & Maqashid Syari'ah
 
 *World Economic Forum (WEF)* dalam laporan *Future of Jobs* menegaskan 10 keterampilan utama abad 21: *Complex Problem Solving, Critical Thinking, Creativity, People Management, Coordinating with Others, Emotional Intelligence, Judgment & Decision Making, Service Orientation, Negotiation,* dan *Cognitive Flexibility*.
 * Dalam ekosistem TUMBUH, seluruh keterampilan ini diselaraskan dengan **Maqashid Syari'ah**:
@@ -97,7 +97,7 @@ graph TD
 
 ---
 
-### 4. Inkuiri 3: Literasi Digital Syar'i (*Digital Wisdom*) & Mitigasi Krisis Dekadensi Era Algoritma
+### 4. Literasi Digital Syar'i (*Digital Wisdom*) & Mitigasi Krisis Dekadensi Era Algoritma
 
 ```mermaid
 flowchart TD
@@ -116,21 +116,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Bahasa Asing Modern Merusak Kemurnian Bahasa Kitab"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Bahasa Asing Modern Merusak Kemurnian Bahasa Kitab"
 * **Pihak A (Sudut Pandang Purisme Bahasa)**:  
   *"Santri hanya boleh belajar Bahasa Arab; belajar Bahasa Inggris akan melunturkan kecintaan pada ilmu agama!"*
 * **Tinjauan Sunnah Nabawiyyah & Teladan Zaid bin Tsabit RA**:  
   Rasulullah SAW secara khusus memerintahkan sahabat mulia **Zaid bin Tsabit RA** untuk mempelajari bahasa asing (Bahasa Ibrani dan Suryani) demi keperluan diplomasi dakwah dan korespondensi internasional. Menguasai bahasa internasional adalah senjata dakwah untuk menyampaikan keindahan Islam ke seluruh penjuru dunia.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Keterampilan Bisnis/Vokasional Tidak Mengurangi Kezuhudan Santri?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Keterampilan Bisnis/Vokasional Tidak Mengurangi Kezuhudan Santri?
 * **Pihak A (Sudut Pandang Asketisme Pasif)**:  
   *"Alumni pesantren seharusnya hanya menjadi imam masjid dan guru ngaji; mengajarkan wirausaha (*Qadirun Alal Kasb*) membuat santri cinta dunia (*Hubbud Dunya*)!"*
 * **Tinjauan Teladan Sahabat & Kemandirian Ekonomi Umat**:  
   Sahabat-sahabat agung yang dijamin masuk surga seperti **Abdurrahman bin 'Auf RA** dan **Utsman bin 'Affan RA** adalah konglomerat wirausahawan papan atas yang mendanai dakwah Islam dengan kekayaannya. Kemandirian ekonomi alumni pesantren melindungi integritas fatwa dan dakwah dari intervensi pemodal jahat (*Izzatul Mukmin*).[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Alumni Wajib Memiliki Resiliensi Mental Tinggi?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Alumni Wajib Memiliki Resiliensi Mental Tinggi?
 * **Pihak A (Sudut Pandang Inkubator Steril)**:  
   *"Santri di pondok selalu terlindung aman; mereka tidak butuh latihan resiliensi menghadapi tekanan dunia luar!"*
 * **Resolusi Psikologi Perkembangan & Transisi Kehidupan**:  
@@ -142,7 +142,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

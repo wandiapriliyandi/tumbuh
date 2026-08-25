@@ -21,13 +21,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA VALIDASI PSIKOMETRIK](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-validasi-psikometrik)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Krisis Validitas & Reliabilitas dalam Penilaian Akhlak Pesantren](#1-latar-belakang-masalah-krisis-validitas--reliabilitas-dalam-penilaian-akhlak-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Kaidah Al-Mizan (QS. Ar-Rahman: 7-9) & Presisi Pengukuran Syar'i](#2-inkuiri-1-eksegesis-turats-kaidah-al-mizan-qs-ar-rahman-7-9--presisi-pengukuran-syari)
-  - [3. Inkuiri 2: Teori Validitas Isi Aiken's V & Protokol Panel Expert Judgment (Masyayikh & Psikolog)](#3-inkuiri-2-teori-validitas-isi-aikens-v--protokol-panel-expert-judgment-masyayikh--psikolog)
-  - [4. Inkuiri 3: Teori Kesepakatan Antar-Penilai Cohen's Kappa & Kalibrasi Persepsi Musyrif](#4-inkuiri-3-teori-kesepakatan-antar-penilai-cohens-kappa--kalibrasi-persepsi-musyrif)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kaidah Al-Mizan (QS. Ar-Rahman: 7-9) & Presisi Pengukuran Syar'i](#2eksegesis-turats-kaidah-al-mizan-qs-ar-rahman-7-9-presisi-pengukuran-syari)
+  - [3. Teori Validitas Isi Aiken's V & Protokol Panel Expert Judgment (Masyayikh & Psikolog)](#3teori-validitas-isi-aikens-v-protokol-panel-expert-judgment-masyayikh-psikolog)
+  - [4. Teori Kesepakatan Antar-Penilai Cohen's Kappa & Kalibrasi Persepsi Musyrif](#4teori-kesepakatan-antar-penilai-cohens-kappa-kalibrasi-persepsi-musyrif)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Formula Matematis Aiken's V dan Fleiss' Kappa untuk Rubrik PBIS](#1-formulasi-konseptual-formula-matematis-aikens-v-dan-fleiss-kappa-untuk-rubrik-pbis)
   - [2. Matriks Hasil Uji Validitas Isi Panel Pakar (Aiken's V) pada 10 Karakter Muwashafat](#2-matriks-hasil-uji-validitas-isi-panel-pakar-aikens-v-pada-10-karakter-muwashafat)
   - [3. Standar Operasional Prosedur (SOP) Kalibrasi Antar-Penilai & Uji Kappa Musyrif Tiap Semester](#3-standar-operasional-prosedur-sop-kalibrasi-antar-penilai--uji-kappa-musyrif-tiap-semester)
@@ -68,7 +68,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kaidah Al-Mizan (QS. Ar-Rahman: 7-9) & Presisi Pengukuran Syar'i
+### 2. Eksegesis Turats Kaidah Al-Mizan (QS. Ar-Rahman: 7-9) & Presisi Pengukuran Syar'i
 
 ```mermaid
 graph TD
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Validitas Isi Aiken's V & Protokol Panel Expert Judgment (Masyayikh & Psikolog)
+### 3. Teori Validitas Isi Aiken's V & Protokol Panel Expert Judgment (Masyayikh & Psikolog)
 
 Lewis R. Aiken (1985) merumuskan formula statistik untuk mengukur validitas isi butir instrumen berdasarkan penilaian panel ahli (*Expert Judgment*):
 
@@ -97,7 +97,7 @@ $$V = \frac{\sum s}{n(c - 1)}$$
 
 ---
 
-### 4. Inkuiri 3: Teori Kesepakatan Antar-Penilai Cohen's Kappa & Kalibrasi Persepsi Musyrif
+### 4. Teori Kesepakatan Antar-Penilai Cohen's Kappa & Kalibrasi Persepsi Musyrif
 
 Jacob Cohen (1960) merumuskan koefisien kesepakatan antar-penilai (*Inter-Rater Reliability - $\kappa$*):
 
@@ -111,21 +111,21 @@ $$\kappa = \frac{P_o - P_e}{1 - P_e}$$
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Musyrif Senior Otomatis Memiliki Reliabilitas Tinggi Tanpa Kalibrasi"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Musyrif Senior Otomatis Memiliki Reliabilitas Tinggi Tanpa Kalibrasi"
 * **Pihak A (Sudut Pandang Senioritas Musyrif)**:  
   *"Saya sudah mengasuh santri selama 15 tahun; saya tidak butuh ujian kalibrasi Kappa untuk membuktikan penilaian saya!"*
 * **Tinjauan Psikologi Kognitif & Blind Spots Pengasuhan**:  
   Riset empiris membuktikan bahwa musyrif senior justru rentan terhadap **Bias Kebiasaan (*Habituation Bias*)** dan *Confirmation Bias*. Melalui sesi kalibrasi video studi kasus 2 semester sekali, persepsi seluruh musyrif (senior dan junior) diselaraskan sehingga standar keadilan di asrama tetap terjaga murni.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Formula Matematika Tidak Menghilangkan Sentuhan Kasih Sayang?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Formula Matematika Tidak Menghilangkan Sentuhan Kasih Sayang?
 * **Pihak A (Sudut Pandang Sentimentalitas)**:  
   *"Pengasuhan asrama itu penuh kasih sayang; jika dinilai dengan rumus angka Kappa, pesantren menjadi kering seperti pabrik!"*
 * **Tinjauan Relasi Kasih Sayang & Keadilan**:  
   Kasih sayang tanpa keadilan melahirkan pilih kasih (*Nepotisme / Favoritisme*). Ketika seorang musyrif membela santri tertentu karena rasa suka subjektif sementara santri lain dihukum keras untuk kesalahan yang sama, kasih sayang tersebut telah berubah menjadi kezaliman. Rumus psikometri melindungi seluruh santri agar mendapatkan kasih sayang yang adil dan merata.[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Panel Ahli Wajib Memadukan Masyayikh & Psikolog?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Panel Ahli Wajib Memadukan Masyayikh & Psikolog?
 * **Pihak A (Sudut Pandang Eksklusivitas Disiplin)**:  
   *"Cukup Masyayikh saja yang menguji dalil; psikolog tidak paham urusan ruhaniyah pesantren!"*
 * **Resolusi Integrasi Sains & Turats**:  
@@ -137,7 +137,7 @@ $$\kappa = \frac{P_o - P_e}{1 - P_e}$$
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

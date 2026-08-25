@@ -14,20 +14,20 @@
 >   Metode pengajaran fiqh ibadah di banyak madrasah terjebak pada ceramah satu arah (*Chalk-and-Talk*): ustadz membacakan kitab di depan papan tulis, sementara santri pasif mendengarkan tanpa pernah mempraktikkan gerakan ruku' dan sujud secara langsung dengan pengawasan klinis. Akibatnya, santri tahu syarat sah shalat di atas kertas, namun tubuhnya kaku dan salah posisi saat shalat nyata.
 > * **Inovasi Empat Metode Pedagogis Terpadu TUMBUH:**  
 >   TUMBUH memadukan Sunnah Nabawiyyah dengan sains instruksional modern: **1. Talaqqi & Demonstrasi Presisi (Worked Example & Direct Instruction: I-Do, We-Do, You-Do); 2. Koreksi Halus Seketika (Immediate Gentle In-Situ Feedback); 3. Habit Stacking Syar'i (Cue ➔ Routine ➔ Reward); 4. Keteladanan Saf Pertama (Qudwah Hasanah Musyrif 100%)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah hadits agung *Shallū kamā ra'aitumūnī ushallī* (HR. Al-Bukhari No. 631), menyintesiskan *Cognitive Load Theory* John Sweller (2011) dan *Motor Learning Feedback*, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan protokol etika koreksi shalat seketika di masjid.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA METODE PEDAGOGI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-metode-pedagogi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Kegagalan Metode Ceramah Pasif dalam Membentuk Keterampilan Kinestetik](#1-latar-belakang-masalah-kegagalan-metode-ceramah-pasif-dalam-membentuk-keterampilan-kinestetik)
-  - [2. Inkuiri 1: Eksegesis Turats Pedagogi Kenabian: Demonstrasi Mimbar & Keteladanan (HR. Al-Bukhari & Ibnu Hajar)](#2-inkuiri-1-eksegesis-turats-pedagogi-kenabian-demonstrasi-mimbar--keteladanan-hr-al-bukhari--ibnu-hajar)
-  - [3. Inkuiri 2: Sintesis Direct Instruction Engelmann, Cognitive Load Theory Sweller, & Motor Learning](#3-inkuiri-2-sintesis-direct-instruction-engelmann-cognitive-load-theory-sweller--motor-learning)
-  - [4. Inkuiri 3: Empat Metode Pedagogi Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam](#4-inkuiri-3-empat-metode-pedagogi-baku-shahihul-ibadah-dalam-keseharian-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Metode Pedagogi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-metode-pedagogi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Pedagogi Kenabian: Demonstrasi Mimbar & Keteladanan (HR. Al-Bukhari & Ibnu Hajar)](#2eksegesis-turats-pedagogi-kenabian-demonstrasi-mimbar-keteladanan-hr-al-bukhari-ibnu-hajar)
+  - [3. Sintesis Direct Instruction Engelmann, Cognitive Load Theory Sweller, & Motor Learning](#3sintesis-direct-instruction-engelmann-cognitive-load-theory-sweller-motor-learning)
+  - [4. Empat Metode Pedagogi Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam](#4empat-metode-pedagogi-baku-shahihul-ibadah-dalam-keseharian-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Metode Pedagogi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-metode-pedagogi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Empat Metode Pedagogis Baku Shahihul Ibadah TUMBUH](#1-arsitektur-empat-metode-pedagogis-baku-shahihul-ibadah-tumbuh)
   - [2. Matriks Langkah Didaktik Pengajaran Fiqh Shalat Model Direct Instruction (I-Do, We-Do, You-Do)](#2-matriks-langkah-didaktik-pengajaran-fiqh-shalat-model-direct-instruction-i-do-we-do-you-do)
   - [3. Protokol Etika Koreksi Gerakan Shalat Seketika (Gentle In-Situ Correction Protocol)](#3-protokol-etika-koreksi-gerakan-shalat-seketika-gentle-in-situ-correction-protocol)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Pedagogi Kenabian: Demonstrasi Mimbar & Keteladanan (HR. Al-Bukhari & Ibnu Hajar)
+### 2. Eksegesis Turats Pedagogi Kenabian: Demonstrasi Mimbar & Keteladanan (HR. Al-Bukhari & Ibnu Hajar)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{فِيهِ دَلِيلٌ عَلَى أَنَّ التَّعْلِيمَ
 
 *"**Hadits ini merupakan dalil tegas bahwa pengajaran dengan perbuatan nyata dan penyaksian mata (*Al-Fi'l wal-Musyahadah*) jauh lebih efektif, mendalam, dan membekas kuat dalam jiwa dibanding pengajaran dengan ucapan teori semata (*Al-Qaul al-Mujarrad*)**; dan di dalamnya terdapat anjuran bagi guru untuk berada di tempat yang terlihat jelas oleh seluruh murid saat melatihkan praktik ibadah."*[^4]
 
-#### 🥊 Ronde 1: Demonstrasi Mimbar: Dari Teori Abstrak Menuju Teladan Visual
+#### 1. Diskursus Dialektika Kritis: Demonstrasi Mimbar: Dari Teori Abstrak Menuju Teladan Visual
 * **Pihak A (Sudut Pandang Cukup Santri Menghafal Teks Arab)**:  
   *"Santri cukup hafal matan Safinah bab Rukun Shalat; tidak perlu ustadz memperagakan gerakan di depan panggung!"*
 * **Tinjauan Fiqh Ta'lim Shalat & Sains Visual**:  
   Membaca teks tanpa melihat contoh memicu kesalahan persepsi fatal: santri mengira punggung ruku' harus membungkuk 45 derajat, padahal hadits menyatakan punggung Nabi SAW lurus rata bagaikan papan kayu jika ditaruh bejana air tidak akan tumpah (HR. Ibnu Majah No. 872). Demonstrasi panggung ustadz menyediakan **Model Mental Visual yang Sempurna (*Flawless Mental Model*)** bagi santri.[^5]
 
-#### 🥊 Ronde 2: Koreksi Seketika Tanpa Mempermalukan (Private In-Situ Feedback)
+#### 2. Diskursus Dialektika Kritis: Koreksi Seketika Tanpa Mempermalukan (Private In-Situ Feedback)
 * **Pihak A (Sudut Pandang Memarahi Santri di Depan Saf Agar Malu)**:  
   *"Kalau ada santri salah gerakan sujud, bentak langsung dengan suara keras di depan seluruh jamaah agar santri lain tidak meniru!"*
 * **Tinjauan Adab Tarbiyah Nabawiyyah & Perlindungan Kehormatan**:  
   Membentak santri di depan jamaah adalah bentuk penghinaan (*Tasyhir*) yang merusak fitrah anak. Rasulullah SAW ketika melihat sahabat Mu'awiyah bin al-Hakam berbicara dalam shalat, tidak memarahinya melainkan menasihatinya dengan lembut setelah shalat (HR. Muslim No. 537). Dalam sistem TUMBUH: Musyrif mendekati santri, memegang pundak atau tumitnya secara halus, dan meluruskannya dengan bisikan lembut. Kesalahan diperbaiki, martabat santri terlindungi.[^6]
 
-#### 🥊 Ronde 3: Qudwah Hasanah Guru: Hadir di Saf Pertama Sebelum Santri
+#### 3. Diskursus Dialektika Kritis: Qudwah Hasanah Guru: Hadir di Saf Pertama Sebelum Santri
 * **Pihak A (Sudut Pandang Guru Boleh Datang Telat Karena Sudah Senior)**:  
   *"Guru dan musyrif boleh datang ke masjid saat iqamah sudah berkumandang; yang wajib datang 10 menit lebih awal itu santri!"*
 * **Resolusi Prinsip Mutlak Qudwah Hasanah**:  
@@ -113,7 +113,7 @@ $$\text{فِيهِ دَلِيلٌ عَلَى أَنَّ التَّعْلِيمَ
 
 ---
 
-### 3. Inkuiri 2: Sintesis Direct Instruction Engelmann, Cognitive Load Theory Sweller, & Motor Learning
+### 3. Sintesis Direct Instruction Engelmann, Cognitive Load Theory Sweller, & Motor Learning
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Worked Examples & Pemodelan Presisi (I-Do, We-Do, You-Do)
+#### 1. Diskursus Dialektika Kritis: Worked Examples & Pemodelan Presisi (I-Do, We-Do, You-Do)
 * **Pihak A (Sudut Pandang Santri Langsung Disuruh Shalat Sendiri Tanpa Latihan)**:  
   *"Beri saja santri buku panduan shalat bergambar, lalu langsung suruh shalat maghrib sendiri!"*
 * **Tinjauan Efektivitas Direct Instruction (Engelmann)**:  
   Membiarkan pemula langsung shalat tanpa bimbingan terstruktur memicu penumpukan kesalahan gerakan yang kelak sulit diubah (*Error Solidification*). Metode *I-Do, We-Do, You-Do* memastikan santri melihat contoh sempurna (*I-Do*), mengoreksi kesalahan bersama pembina (*We-Do*), sebelum akhirnya tampil mandiri dengan akurasi 100% (*You-Do*). Tidak ada ruang bagi terbentuknya kebiasaan salah.[^9]
 
-#### 🥊 Ronde 2: Mengurangi Beban Kognitif Intrinsik Fiqh (Chunking Method)
+#### 2. Diskursus Dialektika Kritis: Mengurangi Beban Kognitif Intrinsik Fiqh (Chunking Method)
 * **Pihak A (Sudut Pandang Mengajarkan Seluruh Rukun dan Sunnah Sekaligus)**:  
   *"Dalam 1 hari ajarkan seluruh 13 rukun shalat, 20 sunnah ab'adh, dan 50 sunnah hai'at sekaligus kepada anak kelas 7!"*
 * **Tinjauan Cognitive Load Theory (John Sweller)**:  
   Membanjiri memori kerja santri dengan puluhan hukum fiqh sekaligus menyebabkan kemacetan kognitif (*Cognitive Overload*): santri lupa rukun pokok karena sibuk memikirkan sunnah hai'at. TUMBUH menerapkan metode **Chunking Berjenjang**: Hari 1 fokus mengunci Rukun Gerakan (Takbir, Ruku', I'tidal, Sujud); Hari 2 fokus mengunci Rukun Bacaan (Fatihah, Tasyahhud); Hari 3 fokus memadukan keduanya dengan Thuma'ninah. Pembelajaran menjadi ringan dan menancap kuat.[^10]
 
-#### 🥊 Ronde 3: Habit Stacking Syar'i: Mengaitkan Ibadah Sunnah pada Waktu Shalat Wajib
+#### 3. Diskursus Dialektika Kritis: Habit Stacking Syar'i: Mengaitkan Ibadah Sunnah pada Waktu Shalat Wajib
 * **Pihak A (Sudut Pandang Tilawah Al-Qur'an Terserah Santri Mau Kapan Saja)**:  
   *"Katakan saja 'Santri wajib membaca Al-Qur'an 1 juz kapan pun sempat!'; tidak usah dijadwalkan secara kaku!"*
 * **Resolusi Habit Stacking (James Clear & Kaidah Al-Waqt)**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Empat Metode Pedagogi Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam
+### 4. Empat Metode Pedagogi Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -187,19 +187,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Standar Operasional Pengasuhan TUMBUH mewajibkan keempat metode tersebut sebagai kompetensi pedagogis mutlak bagi seluruh musyrif dan guru asrama.
 * **Konklusi (*an-Natijah*)**: Maka, proses pembentukan karakter ibadah di pesantren TUMBUH berlangsung dengan standar pedagogis yang unggul dan penuh kemuliaan adab.[^12]
 
-#### 🥊 Ronde 1: Talaqqi Gerakan 1-on-1: Memastikan Keabsahan Setiap Individu
+#### 1. Diskursus Dialektika Kritis: Talaqqi Gerakan 1-on-1: Memastikan Keabsahan Setiap Individu
 * **Pihak A (Sudut Pandang Ujian Teori Tulis Sudah Mewakili Praktik)**:  
   *"Santri yang nilai ujian tulis fiqhnya 100 otomatis sudah sah shalatnya; tidak perlu talaqqi praktik 1-on-1 lagi!"*
 * **Tinjauan Tradisi Talaqqi Turats & Keabsahan Sanad Ibadah**:  
   Ibadah shalat adalah amaliah bersanad (*Sanadul 'Amal*). Melalui metode **Talaqqi Praktik 1-on-1**: Santri shalat di hadapan musyrif, musyrif mengamati sudut ruku', posisi telapak tangan saat takbir, dan memastikan tidak ada anggota badan yang bergerak sia-sia. Talaqqi menjamin mata rantai keabsahan shalat bersambung murni hingga Rasulullah SAW.[^13]
 
-#### 🥊 Ronde 2: Sentuhan Fisik Korektif Lembut di Saf Shalat (The Gentle Touch)
+#### 2. Diskursus Dialektika Kritis: Sentuhan Fisik Korektif Lembut di Saf Shalat (The Gentle Touch)
 * **Pihak A (Sudut Pandang Menendang Kaki Santri yang Keluar dari Saf)**:  
   *"Tendang saja tumit santri yang tidak lurus dengan saf shalat agar dia cepat sadar!"*
 * **Tinjauan Etika Merapikan Saf Nabawiyyah**:  
   Rasulullah SAW merapikan saf para sahabat dengan menyentuh pundak dan dada mereka dengan penuh kelembutan (HR. Muslim No. 432). Menendang kaki santri adalah tindakan kasar yang melahirkan kemarahan batin. Musyrif TUMBUH menggunakan **The Gentle Touch**: meletakkan telapak tangan dengan lembut di pundak santri, memberi isyarat merapatkan langkah dengan senyum teduh. Saf lurus dan hati santri terpaut damai.[^14]
 
-#### 🥊 Ronde 3: Habit Stacking Wirid-Tilawah: Otomatisasi 1 Juz Per Hari
+#### 3. Diskursus Dialektika Kritis: Habit Stacking Wirid-Tilawah: Otomatisasi 1 Juz Per Hari
 * **Pihak A (Sudut Pandang Tilawah Ditunda Sampai Liburan Akhir Pekan)**:  
   *"Santri boleh menumpuk membaca Al-Qur'an 7 juz di hari Ahad; tidak perlu dipaksa membaca setiap hari!"*
 * **Resolusi Konsistensi Amalan Nabawiyyah (Ahabbul A'mali Adwamuha)**:  
@@ -207,9 +207,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Metode Pedagogi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Metode Pedagogi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Musyrif Memarahi Santri yang Salah Gerakan di Hadapan Ratusan Jamaah)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Musyrif Memarahi Santri yang Salah Gerakan di Hadapan Ratusan Jamaah)
 Pertarungan filosofis-pedagogis terdalam bermuara pada kasus: **"Bagaimana dewan pengasuhan menyikapi seorang musyrif yang saat shalat Maghrib berjamaah di masjid, melihat seorang santri kelas 7 menggaruk kepalanya 4 kali saat i'tidal, lalu setelah salam musyrif tersebut langsung berdiri, mengambil mikrofon masjid, dan memanggil nama santri tersebut seraya berkata dengan pengeras suara: 'Fulan kelas 7, shalatmu batal dan seperti monyet garuk-garuk!'?"**
 
 * **Pendekatan Lama (Pembenaran demi Efek Jera Publik)**:  
@@ -258,7 +258,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

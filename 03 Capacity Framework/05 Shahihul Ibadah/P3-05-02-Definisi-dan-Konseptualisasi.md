@@ -14,20 +14,20 @@
 >   Definisi konvensional sering membatasi "Shahihul Ibadah" semata-mata pada sahnya rukun fiqh formal (seperti sahnya wudhu dan gerakan ruku') tanpa menautkannya dengan kapasitas regulasi diri (*Self-Management*), ketepatan waktu, dan transformasi perilaku moral santri dalam kehidupan asrama.
 > * **Definisi Operasional Baku Shahihul Ibadah TUMBUH:**  
 >   TUMBUH merumuskan definisi baku: *"Kapasitas ketaatan santri dalam menjalankan seluruh rangkaian ibadah mahdhah (khususnya thaharah, shalat 5 waktu berjamaah saf awal, dan ibadah nawafil) secara presisi memenuhi syarat dan rukun syariat sesuai Sunnah Rasulullah ﷺ, yang dilaksanakan dengan thuma'ninah, khusyuk, kendali perhatian penuh (*Attentional Regulation*), serta melahirkan kedisiplinan hidup pribadi dan ketenteraman sosial."*
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah filologi Turats akar kata *'Abada-Ya'budu* (*Lisan al-'Arab* & *Al-Mufradat* Ar-Raghib), menyintesiskan teori kompetensi CASEL *Self-Management* dan *Inhibitory Control*, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan taksonomi konseptual tiga dimensi.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA DEFINISI KONSEPTUAL](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-definisi-konseptual)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Ambiguitas Konseptual "Ibadah Sah" vs "Ibadah yang Berbekas"](#1-latar-belakang-masalah-ambiguitas-konseptual-ibadah-sah-vs-ibadah-yang-berbekas)
-  - [2. Inkuiri 1: Eksegesis Turats Filologi Akar Kata 'Abada & Shahha (Lisan al-'Arab & Ar-Raghib al-Ashfahani)](#2-inkuiri-1-eksegesis-turats-filologi-akar-kata-abada--shahha-lisan-al-arab--ar-raghib-al-ashfahani)
-  - [3. Inkuiri 2: Integrasi Konsep CASEL Self-Management, Inhibitory Control, & Attentional Regulation](#3-inkuiri-2-integrasi-konsep-casel-self-management-inhibitory-control--attentional-regulation)
-  - [4. Inkuiri 3: Translasi Definisi Baku Shahihul Ibadah ke dalam Perilaku Asrama 24 Jam](#4-inkuiri-3-translasi-definisi-baku-shahihul-ibadah-ke-dalam-perilaku-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Definisi Operasional](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-definisi-operasional)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Filologi Akar Kata 'Abada & Shahha (Lisan al-'Arab & Ar-Raghib al-Ashfahani)](#2eksegesis-turats-filologi-akar-kata-abada-shahha-lisan-al-arab-ar-raghib-al-ashfahani)
+  - [3. Integrasi Konsep CASEL Self-Management, Inhibitory Control, & Attentional Regulation](#3integrasi-konsep-casel-self-management-inhibitory-control-attentional-regulation)
+  - [4. Translasi Definisi Baku Shahihul Ibadah ke dalam Perilaku Asrama 24 Jam](#4translasi-definisi-baku-shahihul-ibadah-ke-dalam-perilaku-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Definisi Operasional](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-definisi-operasional)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Definisi Operasional Baku Shahihul Ibadah (Kamus Standar TUMBUH)](#1-definisi-operasional-baku-shahihul-ibadah-kamus-standar-tumbuh)
   - [2. Taksonomi Tiga Dimensi Operasional Shahihul Ibadah (Kognitif, Afektif, & Konatif)](#2-taksonomi-tiga-dimensi-operasional-shahihul-ibadah-kognitif-afektif--konatif)
   - [3. Peta Integrasi Sains Perilaku: Self-Management, Habit Stacking, & Ritme Sirkadian](#3-peta-integrasi-sains-perilaku-self-management-habit-stacking--ritme-sirkadian)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Filologi Akar Kata 'Abada & Shahha (Lisan al-'Arab & Ar-Raghib al-Ashfahani)
+### 2. Eksegesis Turats Filologi Akar Kata 'Abada & Shahha (Lisan al-'Arab & Ar-Raghib al-Ashfahani)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{الصِّحَّةُ: حَالَةٌ تَكُونُ بِهَا الْأ�
 
 *"**Ash-Shihhah (Kebenaran/Kesehatan) adalah: Kondisi di mana perbuatan berjalan sesuai fitrah alaminya yang selamat dari cacat**. Dan Kesehatan Ibadah (*Shihhatul 'Ibadah*) adalah: Terlaksananya ibadah dengan menggugurkan tuntutan qadha', mendatangkan pahala akhirat, dan **membuahkan kesalehan jiwa nyata**."*[^4]
 
-#### 🥊 Ronde 1: Menolak Ibadah yang Kehilangan Jiwa Ketundukan (At-Tadzallul)
+#### 1. Diskursus Dialektika Kritis: Menolak Ibadah yang Kehilangan Jiwa Ketundukan (At-Tadzallul)
 * **Pihak A (Sudut Pandang Ibadah Sebagai Transaksi Bisnis)**:  
   *"Santri cukup menganggap shalat sebagai 'kewajiban bayar utang' kepada Tuhan; tidak perlu diajarkan perasaan rendah hati atau ketundukan batin!"*
 * **Tinjauan Hakikat 'Ubudiyyah & Bahaya 'Ujub**:  
   Menganggap ibadah sekadar transaksi melahirkan penyakit sombong (*'Ujub* dan *Ghurur*): santri merasa telah berjasa kepada Allah karena shalat tepat waktu. Filologi *'Abada* mengajarkan bahwa santri adalah seorang **Hamba Sahaya (*'Abd*)** yang berlutut di hadapan Sang Maharaja. Shalat adalah wujud syukur atas triliunan nikmat Allah yang tak terbalas. Jiwa ketundukan ini melenyapkan kesombongan dan melahirkan santri yang tawadhu' kepada sesama.[^5]
 
-#### 🥊 Ronde 2: Keabsahan Ibadah Nawafil Sebagai Penyempurna Ibadah Fardhu
+#### 2. Diskursus Dialektika Kritis: Keabsahan Ibadah Nawafil Sebagai Penyempurna Ibadah Fardhu
 * **Pihak A (Sudut Pandang Minimalisme Ibadah Fardhu Saja)**:  
   *"Santri cukup shalat 5 waktu saja; shalat rawatib, dhuha, dan witir itu sunnah yang tidak perlu dimasukkan ke dalam target kompetensi asrama!"*
 * **Tinjauan Hadits Nawafil & Perlindungan Amalan Fardhu**:  
   Rasulullah SAW meriwayatkan dalam Hadits Qudsi: *"Hamba-Ku senantiasa mendekatkan diri kepada-Ku dengan amalan-amalan sunnah (nawafil) hingga Aku mencintainya"* (HR. Bukhari No. 6502). Amalan sunnah adalah **Benteng Pelindung Amalan Wajib (*Buffer System*)**. Santri yang terbiasa shalat rawatib dan dhuha tidak akan pernah berani meninggalkan shalat fardhu. Memasukkan nawafil ke dalam target kompetensi menjamin keterjagaan ibadah wajib secara kokoh.[^6]
 
-#### 🥊 Ronde 3: Mengikis Keabsahan Semu (Shalat Tanpa Mencegah Keji dan Munkar)
+#### 3. Diskursus Dialektika Kritis: Mengikis Keabsahan Semu (Shalat Tanpa Mencegah Keji dan Munkar)
 * **Pihak A (Sudut Pandang Pemisahan Ibadah dan Akhlak)**:  
   *"Kalau ada santri yang shalatnya rajin tapi suka mencuri sandal, jangan salahkan shalatnya; itu dua hal yang berbeda!"*
 * **Resolusi Asy-Syathibi (*Al-Muwafaqat*)**:  
@@ -112,7 +112,7 @@ $$\text{الصِّحَّةُ: حَالَةٌ تَكُونُ بِهَا الْأ�
 
 ---
 
-### 3. Inkuiri 2: Integrasi Konsep CASEL Self-Management, Inhibitory Control, & Attentional Regulation
+### 3. Integrasi Konsep CASEL Self-Management, Inhibitory Control, & Attentional Regulation
 
 ```mermaid
 graph TD
@@ -145,19 +145,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Inhibitory Control Saat Mendengar Adzan Berkumandang
+#### 1. Diskursus Dialektika Kritis: Inhibitory Control Saat Mendengar Adzan Berkumandang
 * **Pihak A (Sudut Pandang Menunda Shalat Hingga Akhir Waktu)**:  
   *"Waktu shalat itu panjang; santri boleh saja melanjutkan bermain bola sampai 10 menit sebelum waktu shalat habis!"*
 * **Tinjauan Neurosains Inhibitory Control & Keutamaan Awwalul Waqt**:  
   Kemampuan menghentikan aktivitas yang sedang menyenangkan demi tugas yang lebih penting (*Inhibitory Control*) adalah indikator utama kecerdasan emosional dan kesuksesan hidup masa depan. Rasulullah SAW menegaskan bahwa amalan yang paling dicintai Allah adalah: *"Shalat pada awal waktunya"* (HR. Bukhari No. 527). Santri yang dilatih menghentikan obrolan dan melangkah ke masjid saat adzan berkumandang sedang membangun **Otot Kendali Diri Eksekutif (*Executive Willpower*)** yang sangat kuat.[^9]
 
-#### 🥊 Ronde 2: Atensi Penuh Khusyu' Menghentikan Lamunan Pikiran (Mind-Wandering)
+#### 2. Diskursus Dialektika Kritis: Atensi Penuh Khusyu' Menghentikan Lamunan Pikiran (Mind-Wandering)
 * **Pihak A (Sudut Pandang Kepasrahan Shalat Melamun)**:  
   *"Mustahil shalat bisa fokus 100%; manusia pasti melamun memikirkan urusan lain saat shalat, biarkan saja!"*
 * **Tinjauan Attentional Regulation & Mindfulness Khusyu'**:  
   Meskipun pikiran liar bisa muncul, kemampuan **Menyadari Distraksi dan Menarik Kembali Perhatian (*Metacognitive Refocusing*)** adalah keterampilan yang bisa dilatih. Ketika santri menyadari pikirannya melayang ke tugas sekolah saat ruku', santri segera beristighfar dalam hati dan mengembalikan fokusnya pada makna tasbih *Subhana Rabbiyal 'Azhim*. Ini adalah latihan *Attentional Regulation* tingkat tinggi yang meningkatkan kapasitas konsentrasi belajar santri di kelas hingga 200%.[^10]
 
-#### 🥊 Ronde 3: Penyelarasan Ritme Sirkadian Tubuh dengan 5 Waktu Shalat
+#### 3. Diskursus Dialektika Kritis: Penyelarasan Ritme Sirkadian Tubuh dengan 5 Waktu Shalat
 * **Pihak A (Sudut Pandang Shalat Mengganggu Jam Kerja & Tidur)**:  
   *"Bangun jam 04.00 subuh dan shalat 5 kali sehari itu memecah konsentrasi dan merusak jam biologis tubuh manusia!"*
 * **Resolusi Kronobiologi & Sirkadian Ibadah**:  
@@ -165,7 +165,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Translasi Definisi Baku Shahihul Ibadah ke dalam Perilaku Asrama 24 Jam
+### 4. Translasi Definisi Baku Shahihul Ibadah ke dalam Perilaku Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -190,19 +190,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH menstrukturkan amalan shalat sunnah, dzikir, dan thaharah ke dalam 5 jangkar kebiasaan harian asrama.
 * **Konklusi (*an-Natijah*)**: Maka, santri di pesantren TUMBUH mampu menegakkan ibadah mahdhah dan nawafil secara mandiri tanpa perlu diawasi terus-menerus.[^12]
 
-#### 🥊 Ronde 1: Menerapkan Habit Stacking: Wudhu Bersambung Tilawah dan Rawatib
+#### 1. Diskursus Dialektika Kritis: Menerapkan Habit Stacking: Wudhu Bersambung Tilawah dan Rawatib
 * **Pihak A (Sudut Pandang Pembiasaan Terpisah-pisah)**:  
   *"Suruh santri wudhu sendiri, tilawah sendiri, shalat rawatib sendiri; tidak usah dikait-kaitkan jadwalnya!"*
 * **Tinjauan Habit Stacking James Clear & Sunnah Nabawiyyah**:  
   Membangun kebiasaan baru secara terisolasi memiliki tingkat kegagalan 70%. Dengan teknik **Habit Stacking**: *"Setelah aku selesai shalat fardhu (Kebiasaan Mapan), aku akan langsung berdiri shalat sunnah rawatib 2 rakaat (Kebiasaan Baru), lalu membaca 2 lembar Al-Qur'an (Kebiasaan Baru Lanjutan)"*. Rangkaian amalan ini terkunci dalam satu paket memori prosedural otak, sehingga santri mengerjakannya secara otomatis dan menyenangkan.[^13]
 
-#### 🥊 Ronde 2: Mengeliminasi Prokrastinasi Menunda Shalat (Anti-Procrastination SOP)
+#### 2. Diskursus Dialektika Kritis: Mengeliminasi Prokrastinasi Menunda Shalat (Anti-Procrastination SOP)
 * **Pihak A (Sudut Pandang Toleransi Santri Santai)**:  
   *"Biarkan santri bersantai di kamar mandi saat adzan berkumandang; nanti juga mereka shalat kalau sudah selesai ngobrol!"*
 * **Tinjauan Behavioural Friction & 3-Minute Rule**:  
   Menunda 5 menit setelah adzan adalah pintu masuk prokrastinasi yang membuat santri masbuq atau tertinggal takbiratul ihram pertama (*Fawāt Takbīratil Ihrām*). TUMBUH menerapkan **Aturan 3 Menit Pasca-Adzan (*3-Minute Post-Adhan Rule*)**: saat adzan selesai, seluruh santri di kamar wajib telah memegang handuk/alat wudhu dan melangkah menuju masjid. Friksi lingkungan dihilangkan, ketertiban shalat berjamaah terjaga 100%.[^14]
 
-#### 🥊 Ronde 3: Keterpautan Kalbu dengan Masjid (Qalbuhu Mu'allaqun bil Masajid)
+#### 3. Diskursus Dialektika Kritis: Keterpautan Kalbu dengan Masjid (Qalbuhu Mu'allaqun bil Masajid)
 * **Pihak A (Sudut Pandang Masjid Hanya Tempat Ibadah Formal)**:  
   *"Masjid itu cuma dipakai saat shalat 10 menit, setelah itu kunci pintunya agar tidak kotor!"*
 * **Resolusi Masjid Sebagai Episentrum Kehidupan Asrama**:  
@@ -210,9 +210,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Definisi Operasional
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Definisi Operasional
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Masbuq Kronis yang Berprestasi Akademik)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Masbuq Kronis yang Berprestasi Akademik)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana pesantren menyikapi santri ranking 1 paralel kelas 11 yang selalu masbuq (terlambat 1–2 rakaat) pada shalat Shubuh dan Ashar berjamaah karena asyik menyelesaikan eksperimen laboratorium atau membaca novel di perpustakaan?"**
 
 * **Pendekatan Lama (Pembiaran Karena Prestasi Akademik)**:  
@@ -261,7 +261,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

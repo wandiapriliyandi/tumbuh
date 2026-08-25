@@ -21,12 +21,12 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: SINTESIS TEORETIS 6 PILAR RELASI KARAKTER & MODEL INTEGRASI](#bagian-i-sintesis-teoretis-6-pilar-relasi-karakter--model-integrasi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Arsitektur Sintesis Holistik: Ekosistem Dinamis 10 Karakter Pesantren TUMBUH](#1-arsitektur-sintesis-holistik-ekosistem-dinamis-10-karakter-pesantren-tumbuh)
   - [2. Grand Model Penyelarasan Resonansi, Sentralitas Graf, & Bimbingan Terpadu](#2-grand-model-penyelarasan-resonansi-sentralitas-graf--bimbingan-terpadu)
   - [3. Perwujudan Triad Pertumbuhan Simbiotik dalam Relasi Antar-Karakter](#3-perwujudan-triad-pertumbuhan-simbiotik-dalam-relasi-antar-karakter)
   - [4. Jembatan Konseptual Menuju Sub-Domain 04–13 (Bedah 10 Karakter Spesifik)](#4-jembatan-konseptual-menuju-sub-domain-0413-bedah-10-karakter-spesifik)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Model Integrasi Sistemik Sepuluh Karakter Muwashafat TUMBUH](#1-formulasi-konseptual-model-integrasi-sistemik-sepuluh-karakter-muwashafat-tumbuh)
   - [2. Matriks Master Interdependensi 10 x 10 Karakter Muwashafat Pesantren](#2-matriks-master-interdependensi-10-x-10-karakter-muwashafat-pesantren)
   - [3. Standar Prosedur Evaluasi Sinergi Karakter Antar-Asrama & Audit Ekologis PBIS](#3-standar-prosedur-evaluasi-sinergi-karakter-antar-asrama--audit-ekologis-pbis)
@@ -122,7 +122,7 @@ graph LR
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

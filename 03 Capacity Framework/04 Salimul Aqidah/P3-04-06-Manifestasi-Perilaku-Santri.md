@@ -14,20 +14,20 @@
 >   Banyak santri menunjukkan kesalehan luar biasa saat berada di ruang publik (di masjid atau depan musyrif), namun saat berada di ruang privat (kamar tidur, kamar mandi, atau ruang komputer), mereka dengan mudah mengambil barang teman tanpa izin (*ghashab*), berbohong, atau mengakses konten terlarang. Hal ini membuktikan bahwa keyakinan aqidah belum termanifestasikan menjadi perilaku konkret.
 > * **Inovasi Pemetaan Perilaku Teramati 4 Lokus TUMBUH:**  
 >   TUMBUH memetakan manifestasi *Salimul Aqidah* menjadi tindakan fisik teramati (*Observable Behavioral Anchors*) di **4 Lokus Kehidupan 24 Jam: 1. Lokus Ibadah (Masjid/Halaqah), 2. Lokus Privat (Kamar Tidur/Lemari), 3. Lokus Akademik (Kelas/Laboratorium), dan 4. Lokus Maya (Gawai/Media Digital)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah perumpamaan Al-Qur'an tentang pohon keimanan yang berbuah amal nyata (QS. Ibrahim: 24–25), menyintesiskan *Theory of Planned Behavior* (Ajzen, 1991) dan *Nudge Theory* (Thaler & Sunstein, 2008), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan protokol observasi rendah friksi (*Fast-Logging*) bagi musyrif asrama.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA MANIFESTASI PERILAKU](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-manifestasi-perilaku)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya "Kesalehan Panggung" & Budaya Permisif Ghashab di Pesantren](#1-latar-belakang-masalah-bahaya-kesalehan-panggung--budaya-permisif-ghashab-di-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Pohon Keimanan & Bukti Amal Nyata (QS. Ibrahim: 24–25 & HR. Bukhari No. 52)](#2-inkuiri-1-eksegesis-turats-pohon-keimanan--bukti-amal-nyata-qs-ibrahim-2425--hr-bukhari-no-52)
-  - [3. Inkuiri 2: Teori Perilaku Terencana (Ajzen, 1991) & Nudge Theory (Thaler & Sunstein, 2008) dalam Penguatan Tauhid Praktis](#3-inkuiri-2-teori-perilaku-terencana-ajzen-1991--nudge-theory-thaler--sunstein-2008-dalam-penguatan-tauhid-praktis)
-  - [4. Inkuiri 3: Pemetaan Empat Lokus Kehidupan Asrama 24 Jam (Masjid, Kamar, Kelas, Ruang Maya)](#4-inkuiri-3-pemetaan-empat-lokus-kehidupan-asrama-24-jam-masjid-kamar-kelas-ruang-maya)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Perilaku](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-resolusi-perilaku)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Pohon Keimanan & Bukti Amal Nyata (QS. Ibrahim: 24–25 & HR. Bukhari No. 52)](#2eksegesis-turats-pohon-keimanan-bukti-amal-nyata-qs-ibrahim-2425-hr-bukhari-no-52)
+  - [3. Teori Perilaku Terencana (Ajzen, 1991) & Nudge Theory (Thaler & Sunstein, 2008) dalam Penguatan Tauhid Praktis](#3teori-perilaku-terencana-ajzen-1991-nudge-theory-thaler-sunstein-2008-dalam-penguatan-tauhid-praktis)
+  - [4. Pemetaan Empat Lokus Kehidupan Asrama 24 Jam (Masjid, Kamar, Kelas, Ruang Maya)](#4pemetaan-empat-lokus-kehidupan-asrama-24-jam-masjid-kamar-kelas-ruang-maya)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Perilaku](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-resolusi-perilaku)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Taksonomi Manifestasi Perilaku Salimul Aqidah Lintas 4 Lokus Asrama 24 Jam](#1-arsitektur-taksonomi-manifestasi-perilaku-salimul-aqidah-lintas-4-lokus-asrama-24-jam)
   - [2. Matriks Komparasi Perilaku Otentik (Salimul Aqidah) vs Perilaku Devian (Penyimpangan Tauhid)](#2-matriks-komparasi-perilaku-otentik-salimul-aqidah-vs-perilaku-devian-penyimpangan-tauhid)
   - [3. Protokol Pemantauan Cepat Perilaku Musyrif Rendah Friksi (Presence Walk Fast-Logging)](#3-protokol-pemantauan-cepat-perilaku-musyrif-rendah-friksi-presence-walk-fast-logging)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Pohon Keimanan & Bukti Amal Nyata (QS. Ibrahim: 24–25 & HR. Bukhari No. 52)
+### 2. Eksegesis Turats Pohon Keimanan & Bukti Amal Nyata (QS. Ibrahim: 24–25 & HR. Bukhari No. 52)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إ�
 
 *"Ingatlah, sesungguhnya di dalam tubuh ada segumpal daging; **apabila ia baik, maka baiklah seluruh tubuh (perbuatannya), dan apabila ia rusak, maka rusaklah seluruh tubuh (perbuatannya)**. Ingatlah, segumpal daging itu adalah Al-Qalb (Hati)."* (HR. Bukhari No. 52; Muslim No. 1599).[^4]
 
-#### 🥊 Ronde 1: Membongkar Normalisasi Budaya Ghashab di Pesantren
+#### 1. Diskursus Dialektika Kritis: Membongkar Normalisasi Budaya Ghashab di Pesantren
 * **Pihak A (Sudut Pandang Tradisionalis Pasif)**:  
   *"Ghashab sandal atau baju antar-santri itu sudah tradisi pesantren sejak dulu sebagai tanda guyub dan meleburnya rasa kepemilikan pribadi; tidak perlu dipermasalahkan sebagai dosa aqidah!"*
 * **Tinjauan Fiqh Muamalah & Hakikat Amanah**:  
   Membenarkan *ghashab* atas dalih tradisi adalah **Penyimpangan Syariat yang Nyata**. Rasulullah SAW bersabda: *"Tidak halal harta seorang muslim melainkan dengan kerelaan dari hatinya"* (HR. Ahmad). Santri yang terbiasa mengambil barang orang lain tanpa izin sedang menanamkan bibit mental korupsi dan pencurian di masa depan. Menghapus budaya ghashab adalah jihad peradaban untuk mengembalikan kemurnian adab Islam. Salimul Aqidah menuntut santri menjaga kehormatan hak milik saudaranya lillaahi ta'ala.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Menilai Tindakan Fisik Tidak Terjebak Menghakimi Niat?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Menilai Tindakan Fisik Tidak Terjebak Menghakimi Niat?
 * **Pihak A (Sudut Pandang Keraguan Penilaian)**:  
   *"Siapa kita berani menilai aqidah santri hanya karena ia terlambat shalat? Bukankah hanya Allah yang tahu niat di dalam hatinya?"*
 * **Tinjauan Kaidah Ushul Fiqh: Mengukur Sebab Lahiriah**:  
   Islam tidak menuntut pengasuh membelah dada santri (*Maa umirtu an anqiba 'an qulubin naas*). Namun syariat menetapkan kaidah: **Sebab Lahiriah Mengindikasikan Kondisi Batiniah (*Azh-Zhahiru Dalilun 'alal Bathin*)**. Santri yang konsisten jujur, merapikan barang, dan tidak mengambil hak orang lain sedang menunjukkan bukti nyata kematangan tauhidnya. Kita menilai manifestasi perilaku teramati (*Behavioral Descriptors*), bukan menghakimi niat rahasia.[^6]
 
-#### 🥊 Ronde 3: Manifestasi Tawakkal dalam Menghadapi Ujian Madrasah
+#### 3. Diskursus Dialektika Kritis: Manifestasi Tawakkal dalam Menghadapi Ujian Madrasah
 * **Pihak A (Sudut Pandang Pragmatisme Kelulusan)**:  
   *"Wajar santri menyontek saat ujian kelulusan karena taruhannya masa depan; itu tanda mereka ingin lulus, bukan berarti aqidahnya rusak!"*
 * **Resolusi Hakikat Tawakkal & Integritas Ilmiah**:  
@@ -113,7 +113,7 @@ $$\text{أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إ�
 
 ---
 
-### 3. Inkuiri 2: Teori Perilaku Terencana (Ajzen, 1991) & Nudge Theory (Thaler & Sunstein, 2008) dalam Penguatan Tauhid Praktis
+### 3. Teori Perilaku Terencana (Ajzen, 1991) & Nudge Theory (Thaler & Sunstein, 2008) dalam Penguatan Tauhid Praktis
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Niat Kognitif vs Dorongan Kebiasaan Bawah Sadar (Habituation)
+#### 1. Diskursus Dialektika Kritis: Niat Kognitif vs Dorongan Kebiasaan Bawah Sadar (Habituation)
 * **Pihak A (Sudut Pandang Rasionalisme Kering)**:  
   *"Santri yang tahu hukum haramnya mencuri pasti tidak akan mencuri; tidak butuh penataan rak sandal atau loker kunci!"*
 * **Tinjauan Sains Kognitif & Neurosains Kebiasaan**:  
   Dalam kondisi lelah, terburu-buru, atau mengantuk (seperti saat bergegas ke masjid subuh), otak santri beralih ke **Mode Otomatis (*System 1 / Basal Ganglia*)**. Jika sandal diletakkan berserakan tanpa rak, santri akan secara impulsif memakai sandal sembarang yang ada di depannya (*Ghashab Spontan*). Menyediakan rak sandal bernomor dan lampu terang (*Nudge Architecture*) memutus rantai impuls buruk tersebut dan mempermudah santri menjaga adabnya.[^9]
 
-#### 🥊 Ronde 2: Rekayasa Lingkungan Bebas Titik Buta (Eliminasi CPTED Blindspots)
+#### 2. Diskursus Dialektika Kritis: Rekayasa Lingkungan Bebas Titik Buta (Eliminasi CPTED Blindspots)
 * **Pihak A (Sudut Pandang Pengabaian Tata Ruang)**:  
   *"Pojok belakang gudang yang gelap atau lorong sepi itu biasa di pondok; kalau santrinya beriman pasti tidak akan berbuat maksiat di sana!"*
 * **Tinjauan Crime Prevention Through Environmental Design (CPTED)**:  
   Membiarkan sudut gelap, lorong tanpa lampu, dan area tanpa pemantauan sama dengan membuka pintu godaan setan bagi santri remaja (*I'anatun 'alal Ma'shiyah*). Prinsip CPTED dan fiqh *Saddudz Dzari'ah* mewajibkan pesantren menata lingkungan yang transparan, terang, dan mudah diawasi secara wajar, sehingga meminimalkan kesempatan berbuat dosa privat.[^10]
 
-#### 🥊 Ronde 3: Nudge Positif Pembiasaan Doa dan Dzikir Mandiri
+#### 3. Diskursus Dialektika Kritis: Nudge Positif Pembiasaan Doa dan Dzikir Mandiri
 * **Pihak A (Sudut Pandang Skeptisisme Pengingat Fisik)**:  
   *"Menempelkan stiker doa ma'tsur di cermin kamar mandi atau pintu kamar tidur tidak ada gunanya; yang penting santri hafal di kepala!"*
 * **Resolusi Teori Trigger & Behavioral Priming**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Pemetaan Empat Lokus Kehidupan Asrama 24 Jam (Masjid, Kamar, Kelas, Ruang Maya)
+### 4. Pemetaan Empat Lokus Kehidupan Asrama 24 Jam (Masjid, Kamar, Kelas, Ruang Maya)
 
 ```mermaid
 flowchart TD
@@ -187,19 +187,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH memetakan manifestasi perilaku Salimul Aqidah melintasi 4 lokus asrama secara terpadu tanpa diskriminasi ruang.
 * **Konklusi (*an-Natijah*)**: Maka, santri TUMBUH terlatih memiliki integritas kepribadian yang utuh (*Kaffah*) dan kebal dari kemunafikan ruang tersembunyi.[^12]
 
-#### 🥊 Ronde 1: Integritas Ruang Maya & Medsos Santri (Digital Muraqabah)
+#### 1. Diskursus Dialektika Kritis: Integritas Ruang Maya & Medsos Santri (Digital Muraqabah)
 * **Pihak A (Sudut Pandang Pengabaian Ruang Maya)**:  
   *"Yang penting santri tidak berbuat onar di pondok; apa yang mereka tonton di ponsel saat liburan itu urusan mereka sendiri!"*
 * **Tinjauan Fitnah Akhir Zaman & Tanggung Jawab Pengasuhan**:  
   Di era internet, ruang maya adalah medan pertempuran aqidah yang paling sengit. Algoritma media sosial dirancang untuk memicu syahwat dan menyebarkan syubhat. Santri yang beraqidah salim dibekali **Digital Muraqabah (*Radar Batin Digital*)**: menyadari bahwa riwayat penelusuran internet (*Browser History*) yang dihapus dari mata manusia tetap tercatat rapi di kitab malaikat. Santri menjaga pandangan dan jemarinya di ruang maya lillaahi ta'ala.[^13]
 
-#### 🥊 Ronde 2: Mengikis Mitos "Barakah Menghalalkan Ghashab"
+#### 2. Diskursus Dialektika Kritis: Mengikis Mitos "Barakah Menghalalkan Ghashab"
 * **Pihak A (Sudut Pandang Mistifikasi Pelanggaran)**:  
   *"Kalau santri senior meminjam sandal atau sarung junior tanpa izin, itu tabarruk dan melatih keikhlasan junior!"*
 * **Tinjauan Fiqh Keadilan Syar'i**:  
   Menamai kezaliman dengan nama "keberkahan" adalah tipu daya iblis (*Talbis Iblis*). Mengambil hak orang lain secara paksa melahirkan luka batin (*Mazhlamah*) yang menghalangi terkabulnya doa. Pesantren TUMBUH menegakkan aturan mutlak: Seluruh peminjaman barang wajib melalui izin sukarela pemiliknya (*'An Taradhin*). Keberkahan sejati hanya turun di atas keadilan dan saling menghormati hak sesama.[^14]
 
-#### 🥊 Ronde 3: Perbedaan Manifestasi Perilaku Santri Jenjang J1 vs Jenjang J4
+#### 3. Diskursus Dialektika Kritis: Perbedaan Manifestasi Perilaku Santri Jenjang J1 vs Jenjang J4
 * **Pihak A (Sudut Pandang Standarisasi Kaku)**:  
   *"Santri baru kelas 7 harus langsung menunjukkan adab yang sama sempurnanya dengan santri senior kelas 12!"*
 * **Resolusi Gradualisme Syar'i (Tadarruj)**:  
@@ -207,9 +207,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Perilaku
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Perilaku
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Penanganan Kasus Ghashab Akut)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Penanganan Kasus Ghashab Akut)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana menangani fenomena ghashab sandal massal di masjid pondok (setiap selesai shalat Jumat, puluhan santri kehilangan sandal dan terpaksa mengambil sandal orang lain secara berantai)?"**
 
 * **Pendekatan Lama (Punitif Buta Tanpa Solusi Sistem)**:  
@@ -257,7 +257,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

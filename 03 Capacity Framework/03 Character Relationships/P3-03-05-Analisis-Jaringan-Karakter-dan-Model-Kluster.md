@@ -21,13 +21,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA NETWORK SCIENCE](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-network-science)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Keterbatasan Model Faktor Laten Tradisional & Keunggulan Analisis Graf](#1-latar-belakang-masalah-keterbatasan-model-faktor-laten-tradisional--keunggulan-analisis-graf)
-  - [2. Inkuiri 1: Eksegesis Turats Bangunan Mukmin yang Saling Mengokohkan (HR. Al-Bukhari No. 481) & Konsep Bulyan](#2-inkuiri-1-eksegesis-turats-bangunan-mukmin-yang-saling-mengokohkan-hr-al-bukhari-no-481--konsep-bulyan)
-  - [3. Inkuiri 2: Teori Psychological Network Analysis Denny Borsboom & Interaksi Dinamis Simpul Karakter](#3-inkuiri-2-teori-psychological-network-analysis-denny-borsboom--interaksi-dinamis-simpul-karakter)
-  - [4. Inkuiri 3: Metrik Sentralitas Graf (Degree, Betweenness, & Closeness) dalam Pemetaan Karakter Pesantren](#4-inkuiri-3-metrik-sentralitas-graf-degree-betweenness--closeness-dalam-pemetaan-karakter-pesantren)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Bangunan Mukmin yang Saling Mengokohkan (HR. Al-Bukhari No. 481) & Konsep Bulyan](#2eksegesis-turats-bangunan-mukmin-yang-saling-mengokohkan-hr-al-bukhari-no-481-konsep-bulyan)
+  - [3. Teori Psychological Network Analysis Denny Borsboom & Interaksi Dinamis Simpul Karakter](#3teori-psychological-network-analysis-denny-borsboom-interaksi-dinamis-simpul-karakter)
+  - [4. Metrik Sentralitas Graf (Degree, Betweenness, & Closeness) dalam Pemetaan Karakter Pesantren](#4metrik-sentralitas-graf-degree-betweenness-closeness-dalam-pemetaan-karakter-pesantren)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Topologi Graf 10 Karakter Muwashafat dan Matriks Ketetanggaan (Adjacency Matrix)](#1-formulasi-konseptual-topologi-graf-10-karakter-muwashafat-dan-matriks-ketetanggaan-adjacency-matrix)
   - [2. Matriks Indeks Sentralitas & Kekuatan Pengaruh Setiap Karakter dalam Ekosistem TUMBUH](#2-matriks-indeks-sentralitas--kekuatan-pengaruh-setiap-karakter-dalam-ekosistem-tumbuh)
   - [3. Implikasi Topologis bagi Strategi Intervensi Pengasuhan Musyrif Asrama](#3-implikasi-topologis-bagi-strategi-intervensi-pengasuhan-musyrif-asrama)
@@ -76,7 +76,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Bangunan Mukmin yang Saling Mengokohkan (HR. Al-Bukhari No. 481) & Konsep Bulyan
+### 2. Eksegesis Turats Bangunan Mukmin yang Saling Mengokohkan (HR. Al-Bukhari No. 481) & Konsep Bulyan
 
 ```mermaid
 graph TD
@@ -94,7 +94,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Psychological Network Analysis Denny Borsboom & Interaksi Dinamis Simpul Karakter
+### 3. Teori Psychological Network Analysis Denny Borsboom & Interaksi Dinamis Simpul Karakter
 
 Profesor psikometri University of Amsterdam **Denny Borsboom** (2013) merumuskan paradigma *Network Analysis in Psychology*:
 * Karakter bukanlah entitas laten pasif, melainkan sebuah **Sistem Kausal Timbal Balik (*Dynamical Causal Systems*)**.
@@ -103,7 +103,7 @@ Profesor psikometri University of Amsterdam **Denny Borsboom** (2013) merumuskan
 
 ---
 
-### 4. Inkuiri 3: Metrik Sentralitas Graf (Degree, Betweenness, & Closeness) dalam Pemetaan Karakter Pesantren
+### 4. Metrik Sentralitas Graf (Degree, Betweenness, & Closeness) dalam Pemetaan Karakter Pesantren
 
 Dalam teori graf, terdapat 3 metrik sentralitas utama:
 1. **Degree Centrality ($C_D$):** Jumlah koneksi langsung suatu simpul. Simpul dengan $C_D$ tinggi (*Hubs*) adalah jangkar utama stabilitas.
@@ -112,21 +112,21 @@ Dalam teori graf, terdapat 3 metrik sentralitas utama:
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Matinul Khuluq Hanyalah Karakter Pelengkap yang Pasif"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Matinul Khuluq Hanyalah Karakter Pelengkap yang Pasif"
 * **Pihak A (Sudut Pandang Hierarki Kering)**:  
   *"Akhlak sopan santun itu hanya hiasan luar; yang paling utama hanya akidah dan hafalan Qur'an!"*
 * **Tinjauan Analisis Betweenness Centrality ($C_B = 0.42$)**:  
   Secara topologis, *Matinul Khuluq* adalah **Jembatan Terpenting dalam Jaringan**: Ia menghubungkan Kluster Batiniah (Akidah & Ibadah) dengan Kluster Aksi Nyata (Kemandirian & Khidmah). Tanpa *Matinul Khuluq*, pemahaman akidah yang tinggi akan terisolasi dan menjelma menjadi kesombongan intelektual yang dijauhi masyarakat.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Intervensi Musyrif Wajib Selalu Dimulai dari Simpul Akidah?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Intervensi Musyrif Wajib Selalu Dimulai dari Simpul Akidah?
 * **Pihak A (Sudut Pandang Dogmatisme Kaku)**:  
   *"Setiap kali santri melanggar, musyrif harus selalu mengulang ceramah tauhid dari nol!"*
 * **Tinjauan Jalur Terpendek Graf (Shortest Path Intervention)**:  
   Jika santri terlambat shalat karena kamarnya berantakan dan pakaiannya hilang, ceramah akidah berjam-jam tidak akan menyelesaikan masalah. Intervensi tercepat (*Shortest Path*) adalah menata lemarinya (*Munazhzham*), yang langsung memulihkan ketepatan waktu (*Haritsun*), dan mengantarkannya shalat tepat waktu (*Ibadah*).[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Kerapian 5S Memiliki Koneksi Kuat dengan Nalar Intelektual?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Kerapian 5S Memiliki Koneksi Kuat dengan Nalar Intelektual?
 * **Pihak A (Sudut Pandang Dikotomi Ruang vs Akal)**:  
   *"Meja belajar yang berantakan itu ciri khas ilmuwan jenius; tidak ada hubungannya dengan kecerdasan nalar mantiq!"*
 * **Resolusi Kognisi Terdistribusi (Distributed Cognition)**:  
@@ -138,7 +138,7 @@ Dalam teori graf, terdapat 3 metrik sentralitas utama:
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TAKSONOMI KARAKTER](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-taksonomi-karakter)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Fragmentasi Karakter Santri (Saleh Ritual tapi Abai Kebersihan & Waktu)](#1-latar-belakang-masalah-bahaya-fragmentasi-karakter-santri-saleh-ritual-tapi-abai-kebersihan--waktu)
-  - [2. Inkuiri 1: Eksegesis Turats Kesempurnaan Akhlak (HR. Malik No. 1614) & Kerangka 10 Muwashafat](#2-inkuiri-1-eksegesis-turats-kesempurnaan-akhlak-hr-malik-no-1614--kerangka-10-muwashafat)
-  - [3. Inkuiri 2: Sintesis Taksonomi Karakter Tripartit & Konvergensi 5 Kompetensi CASEL SEL](#3-inkuiri-2-sintesis-taksonomi-karakter-tripartit--konvergensi-5-kompetensi-casel-sel)
-  - [4. Inkuiri 3: Hierarki Kausal Antar-Pilar: Mengapa Ruhiyah Menjadi Fondasi Mutlak bagi Amal Sosial](#4-inkuiri-3-hierarki-kausal-antar-pilar-mengapa-ruhiyah-menjadi-fondasi-mutlak-bagi-amal-sosial)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kesempurnaan Akhlak (HR. Malik No. 1614) & Kerangka 10 Muwashafat](#2eksegesis-turats-kesempurnaan-akhlak-hr-malik-no-1614-kerangka-10-muwashafat)
+  - [3. Sintesis Taksonomi Karakter Tripartit & Konvergensi 5 Kompetensi CASEL SEL](#3sintesis-taksonomi-karakter-tripartit-konvergensi-5-kompetensi-casel-sel)
+  - [4. Hierarki Kausal Antar-Pilar: Mengapa Ruhiyah Menjadi Fondasi Mutlak bagi Amal Sosial](#4hierarki-kausal-antar-pilar-mengapa-ruhiyah-menjadi-fondasi-mutlak-bagi-amal-sosial)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Arsitektur Tiga Pilar Utama Taksonomi Karakter TUMBUH](#1-formulasi-konseptual-arsitektur-tiga-pilar-utama-taksonomi-karakter-tumbuh)
   - [2. Matriks Integrasi 10 Karakter Muwashafat, 3 Pilar, & Dimensi CASEL SEL](#2-matriks-integrasi-10-karakter-muwashafat-3-pilar--dimensi-casel-sel)
   - [3. Alur Bimbingan Pedagogis Harian Berbasis Taksonomi 3 Pilar di Asrama](#3-alur-bimbingan-pedagogis-harian-berbasis-taksonomi-3-pilar-di-asrama)
@@ -69,7 +69,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kesempurnaan Akhlak (HR. Malik No. 1614) & Kerangka 10 Muwashafat
+### 2. Eksegesis Turats Kesempurnaan Akhlak (HR. Malik No. 1614) & Kerangka 10 Muwashafat
 
 ```mermaid
 graph TD
@@ -87,7 +87,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Sintesis Taksonomi Karakter Tripartit & Konvergensi 5 Kompetensi CASEL SEL
+### 3. Sintesis Taksonomi Karakter Tripartit & Konvergensi 5 Kompetensi CASEL SEL
 
 Kerangka kerja *Collaborative for Academic, Social, and Emotional Learning (CASEL)* menetapkan 5 kompetensi inti sosio-emosional:
 1. **Self-Awareness (Kesadaran Diri):** Konvergen dengan *Muhasabah Diri* dan *Salimul Aqidah* (mengenal hakikat diri sebagai hamba Allah).
@@ -98,7 +98,7 @@ Kerangka kerja *Collaborative for Academic, Social, and Emotional Learning (CASE
 
 ---
 
-### 4. Inkuiri 3: Hierarki Kausal Antar-Pilar: Mengapa Ruhiyah Menjadi Fondasi Mutlak bagi Amal Sosial
+### 4. Hierarki Kausal Antar-Pilar: Mengapa Ruhiyah Menjadi Fondasi Mutlak bagi Amal Sosial
 
 ```mermaid
 flowchart TD
@@ -115,21 +115,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Kerapian Kamar 5S Itu Budaya Jepang/Barat, Bukan Tradisi Santri"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Kerapian Kamar 5S Itu Budaya Jepang/Barat, Bukan Tradisi Santri"
 * **Pihak A (Sudut Pandang Dikotomi Kultural)**:  
   *"Santri kobong identik dengan tumpukan sarung dan kitab berserakan; itu ciri khas kezuhudan pesantren kuno!"*
 * **Tinjauan Hadits Keindahan & Thaharah**:  
   Rasulullah SAW bersabda: *"Innallaha jamiilun yuhibbul jamaal"* (Sesungguhnya Allah Maha Indah dan mencintai keindahan - HR. Muslim). Tumpukan pakaian kotor dan ruangan kumuh bukan kezuhudan, melainkan sarang penyakit kudis/scabies yang menghalangi kekhusyukan belajar. Menjaga kamar rapi (*Munazhzham fi Syu'unih*) adalah sunnah kenabian yang mulia.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Pembagian 3 Pilar Tidak Membuat Pengasuhan Terlalu Teoretis?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Pembagian 3 Pilar Tidak Membuat Pengasuhan Terlalu Teoretis?
 * **Pihak A (Sudut Pandang Skeptisisme Praktis)**:  
   *"Musyrif di asrama butuh cara praktis mengontrol santri, bukan teori taksonomi 3 pilar yang rumit!"*
 * **Tinjauan Kemudahan Diagnostik Perilaku**:  
   Taksonomi 3 pilar justru **Memudahkan Diagnosis Musyrif**: Ketika santri malas bangun subuh, musyrif langsung memeriksa: Apakah masalahnya di Pilar 2 (Fisik kelelahan/tidur larut) atau di Pilar 1 (Kemalasan niat ibadah)? Diagnosis yang presisi menghasilkan bimbingan yang tepat sasaran (*Targeted Intervention*).[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Karakter Khidmah Wajib Menjadi Muara Tertinggi?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Karakter Khidmah Wajib Menjadi Muara Tertinggi?
 * **Pihak A (Sudut Pandang Individualistik)**:  
   *"Tujuan santri mondok adalah menyelamatkan diri sendiri dari api neraka; mengapa khidmah sosial (*Nafi'un Lighairih*) dijadikan pilar utama?"*
 * **Resolusi Risalah Hadits Terbaik Manusia**:  
@@ -141,7 +141,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

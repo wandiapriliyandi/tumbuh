@@ -14,20 +14,20 @@
 >   Banyak pesantren masih menggunakan hukuman fisik (seperti memukul betis dengan rotan, push-up 100 kali, atau mengguyur air dingin ke kasur) bagi santri yang terlambat shalat. Pendekatan primitif ini terbukti secara ilmiah tidak memperbaiki perilaku, melainkan memicu kebencian mendalam santri terhadap shalat dan melahirkan trauma psikologis seumur hidup.
 > * **Inovasi Arsitektur PBIS Multi-Tier & CICO Fajar TUMBUH:**  
 >   TUMBUH merumuskan **Sistem Pembiasaan & Intervensi Bertingkat: 1. Tier 1 (Universal Prevention 80–90%: Ekspektasi Jelas, The 10-Minute Call, & Apresiasi 4:1); 2. Tier 2 (Targeted Support 10–15%: Check-In/Check-Out Fajar & Audit Tidur); 3. Tier 3 (Intensive Restorative 1–5%: Functional Behavior Assessment / FBA & Konseling BK Khusus)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah tahapan ta'zir syar'i (*Al-Wa'zhu, Al-Hajr, & Al-Ishlah* QS. An-Nisa: 34 & Al-Ghazali), menyintesiskan kerangka SW-PBIS Horner & Sugai (2015) dan FBA O'Neill (1997), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan SOP pembiasaan ibadah 24 jam bebas kekerasan.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA PROTOKOL INTERVENSI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-protokol-intervensi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Hukuman Fisik Kriminal vs Ketiadaan Sistem Intervensi Bertingkat](#1-latar-belakang-masalah-hukuman-fisik-kriminal-vs-ketiadaan-sistem-intervensi-bertingkat)
-  - [2. Inkuiri 1: Eksegesis Turats Marahil at-Ta'zir al-Islami (QS. An-Nisa: 34 & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-marahil-at-tazir-al-islami-qs-an-nisa-34--al-ghazali)
-  - [3. Inkuiri 2: School-Wide PBIS Multi-Tier, CICO, & Functional Behavior Assessment (FBA)](#3-inkuiri-2-school-wide-pbis-multi-tier-cico--functional-behavior-assessment-fba)
-  - [4. Inkuiri 3: SOP Pembiasaan Rutin Masjid & Asrama 24 Jam (The 10-Minute Call & Higiene Tidur)](#4-inkuiri-3-sop-pembiasaan-rutin-masjid--asrama-24-jam-the-10-minute-call--higiene-tidur)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Protokol Intervensi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-protokol-intervensi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Marahil at-Ta'zir al-Islami (QS. An-Nisa: 34 & Al-Ghazali)](#2eksegesis-turats-marahil-at-tazir-al-islami-qs-an-nisa-34-al-ghazali)
+  - [3. School-Wide PBIS Multi-Tier, CICO, & Functional Behavior Assessment (FBA)](#3school-wide-pbis-multi-tier-cico-functional-behavior-assessment-fba)
+  - [4. SOP Pembiasaan Rutin Masjid & Asrama 24 Jam (The 10-Minute Call & Higiene Tidur)](#4sop-pembiasaan-rutin-masjid-asrama-24-jam-the-10-minute-call-higiene-tidur)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Protokol Intervensi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-protokol-intervensi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Komprehensif PBIS 3-Tier Shahihul Ibadah (Tier 1, Tier 2, & Tier 3)](#1-arsitektur-komprehensif-pbis-3-tier-shahihul-ibadah-tier-1-tier-2--tier-3)
   - [2. Matriks Protokol Intervensi & Alur Penanganan Kasus Ibadah Multi-Tier](#2-matriks-protokol-intervensi--alur-penanganan-kasus-ibadah-multi-tier)
   - [3. Standar Operasional Prosedur (SOP) CICO Fajar & FBA Khusus Kasus Bolos Shalat](#3-standar-operasional-prosedur-sop-cico-fajar--fba-khusus-kasus-bolos-shalat)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Marahil at-Ta'zir al-Islami (QS. An-Nisa: 34 & Al-Ghazali)
+### 2. Eksegesis Turats Marahil at-Ta'zir al-Islami (QS. An-Nisa: 34 & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -87,19 +87,19 @@ $$\text{دَرَجَاتُ الْحِسْبَةِ خَمْسٌ: الْأُولَ
 
 *"**Derajat penegakan aturan (*Darajat al-Hisbah*) ada lima: Pertama: Memberitahukan dengan kelembutan tanpa kekerasan**, karena orang yang belum tahu jika diberitahu akan berhenti; **Kedua: Mencegah dengan nasihat, bimbingan, dan mengingatkan kepada Allah Ta'ala**; Ketiga: Teguran tegas dengan kata-kata serius (jika sengaja meremehkan); Keempat: Tindakan pencegahan fisik langsung (seperti menumpahkan khamar); Kelima: Ancaman tindakan fisik. **Dan tidak boleh berpindah ke tingkatan yang lebih tinggi jika tingkatan di bawahnya sudah mencukupi; maka barangsiapa yang menambah tindakan melampaui kadar kebutuhan, ia adalah orang yang zhalim dan melampaui batas!**"*[^3]
 
-#### 🥊 Ronde 1: Nasihat Lembut Sebelum Menjatuhkan Tindakan Korektif
+#### 1. Diskursus Dialektika Kritis: Nasihat Lembut Sebelum Menjatuhkan Tindakan Korektif
 * **Pihak A (Sudut Pandang Langsung Menghukum Tanpa Menasihati)**:  
   *"Santri yang masbuq shalat tidak perlu dinasihati atau diajak bicara; langsung suruh membersihkan selokan asrama!"*
 * **Tinjauan Kaidah At-Ta'rif bi Luthf**:  
   Menjatuhkan sanksi tanpa dialog edukatif melahirkan rasa dizalimi (*Perceived Injustice*). Sesuai kaidah Al-Ghazali, langkah pertama musyrif adalah **Penyadaran Lembut (*At-Ta'rif bi Luthf*)**: mengajak santri duduk berdua, menanyakan alasan keterlambatannya, dan membimbingnya wudhu dengan tenang. Sanksi hanya melahirkan dendam, sedangkan sentuhan nasihat melahirkan kesadaran kalbu.[^4]
 
-#### 🥊 Ronde 2: Hajr Edukatif (Isolasi Reflektif) Tanpa Kekerasan
+#### 2. Diskursus Dialektika Kritis: Hajr Edukatif (Isolasi Reflektif) Tanpa Kekerasan
 * **Pihak A (Sudut Pandang Mengasingkan Santri di Ruang Gelap Menakutkan)**:  
   *"Kunci santri yang malas shalat di dalam gudang gelap berjam-jam agar dia jera!"*
 * **Tinjauan Fiqh al-Hajr & Perlindungan Jiwa**:  
   Mengurung anak di ruang gelap adalah tindakan pidana penyiksaan (*Child Abuse*) yang diharamkan syariat dan hukum negara. Konsep *Al-Hajr* syar'i adalah **Isolasi Reflektif Terpantau (*Supervised Time-Out*)**: santri duduk di ruang bimbingan yang nyaman dan terang selama 15–20 menit untuk membaca Al-Qur'an dan merenungkan kesalahannya didampingi musyrif. Jiwa santri disembuhkan, bukan dirusak.[^5]
 
-#### 🥊 Ronde 3: Ishlah al-Bain: Memulihkan Hubungan Santri-Musyrif
+#### 3. Diskursus Dialektika Kritis: Ishlah al-Bain: Memulihkan Hubungan Santri-Musyrif
 * **Pihak A (Sudut Pandang Membiarkan Musyrif Bersikap Dingin dan Membenci Santri)**:  
   *"Musyrif harus bermuka masam dan mendiamkan santri yang pernah melanggar aturan selama berbulan-bulan!"*
 * **Resolusi Fiqh Ishlah al-Bain & Sabda Nabi SAW**:  
@@ -107,7 +107,7 @@ $$\text{دَرَجَاتُ الْحِسْبَةِ خَمْسٌ: الْأُولَ
 
 ---
 
-### 3. Inkuiri 2: School-Wide PBIS Multi-Tier, CICO, & Functional Behavior Assessment (FBA)
+### 3. School-Wide PBIS Multi-Tier, CICO, & Functional Behavior Assessment (FBA)
 
 ```mermaid
 graph TD
@@ -136,19 +136,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Tier 1 Universal Prevention (80–90% Santri): The 10-Minute Call
+#### 1. Diskursus Dialektika Kritis: Tier 1 Universal Prevention (80–90% Santri): The 10-Minute Call
 * **Pihak A (Sudut Pandang Menunggu Santri Melanggar Baru Bertindak)**:  
   *"Biarkan santri beraktivitas bebas; kalau ada yang masbuq baru kita hukum di depan pintu masjid!"*
 * **Tinjauan Filosofi Pencegahan Primer SW-PBIS**:  
   Menunggu santri berbuat salah adalah kegagalan sistemik. Di Tier 1, TUMBUH menerapkan **The 10-Minute Call (Panggilan 10 Menit Menuju Masjid)**: bel asrama berbunyi lembut 10 menit sebelum adzan berkumandang. Seluruh santri serentak berwudhu dan berjalan bersama menuju masjid sambil melafalkan shalawat. 85% potensi keterlambatan masbuq dicegah sebelum sempat terjadi.[^8]
 
-#### 🥊 Ronde 2: Tier 2 Check-In/Check-Out (CICO) Fajar (10–15% Santri Berisiko)
+#### 2. Diskursus Dialektika Kritis: Tier 2 Check-In/Check-Out (CICO) Fajar (10–15% Santri Berisiko)
 * **Pihak A (Sudut Pandang Santri Sering Masbuq Dikeluarkan dari Pondok)**:  
   *"Santri yang masbuq lebih dari 3 kali sepekan harus langsung diberi surat peringatan drop-out!"*
 * **Tinjauan Intervensi CICO (Deanne Crone et al.)**:  
   Mengeluarkan santri karena sering masbuq adalah keputusasaan pendidikan. Santri yang sering terlambat dimasukkan ke program **CICO Fajar (Tier 2)** selama 3 pekan: *(1) Check-In Malam: Santri melapor kepada musyrif pukul 21.30 dan menaruh kartu saku; (2) Bangun Didampingi: Musyrif menyapa santri 15 menit lebih awal; (3) Check-Out Ba'da Shubuh: Musyrif menandatangani kartu kehadiran di saf pertama dan memberi apresiasi hangat*. 94% santri berhasil kembali mandiri ke Tier 1.[^9]
 
-#### 🥊 Ronde 3: Tier 3 Functional Behavior Assessment (FBA) Kasus Bolos Shalat
+#### 3. Diskursus Dialektika Kritis: Tier 3 Functional Behavior Assessment (FBA) Kasus Bolos Shalat
 * **Pihak A (Sudut Pandang Menghakimi Santri Sembunyi Sebagai Anak Setan)**:  
   *"Santri yang sengaja sembunyi di dalam lemari saat shalat Ashar adalah anak terkutuk yang kerasukan jin!"*
 * **Resolusi Functional Behavior Assessment (FBA O'Neill)**:  
@@ -156,7 +156,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: SOP Pembiasaan Rutin Masjid & Asrama 24 Jam (The 10-Minute Call & Higiene Tidur)
+### 4. SOP Pembiasaan Rutin Masjid & Asrama 24 Jam (The 10-Minute Call & Higiene Tidur)
 
 ```mermaid
 flowchart TD
@@ -179,19 +179,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH mengunci SOP 24 Jam: menjamin waktu tidur santri minimal 6.5–7 jam dan mengawal ritme ibadah fardhu-sunnah secara presisi.
 * **Konklusi (*an-Natijah*)**: Maka, proses pembiasaan ibadah santri di pesantren TUMBUH berlangsung dengan penuh kesehatan fisik, kejernihan pikiran, dan kedamaian jiwa.[^11]
 
-#### 🥊 Ronde 1: The 10-Minute Call: Menghilangkan Budaya Terburu-buru
+#### 1. Diskursus Dialektika Kritis: The 10-Minute Call: Menghilangkan Budaya Terburu-buru
 * **Pihak A (Sudut Pandang Berangkat ke Masjid Pas Iqamah Berbunyi)**:  
   *"Biarkan santri baru berlari ke masjid saat iqamah sudah berkumandang agar melatih kecepatan gerak!"*
 * **Tinjauan Hadits I'tūhas Sakīnah (HR. Bukhari No. 636)**:  
   Rasulullah SAW bersabda: *"Apabila kalian mendengar iqamah, maka berjalanlah menuju shalat dengan tenang dan anggun (*As-Sakinah wal-Waqar*), dan **janganlah kalian tergesa-gesa berlari!**"* (HR. Al-Bukhari No. 636). Berlari terburu-buru merusak ketenangan jantung (*Heart Rate Spike*) dan melenyapkan kekhusyukan awal shalat. Protokol *The 10-Minute Call* memastikan santri tiba di masjid dengan nafas teratur, wudhu sempurna, dan hati yang siap bermunajat.[^12]
 
-#### 🥊 Ronde 2: Perlindungan Tidur Nyenyak Santri (Lampu Padam Pukul 22.00)
+#### 2. Diskursus Dialektika Kritis: Perlindungan Tidur Nyenyak Santri (Lampu Padam Pukul 22.00)
 * **Pihak A (Sudut Pandang Santri Disuruh Mengaji Sampai Jam 01.00 Pagi)**:  
   *"Santri yang hebat itu yang tidurnya cuma 3 jam semalam; biarkan lampu kamar menyala sampai dini hari!"*
 * **Tinjauan Neurosains Memori & Pemulihan Sel Otak**:  
   Memotong jam tidur remaja hingga di bawah 5 jam memicu kerusakan fungsi kognitif, gangguan memori hafalan, dan ledakan hormon stres kortisol yang membuat santri mudah emosional dan malas ibadah. TUMBUH menegakkan aturan: **Lampu Kamar Padam Total Pukul 22.00**: santri tidur nyenyak 6 jam, bangun pukul 04.00 dengan tubuh segar bugar dan otak yang siap menyerap ilmu.[^13]
 
-#### 🥊 Ronde 3: Pendampingan Bangun Fajar Penuh Kasih (Wake-Up with Dignity)
+#### 3. Diskursus Dialektika Kritis: Pendampingan Bangun Fajar Penuh Kasih (Wake-Up with Dignity)
 * **Pihak A (Sudut Pandang Memukul Ranjang Besi dan Meneriakkan Kata Kasar)**:  
   *"Bangunkan santri dengan memukul ember dan teriak 'Bangun woy pemalas!'; itu cara tradisional yang paling ampuh!"*
 * **Resolusi Adab Membangunkan Manusia (Wake-Up with Dignity Protocol)**:  
@@ -199,9 +199,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Protokol Intervensi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Protokol Intervensi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Senior Melakukan Kekerasan Fisik Berkedok Disiplin Shalat)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Senior Melakukan Kekerasan Fisik Berkedok Disiplin Shalat)
 Pertarungan filosofis-operasional terdalam bermuara pada kasus: **"Bagaimana pimpinan pesantren menyikapi pengurus organisasi santri kelas 12 yang tertangkap basah menyuruh 10 adik kelas yang terlambat shalat Shubuh melakukan push-up 100 kali di belakang masjid dan menampar salah seorang adik kelas yang tidak sanggup melanjutkannya?"**
 
 * **Pendekatan Lama (Pembiaran Senioritas Militeristik)**:  
@@ -250,7 +250,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

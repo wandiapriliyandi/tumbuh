@@ -21,13 +21,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA KOMPARASI TAKSONOMI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-komparasi-taksonomi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Reduksionisme Kognitif dalam Penilaian Santri & Kebutuhan Integrasi Turats](#1-latar-belakang-masalah-reduksionisme-kognitif-dalam-penilaian-santri--kebutuhan-integrasi-turats)
-  - [2. Inkuiri 1: Eksegesis Epistemologi Konsep Adab Al-Attas vs Taksonomi Afektif Krathwohl/Bloom](#2-inkuiri-1-eksegesis-epistemologi-konsep-adab-al-attas-vs-taksonomi-afektif-krathwohlbloom)
-  - [3. Inkuiri 2: Sintesis Taksonomi Kognitif Marzano & Taksonomi Riyadhah Nafs Imam Al-Ghazali](#3-inkuiri-2-sintesis-taksonomi-kognitif-marzano--taksonomi-riyadhah-nafs-imam-al-ghazali)
-  - [4. Inkuiri 3: Dekonstruksi Sekularisme Taksonomi Barat & Rekonstruksi Taksonomi Berbasis Fitrah](#4-inkuiri-3-dekonstruksi-sekularisme-taksonomi-barat--rekonstruksi-taksonomi-berbasis-fitrah)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Epistemologi Konsep Adab Al-Attas vs Taksonomi Afektif Krathwohl/Bloom](#2eksegesis-epistemologi-konsep-adab-al-attas-vs-taksonomi-afektif-krathwohlbloom)
+  - [3. Sintesis Taksonomi Kognitif Marzano & Taksonomi Riyadhah Nafs Imam Al-Ghazali](#3sintesis-taksonomi-kognitif-marzano-taksonomi-riyadhah-nafs-imam-al-ghazali)
+  - [4. Dekonstruksi Sekularisme Taksonomi Barat & Rekonstruksi Taksonomi Berbasis Fitrah](#4dekonstruksi-sekularisme-taksonomi-barat-rekonstruksi-taksonomi-berbasis-fitrah)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Model Taksonomi Fitrah Adab Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-model-taksonomi-fitrah-adab-terpadu-pesantren-tumbuh)
   - [2. Matriks Pemetaan Komparatif Taksonomi Bloom, Marzano, Turats, & Jenjang Kemandirian TUMBUH (J1–J4)](#2-matriks-pemetaan-komparatif-taksonomi-bloom-marzano-turats--tangga-tumbuh)
   - [3. Panduan Operasional Penerapan Taksonomi Fitrah dalam RPP Asatidz & Halaqah Musyrif](#3-panduan-operasional-penerapan-taksonomi-fitrah-dalam-rpp-asatidz--halaqah-musyrif)
@@ -65,7 +65,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Epistemologi Konsep Adab Al-Attas vs Taksonomi Afektif Krathwohl/Bloom
+### 2. Eksegesis Epistemologi Konsep Adab Al-Attas vs Taksonomi Afektif Krathwohl/Bloom
 
 ```mermaid
 graph TD
@@ -83,7 +83,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Sintesis Taksonomi Kognitif Marzano & Taksonomi Riyadhah Nafs Imam Al-Ghazali
+### 3. Sintesis Taksonomi Kognitif Marzano & Taksonomi Riyadhah Nafs Imam Al-Ghazali
 
 Robert Marzano dalam *The New Taxonomy of Educational Objectives* (2007) memperbaiki kelemahan Bloom dengan menambahkan **Sistem Diri (*Self-System*) dan Sistem Metakognitif (*Metacognitive System*)**:
 * Sistem Diri Marzano memeriksa: *"Apakah tugas ini penting bagi saya? Apakah saya mampu melakukannya? Apa emosi saya terhadap tugas ini?"*
@@ -92,7 +92,7 @@ Robert Marzano dalam *The New Taxonomy of Educational Objectives* (2007) memperb
 
 ---
 
-### 4. Inkuiri 3: Dekonstruksi Sekularisme Taksonomi Barat & Rekonstruksi Taksonomi Berbasis Fitrah
+### 4. Dekonstruksi Sekularisme Taksonomi Barat & Rekonstruksi Taksonomi Berbasis Fitrah
 
 ```mermaid
 flowchart TD
@@ -111,21 +111,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Taksonomi Bloom C1–C6 Sudah Cukup untuk Menilai Santri"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Taksonomi Bloom C1–C6 Sudah Cukup untuk Menilai Santri"
 * **Pihak A (Sudut Pandang Saintisme Pendidikan)**:  
   *"Jika santri sudah mencapai level C6 (Creating/Mencipta) dalam ujian, ia sudah menjadi manusia unggul; tidak perlu dinilai adabnya lagi!"*
 * **Tinjauan Maqashid Syari'ah & Bahaya Arogansi Ilmiah**:  
   Banyak pelaku korupsi dan perusak lingkungan memiliki level kognitif C6 (sangat kreatif dan cerdas merekayasa sistem). Kecerdasan kognitif tanpa adab adalah pisau berbahaya di tangan orang zalim. Evaluasi santri wajib mengukur kematangan adab (*Ta'dib*) di atas kecerdasan teknis.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Menggunakan Taksonomi Barat Tidak Menodai Turats Pesantren?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Menggunakan Taksonomi Barat Tidak Menodai Turats Pesantren?
 * **Pihak A (Sudut Pandang Anti-Sains Barat)**:  
   *"Memasukkan nama Bloom dan Marzano ke pesantren adalah bentuk westernisasi dan sekularisasi tersembunyi!"*
 * **Tinjauan Kaidah Islamisasi & Al-Akhdzu bil Jadidil Ashlah**:  
   Kaidah ushul fiqh menegaskan: *Al-Muhafazhatu 'alal qadimish shalih wal akhdzu bil jadidil ashlah*. Mengambil kerangka klasifikasi kognitif Barat yang objektif (*tools*) dan menyucikannya dengan ruh tauhid Islam (*Islamic Worldview*) adalah tradisi para ilmuwan muslim terdahulu yang menerjemahkan dan mengislamkan filsafat Yunani.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Bagaimana Menilai Ranah Tazkiyah & Keikhlasan yang Gaib?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Bagaimana Menilai Ranah Tazkiyah & Keikhlasan yang Gaib?
 * **Pihak A (Sudut Pandang Skeptisisme Pengukuran)**:  
   *"Keikhlasan dan penyucian jiwa itu urusan hati; guru tidak berhak menilainya karena itu hak prerogatif Allah!"*
 * **Resolusi Asesmen Autentik & Indikator Dhohir**:  
@@ -137,7 +137,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

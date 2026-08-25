@@ -14,20 +14,20 @@
 >   Banyak santri menghafal nilai-nilai agama di kepala, namun saat menghadapi tekanan pergaulan (*Peer Pressure*) atau situasi dilematis, mereka mengalami disonansi kognitif dan memilih kompromi amoral (misal: berbohong, menyontek, atau percaya ramalan zodiak di media sosial). Nilai agama terdegradasi menjadi sekadar pajangan slogan dinding (*Dead Placards*).
 > * **Inovasi Lima Nilai Inti (*Five Core Values*) Salimul Aqidah TUMBUH:**  
 >   TUMBUH merumuskan aksiologi tauhid ke dalam lima pilar nilai hidup (*Living Values*): **1. Tauhid Murni (*Ikhlasul 'Amal*)**, **2. Muraqabatullah (*Kesadaran Pengawasan Ilahi*)**, **3. Tawakkal Hakiki (*Sandaran Mutlak*)**, **4. Shidqul Iman (*Integritas Kejujuran Batin*)**, dan **5. Bara'ah minasy-Syirki (*Imunitas Khurafat & Takhayul*)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah nash kemurnian tauhid (*Surah Al-Ikhlas & Matan Thahawiyyah*), mengintegrasikannya dengan teori nilai transendensi Schwartz (1992) dan resolusi disonansi Festinger (1957), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan batas larangan mutlak (*Red Lines*) penegakan kultur asrama 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA NILAI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-nilai)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Krisis Disonansi Nilai Santri: Hafal Doktrin Namun Rapuh Saat Menghadapi Dilema Nyata](#1-latar-belakang-masalah-krisis-disonansi-nilai-santri-hafal-doktrin-namun-rapuh-saat-menghadapi-dilema-nyata)
-  - [2. Inkuiri 1: Eksegesis Turats Lima Nilai Inti Tauhid (QS. Al-Ikhlas: 1–4, QS. Al-Hadid: 4, & Ath-Thahawiyyah)](#2-inkuiri-1-eksegesis-turats-lima-nilai-inti-tauhid-qs-al-ikhlas-14-qs-al-hadid-4--ath-thahawiyyah)
-  - [3. Inkuiri 2: Teori Nilai Universal Shalom Schwartz & Resolusi Disonansi Kognitif Leon Festinger](#3-inkuiri-2-teori-nilai-universal-shalom-schwartz--resolusi-disonansi-kognitif-leon-festinger)
-  - [4. Inkuiri 3: Translasi Lima Nilai Inti ke dalam Kultur Iklim Asrama 24 Jam (Bi'ah Shalihah)](#4-inkuiri-3-translasi-lima-nilai-inti-ke-dalam-kultur-iklim-asrama-24-jam-biah-shalihah)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Nilai](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-resolusi-nilai)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Lima Nilai Inti Tauhid (QS. Al-Ikhlas: 1–4, QS. Al-Hadid: 4, & Ath-Thahawiyyah)](#2eksegesis-turats-lima-nilai-inti-tauhid-qs-al-ikhlas-14-qs-al-hadid-4-ath-thahawiyyah)
+  - [3. Teori Nilai Universal Shalom Schwartz & Resolusi Disonansi Kognitif Leon Festinger](#3teori-nilai-universal-shalom-schwartz-resolusi-disonansi-kognitif-leon-festinger)
+  - [4. Translasi Lima Nilai Inti ke dalam Kultur Iklim Asrama 24 Jam (Bi'ah Shalihah)](#4translasi-lima-nilai-inti-ke-dalam-kultur-iklim-asrama-24-jam-biah-shalihah)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Nilai](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-resolusi-nilai)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Lima Nilai Inti (Five Core Values) Salimul Aqidah TUMBUH](#1-formulasi-lima-nilai-inti-five-core-values-salimul-aqidah-tumbuh)
   - [2. Matriks Prinsip Operasional dan Batas Larangan Mutlak (Red Lines)](#2-matriks-prinsip-operasional-dan-batas-larangan-mutlak-red-lines)
   - [3. Protokol Penanaman & Penguatan Nilai Inti di Asrama 24 Jam (PBIS Tier 1–3)](#3-protokol-penanaman--penguatan-nilai-inti-di-asrama-24-jam-pbis-tier-13)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Lima Nilai Inti Tauhid (QS. Al-Ikhlas: 1–4, QS. Al-Hadid: 4, & Ath-Thahawiyyah)
+### 2. Eksegesis Turats Lima Nilai Inti Tauhid (QS. Al-Ikhlas: 1–4, QS. Al-Hadid: 4, & Ath-Thahawiyyah)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{وَالصِّدْقُ يَكُونُ فِي الْقَوْلِ، وَف
 
 *"Kejujuran (Shidq) itu berada pada enam tingkatan: jujur dalam lisan, jujur dalam niat dan kehendak, jujur dalam tekad, jujur dalam menepati tekad, jujur dalam amal perbuatan, dan jujur dalam merealisasikan seluruh maqamat agama. **Maka barangsiapa yang sempurna kejujurannya pada seluruh tingkatan ini, dialah orang yang benar-benar Shiddiq!**"*[^4]
 
-#### 🥊 Ronde 1: Nilai Inti Filosofis vs Daftar Aturan Tertulis Kering
+#### 1. Diskursus Dialektika Kritis: Nilai Inti Filosofis vs Daftar Aturan Tertulis Kering
 * **Pihak A (Sudut Pandang Legalisme Kaku)**:  
   *"Pesantren cukup membuat 100 pasal tata tertib asrama yang memuat denda dan hukuman; santri tidak butuh pemahaman nilai inti filosofis!"*
 * **Tinjauan Aksiologi & Psikologi Moral**:  
   Tata tertib tanpa nilai inti melahirkan mentalitas penghindaran hukuman (*Punishment-Avoidance Mindset*). Santri hanya patuh jika ada pasal yang melarang, dan akan mencari celah hukum (*Loopholes*) di luar pasal tertulis. Sebaliknya, ketika **Nilai Inti Muraqabatullah dan Shidq** tertanam, santri memiliki kompas moral internal yang melarangnya berbuat curang meskipun tidak ada pasal tertulis yang mengaturnya secara eksplisit. Nilai inti adalah ruh yang menghidupkan hukum.[^5]
 
-#### 🥊 Ronde 2: Shidqul Iman vs Kepura-puraan Sosial (Social Desirability Bias)
+#### 2. Diskursus Dialektika Kritis: Shidqul Iman vs Kepura-puraan Sosial (Social Desirability Bias)
 * **Pihak A (Sudut Pandang Pencitraan Kelembagaan)**:  
   *"Yang penting santri terlihat sopan dan tertib saat ada tamu atau wali santri berkunjung; masalah apakah batinnya jujur itu urusan pribadi masing-masing!"*
 * **Tinjauan Bahaya Nifaq dalam Turats**:  
   Menoleransi kepura-puraan sosial (*Nifaq 'Amali*) sama dengan mendidik santri menjadi generasi munafik yang bermuka dua. Rasulullah SAW mengecam keras orang yang menampakkan kesalehan di hadapan manusia namun melanggar batasan Allah saat sendirian (HR. Ibnu Majah No. 4245). Nilai inti *Shidqul Iman* TUMBUH menuntut keselarasan mutlak antara apa yang diyakini di hati, diucapkan di lisan, dan diamalkan di ruang tertutup.[^6]
 
-#### 🥊 Ronde 3: Bara'ah minasy-Syirk vs Kompromi Mitos Tradisi Lokal
+#### 3. Diskursus Dialektika Kritis: Bara'ah minasy-Syirk vs Kompromi Mitos Tradisi Lokal
 * **Pihak A (Sudut Pandang Sinkretisme Pasif)**:  
   *"Banyak santri dan masyarakat sekitar pondok percaya mitos pohon angker atau sesajen tolak bala; membiarkannya demi menjaga kerukunan adat lebih baik dibanding mempermasalahkannya!"*
 * **Resolusi Dakwah Bil-Hikmah & Pemurnian Aqidah**:  
@@ -112,7 +112,7 @@ $$\text{وَالصِّدْقُ يَكُونُ فِي الْقَوْلِ، وَف
 
 ---
 
-### 3. Inkuiri 2: Teori Nilai Universal Shalom Schwartz & Resolusi Disonansi Kognitif Leon Festinger
+### 3. Teori Nilai Universal Shalom Schwartz & Resolusi Disonansi Kognitif Leon Festinger
 
 ```mermaid
 graph TD
@@ -146,19 +146,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Nilai Transendensi Schwartz vs Obsesi Nilai Hedonisme Remaja
+#### 1. Diskursus Dialektika Kritis: Nilai Transendensi Schwartz vs Obsesi Nilai Hedonisme Remaja
 * **Pihak A (Sudut Pandang Budaya Populer Konsumtif)**:  
   *"Remaja masa kini lebih menghargai nilai popularitas medsos, kesenangan instan (Hedonisme), dan kekayaan materi. Menanamkan nilai muraqabah dan tawakkal sudah ketinggalan zaman!"*
 * **Tinjauan Riset Psikologi Nilai Shalom Schwartz**:  
   Riset lintas 70 negara oleh **Shalom Schwartz** membuktikan bahwa individu yang memprioritaskan nilai *Hedonism & Power* memiliki tingkat kecemasan, depresi, dan kesepian yang jauh lebih tinggi. Sebaliknya, nilai **Self-Transcendence & Benevolence** (yang dalam Islam berakar pada *Tauhid & Khidmah*) memberikan kepuasan hidup yang mendalam (*Eudaimonic Well-being*). Menanamkan nilai aqidah adalah menyelamatkan generasi muda dari kehampaan eksistensial.[^9]
 
-#### 🥊 Ronde 2: Mengatasi Rasionalisasi Dosa pada Santri Pelanggar
+#### 2. Diskursus Dialektika Kritis: Mengatasi Rasionalisasi Dosa pada Santri Pelanggar
 * **Pihak A (Sudut Pandang Normalisasi Pelanggaran)**:  
   *"Santri yang menyontek beralasan 'saya menyontek supaya orang tua saya senang melihat nilai saya bagus'. Bukankah niatnya membahagiakan orang tua itu bernilai baik?"*
 * **Tinjauan Resolusi Disonansi & Kaidah Al-Ghayah la Tubarrirul Wasilah**:  
   Ini adalah bentuk disonansi kognitif yang memicu rasionalisasi sesat (*Self-Justification*). Kaidah syariat menegaskan: *"Tujuan mulia tidak menghalalkan cara yang haram"*. Membahagiakan orang tua dengan kepalsuan adalah kebohongan berlapis. Nilai inti *Shidqul Iman* mendidik santri bahwa nilai rendah yang diraih dengan jujur jauh lebih berkah dan mulia di hadapan Allah dibanding nilai 100 hasil kecurangan.[^10]
 
-#### 🥊 Ronde 3: Menanamkan Nilai Tanpa Teror Indoktrinasi (Dialogis vs Otoriter)
+#### 3. Diskursus Dialektika Kritis: Menanamkan Nilai Tanpa Teror Indoktrinasi (Dialogis vs Otoriter)
 * **Pihak A (Sudut Pandang Indoktrinasi Dogmatis)**:  
   *"Menanamkan nilai aqidah harus dengan doktrin mutlak dan santri tidak boleh banyak bertanya; dialog hanya membuka pintu keraguan!"*
 * **Resolusi Pedagogi Sokratik Nabawi**:  
@@ -166,7 +166,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Translasi Lima Nilai Inti ke dalam Kultur Iklim Asrama 24 Jam (Bi'ah Shalihah)
+### 4. Translasi Lima Nilai Inti ke dalam Kultur Iklim Asrama 24 Jam (Bi'ah Shalihah)
 
 ```mermaid
 flowchart TD
@@ -186,19 +186,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH menerjemahkan 5 Nilai Inti Salimul Aqidah ke dalam SOP pengasuhan asrama, logbook digital PBIS, dan lingkaran muhasabah mingguan.
 * **Konklusi (*an-Natijah*)**: Maka, pembentukan iklim Bi'ah Shalihah berbasis 5 Nilai Inti menjamin terwujudnya internalisasi aqidah yang langgeng pada diri santri.[^12]
 
-#### 🥊 Ronde 1: "Living Core Values" vs Spanduk Slogan Hampa
+#### 1. Diskursus Dialektika Kritis: "Living Core Values" vs Spanduk Slogan Hampa
 * **Pihak A (Sudut Pandang Formalisme Seremonial)**:  
   *"Pondok kami sudah memasang baliho 5 Nilai Inti di gerbang utama dan ruang makan; itu sudah cukup membuktikan nilai kami berjalan!"*
 * **Tinjauan Antropologi Budaya Sekolah**:  
   Baliho dan slogan dinding adalah artefak permukaan (*Surface Artifacts*). Jika di bawah baliho tersebut musyrif masih menampar santri atau santri masih mencuri sandal, maka baliho tersebut menjadi simbol kemunafikan kelembagaan. Nilai inti menjadi hidup (*Living Values*) ketika **Terminologi Nilai Digunakan dalam Bahasa Bimbingan Sehari-hari**: Musyrif menyapa santri yang jujur dengan: *"Jazakallahu khairan, kejujuranmu membuktikan nilai Shidqul Iman dalam jiwamu"*. Bahasa penghargaan inilah yang mengakar ke dalam alam bawah sadar santri.[^13]
 
-#### 🥊 Ronde 2: Fast-Logging Nilai Inti dalam Aplikasi PBIS Mobile
+#### 2. Diskursus Dialektika Kritis: Fast-Logging Nilai Inti dalam Aplikasi PBIS Mobile
 * **Pihak A (Sudut Pandang Skeptisisme Digitalisasi Karakter)**:  
   *"Memasukkan nilai aqidah ke dalam aplikasi poin digital mereduksi kesucian agama menjadi seperti bermain game (Gamifikasi Dangkal)!"*
 * **Tinjauan Penguatan Positif Perilaku (Positive Reinforcement)**:  
   Aplikasi digital PBIS TUMBUH bukan game transaksional, melainkan **Alat Pencatatan Rekam Jejak Kebajikan (*Diwan al-Hasanat Digital*)**. Ketika santri menunjukkan nilai *Bara'ah minasy-Syirki* dengan melaporkan dan membuang jimat secara sukarela, musyrif mencatatnya sebagai apresiasi kebaikan. Catatan ini memberi santri penguatan bahwa perbuatan baiknya dihargai dan diakui oleh ekosistem pondok.[^14]
 
-#### 🥊 Ronde 3: Keteladanan Integritas Nilai Musyrif dan Dewan Kyai
+#### 3. Diskursus Dialektika Kritis: Keteladanan Integritas Nilai Musyrif dan Dewan Kyai
 * **Pihak A (Sudut Pandang Imunitas Otoritas Pimpinan)**:  
   *"Nilai inti hanya berlaku untuk santri; pimpinan pondok dan musyrif senior memiliki hak prerogatif untuk tidak terikat pada evaluasi nilai!"*
 * **Resolusi Prinsip Keadilan Syar'i (Kullukum Ra'in)**:  
@@ -206,9 +206,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Nilai
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Nilai
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Benturan Nilai di Asrama)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Benturan Nilai di Asrama)
 Pertarungan filosofis terdalam dalam penegakan nilai bermuara pada kasus: **"Bagaimana menyikapi santri yang tergoda mempraktikkan ramalan modern (seperti membaca kartu Tarot atau tren ramalan jodoh viral di media sosial) dengan dalih 'Hanya untuk seru-seruan hiburan dan kami tidak meyakininya di dalam hati'?"**
 
 * **Pendekatan Lama (Vonis Kafir / Pengusiran Instan)**:  
@@ -256,7 +256,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

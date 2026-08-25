@@ -14,20 +14,20 @@
 >   Target keberhasilan aqidah di banyak lembaga kerap hanya diukur dari kelulusan tes kognitif berkas (misal: "Lulus Ujian Aqidah: Nilai 80"). Pendekatan ini mengabaikan target transformasi batin (*Tazkiyatun Nafs*) dan tidak memiliki indikator keberhasilan yang terukur untuk menilai apakah santri memiliki integritas saat tidak diawasi.
 > * **Inovasi Sistem Target Tri-Level TUMBUH:**  
 >   TUMBUH merumuskan arsitektur target tri-level yang terpadu: **Target Jangka Pendek / *Immediate* (Pembiasaan Adab & Dzikir Harian)**, **Target Jangka Menengah / *Intermediate* (Imunitas dari Syubhat, Takhayul, & Pembentukan Muraqabah Mandiri)**, dan **Target Jangka Panjang / *Ultimate* (Pencapaian Maqam Ihsan & Menjadi Teladan Qudwah Peradaban)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah teleologi Al-Qur'an (*Maqashid Wasiat Luqman QS. Luqman: 13–19*), menyintesiskan *Goal-Setting Theory* (Locke & Latham, 2002), menguji dialektika 3 ronde pada setiap inkuiri, dan merumuskan matriks target kuantitatif-kualitatif yang kompatibel dengan pelaporan rapor perkembangan santri 24 jam.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TUJUAN](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-tujuan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Target Pendidikan Tanpa Metrik Transformasi Perilaku Batin](#1-latar-belakang-masalah-bahaya-target-pendidikan-tanpa-metrik-transformasi-perilaku-batin)
-  - [2. Inkuiri 1: Eksegesis Turats Maqashid Tarbiyah Tauhidiyyah: Wasiat Luqman Al-Hakim (QS. Luqman: 13–19)](#2-inkuiri-1-eksegesis-turats-maqashid-tarbiyah-tauhidiyyah-wasiat-luqman-al-hakim-qs-luqman-1319)
-  - [3. Inkuiri 2: Teori Penetapan Sasaran Edwin Locke & Goal-Setting Theory dalam Pembiasaan Muraqabah](#3-inkuiri-2-teori-penetapan-sasaran-edwin-locke--goal-setting-theory-dalam-pembiasaan-muraqabah)
-  - [4. Inkuiri 3: Triangulasi Metrik Kuantitatif & Kualitatif: Evaluasi Bertahap Tangga J1–J4](#4-inkuiri-3-triangulasi-metrik-kuantitatif--kualitatif-evaluasi-bertahap-tangga-t1t4)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Target](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-resolusi-target)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Maqashid Tarbiyah Tauhidiyyah: Wasiat Luqman Al-Hakim (QS. Luqman: 13–19)](#2eksegesis-turats-maqashid-tarbiyah-tauhidiyyah-wasiat-luqman-al-hakim-qs-luqman-1319)
+  - [3. Teori Penetapan Sasaran Edwin Locke & Goal-Setting Theory dalam Pembiasaan Muraqabah](#3teori-penetapan-sasaran-edwin-locke-goal-setting-theory-dalam-pembiasaan-muraqabah)
+  - [4. Triangulasi Metrik Kuantitatif & Kualitatif: Evaluasi Bertahap Tangga J1–J4](#4triangulasi-metrik-kuantitatif-kualitatif-evaluasi-bertahap-tangga-j1j4)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Target](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-resolusi-target)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Hirarki Tiga Tingkatan Tujuan Pembinaan Salimul Aqidah (Immediate, Intermediate, Ultimate)](#1-hirarki-tiga-tingkatan-tujuan-pembinaan-salimul-aqidah-immediate-intermediate-ultimate)
   - [2. Matriks Target Kuantitatif & Kualitatif Berbasis Jenjang Kemandirian TUMBUH (J1–J4)](#2-matriks-target-kuantitatif--kualitatif-berbasis-tangga-tumbuh-t1t4)
   - [3. Peta Jalan Longitudinal Capaian Aqidah 3 Tahun & 6 Tahun di Pesantren](#3-peta-jalan-longitudinal-capaian-aqidah-3-tahun--6-tahun-di-pesantren)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Maqashid Tarbiyah Tauhidiyyah: Wasiat Luqman Al-Hakim (QS. Luqman: 13–19)
+### 2. Eksegesis Turats Maqashid Tarbiyah Tauhidiyyah: Wasiat Luqman Al-Hakim (QS. Luqman: 13–19)
 
 ```mermaid
 graph TD
@@ -87,19 +87,19 @@ $$\text{يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَال�
 
 *"**(Luqman berkata): 'Wahai anakku! Sesungguhnya jika ada (suatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di dalam bumi, niscaya Allah akan mendatangkannya (membalasinya). Sesungguhnya Allah Maha Halus lagi Maha Mengetahui.'**"* (QS. Luqman [31]: 16).[^3]
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Target Kognitif Sudah Cukup untuk Menilai Aqidah"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Target Kognitif Sudah Cukup untuk Menilai Aqidah"
 * **Pihak A (Sudut Pandang Evaluasi Akademis Murni)**:  
   *"Guru madrasah bertugas mengajar di kelas, targetnya adalah santri lulus ujian tertulis dengan nilai di atas KKM (Kriteria Ketuntasan Minimal). Menargetkan santri jujur di asrama bukan tanggung jawab kurikulum aqidah!"*
 * **Tinjauan Maqashid Tarbiyah Aswaja**:  
   Mereduksi target aqidah menjadi sekadar angka KKM adalah pengkhianatan terhadap amanah *Tarbiyah Islamiyyah*. Iblis memiliki pengetahuan teologis yang sempurna (ia tahu Allah adalah Sang Pencipta dan tahu hari kiamat), namun dilaknat karena hatinya sombong dan menolak tunduk. Target sejati pengajaran aqidah adalah **Terbentuknya Watak Batin (*Husulul Malakah*)** yang membuat santri merasa diawasi Allah saat sendirian di kamar asrama. Target kognitif hanyalah anak tangga pertama menuju target pembiasaan adab.[^4]
 
-#### 🥊 Ronde 2: Hirarki Tujuan Duniawi vs Ukhrawi (Menolak Sekularisasi Tersembunyi)
+#### 2. Diskursus Dialektika Kritis: Hirarki Tujuan Duniawi vs Ukhrawi (Menolak Sekularisasi Tersembunyi)
 * **Pihak A (Sudut Pandang Pragmatisme Karir Dunia)**:  
   *"Pondok harus menargetkan santri bisa bersaing di dunia kerja modern; menargetkan tawakkal dan ridha pada takdir hanya membuat santri tidak berambisi sukses!"*
 * **Tinjauan Kitab Al-Hikam & Sosiologi Pendidikan Islam**:  
   Tawakkal sejati bukanlah kepasrahan malas (*Tawaakul*), melainkan energi pendorong ikhtiar optimal (*Itqanul 'Amal*) yang disucikan dari ketergantungan pada hasil duniawi. Santri yang memiliki target Salimul Aqidah memiliki ketahanan mental baja: ketika sukses berkarir ia tidak sombong (*Anti-Ujub*), dan ketika gagal ia tidak depresi/bunuh diri (*Anti-Yasad*). Target ukhrawi justru menjadi fondasi paling kokoh bagi kesuksesan peradaban di dunia.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Balik Realisme Target Wasiat Luqman bagi Remaja Modern
+#### 3. Diskursus Dialektika Kritis: Sanggahan Balik Realisme Target Wasiat Luqman bagi Remaja Modern
 * **Pihak A (Sudut Pandang Pesimisme Zaman)**:  
   *"Zaman sudah rusak oleh media sosial; menargetkan santri remaja memiliki muraqabah setara wasiat Luqman adalah target utopis yang mustahil tercapai!"*
 * **Resolusi Sunnatullah Gradualisme (Tadarruj)**:  
@@ -107,7 +107,7 @@ $$\text{يَا بُنَيَّ إِنَّهَا إِن تَكُ مِثْقَال�
 
 ---
 
-### 3. Inkuiri 2: Teori Penetapan Sasaran Edwin Locke & Goal-Setting Theory dalam Pembiasaan Muraqabah
+### 3. Teori Penetapan Sasaran Edwin Locke & Goal-Setting Theory dalam Pembiasaan Muraqabah
 
 ```mermaid
 graph TD
@@ -140,19 +140,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Sasaran Konkret vs Klaim "Spiritualitas Itu Abstrak"
+#### 1. Diskursus Dialektika Kritis: Sasaran Konkret vs Klaim "Spiritualitas Itu Abstrak"
 * **Pihak A (Sudut Pandang Mistifikasi Evaluasi)**:  
   *"Tingkat keimanan dan keikhlasan santri itu rahasia Allah; tidak boleh dipatok target hafalan atau target perilaku!"*
 * **Tinjauan Kaidah Bayyinah Fiqh & Psikometri**:  
   Meskipun niat batin adalah rahasia Allah, **Manifestasi Keimanan Selalu Melahirkan Jejak Perilaku Teramati (*Observable Behavioral Traces*)**. Ulama fiqh menetapkan hukum berdasarkan bukti dhohir (*Nahnu nahkumu bizh-zhawahir*). Menetapkan target konkret (seperti: *"Konsisten hadir shalat berjamaah sebelum adzan selama 30 hari berturut-turut"*) adalah bejana operasional yang mendidik batin. Menolak target konkret adalah dalih untuk menghindari akuntabilitas pengasuhan.[^8]
 
-#### 🥊 Ronde 2: Mengatasi Efikasi Diri Rendah Santri Rentan (Mitigasi Learned Helplessness)
+#### 2. Diskursus Dialektika Kritis: Mengatasi Efikasi Diri Rendah Santri Rentan (Mitigasi Learned Helplessness)
 * **Pihak A (Sudut Pandang Labeling Santri Gagal)**:  
   *"Santri yang sering terlambat shalat dan suka mencuri tidak akan pernah bisa mencapai target aqidah; mereka memang dasarnya anak bermasalah!"*
 * **Tinjauan Teori Self-Efficacy Bandura & Konsep Taubat**:  
   Santri yang terus-menerus dicap "nakal" akan mengalami keputusasaan belajar (*Learned Helplessness*). Kurikulum TUMBUH memecah target besar menjadi **Target-Target Kecil yang Mudah Dicapai (*Micro-Milestones / Quick Wins*)**: dimulai dari target hadir tepat waktu 3 hari berturut-turut yang langsung diapresiasi dengan poin kebaikan PBIS. Keberhasilan kecil ini memulihkan efikasi diri santri dan membangkitkan keyakinan bahwa ia mampu menjadi insan beradab.[^9]
 
-#### 🥊 Ronde 3: Mitigasi Bahaya Manipulasi Data Target (Goodhart's Law)
+#### 3. Diskursus Dialektika Kritis: Mitigasi Bahaya Manipulasi Data Target (Goodhart's Law)
 * **Pihak A (Sudut Pandang Skeptisisme Rekayasa Laporan)**:  
   *"Jika target ditetapkan secara kuantitatif, musyrif dan santri akan memalsukan buku mutaba'ah agar terlihat mencapai target 100%!"*
 * **Resolusi Hukum Goodhart & Triangulasi 360 Derajat**:  
@@ -160,7 +160,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Triangulasi Metrik Kuantitatif & Kualitatif: Evaluasi Bertahap Tangga J1–J4
+### 4. Triangulasi Metrik Kuantitatif & Kualitatif: Evaluasi Bertahap Tangga J1–J4
 
 ```mermaid
 flowchart TD
@@ -181,19 +181,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Sistem asesmen TUMBUH mengintegrasikan data digital logbook PBIS dengan jurnal muhasabah batin santri di bawah bimbingan musyrif.
 * **Konklusi (*an-Natijah*)**: Maka, sistem triangulasi metrik Salimul Aqidah memberikan gambaran pertumbuhan iman santri yang autentik, komprehensif, dan dapat dipertanggungjawabkan secara syar'i dan saintifik.[^11]
 
-#### 🥊 Ronde 1: Mengukur Hal Gaib Melalui Perilaku Teramati (Observable Proxy)
+#### 1. Diskursus Dialektika Kritis: Mengukur Hal Gaib Melalui Perilaku Teramati (Observable Proxy)
 * **Pihak A (Sudut Pandang Agnostisisme Pengukuran)**:  
   *"Keikhlasan dan muraqabah itu perkara gaib yang ada di dalam hati; bagaimana mungkin bisa dibuatkan metrik kuantitatifnya?"*
 * **Tinjauan Metodologi Psikometri Perilaku**:  
   Psikometri tidak mengklaim mengukur zat keikhlasan, melainkan mengukur **Perilaku Pengganti Teramati (*Observable Behavioral Proxies*)**: Santri yang memiliki muraqabah batin akan menunjukkan perilaku konsisten: ia tidak melirik contekan saat guru keluar kelas, ia mengembalikan dompet temannya yang jatuh tanpa mengambil isinya. Perilaku-perilaku nyata inilah yang dihitung sebagai indikator empiris penguatan aqidah.[^12]
 
-#### 🥊 Ronde 2: Toleransi Kegagalan & Prinsip Gradualisme Tangga J1–J4
+#### 2. Diskursus Dialektika Kritis: Toleransi Kegagalan & Prinsip Gradualisme Tangga J1–J4
 * **Pihak A (Sudut Pandang Perfeksionisme Kaku)**:  
   *"Jika target ditetapkan 100% bebas syubhat, santri baru yang masih takut hantu di kamar mandi harus langsung dinyatakan tidak lulus aqidah!"*
 * **Tinjauan Psikologi Perkembangan Remaja & Fiqh Dakwah**:  
   Santri baru (Jenjang J1) berada pada fase adaptasi (*Ta'aruf*). Wajar jika masih ada sisa-sisa rasa takut pada mitos masa kecil. Target Jenjang J1 adalah mengenalkan doa perlindungan (*Al-Mu'awwidzatain*) dan pendampingan musyrif. Target keberanian mandiri dan pembersihan total dari takhayul dipatok pada Jenjang J2 dan T3. Gradualisme ini melindungi santri dari keputusasaan mental.[^13]
 
-#### 🥊 Ronde 3: Akuntabilitas Lembaga dalam Menyediakan Fasilitas Pencapaian Target
+#### 3. Diskursus Dialektika Kritis: Akuntabilitas Lembaga dalam Menyediakan Fasilitas Pencapaian Target
 * **Pihak A (Sudut Pandang Melempar Kesalahan pada Santri)**:  
   *"Jika santri gagal mencapai target shalat berjamaah tepat waktu, itu 100% kesalahan santri yang malas!"*
 * **Resolusi Doktrin Triad Pertumbuhan Simbiotik**:  
@@ -201,9 +201,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Target
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Target
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Penetapan Target di Asrama)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Penetapan Target di Asrama)
 Pertarungan filosofis terdalam dalam evaluasi target bermuara pada kasus: **"Bagaimana menyikapi santri yang mengalami krisis keimanan akut setelah gagal mencapai target hafalan Al-Qur'an (misal: target 5 Juz per semester hanya tercapai 1 Juz), sehingga ia mogok shalat dan berkata 'Allah tidak adil kepada saya'?"**
 
 * **Pendekatan Lama (Vonis Dosa & Ancaman Neraka)**:  
@@ -251,7 +251,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

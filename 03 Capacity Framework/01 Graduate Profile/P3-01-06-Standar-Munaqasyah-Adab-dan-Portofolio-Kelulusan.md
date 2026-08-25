@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA ASESMEN KELULUSAN](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-asesmen-kelulusan)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Kritik Terhadap Ujian Hafalan Simbolik Tanpa Bukti Adab Nyata](#1-latar-belakang-masalah-kritik-terhadap-ujian-hafalan-simbolik-tanpa-bukti-adab-nyata)
-  - [2. Inkuiri 1: Eksegesis Turats Neraca Keadilan Hisab (QS. Al-Anbiya: 47) & Tanggung Jawab Persaksian Ijazah](#2-inkuiri-1-eksegesis-turats-neraca-keadilan-hisab-qs-al-anbiya-47--tanggung-jawab-persaksian-ijazah)
-  - [3. Inkuiri 2: Teori Authentic Assessment Grant Wiggins & Student-Led Capstone Presentation](#3-inkuiri-2-teori-authentic-assessment-grant-wiggins--student-led-capstone-presentation)
-  - [4. Inkuiri 3: Desain Sidang Terbuka Munaqasyah Adab & Validasi Lintas Penilai (360-Degree Triangulation)](#4-inkuiri-3-desain-sidang-terbuka-munaqasyah-adab--validasi-lintas-penilai-360-degree-triangulation)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Neraca Keadilan Hisab (QS. Al-Anbiya: 47) & Tanggung Jawab Persaksian Ijazah](#2eksegesis-turats-neraca-keadilan-hisab-qs-al-anbiya-47-tanggung-jawab-persaksian-ijazah)
+  - [3. Teori Authentic Assessment Grant Wiggins & Student-Led Capstone Presentation](#3teori-authentic-assessment-grant-wiggins-student-led-capstone-presentation)
+  - [4. Desain Sidang Terbuka Munaqasyah Adab & Validasi Lintas Penilai (360-Degree Triangulation)](#4desain-sidang-terbuka-munaqasyah-adab-validasi-lintas-penilai-360-degree-triangulation)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Empat Rukun Penilaian Kelulusan Holistik Pesantren TUMBUH](#1-formulasi-konseptual-empat-rukun-penilaian-kelulusan-holistik-pesantren-tumbuh)
   - [2. Matriks Rubrik Kelulusan Autentik Berbasis Capaian Jenjang J1–J4](#2-matriks-rubrik-kelulusan-autentik-berbasis-capaian-tangga-t1t4)
   - [3. Standar Prosedur Operasional (SOP) Sidang Munaqasyah Adab & Wisuda Khidmah](#3-standar-prosedur-operasional-sop-sidang-munaqasyah-adab--wisuda-khidmah)
@@ -68,7 +68,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Neraca Keadilan Hisab (QS. Al-Anbiya: 47) & Tanggung Jawab Persaksian Ijazah
+### 2. Eksegesis Turats Neraca Keadilan Hisab (QS. Al-Anbiya: 47) & Tanggung Jawab Persaksian Ijazah
 
 ```mermaid
 graph TD
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Authentic Assessment Grant Wiggins & Student-Led Capstone Presentation
+### 3. Teori Authentic Assessment Grant Wiggins & Student-Led Capstone Presentation
 
 Pakar asesmen pendidikan global **Grant Wiggins** dalam karyanya *Educative Assessment* (1998) membuktikan bahwa tes standar konvensional gagal mengukur kompetensi di dunia nyata:
 * Asesmen autentik menuntut peserta didik mendemonstrasikan penguasaan ilmunya dalam **Tugas Kinerja Nyata (*Real-World Performance Tasks*)**.
@@ -94,7 +94,7 @@ Pakar asesmen pendidikan global **Grant Wiggins** dalam karyanya *Educative Asse
 
 ---
 
-### 4. Inkuiri 3: Desain Sidang Terbuka Munaqasyah Adab & Validasi Lintas Penilai (360-Degree Triangulation)
+### 4. Desain Sidang Terbuka Munaqasyah Adab & Validasi Lintas Penilai (360-Degree Triangulation)
 
 ```mermaid
 flowchart TD
@@ -113,21 +113,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Santri yang Nilai Rapornya Tinggi Otomatis Pasti Lulus Beradab"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Santri yang Nilai Rapornya Tinggi Otomatis Pasti Lulus Beradab"
 * **Pihak A (Sudut Pandang Kognitivisme Kering)**:  
   *"Jika nilai ujian tulisnya 95 dan hafal 30 Juz, santri wajib diluluskan; urusan adab di luar kelas itu urusan pribadi!"*
 * **Tinjauan Falsafah Tarbiyah Islamiyyah**:  
   Ilmu tanpa adab adalah kesombongan (*Kibr*). Iblis memiliki wawasan ilmu yang luas namun dilaknat karena arogansi moral. Pesantren didirikan untuk mencetak Insan Adabi; santri yang cerdas akal namun merundung temannya belum mencapai kelaikan lulus sebelum ia memperbaiki adabnya melalui restitusi restoratif.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Bagaimana Jika Santri Mengalami Demam Panggung Saat Sidang Munaqasyah?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Bagaimana Jika Santri Mengalami Demam Panggung Saat Sidang Munaqasyah?
 * **Pihak A (Sudut Pandang Kecemasan Ujian)**:  
   *"Sidang terbuka di depan orang tua membuat santri grogi dan tidak adil bagi santri yang pemalu!"*
 * **Tinjauan Asesmen Formatif Berkelanjutan**:  
   Sidang Munaqasyah Adab bukan ajang menghakimi atau mempermalukan santri (*Not a punitive trial*), melainkan **Panggung Perayaan Pertumbuhan (*Celebration of Growth*)**. Santri telah berlatih presentasi sejak Jenjang J1–T3 dalam lingkaran halaqah kamar, dan portofolio 3 tahun menyumbang bobot terbesar, sehingga sidang berfungsi sebagai penegasan kematangan diri.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Standar Mutqin Hafalan Qur'an Bersanad vs Kuantitas Lembar
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Standar Mutqin Hafalan Qur'an Bersanad vs Kuantitas Lembar
 * **Pihak A (Sudut Pandang Kejar Tayang Target)**:  
   *"Yang penting santri selesai khatam 30 juz sebelum wisuda, tidak perlu terlalu ketat menguji kelancaran mutqin!"*
 * **Resolusi Tradisi Tahfizh Nabawiyyah**:  
@@ -139,7 +139,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

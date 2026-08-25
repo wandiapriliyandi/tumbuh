@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA RELASI RUHIYAH-SOSIAL](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-relasi-ruhiyah-sosial)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Fenomena "Santri Rajin Shalat Tapi Gemar Memaki" & Dekonstruksi Ibadah Mekanis](#1-latar-belakang-masalah-fenomena-santri-rajin-shalat-tapi-gemar-memaki--dekonstruksi-ibadah-mekanis)
-  - [2. Inkuiri 1: Eksegesis Turats Shalat Mencegah Fahsya' wa Munkar (QS. 29:45) & Celaan Munafik (QS. 107:1-7)](#2-inkuiri-1-eksegesis-turats-shalat-mencegah-fahsya-wa-munkar-qs-2945--celaan-munafik-qs-1071-7)
-  - [3. Inkuiri 2: Teori Identitas Moral Augusto Blasi & Mekanisme Moral Disengagement Albert Bandura](#3-inkuiri-2-teori-identitas-moral-augusto-blasi--mekanisme-moral-disengagement-albert-bandura)
-  - [4. Inkuiri 3: Rantai Kausalitas Transmisi Ruhaniyah: Dari Hati yang Bersih Menuju Tangan yang Melayani](#4-inkuiri-3-rantai-kausalitas-transmisi-ruhaniyah-dari-hati-yang-bersih-menuju-tangan-yang-melayani)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Shalat Mencegah Fahsya' wa Munkar (QS. 29:45) & Celaan Munafik (QS. 107:1-7)](#2eksegesis-turats-shalat-mencegah-fahsya-wa-munkar-qs-2945-celaan-munafik-qs-1071-7)
+  - [3. Teori Identitas Moral Augusto Blasi & Mekanisme Moral Disengagement Albert Bandura](#3teori-identitas-moral-augusto-blasi-mekanisme-moral-disengagement-albert-bandura)
+  - [4. Rantai Kausalitas Transmisi Ruhaniyah: Dari Hati yang Bersih Menuju Tangan yang Melayani](#4rantai-kausalitas-transmisi-ruhaniyah-dari-hati-yang-bersih-menuju-tangan-yang-melayani)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Model Keterhubungan Kausalitas Poros Ruhiyah-Sosial TUMBUH](#1-formulasi-konseptual-model-keterhubungan-kausalitas-poros-ruhiyah-sosial-tumbuh)
   - [2. Matriks Diagnosis Diferensial & Protokol Terapi Anomali Perilaku Ruhiyah-Sosial](#2-matriks-diagnosis-diferensial--protokol-terapi-anomali-perilaku-ruhiyah-sosial)
   - [3. Panduan Bimbingan Halaqah Terpadu Penyatuan Shalat & Adab Ukhuwah di Asrama](#3-panduan-bimbingan-halaqah-terpadu-penyatuan-shalat--adab-ukhuwah-di-asrama)
@@ -70,7 +70,7 @@ flowchart LR
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Shalat Mencegah Fahsya' wa Munkar (QS. 29:45) & Celaan Munafik (QS. 107:1-7)
+### 2. Eksegesis Turats Shalat Mencegah Fahsya' wa Munkar (QS. 29:45) & Celaan Munafik (QS. 107:1-7)
 
 ```mermaid
 graph TD
@@ -88,7 +88,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Identitas Moral Augusto Blasi & Mekanisme Moral Disengagement Albert Bandura
+### 3. Teori Identitas Moral Augusto Blasi & Mekanisme Moral Disengagement Albert Bandura
 
 Augusto Blasi (1984) dalam *Moral Identity Theory* menjelaskan bahwa tindakan moral seseorang bergantung pada seberapa dalam nilai moral terintegrasi ke dalam **Identitas Diri Inti (*Core Self-Identity*)**:
 * Ketika seorang santri hanya menjadikan ibadah sebagai "kostum sosial" luar, ia mengalami **Pelepasan Moral (*Moral Disengagement - Bandura 1999*)**: ia merasa sah-sah saja merundung adik kelas karena menganggapnya "tradisi asrama" atau "candaan semata".
@@ -96,7 +96,7 @@ Augusto Blasi (1984) dalam *Moral Identity Theory* menjelaskan bahwa tindakan mo
 
 ---
 
-### 4. Inkuiri 3: Rantai Kausalitas Transmisi Ruhaniyah: Dari Hati yang Bersih Menuju Tangan yang Melayani
+### 4. Rantai Kausalitas Transmisi Ruhaniyah: Dari Hati yang Bersih Menuju Tangan yang Melayani
 
 ```mermaid
 flowchart TD
@@ -113,21 +113,21 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Menegur Pelaku Bullying Cukup dengan Hukuman Fisik Tanpa Bimbingan Shalat"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Menegur Pelaku Bullying Cukup dengan Hukuman Fisik Tanpa Bimbingan Shalat"
 * **Pihak A (Sudut Pandang Behaviorisme Hukuman)**:  
   *"Santri yang membully cukup dihukum lari keliling lapangan 20 kali; tidak perlu diajak muhasabah shalat yang buang-buang waktu!"*
 * **Tinjauan Psikologi Perilaku & Dendam Batin**:  
   Hukuman fisik tanpa sentuhan kalbu hanya menekan perilaku agresif sementara (*Temporary Suppression*) dan memupuk dendam tersembunyi. Saat musyrif lengah, santri akan melampiaskan agresinya lebih kejam. Membedah kekhusyukan shalat dan menyentuh nuraninya membongkar akar masalah arogansi batin.[^4]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Santri yang Malas Shalat Boleh Dibiarkan Asalkan Akhlaknya Baik?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Santri yang Malas Shalat Boleh Dibiarkan Asalkan Akhlaknya Baik?
 * **Pihak A (Sudut Pandang Humanisme Sekuler)**:  
   *"Yang penting santri itu jujur dan suka menolong; urusan shalat itu hak asasi santri yang tidak boleh dipaksa!"*
 * **Tinjauan Rukun Iman & Maqashid Syari'ah**:  
   Meninggalkan shalat fardhu adalah dosa besar yang meruntuhkan tiang agama (*Hadits: Ash-Shalaatu 'Imaaduddin*). Kebaikan sosial tanpa shalat bagaikan debu yang diterbangkan angin (*QS. Al-Furqan: 23*). Pesantren bertanggung jawab menyelamatkan akidah dan akhirat santri di samping membina adab sosialnya.[^5]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Integrasi Pembinaan Ibadah & Program Khidmah Asrama
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Integrasi Pembinaan Ibadah & Program Khidmah Asrama
 * **Pihak A (Sudut Pandang Pemisahan Jadwal)**:  
   *"Jadwal ibadah masjid dan jadwal bakti sosial asrama adalah dua kegiatan yang berbeda dan tidak perlu dihubung-hubungkan!"*
 * **Resolusi Khidmah Sebagai Buah Ibadah**:  
@@ -139,7 +139,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

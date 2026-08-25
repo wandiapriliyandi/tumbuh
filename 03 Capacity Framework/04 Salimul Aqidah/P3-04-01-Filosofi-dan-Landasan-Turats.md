@@ -21,13 +21,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TEOLOGI-SAINS](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-teologi-sains)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Bahaya Dikotomi Hafalan Aqidah Kognitif vs Perilaku Amoral Privat](#1-latar-belakang-masalah-bahaya-dikotomi-hafalan-aqidah-kognitif-vs-perilaku-amoral-privat)
-  - [2. Inkuiri 1: Eksegesis Turats Kemurnian Tauhid (QS. Al-An'am: 82 & Hadits Ihsan) & Dialektika Teologis](#2-inkuiri-1-eksegesis-turats-kemurnian-tauhid-qs-al-anam-82--hadits-ihsan--dialektika-teologis)
-  - [3. Inkuiri 2: Konvergensi Spiritual Locus of Control (Rotter) & CASEL Self-Awareness](#3-inkuiri-2-konvergensi-spiritual-locus-of-control-rotter--casel-self-awareness)
-  - [4. Inkuiri 3: Arsitektur Ekosistem Muraqabatullah: Mengeliminasi Mentalitas "Taat Karena CCTV/Rotan"](#4-inkuiri-3-arsitektur-ekosistem-muraqabatullah-mengeliminasi-mentalitas-taat-karena-cctvrotan)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Asrama](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-resolusi-asrama)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kemurnian Tauhid (QS. Al-An'am: 82 & Hadits Ihsan) & Dialektika Teologis](#2eksegesis-turats-kemurnian-tauhid-qs-al-anam-82-hadits-ihsan-dialektika-teologis)
+  - [3. Konvergensi Spiritual Locus of Control (Rotter) & CASEL Self-Awareness](#3konvergensi-spiritual-locus-of-control-rotter-casel-self-awareness)
+  - [4. Arsitektur Ekosistem Muraqabatullah: Mengeliminasi Mentalitas "Taat Karena CCTV/Rotan"](#4arsitektur-ekosistem-muraqabatullah-mengeliminasi-mentalitas-taat-karena-cctvrotan)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Asrama](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-resolusi-asrama)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Empat Dimensi Karakter Salimul Aqidah Terpadu](#1-formulasi-konseptual-empat-dimensi-karakter-salimul-aqidah-terpadu)
   - [2. Matriks Integrasi Kompetensi Aqidah dengan CASEL SEL & Taksonomi Fitrah](#2-matriks-integrasi-kompetensi-aqidah-dengan-casel-sel--taksonomi-fitrah)
   - [3. Protokol Operasional Pembiasaan Muraqabah di Asrama (PBIS Multi-Tier)](#3-protokol-operasional-pembiasaan-muraqabah-di-asrama-pbis-multi-tier)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kemurnian Tauhid (QS. Al-An'am: 82 & Hadits Ihsan) & Dialektika Teologis
+### 2. Eksegesis Turats Kemurnian Tauhid (QS. Al-An'am: 82 & Hadits Ihsan) & Dialektika Teologis
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاه
 
 *"Engkau beribadah kepada Allah seakan-akan engkau melihat-Nya. Dan jika engkau tidak mampu melihat-Nya, maka sesungguhnya Dia melihatmu."* (HR. Muslim No. 8).[^4]
 
-#### 🥊 Ronde 1: Gugatan Aqidah Kognitif vs Transformasi Perilaku Batin
+#### 1. Diskursus Dialektika Kritis: Gugatan Aqidah Kognitif vs Transformasi Perilaku Batin
 * **Pihak A (Sudut Pandang Formalisme Skolastik)**:  
   *"Tugas guru aqidah di madrasah hanyalah mengajarkan dalil aqli dan naqli sifat 20 atau rukun iman hingga santri lulus ujian syahadah. Masalah apakah santri jujur di asrama atau suka mencuri makanan temannya adalah urusan musyrif dan BK, bukan tanggung jawab mata pelajaran aqidah!"*
 * **Tinjauan Epistemologi Turats & Maqashid Syari'ah**:  
   Pemisahan antara aqidah dan akhlak adalah sekularisasi internal (*faslul aqidah 'anil akhlaq*). Al-Qur'an secara tegas mengaitkan tauhid dengan integritas amal: *"Maka kecelakaanlah bagi orang-orang yang shalat, yaitu orang-orang yang lalai dari shalatnya, yang berbuat riya dan enggan menolong dengan barang berguna"* (QS. Al-Ma'un: 4–7). Aqidah yang tidak mengoreksi perilaku zalim di kamar asrama adalah aqidah lumpuh (*aqidah mayyitah*). Pengajaran aqidah sejati wajib menyentuh kesadaran *Ihsan* yang mengawal perilaku santri saat sendirian di kamar mandi, ranjang, maupun ruang publik.[^5]
 
-#### 🥊 Ronde 2: Bahaya Syirik Halus (Riya' & Kepatuhan Berhala Figur)
+#### 2. Diskursus Dialektika Kritis: Bahaya Syirik Halus (Riya' & Kepatuhan Berhala Figur)
 * **Pihak A (Sudut Pandang Pragmatisme Kontrol Sosial)**:  
   *"Tidak masalah santri shalat dan merapikan kamar karena takut pada musyrif yang galak atau karena ingin dipuji; yang penting ketertiban pondok tercapai!"*
 * **Tinjauan Kitab At-Tauhid & Ihya' Ulumiddin**:  
   Mendidik santri untuk patuh semata-mata karena takut rotan musyrif atau demi mencari pujian asatidz secara tidak sadar sedang menanamkan benih **Syirik Kecil (*Asy-Syirk Al-Ashghar / Riya'*)** ke dalam jiwa anak. **Imam Al-Ghazali** dalam *Ihya'* memperingatkan bahwa riya' menghancurkan seluruh pahala amal dan melahirkan kepribadian terbelah (*Hypocritical Personality*). Ketika figur otoritas hilang, santri akan melampiaskan maksiat tanpa rasa bersalah. Salimul Aqidah memerdekakan santri dari perhambaan kepada manusia menuju perhambaan murni hanya kepada Allah (*Iyyaka Na'budu wa Iyyaka Nasta'in*).[^6]
 
-#### 🥊 Ronde 3: Sanggahan Balik Fatalisme Jabariyyah vs Hakikat Ikhtiar Syar'i
+#### 3. Diskursus Dialektika Kritis: Sanggahan Balik Fatalisme Jabariyyah vs Hakikat Ikhtiar Syar'i
 * **Pihak A (Sudut Pandang Pembenaran Diri Fatalistik)**:  
   *"Banyak santri malas belajar dan membantah ustadz dengan alasan 'saya memang sudah ditakdirkan bodoh/nakal oleh Allah'. Bukankah takdir itu mutlak?"*
 * **Resolusi Teologi Ahlussunnah (Konsep Kasb Al-Asy'ari & Ikhtiar Maturidi)**:  
@@ -113,7 +113,7 @@ $$\text{أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاه
 
 ---
 
-### 3. Inkuiri 2: Konvergensi Spiritual Locus of Control (Rotter) & CASEL Self-Awareness
+### 3. Konvergensi Spiritual Locus of Control (Rotter) & CASEL Self-Awareness
 
 ```mermaid
 graph TD
@@ -143,19 +143,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Dialektika Determinisme Kognitif vs Kemauan Bebas Beriman
+#### 1. Diskursus Dialektika Kritis: Dialektika Determinisme Kognitif vs Kemauan Bebas Beriman
 * **Pihak A (Sudut Pandang Neurosains Reduksionis)**:  
   *"Perilaku santri melanggar aturan sepenuhnya dikendalikan oleh ketidakmatangan Korteks Prefrontal (PFC) dan dominasi Amigdala pada usia remaja; keyakinan aqidah tidak berpengaruh pada impulsivitas biologis otak!"*
 * **Tinjauan Neurosains Spiritual & Neuroplastisitas**:  
   Riset mutakhir neurokognitif oleh **Dr. Andrew Newberg** (*How God Changes Your Brain*, 2009) membuktikan bahwa pembiasaan meditasi zikir tauhid dan refleksi muraqabah secara teratur mengaktifkan sirkuit PFC anterior dan *Anterior Cingulate Cortex* (ACC), mempertebal kendali inhibisi terhadap dorongan amigdala. Nilai aqidah yang terinternalisasi bekerja sebagai **Kerangka Kognitif Pemandu (*Metacognitive Scaffolding*)** yang memberi makna pada penundaan kepuasan sesaat (*Delayed Gratification*). Otak remaja sangat plastis; penanaman aqidah yang benar justru mempercepat maturitas kendali impuls otak.[^9]
 
-#### 🥊 Ronde 2: Mengatasi Jebakan Eksternalisasi Kesalahan (Blaming Environment)
+#### 2. Diskursus Dialektika Kritis: Mengatasi Jebakan Eksternalisasi Kesalahan (Blaming Environment)
 * **Pihak A (Sudut Pandang Sosiologisme Pasif)**:  
   *"Santri berbuat curang atau malas karena pengaruh teman sekamar; lingkungan asrama yang salah, bukan aqidah santri yang bermasalah!"*
 * **Tinjauan Teori Psikologi Julian Rotter & Konsep Muhasabah**:  
   Santri dengan *External Locus of Control* akan selalu menyalahkan lingkungan, guru, atau godaan setan atas kegagalannya. Sebaliknya, doktrin tauhid mengajarkan **Muhasabah Diri (*Self-Accountability*)**: *"Apa saja musibah yang menimpamu maka adalah disebabkan oleh perbuatan tanganmu sendiri"* (QS. Asy-Syura: 30). Santri yang memiliki Salimul Aqidah memiliki daya lentur (*Resilience*) untuk tetap memegang teguh prinsip kebenaran meskipun berada di tengah kawan sebaya yang menyimpang.[^10]
 
-#### 🥊 Ronde 3: Reduksi Kecemasan Eksistensial Santri Baru (Homesickness & Krisis Identitas)
+#### 3. Diskursus Dialektika Kritis: Reduksi Kecemasan Eksistensial Santri Baru (Homesickness & Krisis Identitas)
 * **Pihak A (Sudut Pandang Medis-Materialistik)**:  
   *"Santri baru yang menangis histeris dan depresi di pondok cukup diberi obat penenang atau dibiarkan pulang; tidak ada hubungannya dengan tauhid!"*
 * **Resolusi Psikoterapi Islam & Logoterapi**:  
@@ -163,7 +163,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Arsitektur Ekosistem Muraqabatullah: Mengeliminasi Mentalitas "Taat Karena CCTV/Rotan"
+### 4. Arsitektur Ekosistem Muraqabatullah: Mengeliminasi Mentalitas "Taat Karena CCTV/Rotan"
 
 ```mermaid
 flowchart TD
@@ -181,19 +181,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Pembinaan karakter Salimul Aqidah membangun radar pengawas batin (*Internal Spiritual Radar*) melalui penghayatan Asmaul Husna (*Ar-Raqib, Al-Bashir, Al-'Alim*).
 * **Konklusi (*an-Natijah*)**: Maka, ekosistem pembinaan berbasis Muraqabatullah adalah satu-satunya metode yang menjamin keberlanjutan adab santri seumur hidup.[^12]
 
-#### 🥊 Ronde 1: Mitos "Santri Hanya Takut Kalau Ada Hukuman Fisik Keras"
+#### 1. Diskursus Dialektika Kritis: Mitos "Santri Hanya Takut Kalau Ada Hukuman Fisik Keras"
 * **Pihak A (Sudut Pandang Otoritarianisme Pesantren Kuno)**:  
   *"Anak-anak zaman sekarang bandel; kalau tidak diancam rotan atau dicukur botak di depan umum, mereka tidak akan shalat subuh!"*
 * **Tinjauan Disiplin Positif & Hadits Kasih Sayang Nabawi**:  
   Hukuman fisik dan rasa malu di depan umum hanya membungkam perilaku sesaat dengan memicu lonjakan hormon kortisol dan rasa dendam batin. Begitu pengasuh lengah, santri akan mencari pelampiasan yang lebih destruktif. Rasulullah SAW tidak pernah memukul anak kecil atau santri pelayan beliau (HR. Muslim dari Anas bin Malik RA). Kedisiplinan sejati ditegakkan lewat **Konsistensi Pembiasaan Berwibawa (*Firm and Kind*)**, keteladanan musyrif yang bangun lebih awal di saf terdepan (*Qudwah*), dan dialog penyadaran aqidah yang menyentuh hati.[^13]
 
-#### 🥊 Ronde 2: Mengikis Takhayul, Ramalan Horoskop, & Mitos Kesialan di Asrama
+#### 2. Diskursus Dialektika Kritis: Mengikis Takhayul, Ramalan Horoskop, & Mitos Kesialan di Asrama
 * **Pihak A (Sudut Pandang Pembiaran Budaya Populer)**:  
   *"Santri membaca zodiak di majalah atau percaya mitos kamar keramat/nomor sial itu cuma hiburan iseng anak remaja, tidak perlu ditanggapi serius!"*
 * **Tinjauan Kitab Fathul Majid & Hermeneutika Syar'i**:  
   Membiarkan ramalan zodiak, mitos tempat keramat, atau kepercayaan kesialan (*Thiyarah*) berkembang di asrama adalah racun aqidah yang merusak kemurnian tawakkal. Rasulullah SAW bersabda: *"Thiyarah (merasa sial karena sesuatu) adalah syirik!"* (HR. Abu Dawud No. 3910). Salimul Aqidah menuntut pembersihan kultur asrama secara total dari khurafat modern, menggantikannya dengan tradisi doa ma'tsur dan nalar saintifik Islami (*Ayat Kauniyah*).[^14]
 
-#### 🥊 Ronde 3: Mengapa Qudwah Musyrif Adalah Cermin Utama Aqidah Santri?
+#### 3. Diskursus Dialektika Kritis: Mengapa Qudwah Musyrif Adalah Cermin Utama Aqidah Santri?
 * **Pihak A (Sudut Pandang Otoritas Tanpa Teladan)**:  
   *"Musyrif boleh merokok atau main ponsel saat waktu mengaji, asalkan tugas mendisiplinkan santri tetap jalan!"*
 * **Resolusi Qudwah Hasanah & Kaidah Al-Baqarah: 44**:  
@@ -201,9 +201,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Asrama
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Resolusi Asrama
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Nyata Pengasuhan Asrama)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Nyata Pengasuhan Asrama)
 Pertarungan filosofis terdalam di ranah pengasuhan pesantren bermuara pada pertanyaan: **"Bagaimana menangani santri yang melakukan pelanggaran berat di ruang privat (seperti pencurian uang santri lain di lemari kamar) tanpa menghancurkan masa depan aqidah dan jiwanya?"**
 
 * **Pendekatan Lama (Retributif / Penghakiman Publik)**:  
@@ -251,7 +251,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

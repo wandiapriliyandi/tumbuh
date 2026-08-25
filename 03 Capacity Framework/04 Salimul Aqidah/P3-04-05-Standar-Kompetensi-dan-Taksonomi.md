@@ -14,20 +14,20 @@
 >   Taksonomi Bloom tradisional dirancang dalam paradigma sekuler yang memisahkan ranah kognitif, afektif, dan psikomotorik secara terfragmentasi, tanpa mengakui dimensi spiritualitas dan mata batin (*Bashirah*). Akibatnya, kurikulum madrasah hanya menguji taksonomi kognitif rendah (C1-C2: Menghafal & Menyebutkan dalil), mengabaikan internalisasi rasa takut (*Khauf*), cinta (*Mahabbah*), dan pengawasan Allah (*Muraqabah*).
 > * **Inovasi Taksonomi Fitrah Salimul Aqidah TUMBUH:**  
 >   TUMBUH menyintesiskan Taksonomi Bloom Revisi (Anderson & Krathwohl, 2001) dengan Taksonomi Turats Islam (*Ma'rifatul 'Aql $\rightarrow$ Tasydiqul Qalb $\rightarrow$ 'Amalul Jawarih*), serta menyelaraskannya dengan *Stages of Faith* James Fowler melintasi **Tangga Progresi J1–J4 (Kepatuhan Terbimbing, Pembiasaan Konsisten, Kemandirian Stabil, & Penggerak Qudwah)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah leksikografi turats kitab *At-Ta'rifat* Al-Jurjani dan *Ihya' 'Ulumiddin*, menyintesiskan sains kognitif modern, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan matriks Standar Kompetensi Lulusan (SKL) aqidah yang terukur secara empiris di 4 lokus asrama.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA TAKSONOMI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-taksonomi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Kegagalan Taksonomi Bloom Sekuler dalam Menilai Transformasi Ruhaniyah Santri](#1-latar-belakang-masalah-kegagalan-taksonomi-bloom-sekuler-dalam-menilai-transformasi-ruhaniyah-santri)
-  - [2. Inkuiri 1: Eksegesis Turats Triad Dimensi Kompetensi Aqidah: Ma'rifah, Tasydiq, & 'Amal (Al-Jurjani & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-triad-dimensi-kompetensi-aqidah-marifah-tasydiq--amal-al-jurjani--al-ghazali)
-  - [3. Inkuiri 2: Sintesis Taksonomi Bloom-Krathwohl dengan Stages of Faith James Fowler & Taksonomi Fitrah](#3-inkuiri-2-sintesis-taksonomi-bloom-krathwohl-dengan-stages-of-faith-james-fowler--taksonomi-fitrah)
-  - [4. Inkuiri 3: Penyelarasan Standar Capaian Pembelajaran Melintasi Tangga Progresi Jenjang J1–J4](#4-inkuiri-3-penyelarasan-standar-capaian-pembelajaran-melintasi-tangga-progresi-tangga-t1t4)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Taksonomi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-standarisasi-taksonomi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Triad Dimensi Kompetensi Aqidah: Ma'rifah, Tasydiq, & 'Amal (Al-Jurjani & Al-Ghazali)](#2eksegesis-turats-triad-dimensi-kompetensi-aqidah-marifah-tasydiq-amal-al-jurjani-al-ghazali)
+  - [3. Sintesis Taksonomi Bloom-Krathwohl dengan Stages of Faith James Fowler & Taksonomi Fitrah](#3sintesis-taksonomi-bloom-krathwohl-dengan-stages-of-faith-james-fowler-taksonomi-fitrah)
+  - [4. Penyelarasan Standar Capaian Pembelajaran Melintasi Tangga Progresi Jenjang J1–J4](#4penyelarasan-standar-capaian-pembelajaran-melintasi-tangga-progresi-jenjang-j1j4)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Taksonomi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-standarisasi-taksonomi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Taksonomi Tri-Domain Salimul Aqidah (Kognitif, Afektif, Amaliyyah)](#1-arsitektur-taksonomi-tri-domain-salimul-aqidah-kognitif-afektif-amaliyyah)
   - [2. Matriks Standar Kompetensi Lulusan (SKL) Aqidah Berbasis Tangga J1–J4](#2-matriks-standar-kompetensi-lulusan-skl-aqidah-berbasis-tangga-t1t4)
   - [3. Rubrik Deskriptor Taksonomi Capaian Berjenjang (Kognitif, Afektif, Perilaku)](#3-rubrik-deskriptor-taksonomi-capaian-berjenjang-kognitif-afektif-perilaku)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Triad Dimensi Kompetensi Aqidah: Ma'rifah, Tasydiq, & 'Amal (Al-Jurjani & Al-Ghazali)
+### 2. Eksegesis Turats Triad Dimensi Kompetensi Aqidah: Ma'rifah, Tasydiq, & 'Amal (Al-Jurjani & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -91,19 +91,19 @@ Dan Imam **Al-Ghazali** dalam *Ihya'* menguraikan gradasi taksonomi keyakinan:
 2. **'Ainul Yaqin (عَيْنُ الْيَقِينِ)**: Keyakinan pada tingkat penghayatan rasa (*Zawq*) dan ketersingkapan batin (*Afektif*).
 3. **Haqqul Yaqin (حَقُّ الْيَقِينِ)**: Keyakinan pada tingkat penyatuan hidup di mana tauhid memancar spontan dalam seluruh amal perbuatan (*Amaliyyah Otonom*).[^4]
 
-#### 🥊 Ronde 1: Taksonomi Kognitif vs Taksonomi Ruhaniyah
+#### 1. Diskursus Dialektika Kritis: Taksonomi Kognitif vs Taksonomi Ruhaniyah
 * **Pihak A (Sudut Pandang Intelektualisme Sekuler)**:  
   *"Menilai apakah santri merasakan kehadiran Allah (Afektif Ruhani) adalah hal subjektif yang tidak bisa diuji secara ilmiah; ujian madrasah harus tetap berbasis soal pilihan ganda kognitif!"*
 * **Tinjauan Psikometri Afektif & Turats**:  
   Meskipun getaran batin tidak terlihat mata, **Resonansi Afektif Selalu Melahirkan Indikator Teramati (*Observable Behavioral Indicators*)**. Santri yang memiliki *Khauf* (rasa takut kepada Allah) akan menunjukkan perilaku menolak ajakan membolos, berbicara jujur saat ditegur, dan khusyuk saat shalat. Menolak penilaian afektif ruhani adalah tanda kemalasan desain asesmen. TUMBUH menggunakan rubrik BARS untuk menilai kompetensi afektif melalui observasi perilaku 24 jam.[^5]
 
-#### 🥊 Ronde 2: Gradasi Iman dari 'Ilmul Yaqin Menuju Haqqul Yaqin
+#### 2. Diskursus Dialektika Kritis: Gradasi Iman dari 'Ilmul Yaqin Menuju Haqqul Yaqin
 * **Pihak A (Sudut Pandang Kesetaraan Tunggal)**:  
   *"Semua santri yang hafal rukun iman status kompetensinya sama; tidak perlu dibeda-bedakan tingkat keyakinannya!"*
 * **Tinjauan Epistemologi Al-Qur'an (QS. At-Takatsur & Al-Waqi'ah)**:  
   Al-Qur'an membedakan secara tegas antara *'Ilmul Yaqin* (QS. 102:5), *'Ainul Yaqin* (QS. 102:7), dan *Haqqul Yaqin* (QS. 56:95). Santri baru yang baru hafal teks dalil berada di tingkat *'Ilmul Yaqin*. Santri yang sudah merasakan ketenteraman dzikir berada di tingkat *'Ainul Yaqin*. Dan santri teladan yang konsisten jujur di ruang privat telah mencapai *Haqqul Yaqin*. Taksonomi TUMBUH memetakan gradasi ini ke dalam Tangga J1–J4 agar pembinaan tepat sasaran.[^6]
 
-#### 🥊 Ronde 3: Kompetensi Amaliyyah Sebagai Bukti Kematangan Aqidah
+#### 3. Diskursus Dialektika Kritis: Kompetensi Amaliyyah Sebagai Bukti Kematangan Aqidah
 * **Pihak A (Sudut Pandang Murji'ah Modern)**:  
   *"Amal perbuatan santri di kamar mandi atau ranjang tidur tidak ada hubungannya dengan nilai kelulusan aqidah; iman itu cukup di dalam hati!"*
 * **Resolusi Teologi Ahlussunnah wal Jama'ah**:  
@@ -111,7 +111,7 @@ Dan Imam **Al-Ghazali** dalam *Ihya'* menguraikan gradasi taksonomi keyakinan:
 
 ---
 
-### 3. Inkuiri 2: Sintesis Taksonomi Bloom-Krathwohl dengan Stages of Faith James Fowler & Taksonomi Fitrah
+### 3. Sintesis Taksonomi Bloom-Krathwohl dengan Stages of Faith James Fowler & Taksonomi Fitrah
 
 ```mermaid
 graph TD
@@ -138,19 +138,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Integrasi Afektif-Ruhani Krathwohl ke dalam Karakter Aqidah
+#### 1. Diskursus Dialektika Kritis: Integrasi Afektif-Ruhani Krathwohl ke dalam Karakter Aqidah
 * **Pihak A (Sudut Pandang Kesulitan Asesmen)**:  
   *"Level Characterization Krathwohl (internalisasi nilai abadi) terlalu teoritis dan abstrak untuk dimasukkan dalam rapor pondok!"*
 * **Tinjauan Evaluasi Berbasis Perilaku Teramati**:  
   Level *Characterization* diterjemahkan TUMBUH menjadi **Level J3 (Kemandirian Stabil)**: Santri yang telah menginternalisasi nilai aqidah akan secara otomatis (*Default Reflex*) membaca basmalah, menolak menyontek, dan jujur saat menemukan uang di asrama tanpa perlu diperintah. Ini adalah perilaku konkret yang sangat mudah dinilai dan diverifikasi oleh musyrif.[^9]
 
-#### 🥊 Ronde 2: Fase Perkembangan Iman Remaja James Fowler (Synthetic vs Individuative)
+#### 2. Diskursus Dialektika Kritis: Fase Perkembangan Iman Remaja James Fowler (Synthetic vs Individuative)
 * **Pihak A (Sudut Pandang Penyeragaman Usia)**:  
   *"Santri kelas 7 dan santri kelas 12 harus dituntut memiliki tingkat pemahaman aqidah yang sama persis!"*
 * **Tinjauan Psikologi Perkembangan James Fowler & Marahil al-'Umr**:  
   Santri usia 12–14 tahun (SMP/MTs) berada pada fase *Synthetic-Conventional Faith* (beriman karena meniru lingkungan dan figur otoritas). Sedangkan santri usia 16–18 tahun (SMA/MA) memasuki fase *Individuative-Reflective Faith* (menuntut jawaban rasional atas keraguan iman). Menyamakan standar capaian keduanya adalah kesalahan pedagogis fatal. Kurikulum TUMBUH membedakan capaian J1-J2 untuk fase imitatif dan J3-J4 untuk fase reflektif mandiri.[^10]
 
-#### 🥊 Ronde 3: Taksonomi Fitrah Menolak Relativisme Nilai
+#### 3. Diskursus Dialektika Kritis: Taksonomi Fitrah Menolak Relativisme Nilai
 * **Pihak A (Sudut Pandang Post-Modernisme)**:  
   *"Teori perkembangan iman Barat menganggap semua agama setara dan kebenaran itu relatif; apakah mengadopsi Fowler tidak merusak aqidah santri?"*
 * **Resolusi Epistemologi Islam Al-Attas**:  
@@ -158,7 +158,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Penyelarasan Standar Capaian Pembelajaran Melintasi Tangga Progresi Jenjang J1–J4
+### 4. Penyelarasan Standar Capaian Pembelajaran Melintasi Tangga Progresi Jenjang J1–J4
 
 ```mermaid
 flowchart TD
@@ -180,19 +180,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Matriks taksonomi TUMBUH menyusun standar capaian Salimul Aqidah melintasi Tangga Progresi J1 menuju J4.
 * **Konklusi (*an-Natijah*)**: Maka, kurikulum kompetensi aqidah TUMBUH menjamin transformasi santri dari kepatuhan pasif menuju kepemimpinan keteladanan yang berakar pada tauhid sejati.[^12]
 
-#### 🥊 Ronde 1: Scaffolding Intensif Musyrif pada Santri Jenjang J1
+#### 1. Diskursus Dialektika Kritis: Scaffolding Intensif Musyrif pada Santri Jenjang J1
 * **Pihak A (Sudut Pandang Tuntutan Mandiri Instan)**:  
   *"Santri baru yang masuk pondok harus langsung bisa mandiri dan tidak boleh manja; kalau tidak bisa dzikir sendiri harus dihukum!"*
 * **Tinjauan Teori Vygotsky (Zone of Proximal Development)**:  
   Santri baru (Jenjang J1) berada dalam masa transisi psikologis yang rentan. Menuntut kemandirian instan tanpa bimbingan (*Scaffolding*) memicu kecemasan toksik dan penolakan terhadap agama. Musyrif wajib mendampingi 80%: duduk bersama santri saat dzikir ba'da Shubuh, membimbing lafal doa, dan memberikan rasa aman. Bantuan dikurangi secara bertahap seiring terbentuknya kebiasaan (*Habituasi*).[^13]
 
-#### 🥊 Ronde 2: Otonomi Muraqabah pada Santri Jenjang J3 (Uji Ruang Privat)
+#### 2. Diskursus Dialektika Kritis: Otonomi Muraqabah pada Santri Jenjang J3 (Uji Ruang Privat)
 * **Pihak A (Sudut Pandang Pengawasan Ketat Abadi)**:  
   *"Santri kelas akhir (Jenjang J3) tetap harus diawasi ketat dan digeledah lemarinya setiap malam; tidak boleh diberi kepercayaan!"*
 * **Tinjauan Teori Determinasi Diri (Deci & Ryan - Autonomy)**:  
   Pengawasan ketat yang berlebihan pada remaja akhir justru merusak rasa tanggung jawab (*Undermining Intrinsic Motivation*). Pada Jenjang J3, santri harus diberi **Ruang Kepercayaan & Otonomi (*Trust and Autonomy*)**: musyrif tidak lagi menggeledah kamar secara represif, melainkan memberdayakan santri mengelola kamar mandiri dan memvalidasi kejujurannya melalui jurnal muhasabah pribadi. Inilah cara melahirkan integritas sejati.[^14]
 
-#### 🥊 Ronde 3: Standar Kompetensi Qudwah pada Santri Jenjang J4
+#### 3. Diskursus Dialektika Kritis: Standar Kompetensi Qudwah pada Santri Jenjang J4
 * **Pihak A (Sudut Pandang Egoisme Akademis Santri Senior)**:  
   *"Santri kelas akhir cukup fokus belajar untuk ujian masuk perguruan tinggi; tidak perlu dibebani membimbing adik kelas!"*
 * **Resolusi Karakter Nafi'un Lighairih & Tanggung Jawab Kader**:  
@@ -200,9 +200,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Taksonomi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Taksonomi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Penentuan Kelulusan Kompetensi)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Penentuan Kelulusan Kompetensi)
 Pertarungan filosofis terdalam dalam standarisasi kompetensi bermuara pada kasus: **"Bagaimana menetapkan status kelulusan kompetensi aqidah bagi santri yang nilai ujian tulisnya sempurna (100) dan hafal seluruh matan aqidah, namun dalam evaluasi observasi asrama 24 jam ia terbukti 3 kali berbohong dan tidak mau shalat berjamaah jika tidak diseret musyrif?"**
 
 * **Pendekatan Lama (Kognitif-Sentris)**:  
@@ -250,7 +250,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

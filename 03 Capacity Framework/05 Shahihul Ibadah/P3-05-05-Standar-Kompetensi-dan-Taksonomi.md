@@ -14,20 +14,20 @@
 >   Banyak pesantren hanya menguji penguasaan fiqh ibadah santri melalui ujian tulis hafalan teori (*Cognitive-Only Exam*). Akibatnya, santri yang meraih nilai 100 di atas kertas tetap melakukan kesalahan fatal dalam praktik nyata: wudhu tidak membasuh mata kaki, sujud dengan tumit terangkat dari lantai, dan tidak mampu menjadi imam shalat berjamaah.
 > * **Inovasi Taksonomi Tri-Domain Integratif TUMBUH:**  
 >   TUMBUH merancang Standar Kompetensi Lulusan (SKL) terpadu: **1. Domain Kognitif 'Aqliyyah (Bloom C1–C6: Penguasaan Dalil & Fiqh Ibadah); 2. Domain Afektif Qalbiyyah (Krathwohl A1–A5: Kekhusyukan, Thuma'ninah, & Mahabbah); 3. Domain Psikomotorik Amaliyyah (Simpson P1–P5: Presisi Gerakan Thaharah & Shalat Sesuai Sunnah)** yang dipetakan secara ketat melintasi Tangga Kemandirian J1 hingga J4.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah konsepsi *Tafaqquh fid-Din* (QS. At-Taubah: 122), kitab panduan *Sullam at-Taufiq* dan *Fathul Qarib*, menyintesiskan taksonomi pendidikan modern, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan format ujian praktik ibadah berstandar OSCE (*Objective Structured Clinical Examination* versi Fiqh).
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA STANDAR KOMPETENSI](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-standar-kompetensi)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Cacat Metodologis Ujian Tulis Kering Tanpa Verifikasi Kinestetik](#1-latar-belakang-masalah-cacat-metodologis-ujian-tulis-kering-tanpa-verifikasi-kinestetik)
-  - [2. Inkuiri 1: Eksegesis Turats Maratib at-Tafaqquh fid-Din & Fiqh Fardhu 'Ain (QS. At-Taubah: 122 & Sullam at-Taufiq)](#2-inkuiri-1-eksegesis-turats-maratib-at-tafaqquh-fid-din--fiqh-fardhu-ain-qs-at-taubah-122--sullam-at-taufiq)
-  - [3. Inkuiri 2: Sintesis Taksonomi Tri-Domain Bloom-Krathwohl-Simpson & Fitrah Ibadah](#3-inkuiri-2-sintesis-taksonomi-tri-domain-bloom-krathwohl-simpson--fitrah-ibadah)
-  - [4. Inkuiri 3: Pemetaan Standar Kompetensi Lulusan (SKL) Melintasi Tangga Jenjang J1–J4](#4-inkuiri-3-pemetaan-standar-kompetensi-lulusan-skl-melintasi-tangga-jenjang-j1j4)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standar Kompetensi](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-standar-kompetensi)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Maratib at-Tafaqquh fid-Din & Fiqh Fardhu 'Ain (QS. At-Taubah: 122 & Sullam at-Taufiq)](#2eksegesis-turats-maratib-at-tafaqquh-fid-din-fiqh-fardhu-ain-qs-at-taubah-122-sullam-at-taufiq)
+  - [3. Sintesis Taksonomi Tri-Domain Bloom-Krathwohl-Simpson & Fitrah Ibadah](#3sintesis-taksonomi-tri-domain-bloom-krathwohl-simpson-fitrah-ibadah)
+  - [4. Pemetaan Standar Kompetensi Lulusan (SKL) Melintasi Tangga Jenjang J1–J4](#4pemetaan-standar-kompetensi-lulusan-skl-melintasi-tangga-jenjang-j1j4)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standar Kompetensi](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-standar-kompetensi)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Tri-Domain Taksonomi Kompetensi Shahihul Ibadah](#1-arsitektur-tri-domain-taksonomi-kompetensi-shahihul-ibadah)
   - [2. Matriks Standar Kompetensi Lulusan (SKL) Berjenjang Tangga J1–J4](#2-matriks-standar-kompetensi-lulusan-skl-berjenjang-tangga-j1j4)
   - [3. Standar Uji Sertifikasi Kompetensi Ibadah Praktis (OSCE-Style Fiqh Practicum)](#3-standar-uji-sertifikasi-kompetensi-ibadah-praktis-osce-style-fiqh-practicum)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Maratib at-Tafaqquh fid-Din & Fiqh Fardhu 'Ain (QS. At-Taubah: 122 & Sullam at-Taufiq)
+### 2. Eksegesis Turats Maratib at-Tafaqquh fid-Din & Fiqh Fardhu 'Ain (QS. At-Taubah: 122 & Sullam at-Taufiq)
 
 ```mermaid
 graph TD
@@ -87,19 +87,19 @@ $$\text{عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ ع�
 
 *"Dari Abu Hurairah RA: Bahwa seorang laki-laki masuk masjid lalu shalat, kemudian datang memberi salam kepada Rasulullah SAW. Nabi menjawab salamnya lalu bersabda: **'Kembalilah dan shalatlah lagi, karena sesungguhnya engkau belum shalat!'** Orang itu kembali shalat, lalu datang lagi dan Nabi bersabda hal yang sama hingga **tiga kali**. Lalu orang itu berkata: 'Demi Dzat yang mengutusmu dengan kebenaran, aku tidak bisa shalat lebih baik dari ini, maka ajarkanlah aku!' Maka Nabi ﷺ mengajarkan tata cara shalat dengan rukun **Thuma'ninah** pada setiap gerakan."* (HR. Al-Bukhari No. 757 & HR. Muslim No. 397).[^3]
 
-#### 🥊 Ronde 1: Fiqh Fardhu 'Ain Wajib Diuji Secara Individual (1-on-1)
+#### 1. Diskursus Dialektika Kritis: Fiqh Fardhu 'Ain Wajib Diuji Secara Individual (1-on-1)
 * **Pihak A (Sudut Pandang Ujian Massal Cepat)**:  
   *"Santri ada 500 orang, mana sempat menguji praktik shalat satu per satu? Cukup ujian massal di aula!"*
 * **Tinjauan Hadits Al-Musi'u Shalatuhu & Tanggung Jawab Pengasuhan**:  
   Rasulullah SAW tidak membiarkan seorang pun sahabat shalat dengan gerakan yang salah. Menguji massal di aula hanya membuat santri meniru gerakan temannya tanpa penguasaan mandiri. Sistem TUMBUH memberdayakan **Santri Jenjang J4 dan Musyrif Kamar**: setiap musyrif bertanggung jawab menguji 6–8 santri kamar masing-masing secara privat (*Tashih 1-on-1*). Beban terdistribusi merata, setiap santri tersertifikasi dengan akurasi 100%.[^4]
 
-#### 🥊 Ronde 2: Gradasi Pemahaman Madzhab Berjenjang (Maratib at-Tafaqquh)
+#### 2. Diskursus Dialektika Kritis: Gradasi Pemahaman Madzhab Berjenjang (Maratib at-Tafaqquh)
 * **Pihak A (Sudut Pandang Mencampuradukkan Madzhab Sejak Dini)**:  
   *"Santri kelas 7 langsung diajarkan kitab perbandingan madzhab 4 agar pikirannya terbuka!"*
 * **Tinjauan Kaidah Maratib at-Ta'lim & Bahaya Kerancuan Fiqh**:  
   Mengajarkan perbedaan madzhab kepada santri pemula (usia 12 tahun) memicu **Kebingungan Fiqh (*Confusion & Talbis*)**: santri belum kokoh memegang satu madzhab namun sudah dibingungkan oleh perdebatan dalil. TUMBUH menerapkan gradasi kitab: **Jenjang J1–J2 Mengokohkan Madzhab Syafi'i Dasar (*Matan Taqrib & Fathul Qarib*)**; setelah pondasinya mutqin, **Jenjang J3–J4 Diajarkan Perbandingan Madzhab & Hikmah Tasyri' (*Bidayatul Mujtahid & Bulughul Maram*)**. Struktur berpikir santri menjadi kokoh dan toleran.[^5]
 
-#### 🥊 Ronde 3: Kriteria Kelulusan Mutqin: Tanpa Toleransi Kesalahan Rukun
+#### 3. Diskursus Dialektika Kritis: Kriteria Kelulusan Mutqin: Tanpa Toleransi Kesalahan Rukun
 * **Pihak A (Sudut Pandang Nilai Rata-rata Kompensasi)**:  
   *"Kalau santri salah rukun wudhu tapi nilai ujian aqidahnya 100, luluskan saja dengan nilai rata-rata 80!"*
 * **Resolusi Kaidah Ma la Yatimmul Wajibu Illa Bihi fa Huwa Wajib**:  
@@ -107,7 +107,7 @@ $$\text{عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ ع�
 
 ---
 
-### 3. Inkuiri 2: Sintesis Taksonomi Tri-Domain Bloom-Krathwohl-Simpson & Fitrah Ibadah
+### 3. Sintesis Taksonomi Tri-Domain Bloom-Krathwohl-Simpson & Fitrah Ibadah
 
 ```mermaid
 graph TD
@@ -140,19 +140,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Domain Kognitif 'Aqliyyah: Dari C1 Menghafal Menuju C4 Menganalisis
+#### 1. Diskursus Dialektika Kritis: Domain Kognitif 'Aqliyyah: Dari C1 Menghafal Menuju C4 Menganalisis
 * **Pihak A (Sudut Pandang Terjebak Hafalan C1)**:  
   *"Santri cukup hafal matan Taqrib; tidak perlu diajak menganalisis kasus fiqh kontemporer seperti shalat di pesawat atau tayamum debu AC!"*
 * **Tinjauan Revisi Taksonomi Bloom (Anderson & Krathwohl)**:  
   Hanya menuntut hafalan (C1) membuat santri bingung ketika menghadapi situasi nyata di luar asrama. Dalam taksonomi TUMBUH: Santri Jenjang J1 menguasai C1–C2 (menghafal dan memahami rukun); Santri Jenjang J2 menguasai C3 (menerapkan dalam shalat harian); Santri Jenjang J3 menguasai C4–C5 (menganalisis dalil pembatal dan mengevaluasi kasus fiqh musafir); dan Santri Jenjang J4 menguasai C6 (merancang panduan adab ibadah bagi adik kelas). Kognisi santri matang dan solutif.[^8]
 
-#### 🥊 Ronde 2: Domain Afektif Qalbiyyah: Menuju Level A5 Karakterisasi Nilai Khusyu'
+#### 2. Diskursus Dialektika Kritis: Domain Afektif Qalbiyyah: Menuju Level A5 Karakterisasi Nilai Khusyu'
 * **Pihak A (Sudut Pandang Pengabaian Evaluasi Afektif)**:  
   *"Kekhusyukan hati itu di dalam dada, tidak bisa diukur dengan taksonomi afektif; abaikan saja penilaian afektif!"*
 * **Tinjauan Taksonomi Afektif Krathwohl & Indikator BARS**:  
   Kekhusyukan batin memang tidak terlihat, namun **Manifestasi Afektifnya Dapat Diobservasi Secara Jelas**: santri yang berada pada level *A1 (Receiving)* mendengarkan adzan; level *A2 (Responding)* segera berwudhu; level *A3 (Valuing)* menikmati shalat thuma'ninah tanpa gelisah; level *A4 (Organizing)* menjadwalkan tilawah 1 juz mandiri; dan level *A5 (Characterization)* memiliki *Malakah* kesalehan hidup yang memancar dalam ketenangan wajah dan adabnya. Evaluasi afektif terukur secara objektif.[^9]
 
-#### 🥊 Ronde 3: Domain Psikomotorik Amaliyyah: Kemahiran Refleks Presisi (Level P4–P5)
+#### 3. Diskursus Dialektika Kritis: Domain Psikomotorik Amaliyyah: Kemahiran Refleks Presisi (Level P4–P5)
 * **Pihak A (Sudut Pandang Menganggap Gerakan Shalat Pasti Benar Sendirinya)**:  
   *"Semua orang yang punya tangan dan kaki pasti bisa shalat; tidak perlu dinilai aspek psikomotoriknya!"*
 * **Resolusi Taksonomi Psikomotorik Elizabeth Simpson**:  
@@ -160,7 +160,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Pemetaan Standar Kompetensi Lulusan (SKL) Melintasi Tangga Jenjang J1–J4
+### 4. Pemetaan Standar Kompetensi Lulusan (SKL) Melintasi Tangga Jenjang J1–J4
 
 ```mermaid
 flowchart TD
@@ -183,19 +183,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memetakan SKL Shahihul Ibadah secara komprehensif dari jenjang dasar J1 hingga kepemimpinan J4.
 * **Konklusi (*an-Natijah*)**: Maka, lulusan pesantren TUMBUH memiliki standar mutu keilmuan dan praktik ibadah yang teruji keunggulannya.[^11]
 
-#### 🥊 Ronde 1: SKL Jenjang J1: Fondasi Zero-Defect Fiqh Thaharah
+#### 1. Diskursus Dialektika Kritis: SKL Jenjang J1: Fondasi Zero-Defect Fiqh Thaharah
 * **Pihak A (Sudut Pandang Santri Baru Langsung Dibebani Target Tinggi)**:  
   *"Santri kelas 7 harus langsung ditargetkan hafal kitab fiqh tebal dan shalat malam 11 rakaat!"*
 * **Tinjauan Prioritas Kompetensi Dasar J1**:  
   Membebani santri baru dengan materi rumit sebelum menguasai gerakan dasar adalah kesalahan kurikulum. Target utama SKL J1 adalah **Zero-Defect Fiqh Thaharah & Shalat**: memastikan wudhu, mandi janabah, shalat 5 waktu berjamaah, dan dzikir ma'tsurat santri benar 100%. Jika fondasi ini kokoh, seluruh bangunan ibadah di jenjang berikutnya akan berdiri tegak dengan mudah.[^12]
 
-#### 🥊 Ronde 2: SKL Jenjang J2–J3: Penguasaan Amaliah Nawafil & Fahmul Ma'ani
+#### 2. Diskursus Dialektika Kritis: SKL Jenjang J2–J3: Penguasaan Amaliah Nawafil & Fahmul Ma'ani
 * **Pihak A (Sudut Pandang Cukup Ibadah Wajib Saja Hingga Lulus)**:  
   *"Santri kelas 11 tidak perlu diajari fiqh jenazah atau shalat gerhana, itu materi langka yang jarang dipakai!"*
 * **Tinjauan Kelengkapan Fiqh Kifayah & Kesiapan Hidup**:  
   Santri Jenjang J2–J3 harus menguasai materi fiqh yang lebih luas: shalat jenazah, shalat jamak-qashar musafir, sujud sahwi, dan sujud tilawah, dipadukan dengan pemahaman arti bacaan shalat (*Fahmul Ma'ani*). Santri tidak hanya siap shalat sendiri, tetapi siap memandikan, mengafani, dan menshalatkan jenazah di masyarakat.[^13]
 
-#### 🥊 Ronde 3: SKL Jenjang J4: Sertifikasi Standar Imam Rawatib & Khatib Jumat
+#### 3. Diskursus Dialektika Kritis: SKL Jenjang J4: Sertifikasi Standar Imam Rawatib & Khatib Jumat
 * **Pihak A (Sudut Pandang Lulus Tanpa Uji Kompetensi Kepemimpinan)**:  
   *"Santri kelas 12 yang sudah menyelesaikan masa belajar langsung beri ijazah saja, tidak perlu ujian imamah!"*
 * **Resolusi Sertifikasi Kompetensi Imamah & Khuthbah**:  
@@ -203,9 +203,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standar Kompetensi
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standar Kompetensi
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Kelulusan Santri Berotak Cemerlang Namun Cacat Praktik Shalat)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Kelulusan Santri Berotak Cemerlang Namun Cacat Praktik Shalat)
 Pertarungan filosofis-pedagogis terdalam bermuara pada kasus: **"Bagaimana Dewan Penguji menyikapi santri kelas 12 yang meraih nilai 100 dalam ujian tertulis fiqh dan diterima di universitas ternama, namun saat Uji Praktik Klinis Shalat (OSCE Fiqh) ditemukan bahwa sujudnya mengangkat kedua kaki dari lantai (melanggar rukun sujud 7 anggota badan) dan bacaan Al-Fatihahnya mengandung Lahn Jaliy (merusak makna ayat)?"**
 
 * **Pendekatan Lama (Kompensasi Nilai & Pelulusan Formalitas)**:  
@@ -252,7 +252,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

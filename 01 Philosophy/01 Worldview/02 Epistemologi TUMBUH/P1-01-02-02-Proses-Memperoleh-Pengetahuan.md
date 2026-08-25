@@ -115,15 +115,15 @@ Ekosistem TUMBUH mengkodifikasikan proses perolehan pengetahuan ke dalam **Siklu
 flowchart TD
     subgraph SiklusKognisiTUMBUH["SIKLUS EMPAT JALUR PEMEROLEHAN PENGETAHUAN TUMBUH"]
         
-        J1["1. TALAQQI MUSYAFAHAH (Penerimaan Teks & Encoding Memori)<br/>• Menyimak bacaan guru, menyerap matan otentik, & menjaga sanad keilmuan.<br/>• Fokus pada akurasi teks & penghormatan adab majelis."]
+        JL1["1. TALAQQI MUSYAFAHAH (Penerimaan Teks & Encoding Memori)<br/>• Menyimak bacaan guru, menyerap matan otentik, & menjaga sanad keilmuan.<br/>• Fokus pada akurasi teks & penghormatan adab majelis."]
         
-        J2["2. NAZHAR BURHANI (Penalaran Kritis & Working Memory)<br/>• Membedah 'illat hukum, menyusun peta konsep, & menganalisis argumen mantiq.<br/>• Mengajukan pertanyaan reflektif: 'Mengapa, bagaimana, & apa implikasinya?'"]
+        JL2["2. NAZHAR BURHANI (Penalaran Kritis & Working Memory)<br/>• Membedah 'illat hukum, menyusun peta konsep, & menganalisis argumen mantiq.<br/>• Mengajukan pertanyaan reflektif: 'Mengapa, bagaimana, & apa implikasinya?'"]
         
-        J3["3. TAJRIBAH 'AMALIYYAH (Praktik Nyata & Konsolidasi Sinaptik)<br/>• Menerapkan konsep dalam kehidupan asrama 24 jam & eksperimen sains.<br/>• Mengubah pengetahuan teoritis menjadi kebiasaan adab otomatis."]
+        JL3["3. TAJRIBAH 'AMALIYYAH (Praktik Nyata & Konsolidasi Sinaptik)<br/>• Menerapkan konsep dalam kehidupan asrama 24 jam & eksperimen sains.<br/>• Mengubah pengetahuan teoritis menjadi kebiasaan adab otomatis."]
         
-        J4["4. TAZKIYATUN NAFS (Penyucian Kalbu & Penguncian Berkah)<br/>• Menjaga keikhlasan niat, menjauhi ujub, & bermunajat di sepertiga malam.<br/>• Melahirkan ketenteraman jiwa (Thuma'ninah) & ilmu yang bermanfaat ('Ilmun Nafi')."]
+        JL4["4. TAZKIYATUN NAFS (Penyucian Kalbu & Penguncian Berkah)<br/>• Menjaga keikhlasan niat, menjauhi ujub, & bermunajat di sepertiga malam.<br/>• Melahirkan ketenteraman jiwa (Thuma'ninah) & ilmu yang bermanfaat ('Ilmun Nafi')."]
         
-        J1 ==> J2 ==> J3 ==> J4 ==> J1
+        JL1 ==> JL2 ==> JL3 ==> JL4 ==> JL1
     end
 ```
 

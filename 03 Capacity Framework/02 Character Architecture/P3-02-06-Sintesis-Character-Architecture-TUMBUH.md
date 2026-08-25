@@ -19,12 +19,12 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: SINTESIS TEORETIS 5 PILAR ARSITEKTUR KARAKTER & GRAND MODEL](#bagian-i-sintesis-teoretis-5-pilar-arsitektur-karakter--grand-model)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Arsitektur Sintesis Holistik: Struktur Master Karakter Pesantren TUMBUH](#1-arsitektur-sintesis-holistik-struktur-master-karakter-pesantren-tumbuh)
   - [2. Grand Model Penyelarasan Taksonomi, Gradasi Level, & Validasi Psikometri](#2-grand-model-penyelarasan-taksonomi-gradasi-level--validasi-psikometri)
   - [3. Perwujudan Triad Pertumbuhan Simbiotik dalam Arsitektur Karakter](#3-perwujudan-triad-pertumbuhan-simbiotik-dalam-arsitektur-karakter)
   - [4. Jembatan Konseptual Menuju Sub-Domain 03 Character Relationships](#4-jembatan-konseptual-menuju-sub-domain-03-character-relationships)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Grand Architecture Taksonomi Karakter Pesantren TUMBUH](#1-formulasi-konseptual-grand-architecture-taksonomi-karakter-pesantren-tumbuh)
   - [2. Matriks Grand Model Penyelarasan Arsitektur Karakter (3 Pilar, 10 Muwashafat, & 4 Level)](#2-matriks-grand-model-penyelarasan-arsitektur-karakter-3-pilar-10-muwashafat--4-level)
   - [3. Standar Prosedur Evaluasi & Kalibrasi Mutu Arsitektur Karakter Asrama](#3-standar-prosedur-evaluasi--kalibrasi-mutu-arsitektur-karakter-asrama)
@@ -116,7 +116,7 @@ graph LR
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

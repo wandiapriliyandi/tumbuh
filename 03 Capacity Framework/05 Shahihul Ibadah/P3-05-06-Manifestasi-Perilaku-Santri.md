@@ -14,20 +14,20 @@
 >   Banyak pengasuh kesulitan mengevaluasi capaian ibadah santri karena terjebak pada asumsi bahwa "kekhusyukan dan kesalehan ibadah hanyalah urusan batin yang tidak bisa dilihat". Akibatnya, perilaku buruk seperti menyiram air wudhu sembarangan, mendorong teman di saf shalat, dan menunda takbiratul ihram dibiarkan tanpa bimbingan objektif.
 > * **Inovasi Pemetaan Manifestasi Perilaku Teramati (*Observable Behaviors*):**  
 >   TUMBUH memetakan perilaku Shahihul Ibadah ke dalam **Indikator Perilaku Konkret Empat Lokus Asrama 24 Jam: 1. Tempat Wudhu (Tertib, Hemat Air <90 dtk, & Bebas Cipratan); 2. Ruang Utama Masjid (Saf Awal, Thuma'ninah 4 dtk, & Dzikir Khusyu'); 3. Kamar Asrama (Bangun Fajar Mandiri & Tilawah 1 Juz); 4. Kelas/Madrasah (Shalat Dhuha & Adab Menuntut Ilmu)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah konsep *Siimahum fii wujuhihim min atsaris sujud* (QS. Al-Fath: 29 & *Ihya' 'Ulumiddin*), menyintesiskan *Theory of Planned Behavior* Icek Ajzen (1991) dan *Nudge Theory* Thaler-Sunstein (2008), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan rekayasa lingkungan arsitektur masjid ramah ibadah.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA MANIFESTASI PERILAKU](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-manifestasi-perilaku)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Ilusi Ibadah "Tersembunyi di Hati" vs Keniscayaan Manifestasi Konkret](#1-latar-belakang-masalah-ilusi-ibadah-tersembunyi-di-hati-vs-keniscayaan-manifestasi-konkret)
-  - [2. Inkuiri 1: Eksegesis Turats Atsar al-'Ibadah 'alal Jawarih (QS. Al-Fath: 29 & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-atsar-al-ibadah-alal-jawarih-qs-al-fath-29--al-ghazali)
-  - [3. Inkuiri 2: Teori Perilaku Terencana Icek Ajzen & Nudge Theory Thaler-Sunstein dalam Arsitektur Ibadah](#3-inkuiri-2-teori-perilaku-terencana-icek-ajzen--nudge-theory-thaler-sunstein-dalam-arsitektur-ibadah)
-  - [4. Inkuiri 3: Pemetaan Manifestasi Perilaku di Empat Lokus Kehidupan Asrama 24 Jam](#4-inkuiri-3-pemetaan-manifestasi-perilaku-di-empat-lokus-kehidupan-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Manifestasi Perilaku](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-manifestasi-perilaku)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Atsar al-'Ibadah 'alal Jawarih (QS. Al-Fath: 29 & Al-Ghazali)](#2eksegesis-turats-atsar-al-ibadah-alal-jawarih-qs-al-fath-29-al-ghazali)
+  - [3. Teori Perilaku Terencana Icek Ajzen & Nudge Theory Thaler-Sunstein dalam Arsitektur Ibadah](#3teori-perilaku-terencana-icek-ajzen-nudge-theory-thaler-sunstein-dalam-arsitektur-ibadah)
+  - [4. Pemetaan Manifestasi Perilaku di Empat Lokus Kehidupan Asrama 24 Jam](#4pemetaan-manifestasi-perilaku-di-empat-lokus-kehidupan-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Manifestasi Perilaku](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-manifestasi-perilaku)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Taksonomi Manifestasi Perilaku Shahihul Ibadah (Positif vs Negatif)](#1-arsitektur-taksonomi-manifestasi-perilaku-shahihul-ibadah-positif-vs-negatif)
   - [2. Matriks Pemetaan Perilaku Empat Lokus Asrama 24 Jam](#2-matriks-pemetaan-perilaku-empat-lokus-asrama-24-jam)
   - [3. Rekayasa Desain Lingkungan Nudge untuk Memfasilitasi Ibadah Otomatis](#3-rekayasa-desain-lingkungan-nudge-untuk-memfasilitasi-ibadah-otomatis)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Atsar al-'Ibadah 'alal Jawarih (QS. Al-Fath: 29 & Al-Ghazali)
+### 2. Eksegesis Turats Atsar al-'Ibadah 'alal Jawarih (QS. Al-Fath: 29 & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{رَأَى سَعِيدُ بْنُ الْمُسَيِّبِ رَجُلً
 
 *"**Sa'id bin Al-Musayyib rahimahullah melihat seorang laki-laki mempermainkan jenggotnya saat shalat, lalu beliau berkata: 'Seandainya hati orang ini khusyu', niscaya tenanglah seluruh anggota badannya'**. Hal itu karena anggota badan senantiasa patuh mengikuti kondisi hati; maka apabila hati dipenuhi wibawa pengagungan kepada Allah, niscaya tenanglah persendian raga dan lenyaplah seluruh gerakan sia-sia."*[^4]
 
-#### 🥊 Ronde 1: Bukti Fisik Keabsahan Wudhu: Isbagh Tanpa Pemborosan
+#### 1. Diskursus Dialektika Kritis: Bukti Fisik Keabsahan Wudhu: Isbagh Tanpa Pemborosan
 * **Pihak A (Sudut Pandang Asal Basah Tanpa Aturan)**:  
   *"Santri wudhu sambil ngobrol dan memercikkan air ke mana-mana itu hal biasa; tidak perlu dijadikan indikator penilaian perilaku!"*
 * **Tinjauan Fiqh Isbaghul Wudhu & Adab Bersuci**:  
   Wudhu adalah ibadah pembuka shalat. Perilaku wudhu yang benar termanifestasi secara nyata: santri membuka keran air secara hemat (aliran kecil), membasuh wajah dari tempat tumbuhnya rambut hingga dagu secara merata, menyela-nyela jari tangan dan jenggot, membasuh siku dan mata kaki secara sempurna (*Isbagh*), serta mengalirkan air tanpa memercik (*Splash-Free*). Santri yang wudhunya tenang mencerminkan kesiapan mentalnya menghadap Allah SWT.[^5]
 
-#### 🥊 Ronde 2: Ketenangan Jawarih Saat Shalat (Anti-Fidgeting Behavior)
+#### 2. Diskursus Dialektika Kritis: Ketenangan Jawarih Saat Shalat (Anti-Fidgeting Behavior)
 * **Pihak A (Sudut Pandang Memaklumi Santri Bergoyang-goyang)**:  
   *"Santri shalat sambil menggaruk-garuk kepala, membetulkan sarung 10 kali, dan melirik jam dinding itu wajar karena anak-anak tidak bisa diam!"*
 * **Tinjauan Sukunul Jawarih & Larangan Gerakan Sia-Sia**:  
   Gerakan gelisah berlebihan (*Fidgeting Behavior*) dalam shalat adalah bukti hilangnya konsentrasi dan kegagalan menahan impuls raga. Santri yang beraqidah dan beraibadah shahih menunjukkan **Ketenangan Kinestetik (*Physical Stillness*)**: pandangan lurus tertuju ke tempat sujud, kedua tangan terkunci tenang di atas dada/pusar, dan tubuh diam terpaku selama 3–5 detik pada setiap thuma'ninah ruku' dan sujud. Ketenangan raga ini adalah manifestasi kekhusyukan batin.[^6]
 
-#### 🥊 Ronde 3: Kerapian Saf Berjamaah: Lurus, Rapat, dan Saling Mengisi
+#### 3. Diskursus Dialektika Kritis: Kerapian Saf Berjamaah: Lurus, Rapat, dan Saling Mengisi
 * **Pihak A (Sudut Pandang Saf Renggang Tanpa Merapatkan Tumit)**:  
   *"Saf shalat renggang 30 cm antar-santri itu tidak apa-apa; tidak usah dipaksa menempelkan bahu dan tumit!"*
 * **Resolusi Perintah Nabawi Tarashshush Shufuf**:  
@@ -112,7 +112,7 @@ $$\text{رَأَى سَعِيدُ بْنُ الْمُسَيِّبِ رَجُلً
 
 ---
 
-### 3. Inkuiri 2: Teori Perilaku Terencana Icek Ajzen & Nudge Theory Thaler-Sunstein dalam Arsitektur Ibadah
+### 3. Teori Perilaku Terencana Icek Ajzen & Nudge Theory Thaler-Sunstein dalam Arsitektur Ibadah
 
 ```mermaid
 graph TD
@@ -145,19 +145,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Nudge Rak Sandal Bersekat & Garis Saf Presisi
+#### 1. Diskursus Dialektika Kritis: Nudge Rak Sandal Bersekat & Garis Saf Presisi
 * **Pihak A (Sudut Pandang Sandal Berserakan Dibiarkan Saja)**:  
   *"Sandal santri menumpuk di depan pintu masjid itu wajar; tidak perlu dibuatkan rak bersekat nama yang menghabiskan biaya!"*
 * **Tinjauan Nudge Choice Architecture & Eliminasi Ghashab**:  
   Menumpuknya sandal di tangga masuk memicu friksi visual dan kebiasaan ghashab sandal teman. Dengan **Nudge Rak Sandal Bersekat Nama di Samping Tangga**: santri secara otomatis menaruh sandalnya di slot pribadinya dalam tempo 2 detik. Ditambah **Garis Laser/Pita Presisi pada Karpet Masjid**: santri menyejajarkan tumitnya tanpa perlu komando berulang kali. Desain lingkungan menuntun lahirnya perilaku tertib.[^9]
 
-#### 🥊 Ronde 2: Pembentukan Intensi Perilaku Shalat Berjamaah (Theory of Planned Behavior)
+#### 2. Diskursus Dialektika Kritis: Pembentukan Intensi Perilaku Shalat Berjamaah (Theory of Planned Behavior)
 * **Pihak A (Sudut Pandang Kepatuhan Buta Karena Takut Absen)**:  
   *"Santri tidak perlu memiliki niat dari dalam; yang penting kakinya melangkah ke masjid karena takut namanya dicatat merah!"*
 * **Tinjauan Model Icek Ajzen**:  
   Kepatuhan yang hanya didorong rasa takut (*Extrinsic Pressure*) akan lenyap seketika saat pengawas tidak ada. Menurut teori Ajzen, perilaku permanen membutuhkan tiga pilar: **(1) Sikap Positif**: santri meyakini keutamaan pahala 27 derajat shalat berjamaah; **(2) Norma Subjektif**: melihat teman sekamarnya saling mengajak ke masjid; dan **(3) Kendali Perilaku**: kemudahan akses tempat wudhu yang bersih. Niat yang kokoh melahirkan kehadiran shalat yang tulus.[^10]
 
-#### 🥊 Ronde 3: Reduksi Friksi Lingkungan Tempat Wudhu (Low-Friction Design)
+#### 3. Diskursus Dialektika Kritis: Reduksi Friksi Lingkungan Tempat Wudhu (Low-Friction Design)
 * **Pihak A (Sudut Pandang Tempat Wudhu Jauh & Antre Panjang)**:  
   *"Biarkan tempat wudhu cuma ada 5 kran untuk 200 santri, biar mereka belajar antre dan sabar!"*
 * **Resolusi Ergonomi Sanitasi Pesantren**:  
@@ -165,7 +165,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Pemetaan Manifestasi Perilaku di Empat Lokus Kehidupan Asrama 24 Jam
+### 4. Pemetaan Manifestasi Perilaku di Empat Lokus Kehidupan Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -188,19 +188,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memetakan manifestasi perilaku Shahihul Ibadah secara spesifik pada 4 lokus asrama pesantren.
 * **Konklusi (*an-Natijah*)**: Maka, pemantauan dan pembinaan ibadah santri di pesantren TUMBUH berlangsung secara menyeluruh, adil, dan objektif.[^12]
 
-#### 🥊 Ronde 1: Lokus Tempat Wudhu: Adab Bersuci dan Konservasi Air
+#### 1. Diskursus Dialektika Kritis: Lokus Tempat Wudhu: Adab Bersuci dan Konservasi Air
 * **Pihak A (Sudut Pandang Tempat Wudhu Bebas Adab)**:  
   *"Tempat wudhu itu area basah; wajar kalau santri sambil bercanda teriak-teriak dan menyiram teman!"*
 * **Tinjauan Adab Thaharah Nabawiyyah**:  
   Tempat wudhu adalah gerbang kesucian. Perilaku terpuji di tempat wudhu mencakup: tidak berbicara sia-sia, membaca basmalah, membasuh dengan tertib sesuai urutan rukun, tidak memercikkan air ke pakaian orang lain, menutup kran rapat setelah selesai (*Zero Leakage*), dan melafalkan syahadat doa ba'da wudhu sambil menghadap kiblat. Kesucian shalat dimulai dari kesucian adab di tempat wudhu.[^13]
 
-#### 🥊 Ronde 2: Lokus Ruang Utama Masjid: Disiplin Saf Awal & Wirid
+#### 2. Diskursus Dialektika Kritis: Lokus Ruang Utama Masjid: Disiplin Saf Awal & Wirid
 * **Pihak A (Sudut Pandang Berebut Keluar Masjid Paling Cepat)**:  
   *"Santri yang langsung lari keluar masjid begitu imam salam pertama itu tandanya gesit dan lincah!"*
 * **Tinjauan Adab al-Masjid & Keberkahan Wirid**:  
   Berlari keluar masjid seketika setelah salam mencerminkan hati yang tidak betah di rumah Allah. Perilaku santri beradab di masjid: shalat sunnah tahiyyatul masjid saat masuk, mengisi saf terdepan yang masih kosong, tidak melangkahi pundak jamaah lain, shalat dengan thuma'ninah khusyu', beristighfar 3 kali ba'da salam, membaca tasbih-tahmid-takbir 33 kali, dan mendirikan shalat sunnah rawatib sebelum meninggalkan masjid dengan tertib melangkah kaki kiri.[^14]
 
-#### 🥊 Ronde 3: Lokus Kamar Asrama & Kelas: Qiyamul Lail Mandiri & Dhuha
+#### 3. Diskursus Dialektika Kritis: Lokus Kamar Asrama & Kelas: Qiyamul Lail Mandiri & Dhuha
 * **Pihak A (Sudut Pandang Kamar Asrama Hanya untuk Tidur dan Main)**:  
   *"Ibadah itu tempatnya cuma di masjid; di kamar asrama dan ruang kelas tidak perlu ada amalan ibadah!"*
 * **Resolusi Rumah Bercahaya & Shalat Sunnah di Kamar**:  
@@ -208,9 +208,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Manifestasi Perilaku
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Manifestasi Perilaku
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Berpura-pura Tidur Saat Qiyamul Lail)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Berpura-pura Tidur Saat Qiyamul Lail)
 Pertarungan filosofis-operasional terdalam di asrama bermuara pada kasus: **"Bagaimana musyrif menangani santri kelas 9 yang setiap bel qiyamul lail berbunyi pukul 04.00 selalu menarik selimut menutupi seluruh badannya dan berpura-pura tidur nyenyak agar tidak diajak shalat tahajjud ke masjid?"**
 
 * **Pendekatan Lama (Kekerasan Fisik & Penarikan Paksa)**:  
@@ -259,7 +259,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

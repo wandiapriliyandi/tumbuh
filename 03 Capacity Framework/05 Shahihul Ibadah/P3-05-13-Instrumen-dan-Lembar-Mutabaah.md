@@ -14,20 +14,20 @@
 >   Buku mutaba'ah di banyak pesantren berbentuk buku tebal yang rumit, mudah basah terkena air wudhu, dan menuntut waktu pengisian panjang. Hal ini memicu keengganan santri membawanya ke masjid, mendorong pemalsuan pengisian di akhir bulan, dan menimbulkan frustrasi administratif bagi musyrif.
 > * **Inovasi Toolkits Tiga Master Template TUMBUH:**  
 >   TUMBUH merancang tiga instrumen siap pakai berbasis *Ecological Momentary Assessment (EMA)* dan *Human-Centered Design*: **1. Kartu Kendali Saku Mutaba'ah Yaumiyyah Mingguan (Format Saku Praktis Anti-Air <30 Detik); 2. Formulir Intervensi Tier 2 CICO Fajar & FBA Ringkas; 3. Lembar Checklist Rubrik Uji Klinis Praktik Fiqh Ibadah OSCE (4 Stasiun)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah konsep *Shaha'if al-A'mal* dan muhasabah diri (*Hāsibū Anfusakum Qabla an Tuhāsabū* HR. At-Tirmidzi & Al-Ghazali), menyintesiskan metodologi EMA Saul Shiffman (2008), menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan master template instrumen siap cetak (*Print-Ready*).
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA INSTRUMEN MUTABAAH](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-instrumen-mutabaah)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Format Lembar Kendali Kering vs Instrumen Ekologis Ramah Santri](#1-latar-belakang-masalah-format-lembar-kendali-kering-vs-instrumen-ekologis-ramah-santri)
-  - [2. Inkuiri 1: Eksegesis Turats Shaha'if al-A'mal & Tradisi Muhasabah Salaf (QS. At-Thur: 21 & Al-Ghazali)](#2-inkuiri-1-eksegesis-turats-shahaif-al-amal--tradisi-muhasabah-salaf-qs-at-thur-21--al-ghazali)
-  - [3. Inkuiri 2: Metodologi Ecological Momentary Assessment (EMA) & Human-Centered Design](#3-inkuiri-2-metodologi-ecological-momentary-assessment-ema--human-centered-design)
-  - [4. Inkuiri 3: Tipologi Tiga Instrumen Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam](#4-inkuiri-3-tipologi-tiga-instrumen-baku-shahihul-ibadah-dalam-keseharian-asrama-24-jam)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Instrumen Mutaba'ah](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-instrumen-mutabaah)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Shaha'if al-A'mal & Tradisi Muhasabah Salaf (QS. At-Thur: 21 & Al-Ghazali)](#2eksegesis-turats-shahaif-al-amal-tradisi-muhasabah-salaf-qs-at-thur-21-al-ghazali)
+  - [3. Metodologi Ecological Momentary Assessment (EMA) & Human-Centered Design](#3metodologi-ecological-momentary-assessment-ema-human-centered-design)
+  - [4. Tipologi Tiga Instrumen Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam](#4tipologi-tiga-instrumen-baku-shahihul-ibadah-dalam-keseharian-asrama-24-jam)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Instrumen Mutaba'ah](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-instrumen-mutabaah)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Toolkits Instrumen Evaluasi Shahihul Ibadah (Fisik Saku & Digital PBIS)](#1-arsitektur-toolkits-instrumen-evaluasi-shahihul-ibadah-fisik-saku--digital-pbis)
   - [2. Master Template 1: Kartu Kendali Saku Mutaba'ah Yaumiyyah Mingguan (Print-Ready)](#2-master-template-1-kartu-kendali-saku-mutabaah-yaumiyyah-mingguan-print-ready)
   - [3. Master Template 2: Lembar Kerja Intervensi CICO Fajar & FBA Ringkas Tier 2–3](#3-master-template-2-lembar-kerja-intervensi-cico-fajar--fba-ringkas-tier-23)
@@ -65,7 +65,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Shaha'if al-A'mal & Tradisi Muhasabah Salaf (QS. At-Thur: 21 & Al-Ghazali)
+### 2. Eksegesis Turats Shaha'if al-A'mal & Tradisi Muhasabah Salaf (QS. At-Thur: 21 & Al-Ghazali)
 
 ```mermaid
 graph TD
@@ -88,19 +88,19 @@ $$\text{مَثَلُ الْعَبْدِ فِي مُحَاسَبَتِهِ لِن
 
 *"**Perumpamaan seorang hamba dalam menghisab dirinya sendiri adalah: Seperti perumpamaan seorang pedagang dengan mitra bisnisnya; pertama-tama ia menghisab modal pokoknya (yaitu amalan-amalan fardhu)**, maka jika ditemukan kekurangan ia menuntut untuk menqadha' dan menyempurnakannya; **kemudian ia menghisab keuntungan bisnisnya (yaitu amalan-amalan sunnah nawafil)**, maka jika keuntungannya terlewat ia menyadari kerugiannya. **Dan hal itu tidak mungkin dapat dikendalikan dengan presisi melainkan dengan memeriksa amalan dari waktu ke waktu dan mencatatnya dalam lembar pembukuan hisab (*Jaridatul Hisab*)**, sebagaimana yang senantiasa dilakukan oleh para salaf yang wara'."*[^3]
 
-#### 🥊 Ronde 1: Lembar Catatan Amal Bukan Riya' (Meluruskan Niat Pencatatan)
+#### 1. Diskursus Dialektika Kritis: Lembar Catatan Amal Bukan Riya' (Meluruskan Niat Pencatatan)
 * **Pihak A (Sudut Pandang Kartu Mutaba'ah Mengajarkan Kepalsuan)**:  
   *"Santri mencatat ibadah di kertas hanya agar dipuji temannya; ini riya' murni yang menghapus pahala shalat!"*
 * **Tinjauan Fiqh Niat & Pembelajaran Karakter Awal**:  
   Bagi anak usia remaja (12–16 tahun), pencatatan amaliah adalah **Alat Bantu Pembiasaan (*Scaffolding Tool*)** untuk melatih disiplin diri (*Self-Regulation*). Santri diajarkan bahwa kartu kendali bukanlah untuk dipamerkan, melainkan cermin hisab pribadi. Sebagaimana pedagang mencatat laba-rugi tokos setiap malam, santri mencatat amalan shalat dan tilawahnya agar tidak merugi di akhirat. Niat ikhlas dibimbing secara bertahap.[^4]
 
-#### 🥊 Ronde 2: Desain Format Muhasabah Terpadu: Menghitung Modal & Untung
+#### 2. Diskursus Dialektika Kritis: Desain Format Muhasabah Terpadu: Menghitung Modal & Untung
 * **Pihak A (Sudut Pandang Cukup Satu Kolom Shalat Saja)**:  
   *"Kartu mutaba'ah cukup mencatat apakah santri shalat atau tidak; tidak perlu ada kolom rawatib, dhuha, atau dzikir!"*
 * **Tinjauan Struktur Fara'idh wa Nawafil (Al-Ghazali)**:  
   Memisahkan catatan fardhu dari nawafil mengabaikan fungsi shalat sunnah sebagai penambal kekurangan shalat wajib (*Jabrus Syiqaq* - HR. Tirmidzi No. 413). Format Kartu TUMBUH menstrukturkan secara jelas: **Blok Modal Pokok (Shalat 5 Waktu Saf Awal)** dan **Blok Keuntungan Spiritual (Rawatib, Dhuha, Qiyamul Lail, & ODOJ)**. Santri melihat perkembangan portofolio ruhiyahnya secara utuh.[^5]
 
-#### 🥊 Ronde 3: Keberkahan Catatan Amal Fisik (Tangible Accountability)
+#### 3. Diskursus Dialektika Kritis: Keberkahan Catatan Amal Fisik (Tangible Accountability)
 * **Pihak A (Sudut Pandang Digital 100% Tanpa Kartu Fisik Saku)**:  
   *"Ganti semua kartu kertas dengan aplikasi smartphone 100%; kartu fisik sudah ketinggalan zaman!"*
 * **Resolusi Keterbatasan Gadget di Pesantren & Tangibilitas Fisik**:  
@@ -108,7 +108,7 @@ $$\text{مَثَلُ الْعَبْدِ فِي مُحَاسَبَتِهِ لِن
 
 ---
 
-### 3. Inkuiri 2: Metodologi Ecological Momentary Assessment (EMA) & Human-Centered Design
+### 3. Metodologi Ecological Momentary Assessment (EMA) & Human-Centered Design
 
 ```mermaid
 graph TD
@@ -139,19 +139,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Kemudahan Pengisian Saku (<30 Detik): Anti-Ribet
+#### 1. Diskursus Dialektika Kritis: Kemudahan Pengisian Saku (<30 Detik): Anti-Ribet
 * **Pihak A (Sudut Pandang Pengisian Esai Panjang Harian)**:  
   *"Santri harus menulis esai refleksi 1 halaman setiap selesai shalat fardhu 5 waktu!"*
 * **Tinjauan Cognitive Fatigue & Beban Waktu**:  
   Menuntut penulisan esai 5 kali sehari menghabiskan waktu 50 menit per hari dan memicu penolakan keras dari santri. Berdasarkan metodologi EMA: Pengisian kartu mutaba'ah harian dibatasi maksimal **20–30 detik per waktu shalat**: santri cukup mencentang kotak saf awal, shalat rawatib, dan nomor halaman tilawah. Esai refleksi mendalam hanya dilakukan sepekan sekali saat halaqah malam Jumat. Efisiensi waktu terjamin.[^8]
 
-#### 🥊 Ronde 2: Bahan Kertas Sintetis Anti-Air (Water-Resistant Paper)
+#### 2. Diskursus Dialektika Kritis: Bahan Kertas Sintetis Anti-Air (Water-Resistant Paper)
 * **Pihak A (Sudut Pandang Memakai Kertas HVS Tipis Murahan)**:  
   *"Cetak saja kartu mutaba'ah pakai kertas fotokopian HVS 70 gram; kalau basah tinggal cetak lagi!"*
 * **Tinjauan Lingkungan Basah Tempat Wudhu & Ketahanan Alat**:  
   Kertas HVS tipis akan hancur dan luntur tintanya dalam 3 hari karena terkena percikan air tempat wudhu atau keringat saku. TUMBUH menggunakan **Kertas Sintetis Tahan Air (*Tear-Proof Water-Resistant Paper*)**: kartu tetap utuh, tulisan bolpoin tidak luntur meski terkena tetesan wudhu, dan dapat digunakan selama 1 semester penuh. Biaya lebih hemat dan data terlindungi aman.[^9]
 
-#### 🥊 Ronde 3: Validitas Konstruk Item Mutaba'ah (Bebas Pertanyaan Jebakan)
+#### 3. Diskursus Dialektika Kritis: Validitas Konstruk Item Mutaba'ah (Bebas Pertanyaan Jebakan)
 * **Pihak A (Sudut Pandang Menulis Pertanyaan Abstrak 'Apakah Anda Merasa Saleh?')**:  
   *"Tulis saja pertanyaan 'Apakah shalatmu sudah ikhlas hari ini?' di lembar mutaba'ah!"*
 * **Resolusi Psikometri Konstruksi Item**:  
@@ -159,7 +159,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Tipologi Tiga Instrumen Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam
+### 4. Tipologi Tiga Instrumen Baku Shahihul Ibadah dalam Keseharian Asrama 24 Jam
 
 ```mermaid
 flowchart TD
@@ -180,19 +180,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH menetapkan Tiga Master Template Instrumen resmi yang mencakup instrumen santri, instrumen intervensi musyrif, dan instrumen ujian asatidz.
 * **Konklusi (*an-Natijah*)**: Maka, tata kelola evaluasi ibadah di pesantren TUMBUH memiliki kelengkapan manajerial yang profesional dan berstandar mutu tinggi.[^11]
 
-#### 🥊 Ronde 1: Kartu Saku Mingguan Santri: Evaluasi Cepat Setiap Jumat Malam
+#### 1. Diskursus Dialektika Kritis: Kartu Saku Mingguan Santri: Evaluasi Cepat Setiap Jumat Malam
 * **Pihak A (Sudut Pandang Kartu Mutaba'ah Tahunan Tebal)**:  
   *"Beri saja santri satu buku tebal untuk setahun; tidak usah repot-repot membagikan kartu mingguan!"*
 * **Tinjauan Feedback Loop Mingguan**:  
   Buku tahunan yang tebal membuat santri merasa bebannya terlalu berat dan musyrif malas memeriksanya. Format **Kartu Saku Mingguan (1 Lembar per Pekan)**: setiap malam Jumat kartu dikumpulkan saat halaqah kamar, musyrif membubuhkan stempel bintang apresiasi PBIS, dan santri menerima kartu baru untuk pekan berikutnya. Siklus evaluasi pendek (*Short Feedback Loop*) menjaga motivasi santri tetap membara.[^12]
 
-#### 🥊 Ronde 2: Formulir FBA Ringkas untuk Musyrif (Tier 2–3 Action Sheet)
+#### 2. Diskursus Dialektika Kritis: Formulir FBA Ringkas untuk Musyrif (Tier 2–3 Action Sheet)
 * **Pihak A (Sudut Pandang Musyrif Menghukum Tanpa Mengisi Formulir Masalah)**:  
   *"Musyrif tidak usah disuruh mengisi formulir saat santri bolos shalat; langsung hukum saja biar cepat!"*
 * **Tinjauan Akuntabilitas Tindakan Pengasuhan & Perlindungan Santri**:  
   Menghukum tanpa pencatatan kasus memicu tindakan sewenang-wenang dan melanggar SOP perlindungan anak. Melalui **Formulir Intervensi Tier 2–3**: Musyrif mencatat tanggal kejadian, frekuensi keterlambatan, hasil dialog akar masalah (apakah karena tidur larut, sakit, atau bullying), dan kesepakatan target perbaikan. Dokumen ini menjadi arsip resmi pengasuhan yang melindungi hak santri dan lembaga.[^13]
 
-#### 🥊 Ronde 3: Lembar Checklist OSCE: Transparansi Ujian Praktik Fiqh
+#### 3. Diskursus Dialektika Kritis: Lembar Checklist OSCE: Transparansi Ujian Praktik Fiqh
 * **Pihak A (Sudut Pandang Nilai Ujian Praktik Sesuai Feeling Penguji)**:  
   *"Penguji cukup melihat santri shalat sebentar lalu langsung tulis nilai 85 di lembar nilai; tidak butuh checklist rukun!"*
 * **Resolusi Objektivitas Ujian Berstandar OSCE**:  
@@ -200,9 +200,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Instrumen Mutaba'ah
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Instrumen Mutaba'ah
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Santri Mengisi Kartu Mutaba'ah Milik Teman Sekamar yang Sakit)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Santri Mengisi Kartu Mutaba'ah Milik Teman Sekamar yang Sakit)
 Pertarungan filosofis-evaluatif terdalam bermuara pada kasus: **"Bagaimana musyrif menyikapi Santri D yang saat pengumpulan kartu mutaba'ah mingguan, tertangkap basah mencentangkan seluruh kolom shalat berjamaah di kartu mutaba'ah milik teman sekamarnya (Santri E yang sedang sakit demam di ranjang) dengan alasan 'saya kasihan kalau dia dapat nilai merah karena sedang sakit'?"**
 
 * **Pendekatan Lama (Hukuman Pemalsuan Dokumen & Vonis Curang)**:  
@@ -251,7 +251,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

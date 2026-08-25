@@ -22,13 +22,13 @@
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA SISTEM DINAMIS KARAKTER](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-sistem-dinamis-karakter)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Ilusi Penanganan Parsial (Mengobati Gejala Permukaan Tanpa Menyentuh Sumber Domino)](#1-latar-belakang-masalah-ilusi-penanganan-parsial-mengobati-gejala-permukaan-tanpa-menyentuh-sumber-domino)
-  - [2. Inkuiri 1: Eksegesis Turats Kaidah Segumpal Daging (HR. Al-Bukhari No. 52) & Resonansi Totalitas Jiwa](#2-inkuiri-1-eksegesis-turats-kaidah-segumpal-daging-hr-al-bukhari-no-52--resonansi-totalitas-jiwa)
-  - [3. Inkuiri 2: Teori Dinamika Sistem Jay Forrester & Konsep High-Leverage Intervention Points Donella Meadows](#3-inkuiri-2-teori-dinamika-sistem-jay-forrester--konsep-high-leverage-intervention-points-donella-meadows)
-  - [4. Inkuiri 3: Teori Broken Windows Wilson-Kelling & Rekayasa Presisi Kebersihan Kamar Asrama](#4-inkuiri-3-teori-broken-windows-wilson-kelling--rekayasa-presisi-kebersihan-kamar-asrama)
-  - [5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5-inkuiri-4-silogisme-logika-dialektika-3-ronde-kasuistika-lapangan--titik-temu-konsensus)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Kaidah Segumpal Daging (HR. Al-Bukhari No. 52) & Resonansi Totalitas Jiwa](#2eksegesis-turats-kaidah-segumpal-daging-hr-al-bukhari-no-52-resonansi-totalitas-jiwa)
+  - [3. Teori Dinamika Sistem Jay Forrester & Konsep High-Leverage Intervention Points Donella Meadows](#3teori-dinamika-sistem-jay-forrester-konsep-high-leverage-intervention-points-donella-meadows)
+  - [4. Teori Broken Windows Wilson-Kelling & Rekayasa Presisi Kebersihan Kamar Asrama](#4teori-broken-windows-wilson-kelling-rekayasa-presisi-kebersihan-kamar-asrama)
+  - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Formulasi Konseptual: Peta Resonansi 10 Karakter Muwashafat dan Analisis Jalur Kausal](#1-formulasi-konseptual-peta-resonansi-10-karakter-muwashafat-dan-analisis-jalur-kausal)
   - [2. Matriks Jalur Efek Domino Keruntuhan vs Efek Multiplier Penguatan](#2-matriks-jalur-efek-domino-keruntuhan-vs-efek-multiplier-penguatan)
   - [3. Protokol Identifikasi Dini Titik Rawan Domino (Early Warning Trigger Protocol)](#3-protokol-identifikasi-dini-titik-rawan-domino-early-warning-trigger-protocol)
@@ -70,7 +70,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Kaidah Segumpal Daging (HR. Al-Bukhari No. 52) & Resonansi Totalitas Jiwa
+### 2. Eksegesis Turats Kaidah Segumpal Daging (HR. Al-Bukhari No. 52) & Resonansi Totalitas Jiwa
 
 ```mermaid
 graph TD
@@ -88,7 +88,7 @@ graph TD
 
 ---
 
-### 3. Inkuiri 2: Teori Dinamika Sistem Jay Forrester & Konsep High-Leverage Intervention Points Donella Meadows
+### 3. Teori Dinamika Sistem Jay Forrester & Konsep High-Leverage Intervention Points Donella Meadows
 
 Pakar *System Dynamics* MIT **Donella Meadows** (2008) dalam *Thinking in Systems* merumuskan bahwa dalam sistem yang kompleks, tindakan intervensi kecil pada **Titik Ungkit Tinggi (*High-Leverage Point*)** akan menghasilkan perubahan besar yang langgeng:
 * Di asrama pesantren, menasihati santri untuk "jangan marah-marah" adalah intervensi berdaya ungkit rendah (*Low-Leverage*).
@@ -96,7 +96,7 @@ Pakar *System Dynamics* MIT **Donella Meadows** (2008) dalam *Thinking in System
 
 ---
 
-### 4. Inkuiri 3: Teori *Broken Windows* Wilson-Kelling & Rekayasa Presisi Kebersihan Kamar Asrama
+### 4. Teori *Broken Windows* Wilson-Kelling & Rekayasa Presisi Kebersihan Kamar Asrama
 
 James Q. Wilson & George L. Kelling (1982) merumuskan *Broken Windows Theory*:
 * Satu jendela yang pecah dan dibiarkan tidak diperbaiki di sebuah gedung akan mengundang orang memecahkan jendela-jendela lainnya, hingga seluruh gedung hancur dan menjadi sarang kriminalitas.
@@ -105,21 +105,21 @@ James Q. Wilson & George L. Kelling (1982) merumuskan *Broken Windows Theory*:
 
 ---
 
-### 5. Inkuiri 4: Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
+### 5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus
 
-#### 🥊 Ronde 1: Menolak Anggapan Bahwa "Menertibkan Sandal di Depan Masjid Itu Hal Sepele yang Tidak Penting"
+#### 1. Diskursus Dialektika Kritis: Menolak Anggapan Bahwa "Menertibkan Sandal di Depan Masjid Itu Hal Sepele yang Tidak Penting"
 * **Pihak A (Sudut Pandang Peremehan Adab Kecil)**:  
   *"Urusan sandal berserakan di masjid itu hal sepele; yang penting santri rajin tahfizh Al-Qur'an!"*
 * **Tinjauan Psikologi Kebiasaan & Mikroadab**:  
   Ketidaktertiban menata sandal (*Munazhzham*) adalah cermin dari ketidakteraturan pola pikir (*Disorganized Mind*). Santri yang terbiasa melempar sandal sembarangan akan memiliki kecenderungan meremehkan ketelitian tajwid saat membaca Al-Qur'an. Kerapian sandal adalah fondasi mikro bagi presisi hafalan mutqin.[^5]
 
-#### 🥊 Ronde 2: Sanggahan Balik Apakah Satu Kesalahan Kecil Pasti Menyebabkan Keruntuhan Total?
+#### 2. Diskursus Dialektika Kritis: Sanggahan Balik Apakah Satu Kesalahan Kecil Pasti Menyebabkan Keruntuhan Total?
 * **Pihak A (Sudut Pandang Fatalisme)**:  
   *"Jika satu domino jatuh seluruh karakter runtuh, berarti santri yang telat bangun subuh sekali sudah divonis gagal karakternya!"*
 * **Tinjauan Katup Pengaman Restoratif (Circuit Breaker)**:  
   Efek domino hanya berlanjut jika dibiarkan tanpa intervensi. Ekosistem TUMBUH merancang **Katup Pengaman Restoratif (*Restorative Circuit Breaker*)**: Ketika santri terlambat subuh (Domino 1 jatuh), musyrif langsung memotong rantai domino dengan dialog empat mata (*De-eskalasi & Muhasabah*) dan tidur siang qailulah, sehingga Domino 2 (Emosi labil) tidak sempat terjadi.[^6]
 
-#### 🥊 Ronde 3: Sanggahan Pamungkas Mengapa Salimul Aqidah dan Mujahadah Menjadi Dua Simpul Inti?
+#### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Salimul Aqidah dan Mujahadah Menjadi Dua Simpul Inti?
 * **Pihak A (Sudut Pandang Kesetaraan Bobot)**:  
   *"Semua 10 karakter bobotnya sama persis; mengapa Aqidah dan Mujahadah diistimewakan sebagai Master Nodes?"*
 * **Resolusi Analisis Sentralitas Jaringan**:  
@@ -131,7 +131,7 @@ James Q. Wilson & George L. Kelling (1982) merumuskan *Broken Windows Theory*:
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

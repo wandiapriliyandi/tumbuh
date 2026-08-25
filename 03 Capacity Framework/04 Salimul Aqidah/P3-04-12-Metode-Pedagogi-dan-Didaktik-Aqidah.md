@@ -14,20 +14,20 @@
 >   Di era banjir informasi digital, pendekatan pengajaran aqidah yang melarang santri bertanya kritis dan memaksa hafalan doktrin tanpa penalaran logis terbukti gagal total. Santri generasi digital yang terpapar konten ateisme/agnostik di internet membutuhkan jawaban rasional yang memuaskan akal dan menenteramkan hati, bukan bentakan atau ancaman dosa.
 > * **Inovasi Empat Metode Pedagogis Didaktik TUMBUH:**  
 >   TUMBUH merumuskan sintesis didaktik modern: **1. Dialog Sokratik & Diskusi Kritis (*Hiwar 'Aqli Burhani*), 2. Analogi Visual Sains & Perumpamaan Alam (*Tamsil Kauni*), 3. Internalisasi Reflektif Malam Hari (*Muhasabah Qalbiyyah*), dan 4. Keteladanan Hidup Pendidik (*Qudwah Hasanah Live Modeling*)**.
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah didaktik kenabian (*Adab al-Mu'allimin* Ibnu Sahnun & QS. An-Nahl: 125), menyintesiskan *Cognitive Load Theory* John Sweller (2011) dan *Dual-Coding Theory* Paivio, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan Bank Pertanyaan Sokratik (*Socratic Questioning Bank*) untuk 10 topik aqidah kritis.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA PEDAGOGI DIDAKTIK](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-pedagogi-didaktik)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Krisis Indoktrinasi Kaku di Era Kritis Digital](#1-latar-belakang-masalah-krisis-indoktrinasi-kaku-di-era-kritis-digital)
-  - [2. Inkuiri 1: Eksegesis Turats Manhaj Didaktik Kenabian: Amtsal, Hiwar, & Qudwah (QS. An-Nahl: 125 & Ibnu Sahnun)](#2-inkuiri-1-eksegesis-turats-manhaj-didaktik-kenabian-amtsal-hiwar--qudwah-qs-an-nahl-125--ibnu-sahnun)
-  - [3. Inkuiri 2: Teori Beban Kognitif Sweller (2011) & Inquiry-Based Learning dalam Didaktik Tauhid Generasi Digital](#3-inkuiri-2-teori-beban-kognitif-sweller-2011--inquiry-based-learning-dalam-didaktik-tauhid-generasi-digital)
-  - [4. Inkuiri 3: Empat Metode Inti Pedagogis Salimul Aqidah (Hiwar 'Aqli, Tamsil Kauni, Muhasabah, & Qudwah)](#4-inkuiri-3-empat-metode-inti-pedagogis-salimul-aqidah-hiwar-aqli-tamsil-kauni-muhasabah--qudwah)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Pedagogi Didaktik](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-pedagogi-didaktik)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Manhaj Didaktik Kenabian: Amtsal, Hiwar, & Qudwah (QS. An-Nahl: 125 & Ibnu Sahnun)](#2eksegesis-turats-manhaj-didaktik-kenabian-amtsal-hiwar-qudwah-qs-an-nahl-125-ibnu-sahnun)
+  - [3. Teori Beban Kognitif Sweller (2011) & Inquiry-Based Learning dalam Didaktik Tauhid Generasi Digital](#3teori-beban-kognitif-sweller-2011-inquiry-based-learning-dalam-didaktik-tauhid-generasi-digital)
+  - [4. Empat Metode Inti Pedagogis Salimul Aqidah (Hiwar 'Aqli, Tamsil Kauni, Muhasabah, & Qudwah)](#4empat-metode-inti-pedagogis-salimul-aqidah-hiwar-aqli-tamsil-kauni-muhasabah-qudwah)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Pedagogi Didaktik](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-pedagogi-didaktik)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Empat Metode Pedagogis Inti Salimul Aqidah TUMBUH](#1-arsitektur-empat-metode-pedagogis-inti-salimul-aqidah-tumbuh)
   - [2. Rencana Pelaksanaan Pembelajaran (RPP) Model Inkuiri Sokratik Aqidah (Durasi 45 Menit)](#2-rencana-pelaksanaan-pembelajaran-rpp-model-inkuiri-sokratik-aqidah-durasi-45-menit)
   - [3. Matriks Skenario Pertanyaan Pemantik Kritis (Socratic Questioning Bank) untuk 10 Topik Aqidah](#3-matriks-skenario-pertanyaan-pemantik-kritis-socratic-questioning-bank-untuk-10-topik-aqidah)
@@ -64,7 +64,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Manhaj Didaktik Kenabian: Amtsal, Hiwar, & Qudwah (QS. An-Nahl: 125 & Ibnu Sahnun)
+### 2. Eksegesis Turats Manhaj Didaktik Kenabian: Amtsal, Hiwar, & Qudwah (QS. An-Nahl: 125 & Ibnu Sahnun)
 
 ```mermaid
 graph TD
@@ -93,19 +93,19 @@ $$\text{يَنْبَغِي لِلْمُعَلِّمِ أَنْ يُنَزِّل�
 
 *"Seyogianya seorang pendidik memposisikan dirinya seperti ayah yang penuh kasih sayang, **membuat perumpamaan-perumpamaan nyata yang mendekatkan pemahaman akal anak didik, dan tidak membentak/memarahi mereka saat bertanya**. Karena sesungguhnya bentakan kasar hanya akan melahirkan kebodohan tumpul dan rasa takut."*[^4]
 
-#### 🥊 Ronde 1: Menghalalkan Pertanyaan Kritis Santri Tanpa Tuduhan Sesat
+#### 1. Diskursus Dialektika Kritis: Menghalalkan Pertanyaan Kritis Santri Tanpa Tuduhan Sesat
 * **Pihak A (Sudut Pandang Tabu Teologis)**:  
   *"Santri tidak boleh dibiarkan bertanya kritis tentang keadilan Tuhan saat melihat anak kecil tertimpa bencana; itu tanda kekufuran!"*
 * **Tinjauan Fiqh al-Hiwar & Teladan Nabi Ibrahim AS**:  
   Nabi Ibrahim AS sendiri pernah bertanya kepada Allah: *"Tuhanku, perlihatkanlah kepadaku bagaimana Engkau menghidupkan orang mati?"* Allah tidak memarahinya, melainkan bertanya: *"Belum percayakah kamu?"* Ibrahim menjawab: *"Tentu percaya, tetapi agar hatiku tenang (Li yathma'inna qalbi)"* (QS. Al-Baqarah: 260). Bertanya kritis untuk mencapai ketenangan iman (*Thuma'ninah*) adalah sunnah para nabi. Pendidik wajib memfasilitasi jawaban ilmiah, bukan mematikan nalar fitrah santri.[^5]
 
-#### 🥊 Ronde 2: Analogi Sains Alam Semesta vs Kerumitan Teologi Filosofis
+#### 2. Diskursus Dialektika Kritis: Analogi Sains Alam Semesta vs Kerumitan Teologi Filosofis
 * **Pihak A (Sudut Pandang Tekstualisme Rumit)**:  
   *"Menjelaskan tauhid itu wajib menggunakan istilah ilmu kalam kuno seperti 'Jauhar Fard' dan 'Aradh'; tidak boleh memakai analogi sains modern!"*
 * **Tinjauan Kaidah Mukhathabatun Naas 'ala Qadri 'Uqulihim**:  
   Rasulullah SAW bersabda: *"Berbicaralah kepada manusia sesuai kadar kemampuan akal mereka"* (HR. Ad-Dailami). Generasi digital hari ini lebih cepat memahami bukti keberadaan Tuhan melalui analogi **Keteraturan Kosmos (*Fine-Tuned Universe*)**, kompleksitas informasi DNA manusia, dan keajaiban fotosintesis. Menggunakan analogi sains adalah bentuk modern dari *Amtsal Al-Qur'an* yang justru memperkuat keimanan.[^6]
 
-#### 🥊 Ronde 3: Kematangan Emosional Pendidik Saat Menghadapi Santri Kritis
+#### 3. Diskursus Dialektika Kritis: Kematangan Emosional Pendidik Saat Menghadapi Santri Kritis
 * **Pihak A (Sudut Pandang Otoritarianisme Guru)**:  
   *"Jika guru tidak tahu jawaban dari pertanyaan santri, guru harus langsung mengalihkan topik atau memarahi santri agar wibawa tidak jatuh!"*
 * **Resolusi Kejujuran Akademis & Wibawa Tawadhu'**:  
@@ -113,7 +113,7 @@ $$\text{يَنْبَغِي لِلْمُعَلِّمِ أَنْ يُنَزِّل�
 
 ---
 
-### 3. Inkuiri 2: Teori Beban Kognitif Sweller (2011) & Inquiry-Based Learning dalam Didaktik Tauhid Generasi Digital
+### 3. Teori Beban Kognitif Sweller (2011) & Inquiry-Based Learning dalam Didaktik Tauhid Generasi Digital
 
 ```mermaid
 graph TD
@@ -144,19 +144,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: Dual-Coding Theory: Mengombinasikan Dalil Teks dengan Diagram Alur
+#### 1. Diskursus Dialektika Kritis: Dual-Coding Theory: Mengombinasikan Dalil Teks dengan Diagram Alur
 * **Pihak A (Sudut Pandang Anti-Visualisasi Konsep)**:  
   *"Belajar agama itu berkahnya ada pada membaca kitab gundul hitam putih; tidak boleh memakai slide visual atau bagan diagram!"*
 * **Tinjauan Dual-Coding Theory Allan Paivio**:  
   Otak manusia memproses informasi melalui dua saluran independen: **Saluran Verbal (*Linguistic Channel*)** dan **Saluran Visual (*Non-Verbal Visual Channel*)**. Ketika konsep pembagian tauhid (Rububiyyah, Uluhiyyah, Asma wa Shifat) dijelaskan hanya lewat ceramah lisan, santri cepat lupa. Namun jika dilengkapi bagan diagram alur Mermaid yang jelas, kedua saluran otak aktif bersamaan, menciptakan penguncian memori jangka panjang yang kuat (*Deep Schema Encoding*).[^9]
 
-#### 🥊 Ronde 2: Mereduksi Beban Kognitif Berlebih (Extraneous Load)
+#### 2. Diskursus Dialektika Kritis: Mereduksi Beban Kognitif Berlebih (Extraneous Load)
 * **Pihak A (Sudut Pandang Pemadatan Materi Berlebihan)**:  
   *"Dalam 1 jam pelajaran harus selesai membahas 5 pasal sifat 20 sekaligus agar kurikulum cepat habis!"*
 * **Tinjauan Manajemen Beban Kognitif Sweller**:  
   Memaksa santri menelan 5 konsep teologi abstrak sekaligus dalam 1 jam memicu **Cognitive Overload**: memori kerja (*Working Memory*) santri macet, perhatian buyar, dan materi lenyap setelah ujian selesai. Pedagogi TUMBUH membatasi **1 Fokus Konsep Inti Per Sesi (Micro-Learning)**: mendalaminya dari sisi dalil, sains, refleksi diri, dan studi kasus nyata asrama. Sedikit namun meresap dan mengakar jauh lebih utama dibanding banyak namun menguap.[^10]
 
-#### 🥊 Ronde 3: Scaffolding Inkuiri Sokratik bagi Generasi Digital
+#### 3. Diskursus Dialektika Kritis: Scaffolding Inkuiri Sokratik bagi Generasi Digital
 * **Pihak A (Sudut Pandang Pemberian Jawaban Instan)**:  
   *"Kalau santri bertanya kenapa shalat subuh 2 rakaat, langsung jawab 'karena dari sananya begitu!'; tidak usah diajak mikir!"*
 * **Resolusi Guided Inquiry & Hikmatut Tasyri'**:  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Empat Metode Inti Pedagogis Salimul Aqidah (Hiwar 'Aqli, Tamsil Kauni, Muhasabah, & Qudwah)
+### 4. Empat Metode Inti Pedagogis Salimul Aqidah (Hiwar 'Aqli, Tamsil Kauni, Muhasabah, & Qudwah)
 
 ```mermaid
 flowchart TD
@@ -187,19 +187,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memadukan keempat metode tersebut dalam pembelajaran di kelas dan pengasuhan asrama 24 jam.
 * **Konklusi (*an-Natijah*)**: Maka, pembelajaran Salimul Aqidah di pesantren TUMBUH memiliki daya transformatif yang paripurna.[^12]
 
-#### 🥊 Ronde 1: Integrasi Pengajaran Kelas Madrasah dengan Kehidupan Asrama
+#### 1. Diskursus Dialektika Kritis: Integrasi Pengajaran Kelas Madrasah dengan Kehidupan Asrama
 * **Pihak A (Sudut Pandang Dikotomi Guru Kelas vs Musyrif Asrama)**:  
   *"Guru kelas cukup mengajar di depan papan tulis; urusan santri jujur di asrama itu urusan musyrif, bukan urusan guru!"*
 * **Tinjauan Sinergi Didaktik Ruang Hidup 24 Jam**:  
   Memisahkan materi kelas dari kehidupan asrama adalah penyebab utama lahirnya "santri munafik". Guru kelas aqidah TUMBUH wajib menghubungkan materi teoritis dengan tantangan asrama: saat membahas bab *Ghashab*, guru mendiskusikan fenomena sandal hilang di masjid pondok dan memberikan tugas proyek *Zero Ghashab Campaign*. Pembelajaran di kelas langsung menjadi solusi nyata kehidupan asrama.[^13]
 
-#### 🥊 Ronde 2: Pelatihan Didaktik Musyrif (Musyrif Teaching Literacy Workshop)
+#### 2. Diskursus Dialektika Kritis: Pelatihan Didaktik Musyrif (Musyrif Teaching Literacy Workshop)
 * **Pihak A (Sudut Pandang Musyrif Cukup Penjaga Malam)**:  
   *"Musyrif itu tugasnya ronda malam dan membangunkan shalat; tidak perlu dilatih metode pedagogi sokratik!"*
 * **Tinjauan Musyrif Sebagai Pendidik Utama 24 Jam**:  
   Musyrif berinteraksi dengan santri 3 kali lebih lama dibanding guru kelas. Musyrif yang tidak memahami metode pedagogi akan mudah terpancing emosi dan menggunakan kekerasan saat santri melanggar. TUMBUH mewajibkan **Pelatihan Didaktik Sokratik Musyrif**: melatih teknik bertanya tanpa menghakimi, seni memvalidasi emosi santri, dan metodologi *Firm and Kind*. Musyrif bertransformasi menjadi murabbi yang dicintai dan disegani.[^14]
 
-#### 🥊 Ronde 3: Mengatasi Disonansi Nalar Santri Terhadap Takdir dan Ikhtiar
+#### 3. Diskursus Dialektika Kritis: Mengatasi Disonansi Nalar Santri Terhadap Takdir dan Ikhtiar
 * **Pihak A (Sudut Pandang Fatalisme Pasrah Buta)**:  
   *"Kalau santri gagal ujian, katakan saja 'sudah takdir dari sananya, jangan banyak protes!'; tidak perlu diajarkan hukum kausalitas ikhtiar!"*
 * **Resolusi Integrasi Sunnatullah & Tawakkal**:  
@@ -207,9 +207,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Pedagogi Didaktik
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Pedagogi Didaktik
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Menjawab Pertanyaan Kritis Tabu Santri)
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Menjawab Pertanyaan Kritis Tabu Santri)
 Pertarungan filosofis-pedagogis terdalam di kelas bermuara pada kasus: **"Bagaimana seorang guru aqidah merespons santri cerdas kelas 10 (Jenjang J3) yang bertanya di depan kelas: 'Ustadz, jika Allah Maha Pengasih dan Maha Kuasa, mengapa Allah membiarkan anak-anak kecil di daerah konflik menderita kelaparan dan tertimpa bom?'"**
 
 * **Pendekatan Lama (Bentakan Represif)**:  
@@ -255,7 +255,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 

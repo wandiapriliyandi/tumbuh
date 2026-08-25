@@ -14,20 +14,20 @@
 >   Penilaian kepribadian di pesantren konvensional kerap menggunakan skala angka abstrak (1 = Sangat Buruk s/d 5 = Sangat Baik) yang sangat rentan terhadap *Halo Effect* (menilai santri baik hanya karena penurut), *Central Tendency Bias* (memberi nilai rata-rata 3/4 kepada semua santri), dan *Severity Bias* (musyrif killer memberi nilai rendah tanpa dasar).
 > * **Inovasi Skala Berjangkar Perilaku (BARS) 4 Level TUMBUH:**  
 >   TUMBUH mengonstruksi rubrik penilaian berbasis deskripsi tindakan konkret (*Behaviorally Anchored Rating Scales*) melintasi **4 Level Capaian: Level 1 (Emerging / J1), Level 2 (Developing / J2), Level 3 (Proficient / J3), dan Level 4 (Exemplary / J4)** yang dilengkapi kode tagging digital PBIS fast-logging (<10 detik).
-> * **Model Hibrida Riset Dialektis Sejak Inkuiri 1:**  
+> * **Pendekatan Riset Terpadu & Diskursus Ilmiah:**  
 >   Monograf ini membedah teologi timbangan amal (*Mizan al-'Adl* QS. Al-Anbiya: 47 & QS. Al-Zalzalah: 7–8), menyintesiskan metodologi BARS Smith & Kendall (1963) dan kalibrasi Cohen's Kappa, menguji dialektika 3 ronde di setiap inkuiri, dan merumuskan kamus tagging logbook terstandarisasi.
 
 ---
 
 ## 📑 DAFTAR ISI MONOGRAF
 
-- [BAGIAN I: INKUIRI KRITIS, TINJAUAN TEORITIS & DIALEKTIKA RUBRIK BARS](#bagian-i-inkuiri-kritis-tinjauan-teoritis--dialektika-rubrik-bars)
+- [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
   - [1. Latar Belakang Masalah: Tragedi Bias Penilaian Rapor Kepribadian Tradisional di Pesantren](#1-latar-belakang-masalah-tragedi-bias-penilaian-rapor-kepribadian-tradisional-di-pesantren)
-  - [2. Inkuiri 1: Eksegesis Turats Timbangan Amal Presisi & Fiqh Bayyinah (QS. Al-Anbiya: 47 & Asy-Syathibi)](#2-inkuiri-1-eksegesis-turats-timbangan-amal-presisi--fiqh-bayyinah-qs-al-anbiya-47--asy-syathibi)
-  - [3. Inkuiri 2: Konstruksi Metodologi BARS (Smith & Kendall, 1963) & Uji Reliabilitas Inter-Rater (Cohen's Kappa)](#3-inkuiri-2-konstruksi-metodologi-bars-smith--kendall-1963--uji-reliabilitas-inter-rater-cohens-kappa)
-  - [4. Inkuiri 3: Kodifikasi Tagging Logbook PBIS Digital 24 Jam & Integrasi Data Triangulasi](#4-inkuiri-3-kodifikasi-tagging-logbook-pbis-digital-24-jam--integrasi-data-triangulasi)
-  - [5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Rubrik](#5-inkuiri-4-arena-sintesis-kasuistika-lapangan-24-jam--konsensus-standarisasi-rubrik)
-- [BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN](#bagian-ii-temuan-riset-formulasi-konseptual--pembahasan)
+  - [2. Eksegesis Turats Timbangan Amal Presisi & Fiqh Bayyinah (QS. Al-Anbiya: 47 & Asy-Syathibi)](#2eksegesis-turats-timbangan-amal-presisi-fiqh-bayyinah-qs-al-anbiya-47-asy-syathibi)
+  - [3. Konstruksi Metodologi BARS (Smith & Kendall, 1963) & Uji Reliabilitas Inter-Rater (Cohen's Kappa)](#3konstruksi-metodologi-bars-smith-kendall-1963-uji-reliabilitas-inter-rater-cohens-kappa)
+  - [4. Kodifikasi Tagging Logbook PBIS Digital 24 Jam & Integrasi Data Triangulasi](#4kodifikasi-tagging-logbook-pbis-digital-24-jam-integrasi-data-triangulasi)
+  - [5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Rubrik](#5arena-sintesis-kasuistika-lapangan-24-jam-konsensus-standarisasi-rubrik)
+- [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Matriks Rubrik BARS 4 Level Capaian Salimul Aqidah (L1 Emerging s/d L4 Exemplary)](#1-matriks-rubrik-bars-4-level-capaian-salimul-aqidah-l1-emerging-sd-l4-exemplary)
   - [2. Kamus Taksonomi Kode Tagging Positif & Negatif PBIS Digital (AQ-POS & AQ-NEG)](#2-kamus-taksonomi-kode-tagging-positif--negatif-pbis-digital-aq-pos--aq-neg)
   - [3. Protokol Sesi Kalibrasi Penilai Musyrif (Inter-Rater Calibration Protocol)](#3-protokol-sesi-kalibrasi-penilai-musyrif-inter-rater-calibration-protocol)
@@ -63,7 +63,7 @@ flowchart TD
 
 ---
 
-### 2. Inkuiri 1: Eksegesis Turats Timbangan Amal Presisi & Fiqh Bayyinah (QS. Al-Anbiya: 47 & Asy-Syathibi)
+### 2. Eksegesis Turats Timbangan Amal Presisi & Fiqh Bayyinah (QS. Al-Anbiya: 47 & Asy-Syathibi)
 
 ```mermaid
 graph TD
@@ -92,19 +92,19 @@ $$\text{فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْ
 
 *"Maka barangsiapa mengerjakan kebaikan seberat zarrah, niscaya dia akan melihat (balasan)nya. Dan barangsiapa mengerjakan kejahatan seberat zarrah, niscaya dia akan melihat (balasan)nya pula."* (QS. Al-Zalzalah [99]: 7–8).[^4]
 
-#### 🥊 Ronde 1: Menolak Penilaian Karakter Berbasis "Firasat Tanpa Data"
+#### 1. Diskursus Dialektika Kritis: Menolak Penilaian Karakter Berbasis "Firasat Tanpa Data"
 * **Pihak A (Sudut Pandang Mistifikasi Penilaian)**:  
   *"Musyrif senior sudah punya 'firasat batin' untuk tahu santri mana yang munafik dan mana yang ikhlas; tidak butuh mengisi rubrik perilaku rumit!"*
 * **Tinjauan Fiqh Kehakiman & Larangan Menuduh Tanpa Bukti**:  
   Mengandalkan "firasat" tanpa bukti data nyata untuk memberi nilai buruk pada rapor santri adalah **Tindakan Zalim dan Berdosa Besar (*Buh-tan*)**. Rasulullah SAW menolak menghukum orang berdasarkan dugaan batin. Dalam Islam, vonis dan evaluasi wajib berlandaskan pada bukti teramati (*Al-Bayyinatu 'alal mudda'i*). Rubrik BARS melindungi santri dari fitnah dan memastikan penilaian musyrif dapat dipertanggungjawabkan di hadapan Allah dan manusia.[^5]
 
-#### 🥊 Ronde 2: Gradasi 4 Level Capaian Sebagai Perwujudan Tadarruj Syar'i
+#### 2. Diskursus Dialektika Kritis: Gradasi 4 Level Capaian Sebagai Perwujudan Tadarruj Syar'i
 * **Pihak A (Sudut Pandang Dikotomi Hitam-Putih)**:  
   *"Kenapa harus ada 4 level? Bagi saya cuma ada dua: santri beraqidah lurus (Lulus) atau santri sesat (Tidak Lulus)!"*
 * **Tinjauan Sunnatullah Perkembangan Iman (Marahil al-Iman)**:  
   Memandang pertumbuhan iman secara dikotomis hitam-putih mengabaikan hakikat proses belajar (*Tadarruj*). Santri baru yang sedang berjuang melawan godaan berbohong (Level 1: *Emerging*) berbeda tingkatannya dengan santri yang sudah konsisten mandiri (Level 3: *Proficient*) atau santri teladan penggerak (Level 4: *Exemplary*). Rubrik 4 level memberikan peta jalan pertumbuhan yang adil bagi santri untuk meningkatkan kapasitas dirinya selangkah demi selangkah.[^6]
 
-#### 🥊 Ronde 3: Akuntabilitas Hisab Evaluasi bagi Wali Santri
+#### 3. Diskursus Dialektika Kritis: Akuntabilitas Hisab Evaluasi bagi Wali Santri
 * **Pihak A (Sudut Pandang Feodalisme Institusi)**:  
   *"Pondok pesantren tidak punya kewajiban menjelaskan detail penilaian kepada wali santri; wali santri harus pasrah terima apa adanya!"*
 * **Resolusi Prinsip Amanah & Transparansi Muamalah**:  
@@ -112,7 +112,7 @@ $$\text{فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْ
 
 ---
 
-### 3. Inkuiri 2: Konstruksi Metodologi BARS (Smith & Kendall, 1963) & Uji Reliabilitas Inter-Rater (Cohen's Kappa)
+### 3. Konstruksi Metodologi BARS (Smith & Kendall, 1963) & Uji Reliabilitas Inter-Rater (Cohen's Kappa)
 
 ```mermaid
 graph TD
@@ -145,19 +145,19 @@ flowchart LR
     end
 ```
 
-#### 🥊 Ronde 1: BARS vs Skala Likert Tradisional
+#### 1. Diskursus Dialektika Kritis: BARS vs Skala Likert Tradisional
 * **Pihak A (Sudut Pandang Kepraktisan Semu)**:  
   *"Skala Likert 1-5 jauh lebih gampang dan cepat diisi; kenapa harus repot membaca deskripsi BARS yang panjang?"*
 * **Tinjauan Psikometri Pengukuran Perilaku**:  
   Skala Likert memang "cepat diisi", namun hasilnya adalah **Sampah Data (*Garbage In, Garbage Out*)**. Angka 4 bagi Musyrif A bisa berarti "anak ini rajin", tapi bagi Musyrif B angka 4 berarti "anak ini biasa saja". Sebaliknya, rubrik BARS mendefinisikan Level 3 secara presisi: *"Santri mengembalikan uang temuan ke pos kejujuran tanpa menunggu ditanya"*. Siapapun musyrif yang melihat peristiwa tersebut akan memberikan skor yang sama persis.[^9]
 
-#### 🥊 Ronde 2: Mengeliminasi Halo Effect dan Severity Bias
+#### 2. Diskursus Dialektika Kritis: Mengeliminasi Halo Effect dan Severity Bias
 * **Pihak A (Sudut Pandang Kepasrahan Bias Manusiawi)**:  
   *"Namanya manusia pasti punya rasa suka dan tidak suka; bias musyrif tidak akan pernah bisa dihilangkan!"*
 * **Tinjauan Metodologi Kalibrasi & Blind Scoring**:  
   Meskipun bias manusiawi ada, sains psikometri telah menemukan metode untuk mereduksinya hingga mendekati nol. Dengan **Sesi Kalibrasi Penilai Bulanan (*Monthly Calibration Workshop*)**, seluruh musyrif menonton video simulasi perilaku santri dan menyamakan persepsi skor. Jika skor Kappa di bawah 0.75, dewan pengasuh melakukan penyelarasan ulang hingga seluruh penilai memiliki frekuensi yang sama.[^10]
 
-#### 🥊 Ronde 3: Standarisasi Ambang Batas Kompetensi Minimal (Cut-Score)
+#### 3. Diskursus Dialektika Kritis: Standarisasi Ambang Batas Kompetensi Minimal (Cut-Score)
 * **Pihak A (Sudut Pandang Kesewenang-wenangan Kelulusan)**:  
   *"Pimpinan pondok berhak meluluskan atau tidak meluluskan santri sesuka hati tanpa perlu ambang batas skor!"*
 * **Resolusi Standard Setting Angoff**:  
@@ -165,7 +165,7 @@ flowchart LR
 
 ---
 
-### 4. Inkuiri 3: Kodifikasi Tagging Logbook PBIS Digital 24 Jam & Integrasi Data Triangulasi
+### 4. Kodifikasi Tagging Logbook PBIS Digital 24 Jam & Integrasi Data Triangulasi
 
 ```mermaid
 flowchart TD
@@ -189,19 +189,19 @@ flowchart TD
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Arsitektur digital PBIS TUMBUH menyediakan kode tagging `[AQ-POS]` dan `[AQ-NEG]` yang terhubung langsung dengan rubrik BARS Salimul Aqidah.
 * **Konklusi (*an-Natijah*)**: Maka, pemantauan karakter santri di pesantren TUMBUH berlangsung efisien, objektif, dan terintegrasi 24 jam.[^12]
 
-#### 🥊 Ronde 1: Ergonomi Tagging Digital Musyrif (<10 Detik Per Input)
+#### 1. Diskursus Dialektika Kritis: Ergonomi Tagging Digital Musyrif (<10 Detik Per Input)
 * **Pihak A (Sudut Pandang Keengganan Administrasi)**:  
   *"Musyrif sudah capek mengurus santri, jangan dibebani mengetik laporan panjang di aplikasi!"*
 * **Tinjauan Desain UI/UX Ramah Lapangan**:  
   TUMBUH menolak desain aplikasi yang rumit. Sistem logbook PBIS dirancang dengan prinsip **Fast-Tap Touch**: Musyrif cukup memilih foto santri, tap tombol `[AQ-01-POS]` (Kejujuran Sukarela), lalu klik simpan. Seluruh proses selesai dalam 7 detik tanpa perlu mengetik narasi panjang. Administrasi menjadi ringan dan musyrif tetap memiliki banyak waktu untuk berinteraksi hangat dengan santri.[^13]
 
-#### 🥊 Ronde 2: Proteksi Kerahasiaan Data & Mencegah Labeling Stigma Negatif
+#### 2. Diskursus Dialektika Kritis: Proteksi Kerahasiaan Data & Mencegah Labeling Stigma Negatif
 * **Pihak A (Sudut Pandang Kekhawatiran Pembocoran Aib)**:  
   *"Apakah mencatat pelanggaran santri di sistem digital tidak membuka aib dan membuat santri dicap buruk selamanya?"*
 * **Tinjauan Etika Perlindungan Privasi Santri & Algoritma Pemulihan**:  
   Sistem PBIS TUMBUH menerapkan **Role-Based Access Control (RBAC)**: Catatan pelanggaran `[AQ-NEG]` hanya dapat diakses oleh Wali Kamar dan Tim BK, terenkripsi, dan tidak dipublikasikan ke publik. Selain itu, sistem menerapkan **Algoritma Pemutihan Restoratif (*Restorative Recovery Rule*)**: Jika santri berhasil menyelesaikan tugas pemulihan (*Restitusi*) dan menunjukkan 30 hari perilaku positif berturut-turut, status catatan pelanggaran berubah menjadi "Tuntas Terpulihkan" (*Resolved & Cleared*). Santri tidak pernah terjebak dalam stigma abadi.[^14]
 
-#### 🥊 Ronde 3: Pemanfaatan Data Analytics untuk Intervensi Dini (Tier 2 Early Warning)
+#### 3. Diskursus Dialektika Kritis: Pemanfaatan Data Analytics untuk Intervensi Dini (Tier 2 Early Warning)
 * **Pihak A (Sudut Pandang Pasif Reaktif)**:  
   *"Tunggu saja sampai santri melakukan pelanggaran besar baru dipanggil ke kantor pengasuhan!"*
 * **Resolusi Pendekatan Preventif PBIS**:  
@@ -209,9 +209,9 @@ flowchart TD
 
 ---
 
-### 5. Inkuiri 4: Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Rubrik
+### 5. Arena Sintesis Kasuistika Lapangan 24 Jam & Konsensus Standarisasi Rubrik
 
-#### 🥊🥊 Pertarungan Dialektika Pamungkas (Dilema Penilaian Santri "Bermuka Dua")
+#### Diskursus Dialektika Kritis: Kasuistika Lapangan (Dilema Penilaian Santri "Bermuka Dua")
 Pertarungan filosofis-metodologis terdalam di asrama bermuara pada kasus: **"Bagaimana rubrik BARS menilai santri yang di hadapan musyrif kelas selalu mencatat Level 4 (Exemplary: sangat sopan dan memimpin doa), namun menurut catatan rahasia teman sekamarnya dan rekaman pos kejujuran, ia berada di Level 1 (Emerging: sering ghashab sabun dan mengintimidasi junior saat musyrif tidak ada)?"**
 
 * **Pendekatan Lama (Ketertipuan Visual Formalistik)**:  
@@ -259,7 +259,7 @@ flowchart TD
 
 ---
 
-# BAGIAN II: TEMUAN RISET, FORMULASI KONSEPTUAL & PEMBAHASAN
+# BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
 ---
 
