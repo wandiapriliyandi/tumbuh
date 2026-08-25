@@ -1,5 +1,5 @@
 # P7-03-03: DESKRIPSI PERAN KONSELOR BK DAN MENTOR SANTRI T4
-## *Monograf Riset Akademik: Standarisasi Kompetensi Konselor BK Pesantren, Peran Mentor Qudwah Jenjang J4 (Kelas 12), dan Integrasi Konseling Islami dengan Pendekatan Ilmiah Profesional (School Counselor Role Standards, Islamic Counseling Competencies, & J4 Peer Mentor Governance / Form DPK-Konselor), Integrasi Doktrin 'Al-Isyārah ilā Sabīli Rashād wa Ta'āhud Nafsih' Turats Klasik dengan ASCA School Counseling Framework, CBT Islami, Serta Perlindungan Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Kompetensi Konselor BK Pesantren, Peran Mentor Qudwah Jenjang J4 (Kelas 12), dan Integrasi Konseling Islami dengan Pendekatan Ilmiah Profesional (School Counselor Role Standards, Islamic Counseling Competencies, & J4 Peer Mentor Governance / Form DPK-Konselor), Integrasi Doktrin 'Al-Isyārah ilā Sabīli Rashād wa Ta'āhud Nafsih' Turats Klasik dengan ASCA School Counseling Framework, CBT Islami, Serta Perlindungan Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-03-03/MONOGRAF-RISET-PERAN-KONSELOR-BK-MENTOR/2026`  
 **Domain**: `07 Implementation Framework` > `03 Roles and Responsibilities` (Sub-Modul 03: *Konselor BK Role Standards, Islamic Counseling, & J4 Mentor Governance*)  
@@ -15,7 +15,7 @@
 > * **Integrasi Doktrin Menunjukkan Jalan Kebenaran & ASCA Counseling Framework:**  
 >   Ekosistem TUMBUH merancang **Deskripsi Peran Konselor BK dan Mentor Santri T4 (Form DPK-Konselor)** yang memadukan peran agung konselor dalam menunjukkan jalan lurus (*Al-Isyārah ilā Sabīli Rashād*), menjaga rahasia klien (*Mā Kāna Amīnan fī Majlisih*), dan menjadi cermin jiwa (*Mir'ātun Nafsih*) dengan *ASCA National Model School Counseling* dan prinsip *Cognitive-Behavioral Therapy (CBT) Islami*.
 > * **Arsitektur Tiga Tingkat Peran Konselor-Mentor (The Counselor-Mentor Triad):**  
->   Monograf ini membakukan: (1) 8 Kompetensi Inti Konselor BK Pesantren TUMBUH berbasis ASCA + Islamic Counseling, (2) Protokol Kerahasiaan & Perlindungan Konseli (*Confidentiality Covenant*), dan (3) Peran Khusus Santri J4 sebagai *Qudwah Mentor* bagi adik kelas J1–J3.
+>   Monograf ini membakukan: (1) 8 Kompetensi Inti Konselor BK Ekosistem Pesantren Berbasis TUMBUH berbasis ASCA + Islamic Counseling, (2) Protokol Kerahasiaan & Perlindungan Konseli (*Confidentiality Covenant*), dan (3) Peran Khusus Santri J4 sebagai *Qudwah Mentor* bagi adik kelas J1–J3.
 
 ---
 
@@ -132,7 +132,7 @@ Konselor BK yang terlatih CBT Islami dengan standar ASCA terbukti meningkatkan *
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-03-03: DESKRIPSI PERAN KONSELOR BK DAN MENTOR SANTRI T4** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-03-03: DESKRIPSI PERAN KONSELOR BK DAN MENTOR SANTRI T4** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -190,7 +190,7 @@ flowchart TD
 [^1]: Standar kompetensi konselor sekolah ASCA dan domain pengembangan sosial-emosional, ASCA (2019, hlm. 18).
 [^2]: Cognitive Behavior Therapy (CBT) dan prinsip cognitive restructuring dalam penanganan distorsi kognitif, Beck (2011, hlm. 73).
 [^3]: HR. Abu Dawud No. 4868 tentang kewajiban menjaga kerahasiaan isi setiap majelis/sesi konseling.
-[^4]: Studi kasus CBT Islami mengatasi keyakinan negatif tahfizh Pesantren TUMBUH (2026).
+[^4]: Studi kasus CBT Islami mengatasi keyakinan negatif tahfizh Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^5]: Dampak kelembagaan penerapan peran konselor BK islami dan mentor J4 (2026).
 
 ### 4. Glosarium

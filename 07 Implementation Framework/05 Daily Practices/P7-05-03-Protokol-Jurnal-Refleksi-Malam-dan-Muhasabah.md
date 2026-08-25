@@ -1,5 +1,5 @@
 # P7-05-03: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH
-## *Monograf Riset Akademik: Standarisasi Praktik Jurnal Refleksi Malam 10 Menit, Muhasabah Terstruktur Santri, dan Konsolidasi Memori Pembelajaran melalui Tulisan (Evening Reflection Journal, Structured Muhasabah Protocol, & Memory Consolidation via Writing / Form JRM-Jurnal), Integrasi Doktrin 'Al-Muhasabah qabl an-Nawn wal Katsratu Dzikril Mawt' Turats Klasik dengan Expressive Writing (Pennebaker), Gratitude Journaling Science, Serta Pertumbuhan Diri Remaja di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Praktik Jurnal Refleksi Malam 10 Menit, Muhasabah Terstruktur Santri, dan Konsolidasi Memori Pembelajaran melalui Tulisan (Evening Reflection Journal, Structured Muhasabah Protocol, & Memory Consolidation via Writing / Form JRM-Jurnal), Integrasi Doktrin 'Al-Muhasabah qabl an-Nawn wal Katsratu Dzikril Mawt' Turats Klasik dengan Expressive Writing (Pennebaker), Gratitude Journaling Science, Serta Pertumbuhan Diri Remaja di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-05-03/MONOGRAF-RISET-JURNAL-REFLEKSI-MUHASABAH/2026`  
 **Domain**: `07 Implementation Framework` > `05 Daily Practices` (Sub-Modul 03: *Evening Reflection Journal & Structured Muhasabah Protocol*)  
@@ -104,7 +104,7 @@ Praktik jurnal refleksi malam yang konsisten selama minimal 30 hari terbukti men
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-05-03: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-05-03: PROTOKOL JURNAL REFLEKSI MALAM DAN MUHASABAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -157,5 +157,5 @@ flowchart TD
 
 [^1]: Robert Emmons tentang gratitude deficit dan dampaknya terhadap kesejahteraan psikologis, Emmons (2007, hlm. 52).
 [^2]: James Pennebaker tentang expressive writing dan manfaat kesehatan mental-fisik, Pennebaker (1997, hlm. 34).
-[^3]: Studi kasus jurnal refleksi malam membantu melepaskan amarah terpendam Pesantren TUMBUH (2026).
+[^3]: Studi kasus jurnal refleksi malam membantu melepaskan amarah terpendam Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak gabungan gratitude journaling dan expressive writing terhadap resiliensi santri (2026).

@@ -1,5 +1,5 @@
 # P6-06-02: KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)
-## *Monograf Riset Akademik: Standarisasi Desain Modul Bimbingan Sosial-Emosional Kelompok Kecil, Integrasi 5 Kompetensi CASEL dengan Taksonomi Adab Nabawi, dan Latihan Interpersonal Terstruktur (Social Skills Instructional Groups SSIG, CASEL SEL 5-Competencies Integration, & Halaqah Adab / Form KPS-Kurikulum), Integrasi Doktrin 'Adabul 'Isyrah wa Huqūqul Ukhuwwah' Turats Klasik dengan Gresham's Social Skills Curricula, Serta Kematangan Relasi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Desain Modul Bimbingan Sosial-Emosional Kelompok Kecil, Integrasi 5 Kompetensi CASEL dengan Taksonomi Adab Nabawi, dan Latihan Interpersonal Terstruktur (Social Skills Instructional Groups SSIG, CASEL SEL 5-Competencies Integration, & Halaqah Adab / Form KPS-Kurikulum), Integrasi Doktrin 'Adabul 'Isyrah wa Huqūqul Ukhuwwah' Turats Klasik dengan Gresham's Social Skills Curricula, Serta Kematangan Relasi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-06-02/MONOGRAF-RISET-KURIKULUM-CASEL-SEL-SSIG/2026`  
 **Domain**: `06 Intervention Framework` > `06 Developmental Strategies` (Sub-Modul 02: *Social Skills Instructional Groups SSIG & CASEL SEL Integration*)  
@@ -215,7 +215,7 @@ Penerapan kurikulum CASEL SEL SSIG Form KPS ini menghadirkan keunggulan peradaba
 
 1. **Mencetak Lulusan yang Matang Emosional dan Cerdas Sosial (*High Emotional Intelligence*)**: Santri mampu memimpin organisasi dan masyarakat dengan empati dan keluhuran budi pekerti.
 2. **Melenyapkan Friksi dan Polarisasi Sosial di Lingkungan Asrama (*Harmonious Residential Climate*)**: Membangun budaya saling menghargai dan keterbukaan komunikasi antar-santri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ādābul 'Isyrah dan CASEL SEL Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan kurikulum pengembangan karakter terlengkap di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ādābul 'Isyrah dan CASEL SEL Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan kurikulum pengembangan karakter terlengkap di dunia.[^5]
 
 ---
 
@@ -223,7 +223,7 @@ Penerapan kurikulum CASEL SEL SSIG Form KPS ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-06-02: KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-06-02: KURIKULUM PELATIHAN CASEL SEL KELOMPOK KECIL (SSIG)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Kerangka kerja kompetensi Social-Emotional Learning (CASEL) dan dampak meta-analisis intervensi SEL di sekolah, CASEL (2020, hlm. 6) & Durlak et al. (2011, hlm. 408).  
 [^2]: Model Social Skills Instructional Groups (SSIG) Frank Gresham dalam pengajaran keterampilan kelompok kecil, Gresham (2002, hlm. 866).  
 [^3]: Abu Abdirrahman As-Sulami, *Adabul 'Isyrah wa Dzikru Shuhbatil Ahbab* (1990, hlm. 42), bab kewajiban melatihkan empati, seni mendengarkan, dan kelembutan menegur kawan.  
-[^4]: Protokol implementasi kurikulum CASEL SEL SSIG kelompok kecil Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan kurikulum pelatihan CASEL SEL kelompok kecil di Pesantren TUMBUH (2026).  
+[^4]: Protokol implementasi kurikulum CASEL SEL SSIG kelompok kecil Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan kurikulum pelatihan CASEL SEL kelompok kecil di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

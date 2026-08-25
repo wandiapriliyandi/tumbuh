@@ -1,5 +1,5 @@
 # P6-08-01: OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN
-## *Monograf Riset Akademik: Standarisasi Protokol Rasio Penguatan Positif Terhadap Koreksi, Optimalisasi Neurobiologi Dopaminergik Pembiasaan Adab, dan Interaksi Apresiasi Otentik Musyrif (Operationalization of the 4:1 Magic Ratio in Residential Care, Contingent Praise Protocols, & Bi'ah Afirmatif / Form OMR-MagicRatio), Integrasi Doktrin 'At-Tabsyīr wal Kalimatut Thayyibah' Turats Klasik dengan Gottman & Sugai's 4:1 Positive-to-Negative Interaction Ratio, Serta Pembudayaan Kasih Sayang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Rasio Penguatan Positif Terhadap Koreksi, Optimalisasi Neurobiologi Dopaminergik Pembiasaan Adab, dan Interaksi Apresiasi Otentik Musyrif (Operationalization of the 4:1 Magic Ratio in Residential Care, Contingent Praise Protocols, & Bi'ah Afirmatif / Form OMR-MagicRatio), Integrasi Doktrin 'At-Tabsyīr wal Kalimatut Thayyibah' Turats Klasik dengan Gottman & Sugai's 4:1 Positive-to-Negative Interaction Ratio, Serta Pembudayaan Kasih Sayang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-08-01/MONOGRAF-RISET-MAGIC-RATIO-4-1/2026`  
 **Domain**: `06 Intervention Framework` > `08 Reinforcement` (Sub-Modul 01: *Operationalization of the 4:1 Magic Ratio in Residential Care*)  
@@ -222,7 +222,7 @@ Penerapan protokol Magic Ratio 4:1 Form OMR ini menghadirkan keunggulan peradaba
 
 1. **Menciptakan Atmosfer Asrama yang Bahagia dan Penuh Harapan (*Joyful Residential Atmosphere*)**: Santri merasa dihargai dan termotivasi melakukan kebajikan dari lubuk hatinya.
 2. **Melenyapkan Rasa Takut dan Ketegangan Relasi Santri-Musyrif (*Zero Hostility Climate*)**: Musyrif hadir sebagai sosok pelindung yang dicintai, bukan momok yang ditakuti.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Kalimatuth Thayyibah dan 4:1 Interaction Ratio**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan iklim psikososial paling sehat di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Kalimatuth Thayyibah dan 4:1 Interaction Ratio**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan iklim psikososial paling sehat di dunia.[^5]
 
 ---
 
@@ -230,7 +230,7 @@ Penerapan protokol Magic Ratio 4:1 Form OMR ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-08-01: OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-08-01: OPERASIONALISASI MAGIC RATIO 4:1 DALAM PENGASUHAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -297,8 +297,8 @@ flowchart TD
 [^1]: Kerangka kerja 4:1 Positive-to-Negative Interaction Ratio George Sugai dan John Gottman dalam modifikasi iklim perilaku, Sugai & Horner (2006, hlm. 248) & Gottman (1999, hlm. 42).  
 [^2]: Efektivitas Behavior-Specific Praise (BSP) dalam meningkatkan perilaku prososial di lingkungan pendidikan, Conroy et al. (2009, hlm. 20).  
 [^3]: An-Nawawi, *Al-Minhaj Syarhu Shahih Muslim* (2010, Jilid 12, hlm. 48), bab anjuran memuji kebaikan santri dan keutamaan menggembirakan hati penuntut ilmu.  
-[^4]: Protokol penerapan Magic Ratio 4:1 pengasuhan kamar asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan operasionalisasi Magic Ratio 4:1 dalam pengasuhan di Pesantren TUMBUH (2026).  
+[^4]: Protokol penerapan Magic Ratio 4:1 pengasuhan kamar asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan operasionalisasi Magic Ratio 4:1 dalam pengasuhan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

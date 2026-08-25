@@ -1,5 +1,5 @@
 # P9-04-02: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI
-## *Monograf Riset Akademik: Standarisasi Akademi Musyrif Profesional, Desain Supervisi Pengasuhan Reflektif Mingguan (Weekly Reflective Supervision), dan Mitigasi Kelelahan Emosional Pengasuh Asrama 24 Jam (Musyrif Professional Development Academy, Reflective Care Supervision, & Educator Burnout Mitigation Architecture / Form PRO-AkademiMusyrif), Integrasi Doktrin 'Al-Qudwah fil-Mu'allim wa 'Adamu al-Ijhād' Turats Klasik dengan Hawkins & Shohet Supervision Model, Maslach Burnout Inventory (MBI), Serta Kesejahteraan Pendidik di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Akademi Musyrif Profesional, Desain Supervisi Pengasuhan Reflektif Mingguan (Weekly Reflective Supervision), dan Mitigasi Kelelahan Emosional Pengasuh Asrama 24 Jam (Musyrif Professional Development Academy, Reflective Care Supervision, & Educator Burnout Mitigation Architecture / Form PRO-AkademiMusyrif), Integrasi Doktrin 'Al-Qudwah fil-Mu'allim wa 'Adamu al-Ijhād' Turats Klasik dengan Hawkins & Shohet Supervision Model, Maslach Burnout Inventory (MBI), Serta Kesejahteraan Pendidik di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-04-02/MONOGRAF-RISET-PENGEMBANGAN-PROFESI-MUSYRIF/2026`  
 **Domain**: `09 Programs` > `04 Institutional Programs` (Sub-Modul 02: *Musyrif Professional Development Academy & Supervision*)  
@@ -107,7 +107,7 @@ Penyelenggaraan Akademi Musyrif terstandar yang didukung oleh supervisi reflekti
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-04-02: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-04-02: PROGRAM PENGEMBANGAN PROFESI MUSYRIF DAN SUPERVISI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Skaalvik & Skaalvik mengenai korelasi kelelahan emosional guru dengan motivasi mengundurkan diri dan pentingnya dukungan konteks sekolah, Skaalvik & Skaalvik (2011, hlm. 1031).
 [^2]: Hawkins & Shohet mengenai Seven-Eyed Model of Supervision sebagai kerangka kerja supervisi reflektif komprehensif, Hawkins & Shohet (2012, hlm. 86).
-[^3]: Studi kasus penerapan supervisi reflektif menyelamatkan musyrif baru dari krisis burnout Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan supervisi reflektif menyelamatkan musyrif baru dari krisis burnout Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penyediaan hak libur terstruktur dan supervisi klinis terhadap penurunan drastis turnover musyrif asrama (2026).

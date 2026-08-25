@@ -1,5 +1,5 @@
 # P6-02-02: TIER 2 TARGETED GROUP SUPPORT (10-15% POPULASI SANTRI)
-## *Monograf Riset Akademik: Arsitektur Intervensi Sekunder Berkelompok dan Protokol Mentoring Check-In/Check-Out (Tier 2 Targeted Interventions & Check-In/Check-Out Mentoring / Form T2T-Targeted), Integrasi Doktrin 'Al-Mu'āhadah wal Murāfaqah Khāshshah' Turats Klasik dengan Hawken & Crone's Behavior Education Program (BEP/CICO), Social Skills Instructional Groups (SSIG), Serta Pemulihan Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Sekunder Berkelompok dan Protokol Mentoring Check-In/Check-Out (Tier 2 Targeted Interventions & Check-In/Check-Out Mentoring / Form T2T-Targeted), Integrasi Doktrin 'Al-Mu'āhadah wal Murāfaqah Khāshshah' Turats Klasik dengan Hawken & Crone's Behavior Education Program (BEP/CICO), Social Skills Instructional Groups (SSIG), Serta Pemulihan Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-02-02/MONOGRAF-RISET-TIER-2-TARGETED-SUPPORT/2026`  
 **Domain**: `06 Intervention Framework` > `02 Tiered Intervention` (Sub-Modul 02: *Tier 2 Targeted Group Support: 10-15% Population*)  
@@ -219,7 +219,7 @@ Penerapan intervensi sekunder Tier 2 Form T2T ini menghadirkan keunggulan perada
 
 1. **Mencegah Masalah Minor Berkembang Menjadi Krisis Berat (*Preemptive Escalation Halting*)**: Menurunkan angka rujukan kasus berat Tier 3 hingga lebih dari $80\%$.
 2. **Efisiensi Alokasi Waktu Pendidik Secara Luar Biasa (*High Operational Efficiency*)**: Musyrif hanya membutuhkan waktu 6 menit per hari untuk mendampingi satu santri secara terstruktur.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Mu'āhadah dan Behavior Education Program**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem bimbingan kelompok paling adaptif di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Mu'āhadah dan Behavior Education Program**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem bimbingan kelompok paling adaptif di dunia.[^5]
 
 ---
 
@@ -227,7 +227,7 @@ Penerapan intervensi sekunder Tier 2 Form T2T ini menghadirkan keunggulan perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-02-02: TIER 2 TARGETED GROUP SUPPORT (10-15% POPULASI SANTRI)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-02-02: TIER 2 TARGETED GROUP SUPPORT (10-15% POPULASI SANTRI)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Kerangka kerja Check-In/Check-Out (CICO) dan Behavior Education Program (BEP), Crone, Hawken, & Horner (2010, hlm. 16) & Hawken & Horner (2003, hlm. 226).  
 [^2]: Model Social Skills Instructional Groups (SSIG) Frank Gresham dalam intervensi kelompok terarah, Gresham (2002, hlm. 865).  
 [^3]: An-Nawawi, *At-Tibyan fi Adabi Hamalatil Qur'an* (2014, hlm. 62), bab kewajiban pendidik meneliti dan mendampingi keadaan murid hari demi hari.  
-[^4]: Protokol pendampingan CICO harian dan kelulusan mentoring santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan Tier 2 targeted group support di Pesantren TUMBUH (2026).  
+[^4]: Protokol pendampingan CICO harian dan kelulusan mentoring santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan Tier 2 targeted group support di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

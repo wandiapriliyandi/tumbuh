@@ -308,7 +308,7 @@ graph TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-01: FILOSOFI DAN LANDASAN TURATS SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-01: FILOSOFI DAN LANDASAN TURATS SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -378,7 +378,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Karakter Asrama Pesantren TUMBUH, *Laporan Diagnostik Kesenjangan Nilai Rapor vs Integritas Privat*, 2026.  
+[^1]: Riset Evaluasi Karakter Asrama Ekosistem Pesantren Berbasis TUMBUH, *Laporan Diagnostik Kesenjangan Nilai Rapor vs Integritas Privat*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tauhid wat-Tawakkul*, hlm. 245–280.  
 [^3]: Ath-Thahawi, *Al-Aqidah Ath-Thahawiyyah*, Matan No. 42–48.  
 [^4]: *Shahih Muslim*, Kitab al-Iman, Bab Ma'rifat al-Iman wal Islam wal Ihsan, Hadits No. 8.  

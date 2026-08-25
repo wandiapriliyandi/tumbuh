@@ -1,5 +1,5 @@
 # P6-05-02: PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION
-## *Monograf Riset Akademik: Standarisasi Protokol Pengawasan Aktif 24 Jam, Pemetaan Heatmap Titik Rawan, dan Mitigasi Friksi Asrama (Active Supervision Protocols, Dynamic Hotspots Heatmap, & Proactive Patrol / Form PTR-Patroli), Integrasi Doktrin 'An-Nizhārah al-Yaqizhah wal Hirāsah fī Sabīlillāh' Turats Klasik dengan DePry & Sugai's Active Supervision Model (Scanning, Moving, Interacting), Serta Keamanan Ekosistem di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Pengawasan Aktif 24 Jam, Pemetaan Heatmap Titik Rawan, dan Mitigasi Friksi Asrama (Active Supervision Protocols, Dynamic Hotspots Heatmap, & Proactive Patrol / Form PTR-Patroli), Integrasi Doktrin 'An-Nizhārah al-Yaqizhah wal Hirāsah fī Sabīlillāh' Turats Klasik dengan DePry & Sugai's Active Supervision Model (Scanning, Moving, Interacting), Serta Keamanan Ekosistem di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-05-02/MONOGRAF-RISET-PATROLI-TITIK-RAWAN-HOTSPOTS/2026`  
 **Domain**: `06 Intervention Framework` > `05 Preventive Strategies` (Sub-Modul 02: *Active Supervision Protocols & Dynamic Hotspots Mitigation*)  
@@ -214,7 +214,7 @@ Penerapan protokol patroli titik rawan Form PTR ini menghadirkan keunggulan pera
 
 1. **Menciptakan Keamanan Menyeluruh Tanpa Rasa Tercekik (*Total Safety Without Oppression*)**: Santri merasa dilindungi dan disayangi oleh kehadiran pembina yang ramah di sekeliling mereka.
 2. **Mencegah Terjadinya Insiden Sebelum Berkembang Menjadi Konflik (*Pre-Emptive Conflict Dissolution*)**: Kehadiran musyrif secara alami meredam provokasi dan gesekan antar-santri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hirāsah fī Sabīlillāh dan Active Supervision SMI**: Menjadikan pesantren TUMBUH sebagai ekosistem asrama dengan indeks keamanan tertinggi di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hirāsah fī Sabīlillāh dan Active Supervision SMI**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai ekosistem asrama dengan indeks keamanan tertinggi di dunia Islam.[^5]
 
 ---
 
@@ -222,7 +222,7 @@ Penerapan protokol patroli titik rawan Form PTR ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-05-02: PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-05-02: PROTOKOL PATROLI TITIK RAWAN DAN HOTSPOTS MITIGATION** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Komponen dan dampak penerapan Active Supervision (Scanning, Moving, Interacting) pada penurunan perilaku masalah, DePry & Sugai (2002, hlm. 55) & Lewis et al. (2017, hlm. 112).  
 [^2]: Metodologi Hotspots Policing dan pemetaan konsentrasi spasial pelanggaran, Braga et al. (2019, hlm. 8).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 124), bab kewajiban patroli aktif keliling dan larangan berdiam diri pasif di pos penjagaan.  
-[^4]: Protokol patroli aktif SMI dan eliminasi pemalakan di titik rawan Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol patroli titik rawan di Pesantren TUMBUH (2026).  
+[^4]: Protokol patroli aktif SMI dan eliminasi pemalakan di titik rawan Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol patroli titik rawan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

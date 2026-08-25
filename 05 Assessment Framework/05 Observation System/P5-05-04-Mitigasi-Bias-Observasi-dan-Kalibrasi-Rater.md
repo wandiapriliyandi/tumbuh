@@ -1,5 +1,5 @@
 # P5-05-04: MITIGASI BIAS OBSERVASI DAN KALIBRASI RATER
-## *Monograf Riset Akademik: Protokol Pengendalian dan Eliminasi Bias Kognitif Pengamat (Halo Effect, Horns Effect, Primacy-Recency Effect, & Contrast Effect), Integrasi Doktrin 'Al-Adl fil Hukm wa Ijtinabul Hawa' Turats Klasik dengan Behavioral Rater Training (BRT) & Frame-of-Reference (FOR) Calibration, Serta Desain Lokakarya Kalibrasi Musyrif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Pengendalian dan Eliminasi Bias Kognitif Pengamat (Halo Effect, Horns Effect, Primacy-Recency Effect, & Contrast Effect), Integrasi Doktrin 'Al-Adl fil Hukm wa Ijtinabul Hawa' Turats Klasik dengan Behavioral Rater Training (BRT) & Frame-of-Reference (FOR) Calibration, Serta Desain Lokakarya Kalibrasi Musyrif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-05-04/MONOGRAF-RISET-MITIGASI-BIAS-KALIBRASI-RATER/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 04: *Observational Bias Mitigation & Rater Calibration*)  
@@ -218,7 +218,7 @@ Penerapan protokol mitigasi bias dan kalibrasi rater ini menghadirkan lompatan p
 
 1. **Menjamin Penegakan Keadilan Hakiki Tanpa Pandang Bulu (*Egalitarian Moral Justice*)**: Anak kyai, anak pejabat, maupun anak yatim dhuafa dinilai dengan neraca timbangan yang persis sama.
 2. **Meningkatkan Profesionalisme dan Kredibilitas Dewan Asatidz**: Musyrif terbebas dari tuduhan pilih kasih (*Favoritism*) karena penilaiannya didukung oleh data kalibrasi teruji.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Psikometri Kognitif Modern**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam yang paling bersih dari bias subjektifitas di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Psikometri Kognitif Modern**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam yang paling bersih dari bias subjektifitas di dunia.[^5]
 
 ---
 
@@ -226,7 +226,7 @@ Penerapan protokol mitigasi bias dan kalibrasi rater ini menghadirkan lompatan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-05-04: MITIGASI BIAS OBSERVASI DAN KALIBRASI RATER** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-05-04: MITIGASI BIAS OBSERVASI DAN KALIBRASI RATER** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,8 +294,8 @@ flowchart TD
 [^1]: Meta-analisis efektivitas Frame-of-Reference (FOR) rater training dalam memitigasi bias kognitif, Woehr & Huffcutt (1994, hlm. 192).  
 [^2]: Strategi cognitive debiasing dalam pengambilan keputusan klinis dan evaluasi perilaku, Croskerry (2003, hlm. 778).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Rawdhatul Muhibbin* (1998, hlm. 214), bab bahaya hawa nafsu yang membutakan objektivitas keadilan.  
-[^4]: Protokol lokakarya kalibrasi Frame-of-Reference dan de-biasing guru pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol mitigasi bias observasi dan kalibrasi rater di Pesantren TUMBUH (2026).  
+[^4]: Protokol lokakarya kalibrasi Frame-of-Reference dan de-biasing guru ekosistem pesantren berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol mitigasi bias observasi dan kalibrasi rater di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

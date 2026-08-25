@@ -1,5 +1,5 @@
 # P3-11-04: NILAI INTI DAN PRINSIP KETERATURAN MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Aksiologi Empat Nilai Inti Tata Kelola Hidup Islami (Al-Amanah, Al-Itqan, An-Nazhafah, & Al-Iqtishad), Prinsip Al-Adl fil Asyya' (Meletakkan Sesuatu Pada Tempatnya), Dialektika Nilai Keteraturan Berkah vs Materialisme Konsumtif Sekuler / Kekumuhan Feodal, Serta Internalisasi Karakter 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Aksiologi Empat Nilai Inti Tata Kelola Hidup Islami (Al-Amanah, Al-Itqan, An-Nazhafah, & Al-Iqtishad), Prinsip Al-Adl fil Asyya' (Meletakkan Sesuatu Pada Tempatnya), Dialektika Nilai Keteraturan Berkah vs Materialisme Konsumtif Sekuler / Kekumuhan Feodal, Serta Internalisasi Karakter 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-04/MONOGRAF-RISET-NILAI-INTI-PRINSIP-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 04: *Core Values & Organizing Principles*)  
@@ -212,7 +212,7 @@ Internalisasi empat nilai inti ini melahirkan transformasi fundamental:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-04: NILAI INTI DAN PRINSIP KETERATURAN MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-04: NILAI INTI DAN PRINSIP KETERATURAN MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -282,7 +282,7 @@ flowchart TD
 [^3]: Ar-Raghib Al-Isfahani, *Al-Mufradat fi Gharibil Qur'an* (2009, hlm. 551).  
 [^4]: Protokol penanganan de-eskalasi emosi dan restitusi kerusakan fasilitas umum asrama, TUMBUH (2026).  
 [^5]: Empat prinsip operasional tata kelola keteraturan hidup asrama 24 jam TUMBUH Pesantren (2026).  
-[^6]: Dampak kelembagaan internalisasi nilai-nilai keteraturan terhadap wibawa kepemimpinan santri TUMBUH (2026).  
+[^6]: Dampak kelembagaan internalisasi nilai-nilai keteraturan terhadap wibawa kepemimpinan santri dalam sistem TUMBUH (2026).  
 
 ---
 

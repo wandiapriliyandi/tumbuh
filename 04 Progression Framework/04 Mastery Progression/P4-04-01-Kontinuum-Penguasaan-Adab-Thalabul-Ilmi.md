@@ -1,5 +1,5 @@
 # P4-04-01: KONTINUUM PENGUASAAN ADAB THALABUL ILMI SANTRI
-## *Monograf Riset Akademik: Trajektori Evolusi Adab Penuntut Ilmu (Adab ma'an-Nafs, ma'as-Syaikh, ma'az-Zamil, wa ma'al-Kitab) Sepanjang Jenjang J1–J4, Integrasi Doktrin Ta'dzimul Ilmi wa Ahlihi Turats Klasik dengan Teori Internalisasi Moral (Rest's Four-Component Model & Bandura's Social Learning), Serta Matriks Rubrik Observasi Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Evolusi Adab Penuntut Ilmu (Adab ma'an-Nafs, ma'as-Syaikh, ma'az-Zamil, wa ma'al-Kitab) Sepanjang Jenjang J1–J4, Integrasi Doktrin Ta'dzimul Ilmi wa Ahlihi Turats Klasik dengan Teori Internalisasi Moral (Rest's Four-Component Model & Bandura's Social Learning), Serta Matriks Rubrik Observasi Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-04-01/MONOGRAF-RISET-KONTINUUM-ADAB-THALABUL-ILMI/2026`  
 **Domain**: `04 Progression Framework` > `04 Mastery Progression` (Sub-Modul 01: *Adab Thalabul Ilmi Mastery Continuum*)  
@@ -297,4 +297,4 @@ flowchart TD
 7. **Jidāl 'Aqīm (جِدَالٌ عَقِيمٌ)**: Perdebatan kusir tanpa adab yang hanya bertujuan memuaskan hawa nafsu ingin menang sendiri dan merendahkan lawan bicara.
 8. **Tawādhu' 'Ilmī (تَوَاضُعٌ عِلْمِيٌّ)**: Kerendahhatian intelektual yang menyadari bahwa semakin bertambah ilmu seseorang, semakin ia menyadari betapa luasnya kebodohan dirinya.
 9. **Form ADAB-TI**: Rubrik observasi 360 derajat untuk mengevaluasi konsistensi pengamalan 4 domain adab thalabul ilmi santri di asrama dan kelas.
-10. **Khadīmul 'Ilmi wal 'Ulamā'**: Derajat kehormatan spiritual bagi santri TUMBUH yang mendedikasikan hidupnya untuk memuliakan ilmu dan melayani para ulama demi kemakmuran umat.
+10. **Khadīmul 'Ilmi wal 'Ulamā'**: Derajat kehormatan spiritual bagi santri dalam sistem TUMBUH yang mendedikasikan hidupnya untuk memuliakan ilmu dan melayani para ulama demi kemakmuran umat.

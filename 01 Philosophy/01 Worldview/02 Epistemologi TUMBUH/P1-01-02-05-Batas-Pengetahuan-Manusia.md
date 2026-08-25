@@ -256,7 +256,7 @@ Pengakuan atas batas pengetahuan manusia membawa dampak transformatif bagi keban
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Batas Kognitif Pendidikan Pesantren TUMBUH, *Kritik atas Kesombongan Epistemis dan Fanatisme Mazhab*, 2026.  
+[^1]: Riset Batas Kognitif Pendidikan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Kesombongan Epistemis dan Fanatisme Mazhab*, 2026.  
 [^2]: QS. Al-Isra' [17]: 85.  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Dhamm al-Ghurur*, hlm. 120–155.  
 [^4]: An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab*, Jilid 1, *Adab al-Mufti wal Mustafti*, hlm. 65–88.  

@@ -28,7 +28,7 @@
   - [4. Rekayasa Arsitektur Pencegahan Kejahatan (CPTED): Natural Surveillance Bebas Blindspots Tanpa Spionase Tajassus](#4-rekayasa-arsitektur-pencegahan-kejahatan-cpted-natural-surveillance-bebas-blindspots-tanpa-spionase-tajassus)
   - [5. Kasuistika Lapangan: Kasus Wabah Scabies Massal di Kamar Lembab & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-wabah-scabies-massal-di-kamar-lembab--resolusi-restoratif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Desain Arsitektur Asrama Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-desain-arsitektur-asrama-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Desain Arsitektur Asrama Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-desain-arsitektur-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Metrik Fisik & Ergonomi Bangunan Asrama Pesantren](#2-matriks-standar-metrik-fisik--ergonomi-bangunan-asrama-pesantren)
   - [3. Matriks Zonasi Tata Ruang Asrama Terpadu (Zona Privat, Semi-Publik, Publik)](#3-matriks-zonasi-tata-ruang-asrama-terpadu-zona-privat-semi-publik-publik)
   - [4. Protokol Audit Kelaikan Fisik & Sanitasi Asrama (Dormitory Facility Audit Protocol)](#4-protokol-audit-kelaikan-fisik--sanitasi-asrama-dormitory-facility-audit-protocol)
@@ -112,7 +112,7 @@ TUMBUH menerapkan prinsip CPTED (*Crime Prevention Through Environmental Design*
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Desain Arsitektur Asrama Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Desain Arsitektur Asrama Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan desain asrama ke dalam **Arsitektur Tiga Sayap Asrama Beradab (*Arkan al-Maskan ash-Shihhiy*)**:
 
@@ -196,7 +196,7 @@ Standarisasi arsitektur asrama 24 jam ini membawa implikasi agung bagi peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-02: PRINSIP DESAIN ARSITEKTUR ASRAMA PESANTREN 24 JAM (24-HOUR DORMITORY ARCHITECTURE)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-02: PRINSIP DESAIN ARSITEKTUR ASRAMA PESANTREN 24 JAM (24-HOUR DORMITORY ARCHITECTURE)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

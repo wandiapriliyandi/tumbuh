@@ -1,5 +1,5 @@
 # P7-04-01: WORKFLOW HARIAN PENGASUHAN 4-SHIFT
-## *Monograf Riset Akademik: Standarisasi Alur Kerja Operasional Harian Pengasuhan 24 Jam dalam 4 Shift Terpadu, Protokol Serah Terima Shift Tanpa Kekosongan Pengawasan, dan Ritme Biologis Santri Berbasis Chronobiology (24-Hour Residential Care Shift System, Zero-Gap Handover Protocol, & Circadian-Aligned Staff Scheduling / Form WHP-Shift), Integrasi Doktrin 'At-Tartīb waz Ziyadah fil Khidmah' Turats Klasik dengan Circadian Biology, Lean Management Daily Standups, Serta Keberlanjutan Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Alur Kerja Operasional Harian Pengasuhan 24 Jam dalam 4 Shift Terpadu, Protokol Serah Terima Shift Tanpa Kekosongan Pengawasan, dan Ritme Biologis Santri Berbasis Chronobiology (24-Hour Residential Care Shift System, Zero-Gap Handover Protocol, & Circadian-Aligned Staff Scheduling / Form WHP-Shift), Integrasi Doktrin 'At-Tartīb waz Ziyadah fil Khidmah' Turats Klasik dengan Circadian Biology, Lean Management Daily Standups, Serta Keberlanjutan Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-04-01/MONOGRAF-RISET-WORKFLOW-4-SHIFT/2026`  
 **Domain**: `07 Implementation Framework` > `04 Workflow` (Sub-Modul 01: *24-Hour Residential Care Shift System & Zero-Gap Handover*)  
@@ -104,7 +104,7 @@ Sistem 4-shift dengan handover SBAR terbukti menghilangkan *supervision vacuum* 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-04-01: WORKFLOW HARIAN PENGASUHAN 4-SHIFT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-04-01: WORKFLOW HARIAN PENGASUHAN 4-SHIFT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,7 +160,7 @@ flowchart TD
 
 [^1]: Penelitian tentang circadian-aligned staff scheduling dalam residential care, Czeisler & Gooley (2007, hlm. 583).
 [^2]: Konsep Daily Standup dalam Lean Management dan penerapannya pada shift handover operasional, Liker (2004, hlm. 182).
-[^3]: Studi kasus patroli shift malam menemukan insiden tengah malam Pesantren TUMBUH (2026).
+[^3]: Studi kasus patroli shift malam menemukan insiden tengah malam Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak sistem 4-shift dan SBAR handover terhadap kesejahteraan santri (2026).
 
 ### 4. Glosarium

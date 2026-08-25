@@ -1,5 +1,5 @@
 # P7-01-04: MANAJEMEN TRANSPARANSI FINANSIAL DAN GOOD PESANTREN GOVERNANCE
-## *Monograf Riset Akademik: Standarisasi Akuntabilitas Keuangan Lembaga, Tata Kelola Dana Wakaf dan SPP Santri, dan Pencegahan Korupsi/Konflik Kepentingan (Financial Transparency Protocols, Good Pesantren Governance GPG, & Anti-Corruption Safeguards / Form MTF-Governance), Integrasi Doktrin 'Al-Amānah wal 'Adālah fil Māl' Turats Klasik dengan OECD Corporate Governance Principles, PSAK 109/45 Akuntansi Pesantren, Serta Keberkahan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Akuntabilitas Keuangan Lembaga, Tata Kelola Dana Wakaf dan SPP Santri, dan Pencegahan Korupsi/Konflik Kepentingan (Financial Transparency Protocols, Good Pesantren Governance GPG, & Anti-Corruption Safeguards / Form MTF-Governance), Integrasi Doktrin 'Al-Amānah wal 'Adālah fil Māl' Turats Klasik dengan OECD Corporate Governance Principles, PSAK 109/45 Akuntansi Pesantren, Serta Keberkahan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-01-04/MONOGRAF-RISET-TRANSPARANSI-FINANSIAL-GPG/2026`  
 **Domain**: `07 Implementation Framework` > `01 Governance` (Sub-Modul 04: *Financial Transparency Protocols & Good Pesantren Governance*)  
@@ -166,7 +166,7 @@ flowchart TD
 
 ### 2. Dekomposisi 5 Pilar GPG: Transparansi, Akuntabilitas, Responsibilitas, Independensi, & Kewajaran (TARIF)
 
-| Prinsip GPG (TARIF) | Makna Operasional di Pesantren TUMBUH | Mekanisme Penjaminan Sistem | Bukti Otentik Kepatuhan |
+| Prinsip GPG (TARIF) | Makna Operasional di Ekosistem Pesantren Berbasis TUMBUH | Mekanisme Penjaminan Sistem | Bukti Otentik Kepatuhan |
 | :--- | :--- | :--- | :--- |
 | **1. Transparansi** | Keterbukaan informasi pengelolaan SPP & Infaq.| Dasbor SIM Keuangan Wali Santri Real-Time.| Laporan Keuangan Terbuka Triwulanan. |
 | **2. Akuntabilitas** | Kejelasan fungsi, struktur, & pertanggungjawaban dana.| Pembukuan ganda terstandar PSAK 109/45.| Buku Jurnal & Neraca Terverifikasi. |
@@ -214,7 +214,7 @@ Penerapan manajemen transparansi finansial Form MTF ini menghadirkan keunggulan 
 
 1. **Menghadirkan Keberkahan Finansial dan Kemandirian Ekonomi Lembaga (*Financial Sustainability & Barakah*)**: Harta yang dikelola secara amanah dan bersih melipatgandakan pertolongan Allah SWT.
 2. **Menjamin Kesejahteraan Tenaga Pendidik dan Kualitas Hidup Santri (*Educator & Student Welfare*)**: Gaji musyrif yang layak dan nutrisi makanan santri yang bergizi tinggi menghasilkan suasana belajar yang sangat prima.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Amānah fil Māl dan OECD Governance Principles**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan tata kelola keuangan paling bersih, transparan, dan terpercaya di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Amānah fil Māl dan OECD Governance Principles**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan tata kelola keuangan paling bersih, transparan, dan terpercaya di dunia.[^5]
 
 ---
 
@@ -222,7 +222,7 @@ Penerapan manajemen transparansi finansial Form MTF ini menghadirkan keunggulan 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-01-04: MANAJEMEN TRANSPARANSI FINANSIAL DAN GOOD PESANTREN GOVERNANCE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-01-04: MANAJEMEN TRANSPARANSI FINANSIAL DAN GOOD PESANTREN GOVERNANCE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Prinsip-prinsip Good Corporate Governance OECD dalam tata kelola institusional yang akuntabel, OECD (2023, hlm. 18).  
 [^2]: Standar Akuntansi Keuangan Entitas Nonlaba dan ZISWAF Ikatan Akuntan Indonesia (IAI), IAI (2018, PSAK 109 & 2020, ISAK 35).  
 [^3]: Ibnu Qudamah, *Al-Mughni* (2004, Jilid 8, hlm. 176), bab kewajiban pengelola wakaf memisahkan harta amanah dan menyajikan laporan hisab pertanggungjawaban terbuka.  
-[^4]: Protokol transparansi finansial dan audit KAP Good Pesantren Governance Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen transparansi finansial dan Good Pesantren Governance di Pesantren TUMBUH (2026).  
+[^4]: Protokol transparansi finansial dan audit KAP Good Pesantren Governance Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen transparansi finansial dan Good Pesantren Governance di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

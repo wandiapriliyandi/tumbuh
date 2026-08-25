@@ -28,7 +28,7 @@
   - [4. Rekayasa Kanal Pelaporan Rahasia Terlindungi (Whistleblower Protection) & Deteksi Siber Tanpa Tajassus](#4-rekayasa-kanal-pelaporan-rahasia-terlindungi-whistleblower-protection--deteksi-siber-tanpa-tajassus)
   - [5. Kasuistika Lapangan: Penanganan Kasus Perundungan Siber Grup WhatsApp & Pemulihan Korban](#5-kasuistika-lapangan-penanganan-kasus-perundungan-siber-grup-whatsapp--pemulihan-korban)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Manajemen Krisis Khusus & Anti-Bullying Siber Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-manajemen-krisis-khusus--anti-bullying-siber-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Manajemen Krisis Khusus & Anti-Bullying Siber Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-manajemen-krisis-khusus--anti-bullying-siber-pesantren-tumbuh)
   - [2. Matriks Empat Tahap Penanganan Krisis: Pemicu, Eskalasi, Puncak Krisis, & Pemulihan Pasca-Krisis](#2-matriks-empat-tahap-penanganan-krisis-pemicu-eskalasi-puncak-krisis--pemulihan-pasca-krisis)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Kasus Perundungan Siber & Perlindungan Korban](#3-standar-prosedur-operasional-sop-penanganan-kasus-perundungan-siber--perlindungan-korban)
   - [4. Protokol Pendampingan Trauma Psikososial Santri (Trauma-Informed Healing Protocol)](#4-protokol-pendampingan-trauma-psikososial-santri-trauma-informed-healing-protocol)
@@ -106,7 +106,7 @@ TUMBUH merancang ekosistem pelaporan yang aman:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Manajemen Krisis Khusus & Anti-Bullying Siber Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Manajemen Krisis Khusus & Anti-Bullying Siber Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan manajemen krisis ke dalam **Arsitektur Tiga Sayap Perlindungan Krisis (*Arkan Himayatil Insan*)**:
 
@@ -183,7 +183,7 @@ Prinsip intervensi krisis khusus dan mitigasi perundungan siber ini membawa impl
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-05: PRINSIP INTERVENSI KRISIS KHUSUS, DE-ESKALASI AGRESI, DAN MITIGASI PERUNDUNGAN SIBER (SPECIAL CRISIS INTERVENTION & CYBERBULLYING MITIGATION)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-05: PRINSIP INTERVENSI KRISIS KHUSUS, DE-ESKALASI AGRESI, DAN MITIGASI PERUNDUNGAN SIBER (SPECIAL CRISIS INTERVENTION & CYBERBULLYING MITIGATION)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -260,7 +260,7 @@ flowchart TD
 [^7]: Standar Operasional Prosedur Pembentukan Tim Crisis Response Asrama (CRA) TUMBUH, 2026.  
 [^8]: Master Blueprint Protokol Mitigasi Perundungan Siber Pesantren 24 Jam TUMBUH, 2026.  
 [^9]: Petunjuk Teknis Trauma-Informed Care dan Pemulihan Korban Perundungan TUMBUH, 2026.  
-[^10]: Master Guidelines Protokol Pendampingan Trauma Psikososial Santri TUMBUH, 2026.  
+[^10]: Master Guidelines Protokol Pendampingan Trauma Psikososial Santri dalam sistem TUMBUH, 2026.  
 [^11]: Deklarasi Pesantren Aman dan Perlindungan Hak Santri Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

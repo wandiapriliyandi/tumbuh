@@ -1,5 +1,5 @@
 # P4-02-02: DETAIL JENJANG J2 — HABITUASI DASAR DAN REGULASI DIRI
-## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 8 (Usia 13–14 Tahun), Standar Capaian Otomatisasi Ibadah & Disiplin Belajar Mandiri, Integrasi Fiqh Dawamul Amal dengan Self-Determination Theory (Deci & Ryan) & Habit Loop Automation (Lally et al.), Penataan Kamar Standar 5S, Serta Matriks Indikator Kenaikan Jenjang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 8 (Usia 13–14 Tahun), Standar Capaian Otomatisasi Ibadah & Disiplin Belajar Mandiri, Integrasi Fiqh Dawamul Amal dengan Self-Determination Theory (Deci & Ryan) & Habit Loop Automation (Lally et al.), Penataan Kamar Standar 5S, Serta Matriks Indikator Kenaikan Jenjang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-02-02/MONOGRAF-RISET-JENJANG-J2-HABITUASI-DASAR/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels` (Sub-Modul 02: *Level J2: Basic Habituation*)  

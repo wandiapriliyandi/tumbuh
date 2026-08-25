@@ -356,7 +356,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-14: SINTESIS DAN VALIDASI SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-14: SINTESIS DAN VALIDASI SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -424,7 +424,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Meta-Sintesis Kurikulum Karakter Pesantren TUMBUH, *Kritik atas Fragmentasi Kurikulum Ibadah*, 2026.  
+[^1]: Riset Meta-Sintesis Kurikulum Karakter Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fragmentasi Kurikulum Ibadah*, 2026.  
 [^2]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, Kitab *Al-Maqashid*, hlm. 45–85.  
 [^3]: QS. Al-Ma'idah [5]: 3.  
 [^4]: Matan *Al-Muwafaqat*, Jilid 2, hlm. 58.  

@@ -1,5 +1,5 @@
 # P8-04-03: SOP SESI COACHING SELF-REGULATION INDIVIDUAL
-## *Monograf Riset Akademik: Standarisasi Prosedur Operasional Baku (SOP) Sesi Coaching Regulasi Diri Individual (Individual Self-Regulation Coaching), Desain Diagram Pemantauan Mandiri (Self-Monitoring Charts), dan Pelatihan Dialog Batin Penguat Spiritual (Self-Regulation Coaching SOP, Self-Monitoring Chart Design, & Spiritual Self-Talk Repertoire / Form COA-SelfRegulation), Integrasi Doktrin 'Murāqabatullāh wa Muhāsabatun Nafs' Turats Klasik dengan Zimmerman Self-Regulated Learning Theory, Meichenbaum Cognitive Behavior Modification, Serta Disiplin Mandiri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Prosedur Operasional Baku (SOP) Sesi Coaching Regulasi Diri Individual (Individual Self-Regulation Coaching), Desain Diagram Pemantauan Mandiri (Self-Monitoring Charts), dan Pelatihan Dialog Batin Penguat Spiritual (Self-Regulation Coaching SOP, Self-Monitoring Chart Design, & Spiritual Self-Talk Repertoire / Form COA-SelfRegulation), Integrasi Doktrin 'Murāqabatullāh wa Muhāsabatun Nafs' Turats Klasik dengan Zimmerman Self-Regulated Learning Theory, Meichenbaum Cognitive Behavior Modification, Serta Disiplin Mandiri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-04-03/MONOGRAF-RISET-COACHING-SELF-REGULATION/2026`  
 **Domain**: `08 Integrated Approaches` > `04 Coaching` (Sub-Modul 03: *Individual Self-Regulation Coaching SOP*)  
@@ -105,7 +105,7 @@ Penerapan protokol coaching regulasi diri individual berbasis *Self-Regulated Le
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-04-03: SOP SESI COACHING SELF-REGULATION INDIVIDUAL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-04-03: SOP SESI COACHING SELF-REGULATION INDIVIDUAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Zimmerman mengenai siklus Self-Regulated Learning dan perbedaan regulasi diri internal vs eksternal, Zimmerman (2002, hlm. 66).
 [^2]: Donald Meichenbaum mengenai Cognitive Behavior Modification dan kekuatan self-instructional dialog batin, Meichenbaum (1977, hlm. 35).
-[^3]: Studi kasus penerapan Self-Monitoring Chart dan Spiritual Self-Talk memperbaiki pola tidur santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Self-Monitoring Chart dan Spiritual Self-Talk memperbaiki pola tidur santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penguatan kapasitas regulasi diri mandiri terhadap penurunan beban pengawasan fisik musyrif di asrama (2026).

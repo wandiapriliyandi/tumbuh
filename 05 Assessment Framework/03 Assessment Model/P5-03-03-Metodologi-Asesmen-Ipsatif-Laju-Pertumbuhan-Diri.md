@@ -1,5 +1,5 @@
 # P5-03-03: METODOLOGI ASESMEN IPSATIF LAJU PERTUMBUHAN DIRI
-## *Monograf Riset Akademik: Formulasi Psikometri dan Metodologi Komputasi Laju Pertumbuhan Diri (Ipsative Growth Rate Computation), Integrasi Doktrin 'Man Kāna Yawmuhu Khayran Min Amsihi' Turats Klasik dengan Longitudinal Growth Modeling (LGM) & Individual Growth Curves, Serta Desain Rapor Trajektori Radar 10 Kapasitas di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Formulasi Psikometri dan Metodologi Komputasi Laju Pertumbuhan Diri (Ipsative Growth Rate Computation), Integrasi Doktrin 'Man Kāna Yawmuhu Khayran Min Amsihi' Turats Klasik dengan Longitudinal Growth Modeling (LGM) & Individual Growth Curves, Serta Desain Rapor Trajektori Radar 10 Kapasitas di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-03-03/MONOGRAF-RISET-METODOLOGI-ASESMEN-IPSATIF-PERTUMBUHAN/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 03: *Ipsative Self-Growth Rate Methodology*)  
@@ -243,7 +243,7 @@ Penerapan metodologi komputasi asesmen ipsatif ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-03-03: METODOLOGI ASESMEN IPSATIF LAJU PERTUMBUHAN DIRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-03-03: METODOLOGI ASESMEN IPSATIF LAJU PERTUMBUHAN DIRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -311,8 +311,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan pengukuran statis titik tunggal dalam memprediksi pertumbuhan pembelajar, Rogosa & Willett (1985, hlm. 206).  
 [^2]: Kerangka kerja Longitudinal Latent Growth Modeling dalam evaluasi perkembangan psikometri, Muthén (2004, hlm. 348).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Madarijus Salikin* (1996, Jilid 2, hlm. 112), bab keharusan jiwa senantiasa bertambah amal kebajikan setiap hari.  
-[^4]: Protokol perayaan rekor kemajuan mandiri dan pemantauan laju pertumbuhan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan metodologi asesmen ipsatif laju pertumbuhan diri di Pesantren TUMBUH (2026).  
+[^4]: Protokol perayaan rekor kemajuan mandiri dan pemantauan laju pertumbuhan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan metodologi asesmen ipsatif laju pertumbuhan diri di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

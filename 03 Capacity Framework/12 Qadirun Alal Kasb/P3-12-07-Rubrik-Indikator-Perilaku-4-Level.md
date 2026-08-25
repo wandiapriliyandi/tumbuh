@@ -1,5 +1,5 @@
 # P3-12-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Perancangan Rubrik Asesmen Kinerja Kemandirian Finansial Berbasis Kriteria (Criterion-Referenced Rubrics), Gradasi Deskriptor 4 Level Kewirausahaan Syariah, Protokol Kalibrasi Penilai Antar-Pembina (Inter-Rater Agreement Cohen's Kappa >= 0.88), Algoritma Pembobotan Indeks Karakter Kemandirian (IK-QK), Serta Evaluasi Pertumbuhan Ipsatif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Perancangan Rubrik Asesmen Kinerja Kemandirian Finansial Berbasis Kriteria (Criterion-Referenced Rubrics), Gradasi Deskriptor 4 Level Kewirausahaan Syariah, Protokol Kalibrasi Penilai Antar-Pembina (Inter-Rater Agreement Cohen's Kappa >= 0.88), Algoritma Pembobotan Indeks Karakter Kemandirian (IK-QK), Serta Evaluasi Pertumbuhan Ipsatif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-07/MONOGRAF-RISET-RUBRIK-4LEVEL-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 07: *4-Level Behavior Rubric*)  
@@ -226,7 +226,7 @@ Implementasi rubrik 4-level Qadirun 'Alal Kasb menghasilkan keunggulan kelembaga
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -295,7 +295,7 @@ flowchart TD
 [^2]: Pembahasan pentingnya asesmen pertumbuhan ipsatif dalam pembiasaan efikasi ekonomi remaja, Hughes (2014, hlm. 52).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 92).  
 [^4]: Protokol kalibrasi antar-penilai dan standarisasi evaluasi kinerja rintisan bisnis santri, TUMBUH (2026).  
-[^5]: Formula perhitungan indeks karakter kemandirian ($IK_{QK}$) dan standar kelulusan santri TUMBUH (2026).  
+[^5]: Formula perhitungan indeks karakter kemandirian ($IK_{QK}$) dan standar kelulusan santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penerapan rubrik analitik kemandirian finansial 4-level TUMBUH Pesantren (2026).  
 
 ---

@@ -1,5 +1,5 @@
 # P7-11-01: SIKLUS PDCA CONTINUOUS QUALITY IMPROVEMENT
-## *Monograf Riset Akademik: Standarisasi Siklus Perbaikan Mutu Berkelanjutan (Continuous Quality Improvement / CQI) Berbasis Model Deming (Plan-Do-Check-Act), Transformasi Pesantren Menjadi Organisasi Pembelajar (Learning Organization), dan Protokol Penutupan Loop Umpan Balik (Deming PDCA Cycle in Pesantren Context, Learning Organization Transformation, & Closed-Loop Feedback Protocol / Form PDC-Mutu), Integrasi Doktrin 'Al-Ihsān wal Itqān fid Dīn' Turats Klasik dengan Senge Fifth Discipline, Deming Quality Management, Serta Tata Kelola Kelembagaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Siklus Perbaikan Mutu Berkelanjutan (Continuous Quality Improvement / CQI) Berbasis Model Deming (Plan-Do-Check-Act), Transformasi Pesantren Menjadi Organisasi Pembelajar (Learning Organization), dan Protokol Penutupan Loop Umpan Balik (Deming PDCA Cycle in Pesantren Context, Learning Organization Transformation, & Closed-Loop Feedback Protocol / Form PDC-Mutu), Integrasi Doktrin 'Al-Ihsān wal Itqān fid Dīn' Turats Klasik dengan Senge Fifth Discipline, Deming Quality Management, Serta Tata Kelola Kelembagaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-11-01/MONOGRAF-RISET-PDCA-CONTINUOUS-IMPROVEMENT/2026`  
 **Domain**: `07 Implementation Framework` > `11 Continuous Improvement` (Sub-Modul 01: *Deming PDCA Cycle & Continuous Quality Improvement*)  
@@ -112,7 +112,7 @@ Institusionalisasi siklus PDCA di lingkungan pesantren mentransformasi budaya ke
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-11-01: SIKLUS PDCA CONTINUOUS QUALITY IMPROVEMENT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-11-01: SIKLUS PDCA CONTINUOUS QUALITY IMPROVEMENT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -165,5 +165,5 @@ flowchart TD
 
 [^1]: Deming mengenai prinsip Continuous Quality Improvement dan pemangkasan pemborosan sistemik, Deming (1986, hlm. 54).
 [^2]: Peter Senge mengenai Five Disciplines dan konsep Systems Thinking dalam organisasi pembelajar, Senge (1990, hlm. 14).
-[^3]: Studi kasus penerapan siklus PDCA menyelesaikan bottleneck wudhu fajar Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan siklus PDCA menyelesaikan bottleneck wudhu fajar Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak institusionalisasi PDCA terhadap peningkatan efisiensi operasional dan iklim kerja asrama (2026).

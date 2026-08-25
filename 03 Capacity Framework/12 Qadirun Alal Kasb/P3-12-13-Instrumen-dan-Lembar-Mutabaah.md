@@ -306,7 +306,7 @@ Kodifikasi paket instrumen Qadirun 'Alal Kasb menghadirkan tata kelola kelembaga
 [^2]: Pembahasan kelemahan asesmen wirausaha tanpa bukti portofolio otentik, Brookhart (2018, hlm. 82).  
 [^3]: QS. Al-Baqarah: 282, Al-Qur'anul Karim.  
 [^4]: Protokol pembiasaan pencatatan kas saku santri baru melalui metode habit stacking dan pendampingan kakak asuh, TUMBUH (2026).  
-[^5]: Standarisasi operasional instrumen evaluasi portofolio wirausaha santri TUMBUH Pesantren (2026).  
+[^5]: Standarisasi operasional instrumen evaluasi portofolio wirausaha santri dalam sistem TUMBUH Pesantren (2026).  
 [^6]: Dampak kelembagaan penerapan paket instrumen kemandirian finansial digital TUMBUH (2026).  
 
 ---

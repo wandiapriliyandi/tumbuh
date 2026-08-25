@@ -28,7 +28,7 @@
   - [4. Rekayasa Didaktik Reduksi Beban: Dual Coding Allan Paivio, Chunking, & Worked-Example Effect](#4-rekayasa-didaktik-reduksi-beban-dual-coding-allan-paivio-chunking--worked-example-effect)
   - [5. Kasuistika Lapangan: Kasus Santri Mengalami Kebuntuan Belajar Nahwu & Resolusi Kognitif Terpadu](#5-kasuistika-lapangan-kasus-santri-mengalami-kebuntuan-belajar-nahwu--resolusi-kognitif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH](#1-eksplanasi-teoretis-prinsip-desain-kognitif-dan-manajemen-beban-belajar-santri-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri dalam sistem TUMBUH](#1-eksplanasi-teoretis-prinsip-desain-kognitif-dan-manajemen-beban-belajar-santri-tumbuh)
   - [2. Matriks Tiga Jenis Beban Kognitif & Protokol Intervensi Didaktik Asatidz](#2-matriks-tiga-jenis-beban-kognitif--protokol-intervensi-didaktik-asatidz)
   - [3. Matriks Empat Teknik Reduksi Beban Kognitif dalam Pengajaran Kitab & Sains](#3-matriks-empat-teknik-reduksi-beban-kognitif-dalam-pengajaran-kitab--sains)
   - [4. Protokol Desain Modul Ajar Rendah Beban Pengganggu (Low Extraneous Load Lesson Design SOP)](#4-protokol-desain-modul-ajar-rendah-beban-pengganggu-low-extraneous-load-lesson-design-sop)
@@ -108,7 +108,7 @@ TUMBUH mengintegrasikan strategi pembelajaran berbasis bukti:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Desain Kognitif dan Manajemen Beban Belajar Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH mengkodifikasikan didaktik kelas ke dalam **Arsitektur Tiga Sayap Manajemen Kognitif (*Arkan at-Tadris al-Khabir*)**:
 
@@ -189,7 +189,7 @@ Prinsip kognitif dan manajemen beban belajar ini membawa implikasi agung bagi pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03-01: PRINSIP KOGNITIF DAN MANAJEMEN BEBAN BELAJAR SANTRI (COGNITIVE PRINCIPLES & COGNITIVE LOAD MANAGEMENT)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03-01: PRINSIP KOGNITIF DAN MANAJEMEN BEBAN BELAJAR SANTRI (COGNITIVE PRINCIPLES & COGNITIVE LOAD MANAGEMENT)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -257,7 +257,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Kognitif dan Manajemen Beban Belajar Santri TUMBUH, *Kritik atas Vonis Moral dan Kelelahan Kognitif*, 2026.  
+[^1]: Riset Prinsip Kognitif dan Manajemen Beban Belajar Santri dalam sistem TUMBUH, *Kritik atas Vonis Moral dan Kelelahan Kognitif*, 2026.  
 [^2]: Az-Zarnuji, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, hlm. 35–48.  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 65–85.  
 [^4]: Sweller, J., et al. (2011), *Cognitive Load Theory*, hlm. 25–60.  

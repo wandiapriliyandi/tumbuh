@@ -1,5 +1,5 @@
 # P5-02-01: MODEL TRIANGULASI DATA ASESMEN 360 DERAJAT
-## *Monograf Riset Akademik: Arsitektur Pengumpulan Data Asesmen Karakter Multi-Sumber 360 Derajat (Musyrif Asrama, Guru Madrasah, Sima'an Sebaya, & Muhasabah Santri), Integrasi Kaidah Tawatsul asy-Syuhud Turats Klasik dengan Multi-Trait Multi-Method (MTMM) Matrix & 360-Degree Feedback Theory, Serta Algoritma Normalisasi Reduksi Bias di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Pengumpulan Data Asesmen Karakter Multi-Sumber 360 Derajat (Musyrif Asrama, Guru Madrasah, Sima'an Sebaya, & Muhasabah Santri), Integrasi Kaidah Tawatsul asy-Syuhud Turats Klasik dengan Multi-Trait Multi-Method (MTMM) Matrix & 360-Degree Feedback Theory, Serta Algoritma Normalisasi Reduksi Bias di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-02-01/MONOGRAF-RISET-MODEL-TRIANGULASI-DATA-360/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 01: *360-Degree Triangulation Assessment Architecture*)  
@@ -218,7 +218,7 @@ Penerapan model triangulasi data 360 derajat ini memberikan dampak transformatif
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-02-01: MODEL TRIANGULASI DATA ASESMEN 360 DERAJAT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-02-01: MODEL TRIANGULASI DATA ASESMEN 360 DERAJAT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan asesmen karakter berbasis perspektif penilai tunggal, Edwards & Ewen (1996, hlm. 24).  
 [^2]: Kerangka pengujian validitas konvergen dan diskriminan menggunakan Multi-Trait Multi-Method (MTMM), Campbell & Fiske (1959, hlm. 88).  
 [^3]: Ibnu Hajar Al-Asqalani, *Nuzhatun Nazhar* (2000, hlm. 34), bab faedah persaksian mutawatir dalam menghasilkan ilmu yaqin.  
-[^4]: Protokol penanganan diskrepansi nilai karakter dan rekonsiliasi triangulasi santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model triangulasi data asesmen 360 derajat di Pesantren TUMBUH (2026).  
+[^4]: Protokol penanganan diskrepansi nilai karakter dan rekonsiliasi triangulasi santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model triangulasi data asesmen 360 derajat di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

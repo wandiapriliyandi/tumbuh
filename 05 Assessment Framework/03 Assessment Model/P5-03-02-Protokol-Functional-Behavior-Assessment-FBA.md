@@ -1,5 +1,5 @@
 # P5-03-02: PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)
-## *Monograf Riset Akademik: Metodologi Asesmen Fungsi Perilaku (Functional Behavior Assessment / FBA) untuk Mengidentifikasi Anteseden, Perilaku Inti, dan Konsekuensi (ABC Model) Pelanggaran Adab Santri Tier 2 & Tier 3, Integrasi Kaidah Tashawwurul Mas'alah wa Ma'rifatul 'Ilal Turats Klasik dengan Behavioral Functional Analysis & Positive Behavior Support, Serta Desain Rencana Intervensi Perilaku Positif (BIP) di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Asesmen Fungsi Perilaku (Functional Behavior Assessment / FBA) untuk Mengidentifikasi Anteseden, Perilaku Inti, dan Konsekuensi (ABC Model) Pelanggaran Adab Santri Tier 2 & Tier 3, Integrasi Kaidah Tashawwurul Mas'alah wa Ma'rifatul 'Ilal Turats Klasik dengan Behavioral Functional Analysis & Positive Behavior Support, Serta Desain Rencana Intervensi Perilaku Positif (BIP) di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-03-02/MONOGRAF-RISET-PROTOKOL-FBA-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 02: *Functional Behavior Assessment Protocol*)  
@@ -246,7 +246,7 @@ Penerapan protokol Functional Behavior Assessment (FBA) ini menghadirkan lompata
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-03-02: PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-03-02: PROTOKOL FUNCTIONAL BEHAVIOR ASSESSMENT (FBA)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -314,8 +314,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan penanganan perilaku berbasis hukuman reaktif tanpa pemahaman fungsi ABC, O'Neill et al. (2015, hlm. 16).  
 [^2]: Metodologi Functional Analysis dalam membedakan fungsi attention, escape, dan tangible, Iwata et al. (1994, hlm. 201).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 62), bab perumpamaan pendidik laksana dokter yang mendiagnosis sebab penyakit.  
-[^4]: Protokol intervensi FBA dan penyusunan Behavior Intervention Plan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol Functional Behavior Assessment di Pesantren TUMBUH (2026).  
+[^4]: Protokol intervensi FBA dan penyusunan Behavior Intervention Plan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol Functional Behavior Assessment di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

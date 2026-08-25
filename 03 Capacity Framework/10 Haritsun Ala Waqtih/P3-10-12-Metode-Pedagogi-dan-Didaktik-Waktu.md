@@ -1,5 +1,5 @@
 # P3-10-12: METODE PEDAGOGI DAN DIDAKTIK HARITSUN ALA WAQTIH
-## *Monograf Riset Akademik: Empat Model Instruksional Pembinaan Disiplin Waktu (Living Temporal Exemplarity / Qudwah, Socratic Time-Audit Dialectics, Scaffolding Time-Blocking Laboratory, & Micro-Habit Automated Conditioning), Integrasi Efisiensi Waktu di Kelas Madrasah & Asrama, Eliminasi Jam Kosong, Serta Pembentukan Pendidik Tepat Waktu di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Empat Model Instruksional Pembinaan Disiplin Waktu (Living Temporal Exemplarity / Qudwah, Socratic Time-Audit Dialectics, Scaffolding Time-Blocking Laboratory, & Micro-Habit Automated Conditioning), Integrasi Efisiensi Waktu di Kelas Madrasah & Asrama, Eliminasi Jam Kosong, Serta Pembentukan Pendidik Tepat Waktu di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-10-12/MONOGRAF-RISET-PEDAGOGI-DIDAKTIK-HARITSUN-ALA-WAQTIH/2026`  
 **Domain**: `03 Capacity Framework` > `10 Haritsun Ala Waqtih` (Sub-Modul 12: *Pedagogical Methods & Time Didactics*)  
@@ -212,7 +212,7 @@ Penerapan empat model didaktik ini menghasilkan transformasi mendasar:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-12: METODE PEDAGOGI DAN DIDAKTIK HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-12: METODE PEDAGOGI DAN DIDAKTIK HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

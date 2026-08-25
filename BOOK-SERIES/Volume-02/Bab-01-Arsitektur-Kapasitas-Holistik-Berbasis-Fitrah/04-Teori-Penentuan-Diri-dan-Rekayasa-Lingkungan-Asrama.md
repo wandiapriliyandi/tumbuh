@@ -71,7 +71,7 @@ Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena
 #### 3. Kebutuhan Keterhubungan Relasional (*Relatedness*) $\equiv$ Kehangatan *Ukhuwah* & Pengasuhan
 Seorang anak yang terpisah ratusan kilometer dari pelukan ayah dan ibunya mengalami kerentanan relasional yang sangat tinggi (*attachment disruption*). Jika di pesantren ia hanya menjumpai pengurus yang berwajah dingin dan suka membentak, jiwanya akan merasa terasing (*alienated*). 
 
-Sebagaimana dicontohkan oleh Rasulullah SAW ketika mengasuh Anas bin Malik RA selama sepuluh tahun tanpa sekalipun membentak atau mencelanya, musyrif TUMBUH hadir sebagai figur lekat pengganti orang tua (*In Loco Parentis*) yang mendengarkan, merangkul, dan memvalidasi emosi santri.
+Sebagaimana dicontohkan oleh Rasulullah SAW ketika mengasuh Anas bin Malik RA selama sepuluh tahun tanpa sekalipun membentak atau mencelanya, musyrif dalam sistem TUMBUH hadir sebagai figur lekat pengganti orang tua (*In Loco Parentis*) yang mendengarkan, merangkul, dan memvalidasi emosi santri.
 
 ---
 
@@ -153,7 +153,7 @@ $$\text{إِنَّ الطِّبَاعَ سَرَّاقَةٌ، وَالنُّف�
 
 Kaidah *Innat Thiba'a Sarraqah* membuktikan kearifan ulama: karakter tidak bisa ditanamkan di ruang hampa yang terisolasi. Jika asrama berantakan, kotor, dan penuh teror senioritas, maka jiwa santri akan "mencuri" tabiat kekerasan dan kekacauan tersebut. Sebaliknya, ketika asrama ditata bersih, damai, penuh kasih sayang, dan sarat dengan dorongan adab, maka jiwa santri secara spontan menyerap keteraturan dan kemuliaan adab menjadi tabiat permanennya.
 
-Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini, kita telah membangun landasan filosofis, taksonomis, sosio-emosional, dan ekologis yang sangat kokoh. Seluruh instrumen ini siap menopang pembahasan inti pada **Bab 02: Profil 10 Muwashafat Karakter Santri TUMBUH**.
+Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini, kita telah membangun landasan filosofis, taksonomis, sosio-emosional, dan ekologis yang sangat kokoh. Seluruh instrumen ini siap menopang pembahasan inti pada **Bab 02: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH**.
 
 ---
 

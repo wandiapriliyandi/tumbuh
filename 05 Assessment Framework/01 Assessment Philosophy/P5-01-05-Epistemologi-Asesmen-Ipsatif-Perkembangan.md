@@ -1,5 +1,5 @@
 # P5-01-05: EPISTEMOLOGI ASESMEN IPSATIF DAN PERTUMBUHAN FITRAH
-## *Monograf Riset Akademik: Dekonstruksi Paradigma Penilaian Normatif-Komparatif (Norm-Referenced) Menuju Penilaian Ipsatif Berkelanjutan (Self-Referenced Ipsative Assessment), Integrasi Doktrin 'Kullu Muyassarun Lima Khuliqa Lahu' Turats Klasik dengan Hughes' Ipsative Assessment Theory & Bronfenbrenner's Bioecological Model, Serta Rekayasa Metrik Pertumbuhan Personal di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Dekonstruksi Paradigma Penilaian Normatif-Komparatif (Norm-Referenced) Menuju Penilaian Ipsatif Berkelanjutan (Self-Referenced Ipsative Assessment), Integrasi Doktrin 'Kullu Muyassarun Lima Khuliqa Lahu' Turats Klasik dengan Hughes' Ipsative Assessment Theory & Bronfenbrenner's Bioecological Model, Serta Rekayasa Metrik Pertumbuhan Personal di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-01-05/MONOGRAF-RISET-EPISTEMOLOGI-ASESMEN-IPSATIF/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 05: *Ipsative Assessment Epistemology & Fitrah Growth*)  
@@ -231,7 +231,7 @@ Penerapan epistemologi asesmen ipsatif menghadirkan lompatan peradaban:
 
 1. **Menghapus Total Budaya Kasta Intelektual dan Elitisme Sekolah**: Setiap santri dihargai atas perjuangan dan pertumbuhan dirinya, bukan karena keberuntungan bakat alami.
 2. **Mewujudkan Iklim Pesantren yang Bersih dari Kedengkian (*Hasad-Free Sanctuary*)**: Santri saling menyemangati dan merayakan keberhasilan kawan sebayanya dengan tulus ikhlas.
-3. **Penyempurnaan Teori Evaluasi Pendidikan Holistik Berbasis Fitrah**: Mengukuhkan pesantren TUMBUH sebagai pelopor dunia dalam penerapan asesmen ipsatif komprehensif.[^5]
+3. **Penyempurnaan Teori Evaluasi Pendidikan Holistik Berbasis Fitrah**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pelopor dunia dalam penerapan asesmen ipsatif komprehensif.[^5]
 
 ---
 
@@ -239,7 +239,7 @@ Penerapan epistemologi asesmen ipsatif menghadirkan lompatan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-01-05: EPISTEMOLOGI ASESMEN IPSATIF DAN PERTUMBUHAN FITRAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-01-05: EPISTEMOLOGI ASESMEN IPSATIF DAN PERTUMBUHAN FITRAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -307,8 +307,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan dan dampak destruktif asesmen normatif perankingan komparatif, Hughes (2011, hlm. 356).  
 [^2]: Kerangka kerja asesmen ipsatif dan pemantauan kemajuan mandiri (Personal Best), Hughes (2014, hlm. 28).  
 [^3]: HR. Al-Bukhari dalam *Shahih Al-Bukhari* (No. 4949), Kitab *At-Tafsir*, tafsir QS. Al-Lail tentang keunikan kemudahan fitrah amal manusia.  
-[^4]: Protokol pemulihan depresi akibat komparasi ranking dan pengakuan keunikan fitrah santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan epistemologi asesmen ipsatif di Pesantren TUMBUH (2026).  
+[^4]: Protokol pemulihan depresi akibat komparasi ranking dan pengakuan keunikan fitrah santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan epistemologi asesmen ipsatif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

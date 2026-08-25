@@ -1,5 +1,5 @@
 # P6-01-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND
-## *Monograf Riset Akademik: Fondasi Filosofis dan Metodologis Pengasuhan Tegas dan Hangat (Firm and Kind Positive Discipline Paradigm / Form PDP-Prinsip), Integrasi Doktrin 'Al-Līn fī Ghairi Dha'fin wal Quwwah fī Ghairi 'Unfin' Turats Klasik dengan Jane Nelsen's Positive Discipline, Baumrind's Authoritative Parenting, Serta Regulasi Diri Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Fondasi Filosofis dan Metodologis Pengasuhan Tegas dan Hangat (Firm and Kind Positive Discipline Paradigm / Form PDP-Prinsip), Integrasi Doktrin 'Al-Līn fī Ghairi Dha'fin wal Quwwah fī Ghairi 'Unfin' Turats Klasik dengan Jane Nelsen's Positive Discipline, Baumrind's Authoritative Parenting, Serta Regulasi Diri Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-01-01/MONOGRAF-RISET-PRINSIP-DISIPLIN-POSITIF/2026`  
 **Domain**: `06 Intervention Framework` > `01 Intervention Philosophy` (Sub-Modul 01: *Firm and Kind Positive Discipline Principles*)  
@@ -225,7 +225,7 @@ Penerapan prinsip disiplin positif Form PDP ini menghadirkan keunggulan peradaba
 
 1. **Melahirkan Generasi Santri yang Memiliki Regulasi Diri Mandiri Sejati (*Self-Governing Individuals*)**: Santri beradab bukan karena takut dihukum, melainkan karena kesadaran cinta kepada Allah dan penghormatan kepada sesama.
 2. **Memutus Mata Rantai Kekerasan dan Perundungan Turun-Temurun di Pesantren**: Keteladanan musyrif yang tegas dan hangat menjadi model sosial (*Social Modeling*) bagi santri senior dalam memperlakukan adik kelas.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wasiat Sayyidina Umar RA dan Teori Pengasuhan Modern**: Mengukuhkan pesantren TUMBUH sebagai pelopor tata kelola disiplin berasrama paling manusiawi dan bermartabat di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wasiat Sayyidina Umar RA dan Teori Pengasuhan Modern**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pelopor tata kelola disiplin berasrama paling manusiawi dan bermartabat di dunia Islam.[^5]
 
 ---
 
@@ -233,7 +233,7 @@ Penerapan prinsip disiplin positif Form PDP ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-01-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-01-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -300,8 +300,8 @@ flowchart TD
 [^1]: Tipologi Authoritative Parenting Diana Baumrind mengenai keseimbangan antara kehangatan responsif dan ketegasan standar, Baumrind (1966, hlm. 890 & 1991, hlm. 60).  
 [^2]: Kerangka kerja Positive Discipline Jane Nelsen mengenai prinsip Firm and Kind dan perbaikan perilaku berbasis solusi, Nelsen (2006, hlm. 24).  
 [^3]: Al-Ghazali, *Ayyuhal Walad* (2015, hlm. 48), bab adab memberikan nasihat dengan kelembutan dan bahaya membentak santri di hadapan kawan-kawannya.  
-[^4]: Protokol penanganan de-eskalasi emosi santri berbasis prinsip Firm and Kind Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan prinsip disiplin positif Firm and Kind di Pesantren TUMBUH (2026).  
+[^4]: Protokol penanganan de-eskalasi emosi santri berbasis prinsip Firm and Kind Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan prinsip disiplin positif Firm and Kind di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

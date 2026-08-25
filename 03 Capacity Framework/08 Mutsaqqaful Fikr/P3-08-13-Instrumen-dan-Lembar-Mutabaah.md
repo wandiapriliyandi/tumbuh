@@ -305,7 +305,7 @@ Kodifikasi paket instrumen Mutsaqqaful Fikr menghadirkan tata kelola kelembagaan
 [^2]: Pembahasan kelemahan ketiadaan logbook refleksi metakognisi mandiri pada pelajar remaja, Paul & Elder (2019, hlm. 82).  
 [^3]: Diriwayatkan oleh Imam Ad-Darimi dalam *Sunan Ad-Darimi* (No. 504) dan Al-Hakim dalam *Al-Mustadrak* (Jilid 1, hlm. 106).  
 [^4]: Protokol audit lembar mutaba'ah literasi palsu dan restorasi kejujuran akademik, Sugai & Horner (2020, hlm. 210).  
-[^5]: Standarisasi operasional instrumen evaluasi riset santri TUMBUH Pesantren (2026).  
+[^5]: Standarisasi operasional instrumen evaluasi riset santri dalam sistem TUMBUH Pesantren (2026).  
 [^6]: Dampak kelembagaan penerapan tata kelola portofolio riset digital TUMBUH (2026).  
 
 ---

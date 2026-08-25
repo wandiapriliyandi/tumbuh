@@ -190,7 +190,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem informasi pembinaan perilaku pesantren yang mengkodifikasikan pencatatan insiden kritis ke dalam tagging digital real-time (*Fast-Tap PBIS Logging*) dengan rasio apresiasi positif lebih dominan dibanding penanganan korektif (rasio 4:1) niscaya membangun iklim budaya Bi'ah Shalihah yang membahagiakan dan memotivasi peserta didik.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Modul Shahihul Ibadah TUMBUH menetapkan kamus 10 kode tagging PBIS terstandarisasi untuk dashboard mobile musyrif 24 jam.
-* **Konklusi (*an-Natijah*)**: Maka, pengelolaan data ibadah santri di pesantren TUMBUH berlangsung secara transparan, berbasis bukti, dan mendidik jiwa.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, pengelolaan data ibadah santri dalam sistem TUMBUH di pesantren berlangsung secara transparan, berbasis bukti, dan mendidik jiwa.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Fast-Tap Logging (<10 Detik): Efisiensi Kerja Musyrif
 * **Pihak A (Sudut Pandang Menulis Buku Catatan Tebal yang Melelahkan)**:  
@@ -331,7 +331,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-07: RUBRIK INDIKATOR PERILAKU 4 LEVEL SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-07: RUBRIK INDIKATOR PERILAKU 4 LEVEL SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -399,7 +399,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Psikometri Rubrik Karakter Pesantren TUMBUH, *Kritik atas Bias Halo Effect Penilaian Ibadah*, 2026.  
+[^1]: Riset Evaluasi Psikometri Rubrik Karakter Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Bias Halo Effect Penilaian Ibadah*, 2026.  
 [^2]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid 6, Penafsiran Surah Fathir Ayat 32, hlm. 540–548.  
 [^3]: QS. Fathir [35]: 32.  
 [^4]: Matan *Tafsir Ibnu Katsir*, Jilid 6, hlm. 542.  
@@ -412,10 +412,10 @@ flowchart TD
 [^11]: Standar Operasional Prosedur Pelatihan Kalibrasi Penilai Musyrif Asrama TUMBUH, 2026.  
 [^12]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^13]: Nielsen, J., & Budiu, R. (2013), *Mobile Usability*, hlm. 40–68.  
-[^14]: Blueprint Implementasi SW-PBIS Rasio Emas Apresiasi Asrama Pesantren TUMBUH, 2026.  
+[^14]: Blueprint Implementasi SW-PBIS Rasio Emas Apresiasi Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^15]: Standar Operasional Keamanan Data & Etika Kerahasiaan Nilai Logbook PBIS TUMBUH, 2026.  
 [^16]: Dokumentasi Kasus Rekonsiliasi Penilaian Karakter Santri Berbasis Bukti Logbook BARS TUMBUH, 2026.  
-[^17]: Dokumentasi Kasuistika Bimbingan Konseling & Audit Anomali Tagging Musyrif TUMBUH, 2026.
+[^17]: Dokumentasi Kasuistika Bimbingan Konseling & Audit Anomali Tagging Musyrif dalam sistem TUMBUH, 2026.
 
 ---
 

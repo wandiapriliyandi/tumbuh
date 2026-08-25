@@ -257,7 +257,7 @@ Sintesis falsafah kepemimpinan ini menegaskan arah masa depan kepemimpinan Islam
 [^9]: Fiqh al-Kafa'ah asy-Syar'iyyah dan Perlindungan Aset Wakaf Umat TUMBUH, 2026.  
 [^10]: Protokol Majelis Ishlah Syura dan Mediasi IBR Asatidz TUMBUH, 2026.  
 [^11]: Matriks Tingkatan Kesadaran Sintesis Kepemimpinan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^12]: Standar Audit Mutu Kepemimpinan Tahunan dan Akuntabilitas Tata Kelola Pesantren TUMBUH, 2026.  
+[^12]: Standar Audit Mutu Kepemimpinan Tahunan dan Akuntabilitas Tata Kelola Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^13]: Deklarasi Peradaban Kepemimpinan Profetik Khidmah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

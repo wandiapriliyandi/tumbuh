@@ -183,7 +183,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap standarisasi tata kelola pendidikan karakter yang memadukan instrumen kendali mandiri santri, rekam jejak observasi pendidik, dan formulir penanganan krisis khusus yang terenkripsi niscaya menciptakan sistem penjaminan mutu adab yang komprehensif, akuntabel, dan melindungi hak-hak privasi peserta didik.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Repositori kapasitas TUMBUH menyediakan cetak biru empat instrumen baku Salimul Aqidah yang terintegrasi secara modular.
-* **Konklusi (*an-Natijah*)**: Maka, operasional pengasuhan pesantren TUMBUH memiliki instrumen asesmen dan pembinaan yang terstandarisasi secara profesional.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, operasional pengasuhan ekosistem pesantren berbasis TUMBUH memiliki instrumen asesmen dan pembinaan yang terstandarisasi secara profesional.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Integrasi Kartu Fisik Saku vs Aplikasi Mobile Digital
 * **Pihak A (Sudut Pandang Larangan Total Kertas atau Larangan Total Digital)**:  
@@ -357,7 +357,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-13: INSTRUMEN DAN LEMBAR MUTABAAH SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-13: INSTRUMEN DAN LEMBAR MUTABAAH SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -425,7 +425,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Instrumen Mutaba'ah Pesantren TUMBUH, *Kritik atas Fenomena False-Check Syndrome*, 2026.  
+[^1]: Riset Evaluasi Instrumen Mutaba'ah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fenomena False-Check Syndrome*, 2026.  
 [^2]: Al-Muhasibi, *Risalah al-Mustarsyidin*, Tahqiq Syaikh Abdulfattah Abu Ghuddah, hlm. 68–95.  
 [^3]: Matan *Risalah al-Mustarsyidin*, hlm. 72.  
 [^4]: QS. Al-Hasyr [59]: 18.  

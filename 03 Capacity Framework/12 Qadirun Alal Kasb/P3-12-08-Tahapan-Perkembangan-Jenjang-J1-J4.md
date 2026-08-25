@@ -1,5 +1,5 @@
 # P3-12-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Trajektori Perkembangan Kematangan Finansial & Jiwa Kewirausahaan Usia 12–18 Tahun, Integrasi Fiqh Ar-Rusyd (Kedewasaan Mengelola Harta & Uji Kelayakan Bisnis QS. An-Nisa: 6) dengan Teori Perkembangan Identitas Vokasi & Kognisi Pengambilan Keputusan Ekonomi Remaja, Serta Desain Protokol Transisi Kenaikan Jenjang (Venture Readiness Check) di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Perkembangan Kematangan Finansial & Jiwa Kewirausahaan Usia 12–18 Tahun, Integrasi Fiqh Ar-Rusyd (Kedewasaan Mengelola Harta & Uji Kelayakan Bisnis QS. An-Nisa: 6) dengan Teori Perkembangan Identitas Vokasi & Kognisi Pengambilan Keputusan Ekonomi Remaja, Serta Desain Protokol Transisi Kenaikan Jenjang (Venture Readiness Check) di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-08/MONOGRAF-RISET-TAHAPAN-PERKEMBANGAN-J1-J4-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 08: *Developmental Trajectory J1–J4*)  
@@ -213,7 +213,7 @@ Penerapan trajektori perkembangan jenjang J1–J4 menghadirkan lompatan kematang
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -1,5 +1,5 @@
 # P6-10-01: SOP MANAJEMEN KASUS KHUSUS TIER 3
-## *Monograf Riset Akademik: Standarisasi Manajemen Kasus Intensif Individual, Pembentukan Tim Multidisiplin Pengasuhan, dan Perancangan Rencana Intervensi Perilaku Komprehensif (Intensive Individualized Case Management SOP, Multi-Disciplinary Care Teams MDT, & Tier 3 Behavior Intervention Plans BIP / Form MKK-Tier3), Integrasi Doktrin 'Ri'āyatun Nuwāzili wal Hawāditsil Khāshshah' Turats Klasik dengan Eber & Sugai's Tier 3 Wraparound Case Management, Serta Penyelamatan Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Manajemen Kasus Intensif Individual, Pembentukan Tim Multidisiplin Pengasuhan, dan Perancangan Rencana Intervensi Perilaku Komprehensif (Intensive Individualized Case Management SOP, Multi-Disciplinary Care Teams MDT, & Tier 3 Behavior Intervention Plans BIP / Form MKK-Tier3), Integrasi Doktrin 'Ri'āyatun Nuwāzili wal Hawāditsil Khāshshah' Turats Klasik dengan Eber & Sugai's Tier 3 Wraparound Case Management, Serta Penyelamatan Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-10-01/MONOGRAF-RISET-MANAJEMEN-KASUS-TIER3/2026`  
 **Domain**: `06 Intervention Framework` > `10 Case Management` (Sub-Modul 01: *Intensive Individualized Case Management SOP & Multi-Disciplinary Care Teams*)  
@@ -215,7 +215,7 @@ Penerapan SOP Manajemen Kasus Tier 3 Form MKK ini menghadirkan keunggulan perada
 
 1. **Melenyapkan Budaya Cuci Tangan dan Pengusiran Santri Sembarangan (*Eradication of Expulsion Default*)**: Menegakkan amanah syariat bahwa setiap jiwa santri berhak mendapatkan penyelamatan dan pendidikan terbaik.
 2. **Membangun Standar Profesionalitas Layanan Konseling Pesantren Kelas Dunia (*World-Class Clinical Standards*)**: Menyatukan keahlian medis, psikologis, sosial, dan agama dalam satu payung pembinaan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ri'āyatun Nawāzil dan Wraparound Case Management**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem penyelamatan santri paling komprehensif di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ri'āyatun Nawāzil dan Wraparound Case Management**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem penyelamatan santri paling komprehensif di dunia.[^5]
 
 ---
 
@@ -223,7 +223,7 @@ Penerapan SOP Manajemen Kasus Tier 3 Form MKK ini menghadirkan keunggulan perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-10-01: SOP MANAJEMEN KASUS KHUSUS TIER 3** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-10-01: SOP MANAJEMEN KASUS KHUSUS TIER 3** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Kerangka kerja Wraparound Case Management Lucille Eber dalam sistem intervensi intensif PBIS Tier 3, Eber et al. (2008, hlm. 174 & 2011, hlm. 24).  
 [^2]: Model Behavioral Intervention Plan (BIP) berbasis Functional Behavior Assessment, Walker et al. (2004, hlm. 436).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat fi Ushulisy Syari'ah* (2004, Jilid 3, hlm. 288), bab pertimbangan maqashid syari'ah dalam menangani kasus-kasus khusus dan larangan membinasakan peserta didik.  
-[^4]: SOP pelaksanaan manajemen kasus Tier 3 dan penyelamatan santri krisis Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP manajemen kasus khusus Tier 3 di Pesantren TUMBUH (2026).  
+[^4]: SOP pelaksanaan manajemen kasus Tier 3 dan penyelamatan santri krisis Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP manajemen kasus khusus Tier 3 di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

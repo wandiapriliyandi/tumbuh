@@ -200,7 +200,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-04: PETA RESONANSI SISTEMIK DAN EFEK DOMINO KARAKTER SANTRI DI ASRAMA** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-04: PETA RESONANSI SISTEMIK DAN EFEK DOMINO KARAKTER SANTRI DI ASRAMA** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -272,7 +272,7 @@ flowchart TD
 [^5]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Adab al-Ulfah wal Ukhuwwah*, jilid 2, hlm. 180–210.  
 [^6]: Sterman, J. D. (2000), *Business Dynamics*, McGraw-Hill, hlm. 190–230.  
 [^7]: Barabási, A. L. (2002), *Linked: The New Science of Networks*, Perseus, hlm. 55–80.  
-[^8]: Laporan Studi Simulasi Efek Domino Perilaku Kamar Asrama Pesantren TUMBUH, 2026.  
+[^8]: Laporan Studi Simulasi Efek Domino Perilaku Kamar Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^9]: Matriks Analisis Resonansi Antar-Karakter Santri, Dewan Asesmen TUMBUH, 2026.  
 [^10]: Panduan Protokol Early Warning System PBIS Asrama, Divisi Pengasuhan TUMBUH, 2026.
 

@@ -226,7 +226,7 @@ Sistem triangulasi Mujahadatun Linafsih menjamin perlindungan mental santri seca
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-09-09: PEMETAAN ASESMEN DAN TRIANGULASI MUJAHADATUN LINAFSIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-09-09: PEMETAAN ASESMEN DAN TRIANGULASI MUJAHADATUN LINAFSIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -294,8 +294,8 @@ flowchart TD
 [^2]: Pembahasan kegagalan deteksi perundungan relasional tersembunyi pada asrama remaja, Nelsen (2006, hlm. 102).  
 [^3]: Diriwayatkan oleh Al-Mubarrad dalam *Al-Kamil fil Lughah wal Adab* (1997, Jilid 1, hlm. 142) dari Amirul Mukminin Umar bin Khattab RA.  
 [^4]: Protokol resolusi restoratif kasus pengucilan sosial santri kamar berbasis sosiometri, Moreno (1953, hlm. 88).  
-[^5]: Spesifikasi algoritma Early Warning System (EWS) afektif santri TUMBUH (2026).  
-[^6]: Penjaminan mutu perlindungan anak dan kesejahteraan mental santri TUMBUH Pesantren (2026).  
+[^5]: Spesifikasi algoritma Early Warning System (EWS) afektif santri dalam sistem TUMBUH (2026).  
+[^6]: Penjaminan mutu perlindungan anak dan kesejahteraan mental santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

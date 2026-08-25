@@ -196,7 +196,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan ekosistem pendidikan asrama 24 jam yang menyelaraskan indikator perilaku di empat lokus fisik dengan empat program unggulan terstruktur niscaya menciptakan pembiasaan karakter yang konsisten, tanpa ada celah ruang atau waktu yang kosong dari pembinaan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Naskah Induk Shahihul Ibadah TUMBUH memetakan seluruh aktivitas santri dari bangun fajar hingga tidur malam ke dalam matriks ekosistem pembiasaan terpadu.
-* **Konklusi (*an-Natijah*)**: Maka, seluruh warga pesantren TUMBUH hidup dalam lingkungan Bi'ah Shalihah yang menjaga dan menyuburkan fitrah ibadah sepanjang waktu.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, seluruh warga ekosistem pesantren berbasis TUMBUH hidup dalam lingkungan Bi'ah Shalihah yang menjaga dan menyuburkan fitrah ibadah sepanjang waktu.[^12]
 
 #### 1. Diskursus Dialektika Kritis: The 10-Minute Call Bebas Ketergesaan (No-Rush Protocol)
 * **Pihak A (Sudut Pandang Menolak Aturan 10 Menit Sebelum Adzan)**:  
@@ -259,7 +259,7 @@ flowchart TD
 > * **Kamus Kasus 2: Santri Alumni Menjaga Malakah Ibadah di Kampus Kedokteran Umum**  
 >   * **Dilema**: Wali santri khawatir putranya yang kuliah di fakultas kedokteran umum akan meninggalkan shalat berjamaah karena padatnya jadwal praktikum laboratorium.
 >   * **Akar Masalah**: Kecemasan akan pudarnya kebiasaan ibadah di lingkungan sekuler luar pondok.
->   * **Titik Temu Konsensus**: Hasil pelacakan alumni (*Tracer Study*) membuktikan: Berkat internalisasi Tangga J4 (Malakah Ibadah Otonom), alumni TUMBUH menjadi inisiator musholla di fakultasnya, senantiasa shalat tepat waktu di sela praktikum, dan istiqamah qiyamul lail. Malakah ibadah bertahan kokoh sepanjang hayat.
+>   * **Titik Temu Konsensus**: Hasil pelacakan alumni (*Tracer Study*) membuktikan: Berkat internalisasi Tangga J4 (Malakah Ibadah Otonom), alumni binaan sistem TUMBUH menjadi inisiator musholla di fakultasnya, senantiasa shalat tepat waktu di sela praktikum, dan istiqamah qiyamul lail. Malakah ibadah bertahan kokoh sepanjang hayat.
 >
 > * **Kamus Kasus 3: Harmonisasi Mazhab Shalat Tarawih Antara 11 dan 23 Rakaat**  
 >   * **Dilema**: Terjadi perdebatan sengit antar-santri saat bulan Ramadhan mengenai jumlah rakaat shalat tarawih (11 rakaat vs 23 rakaat).
@@ -346,7 +346,7 @@ PASAL 3: SISTEM DUKUNGAN TIER 2 CHECK-IN / CHECK-OUT (CICO) FAJAR
 
 PASAL 4: SERTIFIKASI KOMPETENSI IMAMAH & KELULUSAN
 (1) Santri Jenjang J4 wajib lulus Uji Sertifikasi Standar Kompetensi Imamah (OSCE) 
-    sebelum dinyatakan lulus dari jenjang pendidikan pesantren TUMBUH.
+    sebelum dinyatakan lulus dari jenjang pendidikan ekosistem pesantren berbasis TUMBUH.
 =============================================================================
 ```
 
@@ -387,7 +387,7 @@ PASAL 4: SERTIFIKASI KOMPETENSI IMAMAH & KELULUSAN
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Doktrin Induk Karakter Pesantren TUMBUH, *Kritik atas Formalisme Kering Ibadah dan Reduksionisme Disiplin*, 2026.  
+[^1]: Riset Doktrin Induk Karakter Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Formalisme Kering Ibadah dan Reduksionisme Disiplin*, 2026.  
 [^2]: Ibnul Qayyim al-Jauziyyah, *Madarijus Salikin*, Jilid 1, Manzilah *Iyyaka Na'budu*, hlm. 85–120.  
 [^3]: QS. Al-An'am [6]: 162–163.  
 [^4]: Matan *Madarijus Salikin*, Jilid 1, hlm. 94.  
@@ -397,13 +397,13 @@ PASAL 4: SERTIFIKASI KOMPETENSI IMAMAH & KELULUSAN
 [^8]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85; CASEL Framework (2020).  
 [^9]: Posner, M. I. (2012), *Attention in Social Systems*, hlm. 45–70.  
 [^10]: Smith, P. C., & Kendall, L. M. (1963), *Journal of Applied Psychology*, hlm. 149–155; Campbell & Fiske (1959).  
-[^11]: Blueprint Disiplin Restoratif Firm & Kind Asrama Pesantren TUMBUH, 2026.  
+[^11]: Blueprint Disiplin Restoratif Firm & Kind Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^12]: Dokumen Arsitektur Ekosistem Pembiasaan Ibadah 24 Jam PBIS TUMBUH, 2026.  
 [^13]: Petunjuk Teknis Protokol The 10-Minute Call Masjid Asrama TUMBUH, 2026.  
 [^14]: Standar Operasional Manajemen Waktu Halaqah ODOJ TUMBUH, 2026.  
 [^15]: Standar Sertifikasi Kompetensi Imamah & Khutbah Jumat Jenjang J4 TUMBUH, 2026.  
 [^16]: Dokumentasi Kasus Resolusi Klinis Transformasi Santri Masbuq Kronis Menjadi Muadzin Berprestasi TUMBUH, 2026.  
-[^17]: Dokumentasi Tracer Study Keberlanjutan Malakah Ibadah Santri Alumni TUMBUH di Perguruan Tinggi, 2026.
+[^17]: Dokumentasi Tracer Study Keberlanjutan Malakah Ibadah Santri Alumni binaan sistem TUMBUH di Perguruan Tinggi, 2026.
 
 ---
 

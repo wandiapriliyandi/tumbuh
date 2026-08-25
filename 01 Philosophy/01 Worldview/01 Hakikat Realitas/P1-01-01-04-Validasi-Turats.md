@@ -207,7 +207,7 @@ Validasi Turats Klasik terhadap Enam Aksioma Realitas memberikan kontribusi keil
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-01-04: VALIDASI TURATS KLASIK AKSIOMA REALITAS (GENEALOGI SANAD ONTOLOGI ISLAM)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-01-04: VALIDASI TURATS KLASIK AKSIOMA REALITAS (GENEALOGI SANAD ONTOLOGI ISLAM)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -275,12 +275,12 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Genealogi Epistemologi Turats Pesantren TUMBUH, *Kritik atas Reduksionisme Kitab Kuning*, 2026.  
+[^1]: Riset Genealogi Epistemologi Turats Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Kitab Kuning*, 2026.  
 [^2]: An-Nasafi, *Matn al-'Aqa'id an-Nasafiyyah*, hlm. 12–18.  
 [^3]: Ibnu 'Athaillah As-Sakandari, *Al-Hikam al-'Atha'iyyah*, Hikmah No. 2, hlm. 14.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs*, hlm. 60–85.  
 [^5]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 35–60.  
-[^6]: Dokumentasi Resolusi Klinis Distorsi Pemahaman Maqam Tajrid Santri TUMBUH, 2026.  
+[^6]: Dokumentasi Resolusi Klinis Distorsi Pemahaman Maqam Tajrid Santri dalam sistem TUMBUH, 2026.  
 [^7]: Matriks Tingkatan Kesadaran Adab Turats (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^8]: Standar Operasional Prosedur Sidang Islah Restoratif Syar'i PBIS TUMBUH, 2026.  
 [^9]: Al-Muhasibi, *Adab an-Nufus*, hlm. 40–68.  

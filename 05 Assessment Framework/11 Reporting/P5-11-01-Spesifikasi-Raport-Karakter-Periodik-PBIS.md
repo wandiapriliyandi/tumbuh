@@ -1,5 +1,5 @@
 # P5-11-01: SPESIFIKASI RAPOR KARAKTER PERIODIK PBIS (BUKU RAPOR 24 JAM)
-## *Monograf Riset Akademik: Standarisasi Desain dan Arsitektur Informasi Buku Rapor Karakter Komposit 24 Jam (Periodic PBIS Character Report Card Specifications / Form RKP-Master), Integrasi Doktrin 'Shahīfatur Ri'āyah wa Kitābul A'māl' Turats Klasik dengan Visual Data Dashboarding (Few), Standards-Based Progress Reporting, Serta Desain Rapor Holistik di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Desain dan Arsitektur Informasi Buku Rapor Karakter Komposit 24 Jam (Periodic PBIS Character Report Card Specifications / Form RKP-Master), Integrasi Doktrin 'Shahīfatur Ri'āyah wa Kitābul A'māl' Turats Klasik dengan Visual Data Dashboarding (Few), Standards-Based Progress Reporting, Serta Desain Rapor Holistik di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-11-01/MONOGRAF-RISET-SPESIFIKASI-RAPOR-KARAKTER/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 01: *Periodic PBIS Character Report Card Specifications*)  
@@ -220,7 +220,7 @@ Penerapan buku rapor karakter periodik Form RKP ini menghadirkan keunggulan pera
 
 1. **Mengakhiri Era Dikotomi Nilai Kognitif Kelas vs Kehidupan Nyata Santri**: Menyatukan seluruh spektrum tarbiyah Islam 24 jam ke dalam satu dokumen pelaporan yang berwibawa.
 2. **Mempererat Ikatan Emosional dan Spiritual Antara Pondok Pesantren dan Rumah**: Rapor menjadi media komunikasi yang membanggakan dan memperkuat kepercayaan masyarakat.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Shahīfatur Ri'āyah dan Desain Informasi Modern**: Mengukuhkan pesantren TUMBUH sebagai standar emas pelaporan pendidikan karakter di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Shahīfatur Ri'āyah dan Desain Informasi Modern**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai standar emas pelaporan pendidikan karakter di dunia Islam.[^5]
 
 ---
 
@@ -228,7 +228,7 @@ Penerapan buku rapor karakter periodik Form RKP ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-11-01: SPESIFIKASI RAPOR KARAKTER PERIODIK PBIS (BUKU RAPOR 24 JAM)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-11-01: SPESIFIKASI RAPOR KARAKTER PERIODIK PBIS (BUKU RAPOR 24 JAM)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -296,8 +296,8 @@ flowchart TD
 [^1]: Prinsip desain visual dashboard informasi Stephen Few mengenai efektivitas komunikasi data, Few (2006, hlm. 34).  
 [^2]: Model Standards-Based Report Cards Thomas Guskey dalam menyajikan laporan kemajuan formatif komprehensif, Guskey & Bailey (2010, hlm. 52).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 342), bab pentingnya lembaran catatan amal komprehensif dalam mengevaluasi santri.  
-[^4]: Protokol penyerahan buku rapor karakter periodik dan transformasi komunikasi wali santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan spesifikasi rapor karakter periodik PBIS di Pesantren TUMBUH (2026).  
+[^4]: Protokol penyerahan buku rapor karakter periodik dan transformasi komunikasi wali santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan spesifikasi rapor karakter periodik PBIS di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

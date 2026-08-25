@@ -1,5 +1,5 @@
 # P6-01-03: DEKLARASI ZERO CORPORAL PUNISHMENT DAN ANTI-FEODALISME
-## *Monograf Riset Akademik: Piagam Perlindungan Santri Mutlak dari Hukuman Fisik, Kekerasan Verbal, dan Kultur Feodalisme Senioritas (Declaration of Zero Corporal Punishment & Anti-Feudalism Charter / Form ZCP-Piagam), Integrasi Doktrin 'Tahrimuzh Zhulm wa Karamatul Insan' Turats Klasik dengan UN Convention on the Rights of the Child (UNCRC), Undang-Undang Perlindungan Anak (UU PA No. 35/2014), Serta Budaya Egaliter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Piagam Perlindungan Santri Mutlak dari Hukuman Fisik, Kekerasan Verbal, dan Kultur Feodalisme Senioritas (Declaration of Zero Corporal Punishment & Anti-Feudalism Charter / Form ZCP-Piagam), Integrasi Doktrin 'Tahrimuzh Zhulm wa Karamatul Insan' Turats Klasik dengan UN Convention on the Rights of the Child (UNCRC), Undang-Undang Perlindungan Anak (UU PA No. 35/2014), Serta Budaya Egaliter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-01-03/MONOGRAF-RISET-ZERO-CORPORAL-PUNISHMENT/2026`  
 **Domain**: `06 Intervention Framework` > `01 Intervention Philosophy` (Sub-Modul 03: *Zero Corporal Punishment & Anti-Feudalism Charter*)  
@@ -137,7 +137,7 @@ flowchart TD
   3. *Penegakan Sanksi Mutlak*:
      - Oknum musyrif dijatuhi sanksi **Pemecatan Langsung (Termination of Employment)** dalam waktu $<24\text{ Jam}$.
      - Pimpinan pesantren secara resmi mendatangi orang tua Santri M untuk meminta maaf dan menanggung seluruh biaya pendampingan psikologis.
-  4. *Deklarasi Publik*: Mudir mengumumkan di hadapan seluruh civitas bahwa kekerasan fisik adalah garis merah yang tidak akan pernah ditoleransi di Pesantren TUMBUH.
+  4. *Deklarasi Publik*: Mudir mengumumkan di hadapan seluruh civitas bahwa kekerasan fisik adalah garis merah yang tidak akan pernah ditoleransi di Ekosistem Pesantren Berbasis TUMBUH.
 * **Hasil**: Rasa aman santri pulih total; reputasi lembaga sebagai pesantren ramah anak dan bebas kekerasan terjaga kokoh.[^4]
 
 ---
@@ -201,11 +201,11 @@ DENGAN BERSUMPAH ATAS NAMA ALLAH SWT (DEMI ALLAH / WALLAHI), SAYA MENYATAKAN:
 2. Bersumpah TIDAK AKAN PERNAH melakukan kekerasan fisik (memukul, menampar, menjemur, push-up militer), 
    kekerasan verbal (membentak, memaki, menghina martabat), maupun membiarkan perpeloncoan senioritas.
 3. Bersedia DIKENAKAN SANKSI PEMECATAN TIDAK DENGAN HORMAT dan DIPROSES HUKUM SECARA PIDANA apabila saya 
-   terbukti melanggar satu pun klausul perlindungan anak yang tercantum dalam Piagam ZCP Pesantren TUMBUH.
+   terbukti melanggar satu pun klausul perlindungan anak yang tercantum dalam Piagam ZCP Ekosistem Pesantren Berbasis TUMBUH.
 4. Menjadikan diri saya sebagai benteng pelindung dan teladan Qudwah Hasanah yang menyayangi santri.
 ----------------------------------------------------------------------------------------------------
 Yang Menyatakan (Bermaterai Rp 10.000,-):                  Mengetahui,
-                                                          Mudir Pengasuhan Pesantren TUMBUH,
+                                                          Mudir Pengasuhan Ekosistem Pesantren Berbasis TUMBUH,
 
 
 ( _______________________________________ )               ( _______________________________________ )
@@ -228,7 +228,7 @@ Penerapan piagam anti-kekerasan Form ZCP ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-01-03: DEKLARASI ZERO CORPORAL PUNISHMENT DAN ANTI-FEODALISME** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-01-03: DEKLARASI ZERO CORPORAL PUNISHMENT DAN ANTI-FEODALISME** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Konvensi Hak-Hak Anak Perserikatan Bangsa-Bangsa (UNCRC Article 19) mengenai perlindungan mutlak anak dari segala bentuk kekerasan, United Nations (1989, hlm. 6).  
 [^2]: Kerangka hukum Undang-Undang Perlindungan Anak (UU No. 35 Tahun 2014) Republik Indonesia Pasal 54, Republik Indonesia (2014, hlm. 14).  
 [^3]: Ibnu Hazm, *Al-Muhalla bil Atsar* (2003, Jilid 11, hlm. 142), bab keharaman memukul penuntut ilmu dan kesucian raga seorang muslim.  
-[^4]: Protokol penegakan sanksi zero corporal punishment dan investigasi kekerasan Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan deklarasi zero corporal punishment di Pesantren TUMBUH (2026).  
+[^4]: Protokol penegakan sanksi zero corporal punishment dan investigasi kekerasan Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan deklarasi zero corporal punishment di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

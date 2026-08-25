@@ -1,5 +1,5 @@
 # P5-06-03: INSTRUMEN EVALUASI DIRI TANGGA TUMBUH (FORM EDT-TUMBUH)
-## *Monograf Riset Akademik: Standardisasi Rubrik Penilaian Mandiri Berdasarkan Tangga Kemandirian Jenjang J1–J4 (TUMBUH Self-Evaluation Ladder Instrument / Form EDT-TUMBUH), Integrasi Doktrin 'Marātibul 'Ubūdiyyah wa Darajātul Kamāl' Turats Klasik dengan Dreyfus Model of Skill Acquisition & Rubric-Referenced Self-Assessment, Serta Desain Peta Radar Pertumbuhan Diri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Rubrik Penilaian Mandiri Berdasarkan Tangga Kemandirian Jenjang J1–J4 (TUMBUH Self-Evaluation Ladder Instrument / Form EDT-TUMBUH), Integrasi Doktrin 'Marātibul 'Ubūdiyyah wa Darajātul Kamāl' Turats Klasik dengan Dreyfus Model of Skill Acquisition & Rubric-Referenced Self-Assessment, Serta Desain Peta Radar Pertumbuhan Diri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-06-03/MONOGRAF-RISET-INSTRUMEN-EVALUASI-DIRI-TANGGA/2026`  
 **Domain**: `05 Assessment Framework` > `06 Self Assessment` (Sub-Modul 03: *TUMBUH Progression Ladder Self-Evaluation Instrument*)  
@@ -223,7 +223,7 @@ Penerapan instrumen evaluasi diri tangga TUMBUH ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-06-03: INSTRUMEN EVALUASI DIRI TANGGA TUMBUH (FORM EDT-TUMBUH)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-06-03: INSTRUMEN EVALUASI DIRI TANGGA TUMBUH (FORM EDT-TUMBUH)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan asesmen diri tanpa rubrik acuan kriteria yang menurunkan akurasi evaluasi diri, Andrade (2010, hlm. 94).  
 [^2]: Model Dreyfus mengenai akuisisi kemahiran bertahap dari pemula menuju pakar, Dreyfus & Dreyfus (1986, hlm. 28).  
 [^3]: Al-Harawi, *Manazilus Sa'irin* (1988, hlm. 14), mukaddimah tentang urgensi mengenali derajat kedudukan diri dalam pendakian ruhani.  
-[^4]: Protokol evaluasi tangga kemandirian dan aktivasi kepemimpinan khidmah santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan instrumen evaluasi diri tangga TUMBUH di Pesantren TUMBUH (2026).  
+[^4]: Protokol evaluasi tangga kemandirian dan aktivasi kepemimpinan khidmah santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan instrumen evaluasi diri tangga TUMBUH di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P6-08-03: PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT
-## *Monograf Riset Akademik: Standarisasi Akad Komitmen Perilaku Tertulis, Negosiasi Kontrak Kontingensi Bilateral, dan Monitoring Target Kematangan Santri (Behavioral Contingency Contracting, Bilateral Goal Setting, & Mu'āhadah Adab / Form PBC-Kontrak), Integrasi Doktrin 'Al-'Uhūd wal 'Uqūd wal Wafā' bil 'Ahd' Turats Klasik dengan Homme & Stuart's Contingency Contracting Theory, Goal-Setting Theory (Locke & Latham), Serta Akuntabilitas Diri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Akad Komitmen Perilaku Tertulis, Negosiasi Kontrak Kontingensi Bilateral, dan Monitoring Target Kematangan Santri (Behavioral Contingency Contracting, Bilateral Goal Setting, & Mu'āhadah Adab / Form PBC-Kontrak), Integrasi Doktrin 'Al-'Uhūd wal 'Uqūd wal Wafā' bil 'Ahd' Turats Klasik dengan Homme & Stuart's Contingency Contracting Theory, Goal-Setting Theory (Locke & Latham), Serta Akuntabilitas Diri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-08-03/MONOGRAF-RISET-BEHAVIORAL-CONTRACT/2026`  
 **Domain**: `06 Intervention Framework` > `08 Reinforcement` (Sub-Modul 03: *Behavioral Contingency Contracting & Bilateral Goal Setting*)  
@@ -220,7 +220,7 @@ Penerapan kontrak perilaku Form PBC ini menghadirkan keunggulan peradaban:
 
 1. **Mendidik Santri Menjadi Pribadi yang Menepati Janji dan Berintegritas Tinggi (*Covenantal Integrity*)**: Menumbuhkan kesadaran bahwa janji adalah hutang moral yang wajib ditunaikan.
 2. **Meningkatkan Efikasi Diri dan Regulasi Mandiri Santri (*Self-Regulated Behavior*)**: Santri mengendalikan perilakunya sendiri berdasarkan target yang ia sepakati.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Aufū bil 'Uqūd dan Contingency Contracting Theory**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan pembinaan kemandirian adab paling profesional di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Aufū bil 'Uqūd dan Contingency Contracting Theory**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan pembinaan kemandirian adab paling profesional di dunia.[^5]
 
 ---
 
@@ -228,7 +228,7 @@ Penerapan kontrak perilaku Form PBC ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-08-03: PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-08-03: PENYUSUNAN DAN MONITORING BEHAVIORAL CONTRACT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -296,8 +296,8 @@ flowchart TD
 [^1]: Teori Contingency Contracting Lloyd Homme dan Richard Stuart dalam modifikasi perilaku kolaboratif, Homme et al. (1969, hlm. 12) & Stuart (1971, hlm. 3).  
 [^2]: Goal-Setting Theory Edwin Locke dan Gary Latham mengenai efektivitas target SMART dalam pencapaian kinerja, Locke & Latham (1990, hlm. 68 & 2013, hlm. 24).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 4, hlm. 388), bab maqam al-mu'ahadah dalam menetapkan syarat komitmen pembinaan jiwa bersama sang guru.  
-[^4]: Protokol kontrak perilaku bilateral dan resolusi keterlambatan santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan penyusunan dan monitoring behavioral contract di Pesantren TUMBUH (2026).  
+[^4]: Protokol kontrak perilaku bilateral dan resolusi keterlambatan santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan penyusunan dan monitoring behavioral contract di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

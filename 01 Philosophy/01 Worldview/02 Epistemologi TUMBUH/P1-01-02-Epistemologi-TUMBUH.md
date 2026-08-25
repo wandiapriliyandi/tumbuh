@@ -278,7 +278,7 @@ Master Doktrin Epistemologi TUMBUH ini menjadi mercusuar bagi masa depan pendidi
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Master Doktrin Epistemologi Pesantren TUMBUH, *Kritik atas Fragmentasi Kognisi dan Krisis Arah Pendidikan*, 2026.  
+[^1]: Riset Master Doktrin Epistemologi Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fragmentasi Kognisi dan Krisis Arah Pendidikan*, 2026.  
 [^2]: Peta Integrasi Tujuh Sub-Modul Riset Kluster Epistemologi TUMBUH, 2026.  
 [^3]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 90–125; Sweller, J. (2011), *Cognitive Load Theory*, hlm. 35–62.  
 [^4]: Blueprint Standarisasi Siklus Pembelajaran dan Ritme 24 Jam Asrama TUMBUH, 2026.  
@@ -287,7 +287,7 @@ Master Doktrin Epistemologi TUMBUH ini menjadi mercusuar bagi masa depan pendidi
 [^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 30–65.  
 [^8]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^9]: Matriks Tingkatan Kesadaran Epistemologis Kluster (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^10]: Standar Operasional Prosedur Manajemen Ritme Sirkadian Pesantren TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Manajemen Ritme Sirkadian Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^11]: Piagam Etika Keilmuan dan Kebebasan Akademis Beradab Dewan Pakar TUMBUH, 2026.  
 [^12]: Deklarasi Transformasi Epistemologi Peradaban Islam Dewan Riset Ekosistem TUMBUH, 2026.
 

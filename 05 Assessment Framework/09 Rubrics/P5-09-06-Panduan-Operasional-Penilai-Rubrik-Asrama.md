@@ -1,5 +1,5 @@
 # P5-09-06: PANDUAN OPERASIONAL PENILAI RUBRIK ASRAMA (USER MANUAL RATER)
-## *Monograf Riset Akademik: Pedoman Teknis Operasional Penilai Rubrik Pembina Asrama dan Dewan Asatidz (Operational Guide & Frame-of-Reference Training for Raters / Form POP-Rater), Integrasi Doktrin 'Adābul Mu'allim fil Qadhā' wal Hikmah' Turats Klasik dengan Frame-of-Reference (FOR) Training, Rater Error Training (RET), & Mitigasi Bias Evaluator, Serta Standar Sertifikasi Rater di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Pedoman Teknis Operasional Penilai Rubrik Pembina Asrama dan Dewan Asatidz (Operational Guide & Frame-of-Reference Training for Raters / Form POP-Rater), Integrasi Doktrin 'Adābul Mu'allim fil Qadhā' wal Hikmah' Turats Klasik dengan Frame-of-Reference (FOR) Training, Rater Error Training (RET), & Mitigasi Bias Evaluator, Serta Standar Sertifikasi Rater di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-09-06/MONOGRAF-RISET-PANDUAN-OPERASIONAL-PENILAI-RUBRIK/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 06: *Operational Guide & Frame-of-Reference Manual for Raters*)  
@@ -219,7 +219,7 @@ Penerapan panduan operasional penilai Form POP ini menghadirkan keunggulan perad
 
 1. **Mewujudkan Budaya Evaluasi yang Berintegritas Tinggi dan Berkeadilan (*Integrity-Driven Assessment*)**: Menjamin tidak ada satu pun santri yang dirugikan oleh bias subjektif evaluator.
 2. **Meningkatkan Martabat Ilmiah dan Profesionalisme Seluruh Dewan Pendidik**: Setiap guru dan musyrif memiliki kualifikasi penilai karakter tersertifikasi yang diakui secara profesional.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Adābul Qadhā' dan Frame-of-Reference Training**: Mengukuhkan pesantren TUMBUH sebagai pionir tata kelola evaluasi karakter Islam terpercaya di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Adābul Qadhā' dan Frame-of-Reference Training**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pionir tata kelola evaluasi karakter Islam terpercaya di dunia.[^5]
 
 ---
 
@@ -227,7 +227,7 @@ Penerapan panduan operasional penilai Form POP ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-09-06: PANDUAN OPERASIONAL PENILAI RUBRIK ASRAMA (USER MANUAL RATER)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-09-06: PANDUAN OPERASIONAL PENILAI RUBRIK ASRAMA (USER MANUAL RATER)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,8 +294,8 @@ flowchart TD
 [^1]: Penelitian Bernardin & Buckley mengenai Frame-of-Reference (FOR) Training dalam mengeliminasi bias penilai, Bernardin & Buckley (1981, hlm. 208).  
 [^2]: Meta-analisis Woehr & Huffcutt mengenai efektivitas pelatihan rater dalam meningkatkan akurasi penilaian performa, Woehr & Huffcutt (1994, hlm. 192).  
 [^3]: Ibnul Qayyim Al-Jauziyyah, *I'lamul Muwaqqi'in* (1991, Jilid 1, hlm. 86), bab syarat hakim dan penilai harus memahami fakta nyata dan bebas dari hawa nafsu.  
-[^4]: Protokol pelatihan FOR dan sertifikasi kelayakan rater Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan panduan operasional penilai rubrik asrama di Pesantren TUMBUH (2026).  
+[^4]: Protokol pelatihan FOR dan sertifikasi kelayakan rater Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan panduan operasional penilai rubrik asrama di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

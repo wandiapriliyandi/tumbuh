@@ -27,7 +27,7 @@ Berikut adalah daftar lengkap 6 monograf riset akademik dalam gugus **`06 Gradua
 flowchart TD
     subgraph GugusGraduationStandards["STRUKTUR 6 MONOGRAF STANDAR KELULUSAN PARIPURNA"]
         subgraph PROFILTRANSKRIP["I. PROFIL LULUSAN & AMBANG BATAS MINIMAL"]
-            M01["[P4-06-01] Profil Kelulusan Paripurna Alumni TUMBUH<br/>• Insan Kamil Khadimul Ummah | Graduate Attributes & 4Cs Skills"]
+            M01["[P4-06-01] Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH<br/>• Insan Kamil Khadimul Ummah | Graduate Attributes & 4Cs Skills"]
             M02["[P4-06-02] Ambang Batas Kompetensi Minimal Kelulusan (ABKM)<br/>• 4 Ranah Mutlak: Ruhiyah, Kognitif, Karakter, & Khidmah Capstone"]
         end
 
@@ -49,7 +49,7 @@ flowchart TD
 
 ## 📚 DESKRIPSI RINGKAS 6 BERKAS MONOGRAF
 
-1. **[P4-06-01: Profil Kelulusan Paripurna Alumni TUMBUH](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/06%20Graduation%20Standards/P4-06-01-Profil-Kelulusan-Paripurna-Alumni-TUMBUH.md)**  
+1. **[P4-06-01: Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/06%20Graduation%20Standards/P4-06-01-Profil-Kelulusan-Paripurna-Alumni-TUMBUH.md)**  
    *Membahas dekonstruksi dan rekonstruksi profil kelulusan pesantren, integrasi doktrin Insan Kamil dengan Graduate Attributes dan 4Cs, 10 atribut kompetensi kunci, dan evaluasi transisi pasca-pesantren.*
 2. **[P4-06-02: Ambang Batas Kompetensi Minimal Kelulusan (ABKM)](file:///c:/xampp/htdocs/tumbuh/04%20Progression%20Framework/06%20Graduation%20Standards/P4-06-02-Ambang-Batas-Kompetensi-Minimal-Kelulusan.md)**  
    *Membahas penetapan batas lulus mutlak 4 ranah (Ruhiyah 7–10 Juz, Kognitif Rapor $\ge 80.0$, Afektif IKK $\ge 3.50$, Khidmah 210 Jam + Capstone), Criterion-Referenced Assessment Popham, dan sidang pleno yudisium kyai.*

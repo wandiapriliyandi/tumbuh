@@ -1,5 +1,5 @@
 # P8-02-03: KURIKULUM SOSIO-EMOSIONAL SANTRI REMAJA
-## *Monograf Riset Akademik: Standarisasi Desain Kurikulum Pembelajaran Sosio-Emosional (SEL) Santri Remaja Berbasis Kelompok Kecil, Metodologi Pelatihan Simulasi Peran (Role-Play Pedagogy), dan Ketahanan terhadap Tekanan Teman Sebaya (Small-Group Adolescent SEL Curriculum, Role-Play Simulation Methodology, & Peer Pressure Resistance / Form SEL-KurikulumRemaja), Integrasi Doktrin 'Adab ash-Shuhbah wal Mu'āwanah 'alal Birri wat Taqwā' Turats Klasik dengan Bandura Social Learning Theory, Steinberg Adolescent Brain Science, Serta Pencegahan Perundungan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Desain Kurikulum Pembelajaran Sosio-Emosional (SEL) Santri Remaja Berbasis Kelompok Kecil, Metodologi Pelatihan Simulasi Peran (Role-Play Pedagogy), dan Ketahanan terhadap Tekanan Teman Sebaya (Small-Group Adolescent SEL Curriculum, Role-Play Simulation Methodology, & Peer Pressure Resistance / Form SEL-KurikulumRemaja), Integrasi Doktrin 'Adab ash-Shuhbah wal Mu'āwanah 'alal Birri wat Taqwā' Turats Klasik dengan Bandura Social Learning Theory, Steinberg Adolescent Brain Science, Serta Pencegahan Perundungan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-02-03/MONOGRAF-RISET-KURIKULUM-SEL-REMAJA/2026`  
 **Domain**: `08 Integrated Approaches` > `02 SEL` (Sub-Modul 03: *Small-Group Adolescent SEL Curriculum & Peer Dynamics*)  
@@ -109,7 +109,7 @@ Penerapan kurikulum SEL berbasis simulasi peran dan kelompok kecil terbukti meni
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-02-03: KURIKULUM SOSIO-EMOSIONAL SANTRI REMAJA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-02-03: KURIKULUM SOSIO-EMOSIONAL SANTRI REMAJA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,5 +162,5 @@ flowchart TD
 
 [^1]: Steinberg mengenai perspektif neurosains sosial pada kerentanan pengambilan risiko dan konformitas remaja, Steinberg (2008, hlm. 82).
 [^2]: Albert Bandura mengenai Social Learning Theory dan tahapan observational learning melalui behavioral modeling, Bandura (1977, hlm. 22).
-[^3]: Studi kasus penerapan teknik penolakan asertif CLEAR menghindarkan santri dari penyimpangan Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan teknik penolakan asertif CLEAR menghindarkan santri dari penyimpangan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak kurikulum SEL terhadap transformasi iklim teman sebaya dari bystander pasif menjadi upstander aktif (2026).

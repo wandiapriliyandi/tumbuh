@@ -310,7 +310,7 @@ timeline
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-03: TUJUAN DAN TARGET CAPAIAN SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-03: TUJUAN DAN TARGET CAPAIAN SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -378,7 +378,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Diagnostik Target Capaian Karakter Pesantren TUMBUH, *Evaluasi Kesenjangan Nilai Rapor vs Integritas Nyata*, 2026.  
+[^1]: Riset Diagnostik Target Capaian Karakter Ekosistem Pesantren Berbasis TUMBUH, *Evaluasi Kesenjangan Nilai Rapor vs Integritas Nyata*, 2026.  
 [^2]: Ibnu Katsir, *Tafsir Al-Qur'an al-'Azhim*, Penafsiran Surah Luqman ayat 13–19, Jilid 6, hlm. 330–345.  
 [^3]: QS. Luqman [31]: 16.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 45–68.  
@@ -389,10 +389,10 @@ flowchart TD
 [^9]: Bandura, A. (1997), *Self-Efficacy: The Exercise of Control*, hlm. 115–140.  
 [^10]: Goodhart, C. A. E. (1984), *Monetary Theory and Practice*, hlm. 92–98.  
 [^11]: Horner & Sugai (2015), *School-wide PBIS Research Base*, hlm. 80–85.  
-[^12]: Riset Validasi Psikometri Perilaku Santri TUMBUH, 2026.  
+[^12]: Riset Validasi Psikometri Perilaku Santri dalam sistem TUMBUH, 2026.  
 [^13]: Frankl, V. E. (1984), *Man's Search for Meaning*, hlm. 110–125.  
 [^14]: Standar Tata Kelola Asrama Berbasis Triad Pertumbuhan Simbiotik, Biro Pengasuhan TUMBUH, 2026.  
-[^15]: Dokumentasi Restorasi Adab & Bimbingan Konseling Pesantren TUMBUH, 2026.  
+[^15]: Dokumentasi Restorasi Adab & Bimbingan Konseling Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^16]: Matriks Standar Capaian Jenjang Kemandirian TUMBUH (J1–J4) Salimul Aqidah, 2026.
 
 ---

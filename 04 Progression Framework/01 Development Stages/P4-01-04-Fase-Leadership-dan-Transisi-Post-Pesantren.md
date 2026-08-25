@@ -1,5 +1,5 @@
 # P4-01-04: FASE LEADERSHIP DAN TRANSISI POST-PESANTREN SANTRI
-## *Monograf Riset Akademik: Trajektori Kepemimpinan Pelayan (Servant Leadership), Kematangan Mandiri Usia 17–18 Tahun (Fase IV: Jenjang J4), Integrasi Doktrin Khilafah & Imarah fil Ardh dengan Emerging Adulthood Theory (Arnett) & Social-Emotional Readiness, Desain Capstone Civilizational Project, Serta Protokol Kesiapan Transisi Kampus/Masyarakat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Kepemimpinan Pelayan (Servant Leadership), Kematangan Mandiri Usia 17–18 Tahun (Fase IV: Jenjang J4), Integrasi Doktrin Khilafah & Imarah fil Ardh dengan Emerging Adulthood Theory (Arnett) & Social-Emotional Readiness, Desain Capstone Civilizational Project, Serta Protokol Kesiapan Transisi Kampus/Masyarakat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-01-04/MONOGRAF-RISET-FASE-LEADERSHIP-TRANSISI-POST-PESANTREN/2026`  
 **Domain**: `04 Progression Framework` > `01 Development Stages` (Sub-Modul 04: *Leadership & Post-Pesantren Transition Stage*)  
@@ -290,7 +290,7 @@ flowchart TD
 [^3]: HR. Abu Nu'aim dalam *Hilyatul Auliya' wa Thabaqatul Ashfiya'* (1988, Jilid 2, hlm. 147).  
 [^4]: Al-Mawardi, *Adab ad-Dunya wad-Din* (1987, hlm. 138).  
 [^5]: Protokol penanganan kecemasan transisi kampus dan bimbingan efikasi diri santri kelas akhir TUMBUH (2026).  
-[^6]: Dampak kelembagaan penerapan fase leadership dan kesiapan alumni TUMBUH Pesantren (2026).  
+[^6]: Dampak kelembagaan penerapan fase leadership dan kesiapan alumni binaan sistem TUMBUH Pesantren (2026).  
 
 ---
 
@@ -304,5 +304,5 @@ flowchart TD
 6. **Sheltered Environment Dependency**: Ketergantungan psikologis pada lingkungan yang serba diatur sehingga memicu kepanikan saat harus mengambil keputusan mandiri.
 7. **Transition Self-Efficacy**: Tingkat keyakinan diri santri atas kemampuannya beradaptasi, berprestasi, dan mempertahankan adab di bangku perguruan tinggi.
 8. **Sidang Munaqasyah Capstone**: Forum akademik terbuka di mana santri mempresentasikan hasil dan dampak nyata proyek pengabdian masyarakatnya di hadapan penguji.
-9. **Tracer Study Alumni TUMBUH**: Sistem pelacakan dan evaluasi berkelanjutan mengenai kiprah kepemimpinan dan kontribusi alumni di masyarakat luas.
-10. **Khadimul Peradaban Paripurna**: Gelar kehormatan spiritual bagi lulusan santri TUMBUH yang siap mengabdikan ilmu dan hidupnya demi kejayaan umat manusia.
+9. **Tracer Study Alumni binaan sistem TUMBUH**: Sistem pelacakan dan evaluasi berkelanjutan mengenai kiprah kepemimpinan dan kontribusi alumni di masyarakat luas.
+10. **Khadimul Peradaban Paripurna**: Gelar kehormatan spiritual bagi lulusan santri dalam sistem TUMBUH yang siap mengabdikan ilmu dan hidupnya demi kejayaan umat manusia.

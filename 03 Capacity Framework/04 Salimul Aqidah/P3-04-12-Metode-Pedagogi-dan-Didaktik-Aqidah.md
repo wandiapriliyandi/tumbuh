@@ -185,7 +185,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap ekosistem pembelajaran yang menyelaraskan stimulasi akal (*Nalar Burhani*), observasi indera (*Sains Kauniyah*), perenungan kalbu (*Muhasabah*), dan keteladanan fisik (*Qudwah*) niscaya melahirkan profil penuntut ilmu yang beradab lahir-batin dan kokoh dalam pendirian.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memadukan keempat metode tersebut dalam pembelajaran di kelas dan pengasuhan asrama 24 jam.
-* **Konklusi (*an-Natijah*)**: Maka, pembelajaran Salimul Aqidah di pesantren TUMBUH memiliki daya transformatif yang paripurna.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, pembelajaran Salimul Aqidah dalam sistem TUMBUH di pesantren memiliki daya transformatif yang paripurna.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Integrasi Pengajaran Kelas Madrasah dengan Kehidupan Asrama
 * **Pihak A (Sudut Pandang Dikotomi Guru Kelas vs Musyrif Asrama)**:  
@@ -321,7 +321,7 @@ timeline
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-12: METODE PEDAGOGI DAN DIDAKTIK AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-12: METODE PEDAGOGI DAN DIDAKTIK AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -389,7 +389,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Efektivitas Didaktik Pengajaran Aqidah Pesantren TUMBUH, *Evaluasi Keterbatasan Dogmatisme Rote-Learning*, 2026.  
+[^1]: Riset Efektivitas Didaktik Pengajaran Aqidah Ekosistem Pesantren Berbasis TUMBUH, *Evaluasi Keterbatasan Dogmatisme Rote-Learning*, 2026.  
 [^2]: Ibnu Sahnun, *Adab al-Mu'allimin*, Bab *Fi Riqat al-Mu'allim 'ala ash-Shibyan*, hlm. 28–45.  
 [^3]: QS. An-Nahl [16]: 125.  
 [^4]: Matan *Adab al-Mu'allimin*, hlm. 35.  
@@ -404,7 +404,7 @@ flowchart TD
 [^13]: Standar Pembelajaran Kontekstual Madrasah-Asrama PBIS TUMBUH, 2026.  
 [^14]: Silabus Pelatihan Pedagogi Sokratik Musyrif Asrama TUMBUH, 2026.  
 [^15]: Modul Didaktik Integrasi Kausalitas Sains & Takdir Ilahi TUMBUH, 2026.  
-[^16]: Dokumentasi Kasus Resolusi Pedagogis Pertanyaan Eksistensial Santri TUMBUH, 2026.  
+[^16]: Dokumentasi Kasus Resolusi Pedagogis Pertanyaan Eksistensial Santri dalam sistem TUMBUH, 2026.  
 [^17]: Dokumentasi Kasuistika Bimbingan Konseling & Keseimbangan Pedagogi Khauf-Raja' TUMBUH, 2026.
 
 ---

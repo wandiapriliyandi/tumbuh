@@ -240,7 +240,7 @@ Penerapan konseptualisasi Mujahadatun Linafsih membawa implikasi besar:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-09-02: DEFINISI DAN KONSEPTUALISASI MUJAHADATUN LINAFSIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-09-02: DEFINISI DAN KONSEPTUALISASI MUJAHADATUN LINAFSIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -311,7 +311,7 @@ flowchart TD
 [^4]: Eksperimen penundaan kepuasan (Delayed Gratification) dan kematangan regulasi diri Walter Mischel, Mischel (2014, hlm. 48).  
 [^5]: Protokol penanganan kepribadian pura-pura patuh dan restorasi integritas santri, Zehr (2015, hlm. 72).  
 [^6]: Matriks tipologi regulasi diri santri dalam sistem pemantauan analitik TUMBUH (2026).  
-[^7]: Standar penjaminan disiplin positif dan kesehatan mental santri TUMBUH Pesantren (2026).  
+[^7]: Standar penjaminan disiplin positif dan kesehatan mental santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

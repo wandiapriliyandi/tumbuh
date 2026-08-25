@@ -1,5 +1,5 @@
 # P6-06-05: INTEGRASI GROWTH MINDSET DAN TAWAKKUL RESILIENCE
-## *Monograf Riset Akademik: Standarisasi Pelatihan Pola Pikir Berkembang, Pembentukan Daya Lenting Spiritual-Kognitif, dan Transformasi Kegagalan Menjadi Tangga Kematangan (Growth Mindset Cultivation, Tawakkul-Based Spiritual Resilience, & Cognitive Reframing / Form GTR-Mindset), Integrasi Doktrin 'Al-I'timād 'alallāh ma'a Badzlis Sabab wa Husnudz-Dzann' Turats Klasik dengan Carol Dweck's Growth Mindset, Bandura's Self-Efficacy, Serta Daya Juang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Pelatihan Pola Pikir Berkembang, Pembentukan Daya Lenting Spiritual-Kognitif, dan Transformasi Kegagalan Menjadi Tangga Kematangan (Growth Mindset Cultivation, Tawakkul-Based Spiritual Resilience, & Cognitive Reframing / Form GTR-Mindset), Integrasi Doktrin 'Al-I'timād 'alallāh ma'a Badzlis Sabab wa Husnudz-Dzann' Turats Klasik dengan Carol Dweck's Growth Mindset, Bandura's Self-Efficacy, Serta Daya Juang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-06-05/MONOGRAF-RISET-GROWTH-MINDSET-TAWAKKUL/2026`  
 **Domain**: `06 Intervention Framework` > `06 Developmental Strategies` (Sub-Modul 05: *Growth Mindset Cultivation & Tawakkul-Based Spiritual Resilience*)  
@@ -217,7 +217,7 @@ Penerapan integrasi growth mindset Form GTR ini menghadirkan keunggulan peradaba
 
 1. **Mencetak Generasi Pejuang yang Memiliki Daya Lenting Baja (*High Spiritual Grit*)**: Santri tidak mudah tumbang oleh kegagalan, ujian hidup, atau tekanan akademik.
 2. **Menghilangkan Sindrom Ketakutan Berbuat Salah di Kelas (*Safe-to-Fail Culture*)**: Menciptakan iklim pembelajaran asrama yang berani mencoba dan kreatif berinovasi.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Hakīqatut Tawakkul dan Growth Mindset Theory**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan etos belajar terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Hakīqatut Tawakkul dan Growth Mindset Theory**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan etos belajar terbaik di dunia.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan integrasi growth mindset Form GTR ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-06-05: INTEGRASI GROWTH MINDSET DAN TAWAKKUL RESILIENCE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-06-05: INTEGRASI GROWTH MINDSET DAN TAWAKKUL RESILIENCE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -293,8 +293,8 @@ flowchart TD
 [^1]: Teori Growth Mindset Carol Dweck mengenai plastisitas kecerdasan dan kekuatan umpan balik proses, Dweck (2006, hlm. 16 & 2017, hlm. 19).  
 [^2]: Teori Self-Efficacy Albert Bandura mengenai pembentukan keyakinan efikasi diri santri dalam menaklukkan kesulitan, Bandura (1997, hlm. 36).  
 [^3]: Ibnu Rajab Al-Hanbali, *Jami'ul 'Ulum wal Hikam* (2008, hlm. 488), bab syarah hadits bersemangat meraih hal bermanfaat dan hakikat tawakkul aktif.  
-[^4]: Protokol The Power of Belum dan pembentukan resiliensi tahfizh Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan integrasi growth mindset dan tawakkul resilience di Pesantren TUMBUH (2026).  
+[^4]: Protokol The Power of Belum dan pembentukan resiliensi tahfizh Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan integrasi growth mindset dan tawakkul resilience di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

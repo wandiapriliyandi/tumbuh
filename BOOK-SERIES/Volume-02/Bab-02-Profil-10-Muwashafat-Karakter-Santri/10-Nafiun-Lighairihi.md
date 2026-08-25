@@ -101,7 +101,7 @@ Sebagai puncak penempaan sepuluh karakter, lembaga merancang program aksi:
 1. **Program Inkubasi Pengabdian Santri Akhir (*Tahun Khidmah*)**: Santri kelas akhir diwajibkan menjalani masa khidmah dakwah dan pelayanan sosial di pesantren cabang atau masyarakat pedalaman sebelum diwisuda.
 2. **Ekspedisi Sosial-Ekologis Berkah Desa**: Setiap liburan semester, santri diterjunkan ke desa-desa sekitar pondok untuk mengajar TPA gratis, merenovasi fasilitas umum desa, dan menyelenggarakan pengobatan gratis bersama tim Poskestren.
 
-Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri TUMBUH pada Bab 02 ini**, arsitektur kurikulum pembinaan karakter telah berdiri lengkap, utuh, dan operasional. Kita siap melangkah ke **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** untuk membedah dinamika biologis dan neurosains transisi usia 12–18 tahun santri.
+Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri dalam sistem TUMBUH pada Bab 02 ini**, arsitektur kurikulum pembinaan karakter telah berdiri lengkap, utuh, dan operasional. Kita siap melangkah ke **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** untuk membedah dinamika biologis dan neurosains transisi usia 12–18 tahun santri.
 
 ---
 

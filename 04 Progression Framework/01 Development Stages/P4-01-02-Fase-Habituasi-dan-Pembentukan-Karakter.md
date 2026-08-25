@@ -1,5 +1,5 @@
 # P4-01-02: FASE HABITUASI DAN PEMBENTUKAN KARAKTER SANTRI
-## *Monograf Riset Akademik: Trajektori Pembiasaan Ibadah, Disiplin Belajar, & Regulasi Diri Usia 13–14 Tahun (Fase II: Jenjang J2), Integrasi Fiqh I'tiyad & Riyadhah an-Nafs dengan Teori Pembentukan Kebiasaan (Dual-Process Habit Loop / Wood & Neal), Neurobiologi Pembentukan Sirkuit Basal Ganglia, Serta Rekayasa Lingkungan Bi'ah Shalihah 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Pembiasaan Ibadah, Disiplin Belajar, & Regulasi Diri Usia 13–14 Tahun (Fase II: Jenjang J2), Integrasi Fiqh I'tiyad & Riyadhah an-Nafs dengan Teori Pembentukan Kebiasaan (Dual-Process Habit Loop / Wood & Neal), Neurobiologi Pembentukan Sirkuit Basal Ganglia, Serta Rekayasa Lingkungan Bi'ah Shalihah 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-01-02/MONOGRAF-RISET-FASE-HABITUASI-PEMBENTUKAN-KARAKTER/2026`  
 **Domain**: `04 Progression Framework` > `01 Development Stages` (Sub-Modul 02: *Habituation & Character Formation Stage*)  

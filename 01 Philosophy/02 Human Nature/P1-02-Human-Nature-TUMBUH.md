@@ -255,10 +255,10 @@ Penerapan Master Doktrin Human Nature ini mengukuhkan kebangkitan peradaban Isla
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Master Doktrin Human Nature Pesantren TUMBUH, *Kritik atas Reduksionisme dan Kekerasan Pengasuhan*, 2026.  
+[^1]: Riset Master Doktrin Human Nature Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme dan Kekerasan Pengasuhan*, 2026.  
 [^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Human Nature TUMBUH, 2026.  
 [^3]: Blueprint Rekayasa Ekologi Pengasuhan Asrama 24 Jam TUMBUH, 2026.  
-[^4]: Piagam Sanctuary Bi'ah Shalihah dan Perlindungan Santri Pesantren TUMBUH, 2026.  
+[^4]: Piagam Sanctuary Bi'ah Shalihah dan Perlindungan Santri Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^5]: Dokumentasi Longitudinal Transformasi Iklim Positif Asrama PBIS TUMBUH, 2026.  
 [^6]: Ibnu Taimiyyah, *Dar'u Ta'arudh al-'Aql wan-Naql*, Jilid 8, hlm. 395–430.  
 [^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Syarh 'Aja'ib al-Qalb*, hlm. 15–45.  

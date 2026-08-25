@@ -69,7 +69,7 @@ Pakar pembelajaran teman sebaya internasional **Keith J. Topping**[^4] membuktik
 
 ---
 
-### Standar Baku Peran Kakak Asuh di Pesantren TUMBUH
+### Standar Baku Peran Kakak Asuh di Ekosistem Pesantren Berbasis TUMBUH
 
 Setiap santri senior Tahap 7 Penggerak yang ditunjuk sebagai Kakak Asuh menjalankan protokol:
 1. **Penyambutan Hangat (*Welcome Protocol*)**: Membantu membawakan koper santri baru di hari pertama, mengenalkan fasilitas asrama, dan mendoakan keberkahan menuntut ilmu.

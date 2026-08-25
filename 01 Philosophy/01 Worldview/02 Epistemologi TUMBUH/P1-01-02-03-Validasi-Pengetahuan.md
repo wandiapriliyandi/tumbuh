@@ -265,7 +265,7 @@ Penerapan protokol validasi epistemologis ini membawa dampak peradaban yang luas
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Validasi Epistemologis Pesantren TUMBUH, *Kritik atas Pengambilan Keputusan Berbasis Asumsi*, 2026.  
+[^1]: Riset Validasi Epistemologis Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Pengambilan Keputusan Berbasis Asumsi*, 2026.  
 [^2]: QS. Al-Hujurat [49]: 6.  
 [^3]: Ibnu ash-Shalah, *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits*, hlm. 15–35.  
 [^4]: Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Mantiq*, hlm. 45–70.  

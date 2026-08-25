@@ -1,5 +1,5 @@
 # P5-01-04: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI
-## *Monograf Riset Akademik: Protokol Etika Pengelolaan Data Karakter dan Psikososial Santri 24 Jam, Penjaminan Kerahasiaan Konseling BK & Rekam Jejak Perilaku, Integrasi Doktrin Hifzhul Amanah wa Sitril 'Urub Turats dengan Standar Perlindungan Data Internasional (FERPA & GDPR Compliance) dan Etika Psikologi (APA Code of Conduct), Serta Arsitektur Keamanan Akses Berjenjang (RBAC) di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Etika Pengelolaan Data Karakter dan Psikososial Santri 24 Jam, Penjaminan Kerahasiaan Konseling BK & Rekam Jejak Perilaku, Integrasi Doktrin Hifzhul Amanah wa Sitril 'Urub Turats dengan Standar Perlindungan Data Internasional (FERPA & GDPR Compliance) dan Etika Psikologi (APA Code of Conduct), Serta Arsitektur Keamanan Akses Berjenjang (RBAC) di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-01-04/MONOGRAF-RISET-ETIKA-KERAHASIAAN-DATA-ASESMEN/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 04: *Assessment Data Ethics & Confidentiality Protocol*)  
@@ -131,7 +131,7 @@ flowchart TD
 #### Studi Kasus Lapangan: Staf Magang Menceritakan Rahasia Keluarga Santri di Grup WhatsApp Asrama
 * **Konteks Masalah**: Seorang staf magang pembina asrama mengambil foto lembar catatan konseling BK Santri R (13 tahun, Jenjang J1) yang memuat riwayat perceraian orang tuanya, lalu membagikannya ke grup WhatsApp asrama dengan kalimat keprihatinan. Informasi tersebut bocor ke santri lain dan Santri R menjadi bahan ejekan kawan sekamarnya (*Severe Confidentiality Breach*). Santri R mogok makan dan menolak keluar kamar (*Acute Social Withdrawal*).
 * **Analisis Diagnostik**: Terjadi pelanggaran etik berat (*Professional Ethics Violation*) akibat ketiadaan pakta integritas kerahasiaan dan lemahnya sistem kontrol akses berkas fisik.
-* **Protokol Mitigasi Krisis Kerahasiaan & Pemulihan Santri TUMBUH**:
+* **Protokol Mitigasi Krisis Kerahasiaan & Pemulihan Santri dalam sistem TUMBUH**:
 
 ```mermaid
 flowchart TD
@@ -202,13 +202,13 @@ Unit Penugasan    : [ ] Musyrif Asrama   [ ] Konselor BK   [ ] Guru Madrasah   [
 
 Dengan ini bersumpah atas nama Allah SWT dan menandatangani komitmen integritas:
 1. Menjaga kerahasiaan mutlak seluruh data pribadi, riwayat konseling, catatan psikososial, dan rekam 
-   jejak medis santri yang saya ketahui selama menjalankan tugas di Pesantren TUMBUH.
+   jejak medis santri yang saya ketahui selama menjalankan tugas di Ekosistem Pesantren Berbasis TUMBUH.
 2. Tidak akan membicarakan, menyebarkan, memotret, atau membagikan data santri dalam bentuk apa pun di 
    luar forum resmi bimbingan klinis penanganan kasus.
 3. Bersedia diberhentikan secara tidak terhormat dan dituntut secara hukum pidana/perdata apabila terbukti 
    melakukan kelalaian atau kesengajaan yang menyebabkan kebocoran data privasi santri.
 
-Ditetapkan di: Pesantren TUMBUH Pusat, Pada Tanggal: ______________________________________________
+Ditetapkan di: Ekosistem Pesantren Berbasis TUMBUH Pusat, Pada Tanggal: ______________________________________________
 Pemberi Pernyataan (Bermaterai):                     Saksi (Ketua Tim Kepatuhan Etika):
 
 ________________________________________             ________________________________________
@@ -232,7 +232,7 @@ Penerapan protokol etika dan kerahasiaan data asesmen menghadirkan keunggulan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-01-04: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-01-04: ETIKA DAN KERAHASIAAN DATA ASESMEN SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -300,8 +300,8 @@ flowchart TD
 [^1]: Standar regulasi hak privasi dan perlindungan catatan pendidikan siswa, U.S. Department of Education (2020, hlm. 14).  
 [^2]: Kerangka kerja etika kerahasiaan dan batas pengungkapan data psikologis, American Psychological Association (2017, hlm. 7).  
 [^3]: HR. Abu Dawud dalam *Sunan Abi Dawud* (No. 4868), Kitab *Al-Adab*, bab amanah menjaga pembicaraan rahasia.  
-[^4]: Protokol penanganan kebocoran data privasi dan mitigasi krisis kerahasiaan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol etika dan kerahasiaan data asesmen di Pesantren TUMBUH (2026).  
+[^4]: Protokol penanganan kebocoran data privasi dan mitigasi krisis kerahasiaan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol etika dan kerahasiaan data asesmen di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

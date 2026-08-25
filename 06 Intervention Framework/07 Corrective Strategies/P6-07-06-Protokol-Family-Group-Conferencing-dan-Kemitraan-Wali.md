@@ -1,5 +1,5 @@
 # P6-07-06: PROTOKOL FAMILY GROUP CONFERENCING DAN KEMITRAAN WALI
-## *Monograf Riset Akademik: Standarisasi Musyawarah Keluarga Terpadu, Penyelarasan Pola Pengasuhan Rumah-Asrama, dan Kolaborasi Restoratif Berbasis Kemitraan Wali Santri (Family Group Conferencing FGC, Home-Dorm Behavioral Alignment, & Restorative Parenting Protocols / Form FGC-Kemitraan), Integrasi Doktrin 'Mas'ūliyyatur Ri'āyah wal Kaffālah al-Usariyyah' Turats Klasik dengan Connolly & Morris' Family Group Decision Making (FGDM), Family Systems Theory, Serta Kemitraan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Musyawarah Keluarga Terpadu, Penyelarasan Pola Pengasuhan Rumah-Asrama, dan Kolaborasi Restoratif Berbasis Kemitraan Wali Santri (Family Group Conferencing FGC, Home-Dorm Behavioral Alignment, & Restorative Parenting Protocols / Form FGC-Kemitraan), Integrasi Doktrin 'Mas'ūliyyatur Ri'āyah wal Kaffālah al-Usariyyah' Turats Klasik dengan Connolly & Morris' Family Group Decision Making (FGDM), Family Systems Theory, Serta Kemitraan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-07-06/MONOGRAF-RISET-FAMILY-GROUP-CONFERENCING/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 06: *Family Group Conferencing & Home-Dorm Behavioral Alignment*)  
@@ -209,7 +209,7 @@ Penerapan protokol Family Group Conferencing Form FGC ini menghadirkan keunggula
 
 1. **Membangun Jembatan Emas Pengasuhan Rumah-Pesantren (*Seamless Home-Dorm Continuity*)**: Memastikan karakter santri tidak luntur atau rusak saat pulang liburan ke rumah.
 2. **Menyembuhkan Luka Relasi Keluarga yang Retak (*Family Relational Healing*)**: Menjadikan pesantren sebagai sarana rekonsiliasi antara orang tua dan anak.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Mas'ūliyyatur Ri'āyah dan Family Group Decision Making**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan kemitraan keluarga paling solid di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Mas'ūliyyatur Ri'āyah dan Family Group Decision Making**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan kemitraan keluarga paling solid di dunia.[^5]
 
 ---
 
@@ -217,7 +217,7 @@ Penerapan protokol Family Group Conferencing Form FGC ini menghadirkan keunggula
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-07-06: PROTOKOL FAMILY GROUP CONFERENCING DAN KEMITRAAN WALI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-07-06: PROTOKOL FAMILY GROUP CONFERENCING DAN KEMITRAAN WALI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -284,8 +284,8 @@ flowchart TD
 [^1]: Model Family Group Decision Making (FGDM) Marie Connolly dan Peter Morris dalam pemberdayaan keluarga restoratif, Connolly & Morris (2012, hlm. 34).  
 [^2]: Family Systems Theory Murray Bowen mengenai keterkaitan perilaku individu dengan dinamika emosi sistem keluarga, Bowen (1978, hlm. 118).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Tuhfatul Maudud bi Ahkamil Maulud* (2010, hlm. 288), bab tanggung jawab orang tua atas fitrah anak dan kewajiban sinergi bersama para pendidik.  
-[^4]: Protokol Family Group Conferencing dan resolusi kasus santri kabur Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol Family Group Conferencing dan kemitraan wali di Pesantren TUMBUH (2026).  
+[^4]: Protokol Family Group Conferencing dan resolusi kasus santri kabur Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol Family Group Conferencing dan kemitraan wali di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

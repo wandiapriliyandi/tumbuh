@@ -1,5 +1,5 @@
 # P10-05-03: METODE OTOMATISASI HABITUASI ADAB 66-HARI
-## *Monograf Riset Akademik: Standarisasi Metode Otomatisasi Pembiasaan Adab 66-Hari (The 66-Day Adab Habit Automation Protocol), Desain Tiga Fase Neuroplastisitas Sinaptik (Cognitive Initiation, Synaptic Consolidation, & Character Automation), Serta Metrik Validasi Asymptotic Automaticity Karakter Santri (66-Day Adab Automation Architecture, Synaptic Neuroplasticity Progression, & Asymptotic Automaticity Validation / Form MET-Habituasi66Hari), Integrasi Doktrin 'Adwamuha wa In Qalla wa Arba'īna Yauman' Turats Klasik dengan Lally et al. Habit Formation Science, Hebbian Neuroplasticity Theory, Serta Keistiqamahan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Otomatisasi Pembiasaan Adab 66-Hari (The 66-Day Adab Habit Automation Protocol), Desain Tiga Fase Neuroplastisitas Sinaptik (Cognitive Initiation, Synaptic Consolidation, & Character Automation), Serta Metrik Validasi Asymptotic Automaticity Karakter Santri (66-Day Adab Automation Architecture, Synaptic Neuroplasticity Progression, & Asymptotic Automaticity Validation / Form MET-Habituasi66Hari), Integrasi Doktrin 'Adwamuha wa In Qalla wa Arba'īna Yauman' Turats Klasik dengan Lally et al. Habit Formation Science, Hebbian Neuroplasticity Theory, Serta Keistiqamahan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-05-03/MONOGRAF-RISET-HABITUASI-66-HARI/2026`  
 **Domain**: `10 Methods` > `05 Habit Formation` (Sub-Modul 03: *66-Day Adab Habit Automation Protocol*)  
@@ -105,7 +105,7 @@ Penerapan *The 66-Day Adab Habit Automation Protocol* membuktikan bahwa istiqama
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-05-03: METODE OTOMATISASI HABITUASI ADAB 66-HARI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-05-03: METODE OTOMATISASI HABITUASI ADAB 66-HARI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Phillippa Lally et al. mengenai pemodelan matematis kurva pembentukan kebiasaan dan penemuan rata-rata 66 hari otomatisasi, Lally et al. (2010, hlm. 999).
 [^2]: Donald O. Hebb mengenai prinsip plastisitas sinaptik Hebbian dalam pembelajaran dan penguatan perilaku berulang, Hebb (1949, hlm. 62).
-[^3]: Studi kasus penerapan protokol otomatisasi 66 hari membiasakan shalat malam santri baru di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan protokol otomatisasi 66 hari membiasakan shalat malam santri baru di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengawalan 3 fase neuroplastisitas terhadap pencapaian malakah (karakter permanen) santri (2026).

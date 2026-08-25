@@ -1,5 +1,5 @@
 # P10-02-01: TEKNIK SUHBAH WA MULAZAMAH MUSYRIF 1-ON-1
-## *Monograf Riset Akademik: Standarisasi Teknik Suhbah wa Mulāzamah Individual Musyrif-Santri, Protokol Pendampingan Relasional Personal (1-on-1 Relational Mentoring Protocol), dan Penguatan Ikatan Kelekatan Spiritual (Suhbah wa Mulazamah Mentoring Technique, 1-on-1 Pastoral Care Protocol, & Spiritual-Affective Attachment Architecture / Form MET-SuhbahMusyrif), Integrasi Doktrin 'Ash-Shuhbah fil-Islām wa Huqūqul Ukhuwwah' Turats Klasik dengan Rogers Person-Centered Therapy, Rhodes Youth Mentoring Model, Serta Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Suhbah wa Mulāzamah Individual Musyrif-Santri, Protokol Pendampingan Relasional Personal (1-on-1 Relational Mentoring Protocol), dan Penguatan Ikatan Kelekatan Spiritual (Suhbah wa Mulazamah Mentoring Technique, 1-on-1 Pastoral Care Protocol, & Spiritual-Affective Attachment Architecture / Form MET-SuhbahMusyrif), Integrasi Doktrin 'Ash-Shuhbah fil-Islām wa Huqūqul Ukhuwwah' Turats Klasik dengan Rogers Person-Centered Therapy, Rhodes Youth Mentoring Model, Serta Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-02-01/MONOGRAF-RISET-TEKNIK-SUHBAH-MULAZAMAH/2026`  
 **Domain**: `10 Methods` > `02 Mentoring Methods` (Sub-Modul 01: *1-on-1 Suhbah & Mulazamah Pastoral Mentoring*)  
@@ -107,7 +107,7 @@ Penerapan teknik *Suhbah wa Mulazamah* 1-on-1 secara konsisten memutus rantai ke
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-02-01: TEKNIK SUHBAH WA MULAZAMAH MUSYRIF 1-ON-1** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-02-01: TEKNIK SUHBAH WA MULAZAMAH MUSYRIF 1-ON-1** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Jean Rhodes mengenai model mentoring pemuda dan mekanisme psikologis pembentukan relasi bermakna, Rhodes (2002, hlm. 31).
 [^2]: Carl Rogers mengenai prinsip unconditional positive regard dan empati sebagai prakondisi mutlak perubahan kepribadian positif, Rogers (1957, hlm. 97).
-[^3]: Studi kasus penerapan teknik Suhbah 1-on-1 mengungkap kasus bullying tersembunyi Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan teknik Suhbah 1-on-1 mengungkap kasus bullying tersembunyi Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pendampingan relasional individual musyrif terhadap peningkatan kesejahteraan psikologis santri asrama (2026).

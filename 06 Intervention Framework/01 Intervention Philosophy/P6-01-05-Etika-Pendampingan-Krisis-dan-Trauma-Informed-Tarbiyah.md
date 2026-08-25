@@ -1,5 +1,5 @@
 # P6-01-05: ETIKA PENDAMPINGAN KRISIS DAN TRAUMA-INFORMED TARBIYAH
-## *Monograf Riset Akademik: Protokol Etika Pendampingan Santri Mengalami Krisis Psikososial dan Kerangka Pengasuhan Sadar Trauma (Trauma-Informed Care & Crisis Accompaniment Protocol / Form TIK-Trauma), Integrasi Doktrin 'Ri'āyatul Makrūbīn wa Thibbūn Nufūs' Turats Klasik dengan SAMHSA Trauma-Informed Framework, Porges' Polyvagal Theory, Serta Rasa Aman Psikologis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Etika Pendampingan Santri Mengalami Krisis Psikososial dan Kerangka Pengasuhan Sadar Trauma (Trauma-Informed Care & Crisis Accompaniment Protocol / Form TIK-Trauma), Integrasi Doktrin 'Ri'āyatul Makrūbīn wa Thibbūn Nufūs' Turats Klasik dengan SAMHSA Trauma-Informed Framework, Porges' Polyvagal Theory, Serta Rasa Aman Psikologis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-01-05/MONOGRAF-RISET-TRAUMA-INFORMED-TARBIYAH/2026`  
 **Domain**: `06 Intervention Framework` > `01 Intervention Philosophy` (Sub-Modul 05: *Trauma-Informed Care & Crisis Accompaniment Protocol*)  
@@ -167,7 +167,7 @@ flowchart TD
 
 ### 2. Dekomposisi 6 Prinsip SAMHSA dalam Konteks Pesantren: Safety, Trustworthiness, Peer Support, Collaboration, Voice, & Fitrah
 
-| Prinsip SAMHSA | Manifestasi Praktis di Pesantren TUMBUH | Larangan Keras (Pantangan) |
+| Prinsip SAMHSA | Manifestasi Praktis di Ekosistem Pesantren Berbasis TUMBUH | Larangan Keras (Pantangan) |
 | :--- | :--- | :--- |
 | **1. Safety (Keamanan)** | Ruang 'Baitul Amni' tenang dan pencahayaan hangat. | Membentak, mematikan lampu kamar saat ada santri panik. |
 | **2. Trustworthiness** | Transparansi jadwal kegiatan & musyrif menepati janji. | Menjebak atau memberi hukuman dadakan tanpa kejelasan. |
@@ -217,7 +217,7 @@ Penerapan protokol trauma-informed tarbiyah Form TIK ini menghadirkan keunggulan
 
 1. **Mengubah Pesantren Menjadi Suaka Penyembuh Jiwa (*Healing Sanctuary*)**: Menjadikan pondok sebagai tempat berlindung paling aman bagi anak-anak yang memiliki masa lalu kelam.
 2. **Mencegah Kerusakan Sistem Saraf Remaja Melalui Neurosains Regulasi Saraf (*Polyvagal Co-Regulation*)**: Menghindarkan santri dari gangguan cemas kronis dan depresi berat.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Thibbūn Nufūs dan SAMHSA Trauma Standards**: Menjadikan pesantren TUMBUH sebagai pionir pesantren ramah kesehatan mental terbaik di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Thibbūn Nufūs dan SAMHSA Trauma Standards**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir pesantren ramah kesehatan mental terbaik di dunia Islam.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan protokol trauma-informed tarbiyah Form TIK ini menghadirkan keunggulan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-01-05: ETIKA PENDAMPINGAN KRISIS DAN TRAUMA-INFORMED TARBIYAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-01-05: ETIKA PENDAMPINGAN KRISIS DAN TRAUMA-INFORMED TARBIYAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Konsep Trauma-Informed Approach dan kerangka 4 Rs dari Substance Abuse and Mental Health Services Administration, SAMHSA (2014, hlm. 9).  
 [^2]: Teori Polivagal Stephen Porges mengenai neurobiologi rasa aman, keterhubungan sosial, dan sistem saraf otonom, Porges (2011, hlm. 48).  
 [^3]: Abu Zaid Al-Balkhi, *Mashalihul Abdan wal Anfus* (2005, hlm. 112), bab terapi gangguan emosional dan pentingnya menghadirkan rasa aman bagi penderita trauma.  
-[^4]: Protokol de-eskalasi serangan panik berbasis ko-regulasi vagal Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan etika pendampingan krisis dan trauma-informed tarbiyah di Pesantren TUMBUH (2026).  
+[^4]: Protokol de-eskalasi serangan panik berbasis ko-regulasi vagal Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan etika pendampingan krisis dan trauma-informed tarbiyah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

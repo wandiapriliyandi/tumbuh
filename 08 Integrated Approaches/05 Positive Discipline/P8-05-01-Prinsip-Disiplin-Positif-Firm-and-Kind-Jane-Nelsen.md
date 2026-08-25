@@ -1,5 +1,5 @@
 # P8-05-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN
-## *Monograf Riset Akademik: Standarisasi Prinsip Disiplin Positif Tegas dan Hangat (Firm and Kind) dalam Pengasuhan Asrama 24 Jam, Penyatuan Batasan Jelas dengan Kehangatan Emosional, dan Eliminasi Siklus Hukuman-Permisivitas (Firm and Kind Positive Discipline Principles, Boundary-Warmth Synthesis, & Elimination of the Punishment-Permissiveness Pendulum / Form DIS-FirmKind), Integrasi Doktrin 'Al-Hikmah: Al-Hazm ma'a ar-Rahmah' Turats Klasik dengan Positive Discipline Nelsen, Adlerian Individual Psychology, Serta Kepemimpinan Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Prinsip Disiplin Positif Tegas dan Hangat (Firm and Kind) dalam Pengasuhan Asrama 24 Jam, Penyatuan Batasan Jelas dengan Kehangatan Emosional, dan Eliminasi Siklus Hukuman-Permisivitas (Firm and Kind Positive Discipline Principles, Boundary-Warmth Synthesis, & Elimination of the Punishment-Permissiveness Pendulum / Form DIS-FirmKind), Integrasi Doktrin 'Al-Hikmah: Al-Hazm ma'a ar-Rahmah' Turats Klasik dengan Positive Discipline Nelsen, Adlerian Individual Psychology, Serta Kepemimpinan Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-05-01/MONOGRAF-RISET-DISIPLIN-POSITIF-FIRM-KIND/2026`  
 **Domain**: `08 Integrated Approaches` > `05 Positive Discipline` (Sub-Modul 01: *Firm & Kind Positive Discipline Principles*)  
@@ -99,7 +99,7 @@ Penerapan prinsip *Firm and Kind* secara konsisten di lingkungan asrama 24 jam m
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-05-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-05-01: PRINSIP DISIPLIN POSITIF FIRM AND KIND JANE NELSEN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -152,5 +152,5 @@ flowchart TD
 
 [^1]: Nelsen et al. mengenai prinsip Connection before Correction dan bahaya polarisasi pengasuhan otoriter vs permisif, Nelsen et al. (2007, hlm. 18).
 [^2]: Tafsir ayat Al-Qur'an mengenai prinsip kelembutan dan kebijaksanaan dalam kepemimpinan umat, QS. Ali 'Imran: 159.
-[^3]: Studi kasus penerapan komunikasi Firm & Kind menghentikan pembangkangan piket asrama Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan komunikasi Firm & Kind menghentikan pembangkangan piket asrama Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengasuhan Firm & Kind terhadap eliminasi trauma psikologis dan peningkatan kepatuhan sukarela santri (2026).

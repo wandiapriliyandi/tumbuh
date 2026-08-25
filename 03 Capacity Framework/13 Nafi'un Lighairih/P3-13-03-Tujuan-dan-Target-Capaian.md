@@ -29,7 +29,7 @@
   - [5. Kasuistika Lapangan Klinis & Protokol Pendampingan Santri yang Bersikap Pasif Menolak Ikut Kerja Bakti Asrama](#5-kasuistika-lapangan-klinis--protokol-pendampingan-santri-yang-bersikap-pasif-menolak-ikut-kerja-bakti-asrama)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Dekomposisi Capaian Pembelajaran Nafi'un Lighairih (CP-NL) Tri-Domain](#1-dekomposisi-capaian-pembelajaran-nafiun-lighairih-cp-nl-tri-domain)
-  - [2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemanfaatan Sosial Santri TUMBUH](#2-matriks-indikator-kuantitatif-kinerja-kpis-kemanfaatan-sosial-santri-tumbuh)
+  - [2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemanfaatan Sosial Santri dalam sistem TUMBUH](#2-matriks-indikator-kuantitatif-kinerja-kpis-kemanfaatan-sosial-santri-tumbuh)
   - [3. Pemetaan Target Capaian Pembelajaran Berdasarkan Jenjang J1–J4](#3-pemetaan-target-capaian-pembelajaran-berdasarkan-jenjang-j1j4)
   - [4. Diskusi Akademis: Dampak Triad Pertumbuhan Simbiotik bagi Kedaulatan Peradaban Pesantren](#4-diskusi-akademis-dampak-triad-pertumbuhan-simbiotik-bagi-kedaulatan-peradaban-pesantren)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -187,7 +187,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemanfaatan Sosial Santri TUMBUH
+### 2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemanfaatan Sosial Santri dalam sistem TUMBUH
 
 | Indikator Kinerja Kunci (KPIs) | Kondisi Baseline Konvensional | Target Standar Emas TUMBUH | Metode Pengukuran & Verifikasi |
 | :--- | :--- :---: | :---: | :--- |
@@ -224,7 +224,7 @@ Pencapaian target kapasitas Nafi'un Lighairih menghadirkan keunggulan sistemik:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-03: TUJUAN DAN TARGET CAPAIAN NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-03: TUJUAN DAN TARGET CAPAIAN NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -308,4 +308,4 @@ flowchart TD
 7. **Restorative Buddy Care**: Sistem pendampingan di mana santri senior menjadi sahabat pelindung bagi adik asuh yang mengalami kesulitan adaptasi asrama.
 8. **Poskestren Siaga 24 Jam**: Pos Kesehatan Pesantren yang dikelola bersama dokter, musyrif, dan santri relawan medis untuk melayani santri sakit dengan cepat.
 9. **Zero-Bullying Policy**: Kebijakan kelembagaan pesantren yang mengharamkan segala bentuk kekerasan fisik, verbal, maupun psikologis senioritas 100%.
-10. **Khadimul Ummah (خَادِمُ الْأُمَّةِ)**: Profil lulusan santri TUMBUH yang memiliki keunggulan intelektual spiritual sekaligus berdedikasi melayani kemaslahatan masyarakat.
+10. **Khadimul Ummah (خَادِمُ الْأُمَّةِ)**: Profil lulusan santri dalam sistem TUMBUH yang memiliki keunggulan intelektual spiritual sekaligus berdedikasi melayani kemaslahatan masyarakat.

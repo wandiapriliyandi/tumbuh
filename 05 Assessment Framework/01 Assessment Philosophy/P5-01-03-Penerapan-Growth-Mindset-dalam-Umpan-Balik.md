@@ -1,5 +1,5 @@
 # P5-01-03: PENERAPAN GROWTH MINDSET DALAM UMPAN BALIK ASESMEN
-## *Monograf Riset Akademik: Formulasi Umpan Balik Formatif Berbasis Pola Pikir Bertumbuh (Growth Mindset Feedback), Integrasi Doktrin Al-Mujahadah wa Thalabuz Ziyadah Turats Klasik dengan Carol Dweck's Implicit Theories of Intelligence & Hattie-Timperley's Feedback Model, Serta Desain Protokol Dialog Umpan Balik Musyrif-Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Formulasi Umpan Balik Formatif Berbasis Pola Pikir Bertumbuh (Growth Mindset Feedback), Integrasi Doktrin Al-Mujahadah wa Thalabuz Ziyadah Turats Klasik dengan Carol Dweck's Implicit Theories of Intelligence & Hattie-Timperley's Feedback Model, Serta Desain Protokol Dialog Umpan Balik Musyrif-Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-01-03/MONOGRAF-RISET-GROWTH-MINDSET-UMPAN-BALIK/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 03: *Growth Mindset & Formative Feedback Application*)  
@@ -235,7 +235,7 @@ Penerapan umpan balik berbasis Growth Mindset menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-01-03: PENERAPAN GROWTH MINDSET DALAM UMPAN BALIK ASESMEN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-01-03: PENERAPAN GROWTH MINDSET DALAM UMPAN BALIK ASESMEN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -304,7 +304,7 @@ flowchart TD
 [^2]: Kerangka kerja empat tingkatan umpan balik formatif pendidikan, Hattie & Timperley (2007, hlm. 86).  
 [^3]: Diwan Al-Imam Asy-Syafi'i (1988, hlm. 54), enam syarat meraih kemuliaan ilmu pengetahuan.  
 [^4]: Protokol penanganan phobia kelas dan rekalibrasi mindset santri baru TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan sistem umpan balik Growth Mindset di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan sistem umpan balik Growth Mindset di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

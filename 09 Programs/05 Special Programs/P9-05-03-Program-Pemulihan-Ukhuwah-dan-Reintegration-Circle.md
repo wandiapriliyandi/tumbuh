@@ -1,5 +1,5 @@
 # P9-05-03: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE
-## *Monograf Riset Akademik: Standarisasi Program Pemulihan Ukhuwah Terpadu, Desain Lingkaran Penyambutan Kembali Asrama (Dormitory Reintegration Circles), dan Ritual Musafahah Pemulihan Hubungan Sosial Santri (Holistic Ukhuwah Restoration Program, Dormitory Reintegration Circles Architecture, & Musafahah Social Healing Rituals / Form PRO-ReintegrasiUkhuwah), Integrasi Doktrin 'Al-Mu'āfāh ash-Shādiqah wa Salamatul Qadr' Turats Klasik dengan Braithwaite Reintegrative Shaming, Zehr Community Healing Circles, Serta Persaudaraan Sejati di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Pemulihan Ukhuwah Terpadu, Desain Lingkaran Penyambutan Kembali Asrama (Dormitory Reintegration Circles), dan Ritual Musafahah Pemulihan Hubungan Sosial Santri (Holistic Ukhuwah Restoration Program, Dormitory Reintegration Circles Architecture, & Musafahah Social Healing Rituals / Form PRO-ReintegrasiUkhuwah), Integrasi Doktrin 'Al-Mu'āfāh ash-Shādiqah wa Salamatul Qadr' Turats Klasik dengan Braithwaite Reintegrative Shaming, Zehr Community Healing Circles, Serta Persaudaraan Sejati di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-05-03/MONOGRAF-RISET-PEMULIHAN-UKHUWAH-REINTEGRASI/2026`  
 **Domain**: `09 Programs` > `05 Special Programs` (Sub-Modul 03: *Ukhuwah Restoration & Dormitory Reintegration Circles Program*)  
@@ -82,7 +82,7 @@ KAMI, SELURUH PENGHUNI ASRAMA KAMAR ABU UBAIDAH BIN AL-JARRAH 1, BERIKRAR DENGAN
 3. KAMI BERSUMPAH UNTUK SALING MENJAGA, SALING MENGINGATKAN DALAM KEBAJIKAN, DAN MENJADIKAN
    KAMAR INI SEBAGAI RUMAH UKHUWAH YANG MEMBAWA KAMI BERSAMA MENUJU SURGA ALLAH SWT.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Santri yang Disambut,       Perwakilan Korban / Kamar,       Musyrif Pembina Kamar,
 
 (Yoga Pratama - 8B)          (Bagas Wicaksono - 8B)           (Ust. Luqman Hakim, S.Pd.I.)
@@ -108,7 +108,7 @@ Penerapan *Reintegration Circle* yang dikombinasikan dengan ritual *Musafahah* d
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-05-03: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-05-03: PROGRAM PEMULIHAN UKHUWAH DAN REINTEGRATION CIRCLE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -161,5 +161,5 @@ flowchart TD
 
 [^1]: Kay Pranis mengenai metodologi Peacemaking and Healing Circles dalam menyembuhkan perpecahan komunitas, Pranis (2005, hlm. 35).
 [^2]: John Braithwaite mengenai konsep reintegrative shaming dan pentingnya ritual formal penerimaan kembali oleh komunitas, Braithwaite (1989, hlm. 55).
-[^3]: Studi kasus penerapan Welcoming Circle menyembuhkan luka sosial dan memulihkan ukhuwah kamar santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Welcoming Circle menyembuhkan luka sosial dan memulihkan ukhuwah kamar santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integrasi teologi Salamatus Shadr dan lingkaran restoratif terhadap pencegahan residivisme di asrama (2026).

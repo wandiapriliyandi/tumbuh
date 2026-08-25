@@ -1,5 +1,5 @@
 # P4-04-03: MATRIKS INTERNALISASI 10 KARAKTER MUWASHAFAT TUMBUH
-## *Monograf Riset Akademik: Peta Penguasaan Utuh Sepuluh Kapasitas Karakter Santri (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qawiyyul Jism, Mutsaqqaful Fikr, Mujahadatun Linafsih, Haritsun Ala Waqtih, Munazhzham fi Syuunih, Qadirun Alal Kasb, wa Nafi'un Lighairih) Lintas Jenjang J1–J4, Integrasi Taksonomi Fitrah dengan Krathwohl's Affective Domain (Receiving, Responding, Valuing, Organizing, & Characterization), Serta Matriks Transkrip Karakter 360 Derajat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Peta Penguasaan Utuh Sepuluh Kapasitas Karakter Santri (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qawiyyul Jism, Mutsaqqaful Fikr, Mujahadatun Linafsih, Haritsun Ala Waqtih, Munazhzham fi Syuunih, Qadirun Alal Kasb, wa Nafi'un Lighairih) Lintas Jenjang J1–J4, Integrasi Taksonomi Fitrah dengan Krathwohl's Affective Domain (Receiving, Responding, Valuing, Organizing, & Characterization), Serta Matriks Transkrip Karakter 360 Derajat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-04-03/MONOGRAF-RISET-MATRIKS-INTERNALISASI-10-KARAKTER-MUWASHAFAT/2026`  
 **Domain**: `04 Progression Framework` > `04 Mastery Progression` (Sub-Modul 03: *10 Muwashafat Character Internalization Matrix*)  
@@ -15,7 +15,7 @@
 > * **Integrasi 10 Muwashafat Karakter & Krathwohl's Affective Domain:**  
 >   Ekosistem TUMBUH merekonstruksi taksonomi 10 Kapasitas Karakter Insan dengan memadukan doktrin karakter mutasyaddid/mutawassith Turats dengan *Taxonomy of Affective Domain* David Krathwohl (*Receiving $\rightarrow$ Responding $\rightarrow$ Valuing $\rightarrow$ Organizing $\rightarrow$ Characterization by Value*). Setiap kapasitas karakter didekomposisi ke dalam 4 tangga kematangan afektif yang selaras dengan perkembangan usia santri.
 > * **Arsitektur Matriks Master 10 Karakter $\times$ 4 Jenjang:**  
->   Monograf ini menyajikan matriks lengkap 40 sel indikator operasional, desain *Transkrip Karakter Santri TUMBUH (TKS-360)*, dan protokol triangulasi asesmen berbasis bukti faktual.
+>   Monograf ini menyajikan matriks lengkap 40 sel indikator operasional, desain *Transkrip Karakter Santri dalam sistem TUMBUH (TKS-360)*, dan protokol triangulasi asesmen berbasis bukti faktual.
 
 ---
 
@@ -321,4 +321,4 @@ flowchart TD
 7. **Qawiyyul Jism (قَوِيُّ الْجِسْمِ)**: Kapasitas kebugaran fisik, stamina jasmani, higienitas mandiri, dan ketahanan raga dalam menjalankan ketaatan.
 8. **Qādirun 'alal Kasb (قَادِرٌ عَلَى الْكَسْبِ)**: Kapasitas kemandirian finansial, etos kerja halal, keterampilan wirausaha, dan integritas pengelolaan harta.
 9. **Nāfi'un li Ghairih (نَافِعٌ لِغَيْرِهِ)**: Kapasitas kebermanfaatan sosial paripurna, kepemimpinan pelayan (*Servant Leadership*), dan dedikasi pengabdian peradaban.
-10. **Indeks Komposit Karakter (IKK)**: Skor rata-rata terbobot dari evaluasi 10 kapasitas karakter santri yang menjadi syarat mutlak kelulusan di pesantren TUMBUH.
+10. **Indeks Komposit Karakter (IKK)**: Skor rata-rata terbobot dari evaluasi 10 kapasitas karakter santri yang menjadi syarat mutlak kelulusan dalam sistem TUMBUH di pesantren.

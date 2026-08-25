@@ -1,5 +1,5 @@
 # P3-11-05: STANDAR KOMPETENSI DAN TAKSONOMI MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Taksonomi Keteraturan Fitrah 4 Level (Al-Inqiyad / Kepatuhan Terbimbing Loker 5S, Al-Intizham / Keteraturan Mandiri & Tabungan Saku, At-Tanzhim ad-Dati / Manajemen Aset & Arsip Ilmiah Otonom, Serta Al-Qudwah / Keteladanan Peradaban & Arsitektur Sistem 24 Jam), Integrasi Taksonomi Psikomotorik Dave & Fungsi Eksekutif Spasial, Serta Matriks Standar Kompetensi Inti & Dasar (SKI-SKD) Jenjang J1–J4 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Taksonomi Keteraturan Fitrah 4 Level (Al-Inqiyad / Kepatuhan Terbimbing Loker 5S, Al-Intizham / Keteraturan Mandiri & Tabungan Saku, At-Tanzhim ad-Dati / Manajemen Aset & Arsip Ilmiah Otonom, Serta Al-Qudwah / Keteladanan Peradaban & Arsitektur Sistem 24 Jam), Integrasi Taksonomi Psikomotorik Dave & Fungsi Eksekutif Spasial, Serta Matriks Standar Kompetensi Inti & Dasar (SKI-SKD) Jenjang J1–J4 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-05/MONOGRAF-RISET-STANDAR-KOMPETENSI-TAKSONOMI-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 05: *Competency Standards & Taxonomy*)  
@@ -213,7 +213,7 @@ Penerapan taksonomi keteraturan fitrah melahirkan lompatan mutu pendidikan:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-05: STANDAR KOMPETENSI DAN TAKSONOMI MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-05: STANDAR KOMPETENSI DAN TAKSONOMI MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -282,7 +282,7 @@ flowchart TD
 [^2]: Pembahasan taksonomi keterampilan psikomotorik dan fungsinya dalam pembiasaan hidup rapi, Dave (1970, hlm. 34).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat fi Ushulisy Syari'ah* (2003, Jilid 2, hlm. 12).  
 [^4]: Protokol pendampingan tata kelola inventaris organisasi santri dan pencegahan kerugian aset, TUMBUH (2026).  
-[^5]: Kriteria verifikasi portofolio keteraturan mandiri dan buku kas saku santri TUMBUH (2026).  
+[^5]: Kriteria verifikasi portofolio keteraturan mandiri dan buku kas saku santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak integrasi standar kompetensi keteraturan OBE terhadap akreditasi pesantren (2026).  
 
 ---

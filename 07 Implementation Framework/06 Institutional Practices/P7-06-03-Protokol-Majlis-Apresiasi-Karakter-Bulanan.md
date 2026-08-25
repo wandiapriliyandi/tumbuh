@@ -87,7 +87,7 @@ Majlis Apresiasi Karakter Bulanan yang konsisten dilaksanakan selama 1 semester 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-06-03: PROTOKOL MAJLIS APRESIASI KARAKTER BULANAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-06-03: PROTOKOL MAJLIS APRESIASI KARAKTER BULANAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -140,5 +140,5 @@ flowchart TD
 
 [^1]: Self-Determination Theory Ryan & Deci tentang tiga kebutuhan dasar motivasi intrinsik, Ryan & Deci (2000, hlm. 69).
 [^2]: Eksperimen Deci 1971 tentang efek penghargaan ekstrinsik terhadap penghancuran motivasi intrinsik, Deci (1971, hlm. 107).
-[^3]: Studi kasus majlis apresiasi memotivasi santri yang tidak pernah merasa diakui Pesantren TUMBUH (2026).
+[^3]: Studi kasus majlis apresiasi memotivasi santri yang tidak pernah merasa diakui Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak Majlis Apresiasi Karakter Bulanan terhadap iklim positif dan tindakan prososial santri (2026).

@@ -1,5 +1,5 @@
 # P5-09-04: METODOLOGI PENYUSUNAN RUBRIK BARS 4 LEVEL
-## *Monograf Riset Akademik: Metodologi Rekayasa Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Evaluasi Karakter Pesantren (Engineering BARS Methodology for Islamic Boarding Character Assessment), Integrasi Doktrin 'Marātibul Wujūd wal 'Amal' Turats Klasik dengan Critical Incident Technique (Flanagan), Psychometric Anchor Calibration, Serta Algoritma Standardisasi Deskriptor di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Rekayasa Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Evaluasi Karakter Pesantren (Engineering BARS Methodology for Islamic Boarding Character Assessment), Integrasi Doktrin 'Marātibul Wujūd wal 'Amal' Turats Klasik dengan Critical Incident Technique (Flanagan), Psychometric Anchor Calibration, Serta Algoritma Standardisasi Deskriptor di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-09-04/MONOGRAF-RISET-METODOLOGI-PENYUSUNAN-BARS/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 04: *Engineering 4-Level BARS Rubric Methodology*)  
@@ -226,7 +226,7 @@ Penerapan metodologi rekayasa BARS Form MPB ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-09-04: METODOLOGI PENYUSUNAN RUBRIK BARS 4 LEVEL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-09-04: METODOLOGI PENYUSUNAN RUBRIK BARS 4 LEVEL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,8 +294,8 @@ flowchart TD
 [^1]: Penelitian John Flanagan mengenai Critical Incident Technique (CIT) dalam ekstraksi data perilaku faktual, Flanagan (1954, hlm. 330).  
 [^2]: Kerangka kerja Smith & Kendall mengenai metodologi retranslasi dan pembentukan jangkar skala BARS, Smith & Kendall (1963, hlm. 152).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat* (1997, Jilid 2, hlm. 112), bab penahapan tingkatan taklif amal dalam syariat dan kesiapan fitrah mukallaf.  
-[^4]: Protokol rekayasa dan kalibrasi rubrik BARS wudhu asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan metodologi penyusunan rubrik BARS 4 level di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekayasa dan kalibrasi rubrik BARS wudhu asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan metodologi penyusunan rubrik BARS 4 level di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

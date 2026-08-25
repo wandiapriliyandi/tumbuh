@@ -1,5 +1,5 @@
 # P5-01-02: INTEGRASI TAZKIYATUN NAFS DAN ASESMEN FITRAH
-## *Monograf Riset Akademik: Epistemologi Penilaian Pertumbuhan Jiwa Berbasis Pensucian Kalbu (Tazkiyatun Nafs) dan Pengenalan Potensi Fitrah Manusia, Integrasi Doktrin Maratib an-Nafs (Ammarah, Lawwamah, Muthma'innah) Turats dengan Self-Determination Theory & Authentic Assessment, Serta Desain Matriks Evaluasi Spiritual-Psikologis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Epistemologi Penilaian Pertumbuhan Jiwa Berbasis Pensucian Kalbu (Tazkiyatun Nafs) dan Pengenalan Potensi Fitrah Manusia, Integrasi Doktrin Maratib an-Nafs (Ammarah, Lawwamah, Muthma'innah) Turats dengan Self-Determination Theory & Authentic Assessment, Serta Desain Matriks Evaluasi Spiritual-Psikologis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-01-02/MONOGRAF-RISET-INTEGRASI-TAZKIYAH-ASESMEN-FITRAH/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 02: *Tazkiyatun Nafs & Fitrah Assessment Integration*)  
@@ -230,7 +230,7 @@ Penerapan integrasi Tazkiyatun Nafs dan asesmen fitrah menghadirkan keunggulan:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-01-02: INTEGRASI TAZKIYATUN NAFS DAN ASESMEN FITRAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-01-02: INTEGRASI TAZKIYATUN NAFS DAN ASESMEN FITRAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -298,8 +298,8 @@ flowchart TD
 [^1]: Kritik terhadap reduksionisme evaluasi berbasis behaviorisme sempit tanpa dimensi kalbu, Deci & Ryan (2000, hlm. 232).  
 [^2]: Kerangka kerja asesmen diri autentik dalam membangun metakognisi moral, Boud (1995, hlm. 44).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 18), bab keajaiban kalbu dan perumpamaan cermin hati.  
-[^4]: Protokol terapi penyakit 'ujub dan bimbingan amalan rahasia santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan integrasi Tazkiyatun Nafs dan asesmen fitrah di Pesantren TUMBUH (2026).  
+[^4]: Protokol terapi penyakit 'ujub dan bimbingan amalan rahasia santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan integrasi Tazkiyatun Nafs dan asesmen fitrah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

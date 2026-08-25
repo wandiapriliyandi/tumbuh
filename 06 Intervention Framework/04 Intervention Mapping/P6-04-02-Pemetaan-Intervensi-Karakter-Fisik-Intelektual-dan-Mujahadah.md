@@ -1,5 +1,5 @@
 # P6-04-02: PEMETAAN INTERVENSI KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (K4, K5, K6)
-## *Monograf Riset Akademik: Pemetaan Intervensi Berjenjang untuk Kapasitas Kekuatan Fisik (K4), Wawasan Intelektual (K5), dan Pengendalian Diri Mujahadah (K6) (Physical, Intellectual, & Self-Discipline Capacity Intervention Mapping / Form PIM-Mujahadah), Integrasi Doktrin 'Al-Mu'minul Qawiyyu wa Shiyānatul 'Aql' Turats Klasik dengan Cognitive Load Theory, Grit Resilience (Duckworth), Serta Penanganan Defisit Belajar di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Pemetaan Intervensi Berjenjang untuk Kapasitas Kekuatan Fisik (K4), Wawasan Intelektual (K5), dan Pengendalian Diri Mujahadah (K6) (Physical, Intellectual, & Self-Discipline Capacity Intervention Mapping / Form PIM-Mujahadah), Integrasi Doktrin 'Al-Mu'minul Qawiyyu wa Shiyānatul 'Aql' Turats Klasik dengan Cognitive Load Theory, Grit Resilience (Duckworth), Serta Penanganan Defisit Belajar di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-04-02/MONOGRAF-RISET-PEMETAAN-FISIK-INTELEK-MUJAHADAH/2026`  
 **Domain**: `06 Intervention Framework` > `04 Intervention Mapping` (Sub-Modul 02: *Physical, Intellectual, & Self-Discipline Intervention Mapping: K4, K5, K6*)  
@@ -213,7 +213,7 @@ Penerapan pemetaan intervensi Form PIM ini menghadirkan keunggulan peradaban:
 
 1. **Mencetak Lulusan yang Tangguh Jasmani dan Brilian Fikiran (*Robust Body & Brilliant Mind*)**: Santri siap memimpin peradaban dengan stamina fisik tinggi dan kejernihan analisis ilmiah.
 2. **Menghapus Keputusasaan Akademis di Kalangan Pelajar Pesantren (*Academic Resilience*)**: Setiap santri dibekali strategi metakognitif yang tepat sesuai modalitas belajarnya.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Mu'minul Qawiy dan Cognitive Load Theory**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan integrasi sains belajar modern terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Mu'minul Qawiy dan Cognitive Load Theory**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan integrasi sains belajar modern terbaik di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan pemetaan intervensi Form PIM ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-04-02: PEMETAAN INTERVENSI KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (K4, K5, K6)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-04-02: PEMETAAN INTERVENSI KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (K4, K5, K6)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Teori Beban Kognitif (Cognitive Load Theory) John Sweller dalam mengoptimalkan kapasitas memori kerja pembelajar, Sweller, van Merrienboer, & Paas (2019, hlm. 264).  
 [^2]: Kerangka kerja Grit dan ketahanan mental Angela Duckworth dalam pencapaian jangka panjang, Duckworth (2016, hlm. 38).  
 [^3]: Az-Zarnuji, *Ta'lim al-Muta'allim fi Thariqit Ta'allum* (2012, hlm. 48), bab manajemen kebugaran tubuh, proporsionalitas belajar, dan bahaya membebani akal berlebihan.  
-[^4]: Protokol Klinik Metakognisi Tahfizh dan peningkatan retensi memori santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan pemetaan intervensi karakter fisik, intelektual, dan mujahadah di Pesantren TUMBUH (2026).  
+[^4]: Protokol Klinik Metakognisi Tahfizh dan peningkatan retensi memori santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan pemetaan intervensi karakter fisik, intelektual, dan mujahadah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

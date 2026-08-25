@@ -1,5 +1,5 @@
 # P8-04-02: TEKNIK DIAKUISISI REPLACEMENT BEHAVIOR ADAPTIF
-## *Monograf Riset Akademik: Standarisasi Teknik Akuisisi Perilaku Pengganti Adaptif (Functionally Equivalent Replacement Behavior / FERB), Protokol Modifikasi Perilaku Berbasis Functional Behavior Assessment (FBA), dan Eliminasi Perilaku Maladaptif Tanpa Hukuman Represif (Adaptive Replacement Behavior Acquisition, Functional Equivalence Behavioral Engineering, & Non-Coercive Behavior Modification / Form COA-ReplacementBehavior), Integrasi Doktrin 'Ibālu as-Sayyi'ati bil-Hasanah wal Mujannabah' Turats Klasik dengan Applied Behavior Analysis (Cooper), Functional Assessment Science O'Neill, Serta Rekayasa Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Akuisisi Perilaku Pengganti Adaptif (Functionally Equivalent Replacement Behavior / FERB), Protokol Modifikasi Perilaku Berbasis Functional Behavior Assessment (FBA), dan Eliminasi Perilaku Maladaptif Tanpa Hukuman Represif (Adaptive Replacement Behavior Acquisition, Functional Equivalence Behavioral Engineering, & Non-Coercive Behavior Modification / Form COA-ReplacementBehavior), Integrasi Doktrin 'Ibālu as-Sayyi'ati bil-Hasanah wal Mujannabah' Turats Klasik dengan Applied Behavior Analysis (Cooper), Functional Assessment Science O'Neill, Serta Rekayasa Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-04-02/MONOGRAF-RISET-REPLACEMENT-BEHAVIOR-ADAPTIF/2026`  
 **Domain**: `08 Integrated Approaches` > `04 Coaching` (Sub-Modul 02: *Functionally Equivalent Replacement Behavior Acquisition*)  
@@ -105,7 +105,7 @@ Penerapan *Functionally Equivalent Replacement Behavior (FERB)* dalam paradigma 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-04-02: TEKNIK DIAKUISISI REPLACEMENT BEHAVIOR ADAPTIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-04-02: TEKNIK DIAKUISISI REPLACEMENT BEHAVIOR ADAPTIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Carr & Durand mengenai Functional Communication Training (FCT) sebagai metode dasar penggantian perilaku menantang dengan komunikasi adaptif, Carr & Durand (1985, hlm. 113).
 [^2]: Cooper et al. mengenai prinsip-prinsip Applied Behavior Analysis (ABA) dan penguatan diferensial perilaku alternatif, Cooper et al. (2020, hlm. 482).
-[^3]: Studi kasus penerapan teknik replacement behavior mengatasi somatisasi penghindaran KBM Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan teknik replacement behavior mengatasi somatisasi penghindaran KBM Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Bukti empiris efektivitas FERB dalam melenyapkan kekambuhan perilaku maladaptif jangka panjang di asrama 24 jam (2026).

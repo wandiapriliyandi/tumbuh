@@ -1,5 +1,5 @@
 # P3-10-06: MANIFESTASI PERILAKU SANTRI HARITSUN ALA WAQTIH
-## *Monograf Riset Akademik: Tipologi Indikator Perilaku Manajemen Waktu Teramati (Observable Time-Mastery Behaviors), Pemetaan Setting 24 Jam (Kamar Tidur Asrama, Masjid, Kelas Madrasah, Ruang Makan/Kantin, & Ruang Belajar Mandiri), Eliminasi Perilaku Defisit (Prokrastinasi, Terlambat Berjamaah, Begadang Liar), Serta Penguatan Budaya Disiplin Presisi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Tipologi Indikator Perilaku Manajemen Waktu Teramati (Observable Time-Mastery Behaviors), Pemetaan Setting 24 Jam (Kamar Tidur Asrama, Masjid, Kelas Madrasah, Ruang Makan/Kantin, & Ruang Belajar Mandiri), Eliminasi Perilaku Defisit (Prokrastinasi, Terlambat Berjamaah, Begadang Liar), Serta Penguatan Budaya Disiplin Presisi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-10-06/MONOGRAF-RISET-MANIFESTASI-PERILAKU-HARITSUN-ALA-WAQTIH/2026`  
 **Domain**: `03 Capacity Framework` > `10 Haritsun Ala Waqtih` (Sub-Modul 06: *Behavioral Manifestations*)  
@@ -220,7 +220,7 @@ Penerapan katalog manifestasi perilaku Haritsun 'Ala Waqtih mentransformasikan k
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-06: MANIFESTASI PERILAKU SANTRI HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-06: MANIFESTASI PERILAKU SANTRI HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

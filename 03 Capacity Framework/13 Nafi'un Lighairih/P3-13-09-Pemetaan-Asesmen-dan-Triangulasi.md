@@ -1,5 +1,5 @@
 # P3-13-09: PEMETAAN ASESMEN DAN TRIANGULASI DATA NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Desain Sistem Triangulasi Multi-Sumber & Multi-Metode Asesmen Kemanfaatan Sosial Santri 360 Derajat (Observasi Musyrif Asrama, Penilaian Guru Madrasah dalam Tutor Sebaya, Audit Kartu Jam Khidmah Riil, Review Ukhuwah Sebaya / Peer Review, Serta Indeks Kepuasan Tokoh Masyarakat Desa Binaan), Matriks Validitas Multi-Trait Multi-Method (MTMM), Sistem Peringatan Dini Apatisme Sosial (Early Warning System / EWS), Serta Integrasi Sistem Informasi Manajemen Kepengasuhan Digital di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Desain Sistem Triangulasi Multi-Sumber & Multi-Metode Asesmen Kemanfaatan Sosial Santri 360 Derajat (Observasi Musyrif Asrama, Penilaian Guru Madrasah dalam Tutor Sebaya, Audit Kartu Jam Khidmah Riil, Review Ukhuwah Sebaya / Peer Review, Serta Indeks Kepuasan Tokoh Masyarakat Desa Binaan), Matriks Validitas Multi-Trait Multi-Method (MTMM), Sistem Peringatan Dini Apatisme Sosial (Early Warning System / EWS), Serta Integrasi Sistem Informasi Manajemen Kepengasuhan Digital di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-09/MONOGRAF-RISET-PEMETAAN-ASESMEN-TRIANGULASI-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 09: *Assessment Mapping & Data Triangulation*)  
@@ -229,7 +229,7 @@ Penerapan sistem pemetaan asesmen dan triangulasi data 360 derajat menghasilkan:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-09: PEMETAAN ASESMEN DAN TRIANGULASI DATA NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-09: PEMETAAN ASESMEN DAN TRIANGULASI DATA NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

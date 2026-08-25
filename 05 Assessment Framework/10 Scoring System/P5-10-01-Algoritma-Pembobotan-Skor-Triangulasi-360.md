@@ -1,5 +1,5 @@
 # P5-10-01: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT
-## *Monograf Riset Akademik: Formulasi Matematis Pembobotan Komposit Multi-Sumber Evaluasi 360 Derajat (Mathematical Weighting Algorithm for 360-Degree Triangulated Scoring / Form MAT-Triangulasi), Integrasi Doktrin 'Mīzānul 'Adli wa Ta'addudusy Syuhūd' Turats Klasik dengan Generalizability Theory (G-Theory), Multi-Trait Multi-Method (MTMM), Serta Engine Komputasi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Formulasi Matematis Pembobotan Komposit Multi-Sumber Evaluasi 360 Derajat (Mathematical Weighting Algorithm for 360-Degree Triangulated Scoring / Form MAT-Triangulasi), Integrasi Doktrin 'Mīzānul 'Adli wa Ta'addudusy Syuhūd' Turats Klasik dengan Generalizability Theory (G-Theory), Multi-Trait Multi-Method (MTMM), Serta Engine Komputasi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-10-01/MONOGRAF-RISET-ALGORITMA-PEMBOBOTAN-360/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 01: *360-Degree Multi-Source Triangulated Weighting Algorithm*)  
@@ -236,7 +236,7 @@ Penerapan algoritma pembobotan skor triangulasi Form MAT ini menghadirkan keungg
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-10-01: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-10-01: ALGORITMA PEMBOBOTAN SKOR TRIANGULASI 360 DERAJAT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -304,8 +304,8 @@ flowchart TD
 [^1]: Kerangka kerja Generalizability Theory Lee Cronbach dalam mengestimasi reliabilitas skor komposit multi-sumber, Cronbach et al. (1972, hlm. 48).  
 [^2]: Model Multi-Trait Multi-Method (MTMM) Campbell & Fiske mengenai validitas konvergen dan diskriminan instrumen, Campbell & Fiske (1959, hlm. 84).  
 [^3]: Al-Qarafi, *Al-Furuq* (1998, Jilid 4, hlm. 64), bab hikmah syariat mewajibkan persaksian majemuk demi menghapus kekhilafan penilai tunggal.  
-[^4]: Protokol deteksi diskrepansi skor multi-rater dan sidang rekonsiliasi santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan algoritma pembobotan skor triangulasi 360 derajat di Pesantren TUMBUH (2026).  
+[^4]: Protokol deteksi diskrepansi skor multi-rater dan sidang rekonsiliasi santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan algoritma pembobotan skor triangulasi 360 derajat di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

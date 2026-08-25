@@ -1,5 +1,5 @@
 # P4-02-01: DETAIL JENJANG J1 — ADAPTASI DAN ORIENTASI SANTRI
-## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 7 (Usia 12–13 Tahun), Standar Capaian Kemandirian Dasar, Integrasi Fiqh Marhalatut Tamyiz dengan Scaffolding Pedagogy (Vygotsky) & Attachment In Loco Parentis, Rekayasa Lingkungan Transisi Asrama, Serta Matriks Indikator Kenaikan Jenjang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 7 (Usia 12–13 Tahun), Standar Capaian Kemandirian Dasar, Integrasi Fiqh Marhalatut Tamyiz dengan Scaffolding Pedagogy (Vygotsky) & Attachment In Loco Parentis, Rekayasa Lingkungan Transisi Asrama, Serta Matriks Indikator Kenaikan Jenjang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-02-01/MONOGRAF-RISET-JENJANG-J1-ADAPTASI-ORIENTASI/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels` (Sub-Modul 01: *Level J1: Adaptation & Orientation*)  
@@ -134,7 +134,7 @@ flowchart TD
 #### Studi Kasus Lapangan: Santri J1 Menangis Mogok Sekolah Karena Sabun dan Seragamnya Hilang Tertukar
 * **Konteks Masalah**: Santri A (12 tahun, Jenjang J1) menangis di kamar mandi dan menolak masuk kelas madrasah karena seragam putihnya tertukar dan sabun mandinya hilang (*Loss of Belongings & Helplessness*). Ia merasa terzalimi dan menganggap teman-temannya mencuri barangnya.
 * **Analisis Diagnostik**: Santri A mengalami disorganisasi penataan barang pribadi dan kecemasan adaptasi lingkungan komunal (*Communal Living Anxiety*).
-* **Protokol Resolusi Pelabelan Barang & Pendampingan Musyrif TUMBUH**:
+* **Protokol Resolusi Pelabelan Barang & Pendampingan Musyrif dalam sistem TUMBUH**:
 
 ```mermaid
 flowchart TD

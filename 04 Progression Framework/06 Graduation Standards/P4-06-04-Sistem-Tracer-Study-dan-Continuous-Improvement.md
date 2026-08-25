@@ -1,5 +1,5 @@
 # P4-06-04: SISTEM TRACER STUDY DAN CONTINUOUS IMPROVEMENT (TUMBUH-LOOP)
-## *Monograf Riset Akademik: Metodologi Pelacakan Alumni Longitudinal (Longitudinal Alumni Tracer Study), Analisis Dampak Sosio-Spiritual Pasca-Pesantren (Social Return on Investment / SROI Karakter), Integrasi Fiqh Dawamul Muhasabah Turats dengan Deming's PDCA Cycle (Plan-Do-Check-Act), Serta Arsitektur Sistem Umpan Balik Kurikulum Terpadu di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Pelacakan Alumni Longitudinal (Longitudinal Alumni Tracer Study), Analisis Dampak Sosio-Spiritual Pasca-Pesantren (Social Return on Investment / SROI Karakter), Integrasi Fiqh Dawamul Muhasabah Turats dengan Deming's PDCA Cycle (Plan-Do-Check-Act), Serta Arsitektur Sistem Umpan Balik Kurikulum Terpadu di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-06-04/MONOGRAF-RISET-TRACER-STUDY-CONTINUOUS-IMPROVEMENT/2026`  
 **Domain**: `04 Progression Framework` > `06 Graduation Standards` (Sub-Modul 04: *Tracer Study & Continuous Quality Improvement*)  
@@ -13,7 +13,7 @@
 > * **Kelemahan Pemutusan Hubungan Pasca-Wisuda (*Post-Graduation Disconnect*):**  
 >   Di banyak pesantren, hubungan lembaga dengan santri terputus begitu acara wisuda kelulusan berakhir. Lembaga tidak memiliki sistem pelacakan (*Tracer Study*) yang terstruktur untuk mengetahui apakah alumni mampu mempertahankan aqidah dan adabnya, bagaimana keterserapan mereka di perguruan tinggi dan dunia kerja, serta apa kelemahan kurikulum pondok yang perlu diperbaiki.
 > * **Integrasi Dawamul Muhasabah Turats & Deming's PDCA Continuous Improvement Cycle:**  
->   Ekosistem TUMBUH merancang **Sistem Tracer Study & Continuous Improvement Terpadu (TUMBUH-Loop)** yang memadukan ajaran evaluasi diri tanpa henti (*Dawāmul Muhāsabah*) dalam Islam dengan siklus manajemen mutu *Plan-Do-Check-Act (PDCA)* W. Edwards Deming. Pelacakan alumni dilakukan secara berkala pada **Tahun Ke-1 (T+1)**, **Tahun Ke-3 (T+3)**, dan **Tahun Ke-5 (T+5)** pasca-kelulusan melalui platform digital *Ikatan Alumni TUMBUH (IKAT-TUMBUH)*.
+>   Ekosistem TUMBUH merancang **Sistem Tracer Study & Continuous Improvement Terpadu (TUMBUH-Loop)** yang memadukan ajaran evaluasi diri tanpa henti (*Dawāmul Muhāsabah*) dalam Islam dengan siklus manajemen mutu *Plan-Do-Check-Act (PDCA)* W. Edwards Deming. Pelacakan alumni dilakukan secara berkala pada **Tahun Ke-1 (T+1)**, **Tahun Ke-3 (T+3)**, dan **Tahun Ke-5 (T+5)** pasca-kelulusan melalui platform digital *Ikatan Alumni binaan sistem TUMBUH (IKAT-TUMBUH)*.
 > * **Arsitektur Umpan Balik Kurikulum Berbasis Bukti Lapangan:**  
 >   Monograf ini menyajikan kuesioner baku pelacakan alumni, model kalkulasi dampak sosial (*Social Return on Investment / SROI Karakter*), protokol rapat peninjauan kurikulum tahunan (*Annual Curriculum Quality Review*), dan sistem jejaring advokasi alumni global.
 
@@ -236,7 +236,7 @@ Evaluasi keberlanjutan dampak kurikulum pesantren melalui pelacakan alumni:
 Mengumpulkan data kiprah alumni di 1, 3, dan 5 tahun pasca-kelulusan: jalur studi lanjut, prestasi kepemimpinan organisasi kampus, kontribusi sosial di masyarakat, dan konsistensi ibadah.
 
 #### B. Pilar 2: Survei Kepuasan Stakeholder & Pengguna Lulusan
-Mengukur kepuasan dosen perguruan tinggi dan tokoh masyarakat terhadap adab, integritas, dan etos kerja alumni TUMBUH.
+Mengukur kepuasan dosen perguruan tinggi dan tokoh masyarakat terhadap adab, integritas, dan etos kerja alumni binaan sistem TUMBUH.
 
 #### C. Pilar 3: Siklus Umpan Balik Perbaikan Kurikulum (Curriculum Feedback Loop)
 Temuan dari data tracer study dianalisis oleh Dewan Keilmuan untuk meredesain modul kepengasuhan dan memperkuat materi yang relevan dengan tantangan zaman.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan institusi pendidikan yang tidak melakukan tracer study longitudinal, Schomburg (2003, hlm. 14).  
 [^2]: Kerangka kerja organisasi pembelajar (Learning Organization) dan siklus peningkatan mutu berkelanjutan, Senge (2006, hlm. 48).  
 [^3]: Atsar Khalifah Umar bin Al-Khattab RA dalam *Hilyatul Auliya'* karya Abu Nu'aim Al-Isfahani (1988, Jilid 1, hlm. 52).  
-[^4]: Protokol penyesuaian kurikulum penulisan esai bahasa Arab berbasis hasil tracer study alumni TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan sistem continuous improvement TUMBUH-Loop di Pesantren TUMBUH (2026).  
+[^4]: Protokol penyesuaian kurikulum penulisan esai bahasa Arab berbasis hasil tracer study alumni binaan sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan sistem continuous improvement TUMBUH-Loop di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 
@@ -308,7 +308,7 @@ flowchart TD
 4. **Deming's PDCA Cycle**: Model manajemen mutu 4 tahap (Plan, Do, Check, Act) yang menjamin proses perbaikan berkelanjutan pada suatu organisasi.
 5. **Form KPA-Longitudinal**: Kuesioner resmi pelacakan alumni untuk mengumpulkan data keterserapan studi, karir, konsistensi ibadah, dan masukan kurikulum.
 6. **Social Return on Investment (SROI Karakter)**: Metode evaluasi untuk mengukur besarnya nilai dampak sosial, moral, dan ekonomi yang disumbangkan alumni bagi masyarakat.
-7. **Portal IKAT-TUMBUH**: Platform jaringan digital resmi ikatan alumni pesantren TUMBUH yang memfasilitasi komunikasi, pendataan karir, dan mentoring adik kelas.
+7. **Portal IKAT-TUMBUH**: Platform jaringan digital resmi ikatan alumni ekosistem pesantren berbasis TUMBUH yang memfasilitasi komunikasi, pendataan karir, dan mentoring adik kelas.
 8. **Annual Curriculum Plenary**: Forum musyawarah tahunan dewan kyai, pakar pendidikan, dan perwakilan alumni untuk menyempurnakan kurikulum pesantren.
 9. **Closing-the-Loop Quality Action**: Tindakan nyata merevisi kebijakan atau materi ajar berdasarkan temuan data evaluasi agar kelemahan yang sama tidak terulang.
 10. **Learning Organization**: Paradigma institusi pendidikan yang senantiasa belajar, beradaptasi, dan bertransformasi mengikuti tuntutan perkembangan peradaban zaman.

@@ -70,7 +70,7 @@ flowchart LR
 ```markdown
 ================================================================================
              RAPORT PERKEMBANGAN KARAKTER SANTRI (FORM RAPORT-PBIS)
-                    Ekosistem Pendidikan Pesantren TUMBUH
+                    Ekosistem Pendidikan Ekosistem Pesantren Berbasis TUMBUH
 ================================================================================
 Nama Santri : [________________________________________]   NIS : [___________]
 Kelas / Fase: [ Kelas 8 / Jenjang Wustha ]                 Semester: [ Ganjil ]
@@ -112,7 +112,7 @@ kepercayaan kepada ananda memimpin shalat berjamaah keluarga dan mengapresiasi k
 ananda dalam merapikan kamar pribadinya."
 
 --------------------------------------------------------------------------------
-Wali Santri                    Musyrif Asrama Kamar           Mudir Pesantren TUMBUH
+Wali Santri                    Musyrif Asrama Kamar           Mudir Ekosistem Pesantren Berbasis TUMBUH
 
 
 (_____________________)        (_____________________)        (______________________)
@@ -134,7 +134,7 @@ Lembaga memberlakukan pedoman baku bagi musyrif dalam merumuskan kalimat narasi 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-07-01: Spesifikasi Raport Karakter Periodik PBIS (Form RAPORT-PBIS)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-07-01: Spesifikasi Raport Karakter Periodik PBIS (Form RAPORT-PBIS)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

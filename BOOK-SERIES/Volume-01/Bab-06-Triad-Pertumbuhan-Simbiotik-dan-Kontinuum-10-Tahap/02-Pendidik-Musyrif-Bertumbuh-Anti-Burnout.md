@@ -59,7 +59,7 @@ graph TD
 
 ---
 
-### Tiga Pilar Protokol Manajemen Kerja Musyrif TUMBUH
+### Tiga Pilar Protokol Manajemen Kerja Musyrif dalam sistem TUMBUH
 
 Ekosistem TUMBUH merumuskan tata kelola operasional musyrif[^2] yang menjamin keberlanjutan stamina dan kesehatan mental para pembina:
 

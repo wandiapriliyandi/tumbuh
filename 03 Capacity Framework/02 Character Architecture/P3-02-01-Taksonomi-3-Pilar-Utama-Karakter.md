@@ -198,7 +198,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-02-01: TAKSONOMI TIGA PILAR UTAMA KARAKTER DAN INTEGRASI FITRAH INSANI** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-02-01: TAKSONOMI TIGA PILAR UTAMA KARAKTER DAN INTEGRASI FITRAH INSANI** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -269,7 +269,7 @@ flowchart TD
 [^4]: Shahih Muslim No. 91, Kitab *al-Iman*, Bab *Tahrimul Kibr*.  
 [^5]: Marzano & Kendall (2007), *The New Taxonomy of Educational Objectives*, Corwin Press.  
 [^6]: Al-Mu'jam al-Awsath At-Thabrani No. 5787; derajat Hasan.  
-[^7]: Laporan Evaluasi Integrasi Disiplin Kamar dan Akademik Pesantren TUMBUH, 2026.  
+[^7]: Laporan Evaluasi Integrasi Disiplin Kamar dan Akademik Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Panduan Kurikulum 10 Karakter Muwashafat TUMBUH, Divisi Kurikulum Adab, 2026.  
 [^9]: Modul Bimbingan Regulasi Diri dan Pengendalian Emosi Santri, Biro Konseling TUMBUH, 2026.  
 [^10]: Panduan Pelaksanaan Khidmah Sosial Santri Jenjang J4, Komite Pengabdian Masyarakat, 2026.

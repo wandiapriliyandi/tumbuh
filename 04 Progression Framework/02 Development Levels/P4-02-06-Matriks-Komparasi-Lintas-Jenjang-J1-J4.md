@@ -1,5 +1,5 @@
 # P4-02-06: MATRIKS KOMPARASI LINTAS JENJANG J1–J4 PERKEMBANGAN SANTRI
-## *Monograf Riset Akademik: Analisis Komparasi Menyeluruh Empat Jenjang Kemandirian (J1 Adaptasi, J2 Habituasi, J3 Internalisasi SEL, & J4 Servant Leadership), Integrasi Fiqh Marahil at-Tadrij dengan Teori Perkembangan Kognitif Piaget & Moral Kohlberg-Eisenberg, Pergeseran Indikator Kinerja 24 Jam, Serta Matriks Transisi Progresif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Analisis Komparasi Menyeluruh Empat Jenjang Kemandirian (J1 Adaptasi, J2 Habituasi, J3 Internalisasi SEL, & J4 Servant Leadership), Integrasi Fiqh Marahil at-Tadrij dengan Teori Perkembangan Kognitif Piaget & Moral Kohlberg-Eisenberg, Pergeseran Indikator Kinerja 24 Jam, Serta Matriks Transisi Progresif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-02-06/MONOGRAF-RISET-MATRIKS-KOMPARASI-LINTAS-JENJANG-J1-J4/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels` (Sub-Modul 06: *Cross-Level Comparative Matrix J1–J4*)  
@@ -344,7 +344,7 @@ Penerapan Matriks Komparasi Lintas Jenjang J1–J4 membawa paradigma baru dalam 
 [^1]: Kerancuan ekspektasi perkembangan dan standarisasi perilaku pada sekolah berasrama multi-usia, Kohlberg (1984, hlm. 142).  
 [^2]: Pembahasan evolusi penalaran moral dan prososial dari remaja awal menuju dewasa awal, Eisenberg, Fabes, & Spinrad (2006, hlm. 674).  
 [^3]: HR. Al-Bukhari dalam *Shahih Al-Bukhari* (No. 127), Kitab *Al-'Ilm*.  
-[^4]: Protokol rekalibrasi kompetensi kepengasuhan dan penyesuaian disiplin berbasis usia santri TUMBUH (2026).  
+[^4]: Protokol rekalibrasi kompetensi kepengasuhan dan penyesuaian disiplin berbasis usia santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan matriks komparasi lintas jenjang J1–J4 TUMBUH Pesantren (2026).  
 
 ---

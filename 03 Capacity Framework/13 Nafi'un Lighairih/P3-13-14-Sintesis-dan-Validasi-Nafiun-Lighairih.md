@@ -1,5 +1,5 @@
 # P3-13-14: SINTESIS DAN VALIDASI NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Meta-Sintesis Multidisipliner Kapasitas Kemanfaatan Sosial Santri (Integrasi Epistemologi Khidmah Turats, Sosiologi Modal Sosial Putnam, Psikologi Prososial Batson, & School-Wide PBIS Multi-Tier), Laporan Hasil Pengujian Validitas Isi Dewan Pakar (Content Validity Index / CVI & Aiken's V = 0.978), Matriks Mitigasi Risiko Kebijakan Asrama 24 Jam, Serta Rencana Strategis Implementasi 5 Tahun di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Meta-Sintesis Multidisipliner Kapasitas Kemanfaatan Sosial Santri (Integrasi Epistemologi Khidmah Turats, Sosiologi Modal Sosial Putnam, Psikologi Prososial Batson, & School-Wide PBIS Multi-Tier), Laporan Hasil Pengujian Validitas Isi Dewan Pakar (Content Validity Index / CVI & Aiken's V = 0.978), Matriks Mitigasi Risiko Kebijakan Asrama 24 Jam, Serta Rencana Strategis Implementasi 5 Tahun di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-14/MONOGRAF-RISET-SINTESIS-VALIDASI-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 14: *Synthesis & Multi-Expert Validation*)  
@@ -221,7 +221,7 @@ flowchart LR
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-14: SINTESIS DAN VALIDASI NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-14: SINTESIS DAN VALIDASI NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -306,6 +306,6 @@ flowchart TD
 5. **Pathological Altruism**: Perilaku menolong yang tidak proporsional dan merusak diri sendiri karena ketiadaan regulasi diri dan pemahaman fiqh prioritas.
 6. **Al-'Ilmun Nāfi' (الْعِلْمُ النَّافِعُ)**: Ilmu yang membuahkan ketakwaan batiniah, kerendahhatian akhlak, dan kemanfaatan nyata bagi kemakmuran makhluk Allah.
 7. **Healthy Service Boundaries**: Batasan proporsional jam pengabdian sosial (maksimal 2 jam/hari) untuk menjaga kesehatan fisik, mental, dan capaian akademik santri.
-8. **Rahmatan lil 'Alamin Sanctuary**: Visi luhur pesantren TUMBUH sebagai suaka peradaban yang memancarkan kedamaian, perlindungan, dan solusi bagi semesta.
+8. **Rahmatan lil 'Alamin Sanctuary**: Visi luhur ekosistem pesantren berbasis TUMBUH sebagai suaka peradaban yang memancarkan kedamaian, perlindungan, dan solusi bagi semesta.
 9. **Khadimul Ummah Paripurna**: Gelar kehormatan kelulusan bagi santri yang berhasil menuntaskan seluruh tangga taksonomi khidmah dan proyek pengabdian peradaban.
 10. **Sustainable Social Engagement**: Model pengabdian masyarakat yang terencana, terintegrasi dengan desa binaan, dan memiliki dampak kemaslahatan jangka panjang.

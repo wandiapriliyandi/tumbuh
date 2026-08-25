@@ -221,7 +221,7 @@ Penerapan taksonomi waktu fitrah menghadirkan standar mutu baru kelulusan pesant
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-05: STANDAR KOMPETENSI DAN TAKSONOMI HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-05: STANDAR KOMPETENSI DAN TAKSONOMI HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -290,7 +290,7 @@ flowchart TD
 [^2]: Pembahasan kelemahan pengawasan disiplin mekanistik bel asrama tanpa pembentukan kontrol internal, Macan (1990, hlm. 764).  
 [^3]: Al-Qarafi, *Al-Furuq* (1998, Jilid 1, hlm. 184).  
 [^4]: Protokol pendampingan defisit perencanaan eksekutif santri melalui sistem penataan visual, Diamond (2013, hlm. 156).  
-[^5]: Standar kelulusan dan sertifikasi kemandirian waktu santri TUMBUH Pesantren (2026).  
+[^5]: Standar kelulusan dan sertifikasi kemandirian waktu santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

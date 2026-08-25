@@ -1,4 +1,4 @@
-# Domain 10: Methods (Kerangka Kerja Metodologi Pedagogi Pesantren TUMBUH)
+# Domain 10: Methods (Kerangka Kerja Metodologi Pedagogi Ekosistem Pesantren Berbasis TUMBUH)
 
 Domain ini memuat petunjuk praktis dan metodologi pelaksanaan (*Pedagogical & Behavioral Methods*) di ekosistem **TUMBUH** yang terbagi dalam **7 Sub-Domain Utama**: Learning Methods, Mentoring Methods, Coaching Methods, Reflection Methods, Habit Formation, Experiential Learning, dan Collaborative Learning.
 

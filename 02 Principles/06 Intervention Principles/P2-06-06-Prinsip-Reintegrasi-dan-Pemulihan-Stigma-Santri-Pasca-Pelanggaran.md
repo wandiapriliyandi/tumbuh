@@ -28,7 +28,7 @@
   - [4. Rekayasa Protokol Clean Slate (Pemutihan Rekam Jejak) & Upacara Penerimaan Kembali Komunitas Asrama](#4-rekayasa-protokol-clean-slate-pemutihan-rekam-jejak--upacara-penerimaan-kembali-komunitas-asrama)
   - [5. Kasuistika Lapangan: Transformasi Santri Khilaf Mencuri Menjadi Santri Teladan Khidmah Asrama](#5-kasuistika-lapangan-transformasi-santri-khilaf-mencuri-menjadi-santri-teladan-khidmah-asrama)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Reintegrasi Sosial & Anti-Stigmatisasi Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-reintegrasi-sosial--anti-stigmatisasi-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Reintegrasi Sosial & Anti-Stigmatisasi Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-reintegrasi-sosial--anti-stigmatisasi-pesantren-tumbuh)
   - [2. Matriks Tiga Fase Reintegrasi Sosial: Fase Penyesuaian, Fase Pembuktian, & Fase Pemulihan Penuh](#2-matriks-tiga-fase-reintegrasi-sosial-fase-penyesuaian-fase-pembuktian--fase-pemulihan-penuh)
   - [3. Standar Prosedur Operasional (SOP) Pemutihan Rekam Jejak (Clean Slate SOP)](#3-standar-prosedur-operasional-sop-pemutihan-rekam-jejak-clean-slate-sop)
   - [4. Protokol Upacara Penerimaan Kembali Komunal (Social Re-Inclusion Ceremony Protocol)](#4-protokol-upacara-penerimaan-kembali-komunal-social-re-inclusion-ceremony-protocol)
@@ -106,7 +106,7 @@ TUMBUH merancang sistem pemulihan nama baik:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Reintegrasi Sosial & Anti-Stigmatisasi Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Reintegrasi Sosial & Anti-Stigmatisasi Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan pemulihan martabat ke dalam **Arsitektur Tiga Sayap Reintegrasi Khuluqiyyah (*Arkan I'adati at-Ta'hil*)**:
 
@@ -181,7 +181,7 @@ Prinsip reintegrasi sosial dan pemulihan martabat ini membawa implikasi agung ba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-06: PRINSIP REINTEGRASI SOSIAL, PEMBERSIHAN STIGMA, DAN PEMULIHAN MARTABAT SANTRI (SOCIAL REINTEGRATION & NO-STIGMA PROTOCOLS)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-06: PRINSIP REINTEGRASI SOSIAL, PEMBERSIHAN STIGMA, DAN PEMULIHAN MARTABAT SANTRI (SOCIAL REINTEGRATION & NO-STIGMA PROTOCOLS)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -249,7 +249,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Reintegrasi Sosial dan Pembersihan Stigma Santri TUMBUH, *Kritik atas Bahaya Pelabelan Abadi*, 2026.  
+[^1]: Riset Prinsip Reintegrasi Sosial dan Pembersihan Stigma Santri dalam sistem TUMBUH, *Kritik atas Bahaya Pelabelan Abadi*, 2026.  
 [^2]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 121.  
 [^3]: Atsar Sayyidina Umar bin Khattab RA mengenai pemuliaan orang yang bertobat; Ibnu Qayyim, *Madarij as-Salikin*, Jilid 1, Bab *At-Taubah*, hlm. 310–345.  
 [^4]: Braithwaite, J. (1989), *Crime, Shame and Reintegration*; Becker, H. S. (1963); Lemert, E. M. (1967).  
@@ -257,7 +257,7 @@ flowchart TD
 [^6]: Dokumentasi Keberhasilan Reintegrasi Sosial dan Penobatan Duta Khidmah PBIS TUMBUH, 2026.  
 [^7]: Master Blueprint Paradigma Reintegrative Shaming Ekosistem TUMBUH, 2026.  
 [^8]: Standar Operasional Prosedur Pendampingan Masa Pembuktian Karakter TUMBUH, 2026.  
-[^9]: Petunjuk Teknis Enkripsi dan Pengarsipan Tertutup Data Pelanggaran Santri TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Enkripsi dan Pengarsipan Tertutup Data Pelanggaran Santri dalam sistem TUMBUH, 2026.  
 [^10]: Master Guidelines Protokol Upacara Penerimaan Kembali Komunal Asrama TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Martabat Pertobatan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

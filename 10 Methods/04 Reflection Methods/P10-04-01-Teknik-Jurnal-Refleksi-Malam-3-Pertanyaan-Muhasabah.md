@@ -1,5 +1,5 @@
 # P10-04-01: TEKNIK JURNAL REFLEKSI MALAM 3-PERTANYAAN MUHASABAH
-## *Monograf Riset Akademik: Standarisasi Teknik Jurnal Refleksi Malam 3-Pertanyaan Muhasabah (Nightly 3-Question Muhasabah Journaling), Desain Katarsis Ekspresif dan Penjernihan Batin Pra-Tidur (Bedtime Expressive Writing & Somatic Deceleration), Serta Penegakan Privasi Muhasabah Tanpa Penilaian Menghakimi (Nightly Muhasabah Journaling Technique, Bedtime Affective Deceleration Architecture, & Non-Evaluative Sanctity / Form MET-JurnalMuhasabah), Integrasi Doktrin 'Hāsibū Anfusakum Qabla An Tuhāsabū' Turats Klasik dengan Pennebaker Expressive Writing, Gibbs Reflective Cycle, Serta Regulasi Diri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Jurnal Refleksi Malam 3-Pertanyaan Muhasabah (Nightly 3-Question Muhasabah Journaling), Desain Katarsis Ekspresif dan Penjernihan Batin Pra-Tidur (Bedtime Expressive Writing & Somatic Deceleration), Serta Penegakan Privasi Muhasabah Tanpa Penilaian Menghakimi (Nightly Muhasabah Journaling Technique, Bedtime Affective Deceleration Architecture, & Non-Evaluative Sanctity / Form MET-JurnalMuhasabah), Integrasi Doktrin 'Hāsibū Anfusakum Qabla An Tuhāsabū' Turats Klasik dengan Pennebaker Expressive Writing, Gibbs Reflective Cycle, Serta Regulasi Diri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-04-01/MONOGRAF-RISET-JURNAL-MUHASABAH-MALAM/2026`  
 **Domain**: `10 Methods` > `04 Reflection Methods` (Sub-Modul 01: *Nightly 3-Question Muhasabah Journaling*)  
@@ -106,7 +106,7 @@ Penerapan *Nightly Muhasabah Journaling* membuktikan bahwa penyediaan ruang heni
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-04-01: TEKNIK JURNAL REFLEKSI MALAM 3-PERTANYAAN MUHASABAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-04-01: TEKNIK JURNAL REFLEKSI MALAM 3-PERTANYAAN MUHASABAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -159,5 +159,5 @@ flowchart TD
 
 [^1]: James W. Pennebaker mengenai efek terapeutik penulisan ekspresif terhadap penurunan stres dan peningkatan kesehatan imunologik, Pennebaker (1997, hlm. 163).
 [^2]: Al-Harits Al-Muhasibi mengenai urgensi hisab diri harian sebelum tidur sebagai pilar tazkiyatun nafs, Ar-Ri'ayah (2003, hlm. 78).
-[^3]: Studi kasus penerapan instrumen Jurnal Refleksi Malam menyembuhkan insomnia santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen Jurnal Refleksi Malam menyembuhkan insomnia santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak deselerasi somatik dan penulisan syukur pra-tidur terhadap peningkatan ketenangan mental santri (2026).

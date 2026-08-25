@@ -185,7 +185,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap tahapan kurikulum pembinaan pesantren yang memiliki kriteria capaian yang jelas (*Milestone Indicators*) pada setiap kenaikan jenjang niscaya memotivasi peserta didik untuk bertumbuh secara sadar dan merayakan kemajuan spiritualnya.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH menetapkan instrumen uji kelayakan kenaikan tangga (*Level-Up Gateways*) dari Jenjang J1 menuju J2, J3, dan J4.
-* **Konklusi (*an-Natijah*)**: Maka, progresi kemandirian ibadah santri di pesantren TUMBUH berlangsung secara terstruktur, teruji, dan berkesinambungan.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, progresi kemandirian ibadah santri dalam sistem TUMBUH di pesantren berlangsung secara terstruktur, teruji, dan berkesinambungan.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Scaffolding Disiplin di Jenjang J1: Zero Masbuq
 * **Pihak A (Sudut Pandang Membiarkan Santri Baru Masbuq Berkali-kali)**:  
@@ -342,7 +342,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -410,7 +410,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Psikologi Perkembangan Ibadah Remaja Pesantren TUMBUH, *Kritik atas Model Pembinaan Pukul Rata*, 2026.  
+[^1]: Riset Psikologi Perkembangan Ibadah Remaja Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Model Pembinaan Pukul Rata*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs wa Tarbiyatush Shibyan*, hlm. 65–88.  
 [^3]: *Sunan Abi Dawud*, Kitab ash-Shalah, Hadits No. 495; *Musnad Ahmad*, Hadits No. 6689.  
 [^4]: Matan *Ihya' 'Ulumiddin*, Jilid 3, hlm. 72.  
@@ -432,7 +432,7 @@ flowchart TD
 
 ### 4. Glosarium Istilah Ilmiah & Turats Tahapan Perkembangan
 
-1. **Tangga Kemandirian J1–J4**: Kerangka tahapan pembinaan karakter pesantren TUMBUH yang membagi progresi santri ke dalam 4 jenjang: J1 (Adaptasi), J2 (Habituasi), J3 (Internalisasi), dan J4 (Qudwah).
+1. **Tangga Kemandirian J1–J4**: Kerangka tahapan pembinaan karakter ekosistem pesantren berbasis TUMBUH yang membagi progresi santri ke dalam 4 jenjang: J1 (Adaptasi), J2 (Habituasi), J3 (Internalisasi), dan J4 (Qudwah).
 2. **Marahil at-Tarbiyah wa at-Taklif (مَرَاحِلُ التَّرْبِيَةِ وَالتَّكْلِيفِ)**: Konsep tahapan usia pembinaan dan pembebanan hukum syariat dalam tradisi Islam, dimulai dari masa Tamyiz (7 tahun), masa Pendisiplinan (10 tahun), hingga masa Baligh Mukallaf (15 tahun).
 3. **Self-Determination Theory (SDT)**: Teori psikologi motivasi Edward Deci dan Richard Ryan yang menjelaskan pergeseran regulasi perilaku dari kendali eksternal menuju motivasi otonom intrinsik.
 4. **Prefrontal Cortex (PFC)**: Bagian otak depan yang bertanggung jawab atas fungsi eksekutif, perencanaan jangka panjang, kendali impuls, dan regulasi perhatian yang baru matang sempurna pada usia dewasa awal.

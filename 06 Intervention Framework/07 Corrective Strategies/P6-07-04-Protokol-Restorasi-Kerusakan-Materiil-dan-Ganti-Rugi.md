@@ -1,5 +1,5 @@
 # P6-07-04: PROTOKOL RESTORASI KERUSAKAN MATERIIL DAN GANTI RUGI
-## *Monograf Riset Akademik: Standarisasi Protokol Penegakan Tanggung Jawab Ganti Rugi Finansial dan Restitusi Fisik Terstruktur (Material Restitution Protocols, Property Repair Accountability, & Dhamānul 'Udwān / Form PRM-Restorasi), Integrasi Doktrin 'Al-Kharāju bidh-Dhamān wa Man Atlafa Syaian fa 'Alaihi 'Iwadhuh' Turats Klasik dengan Braithwaite's Restorative Reintegration & Material Restitution, Serta Keadilan Finansial di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Penegakan Tanggung Jawab Ganti Rugi Finansial dan Restitusi Fisik Terstruktur (Material Restitution Protocols, Property Repair Accountability, & Dhamānul 'Udwān / Form PRM-Restorasi), Integrasi Doktrin 'Al-Kharāju bidh-Dhamān wa Man Atlafa Syaian fa 'Alaihi 'Iwadhuh' Turats Klasik dengan Braithwaite's Restorative Reintegration & Material Restitution, Serta Keadilan Finansial di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-07-04/MONOGRAF-RISET-RESTORASI-KERUSAKAN-MATERIIL/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 04: *Material Restitution Protocols & Property Repair Accountability*)  
@@ -209,7 +209,7 @@ Penerapan protokol restorasi materiil Form PRM ini menghadirkan keunggulan perad
 
 1. **Melenyapkan Perilaku Vandalisme di Pesantren (*Zero Vandalism Climate*)**: Santri merawat fasilitas asrama dengan penuh rasa memiliki (*Sense of Belonging*).
 2. **Mendidik Integritas Finansial Santri Sejak Dini (*Financial Moral Maturity*)**: Santri memahami beratnya mencari rezeki dan menghargai setiap rupiah uang orang tua.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Dhamānul Itlāf dan Restorative Material Restitution**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan pemeliharaan aset paling akuntabel di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Dhamānul Itlāf dan Restorative Material Restitution**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan pemeliharaan aset paling akuntabel di dunia.[^5]
 
 ---
 
@@ -217,7 +217,7 @@ Penerapan protokol restorasi materiil Form PRM ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-07-04: PROTOKOL RESTORASI KERUSAKAN MATERIIL DAN GANTI RUGI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-07-04: PROTOKOL RESTORASI KERUSAKAN MATERIIL DAN GANTI RUGI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -283,8 +283,8 @@ flowchart TD
 [^1]: Teori Restorative Reintegration dan akuntabilitas restitusi materiil John Braithwaite, Braithwaite (2002, hlm. 45).  
 [^2]: Model konferensi keadilan restoratif dan restitusi materiil Gordon Bazemore & Mark Umbreit, Bazemore & Umbreit (2001, hlm. 8).  
 [^3]: Al-Kasani, *Bada'i'ush Shanai'* (2003, Jilid 7, hlm. 164), bab syarat dan hikmah penetapan dhaman dalam perusakan harta fasilitas publik oleh anak mumayyiz.  
-[^4]: Protokol restitusi materiil edukatif perbaikan jendela asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol restorasi kerusakan materiil dan ganti rugi di Pesantren TUMBUH (2026).  
+[^4]: Protokol restitusi materiil edukatif perbaikan jendela asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol restorasi kerusakan materiil dan ganti rugi di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

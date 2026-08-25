@@ -1,5 +1,5 @@
 # P11-02: INSTRUMEN OBSERVASI DAN PENCATATAN PERILAKU MUSYRIF
-## *Master Monograf Riset Akademik: Arsitektur Ekosistem Instrumen Observasi Lapangan Asrama 24 Jam (Field Behavioral Observation Tools), Sintesis Tiga Dimensi Pengamatan (Logbook Mobile PBIS, Checklist Adab Kamar & Sholat, serta Incident Report A-B-C Contingency), Integrasi Doktrin 'Al-Muraqabah wal-Muhasabah' Turats Klasik dengan Ecological Momentary Assessment (EMA) & Applied Behavior Analysis, Serta Transformasi Pengasuhan Pesantren Berbasis Data Empiris di Pesantren TUMBUH*
+## *Master Monograf Riset Akademik: Arsitektur Ekosistem Instrumen Observasi Lapangan Asrama 24 Jam (Field Behavioral Observation Tools), Sintesis Tiga Dimensi Pengamatan (Logbook Mobile PBIS, Checklist Adab Kamar & Sholat, serta Incident Report A-B-C Contingency), Integrasi Doktrin 'Al-Muraqabah wal-Muhasabah' Turats Klasik dengan Ecological Momentary Assessment (EMA) & Applied Behavior Analysis, Serta Transformasi Pengasuhan Pesantren Berbasis Data Empiris di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-02/MASTER-MONOGRAF-OBSERVATION-TOOLS/2026`  
 **Domain**: `11 Tools` > `02 Observation Tools` (Master Synthesis Monograph)  
@@ -109,7 +109,7 @@ Penggunaan instrumen observasi multi-metode (*Multi-Method Behavioral Observatio
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-02: INSTRUMEN OBSERVASI DAN PENCATATAN PERILAKU MUSYRIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-02: INSTRUMEN OBSERVASI DAN PENCATATAN PERILAKU MUSYRIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

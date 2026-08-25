@@ -1,5 +1,5 @@
 # P5-10-05: PROTOKOL KOREKSI DISCREPANCY DAN REKONSILIASI NILAI
-## *Monograf Riset Akademik: Protokol Deteksi Anomali Diskrepansi Antar-Rater dan Sidang Pleno Rekonsiliasi Nilai (Inter-Rater Discrepancy Correction & Scoring Reconciliation Protocol / Form PDR-Rekonsiliasi), Integrasi Doktrin 'Al-Jam'u Bainasy Syahādātayn wa Raf'ul Khilāf' Turats Klasik dengan Inter-Rater Disagreement Analytics, Delphi Reconciliation Method, Serta Mediasi Psikometri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Deteksi Anomali Diskrepansi Antar-Rater dan Sidang Pleno Rekonsiliasi Nilai (Inter-Rater Discrepancy Correction & Scoring Reconciliation Protocol / Form PDR-Rekonsiliasi), Integrasi Doktrin 'Al-Jam'u Bainasy Syahādātayn wa Raf'ul Khilāf' Turats Klasik dengan Inter-Rater Disagreement Analytics, Delphi Reconciliation Method, Serta Mediasi Psikometri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-10-05/MONOGRAF-RISET-KOREKSI-DISCREPANCY-REKONSILIASI/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 05: *Inter-Rater Discrepancy Correction & Scoring Reconciliation Protocol*)  
@@ -216,7 +216,7 @@ Penerapan protokol koreksi diskrepansi Form PDR ini menghadirkan keunggulan pera
 
 1. **Menyingkap Tabir Masalah Tersembunyi Santri yang Kerap Tidak Terlihat (*Early Threat Uncovering*)**: Perbedaan nilai menjadi sinyal diagnostik emas untuk membongkar kasus perundungan dan krisis emosional.
 2. **Menghilangkan Konflik Ego Antar-Divisi Pengasuhan (*Inter-Departmental Harmony*)**: Membangun budaya musyawarah ilmiah berbasis fakta di antara para pendidik.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Jam'u Bainasy Syahādātayn dan Delphi Methodology**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem akuntabilitas asesmen paling adil di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Jam'u Bainasy Syahādātayn dan Delphi Methodology**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem akuntabilitas asesmen paling adil di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan protokol koreksi diskrepansi Form PDR ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-10-05: PROTOKOL KOREKSI DISCREPANCY DAN REKONSILIASI NILAI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-10-05: PROTOKOL KOREKSI DISCREPANCY DAN REKONSILIASI NILAI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,7 +291,7 @@ flowchart TD
 [^2]: Kerangka kerja Delphi Consensus Method dalam mencapai kesepakatan panel ahli berbasis bukti, Dalkey & Helmer (1963, hlm. 460).  
 [^3]: Tajuddin As-Subki, *Al-Asybah wan Nazha'ir* (1991, Jilid 2, hlm. 82), kaidah mengompromikan dua persaksian yang bertentangan berdasarkan perbedaan waktu dan tempat.  
 [^4]: Protokol sidang pleno rekonsiliasi diskrepansi dan penanganan kasus bullying tersembunyi TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol koreksi diskrepansi dan rekonsiliasi nilai di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol koreksi diskrepansi dan rekonsiliasi nilai di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

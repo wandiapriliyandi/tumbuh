@@ -1,5 +1,5 @@
 # P6-09-04: MANAJEMEN TRAUMA HEALING DAN DUKUNGAN PSIKOLOGIS KORBAN
-## *Monograf Riset Akademik: Standarisasi Pertolongan Pertama Psikologis, Manajemen Pemulihan Stres Pasca-Trauma Santri, dan Penyelenggaraan Healing Circles Pasca-Insiden (Victim Trauma Healing Protocols, Psychological First Aid PFA, & Healing Circles / Form MTH-TraumaHealing), Integrasi Doktrin 'Jabrul Khawāthir wa Taskīnul Rū'i' Turats Klasik dengan WHO Psychological First Aid (PFA), Trauma-Informed Restorative Care, Serta Kesejahteraan Emosional di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Pertolongan Pertama Psikologis, Manajemen Pemulihan Stres Pasca-Trauma Santri, dan Penyelenggaraan Healing Circles Pasca-Insiden (Victim Trauma Healing Protocols, Psychological First Aid PFA, & Healing Circles / Form MTH-TraumaHealing), Integrasi Doktrin 'Jabrul Khawāthir wa Taskīnul Rū'i' Turats Klasik dengan WHO Psychological First Aid (PFA), Trauma-Informed Restorative Care, Serta Kesejahteraan Emosional di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-09-04/MONOGRAF-RISET-TRAUMA-HEALING-DUKUNGAN-KORBAN/2026`  
 **Domain**: `06 Intervention Framework` > `09 Recovery` (Sub-Modul 04: *Victim Trauma Healing Protocols & Psychological First Aid*)  
@@ -210,7 +210,7 @@ Penerapan manajemen trauma healing Form MTH ini menghadirkan keunggulan peradaba
 
 1. **Mewujudkan Pesantren Sebagai Suaka Perlindungan Hak Asasi Santri (*Safe Sanctuary of Education*)**: Menghilangkan stigma bahwa pesantren adalah tempat yang menakutkan atau penuh intimidasi.
 2. **Menyelamatkan Kesehatan Mental dan Masa Depan Santri Korban (*Preservation of Psychological Well-being*)**: Mencegah trauma masa kecil merusak potensi akademik dan kepemimpinan santri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Jabrul Khawāthir dan WHO Psychological First Aid**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem perlindungan anak dan tanggap trauma terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Jabrul Khawāthir dan WHO Psychological First Aid**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem perlindungan anak dan tanggap trauma terbaik di dunia.[^5]
 
 ---
 
@@ -218,7 +218,7 @@ Penerapan manajemen trauma healing Form MTH ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-09-04: MANAJEMEN TRAUMA HEALING DAN DUKUNGAN PSIKOLOGIS KORBAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-09-04: MANAJEMEN TRAUMA HEALING DAN DUKUNGAN PSIKOLOGIS KORBAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -285,8 +285,8 @@ flowchart TD
 [^1]: Panduan operasional Psychological First Aid (PFA) WHO dalam pertolongan pertama krisis psikologis, WHO (2011, hlm. 14).  
 [^2]: Model 3 tahapan pemulihan trauma Judith Herman dalam penanganan luka batin pasca-kekerasan, Herman (1992, hlm. 155).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Zadul Ma'ad fi Hadyi Khairil 'Ibad* (2008, Jilid 4, hlm. 182), bab mengobati ketakutan jiwa dan keutamaan menentramkan hati yang tertimpa musibah.  
-[^4]: Protokol pertolongan pertama psikologis PFA dan pemulihan trauma santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen trauma healing dan dukungan psikologis korban di Pesantren TUMBUH (2026).  
+[^4]: Protokol pertolongan pertama psikologis PFA dan pemulihan trauma santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen trauma healing dan dukungan psikologis korban di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

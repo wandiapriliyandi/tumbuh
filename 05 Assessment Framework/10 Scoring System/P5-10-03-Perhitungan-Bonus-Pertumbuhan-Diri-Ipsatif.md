@@ -1,5 +1,5 @@
 # P5-10-03: PERHITUNGAN BONUS PERTUMBUHAN DIRI IPSATIF
-## *Monograf Riset Akademik: Algoritma Perhitungan Laju Pertumbuhan Diri dan Formulasi Bonus Progresi Ipsatif (Ipsative Growth Bonus & Self-Referenced Velocity Algorithm / Form BPI-Ipsatif), Integrasi Doktrin 'Man Kāna Yawmuhu Khairan min Amsih' Turats Klasik dengan Ipsative Assessment Theory (Hughes), Value-Added Modeling (VAM), Serta Rekompensasi Ikhtiar di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Algoritma Perhitungan Laju Pertumbuhan Diri dan Formulasi Bonus Progresi Ipsatif (Ipsative Growth Bonus & Self-Referenced Velocity Algorithm / Form BPI-Ipsatif), Integrasi Doktrin 'Man Kāna Yawmuhu Khairan min Amsih' Turats Klasik dengan Ipsative Assessment Theory (Hughes), Value-Added Modeling (VAM), Serta Rekompensasi Ikhtiar di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-10-03/MONOGRAF-RISET-BONUS-PERTUMBUHAN-IPSATIF/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 03: *Ipsative Growth Bonus & Value-Added Scoring Algorithm*)  
@@ -234,7 +234,7 @@ Penerapan algoritma bonus pertumbuhan ipsatif Form BPI ini menghadirkan keunggul
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-10-03: PERHITUNGAN BONUS PERTUMBUHAN DIRI IPSATIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-10-03: PERHITUNGAN BONUS PERTUMBUHAN DIRI IPSATIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -302,8 +302,8 @@ flowchart TD
 [^1]: Kerangka kerja Ipsative Assessment Gwyneth Hughes mengenai evaluasi diri berbasis kemajuan longitudinal, Hughes (2014, hlm. 32).  
 [^2]: Model Value-Added (VAM) William Sanders dalam mengukur nilai tambah kontribusi pendidikan, Sanders & Horn (1998, hlm. 250).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 94), bab keutamaan orang yang berhijrah menundukkan hawa nafsu dan berbenah diri.  
-[^4]: Protokol komputasi bonus pertumbuhan ipsatif dan anugerah An-Najmul Mutsaqqaf Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan algoritma bonus pertumbuhan diri ipsatif di Pesantren TUMBUH (2026).  
+[^4]: Protokol komputasi bonus pertumbuhan ipsatif dan anugerah An-Najmul Mutsaqqaf Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan algoritma bonus pertumbuhan diri ipsatif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -28,7 +28,7 @@
   - [4. Rekayasa Manajemen Homesickness 14 Hari Pertama: Anatomi Separation Anxiety & Protokol Transisi Empatik](#4-rekayasa-manajemen-homesickness-14-hari-pertama-anatomi-separation-anxiety--protokol-transisi-empatik)
   - [5. Kasuistika Lapangan: Kasus Santri Baru Mengalami Homesickness Berat & Resolusi Kelekatan Aman](#5-kasuistika-lapangan-kasus-santri-baru-mengalami-homesickness-berat--resolusi-kelekatan-aman)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH](#1-eksplanasi-teoretis-prinsip-keterikatan-aman-dan-peran-in-loco-parentis-musyrif-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif dalam sistem TUMBUH](#1-eksplanasi-teoretis-prinsip-keterikatan-aman-dan-peran-in-loco-parentis-musyrif-tumbuh)
   - [2. Matriks Empat Gaya Kelekatan (Attachment Styles) & Pendekatan Respon Musyrif Asrama](#2-matriks-empat-gaya-kelekatan-attachment-styles--pendekatan-respon-musyrif-asrama)
   - [3. Protokol Transisi Adaptasi Santri Baru 14 Hari Pertama (Zero Acute Homesickness SOP)](#3-protokol-transisi-adaptasi-santri-baru-14-hari-pertama-zero-acute-homesickness-sop)
   - [4. Matriks Peran Musyrif Sebagai Secure Base & Safe Haven dalam Kehidupan 24 Jam](#4-matriks-peran-musyrif-sebagai-secure-base--safe-haven-dalam-kehidupan-24-jam)
@@ -108,7 +108,7 @@ TUMBUH merancang fase adaptasi santri baru:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Keterikatan Aman dan Peran In Loco Parentis Musyrif dalam sistem TUMBUH
 
 Ekosistem TUMBUH merumuskan pengasuhan ke dalam **Arsitektur Tiga Sayap Kelekatan Asrama (*Arkan ar-Ri'ayah al-Walidiyyah*)**:
 
@@ -135,7 +135,7 @@ flowchart TD
 
 ### 2. Matriks Empat Gaya Kelekatan (Attachment Styles) & Pendekatan Respon Musyrif Asrama
 
-| Gaya Kelekatan Santri | Ciri Perilaku Santri di Asrama | Pendekatan Intervensi Musyrif TUMBUH |
+| Gaya Kelekatan Santri | Ciri Perilaku Santri di Asrama | Pendekatan Intervensi Musyrif dalam sistem TUMBUH |
 | :--- | :--- | :--- |
 | **1. Secure (Aman)** | Percaya diri, mudah bergaul, kooperatif.| Beri ruang eksplorasi & peran kepemimpinan kamar.|
 | **2. Anxious (Cemas)** | Selalu mencari perhatian, takut ditinggal, manja.| Beri kepastian afirmasi kasih sayang & jadwal teratur.|
@@ -186,7 +186,7 @@ Prinsip keterikatan aman dan pengasuhan in loco parentis ini membawa implikasi a
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-02: PRINSIP KETERIKATAN AMAN DAN PENGASUHAN IN LOCO PARENTIS (SECURE ATTACHMENT & IN LOCO PARENTIS CAREGIVING)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-02: PRINSIP KETERIKATAN AMAN DAN PENGASUHAN IN LOCO PARENTIS (SECURE ATTACHMENT & IN LOCO PARENTIS CAREGIVING)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -261,7 +261,7 @@ flowchart TD
 [^5]: Thurber, C. A., & Walton, E. A. (2007), *Pediatrics*, hlm. 192–201; Siegel, D. J., & Bryson, T. P. (2012), *The Whole-Brain Child*.  
 [^6]: Dokumentasi Pendampingan Santri Baru dan Eradikasi Acute Homesickness PBIS TUMBUH, 2026.  
 [^7]: Master Blueprint Musyrif Safe Haven dan Kesejahteraan Emosional Asrama TUMBUH, 2026.  
-[^8]: Blueprint Musyrif Secure Base dan Kemandirian Santri TUMBUH, 2026.  
+[^8]: Blueprint Musyrif Secure Base dan Kemandirian Santri dalam sistem TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Buddy System dan Kakak Asuh Kamar Asrama TUMBUH, 2026.  
 [^10]: Deklarasi Pemuliaan Kasih Sayang In Loco Parentis Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

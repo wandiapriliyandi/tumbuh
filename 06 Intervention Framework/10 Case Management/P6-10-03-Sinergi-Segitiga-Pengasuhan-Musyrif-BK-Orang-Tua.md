@@ -1,5 +1,5 @@
 # P6-10-03: SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA
-## *Monograf Riset Akademik: Standarisasi Kolaborasi Tripartit Pengasuhan 24 Jam, Penyelarasan Pola Asuh Multilateral, dan Komunikasi Sinergis Tanpa Friksi Antar-Pendidik (Tripartite Care Coordination SOP, Multilateral Parenting Alignment, & Musyrif-Counselor-Parent Synergy / Form SSP-Segitiga), Integrasi Doktrin 'At-Takāful wal Bunyānul Marsūs' Turats Klasik dengan Epstein's School-Family-Community Partnerships, Interprofessional Collaboration Theory, Serta Kebersamaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Kolaborasi Tripartit Pengasuhan 24 Jam, Penyelarasan Pola Asuh Multilateral, dan Komunikasi Sinergis Tanpa Friksi Antar-Pendidik (Tripartite Care Coordination SOP, Multilateral Parenting Alignment, & Musyrif-Counselor-Parent Synergy / Form SSP-Segitiga), Integrasi Doktrin 'At-Takāful wal Bunyānul Marsūs' Turats Klasik dengan Epstein's School-Family-Community Partnerships, Interprofessional Collaboration Theory, Serta Kebersamaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-10-03/MONOGRAF-RISET-SINERGI-SEGITIGA-PENGASUHAN/2026`  
 **Domain**: `06 Intervention Framework` > `10 Case Management` (Sub-Modul 03: *Tripartite Care Coordination & Multilateral Parenting Alignment*)  
@@ -211,7 +211,7 @@ Penerapan protokol sinergi segitiga Form SSP ini menghadirkan keunggulan peradab
 
 1. **Melenyapkan Seluruh Celah Manipulasi Perilaku Santri (*Complete Elimination of Splitting*)**: Menjadikan santri sadar bahwa seluruh pendidik dan orang tuanya berbicara dalam satu suara kebaikan.
 2. **Membangun Budaya Saling Menghargai Lintas Profesi di Pesantren (*Exemplary Interprofessional Climate*)**: Menghilangkan gesekan antara pembina asrama dengan guru bimbingan konseling.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Kal Bunyānul Marsūs dan Epstein's Partnership Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem kemitraan tripartit paling solid di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Kal Bunyānul Marsūs dan Epstein's Partnership Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem kemitraan tripartit paling solid di dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan protokol sinergi segitiga Form SSP ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-10-03: SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-10-03: SINERGI SEGITIGA PENGASUHAN MUSYRIF, BK, DAN ORANG TUA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Model School-Family-Community Partnerships Joyce Epstein mengenai 6 tipe keterlibatan keluarga, Epstein (2001, hlm. 48 & 2018, hlm. 112).  
 [^2]: Kerangka kerja Interprofessional Collaborative Practice (IPCP) dalam koordinasi layanan multidisiplin pendidikan, IPEC (2016, hlm. 14).  
 [^3]: Az-Zarnuji, *Ta'limul Muta'allim Thariqat Ta'allum* (2010, hlm. 82), bab syarat-syarat keberhasilan penuntut ilmu melalui kesatuan barisan guru, pembina, dan orang tua.  
-[^4]: Protokol kemitraan segitiga pengasuhan dan resolusi manipulasi santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan sinergi segitiga pengasuhan musyrif, BK, dan orang tua di Pesantren TUMBUH (2026).  
+[^4]: Protokol kemitraan segitiga pengasuhan dan resolusi manipulasi santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan sinergi segitiga pengasuhan musyrif, BK, dan orang tua di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

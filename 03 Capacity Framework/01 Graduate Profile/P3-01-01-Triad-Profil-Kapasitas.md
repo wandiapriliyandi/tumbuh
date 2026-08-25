@@ -31,7 +31,7 @@
   - [4. Anatomi Kapasitas Tiga Pilar: Santri, Pendidik, dan Institusi Pesantren](#4anatomi-kapasitas-tiga-pilar-santri-pendidik-dan-institusi-pesantren)
   - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Pesantren TUMBUH](#1-formulasi-konseptual-piagam-triad-profil-kapasitas-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-piagam-triad-profil-kapasitas-pesantren-tumbuh)
   - [2. Matriks Integrasi Standar Kapasitas Triad: Indikator, Alat Ukur, & Bukti Pertumbuhan](#2-matriks-integrasi-standar-kapasitas-triad-indikator-alat-ukur--bukti-pertumbuhan)
   - [3. Protokol Penjaminan Simbiosis Triad dalam Kehidupan Pesantren 24 Jam](#3-protokol-penjaminan-simbiosis-triad-dalam-kehidupan-pesantren-24-jam)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -65,8 +65,7 @@ flowchart TD
         Sistem["3. PROFIL SISTEM LEMBAGA TUMBUH<br/>• Organisasi Pembelajar Berbasis Data PBIS.<br/>• Tata Ruang Asrama Sehat CPTED (Zero Hotspots).<br/>• Manajemen Transparan & Budaya Bebas Intimidasi."]
         
         Santri <===>|Hubungan Kasih Sayang & Keteladanan| Guru
-        Guru <===>|Dukungan Fasilitas, SOP, & Perlindungan| Sistem
-        Sistem <===>|Lingkungan Aman Bi'ah Shalihah| Santri
+        Guru <===>|Dukungan Fasilitas, SOP, & Perlindungan| sistem <===>|Lingkungan Aman Bi'ah Shalihah| Santri
         
         Pusat["TERWUJUDNYA INSAN ADABI, MURABBI MULIA, & LEMBAGA PERADABAN ISLAM"]
         Santri & Guru & Sistem ==> Pusat
@@ -156,7 +155,7 @@ graph LR
 
 ---
 
-### 1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Pesantren TUMBUH
+### 1. Formulasi Konseptual: Piagam Triad Profil Kapasitas Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
@@ -208,7 +207,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-01: TRIAD PROFIL KAPASITAS EKOSISTEM TUMBUH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-01: TRIAD PROFIL KAPASITAS EKOSISTEM TUMBUH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -1,5 +1,5 @@
 # P5-05-05: PROTOKOL OBSERVASI RUANG PUBLIK DAN HOTSPOTS
-## *Monograf Riset Akademik: Protokol Pemantauan dan Rekayasa Pengawasan Positif Titik Rawan (Hotspots Surveillance & Active Supervision Protocol) di Area Publik Pesantren (Lorong Kamar Mandi, Kantin, Area Jemuran, & Sudut Lapangan), Integrasi Doktrin 'Hirasatul Hudud wa Imaratul Bi'ah' Turats Klasik dengan Environmental CPTED & Active Supervision Principles, Serta Mitigasi Bullying di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Pemantauan dan Rekayasa Pengawasan Positif Titik Rawan (Hotspots Surveillance & Active Supervision Protocol) di Area Publik Pesantren (Lorong Kamar Mandi, Kantin, Area Jemuran, & Sudut Lapangan), Integrasi Doktrin 'Hirasatul Hudud wa Imaratul Bi'ah' Turats Klasik dengan Environmental CPTED & Active Supervision Principles, Serta Mitigasi Bullying di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-05-05/MONOGRAF-RISET-OBSERVASI-HOTSPOTS-PUBLIK/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 05: *Public Spaces Observation & Hotspots Patrol Protocol*)  
@@ -217,7 +217,7 @@ Penerapan protokol observasi ruang publik dan hotspots ini menghadirkan keunggul
 
 1. **Melenyapkan Lingkaran Setan Senioritas dan Feodalisme Asrama**: Menutup seluruh ruang gerak perpeloncoan gelap dan menggantinya dengan budaya perlindungan persaudaraan (*Ukhuwah*).
 2. **Memberikan Rasa Aman Mutlak Bagi Seluruh Santri Baru (*Total Psychological & Physical Safety*)**: Santri dapat beraktivitas di seluruh penjuru pondok tanpa rasa takut dipaksa atau disakiti.
-3. **Penyempurnaan Penjaminan Mutu Berstandar Safe School Guidelines Internasional**: Mengokohkan pesantren TUMBUH sebagai institusi pendidikan Islam yang paling aman, ramah anak, dan bebas kekerasan di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berstandar Safe School Guidelines Internasional**: Mengokohkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam yang paling aman, ramah anak, dan bebas kekerasan di dunia.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan protokol observasi ruang publik dan hotspots ini menghadirkan keunggul
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-05-05: PROTOKOL OBSERVASI RUANG PUBLIK DAN HOTSPOTS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-05-05: PROTOKOL OBSERVASI RUANG PUBLIK DAN HOTSPOTS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,7 +294,7 @@ flowchart TD
 [^2]: Prinsip Crime Prevention Through Environmental Design (CPTED) dalam penataan ruang publik yang aman, Crowe (2000, hlm. 36).  
 [^3]: Ibnu Taimiyyah, *Al-Hisbah fil Islam* (1992, hlm. 28), bab urgensi kehadiran aktif petugas pengawas di tempat-tempat rawan.  
 [^4]: Protokol audit titik rawan CPTED dan eliminasi perundungan di ruang publik asrama TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol observasi ruang publik dan hotspots di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol observasi ruang publik dan hotspots di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

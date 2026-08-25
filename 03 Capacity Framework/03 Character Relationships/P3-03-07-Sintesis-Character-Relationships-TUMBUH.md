@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Sintesis Paripurna Relasi Sistemik 10 Karakter Muwashafat:**  
->   Menyimpulkan seluruh dinamika keterhubungan, resonansi non-linier, analisis sentralitas graf, dan strategi intervensi terpadu ke dalam **Model Integrasi Sistemik Karakter Pesantren TUMBUH**.
+>   Menyimpulkan seluruh dinamika keterhubungan, resonansi non-linier, analisis sentralitas graf, dan strategi intervensi terpadu ke dalam **Model Integrasi Sistemik Karakter Ekosistem Pesantren Berbasis TUMBUH**.
 > * **Keselarasan 6 Pilar Riset Sub-Domain 03 Character Relationships:**  
 >   Mengintegrasikan `P3-03-01` (Relasi Ruhiyah-Sosial), `P3-03-02` (Sinergi Regulasi-Waktu), `P3-03-03` (Dinamika Intelektual-Kemandirian), `P3-03-04` (Peta Resonansi & Efek Domino), `P3-03-05` (Network Analysis Sentralitas Graf), dan `P3-03-06` (Strategi Bimbingan Terpadu Cross-Character 24 Jam).
 > * **Gerbang Derivasi Menuju 10 Karakter Spesifik (Sub-Domain 04 s/d 13):**  
@@ -22,7 +22,7 @@
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
-  - [1. Arsitektur Sintesis Holistik: Ekosistem Dinamis 10 Karakter Pesantren TUMBUH](#1-arsitektur-sintesis-holistik-ekosistem-dinamis-10-karakter-pesantren-tumbuh)
+  - [1. Arsitektur Sintesis Holistik: Ekosistem Dinamis 10 Karakter Ekosistem Pesantren Berbasis TUMBUH](#1-arsitektur-sintesis-holistik-ekosistem-dinamis-10-karakter-pesantren-tumbuh)
   - [2. Grand Model Penyelarasan Resonansi, Sentralitas Graf, & Bimbingan Terpadu](#2-grand-model-penyelarasan-resonansi-sentralitas-graf--bimbingan-terpadu)
   - [3. Perwujudan Triad Pertumbuhan Simbiotik dalam Relasi Antar-Karakter](#3-perwujudan-triad-pertumbuhan-simbiotik-dalam-relasi-antar-karakter)
   - [4. Jembatan Konseptual Menuju Sub-Domain 04–13 (Bedah 10 Karakter Spesifik)](#4-jembatan-konseptual-menuju-sub-domain-0413-bedah-10-karakter-spesifik)
@@ -42,7 +42,7 @@
 
 ---
 
-### 1. Arsitektur Sintesis Holistik: Ekosistem Dinamis 10 Karakter Pesantren TUMBUH
+### 1. Arsitektur Sintesis Holistik: Ekosistem Dinamis 10 Karakter Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merajut seluruh sains dinamika sistem, psikologi kognitif, sosiologi asrama, dan hermeneutika turats ke dalam **Model Integrasi Relasi Karakter Terpadu (*Integrated Character Relationships Architecture*)**:
 
@@ -186,7 +186,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-07: SINTESIS CHARACTER RELATIONSHIPS DAN MODEL INTEGRASI SISTEMIK** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-07: SINTESIS CHARACTER RELATIONSHIPS DAN MODEL INTEGRASI SISTEMIK** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

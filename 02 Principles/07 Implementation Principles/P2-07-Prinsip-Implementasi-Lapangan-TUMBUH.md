@@ -191,7 +191,7 @@ Master Doktrin Implementation Principles ini menegaskan masa depan gemilang bagi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07: IMPLEMENTATION PRINCIPLES (PRINSIP IMPLEMENTASI LAPANGAN) EKOSISTEM TUMBUH (MASTER DOKTRIN TATA KELOLA EKOSISTEM)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07: IMPLEMENTATION PRINCIPLES (PRINSIP IMPLEMENTASI LAPANGAN) EKOSISTEM TUMBUH (MASTER DOKTRIN TATA KELOLA EKOSISTEM)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -265,7 +265,7 @@ flowchart TD
 [^4]: Deklarasi Pengharaman Formalitas Kertas SOP dan Kewajiban Mutu Itqan TUMBUH, 2026.  
 [^5]: Dokumentasi Uji Ketahanan Tata Kelola Lapangan di Pesantren Mitra PBIS TUMBUH, 2026.  
 [^6]: Kotter, J. P. (2012); Master Blueprint Manajemen Perubahan Budaya Asrama TUMBUH, 2026.  
-[^7]: Joyce, B., & Showers, B. (2002); Maslach, C., et al. (2001); Master Blueprint Pelatihan Musyrif TUMBUH, 2026.  
+[^7]: Joyce, B., & Showers, B. (2002); Maslach, C., et al. (2001); Master Blueprint Pelatihan Musyrif dalam sistem TUMBUH, 2026.  
 [^8]: Epstein, J. L. (2018); Master Blueprint Sinergi Tripartit dan Piagam Liburan TUMBUH, 2026.  
 [^9]: Deming, W. E. (1986); Master Blueprint Penjaminan Mutu PDCA dan Khidmah Warga TUMBUH, 2026.  
 [^10]: Blueprint Penjalaran Epistemologis Menuju Domain 03 Institutional Architecture TUMBUH, 2026.  

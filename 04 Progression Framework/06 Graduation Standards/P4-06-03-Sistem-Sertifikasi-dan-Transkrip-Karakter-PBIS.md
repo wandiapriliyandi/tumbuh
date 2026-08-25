@@ -1,5 +1,5 @@
 # P4-06-03: SISTEM SERTIFIKASI DAN TRANSKRIP KARAKTER PBIS RESMI
-## *Monograf Riset Akademik: Standardisasi Dokumen Transkrip Karakter Santri (Official PBIS Character Transcript) Penyerta Ijazah Akademik, Integrasi Doktrin Asy-Syahadah bil Haq Turats dengan Comprehensive Student Record (CSR) & Badging Verification Standards, Rekayasa Digital Keamanan Kriptografi QR-Blockchain, Serta Pengakuan Lembaga Global di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Dokumen Transkrip Karakter Santri (Official PBIS Character Transcript) Penyerta Ijazah Akademik, Integrasi Doktrin Asy-Syahadah bil Haq Turats dengan Comprehensive Student Record (CSR) & Badging Verification Standards, Rekayasa Digital Keamanan Kriptografi QR-Blockchain, Serta Pengakuan Lembaga Global di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-06-03/MONOGRAF-RISET-SERTIFIKASI-TRANSKRIP-KARAKTER-PBIS/2026`  
 **Domain**: `04 Progression Framework` > `06 Graduation Standards` (Sub-Modul 03: *PBIS Character Certification & Transcript System*)  
@@ -194,7 +194,7 @@ KODE VERIFIKASI KEASLIAN DOKUMEN (SHA-256 CRYPTOGRAPHIC HASH):
 [ a8f5c9e2b1d40738e69c1a5b823f04d9c7e11234abcf890123456789abcdef01 ]
 Scan QR-Code untuk Verifikasi Langsung: [ QR-CODE TERENKRIPSI RESMI PESANTREN TUMBUH ]
 
-Ditetapkan di: Pesantren TUMBUH Pusat, Pada Tanggal: 25 Juni 2026
+Ditetapkan di: Ekosistem Pesantren Berbasis TUMBUH Pusat, Pada Tanggal: 25 Juni 2026
 Pimpinan Pondok Pesantren:                           Direktur Pendidikan & Karakter:
 
 ________________________________________             ________________________________________

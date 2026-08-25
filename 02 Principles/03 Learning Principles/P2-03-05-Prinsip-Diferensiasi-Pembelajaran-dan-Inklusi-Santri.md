@@ -28,7 +28,7 @@
   - [4. Rekayasa Didaktik Scaffolding Bertingkat & Pengharaman Total Pelabelan Negatif Santri](#4-rekayasa-didaktik-scaffolding-bertingkat--pengharaman-total-pelabelan-negatif-santri)
   - [5. Kasuistika Lapangan: Kasus Santri Mengalami Hambatan Belajar Bahasa Arab & Resolusi Diferensiasi](#5-kasuistika-lapangan-kasus-santri-mengalami-hambatan-belajar-bahasa-arab--resolusi-diferensiasi)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-diferensiasi-pembelajaran--inklusi-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Diferensiasi Pembelajaran & Inklusi Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-diferensiasi-pembelajaran--inklusi-pesantren-tumbuh)
   - [2. Matriks Strategi Diferensiasi Tiga Tingkat Kesiapan: Pemula (Fondasi), Madya (Aplikasi), Mahir (Kreasi)](#2-matriks-strategi-diferensiasi-tiga-tingkat-kesiapan-pemula-fondasi-madya-aplikasi-mahir-kreasi)
   - [3. Standar Prosedur Operasional (SOP) Penanganan Santri Membutuhkan Bimbingan Khusus (Tier 2 Akademik)](#3-standar-prosedur-operasional-sop-penanganan-santri-membutuhkan-bimbingan-khusus-tier-2-akademik)
   - [4. Protokol Pendampingan Sebaya (Peer-Tutoring Scaffolding Protocol)](#4-protokol-pendampingan-sebaya-peer-tutoring-scaffolding-protocol)
@@ -115,7 +115,7 @@ TUMBUH memberlakukan kebijakan perlindungan martabat pembelajar:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Diferensiasi Pembelajaran & Inklusi Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Diferensiasi Pembelajaran & Inklusi Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan pedagogi inklusif ke dalam **Arsitektur Tiga Sayap Diferensiasi Beradab (*Arkan at-Ta'lim al-Mutamayyiz*)**:
 
@@ -190,7 +190,7 @@ Prinsip diferensiasi pembelajaran dan inklusi santri ini membawa implikasi agung
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03-05: PRINSIP DIFERENSIASI PEMBELAJARAN, KEBERAGAMAN FITRAH, DAN INKLUSI SANTRI (DIFFERENTIATED INSTRUCTION & INCLUSIVE LEARNING)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03-05: PRINSIP DIFERENSIASI PEMBELAJARAN, KEBERAGAMAN FITRAH, DAN INKLUSI SANTRI (DIFFERENTIATED INSTRUCTION & INCLUSIVE LEARNING)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -258,7 +258,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Diferensiasi Pembelajaran dan Inklusi Santri TUMBUH, *Kritik atas Keseragaman Kaku dan Stigmatisasi*, 2026.  
+[^1]: Riset Prinsip Diferensiasi Pembelajaran dan Inklusi Santri dalam sistem TUMBUH, *Kritik atas Keseragaman Kaku dan Stigmatisasi*, 2026.  
 [^2]: QS. Nuh [71]: 14.  
 [^3]: Ibnu Sahnun, *Adab al-Mu'allimin*, hlm. 20–45; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 75–98.  
 [^4]: Sirah Nabawiyyah Pendekatan Individual Rasulullah ﷺ kepada Para Sahabat.  
@@ -267,7 +267,7 @@ flowchart TD
 [^7]: Dokumentasi Penerapan Differentiated Instruction dan Klinik Belajar Bahasa Arab PBIS TUMBUH, 2026.  
 [^8]: Tomlinson, C. A. (2001), *How to Differentiate Instruction*, hlm. 25–65.  
 [^9]: Wood, D., Bruner, J. S., & Ross, G. (1976), *Journal of Child Psychology and Psychiatry*, hlm. 89–100.  
-[^10]: Master Blueprint Tata Kelola Inklusi dan Layanan Khusus Pesantren TUMBUH, 2026.  
+[^10]: Master Blueprint Tata Kelola Inklusi dan Layanan Khusus Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^11]: Standar Operasional Prosedur Peer-Tutoring Ukhuwah dan Pendampingan Sebaya TUMBUH, 2026.  
 [^12]: Deklarasi Pemuliaan Keberagaman Fitrah Pembelajar Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

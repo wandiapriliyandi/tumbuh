@@ -1,5 +1,5 @@
 # P3-12-09: PEMETAAN ASESMEN DAN TRIANGULASI DATA QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Desain Sistem Triangulasi Multi-Sumber & Multi-Metode Asesmen Kemandirian Finansial Santri 360 Derajat (Observasi Pembina Bisnis Koperasi, Uji Studi Kasus Guru Fiqh Madrasah, Audit Berkas Portofolio Usaha Riil, Logbook Buku Kas Saku Santri, Serta Indeks Kepuasan Konsumen/Peer), Matriks Validitas Multi-Trait Multi-Method (MTMM), Sistem Peringatan Dini Krisis Finansial (Early Warning System / EWS), Serta Integrasi Sistem Informasi Manajemen Kepengasuhan Digital di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Desain Sistem Triangulasi Multi-Sumber & Multi-Metode Asesmen Kemandirian Finansial Santri 360 Derajat (Observasi Pembina Bisnis Koperasi, Uji Studi Kasus Guru Fiqh Madrasah, Audit Berkas Portofolio Usaha Riil, Logbook Buku Kas Saku Santri, Serta Indeks Kepuasan Konsumen/Peer), Matriks Validitas Multi-Trait Multi-Method (MTMM), Sistem Peringatan Dini Krisis Finansial (Early Warning System / EWS), Serta Integrasi Sistem Informasi Manajemen Kepengasuhan Digital di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-09/MONOGRAF-RISET-PEMETAAN-ASESMEN-TRIANGULASI-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 09: *Assessment Mapping & Data Triangulation*)  
@@ -229,7 +229,7 @@ Penerapan sistem pemetaan asesmen dan triangulasi data 360 derajat menghasilkan:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-09: PEMETAAN ASESMEN DAN TRIANGULASI DATA QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-09: PEMETAAN ASESMEN DAN TRIANGULASI DATA QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

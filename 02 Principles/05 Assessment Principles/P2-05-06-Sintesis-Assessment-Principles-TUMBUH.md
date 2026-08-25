@@ -28,7 +28,7 @@
   - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Evaluasi Karakter Asrama 24 Jam](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-evaluasi-karakter-asrama-24-jam)
   - [5. Kasuistika Lapangan: Evaluasi Dampak Penerapan Asesmen Berkeadilan di Pesantren Mitra TUMBUH](#5-kasuistika-lapangan-evaluasi-dampak-penerapan-asesmen-berkeadilan-di-pesantren-mitra-tumbuh)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-keadilan-asesmen--evaluasi-karakter-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-keadilan-asesmen--evaluasi-karakter-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional Lima Pilar Asesmen ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-lima-pilar-asesmen-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Audit Keadilan Evaluasi Berkala (Assessment Quality Assurance SOP)](#3-protokol-penjaminan-mutu--audit-keadilan-evaluasi-berkala-assessment-quality-assurance-sop)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 06 Intervention Principles](#4-jembatan-epistemologis-menuju-sub-domain-06-intervention-principles)
@@ -114,7 +114,7 @@ Sintesis prinsip asesmen ini mewujudkan Triad Pertumbuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Keadilan Asesmen & Evaluasi Karakter Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Keadilan Asesmen (*Bayan al-'Adalah fit-Taqwim*)**:
 
@@ -195,7 +195,7 @@ Sintesis Prinsip Asesmen ini menegaskan arah kebangkitan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-05-06: SINTESIS PRINSIP ASESMEN DAN GRAND MANIFESTO KEADILAN EVALUASI ADAB (SYNTHESIS OF ASSESSMENT PRINCIPLES)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-05-06: SINTESIS PRINSIP ASESMEN DAN GRAND MANIFESTO KEADILAN EVALUASI ADAB (SYNTHESIS OF ASSESSMENT PRINCIPLES)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

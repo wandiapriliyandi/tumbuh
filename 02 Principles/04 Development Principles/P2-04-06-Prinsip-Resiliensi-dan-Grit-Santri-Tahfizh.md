@@ -28,7 +28,7 @@
   - [4. Rekayasa Navigasi Plateau of Latent Potential & Penerapan Mindset Antirapuh (Antifragility Nassim Taleb)](#4-rekayasa-navigasi-plateau-of-latent-potential--penerapan-mindset-antirapuh-antifragility-nassim-taleb)
   - [5. Kasuistika Lapangan: Kasus Santri Mengalami Sindrom Futuwr Berat & Resolusi Pemulihan Grit](#5-kasuistika-lapangan-kasus-santri-mengalami-sindrom-futuwr-berat--resolusi-pemulihan-grit)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH](#1-eksplanasi-teoretis-standar-pembinaan-resiliensi--ketahanan-mental-santri-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Pembinaan Resiliensi & Ketahanan Mental Santri dalam sistem TUMBUH](#1-eksplanasi-teoretis-standar-pembinaan-resiliensi--ketahanan-mental-santri-tumbuh)
   - [2. Matriks Pengukuran Empat Tingkat Ketahanan Mental Santri: Rapuh, Bertahan, Tangguh, & Antirapuh](#2-matriks-pengukuran-empat-tingkat-ketahanan-mental-santri-rapuh-bertahan-tangguh--antirapuh)
   - [3. Standar Prosedur Operasional (SOP) Pemulihan Kejenuhan Menghafal (Futuwr Recovery Protocol)](#3-standar-prosedur-operasional-sop-pemulihan-kejenuhan-menghafal-futuwr-recovery-protocol)
   - [4. Protokol Pendampingan Jeda Aktif & Tadabbur Makna (Active Rest & Reflection Protocol)](#4-protokol-pendampingan-jeda-aktif--tadabbur-makna-active-rest--reflection-protocol)
@@ -107,7 +107,7 @@ TUMBUH mengadopsi prinsip ketahanan mutakhir:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Pembinaan Resiliensi & Ketahanan Mental Santri TUMBUH
+### 1. Eksplanasi Teoretis Standar Pembinaan Resiliensi & Ketahanan Mental Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH merumuskan ketahanan mental ke dalam **Arsitektur Tiga Sayap Daya Juang Santri (*Arkan al-Mujahadah wash-Shumud*)**:
 
@@ -183,7 +183,7 @@ Prinsip resiliensi, daya juang (grit), dan mujahadah ini membawa implikasi agung
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-06: PRINSIP RESILIENSI, DAYA JUANG (GRIT), DAN MUJAHADAH SANTRI TAHFIZH (RESILIENCE, GRIT, & MUJAHADAH)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-06: PRINSIP RESILIENSI, DAYA JUANG (GRIT), DAN MUJAHADAH SANTRI TAHFIZH (RESILIENCE, GRIT, & MUJAHADAH)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -66,4 +66,4 @@ flowchart TD
 Penerapan gugus **Sistem Asesmen Musyrif dan Wali Kelas (Mentor Assessment)** menjamin bahwa:
 1. **Pendidik Mengasuh dengan Hati dan Kelembutan Kasih Sayang (*Empathetic & Nurturing Mentors*)**: Menghilangkan kekerasan fisik dan verbal, menjadikan musyrif sebagai figur teladan yang dirindukan santri.
 2. **Kemitraan Segitiga Emas Berjalan Harmonis (*Unified Holistic Ecosystem*)**: Madrasah, Asrama, dan BK bersatu padu mengawal setiap langkah pertumbuhan santri tanpa ada informasi yang terputus.
-3. **Standarisasi Tata Kelola Pengasuhan Berkelas Dunia (*Excellence in Boarding Care Management*)**: Menjadikan pesantren TUMBUH sebagai rujukan tata kelola pembinaan santri berasrama paling profesional dan beradab di dunia Islam.
+3. **Standarisasi Tata Kelola Pengasuhan Berkelas Dunia (*Excellence in Boarding Care Management*)**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai rujukan tata kelola pembinaan santri berasrama paling profesional dan beradab di dunia Islam.

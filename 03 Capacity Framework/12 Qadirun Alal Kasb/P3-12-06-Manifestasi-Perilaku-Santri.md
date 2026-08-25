@@ -1,5 +1,5 @@
 # P3-12-06: MANIFESTASI PERILAKU SANTRI QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Katalog Indikator Perilaku Teramati (Observable Behavioral Markers) Kemandirian Finansial Santri di Lima Setting Ekosistem 24 Jam (Kantin/Koperasi Santri, Creative Maker Lab & Workshop, Ruang Kelas Madrasah, Area Asrama/Kamar Tidur, Serta Pasar/Bazar Terbuka), Deteksi Dini Pola Mentalitas Pasif (Proposal Dependency, Penipuan Transaksi, & Sikap Boros), Serta Protokol Penguatan Perilaku Mandiri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Katalog Indikator Perilaku Teramati (Observable Behavioral Markers) Kemandirian Finansial Santri di Lima Setting Ekosistem 24 Jam (Kantin/Koperasi Santri, Creative Maker Lab & Workshop, Ruang Kelas Madrasah, Area Asrama/Kamar Tidur, Serta Pasar/Bazar Terbuka), Deteksi Dini Pola Mentalitas Pasif (Proposal Dependency, Penipuan Transaksi, & Sikap Boros), Serta Protokol Penguatan Perilaku Mandiri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-06/MONOGRAF-RISET-MANIFESTASI-PERILAKU-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 06: *Observable Behavioral Markers*)  
@@ -227,7 +227,7 @@ Penerapan katalog perilaku teramati ini melahirkan ekosistem muamalah yang bersi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-06: MANIFESTASI PERILAKU SANTRI QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-06: MANIFESTASI PERILAKU SANTRI QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -297,7 +297,7 @@ flowchart TD
 [^2]: Pembahasan ketiadaan kurikulum literasi finansial terapan dalam mendeteksi perilaku konsumtif santri, OECD (2020, hlm. 36).  
 [^3]: HR. Muslim dalam *Shahih Muslim* (No. 102), Kitab *Al-Iman*.  
 [^4]: Protokol penanganan de-eskalasi praktik riba kamar dan pengalihan modal ke akad mudharabah riil, TUMBUH (2026).  
-[^5]: Spesifikasi katalog indikator perilaku teramati di 5 setting kehidupan santri TUMBUH (2026).  
+[^5]: Spesifikasi katalog indikator perilaku teramati di 5 setting kehidupan santri dalam sistem TUMBUH (2026).  
 [^6]: Penerapan prinsip rasio penguatan positif 4:1 dalam pembinaan etika bisnis santri, Sugai & Horner (2020, hlm. 210).  
 [^7]: Dampak kelembagaan penerapan katalog manifestasi perilaku wirausaha terstandar TUMBUH Pesantren (2026).  
 

@@ -1,5 +1,5 @@
 # P5-08-01: PERAN MUSYRIF SEBAGAI EVALUATOR EMPATIS
-## *Monograf Riset Akademik: Transformasi Peran Pembina Asrama dari Hakim Punitif Menjadi Evaluator Empatis (The Mentor as an Empathetic Evaluator & Growth Coach), Integrasi Doktrin 'Ar-Rifq fil Mu'allim wa Ri'āyatul Fitrah' Turats Klasik dengan Carl Rogers' Unconditional Positive Regard, Growth Mindset Coaching (Dweck), Serta Desain Relasi Edukatif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Transformasi Peran Pembina Asrama dari Hakim Punitif Menjadi Evaluator Empatis (The Mentor as an Empathetic Evaluator & Growth Coach), Integrasi Doktrin 'Ar-Rifq fil Mu'allim wa Ri'āyatul Fitrah' Turats Klasik dengan Carl Rogers' Unconditional Positive Regard, Growth Mindset Coaching (Dweck), Serta Desain Relasi Edukatif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-08-01/MONOGRAF-RISET-MUSYRIF-EVALUATOR-EMPATIS/2026`  
 **Domain**: `05 Assessment Framework` > `08 Mentor Assessment` (Sub-Modul 01: *Mentor as Empathetic Evaluator & Growth Coach*)  
@@ -223,7 +223,7 @@ Penerapan peran musyrif sebagai evaluator empatis Form MEM ini menghadirkan keun
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-08-01: PERAN MUSYRIF SEBAGAI EVALUATOR EMPATIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-08-01: PERAN MUSYRIF SEBAGAI EVALUATOR EMPATIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan model pengasuhan otoriter-punitif yang memicu learned helplessness dan penolakan moral, Dweck (2006, hlm. 142).  
 [^2]: Landasan psikologi humanistik mengenai pentingnya Unconditional Positive Regard dalam transformasi kepribadian, Rogers (1957, hlm. 98).  
 [^3]: Ibnu Jama'ah Al-Kinani, *Tadzkiratus Sami' wal Mutakallim* (2012, hlm. 54), bab adab pendidik memperlakukan murid laksana ayah penyayang.  
-[^4]: Protokol konseling empati musyrif dan resolusi pembangkangan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan peran musyrif sebagai evaluator empatis di Pesantren TUMBUH (2026).  
+[^4]: Protokol konseling empati musyrif dan resolusi pembangkangan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan peran musyrif sebagai evaluator empatis di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

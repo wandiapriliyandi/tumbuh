@@ -97,7 +97,7 @@ Ritual komunal yang dilaksanakan secara konsisten terbukti meningkatkan *Social 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-08-03: RITUS UKHUWAH MAYORAN DAN QIYAMUL LAIL BERSAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-08-03: RITUS UKHUWAH MAYORAN DAN QIYAMUL LAIL BERSAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -139,7 +139,7 @@ flowchart TD
 | **1. Makan** | Sendiri-sendiri atau kelompok kecil.| Mayoran Lintas Blok Bulanan (RUQ).| *Al-Akl Jamā'an* Hadits | Social Trust $+84\%$. |
 | **2. Spiritualitas** | Tahajud personal di sajadah masing-masing.| Qiyamul Lail Berjamaah Triwulanan.| *Qiyāmul Lail Jamā'an* | Communitas Bonding $+91\%$. |
 | **3. Konflik** | Berlarut-larut tanpa mekanisme pemulihan.| Pulih lewat Ritus Bersama.| *Social Cohesion* (Putnam) | Konflik Interpersonal $-67\%$. |
-| **4. Identitas** | Aku adalah anggota Blok A/Kamar 3.| Aku adalah Santri TUMBUH.| *Ritual Theory* (Turner) | Identitas Komunal $\ge 95\%$. |
+| **4. Identitas** | Aku adalah anggota Blok A/Kamar 3.| Aku adalah Santri dalam sistem TUMBUH.| *Ritual Theory* (Turner) | Identitas Komunal $\ge 95\%$. |
 
 ### 2. Daftar Pustaka
 
@@ -150,5 +150,5 @@ flowchart TD
 
 [^1]: Robert Putnam tentang dua dimensi modal sosial: bonding dan bridging social capital, Putnam (2000, hlm. 22).
 [^2]: Victor Turner tentang "communitas" sebagai kondisi kesatuan rasa yang lahir dari ritual komunal, Turner (1969, hlm. 96).
-[^3]: Studi kasus Mayoran lintas blok memperbaiki ketegangan sosial yang berlarut Pesantren TUMBUH (2026).
+[^3]: Studi kasus Mayoran lintas blok memperbaiki ketegangan sosial yang berlarut Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak ritual Qiyamul Lail berjamaah terhadap transcendent bonding dan social trust santri (2026).

@@ -1,5 +1,5 @@
 # P4-01-05: SINTESIS TRAJEKTORI BIOSOSIAL-SPIRITUAL PERKEMBANGAN SANTRI
-## *Monograf Riset Akademik: Meta-Teori Integrasi Tiga Dimensi Perkembangan Santri (Maturasi Biologis Pubertas, Interaksi Psikososial Asrama, & Evolusi Kesadaran Spiritual Fitrah), Penyelarasan Fiqh At-Tadrij ma'al Fitrah dengan Neurosains Perkembangan & Dynamic Systems Theory (Thelen & Smith), Serta Peta Jalan Longitudinal 6 Tahun (Usia 12–18 Tahun) di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Meta-Teori Integrasi Tiga Dimensi Perkembangan Santri (Maturasi Biologis Pubertas, Interaksi Psikososial Asrama, & Evolusi Kesadaran Spiritual Fitrah), Penyelarasan Fiqh At-Tadrij ma'al Fitrah dengan Neurosains Perkembangan & Dynamic Systems Theory (Thelen & Smith), Serta Peta Jalan Longitudinal 6 Tahun (Usia 12–18 Tahun) di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-01-05/MONOGRAF-RISET-SINTESIS-TRAJEKTORI-BIOSOSIAL-SPIRITUAL/2026`  
 **Domain**: `04 Progression Framework` > `01 Development Stages` (Sub-Modul 05: *Bio-Psycho-Spiritual Developmental Trajectory*)  
@@ -293,4 +293,4 @@ flowchart TD
 7. **Plateau Phase (Fase Stagnasi)**: Periode jeda wajar dalam proses belajar di mana grafik pencapaian santri tampak mendatar sementara otak sedang mengendapkan hafalan.
 8. **Growth Spurt (Lonjakan Pertumbuhan)**: Percepatan pertumbuhan fisik yang pesat pada masa pubertas remaja awal yang membutuhkan asupan nutrisi protein dan zat besi tinggi.
 9. **Ritme Sirkadian Asrama**: Siklus biologis 24 jam tubuh santri yang mengatur jadwal tidur, bangun, nafsu makan, dan pelepasan hormon secara teratur.
-10. **Insan Kamil Holistik**: Profil lulusan santri TUMBUH yang memiliki keselarasan prima antara kesehatan fisik, kecerdasan intelektual, kematangan sosial, dan kesucian spiritual tauhid.
+10. **Insan Kamil Holistik**: Profil lulusan santri dalam sistem TUMBUH yang memiliki keselarasan prima antara kesehatan fisik, kecerdasan intelektual, kematangan sosial, dan kesucian spiritual tauhid.

@@ -1,5 +1,5 @@
 # P7-02-04: MANAJEMEN STRUKTUR ORGANISASI SANTRI DAN KADER PENGGERAK
-## *Monograf Riset Akademik: Standarisasi Struktur Kepengurusan Organisasi Santri Otonom (OSIS/ISPA), Kaderisasi Duta Qudwah Penggerak Adab, dan Eliminasi Otoritarianisme Siswa Senior (Student Leadership Governance, Peer Ambassador Networks, & Non-Feudal Youth Cadres / Form MOS-Santri), Integrasi Doktrin 'Fityatun Āmanū bi Rabbihim wa Qiyādatul Ghilmān' Turats Klasik dengan Youth-Adult Partnerships, Student Voice & Agency (Mitra), Serta Kepemimpinan Beradab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Struktur Kepengurusan Organisasi Santri Otonom (OSIS/ISPA), Kaderisasi Duta Qudwah Penggerak Adab, dan Eliminasi Otoritarianisme Siswa Senior (Student Leadership Governance, Peer Ambassador Networks, & Non-Feudal Youth Cadres / Form MOS-Santri), Integrasi Doktrin 'Fityatun Āmanū bi Rabbihim wa Qiyādatul Ghilmān' Turats Klasik dengan Youth-Adult Partnerships, Student Voice & Agency (Mitra), Serta Kepemimpinan Beradab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-02-04/MONOGRAF-RISET-ORGANISASI-SANTRI-PENGGERAK/2026`  
 **Domain**: `07 Implementation Framework` > `02 Organizational Structure` (Sub-Modul 04: *Student Leadership Governance & Peer Ambassador Networks*)  
@@ -28,7 +28,7 @@
   - [4. Rekayasa Alur Pengasuhan 24 Jam: Modul Student Agency Hub pada SIM Intizham Core](#4-rekayasa-alur-pengasuhan-24-jam-modul-student-agency-hub-pada-sim-intizham-core)
   - [5. Kasuistika Lapangan Klinis & Protokol Duta Qudwah yang Mengubah Pengurus Galak Menjadi Kakak Pengayom Teladan](#5-kasuistika-lapangan-klinis--protokol-duta-qudwah-yang-mengubah-pengurus-galak-menjadi-kakak-pengayom-teladan)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Arsitektur Komprehensif Manajemen Organisasi Santri TUMBUH (Form MOS-Santri)](#1-arsitektur-komprehensif-manajemen-organisasi-santri-tumbuh-form-mos-santri)
+  - [1. Arsitektur Komprehensif Manajemen Organisasi Santri dalam sistem TUMBUH (Form MOS-Santri)](#1-arsitektur-komprehensif-manajemen-organisasi-santri-tumbuh-form-mos-santri)
   - [2. Dekomposisi 4 Divisi Pelopor Penggerak Adab: Divisi Fursanul Fajr, Divisi Bi'ah 5S, Divisi Peer Peacemaker, & Divisi Kreativitas Dakwah](#2-dekomposisi-4-divisi-pelopor-penggerak-adab-divisi-fursanul-fajr-divisi-biah-5s-divisi-peer-peacemaker--divisi-kreativitas-dakwah)
   - [3. Desain Format Resmi Surat Ketetapan Struktur Organisasi Santri Qudwah (Form MOS-SK Master)](#3-desain-format-resmi-surat-ketetapan-struktur-organisasi-santri-qudwah-form-mos-sk-master)
   - [4. Diskusi Akademis & Implikasi bagi Kaderisasi Pemimpin Bangsa yang Berakhlak Mulia, Rendah Hati, dan Berjiwa Pengabdi](#4-diskusi-akademis--implikasi-bagi-kaderisasi-pemimpin-bangsa-yang-berakhlak-mulia-rendah-hati-dan-berjiwa-pengabdi)
@@ -143,7 +143,7 @@ flowchart TD
 
 ---
 
-### 1. Arsitektur Komprehensif Manajemen Organisasi Santri TUMBUH (Form MOS-Santri)
+### 1. Arsitektur Komprehensif Manajemen Organisasi Santri dalam sistem TUMBUH (Form MOS-Santri)
 
 Ekosistem TUMBUH memetakan kepengurusan santri ke dalam 4 pilar kaderisasi beradab:
 
@@ -211,7 +211,7 @@ Penerapan manajemen organisasi santri Form MOS ini menghadirkan keunggulan perad
 
 1. **Mencetak Calon Pemimpin Masa Depan yang Rendah Hati dan Mencintai Rakyatnya (*Cultivating Sincere Servant Leaders*)**: Mendidik remaja bahwa hakikat kekuasaan adalah memikul beban pelayanan, bukan menikmati privilese feodal.
 2. **Membangun Ekosistem Asrama yang Hidup, Demokratis, dan Penuh Gairah Positif (*Vibrant Student Agency*)**: Santri antusias mengembangkan bakat dan potensinya dalam lingkungan yang saling mendukung.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Fityatun Āmanū dan Student Voice Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem kaderisasi kepemimpinan santri paling transformatif di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Fityatun Āmanū dan Student Voice Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem kaderisasi kepemimpinan santri paling transformatif di dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan manajemen organisasi santri Form MOS ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-02-04: MANAJEMEN STRUKTUR ORGANISASI SANTRI DAN KADER PENGGERAK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-02-04: MANAJEMEN STRUKTUR ORGANISASI SANTRI DAN KADER PENGGERAK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Konsep Student Voice Pyramid Dana L. Mitra dalam pemberdayaan kepemimpinan dan agensi siswa, Mitra (2004, hlm. 655 & 2018, hlm. 42).  
 [^2]: Kerangka kerja Youth-Adult Partnerships (Y-AP) Linda Camino dalam kolaborasi konstruktif pemuda dan pendidik dewasa, Camino (2005, hlm. 78).  
 [^3]: Al-Mawardi, *Adabud Dunya wad Din* (1987, hlm. 142), bab melatih pemuda memikul kepemimpinan dan bahaya memberikan kekuasaan tanpa penyucian adab.  
-[^4]: Protokol transformasi organisasi santri menjadi Duta Qudwah Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen struktur organisasi santri dan kader penggerak di Pesantren TUMBUH (2026).  
+[^4]: Protokol transformasi organisasi santri menjadi Duta Qudwah Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen struktur organisasi santri dan kader penggerak di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

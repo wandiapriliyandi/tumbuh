@@ -44,7 +44,7 @@ Di banyak pondok pesantren tradisional usang, santri kelas akhir kerap kali meng
 * Merasa sebagai "kasta tertinggi" yang bebas dari aturan pondok: boleh bangun terlambat, boleh melanggar jadwal shalat, dan boleh menyuruh adik kelas mencucikan bajunya.
 * Melestarikan tradisi sidang malam ilegal dan pemukulan fisik berkedok "menegakkan disiplin pondok".
 
-Sistem TUMBUH meruntuhkan ilusi kekuasaan feodal ini. Di pesantren TUMBUH:
+Sistem TUMBUH meruntuhkan ilusi kekuasaan feodal ini. Dalam sistem TUMBUH di pesantren:
 * **Semakin tinggi kelas santri, semakin berat tuntutan keteladanan adabnya (*Al-Qudwah bil Qudwah*)**.
 * Santri Tahap 7 tidak diukur dari seberapa keras suaranya membentak junior, melainkan dari **seberapa bersih toilet asrama yang ia bersihkan bersama adik kelasnya dan seberapa lembut sapaannya saat membangunkan santri baru di waktu subuh**.
 

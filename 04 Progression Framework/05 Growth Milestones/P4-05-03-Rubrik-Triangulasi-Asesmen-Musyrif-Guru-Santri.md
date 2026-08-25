@@ -1,5 +1,5 @@
 # P4-05-03: RUBRIK TRIANGULASI ASESMEN MUSYRIF, GURU, DAN SANTRI
-## *Monograf Riset Akademik: Metodologi Triangulasi Data Asesmen Karakter 360 Derajat (Musyrif Asrama, Guru Madrasah, Peer Review Sebaya, & Refleksi Diri Santri), Eliminasi Bias Observasi (Halo Effect, Leniency Bias, & Social Desirability), Integrasi Fiqh Syahadatut Tawatsul dengan Multi-Trait Multi-Method Matrix (Campbell & Fiske), Serta Kodifikasi Paket Rubrik Terpadu di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Triangulasi Data Asesmen Karakter 360 Derajat (Musyrif Asrama, Guru Madrasah, Peer Review Sebaya, & Refleksi Diri Santri), Eliminasi Bias Observasi (Halo Effect, Leniency Bias, & Social Desirability), Integrasi Fiqh Syahadatut Tawatsul dengan Multi-Trait Multi-Method Matrix (Campbell & Fiske), Serta Kodifikasi Paket Rubrik Terpadu di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-05-03/MONOGRAF-RISET-RUBRIK-TRIANGULASI-ASESMEN/2026`  
 **Domain**: `04 Progression Framework` > `05 Growth Milestones` (Sub-Modul 03: *Triangulated Multi-Rater Assessment Rubric*)  
@@ -299,7 +299,7 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan asesmen karakter sumber tunggal dan bias observasi di sekolah berasrama, Campbell & Fiske (1959, hlm. 84).  
 [^2]: Kerangka kerja metodologi triangulasi dalam pengujian validitas konvergen data perilaku, Denzin (2012, hlm. 82).  
 [^3]: HR. Al-Bukhari dalam *Shahih Al-Bukhari* (No. 1367), Kitab *Al-Jana'iz*.  
-[^4]: Protokol penanganan diskrepansi nilai karakter dan bimbingan rekonsiliasi persona santri TUMBUH (2026).  
+[^4]: Protokol penanganan diskrepansi nilai karakter dan bimbingan rekonsiliasi persona santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan rubrik triangulasi asesmen karakter 360 derajat SIM Intizham TUMBUH (2026).  
 
 ---

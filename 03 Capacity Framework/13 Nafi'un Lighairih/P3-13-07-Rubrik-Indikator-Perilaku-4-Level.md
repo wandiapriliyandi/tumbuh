@@ -1,5 +1,5 @@
 # P3-13-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Perancangan Rubrik Asesmen Kinerja Kemanfaatan Sosial Berbasis Kriteria (Criterion-Referenced Rubrics), Gradasi Deskriptor 4 Level Khidmah & Kepemimpinan Pelayan, Protokol Kalibrasi Penilai Antar-Musyrif (Inter-Rater Agreement Cohen's Kappa >= 0.88), Algoritma Pembobotan Indeks Karakter Kemanfaatan (IK-NL), Serta Evaluasi Pertumbuhan Ipsatif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Perancangan Rubrik Asesmen Kinerja Kemanfaatan Sosial Berbasis Kriteria (Criterion-Referenced Rubrics), Gradasi Deskriptor 4 Level Khidmah & Kepemimpinan Pelayan, Protokol Kalibrasi Penilai Antar-Musyrif (Inter-Rater Agreement Cohen's Kappa >= 0.88), Algoritma Pembobotan Indeks Karakter Kemanfaatan (IK-NL), Serta Evaluasi Pertumbuhan Ipsatif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-07/MONOGRAF-RISET-RUBRIK-4LEVEL-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 07: *4-Level Behavior Rubric*)  
@@ -226,7 +226,7 @@ Implementasi rubrik 4-level Nafi'un Lighairih menghasilkan keunggulan kelembagaa
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -295,7 +295,7 @@ flowchart TD
 [^2]: Pembahasan pentingnya asesmen pertumbuhan ipsatif dalam pembiasaan empati prososial remaja, Hughes (2014, hlm. 58).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 172).  
 [^4]: Protokol kalibrasi antar-penilai dan standarisasi evaluasi kinerja khidmah santri, TUMBUH (2026).  
-[^5]: Formula perhitungan indeks karakter kemanfaatan ($IK_{NL}$) dan standar kelulusan santri TUMBUH (2026).  
+[^5]: Formula perhitungan indeks karakter kemanfaatan ($IK_{NL}$) dan standar kelulusan santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penerapan rubrik analitik kemanfaatan sosial 4-level TUMBUH Pesantren (2026).  
 
 ---

@@ -1,5 +1,5 @@
 # P6-07-01: PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN
-## *Monograf Riset Akademik: Standarisasi Protokol Dialog Restoratif Mikro 5 Pertanyaan Emas, De-eskalasi Ketegangan Konflik Instan, dan Penggalian Akuntabilitas Batiniah Santri (Micro Restorative Chat Protocol, 5 Golden Questions, & Affective Accountability / Form PRC-Chat), Integrasi Doktrin 'Al-Muhāwarah bil Hikmah wal Istifhām at-Tarbawī' Turats Klasik dengan O'Connell & Wachtel's Restorative Inquiry Model, Serta Ishlah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Dialog Restoratif Mikro 5 Pertanyaan Emas, De-eskalasi Ketegangan Konflik Instan, dan Penggalian Akuntabilitas Batiniah Santri (Micro Restorative Chat Protocol, 5 Golden Questions, & Affective Accountability / Form PRC-Chat), Integrasi Doktrin 'Al-Muhāwarah bil Hikmah wal Istifhām at-Tarbawī' Turats Klasik dengan O'Connell & Wachtel's Restorative Inquiry Model, Serta Ishlah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-07-01/MONOGRAF-RISET-RESTORATIVE-CHAT-5-PERTANYAAN/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 01: *Micro Restorative Chat & 5 Golden Questions Protocol*)  
@@ -213,7 +213,7 @@ Penerapan protokol restorative chat Form PRC ini menghadirkan keunggulan peradab
 
 1. **Membangun Kesadaran Akuntabilitas Moral Sejati (*Internal Moral Accountability*)**: Santri bertanggung jawab bukan karena takut rotan, melainkan karena mencintai kebenaran dan saudaranya.
 2. **Menghilangkan Budaya Berbohong dan Menutupi Kesalahan (*Zero Defensive Lying*)**: Santri merasa aman untuk jujur di hadapan pembina yang adil dan penyayang.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hiwār ar-Rāfiq dan O'Connell's Restorative Questions**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan resolusi disiplin paling manusiawi di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hiwār ar-Rāfiq dan O'Connell's Restorative Questions**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan resolusi disiplin paling manusiawi di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan protokol restorative chat Form PRC ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-07-01: PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-07-01: PANDUAN PRAKTIS RESTORATIVE CHAT 5 PERTANYAAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Protokol Restorative Inquiry Terry O'Connell dan Ted Wachtel dalam resolusi konflik mikro berbasis empati, O'Connell, Wachtel, & Wachtel (1999, hlm. 18) & Wachtel (2016, hlm. 4).  
 [^2]: Konsep Affective Accountability Howard Zehr dalam keadilan restoratif sekolah, Zehr (2015, hlm. 32).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Zadul Ma'ad fi Hadyi Khairil 'Ibad* (2012, Jilid 3, hlm. 214), bab syarah hadits dialog penuh kasih sayang Rasulullah SAW dengan pemuda yang keliru.  
-[^4]: Protokol restorative chat 5 pertanyaan dan resolusi konflik mikro Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan panduan praktis restorative chat 5 pertanyaan di Pesantren TUMBUH (2026).  
+[^4]: Protokol restorative chat 5 pertanyaan dan resolusi konflik mikro Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan panduan praktis restorative chat 5 pertanyaan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

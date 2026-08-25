@@ -28,7 +28,7 @@
   - [4. Triangulasi Evaluasi Triad Pertumbuhan dan Pengharaman Tajassus dalam Pencatatan Data](#4-triangulasi-evaluasi-triad-pertumbuhan-dan-pengharaman-tajassus-dalam-pencatatan-data)
   - [5. Kasuistika Lapangan: Kasus Perubahan Karakter Santri Multi-Tahun & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-perubahan-karakter-santri-multi-tahun--resolusi-restoratif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-evaluasi-dampak-longitudinal-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Evaluasi Dampak Longitudinal Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-evaluasi-dampak-longitudinal-pesantren-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Evaluasi Berkelanjutan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-evaluasi-berkelanjutan-maratib-al-idrak)
   - [3. Matriks Evaluasi Longitudinal Triad Pertumbuhan (Santri, Pendidik, Lembaga)](#3-matriks-evaluasi-longitudinal-triad-pertumbuhan-santri-pendidik-lembaga)
   - [4. Standar Prosedur Operasional (SOP) Audit Longitudinal Tahunan & Dashboard Analitik PBIS](#4-standar-prosedur-operasional-sop-audit-longitudinal-tahunan--dashboard-analitik-pbis)
@@ -106,7 +106,7 @@ TUMBUH menegaskan etika data syariat:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Evaluasi Dampak Longitudinal Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Evaluasi Dampak Longitudinal Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH mengkodifikasikan evaluasi ke dalam **Arsitektur Tiga Dimensi Evaluasi Triad (*Arkan at-Taqyim ats-Tsulatsiy*)**:
 
@@ -203,7 +203,7 @@ Evaluasi dampak longitudinal ini membawa implikasi fundamental bagi masa depan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-06-06: EVALUASI DAMPAK LONGITUDINAL DAN KEBERLANJUTAN SISTEM (LONGITUDINAL EVALUATION & SUSTAINABILITY)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-06-06: EVALUASI DAMPAK LONGITUDINAL DAN KEBERLANJUTAN SISTEM (LONGITUDINAL EVALUATION & SUSTAINABILITY)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

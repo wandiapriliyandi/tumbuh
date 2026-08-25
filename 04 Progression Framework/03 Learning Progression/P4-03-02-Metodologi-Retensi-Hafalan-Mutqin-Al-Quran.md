@@ -1,5 +1,5 @@
 # P4-03-02: METODOLOGI RETENSI HAFALAN MUTQIN AL-QUR'AN
-## *Monograf Riset Akademik: Neurobiologi Konsolidasi Memori Jangka Panjang (Long-Term Memory Consolidation) dalam Menghafal Al-Qur'an, Integrasi Doktrin Al-Ta'ahhud wal Muraja'ah Turats dengan Spaced Repetition (Ebbinghaus Forgetting Curve) & Retrieval Practice (Roediger & Karpicke), Protokol Zero-Stress Tahfizh, Serta Desain SIM Tahfizh-Mutqin di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Neurobiologi Konsolidasi Memori Jangka Panjang (Long-Term Memory Consolidation) dalam Menghafal Al-Qur'an, Integrasi Doktrin Al-Ta'ahhud wal Muraja'ah Turats dengan Spaced Repetition (Ebbinghaus Forgetting Curve) & Retrieval Practice (Roediger & Karpicke), Protokol Zero-Stress Tahfizh, Serta Desain SIM Tahfizh-Mutqin di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-03-02/MONOGRAF-RISET-RETENSI-HAFALAN-MUTQIN-ALQURAN/2026`  
 **Domain**: `04 Progression Framework` > `03 Learning Progression` (Sub-Modul 02: *Mutqin Qur'anic Retention Methodology*)  
@@ -14,7 +14,7 @@
 >   Banyak lembaga tahfizh memaksakan santri mengejar target setoran hafalan baru (*Ziyadah*) secara masif demi kuantitas juz (misal: 1 halaman/hari), namun mengabaikan sistem pengulangan berkala (*Muraja'ah*). Akibatnya terjadi paradoks tahfizh: santri khatam 30 juz di atas panggung wisuda, namun beberapa bulan kemudian hafalannya hilang tak berbekas (*Massive Memory Decay*) dan santri mengalami trauma psikologis mendalam.
 > * **Integrasi Sunnah Ta'ahhudul Qur'an & Spaced Retrieval Practice:**  
 >   Ekosistem TUMBUH memadukan perintah kenabian untuk merawat hafalan Al-Qur'an secara berkesinambungan (*Ta'ahhudul Qur'an*) dengan sains neurokognitif kurva lupa Hermann Ebbinghaus (*Forgetting Curve*), latihan pemanggilan memori aktif (*Active Retrieval Practice* Roediger & Karpicke), dan penjadwalan berjarak (*Spaced Repetition System*). Melalui sistem pengulangan berjenjang (Rasio 1 Halaman Baru : 4 Halaman Muraja'ah), sirkuit memori di hipokampus dikonsolidasikan secara kokoh ke dalam neokorteks jangka panjang.
-> * **Protokol Mutqin Paripurna 4 Etape di Pesantren TUMBUH:**  
+> * **Protokol Mutqin Paripurna 4 Etape di Ekosistem Pesantren Berbasis TUMBUH:**  
 >   Monograf ini merumuskan protokol retensi tahfizh: Sesi Talaqqi Fajar, Sesi Tikrar Berpasangan (*Talaqqi Zamil*), Sesi Muraja'ah Shalat Sunnah, pengujian kelancaran munaqasyah 5–30 juz tanpa melihat mushaf, dan visualisasi grafik retensi pada platform *SIM Mutqin-TUMBUH*.
 
 ---
@@ -280,7 +280,7 @@ flowchart TD
 [^1]: Kritik terhadap kelesuan retensi hafalan akibat minimnya pengulangan terdistribusi, Roediger & Karpicke (2006, hlm. 252).  
 [^2]: Pembahasan dampak negatif hormon kortisol dan stres emosional terhadap konsolidasi memori di hipokampus, Squire & Dede (2015, hlm. 14).  
 [^3]: HR. Al-Bukhari dalam *Shahih Al-Bukhari* (No. 5033), Kitab *Fadhailul Qur'an*.  
-[^4]: Protokol de-traumatisasi mental block tahfizh dan pemulihan relasi edukatif santri TUMBUH (2026).  
+[^4]: Protokol de-traumatisasi mental block tahfizh dan pemulihan relasi edukatif santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan metodologi retensi hafalan mutqin terintegrasi SIM Mutqin TUMBUH (2026).  
 
 ---

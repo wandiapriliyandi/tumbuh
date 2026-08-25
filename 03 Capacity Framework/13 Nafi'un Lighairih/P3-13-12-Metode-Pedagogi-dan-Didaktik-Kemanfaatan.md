@@ -1,5 +1,5 @@
 # P3-13-12: METODE PEDAGOGI DAN DIDAKTIK KEMANFAATAN NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Empat Model Pedagogi & Didaktik Khidmah Sosial Terapan (Living Exemplary Mentorship / Qudwah Khadimah, Problem-Based Community Learning / PBL Sosial, Service-Learning Experiential Immersion, Serta Socratic Moral Dilemma Discourses), Desain Rencana Pelaksanaan Pembelajaran (RPP) 45 Menit 'Bakti Umat', Serta Transformasi Didaktik Madrasah Berbasis Maslahat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Empat Model Pedagogi & Didaktik Khidmah Sosial Terapan (Living Exemplary Mentorship / Qudwah Khadimah, Problem-Based Community Learning / PBL Sosial, Service-Learning Experiential Immersion, Serta Socratic Moral Dilemma Discourses), Desain Rencana Pelaksanaan Pembelajaran (RPP) 45 Menit 'Bakti Umat', Serta Transformasi Didaktik Madrasah Berbasis Maslahat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-12/MONOGRAF-RISET-METODE-PEDAGOGI-DIDAKTIK-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 12: *Pedagogical & Didactic Methods*)  
@@ -136,7 +136,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph ProtokolTransformasiQudwahGuru["PROTOKOL TRANSFORMASI QUDWAH GURU"]
-        TahapA["1. COACHING PRIVAT DIREKTUR PENGASUHAN: HAKIKAT QUDWAH KHADIMAH<br/>• Direktur membedah hadits Khandaq: 'Guru di Pesantren TUMBUH adalah Khadimul Ummah; tangan guru wajib memegang beban terlebih dahulu'."]
+        TahapA["1. COACHING PRIVAT DIREKTUR PENGASUHAN: HAKIKAT QUDWAH KHADIMAH<br/>• Direktur membedah hadits Khandaq: 'Guru di Ekosistem Pesantren Berbasis TUMBUH adalah Khadimul Ummah; tangan guru wajib memegang beban terlebih dahulu'."]
         
         TahapB["2. WORKSHOP PEMODELAN PEDAGOGI KHIDMAH TERAPAN BAGI SELURUH GURU<br/>• Pelatihan didaktik di mana seluruh dewan asatidz mempraktikkan memimpin kerja bakti & mengangkat beban bersama santri."]
         
@@ -221,7 +221,7 @@ Penerapan metodologi pedagogi dan didaktik kemanfaatan sosial ini mentransformas
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-12: METODE PEDAGOGI DAN DIDAKTIK KEMANFAATAN NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-12: METODE PEDAGOGI DAN DIDAKTIK KEMANFAATAN NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -1,5 +1,5 @@
 # P5-08-03: PERIODIC PROGRESS REVIEW DAN SESI REFLEKSI (FORM PPR-BULANAN)
-## *Monograf Riset Akademik: Protokol Tinjauan Kemajuan Berkala Tiga Bulanan dan Sesi Refleksi Mentoring (Periodic Progress Review & Mentoring Reflection Sessions / Form PPR-Bulanan), Integrasi Doktrin 'At-Tadzkīr al-Murattab wa Tajdīdul 'Ahd' Turats Klasik dengan Kolb's Reflective Coaching & Data-Based Decision Making (DBDM), Serta Siklus Evaluasi Triwulan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Tinjauan Kemajuan Berkala Tiga Bulanan dan Sesi Refleksi Mentoring (Periodic Progress Review & Mentoring Reflection Sessions / Form PPR-Bulanan), Integrasi Doktrin 'At-Tadzkīr al-Murattab wa Tajdīdul 'Ahd' Turats Klasik dengan Kolb's Reflective Coaching & Data-Based Decision Making (DBDM), Serta Siklus Evaluasi Triwulan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-08-03/MONOGRAF-RISET-PERIODIC-PROGRESS-REVIEW/2026`  
 **Domain**: `05 Assessment Framework` > `08 Mentor Assessment` (Sub-Modul 03: *Periodic Progress Review & Mentoring Reflection*)  
@@ -211,7 +211,7 @@ Penerapan protokol Periodic Progress Review Form PPR ini menghadirkan keunggulan
 
 1. **Melenyapkan Masalah Kebuntuan dan Kejenuhan Santri Sejak Titik Dini (*Zero Unaddressed Burnout*)**: Setiap kendala psikologis langsung terurai dalam dialog bulanan yang hangat.
 2. **Membiasakan Pengambilan Keputusan Berbasis Data Faktual (*Data-Driven Mentoring*)**: Dialog pengasuhan tidak lagi berdasar pada asumsi prasangka, melainkan bukti grafik riil.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Siklus Reflektif Kontinu**: Menjadikan pesantren TUMBUH sebagai institusi pendidikan Islam dengan sistem mitigasi kegagalan belajar terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Siklus Reflektif Kontinu**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan sistem mitigasi kegagalan belajar terbaik di dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan protokol Periodic Progress Review Form PPR ini menghadirkan keunggulan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-08-03: PERIODIC PROGRESS REVIEW DAN SESI REFLEKSI (FORM PPR-BULANAN)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-08-03: PERIODIC PROGRESS REVIEW DAN SESI REFLEKSI (FORM PPR-BULANAN)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan asesmen sumatif akhir semester yang terlambat mencegah kegagalan belajar, Sugai & Horner (2020, hlm. 206).  
 [^2]: Kerangka kerja Data-Based Decision Making (DBDM) dalam monitoring berkala PBIS, Todd, Horner, & Sugai (1999, hlm. 44).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 68), bab pentingnya pemeriksaan berkala kondisi murid oleh sang pembina batin.  
-[^4]: Protokol periodic progress review bulanan dan resolusi kejenuhan belajar santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan Periodic Progress Review (PPR) di Pesantren TUMBUH (2026).  
+[^4]: Protokol periodic progress review bulanan dan resolusi kejenuhan belajar santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan Periodic Progress Review (PPR) di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

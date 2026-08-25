@@ -1,5 +1,5 @@
 # P4-04-04: SISTEM KETELADANAN QUDWAH DAN ERADIKASI FEODALISME SANTRI
-## *Monograf Riset Akademik: Rekayasa Budaya Keteladanan Qudwah Hasanah Guru, Musyrif, & Pengurus OPPM, Eradikasi Absolut Praktik Feodalisme & Senioritas Kekerasan di Asrama Pesantren 24 Jam, Integrasi Doktrin Uswah Hasanah Turats dengan Social Learning Theory (Bandura) & Psychological Safety (Edmondson), Serta Protokol Restorative Whistleblower System di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Budaya Keteladanan Qudwah Hasanah Guru, Musyrif, & Pengurus OPPM, Eradikasi Absolut Praktik Feodalisme & Senioritas Kekerasan di Asrama Pesantren 24 Jam, Integrasi Doktrin Uswah Hasanah Turats dengan Social Learning Theory (Bandura) & Psychological Safety (Edmondson), Serta Protokol Restorative Whistleblower System di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-04-04/MONOGRAF-RISET-SISTEM-QUDWAH-ANTI-FEODALISME/2026`  
 **Domain**: `04 Progression Framework` > `04 Mastery Progression` (Sub-Modul 04: *Exemplary Qudwah System & Anti-Feudalism*)  
@@ -278,7 +278,7 @@ flowchart TD
 [^1]: Kritik terhadap transmisi kekerasan struktural dan budaya feodalisme di lingkungan sekolah berasrama, Edmondson (1999, hlm. 354).  
 [^2]: Pembahasan dampak destruktif kekerasan verbal dan bentakan terhadap neuroplastisitas korteks prefrontal remaja, Bandura (1977, hlm. 68).  
 [^3]: HR. Ahmad dalam *Musnad Al-Imam Ahmad* (No. 22978), dari hadits Abu Nadhrah tentang Khutbah Wada'.  
-[^4]: Protokol dekonstruksi feodalisme asrama dan penanganan sidang malam gelap santri TUMBUH (2026).  
+[^4]: Protokol dekonstruksi feodalisme asrama dan penanganan sidang malam gelap santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan sistem keteladanan qudwah dan suaka aman anti-feodalisme TUMBUH Pesantren (2026).  
 
 ---
@@ -294,4 +294,4 @@ flowchart TD
 7. **Pakta Integritas Qudwah**: Dokumen komitmen tertulis yang ditandatangani oleh musyrif dan pengurus OPPM untuk tidak melakukan kekerasan fisik maupun verbal.
 8. **Omerta Code**: Budaya tutup mulut di kalangan korban atau saksi perundungan yang dipicu oleh ancaman balas dendam dari kelompok pelaku.
 9. **Role Re-Direction Intervention**: Metode pembinaan restoratif yang mengubah energi dan kekuatan fisik santri pelaku menjadi tanggung jawab melindungi santri yang lemah.
-10. **Zero-Violence Sanctuary**: Status kehormatan pesantren TUMBUH sebagai lembaga pendidikan yang steril 100% dari segala bentuk kekerasan fisik, psikologis, dan relasional.
+10. **Zero-Violence Sanctuary**: Status kehormatan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan yang steril 100% dari segala bentuk kekerasan fisik, psikologis, dan relasional.

@@ -258,7 +258,7 @@ Penerapan Master Doktrin Education ini menegaskan arah kebangkitan peradaban Isl
 
 [^1]: Riset Master Doktrin Education dan Falsafah Ta'dib TUMBUH, *Kritik atas Fragmentasi dan Feodalisme Pendidikan*, 2026.  
 [^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Education TUMBUH, 2026.  
-[^3]: Blueprint Rekayasa Ekologi dan Kurikulum Hidup 24 Jam Pesantren TUMBUH, 2026.  
+[^3]: Blueprint Rekayasa Ekologi dan Kurikulum Hidup 24 Jam Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^4]: Piagam Sanctuary Bi'ah Shalihah dan Perlindungan Hak Pendidikan Beradab TUMBUH, 2026.  
 [^5]: Dokumentasi Longitudinal Transformasi Budaya Belajar dan Disiplin Positif PBIS TUMBUH, 2026.  
 [^6]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 22–50.  

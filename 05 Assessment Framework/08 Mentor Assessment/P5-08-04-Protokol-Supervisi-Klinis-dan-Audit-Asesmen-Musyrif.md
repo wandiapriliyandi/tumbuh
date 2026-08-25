@@ -1,5 +1,5 @@
 # P5-08-04: PROTOKOL SUPERVISI KLINIS DAN AUDIT ASESMEN MUSYRIF
-## *Monograf Riset Akademik: Protokol Supervisi Klinis Pengasuhan Asrama dan Audit Kualitas Asesmen Musyrif (Clinical Supervision & Mentor Assessment Quality Audit Protocol / Form SKA-Supervisi), Integrasi Doktrin 'Al-Muhāsabah lil Mu'addibīn wa Taqwīmur Rū'āh' Turats Klasik dengan Goldhammer-Cogan Clinical Supervision Cycle & Mentoring Quality Assurance, Serta Standar Kompetensi Musyrif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Supervisi Klinis Pengasuhan Asrama dan Audit Kualitas Asesmen Musyrif (Clinical Supervision & Mentor Assessment Quality Audit Protocol / Form SKA-Supervisi), Integrasi Doktrin 'Al-Muhāsabah lil Mu'addibīn wa Taqwīmur Rū'āh' Turats Klasik dengan Goldhammer-Cogan Clinical Supervision Cycle & Mentoring Quality Assurance, Serta Standar Kompetensi Musyrif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-08-04/MONOGRAF-RISET-SUPERVISI-KLINIS-AUDIT-MUSYRIF/2026`  
 **Domain**: `05 Assessment Framework` > `08 Mentor Assessment` (Sub-Modul 04: *Clinical Supervision & Mentor Assessment Quality Audit*)  
@@ -222,7 +222,7 @@ Penerapan protokol supervisi klinis Form SKA ini menghadirkan keunggulan peradab
 
 1. **Mewujudkan Sistem Perlindungan dan Pengembangan SDM Pengasuh (*Educator Well-Being & Growth*)**: Musyrif merasa didukung, dilindungi, dan dikembangkan kapasitasnya secara berkelanjutan.
 2. **Menjamin Akurasi dan Validitas Data Asesmen Pesantren 100%**: Meniadakan data fiktif atau rekaan di seluruh lini pelaporan SIM Intizham.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Akreditasi Pendidikan Asrama Internasional**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam yang memiliki tata kelola manajemen kepengasuhan paling solid di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Akreditasi Pendidikan Asrama Internasional**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam yang memiliki tata kelola manajemen kepengasuhan paling solid di dunia.[^5]
 
 ---
 
@@ -230,7 +230,7 @@ Penerapan protokol supervisi klinis Form SKA ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-08-04: PROTOKOL SUPERVISI KLINIS DAN AUDIT ASESMEN MUSYRIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-08-04: PROTOKOL SUPERVISI KLINIS DAN AUDIT ASESMEN MUSYRIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -299,7 +299,7 @@ flowchart TD
 [^2]: Pencegahan burnout dan kelelahan emosional pada profesi pengasuhan dan pendidik, Maslach et al. (2001, hlm. 402).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 142), bab kewajiban pemimpin memeriksa dan membimbing para pendidik anak.  
 [^4]: Protokol supervisi klinis kolegial dan pemulihan burnout musyrif muda TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol supervisi klinis dan audit asesmen musyrif di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol supervisi klinis dan audit asesmen musyrif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

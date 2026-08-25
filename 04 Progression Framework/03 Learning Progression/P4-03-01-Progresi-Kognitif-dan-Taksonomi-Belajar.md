@@ -1,5 +1,5 @@
 # P4-03-01: PROGRESI KOGNITIF DAN TAKSONOMI BELAJAR DINIYYAH SANTRI
-## *Monograf Riset Akademik: Trajektori Perkembangan Kognitif Santri (Usia 12–18 Tahun / Jenjang J1–J4), Rekonstruksi Taksonomi Bloom-Anderson Terintegrasi Maratib al-'Ilm Turats Islam (Hifzh, Fahm, Istinbath, wa 'Amal), Metodologi Didaktik Pembelajaran Diniyyah, Serta Matriks Progresi Berpikir Kritis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Perkembangan Kognitif Santri (Usia 12–18 Tahun / Jenjang J1–J4), Rekonstruksi Taksonomi Bloom-Anderson Terintegrasi Maratib al-'Ilm Turats Islam (Hifzh, Fahm, Istinbath, wa 'Amal), Metodologi Didaktik Pembelajaran Diniyyah, Serta Matriks Progresi Berpikir Kritis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-03-01/MONOGRAF-RISET-PROGRESI-KOGNITIF-TAKSONOMI-BELAJAR/2026`  
 **Domain**: `04 Progression Framework` > `03 Learning Progression` (Sub-Modul 01: *Cognitive Progression & Learning Taxonomy*)  
@@ -305,7 +305,7 @@ flowchart TD
 [^1]: Kritik terhadap kegagalan model pembelajaran hafalan buta tanpa skema kognitif terpadu, Sweller (1988, hlm. 260).  
 [^2]: Kerangka taksonomi hasil belajar revisi Anderson-Krathwohl dan integrasinya dengan kognisi metakognitif, Anderson & Krathwohl (2001, hlm. 46).  
 [^3]: Ibnu Abdil Barr, *Jami' Bayanil 'Ilmi wa Fadhlih* (2000, Jilid 1, hlm. 118).  
-[^4]: Protokol remediasi kognitif dan restrukturisasi skema pemahaman nahwu aplikatif santri TUMBUH (2026).  
+[^4]: Protokol remediasi kognitif dan restrukturisasi skema pemahaman nahwu aplikatif santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan taksonomi progresi kognitif diniyyah terpadu TUMBUH Pesantren (2026).  
 
 ---

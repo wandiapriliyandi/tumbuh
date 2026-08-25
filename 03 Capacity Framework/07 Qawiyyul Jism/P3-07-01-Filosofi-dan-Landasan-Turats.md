@@ -13,7 +13,7 @@
 > * **Krisis Asketisme Ekstrem & Pengabaian Raga di Pesantren:**  
 >   Terdapat salah kaprah historis di sebagian kalangan pesantren yang memandang tubuh jasmani sebagai "penjara ruhani" atau menganggap bahwa kesalehan menuntut pengabaian kesehatan fisik (seperti membanggakan kurang tidur kronis, menganggap lumrah penyakit kulit/gudik sebagai tanda barakah ilmu, dan pola makan nir-gizi). Akibatnya, santri rentan terserang wabah menular, stunting, kelelahan mental (*Mental Fatigue*), dan penurunan daya retensi hafalan Al-Qur'an.
 > * **Inovasi Konseptual Qawiyyul Jism TUMBUH:**  
->   *Qawiyyul Jism* (Karakter ke-4 dari 10 Muwashafat Santri TUMBUH) didefinisikan sebagai **kapasitas vitalitas jasmani yang tangguh, bugar, higienis, dan terlatih, yang didedikasikan sebagai sarana (*Wasilah*) penegakan ibadah paripurna, ketahanan thalabul 'ilmi, dan khidmah kemaslahatan ummat**. Raga adalah amanah (*Amanah Jasadiyyah*) yang wajib dirawat melalui keseimbangan gizi thayyib, tidur sirkadian yang cukup, dan olahraga teratur.
+>   *Qawiyyul Jism* (Karakter ke-4 dari 10 Muwashafat Santri dalam sistem TUMBUH) didefinisikan sebagai **kapasitas vitalitas jasmani yang tangguh, bugar, higienis, dan terlatih, yang didedikasikan sebagai sarana (*Wasilah*) penegakan ibadah paripurna, ketahanan thalabul 'ilmi, dan khidmah kemaslahatan ummat**. Raga adalah amanah (*Amanah Jasadiyyah*) yang wajib dirawat melalui keseimbangan gizi thayyib, tidur sirkadian yang cukup, dan olahraga teratur.
 > * **Sintesis Turats Thibb Nabawi & Neurosains Kebugaran:**  
 >   Monograf ini menyintesiskan teks otoritatif Turats (*Zadul Ma'ad fi Hadyi Khairil 'Ibad* dan *Ath-Thibb an-Nabawiy* karya Ibnu Qayyim Al-Jauziyyah serta *Al-Qanun fit-Thibb* karya Ibnu Sina) dengan konsensus sains biomedis modern mengenai *Brain-Derived Neurotrophic Factor (BDNF)*, *Gut-Brain Axis*, dan ritme sirkadian tidur. Riset ini merumuskan transformasi menyeluruh pada Triad Pertumbuhan: santri bugar prima, musyrif sehat terlindungi dari stres fisik, dan sistem kelembagaan dengan standar sanitasi kelas dunia.
 
@@ -260,7 +260,7 @@ Transformasi menuju standar **Qawiyyul Jism TUMBUH** membawa dampak besar bagi p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-07-01: FILOSOFI DAN LANDASAN TURATS QAWIYYUL JISM** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-07-01: FILOSOFI DAN LANDASAN TURATS QAWIYYUL JISM** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

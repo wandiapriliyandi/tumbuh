@@ -28,7 +28,7 @@
   - [4. Rekayasa Lingkaran Restoratif Asrama: Mengubah Perselisihan Menjadi Sarana Pembelajaran Karakter](#4-rekayasa-lingkaran-restoratif-asrama-mengubah-perselisihan-menjadi-sarana-pembelajaran-karakter)
   - [5. Kasuistika Lapangan: Kasus Perselisihan Kamar Asrama & Resolusi Mediasi Restoratif Ishlah](#5-kasuistika-lapangan-kasus-perselisihan-kamar-asrama--resolusi-mediasi-restoratif-ishlah)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH](#1-eksplanasi-teoretis-integrasi-casel-sel-dan-karakter-islami-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Integrasi CASEL SEL dan Karakter Islami Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-integrasi-casel-sel-dan-karakter-islami-pesantren-tumbuh)
   - [2. Matriks Integrasi Lima Kompetensi CASEL SEL dengan Khazanah Adab Turats Islam](#2-matriks-integrasi-lima-kompetensi-casel-sel-dengan-khazanah-adab-turats-islam)
   - [3. Matriks Skenario Pembiasaan SEL dalam Denyut Kehidupan Pesantren 24 Jam](#3-matriks-skenario-pembiasaan-sel-dalam-denyut-kehidupan-pesantren-24-jam)
   - [4. Protokol Restoratif Resolusi Konflik Sebaya (Peer Conflict Restorative Protocol)](#4-protokol-restoratif-resolusi-konflik-sebaya-peer-conflict-restorative-protocol)
@@ -108,7 +108,7 @@ TUMBUH memberlakukan penanganan konflik berbasis dialog beradab:
 
 ---
 
-### 1. Eksplanasi Teoretis Integrasi CASEL SEL dan Karakter Islami Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Integrasi CASEL SEL dan Karakter Islami Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan kecerdasan sosial-emosional ke dalam **Arsitektur Lima Pilar Karakter SEL-Islami (*Arkan ad-Daka' al-Wijdaniy*)**:
 
@@ -141,7 +141,7 @@ flowchart TD
 
 ### 2. Matriks Integrasi Lima Kompetensi CASEL SEL dengan Khazanah Adab Turats Islam
 
-| Kompetensi CASEL SEL | Padanan Konsep Turats Islam | Indikator Perilaku Konkret Santri TUMBUH |
+| Kompetensi CASEL SEL | Padanan Konsep Turats Islam | Indikator Perilaku Konkret Santri dalam sistem TUMBUH |
 | :--- | :--- | :--- |
 | **1. Self-Awareness** | *Muraqabatullah & Ma'rifatun Nafs* | Mampu mengidentifikasi emosi diri & menyadari pengawasan Allah.|
 | **2. Self-Management** | *Mujahadatun Nafs, As-Shabr, & Al-Hilm*| Mengambil nafas/berwudhu saat marah & disiplin menjaga jadwal.|
@@ -194,7 +194,7 @@ Integrasi CASEL SEL dan karakter Islami ini membawa implikasi agung bagi peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-04: PRINSIP INTEGRASI CASEL SEL DAN KARAKTER ADAB ISLAMI (INTEGRATED ISLAMIC SOCIAL-EMOTIONAL LEARNING)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-04: PRINSIP INTEGRASI CASEL SEL DAN KARAKTER ADAB ISLAMI (INTEGRATED ISLAMIC SOCIAL-EMOTIONAL LEARNING)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -268,7 +268,7 @@ flowchart TD
 [^4]: Durlak, J. A., et al. (2011), *Child Development*, hlm. 405–432; Weissberg, R. P., et al. (2015), *Handbook of SEL*, hlm. 3–19.  
 [^5]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 12–38.  
 [^6]: Dokumentasi Mediasi Lingkaran Restoratif dan Resolusi Konflik Asrama PBIS TUMBUH, 2026.  
-[^7]: Master Blueprint Self-Awareness dan Muraqabatullah Santri TUMBUH, 2026.  
+[^7]: Master Blueprint Self-Awareness dan Muraqabatullah Santri dalam sistem TUMBUH, 2026.  
 [^8]: Master Blueprint Self-Management dan Regulasi Emosi Remaja TUMBUH, 2026.  
 [^9]: Master Blueprint Social Awareness dan Budaya Ukhuwah Asrama TUMBUH, 2026.  
 [^10]: Master Blueprint Relationship Skills dan Adab Mu'asyarah TUMBUH, 2026.  

@@ -1,5 +1,5 @@
 # P8-07-03: PETA JALAN INOVASI MASA DEPAN PENDIDIKAN KARAKTER PESANTREN
-## *Monograf Riset Akademik: Standarisasi Peta Jalan Strategis 10-Tahun Transformasi Pendidikan Karakter Pesantren, Model Diseminasi Jaringan Keunggulan Karakter Islam Global, dan Keberlanjutan Ekosistem TUMBUH Menuju Indonesia Emas 2045 (10-Year Strategic Character Education Innovation Roadmap, Global Islamic Character Network Dissemination Model, & TUMBUH Civilizational Sustainability / Form FUT-Roadmap), Integrasi Doktrin 'Al-Istikhlāf wa 'Imāratul Ardh bil-Ilmi wal Adab' Turats Klasik dengan Strategic Foresight Science, Christensen Disruptive Innovation Theory, Serta Kepemimpinan Peradaban di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Peta Jalan Strategis 10-Tahun Transformasi Pendidikan Karakter Pesantren, Model Diseminasi Jaringan Keunggulan Karakter Islam Global, dan Keberlanjutan Ekosistem TUMBUH Menuju Indonesia Emas 2045 (10-Year Strategic Character Education Innovation Roadmap, Global Islamic Character Network Dissemination Model, & TUMBUH Civilizational Sustainability / Form FUT-Roadmap), Integrasi Doktrin 'Al-Istikhlāf wa 'Imāratul Ardh bil-Ilmi wal Adab' Turats Klasik dengan Strategic Foresight Science, Christensen Disruptive Innovation Theory, Serta Kepemimpinan Peradaban di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-07-03/MONOGRAF-RISET-PETA-JALAN-INOVASI-MASA-DEPAN/2026`  
 **Domain**: `08 Integrated Approaches` > `07 Future Approaches` (Sub-Modul 03: *10-Year Strategic Character Innovation Roadmap*)  
@@ -67,7 +67,7 @@ flowchart LR
 | **2. Keberlanjutan Teknologi (Teknologis)** | Pengembangan Open-Source SIM Intizham Engine & AI Preskriptif untuk Pesantren. | PWA Mobile & AI Engine siap pakai untuk ribuan pesantren. | Demokratisasi teknologi pembinaan santri seluruh pelosok. |
 | **3. Keberlanjutan Kader (Insani)** | Program Beasiswa Kaderisasi Musyrif & Kepemimpinan Santri Penggerak J4. | 1.000 Musyrif Bersertifikasi Nasional & 10.000 Santri J4. | Pasokan pemimpin beradab untuk Indonesia Emas 2045. |
 
-### 2. Format Piagam Kerjasama Jaringan Pesantren TUMBUH (Form FUT-MitraCharter)
+### 2. Format Piagam Kerjasama Jaringan Ekosistem Pesantren Berbasis TUMBUH (Form FUT-MitraCharter)
 
 ```text
 ====================================================================================================
@@ -106,7 +106,7 @@ Peta jalan inovasi masa depan yang memadukan *Strategic Foresight* dengan doktri
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-07-03: PETA JALAN INOVASI MASA DEPAN PENDIDIKAN KARAKTER PESANTREN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-07-03: PETA JALAN INOVASI MASA DEPAN PENDIDIKAN KARAKTER PESANTREN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

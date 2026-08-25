@@ -1,5 +1,5 @@
 # P8-03-01: SISTEM MENTORING QUDWAH MUSYRIF-SANTRI
-## *Monograf Riset Akademik: Standarisasi Sistem Mentoring Relasional 1-on-1 Musyrif-Santri Berbasis Qudwah Hasanah, Protokol Dialog Perkembangan Dua Pekanan (Bi-Weekly Developmental Mentoring), dan Rekayasa Ikatan Kelekatan Aman (1-on-1 Musyrif-Student Mentoring System, Bi-Weekly Growth Dialogue Protocol, & Secure Attachment Engineering / Form MEN-Qudwah), Integrasi Doktrin 'Al-Ukhuwwah fir-Ri'āyah wal Mujālasah bil-Ihsān' Turats Klasik dengan Rhodes Youth Mentoring Model, Bowlby Attachment Theory, Serta Ketahanan Jiwa Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Sistem Mentoring Relasional 1-on-1 Musyrif-Santri Berbasis Qudwah Hasanah, Protokol Dialog Perkembangan Dua Pekanan (Bi-Weekly Developmental Mentoring), dan Rekayasa Ikatan Kelekatan Aman (1-on-1 Musyrif-Student Mentoring System, Bi-Weekly Growth Dialogue Protocol, & Secure Attachment Engineering / Form MEN-Qudwah), Integrasi Doktrin 'Al-Ukhuwwah fir-Ri'āyah wal Mujālasah bil-Ihsān' Turats Klasik dengan Rhodes Youth Mentoring Model, Bowlby Attachment Theory, Serta Ketahanan Jiwa Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-03-01/MONOGRAF-RISET-MENTORING-QUDWAH-MUSYRIF/2026`  
 **Domain**: `08 Integrated Approaches` > `03 Mentoring` (Sub-Modul 01: *1-on-1 Musyrif-Student Qudwah Mentoring System*)  
@@ -103,7 +103,7 @@ Hubungan mentoring 1-on-1 yang didasari *Secure Attachment* dan keteladanan mora
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-03-01: SISTEM MENTORING QUDWAH MUSYRIF-SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-03-01: SISTEM MENTORING QUDWAH MUSYRIF-SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -156,5 +156,5 @@ flowchart TD
 
 [^1]: DuBois et al. mengenai meta-analisis efektivitas mentoring terhadap perkembangan psikososial dan akademik remaja, DuBois et al. (2011, hlm. 59).
 [^2]: Hadits wasiat Rasulullah SAW kepada Ibnu Abbas RA mengenai teladan pengasuhan dan mentoring personal pemuda, HR. At-Tirmidzi No. 2516.
-[^3]: Studi kasus sesi mentoring 1-on-1 menyelamatkan santri berprestasi dari krisis keputusasaan Pesantren TUMBUH (2026).
+[^3]: Studi kasus sesi mentoring 1-on-1 menyelamatkan santri berprestasi dari krisis keputusasaan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak relasi kelekatan aman (secure attachment) terhadap resiliensi emosional dan stabilitas hafalan santri (2026).

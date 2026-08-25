@@ -28,7 +28,7 @@
   - [4. Rekayasa Dua Fungsi Perilaku Manusia (Escape vs Obtain) & Perancangan Replacement Behavior](#4-rekayasa-dua-fungsi-perilaku-manusia-escape-vs-obtain--perancangan-replacement-behavior)
   - [5. Kasuistika Lapangan: Studi Kasus Santri Sering Kabur dari Jam Tahfizh & Resolusi BIP Berbasis FBA](#5-kasuistika-lapangan-studi-kasus-santri-sering-kabur-dari-jam-tahfizh--resolusi-bip-berbasis-fba)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-functional-behavior-assessment-fba-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Functional Behavior Assessment (FBA) Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-functional-behavior-assessment-fba-pesantren-tumbuh)
   - [2. Matriks Pemetaan Model ABC & Fungsi Perilaku Santri di Asrama dan Madrasah](#2-matriks-pemetaan-model-abc--fungsi-perilaku-santri-di-asrama-dan-madrasah)
   - [3. Template Baku Dokumen FBA & Rencana Aksi BIP (Behavior Intervention Plan)](#3-template-baku-dokumen-fba--rencana-aksi-bip-behavior-intervention-plan)
   - [4. Alur Standar Operasional Prosedur (SOP) Pelaksanaan FBA oleh Tim Terpadu BK](#4-alur-standar-operasional-prosedur-sop-pelaksanaan-fba-oleh-tim-terpadu-bk)
@@ -114,7 +114,7 @@ Sains FBA memetakan 2 fungsi utama perilaku:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Functional Behavior Assessment (FBA) Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Functional Behavior Assessment (FBA) Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan asesmen fungsional ke dalam **Arsitektur Tiga Sayap Diagnosis FBA (*Arkan at-Tasykhis al-Wazhifiy*)**:
 
@@ -211,7 +211,7 @@ Prinsip Functional Behavior Assessment (FBA) ini membawa implikasi agung bagi pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-02: PRINSIP FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DAN DIAGNOSIS PERILAKU** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-02: PRINSIP FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DAN DIAGNOSIS PERILAKU** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

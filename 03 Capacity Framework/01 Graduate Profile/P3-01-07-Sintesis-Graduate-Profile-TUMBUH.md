@@ -23,12 +23,12 @@
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
-  - [1. Arsitektur Sintesis Holistik: Integrasi Triad Profil Kapasitas Pesantren TUMBUH](#1-arsitektur-sintesis-holistik-integrasi-triad-profil-kapasitas-pesantren-tumbuh)
+  - [1. Arsitektur Sintesis Holistik: Integrasi Triad Profil Kapasitas Ekosistem Pesantren Berbasis TUMBUH](#1-arsitektur-sintesis-holistik-integrasi-triad-profil-kapasitas-pesantren-tumbuh)
   - [2. Grand Model Penyelarasan Taksonomi Profil Lulusan dengan Kebutuhan Zaman](#2-grand-model-penyelarasan-taksonomi-profil-lulusan-dengan-kebutuhan-zaman)
   - [3. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Profil Kelulusan](#3-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-profil-kelulusan)
   - [4. Jembatan Konseptual Menuju Sub-Domain 02 Character Architecture](#4-jembatan-konseptual-menuju-sub-domain-02-character-architecture)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Grand Model Taksonomi Profil Lulusan Pesantren TUMBUH](#1-formulasi-konseptual-grand-model-taksonomi-profil-lulusan-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Grand Model Taksonomi Profil Lulusan Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-grand-model-taksonomi-profil-lulusan-pesantren-tumbuh)
   - [2. Matriks Grand Rubrik Profil Kelulusan Paripurna 10 Muwashafat](#2-matriks-grand-rubrik-profil-kelulusan-paripurna-10-muwashafat)
   - [3. Standar Prosedur Evaluasi Kelulusan & Verifikasi Portofolio Mutqin](#3-standar-prosedur-evaluasi-kelulusan--verifikasi-portofolio-mutqin)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -43,7 +43,7 @@
 
 ---
 
-### 1. Arsitektur Sintesis Holistik: Integrasi Triad Profil Kapasitas Pesantren TUMBUH
+### 1. Arsitektur Sintesis Holistik: Integrasi Triad Profil Kapasitas Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merajut seluruh sains pedagogi adab, antropologi fitrah, sosiologi kelembagaan, dan asesmen autentik ke dalam **Arsitektur Profil Kapasitas Terpadu (*Integrated Capacity Profile Architecture*)**:
 
@@ -126,7 +126,7 @@ graph LR
 
 ---
 
-### 1. Formulasi Konseptual: Grand Model Taksonomi Profil Lulusan Pesantren TUMBUH
+### 1. Formulasi Konseptual: Grand Model Taksonomi Profil Lulusan Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual profil kelulusan holistik sebagai berikut:
 
@@ -184,7 +184,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-07: SINTESIS GRADUATE PROFILE DAN GRAND RUBRIK PROFIL LULUSAN** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-07: SINTESIS GRADUATE PROFILE DAN GRAND RUBRIK PROFIL LULUSAN** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -258,7 +258,7 @@ flowchart TD
 [^4]: Edmondson, A. C. (2018), *The Fearless Organization*, Wiley.  
 [^5]: World Economic Forum (2020), *The Future of Jobs Report*, WEF.  
 [^6]: Horner & Sugai (2015), *Remedial and Special Education*.  
-[^7]: Laporan Riset Standarisasi Profil Lulusan Pesantren TUMBUH, Dewan Asesmen Karakter, 2026.  
+[^7]: Laporan Riset Standarisasi Profil Lulusan Ekosistem Pesantren Berbasis TUMBUH, Dewan Asesmen Karakter, 2026.  
 [^8]: Panduan Munaqasyah Adab dan Portofolio Kelulusan Santri, Biro Akademik dan Pengasuhan TUMBUH, 2026.
 
 ---

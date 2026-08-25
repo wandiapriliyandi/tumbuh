@@ -39,4 +39,4 @@
 | **27** | **Rubrik Olahraga Sunnah & Kebugaran** | Indikator partisipasi pencak silat, panahan, & kebugaran jasmani. | **Domain 03, 07** |
 | **28** | **Form Evaluasi Ipsatif Tengah Semester** | Lembar refleksi mandiri santri terhadap pertumbuhan karakter diri. | **Domain 05** |
 | **29** | **Rubrik Kepedulian Lingkungan & Zero Waste**| Indikator pengelolaan sampah kamar & pemeliharaan keasrian asrama. | **Domain 03, 07** |
-| **30** | **Transkrip Kelulusan Karakter Alumni TUMBUH**| Format sertifikasi kompetensi adab & kepemimpinan alumni santri. | **Domain 04, 05** |
+| **30** | **Transkrip Kelulusan Karakter Alumni binaan sistem TUMBUH**| Format sertifikasi kompetensi adab & kepemimpinan alumni santri. | **Domain 04, 05** |

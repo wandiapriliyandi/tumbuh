@@ -15,7 +15,7 @@
 > * **Hasil Pengujian Validitas Konstruk Multidisipliner:**  
 >   Pengujian validitas isi kuantitatif (*Content Validity Index / CVI*) yang melibatkan 12 dewan pakar lintas disiplin (Pakar Turats Islam, Neurosains Kognitif, Psikolog Perkembangan Remaja, Master PBIS Restoratif, dan Kepala Pengasuhan Asrama) menghasilkan **Koefisien Validitas Aiken's $V = 0.962$** dan **Content Validity Ratio ($CVR = 0.98$)**, membuktikan bahwa seluruh sub-modul P3-09-01 s/d P3-09-13 memiliki validitas ilmiah dan teologis yang sangat tinggi.
 > * **Roadmap Implementasi Ekosistem 24 Jam:**  
->   Monograf penutup ini menyajikan sintesis holistik, protokol mitigasi risiko implementasi asrama, serta peta jalan (*Roadmap*) adopsi sistemik kapasitas Mujahadatun Linafsih pada seluruh jenjang pendidikan pesantren TUMBUH.
+>   Monograf penutup ini menyajikan sintesis holistik, protokol mitigasi risiko implementasi asrama, serta peta jalan (*Roadmap*) adopsi sistemik kapasitas Mujahadatun Linafsih pada seluruh jenjang pendidikan ekosistem pesantren berbasis TUMBUH.
 
 ---
 
@@ -239,7 +239,7 @@ flowchart LR
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-09-14: SINTESIS DAN VALIDASI MUJAHADATUN LINAFSIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-09-14: SINTESIS DAN VALIDASI MUJAHADATUN LINAFSIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

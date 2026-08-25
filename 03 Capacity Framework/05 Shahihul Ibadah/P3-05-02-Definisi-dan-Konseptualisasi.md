@@ -126,7 +126,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap ibadah mahdhah yang menuntut penghentian aktivitas duniawi secara tepat waktu saat adzan (*Inhibitory Control*) dan pemusatan perhatian penuh pada bacaan serta gerakan (*Attentional Regulation*) secara langsung melatih kompetensi regulasi diri (*CASEL Self-Management*) dan mematangkan fungsi eksekutif otak (*Prefrontal Cortex*).
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum Shahihul Ibadah TUMBUH melatih santri merespons seruan adzan dalam 3 menit dan mempertahankan fokus khusyu' sepanjang shalat.
-* **Konklusi (*an-Natijah*)**: Maka, pembiasaan ibadah di pesantren TUMBUH secara ilmiah meningkatkan kapasitas kendali diri dan kedisiplinan hidup peserta didik.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, pembiasaan ibadah dalam sistem TUMBUH di pesantren secara ilmiah meningkatkan kapasitas kendali diri dan kedisiplinan hidup peserta didik.[^8]
 
 ```mermaid
 flowchart LR
@@ -188,7 +188,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan pembiasaan karakter yang mengaitkan tindakan ibadah baru pada rutinitas harian yang telah mapan (*Habit Stacking James Clear*) dan mengeliminasi friksi lingkungan asrama niscaya mengotomatiskan perilaku ibadah menjadi kebiasaan refleks yang permanen.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH menstrukturkan amalan shalat sunnah, dzikir, dan thaharah ke dalam 5 jangkar kebiasaan harian asrama.
-* **Konklusi (*an-Natijah*)**: Maka, santri di pesantren TUMBUH mampu menegakkan ibadah mahdhah dan nawafil secara mandiri tanpa perlu diawasi terus-menerus.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, santri dalam sistem TUMBUH di pesantren mampu menegakkan ibadah mahdhah dan nawafil secara mandiri tanpa perlu diawasi terus-menerus.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Menerapkan Habit Stacking: Wudhu Bersambung Tilawah dan Rawatib
 * **Pihak A (Sudut Pandang Pembiasaan Terpisah-pisah)**:  
@@ -206,7 +206,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Masjid Hanya Tempat Ibadah Formal)**:  
   *"Masjid itu cuma dipakai saat shalat 10 menit, setelah itu kunci pintunya agar tidak kotor!"*
 * **Resolusi Masjid Sebagai Episentrum Kehidupan Asrama**:  
-  Menutup masjid membuat santri merasa asing dengan rumah Allah. Tujuh golongan yang dinaungi Allah di hari kiamat salah satunya adalah: *"Pemuda yang hatinya senantiasa terpaut dengan masjid"* (HR. Bukhari No. 660). Masjid di pesantren TUMBUH dibuka 24 jam dengan karpet wangi, pencahayaan sejuk, perpustakaan mini turats, dan pendingin ruangan yang nyaman. Santri merasa masjid adalah tempat paling damai dan membahagiakan di seluruh dunia.[^15]
+  Menutup masjid membuat santri merasa asing dengan rumah Allah. Tujuh golongan yang dinaungi Allah di hari kiamat salah satunya adalah: *"Pemuda yang hatinya senantiasa terpaut dengan masjid"* (HR. Bukhari No. 660). Masjid dalam sistem TUMBUH di pesantren dibuka 24 jam dengan karpet wangi, pencahayaan sejuk, perpustakaan mini turats, dan pendingin ruangan yang nyaman. Santri merasa masjid adalah tempat paling damai dan membahagiakan di seluruh dunia.[^15]
 
 ---
 
@@ -331,7 +331,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-02: DEFINISI DAN KONSEPTUALISASI SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-02: DEFINISI DAN KONSEPTUALISASI SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -399,7 +399,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Konseptualisasi Kurikulum Karakter Ibadah Pesantren TUMBUH, *Kritik atas Reduksionisme Fiqh Formal*, 2026.  
+[^1]: Riset Konseptualisasi Kurikulum Karakter Ibadah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Fiqh Formal*, 2026.  
 [^2]: Ibnu Manzhur, *Lisan al-'Arab*, Jilid 3, Entri *'A-B-D*, hlm. 270–275.  
 [^3]: Matan *Lisan al-'Arab*, Jilid 3, hlm. 273.  
 [^4]: Ar-Raghib al-Ashfahani, *Al-Mufradat fi Gharib al-Qur'an*, Entri *Sh-H-H*, hlm. 475.  

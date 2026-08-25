@@ -1,5 +1,5 @@
 # P5-02-03: JADWAL DAN FREKUENSI PENGUMPULAN DATA ASESMEN PBIS
-## *Monograf Riset Akademik: Matriks Penjadwalan dan Frekuensi Pengumpulan Data Perilaku Positif Multi-Tier PBIS (Harian, Mingguan, Bulanan, Triwulanan, & Tahunan), Integrasi Doktrin Al-Waqtu Huwal Hayah Turats Klasik dengan Measurement Burst Designs & Data-Based Decision Making (DBDM), Serta Desain Kalender Asesmen Terpadu di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Matriks Penjadwalan dan Frekuensi Pengumpulan Data Perilaku Positif Multi-Tier PBIS (Harian, Mingguan, Bulanan, Triwulanan, & Tahunan), Integrasi Doktrin Al-Waqtu Huwal Hayah Turats Klasik dengan Measurement Burst Designs & Data-Based Decision Making (DBDM), Serta Desain Kalender Asesmen Terpadu di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-02-03/MONOGRAF-RISET-JADWAL-FREKUENSI-DATA-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 03: *PBIS Data Collection Schedule & Frequency*)  
@@ -228,7 +228,7 @@ Penerapan matriks jadwal dan frekuensi pengumpulan data PBIS ini menghadirkan ke
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-02-03: JADWAL DAN FREKUENSI PENGUMPULAN DATA ASESMEN PBIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-02-03: JADWAL DAN FREKUENSI PENGUMPULAN DATA ASESMEN PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -296,8 +296,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan asesmen perilaku yang mengalami under-measurement atau rater fatigue, Sliwinski (2008, hlm. 248).  
 [^2]: Kerangka kerja Data-Based Decision Making (DBDM) dalam implementasi School-Wide PBIS, Sugai & Horner (2020, hlm. 209).  
 [^3]: Al-Ghazali, *Bidayatul Hidayah* (2016, hlm. 38), bab pembagian waktu dan penyusunan tertib wirid harian.  
-[^4]: Protokol penanganan beban kerja ganda musyrif dan mode ringkas ujian santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan matriks jadwal dan frekuensi pengumpulan data PBIS di Pesantren TUMBUH (2026).  
+[^4]: Protokol penanganan beban kerja ganda musyrif dan mode ringkas ujian santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan matriks jadwal dan frekuensi pengumpulan data PBIS di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

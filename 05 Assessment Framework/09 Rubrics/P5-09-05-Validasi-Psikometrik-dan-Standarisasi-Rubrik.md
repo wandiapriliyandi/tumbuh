@@ -1,5 +1,5 @@
 # P5-09-05: VALIDASI PSIKOMETRIK DAN STANDARISASI RUBRIK
-## *Monograf Riset Akademik: Protokol Validasi Psikometrik Konstruk dan Standarisasi Konten Rubrik Perilaku (Psychometric Construct & Content Validity of Behavioral Rubrics / Form VPR-Validasi), Integrasi Doktrin 'Tahqīqul Manāth wa Ta'dīlur Ruwāh' Turats Klasik dengan Aiken's V, Content Validity Index (CVI), Rasch Rating Scale Model (RSM), Serta Standar ISO 21001 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Validasi Psikometrik Konstruk dan Standarisasi Konten Rubrik Perilaku (Psychometric Construct & Content Validity of Behavioral Rubrics / Form VPR-Validasi), Integrasi Doktrin 'Tahqīqul Manāth wa Ta'dīlur Ruwāh' Turats Klasik dengan Aiken's V, Content Validity Index (CVI), Rasch Rating Scale Model (RSM), Serta Standar ISO 21001 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-09-05/MONOGRAF-RISET-VALIDASI-PSIKOMETRIK-RUBRIK/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 05: *Psychometric Validation & Rubric Standardization*)  
@@ -207,7 +207,7 @@ RERATA KESELURUHAN SKALA ($S\text{-}CVI/Ave$) : [ 0.98 ]  |  RELIABILITAS INTER-
 
 KEPUTUSAN SIDANG DEWAN PAKAR:
 "Instrumen Rubrik BARS 10 Kapasitas dinyatakan SAH, MEMENUHI STANDAR MUTU ISO 21001, dan DIBERLAKUKAN 
-SECARA NASIONAL di seluruh jejaring Pesantren TUMBUH."
+SECARA NASIONAL di seluruh jejaring Ekosistem Pesantren Berbasis TUMBUH."
 
 Ketua Dewan Pakar: ____________________    Direktur Penjamin Mutu Pesantren: ____________________
 ====================================================================================================
@@ -220,7 +220,7 @@ Ketua Dewan Pakar: ____________________    Direktur Penjamin Mutu Pesantren: ___
 Penerapan protokol validasi psikometrik Form VPR ini menghadirkan keunggulan peradaban:
 
 1. **Memberikan Jaminan Kepastian Hukum dan Keadilan Bagi Seluruh Santri (*Absolute Measurement Fairness*)**: Santri terlindungi dari kesalahan pengukuran dan vonis subjektif yang merugikan.
-2. **Memenuhi Standar Mutu Pendidikan Internasional ISO 21001 (Educational Organizations Management System)**: Menjadikan rapor dan portofolio santri TUMBUH diakui oleh universitas-universitas terkemuka di dunia.
+2. **Memenuhi Standar Mutu Pendidikan Internasional ISO 21001 (Educational Organizations Management System)**: Menjadikan rapor dan portofolio santri dalam sistem TUMBUH diakui oleh universitas-universitas terkemuka di dunia.
 3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tahqīqul Manāth dan Psikometri Modern**: Membuktikan bahwa tradisi verifikasi ilmiah Islam adalah pelopor standar mutu keilmuan tertinggi.[^5]
 
 ---
@@ -229,7 +229,7 @@ Penerapan protokol validasi psikometrik Form VPR ini menghadirkan keunggulan per
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-09-05: VALIDASI PSIKOMETRIK DAN STANDARISASI RUBRIK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-09-05: VALIDASI PSIKOMETRIK DAN STANDARISASI RUBRIK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -297,8 +297,8 @@ flowchart TD
 [^1]: Formulasi koefisien Aiken's V dalam menghitung validitas isi berbasis penilaian panel ahli, Aiken (1985, hlm. 134).  
 [^2]: Kerangka kerja Content Validity Index (CVI) Marion Lynn dan ambang batas kelulusan butir instrumen, Lynn (1986, hlm. 383).  
 [^3]: Al-Ghazali, *Al-Mustashfa min 'Ilmil Ushul* (1997, Jilid 2, hlm. 234), bab kewajiban tahqiqul manath dan larangan menilai berdasarkan alat ukur yang rusak.  
-[^4]: Berita acara sidang validasi psikometrik rubrik karakter pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan standarisasi psikometrik rubrik ISO 21001 di Pesantren TUMBUH (2026).  
+[^4]: Berita acara sidang validasi psikometrik rubrik karakter ekosistem pesantren berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan standarisasi psikometrik rubrik ISO 21001 di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

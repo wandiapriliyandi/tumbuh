@@ -1,5 +1,5 @@
 # P10-06-01: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN
-## *Monograf Riset Akademik: Standarisasi Metode Pengabdian Sosial Berbasis Pembelajaran Berpengalaman (Community Service-Learning & Khidmah Keumatan), Desain Empat Tahap Siklus Kolb Terintegrasi Nilai Ikhlas Lil-Ummah, Serta Eliminasi Total Feodalisme Pelayanan Senioritas (Community Service-Learning Architecture, Anti-Feudal Servant Leadership, & Kolb Experiential Cycle / Form MET-KhidmahSosial), Integrasi Doktrin 'Sayyidul Qawmi Khādimuhum' Turats Klasik dengan David Kolb Experiential Learning Theory, Andrew Furco Service-Learning Framework, Serta Pengabdian Masyarakat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Pengabdian Sosial Berbasis Pembelajaran Berpengalaman (Community Service-Learning & Khidmah Keumatan), Desain Empat Tahap Siklus Kolb Terintegrasi Nilai Ikhlas Lil-Ummah, Serta Eliminasi Total Feodalisme Pelayanan Senioritas (Community Service-Learning Architecture, Anti-Feudal Servant Leadership, & Kolb Experiential Cycle / Form MET-KhidmahSosial), Integrasi Doktrin 'Sayyidul Qawmi Khādimuhum' Turats Klasik dengan David Kolb Experiential Learning Theory, Andrew Furco Service-Learning Framework, Serta Pengabdian Masyarakat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-06-01/MONOGRAF-RISET-KHIDMAH-SOSIAL/2026`  
 **Domain**: `10 Methods` > `06 Experiential Learning` (Sub-Modul 01: *Community Service-Learning & Khidmah Keumatan*)  
@@ -109,7 +109,7 @@ Penerapan *Metode Khidmah Sosial Keumatan* membuktikan bahwa karakter kepemimpin
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-06-01: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-06-01: METODE KHIDMAH SOSIAL SUKARELA KEUMATAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,5 +162,5 @@ flowchart TD
 
 [^1]: Andrew Furco mengenai landasan pedagogis Service-Learning dan diferensiasinya dari kerja bakti konvensional, Furco (1996, hlm. 3).
 [^2]: David A. Kolb mengenai siklus empat tahap belajar eksperiensial dan integrasi pengalaman konkret dengan konseptualisasi abstrak, Kolb (1984, hlm. 41).
-[^3]: Studi kasus penerapan program Khidmah Sosial Keumatan menumbuhkan empati dan kerendahhatian santri di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan program Khidmah Sosial Keumatan menumbuhkan empati dan kerendahhatian santri di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integrasi pembelajaran berpengalaman dan nilai khidmah terhadap pembentukan karakter servant leadership santri (2026).

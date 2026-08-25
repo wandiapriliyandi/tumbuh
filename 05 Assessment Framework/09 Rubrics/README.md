@@ -1,6 +1,6 @@
 ﻿# Sub-Domain 09: Rubrics (Master Rubrik Perilaku 4-Level PBIS)
 
-Sub-domain ini memuat Master Rubrik Perilaku 4-Level PBIS (*Emerging, Developing, Proficient, Exemplary*) yang mengukur 10 Karakter Utama Santri TUMBUH (*Muwashafat*).
+Sub-domain ini memuat Master Rubrik Perilaku 4-Level PBIS (*Emerging, Developing, Proficient, Exemplary*) yang mengukur 10 Karakter Utama Santri dalam sistem TUMBUH (*Muwashafat*).
 
 ---
 

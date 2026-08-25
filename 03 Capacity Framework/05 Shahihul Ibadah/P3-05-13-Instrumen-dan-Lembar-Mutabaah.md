@@ -79,7 +79,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sarana teknis yang membantu seorang mukallaf menjalankan perintah muhasabah diri (*Murāqabatun Nafs wa Muhāsabatuhā*) dan mengawal pelaksanaan ibadah fardhu serta nawafil tanpa berniat pamer kepada manusia berstatus *Wasilah Masyru'ah* yang dianjurkan dalam syariat Islam.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kartu Kendali Mutaba'ah TUMBUH dirancang khusus sebagai instrumen hisab diri reflektif privat santri di hadapan Allah SWT.
-* **Konklusi (*an-Natijah*)**: Maka, penggunaan kartu mutaba'ah di pesantren TUMBUH adalah sarana tarbiyah ruhiyah yang terpuji dan bebas dari tuduhan riya'.[^2]
+* **Konklusi (*an-Natijah*)**: Maka, penggunaan kartu mutaba'ah dalam sistem TUMBUH di pesantren adalah sarana tarbiyah ruhiyah yang terpuji dan bebas dari tuduhan riya'.[^2]
 
 #### 📖 Teks Primer Turats: Metodologi Muhasabah Modal Pokok dan Keuntungan Amal
 Imam **Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Al-Muhasabah wal-Muraqabah*) menguraikan kaidah pencatatan hisab:
@@ -178,7 +178,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem penjaminan mutu pembinaan karakter pesantren yang melengkapi seluruh pemangku kepentingan (Santri, Musyrif, dan Penguji) dengan instrumen evaluasi yang spesifik, terstandarisasi, dan saling terkalibrasi niscaya mewujudkan akuntabilitas pendidikan yang transparan dan bebas dari celah kelalaian data.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH menetapkan Tiga Master Template Instrumen resmi yang mencakup instrumen santri, instrumen intervensi musyrif, dan instrumen ujian asatidz.
-* **Konklusi (*an-Natijah*)**: Maka, tata kelola evaluasi ibadah di pesantren TUMBUH memiliki kelengkapan manajerial yang profesional dan berstandar mutu tinggi.[^11]
+* **Konklusi (*an-Natijah*)**: Maka, tata kelola evaluasi ibadah dalam sistem TUMBUH di pesantren memiliki kelengkapan manajerial yang profesional dan berstandar mutu tinggi.[^11]
 
 #### 1. Diskursus Dialektika Kritis: Kartu Saku Mingguan Santri: Evaluasi Cepat Setiap Jumat Malam
 * **Pihak A (Sudut Pandang Kartu Mutaba'ah Tahunan Tebal)**:  
@@ -385,7 +385,7 @@ Catatan Penguji: ___________________________________________________________
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-13: INSTRUMEN DAN LEMBAR MUTABAAH SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-13: INSTRUMEN DAN LEMBAR MUTABAAH SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -453,12 +453,12 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Desain Instrumen Evaluasi Asrama Pesantren TUMBUH, *Kritik atas Format Buku Mutaba'ah Konvensional*, 2026.  
+[^1]: Riset Desain Instrumen Evaluasi Asrama Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Format Buku Mutaba'ah Konvensional*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *Al-Muhasabah wal Muraqabah*, hlm. 375–405.  
 [^3]: Matan *Ihya' 'Ulumiddin*, Jilid 4, hlm. 382.  
-[^4]: Panduan Niat & Tarbiyah Kejujuran Mutaba'ah Mandiri Santri TUMBUH, 2026.  
+[^4]: Panduan Niat & Tarbiyah Kejujuran Mutaba'ah Mandiri Santri dalam sistem TUMBUH, 2026.  
 [^5]: *Sunan at-Tirmidzi*, Kitab ash-Shalah, Hadits No. 413.  
-[^6]: Laporan Efektivitas Kartu Kendali Saku Fisik Anti-Air Santri TUMBUH, 2026.  
+[^6]: Laporan Efektivitas Kartu Kendali Saku Fisik Anti-Air Santri dalam sistem TUMBUH, 2026.  
 [^7]: Shiffman, S., et al. (2008), *Annual Review of Clinical Psychology*, hlm. 1–32; Norman, D. (2013), *The Design of Everyday Things*, hlm. 45–78.  
 [^8]: Petunjuk Teknis Pengisian Cepat Kartu Mutaba'ah Saku EMA TUMBUH, 2026.  
 [^9]: Spesifikasi Material Cetak Kertas Sintetis Tahan Air Pengasuhan TUMBUH, 2026.  

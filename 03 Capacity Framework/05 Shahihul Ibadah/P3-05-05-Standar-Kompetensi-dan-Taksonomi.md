@@ -181,7 +181,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap institusi pendidikan Islam yang menetapkan Standar Kompetensi Lulusan (SKL) berjenjang dengan indikator capaian yang jelas melintasi tahapan usia santri niscaya menjamin tercapainya profil lulusan yang mutqin dalam ilmu, khusyu' dalam ibadah, dan siap memimpin umat.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memetakan SKL Shahihul Ibadah secara komprehensif dari jenjang dasar J1 hingga kepemimpinan J4.
-* **Konklusi (*an-Natijah*)**: Maka, lulusan pesantren TUMBUH memiliki standar mutu keilmuan dan praktik ibadah yang teruji keunggulannya.[^11]
+* **Konklusi (*an-Natijah*)**: Maka, lulusan ekosistem pesantren berbasis TUMBUH memiliki standar mutu keilmuan dan praktik ibadah yang teruji keunggulannya.[^11]
 
 #### 1. Diskursus Dialektika Kritis: SKL Jenjang J1: Fondasi Zero-Defect Fiqh Thaharah
 * **Pihak A (Sudut Pandang Santri Baru Langsung Dibebani Target Tinggi)**:  
@@ -333,7 +333,7 @@ STASIUN 4: KELAYAKAN IMAMAH & ADAB MASJID (KHUSUS JENJANG J3–J4)
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-05: STANDAR KOMPETENSI DAN TAKSONOMI SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-05: STANDAR KOMPETENSI DAN TAKSONOMI SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -401,7 +401,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Standar Kompetensi Fiqh Ibadah Pesantren TUMBUH, *Kritik atas Cacat Ujian Kognitif Tertulis*, 2026.  
+[^1]: Riset Evaluasi Standar Kompetensi Fiqh Ibadah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Cacat Ujian Kognitif Tertulis*, 2026.  
 [^2]: Ba'alawi, Sayyid Abdullah, *Sullam at-Taufiq*, Bab *Bayan Fara'idh ash-Shalah wa Syuruthiha*, hlm. 18–35.  
 [^3]: *Shahih al-Bukhari*, Kitab al-Adzan, Hadits No. 757; *Shahih Muslim*, Kitab ash-Shalah, Hadits No. 397.  
 [^4]: Standar Operasional Prosedur Uji Praktik Fiqh 1-on-1 Musyrif Asrama TUMBUH, 2026.  

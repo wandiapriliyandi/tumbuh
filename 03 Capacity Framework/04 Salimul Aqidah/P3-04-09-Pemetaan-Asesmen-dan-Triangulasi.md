@@ -341,7 +341,7 @@ Nama Santri: [................................]  Kamar: [...........]  Pekan Ke:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-09: PEMETAAN ASESMEN DAN TRIANGULASI SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-09: PEMETAAN ASESMEN DAN TRIANGULASI SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -409,7 +409,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Validitas Asesmen Karakter Pesantren TUMBUH, *Evaluasi Keterbatasan Single-Source Bias*, 2026.  
+[^1]: Riset Validitas Asesmen Karakter Ekosistem Pesantren Berbasis TUMBUH, *Evaluasi Keterbatasan Single-Source Bias*, 2026.  
 [^2]: Asy-Syathibi, *Al-Muwafaqat*, Jilid 3, hlm. 180–205.  
 [^3]: QS. Yasin [36]: 65.  
 [^4]: QS. An-Nur [24]: 24.  
@@ -419,7 +419,7 @@ flowchart TD
 [^8]: Denzin, N. K. (1978), *The Research Act*, hlm. 291–310.  
 [^9]: Campbell, D. T., & Fiske, D. W. (1959), *Psychological Bulletin*, hlm. 81–105.  
 [^10]: Dokumentasi Algoritma Engine Analitik PBIS TUMBUH, *Discrepancy Threshold Rules*, 2026.  
-[^11]: Standar Etika & Kerahasiaan Bimbingan Konseling Pesantren TUMBUH, 2026.  
+[^11]: Standar Etika & Kerahasiaan Bimbingan Konseling Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^12]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 40–55.  
 [^13]: Petunjuk Teknis Pembobotan Portofolio Karakter 4 Sumber TUMBUH, 2026.  
 [^14]: Panduan Sampling Perilaku Ergonomis & Jadwal Asesmen PBIS TUMBUH, 2026.  

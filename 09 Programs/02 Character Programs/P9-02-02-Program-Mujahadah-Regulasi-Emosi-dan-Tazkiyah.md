@@ -1,5 +1,5 @@
 # P9-02-02: PROGRAM MUJAHADAH REGULASI EMOSI DAN TAZKIYAH
-## *Monograf Riset Akademik: Standarisasi Program Pembinaan Mujāhadatun Nafs, Protokol Tazkiyatun Nafs Harian Terpadu, dan Integrasi Latihan Somatosensorik De-eskalasi Amarah (Mujahadatun Nafs Program, Daily Tazkiyah Protocols, & Somatosensory Anger De-escalation / Form PRO-MujahadahTazkiyah), Integrasi Doktrin 'Riyādhatun Nafs wa Kashmi al-Ghaizh' Turats Klasik dengan Kabat-Zinn Mindfulness-Based Stress Reduction (MBSR), Somatosensory Regulation Perry, Serta Kebeningan Jiwa di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Pembinaan Mujāhadatun Nafs, Protokol Tazkiyatun Nafs Harian Terpadu, dan Integrasi Latihan Somatosensorik De-eskalasi Amarah (Mujahadatun Nafs Program, Daily Tazkiyah Protocols, & Somatosensory Anger De-escalation / Form PRO-MujahadahTazkiyah), Integrasi Doktrin 'Riyādhatun Nafs wa Kashmi al-Ghaizh' Turats Klasik dengan Kabat-Zinn Mindfulness-Based Stress Reduction (MBSR), Somatosensory Regulation Perry, Serta Kebeningan Jiwa di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-02-02/MONOGRAF-RISET-PROGRAM-MUJAHADAH-TAZKIYAH/2026`  
 **Domain**: `09 Programs` > `02 Character Programs` (Sub-Modul 02: *Mujahadatun Nafs & Daily Tazkiyah Program*)  
@@ -109,7 +109,7 @@ Penerapan program Mujahadah dan Tazkiyah terstruktur berbasis prinsip neurosekue
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-02-02: PROGRAM MUJAHADAH REGULASI EMOSI DAN TAZKIYAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-02-02: PROGRAM MUJAHADAH REGULASI EMOSI DAN TAZKIYAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,5 +162,5 @@ flowchart TD
 
 [^1]: Bruce Perry mengenai Neurosequential Model of Therapeutics dan urutan hierarki intervensi otak: Regulate, Relate, Reason, Perry (2006, hlm. 31).
 [^2]: Imam Al-Ghazali mengenai hakikat mujahadatun nafs dan penempaan hati melalui riyadhah terstruktur, Ihya' 'Ulumiddin (2018, Jilid 3, hlm. 55).
-[^3]: Studi kasus penerapan ritual muhasabah malam memadamkan perselisihan dan memulihkan ukhuwah santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan ritual muhasabah malam memadamkan perselisihan dan memulihkan ukhuwah santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak fisiologis zikir teratur dan pelepasan dendam sebelum tidur terhadap penurunan kortisol dan peningkatan HRV santri (2026).

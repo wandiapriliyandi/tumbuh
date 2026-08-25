@@ -221,7 +221,7 @@ Penerapan triangulasi kesehatan digital menjunjung tinggi etika kedokteran dan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-07-09: PEMETAAN ASESMEN DAN TRIANGULASI QAWIYYUL JISM** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-07-09: PEMETAAN ASESMEN DAN TRIANGULASI QAWIYYUL JISM** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -290,7 +290,7 @@ flowchart TD
 [^2]: Pembahasan kegagalan deteksi dini wabah penyakit menular di asrama padat hunian, CDC (2019, hlm. 34).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Zadul Ma'ad fi Hadyi Khairil 'Ibad* (1998, Jilid 4, hlm. 88).  
 [^4]: Protokol penanganan dan tracing klaster infeksi saluran pernapasan akut di lingkungan asrama, Kemenkes RI (2022, hlm. 15).  
-[^5]: Spesifikasi algoritma Early Warning System (EWS) kesehatan santri TUMBUH (2026).  
+[^5]: Spesifikasi algoritma Early Warning System (EWS) kesehatan santri dalam sistem TUMBUH (2026).  
 [^6]: Standar etika kerahasiaan data rekam medis elektronik pesantren, WHO (2020, hlm. 62).  
 
 ---

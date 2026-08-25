@@ -29,7 +29,7 @@
   - [5. Kasuistika Lapangan: Kasus Santri Mengalami Kelebihan Beban Belajar & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-santri-mengalami-kelebihan-beban-belajar--resolusi-restoratif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Eksplanasi Teoretis Prinsip Desain Kurikulum Holistik Ekosistem TUMBUH](#1-eksplanasi-teoretis-prinsip-desain-kurikulum-holistik-ekosistem-tumbuh)
-  - [2. Matriks Empat Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH](#2-matriks-empat-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
+  - [2. Matriks Empat Pilar Integrasi Kurikulum Holistik Ekosistem Pesantren Berbasis TUMBUH](#2-matriks-empat-pilar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [3. Matriks Capaian Belajar Lintas Disiplin Ilmu Berbasis Profil Insan Adabi](#3-matriks-capaian-belajar-lintas-disiplin-ilmu-berbasis-profil-insan-adabi)
   - [4. Protokol Penyelarasan Kurikulum Kelas-Asrama 24 Jam (Classroom-Dormitory Alignment Protocol)](#4-protokol-penyelarasan-kurikulum-kelas-asrama-24-jam-classroom-dormitory-alignment-protocol)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
@@ -134,7 +134,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Empat Pilar Integrasi Kurikulum Holistik Pesantren TUMBUH
+### 2. Matriks Empat Pilar Integrasi Kurikulum Holistik Ekosistem Pesantren Berbasis TUMBUH
 
 | Pilar Kurikulum | Mata Pelajaran Inti | Pendekatan Pembelajaran | Lokus Penerapan 24 Jam |
 | :--- | :--- | :--- | :--- |
@@ -190,7 +190,7 @@ Desain kurikulum holistik ini membawa implikasi revolusioner bagi peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-01: PRINSIP DESAIN KURIKULUM HOLISTIK PESANTREN (HOLISTIC CURRICULUM DESIGN)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-01: PRINSIP DESAIN KURIKULUM HOLISTIK PESANTREN (HOLISTIC CURRICULUM DESIGN)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -258,7 +258,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Desain Kurikulum Holistik Pesantren TUMBUH, *Kritik atas Kurikulum Dikotomis dan Hipertrofi Beban*, 2026.  
+[^1]: Riset Prinsip Desain Kurikulum Holistik Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Kurikulum Dikotomis dan Hipertrofi Beban*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 15–45; Az-Zarnuji, *Ta'lim al-Muta'allim*, hlm. 10–28.  
 [^3]: Wiggins, G., & McTighe, J. (2005), *Understanding by Design*, hlm. 13–34.  
 [^4]: Sweller, J. (2011), *Cognitive Load Theory*, hlm. 37–76; Roediger, H. L., & Butler, A. C. (2011), *Trends in Cognitive Sciences*, hlm. 20–27.  
@@ -266,7 +266,7 @@ flowchart TD
 [^6]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 25–55.  
 [^7]: Kaidah Tahfizh wa Tadabbur al-Qur'an Ekosistem TUMBUH, 2026.  
 [^8]: Master Framework Social-Emotional Learning (CASEL) Terintegrasi Adab TUMBUH, 2026.  
-[^9]: Blueprint Kurikulum Sains Tauhid dan Kecakapan Hidup Pesantren TUMBUH, 2026.  
+[^9]: Blueprint Kurikulum Sains Tauhid dan Kecakapan Hidup Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^10]: Standar Operasional Prosedur Penyelarasan Kurikulum Kelas-Asrama 24 Jam TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Kurikulum Holistik Peradaban Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

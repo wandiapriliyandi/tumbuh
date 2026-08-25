@@ -1,5 +1,5 @@
 # P6-04-03: PEMETAAN INTERVENSI KARAKTER WAKTU, KETERATURAN, KEMANDIRIAN, DAN KHIDMAH (K7, K8, K9, K10)
-## *Monograf Riset Akademik: Pemetaan Intervensi Berjenjang untuk Kapasitas Manajemen Waktu (K7), Keteraturan 5S Asrama (K8), Kemandirian Finansial-Karya (K9), dan Kepeloporan Khidmah Umat (K10) (Time, Order, Autonomy, & Service Capacity Intervention Mapping / Form PWK-Khidmah), Integrasi Doktrin 'Qīmatul Waqt, Husnut Tanzhīm, wa Nafi'un lin-Nās' Turats Klasik dengan Lean 5S Workplace Organization, Prosocial Engagement Theory, Serta Protokol Pengabdian di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Pemetaan Intervensi Berjenjang untuk Kapasitas Manajemen Waktu (K7), Keteraturan 5S Asrama (K8), Kemandirian Finansial-Karya (K9), dan Kepeloporan Khidmah Umat (K10) (Time, Order, Autonomy, & Service Capacity Intervention Mapping / Form PWK-Khidmah), Integrasi Doktrin 'Qīmatul Waqt, Husnut Tanzhīm, wa Nafi'un lin-Nās' Turats Klasik dengan Lean 5S Workplace Organization, Prosocial Engagement Theory, Serta Protokol Pengabdian di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-04-03/MONOGRAF-RISET-PEMETAAN-WAKTU-KETERATURAN-KHIDMAH/2026`  
 **Domain**: `06 Intervention Framework` > `04 Intervention Mapping` (Sub-Modul 03: *Time, Order, Autonomy, & Service Intervention Mapping: K7, K8, K9, K10*)  
@@ -215,7 +215,7 @@ Penerapan pemetaan intervensi Form PWK ini menghadirkan keunggulan peradaban:
 
 1. **Mencetak Kader Pemimpin yang Memiliki Integritas Keteraturan Tinggi (*Exemplary Order & Discipline*)**: Santri terlatih hidup rapi, bersih, dan menghargai waktu laksana para profesional kelas dunia.
 2. **Menanamkan DNA Servant Leadership Sejak Dini (*Grounded Humility & Service*)**: Santri bangga melayani orang lain dan memiliki kepedulian sosial yang mendalam.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Husnut Tanzhīm dan Lean 5S Workplace Systems**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam paling rapi, bersih, dan berjiwa sosial di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Husnut Tanzhīm dan Lean 5S Workplace Systems**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam paling rapi, bersih, dan berjiwa sosial di dunia.[^5]
 
 ---
 
@@ -223,7 +223,7 @@ Penerapan pemetaan intervensi Form PWK ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-04-03: PEMETAAN INTERVENSI KARAKTER WAKTU, KETERATURAN, KEMANDIRIAN, DAN KHIDMAH (K7, K8, K9, K10)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-04-03: PEMETAAN INTERVENSI KARAKTER WAKTU, KETERATURAN, KEMANDIRIAN, DAN KHIDMAH (K7, K8, K9, K10)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Prinsip metodologi Lean 5S Workplace Organization (Seiri, Seiton, Seiso, Seiketsu, Shitsuke) dalam penataan lingkungan, Ohno (1988, hlm. 28) & Imai (1997, hlm. 64).  
 [^2]: Teori Prosocial Development Nancy Eisenberg mengenai keterlibatan sosial dan penurunan perilaku narsistik pada remaja, Eisenberg, Fabes, & Spinrad (2006, hlm. 650).  
 [^3]: Ibnul Jauzi, *Shaidul Khathir* (2004, hlm. 118), bab mahalnya nilai waktu, keharusan menjaga kerapian lingkungan, dan kemuliaan mencari nafkah mandiri.  
-[^4]: Protokol standarisasi Lean 5S kamar asrama dan proyek khidmah santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan pemetaan intervensi karakter waktu, keteraturan, dan khidmah di Pesantren TUMBUH (2026).  
+[^4]: Protokol standarisasi Lean 5S kamar asrama dan proyek khidmah santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan pemetaan intervensi karakter waktu, keteraturan, dan khidmah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

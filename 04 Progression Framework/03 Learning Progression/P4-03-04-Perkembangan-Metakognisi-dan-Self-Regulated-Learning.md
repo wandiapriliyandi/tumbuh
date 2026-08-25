@@ -1,5 +1,5 @@
 # P4-03-04: PERKEMBANGAN METAKOGNISI DAN SELF-REGULATED LEARNING (SRL)
-## *Monograf Riset Akademik: Trajektori Regulasi Diri Belajar Santri (Self-Regulated Learning) Usia 12–18 Tahun, Integrasi Fiqh Muhasabatun Nafs & Muraqabatullah dengan Triadic Cyclical SRL Model (Zimmerman) & Metacognitive Monitoring (Flavell), Desain Jurnal Refleksi Harian Santri (Kasyf adz-Dzat), Serta Transformasi Pelajar Mandiri Menuju Pembelajar Sepanjang Hayat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Regulasi Diri Belajar Santri (Self-Regulated Learning) Usia 12–18 Tahun, Integrasi Fiqh Muhasabatun Nafs & Muraqabatullah dengan Triadic Cyclical SRL Model (Zimmerman) & Metacognitive Monitoring (Flavell), Desain Jurnal Refleksi Harian Santri (Kasyf adz-Dzat), Serta Transformasi Pelajar Mandiri Menuju Pembelajar Sepanjang Hayat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-03-04/MONOGRAF-RISET-METAKOGNISI-SELF-REGULATED-LEARNING/2026`  
 **Domain**: `04 Progression Framework` > `03 Learning Progression` (Sub-Modul 04: *Metacognition & Self-Regulated Learning*)  
@@ -294,7 +294,7 @@ flowchart TD
 [^1]: Kritik terhadap kegagalan pembentukan kemandirian belajar akibat orientasi ekstrinsik pada sekolah berasrama, Zimmerman (2002, hlm. 65).  
 [^2]: Pembahasan ilusi kompetensi dan dampak destruktif cramming terhadap memori jangka panjang, Flavell (1979, hlm. 908).  
 [^3]: Al-Harits Al-Muhasibi, *Risalah Al-Mustarsyidin* (1986, hlm. 48).  
-[^4]: Protokol remediasi metakognitif dan dekomposisi target belajar harian santri TUMBUH (2026).  
+[^4]: Protokol remediasi metakognitif dan dekomposisi target belajar harian santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan kurikulum metakognisi dan jurnal refleksi Kasyf adz-Dzat TUMBUH Pesantren (2026).  
 
 ---
@@ -310,4 +310,4 @@ flowchart TD
 7. **Musyārathah (مُشَارَطَةٌ)**: Etape awal muhasabah di mana santri menetapkan perjanjian dan komitmen dengan jiwanya mengenai target ibadah dan belajar yang wajib dipenuhi hari itu.
 8. **Think-Aloud Protocol**: Teknik latihan metakognitif di mana santri menyuarakan proses berpikirnya secara lisan saat menyelesaikan problem nahwu atau fiqh.
 9. **Volitional Control (Mujāhadah)**: Kemampuan menjaga daya fokus dan menolak distraksi godaan kantuk atau ajakan mengobrol saat jam belajar mandiri.
-10. **Lifelong Autonomous Learner**: Profil santri TUMBUH yang memiliki cinta sejati pada ilmu dan mampu belajar secara mandiri sepanjang hidupnya di mana pun berada.
+10. **Lifelong Autonomous Learner**: Profil santri dalam sistem TUMBUH yang memiliki cinta sejati pada ilmu dan mampu belajar secara mandiri sepanjang hidupnya di mana pun berada.

@@ -1,5 +1,5 @@
 # P6-05-05: MANAJEMEN IKLIM KAMAR ASRAMA DAN DYNAMIC ROOM ASSIGNMENT
-## *Monograf Riset Akademik: Rekayasa Iklim Mikro Kamar Tidur, Algoritma Penempatan Kamar Dinamis, dan Mitigasi Polarisasi Kelompok Sebaya (Dormitory Micro-Climate Management, Dynamic Room Assignment Algorithm, & Peer Cohort Engineering / Form MIK-Penempatan), Integrasi Doktrin 'Ta'līful Qulūb wa Husnul Mujāwarah' Turats Klasik dengan Moreno's Sociometric Network Analysis, Group Cohesion Dynamics, Serta Kerukunan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Iklim Mikro Kamar Tidur, Algoritma Penempatan Kamar Dinamis, dan Mitigasi Polarisasi Kelompok Sebaya (Dormitory Micro-Climate Management, Dynamic Room Assignment Algorithm, & Peer Cohort Engineering / Form MIK-Penempatan), Integrasi Doktrin 'Ta'līful Qulūb wa Husnul Mujāwarah' Turats Klasik dengan Moreno's Sociometric Network Analysis, Group Cohesion Dynamics, Serta Kerukunan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-05-05/MONOGRAF-RISET-MANAJEMEN-IKLIM-KAMAR-ASRAMA/2026`  
 **Domain**: `06 Intervention Framework` > `05 Preventive Strategies` (Sub-Modul 05: *Dormitory Micro-Climate Management & Dynamic Room Assignment*)  
@@ -220,7 +220,7 @@ Penerapan manajemen penempatan kamar Form MIK ini menghadirkan keunggulan perada
 
 1. **Membangun Jiwa Nasionalisme dan Ukhuwah Islamiyah Universal (*Broad Islamic Brotherhood*)**: Santri terlatih hidup berdampingan dengan sahabat dari berbagai suku dan budaya Nusantara.
 2. **Menghilangkan Pembentukan Geng Kenakalan Remaja di Asrama (*Zero Gang Formation*)**: Menghalangi terjadinya penularan perilaku menyimpang secara efektif.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ta'līful Qulūb dan Sociometric Network Analysis**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan iklim sosial asrama paling harmonis di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ta'līful Qulūb dan Sociometric Network Analysis**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan iklim sosial asrama paling harmonis di dunia.[^5]
 
 ---
 
@@ -228,7 +228,7 @@ Penerapan manajemen penempatan kamar Form MIK ini menghadirkan keunggulan perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-05-05: MANAJEMEN IKLIM KAMAR ASRAMA DAN DYNAMIC ROOM ASSIGNMENT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-05-05: MANAJEMEN IKLIM KAMAR ASRAMA DAN DYNAMIC ROOM ASSIGNMENT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Konsep Sociometric Network Analysis Jacob Moreno dalam pemetaan dinamika kelompok dan penempatan individu, Moreno (1953, hlm. 64).  
 [^2]: Fenomena Deviancy Training dan penularan perilaku masalah akibat pengelompokan remaja berisiko tinggi, Dishion, McCord, & Poulin (1999, hlm. 756) & Dishion & Dodge (2005, hlm. 396).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 162), bab etika persaudaraan asrama dan kewajiban membaurkan karakter yang berbeda demi saling melengkapi.  
-[^4]: Protokol penataan komposisi kamar berimbang dan pembubaran geng kedaerahan Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen iklim kamar asrama di Pesantren TUMBUH (2026).  
+[^4]: Protokol penataan komposisi kamar berimbang dan pembubaran geng kedaerahan Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen iklim kamar asrama di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

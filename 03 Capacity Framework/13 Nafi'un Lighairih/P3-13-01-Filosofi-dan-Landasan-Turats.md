@@ -1,5 +1,5 @@
 # P3-13-01: FILOSOFI DAN LANDASAN TURATS NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Ontologi Kemanfaatan Sosial dalam Worldview Islam, Doktrin Khairun Naas Anfa'uhum lin-Naas dalam Khazanah Turats, Epistemologi Adab ash-Shuhbah wal-Khidmah (Imam Al-Ghazali) & Hilyatul Auliya' (Abu Nu'aim), Konvergensi Teori Perilaku Prososial & Modal Sosial (Putnam), Serta Rekayasa Ekosistem Khidmah Peradaban 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Ontologi Kemanfaatan Sosial dalam Worldview Islam, Doktrin Khairun Naas Anfa'uhum lin-Naas dalam Khazanah Turats, Epistemologi Adab ash-Shuhbah wal-Khidmah (Imam Al-Ghazali) & Hilyatul Auliya' (Abu Nu'aim), Konvergensi Teori Perilaku Prososial & Modal Sosial (Putnam), Serta Rekayasa Ekosistem Khidmah Peradaban 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-01/MONOGRAF-RISET-FILOSOFI-TURATS-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 01: *Philosophy & Turats Foundation*)  
@@ -230,7 +230,7 @@ Penerapan kapasitas Nafi'un Lighairih mentransformasikan seluruh ekosistem pesan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-01: FILOSOFI DAN LANDASAN TURATS NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-01: FILOSOFI DAN LANDASAN TURATS NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -302,7 +302,7 @@ flowchart TD
 [^4]: QS. Al-Hasyr: 9, Al-Qur'anul Karim.  
 [^5]: Riwayat atsar Al-Hasan Al-Bashri dalam *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 174).  
 [^6]: Protokol transformasi kepekaan empati santri melalui penugasan khidmah langsung di Poskestren, TUMBUH (2026).  
-[^7]: Dampak kelembagaan penerapan kapasitas kemanfaatan sosial Nafi'un Lighairih terhadap peradaban pesantren TUMBUH (2026).  
+[^7]: Dampak kelembagaan penerapan kapasitas kemanfaatan sosial Nafi'un Lighairih terhadap peradaban ekosistem pesantren berbasis TUMBUH (2026).  
 
 ---
 

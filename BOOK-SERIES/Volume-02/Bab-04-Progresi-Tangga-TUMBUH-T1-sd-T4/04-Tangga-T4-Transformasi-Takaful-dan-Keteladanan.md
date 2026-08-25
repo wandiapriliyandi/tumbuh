@@ -65,7 +65,7 @@ graph LR
         JuniorT1 --> Generasi["Melahirkan Siklus Kebaikan Berkelanjutan Bebas Dendam"]
     end
 ```
-<div align="center"><sub><b>Gambar 4.4.2:</b> Siklus Keberkahan Takaful Antargenerasi Santri TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 4.4.2:</b> Siklus Keberkahan Takaful Antargenerasi Santri dalam sistem TUMBUH.</sub></div>
 
 **Syaikhul Islam Ibnu Taimiyyah** dalam *Al-Hisbah fil Islam*[^3] menegaskan bahwa amar ma'ruf nahi munkar harus ditegakkan di atas tiga landasan: ilmu (*al-'Ilm*), kelembutan (*ar-Rifq*), dan kesabaran (*as-Shabr*). 
 
@@ -75,7 +75,7 @@ graph LR
 
 ### Solusi Sistemik TUMBUH: Program Kakak Asuh & Inkubasi Kepemimpinan Khidmah
 
-Di lingkungan pesantren TUMBUH, santri Jenjang J4 menjalankan peran formal:
+Di lingkungan pesantren berbasis sistem TUMBUH, santri Jenjang J4 menjalankan peran formal:
 1. **Duta Pendamping Belajar (*Academic Peer Tutor*)**: Menjadi asisten ustadz dalam membimbing setoran hafalan Quran dan muthala'ah kitab santri T1 dan T2.
 2. **Kepanitiaan Khidmah Komunal**: Mengelola kepanitiaan hari besar Islam, bakti sosial lingkungan sekitar pesantren, dan perawatan kebersihan asrama.
 3. **Pemberian Lencana Teladan Qudwah**: Santri T4 yang menunjukkan integritas istimewa dilantik sebagai Duta Teladan TUMBUH dalam upacara resmi lembaga.

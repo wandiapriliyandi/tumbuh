@@ -1,5 +1,5 @@
 # P5-05-01: TEKNIK OBSERVASI NATURALISTIK DAN TIME SAMPLING ASRAMA
-## *Monograf Riset Akademik: Metodologi Pengamatan Perilaku Santri 24 Jam Tanpa Distorsi (Naturalistic Unobtrusive Observation), Integrasi Kaidah 'At-Tafaqqud bil Bashīrah' Turats Klasik dengan Momentary Time Sampling (MTS), Partial Interval Recording (PIR), & Behavioral Ecology, Serta Desain Jadwal Interval Observasi Musyrif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Pengamatan Perilaku Santri 24 Jam Tanpa Distorsi (Naturalistic Unobtrusive Observation), Integrasi Kaidah 'At-Tafaqqud bil Bashīrah' Turats Klasik dengan Momentary Time Sampling (MTS), Partial Interval Recording (PIR), & Behavioral Ecology, Serta Desain Jadwal Interval Observasi Musyrif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-05-01/MONOGRAF-RISET-OBSERVASI-NATURALISTIK-TIME-SAMPLING/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 01: *Naturalistic Observation & Time Sampling Technique*)  
@@ -221,7 +221,7 @@ Penerapan teknik observasi naturalistik dan time sampling ini menghadirkan keung
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-05-01: TEKNIK OBSERVASI NATURALISTIK DAN TIME SAMPLING ASRAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-05-01: TEKNIK OBSERVASI NATURALISTIK DAN TIME SAMPLING ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan metode pengamatan mencolok yang memicu Hawthorne Effect dan bias kepalsuan data, Cooper, Heron, & Heward (2020, hlm. 112).  
 [^2]: Kerangka kerja psikologi ekologi dan pengamatan perilaku dalam habitat alami, Barker (1968, hlm. 28).  
 [^3]: Al-Mawardi, *Adabud Dunya wad Din* (2000, hlm. 164), bab kewajiban pendidik memeriksa kondisi murid dengan mata batin yang penuh kasih sayang.  
-[^4]: Protokol observasi naturalistik time sampling dan penanganan pengucilan teman sebaya santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan teknik observasi naturalistik dan time sampling di Pesantren TUMBUH (2026).  
+[^4]: Protokol observasi naturalistik time sampling dan penanganan pengucilan teman sebaya santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan teknik observasi naturalistik dan time sampling di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

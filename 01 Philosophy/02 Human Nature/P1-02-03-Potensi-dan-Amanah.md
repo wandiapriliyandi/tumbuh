@@ -245,7 +245,7 @@ Penerapan doktrin potensi insan dan mandat khilafah ini membawa dampak peradaban
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Mandat Khilafah dan Diferensiasi Bakat Pesantren TUMBUH, *Kritik atas Penyeragaman Potensi Santri*, 2026.  
+[^1]: Riset Mandat Khilafah dan Diferensiasi Bakat Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Penyeragaman Potensi Santri*, 2026.  
 [^2]: QS. Al-Ahzab [33]: 72.  
 [^3]: Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an*, Jilid 14, hlm. 250–275.  
 [^4]: QS. Al-Isra' [17]: 84.  
@@ -256,7 +256,7 @@ Penerapan doktrin potensi insan dan mandat khilafah ini membawa dampak peradaban
 [^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 25–52.  
 [^10]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 95–130.  
 [^11]: Matriks Tingkatan Kesadaran Mandat Amanah (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^12]: Standar Operasional Prosedur Pembagian Divisi Amanah Asrama Santri TUMBUH, 2026.  
+[^12]: Standar Operasional Prosedur Pembagian Divisi Amanah Asrama Santri dalam sistem TUMBUH, 2026.  
 [^13]: Deklarasi Pemuliaan Potensi Khilafah Insan Dewan Riset Pendidikan TUMBUH, 2026.
 
 ---

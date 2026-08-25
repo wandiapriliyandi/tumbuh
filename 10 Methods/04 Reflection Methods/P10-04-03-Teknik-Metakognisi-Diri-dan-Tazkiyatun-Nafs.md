@@ -1,5 +1,5 @@
 # P10-04-03: TEKNIK METAKOGNISI DIRI DAN TAZKIYATUN NAFS
-## *Monograf Riset Akademik: Standarisasi Teknik Metakognisi Pemantauan Diri (Metacognitive Self-Regulation), Desain Filter Khawathir dan Penjernihan Niat Kalbu (Spiritual Thought-Filtering & Cognitive Reframing Architecture), Serta Integrasi Metakognisi Belajar Tahfizh dan Kitab Kuning (Metacognitive Self-Monitoring Technique, Spiritual Khawathir Filtering, & Tahfizh Cognitive Optimization / Form MET-TazkiyahMetakognisi), Integrasi Doktrin 'Murāqabatul Khawāthir wa Tazkiyatun Nufūs' Turats Klasik dengan Flavell Metacognition Theory, Zimmerman Self-Regulated Learning, Serta Kejernihan Berpikir di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Metakognisi Pemantauan Diri (Metacognitive Self-Regulation), Desain Filter Khawathir dan Penjernihan Niat Kalbu (Spiritual Thought-Filtering & Cognitive Reframing Architecture), Serta Integrasi Metakognisi Belajar Tahfizh dan Kitab Kuning (Metacognitive Self-Monitoring Technique, Spiritual Khawathir Filtering, & Tahfizh Cognitive Optimization / Form MET-TazkiyahMetakognisi), Integrasi Doktrin 'Murāqabatul Khawāthir wa Tazkiyatun Nufūs' Turats Klasik dengan Flavell Metacognition Theory, Zimmerman Self-Regulated Learning, Serta Kejernihan Berpikir di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-04-03/MONOGRAF-RISET-METAKOGNISI-TAZKIYATUN-NAFS/2026`  
 **Domain**: `10 Methods` > `04 Reflection Methods` (Sub-Modul 03: *Metacognitive Self-Regulation & Tazkiyatun Nafs*)  
@@ -109,7 +109,7 @@ Penerapan integrasi teknik *Metakognisi Diri* dan *Tazkiyatun Nafs* membuktikan 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-04-03: TEKNIK METAKOGNISI DIRI DAN TAZKIYATUN NAFS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-04-03: TEKNIK METAKOGNISI DIRI DAN TAZKIYATUN NAFS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,5 +162,5 @@ flowchart TD
 
 [^1]: John H. Flavell mengenai metakognisi dan pemantauan proses berpikir dalam psikologi kognitif perkembangan, Flavell (1979, hlm. 907).
 [^2]: Ibnul Qayyim Al-Jauziyyah mengenai tahapan perkembangan khathir (lintasan pikiran) menjadi iradah dan perbuatan, Al-Fawa'id (2008, hlm. 112).
-[^3]: Studi kasus penerapan instrumen Metakognisi Tazkiyah mengentaskan kebuntuan hafalan Alfiyyah Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen Metakognisi Tazkiyah mengentaskan kebuntuan hafalan Alfiyyah Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengajaran strategi metakognitif dan filter khawathir terhadap peningkatan efikasi diri akademik dan adab santri (2026).

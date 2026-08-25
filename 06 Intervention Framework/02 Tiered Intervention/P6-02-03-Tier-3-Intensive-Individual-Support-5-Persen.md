@@ -1,5 +1,5 @@
 # P6-02-03: TIER 3 INTENSIVE INDIVIDUAL SUPPORT (1-5% POPULASI SANTRI)
-## *Monograf Riset Akademik: Arsitektur Intervensi Tersier Individual, Asesmen Perilaku Fungsional Komprehensif, dan Rencana Intervensi Perilaku Khusus (Tier 3 Intensive Individualized Support, Functional Behavior Assessment FBA, & Behavior Intervention Plan BIP / Form T3I-Intensive), Integrasi Doktrin 'Thibbūl Qulūb wa 'Ilājul 'Illah' Turats Klasik dengan O'Neill's Functional Assessment Model, Cognitive Behavioral Therapy (CBT), Serta Manajemen Krisis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Tersier Individual, Asesmen Perilaku Fungsional Komprehensif, dan Rencana Intervensi Perilaku Khusus (Tier 3 Intensive Individualized Support, Functional Behavior Assessment FBA, & Behavior Intervention Plan BIP / Form T3I-Intensive), Integrasi Doktrin 'Thibbūl Qulūb wa 'Ilājul 'Illah' Turats Klasik dengan O'Neill's Functional Assessment Model, Cognitive Behavioral Therapy (CBT), Serta Manajemen Krisis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-02-03/MONOGRAF-RISET-TIER-3-INTENSIVE-SUPPORT/2026`  
 **Domain**: `06 Intervention Framework` > `02 Tiered Intervention` (Sub-Modul 03: *Tier 3 Intensive Individualized Support: 1-5% Population*)  
@@ -226,7 +226,7 @@ Penerapan intervensi tersier Tier 3 Form T3I ini menghadirkan keunggulan peradab
 
 1. **Menghapus Tradisi Pengusiran Santri yang Cacat Moral dan Pedagogis (*Zero Drop-Out Policy*)**: Pesantren membuktikan diri sebagai benteng penyelamat anak yang bertanggung jawab hingga tuntas.
 2. **Menyediakan Intervensi Klinis Berbasis Bukti Ilmiah (*Evidence-Based Clinical Tarbiyah*)**: Setiap rencana pembinaan dirancang secara presisi berdasarkan fungsi perilaku nyata.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Thibbūl Qulūb dan Functional Behavior Assessment**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem manajemen kasus tersulit yang paling berhasil di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Thibbūl Qulūb dan Functional Behavior Assessment**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem manajemen kasus tersulit yang paling berhasil di dunia.[^5]
 
 ---
 
@@ -234,7 +234,7 @@ Penerapan intervensi tersier Tier 3 Form T3I ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-02-03: TIER 3 INTENSIVE INDIVIDUAL SUPPORT (1-5% POPULASI SANTRI)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-02-03: TIER 3 INTENSIVE INDIVIDUAL SUPPORT (1-5% POPULASI SANTRI)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -302,8 +302,8 @@ flowchart TD
 [^1]: Metodologi Functional Behavior Assessment (FBA) Robert O'Neill dalam menganalisis fungsi perilaku bermasalah, O'Neill et al. (2015, hlm. 22).  
 [^2]: Kerangka kerja Behavior Intervention Plan (BIP) berbasis bukti dalam PBIS Tier 3, Horner, Sugai, & Anderson (2020, hlm. 8).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Ad-Da' wad Dawa'* (2014, hlm. 38), bab keharusan mengobati akar penyakit akhlak dan larangan berputus asa dari kesembuhan murid.  
-[^4]: Protokol asesmen FBA dan implementasi BIP 12 pekan santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan Tier 3 intensive individual support di Pesantren TUMBUH (2026).  
+[^4]: Protokol asesmen FBA dan implementasi BIP 12 pekan santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan Tier 3 intensive individual support di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

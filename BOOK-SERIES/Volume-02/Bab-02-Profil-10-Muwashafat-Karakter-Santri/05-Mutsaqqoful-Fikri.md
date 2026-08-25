@@ -16,7 +16,7 @@ Di ruang kelas madrasah, santri diajarkan untuk menghafal definisi tanpa diajak 
 * Sangat mudah termakan hoaks, fitnah, dan teori konspirasi di media digital karena ketiadaan nalar verifikasi (*tabayyun*);
 * Gagap dan minder saat harus berdialog dengan perkembangan sains dan tantangan peradaban modern.
 
-Dalam Ekosistem TUMBUH, **Mutsaqqoful Fikri** (Berwawasan Luas, Cerdas, dan Berpikir Kritis) ditegakkan sebagai manifestasi dari perintah agung *Tafakkur* dan *Tadabbur*. Santri TUMBUH dididik untuk memiliki kedalaman ilmu syariat yang kokoh (*Tafaqquh Fiddin*), sekaligus memiliki keterbukaan nalar intelektual untuk menyerap ilmu pengetahuan modern, menganalisis fenomena secara logis, dan memfilter informasi dengan filter *Tabayyun* nabawi.
+Dalam Ekosistem TUMBUH, **Mutsaqqoful Fikri** (Berwawasan Luas, Cerdas, dan Berpikir Kritis) ditegakkan sebagai manifestasi dari perintah agung *Tafakkur* dan *Tadabbur*. Santri dalam sistem TUMBUH dididik untuk memiliki kedalaman ilmu syariat yang kokoh (*Tafaqquh Fiddin*), sekaligus memiliki keterbukaan nalar intelektual untuk menyerap ilmu pengetahuan modern, menganalisis fenomena secara logis, dan memfilter informasi dengan filter *Tabayyun* nabawi.
 
 ```mermaid
 graph TD

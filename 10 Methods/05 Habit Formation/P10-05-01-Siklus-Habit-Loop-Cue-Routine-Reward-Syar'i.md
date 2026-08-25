@@ -1,5 +1,5 @@
 # P10-05-01: SIKLUS HABIT LOOP CUE-ROUTINE-REWARD SYAR'I
-## *Monograf Riset Akademik: Standarisasi Rekayasa Siklus Pembiasaan Adab Syar'i (Syar'i Habit Loop: Isyārah, 'Amal, wa Jazā'), Desain Penguatan Otomatisasi Perilaku Berbasis Neurobiologi Sirkuit Striatum, dan Transformasi Pembiasaan Kebaikan Menjadi Kenikmatan Iman (Syar'i Habit Loop Architecture, Striatal Neurobiological Conditioning, & Halāwatul Īmān Reinforcement / Form MET-HabitLoop), Integrasi Doktrin 'Al-Khairu 'Ādah wal Istiqāmah' Turats Klasik dengan Duhigg & Clear Habit Loop Model, Wendy Wood Habit Neuroscience, Serta Pembentukan Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rekayasa Siklus Pembiasaan Adab Syar'i (Syar'i Habit Loop: Isyārah, 'Amal, wa Jazā'), Desain Penguatan Otomatisasi Perilaku Berbasis Neurobiologi Sirkuit Striatum, dan Transformasi Pembiasaan Kebaikan Menjadi Kenikmatan Iman (Syar'i Habit Loop Architecture, Striatal Neurobiological Conditioning, & Halāwatul Īmān Reinforcement / Form MET-HabitLoop), Integrasi Doktrin 'Al-Khairu 'Ādah wal Istiqāmah' Turats Klasik dengan Duhigg & Clear Habit Loop Model, Wendy Wood Habit Neuroscience, Serta Pembentukan Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-05-01/MONOGRAF-RISET-HABIT-LOOP-SYARI/2026`  
 **Domain**: `10 Methods` > `05 Habit Formation` (Sub-Modul 01: *Syar'i Habit Loop Architecture*)  
@@ -107,7 +107,7 @@ Penerapan *Syar'i Habit Loop* membuktikan bahwa pembiasaan adab yang berkelanjut
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-05-01: SIKLUS HABIT LOOP CUE-ROUTINE-REWARD SYAR'I** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-05-01: SIKLUS HABIT LOOP CUE-ROUTINE-REWARD SYAR'I** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Charles Duhigg mengenai struktur tiga komponen habit loop dan pentingnya reward dalam penguatan kebiasaan, Duhigg (2012, hlm. 19).
 [^2]: James Clear mengenai empat kaidah pembentukan kebiasaan atomik dan eliminasi friksi tindakan, Clear (2018, hlm. 54).
-[^3]: Studi kasus penerapan siklus Habit Loop Syar'i menata sandal santri di Masjid Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan siklus Habit Loop Syar'i menata sandal santri di Masjid Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak otomatisasi basal ganglia dan penguatan halawatul iman terhadap pencegahan relaps perilaku santri saat liburan (2026).

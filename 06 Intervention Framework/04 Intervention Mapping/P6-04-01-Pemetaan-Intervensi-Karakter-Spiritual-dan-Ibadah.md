@@ -1,5 +1,5 @@
 # P6-04-01: PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)
-## *Monograf Riset Akademik: Pemetaan Intervensi Berjenjang untuk Kapasitas Aqidah Salimah (K1), Ibadah Shahihah (K2), dan Akhlaq Karimah (K3) (Spiritual & Moral Capacity Intervention Mapping / Form PIK-Spiritual), Integrasi Doktrin 'Ar-Ribāth fīl Masājid wa Tazkiyatul Khuluq' Turats Klasik dengan CASEL Social-Emotional Learning, Habit Formation Theory, Serta Protokol Pemulihan Spiritual di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Pemetaan Intervensi Berjenjang untuk Kapasitas Aqidah Salimah (K1), Ibadah Shahihah (K2), dan Akhlaq Karimah (K3) (Spiritual & Moral Capacity Intervention Mapping / Form PIK-Spiritual), Integrasi Doktrin 'Ar-Ribāth fīl Masājid wa Tazkiyatul Khuluq' Turats Klasik dengan CASEL Social-Emotional Learning, Habit Formation Theory, Serta Protokol Pemulihan Spiritual di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-04-01/MONOGRAF-RISET-PEMETAAN-SPIRITUAL-IBADAH/2026`  
 **Domain**: `06 Intervention Framework` > `04 Intervention Mapping` (Sub-Modul 01: *Spiritual & Moral Capacity Intervention Mapping: K1, K2, K3*)  
@@ -210,7 +210,7 @@ Penerapan pemetaan intervensi spiritual Form PIK ini menghadirkan keunggulan per
 
 1. **Melahirkan Generasi yang Mencintai Ibadah Sepanjang Hayat (*Lifelong Worship Lovers*)**: Shalat dan dzikir tertanam di hati sanubari santri sebagai kebutuhan hidup yang menenteramkan.
 2. **Menghilangkan Perilaku Kemunafikan Santri (*Eradication of Moral Hypocrisy*)**: Santri menjadi pribadi yang jujur, beradab, dan lurus baik saat diawasi manusia maupun saat sendirian.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Hubbus Shalāh dan Habit Formation Science**: Mengukuhkan pesantren TUMBUH sebagai pusat pembinaan spiritualitas Islam paling unggul di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Hubbus Shalāh dan Habit Formation Science**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pusat pembinaan spiritualitas Islam paling unggul di dunia.[^5]
 
 ---
 
@@ -218,7 +218,7 @@ Penerapan pemetaan intervensi spiritual Form PIK ini menghadirkan keunggulan per
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-04-01: PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-04-01: PEMETAAN INTERVENSI KARAKTER SPIRITUAL DAN IBADAH (K1, K2, K3)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Teori pembentukan kebiasaan otomatis dan lingkaran Cue-Routine-Reward, Duhigg (2012, hlm. 19) & Wood (2019, hlm. 54).  
 [^2]: Kerangka kompetensi Social-Emotional Learning CASEL dalam penanaman kesadaran diri moral, CASEL (2020, hlm. 4).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 214), bab rahasia-rahasia shalat dan larangan memaksa anak dengan kekerasan yang memicu kebencian pada ibadah.  
-[^4]: Protokol pendampingan Klinik Fursanul Fajr dan penataan sleep hygiene santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan pemetaan intervensi karakter spiritual dan ibadah di Pesantren TUMBUH (2026).  
+[^4]: Protokol pendampingan Klinik Fursanul Fajr dan penataan sleep hygiene santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan pemetaan intervensi karakter spiritual dan ibadah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

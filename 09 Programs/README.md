@@ -1,4 +1,4 @@
-# Domain 09: Programs (Kerangka Kerja Program Pembinaan Pesantren TUMBUH)
+# Domain 09: Programs (Kerangka Kerja Program Pembinaan Ekosistem Pesantren Berbasis TUMBUH)
 
 Domain ini memuat operasionalisasi program-program pembinaan 24-jam di ekosistem **TUMBUH** yang terbagi dalam **5 Sub-Domain Utama**: Program Utama (Core), Program Karakter (SEL & PBIS), Program Kepemimpinan (Leadership Qudwah T4), Program Lembaga (Institutional), dan Program Khusus (Special & Intervensi Tier 2/3).
 

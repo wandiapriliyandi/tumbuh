@@ -1,5 +1,5 @@
 # P5-01-01: PRINSIP PENILAIAN NON-STIGMATISASI DAN RESTORATIF
-## *Monograf Riset Akademik: Epistemologi Asesmen Format-Restoratif Berbasis Martabat Insan, Eliminasi Mutlak Labeling Teori & Stigmatisasi Pelanggaran di Pesantren, Integrasi Doktrin Sitrul 'Urub wa Da'watut Taubah Turats dengan Restorative Justice Assessment & Labeling Theory (Becker), Serta Desain Protokol Evaluasi Berorientasi Pemulihan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Epistemologi Asesmen Format-Restoratif Berbasis Martabat Insan, Eliminasi Mutlak Labeling Teori & Stigmatisasi Pelanggaran di Pesantren, Integrasi Doktrin Sitrul 'Urub wa Da'watut Taubah Turats dengan Restorative Justice Assessment & Labeling Theory (Becker), Serta Desain Protokol Evaluasi Berorientasi Pemulihan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-01-01/MONOGRAF-RISET-PRINSIP-PENILAIAN-NON-STIGMATISASI/2026`  
 **Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Sub-Modul 01: *Non-Stigmatizing & Restorative Assessment Principles*)  
@@ -214,7 +214,7 @@ Penerapan prinsip penilaian non-stigmatisasi dan restoratif menghadirkan keunggu
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-01-01: PRINSIP PENILAIAN NON-STIGMATISASI DAN RESTORATIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-01-01: PRINSIP PENILAIAN NON-STIGMATISASI DAN RESTORATIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

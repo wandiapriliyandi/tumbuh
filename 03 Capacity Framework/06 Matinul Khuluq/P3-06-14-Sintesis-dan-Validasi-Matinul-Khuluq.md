@@ -206,7 +206,7 @@ Hasil sintesis dan validasi ini membuktikan bahwa:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-06-14: SINTESIS DAN VALIDASI MATINUL KHULUQ** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-06-14: SINTESIS DAN VALIDASI MATINUL KHULUQ** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -277,7 +277,7 @@ flowchart TD
 [^3]: HR. Al-Baihaqi dalam *Syu'abul Iman* (No. 4931); dinilai hasan oleh Syaikh Al-Albani dalam *Silsilah Al-Ahadits Ash-Shahihah* (No. 1113).  
 [^4]: Protokol pengujian ketahanan sistem (*System Resilience Stress-Testing*), Byrne (2016, hlm. 182).  
 [^5]: Hasil uji psikometri CFA, Cronbach's Alpha, dan Aiken's V kurikulum TUMBUH (2026).  
-[^6]: Pernyataan pertanggungjawaban ilmiah Dewan Riset Pesantren TUMBUH (2026).  
+[^6]: Pernyataan pertanggungjawaban ilmiah Dewan Riset Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

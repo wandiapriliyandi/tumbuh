@@ -226,7 +226,7 @@ Sistem triangulasi Haritsun 'Ala Waqtih menjamin keadilan evaluasi dan efisiensi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-09: PEMETAAN ASESMEN DAN TRIANGULASI HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-09: PEMETAAN ASESMEN DAN TRIANGULASI HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -295,7 +295,7 @@ flowchart TD
 [^2]: Pembahasan kegagalan deteksi prokrastinasi tugas terselubung pada sistem asrama terpisah, Steel (2007, hlm. 92).  
 [^3]: Al-Khatib Al-Baghdadi, *Al-Kifayah fi 'Ilmir Riwayah* (1996, hlm. 78).  
 [^4]: Protokol intervensi pendampingan tugas menumpuk santri melalui sistem terpadu CICO, Sugai & Horner (2020, hlm. 210).  
-[^5]: Spesifikasi algoritma Early Warning System (EWS) temporal santri TUMBUH (2026).  
+[^5]: Spesifikasi algoritma Early Warning System (EWS) temporal santri dalam sistem TUMBUH (2026).  
 [^6]: Penjaminan mutu manajemen waktu dan efisiensi pembelajaran TUMBUH Pesantren (2026).  
 
 ---

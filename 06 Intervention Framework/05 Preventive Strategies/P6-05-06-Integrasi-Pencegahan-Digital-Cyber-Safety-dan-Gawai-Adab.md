@@ -1,5 +1,5 @@
 # P6-05-06: INTEGRASI PENCEGAHAN DIGITAL, CYBER SAFETY, DAN ADAB GAWAI
-## *Monograf Riset Akademik: Standarisasi Tata Kelola Perangkat Digital Pesantren, Perlindungan Keamanan Siber Santri, dan Literasi Etika Media (Digital Prevention Integration, Cyber Safety Protocols, & Screen Habituation / Form IPD-Digital), Integrasi Doktrin 'Hifzhul Bashar wal Farj min Fitnatil Marāyā' Turats Klasik dengan Livingstone's Digital Literacy & Safety Framework, Screen-Time Neurosains, Serta Bi'ah Shalihah Digital di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Tata Kelola Perangkat Digital Pesantren, Perlindungan Keamanan Siber Santri, dan Literasi Etika Media (Digital Prevention Integration, Cyber Safety Protocols, & Screen Habituation / Form IPD-Digital), Integrasi Doktrin 'Hifzhul Bashar wal Farj min Fitnatil Marāyā' Turats Klasik dengan Livingstone's Digital Literacy & Safety Framework, Screen-Time Neurosains, Serta Bi'ah Shalihah Digital di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-05-06/MONOGRAF-RISET-INTEGRASI-PENCEGAHAN-DIGITAL/2026`  
 **Domain**: `06 Intervention Framework` > `05 Preventive Strategies` (Sub-Modul 06: *Digital Prevention Integration, Cyber Safety, & Screen Habituation*)  
@@ -208,7 +208,7 @@ Penerapan pencegahan digital Form IPD ini menghadirkan keunggulan peradaban:
 
 1. **Mencetak Generasi Ulama dan Profesional yang Melek Teknologi Canggih (*Tech-Savvy Islamic Scholars*)**: Santri menguasai coding, riset digital, dan multimedia dakwah tanpa kehilangan kesucian akhlaq.
 2. **Mencegah Kerusakan Moral Bawah Selimut (*Zero Dark Web Exposure*)**: Menutup pasar gelap penyelundupan gawai secara persuasif dan sistemik.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ghadhdhul Bashar dan Cyber Safety Standards**: Mengukuhkan pesantren TUMBUH sebagai pionir pendidikan Islam dengan ekosistem digital paling aman di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ghadhdhul Bashar dan Cyber Safety Standards**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pionir pendidikan Islam dengan ekosistem digital paling aman di dunia.[^5]
 
 ---
 
@@ -216,7 +216,7 @@ Penerapan pencegahan digital Form IPD ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-05-06: INTEGRASI PENCEGAHAN DIGITAL, CYBER SAFETY, DAN ADAB GAWAI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-05-06: INTEGRASI PENCEGAHAN DIGITAL, CYBER SAFETY, DAN ADAB GAWAI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -284,8 +284,8 @@ flowchart TD
 [^1]: Kerangka kerja hak anak, literasi, dan keamanan siber di era digital, Livingstone & Third (2017, hlm. 660) & Stoilova, Livingstone, & Nandagiri (2020, hlm. 14).  
 [^2]: Neurosains kecanduan layar digital dan regulasi sirkuit dopamin, Lembke (2021, hlm. 42).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Al-Jawab Al-Kafi* (2014, hlm. 128), bab bahaya mengumbar pandangan mata dan pengaruhnya terhadap kerusakan hati di saat kesendirian.  
-[^4]: Protokol pemulihan adiksi digital berbasis detox dopamin dan lab coding Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan integrasi pencegahan digital dan cyber safety di Pesantren TUMBUH (2026).  
+[^4]: Protokol pemulihan adiksi digital berbasis detox dopamin dan lab coding Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan integrasi pencegahan digital dan cyber safety di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

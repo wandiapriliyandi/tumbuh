@@ -1,5 +1,5 @@
 # P4-06-05: PROTOKOL MUNAQASYAH CAPSTONE CIVILIZATIONAL PROJECT
-## *Monograf Riset Akademik: Metodologi Evaluasi Sidang Munaqasyah Terbuka Karya Pengabdian Peradaban (Capstone Civilizational Project), Integrasi Doktrin 'Amal Shalih & Nafi'un lin-Naas Turats dengan Problem-Based Learning (PBL) & Design Thinking, Desain Rubrik Penilaian Empat Dimensi Kinerja (Form RPC-NL), Serta Protokol Pengabdian Masyarakat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Evaluasi Sidang Munaqasyah Terbuka Karya Pengabdian Peradaban (Capstone Civilizational Project), Integrasi Doktrin 'Amal Shalih & Nafi'un lin-Naas Turats dengan Problem-Based Learning (PBL) & Design Thinking, Desain Rubrik Penilaian Empat Dimensi Kinerja (Form RPC-NL), Serta Protokol Pengabdian Masyarakat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-06-05/MONOGRAF-RISET-MUNAQASYAH-CAPSTONE-PROJECT/2026`  
 **Domain**: `04 Progression Framework` > `06 Graduation Standards` (Sub-Modul 05: *Capstone Civilizational Project Defense Protocol*)  
@@ -233,7 +233,7 @@ Proyek wajib memenuhi 3 kriteria utama: berakar pada dalil syariat (*Ashalah Sya
 Santri mempresentasikan karya tulis dan prototipe di hadapan dewan penguji yang terdiri dari asatidz senior, dosen universitas mitra, dan tokoh masyarakat.
 
 #### C. Pilar 3: Publikasi Ilmiah & Replikasi Proyek
-Karya-karya terbaik dibukukan dalam *Jurnal Inovasi Santri TUMBUH* dan prototipe terapan diserahterimakan kepada desa binaan untuk dikelola secara berkelanjutan.
+Karya-karya terbaik dibukukan dalam *Jurnal Inovasi Santri dalam sistem TUMBUH* dan prototipe terapan diserahterimakan kepada desa binaan untuk dikelola secara berkelanjutan.
 
 ---
 
@@ -289,8 +289,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan karya tulis sekolah yang terisolasi dari masalah riil masyarakat, Bringle & Hatcher (2002, hlm. 506).  
 [^2]: Kerangka kerja metodologi Design Thinking dalam inovasi pemecahan masalah sosial, Brown (2008, hlm. 86).  
 [^3]: Al-'Izz bin Abdis Salam, *Qawa'idul Ahkam fi Mashalihil Anam* (1999, Jilid 1, hlm. 64), bab keutamaan amal shalih muta'addi.  
-[^4]: Protokol penyelenggaraan sidang munaqasyah terbuka Capstone Project santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan Capstone Civilizational Project di Pesantren TUMBUH (2026).  
+[^4]: Protokol penyelenggaraan sidang munaqasyah terbuka Capstone Project santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan Capstone Civilizational Project di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 
@@ -304,5 +304,5 @@ flowchart TD
 6. **Mumtāz Syaraf (With Distinction)**: Predikat kelulusan karya Capstone tertinggi yang diberikan kepada tim santri yang meraih nilai munaqasyah $\ge 95.0$.
 7. **Service-Learning**: Pendekatan pedagogis yang menggabungkan pengabdian masyarakat nyata dengan pembelajaran kurikulum akademik dan refleksi kritis.
 8. **Prototyping & Field Testing**: Proses pembuatan model awal alat atau sistem dan pengujian langsung di lingkungan desa binaan.
-9. **Desa Binaan Santri**: Kawasan pedesaan di sekitar pesantren yang menjadi laboratorium sosial dan medan khidmah pengabdian santri TUMBUH.
+9. **Desa Binaan Santri**: Kawasan pedesaan di sekitar pesantren yang menjadi laboratorium sosial dan medan khidmah pengabdian santri dalam sistem TUMBUH.
 10. **Aset Wakaf Produktif**: Karya atau instalasi teknologi yang dibangun santri dan dihibahkan menjadi fasilitas wakaf yang dikelola masyarakat desa.

@@ -1,5 +1,5 @@
 # P9-03-02: PROGRAM MENTORING SEBAYA PEER BUDDY SYSTEM
-## *Monograf Riset Akademik: Standarisasi Desain Operasional Program Sahabat Sebaya (Peer Buddy System) Antar-Jenjang Santri, Metodologi Pelatihan Tutor Sebaya (Peer Tutoring Pedagogy), dan Rekayasa Ikatan Kohesi Ukhuwah Asrama (Cross-Age Peer Buddy Operational Design, Structured Peer Tutoring Pedagogy, & Dormitory Ukhuwah Cohesion Engineering / Form PRO-PeerBuddy), Integrasi Doktrin 'Al-Mu'āwanah 'alal Birri wat Taqwā wal Mu'ākhāh' Turats Klasik dengan Topping Peer Learning Framework, Vygotskian Peer Scaffolding, Serta Kohesi Sosial di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Desain Operasional Program Sahabat Sebaya (Peer Buddy System) Antar-Jenjang Santri, Metodologi Pelatihan Tutor Sebaya (Peer Tutoring Pedagogy), dan Rekayasa Ikatan Kohesi Ukhuwah Asrama (Cross-Age Peer Buddy Operational Design, Structured Peer Tutoring Pedagogy, & Dormitory Ukhuwah Cohesion Engineering / Form PRO-PeerBuddy), Integrasi Doktrin 'Al-Mu'āwanah 'alal Birri wat Taqwā wal Mu'ākhāh' Turats Klasik dengan Topping Peer Learning Framework, Vygotskian Peer Scaffolding, Serta Kohesi Sosial di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-03-02/MONOGRAF-RISET-PROGRAM-PEER-BUDDY-SYSTEM/2026`  
 **Domain**: `09 Programs` > `03 Leadership Programs` (Sub-Modul 02: *Cross-Age Peer Buddy & Peer Tutoring Program*)  
@@ -104,7 +104,7 @@ Program *Cross-Age Peer Buddy* menghasilkan apa yang disebut Vygotsky sebagai *B
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-03-02: PROGRAM MENTORING SEBAYA PEER BUDDY SYSTEM** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-03-02: PROGRAM MENTORING SEBAYA PEER BUDDY SYSTEM** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -157,5 +157,5 @@ flowchart TD
 
 [^1]: Ginsburg-Block et al. mengenai meta-analisis dampak positif peer-assisted learning terhadap luaran sosial, konsep diri, dan perilaku siswa, Ginsburg-Block et al. (2006, hlm. 734).
 [^2]: Keith Topping mengenai efektivitas dan tipologi cross-age peer tutoring dalam meningkatkan performa akademik dan sosial, Topping (1996, hlm. 325).
-[^3]: Studi kasus penerapan Peer Buddy J4 mengatasi hambatan adaptasi bahasa Arab santri baru Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Peer Buddy J4 mengatasi hambatan adaptasi bahasa Arab santri baru Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak institusionalisasi persaudaraan Mu'akhah terhadap peningkatan kohesi sosial dan eliminasi dropout santri baru (2026).

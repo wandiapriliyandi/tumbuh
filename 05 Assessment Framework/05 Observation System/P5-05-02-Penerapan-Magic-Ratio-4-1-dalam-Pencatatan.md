@@ -1,5 +1,5 @@
 # P5-05-02: PENERAPAN MAGIC RATIO 4:1 DALAM PENCATATAN ASRAMA
-## *Monograf Riset Akademik: Standarisasi Protokol Rasio Penguatan Positif Empat Berbanding Satu (4:1 Positive Reinforcement Magic Ratio), Integrasi Doktrin 'Al-Bisyru wat Taisir Qablal Indzar' Turats Klasik dengan Gottman-Fredrickson Positivity Ratio & PBIS Positive Behavioral Interactions, Serta Desain Counter Apresiasi Digital di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Rasio Penguatan Positif Empat Berbanding Satu (4:1 Positive Reinforcement Magic Ratio), Integrasi Doktrin 'Al-Bisyru wat Taisir Qablal Indzar' Turats Klasik dengan Gottman-Fredrickson Positivity Ratio & PBIS Positive Behavioral Interactions, Serta Desain Counter Apresiasi Digital di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-05-02/MONOGRAF-RISET-MAGIC-RATIO-EMPAT-BANDING-SATU/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 02: *4:1 Magic Ratio Application in Behavioral Logging*)  
@@ -223,7 +223,7 @@ Penerapan protokol Magic Ratio 4:1 ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-05-02: PENERAPAN MAGIC RATIO 4:1 DALAM PENCATATAN ASRAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-05-02: PENERAPAN MAGIC RATIO 4:1 DALAM PENCATATAN ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Kritik terhadap dampak destruktif rasio interaksi negatif yang memicu keputusasaan dan permusuhan di sekolah, Simonsen et al. (2008, hlm. 356).  
 [^2]: Kerangka kerja Positivity Ratio dan dampak emosi positif terhadap ketangguhan psikologis, Fredrickson (2009, hlm. 48).  
 [^3]: An-Nawawi, *Syarah Shahih Muslim* (2001, Jilid 12, hlm. 42), syarah hadits Yassiru wala Tu'assiru dan larangan membuat orang lari menjauh.  
-[^4]: Protokol transformasi iklim asrama melalui terapi Magic Ratio 4:1 santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol Magic Ratio 4:1 di Pesantren TUMBUH (2026).  
+[^4]: Protokol transformasi iklim asrama melalui terapi Magic Ratio 4:1 santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol Magic Ratio 4:1 di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

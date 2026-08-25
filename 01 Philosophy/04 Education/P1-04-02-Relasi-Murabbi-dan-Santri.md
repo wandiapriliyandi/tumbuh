@@ -247,7 +247,7 @@ Rekonstruksi relasi edukatif ini membawa angin segar bagi kebangkitan pesantren 
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Relasi Edukatif Murabbi-Santri Pesantren TUMBUH, *Kritik atas Feodalisme dan Relasi Kuasa Asimetris*, 2026.  
+[^1]: Riset Relasi Edukatif Murabbi-Santri Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Feodalisme dan Relasi Kuasa Asimetris*, 2026.  
 [^2]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, Bab *Adab al-Mu'allim fi Nafsihi wa ma'a Thalabatihi*, hlm. 24–38.  
 [^3]: Ibid., hlm. 39–52.  
 [^4]: Bowlby, J. (1982), *Attachment and Loss*, hlm. 120–155; Sapolsky, R. M. (2017), *Behave*, hlm. 190–225.  

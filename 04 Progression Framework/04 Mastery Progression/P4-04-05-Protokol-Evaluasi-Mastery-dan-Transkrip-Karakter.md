@@ -218,7 +218,7 @@ TOTAL AKUMULASI JAM KHIDMAH SOSIAL : [ 245 JAM ] (Standar Minimal: 210 Jam)
 CAPSTONE CIVILIZATIONAL PROJECT    : "Rancang Bangun Filter Air Mandiri Desa Sukamaju" (Nilai: 95.0)
 INDEKS KOMPOSIT KARAKTER (IKK)     : [ 3.87 / 4.00 ] (PREDIKAT: KHADIMUL UMMAH PARIPURNA)
 
-Ditetapkan di: Pesantren TUMBUH Pusat, Pada Tanggal: ______________________________________________
+Ditetapkan di: Ekosistem Pesantren Berbasis TUMBUH Pusat, Pada Tanggal: ______________________________________________
 Pimpinan Pesantren:                                  Kepala Pengasuhan & Karakter:
 
 ______________________________________               ______________________________________

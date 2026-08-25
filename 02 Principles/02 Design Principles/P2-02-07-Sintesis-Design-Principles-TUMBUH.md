@@ -28,7 +28,7 @@
   - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Rekayasa Arsitektur Sistem](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-rekayasa-arsitektur-sistem)
   - [5. Kasuistika Lapangan: Evaluasi Transformasi Desain Sistem Terpadu di Pesantren Percontohan](#5-kasuistika-lapangan-evaluasi-transformasi-desain-sistem-terpadu-di-pesantren-percontohan)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Arsitektur & Desain Sistem Holistik Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-arsitektur--desain-sistem-holistik-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Arsitektur & Desain Sistem Holistik Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-arsitektur--desain-sistem-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional Enam Pilar Desain ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-enam-pilar-desain-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Audit Kepatuhan Desain Sistem (System Design Compliance Audit)](#3-protokol-penjaminan-mutu--audit-kepatuhan-desain-sistem-system-design-compliance-audit)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 03 Learning Principles](#4-jembatan-epistemologis-menuju-sub-domain-03-learning-principles)
@@ -115,7 +115,7 @@ Desain sistem ini membuktikan transformasi Triad Pertumbuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Arsitektur & Desain Sistem Holistik Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Arsitektur & Desain Sistem Holistik Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Desain Sistem Pesantren (*Bayan Tashmim an-Nizham al-Islami*)**:
 
@@ -198,7 +198,7 @@ Sintesis Desain Sistem ini menegaskan arah kebangkitan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-07: SINTESIS PRINSIP DESAIN SISTEM DAN GRAND MANIFESTO ARSITEKTUR PESANTREN (SYNTHESIS OF DESIGN PRINCIPLES)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-07: SINTESIS PRINSIP DESAIN SISTEM DAN GRAND MANIFESTO ARSITEKTUR PESANTREN (SYNTHESIS OF DESIGN PRINCIPLES)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -266,7 +266,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Sintesis Prinsip Desain Sistem dan Grand Manifesto Arsitektur Pesantren TUMBUH, *Kritik atas Fragmentasi Desain*, 2026.  
+[^1]: Riset Sintesis Prinsip Desain Sistem dan Grand Manifesto Arsitektur Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fragmentasi Desain*, 2026.  
 [^2]: Master Konsolidasi Enam Pilar Desain Sistem Ekosistem TUMBUH, 2026.  
 [^3]: Laporan Uji Kelayakan Lapangan (Field Usability) dan Triad Pertumbuhan TUMBUH, 2026.  
 [^4]: Dokumentasi Studi Kasus Transformasi Sistemik Pesantren Percontohan PBIS TUMBUH, 2026.  

@@ -38,7 +38,7 @@
   - [4. Progresi Jenjang Kemandirian TUMBUH (J1–J4) J1–J4: Gradualisme Syar'i Menuju Tahap 7 Penggerak](#4progresi-jenjang-kemandirian-tumbuh-j1j4-j1j4-gradualisme-syari-menuju-tahap-7-penggerak)
   - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-standar-kompetensi-10-karakter-santri-pesantren-tumbuh)
   - [2. Matriks Taksonomi Terpadu: 10 Muwashafat, 5 CASEL SEL, & Deskriptor Jenjang J1–J4](#2-matriks-taksonomi-terpadu-10-muwashafat-5-casel-sel--deskriptor-tangga-t1t4)
   - [3. Protokol Asesmen Pertumbuhan Karakter Ipsatif Non-Ranking (BARS Protocol)](#3-protokol-asesmen-pertumbuhan-karakter-ipsatif-non-ranking-bars-protocol)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -140,7 +140,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Ketakutan Riya')**:  
   *"Kalau dinilai rubrik, santri akan pura-pura shalih di depan musyrif demi dapat nilai A!"*
 * **Tinjauan Asesmen Triangulasi 360 Derajat & Asesmen Ipsatif**:  
-  Pesantren TUMBUH menerapkan **Asesmen Triangulasi 360 Derajat**: penilaian tidak hanya dari musyrif, melainkan laporan sosiometrik teman sebaya sekamar (*Peer Review*), evaluasi diri rahasia (*Self-Reflection*), dan catatan portofolio adab harian. Pencitraan sesaat akan langsung terdeteksi oleh dinamika asrama 24 jam. Asesmen ipsatif memotivasi perbaikan diri personal, bukan persaingan nilai.[^5]
+  Ekosistem Pesantren Berbasis TUMBUH menerapkan **Asesmen Triangulasi 360 Derajat**: penilaian tidak hanya dari musyrif, melainkan laporan sosiometrik teman sebaya sekamar (*Peer Review*), evaluasi diri rahasia (*Self-Reflection*), dan catatan portofolio adab harian. Pencitraan sesaat akan langsung terdeteksi oleh dinamika asrama 24 jam. Asesmen ipsatif memotivasi perbaikan diri personal, bukan persaingan nilai.[^5]
 
 #### 3. Diskursus Dialektika Kritis: Sanggahan Pamungkas Mengapa Karakter 'Qadirun 'alal Kasb' (Kemandirian Vokasi) Wajib Masuk Profil Santri?
 * **Pihak A (Sudut Pandang Dikotomi Akhirat vs Dunia)**:  
@@ -158,7 +158,7 @@ flowchart TD
 
 ---
 
-### 1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Kompetensi 10 Karakter Santri Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
@@ -217,7 +217,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-02: KOMPETENSI INTI 10 KARAKTER SANTRI DAN INTEGRASI CASEL SEL** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-02: KOMPETENSI INTI 10 KARAKTER SANTRI DAN INTEGRASI CASEL SEL** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -289,7 +289,7 @@ flowchart TD
 [^5]: Hughes, G. (2014), *Ipsative Assessment*, Palgrave Macmillan, hlm. 35–55.  
 [^6]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Adab al-Kasb wal Ma'asy*, Jilid II, hlm. 60–85.  
 [^7]: Laporan Kasuistika Bimbingan Karakter Terpadu Asrama Wustha, Biro Pengasuhan TUMBUH, 2026.  
-[^8]: Matriks Taksonomi 10 Karakter Muwashafat Santri TUMBUH, Komite Kurikulum TUMBUH, 2026.  
+[^8]: Matriks Taksonomi 10 Karakter Muwashafat Santri dalam sistem TUMBUH, Komite Kurikulum TUMBUH, 2026.  
 [^9]: Manual Rubrik Perilaku Teramati (BARS) Logbook Musyrif Digital, Divisi Psikometri TUMBUH, 2026.
 
 ---

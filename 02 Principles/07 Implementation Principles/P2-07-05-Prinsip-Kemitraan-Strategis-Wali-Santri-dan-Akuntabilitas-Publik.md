@@ -28,7 +28,7 @@
   - [4. Rekayasa Transformasi Menjadi Bi'ah Nafi'ah: Program Khidmah Sosial & Transparansi Informasi Terbuka](#4-rekayasa-transformasi-menjadi-biah-nafiah-program-khidmah-sosial--transparansi-informasi-terbuka)
   - [5. Kasuistika Lapangan: Penyelesaian Gesekan Pesantren-Warga Melalui Penyediaan Akses Air Bersih Komunal](#5-kasuistika-lapangan-penyelesaian-gesekan-pesantren-warga-melalui-penyediaan-akses-air-bersih-komunal)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-kemitraan-tripartit--akuntabilitas-publik-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Kemitraan Tripartit & Akuntabilitas Publik Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-kemitraan-tripartit--akuntabilitas-publik-pesantren-tumbuh)
   - [2. Matriks Enam Tipe Kemitraan Keluarga & Komunitas Epstein dalam Ekosistem Pesantren](#2-matriks-enam-tipe-kemitraan-keluarga--komunitas-epstein-dalam-ekosistem-pesantren)
   - [3. Standar Prosedur Operasional (SOP) Transparansi Informasi Wali Santri & Khidmah Sosial Warga](#3-standar-prosedur-operasional-sop-transparansi-informasi-wali-santri--khidmah-sosial-warga)
   - [4. Protokol Mitigasi & Resolusi Konflik Lembaga-Masyarakat (Community Conflict Resolution Protocol)](#4-protokol-mitigasi--resolusi-konflik-lembaga-masyarakat-community-conflict-resolution-protocol)
@@ -110,7 +110,7 @@ TUMBUH merealisasikan pengabdian lingkungan:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Kemitraan Tripartit & Akuntabilitas Publik Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Kemitraan Tripartit & Akuntabilitas Publik Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan akuntabilitas ke dalam **Arsitektur Tiga Sayap Kemitraan dan Khidmah (*Arkan al-Khidmah al-Ijtima'iyyah*)**:
 
@@ -137,7 +137,7 @@ flowchart TD
 
 ### 2. Matriks Enam Tipe Kemitraan Keluarga & Komunitas Epstein dalam Ekosistem Pesantren
 
-| Dimensi Kemitraan | Fokus Aksi Kemitraan di Pesantren TUMBUH | Sasaran Mitra |
+| Dimensi Kemitraan | Fokus Aksi Kemitraan di Ekosistem Pesantren Berbasis TUMBUH | Sasaran Mitra |
 | :--- | :--- | :--- |
 | **1. Parenting Adab** | Seminar parenting syar'i & mitigasi kecanduan gawai anak.| Wali Santri Baru & Lama.|
 | **2. Transparansi Info** | Dashboard PBIS digital, laporan keuangan tahunan wakaf.| Wali Santri & Donatur.|
@@ -188,7 +188,7 @@ Prinsip kemitraan strategis dan akuntabilitas publik ini membawa implikasi agung
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07-05: PRINSIP KEMITRAAN STRATEGIS, AKUNTABILITAS PUBLIK, DAN KHIDMAH MASYARAKAT (STRATEGIC PARTNERSHIP, PUBLIC ACCOUNTABILITY, & COMMUNITY ENGAGEMENT)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07-05: PRINSIP KEMITRAAN STRATEGIS, AKUNTABILITAS PUBLIK, DAN KHIDMAH MASYARAKAT (STRATEGIC PARTNERSHIP, PUBLIC ACCOUNTABILITY, & COMMUNITY ENGAGEMENT)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

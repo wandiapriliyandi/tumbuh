@@ -1,5 +1,5 @@
 # P5-04-02: INSTRUMEN CHECK-IN CHECK-OUT (CICO) TIER 2
-## *Monograf Riset Akademik: Standardisasi Instrumen Bimbingan Terarah Check-In Check-Out (Form DPR-CICO) untuk Santri Membutuhkan Dukungan Perilaku Tier 2 PBIS, Integrasi Doktrin At-Ta'ahud wal Mushafahah Turats Klasik dengan Daily Progress Report (DPR) & Self-Regulation Feedback Loops, Serta Algoritma Transisi Wisuda Mandiri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Instrumen Bimbingan Terarah Check-In Check-Out (Form DPR-CICO) untuk Santri Membutuhkan Dukungan Perilaku Tier 2 PBIS, Integrasi Doktrin At-Ta'ahud wal Mushafahah Turats Klasik dengan Daily Progress Report (DPR) & Self-Regulation Feedback Loops, Serta Algoritma Transisi Wisuda Mandiri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-04-02/MONOGRAF-RISET-INSTRUMEN-CICO-TIER2/2026`  
 **Domain**: `05 Assessment Framework` > `04 Assessment Instruments` (Sub-Modul 02: *Check-In Check-Out Tier 2 Instrument*)  
@@ -226,7 +226,7 @@ Penerapan instrumen CICO Tier 2 ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-04-02: INSTRUMEN CHECK-IN CHECK-OUT (CICO) TIER 2** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-04-02: INSTRUMEN CHECK-IN CHECK-OUT (CICO) TIER 2** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,8 +294,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan penanganan santri kelompok kuning tanpa intervensi sekunder terstruktur, Crone, Hawken, & Horner (2015, hlm. 24).  
 [^2]: Kerangka kerja Check-In Check-Out (CICO) dan pemantauan Daily Progress Report (DPR), Hawken et al. (2009, hlm. 398).  
 [^3]: Ibnu Hajar Al-Asqalani, *Fathul Bari* (2000, Jilid 9, hlm. 78), syarah hadits perintah At-Ta'ahud terhadap Al-Qur'an dan pengasuhan adab.  
-[^4]: Protokol pendampingan CICO 6 pekan dan wisuda kemandirian santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan instrumen CICO Tier 2 di Pesantren TUMBUH (2026).  
+[^4]: Protokol pendampingan CICO 6 pekan dan wisuda kemandirian santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan instrumen CICO Tier 2 di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

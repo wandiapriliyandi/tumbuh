@@ -1,5 +1,5 @@
 # DOMAIN 04: PROGRESSION FRAMEWORK (TRAJEKTORI 4 JENJANG & 10 TAHAPAN PERKEMBANGAN)
-## *Sitemap Induk Kerangka Progresi Kemandirian (Jenjang J1–J4) dan 10 Tahapan Metamorfosis Karakter Santri Pesantren TUMBUH*
+## *Sitemap Induk Kerangka Progresi Kemandirian (Jenjang J1–J4) dan 10 Tahapan Metamorfosis Karakter Santri Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4/INDEX-MASTER/2026`  
 **Domain**: `04 Progression Framework`  

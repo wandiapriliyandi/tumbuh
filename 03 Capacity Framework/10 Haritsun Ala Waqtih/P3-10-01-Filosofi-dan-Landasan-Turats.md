@@ -1,5 +1,5 @@
 # P3-10-01: FILOSOFI DAN LANDASAN TURATS HARITSUN ALA WAQTIH
-## *Monograf Riset Akademik: Ontologi Waktu dalam Worldview Islam, Qimatuz Zaman dalam Khazanah Ulama Salaf, Epistemologi 'Al-Waqtu Huwal Hayat' Karya Syaikh Abdul Fattah Abu Ghuddah, Konvergensi Kronobiologi Ritme Sirkadian & Teori Eksekutif Perencanaan Waktu, Serta Rekayasa Tata Kelola Waktu Asrama 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Ontologi Waktu dalam Worldview Islam, Qimatuz Zaman dalam Khazanah Ulama Salaf, Epistemologi 'Al-Waqtu Huwal Hayat' Karya Syaikh Abdul Fattah Abu Ghuddah, Konvergensi Kronobiologi Ritme Sirkadian & Teori Eksekutif Perencanaan Waktu, Serta Rekayasa Tata Kelola Waktu Asrama 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-10-01/MONOGRAF-RISET-FILOSOFI-TURATS-HARITSUN-ALA-WAQTIH/2026`  
 **Domain**: `03 Capacity Framework` > `10 Haritsun Ala Waqtih` (Sub-Modul 01: *Philosophy & Turats Foundation*)  
@@ -226,7 +226,7 @@ Penerapan kapasitas Haritsun 'Ala Waqtih mentransformasikan seluruh ekosistem pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-01: FILOSOFI DAN LANDASAN TURATS HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-01: FILOSOFI DAN LANDASAN TURATS HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

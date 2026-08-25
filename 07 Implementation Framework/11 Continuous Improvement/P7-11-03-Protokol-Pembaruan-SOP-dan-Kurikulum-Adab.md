@@ -1,5 +1,5 @@
 # P7-11-03: PROTOKOL PEMBARUAN SOP DAN KURIKULUM ADAB
-## *Monograf Riset Akademik: Standarisasi Protokol Pembaruan Prosedur Operasional Baku (SOP) dan Kurikulum Adab Berbasis Bukti, Mekanisme Pengujian Percontohan (Pilot Testing), dan Tata Kelola Pengesahan Kebijakan Dinamis (Evidence-Based SOP & Adab Curriculum Revision Protocol, Controlled Pilot Testing, & Dynamic Policy Governance / Form PKA-Protokol), Integrasi Doktrin 'Tajdīd al-Wasā'il ma'a Tsabāt al-Ghāyāt' Turats Klasik dengan Policy Formulation Science, Implementation Science Fixsen, Serta Tata Kelola Adaptif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Pembaruan Prosedur Operasional Baku (SOP) dan Kurikulum Adab Berbasis Bukti, Mekanisme Pengujian Percontohan (Pilot Testing), dan Tata Kelola Pengesahan Kebijakan Dinamis (Evidence-Based SOP & Adab Curriculum Revision Protocol, Controlled Pilot Testing, & Dynamic Policy Governance / Form PKA-Protokol), Integrasi Doktrin 'Tajdīd al-Wasā'il ma'a Tsabāt al-Ghāyāt' Turats Klasik dengan Policy Formulation Science, Implementation Science Fixsen, Serta Tata Kelola Adaptif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-11-03/MONOGRAF-RISET-PEMBARUAN-SOP-KURIKULUM/2026`  
 **Domain**: `07 Implementation Framework` > `11 Continuous Improvement` (Sub-Modul 03: *SOP & Adab Curriculum Revision Protocol*)  
@@ -108,7 +108,7 @@ Penerapan protokol pembaruan kebijakan berbasis *Implementation Science* Fixsen 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-11-03: PROTOKOL PEMBARUAN SOP DAN KURIKULUM ADAB** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-11-03: PROTOKOL PEMBARUAN SOP DAN KURIKULUM ADAB** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -161,5 +161,5 @@ flowchart TD
 
 [^1]: Fixsen et al. mengenai tahapan implementasi inovasi dan faktor pendorong keberhasilan sistemik, Fixsen et al. (2005, hlm. 24).
 [^2]: Kaidah fikih perubahan instrumen terapan (tajdid al-wasa'il) dalam menjaga maqashid syariah abadi, Ibnul Qayyim (2008, Jilid 3, hlm. 11).
-[^3]: Studi kasus proses pilot testing menyempurnakan naskah regulasi teknologi pesantren TUMBUH (2026).
+[^3]: Studi kasus proses pilot testing menyempurnakan naskah regulasi teknologi ekosistem pesantren berbasis TUMBUH (2026).
 [^4]: Dampak pengujian terkendali terhadap minimalisasi disrupsi operasional dan peningkatan kepatuhan staf (2026).

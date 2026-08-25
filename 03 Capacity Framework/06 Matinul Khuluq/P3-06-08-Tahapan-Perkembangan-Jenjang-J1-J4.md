@@ -94,7 +94,7 @@ $$\text{الرُّشْدُ هُوَ الصَّلَاحُ فِي الدِّينِ
 
 *"Ar-Rusyd adalah keshalihan dalam beragama, kepandaian memelihara harta, dan kesempurnaan akal yang melaluinya seseorang mampu membedakan secara mandiri antara kebaikan dan keburukan dalam seluruh muamalah."*[^4]
 
-Pendidikan di Pesantren TUMBUH dirancang untuk mengantarkan santri dari fase Tamyiz-Bulugh (Jenjang J1–J2) menuju fase *Ar-Rusyd* Paripurna (Jenjang J3–J4).
+Pendidikan di Ekosistem Pesantren Berbasis TUMBUH dirancang untuk mengantarkan santri dari fase Tamyiz-Bulugh (Jenjang J1–J2) menuju fase *Ar-Rusyd* Paripurna (Jenjang J3–J4).
 
 ---
 
@@ -237,7 +237,7 @@ Penerapan trajektori jenjang J1–J4 Matinul Khuluq menghasilkan lompatan mutu t
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-06-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 MATINUL KHULUQ** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-06-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 MATINUL KHULUQ** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -1,5 +1,5 @@
 # P5-12-01: SPESIFIKASI DASHBOARD ANALITIK PBIS
-## *Monograf Riset Akademik: Standarisasi Arsitektur Visual dan Metrik Real-Time Dashboard Analitik Pembinaan Pesantren (School-Wide PBIS Real-Time Analytics Dashboard / Form DAB-Master), Integrasi Doktrin 'Al-Misykātul Mudhī'ah wa Ru'yatut Tadzakkur' Turats Klasik dengan Shneiderman's Visual Information Seeking Mantra, SWIS PBIS Metrics, Serta Desain Ruang Kendali Pimpinan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Arsitektur Visual dan Metrik Real-Time Dashboard Analitik Pembinaan Pesantren (School-Wide PBIS Real-Time Analytics Dashboard / Form DAB-Master), Integrasi Doktrin 'Al-Misykātul Mudhī'ah wa Ru'yatut Tadzakkur' Turats Klasik dengan Shneiderman's Visual Information Seeking Mantra, SWIS PBIS Metrics, Serta Desain Ruang Kendali Pimpinan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-12-01/MONOGRAF-RISET-DASHBOARD-ANALITIK-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 01: *School-Wide PBIS Real-Time Analytics Dashboard*)  
@@ -218,7 +218,7 @@ Penerapan dashboard analitik PBIS Form DAB ini menghadirkan keunggulan peradaban
 
 1. **Mengubah Manajemen Pesantren dari Reaktif-Pemadam Kebakaran Menjadi Proaktif-Preventif**: Masalah terdeteksi dan terselesaikan sebelum sempat membesar menjadi krisis.
 2. **Menjamin Keadilan Alokasi Sumber Daya Pembinaan (*Optimized Resource Allocation*)**: Pembina dan konselor dikerahkan tepat ke titik lokasi dan santri yang paling membutuhkan bantuan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Nūrul Bashīrah dan SWIS PBIS Data-Driven Analytics**: Menjadikan pesantren TUMBUH sebagai institusi pendidikan Islam dengan tata kelola manajemen tercanggih di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Nūrul Bashīrah dan SWIS PBIS Data-Driven Analytics**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan tata kelola manajemen tercanggih di dunia.[^5]
 
 ---
 
@@ -226,7 +226,7 @@ Penerapan dashboard analitik PBIS Form DAB ini menghadirkan keunggulan peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-12-01: SPESIFIKASI DASHBOARD ANALITIK PBIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-12-01: SPESIFIKASI DASHBOARD ANALITIK PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,8 +294,8 @@ flowchart TD
 [^1]: Prinsip visual information seeking mantra Ben Shneiderman dalam perancangan antarmuka visual data kompleks, Shneiderman (1996, hlm. 338).  
 [^2]: Model SWIS Big 5 PBIS Metrics dalam pengambilan keputusan perilaku sekolah berbasis data faktual, May et al. (2006, hlm. 12) & Horner et al. (2020, hlm. 6).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 28), bab kewajiban pemimpin memiliki instrumen informasi real-time demi menegakkan keadilan pengasuhan.  
-[^4]: Protokol rekayasa tata ruang preventif berbasis heatmap insiden Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan dashboard analitik PBIS di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekayasa tata ruang preventif berbasis heatmap insiden Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan dashboard analitik PBIS di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P7-03-02: DESKRIPSI PERAN MUSYRIF ASRAMA DAN RASIO 1:15–20
-## *Monograf Riset Akademik: Standarisasi Deskripsi Peran Musyrif Kamar sebagai Ayah Asuh Ruhani, Protokol Kehadiran Warm Presence 24 Jam, dan Standar Rasio Musyrif-Santri Berbasis Neurosains (Musyrif Role Specification, Residential Care Staff Ratio, & Warm Presence Protocol / Form DPM-Musyrif), Integrasi Doktrin 'Ar-Rāfi'ul Amānah wal Riāyatun Kāmilah' Turats Klasik dengan Bowlby's Attachment Theory, Residential Care Best Practices, Serta Kesejahteraan Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Deskripsi Peran Musyrif Kamar sebagai Ayah Asuh Ruhani, Protokol Kehadiran Warm Presence 24 Jam, dan Standar Rasio Musyrif-Santri Berbasis Neurosains (Musyrif Role Specification, Residential Care Staff Ratio, & Warm Presence Protocol / Form DPM-Musyrif), Integrasi Doktrin 'Ar-Rāfi'ul Amānah wal Riāyatun Kāmilah' Turats Klasik dengan Bowlby's Attachment Theory, Residential Care Best Practices, Serta Kesejahteraan Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-03-02/MONOGRAF-RISET-DESKRIPSI-PERAN-MUSYRIF/2026`  
 **Domain**: `07 Implementation Framework` > `03 Roles and Responsibilities` (Sub-Modul 02: *Musyrif Role Specification, Warm Presence Protocol, & Staff Ratio Standards*)  
@@ -40,7 +40,7 @@ Dalam praktik pengasuhan asrama konvensional, kerap ditemukan **tiga kegagalan p
 ```mermaid
 flowchart LR
     subgraph TuratsWaliyyulMauAman["DOKTRIN AMANAH AYAH ASUH TURATS"]
-        HaditsAmanahYatama["HR. Abu Dawud & At-Tirmidzi (Amanah Pengasuhan):<br/>أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا (وَأَشَارَ بِالسَّبَّابَةِ وَالْوُسْطَى)<br/>(Saya & Pengasuh Yatim Seperti Ini di Surga — Rasulullah Menunjukkan Jari Telunjuk & Tengah Berdampingan!)"] --> Inti["Hakikat Peran Musyrif TUMBUH:<br/>Menjadi Ayah Asuh Ruhani yang Mencintai Santri: Warm Presence 24 Jam, Mengenal Nama & Kondisi, & Menjadi Secure Base"]
+        HaditsAmanahYatama["HR. Abu Dawud & At-Tirmidzi (Amanah Pengasuhan):<br/>أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا (وَأَشَارَ بِالسَّبَّابَةِ وَالْوُسْطَى)<br/>(Saya & Pengasuh Yatim Seperti Ini di Surga — Rasulullah Menunjukkan Jari Telunjuk & Tengah Berdampingan!)"] --> Inti["Hakikat Peran Musyrif dalam sistem TUMBUH:<br/>Menjadi Ayah Asuh Ruhani yang Mencintai Santri: Warm Presence 24 Jam, Mengenal Nama & Kondisi, & Menjadi Secure Base"]
         GhazaliRiayatulWalad["Al-Ghazali (Ihya'):<br/>Pendidik Bertanggung Jawab atas Jiwa Anak seperti Orangtua Bertanggung Jawab atas Anak Kandungnya"] --> Inti
     end
 ```
@@ -71,7 +71,7 @@ flowchart TD
 
 # BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM
 
-### 1. Arsitektur Komprehensif Deskripsi Peran Musyrif TUMBUH (Form DPM-Musyrif)
+### 1. Arsitektur Komprehensif Deskripsi Peran Musyrif dalam sistem TUMBUH (Form DPM-Musyrif)
 
 ```mermaid
 flowchart TD
@@ -133,7 +133,7 @@ Musyrif yang menjalankan peran *ayah asuh ruhani* dengan rasio proporsional terb
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-03-02: DESKRIPSI PERAN MUSYRIF ASRAMA DAN RASIO 1:15–20** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-03-02: DESKRIPSI PERAN MUSYRIF ASRAMA DAN RASIO 1:15–20** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -191,7 +191,7 @@ flowchart TD
 [^1]: Teori *Secure Base* John Bowlby mengenai peran figur pengasuh responsif terhadap kesejahteraan emosional anak, Bowlby (1988, hlm. 11).
 [^2]: Standar rasio staf pengasuhan residensial internasional, Children's Residential Care Best Practices.
 [^3]: HR. Al-Bukhari No. 5304 tentang keutamaan pengasuhan yatim dan anak jauh dari orangtua.
-[^4]: Studi kasus warm presence musyrif mendeteksi homesickness Pesantren TUMBUH (2026).
+[^4]: Studi kasus warm presence musyrif mendeteksi homesickness Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^5]: Dampak kelembagaan penerapan deskripsi peran musyrif qudwah dan rasio 1:15–20 (2026).
 
 ### 4. Glosarium

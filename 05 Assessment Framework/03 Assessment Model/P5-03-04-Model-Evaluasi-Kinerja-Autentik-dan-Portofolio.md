@@ -1,5 +1,5 @@
 # P5-03-04: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI
-## *Monograf Riset Akademik: Epistemologi Penilaian Kinerja Nyata Berbasis Bukti Otentik (Authentic Performance Assessment) dan Portofolio Karya Hidup (Digital Life-Portfolio), Integrasi Doktrin 'Al-Kalam 'alal Amal wa Qabulul Atsar' Turats Klasik dengan Wiggins-McTighe Authentic Task Design & E-Portfolio Framework, Serta Desain Pameran Karya Khidmah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Epistemologi Penilaian Kinerja Nyata Berbasis Bukti Otentik (Authentic Performance Assessment) dan Portofolio Karya Hidup (Digital Life-Portfolio), Integrasi Doktrin 'Al-Kalam 'alal Amal wa Qabulul Atsar' Turats Klasik dengan Wiggins-McTighe Authentic Task Design & E-Portfolio Framework, Serta Desain Pameran Karya Khidmah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-03-04/MONOGRAF-RISET-EVALUASI-KINERJA-AUTENTIK-PORTOFOLIO/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 04: *Authentic Performance Assessment & Digital Portfolio Model*)  
@@ -220,7 +220,7 @@ Penerapan model evaluasi kinerja autentik dan portofolio ini menghadirkan keungg
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-03-04: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-03-04: MODEL EVALUASI KINERJA AUTENTIK DAN PORTOFOLIO SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan tes pilihan ganda pasif dalam mengukur kompetensi dunia nyata, Wiggins (1998, hlm. 22).  
 [^2]: Kerangka kerja desain tugas autentik dan Understanding by Design, McTighe & Wiggins (2012, hlm. 48).  
 [^3]: Al-Khatib Al-Baghdadi, *Iqtidha'ul 'Ilmil 'Amal* (1984, hlm. 15), bab keharusan ilmu berbuah amal nyata.  
-[^4]: Protokol asesmen kinerja autentik penyelenggaraan jenazah santri TUMBUH di desa binaan (2026).  
-[^5]: Dampak kelembagaan penerapan model evaluasi kinerja autentik dan portofolio digital di Pesantren TUMBUH (2026).  
+[^4]: Protokol asesmen kinerja autentik penyelenggaraan jenazah santri dalam sistem TUMBUH di desa binaan (2026).  
+[^5]: Dampak kelembagaan penerapan model evaluasi kinerja autentik dan portofolio digital di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

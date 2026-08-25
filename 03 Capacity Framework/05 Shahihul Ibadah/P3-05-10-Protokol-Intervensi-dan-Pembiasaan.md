@@ -121,7 +121,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap program intervensi perilaku yang mengidentifikasi fungsi psikologis di balik tindakan menyimpang (*FBA*) dan menerapkan pendampingan terstruktur harian (*Check-In/Check-Out*) niscaya berhasil menurunkan frekuensi pelanggaran hingga lebih dari 85% secara berkelanjutan tanpa membutuhkan ancaman kekerasan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Modul Intervensi TUMBUH mengintegrasikan protokol CICO Fajar untuk santri Tier 2 dan asesmen klinis FBA untuk santri Tier 3 kasus bolos shalat.
-* **Konklusi (*an-Natijah*)**: Maka, efektivitas penanganan masalah kedisiplinan ibadah di pesantren TUMBUH memiliki akurasi ilmiah dan tingkat keberhasilan yang teruji.[^7]
+* **Konklusi (*an-Natijah*)**: Maka, efektivitas penanganan masalah kedisiplinan ibadah dalam sistem TUMBUH di pesantren memiliki akurasi ilmiah dan tingkat keberhasilan yang teruji.[^7]
 
 ```mermaid
 flowchart LR
@@ -177,7 +177,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap ekosistem pesantren yang menyinkronkan rutinitas ibadah dengan manajemen higiene tidur biologis (*Sleep Hygiene*) dan Standar Operasional Prosedur (SOP) harian yang terstruktur rapi niscaya melahirkan ketahanan energi ruhiyah santri yang optimal dan meniadakan kelelahan mental.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH mengunci SOP 24 Jam: menjamin waktu tidur santri minimal 6.5–7 jam dan mengawal ritme ibadah fardhu-sunnah secara presisi.
-* **Konklusi (*an-Natijah*)**: Maka, proses pembiasaan ibadah santri di pesantren TUMBUH berlangsung dengan penuh kesehatan fisik, kejernihan pikiran, dan kedamaian jiwa.[^11]
+* **Konklusi (*an-Natijah*)**: Maka, proses pembiasaan ibadah santri dalam sistem TUMBUH di pesantren berlangsung dengan penuh kesehatan fisik, kejernihan pikiran, dan kedamaian jiwa.[^11]
 
 #### 1. Diskursus Dialektika Kritis: The 10-Minute Call: Menghilangkan Budaya Terburu-buru
 * **Pihak A (Sudut Pandang Berangkat ke Masjid Pas Iqamah Berbunyi)**:  
@@ -195,7 +195,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Memukul Ranjang Besi dan Meneriakkan Kata Kasar)**:  
   *"Bangunkan santri dengan memukul ember dan teriak 'Bangun woy pemalas!'; itu cara tradisional yang paling ampuh!"*
 * **Resolusi Adab Membangunkan Manusia (Wake-Up with Dignity Protocol)**:  
-  Membangunkan anak dengan suara keras mengagetkan memicu lonjakan adrenalin traumatis dan penolakan bawah sadar (*Fight-or-Flight Panic*). Musyrif TUMBUH dilatih **Protokol Membangunkan Beradab**: menyalakan lampu temaram redup, menyentuh pundak santri dengan lembut, membacakan doa *Alhamdulillahil ladzi ahyana ba'da ma amatana*, dan menyapa dengan panggilan sayang. Santri bangun dengan senyum dan rasa syukur.[^14]
+  Membangunkan anak dengan suara keras mengagetkan memicu lonjakan adrenalin traumatis dan penolakan bawah sadar (*Fight-or-Flight Panic*). Musyrif dalam sistem TUMBUH dilatih **Protokol Membangunkan Beradab**: menyalakan lampu temaram redup, menyentuh pundak santri dengan lembut, membacakan doa *Alhamdulillahil ladzi ahyana ba'da ma amatana*, dan menyapa dengan panggilan sayang. Santri bangun dengan senyum dan rasa syukur.[^14]
 
 ---
 
@@ -323,7 +323,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-10: PROTOKOL INTERVENSI DAN PEMBIASAAN SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-10: PROTOKOL INTERVENSI DAN PEMBIASAAN SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -391,7 +391,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Sistem Pendisiplinan Asrama Pesantren TUMBUH, *Kritik atas Hukuman Fisik dan Ketiadaan Multi-Tier Support*, 2026.  
+[^1]: Riset Evaluasi Sistem Pendisiplinan Asrama Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Hukuman Fisik dan Ketiadaan Multi-Tier Support*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Al-Amr bil Ma'ruf wan Nahy 'anil Munkar*, hlm. 320–355.  
 [^3]: Matan *Ihya' 'Ulumiddin*, Jilid 2, Pasal *Darajat al-Hisbah*, hlm. 338.  
 [^4]: Panduan Penanganan Pelanggaran Santri Berbasis Kasih Sayang PBIS TUMBUH, 2026.  

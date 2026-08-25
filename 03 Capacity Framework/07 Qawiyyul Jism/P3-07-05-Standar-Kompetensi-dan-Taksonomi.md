@@ -225,7 +225,7 @@ Penerapan standar taksonomi Qawiyyul Jism menghadirkan pembaruan pada kriteria k
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-07-05: STANDAR KOMPETENSI DAN TAKSONOMI QAWIYYUL JISM** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-07-05: STANDAR KOMPETENSI DAN TAKSONOMI QAWIYYUL JISM** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -297,7 +297,7 @@ flowchart TD
 [^4]: Tingkatan naturalisasi dalam taksonomi ranah psikomotorik, Dave (1970, hlm. 38).  
 [^5]: Klasifikasi respons motorik kompleks dalam pembelajaran keterampilan fisik, Simpson (1972, hlm. 48–55).  
 [^6]: Protokol pendampingan pendidikan jasmani adaptif pada santri dengan hambatan koordinasi motorik, ACSM (2018, hlm. 142).  
-[^7]: Standar penjaminan mutu kelulusan jasmani dan portofolio kesehatan santri TUMBUH (2026).  
+[^7]: Standar penjaminan mutu kelulusan jasmani dan portofolio kesehatan santri dalam sistem TUMBUH (2026).  
 
 ---
 

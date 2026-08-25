@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Kedudukan Karakter Qawiyyul Jism dalam Arsitektur 10 Muwashafat:**  
->   *Qawiyyul Jism* (Karakter ke-4 dari 10 Muwashafat Santri TUMBUH) merupakan **sarana fisik vital (*Al-Wasilah al-Maddiyyah*) yang menopang seluruh tegaknya aqidah murni (*Salimul Aqidah*), ibadah tertib (*Shahihul Ibadah*), dan akhlak mulia (*Matinul Khuluq*)**. Raga adalah amanah Ilahi (*Amanah Jasadiyyah*) yang wajib dirawat melalui keseimbangan nutrisi halalan thayyiban, kebersihan thaharah sempurna, istirahat sirkadian, dan latihan kebugaran motorik.
+>   *Qawiyyul Jism* (Karakter ke-4 dari 10 Muwashafat Santri dalam sistem TUMBUH) merupakan **sarana fisik vital (*Al-Wasilah al-Maddiyyah*) yang menopang seluruh tegaknya aqidah murni (*Salimul Aqidah*), ibadah tertib (*Shahihul Ibadah*), dan akhlak mulia (*Matinul Khuluq*)**. Raga adalah amanah Ilahi (*Amanah Jasadiyyah*) yang wajib dirawat melalui keseimbangan nutrisi halalan thayyiban, kebersihan thaharah sempurna, istirahat sirkadian, dan latihan kebugaran motorik.
 > * **Empat Pilar Dimensi Qawiyyul Jism:**  
 >   Karakter ini dibangun di atas 4 pilar terpadu: (1) *At-Thaharah wan-Nazhafah* (Kesucian & Kebersihan Raga-Lingkungan Bebas Skabies), (2) *Al-Giza' at-Thayyib* (Nutrisi Seimbang Halalan Thayyiban & Adab Sepertiga Perut), (3) *An-Naum as-Sirkadiy* (Manajemen Tidur Malam 7–8 Jam & Qailulah Sunnah), dan (4) *Ar-Riyadhah wal Liyaqah* (Kebugaran Motorik & Penguasaan 4 Olahraga Sunnah: Renang, Memanah, Beladiri, Lari).
 > * **Struktur Kompendium 14 Sub-Modul:**  

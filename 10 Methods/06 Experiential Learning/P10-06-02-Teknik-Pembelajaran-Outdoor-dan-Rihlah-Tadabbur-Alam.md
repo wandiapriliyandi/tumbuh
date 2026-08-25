@@ -1,5 +1,5 @@
 # P10-06-02: TEKNIK PEMBELAJARAN OUTDOOR DAN RIHLAH TADABBUR ALAM
-## *Monograf Riset Akademik: Standarisasi Teknik Pembelajaran Luar Ruang (Outdoor Adventure & Nature-Based Learning), Desain Integrasi Tafakkur Ayat Kauniyyah dengan Olahraga Sunnah dan Ketahanan Fisik (Ayāt Kauniyyah Exploration, Sunnah Sports Integration, & Somatic Resilience Architecture), Serta Pencegahan Sindrom Defisit Alam Santri (Outdoor Experiential Learning Technique, Nature-Deficit Mitigation, & Rihlah Tadabbur / Form MET-OutdoorTadabbur), Integrasi Doktrin 'Qul Sīrū fil Ardhi Fan-zhurū' Turats Klasik dengan Richard Louv Nature-Deficit Disorder Theory, Priest & Gass Adventure Therapy, Serta Ketangguhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Pembelajaran Luar Ruang (Outdoor Adventure & Nature-Based Learning), Desain Integrasi Tafakkur Ayat Kauniyyah dengan Olahraga Sunnah dan Ketahanan Fisik (Ayāt Kauniyyah Exploration, Sunnah Sports Integration, & Somatic Resilience Architecture), Serta Pencegahan Sindrom Defisit Alam Santri (Outdoor Experiential Learning Technique, Nature-Deficit Mitigation, & Rihlah Tadabbur / Form MET-OutdoorTadabbur), Integrasi Doktrin 'Qul Sīrū fil Ardhi Fan-zhurū' Turats Klasik dengan Richard Louv Nature-Deficit Disorder Theory, Priest & Gass Adventure Therapy, Serta Ketangguhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-06-02/MONOGRAF-RISET-OUTDOOR-TADABBUR-ALAM/2026`  
 **Domain**: `10 Methods` > `06 Experiential Learning` (Sub-Modul 02: *Outdoor Adventure & Nature-Based Learning*)  
@@ -105,7 +105,7 @@ Penerapan *Teknik Pembelajaran Outdoor dan Rihlah Tadabbur Alam* membuktikan bah
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-06-02: TEKNIK PEMBELAJARAN OUTDOOR DAN RIHLAH TADABBUR ALAM** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-06-02: TEKNIK PEMBELAJARAN OUTDOOR DAN RIHLAH TADABBUR ALAM** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Richard Louv mengenai Nature-Deficit Disorder dan konsekuensi keterasingan anak modern dari pengalaman alam terbuka, Louv (2005, hlm. 36).
 [^2]: Simon Priest & Michael A. Gass mengenai metodologi Adventure Programming dalam memfasilitasi pertumbuhan kepemimpinan dan resiliensi tim, Priest & Gass (2018, hlm. 112).
-[^3]: Studi kasus penerapan ekspedisi Outdoor Tadabbur Alam mengikis ego dan meningkatkan kohesi santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan ekspedisi Outdoor Tadabbur Alam mengikis ego dan meningkatkan kohesi santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integrasi olahraga sunnah dan rihlah ekologis terhadap kebugaran fisik dan spiritualitas ulul albab santri (2026).

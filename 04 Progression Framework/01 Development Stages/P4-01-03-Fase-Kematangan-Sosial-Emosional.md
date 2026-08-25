@@ -1,5 +1,5 @@
 # P4-01-03: FASE KEMATANGAN SOSIAL-EMOSIONAL SANTRI
-## *Monograf Riset Akademik: Trajektori Perkembangan Identitas Moral, Regulasi Emosi Remaja Madya (Usia 15–16 Tahun / Jenjang J3), Integrasi Fiqh Marahil at-Taklif dengan CASEL Social-Emotional Learning Framework & Erikson's Identity Formation, Mitigasi Dinamika Sebaya Negatif (Peer Pressure, Geng Eksklusif, & Bullying), Serta Rekayasa Iklim Ukhuwah Bi'ah Shalihah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Perkembangan Identitas Moral, Regulasi Emosi Remaja Madya (Usia 15–16 Tahun / Jenjang J3), Integrasi Fiqh Marahil at-Taklif dengan CASEL Social-Emotional Learning Framework & Erikson's Identity Formation, Mitigasi Dinamika Sebaya Negatif (Peer Pressure, Geng Eksklusif, & Bullying), Serta Rekayasa Iklim Ukhuwah Bi'ah Shalihah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-01-03/MONOGRAF-RISET-FASE-KEMATANGAN-SOSIAL-EMOSIONAL/2026`  
 **Domain**: `04 Progression Framework` > `01 Development Stages` (Sub-Modul 03: *Social-Emotional Maturity Stage*)  
@@ -291,7 +291,7 @@ flowchart TD
 [^3]: HR. Abu Dawud dalam *Sunan Abi Dawud* (No. 4403), Kitab *Al-Hudud*.  
 [^4]: Ibnu Jama'ah Al-Kinani, *Tadzkiratus Sami' wal Mutakallim* (2012, hlm. 84).  
 [^5]: Protokol de-polarisasi rivalitas geng asrama melalui pendekatan sasaran superordinat pengabdian desa, TUMBUH (2026).  
-[^6]: Dampak kelembagaan penerapan kurikulum kematangan sosial-emosional santri TUMBUH Pesantren (2026).  
+[^6]: Dampak kelembagaan penerapan kurikulum kematangan sosial-emosional santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

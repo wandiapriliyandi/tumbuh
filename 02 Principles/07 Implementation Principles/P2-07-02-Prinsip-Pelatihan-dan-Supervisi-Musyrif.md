@@ -28,8 +28,8 @@
   - [4. Rekayasa Perlindungan Kesehatan Mental Musyrif & Mitigasi Burnout Maslach (Emotional Exhaustion & Depersonalization)](#4-rekayasa-perlindungan-kesehatan-mental-musyrif--mitigasi-burnout-maslach-emotional-exhaustion--depersonalization)
   - [5. Kasuistika Lapangan: Transformasi Musyrif Pemarah Menjadi Murabbi Teladan Melalui Peer Coaching](#5-kasuistika-lapangan-transformasi-musyrif-pemarah-menjadi-murabbi-teladan-melalui-peer-coaching)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
-  - [2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (Empat Modul Kompetensi)](#2-matriks-kurikulum-sertifikasi--diklat-musyrif-tumbuh-empat-modul-kompetensi)
+  - [1. Eksplanasi Teoretis Prinsip Pelatihan dan Supervisi Musyrif Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-pelatihan-dan-supervisi-musyrif-pesantren-tumbuh)
+  - [2. Matriks Kurikulum Sertifikasi & Diklat Musyrif dalam sistem TUMBUH (Empat Modul Kompetensi)](#2-matriks-kurikulum-sertifikasi--diklat-musyrif-tumbuh-empat-modul-kompetensi)
   - [3. Protokol Supervisi Klinis dan Peer Coaching Asrama Mingguan (Clinical Supervision SOP)](#3-protokol-supervisi-klinis-dan-peer-coaching-asrama-mingguan-clinical-supervision-sop)
   - [4. Piagam Perlindungan Kesejahteraan & Kesehatan Mental Musyrif (Musyrif Wellness Charter)](#4-piagam-perlindungan-kesejahteraan--kesehatan-mental-musyrif-musyrif-wellness-charter)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
@@ -106,7 +106,7 @@ TUMBUH menerapkan **Model Tiga Dimensi Maslach (Christina Maslach, 2001)**:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Pelatihan dan Supervisi Musyrif Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan pengembangan pendidik ke dalam **Arsitektur Tiga Sayap Profesionalisme Murabbi (*Arkan I'dad al-Murabbi*)**:
 
@@ -131,7 +131,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Kurikulum Sertifikasi & Diklat Musyrif TUMBUH (Empat Modul Kompetensi)
+### 2. Matriks Kurikulum Sertifikasi & Diklat Musyrif dalam sistem TUMBUH (Empat Modul Kompetensi)
 
 | Modul Sertifikasi | Topik Pokok Pembelajaran | Metode Pelatihan (Joyce & Showers) |
 | :--- | :--- | :--- |
@@ -182,7 +182,7 @@ Prinsip pelatihan dan supervisi musyrif ini membawa implikasi agung bagi peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07-02: PRINSIP PELATIHAN DAN SUPERVISI MUSYRIF (EDUCATOR TRAINING & CLINICAL SUPERVISION)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07-02: PRINSIP PELATIHAN DAN SUPERVISI MUSYRIF (EDUCATOR TRAINING & CLINICAL SUPERVISION)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -250,15 +250,15 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Pelatihan dan Supervisi Musyrif Pesantren TUMBUH, *Kritik atas Eksploitasi dan Burnout*, 2026.  
+[^1]: Riset Prinsip Pelatihan dan Supervisi Musyrif Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Eksploitasi dan Burnout*, 2026.  
 [^2]: Kaidah Ushul Tarbiyah Klasik; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 45–80.  
 [^3]: Wasiat Khalifah Umar bin Abdul Aziz kepada Pendidik Anaknya; Ibnu Muflih, *Al-Adab asy-Syar'iyyah*, Jilid 1, hlm. 210–230.  
 [^4]: Joyce, B., & Showers, B. (2002), *Student Achievement Through Staff Development*; Knight, J. (2007).  
 [^5]: Maslach, C., et al. (2001), *Annual Review of Psychology*, hlm. 397–422.  
 [^6]: Dokumentasi Pelaksanaan Program Peer Coaching Musyrif Asrama PBIS TUMBUH, 2026.  
-[^7]: Master Blueprint Kurikulum Sertifikasi 4 Modul Diklat Musyrif TUMBUH, 2026.  
+[^7]: Master Blueprint Kurikulum Sertifikasi 4 Modul Diklat Musyrif dalam sistem TUMBUH, 2026.  
 [^8]: Standar Operasional Prosedur Supervisi Klinis 4 Tahap Asrama TUMBUH, 2026.  
-[^9]: Master Guidelines Piagam Perlindungan Kesejahteraan Musyrif TUMBUH, 2026.  
+[^9]: Master Guidelines Piagam Perlindungan Kesejahteraan Musyrif dalam sistem TUMBUH, 2026.  
 [^10]: Master Blueprint Protokol Halaqah Reflektif Pekanan Musyrif Asrama TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Martabat Pendidik Pengasuhan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

@@ -1,5 +1,5 @@
 # P4-02-04: DETAIL JENJANG J4 — KEMANDIRIAN DAN KEPEMIMPINAN QUDWAH
-## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 11–12 (Usia 17–18 Tahun), Standar Capaian Kepemimpinan Pelayan Organisasi Santri (OPPM), Integrasi Doktrin Ri'ayah & Servant Leadership (Greenleaf) dengan Authentic Action Learning & Transformational Influence, Desain Capstone Civilizational Project Kelulusan, Serta Matriks Indikator Standar Alumni Paripurna di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 11–12 (Usia 17–18 Tahun), Standar Capaian Kepemimpinan Pelayan Organisasi Santri (OPPM), Integrasi Doktrin Ri'ayah & Servant Leadership (Greenleaf) dengan Authentic Action Learning & Transformational Influence, Desain Capstone Civilizational Project Kelulusan, Serta Matriks Indikator Standar Alumni Paripurna di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-02-04/MONOGRAF-RISET-JENJANG-J4-KEPEMIMPINAN-QUDWAH/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels` (Sub-Modul 04: *Level J4: Independence & Exemplary Leadership*)  
@@ -138,7 +138,7 @@ flowchart TD
     subgraph ProtokolDeFeodalisasiOPPM["PROTOKOL DE-FEODALISASI KEPEMIMPINAN TIER 3"]
         Step1["1. PENGHENTIAN INSTAN HUKUMAN FISIK & PENANGANAN MEDIS SANTRI J1 DI POSKESTREN<br/>• Kepala Pengasuhan menghentikan tindakan pengurus seketika & memastikan luka santri J1 dirawat dokter."]
         
-        Step2["2. SIDANG RESTORATIF DEWAN PENGASUHAN BERSAMA SELURUH PENGURUS OPPM J4<br/>• Membedah doktrin Sayyidul Qaumi Khadimuhum: 'Di Pesantren TUMBUH, pemimpin yang membentak adalah pemimpin yang gagal mendidik'."]
+        Step2["2. SIDANG RESTORATIF DEWAN PENGASUHAN BERSAMA SELURUH PENGURUS OPPM J4<br/>• Membedah doktrin Sayyidul Qaumi Khadimuhum: 'Di Ekosistem Pesantren Berbasis TUMBUH, pemimpin yang membentak adalah pemimpin yang gagal mendidik'."]
         
         Step3["3. PERMINTAAN MAAF TERBUKA PENGURUS KEPADA ADIK ASUH DISERTAI RESTITUSI 4R<br/>• Pengurus J4 meminta maaf secara ksatria, memeluk adik asuh J1, & mengganti hukuman dengan bimbingan wudhu bersama."]
         
@@ -291,10 +291,10 @@ flowchart TD
 1. **Jenjang J4 (Kelas 11–12)**: Tingkat perkembangan tertinggi santri usia 17–18 tahun yang berfokus pada kemandirian moral penuh, kepemimpinan pelayan organisasi OPPM, dan penyelesaian karya Capstone Project kelulusan.
 2. **Servant Leadership (Kepemimpinan Pelayan)**: Paradigma kepemimpinan di mana pemimpin menempatkan pelayanan kepada orang lain sebagai prioritas utama dan memimpin dengan keteladanan fisik paling depan.
 3. **Form RKK-F4**: Rubrik penilaian analitik untuk mengevaluasi kesiapan kepemimpinan pelayan, kualitas karya Capstone Project, dan imunitas moral santri kelas akhir.
-4. **Capstone Civilizational Project**: Mahakarya proyek pengabdian masyarakat di desa binaan yang dirancang dan dieksekusi santri J4 secara tim sebagai syarat kelulusan santri TUMBUH.
+4. **Capstone Civilizational Project**: Mahakarya proyek pengabdian masyarakat di desa binaan yang dirancang dan dieksekusi santri J4 secara tim sebagai syarat kelulusan santri dalam sistem TUMBUH.
 5. **As-Siyāsah Asy-Syar'iyyah (السِّيَاسَةُ الشَّرْعِيَّةُ)**: Prinsip tata kelola kepemimpinan Islam yang berorientasi pada kemaslahatan umat dan perlindungan hak-hak kaum yang lemah.
 6. **Munaqasyah Capstone Terbuka**: Forum sidang akademik terbuka di hadapan dewan penguji dan tokoh masyarakat untuk menguji dampak sosial proyek santri J4.
 7. **Zero-Bullying Sanctuary**: Komitmen mutlak kepengurusan OPPM untuk menjaga lingkungan pesantren 100% steril dari kekerasan fisik, verbal, maupun relasional.
 8. **Graduation Readiness Gateway**: Rangkaian ambang batas kompetensi (hafalan 7–10 juz, kitab gundul, RKK $\ge 3.25$, 210 jam khidmah) untuk memperoleh ijazah kelulusan paripurna.
 9. **Moral Immunity**: Daya tahan batiniah dan integritas prinsip aqidah-akhlak santri dalam menghadapi lingkungan pergaulan bebas di luar pondok.
-10. **Khadimul Ummah Paripurna**: Profil kelulusan santri TUMBUH yang memiliki keunggulan ilmu syariat, integritas kepemimpinan, dan dedikasi pengabdian bagi kemakmuran peradaban umat.
+10. **Khadimul Ummah Paripurna**: Profil kelulusan santri dalam sistem TUMBUH yang memiliki keunggulan ilmu syariat, integritas kepemimpinan, dan dedikasi pengabdian bagi kemakmuran peradaban umat.

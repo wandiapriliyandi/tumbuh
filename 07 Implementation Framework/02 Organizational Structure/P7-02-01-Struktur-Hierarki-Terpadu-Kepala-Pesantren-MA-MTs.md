@@ -1,5 +1,5 @@
 # P7-02-01: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS
-## *Monograf Riset Akademik: Standarisasi Integrasi Struktur Kepemimpinan Ma'had dan Madrasah Formal, Penyatuan Visi Kurikulum 24 Jam, dan Eliminasi Dikotomi Pengasuh vs Guru Sekolah (Unified Leadership Hierarchy, Ma'had-Madrasah Dual Integration, & One-Roof Pesantren Structure / Form SHT-Struktur), Integrasi Doktrin 'Wahdatul Qiyādah wal Imāmah' Turats Klasik dengan Mintzberg's Organizational Configurations, Matrix Organizational Theory, Serta Sinergi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Integrasi Struktur Kepemimpinan Ma'had dan Madrasah Formal, Penyatuan Visi Kurikulum 24 Jam, dan Eliminasi Dikotomi Pengasuh vs Guru Sekolah (Unified Leadership Hierarchy, Ma'had-Madrasah Dual Integration, & One-Roof Pesantren Structure / Form SHT-Struktur), Integrasi Doktrin 'Wahdatul Qiyādah wal Imāmah' Turats Klasik dengan Mintzberg's Organizational Configurations, Matrix Organizational Theory, Serta Sinergi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-02-01/MONOGRAF-RISET-STRUKTUR-HIERARKI-TERPADU/2026`  
 **Domain**: `07 Implementation Framework` > `02 Organizational Structure` (Sub-Modul 01: *Unified Leadership Hierarchy & Ma'had-Madrasah Integration*)  
@@ -216,7 +216,7 @@ Penerapan struktur hierarki terpadu Form SHT ini menghadirkan keunggulan peradab
 
 1. **Melenyapkan Seluruh Gesekan Kekuasaan dan Sengketa Kepentingan (*Complete Eradication of Dualism*)**: Menyatukan seluruh potensi pendidik dalam satu arah visi perjuangan yang solid.
 2. **Menghadirkan Keseimbangan Ritme Kehidupan Santri yang Manusiawi (*Balanced 24-Hour Student Rhythm*)**: Menghindarkan santri dari kelelahan kronis akibat benturan target akademik vs asrama.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wahdatul Qiyādah dan Mintzberg's Organizational Configurations**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan desain organisasi modern paling efisien dan harmonis di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wahdatul Qiyādah dan Mintzberg's Organizational Configurations**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan desain organisasi modern paling efisien dan harmonis di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan struktur hierarki terpadu Form SHT ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-02-01: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-02-01: STRUKTUR HIERARKI TERPADU KEPALA PESANTREN, MA, DAN MTS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Teori Organizational Configurations Henry Mintzberg mengenai integrasi Strategic Apex, Middle Line, dan Operating Core, Mintzberg (1979, hlm. 24 & 1983, hlm. 62).  
 [^2]: Model Matrix Organizational Structure Jay Galbraith dalam tata kelola institusi pendidikan modern, Galbraith (2014, hlm. 88).  
 [^3]: Al-Juwaini, *Ghiyatsul Umam fi Iltiyatsizh Zhulam* (1981, hlm. 126), bab kemustahilan berdirinya dua imam pimpinan tertinggi dalam satu kepengurusan lembaga kaum muslimin.  
-[^4]: Protokol struktur kepemimpinan satu atap dan harmonisasi jadwal UAS Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan struktur hierarki terpadu kepala pesantren, MA, dan MTs di Pesantren TUMBUH (2026).  
+[^4]: Protokol struktur kepemimpinan satu atap dan harmonisasi jadwal UAS Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan struktur hierarki terpadu kepala pesantren, MA, dan MTs di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P4-05-02: ARSITEKTUR EVIDENCE-BASED GATEWAY TRANSISI SANTRI
-## *Monograf Riset Akademik: Desain Sistem Ambang Batas Transisi Kenaikan Jenjang Berbasis Bukti Otentik (Evidence-Based Progression Gateways), Integrasi Doktrin Imtihanul Kafa'ah Turats dengan Outcome-Based Education (OBE Framework) & Standardized Performance Portfolios, Eliminasi Kenaikan Otomatis Tanpa Standar, Serta Protokol Yudisium Transisi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Desain Sistem Ambang Batas Transisi Kenaikan Jenjang Berbasis Bukti Otentik (Evidence-Based Progression Gateways), Integrasi Doktrin Imtihanul Kafa'ah Turats dengan Outcome-Based Education (OBE Framework) & Standardized Performance Portfolios, Eliminasi Kenaikan Otomatis Tanpa Standar, Serta Protokol Yudisium Transisi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-05-02/MONOGRAF-RISET-ARSITEKTUR-GATEWAY-TRANSISI/2026`  
 **Domain**: `04 Progression Framework` > `05 Growth Milestones` (Sub-Modul 02: *Evidence-Based Transition Gateways Architecture*)  
@@ -136,7 +136,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph ProtokolRemediasiKhidmah["PROTOKOL SERVICE CATCH-UP GATEWAY G3"]
-        Step1["1. PENAHANAN SEMENTARA STATUS KELULUSAN GATEWAY G3 DALAM SIDANG YUDISIUM<br/>• Dewan Pengasuhan menegaskan: 'Di Pesantren TUMBUH, kepemimpinan J4 hanya diberikan kepada mereka yang mau berkhidmat melayani umat'."]
+        Step1["1. PENAHANAN SEMENTARA STATUS KELULUSAN GATEWAY G3 DALAM SIDANG YUDISIUM<br/>• Dewan Pengasuhan menegaskan: 'Di Ekosistem Pesantren Berbasis TUMBUH, kepemimpinan J4 hanya diberikan kepada mereka yang mau berkhidmat melayani umat'."]
         
         Step2["2. PENUGASAN PROGRAM 'INTENSIF BAKTI DESA LIBURAN' SELAMA 14 HARI (40 JAM KHIDMAH)<br/>• Santri N ditugaskan menginap di posko desa binaan, mengajar TPA, & mengelola sanitasi air desa."]
         
@@ -292,7 +292,7 @@ flowchart TD
 [^1]: Kritik terhadap kegagalan model social promotion tanpa asesmen berbasis bukti otentik, Spady (1994, hlm. 28).  
 [^2]: Kerangka kerja Criterion-Referenced Gateway Assessment dalam pendidikan profesional, Popham (2014, hlm. 64).  
 [^3]: HR. Abu Dawud dalam *Sunan Abi Dawud* (No. 3592), Kitab *Al-Aqdhiyah*.  
-[^4]: Protokol penanganan keterlambatan jam khidmah dan bimbingan service catch-up santri TUMBUH (2026).  
+[^4]: Protokol penanganan keterlambatan jam khidmah dan bimbingan service catch-up santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan arsitektur evidence-based gateway transisi TUMBUH Pesantren (2026).  
 
 ---

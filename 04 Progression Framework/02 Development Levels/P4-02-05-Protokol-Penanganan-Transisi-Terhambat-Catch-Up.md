@@ -1,5 +1,5 @@
 # P4-02-05: PROTOKOL PENANGANAN TRANSISI TERHAMBAT (TIER 2 CATCH-UP)
-## *Monograf Riset Akademik: Protokol Intervensi Terarah Multi-Tier PBIS (Tier 2 Targeted Remediation) Bagi Santri dengan Hambatan Adaptasi, Kejenuhan Habituasi, Turbulensi Regulasi Diri, & Stagnasi Kepemimpinan di Pesantren 24 Jam, Integrasi Fiqh Al-Istidrak wal Mu'alajah dengan Response-to-Intervention (RTI Framework), Serta Desain Character Catch-Up Plan Berbasis Bukti di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Intervensi Terarah Multi-Tier PBIS (Tier 2 Targeted Remediation) Bagi Santri dengan Hambatan Adaptasi, Kejenuhan Habituasi, Turbulensi Regulasi Diri, & Stagnasi Kepemimpinan di Pesantren 24 Jam, Integrasi Fiqh Al-Istidrak wal Mu'alajah dengan Response-to-Intervention (RTI Framework), Serta Desain Character Catch-Up Plan Berbasis Bukti di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-02-05/MONOGRAF-RISET-PROTOKOL-TRANSISI-TERHAMBAT-CATCHUP/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels` (Sub-Modul 05: *Tier 2 Catch-Up Remediation Protocol*)  

@@ -44,7 +44,7 @@ graph TD
 
 ### Bedah Operasional Panca Perlindungan dalam Keseharian Santri
 
-Mari kita bedah bagaimana masing-masing dari lima prinsip dharuriyyat ini diwujudkan secara konkret dalam kehidupan asrama pesantren TUMBUH:
+Mari kita bedah bagaimana masing-masing dari lima prinsip dharuriyyat ini diwujudkan secara konkret dalam kehidupan asrama ekosistem pesantren berbasis TUMBUH:
 
 #### 1. Hifzh ad-Din (Perlindungan Aqidah & Kemurnian Ibadah)
 Tujuan tertinggi pesantren adalah menjaga keselamatan aqidah santri. Namun, banyak lembaga keliru menerapkan strategi penegakannya:

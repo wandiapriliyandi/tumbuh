@@ -1,5 +1,5 @@
 # P3-13-10: PROTOKOL INTERVENSI DAN PEMBIASAAN NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Arsitektur Intervensi Berjenjang PBIS Tiga Tingkat (Multi-Tier Positive Behavioral Interventions & Supports) dalam Pembinaan Kemanfaatan Sosial Santri, Protokol Universal Tier 1 (Kurikulum Khidmah Terpadu & Posko Pelayanan 24 Jam), Intervensi Terarah Tier 2 (Klinik Empati & Restorative Buddy System), Intervensi Intensif Tier 3 (Restorasi Perundungan / Bullying & Mediasi Ishlah Konflik Sosial), Serta Eliminasi Mutlak Budaya Kekerasan Senioritas Feodal di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Berjenjang PBIS Tiga Tingkat (Multi-Tier Positive Behavioral Interventions & Supports) dalam Pembinaan Kemanfaatan Sosial Santri, Protokol Universal Tier 1 (Kurikulum Khidmah Terpadu & Posko Pelayanan 24 Jam), Intervensi Terarah Tier 2 (Klinik Empati & Restorative Buddy System), Intervensi Intensif Tier 3 (Restorasi Perundungan / Bullying & Mediasi Ishlah Konflik Sosial), Serta Eliminasi Mutlak Budaya Kekerasan Senioritas Feodal di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-10/MONOGRAF-RISET-PROTOKOL-INTERVENSI-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 10: *Intervention & Conditioning Protocols*)  
@@ -219,7 +219,7 @@ Implementasi arsitektur intervensi PBIS Multi-Tier ini menghasilkan keunggulan k
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-10: PROTOKOL INTERVENSI DAN PEMBIASAAN NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-10: PROTOKOL INTERVENSI DAN PEMBIASAAN NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

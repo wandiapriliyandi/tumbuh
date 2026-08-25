@@ -66,4 +66,4 @@ flowchart TD
 Penerapan gugus **Manajemen Kasus Khusus dan Sinergi Pengasuhan (Case Management)** menjamin bahwa:
 1. **Tidak Ada Satupun Santri yang Dikorbankan atau Dikeluarkan Secara Sembrono (*Zero Abandonment Policy*)**: Setiap kasus berat ditangani melalui rencana penyelamatan individual multidisiplin.
 2. **Krisis Agresif Diredakan dengan Ketenangan, Keamanan, dan Ketiadaan Kekerasan (*Zero Physical Restraint Injury*)**: Menjaga keselamatan fisik dan kehormatan martabat santri seutuhnya.
-3. **Lembaga Beroperasi dengan Standar Akuntabilitas, Sinergi Keluarga, Kepatuhan Hukum, dan Etika Tertinggi (*Exemplary Institutional Governance*)**: Menjadikan pesantren TUMBUH sebagai suaka pendidikan Islam yang paling aman, profesional, dan diridhai Allah SWT.
+3. **Lembaga Beroperasi dengan Standar Akuntabilitas, Sinergi Keluarga, Kepatuhan Hukum, dan Etika Tertinggi (*Exemplary Institutional Governance*)**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai suaka pendidikan Islam yang paling aman, profesional, dan diridhai Allah SWT.

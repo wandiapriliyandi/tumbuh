@@ -1,5 +1,5 @@
 # P9-05-01: PROGRAM MATRIKULASI SANTRI BARU DAN HOMESICKNESS CARE
-## *Monograf Riset Akademik: Standarisasi Program Matrikulasi Adaptasi 30-Hari Santri Baru, Protokol Pendampingan Homesickness Khusus (Intensive Homesickness Care Unit), dan Rekayasa Transisi Ekologis Inklusif (30-Day New Student Matriculation Program, Specialized Homesickness Care Protocol, & Inclusive Ecological Transition Engineering / Form PRO-MatrikulasiCare), Integrasi Doktrin 'Al-Ghurbah fī Thalabil 'Ilmi wal Mu'ānashah' Turats Klasik dengan Schlossberg Transition Theory, Bowlby Attachment in Separation, Serta Resiliensi Santri Baru di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Matrikulasi Adaptasi 30-Hari Santri Baru, Protokol Pendampingan Homesickness Khusus (Intensive Homesickness Care Unit), dan Rekayasa Transisi Ekologis Inklusif (30-Day New Student Matriculation Program, Specialized Homesickness Care Protocol, & Inclusive Ecological Transition Engineering / Form PRO-MatrikulasiCare), Integrasi Doktrin 'Al-Ghurbah fī Thalabil 'Ilmi wal Mu'ānashah' Turats Klasik dengan Schlossberg Transition Theory, Bowlby Attachment in Separation, Serta Resiliensi Santri Baru di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-05-01/MONOGRAF-RISET-MATRIKULASI-HOMESICKNESS-CARE/2026`  
 **Domain**: `09 Programs` > `05 Special Programs` (Sub-Modul 01: *30-Day Matriculation & Specialized Homesickness Care Program*)  
@@ -91,9 +91,9 @@ EVALUASI 4 INDIKATOR KEMATANGAN ADAPTASI:
 
 KEPUTUSAN DEWAN PENGASUH:
 SANTRI DINYATAKAN LULUS PROGRAM MATRIKULASI DENGAN PREDIKAT : MUMTAZ (SANGAT BAIK ✅)
-Berhak Disematkan Songkok Kehormatan dan Menjadi Santri Penuh Pesantren TUMBUH.
+Berhak Disematkan Songkok Kehormatan dan Menjadi Santri Penuh Ekosistem Pesantren Berbasis TUMBUH.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Pengasuhan Asrama,                           Musyrif Pembina Kamar,
 
 (Ust. Dr. Sholeh Abadi, M.Pd.)                      (Ust. Harun Al-Rasyid, S.Pd.)
@@ -110,7 +110,7 @@ Penerapan program matrikulasi 30 hari berbasis model transisi Schlossberg dan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-05-01: PROGRAM MATRIKULASI SANTRI BARU DAN HOMESICKNESS CARE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-05-01: PROGRAM MATRIKULASI SANTRI BARU DAN HOMESICKNESS CARE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -163,5 +163,5 @@ flowchart TD
 
 [^1]: Thurber & Walton mengenai studi longitudinal dampak penanganan komprehensif homesickness terhadap penyesuaian diri santri di asrama, Thurber & Walton (2012, hlm. 417).
 [^2]: Nancy Schlossberg mengenai kerangka kerja model transisi 4S (Situation, Self, Support, Strategies), Schlossberg (1981, hlm. 5).
-[^3]: Studi kasus penanganan intensif unit homesickness care menyelamatkan santri baru dari krisis mogok makan Pesantren TUMBUH (2026).
+[^3]: Studi kasus penanganan intensif unit homesickness care menyelamatkan santri baru dari krisis mogok makan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penghentian perpeloncoan dan penerapan matrikulasi ramah terhadap retensi santri baru mencapai 99.6% (2026).

@@ -126,7 +126,7 @@ graph TD
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan sistem pembinaan perilaku yang mengintegrasikan penguatan niat moral (*Theory of Planned Behavior*) dengan rekayasa tata ruang lingkungan yang mempermudah kebajikan (*Choice Architecture / Nudge Theory*) terbukti secara empiris melipatgandakan kepatuhan adab sukarela dan menurunkan insiden pelanggaran hingga 80%.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem pesantren TUMBUH menata fasilitas asrama, rak sandal teratur, pencahayaan bebas titik buta, dan norma sosial anti-ghashab.
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem pesantren berbasis sistem TUMBUH menata fasilitas asrama, rak sandal teratur, pencahayaan bebas titik buta, dan norma sosial anti-ghashab.
 * **Konklusi (*an-Natijah*)**: Maka, manifestasi perilaku Salimul Aqidah dapat tumbuh subur secara alami tanpa memerlukan intimidasi atau pengawasan koersif.[^8]
 
 ```mermaid
@@ -185,7 +185,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap insan mukmin yang meyakini bahwa Allah SWT senantiasa bersamanya di manapun ia berada (*Wa Huwa ma'akum ainama kuntum* - QS. Al-Hadid: 4) niscaya mewujudkan konsistensi adab yang setara di seluruh ruang fisik maupun digital.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH memetakan manifestasi perilaku Salimul Aqidah melintasi 4 lokus asrama secara terpadu tanpa diskriminasi ruang.
-* **Konklusi (*an-Natijah*)**: Maka, santri TUMBUH terlatih memiliki integritas kepribadian yang utuh (*Kaffah*) dan kebal dari kemunafikan ruang tersembunyi.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, santri dalam sistem TUMBUH terlatih memiliki integritas kepribadian yang utuh (*Kaffah*) dan kebal dari kemunafikan ruang tersembunyi.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Integritas Ruang Maya & Medsos Santri (Digital Muraqabah)
 * **Pihak A (Sudut Pandang Pengabaian Ruang Maya)**:  
@@ -197,7 +197,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Mistifikasi Pelanggaran)**:  
   *"Kalau santri senior meminjam sandal atau sarung junior tanpa izin, itu tabarruk dan melatih keikhlasan junior!"*
 * **Tinjauan Fiqh Keadilan Syar'i**:  
-  Menamai kezaliman dengan nama "keberkahan" adalah tipu daya iblis (*Talbis Iblis*). Mengambil hak orang lain secara paksa melahirkan luka batin (*Mazhlamah*) yang menghalangi terkabulnya doa. Pesantren TUMBUH menegakkan aturan mutlak: Seluruh peminjaman barang wajib melalui izin sukarela pemiliknya (*'An Taradhin*). Keberkahan sejati hanya turun di atas keadilan dan saling menghormati hak sesama.[^14]
+  Menamai kezaliman dengan nama "keberkahan" adalah tipu daya iblis (*Talbis Iblis*). Mengambil hak orang lain secara paksa melahirkan luka batin (*Mazhlamah*) yang menghalangi terkabulnya doa. Ekosistem Pesantren Berbasis TUMBUH menegakkan aturan mutlak: Seluruh peminjaman barang wajib melalui izin sukarela pemiliknya (*'An Taradhin*). Keberkahan sejati hanya turun di atas keadilan dan saling menghormati hak sesama.[^14]
 
 #### 3. Diskursus Dialektika Kritis: Perbedaan Manifestasi Perilaku Santri Jenjang J1 vs Jenjang J4
 * **Pihak A (Sudut Pandang Standarisasi Kaku)**:  
@@ -333,7 +333,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-06: MANIFESTASI PERILAKU SANTRI SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-06: MANIFESTASI PERILAKU SANTRI SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -401,7 +401,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Diagnostik Perilaku Asrama Pesantren TUMBUH, *Kajian Kesenjangan Kesalehan Masjid vs Perilaku Kamar*, 2026.  
+[^1]: Riset Diagnostik Perilaku Asrama Ekosistem Pesantren Berbasis TUMBUH, *Kajian Kesenjangan Kesalehan Masjid vs Perilaku Kamar*, 2026.  
 [^2]: Ibnul Qayyim al-Jauziyyah, *Al-Fawa'id*, hlm. 85–92.  
 [^3]: QS. Ibrahim [14]: 24–25.  
 [^4]: *Shahih al-Bukhari*, Kitab al-Iman, Bab Fadhl Man Istabra-a li Dinihi, Hadits No. 52.  
@@ -413,7 +413,7 @@ flowchart TD
 [^10]: Crowe, T. D. (2000), *Crime Prevention Through Environmental Design*, hlm. 110–135.  
 [^11]: Thaler, R. H., & Sunstein, C. R. (2008), *Nudge*, hlm. 81–105.  
 [^12]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 30–42.  
-[^13]: Panduan Digital Literacy & Cyber Muraqabah Santri TUMBUH, 2026.  
+[^13]: Panduan Digital Literacy & Cyber Muraqabah Santri dalam sistem TUMBUH, 2026.  
 [^14]: *Shahih al-Bukhari*, Kitab al-Mazhalim wal Ghasab, Hadits No. 2452.  
 [^15]: Matriks Progresi Perilaku Teramati Tangga J1–J4 Salimul Aqidah, 2026.  
 [^16]: Dokumentasi Kasuistika Bimbingan Konseling & Pengasuhan Asrama TUMBUH, 2026.

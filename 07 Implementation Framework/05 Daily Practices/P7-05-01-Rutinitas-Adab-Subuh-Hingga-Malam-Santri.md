@@ -1,5 +1,5 @@
 # P7-05-01: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI
-## *Monograf Riset Akademik: Standarisasi Jadwal Rutinitas Pembiasaan Adab Santri 24 Jam Berbasis Neurosains Pembentukan Kebiasaan, Kronobiologi, dan Tazkiyatun Nafs (Daily Habit Formation Routine, Circadian-Aligned Schedule, & Adab Practice Standards / Form RAH-Jadwal), Integrasi Doktrin 'Al-'Ādat Tabī'ah Tsāniyah wal Mudāwamah' Turats Klasik dengan James Clear's Atomic Habits, Habit Loop Neuroscience, Serta Pembiasaan Berbasis Cinta di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Jadwal Rutinitas Pembiasaan Adab Santri 24 Jam Berbasis Neurosains Pembentukan Kebiasaan, Kronobiologi, dan Tazkiyatun Nafs (Daily Habit Formation Routine, Circadian-Aligned Schedule, & Adab Practice Standards / Form RAH-Jadwal), Integrasi Doktrin 'Al-'Ādat Tabī'ah Tsāniyah wal Mudāwamah' Turats Klasik dengan James Clear's Atomic Habits, Habit Loop Neuroscience, Serta Pembiasaan Berbasis Cinta di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-05-01/MONOGRAF-RISET-RUTINITAS-ADAB-HARIAN/2026`  
 **Domain**: `07 Implementation Framework` > `05 Daily Practices` (Sub-Modul 01: *Daily Habit Formation Routine & Circadian-Aligned Adab Schedule*)  
@@ -111,7 +111,7 @@ Desain jadwal berbasis chronobiology dan habit loop engineering terbukti meningk
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-05-01: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-05-01: RUTINITAS ADAB SUBUH HINGGA MALAM SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -165,5 +165,5 @@ flowchart TD
 
 [^1]: Prinsip habit loop (Cue-Routine-Reward) dalam pembentukan kebiasaan neurosains, Duhigg (2012, hlm. 19).
 [^2]: Konsep environmental design sebagai arsitek kebiasaan diam-diam, Clear (2018, hlm. 86).
-[^3]: Studi kasus relokasi jadwal tahfizh ke waktu fajar meningkatkan retensi hafalan Pesantren TUMBUH (2026).
+[^3]: Studi kasus relokasi jadwal tahfizh ke waktu fajar meningkatkan retensi hafalan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak desain jadwal berbasis chronobiology terhadap kualitas hafalan dan kebahagiaan santri (2026).

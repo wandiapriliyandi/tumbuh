@@ -1,5 +1,5 @@
 # P3-12-10: PROTOKOL INTERVENSI DAN PEMBIASAAN QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Arsitektur Intervensi Berjenjang PBIS Tiga Tingkat (Multi-Tier Positive Behavioral Interventions & Supports) dalam Pembinaan Kemandirian Finansial Santri, Protokol Universal Tier 1 (Kurikulum Literasi Finansial & Lab Bisnis Santri), Intervensi Terarah Tier 2 (Klinik Manajemen Utang & Mentoring Pivoting Bisnis), Intervensi Intensif Tier 3 (Restorasi Integritas Penipuan/Tadlis Akut & Terapi Regulasi Belanja Kompulsif), Serta Eliminasi Mentalitas Meminta-minta di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Berjenjang PBIS Tiga Tingkat (Multi-Tier Positive Behavioral Interventions & Supports) dalam Pembinaan Kemandirian Finansial Santri, Protokol Universal Tier 1 (Kurikulum Literasi Finansial & Lab Bisnis Santri), Intervensi Terarah Tier 2 (Klinik Manajemen Utang & Mentoring Pivoting Bisnis), Intervensi Intensif Tier 3 (Restorasi Integritas Penipuan/Tadlis Akut & Terapi Regulasi Belanja Kompulsif), Serta Eliminasi Mentalitas Meminta-minta di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-10/MONOGRAF-RISET-PROTOKOL-INTERVENSI-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 10: *Intervention & Conditioning Protocols*)  
@@ -219,7 +219,7 @@ Implementasi arsitektur intervensi PBIS Multi-Tier ini menghasilkan keunggulan k
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-10: PROTOKOL INTERVENSI DAN PEMBIASAAN QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-10: PROTOKOL INTERVENSI DAN PEMBIASAAN QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -1,5 +1,5 @@
 # P10-02-03: TEKNIK PENDAMPINGAN ADAPTASI HOMESICKNESS CARE
-## *Monograf Riset Akademik: Standarisasi Teknik Pendampingan Klinis dan Afektif Homesickness Santri Baru, Protokol De-eskalasi Kecemasan Perpisahan (Separation Anxiety Mitigation Protocol), dan Rekayasa Iklim Rumah Pengganti Asrama (Homesickness Care Mentoring Technique, Separation Anxiety De-escalation Protocol, & Surrogate Home Ecology / Form MET-HomesickCare), Integrasi Doktrin 'Thibbul Qulūb wa Tasliyatu Ahlil Ghurbah' Turats Klasik dengan Thurber Homesickness Intervention Model, Bowlby Attachment Security, Serta Kesejahteraan Mental Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Pendampingan Klinis dan Afektif Homesickness Santri Baru, Protokol De-eskalasi Kecemasan Perpisahan (Separation Anxiety Mitigation Protocol), dan Rekayasa Iklim Rumah Pengganti Asrama (Homesickness Care Mentoring Technique, Separation Anxiety De-escalation Protocol, & Surrogate Home Ecology / Form MET-HomesickCare), Integrasi Doktrin 'Thibbul Qulūb wa Tasliyatu Ahlil Ghurbah' Turats Klasik dengan Thurber Homesickness Intervention Model, Bowlby Attachment Security, Serta Kesejahteraan Mental Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-02-03/MONOGRAF-RISET-TEKNIK-HOMESICKNESS-CARE/2026`  
 **Domain**: `10 Methods` > `02 Mentoring Methods` (Sub-Modul 03: *Clinical & Affective Homesickness Care Mentoring*)  
@@ -104,7 +104,7 @@ Penerapan teknik *Homesickness Care* berbasis sains psikologi perkembangan dan d
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-02-03: TEKNIK PENDAMPINGAN ADAPTASI HOMESICKNESS CARE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-02-03: TEKNIK PENDAMPINGAN ADAPTASI HOMESICKNESS CARE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -157,5 +157,5 @@ flowchart TD
 
 [^1]: Christopher A. Thurber mengenai pedoman klinis pencegahan dan penanganan homesickness pada anak di asrama sekolah dan perkemahan, Thurber & Walton (2007, hlm. 194).
 [^2]: Al-Hasan Al-Bashri mengenai nilai spiritual dan keharusan memuliakan orang asing yang merantau menuntut ilmu agama, Fadhlu al-Ghuraba' (1993, hlm. 42).
-[^3]: Studi kasus penerapan teknik Homesickness Care meredakan demam psikosomatis santri baru Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan teknik Homesickness Care meredakan demam psikosomatis santri baru Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak validasi afektif dan keterlibatan kognitif terstruktur terhadap eliminasi risiko putus sekolah santri baru (2026).

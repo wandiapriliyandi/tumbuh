@@ -88,7 +88,7 @@ YANG WAJIB DIBANGUN:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-08-02: TRADISI KHIDMAH SOSIAL SUKARELA TANPA FEODALISME** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-08-02: TRADISI KHIDMAH SOSIAL SUKARELA TANPA FEODALISME** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -141,5 +141,5 @@ flowchart TD
 
 [^1]: Servant Leadership Greenleaf tentang esensi melayani sebagai pilihan hati yang tulus, Greenleaf (1977, hlm. 13).
 [^2]: Service Learning Theory Eyler & Giles tentang dampak pelayanan berbasis pilihan terhadap pertumbuhan karakter, Eyler & Giles (1999, hlm. 72).
-[^3]: Studi kasus program khidmah sukarela mengubah karakter santri egois Pesantren TUMBUH (2026).
+[^3]: Studi kasus program khidmah sukarela mengubah karakter santri egois Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak anti-feodalisme dan service learning berbasis pilihan terhadap ekosistem pesantren (2026).

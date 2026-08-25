@@ -1,5 +1,5 @@
 # P3-10-10: PROTOKOL INTERVENSI DAN PEMBIASAAN HARITSUN ALA WAQTIH
-## *Monograf Riset Akademik: Arsitektur Intervensi Multi-Tier School-Wide PBIS Manajemen Waktu & Efisiensi Belajar, Protokol Pencegahan Universal (Tier 1 Jadwal Sirkadian 24 Jam & Sistem Time-Blocking), Intervensi Terarah (Tier 2 Check-in/Check-out / CICO Prokrastinasi & Pomodoro Circle), Pemulihan Intensif (Tier 3 Individualized Time Reclamation Plan / ITRP & Terapi Kronoterapi), Serta Eliminasi Hukuman Fisik Keterlambatan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Multi-Tier School-Wide PBIS Manajemen Waktu & Efisiensi Belajar, Protokol Pencegahan Universal (Tier 1 Jadwal Sirkadian 24 Jam & Sistem Time-Blocking), Intervensi Terarah (Tier 2 Check-in/Check-out / CICO Prokrastinasi & Pomodoro Circle), Pemulihan Intensif (Tier 3 Individualized Time Reclamation Plan / ITRP & Terapi Kronoterapi), Serta Eliminasi Hukuman Fisik Keterlambatan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-10-10/MONOGRAF-RISET-PROTOKOL-INTERVENSI-HARITSUN-ALA-WAQTIH/2026`  
 **Domain**: `03 Capacity Framework` > `10 Haritsun Ala Waqtih` (Sub-Modul 10: *Intervention & Habituation Protocols*)  
@@ -224,7 +224,7 @@ Penerapan protokol PBIS Multi-Tier pada aspek manajemen waktu membuktikan bahwa:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-10: PROTOKOL INTERVENSI DAN PEMBIASAAN HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-10: PROTOKOL INTERVENSI DAN PEMBIASAAN HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

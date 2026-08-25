@@ -6,7 +6,7 @@ Sub-domain ini menetapkan standar kelulusan paripurna (*Graduate Profile Output*
 
 ## Indeks Dokumen Modul
 
-* 📄 **[P4-06-Standar-Kelulusan-Paripurna-Santri-TUMBUH.md](./P4-06-Standar-Kelulusan-Paripurna-Santri-TUMBUH.md)**: Overview Standar Kelulusan Paripurna Santri TUMBUH.
+* 📄 **[P4-06-Standar-Kelulusan-Paripurna-Santri-TUMBUH.md](./P4-06-Standar-Kelulusan-Paripurna-Santri-TUMBUH.md)**: Overview Standar Kelulusan Paripurna Santri dalam sistem TUMBUH.
 * 📄 **[P4-06-01-Profil-Kelulusan-Paripurna-Alumni-TUMBUH.md](./P4-06-01-Profil-Kelulusan-Paripurna-Alumni-TUMBUH.md)**: Profil Kelulusan Paripurna Alumni (4 Pilar: Muttaqin, Beradab, Qudwah, & Khidmah).
 * 📄 **[P4-06-02-Ambang-Batas-Kompetensi-Minimal-Kelulusan.md](./P4-06-02-Ambang-Batas-Kompetensi-Minimal-Kelulusan.md)**: Ambang Batas Minimum Kelulusan (Ibadah, Hafalan Mutqin, Jenjang J4, & Proyek Khidmah).
 * 📄 **[P4-06-03-Sistem-Sertifikasi-dan-Transkrip-Karakter-PBIS.md](./P4-06-03-Sistem-Sertifikasi-dan-Transkrip-Karakter-PBIS.md)**: Dual Certification System (Ijazah Formal & Transkrip Portofolio Karakter PBIS Terverifikasi QR-Code).

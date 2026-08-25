@@ -28,8 +28,8 @@
   - [4. Rekayasa Laporan Naratif Deskriptif Beradab & Transformasi Kemitraan Tiga Pihak (Santri-Guru-Wali)](#4-rekayasa-laporan-naratif-deskriptif-beradab--transformasi-kemitraan-tiga-pihak-santri-guru-wali)
   - [5. Kasuistika Lapangan: Kasus Rapor Huruf Memicu Kemarahan Orang Tua & Resolusi Laporan Naratif](#5-kasuistika-lapangan-kasus-rapor-huruf-memicu-kemarahan-orang-tua--resolusi-laporan-naratif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-portofolio-pertumbuhan-formatif-pesantren-tumbuh)
-  - [2. Matriks Struktur Portofolio Karakter Digital Santri TUMBUH (E-Portfolio Architecture)](#2-matriks-struktur-portofolio-karakter-digital-santri-tumbuh-e-portfolio-architecture)
+  - [1. Eksplanasi Teoretis Prinsip Portofolio Pertumbuhan Formatif Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-portofolio-pertumbuhan-formatif-pesantren-tumbuh)
+  - [2. Matriks Struktur Portofolio Karakter Digital Santri dalam sistem TUMBUH (E-Portfolio Architecture)](#2-matriks-struktur-portofolio-karakter-digital-santri-tumbuh-e-portfolio-architecture)
   - [3. Template Baku Laporan Naratif Karakter Santri untuk Orang Tua (Narrative Progress Report)](#3-template-baku-laporan-naratif-karakter-santri-untuk-orang-tua-narrative-progress-report)
   - [4. Protokol Konferensi Portofolio Tiga Pihak (Student-Led Conference SOP)](#4-protokol-konferensi-portofolio-tiga-pihak-student-led-conference-sop)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
@@ -111,7 +111,7 @@ TUMBUH merekonstruksi format rapor dan konferensi evaluasi:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Portofolio Pertumbuhan Formatif Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Portofolio Pertumbuhan Formatif Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan dokumentasi perkembangan ke dalam **Arsitektur Tiga Sayap Portofolio Formatif (*Arkan al-Milaf at-Tarbawiy*)**:
 
@@ -136,7 +136,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Struktur Portofolio Karakter Digital Santri TUMBUH (E-Portfolio Architecture)
+### 2. Matriks Struktur Portofolio Karakter Digital Santri dalam sistem TUMBUH (E-Portfolio Architecture)
 
 | Komponen Portofolio | Isi Artefak Bukti Otentik | Fungsi Pedagogis bagi Santri & Wali |
 | :--- | :--- | :--- |
@@ -248,8 +248,8 @@ Prinsip portofolio pertumbuhan formatif ini membawa implikasi agung bagi peradab
 [^4]: Barrett, H. C. (2007), *Journal of Adolescent & Adult Literacy*, hlm. 436–449; Paulson, F. L., et al. (1991).  
 [^5]: Black, P., & Wiliam, D. (1998), *Phi Delta Kappan*, hlm. 139–148; Bandura, A. (1997).  
 [^6]: Dokumentasi Pelaksanaan Student-Led Conferences dan Resolusi Konflik Orang Tua PBIS TUMBUH, 2026.  
-[^7]: Master Blueprint Arsitektur E-Portfolio Digital Santri TUMBUH, 2026.  
-[^8]: Template Baku Laporan Naratif Deskriptif Karakter Santri TUMBUH, 2026.  
+[^7]: Master Blueprint Arsitektur E-Portfolio Digital Santri dalam sistem TUMBUH, 2026.  
+[^8]: Template Baku Laporan Naratif Deskriptif Karakter Santri dalam sistem TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Student-Led Conferences Tiga Pihak TUMBUH, 2026.  
 [^10]: Deklarasi Pemuliaan Evaluasi Formatif Berbasis Portofolio Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

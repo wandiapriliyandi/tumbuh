@@ -96,7 +96,7 @@ Implementasi Parent Portal yang terintegrasi dengan SIM Intizham menghasilkan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-07-03: SPESIFIKASI DAN FITUR PARENT PORTAL DIGITAL APP** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-07-03: SPESIFIKASI DAN FITUR PARENT PORTAL DIGITAL APP** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -149,5 +149,5 @@ flowchart TD
 
 [^1]: Prinsip School Transparency dan dampak akses informasi terhadap keterlibatan orang tua, Epstein (1995, hlm. 708).
 [^2]: Standar privasi data pendidikan anak dan prinsip perlindungan data pribadi, UU No. 27/2022 (Pasal 3).
-[^3]: Studi kasus notifikasi otomatis Parent Portal mencegah kepanikan dan membangun kepercayaan Pesantren TUMBUH (2026).
+[^3]: Studi kasus notifikasi otomatis Parent Portal mencegah kepanikan dan membangun kepercayaan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak implementasi Parent Portal terintegrasi terhadap Trust Index dan keterlibatan orang tua (2026).

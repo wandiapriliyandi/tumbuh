@@ -1,5 +1,5 @@
 # P8-04-01: METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI
-## *Monograf Riset Akademik: Standarisasi Metodologi Coaching Karakter Berbasis Adaptasi GROW Model Islami (Goal, Reality, Options, Will & Tawakkal), Rekayasa Pertanyaan Pemantik Reflektif Socratic, dan Penumbuhan Otonomi Adab Mandiri (Islamic GROW Character Coaching Methodology, Socratic Reflective Inquiry, & Autonomous Character Agency / Form COA-GROW), Integrasi Doktrin 'Al-Istinbāth wal Istisyārah fin-Nafs' Turats Klasik dengan Whitmore Performance Coaching, Self-Determination Theory Ryan & Deci, Serta Pedagogi Terapan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Coaching Karakter Berbasis Adaptasi GROW Model Islami (Goal, Reality, Options, Will & Tawakkal), Rekayasa Pertanyaan Pemantik Reflektif Socratic, dan Penumbuhan Otonomi Adab Mandiri (Islamic GROW Character Coaching Methodology, Socratic Reflective Inquiry, & Autonomous Character Agency / Form COA-GROW), Integrasi Doktrin 'Al-Istinbāth wal Istisyārah fin-Nafs' Turats Klasik dengan Whitmore Performance Coaching, Self-Determination Theory Ryan & Deci, Serta Pedagogi Terapan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-04-01/MONOGRAF-RISET-COACHING-GROW-ISLAMI/2026`  
 **Domain**: `08 Integrated Approaches` > `04 Coaching` (Sub-Modul 01: *Islamic GROW Character Coaching Methodology*)  
@@ -110,7 +110,7 @@ Peralihan dari pendekatan direktif ke metodologi coaching GROW Islami menghasilk
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-04-01: METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-04-01: METODOLOGI COACHING KARAKTER GROW MODEL ISLAMI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -163,5 +163,5 @@ flowchart TD
 
 [^1]: Grant mengenai meta-analisis efektivitas pendekatan coaching terhadap pencapaian tujuan dan peningkatan performa individu, Grant (2014, hlm. 260).
 [^2]: Hadits Musnad Ahmad mengenai metodologi dialog sokratik dan pertanyaan pemantik Rasulullah SAW kepada pemuda, Musnad Ahmad No. 22211.
-[^3]: Studi kasus penerapan sesi coaching GROW Islami mentransformasi kedisiplinan fajar santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan sesi coaching GROW Islami mentransformasi kedisiplinan fajar santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penguatan internal locus of control terhadap keberlanjutan motivasi belajar dan hafalan santri (2026).

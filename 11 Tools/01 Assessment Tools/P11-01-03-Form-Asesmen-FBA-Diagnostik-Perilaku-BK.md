@@ -1,5 +1,5 @@
 # P11-01-03: FORM ASESMEN FBA DIAGNOSTIK PERILAKU BK
-## *Monograf Riset Akademik: Standarisasi Formulir Functional Behavior Assessment Diagnostik Perilaku Bimbingan Konseling (Clinical Functional Behavioral Assessment & Diagnostic Intake Tool), Analisis Kontinjensi Tiga Elemen ABC dan Identifikasi Empat Fungsi Perilaku Maladaptif Santri Tier 3 (Antecedent, Behavior, Consequence, & Hypothesized Behavioral Functions), Serta Penyusunan Rencana Intervensi Perilaku Positif (Standardized FBA Form, BIP Protocol, & Behavior Replacement / Form TOOL-FBADiagnostic), Integrasi Doktrin 'Tasykhīsh Amrādhir Rūh wa At-Tabayyun' Turats Klasik dengan Robert Horner & George Sugai SW-PBIS FBA Matrix, O'Neill Functional Assessment Protocols, Serta Sistem Konseling Klinis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Formulir Functional Behavior Assessment Diagnostik Perilaku Bimbingan Konseling (Clinical Functional Behavioral Assessment & Diagnostic Intake Tool), Analisis Kontinjensi Tiga Elemen ABC dan Identifikasi Empat Fungsi Perilaku Maladaptif Santri Tier 3 (Antecedent, Behavior, Consequence, & Hypothesized Behavioral Functions), Serta Penyusunan Rencana Intervensi Perilaku Positif (Standardized FBA Form, BIP Protocol, & Behavior Replacement / Form TOOL-FBADiagnostic), Integrasi Doktrin 'Tasykhīsh Amrādhir Rūh wa At-Tabayyun' Turats Klasik dengan Robert Horner & George Sugai SW-PBIS FBA Matrix, O'Neill Functional Assessment Protocols, Serta Sistem Konseling Klinis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-01-03/MONOGRAF-RISET-FORM-FBA-DIAGNOSTIK/2026`  
 **Domain**: `11 Tools` > `01 Assessment Tools` (Sub-Modul 03: *Clinical FBA Diagnostic & Tier 3 Assessment Tools*)  
@@ -102,7 +102,7 @@ IV. RENCANA PERILAKU PENGGANTI (BEHAVIOR REPLACEMENT PLAN / BIP)
 2. Modifikasi Lingkungan (Antecedent): Menurunkan target hafalan harian menjadi 2 bait/hari (Scaffolding).
 3. Respon Konsekuensi Baru (C)       : Memberikan pujian tulus privat setiap Faris menyelesaikan 1 bait.
 
-STATUS PERSETUJUAN: Terverifikasi oleh Kepala BK Pesantren TUMBUH (Ust. Dr. Fahmi Basalamah)
+STATUS PERSETUJUAN: Terverifikasi oleh Kepala BK Ekosistem Pesantren Berbasis TUMBUH (Ust. Dr. Fahmi Basalamah)
 ====================================================================================================
 ```
 
@@ -123,7 +123,7 @@ Penerapan *Form Asesmen FBA Diagnostik Perilaku BK* mentransformasikan layanan b
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-01-03: FORM ASESMEN FBA DIAGNOSTIK PERILAKU BK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-01-03: FORM ASESMEN FBA DIAGNOSTIK PERILAKU BK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -176,6 +176,6 @@ flowchart TD
 
 [^1]: Robert H. Horner & George Sugai mengenai kekeliruan fatal pendekatan disiplin reaktif dan pentingnya Functional Behavior Assessment dalam School-Wide PBIS, Horner & Sugai (2000, hlm. 8).
 [^2]: Robert E. O'Neill et al. mengenai metodologi analisis kontinjensi Antecedent-Behavior-Consequence (ABC) dalam merancang intervensi perilaku yang efektif, O'Neill et al. (1997, hlm. 14).
-[^3]: Studi kasus penerapan instrumen FBA dalam mendiagnosa fungsi perilaku agresif santri dan merumuskan intervensi BIP di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen FBA dalam mendiagnosa fungsi perilaku agresif santri dan merumuskan intervensi BIP di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Standar operasional prosedur pelaksanaan asesmen klinis FBA terpadu di lingkungan bimbingan konseling pesantren (2026).
 [^5]: Dampak integrasi prinsip Tabayyun Qur'ani dengan analisis perilaku terapan terhadap penurunan residivisme pelanggaran berat santri (2026).

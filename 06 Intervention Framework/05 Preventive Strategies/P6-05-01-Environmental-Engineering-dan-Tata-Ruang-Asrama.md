@@ -1,5 +1,5 @@
 # P6-05-01: ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA
-## *Monograf Riset Akademik: Rekayasa Lingkungan Fisik, Desain Tata Ruang Asrama Ramah Adab, dan Pencegahan Kejahatan Melalui Desain Lingkungan (Environmental Engineering, Dormitory Space Design, & Crime Prevention Through Environmental Design CPTED / Form ETA-TataRuang), Integrasi Doktrin 'Saddudz Dzari'ah wa Tahsīnul Masākin' Turats Klasik dengan Newman's Defensible Space Theory, CPTED Multi-Tier, Serta Bi'ah Shalihah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Lingkungan Fisik, Desain Tata Ruang Asrama Ramah Adab, dan Pencegahan Kejahatan Melalui Desain Lingkungan (Environmental Engineering, Dormitory Space Design, & Crime Prevention Through Environmental Design CPTED / Form ETA-TataRuang), Integrasi Doktrin 'Saddudz Dzari'ah wa Tahsīnul Masākin' Turats Klasik dengan Newman's Defensible Space Theory, CPTED Multi-Tier, Serta Bi'ah Shalihah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-05-01/MONOGRAF-RISET-ENVIRONMENTAL-ENGINEERING/2026`  
 **Domain**: `06 Intervention Framework` > `05 Preventive Strategies` (Sub-Modul 01: *Environmental Engineering & Dormitory Space Design*)  
@@ -171,7 +171,7 @@ flowchart TD
 
 ### 2. Dekomposisi 4 Prinsip CPTED Pesantren: Natural Surveillance, Territoriality, Access Control, & Maintenance
 
-| Prinsip CPTED | Implementasi Konkret di Pesantren TUMBUH | Larangan Arsitektur (Pantangan) |
+| Prinsip CPTED | Implementasi Konkret di Ekosistem Pesantren Berbasis TUMBUH | Larangan Arsitektur (Pantangan) |
 | :--- | :--- | :--- |
 | **1. Natural Surveillance** | Pos musyrif menghadap ke koridor utama; koridor lurus terang benderang 24 jam.| Lorong berkelok-kelok gelap tanpa penerangan memadai. |
 | **2. Territoriality** | Pembagian kamar per jenjang kematangan; maksimal 8 santri per kamar.| Memasukkan 20–30 santri lintas usia dalam satu bangsal besar. |
@@ -217,7 +217,7 @@ Penerapan rekayasa lingkungan Form ETA ini menghadirkan keunggulan peradaban:
 
 1. **Mewujudkan Pencegahan Kejahatan Tanpa Menimbulkan Suasana Penjara (*Seamless Crime Prevention*)**: Asrama terasa indah, lapang, dan bersahabat, namun secara sistemik menutup rapat celah perilaku menyimpang.
 2. **Menurunkan Tingkat Stres dan Meningkatkan Kualitas Istirahat Santri (*Restorative Living Climate*)**: Ventilasi sejuk dan pencahayaan higienis menjamin kesehatan fisik dan kejernihan akal santri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Saddudz Dzarā'i' dan CPTED Defensible Space**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan arsitektur pengasuhan paling aman di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Saddudz Dzarā'i' dan CPTED Defensible Space**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan arsitektur pengasuhan paling aman di dunia.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan rekayasa lingkungan Form ETA ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-05-01: ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-05-01: ENVIRONMENTAL ENGINEERING DAN TATA RUANG ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -293,8 +293,8 @@ flowchart TD
 [^1]: Teori Defensible Space Oscar Newman mengenai pengaruh tata ruang arsitektur terhadap pencegahan kejahatan, Newman (1972, hlm. 48).  
 [^2]: Prinsip Crime Prevention Through Environmental Design (CPTED) dalam fasilitas pendidikan, Crowe (2000, hlm. 34) & Jeffery (1971, hlm. 18).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat* (2003, Jilid 4, hlm. 198), bab kewajiban menutup sebab-sebab fisik lingkungan yang menghantarkan kepada kerusakan moral.  
-[^4]: Protokol rekayasa arsitektur CPTED koridor toilet dan eliminasi perundungan Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan environmental engineering dan tata ruang asrama di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekayasa arsitektur CPTED koridor toilet dan eliminasi perundungan Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan environmental engineering dan tata ruang asrama di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

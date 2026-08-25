@@ -16,7 +16,7 @@ Namun, di banyak lingkungan asrama, kebocoran waktu (*time leakage*) menjadi pen
 * **Obrolan Hampa (*Laghow / Idle Gossip*)**: Menghabiskan waktu berjam-jam ba'da ashar atau ba'da isya hanya untuk duduk melamun di teras atau mengobrolkan hal-hal yang tidak bernilai ilmu maupun pahala;
 * **Budaya "Jam Karet"**: Terbiasa datang terlambat ke masjid atau ke ruang madrasah tanpa merasa bersalah (*punctuality deficit*).
 
-Dalam Ekosistem TUMBUH, **Haritsun 'ala Waqtihi** (Sangat Menjaga dan Menghargai Waktu) adalah tanda kematangan akal dan keimanan. Santri TUMBUH dilatih untuk menjadi tuan atas waktunya: mampu membagi waktu secara cerdas (*Time Blocking*), memprioritaskan aktivitas utama di atas aktivitas sekunder, dan memanfaatkan waktu-waktu sela (*micro-time*) untuk memperbanyak dzikir, muroja'ah hafalan, dan karya produktif.
+Dalam Ekosistem TUMBUH, **Haritsun 'ala Waqtihi** (Sangat Menjaga dan Menghargai Waktu) adalah tanda kematangan akal dan keimanan. Santri dalam sistem TUMBUH dilatih untuk menjadi tuan atas waktunya: mampu membagi waktu secara cerdas (*Time Blocking*), memprioritaskan aktivitas utama di atas aktivitas sekunder, dan memanfaatkan waktu-waktu sela (*micro-time*) untuk memperbanyak dzikir, muroja'ah hafalan, dan karya produktif.
 
 ```mermaid
 graph TD
@@ -81,7 +81,7 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 2.9.2:</b> Matriks Empat Kuadran Waktu dalam Kehidupan Santri Pesantren.</sub></div>
 
-Santri TUMBUH dilatih untuk mengalokasikan 70% energinya di **Kuadran II**: aktivitas yang tidak mendesak namun sangat menentukan kualitas masa depannya (seperti muroja'ah rutin, qiyamul lail, dan menjaga kesehatan).
+Santri dalam sistem TUMBUH dilatih untuk mengalokasikan 70% energinya di **Kuadran II**: aktivitas yang tidak mendesak namun sangat menentukan kualitas masa depannya (seperti muroja'ah rutin, qiyamul lail, dan menjaga kesehatan).
 
 ---
 

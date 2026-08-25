@@ -17,7 +17,7 @@ graph TD
     
     Vol2 --> B1["BAB 01: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah (4 Sub-Bab)<br/>(Whole-Child, 5 Dimensi Kapasitas, CASEL SEL, & Self-Determination Theory)"]
     
-    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri TUMBUH (10 Sub-Bab Mandiri)<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
+    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH (10 Sub-Bab Mandiri)<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
     
     Vol2 --> B3["BAB 03: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)<br/>(Gap Limbik-PFC Usia 12-18 Thn, Krisis Identitas, & Scaffolding Musyrif)"]
     
@@ -37,7 +37,7 @@ graph TD
    - 1.2 Lima Dimensi Kapasitas Holistik Santri (*Ruhaniyyah, Wijdaniyyah, Aqliyyah, Jasadiyyah, Mahariyyah*)
    - 1.3 Integrasi Taksonomi Adab Turats dengan 5 Kompetensi Inti CASEL SEL
    - 1.4 Teori Penentuan Diri (*Self-Determination Theory*) & Rekayasa Lingkungan Asrama 24-Jam
-2. **BAB 2: Profil 10 Muwashafat Karakter Santri TUMBUH (10 Sub-Bab Mandiri)**
+2. **BAB 2: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH (10 Sub-Bab Mandiri)**
    - 2.1 *Salimul Aqidah* (Aqidah Bersih, Pemurnian Tauhid, & Pencegahan Riya')
    - 2.2 *Shahihul Ibadah* (Ibadah Benar Sesuai Sunnah & Khusyuk 24-Jam)
    - 2.3 *Matinul Khuluq* (Akhlak Kokoh, Komunikasi Nirkekerasan, & Hifzhul Lisan)
@@ -382,7 +382,7 @@ graph TD
     SantriIndividu --> DimJ["Dimensi Fisik-Motorik: Skor 80 (Bugar, Kamar Bersih Bebas Skabies)"]
     SantriIndividu --> DimM["Dimensi Vokasional: Skor 95 (Loker Teratur 5S, Mandiri Finansial)"]
 ```
-<div align="center"><sub><b>Gambar 1.2.4:</b> Contoh Profil Radar Pertumbuhan Kapasitas Multi-Dimensi Santri TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.2.4:</b> Contoh Profil Radar Pertumbuhan Kapasitas Multi-Dimensi Santri dalam sistem TUMBUH.</sub></div>
 
 Melalui pemetaan radar di atas:
 1. **Tidak Ada Santri yang Dianggap "Gagal"**: Santri seperti Ahmad yang mungkin nilai ujian nahwunya masih rata-rata (skor 70), tidak akan dicap bodoh atau dihina, karena sistem mengakui keunggulan luar biasanya dalam empati sosial (skor 90) dan kemandirian hidup (skor 95).
@@ -473,7 +473,7 @@ Akibatnya, santri yang terlatih SEL tidak mudah meledak amarahnya saat diprovoka
 
 ### III. Matriks Komparasi: Menghubungkan Teks Kitab Kuning dengan Kompetensi CASEL
 
-Tabel berikut menyajikan dekonstruksi mendalam dan pemetaan komparatif antara teks dalil Turats ulama dengan indikator operasional CASEL SEL di pesantren TUMBUH:
+Tabel berikut menyajikan dekonstruksi mendalam dan pemetaan komparatif antara teks dalil Turats ulama dengan indikator operasional CASEL SEL dalam sistem TUMBUH di pesantren:
 
 | Kompetensi CASEL SEL | Rujukan Turats & Teks Arab Syar'i | Konseptualisasi Epistemologis | Indikator Perilaku Faktual di Asrama & Madrasah |
 | :--- | :--- | :--- | :--- |
@@ -623,7 +623,7 @@ Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena
 #### 3. Kebutuhan Keterhubungan Relasional (*Relatedness*) $\equiv$ Kehangatan *Ukhuwah* & Pengasuhan
 Seorang anak yang terpisah ratusan kilometer dari pelukan ayah dan ibunya mengalami kerentanan relasional yang sangat tinggi (*attachment disruption*). Jika di pesantren ia hanya menjumpai pengurus yang berwajah dingin dan suka membentak, jiwanya akan merasa terasing (*alienated*). 
 
-Sebagaimana dicontohkan oleh Rasulullah SAW ketika mengasuh Anas bin Malik RA selama sepuluh tahun tanpa sekalipun membentak atau mencelanya, musyrif TUMBUH hadir sebagai figur lekat pengganti orang tua (*In Loco Parentis*) yang mendengarkan, merangkul, dan memvalidasi emosi santri.
+Sebagaimana dicontohkan oleh Rasulullah SAW ketika mengasuh Anas bin Malik RA selama sepuluh tahun tanpa sekalipun membentak atau mencelanya, musyrif dalam sistem TUMBUH hadir sebagai figur lekat pengganti orang tua (*In Loco Parentis*) yang mendengarkan, merangkul, dan memvalidasi emosi santri.
 
 ---
 
@@ -705,7 +705,7 @@ $$\text{إِنَّ الطِّبَاعَ سَرَّاقَةٌ، وَالنُّف�
 
 Kaidah *Innat Thiba'a Sarraqah* membuktikan kearifan ulama: karakter tidak bisa ditanamkan di ruang hampa yang terisolasi. Jika asrama berantakan, kotor, dan penuh teror senioritas, maka jiwa santri akan "mencuri" tabiat kekerasan dan kekacauan tersebut. Sebaliknya, ketika asrama ditata bersih, damai, penuh kasih sayang, dan sarat dengan dorongan adab, maka jiwa santri secara spontan menyerap keteraturan dan kemuliaan adab menjadi tabiat permanennya.
 
-Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini, kita telah membangun landasan filosofis, taksonomis, sosio-emosional, dan ekologis yang sangat kokoh. Seluruh instrumen ini siap menopang pembahasan inti pada **Bab 02: Profil 10 Muwashafat Karakter Santri TUMBUH**.
+Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini, kita telah membangun landasan filosofis, taksonomis, sosio-emosional, dan ekologis yang sangat kokoh. Seluruh instrumen ini siap menopang pembahasan inti pada **Bab 02: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH**.
 
 ---
 
@@ -1182,7 +1182,7 @@ Di ruang kelas madrasah, santri diajarkan untuk menghafal definisi tanpa diajak 
 * Sangat mudah termakan hoaks, fitnah, dan teori konspirasi di media digital karena ketiadaan nalar verifikasi (*tabayyun*);
 * Gagap dan minder saat harus berdialog dengan perkembangan sains dan tantangan peradaban modern.
 
-Dalam Ekosistem TUMBUH, **Mutsaqqoful Fikri** (Berwawasan Luas, Cerdas, dan Berpikir Kritis) ditegakkan sebagai manifestasi dari perintah agung *Tafakkur* dan *Tadabbur*. Santri TUMBUH dididik untuk memiliki kedalaman ilmu syariat yang kokoh (*Tafaqquh Fiddin*), sekaligus memiliki keterbukaan nalar intelektual untuk menyerap ilmu pengetahuan modern, menganalisis fenomena secara logis, dan memfilter informasi dengan filter *Tabayyun* nabawi.
+Dalam Ekosistem TUMBUH, **Mutsaqqoful Fikri** (Berwawasan Luas, Cerdas, dan Berpikir Kritis) ditegakkan sebagai manifestasi dari perintah agung *Tafakkur* dan *Tadabbur*. Santri dalam sistem TUMBUH dididik untuk memiliki kedalaman ilmu syariat yang kokoh (*Tafaqquh Fiddin*), sekaligus memiliki keterbukaan nalar intelektual untuk menyerap ilmu pengetahuan modern, menganalisis fenomena secara logis, dan memfilter informasi dengan filter *Tabayyun* nabawi.
 
 ```mermaid
 graph TD
@@ -1645,7 +1645,7 @@ Namun, di banyak lingkungan asrama, kebocoran waktu (*time leakage*) menjadi pen
 * **Obrolan Hampa (*Laghow / Idle Gossip*)**: Menghabiskan waktu berjam-jam ba'da ashar atau ba'da isya hanya untuk duduk melamun di teras atau mengobrolkan hal-hal yang tidak bernilai ilmu maupun pahala;
 * **Budaya "Jam Karet"**: Terbiasa datang terlambat ke masjid atau ke ruang madrasah tanpa merasa bersalah (*punctuality deficit*).
 
-Dalam Ekosistem TUMBUH, **Haritsun 'ala Waqtihi** (Sangat Menjaga dan Menghargai Waktu) adalah tanda kematangan akal dan keimanan. Santri TUMBUH dilatih untuk menjadi tuan atas waktunya: mampu membagi waktu secara cerdas (*Time Blocking*), memprioritaskan aktivitas utama di atas aktivitas sekunder, dan memanfaatkan waktu-waktu sela (*micro-time*) untuk memperbanyak dzikir, muroja'ah hafalan, dan karya produktif.
+Dalam Ekosistem TUMBUH, **Haritsun 'ala Waqtihi** (Sangat Menjaga dan Menghargai Waktu) adalah tanda kematangan akal dan keimanan. Santri dalam sistem TUMBUH dilatih untuk menjadi tuan atas waktunya: mampu membagi waktu secara cerdas (*Time Blocking*), memprioritaskan aktivitas utama di atas aktivitas sekunder, dan memanfaatkan waktu-waktu sela (*micro-time*) untuk memperbanyak dzikir, muroja'ah hafalan, dan karya produktif.
 
 ```mermaid
 graph TD
@@ -1710,7 +1710,7 @@ graph TD
 ```
 <div align="center"><sub><b>Gambar 2.9.2:</b> Matriks Empat Kuadran Waktu dalam Kehidupan Santri Pesantren.</sub></div>
 
-Santri TUMBUH dilatih untuk mengalokasikan 70% energinya di **Kuadran II**: aktivitas yang tidak mendesak namun sangat menentukan kualitas masa depannya (seperti muroja'ah rutin, qiyamul lail, dan menjaga kesehatan).
+Santri dalam sistem TUMBUH dilatih untuk mengalokasikan 70% energinya di **Kuadran II**: aktivitas yang tidak mendesak namun sangat menentukan kualitas masa depannya (seperti muroja'ah rutin, qiyamul lail, dan menjaga kesehatan).
 
 ---
 
@@ -1845,7 +1845,7 @@ Sebagai puncak penempaan sepuluh karakter, lembaga merancang program aksi:
 1. **Program Inkubasi Pengabdian Santri Akhir (*Tahun Khidmah*)**: Santri kelas akhir diwajibkan menjalani masa khidmah dakwah dan pelayanan sosial di pesantren cabang atau masyarakat pedalaman sebelum diwisuda.
 2. **Ekspedisi Sosial-Ekologis Berkah Desa**: Setiap liburan semester, santri diterjunkan ke desa-desa sekitar pondok untuk mengajar TPA gratis, merenovasi fasilitas umum desa, dan menyelenggarakan pengobatan gratis bersama tim Poskestren.
 
-Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri TUMBUH pada Bab 02 ini**, arsitektur kurikulum pembinaan karakter telah berdiri lengkap, utuh, dan operasional. Kita siap melangkah ke **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** untuk membedah dinamika biologis dan neurosains transisi usia 12–18 tahun santri.
+Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri dalam sistem TUMBUH pada Bab 02 ini**, arsitektur kurikulum pembinaan karakter telah berdiri lengkap, utuh, dan operasional. Kita siap melangkah ke **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** untuk membedah dinamika biologis dan neurosains transisi usia 12–18 tahun santri.
 
 ---
 
@@ -2677,7 +2677,7 @@ graph LR
         JuniorT1 --> Generasi["Melahirkan Siklus Kebaikan Berkelanjutan Bebas Dendam"]
     end
 ```
-<div align="center"><sub><b>Gambar 4.4.2:</b> Siklus Keberkahan Takaful Antargenerasi Santri TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 4.4.2:</b> Siklus Keberkahan Takaful Antargenerasi Santri dalam sistem TUMBUH.</sub></div>
 
 **Syaikhul Islam Ibnu Taimiyyah** dalam *Al-Hisbah fil Islam*[^3] menegaskan bahwa amar ma'ruf nahi munkar harus ditegakkan di atas tiga landasan: ilmu (*al-'Ilm*), kelembutan (*ar-Rifq*), dan kesabaran (*as-Shabr*). 
 
@@ -2687,7 +2687,7 @@ graph LR
 
 ### Solusi Sistemik TUMBUH: Program Kakak Asuh & Inkubasi Kepemimpinan Khidmah
 
-Di lingkungan pesantren TUMBUH, santri Jenjang J4 menjalankan peran formal:
+Di lingkungan pesantren berbasis sistem TUMBUH, santri Jenjang J4 menjalankan peran formal:
 1. **Duta Pendamping Belajar (*Academic Peer Tutor*)**: Menjadi asisten ustadz dalam membimbing setoran hafalan Quran dan muthala'ah kitab santri T1 dan T2.
 2. **Kepanitiaan Khidmah Komunal**: Mengelola kepanitiaan hari besar Islam, bakti sosial lingkungan sekitar pesantren, dan perawatan kebersihan asrama.
 3. **Pemberian Lencana Teladan Qudwah**: Santri T4 yang menunjukkan integritas istimewa dilantik sebagai Duta Teladan TUMBUH dalam upacara resmi lembaga.
@@ -2825,7 +2825,7 @@ Tabel berikut menyajikan matriks rubrik operasional lintas 5 dimensi kapasitas p
 
 Pakar Positive Behavioral Interventions and Supports (SW-PBIS) **Robert H. Horner & George Sugai**[^2] menekankan pentingnya reliabilitas penilai (*inter-rater reliability*) agar evaluasi perilaku di sekolah berasrama bebas dari bias personal.
 
-Di pesantren TUMBUH:
+Dalam sistem TUMBUH di pesantren:
 * Penentuan kenaikan tangga santri (misalnya dari T1 ke T2, atau dari T2 ke T3) dilakukan melalui **Sidang Dewan Pembina Asrama Triwulanan**.
 * Keputusan kenaikan didasarkan pada triangulasi data: **Logbook Observasi Harian Musyrif + Rekap Wali Kelas Madrasah + Jurnal Refleksi Mandiri Santri**.
 * Santri yang belum memenuhi indikator tidak dihukum atau direndahkan, melainkan diberikan **Dukungan Intervensi Terarah (Tier 2 Mentoring)** pada dimensi yang masih memerlukan penguatan.
@@ -2925,7 +2925,7 @@ Di banyak pondok pesantren tradisional usang, santri kelas akhir kerap kali meng
 * Merasa sebagai "kasta tertinggi" yang bebas dari aturan pondok: boleh bangun terlambat, boleh melanggar jadwal shalat, dan boleh menyuruh adik kelas mencucikan bajunya.
 * Melestarikan tradisi sidang malam ilegal dan pemukulan fisik berkedok "menegakkan disiplin pondok".
 
-Sistem TUMBUH meruntuhkan ilusi kekuasaan feodal ini. Di pesantren TUMBUH:
+Sistem TUMBUH meruntuhkan ilusi kekuasaan feodal ini. Dalam sistem TUMBUH di pesantren:
 * **Semakin tinggi kelas santri, semakin berat tuntutan keteladanan adabnya (*Al-Qudwah bil Qudwah*)**.
 * Santri Tahap 7 tidak diukur dari seberapa keras suaranya membentak junior, melainkan dari **seberapa bersih toilet asrama yang ia bersihkan bersama adik kelasnya dan seberapa lembut sapaannya saat membangunkan santri baru di waktu subuh**.
 
@@ -3146,7 +3146,7 @@ Pakar pembelajaran teman sebaya internasional **Keith J. Topping**[^4] membuktik
 
 ---
 
-### Standar Baku Peran Kakak Asuh di Pesantren TUMBUH
+### Standar Baku Peran Kakak Asuh di Ekosistem Pesantren Berbasis TUMBUH
 
 Setiap santri senior Tahap 7 Penggerak yang ditunjuk sebagai Kakak Asuh menjalankan protokol:
 1. **Penyambutan Hangat (*Welcome Protocol*)**: Membantu membawakan koper santri baru di hari pertama, mengenalkan fasilitas asrama, dan mendoakan keberkahan menuntut ilmu.
@@ -3257,7 +3257,7 @@ Pakar perkembangan manusia **Robert J. Havighurst**[^1] merumuskan bahwa tugas p
 
 Pakar diferensiasi kurikulum **Carol Ann Tomlinson**[^2] menekankan bahwa kurikulum yang efektif harus disesuaikan dengan kesiapan belajar (*readiness*), minat, dan profil belajar peserta didik. 
 
-Tabel berikut menyajikan pemetaan capaian adab berjenjang pada tingkat MTs di pesantren TUMBUH:
+Tabel berikut menyajikan pemetaan capaian adab berjenjang pada tingkat MTs dalam sistem TUMBUH di pesantren:
 
 | Jenjang Kelas | Target Jenjang Kemandirian TUMBUH (J1–J4) | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
 | :--- | :--- | :--- |
@@ -3279,7 +3279,7 @@ Pembagian target capaian usia 12–15 tahun ini sangat selaras dengan arahan par
 
 ### Solusi Sistemik TUMBUH: Buku Panduan Logbook Adab MTs
 
-Di pesantren TUMBUH, setiap santri MTs memegang **Buku Jurnal Adab Harian MTs (*My Daily Adab Log*)**:
+Dalam sistem TUMBUH di pesantren, setiap santri MTs memegang **Buku Jurnal Adab Harian MTs (*My Daily Adab Log*)**:
 * Berisi checklist 7 kebiasaan emas harian: Shalat 5 waktu berjamaah, tilawah 1 juz, loker rapi 5S, qobliyah-ba'diyah, piket kamar, kata-kata santun, dan tidur tepat pukul 22.00 WIB.
 * Diperiksa secara berkala setiap sore oleh Musyrif Asrama dan diparaf oleh Wali Kelas Madrasah, mewujudkan sinergi pengasuhan yang utuh dan terukur.
 
@@ -3363,7 +3363,7 @@ Karakter santri tingkat atas berakar pada kematangan akal budi dan keluasan wawa
 
 ### Solusi Sistemik TUMBUH: Portofolio Karakter & Visi Hidup Santri Akhir
 
-Sebagai syarat kelulusan tingkat MA di pesantren TUMBUH, setiap santri wajib menyusun:
+Sebagai syarat kelulusan tingkat MA dalam sistem TUMBUH di pesantren, setiap santri wajib menyusun:
 1. **Portofolio Capaian Karakter (*Ipsative Adab Portfolio*)**: Rekam jejak pertumbuhan kepribadian santri selama 3 tahun di madrasah dan asrama.
 2. **Karya Tulis Visi Hidup (*My 10-Year Life Vision & Khidmah Blueprint*)**: Naskah komprehensif tentang rencana kontribusi keilmuan, kepemimpinan, dan pengabdian sosial santri bagi umat manusia.
 
@@ -3643,7 +3643,7 @@ Pertanyaan agung ini akan dibedah secara tuntas dan sistematis pada **Buku Volum
 ---
 
 # DAFTAR PUSTAKA BUKU VOLUME 02 EKOSISTEM TUMBUH
-## *Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
+## *Taksonomi Kapasitas & 10 Profil Karakter Santri dalam sistem TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
 
 **Nomor Identifikasi**: `BOOK-SERIES/VOL-02/BIBLIOGRAPHY/2026/08`  
 **Dewan Penelaah**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)  

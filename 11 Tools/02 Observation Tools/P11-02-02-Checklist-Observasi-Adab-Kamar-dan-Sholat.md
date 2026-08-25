@@ -1,5 +1,5 @@
 # P11-02-02: CHECKLIST OBSERVASI ADAB KAMAR DAN SHOLAT
-## *Monograf Riset Akademik: Instrumen Standar Checklist Observasi Adab Kamar dan Sholat Berjamaah Santri (Standardized Behavioral Checklist for Dormitory Room Adab & Congregational Prayer Observation), Arsitektur Pengukuran Indikator Kebersihan Kamar, Kerapian Kasur-Lemari, Khusyu' Sholat, dan Penghormatan Waktu Tenang (Binary Metric Scoring, Inter-Observer Reliability, & Form TOOL-ChecklistAdab), Integrasi Doktrin 'An-Nazhāfah wal Khusyū'' Turats Klasik dengan Alberto-Troutman Applied Behavior Analysis, Serta Sistem Audit Asrama di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Instrumen Standar Checklist Observasi Adab Kamar dan Sholat Berjamaah Santri (Standardized Behavioral Checklist for Dormitory Room Adab & Congregational Prayer Observation), Arsitektur Pengukuran Indikator Kebersihan Kamar, Kerapian Kasur-Lemari, Khusyu' Sholat, dan Penghormatan Waktu Tenang (Binary Metric Scoring, Inter-Observer Reliability, & Form TOOL-ChecklistAdab), Integrasi Doktrin 'An-Nazhāfah wal Khusyū'' Turats Klasik dengan Alberto-Troutman Applied Behavior Analysis, Serta Sistem Audit Asrama di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-02-02/MONOGRAF-RISET-CHECKLIST-ADAB-KAMAR-SHOLAT/2026`  
 **Domain**: `11 Tools` > `02 Observation Tools` (Sub-Modul 02: *Adab & Prayer Observational Checklist Tools*)  
@@ -104,7 +104,7 @@ CATATAN APRESIASI MUSYRIF:
                 EKOSISTEM TUMBUH — STANDAR KUALITAS IBADAH & MASJID 24 JAM
 ====================================================================================================
 WAKTU SHOLAT    : Maghrib & Isya Berjamaah          HARI / TANGGAL: Rabu, 19 Agustus 2026
-LOKASI MASJID   : Masjid Jami' Pesantren TUMBUH     MUSYRIF PANTAU: Ust. Hanif & Ust. Wildan
+LOKASI MASJID   : Masjid Jami' Ekosistem Pesantren Berbasis TUMBUH     MUSYRIF PANTAU: Ust. Hanif & Ust. Wildan
 
 NO | INDIKATOR PENGAMATAN ADAB SHOLAT BERJAMAAH                | YA  | TDK | CATATAN PENGAMATAN MUSYRIF
 ---+-----------------------------------------------------------+-----+-----+-------------------------
@@ -131,7 +131,7 @@ Penggunaan *Checklist Observasi Adab Kamar dan Sholat* mentransformasikan proses
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-02-02: CHECKLIST OBSERVASI ADAB KAMAR DAN SHOLAT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-02-02: CHECKLIST OBSERVASI ADAB KAMAR DAN SHOLAT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -184,5 +184,5 @@ flowchart TD
 
 [^1]: Paul A. Alberto & Anne C. Troutman mengenai pentingnya definisi operasional perilaku dan eliminasi ambiguitas dalam lembar checklist observasi kelas dan asrama, Alberto & Troutman (2013, hlm. 88).
 [^2]: Alberto & Troutman mengenai reliabilitas antar-pengamat (*Inter-Observer Agreement*) dan efektivitas umpan balik deskriptif cepat, Alberto & Troutman (2013, hlm. 112).
-[^3]: Studi kasus pembiasaan kerapian kamar melalui checklist biner dan visual prompts di Pesantren TUMBUH (2026).
+[^3]: Studi kasus pembiasaan kerapian kamar melalui checklist biner dan visual prompts di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penerapan checklist observasi adab kamar dan sholat terhadap peningkatan konsistensi perilaku prososial santri (2026).

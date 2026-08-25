@@ -1,5 +1,5 @@
 # P9-01-02: PROGRAM DIRASAH ISLAMIYAH DAN KAJIAN TURATS
-## *Monograf Riset Akademik: Standarisasi Kurikulum Dirasah Islamiyah Terpadu 24 Jam, Integrasi Kajian Kitab Turats dengan Metodologi Socratic Syarah Kontekstual, dan Penjagaan Sanad Keilmuan Otentik (24-Hour Integrated Islamic Studies Curriculum, Contextualized Turats Hermeneutics & Socratic Exegesis, & Authentic Isnad Preservation / Form PRO-DirasahTurats), Integrasi Doktrin 'Tahqīq at-Turāts wa Ittishāl as-Sanad' Turats Klasik dengan Shulman Pedagogical Content Knowledge (PCK), Ausubel Meaningful Learning Theory, Serta Keilmuan Diniyyah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Kurikulum Dirasah Islamiyah Terpadu 24 Jam, Integrasi Kajian Kitab Turats dengan Metodologi Socratic Syarah Kontekstual, dan Penjagaan Sanad Keilmuan Otentik (24-Hour Integrated Islamic Studies Curriculum, Contextualized Turats Hermeneutics & Socratic Exegesis, & Authentic Isnad Preservation / Form PRO-DirasahTurats), Integrasi Doktrin 'Tahqīq at-Turāts wa Ittishāl as-Sanad' Turats Klasik dengan Shulman Pedagogical Content Knowledge (PCK), Ausubel Meaningful Learning Theory, Serta Keilmuan Diniyyah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-01-02/MONOGRAF-RISET-DIRASAH-ISLAMIYAH-TURATS/2026`  
 **Domain**: `09 Programs` > `01 Core Programs` (Sub-Modul 02: *24-Hour Integrated Islamic Studies & Turats Curriculum*)  
@@ -95,7 +95,7 @@ Saya berwasiat kepada pemegang ijazah ini untuk senantiasa bertakwa kepada Allah
 dan keramaian, mengamalkan ilmu yang dipelajari, menjaga adab thalabul 'ilmi, dan tidak menyombongkan
 diri di hadapan sesama penuntut ilmu.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Dirasah Islamiyah & Pengampu Sanad,
 
 (K.H. Dr. Mansyur Al-Hafizh, M.A. — Al-Mujiz)
@@ -112,7 +112,7 @@ Integrasi kajian turats berbasis metodologi *Socratic Syarah* dan *Pedagogical C
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-01-02: PROGRAM DIRASAH ISLAMIYAH DAN KAJIAN TURATS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-01-02: PROGRAM DIRASAH ISLAMIYAH DAN KAJIAN TURATS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -165,5 +165,5 @@ flowchart TD
 
 [^1]: Lee Shulman mengenai Pedagogical Content Knowledge (PCK) dan kapasitas guru mentransformasi konten keilmuan secara didaktis, Shulman (1987, hlm. 8).
 [^2]: David Ausubel mengenai teori pembelajaran bermakna (meaningful learning) dan struktur kognitif advance organizers, Ausubel (1968, hlm. 34).
-[^3]: Studi kasus penerapan Socratic Syarah fikih turats menyelesaikan perdebatan muamalah digital santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Socratic Syarah fikih turats menyelesaikan perdebatan muamalah digital santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengajaran turats berjenjang terhadap pembentukan nalar kritis syar'i dan pencegahan radikalisme pemikiran (2026).

@@ -189,7 +189,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-01: KETERHUBUNGAN KAUSALITAS FONDASI RUHIYAH TERHADAP STABILITAS MORAL SOSIAL** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-01: KETERHUBUNGAN KAUSALITAS FONDASI RUHIYAH TERHADAP STABILITAS MORAL SOSIAL** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -260,7 +260,7 @@ flowchart TD
 [^4]: Lickona, T. (1991), *Educating for Character*, Bantam Books.  
 [^5]: Ibnu 'Athaillah, *Al-Hikam*, Hikmah No. 45 tentang tanda-tanda amal yang diterima.  
 [^6]: Post, S. G. (2005), *International Journal of Behavioral Medicine*, hlm. 66–77.  
-[^7]: Laporan Kasuistika Mediasi Restoratif Konflik Kamar Asrama Pesantren TUMBUH, 2026.  
+[^7]: Laporan Kasuistika Mediasi Restoratif Konflik Kamar Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Panduan Integrasi Ibadah dan Perilaku Sosial Santri, Divisi Bimbingan Konseling TUMBUH, 2026.  
 [^9]: Protokol Penanganan Kasus Moral Disengagement Santri, Pusat Bimbingan Adab, 2026.  
 [^10]: Panduan Pelaksanaan Halaqah Terpadu Ukhuwah Asrama, Biro Pengasuhan TUMBUH, 2026.

@@ -1,5 +1,5 @@
 # P9-03-03: PROGRAM MUSYAWARAH RESTORATIF OSIS DAN DEWAN SANTRI
-## *Monograf Riset Akademik: Standarisasi Program Musyawarah Restoratif Dwi-Pekanan Organisasi Santri (OSIS / Dewan Santri J4), Metodologi Penyelarasan Aspirasi Egaliter Lintas Angkatan, dan Refleksi Akuntabilitas Qudwah Pengurus (Bi-Weekly Restorative Student Council Council, Cross-Cohort Egalitarian Deliberation, & Qudwah Accountability Auditing / Form PRO-MusyawarahOSIS), Integrasi Doktrin 'Wa Amruhum Syūrā Bainahum wal Mu'ātibah bil-Ihsān' Turats Klasik dengan Habermas Communicative Action Theory, Restorative Leadership in Schools, Serta Tata Kelola Demokrasi Islami di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Musyawarah Restoratif Dwi-Pekanan Organisasi Santri (OSIS / Dewan Santri J4), Metodologi Penyelarasan Aspirasi Egaliter Lintas Angkatan, dan Refleksi Akuntabilitas Qudwah Pengurus (Bi-Weekly Restorative Student Council Council, Cross-Cohort Egalitarian Deliberation, & Qudwah Accountability Auditing / Form PRO-MusyawarahOSIS), Integrasi Doktrin 'Wa Amruhum Syūrā Bainahum wal Mu'ātibah bil-Ihsān' Turats Klasik dengan Habermas Communicative Action Theory, Restorative Leadership in Schools, Serta Tata Kelola Demokrasi Islami di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-03-03/MONOGRAF-RISET-MUSYAWARAH-RESTORATIF-OSIS/2026`  
 **Domain**: `09 Programs` > `03 Leadership Programs` (Sub-Modul 03: *Restorative Student Council Deliberation Program*)  
@@ -81,7 +81,7 @@ PASAL 3: KEPUTUSAN BERBASIS MASLAHAT AMMAH
 Keputusan diambil berdasarkan musyawarah mufakat yang berlandaskan data faktual SIM Intizham dan
 prinsip kemaslahatan seluruh santri, bukan kepentingan geng/kelompok senior tertentu.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Ketua Pembina OSIS,                                Ketua Dewan Santri Penggerak J4,
 
 (Ust. Fathurrahman, S.Pd.I.)                       (Muhammad Zaid Al-Ghifari - J4)
@@ -107,7 +107,7 @@ Penerapan musyawarah restoratif berbasis *Communicative Action* Habermas melatih
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-03-03: PROGRAM MUSYAWARAH RESTORATIF OSIS DAN DEWAN SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-03-03: PROGRAM MUSYAWARAH RESTORATIF OSIS DAN DEWAN SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Jürgen Habermas mengenai Theory of Communicative Action dan pencapaian konsensus bebas dominasi melalui diskursus rasional, Habermas (1984, hlm. 86).
 [^2]: Tafsir Ibnu Katsir mengenai kemuliaan musyawarah dalam kepemimpinan umat Islam dan keteladanan Khulafaur Rasyidin, Tafsir Ibnu Katsir (2000, Jilid 7, hlm. 211).
-[^3]: Studi kasus penerapan Musyawarah Restoratif OSIS menyelesaikan sengketa fasilitas asrama Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Musyawarah Restoratif OSIS menyelesaikan sengketa fasilitas asrama Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak tata kelola kepengurusan deliberatif terhadap pembentukan kematangan kepemimpinan sipil santri (2026).

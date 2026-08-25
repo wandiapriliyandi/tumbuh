@@ -201,7 +201,7 @@ Penerapan Disiplin Restoratif dan PBIS multi-tier membawa transformasi peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-04-03: PARADIGMA DISIPLIN RESTORATIF DAN ARSITEKTUR MULTI-TIER PBIS (RESTORATIVE DISCIPLINE & SW-PBIS)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-04-03: PARADIGMA DISIPLIN RESTORATIF DAN ARSITEKTUR MULTI-TIER PBIS (RESTORATIVE DISCIPLINE & SW-PBIS)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -269,7 +269,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Disiplin Restoratif dan Arsitektur PBIS Pesantren TUMBUH, *Kritik atas Keadilan Retributif Punitif*, 2026.  
+[^1]: Riset Disiplin Restoratif dan Arsitektur PBIS Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Keadilan Retributif Punitif*, 2026.  
 [^2]: QS. Al-Hujurat [49]: 10.  
 [^3]: Al-Mawardi, *Al-Ahkam as-Sulthaniyyah*, Bab *Ahkam at-Ta'zir*, hlm. 280–310; QS. An-Nisa' [4]: 128.  
 [^4]: Sugai, G., & Horner, R. H. (2002), *Child & Family Behavior Therapy*, hlm. 23–50; Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
@@ -279,7 +279,7 @@ flowchart TD
 [^8]: Horner & Sugai (2015), *School-wide PBIS*, hlm. 82–84.  
 [^9]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 45–70.  
 [^10]: Matriks Tingkatan Kesadaran Penegakan Disiplin (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^11]: Standar Operasional Prosedur Dialog dan Konferensi Restoratif Pesantren TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Dialog dan Konferensi Restoratif Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^12]: Deklarasi Penegakan Disiplin Restoratif Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

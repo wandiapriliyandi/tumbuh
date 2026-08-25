@@ -1,5 +1,5 @@
 # P6-10-04: MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI
-## *Monograf Riset Akademik: Standarisasi Protokol Rujukan Medis Spesialistik, Kemitraan Psikiatri Klinis, dan Perlindungan Hukum Hak Anak di Pesantren (External Psychiatric Referral Protocols, Clinical Psychology Partnerships, & Child Legal Advocacy / Form MRE-Rujukan), Integrasi Doktrin 'Tadāwaw 'Ibādallāh wa Hifzhun Nafs' Turats Klasik dengan Clinical Referral Pathways, Child Protection Legal Frameworks, Serta Keselamatan Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Rujukan Medis Spesialistik, Kemitraan Psikiatri Klinis, dan Perlindungan Hukum Hak Anak di Pesantren (External Psychiatric Referral Protocols, Clinical Psychology Partnerships, & Child Legal Advocacy / Form MRE-Rujukan), Integrasi Doktrin 'Tadāwaw 'Ibādallāh wa Hifzhun Nafs' Turats Klasik dengan Clinical Referral Pathways, Child Protection Legal Frameworks, Serta Keselamatan Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-10-04/MONOGRAF-RISET-RUJUKAN-PSIKIATRI-HUKUM/2026`  
 **Domain**: `06 Intervention Framework` > `10 Case Management` (Sub-Modul 04: *External Psychiatric Referral Protocols & Child Legal Advocacy*)  
@@ -212,7 +212,7 @@ Penerapan manajemen rujukan eksternal Form MRE ini menghadirkan keunggulan perad
 
 1. **Menghapus Tradisi Malapraktik dan Pengabaian Medis di Dunia Pesantren (*Eradication of Medical Neglect*)**: Memadukan kekuatan doa spiritual syar'i dengan keahlian kedokteran medis modern secara harmonis.
 2. **Menjadikan Pesantren Sebagai Lembaga yang Kredibel, Transparan, dan Taat Hukum (*Legal Integrity & Transparency*)**: Melindungi hak asasi santri dan menjauhkan lembaga dari jerat hukum pidana pengabaian anak.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tadāwaw 'Ibādallāh dan Clinical Referral Framework**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan standar keselamatan jiwa dan raga santri terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tadāwaw 'Ibādallāh dan Clinical Referral Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan standar keselamatan jiwa dan raga santri terbaik di dunia.[^5]
 
 ---
 
@@ -220,7 +220,7 @@ Penerapan manajemen rujukan eksternal Form MRE ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-10-04: MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-10-04: MANAJEMEN RUJUKAN EKSTERNAL PSIKIATRI DAN HUKUM SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Pedoman rujukan kesehatan mental mhGAP World Health Organization (WHO) dalam penatalaksanaan kegawatdaruratan psikiatri, WHO (2019, hlm. 22).  
 [^2]: Standar hukum kewajiban pelaporan dan perlindungan anak dalam Undang-Undang Perlindungan Anak No. 35/2014, Republik Indonesia (2014, Pasal 54 & 76C).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Zadul Ma'ad (Ath-Thibb An-Nabawi)* (2008, Jilid 4, hlm. 124), bab kewajiban berobat medis dan ancaman ganti rugi atas orang yang sok mengobati tanpa keahlian.  
-[^4]: Protokol rujukan cepat psikiatri dan penanganan episode psikotik santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen rujukan eksternal psikiatri dan hukum di Pesantren TUMBUH (2026).  
+[^4]: Protokol rujukan cepat psikiatri dan penanganan episode psikotik santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen rujukan eksternal psikiatri dan hukum di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

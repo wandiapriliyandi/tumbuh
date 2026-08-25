@@ -1,5 +1,5 @@
 # P5-03-01: MODEL ASESMEN FORMATIF HARIAN DAN FEEDBACK LOOP
-## *Monograf Riset Akademik: Epistemologi dan Praksis Siklus Evaluasi Formatif Harian Berkelanjutan (Daily Formative Assessment Loop), Integrasi Doktrin Al-Muhasabah ad-Da'imah Turats Klasik dengan Black-Wiliam Assessment for Learning (AfL) & Agile Feedback Loops, Serta Rekayasa Micro-Assessment di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Epistemologi dan Praksis Siklus Evaluasi Formatif Harian Berkelanjutan (Daily Formative Assessment Loop), Integrasi Doktrin Al-Muhasabah ad-Da'imah Turats Klasik dengan Black-Wiliam Assessment for Learning (AfL) & Agile Feedback Loops, Serta Rekayasa Micro-Assessment di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-03-01/MONOGRAF-RISET-MODEL-ASESMEN-FORMATIF-HARIAN/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 01: *Daily Formative Assessment & Feedback Loop Model*)  
@@ -233,7 +233,7 @@ Penerapan model asesmen formatif harian ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-03-01: MODEL ASESMEN FORMATIF HARIAN DAN FEEDBACK LOOP** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-03-01: MODEL ASESMEN FORMATIF HARIAN DAN FEEDBACK LOOP** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -301,8 +301,8 @@ flowchart TD
 [^1]: Kritik terhadap dampak buruk evaluasi sumatif akhir periode yang mengabaikan fungsi formatif, Black & Wiliam (1998, hlm. 142).  
 [^2]: Kerangka kerja implementasi embedded formative assessment dalam pembelajaran, Wiliam (2011, hlm. 38).  
 [^3]: Al-Harits Al-Muhasibi, *Ar-Ri'ayah li Huquqillah* (2003, hlm. 45), bab urgensi muhasabah harian yang kontinu dan teratur.  
-[^4]: Protokol penanganan stagnasi tahfizh dan micro-scaffolding santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model asesmen formatif harian di Pesantren TUMBUH (2026).  
+[^4]: Protokol penanganan stagnasi tahfizh dan micro-scaffolding santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model asesmen formatif harian di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

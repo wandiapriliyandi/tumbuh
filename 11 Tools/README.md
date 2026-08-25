@@ -1,4 +1,4 @@
-# Domain 11: Tools (Kerangka Kerja Instrumen & Perangkat Digital Pesantren TUMBUH)
+# Domain 11: Tools (Kerangka Kerja Instrumen & Perangkat Digital Ekosistem Pesantren Berbasis TUMBUH)
 
 Domain ini memuat instrumen asesmen, rubrik penilaian, templat runbook operasional, serta spesifikasi arsitektur perangkat digital di ekosistem **TUMBUH** yang terbagi dalam **8 Sub-Domain Utama**: Assessment Tools, Observation Tools, Reflection Tools, Coaching Tools, Mentoring Tools, Documentation Tools, Reporting Tools, dan Digital Tools.
 

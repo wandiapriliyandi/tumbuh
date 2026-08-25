@@ -1,5 +1,5 @@
 # P5-08-02: FORMAT CATATAN NARASI PERKEMBANGAN KUALITATIF (FORM CNP-KUALITATIF)
-## *Monograf Riset Akademik: Standardisasi Penyusunan Deskripsi Naratif Perkembangan Karakter Santri (Qualitative Developmental Narrative Reporting / Form CNP-Kualitatif), Integrasi Doktrin 'Bayānut Tafshīl wa Tsanā'ul Jamil' Turats Klasik dengan Qualitative Narrative Assessment, Asset-Based Pedagogies (Moll), & Constructive Progress Reporting, Serta Panduan Penulisan Narasi Rapor di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Penyusunan Deskripsi Naratif Perkembangan Karakter Santri (Qualitative Developmental Narrative Reporting / Form CNP-Kualitatif), Integrasi Doktrin 'Bayānut Tafshīl wa Tsanā'ul Jamil' Turats Klasik dengan Qualitative Narrative Assessment, Asset-Based Pedagogies (Moll), & Constructive Progress Reporting, Serta Panduan Penulisan Narasi Rapor di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-08-02/MONOGRAF-RISET-CATATAN-NARASI-KUALITATIF/2026`  
 **Domain**: `05 Assessment Framework` > `08 Mentor Assessment` (Sub-Modul 02: *Qualitative Developmental Narrative Reporting*)  
@@ -212,7 +212,7 @@ Penerapan format catatan narasi perkembangan kualitatif Form CNP ini menghadirka
 
 1. **Mengubah Buku Rapor Menjadi Dokumen Kebanggaan Keluarga (*Family Treasured Document*)**: Rapor dibaca berulang-ulang oleh keluarga dengan rasa syukur dan kebahagiaan mendalam.
 2. **Menyambung Kontinuitas Pengasuhan Asrama ke Rumah Secara Sempurna (*Home-School Continuity*)**: Orang tua memahami secara tepat titik fokus bimbingan anak selama masa liburan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Evaluasi Kualitatif Berkelanjutan**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam yang paling memanusiakan dan memuliakan anak.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Evaluasi Kualitatif Berkelanjutan**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam yang paling memanusiakan dan memuliakan anak.[^5]
 
 ---
 
@@ -220,7 +220,7 @@ Penerapan format catatan narasi perkembangan kualitatif Form CNP ini menghadirka
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-08-02: FORMAT CATATAN NARASI PERKEMBANGAN KUALITATIF (FORM CNP-KUALITATIF)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-08-02: FORMAT CATATAN NARASI PERKEMBANGAN KUALITATIF (FORM CNP-KUALITATIF)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -289,7 +289,7 @@ flowchart TD
 [^2]: Model Asset-Based Pedagogies Luis Moll mengenai pemanfaatan modal fitrah dan pengetahuan budaya keluarga, Moll et al. (1992, hlm. 134).  
 [^3]: Ibnu Qudamah Al-Maqdisi, *Mukhtashar Minhajul Qashidin* (2000, hlm. 68), bab adab pendidik menampakkan kebaikan akhlak murid dan menggembirakan orang tuanya.  
 [^4]: Protokol transformasi komunikasi wali santri melalui catatan narasi rapor TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan format catatan narasi perkembangan kualitatif di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan format catatan narasi perkembangan kualitatif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

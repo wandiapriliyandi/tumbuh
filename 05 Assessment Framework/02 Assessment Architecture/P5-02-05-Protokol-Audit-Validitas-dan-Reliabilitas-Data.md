@@ -1,5 +1,5 @@
 # P5-02-05: PROTOKOL AUDIT VALIDITAS DAN RELIABILITAS DATA ASESMEN
-## *Monograf Riset Akademik: Metodologi Audit Penjaminan Mutu Psikometri Data Asesmen Santri (Generalizability Theory, Inter-Rater Reliability ICC, & Rasch Measurement Model), Integrasi Kaidah Al-Jarh wat Ta'dil Turats Klasik dengan Standards for Educational and Psychological Testing (AERA, APA, NCME), Serta Desain Kalibrasi Penilai Berkala di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Audit Penjaminan Mutu Psikometri Data Asesmen Santri (Generalizability Theory, Inter-Rater Reliability ICC, & Rasch Measurement Model), Integrasi Kaidah Al-Jarh wat Ta'dil Turats Klasik dengan Standards for Educational and Psychological Testing (AERA, APA, NCME), Serta Desain Kalibrasi Penilai Berkala di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-02-05/MONOGRAF-RISET-PROTOKOL-AUDIT-VALIDITAS-DATA/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 05: *Assessment Data Validity & Reliability Audit Protocol*)  
@@ -240,7 +240,7 @@ Penerapan protokol audit validitas dan reliabilitas data ini memberikan dampak t
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-02-05: PROTOKOL AUDIT VALIDITAS DAN RELIABILITAS DATA ASESMEN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-02-05: PROTOKOL AUDIT VALIDITAS DAN RELIABILITAS DATA ASESMEN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -308,8 +308,8 @@ flowchart TD
 [^1]: Standar pengujian validitas dan reliabilitas instrumen psikometri, AERA, APA, & NCME (2014, hlm. 12).  
 [^2]: Kerangka pengujian koefisien reliabilitas antar-penilai menggunakan Intraclass Correlation Coefficient (ICC), Shrout & Fleiss (1979, hlm. 422).  
 [^3]: Adz-Dzahabi, *Mizanul I'tidal* (1995, Jilid 1, hlm. 8), mukadimah kaidah keadilan dan objektivitas kritik perawi.  
-[^4]: Protokol rekalibrasi penilai dan pengujian kesepakatan rater santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol audit validitas dan reliabilitas data asesmen di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekalibrasi penilai dan pengujian kesepakatan rater santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol audit validitas dan reliabilitas data asesmen di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

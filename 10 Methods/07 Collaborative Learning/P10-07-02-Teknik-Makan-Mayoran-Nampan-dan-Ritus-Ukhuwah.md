@@ -1,5 +1,5 @@
 # P10-07-02: TEKNIK MAKAN MAYORAN NAMPAN DAN RITUS UKHUWAH
-## *Monograf Riset Akademik: Standarisasi Teknik Makan Mayoran Satu Nampan (Commensality Rituals & Shared Tray Dining), Desain Tiga Ritus Pembiasaan Adab Makan Berjamaah Berbasis Keberkahan Jama'ah dan Regulasi Ego Sosial (Social Commensality Architecture, Prosocial Altruism, & Mutual Respect), Serta Eliminasi Sifat Serakah dan Eksklusivisme Santri (Mayoran Tray Technique, Commensal Oxytocin Bonding, & Dining Adab / Form MET-MayoranUkhuwah), Integrasi Doktrin 'Ijtami'ū 'alā Tha'āmikum Yubārak Lakum' Turats Klasik dengan Claude Lévi-Strauss & Mary Douglas Commensality Theory, Robin Dunbar Social Bonding Framework, Serta Budaya Makan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Makan Mayoran Satu Nampan (Commensality Rituals & Shared Tray Dining), Desain Tiga Ritus Pembiasaan Adab Makan Berjamaah Berbasis Keberkahan Jama'ah dan Regulasi Ego Sosial (Social Commensality Architecture, Prosocial Altruism, & Mutual Respect), Serta Eliminasi Sifat Serakah dan Eksklusivisme Santri (Mayoran Tray Technique, Commensal Oxytocin Bonding, & Dining Adab / Form MET-MayoranUkhuwah), Integrasi Doktrin 'Ijtami'ū 'alā Tha'āmikum Yubārak Lakum' Turats Klasik dengan Claude Lévi-Strauss & Mary Douglas Commensality Theory, Robin Dunbar Social Bonding Framework, Serta Budaya Makan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-07-02/MONOGRAF-RISET-MAYORAN-UKHUWAH/2026`  
 **Domain**: `10 Methods` > `07 Collaborative Learning` (Sub-Modul 02: *Commensality Rituals & Shared Tray Dining*)  
@@ -108,7 +108,7 @@ Penerapan *Teknik Makan Mayoran Nampan dan Ritus Ukhuwah* membuktikan tesis antr
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-07-02: TEKNIK MAKAN MAYORAN NAMPAN DAN RITUS UKHUWAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-07-02: TEKNIK MAKAN MAYORAN NAMPAN DAN RITUS UKHUWAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -161,5 +161,5 @@ flowchart TD
 
 [^1]: Robin I. Dunbar mengenai fungsi evolusioner dan neurobiologis ritual makan bersama dalam memperkuat kohesi kelompok sosial, Dunbar (2017, hlm. 200).
 [^2]: Mary Douglas mengenai analisis antropologis terhadap ritual komensalitas dan pembentukan batas moral komunitas, Douglas (1975, hlm. 249).
-[^3]: Studi kasus penerapan ritus makan mayoran nampan mengikis sifat kikir dan mempererat ukhuwah santri di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan ritus makan mayoran nampan mengikis sifat kikir dan mempererat ukhuwah santri di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penerapan adab makan mayoran berjamaah terhadap eliminasi limbah makanan dan penguatan empati santri (2026).

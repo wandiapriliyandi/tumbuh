@@ -1,5 +1,5 @@
 # P5-04-01: INSTRUMEN LOGBOOK DIGITAL PBIS MUSYRIF (FORM LOK-PBIS)
-## *Monograf Riset Akademik: Desain dan Standardisasi Instrumen Observasi Perilaku Digital Musyrif Asrama 24 Jam (Form LOK-PBIS), Integrasi Doktrin 'Kātibul 'Amal wa Taqyyīdul Akhbār' Turats Klasik dengan Behavioral Observation Systems & Mobile Experience Sampling Method (ESM), Serta Arsitektur Data Capture Cepat di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Desain dan Standardisasi Instrumen Observasi Perilaku Digital Musyrif Asrama 24 Jam (Form LOK-PBIS), Integrasi Doktrin 'Kātibul 'Amal wa Taqyyīdul Akhbār' Turats Klasik dengan Behavioral Observation Systems & Mobile Experience Sampling Method (ESM), Serta Arsitektur Data Capture Cepat di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-04-01/MONOGRAF-RISET-INSTRUMEN-LOGBOOK-DIGITAL-PBIS/2026`  
 **Domain**: `05 Assessment Framework` > `04 Assessment Instruments` (Sub-Modul 01: *Musyrif Digital PBIS Logbook Instrument*)  
@@ -211,7 +211,7 @@ Penerapan instrumen Form LOK-PBIS digital ini menghadirkan lompatan peradaban:
 
 1. **Mengubah Peran Musyrif dari 'Sipir Penjara' Menjadi 'Mentor Pertumbuhan'**: Musyrif sibuk mencari dan merayakan kebaikan santri, menciptakan iklim asrama yang penuh cinta dan kegembiraan.
 2. **Menyediakan Data Real-Time untuk Deteksi Dini EWS PBIS**: Pimpinan dapat melihat grafik kesehatan perilaku seluruh asrama dalam hitungan detik.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Bukti Faktual (*Data-Driven Boarding School*)**: Menjadikan pesantren TUMBUH sebagai pionir tata kelola pengasuhan modern di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Bukti Faktual (*Data-Driven Boarding School*)**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir tata kelola pengasuhan modern di dunia Islam.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan instrumen Form LOK-PBIS digital ini menghadirkan lompatan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-04-01: INSTRUMEN LOGBOOK DIGITAL PBIS MUSYRIF (FORM LOK-PBIS)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-04-01: INSTRUMEN LOGBOOK DIGITAL PBIS MUSYRIF (FORM LOK-PBIS)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,7 +288,7 @@ flowchart TD
 [^2]: Kerangka kerja Experience Sampling Method (ESM) dalam pengambilan data perilaku secara real-time, Hektner et al. (2007, hlm. 38).  
 [^3]: Ibnu Rajab Al-Hanbali, *Jami'ul 'Ulumi wal Hikam* (2001, Jilid 2, hlm. 312), syarah hadits kebaikan dilipatgandakan dan keburukan ditangguhkan.  
 [^4]: Protokol pendataan perilaku positif santri pemalu dan penguatan iklim ukhuwah kamar TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan instrumen logbook digital PBIS musyrif di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan instrumen logbook digital PBIS musyrif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

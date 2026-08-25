@@ -28,7 +28,7 @@
   - [4. Mitigasi Empat Bias Psikometrik Penilai (Halo, Central Tendency, Leniency, & Contrast Effect)](#4mitigasi-empat-bias-psikometrik-penilai-halo-central-tendency-leniency-contrast-effect)
   - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Arsitektur Rubrik BARS Karakter Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-arsitektur-rubrik-bars-karakter-terpadu-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Arsitektur Rubrik BARS Karakter Terpadu Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-arsitektur-rubrik-bars-karakter-terpadu-pesantren-tumbuh)
   - [2. Matriks Indikator & Deskriptor Perilaku Teramati (Observable Anchors) 10 Muwashafat](#2-matriks-indikator--deskriptor-perilaku-teramati-observable-anchors-10-muwashafat)
   - [3. Protokol Operasional Pengamatan Cepat Musyrif (<30 Detik Fast-Logging)](#3-protokol-operasional-pengamatan-cepat-musyrif-30-detik-fast-logging)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -138,7 +138,7 @@ flowchart TD
 
 ---
 
-### 1. Formulasi Konseptual: Arsitektur Rubrik BARS Karakter Terpadu Pesantren TUMBUH
+### 1. Formulasi Konseptual: Arsitektur Rubrik BARS Karakter Terpadu Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis psikometri BARS, riset ini merumuskan kerangka konseptual rubrik observasi adab terstruktur sebagai berikut:
 
@@ -196,7 +196,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-02-04: SKEMA RUBRIK OBSERVASI DAN DESKRIPTOR PERILAKU TERAMATI (OBSERVABLE BEHAVIORAL DESCRIPTORS)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-02-04: SKEMA RUBRIK OBSERVASI DAN DESKRIPTOR PERILAKU TERAMATI (OBSERVABLE BEHAVIORAL DESCRIPTORS)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -267,8 +267,8 @@ flowchart TD
 [^4]: Nielsen, J. (1994), *Usability Engineering*, Morgan Kaufmann.  
 [^5]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Asrar ash-Shalah*, jilid 1, hlm. 140–165.  
 [^6]: Hattie & Timperley (2007), *Review of Educational Research*, hlm. 81–112.  
-[^7]: Laporan Uji Coba Reliabilitas Antar-Penilai Rubrik BARS Pesantren TUMBUH, 2026.  
-[^8]: Panduan Rubrik BARS 10 Karakter Muwashafat Santri TUMBUH, Divisi Psikometri, 2026.  
+[^7]: Laporan Uji Coba Reliabilitas Antar-Penilai Rubrik BARS Ekosistem Pesantren Berbasis TUMBUH, 2026.  
+[^8]: Panduan Rubrik BARS 10 Karakter Muwashafat Santri dalam sistem TUMBUH, Divisi Psikometri, 2026.  
 [^9]: Matriks Deskriptor Perilaku Teramati Jenjang J1–J4, Pusat Asesmen Pesantren, 2026.  
 [^10]: Standar Operasional Fast-Logging PBIS Musyrif Asrama, Biro Digitalisasi TUMBUH, 2026.
 

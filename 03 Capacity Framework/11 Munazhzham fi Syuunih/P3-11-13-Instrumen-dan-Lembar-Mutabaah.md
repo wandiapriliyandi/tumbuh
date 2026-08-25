@@ -301,7 +301,7 @@ Kodifikasi paket instrumen Munazhzham fi Syu'unih menghadirkan tata kelola kelem
 [^2]: Pembahasan kelemahan ketiadaan logbook kas saku mandiri pada remaja asrama, Al-Mawardi (1987, hlm. 236).  
 [^3]: QS. Al-Baqarah: 282, Al-Qur'anul Karim.  
 [^4]: Protokol penanganan pemalsuan rekam kas saku dan restorasi kejujuran finansial, TUMBUH (2026).  
-[^5]: Standarisasi operasional instrumen restorasi fasilitas santri TUMBUH Pesantren (2026).  
+[^5]: Standarisasi operasional instrumen restorasi fasilitas santri dalam sistem TUMBUH Pesantren (2026).  
 [^6]: Dampak kelembagaan penerapan tata kelola kedisiplinan 5S digital TUMBUH (2026).  
 
 ---

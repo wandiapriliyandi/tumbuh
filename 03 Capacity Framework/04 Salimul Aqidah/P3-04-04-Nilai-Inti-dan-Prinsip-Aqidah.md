@@ -316,7 +316,7 @@ graph TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-04: NILAI INTI DAN PRINSIP AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-04: NILAI INTI DAN PRINSIP AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -384,7 +384,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Diagnostik Nilai & Karakter Pesantren TUMBUH, *Kajian Kesenjangan Espoused Values vs Values-in-Action*, 2026.  
+[^1]: Riset Diagnostik Nilai & Karakter Ekosistem Pesantren Berbasis TUMBUH, *Kajian Kesenjangan Espoused Values vs Values-in-Action*, 2026.  
 [^2]: Ath-Thahawi, *Al-Aqidah Ath-Thahawiyyah*, Matan No. 1–15.  
 [^3]: Matan *Al-Aqidah Ath-Thahawiyyah*, hlm. 9–12.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *An-Niyyah wal-Ikhlas wash-Shidq*, hlm. 380–395.  

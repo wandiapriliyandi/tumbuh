@@ -1,5 +1,5 @@
 # P10-03-02: METODE AKUISISI REPLACEMENT BEHAVIOR ADAPTIF
-## *Monograf Riset Akademik: Standarisasi Metodologi Pelatihan dan Akuisisi Perilaku Pengganti Adaptif Fungsional (Functionally Equivalent Replacement Behavior / FERB), Desain Modifikasi Respon Perilaku Berbasis Analisis Terapan (Applied Behavior Analysis Conditioning), dan Penguatan Kebiasaan Ihsan (Adaptive Replacement Behavior Acquisition, Functional Equivalence Behavioral Conditioning Architecture, & Positive Habit Scaffolding / Form MET-FERBAkuisisi), Integrasi Doktrin 'Itbā'us Sayyi'atil Hasanata Tamhūhā' Turats Klasik dengan O'Neill Functional Equivalence Theory, Cooper Applied Behavior Analysis, Serta Transformasi Perilaku di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Pelatihan dan Akuisisi Perilaku Pengganti Adaptif Fungsional (Functionally Equivalent Replacement Behavior / FERB), Desain Modifikasi Respon Perilaku Berbasis Analisis Terapan (Applied Behavior Analysis Conditioning), dan Penguatan Kebiasaan Ihsan (Adaptive Replacement Behavior Acquisition, Functional Equivalence Behavioral Conditioning Architecture, & Positive Habit Scaffolding / Form MET-FERBAkuisisi), Integrasi Doktrin 'Itbā'us Sayyi'atil Hasanata Tamhūhā' Turats Klasik dengan O'Neill Functional Equivalence Theory, Cooper Applied Behavior Analysis, Serta Transformasi Perilaku di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-03-02/MONOGRAF-RISET-AKUISISI-REPLACEMENT-BEHAVIOR/2026`  
 **Domain**: `10 Methods` > `03 Coaching Methods` (Sub-Modul 02: *Functionally Equivalent Replacement Behavior Acquisition*)  
@@ -106,7 +106,7 @@ Penerapan metode akuisisi *Replacement Behavior* berbasis *Functional Equivalenc
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-03-02: METODE AKUISISI REPLACEMENT BEHAVIOR ADAPTIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-03-02: METODE AKUISISI REPLACEMENT BEHAVIOR ADAPTIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -159,5 +159,5 @@ flowchart TD
 
 [^1]: Robert E. O'Neill et al. mengenai prinsip functional equivalence dan efisiensi perilaku pengganti dalam mereduksi disrupsi perilaku, O'Neill et al. (2015, hlm. 72).
 [^2]: John O. Cooper et al. mengenai Applied Behavior Analysis dan implementasi prosedur Differential Reinforcement of Alternative Behavior (DRA), Cooper et al. (2020, hlm. 488).
-[^3]: Studi kasus penerapan instrumen Kartu Partisipasi Santun menggantikan perilaku berteriak santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen Kartu Partisipasi Santun menggantikan perilaku berteriak santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengajaran replacement behavior adaptif terhadap kecepatan internalisasi adab santri (2026).

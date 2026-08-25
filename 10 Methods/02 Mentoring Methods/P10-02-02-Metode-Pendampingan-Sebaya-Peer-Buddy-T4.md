@@ -1,5 +1,5 @@
 # P10-02-02: METODE PENDAMPINGAN SEBAYA PEER BUDDY J4
-## *Monograf Riset Akademik: Standarisasi Metode Pendampingan Sebaya Lintas Jenjang (Cross-Age Peer Buddy Mentoring), Desain Scaffolding Akademik dan Afektif Rasio 1:2 Bebas Feodalisme, Serta Penegakan Keteladanan Servanthood Santri Senior (Peer Buddy Cross-Age Mentoring Methodology, Academic-Affective 1:2 Scaffolding Architecture, & Senior Servant Leadership / Form MET-PeerBuddyJ4), Integrasi Doktrin 'Al-Mu'ākhāh ash-Shahābah' Turats Klasik dengan Topping Peer Assisted Learning Strategies (PALS), Vygotsky Zone of Proximal Development, Serta Kohesi Sosial di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Pendampingan Sebaya Lintas Jenjang (Cross-Age Peer Buddy Mentoring), Desain Scaffolding Akademik dan Afektif Rasio 1:2 Bebas Feodalisme, Serta Penegakan Keteladanan Servanthood Santri Senior (Peer Buddy Cross-Age Mentoring Methodology, Academic-Affective 1:2 Scaffolding Architecture, & Senior Servant Leadership / Form MET-PeerBuddyJ4), Integrasi Doktrin 'Al-Mu'ākhāh ash-Shahābah' Turats Klasik dengan Topping Peer Assisted Learning Strategies (PALS), Vygotsky Zone of Proximal Development, Serta Kohesi Sosial di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-02-02/MONOGRAF-RISET-METODE-PEER-BUDDY-J4/2026`  
 **Domain**: `10 Methods` > `02 Mentoring Methods` (Sub-Modul 02: *Cross-Age Peer Buddy J4 Mentoring Methodology*)  
@@ -102,7 +102,7 @@ Penerapan metode *Peer Buddy System* rasio 1:2 membongkar tuntas budaya feodalis
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-02-02: METODE PENDAMPINGAN SEBAYA PEER BUDDY J4** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-02-02: METODE PENDAMPINGAN SEBAYA PEER BUDDY J4** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -155,5 +155,5 @@ flowchart TD
 
 [^1]: Keith J. Topping mengenai tren efektivitas peer learning dan dampak kognitif timbal balik antara tutor dan tutee, Topping (2005, hlm. 633).
 [^2]: Ibnu Hisyam mengenai peristiwa agung Al-Mu'akhah sebagai fondasi keadilan sosial dan persaudaraan tanpa kasta peradaban Islam, As-Sirah An-Nabawiyyah (2009, Jilid 2, hlm. 124).
-[^3]: Studi kasus penerapan Peer Buddy J4 mengentaskan santri gagap meraih predikat tasmi' mumtaz Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Peer Buddy J4 mengentaskan santri gagap meraih predikat tasmi' mumtaz Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengalihan peran senioritas menjadi servant mentors terhadap eliminasi mutlak insiden kekerasan asrama (2026).

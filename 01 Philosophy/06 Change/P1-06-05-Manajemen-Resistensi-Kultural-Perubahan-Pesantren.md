@@ -206,7 +206,7 @@ Manajemen resistensi kultural yang beradab ini membawa pelajaran agung bagi pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-06-05: MANAJEMEN RESISTENSI KULTURAL DAN PSIKOLOGI PERUBAHAN PESANTREN (CULTURAL RESISTANCE MANAGEMENT)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-06-05: MANAJEMEN RESISTENSI KULTURAL DAN PSIKOLOGI PERUBAHAN PESANTREN (CULTURAL RESISTANCE MANAGEMENT)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -274,7 +274,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Manajemen Resistensi Kultural dan Psikologi Perubahan Pesantren TUMBUH, *Kritik atas Pendekatan Otoriter*, 2026.  
+[^1]: Riset Manajemen Resistensi Kultural dan Psikologi Perubahan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Pendekatan Otoriter*, 2026.  
 [^2]: QS. An-Nahl [16]: 125.  
 [^3]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Tafsir QS. An-Nahl: 125, Jilid 4, hlm. 610–615.  
 [^4]: Lewin, K. (1951), *Field Theory in Social Science*, hlm. 40–70; Rogers, E. M. (2003), *Diffusion of Innovations*, hlm. 20–65.  

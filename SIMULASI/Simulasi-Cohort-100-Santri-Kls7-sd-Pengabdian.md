@@ -53,7 +53,7 @@ graph TD
 
 ### 🗓️ TAHUN 3: KELAS 9 MTs (TANGGA T3 INTERNALISASI & GATEWAY TRANSISI MTs $\rightarrow$ MA)
 * **Fokus**: Kematangan adab mandiri, kepemimpinan tingkat MTs, dan evaluasi *Gateway Transisi*.
-* **Hasil Akhir Tahun 3**: 100% santri lulus MTs, menerima Transkrip Karakter PBIS Tahap Pertama, dan 100% melanjutkan ke Jenjang MA/SMA Pesantren TUMBUH.
+* **Hasil Akhir Tahun 3**: 100% santri lulus MTs, menerima Transkrip Karakter PBIS Tahap Pertama, dan 100% melanjutkan ke Jenjang MA/SMA Ekosistem Pesantren Berbasis TUMBUH.
 
 ---
 

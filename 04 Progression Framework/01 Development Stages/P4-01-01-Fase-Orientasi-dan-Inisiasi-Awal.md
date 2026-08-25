@@ -1,5 +1,5 @@
 # P4-01-01: FASE ORIENTASI DAN INISIASI AWAL PERKEMBANGAN SANTRI
-## *Monograf Riset Akademik: Trajektori Adaptasi Psikososial Transisi Pendidikan Dasar Menuju Kehidupan Asrama 24 Jam, Integrasi Fiqh Marahil at-Ta'dib dengan Attachment Theory (Bowlby) & Transition Shock Model, Rekayasa Lingkungan Safe Haven Asrama, Serta Protokol De-eskalasi Homesickness Akut di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Adaptasi Psikososial Transisi Pendidikan Dasar Menuju Kehidupan Asrama 24 Jam, Integrasi Fiqh Marahil at-Ta'dib dengan Attachment Theory (Bowlby) & Transition Shock Model, Rekayasa Lingkungan Safe Haven Asrama, Serta Protokol De-eskalasi Homesickness Akut di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-01-01/MONOGRAF-RISET-FASE-ORIENTASI-INISIASI-AWAL/2026`  
 **Domain**: `04 Progression Framework` > `01 Development Stages` (Sub-Modul 01: *Orientation & Early Initiation Stage*)  
@@ -201,7 +201,7 @@ flowchart LR
     Pekan1["PEKAN 1: WELCOMING & SECURITY<br/>• Masa Pengenalan Ramah (Zero Bentakan)<br/>• Orientasi Fasilitas & Tour Asrama<br/>• Pembagian Buddy Kakak Asuh J4"]
     --> Pekan2["PEKAN 2: LIFE-SKILLS IMMERSION<br/>• Workshop Cuci Baju & Tata Lemari<br/>• Praktik Shalat Berjamaah Disiplin<br/>• Penanganan Homesick Intensif"]
     --> Pekan34["PEKAN 3–4: UKHUWAH & SOCIAL BONDING<br/>• Malam Keakraban Kamar (Curhat Asrama)<br/>• Game Olahraga Ukhuwah Ceria<br/>• Telpon Orang Tua Terjadwal"]
-    --> Pekan56["PEKAN 5–6: INISIASI ADAB & KELAS<br/>• Masuk Pembelajaran Madrasah Mandiri<br/>• Mulai Target Hafalan Santai (Mutqin)<br/>• Pembaiatan Santri Mukim TUMBUH"]
+    --> Pekan56["PEKAN 5–6: INISIASI ADAB & KELAS<br/>• Masuk Pembelajaran Madrasah Mandiri<br/>• Mulai Target Hafalan Santai (Mutqin)<br/>• Pembaiatan Santri Mukim berbasis sistem TUMBUH"]
 ```
 
 ---
@@ -290,7 +290,7 @@ flowchart TD
 [^3]: HR. Ibnu Majah dalam *Sunan Ibni Majah* (No. 247), Kitab *Al-Muqaddimah*.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 68).  
 [^5]: Protokol penanganan kecemasan separasi dan de-eskalasi homesickness akut santri baru TUMBUH (2026).  
-[^6]: Dampak kelembagaan penerapan program inisiasi 40 hari pertama terhadap retensi santri TUMBUH Pesantren (2026).  
+[^6]: Dampak kelembagaan penerapan program inisiasi 40 hari pertama terhadap retensi santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

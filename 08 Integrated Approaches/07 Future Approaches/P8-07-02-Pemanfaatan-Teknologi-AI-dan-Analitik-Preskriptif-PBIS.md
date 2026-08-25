@@ -1,5 +1,5 @@
 # P8-07-02: PEMANFAATAN TEKNOLOGI AI DAN ANALITIK PRESKRIPTIF PBIS
-## *Monograf Riset Akademik: Standarisasi Pemanfaatan Kecerdasan Buatan (Artificial Intelligence) dan Analitik Preskriptif dalam Sistem PBIS Pesantren, Pemodelan Pola Perilaku Multidimensional, dan Protokol Tata Kelola Pengasuhan Berpusat pada Manusia (AI-Driven Prescriptive Behavioral Analytics, Multidimensional Predictive Modeling, & Human-in-the-Loop Governance Protocols / Form TEC-AIAnalytics), Integrasi Doktrin 'Al-Firāsah ash-Shādiqah wal Hikmah fit-Tasharruf' Turats Klasik dengan Machine Learning in Education, Explainable AI (XAI), Serta Presisi Pembinaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Pemanfaatan Kecerdasan Buatan (Artificial Intelligence) dan Analitik Preskriptif dalam Sistem PBIS Pesantren, Pemodelan Pola Perilaku Multidimensional, dan Protokol Tata Kelola Pengasuhan Berpusat pada Manusia (AI-Driven Prescriptive Behavioral Analytics, Multidimensional Predictive Modeling, & Human-in-the-Loop Governance Protocols / Form TEC-AIAnalytics), Integrasi Doktrin 'Al-Firāsah ash-Shādiqah wal Hikmah fit-Tasharruf' Turats Klasik dengan Machine Learning in Education, Explainable AI (XAI), Serta Presisi Pembinaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-07-02/MONOGRAF-RISET-AI-ANALITIK-PRESKRIPTIF-PBIS/2026`  
 **Domain**: `08 Integrated Approaches` > `07 Future Approaches` (Sub-Modul 02: *AI-Driven Prescriptive Behavioral Analytics & HITL Governance*)  
@@ -102,7 +102,7 @@ Pemanfaatan analitik preskriptif yang dipadukan dengan tata kelola *Human-in-the
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-07-02: PEMANFAATAN TEKNOLOGI AI DAN ANALITIK PRESKRIPTIF PBIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-07-02: PEMANFAATAN TEKNOLOGI AI DAN ANALITIK PRESKRIPTIF PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -155,5 +155,5 @@ flowchart TD
 
 [^1]: Baker & Inventado mengenai metodologi Educational Data Mining dalam memprediksi performa dan mendeteksi disengagement siswa, Baker & Inventado (2014, hlm. 63).
 [^2]: Gunning et al. mengenai prinsip Explainable AI (XAI) untuk menghasilkan sistem kecerdasan buatan yang transparan dan dapat dipercaya, Gunning et al. (2019, hlm. 2).
-[^3]: Studi kasus penerapan analitik preskriptif Intizham-AI mendeteksi risiko penarikan diri sosial santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan analitik preskriptif Intizham-AI mendeteksi risiko penarikan diri sosial santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak augmentasi AI terhadap peningkatan ketepatan intervensi konseling BK berbasis Human-in-the-Loop (2026).

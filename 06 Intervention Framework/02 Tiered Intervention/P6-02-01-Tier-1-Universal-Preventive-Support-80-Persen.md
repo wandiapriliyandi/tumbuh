@@ -1,5 +1,5 @@
 # P6-02-01: TIER 1 UNIVERSAL PREVENTIVE SUPPORT (80-90% POPULASI SANTRI)
-## *Monograf Riset Akademik: Arsitektur Intervensi Universal Pencegahan Primer dan Rekayasa Iklim Adab Menyeluruh (Tier 1 Universal Primary Prevention & School-Wide Climate Engineering / Form T1U-Universal), Integrasi Doktrin 'Al-Amru bil Ma'rūf wa Syumūliyyatut Da'wah' Turats Klasik dengan School-Wide Positive Behavioral Interventions and Supports (SW-PBIS Tier 1), Environmental Design, Serta Bi'ah Shalihah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Universal Pencegahan Primer dan Rekayasa Iklim Adab Menyeluruh (Tier 1 Universal Primary Prevention & School-Wide Climate Engineering / Form T1U-Universal), Integrasi Doktrin 'Al-Amru bil Ma'rūf wa Syumūliyyatut Da'wah' Turats Klasik dengan School-Wide Positive Behavioral Interventions and Supports (SW-PBIS Tier 1), Environmental Design, Serta Bi'ah Shalihah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-02-01/MONOGRAF-RISET-TIER-1-UNIVERSAL-SUPPORT/2026`  
 **Domain**: `06 Intervention Framework` > `02 Tiered Intervention` (Sub-Modul 01: *Tier 1 Universal Preventive Support: 80-90% Population*)  
@@ -214,7 +214,7 @@ Penerapan intervensi universal Tier 1 Form T1U ini menghadirkan keunggulan perad
 
 1. **Menciptakan Kekebalan Komunitas Pesantren (*School-Wide Behavioral Herd Immunity*)**: Ketika $85\%$ santri beradab secara solid, santri baru yang membawa kebiasaan buruk akan otomatis terserap dan menyesuaikan diri dengan norma kebaikan mayoritas (*Positive Peer Conformity*).
 2. **Menghemat Energi dan Menghindarkan Pengasuh dari Burnout (*Burnout Prevention*)**: Musyrif tidak lagi kelelahan berteriak sepanjang hari karena sistem lingkungan telah bekerja secara otomatis.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Bi'ah Shalihah dan SW-PBIS Tier 1**: Mengukuhkan pesantren TUMBUH sebagai standar emas lingkungan pendidikan Islam paling tertib dan bahagia di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Bi'ah Shalihah dan SW-PBIS Tier 1**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai standar emas lingkungan pendidikan Islam paling tertib dan bahagia di dunia.[^5]
 
 ---
 
@@ -222,7 +222,7 @@ Penerapan intervensi universal Tier 1 Form T1U ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-02-01: TIER 1 UNIVERSAL PREVENTIVE SUPPORT (80-90% POPULASI SANTRI)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-02-01: TIER 1 UNIVERSAL PREVENTIVE SUPPORT (80-90% POPULASI SANTRI)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Komponen inti School-Wide Positive Behavioral Interventions and Supports (SW-PBIS) Tier 1, Sugai & Horner (2002, hlm. 28 & 2020, hlm. 205).  
 [^2]: Landasan The Magic 4:1 Ratio dalam modifikasi perilaku dan peningkatan kepatuhan adab, Flora (2004, hlm. 42).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat* (2003, Jilid 2, hlm. 164), bab keutamaan membangun keteraturan sistem universal demi melindungi seluruh anggota masyarakat.  
-[^4]: Protokol pengajaran eksplisit adab kamar mandi dan penurunan insiden antrean Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan Tier 1 universal preventive support di Pesantren TUMBUH (2026).  
+[^4]: Protokol pengajaran eksplisit adab kamar mandi dan penurunan insiden antrean Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan Tier 1 universal preventive support di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

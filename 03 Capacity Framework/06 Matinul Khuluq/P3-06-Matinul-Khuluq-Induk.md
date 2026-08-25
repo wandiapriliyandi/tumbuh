@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Kedudukan Karakter Matinul Khuluq dalam Arsitektur 10 Muwashafat:**  
->   *Matinul Khuluq* (Karakter ke-3 dari 10 Muwashafat Santri TUMBUH) merupakan **buah peradaban lahiriah (*Atsar Dzahir*) dari kemurnian tauhid (*Salimul Aqidah*) dan ketertiban ibadah (*Shahihul Ibadah*)**. Tanpa akhlak yang kokoh, pemahaman aqidah dan hafalan syariat hanya menjadi pengetahuan kognitif verbal tanpa wibawa amal.
+>   *Matinul Khuluq* (Karakter ke-3 dari 10 Muwashafat Santri dalam sistem TUMBUH) merupakan **buah peradaban lahiriah (*Atsar Dzahir*) dari kemurnian tauhid (*Salimul Aqidah*) dan ketertiban ibadah (*Shahihul Ibadah*)**. Tanpa akhlak yang kokoh, pemahaman aqidah dan hafalan syariat hanya menjadi pengetahuan kognitif verbal tanpa wibawa amal.
 > * **Empat Pilar Utama Matinul Khuluq:**  
 >   Karakter ini dibangun di atas 4 pilar terpadu: (1) *Ash-Shidq* (Kejujuran Radikal & Transparansi Niat), (2) *At-Tawadhu'* (Kerendahan Hati Transformatif & Anti-Feodalisme), (3) *Asy-Syaja'ah al-Adabiyyah* (Keberanian Beradab & Penolakan Kezaliman Sebaya), dan (4) *Al-Amanah* (Integritas Tanggung Jawab Sosial & Anti-Ghashab).
 > * **Struktur Kompendium 14 Sub-Modul:**  

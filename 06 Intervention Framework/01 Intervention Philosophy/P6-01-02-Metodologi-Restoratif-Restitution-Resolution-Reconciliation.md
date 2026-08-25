@@ -1,5 +1,5 @@
 # P6-01-02: METODOLOGI RESTORATIF (RESTITUTION, RESOLUTION, RECONCILIATION)
-## *Monograf Riset Akademik: Metodologi Keadilan Restoratif Komprehensif Berbasis Tiga Rantai Pemulihan (Restorative Justice 3R Methodology: Restitution, Resolution, Reconciliation / Form MRR-Metodologi), Integrasi Doktrin 'Al-Ghurmu bil Ghunmi, Raf'ul Madhār, wa Ishlāhu Dzātil Bain' Turats Klasik dengan Zehr's Restorative Framework, Braithwaite's Reintegrative Shaming, Serta Pemulihan Ukhuwah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Keadilan Restoratif Komprehensif Berbasis Tiga Rantai Pemulihan (Restorative Justice 3R Methodology: Restitution, Resolution, Reconciliation / Form MRR-Metodologi), Integrasi Doktrin 'Al-Ghurmu bil Ghunmi, Raf'ul Madhār, wa Ishlāhu Dzātil Bain' Turats Klasik dengan Zehr's Restorative Framework, Braithwaite's Reintegrative Shaming, Serta Pemulihan Ukhuwah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-01-02/MONOGRAF-RISET-METODOLOGI-RESTORATIF-3R/2026`  
 **Domain**: `06 Intervention Framework` > `01 Intervention Philosophy` (Sub-Modul 02: *Restorative Justice 3R Methodology: Restitution, Resolution, Reconciliation*)  
@@ -212,7 +212,7 @@ Penerapan metodologi restoratif 3R Form MRR ini menghadirkan keunggulan peradaba
 
 1. **Membangun Budaya Akuntabilitas Moral Sejati (*Authentic Moral Accountability*)**: Santri terlatih bertanggung jawab penuh atas segala konsekuensi dari perbuatannya.
 2. **Menghadirkan Keadilan yang Menyembuhkan dan Menghidupkan Jiwa Korban (*Healing Justice*)**: Korban merasa dihargai, dilindungi, dan dipulihkan martabatnya secara utuh.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ishlāhudz Dzāt dan Restorative Justice Standar Dunia**: Menjadikan pesantren TUMBUH sebagai rujukan perdamaian dan keharmonisan sosial di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ishlāhudz Dzāt dan Restorative Justice Standar Dunia**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai rujukan perdamaian dan keharmonisan sosial di dunia Islam.[^5]
 
 ---
 
@@ -220,7 +220,7 @@ Penerapan metodologi restoratif 3R Form MRR ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-01-02: METODOLOGI RESTORATIF (RESTITUTION, RESOLUTION, RECONCILIATION)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-01-02: METODOLOGI RESTORATIF (RESTITUTION, RESOLUTION, RECONCILIATION)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Kerangka kerja Keadilan Restoratif Howard Zehr mengenai tiga pertanyaan restoratif dan pemulihan luka korban, Zehr (2015, hlm. 28).  
 [^2]: Teori Reintegrative Shaming John Braithwaite mengenai integrasi kembali pelaku ke dalam komunitas tanpa stigma, Braithwaite (1989, hlm. 54).  
 [^3]: Al-Jashshash, *Ahkamul Qur'an* (2010, Jilid 3, hlm. 188), bab kewajiban raddul mazhalim (mengembalikan hak korban) dan mendamaikan perselisihan.  
-[^4]: Protokol penyelenggaraan Restorative Circle dan kesepakatan pemulihan 3R Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan metodologi restoratif 3R di Pesantren TUMBUH (2026).  
+[^4]: Protokol penyelenggaraan Restorative Circle dan kesepakatan pemulihan 3R Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan metodologi restoratif 3R di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

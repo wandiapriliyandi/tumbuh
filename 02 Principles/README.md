@@ -9,7 +9,7 @@
 
 ## 🏛️ SITEMAP & NAVIGASI SELURUH SUB-DOMAIN 02 PRINCIPLES
 
-Domain `02 Principles` adalah konstitusi nilai dan kaidah baku (*Principles & Axioms*) yang menjadi pedoman mutlak perancangan sistem, kurikulum terintegrasi, arsitektur asrama ramah sanitasi, psikologi kognisi tahfizh, maturasi remaja, psikometri asesmen, intervensi restoratif anti-bullying, dan tata kelola kemasyarakatan pesantren TUMBUH:
+Domain `02 Principles` adalah konstitusi nilai dan kaidah baku (*Principles & Axioms*) yang menjadi pedoman mutlak perancangan sistem, kurikulum terintegrasi, arsitektur asrama ramah sanitasi, psikologi kognisi tahfizh, maturasi remaja, psikometri asesmen, intervensi restoratif anti-bullying, dan tata kelola kemasyarakatan ekosistem pesantren berbasis TUMBUH:
 
 ```mermaid
 graph TD

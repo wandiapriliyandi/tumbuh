@@ -1,5 +1,5 @@
 # P6-05-04: PROTOKOL TRANSISI WAKTU KRITIS DAN PRE-CORRECTION RUTINITAS
-## *Monograf Riset Akademik: Manajemen Periode Transisi Rentan, Protokol Pengingat Pra-Koreksi Proaktif, dan Standarisasi Ritme Rutinitas Asrama 24 Jam (Critical Transition Management, Behavioral Pre-Correction Protocols, & 24-Hour Routine Habituation / Form PTW-Transisi), Integrasi Doktrin 'Murā'ātul Awqāt wal Isti'dād Qablal 'Amal' Turats Klasik dengan Colvin & Sugai's Pre-Correction Technology, Transition Behavioral Momentum, Serta Ketertiban di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Manajemen Periode Transisi Rentan, Protokol Pengingat Pra-Koreksi Proaktif, dan Standarisasi Ritme Rutinitas Asrama 24 Jam (Critical Transition Management, Behavioral Pre-Correction Protocols, & 24-Hour Routine Habituation / Form PTW-Transisi), Integrasi Doktrin 'Murā'ātul Awqāt wal Isti'dād Qablal 'Amal' Turats Klasik dengan Colvin & Sugai's Pre-Correction Technology, Transition Behavioral Momentum, Serta Ketertiban di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-05-04/MONOGRAF-RISET-TRANSISI-WAKTU-PRECORRECTION/2026`  
 **Domain**: `06 Intervention Framework` > `05 Preventive Strategies` (Sub-Modul 04: *Critical Transition Management & Pre-Correction Protocols*)  
@@ -217,7 +217,7 @@ Penerapan protokol transisi Form PTW ini menghadirkan keunggulan peradaban:
 
 1. **Mengeliminasi Titik Rawan Friksi Terbesar di Pesantren (*Elimination of Transition Incidents*)**: Mengurangi lebih dari $75\%$ insiden pelanggaran harian secara terukur.
 2. **Membangun Kebiasaan Manajemen Diri Santri yang Teratur (*Fluid Temporal Self-Regulation*)**: Santri terlatih bergerak efisien, menghargai waktu, dan tenang dalam peralihan aktivitas.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Isti'dād Qablal 'Amal dan Pre-Correction Behavioral Science**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan keteraturan ritme harian terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Isti'dād Qablal 'Amal dan Pre-Correction Behavioral Science**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan keteraturan ritme harian terbaik di dunia.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan protokol transisi Form PTW ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-05-04: PROTOKOL TRANSISI WAKTU KRITIS DAN PRE-CORRECTION RUTINITAS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-05-04: PROTOKOL TRANSISI WAKTU KRITIS DAN PRE-CORRECTION RUTINITAS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Penelitian efektivitas strategi Pre-Correction dan pengawasan aktif dalam mengurangi perilaku masalah pada waktu transisi, Colvin et al. (1997, hlm. 346) & DePry & Sugai (2002, hlm. 58).  
 [^2]: Teori Behavioral Momentum dalam meningkatkan kepatuhan dan kelancaran transisi perilaku, Nevin (1996, hlm. 538).  
 [^3]: Al-Ghazali, *Bidayatul Hidayah* (2014, hlm. 44), bab tata tertib pembagian waktu harian dan bahaya kelalaian pada momen peralihan aktivitas.  
-[^4]: Protokol pra-koreksi waktu transisi tangga asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen waktu transisi dan pre-correction di Pesantren TUMBUH (2026).  
+[^4]: Protokol pra-koreksi waktu transisi tangga asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen waktu transisi dan pre-correction di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P6-02-06: INTEGRASI DATA-DRIVEN DECISION MAKING DAN TIERED FIDELITY INVENTORY (TFI)
-## *Monograf Riset Akademik: Standarisasi Evaluasi Kepatuhan Implementasi Sistem Intervensi Berjenjang dan Pengambilan Keputusan Berbasis Data (Data-Driven Decision Making & Tiered Fidelity Inventory TFI Standards / Form TFI-Audit), Integrasi Doktrin 'Muhāsabatul 'Amal wa Itqānut Tanzhīm' Turats Klasik dengan Algozzine & Horner's Tiered Fidelity Inventory (TFI), School-Wide Evaluation Tool (SET), Serta Audit Kualitas di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Evaluasi Kepatuhan Implementasi Sistem Intervensi Berjenjang dan Pengambilan Keputusan Berbasis Data (Data-Driven Decision Making & Tiered Fidelity Inventory TFI Standards / Form TFI-Audit), Integrasi Doktrin 'Muhāsabatul 'Amal wa Itqānut Tanzhīm' Turats Klasik dengan Algozzine & Horner's Tiered Fidelity Inventory (TFI), School-Wide Evaluation Tool (SET), Serta Audit Kualitas di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-02-06/MONOGRAF-RISET-DATA-DRIVEN-TFI-AUDIT/2026`  
 **Domain**: `06 Intervention Framework` > `02 Tiered Intervention` (Sub-Modul 06: *Data-Driven Decision Making & Tiered Fidelity Inventory TFI Standards*)  
@@ -224,7 +224,7 @@ Penerapan integrasi TFI dan data-driven decision making Form TFI ini menghadirka
 
 1. **Menjamin Keberhasilan Intervensi Secara Konsisten (*Predictable High Success Rate*)**: Ketika kepatuhan TFI dijaga di atas $80\%$, keberhasilan pemulihan santri terbukti secara ilmiah mencapai lebih dari $90\%$.
 2. **Menghilangkan Budaya Menyalahkan Santri Saat Terjadi Kegagalan Pembinaan (*No Student Blaming*)**: Lembaga terlebih dahulu mengaudit integritas pelaksanaannya sendiri sebelum menyimpulkan kondisi anak.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Itqān dan Tiered Fidelity Inventory**: Menjadikan pesantren TUMBUH sebagai institusi pendidikan Islam pertama dengan akreditasi kepatuhan PBIS internasional di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Itqān dan Tiered Fidelity Inventory**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam pertama dengan akreditasi kepatuhan PBIS internasional di dunia.[^5]
 
 ---
 
@@ -232,7 +232,7 @@ Penerapan integrasi TFI dan data-driven decision making Form TFI ini menghadirka
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-02-06: INTEGRASI DATA-DRIVEN DECISION MAKING DAN TIERED FIDELITY INVENTORY (TFI)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-02-06: INTEGRASI DATA-DRIVEN DECISION MAKING DAN TIERED FIDELITY INVENTORY (TFI)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -299,8 +299,8 @@ flowchart TD
 [^1]: Manual teknis School-Wide PBIS Tiered Fidelity Inventory (TFI v2.1) dalam mengukur kepatuhan implementasi multi-tier, Algozzine et al. (2019, hlm. 6).  
 [^2]: Instrumen penelitian School-Wide Evaluation Tool (SET) dalam memvalidasi integritas penerapan PBIS sekolah, Horner et al. (2004, hlm. 5).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 382), bab keharusan menyempurnakan kualitas pelaksanaan amal dan meneliti takaran dosis tarbiyah secara teliti.  
-[^4]: Protokol audit kepatuhan TFI dan optimalisasi implementasi CICO Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan integrasi data-driven decision making dan TFI di Pesantren TUMBUH (2026).  
+[^4]: Protokol audit kepatuhan TFI dan optimalisasi implementasi CICO Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan integrasi data-driven decision making dan TFI di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

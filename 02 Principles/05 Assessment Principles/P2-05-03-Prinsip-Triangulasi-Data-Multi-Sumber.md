@@ -28,7 +28,7 @@
   - [4. Rekayasa Rekonsiliasi Diskrepansi Lintas Lokus (Asrama vs Madrasah) & Perlindungan Ukhuwah Peer Feedback](#4-rekayasa-rekonsiliasi-diskrepansi-lintas-lokus-asrama-vs-madrasah--perlindungan-ukhuwah-peer-feedback)
   - [5. Kasuistika Lapangan: Kasus Perbedaan Persepsi Guru-Musyrif & Resolusi Sidang Tabayyun](#5-kasuistika-lapangan-kasus-perbedaan-persepsi-guru-musyrif--resolusi-sidang-tabayyun)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-triangulasi-data-multi-sumber-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Triangulasi Data Multi-Sumber Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-triangulasi-data-multi-sumber-pesantren-tumbuh)
   - [2. Matriks Pembobotan Empat Sumber Data Asesmen Karakter Santri 360 Derajat](#2-matriks-pembobotan-empat-sumber-data-asesmen-karakter-santri-360-derajat)
   - [3. Protokol Tabayyun & Rekonsiliasi Diskrepansi Data (Data Reconciliation SOP)](#3-protokol-tabayyun--rekonsiliasi-diskrepansi-data-data-reconciliation-sop)
   - [4. Standar Prosedur Operasional (SOP) Peer Assessment Ramah Ukhuwah (Ukhuwah-Safe Peer Feedback Protocol)](#4-standar-prosedur-operasional-sop-peer-assessment-ramah-ukhuwah-ukhuwah-safe-peer-feedback-protocol)
@@ -113,7 +113,7 @@ TUMBUH merancang sistem manajemen data:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Triangulasi Data Multi-Sumber Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Triangulasi Data Multi-Sumber Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan triangulasi ke dalam **Arsitektur Empat Lensa Penilaian Karakter (*Arkan at-Tatslits al-Bayani*)**:
 
@@ -192,7 +192,7 @@ Prinsip triangulasi data multi-sumber ini membawa implikasi agung bagi peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-05-03: PRINSIP TRIANGULASI DATA MULTI-SUMBER DAN ASESMEN 360 DERAJAT (MULTI-SOURCE DATA TRIANGULATION & 360-DEGREE ASSESSMENT)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-05-03: PRINSIP TRIANGULASI DATA MULTI-SUMBER DAN ASESMEN 360 DERAJAT (MULTI-SOURCE DATA TRIANGULATION & 360-DEGREE ASSESSMENT)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -269,7 +269,7 @@ flowchart TD
 [^7]: Dokumentasi Kasus Sidang Tabayyun dan Rekonsiliasi Diskrepansi Skor Asrama PBIS TUMBUH, 2026.  
 [^8]: Master Guidelines Pengamatan Lensa Musyrif Asrama 24 Jam TUMBUH, 2026.  
 [^9]: Master Guidelines Pengamatan Lensa Guru Madrasah TUMBUH, 2026.  
-[^10]: Master Guidelines Self-Assessment dan Jurnal Muhasabah Santri TUMBUH, 2026.  
+[^10]: Master Guidelines Self-Assessment dan Jurnal Muhasabah Santri dalam sistem TUMBUH, 2026.  
 [^11]: Standar Operasional Prosedur Peer Assessment Ramah Ukhuwah TUMBUH, 2026.  
 [^12]: Master Guidelines Rekonsiliasi Diskrepansi Data Multi-Sumber Ekosistem TUMBUH, 2026.  
 [^13]: Deklarasi Pemuliaan Tabayyun dan Keadilan Asesmen Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.

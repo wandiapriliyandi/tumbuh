@@ -28,7 +28,7 @@
   - [4. Standarisasi Profesi Musyrif: Empat Pilar Kompetensi & Sertifikasi Berkelanjutan (CPD)](#4-standarisasi-profesi-musyrif-empat-pilar-kompetensi--sertifikasi-berkelanjutan-cpd)
   - [5. Kasuistika Lapangan: Musyrif Tanpa Pelatihan Menghukum Semena-mena & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-musyrif-tanpa-pelatihan-menghukum-semena-mena--resolusi-restoratif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standarisasi Tata Kelola Kelembagaan dan Musyrif TUMBUH](#1-eksplanasi-teoretis-standarisasi-tata-kelola-kelembagaan-dan-musyrif-tumbuh)
+  - [1. Eksplanasi Teoretis Standarisasi Tata Kelola Kelembagaan dan Musyrif dalam sistem TUMBUH](#1-eksplanasi-teoretis-standarisasi-tata-kelola-kelembagaan-dan-musyrif-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Tata Kelola Kelembagaan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-tata-kelola-kelembagaan-maratib-al-idrak)
   - [3. Matriks Empat Pilar Standar Kompetensi Musyrif Asrama Pesantren](#3-matriks-empat-pilar-standar-kompetensi-musyrif-asrama-pesantren)
   - [4. Protokol Rekrutmen, Onboarding, & Penjaminan Mutu Pendidik (Safe School & HRD Protocol)](#4-protokol-rekrutmen-onboarding--penjaminan-mutu-pendidik-safe-school--hrd-protocol)
@@ -114,7 +114,7 @@ TUMBUH menetapkan bahwa Musyrif adalah profesi pengasuhan profesional (*In Loco 
 
 ---
 
-### 1. Eksplanasi Teoretis Standarisasi Tata Kelola Kelembagaan dan Musyrif TUMBUH
+### 1. Eksplanasi Teoretis Standarisasi Tata Kelola Kelembagaan dan Musyrif dalam sistem TUMBUH
 
 Ekosistem TUMBUH merumuskan tata kelola ke dalam **Arsitektur Tata Kelola Mandiri & Akuntabel (*Nizham al-Idarah al-Mu'tamadah*)**:
 
@@ -224,7 +224,7 @@ Standarisasi tata kelola kelembagaan dan musyrif ini membawa dampak fundamental 
 
 ### 1. Tabel Sintesis Temuan Riset Tata Kelola dan Standar Musyrif
 
-| Dimensi Parameter | Mazhab Otokratis Feodal (Lama) | Model Korporat Bisnis Sekuler | **Tata Kelola Amanah & Standar Musyrif TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
+| Dimensi Parameter | Mazhab Otokratis Feodal (Lama) | Model Korporat Bisnis Sekuler | **Tata Kelola Amanah & Standar Musyrif dalam sistem TUMBUH** | Landasan Rujukan Primer | Implikasi Praksis Lapangan |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Dasar Pengambilan Keputusan**| Subjektivitas figur tunggal (otokrasi).| Keputusan Dewan Direksi demi profit.| **Musyawarah Majelis Syura Terstruktur.**| QS. Asy-Syura: 38; Al-Mawardi.| Forum syura resmi & SOP transparan. |
 | **Kualifikasi Musyrif**| Santri senior tanpa pelatihan & lisensi.| Pegawai kontrak dengan KPI dingin.| **Sertifikasi 4 Pilar Kompetensi Ta'dib.** | QS. Al-Qashash: 26; Maslach (2001).| Pelatihan 14 hari & uji sertifikasi. |
@@ -253,18 +253,18 @@ Standarisasi tata kelola kelembagaan dan musyrif ini membawa dampak fundamental 
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Tata Kelola Kelembagaan dan Standarisasi Musyrif Pesantren TUMBUH, *Kritik atas Manajemen Otokratis dan Ketiadaan Standar Pengasuhan*, 2026.  
+[^1]: Riset Tata Kelola Kelembagaan dan Standarisasi Musyrif Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Manajemen Otokratis dan Ketiadaan Standar Pengasuhan*, 2026.  
 [^2]: QS. Asy-Syura [42]: 38.  
 [^3]: QS. Al-Qashash [28]: 26.  
 [^4]: Ibnu Taimiyyah, *As-Siyasah asy-Syar'iyyah*, Bab *Fi al-Wilayat wal-Amanat*, hlm. 12–35; Al-Mawardi, *Al-Ahkam as-Sulthaniyyah*, hlm. 20–48.  
-[^5]: Blueprint Rekayasa Struktur Organisasi dan Tata Kelola Pesantren TUMBUH, 2026.  
+[^5]: Blueprint Rekayasa Struktur Organisasi dan Tata Kelola Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^6]: Standar Kompetensi dan Modul Continuous Professional Development Musyrif Asrama TUMBUH, 2026.  
 [^7]: Dokumentasi Intervensi Restoratif Kasus Pelanggaran SOP Musyrif PBIS TUMBUH, 2026.  
 [^8]: Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 50–75.  
-[^9]: Fiqh al-Waqf wal-Muhasabah Syar'iyyah Pesantren TUMBUH, 2026.  
-[^10]: Matriks 4 Pilar Standar Kompetensi Musyrif TUMBUH, 2026.  
+[^9]: Fiqh al-Waqf wal-Muhasabah Syar'iyyah Ekosistem Pesantren Berbasis TUMBUH, 2026.  
+[^10]: Matriks 4 Pilar Standar Kompetensi Musyrif dalam sistem TUMBUH, 2026.  
 [^11]: Matriks Tingkatan Kesadaran Tata Kelola Kelembagaan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^12]: Safe School Protocol dan Pedoman Perlindungan Hak Santri TUMBUH, 2026.  
+[^12]: Safe School Protocol dan Pedoman Perlindungan Hak Santri dalam sistem TUMBUH, 2026.  
 [^13]: Deklarasi Pemuliaan Tata Kelola Amanah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

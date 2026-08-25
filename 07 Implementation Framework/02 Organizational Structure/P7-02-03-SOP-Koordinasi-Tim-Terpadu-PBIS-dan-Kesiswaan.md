@@ -1,5 +1,5 @@
 # P7-02-03: SOP KOORDINASI TIM TERPADU PBIS DAN KESISWAAN
-## *Monograf Riset Akademik: Standarisasi Alur Komunikasi Tim Pembina Perilaku Sekolah-Asrama, Integrasi Penanganan Kasus Multi-Tier, dan Mekanisme Rapat Sinkronisasi Harian (Integrated PBIS-Student Affairs Coordination SOP, Daily Sync Briefings, & Behavioral Crisis Triage / Form SKT-PBIS), Integrasi Doktrin 'At-Tawāshī bil Haqqi wash Shabr' Turats Klasik dengan Sugai & Horner's PBIS Leadership Team Framework, Interprofessional Teamwork, Serta Harmoni di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Alur Komunikasi Tim Pembina Perilaku Sekolah-Asrama, Integrasi Penanganan Kasus Multi-Tier, dan Mekanisme Rapat Sinkronisasi Harian (Integrated PBIS-Student Affairs Coordination SOP, Daily Sync Briefings, & Behavioral Crisis Triage / Form SKT-PBIS), Integrasi Doktrin 'At-Tawāshī bil Haqqi wash Shabr' Turats Klasik dengan Sugai & Horner's PBIS Leadership Team Framework, Interprofessional Teamwork, Serta Harmoni di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-02-03/MONOGRAF-RISET-SOP-KOORDINASI-TIM-PBIS/2026`  
 **Domain**: `07 Implementation Framework` > `02 Organizational Structure` (Sub-Modul 03: *Integrated PBIS-Student Affairs Coordination SOP*)  
@@ -210,7 +210,7 @@ Penerapan SOP koordinasi tim terpadu Form SKT ini menghadirkan keunggulan perada
 
 1. **Menjamin Perlakuan Pembinaan yang Adil dan Penuh Kasih Sayang (*Zero Misguided Punishment*)**: Tidak ada lagi santri yang dihukum secara tidak adil akibat ketidaktahuan guru atas kondisi malamnya.
 2. **Membangun Kekompakan dan Kohesi Solid Seluruh Tenaga Pendidik (*Interprofessional Synergy*)**: Menghilangkan sekat prasangka antara staf pengajar sekolah dengan pembina asrama.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wa Tawāshau bil Haqqi dan PBIS Leadership Team Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem koordinasi pengasuhan paling responsif dan harmonis di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wa Tawāshau bil Haqqi dan PBIS Leadership Team Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem koordinasi pengasuhan paling responsif dan harmonis di dunia.[^5]
 
 ---
 
@@ -218,7 +218,7 @@ Penerapan SOP koordinasi tim terpadu Form SKT ini menghadirkan keunggulan perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-02-03: SOP KOORDINASI TIM TERPADU PBIS DAN KESISWAAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-02-03: SOP KOORDINASI TIM TERPADU PBIS DAN KESISWAAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Kerangka kerja PBIS Leadership Team George Sugai dan Robert Horner dalam koordinasi tim pembina perilaku sekolah, Sugai & Horner (2006, hlm. 248 & 2020, hlm. 208).  
 [^2]: Model komunikasi SBAR (Situation, Background, Assessment, Recommendation) dalam serah terima shift tim multidisiplin, Leonard et al. (2004, hlm. 86).  
 [^3]: An-Nawawi, *At-Tibyan fi Adabi Hamalatil Qur'an* (2014, hlm. 94), bab kewajiban pendidik saling bertukar nasihat dan mengabarkan kondisi murid secara berkesinambungan.  
-[^4]: SOP pelaksanaan Morning Sync Huddle 10 menit Tim PBIS Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP koordinasi tim terpadu PBIS dan kesiswaan di Pesantren TUMBUH (2026).  
+[^4]: SOP pelaksanaan Morning Sync Huddle 10 menit Tim PBIS Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP koordinasi tim terpadu PBIS dan kesiswaan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

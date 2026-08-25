@@ -1,5 +1,5 @@
 # P6-06-01: TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF
-## *Monograf Riset Akademik: Metodologi Pengajaran Perilaku Pengganti Fungsional Ekivalen, Rekayasa Respons Adaptif, dan Desensitisasi Dorongan Maladaptif (Functionally Equivalent Replacement Behavior Training FERB & Behavioral Inoculation / Form PRB-Replacement), Integrasi Doktrin 'Ibddālul Sayyi'āt bil Hasanāt wa Tahdzībuth Thibā'' Turats Klasik dengan O'Neill's FERB Model, Applied Behavior Analysis (ABA), Serta Pembiasaan Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Pengajaran Perilaku Pengganti Fungsional Ekivalen, Rekayasa Respons Adaptif, dan Desensitisasi Dorongan Maladaptif (Functionally Equivalent Replacement Behavior Training FERB & Behavioral Inoculation / Form PRB-Replacement), Integrasi Doktrin 'Ibddālul Sayyi'āt bil Hasanāt wa Tahdzībuth Thibā'' Turats Klasik dengan O'Neill's FERB Model, Applied Behavior Analysis (ABA), Serta Pembiasaan Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-06-01/MONOGRAF-RISET-REPLACEMENT-BEHAVIOR-ADAPTIF/2026`  
 **Domain**: `06 Intervention Framework` > `06 Developmental Strategies` (Sub-Modul 01: *Functionally Equivalent Replacement Behavior FERB Training*)  
@@ -213,7 +213,7 @@ Penerapan pelatihan replacement behavior Form PRB ini menghadirkan keunggulan pe
 
 1. **Menghapus Perilaku Masalah Secara Permanen Tanpa Efek Samping Trauma (*True Behavioral Extinction*)**: Kebutuhan psikologis santri terpenuhi melalui cara yang terhormat dan beradab.
 2. **Membekali Santri dengan Keterampilan Komunikasi Asertif Seumur Hidup (*Lifelong Assertive Skills*)**: Santri mampu mengekspresikan kesulitan emosinya secara sehat dan matang.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ibdālus Sayyi'āt bil Hasanāt dan FERB Technology**: Menjadikan pesantren TUMBUH sebagai pionir modifikasi perilaku adaptif berbasis fitrah paling unggul di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ibdālus Sayyi'āt bil Hasanāt dan FERB Technology**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir modifikasi perilaku adaptif berbasis fitrah paling unggul di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan pelatihan replacement behavior Form PRB ini menghadirkan keunggulan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-06-01: TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-06-01: TEKNIK PELATIHAN REPLACEMENT BEHAVIOR ADAPTIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Konsep Functionally Equivalent Replacement Behavior (FERB) Robert O'Neill dalam modifikasi perilaku presisi, O'Neill et al. (2015, hlm. 78).  
 [^2]: Protokol Functional Communication Training (FCT) Edward Carr dalam mereduksi agresi melalui komunikasi asertif, Carr & Durand (1985, hlm. 114).  
 [^3]: Ibnu Miskawaih, *Tahdzibul Akhlaq wa Tath-hirul A'raq* (2011, hlm. 86), bab kaidah pengalihan energi daya jiwa menuju keutamaan tandingannya yang mulia.  
-[^4]: Protokol pelatihan FERB kartu asertif dan eliminasi agresi santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan teknik pelatihan replacement behavior adaptif di Pesantren TUMBUH (2026).  
+[^4]: Protokol pelatihan FERB kartu asertif dan eliminasi agresi santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan teknik pelatihan replacement behavior adaptif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

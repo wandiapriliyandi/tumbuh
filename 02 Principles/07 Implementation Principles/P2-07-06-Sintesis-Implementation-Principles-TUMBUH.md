@@ -28,9 +28,9 @@
   - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Tata Kelola Ekosistem 24 Jam](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-tata-kelola-ekosistem-24-jam)
   - [5. Kasuistika Lapangan: Keberhasilan Replikasi Model TUMBUH di Pesantren Tradisional dan Modern](#5-kasuistika-lapangan-keberhasilan-replikasi-model-tumbuh-di-pesantren-tradisional-dan-modern)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Tata Kelola & Implementasi Lapangan Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-tata-kelola--implementasi-lapangan-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Tata Kelola & Implementasi Lapangan Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-tata-kelola--implementasi-lapangan-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional Lima Pilar Implementasi ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-lima-pilar-implementasi-ke-dalam-kehidupan-pesantren-24-jam)
-  - [3. Protokol Penjaminan Mutu & Standarisasi Akreditasi Pesantren TUMBUH Mandiri](#3-protokol-penjaminan-mutu--standarisasi-akreditasi-pesantren-tumbuh-mandiri)
+  - [3. Protokol Penjaminan Mutu & Standarisasi Akreditasi Ekosistem Pesantren Berbasis TUMBUH Mandiri](#3-protokol-penjaminan-mutu--standarisasi-akreditasi-pesantren-tumbuh-mandiri)
   - [4. Penutupan Paripurna Master Domain 02 Principles Menuju Domain 03 Architecture](#4-penutupan-paripurna-master-domain-02-principles-menuju-domain-03-architecture)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
 - [BAB III: KESIMPULAN & APARATUS AKADEMIS](#bab-iii-kesimpulan--aparatus-akademis)
@@ -113,7 +113,7 @@ Sintesis prinsip implementasi ini menyempurnakan Triad Pertumbuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Tata Kelola & Implementasi Lapangan Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Tata Kelola & Implementasi Lapangan Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Tata Kelola Lapangan (*Bayan at-Tathbiq al-Idariy*)**:
 
@@ -152,7 +152,7 @@ flowchart TD
 
 ---
 
-### 3. Protokol Penjaminan Mutu & Standarisasi Akreditasi Pesantren TUMBUH Mandiri
+### 3. Protokol Penjaminan Mutu & Standarisasi Akreditasi Ekosistem Pesantren Berbasis TUMBUH Mandiri
 
 TUMBUH menetapkan **Protokol Akreditasi Mutu Mandiri**:
 1. **Verifikasi Kepatuhan TFI Semesteran**: Setiap unit asrama wajib diaudit dengan instrumen Pesantren TFI Rubric.
@@ -185,7 +185,7 @@ Sintesis Implementation Principles ini menegaskan arah kebangkitan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07-06: SINTESIS IMPLEMENTATION PRINCIPLES DAN GRAND MANIFESTO TATA KELOLA (SYNTHESIS OF IMPLEMENTATION PRINCIPLES)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07-06: SINTESIS IMPLEMENTATION PRINCIPLES DAN GRAND MANIFESTO TATA KELOLA (SYNTHESIS OF IMPLEMENTATION PRINCIPLES)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -258,11 +258,11 @@ flowchart TD
 [^3]: Laporan Uji Kesiapan Skalabilitas Lapangan dan Triad Pertumbuhan Simbiotik TUMBUH, 2026.  
 [^4]: Dokumentasi Evaluasi Replikasi Sistem Manajemen Terpadu di Tujuh Pesantren Mitra TUMBUH, 2026.  
 [^5]: Kotter, J. P. (2012); Master Blueprint Manajemen Perubahan Budaya Asrama TUMBUH, 2026.  
-[^6]: Joyce, B., & Showers, B. (2002); Master Blueprint Pelatihan dan Supervisi Musyrif TUMBUH, 2026.  
+[^6]: Joyce, B., & Showers, B. (2002); Master Blueprint Pelatihan dan Supervisi Musyrif dalam sistem TUMBUH, 2026.  
 [^7]: Epstein, J. L. (2018); Master Blueprint Sinergi Tripartit dan Mitigasi Vacation Regression TUMBUH, 2026.  
 [^8]: Deming, W. E. (1986); Master Blueprint Penjaminan Mutu Itqan dan Siklus PDCA TUMBUH, 2026.  
 [^9]: Master Blueprint Khidmah Sosial Warga Sekitar dan Akuntabilitas Publik TUMBUH, 2026.  
-[^10]: Standar Operasional Prosedur Akreditasi Mutu Mandiri Pesantren TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Akreditasi Mutu Mandiri Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^11]: Blueprint Penjalaran Epistemologis Menuju Domain 03 Institutional Architecture TUMBUH, 2026.  
 [^12]: Deklarasi Grand Manifesto Tata Kelola dan Implementasi Lapangan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

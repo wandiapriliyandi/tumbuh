@@ -28,7 +28,7 @@
   - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Bimbingan dan Disiplin Restoratif](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-bimbingan-dan-disiplin-restoratif)
   - [5. Kasuistika Lapangan: Evaluasi Keberhasilan Transformasi Disiplin Restoratif di Pesantren Mitra TUMBUH](#5-kasuistika-lapangan-evaluasi-keberhasilan-transformasi-disiplin-restoratif-di-pesantren-mitra-tumbuh)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-disiplin-positif--pemulihan-restoratif-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Disiplin Positif & Pemulihan Restoratif Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-disiplin-positif--pemulihan-restoratif-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional Enam Pilar Intervensi ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-enam-pilar-intervensi-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Intervensi Berkelanjutan (Intervention Quality Assurance SOP)](#3-protokol-penjaminan-mutu--supervisi-intervensi-berkelanjutan-intervention-quality-assurance-sop)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 07 Implementation Principles](#4-jembatan-epistemologis-menuju-sub-domain-07-implementation-principles)
@@ -116,7 +116,7 @@ Sintesis prinsip intervensi ini mewujudkan Triad Pertumbuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Disiplin Positif & Pemulihan Restoratif Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Disiplin Positif & Pemulihan Restoratif Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Disiplin Positif (*Bayan at-Ta'dib al-Ishlahiy*)**:
 
@@ -199,7 +199,7 @@ Sintesis Prinsip Intervensi ini menegaskan arah kebangkitan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-07: SINTESIS PRINSIP INTERVENSI DAN GRAND MANIFESTO PEMULIHAN RESTORATIF (SYNTHESIS OF INTERVENTION PRINCIPLES)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-07: SINTESIS PRINSIP INTERVENSI DAN GRAND MANIFESTO PEMULIHAN RESTORATIF (SYNTHESIS OF INTERVENTION PRINCIPLES)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

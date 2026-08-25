@@ -1,5 +1,5 @@
 # P7-01-05: PROTOKOL KADERISASI KEPEMIMPINAN DAN SUCCESSION PLANNING
-## *Monograf Riset Akademik: Standarisasi Rencana Suksesi Kepemimpinan Lembaga, Jalur Karier Pendidik/Musyrif Berbasis Meritokrasi, dan Regenerasi Keberlanjutan Nilai Institusi (Leadership Succession Planning, Merit-Based Educator Career Pathways, & Institutional Continuity / Form KKS-Kaderisasi), Integrasi Doktrin 'Al-Istikhlāf wal Kifāyah wal 'Ahd' Turats Klasik dengan Rothwell's Effective Succession Planning, Talent Management Frameworks, Serta Keberlanjutan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rencana Suksesi Kepemimpinan Lembaga, Jalur Karier Pendidik/Musyrif Berbasis Meritokrasi, dan Regenerasi Keberlanjutan Nilai Institusi (Leadership Succession Planning, Merit-Based Educator Career Pathways, & Institutional Continuity / Form KKS-Kaderisasi), Integrasi Doktrin 'Al-Istikhlāf wal Kifāyah wal 'Ahd' Turats Klasik dengan Rothwell's Effective Succession Planning, Talent Management Frameworks, Serta Keberlanjutan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-01-05/MONOGRAF-RISET-KADERISASI-SUCCESSION-PLANNING/2026`  
 **Domain**: `07 Implementation Framework` > `01 Governance` (Sub-Modul 05: *Leadership Succession Planning & Merit-Based Career Pathways*)  
@@ -211,7 +211,7 @@ Penerapan protokol kaderisasi kepemimpinan Form KKS ini menghadirkan keunggulan 
 
 1. **Menjamin Keberlangsungan Visi Pesantren Hingga Ratusan Tahun (*Century-Long Institutional Continuity*)**: Mencegah keruntuhan lembaga akibat krisis suksesi dan kematian figur pendiri.
 2. **Membakar Motivasi dan Loyalitas Tenaga Pendidik (*High Retention & Staff Motivation*)**: Musyrif berjuang maksimal karena melihat masa depan dan jalur karier yang cerah dan adil.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Istikhlaf dan Succession Planning Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem regenerasi kepemimpinan paling visioner dan profesional di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Istikhlaf dan Succession Planning Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem regenerasi kepemimpinan paling visioner dan profesional di dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan protokol kaderisasi kepemimpinan Form KKS ini menghadirkan keunggulan 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-01-05: PROTOKOL KADERISASI KEPEMIMPINAN DAN SUCCESSION PLANNING** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-01-05: PROTOKOL KADERISASI KEPEMIMPINAN DAN SUCCESSION PLANNING** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -287,8 +287,8 @@ flowchart TD
 [^1]: Kerangka kerja Effective Succession Planning William J. Rothwell dalam manajemen suksesi dan kesinambungan talenta kepemimpinan, Rothwell (2005, hlm. 14 & 2010, hlm. 72).  
 [^2]: Model Strategic Talent Management dan retensi SDM pendidikan, Armstrong & Taylor (2020, hlm. 284) & Ulrich & Brockbank (2005, hlm. 116).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 24), bab syarat sahnya pengangkatan suksesi kepemimpinan berdasarkan kemaslahatan umat dan larangan nepotisme.  
-[^4]: Protokol suksesi kepemimpinan strategis dan transisi jabatan mudir Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol kaderisasi kepemimpinan dan succession planning di Pesantren TUMBUH (2026).  
+[^4]: Protokol suksesi kepemimpinan strategis dan transisi jabatan mudir Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol kaderisasi kepemimpinan dan succession planning di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

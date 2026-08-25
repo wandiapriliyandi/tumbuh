@@ -1,5 +1,5 @@
 # P5-06-04: PROTOKOL KOREKSI BIAS PENILAIAN DIRI SANTRI
-## *Monograf Riset Akademik: Protokol Kalibrasi dan Penyelarasan Bias Asesmen Diri Santri (Self-Assessment Bias Correction & Calibration Protocol / Form KBD-Kalibrasi), Integrasi Doktrin 'Ujub, Ghurur, wa Ihqār an-Nafs Turats Klasik dengan Dunning-Kruger Effect, Impostor Phenomenon, & Triangulation Adjustment, Serta Konseling Penyelarasan Ego di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Kalibrasi dan Penyelarasan Bias Asesmen Diri Santri (Self-Assessment Bias Correction & Calibration Protocol / Form KBD-Kalibrasi), Integrasi Doktrin 'Ujub, Ghurur, wa Ihqār an-Nafs Turats Klasik dengan Dunning-Kruger Effect, Impostor Phenomenon, & Triangulation Adjustment, Serta Konseling Penyelarasan Ego di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-06-04/MONOGRAF-RISET-KOREKSI-BIAS-PENILAIAN-DIRI/2026`  
 **Domain**: `05 Assessment Framework` > `06 Self Assessment` (Sub-Modul 04: *Self-Assessment Bias Correction & Metacognitive Calibration Protocol*)  
@@ -227,7 +227,7 @@ Penerapan protokol koreksi bias penilaian diri Form KBD ini menghadirkan keunggu
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-06-04: PROTOKOL KOREKSI BIAS PENILAIAN DIRI SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-06-04: PROTOKOL KOREKSI BIAS PENILAIAN DIRI SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Penelitian klasik Dunning & Kruger mengenai bias ilusi superioritas pada individu berpengetahuan rendah, Kruger & Dunning (1999, hlm. 1124).  
 [^2]: Fenomena Impostor Syndrome dan ketidakmampuan mengkalibrasi prestasi diri secara objektif, Clance & Imes (1978, hlm. 243).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 372), bab definisi hakikat 'ujub dan terapi penyembuhannya.  
-[^4]: Protokol dialog kalibrasi penilaian diri dan terapi kesombongan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol koreksi bias penilaian diri di Pesantren TUMBUH (2026).  
+[^4]: Protokol dialog kalibrasi penilaian diri dan terapi kesombongan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol koreksi bias penilaian diri di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

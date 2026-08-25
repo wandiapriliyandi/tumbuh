@@ -28,7 +28,7 @@
   - [4. Konvergensi Child Safeguarding Internasional & Hak Kerahasiaan Privasi Santri (Satrul 'Aurat)](#4-konvergensi-child-safeguarding-internasional--hak-kerahasiaan-privasi-santri-satrul-aurat)
   - [5. Kasuistika Lapangan: Kasus Perundungan Senior Berkedok Disiplin & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-perundungan-senior-berkedok-disiplin--resolusi-restoratif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Piagam Kemuliaan Martabat & Hak Asasi Santri TUMBUH](#1-eksplanasi-teoretis-piagam-kemuliaan-martabat--hak-asasi-santri-tumbuh)
+  - [1. Eksplanasi Teoretis Piagam Kemuliaan Martabat & Hak Asasi Santri dalam sistem TUMBUH](#1-eksplanasi-teoretis-piagam-kemuliaan-martabat--hak-asasi-santri-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Penegakan Martabat (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-penegakan-martabat-maratib-al-idrak)
   - [3. Matriks Lima Hak Fundamental Santri & Kewajiban Institusi Pesantren](#3-matriks-lima-hak-fundamental-santri--kewajiban-institusi-pesantren)
   - [4. Protokol Perlindungan Anak dan Pencegahan Kekerasan Pengasuhan (Child Safeguarding Protocol)](#4-protokol-perlindungan-anak-dan-pencegahan-kekerasan-pengasuhan-child-safeguarding-protocol)
@@ -111,7 +111,7 @@ Ekosistem TUMBUH menyelaraskan protokol perlindungan anak (*Child Safeguarding F
 
 ---
 
-### 1. Eksplanasi Teoretis Piagam Kemuliaan Martabat & Hak Asasi Santri TUMBUH
+### 1. Eksplanasi Teoretis Piagam Kemuliaan Martabat & Hak Asasi Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH mengkodifikasikan hak santri dalam **Piagam Hak Asasi & Kemuliaan Martabat Santri (*Mitsaq Huquq wa Karamah at-Thalib*)**:
 
@@ -248,7 +248,7 @@ Penegakan kemuliaan martabat santri membawa dampak peradaban yang transformatif:
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Hak Asasi Santri dan Perlindungan Martabat Pesantren TUMBUH, *Kritik atas Normalisasi Kekerasan Pengasuhan*, 2026.  
+[^1]: Riset Hak Asasi Santri dan Perlindungan Martabat Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Normalisasi Kekerasan Pengasuhan*, 2026.  
 [^2]: QS. Al-Isra' [17]: 70.  
 [^3]: *Shahih al-Bukhari*, Kitab al-'Ilm, Hadits No. 1741.  
 [^4]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 4, hlm. 195–230; Deklarasi Zero Physical Strike TUMBUH, 2026.  
@@ -260,7 +260,7 @@ Penegakan kemuliaan martabat santri membawa dampak peradaban yang transformatif:
 [^10]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 22–48.  
 [^11]: Zehr, H. (2002), *The Little Book of Restorative Justice*, hlm. 30–60.  
 [^12]: Matriks Tingkatan Kesadaran Penegakan Martabat (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^13]: Standar Operasional Prosedur Child Safeguarding dan Pencegahan Kekerasan Pesantren TUMBUH, 2026.  
+[^13]: Standar Operasional Prosedur Child Safeguarding dan Pencegahan Kekerasan Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^14]: Deklarasi Perlindungan Martabat Insan dan Hak Asasi Santri Dewan Riset Ekosistem TUMBUH, 2026.
 
 ---

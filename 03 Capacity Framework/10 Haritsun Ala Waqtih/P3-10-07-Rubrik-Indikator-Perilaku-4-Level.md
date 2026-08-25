@@ -227,7 +227,7 @@ Implementasi rubrik 4-level Haritsun 'Ala Waqtih menghasilkan standar baru evalu
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -297,7 +297,7 @@ flowchart TD
 [^2]: Penerapan asesmen ipsatif dalam memotret pertumbuhan kedisiplinan dan fungsi eksekutif waktu, Hughes (2014, hlm. 40).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 358).  
 [^4]: Protokol kalibrasi antar-penilai dan resolusi disparitas evaluasi disiplin waktu asrama, Sugai & Horner (2020, hlm. 210).  
-[^5]: Standar formula indeks karakter waktu dan kelayakan wisuda santri TUMBUH (2026).  
+[^5]: Standar formula indeks karakter waktu dan kelayakan wisuda santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penjaminan mutu karakter waktu berbasis data faktual TUMBUH Pesantren (2026).  
 
 ---

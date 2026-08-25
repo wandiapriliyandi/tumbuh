@@ -13,7 +13,7 @@
 > * **Krisis Intelektualisme & Jebakan Taklid Buta di Pesantren:**  
 >   Pendidikan di sebagian pesantren tradisional kerap mereduksi aktivitas berpikir semata-mata sebagai "hafalan mekanistik teks" (*Rote Memorization*) tanpa melatih nalar kritis (*Critical Inquiry*), analisis komparatif, dan sintesis kontekstual. Santri diajarkan untuk menerima teks secara dogmatis tanpa memahami metodologi istinbath hukum dan relasinya dengan realitas kontemporer, melahirkan fenomena stagnasi intelektual (*Jumud*) dan kerentanan terhadap narasi hoaks serta polarisasi pemikiran.
 > * **Inovasi Epistemologis Mutsaqqaful Fikr TUMBUH:**  
->   *Mutsaqqaful Fikr* (Karakter ke-5 dari 10 Muwashafat Santri TUMBUH) didefinisikan sebagai **kapasitas kecerdasan intelektual yang luas, mendalam, kritis, dan beradab, yang memadukan penguasaan teks wahyu (*Bayan*), ketajaman logika rasional empiris (*Burhan*), dan kejernihan intuisi spiritual (*Irfan*), guna memecahkan problematika peradaban umat**.
+>   *Mutsaqqaful Fikr* (Karakter ke-5 dari 10 Muwashafat Santri dalam sistem TUMBUH) didefinisikan sebagai **kapasitas kecerdasan intelektual yang luas, mendalam, kritis, dan beradab, yang memadukan penguasaan teks wahyu (*Bayan*), ketajaman logika rasional empiris (*Burhan*), dan kejernihan intuisi spiritual (*Irfan*), guna memecahkan problematika peradaban umat**.
 > * **Sintesis Turats & Neurosains Kognitif:**  
 >   Monograf ini menyintesiskan teks otoritatif Turats (*Jami' Bayanil 'Ilmi wa Fadhlih* karya Ibnu Abdil Barr, *Adab ad-Dunya wad-Din* karya Al-Mawardi, dan *Bidayatul Mujtahid* karya Ibnu Rusyd) dengan konsensus neurosains kognitif modern (*Cognitive Load Theory*, *Executive Functioning Prefrontal Cortex*, dan *Metacognition*). Riset ini merekonstruksi Triad Pertumbuhan: santri berwawasan kosmopolitan, guru pemantik nalar kritis (*Inquiry Facilitator*), dan lembaga sebagai inkubator riset peradaban Islam.
 
@@ -248,7 +248,7 @@ Pembaruan menuju standar **Mutsaqqaful Fikr TUMBUH** menghadirkan transformasi m
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-08-01: FILOSOFI DAN LANDASAN TURATS MUTSAQQAFUL FIKR** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-08-01: FILOSOFI DAN LANDASAN TURATS MUTSAQQAFUL FIKR** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

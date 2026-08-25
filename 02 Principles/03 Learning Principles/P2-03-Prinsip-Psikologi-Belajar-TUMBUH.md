@@ -197,7 +197,7 @@ Master Doktrin Learning Principles ini menegaskan masa depan gemilang bagi perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03: LEARNING PRINCIPLES (PRINSIP PEMBELAJARAN & KOGNISI) EKOSISTEM TUMBUH (MASTER DOKTRIN PEDAGOGI BERADAB)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03: LEARNING PRINCIPLES (PRINSIP PEMBELAJARAN & KOGNISI) EKOSISTEM TUMBUH (MASTER DOKTRIN PEDAGOGI BERADAB)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -266,7 +266,7 @@ flowchart TD
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
 [^1]: Riset Master Doktrin Learning Principles Ekosistem TUMBUH, *Kritik atas Dogmatisme Pasif*, 2026.  
-[^2]: Master Konsolidasi Lima Pilar Psikologi Belajar dan Kognisi Santri TUMBUH, 2026.  
+[^2]: Master Konsolidasi Lima Pilar Psikologi Belajar dan Kognisi Santri dalam sistem TUMBUH, 2026.  
 [^3]: Rantai Kausalitas Kognitif-Pedagogis dan Kematangan Adab Santri PBIS TUMBUH, 2026.  
 [^4]: Deklarasi Pengharaman Vonis Moral atas Kesulitan Belajar TUMBUH, 2026.  
 [^5]: Dokumentasi Uji Ketahanan Pedagogi Beradab di Madrasah Mitra PBIS TUMBUH, 2026.  

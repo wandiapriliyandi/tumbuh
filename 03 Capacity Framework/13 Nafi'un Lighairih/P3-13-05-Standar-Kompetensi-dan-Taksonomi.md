@@ -1,5 +1,5 @@
 # P3-13-05: STANDAR KOMPETENSI DAN TAKSONOMI NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Taksonomi Kemanfaatan Sosial Fitrah 4 Level (Al-Ihsan al-Mubtadi' / Khidmah Kamar & Empati Sebaya, Al-Khidmah al-Mubadirah / Kerelawanan Lingkungan & Tutor Sebaya, Al-Qiyadah al-Khadimah / Penggerak Ekspedisi Bina Desa & Restorative Buddy, Serta Ar-Riyadah al-Insaniyyah / Kepemimpinan Servant Leadership & Transformasi Peradaban), Integrasi Taksonomi Afektif Krathwohl & OBE, Serta Matriks Standar Kompetensi Inti & Dasar (SKI-SKD) Jenjang J1–J4 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Taksonomi Kemanfaatan Sosial Fitrah 4 Level (Al-Ihsan al-Mubtadi' / Khidmah Kamar & Empati Sebaya, Al-Khidmah al-Mubadirah / Kerelawanan Lingkungan & Tutor Sebaya, Al-Qiyadah al-Khadimah / Penggerak Ekspedisi Bina Desa & Restorative Buddy, Serta Ar-Riyadah al-Insaniyyah / Kepemimpinan Servant Leadership & Transformasi Peradaban), Integrasi Taksonomi Afektif Krathwohl & OBE, Serta Matriks Standar Kompetensi Inti & Dasar (SKI-SKD) Jenjang J1–J4 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-05/MONOGRAF-RISET-STANDAR-KOMPETENSI-TAKSONOMI-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 05: *Competency Standards & Taxonomy*)  
@@ -213,7 +213,7 @@ Penerapan taksonomi kemanfaatan sosial fitrah melahirkan lompatan mutu pendidika
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-05: STANDAR KOMPETENSI DAN TAKSONOMI NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-05: STANDAR KOMPETENSI DAN TAKSONOMI NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

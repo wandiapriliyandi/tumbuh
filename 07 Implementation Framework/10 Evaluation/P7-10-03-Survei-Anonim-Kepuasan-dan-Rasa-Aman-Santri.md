@@ -1,5 +1,5 @@
 # P7-10-03: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI
-## *Monograf Riset Akademik: Standarisasi Instrumen Survei Kepuasan dan Indeks Rasa Aman Santri (Student Safety Index / SSI), Metodologi Pengumpulan Data Anonim Bebas Tekanan, dan Analisis Iklim Psikososial Pesantren (Student Safety Index Measurement, Anonymous Data Collection Protocol, & Psychosocial Climate Analysis / Form SAK-Survei), Integrasi Doktrin 'Al-Amn wal Amān fil Bay'ah ash-Shālihah' Turats Klasik dengan School Climate Measure (CSCI), Psychological Safety Theory Edmondson, Serta Perlindungan Hak Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Instrumen Survei Kepuasan dan Indeks Rasa Aman Santri (Student Safety Index / SSI), Metodologi Pengumpulan Data Anonim Bebas Tekanan, dan Analisis Iklim Psikososial Pesantren (Student Safety Index Measurement, Anonymous Data Collection Protocol, & Psychosocial Climate Analysis / Form SAK-Survei), Integrasi Doktrin 'Al-Amn wal Amān fil Bay'ah ash-Shālihah' Turats Klasik dengan School Climate Measure (CSCI), Psychological Safety Theory Edmondson, Serta Perlindungan Hak Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-10-03/MONOGRAF-RISET-SURVEI-RASA-AMAN-SANTRI/2026`  
 **Domain**: `07 Implementation Framework` > `10 Evaluation` (Sub-Modul 03: *Student Safety & Psychosocial Climate Survey*)  
@@ -102,7 +102,7 @@ Penerapan protokol survei anonim terstandar menghasilkan peningkatan *Disclosure
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-10-03: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-10-03: SURVEI ANONIM KEPUASAN DAN RASA AMAN SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -155,5 +155,5 @@ flowchart TD
 
 [^1]: Cohen et al. mengenai pentingnya asesmen iklim sekolah komprehensif yang menjangkau seluruh dimensi keselamatan relasional, Cohen et al. (2009, hlm. 184).
 [^2]: Landasan hadits larangan menakut-nakuti atau mengintimidasi sesama mukmin, HR. Abu Dawud No. 5004.
-[^3]: Studi kasus survei anonim mendeteksi feodalisme senioritas terselubung dan resolusi damai Pesantren TUMBUH (2026).
+[^3]: Studi kasus survei anonim mendeteksi feodalisme senioritas terselubung dan resolusi damai Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Korelasi empiris antara Student Safety Index dengan ketahanan hafalan dan penurunan keluhan somatis santri (2026).

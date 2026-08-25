@@ -1,5 +1,5 @@
 # P3-13-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Trajektori Perkembangan Kematangan Kepedulian Sosial & Jiwa Kepemimpinan Pelayan Usia 12–18 Tahun, Integrasi Fiqh Al-Wilayah wal Mas'uliyyah (Tanggung Jawab Kepemimpinan Hadits Kullukum Ra'in) dengan Teori Perkembangan Moral Prososial (Eisenberg & Selman's Perspective-Taking), Serta Desain Protokol Transisi Kenaikan Jenjang (Khidmah Readiness Check) di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Perkembangan Kematangan Kepedulian Sosial & Jiwa Kepemimpinan Pelayan Usia 12–18 Tahun, Integrasi Fiqh Al-Wilayah wal Mas'uliyyah (Tanggung Jawab Kepemimpinan Hadits Kullukum Ra'in) dengan Teori Perkembangan Moral Prososial (Eisenberg & Selman's Perspective-Taking), Serta Desain Protokol Transisi Kenaikan Jenjang (Khidmah Readiness Check) di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-08/MONOGRAF-RISET-TAHAPAN-PERKEMBANGAN-J1-J4-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 08: *Developmental Trajectory J1–J4*)  
@@ -213,7 +213,7 @@ Penerapan trajektori perkembangan jenjang J1–J4 menghadirkan lompatan kematang
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

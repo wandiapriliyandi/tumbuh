@@ -1,5 +1,5 @@
 # P6-07-02: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA
-## *Monograf Riset Akademik: Standarisasi Protokol Penyelenggaraan Lingkaran Restoratif Kamar, Mediasi Konflik Komunal Asrama, dan Rekonsiliasi Ukhuwah (Dormitory Restorative Circles SOP, Talking Piece Rituals, & Community Healing / Form SRC-Circles), Integrasi Doktrin 'Al-Majālis asy-Syūrā wal Ishlāh al-Jamā'ī' Turats Klasik dengan Boyes-Watson & Pranis' Circle Process Model, Whole-School Restorative Justice, Serta Bi'ah Damai di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Penyelenggaraan Lingkaran Restoratif Kamar, Mediasi Konflik Komunal Asrama, dan Rekonsiliasi Ukhuwah (Dormitory Restorative Circles SOP, Talking Piece Rituals, & Community Healing / Form SRC-Circles), Integrasi Doktrin 'Al-Majālis asy-Syūrā wal Ishlāh al-Jamā'ī' Turats Klasik dengan Boyes-Watson & Pranis' Circle Process Model, Whole-School Restorative Justice, Serta Bi'ah Damai di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-07-02/MONOGRAF-RISET-SOP-RESTORATIVE-CIRCLES/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 02: *Dormitory Restorative Circles SOP & Community Healing*)  
@@ -216,7 +216,7 @@ Penerapan SOP Restorative Circles Form SRC ini menghadirkan keunggulan peradaban
 
 1. **Membangun Budaya Saling Memaafkan dan Menyembuhkan Luka Sosial (*Culture of Forgiveness & Healing*)**: Mengikis bibit kebencian dan permusuhan di dalam kamar asrama.
 2. **Melatih Santri Menjadi Fasilitator Perdamaian di Tengah Masyarakat (*Peacebuilders of the Ummah*)**: Santri menguasai seni mediasi dialogis yang beradab dan berkeadilan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Majālisul Ishlāh dan Peacemaking Circles Process**: Mengukuhkan pesantren TUMBUH sebagai ekosistem pendidikan Islam dengan manajemen konflik komunal terbaik di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Majālisul Ishlāh dan Peacemaking Circles Process**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai ekosistem pendidikan Islam dengan manajemen konflik komunal terbaik di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan SOP Restorative Circles Form SRC ini menghadirkan keunggulan peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-07-02: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-07-02: SOP PENYELENGGARAAN RESTORATIVE CIRCLES ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Kerangka kerja Peacemaking Circles Carolyn Boyes-Watson dan Kay Pranis dalam pembangunan komunitas sekolah restoratif, Boyes-Watson & Pranis (2015, hlm. 24) & Pranis (2005, hlm. 12).  
 [^2]: Model penerapan Restorative Circles dalam manajemen resolusi konflik sekolah, Costello, Wachtel, & Wachtel (2010, hlm. 38).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat* (2003, Jilid 2, hlm. 312), bab kewajiban menjaga persatuan hati warga asrama dan keutamaan majelis perdamaian syura.  
-[^4]: Protokol penyelenggaraan Restorative Circle kamar asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP restorative circles asrama di Pesantren TUMBUH (2026).  
+[^4]: Protokol penyelenggaraan Restorative Circle kamar asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP restorative circles asrama di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

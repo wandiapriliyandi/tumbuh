@@ -211,7 +211,7 @@ Pemahaman atas *Sunnatullah at-Taghyir* ini membawa revolusi pedagogis bagi pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-06-01: SUNNATULLAH PERUBAHAN JIWA DAN PERILAKU SANTRI (LAWS OF BEHAVIORAL & SPIRITUAL TRANSFORMATION)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-06-01: SUNNATULLAH PERUBAHAN JIWA DAN PERILAKU SANTRI (LAWS OF BEHAVIORAL & SPIRITUAL TRANSFORMATION)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -279,7 +279,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Sunnatullah Perubahan Jiwa dan Perilaku Santri TUMBUH, *Kritik atas Ilusi Koersi Instan*, 2026.  
+[^1]: Riset Sunnatullah Perubahan Jiwa dan Perilaku Santri dalam sistem TUMBUH, *Kritik atas Ilusi Koersi Instan*, 2026.  
 [^2]: QS. Ar-Ra'd [13]: 11.  
 [^3]: Fakhruddin Ar-Razi, *Mafatih al-Ghaib*, Tafsir QS. Ar-Ra'd: 11, Jilid 19, hlm. 18–25; QS. Al-Anfal [8]: 53.  
 [^4]: Prochaska, J. O., & DiClemente, C. C. (1983), *Journal of Consulting and Clinical Psychology*, hlm. 390–395; Prochaska, et al. (1992), *American Psychologist*, hlm. 1102–1114.  

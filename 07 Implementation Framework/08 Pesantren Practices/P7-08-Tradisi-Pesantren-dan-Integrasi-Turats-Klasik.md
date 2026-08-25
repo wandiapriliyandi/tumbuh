@@ -10,8 +10,8 @@
 
 > ### 💡 INTISARI EKSEKUTIF
 >
-> * **Kedudukan Strategis Gugus Tradisi Pesantren:** Gugus ini adalah jiwa otentik pesantren — merawat dan memperbarui tradisi-tradisi agung yang tidak dimiliki oleh sekolah manapun di luar pesantren. Di sinilah identitas santri TUMBUH ditempa menjadi sesuatu yang lebih dalam dari sekadar nilai akademik.
-> * **Triad Tradisi Pesantren TUMBUH:** (1) **Halaqah Adab** sebagai ruang pembentukan karakter komunal melalui ilmu, (2) **Khidmah Sukarela** sebagai laboratorium kepemimpinan pelayan bebas feodalisme, dan (3) **Ritus Ukhuwah** sebagai momen pembaruan ikatan jiwa melalui makan bersama dan sujud bersama.
+> * **Kedudukan Strategis Gugus Tradisi Pesantren:** Gugus ini adalah jiwa otentik pesantren — merawat dan memperbarui tradisi-tradisi agung yang tidak dimiliki oleh sekolah manapun di luar pesantren. Di sinilah identitas santri dalam sistem TUMBUH ditempa menjadi sesuatu yang lebih dalam dari sekadar nilai akademik.
+> * **Triad Tradisi Ekosistem Pesantren Berbasis TUMBUH:** (1) **Halaqah Adab** sebagai ruang pembentukan karakter komunal melalui ilmu, (2) **Khidmah Sukarela** sebagai laboratorium kepemimpinan pelayan bebas feodalisme, dan (3) **Ritus Ukhuwah** sebagai momen pembaruan ikatan jiwa melalui makan bersama dan sujud bersama.
 > * **3 Monograf Komprehensif:** Form HAT-Halaqah, Form KSS-Khidmah, dan Form RUQ-Ritus.
 
 ---

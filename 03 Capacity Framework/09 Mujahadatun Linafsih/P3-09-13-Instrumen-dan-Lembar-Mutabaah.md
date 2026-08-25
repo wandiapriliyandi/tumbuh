@@ -303,7 +303,7 @@ Kodifikasi paket instrumen Mujahadatun Linafsih menghadirkan tata kelola kelemba
 [^2]: Pembahasan kelemahan ketiadaan logbook muhasabah batin mandiri pada remaja asrama, Nelsen (2006, hlm. 118).  
 [^3]: Al-Muhasibi, *Ar-Ri'ayah li Huquqillah* (2003, hlm. 48).  
 [^4]: Protokol penanganan pemalsuan rekam ibadah dan restorasi kejujuran spiritual, Sugai & Horner (2020, hlm. 210).  
-[^5]: Standarisasi operasional instrumen mediasi restoratif santri TUMBUH Pesantren (2026).  
+[^5]: Standarisasi operasional instrumen mediasi restoratif santri dalam sistem TUMBUH Pesantren (2026).  
 [^6]: Dampak kelembagaan penerapan tata kelola pengasuhan digital berbasis data TUMBUH (2026).  
 
 ---

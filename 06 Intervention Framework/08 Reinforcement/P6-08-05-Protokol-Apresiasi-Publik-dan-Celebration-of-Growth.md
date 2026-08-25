@@ -1,5 +1,5 @@
 # P6-08-05: PROTOKOL APRESIASI PUBLIK DAN CELEBRATION OF GROWTH
-## *Monograf Riset Akademik: Standarisasi Upacara Pengakuan Prestasi Adab, Perayaan Pertumbuhan Karakter Komunal, dan Syiar Tahadduts bin Ni'mah (Public Recognition Protocols, School-Wide Milestone Celebrations, & Tahadduts bin Ni'mah / Form PAP-Apresiasi), Integrasi Doktrin 'Wa Ammā bi Ni'mati Rabbika fa Haddits' Turats Klasik dengan Hattie's Visible Learning & Feedback, Collective Efficacy Theory (Bandura), Serta Kebanggaan Izzah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Upacara Pengakuan Prestasi Adab, Perayaan Pertumbuhan Karakter Komunal, dan Syiar Tahadduts bin Ni'mah (Public Recognition Protocols, School-Wide Milestone Celebrations, & Tahadduts bin Ni'mah / Form PAP-Apresiasi), Integrasi Doktrin 'Wa Ammā bi Ni'mati Rabbika fa Haddits' Turats Klasik dengan Hattie's Visible Learning & Feedback, Collective Efficacy Theory (Bandura), Serta Kebanggaan Izzah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-08-05/MONOGRAF-RISET-APRESIASI-PUBLIK-CELEBRATION/2026`  
 **Domain**: `06 Intervention Framework` > `08 Reinforcement` (Sub-Modul 05: *Public Recognition Protocols & Milestone Celebrations*)  
@@ -192,7 +192,7 @@ Atas kesungguhan mujahadah, ketekunan memperbaiki diri, dan keluhuran akhlaq yan
 
 "Semoga Allah SWT senantiasa menjaga keikhlasanmu dan menjadikanmu permata hati umat Islam."
 
-Ditetapkan di Pesantren TUMBUH, Jum'at 28 Agustus 2026:
+Ditetapkan di Ekosistem Pesantren Berbasis TUMBUH, Jum'at 28 Agustus 2026:
 Mudir 'Aam Pesantren: ____________________    Ketua Dewan Pengasuhan: ____________________
 ====================================================================================================
 ```
@@ -205,7 +205,7 @@ Penerapan protokol apresiasi publik Form PAP ini menghadirkan keunggulan peradab
 
 1. **Membangun Budaya Saling Mendukung dan Bangga Atas Kebaikan Kawan (*Culture of Collective Pride*)**: Mengikis rasa iri dengki (*Hasad*) dan menggantinya dengan kebahagiaan melihat saudara bertumbuh (*Ghibthah*).
 2. **Memberdayakan Santri yang Lambat Menjadi Termotivasi Kuat (*Inclusion of Struggling Learners*)**: Setiap santri merasa memiliki peluang yang sama untuk meraih kemuliaan di atas panggung adab.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tahadduts bin Ni'mah dan Visible Recognition Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan ekosistem penghargaan fitrah paling menggugah di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tahadduts bin Ni'mah dan Visible Recognition Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan ekosistem penghargaan fitrah paling menggugah di dunia.[^5]
 
 ---
 
@@ -213,7 +213,7 @@ Penerapan protokol apresiasi publik Form PAP ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-08-05: PROTOKOL APRESIASI PUBLIK DAN CELEBRATION OF GROWTH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-08-05: PROTOKOL APRESIASI PUBLIK DAN CELEBRATION OF GROWTH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -281,8 +281,8 @@ flowchart TD
 [^1]: Konsep Visible Learning dan efektivitas Visible Recognition John Hattie dalam akselerasi budaya positif sekolah, Hattie (2009, hlm. 174) & Hattie & Timperley (2007, hlm. 86).  
 [^2]: Teori Collective Efficacy Albert Bandura dalam penguatan keyakinan komunal sekolah melalui perayaan kemenangan bersama, Bandura (2000, hlm. 76).  
 [^3]: Al-Qurthubi, *Al-Jami' li Ahkamil Qur'an* (2006, Jilid 20, hlm. 102), bab tafsir ayat tahadduts bin ni'mah dan keutamaan mengapresiasi teladan kebaikan di hadapan publik.  
-[^4]: Protokol panggung apresiasi Bintang Jum'at dan pemulihan kepercayaan diri santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol apresiasi publik dan celebration of growth di Pesantren TUMBUH (2026).  
+[^4]: Protokol panggung apresiasi Bintang Jum'at dan pemulihan kepercayaan diri santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol apresiasi publik dan celebration of growth di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

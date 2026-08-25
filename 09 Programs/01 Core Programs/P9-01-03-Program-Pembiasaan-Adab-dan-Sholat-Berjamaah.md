@@ -1,5 +1,5 @@
 # P9-01-03: PROGRAM PEMBIASAAN ADAB DAN SHOLAT BERJAMAAH
-## *Monograf Riset Akademik: Standarisasi Program Pembiasaan Shalat Berjamaah 5 Waktu di Masjid Utama sebagai Pusat Gravitasi Pengasuhan Asrama 24 Jam, Fiqh Membangunkan Penuh Kasih Sayang (Fiqh al-Inhādli bil-Luthf), dan Rekayasa Pembiasaan Adab Harian (Daily 5-Time Congregational Prayer Habituation, Fiqh of Gentle Waking, & 24-Hour Adab Conditioning / Form PRO-ShalatBerjamaah), Integrasi Doktrin 'Ta'zhīmu Sha'ā'irillāh wa Irsā'u al-Qudwah' Turats Klasik dengan Lewin Field Theory of Behavior, Nudge Behavioral Architecture Thaler, Serta Ketakwaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Pembiasaan Shalat Berjamaah 5 Waktu di Masjid Utama sebagai Pusat Gravitasi Pengasuhan Asrama 24 Jam, Fiqh Membangunkan Penuh Kasih Sayang (Fiqh al-Inhādli bil-Luthf), dan Rekayasa Pembiasaan Adab Harian (Daily 5-Time Congregational Prayer Habituation, Fiqh of Gentle Waking, & 24-Hour Adab Conditioning / Form PRO-ShalatBerjamaah), Integrasi Doktrin 'Ta'zhīmu Sha'ā'irillāh wa Irsā'u al-Qudwah' Turats Klasik dengan Lewin Field Theory of Behavior, Nudge Behavioral Architecture Thaler, Serta Ketakwaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-01-03/MONOGRAF-RISET-PEMBIASAAN-SHALAT-BERJAMAAH/2026`  
 **Domain**: `09 Programs` > `01 Core Programs` (Sub-Modul 03: *Daily Congregational Prayer Habituation & Fiqh of Gentle Waking*)  
@@ -103,7 +103,7 @@ Penerapan *Fiqh al-Inhādli bil-Luthf* yang diselaraskan dengan *Behavioral Nudg
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-01-03: PROGRAM PEMBIASAAN ADAB DAN SHOLAT BERJAMAAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-01-03: PROGRAM PEMBIASAAN ADAB DAN SHOLAT BERJAMAAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -156,5 +156,5 @@ flowchart TD
 
 [^1]: Thaler & Sunstein mengenai prinsip Choice Architecture dan Behavioral Nudges dalam merekayasa kebiasaan positif manusia, Thaler & Sunstein (2008, hlm. 14).
 [^2]: Imam An-Nawawi mengenai adab membangunkan orang tidur dengan kelembutan maksimal untuk shalat, Al-Adzkar (2002, hlm. 142).
-[^3]: Studi kasus penerapan Fiqh al-Inhadh mentransformasi iklim fajar blok asrama santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Fiqh al-Inhadh mentransformasi iklim fajar blok asrama santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pencahayaan sirkadian dan keteladanan shaf pertama musyrif terhadap eliminasi sleep inertia santri (2026).

@@ -187,7 +187,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem informasi pembinaan karakter yang memadukan pencatatan multi-sumber (*Triangulasi 360°*), pengkodean terstandarisasi (*Taxonomic Tagging*), dan antarmuka berkecepatan tinggi (<10 detik) niscaya menghasilkan akurasi diagnostik yang tinggi dan mencegah beban kerja berlebih (*Zero Administrative Burnout*) bagi para pendidik.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Arsitektur digital PBIS TUMBUH menyediakan kode tagging `[AQ-POS]` dan `[AQ-NEG]` yang terhubung langsung dengan rubrik BARS Salimul Aqidah.
-* **Konklusi (*an-Natijah*)**: Maka, pemantauan karakter santri di pesantren TUMBUH berlangsung efisien, objektif, dan terintegrasi 24 jam.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, pemantauan karakter santri dalam sistem TUMBUH di pesantren berlangsung efisien, objektif, dan terintegrasi 24 jam.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Ergonomi Tagging Digital Musyrif (<10 Detik Per Input)
 * **Pihak A (Sudut Pandang Keengganan Administrasi)**:  
@@ -323,7 +323,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-07: RUBRIK INDIKATOR PERILAKU EMPAT LEVEL SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-07: RUBRIK INDIKATOR PERILAKU EMPAT LEVEL SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -391,20 +391,20 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Psikometri Rapor Karakter Pesantren TUMBUH, *Kritik atas Bias Skala Likert Tradisional*, 2026.  
+[^1]: Riset Evaluasi Psikometri Rapor Karakter Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Bias Skala Likert Tradisional*, 2026.  
 [^2]: Asy-Syathibi, *Al-Muwafaqat*, Jilid 2, hlm. 210–235.  
 [^3]: QS. Al-Anbiya [21]: 47.  
 [^4]: QS. Al-Zalzalah [99]: 7–8.  
 [^5]: Al-Mawardi, *Al-Ahkam as-Sulthaniyyah*, Bab *Adab al-Qadhi*, hlm. 88–104.  
 [^6]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Taubah*, hlm. 12–35.  
-[^7]: Standar Prosedur Operasional Kemitraan Mesosistem Wali Santri TUMBUH, 2026.  
+[^7]: Standar Prosedur Operasional Kemitraan Mesosistem Wali Santri dalam sistem TUMBUH, 2026.  
 [^8]: Smith, P. C., & Kendall, L. M. (1963), *Journal of Applied Psychology*, hlm. 149–155.  
 [^9]: Brookhart, S. M. (2018), *Frontiers in Education*, hlm. 1–12.  
 [^10]: Cohen, J. (1960), *Educational and Psychological Measurement*, hlm. 37–46.  
 [^11]: Standard Setting Technical Report TUMBUH, *Angoff Cut-Score Calibration*, 2026.  
 [^12]: Horner, R. H., et al. (2010), *Focus on Exceptional Children*, hlm. 1–14.  
-[^13]: Dokumentasi UI/UX Desain Antarmuka Logbook Digital Musyrif TUMBUH, 2026.  
-[^14]: Protokol Keamanan Siber & Privasi Data Perlindungan Santri TUMBUH, 2026.  
+[^13]: Dokumentasi UI/UX Desain Antarmuka Logbook Digital Musyrif dalam sistem TUMBUH, 2026.  
+[^14]: Protokol Keamanan Siber & Privasi Data Perlindungan Santri dalam sistem TUMBUH, 2026.  
 [^15]: Panduan Sistem Deteksi Dini Early Warning Tier 2 PBIS TUMBUH, 2026.  
 [^16]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–48.  
 [^17]: Dokumentasi Kasus Resolusi Asesmen & Bimbingan Konseling TUMBUH, 2026.

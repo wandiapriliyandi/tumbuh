@@ -126,7 +126,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan sistem pembiasaan yang merekayasa norma sosial sebaya (*Ajzen's Subjective Norms*) dan menata arsitektur lingkungan fisik (*Thaler's Nudge Architecture*) niscaya meningkatkan niat pelaksanaan ibadah (*Behavioral Intention*) dan mengotomatiskan kedisiplinan santri tanpa membutuhkan ancaman kekerasan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH merancang rak sandal bersekat nama, indikator garis saf presisi, dan budaya ukhuwah shalat berjamaah berbasis prinsip Nudge-Ajzen.
-* **Konklusi (*an-Natijah*)**: Maka, manifestasi perilaku ibadah santri di pesantren TUMBUH terbentuk secara organik, tertib, dan mandiri.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, manifestasi perilaku ibadah santri dalam sistem TUMBUH di pesantren terbentuk secara organik, tertib, dan mandiri.[^8]
 
 ```mermaid
 flowchart LR
@@ -186,7 +186,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap karakter kesalehan ibadah yang berhasil diinternalisasikan ke dalam jiwa peserta didik niscaya memanifestasikan indikator perilaku positif yang konsisten di seluruh ruang hidup 24 jam (Tempat Wudhu, Masjid, Kamar, dan Kelas).
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH memetakan manifestasi perilaku Shahihul Ibadah secara spesifik pada 4 lokus asrama pesantren.
-* **Konklusi (*an-Natijah*)**: Maka, pemantauan dan pembinaan ibadah santri di pesantren TUMBUH berlangsung secara menyeluruh, adil, dan objektif.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, pemantauan dan pembinaan ibadah santri dalam sistem TUMBUH di pesantren berlangsung secara menyeluruh, adil, dan objektif.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Lokus Tempat Wudhu: Adab Bersuci dan Konservasi Air
 * **Pihak A (Sudut Pandang Tempat Wudhu Bebas Adab)**:  
@@ -324,7 +324,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-06: MANIFESTASI PERILAKU SANTRI SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-06: MANIFESTASI PERILAKU SANTRI SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -392,7 +392,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Observasi Perilaku Ibadah Asrama Pesantren TUMBUH, *Kritik atas Asumsi Subjektivitas Batin Tanpa Indikator Perilaku*, 2026.  
+[^1]: Riset Observasi Perilaku Ibadah Asrama Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Asumsi Subjektivitas Batin Tanpa Indikator Perilaku*, 2026.  
 [^2]: Ibnu Rajab al-Hanbali, *Jami' al-'Ulum wal-Hikam*, Hadits No. 6, Jilid 1, hlm. 180–210.  
 [^3]: QS. Al-Fath [48]: 29.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Asrar ash-Shalah*, hlm. 165.  
@@ -407,7 +407,7 @@ flowchart TD
 [^13]: *Sunan Abi Dawud*, Kitab ath-Thaharah, Hadits No. 142.  
 [^14]: *Shahih al-Bukhari*, Kitab al-Adzan, Hadits No. 842.  
 [^15]: *Shahih al-Bukhari*, Kitab ash-Shalah, Hadits No. 432; Pedoman Rumah Bercahaya Shalat Sunnah Asrama TUMBUH, 2026.  
-[^16]: Dokumentasi Kasus Resolusi Bimbingan Bangun Fajar & Higiene Tidur Santri TUMBUH, 2026.  
+[^16]: Dokumentasi Kasus Resolusi Bimbingan Bangun Fajar & Higiene Tidur Santri dalam sistem TUMBUH, 2026.  
 [^17]: *Sunan Abi Dawud*, Kitab ash-Shalah, Hadits No. 1332; Dokumentasi Resolusi Adab Tilawah Suara Masjid TUMBUH, 2026.
 
 ---

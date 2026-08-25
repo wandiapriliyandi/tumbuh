@@ -1,5 +1,5 @@
 # P5-04-03: FORMULIR ANALISIS DIAGNOSTIK PERILAKU FBA (FORM FAI & ABC)
-## *Monograf Riset Akademik: Standardisasi Formulir Wawancara Asesmen Fungsional (Functional Assessment Interview / Form FAI) dan Lembar Observasi Rantai Anteseden-Perilaku-Konsekuensi (Form ABC-PBIS) untuk Penanganan Kasus Khusus Tier 3 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Formulir Wawancara Asesmen Fungsional (Functional Assessment Interview / Form FAI) dan Lembar Observasi Rantai Anteseden-Perilaku-Konsekuensi (Form ABC-PBIS) untuk Penanganan Kasus Khusus Tier 3 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-04-03/MONOGRAF-RISET-FORMULIR-DIAGNOSTIK-FBA/2026`  
 **Domain**: `05 Assessment Framework` > `04 Assessment Instruments` (Sub-Modul 03: *FBA Diagnostic Analysis Forms & ABC Observation Tool*)  
@@ -227,7 +227,7 @@ Penerapan instrumen Form FAI dan ABC ini menghadirkan lompatan peradaban:
 
 1. **Mewujudkan Sistem Konseling Pesantren yang Akuntabel dan Profesional**: Setiap keputusan penanganan disandarkan pada bukti data diagnostik empiris, bukan pada emosi atau amarah pengasuh.
 2. **Memberikan Perlindungan Hukum Bagi Hak-Hak Anak di Pesantren**: Menghilangkan tuduhan fitnah atau vonis sepihak terhadap santri yang membutuhkan pertolongan.
-3. **Penyempurnaan Penjaminan Mutu Berstandar Diagnostic and Statistical Manual (DSM-5 & PBIS)**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam terdepan dalam konseling klinis perilaku.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berstandar Diagnostic and Statistical Manual (DSM-5 & PBIS)**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam terdepan dalam konseling klinis perilaku.[^5]
 
 ---
 
@@ -235,7 +235,7 @@ Penerapan instrumen Form FAI dan ABC ini menghadirkan lompatan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-04-03: FORMULIR ANALISIS DIAGNOSTIK PERILAKU FBA (FORM FAI & ABC)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-04-03: FORMULIR ANALISIS DIAGNOSTIK PERILAKU FBA (FORM FAI & ABC)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -303,8 +303,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan asesmen diagnostik tanpa instrumen fungsional terstruktur, O'Neill et al. (2015, hlm. 32).  
 [^2]: Metodologi pencatatan langsung perilaku rantai ABC dalam analisis perilaku terapan, Bijou, Peterson, & Ault (1968, hlm. 178).  
 [^3]: HR. Al-Bukhari dalam *Shahih Al-Bukhari* (No. 3007), Kitab *Al-Jihad*, kisah ketelitian Rasulullah SAW menggali latar belakang motif Hatib bin Abi Balta'ah.  
-[^4]: Protokol asesmen diagnostik FBA dan modifikasi anteseden santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan formulir analisis diagnostik FBA di Pesantren TUMBUH (2026).  
+[^4]: Protokol asesmen diagnostik FBA dan modifikasi anteseden santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan formulir analisis diagnostik FBA di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

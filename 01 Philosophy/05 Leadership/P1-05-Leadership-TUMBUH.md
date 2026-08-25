@@ -269,7 +269,7 @@ Penerapan Master Doktrin Leadership ini menegaskan arah kebangkitan peradaban Is
 [^10]: Matriks Tingkatan Kesadaran Filsafat Kepemimpinan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^11]: Dekrit Resmi Pengharaman Eksploitasi Pengasuh dan Oligarki Majelis Kiai TUMBUH, 2026.  
 [^12]: Standar Operasional Prosedur Whistleblowing dan Audit Kepemimpinan Tahunan TUMBUH, 2026.  
-[^13]: Petunjuk Teknis Perencanaan Suksesi dan Kaderisasi Kepemimpinan Pesantren TUMBUH, 2026.  
+[^13]: Petunjuk Teknis Perencanaan Suksesi dan Kaderisasi Kepemimpinan Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^14]: Deklarasi Peradaban Kepemimpinan Profetik Khidmah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

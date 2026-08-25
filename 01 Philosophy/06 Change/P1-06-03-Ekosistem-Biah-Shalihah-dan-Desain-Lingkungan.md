@@ -165,7 +165,7 @@ flowchart TD
 
 ### 3. Matriks Empat Prinsip CPTED dalam Tata Letak Arsitektur Asrama Pesantren
 
-| Prinsip CPTED | Implementasi Arsitektur Pesantren TUMBUH | Dampak Pencegahan Perilaku |
+| Prinsip CPTED | Implementasi Arsitektur Ekosistem Pesantren Berbasis TUMBUH | Dampak Pencegahan Perilaku |
 | :--- | :--- | :--- |
 | **1. Natural Surveillance** | Lorong asrama kaca transparan & pencahayaan LED 24 jam.| Meniadakan sudut gelap rawan perundungan. |
 | **2. Territorial Reinforcement**| Penataan kamar tidur berbasis ukhuwah & papan karya santri.| Menumbuhkan rasa bangga & kepemilikan asrama.|
@@ -209,7 +209,7 @@ Rekayasa desain ekologi *Bi'ah Shalihah* ini membawa implikasi agung bagi perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-06-03: EKOSISTEM BI'AH SHALIHAH DAN REKAYASA DESAIN LINGKUNGAN ASRAMA (BI'AH SHALIHAH & CPTED ARCHITECTURE)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-06-03: EKOSISTEM BI'AH SHALIHAH DAN REKAYASA DESAIN LINGKUNGAN ASRAMA (BI'AH SHALIHAH & CPTED ARCHITECTURE)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

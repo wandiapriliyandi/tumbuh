@@ -1,5 +1,5 @@
 # P11-02-01: TEMPLAT LOGBOOK HARIAN MUSYRIF ASRAMA
-## *Monograf Riset Akademik: Standarisasi Instrumen Logbook Harian Musyrif Asrama (Dormitory Musyrif Daily Logbook & Shift Handover Tool), Arsitektur Pelacakan Presensi Ibadah Presisi, Magic Ratio 4:1 Penguatan Positif PBIS, dan Protokol Serah Terima Jaga Shift Asrama 24 Jam (Quick-Tap Ritual Tracking, Positive Recognition Ledger, & Form TOOL-LogbookMusyrif), Integrasi Doktrin 'Ar-Ri'āyah wal Amānah' Turats Klasik dengan Sugai-Horner Data-Based PBIS Decision Making, Bandura Observational Learning, Serta Manajemen Pengasuhan Asrama di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Instrumen Logbook Harian Musyrif Asrama (Dormitory Musyrif Daily Logbook & Shift Handover Tool), Arsitektur Pelacakan Presensi Ibadah Presisi, Magic Ratio 4:1 Penguatan Positif PBIS, dan Protokol Serah Terima Jaga Shift Asrama 24 Jam (Quick-Tap Ritual Tracking, Positive Recognition Ledger, & Form TOOL-LogbookMusyrif), Integrasi Doktrin 'Ar-Ri'āyah wal Amānah' Turats Klasik dengan Sugai-Horner Data-Based PBIS Decision Making, Bandura Observational Learning, Serta Manajemen Pengasuhan Asrama di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-02-01/MONOGRAF-RISET-TEMPLAT-LOGBOOK-MUSYRIF/2026`  
 **Domain**: `11 Tools` > `02 Observation Tools` (Sub-Modul 01: *Musyrif Daily Logbook & Dormitory Observational Tools*)  
@@ -125,7 +125,7 @@ Penerapan *Templat Logbook Harian Musyrif Asrama* mentransformasikan budaya peng
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-02-01: TEMPLAT LOGBOOK HARIAN MUSYRIF ASRAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-02-01: TEMPLAT LOGBOOK HARIAN MUSYRIF ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,7 +162,7 @@ flowchart TD
 
 ### 1. Tabel Sintesis
 
-| Dimensi | Logbook Asrama Tradisional | Templat Logbook Musyrif TUMBUH | Landasan Teori | Bukti Dampak |
+| Dimensi | Logbook Asrama Tradisional | Templat Logbook Musyrif dalam sistem TUMBUH | Landasan Teori | Bukti Dampak |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Orientasi Pencatatan**| Catatan kesalahan & hukuman (Buku Dosa).| Magic Ratio 4:1 Penguatan Positif PBIS.| *Sugai & Horner PBIS Data*| Iklim Positif Kamar $+82\%$. |
 | **2. Efisiensi Pengisian** | Manual panjang, sering tidak diisi.| Format Quick-Tap & Terstruktur Cepat.| *Usability & Time-Motion Study*| Kepatuhan Musyrif $98\%$. |
@@ -178,6 +178,6 @@ flowchart TD
 
 [^1]: George Sugai & Robert H. Horner mengenai bahaya bias pencatatan defisit dan pentingnya sistem data perilaku berbasis kekuatan positif dalam School-Wide PBIS, Sugai & Horner (2006, hlm. 248).
 [^2]: Albert Bandura mengenai peran observasi terstruktur dan penguatan positif dalam pembentukan perilaku prososial remaja, Bandura (1977, hlm. 68).
-[^3]: Studi kasus efektivitas protokol serah terima logbook musyrif dalam memitigasi krisis emosional santri asrama di Pesantren TUMBUH (2026).
+[^3]: Studi kasus efektivitas protokol serah terima logbook musyrif dalam memitigasi krisis emosional santri asrama di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Standar operasional prosedur pengisian logbook dan briefing serah terima shift musyrif asrama pesantren (2026).
 [^5]: Dampak penerapan rasio penguatan positif 4:1 dalam logbook harian musyrif terhadap peningkatan iklim pengasuhan asrama (2026).

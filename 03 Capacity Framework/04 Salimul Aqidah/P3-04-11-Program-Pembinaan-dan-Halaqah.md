@@ -324,7 +324,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-11: PROGRAM PEMBINAAN DAN HALAQAH SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-11: PROGRAM PEMBINAAN DAN HALAQAH SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -392,7 +392,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Efektivitas Program Pembinaan Karakter Pesantren TUMBUH, *Evaluasi Model Halaqah Interaktif*, 2026.  
+[^1]: Riset Efektivitas Program Pembinaan Karakter Ekosistem Pesantren Berbasis TUMBUH, *Evaluasi Model Halaqah Interaktif*, 2026.  
 [^2]: Ibnu Abdil Barr, *Jami' Bayan al-'Ilmi wa Fadhlihi*, Jilid 1, hlm. 140–165.  
 [^3]: QS. Ali 'Imran [3]: 190–191.  
 [^4]: *Shahih Muslim*, Kitab adz-Dzikr wad-Du'a wat-Taubah, Hadits No. 2700.  
@@ -404,7 +404,7 @@ flowchart TD
 [^10]: Bandura, A. (1977), *Social Learning Theory*, hlm. 22–45.  
 [^11]: Deterding, S., et al. (2011), *MindTrek Proceedings*, hlm. 9–15.  
 [^12]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 42–58.  
-[^13]: Matriks Penyelarasan Kurikulum Terpadu Madrasah-Pesantren TUMBUH, 2026.  
+[^13]: Matriks Penyelarasan Kurikulum Terpadu Madrasah-Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^14]: Kirkpatrick, D. L., & Kirkpatrick, J. D. (2006), *Evaluating Training Programs*, hlm. 45–78.  
 [^15]: Analisis Efisiensi Anggaran & Keberlanjutan Program Pengasuhan Asrama TUMBUH, 2026.  
 [^16]: Dokumentasi Studi Kasus Resolusi Kejenuhan Halaqah Subuh Asrama TUMBUH, 2026.  

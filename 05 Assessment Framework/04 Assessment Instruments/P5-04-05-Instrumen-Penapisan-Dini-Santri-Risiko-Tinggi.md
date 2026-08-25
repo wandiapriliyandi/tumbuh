@@ -1,5 +1,5 @@
 # P5-04-05: INSTRUMEN PENAPISAN DINI SANTRI RISIKO TINGGI (FORM PDS-EWS)
-## *Monograf Riset Akademik: Standardisasi Alat Ukur Penapisan Universal Dini (Universal Behavioral & Emotional Screener / Form PDS-EWS) untuk Deteksi Risiko Kesehatan Mental, Homesickness Kronis, Bullying, dan Trauma Psikososial Santri Baru di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Alat Ukur Penapisan Universal Dini (Universal Behavioral & Emotional Screener / Form PDS-EWS) untuk Deteksi Risiko Kesehatan Mental, Homesickness Kronis, Bullying, dan Trauma Psikososial Santri Baru di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-04-05/MONOGRAF-RISET-INSTRUMEN-PENAPISAN-DINI-EWS/2026`  
 **Domain**: `05 Assessment Framework` > `04 Assessment Instruments` (Sub-Modul 05: *Universal Early Screening & High-Risk Screener Instrument*)  
@@ -235,7 +235,7 @@ Penerapan instrumen penapisan dini Form PDS-EWS ini menghadirkan keunggulan pera
 
 1. **Melenyapkan Stigma 'Pesantren Keras dan Abai Mental Santri'**: Menjadikan pesantren sebagai lembaga yang paling peka, ramah anak, dan sigap melindungi kesehatan mental generasi muda.
 2. **Menurunkan Angka Santri Kabur dan Drop-Out Hingga 90%**: Karena seluruh krisis emosional tertangani sejak pekan pertama sebelum masalah membesar.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Hak Perlindungan Anak Dunia (UNICEF & WHO Standards)**: Mengukuhkan pesantren TUMBUH sebagai teladan global pengasuhan berasrama yang aman dan bermartabat.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Hak Perlindungan Anak Dunia (UNICEF & WHO Standards)**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai teladan global pengasuhan berasrama yang aman dan bermartabat.[^5]
 
 ---
 
@@ -243,7 +243,7 @@ Penerapan instrumen penapisan dini Form PDS-EWS ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-04-05: INSTRUMEN PENAPISAN DINI SANTRI RISIKO TINGGI (FORM PDS-EWS)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-04-05: INSTRUMEN PENAPISAN DINI SANTRI RISIKO TINGGI (FORM PDS-EWS)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -312,7 +312,7 @@ flowchart TD
 [^2]: Validitas psikometri Pediatric Symptom Checklist (PSC-17) dalam penapisan dini psikososial anak, Jellinek et al. (1988, hlm. 204).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat* (1997, Jilid 2, hlm. 198), bab kaidah Sadduz Dzarai dan kewajiban menolak bahaya jiwa sejak dini.  
 [^4]: Protokol penapisan dini dan pemulihan trauma santri baru korban perundungan TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan instrumen penapisan dini Form PDS-EWS di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan instrumen penapisan dini Form PDS-EWS di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

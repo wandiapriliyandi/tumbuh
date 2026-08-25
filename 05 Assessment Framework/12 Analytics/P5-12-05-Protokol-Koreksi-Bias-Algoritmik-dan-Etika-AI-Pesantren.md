@@ -1,5 +1,5 @@
 # P5-12-05: PROTOKOL KOREKSI BIAS ALGORITMIK DAN ETIKA AI PESANTREN
-## *Monograf Riset Akademik: Protokol Audit Keadilan Algoritmik, Mitigasi Bias Demografis, dan Kerangka Etika Kecerdasan Buatan Pendidikan Islam (Algorithmic Fairness, Demographic Bias Mitigation, & Ethical AI Framework / Form EAI-Audit), Integrasi Doktrin 'Nafyul Hawa wal Qisthil Muqaddas' Turats Klasik dengan IEEE 7000 Ethical System Design, UNESCO Recommendations on the Ethics of AI, Serta Tata Kelola AI Berkeadilan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Audit Keadilan Algoritmik, Mitigasi Bias Demografis, dan Kerangka Etika Kecerdasan Buatan Pendidikan Islam (Algorithmic Fairness, Demographic Bias Mitigation, & Ethical AI Framework / Form EAI-Audit), Integrasi Doktrin 'Nafyul Hawa wal Qisthil Muqaddas' Turats Klasik dengan IEEE 7000 Ethical System Design, UNESCO Recommendations on the Ethics of AI, Serta Tata Kelola AI Berkeadilan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-12-05/MONOGRAF-RISET-ETIKA-AI-DAN-KOREKSI-BIAS/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 05: *Algorithmic Fairness, Bias Mitigation, & Ethical AI Framework*)  
@@ -223,7 +223,7 @@ Penerapan protokol etika AI Form EAI ini menghadirkan keunggulan peradaban:
 
 1. **Menjamin AI Menjadi Pelayan Kebaikan, Bukan Tuan yang Memperbudak Manusia (*Technology as Servant of Khair*)**: Mempertahankan ruh kasih sayang dan empati batiniah pendidik sebagai pengambil keputusan mutlak.
 2. **Melindungi Generasi Santri dari Stigma dan Diskriminasi Algoritmik Digital**: Menjamin setiap anak dipandang dengan pandangan fitrah yang suci tanpa prasangka latar belakang.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Qisthul Muqaddas dan UNESCO Ethics of AI**: Mengukuhkan pesantren TUMBUH sebagai kiblat tata kelola etika kecerdasan buatan Islam nomor satu di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Qisthul Muqaddas dan UNESCO Ethics of AI**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai kiblat tata kelola etika kecerdasan buatan Islam nomor satu di dunia.[^5]
 
 ---
 
@@ -231,7 +231,7 @@ Penerapan protokol etika AI Form EAI ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-12-05: PROTOKOL KOREKSI BIAS ALGORITMIK DAN ETIKA AI PESANTREN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-12-05: PROTOKOL KOREKSI BIAS ALGORITMIK DAN ETIKA AI PESANTREN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -298,8 +298,8 @@ flowchart TD
 [^1]: Rekomendasi UNESCO Recommendation on the Ethics of Artificial Intelligence mengenai prinsip non-diskriminasi dan pengawasan manusia, UNESCO (2021, hlm. 18).  
 [^2]: Kerangka kerja matematika keadilan Equalized Odds dan Equal Opportunity Moritz Hardt et al., Hardt, Price, & Srebro (2016, hlm. 3316).  
 [^3]: Izzuddin bin Abdis Salam, *Qawa'idul Ahkam* (1999, Jilid 1, hlm. 92), bab larangan membeda-bedakan perlakuan hukum atas manusia tanpa dasar bukti yang adil.  
-[^4]: Protokol pengujian keadilan model AI dan mitigasi bias demografis Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol koreksi bias algoritmik dan etika AI di Pesantren TUMBUH (2026).  
+[^4]: Protokol pengujian keadilan model AI dan mitigasi bias demografis Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol koreksi bias algoritmik dan etika AI di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

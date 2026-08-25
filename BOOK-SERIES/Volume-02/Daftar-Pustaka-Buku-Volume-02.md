@@ -1,5 +1,5 @@
 # DAFTAR PUSTAKA BUKU VOLUME 02 EKOSISTEM TUMBUH
-## *Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
+## *Taksonomi Kapasitas & 10 Profil Karakter Santri dalam sistem TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
 
 **Nomor Identifikasi**: `BOOK-SERIES/VOL-02/BIBLIOGRAPHY/2026/08`  
 **Dewan Penelaah**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)  

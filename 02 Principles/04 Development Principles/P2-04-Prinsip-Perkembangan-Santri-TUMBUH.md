@@ -200,7 +200,7 @@ Master Doktrin Development Principles ini menegaskan masa depan gemilang bagi pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04: DEVELOPMENT PRINCIPLES (PRINSIP PERKEMBANGAN SANTRI) EKOSISTEM TUMBUH (MASTER DOKTRIN PENGASUHAN DAN MATURASI FITRAH)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04: DEVELOPMENT PRINCIPLES (PRINSIP PERKEMBANGAN SANTRI) EKOSISTEM TUMBUH (MASTER DOKTRIN PENGASUHAN DAN MATURASI FITRAH)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -272,7 +272,7 @@ flowchart TD
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
 [^1]: Riset Master Doktrin Development Principles Ekosistem TUMBUH, *Kritik atas Paradigma Pengasuhan Usang*, 2026.  
-[^2]: Master Konsolidasi Enam Pilar Psikologi Perkembangan dan Maturasi Fitrah Santri TUMBUH, 2026.  
+[^2]: Master Konsolidasi Enam Pilar Psikologi Perkembangan dan Maturasi Fitrah Santri dalam sistem TUMBUH, 2026.  
 [^3]: Rantai Kausalitas Perkembangan dan Kematangan Kepemimpinan Khidmah PBIS TUMBUH, 2026.  
 [^4]: Deklarasi Pengharaman Mutlak Kekerasan Fisik, Bullying, Hazing, dan Tajassus TUMBUH, 2026.  
 [^5]: Dokumentasi Evaluasi Longitudinal Transformasi Pengasuhan Asrama PBIS TUMBUH, 2026.  

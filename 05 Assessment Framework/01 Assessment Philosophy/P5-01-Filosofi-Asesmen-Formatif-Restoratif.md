@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Kedudukan Fondasional Gugus Filosofi Asesmen:**  
->   Gugus *Assessment Philosophy (Filosofi Asesmen Formatif-Ipsatif-Restoratif)* merupakan jangkar epistemologis bagi seluruh sistem evaluasi di Domain 05. Evaluasi di pesantren TUMBUH tidak diposisikan sebagai "vonis penghakiman retributif" yang melabeli, mempermalukan (*Public Shaming*), atau meranking santri secara destruktif, melainkan sebagai **Cermin Pensucian Jiwa (*Mir'ātut Tazkiyah*)** yang memuliakan martabat fitrah insan (*Karāmatul Insān*) dan menuntun langkah perbaikan amal.
+>   Gugus *Assessment Philosophy (Filosofi Asesmen Formatif-Ipsatif-Restoratif)* merupakan jangkar epistemologis bagi seluruh sistem evaluasi di Domain 05. Evaluasi dalam sistem TUMBUH di pesantren tidak diposisikan sebagai "vonis penghakiman retributif" yang melabeli, mempermalukan (*Public Shaming*), atau meranking santri secara destruktif, melainkan sebagai **Cermin Pensucian Jiwa (*Mir'ātut Tazkiyah*)** yang memuliakan martabat fitrah insan (*Karāmatul Insān*) dan menuntun langkah perbaikan amal.
 > * **Integrasi Holistik Turats & Konsensus Sains Evaluasi Modern:**  
 >   Gugus riset ini memadukan khazanah agung Islam tentang amanah menutup aib (*Sitrul 'Uyūb*), tingkatan jiwa (*Marātib an-Nafs*), dan kesungguhan ikhtiar (*Al-Mujāhadah*) dengan konsensus sains mutakhir (*Howard Zehr's Restorative Justice, Carol Dweck's Growth Mindset, Gwyneth Hughes' Ipsative Assessment, FERPA/GDPR Privacy Standards, dan Hattie-Timperley's Feedback Model*).
 > * **Struktur Lengkap 5 Berkas Monograf Riset Ilmiah:**  

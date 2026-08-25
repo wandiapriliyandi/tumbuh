@@ -1,5 +1,5 @@
 # P3-11-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Perancangan Rubrik Asesmen Kinerja Tata Kelola Hidup Berbasis Kriteria (Criterion-Referenced Rubrics), Gradasi Deskriptor 4 Level Keteraturan 24 Jam, Protokol Kalibrasi Penilai Antar-Musyrif (Inter-Rater Agreement Cohen's Kappa >= 0.88), Algoritma Pembobotan Indeks Karakter Keteraturan (IK-MS), Serta Evaluasi Pertumbuhan Ipsatif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Perancangan Rubrik Asesmen Kinerja Tata Kelola Hidup Berbasis Kriteria (Criterion-Referenced Rubrics), Gradasi Deskriptor 4 Level Keteraturan 24 Jam, Protokol Kalibrasi Penilai Antar-Musyrif (Inter-Rater Agreement Cohen's Kappa >= 0.88), Algoritma Pembobotan Indeks Karakter Keteraturan (IK-MS), Serta Evaluasi Pertumbuhan Ipsatif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-07/MONOGRAF-RISET-RUBRIK-4LEVEL-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 07: *4-Level Behavior Rubric*)  
@@ -226,7 +226,7 @@ Implementasi rubrik 4-level Munazhzham fi Syu'unih menghasilkan keunggulan kelem
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -295,7 +295,7 @@ flowchart TD
 [^2]: Pembahasan pentingnya asesmen pertumbuhan ipsatif dalam pembiasaan kerapian remaja, Hughes (2014, hlm. 46).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 362).  
 [^4]: Protokol kalibrasi inter-rater penilai kepengasuhan dan standarisasi persepsi foto 5S, TUMBUH (2026).  
-[^5]: Formula perhitungan indeks karakter keteraturan ($IK_{MS}$) dan standar kelulusan santri TUMBUH (2026).  
+[^5]: Formula perhitungan indeks karakter keteraturan ($IK_{MS}$) dan standar kelulusan santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penerapan rubrik analitik tata kelola hidup 4-level TUMBUH Pesantren (2026).  
 
 ---

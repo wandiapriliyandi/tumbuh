@@ -1,5 +1,5 @@
 # P3-02-03: PENYELARASAN TAKSONOMI PENDIDIKAN BARAT DAN TAKSONOMI ADAB TURATS ISLAM
-## *Monograf Riset Akademik: Dekonstruksi Kritis Taksonomi Bloom (Kognitif, Afektif, Psikomotorik) & Marzano, Konvergensi Epistemologi Adab Syed Muhammad Naquib Al-Attas (Ta'dib), Taksonomi Riyadhah Nafs Imam Al-Ghazali, serta Arsitektur Taksonomi Fitrah Terpadu Pesantren TUMBUH*
+## *Monograf Riset Akademik: Dekonstruksi Kritis Taksonomi Bloom (Kognitif, Afektif, Psikomotorik) & Marzano, Konvergensi Epistemologi Adab Syed Muhammad Naquib Al-Attas (Ta'dib), Taksonomi Riyadhah Nafs Imam Al-Ghazali, serta Arsitektur Taksonomi Fitrah Terpadu Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-02-03/MONOGRAF-RISET-PENYELARASAN-TAKSONOMI-BLOOM-FITRAH/2026`  
 **Domain**: `03 Capacity Framework` > `02 Character Architecture`  
@@ -28,7 +28,7 @@
   - [4. Dekonstruksi Sekularisme Taksonomi Barat & Rekonstruksi Taksonomi Berbasis Fitrah](#4dekonstruksi-sekularisme-taksonomi-barat-rekonstruksi-taksonomi-berbasis-fitrah)
   - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Model Taksonomi Fitrah Adab Terpadu Pesantren TUMBUH](#1-formulasi-konseptual-model-taksonomi-fitrah-adab-terpadu-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Model Taksonomi Fitrah Adab Terpadu Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-model-taksonomi-fitrah-adab-terpadu-pesantren-tumbuh)
   - [2. Matriks Pemetaan Komparatif Taksonomi Bloom, Marzano, Turats, & Jenjang Kemandirian TUMBUH (J1–J4)](#2-matriks-pemetaan-komparatif-taksonomi-bloom-marzano-turats--tangga-tumbuh)
   - [3. Panduan Operasional Penerapan Taksonomi Fitrah dalam RPP Asatidz & Halaqah Musyrif](#3-panduan-operasional-penerapan-taksonomi-fitrah-dalam-rpp-asatidz--halaqah-musyrif)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -141,7 +141,7 @@ flowchart TD
 
 ---
 
-### 1. Formulasi Konseptual: Model Taksonomi Fitrah Adab Terpadu Pesantren TUMBUH
+### 1. Formulasi Konseptual: Model Taksonomi Fitrah Adab Terpadu Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif taksonomi pendidikan internasional, riset ini merumuskan kerangka konseptual taksonomi fitrah empat tingkat sebagai berikut:
 
@@ -193,7 +193,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-02-03: PENYELARASAN TAKSONOMI PENDIDIKAN BARAT DAN TAKSONOMI ADAB TURATS ISLAM** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-02-03: PENYELARASAN TAKSONOMI PENDIDIKAN BARAT DAN TAKSONOMI ADAB TURATS ISLAM** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -264,7 +264,7 @@ flowchart TD
 [^4]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *al-'Ilm*, jilid 1, hlm. 20–45.  
 [^5]: Ibnu Jama'ah, *Tadzkiratus Sami' wal Mutakallim*, hlm. 40–70.  
 [^6]: Krathwohl et al. (1964), *Taxonomy of Educational Objectives: Affective Domain*, David McKay.  
-[^7]: Laporan Hasil Uji Coba Penerapan Taksonomi Fitrah Terpadu di KBM Pesantren TUMBUH, 2026.  
+[^7]: Laporan Hasil Uji Coba Penerapan Taksonomi Fitrah Terpadu di KBM Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Panduan Integrasi Taksonomi Kognitif dan Adab Asrama, Biro Kurikulum TUMBUH, 2026.  
 [^9]: Matriks Capaian Pembelajaran Berbasis Taksonomi Fitrah, Dewan Pakar TUMBUH, 2026.
 

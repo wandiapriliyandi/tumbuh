@@ -1,5 +1,5 @@
 # P3-13-02: DEFINISI DAN KONSEPTUALISASI NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Ontologi & Batas Definisional Kemanfaatan Sosial Islami, Konstruk Empat Dimensi Khidmah 24 Jam (Kepekaan Empati Afektif & Altruisme, Kerelawanan Khidmah Proaktif, Kepemimpinan Kolaboratif Penggerak Maslahat, Serta Advokasi Keadilan Sosial & Filantropi), Dialektika Kemanfaatan Berkah vs Eksploitasi Feodalistik / Apatisme Individualistik, Serta Formulasi Operasional di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Ontologi & Batas Definisional Kemanfaatan Sosial Islami, Konstruk Empat Dimensi Khidmah 24 Jam (Kepekaan Empati Afektif & Altruisme, Kerelawanan Khidmah Proaktif, Kepemimpinan Kolaboratif Penggerak Maslahat, Serta Advokasi Keadilan Sosial & Filantropi), Dialektika Kemanfaatan Berkah vs Eksploitasi Feodalistik / Apatisme Individualistik, Serta Formulasi Operasional di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-02/MONOGRAF-RISET-DEFINISI-KONSEPTUALISASI-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 02: *Definition & Conceptualization*)  
@@ -139,7 +139,7 @@ flowchart TD
 ```mermaid
 flowchart TD
     subgraph ProtokolRestorasiKhidmahBermartabat["PROTOKOL DE-FEODALISASI KHIDMAH TIER 2 & 3"]
-        TahapA["1. PENGHENTIAN INSTAN BUDAYA ROAN PAKSA OLEH KEPALA PENGASUHAN<br/>• Kepala Pengasuhan menegaskan: 'Di Pesantren TUMBUH, tidak ada senioritas feodal; pemimpin wajib memegang sapu pertama kali!'"]
+        TahapA["1. PENGHENTIAN INSTAN BUDAYA ROAN PAKSA OLEH KEPALA PENGASUHAN<br/>• Kepala Pengasuhan menegaskan: 'Di Ekosistem Pesantren Berbasis TUMBUH, tidak ada senioritas feodal; pemimpin wajib memegang sapu pertama kali!'"]
         
         TahapB["2. FORUM DIALOG RESTORATIF BEDAH 'SAYYIDUL QAUMI KHADIMUHUM'<br/>• Santri J4 dibimbing menyadari kesalahan & meminta maaf secara ksatria kepada adik asuh J1."]
         
@@ -218,7 +218,7 @@ Konseptualisasi Nafi'un Lighairih membuktikan bahwa:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-02: DEFINISI DAN KONSEPTUALISASI NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-02: DEFINISI DAN KONSEPTUALISASI NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

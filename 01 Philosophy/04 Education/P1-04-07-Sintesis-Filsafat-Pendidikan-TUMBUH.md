@@ -28,7 +28,7 @@
   - [4. Dekonstruksi Paradigma Pendidikan Kolonial dan Komersialisasi Sekolah](#4-dekonstruksi-paradigma-pendidikan-kolonial-dan-komersialisasi-sekolah)
   - [5. Kasuistika Lapangan: Evaluasi Efektivitas Transformasi Pedagogi Asrama & Resolusi Restoratif](#5-kasuistika-lapangan-evaluasi-efektivitas-transformasi-pedagogi-asrama--resolusi-restoratif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Pedagogi Adab Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-pedagogi-adab-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Pedagogi Adab Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-pedagogi-adab-pesantren-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sintesis Pendidikan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-sintesis-pendidikan-maratib-al-idrak)
   - [3. Jembatan Filosofis Menuju Sub-Domain 05 Leadership](#3-jembatan-filosofis-menuju-sub-domain-05-leadership)
   - [4. Prinsip Aksiologis & Protokol Audit Mutu Keberkahan Pembelajaran 24 Jam](#4-prinsip-aksiologis--protokol-audit-mutu-keberkahan-pembelajaran-24-jam)
@@ -111,7 +111,7 @@ Penerapan konsolidasi filsafat pendidikan TUMBUH di lapangan membuktikan bahwa s
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Pedagogi Adab Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Pedagogi Adab Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Pedagogi Adab Pesantren (*Al-Bayan al-A'zham li Falsafatit Ta'dib*)**:
 
@@ -209,7 +209,7 @@ Sintesis filsafat pendidikan ini menegaskan arah masa depan pendidikan Islam di 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-04-07: SINTESIS FILSAFAT PENDIDIKAN DAN GRAND MANIFESTO PEDAGOGI ADAB (SYNTHESIS OF EDUCATIONAL PHILOSOPHY)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-04-07: SINTESIS FILSAFAT PENDIDIKAN DAN GRAND MANIFESTO PEDAGOGI ADAB (SYNTHESIS OF EDUCATIONAL PHILOSOPHY)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,7 +291,7 @@ flowchart TD
 [^10]: Blueprint Living Curriculum dan Ekologi Asrama 24 Jam TUMBUH, 2026.  
 [^11]: Matriks Tingkatan Kesadaran Sintesis Pendidikan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^12]: Blueprint Jembatan Ontologis Menuju Sub-Domain 05 Leadership TUMBUH, 2026.  
-[^13]: Standar Audit Mutu Tahunan Keberkahan Pembelajaran Pesantren TUMBUH, 2026.  
+[^13]: Standar Audit Mutu Tahunan Keberkahan Pembelajaran Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^14]: Grand Manifesto Pedagogi Adab Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

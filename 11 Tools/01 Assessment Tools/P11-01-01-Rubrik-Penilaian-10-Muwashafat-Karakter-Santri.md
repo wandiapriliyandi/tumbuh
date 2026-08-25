@@ -1,5 +1,5 @@
 # P11-01-01: RUBRIK PENILAIAN 10 MUWASHAFAT KARAKTER SANTRI
-## *Monograf Riset Akademik: Standarisasi Rubrik Penilaian 10 Muwashafat Karakter Santri (Psychometric Behavioral Rubric & 10 Core Islamic Competencies Framework), Desain Empat Jenjang Tangga Kemandirian T1–T4 Berbasis Konstruk Psikometri Valid dan Indikator Observasi Objektif (T1 Beginner Prompted to T4 Qudwah Exemplary Taxonomy), Serta Eliminasi Subjektivitas Penilaian Rapor Adab (Standardized Behavioral Rubric, Analytic Scoring Guide, & Holistic Growth Portfolio / Form TOOL-MuwashafatRubric), Integrasi Doktrin 'Al-Muwashafāt Al-'Asyarah' Turats Kontemporer dengan Robert Marzano Rubric Design, Popham Criterion-Referenced Assessment, Serta Sistem Rapor Pembinaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rubrik Penilaian 10 Muwashafat Karakter Santri (Psychometric Behavioral Rubric & 10 Core Islamic Competencies Framework), Desain Empat Jenjang Tangga Kemandirian T1–T4 Berbasis Konstruk Psikometri Valid dan Indikator Observasi Objektif (T1 Beginner Prompted to T4 Qudwah Exemplary Taxonomy), Serta Eliminasi Subjektivitas Penilaian Rapor Adab (Standardized Behavioral Rubric, Analytic Scoring Guide, & Holistic Growth Portfolio / Form TOOL-MuwashafatRubric), Integrasi Doktrin 'Al-Muwashafāt Al-'Asyarah' Turats Kontemporer dengan Robert Marzano Rubric Design, Popham Criterion-Referenced Assessment, Serta Sistem Rapor Pembinaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-01-01/MONOGRAF-RISET-RUBRIK-MUWASHAFAT/2026`  
 **Domain**: `11 Tools` > `01 Assessment Tools` (Sub-Modul 01: *Psychometric Rubrics & 10 Muwashafat Adab Assessment*)  
@@ -115,7 +115,7 @@ Penerapan *Rubrik Penilaian 10 Muwashafat Karakter Santri* mentransformasikan as
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-01-01: RUBRIK PENILAIAN 10 MUWASHAFAT KARAKTER SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-01-01: RUBRIK PENILAIAN 10 MUWASHAFAT KARAKTER SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -168,5 +168,5 @@ flowchart TD
 
 [^1]: W. James Popham mengenai distorsi dan kriteria instrumen rubrik yang valid dalam mengukur performa perilaku pembelajar, Popham (1997, hlm. 73).
 [^2]: Robert J. Marzano mengenai desain rubrik analitik dan skala penilaian berbasis kriteria untuk meningkatkan reliabilitas asesmen pendidikan, Marzano (2006, hlm. 28).
-[^3]: Studi kasus penerapan Rubrik Penilaian 10 Muwashafat mentransformasikan motivasi adab santri baru di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Rubrik Penilaian 10 Muwashafat mentransformasikan motivasi adab santri baru di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak operasionalisasi konstruk Al-Muwashafat Al-'Asyarah ke dalam instrumen asesmen perilaku terstandar (2026).

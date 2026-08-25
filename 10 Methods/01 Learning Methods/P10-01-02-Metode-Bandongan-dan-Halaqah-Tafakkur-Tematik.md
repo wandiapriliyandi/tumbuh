@@ -1,5 +1,5 @@
 # P10-01-02: METODE BANDONGAN DAN HALAQAH TAFAKKUR TEMATIK
-## *Monograf Riset Akademik: Standarisasi Metode Bandongan Interaktif (Interactive Lecture Exegesis), Halaqah Tafakkur Tematik Maqashid Syari'ah, dan Didaktik Diskursus Kritis Transformatif di Lingkungan Masjid Pesantren (Interactive Bandongan Methodology, Thematic Maqashidic Tafakkur Halaqah, & Transformative Critical Discourse / Form MET-BandonganTafakkur), Integrasi Doktrin 'Al-Majālis al-Ilmiyyah wa Fiqhu al-Maqāshid' Turats Klasik dengan Brookfield Critical Thinking in Adult Learning, Mezirow Transformative Learning Theory, Serta Nalar Kritis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Bandongan Interaktif (Interactive Lecture Exegesis), Halaqah Tafakkur Tematik Maqashid Syari'ah, dan Didaktik Diskursus Kritis Transformatif di Lingkungan Masjid Pesantren (Interactive Bandongan Methodology, Thematic Maqashidic Tafakkur Halaqah, & Transformative Critical Discourse / Form MET-BandonganTafakkur), Integrasi Doktrin 'Al-Majālis al-Ilmiyyah wa Fiqhu al-Maqāshid' Turats Klasik dengan Brookfield Critical Thinking in Adult Learning, Mezirow Transformative Learning Theory, Serta Nalar Kritis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-01-02/MONOGRAF-RISET-METODE-BANDONGAN-TAFAKKUR/2026`  
 **Domain**: `10 Methods` > `01 Learning Methods` (Sub-Modul 02: *Interactive Bandongan & Thematic Tafakkur Halaqah*)  
@@ -104,7 +104,7 @@ Penerapan metode bandongan interaktif berbasis *Transformative Learning* Mezirow
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-01-02: METODE BANDONGAN DAN HALAQAH TAFAKKUR TEMATIK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-01-02: METODE BANDONGAN DAN HALAQAH TAFAKKUR TEMATIK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -157,5 +157,5 @@ flowchart TD
 
 [^1]: Stephen Brookfield mengenai metodologi pengajaran berpikir kritis dan dekonstruksi asumsi dalam pembelajaran orang dewasa, Brookfield (2012, hlm. 48).
 [^2]: Jack Mezirow mengenai teori pembelajaran transformatif dan peran disorienting dilemma dalam memicu refleksi kritis, Mezirow (2000, hlm. 19).
-[^3]: Studi kasus penerapan Halaqah Tafakkur Tematik menghentikan pemborosan air wudhu Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Halaqah Tafakkur Tematik menghentikan pemborosan air wudhu Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengajaran bandongan interaktif berbasis Maqashid terhadap pembentukan nalar kritis santri (2026).

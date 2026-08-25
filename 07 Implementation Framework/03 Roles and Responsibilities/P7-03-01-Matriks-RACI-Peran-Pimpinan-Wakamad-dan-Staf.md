@@ -1,5 +1,5 @@
 # P7-03-01: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF
-## *Monograf Riset Akademik: Standarisasi Matriks Pertanggungjawaban Lintas Jabatan, Pemetaan Akuntabilitas RACI Penanganan Kasus, dan Eliminasi Ambiguitas Wewenang (RACI Accountability Matrix, Cross-Role Responsibility Mapping, & Institutional Decision Rights / Form MRA-RACI), Integrasi Doktrin 'Kullu Amriin Lahu Waliyyun Mukhtalif' Turats Klasik dengan Bain & Rasiel's RACI Method, Lencioni's Organizational Clarity, Serta Tata Kelola di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Matriks Pertanggungjawaban Lintas Jabatan, Pemetaan Akuntabilitas RACI Penanganan Kasus, dan Eliminasi Ambiguitas Wewenang (RACI Accountability Matrix, Cross-Role Responsibility Mapping, & Institutional Decision Rights / Form MRA-RACI), Integrasi Doktrin 'Kullu Amriin Lahu Waliyyun Mukhtalif' Turats Klasik dengan Bain & Rasiel's RACI Method, Lencioni's Organizational Clarity, Serta Tata Kelola di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-03-01/MONOGRAF-RISET-MATRIKS-RACI-PERAN/2026`  
 **Domain**: `07 Implementation Framework` > `03 Roles and Responsibilities` (Sub-Modul 01: *RACI Accountability Matrix & Decision Rights*)  
@@ -126,7 +126,7 @@ Penerapan Matriks RACI Form MRA ini melahirkan ekosistem dengan **responsivitas 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-03-01: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-03-01: MATRIKS RACI PERAN PIMPINAN, WAKAMAD, DAN STAF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -184,8 +184,8 @@ flowchart TD
 [^1]: Patrick Lencioni mengenai krisis organizational clarity sebagai akar disfungsi tim, Lencioni (2012, hlm. 27).
 [^2]: RACI matrix methodology dalam mengelola decision rights lintas jabatan, Darci & Smith (2007, hlm. 12).
 [^3]: HR. Al-Bukhari No. 893 dan Muslim No. 1829 tentang akuntabilitas universal setiap pemegang amanah kepemimpinan.
-[^4]: Studi kasus implementasi RACI Decision Engine SIM Intizham Pesantren TUMBUH (2026).
-[^5]: Dampak kelembagaan penerapan Matriks RACI di Pesantren TUMBUH (2026).
+[^4]: Studi kasus implementasi RACI Decision Engine SIM Intizham Ekosistem Pesantren Berbasis TUMBUH (2026).
+[^5]: Dampak kelembagaan penerapan Matriks RACI di Ekosistem Pesantren Berbasis TUMBUH (2026).
 
 ### 4. Glosarium
 

@@ -1,7 +1,7 @@
 # SIMULASI SISTEM: PEMODELAN COHORT 100 SANTRI EKOSISTEM TUMBUH
 ## Dari Masuk Kelas 7 SMP/MTs Hingga Tahun Pengabdian (Tahap 7 PENGGERAK)
 
-Direktori ini memuat dokumen laporan simulasi sistem terpadu (*Systems Simulation & Longitudinal Modeling*) yang menggambarkan perjalanan **Cohort 100 Santri** melintasi 7 tahun pembinaan di pesantren TUMBUH.
+Direktori ini memuat dokumen laporan simulasi sistem terpadu (*Systems Simulation & Longitudinal Modeling*) yang menggambarkan perjalanan **Cohort 100 Santri** melintasi 7 tahun pembinaan dalam sistem TUMBUH di pesantren.
 
 ---
 

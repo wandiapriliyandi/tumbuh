@@ -1,5 +1,5 @@
 # P6-01-04: MODEL INTERNAL LOCUS OF CONTROL DAN TAZKIYATUN NAFS
-## *Monograf Riset Akademik: Rekayasa Psikologis Pembentukan Regulasi Diri Mandiri dan Penyucian Jiwa Berbasis Lokus Kontrol Internal (Internal Locus of Control & Tazkiyatun Nafs Paradigm / Form ILK-Regulasi), Integrasi Doktrin 'Mujāhadatun Nafs wa Muraqabatullah' Turats Klasik dengan Rotter's Locus of Control Theory, Zimmerman's Self-Regulated Learning (SRL), Serta Kematangan Batiniah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Psikologis Pembentukan Regulasi Diri Mandiri dan Penyucian Jiwa Berbasis Lokus Kontrol Internal (Internal Locus of Control & Tazkiyatun Nafs Paradigm / Form ILK-Regulasi), Integrasi Doktrin 'Mujāhadatun Nafs wa Muraqabatullah' Turats Klasik dengan Rotter's Locus of Control Theory, Zimmerman's Self-Regulated Learning (SRL), Serta Kematangan Batiniah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-01-04/MONOGRAF-RISET-INTERNAL-LOCUS-CONTROL-TAZKIYAH/2026`  
 **Domain**: `06 Intervention Framework` > `01 Intervention Philosophy` (Sub-Modul 04: *Internal Locus of Control & Tazkiyatun Nafs Paradigm*)  
@@ -206,7 +206,7 @@ Penerapan model internal locus of control Form ILK ini menghadirkan keunggulan p
 
 1. **Mencetak Lulusan yang Memiliki Ketahanan Karakter Seumur Hidup (*Lifelong Moral Resilience*)**: Santri tetap istiqamah shalih di mana pun berada, baik di kampus umum, luar negeri, maupun dunia profesional.
 2. **Mengubah Hubungan Santri-Musyrif Menjadi Kemitraan Spiritual Penuh Kasih (*Spiritual Partnership*)**: Menghilangkan dinamika kucing-kucingan antara santri dan pengasuh.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Muraqabatullah dan Self-Regulated Learning**: Mengukuhkan pesantren TUMBUH sebagai institusi pembina kemandirian karakter terbaik di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Muraqabatullah dan Self-Regulated Learning**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pembina kemandirian karakter terbaik di dunia Islam.[^5]
 
 ---
 
@@ -214,7 +214,7 @@ Penerapan model internal locus of control Form ILK ini menghadirkan keunggulan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-01-04: MODEL INTERNAL LOCUS OF CONTROL DAN TAZKIYATUN NAFS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-01-04: MODEL INTERNAL LOCUS OF CONTROL DAN TAZKIYATUN NAFS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -282,8 +282,8 @@ flowchart TD
 [^1]: Teori Lokus Kontrol Julian Rotter mengenai orientasi kendali internal vs eksternal penguatan perilaku, Rotter (1966, hlm. 12).  
 [^2]: Model siklus Self-Regulated Learning (SRL) Barry Zimmerman mengenai regulasi diri mandiri dalam belajar, Zimmerman (2000, hlm. 18 & 2002, hlm. 66).  
 [^3]: Al-Harits Al-Muhasibi, *Ar-Ri'ayah li Huquqillah* (2003, hlm. 54), bab urgensi muraqabatullah batiniah sebagai penjaga adab sejati manusia.  
-[^4]: Protokol aktivasi regulasi mandiri dan lokus kontrol internal santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model internal locus of control dan tazkiyah di Pesantren TUMBUH (2026).  
+[^4]: Protokol aktivasi regulasi mandiri dan lokus kontrol internal santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model internal locus of control dan tazkiyah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

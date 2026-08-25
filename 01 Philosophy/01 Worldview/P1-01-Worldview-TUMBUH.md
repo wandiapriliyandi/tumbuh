@@ -221,7 +221,7 @@ Worldview Islam yang kokoh ini mengukuhkan transformasi peradaban pesantren:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01: WORLDVIEW ISLAM & 10 AKSIOMA FUNDAMENTAL EKOSISTEM TUMBUH (MASTER DOKTRIN WORLDVIEW)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01: WORLDVIEW ISLAM & 10 AKSIOMA FUNDAMENTAL EKOSISTEM TUMBUH (MASTER DOKTRIN WORLDVIEW)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,7 +290,7 @@ flowchart TD
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
 [^1]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 1–25.  
-[^2]: Riset Master Doktrin Worldview Pesantren TUMBUH, *Kritik atas Disorientasi Pandangan Hidup*, 2026.  
+[^2]: Riset Master Doktrin Worldview Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Disorientasi Pandangan Hidup*, 2026.  
 [^3]: Matriks Sepuluh Pertanyaan Eksistensial Peradaban Islam Ekosistem TUMBUH, 2026.  
 [^4]: Blueprint Rekayasa Kausalitas Lingkungan Asrama 24 Jam TUMBUH, 2026.  
 [^5]: Dokumentasi Resolusi Restoratif Dekonstruksi Feodalisme Asrama TUMBUH, 2026.  

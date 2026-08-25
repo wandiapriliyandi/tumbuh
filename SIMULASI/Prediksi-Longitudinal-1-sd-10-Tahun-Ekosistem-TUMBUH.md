@@ -109,7 +109,7 @@ Dimana:
 ### 🗓️ TAHUN 7 (2032): Tahap 7 Penggerak (Alumni Cohort 1 Entering Service Year)
 * **Fokus**: Alumni Cohort 1 menjalani **Tahun Pengabdian (Tahap 7 Penggerak)**.
 * **Metrik Utama**:
-  - **Musyrif Junior Regeneration**: 35% alumni Cohort 1 memilih bertugas sebagai Musyrif Junior di Pesantren TUMBUH.
+  - **Musyrif Junior Regeneration**: 35% alumni Cohort 1 memilih bertugas sebagai Musyrif Junior di Ekosistem Pesantren Berbasis TUMBUH.
   - **Khidmah Keumatan**: 45% alumni bertugas dalam program *Khidmah Desa / Pengabdian Masyarakat*.
   - **Qadirun 'Alal Kasb**: 20% alumni memulai rintisan unit usaha mandiri atau studi perguruan tinggi unggulan.
 

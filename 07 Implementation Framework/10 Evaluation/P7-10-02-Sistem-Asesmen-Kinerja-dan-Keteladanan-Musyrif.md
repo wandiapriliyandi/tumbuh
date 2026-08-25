@@ -1,5 +1,5 @@
 # P7-10-02: SISTEM ASESMEN KINERJA DAN KETELADANAN MUSYRIF
-## *Monograf Riset Akademik: Standarisasi Sistem Asesmen Kinerja 360-Derajat Musyrif, Evaluasi Keteladanan Moral Berbasis Qudwah Hasanah, dan Rubrik Kepatuhan Disiplin Positif (360-Degree Musyrif Performance Assessment, Qudwah Modeling Evaluation, & Positive Discipline Rubric / Form AKM-Musyrif), Integrasi Doktrin 'Al-Imām ar-Rā'ī wal Qudwah fil 'Amal' Turats Klasik dengan 360-Degree Feedback Theory, Danielson Framework for Teaching, Serta Pengembangan Karir Pengasuh di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Sistem Asesmen Kinerja 360-Derajat Musyrif, Evaluasi Keteladanan Moral Berbasis Qudwah Hasanah, dan Rubrik Kepatuhan Disiplin Positif (360-Degree Musyrif Performance Assessment, Qudwah Modeling Evaluation, & Positive Discipline Rubric / Form AKM-Musyrif), Integrasi Doktrin 'Al-Imām ar-Rā'ī wal Qudwah fil 'Amal' Turats Klasik dengan 360-Degree Feedback Theory, Danielson Framework for Teaching, Serta Pengembangan Karir Pengasuh di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-10-02/MONOGRAF-RISET-ASESMEN-KINERJA-MUSYRIF/2026`  
 **Domain**: `07 Implementation Framework` > `10 Evaluation` (Sub-Modul 02: *Musyrif Performance & Qudwah Modeling Assessment*)  
@@ -101,7 +101,7 @@ Penerapan asesmen 360-derajat yang mengintegrasikan suara santri dan observasi k
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-10-02: SISTEM ASESMEN KINERJA DAN KETELADANAN MUSYRIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-10-02: SISTEM ASESMEN KINERJA DAN KETELADANAN MUSYRIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Fleenor et al. mengenai pentingnya validitas psikometrik instrumen umpan balik multi-sumber, Fleenor et al. (2020, hlm. 45).
 [^2]: Adaptasi Danielson Framework for Teaching pada domain pengasuhan asrama 24 jam di lingkungan pesantren (2026).
-[^3]: Studi kasus pembinaan berbasis data 360 derajat mentransformasi gaya komunikasi musyrif Pesantren TUMBUH (2026).
+[^3]: Studi kasus pembinaan berbasis data 360 derajat mentransformasi gaya komunikasi musyrif Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengakuan keteladanan afektif terhadap penurunan tingkat turnover dan burnout musyrif (2026).

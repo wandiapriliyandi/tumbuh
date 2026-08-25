@@ -1,5 +1,5 @@
 # P5-02-04: MANAJEMEN ALUR KERJA ASESMEN SANTRI 24 JAM
-## *Monograf Riset Akademik: Standard Operating Procedure (SOP) Alur Kerja Sirkulasi Evaluasi dan Pembinaan Karakter Santri 24 Jam (Siklus Pagi, Madrasah, Sore, Malam, & Dini Hari), Integrasi Doktrin Ni'matul Faragh Turats Klasik dengan Lean Six Sigma Service Architecture & Workflow Automation, Serta Mitigasi Friksi Operasional Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standard Operating Procedure (SOP) Alur Kerja Sirkulasi Evaluasi dan Pembinaan Karakter Santri 24 Jam (Siklus Pagi, Madrasah, Sore, Malam, & Dini Hari), Integrasi Doktrin Ni'matul Faragh Turats Klasik dengan Lean Six Sigma Service Architecture & Workflow Automation, Serta Mitigasi Friksi Operasional Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-02-04/MONOGRAF-RISET-MANAJEMEN-ALUR-KERJA-ASESMEN-24JAM/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 04: *24-Hour Assessment Workflow Management*)  
@@ -227,7 +227,7 @@ Penerapan manajemen alur kerja asesmen 24 jam menghadirkan keunggulan sistemik:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-02-04: MANAJEMEN ALUR KERJA ASESMEN SANTRI 24 JAM** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-02-04: MANAJEMEN ALUR KERJA ASESMEN SANTRI 24 JAM** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -296,7 +296,7 @@ flowchart TD
 [^2]: Penerapan matriks RACI dalam pemetaan tanggung jawab proses bisnis terpadu, Jacka & Keller (2009, hlm. 72).  
 [^3]: As-Suyuthi, *Al-Asybah wan Nazha'ir* (1990, hlm. 122), kaidah kebijakan atas rakyat terikat dengan kemaslahatan teratur.  
 [^4]: Protokol tanggap darurat medis santri 24 jam terintegrasi SIM Intizham TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen alur kerja asesmen 24 jam di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen alur kerja asesmen 24 jam di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

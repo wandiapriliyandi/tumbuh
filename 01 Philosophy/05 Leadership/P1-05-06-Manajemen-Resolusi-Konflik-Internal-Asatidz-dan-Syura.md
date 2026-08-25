@@ -208,7 +208,7 @@ Kekuatan ukhuwah dan manajemen konflik asatidz ini membawa implikasi agung bagi 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-05-06: MANAJEMEN RESOLUSI KONFLIK INTERNAL ASATIDZ DAN MEDIASI SYURA (FACULTY CONFLICT RESOLUTION & ISHLAH)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-05-06: MANAJEMEN RESOLUSI KONFLIK INTERNAL ASATIDZ DAN MEDIASI SYURA (FACULTY CONFLICT RESOLUTION & ISHLAH)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

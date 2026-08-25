@@ -1,5 +1,5 @@
 # P5-07-05: METODOLOGI SOSIOMETRI DAN PETA JEJARING UKHUWAH (FORM SJU-SOSIO)
-## *Monograf Riset Akademik: Metodologi Pemetaan Jaringan Sosial dan Deteksi Santri Terisolasi Berbasis Sosiometri Moreno (Moreno Sociometric Analysis & Social Network Analysis / SNA), Integrasi Doktrin 'Kal Bunyān al-Marsūs wa Ta'āwun 'alal Birr' Turats Klasik dengan Graph Theory, Centrality Metrics, & Peer Social Cohesion, Serta Desain Peta Jejaring Ukhuwah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Pemetaan Jaringan Sosial dan Deteksi Santri Terisolasi Berbasis Sosiometri Moreno (Moreno Sociometric Analysis & Social Network Analysis / SNA), Integrasi Doktrin 'Kal Bunyān al-Marsūs wa Ta'āwun 'alal Birr' Turats Klasik dengan Graph Theory, Centrality Metrics, & Peer Social Cohesion, Serta Desain Peta Jejaring Ukhuwah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-07-05/MONOGRAF-RISET-METODOLOGI-SOSIOMETRI-JEJARING/2026`  
 **Domain**: `05 Assessment Framework` > `07 Peer Assessment` (Sub-Modul 05: *Sociometric Methodology & Social Network Analysis / SNA*)  
@@ -218,7 +218,7 @@ Penerapan metodologi sosiometri dan peta jejaring ukhuwah Form SJU ini menghadir
 
 1. **Mewujudkan Prinsip Keadilan dan Pemerataan Kasih Sayang (*Zero Exclusion Sanctuary*)**: Memastikan seluruh santri terikat kuat dalam jejaring persaudaraan yang kokoh tanpa terkecuali.
 2. **Mendeteksi Titik Lemah Kohesi Sosial Sejak Dini**: Konselor BK dapat mengantisipasi depresi dan stres santri baru sebelum gejala klinis muncul ke permukaan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Sosiometri Graf Modern**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam yang paling canggih dalam tata kelola psikososial santri di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Sosiometri Graf Modern**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam yang paling canggih dalam tata kelola psikososial santri di dunia.[^5]
 
 ---
 
@@ -226,7 +226,7 @@ Penerapan metodologi sosiometri dan peta jejaring ukhuwah Form SJU ini menghadir
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-07-05: METODOLOGI SOSIOMETRI DAN PETA JEJARING UKHUWAH (FORM SJU-SOSIO)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-07-05: METODOLOGI SOSIOMETRI DAN PETA JEJARING UKHUWAH (FORM SJU-SOSIO)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -294,7 +294,7 @@ flowchart TD
 [^2]: Kerangka kerja Social Network Analysis (SNA) dan kalkulasi metrik centrality jejaring, Wasserman & Faust (1994, hlm. 178).  
 [^3]: An-Nawawi, *Syarah Shahih Muslim* (2001, Jilid 16, hlm. 118), syarah hadits keharaman mengucilkan saudara dan perumpamaan satu tubuh.  
 [^4]: Protokol intervensi penataan kamar restoratif dan integrasi santri terisolasi TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan metodologi sosiometri dan peta jejaring ukhuwah di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan metodologi sosiometri dan peta jejaring ukhuwah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

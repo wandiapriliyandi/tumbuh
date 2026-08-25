@@ -28,7 +28,7 @@
   - [4. Rekayasa Peran Musyrif Sebagai External Prefrontal Cortex & Dinamika Sensitivitas Sosial Teman Sebaya](#4-rekayasa-peran-musyrif-sebagai-external-prefrontal-cortex--dinamika-sensitivitas-sosial-teman-sebaya)
   - [5. Kasuistika Lapangan: Kasus Kenakalan Impulsif Santri Remaja & Resolusi Neurosains Terpadu](#5-kasuistika-lapangan-kasus-kenakalan-impulsif-santri-remaja--resolusi-neurosains-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Neurosains Maturitas Remaja Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-neurosains-maturitas-remaja-pesantren-tumbuh)
   - [2. Matriks Komparasi Sistem Limbik vs Prefrontal Cortex & Implikasi Pendampingan Musyrif](#2-matriks-komparasi-sistem-limbik-vs-prefrontal-cortex--implikasi-pendampingan-musyrif)
   - [3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (De-Escalation Protocol)](#3-matriks-manajemen-respon-impulsivitas-remaja-berbasis-neurosains-de-escalation-protocol)
   - [4. Protokol Pendampingan Pengaruh Teman Sebaya Positif (Peer Group Channeling Protocol)](#4-protokol-pendampingan-pengaruh-teman-sebaya-positif-peer-group-channeling-protocol)
@@ -108,7 +108,7 @@ TUMBUH menetapkan fungsi strategis pengasuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Neurosains Maturitas Remaja Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Neurosains Maturitas Remaja Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan pengasuhan remaja ke dalam **Arsitektur Tiga Sayap Pendampingan Remaja (*Arkan ar-Ri'ayah an-Numuwwiyyah*)**:
 
@@ -135,7 +135,7 @@ flowchart TD
 
 ### 2. Matriks Komparasi Sistem Limbik vs Prefrontal Cortex & Implikasi Pendampingan Musyrif
 
-| Dimensi Sistem Otak | Karakteristik Biologis Remaja | Dampak Perilaku di Asrama | Peran Pendampingan Musyrif TUMBUH |
+| Dimensi Sistem Otak | Karakteristik Biologis Remaja | Dampak Perilaku di Asrama | Peran Pendampingan Musyrif dalam sistem TUMBUH |
 | :--- | :--- | :--- | :--- |
 | **Sistem Limbik (Amigdala)**| Matang cepat sejak pubertas (12–14 th).| Emosional, haus sensasi, sensitif teman.| Memberi apresiasi tulus & rasa aman batin.|
 | **Korteks Prefrontal (PFC)** | Matang lambat (sempurna usia 25 th).| Sulit menimbang akibat jangka panjang.| Menjadi "rem luar" dengan SOP & jadwal jelas.|
@@ -145,7 +145,7 @@ flowchart TD
 
 ### 3. Matriks Manajemen Respon Impulsivitas Remaja Berbasis Neurosains (De-Escalation Protocol)
 
-| Tahap De-Eskalasi | Tindakan Pengasuh yang Diharamkan | Tindakan Beradab Musyrif TUMBUH | Landasan Neurosains |
+| Tahap De-Eskalasi | Tindakan Pengasuh yang Diharamkan | Tindakan Beradab Musyrif dalam sistem TUMBUH | Landasan Neurosains |
 | :--- | :--- | :--- | :--- |
 | **1. Saat Santri Marah / Nekat** | Membentak, membalas teriakan, memukul.| Menjaga nada bicara rendah & tenang.| Mencegah *Amygdala Hijack* pada santri.|
 | **2. Saat Menyelidiki Masalah**| Menginterogasi di depan santri banyak.| Mengajak dialog empat mata di ruang BK.| Menghilangkan rasa terancam martabat sosial.|
@@ -179,7 +179,7 @@ Prinsip maturitas neurosains remaja ini membawa implikasi agung bagi peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-01: PRINSIP MATURITAS NEUROSAINS DAN PSIKOLOGI SANTRI REMAJA (ADOLESCENT NEUROSCIENCE & DEVELOPMENTAL MATURATION)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-01: PRINSIP MATURITAS NEUROSAINS DAN PSIKOLOGI SANTRI REMAJA (ADOLESCENT NEUROSCIENCE & DEVELOPMENTAL MATURATION)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

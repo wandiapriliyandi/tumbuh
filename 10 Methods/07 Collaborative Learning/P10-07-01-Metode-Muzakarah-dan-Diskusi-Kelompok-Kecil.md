@@ -1,5 +1,5 @@
 # P10-07-01: METODE MUZAKARAH DAN DISKUSI KELOMPOK KECIL
-## *Monograf Riset Akademik: Standarisasi Metode Muzakarah dan Diskusi Kelompok Kolaboratif (Small-Group Mudzakarah & Peer Collaborative Learning Protocol), Desain Empat Langkah SOP Kajian Sebaya Berbasis Piramida Retensi Belajar dan Scaffolding Kognitif (Peer-Led Mudzakarah Architecture, Cognitive ZPD Scaffolding, & Mutual Reciprocal Teaching), Serta Eliminasi Isolasi Belajar Santri (Collaborative Mudzakarah Method, Peer Instruction Mechanics, & Matn Review / Form MET-Muzakarah), Integrasi Doktrin 'Mudzākaratul 'Ilmi Hayātul Qalb' Turats Klasik dengan Lev Vygotsky Socio-Cultural Theory, Eric Mazur Peer Instruction Framework, Serta Budaya Belajar Malam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Muzakarah dan Diskusi Kelompok Kolaboratif (Small-Group Mudzakarah & Peer Collaborative Learning Protocol), Desain Empat Langkah SOP Kajian Sebaya Berbasis Piramida Retensi Belajar dan Scaffolding Kognitif (Peer-Led Mudzakarah Architecture, Cognitive ZPD Scaffolding, & Mutual Reciprocal Teaching), Serta Eliminasi Isolasi Belajar Santri (Collaborative Mudzakarah Method, Peer Instruction Mechanics, & Matn Review / Form MET-Muzakarah), Integrasi Doktrin 'Mudzākaratul 'Ilmi Hayātul Qalb' Turats Klasik dengan Lev Vygotsky Socio-Cultural Theory, Eric Mazur Peer Instruction Framework, Serta Budaya Belajar Malam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-07-01/MONOGRAF-RISET-METODE-MUZAKARAH/2026`  
 **Domain**: `10 Methods` > `07 Collaborative Learning` (Sub-Modul 01: *Small-Group Mudzakarah & Peer Collaborative Learning*)  
@@ -107,7 +107,7 @@ Penerapan *Metode Muzakarah dan Diskusi Kelompok Kecil* membuktikan aksioma pira
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-07-01: METODE MUZAKARAH DAN DISKUSI KELOMPOK KECIL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-07-01: METODE MUZAKARAH DAN DISKUSI KELOMPOK KECIL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Eric Mazur mengenai efektivitas pedagogi Peer Instruction dalam mentransformasikan kelas pasif menjadi ruang dialog kritis, Mazur (1997, hlm. 10).
 [^2]: Lev S. Vygotsky mengenai konsep Zone of Proximal Development dan peran interaksi teman sebaya dalam akselerasi kognitif, Vygotsky (1978, hlm. 86).
-[^3]: Studi kasus penerapan metode Muzakarah Malam melipatgandakan pemahaman Nahwu dan retensi santri di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan metode Muzakarah Malam melipatgandakan pemahaman Nahwu dan retensi santri di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengintegrasian tradisi mudzakarah turats dengan piramida belajar modern terhadap penurunan kesenjangan akademis santri (2026).

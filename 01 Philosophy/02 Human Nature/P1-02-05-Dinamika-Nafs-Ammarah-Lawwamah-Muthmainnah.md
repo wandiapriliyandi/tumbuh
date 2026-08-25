@@ -259,7 +259,7 @@ Penerapan doktrin psikodinamika Islam ini mengantarkan pendidikan pesantren menj
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Psikodinamika Jiwa dan Neurosains Pesantren TUMBUH, *Kritik atas Reduksionisme Vonis Hitam-Putih*, 2026.  
+[^1]: Riset Psikodinamika Jiwa dan Neurosains Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Vonis Hitam-Putih*, 2026.  
 [^2]: QS. Yusuf [12]: 53.  
 [^3]: QS. Al-Qiyamah [75]: 2.  
 [^4]: QS. Al-Fajr [89]: 27–30.  
@@ -271,7 +271,7 @@ Penerapan doktrin psikodinamika Islam ini mengantarkan pendidikan pesantren menj
 [^10]: Ibnu Qayyim al-Jauziyyah, *Madarijus Salikin*, Jilid 2, hlm. 110–145.  
 [^11]: Matriks Tingkatan Kesadaran Dinamika Jiwa (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^12]: Standar Operasional Prosedur Penta-Tazkiyah Asrama 24 Jam TUMBUH, 2026.  
-[^13]: Petunjuk Teknis Fasilitas Ruang Damai dan Regulasi Emosi Santri TUMBUH, 2026.  
+[^13]: Petunjuk Teknis Fasilitas Ruang Damai dan Regulasi Emosi Santri dalam sistem TUMBUH, 2026.  
 [^14]: Silabus Pelatihan Regulasi Diri dan Neurosains Remaja Asatidz TUMBUH, 2026.  
 [^15]: Deklarasi Pemuliaan Dinamika Jiwa Remaja Dewan Riset Pendidikan Islam TUMBUH, 2026.
 

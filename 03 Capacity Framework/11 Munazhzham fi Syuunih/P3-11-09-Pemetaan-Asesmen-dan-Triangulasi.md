@@ -226,7 +226,7 @@ Sistem triangulasi Munazhzham fi Syu'unih menjamin keadilan evaluasi dan transfo
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-09: PEMETAAN ASESMEN DAN TRIANGULASI MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-09: PEMETAAN ASESMEN DAN TRIANGULASI MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -295,7 +295,7 @@ flowchart TD
 [^2]: Pembahasan kegagalan deteksi budaya ghashab terselubung pada asrama tanpa triangulasi sebaya, Cooper, Heron, & Heward (2020, hlm. 124).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 312).  
 [^4]: Protokol penanganan de-ghashab dini melalui triangulasi sebaya dan restorasi hak milik, TUMBUH (2026).  
-[^5]: Spesifikasi algoritma Early Warning System (EWS) tata kelola hidup santri TUMBUH (2026).  
+[^5]: Spesifikasi algoritma Early Warning System (EWS) tata kelola hidup santri dalam sistem TUMBUH (2026).  
 [^6]: Penjaminan mutu tata kelola kemandirian hidup TUMBUH Pesantren (2026).  
 
 ---

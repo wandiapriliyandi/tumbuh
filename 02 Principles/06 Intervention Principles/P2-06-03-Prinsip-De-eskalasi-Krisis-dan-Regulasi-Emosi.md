@@ -28,7 +28,7 @@
   - [4. Rekayasa Navigasi Enam Fase Siklus Krisis Geoff Colvin & Protokol Co-Regulation Musyrif Asrama](#4-rekayasa-navigasi-enam-fase-siklus-krisis-geoff-colvin--protokol-co-regulation-musyrif-asrama)
   - [5. Kasuistika Lapangan: De-Eskalasi Santri Histeris Mengamuk di Asrama Tanpa Kekerasan Fisik](#5-kasuistika-lapangan-de-eskalasi-santri-histeris-mengamuk-di-asrama-tanpa-kekerasan-fisik)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-de-eskalasi-krisis-dan-sifat-hilm-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip De-Eskalasi Krisis dan Sifat Hilm Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-de-eskalasi-krisis-dan-sifat-hilm-pesantren-tumbuh)
   - [2. Matriks Protokol Tindakan Musyrif pada Enam Fase Siklus Krisis Perilaku Geoff Colvin](#2-matriks-protokol-tindakan-musyrif-pada-enam-fase-siklus-krisis-perilaku-geoff-colvin)
   - [3. Protokol Tiga Langkah Bruce Perry (Regulate -> Relate -> Reason) dalam Penanganan Emosi Santri](#3-protokol-tiga-langkah-bruce-perry-regulate---relate---reason-dalam-penanganan-emosi-santri)
   - [4. Standar Prosedur Operasional (SOP) De-Eskalasi Krisis Asrama 24 Jam (Zero Restraint SOP)](#4-standar-prosedur-operasional-sop-de-eskalasi-krisis-asrama-24-jam-zero-restraint-sop)
@@ -107,7 +107,7 @@ TUMBUH memetakan intervensi pada **6 Fase Siklus Krisis (Geoff Colvin, 2004)**:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip De-Eskalasi Krisis dan Sifat Hilm Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip De-Eskalasi Krisis dan Sifat Hilm Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan manajemen krisis ke dalam **Arsitektur Tiga Sayap De-Eskalasi Beradab (*Arkan al-Ithfa' al-Ghadhabiy*)**:
 
@@ -134,7 +134,7 @@ flowchart TD
 
 ### 2. Matriks Protokol Tindakan Musyrif pada Enam Fase Siklus Krisis Perilaku Geoff Colvin
 
-| Fase Siklus Krisis | Ciri Perilaku Teramati pada Santri | Protokol Tindakan Musyrif TUMBUH |
+| Fase Siklus Krisis | Ciri Perilaku Teramati pada Santri | Protokol Tindakan Musyrif dalam sistem TUMBUH |
 | :--- | :--- | :--- |
 | **1. Calm (Tenang)** | Santri kooperatif, adab baik.| Pertahankan rasio apresiasi positif 4:1.|
 | **2. Trigger (Pemicu)** | Mulai cemas, nafas cepat, melotot.| Dekati ramah, tanyakan kabar, tawarkan jeda 5m.|
@@ -184,7 +184,7 @@ Prinsip de-eskalasi krisis dan regulasi emosi ini membawa implikasi agung bagi p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-03: PRINSIP DE-ESKALASI KRISIS DAN REGULASI EMOSI SANTRI (CRISIS DE-ESCALATION & EMOTIONAL CO-REGULATION)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-03: PRINSIP DE-ESKALASI KRISIS DAN REGULASI EMOSI SANTRI (CRISIS DE-ESCALATION & EMOTIONAL CO-REGULATION)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -252,7 +252,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip De-Eskalasi Krisis dan Regulasi Emosi Santri TUMBUH, *Kritik atas Eskalasi Bersama dan Punitif*, 2026.  
+[^1]: Riset Prinsip De-Eskalasi Krisis dan Regulasi Emosi Santri dalam sistem TUMBUH, *Kritik atas Eskalasi Bersama dan Punitif*, 2026.  
 [^2]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 17.  
 [^3]: *Sunan Abi Dawud*, Kitab al-Adab, Bab *Ma Yuqalu 'indal Ghadhab*; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Dzamm al-Ghadhab*, hlm. 165–190.  
 [^4]: Perry, B. D. (2006), *Neurosequential Model of Therapeutics*, hlm. 27–52; Perry & Winfrey (2021).  

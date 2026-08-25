@@ -95,7 +95,7 @@ Ritual pelepasan yang dirancang adalah **Malam Keberangkatan**: makan malam spes
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-07-02: PANDUAN PENYELARASAN ADAB RUMAH MASA LIBURAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-07-02: PANDUAN PENYELARASAN ADAB RUMAH MASA LIBURAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -148,5 +148,5 @@ flowchart TD
 
 [^1]: Ecological Systems Theory Bronfenbrenner tentang pentingnya manajemen transisi antar-ekosistem, Bronfenbrenner (1979, hlm. 26).
 [^2]: Konsep Character Summer Slide sebagai analogi academic summer slide dalam konteks karakter, adaptasi dari penelitian Cooper et al.
-[^3]: Studi kasus Kontrak Teknologi Keluarga mencegah relapse adiksi gadget Pesantren TUMBUH (2026).
+[^3]: Studi kasus Kontrak Teknologi Keluarga mencegah relapse adiksi gadget Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak panduan PAR-Liburan terhadap kesinambungan adab santri selama masa liburan (2026).

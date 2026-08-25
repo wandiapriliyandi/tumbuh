@@ -255,7 +255,7 @@ Integrasi CASEL SEL dan taksonomi adab nabawi ini menjadi pilar utama kebangkita
 [^11]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–60.  
 [^12]: Matriks Tingkatan Kesadaran Sosio-Emosional (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^13]: Standar Operasional Prosedur Tiga Rutinitas Harian SEL Asrama 24 Jam TUMBUH, 2026.  
-[^14]: Petunjuk Teknis Pelaksanaan Restorative Empathy Circle Pesantren TUMBUH, 2026.  
+[^14]: Petunjuk Teknis Pelaksanaan Restorative Empathy Circle Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^15]: Deklarasi Budaya Empati dan Anti-Perundungan Dewan Riset Ekosistem TUMBUH, 2026.
 
 ---

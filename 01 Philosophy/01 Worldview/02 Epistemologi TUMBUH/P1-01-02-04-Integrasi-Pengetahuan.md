@@ -260,7 +260,7 @@ Integrasi keilmuan berbasis *Tauhidul Haqiqah* ini menandai kebangkitan Renaisan
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Integrasi Keilmuan Pesantren TUMBUH, *Kritik atas Dikotomi Ilmu dan Sekularisasi Madrasah*, 2026.  
+[^1]: Riset Integrasi Keilmuan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Dikotomi Ilmu dan Sekularisasi Madrasah*, 2026.  
 [^2]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–60.  
 [^3]: Al-Faruqi, I. R. (1982), *Islamization of Knowledge*, hlm. 18–45.  
 [^4]: QS. Fushshilat [41]: 53.  

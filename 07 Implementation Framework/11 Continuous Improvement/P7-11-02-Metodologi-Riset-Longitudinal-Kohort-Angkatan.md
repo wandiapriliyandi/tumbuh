@@ -101,7 +101,7 @@ Metodologi riset longitudinal kohort yang dikembangkan TUMBUH merupakan kontribu
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-11-02: METODOLOGI RISET LONGITUDINAL KOHORT ANGKATAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-11-02: METODOLOGI RISET LONGITUDINAL KOHORT ANGKATAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Singer & Willett mengenai metodologi analisis data longitudinal terapan dalam memodelkan trajektori perubahan individu, Singer & Willett (2003, hlm. 12).
 [^2]: Prinsip Life-Span Developmental Psychology Paul Baltes tentang dinamika pertumbuhan karakter sepanjang rentang usia, Baltes (1987, hlm. 614).
-[^3]: Studi kasus riset kohort membuktikan efektivitas pendekatan restoratif dibanding punitif Pesantren TUMBUH (2026).
+[^3]: Studi kasus riset kohort membuktikan efektivitas pendekatan restoratif dibanding punitif Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Penerapan Hierarchical Linear Modeling (HLM) dalam menganalisis varians perkembangan adab lintas asrama dan kohort (2026).

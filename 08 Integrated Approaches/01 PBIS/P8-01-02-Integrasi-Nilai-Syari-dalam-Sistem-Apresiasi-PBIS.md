@@ -1,5 +1,5 @@
 # P8-01-02: INTEGRASI NILAI SYARI DALAM SISTEM APRESIASI PBIS
-## *Monograf Riset Akademik: Standarisasi Integrasi Nilai-Nilai Syar'i dalam Sistem Penguatan dan Apresiasi Positif PBIS, Desakralisasi Token Ekonomi Komersial Menuju Hak Istimewa Sosial Khidmah, dan Rekayasa Pujian Berbasis Niat Ikhlas (Syar'i-Aligned PBIS Recognition Systems, De-commercialization of Token Economy into Social Khidmah Privileges, & Effort-Based Sincere Praise / Form PBIS-ApresiasiSyari), Integrasi Doktrin 'Tahadduts bin-Ni'mah wal Ikhlās fin-Niyyah' Turats Klasik dengan Self-Determination Theory Ryan & Deci, Process Praise Dweck, Serta Pembentukan Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Integrasi Nilai-Nilai Syar'i dalam Sistem Penguatan dan Apresiasi Positif PBIS, Desakralisasi Token Ekonomi Komersial Menuju Hak Istimewa Sosial Khidmah, dan Rekayasa Pujian Berbasis Niat Ikhlas (Syar'i-Aligned PBIS Recognition Systems, De-commercialization of Token Economy into Social Khidmah Privileges, & Effort-Based Sincere Praise / Form PBIS-ApresiasiSyari), Integrasi Doktrin 'Tahadduts bin-Ni'mah wal Ikhlās fin-Niyyah' Turats Klasik dengan Self-Determination Theory Ryan & Deci, Process Praise Dweck, Serta Pembentukan Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-01-02/MONOGRAF-RISET-INTEGRASI-APRESIASI-SYARI-PBIS/2026`  
 **Domain**: `08 Integrated Approaches` > `01 PBIS` (Sub-Modul 02: *Syar'i-Aligned PBIS Recognition & Social Privileges*)  
@@ -82,12 +82,12 @@ Atas taufik dari Allah SWT dan kesungguhan ikhtiar (*Mujahadatun Nafs*) yang kon
 menjaga kebersihan rumah Allah dan mengayomi adik kelas tanpa pamrih.
 
 HAK ISTIMEWA YANG DIBERIKAN:
-Amanah Khidmah sebagai Koordinator Duta Qudwah Masjid Jami' Pesantren TUMBUH.
+Amanah Khidmah sebagai Koordinator Duta Qudwah Masjid Jami' Ekosistem Pesantren Berbasis TUMBUH.
 
 Semoga Allah SWT senantiasa menjaga keikhlasan niat, mengaruniakan keistiqamahan, dan menjadikan
 kebaikan ini sebagai pemberat timbangan amal di yaumil akhir. Aamiin.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Pengasuhan Pesantren,                         Musyrif Pembina Kamar,
 
 (Ust. Dr. Sholeh Abadi, M.Pd.)                      (Ust. Nabil Fadillah, S.Pd.)
@@ -104,7 +104,7 @@ Penerapan sistem apresiasi syar'i non-material yang selaras dengan *Self-Determi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-01-02: INTEGRASI NILAI SYARI DALAM SISTEM APRESIASI PBIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-01-02: INTEGRASI NILAI SYARI DALAM SISTEM APRESIASI PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -157,5 +157,5 @@ flowchart TD
 
 [^1]: Alfie Kohn mengenai kritik terhadap token ekonomi dan bagaimana manipulasi imbalan ekstrinsik merusak motivasi intrinsik, Kohn (1993, hlm. 28).
 [^2]: Carol Dweck mengenai perbedaan dampak person praise vs process praise terhadap perkembangan growth mindset, Dweck (2006, hlm. 72).
-[^3]: Studi kasus pembinaan dialog reframing niat mengubah kecenderungan riya' menjadi ikhlas Pesantren TUMBUH (2026).
+[^3]: Studi kasus pembinaan dialog reframing niat mengubah kecenderungan riya' menjadi ikhlas Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penguatan non-material terhadap peningkatan autonomous motivation santri berbasis Self-Determination Theory (2026).

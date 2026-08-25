@@ -1,5 +1,5 @@
 # P4-02-03: DETAIL JENJANG J3 — INTERNALISASI NILAI DAN SOCIAL-EMOTIONAL LEARNING (SEL)
-## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 9–10 (Usia 15–16 Tahun), Standar Capaian Kematangan Nalar Kritis & Regulasi Emosi Pubertas, Integrasi Fiqh Marahil at-Taklif dengan CASEL 5 Core Competencies & Social Perspective-Taking (Selman), Ekspedisi Bina Desa Binaan, Serta Matriks Indikator Kenaikan Jenjang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Karakteristik Perkembangan Santri Kelas 9–10 (Usia 15–16 Tahun), Standar Capaian Kematangan Nalar Kritis & Regulasi Emosi Pubertas, Integrasi Fiqh Marahil at-Taklif dengan CASEL 5 Core Competencies & Social Perspective-Taking (Selman), Ekspedisi Bina Desa Binaan, Serta Matriks Indikator Kenaikan Jenjang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-02-03/MONOGRAF-RISET-JENJANG-J3-INTERNALISASI-SEL/2026`  
 **Domain**: `04 Progression Framework` > `02 Development Levels` (Sub-Modul 03: *Level J3: Value Internalization & SEL*)  

@@ -24,8 +24,7 @@ graph TD
     end
 
     Santri <--> |Resonansi Relasi & Pembelajaran| Guru
-    Guru <--> |Kepemimpinan & Operasional SOP| Sistem
-    Sistem <--> |Lingkungan Pengondisian Bi'ah| Santri
+    Guru <--> |Kepemimpinan & Operasional SOP| sistem <--> |Lingkungan Pengondisian Bi'ah| Santri
 ```
 
 ---

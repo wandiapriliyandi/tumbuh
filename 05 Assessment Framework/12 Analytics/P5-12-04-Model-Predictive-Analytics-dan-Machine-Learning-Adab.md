@@ -1,5 +1,5 @@
 # P5-12-04: MODEL PREDICTIVE ANALYTICS DAN MACHINE LEARNING ADAB
-## *Monograf Riset Akademik: Pemodelan Prediktif Machine Learning untuk Trajektori Kematangan Adab dan Klasifikasi Kebutuhan Intervensi Multi-Tier (Predictive Machine Learning Modeling for Character Trajectory & Multi-Tier Intervention Classification / Form PML-Model), Integrasi Doktrin 'Ilmul Firāsah wa Qirā'atul 'Awāqib' Turats Klasik dengan Random Forest, Gradient Boosting (XGBoost), SHAP Explainable AI (XAI), Serta Etika Preskriptif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Pemodelan Prediktif Machine Learning untuk Trajektori Kematangan Adab dan Klasifikasi Kebutuhan Intervensi Multi-Tier (Predictive Machine Learning Modeling for Character Trajectory & Multi-Tier Intervention Classification / Form PML-Model), Integrasi Doktrin 'Ilmul Firāsah wa Qirā'atul 'Awāqib' Turats Klasik dengan Random Forest, Gradient Boosting (XGBoost), SHAP Explainable AI (XAI), Serta Etika Preskriptif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-12-04/MONOGRAF-RISET-PREDICTIVE-MACHINE-LEARNING-ADAB/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 04: *Predictive Machine Learning & Intervention Classification*)  
@@ -217,7 +217,7 @@ Penerapan model machine learning adab Form PML ini menghadirkan keunggulan perad
 
 1. **Mewujudkan Personalisasi Pembinaan Santri Berskala Massal (*Mass Personalization of Tarbiyah*)**: Setiap anak mendapatkan bimbingan yang dirancang khusus sesuai keunikan fitrahnya.
 2. **Menghilangkan Jebakan AI Kotak Hitam (*Zero Black-Box Explainable AI*)**: Musyrif dan orang tua memahami secara jernih alasan matematis di balik setiap rekomendasi sistem.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi 'Ilmul Firāsah dan State-of-the-Art Machine Learning**: Mengukuhkan pesantren TUMBUH sebagai pionir kecerdasan buatan Islam paling maju di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi 'Ilmul Firāsah dan State-of-the-Art Machine Learning**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pionir kecerdasan buatan Islam paling maju di dunia.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan model machine learning adab Form PML ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-12-04: MODEL PREDICTIVE ANALYTICS DAN MACHINE LEARNING ADAB** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-12-04: MODEL PREDICTIVE ANALYTICS DAN MACHINE LEARNING ADAB** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -293,8 +293,8 @@ flowchart TD
 [^1]: Kerangka kerja XGBoost Gradient Boosting Tree Tianqi Chen dalam klasifikasi prediktif data berskala besar, Chen & Guestrin (2016, hlm. 788).  
 [^2]: Model Explainable AI (XAI) SHAP Scott Lundberg dalam mengatribusikan bobot kontribusi fitur secara transparan, Lundberg & Lee (2017, hlm. 4766).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Madarijus Salikin* (2011, Jilid 2, hlm. 482), bab pembagian ilmu firasat istidlalīyah empiris dalam membina murid.  
-[^4]: Protokol penemuan bakat kepemimpinan tersembunyi santri berbasis XGBoost dan SHAP Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model predictive analytics dan machine learning adab di Pesantren TUMBUH (2026).  
+[^4]: Protokol penemuan bakat kepemimpinan tersembunyi santri berbasis XGBoost dan SHAP Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model predictive analytics dan machine learning adab di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

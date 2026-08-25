@@ -1,5 +1,5 @@
 # P8-02-01: INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH
-## *Monograf Riset Akademik: Standarisasi Integrasi 5 Kompetensi Social-Emotional Learning (CASEL) dengan Taksonomi Adab dan Tazkiyatun Nafs, Rekayasa Kurikulum Sosio-Emosional Islami, dan Penyelarasan Neurosains Afektif dengan Turats (Integrating CASEL 5 Core Competencies with Tazkiyatun Nafs Taxonomy, Islamic SEL Curriculum Engineering, & Affective Neuroscience Alignment / Form SEL-Tazkiyah), Integrasi Doktrin 'Tahdzīb al-Akhlāq wa Riyādhatun Nafs' Turats Klasik dengan CASEL SEL Framework, Durlak Meta-Analysis, Serta Kematangan Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Integrasi 5 Kompetensi Social-Emotional Learning (CASEL) dengan Taksonomi Adab dan Tazkiyatun Nafs, Rekayasa Kurikulum Sosio-Emosional Islami, dan Penyelarasan Neurosains Afektif dengan Turats (Integrating CASEL 5 Core Competencies with Tazkiyatun Nafs Taxonomy, Islamic SEL Curriculum Engineering, & Affective Neuroscience Alignment / Form SEL-Tazkiyah), Integrasi Doktrin 'Tahdzīb al-Akhlāq wa Riyādhatun Nafs' Turats Klasik dengan CASEL SEL Framework, Durlak Meta-Analysis, Serta Kematangan Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-02-01/MONOGRAF-RISET-INTEGRASI-CASEL-TAZKIYAH/2026`  
 **Domain**: `08 Integrated Approaches` > `02 SEL` (Sub-Modul 01: *Integrating CASEL 5 Core Competencies with Tazkiyatun Nafs*)  
@@ -106,7 +106,7 @@ Integrasi eksplisit antara CASEL SEL dan Tazkiyatun Nafs memecahkan kelemahan me
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-02-01: INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-02-01: INTEGRASI 5 KOMPETENSI CASEL DENGAN ADAB TAZKIYAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -159,5 +159,5 @@ flowchart TD
 
 [^1]: Durlak et al. mengenai meta-analisis dampak program Social-Emotional Learning (SEL) universal di lingkungan persekolahan, Durlak et al. (2011, hlm. 407).
 [^2]: Ibnu Miskawaih mengenai definisi akhlak sebagai disposisi jiwa yang melahirkan perilaku spontan tanpa beban, Ibnu Miskawaih (2011, hlm. 25).
-[^3]: Studi kasus penerapan modul regulasi emosi SEL-Tazkiyah mereduksi agresi reaktif santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan modul regulasi emosi SEL-Tazkiyah mereduksi agresi reaktif santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penggabungan nilai syar'i dan teknik neurosains afektif terhadap penurunan kadar stres dan peningkatan kohesi sosial santri (2026).

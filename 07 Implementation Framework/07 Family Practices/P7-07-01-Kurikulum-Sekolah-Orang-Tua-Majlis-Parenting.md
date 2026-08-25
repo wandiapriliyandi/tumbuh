@@ -101,7 +101,7 @@ Pesantren yang mengimplementasikan program *Parent Academy* terstruktur mengalam
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-07-01: KURIKULUM SEKOLAH ORANG TUA DAN MAJLIS PARENTING** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-07-01: KURIKULUM SEKOLAH ORANG TUA DAN MAJLIS PARENTING** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Epstein Framework tentang School-Family-Community Partnership dan tipologi 6 keterlibatan, Epstein (1995, hlm. 704).
 [^2]: Korelasi keterlibatan orang tua dengan prestasi akademik dan karakter anak, Fan & Chen (2001, hlm. 8).
-[^3]: Studi kasus Sekolah Orang Tua mencegah krisis emosi pasca-liburan Pesantren TUMBUH (2026).
+[^3]: Studi kasus Sekolah Orang Tua mencegah krisis emosi pasca-liburan Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak Parent Academy terhadap Family Engagement Index dan kualitas transisi liburan (2026).

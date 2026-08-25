@@ -1,5 +1,5 @@
 # P7-09-01: ARSITEKTUR DASHBOARD MONITORING REAL-TIME
-## *Monograf Riset Akademik: Standarisasi Arsitektur Dashboard Monitoring Digital PBIS Real-Time, Desain Visualisasi Data Tri-Level (Mudir, BK, Musyrif), dan Rekayasa Antarmuka Pengambilan Keputusan Berbasis Bukti (Real-Time PBIS Monitoring Dashboard Architecture, Tri-Level Data Visualization, & Evidence-Based Decision Interface / Form ADM-Dashboard), Integrasi Doktrin 'Al-Muhāsabah wal Istibshār bil Bayānāt' Turats Klasik dengan Information Dashboard Design Few, SWIS Data-Based Decision Making, Serta Analitik Perilaku di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Arsitektur Dashboard Monitoring Digital PBIS Real-Time, Desain Visualisasi Data Tri-Level (Mudir, BK, Musyrif), dan Rekayasa Antarmuka Pengambilan Keputusan Berbasis Bukti (Real-Time PBIS Monitoring Dashboard Architecture, Tri-Level Data Visualization, & Evidence-Based Decision Interface / Form ADM-Dashboard), Integrasi Doktrin 'Al-Muhāsabah wal Istibshār bil Bayānāt' Turats Klasik dengan Information Dashboard Design Few, SWIS Data-Based Decision Making, Serta Analitik Perilaku di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-09-01/MONOGRAF-RISET-ARSITEKTUR-DASHBOARD-MONITORING/2026`  
 **Domain**: `07 Implementation Framework` > `09 Monitoring` (Sub-Modul 01: *Real-Time PBIS Monitoring Dashboard Architecture*)  
@@ -98,7 +98,7 @@ Penerapan dashboard real-time yang mematuhi prinsip desain Stephen Few menghasil
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-09-01: ARSITEKTUR DASHBOARD MONITORING REAL-TIME** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-09-01: ARSITEKTUR DASHBOARD MONITORING REAL-TIME** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -151,5 +151,5 @@ flowchart TD
 
 [^1]: Horner et al. mengenai pentingnya sistem informasi real-time dalam mendukung SW-PBIS Multi-Tier, Horner et al. (2010, hlm. 6).
 [^2]: Prinsip desain dashboard informasi Stephen Few dalam mengurangi cognitive load dan memicu keputusan cepat, Few (2006, hlm. 38).
-[^3]: Studi kasus analisis heatmap waktu-lokasi menurunkan insiden lorong asrama Pesantren TUMBUH (2026).
+[^3]: Studi kasus analisis heatmap waktu-lokasi menurunkan insiden lorong asrama Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integrasi SWIS terhadap pemangkasan latensi intervensi santri berisiko tinggi (2026).

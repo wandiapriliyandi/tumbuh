@@ -1,5 +1,5 @@
 # P3-11-01: FILOSOFI DAN LANDASAN TURATS MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Ontologi Keteraturan dalam Worldview Islam (Nizhamul Kawn), Doktrin Itqan & Husnut Tadbir dalam Khazanah Turats, Epistemologi Kerapian Fisik Sebagai Cermin Kesucian Kalbu (Zhinatul Batin wazh-Zhahir), Konvergensi Metodologi 5S/Kaizen & Ergonomi Kognitif, Serta Rekayasa Tata Kelola Kehidupan Asrama 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Ontologi Keteraturan dalam Worldview Islam (Nizhamul Kawn), Doktrin Itqan & Husnut Tadbir dalam Khazanah Turats, Epistemologi Kerapian Fisik Sebagai Cermin Kesucian Kalbu (Zhinatul Batin wazh-Zhahir), Konvergensi Metodologi 5S/Kaizen & Ergonomi Kognitif, Serta Rekayasa Tata Kelola Kehidupan Asrama 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-01/MONOGRAF-RISET-FILOSOFI-TURATS-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 01: *Philosophy & Turats Foundation*)  
@@ -227,7 +227,7 @@ Penerapan kapasitas Munazhzham fi Syu'unih mentransformasikan seluruh ekosistem 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-01: FILOSOFI DAN LANDASAN TURATS MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-01: FILOSOFI DAN LANDASAN TURATS MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

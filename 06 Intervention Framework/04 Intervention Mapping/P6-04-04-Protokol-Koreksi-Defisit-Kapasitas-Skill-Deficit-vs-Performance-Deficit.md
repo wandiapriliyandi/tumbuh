@@ -1,5 +1,5 @@
 # P6-04-04: PROTOKOL KOREKSI DEFISIT KAPASITAS (SKILL DEFICIT VS PERFORMANCE DEFICIT)
-## *Monograf Riset Akademik: Metodologi Diagnostik Pembedaan Defisit Keterampilan ('Can't Do') dan Defisit Motivasi Performa ('Won't Do') Serta Desain Intervensi Presisi (Skill Deficit vs Performance Deficit Diagnostic & Intervention Matching Protocol / Form SDP-Diagnostik), Integrasi Doktrin 'Al-Jahlu bil Adab Muqābilatut Tahāwuni wal Istikhfāf' Turats Klasik dengan Gresham's Behavioral Deficit Taxonomy, Self-Determination Theory (SDT), Serta Presisi Tarbiyah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Diagnostik Pembedaan Defisit Keterampilan ('Can't Do') dan Defisit Motivasi Performa ('Won't Do') Serta Desain Intervensi Presisi (Skill Deficit vs Performance Deficit Diagnostic & Intervention Matching Protocol / Form SDP-Diagnostik), Integrasi Doktrin 'Al-Jahlu bil Adab Muqābilatut Tahāwuni wal Istikhfāf' Turats Klasik dengan Gresham's Behavioral Deficit Taxonomy, Self-Determination Theory (SDT), Serta Presisi Tarbiyah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-04-04/MONOGRAF-RISET-SKILL-VS-PERFORMANCE-DEFICIT/2026`  
 **Domain**: `06 Intervention Framework` > `04 Intervention Mapping` (Sub-Modul 04: *Skill Deficit vs Performance Deficit Diagnostic & Intervention Matching*)  
@@ -221,7 +221,7 @@ Penerapan protokol diagnostik Form SDP ini menghadirkan keunggulan peradaban:
 
 1. **Mewujudkan Keadilan Tarbiyah yang Hakiki (*Tarbiyah with Pinpoint Accuracy*)**: Tidak ada lagi santri yang dihukum secara zalim atas ketidaktahuannya.
 2. **Efisiensi Energi dan Waktu Pengasuh (*High Instructional Efficiency*)**: Musyrif tidak lagi membuang waktu menceramahi santri malas atau menghukum santri yang butuh bimbingan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-'Udzru bil Jahl dan Gresham's Deficit Taxonomy**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem diagnostik perilaku paling ilmiah di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-'Udzru bil Jahl dan Gresham's Deficit Taxonomy**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem diagnostik perilaku paling ilmiah di dunia.[^5]
 
 ---
 
@@ -229,7 +229,7 @@ Penerapan protokol diagnostik Form SDP ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-04-04: PROTOKOL KOREKSI DEFISIT KAPASITAS (SKILL DEFICIT VS PERFORMANCE DEFICIT)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-04-04: PROTOKOL KOREKSI DEFISIT KAPASITAS (SKILL DEFICIT VS PERFORMANCE DEFICIT)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -297,8 +297,8 @@ flowchart TD
 [^1]: Taksonomi defisit perilaku Frank Gresham dalam membedakan Skill Deficit dan Performance Deficit, Gresham (2002, hlm. 864 & 2008, hlm. 144).  
 [^2]: Metodologi Incentive Probing dalam asesmen langsung diferensiasi defisit perilaku belajar, Duhon et al. (2004, hlm. 430).  
 [^3]: An-Nawawi, *Syarh Shahih Muslim* (2012, Jilid 3, hlm. 112), bab kewajiban membedakan penanganan antara orang bodoh yang belum tahu dengan orang lalai yang malas.  
-[^4]: Protokol uji cepat diagnostik defisit perilaku dan bimbingan terarah Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol koreksi defisit kapasitas di Pesantren TUMBUH (2026).  
+[^4]: Protokol uji cepat diagnostik defisit perilaku dan bimbingan terarah Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol koreksi defisit kapasitas di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

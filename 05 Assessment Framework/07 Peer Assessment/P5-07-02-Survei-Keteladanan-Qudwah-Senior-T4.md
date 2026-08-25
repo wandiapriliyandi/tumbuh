@@ -1,5 +1,5 @@
 # P5-07-02: SURVEI KETELADANAN QUDWAH SENIOR TANGGA 4 (FORM SKQ-SENIOR)
-## *Monograf Riset Akademik: Metodologi Evaluasi 360 Derajat Keteladanan Santri Senior Jenjang J3–J4 / Tangga 4 (Senior Exemplary Leadership Survey / Form SKQ-Senior), Integrasi Doktrin 'Al-Qudwah al-Hasanah wa Imāmatul Muttaqīn' Turats Klasik dengan Kouzes-Posner Leadership Practices Inventory (LPI), Servant Leadership Greenleaf, Serta Audit Kelayakan Gelar Penggerak di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Evaluasi 360 Derajat Keteladanan Santri Senior Jenjang J3–J4 / Tangga 4 (Senior Exemplary Leadership Survey / Form SKQ-Senior), Integrasi Doktrin 'Al-Qudwah al-Hasanah wa Imāmatul Muttaqīn' Turats Klasik dengan Kouzes-Posner Leadership Practices Inventory (LPI), Servant Leadership Greenleaf, Serta Audit Kelayakan Gelar Penggerak di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-07-02/MONOGRAF-RISET-SURVEI-QUDWAH-SENIOR-T4/2026`  
 **Domain**: `05 Assessment Framework` > `07 Peer Assessment` (Sub-Modul 02: *Senior Tangga 4 Exemplary Leadership Survey*)  
@@ -219,7 +219,7 @@ Penerapan instrumen survei qudwah senior Form SKQ ini menghadirkan lompatan pera
 
 1. **Melenyapkan Budaya Kekerasan dan Perpeloncoan Senior Selamanya**: Menjamin kepemimpinan santri tegak di atas keteladanan cinta kasih, bukan intimidasi fisik.
 2. **Melahirkan Generasi Pemimpin Pelayan Umat (*Authentic Servant Leaders*)**: Santri terlatih memimpin dengan melayani dan menempatkan kemaslahatan orang lain di atas ego pribadi.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Akuntabilitas Moral 360 Derajat**: Menjadikan pesantren TUMBUH sebagai pionir tata kelola organisasi pelajar Islam modern di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Akuntabilitas Moral 360 Derajat**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir tata kelola organisasi pelajar Islam modern di dunia.[^5]
 
 ---
 
@@ -227,7 +227,7 @@ Penerapan instrumen survei qudwah senior Form SKQ ini menghadirkan lompatan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-07-02: SURVEI KETELADANAN QUDWAH SENIOR TANGGA 4 (FORM SKQ-SENIOR)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-07-02: SURVEI KETELADANAN QUDWAH SENIOR TANGGA 4 (FORM SKQ-SENIOR)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Penelitian Kouzes & Posner mengenai Leadership Practices Inventory (LPI) dan evaluasi keteladanan kepemimpinan, Kouzes & Posner (2017, hlm. 48).  
 [^2]: Model Servant Leadership Robert Greenleaf mengenai kepemimpinan yang melayani kebutuhan pengikut, Greenleaf (1977, hlm. 24).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 32), bab syarat keadilan dan keteladanan moral pemimpin pengasuhan.  
-[^4]: Protokol survei legitimasi moral senior dan kaderisasi kepemimpinan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan survei keteladanan qudwah senior di Pesantren TUMBUH (2026).  
+[^4]: Protokol survei legitimasi moral senior dan kaderisasi kepemimpinan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan survei keteladanan qudwah senior di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

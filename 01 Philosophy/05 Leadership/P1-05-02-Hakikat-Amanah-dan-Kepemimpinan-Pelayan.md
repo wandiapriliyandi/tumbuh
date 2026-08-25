@@ -246,7 +246,7 @@ Penerapan doktrin *Amanah* dan *Servant Leadership* ini menjadi tonggak peradaba
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Hakikat Amanah dan Servant Leadership Pesantren TUMBUH, *Kritik atas Eksploitasi Kerja dan Burnout Pengasuh*, 2026.  
+[^1]: Riset Hakikat Amanah dan Servant Leadership Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Eksploitasi Kerja dan Burnout Pengasuh*, 2026.  
 [^2]: QS. An-Nisa' [4]: 58.  
 [^3]: *Shahih Muslim*, Kitab al-Imarah, Hadits No. 1825.  
 [^4]: Sirah Khulafaur Rasyidin, *Kisah Kepemimpinan Khidmah Sayyidina Abu Bakar dan Umar RA*; Riset Kepemimpinan Islam TUMBUH, 2026.  
@@ -256,7 +256,7 @@ Penerapan doktrin *Amanah* dan *Servant Leadership* ini menjadi tonggak peradaba
 [^8]: Spears, L. C. (2010), *The Journal of Virtues & Leadership*, hlm. 25–30.  
 [^9]: Sapolsky, R. M. (2017), *Behave*, hlm. 210–245.  
 [^10]: Matriks Tingkatan Kesadaran Kepemimpinan Pelayan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^11]: Standar Operasional Prosedur Manajemen Shift dan Perlindungan Kesehatan Kerja Musyrif TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Manajemen Shift dan Perlindungan Kesehatan Kerja Musyrif dalam sistem TUMBUH, 2026.  
 [^12]: Deklarasi Pemuliaan Kepemimpinan Khidmah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

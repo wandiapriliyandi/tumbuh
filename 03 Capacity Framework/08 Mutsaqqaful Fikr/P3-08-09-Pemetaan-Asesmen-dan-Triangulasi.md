@@ -226,7 +226,7 @@ Sistem triangulasi Mutsaqqaful Fikr menjamin keadilan evaluasi bagi seluruh tipe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-08-09: PEMETAAN ASESMEN DAN TRIANGULASI MUTSAQQAFUL FIKR** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-08-09: PEMETAAN ASESMEN DAN TRIANGULASI MUTSAQQAFUL FIKR** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -293,7 +293,7 @@ flowchart TD
 [^2]: Pembahasan kegagalan deteksi kecurangan akademik terstruktur pada institusi pendidikan berasrama, Paul & Elder (2019, hlm. 62).  
 [^3]: Al-Khatib Al-Baghdadi, *Al-Kifayah fi 'Ilmir Riwayah* (2002, hlm. 78).  
 [^4]: Protokol resolusi restoratif kasus contract cheating dan joki tugas karya ilmiah santri, Sugai & Horner (2020, hlm. 210).  
-[^5]: Spesifikasi algoritma Early Warning System (EWS) kognitif santri TUMBUH (2026).  
+[^5]: Spesifikasi algoritma Early Warning System (EWS) kognitif santri dalam sistem TUMBUH (2026).  
 [^6]: Penjaminan mutu asesmen berkeadilan berbasis portofolio riset TUMBUH Pesantren (2026).  
 
 ---

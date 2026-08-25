@@ -1,5 +1,5 @@
 # P10-01-01: METODE QIRA'AH, SYARAH, DAN SOROGAN KITAB TURATS
-## *Monograf Riset Akademik: Standarisasi Metodologi Sorogan Individual dan Qira'ah Syarah dalam Penguasaan Teks Turats Klasik, Penyelarasan Kecepatan Belajar Individual (Individualized Paced Mastery), dan Didaktik Filologi Arab Terapan (Individual Sorogan Methodology, Textual Exegesis / Qira'ah Syarah, & Differentiated Classical Arabic Philology / Form MET-SoroganTurats), Integrasi Doktrin 'Al-'Ardh wal Qirā'ah 'alasy-Syaikh' Turats Klasik dengan Bloom Mastery Learning Theory, Tomlinson Differentiated Instruction, Serta Penguasaan Kitab Kuning di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Sorogan Individual dan Qira'ah Syarah dalam Penguasaan Teks Turats Klasik, Penyelarasan Kecepatan Belajar Individual (Individualized Paced Mastery), dan Didaktik Filologi Arab Terapan (Individual Sorogan Methodology, Textual Exegesis / Qira'ah Syarah, & Differentiated Classical Arabic Philology / Form MET-SoroganTurats), Integrasi Doktrin 'Al-'Ardh wal Qirā'ah 'alasy-Syaikh' Turats Klasik dengan Bloom Mastery Learning Theory, Tomlinson Differentiated Instruction, Serta Penguasaan Kitab Kuning di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-01-01/MONOGRAF-RISET-METODE-SOROGAN-TURATS/2026`  
 **Domain**: `10 Methods` > `01 Learning Methods` (Sub-Modul 01: *Individual Sorogan & Qira'ah Syarah Methodology*)  
@@ -105,7 +105,7 @@ Penerapan metode sorogan individual yang dikombinasikan dengan prinsip *Mastery 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-01-01: METODE QIRA'AH, SYARAH, DAN SOROGAN KITAB TURATS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-01-01: METODE QIRA'AH, SYARAH, DAN SOROGAN KITAB TURATS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Benjamin S. Bloom mengenai The 2 Sigma Problem dan keunggulan absolut bimbingan 1-on-1 dalam ketuntasan belajar, Bloom (1984, hlm. 5).
 [^2]: Al-Qadhi 'Iyadh mengenai kedudukan metode Al-'Ardh wal Qira'ah sebagai pilar utama otentisitas transmisi keilmuan Islam, Al-Ilma' (2008, hlm. 68).
-[^3]: Studi kasus penerapan sorogan individual mentransformasi santri kesulitan nahwu menjadi juara MQK Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan sorogan individual mentransformasi santri kesulitan nahwu menjadi juara MQK Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak umpan balik formatif instan 1-on-1 terhadap lonjakan kapasitas literasi membaca kitab kuning santri (2026).

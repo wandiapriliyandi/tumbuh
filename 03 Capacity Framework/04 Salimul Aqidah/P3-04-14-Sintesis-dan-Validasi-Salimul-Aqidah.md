@@ -359,7 +359,7 @@ Atas Nama    : Dewan Keilmuan, Auditor Mutu, & Principal Architect TUMBUH
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-14: SINTESIS DAN VALIDASI SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-14: SINTESIS DAN VALIDASI SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -441,7 +441,7 @@ flowchart TD
 [^12]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^13]: Kerangka Integrasi Karakter 1 Salimul Aqidah Menuju Karakter 2 Shahihul Ibadah, 2026.  
 [^14]: Protokol Proteksi Kesejahteraan Musyrif & Anti-Burnout Shift Asrama TUMBUH, 2026.  
-[^15]: Kebijakan Mutlak Nol Toleransi Kekerasan (Zero-Violence Policy) Pesantren TUMBUH, 2026.  
+[^15]: Kebijakan Mutlak Nol Toleransi Kekerasan (Zero-Violence Policy) Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^16]: Berita Acara Sidang Pleno Dewan Keilmuan Pengesahan Status Mutu A+ Domain 04, 2026.  
 [^17]: Paket Adopsi Kurikulum Karakter Pesantren Mitra Nasional TUMBUH, 2026.
 

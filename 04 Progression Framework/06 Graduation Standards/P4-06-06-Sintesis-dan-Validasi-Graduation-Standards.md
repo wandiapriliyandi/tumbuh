@@ -1,5 +1,5 @@
 # P4-06-06: SINTESIS DAN VALIDASI STANDAR KELULUSAN PARIPURNA
-## *Monograf Riset Akademik: Meta-Validasi Psikometri Sistem Standar Kelulusan Paripurna (Graduation Standards) Santri TUMBUH, Pengujian Validitas Konkuren (Concurrent Validity r >= 0.89) & Koefisien Keandalan Konstruk (Composite Reliability CR >= 0.92), Integrasi Hermeneutika Syar'i dengan Standar Akreditasi Pendidikan Internasional (ISO 21001 & CIS Standards), Serta Rekomendasi Standard Operating Procedure (SOP) Manajemen Yudisium Kelulusan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Meta-Validasi Psikometri Sistem Standar Kelulusan Paripurna (Graduation Standards) Santri dalam sistem TUMBUH, Pengujian Validitas Konkuren (Concurrent Validity r >= 0.89) & Koefisien Keandalan Konstruk (Composite Reliability CR >= 0.92), Integrasi Hermeneutika Syar'i dengan Standar Akreditasi Pendidikan Internasional (ISO 21001 & CIS Standards), Serta Rekomendasi Standard Operating Procedure (SOP) Manajemen Yudisium Kelulusan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-06-06/MONOGRAF-RISET-SINTESIS-VALIDASI-GRADUATION-STANDARDS/2026`  
 **Domain**: `04 Progression Framework` > `06 Graduation Standards` (Sub-Modul 06: *Graduation Standards Synthesis & Psychometric Validation*)  
@@ -233,7 +233,7 @@ flowchart TD
     subgraph PBISSintesisKelulusan["PROTOKOL AKSI PBIS PENJAMINAN MUTU KELULUSAN"]
         T1["TIER 1: AUDIT PARIPURNA SENAT PESANTREN<br/>• Sidang Pleno Yudisium menetapkan kelulusan santri berbasis data 360 derajat.<br/>• Deklarasi Wisuda Paripurna Insan Adabi."]
         
-        T2["TIER 2: PENGUATAN KOMITMEN IKATAN ALUMNI<br/>• Pengukuhan Korps Alumni TUMBUH & penandatanganan Pakta Integritas Khidmah."]
+        T2["TIER 2: PENGUATAN KOMITMEN IKATAN ALUMNI<br/>• Pengukuhan Korps Alumni binaan sistem TUMBUH & penandatanganan Pakta Integritas Khidmah."]
         
         T3["TIER 3: CONTINUOUS MONITORING & REPUTATION AUDIT<br/>• Pemantauan integritas institusi dan rekam jejak lulusan di kancah nasional & global."]
         
@@ -278,7 +278,7 @@ flowchart TD
 [^1]: Standar metodologi pengujian validitas konkuren dan analisis faktor konfirmatori (CFA), Hair et al. (2019, hlm. 614).  
 [^2]: Kerangka kerja sistem manajemen organisasi pendidikan berbasis ISO 21001:2018, International Organization for Standardization (2018, hlm. 8).  
 [^3]: QS. An-Nisā' [4]: 58, tafsir tentang kewajiban menyampaikan amanah dan menetapkan hukum dengan seadil-adilnya.  
-[^4]: Protokol penanganan anomali data jam khidmah dan penegakan integritas yudisium santri TUMBUH (2026).  
+[^4]: Protokol penanganan anomali data jam khidmah dan penegakan integritas yudisium santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan meta-validasi standar kelulusan paripurna TUMBUH Pesantren (2026).  
 
 ---

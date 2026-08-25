@@ -28,7 +28,7 @@
   - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Ekosistem Pembelajaran Kelas](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-ekosistem-pembelajaran-kelas)
   - [5. Kasuistika Lapangan: Evaluasi Transformasi Mutu Belajar dan Daya Ingat Santri di Pesantren Percontohan](#5-kasuistika-lapangan-evaluasi-transformasi-mutu-belajar-dan-daya-ingat-santri-di-pesantren-percontohan)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-pembelajaran-bermakna--kognisi-beradab-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-pembelajaran-bermakna--kognisi-beradab-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional Lima Pilar Pembelajaran ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-lima-pilar-pembelajaran-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Pembelajaran Aktif Berkelanjutan (Active Learning Supervision SOP)](#3-protokol-penjaminan-mutu--supervisi-pembelajaran-aktif-berkelanjutan-active-learning-supervision-sop)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 04 Development Principles](#4-jembatan-epistemologis-menuju-sub-domain-04-development-principles)
@@ -114,7 +114,7 @@ Sintesis prinsip pembelajaran ini mewujudkan Triad Pertumbuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Pembelajaran Bermakna & Kognisi Beradab Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Pembelajaran Bermakna (*Bayan at-Ta'allum al-Ma'nawiy*)**:
 
@@ -195,7 +195,7 @@ Sintesis Prinsip Pembelajaran ini menegaskan arah kebangkitan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03-06: SINTESIS PRINSIP PEMBELAJARAN DAN GRAND MANIFESTO PEDAGOGI BERADAB (SYNTHESIS OF LEARNING PRINCIPLES)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03-06: SINTESIS PRINSIP PEMBELAJARAN DAN GRAND MANIFESTO PEDAGOGI BERADAB (SYNTHESIS OF LEARNING PRINCIPLES)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -264,7 +264,7 @@ flowchart TD
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
 [^1]: Riset Sintesis Prinsip Pembelajaran dan Grand Manifesto Pedagogi Beradab TUMBUH, *Kritik atas Dogmatisme Pasif*, 2026.  
-[^2]: Master Konsolidasi Lima Pilar Psikologi Belajar dan Kognisi Santri TUMBUH, 2026.  
+[^2]: Master Konsolidasi Lima Pilar Psikologi Belajar dan Kognisi Santri dalam sistem TUMBUH, 2026.  
 [^3]: Laporan Uji Kelaikan Pedagogis Lapangan dan Triad Pertumbuhan Simbiotik TUMBUH, 2026.  
 [^4]: Dokumentasi Evaluasi Longitudinal Transformasi Madrasah Berbasis PBIS TUMBUH, 2026.  
 [^5]: Sweller, J., et al. (2011), *Cognitive Load Theory*, hlm. 35–70.  

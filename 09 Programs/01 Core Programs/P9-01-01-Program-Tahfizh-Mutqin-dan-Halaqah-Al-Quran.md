@@ -1,5 +1,5 @@
 # P9-01-01: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN
-## *Monograf Riset Akademik: Standarisasi Metodologi Tahfizh Al-Qur'an Berbasis Tri-Siklus Klasik (Sabaq, Sabqi, Manzil), Integrasi Neurosains Retensi Memori Jangka Panjang (Spaced Repetition & Working Memory Capacity), dan Desain Halaqah Al-Qur'an Rendah Stres (Mutqin Quranic Memorization Program, Tri-Cycle Methodology, & Long-Term Memory Retention Architecture / Form PRO-TahfizhMutqin), Integrasi Doktrin 'Hifzhu al-Qur'ān ma'a al-Fahm wal Itqān' Turats Klasik dengan Ebbinghaus Spaced Retrieval, Sweller Cognitive Load Theory, Serta Penjagaan Kalamullah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Tahfizh Al-Qur'an Berbasis Tri-Siklus Klasik (Sabaq, Sabqi, Manzil), Integrasi Neurosains Retensi Memori Jangka Panjang (Spaced Repetition & Working Memory Capacity), dan Desain Halaqah Al-Qur'an Rendah Stres (Mutqin Quranic Memorization Program, Tri-Cycle Methodology, & Long-Term Memory Retention Architecture / Form PRO-TahfizhMutqin), Integrasi Doktrin 'Hifzhu al-Qur'ān ma'a al-Fahm wal Itqān' Turats Klasik dengan Ebbinghaus Spaced Retrieval, Sweller Cognitive Load Theory, Serta Penjagaan Kalamullah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-01-01/MONOGRAF-RISET-PROGRAM-TAHFIZH-MUTQIN/2026`  
 **Domain**: `09 Programs` > `01 Core Programs` (Sub-Modul 01: *Mutqin Quranic Memorization & Tri-Cycle Halaqah Architecture*)  
@@ -108,7 +108,7 @@ Penerapan metode tri-siklus *Sabaq-Sabqi-Manzil* yang diselaraskan dengan teori 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-01-01: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-01-01: PROGRAM TAHFIZH MUTQIN DAN HALAQAH AL-QUR'AN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -161,5 +161,5 @@ flowchart TD
 
 [^1]: Roediger & Butler mengenai kekuatan retrieval practice dan spaced repetition dalam konsolidasi memori jangka panjang, Roediger & Butler (2011, hlm. 22).
 [^2]: Imam An-Nawawi mengenai adab para penghafal Al-Qur'an dan pentingnya menjaga keistiqamahan muraja'ah, At-Tibyan (2014, hlm. 68).
-[^3]: Studi kasus penerapan siklus Sabaq-Sabqi-Manzil memulihkan hafalan santri yang rontok Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan siklus Sabaq-Sabqi-Manzil memulihkan hafalan santri yang rontok Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penghentian metode drill berlebih terhadap penurunan kortisol dan stabilitas retensi hafalan Al-Qur'an santri (2026).

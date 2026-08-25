@@ -1,5 +1,5 @@
 # P10-06-03: METODE SIMULASI ROLE-PLAY DAN DE-ESKALASI KONFLIK
-## *Monograf Riset Akademik: Standarisasi Metode Simulasi Bermain Peran (Experiential Role-Play Simulation), Desain Empat Tahap De-eskalasi Konflik Asrama Berbasis Psikodrama Empatis dan Komunikasi Asertif Islami (Role-Reversal Empathy, Non-Violent Communication, & Conflict De-escalation Protocol), Serta Integrasi Keterampilan Ishlah Antarsantri (Role-Play Simulation Architecture, Somatic Emotion Regulation, & Restorative Mediation / Form MET-SimulasiDeEskalasi), Integrasi Doktrin 'Ishlāhu Dzātil Bain' Turats Klasik dengan Jacob Moreno Psychodrama Theory, David & Roger Johnson Conflict Resolution in Schools, Serta Penanganan Perselisihan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Simulasi Bermain Peran (Experiential Role-Play Simulation), Desain Empat Tahap De-eskalasi Konflik Asrama Berbasis Psikodrama Empatis dan Komunikasi Asertif Islami (Role-Reversal Empathy, Non-Violent Communication, & Conflict De-escalation Protocol), Serta Integrasi Keterampilan Ishlah Antarsantri (Role-Play Simulation Architecture, Somatic Emotion Regulation, & Restorative Mediation / Form MET-SimulasiDeEskalasi), Integrasi Doktrin 'Ishlāhu Dzātil Bain' Turats Klasik dengan Jacob Moreno Psychodrama Theory, David & Roger Johnson Conflict Resolution in Schools, Serta Penanganan Perselisihan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-06-03/MONOGRAF-RISET-SIMULASI-ROLEPLAY/2026`  
 **Domain**: `10 Methods` > `06 Experiential Learning` (Sub-Modul 03: *Experiential Role-Play Simulation & Conflict De-escalation*)  
@@ -117,7 +117,7 @@ Penerapan *Metode Simulasi Role-Play dan De-eskalasi Konflik* membuktikan bahwa 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-06-03: METODE SIMULASI ROLE-PLAY DAN DE-ESKALASI KONFLIK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-06-03: METODE SIMULASI ROLE-PLAY DAN DE-ESKALASI KONFLIK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -170,5 +170,5 @@ flowchart TD
 
 [^1]: David W. Johnson & Roger T. Johnson mengenai model Peacemaker dan pengajaran keterampilan resolusi konflik terstruktur pada remaja sekolah, Johnson & Johnson (1995, hlm. 12).
 [^2]: Jacob L. Moreno mengenai teknik psikodrama dan efektivitas metode role-reversal dalam memicu katarsis serta empati interpersonal mendalam, Moreno (1953, hlm. 84).
-[^3]: Studi kasus penerapan simulasi Role-Play De-eskalasi meredakan konflik piket kamar asrama Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan simulasi Role-Play De-eskalasi meredakan konflik piket kamar asrama Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integrasi nilai ishlah dzatil bain dan komunikasi asertif terhadap penurunan insiden agresi santri (2026).

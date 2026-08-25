@@ -127,7 +127,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap proses transmisi keterampilan motorik kinestetik yang mengaplikasikan pemodelan terstruktur (*Direct Instruction I-Do/We-Do/You-Do*), meminimalkan beban kognitif ekstraneus (*Sweller's CLT*), dan menyediakan umpan balik formatif langsung niscaya menghasilkan kemahiran refleks yang presisi dan bebas cacat dalam waktu singkat.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Modul Didaktik Shahihul Ibadah TUMBUH menstrukturkan pelatihan shalat menggunakan kerangka *Direct Instruction* dan *Chunking* rukun fiqh.
-* **Konklusi (*an-Natijah*)**: Maka, pembelajaran ibadah di pesantren TUMBUH memiliki efektivitas pedagogis yang superior dan mudah dipahami santri.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, pembelajaran ibadah dalam sistem TUMBUH di pesantren memiliki efektivitas pedagogis yang superior dan mudah dipahami santri.[^8]
 
 ```mermaid
 flowchart LR
@@ -185,7 +185,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem pengasuhan asrama yang memadukan pengajaran talaqqi presisi, koreksi seketika yang beradab, pengaitan kebiasaan otomatis (*Habit Stacking*), dan keteladanan saf awal musyrif niscaya mentransformasikan ibadah santri menjadi kebutuhan hidup yang membahagiakan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Standar Operasional Pengasuhan TUMBUH mewajibkan keempat metode tersebut sebagai kompetensi pedagogis mutlak bagi seluruh musyrif dan guru asrama.
-* **Konklusi (*an-Natijah*)**: Maka, proses pembentukan karakter ibadah di pesantren TUMBUH berlangsung dengan standar pedagogis yang unggul dan penuh kemuliaan adab.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, proses pembentukan karakter ibadah dalam sistem TUMBUH di pesantren berlangsung dengan standar pedagogis yang unggul dan penuh kemuliaan adab.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Talaqqi Gerakan 1-on-1: Memastikan Keabsahan Setiap Individu
 * **Pihak A (Sudut Pandang Ujian Teori Tulis Sudah Mewakili Praktik)**:  
@@ -197,7 +197,7 @@ flowchart TD
 * **Pihak A (Sudut Pandang Menendang Kaki Santri yang Keluar dari Saf)**:  
   *"Tendang saja tumit santri yang tidak lurus dengan saf shalat agar dia cepat sadar!"*
 * **Tinjauan Etika Merapikan Saf Nabawiyyah**:  
-  Rasulullah SAW merapikan saf para sahabat dengan menyentuh pundak dan dada mereka dengan penuh kelembutan (HR. Muslim No. 432). Menendang kaki santri adalah tindakan kasar yang melahirkan kemarahan batin. Musyrif TUMBUH menggunakan **The Gentle Touch**: meletakkan telapak tangan dengan lembut di pundak santri, memberi isyarat merapatkan langkah dengan senyum teduh. Saf lurus dan hati santri terpaut damai.[^14]
+  Rasulullah SAW merapikan saf para sahabat dengan menyentuh pundak dan dada mereka dengan penuh kelembutan (HR. Muslim No. 432). Menendang kaki santri adalah tindakan kasar yang melahirkan kemarahan batin. Musyrif dalam sistem TUMBUH menggunakan **The Gentle Touch**: meletakkan telapak tangan dengan lembut di pundak santri, memberi isyarat merapatkan langkah dengan senyum teduh. Saf lurus dan hati santri terpaut damai.[^14]
 
 #### 3. Diskursus Dialektika Kritis: Habit Stacking Wirid-Tilawah: Otomatisasi 1 Juz Per Hari
 * **Pihak A (Sudut Pandang Tilawah Ditunda Sampai Liburan Akhir Pekan)**:  
@@ -289,7 +289,7 @@ flowchart TD
         subgraph Metode4["4. KETELADANAN SAF PERTAMA (LIVE QUDWAH HASANAH)"]
             M4_A["• Kehadiran Wajib Musyrif di Saf Pertama 15 Menit Sebelum Adzan Berkumandang."]
             M4_B["• Praktik Thuma'ninah Nyata & Ketenangan Khusyu' yang Memancar."]
-            M4_C["• Platform: Standar Integritas Pengasuhan Asrama Pesantren TUMBUH."]
+            M4_C["• Platform: Standar Integritas Pengasuhan Asrama Ekosistem Pesantren Berbasis TUMBUH."]
         end
         
         Metode1 <===> Metode2 <===> Metode3 <===> Metode4
@@ -340,7 +340,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-12: METODE PEDAGOGI DAN DIDAKTIK IBADAH SHAHIHAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-12: METODE PEDAGOGI DAN DIDAKTIK IBADAH SHAHIHAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -408,7 +408,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Didaktik Pengajaran Fiqh Pesantren TUMBUH, *Kritik atas Metode Ceramah Pasif dan Bentakan Kasar*, 2026.  
+[^1]: Riset Evaluasi Didaktik Pengajaran Fiqh Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Metode Ceramah Pasif dan Bentakan Kasar*, 2026.  
 [^2]: Ibnu Hajar al-Asqalani, *Fathul Bari Syarh Shahih al-Bukhari*, Jilid 2, Kitab ash-Shalah, hlm. 380–415.  
 [^3]: *Shahih al-Bukhari*, Kitab ash-Shalah, Hadits No. 917; *Shahih Muslim*, Kitab al-Masajid, Hadits No. 544.  
 [^4]: Matan *Fathul Bari*, Jilid 2, hlm. 382.  
@@ -420,7 +420,7 @@ flowchart TD
 [^10]: Sweller, J. (2011), *Cognitive Load Theory*, Springer, hlm. 70–88.  
 [^11]: Clear, J. (2018), *Atomic Habits*, hlm. 65–85; Petunjuk Teknis Habit Stacking Shalat Asrama TUMBUH, 2026.  
 [^12]: Dokumen Standar Operasional Pedagogi Pengasuhan Asrama 24 Jam TUMBUH, 2026.  
-[^13]: Standar Uji Sertifikasi Fiqh Talaqqi 1-on-1 Santri TUMBUH, 2026.  
+[^13]: Standar Uji Sertifikasi Fiqh Talaqqi 1-on-1 Santri dalam sistem TUMBUH, 2026.  
 [^14]: *Shahih Muslim*, Kitab ash-Shalah, Hadits No. 432; Pedoman The Gentle Touch Penataan Saf TUMBUH, 2026.  
 [^15]: *Shahih al-Bukhari*, Kitab ar-Riqaq, Hadits No. 6464.  
 [^16]: Dokumentasi Kasus Resolusi Etika Koreksi Pedagogis Mikrofon Masjid TUMBUH, 2026.  

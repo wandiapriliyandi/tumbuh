@@ -28,7 +28,7 @@
   - [4. Puncak Sintesis Filosofis Seluruh Domain 01 Philosophy (Worldview s/d Change)](#4-puncak-sintesis-filosofis-seluruh-domain-01-philosophy-worldview-sd-change)
   - [5. Kasuistika Lapangan: Evaluasi Multi-Tahun Keberhasilan Transformasi Ekosistem & Resolusi Restoratif](#5-kasuistika-lapangan-evaluasi-multi-tahun-keberhasilan-transformasi-ekosistem--resolusi-restoratif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Transformasi Peradaban Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-transformasi-peradaban-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Transformasi Peradaban Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-transformasi-peradaban-pesantren-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transformasi Peradaban (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-transformasi-peradaban-maratib-al-idrak)
   - [3. Jembatan Filosofis Menuju Domain 02 Principles (Desain Kurikulum & Tata Kelola)](#3-jembatan-filosofis-menuju-domain-02-principles-desain-kurikulum--tata-kelola)
   - [4. Prinsip Aksiologis & Protokol Penjaminan Keberlanjutan Transformasi Sistemik 24 Jam](#4-prinsip-aksiologis--protokol-penjaminan-keberlanjutan-transformasi-sistemik-24-jam)
@@ -114,7 +114,7 @@ Penerapan menyeluruh seluruh pilar filosofi TUMBUH di lembaga percontohan membuk
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Transformasi Peradaban Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Transformasi Peradaban Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Transformasi Peradaban Pesantren (*Al-Bayan al-Hadhariy li Nahdhatil Ma'ahid*)**:
 
@@ -212,7 +212,7 @@ Sintesis dinamika perubahan sistemik ini menegaskan arah kebangkitan peradaban I
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-06-07: SINTESIS DINAMIKA PERUBAHAN SISTEMIK DAN GRAND MANIFESTO TRANSFORMASI PERADABAN (SYNTHESIS OF CHANGE & SYSTEMIC RE-ENGINEERING)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-06-07: SINTESIS DINAMIKA PERUBAHAN SISTEMIK DAN GRAND MANIFESTO TRANSFORMASI PERADABAN (SYNTHESIS OF CHANGE & SYSTEMIC RE-ENGINEERING)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.

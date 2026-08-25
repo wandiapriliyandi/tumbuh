@@ -326,7 +326,7 @@ graph TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-05: STANDAR KOMPETENSI DAN TAKSONOMI SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-05: STANDAR KOMPETENSI DAN TAKSONOMI SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -394,7 +394,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Taksonomi Kurikulum Karakter Pesantren TUMBUH, *Kajian Keterbatasan Bloom dalam Domain Spiritual*, 2026.  
+[^1]: Riset Evaluasi Taksonomi Kurikulum Karakter Ekosistem Pesantren Berbasis TUMBUH, *Kajian Keterbatasan Bloom dalam Domain Spiritual*, 2026.  
 [^2]: Al-Jurjani, *Kitab At-Ta'rifat*, Bab al-Alif (Ta'rif al-Iman), hlm. 38–40.  
 [^3]: Matan *Kitab At-Ta'rifat*, hlm. 39.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Qawa'id al-'Aqa'id*, hlm. 110–135.  

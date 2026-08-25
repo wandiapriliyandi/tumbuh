@@ -249,12 +249,12 @@ Kritik atas oligarki dan penegakan meritokrasi syar'i ini membawa fajar kebangki
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Kritik Oligarki dan Dinasti Kepemimpinan Pesantren TUMBUH, *Kritik atas Familisme Tertutup dan Krisis Suksesi*, 2026.  
+[^1]: Riset Kritik Oligarki dan Dinasti Kepemimpinan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Familisme Tertutup dan Krisis Suksesi*, 2026.  
 [^2]: *Shahih al-Bukhari*, Kitab al-'Ilm, Hadits No. 59.  
 [^3]: Ibnu Hajar al-'Asqalani, *Fathul Bari Syarh Shahih al-Bukhari*, Jilid 1, *Syarh Kitab al-'Ilm*, hlm. 140–165.  
 [^4]: Banfield, E. C. (1958), *The Moral Basis of a Backward Society*, hlm. 85–110; Michels, R. (1911), *Political Parties*, hlm. 40–82.  
 [^5]: Tarikh Khulafaur Rasyidin, *Kisah Pembentukan Majelis Syura Enam Sahabat oleh Sayyidina Umar RA*; Riset Kepemimpinan Islam TUMBUH, 2026.  
-[^6]: Dokumentasi Mediasi dan Restrukturisasi Tata Kelola Yayasan Wakaf Pesantren TUMBUH, 2026.  
+[^6]: Dokumentasi Mediasi dan Restrukturisasi Tata Kelola Yayasan Wakaf Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^7]: Al-Mawardi, *Al-Ahkam as-Sulthaniyyah*, Bab *Ahkam al-Awqaf*, hlm. 210–245.  
 [^8]: Ibnu Taimiyyah, *As-Siyasah asy-Syar'iyyah*, hlm. 15–38.  
 [^9]: Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 60–90.  

@@ -1,5 +1,5 @@
 # P6-03-04: PROTOKOL KOREKSI DISCREPANCY KEPUTUSAN KESISWAAN DAN ASRAMA
-## *Monograf Riset Akademik: Standarisasi Protokol Rekonsiliasi Perbedaan Persepsi Penanganan Antar-Departemen dan Mediasi Keputusan Lintas Otoritas (Inter-Departmental Decision Discrepancy & Cross-Authority Reconciliation Protocol / Form PKD-Rekonsiliasi), Integrasi Doktrin 'I'tilāful Kalimah wa Raf'ut Tanāzu'' Turats Klasik dengan Inter-Rater Reliability (IRR), Delphi Consensus Mediation, Serta Harmonisasi Kebijakan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Rekonsiliasi Perbedaan Persepsi Penanganan Antar-Departemen dan Mediasi Keputusan Lintas Otoritas (Inter-Departmental Decision Discrepancy & Cross-Authority Reconciliation Protocol / Form PKD-Rekonsiliasi), Integrasi Doktrin 'I'tilāful Kalimah wa Raf'ut Tanāzu'' Turats Klasik dengan Inter-Rater Reliability (IRR), Delphi Consensus Mediation, Serta Harmonisasi Kebijakan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-03-04/MONOGRAF-RISET-DISCREPANCY-REKONSILIASI/2026`  
 **Domain**: `06 Intervention Framework` > `03 Decision Rules` (Sub-Modul 04: *Inter-Departmental Decision Discrepancy & Reconciliation Protocol*)  
@@ -207,7 +207,7 @@ Penerapan protokol rekonsiliasi Form PKD ini menghadirkan keunggulan peradaban:
 
 1. **Mewujudkan Kesatuan Komando dan Bahasa Tarbiyah (*Unified Tarbiyah Voice*)**: Seluruh unit kerja di pesantren berbicara dengan visi yang selaras dan saling menguatkan.
 2. **Menghapus Ego Sektoral dan Budaya Saling Menyalahkan Antar-Bagian (*Elimination of Turf Wars*)**: Membangun budaya ukhuwah dan kolaborasi profesional antar-staf.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi I'tilāful Kalimah dan Inter-Rater Reliability**: Mengukuhkan pesantren TUMBUH sebagai ekosistem pendidikan berasrama dengan integrasi manajemen paling solid di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi I'tilāful Kalimah dan Inter-Rater Reliability**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai ekosistem pendidikan berasrama dengan integrasi manajemen paling solid di dunia Islam.[^5]
 
 ---
 
@@ -215,7 +215,7 @@ Penerapan protokol rekonsiliasi Form PKD ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-03-04: PROTOKOL KOREKSI DISCREPANCY KEPUTUSAN KESISWAAN DAN ASRAMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-03-04: PROTOKOL KOREKSI DISCREPANCY KEPUTUSAN KESISWAAN DAN ASRAMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -282,8 +282,8 @@ flowchart TD
 [^1]: Konsep Inter-Rater Reliability dan statistik Cohen's Kappa dalam validitas kesepakatan penilai, Cohen (1960, hlm. 38) & McHugh (2012, hlm. 278).  
 [^2]: Metode konsensus Delphi dalam mediasi pengambilan keputusan para ahli, Dalkey & Helmer (1963, hlm. 460).  
 [^3]: Asy-Syathibi, *Al-I'tisham* (2002, Jilid 2, hlm. 412), bab bahaya pertentangan fatwa dan putusan dalam satu komunitas yang merusak keteladanan.  
-[^4]: Protokol rekonsiliasi discrepancy bilateral madrasah-asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol koreksi discrepancy keputusan kesiswaan dan asrama di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekonsiliasi discrepancy bilateral madrasah-asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol koreksi discrepancy keputusan kesiswaan dan asrama di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

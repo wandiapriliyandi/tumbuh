@@ -1,5 +1,5 @@
 # P8-06-03: PROTOKOL ISHLAH AL-BAIN DAN CLEAN SLATE POLICY
-## *Monograf Riset Akademik: Standarisasi Protokol Ishlah al-Bain, Kebijakan Penghapusan Catatan Hitam Pasca-Restitusi (Clean Slate Policy), dan Reintegrasi Sosial Santri Bebas Stigma (Ishlah al-Bain Reconciliation Protocol, Post-Restitution Clean Slate Policy, & Stigma-Free Social Reintegration / Form RES-CleanSlate), Integrasi Doktrin 'At-Taubatu Tajubbu Mā Qablahā wal 'Afwu 'an as-Salaf' Turats Klasik dengan Labeling Theory Becker, Social Reintegration Theory Maruna, Serta Pemuliaan Fitrah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Ishlah al-Bain, Kebijakan Penghapusan Catatan Hitam Pasca-Restitusi (Clean Slate Policy), dan Reintegrasi Sosial Santri Bebas Stigma (Ishlah al-Bain Reconciliation Protocol, Post-Restitution Clean Slate Policy, & Stigma-Free Social Reintegration / Form RES-CleanSlate), Integrasi Doktrin 'At-Taubatu Tajubbu Mā Qablahā wal 'Afwu 'an as-Salaf' Turats Klasik dengan Labeling Theory Becker, Social Reintegration Theory Maruna, Serta Pemuliaan Fitrah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-06-03/MONOGRAF-RISET-ISHLAH-CLEAN-SLATE/2026`  
 **Domain**: `08 Integrated Approaches` > `06 Restorative Practices` (Sub-Modul 03: *Ishlah al-Bain & Clean Slate Reintegration Policy*)  
@@ -83,7 +83,7 @@ Dilarang keras bagi siapapun (guru, musyrif, karyawan, maupun sesama santri) men
 yang telah selesai diselesaikan, memberi julukan buruk, atau memperlakukan santri dengan syak
 wasangka. Pelanggaran terhadap pasal ini merupakan pelanggaran etika pengasuhan serius.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Utama Pesantren,                             Kepala Tim Bimbingan Konseling,
 
 (Ust. Dr. Sholeh Abadi, M.Pd.)                      (Ust. Zulkifli, S.Psi., M.A.)
@@ -109,9 +109,9 @@ Berdasarkan hasil verifikasi Tim Terpadu Pengasuhan dan Bimbingan Konseling:
 3. Santri telah menunjukkan komitmen perbaikan adab yang konsisten selama masa pemantauan.
 
 DENGAN INI STATUS KEHORMATAN SANTRI DINYATAKAN PULIH SEPENUHNYA BEBAS DARI SEGALA STIGMA.
-Santri berhak atas seluruh hak, kemuliaan, dan kesempatan berkarya di Pesantren TUMBUH.
+Santri berhak atas seluruh hak, kemuliaan, dan kesempatan berkarya di Ekosistem Pesantren Berbasis TUMBUH.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Ketua Tim Mediasi Restoratif,                      Konselor Pembina Santri,
 
 (Ust. Luqman Hakim, S.Pd.I.)                        (Ust. Syarif Hidayatullah, S.Pd.)
@@ -128,7 +128,7 @@ Penerapan *Clean Slate Policy* yang dilandasi teologi taubat dan teori desistanc
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-06-03: PROTOKOL ISHLAH AL-BAIN DAN CLEAN SLATE POLICY** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-06-03: PROTOKOL ISHLAH AL-BAIN DAN CLEAN SLATE POLICY** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -181,5 +181,5 @@ flowchart TD
 
 [^1]: Howard Becker mengenai Labeling Theory dan bagaimana proses pelabelan menciptakan karir penyimpangan sekunder, Becker (1963, hlm. 9).
 [^2]: Shadd Maruna mengenai mekanisme desistance dan peran penting naskah penebusan (redemption scripts) dalam transformasi identitas, Maruna (2001, hlm. 37).
-[^3]: Studi kasus penerapan Welcoming Circle dan Clean Slate Policy memulihkan santri dari stigma Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Welcoming Circle dan Clean Slate Policy memulihkan santri dari stigma Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penghapusan stigma permanen terhadap penurunan drastis angka residivisme kenakalan remaja di asrama (2026).

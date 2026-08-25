@@ -1,5 +1,5 @@
 # P5-06-05: MODEL TARGETING AMAL DAN GOAL-SETTING MANDIRI
-## *Monograf Riset Akademik: Metodologi Penetapan Target Pertumbuhan Karakter Mandiri Santri (Student-Led Character Goal Setting Framework / Form TAM-Goal), Integrasi Doktrin 'Al-Himmah al-'Aliyyah wa Shidqul 'Azimah' Turats Klasik dengan Locke & Latham's Goal-Setting Theory, SMART-FAST Goals, & Implementation Intentions (WOOP Model), Serta Kontrak Amal Semester di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Penetapan Target Pertumbuhan Karakter Mandiri Santri (Student-Led Character Goal Setting Framework / Form TAM-Goal), Integrasi Doktrin 'Al-Himmah al-'Aliyyah wa Shidqul 'Azimah' Turats Klasik dengan Locke & Latham's Goal-Setting Theory, SMART-FAST Goals, & Implementation Intentions (WOOP Model), Serta Kontrak Amal Semester di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-06-05/MONOGRAF-RISET-MODEL-TARGETING-AMAL-MANDIRI/2026`  
 **Domain**: `05 Assessment Framework` > `06 Self Assessment` (Sub-Modul 05: *Self-Determined Character Goal Setting & Action Planning*)  
@@ -213,7 +213,7 @@ Penerapan model targeting amal mandiri Form TAM-Goal ini menghadirkan keunggulan
 
 1. **Membentuk Pribadi Pembelajar yang Berorientasi Tindakan Nyata (*Action-Oriented Visionary*)**: Santri tidak sekadar pandai bermimpi, melainkan mahir mengeksekusi rencana aksi yang taktis dan terukur.
 2. **Menumbuhkan Daya Tahan Mental Menghadapi Godaan Nafsu (*Grit & Self-Control*)**: Strategi *If-Then* mengotomatisasi respons kebaikan santri saat menghadapi situasi sulit.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sains Motivasi dan Iman**: Mengukuhkan pesantren TUMBUH sebagai inkubator kader pemimpin umat yang tangguh dan visioner.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sains Motivasi dan Iman**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai inkubator kader pemimpin umat yang tangguh dan visioner.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan model targeting amal mandiri Form TAM-Goal ini menghadirkan keunggulan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-06-05: MODEL TARGETING AMAL DAN GOAL-SETTING MANDIRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-06-05: MODEL TARGETING AMAL DAN GOAL-SETTING MANDIRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -289,8 +289,8 @@ flowchart TD
 [^1]: Penelitian efektivitas Goal-Setting Theory dalam meningkatkan motivasi dan performa pembelajar, Locke & Latham (2002, hlm. 708).  
 [^2]: Model Mental Contrasting dan Implementation Intentions (WOOP) dalam eksekusi tujuan nyata, Oettingen (2014, hlm. 34).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Al-Fawa'id* (2008, hlm. 142), bab keluhuran cita-cita (Uluwwul Himmah) dan kejujuran tekad amal.  
-[^4]: Protokol penetapan target amal WOOP dan keberhasilan pencapaian milestone tahfizh santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model targeting amal mandiri di Pesantren TUMBUH (2026).  
+[^4]: Protokol penetapan target amal WOOP dan keberhasilan pencapaian milestone tahfizh santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model targeting amal mandiri di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

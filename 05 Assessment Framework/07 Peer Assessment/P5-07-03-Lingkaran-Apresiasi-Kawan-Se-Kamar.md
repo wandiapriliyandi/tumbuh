@@ -1,5 +1,5 @@
 # P5-07-03: LINGKARAN APRESIASI KAWAN SE-KAMAR (FORM LAK-KAMAR)
-## *Monograf Riset Akademik: Protokol Fasilitasi Halaqah Apresiasi Mingguan Kamar Asrama (Weekly Room Affirmation Circle Protocol / Form LAK-Kamar), Integrasi Doktrin 'Tahāddū Tahābbū wa Ifsyā'us Salām' Turats Klasik dengan Restorative Circles (Costello-Wachtel) & Prosocial Peer Reinforcement, Serta Ritual Pengikatan Ikatan Kasih Sayang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Fasilitasi Halaqah Apresiasi Mingguan Kamar Asrama (Weekly Room Affirmation Circle Protocol / Form LAK-Kamar), Integrasi Doktrin 'Tahāddū Tahābbū wa Ifsyā'us Salām' Turats Klasik dengan Restorative Circles (Costello-Wachtel) & Prosocial Peer Reinforcement, Serta Ritual Pengikatan Ikatan Kasih Sayang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-07-03/MONOGRAF-RISET-LINGKARAN-APRESIASI-KAMAR/2026`  
 **Domain**: `05 Assessment Framework` > `07 Peer Assessment` (Sub-Modul 03: *Weekly Room Affirmation Circle Protocol*)  
@@ -216,7 +216,7 @@ Penerapan protokol lingkaran apresiasi Form LAK-Kamar ini menghadirkan keunggula
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-07-03: LINGKARAN APRESIASI KAWAN SE-KAMAR (FORM LAK-KAMAR)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-07-03: LINGKARAN APRESIASI KAWAN SE-KAMAR (FORM LAK-KAMAR)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -284,8 +284,8 @@ flowchart TD
 [^1]: Penelitian Costello, Wachtel, & Wachtel mengenai efektivitas Restorative Circles dalam membangun kohesi komunitas sekolah, Costello et al. (2010, hlm. 28).  
 [^2]: Kerangka kerja Psychological Safety dalam membangun rasa aman dan keterbukaan kelompok, Edmondson (1999, hlm. 354).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 176), bab hak-hak persaudaraan dalam menampakkan kecintaan dan apresiasi tulus.  
-[^4]: Protokol fasilitasi lingkaran apresiasi kamar dan pencairan friksi sosial santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan lingkaran apresiasi kawan se-kamar di Pesantren TUMBUH (2026).  
+[^4]: Protokol fasilitasi lingkaran apresiasi kamar dan pencairan friksi sosial santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan lingkaran apresiasi kawan se-kamar di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

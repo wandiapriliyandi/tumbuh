@@ -1,5 +1,5 @@
 # P11-01-02: INSTRUMEN SELF-ASSESSMENT FITRAH DAN TAZKIYAH
-## *Monograf Riset Akademik: Standarisasi Instrumen Evaluasi Diri Fitrah dan Tazkiyatun Nafs (Metacognitive Self-Assessment & Spiritual Introspection Instrument), Desain Skala Likert Reflektif Lima Tingkat Berbasis Tiga Dimensi Jiwa dan Kejujuran Batin (Nafs Ammarah, Lawwamah, Mutma'innah, & Self-Correction Engine), Serta Pembiasaan Muhasabah Mandiri Santri (Self-Assessment Form, Intrinsic Motivation SDT, & Muhasabah / Form TOOL-SelfTazkiyah), Integrasi Doktrin 'Hāsibū Anfusakum Qabla An Tuhāsabū' Turats Klasik dengan Zimmerman Self-Regulated Learning, Ryan & Deci Self-Determination Theory, Serta Bimbingan Rohani di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Instrumen Evaluasi Diri Fitrah dan Tazkiyatun Nafs (Metacognitive Self-Assessment & Spiritual Introspection Instrument), Desain Skala Likert Reflektif Lima Tingkat Berbasis Tiga Dimensi Jiwa dan Kejujuran Batin (Nafs Ammarah, Lawwamah, Mutma'innah, & Self-Correction Engine), Serta Pembiasaan Muhasabah Mandiri Santri (Self-Assessment Form, Intrinsic Motivation SDT, & Muhasabah / Form TOOL-SelfTazkiyah), Integrasi Doktrin 'Hāsibū Anfusakum Qabla An Tuhāsabū' Turats Klasik dengan Zimmerman Self-Regulated Learning, Ryan & Deci Self-Determination Theory, Serta Bimbingan Rohani di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-01-02/MONOGRAF-RISET-SELF-ASSESSMENT-TAZKIYAH/2026`  
 **Domain**: `11 Tools` > `01 Assessment Tools` (Sub-Modul 02: *Metacognitive Self-Assessment & Tazkiyah Psychometrics*)  
@@ -114,7 +114,7 @@ Penerapan *Instrumen Self-Assessment Fitrah dan Tazkiyah* menggeser paradigma ke
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-01-02: INSTRUMEN SELF-ASSESSMENT FITRAH DAN TAZKIYAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-01-02: INSTRUMEN SELF-ASSESSMENT FITRAH DAN TAZKIYAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -167,5 +167,5 @@ flowchart TD
 
 [^1]: Barry J. Zimmerman mengenai peran krusial instrumen self-reflection dan self-assessment dalam menguatkan kemampuan self-regulation, Zimmerman (2002, hlm. 66).
 [^2]: Richard M. Ryan & Edward L. Deci mengenai proses internalisasi motivasi ekstrinsik menjadi regulasi otonom melalui self-determination, Ryan & Deci (2000, hlm. 72).
-[^3]: Studi kasus penerapan instrumen self-assessment tazkiyah menumbuhkan kejujuran dan disiplin batin santri di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen self-assessment tazkiyah menumbuhkan kejujuran dan disiplin batin santri di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengintegrasian doktrin muhasabah Al-Muhasibi dengan asesmen metakognitif modern terhadap eliminasi nifaq amali santri (2026).

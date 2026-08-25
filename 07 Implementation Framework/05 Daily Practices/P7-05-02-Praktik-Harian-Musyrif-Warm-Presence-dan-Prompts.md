@@ -1,5 +1,5 @@
 # P7-05-02: PRAKTIK HARIAN MUSYRIF: WARM PRESENCE DAN PROMPTS
-## *Monograf Riset Akademik: Standarisasi Praktik Interaksi Afektif Harian Musyrif, Teknik Warm Presence 14 Kontak Positif, dan Kalimat Pemantik Perkembangan Santri (Daily Warm Presence Interactions, 14-Contact Protocol, & Developmental Prompts / Form PWM-Musyrif), Integrasi Doktrin 'Al-Qudwah bil Mahabbah wal Lisān al-Hāl' Turats Klasik dengan Gottman Magic Ratio 5:1, Motivational Interviewing, Serta Pembangunan Relasi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Praktik Interaksi Afektif Harian Musyrif, Teknik Warm Presence 14 Kontak Positif, dan Kalimat Pemantik Perkembangan Santri (Daily Warm Presence Interactions, 14-Contact Protocol, & Developmental Prompts / Form PWM-Musyrif), Integrasi Doktrin 'Al-Qudwah bil Mahabbah wal Lisān al-Hāl' Turats Klasik dengan Gottman Magic Ratio 5:1, Motivational Interviewing, Serta Pembangunan Relasi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-05-02/MONOGRAF-RISET-WARM-PRESENCE-MUSYRIF/2026`  
 **Domain**: `07 Implementation Framework` > `05 Daily Practices` (Sub-Modul 02: *Daily Warm Presence Protocol & Musyrif Developmental Prompts*)  
@@ -92,7 +92,7 @@ Musyrif yang secara konsisten menerapkan 14-Contact Protocol mengalami transform
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-05-02: PRAKTIK HARIAN MUSYRIF: WARM PRESENCE DAN PROMPTS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-05-02: PRAKTIK HARIAN MUSYRIF: WARM PRESENCE DAN PROMPTS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -146,5 +146,5 @@ flowchart TD
 
 [^1]: Gottman Magic Ratio dalam konteks relasi pendidik-murid yang sehat, Gottman & Silver (1999, hlm. 29).
 [^2]: Teknik Motivational Interviewing dalam membangun relasi terapeutik berbasis kepercayaan, Miller & Rollnick (2012, hlm. 47).
-[^3]: Studi kasus 14-Contact Protocol membalikkan stigma santri "nakal" Pesantren TUMBUH (2026).
+[^3]: Studi kasus 14-Contact Protocol membalikkan stigma santri "nakal" Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak warm presence musyrif terhadap secure attachment dan resiliensi santri (2026).

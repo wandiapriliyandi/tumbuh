@@ -1,5 +1,5 @@
 # P7-02-02: PEMBAGIAN TUGAS 4 WAKAMAD DAN STAF PELAKSANA
-## *Monograf Riset Akademik: Standarisasi Rincian Tugas 4 Wakil Kepala Madrasah/Pengasuhan, Integrasi Wewenang Kurikulum, Kesiswaan, Sarpras, dan Humas 24 Jam (Task Allocation of 4 Vice Principals, Integrated Job Descriptions, & Operational Staff Execution / Form PTW-Wakamad), Integrasi Doktrin 'Tafsīlul A'māl wa Tauzī'ul Mahāmm' Turats Klasik dengan Fayol's Administrative Principles, Job Characteristics Model (Hackman & Oldham), Serta Akuntabilitas di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rincian Tugas 4 Wakil Kepala Madrasah/Pengasuhan, Integrasi Wewenang Kurikulum, Kesiswaan, Sarpras, dan Humas 24 Jam (Task Allocation of 4 Vice Principals, Integrated Job Descriptions, & Operational Staff Execution / Form PTW-Wakamad), Integrasi Doktrin 'Tafsīlul A'māl wa Tauzī'ul Mahāmm' Turats Klasik dengan Fayol's Administrative Principles, Job Characteristics Model (Hackman & Oldham), Serta Akuntabilitas di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-02-02/MONOGRAF-RISET-PEMBAGIAN-TUGAS-WAKAMAD/2026`  
 **Domain**: `07 Implementation Framework` > `02 Organizational Structure` (Sub-Modul 02: *Task Allocation of 4 Vice Principals & Operational Staff Execution*)  
@@ -213,7 +213,7 @@ Penerapan rincian tugas 4 Wakamad Form PTW ini menghadirkan keunggulan peradaban
 
 1. **Melenyapkan Kelesuan Birokrasi dan Kelalaian Perawatan Asrama (*Zero Administrative Inertia*)**: Memastikan setiap masalah santri dan sarana tertangani dalam hitungan jam.
 2. **Menyatukan Visi Kurikulum Formal dan Tarbiyah Ruhaniyah (*Holistic Educational Cohesion*)**: Menjadikan madrasah dan asrama sebagai dua sayap yang terbang seirama menuju cita-cita mulia.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tauzī'ul Mahāmm dan Fayol's Administrative Principles**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan efisiensi operasional paling unggul di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Tauzī'ul Mahāmm dan Fayol's Administrative Principles**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan efisiensi operasional paling unggul di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan rincian tugas 4 Wakamad Form PTW ini menghadirkan keunggulan peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-02-02: PEMBAGIAN TUGAS 4 WAKAMAD DAN STAF PELAKSANA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-02-02: PEMBAGIAN TUGAS 4 WAKAMAD DAN STAF PELAKSANA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -289,8 +289,8 @@ flowchart TD
 [^1]: Prinsip-prinsip manajemen administratif Henri Fayol mengenai Division of Work dan Unity of Direction, Fayol (1949, hlm. 20).  
 [^2]: Job Characteristics Model J. Richard Hackman dan Greg R. Oldham dalam desain pekerjaan dan motivasi kinerja profesional, Hackman & Oldham (1976, hlm. 256 & 1980, hlm. 78).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 48), bab pendelegasian wewenang tugas kepada para pembantu pemimpin dan larangan kekaburan tugas.  
-[^4]: Protokol pembagian tugas 4 Wakamad dan resolusi darurat sanitasi asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan pembagian tugas 4 Wakamad dan staf pelaksana di Pesantren TUMBUH (2026).  
+[^4]: Protokol pembagian tugas 4 Wakamad dan resolusi darurat sanitasi asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan pembagian tugas 4 Wakamad dan staf pelaksana di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

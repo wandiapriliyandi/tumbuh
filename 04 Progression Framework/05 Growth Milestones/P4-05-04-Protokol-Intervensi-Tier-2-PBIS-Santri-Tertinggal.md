@@ -1,5 +1,5 @@
 # P4-05-04: PROTOKOL INTERVENSI TIER 2 PBIS BAGI SANTRI TERTINGGAL
-## *Monograf Riset Akademik: Protokol Intervensi Kelompok Terarah Multi-Tier PBIS (Tier 2 Targeted Group Intervention) Bagi Santri dengan Keterlambatan Pencapaian Milestone & Hambatan Kenaikan Tangga Jenjang, Integrasi Doktrin Nashihah bil Hikmah Turats dengan Functional Behavior Assessment (FBA) & Behavior Education Program (BEP), Serta Desain Standardized CICO Toolkit di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Intervensi Kelompok Terarah Multi-Tier PBIS (Tier 2 Targeted Group Intervention) Bagi Santri dengan Keterlambatan Pencapaian Milestone & Hambatan Kenaikan Tangga Jenjang, Integrasi Doktrin Nashihah bil Hikmah Turats dengan Functional Behavior Assessment (FBA) & Behavior Education Program (BEP), Serta Desain Standardized CICO Toolkit di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-05-04/MONOGRAF-RISET-INTERVENSI-TIER2-PBIS-SANTRI-TERTINGGAL/2026`  
 **Domain**: `04 Progression Framework` > `05 Growth Milestones` (Sub-Modul 04: *Tier 2 PBIS Targeted Intervention Protocol*)  
@@ -299,7 +299,7 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan penanganan perilaku berbasis hukuman dan public shaming di sekolah berasrama, Sugai & Horner (2020, hlm. 208).  
 [^2]: Kerangka kerja Behavior Education Program dan sistem Check-In/Check-Out (CICO), Crone, Hawken, & Horner (2010, hlm. 36).  
 [^3]: Diwan Al-Imam Asy-Syafi'i (1988, hlm. 68), bait syair tentang adab menasihati secara rahasia.  
-[^4]: Protokol penanganan keterlambatan belajar nahwu berbasis FBA dan bimbingan CICO santri TUMBUH (2026).  
+[^4]: Protokol penanganan keterlambatan belajar nahwu berbasis FBA dan bimbingan CICO santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan protokol intervensi Tier 2 PBIS santri tertinggal TUMBUH Pesantren (2026).  
 
 ---

@@ -28,8 +28,8 @@
   - [4. Rekayasa Mitigasi Fenomena Kemunduran Adab Masa Liburan (Vacation Regression) & Etika Komunikasi Daring](#4-rekayasa-mitigasi-fenomena-kemunduran-adab-masa-liburan-vacation-regression--etika-komunikasi-daring)
   - [5. Kasuistika Lapangan: Resolusi Konflik Orang Tua di Grup Pesan Digital Melalui Dialog Tabayyun Khidmat](#5-kasuistika-lapangan-resolusi-konflik-orang-tua-di-grup-pesan-digital-melalui-dialog-tabayyun-khidmat)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Sinergi Tripartit Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-sinergi-tripartit-pesantren-tumbuh)
-  - [2. Matriks Enam Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH](#2-matriks-enam-tipe-keterlibatan-keluarga-joyce-epstein-versi-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Sinergi Tripartit Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-sinergi-tripartit-pesantren-tumbuh)
+  - [2. Matriks Enam Tipe Keterlibatan Keluarga Joyce Epstein Versi Ekosistem Pesantren Berbasis TUMBUH](#2-matriks-enam-tipe-keterlibatan-keluarga-joyce-epstein-versi-pesantren-tumbuh)
   - [3. Piagam Perjanjian Sinergi Kemitraan Orang Tua - Pondok (Parent-School Partnership Pact)](#3-piagam-perjanjian-sinergi-kemitraan-orang-tua---pondok-parent-school-partnership-pact)
   - [4. Standar Prosedur Operasional (SOP) Penanganan Komunikasi & Keluhan Wali Santri](#4-standar-prosedur-operasional-sop-penanganan-komunikasi--keluhan-wali-santri)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
@@ -115,7 +115,7 @@ TUMBUH memberlakukan sistem penjaminan kesinambungan:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Sinergi Tripartit Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Sinergi Tripartit Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan kemitraan keluarga ke dalam **Arsitektur Tiga Sayap Sinergi Tripartit (*Arkan at-Takamul at-Tsalatsi*)**:
 
@@ -140,7 +140,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Enam Tipe Keterlibatan Keluarga Joyce Epstein Versi Pesantren TUMBUH
+### 2. Matriks Enam Tipe Keterlibatan Keluarga Joyce Epstein Versi Ekosistem Pesantren Berbasis TUMBUH
 
 | Tipe Kemitraan | Manifestasi Program Nyata di Pesantren | Frekuensi & Instrumen Pelaksanaan |
 | :--- | :--- | :--- |
@@ -209,7 +209,7 @@ Prinsip sinergi tripartit ini membawa implikasi agung bagi peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07-03: PRINSIP SINERGI TRIPARTIT PONDOK, SANTRI, DAN WALI (TRIPARTITE EDUCATIONAL PARTNERSHIP)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07-03: PRINSIP SINERGI TRIPARTIT PONDOK, SANTRI, DAN WALI (TRIPARTITE EDUCATIONAL PARTNERSHIP)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -283,7 +283,7 @@ flowchart TD
 [^4]: Epstein, J. L. (2018), *School, Family, and Community Partnerships*; Bronfenbrenner, U. (1979).  
 [^5]: Master Blueprint Mitigasi Vacation Regression dan Etika Komunikasi Daring TUMBUH, 2026.  
 [^6]: Dokumentasi Penanganan Tabayyun Khidmat Komunikasi Wali Santri PBIS TUMBUH, 2026.  
-[^7]: Master Blueprint Adaptasi 6 Tipologi Epstein di Lingkungan Pesantren TUMBUH, 2026.  
+[^7]: Master Blueprint Adaptasi 6 Tipologi Epstein di Lingkungan Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Template Baku Piagam Komitmen Adab Liburan Rumah-Pondok TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Layanan Komunikasi Satu Pintu dan Penanganan Keluhan Wali TUMBUH, 2026.  
 [^10]: Deklarasi Pemuliaan Sinergi Pendidikan Keluarga Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.

@@ -1,5 +1,5 @@
 # P11-02-03: FORM PENCATATAN INCIDENT REPORT A-B-C DATA
-## *Monograf Riset Akademik: Instrumen Standar Pencatatan Laporan Insiden Berbasis Kontingensi Tiga Istilah A-B-C (Standardized Functional Behavioral Incident Reporting Form: Antecedent-Behavior-Consequence Tracking), Arsitektur Analisis Pemicu Lingkungan, Topografi Perilaku Objektif, dan Respon Konsekuensi Langsung (Functional Behavior Assessment, Tabayyun Framework, & Form TOOL-IncidentABC), Integrasi Doktrin 'At-Tabayyun wal-'Adl' Turats Klasik dengan Skinnerian Operant Contingency, Serta Protokol Pengambilan Keputusan PBIS Tier 2 & Tier 3 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Instrumen Standar Pencatatan Laporan Insiden Berbasis Kontingensi Tiga Istilah A-B-C (Standardized Functional Behavioral Incident Reporting Form: Antecedent-Behavior-Consequence Tracking), Arsitektur Analisis Pemicu Lingkungan, Topografi Perilaku Objektif, dan Respon Konsekuensi Langsung (Functional Behavior Assessment, Tabayyun Framework, & Form TOOL-IncidentABC), Integrasi Doktrin 'At-Tabayyun wal-'Adl' Turats Klasik dengan Skinnerian Operant Contingency, Serta Protokol Pengambilan Keputusan PBIS Tier 2 & Tier 3 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-02-03/MONOGRAF-RISET-INCIDENT-REPORT-ABC/2026`  
 **Domain**: `11 Tools` > `02 Observation Tools` (Sub-Modul 03: *Functional Incident Report & ABC Data Logging Tools*)  
@@ -148,7 +148,7 @@ Formulir *Incident Report A-B-C* memadukan prinsip teologis *At-Tabayyun* dengan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-02-03: FORM PENCATATAN INCIDENT REPORT A-B-C DATA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-02-03: FORM PENCATATAN INCIDENT REPORT A-B-C DATA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -201,6 +201,6 @@ flowchart TD
 
 [^1]: B.F. Skinner dan Sidney W. Bijou mengenai pentingnya analisis kontingensi perilaku empiris dan bahaya pelabelan subjektif tanpa data topografis, Skinner (1953, hlm. 64); Bijou et al. (1968, hlm. 176).
 [^2]: Robert H. Horner et al. mengenai efektivitas functional behavior assessment dan data ABC dalam menurunkan insiden perilaku berat, Horner et al. (2005, hlm. 362).
-[^3]: Kasus de-eskalasi dan resolusi insiden antrean kamar mandi menggunakan instrumen A-B-C Data Logging di Pesantren TUMBUH (2026).
+[^3]: Kasus de-eskalasi dan resolusi insiden antrean kamar mandi menggunakan instrumen A-B-C Data Logging di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Protokol integrasi formulir A-B-C ke dashboard analitik PBIS untuk pemetaan titik rawan asrama (2026).
 [^5]: Implikasi teologis dan pedagogis penggunaan instrumen tabayyun A-B-C dalam penegakan disiplin restoratif pesantren (2026).

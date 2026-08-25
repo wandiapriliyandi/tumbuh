@@ -1,4 +1,4 @@
-# P10-00: Methods Induk (Kerangka Kerja Metodologi Pedagogi Pesantren TUMBUH)
+# P10-00: Methods Induk (Kerangka Kerja Metodologi Pedagogi Ekosistem Pesantren Berbasis TUMBUH)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Induk Baku)**

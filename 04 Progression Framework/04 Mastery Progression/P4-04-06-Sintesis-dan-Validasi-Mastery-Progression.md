@@ -1,5 +1,5 @@
 # P4-04-06: SINTESIS DAN VALIDASI PENGUASAAN ADAB SERTA KEPEMIMPINAN QUDWAH
-## *Monograf Riset Akademik: Meta-Validasi Konstruk Penguasaan Adab (Adab Thalabul Ilmi) & Kepemimpinan Pelayan (Servant Leadership) Santri, Pengujian Reliabilitas Inter-Rater (Intraclass Correlation Coefficient / ICC >= 0.88) & Indeks Validitas Aiken's V (V >= 0.93), Integrasi Hermeneutika Syar'i dengan Standar Psikometri Internasional (AERA/APA/NCME), Serta Rekomendasi Standard Operating Procedure (SOP) Manajemen Pengasuhan Asrama 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Meta-Validasi Konstruk Penguasaan Adab (Adab Thalabul Ilmi) & Kepemimpinan Pelayan (Servant Leadership) Santri, Pengujian Reliabilitas Inter-Rater (Intraclass Correlation Coefficient / ICC >= 0.88) & Indeks Validitas Aiken's V (V >= 0.93), Integrasi Hermeneutika Syar'i dengan Standar Psikometri Internasional (AERA/APA/NCME), Serta Rekomendasi Standard Operating Procedure (SOP) Manajemen Pengasuhan Asrama 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-04-06/MONOGRAF-RISET-SINTESIS-VALIDASI-MASTERY-PROGRESSION/2026`  
 **Domain**: `04 Progression Framework` > `04 Mastery Progression` (Sub-Modul 06: *Mastery Progression Synthesis & Psychometric Validation*)  
@@ -277,7 +277,7 @@ flowchart TD
 [^1]: Standar pelaporan keandalan antar-penilai (Inter-Rater Reliability) menggunakan Intraclass Correlation Coefficient (ICC), Koo & Li (2016, hlm. 156).  
 [^2]: Pembahasan validitas konstruk dan pengujian invariansi pengukuran pada evaluasi perilaku moral, Brown (2015, hlm. 94).  
 [^3]: Asy-Syathibi, *Al-Muwafaqat fi Ushulisy Syari'ah* (1997, Jilid 2, hlm. 218).  
-[^4]: Protokol pelatihan kalibrasi penilai (Frame-of-Reference Training) dan standarisasi evaluasi musyrif TUMBUH (2026).  
+[^4]: Protokol pelatihan kalibrasi penilai (Frame-of-Reference Training) dan standarisasi evaluasi musyrif dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan meta-validasi penguasaan adab dan kepemimpinan qudwah TUMBUH Pesantren (2026).  
 
 ---

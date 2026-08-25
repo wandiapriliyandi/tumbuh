@@ -241,7 +241,7 @@ Penerapan lintasan perkembangan berbasis *Marahil al-'Umr* dan neurosains ini me
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Lintasan Perkembangan dan Periodisasi Usia Santri TUMBUH, *Kritik atas Adultomorfisme Pengasuhan*, 2026.  
+[^1]: Riset Lintasan Perkembangan dan Periodisasi Usia Santri dalam sistem TUMBUH, *Kritik atas Adultomorfisme Pengasuhan*, 2026.  
 [^2]: QS. An-Nur [24]: 59; QS. Al-Ahqaf [46]: 15; Ibnu Qayyim, *Tuhfat al-Maudud*, hlm. 140–175.  
 [^3]: Erikson, E. H. (1968), *Identity: Youth and Crisis*, hlm. 120–165.  
 [^4]: Steinberg, L. (2014), *Age of Opportunity*, hlm. 55–92; Casey, B. J., et al. (2008), *Developmental Review*, hlm. 62–77.  

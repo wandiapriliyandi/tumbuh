@@ -1,5 +1,5 @@
 # P6-06-04: PROTOKOL KADERISASI PEER MENTORING DAN QUDWAH SANTRI
-## *Monograf Riset Akademik: Standarisasi Kaderisasi Kepemimpinan Santri Senior, Pelatihan Pendamping Sebaya Tanpa Feodalisme, dan Pembudayaan Keteladanan Berkelanjutan (Peer Mentoring Protocols, Cadre Leadership Development, & Qudwah Hasanah Cultivation / Form PKP-Mentoring), Integrasi Doktrin 'Al-Qudwah al-Hasanah wal Imāmah fid Dīn' Turats Klasik dengan Topping's Peer Tutoring & Mentoring Framework, Servant Leadership, Serta Kaderisasi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Kaderisasi Kepemimpinan Santri Senior, Pelatihan Pendamping Sebaya Tanpa Feodalisme, dan Pembudayaan Keteladanan Berkelanjutan (Peer Mentoring Protocols, Cadre Leadership Development, & Qudwah Hasanah Cultivation / Form PKP-Mentoring), Integrasi Doktrin 'Al-Qudwah al-Hasanah wal Imāmah fid Dīn' Turats Klasik dengan Topping's Peer Tutoring & Mentoring Framework, Servant Leadership, Serta Kaderisasi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-06-04/MONOGRAF-RISET-PEER-MENTORING-QUDWAH/2026`  
 **Domain**: `06 Intervention Framework` > `06 Developmental Strategies` (Sub-Modul 04: *Peer Mentoring Protocols & Qudwah Hasanah Cultivation*)  
@@ -214,7 +214,7 @@ Penerapan protokol peer mentoring Form PKP ini menghadirkan keunggulan peradaban
 
 1. **Memutus Mata Rantai Kekerasan Senioritas Selamanya (*Total Hazing Eradication*)**: Pesantren bebas total dari budaya penindasan junior oleh senior.
 2. **Mencetak Pemimpin Masa Depan Berkarakter Servant Leader (*Future Servant Leaders*)**: Santri senior terlatih memimpin dengan melayani, mendengarkan, dan menginspirasi.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sayyidul Qaumi Khādimuhum dan Peer Mentoring Framework**: Mengukuhkan pesantren TUMBUH sebagai institusi kaderisasi kepemimpinan Islam paling beradab di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sayyidul Qaumi Khādimuhum dan Peer Mentoring Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi kaderisasi kepemimpinan Islam paling beradab di dunia.[^5]
 
 ---
 
@@ -222,7 +222,7 @@ Penerapan protokol peer mentoring Form PKP ini menghadirkan keunggulan peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-06-04: PROTOKOL KADERISASI PEER MENTORING DAN QUDWAH SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-06-04: PROTOKOL KADERISASI PEER MENTORING DAN QUDWAH SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Kerangka kerja Peer Mentoring dan Peer Tutoring Keith Topping dalam pendidikan, Topping (1996, hlm. 324 & 2005, hlm. 633).  
 [^2]: Teori Servant Leadership Robert Greenleaf mengenai esensi kepemimpinan yang melayani pertumbuhan anggota, Greenleaf (2002, hlm. 28) & Northouse (2021, hlm. 228).  
 [^3]: Al-Mawardi, *Adabud Dunya wad Din* (1987, hlm. 146), bab etika kepemimpinan santri senior dan larangan berbuat sewenang-wenang terhadap adik kelas.  
-[^4]: Protokol kaderisasi Duta Qudwah dan eliminasi perpeloncoan organisasi santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol kaderisasi peer mentoring dan qudwah santri di Pesantren TUMBUH (2026).  
+[^4]: Protokol kaderisasi Duta Qudwah dan eliminasi perpeloncoan organisasi santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol kaderisasi peer mentoring dan qudwah santri di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

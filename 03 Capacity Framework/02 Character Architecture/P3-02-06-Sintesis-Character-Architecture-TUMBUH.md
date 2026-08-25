@@ -1,5 +1,5 @@
 # P3-02-06: SINTESIS CHARACTER ARCHITECTURE DAN GRAND MODEL TAKSONOMI KARAKTER
-## *Monograf Riset Akademik: Sintesis Holistik 5 Pilar Arsitektur Karakter (3 Pilar Kluster, Gradasi 4 Level Jenjang J1–J4, Penyelarasan Taksonomi Bloom/Turats, Rubrik BARS Teramati, & Psikometri Aiken-Kappa), Grand Model Arsitektur Karakter Pesantren TUMBUH, serta Jembatan Konseptual Menuju Sub-Domain 03 Character Relationships*
+## *Monograf Riset Akademik: Sintesis Holistik 5 Pilar Arsitektur Karakter (3 Pilar Kluster, Gradasi 4 Level Jenjang J1–J4, Penyelarasan Taksonomi Bloom/Turats, Rubrik BARS Teramati, & Psikometri Aiken-Kappa), Grand Model Arsitektur Karakter Ekosistem Pesantren Berbasis TUMBUH, serta Jembatan Konseptual Menuju Sub-Domain 03 Character Relationships*
 
 **Nomor Identifikasi**: `P3-02-06/MONOGRAF-SINTESIS-CHARACTER-ARCHITECTURE/2026`  
 **Domain**: `03 Capacity Framework` > `02 Character Architecture`  
@@ -20,12 +20,12 @@
 ## 📑 DAFTAR ISI MONOGRAF
 
 - [BAGIAN I: LANDASAN TEORETIS & DISKURSUS DIALEKTIKA KRITIS](#bagian-i-landasan-teoretis--diskursus-dialektika-kritis)
-  - [1. Arsitektur Sintesis Holistik: Struktur Master Karakter Pesantren TUMBUH](#1-arsitektur-sintesis-holistik-struktur-master-karakter-pesantren-tumbuh)
+  - [1. Arsitektur Sintesis Holistik: Struktur Master Karakter Ekosistem Pesantren Berbasis TUMBUH](#1-arsitektur-sintesis-holistik-struktur-master-karakter-pesantren-tumbuh)
   - [2. Grand Model Penyelarasan Taksonomi, Gradasi Level, & Validasi Psikometri](#2-grand-model-penyelarasan-taksonomi-gradasi-level--validasi-psikometri)
   - [3. Perwujudan Triad Pertumbuhan Simbiotik dalam Arsitektur Karakter](#3-perwujudan-triad-pertumbuhan-simbiotik-dalam-arsitektur-karakter)
   - [4. Jembatan Konseptual Menuju Sub-Domain 03 Character Relationships](#4-jembatan-konseptual-menuju-sub-domain-03-character-relationships)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Grand Architecture Taksonomi Karakter Pesantren TUMBUH](#1-formulasi-konseptual-grand-architecture-taksonomi-karakter-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Grand Architecture Taksonomi Karakter Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-grand-architecture-taksonomi-karakter-pesantren-tumbuh)
   - [2. Matriks Grand Model Penyelarasan Arsitektur Karakter (3 Pilar, 10 Muwashafat, & 4 Level)](#2-matriks-grand-model-penyelarasan-arsitektur-karakter-3-pilar-10-muwashafat--4-level)
   - [3. Standar Prosedur Evaluasi & Kalibrasi Mutu Arsitektur Karakter Asrama](#3-standar-prosedur-evaluasi--kalibrasi-mutu-arsitektur-karakter-asrama)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -40,7 +40,7 @@
 
 ---
 
-### 1. Arsitektur Sintesis Holistik: Struktur Master Karakter Pesantren TUMBUH
+### 1. Arsitektur Sintesis Holistik: Struktur Master Karakter Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merajut seluruh sains pedagogi adab, antropologi fitrah, psikologi motivasi, dan psikometri kuantitatif ke dalam **Arsitektur Karakter Terpadu (*Integrated Character Architecture*)**:
 
@@ -120,7 +120,7 @@ graph LR
 
 ---
 
-### 1. Formulasi Konseptual: Grand Architecture Taksonomi Karakter Pesantren TUMBUH
+### 1. Formulasi Konseptual: Grand Architecture Taksonomi Karakter Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual Grand Architecture Karakter sebagai berikut:
 
@@ -178,7 +178,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-02-06: SINTESIS CHARACTER ARCHITECTURE DAN GRAND MODEL TAKSONOMI KARAKTER** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-02-06: SINTESIS CHARACTER ARCHITECTURE DAN GRAND MODEL TAKSONOMI KARAKTER** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -246,7 +246,7 @@ flowchart TD
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
 [^1]: Al-Attas (1980), *The Concept of Education in Islam*; Marzano & Kendall (2007), *The New Taxonomy of Educational Objectives*; Smith & Kendall (1963), *BARS*.  
-[^2]: Panduan Induk Grand Model Arsitektur Karakter Pesantren TUMBUH, Dewan Asesmen dan Kurikulum, 2026.
+[^2]: Panduan Induk Grand Model Arsitektur Karakter Ekosistem Pesantren Berbasis TUMBUH, Dewan Asesmen dan Kurikulum, 2026.
 
 ---
 

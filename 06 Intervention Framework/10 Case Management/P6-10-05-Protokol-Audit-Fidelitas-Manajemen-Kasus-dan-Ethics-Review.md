@@ -1,5 +1,5 @@
 # P6-10-05: PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW
-## *Monograf Riset Akademik: Standarisasi Pengawasan Mutu Intervensi Disiplin, Kode Etik Penanganan Kasus Santri, dan Audit Kepatuhan Anti-Malapraktik Pengasuhan (Case Management Fidelity Auditing, Ethical Review Boards ERB, & Tarbiyah Quality Assurance / Form AFM-Audit), Integrasi Doktrin 'Al-Muhāsabah wal Amānah wal 'Adl' Turats Klasik dengan PBIS Tiered Fidelity Inventory (TFI), APA/ACA Ethical Codes, Serta Akuntabilitas Syar'i di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Pengawasan Mutu Intervensi Disiplin, Kode Etik Penanganan Kasus Santri, dan Audit Kepatuhan Anti-Malapraktik Pengasuhan (Case Management Fidelity Auditing, Ethical Review Boards ERB, & Tarbiyah Quality Assurance / Form AFM-Audit), Integrasi Doktrin 'Al-Muhāsabah wal Amānah wal 'Adl' Turats Klasik dengan PBIS Tiered Fidelity Inventory (TFI), APA/ACA Ethical Codes, Serta Akuntabilitas Syar'i di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-10-05/MONOGRAF-RISET-AUDIT-FIDELITAS-ETHICS/2026`  
 **Domain**: `06 Intervention Framework` > `10 Case Management` (Sub-Modul 05: *Case Management Fidelity Auditing & Ethical Review Boards*)  
@@ -213,7 +213,7 @@ Penerapan protokol audit fidelitas Form AFM ini menghadirkan keunggulan peradaba
 
 1. **Melenyapkan Budaya Impunitas dan Kesewenang-wenangan Oknum (*Zero Impunity Environment*)**: Menjamin bahwa hukum dan adab berlaku adil bagi seluruh warga pesantren tanpa terkecuali.
 2. **Mewujudkan Lembaga Pendidikan Islam yang Akuntabel dan Bereputasi Unggul Global (*World-Class Institutional Accountability*)**: Menepis keraguan masyarakat dengan transparansi audit mutu berkala.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wilāyatul Hisbah dan PBIS Tiered Fidelity Inventory**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan sistem tata kelola etika pengasuhan paling bersih dan terpercaya di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wilāyatul Hisbah dan PBIS Tiered Fidelity Inventory**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan sistem tata kelola etika pengasuhan paling bersih dan terpercaya di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan protokol audit fidelitas Form AFM ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-10-05: PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-10-05: PROTOKOL AUDIT FIDELITAS MANAJEMEN KASUS DAN ETHICS REVIEW** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -289,8 +289,8 @@ flowchart TD
 [^1]: Kerangka kerja Tiered Fidelity Inventory (TFI) George Sugai dan Robert Horner dalam pengukuran mutu PBIS, Sugai et al. (2014, hlm. 12 & 2020, hlm. 206).  
 [^2]: Standar kode etik profesi konseling dan penjaminan hak asasi konseli (ACA & APA Ethics), ACA (2014, hlm. 6) & APA (2017, hlm. 4).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 318), bab wilayatul hisbah dalam mengawasi integritas dan etika para pendidik anak kaum muslimin.  
-[^4]: Protokol audit triwulanan dewan etik dan sistem whistleblowing Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol audit fidelitas dan ethics review di Pesantren TUMBUH (2026).  
+[^4]: Protokol audit triwulanan dewan etik dan sistem whistleblowing Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol audit fidelitas dan ethics review di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

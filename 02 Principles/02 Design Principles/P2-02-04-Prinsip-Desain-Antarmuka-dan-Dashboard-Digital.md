@@ -199,7 +199,7 @@ Digitalisasi yang memuliakan martabat ini membawa implikasi agung bagi peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-04: PRINSIP DESAIN ANTARMUKA DAN DASHBOARD DIGITAL LOGBOOK PBIS (DIGITAL UI/UX & DASHBOARD DESIGN)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-04: PRINSIP DESAIN ANTARMUKA DAN DASHBOARD DIGITAL LOGBOOK PBIS (DIGITAL UI/UX & DASHBOARD DESIGN)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -277,7 +277,7 @@ flowchart TD
 [^8]: Shneiderman, B., et al. (2016), *Designing the User Interface*, hlm. 60–95.  
 [^9]: Master Blueprint Visualisasi Spatial Heatmap Asrama PBIS TUMBUH, 2026.  
 [^10]: ISO/IEC 27001:2022 *Information Security Management Systems*, hlm. 10–28.  
-[^11]: Standar Operasional Prosedur Input Data Logbook Digital Musyrif TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Input Data Logbook Digital Musyrif dalam sistem TUMBUH, 2026.  
 [^12]: Deklarasi Pemuliaan Etika Digital Pesantren Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

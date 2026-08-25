@@ -1,5 +1,5 @@
 # P5-09-01: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Karakter Spiritual (Salīmul 'Aqīdah, Shahīhul 'Ibādah, & Matīnul Khuluq), Integrasi Doktrin 'Al-Imān, Al-Islām, wal Ihsān' Turats Klasik dengan Restorative Positive Behavior Support & Character Psychometrics, Serta Desain Indikator Operasional di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Karakter Spiritual (Salīmul 'Aqīdah, Shahīhul 'Ibādah, & Matīnul Khuluq), Integrasi Doktrin 'Al-Imān, Al-Islām, wal Ihsān' Turats Klasik dengan Restorative Positive Behavior Support & Character Psychometrics, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-09-01/MONOGRAF-RISET-RUBRIK-SPIRITUAL-IBADAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 01: *Spiritual & Worship Character Rubrics - Dimensions 1 to 3*)  
@@ -211,7 +211,7 @@ Penerapan rubrik BARS karakter spiritual Form RKS-01 ini menghadirkan keunggulan
 
 1. **Menghapus Total Subjektivitas dan Bias Penilaian Guru Agama (*Zero Evaluator Arbitrariness*)**: Setiap skor disandarkan pada bukti perilaku teramati yang dapat diverifikasi oleh siapa pun.
 2. **Memberikan Panduan Praktis yang Jelas Bagi Santri (*Actionable Roadmap to Piety*)**: Santri memahami secara konkret apa anak tangga yang harus didaki untuk mencapai derajat keshalihan yang lebih tinggi.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Fiqh Ibadah dan Psikometri BARS**: Menjadikan pesantren TUMBUH sebagai pionir standarisasi evaluasi pendidikan karakter Islam di tingkat dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Fiqh Ibadah dan Psikometri BARS**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir standarisasi evaluasi pendidikan karakter Islam di tingkat dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan rubrik BARS karakter spiritual Form RKS-01 ini menghadirkan keunggulan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-09-01: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-09-01: RUBRIK KARAKTER SPIRITUAL DAN IBADAH (DIMENSI 1–3)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -287,8 +287,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan skala penilaian abstrak tanpa behavioral anchors dalam evaluasi pendidikan, Smith & Kendall (1963, hlm. 150).  
 [^2]: Kerangka kerja CASEL Self-Awareness dalam menghubungkan kesadaran nilai batiniah dengan tindakan nyata, CASEL (2020, hlm. 5).  
 [^3]: Ibnu Taimiyyah, *Kitabul Iman* (1999, hlm. 128), bab kesatuan mutlak antara keyakinan iman batiniah dengan amal perbuatan lahiriah.  
-[^4]: Protokol kalibrasi BARS ibadah dan penyelarasan indikator khusyu' shalat santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan rubrik BARS karakter spiritual dan ibadah di Pesantren TUMBUH (2026).  
+[^4]: Protokol kalibrasi BARS ibadah dan penyelarasan indikator khusyu' shalat santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan rubrik BARS karakter spiritual dan ibadah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

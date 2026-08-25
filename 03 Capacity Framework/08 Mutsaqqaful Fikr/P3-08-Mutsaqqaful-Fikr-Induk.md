@@ -10,7 +10,7 @@
 
 > ### 💡 INTISARI EKSEKUTIF KOMPENDIUM INDUK
 >
-> Buku Kompendium Induk ini menghimpun sintesis komprehensif dari keseluruhan **14 Monograf Riset Akademik Mutsaqqaful Fikr (P3-08-01 s/d P3-08-14)**. Karakter *Mutsaqqaful Fikr* (Kapasitas ke-5 dari 10 Muwashafat Santri TUMBUH) merekonstruksi tradisi keilmuan Islam klasik (*Turats*) yang dipadukan dengan nalar kritis mantiq (*Burhani*), literasi sains empiris (*Cognitive Science/HOTS*), serta kemahiran navigasi digital (*Media & Information Literacy*), guna melahirkan generasi *Ulil Albab* yang siap memimpin peradaban dunia.
+> Buku Kompendium Induk ini menghimpun sintesis komprehensif dari keseluruhan **14 Monograf Riset Akademik Mutsaqqaful Fikr (P3-08-01 s/d P3-08-14)**. Karakter *Mutsaqqaful Fikr* (Kapasitas ke-5 dari 10 Muwashafat Santri dalam sistem TUMBUH) merekonstruksi tradisi keilmuan Islam klasik (*Turats*) yang dipadukan dengan nalar kritis mantiq (*Burhani*), literasi sains empiris (*Cognitive Science/HOTS*), serta kemahiran navigasi digital (*Media & Information Literacy*), guna melahirkan generasi *Ulil Albab* yang siap memimpin peradaban dunia.
 
 ---
 

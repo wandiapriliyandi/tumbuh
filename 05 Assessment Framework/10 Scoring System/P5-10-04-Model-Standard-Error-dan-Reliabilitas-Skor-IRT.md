@@ -1,5 +1,5 @@
 # P5-10-04: MODEL STANDARD ERROR DAN RELIABILITAS SKOR IRT
-## *Monograf Riset Akademik: Pemodelan Kesalahan Standar Pengukuran dan Estimasi Reliabilitas Skor Berbasis Teori Respon Butir (Standard Error of Measurement & Item Response Theory Reliability Modeling / Form SEM-Skor), Integrasi Doktrin 'Nafyul Ghalath wa Dabthul Kayl' Turats Klasik dengan Rasch Measurement Invariance, Standard Error of Measurement (SEM), Serta Interval Kepercayaan 95% di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Pemodelan Kesalahan Standar Pengukuran dan Estimasi Reliabilitas Skor Berbasis Teori Respon Butir (Standard Error of Measurement & Item Response Theory Reliability Modeling / Form SEM-Skor), Integrasi Doktrin 'Nafyul Ghalath wa Dabthul Kayl' Turats Klasik dengan Rasch Measurement Invariance, Standard Error of Measurement (SEM), Serta Interval Kepercayaan 95% di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-10-04/MONOGRAF-RISET-MODEL-STANDARD-ERROR-IRT/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 04: *Standard Error of Measurement & IRT Reliability Modeling*)  
@@ -231,7 +231,7 @@ Penerapan pemodelan Standard Error dan IRT Form SEM ini menghadirkan keunggulan 
 
 1. **Menghapuskan Kezaliman Titik Potong Tunggal (*Elimination of False Rejection*)**: Santri pada batas ambang kelulusan terlindungi oleh kaidah sains interval kepercayaan $95\%$.
 2. **Menjamin Akurasi Pengukuran yang Setara Bagi Seluruh Tingkat Kemampuan Santri**: Teori Respon Butir (IRT) memastikan alat ukur tetap akurat baik untuk santri awal (J1) maupun santri akhir (J4).
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Dhabthul Kayl dan Item Response Theory**: Menjadikan pesantren TUMBUH sebagai pionir tata kelola psikometri pendidikan Islam paling presisi di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Dhabthul Kayl dan Item Response Theory**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir tata kelola psikometri pendidikan Islam paling presisi di dunia.[^5]
 
 ---
 
@@ -239,7 +239,7 @@ Penerapan pemodelan Standard Error dan IRT Form SEM ini menghadirkan keunggulan 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-10-04: MODEL STANDARD ERROR DAN RELIABILITAS SKOR IRT** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-10-04: MODEL STANDARD ERROR DAN RELIABILITAS SKOR IRT** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -307,8 +307,8 @@ flowchart TD
 [^1]: Kerangka kerja Item Response Theory (IRT) Georg Rasch mengenai transformasi data kategori ke skala pengukuran linear interval, Rasch (1960, hlm. 42).  
 [^2]: Teori Standard Error of Measurement (SEM) Lord & Novick dalam mengestimasi presisi skor psikometri, Lord & Novick (1968, hlm. 68).  
 [^3]: Al-Qarafi, *Al-Furuq* (1998, Jilid 2, hlm. 142), bab keharusan melindungi hak manusia dari keraguan pengukuran dan penetapan hukum yang cacat bukti.  
-[^4]: Protokol estimasi IRT logit dan resolusi borderline santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model standard error dan reliabilitas skor IRT di Pesantren TUMBUH (2026).  
+[^4]: Protokol estimasi IRT logit dan resolusi borderline santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model standard error dan reliabilitas skor IRT di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

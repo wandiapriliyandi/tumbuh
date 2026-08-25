@@ -184,7 +184,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-02-02: STRUKTUR GRADASI EMPAT LEVEL KOMPETENSI KARAKTER (TANGGA TUMBUH J1–J4)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-02-02: STRUKTUR GRADASI EMPAT LEVEL KOMPETENSI KARAKTER (TANGGA TUMBUH J1–J4)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -257,7 +257,7 @@ flowchart TD
 [^6]: Greenleaf, R. K. (1977), *Servant Leadership*, Paulist Press.  
 [^7]: Laporan Riset Validitas Konstruk Jenjang Kemandirian TUMBUH (J1–J4) J1–J4, Pusat Studi Psikometri Pesantren, 2026.  
 [^8]: Panduan Manajemen Transisi Santri Baru Asrama TUMBUH, Divisi Pengasuhan, 2026.  
-[^9]: Matriks Kontinuum Regulasi Diri Santri TUMBUH, Biro Konseling dan Evaluasi, 2026.  
+[^9]: Matriks Kontinuum Regulasi Diri Santri dalam sistem TUMBUH, Biro Konseling dan Evaluasi, 2026.  
 [^10]: Panduan Peran Musyrif Berbasis Tangga Karakter Santri, Pusat Diklat SDM TUMBUH, 2026.
 
 ---

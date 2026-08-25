@@ -191,7 +191,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-03: DINAMIKA KECERDASAN INTELEKTUAL DAN KEMANDIRIAN VOKASIONAL DI PESANTREN** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-03: DINAMIKA KECERDASAN INTELEKTUAL DAN KEMANDIRIAN VOKASIONAL DI PESANTREN** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -262,7 +262,7 @@ flowchart TD
 [^4]: Kolb, D. A. (1984), *Experiential Learning*, Prentice-Hall.  
 [^5]: Chapra, M. U. (2000), *The Future of Economics: An Islamic Perspective*, Islamic Foundation.  
 [^6]: World Bank (2018), *World Development Report: Learning to Realize Education's Promise*, hlm. 120–145.  
-[^7]: Laporan Evaluasi Program Inkubator Santripreneur Pesantren TUMBUH, 2026.  
+[^7]: Laporan Evaluasi Program Inkubator Santripreneur Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Panduan Kurikulum Vokasional dan Kewirausahaan Santri, Biro Vokasi TUMBUH, 2026.  
 [^9]: Modul Fiqh Mu'amalah Terapan bagi Pengelola Koperasi Santri, Divisi Ekonomi Syariah, 2026.  
 [^10]: Silabus Pelatihan Keterampilan Digital dan Teknologi Informasi Santri Jenjang J3 & T4, 2026.

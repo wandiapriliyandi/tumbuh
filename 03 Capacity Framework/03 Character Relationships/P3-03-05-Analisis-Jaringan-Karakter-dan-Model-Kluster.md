@@ -197,7 +197,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-05: ANALISIS JARINGAN KARAKTER (NETWORK ANALYSIS) DAN PEMODELAN KLUSTER INTERDEPENDENSI** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-05: ANALISIS JARINGAN KARAKTER (NETWORK ANALYSIS) DAN PEMODELAN KLUSTER INTERDEPENDENSI** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -269,7 +269,7 @@ flowchart TD
 [^5]: Ibnu Qayyim al-Jauziyyah, *Al-Fawa'id*, hlm. 60–85.  
 [^6]: Epskamp, S., et al. (2018), *Multivariate Behavioral Research*, hlm. 450–480.  
 [^7]: Barabási, A. L. (2016), *Network Science*, Cambridge University Press.  
-[^8]: Laporan Hasil Pemodelan Network Psychometrics 10 Karakter Santri Pesantren TUMBUH, 2026.  
+[^8]: Laporan Hasil Pemodelan Network Psychometrics 10 Karakter Santri Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^9]: Matriks Nilai Degree, Betweenness, dan Closeness Centrality Karakter Santri, Pusat Studi Data TUMBUH, 2026.  
 [^10]: Panduan Intervensi Pengasuhan Berbasis Topologi Jejaring Karakter, Biro Konseling TUMBUH, 2026.
 

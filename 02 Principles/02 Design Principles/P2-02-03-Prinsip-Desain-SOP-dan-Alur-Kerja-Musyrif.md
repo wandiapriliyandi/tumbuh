@@ -28,7 +28,7 @@
   - [4. Rekayasa Alur Tanggap Darurat Medis & De-Eskalasi Krisis Emosional Santri 24 Jam](#4-rekayasa-alur-tanggap-darurat-medis--de-eskalasi-krisis-emosional-santri-24-jam)
   - [5. Kasuistika Lapangan: Kasus Keterlambatan Penanganan Santri Sakit Akut & Resolusi SOP Terpadu](#5-kasuistika-lapangan-kasus-keterlambatan-penanganan-santri-sakit-akut--resolusi-sop-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH](#1-eksplanasi-teoretis-prinsip-desain-sop-dan-alur-kerja-musyrif-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Desain SOP dan Alur Kerja Musyrif dalam sistem TUMBUH](#1-eksplanasi-teoretis-prinsip-desain-sop-dan-alur-kerja-musyrif-tumbuh)
   - [2. Matriks Lima SOP Inti Pengasuhan Asrama Pesantren 24 Jam](#2-matriks-lima-sop-inti-pengasuhan-asrama-pesantren-24-jam)
   - [3. Diagram Alur SOP Tanggap Darurat Medis & Krisis Perilaku Santri](#3-diagram-alur-sop-tanggap-darurat-medis--krisis-perilaku-santri)
   - [4. Protokol Serah Terima Tugas Antar-Shift Musyrif (Shift Handover Protocol)](#4-protokol-serah-terima-tugas-antar-shift-musyrif-shift-handover-protocol)
@@ -114,7 +114,7 @@ TUMBUH menyediakan kepastian alur kerja krisis:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Desain SOP dan Alur Kerja Musyrif dalam sistem TUMBUH
 
 Ekosistem TUMBUH mengkodifikasikan alur kerja ke dalam **Arsitektur Tiga Sayap SOP Pengasuhan (*Arkan at-Tanzhim al-Idariy*)**:
 
@@ -198,7 +198,7 @@ Standarisasi desain SOP dan alur kerja musyrif ini membawa implikasi agung bagi 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-03: PRINSIP DESAIN SOP DAN ALUR KERJA MUSYRIF (CAREGIVER WORKFLOW & SOP DESIGN)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-03: PRINSIP DESAIN SOP DAN ALUR KERJA MUSYRIF (CAREGIVER WORKFLOW & SOP DESIGN)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -266,7 +266,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Desain SOP dan Alur Kerja Musyrif TUMBUH, *Kritik atas Eksploitasi Kerja dan Ambiguitas Peran*, 2026.  
+[^1]: Riset Prinsip Desain SOP dan Alur Kerja Musyrif dalam sistem TUMBUH, *Kritik atas Eksploitasi Kerja dan Ambiguitas Peran*, 2026.  
 [^2]: QS. Al-Baqarah [2]: 286.  
 [^3]: *Shahih al-Bukhari*, Kitab al-Iman, Hadits No. 30.  
 [^4]: Maslach, C., et al. (2001), *Annual Review of Psychology*, hlm. 397–422; Norman, D. A. (2013), *The Design of Everyday Things*, hlm. 40–75.  
@@ -275,7 +275,7 @@ flowchart TD
 [^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Kasb*, hlm. 65–90.  
 [^8]: ISO 9001:2015 *Quality Management Systems*, hlm. 15–30.  
 [^9]: Kemenkes RI (2020), *Pedoman Pelayanan Kesehatan Pesantren*, hlm. 20–55.  
-[^10]: Standar Operasional Prosedur Serah Terima Tugas Antar-Shift Musyrif TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Serah Terima Tugas Antar-Shift Musyrif dalam sistem TUMBUH, 2026.  
 [^11]: Deklarasi Penegakan Manajemen Itqan Pengasuhan Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

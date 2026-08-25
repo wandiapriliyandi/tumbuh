@@ -1,5 +1,5 @@
 # P6-04-05: MATRIKS INTERVENSI DIFERENSIASI BERDASARKAN JENJANG J1-J4 (KELAS 7-12)
-## *Monograf Riset Akademik: Standarisasi Diferensiasi Paket Intervensi Berdasarkan Tahapan Perkembangan Remaja dan Jenjang Kemandirian Santri (Developmental Stage-Specific Intervention Differentiation Matrix: J1-J4 / Grades 7-12 / Form DIJ-Diferensiasi), Integrasi Doktrin 'Murā'ātu Thabaqātil A'mār wal Bulūgh' Turats Klasik dengan Piaget & Erikson's Adolescent Psychosocial Stages, Restorative Age-Appropriateness, Serta Progresi Asrama di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Diferensiasi Paket Intervensi Berdasarkan Tahapan Perkembangan Remaja dan Jenjang Kemandirian Santri (Developmental Stage-Specific Intervention Differentiation Matrix: J1-J4 / Grades 7-12 / Form DIJ-Diferensiasi), Integrasi Doktrin 'Murā'ātu Thabaqātil A'mār wal Bulūgh' Turats Klasik dengan Piaget & Erikson's Adolescent Psychosocial Stages, Restorative Age-Appropriateness, Serta Progresi Asrama di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-04-05/MONOGRAF-RISET-DIFERENSIASI-JENJANG-J1-J4/2026`  
 **Domain**: `06 Intervention Framework` > `04 Intervention Mapping` (Sub-Modul 05: *Developmental Stage-Specific Intervention Differentiation: J1-J4 / Grades 7-12*)  
@@ -216,7 +216,7 @@ Penerapan matriks diferensiasi jenjang Form DIJ ini menghadirkan keunggulan pera
 
 1. **Mewujudkan Pengasuhan yang Selaras dengan Sunnatullah Perkembangan Remaja (*Developmentally Responsive Tarbiyah*)**: Setiap santri diperlakukan sesuai dengan tahap kematangan psikologis dan fitrah usianya.
 2. **Menghapus Tradisi Perpeloncoan Senioritas Feodal (*Eradication of Senior Bullying*)**: Santri senior J4 diberdayakan sebagai teladan pengayom (*Qudwah Hasanah*) bagi santri junior.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Murā'ātu Marātibil Bulūgh dan Adolescent Developmental Psychology**: Mengukuhkan pesantren TUMBUH sebagai pionir pendidikan Islam modern paling manusiawi di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Murā'ātu Marātibil Bulūgh dan Adolescent Developmental Psychology**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pionir pendidikan Islam modern paling manusiawi di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan matriks diferensiasi jenjang Form DIJ ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-04-05: MATRIKS INTERVENSI DIFERENSIASI BERDASARKAN JENJANG J1-J4 (KELAS 7-12)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-04-05: MATRIKS INTERVENSI DIFERENSIASI BERDASARKAN JENJANG J1-J4 (KELAS 7-12)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Teori tahapan perkembangan psikososial Erik Erikson mengenai krisis identitas masa remaja, Erikson (1968, hlm. 128).  
 [^2]: Tahapan perkembangan operasional formal Jean Piaget dalam penalaran moral dan kognitif remaja, Piaget (1972, hlm. 6).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Tuhfatul Maudud bi Ahkamil Maulud* (2010, hlm. 242), bab kewajiban membedakan metode pendidikan anak kecil dengan remaja menjelang baligh.  
-[^4]: Protokol diferensiasi intervensi jenjang J1-J4 dan eliminasi resistensi senior Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan matriks intervensi diferensiasi jenjang di Pesantren TUMBUH (2026).  
+[^4]: Protokol diferensiasi intervensi jenjang J1-J4 dan eliminasi resistensi senior Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan matriks intervensi diferensiasi jenjang di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

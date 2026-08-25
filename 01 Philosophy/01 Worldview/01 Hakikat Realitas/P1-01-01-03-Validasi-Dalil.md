@@ -217,7 +217,7 @@ Validasi dalil naqli terhadap Enam Aksioma Realitas memiliki signifikansi strate
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-01-03: VALIDASI DALIL NAQLI ENAM AKSIOMA REALITAS (HERMENEUTIKA NASH REALITAS ISLAM)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-01-03: VALIDASI DALIL NAQLI ENAM AKSIOMA REALITAS (HERMENEUTIKA NASH REALITAS ISLAM)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -285,7 +285,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Hermeneutika Fiqh Pengasuhan Pesantren TUMBUH, *Kritik atas Tekstualisme Parsial dan Distorsi Dalil*, 2026.  
+[^1]: Riset Hermeneutika Fiqh Pengasuhan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Tekstualisme Parsial dan Distorsi Dalil*, 2026.  
 [^2]: QS. Luqman [31]: 30.  
 [^3]: *Shahih al-Bukhari*, Kitab at-Tahajjud, Hadits No. 1120; *Shahih Muslim*, Hadits No. 769.  
 [^4]: QS. Fathir [35]: 15.  

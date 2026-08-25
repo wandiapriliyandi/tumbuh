@@ -1,4 +1,4 @@
-# P9-00: Programs Induk (Kerangka Kerja Program Pembinaan Pesantren TUMBUH)
+# P9-00: Programs Induk (Kerangka Kerja Program Pembinaan Ekosistem Pesantren Berbasis TUMBUH)
 
 ## Status Dokumen
 * **Status**: 🌟 **A+ (Tervalidasi & Induk Baku)**

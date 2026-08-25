@@ -247,7 +247,7 @@ Tazkiyatun Nafs sebagai episentrum perkembangan manusia membawa dampak revolusio
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Tazkiyatun Nafs dan Evolusi Spiritual Pesantren TUMBUH, *Kritik atas Reduksionisme Pertumbuhan Linier*, 2026.  
+[^1]: Riset Tazkiyatun Nafs dan Evolusi Spiritual Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Pertumbuhan Linier*, 2026.  
 [^2]: QS. Asy-Syams [91]: 9–10.  
 [^3]: Ibnu Manzhur, *Lisan al-'Arab*, Entri *Z-K-W*; Riset Epistemologi Bahasa Turats TUMBUH, 2026.  
 [^4]: Al-Qusyairi, *Ar-Risalah al-Qusyairiyyah*, hlm. 145–178.  

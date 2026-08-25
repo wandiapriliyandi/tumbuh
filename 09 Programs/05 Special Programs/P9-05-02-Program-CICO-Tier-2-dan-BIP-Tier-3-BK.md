@@ -1,5 +1,5 @@
 # P9-05-02: PROGRAM CICO TIER 2 DAN BIP TIER 3 BK
-## *Monograf Riset Akademik: Standarisasi Protokol Intervensi Perilaku Terarah Check-In / Check-Out (CICO Tier 2), Desain Rencana Intervensi Perilaku Individual Berbasis FBA (Behavior Intervention Plan / BIP Tier 3), dan Integrasi Pendampingan Konseling Klinis Pesantren (Tier 2 CICO Targeted Protocol, Tier 3 FBA-Based BIP Clinical Architecture, & Islamic Counseling Integration / Form PRO-CICOBIP), Integrasi Doktrin 'Ar-Ri'āyatu al-Khāsh-shah wal 'Ilāj an-Nafsī bil-Ihsān' Turats Klasik dengan Crone CICO Intervention Model, O'Neill Functional Behavior Assessment, Serta Pemulihan Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Intervensi Perilaku Terarah Check-In / Check-Out (CICO Tier 2), Desain Rencana Intervensi Perilaku Individual Berbasis FBA (Behavior Intervention Plan / BIP Tier 3), dan Integrasi Pendampingan Konseling Klinis Pesantren (Tier 2 CICO Targeted Protocol, Tier 3 FBA-Based BIP Clinical Architecture, & Islamic Counseling Integration / Form PRO-CICOBIP), Integrasi Doktrin 'Ar-Ri'āyatu al-Khāsh-shah wal 'Ilāj an-Nafsī bil-Ihsān' Turats Klasik dengan Crone CICO Intervention Model, O'Neill Functional Behavior Assessment, Serta Pemulihan Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-05-02/MONOGRAF-RISET-PROGRAM-CICO-BIP/2026`  
 **Domain**: `09 Programs` > `05 Special Programs` (Sub-Modul 02: *Tier 2 CICO & Tier 3 BIP Clinical Intervention Programs*)  
@@ -129,7 +129,7 @@ Penerapan program intervensi berjenjang CICO Tier 2 dan BIP Tier 3 berbasis FBA 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-05-02: PROGRAM CICO TIER 2 DAN BIP TIER 3 BK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-05-02: PROGRAM CICO TIER 2 DAN BIP TIER 3 BK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -182,5 +182,5 @@ flowchart TD
 
 [^1]: Hawken et al. mengenai meta-analisis efektivitas Check-In Check-Out (CICO) sebagai intervensi perilaku Tier 2 di sekolah menengah, Hawken et al. (2020, hlm. 214).
 [^2]: Crone et al. mengenai panduan implementasi komprehensif Behavior Education Program dan peran mentor harian, Crone et al. (2014, hlm. 38).
-[^3]: Studi kasus penerapan CICO dan BIP menyelamatkan santri bermasalah persisten dari ancaman drop-out Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan CICO dan BIP menyelamatkan santri bermasalah persisten dari ancaman drop-out Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penguatan mikro harian terhadap pemulihan efikasi diri akademik dan penurunan disrupsi kelas (2026).

@@ -1,5 +1,5 @@
 # P5-11-05: PROTOKOL KERAHASIAAN DAN KEAMANAN DATA RAPOR (STANDAR FERPA & PDP)
-## *Monograf Riset Akademik: Protokol Perlindungan Privasi Data Evaluasi Karakter Santri dan Keamanan Sistem Informasi Rapor (Student Data Privacy, FERPA/UU-PDP Compliance, & Cryptographic Access Control / Form PKD-Privasi), Integrasi Doktrin 'Sitrul 'Aurāt wa Hifzhul Amānah' Turats Klasik dengan Family Educational Rights and Privacy Act (FERPA), UU Perlindungan Data Pribadi (UU PDP No. 27/2022), Role-Based Access Control (RBAC), Serta Tata Kelola Keamanan Siber di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Perlindungan Privasi Data Evaluasi Karakter Santri dan Keamanan Sistem Informasi Rapor (Student Data Privacy, FERPA/UU-PDP Compliance, & Cryptographic Access Control / Form PKD-Privasi), Integrasi Doktrin 'Sitrul 'Aurāt wa Hifzhul Amānah' Turats Klasik dengan Family Educational Rights and Privacy Act (FERPA), UU Perlindungan Data Pribadi (UU PDP No. 27/2022), Role-Based Access Control (RBAC), Serta Tata Kelola Keamanan Siber di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-11-05/MONOGRAF-RISET-PROTOKOL-KERAHASIAAN-DATA-FERPA/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 05: *Student Data Privacy & FERPA/PDP Compliance Architecture*)  
@@ -189,7 +189,7 @@ KODE DOKUMEN    : PKD-PRIVASI-TUMBUH-2026
 KOMITMEN PERLINDUNGAN HAK PRIVASI SANTRI & KELUARGA:
 ----------------------------------------------------------------------------------------------------
 1. PRINSIP KERAHASIAAN AMANAH (CONFIDENTIALITY):
-   Pesantren TUMBUH menjamin 100% kerahasiaan rekam jejak psikologis, catatan konseling, riwayat kesehatan, 
+   Ekosistem Pesantren Berbasis TUMBUH menjamin 100% kerahasiaan rekam jejak psikologis, catatan konseling, riwayat kesehatan, 
    dan nilai karakter santri. Seluruh data dilindungi enkripsi AES-256 dan dilarang dipublikasikan ke publik.
 
 2. HAK ORANG TUA ATAS DATA ANAK (ACCESS & REVIEW RIGHTS):
@@ -204,7 +204,7 @@ KOMITMEN PERLINDUNGAN HAK PRIVASI SANTRI & KELUARGA:
    Data santri tidak akan pernah diperjualbelikan atau diserahkan kepada pihak ketiga di luar kepentingan 
    pendidikan resmi tanpa izin tertulis bermaterai dari orang tua/wali santri.
 ----------------------------------------------------------------------------------------------------
-Disahkan di: Pesantren TUMBUH, 25 Agustus 2026
+Disahkan di: Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Pejabat Pengendali Data Pribadi (DPO): _________________    Mudir Pesantren: _________________
 ====================================================================================================
 ```
@@ -217,7 +217,7 @@ Penerapan protokol kerahasiaan data Form PKD ini menghadirkan keunggulan peradab
 
 1. **Menghapus Total Tradisi Barbar Public Shaming di Lingkungan Pesantren**: Mengubah pesantren menjadi suaka yang aman dan memuliakan anak (*Safe & Dignified Sanctuary*).
 2. **Menjamin Kepatuhan Hukum Tertinggi Terhadap UU Perlindungan Data Pribadi (UU PDP)**: Melindungi lembaga dari risiko gugatan pidana dan perdata terkait kebocoran data siber.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sitrul 'Aurāt dan Standar Keamanan Siber Internasional**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam modern paling aman di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sitrul 'Aurāt dan Standar Keamanan Siber Internasional**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam modern paling aman di dunia.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan protokol kerahasiaan data Form PKD ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-11-05: PROTOKOL KERAHASIAAN DAN KEAMANAN DATA RAPOR (STANDAR FERPA & PDP)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-11-05: PROTOKOL KERAHASIAAN DAN KEAMANAN DATA RAPOR (STANDAR FERPA & PDP)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -293,8 +293,8 @@ flowchart TD
 [^1]: Standar kepatuhan Family Educational Rights and Privacy Act (FERPA) dalam perlindungan rekam jejak siswa, U.S. Department of Education (2020, hlm. 12).  
 [^2]: Kerangka hukum Undang-Undang Perlindungan Data Pribadi (UU PDP No. 27/2022) Republik Indonesia mengenai tata kelola data anak, Republik Indonesia (2022, hlm. 18).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 162), bab bahaya membongkar rahasia dan aib orang yang telah bertobat.  
-[^4]: Protokol penghapusan rekam jejak pelanggaran pasca-restorative justice Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol kerahasiaan dan keamanan data rapor FERPA/PDP di Pesantren TUMBUH (2026).  
+[^4]: Protokol penghapusan rekam jejak pelanggaran pasca-restorative justice Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol kerahasiaan dan keamanan data rapor FERPA/PDP di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

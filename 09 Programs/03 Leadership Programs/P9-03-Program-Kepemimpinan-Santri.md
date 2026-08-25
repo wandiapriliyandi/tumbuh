@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF
 >
 > * **Kedudukan Strategis Gugus Program Kepemimpinan Santri:** Gugus ini adalah inkubator kepemimpinan peradaban (*civilizational leadership incubator*) di ekosistem TUMBUH. Membongkar tuntas tradisi feodalisme senioritas, perpeloncoan, dan arogansi kekuasaan yang merusak pesantren tradisional, pendekatan ini mencetak generasi santri penggerak Jenjang J4 yang memimpin dengan keteladanan nyata (*Qudwah Hasanah*), melayani adik kelas dengan kasih sayang (*Servant Leadership*), dan mengelola organisasi melalui musyawarah deliberatif yang egaliter (*Leading by Serving, Inspiring by Example*).
-> * **Triad Program Kepemimpinan Santri TUMBUH:** (1) **Kaderisasi LKSL J4** (Latihan Kepemimpinan Servant Leadership 32 Jam) berbasis sumpah ikrar qudwah, (2) **Peer Buddy System 1:2** untuk pendampingan hafalan, belajar diniyyah, dan afeksi santri baru, dan (3) **Musyawarah Restoratif OSIS** dwi-pekanan berbasis diskursus bebas dominasi Habermas.
+> * **Triad Program Kepemimpinan Santri dalam sistem TUMBUH:** (1) **Kaderisasi LKSL J4** (Latihan Kepemimpinan Servant Leadership 32 Jam) berbasis sumpah ikrar qudwah, (2) **Peer Buddy System 1:2** untuk pendampingan hafalan, belajar diniyyah, dan afeksi santri baru, dan (3) **Musyawarah Restoratif OSIS** dwi-pekanan berbasis diskursus bebas dominasi Habermas.
 > * **3 Monograf Riset Komprehensif:** Form PRO-LKSLJ4, Form PRO-PeerBuddy, dan Form PRO-MusyawarahOSIS.
 
 ---

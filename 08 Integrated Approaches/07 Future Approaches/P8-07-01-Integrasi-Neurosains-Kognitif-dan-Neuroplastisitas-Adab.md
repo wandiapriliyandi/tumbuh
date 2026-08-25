@@ -1,5 +1,5 @@
 # P8-07-01: INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB
-## *Monograf Riset Akademik: Standarisasi Integrasi Neurosains Kognitif dalam Pendidikan Karakter Pesantren, Mekanisme Neuroplastisitas dan Mielinisasi Pembiasaan Adab 24 Jam, dan Transisi Kontrol Kognitif Menjadi Otomatisasi Watak (Cognitive Neuroscience & Adab Neuroplasticity Integration, Synaptic Pruning and Myelination in 24-Hour Habituation, & Cognitive Control to Automatic Trait Transition / Form NEU-Neuroplastisitas), Integrasi Doktrin 'Riyādhatun Nafs wa Istiqrāru al-Malakah' Turats Klasik dengan Hebbian Synaptic Plasticity, Doidge Brain Plasticity Science, Serta Pembentukan Watak di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Integrasi Neurosains Kognitif dalam Pendidikan Karakter Pesantren, Mekanisme Neuroplastisitas dan Mielinisasi Pembiasaan Adab 24 Jam, dan Transisi Kontrol Kognitif Menjadi Otomatisasi Watak (Cognitive Neuroscience & Adab Neuroplasticity Integration, Synaptic Pruning and Myelination in 24-Hour Habituation, & Cognitive Control to Automatic Trait Transition / Form NEU-Neuroplastisitas), Integrasi Doktrin 'Riyādhatun Nafs wa Istiqrāru al-Malakah' Turats Klasik dengan Hebbian Synaptic Plasticity, Doidge Brain Plasticity Science, Serta Pembentukan Watak di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-07-01/MONOGRAF-RISET-NEUROSAINS-NEUROPLASTISITAS-ADAB/2026`  
 **Domain**: `08 Integrated Approaches` > `07 Future Approaches` (Sub-Modul 01: *Cognitive Neuroscience & Adab Neuroplasticity Integration*)  
@@ -107,7 +107,7 @@ Integrasi neurosains kognitif dalam kurikulum adab membuktikan kebenaran empiris
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-07-01: INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-07-01: INTEGRASI NEUROSAINS KOGNITIF DAN NEUROPLASTISITAS ADAB** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Lally et al. mengenai pemodelan matematis pembentukan kebiasaan otomatis (automaticity) dan ambang batas rata-rata 66 hari, Lally et al. (2010, hlm. 999).
 [^2]: Ibnu Khaldun mengenai pembentukan Al-Malakah (disposisi karakter kokoh) melalui pengulangan perbuatan terus-menerus, Muqaddimah (2005, hlm. 542).
-[^3]: Studi kasus penerapan siklus 66 hari neuro-adab mentransformasi refleks fajar santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan siklus 66 hari neuro-adab mentransformasi refleks fajar santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Mekanisme mielinisasi selubung akson dalam memindahkan beban kontrol kognitif prefrontal cortex ke basal ganglia otomatis (2026).

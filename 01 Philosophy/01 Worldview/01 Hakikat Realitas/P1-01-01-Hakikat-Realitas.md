@@ -222,7 +222,7 @@ Master Doktrin Hakikat Realitas ini menjadi fondasi bagi pembaharuan peradaban p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-01: HAKIKAT REALITAS DALAM WORLDVIEW TUMBUH (MASTER DOKTRIN ONTOLOGI)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-01: HAKIKAT REALITAS DALAM WORLDVIEW TUMBUH (MASTER DOKTRIN ONTOLOGI)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -293,7 +293,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Master Doktrin Ontologi Pesantren TUMBUH, *Kritik atas Dikotomi Realitas dan Krisis Arah Pendidikan*, 2026.  
+[^1]: Riset Master Doktrin Ontologi Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Dikotomi Realitas dan Krisis Arah Pendidikan*, 2026.  
 [^2]: Peta Integrasi Enam Sub-Modul Riset Kluster Hakikat Realitas TUMBUH, 2026.  
 [^3]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 102–135.  
 [^4]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268.  

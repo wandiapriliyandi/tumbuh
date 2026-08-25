@@ -1,5 +1,5 @@
 # P7-01-03: PRINSIP ORGANISASI PEMBELAJAR BERBASIS DATA PBIS
-## *Monograf Riset Akademik: Standarisasi Tata Kelola Organisasi Pembelajar, Pengambilan Keputusan Berbasis Analitik Data Perilaku, dan Budaya Evaluasi Berkelanjutan di Pesantren (Data-Driven Learning Organizations, PBIS Decision-Making Engines, & Institutional Continuous Improvement / Form OPB-Organisasi), Integrasi Doktrin 'Al-Hikmatu Dhāllatul Mu'min wa Taqwīmul I'wijāj' Turats Klasik dengan Senge's The Fifth Discipline, Horner & Sugai's Data-Based Decision Making, Serta Efisiensi Institusi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Tata Kelola Organisasi Pembelajar, Pengambilan Keputusan Berbasis Analitik Data Perilaku, dan Budaya Evaluasi Berkelanjutan di Pesantren (Data-Driven Learning Organizations, PBIS Decision-Making Engines, & Institutional Continuous Improvement / Form OPB-Organisasi), Integrasi Doktrin 'Al-Hikmatu Dhāllatul Mu'min wa Taqwīmul I'wijāj' Turats Klasik dengan Senge's The Fifth Discipline, Horner & Sugai's Data-Based Decision Making, Serta Efisiensi Institusi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-01-03/MONOGRAF-RISET-ORGANISASI-PEMBELAJAR-DATA/2026`  
 **Domain**: `07 Implementation Framework` > `01 Governance` (Sub-Modul 03: *Data-Driven Learning Organizations & PBIS Decision-Making Engines*)  
@@ -166,7 +166,7 @@ flowchart TD
 
 ### 2. Dekomposisi 5 Disiplin Peter Senge dalam Ekosistem Pesantren: Systems Thinking, Personal Mastery, Mental Models, Shared Vision, & Team Learning
 
-| 5 Disiplin Peter Senge | Makna Filosofis Islam | Implementasi Praksis di Pesantren TUMBUH | Indikator Mutu Kelembagaan |
+| 5 Disiplin Peter Senge | Makna Filosofis Islam | Implementasi Praksis di Ekosistem Pesantren Berbasis TUMBUH | Indikator Mutu Kelembagaan |
 | :--- | :--- | :--- | :--- |
 | **1. Systems Thinking** | *Nizhām Syāmil* (Kesatuan Sistem).| Melihat santri, musyrif, dan wali sebagai satu ekosistem terpadu.| Zero kebijakan fragmentaris/ego sektoral. |
 | **2. Personal Mastery** | *Mujāhadatun Nafs & Itqān*.| Asatidz dan musyrif konsisten meningkatkan kompetensi tarbiyah.| 100% Musyrif tersertifikasi PBIS. |
@@ -215,7 +215,7 @@ Penerapan prinsip organisasi pembelajar Form OPB ini menghadirkan keunggulan per
 
 1. **Mengubah Kultur Manajemen dari Reaktif Menjadi Proaktif Berkelanjutan (*Proactive Systemic Agility*)**: Menghentikan kebiasaan bertindak setelah masalah meledak dan menggantinya dengan mitigasi dini berbasis data.
 2. **Menjamin Efisiensi Alokasi Anggaran dan Sumber Daya Tenaga Pendidik (*Optimal Resource Utilization*)**: Setiap rupiah anggaran dan jam kerja pengasuh difokuskan pada titik-titik yang paling membutuhkan intervensi.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hikmatu Dhāllatul Mu'min dan Data-Based Decision Making**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem tata kelola cerdas (*Smart Pesantren Governance*) paling terdepan di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Hikmatu Dhāllatul Mu'min dan Data-Based Decision Making**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem tata kelola cerdas (*Smart Pesantren Governance*) paling terdepan di dunia.[^5]
 
 ---
 
@@ -223,7 +223,7 @@ Penerapan prinsip organisasi pembelajar Form OPB ini menghadirkan keunggulan per
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-01-03: PRINSIP ORGANISASI PEMBELAJAR BERBASIS DATA PBIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-01-03: PRINSIP ORGANISASI PEMBELAJAR BERBASIS DATA PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Konsep Five Disciplines of Learning Organization Peter Senge dalam transformasi institusi pendidikan, Senge (1990, hlm. 12 & 2006, hlm. 68).  
 [^2]: Model Data-Based Decision Making (DBDM) Robert Horner dan George Sugai dalam implementasi PBIS berbasis bukti, Horner et al. (2010, hlm. 6 & 2017, hlm. 115).  
 [^3]: Ibnu Khaldun, *Al-Muqaddimah* (2004, hlm. 188), bab hakikat sosiologi kelembagaan dan bahaya merumuskan kebijakan tanpa penyelidikan fakta empiris induktif.  
-[^4]: Protokol keputusan berbasis data PBIS dan resolusi titik rawan wudhu Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan prinsip organisasi pembelajar berbasis data PBIS di Pesantren TUMBUH (2026).  
+[^4]: Protokol keputusan berbasis data PBIS dan resolusi titik rawan wudhu Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan prinsip organisasi pembelajar berbasis data PBIS di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

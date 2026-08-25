@@ -103,7 +103,7 @@ $$\text{يُسْتَحَبُّ لِقَاصِدِ الْمَسْجِدِ أَن�
 * **Pihak A (Sudut Pandang Masjid Sebagai Tempat Bermain Santai)**:  
   *"Santri itu masih anak-anak; wajar kalau mereka berlarian, tertawa terbahak-bahak, dan saling melempar sarung di dalam masjid!"*
 * **Tinjauan Fiqh Ta'zhimul Masajid & Sakralitas Tempat Suci**:  
-  Membiarkan masjid menjadi arena bermain gaduh adalah **Pelecehan Terhadap Keagungan Rumah Allah (*Hormatullah*)**. Rasulullah SAW melarang berbicara keras atau membaca Al-Qur'an dengan suara berteriak jika mengganggu makmum lain yang sedang shalat (HR. Abu Dawud No. 1332). Di pesantren TUMBUH, masjid adalah **Zona Keheningan Sakral (*Sacred Silence Zone*)**: santri melangkah dengan tenang, berdzikir dengan suara khusyu', dan menjaga adab bicara berbisik santun.[^6]
+  Membiarkan masjid menjadi arena bermain gaduh adalah **Pelecehan Terhadap Keagungan Rumah Allah (*Hormatullah*)**. Rasulullah SAW melarang berbicara keras atau membaca Al-Qur'an dengan suara berteriak jika mengganggu makmum lain yang sedang shalat (HR. Abu Dawud No. 1332). Dalam sistem TUMBUH di pesantren, masjid adalah **Zona Keheningan Sakral (*Sacred Silence Zone*)**: santri melangkah dengan tenang, berdzikir dengan suara khusyu', dan menjaga adab bicara berbisik santun.[^6]
 
 #### 2. Diskursus Dialektika Kritis: Kesucian Thaharah vs Pakaian Lusuh Berbau Apek
 * **Pihak A (Sudut Pandang Asal Menutup Aurat Sudah Cukup)**:  
@@ -133,7 +133,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem pendidikan karakter yang mengintegrasikan nilai-nilai transendensi diri (*Schwartz Self-Transcendence Values*) dan menyelesaikan disonansi antara ibadah ritual dengan kebersihan lingkungan niscaya melahirkan kepribadian santri yang utuh (*Integrated Moral Personality*) dan konsisten di seluruh dimensi hidup.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Nilai Inti Shahihul Ibadah TUMBUH mewajibkan keselarasan antara kesucian shalat (*Thaharah Syar'iyyah*) dengan kebersihan kamar dan adab ukhuwah asrama.
-* **Konklusi (*an-Natijah*)**: Maka, penanaman nilai ibadah di pesantren TUMBUH berhasil mengeliminasi kepribadian ganda dan membangun integritas hidup santri secara nyata.[^9]
+* **Konklusi (*an-Natijah*)**: Maka, penanaman nilai ibadah dalam sistem TUMBUH di pesantren berhasil mengeliminasi kepribadian ganda dan membangun integritas hidup santri secara nyata.[^9]
 
 ```mermaid
 flowchart LR
@@ -191,7 +191,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan Islam yang mentranslasikan nilai-nilai inti aksiologis ke dalam Standar Operasional Prosedur (SOP) harian yang terawasi secara sistemik niscaya membentuk budaya organisasi religius (*Bi'ah Shalihah*) yang melipatgandakan kepatuhan adab seluruh warga pesantren.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH mengunci 5 Nilai Inti Ibadah ke dalam tata tertib asrama, indikator BARS, dan sistem reward logbook PBIS.
-* **Konklusi (*an-Natijah*)**: Maka, nilai-nilai luhur ibadah di pesantren TUMBUH terwujud secara nyata dalam rutinitas kehidupan sehari-hari.[^13]
+* **Konklusi (*an-Natijah*)**: Maka, nilai-nilai luhur ibadah dalam sistem TUMBUH di pesantren terwujud secara nyata dalam rutinitas kehidupan sehari-hari.[^13]
 
 #### 1. Diskursus Dialektika Kritis: Larangan Menggunakan Kaos Bergambar Mengganggu di Masjid
 * **Pihak A (Sudut Pandang Kebebasan Berbusana Santri)**:  
@@ -335,7 +335,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-04: NILAI INTI DAN PRINSIP IBADAH SHAHIHAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-04: NILAI INTI DAN PRINSIP IBADAH SHAHIHAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -403,7 +403,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Aksiologi Nilai Ibadah Pesantren TUMBUH, *Kritik atas Jurang Aksiologis Ritual dan Adab*, 2026.  
+[^1]: Riset Evaluasi Aksiologi Nilai Ibadah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Jurang Aksiologis Ritual dan Adab*, 2026.  
 [^2]: An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab*, Jilid 4, Kitab *Shalatil Jama'ah wal Masajid*, hlm. 45–70.  
 [^3]: QS. Al-A'raf [7]: 31.  
 [^4]: QS. An-Nur [24]: 36–37.  
@@ -414,12 +414,12 @@ flowchart TD
 [^9]: Schwartz, S. H. (1992), *Advances in Experimental Social Psychology*, hlm. 1–65.  
 [^10]: Bem, D. J. (1972), *Self-Perception Theory*, hlm. 1–62.  
 [^11]: Festinger, L. (1957), *A Theory of Cognitive Dissonance*, Stanford University Press.  
-[^12]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 35; Petunjuk Teknis Program Eco-Pesantren TUMBUH, 2026.  
+[^12]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 35; Petunjuk Teknis Program Eco-Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^13]: Dokumen Standar Operasional Asrama 24 Jam PBIS TUMBUH, 2026.  
 [^14]: *Shahih al-Bukhari*, Kitab ash-Shalah, Hadits No. 374.  
 [^15]: Standar Operasional Penggunaan Pengeras Suara Masjid Asrama TUMBUH, 2026.  
 [^16]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
-[^17]: *Sunan Abi Dawud*, Kitab ash-Shalah, Hadits No. 1118; Dokumentasi Kasus Resolusi Adab Masjid Tokoh Santri TUMBUH, 2026.  
+[^17]: *Sunan Abi Dawud*, Kitab ash-Shalah, Hadits No. 1118; Dokumentasi Kasus Resolusi Adab Masjid Tokoh Santri dalam sistem TUMBUH, 2026.  
 [^18]: *Shahih Muslim*, Kitab Shalatil Musafirin wa Qashriha, Hadits No. 728; Dokumentasi Kasuistika Workshop Mahabbah ar-Rawatib TUMBUH, 2026.
 
 ---

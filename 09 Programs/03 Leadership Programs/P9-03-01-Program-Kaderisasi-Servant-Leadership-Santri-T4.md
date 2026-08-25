@@ -1,5 +1,5 @@
 # P9-03-01: PROGRAM KADERISASI SERVANT LEADERSHIP SANTRI J4
-## *Monograf Riset Akademik: Standarisasi Program Latihan Kepemimpinan Pelayan (Servant Leadership Training / LKSL) Santri Jenjang J4, Rekayasa Kurikulum Kepemimpinan Berbasis Qudwah Hasanah, dan Pembongkaran Struktur Feodalisme Organisasi Santri (Adolescent Servant Leadership Cadre Program, Qudwah Leadership Curriculum, & Anti-Feudal Organizational Architecture / Form PRO-LKSLJ4), Integrasi Doktrin 'Sayyidu al-Qawmi Khādimuhum wal Imāmatu fil-Khidmah' Turats Klasik dengan Greenleaf Servant Leadership Theory, Van Dierendonck Competency Model, Serta Kepemimpinan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Latihan Kepemimpinan Pelayan (Servant Leadership Training / LKSL) Santri Jenjang J4, Rekayasa Kurikulum Kepemimpinan Berbasis Qudwah Hasanah, dan Pembongkaran Struktur Feodalisme Organisasi Santri (Adolescent Servant Leadership Cadre Program, Qudwah Leadership Curriculum, & Anti-Feudal Organizational Architecture / Form PRO-LKSLJ4), Integrasi Doktrin 'Sayyidu al-Qawmi Khādimuhum wal Imāmatu fil-Khidmah' Turats Klasik dengan Greenleaf Servant Leadership Theory, Van Dierendonck Competency Model, Serta Kepemimpinan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-03-01/MONOGRAF-RISET-KADERISASI-SERVANT-LEADERSHIP/2026`  
 **Domain**: `09 Programs` > `03 Leadership Programs` (Sub-Modul 01: *Adolescent Servant Leadership Cadre Program*)  
@@ -96,7 +96,7 @@ KAMI, SANTRI PENGGERAK JENJANG J4 PESANTREN TUMBUH, BERIKRAR DENGAN NAMA ALLAH S
 JIKA KAMI MELANGGAR IKRAR INI, KAMI SIAP DICABUT DARI AMANAH KEPEMIMPINAN DAN MENJALANI
 PROSES KONSEKUENSI RESTORATIF DI HADAPAN DEWAN PENGASUH DAN SELURUH SANTRI.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Ketua Dewan Santri Penggerak J4,                     Disahkan oleh Mudir Utama Pesantren,
 
 (Muhammad Zaid Al-Ghifari - J4)                     (Ust. Dr. Sholeh Abadi, M.Pd.)
@@ -113,7 +113,7 @@ Penerapan program kaderisasi kepemimpinan berbasis *Servant Leadership* Greenlea
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-03-01: PROGRAM KADERISASI SERVANT LEADERSHIP SANTRI J4** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-03-01: PROGRAM KADERISASI SERVANT LEADERSHIP SANTRI J4** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -166,5 +166,5 @@ flowchart TD
 
 [^1]: Van Dierendonck mengenai tinjauan komprehensif teori Servant Leadership dan enam dimensi pembentuknya, Van Dierendonck (2011, hlm. 1230).
 [^2]: Robert K. Greenleaf mengenai definisi esensial Servant Leadership dan dampaknya terhadap pertumbuhan otonom pengikut, Greenleaf (1977, hlm. 27).
-[^3]: Studi kasus penerapan servant leadership pengurus J4 mengayomi santri baru Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan servant leadership pengurus J4 mengayomi santri baru Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Eliminasi total kekerasan senioritas melalui institusionalisasi kurikulum kepemimpinan pelayan LKSL J4 (2026).

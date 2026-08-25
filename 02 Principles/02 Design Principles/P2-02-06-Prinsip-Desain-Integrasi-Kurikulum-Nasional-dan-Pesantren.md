@@ -28,7 +28,7 @@
   - [4. Rekayasa Penjadwalan Sehat 24 Jam: Mengendalikan Beban Kognitif dan Menjamin Hak Tidur Santri](#4-rekayasa-penjadwalan-sehat-24-jam-mengendalikan-beban-kognitif-dan-menjamin-hak-tidur-santri)
   - [5. Kasuistika Lapangan: Kasus Santri Menolak Belajar Sains Akibat Jadwal Padat & Resolusi Integratif](#5-kasuistika-lapangan-kasus-santri-menolak-belajar-sains-akibat-jadwal-padat--resolusi-integratif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Integrasi Kurikulum Holistik Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Integrasi Kurikulum Holistik Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-integrasi-kurikulum-holistik-pesantren-tumbuh)
   - [2. Matriks Integrasi Tematik Mata Pelajaran: Rumpun Turats, Rumpun Sains-Teknologi, & Rumpun Adab](#2-matriks-integrasi-tematik-mata-pelajaran-rumpun-turats-rumpun-sains-teknologi--rumpun-adab)
   - [3. Standar Prosedur Operasional (SOP) Perancangan Modul Integratif & Penjadwalan Bebas Overload](#3-standar-prosedur-operasional-sop-perancangan-modul-integratif--penjadwalan-bebas-overload)
   - [4. Struktur Alokasi Waktu Belajar & Istirahat Harian 24 Jam Sehat](#4-struktur-alokasi-waktu-belajar--istirahat-harian-24-jam-sehat)
@@ -103,7 +103,7 @@ TUMBUH merancang jadwal harian yang ramah kognisi (*Brain-Friendly Scheduling*):
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Integrasi Kurikulum Holistik Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Integrasi Kurikulum Holistik Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan kurikulum ke dalam **Arsitektur Tiga Sayap Integrasi Keilmuan (*Arkan al-Manhaj al-Muwahhad*)**:
 
@@ -181,7 +181,7 @@ Integrasi kurikulum nasional dan turats pesantren ini membawa implikasi agung ba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-06: PRINSIP DESAIN INTEGRASI KURIKULUM NASIONAL DAN TURATS PESANTREN (NATIONAL & PESANTREN CURRICULAR INTEGRATION)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-06: PRINSIP DESAIN INTEGRASI KURIKULUM NASIONAL DAN TURATS PESANTREN (NATIONAL & PESANTREN CURRICULAR INTEGRATION)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -249,13 +249,13 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Desain Integrasi Kurikulum Nasional dan Turats Pesantren TUMBUH, *Kritik atas Dualisme Mekanis dan Beban Ganda*, 2026.  
+[^1]: Riset Prinsip Desain Integrasi Kurikulum Nasional dan Turats Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Dualisme Mekanis dan Beban Ganda*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 20–55; Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–65.  
 [^3]: Erickson, H. L., & Lanning, L. A. (2014), *Concept-Based Curriculum*, hlm. 25–60.  
 [^4]: Sweller, J. (2011), *Cognitive Load Theory*, hlm. 37–76; Ritme Sirkadian dan Konsolidasi Memori Hipokampus TUMBUH, 2026.  
 [^5]: Dokumentasi Penerapan Concept-Based Infusion dan Penataan Jadwal PBIS TUMBUH, 2026.  
 [^6]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 40–70.  
-[^7]: Master Blueprint Integrasi Tematik Kurikulum Pesantren TUMBUH, 2026.  
+[^7]: Master Blueprint Integrasi Tematik Kurikulum Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Standar Alokasi Waktu Belajar dan Istirahat 24 Jam Ramah Kognisi TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Perancangan Modul Integratif Antar-Disiplin TUMBUH, 2026.  
 [^10]: Deklarasi Pemuliaan Integrasi Kurikulum Peradaban Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.

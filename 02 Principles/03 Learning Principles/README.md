@@ -9,7 +9,7 @@
 
 ## 🏛️ SITEMAP & NAVIGASI SELURUH BERKAS SUB-DOMAIN 03
 
-Sub-Domain `03 Learning Principles` menetapkan prinsip-prinsip ilmiah psikologi pendidikan, kognisi santri, tahfizh mutqin, metakognisi, didaktik interaktif, dan pembelajaran berdiferensiasi di kelas dan halaqah pesantren TUMBUH:
+Sub-Domain `03 Learning Principles` menetapkan prinsip-prinsip ilmiah psikologi pendidikan, kognisi santri, tahfizh mutqin, metakognisi, didaktik interaktif, dan pembelajaran berdiferensiasi di kelas dan halaqah ekosistem pesantren berbasis TUMBUH:
 
 ```mermaid
 graph TD

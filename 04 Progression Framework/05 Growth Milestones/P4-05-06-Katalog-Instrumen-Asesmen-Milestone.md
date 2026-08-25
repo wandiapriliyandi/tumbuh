@@ -1,5 +1,5 @@
 # P4-05-06: KATALOG INSTRUMEN ASESMEN MILESTONE DAN PROTOKOL OBSERVASI
-## *Monograf Riset Akademik: Kodifikasi Komprehensif Seluruh Instrumen Evaluasi Milestone Berkala & Gateway Transisi (Form SKA-F1, Form LMK-F2, Form SKE-F3, Form RKK-F4, Form BAK-Gateway, & Form DPR-CICO), Manual Panduan Penskoran Baku, Protokol Pengujian Reliabilitas Tes-Ulang (Test-Retest Reliability r >= 0.89), Serta Panduan Praktik Musyrif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Kodifikasi Komprehensif Seluruh Instrumen Evaluasi Milestone Berkala & Gateway Transisi (Form SKA-F1, Form LMK-F2, Form SKE-F3, Form RKK-F4, Form BAK-Gateway, & Form DPR-CICO), Manual Panduan Penskoran Baku, Protokol Pengujian Reliabilitas Tes-Ulang (Test-Retest Reliability r >= 0.89), Serta Panduan Praktik Musyrif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-05-06/MONOGRAF-RISET-KATALOG-INSTRUMEN-ASESMEN-MILESTONE/2026`  
 **Domain**: `04 Progression Framework` > `05 Growth Milestones` (Sub-Modul 06: *Milestone Assessment Instruments Catalogue*)  
@@ -241,7 +241,7 @@ Mengukur 30 indikator paripurna: integritas kepemimpinan OPPM, kualitas riset mu
 ```mermaid
 flowchart TD
     subgraph PBISInstrumenCatalog["PROTOKOL AKSI PBIS PENGGUNAAN INSTRUMEN"]
-        T1["TIER 1: DIGITAL LOGGING (24 JAM)<br/>• Input data real-time via aplikasi mobile Musyrif TUMBUH.<br/>• Rekapitulasi otomatis ke portofolio digital santri."]
+        T1["TIER 1: DIGITAL LOGGING (24 JAM)<br/>• Input data real-time via aplikasi mobile Musyrif dalam sistem TUMBUH.<br/>• Rekapitulasi otomatis ke portofolio digital santri."]
         
         T2["TIER 2: VERIFIKASI WALI ASRAMA<br/>• Validasi silang mingguan antara catatan musyrif dan wali kelas madrasah."]
         

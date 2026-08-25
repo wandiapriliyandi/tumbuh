@@ -1,6 +1,6 @@
 # 05 Shahihul Ibadah (Karakter 2: Ibadah yang Benar Sesuai Sunnah)
 
-Direktori ini memuat kerangka kapasitas menyeluruh untuk **Karakter 2: Shahihul Ibadah (Ibadah Mahdhah Presisi Sesuai Sunnah)** dalam ekosistem pesantren TUMBUH. Seluruh dokumen telah disusun dalam bentuk **Monograf Riset Akademik Model Hibrida Dialektis (Status Mutu: A+ Paripurna, S-CVI = 0.97)** yang memadukan khazanah Turats Fiqh Nabawi dengan sains modern (*Neurosains Attentional Control, CASEL Self-Management, SW-PBIS Multi-Tier, BARS 4-Level, MTMM Triangulasi 360°, dan Direct Instruction*).
+Direktori ini memuat kerangka kapasitas menyeluruh untuk **Karakter 2: Shahihul Ibadah (Ibadah Mahdhah Presisi Sesuai Sunnah)** dalam ekosistem pesantren berbasis sistem TUMBUH. Seluruh dokumen telah disusun dalam bentuk **Monograf Riset Akademik Model Hibrida Dialektis (Status Mutu: A+ Paripurna, S-CVI = 0.97)** yang memadukan khazanah Turats Fiqh Nabawi dengan sains modern (*Neurosains Attentional Control, CASEL Self-Management, SW-PBIS Multi-Tier, BARS 4-Level, MTMM Triangulasi 360°, dan Direct Instruction*).
 
 ---
 

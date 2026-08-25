@@ -259,7 +259,7 @@ Integrasi psiko-spiritual ini mengantarkan dunia pendidikan menuju era baru yang
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Struktur Diri Insani Pesantren TUMBUH, *Kritik atas Reduksionisme Otak dan Asketisme Ekstrem*, 2026.  
+[^1]: Riset Struktur Diri Insani Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Otak dan Asketisme Ekstrem*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Syarh 'Aja'ib al-Qalb*, hlm. 5–32.  
 [^3]: Fakhruddin Ar-Razi, *Kitab an-Nafs war-Ruh wa Syarh Quwahuma*, hlm. 45–78.  
 [^4]: Plato, *The Republic*, Book IV; Kritik Komparatif Antropologi Islam TUMBUH, 2026.  
@@ -272,8 +272,8 @@ Integrasi psiko-spiritual ini mengantarkan dunia pendidikan menuju era baru yang
 [^11]: Sapolsky, R. M. (2017), *Behave*, hlm. 130–165.  
 [^12]: Matriks Tingkatan Kesadaran Integrasi Diri (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^13]: Blueprint Jadwal Harian dan Protokol Koherensi Psiko-Spiritual Asrama TUMBUH, 2026.  
-[^14]: Standar Tata Kelola Kamar Tidur dan Sanitasi Ramah Biologis Santri TUMBUH, 2026.  
-[^15]: Kebijakan Nutrisi Otak dan Kebugaran Raga Pesantren TUMBUH, 2026.  
+[^14]: Standar Tata Kelola Kamar Tidur dan Sanitasi Ramah Biologis Santri dalam sistem TUMBUH, 2026.  
+[^15]: Kebijakan Nutrisi Otak dan Kebugaran Raga Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^16]: Deklarasi Harmonisasi Jiwa Raga Insan Dewan Riset Kesehatan & Epistemologi TUMBUH, 2026.
 
 ---
@@ -289,4 +289,4 @@ Integrasi psiko-spiritual ini mengantarkan dunia pendidikan menuju era baru yang
 7. **Prefrontal Cortex (Korteks Prefrontal)**: Bagian otak depan yang bertanggung jawab atas fungsi eksekutif, nalar kritis, pengendalian diri, dan pertimbangan moral.
 8. **Thuma'ninah (الطُّمَأْنِينَةُ)**: Keadaan batin yang tenang, damai, dan tenteram yang lahir dari kedekatan dzikir kepada Allah dan keteraturan hidup yang beradab.
 9. **Tafrith As-Salibi**: Sikap asketisme ekstrem yang memusuhi dan menyiksa hak-hak biologis raga jasmani tanpa landasan syariat.
-10. **The Daily Coherence Protocol**: Jadwal baku 24 jam di pesantren TUMBUH yang membagi secara adil waktu pemenuhan nutrisi ruh, akal, jiwa afeksi, dan raga biologis santri.
+10. **The Daily Coherence Protocol**: Jadwal baku 24 jam dalam sistem TUMBUH di pesantren yang membagi secara adil waktu pemenuhan nutrisi ruh, akal, jiwa afeksi, dan raga biologis santri.

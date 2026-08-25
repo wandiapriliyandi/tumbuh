@@ -85,7 +85,7 @@ graph LR
 
 ---
 
-### Matriks Pemantauan Perkembangan Karakter Santri TUMBUH
+### Matriks Pemantauan Perkembangan Karakter Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian[^2] (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
 

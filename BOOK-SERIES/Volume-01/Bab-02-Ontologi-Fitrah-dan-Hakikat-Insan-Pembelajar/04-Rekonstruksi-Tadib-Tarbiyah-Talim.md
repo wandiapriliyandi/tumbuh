@@ -66,7 +66,7 @@ Al-Attas mendefinisikan **Adab** sebagai:
 
 ---
 
-### Integrasi Praktis Tiga Pilar dalam Keseharian Santri TUMBUH
+### Integrasi Praktis Tiga Pilar dalam Keseharian Santri dalam sistem TUMBUH
 
 Bagaimana Sistem TUMBUH mengoperasionalkan integrasi *Ta'lim*, *Tarbiyah*, dan *Ta'dib* ke dalam kurikulum asrama 24 jam?
 

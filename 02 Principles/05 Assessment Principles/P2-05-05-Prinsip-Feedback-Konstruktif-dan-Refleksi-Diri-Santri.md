@@ -28,7 +28,7 @@
   - [4. Rekayasa Dialog Asesmen Empat Mata yang Menumbuhkan Kesadaran & Pengharaman Papan Kalung Aib](#4-rekayasa-dialog-asesmen-empat-mata-yang-menumbuhkan-kesadaran--pengharaman-papan-kalung-aib)
   - [5. Kasuistika Lapangan: Transformasi Santri Divonis Bandel Menjadi Santri Mandiri Melalui Dialog Empat Mata](#5-kasuistika-lapangan-transformasi-santri-divonis-bandel-menjadi-santri-mandiri-melalui-dialog-empat-mata)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-feedback-konstruktif--dialog-asesmen-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Feedback Konstruktif & Dialog Asesmen Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-feedback-konstruktif--dialog-asesmen-pesantren-tumbuh)
   - [2. Matriks Empat Tingkatan Feedback: Task Level, Process Level, Self-Regulation Level, & Spiritually-Anchored Level](#2-matriks-empat-tingkatan-feedback-task-level-process-level-self-regulation-level--spiritually-anchored-level)
   - [3. Standar Prosedur Operasional (SOP) Sesi Dialog Asesmen Reflektif Dwi-Mingguan Musyrif-Santri](#3-standar-prosedur-operasional-sop-sesi-dialog-asesmen-reflektif-dwi-mingguan-musyrif-santri)
   - [4. Protokol Refleksi Diri & Jurnal Muhasabah Malam Harian (Daily Muhasabah Protocol)](#4-protokol-refleksi-diri--jurnal-muhasabah-malam-harian-daily-muhasabah-protocol)
@@ -113,7 +113,7 @@ TUMBUH memberlakukan kebijakan perlindungan martabat pembelajar:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Feedback Konstruktif & Dialog Asesmen Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Feedback Konstruktif & Dialog Asesmen Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan umpan balik ke dalam **Arsitektur Tiga Sayap Dialog Asesmen Reflektif (*Arkan at-Taqyim al-Hiwariy*)**:
 
@@ -140,7 +140,7 @@ flowchart TD
 
 ### 2. Matriks Empat Tingkatan Feedback: Task Level, Process Level, Self-Regulation Level, & Spiritually-Anchored Level
 
-| Tingkatan Feedback | Fokus Ranah Pembinaan | Contoh Narasi Umpan Balik Musyrif TUMBUH |
+| Tingkatan Feedback | Fokus Ranah Pembinaan | Contoh Narasi Umpan Balik Musyrif dalam sistem TUMBUH |
 | :--- | :--- | :--- |
 | **1. Task Level (Tugas)** | Kebenaran unjuk kerja spesifik.| *"Kerapian tempat tidur antum sudah sesuai standar 5S pagi ini."*|
 | **2. Process Level (Proses)**| Strategi yang digunakan santri.| *"Cara antum membagi waktu hafalan ba'da Ashar sangat efektif."*|
@@ -192,7 +192,7 @@ Prinsip feedback konstruktif dan dialog asesmen ini membawa implikasi agung bagi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-05-05: PRINSIP FEEDBACK KONSTRUKTIF, DIALOG ASESMEN, DAN MUHASABAH DIRI SANTRI (CONSTRUCTIVE FEEDBACK & REFLECTIVE DIALOGUE)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-05-05: PRINSIP FEEDBACK KONSTRUKTIF, DIALOG ASESMEN, DAN MUHASABAH DIRI SANTRI (CONSTRUCTIVE FEEDBACK & REFLECTIVE DIALOGUE)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -267,9 +267,9 @@ flowchart TD
 [^5]: Deklarasi Pengharaman Mutlak Public Shaming dan Papan Kalung Aib PBIS TUMBUH, 2026.  
 [^6]: Dokumentasi Penerapan Dialog Asesmen Tiga Tahap dan Transformasi Santri PBIS TUMBUH, 2026.  
 [^7]: Master Blueprint Model Umpan Balik 3F (Feed-Up, Back, Forward) TUMBUH, 2026.  
-[^8]: Standar Operasional Prosedur Dialog Asesmen Dwi-Mingguan Musyrif-Santri TUMBUH, 2026.  
-[^9]: Petunjuk Teknis Protokol Jurnal Muhasabah Malam Harian Santri TUMBUH, 2026.  
-[^10]: Master Guidelines Sesi Refleksi Diri dan Pembinaan Muraqabatullah Santri TUMBUH, 2026.  
+[^8]: Standar Operasional Prosedur Dialog Asesmen Dwi-Mingguan Musyrif-Santri dalam sistem TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Protokol Jurnal Muhasabah Malam Harian Santri dalam sistem TUMBUH, 2026.  
+[^10]: Master Guidelines Sesi Refleksi Diri dan Pembinaan Muraqabatullah Santri dalam sistem TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Dialog Asesmen Penuh Rahmah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---
@@ -282,7 +282,7 @@ flowchart TD
 4. **Feed-Up**: Komponen umpan balik yang memperjelas tujuan dan standar capaian adab yang ingin diraih oleh santri.
 5. **Feed-Back**: Komponen umpan balik yang menguraikan posisi performa santri saat ini berdasarkan data faktual.
 6. **Feed-Forward**: Komponen umpan balik yang memandu langkah-langkah konkret yang harus diambil santri untuk mencapai kemajuan di masa depan.
-7. **Public Shaming**: Praktik mempermalukan santri di hadapan publik yang diharamkan mutlak dalam tata kelola pesantren TUMBUH.
+7. **Public Shaming**: Praktik mempermalukan santri di hadapan publik yang diharamkan mutlak dalam tata kelola pesantren berbasis sistem TUMBUH.
 8. **Toxic Shame**: Kondisi psikologis luka batin mendalam di mana individu merasa dirinya cacat dan tidak berharga akibat dipermalukan secara terbuka.
 9. **Daily Muhasabah Protocol**: Rutinitas harian santri selama 10 menit sebelum tidur untuk mengevaluasi niat, amal shalih, dan memohon ampunan kepada Allah SWT.
 10. **Insan Adabi (الإِنْسَانُ الأَدَبِيُّ)**: Profil santri yang lapang dada menerima masukan, terbiasa mengevaluasi diri sendiri secara jujur, dan senantiasa bertumbuh dalam keluhuran budi pekerti.

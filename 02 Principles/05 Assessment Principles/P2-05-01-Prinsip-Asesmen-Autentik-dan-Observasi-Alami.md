@@ -28,7 +28,7 @@
   - [4. Rekayasa Tiga Lokus Pengamatan Alami di Pesantren 24 Jam & Eliminasi Hawthorne Effect Tanpa Tajassus](#4-rekayasa-tiga-lokus-pengamatan-alami-di-pesantren-24-jam--eliminasi-hawthorne-effect-tanpa-tajassus)
   - [5. Kasuistika Lapangan: Evaluasi Autentik Kejujuran dan Tanggung Jawab Santri di Kantin Kejujuran](#5-kasuistika-lapangan-evaluasi-autentik-kejujuran-dan-tanggung-jawab-santri-di-kantin-kejujuran)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Asesmen Autentik dan Observasi Alami Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-asesmen-autentik-dan-observasi-alami-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Asesmen Autentik dan Observasi Alami Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-asesmen-autentik-dan-observasi-alami-pesantren-tumbuh)
   - [2. Matriks Observasi Tiga Lokus Kehidupan Asrama 24 Jam & Indikator Adab Nyata](#2-matriks-observasi-tiga-lokus-kehidupan-asrama-24-jam--indikator-adab-nyata)
   - [3. Protokol Observasi Alami Beretika Bebas Intimidasi (Ethical In-Vivo Observation Protocol)](#3-protokol-observasi-alami-beretika-bebas-intimidasi-ethical-in-vivo-observation-protocol)
   - [4. Alur Integrasi Observasi Lapangan ke dalam Logbook Digital PBIS Harian](#4-alur-integrasi-observasi-lapangan-ke-dalam-logbook-digital-pbis-harian)
@@ -111,7 +111,7 @@ TUMBUH membagi pengamatan perilaku ke dalam 3 lokus terstruktur:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Asesmen Autentik dan Observasi Alami Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Asesmen Autentik dan Observasi Alami Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan evaluasi karakter ke dalam **Arsitektur Tiga Sayap Asesmen Autentik (*Arkan at-Taqwim al-Ashil*)**:
 
@@ -186,7 +186,7 @@ Prinsip asesmen autentik dan observasi alami ini membawa implikasi agung bagi pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-05-01: PRINSIP ASESMEN AUTENTIK DAN OBSERVASI ALAMI (AUTHENTIC ASSESSMENT & NATURALISTIC OBSERVATION)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-05-01: PRINSIP ASESMEN AUTENTIK DAN OBSERVASI ALAMI (AUTHENTIC ASSESSMENT & NATURALISTIC OBSERVATION)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -262,8 +262,8 @@ flowchart TD
 [^6]: Dokumentasi Evaluasi Autentik Kantin Kejujuran Mandiri PBIS TUMBUH, 2026.  
 [^7]: Master Blueprint Tiga Lokus Observasi Perilaku Asrama 24 Jam TUMBUH, 2026.  
 [^8]: Standar Operasional Prosedur Observasi Alami Beretika Bebas Intimidasi TUMBUH, 2026.  
-[^9]: Petunjuk Teknis Alur Pencatatan Logbook Digital PBIS Musyrif TUMBUH, 2026.  
-[^10]: Master Guidelines Perlindungan Privasi Satrul 'Aurah dan Kerahasiaan Data Santri TUMBUH, 2026.  
+[^9]: Petunjuk Teknis Alur Pencatatan Logbook Digital PBIS Musyrif dalam sistem TUMBUH, 2026.  
+[^10]: Master Guidelines Perlindungan Privasi Satrul 'Aurah dan Kerahasiaan Data Santri dalam sistem TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Asesmen Karakter Autentik Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

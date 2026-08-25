@@ -1,5 +1,5 @@
 # P6-03-01: MATRIKS ESKALASI PENANGANAN KASUS PERILAKU
-## *Monograf Riset Akademik: Standarisasi Taksonomi Keparahan Pelanggaran Adab dan Matriks Alur Eskalasi Penanganan Kasus (Behavioral Incident Severity Matrix & Decision Escalation Protocol / Form MEP-Eskalasi), Integrasi Doktrin 'Marātibul Inkar wal 'Uqūbah bi Qadril Jināyah' Turats Klasik dengan PBIS Office-Managed vs Staff-Managed Behaviors, Restorative Escalation, Serta Tata Kelola Kasus di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Taksonomi Keparahan Pelanggaran Adab dan Matriks Alur Eskalasi Penanganan Kasus (Behavioral Incident Severity Matrix & Decision Escalation Protocol / Form MEP-Eskalasi), Integrasi Doktrin 'Marātibul Inkar wal 'Uqūbah bi Qadril Jināyah' Turats Klasik dengan PBIS Office-Managed vs Staff-Managed Behaviors, Restorative Escalation, Serta Tata Kelola Kasus di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-03-01/MONOGRAF-RISET-MATRIKS-ESKALASI-KASUS/2026`  
 **Domain**: `06 Intervention Framework` > `03 Decision Rules` (Sub-Modul 01: *Behavioral Incident Severity Matrix & Decision Escalation Protocol*)  
@@ -216,7 +216,7 @@ Penerapan matriks eskalasi kasus Form MEP ini menghadirkan keunggulan peradaban:
 
 1. **Mewujudkan Keadilan Prosedural yang Pasti dan Transparan (*Procedural Justice*)**: Santri dan wali santri memahami secara jernih setiap alur dan konsekuensi tindakan tanpa rasa cemas atas perlakuan zalim.
 2. **Mengoptimalkan Fokus dan Waktu Kepemimpinan Pesantren (*Executive Time Protection*)**: Pimpinan tidak lagi disibukkan oleh ratusan kasus sepele dan dapat mencurahkan energinya untuk pengembangan strategis umat.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Marātibul Inkār dan PBIS Decision Rules**: Menjadikan pesantren TUMBUH sebagai institusi pendidikan Islam dengan sistem tata kelola peradilan asrama paling tertib di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Marātibul Inkār dan PBIS Decision Rules**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan sistem tata kelola peradilan asrama paling tertib di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan matriks eskalasi kasus Form MEP ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-03-01: MATRIKS ESKALASI PENANGANAN KASUS PERILAKU** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-03-01: MATRIKS ESKALASI PENANGANAN KASUS PERILAKU** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Konsep Staff-Managed versus Office-Managed Behaviors dalam sistem pengambilan keputusan PBIS, Sugai & Horner (2002, hlm. 34 & 2020, hlm. 206).  
 [^2]: Teori Keadilan Prosedural Tom Tyler mengenai pentingnya transparansi dan konsistensi proses penegakan hukum, Tyler (2006, hlm. 48).  
 [^3]: Ibnu Taimiyyah, *Al-Amru bil Ma'ruf wan Nahyu 'anil Munkar* (1998, hlm. 32), bab kaidah penahapan pengingkaran kemungkaran dan larangan bertindak berlebihan.  
-[^4]: Protokol penanganan insiden level 1 di tempat berbasis Restorative Chat Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan matriks eskalasi penanganan kasus perilaku di Pesantren TUMBUH (2026).  
+[^4]: Protokol penanganan insiden level 1 di tempat berbasis Restorative Chat Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan matriks eskalasi penanganan kasus perilaku di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

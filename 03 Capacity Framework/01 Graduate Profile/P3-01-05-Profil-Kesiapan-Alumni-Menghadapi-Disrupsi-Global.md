@@ -29,7 +29,7 @@
   - [4. Literasi Digital Syar'i (Digital Wisdom) & Mitigasi Krisis Dekadensi Era Algoritma](#4literasi-digital-syari-digital-wisdom-mitigasi-krisis-dekadensi-era-algoritma)
   - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Profil 4 Dimensi Kesiapan Global Alumni Pesantren TUMBUH](#1-formulasi-konseptual-profil-4-dimensi-kesiapan-global-alumni-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Profil 4 Dimensi Kesiapan Global Alumni Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-profil-4-dimensi-kesiapan-global-alumni-pesantren-tumbuh)
   - [2. Matriks Kompetensi Abad 21 Terintegrasi 10 Karakter Muwashafat](#2-matriks-kompetensi-abad-21-terintegrasi-10-karakter-muwashafat)
   - [3. Peta Jalan Kurikulum Penguatan Kesiapan Global di Asrama Jenjang J3 & T4](#3-peta-jalan-kurikulum-penguatan-kesiapan-global-di-asrama-tangga-t3--t4)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -49,7 +49,7 @@
 Dunia pendidikan menghadapi gelombang disrupsi kecerdasan buatan (*Generative AI*), otomatisasi industri, dan krisis disinformasi global:
 * Sebagian institusi pesantren meresponsnya dengan **Sikap Isolasionis Ekstrem**: melarang total interaksi santri dengan teknologi modern sehingga lulusan gagap menghadapi realitas dunia kerja dan tidak mampu mewarnai peradaban.
 * Sebagian lainnya terjebak pada **Modernisme Sekuler**: mengadopsi teknologi tanpa filter moral (*akhlaqul karimah*), sehingga melahirkan generasi yang cerdas digital namun rapuh spiritual dan mudah terombang-ambing nihilisme moral.
-* Riset ini merumuskan jalan tengah integratif: **Profil Alumni TUMBUH sebagai Ulama-Intelek Berwawasan Global (*Global Muslim Scholars*)** yang mengakar kuat pada Turats dan unggul menavigasi disrupsi zaman.[^1]
+* Riset ini merumuskan jalan tengah integratif: **Profil Alumni binaan sistem TUMBUH sebagai Ulama-Intelek Berwawasan Global (*Global Muslim Scholars*)** yang mengakar kuat pada Turats dan unggul menavigasi disrupsi zaman.[^1]
 
 ```mermaid
 flowchart TD
@@ -138,7 +138,7 @@ flowchart TD
 
 > #### 📌 Kasuistika Lapangan & Titik Temu Konsensus
 > * **Studi Kasus**: Alumni pesantren X melanjutkan studi S1 di universitas luar negeri di Eropa. Ia mengalami kejutan budaya (*culture shock*), merasa terasing, dan sempat meragukan akidahnya karena tidak pernah dibekali nalar kritis dialektis menghadapi ateisme modern.
-> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Pesantren TUMBUH mengintegrasikan Program Pra-Alumni di Jenjang J4: Membedah isu pemikiran kontemporer secara mantiq $\rightarrow$ Pelatihan diplomasi bahasa asing $\rightarrow$ Simulasi forum debat akademis internasional. Hasilnya: Alumni TUMBUH menjadi presiden persatuan mahasiswa muslim di luar negeri yang berprestasi gemilang dan teguh memegang prinsip syariat.[^7]
+> * **Titik Temu Konsensus (*Kalimatun Sawa'*)**: Sistem TUMBUH mengintegrasikan Program Pra-Alumni di Jenjang J4: Membedah isu pemikiran kontemporer secara mantiq $\rightarrow$ Pelatihan diplomasi bahasa asing $\rightarrow$ Simulasi forum debat akademis internasional. Hasilnya: Alumni binaan sistem TUMBUH menjadi presiden persatuan mahasiswa muslim di luar negeri yang berprestasi gemilang dan teguh memegang prinsip syariat.[^7]
 
 ---
 
@@ -146,7 +146,7 @@ flowchart TD
 
 ---
 
-### 1. Formulasi Konseptual: Profil 4 Dimensi Kesiapan Global Alumni Pesantren TUMBUH
+### 1. Formulasi Konseptual: Profil 4 Dimensi Kesiapan Global Alumni Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif kecakapan abad ke-21, riset ini merumuskan kerangka konseptual empat pilar profil kesiapan global alumni pesantren sebagai berikut:
 
@@ -166,7 +166,7 @@ Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis 
 
 ### 2. Matriks Kompetensi Abad 21 Terintegrasi 10 Karakter Muwashafat
 
-| Kecakapan Abad 21 (WEF) | Karakter Muwashafat Padanan | Standar Capaian Alumni TUMBUH | Contoh Manifestasi di Masyarakat |
+| Kecakapan Abad 21 (WEF) | Karakter Muwashafat Padanan | Standar Capaian Alumni binaan sistem TUMBUH | Contoh Manifestasi di Masyarakat |
 | :--- | :--- | :--- | :--- |
 | **1. Complex Problem Solving** | *Mutsaqqaful Fikr & Mujahadah* | Mampu membedah konflik sosial dan merumuskan solusi berbasis syariat dan sains. | Menjadi mediator perdamaian dan konselor keluarga di masyarakat.[^8] |
 | **2. Critical Thinking (Mantiq)** | *Salimul Aqidah & Nalar Mantiq* | Mampu mengkritisi pemikiran sesat, hoaks, dan nihilisme modern secara ilmiah. | Menulis artikel jurnal dan buku bantahan syubhat pemikiran. |
@@ -195,7 +195,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-05: PROFIL KESIAPAN ALUMNI MENGHADAPI DISRUPSI GLOBAL DAN KECAKAPAN ABAD 21** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-05: PROFIL KESIAPAN ALUMNI MENGHADAPI DISRUPSI GLOBAL DAN KECAKAPAN ABAD 21** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -266,7 +266,7 @@ flowchart TD
 [^4]: Shahih al-Bukhari, Kitab *al-Ahkam*, Bab *Tarjamatul Hukkam*; kisah Zaid bin Tsabit RA.  
 [^5]: Ibnu Hajar Al-Asqalani, *Fathul Bari Syarh Shahih al-Bukhari*, jilid 4, hlm. 290–305.  
 [^6]: Duckworth, A. (2016), *Grit: The Power of Passion and Perseverance*, Scribner.  
-[^7]: Laporan Tracer Study dan Kesiapan Alumni Pesantren TUMBUH di Perguruan Tinggi, 2026.  
+[^7]: Laporan Tracer Study dan Kesiapan Alumni Ekosistem Pesantren Berbasis TUMBUH di Perguruan Tinggi, 2026.  
 [^8]: Trilling, B., & Fadel, C. (2009), *21st Century Skills*, Wiley, hlm. 45–90.  
 [^9]: Panduan Praktik Khidmah Sosial Santri Jenjang J4, Biro Alumni dan Dakwah TUMBUH, 2026.
 

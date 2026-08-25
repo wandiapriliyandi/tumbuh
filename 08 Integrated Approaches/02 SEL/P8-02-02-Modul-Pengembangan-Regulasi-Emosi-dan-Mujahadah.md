@@ -1,5 +1,5 @@
 # P8-02-02: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH
-## *Monograf Riset Akademik: Standarisasi Modul Psikoedukasi Regulasi Emosi Remaja Pesantren, Protokol De-eskalasi Somato-Spiritual Berbasis Sunnah Nabawiyyah, dan Rekayasa Calming Corner Asrama (Adolescent Emotional Regulation Psychoeducation, Sunnah-Based Somatosensory De-escalation Protocol, & Dormitory Calming Corner Engineering / Form SEL-RegulasiEmosi), Integrasi Doktrin 'Mujāhadatun Nafs wa Kashmi al-Ghaizh' Turats Klasik dengan Polyvagal Theory Porges, Gross Process Model of Emotion Regulation, Serta Neurosains Perkembangan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Modul Psikoedukasi Regulasi Emosi Remaja Pesantren, Protokol De-eskalasi Somato-Spiritual Berbasis Sunnah Nabawiyyah, dan Rekayasa Calming Corner Asrama (Adolescent Emotional Regulation Psychoeducation, Sunnah-Based Somatosensory De-escalation Protocol, & Dormitory Calming Corner Engineering / Form SEL-RegulasiEmosi), Integrasi Doktrin 'Mujāhadatun Nafs wa Kashmi al-Ghaizh' Turats Klasik dengan Polyvagal Theory Porges, Gross Process Model of Emotion Regulation, Serta Neurosains Perkembangan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-02-02/MONOGRAF-RISET-REGULASI-EMOSI-MUJAHADAH/2026`  
 **Domain**: `08 Integrated Approaches` > `02 SEL` (Sub-Modul 02: *Adolescent Emotion Regulation & Mujahadatun Nafs*)  
@@ -107,7 +107,7 @@ Model regulasi emosi terpadu yang memadukan tradisi Sunnah Nabawi dengan neurosa
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-02-02: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-02-02: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Gross mengenai Process Model of Emotion Regulation dan perbedaan antara reappraisal kognitif vs supresi ekspresif, Gross (2015, hlm. 3).
 [^2]: Stephen Porges mengenai Polyvagal Theory dan mekanisme aktivasi sistem saraf parasimpatis dalam pemulihan regulasi fisiologis, Porges (2011, hlm. 51).
-[^3]: Studi kasus penerapan Calming Corner dan protokol de-eskalasi Nabawi meredakan potensi perkelahian Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Calming Corner dan protokol de-eskalasi Nabawi meredakan potensi perkelahian Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Bukti empiris pemangkasan durasi disregulasi emosi santri melalui kombinasi hidroterapi wudhu dan pernapasan terkontrol (2026).

@@ -1,5 +1,5 @@
 # P7-10-01: METODOLOGI PERIODIC PROGRAM EVALUATION (PPE)
-## *Monograf Riset Akademik: Standarisasi Metodologi Evaluasi Program Berkala (Periodic Program Evaluation / PPE), Desain Mixed-Methods Pengukuran Dampak Pengasuhan Semesteran, dan Matriks Efektivitas Intervensi Multi-Tier (Periodic Program Evaluation Methodology, Mixed-Methods Impact Assessment, & Multi-Tier Intervention Efficacy Matrix / Form PPE-Evaluasi), Integrasi Doktrin 'Al-Muhāsabah ad-Dawriyyah wal I'tibār bil-Atsar' Turats Klasik dengan Rossi Program Evaluation Theory, PBIS Evaluation Blueprint, Serta Akuntabilitas Kelembagaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Evaluasi Program Berkala (Periodic Program Evaluation / PPE), Desain Mixed-Methods Pengukuran Dampak Pengasuhan Semesteran, dan Matriks Efektivitas Intervensi Multi-Tier (Periodic Program Evaluation Methodology, Mixed-Methods Impact Assessment, & Multi-Tier Intervention Efficacy Matrix / Form PPE-Evaluasi), Integrasi Doktrin 'Al-Muhāsabah ad-Dawriyyah wal I'tibār bil-Atsar' Turats Klasik dengan Rossi Program Evaluation Theory, PBIS Evaluation Blueprint, Serta Akuntabilitas Kelembagaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-10-01/MONOGRAF-RISET-EVALUASI-PROGRAM-PPE/2026`  
 **Domain**: `07 Implementation Framework` > `10 Evaluation` (Sub-Modul 01: *Periodic Program Evaluation Methodology & Impact Assessment*)  
@@ -100,7 +100,7 @@ Penerapan *Periodic Program Evaluation* berbasis metodologi Rossi secara konsist
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-10-01: METODOLOGI PERIODIC PROGRAM EVALUATION (PPE)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-10-01: METODOLOGI PERIODIC PROGRAM EVALUATION (PPE)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -153,5 +153,5 @@ flowchart TD
 
 [^1]: Rossi et al. mengenai lima tingkatan evaluasi program komprehensif dalam organisasi sosial-pendidikan, Rossi et al. (2004, hlm. 16).
 [^2]: Panduan implementasi PBIS Evaluation Blueprint untuk evaluasi berkelanjutan sistem perilaku sekolah, Horner et al. (2010, hlm. 8).
-[^3]: Studi kasus PPE mendeteksi inefektivitas jam belajar mandiri dan menghasilkan revisi SOP Pesantren TUMBUH (2026).
+[^3]: Studi kasus PPE mendeteksi inefektivitas jam belajar mandiri dan menghasilkan revisi SOP Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Pengukuran effect size pertumbuhan karakter santri menggunakan analisis kuantitatif pra-pasca semester (2026).

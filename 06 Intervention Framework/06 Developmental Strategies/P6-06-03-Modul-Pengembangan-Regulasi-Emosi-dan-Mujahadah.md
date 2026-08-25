@@ -1,5 +1,5 @@
 # P6-06-03: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH
-## *Monograf Riset Akademik: Standarisasi Protokol Pengendalian Amarah, Keterampilan Regulasi Sistem Saraf Vagal, dan Terapi Desensitisasi Dorongan Hawa Nafsu (Emotion Regulation Protocol, Vagal Stabilization, & Mujāhadatun Nafs Cultivation / Form REM-Regulasi), Integrasi Doktrin 'Kadh-mul Ghaizh wal Isti'ādzah minasy Syaithān' Turats Klasik dengan Gross' Emotion Regulation Process Model, Somatic Grounding, Serta Ketenangan Batin di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Pengendalian Amarah, Keterampilan Regulasi Sistem Saraf Vagal, dan Terapi Desensitisasi Dorongan Hawa Nafsu (Emotion Regulation Protocol, Vagal Stabilization, & Mujāhadatun Nafs Cultivation / Form REM-Regulasi), Integrasi Doktrin 'Kadh-mul Ghaizh wal Isti'ādzah minasy Syaithān' Turats Klasik dengan Gross' Emotion Regulation Process Model, Somatic Grounding, Serta Ketenangan Batin di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-06-03/MONOGRAF-RISET-REGULASI-EMOSI-MUJAHADAH/2026`  
 **Domain**: `06 Intervention Framework` > `06 Developmental Strategies` (Sub-Modul 03: *Emotion Regulation Protocols & Mujāhadatun Nafs Cultivation*)  
@@ -216,7 +216,7 @@ Penerapan modul regulasi emosi Form REM ini menghadirkan keunggulan peradaban:
 
 1. **Mencetak Generasi Pendekar Sejati yang Berjiwa Tenang (*True Emotional Warriors*)**: Santri menguasai seni menaklukkan hawa nafsu dan amarah diri di bawah bimbingan wahyu dan sains.
 2. **Melenyapkan Kekerasan Fisik dan Verbal di Asrama Secara Permanen (*Zero Assault Climate*)**: Menghilangkan insiden perkelahian antar-santri dari akar biologisnya.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Kadh-mul Ghaizh dan Gross' Emotion Regulation Process Model**: Mengukuhkan pesantren TUMBUH sebagai pusat pembinaan kecerdasan emosional Islam paling terdepan di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Kadh-mul Ghaizh dan Gross' Emotion Regulation Process Model**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai pusat pembinaan kecerdasan emosional Islam paling terdepan di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan modul regulasi emosi Form REM ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-06-03: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-06-03: MODUL PENGEMBANGAN REGULASI EMOSI DAN MUJAHADAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -293,8 +293,8 @@ flowchart TD
 [^1]: Teori Process Model of Emotion Regulation James Gross dalam mekanisme penataan emosi adaptif, Gross (1998, hlm. 275 & 2015, hlm. 3).  
 [^2]: Dampak Cognitive Reappraisal versus Expressive Suppression terhadap kesehatan kardiovaskular dan hubungan sosial, Gross (2002, hlm. 284).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 142), bab terapi pengobatan amarah melalui ilmu, ta'awwudz, perubahan posisi tubuh, dan wudhu air dingin.  
-[^4]: Protokol 5 langkah redam amarah mandiri dan de-eskalasi somatik Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan modul pengembangan regulasi emosi dan mujahadah di Pesantren TUMBUH (2026).  
+[^4]: Protokol 5 langkah redam amarah mandiri dan de-eskalasi somatik Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan modul pengembangan regulasi emosi dan mujahadah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

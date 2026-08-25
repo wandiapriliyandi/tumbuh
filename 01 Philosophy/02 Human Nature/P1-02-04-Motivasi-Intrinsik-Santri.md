@@ -251,7 +251,7 @@ Internalisasi motivasi muraqabah membawa perubahan revolusioner bagi karakter pe
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Motivasi Intrinsik dan Disiplin Muraqabah Pesantren TUMBUH, *Kritik atas Kepatuhan Semu Panoptikon*, 2026.  
+[^1]: Riset Motivasi Intrinsik dan Disiplin Muraqabah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Kepatuhan Semu Panoptikon*, 2026.  
 [^2]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 8.  
 [^3]: Al-Qusyairi, *Ar-Risalah al-Qusyairiyyah*, hlm. 180–210.  
 [^4]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268; Ryan, R. M., & Deci, E. L. (2017), *Self-Determination Theory*, hlm. 50–95.  
@@ -264,7 +264,7 @@ Internalisasi motivasi muraqabah membawa perubahan revolusioner bagi karakter pe
 [^11]: Matriks Tingkatan Kesadaran Motivasi Intrinsik (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^12]: Standar Operasional Prosedur Lingkaran Muhasabah Hening Malam Asrama TUMBUH, 2026.  
 [^13]: Kaidah Fiqh Perlindungan Aib Pribadi (*Sutrah*); Riset Etika Konseling TUMBUH, 2026.  
-[^14]: Petunjuk Teknis Manajemen Asrama Berbasis Otonomi Terarah Santri TUMBUH, 2026.  
+[^14]: Petunjuk Teknis Manajemen Asrama Berbasis Otonomi Terarah Santri dalam sistem TUMBUH, 2026.  
 [^15]: Deklarasi Integritas Muraqabah dan Anti-Korupsi Dewan Riset Ekosistem TUMBUH, 2026.
 
 ---

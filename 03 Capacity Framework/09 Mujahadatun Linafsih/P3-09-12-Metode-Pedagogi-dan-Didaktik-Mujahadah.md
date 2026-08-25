@@ -129,7 +129,7 @@ flowchart TD
 #### Studi Kasus Lapangan: Musyrif Asrama Terpancing Emosi dan Memukul Santri yang Melanggar Aturan
 * **Konteks Masalah**: Ustadz H (musyrif muda) sangat lelah setelah bertugas seharian. Saat mendapati santri J2 belum tidur pada pukul 23.30 dan membantah saat ditegur, Ustadz H meledak emosinya dan menampar santri tersebut (*Ego-Depleted Anger Outburst*).
 * **Analisis Diagnostik**: Ustadz H mengalami *Caregiver Burnout* dan ketiadaan keterampilan regulasi emosi mandiri (*Lack of Musyrif Emotional Regulation*).
-* **Protokol Pemulihan & Pelatihan Master Musyrif TUMBUH**:
+* **Protokol Pemulihan & Pelatihan Master Musyrif dalam sistem TUMBUH**:
 
 ```mermaid
 flowchart TD
@@ -210,7 +210,7 @@ Penerapan empat model didaktik ini menghasilkan transformasi mendasar:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-09-12: METODE PEDAGOGI DAN DIDAKTIK MUJAHADATUN LINAFSIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-09-12: METODE PEDAGOGI DAN DIDAKTIK MUJAHADATUN LINAFSIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

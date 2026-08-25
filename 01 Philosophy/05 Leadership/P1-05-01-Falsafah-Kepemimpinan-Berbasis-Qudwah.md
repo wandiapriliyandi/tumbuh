@@ -248,7 +248,7 @@ Kepemimpinan berbasis *Qudwah* ini menjadi kunci utama kebangkitan peradaban Isl
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Kepemimpinan Berbasis Qudwah dan Integritas Pendidik Pesantren TUMBUH, *Kritik atas Kepemimpinan Retorika dan Kemunafikan Moral*, 2026.  
+[^1]: Riset Kepemimpinan Berbasis Qudwah dan Integritas Pendidik Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Kepemimpinan Retorika dan Kemunafikan Moral*, 2026.  
 [^2]: QS. Al-Ahzab [33]: 21.  
 [^3]: QS. Ash-Shaff [61]: 2–3.  
 [^4]: *Shahih Muslim*, Kitab Shalat al-Musafirin wa Qashruha, Hadits No. 746.  
@@ -259,7 +259,7 @@ Kepemimpinan berbasis *Qudwah* ini menjadi kunci utama kebangkitan peradaban Isl
 [^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 38–65.  
 [^10]: Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 30–65.  
 [^11]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 195–230.  
-[^12]: Riset Tata Kelola Integritas Pendidik Pesantren TUMBUH, 2026.  
+[^12]: Riset Tata Kelola Integritas Pendidik Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^13]: Matriks Tingkatan Kesadaran Kepemimpinan Qudwah (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^14]: Standar Operasional Prosedur Daily Qudwah Self-Audit Pendidik TUMBUH, 2026.  
 [^15]: Deklarasi Pemuliaan Kepemimpinan Qudwah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.

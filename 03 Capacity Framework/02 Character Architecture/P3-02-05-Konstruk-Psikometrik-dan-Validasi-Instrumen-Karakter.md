@@ -200,7 +200,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-02-05: KONSTRUK PSIKOMETRIK, VALIDITAS ISI AIKEN'S V, DAN RELIABILITAS INTER-RATER INSTRUMEN KARAKTER** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-02-05: KONSTRUK PSIKOMETRIK, VALIDITAS ISI AIKEN'S V, DAN RELIABILITAS INTER-RATER INSTRUMEN KARAKTER** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -271,7 +271,7 @@ flowchart TD
 [^4]: Cohen, J. (1960), *A Coefficient of Agreement for Nominal Scales*, hlm. 37–46.  
 [^5]: Fleiss, J. L. (1971), *Psychological Bulletin*, hlm. 378–382.  
 [^6]: AERA, APA, NCME (2014), *Standards for Educational and Psychological Testing*, AERA.  
-[^7]: Laporan Hasil Uji Psikometrik Instrumen Karakter Pesantren TUMBUH, Pusat Data Asesmen, 2026.  
+[^7]: Laporan Hasil Uji Psikometrik Instrumen Karakter Ekosistem Pesantren Berbasis TUMBUH, Pusat Data Asesmen, 2026.  
 [^8]: Notulensi Panel Expert Judgment Validasi Butir BARS TUMBUH, 2026.  
 [^9]: Matriks Hasil Uji Aiken's V dan Fleiss' Kappa 10 Karakter Muwashafat, 2026.  
 [^10]: Panduan Teknis Workshop Kalibrasi Musyrif Asrama Semesteran, Biro SDM TUMBUH, 2026.

@@ -138,7 +138,7 @@ graph TD
     SantriIndividu --> DimJ["Dimensi Fisik-Motorik: Skor 80 (Bugar, Kamar Bersih Bebas Skabies)"]
     SantriIndividu --> DimM["Dimensi Vokasional: Skor 95 (Loker Teratur 5S, Mandiri Finansial)"]
 ```
-<div align="center"><sub><b>Gambar 1.2.4:</b> Contoh Profil Radar Pertumbuhan Kapasitas Multi-Dimensi Santri TUMBUH.</sub></div>
+<div align="center"><sub><b>Gambar 1.2.4:</b> Contoh Profil Radar Pertumbuhan Kapasitas Multi-Dimensi Santri dalam sistem TUMBUH.</sub></div>
 
 Melalui pemetaan radar di atas:
 1. **Tidak Ada Santri yang Dianggap "Gagal"**: Santri seperti Ahmad yang mungkin nilai ujian nahwunya masih rata-rata (skor 70), tidak akan dicap bodoh atau dihina, karena sistem mengakui keunggulan luar biasanya dalam empati sosial (skor 90) dan kemandirian hidup (skor 95).

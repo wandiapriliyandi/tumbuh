@@ -1,5 +1,5 @@
 # P6-07-03: PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN
-## *Monograf Riset Akademik: Standarisasi Protokol Penegakan Konsekuensi Logis Edukatif, Pembebanan Tanggung Jawab yang Relevan, dan Eliminasi Hukuman Sewenang-Wenang (Logical Consequences Enforcement, The 3Rs Model, & Reconciliation Protocols / Form PKL-Konsekuensi), Integrasi Doktrin 'Al-Jazā'u min Jinsil 'Amal wa Ishlāhul Fasād' Turats Klasik dengan Dreikurs & Nelsen's Logical Consequences (Related, Respectful, Reasonable), Serta Keadilan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Penegakan Konsekuensi Logis Edukatif, Pembebanan Tanggung Jawab yang Relevan, dan Eliminasi Hukuman Sewenang-Wenang (Logical Consequences Enforcement, The 3Rs Model, & Reconciliation Protocols / Form PKL-Konsekuensi), Integrasi Doktrin 'Al-Jazā'u min Jinsil 'Amal wa Ishlāhul Fasād' Turats Klasik dengan Dreikurs & Nelsen's Logical Consequences (Related, Respectful, Reasonable), Serta Keadilan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-07-03/MONOGRAF-RISET-KONSEKUENSI-LOGIS-ISHLAH/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 03: *Logical Consequences Enforcement & Ishlah Reconciliation*)  
@@ -214,7 +214,7 @@ Penerapan konsekuensi logis Form PKL ini menghadirkan keunggulan peradaban:
 
 1. **Mendidik Santri Menjadi Pribadi yang Bertanggung Jawab Penuh (*Genuine Personal Accountability*)**: Santri memahami bahwa setiap perbuatan memiliki dampak logis yang harus ia tanggung secara terhormat.
 2. **Menghilangkan Sikap Dendam dan Memberontak Pasca-Sanksi (*Zero Resentment Enforcement*)**: Santri menerima konsekuensi dengan hati lapang karena merasa diperlakukan secara adil dan bermartabat.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Jazā'u min Jinsil 'Amal dan Positive Discipline 3Rs**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan keadilan disiplin paling presisi di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Jazā'u min Jinsil 'Amal dan Positive Discipline 3Rs**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan keadilan disiplin paling presisi di dunia.[^5]
 
 ---
 
@@ -222,7 +222,7 @@ Penerapan konsekuensi logis Form PKL ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-07-03: PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-07-03: PENERAPAN KONSEKUENSI LOGIS DAN ISHLAH AL-BAIN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Konsep Logical Consequences dan The 3Rs Model (Related, Respectful, Reasonable) Jane Nelsen, Nelsen (2006, hlm. 72) & Nelsen, Lott, & Glenn (2013, hlm. 88).  
 [^2]: Teori Natural and Logical Consequences Rudolf Dreikurs dalam pendidikan disiplin tanpa kekerasan, Dreikurs & Cassel (1972, hlm. 46).  
 [^3]: Ibnu Taimiyyah, *Majmu' Al-Fatawa* (2004, Jilid 34, hlm. 182), bab tujuan pensyariatan ta'zir demi maslahat perbaikan dan larangan hukuman balas dendam.  
-[^4]: Protokol konsekuensi logis 3R pengecatan meja asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan konsekuensi logis dan ishlah al-bain di Pesantren TUMBUH (2026).  
+[^4]: Protokol konsekuensi logis 3R pengecatan meja asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan konsekuensi logis dan ishlah al-bain di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

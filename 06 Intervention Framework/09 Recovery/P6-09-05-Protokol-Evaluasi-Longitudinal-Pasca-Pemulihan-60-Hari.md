@@ -1,5 +1,5 @@
 # P6-09-05: PROTOKOL EVALUASI LONGITUDINAL PASCA-PEMULIHAN 60 HARI
-## *Monograf Riset Akademik: Standarisasi Pemantauan Keberlanjutan Adab Pasca-Intervensi, Mitigasi Risiko Residivisme, dan Audit Kestabilan Relasional 60 Hari Santri (60-Day Longitudinal Relapse Prevention, Post-Recovery Fidelity Auditing, & Istiqāmah Monitoring / Form PEL-Evaluasi), Integrasi Doktrin 'Dawāmul 'Amal wa Istiqāmatul Hāl' Turats Klasik dengan Marlatt's Relapse Prevention Model, PBIS Progress Monitoring, Serta Ketahanan Moral di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Pemantauan Keberlanjutan Adab Pasca-Intervensi, Mitigasi Risiko Residivisme, dan Audit Kestabilan Relasional 60 Hari Santri (60-Day Longitudinal Relapse Prevention, Post-Recovery Fidelity Auditing, & Istiqāmah Monitoring / Form PEL-Evaluasi), Integrasi Doktrin 'Dawāmul 'Amal wa Istiqāmatul Hāl' Turats Klasik dengan Marlatt's Relapse Prevention Model, PBIS Progress Monitoring, Serta Ketahanan Moral di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-09-05/MONOGRAF-RISET-EVALUASI-LONGITUDINAL-60-HARI/2026`  
 **Domain**: `06 Intervention Framework` > `09 Recovery` (Sub-Modul 05: *60-Day Longitudinal Relapse Prevention & Post-Recovery Fidelity Auditing*)  
@@ -207,7 +207,7 @@ Penerapan protokol evaluasi longitudinal Form PEL ini menghadirkan keunggulan pe
 
 1. **Melenyapkan Fenomena Kekambuhan Kasus Berulang (*Zero Behavioral Relapse*)**: Memberikan proteksi komprehensif selama 60 hari kritis masa pembentukan kebiasaan baru.
 2. **Membangun Resiliensi Moral dan Daya Lentur Spiritual (*Moral Resilience Mastery*)**: Santri terlatih menghadapi godaan lingkungan dengan bekal strategi koping yang adaptif.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Dawāmul 'Amal dan Relapse Prevention Model**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem pembinaan berkelanjutan paling teruji di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Dawāmul 'Amal dan Relapse Prevention Model**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem pembinaan berkelanjutan paling teruji di dunia.[^5]
 
 ---
 
@@ -215,7 +215,7 @@ Penerapan protokol evaluasi longitudinal Form PEL ini menghadirkan keunggulan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-09-05: PROTOKOL EVALUASI LONGITUDINAL PASCA-PEMULIHAN 60 HARI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-09-05: PROTOKOL EVALUASI LONGITUDINAL PASCA-PEMULIHAN 60 HARI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -281,8 +281,8 @@ flowchart TD
 [^1]: Kerangka kerja Relapse Prevention G. Alan Marlatt dalam pencegahan kekambuhan perilaku maladaptif, Marlatt & Gordon (1985, hlm. 28) & Marlatt & Donovan (2005, hlm. 64).  
 [^2]: Konsep Abstinence Violation Effect (AVE) dalam dinamika psikologis kekambuhan perilaku adiktif, Marlatt & Donovan (2005, hlm. 82).  
 [^3]: Ibnu Rajab Al-Hanbali, *Latha'iful Ma'arif* (2007, hlm. 312), bab tanda-tanda diterimanya taubat dan kewajiban mengawal kesinambungan amal istiqamah.  
-[^4]: Protokol evaluasi longitudinal 60 hari dan pencegahan kekambuhan kasus gawai Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol evaluasi longitudinal pasca-pemulihan 60 hari di Pesantren TUMBUH (2026).  
+[^4]: Protokol evaluasi longitudinal 60 hari dan pencegahan kekambuhan kasus gawai Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol evaluasi longitudinal pasca-pemulihan 60 hari di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

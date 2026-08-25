@@ -1,5 +1,5 @@
 # P3-13-04: NILAI INTI DAN PRINSIP KEMANFAATAN NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Aksiologi Empat Nilai Inti Kemanfaatan Sosial Islami (Al-Itsar, At-Tawadhu', At-Ta'awun, & Ar-Rahmatul Ammah), Prinsip Khidmah bil-Ikhlas wal-Ihsan (Melayani dengan Keikhlasan & Keunggulan Mutu), Dialektika Nilai Altruisme Syar'i vs Paternalisme Manipulatif / Transaksional Materialistis, Serta Internalisasi Karakter 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Aksiologi Empat Nilai Inti Kemanfaatan Sosial Islami (Al-Itsar, At-Tawadhu', At-Ta'awun, & Ar-Rahmatul Ammah), Prinsip Khidmah bil-Ikhlas wal-Ihsan (Melayani dengan Keikhlasan & Keunggulan Mutu), Dialektika Nilai Altruisme Syar'i vs Paternalisme Manipulatif / Transaksional Materialistis, Serta Internalisasi Karakter 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-04/MONOGRAF-RISET-NILAI-INTI-PRINSIP-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 04: *Core Values & Usefulness Principles*)  
@@ -212,7 +212,7 @@ Internalisasi empat nilai inti ini melahirkan transformasi fundamental:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-04: NILAI INTI DAN PRINSIP KEMANFAATAN NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-04: NILAI INTI DAN PRINSIP KEMANFAATAN NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -183,7 +183,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-02: EFEK SINERGIS REGULASI DIRI DAN MANAJEMEN WAKTU DI ASRAMA PESANTREN** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-02: EFEK SINERGIS REGULASI DIRI DAN MANAJEMEN WAKTU DI ASRAMA PESANTREN** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -255,7 +255,7 @@ flowchart TD
 [^5]: Duckworth & Seligman (2005), *Psychological Science*, hlm. 939–944.  
 [^6]: Walker, M. (2017), *Why We Sleep*, Scribner, hlm. 110–135.  
 [^7]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Tartib al-Awrad wa Tafshil Ihya'il Lail*, jilid 1, hlm. 330–355.  
-[^8]: Laporan Studi Intervensi Anti-Prokrastinasi Santri Tahfizh Pesantren TUMBUH, 2026.  
+[^8]: Laporan Studi Intervensi Anti-Prokrastinasi Santri Tahfizh Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^9]: Panduan Standar Jadwal Harian dan Higienitas Tidur Santri, Biro Pengasuhan TUMBUH, 2026.  
 [^10]: Modul Pelatihan Manajemen Waktu dan Regulasi Diri Santri, Biro Konseling TUMBUH, 2026.
 

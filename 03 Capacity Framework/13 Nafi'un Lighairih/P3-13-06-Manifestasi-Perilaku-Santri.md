@@ -1,5 +1,5 @@
 # P3-13-06: MANIFESTASI PERILAKU SANTRI NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Katalog Indikator Perilaku Teramati (Observable Behavioral Markers) Kemanfaatan Sosial Santri di Lima Setting Ekosistem 24 Jam (Kamar Tidur/Asrama, Dapur Umum & Ruang Makan, Masjid & Majelis Ilmu, Ruang Kelas Madrasah, Serta Masyarakat/Desa Binaan), Deteksi Dini Pola Sikap Egois (Social Apathy, Feudal Seniority, & Bystander Effect), Serta Protokol Penguatan Perilaku Prososial di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Katalog Indikator Perilaku Teramati (Observable Behavioral Markers) Kemanfaatan Sosial Santri di Lima Setting Ekosistem 24 Jam (Kamar Tidur/Asrama, Dapur Umum & Ruang Makan, Masjid & Majelis Ilmu, Ruang Kelas Madrasah, Serta Masyarakat/Desa Binaan), Deteksi Dini Pola Sikap Egois (Social Apathy, Feudal Seniority, & Bystander Effect), Serta Protokol Penguatan Perilaku Prososial di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-06/MONOGRAF-RISET-MANIFESTASI-PERILAKU-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 06: *Observable Behavioral Markers*)  
@@ -227,7 +227,7 @@ Penerapan katalog perilaku teramati ini melahirkan ekosistem pengasuhan yang mul
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-06: MANIFESTASI PERILAKU SANTRI NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-06: MANIFESTASI PERILAKU SANTRI NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -297,7 +297,7 @@ flowchart TD
 [^2]: Pembahasan fenomena Bystander Effect dan difusi tanggung jawab sosial di lingkungan remaja, Darley & Latané (1968, hlm. 380).  
 [^3]: HR. Al-Bukhari dalam *Shahih Al-Bukhari* (No. 458), Kitab *Ash-Shalat*.  
 [^4]: Protokol penanganan de-bystander effect melalui keteladanan senyap dan aturan 3 detik khidmah lingkungan, TUMBUH (2026).  
-[^5]: Spesifikasi katalog indikator perilaku teramati di 5 setting kehidupan santri TUMBUH (2026).  
+[^5]: Spesifikasi katalog indikator perilaku teramati di 5 setting kehidupan santri dalam sistem TUMBUH (2026).  
 [^6]: Penerapan prinsip rasio penguatan positif 4:1 dalam pembinaan kemanfaatan sosial santri, Sugai & Horner (2020, hlm. 212).  
 [^7]: Dampak kelembagaan penerapan katalog manifestasi perilaku khidmah terstandar TUMBUH Pesantren (2026).  
 

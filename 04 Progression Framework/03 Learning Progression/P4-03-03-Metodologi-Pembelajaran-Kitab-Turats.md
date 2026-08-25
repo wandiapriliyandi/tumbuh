@@ -1,5 +1,5 @@
 # P4-03-03: METODOLOGI PEMBELAJARAN KITAB TURATS KLASIK
-## *Monograf Riset Akademik: Rekonstruksi Didaktik Pengkajian Kitab Kuning (Turats Islam) dari Jenjang Dasar Menuju Penguasaan Mandiri Kitab Gundul (Matan, Syarah, Hasyiyah, wa Dirayah), Integrasi Metode Sorogan-Bandongan Tradisional dengan Hermeneutika Syar'i & Applied Linguistics (Krashen's Comprehensible Input), Serta Desain Matriks Kurikulum Turats Berjenjang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekonstruksi Didaktik Pengkajian Kitab Kuning (Turats Islam) dari Jenjang Dasar Menuju Penguasaan Mandiri Kitab Gundul (Matan, Syarah, Hasyiyah, wa Dirayah), Integrasi Metode Sorogan-Bandongan Tradisional dengan Hermeneutika Syar'i & Applied Linguistics (Krashen's Comprehensible Input), Serta Desain Matriks Kurikulum Turats Berjenjang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-03-03/MONOGRAF-RISET-METODOLOGI-PEMBELAJARAN-KITAB-TURATS/2026`  
 **Domain**: `04 Progression Framework` > `03 Learning Progression` (Sub-Modul 03: *Classical Turats Learning Methodology*)  
@@ -298,7 +298,7 @@ flowchart TD
 [^1]: Kritik terhadap kepasifan metode maknani massal tanpa evaluasi qira'ah individual, Collins, Brown, & Newman (1989, hlm. 458).  
 [^2]: Teori Comprehensible Input dan pentingnya pemberian teks tantangan bertahap dalam penguasaan bahasa kedua, Krashen (1982, hlm. 21).  
 [^3]: Al-Khatib Al-Baghdadi, *Al-Jami' li Akhlaqir Rawi wa Adabis Sami'* (1996, Jilid 2, hlm. 76).  
-[^4]: Protokol intervensi klinik membaca kitab gundul (Tier 2 Reading Clinic) santri TUMBUH (2026).  
+[^4]: Protokol intervensi klinik membaca kitab gundul (Tier 2 Reading Clinic) santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan metodologi pembelajaran Turats berjenjang terpadu TUMBUH Pesantren (2026).  
 
 ---

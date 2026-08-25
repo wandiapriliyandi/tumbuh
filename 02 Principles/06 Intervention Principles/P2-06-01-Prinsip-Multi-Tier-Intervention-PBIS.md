@@ -28,8 +28,8 @@
   - [4. Rekayasa Program Check-In / Check-Out (CICO) 24 Jam & Penegakan Rasio Apresiasi Positif Minimal 4:1](#4-rekayasa-program-check-in--check-out-cico-24-jam--penegakan-rasio-apresiasi-positif-minimal-41)
   - [5. Kasuistika Lapangan: Pencegahan Dini Eskalasi Pelanggaran Santri Melalui Intervensi Tier 2 CICO](#5-kasuistika-lapangan-pencegahan-dini-eskalasi-pelanggaran-santri-melalui-intervensi-tier-2-cico)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Multi-Tier PBIS Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-multi-tier-pbis-pesantren-tumbuh)
-  - [2. Matriks Komparasi Tiga Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)](#2-matriks-komparasi-tiga-tingkat-pbis-pesantren-tumbuh-tier-1-tier-2-tier-3)
+  - [1. Eksplanasi Teoretis Prinsip Multi-Tier PBIS Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-multi-tier-pbis-pesantren-tumbuh)
+  - [2. Matriks Komparasi Tiga Tingkat PBIS Ekosistem Pesantren Berbasis TUMBUH (Tier 1, Tier 2, Tier 3)](#2-matriks-komparasi-tiga-tingkat-pbis-pesantren-tumbuh-tier-1-tier-2-tier-3)
   - [3. Alur Standar Operasional Prosedur (SOP) Program CICO Tier 2 Harian di Asrama](#3-alur-standar-operasional-prosedur-sop-program-cico-tier-2-harian-di-asrama)
   - [4. Protokol Eskalasi dan Rujukan Santri dari Tier 1 Menuju Tier 3 (Tier Escalation Protocol)](#4-protokol-eskalasi-dan-rujukan-santri-dari-tier-1-menuju-tier-3-tier-escalation-protocol)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
@@ -111,7 +111,7 @@ TUMBUH mengoperasionalkan intervensi Tier 2:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Multi-Tier PBIS Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Multi-Tier PBIS Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan piramida intervensi ke dalam **Arsitektur Tiga Tingkat Intervensi Positif (*Thabaqat ad-Da'mi as-Sulukiy*)**:
 
@@ -136,7 +136,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Komparasi Tiga Tingkat PBIS Pesantren TUMBUH (Tier 1, Tier 2, Tier 3)
+### 2. Matriks Komparasi Tiga Tingkat PBIS Ekosistem Pesantren Berbasis TUMBUH (Tier 1, Tier 2, Tier 3)
 
 | Dimensi PBIS | Tier 1: Universal (Pencegahan) | Tier 2: Targeted (Bimbingan) | Tier 3: Intensive (Pemulihan) |
 | :--- | :--- | :--- | :--- |
@@ -187,7 +187,7 @@ Prinsip intervensi multi-tier PBIS ini membawa implikasi agung bagi peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-01: PRINSIP INTERVENSI MULTI-TIER PBIS PESANTREN (MULTI-TIERED BEHAVIORAL INTERVENTIONS & SUPPORTS)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-01: PRINSIP INTERVENSI MULTI-TIER PBIS PESANTREN (MULTI-TIERED BEHAVIORAL INTERVENTIONS & SUPPORTS)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -255,7 +255,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Intervensi Multi-Tier PBIS Pesantren TUMBUH, *Kritik atas Disiplin Reaktif dan Pemadam Kebakaran*, 2026.  
+[^1]: Riset Prinsip Intervensi Multi-Tier PBIS Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Disiplin Reaktif dan Pemadam Kebakaran*, 2026.  
 [^2]: Asy-Syathibi, *Al-Muwafaqat*, Jilid 4, Pembahasan *Sadd adz-Dzara'i'*, hlm. 190–235.  
 [^3]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 49; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Al-Amr bil-Ma'ruf*, hlm. 310–350.  
 [^4]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85; Sugai & Horner (2000).  

@@ -210,7 +210,7 @@ Kaderisasi kepemimpinan santri pengayom ini membawa dampak transformatif:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-05-03: KADERISASI DAN KEPEMIMPINAN SANTRI PENGAYOM (PEER LEADERSHIP & BROTHERHOOD)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-05-03: KADERISASI DAN KEPEMIMPINAN SANTRI PENGAYOM (PEER LEADERSHIP & BROTHERHOOD)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -283,7 +283,7 @@ flowchart TD
 [^3]: *Sunan Abi Dawud*, Kitab al-Adab, Hadits No. 5004; *Musnad Ahmad*, Hadits No. 23064.  
 [^4]: Steinberg, L. (2008), *Developmental Review*, hlm. 78–106; Sapolsky, R. M. (2017), *Behave*, hlm. 150–185.  
 [^5]: Blueprint Rekonstruksi Organisasi Santri Duta Adab PBIS TUMBUH, 2026.  
-[^6]: Dokumentasi Pelaksanaan Pekan Ta'aruf Ukhuwah dan Transformasi Orientasi Santri TUMBUH, 2026.  
+[^6]: Dokumentasi Pelaksanaan Pekan Ta'aruf Ukhuwah dan Transformasi Orientasi Santri dalam sistem TUMBUH, 2026.  
 [^7]: Dekrit Penarikan Hak Menghukum dari Santri Senior Majelis Pimpinan TUMBUH, 2026.  
 [^8]: Greenleaf, R. K. (1977), *Servant Leadership*, hlm. 45–70.  
 [^9]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 38–60.  

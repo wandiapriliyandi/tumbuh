@@ -1,5 +1,5 @@
 # P5-07-04: PROTOKOL MITIGASI POPULARITAS DAN KONFLIK SEBAYA
-## *Monograf Riset Akademik: Protokol Pengendalian Bias Popularitas dan Mitigasi Friksi Dinamika Teman Sebaya (Popularity Bias Mitigation & Peer Conflict Resolution / Form MPS-Mitigasi), Integrasi Doktrin 'Ijtinābul 'Ashabiyyah wa La'natut Tafākhur' Turats Klasik dengan Social Comparison Theory (Festinger), In-Group Favoritism (Tajfel), & Anonymized Sociometric Normalization, Serta Algoritma Pembobotan Peer di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Pengendalian Bias Popularitas dan Mitigasi Friksi Dinamika Teman Sebaya (Popularity Bias Mitigation & Peer Conflict Resolution / Form MPS-Mitigasi), Integrasi Doktrin 'Ijtinābul 'Ashabiyyah wa La'natut Tafākhur' Turats Klasik dengan Social Comparison Theory (Festinger), In-Group Favoritism (Tajfel), & Anonymized Sociometric Normalization, Serta Algoritma Pembobotan Peer di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-07-04/MONOGRAF-RISET-MITIGASI-BIAS-POPULARITAS-KONFLIK/2026`  
 **Domain**: `05 Assessment Framework` > `07 Peer Assessment` (Sub-Modul 04: *Popularity Bias Mitigation & Peer Conflict Protocol*)  
@@ -220,7 +220,7 @@ Penerapan protokol mitigasi bias popularitas Form MPS ini menghadirkan keunggula
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-07-04: PROTOKOL MITIGASI POPULARITAS DAN KONFLIK SEBAYA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-07-04: PROTOKOL MITIGASI POPULARITAS DAN KONFLIK SEBAYA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Penelitian Henri Tajfel mengenai Social Identity Theory dan dinamika favoritisme in-group, Tajfel & Turner (1979, hlm. 38).  
 [^2]: Metodologi statistika robust dan efektivitas trimmed mean dalam mengeliminasi outlier, Wilcox (2012, hlm. 64).  
 [^3]: Ibnu Taimiyyah, *Majmu'ul Fatawa* (2004, Jilid 28, hlm. 418), bab keharaman membela kelompok secara batil dalam fanatisme ashabiyyah.  
-[^4]: Protokol audit deteksi anomali skor peer dan netralisasi sabotase geng santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol mitigasi bias popularitas dan konflik sebaya di Pesantren TUMBUH (2026).  
+[^4]: Protokol audit deteksi anomali skor peer dan netralisasi sabotase geng santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol mitigasi bias popularitas dan konflik sebaya di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

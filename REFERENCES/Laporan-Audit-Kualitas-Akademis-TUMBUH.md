@@ -96,7 +96,7 @@ pie title Distribusi Kelayakan Akademis 11 Domain TUMBUH
 
 Dengan ini, Tim Dewan Keilmuan Auditor Ekosistem TUMBUH mempublikasikan laporan audit ini sebagai bukti keabsahan mutu akademis dan kesiapan implementasi lapangan secara menyeluruh.
 
-*Disahkan di Pesantren TUMBUH pada tanggal 21 Agustus 2026.*
+*Disahkan di Ekosistem Pesantren Berbasis TUMBUH pada tanggal 21 Agustus 2026.*
 
 **Tim Auditor Keilmuan:**
 - 🛡️ **Pakar Kritikus & Auditor Kualitas** *(Auditor Utama QA)*

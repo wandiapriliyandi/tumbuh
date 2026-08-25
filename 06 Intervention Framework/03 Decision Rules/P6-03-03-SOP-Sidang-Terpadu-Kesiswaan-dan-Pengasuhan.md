@@ -1,5 +1,5 @@
 # P6-03-03: SOP SIDANG TERPADU KESISWAAN DAN PENGASUHAN
-## *Monograf Riset Akademik: Standar Operasional Prosedur Majelis Musyawarah Disiplin Terpadu, Protokol Sidang Restoratif Lintas Komisi, dan Penjaminan Hak Suara Santri (Joint Restorative Discipline Hearing SOP & Inter-Commission Deliberation / Form STP-Sidang), Integrasi Doktrin 'Syūrā Ahlil Khibrah wa 'Adālatul Qadhā' Turats Klasik dengan Restorative Community Conferencing, Tyler's Procedural Justice, Serta Berita Acara Putusan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standar Operasional Prosedur Majelis Musyawarah Disiplin Terpadu, Protokol Sidang Restoratif Lintas Komisi, dan Penjaminan Hak Suara Santri (Joint Restorative Discipline Hearing SOP & Inter-Commission Deliberation / Form STP-Sidang), Integrasi Doktrin 'Syūrā Ahlil Khibrah wa 'Adālatul Qadhā' Turats Klasik dengan Restorative Community Conferencing, Tyler's Procedural Justice, Serta Berita Acara Putusan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-03-03/MONOGRAF-RISET-SOP-SIDANG-TERPADU/2026`  
 **Domain**: `06 Intervention Framework` > `03 Decision Rules` (Sub-Modul 03: *Joint Restorative Discipline Hearing SOP & Deliberation Protocol*)  
@@ -220,7 +220,7 @@ Penerapan SOP sidang terpadu Form STP ini menghadirkan keunggulan peradaban:
 
 1. **Menghilangkan Trauma Peradilan pada Diri Santri (*Zero Trial-Induced Trauma*)**: Santri merasa didengar, dihargai, dan dibimbing kembali menuju kebaikan tanpa dipermalukan.
 2. **Memperkuat Kemitraan Strategis Orang Tua dan Lembaga (*School-Family Partnership*)**: Orang tua menyaksikan langsung keadilan dan kearifan proses pembinaan pesantren.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Syūrā Ahlil Khibrah dan Procedural Justice**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem peradilan asrama paling bermartabat di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Syūrā Ahlil Khibrah dan Procedural Justice**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem peradilan asrama paling bermartabat di dunia.[^5]
 
 ---
 
@@ -228,7 +228,7 @@ Penerapan SOP sidang terpadu Form STP ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-03-03: SOP SIDANG TERPADU KESISWAAN DAN PENGASUHAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-03-03: SOP SIDANG TERPADU KESISWAAN DAN PENGASUHAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Teori Keadilan Prosedural Tom Tyler mengenai pentingnya elemen Voice, Neutrality, dan Respect dalam peradilan, Tyler (2006, hlm. 118).  
 [^2]: Panduan praktis Restorative Community Conferencing dalam penanganan konflik komunitas sekolah, O'Connell, Wachtel, & Wachtel (1999, hlm. 14).  
 [^3]: Al-Mawardi, *Adabul Qadhi* (2006, Jilid 1, hlm. 88), bab kewajiban hakim menyamakan penghormatan di majelis dan larangan mengintimidasi pihak yang berperkara.  
-[^4]: Protokol penyelenggaraan Sidang Terpadu Restoratif dan resolusi damai santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP sidang terpadu kesiswaan dan pengasuhan di Pesantren TUMBUH (2026).  
+[^4]: Protokol penyelenggaraan Sidang Terpadu Restoratif dan resolusi damai santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP sidang terpadu kesiswaan dan pengasuhan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

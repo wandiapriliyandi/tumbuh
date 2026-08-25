@@ -28,7 +28,7 @@
 ```mermaid
 flowchart LR
     subgraph WengerCoP["COMMUNITY OF PRACTICE WENGER DALAM HALAQAH ADAB"]
-        Domain["DOMAIN:<br/>Adab & Nilai Pesantren TUMBUH"] --> Community["KOMUNITAS:<br/>Halaqah Kamar/Angkatan/Lintas-Jenjang"] --> Practice["PRAKTIK:<br/>Kajian Turats Kontekstual + Aplikasi Nyata Harian"] --> Domain
+        Domain["DOMAIN:<br/>Adab & Nilai Ekosistem Pesantren Berbasis TUMBUH"] --> Community["KOMUNITAS:<br/>Halaqah Kamar/Angkatan/Lintas-Jenjang"] --> Practice["PRAKTIK:<br/>Kajian Turats Kontekstual + Aplikasi Nyata Harian"] --> Domain
     end
 ```
 
@@ -101,7 +101,7 @@ Halaqah adab yang difasilitasi dengan metode Socratic terbukti meningkatkan *Mor
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-08-01: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-08-01: METODOLOGI HALAQAH ADAB DAN KAJIAN TURATS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Community of Practice Wenger tentang pembelajaran melalui partisipasi aktif dalam komunitas berbagi nilai, Wenger (1998, hlm. 45).
 [^2]: Socratic Seminar Method dalam memfasilitasi pemikiran moral kritis yang mendalam, Copeland (2005, hlm. 12).
-[^3]: Studi kasus halaqah kamar menyelesaikan konflik internal secara restoratif Pesantren TUMBUH (2026).
+[^3]: Studi kasus halaqah kamar menyelesaikan konflik internal secara restoratif Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak metodologi halaqah adab Socratic terhadap perkembangan penalaran moral santri (2026).

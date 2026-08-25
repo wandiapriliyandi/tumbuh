@@ -1,5 +1,5 @@
 # P3-04: NASKAH INDUK KAPASITAS SALIMUL AQIDAH
-## *Monograf Riset Akademik Induk: Doktrin Kapasitas Karakter Pertama (Salimul Aqidah), Integrasi Epistemologi Turats Tauhidullah & Ihsan Muraqabatullah, Teori Identitas Moral (Blasi & Aquino), Arsitektur Empat Dimensi, Matriks BARS 4-Level, serta Peta Operasionalisasi 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik Induk: Doktrin Kapasitas Karakter Pertama (Salimul Aqidah), Integrasi Epistemologi Turats Tauhidullah & Ihsan Muraqabatullah, Teori Identitas Moral (Blasi & Aquino), Arsitektur Empat Dimensi, Matriks BARS 4-Level, serta Peta Operasionalisasi 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-04/MONOGRAF-INDUK-KAPASITAS-SALIMUL-AQIDAH/2026`  
 **Domain**: `03 Capacity Framework` > `04 Salimul Aqidah` (Naskah Induk Karakter 1)  
@@ -109,7 +109,7 @@ $$\text{قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ
 * **Pihak A (Sudut Pandang Pembinaan Berbasis Teror & Hantu)**:  
   *"Asrama sengaja dibuat angker dan ditakut-takuti cerita jin agar santri tidak berani keluar malam-malam!"*
 * **Resolusi Tauhid Melahirkan Jiwa Kesatria (*Shaja'ah*)**:  
-  Menakut-nakuti santri dengan mitos hantu merusak kejernihan aqidah dan menumbuhkan mental penakut yang pengecut. Tauhid sejati menanamkan bahwa tidak ada makhluk—baik jin, manusia, maupun penguasa zalim—yang mampu memberikan mudharat tanpa izin Allah (QS. Yunus: 107). Santri TUMBUH memiliki **Keberanian Tauhid (*Shaja'ah 'Aqdiyah*)**: berani berjalan di malam gelap, berani membela kebenaran di depan teman-temannya, dan memiliki ketenteraman jiwa (*Thuma'ninah*) yang bebas dari kecemasan neurotik.[^7]
+  Menakut-nakuti santri dengan mitos hantu merusak kejernihan aqidah dan menumbuhkan mental penakut yang pengecut. Tauhid sejati menanamkan bahwa tidak ada makhluk—baik jin, manusia, maupun penguasa zalim—yang mampu memberikan mudharat tanpa izin Allah (QS. Yunus: 107). Santri dalam sistem TUMBUH memiliki **Keberanian Tauhid (*Shaja'ah 'Aqdiyah*)**: berani berjalan di malam gelap, berani membela kebenaran di depan teman-temannya, dan memiliki ketenteraman jiwa (*Thuma'ninah*) yang bebas dari kecemasan neurotik.[^7]
 
 ---
 
@@ -148,7 +148,7 @@ flowchart LR
 * **Pihak A (Sudut Pandang Dikotomi Kognitif Ekstrem)**:  
   *"Yang penting santri lulus ujian tulis nilai 100; perilaku santri di luar kelas tidak perlu mempengaruhi kelulusan aqidah!"*
 * **Tinjauan Teori Identitas Moral Augusto Blasi**:  
-  Mengetahui konsep baik (*Moral Knowledge*) tidak otomatis membuat seseorang berbuat baik (*Moral Action*). Jurang pemisah antara pengetahuan dan tindakan (*Judgment-Action Gap*) hanya dapat dijembatani jika aqidah menjadi **Pusat Identitas Diri (*Self-Identity Centrality*)**. Santri TUMBUH tidak hanya tahu bahwa ghashab itu dosa; ia menolak ghashab karena *"Mengambil hak orang lain bertentangan dengan identitasku sebagai hamba Allah yang beraqidah lurus"*. Pengetahuan, rasa kalbu, dan tindakan menyatu padu.[^9]
+  Mengetahui konsep baik (*Moral Knowledge*) tidak otomatis membuat seseorang berbuat baik (*Moral Action*). Jurang pemisah antara pengetahuan dan tindakan (*Judgment-Action Gap*) hanya dapat dijembatani jika aqidah menjadi **Pusat Identitas Diri (*Self-Identity Centrality*)**. Santri dalam sistem TUMBUH tidak hanya tahu bahwa ghashab itu dosa; ia menolak ghashab karena *"Mengambil hak orang lain bertentangan dengan identitasku sebagai hamba Allah yang beraqidah lurus"*. Pengetahuan, rasa kalbu, dan tindakan menyatu padu.[^9]
 
 #### 2. Diskursus Dialektika Kritis: Pembebasan dari Sindrom Disonansi Kognitif (Leon Festinger)
 * **Pihak A (Sudut Pandang Normalisasi Kemunafikan Santri)**:  
@@ -361,7 +361,7 @@ flowchart TD
 [^4]: *Shahih Muslim*, Kitab al-Iman, Hadits No. 8; *Shahih al-Bukhari*, Kitab al-Iman, Hadits No. 50.  
 [^5]: *Musnad Ahmad bin Hanbal*, Jilid 28, Hadits No. 17404; *Kitab at-Tauhid*, Bab *Minasy Syirki Lubsu al-Halqah wal Khaith*, hlm. 25–35.  
 [^6]: Ibnul Qayyim al-Jauziyyah, *Madarijus Salikin*, Jilid 2, Manzilah *Al-Muraqabah*, hlm. 65–90.  
-[^7]: Riset Psikologi Keberanian Berbasis Tauhid Santri TUMBUH, 2026.  
+[^7]: Riset Psikologi Keberanian Berbasis Tauhid Santri dalam sistem TUMBUH, 2026.  
 [^8]: Blasi, A. (1983), *Developmental Review*, hlm. 178–210; Aquino, K., & Reed, A. (2002), *JPSP*, hlm. 1423–1440.  
 [^9]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 35–55.  
 [^10]: Festinger, L. (1957), *A Theory of Cognitive Dissonance*, Stanford University Press.  
@@ -370,7 +370,7 @@ flowchart TD
 [^13]: Prinsip Triad Pertumbuhan Simbiotik Ekosistem TUMBUH Pesantren, 2026.  
 [^14]: Laporan Evaluasi Implementasi Zero-Ghashab Campaign Pesantren Mitra TUMBUH, 2026.  
 [^15]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
-[^16]: Dokumentasi Evaluasi Puncak Integritas Insan Adabi Santri TUMBUH, 2026.  
+[^16]: Dokumentasi Evaluasi Puncak Integritas Insan Adabi Santri dalam sistem TUMBUH, 2026.  
 [^17]: Dokumentasi Kasuistika Pengasuhan Asrama 24 Jam Domain 04 Salimul Aqidah TUMBUH, 2026.
 
 ---

@@ -28,8 +28,8 @@
   - [4. Rekayasa Kepemimpinan Qudwah Transformatif: Mengubah Pengawas Koersif Menjadi Murabbi In Loco Parentis](#4-rekayasa-kepemimpinan-qudwah-transformatif-mengubah-pengawas-koersif-menjadi-murabbi-in-loco-parentis)
   - [5. Kasuistika Lapangan: Mengatasi Penolakan Pengurus Asrama Senior Melalui Demonstrasi Quick Wins](#5-kasuistika-lapangan-mengatasi-penolakan-pengurus-asrama-senior-melalui-demonstrasi-quick-wins)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-manajemen-perubahan-budaya-pesantren-tumbuh)
-  - [2. Matriks Delapan Tahapan Model Kotter Transformasi Budaya Pesantren TUMBUH](#2-matriks-delapan-tahapan-model-kotter-transformasi-budaya-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Manajemen Perubahan Budaya Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-manajemen-perubahan-budaya-pesantren-tumbuh)
+  - [2. Matriks Delapan Tahapan Model Kotter Transformasi Budaya Ekosistem Pesantren Berbasis TUMBUH](#2-matriks-delapan-tahapan-model-kotter-transformasi-budaya-pesantren-tumbuh)
   - [3. Panduan Mitigasi Empat Tipe Resistensi Staf dan Pengurus Asrama](#3-panduan-mitigasi-empat-tipe-resistensi-staf-dan-pengurus-asrama)
   - [4. Standar Prosedur Operasional (SOP) Peta Jalan Peluncuran Budaya Baru TUMBUH (100 Hari Pertama)](#4-standar-prosedur-operasional-sop-peta-jalan-peluncuran-budaya-baru-tumbuh-100-hari-pertama)
   - [5. Diskusi Filosofis Mendalam & Implikasi bagi Masa Depan Peradaban Pendidikan Islam](#5-diskusi-filosofis-mendalam--implikasi-bagi-masa-depan-peradaban-pendidikan-islam)
@@ -116,7 +116,7 @@ TUMBUH mentransformasi peran musyrif:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Manajemen Perubahan Budaya Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan manajemen perubahan ke dalam **Arsitektur Tiga Sayap Transformasi Budaya (*Arkan at-Tahawwul at-Tarbawiy*)**:
 
@@ -141,7 +141,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Delapan Tahapan Model Kotter Transformasi Budaya Pesantren TUMBUH
+### 2. Matriks Delapan Tahapan Model Kotter Transformasi Budaya Ekosistem Pesantren Berbasis TUMBUH
 
 | Tahapan Model Kotter | Aksi Strategis di Ekosistem Pesantren | Output Capaian Tahapan |
 | :--- | :--- | :--- |
@@ -197,7 +197,7 @@ Prinsip manajemen perubahan budaya pesantren ini membawa implikasi agung bagi pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07-01: PRINSIP MANAJEMEN PERUBAHAN BUDAYA PESANTREN (ORGANIZATIONAL CULTURE CHANGE MANAGEMENT)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07-01: PRINSIP MANAJEMEN PERUBAHAN BUDAYA PESANTREN (ORGANIZATIONAL CULTURE CHANGE MANAGEMENT)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -265,13 +265,13 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Manajemen Perubahan Budaya Pesantren TUMBUH, *Kritik atas Perubahan Sporadis dan Survivorship Bias*, 2026.  
+[^1]: Riset Prinsip Manajemen Perubahan Budaya Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Perubahan Sporadis dan Survivorship Bias*, 2026.  
 [^2]: QS. Ar-Ra'd [13]: 11.  
 [^3]: Kaidah Ushul Fiqh Pembaharuan Tradisi; Asy'ari, Muhammad Hasyim, *Adab al-'Alim wal-Muta'allim*, hlm. 12–35.  
 [^4]: Kotter, J. P. (1996; 2012), *Leading Change*; Fullan, M. (2007).  
 [^5]: Master Blueprint Kepemimpinan Qudwah In Loco Parentis Ekosistem TUMBUH, 2026.  
 [^6]: Dokumentasi Pelaksanaan Pilot Project Asrama Percontohan PBIS TUMBUH, 2026.  
-[^7]: Master Blueprint Adaptasi 8 Tahap Model Kotter di Pesantren TUMBUH, 2026.  
+[^7]: Master Blueprint Adaptasi 8 Tahap Model Kotter di Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Panduan Praktis Mitigasi 4 Tipe Resistensi Staf Pengasuhan TUMBUH, 2026.  
 [^9]: Master Guidelines Habituasi Keteladanan Musyrif Asrama 24 Jam TUMBUH, 2026.  
 [^10]: Standar Operasional Prosedur Peta Jalan 100 Hari Pertama Transformasi Budaya PBIS TUMBUH, 2026.  

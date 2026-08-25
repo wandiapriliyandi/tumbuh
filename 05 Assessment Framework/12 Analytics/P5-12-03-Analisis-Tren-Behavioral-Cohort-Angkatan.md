@@ -1,5 +1,5 @@
 # P5-12-03: ANALISIS TREN BEHAVIORAL COHORT ANGKATAN
-## *Monograf Riset Akademik: Analitika Longitudinal Dinamika Perilaku Lintas Angkatan dan Pemodelan Pertumbuhan Kohort Santri 6 Tahun (Cohort Longitudinal Behavioral Trend Analytics / Form TBC-Cohort), Integrasi Doktrin 'Sunnatul Awwalīn wa Ta'āqubul Ajyāl' Turats Klasik dengan Longitudinal Hierarchical Linear Modeling (HLM), Growth Curve Analysis, Serta Rekayasa Budaya Angkatan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Analitika Longitudinal Dinamika Perilaku Lintas Angkatan dan Pemodelan Pertumbuhan Kohort Santri 6 Tahun (Cohort Longitudinal Behavioral Trend Analytics / Form TBC-Cohort), Integrasi Doktrin 'Sunnatul Awwalīn wa Ta'āqubul Ajyāl' Turats Klasik dengan Longitudinal Hierarchical Linear Modeling (HLM), Growth Curve Analysis, Serta Rekayasa Budaya Angkatan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-12-03/MONOGRAF-RISET-ANALISIS-TREN-COHORT/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 03: *Cohort Longitudinal Behavioral Trend Analytics*)  
@@ -200,7 +200,7 @@ TEMUAN TITIK KRITIS TRANSISI (DEVELOPMENTAL BOTTLENECK FINDING):
 "Terdeteksi penurunan slope rata-rata pada Semester 4 (J2 Genap) sebesar $\Delta = -0.22$ poin di seluruh 
 angkatan. Direkomendasikan penambahan modul 'Khidmah Junior' dan ekspedisi alam terbuka di fase ini."
 
-Disahkan di: Pesantren TUMBUH, 25 Agustus 2026
+Disahkan di: Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Kepala Unit Litbang Analitika: ____________________    Mudir Pendidikan: ____________________
 ====================================================================================================
 ```
@@ -213,7 +213,7 @@ Penerapan analisis tren kohort Form TBC ini menghadirkan keunggulan peradaban:
 
 1. **Menghapuskan Prasangka dan Mitos Generasi Melalui Bukti Statistik Ilmiah**: Keputusan kurikulum didasarkan pada kurva empiris, bukan pada cerita desas-desus.
 2. **Menyempurnakan Mitigasi Titik Rawan Perkembangan Remaja Pesantren (*Preemptive Transition Support*)**: Pesantren memiliki kesiapan matang menghadapi masa pubertas santri di setiap angkatan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ta'āqubul Ajyāl dan Hierarchical Linear Modeling**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam pertama yang menerapkan pemodelan analitika kohort tingkat doktoral.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ta'āqubul Ajyāl dan Hierarchical Linear Modeling**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam pertama yang menerapkan pemodelan analitika kohort tingkat doktoral.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan analisis tren kohort Form TBC ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-12-03: ANALISIS TREN BEHAVIORAL COHORT ANGKATAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-12-03: ANALISIS TREN BEHAVIORAL COHORT ANGKATAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Kerangka kerja Hierarchical Linear Modeling (HLM) Raudenbush & Bryk dalam menganalisis data pertumbuhan bertingkat, Raudenbush & Bryk (2002, hlm. 36).  
 [^2]: Model Latent Curve Models Bollen & Curran dalam memetakan lintasan trajektori longitudinal, Bollen & Curran (2006, hlm. 58).  
 [^3]: Ibnu Khaldun, *Al-Muqaddimah* (2004, hlm. 182), bab dinamika pergantian watak generasi dan keharusan pendidik memahami perbedaan karakteristik zaman.  
-[^4]: Protokol mitigasi titik kritis pubertas santri J2 Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan analisis tren behavioral cohort angkatan di Pesantren TUMBUH (2026).  
+[^4]: Protokol mitigasi titik kritis pubertas santri J2 Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan analisis tren behavioral cohort angkatan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

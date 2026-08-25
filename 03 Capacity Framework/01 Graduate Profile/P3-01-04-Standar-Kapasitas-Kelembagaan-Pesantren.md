@@ -29,7 +29,7 @@
   - [4. Teori Keamanan Psikologis Amy Edmondson & Eliminasi Budaya Ketakutan di Asrama](#4teori-keamanan-psikologis-amy-edmondson-eliminasi-budaya-ketakutan-di-asrama)
   - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lembaga, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lembaga-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Empat Dimensi Kapasitas Kelembagaan Pesantren TUMBUH](#1-formulasi-konseptual-empat-dimensi-kapasitas-kelembagaan-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Empat Dimensi Kapasitas Kelembagaan Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-empat-dimensi-kapasitas-kelembagaan-pesantren-tumbuh)
   - [2. Matriks Tingkat Kematangan Kelembagaan Pesantren (Institutional Maturity Matrix)](#2-matriks-tingkat-kematangan-kelembagaan-pesantren-institutional-maturity-matrix)
   - [3. Standar Operasional & Parameter Fisik-Psikososial Pesantren Mandiri](#3-standar-operasional--parameter-fisik-psikososial-pesantren-mandiri)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -149,7 +149,7 @@ Profesor Harvard Business School **Amy C. Edmondson** dalam riset seminalnya *Th
 
 ---
 
-### 1. Formulasi Konseptual: Empat Dimensi Kapasitas Kelembagaan Pesantren TUMBUH
+### 1. Formulasi Konseptual: Empat Dimensi Kapasitas Kelembagaan Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains manajemen kelembagaan, riset ini merumuskan kerangka konseptual empat pilar kapasitas kelembagaan sebagai berikut:
 
@@ -201,7 +201,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-04: STANDAR KAPASITAS KELEMBAGAAN PESANTREN DAN BUDAYA LEARNING ORGANIZATION** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-04: STANDAR KAPASITAS KELEMBAGAAN PESANTREN DAN BUDAYA LEARNING ORGANIZATION** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -273,8 +273,8 @@ flowchart TD
 [^5]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Qawa'id al-'Aqa'id*, jilid 1, hlm. 110.  
 [^6]: Edmondson (2018), *Psychological Safety in Education*, hlm. 88–105.  
 [^7]: Horner & Sugai (2015), *Remedial and Special Education*, hlm. 80–92.  
-[^8]: Laporan Studi Efektivitas Sistem Integrasi Medis dan Asrama Pesantren TUMBUH, 2026.  
-[^9]: Matriks Standar Akreditasi Mutu Internal Pesantren TUMBUH, Divisi QA, 2026.  
+[^8]: Laporan Studi Efektivitas Sistem Integrasi Medis dan Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
+[^9]: Matriks Standar Akreditasi Mutu Internal Ekosistem Pesantren Berbasis TUMBUH, Divisi QA, 2026.  
 [^10]: Deming, W. E. (1986), *Out of the Crisis*, MIT Press, hlm. 200–240.
 
 ---

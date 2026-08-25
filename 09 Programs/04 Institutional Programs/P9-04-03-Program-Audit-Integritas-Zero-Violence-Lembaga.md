@@ -1,5 +1,5 @@
 # P9-04-03: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA
-## *Monograf Riset Akademik: Standarisasi Program Audit Integritas Zero-Violence Semesteran, Metodologi Survei Anonim Rasa Aman Santri (Anonymous Student Safety Climate Survey), dan Penegakan Standar Sekolah Ramah Anak Bebas Kekerasan (Bi-Annual Zero-Violence Integrity Audit Program, Anonymous Safety Polling Methodology, & Safe-School Certification / Form PRO-AuditIntegritas), Integrasi Doktrin 'Al-Amānah wal Muhāsabah al-Mu'assasiyyah' Turats Klasik dengan ISO 37001 Anti-Bribery/Integrity Principles, UNICEF Safe-to-Learn Framework, Serta Kredibilitas Lembaga di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Audit Integritas Zero-Violence Semesteran, Metodologi Survei Anonim Rasa Aman Santri (Anonymous Student Safety Climate Survey), dan Penegakan Standar Sekolah Ramah Anak Bebas Kekerasan (Bi-Annual Zero-Violence Integrity Audit Program, Anonymous Safety Polling Methodology, & Safe-School Certification / Form PRO-AuditIntegritas), Integrasi Doktrin 'Al-Amānah wal Muhāsabah al-Mu'assasiyyah' Turats Klasik dengan ISO 37001 Anti-Bribery/Integrity Principles, UNICEF Safe-to-Learn Framework, Serta Kredibilitas Lembaga di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-04-03/MONOGRAF-RISET-AUDIT-INTEGRITAS-ZERO-VIOLENCE/2026`  
 **Domain**: `09 Programs` > `04 Institutional Programs` (Sub-Modul 03: *Institutional Zero-Violence Integrity Audit Program*)  
@@ -107,7 +107,7 @@ Penyelenggaraan audit integritas semesteran yang memadukan triangulasi data digi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-04-03: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-04-03: PROGRAM AUDIT INTEGRITAS ZERO-VIOLENCE LEMBAGA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Devries et al. mengenai uji klinis cluster-randomised The Good School Toolkit dalam mengeliminasi kekerasan fisik staf sekolah terhadap murid, Devries et al. (2015, hlm. e380).
 [^2]: Ibnu Taimiyyah mengenai peran fungsional lembaga Hisbah dalam menegakkan keadilan sosial dan pengawasan integritas institusi publik, Al-Hisbah (1998, hlm. 14).
-[^3]: Studi kasus penerapan survei anonim membongkar apel malam liar senior Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan survei anonim membongkar apel malam liar senior Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak transparansi audit hisbah terhadap penciptaan iklim psikologis aman bagi santri baru di asrama (2026).

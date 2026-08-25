@@ -1,5 +1,5 @@
 # P6-02-04: PROTOKOL TRANSISI DAN DE-ESKALASI LINTAS TIER
-## *Monograf Riset Akademik: Protokol Standar Perpindahan Jenjang Intervensi, De-eskalasi Bertahap, dan Wisuda Kemandirian Santri (Multi-Tier Transition, Step-Down De-escalation Protocol, & Tier Graduation / Form TDL-Transisi), Integrasi Doktrin 'At-Tadrij fīl Ahkām wa Marātibul Istiqāmah' Turats Klasik dengan McIntosh's Multi-Tiered Decision Framework, Response to Intervention (RTI) Step-Down, Serta Kontinuitas Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Standar Perpindahan Jenjang Intervensi, De-eskalasi Bertahap, dan Wisuda Kemandirian Santri (Multi-Tier Transition, Step-Down De-escalation Protocol, & Tier Graduation / Form TDL-Transisi), Integrasi Doktrin 'At-Tadrij fīl Ahkām wa Marātibul Istiqāmah' Turats Klasik dengan McIntosh's Multi-Tiered Decision Framework, Response to Intervention (RTI) Step-Down, Serta Kontinuitas Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-02-04/MONOGRAF-RISET-PROTOKOL-TRANSISI-LINTAS-TIER/2026`  
 **Domain**: `06 Intervention Framework` > `02 Tiered Intervention` (Sub-Modul 04: *Multi-Tier Transition, Step-Down De-escalation, & Graduation Protocol*)  
@@ -208,7 +208,7 @@ Penerapan protokol transisi Form TDL ini menghadirkan keunggulan peradaban:
 
 1. **Menghilangkan Kekambuhan Perilaku Melalui Pelepasan Dukungan Bertahap (*Relapse-Proof Transition*)**: Santri terlatih mandiri secara alami tanpa guncangan psikologis.
 2. **Membangun Efikasi Diri dan Kebanggaan Batiniah Santri (*Empowered Self-Worth*)**: Wisuda transisi memberikan bukti nyata bahwa santri mampu menaklukkan kelemahannya sendiri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi At-Tadrīj dan Multi-Tiered Systems of Support**: Mengukuhkan pesantren TUMBUH sebagai institusi dengan tata kelola transisi intervensi paling ilmiah di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi At-Tadrīj dan Multi-Tiered Systems of Support**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi dengan tata kelola transisi intervensi paling ilmiah di dunia Islam.[^5]
 
 ---
 
@@ -216,7 +216,7 @@ Penerapan protokol transisi Form TDL ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-02-04: PROTOKOL TRANSISI DAN DE-ESKALASI LINTAS TIER** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-02-04: PROTOKOL TRANSISI DAN DE-ESKALASI LINTAS TIER** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -284,8 +284,8 @@ flowchart TD
 [^1]: Kerangka kerja pengambilan keputusan transisi berbasis data dalam Integrated MTSS, McIntosh & Goodman (2016, hlm. 48).  
 [^2]: Prinsip Behavioral Fading dan transfer kendali perilaku menuju self-management, Cooper, Heron, & Heward (2020, hlm. 612).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 82), bab metode penyapihan jiwa santri dari ketergantungan pengawasan luar menuju kemerdekaan batin.  
-[^4]: Protokol fading out bertahap dan wisuda kemandirian CICO Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol transisi dan de-eskalasi lintas tier di Pesantren TUMBUH (2026).  
+[^4]: Protokol fading out bertahap dan wisuda kemandirian CICO Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol transisi dan de-eskalasi lintas tier di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

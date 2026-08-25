@@ -1,5 +1,5 @@
 # P6-09-02: SOP WELCOMING CIRCLE DAN REINTEGRATION PLAN
-## *Monograf Riset Akademik: Standarisasi Protokol Penyelenggaraan Lingkaran Penyambutan Kembali, Perancangan Rencana Reintegrasi Asrama Terpadu, dan Pengawalan Transisi Santri Pasca-Krisis (Welcoming Circle SOP, Comprehensive Reintegration Plan CRP, & Post-Crisis Transition / Form SWC-Welcoming), Integrasi Doktrin 'Husnul Istiqbāl wal Ihtidhān' Turats Klasik dengan Braithwaite's Reintegration Ceremonies, Social Support Systems, Serta Kehangatan Ukhuwah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Penyelenggaraan Lingkaran Penyambutan Kembali, Perancangan Rencana Reintegrasi Asrama Terpadu, dan Pengawalan Transisi Santri Pasca-Krisis (Welcoming Circle SOP, Comprehensive Reintegration Plan CRP, & Post-Crisis Transition / Form SWC-Welcoming), Integrasi Doktrin 'Husnul Istiqbāl wal Ihtidhān' Turats Klasik dengan Braithwaite's Reintegration Ceremonies, Social Support Systems, Serta Kehangatan Ukhuwah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-09-02/MONOGRAF-RISET-SOP-WELCOMING-CIRCLE/2026`  
 **Domain**: `06 Intervention Framework` > `09 Recovery` (Sub-Modul 02: *Welcoming Circle SOP & Comprehensive Reintegration Plan*)  
@@ -211,7 +211,7 @@ Penerapan protokol Welcoming Circle Form SWC ini menghadirkan keunggulan peradab
 
 1. **Melenyapkan Rasa Canggung dan Keterasingan Santri Pasca-Krisis (*Zero Re-entry Friction*)**: Mengubah momen menegangkan menjadi lembaran baru persaudaraan yang indah.
 2. **Mencegah Kekambuhan Masalah Perilaku Secara Efektif (*Relapse Prevention Mastery*)**: Pendampingan 30 hari memastikan santri memiliki sistem pendukung yang kokoh.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Husnul Istiqbāl dan Reintegration Ceremonies Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan proses pengayoman transisional paling hangat di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Husnul Istiqbāl dan Reintegration Ceremonies Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan proses pengayoman transisional paling hangat di dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan protokol Welcoming Circle Form SWC ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-09-02: SOP WELCOMING CIRCLE DAN REINTEGRATION PLAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-09-02: SOP WELCOMING CIRCLE DAN REINTEGRATION PLAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -287,8 +287,8 @@ flowchart TD
 [^1]: Konsep Reintegration Ceremonies John Braithwaite dalam pemulihan status sosial individu pasca-sanksi, Braithwaite (1989, hlm. 72 & 2002, hlm. 94).  
 [^2]: Model Comprehensive Reintegration Plan (CRP) Gordon Bazemore dalam transisi reintegrasi pendidikan, Bazemore & Stinchcomb (2001, hlm. 230).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 176), bab hak-hak persaudaraan dalam membaguskan penyambutan kepulangan dan melenyapkan rasa asing.  
-[^4]: SOP pelaksanaan Welcoming Circle kamar asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP Welcoming Circle dan Reintegration Plan di Pesantren TUMBUH (2026).  
+[^4]: SOP pelaksanaan Welcoming Circle kamar asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP Welcoming Circle dan Reintegration Plan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

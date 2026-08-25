@@ -1,5 +1,5 @@
 # P8-01-01: ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN
-## *Monograf Riset Akademik: Standarisasi Arsitektur School-Wide Positive Behavioral Interventions and Supports (SW-PBIS) Multi-Tier dalam Ekosistem Asrama 24 Jam, Desain Piramida Intervensi Proporsional (Tier 1 Universal, Tier 2 Targeted, Tier 3 Intensive), dan Mekanisme Transisi Berbasis Data (Multi-Tier SW-PBIS Architecture in 24-Hour Pesantren, Proportional Intervention Pyramid, & Data-Driven Transition Protocols / Form PBIS-Arsitektur), Integrasi Doktrin 'Marātib at-Tarbiyah wal Ināyah bil-Khalq' Turats Klasik dengan Horner-Sugai PBIS Framework, MTSS Behavioral Systems, Serta Rekayasa Iklim Perilaku di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Arsitektur School-Wide Positive Behavioral Interventions and Supports (SW-PBIS) Multi-Tier dalam Ekosistem Asrama 24 Jam, Desain Piramida Intervensi Proporsional (Tier 1 Universal, Tier 2 Targeted, Tier 3 Intensive), dan Mekanisme Transisi Berbasis Data (Multi-Tier SW-PBIS Architecture in 24-Hour Pesantren, Proportional Intervention Pyramid, & Data-Driven Transition Protocols / Form PBIS-Arsitektur), Integrasi Doktrin 'Marātib at-Tarbiyah wal Ināyah bil-Khalq' Turats Klasik dengan Horner-Sugai PBIS Framework, MTSS Behavioral Systems, Serta Rekayasa Iklim Perilaku di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-01-01/MONOGRAF-RISET-ARSITEKTUR-SW-PBIS/2026`  
 **Domain**: `08 Integrated Approaches` > `01 PBIS` (Sub-Modul 01: *School-Wide Multi-Tier PBIS Architecture in Pesantren*)  
@@ -100,7 +100,7 @@ Implementasi SW-PBIS multi-tier di lingkungan pengasuhan 24 jam pesantren mengha
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-01-01: ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-01-01: ARSITEKTUR SW-PBIS MULTI-TIER PESANTREN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -153,5 +153,5 @@ flowchart TD
 
 [^1]: Sugai & Horner mengenai kerangka dasar School-Wide Positive Behavioral Interventions and Supports (SW-PBIS), Sugai & Horner (2002, hlm. 377).
 [^2]: Landasan hadits Nabawi mengenai prinsip kemudahan dan kabar gembira dalam tarbiyah, HR. Al-Bukhari No. 69.
-[^3]: Studi kasus penerapan CICO Tier 2 mencegah eskalasi sanksi santri berisiko Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan CICO Tier 2 mencegah eskalasi sanksi santri berisiko Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak fidelitas Tier 1 terhadap penurunan beban intervensi kasus Tier 2 dan Tier 3 di lingkungan asrama 24 jam (2026).

@@ -1,5 +1,5 @@
 # P5-09-03: RUBRIK KARAKTER MANAJEMEN WAKTU DAN KHIDMAH (DIMENSI 7–10)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Empat Dimensi Kemandirian dan Kontribusi Sosial (Hāritsun 'alā Waqtih, Munazhzhamun fī Syu'ūnih, Qādirun 'alal Kasb, & Nāfi'un Lighairih), Integrasi Doktrin 'Hifzhul Waqt, Al-Itqān, Al-Kasbul Halāl, wa Khairun Nās' Turats Klasik dengan Time-Use Efficiency, 5S Workplace Organization, Entrepreneurial Mindset, & Prosocial Service Learning, Serta Desain Indikator Operasional di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Empat Dimensi Kemandirian dan Kontribusi Sosial (Hāritsun 'alā Waqtih, Munazhzhamun fī Syu'ūnih, Qādirun 'alal Kasb, & Nāfi'un Lighairih), Integrasi Doktrin 'Hifzhul Waqt, Al-Itqān, Al-Kasbul Halāl, wa Khairun Nās' Turats Klasik dengan Time-Use Efficiency, 5S Workplace Organization, Entrepreneurial Mindset, & Prosocial Service Learning, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-09-03/MONOGRAF-RISET-RUBRIK-WAKTU-ORGANISASI-KHIDMAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 03: *Time-Management, Organization, Productivity, & Altruism Rubrics - Dimensions 7 to 10*)  
@@ -219,7 +219,7 @@ Penerapan rubrik BARS dimensi 7–10 Form RKS-03 ini menghadirkan keunggulan per
 
 1. **Mencetak Kader Muslim yang Berkarakter Profesional Kelas Dunia (*World-Class Professional Character*)**: Lulusan santri memiliki manajemen waktu presisi, etos kerja rapi, dan kemandirian hidup tinggi.
 2. **Menghidupkan Kembali Ruh Khidmah dan Kerelawanan Sejati (*Altruistic Spirit*)**: Santri terlatih sejak dini untuk mengulurkan tangan menolong sesama tanpa mengharapkan imbalan materi.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Lean Management 5S dan Fiqhul Mu'amalat**: Menjadikan pesantren TUMBUH sebagai institusi pendidikan Islam modern paling tertib, bersih, dan berdaya guna.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Lean Management 5S dan Fiqhul Mu'amalat**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam modern paling tertib, bersih, dan berdaya guna.[^5]
 
 ---
 
@@ -227,7 +227,7 @@ Penerapan rubrik BARS dimensi 7–10 Form RKS-03 ini menghadirkan keunggulan per
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-09-03: RUBRIK KARAKTER MANAJEMEN WAKTU DAN KHIDMAH (DIMENSI 7–10)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-09-03: RUBRIK KARAKTER MANAJEMEN WAKTU DAN KHIDMAH (DIMENSI 7–10)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -295,8 +295,8 @@ flowchart TD
 [^1]: Metodologi 5S Lean Management Takashi Osada dalam menciptakan lingkungan kerja yang teratur, bersih, dan berstandar, Osada (1991, hlm. 24).  
 [^2]: Model Service-Learning Andrew Furco mengenai integrasi pelayanan masyarakat dengan capaian pembelajaran karakter, Furco (1996, hlm. 3).  
 [^3]: Ibnul Jauzi, *Shaidul Khathir* (2004, hlm. 82), bab memuliakan waktu dan menghindari kekacauan hidup yang mencerai-beraikan hati.  
-[^4]: Protokol transformasi kebersihan kamar 5S dan pembiasaan tertib hidup santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan rubrik karakter manajemen waktu dan khidmah di Pesantren TUMBUH (2026).  
+[^4]: Protokol transformasi kebersihan kamar 5S dan pembiasaan tertib hidup santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan rubrik karakter manajemen waktu dan khidmah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

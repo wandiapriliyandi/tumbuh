@@ -1,5 +1,5 @@
 # P3-11-10: PROTOKOL INTERVENSI DAN PEMBIASAAN MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Arsitektur Intervensi Multi-Tier School-Wide PBIS Keteraturan Hidup & Tata Kelola Asrama, Protokol Pencegahan Universal (Tier 1 Ekosistem 5S Kaizen & Standarisasi Loker 24 Jam), Intervensi Terarah (Tier 2 Check-in/Check-out / CICO Tata Kelola & Scaffolding Cuci Pakaian), Pemulihan Intensif (Tier 3 Individualized Organizing Reclamation Plan / IORP & Terapi Hoarding), Serta Eliminasi Hukuman Fisik Kerapian di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Intervensi Multi-Tier School-Wide PBIS Keteraturan Hidup & Tata Kelola Asrama, Protokol Pencegahan Universal (Tier 1 Ekosistem 5S Kaizen & Standarisasi Loker 24 Jam), Intervensi Terarah (Tier 2 Check-in/Check-out / CICO Tata Kelola & Scaffolding Cuci Pakaian), Pemulihan Intensif (Tier 3 Individualized Organizing Reclamation Plan / IORP & Terapi Hoarding), Serta Eliminasi Hukuman Fisik Kerapian di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-10/MONOGRAF-RISET-PROTOKOL-INTERVENSI-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 10: *Intervention & Habituation Protocols*)  
@@ -224,7 +224,7 @@ Penerapan protokol PBIS Multi-Tier pada aspek tata kelola hidup membuktikan bahw
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-10: PROTOKOL INTERVENSI DAN PEMBIASAAN MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-10: PROTOKOL INTERVENSI DAN PEMBIASAAN MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

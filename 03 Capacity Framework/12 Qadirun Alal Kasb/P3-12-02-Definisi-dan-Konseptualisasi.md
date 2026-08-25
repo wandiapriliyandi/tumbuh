@@ -1,5 +1,5 @@
 # P3-12-02: DEFINISI DAN KONSEPTUALISASI QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Ontologi & Batas Definisional Kemandirian Finansial Islami, Konstruk Empat Dimensi Produktivitas Ekonomi 24 Jam (Jiwa Kewirausahaan Inovatif, Literasi Finansial & Pembukuan Kas, Etika Muamalah Bebas Riba/Gharar, Serta Filantropi Produktif Berdaya), Dialektika Kemandirian Berkah vs Kapitalisme Serakah Sekuler / Fatalisme Pasif Feodal, Serta Formulasi Operasional di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Ontologi & Batas Definisional Kemandirian Finansial Islami, Konstruk Empat Dimensi Produktivitas Ekonomi 24 Jam (Jiwa Kewirausahaan Inovatif, Literasi Finansial & Pembukuan Kas, Etika Muamalah Bebas Riba/Gharar, Serta Filantropi Produktif Berdaya), Dialektika Kemandirian Berkah vs Kapitalisme Serakah Sekuler / Fatalisme Pasif Feodal, Serta Formulasi Operasional di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-02/MONOGRAF-RISET-DEFINISI-KONSEPTUALISASI-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 02: *Definition & Conceptualization*)  
@@ -225,7 +225,7 @@ Konseptualisasi Qadirun 'Alal Kasb membuktikan bahwa:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-02: DEFINISI DAN KONSEPTUALISASI QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-02: DEFINISI DAN KONSEPTUALISASI QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -1,5 +1,5 @@
 # P5-07-01: ASESMEN SEBAYA BERBASIS UKHUWAH ISLAMIYAH
-## *Monograf Riset Akademik: Metodologi Penilaian Teman Sebaya Konstruktif (Constructive Peer Assessment & Peer Feedback), Integrasi Doktrin 'Al-Mu'minu Mir'ātu Akhīhi wa An-Nashīhatu lil Muslimīn' Turats Klasik dengan Topping's Peer Assessment Framework, Social-Emotional Learning (CASEL Relationship Skills), Serta Desain Umpan Balik Kebaikan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Penilaian Teman Sebaya Konstruktif (Constructive Peer Assessment & Peer Feedback), Integrasi Doktrin 'Al-Mu'minu Mir'ātu Akhīhi wa An-Nashīhatu lil Muslimīn' Turats Klasik dengan Topping's Peer Assessment Framework, Social-Emotional Learning (CASEL Relationship Skills), Serta Desain Umpan Balik Kebaikan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-07-01/MONOGRAF-RISET-ASESMEN-SEBAYA-UKHUWAH/2026`  
 **Domain**: `05 Assessment Framework` > `07 Peer Assessment` (Sub-Modul 01: *Ukhuwah-Based Peer Assessment & Constructive Feedback*)  
@@ -224,7 +224,7 @@ Penerapan asesmen sebaya berbasis ukhuwah Form ASB ini menghadirkan keunggulan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-07-01: ASESMEN SEBAYA BERBASIS UKHUWAH ISLAMIYAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-07-01: ASESMEN SEBAYA BERBASIS UKHUWAH ISLAMIYAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Penelitian Keith Topping mengenai metodologi asesmen sebaya dan mitigasi bias pertemanan, Topping (1998, hlm. 254).  
 [^2]: Kerangka kerja CASEL mengenai Social-Emotional Learning dan keterampilan membangun relasi interpersonal, CASEL (2020, hlm. 4).  
 [^3]: Asy-Syafi'i, *Diwanul Imam Asy-Syafi'i* (1998, hlm. 68), bait syair tentang adab menasihati secara rahasia untuk menjaga kehormatan saudara.  
-[^4]: Protokol mediasi asesmen sebaya ukhuwah dan resolusi perselisihan santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan asesmen sebaya berbasis ukhuwah Islamiyah di Pesantren TUMBUH (2026).  
+[^4]: Protokol mediasi asesmen sebaya ukhuwah dan resolusi perselisihan santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan asesmen sebaya berbasis ukhuwah Islamiyah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

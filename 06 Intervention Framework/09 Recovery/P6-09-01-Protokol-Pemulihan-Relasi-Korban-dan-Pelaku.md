@@ -1,5 +1,5 @@
 # P6-09-01: PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU
-## *Monograf Riset Akademik: Standarisasi Mediasi Pemulihan Relasi Korban-Pelaku, Manajemen Rekonsiliasi Luka Batin, dan Rekonstruksi Ukhuwah Tanpa Reviktimisasi (Victim-Offender Mediation Protocols VOM, Relational Healing, & Sulhul Ukhuwwah / Form PRK-Relasi), Integrasi Doktrin 'Ishlāhul Qulūb wa Musāmahah Salaf' Turats Klasik dengan Umbreit's Victim-Offender Mediation Model, Trauma-Informed Restorative Justice, Serta Keutuhan Batin di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Mediasi Pemulihan Relasi Korban-Pelaku, Manajemen Rekonsiliasi Luka Batin, dan Rekonstruksi Ukhuwah Tanpa Reviktimisasi (Victim-Offender Mediation Protocols VOM, Relational Healing, & Sulhul Ukhuwwah / Form PRK-Relasi), Integrasi Doktrin 'Ishlāhul Qulūb wa Musāmahah Salaf' Turats Klasik dengan Umbreit's Victim-Offender Mediation Model, Trauma-Informed Restorative Justice, Serta Keutuhan Batin di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-09-01/MONOGRAF-RISET-PEMULIHAN-RELASI-KORBAN-PELAKU/2026`  
 **Domain**: `06 Intervention Framework` > `09 Recovery` (Sub-Modul 01: *Victim-Offender Mediation Protocols & Relational Healing*)  
@@ -210,7 +210,7 @@ Penerapan protokol pemulihan relasi Form PRK ini menghadirkan keunggulan peradab
 
 1. **Menghapus Tradisi Rekonsiliasi Palsu di Pesantren (*Eradication of False Reconciliation*)**: Menjamin bahwa perdamaian yang terjadi adalah perdamaian sejati yang menyembuhkan batiniah.
 2. **Memberikan Perlindungan Hak Asasi dan Kesejahteraan Psikologis Korban (*Victim Empowerment & Healing*)**: Korban merasa aman, didengar, dan dipulihkan martabatnya.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ishlāhul Qulūb dan Victim-Offender Mediation Framework**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan resolusi konflik interpersonal paling bermartabat di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ishlāhul Qulūb dan Victim-Offender Mediation Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan resolusi konflik interpersonal paling bermartabat di dunia.[^5]
 
 ---
 
@@ -218,7 +218,7 @@ Penerapan protokol pemulihan relasi Form PRK ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-09-01: PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-09-01: PROTOKOL PEMULIHAN RELASI KORBAN DAN PELAKU** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Model Victim-Offender Mediation (VOM) Mark Umbreit dalam resolusi konflik dialogis berbasis pemulihan korban, Umbreit (2001, hlm. 44) & Umbreit & Armour (2010, hlm. 82).  
 [^2]: Prinsip Trauma-Informed Restorative Care SAMHSA mengenai penghindaran reviktimisasi sekunder, SAMHSA (2014, hlm. 10).  
 [^3]: Al-Mawardi, *Al-Hawi Al-Kabir* (1994, Jilid 6, hlm. 382), bab syarat sahnya ishlah perdamaian atas dasar kerelaan jiwa dan larangan pemaksaan atas korban.  
-[^4]: Protokol mediasi pemulihan relasi VOM 3 sesi Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol pemulihan relasi korban dan pelaku di Pesantren TUMBUH (2026).  
+[^4]: Protokol mediasi pemulihan relasi VOM 3 sesi Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol pemulihan relasi korban dan pelaku di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

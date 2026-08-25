@@ -1,5 +1,5 @@
 # P6-03-02: ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)
-## *Monograf Riset Akademik: Algoritma Rujukan Berbasis Data Frekuensi Pelanggaran Kumulatif dan Jalur Akselerasi Kasus Darurat (Data-Based Referral Rules: Modified Rule of 3-Strikes & Immediate Tier 3 Fast-Track / Form ARU-Rujukan), Integrasi Doktrin 'Al-I'dzār wal Indzār Tsalātsan wa Hifzhun Nufūs' Turats Klasik dengan McIntosh's SWIS Decision Benchmarks, Crisis Triage Protocols, Serta Sistem Rujukan Otomatis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Algoritma Rujukan Berbasis Data Frekuensi Pelanggaran Kumulatif dan Jalur Akselerasi Kasus Darurat (Data-Based Referral Rules: Modified Rule of 3-Strikes & Immediate Tier 3 Fast-Track / Form ARU-Rujukan), Integrasi Doktrin 'Al-I'dzār wal Indzār Tsalātsan wa Hifzhun Nufūs' Turats Klasik dengan McIntosh's SWIS Decision Benchmarks, Crisis Triage Protocols, Serta Sistem Rujukan Otomatis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-03-02/MONOGRAF-RISET-ATURAN-RUJUKAN-3-STRIKES/2026`  
 **Domain**: `06 Intervention Framework` > `03 Decision Rules` (Sub-Modul 02: *Data-Based Referral Rules: 3-Strikes & Immediate Tier 3*)  
@@ -213,7 +213,7 @@ Penerapan aturan rujukan Form ARU ini menghadirkan keunggulan peradaban:
 
 1. **Menghapus Total Praktik Favoritisme dan Diskriminasi Pengasuhan (*Zero Bias Guarantee*)**: Sistem SIM memperlakukan seluruh santri secara adil dan setara berdasarkan data riil.
 2. **Menjamin Kecepatan Respon Penyelamatan Santri dalam Kondisi Kritis (*Sub-15-Minute Crisis Triage*)**: Menghilangkan birokrasi berbelit-belit saat terjadi bahaya darurat.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Indzār Tsalātsan dan SWIS Decision Rules**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan sistem rujukan paling transparan di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Indzār Tsalātsan dan SWIS Decision Rules**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan sistem rujukan paling transparan di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan aturan rujukan Form ARU ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-03-02: ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-03-02: ATURAN RUJUKAN (RULE OF 3 STRIKES & IMMEDIATE TIER 3)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -287,8 +287,8 @@ flowchart TD
 [^1]: Validitas penggunaan Office Discipline Referrals (ODRs) sebagai tolok ukur rujukan objektif PBIS, McIntosh et al. (2009, hlm. 122).  
 [^2]: Aturan pengambilan keputusan berbasis ambang batas frekuensi data ODRs dalam MTSS, McIntosh & Goodman (2016, hlm. 64).  
 [^3]: Al-Qarafi, *Al-Furuq* (1998, Jilid 4, hlm. 176), bab kaidah menghabiskan uzur melalui peringatan bertahap dan pengecualian bagi bahaya darurat.  
-[^4]: Protokol aktivasi Fast-Track Immediate Tier 3 dan penyelamatan santri krisis Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan aturan rujukan data-based 3-strikes di Pesantren TUMBUH (2026).  
+[^4]: Protokol aktivasi Fast-Track Immediate Tier 3 dan penyelamatan santri krisis Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan aturan rujukan data-based 3-strikes di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P3-12-12: METODE PEDAGOGI DAN DIDAKTIK QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Empat Model Instruksional Pembinaan Kemandirian Finansial & Vokasi (Living Entrepreneurial Exemplary / Qudwah, Socratic Business-Case Dilemma, Venture Creation Incubator Lab, & Micro-Financial Habit Conditioning), Desain Integrasi Kurikulum Fiqh Muamalah Praktis di Madrasah & Unit Usaha 24 Jam, Transformasi Pendidik Berjiwa Mandiri, Serta Pembentukan Santri Preneur Beradab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Empat Model Instruksional Pembinaan Kemandirian Finansial & Vokasi (Living Entrepreneurial Exemplary / Qudwah, Socratic Business-Case Dilemma, Venture Creation Incubator Lab, & Micro-Financial Habit Conditioning), Desain Integrasi Kurikulum Fiqh Muamalah Praktis di Madrasah & Unit Usaha 24 Jam, Transformasi Pendidik Berjiwa Mandiri, Serta Pembentukan Santri Preneur Beradab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-12/MONOGRAF-RISET-PEDAGOGI-DIDAKTIK-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 12: *Pedagogical Methods & Financial Independence Didactics*)  
@@ -212,7 +212,7 @@ Penerapan empat model didaktik ini menghasilkan transformasi mendalam:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-12: METODE PEDAGOGI DAN DIDAKTIK QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-12: METODE PEDAGOGI DAN DIDAKTIK QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

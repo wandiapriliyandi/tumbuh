@@ -1,5 +1,5 @@
 # P10-04-02: METODE REFLEKSI KELOMPOK CIRCLE OF GRATITUDE
-## *Monograf Riset Akademik: Standarisasi Metode Lingkaran Syukur dan Apresiasi Sebaya Mingguan (Weekly Circle of Gratitude & Peer Appreciation), Desain Fasilitasi Dialog Terbuka Menggunakan Talking Piece Syar'i, dan Penguatan Kohesi Sosial Bi'ah Shalihah Asrama (Weekly Gratitude Circle Facilitation, Sacred Talking-Piece Restorative Architecture, & Dormitory Ukhuwah Bonding / Form MET-GratitudeCircle), Integrasi Doktrin 'Man Lā Yasykurin Nāsa Lā Yasykurillāh' Turats Klasik dengan Emmons & McCullough Gratitude Psychology, Boyes-Watson Circle Practice, Serta Kohesi Sosial di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Lingkaran Syukur dan Apresiasi Sebaya Mingguan (Weekly Circle of Gratitude & Peer Appreciation), Desain Fasilitasi Dialog Terbuka Menggunakan Talking Piece Syar'i, dan Penguatan Kohesi Sosial Bi'ah Shalihah Asrama (Weekly Gratitude Circle Facilitation, Sacred Talking-Piece Restorative Architecture, & Dormitory Ukhuwah Bonding / Form MET-GratitudeCircle), Integrasi Doktrin 'Man Lā Yasykurin Nāsa Lā Yasykurillāh' Turats Klasik dengan Emmons & McCullough Gratitude Psychology, Boyes-Watson Circle Practice, Serta Kohesi Sosial di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-04-02/MONOGRAF-RISET-CIRCLE-OF-GRATITUDE/2026`  
 **Domain**: `10 Methods` > `04 Reflection Methods` (Sub-Modul 02: *Weekly Group Circle of Gratitude Facilitation*)  
@@ -106,7 +106,7 @@ Penerapan *Circle of Gratitude* membuktikan bahwa kohesi sosial tidak terbentuk 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-04-02: METODE REFLEKSI KELOMPOK CIRCLE OF GRATITUDE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-04-02: METODE REFLEKSI KELOMPOK CIRCLE OF GRATITUDE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -159,5 +159,5 @@ flowchart TD
 
 [^1]: Carolyn Boyes-Watson & Kay Pranis mengenai metodologi Restorative Circles dalam membangun komunitas sekolah yang inklusif dan aman, Boyes-Watson & Pranis (2015, hlm. 42).
 [^2]: Robert A. Emmons & Michael E. McCullough mengenai efek psikologis dan biologis pengungkapan rasa syukur interpersonal, Emmons & McCullough (2003, hlm. 379).
-[^3]: Studi kasus penerapan sesi Circle of Gratitude mencairkan konflik dingin santri sekamar Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan sesi Circle of Gratitude mencairkan konflik dingin santri sekamar Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak fasilitasi lingkaran syukur mingguan terhadap peningkatan kohesi sosial dan eliminasi insiden perkelahian asrama (2026).

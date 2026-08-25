@@ -320,7 +320,7 @@ Tanda Tangan Ketua Dewan Pengasuhan: __________________    Tanggal Sidang: _____
 [^2]: Pembahasan pentingnya gateway assessment dalam transisi kompetensi Outcome-Based Education, Spady (1994, hlm. 104).  
 [^3]: Al-Khatib Al-Baghdadi, *Al-Faqih wal Mutafaqqih* (1996, Jilid 2, hlm. 158).  
 [^4]: Protokol penanganan keterlambatan habituasi (Catch-Up Tier 2) santri jenjang J2 TUMBUH (2026).  
-[^5]: Spesifikasi empat paket master instrumen etape perkembangan santri TUMBUH (2026).  
+[^5]: Spesifikasi empat paket master instrumen etape perkembangan santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penerapan katalog instrumen evaluasi perkembangan longitudinal SIM Intizham TUMBUH (2026).  
 
 ---

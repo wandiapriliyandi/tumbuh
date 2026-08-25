@@ -1,5 +1,5 @@
 # P6-07-05: MANAJEMEN REINTEGRASI SANTRI PASCA-KONFLIK DAN ANTI-STIGMA
-## *Monograf Riset Akademik: Standarisasi Protokol Penerimaan Kembali Santri, Eliminasi Pelabelan Negatif Komunal, dan Perlindungan Hak Kehormatan Pasca-Pemulihan (Post-Conflict Reintegration Protocols, Anti-Stigmatization Shields, & Taubah Acceptation / Form MRS-Reintegrasi), Integrasi Doktrin 'At-Taubatu Tajubbu Mā Qablahā wa Sitrul 'Aurāt' Turats Klasik dengan Braithwaite's Reintegrative Shaming vs Disintegrative Shaming, Labeling Theory (Becker), Serta Kemuliaan Fitrah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Penerimaan Kembali Santri, Eliminasi Pelabelan Negatif Komunal, dan Perlindungan Hak Kehormatan Pasca-Pemulihan (Post-Conflict Reintegration Protocols, Anti-Stigmatization Shields, & Taubah Acceptation / Form MRS-Reintegrasi), Integrasi Doktrin 'At-Taubatu Tajubbu Mā Qablahā wa Sitrul 'Aurāt' Turats Klasik dengan Braithwaite's Reintegrative Shaming vs Disintegrative Shaming, Labeling Theory (Becker), Serta Kemuliaan Fitrah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-07-05/MONOGRAF-RISET-REINTEGRASI-ANTI-STIGMA/2026`  
 **Domain**: `06 Intervention Framework` > `07 Corrective Strategies` (Sub-Modul 05: *Post-Conflict Reintegration Protocols & Anti-Stigmatization Shields*)  
@@ -209,7 +209,7 @@ Penerapan manajemen reintegrasi Form MRS ini menghadirkan keunggulan peradaban:
 
 1. **Mewujudkan Pesantren Sebagai Rumah Rahmat yang Memuliakan Taubat (*Ecosystem of Mercy & Redemption*)**: Menghidupkan sunnah Nabawiyah dalam membimbing pendosa menjadi kekasih Allah.
 2. **Menghapus Siklus Residivisme Pelanggaran Selamanya (*Eradication of Secondary Deviance*)**: Mencegah santri kembali berbuat salah akibat putus asa dicap buruk oleh lingkungan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Qubūlut Taubah dan Reintegrative Shaming Theory**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan perlindungan martabat santri paling mulia di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Qubūlut Taubah dan Reintegrative Shaming Theory**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan perlindungan martabat santri paling mulia di dunia.[^5]
 
 ---
 
@@ -217,7 +217,7 @@ Penerapan manajemen reintegrasi Form MRS ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-07-05: MANAJEMEN REINTEGRASI SANTRI PASCA-KONFLIK DAN ANTI-STIGMA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-07-05: MANAJEMEN REINTEGRASI SANTRI PASCA-KONFLIK DAN ANTI-STIGMA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -285,8 +285,8 @@ flowchart TD
 [^1]: Teori Reintegrative Shaming John Braithwaite mengenai pemulihan status pelaku ke dalam komunitas sosial, Braithwaite (1989, hlm. 55 & 2002, hlm. 74).  
 [^2]: Labeling Theory Howard Becker mengenai pembentukan deviasi sekunder akibat pelabelan sosial negatif, Becker (1963, hlm. 31).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 4, hlm. 12), bab kewajiban menutup aib orang yang bertaubat dan haramnya mencela dosa masa lalu saudara seiman.  
-[^4]: Protokol reintegrasi sosial anti-stigma dan pemulihan kehormatan santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen reintegrasi santri pasca-konflik di Pesantren TUMBUH (2026).  
+[^4]: Protokol reintegrasi sosial anti-stigma dan pemulihan kehormatan santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen reintegrasi santri pasca-konflik di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

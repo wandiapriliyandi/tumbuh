@@ -186,7 +186,7 @@ flowchart TD
 
 Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan kelembagaan pesantren:
 
-* **Mencegah Kemunduran Menjadi Lembaga Otoriter Tertutup (*Total Institution*)**: Dengan mengadopsi kritik internal dan desakralisasi SOP, pesantren TUMBUH bertransformasi dari lembaga tertutup yang menuntut kepatuhan buta menjadi **Organisasi Pembelajar (*Learning Organization*)** yang hidup, humanis, dan berkeadilan tinggi.[^11]
+* **Mencegah Kemunduran Menjadi Lembaga Otoriter Tertutup (*Total Institution*)**: Dengan mengadopsi kritik internal dan desakralisasi SOP, ekosistem pesantren berbasis TUMBUH bertransformasi dari lembaga tertutup yang menuntut kepatuhan buta menjadi **Organisasi Pembelajar (*Learning Organization*)** yang hidup, humanis, dan berkeadilan tinggi.[^11]
 * **Membangun Budaya Integritas dan Transparansi Moral**: Ketika santri melihat bahwa asatidz dan pengurus bersedia meminta maaf saat keliru dan terbuka terhadap evaluasi, santri menyerap pelajaran adab tertinggi: bahwa kebenaran berada di atas kekuasaan (*Al-Haqqu Ya'lu wala Yu'la 'Alaih*).
 * **Menjamin Keberlanjutan Keberkahan Kelembagaan**: Sistem pesantren yang berakar pada dalil wahyu yang suci sembari membuka diri terhadap audit kualitas saintifik akan terus bertumbuh relevan, kokoh, dan melahirkan para pemimpin peradaban sepanjang masa.[^12]
 
@@ -196,7 +196,7 @@ Penerapan kritik internal dan uji ketahanan ontologis ini mengukuhkan keunggulan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-01-06: KRITIK INTERNAL DAN UJI KETAHANAN ONTOLOGIS (INTERNAL CRITIQUE & ONTOLOGICAL STRESS-TESTING)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-01-06: KRITIK INTERNAL DAN UJI KETAHANAN ONTOLOGIS (INTERNAL CRITIQUE & ONTOLOGICAL STRESS-TESTING)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -264,7 +264,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Audit Kualitas Epistemologis Pesantren TUMBUH, *Kritik atas Sakralisasi Kebijakan dan Otoritarianisme*, 2026.  
+[^1]: Riset Audit Kualitas Epistemologis Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Sakralisasi Kebijakan dan Otoritarianisme*, 2026.  
 [^2]: Kaidah Ushul Fiqh Konsensus Ahlussunnah, *Al-Hukmu bizh-Zhawahir*; Al-Ghazali, *Al-Mustashfa*, Jilid 1, hlm. 95–120.  
 [^3]: Pedoman Pembuktian Pelanggaran Berbasis Fakta Teramati PBIS TUMBUH, 2026.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tawhid*, hlm. 240–275.  
@@ -273,7 +273,7 @@ flowchart TD
 [^7]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 150–185.  
 [^8]: Dokumentasi Resolusi Kebijakan Disiplin Tidak Proporsional Asrama TUMBUH, 2026.  
 [^9]: Matriks Tingkatan Kesadaran Nalar Kritis (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^10]: Piagam Desakralisasi SOP & Sistem Whistleblower Perlindungan Santri TUMBUH, 2026.  
+[^10]: Piagam Desakralisasi SOP & Sistem Whistleblower Perlindungan Santri dalam sistem TUMBUH, 2026.  
 [^11]: Goffman, E. (1961), *Asylums*, hlm. 15–48; Senge, P. (1990), *The Fifth Discipline*, hlm. 65–95.  
 [^12]: Blueprint Tata Kelola Kelembagaan Pesantren Berkelanjutan TUMBUH, 2026.
 

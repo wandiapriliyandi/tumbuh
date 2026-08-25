@@ -38,7 +38,7 @@ Pakar perkembangan manusia **Robert J. Havighurst**[^1] merumuskan bahwa tugas p
 
 Pakar diferensiasi kurikulum **Carol Ann Tomlinson**[^2] menekankan bahwa kurikulum yang efektif harus disesuaikan dengan kesiapan belajar (*readiness*), minat, dan profil belajar peserta didik. 
 
-Tabel berikut menyajikan pemetaan capaian adab berjenjang pada tingkat MTs di pesantren TUMBUH:
+Tabel berikut menyajikan pemetaan capaian adab berjenjang pada tingkat MTs dalam sistem TUMBUH di pesantren:
 
 | Jenjang Kelas | Target Jenjang Kemandirian TUMBUH (J1–J4) | Fokus Capaian Pembelajaran Karakter (Observable Behaviors) |
 | :--- | :--- | :--- |
@@ -60,7 +60,7 @@ Pembagian target capaian usia 12–15 tahun ini sangat selaras dengan arahan par
 
 ### Solusi Sistemik TUMBUH: Buku Panduan Logbook Adab MTs
 
-Di pesantren TUMBUH, setiap santri MTs memegang **Buku Jurnal Adab Harian MTs (*My Daily Adab Log*)**:
+Dalam sistem TUMBUH di pesantren, setiap santri MTs memegang **Buku Jurnal Adab Harian MTs (*My Daily Adab Log*)**:
 * Berisi checklist 7 kebiasaan emas harian: Shalat 5 waktu berjamaah, tilawah 1 juz, loker rapi 5S, qobliyah-ba'diyah, piket kamar, kata-kata santun, dan tidur tepat pukul 22.00 WIB.
 * Diperiksa secara berkala setiap sore oleh Musyrif Asrama dan diparaf oleh Wali Kelas Madrasah, mewujudkan sinergi pengasuhan yang utuh dan terukur.
 

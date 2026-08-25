@@ -1,5 +1,5 @@
 # P7-09-02: PROTOKOL AUDIT TRAIL TIMESTAMP LOGBOOK MUSYRIF
-## *Monograf Riset Akademik: Standarisasi Protokol Audit Trail Terenkripsi, Verifikasi Timestamp Tak Terubah (Unalterable Timestamping), dan Geofencing dalam Sistem Logbook Digital Musyrif (Encrypted Audit Trail Protocol, Immutable Timestamping, & Geofencing Verification / Form ATL-Logbook), Integrasi Doktrin 'Al-Kitābah bil-Haqq wal Amanah fi Syahādah' Turats Klasik dengan ISO/IEC 27001 Data Integrity Standards, Blockchain-Inspired Immutability, Serta Akuntabilitas Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Audit Trail Terenkripsi, Verifikasi Timestamp Tak Terubah (Unalterable Timestamping), dan Geofencing dalam Sistem Logbook Digital Musyrif (Encrypted Audit Trail Protocol, Immutable Timestamping, & Geofencing Verification / Form ATL-Logbook), Integrasi Doktrin 'Al-Kitābah bil-Haqq wal Amanah fi Syahādah' Turats Klasik dengan ISO/IEC 27001 Data Integrity Standards, Blockchain-Inspired Immutability, Serta Akuntabilitas Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-09-02/MONOGRAF-RISET-AUDIT-TRAIL-LOGBOOK/2026`  
 **Domain**: `07 Implementation Framework` > `09 Monitoring` (Sub-Modul 02: *Audit Trail & Timestamp Verification Protocol*)  
@@ -86,7 +86,7 @@ TARGET_SANTRI_ID   : SNT-2024-0891 (Muhammad Harun - Kelas 8B)
 EVENT_TYPE         : WARM_PRESENCE_CONTACT (Kontak Positif Harian)
 RAW_CONTENT        : "Apresiasi hafalan Surah Al-Kahf ayat 1-10 lancar dan mutqin saat bada fajar."
 SERVER_NTP_TIME    : 2026-08-25T05:22:18.492+07:00
-GPS_COORDINATES    : Lat -6.892341, Lon 107.610452 (Zone: Masjid Jami' Pesantren TUMBUH)
+GPS_COORDINATES    : Lat -6.892341, Lon 107.610452 (Zone: Masjid Jami' Ekosistem Pesantren Berbasis TUMBUH)
 DEVICE_ID_FINGERPRT: SM-A536B-AND13-BUILD-8812 (Musyrif: Ust. Salman Faris)
 HASH_SHA256        : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 SIGNATURE_STATUS   : VERIFIED_VALID ✅ (IMMUTABLE RECORD)
@@ -103,7 +103,7 @@ Implementasi protokol audit trail dengan timestamp tak terubah dan geofencing me
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-09-02: PROTOKOL AUDIT TRAIL TIMESTAMP LOGBOOK MUSYRIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-09-02: PROTOKOL AUDIT TRAIL TIMESTAMP LOGBOOK MUSYRIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -156,5 +156,5 @@ flowchart TD
 
 [^1]: Temuan lapangan mengenai tingkat distorsi faktual pada pencatatan logbook susulan pasca-48 jam di lembaga pendidikan (2026).
 [^2]: Standar kontrol audit logging dan proteksi integritas bukti digital, ISO/IEC 27001:2022 (A.8.15).
-[^3]: Studi kasus verifikasi data audit trail dalam resolusi sengketa pengasuhan santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus verifikasi data audit trail dalam resolusi sengketa pengasuhan santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integritas data logbook terhadap peningkatan akurasi prediktif Early Warning System PBIS (2026).

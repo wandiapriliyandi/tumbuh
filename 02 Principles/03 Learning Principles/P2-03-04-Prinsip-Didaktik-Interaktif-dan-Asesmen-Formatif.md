@@ -28,7 +28,7 @@
   - [4. Rekayasa Asesmen Formatif Dylan Wiliam (Inside the Black Box) & Umpan Balik Deskriptif Konstruktif](#4-rekayasa-asesmen-formatif-dylan-wiliam-inside-the-black-box--umpan-balik-deskriptif-konstruktif)
   - [5. Kasuistika Lapangan: Transformasi Kelas Nahwu Pasif Menjadi Majelis Dialog Aktif 100%](#5-kasuistika-lapangan-transformasi-kelas-nahwu-pasif-menjadi-majelis-dialog-aktif-100)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-didaktik-interaktif-dan-asesmen-formatif-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Didaktik Interaktif dan Asesmen Formatif Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-didaktik-interaktif-dan-asesmen-formatif-pesantren-tumbuh)
   - [2. Matriks Lima Struktur Kagan Cooperative Learning dalam Pembelajaran Kitab & Sains](#2-matriks-lima-struktur-kagan-cooperative-learning-dalam-pembelajaran-kitab--sains)
   - [3. Matriks Lima Strategi Kunci Asesmen Formatif Dylan Wiliam & Aplikasi Nyata di Kelas](#3-matriks-lima-strategi-kunci-asesmen-formatif-dylan-wiliam--aplikasi-nyata-di-kelas)
   - [4. Protokol Umpan Balik Formatif Konstruktif (Actionable Feedback Protocol)](#4-protokol-umpan-balik-formatif-konstruktif-actionable-feedback-protocol)
@@ -109,7 +109,7 @@ Sains asesmen pendidikan kontemporer (Black & Wiliam, 1998; Wiliam, 2011) membuk
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Didaktik Interaktif dan Asesmen Formatif Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Didaktik Interaktif dan Asesmen Formatif Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan pedagogi kelas ke dalam **Arsitektur Tiga Sayap Didaktik Beradab (*Arkan at-Ta'lim at-Tafa'uliy*)**:
 
@@ -184,7 +184,7 @@ Didaktik interaktif dan asesmen formatif ini membawa implikasi agung bagi perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03-04: PRINSIP DIDAKTIK INTERAKTIF DAN ASESMEN FORMATIF (INTERACTIVE DIDACTICS & FORMATIVE ASSESSMENT)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03-04: PRINSIP DIDAKTIK INTERAKTIF DAN ASESMEN FORMATIF (INTERACTIVE DIDACTICS & FORMATIVE ASSESSMENT)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -259,7 +259,7 @@ flowchart TD
 [^5]: Black, P., & Wiliam, D. (1998), *Phi Delta Kappan*, hlm. 139–148; Hattie, J., & Timperley, H. (2007), *Review of Educational Research*, hlm. 81–112.  
 [^6]: Dokumentasi Penerapan Kagan Structures dan Exit Tickets di Madrasah PBIS TUMBUH, 2026.  
 [^7]: Wiliam, D. (2011), *Embedded Formative Assessment*, hlm. 35–70.  
-[^8]: Master Blueprint Kagan Cooperative Learning Pesantren TUMBUH, 2026.  
+[^8]: Master Blueprint Kagan Cooperative Learning Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Asesmen Formatif Cepat di Kelas TUMBUH, 2026.  
 [^10]: Petunjuk Teknis Protokol Medal & Mission Actionable Feedback TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Didaktik Dialogis Nabawiyyah Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.

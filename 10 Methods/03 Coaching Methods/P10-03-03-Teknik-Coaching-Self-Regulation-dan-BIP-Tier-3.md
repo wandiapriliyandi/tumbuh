@@ -1,5 +1,5 @@
 # P10-03-03: TEKNIK COACHING SELF-REGULATION DAN BIP TIER 3
-## *Monograf Riset Akademik: Standarisasi Teknik Pendampingan Coaching Regulasi Diri (Self-Regulation Coaching), Desain Rencana Intervensi Perilaku Individual Klinis (Tier 3 Behavior Intervention Plan / BIP), dan Protokol Penguatan Mujahadatun Nafs Santri Berisiko Tinggi (Tier 3 Self-Regulation Coaching Technique, Clinical BIP Architecture, & Mujahadatun Nafs Empowerment Protocol / Form MET-BIPCoaching), Integrasi Doktrin 'Mujāhadatu an-Nafs wa Zabthu al-Infi'āl' Turats Klasik dengan Bandura Self-Regulation Theory, Sugai & Horner MTSS Tier 3 Clinical Support, Serta Ketahanan Mental Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Pendampingan Coaching Regulasi Diri (Self-Regulation Coaching), Desain Rencana Intervensi Perilaku Individual Klinis (Tier 3 Behavior Intervention Plan / BIP), dan Protokol Penguatan Mujahadatun Nafs Santri Berisiko Tinggi (Tier 3 Self-Regulation Coaching Technique, Clinical BIP Architecture, & Mujahadatun Nafs Empowerment Protocol / Form MET-BIPCoaching), Integrasi Doktrin 'Mujāhadatu an-Nafs wa Zabthu al-Infi'āl' Turats Klasik dengan Bandura Self-Regulation Theory, Sugai & Horner MTSS Tier 3 Clinical Support, Serta Ketahanan Mental Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-03-03/MONOGRAF-RISET-COACHING-SELF-REGULATION-BIP/2026`  
 **Domain**: `10 Methods` > `03 Coaching Methods` (Sub-Modul 03: *Tier 3 Self-Regulation Coaching & BIP Implementation*)  
@@ -109,7 +109,7 @@ Penerapan *Self-Regulation Coaching* dalam kerangka MTSS Tier 3 membongkar mitos
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-03-03: TEKNIK COACHING SELF-REGULATION DAN BIP TIER 3** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-03-03: TEKNIK COACHING SELF-REGULATION DAN BIP TIER 3** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,5 +162,5 @@ flowchart TD
 
 [^1]: George Sugai & Robert Horner mengenai prinsip intervensi individual intensif Tier 3 dalam School-Wide Positive Behavior Support, Sugai & Horner (2006, hlm. 248).
 [^2]: Albert Bandura mengenai mekanisme kognitif sosial dalam regulasi diri perilaku manusia, Bandura (1991, hlm. 250).
-[^3]: Studi kasus penerapan Coaching Self-Regulation dan BIP Tier 3 menyelamatkan santri agresif Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Coaching Self-Regulation dan BIP Tier 3 menyelamatkan santri agresif Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak integrasi latihan somatik-spiritual dan kartu monitoring mandiri terhadap eliminasi perilaku disrupsi kronis santri (2026).

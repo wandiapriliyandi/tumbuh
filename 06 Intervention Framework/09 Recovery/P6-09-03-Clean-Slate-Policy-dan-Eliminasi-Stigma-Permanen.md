@@ -1,5 +1,5 @@
 # P6-09-03: CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN
-## *Monograf Riset Akademik: Standarisasi Kebijakan Penghapusan Catatan Pelanggaran, Perlindungan Kerahasiaan Data Disiplin Digital, dan Penjaminan Hak Lembaran Baru Santri (Clean Slate Expungement Policy, Digital Privacy Safeguards, & Tabula Rasa Re-start / Form CSP-CleanSlate), Integrasi Doktrin 'Mahwudz Dzunūb wa Karāmatul Insān' Turats Klasik dengan Juvenile Record Expungement Frameworks, GDPR/Data Privacy in Education, Serta Kemuliaan Nama Baik di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Kebijakan Penghapusan Catatan Pelanggaran, Perlindungan Kerahasiaan Data Disiplin Digital, dan Penjaminan Hak Lembaran Baru Santri (Clean Slate Expungement Policy, Digital Privacy Safeguards, & Tabula Rasa Re-start / Form CSP-CleanSlate), Integrasi Doktrin 'Mahwudz Dzunūb wa Karāmatul Insān' Turats Klasik dengan Juvenile Record Expungement Frameworks, GDPR/Data Privacy in Education, Serta Kemuliaan Nama Baik di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-09-03/MONOGRAF-RISET-CLEAN-SLATE-POLICY/2026`  
 **Domain**: `06 Intervention Framework` > `09 Recovery` (Sub-Modul 03: *Clean Slate Expungement Policy & Digital Privacy Safeguards*)  
@@ -186,7 +186,7 @@ Nomor Sertifikat: CSP-CLEANSLATE-2026-055              Tanggal Terbit : Selasa, 
 Masa Percobaan  : 60 Hari (TUNTAS TANPA INSIDEN)       Status Berkas  : DIENKRIPSI & DIPUTIHKAN TOTAL
 
 BISMILLAHIRRAHMANIRRAHIM — "AT-TĀ'IBU MINADZ DZANBI KA MAN LĀ DZANBA LAH"
-Dewan Pengasuhan Pesantren TUMBUH dengan ini menyatakan secara resmi bahwa:
+Dewan Pengasuhan Ekosistem Pesantren Berbasis TUMBUH dengan ini menyatakan secara resmi bahwa:
 1. Seluruh rekam jejak pelanggaran disiplin masa lalu Ananda dinyatakan TELAH DIHAPUS & DIENKRIPSI TOTAL.
 2. Ananda berhak menyandang predikat "SANTRI BERKELAKUAN BAIK (MUMTAZ)" secara penuh tanpa syarat.
 3. Seluruh hak rekomendasi akademik, beasiswa luar negeri, dan kepemimpinan santri terbuka lebar.
@@ -207,7 +207,7 @@ Penerapan Clean Slate Policy Form CSP ini menghadirkan keunggulan peradaban:
 
 1. **Menyelamatkan Masa Depan Generasi Santri dari Belenggu Dosa Masa Lalu (*Future Protection for Youth*)**: Memberikan ruang pertumbuhan sejati di mana kesalahan masa remaja tidak menjadi vonis seumur hidup.
 2. **Menegakkan Standar Tertinggi Perlindungan Privasi dan Hak Asasi Santri (*Highest Privacy Compliance*)**: Menjadikan pesantren sebagai pelopor institusi pendidikan Islam yang menjunjung tinggi etika data.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Mahwudz Dzunūb dan Juvenile Record Expungement**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan pemuliaan fitrah kemanusiaan paling adil di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Mahwudz Dzunūb dan Juvenile Record Expungement**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan pemuliaan fitrah kemanusiaan paling adil di dunia.[^5]
 
 ---
 
@@ -215,7 +215,7 @@ Penerapan Clean Slate Policy Form CSP ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-09-03: CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-09-03: CLEAN SLATE POLICY DAN ELIMINASI STIGMA PERMANEN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -283,8 +283,8 @@ flowchart TD
 [^1]: Kerangka kerja Juvenile Record Expungement American Bar Association dalam penghapusan catatan kejahatan remaja, ABA (2018, hlm. 8).  
 [^2]: Standar regulasi perlindungan privasi data pendidikan dan hak penghapusan data masa lalu (FERPA & GDPR), European Parliament (2016, Pasal 17) & US DoE (2020, hlm. 12).  
 [^3]: Ibnu Hajar Al-Asqalani, *Fathul Bari Syarhu Shahihil Bukhari* (2001, Jilid 11, hlm. 324), bab hakikat terhapusnya dosa oleh kebaikan dan haramnya mendokumentasikan aib orang yang telah bertaubat.  
-[^4]: Protokol Clean Slate Expungement dan pemutihan catatan beasiswa Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan Clean Slate Policy dan eliminasi stigma permanen di Pesantren TUMBUH (2026).  
+[^4]: Protokol Clean Slate Expungement dan pemutihan catatan beasiswa Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan Clean Slate Policy dan eliminasi stigma permanen di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

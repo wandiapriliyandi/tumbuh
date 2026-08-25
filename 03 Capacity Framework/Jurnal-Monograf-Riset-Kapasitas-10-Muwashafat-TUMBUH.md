@@ -13,7 +13,7 @@
 >
 > **Tujuan Penelitian**: Merumuskan taksonomi kapasitas holistik santri yang memetakan **10 Karakter Utama (*Muwashafat*)**, menyintesiskan kompetensi karakter Islami dengan *CASEL Social-Emotional Learning (SEL)*, serta menetapkan indikator perilaku teramati (*Observable Behavioral Descriptors*) yang dapat diukur secara objektif.
 >
-> **Hasil Riset**: Terbentuk taksonomi 10 Muwashafat Karakter Santri TUMBUH: (1) *Salimul Aqidah*; (2) *Shahihul Ibadah*; (3) *Matinul Khuluq*; (4) *Qawiyyul Jism*; (5) *Mutsaqqaful Fikr*; (6) *Mujahadatun Linafsih*; (7) *Haritsun 'Ala Waqtih*; (8) *Munazhzham fi Syu'unih*; (9) *Qadirun 'Alal Kasb*; dan (10) *Nafi'un Lighairih*. Seluruh karakter dipetakan melintasi 5 Kompetensi CASEL SEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, Responsible Decision-Making*) dan dilengkapi protokol efisiensi observasi *Low-Friction Assessment*.
+> **Hasil Riset**: Terbentuk taksonomi 10 Muwashafat Karakter Santri dalam sistem TUMBUH: (1) *Salimul Aqidah*; (2) *Shahihul Ibadah*; (3) *Matinul Khuluq*; (4) *Qawiyyul Jism*; (5) *Mutsaqqaful Fikr*; (6) *Mujahadatun Linafsih*; (7) *Haritsun 'Ala Waqtih*; (8) *Munazhzham fi Syu'unih*; (9) *Qadirun 'Alal Kasb*; dan (10) *Nafi'un Lighairih*. Seluruh karakter dipetakan melintasi 5 Kompetensi CASEL SEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, Responsible Decision-Making*) dan dilengkapi protokol efisiensi observasi *Low-Friction Assessment*.
 >
 > **Kata Kunci**: *Capacity Framework, 10 Muwashafat, CASEL SEL, Tazkiyatun Nafs, Observable Descriptors, Low-Friction Assessment.*
 
@@ -25,7 +25,7 @@ Pengembangan kapasitas manusia dalam Islam tidak dipandang secara parsial, melai
 
 ```mermaid
 graph TD
-    TaxonomyMap["Arsitektur Taksonomi Kapasitas Santri TUMBUH"]
+    TaxonomyMap["Arsitektur Taksonomi Kapasitas Santri dalam sistem TUMBUH"]
     TaxonomyMap --> SpiritualDim["Pilar Spiritual & Moral<br/>(Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq)"]
     TaxonomyMap --> PersonalDim["Pilar Fisik & Intelektual<br/>(Qawiyyul Jism, Mutsaqqaful Fikr, Mujahadatun Linafsih)"]
     TaxonomyMap --> SocialDim["Pilar Manajemen & Khidmah<br/>(Haritsun 'Ala Waqtih, Munazhzham fi Syu'unih, Qadirun 'Alal Kasb, Nafi'un Lighairih)"]

@@ -1,5 +1,5 @@
 # P6-08-02: SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS
-## *Monograf Riset Akademik: Standarisasi Sistem Penghargaan Non-Material, Penguatan Token Ekonomi Berkelanjutan, dan Dokumentasi Portofolio Adab Digital (School-Wide Positive Reinforcement System, Token Economy Architecture, & Character Portfolio / Form PAK-Apresiasi), Integrasi Doktrin 'Khabī'atut Tha'ah wa Kitābul Hasanāt' Turats Klasik dengan Kazdin's Token Economy Framework, Self-Determination Theory, Serta Motivasi Intrinsik di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Sistem Penghargaan Non-Material, Penguatan Token Ekonomi Berkelanjutan, dan Dokumentasi Portofolio Adab Digital (School-Wide Positive Reinforcement System, Token Economy Architecture, & Character Portfolio / Form PAK-Apresiasi), Integrasi Doktrin 'Khabī'atut Tha'ah wa Kitābul Hasanāt' Turats Klasik dengan Kazdin's Token Economy Framework, Self-Determination Theory, Serta Motivasi Intrinsik di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-08-02/MONOGRAF-RISET-SISTEM-POIN-APRESIASI-PBIS/2026`  
 **Domain**: `06 Intervention Framework` > `08 Reinforcement` (Sub-Modul 02: *School-Wide Positive Reinforcement System & Character Portfolio*)  
@@ -215,7 +215,7 @@ Penerapan sistem poin apresiasi Form PAK ini menghadirkan keunggulan peradaban:
 
 1. **Membangun Budaya Berlomba-lomba dalam Kebaikan (*Fastabiqul Khairāt Climate*)**: Santri antusias menampilkan akhlaq mulia setiap saat di lingkungan asrama.
 2. **Menjaga Kemurnian Niat Ikhlas Melalui Hadiah Non-Materiil (*Preservation of Ikhlas*)**: Menghindari bahaya materialisme dalam ibadah melalui hak istimewa edukatif dan kepemimpinan.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Kitābul Hasanāt dan Token Economy Framework**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan sistem penguatan positif paling efektif di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Kitābul Hasanāt dan Token Economy Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan sistem penguatan positif paling efektif di dunia.[^5]
 
 ---
 
@@ -223,7 +223,7 @@ Penerapan sistem poin apresiasi Form PAK ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-08-02: SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-08-02: SISTEM POIN APRESIASI DAN PORTOFOLIO KARAKTER PBIS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Kerangka kerja Token Economy Alan Kazdin dalam modifikasi perilaku institusi pendidikan, Kazdin (1977, hlm. 38 & 2012, hlm. 164).  
 [^2]: Teori Self-Determination dan mitigasi Overjustification Effect Edward Deci dan Richard Ryan, Deci & Ryan (2000, hlm. 232) & Ryan & Deci (2017, hlm. 142).  
 [^3]: Ibnu Al-Jauzi, *Shaidul Khathir* (2012, hlm. 184), bab keutamaan mencatat amal kebaikan dan menegakkan timbangan pemuliaan bagi penuntut ilmu.  
-[^4]: Protokol poin bintang adab dan eliminasi keterlambatan shalat fajar Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan sistem poin apresiasi dan portofolio karakter PBIS di Pesantren TUMBUH (2026).  
+[^4]: Protokol poin bintang adab dan eliminasi keterlambatan shalat fajar Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan sistem poin apresiasi dan portofolio karakter PBIS di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

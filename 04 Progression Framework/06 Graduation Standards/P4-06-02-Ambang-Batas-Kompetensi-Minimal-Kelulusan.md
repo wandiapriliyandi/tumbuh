@@ -1,5 +1,5 @@
 # P4-06-02: AMBANG BATAS KOMPETENSI MINIMAL KELULUSAN SANTRI
-## *Monograf Riset Akademik: Standarisasi Standar Kompetensi Kelulusan (SKK) Minimal Empat Ranah (Ruhiyah-Tahfizh, Kognitif-Turats & Sains, Afektif-Muwashafat PBIS, & Psikomotorik-Khidmah Capstone), Integrasi Fiqh Syuruthul Ijazah Klasik dengan Criterion-Referenced Minimum Competency Standards (Popham), Serta Protokol Yudisium Kelulusan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Standar Kompetensi Kelulusan (SKK) Minimal Empat Ranah (Ruhiyah-Tahfizh, Kognitif-Turats & Sains, Afektif-Muwashafat PBIS, & Psikomotorik-Khidmah Capstone), Integrasi Fiqh Syuruthul Ijazah Klasik dengan Criterion-Referenced Minimum Competency Standards (Popham), Serta Protokol Yudisium Kelulusan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-06-02/MONOGRAF-RISET-AMBANG-BATAS-KOMPETENSI-MINIMAL/2026`  
 **Domain**: `04 Progression Framework` > `06 Graduation Standards` (Sub-Modul 02: *Minimum Graduation Competency Thresholds*)  
@@ -28,7 +28,7 @@
   - [4. Rekayasa Alur Digital 24 Jam: Dari Verifikasi Prasyarat SIM Menuju Sidang Yudisium Kyai](#4-rekayasa-alur-digital-24-jam-dari-verifikasi-prasyarat-sim-menuju-sidang-yudisium-kyai)
   - [5. Kasuistika Lapangan Klinis & Protokol Remediasi Calon Lulusan yang Tertahan Syarat Tasmi' 5 Juz Mutqin](#5-kasuistika-lapangan-klinis--protokol-remediasi-calon-lulusan-yang-tertahan-syarat-tasmi-5-juz-mutqin)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Arsitektur Komprehensif Ambang Batas Empat Ranah Kelulusan Santri TUMBUH](#1-arsitektur-komprehensif-ambang-batas-empat-ranah-kelulusan-santri-tumbuh)
+  - [1. Arsitektur Komprehensif Ambang Batas Empat Ranah Kelulusan Santri dalam sistem TUMBUH](#1-arsitektur-komprehensif-ambang-batas-empat-ranah-kelulusan-santri-tumbuh)
   - [2. Tabel Master Ambang Batas Kompetensi Minimal Kelulusan (ABKM) Jenjang J4](#2-tabel-master-ambang-batas-kompetensi-minimal-kelulusan-abkm-jenjang-j4)
   - [3. Desain Formulir Berita Acara Yudisium Kelulusan Paripurna (Form BAY-Paripurna)](#3-desain-formulir-berita-acara-yudisium-kelulusan-paripurna-form-bay-paripurna)
   - [4. Diskusi Akademis & Implikasi bagi Penegakan Integritas Sanad Pendidikan Islam Dunia](#4-diskusi-akademis--implikasi-bagi-penegakan-integritas-sanad-pendidikan-islam-dunia)
@@ -156,7 +156,7 @@ Intervensi karantina tahfizh intensif (*Intensive Quranic Retention Bootcamp*) i
 
 ---
 
-### 1. Arsitektur Komprehensif Ambang Batas Empat Ranah Kelulusan Santri TUMBUH
+### 1. Arsitektur Komprehensif Ambang Batas Empat Ranah Kelulusan Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH menetapkan 4 pilar ambang batas mutlak:
 
@@ -301,7 +301,7 @@ flowchart TD
 [^1]: Kritik terhadap manipulasi dan inflasi nilai kelulusan dalam sistem persekolahan konvensional, Madaus (1983, hlm. 42).  
 [^2]: Kerangka pengujian standar kompetensi minimal berbasis bukti otentik, Popham (2014, hlm. 78).  
 [^3]: Al-Khatib Al-Baghdadi, *Al-Kifayah fi 'Ilmir Riwayah* (1996, hlm. 88), bab amanah pemberian ijazah sanad keilmuan.  
-[^4]: Protokol penyelenggaraan daurah karantina tahfizh intensif pra-wisuda kelulusan santri TUMBUH (2026).  
+[^4]: Protokol penyelenggaraan daurah karantina tahfizh intensif pra-wisuda kelulusan santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan ambang batas kompetensi minimal kelulusan (ABKM) TUMBUH Pesantren (2026).  
 
 ---

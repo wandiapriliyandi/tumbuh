@@ -1,5 +1,5 @@
 # P10-07-03: METODE RESTORATIVE CIRCLES DAN MUSYAWARAH RESTORATIF
-## *Monograf Riset Akademik: Standarisasi Metode Lingkaran Restoratif dan Musyawarah Syura Asrama (Restorative Circles & Democratic Community Building Protocol), Desain Empat Tahap SOP Dialog Egaliter Berbasis Tongkat Bicara dan Keamanan Psikologis (Circle Seating Geometry, Talking Piece Protocol, & Psychological Safety Architecture), Serta Pencegahan Feodalisme Kekuasaan Santri (Restorative Circles Method, Whole-School Restorative Justice, & Shūra / Form MET-RestorativeCircle), Integrasi Doktrin 'Wa Amruhum Syūrā Bainahum' Turats Klasik dengan Kay Pranis Peacemaking Circles, Ted Wachtel & Paul McCold IIRP Framework, Serta Resolusi Kolektif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metode Lingkaran Restoratif dan Musyawarah Syura Asrama (Restorative Circles & Democratic Community Building Protocol), Desain Empat Tahap SOP Dialog Egaliter Berbasis Tongkat Bicara dan Keamanan Psikologis (Circle Seating Geometry, Talking Piece Protocol, & Psychological Safety Architecture), Serta Pencegahan Feodalisme Kekuasaan Santri (Restorative Circles Method, Whole-School Restorative Justice, & Shūra / Form MET-RestorativeCircle), Integrasi Doktrin 'Wa Amruhum Syūrā Bainahum' Turats Klasik dengan Kay Pranis Peacemaking Circles, Ted Wachtel & Paul McCold IIRP Framework, Serta Resolusi Kolektif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-07-03/MONOGRAF-RISET-RESTORATIVE-CIRCLES/2026`  
 **Domain**: `10 Methods` > `07 Collaborative Learning` (Sub-Modul 03: *Restorative Circles & Democratic Shūra Building*)  
@@ -105,7 +105,7 @@ Penerapan *Metode Restorative Circles dan Musyawarah Restoratif* membuktikan bah
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-07-03: METODE RESTORATIVE CIRCLES DAN MUSYAWARAH RESTORATIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-07-03: METODE RESTORATIVE CIRCLES DAN MUSYAWARAH RESTORATIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Ted Wachtel & Paul McCold mengenai aplikasi restorative practices dalam kehidupan komunitas sekolah dan pencegahan hierarki otoriter, Wachtel & McCold (2001, hlm. 115).
 [^2]: Kay Pranis mengenai filosofi lingkaran perdamaian (Peacemaking Circles) dan kekuatan transformative talking piece dalam merestorasi harmoni, Pranis (2005, hlm. 22).
-[^3]: Studi kasus penerapan Restorative Circles menyelesaikan polarisasi kamar asrama secara damai di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Restorative Circles menyelesaikan polarisasi kamar asrama secara damai di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengintegrasian syura Qur'ani dan lingkaran restoratif terhadap pencegahan kekerasan senioritas santri (2026).

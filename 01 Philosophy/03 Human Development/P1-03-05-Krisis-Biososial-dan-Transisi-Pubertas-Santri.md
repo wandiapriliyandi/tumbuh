@@ -249,7 +249,7 @@ Pendampingan transisi pubertas yang saintifik dan beradab ini membawa dampak per
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Pendampingan Biososial dan Transisi Baligh Pesantren TUMBUH, *Kritik atas Tabu Seksualitas dan Penelantaran Remaja*, 2026.  
+[^1]: Riset Pendampingan Biososial dan Transisi Baligh Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Tabu Seksualitas dan Penelantaran Remaja*, 2026.  
 [^2]: *Sunan Abi Dawud*, Kitab al-Hudud, Hadits No. 4403.  
 [^3]: Ibnu Qudamah, *Al-Mughni*, Jilid 6, *Kitab al-Hajr wa Ahkam al-Bulugh*, hlm. 590–625.  
 [^4]: Dahl, R. E. (2004), *Annals of the New York Academy of Sciences*, hlm. 1–22; Blakemore, S. J. (2012), *Journal of the Royal Society of Medicine*, hlm. 111–116.  
@@ -259,8 +259,8 @@ Pendampingan transisi pubertas yang saintifik dan beradab ini membawa dampak per
 [^8]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Asrar ath-Thaharah*, hlm. 110–145.  
 [^9]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 38–65.  
 [^10]: Matriks Tingkatan Kesadaran Transisi Pubertas (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^11]: Standar Operasional Prosedur Bimbingan Ihtilam dan Haidh Pertama Pesantren TUMBUH, 2026.  
-[^12]: Petunjuk Teknis Layanan Kesehatan dan Sanitasi Asrama Santri TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Bimbingan Ihtilam dan Haidh Pertama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
+[^12]: Petunjuk Teknis Layanan Kesehatan dan Sanitasi Asrama Santri dalam sistem TUMBUH, 2026.  
 [^13]: Standar Perlindungan Kesehatan Reproduksi dan Hak Istirahat Santriwati TUMBUH, 2026.  
 [^14]: Deklarasi Pemuliaan Transisi Baligh Insan Dewan Riset Pendidikan TUMBUH, 2026.
 

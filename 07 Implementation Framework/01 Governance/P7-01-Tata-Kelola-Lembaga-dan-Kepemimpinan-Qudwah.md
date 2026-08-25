@@ -66,4 +66,4 @@ flowchart TD
 Penerapan gugus **Tata Kelola Lembaga dan Kepemimpinan Qudwah (Governance)** menjamin bahwa:
 1. **Kepemimpinan Berakar pada Keteladanan Nyata dan Pelayanan Penuh Kasih Sayang (*Authentic Servant Governance*)**: Menghapus arogansi kekuasaan dan menghadirkan pemimpin yang dicintai seluruh warga pesantren.
 2. **Kasta Senioritas dan Budaya Perpeloncoan Dihapuskan Secara Mutlak (*Total Feudalism Eradication*)**: Seluruh santri menikmati hak kemerdekaan jiwa, kesetaraan perlakuan, dan rasa aman 24 jam.
-3. **Lembaga Beroperasi dengan Efisiensi Data, Transparansi Keuangan WTP, dan Keabadian Visi Melintasi Generasi (*Sustainable World-Class Institution*)**: Menjamin pesantren TUMBUH menjadi model percontohan tata kelola pendidikan Islam modern terbaik di dunia.
+3. **Lembaga Beroperasi dengan Efisiensi Data, Transparansi Keuangan WTP, dan Keabadian Visi Melintasi Generasi (*Sustainable World-Class Institution*)**: Menjamin ekosistem pesantren berbasis TUMBUH menjadi model percontohan tata kelola pendidikan Islam modern terbaik di dunia.

@@ -1,5 +1,5 @@
 # P5-02-06: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH
-## *Monograf Riset Akademik: Arsitektur Perangkat Lunak dan Rekayasa Infrastruktur Digital Sistem Informasi Manajemen Pengasuhan Pesantren (SIM Intizham-TUMBUH), Integrasi Doktrin Tanzhimul Jama'ah Turats Klasik dengan Cloud-Native Microservices, Progressive Web Apps (PWA), & Cryptographic Security Architecture, Serta Desain Dashboard Analitik Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Arsitektur Perangkat Lunak dan Rekayasa Infrastruktur Digital Sistem Informasi Manajemen Pengasuhan Pesantren (SIM Intizham-TUMBUH), Integrasi Doktrin Tanzhimul Jama'ah Turats Klasik dengan Cloud-Native Microservices, Progressive Web Apps (PWA), & Cryptographic Security Architecture, Serta Desain Dashboard Analitik Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-02-06/MONOGRAF-RISET-INFRASTRUKTUR-DIGITAL-SIM-TUMBUH/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 06: *Digital Infrastructure & Assessment SIM Architecture*)  
@@ -221,7 +221,7 @@ Penerapan infrastruktur digital SIM Intizham ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-02-06: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-02-06: INFRASTRUKTUR DIGITAL SIM ASESMEN TUMBUH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,7 +290,7 @@ flowchart TD
 [^2]: Prinsip perancangan Progressive Web Apps (PWA) dengan kapabilitas Offline-First, Russell (2016, hlm. 6).  
 [^3]: Ibnu Taimiyyah, *Majmu' Al-Fatawa* (1995, Jilid 28, hlm. 390), bab kewajiban mengambil sarana manajemen terbaik demi menjaga hak umat.  
 [^4]: Protokol Disaster Recovery dan sinkronisasi cloud multi-region SIM Intizham TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan infrastruktur digital SIM Intizham di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan infrastruktur digital SIM Intizham di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

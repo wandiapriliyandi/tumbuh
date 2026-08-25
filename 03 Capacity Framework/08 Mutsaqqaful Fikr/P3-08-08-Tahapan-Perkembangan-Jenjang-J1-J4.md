@@ -229,7 +229,7 @@ Penerapan trajektori perkembangan kognitif J1–J4 membawa transformasi kelembag
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-08-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 MUTSAQQAFUL FIKR** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-08-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 MUTSAQQAFUL FIKR** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -298,7 +298,7 @@ flowchart TD
 [^3]: Ibnu Khaldun, *Muqaddimah Ibnu Khaldun* (2005, Jilid 2, hlm. 248).  
 [^4]: Maturasi Prefrontal Cortex dan perkembangan fungsi eksekutif pada masa remaja akhir, Diamond (2013, hlm. 142).  
 [^5]: Protokol perancangan scaffolding visual sintaksis nahwu berbasis Zone of Proximal Development, Vygotsky (1978, hlm. 86).  
-[^6]: Standar kurikulum spiral dan sistem kaderisasi riset santri TUMBUH Pesantren (2026).  
+[^6]: Standar kurikulum spiral dan sistem kaderisasi riset santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

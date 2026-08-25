@@ -262,7 +262,7 @@ Penerapan Al-Hikmah dalam praksis pendidikan membawa lompatan kualitatif bagi ke
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Epistemologi Hikmah dan Praksis Pesantren TUMBUH, *Kritik atas Kesenjangan Ilmu dan Adab*, 2026.  
+[^1]: Riset Epistemologi Hikmah dan Praksis Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Kesenjangan Ilmu dan Adab*, 2026.  
 [^2]: QS. Al-Baqarah [2]: 269.  
 [^3]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid 1, hlm. 705–712.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 85–115.  
@@ -274,8 +274,8 @@ Penerapan Al-Hikmah dalam praksis pendidikan membawa lompatan kualitatif bagi ke
 [^10]: Aristotle (2009), *The Nicomachean Ethics*, hlm. 102–130.  
 [^11]: Matriks Tingkatan Kesadaran Hikmah (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^12]: Nelsen, J. (2006), *Positive Discipline*, hlm. 45–75; *Shahih Muslim*, Hadits No. 2594 (*Innar Rifqa la yakunu fi syai'in illa zanah*).  
-[^13]: Silabus Lokakarya Kepemimpinan Berbasis Qudwah dan Konseling Hikmah Musyrif TUMBUH, 2026.  
-[^14]: Standar Komunikasi Positif dan Bebas Sarkasme Pesantren TUMBUH, 2026.  
+[^13]: Silabus Lokakarya Kepemimpinan Berbasis Qudwah dan Konseling Hikmah Musyrif dalam sistem TUMBUH, 2026.  
+[^14]: Standar Komunikasi Positif dan Bebas Sarkasme Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^15]: Deklarasi Hikmah dan Transformasi Peradaban Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---

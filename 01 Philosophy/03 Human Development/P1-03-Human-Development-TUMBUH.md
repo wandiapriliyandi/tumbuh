@@ -257,10 +257,10 @@ Penerapan Master Doktrin Human Development ini mengukuhkan tonggak kebangkitan p
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Master Doktrin Human Development Pesantren TUMBUH, *Kritik atas Adultomorfisme dan Fragmentasi Pendidikan*, 2026.  
+[^1]: Riset Master Doktrin Human Development Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Adultomorfisme dan Fragmentasi Pendidikan*, 2026.  
 [^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Human Development TUMBUH, 2026.  
 [^3]: Blueprint Rekayasa Ekologi Pembinaan Asrama 24 Jam TUMBUH, 2026.  
-[^4]: Piagam Sanctuary Bi'ah Shalihah dan Perlindungan Hak Bertumbuh Santri TUMBUH, 2026.  
+[^4]: Piagam Sanctuary Bi'ah Shalihah dan Perlindungan Hak Bertumbuh Santri dalam sistem TUMBUH, 2026.  
 [^5]: Dokumentasi Longitudinal Transformasi Iklim Asrama Positif PBIS TUMBUH, 2026.  
 [^6]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs*, hlm. 85–120.  
 [^7]: Steinberg, L. (2014), *Age of Opportunity*, hlm. 65–102.  
@@ -269,7 +269,7 @@ Penerapan Master Doktrin Human Development ini mengukuhkan tonggak kebangkitan p
 [^10]: Matriks Tingkatan Kesadaran Human Development (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^11]: Dekrit Resmi Perlindungan Hak Bertumbuh Santri Majelis Kiai TUMBUH, 2026.  
 [^12]: Standar Operasional Prosedur Evaluasi Kesejahteraan Sirkadian dan Konseling Privat TUMBUH, 2026.  
-[^13]: Petunjuk Teknis Penyusunan Portofolio Khitamut Tarbiyah Kelulusan Santri TUMBUH, 2026.  
+[^13]: Petunjuk Teknis Penyusunan Portofolio Khitamut Tarbiyah Kelulusan Santri dalam sistem TUMBUH, 2026.  
 [^14]: Deklarasi Peradaban Human Development Islam Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---

@@ -1,5 +1,5 @@
 # P7-01-01: PRINSIP SERVANT LEADERSHIP DAN QUDWAH QABLA AD-DA'WAH
-## *Monograf Riset Akademik: Standarisasi Tata Kelola Kepemimpinan Melayani, Keteladanan Moral Pendidik Sebelum Berseru, dan Transformasi Kultur Otoriter Pesantren (Servant Leadership Governance, Qudwah Prior-to-Preaching Paradigm, & Ethical Modeling / Form PSL-ServantLeader), Integrasi Doktrin 'Sayyidul Qaumi Khādimuhum wa Qudwatun Hasanah' Turats Klasik dengan Greenleaf's Servant Leadership, Bandura's Social Learning Theory, Serta Karisma Ruhani di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Tata Kelola Kepemimpinan Melayani, Keteladanan Moral Pendidik Sebelum Berseru, dan Transformasi Kultur Otoriter Pesantren (Servant Leadership Governance, Qudwah Prior-to-Preaching Paradigm, & Ethical Modeling / Form PSL-ServantLeader), Integrasi Doktrin 'Sayyidul Qaumi Khādimuhum wa Qudwatun Hasanah' Turats Klasik dengan Greenleaf's Servant Leadership, Bandura's Social Learning Theory, Serta Karisma Ruhani di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-01-01/MONOGRAF-RISET-SERVANT-LEADERSHIP-QUDWAH/2026`  
 **Domain**: `07 Implementation Framework` > `01 Governance` (Sub-Modul 01: *Servant Leadership Governance & Ethical Modeling*)  
@@ -183,7 +183,7 @@ flowchart TD
                EKOSISTEM TUMBUH PESANTREN — MAJELIS TATA KELOLA KEPEMIMPINAN MELAYANI
 ====================================================================================================
 Nama Pemimpin   : UST. WILDAN PRATAMA, M.Ag.         Amanah Jabatan : Mudir Pengasuhan Asrama
-Lembaga         : Pesantren TUMBUH Pusat             Masa Khidmah   : Tahun Ajaran 2026-2027
+Lembaga         : Ekosistem Pesantren Berbasis TUMBUH Pusat             Masa Khidmah   : Tahun Ajaran 2026-2027
 Nomor Registrasi: PSL-CHARTER-2026-001               Tanggal Ikrar  : Selasa, 25 Agustus 2026
 
 IKRAR KEPEMIMPINAN MELAYANI (THE SERVANT LEADERSHIP COVENANT):
@@ -211,7 +211,7 @@ Penerapan prinsip Servant Leadership Form PSL ini menghadirkan keunggulan perada
 
 1. **Melahirkan Karisma Spiritual Sejati yang Dicintai Seluruh Santri (*Authentic Spiritual Authority*)**: Menggantikan otoritarianisme semu dengan kewibawaan yang lahir dari keteladanan dan kerendahan hati.
 2. **Membentuk Generasi Santri Berjiwa Pelayan Umat Masa Depan (*Nurturing Future Servant Leaders*)**: Santri meniru langsung bagaimana pemimpin besar melayani kaumnya dengan ikhlas.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sayyidul Qaumi Khādimuhum dan Greenleaf's Framework**: Mengukuhkan pesantren TUMBUH sebagai institusi pendidikan Islam dengan tata kelola kepemimpinan paling berintegritas dan mulia di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Sayyidul Qaumi Khādimuhum dan Greenleaf's Framework**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai institusi pendidikan Islam dengan tata kelola kepemimpinan paling berintegritas dan mulia di dunia.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan prinsip Servant Leadership Form PSL ini menghadirkan keunggulan perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-01-01: PRINSIP SERVANT LEADERSHIP DAN QUDWAH QABLA AD-DA'WAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-01-01: PRINSIP SERVANT LEADERSHIP DAN QUDWAH QABLA AD-DA'WAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -287,8 +287,8 @@ flowchart TD
 [^1]: Teori Servant Leadership Robert K. Greenleaf mengenai pemimpin yang melayani kebutuhan pengikutnya, Greenleaf (1970, hlm. 14 & 2002, hlm. 48).  
 [^2]: Social Learning Theory Albert Bandura mengenai observational learning dan behavioral modeling melalui figur keteladanan, Bandura (1977, hlm. 38 & 1986, hlm. 112).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 1, hlm. 88), bab adab pendidik dan perumpamaan bayangan yang tidak akan pernah lurus jika tongkatnya bengkok.  
-[^4]: Protokol keteladanan kepemimpinan melayani dan pembersihan asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan prinsip Servant Leadership dan Qudwah Qabla ad-Da'wah di Pesantren TUMBUH (2026).  
+[^4]: Protokol keteladanan kepemimpinan melayani dan pembersihan asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan prinsip Servant Leadership dan Qudwah Qabla ad-Da'wah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

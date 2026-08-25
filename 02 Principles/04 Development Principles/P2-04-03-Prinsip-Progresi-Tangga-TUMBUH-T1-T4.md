@@ -180,7 +180,7 @@ Prinsip progresi jenjang kemandirian ini membawa implikasi agung bagi peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-03: PRINSIP PROGRESI TANGGA TUMBUH J1–J4 (PROGRESSIVE DEVELOPMENTAL SCAFFOLDING)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-03: PRINSIP PROGRESI TANGGA TUMBUH J1–J4 (PROGRESSIVE DEVELOPMENTAL SCAFFOLDING)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -257,7 +257,7 @@ flowchart TD
 [^7]: Petunjuk Teknis Capaian Pembinaan Jenjang J2 Unggul Ilmu TUMBUH, 2026.  
 [^8]: Petunjuk Teknis Capaian Pembinaan Jenjang J3 Mandiri Analisis TUMBUH, 2026.  
 [^9]: Petunjuk Teknis Capaian Pembinaan Jenjang J4 Bijak Khidmah TUMBUH, 2026.  
-[^10]: Standar Operasional Prosedur Asesmen Kenaikan Jenjang Kemandirian Santri TUMBUH, 2026.  
+[^10]: Standar Operasional Prosedur Asesmen Kenaikan Jenjang Kemandirian Santri dalam sistem TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Pembinaan Berjenjang Generasi Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

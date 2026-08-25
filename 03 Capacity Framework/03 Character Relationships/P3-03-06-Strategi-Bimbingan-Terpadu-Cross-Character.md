@@ -211,7 +211,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-03-06: STRATEGI BIMBINGAN TERPADU BERBASIS CROSS-CHARACTER SYNERGY DI ASRAMA 24 JAM** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-03-06: STRATEGI BIMBINGAN TERPADU BERBASIS CROSS-CHARACTER SYNERGY DI ASRAMA 24 JAM** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -282,7 +282,7 @@ flowchart TD
 [^4]: Edmondson, A. C. (2018), *The Fearless Organization*, Wiley.  
 [^5]: Sugai & Horner (2006), *School Psychology Review*, hlm. 245–259.  
 [^6]: Zehr, H. (2002), *The Little Book of Restorative Justice*, Good Books.  
-[^7]: Laporan Evaluasi Penanganan Kasus Multi-Tier PBIS Pesantren TUMBUH, 2026.  
+[^7]: Laporan Evaluasi Penanganan Kasus Multi-Tier PBIS Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Panduan Matriks Aktivitas 24 Jam Berbasis Cross-Character Synergy, Divisi Pengasuhan, 2026.  
 [^9]: Silabus Bimbingan Terpadu Kelas dan Asrama, Biro Kurikulum TUMBUH, 2026.  
 [^10]: Standar Operasional Prosedur Penanganan Kasus Krisis Tier 3 Santri, Biro BK TUMBUH, 2026.

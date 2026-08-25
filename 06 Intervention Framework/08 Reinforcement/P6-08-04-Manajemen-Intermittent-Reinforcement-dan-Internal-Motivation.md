@@ -1,5 +1,5 @@
 # P6-08-04: MANAJEMEN INTERMITTENT REINFORCEMENT DAN MOTIVASI INTERNAL
-## *Monograf Riset Akademik: Rekayasa Penjadwalan Penguatan Intermiten, Desain Transisi Fading Token Menuju Otonomi Moral, dan Pencegahan Ketergantungan Imbalan Eksternal (Intermittent Reinforcement Schedules, Token Fading Protocols, & Intrinsic Motivation Cultivation / Form MIR-Intermiten), Integrasi Doktrin 'Ikhlāshun Niyyah wa Marātibut Tarbiyah' Turats Klasik dengan Skinner's Variable Schedules, Deci-Ryan SDT, Serta Keikhlasan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Penjadwalan Penguatan Intermiten, Desain Transisi Fading Token Menuju Otonomi Moral, dan Pencegahan Ketergantungan Imbalan Eksternal (Intermittent Reinforcement Schedules, Token Fading Protocols, & Intrinsic Motivation Cultivation / Form MIR-Intermiten), Integrasi Doktrin 'Ikhlāshun Niyyah wa Marātibut Tarbiyah' Turats Klasik dengan Skinner's Variable Schedules, Deci-Ryan SDT, Serta Keikhlasan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-08-04/MONOGRAF-RISET-INTERMITTENT-REINFORCEMENT/2026`  
 **Domain**: `06 Intervention Framework` > `08 Reinforcement` (Sub-Modul 04: *Intermittent Reinforcement Schedules & Intrinsic Motivation Cultivation*)  
@@ -212,7 +212,7 @@ Penerapan manajemen penguatan intermiten Form MIR ini menghadirkan keunggulan pe
 
 1. **Mencetak Generasi Mukhlis yang Berakhlak Mulia Tanpa Pamrih (*Genuinely Sincere Believers*)**: Santri berbuat baik di mana pun berada, baik saat dilihat pembina maupun dalam kesendirian.
 2. **Menjamin Keberlanjutan Karakter Pasca-Kelulusan Pesantren (*Lifelong Behavioral Permanence*)**: Nilai adab tetap terpelihara kokoh seumur hidup karena telah menyatu ke dalam identitas diri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ikhlāshun Niyyah dan Skinner's Intermittent Schedules**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan metodologi internalisasi karakter paling paripurna di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Ikhlāshun Niyyah dan Skinner's Intermittent Schedules**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan metodologi internalisasi karakter paling paripurna di dunia.[^5]
 
 ---
 
@@ -220,7 +220,7 @@ Penerapan manajemen penguatan intermiten Form MIR ini menghadirkan keunggulan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-08-04: MANAJEMEN INTERMITTENT REINFORCEMENT DAN MOTIVASI INTERNAL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-08-04: MANAJEMEN INTERMITTENT REINFORCEMENT DAN MOTIVASI INTERNAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Teori Schedules of Reinforcement B.F. Skinner dan Charles Ferster mengenai ketahanan perilaku pada jadwal penguatan intermiten, Skinner (1953, hlm. 99) & Ferster & Skinner (1957, hlm. 14).  
 [^2]: Organismic Integration Theory Edward Deci dan Richard Ryan mengenai kontinum internalisasi regulasi eksternal menuju motivasi otonom, Deci & Ryan (2000, hlm. 236) & Ryan & Deci (2017, hlm. 188).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 4, hlm. 296), bab penahapan tarbiyah anak dari kecintaan pada hadiah menuju kecintaan hakiki kepada keridhaan Allah Ta'ala.  
-[^4]: Protokol penipisan penguatan intermiten dan pembentukan istiqamah qiyamullail Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen intermittent reinforcement dan motivasi internal di Pesantren TUMBUH (2026).  
+[^4]: Protokol penipisan penguatan intermiten dan pembentukan istiqamah qiyamullail Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen intermittent reinforcement dan motivasi internal di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

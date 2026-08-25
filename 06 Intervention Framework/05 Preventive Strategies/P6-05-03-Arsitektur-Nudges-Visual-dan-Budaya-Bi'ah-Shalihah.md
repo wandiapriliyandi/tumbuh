@@ -1,5 +1,5 @@
 # P6-05-03: ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH
-## *Monograf Riset Akademik: Rekayasa Isyarat Perilaku Bawah Sadar, Desain Lingkungan Pilihan, dan Pembentukan Iklim Kebajikan Alami (Behavioral Nudge Architecture, Choice Architecture, & Cultural Bi'ah Shalihah / Form ANV-Nudges), Integrasi Doktrin 'At-Tadzkīr bil Āyāt wal Ishārātul Jamīlah' Turats Klasik dengan Thaler & Sunstein's Nudge Theory, Visual Environmental Cues, Serta Estetika Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Isyarat Perilaku Bawah Sadar, Desain Lingkungan Pilihan, dan Pembentukan Iklim Kebajikan Alami (Behavioral Nudge Architecture, Choice Architecture, & Cultural Bi'ah Shalihah / Form ANV-Nudges), Integrasi Doktrin 'At-Tadzkīr bil Āyāt wal Ishārātul Jamīlah' Turats Klasik dengan Thaler & Sunstein's Nudge Theory, Visual Environmental Cues, Serta Estetika Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-05-03/MONOGRAF-RISET-ARSITEKTUR-NUDGES-VISUAL/2026`  
 **Domain**: `06 Intervention Framework` > `05 Preventive Strategies` (Sub-Modul 03: *Behavioral Nudge Architecture & Cultural Bi'ah Shalihah*)  
@@ -214,7 +214,7 @@ Penerapan arsitektur nudges visual Form ANV ini menghadirkan keunggulan peradaba
 
 1. **Membentuk Kebiasaan Beradab Tanpa Gesekan Emosional (*Frictionless Character Formation*)**: Santri berbuat baik secara alami tanpa merasa dipaksa atau diperintah dengan keras.
 2. **Meningkatkan Martabat dan Estetika Lingkungan Pesantren (*World-Class Visual Aesthetics*)**: Pesantren tampil sangat indah, bersih, dan modern laksana kampus-kampus terbaik dunia.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Da'wah bil Hāl dan Behavioral Nudge Theory**: Menjadikan pesantren TUMBUH sebagai pelopor arsitektur perilaku Islam paling canggih di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Da'wah bil Hāl dan Behavioral Nudge Theory**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pelopor arsitektur perilaku Islam paling canggih di dunia.[^5]
 
 ---
 
@@ -222,7 +222,7 @@ Penerapan arsitektur nudges visual Form ANV ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-05-03: ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-05-03: ARSITEKTUR NUDGES VISUAL DAN BUDAYA BI'AH SHALIHAH** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -290,8 +290,8 @@ flowchart TD
 [^1]: Teori Nudge dan Choice Architecture Richard Thaler & Cass Sunstein dalam rekayasa pilihan perilaku, Thaler & Sunstein (2021, hlm. 14).  
 [^2]: Kerangka kerja EAST (Easy, Attractive, Social, Timely) dari The Behavioural Insights Team, Service et al. (2014, hlm. 8).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 188), bab pengaruh isyarat lingkungan fisik terhadap ketenangan kalbu dan keutamaan dakwah bil hal.  
-[^4]: Protokol implementasi Green Footprints Nudge dan standarisasi visual asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan arsitektur nudges visual dan budaya bi'ah shalihah di Pesantren TUMBUH (2026).  
+[^4]: Protokol implementasi Green Footprints Nudge dan standarisasi visual asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan arsitektur nudges visual dan budaya bi'ah shalihah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

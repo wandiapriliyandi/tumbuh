@@ -223,7 +223,7 @@ Penerapan taksonomi nalar fitrah menghadirkan standar mutu baru kelulusan pesant
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-08-05: STANDAR KOMPETENSI DAN TAKSONOMI MUTSAQQAFUL FIKR** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-08-05: STANDAR KOMPETENSI DAN TAKSONOMI MUTSAQQAFUL FIKR** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -294,7 +294,7 @@ flowchart TD
 [^4]: Sistem metakognitif dan regulasi diri dalam taksonomi Marzano, Marzano & Kendall (2007, hlm. 45–52).  
 [^5]: Dimensi penciptaan karya (*Creating Level*) dalam taksonomi kognitif modern, Anderson & Krathwohl (2001, hlm. 88).  
 [^6]: Protokol pendampingan penalaran abstrak dan scaffolding visual konsep ushul fiqh, Sweller (1988, hlm. 268).  
-[^7]: Standar penjaminan mutu kelulusan riset dan portofolio intelektual santri TUMBUH (2026).  
+[^7]: Standar penjaminan mutu kelulusan riset dan portofolio intelektual santri dalam sistem TUMBUH (2026).  
 
 ---
 

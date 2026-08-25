@@ -121,7 +121,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap intervensi modifikasi perilaku yang mengidentifikasi fungsi pemicu (*Antecedent & Function*) melalui FBA dan menyediakan perilaku pengganti yang sah (*Replacement Behavior*) dalam kerangka multi-tier PBIS terbukti secara ilmiah melenyapkan perilaku devian dan mencegah kekambuhan (*Recidivism*).
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum intervensi TUMBUH mengintegrasikan FBA dan piramida 3-Tier untuk seluruh kasus deviasi aqidah santri.
-* **Konklusi (*an-Natijah*)**: Maka, penanganan masalah aqidah di pesantren TUMBUH memiliki efektivitas kuratif yang presisi dan humanis.[^7]
+* **Konklusi (*an-Natijah*)**: Maka, penanganan masalah aqidah dalam sistem TUMBUH di pesantren memiliki efektivitas kuratif yang presisi dan humanis.[^7]
 
 ```mermaid
 flowchart LR
@@ -177,7 +177,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan pembiasaan ibadah yang memanfaatkan siklus neuroplastisitas otak (*Cue $\rightarrow$ Routine $\rightarrow$ Reward Charles Duhigg*) dan menyatukan ketenangan batin (*Thuma'ninah*) dengan penguatan sosial positif niscaya menghasilkan otomatisasi karakter adab yang mandiri dan bertahan seumur hidup.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: SOP pembiasaan asrama TUMBUH menstrukturkan jadwal harian santri berdasarkan arsitektur *Habit Loop* dzikir ma'tsurat dan tadabbur Asmaul Husna.
-* **Konklusi (*an-Natijah*)**: Maka, rutinitas ibadah santri di pesantren TUMBUH bertransformasi dari keterpaksaan formalistik menjadi kebutuhan spiritual yang membahagiakan jiwa.[^11]
+* **Konklusi (*an-Natijah*)**: Maka, rutinitas ibadah santri dalam sistem TUMBUH di pesantren bertransformasi dari keterpaksaan formalistik menjadi kebutuhan spiritual yang membahagiakan jiwa.[^11]
 
 #### 1. Diskursus Dialektika Kritis: Waktu Kritis Transisi Subuh dan Maghrib (Golden Spiritual Hours)
 * **Pihak A (Sudut Pandang Waktu Bebas Tanpa Struktur)**:  
@@ -311,7 +311,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-10: PROTOKOL INTERVENSI DAN PEMBIASAAN SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-10: PROTOKOL INTERVENSI DAN PEMBIASAAN SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -379,21 +379,21 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Intervensi Perilaku Asrama Pesantren TUMBUH, *Kritik atas Paradigma Punitif Konvensional*, 2026.  
+[^1]: Riset Evaluasi Intervensi Perilaku Asrama Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Paradigma Punitif Konvensional*, 2026.  
 [^2]: Ibnul Qayyim al-Jauziyyah, *Madarijus Salikin*, Jilid 1, Manzilah *At-Taubah wal-Inabah*, hlm. 310–345.  
 [^3]: *Musnad Ahmad bin Hanbal*, Jilid 36, Hadits No. 22211, hlm. 545–548.  
 [^4]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Al-Amr bil Ma'ruf wan Nahy 'anil Munkar*, hlm. 315–340.  
-[^5]: Protokol Standar Ruqyah Syar'iyyah Pedagogis & De-eskalasi Trauma Pesantren TUMBUH, 2026.  
+[^5]: Protokol Standar Ruqyah Syar'iyyah Pedagogis & De-eskalasi Trauma Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^6]: Al-Asy'ari, *Al-Ibanah 'an Ushul ad-Diyanah*, Bab *Ibtal Syubhat al-Mulhidin*, hlm. 45–70.  
 [^7]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^8]: O'Neill, R. E., et al. (2015), *Functional Assessment and Program Development*, hlm. 65–98.  
 [^9]: Panduan Pelaksanaan Program Shaja'ah Circle Tier 2 PBIS TUMBUH, 2026.  
 [^10]: Standar Operasional Prosedur Konseling Burhani Tier 3 Krisis Pemikiran Aqidah TUMBUH, 2026.  
 [^11]: Duhigg, C. (2012), *The Power of Habit*, hlm. 33–60.  
-[^12]: Riset Kronobiologi & Kesiapan Mental Dzikir Pagi-Petang Santri TUMBUH, 2026.  
+[^12]: Riset Kronobiologi & Kesiapan Mental Dzikir Pagi-Petang Santri dalam sistem TUMBUH, 2026.  
 [^13]: Sweller, J. (2011), *Cognitive Load Theory*, hlm. 37–76.  
 [^14]: Petunjuk Teknis Program Holiday Habit Tracker Kemitraan Orang Tua TUMBUH, 2026.  
-[^15]: Dokumentasi Kasus Resolusi De-eskalasi Krisis Agnostik Siber Santri TUMBUH, 2026.  
+[^15]: Dokumentasi Kasus Resolusi De-eskalasi Krisis Agnostik Siber Santri dalam sistem TUMBUH, 2026.  
 [^16]: Dokumentasi Kasuistika Pengasuhan Asrama 24 Jam & Eliminasi Takhayul TUMBUH, 2026.
 
 ---

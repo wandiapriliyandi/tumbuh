@@ -1,5 +1,5 @@
 # P8-03-03: PROTOKOL PENDAMPINGAN HOMESICKNESS DAN ADAPTASI
-## *Monograf Riset Akademik: Standarisasi Protokol Penanganan Kerinduan Rumah (Homesickness Protocol), Metodologi Asistensi Transisi Ekologis Santri Baru 40 Hari Pertama, dan Integrasi Dukungan Afektif-Spiritual (Adolescent Homesickness Intervention Protocol, 40-Day Ecological Transition Assistance, & Affective-Spiritual Scaffolding / Form HOM-Homesick), Integrasi Doktrin 'Al-Ghurba fī Thalabil 'Ilmi wal Muwāsāh' Turats Klasik dengan Thurber Homesickness Prevention Model, Fisher Transition Shock Theory, Serta Resiliensi Transisi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Protokol Penanganan Kerinduan Rumah (Homesickness Protocol), Metodologi Asistensi Transisi Ekologis Santri Baru 40 Hari Pertama, dan Integrasi Dukungan Afektif-Spiritual (Adolescent Homesickness Intervention Protocol, 40-Day Ecological Transition Assistance, & Affective-Spiritual Scaffolding / Form HOM-Homesick), Integrasi Doktrin 'Al-Ghurba fī Thalabil 'Ilmi wal Muwāsāh' Turats Klasik dengan Thurber Homesickness Prevention Model, Fisher Transition Shock Theory, Serta Resiliensi Transisi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-03-03/MONOGRAF-RISET-PENDAMPINGAN-HOMESICKNESS/2026`  
 **Domain**: `08 Integrated Approaches` > `03 Mentoring` (Sub-Modul 03: *Homesickness & 40-Day Transition Assistance Protocol*)  
@@ -103,7 +103,7 @@ Penerapan protokol pendampingan homesickness terstruktur dalam 40 hari pertama m
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-03-03: PROTOKOL PENDAMPINGAN HOMESICKNESS DAN ADAPTASI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-03-03: PROTOKOL PENDAMPINGAN HOMESICKNESS DAN ADAPTASI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -156,5 +156,5 @@ flowchart TD
 
 [^1]: Thurber & Walton mengenai studi klinis pencegahan dan penanganan homesickness pada anak di asrama, Thurber & Walton (2007, hlm. 194).
 [^2]: Syair legendaris Imam Asy-Syafi'i mengenai lima keutamaan merantau (al-ghurbah) demi menuntut ilmu, Diwan Asy-Syafi'i (1993, hlm. 48).
-[^3]: Studi kasus penerapan protokol 40 hari adaptasi menyelamatkan santri baru dari krisis desersi Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan protokol 40 hari adaptasi menyelamatkan santri baru dari krisis desersi Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak protokol pendampingan afektif terhadap penurunan drastis keluhan psikosomatis santri baru di UKS (2026).

@@ -29,7 +29,7 @@
   - [5. Kasuistika Lapangan Klinis & Protokol Pendampingan Rintisan Usaha Santri yang Mengalami Kebangkrutan Modal](#5-kasuistika-lapangan-klinis--protokol-pendampingan-rintisan-usaha-santri-yang-mengalami-kebangkrutan-modal)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Dekomposisi Capaian Pembelajaran Qadirun 'Alal Kasb (CP-QK) Tri-Domain](#1-dekomposisi-capaian-pembelajaran-qadirun-alal-kasb-cp-qk-tri-domain)
-  - [2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemandirian Finansial Santri TUMBUH](#2-matriks-indikator-kuantitatif-kinerja-kpis-kemandirian-finansial-santri-tumbuh)
+  - [2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemandirian Finansial Santri dalam sistem TUMBUH](#2-matriks-indikator-kuantitatif-kinerja-kpis-kemandirian-finansial-santri-tumbuh)
   - [3. Pemetaan Target Capaian Pembelajaran Berdasarkan Jenjang J1–J4](#3-pemetaan-target-capaian-pembelajaran-berdasarkan-jenjang-j1j4)
   - [4. Diskusi Akademis: Dampak Triad Pertumbuhan Simbiotik bagi Kedaulatan Pesantren Mandiri](#4-diskusi-akademis-dampak-triad-pertumbuhan-simbiotik-bagi-kedaulatan-pesantren-mandiri)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -187,7 +187,7 @@ flowchart TD
 
 ---
 
-### 2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemandirian Finansial Santri TUMBUH
+### 2. Matriks Indikator Kuantitatif Kinerja (KPIs) Kemandirian Finansial Santri dalam sistem TUMBUH
 
 | Indikator Kinerja Kunci (KPIs) | Kondisi Baseline Konvensional | Target Standar Emas TUMBUH | Metode Pengukuran & Verifikasi |
 | :--- | :--- :---: | :---: | :--- |
@@ -224,7 +224,7 @@ Pencapaian target kapasitas Qadirun 'Alal Kasb menghadirkan keunggulan sistemik:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-03: TUJUAN DAN TARGET CAPAIAN QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-03: TUJUAN DAN TARGET CAPAIAN QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

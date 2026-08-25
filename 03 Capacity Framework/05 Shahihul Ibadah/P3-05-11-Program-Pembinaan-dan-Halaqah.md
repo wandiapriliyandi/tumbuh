@@ -127,7 +127,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap komunitas pembelajaran sosial (*Communities of Practice*) yang memfasilitasi proses partisipasi periferal yang sah (*Legitimate Peripheral Participation*) dari pemula menuju praktisi mahir melalui keteladanan rekan sebaya (*Peer Mentoring*) niscaya mewariskan budaya organisasi dan keterampilan amaliah secara organik dan berkesinambungan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Empat Program Unggulan Ibadah TUMBUH memposisikan Santri Jenjang J4 sebagai mentor praktik bagi santri baru Jenjang J1 dalam lingkar halaqah asrama.
-* **Konklusi (*an-Natijah*)**: Maka, regenerasi karakter Shahihul Ibadah di pesantren TUMBUH berlangsung secara mandiri, berakar kuat, dan berkelanjutan antar-generasi santri.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, regenerasi karakter Shahihul Ibadah dalam sistem TUMBUH di pesantren berlangsung secara mandiri, berakar kuat, dan berkelanjutan antar-generasi santri.[^8]
 
 ```mermaid
 flowchart LR
@@ -183,7 +183,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap lembaga pendidikan Islam yang mengintegrasikan kalender pembinaan ibadah ke dalam empat pilar program yang mencakup penguatan ruhiyah mingguan, pengujian fiqh semesteran, habituasi tilawah harian, dan kaderisasi kepemimpinan tahunan niscaya menjamin terciptanya ekosistem ibadah yang komprehensif, dinamis, dan tidak membosankan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Ekosistem TUMBUH memetakan Empat Program Unggulan tersebut secara presisi ke dalam kalender akademik dan ritme harian asrama 24 jam.
-* **Konklusi (*an-Natijah*)**: Maka, santri di pesantren TUMBUH senantiasa berada dalam orbit pembinaan yang terarah, bermakna, dan penuh inspirasi.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, santri dalam sistem TUMBUH di pesantren senantiasa berada dalam orbit pembinaan yang terarah, bermakna, dan penuh inspirasi.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Daurah Fiqh Awal Semester: Refreshing Presisi Gerakan
 * **Pihak A (Sudut Pandang Teori Fiqh Cukup Diajarkan Sekali Seumur Hidup)**:  
@@ -311,7 +311,7 @@ flowchart TD
 
 3. UJI SERTIFIKASI & PENUGASAN RESMI:
    [✓] Ujian Klinis Simulasi Imamah di hadapan Dewan Kiai & Muqri' Al-Qur'an.
-   [✓] Penyerahan "Sertifikat Imam & Muadzin Muda Resmi Pesantren TUMBUH".
+   [✓] Penyerahan "Sertifikat Imam & Muadzin Muda Resmi Ekosistem Pesantren Berbasis TUMBUH".
    [✓] Penjadwalan resmi memimpin Shalat Rawatib & Adzan di Masjid Utama Pesantren.
 =============================================================================
 ```
@@ -322,7 +322,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-11: PROGRAM PEMBINAAN DAN HALAQAH SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-11: PROGRAM PEMBINAAN DAN HALAQAH SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -390,7 +390,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Manajemen Program Pembinaan Ibadah Pesantren TUMBUH, *Kritik atas Seremonial Musiman dan Ketiadaan Halaqah*, 2026.  
+[^1]: Riset Manajemen Program Pembinaan Ibadah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Seremonial Musiman dan Ketiadaan Halaqah*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 2, Kitab *Adab al-Ulfah wal Ukhuwwah*, hlm. 160–195.  
 [^3]: *Shahih Muslim*, Kitab adz-Dzikr wad-Du'a' wat-Taubah, Hadits No. 2700.  
 [^4]: Matan *Ihya' 'Ulumiddin*, Jilid 2, hlm. 172.  

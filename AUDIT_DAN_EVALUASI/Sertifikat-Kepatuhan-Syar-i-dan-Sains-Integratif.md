@@ -47,7 +47,7 @@ Sertifikat ini mengesahkan bahwa ekosistem **TUMBUH** Pesantren:
 * ⚖️ **Berkeadilan Restoratif**: Menjamin setiap masalah perilaku diselesaikan melalui pemulihan hubungan (*Ishlah al-Bain*) tanpa stigma.
 * 🌿 **Menjaga Kesejahteraan Pendidik**: Melindungi Musyrif dan Ustadz dari kelelahan fisik/mental (*Burnout*) melalui SOP kerja rasional 24-jam.
 
-**Ditetapkan di**: Pesantren TUMBUH  
+**Ditetapkan di**: Ekosistem Pesantren Berbasis TUMBUH  
 **Pada Tanggal**: 21 Agustus 2026  
 
 *Tanda Tangan Dewan Keilmuan & Auditor Kualitas Ekosistem TUMBUH*

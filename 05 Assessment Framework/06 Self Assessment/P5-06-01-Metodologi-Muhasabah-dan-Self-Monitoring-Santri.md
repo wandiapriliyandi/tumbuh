@@ -1,5 +1,5 @@
 # P5-06-01: METODOLOGI MUHASABAH DAN SELF-MONITORING SANTRI
-## *Monograf Riset Akademik: Metodologi Asesmen Diri Terstruktur (Self-Assessment & Metacognitive Monitoring), Integrasi Doktrin 'Hāsibū Anfusakum Qabla an Tuhāsabū' Turats Klasik dengan Self-Regulated Learning (SRL), Metacognitive Calibration, & Self-Determination Theory (SDT), Serta Pembentukan Kesadaran Fitrah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Metodologi Asesmen Diri Terstruktur (Self-Assessment & Metacognitive Monitoring), Integrasi Doktrin 'Hāsibū Anfusakum Qabla an Tuhāsabū' Turats Klasik dengan Self-Regulated Learning (SRL), Metacognitive Calibration, & Self-Determination Theory (SDT), Serta Pembentukan Kesadaran Fitrah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-06-01/MONOGRAF-RISET-METODOLOGI-MUHASABAH-SELF-MONITORING/2026`  
 **Domain**: `05 Assessment Framework` > `06 Self Assessment` (Sub-Modul 01: *Muhasabah Methodology & Student Self-Monitoring*)  
@@ -217,7 +217,7 @@ Penerapan metodologi muhasabah dan self-monitoring ini menghadirkan keunggulan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-06-01: METODOLOGI MUHASABAH DAN SELF-MONITORING SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-06-01: METODOLOGI MUHASABAH DAN SELF-MONITORING SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -285,8 +285,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan sistem kepatuhan heteronom berbasis ancaman fisik yang runtuh saat tanpa pengawasan, Deci & Ryan (2000, hlm. 234).  
 [^2]: Kerangka kerja Self-Regulated Learning (SRL) dan kalibrasi metakognisi pembelajar mandiri, Zimmerman (2002, hlm. 68).  
 [^3]: Al-Harits Al-Muhasibi, *Ar-Ri'ayah li Huquqillah* (2003, hlm. 54), bab kewajiban muhasabah diri dan mencurigai hawa nafsu.  
-[^4]: Protokol konseling kejujuran akademis dan terapi muhasabah santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan metodologi muhasabah dan self-monitoring di Pesantren TUMBUH (2026).  
+[^4]: Protokol konseling kejujuran akademis dan terapi muhasabah santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan metodologi muhasabah dan self-monitoring di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

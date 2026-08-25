@@ -13,7 +13,7 @@
 | :---: | :--- | :--- | :---: | :---: |
 | **00** | **Naskah Lengkap Monograf Volume 02** | Kompilasi Utuh Seluruh Bab Volume 02 (2.678 Baris) | 33 Sub-Bab | [Buka Naskah Lengkap](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Buku-Volume-02-Taksonomi-Kapasitas-dan-10-Profil-Karakter-Santri-TUMBUH.md) |
 | **01** | **Arsitektur Kapasitas Holistik Berbasis Fitrah** | Pendekatan *Whole-Child*, 5 dimensi kapasitas, integrasi CASEL SEL, & SDT. | **4 Sub-Bab** | [Buka Folder Bab 01](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-01-Arsitektur-Kapasitas-Holistik-Berbasis-Fitrah/) |
-| **02** | **Profil 10 Muwashafat Karakter Santri TUMBUH** | Indikator perilaku konkret *Salimul Aqidah* hingga *Nafi'un Lighairihi* (10 karakter mandiri). | **10 Sub-Bab** | [Buka Folder Bab 02](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-02-Profil-10-Muwashafat-Karakter-Santri/) |
+| **02** | **Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH** | Indikator perilaku konkret *Salimul Aqidah* hingga *Nafi'un Lighairihi* (10 karakter mandiri). | **10 Sub-Bab** | [Buka Folder Bab 02](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-02-Profil-10-Muwashafat-Karakter-Santri/) |
 | **03** | **Trajektori Biososial-Spiritual Remaja Pesantren** | Gap maturasi sistem limbik vs PFC usia 12–18 tahun, krisis identitas, & *External PFC*. | **4 Sub-Bab** | [Buka Folder Bab 03](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-03-Trajektori-Biososial-Spiritual-Remaja-Pesantren/) |
 | **04** | **Progresi Jenjang Kemandirian TUMBUH (J1–J4) (Jenjang J1 s/d J4)** | 4 tahap tangga capaian adab, dinamika transisi & penanganan regresi perilaku Tier 2. | **6 Sub-Bab** | [Buka Folder Bab 04](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-04-Progresi-Tangga-TUMBUH-T1-sd-T4/) |
 | **05** | **Puncak Perkembangan: Tahap 7 PENGGERAK** | Kepemimpinan santri khidmah, mentorship bebas perpeloncoan, mediasi restoratif, & regenerasi guru. | **4 Sub-Bab** | [Buka Folder Bab 05](file:///c:/xampp/htdocs/tumbuh/BOOK-SERIES/Volume-02/Bab-05-Puncak-Perkembangan-Tahap-7-Penggerak/) |
@@ -30,7 +30,7 @@ graph TD
     
     Vol2 --> B1["BAB 01: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah (4 Sub-Bab)<br/>(Whole-Child, 5 Dimensi Kapasitas, CASEL SEL, & Self-Determination Theory)"]
     
-    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri TUMBUH (10 Sub-Bab Mandiri)<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
+    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH (10 Sub-Bab Mandiri)<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
     
     Vol2 --> B3["BAB 03: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)<br/>(Gap Limbik-PFC Usia 12-18 Thn, Krisis Identitas, & Scaffolding Musyrif)"]
     

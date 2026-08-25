@@ -28,7 +28,7 @@
   - [4. Rekayasa Eradikasi Total Vektor Scabies: Protokol Higienitas Linen, Kasur Busa, & Sinar Matahari](#4-rekayasa-eradikasi-total-vektor-scabies-protokol-higienitas-linen-kasur-busa--sinar-matahari)
   - [5. Kasuistika Lapangan: Kasus Santri Mengalami Depresi Akibat Scabies Kronis & Resolusi Medis Terpadu](#5-kasuistika-lapangan-kasus-santri-mengalami-depresi-akibat-scabies-kronis--resolusi-medis-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-desain-fasilitas-sanitasi--kesehatan-asrama-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-desain-fasilitas-sanitasi--kesehatan-asrama-pesantren-tumbuh)
   - [2. Matriks Standar Arsitektur Fisik Asrama: Parameter, Nilai Ambang Baku, & Verifikasi Kelaikan](#2-matriks-standar-arsitektur-fisik-asrama-parameter-nilai-ambang-baku--verifikasi-kelaikan)
   - [3. Standar Prosedur Operasional (SOP) Manajemen Kebersihan Harian & Pengendalian Vektor Penyakit](#3-standar-prosedur-operasional-sop-manajemen-kebersihan-harian--pengendalian-vektor-penyakit)
   - [4. Protokol Penanganan & Pencegahan Scabies Massal (Zero Scabies Protocol 24 Jam)](#4-protokol-penanganan--pencegahan-scabies-massal-zero-scabies-protocol-24-jam)
@@ -114,7 +114,7 @@ TUMBUH menerapkan protokol medis eradikasi parasit:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Desain Fasilitas Sanitasi & Kesehatan Asrama Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan standar fisik ke dalam **Arsitektur Tiga Pilar Sanitasi Beradab (*Arkan ash-Shihhah al-Bi'iyyah*)**:
 
@@ -195,7 +195,7 @@ Standarisasi fasilitas sanitasi dan kenyamanan termal ini membawa implikasi agun
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-02-05: PRINSIP DESAIN FASILITAS SANITASI, KENYAMANAN TERMAL, DAN KESEHATAN FISIK ASRAMA (SANITATION, THERMAL COMFORT & PHYSICAL HEALTH)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-02-05: PRINSIP DESAIN FASILITAS SANITASI, KENYAMANAN TERMAL, DAN KESEHATAN FISIK ASRAMA (SANITATION, THERMAL COMFORT & PHYSICAL HEALTH)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -272,7 +272,7 @@ flowchart TD
 [^7]: Kemenkes RI (2020), *Pedoman Penyelenggaraan Kesehatan Lingkungan Pesantren*, hlm. 18–45.  
 [^8]: Master Blueprint Kenyamanan Termal dan Sirkulasi Udara Silang Asrama TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Zero Scabies Protocol dan Desinfeksi Asrama TUMBUH, 2026.  
-[^10]: Petunjuk Teknis Manajemen Higienitas 5S/5R Asrama Pesantren TUMBUH, 2026.  
+[^10]: Petunjuk Teknis Manajemen Higienitas 5S/5R Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Fiqh Thaharah dan Kesehatan Santri Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

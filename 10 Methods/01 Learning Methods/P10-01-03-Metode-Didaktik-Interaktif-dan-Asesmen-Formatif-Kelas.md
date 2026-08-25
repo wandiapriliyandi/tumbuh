@@ -1,5 +1,5 @@
 # P10-01-03: METODE DIDAKTIK INTERAKTIF DAN ASESMEN FORMATIF KELAS
-## *Monograf Riset Akademik: Standarisasi Metodologi Didaktik Interaktif di Ruang Kelas Pesantren, Integrasi Teknik Asesmen Formatif Real-Time (Exit Tickets, Quick-Check, Think-Pair-Share), dan Umpan Balik Penguatan Proses Berbasis Pertumbuhan (Interactive Didactics, Real-Time Formative Assessment Techniques, & Growth-Oriented Process Feedback / Form MET-DidaktikFormatif), Integrasi Doktrin 'Husnu at-Ta'līm wa Daqā'iqu at-Taqwīm' Turats Klasik dengan Black & Wiliam Assessment for Learning (AfL), Hattie Visible Learning Feedback Theory, Serta Keunggulan KBM di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Didaktik Interaktif di Ruang Kelas Pesantren, Integrasi Teknik Asesmen Formatif Real-Time (Exit Tickets, Quick-Check, Think-Pair-Share), dan Umpan Balik Penguatan Proses Berbasis Pertumbuhan (Interactive Didactics, Real-Time Formative Assessment Techniques, & Growth-Oriented Process Feedback / Form MET-DidaktikFormatif), Integrasi Doktrin 'Husnu at-Ta'līm wa Daqā'iqu at-Taqwīm' Turats Klasik dengan Black & Wiliam Assessment for Learning (AfL), Hattie Visible Learning Feedback Theory, Serta Keunggulan KBM di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-01-03/MONOGRAF-RISET-DIDAKTIK-ASESMEN-FORMATIF/2026`  
 **Domain**: `10 Methods` > `01 Learning Methods` (Sub-Modul 03: *Interactive Didactics & Real-Time Formative Assessment*)  
@@ -104,7 +104,7 @@ Penerapan didaktik interaktif berbasis asesmen formatif real-time (*Assessment f
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-01-03: METODE DIDAKTIK INTERAKTIF DAN ASESMEN FORMATIF KELAS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-01-03: METODE DIDAKTIK INTERAKTIF DAN ASESMEN FORMATIF KELAS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -157,5 +157,5 @@ flowchart TD
 
 [^1]: Dylan Wiliam mengenai lima strategi kunci asesmen formatif dalam memfasilitasi pembelajaran adaptif di kelas, Wiliam (2011, hlm. 46).
 [^2]: Black & Wiliam mengenai meta-analisis dampak masif Assessment for Learning terhadap peningkatan standar capaian siswa, Black & Wiliam (1998, hlm. 140).
-[^3]: Studi kasus penerapan instrumen Exit Ticket mendeteksi miskonsepsi fikih santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen Exit Ticket mendeteksi miskonsepsi fikih santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak umpan balik proses langsung (immediate process feedback) terhadap eliminasi kecemasan belajar santri (2026).

@@ -12,7 +12,7 @@
 >
 > * **Kelulusan Pesantren Bukan Sekadar Nilai Angka Kertas Ujian Tulis:**  
 >   Menolak reduksionisme evaluasi kelulusan yang hanya bertumpu pada tes kognitif sesaat. Kelulusan santri di ekosistem TUMBUH dinilai melalui **Portofolio Autentik Karakter 3 Tahun dan Sidang Munaqasyah Adab Terbuka**.
-> * **Empat Komponen Penentu Kelulusan Holistik Santri TUMBUH:**  
+> * **Empat Komponen Penentu Kelulusan Holistik Santri dalam sistem TUMBUH:**  
 >   1. **Portofolio Pertumbuhan Adab (*3-Year Longitudinal Portfolio*):** Rekam jejak konsistensi 10 karakter Muwashafat dalam logbook digital PBIS.  
 >   2. **Ujian Mutqin Tahfizh & Turats (*Mastery Examination*):** Uji hafalan Al-Qur'an 30 Juz bersanad / hafalan kitab matan dengan pemahaman makna.  
 >   3. **Karya Tulis Ilmiah Pesantren (*Pesantren Capstone Project*):** Riset terapan atau buku saku solusi atas masalah riil umat.  
@@ -29,7 +29,7 @@
   - [4. Desain Sidang Terbuka Munaqasyah Adab & Validasi Lintas Penilai (360-Degree Triangulation)](#4desain-sidang-terbuka-munaqasyah-adab-validasi-lintas-penilai-360-degree-triangulation)
   - [5. Silogisme Logika, Dialektika 3 Ronde, Kasuistika Lapangan, & Titik Temu Konsensus](#5silogisme-logika-dialektika-3-ronde-kasuistika-lapangan-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Empat Rukun Penilaian Kelulusan Holistik Pesantren TUMBUH](#1-formulasi-konseptual-empat-rukun-penilaian-kelulusan-holistik-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Empat Rukun Penilaian Kelulusan Holistik Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-empat-rukun-penilaian-kelulusan-holistik-pesantren-tumbuh)
   - [2. Matriks Rubrik Kelulusan Autentik Berbasis Capaian Jenjang J1–J4](#2-matriks-rubrik-kelulusan-autentik-berbasis-capaian-tangga-t1t4)
   - [3. Standar Prosedur Operasional (SOP) Sidang Munaqasyah Adab & Wisuda Khidmah](#3-standar-prosedur-operasional-sop-sidang-munaqasyah-adab--wisuda-khidmah)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -143,7 +143,7 @@ flowchart TD
 
 ---
 
-### 1. Formulasi Konseptual: Empat Rukun Penilaian Kelulusan Holistik Pesantren TUMBUH
+### 1. Formulasi Konseptual: Empat Rukun Penilaian Kelulusan Holistik Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis asesmen autentik kontemporer, riset ini merumuskan kerangka konseptual empat pilar kelulusan holistik santri sebagai berikut:
 
@@ -195,7 +195,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-06: STANDAR MUNAQASYAH ADAB, PORTOFOLIO AUTENTIK, DAN KRITERIA KELULUSAN HOLISTIK** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-06: STANDAR MUNAQASYAH ADAB, PORTOFOLIO AUTENTIK, DAN KRITERIA KELULUSAN HOLISTIK** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -266,8 +266,8 @@ flowchart TD
 [^4]: Al-Ghazali, *Ihya 'Ulumiddin*, Kitab *Dzammil Kibr wal 'Ujb*, jilid 3, hlm. 340.  
 [^5]: Brookhart, S. M. (2013), *How to Create and Use Rubrics*, ASCD.  
 [^6]: Shahih al-Bukhari, Kitab *Fadhailul Qur'an*, Bab *Istidzkharul Qur'an wa Ta'ahhuduhu*.  
-[^7]: Laporan Evaluasi Sidang Munaqasyah Adab Angkatan I Pesantren TUMBUH, 2026.  
-[^8]: Matriks Rubrik Kelulusan Holistik Santri TUMBUH, Dewan Asesmen Karakter, 2026.
+[^7]: Laporan Evaluasi Sidang Munaqasyah Adab Angkatan I Ekosistem Pesantren Berbasis TUMBUH, 2026.  
+[^8]: Matriks Rubrik Kelulusan Holistik Santri dalam sistem TUMBUH, Dewan Asesmen Karakter, 2026.
 
 ---
 

@@ -1,5 +1,5 @@
 # P9-02-03: PROGRAM PEKAN APRESIASI KARAKTER DAN PBIS POINTS
-## *Monograf Riset Akademik: Standarisasi Program Pekan Apresiasi Karakter Bulanan, Mekanisme Konversi PBIS Points Menjadi Hak Istimewa Sosial Khidmah, dan Sistem Penghargaan Pertumbuhan Ipsatif (Monthly Character Recognition Week, PBIS Points-to-Khidmah Conversion Mechanism, & Ipsative Growth Awarding Architecture / Form PRO-ApresiasiPBIS), Integrasi Doktrin 'Tahadduts bin-Ni'mah wa Jazā'u al-Ihsān' Turats Klasik dengan Self-Determination Theory Ryan & Deci, Process-Focused Recognition Systems, Serta Budaya Apresiasi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Pekan Apresiasi Karakter Bulanan, Mekanisme Konversi PBIS Points Menjadi Hak Istimewa Sosial Khidmah, dan Sistem Penghargaan Pertumbuhan Ipsatif (Monthly Character Recognition Week, PBIS Points-to-Khidmah Conversion Mechanism, & Ipsative Growth Awarding Architecture / Form PRO-ApresiasiPBIS), Integrasi Doktrin 'Tahadduts bin-Ni'mah wa Jazā'u al-Ihsān' Turats Klasik dengan Self-Determination Theory Ryan & Deci, Process-Focused Recognition Systems, Serta Budaya Apresiasi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-02-03/MONOGRAF-RISET-PEKAN-APRESIASI-KARAKTER/2026`  
 **Domain**: `09 Programs` > `02 Character Programs` (Sub-Modul 03: *Monthly Character Recognition Week & PBIS Points System*)  
@@ -89,7 +89,7 @@ Paket Mayoran Nampan Akbar Spesifik + Jam Olahraga Renang Mandiri Ahad Pagi Bers
 
 Semoga Allah SWT senantiasa menjaga kerukunan, keberkahan, dan keistiqamahan adab kamar ini.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Pengasuhan Asrama,                           Musyrif Pembina Kamar,
 
 (Ust. Dr. Sholeh Abadi, M.Pd.)                      (Ust. Ridwan Hakiki, M.Pd.)
@@ -106,7 +106,7 @@ Penerapan sistem penghargaan berbasis pertumbuhan ipsatif dan hak istimewa non-m
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-02-03: PROGRAM PEKAN APRESIASI KARAKTER DAN PBIS POINTS** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-02-03: PROGRAM PEKAN APRESIASI KARAKTER DAN PBIS POINTS** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -159,5 +159,5 @@ flowchart TD
 
 [^1]: Alfie Kohn mengenai bahaya manipulasi imbalan ekstrinsik dan bagaimana sistem kompetisi ranking merusak relasi persaudaraan siswa, Kohn (1993, hlm. 55).
 [^2]: Ryan & Deci mengenai peran pemenuhan kebutuhan dasar psikologis (autonomy, competence, relatedness) dalam mempertahankan motivasi intrinsik, Ryan & Deci (2017, hlm. 82).
-[^3]: Studi kasus penerapan pin lencana pertumbuhan ipsatif mentransformasi motivasi santri berisiko Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan pin lencana pertumbuhan ipsatif mentransformasi motivasi santri berisiko Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penguatan non-materiil berbasis hak istimewa khidmah terhadap eliminasi hasad antarsantri (2026).

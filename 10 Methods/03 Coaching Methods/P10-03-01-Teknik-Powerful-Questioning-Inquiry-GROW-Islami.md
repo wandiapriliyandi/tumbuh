@@ -1,5 +1,5 @@
 # P10-03-01: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI
-## *Monograf Riset Akademik: Standarisasi Teknik Pertanyaan Berdaya Inkuiri Sokratik Islami (Islamic Socratic Powerful Questioning), Desain Kerangka Coaching GROW Terintegrasi Niat dan Tawakkal (Islamic GROW Model: Ghāyah, Rūh, Options, & Will / Form MET-GROWCoaching), dan Pembangkitan Kesadaran Metakognitif Intrinsik Santri, Integrasi Doktrin 'Al-Istifhām at-Tarbawī wal Hiwār al-Qur'ānī' Turats Klasik dengan Whitmore GROW Coaching Framework, Deci & Ryan Self-Determination Theory, Serta Kemandirian Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Pertanyaan Berdaya Inkuiri Sokratik Islami (Islamic Socratic Powerful Questioning), Desain Kerangka Coaching GROW Terintegrasi Niat dan Tawakkal (Islamic GROW Model: Ghāyah, Rūh, Options, & Will / Form MET-GROWCoaching), dan Pembangkitan Kesadaran Metakognitif Intrinsik Santri, Integrasi Doktrin 'Al-Istifhām at-Tarbawī wal Hiwār al-Qur'ānī' Turats Klasik dengan Whitmore GROW Coaching Framework, Deci & Ryan Self-Determination Theory, Serta Kemandirian Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-03-01/MONOGRAF-RISET-TEKNIK-GROW-ISLAMI/2026`  
 **Domain**: `10 Methods` > `03 Coaching Methods` (Sub-Modul 01: *Islamic GROW Powerful Questioning & Socratic Coaching*)  
@@ -94,7 +94,7 @@ TANGGAL SESI: Selasa, 25 Agustus 2026              TEMA COACHING    : Disiplin I
 4. WAFAA'UL 'AHDI & TAWAKKAL (KOMITMEN AKSI SAYA):
    Saya akan memulai tidur disiplin malam ini, berdoa memohon istiqamah, dan melapor progres tiap Ahad sore.
 
-Pesantren TUMBUH, 25 Agustus 2026
+Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Santri yang Bertumbuh,                             Coach Pendamping,
 
 (Rizky Fauzi - 9A)                                 (Ust. Dr. Sholeh Abadi, M.Pd.)
@@ -111,7 +111,7 @@ Penerapan metode *GROW Coaching Islami* membuktikan bahwa pergeseran dari pedago
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-03-01: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-03-01: TEKNIK POWERFUL QUESTIONING INQUIRY GROW ISLAMI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -164,5 +164,5 @@ flowchart TD
 
 [^1]: Sir John Whitmore mengenai model GROW coaching dan prinsip peningkatan kesadaran dan tanggung jawab pribadi, Whitmore (2009, hlm. 52).
 [^2]: Edward Deci & Richard Ryan mengenai Self-Determination Theory dan pentingnya pemenuhan kebutuhan otonomi psikologis, Deci & Ryan (2000, hlm. 231).
-[^3]: Studi kasus penerapan teknik Powerful Questioning GROW Islami membangkitkan kesadaran disiplin santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan teknik Powerful Questioning GROW Islami membangkitkan kesadaran disiplin santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengalihan pola ceramah ke coaching interaktif terhadap lonjakan motivasi intrinsik santri (2026).

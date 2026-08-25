@@ -241,7 +241,7 @@ Penerapan konseptualisasi Mutsaqqaful Fikr membawa implikasi besar:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-08-02: DEFINISI DAN KONSEPTUALISASI MUTSAQQAFUL FIKR** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-08-02: DEFINISI DAN KONSEPTUALISASI MUTSAQQAFUL FIKR** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -312,7 +312,7 @@ flowchart TD
 [^4]: Integrasi Taksonomi Bloom HOTS dan Teori Dua Sistem Berpikir Daniel Kahneman, Kahneman (2011, hlm. 44).  
 [^5]: Protokol adab dialog ilmiah dan eliminasi debat kusir destruktif, Al-Mawardi (1987, hlm. 112).  
 [^6]: Matriks tipologi profil pemikiran santri dalam sistem analitik TUMBUH (2026).  
-[^7]: Standar kurikulum integratif dan kemandirian berpikir santri TUMBUH Pesantren (2026).  
+[^7]: Standar kurikulum integratif dan kemandirian berpikir santri dalam sistem TUMBUH Pesantren (2026).  
 
 ---
 

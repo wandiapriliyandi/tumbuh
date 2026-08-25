@@ -11,7 +11,7 @@
 > ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
 >
 > * **Posisi Sub-Domain 01 Graduate Profile:**  
->   Menjawab pertanyaan mendasar kapasitas: *"Profil paripurna seperti apakah yang dihasilkan oleh ekosistem pesantren TUMBUH bagi ketiga entitas simbiotik (Santri, Musyrif, dan Kelembagaan), sehingga santri lulus sebagai Insan Adabi yang kokoh akidahnya, cerdas nalarnya, mandiri hidupnya, dan siap memimpin peradaban dunia?"*
+>   Menjawab pertanyaan mendasar kapasitas: *"Profil paripurna seperti apakah yang dihasilkan oleh ekosistem pesantren berbasis sistem TUMBUH bagi ketiga entitas simbiotik (Santri, Musyrif, dan Kelembagaan), sehingga santri lulus sebagai Insan Adabi yang kokoh akidahnya, cerdas nalarnya, mandiri hidupnya, dan siap memimpin peradaban dunia?"*
 > * **Enam Pilar Riset Kapasitas Kelulusan yang Terintegrasi:**  
 >   1. **P3-01-01 (Triad Profil Kapasitas):** Menyatukan standar pertumbuhan Santri, Guru/Musyrif, dan Kelembagaan secara simbiotik.  
 >   2. **P3-01-02 (Kompetensi 10 Karakter Santri):** Standar capaian 10 Muwashafat di Jenjang J4 Penggerak.  
@@ -124,7 +124,7 @@ graph LR
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01: GRADUATE PROFILE (PROFIL KELULUSAN PARIPURNA) EKOSISTEM TUMBUH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01: GRADUATE PROFILE (PROFIL KELULUSAN PARIPURNA) EKOSISTEM TUMBUH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -28,7 +28,7 @@
   - [4. Rekayasa Evaluasi Kepatuhan Sistem (Tiered Fidelity Inventory / TFI PBIS) & Audit Mutu Bebas Intimidasi](#4-rekayasa-evaluasi-kepatuhan-sistem-tiered-fidelity-inventory--tfi-pbis--audit-mutu-bebas-intimidasi)
   - [5. Kasuistika Lapangan: Peningkatan Mutu Ketertiban Subuh Asrama Melalui Siklus PDCA dan Perbaikan Sarana](#5-kasuistika-lapangan-peningkatan-mutu-ketertiban-subuh-asrama-melalui-siklus-pdca-dan-perbaikan-sarana)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-penjaminan-mutu--continuous-improvement-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Penjaminan Mutu & Continuous Improvement Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-penjaminan-mutu--continuous-improvement-pesantren-tumbuh)
   - [2. Matriks Siklus PDCA Penjaminan Mutu Pengasuhan Adab Pesantren](#2-matriks-siklus-pdca-penjaminan-mutu-pengasuhan-adab-pesantren)
   - [3. Template Instrumen Audit Kepatuhan Implementasi PBIS Asrama (Pesantren TFI Rubric)](#3-template-instrumen-audit-kepatuhan-implementasi-pbis-asrama-pesantren-tfi-rubric)
   - [4. Alur Standar Operasional Prosedur (SOP) Audit Mutu Internal (AMI) Semesteran](#4-alur-standar-operasional-prosedur-sop-audit-mutu-internal-ami-semesteran)
@@ -112,7 +112,7 @@ TUMBUH memberlakukan instrumen evaluasi kepatuhan:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Penjaminan Mutu & Continuous Improvement Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Penjaminan Mutu & Continuous Improvement Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan penjaminan mutu ke dalam **Arsitektur Tiga Sayap Itqan Kelembagaan (*Arkan Itqan at-Tarbiyah*)**:
 
@@ -207,7 +207,7 @@ Prinsip penjaminan mutu dan continuous improvement ini membawa implikasi agung b
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-07-04: PRINSIP PENJAMINAN MUTU DAN CONTINUOUS IMPROVEMENT (QUALITY ASSURANCE & CONTINUOUS IMPROVEMENT)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-07-04: PRINSIP PENJAMINAN MUTU DAN CONTINUOUS IMPROVEMENT (QUALITY ASSURANCE & CONTINUOUS IMPROVEMENT)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -275,7 +275,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Penjaminan Mutu dan Continuous Improvement Pesantren TUMBUH, *Kritik atas Formalitas Kertas SOP*, 2026.  
+[^1]: Riset Prinsip Penjaminan Mutu dan Continuous Improvement Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Formalitas Kertas SOP*, 2026.  
 [^2]: *Syu'ab al-Iman* karya Al-Baihaqi, Hadits No. 4931; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *Al-Muhasabah*, hlm. 380–415.  
 [^3]: Atsar Sayyidina Umar bin Khattab RA mengenai kewajiban hisab diri; Ibnu Muflih, *Al-Adab asy-Syar'iyyah*, Jilid 1, hlm. 140–165.  
 [^4]: Deming, W. E. (1986), *Out of the Crisis*; Imai, M. (1986), *Kaizen*.  

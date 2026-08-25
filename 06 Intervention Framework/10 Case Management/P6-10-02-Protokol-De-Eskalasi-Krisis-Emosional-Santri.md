@@ -1,5 +1,5 @@
 # P6-10-02: PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI
-## *Monograf Riset Akademik: Standarisasi Teknik Penurunan Ketegangan Agresi Verbal/Fisik, Manajemen Amarah Akut, dan Penanganan Histeria Santri Tanpa Kekerasan Fisik (Crisis De-escalation Protocols, Verbal De-escalation Techniques, & Amygdala Hijack Taming / Form PDK-DeEskalasi), Integrasi Doktrin 'Al-Kāzhimīnal Ghaizha wa Ithmā'ul Ghadhab' Turats Klasik dengan CPI Nonviolent Crisis Intervention, Polyvagal Theory (Porges), Serta Ketenangan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Teknik Penurunan Ketegangan Agresi Verbal/Fisik, Manajemen Amarah Akut, dan Penanganan Histeria Santri Tanpa Kekerasan Fisik (Crisis De-escalation Protocols, Verbal De-escalation Techniques, & Amygdala Hijack Taming / Form PDK-DeEskalasi), Integrasi Doktrin 'Al-Kāzhimīnal Ghaizha wa Ithmā'ul Ghadhab' Turats Klasik dengan CPI Nonviolent Crisis Intervention, Polyvagal Theory (Porges), Serta Ketenangan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-10-02/MONOGRAF-RISET-DE-ESKALASI-KRISIS-EMOSIONAL/2026`  
 **Domain**: `06 Intervention Framework` > `10 Case Management` (Sub-Modul 02: *Crisis De-escalation Protocols & Nonviolent Crisis Intervention*)  
@@ -213,7 +213,7 @@ Penerapan protokol de-eskalasi krisis Form PDK ini menghadirkan keunggulan perad
 
 1. **Mewujudkan Pengasuh Asrama yang Matang dan Berjiwa Kesatria (*Exemplary Emotional Mastery*)**: Mengikis budaya emosional pembina dan menampilkan keteladanan akhlaq hilm Nabawi.
 2. **Menghilangkan Mutlak Risiko Cedera Fisik dan Trauma Kekerasan (*Zero Physical Restraint Injury*)**: Menjamin keselamatan fisik dan martabat santri terjaga seutuhnya dalam situasi krisis.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Kāzhimīnal Ghaizha dan CPI Nonviolent De-escalation**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan manajemen krisis emosi paling profesional di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Kāzhimīnal Ghaizha dan CPI Nonviolent De-escalation**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan manajemen krisis emosi paling profesional di dunia.[^5]
 
 ---
 
@@ -221,7 +221,7 @@ Penerapan protokol de-eskalasi krisis Form PDK ini menghadirkan keunggulan perad
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-10-02: PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-10-02: PROTOKOL DE-ESKALASI KRISIS EMOSIONAL SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -289,8 +289,8 @@ flowchart TD
 [^1]: Model Nonviolent Crisis Intervention Crisis Prevention Institute (CPI) dalam de-eskalasi krisis agresif tanpa kekerasan fisik, CPI (2020, hlm. 18).  
 [^2]: Polyvagal Theory Stephen Porges mengenai neurobiologi sistem saraf otonom dan Co-Regulation rasa aman, Porges (2011, hlm. 142 & 2017, hlm. 56).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 3, hlm. 204), bab bahaya kemarahan dan seni menghadapi orang yang sedang mengamuk dengan air ketenangan.  
-[^4]: Protokol de-eskalasi krisis emosional nir-kekerasan Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol de-eskalasi krisis emosional santri di Pesantren TUMBUH (2026).  
+[^4]: Protokol de-eskalasi krisis emosional nir-kekerasan Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol de-eskalasi krisis emosional santri di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

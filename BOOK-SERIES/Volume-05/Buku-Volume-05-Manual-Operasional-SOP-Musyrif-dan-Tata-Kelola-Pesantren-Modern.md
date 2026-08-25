@@ -88,7 +88,7 @@ Musyrif yang kelelahan dan kurang tidur adalah pemicu utama tindak kekerasan dan
 
 ### BAB 4: Protokol Perlindungan Santri (*Safe School Protocols*)
 
-Pesantren TUMBUH memegang teguh komitmen perlindungan santri dari segala bentuk kekerasan fisik, psikis, perundungan, dan pelecehan:
+Ekosistem Pesantren Berbasis TUMBUH memegang teguh komitmen perlindungan santri dari segala bentuk kekerasan fisik, psikis, perundungan, dan pelecehan:
 1. **Mekanisme Whistleblower Aman**: Disediakan kotak aspirasi fisik yang terkunci aman dan aplikasi pelaporan anonim digital yang langsung terhubung ke Komite Etik & Perlindungan Santri independen.
 2. **Pakta Integritas Pendidik**: Seluruh guru, musyrif, staf, dan pengurus santri menandatangani pakta integritas anti-kekerasan bermaterai saat mulai bertugas.
 3. **Investigasi Tanpa Intimidasi**: Setiap laporan dugaan kekerasan ditangani dengan prinsip praduga tak bersalah, menjaga kerahasiaan saksi, dan mendahulukan perlindungan trauma korban (*trauma-informed care*).

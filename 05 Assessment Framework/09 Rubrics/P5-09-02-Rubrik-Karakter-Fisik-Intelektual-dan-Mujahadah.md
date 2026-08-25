@@ -1,5 +1,5 @@
 # P5-09-02: RUBRIK KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (DIMENSI 4–6)
-## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Kapasitas Diri (Qawiyyul Jism, Mutsaqqaful Fikr, & Mujāhadatun Linafsih), Integrasi Doktrin 'Al-Quwwah wal Amānah wa Jihādun Nafs' Turats Klasik dengan Cognitive Load Theory, Self-Regulation Neurobiology, & Physical Health Standards, Serta Desain Indikator Operasional di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Rubrik Behaviorally Anchored Rating Scales (BARS 4 Tingkat) untuk Tiga Dimensi Kapasitas Diri (Qawiyyul Jism, Mutsaqqaful Fikr, & Mujāhadatun Linafsih), Integrasi Doktrin 'Al-Quwwah wal Amānah wa Jihādun Nafs' Turats Klasik dengan Cognitive Load Theory, Self-Regulation Neurobiology, & Physical Health Standards, Serta Desain Indikator Operasional di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-09-02/MONOGRAF-RISET-RUBRIK-FISIK-INTELEKTUAL-MUJAHADAH/2026`  
 **Domain**: `05 Assessment Framework` > `09 Rubrics` (Sub-Modul 02: *Physical, Intellectual, & Self-Discipline Character Rubrics - Dimensions 4 to 6*)  
@@ -220,7 +220,7 @@ Penerapan rubrik BARS dimensi 4–6 Form RKS-02 ini menghadirkan keunggulan pera
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-09-02: RUBRIK KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (DIMENSI 4–6)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-09-02: RUBRIK KARAKTER FISIK, INTELEKTUAL, DAN MUJAHADAH (DIMENSI 4–6)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -288,8 +288,8 @@ flowchart TD
 [^1]: Penelitian Adele Diamond mengenai pentingnya Executive Function dalam kontrol impuls dan regulasi diri kognitif, Diamond (2013, hlm. 140).  
 [^2]: Landasan Cognitive Load Theory John Sweller mengenai manajemen beban belajar untuk mencegah kelelahan otak, Sweller (1988, hlm. 260).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Zadul Ma'ad* (1998, Jilid 4, hlm. 182), bab keutamaan mukmin yang kuat dan hakikat kekuatan menundukkan hawa nafsu.  
-[^4]: Protokol penataan irama sirkadian tidur dan peningkatan kapasitas mujahadah santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan rubrik karakter fisik, intelektual, dan mujahadah di Pesantren TUMBUH (2026).  
+[^4]: Protokol penataan irama sirkadian tidur dan peningkatan kapasitas mujahadah santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan rubrik karakter fisik, intelektual, dan mujahadah di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

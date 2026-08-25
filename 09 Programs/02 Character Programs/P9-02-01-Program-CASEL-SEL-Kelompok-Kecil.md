@@ -1,5 +1,5 @@
 # P9-02-01: PROGRAM CASEL SEL KELOMPOK KECIL
-## *Monograf Riset Akademik: Standarisasi Program Pembelajaran Sosio-Emosional (SEL) Berbasis Kelompok Kecil di Pesantren, Integrasi 5 Kompetensi Inti CASEL dengan Praktik Tazkiyatun Nafs, dan Metodologi Fasilitasi Interaktif Pekanan (Small-Group CASEL SEL Program in Pesantren, 5-Core Competencies & Tazkiyatun Nafs Integration, & Weekly Interactive Facilitation / Form PRO-SELKelompok), Integrasi Doktrin 'Al-Mujālasah bin-Nashīhah wal Mu'āwanah' Turats Klasik dengan CASEL SAFE Practice Guidelines (Sequenced, Active, Focused, Explicit), Yoder SEL Pedagogical Standards, Serta Kematangan Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Pembelajaran Sosio-Emosional (SEL) Berbasis Kelompok Kecil di Pesantren, Integrasi 5 Kompetensi Inti CASEL dengan Praktik Tazkiyatun Nafs, dan Metodologi Fasilitasi Interaktif Pekanan (Small-Group CASEL SEL Program in Pesantren, 5-Core Competencies & Tazkiyatun Nafs Integration, & Weekly Interactive Facilitation / Form PRO-SELKelompok), Integrasi Doktrin 'Al-Mujālasah bin-Nashīhah wal Mu'āwanah' Turats Klasik dengan CASEL SAFE Practice Guidelines (Sequenced, Active, Focused, Explicit), Yoder SEL Pedagogical Standards, Serta Kematangan Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-02-01/MONOGRAF-RISET-PROGRAM-SEL-KELOMPOK-KECIL/2026`  
 **Domain**: `09 Programs` > `02 Character Programs` (Sub-Modul 01: *Small-Group CASEL SEL & Character Facilitation Program*)  
@@ -103,7 +103,7 @@ Penerapan program SEL berbasis kelompok kecil dengan protokol SAFE membuktikan b
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-02-01: PROGRAM CASEL SEL KELOMPOK KECIL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-02-01: PROGRAM CASEL SEL KELOMPOK KECIL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -156,5 +156,5 @@ flowchart TD
 
 [^1]: Yoder mengenai sepuluh praktik pengajaran yang mendukung pembelajaran sosial-emosional dalam kelompok interaktif, Yoder (2014, hlm. 16).
 [^2]: Durlak et al. mengenai analisis empiris efektivitas protokol SAFE dalam implementasi kurikulum SEL, Durlak et al. (2011, hlm. 412).
-[^3]: Studi kasus penerapan sesi SEL kelompok kecil menyelesaikan fenomena passive-aggressive santriwati Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan sesi SEL kelompok kecil menyelesaikan fenomena passive-aggressive santriwati Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengajaran keterampilan asertif kelompok kecil terhadap penurunan konflik interpersonal asrama (2026).

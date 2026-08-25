@@ -1,5 +1,5 @@
 # P8-01-03: MATRIKS PENGUATAN POSITIF DAN MAGIC RATIO 4:1
-## *Monograf Riset Akademik: Standarisasi Matriks Penguatan Positif Kontingensi Tinggi, Protokol Rasio Interaksi Afirmatif Minimal 4:1 (The 4:1 Positive-to-Negative Interaction Ratio), dan Rekayasa Tabungan Emosi Relasional Pendidik-Santri (High-Contingency Positive Reinforcement Matrix, 4:1 Ratio Implementation Protocol, & Relational Emotional Bank Account Engineering / Form PBIS-MagicRatio), Integrasi Doktrin 'At-Tabsyīr Qabla at-Tandzīr wal Ihsān fil Mu'āmalah' Turats Klasik dengan Behavioral Contingency Theory Skinner, Gottman Relationship Science, Serta Iklim Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Matriks Penguatan Positif Kontingensi Tinggi, Protokol Rasio Interaksi Afirmatif Minimal 4:1 (The 4:1 Positive-to-Negative Interaction Ratio), dan Rekayasa Tabungan Emosi Relasional Pendidik-Santri (High-Contingency Positive Reinforcement Matrix, 4:1 Ratio Implementation Protocol, & Relational Emotional Bank Account Engineering / Form PBIS-MagicRatio), Integrasi Doktrin 'At-Tabsyīr Qabla at-Tandzīr wal Ihsān fil Mu'āmalah' Turats Klasik dengan Behavioral Contingency Theory Skinner, Gottman Relationship Science, Serta Iklim Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-01-03/MONOGRAF-RISET-MAGIC-RATIO-PENGUATAN-POSITIF/2026`  
 **Domain**: `08 Integrated Approaches` > `01 PBIS` (Sub-Modul 03: *High-Contingency Positive Reinforcement & 4:1 Magic Ratio Protocol*)  
@@ -103,7 +103,7 @@ Penerapan *Magic Ratio 4:1* secara konsisten memodifikasi neurobiologi interaksi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-01-03: MATRIKS PENGUATAN POSITIF DAN MAGIC RATIO 4:1** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-01-03: MATRIKS PENGUATAN POSITIF DAN MAGIC RATIO 4:1** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -156,5 +156,5 @@ flowchart TD
 
 [^1]: Flora mengenai analisis empiris efektivitas penguatan positif dan rasio pujian dalam lingkungan pendidikan, Flora (2000, hlm. 19).
 [^2]: Temuan Gottman mengenai rasio interaksi 5:1 sebagai ambang batas stabilitas relasi afektif yang sehat, Gottman (1994, hlm. 57).
-[^3]: Studi kasus penerapan Magic Ratio 4:1 memulihkan iklim kamar asrama paling gaduh Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Magic Ratio 4:1 memulihkan iklim kamar asrama paling gaduh Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Mekanisme neurobiologi pelepasan dopamin dan penurunan kortisol melalui interaksi penguatan afirmatif teratur (2026).

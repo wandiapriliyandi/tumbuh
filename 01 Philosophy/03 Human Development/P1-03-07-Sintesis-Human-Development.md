@@ -28,7 +28,7 @@
   - [4. Dekonstruksi Paradigma Punitif dan Penegakan Hak Bertumbuh Santri](#4-dekonstruksi-paradigma-punitif-dan-penegakan-hak-bertumbuh-santri)
   - [5. Kasuistika Lapangan: Evaluasi Sistemik Stres Pengasuhan Asrama & Resolusi Restoratif](#5-kasuistika-lapangan-evaluasi-sistemik-stres-pengasuhan-asrama--resolusi-restoratif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Piagam Pemuliaan Hak Bertumbuh Santri TUMBUH](#1-eksplanasi-teoretis-piagam-pemuliaan-hak-bertumbuh-santri-tumbuh)
+  - [1. Eksplanasi Teoretis Piagam Pemuliaan Hak Bertumbuh Santri dalam sistem TUMBUH](#1-eksplanasi-teoretis-piagam-pemuliaan-hak-bertumbuh-santri-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Sintesis Perkembangan (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-sintesis-perkembangan-maratib-al-idrak)
   - [3. Jembatan Filosofis Menuju Sub-Domain 04 Education](#3-jembatan-filosofis-menuju-sub-domain-04-education)
   - [4. Prinsip Aksiologis & Protokol Audit Mutu Pengasuhan Berbasis Human Development](#4-prinsip-aksiologis--protokol-audit-mutu-pengasuhan-berbasis-human-development)
@@ -111,7 +111,7 @@ Penerapan konsolidasi *Human Development* membuktikan bahwa ketika musyrif memah
 
 ---
 
-### 1. Eksplanasi Teoretis Piagam Pemuliaan Hak Bertumbuh Santri TUMBUH
+### 1. Eksplanasi Teoretis Piagam Pemuliaan Hak Bertumbuh Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH menetapkan **Piagam Agung Hak Bertumbuh Santri (*Mitsaq Huquq an-Numuw*)**:
 
@@ -209,7 +209,7 @@ Sintesis filosofis perkembangan insan ini menegaskan masa depan pendidikan Islam
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-03-07: SINTESIS FILOSOFIS PERKEMBANGAN INSAN PEMBELAJAR (SYNTHESIS OF HUMAN DEVELOPMENT)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-03-07: SINTESIS FILOSOFIS PERKEMBANGAN INSAN PEMBELAJAR (SYNTHESIS OF HUMAN DEVELOPMENT)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -279,7 +279,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Sintesis Human Development Pesantren TUMBUH, *Kritik atas Fragmentasi Perkembangan Manusia*, 2026.  
+[^1]: Riset Sintesis Human Development Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fragmentasi Perkembangan Manusia*, 2026.  
 [^2]: Master Arsitektur Enam Pilar Riset Sub-Domain Human Development TUMBUH, 2026.  
 [^3]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 170–210.  
 [^4]: Dokumentasi Evaluasi Lapangan dan Uji Kelayakan Pengasuhan Asrama PBIS TUMBUH, 2026.  

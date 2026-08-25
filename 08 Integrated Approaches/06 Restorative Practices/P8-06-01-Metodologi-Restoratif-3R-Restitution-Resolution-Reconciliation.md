@@ -1,5 +1,5 @@
 # P8-06-01: METODOLOGI RESTORATIF 3R: RESTITUTION, RESOLUTION, RECONCILIATION
-## *Monograf Riset Akademik: Standarisasi Metodologi Keadilan Restoratif 3R (Restitution, Resolution, Reconciliation), Transformasi Penanganan Pelanggaran Menjadi Pemulihan Relasi Komunal, dan Penyelarasan Doktrin Ishlah al-Bain (Restorative 3R Methodology, Communitarian Relationship Repair, & Ishlah al-Bain Alignment / Form RES-3RModel), Integrasi Doktrin 'Al-Ishlāhu Baina an-Nās wa Raddu al-Mazhālim' Turats Klasik dengan Zehr Restorative Justice Theory, Braithwaite Reintegrative Shaming, Serta Budaya Damai di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Metodologi Keadilan Restoratif 3R (Restitution, Resolution, Reconciliation), Transformasi Penanganan Pelanggaran Menjadi Pemulihan Relasi Komunal, dan Penyelarasan Doktrin Ishlah al-Bain (Restorative 3R Methodology, Communitarian Relationship Repair, & Ishlah al-Bain Alignment / Form RES-3RModel), Integrasi Doktrin 'Al-Ishlāhu Baina an-Nās wa Raddu al-Mazhālim' Turats Klasik dengan Zehr Restorative Justice Theory, Braithwaite Reintegrative Shaming, Serta Budaya Damai di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-06-01/MONOGRAF-RISET-METODOLOGI-RESTORATIF-3R/2026`  
 **Domain**: `08 Integrated Approaches` > `06 Restorative Practices` (Sub-Modul 01: *Restorative 3R Methodology: Restitution, Resolution, Reconciliation*)  
@@ -107,7 +107,7 @@ Penerapan metodologi restoratif 3R memicu reorientasi neurokognitif dari pola pi
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-06-01: METODOLOGI RESTORATIF 3R: RESTITUTION, RESOLUTION, RECONCILIATION** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-06-01: METODOLOGI RESTORATIF 3R: RESTITUTION, RESOLUTION, RECONCILIATION** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -160,5 +160,5 @@ flowchart TD
 
 [^1]: Latimer et al. mengenai meta-analisis efektivitas keadilan restoratif terhadap penurunan residivisme dan peningkatan kepuasan korban, Latimer et al. (2005, hlm. 131).
 [^2]: Hadits Sunan Abu Dawud mengenai keutamaan mendamaikan perselisihan (Ishlah Dzat al-Bain) melebihi derajat ibadah sunnah, HR. Abu Dawud No. 4919.
-[^3]: Studi kasus penerapan metodologi 3R menyelesaikan insiden perusakan fasilitas asrama Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan metodologi 3R menyelesaikan insiden perusakan fasilitas asrama Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak reintegrative shaming dan pemulihan ukhuwah terhadap eliminasi dendam antarsantri (2026).

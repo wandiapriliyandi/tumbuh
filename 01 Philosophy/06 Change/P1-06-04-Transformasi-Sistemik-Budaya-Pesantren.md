@@ -28,7 +28,7 @@
   - [4. Rekayasa Transformasi Menyeluruh: Mengintegrasikan Mindset, Regulasi Tertulis, & Arsitektur Fisik](#4-rekayasa-transformasi-menyeluruh-mengintegrasikan-mindset-regulasi-tertulis--arsitektur-fisik)
   - [5. Kasuistika Lapangan: Kasus Transisi Penghapusan Hukuman Rotan & Resolusi Restoratif Terpadu](#5-kasuistika-lapangan-kasus-transisi-penghapusan-hukuman-rotan--resolusi-restoratif-terpadu)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Transformasi Sistemik Budaya Pesantren TUMBUH](#1-eksplanasi-teoretis-transformasi-sistemik-budaya-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Transformasi Sistemik Budaya Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-transformasi-sistemik-budaya-pesantren-tumbuh)
   - [2. Dekomposisi Dimensi & Empat Tingkatan Kesadaran Transformasi Budaya (Maratib al-Idrak)](#2-dekomposisi-dimensi--empat-tingkatan-kesadaran-transformasi-budaya-maratib-al-idrak)
   - [3. Matriks Delapan Tahap Transformasi Peradaban Pesantren (Model Integrasi Kotter & Sunnah)](#3-matriks-delapan-tahap-transformasi-peradaban-pesantren-model-integrasi-kotter--sunnah)
   - [4. Protokol Pelembagaan Budaya PBIS Berkelanjutan (Institutionalizing PBIS Culture Protocol)](#4-protokol-pelembagaan-budaya-pbis-berkelanjutan-institutionalizing-pbis-culture-protocol)
@@ -105,7 +105,7 @@ TUMBUH menyatukan 4 dimensi transformasi:
 
 ---
 
-### 1. Eksplanasi Teoretis Transformasi Sistemik Budaya Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Transformasi Sistemik Budaya Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH mengkodifikasikan transformasi ke dalam **Arsitektur Tiga Sayap Perubahan Peradaban (*Arkan at-Tahawwul al-Hadhariy*)**:
 
@@ -238,10 +238,10 @@ Transformasi sistemik budaya pesantren ini membawa fajar baru bagi dunia Islam:
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Transformasi Sistemik Budaya Pesantren TUMBUH, *Kritik atas Reformasi Tambal Sulam*, 2026.  
+[^1]: Riset Transformasi Sistemik Budaya Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reformasi Tambal Sulam*, 2026.  
 [^2]: Ibnu Hisyam, *As-Sirah an-Nabawiyyah*, Bab *Shahifah al-Madinah wal-Mu'akhah*, Jilid 2, hlm. 140–165.  
 [^3]: Lewin, K. (1951), *Field Theory in Social Science*, hlm. 30–55; Kotter, J. P. (1996), *Leading Change*, hlm. 20–68.  
-[^4]: Master Blueprint Total Systemic Re-Engineering Pesantren TUMBUH, 2026.  
+[^4]: Master Blueprint Total Systemic Re-Engineering Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^5]: Dokumentasi Halaqah Turats dan Konsolidasi Transisi Budaya Asatidz PBIS TUMBUH, 2026.  
 [^6]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Al-'Ilm*, hlm. 45–70.  
 [^7]: Horner, R. H., & Sugai, G. (2015), *School-wide PBIS*, hlm. 80–85.  

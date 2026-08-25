@@ -1,5 +1,5 @@
 # P3-10-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 HARITSUN ALA WAQTIH
-## *Monograf Riset Akademik: Trajektori Perkembangan Kematangan Temporal Remaja Pesantren (Usia 12–18 Tahun), Maturasi Prefrontal Cortex & Regulasi Waktu Mandiri, Krisis Prokrastinasi Pubertas Awal Menuju Otonomi Eksekutif Dewasa Awal, Serta Desain Kurikulum Manajemen Waktu Berjenjang J1–J4 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Perkembangan Kematangan Temporal Remaja Pesantren (Usia 12–18 Tahun), Maturasi Prefrontal Cortex & Regulasi Waktu Mandiri, Krisis Prokrastinasi Pubertas Awal Menuju Otonomi Eksekutif Dewasa Awal, Serta Desain Kurikulum Manajemen Waktu Berjenjang J1–J4 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-10-08/MONOGRAF-RISET-TRAJEKTORI-J1J4-HARITSUN-ALA-WAQTIH/2026`  
 **Domain**: `03 Capacity Framework` > `10 Haritsun Ala Waqtih` (Sub-Modul 08: *J1–J4 Developmental Stages*)  
@@ -224,7 +224,7 @@ Penerapan trajektori perkembangan manajemen waktu J1–J4 membawa transformasi k
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-10-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 HARITSUN ALA WAQTIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-10-08: TAHAPAN PERKEMBANGAN JENJANG J1–J4 HARITSUN ALA WAQTIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

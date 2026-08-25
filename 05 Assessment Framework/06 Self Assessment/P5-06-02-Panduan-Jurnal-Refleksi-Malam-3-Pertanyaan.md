@@ -1,5 +1,5 @@
 # P5-06-02: PANDUAN JURNAL REFLEKSI MALAM 3 PERTANYAAN (FORM JRM-3P)
-## *Monograf Riset Akademik: Protokol Jurnal Refleksi Malam Berbasis Tiga Pertanyaan Metakognitif (The Three Nightly Reflective Inquiries / Form JRM-3P), Integrasi Doktrin 'Syukur, Istighfar, wa 'Azam' Turats Klasik dengan Kolb's Experiential Learning Cycle & Gibbs' Reflective Cycle, Serta Desain Ritme Hening Malam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Protokol Jurnal Refleksi Malam Berbasis Tiga Pertanyaan Metakognitif (The Three Nightly Reflective Inquiries / Form JRM-3P), Integrasi Doktrin 'Syukur, Istighfar, wa 'Azam' Turats Klasik dengan Kolb's Experiential Learning Cycle & Gibbs' Reflective Cycle, Serta Desain Ritme Hening Malam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-06-02/MONOGRAF-RISET-JURNAL-REFLEKSI-MALAM-TIGA-PERTANYAAN/2026`  
 **Domain**: `05 Assessment Framework` > `06 Self Assessment` (Sub-Modul 02: *Nightly Three-Question Reflective Journaling Protocol*)  
@@ -218,7 +218,7 @@ Penerapan jurnal refleksi malam 3 pertanyaan ini menghadirkan keunggulan peradab
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-06-02: PANDUAN JURNAL REFLEKSI MALAM 3 PERTANYAAN (FORM JRM-3P)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-06-02: PANDUAN JURNAL REFLEKSI MALAM 3 PERTANYAAN (FORM JRM-3P)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -287,7 +287,7 @@ flowchart TD
 [^2]: Dampak psikologi syukur terhadap kesejahteraan subjektif dan kualitas tidur harian, Emmons & McCullough (2003, hlm. 382).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Madarijus Salikin* (2011, Jilid 1, hlm. 188), bab perjalanan hati seorang mukmin antara sayap syukur dan istighfar.  
 [^4]: Protokol terapi jurnal syukur malam dan pemulihan homesickness santri baru TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan panduan jurnal refleksi malam 3 pertanyaan di Pesantren TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan panduan jurnal refleksi malam 3 pertanyaan di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P7-01-02: KEBIJAKAN ELIMINASI FEODALISME DAN PENGAWASAN INTERNAL
-## *Monograf Riset Akademik: Standarisasi Regulasi Penghapusan Struktur Kasta Asrama, Pengawasan Internal Anti-Eksploitasi Santri, dan Penegakan Kesetaraan Hak Berbasis Ukhuwah Islamiyyah (Feudalism Elimination Policies, Internal Oversight Mechanisms, & Anti-Exploitation Charters / Form KEF-Feodalisme), Integrasi Doktrin 'Musāwatul Insān wa Tahrimut Tasalluth' Turats Klasik dengan Weber's Bureaucratic Rationality vs Traditional Domination, Anti-Hazing Protocols, Serta Keadilan Sosial di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Regulasi Penghapusan Struktur Kasta Asrama, Pengawasan Internal Anti-Eksploitasi Santri, dan Penegakan Kesetaraan Hak Berbasis Ukhuwah Islamiyyah (Feudalism Elimination Policies, Internal Oversight Mechanisms, & Anti-Exploitation Charters / Form KEF-Feodalisme), Integrasi Doktrin 'Musāwatul Insān wa Tahrimut Tasalluth' Turats Klasik dengan Weber's Bureaucratic Rationality vs Traditional Domination, Anti-Hazing Protocols, Serta Keadilan Sosial di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-01-02/MONOGRAF-RISET-ELIMINASI-FEODALISME/2026`  
 **Domain**: `07 Implementation Framework` > `01 Governance` (Sub-Modul 02: *Feudalism Elimination Policies & Internal Oversight Mechanisms*)  
@@ -135,7 +135,7 @@ flowchart TD
   1. *Operasi Sidak Pengawasan Internal*: Satgas Pengawas menemukan puluhan ember cucian senior di kamar mandi junior.
   2. *Sidang Etik Pembatalan Jabatan*: Seluruh pengurus santri senior yang terlibat dicopot dari jabatannya sebagai pengurus asrama (*Immediate Demotion*).
   3. *Deklarasi Kemandirian 100%*: Seluruh santri senior diwajibkan mencuci pakaian mereka sendiri di hadapan adik kelasnya.
-  4. *Edukasi Qudwah Khidmah*: Mudir Asrama mengumpulkan seluruh santri dan menegaskan: *"Di pesantren TUMBUH, kehormatan senior ditentukan oleh seberapa banyak ia mengayomi dan membantu adik kelasnya, bukan seberapa banyak ia menyuruh-nyuruh!"*
+  4. *Edukasi Qudwah Khidmah*: Mudir Asrama mengumpulkan seluruh santri dan menegaskan: *"Dalam sistem TUMBUH di pesantren, kehormatan senior ditentukan oleh seberapa banyak ia mengayomi dan membantu adik kelasnya, bukan seberapa banyak ia menyuruh-nyuruh!"*
 * **Hasil**: Tradisi cuci baju senior lenyap **$100\%$ permanen**; hubungan senior-junior bertransformasi menjadi hubungan kakak-adik yang sangat akrab dan saling melindungi.[^4]
 
 ---
@@ -210,7 +210,7 @@ Penerapan kebijakan eliminasi feodalisme Form KEF ini menghadirkan keunggulan pe
 
 1. **Melahirkan Generasi Santri yang Bermental Merdeka dan Berintegritas Tinggi (*Liberated & Resilient Generation*)**: Menghilangkan mentalitas budak dan mentalitas tiran dari jiwa generasi muda Islam.
 2. **Menciptakan Atmosfer Asrama yang Aman, Nyaman, dan Penuh Persaudaraan (*Zero-Fear Residential Bi'ah*)**: Santri baru merasa tenang, terlindungi, dan betah menuntut ilmu sejak hari pertama.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Musāwah fil Islām dan Anti-Hazing Standards**: Mengukuhkan pesantren TUMBUH sebagai lembaga pendidikan Islam dengan perlindungan martabat kemanusiaan paling unggul di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Al-Musāwah fil Islām dan Anti-Hazing Standards**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai lembaga pendidikan Islam dengan perlindungan martabat kemanusiaan paling unggul di dunia.[^5]
 
 ---
 
@@ -218,7 +218,7 @@ Penerapan kebijakan eliminasi feodalisme Form KEF ini menghadirkan keunggulan pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-01-02: KEBIJAKAN ELIMINASI FEODALISME DAN PENGAWASAN INTERNAL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-01-02: KEBIJAKAN ELIMINASI FEODALISME DAN PENGAWASAN INTERNAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Sosiologi otoritas dan kritik dominasi tradisional Max Weber, Weber (1978, hlm. 215).  
 [^2]: Studi prevalensi dan mitigasi bahaya perpeloncoan hazing di institusi pendidikan, Campo et al. (2005, hlm. 140) & Lipkins (2006, hlm. 32).  
 [^3]: Asy-Syathibi, *Al-I'tisham* (1997, Jilid 2, hlm. 142), bab pengharaman tirani feodalitas dan kewajiban menegakkan kesetaraan hak di antara umat Islam.  
-[^4]: Protokol eliminasi feodalisme dan penghapusan perbudakan domestik asrama Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan kebijakan eliminasi feodalisme dan pengawasan internal di Pesantren TUMBUH (2026).  
+[^4]: Protokol eliminasi feodalisme dan penghapusan perbudakan domestik asrama Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan kebijakan eliminasi feodalisme dan pengawasan internal di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

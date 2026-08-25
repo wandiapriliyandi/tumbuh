@@ -1,5 +1,5 @@
 # P5-12-02: ALGORITMA EARLY WARNING SYSTEM (EWS) BEHAVIORAL
-## *Monograf Riset Akademik: Formulasi Algoritma Sistem Peringatan Dini Penurunan Karakter dan Risiko Krisis Santri (Behavioral Early Warning System Algorithm / Form EWS-Behavioral), Integrasi Doktrin 'Saddudz Dzarī'ah wa Istisyrāful Futun' Turats Klasik dengan Multi-Variate Logistic Regression, Anomaly Detection Algorithms, Serta Protokol De-eskalasi Krisis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Formulasi Algoritma Sistem Peringatan Dini Penurunan Karakter dan Risiko Krisis Santri (Behavioral Early Warning System Algorithm / Form EWS-Behavioral), Integrasi Doktrin 'Saddudz Dzarī'ah wa Istisyrāful Futun' Turats Klasik dengan Multi-Variate Logistic Regression, Anomaly Detection Algorithms, Serta Protokol De-eskalasi Krisis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-12-02/MONOGRAF-RISET-ALGORITMA-EWS-BEHAVIORAL/2026`  
 **Domain**: `05 Assessment Framework` > `12 Analytics` (Sub-Modul 02: *Behavioral Early Warning System & Crisis Prediction Algorithm*)  
@@ -230,7 +230,7 @@ Penerapan algoritma EWS behavioral Form EWS ini menghadirkan keunggulan peradaba
 
 1. **Mewujudkan Jaring Pengaman Nyawa dan Mental Santri (*Life-Saving Safety Net*)**: Menghilangkan risiko bunuh diri, depresi kronis, dan santri kabur dari pesantren secara tuntas.
 2. **Mengubah Manajemen Penanganan Masalah Menjadi Presisi dan Terukur (*Precision Educational Support*)**: Bantuan konseling dikerahkan sebelum santri sempat melakukan pelanggaran berat.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Saddudz Dzarī'ah dan Predictive Machine Learning**: Mengukuhkan pesantren TUMBUH sebagai teladan keselamatan dan perlindungan anak nomor satu di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Saddudz Dzarī'ah dan Predictive Machine Learning**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai teladan keselamatan dan perlindungan anak nomor satu di dunia Islam.[^5]
 
 ---
 
@@ -238,7 +238,7 @@ Penerapan algoritma EWS behavioral Form EWS ini menghadirkan keunggulan peradaba
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-12-02: ALGORITMA EARLY WARNING SYSTEM (EWS) BEHAVIORAL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-12-02: ALGORITMA EARLY WARNING SYSTEM (EWS) BEHAVIORAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -305,8 +305,8 @@ flowchart TD
 [^1]: Kerangka kerja Early Warning Indicators (EWI) Mary Bruce et al. dalam memprediksi risiko kegagalan siswa, Bruce et al. (2011, hlm. 14).  
 [^2]: Algoritma Isolation Forest dalam deteksi anomali data multivariat multidimensi, Liu, Ting, & Zhou (2008, hlm. 415).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *I'lamul Muwaqqi'in* (1991, Jilid 3, hlm. 118), bab urgensi kaidah saddudz dzari'ah dalam mencegah kerusakan sebelum membesar.  
-[^4]: Protokol deteksi EWS merah dan de-eskalasi depresi santri baru Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan algoritma EWS behavioral di Pesantren TUMBUH (2026).  
+[^4]: Protokol deteksi EWS merah dan de-eskalasi depresi santri baru Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan algoritma EWS behavioral di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

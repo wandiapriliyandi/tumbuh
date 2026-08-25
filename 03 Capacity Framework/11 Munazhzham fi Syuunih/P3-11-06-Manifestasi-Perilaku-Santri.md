@@ -1,5 +1,5 @@
 # P3-11-06: MANIFESTASI PERILAKU SANTRI MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Katalog Indikator Perilaku Teramati (Observable Behavioral Markers) Keteraturan Diri Santri di Lima Setting Ekosistem 24 Jam (Kamar Tidur Asrama, Ruang Sanitasi/Kamar Mandi, Ruang Kelas Madrasah, Area Finansial/Kantin, Serta Ruang Organisasi/Perpustakaan), Deteksi Dini Pola Kesemrawutan (Ghashab, Hoarding, & Pemborosan), Serta Protokol Penguatan Perilaku Positif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Katalog Indikator Perilaku Teramati (Observable Behavioral Markers) Keteraturan Diri Santri di Lima Setting Ekosistem 24 Jam (Kamar Tidur Asrama, Ruang Sanitasi/Kamar Mandi, Ruang Kelas Madrasah, Area Finansial/Kantin, Serta Ruang Organisasi/Perpustakaan), Deteksi Dini Pola Kesemrawutan (Ghashab, Hoarding, & Pemborosan), Serta Protokol Penguatan Perilaku Positif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-06/MONOGRAF-RISET-MANIFESTASI-PERILAKU-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 06: *Observable Behavioral Markers*)  
@@ -228,7 +228,7 @@ Penerapan katalog perilaku teramati ini melahirkan kepastian tata kelola asrama:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-06: MANIFESTASI PERILAKU SANTRI MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-06: MANIFESTASI PERILAKU SANTRI MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -298,7 +298,7 @@ flowchart TD
 [^2]: Pembahasan fenomena superficial tidiness dan manipulasi kebersihan visual sesaat, Cooper, Heron, & Heward (2020, hlm. 118).  
 [^3]: Az-Zarnuji, *Ta'limul Muta'allim Thariqat-Ta'allum* (2008, hlm. 42).  
 [^4]: Protokol pembinaan higienitas pakaian basah dan penanganan jamur kain asrama, TUMBUH (2026).  
-[^5]: Spesifikasi katalog indikator perilaku teramati di 5 setting kehidupan santri TUMBUH (2026).  
+[^5]: Spesifikasi katalog indikator perilaku teramati di 5 setting kehidupan santri dalam sistem TUMBUH (2026).  
 [^6]: Penerapan prinsip rasio penguatan positif 4:1 dalam pembiasaan kerapian asrama, Sugai & Horner (2020, hlm. 208).  
 [^7]: Dampak kelembagaan penerapan katalog manifestasi perilaku terstandar TUMBUH Pesantren (2026).  
 

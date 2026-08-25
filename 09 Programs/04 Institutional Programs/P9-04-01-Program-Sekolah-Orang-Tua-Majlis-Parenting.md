@@ -1,5 +1,5 @@
 # P9-04-01: PROGRAM SEKOLAH ORANG TUA MAJLIS PARENTING
-## *Monograf Riset Akademik: Standarisasi Program Sekolah Orang Tua (Majlis Tarbiyatul Wālidain), Sinkronisasi Ekosistem Pengasuhan Pesantren-Keluarga, dan Penguatan Kemitraan Orang Tua Berbasis Digital (Parenting School Program, Pesantren-Family Ecological Synchronization, & Digital Parent Portal Engagement / Form PRO-ParentingSchool), Integrasi Doktrin 'Tarbiyatu al-Aulād wa Mas'ūliyyatul Abawain' Turats Klasik dengan Epstein Six Types of Parental Involvement, Bronfenbrenner Bioecological Systems Theory, Serta Keberlanjutan Karakter di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Program Sekolah Orang Tua (Majlis Tarbiyatul Wālidain), Sinkronisasi Ekosistem Pengasuhan Pesantren-Keluarga, dan Penguatan Kemitraan Orang Tua Berbasis Digital (Parenting School Program, Pesantren-Family Ecological Synchronization, & Digital Parent Portal Engagement / Form PRO-ParentingSchool), Integrasi Doktrin 'Tarbiyatu al-Aulād wa Mas'ūliyyatul Abawain' Turats Klasik dengan Epstein Six Types of Parental Involvement, Bronfenbrenner Bioecological Systems Theory, Serta Keberlanjutan Karakter di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P9-04-01/MONOGRAF-RISET-SEKOLAH-ORANG-TUA/2026`  
 **Domain**: `09 Programs` > `04 Institutional Programs` (Sub-Modul 01: *Parenting School & Family-Pesantren Synchronization Program*)  
@@ -111,7 +111,7 @@ Penyelenggaraan Sekolah Orang Tua yang tersinkronisasi dengan kurikulum asrama m
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P9-04-01: PROGRAM SEKOLAH ORANG TUA MAJLIS PARENTING** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P9-04-01: PROGRAM SEKOLAH ORANG TUA MAJLIS PARENTING** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -164,5 +164,5 @@ flowchart TD
 
 [^1]: Joyce Epstein mengenai enam tipe keterlibatan orang tua dan dampaknya terhadap keberhasilan holistik anak, Epstein (2018, hlm. 42).
 [^2]: Abdullah Nashih 'Ulwan mengenai tanggung jawab mendasar orang tua dalam mendidik keimanan, moral, dan fisik anak, Tarbiyatul Aulad (2012, Jilid 1, hlm. 115).
-[^3]: Studi kasus penerapan Kontrak Adab Liburan Keluarga mencegah relaps kecanduan gadget santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Kontrak Adab Liburan Keluarga mencegah relaps kecanduan gadget santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak sinkronisasi bioekologis pesantren-keluarga terhadap peningkatan retensi karakter dan penurunan kecemasan orang tua (2026).

@@ -1,5 +1,5 @@
 # P8-06-02: SOP RESTORATIVE CHAT 5 PERTANYAAN DAN RESTORATIVE CIRCLES
-## *Monograf Riset Akademik: Standarisasi Prosedur Operasional Baku (SOP) Restorative Chat 5-Pertanyaan Reflektif, Metodologi Fasilitasi Lingkaran Restoratif Asrama (Dormitory Restorative Circles), dan Protokol Benda Bicara (Talking Piece Protocol) dalam Resolusi Konflik Sebaya (Standardized 5-Question Restorative Chat SOP, Restorative Circles Facilitation Methodology, & Talking Piece Peer Resolution / Form RES-ChatCircles), Integrasi Doktrin 'Adab an-Nashīhah wal Majlis asy-Syūrā' Turats Klasik dengan Wachtel Restorative Practices Continuum, Pranis Peacemaking Circles, Serta Iklim Ukhuwah di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Prosedur Operasional Baku (SOP) Restorative Chat 5-Pertanyaan Reflektif, Metodologi Fasilitasi Lingkaran Restoratif Asrama (Dormitory Restorative Circles), dan Protokol Benda Bicara (Talking Piece Protocol) dalam Resolusi Konflik Sebaya (Standardized 5-Question Restorative Chat SOP, Restorative Circles Facilitation Methodology, & Talking Piece Peer Resolution / Form RES-ChatCircles), Integrasi Doktrin 'Adab an-Nashīhah wal Majlis asy-Syūrā' Turats Klasik dengan Wachtel Restorative Practices Continuum, Pranis Peacemaking Circles, Serta Iklim Ukhuwah di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-06-02/MONOGRAF-RISET-RESTORATIVE-CHAT-CIRCLES/2026`  
 **Domain**: `08 Integrated Approaches` > `06 Restorative Practices` (Sub-Modul 02: *Restorative Chat & Restorative Circles Facilitation SOP*)  
@@ -110,7 +110,7 @@ Penerapan protokol *5 Restorative Questions* dan *Restorative Circles* terbukti 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-06-02: SOP RESTORATIVE CHAT 5 PERTANYAAN DAN RESTORATIVE CIRCLES** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-06-02: SOP RESTORATIVE CHAT 5 PERTANYAAN DAN RESTORATIVE CIRCLES** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -163,5 +163,5 @@ flowchart TD
 
 [^1]: Costello et al. mengenai panduan praktis implementasi Restorative Practices bagi para pendidik dan pengasuh, Costello et al. (2009, hlm. 14).
 [^2]: Kay Pranis mengenai filosofi dan metodologi Peacemaking Circles dalam menyelesaikan luka relasi komunitas, Pranis (2005, hlm. 28).
-[^3]: Studi kasus penerapan Restorative Circle kamar memulihkan polarisasi sosial santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Restorative Circle kamar memulihkan polarisasi sosial santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak fasilitasi benda bicara (talking piece) terhadap pemerataan partisipasi dan resolusi damai konflik asrama (2026).

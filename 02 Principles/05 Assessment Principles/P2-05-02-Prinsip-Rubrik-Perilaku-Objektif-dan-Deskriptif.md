@@ -28,7 +28,7 @@
   - [4. Rekayasa Eliminasi Bias Kognitif Penilai & Standarisasi Reliabilitas Antar-Musyrif (Cohen's Kappa > 0.80)](#4-rekayasa-eliminasi-bias-kognitif-penilai--standarisasi-reliabilitas-antar-musyrif-cohens-kappa--080)
   - [5. Kasuistika Lapangan: Kasus Perbedaan Penilaian Ekstrem Dua Musyrif & Resolusi Rubrik BARS](#5-kasuistika-lapangan-kasus-perbedaan-penilaian-ekstrem-dua-musyrif--resolusi-rubrik-bars)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Rubrik Perilaku Objektif BARS Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-rubrik-perilaku-objektif-bars-pesantren-tumbuh)
   - [2. Matriks Rubrik BARS Empat Tingkat untuk Lima Dimensi Adab Utama Santri](#2-matriks-rubrik-bars-empat-tingkat-untuk-lima-dimensi-adab-utama-santri)
   - [3. Protokol Kalibrasi & Standardisasi Penilaian Antar-Musyrif (Inter-Rater Calibration Protocol)](#3-protokol-kalibrasi--standardisasi-penilaian-antar-musyrif-inter-rater-calibration-protocol)
   - [4. Alur Audit Keadilan Penilaian PBIS (Bias Auditing SOP)](#4-alur-audit-keadilan-penilaian-pbis-bias-auditing-sop)
@@ -112,7 +112,7 @@ TUMBUH memberlakukan protokol audit reliabilitas:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Rubrik Perilaku Objektif BARS Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Rubrik Perilaku Objektif BARS Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan rubrik perilaku ke dalam **Arsitektur Tiga Sayap Rubrik BARS (*Arkan al-Miqyas as-Sulukiy*)**:
 
@@ -192,7 +192,7 @@ Prinsip rubrik perilaku objektif BARS ini membawa implikasi agung bagi peradaban
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-05-02: PRINSIP RUBRIK PERILAKU OBJEKTIF DAN DESKRIPTIF (OBJECTIVE BEHAVIORAL RUBRICS & BARS)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-05-02: PRINSIP RUBRIK PERILAKU OBJEKTIF DAN DESKRIPTIF (OBJECTIVE BEHAVIORAL RUBRICS & BARS)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -267,7 +267,7 @@ flowchart TD
 [^5]: Smith, P. C., & Kendall, L. M. (1963), *Journal of Applied Psychology*, hlm. 149–155; Schwab, D. P., et al. (1975).  
 [^6]: Cohen, J. (1960), *Educational and Psychological Measurement*, hlm. 37–46; Thorndike, E. L. (1920).  
 [^7]: Dokumentasi Kalibrasi Rubrik BARS dan Audit Bias Penilai Asrama PBIS TUMBUH, 2026.  
-[^8]: Master Blueprint Rubrik BARS 5 Dimensi Adab Utama Santri TUMBUH, 2026.  
+[^8]: Master Blueprint Rubrik BARS 5 Dimensi Adab Utama Santri dalam sistem TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Kalibrasi Bulanan Reliabilitas Musyrif Asrama TUMBUH, 2026.  
 [^10]: Petunjuk Teknis Audit Bias Historis Penilaian PBIS Digital TUMBUH, 2026.  
 [^11]: Master Guidelines Pelaksanaan Inter-Rater Reliability Testing Asrama TUMBUH, 2026.  

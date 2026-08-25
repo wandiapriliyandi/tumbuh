@@ -1,5 +1,5 @@
 # P5-11-04: FORMAT DIGITAL BADGING DAN MIKRO-KREDENSIAL ADAB
-## *Monograf Riset Akademik: Standarisasi Sistem Lencana Digital dan Mikro-Kredensial Kematangan Karakter Berbasis Open Badges v2.0 (Digital Badging & Adab Micro-Credentials Architecture / Form LDB-Badging), Integrasi Doktrin 'Wisāmul Istiqāmah wa Halwatur Ridhwān' Turats Klasik dengan Gamified Self-Determination Theory (SDT), Blockchain Credentialing, Serta Ekosistem Kredensial Mikro di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Sistem Lencana Digital dan Mikro-Kredensial Kematangan Karakter Berbasis Open Badges v2.0 (Digital Badging & Adab Micro-Credentials Architecture / Form LDB-Badging), Integrasi Doktrin 'Wisāmul Istiqāmah wa Halwatur Ridhwān' Turats Klasik dengan Gamified Self-Determination Theory (SDT), Blockchain Credentialing, Serta Ekosistem Kredensial Mikro di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-11-04/MONOGRAF-RISET-DIGITAL-BADGING-MIKRO-KREDENSIAL/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 04: *Digital Badging & Adab Micro-Credentials Architecture*)  
@@ -96,7 +96,7 @@ Arsitektur Form LDB memadukan standar *Open Badges v2.0* dan *Self-Determination
 ```mermaid
 flowchart TD
     subgraph SainsOpenBadgesDanSDTGamifikasi["SINTESIS OPEN BADGES & SDT MOTIVATION"]
-        OpenBadgesV2Specification["1EdTech Open Badges v2.0 Standard (2018):<br/>• BadgeClass (Definisi Lencana).<br/>• Issuer (Pesantren TUMBUH).<br/>• Assertion (Bukti capaian santri, waktu peraihan, & JSON-LD Hash)."]
+        OpenBadgesV2Specification["1EdTech Open Badges v2.0 Standard (2018):<br/>• BadgeClass (Definisi Lencana).<br/>• Issuer (Ekosistem Pesantren Berbasis TUMBUH).<br/>• Assertion (Bukti capaian santri, waktu peraihan, & JSON-LD Hash)."]
         
         SelfDeterminationTheorySDT["Self-Determination Theory / SDT (Ryan & Deci, 2000):<br/>• Autonomy (Santri memilih tantangan lencana mandiri).<br/>• Competence (Umpan balik peraihan lencana membuktikan kemahiran).<br/>• Relatedness (Lencana diakui dalam komunitas ukhuwah)."]
         
@@ -214,7 +214,7 @@ flowchart TD
   "issuer": {
     "id": "https://tumbuh.pesantren.id/issuer.json",
     "type": "Profile",
-    "name": "Pesantren TUMBUH Indonesia",
+    "name": "Ekosistem Pesantren Berbasis TUMBUH Indonesia",
     "url": "https://tumbuh.pesantren.id",
     "email": "penjaminmutu@tumbuh.pesantren.id"
   },
@@ -237,7 +237,7 @@ Penerapan format digital badging Form LDB ini menghadirkan keunggulan peradaban:
 
 1. **Membangun Budaya Gamifikasi Kebaikan yang Menyenangkan (*Joyful Habituation*)**: Santri termotivasi secara intrinsik untuk mengejar capaian-capaian amal shalih bertahap setiap hari.
 2. **Menyediakan Portofolio Digital Terverifikasi Standar Industri Global**: Lencana mikro-kredensial santri diakui oleh platform kredensial internasional (Credly / Open Badges Backpack).
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wisāmul Istiqāmah dan Open Badges v2.0**: Menjadikan pesantren TUMBUH sebagai pionir gamifikasi pendidikan Islam terdepan di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wisāmul Istiqāmah dan Open Badges v2.0**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir gamifikasi pendidikan Islam terdepan di dunia.[^5]
 
 ---
 
@@ -245,7 +245,7 @@ Penerapan format digital badging Form LDB ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-11-04: FORMAT DIGITAL BADGING DAN MIKRO-KREDENSIAL ADAB** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-11-04: FORMAT DIGITAL BADGING DAN MIKRO-KREDENSIAL ADAB** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -312,8 +312,8 @@ flowchart TD
 [^1]: Standar 1EdTech Open Badges Specification v2.0 mengenai arsitektur metadata kredensial digital mikro, 1EdTech (2018, hlm. 8).  
 [^2]: Landasan Self-Determination Theory (SDT) Richard Ryan & Edward Deci mengenai motivasi intrinsik dan pemenuhan kebutuhan otonomi/kompetensi, Ryan & Deci (2000, hlm. 70).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *I'lamul Muwaqqi'in* (1991, Jilid 2, hlm. 164), bab sunnah memuliakan penuntut ilmu dengan tanda kehormatan dan gelar kebaikan.  
-[^4]: Protokol peraihan lencana digital Fursanul Fajr dan transformasi disiplin subuh santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan format digital badging dan mikro-kredensial adab di Pesantren TUMBUH (2026).  
+[^4]: Protokol peraihan lencana digital Fursanul Fajr dan transformasi disiplin subuh santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan format digital badging dan mikro-kredensial adab di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

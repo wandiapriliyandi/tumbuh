@@ -28,7 +28,7 @@
   - [4. Perwujudan Nyata Triad Pertumbuhan Simbiotik dalam Pengasuhan Asrama 24 Jam](#4-perwujudan-nyata-triad-pertumbuhan-simbiotik-dalam-pengasuhan-asrama-24-jam)
   - [5. Kasuistika Lapangan: Transformasi Budaya Asrama Pesantren Menjadi Zona Aman dan Penuh Kasih Sayang](#5-kasuistika-lapangan-transformasi-budaya-asrama-pesantren-menjadi-zona-aman-dan-penuh-kasih-sayang)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Grand Manifesto Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-perlindungan--maturasi-fitrah-santri-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Grand Manifesto Perlindungan & Maturasi Fitrah Santri Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-grand-manifesto-perlindungan--maturasi-fitrah-santri-pesantren-tumbuh)
   - [2. Matriks Integrasi Operasional Enam Pilar Perkembangan ke dalam Kehidupan Pesantren 24 Jam](#2-matriks-integrasi-operasional-enam-pilar-perkembangan-ke-dalam-kehidupan-pesantren-24-jam)
   - [3. Protokol Penjaminan Mutu & Supervisi Pengasuhan Asrama Berkelanjutan (Asrama Supervision SOP)](#3-protokol-penjaminan-mutu--supervisi-pengasuhan-asrama-berkelanjutan-asrama-supervision-sop)
   - [4. Jembatan Epistemologis Menuju Sub-Domain 05 Assessment Principles](#4-jembatan-epistemologis-menuju-sub-domain-05-assessment-principles)
@@ -115,7 +115,7 @@ Sintesis prinsip perkembangan ini memastikan ketiga entitas bertumbuh harmonis:
 
 ---
 
-### 1. Eksplanasi Teoretis Grand Manifesto Perlindungan & Maturasi Fitrah Santri Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Grand Manifesto Perlindungan & Maturasi Fitrah Santri Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH memproklamasikan **Grand Manifesto Perlindungan & Maturasi Fitrah (*Bayan ar-Ri'ayah wa Himayatil Fitrah*)**:
 
@@ -198,7 +198,7 @@ Sintesis Prinsip Perkembangan ini menegaskan arah masa depan peradaban Islam:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-07: SINTESIS PRINSIP PERKEMBANGAN DAN GRAND MANIFESTO MATURASI FITRAH SANTRI (SYNTHESIS OF DEVELOPMENT PRINCIPLES)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-07: SINTESIS PRINSIP PERKEMBANGAN DAN GRAND MANIFESTO MATURASI FITRAH SANTRI (SYNTHESIS OF DEVELOPMENT PRINCIPLES)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -270,7 +270,7 @@ flowchart TD
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
 [^1]: Riset Sintesis Prinsip Perkembangan dan Grand Manifesto Maturasi Fitrah TUMBUH, *Kritik atas Paradigma Pengasuhan Usang*, 2026.  
-[^2]: Master Konsolidasi Enam Pilar Psikologi Perkembangan dan Maturasi Fitrah Santri TUMBUH, 2026.  
+[^2]: Master Konsolidasi Enam Pilar Psikologi Perkembangan dan Maturasi Fitrah Santri dalam sistem TUMBUH, 2026.  
 [^3]: Laporan Uji Kelaikan Perkembangan Lapangan dan Triad Pertumbuhan Simbiotik Asrama TUMBUH, 2026.  
 [^4]: Dokumentasi Evaluasi Longitudinal Transformasi Budaya Asrama dan Eradikasi Kekerasan PBIS TUMBUH, 2026.  
 [^5]: Deklarasi Pengharaman Mutlak Kekerasan Fisik, Bullying, dan Hazing Dewan Riset Epistemologi TUMBUH, 2026.  

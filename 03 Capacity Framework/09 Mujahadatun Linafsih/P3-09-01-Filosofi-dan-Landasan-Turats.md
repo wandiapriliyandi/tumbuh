@@ -13,7 +13,7 @@
 > * **Krisis Regulasi Diri & Jebakan Represi Emosi di Pesantren:**  
 >   Pengasuhan asrama konvensional kerap mereduksi pengendalian nafsu menjadi sekadar "larangan dan pengekangan fisik kaku" (*Suppression / Repression*). Santri yang marah atau sedih dipaksa memendam emosinya tanpa diajarkan regulasi afektif yang sehat. Akibatnya, emosi yang tertekan meledak dalam bentuk agresi tersembunyi, perpeloncoan/bullying senioritas, kecanduan pornografi sembunyi-sembunyi, atau letupan histeria massal.
 > * **Inovasi Epistemologis Mujahadatun Linafsih TUMBUH:**  
->   *Mujahadatun Linafsih* (Karakter ke-6 dari 10 Muwashafat Santri TUMBUH) didefinisikan sebagai **kapasitas perjuangan spiritual dan psikologis sadar untuk mengendalikan dorongan hawa nafsu impulsif (*Syahwat & Ghadhab*), menumbuhkan regulasi emosi otonom, menundukkan ego menuju keridhaan Allah (*An-Nafs al-Muthma'innah*), serta memancarkan ketenangan jiwa (*Sakinah*) dalam interaksi sosial 24 jam**.
+>   *Mujahadatun Linafsih* (Karakter ke-6 dari 10 Muwashafat Santri dalam sistem TUMBUH) didefinisikan sebagai **kapasitas perjuangan spiritual dan psikologis sadar untuk mengendalikan dorongan hawa nafsu impulsif (*Syahwat & Ghadhab*), menumbuhkan regulasi emosi otonom, menundukkan ego menuju keridhaan Allah (*An-Nafs al-Muthma'innah*), serta memancarkan ketenangan jiwa (*Sakinah*) dalam interaksi sosial 24 jam**.
 > * **Sintesis Turats & Neurosains Kognitif-Afektif:**  
 >   Monograf ini menyintesiskan teks otoritatif Turats (*Madarijus Salikin* karya Ibnu Qayyim Al-Jauziyyah dan *Ihya' 'Ulumiddin* karya Imam Al-Ghazali) dengan konsensus neurosains modern (*Inhibitory Control Prefrontal Cortex*, *Amigdala Hijacking*, dan *Model Regulasi Emosi James Gross*). Riset ini merekonstruksi Triad Pertumbuhan: santri matang secara emosional-spiritual, musyrif sebagai teladan pengendalian diri (*Qudwah Shabr*), dan sistem asrama yang bebas dari intimidasi dan perpeloncoan.
 
@@ -239,7 +239,7 @@ Penerapan konsep Mujahadatun Linafsih yang ilmiah dan syar'i membawa transformas
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-09-01: FILOSOFI DAN LANDASAN TURATS MUJAHADATUN LINAFSIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-09-01: FILOSOFI DAN LANDASAN TURATS MUJAHADATUN LINAFSIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

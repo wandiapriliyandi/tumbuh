@@ -204,7 +204,7 @@ Penerapan metodologi kognisi Islam terpadu ini membawa lompatan kualitatif bagi 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-02-02: PROSES DAN MEKANISME MEMPEROLEH PENGETAHUAN (THE PROCESS OF KNOWLEDGE ACQUISITION)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-02-02: PROSES DAN MEKANISME MEMPEROLEH PENGETAHUAN (THE PROCESS OF KNOWLEDGE ACQUISITION)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -272,7 +272,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Metodologi Kognisi Pendidikan Pesantren TUMBUH, *Kritik atas Hafalan Mekanik dan Kelelahan Kognitif*, 2026.  
+[^1]: Riset Metodologi Kognisi Pendidikan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Hafalan Mekanik dan Kelelahan Kognitif*, 2026.  
 [^2]: *Shahih Muslim*, Muqaddimah, Bab *Bayan anna al-Isnad minad Din*, Hadits No. 27.  
 [^3]: An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab*, Jilid 1, *Al-Muqaddimah al-Fiqhiyyah*, hlm. 15–38.  
 [^4]: Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Mantiq*, hlm. 28–52.  

@@ -1,5 +1,5 @@
 # P5-02-02: ALUR INTEGRASI DATA MULTI-SUMBER ASESMEN SANTRI
-## *Monograf Riset Akademik: Rekayasa Arsitektur Aliran Data (Data Pipeline & Interoperability) Asesmen Santri 24 Jam Lintas Ekosistem Asrama, Madrasah, Masjid, dan Poskestren, Integrasi Kaidah Tashnifur Riwayah wa Dhabthul Asanid Turats dengan Enterprise Data Integration & RESTful API Architecture, Serta Desain Engine SIM Intizham di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Rekayasa Arsitektur Aliran Data (Data Pipeline & Interoperability) Asesmen Santri 24 Jam Lintas Ekosistem Asrama, Madrasah, Masjid, dan Poskestren, Integrasi Kaidah Tashnifur Riwayah wa Dhabthul Asanid Turats dengan Enterprise Data Integration & RESTful API Architecture, Serta Desain Engine SIM Intizham di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-02-02/MONOGRAF-RISET-ALUR-INTEGRASI-DATA-MULTI-SUMBER/2026`  
 **Domain**: `05 Assessment Framework` > `02 Assessment Architecture` (Sub-Modul 02: *Multi-Source Data Integration Pipeline*)  
@@ -238,7 +238,7 @@ Penerapan pipeline data multi-sumber ini memberikan lompatan peradaban:
 
 1. **Menghapus Total Miskomunikasi Antar-Pendidik dan Pengasuh**: Seluruh asatidz memiliki pemahaman data yang sama (*Single Version of the Truth*) mengenai kondisi setiap anak asuhnya.
 2. **Efisiensi Kerja Musyrif dan Pendidik Meningkat 300%**: Menghemat ribuan jam kerja manual rekapitulasi buku kertas dan mengalihkannya untuk fokus mendampingi santri.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Sains Data Pendidikan**: Menjadikan pesantren TUMBUH sebagai pionir transformasi digital lembaga pendidikan Islam berdaya saing global.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Sains Data Pendidikan**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir transformasi digital lembaga pendidikan Islam berdaya saing global.[^5]
 
 ---
 
@@ -246,7 +246,7 @@ Penerapan pipeline data multi-sumber ini memberikan lompatan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-02-02: ALUR INTEGRASI DATA MULTI-SUMBER ASESMEN SANTRI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-02-02: ALUR INTEGRASI DATA MULTI-SUMBER ASESMEN SANTRI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -314,8 +314,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan sistem informasi silo dan fragmentasi data dalam organisasi pendidikan, Kimball & Ross (2013, hlm. 18).  
 [^2]: Kerangka kerja Enterprise Integration Patterns dan arsitektur Event-Driven Messaging, Hohpe & Woolf (2004, hlm. 46).  
 [^3]: Al-Khatib Al-Baghdadi, *Taqyidul 'Ilm* (1988, hlm. 24), bab anjuran mengikat data dan ilmu dengan pencatatan terpadu.  
-[^4]: Protokol integrasi data kesehatan Poskestren dan eliminasi salah vonis absensi santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan alur integrasi data multi-sumber SIM Intizham di Pesantren TUMBUH (2026).  
+[^4]: Protokol integrasi data kesehatan Poskestren dan eliminasi salah vonis absensi santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan alur integrasi data multi-sumber SIM Intizham di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 
@@ -330,4 +330,4 @@ flowchart TD
 7. **Node Masjid**: Titik pengumpulan data spiritual yang mencatat presensi shalat berjamaah dan hafalan Al-Qur'an santri.
 8. **Node Poskestren**: Titik pengumpulan data kesehatan santri yang terhubung otomatis dengan sistem perizinan asrama dan madrasah.
 9. **JSON Payload**: Format pertukaran data berbasis teks standar yang ringan dan mudah dibaca oleh berbagai platform aplikasi.
-10. **SIM Intizham Engine**: Inti sistem informasi kepengasuhan pesantren TUMBUH yang mengolah seluruh data integrasi multi-sumber secara terpusat.
+10. **SIM Intizham Engine**: Inti sistem informasi kepengasuhan ekosistem pesantren berbasis TUMBUH yang mengolah seluruh data integrasi multi-sumber secara terpusat.

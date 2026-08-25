@@ -236,7 +236,7 @@ Integrasi Enam Aksioma Metafisik ini membawa dampak transformatif bagi masa depa
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-01-02: ENAM AKSIOMA METAFISIK REALITAS (AXIOMATIC FOUNDATIONS OF REALITY)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-01-02: ENAM AKSIOMA METAFISIK REALITAS (AXIOMATIC FOUNDATIONS OF REALITY)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -304,7 +304,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Aksiomatika Ontologis Pesantren TUMBUH, *Kritik atas Disorientasi Aksiomatis dan Fatalisme Asrama*, 2026.  
+[^1]: Riset Aksiomatika Ontologis Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Disorientasi Aksiomatis dan Fatalisme Asrama*, 2026.  
 [^2]: QS. Ali 'Imran [3]: 190–191.  
 [^3]: Al-Amidi, *Al-Ihkam fi Ushul al-Ahkam*, Jilid 1, hlm. 18–35.  
 [^4]: McEwen, B. S. (2007), *Physiological Reviews*, hlm. 873–904.  

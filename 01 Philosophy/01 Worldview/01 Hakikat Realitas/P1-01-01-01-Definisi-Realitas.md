@@ -215,7 +215,7 @@ Penerapan doktrin Realisme Integral Teistik membawa dampak transformatif bagi ma
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-01-01-01: HAKIKAT DAN DEFINISI REALITAS (WORLDVIEW REALITAS ISLAM)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-01-01-01: HAKIKAT DAN DEFINISI REALITAS (WORLDVIEW REALITAS ISLAM)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -283,19 +283,19 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Ontologi Pendidikan Pesantren TUMBUH, *Kritik atas Reduksionisme Dualisme dan Fatalisme Asrama*, 2026.  
+[^1]: Riset Ontologi Pendidikan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Dualisme dan Fatalisme Asrama*, 2026.  
 [^2]: QS. Al-An'am [6]: 73.  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *At-Tawakkul*, hlm. 265–290.  
 [^4]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 110–135.  
 [^5]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 82–120.  
 [^6]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268.  
-[^7]: Riset Lapangan Kualitas Udara dan Sanitasi Kobong Asrama Pesantren TUMBUH, 2026.  
+[^7]: Riset Lapangan Kualitas Udara dan Sanitasi Kobong Asrama Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^8]: Dokumentasi Resolusi Kasus Restoratif Kamar Asrama PBIS TUMBUH, 2026.  
 [^9]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 45–78.  
 [^10]: Ibnu Taimiyyah, *Dar'u Ta'arudh al-'Aql wan-Naql*, Jilid 1, hlm. 80–115.  
 [^11]: Matriks Tingkatan Kesadaran Ontologis Filosofis (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^12]: Standar Operasional Prosedur Tata Kelola Lingkungan Ramah Neurobiologis TUMBUH, 2026.  
-[^13]: Blueprint Desain Sistem Triad Pertumbuhan Simbiotik Pesantren TUMBUH, 2026.  
+[^13]: Blueprint Desain Sistem Triad Pertumbuhan Simbiotik Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^14]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.
 
 ---

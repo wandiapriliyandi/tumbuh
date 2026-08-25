@@ -1,5 +1,5 @@
 # P5-11-02: FORMAT TRANSKRIP ADAB DAN QR CODE VERIFICATION
-## *Monograf Riset Akademik: Standarisasi Transkrip Kompetensi Karakter Kumulatif Lulusan dan Sistem Verifikasi Kriptografis Digital (Graduation Adab Transcript & Cryptographic QR Code Verification / Form TAK-Transkrip), Integrasi Doktrin 'Shahādatut Tazkiyah wa Tsubūtul 'Adālah' Turats Klasik dengan W3C Verifiable Credentials, Public Key Infrastructure (PKI), Serta Ijazah Adab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Transkrip Kompetensi Karakter Kumulatif Lulusan dan Sistem Verifikasi Kriptografis Digital (Graduation Adab Transcript & Cryptographic QR Code Verification / Form TAK-Transkrip), Integrasi Doktrin 'Shahādatut Tazkiyah wa Tsubūtul 'Adālah' Turats Klasik dengan W3C Verifiable Credentials, Public Key Infrastructure (PKI), Serta Ijazah Adab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-11-02/MONOGRAF-RISET-TRANSKRIP-ADAB-QR-CODE/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 02: *Graduation Adab Transcript & Cryptographic Verification*)  
@@ -212,10 +212,10 @@ TOTAL JAM KHIDMAH SOSIAL TUNTAS : [ 240 JAM ]  |  STATUS TAHFIZH : [ 30 JUZ MUTQ
 
 VERIFIKASI KEAMANAN DIGITAL KRIPTOGRAFIS:
 • Document Hash (SHA-256) : e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-• Digital Signature       : Mudir Pengasuhan Pesantren TUMBUH (PKI Validated)
+• Digital Signature       : Mudir Pengasuhan Ekosistem Pesantren Berbasis TUMBUH (PKI Validated)
 • Scan QR Code Verifikasi : [ QR CODE: https://tumbuh.pesantren.id/verify/transcript/2018070088 ]
 
-Ditetapkan di: Pesantren TUMBUH, 25 Agustus 2026
+Ditetapkan di: Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Pengasuhan Pesantren: ____________________    Ketua Majelis Masyayikh: ____________________
 ====================================================================================================
 ```
@@ -236,7 +236,7 @@ Penerapan transkrip adab ber-QR Code Form TAK ini menghadirkan keunggulan perada
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-11-02: FORMAT TRANSKRIP ADAB DAN QR CODE VERIFICATION** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-11-02: FORMAT TRANSKRIP ADAB DAN QR CODE VERIFICATION** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -304,8 +304,8 @@ flowchart TD
 [^1]: Standar W3C Verifiable Credentials Data Model mengenai dokumen kredensial digital yang aman dan dapat diverifikasi, W3C (2022, hlm. 14).  
 [^2]: Landasan kriptografi Public Key Infrastructure (PKI) dan Secure Hash Algorithm SHA-256, Diffie & Hellman (1976, hlm. 646) & NIST (2015, hlm. 8).  
 [^3]: Al-Khatib Al-Baghdadi, *Al-Kifayah fi 'Ilmir Riwayah* (2002, hlm. 78), bab syarat sahnya tazkiyah dan kewajiban menguji integritas rawi dalam kurun waktu yang lama.  
-[^4]: Protokol verifikasi transkrip adab digital dan penerimaan beasiswa internasional santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan transkrip adab dan QR Code verification di Pesantren TUMBUH (2026).  
+[^4]: Protokol verifikasi transkrip adab digital dan penerimaan beasiswa internasional santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan transkrip adab dan QR Code verification di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

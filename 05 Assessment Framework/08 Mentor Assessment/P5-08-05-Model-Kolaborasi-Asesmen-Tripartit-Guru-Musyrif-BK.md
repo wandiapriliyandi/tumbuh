@@ -1,5 +1,5 @@
 # P5-08-05: MODEL KOLABORASI ASESMEN TRIPARTIT GURU-MUSYRIF-BK
-## *Monograf Riset Akademik: Model Integrasi Penilaian Lintas Peran Pembinaan (Tripartite Collaborative Assessment Model / Form KAT-Tripartit), Integrasi Doktrin 'Ta'āwun 'alal Birr wa Syūrā Bainahum' Turats Klasik dengan Multi-Tiered Systems of Support (MTSS) Interdisciplinary Team, Wrap-Around Services, Serta Arsitektur Rapat Kasus Terpadu di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Model Integrasi Penilaian Lintas Peran Pembinaan (Tripartite Collaborative Assessment Model / Form KAT-Tripartit), Integrasi Doktrin 'Ta'āwun 'alal Birr wa Syūrā Bainahum' Turats Klasik dengan Multi-Tiered Systems of Support (MTSS) Interdisciplinary Team, Wrap-Around Services, Serta Arsitektur Rapat Kasus Terpadu di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-08-05/MONOGRAF-RISET-KOLABORASI-ASESMEN-TRIPARTIT/2026`  
 **Domain**: `05 Assessment Framework` > `08 Mentor Assessment` (Sub-Modul 05: *Tripartite Collaborative Assessment: Teacher-Musyrif-Counselor*)  
@@ -220,7 +220,7 @@ Penerapan model kolaborasi asesmen tripartit Form KAT ini menghadirkan keunggula
 
 1. **Melenyapkan Jurang Pemisah Antara Madrasah dan Pengasuhan Asrama**: Terwujudnya kesatuan visi dan aksi pembinaan yang solid tanpa ada lagi lempar tanggung jawab.
 2. **Memberikan Jaring Pengaman Holistik Bagi Setiap Jiwa Santri (*Total Safety Net*)**: Seluruh kebutuhan intelektual, spiritual, emosional, dan sosial santri terpenuhi secara seimbang.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Multi-Tiered Systems of Support (MTSS)**: Mengukuhkan pesantren TUMBUH sebagai teladan tata kelola pembinaan terpadu paling unggul di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Multi-Tiered Systems of Support (MTSS)**: Mengukuhkan ekosistem pesantren berbasis TUMBUH sebagai teladan tata kelola pembinaan terpadu paling unggul di dunia Islam.[^5]
 
 ---
 
@@ -228,7 +228,7 @@ Penerapan model kolaborasi asesmen tripartit Form KAT ini menghadirkan keunggula
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-08-05: MODEL KOLABORASI ASESMEN TRIPARTIT GURU-MUSYRIF-BK** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-08-05: MODEL KOLABORASI ASESMEN TRIPARTIT GURU-MUSYRIF-BK** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -296,8 +296,8 @@ flowchart TD
 [^1]: Kerangka kerja MTSS Interdisciplinary Problem-Solving dalam penanganan perilaku terpadu, Batsche et al. (2005, hlm. 18).  
 [^2]: Model koordinasi Wrap-Around Care dalam mengintegrasikan dukungan sekolah dan lingkungan keluarga/asrama, Eber et al. (2002, hlm. 174).  
 [^3]: Fakhruddin Ar-Razi, *Mafatihul Ghaib (Tafsir Ar-Razi)* (1981, Jilid 27, hlm. 168), tafsir QS. Asy-Syura tentang hikmah penggabungan berbagai akal dalam musyawarah.  
-[^4]: Protokol sidang kasus tripartit dan resolusi school refusal santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model kolaborasi asesmen tripartit di Pesantren TUMBUH (2026).  
+[^4]: Protokol sidang kasus tripartit dan resolusi school refusal santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model kolaborasi asesmen tripartit di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

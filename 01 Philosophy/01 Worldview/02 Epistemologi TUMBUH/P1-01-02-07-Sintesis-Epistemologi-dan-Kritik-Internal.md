@@ -252,7 +252,7 @@ Hasil audit kritik internal ini menegaskan kematangan dan ketangguhan arsitektur
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Audit Epistemologi dan Penjaminan Mutu Pesantren TUMBUH, *Kritik atas Dogmatisme dan Kontradiksi Internal*, 2026.  
+[^1]: Riset Audit Epistemologi dan Penjaminan Mutu Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Dogmatisme dan Kontradiksi Internal*, 2026.  
 [^2]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 110–145.  
 [^3]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 85–120.  
 [^4]: Al-Ghazali, *Al-Munqidz min adh-Dhalal*, hlm. 35–58.  

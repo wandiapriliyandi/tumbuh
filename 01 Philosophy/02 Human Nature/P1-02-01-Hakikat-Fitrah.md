@@ -260,11 +260,11 @@ Penerapan doktrin antropologi teistik fitrah membawa revolusi fundamental dalam 
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Antropologi Teistik Fitrah Pesantren TUMBUH, *Kritik atas Reduksionisme Tabula Rasa dan Kekerasan*, 2026.  
+[^1]: Riset Antropologi Teistik Fitrah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Reduksionisme Tabula Rasa dan Kekerasan*, 2026.  
 [^2]: QS. Al-A'raf [7]: 172.  
 [^3]: Ibnu Taimiyyah, *Dar'u Ta'arudh al-'Aql wan-Naql*, Jilid 8, hlm. 380–415.  
 [^4]: Locke, J. (1690), *An Essay Concerning Human Understanding*; Kritik Antropologi Islam TUMBUH, 2026.  
-[^5]: Hobbes, T. (1651), *Leviathan*; Dekonstruksi Pesimisme Moral Pesantren TUMBUH, 2026.  
+[^5]: Hobbes, T. (1651), *Leviathan*; Dekonstruksi Pesimisme Moral Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^6]: *Shahih al-Bukhari*, Kitab al-Jana'iz, Hadits No. 1385.  
 [^7]: Bloom, P. (2013), *Just Babies: The Origins of Good and Evil*, hlm. 15–48.  
 [^8]: Sapolsky, R. M. (2017), *Behave: The Biology of Humans at Our Best and Worst*, hlm. 120–155.  
@@ -274,7 +274,7 @@ Penerapan doktrin antropologi teistik fitrah membawa revolusi fundamental dalam 
 [^12]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268.  
 [^13]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, hlm. 80–115.  
 [^14]: Matriks Tingkatan Kesadaran Fitrah (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^15]: Standar Operasional Prosedur Husnudzan Edukatif dan De-Stigmatisasi Santri TUMBUH, 2026.  
+[^15]: Standar Operasional Prosedur Husnudzan Edukatif dan De-Stigmatisasi Santri dalam sistem TUMBUH, 2026.  
 [^16]: Petunjuk Teknis Manajemen De-eskalasi Krisis Emosi Asrama TUMBUH, 2026.  
 [^17]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
 [^18]: Deklarasi Pemuliaan Fitrah Insan Dewan Riset Pendidikan Ekosistem TUMBUH, 2026.

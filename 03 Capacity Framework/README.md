@@ -12,7 +12,7 @@ Direktori ini memuat taksonomi, standar kompetensi, dan profil kapasitas holisti
 
 ## Struktur Sub-Domain & 10 Muwashafat
 
-1. 📂 **[01 Graduate Profile](./01%20Graduate%20Profile/)**: Profil Kelulusan Paripurna Alumni Pesantren TUMBUH.
+1. 📂 **[01 Graduate Profile](./01%20Graduate%20Profile/)**: Profil Kelulusan Paripurna Alumni Ekosistem Pesantren Berbasis TUMBUH.
 2. 📂 **[02 Character Architecture](./02%20Character%20Architecture/)**: Arsitektur Integrasi 10 Muwashafat & CASEL SEL.
 3. 📂 **[03 Character Relationships](./03%20Character%20Relationships/)**: Relasi Antar-Karakter & Penguatan Sistemik.
 4. 📂 **[04 Salimul Aqidah](./04%20Salimul%20Aqidah/)**: Kapasitas Akidah Lurus & Bebas Khurafat.

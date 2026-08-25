@@ -12,7 +12,7 @@
 >
 > * **Musyrif Bukan Satpam Penjaga Malam, Melainkan Ayah Spiritual (*In Loco Parentis*):**  
 >   Musyrif asrama adalah ujung tombak pembinaan karakter 24 jam. Tugas musyrif bukan sekadar meniup peluit dan membentak santri yang terlambat, melainkan menjadi cermin keteladanan hidup (*Qudwah Hasanah*) dan benteng rasa aman psikologis santri.
-> * **Empat Pilar Kompetensi Inti Guru & Musyrif TUMBUH:**  
+> * **Empat Pilar Kompetensi Inti Guru & Musyrif dalam sistem TUMBUH:**  
 >   1. **Kompetensi Spiritual (*Qudwah Ruhiyyah*):** Teladan shalat berjamaah di saf pertama, dzikir ma'tsurat, dan keikhlasan niat.  
 >   2. **Kompetensi Pedagogis (*Didaktik Ramah Otak*):** Terampil memfasilitasi halaqah interaktif dan pembelajaran kooperatif aktif tanpa ancaman.  
 >   3. **Kompetensi Konseling & De-eskalasi (*3R Protocol*):** Menguasai teknik de-eskalasi emosi (*Regulate-Relate-Reason*) dan dialog restoratif 5 pertanyaan.  
@@ -31,7 +31,7 @@
   - [4. Proteksi Kesejahteraan Mental Pendidik & Mitigasi Burnout (Maslach Burnout Inventory)](#4proteksi-kesejahteraan-mental-pendidik-mitigasi-burnout-maslach-burnout-inventory)
   - [5. Analisis Silogisme Logika, Diskursus Dialektika Kritis, Kasuistika Klinis, & Resolusi Restoratif](#5silogisme-logika-dialektika-3-ronde-kasuistika-asrama-titik-temu-konsensus)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH](#1-formulasi-konseptual-standar-kompetensi-kode-etik-musyrif-murabbi-pesantren-tumbuh)
+  - [1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Ekosistem Pesantren Berbasis TUMBUH](#1-formulasi-konseptual-standar-kompetensi-kode-etik-musyrif-murabbi-pesantren-tumbuh)
   - [2. Matriks 4 Domain Kompetensi Pendidik/Musyrif, Indikator Kinerja (KPI Qudwah), & Bukti Asesmen](#2-matriks-4-domain-kompetensi-pendidikmusyrif-indikator-kinerja-kpi-qudwah--bukti-asesmen)
   - [3. Piagam Perlindungan Kesejahteraan Mental Musyrif & Jam Kerja Manusiawi (Educator Well-Being Charter)](#3-piagam-perlindungan-kesejahteraan-mental-musyrif--jam-kerja-manusiawi-educator-well-being-charter)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
@@ -81,7 +81,7 @@ graph TD
 
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 1*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap pendidik yang memegang amanah pengasuhan anak secara langsung selama 24 jam (*In Loco Parentis*) memikul tanggung jawab pembentukan karakter yang menentukan keselamatan masa depan santri di dunia dan akhirat.
-* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Musyrif asrama pesantren TUMBUH berinteraksi langsung dengan santri di seluruh lokus kehidupan kamar, masjid, dan meja makan.
+* **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Musyrif asrama ekosistem pesantren berbasis TUMBUH berinteraksi langsung dengan santri di seluruh lokus kehidupan kamar, masjid, dan meja makan.
 * **Konklusi (*an-Natijah*)**: Maka, standarisasi kompetensi Qudwah, penguasaan teknik konseling, dan penjagaan kesehatan jiwa musyrif adalah fardhu kifayah kelembagaan yang mengikat seluruh pesantren.[^1]
 
 #### 📖 Teks Primer Turats: Wasiat Kasih Sayang KH. Hasyim Asy'ari
@@ -128,7 +128,7 @@ Riset psikologi organisasi oleh **Christina Maslach** (2001) membuktikan bahwa *
 2. **Depersonalization (Sinisme/Penumpulan Empati):** Menganggap santri sebagai "beban yang menyusahkan", sehingga mudah menggunakan kekerasan.
 3. **Reduced Personal Accomplishment:** Merasa pekerjaannya tidak dihargai oleh pimpinan pondok.
 
-Pesantren TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: rasio maksimal 1:20 santri per musyrif, kepastian tidur malam minimal 7 jam lewat sistem piket bergilir (*Rotating Night Watch*), libur 1 hari penuh per pekan, dan gaji pokok di atas UMK ditambah tunjangan kesejahteraan.[^4]
+Ekosistem Pesantren Berbasis TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: rasio maksimal 1:20 santri per musyrif, kepastian tidur malam minimal 7 jam lewat sistem piket bergilir (*Rotating Night Watch*), libur 1 hari penuh per pekan, dan gaji pokok di atas UMK ditambah tunjangan kesejahteraan.[^4]
 
 ---
 
@@ -162,7 +162,7 @@ Pesantren TUMBUH mengeliminasi burnout dengan **Standar Manajemen SDM Sehat**: r
 
 ---
 
-### 1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Pesantren TUMBUH
+### 1. Formulasi Konseptual: Standar Kompetensi & Kode Etik Musyrif Murabbi Ekosistem Pesantren Berbasis TUMBUH
 
 Berdasarkan sintesis inkuiri teoretis, telaah hermeneutika turats, dan analisis komparatif sains pendidikan, riset ini merumuskan kerangka konseptual dan temuan kunci sebagai berikut:
 
@@ -215,7 +215,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-01-03: STANDAR KOMPETENSI QUDWAH DAN KESEJAHTERAAN MUSYRIF** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-01-03: STANDAR KOMPETENSI QUDWAH DAN KESEJAHTERAAN MUSYRIF** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

@@ -227,7 +227,7 @@ Implementasi rubrik 4-level Mujahadatun Linafsih menghasilkan standar baru evalu
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-09-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL MUJAHADATUN LINAFSIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-09-07: RUBRIK INDIKATOR PERILAKU 4-LEVEL MUJAHADATUN LINAFSIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -297,7 +297,7 @@ flowchart TD
 [^2]: Penerapan evaluasi ipsatif dalam memotret pertumbuhan pengendalian diri peserta didik, Hughes (2014, hlm. 36).  
 [^3]: Diriwayatkan oleh Imam At-Tirmidzi dalam *Sunan At-Tirmidzi* (No. 2459), Kitab *Shifatul Qiyamah*.  
 [^4]: Protokol kalibrasi antar-penilai dan resolusi disparitas evaluasi asrama, Sugai & Horner (2020, hlm. 210).  
-[^5]: Standar formula indeks karakter pengendalian diri dan kelayakan wisuda santri TUMBUH (2026).  
+[^5]: Standar formula indeks karakter pengendalian diri dan kelayakan wisuda santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penjaminan mutu karakter berbasis data faktual TUMBUH Pesantren (2026).  
 
 ---

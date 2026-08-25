@@ -9,7 +9,7 @@
 
 ## 🏛️ SITEMAP & NAVIGASI SELURUH BERKAS SUB-DOMAIN 05
 
-Sub-Domain `05 Assessment Principles` menetapkan prinsip-prinsip metodologis pengukuran karakter, rubrik perilaku objektif, asesmen autentik di asrama, triangulasi data multi-sumber, portofolio pertumbuhan, dan umpan balik konstruktif di ekosistem pesantren TUMBUH:
+Sub-Domain `05 Assessment Principles` menetapkan prinsip-prinsip metodologis pengukuran karakter, rubrik perilaku objektif, asesmen autentik di asrama, triangulasi data multi-sumber, portofolio pertumbuhan, dan umpan balik konstruktif di ekosistem pesantren berbasis sistem TUMBUH:
 
 ```mermaid
 graph TD

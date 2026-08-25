@@ -83,8 +83,7 @@ graph TD
     end
 
     Santri <--> |Resonansi Adab & Belajar| Guru
-    Guru <--> |Operasional SOP Lapangan| Sistem
-    Sistem <--> |Lingkungan Bi'ah Shalihah| Santri
+    Guru <--> |Operasional SOP Lapangan| sistem <--> |Lingkungan Bi'ah Shalihah| Santri
 ```
 
 ---

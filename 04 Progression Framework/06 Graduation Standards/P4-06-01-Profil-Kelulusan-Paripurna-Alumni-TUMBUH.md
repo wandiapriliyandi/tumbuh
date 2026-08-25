@@ -1,5 +1,5 @@
 # P4-06-01: PROFIL KELULUSAN PARIPURNA ALUMNI TUMBUH (INSAN KAMIL KHADIMUL UMMAH)
-## *Monograf Riset Akademik: Dekonstruksi dan Rekonstruksi Profil Kelulusan Pendidikan Pesantren Abad 21, Integrasi Doktrin Insan Kamil Turats dengan Graduate Attributes Framework & 21st Century Skills (4Cs: Critical Thinking, Creativity, Collaboration, & Communication), Serta Formulasi Tiga Pilar Profil Lulusan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Dekonstruksi dan Rekonstruksi Profil Kelulusan Pendidikan Pesantren Abad 21, Integrasi Doktrin Insan Kamil Turats dengan Graduate Attributes Framework & 21st Century Skills (4Cs: Critical Thinking, Creativity, Collaboration, & Communication), Serta Formulasi Tiga Pilar Profil Lulusan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-06-01/MONOGRAF-RISET-PROFIL-KELULUSAN-PARIPURNA/2026`  
 **Domain**: `04 Progression Framework` > `06 Graduation Standards` (Sub-Modul 01: *Graduate Attributes & Insan Kamil Profile*)  
@@ -28,12 +28,12 @@
   - [4. Rekayasa Ekosistem 6 Tahun: Trajektori Pembentukan Karakter Menuju Kelulusan Paripurna](#4-rekayasa-ekosistem-6-tahun-trajektori-pembentukan-karakter-menuju-kelulusan-paripurna)
   - [5. Kasuistika Lapangan Klinis & Protokol Pendampingan Calon Lulusan yang Mengalami Krisis Eksistensial Pasca-Pesantren](#5-kasuistika-lapangan-klinis--protokol-pendampingan-calon-lulusan-yang-mengalami-krisis-eksistensial-pasca-pesantren)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Arsitektur Tiga Pilar Profil Kelulusan Paripurna Alumni TUMBUH](#1-arsitektur-tiga-pilar-profil-kelulusan-paripurna-alumni-tumbuh)
-  - [2. Dekomposisi 10 Atribut Kompetensi Kunci Alumni TUMBUH](#2-dekomposisi-10-atribut-kompetensi-kunci-alumni-tumbuh)
+  - [1. Arsitektur Tiga Pilar Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH](#1-arsitektur-tiga-pilar-profil-kelulusan-paripurna-alumni-tumbuh)
+  - [2. Dekomposisi 10 Atribut Kompetensi Kunci Alumni binaan sistem TUMBUH](#2-dekomposisi-10-atribut-kompetensi-kunci-alumni-tumbuh)
   - [3. Desain Rubrik Evaluasi Kesiapan Transisi Pasca-Pesantren (Form RKT-Alumni)](#3-desain-rubrik-evaluasi-kesiapan-transisi-pasca-pesantren-form-rkt-alumni)
   - [4. Diskusi Akademis & Implikasi bagi Kebangkitan Kepemimpinan Peradaban Islam Global](#4-diskusi-akademis--implikasi-bagi-kebangkitan-kepemimpinan-peradaban-islam-global)
 - [BAGIAN III: KESIMPULAN & APARATUS AKADEMIS](#bagian-iii-kesimpulan--aparatus-akademis)
-  - [1. Tabel Sintesis Profil Kelulusan Paripurna Alumni TUMBUH](#1-tabel-sintesis-profil-kelulusan-paripurna-alumni-tumbuh)
+  - [1. Tabel Sintesis Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH](#1-tabel-sintesis-profil-kelulusan-paripurna-alumni-tumbuh)
   - [2. Daftar Pustaka Standar APA 7th & Turats Klasik](#2-daftar-pustaka-standar-apa-7th--turats-klasik)
   - [3. Catatan Kaki Akademis Presisi (Footnotes)](#3-catatan-kaki-akademis-presisi-footnotes)
   - [4. Glosarium Istilah Ilmiah & Profil Kelulusan](#4-glosarium-istilah-ilmiah--profil-kelulusan)
@@ -153,7 +153,7 @@ Intervensi penguatan imunitas moral (*Moral Resilience & Life-Mission Coaching*)
 
 ---
 
-### 1. Arsitektur Tiga Pilar Profil Kelulusan Paripurna Alumni TUMBUH
+### 1. Arsitektur Tiga Pilar Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH
 
 Ekosistem TUMBUH memetakan profil kelulusan ke dalam tiga pilar holistik:
 
@@ -172,7 +172,7 @@ flowchart TD
 
 ---
 
-### 2. Dekomposisi 10 Atribut Kompetensi Kunci Alumni TUMBUH
+### 2. Dekomposisi 10 Atribut Kompetensi Kunci Alumni binaan sistem TUMBUH
 
 | No | Atribut Kompetensi Lulusan | Indikator Capaian Kunci Terverifikasi | Standar Minimal Mutu |
 | :---: | :--- | :--- | :--- |
@@ -228,7 +228,7 @@ Perumusan profil kelulusan paripurna Insan Kamil Khadimul Ummah menghasilkan lom
 
 ---
 
-### 3. Pembedahan Deskriptif Profil Kelulusan Paripurna Alumni TUMBUH
+### 3. Pembedahan Deskriptif Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH
 
 Profil alumni dirumuskan sebagai perwujudan utuh Insan Adabi yang siap memimpin peradaban:
 
@@ -264,7 +264,7 @@ flowchart TD
 
 ---
 
-### 1. Tabel Sintesis Profil Kelulusan Paripurna Alumni TUMBUH
+### 1. Tabel Sintesis Profil Kelulusan Paripurna Alumni binaan sistem TUMBUH
 
 | Dimensi Parameter | Pola Lulusan Konvensional | Standarisasi Model TUMBUH | Landasan Rujukan Primer | Bukti Capaian |
 | :--- | :--- | :--- | :--- | :--- |
@@ -295,7 +295,7 @@ flowchart TD
 [^1]: Kritik terhadap dikotomi keilmuan dan reduksionisme profil lulusan dalam pendidikan modern, Barrie (2006, hlm. 218).  
 [^2]: Pembahasan pengembangan kecakapan abad 21 (4Cs) dalam kerangka kurikulum holistik, Partnership for 21st Century Learning (2019, hlm. 6).  
 [^3]: Al-Ghazali, *Mizanul 'Amal* (2018, hlm. 48), penjelasan tentang hakikat kesempurnaan Insan Kamil.  
-[^4]: Protokol pendampingan transisi pasca-pesantren dan pengukuhan imunitas moral alumni TUMBUH (2026).  
+[^4]: Protokol pendampingan transisi pasca-pesantren dan pengukuhan imunitas moral alumni binaan sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan profil kelulusan paripurna Insan Kamil Khadimul Ummah TUMBUH Pesantren (2026).  
 
 ---
@@ -303,7 +303,7 @@ flowchart TD
 ### 4. Glosarium Istilah Ilmiah & Profil Kelulusan
 
 1. **Insān Kāmil (الْإِنْسَانُ الْكَامِلُ)**: Konsep manusia paripurna dalam filsafat Islam yang memadukan kesucian tauhid, kematangan akal, keluhuran budi pekerti, dan kepemimpinan peradaban.
-2. **Khadīmul Ummah (خَادِمُ الْأُمَّةِ)**: Gelar kehormatan spiritual bagi alumni TUMBUH yang mendedikasikan hidupnya untuk melayani dan memajukan umat manusia.
+2. **Khadīmul Ummah (خَادِمُ الْأُمَّةِ)**: Gelar kehormatan spiritual bagi alumni binaan sistem TUMBUH yang mendedikasikan hidupnya untuk melayani dan memajukan umat manusia.
 3. **Graduate Attributes**: Kumpulan kompetensi, nilai, adab, dan wawasan transformatif yang melekat pada diri lulusan sebagai ciri khas almamater.
 4. **21st Century Skills (4Cs)**: Empat kecakapan abad 21 yang meliputi Berpikir Kritis, Kreativitas, Kolaborasi, dan Komunikasi.
 5. **Moral Immunity (Imunitas Moral)**: Daya tahan psikologis dan spiritual alumni dalam mempertahankan aqidah dan akhlak mulia di tengah lingkungan luar yang penuh godaan sekularisme.

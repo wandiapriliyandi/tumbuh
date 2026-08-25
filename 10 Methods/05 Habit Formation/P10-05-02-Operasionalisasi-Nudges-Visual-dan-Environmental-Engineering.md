@@ -1,5 +1,5 @@
 # P10-05-02: OPERASIONALISASI NUDGES VISUAL DAN ENVIRONMENTAL ENGINEERING
-## *Monograf Riset Akademik: Standarisasi Rekayasa Lingkungan Fisik Pengasuhan (Boarding Environmental Engineering), Desain Arsitektur Pilihan dan Dorongan Visual Halus (Visual Nudges & Choice Architecture), Serta Reduksi Friksi Spasial Pelanggaran Adab (Physical Environmental Engineering, Spatial Choice Architecture, & Behavioral Friction Reduction / Form MET-NudgeEngineering), Integrasi Doktrin 'Tahyyi'atul Asbāb wa Bi'atut Thā'ah' Turats Klasik dengan Thaler & Sunstein Nudge Theory, Kaplan Attention Restoration Theory, Serta Tata Ruang di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rekayasa Lingkungan Fisik Pengasuhan (Boarding Environmental Engineering), Desain Arsitektur Pilihan dan Dorongan Visual Halus (Visual Nudges & Choice Architecture), Serta Reduksi Friksi Spasial Pelanggaran Adab (Physical Environmental Engineering, Spatial Choice Architecture, & Behavioral Friction Reduction / Form MET-NudgeEngineering), Integrasi Doktrin 'Tahyyi'atul Asbāb wa Bi'atut Thā'ah' Turats Klasik dengan Thaler & Sunstein Nudge Theory, Kaplan Attention Restoration Theory, Serta Tata Ruang di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P10-05-02/MONOGRAF-RISET-ENVIRONMENTAL-NUDGES/2026`  
 **Domain**: `10 Methods` > `05 Habit Formation` (Sub-Modul 02: *Environmental Engineering & Visual Nudges*)  
@@ -109,7 +109,7 @@ Penerapan *Environmental Engineering* membuktikan aksioma psikologi lingkungan b
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P10-05-02: OPERASIONALISASI NUDGES VISUAL DAN ENVIRONMENTAL ENGINEERING** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P10-05-02: OPERASIONALISASI NUDGES VISUAL DAN ENVIRONMENTAL ENGINEERING** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -162,5 +162,5 @@ flowchart TD
 
 [^1]: Richard H. Thaler & Cass R. Sunstein mengenai konsep Choice Architecture dan efektivitas nudges dalam mengarahkan perilaku positif tanpa paksaan, Nudge (2008, hlm. 35).
 [^2]: Stephen & Rachel Kaplan mengenai Attention Restoration Theory dan dampak elemen lingkungan alami terhadap pemulihan kelelahan kognitif, Kaplan & Kaplan (1989, hlm. 177).
-[^3]: Studi kasus penerapan Environmental Nudges menuntaskan masalah sampah dan antrean wudhu di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan Environmental Nudges menuntaskan masalah sampah dan antrean wudhu di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak rekayasa tata ruang ergonomis dan reduksi friksi spasial terhadap eliminasi ketegangan perilaku santri (2026).

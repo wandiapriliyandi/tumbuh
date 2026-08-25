@@ -171,7 +171,7 @@ Sinergi Tiga Pilar Pembinaan
 ## Slide 11
 ### Melampaui SEL: Integrasi TUMBUH
 
-10 Karakter Santri TUMBUH mengintegrasikan SEL ke dalam kerangka karakter utuh:
+10 Karakter Santri dalam sistem TUMBUH mengintegrasikan SEL ke dalam kerangka karakter utuh:
 
 "Membentuk individu yang cakap secara sosial-emosional dengan komitmen nilai yang jelas."
 

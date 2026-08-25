@@ -301,7 +301,7 @@ Kodifikasi paket instrumen Haritsun 'Ala Waqtih menghadirkan tata kelola kelemba
 [^2]: Pembahasan kelemahan ketiadaan logbook time-tracking mandiri pada remaja asrama, Macan (1990, hlm. 766).  
 [^3]: Al-Ghazali, *Bidayatul Hidayah* (2018, hlm. 28).  
 [^4]: Protokol penanganan pemalsuan rekam waktu dan restorasi kejujuran manajemen temporal, Sugai & Horner (2020, hlm. 210).  
-[^5]: Standarisasi operasional instrumen restitusi waktu santri TUMBUH Pesantren (2026).  
+[^5]: Standarisasi operasional instrumen restitusi waktu santri dalam sistem TUMBUH Pesantren (2026).  
 [^6]: Dampak kelembagaan penerapan tata kelola kedisiplinan digital berbasis data TUMBUH (2026).  
 
 ---

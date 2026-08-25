@@ -1,5 +1,5 @@
 # P7-04-02: SOP RAPAT EVALUASI PENGASUHAN SABTU PAGI
-## *Monograf Riset Akademik: Standarisasi Rapat Refleksi Data PBIS Mingguan, Agenda Evaluasi Terstruktur, dan Budaya Perbaikan Berkelanjutan Tim Pengasuhan (Weekly PBIS Data Team Review, Structured Evaluation Agenda, & Continuous Improvement Culture / Form REP-Sabtu), Integrasi Doktrin 'Al-Munāqasyah wal Musyāwarah fit Tarbiyah' Turats Klasik dengan Deming's PDCA Cycle, Agile Retrospective Method, Serta Adaptasi Institusi di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rapat Refleksi Data PBIS Mingguan, Agenda Evaluasi Terstruktur, dan Budaya Perbaikan Berkelanjutan Tim Pengasuhan (Weekly PBIS Data Team Review, Structured Evaluation Agenda, & Continuous Improvement Culture / Form REP-Sabtu), Integrasi Doktrin 'Al-Munāqasyah wal Musyāwarah fit Tarbiyah' Turats Klasik dengan Deming's PDCA Cycle, Agile Retrospective Method, Serta Adaptasi Institusi di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-04-02/MONOGRAF-RISET-SOP-RAPAT-EVALUASI-SABTU/2026`  
 **Domain**: `07 Implementation Framework` > `04 Workflow` (Sub-Modul 02: *Weekly PBIS Data Team Review & Structured Evaluation SOP*)  
@@ -105,7 +105,7 @@ Institusi pendidikan yang secara konsisten menjalankan data-team review mingguan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-04-02: SOP RAPAT EVALUASI PENGASUHAN SABTU PAGI** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-04-02: SOP RAPAT EVALUASI PENGASUHAN SABTU PAGI** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -158,5 +158,5 @@ flowchart TD
 
 [^1]: Disfungsi rapat evaluasi tanpa data dan akuntabilitas, Derby & Larsen (2006, hlm. 8).
 [^2]: Siklus PDCA Deming dalam konteks perbaikan berkelanjutan institusi, Deming (1986, hlm. 88).
-[^3]: Studi kasus PDCA Sabtu pagi menyelesaikan konflik antrean kantin Pesantren TUMBUH (2026).
+[^3]: Studi kasus PDCA Sabtu pagi menyelesaikan konflik antrean kantin Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak data-team review PBIS mingguan, Sugai & Horner (2020, hlm. 207).

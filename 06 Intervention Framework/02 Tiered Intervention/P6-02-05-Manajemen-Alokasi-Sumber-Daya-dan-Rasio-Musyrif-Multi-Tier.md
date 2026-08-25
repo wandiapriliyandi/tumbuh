@@ -1,5 +1,5 @@
 # P6-02-05: MANAJEMEN ALOKASI SUMBER DAYA DAN RASIO MUSYRIF MULTI-TIER
-## *Monograf Riset Akademik: Tata Kelola Distribusi Sumber Daya Pembinaan, Standarisasi Rasio Beban Kerja Musyrif, dan Analisis Efisiensi Biaya Sistem Intervensi Berjenjang (Multi-Tier Resource Allocation, Staffing Ratio Modeling, & Cost-Effectiveness / Form ASR-SumberDaya), Integrasi Doktrin 'Husnut Tadbīr wa Qismatut Thāqāt' Turats Klasik dengan PBIS Implementation Science (Fixsen), Workload Staffing Models, Serta Mitigasi Burnout Pengasuh di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Tata Kelola Distribusi Sumber Daya Pembinaan, Standarisasi Rasio Beban Kerja Musyrif, dan Analisis Efisiensi Biaya Sistem Intervensi Berjenjang (Multi-Tier Resource Allocation, Staffing Ratio Modeling, & Cost-Effectiveness / Form ASR-SumberDaya), Integrasi Doktrin 'Husnut Tadbīr wa Qismatut Thāqāt' Turats Klasik dengan PBIS Implementation Science (Fixsen), Workload Staffing Models, Serta Mitigasi Burnout Pengasuh di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-02-05/MONOGRAF-RISET-MANAJEMEN-SUMBER-DAYA-PBIS/2026`  
 **Domain**: `06 Intervention Framework` > `02 Tiered Intervention` (Sub-Modul 05: *Multi-Tier Resource Allocation & Staffing Ratio Modeling*)  
@@ -211,7 +211,7 @@ Penerapan manajemen alokasi sumber daya Form ASR ini menghadirkan keunggulan per
 
 1. **Menghapus Total Epidemi Burnout dan Kelelahan Emosional Musyrif (*Zero Burnout Culture*)**: Musyrif bekerja dengan kebahagiaan hati, energi prima, dan keramahan yang tulus.
 2. **Menjamin Keberlanjutan dan Retensi Tenaga Pendidik Terbaik Pesantren (*High Staff Retention*)**: Pesantren memiliki korps musyrif yang loyal, profesional, dan berpengalaman panjang.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Husnut Tadbīr dan Implementation Science**: Menjadikan pesantren TUMBUH sebagai teladan tata kelola SDM pengasuhan berasrama paling modern di dunia Islam.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Husnut Tadbīr dan Implementation Science**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai teladan tata kelola SDM pengasuhan berasrama paling modern di dunia Islam.[^5]
 
 ---
 
@@ -219,7 +219,7 @@ Penerapan manajemen alokasi sumber daya Form ASR ini menghadirkan keunggulan per
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-02-05: MANAJEMEN ALOKASI SUMBER DAYA DAN RASIO MUSYRIF MULTI-TIER** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-02-05: MANAJEMEN ALOKASI SUMBER DAYA DAN RASIO MUSYRIF MULTI-TIER** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -286,8 +286,8 @@ flowchart TD
 [^1]: Kerangka kerja Implementation Drivers Dean Fixsen dalam penataan infrastruktur organisasi pendidikan, Fixsen et al. (2005, hlm. 24).  
 [^2]: Model beban kerja dan pencegahan kelelahan kerja berbasis ritme sirkadian NIOSH, Rosa & Colligan (1997, hlm. 12).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 42), bab manajemen beban kerja pengasuh dan larangan membebani pembina di luar batas kemampuannya.  
-[^4]: Protokol standarisasi rasio musyrif dan eliminasi burnout pengasuh Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan manajemen alokasi sumber daya multi-tier di Pesantren TUMBUH (2026).  
+[^4]: Protokol standarisasi rasio musyrif dan eliminasi burnout pengasuh Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan manajemen alokasi sumber daya multi-tier di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

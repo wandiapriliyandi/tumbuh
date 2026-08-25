@@ -1,5 +1,5 @@
 # P5-11-03: SOP KOMUNIKASI LAPORAN PERKEMBANGAN ORANG TUA (FORM SKO-KOMUNIKASI)
-## *Monograf Riset Akademik: Standar Operasional Prosedur Komunikasi Empatis dan Sesi Konsultasi Rapor Bersama Orang Tua (Parent-Teacher-Mentor Conference Protocol / Form SKO-Komunikasi), Integrasi Doktrin 'Al-Balāghul Mubīn wa Birrul Wālidayn' Turats Klasik dengan Epstein's School-Family Partnership Framework, Restorative Dialogues, Serta Desain Rapat Tripartit di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standar Operasional Prosedur Komunikasi Empatis dan Sesi Konsultasi Rapor Bersama Orang Tua (Parent-Teacher-Mentor Conference Protocol / Form SKO-Komunikasi), Integrasi Doktrin 'Al-Balāghul Mubīn wa Birrul Wālidayn' Turats Klasik dengan Epstein's School-Family Partnership Framework, Restorative Dialogues, Serta Desain Rapat Tripartit di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-11-03/MONOGRAF-RISET-SOP-KOMUNIKASI-ORANG-TUA/2026`  
 **Domain**: `05 Assessment Framework` > `11 Reporting` (Sub-Modul 03: *Parent-Teacher-Mentor Conference & Family Engagement Protocol*)  
@@ -217,7 +217,7 @@ Penerapan SOP komunikasi laporan perkembangan Form SKO ini menghadirkan keunggul
 
 1. **Mewujudkan Sinergi Pengasuhan 360 Derajat Tanpa Celah (*Seamless Home-Dormitory Continuum*)**: Pembiasaan adab di asrama pondok terus berlanjut secara alami di rumah selama masa liburan.
 2. **Menumbuhkan Kepemimpinan dan Efikasi Diri Santri Melalui Student-Led Conferences**: Santri terlatih mempertanggungjawabkan capaian belajarnya secara dewasa di hadapan orang tua.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Kemitraan Keluarga Standar Dunia**: Menjadikan pesantren TUMBUH sebagai teladan institusi pendidikan Islam yang paling dekat di hati keluarga.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Kemitraan Keluarga Standar Dunia**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai teladan institusi pendidikan Islam yang paling dekat di hati keluarga.[^5]
 
 ---
 
@@ -225,7 +225,7 @@ Penerapan SOP komunikasi laporan perkembangan Form SKO ini menghadirkan keunggul
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-11-03: SOP KOMUNIKASI LAPORAN PERKEMBANGAN ORANG TUA (FORM SKO-KOMUNIKASI)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-11-03: SOP KOMUNIKASI LAPORAN PERKEMBANGAN ORANG TUA (FORM SKO-KOMUNIKASI)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -292,8 +292,8 @@ flowchart TD
 [^1]: Penelitian Countryman & Schroeder mengenai efektivitas Student-Led Conferences dalam meningkatkan tanggung jawab pembelajar, Countryman & Schroeder (1996, hlm. 65).  
 [^2]: Kerangka kerja 6 tipe keterlibatan orang tua Joyce Epstein dalam membangun kemitraan sekolah-keluarga, Epstein (2001, hlm. 42).  
 [^3]: Ibnu Qayyim Al-Jauziyyah, *Tuhfatul Maudud* (2010, hlm. 156), bab kemitraan orang tua dan pendidik dalam merawat fitrah anak laksana dua tangan bagi satu jasad.  
-[^4]: Protokol Student-Led Conferences dan rekonsiliasi keluarga santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP komunikasi laporan perkembangan orang tua di Pesantren TUMBUH (2026).  
+[^4]: Protokol Student-Led Conferences dan rekonsiliasi keluarga santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP komunikasi laporan perkembangan orang tua di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

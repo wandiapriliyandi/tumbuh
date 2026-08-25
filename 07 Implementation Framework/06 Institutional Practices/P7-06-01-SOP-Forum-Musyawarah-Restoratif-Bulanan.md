@@ -77,7 +77,7 @@ flowchart TD
 ====================================================================================================
 Fasilitator     : Ust. Sholeh Abadi, M.Pd.            Tanggal  : 25 Agustus 2026
 Peserta         : 150 Santri, 18 Musyrif, 12 Guru      Durasi   : 87 Menit
-Lokasi          : Aula Utama Pesantren TUMBUH
+Lokasi          : Aula Utama Ekosistem Pesantren Berbasis TUMBUH
 
 MASALAH SISTEMIK YANG DIPILIH:
 "Konflik antrean kamar mandi pagi pukul 05.00–05.30 setiap hari."
@@ -101,7 +101,7 @@ Forum Musyawarah Restoratif Bulanan terbukti meningkatkan *School Belonging Inde
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-06-01: SOP FORUM MUSYAWARAH RESTORATIF BULANAN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-06-01: SOP FORUM MUSYAWARAH RESTORATIF BULANAN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Habermas tentang legitimasi kebijakan yang bergantung pada kualitas proses komunikasi demokratis, Habermas (1984, hlm. 17).
 [^2]: Whole-School Restorative Practice dalam membangun iklim sekolah berbasis suara warga, Hopkins (2011, hlm. 44).
-[^3]: Studi kasus forum musyawarah menemukan solusi konflik kamar mandi dari santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus forum musyawarah menemukan solusi konflik kamar mandi dari santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak Forum Musyawarah Restoratif Bulanan terhadap school belonging dan kepatuhan kebijakan (2026).

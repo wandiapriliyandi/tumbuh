@@ -13,7 +13,7 @@
 > * **Krisis Reduksionisme Akhlak Feodal dalam Kultur Pesantren:**  
 >   Praktik pembinaan akhlak di sebagian institusi asrama tradisional kerap tereduksi menjadi sekadar kepatuhan hierarkis lahiriah (*External Deference*), kultus senioritas, dan ritual gestur formalistik (seperti mencium tangan berlebihan tanpa penghayatan adab batin). Ketika luput dari pengawasan figur otoritas, relasi antar-santri rentan tergelincir ke dalam intimidasi, perpeloncoan terselubung (*latent hazing*), sarkasme verbal, serta pengabaian empati.
 > * **Inovasi Konseptual Matinul Khuluq TUMBUH:**  
->   *Matinul Khuluq* (Karakter ke-3 dari 10 Muwashafat Santri TUMBUH) didefinisikan sebagai **kapasitas integritas moral internal yang kokoh, berakar pada keluhuran fitrah dan cinta kepada Allah (*Hubbullah*), memancarkan perilaku empati, kejujuran tak bersyarat, kesantunan transformatif, serta keberanian moral (*Asy-Syaja'ah al-Adabiyyah*)**. Akhlak bukan sekadar etiket kepatuhan pasif, melainkan daya penggerak keadilan sosial dan kasih sayang aktif di bi'ah shalihah.
+>   *Matinul Khuluq* (Karakter ke-3 dari 10 Muwashafat Santri dalam sistem TUMBUH) didefinisikan sebagai **kapasitas integritas moral internal yang kokoh, berakar pada keluhuran fitrah dan cinta kepada Allah (*Hubbullah*), memancarkan perilaku empati, kejujuran tak bersyarat, kesantunan transformatif, serta keberanian moral (*Asy-Syaja'ah al-Adabiyyah*)**. Akhlak bukan sekadar etiket kepatuhan pasif, melainkan daya penggerak keadilan sosial dan kasih sayang aktif di bi'ah shalihah.
 > * **Sintesis Holistik Turats, Neurosains, dan Triad Pertumbuhan:**  
 >   Monograf ini memadukan magnum opus etika Turats (*Ihya' 'Ulumiddin* karya Imam Al-Ghazali, *Adab ad-Dunya wad-Din* karya Imam Al-Mawardi, dan *Ta'limul Muta'allim* karya Imam Az-Zarnuji) dengan sains modern neurobiologi cermin neuron (*mirror neurons*), model empati pro-sosial Batson, dan kompetensi *CASEL Social Awareness*. Riset ini merumuskan transformasi menyeluruh pada Triad Pertumbuhan: santri berakhlak otonom, musyrif sebagai figur *Qudwah Hasanah* berwibawa tanpa kekerasan, dan sistem kelembagaan berbasis akuntabilitas restoratif.
 
@@ -235,7 +235,7 @@ flowchart TD
 
 ### 2. Dekomposisi Dimensi & Matriks Trajektori Kematangan Akhlak Jenjang J1–J4
 
-Progresi pembentukan Matinul Khuluq diorganisasikan secara sistematis mengikuti tahapan perkembangan usia dan jenjang pendidikan santri di Pesantren TUMBUH (J1 s/d J4, setara Kelas 7 s/d 12):
+Progresi pembentukan Matinul Khuluq diorganisasikan secara sistematis mengikuti tahapan perkembangan usia dan jenjang pendidikan santri di Ekosistem Pesantren Berbasis TUMBUH (J1 s/d J4, setara Kelas 7 s/d 12):
 
 ```mermaid
 flowchart LR
@@ -303,7 +303,7 @@ Transformasi pembinaan akhlak menuju model **Matinul Khuluq TUMBUH** menghadirka
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-06-01: FILOSOFI DAN LANDASAN TURATS MATINUL KHULUQ** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-06-01: FILOSOFI DAN LANDASAN TURATS MATINUL KHULUQ** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -389,7 +389,7 @@ Berikut adalah sintesis perbandingan paradigmatik antara pola pembinaan akhlak k
 [^13]: Prinsip-prinsip mediasi restoratif lingkungan pendidikan berasrama, Zehr (2015, hlm. 48–52).  
 [^14]: Standarisasi empat dimensi karakter Matinul Khuluq dalam kurikulum adab holistik TUMBUH (2026).  
 [^15]: Protokol Disiplin Positif dan PBIS Multi-Tier, Nelsen & Lott (2013, hlm. 112).  
-[^16]: Dampak sistemik Triad Pertumbuhan Pesantren TUMBUH (2026).  
+[^16]: Dampak sistemik Triad Pertumbuhan Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

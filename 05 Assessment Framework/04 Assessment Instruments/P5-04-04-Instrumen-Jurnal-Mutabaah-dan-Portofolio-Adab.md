@@ -1,5 +1,5 @@
 # P5-04-04: INSTRUMEN JURNAL MUTABA'AH DAN PORTOFOLIO ADAB
-## *Monograf Riset Akademik: Desain dan Standardisasi Buku Jurnal Mutaba'ah Yaumiyyah (Form JMY-Santri) dan Buku Portofolio Rekam Jejak Adab 10 Kapasitas Insan, Integrasi Doktrin Al-Kasyf 'an Nafs wa 'Ilmul Yaqin Turats Klasik dengan Self-Regulated Learning (SRL) & Reflective Journaling Framework, Serta Mekanisme Verifikasi Mingguan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Desain dan Standardisasi Buku Jurnal Mutaba'ah Yaumiyyah (Form JMY-Santri) dan Buku Portofolio Rekam Jejak Adab 10 Kapasitas Insan, Integrasi Doktrin Al-Kasyf 'an Nafs wa 'Ilmul Yaqin Turats Klasik dengan Self-Regulated Learning (SRL) & Reflective Journaling Framework, Serta Mekanisme Verifikasi Mingguan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-04-04/MONOGRAF-RISET-INSTRUMEN-JURNAL-MUTABAAH-PORTOFOLIO/2026`  
 **Domain**: `05 Assessment Framework` > `04 Assessment Instruments` (Sub-Modul 04: *Daily Mutaba'ah Journal & Adab Portfolio Instruments*)  
@@ -131,7 +131,7 @@ flowchart TD
 
 #### Studi Kasus Lapangan: Santri J2 Memalsukan Centang Shalat Tahajjud Karena Takut Dihukum Musyrif
 * **Konteks Masalah**: Santri H (14 tahun, Jenjang J2) ketahuan memalsukan seluruh centang shalat tahajjud dan puasa sunnah di buku mutaba'ah lamanya selama 1 bulan. Ketika ditanya musyrif lama, santri menangis dan berkata: *"Saya takut dihukum push-up kalau bukunya kosong ustadz."*
-* **Intervensi Form JMY-Santri TUMBUH**:
+* **Intervensi Form JMY-Santri dalam sistem TUMBUH**:
   * Konselor BK mengganti buku lama dengan *Form JMY-Santri* dan menegaskan kaidah: *"Kejujuran mengakui belum bisa bangun tahajjud jauh lebih dicintai Allah daripada kebohongan centang palsu."*
   * Santri H diajarkan mengisi ruang refleksi naratif batiniah: *"Malam ini saya sangat mengantuk karena lelah olahraga sore, mohon bimbingan ustadz agar saya bisa bangun malam."*
   * Musyrif membaca catatan itu, menuliskan doa hangat, dan membangunkannya dengan usapan punggung yang lembut.
@@ -214,7 +214,7 @@ Penerapan instrumen Form JMY dan PRA ini menghadirkan lompatan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-04-04: INSTRUMEN JURNAL MUTABA'AH DAN PORTOFOLIO ADAB** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-04-04: INSTRUMEN JURNAL MUTABA'AH DAN PORTOFOLIO ADAB** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -282,8 +282,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan sistem mutaba'ah formalitas kering yang memicu perilaku pemalsuan data diri, Moon (2006, hlm. 42).  
 [^2]: Kerangka kerja siklus Self-Regulated Learning (SRL) dan pengembangan metakognisi, Zimmerman (2002, hlm. 66).  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin* (2018, Jilid 4, hlm. 412), bab muhasabah harian dan perumpamaan mitra bisnis.  
-[^4]: Protokol transformasi kejujuran jurnal mutaba'ah dan pemulihan integritas santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan instrumen jurnal mutaba'ah dan portofolio adab di Pesantren TUMBUH (2026).  
+[^4]: Protokol transformasi kejujuran jurnal mutaba'ah dan pemulihan integritas santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan instrumen jurnal mutaba'ah dan portofolio adab di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

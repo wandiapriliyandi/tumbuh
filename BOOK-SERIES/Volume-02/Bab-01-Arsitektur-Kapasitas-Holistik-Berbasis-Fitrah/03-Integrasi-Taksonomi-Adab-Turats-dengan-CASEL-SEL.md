@@ -68,7 +68,7 @@ Akibatnya, santri yang terlatih SEL tidak mudah meledak amarahnya saat diprovoka
 
 ### III. Matriks Komparasi: Menghubungkan Teks Kitab Kuning dengan Kompetensi CASEL
 
-Tabel berikut menyajikan dekonstruksi mendalam dan pemetaan komparatif antara teks dalil Turats ulama dengan indikator operasional CASEL SEL di pesantren TUMBUH:
+Tabel berikut menyajikan dekonstruksi mendalam dan pemetaan komparatif antara teks dalil Turats ulama dengan indikator operasional CASEL SEL dalam sistem TUMBUH di pesantren:
 
 | Kompetensi CASEL SEL | Rujukan Turats & Teks Arab Syar'i | Konseptualisasi Epistemologis | Indikator Perilaku Faktual di Asrama & Madrasah |
 | :--- | :--- | :--- | :--- |

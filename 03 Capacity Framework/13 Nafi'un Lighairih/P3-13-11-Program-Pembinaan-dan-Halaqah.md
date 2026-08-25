@@ -1,5 +1,5 @@
 # P3-13-11: PROGRAM PEMBINAAN DAN HALAQAH NAFI'UN LIGHAIRIH
-## *Monograf Riset Akademik: Desain Kurikulum Pembinaan & Silabus Halaqah Tematik 24 Pekan Kemanfaatan Sosial (Halaqah Khadimul Ummah), Modul Pelatihan Aplikatif Khidmah (Workshop Pertolongan Pertama P3K, Manajemen Poskestren, Pedagogi Mengajar TPA Ceria, & Mediasi Ishlah Damai), Sistem Mentorship Kakak Asuh Restorative Buddy J4–J1, Serta Program Ekspedisi Santri Bina Desa Berkelanjutan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Desain Kurikulum Pembinaan & Silabus Halaqah Tematik 24 Pekan Kemanfaatan Sosial (Halaqah Khadimul Ummah), Modul Pelatihan Aplikatif Khidmah (Workshop Pertolongan Pertama P3K, Manajemen Poskestren, Pedagogi Mengajar TPA Ceria, & Mediasi Ishlah Damai), Sistem Mentorship Kakak Asuh Restorative Buddy J4–J1, Serta Program Ekspedisi Santri Bina Desa Berkelanjutan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-13-11/MONOGRAF-RISET-PROGRAM-PEMBINAAN-HALAQAH-NAFIUN-LIGHAIRIH/2026`  
 **Domain**: `03 Capacity Framework` > `13 Nafi'un Lighairih` (Sub-Modul 11: *Guidance Programs & Halaqah Syllabus*)  
@@ -245,7 +245,7 @@ Penerapan kurikulum pembinaan dan halaqah tematik ini melahirkan dampak unggul:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-13-11: PROGRAM PEMBINAAN DAN HALAQAH NAFI'UN LIGHAIRIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-13-11: PROGRAM PEMBINAAN DAN HALAQAH NAFI'UN LIGHAIRIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -314,7 +314,7 @@ flowchart TD
 [^2]: Pembahasan pentingnya sistem mentorship sebaya dalam menekan kecemasan asrama santri baru, Topping (2005, hlm. 638).  
 [^3]: Abu Nu'aim Al-Isfahani, *Hilyatul Auliya' wa Thabaqatul Ashfiya'* (1988, Jilid 1, hlm. 342).  
 [^4]: Protokol penanganan de-eskalasi social loafing piket dapur melalui penyadaran makna khidmah penuntut ilmu, TUMBUH (2026).  
-[^5]: Spesifikasi empat modul pelatihan aplikatif kemanfaatan sosial santri TUMBUH (2026).  
+[^5]: Spesifikasi empat modul pelatihan aplikatif kemanfaatan sosial santri dalam sistem TUMBUH (2026).  
 [^6]: Tata kelola sistem mentorship Restorative Buddy J4–J1 dan Ekspedisi Santri Bina Desa TUMBUH (2026).  
 [^7]: Dampak kelembagaan penerapan kurikulum pembinaan khidmah terpadu TUMBUH Pesantren (2026).  
 
@@ -330,5 +330,5 @@ flowchart TD
 6. **Ekspedisi Santri Bina Desa**: Program pengabdian masyarakat semesteran di mana santri terjun langsung mengajar TPA, bakti sosial, dan membersihkan masjid desa.
 7. **P3K Gawat Darurat Asrama**: Keterampilan medis pertolongan pertama dasar yang wajib dikuasai santri untuk menangani luka, pingsan, dan demam kawan sekamar.
 8. **Didaktik TPA Ceria**: Metodologi pengajaran Al-Qur'an dan akhlak bagi anak-anak usia dini menggunakan dongeng islami dan permainan edukatif yang menyenangkan.
-9. **Capstone Civilizational Project**: Mahakarya proyek pengabdian sosial terpadu yang dirancang santri kelas 12 (J4) sebagai syarat kelulusan santri TUMBUH.
+9. **Capstone Civilizational Project**: Mahakarya proyek pengabdian sosial terpadu yang dirancang santri kelas 12 (J4) sebagai syarat kelulusan santri dalam sistem TUMBUH.
 10. **Ahlus Suffah Mentorship**: Keteladanan pendidikan Rasulullah SAW dalam mendidik para sahabat berilmu tinggi sekaligus memiliki jiwa pengabdian dan pengorbanan sosial yang luar biasa.

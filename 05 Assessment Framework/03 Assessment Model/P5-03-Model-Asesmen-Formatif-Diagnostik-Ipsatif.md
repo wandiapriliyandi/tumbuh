@@ -66,4 +66,4 @@ flowchart TD
 Penerapan gugus **Model Pengukuran dan Evaluasi Karakter (Assessment Model)** menjamin bahwa:
 1. **Asesmen Menjadi Daya Dorong Belajar Bukan Ketakutan (*Assessment as Fuel for Growth*)**: Santri antusias menerima evaluasi harian karena langsung merasakan kemajuan nyata dalam dirinya.
 2. **Penanganan Kasus Tuntas Pada Akar Masalah (*Root-Cause Resolution*)**: Masalah pelanggaran perilaku diselesaikan secara ilmiah menggunakan FBA dan BIP tanpa kekerasan fisik.
-3. **Standarisasi Psikometri Diakui Komunitas Akademik Internasional (*Peer-Reviewed Psychometric Rigor*)**: Membuktikan bahwa pengukuran adab di pesantren TUMBUH memiliki validitas konstruk dan reliabilitas matematika tertinggi.
+3. **Standarisasi Psikometri Diakui Komunitas Akademik Internasional (*Peer-Reviewed Psychometric Rigor*)**: Membuktikan bahwa pengukuran adab dalam sistem TUMBUH di pesantren memiliki validitas konstruk dan reliabilitas matematika tertinggi.

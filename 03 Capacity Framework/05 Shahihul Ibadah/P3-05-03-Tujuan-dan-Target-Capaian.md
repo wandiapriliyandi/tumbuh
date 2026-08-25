@@ -127,7 +127,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap perancangan target pendidikan karakter yang mengaplikasikan prinsip penetapan tujuan spesifik-terukur (*Locke & Latham's SMART Goal-Setting*) dan menyediakan umpan balik formatif berkelanjutan niscaya meningkatkan keterlibatan aktif peserta didik dan melipatgandakan tingkat ketercapaian kompetensi.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum TUMBUH merumuskan target Shahihul Ibadah dengan matriks capaian SMART yang terdistribusi jelas pada setiap jenjang kemandirian J1 hingga J4.
-* **Konklusi (*an-Natijah*)**: Maka, pencapaian target ibadah di pesantren TUMBUH memiliki efektivitas operasional yang terukur dan dapat dipertanggungjawabkan secara ilmiah.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, pencapaian target ibadah dalam sistem TUMBUH di pesantren memiliki efektivitas operasional yang terukur dan dapat dipertanggungjawabkan secara ilmiah.[^8]
 
 ```mermaid
 flowchart LR
@@ -183,7 +183,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap kurikulum pembinaan karakter pesantren yang menstrukturkan target capaiannya secara bertahap dari level fondasi dasar (*Immediate*) menuju internalisasi kebiasaan (*Intermediate*) hingga kepemimpinan keteladanan (*Ultimate*) niscaya menghasilkan kematangan kompetensi ibadah yang kokoh dan berkelanjutan.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum Shahihul Ibadah TUMBUH memetakan target perkembangan ibadah santri melintasi roadmap 6 tahun pengasuhan asrama.
-* **Konklusi (*an-Natijah*)**: Maka, proses pembinaan ibadah santri di pesantren TUMBUH berlangsung secara terarah, realistis, dan berkesinambungan.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, proses pembinaan ibadah santri dalam sistem TUMBUH di pesantren berlangsung secara terarah, realistis, dan berkesinambungan.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Target Thaharah Presisi & Zero Masbuq di Jenjang J1 (Kelas 7)
 * **Pihak A (Sudut Pandang Menyepelekan Fiqh Wudhu Santri Baru)**:  
@@ -326,7 +326,7 @@ timeline
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-03: TUJUAN DAN TARGET CAPAIAN SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-03: TUJUAN DAN TARGET CAPAIAN SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -394,7 +394,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Target Pembinaan Ibadah Pesantren TUMBUH, *Kritik atas Formalisme Absensi Shalat*, 2026.  
+[^1]: Riset Evaluasi Target Pembinaan Ibadah Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Formalisme Absensi Shalat*, 2026.  
 [^2]: Al-'Izz bin Abdis Salam, *Maqashid ash-Shalah*, Tahqiq Iyad Khalid ath-Thabba', hlm. 25–48.  
 [^3]: QS. Al-'Ankabut [29]: 45.  
 [^4]: Matan *Maqashid ash-Shalah*, Pasal *Fi Asrar ar-Ruku' was-Sujud*, hlm. 34.  
@@ -410,7 +410,7 @@ flowchart TD
 [^14]: Petunjuk Teknis Program One Day One Juz Mandiri Berbasis Time-Blocking TUMBUH, 2026.  
 [^15]: Standar Operasional Prosedur Praktik Imāmah & Khuthbah Jumat Santri Jenjang J4 TUMBUH, 2026.  
 [^16]: Dokumentasi Kasus Resolusi Penyelarasan Target Hafalan 30 Juz & Adab Khidmah TUMBUH, 2026.  
-[^17]: Dokumentasi Evaluasi Keberlanjutan Malakah Ibadah Santri Alumni TUMBUH di Perguruan Tinggi, 2026.
+[^17]: Dokumentasi Evaluasi Keberlanjutan Malakah Ibadah Santri Alumni binaan sistem TUMBUH di Perguruan Tinggi, 2026.
 
 ---
 

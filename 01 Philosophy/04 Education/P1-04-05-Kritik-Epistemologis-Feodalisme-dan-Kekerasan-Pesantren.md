@@ -260,7 +260,7 @@ Pembongkaran feodalisme ini membawa fajar baru bagi kebangkitan pendidikan Islam
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Kritik Epistemologis Feodalisme dan Kekerasan Pesantren TUMBUH, *Kritik atas Kepatuhan Buta dan Relasi Kuasa Asimetris*, 2026.  
+[^1]: Riset Kritik Epistemologis Feodalisme dan Kekerasan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Kepatuhan Buta dan Relasi Kuasa Asimetris*, 2026.  
 [^2]: *Shahih Muslim*, Kitab al-Birr wash-Shilah wal-Adab, Hadits No. 2588.  
 [^3]: Ibnu Taimiyyah, *Majmu' al-Fatawa*, Jilid 11, *Fasl fi al-Ghuluw wal-Ibadah*, hlm. 430–465.  
 [^4]: Bourdieu, P. (1990), *Reproduction in Education, Society and Culture*, hlm. 1–35; Milgram, S. (1974), *Obedience to Authority*, hlm. 50–92.  
@@ -270,9 +270,9 @@ Pembongkaran feodalisme ini membawa fajar baru bagi kebangkitan pendidikan Islam
 [^8]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 35–62.  
 [^9]: Freire, P. (1970), *Pedagogy of the Oppressed*, hlm. 45–80.  
 [^10]: Matriks Tingkatan Kesadaran Emansipasi Adab (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^11]: Standar Operasional Prosedur Anti-Perpeloncoan dan Perlindungan Martabat Santri TUMBUH, 2026.  
+[^11]: Standar Operasional Prosedur Anti-Perpeloncoan dan Perlindungan Martabat Santri dalam sistem TUMBUH, 2026.  
 [^12]: Petunjuk Teknis Layanan Pengaduan Aman dan Independen Asrama TUMBUH, 2026.  
-[^13]: Modul Edukasi Hak Asasi dan Adab Nabawi Pesantren TUMBUH, 2026.  
+[^13]: Modul Edukasi Hak Asasi dan Adab Nabawi Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^14]: Deklarasi Pemurnian Adab Tauhid dan Anti-Feodalisme Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---

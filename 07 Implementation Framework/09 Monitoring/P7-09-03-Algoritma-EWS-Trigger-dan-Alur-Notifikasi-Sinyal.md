@@ -1,5 +1,5 @@
 # P7-09-03: ALGORITMA EWS TRIGGER DAN ALUR NOTIFIKASI SINYAL
-## *Monograf Riset Akademik: Standarisasi Algoritma Deteksi Dini Sistem Peringatan Dini (Early Warning System / EWS), Matriks Pemicu Sinyal Multi-Kategori (Kuning, Oranye, Merah), dan Protokol Eskalasi Notifikasi Otomatis (EWS Algorithmic Triggers, Multi-Category Signal Matrix, & Automated Escalation Protocol / Form EWS-Algoritma), Integrasi Doktrin 'Sadd adz-Dzarā'i' wal Wiqāyah qabl al-Wuqū'' Turats Klasik dengan Predictive Behavioral Analytics, Crisis Response Escalation Tree, Serta Mitigasi Krisis di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Algoritma Deteksi Dini Sistem Peringatan Dini (Early Warning System / EWS), Matriks Pemicu Sinyal Multi-Kategori (Kuning, Oranye, Merah), dan Protokol Eskalasi Notifikasi Otomatis (EWS Algorithmic Triggers, Multi-Category Signal Matrix, & Automated Escalation Protocol / Form EWS-Algoritma), Integrasi Doktrin 'Sadd adz-Dzarā'i' wal Wiqāyah qabl al-Wuqū'' Turats Klasik dengan Predictive Behavioral Analytics, Crisis Response Escalation Tree, Serta Mitigasi Krisis di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P7-09-03/MONOGRAF-RISET-ALGORITMA-EWS-NOTIFIKASI/2026`  
 **Domain**: `07 Implementation Framework` > `09 Monitoring` (Sub-Modul 03: *EWS Triggers & Automated Notification Escalation*)  
@@ -108,7 +108,7 @@ Penerapan algoritma EWS dengan pembobotan *ABC Predictors* menghasilkan *Sensiti
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-09-03: ALGORITMA EWS TRIGGER DAN ALUR NOTIFIKASI SINYAL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-09-03: ALGORITMA EWS TRIGGER DAN ALUR NOTIFIKASI SINYAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -161,5 +161,5 @@ flowchart TD
 
 [^1]: Balfanz et al. mengenai efektivitas indikator ABC dalam sistem peringatan dini persekolahan, Balfanz et al. (2007, hlm. 224).
 [^2]: Konsep Sadd adz-Dzara'i' dalam ushul fiqh sebagai basis jurisprudensi preventif Islam, Asy-Syathibi (2003, Jilid 4, hlm. 198).
-[^3]: Studi kasus penanganan sinyal oranye mencegah krisis emosional santri baru Pesantren TUMBUH (2026).
+[^3]: Studi kasus penanganan sinyal oranye mencegah krisis emosional santri baru Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Sensitivitas dan spesifisitas komputasi Composite Risk Score pada model EWS PBIS Multi-Tier (2026).

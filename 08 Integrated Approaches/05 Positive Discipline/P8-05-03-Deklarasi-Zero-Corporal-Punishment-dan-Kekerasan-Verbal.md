@@ -1,5 +1,5 @@
 # P8-05-03: DEKLARASI ZERO CORPORAL PUNISHMENT DAN KEKERASAN VERBAL
-## *Monograf Riset Akademik: Standarisasi Piagam Kebijakan Zero-Kekerasan Fisik dan Verbal (Zero Corporal Punishment & Non-Violent School Policy), Protokol Penegakan Perlindungan Anak Pesantren (Child Safeguarding Protocols), dan Mitigasi Hukum Kelembagaan (Zero Corporal Punishment Institutional Declaration, Child Safeguarding Standards, & Institutional Legal Risk Mitigation / Form DIS-ZeroViolence), Integrasi Doktrin 'Hurmatu Dammi al-Muslim wa 'Irdhihi' Turats Klasik dengan UN Convention on the Rights of the Child, WHO INSPIRE Framework, Serta Perlindungan Hak Santri di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Piagam Kebijakan Zero-Kekerasan Fisik dan Verbal (Zero Corporal Punishment & Non-Violent School Policy), Protokol Penegakan Perlindungan Anak Pesantren (Child Safeguarding Protocols), dan Mitigasi Hukum Kelembagaan (Zero Corporal Punishment Institutional Declaration, Child Safeguarding Standards, & Institutional Legal Risk Mitigation / Form DIS-ZeroViolence), Integrasi Doktrin 'Hurmatu Dammi al-Muslim wa 'Irdhihi' Turats Klasik dengan UN Convention on the Rights of the Child, WHO INSPIRE Framework, Serta Perlindungan Hak Santri di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-05-03/MONOGRAF-RISET-ZERO-CORPORAL-PUNISHMENT/2026`  
 **Domain**: `08 Integrated Approaches` > `05 Positive Discipline` (Sub-Modul 03: *Zero Corporal Punishment & Child Safeguarding Policy*)  
@@ -89,7 +89,7 @@ PASAL 4: AKUNTABILITAS & SANKSI HUKUM
 Setiap pelanggaran terhadap piagam ini akan diproses melalui sidang etik pemecatan tidak dengan
 hormat dan dilaporkan kepada aparat penegak hukum sesuai UU Perlindungan Anak Republik Indonesia.
 
-Disahkan di Pesantren TUMBUH, 25 Agustus 2026
+Disahkan di Ekosistem Pesantren Berbasis TUMBUH, 25 Agustus 2026
 Mudir Utama Pesantren,                             Ketua Dewan Pembina Yayasan,
 
 (Ust. Dr. Sholeh Abadi, M.Pd.)                      (K.H. Ahmad Syahid, M.Ag.)
@@ -113,7 +113,7 @@ Deklarasi *Zero Corporal Punishment* yang dikawal dengan audit fidelitas TFI dan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-05-03: DEKLARASI ZERO CORPORAL PUNISHMENT DAN KEKERASAN VERBAL** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-05-03: DEKLARASI ZERO CORPORAL PUNISHMENT DAN KEKERASAN VERBAL** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -166,5 +166,5 @@ flowchart TD
 
 [^1]: Gershoff & Grogan-Kaylor mengenai meta-analisis dampak hukuman fisik terhadap kerusakan perilaku dan neurobiologi anak, Gershoff & Grogan-Kaylor (2016, hlm. 456).
 [^2]: Hadits Shahih Muslim mengenai teladan Rasulullah SAW yang tidak pernah sekalipun memukul wanita, pelayan, atau anak-anak dengan tangannya, HR. Muslim No. 2328.
-[^3]: Studi kasus penegakan tegas piagam Zero Violence Policy tanpa kompromi Pesantren TUMBUH (2026).
+[^3]: Studi kasus penegakan tegas piagam Zero Violence Policy tanpa kompromi Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penghentian total kekerasan fisik dan verbal terhadap terciptanya Safe School Climate dan peningkatan kepercayaan publik (2026).

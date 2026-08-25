@@ -1,5 +1,5 @@
 # P4-05-01: INDIKATOR MILESTONE BERKALA DAN TAHAPAN PERTUMBUHAN SANTRI (T1–T4)
-## *Monograf Riset Akademik: Peta Milestone Berkala Longitudinal Empat Etape (T1 Adaptasi Inisiasi, T2 Habituasi Ibadah, T3 Kematangan SEL, & T4 Servant Leadership), Integrasi Fiqh Marahil at-Tadrij dengan Developmental Milestones Theory & Longitudinal Growth Modeling, Rekayasa Dashboard Radar EWS (Early Warning System), Serta Matriks Gateway di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Peta Milestone Berkala Longitudinal Empat Etape (T1 Adaptasi Inisiasi, T2 Habituasi Ibadah, T3 Kematangan SEL, & T4 Servant Leadership), Integrasi Fiqh Marahil at-Tadrij dengan Developmental Milestones Theory & Longitudinal Growth Modeling, Rekayasa Dashboard Radar EWS (Early Warning System), Serta Matriks Gateway di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-05-01/MONOGRAF-RISET-INDIKATOR-MILESTONE-BERKALA-T1-T4/2026`  
 **Domain**: `04 Progression Framework` > `05 Growth Milestones` (Sub-Modul 01: *Periodic Growth Milestones T1–T4*)  

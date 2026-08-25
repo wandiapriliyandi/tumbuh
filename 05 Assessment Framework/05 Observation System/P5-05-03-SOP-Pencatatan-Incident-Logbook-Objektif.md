@@ -1,5 +1,5 @@
 # P5-05-03: SOP PENCATATAN INSIDEN DAN LOGBOOK OBJEKTIF
-## *Monograf Riset Akademik: Standard Operating Procedure (SOP) Pencatatan Insiden Pelanggaran dan Kejadian Luar Biasa Asrama Secara Objektif Bebas Opini Emosional, Integrasi Doktrin 'Qauluz Zūr wa Shahādatul 'Adl' Turats Klasik dengan Objective Incident Reporting Standards & Behavioral Forensic Documentation, Serta Alur Eskalasi Kasus di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standard Operating Procedure (SOP) Pencatatan Insiden Pelanggaran dan Kejadian Luar Biasa Asrama Secara Objektif Bebas Opini Emosional, Integrasi Doktrin 'Qauluz Zūr wa Shahādatul 'Adl' Turats Klasik dengan Objective Incident Reporting Standards & Behavioral Forensic Documentation, Serta Alur Eskalasi Kasus di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-05-03/MONOGRAF-RISET-SOP-PENCATATAN-INSIDEN-OBJEKTIF/2026`  
 **Domain**: `05 Assessment Framework` > `05 Observation System` (Sub-Modul 03: *Objective Incident Logging & Behavioral Forensic SOP*)  
@@ -225,7 +225,7 @@ Penerapan SOP pencatatan insiden objektif Form PIL ini menghadirkan keunggulan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-05-03: SOP PENCATATAN INSIDEN DAN LOGBOOK OBJEKTIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-05-03: SOP PENCATATAN INSIDEN DAN LOGBOOK OBJEKTIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan penulisan laporan insiden emosional yang memicu kesalahan vonis hukum, Wright (2013, hlm. 18).  
 [^2]: Kerangka kerja dokumentasi objektif dan rantai penjagaan bukti dalam pengasuhan anak, Wright (2013, hlm. 42).  
 [^3]: Ibnu Farhun Al-Maliki, *Tabshiratul Hukkam* (2001, Jilid 1, hlm. 88), bab kewajiban pencatat membatasi pada fakta yang disaksikan tanpa opini.  
-[^4]: Protokol investigasi objektif insiden dan de-eskalasi konflik santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan SOP pencatatan insiden objektif di Pesantren TUMBUH (2026).  
+[^4]: Protokol investigasi objektif insiden dan de-eskalasi konflik santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan SOP pencatatan insiden objektif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

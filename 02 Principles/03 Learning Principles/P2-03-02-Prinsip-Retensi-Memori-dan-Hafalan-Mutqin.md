@@ -28,7 +28,7 @@
   - [4. Rekayasa Didaktik Retensi: Spaced Retrieval Practice & Testing Effect (Roediger & Karpicke)](#4-rekayasa-didaktik-retensi-spaced-retrieval-practice--testing-effect-roediger--karpicke)
   - [5. Kasuistika Lapangan: Kasus Santri Mengalami Sindrom Hafalan Rontok & Resolusi Tiga Lapis](#5-kasuistika-lapangan-kasus-santri-mengalami-sindrom-hafalan-rontok--resolusi-tiga-lapis)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Retensi Memori dan Standar Tahfizh Mutqin Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-retensi-memori-dan-standar-tahfizh-mutqin-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Retensi Memori dan Standar Tahfizh Mutqin Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-retensi-memori-dan-standar-tahfizh-mutqin-pesantren-tumbuh)
   - [2. Matriks Integrasi Tahfizh Tiga Lapis: Ziyadah (Baru), Sabqi (Dekat), dan Manzil (Jauh)](#2-matriks-integrasi-tahfizh-tiga-lapis-ziyadah-baru-sabqi-dekat-dan-manzil-jauh)
   - [3. Matriks Jadwal Spaced Retrieval & Interval Pengulangan Optimal (Leitner Box for Tahfizh)](#3-matriks-jadwal-spaced-retrieval--interval-pengulangan-optimal-leitner-box-for-tahfizh)
   - [4. Protokol Ujian Tasmi' Ghaib & Sertifikasi Hafalan Mutqin 30 Juz (Mutqin Certification Protocol)](#4-protokol-ujian-tasmi-ghaib--sertifikasi-hafalan-mutqin-30-juz-mutqin-certification-protocol)
@@ -109,7 +109,7 @@ Sains psikologi kognitif membuktikan:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Retensi Memori dan Standar Tahfizh Mutqin Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Retensi Memori dan Standar Tahfizh Mutqin Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan tahfizh ke dalam **Arsitektur Tiga Sayap Tahfizh Mutqin (*Arkan al-Hifzh al-Mutqin*)**:
 
@@ -187,7 +187,7 @@ Metodologi retensi memori dan tahfizh mutqin ini membawa implikasi agung bagi pe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03-02: PRINSIP RETENSI MEMORI DAN METODOLOGI HAFALAN MUTQIN (MEMORY RETENTION & MUTQIN TAHFIZH)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03-02: PRINSIP RETENSI MEMORI DAN METODOLOGI HAFALAN MUTQIN (MEMORY RETENTION & MUTQIN TAHFIZH)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

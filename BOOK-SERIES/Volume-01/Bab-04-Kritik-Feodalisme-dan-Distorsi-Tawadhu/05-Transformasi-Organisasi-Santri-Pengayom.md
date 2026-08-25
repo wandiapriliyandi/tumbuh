@@ -32,7 +32,7 @@ graph TD
 
 ---
 
-### Arsitektur Empat Departemen Pengayoman Organisasi Santri TUMBUH
+### Arsitektur Empat Departemen Pengayoman Organisasi Santri dalam sistem TUMBUH
 
 Dalam Sistem TUMBUH, organisasi santri dirancang bukan untuk mengawasi dan menghukum, melainkan untuk memfasilitasi kebutuhan tumbuh kembang seluruh warga asrama melalui **Empat Departemen Layanan**:
 

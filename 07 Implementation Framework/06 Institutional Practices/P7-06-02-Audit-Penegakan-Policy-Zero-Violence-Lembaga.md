@@ -101,7 +101,7 @@ Audit fidelitas TFI yang dilaksanakan secara konsisten setiap triwulan — bukan
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P7-06-02: AUDIT PENEGAKAN POLICY ZERO-VIOLENCE LEMBAGA** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P7-06-02: AUDIT PENEGAKAN POLICY ZERO-VIOLENCE LEMBAGA** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Standar Child Protection dalam kebijakan institusi pendidikan, UNICEF (2018, hlm. 14).
 [^2]: PBIS Tiered Fidelity Inventory (TFI) sebagai instrumen audit fidelitas implementasi PBIS, Sugai et al. (2020, hlm. 5).
-[^3]: Studi kasus audit TFI mengungkap dan meremedasi kebiasaan teguran verbal kasar Pesantren TUMBUH (2026).
+[^3]: Studi kasus audit TFI mengungkap dan meremedasi kebiasaan teguran verbal kasar Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Korelasi skor TFI dengan penurunan insiden disiplin, Sugai & Horner (2020, hlm. 208).

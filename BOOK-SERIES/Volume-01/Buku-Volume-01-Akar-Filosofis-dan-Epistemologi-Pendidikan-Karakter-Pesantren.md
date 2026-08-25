@@ -1357,7 +1357,7 @@ Al-Attas mendefinisikan **Adab** sebagai:
 
 ---
 
-### Integrasi Praktis Tiga Pilar dalam Keseharian Santri TUMBUH
+### Integrasi Praktis Tiga Pilar dalam Keseharian Santri dalam sistem TUMBUH
 
 Bagaimana Sistem TUMBUH mengoperasionalkan integrasi *Ta'lim*, *Tarbiyah*, dan *Ta'dib* ke dalam kurikulum asrama 24 jam?
 
@@ -2504,7 +2504,7 @@ graph TD
 
 ---
 
-### Arsitektur Empat Departemen Pengayoman Organisasi Santri TUMBUH
+### Arsitektur Empat Departemen Pengayoman Organisasi Santri dalam sistem TUMBUH
 
 Dalam Sistem TUMBUH, organisasi santri dirancang bukan untuk mengawasi dan menghukum, melainkan untuk memfasilitasi kebutuhan tumbuh kembang seluruh warga asrama melalui **Empat Departemen Layanan**:
 
@@ -2970,7 +2970,7 @@ graph TD
         KrisisDunia ==> PesantrenTUMBUH ==> SolusiGlobal
     end
 ```
-<div align="center"><sub><b>Gambar 5.4.3:</b> Peran Strategis Pesantren TUMBUH sebagai Episentrum Moral Peradaban Dunia.</sub></div>
+<div align="center"><sub><b>Gambar 5.4.3:</b> Peran Strategis Ekosistem Pesantren Berbasis TUMBUH sebagai Episentrum Moral Peradaban Dunia.</sub></div>
 
 Dalam konteks inilah, **pesantren berkarakter TUMBUH hadir sebagai jawaban alternatif peradaban**:
 * Pesantren bukan sekadar lembaga keagamaan lokal, melainkan **laboratorium peradaban Islam mini** yang mempraktikkan bagaimana sains, adab, teknologi, dan kasih sayang ketuhanan bersatu dalam harmoni kehidupan 24 jam.
@@ -3150,7 +3150,7 @@ graph LR
 
 ---
 
-### Matriks Pemantauan Perkembangan Karakter Santri TUMBUH
+### Matriks Pemantauan Perkembangan Karakter Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH menyediakan instrumen rubrik observasi perilaku harian[^2] (*Daily PBIS Behavior Rubric*) yang memetakan posisi tangga setiap santri secara objektif:
 
@@ -3233,7 +3233,7 @@ graph TD
 
 ---
 
-### Tiga Pilar Protokol Manajemen Kerja Musyrif TUMBUH
+### Tiga Pilar Protokol Manajemen Kerja Musyrif dalam sistem TUMBUH
 
 Ekosistem TUMBUH merumuskan tata kelola operasional musyrif[^2] yang menjamin keberlanjutan stamina dan kesehatan mental para pembina:
 
@@ -3327,7 +3327,7 @@ graph TD
 
 Pakar manajemen organisasi terkemuka dari MIT, **Peter Senge[^1]**[^1], menegaskan bahwa institusi yang mampu bertahan dan unggul di abad modern adalah institusi yang memiliki kapasitas untuk **terus belajar dari data lapangannya sendiri (*Learning Organization*)**.
 
-Di lingkungan pesantren TUMBUH, data perilaku santri tidak dipandang sebagai "dokumen rahasia untuk menghukum anak", melainkan sebagai **cermin evaluasi bagi sistem kelembagaan**:
+Di lingkungan pesantren berbasis sistem TUMBUH, data perilaku santri tidak dipandang sebagai "dokumen rahasia untuk menghukum anak", melainkan sebagai **cermin evaluasi bagi sistem kelembagaan**:
 * Jika data menunjukkan bahwa 80% kasus santri terlambat shalat subuh terjadi di kamar nomor 4, maka pertanyaannya bukan: *"Mengapa anak-anak di kamar 4 itu malas?"*, melainkan: *"Ada apa dengan kamar 4? Apakah lampu kamarnya redup? Apakah kran airnya macet? Ataukah musyrif pendampingnya kurang aktif menyapa di waktu pagi?"*
 * Dengan cara pandang berbasis data ini, masalah diselesaikan pada akar penyebab strukturalnya, bukan dengan melampiaskan amarah di mimbar masjid.
 
@@ -3773,7 +3773,7 @@ graph TD
 
 ### Bedah Operasional Panca Perlindungan dalam Keseharian Santri
 
-Mari kita bedah bagaimana masing-masing dari lima prinsip dharuriyyat ini diwujudkan secara konkret dalam kehidupan asrama pesantren TUMBUH:
+Mari kita bedah bagaimana masing-masing dari lima prinsip dharuriyyat ini diwujudkan secara konkret dalam kehidupan asrama ekosistem pesantren berbasis TUMBUH:
 
 #### 1. Hifzh ad-Din (Perlindungan Aqidah & Kemurnian Ibadah)
 Tujuan tertinggi pesantren adalah menjaga keselamatan aqidah santri. Namun, banyak lembaga keliru menerapkan strategi penegakannya:

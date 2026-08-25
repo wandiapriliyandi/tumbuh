@@ -1,5 +1,5 @@
 # P3-12-05: STANDAR KOMPETENSI DAN TAKSONOMI QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Taksonomi Kemandirian Finansial Fitrah 4 Level (Al-Iktisab al-Mubtadi' / Literasi Kas Saku & Disiplin Menabung, Al-Injaz al-Mahir / Penciptaan Produk Mikro & Praktik Bazar, At-Tijarah al-Mustaqillah / Inkubasi Bisnis Ritel & Manajemen Laba-Rugi, Serta Ar-Riyadah al-Mubarakah / Kepemimpinan Unit Usaha & Filantropi Peradaban), Integrasi Taksonomi Kognitif-Psikomotorik OBE, Serta Matriks Standar Kompetensi Inti & Dasar (SKI-SKD) Jenjang J1–J4 di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Taksonomi Kemandirian Finansial Fitrah 4 Level (Al-Iktisab al-Mubtadi' / Literasi Kas Saku & Disiplin Menabung, Al-Injaz al-Mahir / Penciptaan Produk Mikro & Praktik Bazar, At-Tijarah al-Mustaqillah / Inkubasi Bisnis Ritel & Manajemen Laba-Rugi, Serta Ar-Riyadah al-Mubarakah / Kepemimpinan Unit Usaha & Filantropi Peradaban), Integrasi Taksonomi Kognitif-Psikomotorik OBE, Serta Matriks Standar Kompetensi Inti & Dasar (SKI-SKD) Jenjang J1–J4 di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-05/MONOGRAF-RISET-STANDAR-KOMPETENSI-TAKSONOMI-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 05: *Competency Standards & Taxonomy*)  
@@ -213,7 +213,7 @@ Penerapan taksonomi kemandirian finansial fitrah melahirkan lompatan mutu pendid
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-05: STANDAR KOMPETENSI DAN TAKSONOMI QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-05: STANDAR KOMPETENSI DAN TAKSONOMI QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -282,7 +282,7 @@ flowchart TD
 [^2]: Pembahasan pentingnya taksonomi kompetensi kewirausahaan terstandarisasi EntreComp, Bacigalupo et al. (2016, hlm. 22).  
 [^3]: Muhammad bin Al-Hasan Asy-Syaibani, *Kitab Al-Kasb* (1997, hlm. 48).  
 [^4]: Protokol pelatihan penentuan HPP dan akuntansi biaya rintisan usaha santri, Neck, Neck, & Murray (2018, hlm. 128).  
-[^5]: Kriteria verifikasi portofolio wirausaha mandiri dan sertifikasi kelulusan santri TUMBUH (2026).  
+[^5]: Kriteria verifikasi portofolio wirausaha mandiri dan sertifikasi kelulusan santri dalam sistem TUMBUH (2026).  
 [^6]: Dampak kelembagaan penerapan taksonomi kemandirian finansial OBE terhadap akreditasi pesantren (2026).  
 
 ---

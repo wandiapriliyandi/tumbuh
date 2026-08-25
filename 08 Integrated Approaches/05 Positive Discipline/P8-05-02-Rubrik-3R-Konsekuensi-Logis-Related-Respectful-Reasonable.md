@@ -1,5 +1,5 @@
 # P8-05-02: RUBRIK 3R KONSEKUENSI LOGIS: RELATED, RESPECTFUL, REASONABLE
-## *Monograf Riset Akademik: Standarisasi Rubrik Konsekuensi Logis 3R (Related, Respectful, Reasonable), Transformasi Sanksi Hukuman Punitif Menjadi Pembelajaran Tanggung Jawab Nyata, dan Eliminasi Hukuman Tidak Relevan (3R Logical Consequences Rubric, Shift from Punitive Retaliation to Constructive Accountability, & Elimination of Irrelevant Sanctions / Form DIS-3RKonsekuensi), Integrasi Doktrin 'Al-Jazā'u min Jinsil 'Amal wal 'Adl bil-Qisṭ' Turats Klasik dengan Dreikurs-Nelsen Logical Consequences Theory, Restorative Accountability Framework, Serta Keadilan Pengasuhan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Rubrik Konsekuensi Logis 3R (Related, Respectful, Reasonable), Transformasi Sanksi Hukuman Punitif Menjadi Pembelajaran Tanggung Jawab Nyata, dan Eliminasi Hukuman Tidak Relevan (3R Logical Consequences Rubric, Shift from Punitive Retaliation to Constructive Accountability, & Elimination of Irrelevant Sanctions / Form DIS-3RKonsekuensi), Integrasi Doktrin 'Al-Jazā'u min Jinsil 'Amal wal 'Adl bil-Qisṭ' Turats Klasik dengan Dreikurs-Nelsen Logical Consequences Theory, Restorative Accountability Framework, Serta Keadilan Pengasuhan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P8-05-02/MONOGRAF-RISET-RUBRIK-3R-KONSEKUENSI-LOGIS/2026`  
 **Domain**: `08 Integrated Approaches` > `05 Positive Discipline` (Sub-Modul 02: *3R Logical Consequences Rubric & Constructive Accountability*)  
@@ -101,7 +101,7 @@ Penerapan konsekuensi logis 3R mentransformasikan skema kognitif santri dari *Fe
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P8-05-02: RUBRIK 3R KONSEKUENSI LOGIS: RELATED, RESPECTFUL, REASONABLE** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P8-05-02: RUBRIK 3R KONSEKUENSI LOGIS: RELATED, RESPECTFUL, REASONABLE** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -154,5 +154,5 @@ flowchart TD
 
 [^1]: Curwin et al. mengenai prinsip Discipline with Dignity dan dampak destruktif dari hukuman yang tidak relevan dengan esensi kesalahan, Curwin et al. (2018, hlm. 41).
 [^2]: Dreikurs & Grey mengenai teori dan diferensiasi tajam antara hukuman aversif vs konsekuensi logis, Dreikurs & Grey (1968, hlm. 29).
-[^3]: Studi kasus penerapan konsekuensi logis 3R pada insiden ruang makan santri Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan konsekuensi logis 3R pada insiden ruang makan santri Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak penghentian hukuman fisik acak terhadap peningkatan pemahaman moral dan tanggung jawab santri (2026).

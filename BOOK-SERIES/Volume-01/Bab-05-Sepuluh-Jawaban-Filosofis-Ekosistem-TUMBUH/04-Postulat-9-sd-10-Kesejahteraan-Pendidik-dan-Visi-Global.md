@@ -76,7 +76,7 @@ graph TD
         KrisisDunia ==> PesantrenTUMBUH ==> SolusiGlobal
     end
 ```
-<div align="center"><sub><b>Gambar 5.4.3:</b> Peran Strategis Pesantren TUMBUH sebagai Episentrum Moral Peradaban Dunia.</sub></div>
+<div align="center"><sub><b>Gambar 5.4.3:</b> Peran Strategis Ekosistem Pesantren Berbasis TUMBUH sebagai Episentrum Moral Peradaban Dunia.</sub></div>
 
 Dalam konteks inilah, **pesantren berkarakter TUMBUH hadir sebagai jawaban alternatif peradaban**:
 * Pesantren bukan sekadar lembaga keagamaan lokal, melainkan **laboratorium peradaban Islam mini** yang mempraktikkan bagaimana sains, adab, teknologi, dan kasih sayang ketuhanan bersatu dalam harmoni kehidupan 24 jam.

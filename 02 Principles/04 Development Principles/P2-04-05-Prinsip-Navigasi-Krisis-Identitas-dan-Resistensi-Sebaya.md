@@ -28,7 +28,7 @@
   - [4. Rekayasa Dinamika Teman Sebaya: Dekonstruksi Geng Eksklusif Menjadi Halaqah Ukhuwah Inklusif](#4-rekayasa-dinamika-teman-sebaya-dekonstruksi-geng-eksklusif-menjadi-halaqah-ukhuwah-inklusif)
   - [5. Kasuistika Lapangan: Kasus Terbentuknya Geng Kamar Eksklusif & Resolusi Kanalisasi Ukhuwah](#5-kasuistika-lapangan-kasus-terbentuknya-geng-kamar-eksklusif--resolusi-kanalisasi-ukhuwah)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH](#1-eksplanasi-teoretis-standar-pembinaan-identitas-remaja--ukhuwah-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Standar Pembinaan Identitas Remaja & Ukhuwah Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-standar-pembinaan-identitas-remaja--ukhuwah-pesantren-tumbuh)
   - [2. Matriks Pendampingan Empat Status Identitas James Marcia Menuju Profil Insan Adabi](#2-matriks-pendampingan-empat-status-identitas-james-marcia-menuju-profil-insan-adabi)
   - [3. Standar Prosedur Operasional (SOP) Pencegahan & Pembubaran Geng Asrama Eksklusif](#3-standar-prosedur-operasional-sop-pencegahan--pembubaran-geng-asrama-eksklusif)
   - [4. Protokol Pendampingan Halaqah Ukhuwah Terpadu (Integrated Brotherhood Circle Protocol)](#4-protokol-pendampingan-halaqah-ukhuwah-terpadu-integrated-brotherhood-circle-protocol)
@@ -112,7 +112,7 @@ TUMBUH mengharamkan segala bentuk primordialisme geng asrama:
 
 ---
 
-### 1. Eksplanasi Teoretis Standar Pembinaan Identitas Remaja & Ukhuwah Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Standar Pembinaan Identitas Remaja & Ukhuwah Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan pembinaan identitas ke dalam **Arsitektur Tiga Sayap Navigasi Jati Diri (*Arkan Bina' al-Huwiyyah*)**:
 
@@ -139,7 +139,7 @@ flowchart TD
 
 ### 2. Matriks Pendampingan Empat Status Identitas James Marcia Menuju Profil Insan Adabi
 
-| Status Identitas Marcia | Kondisi Eksplorasi & Komitmen Santri | Pendekatan Intervensi Musyrif TUMBUH |
+| Status Identitas Marcia | Kondisi Eksplorasi & Komitmen Santri | Pendekatan Intervensi Musyrif dalam sistem TUMBUH |
 | :--- | :--- | :--- |
 | **1. Identity Diffusion** | Tidak mengeksplorasi & tidak punya tujuan hidup.| Beri pendampingan bimbingan konseling & temukan minat unik.|
 | **2. Identity Foreclosure**| Patuh pasif karena paksaan orang tua tanpa paham.| Ajak dialog tadabbur agar paham makna dan kenikmatan ilmu.|
@@ -188,7 +188,7 @@ Prinsip navigasi krisis identitas dan dinamika sebaya ini membawa implikasi agun
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-04-05: PRINSIP NAVIGASI KRISIS IDENTITAS, DINAMIKA SEBAYA, DAN UKHUWAH ASRAMA (IDENTITY NAVIGATION & PEER DYNAMICS)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-04-05: PRINSIP NAVIGASI KRISIS IDENTITAS, DINAMIKA SEBAYA, DAN UKHUWAH ASRAMA (IDENTITY NAVIGATION & PEER DYNAMICS)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -264,7 +264,7 @@ flowchart TD
 [^6]: Dokumentasi Resolusi Polarisasi Geng Asrama dan Kanalisasi Kepemimpinan PBIS TUMBUH, 2026.  
 [^7]: Master Blueprint Navigasi Moratorium Positif Santri Remaja TUMBUH, 2026.  
 [^8]: Kebijakan Pengharaman Primordialisme Geng dan 'Ashabiyyah Asrama TUMBUH, 2026.  
-[^9]: Standar Operasional Prosedur Wadah Aktualisasi Minat dan Kepemimpinan Santri TUMBUH, 2026.  
+[^9]: Standar Operasional Prosedur Wadah Aktualisasi Minat dan Kepemimpinan Santri dalam sistem TUMBUH, 2026.  
 [^10]: Master Guidelines Brotherhood Circle dan Halaqah Ukhuwah Asrama TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Pembentukan Identitas Pemuda Islam Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 

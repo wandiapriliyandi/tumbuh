@@ -245,7 +245,7 @@ Epistemologi Integratif Islam yang dirumuskan TUMBUH memberikan sumbangsih funda
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Epistemologi Pendidikan Pesantren TUMBUH, *Kritik atas Fragmentasi Sumber Ilmu*, 2026.  
+[^1]: Riset Epistemologi Pendidikan Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fragmentasi Sumber Ilmu*, 2026.  
 [^2]: QS. Al-'Alaq [96]: 1–5.  
 [^3]: Al-Ghazali, *Tahafut al-Falasifah*, hlm. 45–70; *Al-Mustashfa*, Jilid 1, hlm. 12–28.  
 [^4]: An-Nasafi, *Matan al-'Aqa'id an-Nasafiyyah*, hlm. 14–22.  

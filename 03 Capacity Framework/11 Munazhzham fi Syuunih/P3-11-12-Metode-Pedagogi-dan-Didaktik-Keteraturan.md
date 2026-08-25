@@ -1,5 +1,5 @@
 # P3-11-12: METODE PEDAGOGI DAN DIDAKTIK MUNAZHZHAM FI SYUUNIH
-## *Monograf Riset Akademik: Empat Model Instruksional Pembinaan Keteraturan Hidup (Living Exemplary Orderliness / Qudwah, Socratic Space-Audit Dialectics, Hands-On 5S Organization Laboratory, & Micro-Habit Automated Conditioning), Integrasi Manajemen Tata Ruang di Kelas Madrasah & Asrama, Eliminasi Kerusakan Fasilitas, Serta Pembentukan Pendidik Rapi & Beradab di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Empat Model Instruksional Pembinaan Keteraturan Hidup (Living Exemplary Orderliness / Qudwah, Socratic Space-Audit Dialectics, Hands-On 5S Organization Laboratory, & Micro-Habit Automated Conditioning), Integrasi Manajemen Tata Ruang di Kelas Madrasah & Asrama, Eliminasi Kerusakan Fasilitas, Serta Pembentukan Pendidik Rapi & Beradab di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-11-12/MONOGRAF-RISET-PEDAGOGI-DIDAKTIK-MUNAZHZHAM-FI-SYUUNIH/2026`  
 **Domain**: `03 Capacity Framework` > `11 Munazhzham fi Syuunih` (Sub-Modul 12: *Pedagogical Methods & Orderliness Didactics*)  
@@ -212,7 +212,7 @@ Penerapan empat model didaktik ini menghasilkan transformasi mendasar:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-11-12: METODE PEDAGOGI DAN DIDAKTIK MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-11-12: METODE PEDAGOGI DAN DIDAKTIK MUNAZHZHAM FI SYUUNIH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

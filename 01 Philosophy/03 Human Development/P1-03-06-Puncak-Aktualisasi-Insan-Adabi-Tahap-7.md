@@ -98,7 +98,7 @@ Ekosistem TUMBUH merancang kurikulum kepemimpinan asrama sebagai laboratorium hi
 
 * **Studi Kasus: Kiprah Alumni Memimpin Resolusi Konflik Agraria Desa Melalui Musyawarah Adab**  
   * **Dilema**: Terjadi sengketa batas lahan antarwarga desa yang memicu ancaman pertumpahan darah antarkeluarga.
-  * **Aksi Alumni TUMBUH**: Alumni yang telah mencapai derajat penggerak hadir bukan dengan arogansi gelar, melainkan mendatangi para tokoh masyarakat dengan adab yang santun (*Tawadhu'*), memfasilitasi dialog di serambi masjid desa, dan membedah batas tanah secara adil berdasarkan syariat dan hukum yang berlaku. Sengketa selesai dengan damai tanpa ada korban.
+  * **Aksi Alumni binaan sistem TUMBUH**: Alumni yang telah mencapai derajat penggerak hadir bukan dengan arogansi gelar, melainkan mendatangi para tokoh masyarakat dengan adab yang santun (*Tawadhu'*), memfasilitasi dialog di serambi masjid desa, dan membedah batas tanah secara adil berdasarkan syariat dan hukum yang berlaku. Sengketa selesai dengan damai tanpa ada korban.
   * **Refleksi**: Inilah bukti nyata bahwa pendidikan *Insan Adabi* melahirkan pemimpin peradaban yang membawa rahmat dan keberkahan nyata di tengah masyarakat.[^6]
 
 ---
@@ -248,9 +248,9 @@ Pencapaian derajat *Insan Adabi* penggerak peradaban ini adalah jawaban atas kri
 [^7]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *An-Niyyah wal Ikhlas wash-Shidq*, hlm. 350–390.  
 [^8]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 110–145.  
 [^9]: KH. Hasyim Asy'ari, *Adab al-'Alim wal-Muta'allim*, hlm. 40–70.  
-[^10]: Riset Fiqh Peradaban dan Khidmah Sosial Pesantren TUMBUH, 2026.  
+[^10]: Riset Fiqh Peradaban dan Khidmah Sosial Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^11]: Matriks Tingkatan Kesadaran Aktualisasi Adabi (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^12]: Standar Operasional Prosedur Khitamut Tarbiyah dan Penugasan Khidmah Alumni TUMBUH, 2026.  
+[^12]: Standar Operasional Prosedur Khitamut Tarbiyah dan Penugasan Khidmah Alumni binaan sistem TUMBUH, 2026.  
 [^13]: Deklarasi Peradaban Insan Adabi Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

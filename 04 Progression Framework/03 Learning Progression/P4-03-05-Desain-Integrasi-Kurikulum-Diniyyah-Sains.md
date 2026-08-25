@@ -1,5 +1,5 @@
 # P4-03-05: DESAIN INTEGRASI KURIKULUM DINIYYAH DAN SAINS MODERN
-## *Monograf Riset Akademik: Epistemologi Islamisasi & Integrasi Ilmu (Diniyyah wa al-'Ulum al-Kauniyyah), Rekonstruksi Paradigma Sains Bertauhid (Tawhidic Science Framework), Integrasi Fiqh Maqashid Syari'ah dengan STEM Education (Science, Technology, Engineering, and Mathematics) Berbasis Proyek Peradaban, Serta Desain Matriks Integrasi Kurikulum di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Epistemologi Islamisasi & Integrasi Ilmu (Diniyyah wa al-'Ulum al-Kauniyyah), Rekonstruksi Paradigma Sains Bertauhid (Tawhidic Science Framework), Integrasi Fiqh Maqashid Syari'ah dengan STEM Education (Science, Technology, Engineering, and Mathematics) Berbasis Proyek Peradaban, Serta Desain Matriks Integrasi Kurikulum di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-03-05/MONOGRAF-RISET-INTEGRASI-KURIKULUM-DINIYYAH-SAINS/2026`  
 **Domain**: `04 Progression Framework` > `03 Learning Progression` (Sub-Modul 05: *Diniyyah-Science Curriculum Integration*)  
@@ -279,7 +279,7 @@ flowchart TD
 [^1]: Kritik terhadap dikotomi epistemologis dan sekularisasi pendidikan sains modern, Bhaskar (1975, hlm. 38).  
 [^2]: Kerangka kerja pembelajaran terpadu interdisipliner STEM Education, Vasquez, Sneider, & Comer (2013, hlm. 64).  
 [^3]: Tafsir QS. Ali 'Imran ayat 190–191 mengenai integrasi dzikir dan fikir ulul albab.  
-[^4]: Protokol penanganan keraguan kognitif kosmologi dan dialog epistemologi sains Islam santri TUMBUH (2026).  
+[^4]: Protokol penanganan keraguan kognitif kosmologi dan dialog epistemologi sains Islam santri dalam sistem TUMBUH (2026).  
 [^5]: Dampak kelembagaan penerapan kurikulum terpadu STEM-Diniyyah TUMBUH Pesantren (2026).  
 
 ---

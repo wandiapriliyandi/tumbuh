@@ -127,7 +127,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap instrumen asesmen karakter yang memenuhi standar validitas konvergen dan diskriminan melalui matriks *Multitrait-Multimethod (MTMM)* niscaya menghasilkan estimasi skor sejati (*True Score Estimate*) yang bebas dari kesalahan varian metode (*Method Variance Error*).
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Sistem asesmen Shahihul Ibadah TUMBUH mengombinasikan 4 metode pengukuran independen untuk mengukur 3 dimensi trait ibadah (Kognitif, Afektif, Psikomotorik).
-* **Konklusi (*an-Natijah*)**: Maka, hasil asesmen ibadah di pesantren TUMBUH memiliki akurasi ilmiah dan reliabilitas psikometri yang sangat tinggi.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, hasil asesmen ibadah dalam sistem TUMBUH di pesantren memiliki akurasi ilmiah dan reliabilitas psikometri yang sangat tinggi.[^8]
 
 ```mermaid
 flowchart LR
@@ -190,7 +190,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap komposisi penilaian karakter yang mengalokasikan bobot proporsional pada aspek perilaku nyata asrama (35%), penguasaan hukum fiqh teruji (30%), kesadaran refleksi diri (20%), dan konfirmasi sosial lingkungan (15%) niscaya menghasilkan asesmen holistik yang adil, komprehensif, dan mendidik jiwa.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Formula Pembobotan 360 Derajat TUMBUH mengunci keempat proporsi pilar tersebut dalam kalkulasi analitik dashboard sistem.
-* **Konklusi (*an-Natijah*)**: Maka, rapor karakter ibadah santri di pesantren TUMBUH memiliki bobot kebenaran faktual yang dapat dipertanggungjawabkan di hadapan Allah dan wali santri.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, rapor karakter ibadah santri dalam sistem TUMBUH di pesantren memiliki bobot kebenaran faktual yang dapat dipertanggungjawabkan di hadapan Allah dan wali santri.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Audit Silang Data Logbook Musyrif vs Mutaba'ah Santri
 * **Pihak A (Sudut Pandang Tidak Perlu Mengkroscek Buku Santri)**:  
@@ -337,7 +337,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-09: PEMETAAN ASESMEN DAN TRIANGULASI SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-09: PEMETAAN ASESMEN DAN TRIANGULASI SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -405,7 +405,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Metodologi Evaluasi Asesmen Pesantren TUMBUH, *Kritik atas Bias Asesmen Sumber Tunggal dan Pemalsuan Buku Kendali*, 2026.  
+[^1]: Riset Metodologi Evaluasi Asesmen Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Bias Asesmen Sumber Tunggal dan Pemalsuan Buku Kendali*, 2026.  
 [^2]: Ibnu Qudamah, *Al-Mughni*, Jilid 10, Kitab *Asy-Syahadat wa Turuq al-Qadha'*, hlm. 120–145.  
 [^3]: QS. Al-Baqarah [2]: 282.  
 [^4]: *Shahih al-Bukhari*, Kitab ar-Rahn, Hadits No. 4552; *Shahih Muslim*, Kitab al-Aqdhiyah, Hadits No. 1711.  
@@ -419,7 +419,7 @@ flowchart TD
 [^12]: Dokumen Arsitektur Pembobotan Asesmen 360 Derajat PBIS TUMBUH, 2026.  
 [^13]: Standar Operasional Prosedur Audit Silang Logbook PBIS Asrama TUMBUH, 2026.  
 [^14]: Rubrik Penilaian Empat Stasiun Uji Klinis OSCE Fiqh Ibadah TUMBUH, 2026.  
-[^15]: Standar Operasional Keamanan Data Anonim Sosiometri Santri TUMBUH, 2026.  
+[^15]: Standar Operasional Keamanan Data Anonim Sosiometri Santri dalam sistem TUMBUH, 2026.  
 [^16]: Dokumentasi Kasus Resolusi Diskrepansi Nilai Karakter Santri Berbakat TUMBUH, 2026.  
 [^17]: Dokumentasi Sidang Kalibrasi Asatidz Penguji Fiqh & Penanganan Kasus Bias Sebaya TUMBUH, 2026.
 

@@ -1,5 +1,5 @@
 # P11-01: INSTRUMEN ASESMEN KARAKTER
-## *Monograf Riset Akademik Induk: Grand Architecture Instrumen Asesmen Karakter Santri (Holistic Character Assessment & Behavioral Measurement Ecosystem), Integrasi Tiga Pilar Asesmen Holistik: Rubrik 10 Muwashafat, Self-Assessment Fitrah Tazkiyah, dan Diagnostik FBA Klinis (Tripartite Assessment Engine: Criterion-Referenced Rubric, Metacognitive Self-Appraisal, & Clinical FBA Diagnosis), Serta Penerapan Penilaian Pertumbuhan Ipsatif Tanpa Perangkingan Publik (Standardized Assessment Battery, Ipsative Growth Reporting, & Form TOOL-MasterAssessmentSuite), Integrasi Doktrin 'Al-Mīzān Al-Qisth' Turats Klasik dengan Popham Educational Assessment, Cronbach Psychometric Validity, Serta Sistem Rapor Pembinaan di Pesantren TUMBUH*
+## *Monograf Riset Akademik Induk: Grand Architecture Instrumen Asesmen Karakter Santri (Holistic Character Assessment & Behavioral Measurement Ecosystem), Integrasi Tiga Pilar Asesmen Holistik: Rubrik 10 Muwashafat, Self-Assessment Fitrah Tazkiyah, dan Diagnostik FBA Klinis (Tripartite Assessment Engine: Criterion-Referenced Rubric, Metacognitive Self-Appraisal, & Clinical FBA Diagnosis), Serta Penerapan Penilaian Pertumbuhan Ipsatif Tanpa Perangkingan Publik (Standardized Assessment Battery, Ipsative Growth Reporting, & Form TOOL-MasterAssessmentSuite), Integrasi Doktrin 'Al-Mīzān Al-Qisth' Turats Klasik dengan Popham Educational Assessment, Cronbach Psychometric Validity, Serta Sistem Rapor Pembinaan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P11-01/MONOGRAF-MASTER-INSTRUMEN-ASESMEN-KARAKTER/2026`  
 **Domain**: `11 Tools` > `01 Assessment Tools` (Master Synthesis Monograph)  
@@ -111,7 +111,7 @@ Musyrif Kamar: [Ust. Hanif Rabbani]  Konselor BK: [Ust. Wildan Fauzi]  Pimpinan 
 
 ### 3. Diskusi Akademis
 
-Master Suite *Instrumen Asesmen Karakter Santri* mendefinisikan ulang standar evaluasi pendidikan Islam modern dengan menggabungkan ketelitian psikometri kontemporer (*Psychometric Rigor*) dan keluhuran etika Islam (*Islamic Spiritual Nobility*). Dengan meniadakan perangkingan publik dan memberlakukan penilaian pertumbuhan ipsatif naratif, pesantren TUMBUH menghapus luka psikologis pembandingan sosial, membangun iklim bi'ah shalihah yang suportif, serta mengembalikan hakikat hisab sebagai sarana penyucian jiwa (*Tazkiyatun Nafs*) menuju keridhaan Allah SWT.[^4]
+Master Suite *Instrumen Asesmen Karakter Santri* mendefinisikan ulang standar evaluasi pendidikan Islam modern dengan menggabungkan ketelitian psikometri kontemporer (*Psychometric Rigor*) dan keluhuran etika Islam (*Islamic Spiritual Nobility*). Dengan meniadakan perangkingan publik dan memberlakukan penilaian pertumbuhan ipsatif naratif, ekosistem pesantren berbasis TUMBUH menghapus luka psikologis pembandingan sosial, membangun iklim bi'ah shalihah yang suportif, serta mengembalikan hakikat hisab sebagai sarana penyucian jiwa (*Tazkiyatun Nafs*) menuju keridhaan Allah SWT.[^4]
 
 ---
 
@@ -119,7 +119,7 @@ Master Suite *Instrumen Asesmen Karakter Santri* mendefinisikan ulang standar ev
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P11-01: INSTRUMEN ASESMEN KARAKTER** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P11-01: INSTRUMEN ASESMEN KARAKTER** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -172,5 +172,5 @@ flowchart TD
 
 [^1]: Gwyneth Hughes mengenai dampak destruktif perangkingan normatif dan keunggulan asesmen ipsatif dalam menumbuhkan motivasi pembelajar, Hughes (2014, hlm. 22).
 [^2]: Lee J. Cronbach mengenai teori reliabilitas dan validitas instrumen pengukuran psikometri melalui triangulasi multi-metode, Cronbach (1951, hlm. 302).
-[^3]: Studi kasus penerapan instrumen asesmen terpadu tripartit dan rapor naratif ipsatif di Pesantren TUMBUH (2026).
+[^3]: Studi kasus penerapan instrumen asesmen terpadu tripartit dan rapor naratif ipsatif di Ekosistem Pesantren Berbasis TUMBUH (2026).
 [^4]: Dampak pengintegrasian prinsip Al-Mizan dengan asesmen ipsatif terhadap peningkatan iklim ukhuwah dan efikasi diri santri (2026).

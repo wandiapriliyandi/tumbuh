@@ -206,7 +206,7 @@ Sintesis filosofis kodrat insan ini menegaskan visi agung ekosistem TUMBUH:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P1-02-07: SINTESIS FILOSOFIS HAKIKAT KODRAT MANUSIA (SYNTHESIS OF HUMAN NATURE)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P1-02-07: SINTESIS FILOSOFIS HAKIKAT KODRAT MANUSIA (SYNTHESIS OF HUMAN NATURE)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -274,7 +274,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Konsolidasi Human Nature Pesantren TUMBUH, *Kritik atas Fragmentasi Antropologi Pendidikan*, 2026.  
+[^1]: Riset Konsolidasi Human Nature Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Fragmentasi Antropologi Pendidikan*, 2026.  
 [^2]: Master Arsitektur Enam Pilar Human Nature Ekosistem TUMBUH, 2026.  
 [^3]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Syarh 'Aja'ib al-Qalb*, hlm. 10–38.  
 [^4]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 140–175.  
@@ -284,7 +284,7 @@ flowchart TD
 [^8]: Ibnu Qayyim al-Jauziyyah, *Miftah Dar as-Sa'adah*, Jilid 1, hlm. 125–150.  
 [^9]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268.  
 [^10]: Horner, R. H., & Sugai, G. (2015), *Remedial and Special Education*, hlm. 80–85.  
-[^11]: Piagam Perlindungan Martabat dan Zero Physical Strike Pesantren TUMBUH, 2026.  
+[^11]: Piagam Perlindungan Martabat dan Zero Physical Strike Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^12]: Matriks Tingkatan Kesadaran Sintesis Kodrat Insan (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
 [^13]: Blueprint Jembatan Ontologis Menuju Domain 03 Human Development TUMBUH, 2026.  
 [^14]: Standar Audit Mutu Tahunan Hak Asasi dan Kepatuhan Human Nature TUMBUH, 2026.  

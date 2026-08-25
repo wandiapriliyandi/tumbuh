@@ -216,7 +216,7 @@ Penerapan sintesis dan standarisasi bank instrumen ini menghadirkan keunggulan p
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-04-06: SINTESIS DAN STANDARDISASI BANK INSTRUMEN ASESMEN** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-04-06: SINTESIS DAN STANDARDISASI BANK INSTRUMEN ASESMEN** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -284,8 +284,8 @@ flowchart TD
 [^1]: Kritik terhadap kelemahan instrumen evaluasi sporadis tanpa kalibrasi Item Response Theory (IRT), Hambleton & Swaminathan (1985, hlm. 48).  
 [^2]: Standar manajemen mutu organisasi pendidikan berbasis ISO 21001:2018, International Organization for Standardization (2018, hlm. 18).  
 [^3]: Al-Qurthubi, *Al-Jami' li Ahkamil Qur'an* (2006, Jilid 17, hlm. 142), tafsir QS. Ar-Rahman tentang kewajiban menegakkan neraca timbangan adil.  
-[^4]: Protokol rekalibrasi bank butir IRT dan penyesuaian daya beda instrumen santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan standardisasi bank instrumen ISO 21001 di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekalibrasi bank butir IRT dan penyesuaian daya beda instrumen santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan standardisasi bank instrumen ISO 21001 di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

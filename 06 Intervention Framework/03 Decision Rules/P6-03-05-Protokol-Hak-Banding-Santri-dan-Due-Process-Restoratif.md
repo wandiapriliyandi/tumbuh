@@ -1,5 +1,5 @@
 # P6-03-05: PROTOKOL HAK BANDING SANTRI DAN DUE PROCESS RESTORATIF
-## *Monograf Riset Akademik: Standarisasi Mekanisme Pengajuan Banding Santri, Peninjauan Ulang Putusan Disiplin, dan Perlindungan Hak Pembelaan Bermartabat (Student Right to Appeal, Restorative Due Process, & Appellate Review Protocol / Form HBS-Banding), Integrasi Doktrin 'Murāja'atul Qadhā' wa Raf'ul Mazhālim' Turats Klasik dengan Goss v. Lopez Due Process Standards, Restorative Appellate Panels, Serta Keadilan Substantif di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standarisasi Mekanisme Pengajuan Banding Santri, Peninjauan Ulang Putusan Disiplin, dan Perlindungan Hak Pembelaan Bermartabat (Student Right to Appeal, Restorative Due Process, & Appellate Review Protocol / Form HBS-Banding), Integrasi Doktrin 'Murāja'atul Qadhā' wa Raf'ul Mazhālim' Turats Klasik dengan Goss v. Lopez Due Process Standards, Restorative Appellate Panels, Serta Keadilan Substantif di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P6-03-05/MONOGRAF-RISET-HAK-BANDING-DUE-PROCESS/2026`  
 **Domain**: `06 Intervention Framework` > `03 Decision Rules` (Sub-Modul 05: *Student Right to Appeal & Restorative Due Process Protocol*)  
@@ -216,7 +216,7 @@ Penerapan protokol hak banding Form HBS ini menghadirkan keunggulan peradaban:
 
 1. **Membuktikan Bahwa Pesantren Adalah Benteng Keadilan Hakiki yang Berani Mengakui Kekhilafan (*Humble & Just Institution*)**: Lembaga yang siap mengoreksi diri adalah lembaga yang paling diberkahi Allah SWT.
 2. **Menumbuhkan Keberanian Moral dan Kesadaran Hukum Santri (*Legal Consciousness & Moral Courage*)**: Santri terlatih membela kebenaran dengan adab luhur dan bukti ilmiah.
-3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wilāyatul Mazhālim dan Constitutional Due Process**: Menjadikan pesantren TUMBUH sebagai pionir lembaga pendidikan Islam dengan sistem perlindungan hak santri paling terpercaya di dunia.[^5]
+3. **Penyempurnaan Penjaminan Mutu Berbasis Integrasi Wilāyatul Mazhālim dan Constitutional Due Process**: Menjadikan ekosistem pesantren berbasis TUMBUH sebagai pionir lembaga pendidikan Islam dengan sistem perlindungan hak santri paling terpercaya di dunia.[^5]
 
 ---
 
@@ -224,7 +224,7 @@ Penerapan protokol hak banding Form HBS ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P6-03-05: PROTOKOL HAK BANDING SANTRI DAN DUE PROCESS RESTORATIF** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P6-03-05: PROTOKOL HAK BANDING SANTRI DAN DUE PROCESS RESTORATIF** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -291,8 +291,8 @@ flowchart TD
 [^1]: Standar konstitusional Due Process of Law dalam disiplin sekolah berdasarkan putusan Supreme Court Goss v. Lopez (1975, hlm. 574).  
 [^2]: Model Restorative Appellate Frameworks dan peninjauan kembali perkara demi keadilan restoratif, Umbreit & Armour (2011, hlm. 82).  
 [^3]: Al-Mawardi, *Al-Ahkam As-Sulthaniyyah* (2006, hlm. 94), bab tugas Wilayatul Mazhalim dalam membatalkan sanksi zalim dan memulihkan hak korban.  
-[^4]: Protokol sidang majelis banding independen dan rehabilitasi nama baik santri Pesantren TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan protokol hak banding santri dan due process di Pesantren TUMBUH (2026).  
+[^4]: Protokol sidang majelis banding independen dan rehabilitasi nama baik santri Ekosistem Pesantren Berbasis TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan protokol hak banding santri dan due process di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

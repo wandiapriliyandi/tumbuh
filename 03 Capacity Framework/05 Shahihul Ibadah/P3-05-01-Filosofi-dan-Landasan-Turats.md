@@ -103,7 +103,7 @@ $$\text{عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ رَضِيَ
 * **Pihak A (Sudut Pandang Dikotomi Fiqh vs Tasawuf)**:  
   *"Ahli fiqh hanya mengurusi sah-batalnya gerakan; urusan khusyu' dan kehadiran hati itu urusan sufi yang tidak wajib dipelajari santri!"*
 * **Tinjauan Asrar ash-Shalah Hujjatul Islam Al-Ghazali**:  
-  Memisahkan fiqh lahiriah dari kekhusyukan batin adalah **Tragedi Ilmu yang Mematikan Jiwa**. Seseorang yang shalat memenuhi rukun namun pikirannya 100% melayang ke makanan memang sah secara hukum qadha' (tidak perlu mengulang shalat), namun ia tidak membawa pulang pahala apapun ke akhirat. Imam Al-Ghazali dalam *Ihya'* merumuskan 6 rukun batin shalat: *Hudhurul Qalb* (Kehadiran Hati), *Tafahhum* (Memahami Makna), *Ta'zhim* (Mengagungkan Allah), *Haibah* (Rasa Takut yang Mulia), *Raja'* (Pengharapan Penuh), dan *Haya'* (Rasa Malu atas Dosa). Santri TUMBUH diajarkan memadukan keduanya secara simfoni.[^6]
+  Memisahkan fiqh lahiriah dari kekhusyukan batin adalah **Tragedi Ilmu yang Mematikan Jiwa**. Seseorang yang shalat memenuhi rukun namun pikirannya 100% melayang ke makanan memang sah secara hukum qadha' (tidak perlu mengulang shalat), namun ia tidak membawa pulang pahala apapun ke akhirat. Imam Al-Ghazali dalam *Ihya'* merumuskan 6 rukun batin shalat: *Hudhurul Qalb* (Kehadiran Hati), *Tafahhum* (Memahami Makna), *Ta'zhim* (Mengagungkan Allah), *Haibah* (Rasa Takut yang Mulia), *Raja'* (Pengharapan Penuh), dan *Haya'* (Rasa Malu atas Dosa). Santri dalam sistem TUMBUH diajarkan memadukan keduanya secara simfoni.[^6]
 
 #### 3. Diskursus Dialektika Kritis: Mengikis Patologi Was-Was Thaharah (Terapi Fiqh Anti-Waswas)
 * **Pihak A (Sudut Pandang Pembiaran Santri Was-Was)**:  
@@ -127,7 +127,7 @@ graph TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 2*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap rangkaian gerakan ibadah yang mengoptimalkan integrasi somatik-kognitif (*Embodied Cognition*) dan menstimulasi sistem saraf parasimpatis melalui thuma'ninah postur terbukti secara ilmiah melenyapkan kegelisahan psikologis (*Anxiety*) dan melahirkan kestabilan fokus mental (*Deep Mindfulness / Khusyu'*).
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Tata cara shalat nabawiyyah yang diajarkan dalam Shahihul Ibadah TUMBUH mewajibkan thuma'ninah minimal 3–5 detik pada setiap postur (ruku', i'tidal, sujud, duduk).
-* **Konklusi (*an-Natijah*)**: Maka, pelaksanaan shalat sesuai sunnah di pesantren TUMBUH secara psikofisiologis mentransformasi kesehatan mental dan kekhusyukan santri.[^8]
+* **Konklusi (*an-Natijah*)**: Maka, pelaksanaan shalat sesuai sunnah dalam sistem TUMBUH di pesantren secara psikofisiologis mentransformasi kesehatan mental dan kekhusyukan santri.[^8]
 
 ```mermaid
 flowchart LR
@@ -189,7 +189,7 @@ flowchart TD
 #### 📐 Formalisasi Logika Silogisme (*Qiyas Mantiqi 3*)
 * **Premis Mayor (*al-Muqaddimah al-Kubra*)**: Setiap sistem pengasuhan pesantren yang mendistribusikan pembiasaan ibadah fardhu dan sunnah ke dalam jadwal harian 24 jam yang ergonomis dan didukung keteladanan fisik asatidz di saf pertama niscaya membentuk karakter santri yang cinta ibadah secara intrinsik dan istiqamah seumur hidup.
 * **Premis Minor (*al-Muqaddimah ash-Shughra*)**: Kurikulum Shahihul Ibadah TUMBUH mengawal transisi ibadah 24 jam dengan sistem pendampingan musyrif berbasis kasih sayang dan apresiasi.
-* **Konklusi (*an-Natijah*)**: Maka, pembiasaan ibadah di pesantren TUMBUH terbebas dari kepalsuan formalistik dan melahirkan generasi abid yang beradab.[^12]
+* **Konklusi (*an-Natijah*)**: Maka, pembiasaan ibadah dalam sistem TUMBUH di pesantren terbebas dari kepalsuan formalistik dan melahirkan generasi abid yang beradab.[^12]
 
 #### 1. Diskursus Dialektika Kritis: Saf Pertama Bukan Hak Istimewa (Privilese) Senioritas
 * **Pihak A (Sudut Pandang Feodalisme Asrama)**:  
@@ -201,13 +201,13 @@ flowchart TD
 * **Pihak A (Sudut Pandang Fanatisme Madzhab Tunggal Kaku)**:  
   *"Santri yang tidak membaca qunut Shubuh atau yang membaca basmalah pelan harus disuruh mengulang shalatnya karena beda dengan madzhab pondok!"*
 * **Tinjauan Fiqh Perbandingan Madzhab & Adab Ikhtilaf**:  
-  Para ulama salaf sepakat: *La Inkaara fi Masa'il al-Ijtihad* (Tidak boleh ada pengingkaran kasar dalam masalah-masalah ijtihadiyyah furu'). Imam Syafi'i sendiri tidak membaca qunut saat shalat di dekat makam Imam Abu Hanifah demi menghormati beliau. Santri TUMBUH diajarkan **Fiqh Muqaran Tematik**: memahami dalil masing-masing madzhab mu'tabar (Syafi'i, Hanafi, Maliki, Hanbali), saling menghormati perbedaan sunnah haiah, dan menjaga ukhuwah islamiyyah di atas segalanya.[^14]
+  Para ulama salaf sepakat: *La Inkaara fi Masa'il al-Ijtihad* (Tidak boleh ada pengingkaran kasar dalam masalah-masalah ijtihadiyyah furu'). Imam Syafi'i sendiri tidak membaca qunut saat shalat di dekat makam Imam Abu Hanifah demi menghormati beliau. Santri dalam sistem TUMBUH diajarkan **Fiqh Muqaran Tematik**: memahami dalil masing-masing madzhab mu'tabar (Syafi'i, Hanafi, Maliki, Hanbali), saling menghormati perbedaan sunnah haiah, dan menjaga ukhuwah islamiyyah di atas segalanya.[^14]
 
 #### 3. Diskursus Dialektika Kritis: Qiyamul Lail Bertahap Bebas Pemaksaan Kasar
 * **Pihak A (Sudut Pandang Siraman Air Dingin Jam 03.00)**:  
   *"Cara membangunkan tahajjud yang paling ampuh adalah menyiram muka santri yang sedang tidur dengan ember air es!"*
 * **Resolusi Adab Membangunkan Shalat Kenabian**:  
-  Menyiram air es ke muka santri yang sedang tidur lelap memicu trauma saraf, kepanikan (*Panic Awakening*), dan kebencian mendalam terhadap qiyamul lail. Rasulullah SAW membangunkan keluarga dengan panggilan lembut dan percikan air ramah. Musyrif TUMBUH membangunkan santri dengan menyalakan lampu kamar secara bertahap (*Gradual Lighting*), memutar lantunan tilawah merdu, dan menyapa hangat pundak santri. Santri bangun dengan senyum, berwudhu dengan segar, dan menikmati tahajjud dengan kebahagiaan.[^15]
+  Menyiram air es ke muka santri yang sedang tidur lelap memicu trauma saraf, kepanikan (*Panic Awakening*), dan kebencian mendalam terhadap qiyamul lail. Rasulullah SAW membangunkan keluarga dengan panggilan lembut dan percikan air ramah. Musyrif dalam sistem TUMBUH membangunkan santri dengan menyalakan lampu kamar secara bertahap (*Gradual Lighting*), memutar lantunan tilawah merdu, dan menyapa hangat pundak santri. Santri bangun dengan senyum, berwudhu dengan segar, dan menikmati tahajjud dengan kebahagiaan.[^15]
 
 ---
 
@@ -327,7 +327,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-05-01: FILOSOFI DAN LANDASAN TURATS SHAHIHUL IBADAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-05-01: FILOSOFI DAN LANDASAN TURATS SHAHIHUL IBADAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -395,7 +395,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Evaluasi Fiqh Ibadah & Praktik Asrama Pesantren TUMBUH, *Kritik atas Formalisme Shalat Mekanis*, 2026.  
+[^1]: Riset Evaluasi Fiqh Ibadah & Praktik Asrama Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Formalisme Shalat Mekanis*, 2026.  
 [^2]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, Kitab *Asrar ash-Shalah*, hlm. 145–180.  
 [^3]: Tafsir Al-Baghawi, Penafsiran Surah Al-Mulk Ayat 2, Jilid 4, hlm. 370; Ibnul Qayyim, *Madarijus Salikin*, Jilid 1, hlm. 95.  
 [^4]: *Shahih al-Bukhari*, Kitab al-Adzan, Hadits No. 631.  

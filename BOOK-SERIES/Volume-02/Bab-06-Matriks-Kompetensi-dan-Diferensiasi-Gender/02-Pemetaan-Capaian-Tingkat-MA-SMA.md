@@ -64,7 +64,7 @@ Karakter santri tingkat atas berakar pada kematangan akal budi dan keluasan wawa
 
 ### Solusi Sistemik TUMBUH: Portofolio Karakter & Visi Hidup Santri Akhir
 
-Sebagai syarat kelulusan tingkat MA di pesantren TUMBUH, setiap santri wajib menyusun:
+Sebagai syarat kelulusan tingkat MA dalam sistem TUMBUH di pesantren, setiap santri wajib menyusun:
 1. **Portofolio Capaian Karakter (*Ipsative Adab Portfolio*)**: Rekam jejak pertumbuhan kepribadian santri selama 3 tahun di madrasah dan asrama.
 2. **Karya Tulis Visi Hidup (*My 10-Year Life Vision & Khidmah Blueprint*)**: Naskah komprehensif tentang rencana kontribusi keilmuan, kepemimpinan, dan pengabdian sosial santri bagi umat manusia.
 

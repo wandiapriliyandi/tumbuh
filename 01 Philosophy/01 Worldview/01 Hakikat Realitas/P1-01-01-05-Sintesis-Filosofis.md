@@ -264,7 +264,7 @@ Sintesis filosofis Realisme Teistik Integratif ini menandai babak baru metamorfo
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Sintesis Meta-Ontologis Pesantren TUMBUH, *Kritik atas Polarisasi Materialisme dan Mistisisme Pasif*, 2026.  
+[^1]: Riset Sintesis Meta-Ontologis Ekosistem Pesantren Berbasis TUMBUH, *Kritik atas Polarisasi Materialisme dan Mistisisme Pasif*, 2026.  
 [^2]: Bhaskar, R. (2008), *A Realist Theory of Science*, hlm. 45–70.  
 [^3]: Al-Ghazali, *Tahafut al-Falasifah*, hlm. 80–115.  
 [^4]: Al-Attas, S. M. N. (1995), *Prolegomena to the Metaphysics of Islam*, hlm. 30–58.  

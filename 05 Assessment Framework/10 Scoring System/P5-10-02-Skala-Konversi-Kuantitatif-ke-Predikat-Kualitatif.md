@@ -1,5 +1,5 @@
 # P5-10-02: SKALA KONVERSI KUANTITATIF KE PREDIKAT KUALITATIF (FORM SKP-PREDIKAT)
-## *Monograf Riset Akademik: Standardisasi Skala Pemetaan Skor Numerik Menjadi Predikat Kualitatif Beradab (Quantitative-to-Qualitative Predicate Conversion Scale / Form SKP-Predikat), Integrasi Doktrin 'Marātibut Taqwīm wa Husnul Khitāb' Turats Klasik dengan Criterion-Referenced Grading (Popham), Standards-Based Reporting (Marzano), Serta Desain Predikat Rapor di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Standardisasi Skala Pemetaan Skor Numerik Menjadi Predikat Kualitatif Beradab (Quantitative-to-Qualitative Predicate Conversion Scale / Form SKP-Predikat), Integrasi Doktrin 'Marātibut Taqwīm wa Husnul Khitāb' Turats Klasik dengan Criterion-Referenced Grading (Popham), Standards-Based Reporting (Marzano), Serta Desain Predikat Rapor di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-10-02/MONOGRAF-RISET-SKALA-KONVERSI-PREDIKAT/2026`  
 **Domain**: `05 Assessment Framework` > `10 Scoring System` (Sub-Modul 02: *Quantitative-to-Qualitative Predicate Conversion System*)  
@@ -233,7 +233,7 @@ Penerapan skala konversi predikat kualitatif Form SKP ini menghadirkan keunggula
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-10-02: SKALA KONVERSI KUANTITATIF KE PREDIKAT KUALITATIF (FORM SKP-PREDIKAT)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-10-02: SKALA KONVERSI KUANTITATIF KE PREDIKAT KUALITATIF (FORM SKP-PREDIKAT)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -301,8 +301,8 @@ flowchart TD
 [^1]: Kritik Robert Marzano terhadap kelemahan sistem penilaian huruf tradisional dan keunggulan Standards-Based Grading, Marzano (2010, hlm. 24).  
 [^2]: Landasan Criterion-Referenced Assessment James Popham dalam mengukur penguasaan standar kompetensi autentik, Popham (2017, hlm. 112).  
 [^3]: Az-Zarnuji, *Ta'limul Muta'allim* (2008, hlm. 46), bab adab guru memuliakan murid dan larangan menggunakan kata-kata yang membuat anak putus asa.  
-[^4]: Protokol rekonseptualisasi predikat rapor dan konseling afektif santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan skala konversi predikat kualitatif di Pesantren TUMBUH (2026).  
+[^4]: Protokol rekonseptualisasi predikat rapor dan konseling afektif santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan skala konversi predikat kualitatif di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

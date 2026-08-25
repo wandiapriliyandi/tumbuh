@@ -259,16 +259,16 @@ Penerapan filosofi gradualisme kemandirian insan ini mengokohkan fondasi peradab
 [^2]: QS. Al-Furqan [25]: 32.  
 [^3]: *Shahih al-Bukhari*, Kitab Fadhail al-Qur'an, Hadits No. 4993.  
 [^4]: Vygotsky, L. S. (1978), *Mind in Society*, hlm. 84–91; Bandura, A. (1997), *Self-Efficacy*, hlm. 35–68.  
-[^5]: Riset Psikometri dan Evaluasi Ipsatif Pendidikan Pesantren TUMBUH, 2026.  
+[^5]: Riset Psikometri dan Evaluasi Ipsatif Pendidikan Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^6]: Dokumentasi Intervensi Transformasi Asesmen Ipsatif Santri Baru PBIS TUMBUH, 2026.  
 [^7]: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 2, *Fiqh at-Tadarruj*, hlm. 110–145.  
 [^8]: Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 3, Kitab *Riyadhatun Nafs*, hlm. 75–108.  
 [^9]: Deci, E. L., & Ryan, R. M. (2000), *Psychological Inquiry*, hlm. 227–268.  
 [^10]: Al-Attas, S. M. N. (1980), *The Concept of Education in Islam*, hlm. 55–82.  
 [^11]: Matriks Tingkatan Kesadaran Kemandirian (*Maratib al-Idrak*) Ekosistem TUMBUH, 2026.  
-[^12]: Standar Operasional Prosedur Asesmen Pertumbuhan Ipsatif Pesantren TUMBUH, 2026.  
+[^12]: Standar Operasional Prosedur Asesmen Pertumbuhan Ipsatif Ekosistem Pesantren Berbasis TUMBUH, 2026.  
 [^13]: Petunjuk Teknis Program Mentoring Tutor Sebaya Asrama TUMBUH, 2026.  
-[^14]: Format Standar Raport Portofolio Pertumbuhan Karakter Santri TUMBUH, 2026.  
+[^14]: Format Standar Raport Portofolio Pertumbuhan Karakter Santri dalam sistem TUMBUH, 2026.  
 [^15]: Deklarasi Gradualisme Kemandirian Insan Dewan Riset Epistemologi TUMBUH, 2026.
 
 ---

@@ -28,7 +28,7 @@
   - [4. Rekayasa Formula Konsekuensi Logis 4R & Konferensi Restoratif Lingkaran Asrama 24 Jam](#4-rekayasa-formula-konsekuensi-logis-4r--konferensi-restoratif-lingkaran-asrama-24-jam)
   - [5. Kasuistika Lapangan: Kasus Perkelahian Santri Merusak Fasilitas Kamar & Resolusi Ishlah Restoratif](#5-kasuistika-lapangan-kasus-perkelahian-santri-merusak-fasilitas-kamar--resolusi-ishlah-restoratif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH](#1-eksplanasi-teoretis-prinsip-restorative-conferencing-dan-ishlah-pesantren-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Restorative Conferencing dan Ishlah Ekosistem Pesantren Berbasis TUMBUH](#1-eksplanasi-teoretis-prinsip-restorative-conferencing-dan-ishlah-pesantren-tumbuh)
   - [2. Matriks Komparasi Disiplin Retributif (Lama) vs Disiplin Restoratif PBIS (TUMBUH)](#2-matriks-komparasi-disiplin-retributif-lama-vs-disiplin-restoratif-pbis-tumbuh)
   - [3. Alur Standar Operasional Prosedur (SOP) Konferensi Restoratif Ishlah (Lima Tahapan Baku)](#3-alur-standar-operasional-prosedur-sop-konferensi-restoratif-ishlah-lima-tahapan-baku)
   - [4. Piagam Perjanjian Restoratif & Protokol Reintegrasi Kamar Tanpa Stigma (No-Stigma Circle Protocol)](#4-piagam-perjanjian-restoratif--protokol-reintegrasi-kamar-tanpa-stigma-no-stigma-circle-protocol)
@@ -115,7 +115,7 @@ TUMBUH merumuskan **Formula Konsekuensi Logis 4R**:
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Restorative Conferencing dan Ishlah Pesantren TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Restorative Conferencing dan Ishlah Ekosistem Pesantren Berbasis TUMBUH
 
 Ekosistem TUMBUH merumuskan keadilan restoratif ke dalam **Arsitektur Tiga Sayap Keadilan Ishlah (*Arkan al-'Adalah al-Ishlahiyyah*)**:
 
@@ -210,7 +210,7 @@ Prinsip restorative conferencing dan ishlah al-bain ini membawa implikasi agung 
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-06-04: PRINSIP RESTORATIVE CONFERENCING DAN ISHLAH AL-BAIN (WHOLE-COMMUNITY RESTORATIVE JUSTICE)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-06-04: PRINSIP RESTORATIVE CONFERENCING DAN ISHLAH AL-BAIN (WHOLE-COMMUNITY RESTORATIVE JUSTICE)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).

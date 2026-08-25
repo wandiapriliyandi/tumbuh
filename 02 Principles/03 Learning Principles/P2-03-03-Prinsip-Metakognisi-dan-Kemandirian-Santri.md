@@ -28,7 +28,7 @@
   - [4. Rekayasa Pola Pikir: Penanaman Growth Mindset Carol S. Dweck & Neurosains Plastisitas Otak Pembelajar](#4-rekayasa-pola-pikir-penanaman-growth-mindset-carol-s-dweck--neurosains-plastisitas-otak-pembelajar)
   - [5. Kasuistika Lapangan: Kasus Santri Pasif Menjadi Pembelajar Otonom & Resolusi Metakognitif](#5-kasuistika-lapangan-kasus-santri-pasif-menjadi-pembelajar-otonom--resolusi-metakognitif)
 - [BAB II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bab-ii-formulasi-konseptual--pembahasan-mendalam)
-  - [1. Eksplanasi Teoretis Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH](#1-eksplanasi-teoretis-prinsip-metakognisi-dan-kemandirian-belajar-santri-tumbuh)
+  - [1. Eksplanasi Teoretis Prinsip Metakognisi dan Kemandirian Belajar Santri dalam sistem TUMBUH](#1-eksplanasi-teoretis-prinsip-metakognisi-dan-kemandirian-belajar-santri-tumbuh)
   - [2. Matriks Siklus Tiga Fase Self-Regulated Learning (SRL) dalam Rutinitas Santri 24 Jam](#2-matriks-siklus-tiga-fase-self-regulated-learning-srl-dalam-rutinitas-santri-24-jam)
   - [3. Matriks Transformasi Fixed Mindset Menuju Growth Mindset Islami](#3-matriks-transformasi-fixed-mindset-menuju-growth-mindset-islami)
   - [4. Protokol Muhasabah Kognitif & Jurnal Refleksi Belajar Mandiri (Self-Regulated Study Protocol)](#4-protokol-muhasabah-kognitif--jurnal-refleksi-belajar-mandiri-self-regulated-study-protocol)
@@ -111,7 +111,7 @@ Psikologi motivasi membuktikan keunggulan pola pikir bertumbuh (*Growth Mindset*
 
 ---
 
-### 1. Eksplanasi Teoretis Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH
+### 1. Eksplanasi Teoretis Prinsip Metakognisi dan Kemandirian Belajar Santri dalam sistem TUMBUH
 
 Ekosistem TUMBUH merumuskan kemandirian belajar ke dalam **Arsitektur Tiga Sayap Metakognisi Santri (*Arkan at-Ta'allum adz-Dzati*)**:
 
@@ -138,7 +138,7 @@ flowchart TD
 
 ### 2. Matriks Siklus Tiga Fase Self-Regulated Learning (SRL) dalam Rutinitas Santri 24 Jam
 
-| Fase Siklus SRL | Waktu Operasional di Pesantren | Aktivitas Mandiri Santri TUMBUH | Panduan Pendampingan Musyrif |
+| Fase Siklus SRL | Waktu Operasional di Pesantren | Aktivitas Mandiri Santri dalam sistem TUMBUH | Panduan Pendampingan Musyrif |
 | :--- | :--- | :--- | :--- |
 | **1. Forethought (Perencanaan)** | Ba'da Isya (20.00–20.15).| Menuliskan 2 target belajar di buku refleksi.| Musyrif mengecek kejelasan target.|
 | **2. Performance (Pelaksanaan)** | Jam Belajar Mandiri (20.15–21.15).| Membaca kitab, latihan soal, & menandai materi sulit.| Musyrif menjaga keheningan ruangan.|
@@ -189,7 +189,7 @@ Prinsip metakognisi dan kemandirian belajar ini membawa implikasi agung bagi per
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P2-03-03: PRINSIP METAKOGNISI DAN KEMANDIRIAN BELAJAR SANTRI (METACOGNITION & SELF-REGULATED LEARNING)** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P2-03-03: PRINSIP METAKOGNISI DAN KEMANDIRIAN BELAJAR SANTRI (METACOGNITION & SELF-REGULATED LEARNING)** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -257,7 +257,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Prinsip Metakognisi dan Kemandirian Belajar Santri TUMBUH, *Kritik atas Ketergantungan Pengawasan Represif*, 2026.  
+[^1]: Riset Prinsip Metakognisi dan Kemandirian Belajar Santri dalam sistem TUMBUH, *Kritik atas Ketergantungan Pengawasan Represif*, 2026.  
 [^2]: Atsar Sayyidina Umar bin Khattab RA; Al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 4, Kitab *Al-Muraqabah wal-Muhasabah*, hlm. 380–415.  
 [^3]: QS. Ali 'Imran [3]: 191.  
 [^4]: Zimmerman, B. J. (2002), *Theory Into Practice*, hlm. 64–70; Zimmerman, B. J. (2008), *American Educational Research Journal*, hlm. 166–183.  
@@ -266,7 +266,7 @@ flowchart TD
 [^7]: Master Blueprint Perencanaan Belajar Mandiri Santri Ekosistem TUMBUH, 2026.  
 [^8]: Panduan Manajemen Fokus dan Eliminasi Distraksi Belajar Asrama TUMBUH, 2026.  
 [^9]: Standar Operasional Prosedur Jurnal Muhasabah Kognitif Malam TUMBUH, 2026.  
-[^10]: Petunjuk Teknis Rubrik Refleksi Diri dan Kemandirian Santri TUMBUH, 2026.  
+[^10]: Petunjuk Teknis Rubrik Refleksi Diri dan Kemandirian Santri dalam sistem TUMBUH, 2026.  
 [^11]: Deklarasi Pemuliaan Pembelajar Otonom Beradab Dewan Riset Epistemologi Ekosistem TUMBUH, 2026.
 
 ---

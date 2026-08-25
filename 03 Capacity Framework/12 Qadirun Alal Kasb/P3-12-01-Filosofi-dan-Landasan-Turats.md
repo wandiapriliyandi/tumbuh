@@ -1,5 +1,5 @@
 # P3-12-01: FILOSOFI DAN LANDASAN TURATS QADIRUN ALAL KASB
-## *Monograf Riset Akademik: Ontologi Kemandirian Finansial dalam Worldview Islam, Doktrin Kasbul Yad & 'Iffatun Nafs dalam Khazanah Turats, Epistemologi Kitab Al-Kasb (Imam Asy-Syaibani) & Adabul Kasb (Imam Al-Ghazali), Konvergensi Teori Entrepreneurial Mindset & Self-Efficacy, Serta Rekayasa Ekosistem Kewirausahaan Santri 24 Jam di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Ontologi Kemandirian Finansial dalam Worldview Islam, Doktrin Kasbul Yad & 'Iffatun Nafs dalam Khazanah Turats, Epistemologi Kitab Al-Kasb (Imam Asy-Syaibani) & Adabul Kasb (Imam Al-Ghazali), Konvergensi Teori Entrepreneurial Mindset & Self-Efficacy, Serta Rekayasa Ekosistem Kewirausahaan Santri 24 Jam di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P3-12-01/MONOGRAF-RISET-FILOSOFI-TURATS-QADIRUN-ALAL-KASB/2026`  
 **Domain**: `03 Capacity Framework` > `12 Qadirun Alal Kasb` (Sub-Modul 01: *Philosophy & Turats Foundation*)  
@@ -25,7 +25,7 @@
   - [1. Latar Belakang Masalah: Bahaya Mentalitas Meminta-minta Berkedok Tawakkul Semu](#1-latar-belakang-masalah-bahaya-mentalitas-meminta-minta-berkedok-tawakkul-semu)
   - [2. Eksegesis Turats: Kajian Mendalam Kitab Al-Kasb Asy-Syaibani & Adabul Kasb Al-Ghazali](#2-eksegesis-turats-kajian-mendalam-kitab-al-kasb-asy-syaibani--adabul-kasb-al-ghazali)
   - [3. Konvergensi Sains Entrepreneurial Mindset & Teori Efikasi Diri Ekonomi (Economic Self-Efficacy)](#3-konvergensi-sains-entrepreneurial-mindset--teori-efikasi-diri-ekonomi-economic-self-efficacy)
-  - [4. Rekayasa Lingkungan 24 Jam: Ekosistem Laboratorium Bisnis & Koperasi Santri TUMBUH](#4-rekayasa-lingkungan-24-jam-ekosistem-laboratorium-bisnis--koperasi-santri-tumbuh)
+  - [4. Rekayasa Lingkungan 24 Jam: Ekosistem Laboratorium Bisnis & Koperasi Santri dalam sistem TUMBUH](#4-rekayasa-lingkungan-24-jam-ekosistem-laboratorium-bisnis--koperasi-santri-tumbuh)
   - [5. Kasuistika Lapangan Klinis & Protokol De-eskalasi Mentalitas Santri yang Malas Bekerja Karena Berdalih 'Cukup Berdoa Saja'](#5-kasuistika-lapangan-klinis--protokol-de-eskalasi-mentalitas-santri-yang-malas-bekerja-karena-berdalih-cukup-berdoa-saja)
 - [BAGIAN II: FORMULASI KONSEPTUAL & PEMBAHASAN MENDALAM](#bagian-ii-formulasi-konseptual--pembahasan-mendalam)
   - [1. Arsitektur Filosofis Qadirun 'Alal Kasb dalam Ekosistem TUMBUH](#1-arsitektur-filosofis-qadirun-alal-kasb-dalam-ekosistem-tumbuh)
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-### 4. Rekayasa Lingkungan 24 Jam: Ekosistem Laboratorium Bisnis & Koperasi Santri TUMBUH
+### 4. Rekayasa Lingkungan 24 Jam: Ekosistem Laboratorium Bisnis & Koperasi Santri dalam sistem TUMBUH
 
 Kemandirian ekonomi santri dihidupkan melalui unit bisnis nyata di asrama:
 
@@ -230,7 +230,7 @@ Penerapan kapasitas Qadirun 'Alal Kasb mentransformasikan seluruh ekosistem pesa
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-12-01: FILOSOFI DAN LANDASAN TURATS QADIRUN ALAL KASB** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-12-01: FILOSOFI DAN LANDASAN TURATS QADIRUN ALAL KASB** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -302,7 +302,7 @@ flowchart TD
 [^4]: Muhammad bin Al-Hasan Asy-Syaibani, *Kitab Al-Kasb* (1997, hlm. 35).  
 [^5]: Riwayat atsar Umar bin Al-Khaththab RA dalam *Ihya' 'Ulumiddin* (2018, Jilid 2, hlm. 84).  
 [^6]: Protokol transformasi paradigma wirausaha santri melalui pembuktian sejarah dan proyek penciptaan nilai nyata, TUMBUH (2026).  
-[^7]: Dampak kelembagaan kedaulatan ekonomi mandiri terhadap izzah dan independensi pesantren TUMBUH (2026).  
+[^7]: Dampak kelembagaan kedaulatan ekonomi mandiri terhadap izzah dan independensi ekosistem pesantren berbasis TUMBUH (2026).  
 
 ---
 

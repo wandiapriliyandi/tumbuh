@@ -1,5 +1,5 @@
 # P5-03-05: MODEL VALIDASI PSIKOMETRI MULTI-TRAIT MULTI-METHOD (MTMM)
-## *Monograf Riset Akademik: Validasi Konstruk Lintas Sifat dan Lintas Metode (Multi-Trait Multi-Method / MTMM Matrix) pada Pengukuran Karakter Santri TUMBUH, Integrasi Kaidah Al-Jam'u bainar Riwayatain Turats Klasik dengan Campbell-Fiske Construct Validity & Confirmatory Factor Analysis (CFA), Serta Verifikasi Validitas Konvergen dan Diskriminan di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Validasi Konstruk Lintas Sifat dan Lintas Metode (Multi-Trait Multi-Method / MTMM Matrix) pada Pengukuran Karakter Santri dalam sistem TUMBUH, Integrasi Kaidah Al-Jam'u bainar Riwayatain Turats Klasik dengan Campbell-Fiske Construct Validity & Confirmatory Factor Analysis (CFA), Serta Verifikasi Validitas Konvergen dan Diskriminan di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P5-03-05/MONOGRAF-RISET-VALIDASI-PSIKOMETRI-MTMM/2026`  
 **Domain**: `05 Assessment Framework` > `03 Assessment Model` (Sub-Modul 05: *Multi-Trait Multi-Method Psychometric Validation Model*)  
@@ -205,7 +205,7 @@ Angka Lainnya: Validitas Diskriminan Heterotrait (r = 0.27 - 0.45, Memenuhi Syar
            LEMBAR HASIL UJI VALIDITAS MTMM (FORM MTM-KARAKTER)
                EKOSISTEM TUMBUH PESANTREN — KOMISI AUDIT PSIKOMETRI INSTRUMEN
 ====================================================================================================
-Nama Instrumen  : Baterai Asesmen Karakter Santri TUMBUH (BAK-360)
+Nama Instrumen  : Baterai Asesmen Karakter Santri dalam sistem TUMBUH (BAK-360)
 Sampel Kohort   : 350 Santri Jenjang J1 - J4 (Tahun Ajaran 2025/2026)
 Software Uji    : R Lavaan Package (Confirmatory Factor Analysis SEM)
 
@@ -243,7 +243,7 @@ Penerapan model validasi psikometri MTMM ini menghadirkan keunggulan peradaban:
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan dan operasionalisasi **P5-03-05: MODEL VALIDASI PSIKOMETRI MULTI-TRAIT MULTI-METHOD (MTMM)** di lingkungan pesantren TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
+Penerapan dan operasionalisasi **P5-03-05: MODEL VALIDASI PSIKOMETRI MULTI-TRAIT MULTI-METHOD (MTMM)** di lingkungan pesantren berbasis sistem TUMBUH bertumpu pada kesatuan sistemik antara nilai syariat dan praksis terukur:
 
 #### A. Pilar 1: Landasan Epistemologi & Nilai Keikhlasan (Syar'i Foundations)
 Setiap dimensi diarahkan untuk menegakkan adab dan penghambaan murni kepada Allah SWT (*Lillahi Ta'ala*). Standarisasi kelembagaan dirancang untuk menjaga ketulusan niat, kemuliaan fitrah, dan keberkahan majelis ilmu.
@@ -311,8 +311,8 @@ flowchart TD
 [^1]: Kerangka pengujian validitas konvergen dan diskriminan menggunakan Multi-Trait Multi-Method (MTMM), Campbell & Fiske (1959, hlm. 84).  
 [^2]: Analisis Confirmatory Factor Analysis (CFA) pada data MTMM untuk memisahkan trait dan method variance, Kenny & Kashy (1992, hlm. 168).  
 [^3]: Ibnu Ash-Shalah, *'Ulumul Hadits* (2000, hlm. 82), bab metodologi Al-I'tibar, Syawahid, dan Mutaba'at dalam verifikasi sanad.  
-[^4]: Protokol eliminasi butir angket bias dan pemurnian psikometri instrumen santri TUMBUH (2026).  
-[^5]: Dampak kelembagaan penerapan model validasi psikometri MTMM di Pesantren TUMBUH (2026).  
+[^4]: Protokol eliminasi butir angket bias dan pemurnian psikometri instrumen santri dalam sistem TUMBUH (2026).  
+[^5]: Dampak kelembagaan penerapan model validasi psikometri MTMM di Ekosistem Pesantren Berbasis TUMBUH (2026).  
 
 ---
 

@@ -1,5 +1,5 @@
 # P4-04-02: TANGGA KEPEMIMPINAN SANTRI — SERVANT LEADERSHIP (QIYADAH KHADIMAH)
-## *Monograf Riset Akademik: Trajektori Evolusi Kepemimpinan Santri dari Followership Mandiri Menuju Transformational Servant Leader (Jenjang J1–J4), Integrasi Doktrin Sayyidul Qaumi Khadimuhum dengan Greenleaf's Servant Leadership & Kouzes-Posner's Leadership Challenge, Serta Desain Matriks Kaderisasi Kepemimpinan Tanpa Feodalisme di Pesantren TUMBUH*
+## *Monograf Riset Akademik: Trajektori Evolusi Kepemimpinan Santri dari Followership Mandiri Menuju Transformational Servant Leader (Jenjang J1–J4), Integrasi Doktrin Sayyidul Qaumi Khadimuhum dengan Greenleaf's Servant Leadership & Kouzes-Posner's Leadership Challenge, Serta Desain Matriks Kaderisasi Kepemimpinan Tanpa Feodalisme di Ekosistem Pesantren Berbasis TUMBUH*
 
 **Nomor Identifikasi**: `P4-04-02/MONOGRAF-RISET-TANGGA-KEPEMIMPINAN-SERVANT-LEADERSHIP/2026`  
 **Domain**: `04 Progression Framework` > `04 Mastery Progression` (Sub-Modul 02: *Servant Leadership Mastery Staircase*)  

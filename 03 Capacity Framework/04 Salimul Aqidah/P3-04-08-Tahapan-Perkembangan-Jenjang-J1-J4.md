@@ -312,7 +312,7 @@ flowchart TD
 
 ### Pembedahan Deskriptif Komprehensif & Analisis Integratif Nilai-Praksis
 
-Penerapan konsep **P3-04-08: TAHAPAN PERKEMBANGAN TANGGA J1–J4 SALIMUL AQIDAH** di ekosistem pesantren TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
+Penerapan konsep **P3-04-08: TAHAPAN PERKEMBANGAN TANGGA J1–J4 SALIMUL AQIDAH** di ekosistem pesantren berbasis sistem TUMBUH memerlukan pemahaman multidimensional yang memadukan khazanah turats syariat dan konsensus sains pendidikan modern:
 
 #### A. Pilar 1: Fondasi Epistemologi & Integrasi Nilai Syar'i (Ashalah Turatsiyyah)
 Setiap praksis kepengasuhan dan pembelajaran berakar kuat pada maqashid syari'ah, mendudukkan adab di atas ilmu (*Al-Adab Qablal 'Ilm*), dan memastikan bahwa seluruh ikhtiar institusional diniatkan semata-mata untuk menggapai ridha Allah SWT (*Ikhlasun Niyyah*).
@@ -380,7 +380,7 @@ flowchart TD
 
 ### 3. Catatan Kaki Akademis (*Footnotes*)
 
-[^1]: Riset Longitudinal Perkembangan Karakter Santri TUMBUH, *Evaluasi Efektivitas Model Tadarruj Asrama*, 2026.  
+[^1]: Riset Longitudinal Perkembangan Karakter Santri dalam sistem TUMBUH, *Evaluasi Efektivitas Model Tadarruj Asrama*, 2026.  
 [^2]: Ibnu Abdil Barr, *Jami' Bayan al-'Ilmi wa Fadhlihi*, Jilid 2, hlm. 120–145.  
 [^3]: *Sunan Ibni Majah*, Kitab al-Muqaddimah, Bab fil Iman, Hadits No. 61.  
 [^4]: QS. Al-Furqan [25]: 32.  
