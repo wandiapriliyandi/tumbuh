@@ -1,39 +1,69 @@
-﻿# P5-01: Filosofi Asesmen Formatif Restoratif dan Growth Mindset
+# P5-01: DOKUMEN INDUK FILOSOFI ASESMEN FORMATIF-IPSATIF-RESTORATIF
+## *Arsitektur Paradigma dan Epistemologi Evaluasi Pertumbuhan Santri (Prinsip Non-Stigmatisasi, Integrasi Tazkiyatun Nafs, Growth Mindset Feedback, Etika Kerahasiaan Data Hifzhul Amanah, Serta Asesmen Ipsatif Fitrah) di Ekosistem TUMBUH Pesantren*
 
-## Status Dokumen
-* **Status**: 🌟 **A+ (Tervalidasi & Siap Diimplementasikan)**
-* **Sub-Domain**: `05 Assessment Framework / 01 Assessment Philosophy`
-* **Penanggung Jawab Keilmuan**: Dewan Keilmuan TUMBUH (*Pakar Metodologi Riset & Pakar Filosofi TUMBUH*)
+**Nomor Identifikasi**: `P5-01/DOKUMEN-INDUK-FILOSOFI-ASESMEN-RESTORATIF/2026`  
+**Domain**: `05 Assessment Framework` > `01 Assessment Philosophy` (Gugus Sub-Domain 01: *Restorative & Ipsative Assessment Philosophy*)  
+**Klasifikasi Naskah**: *Master Architecture & Navigation Monograph* (Dokumen Induk Peta Jalan Riset & Navigasi 5 Monograf Ilmiah Filosofi Asesmen)  
+**Rumpun Disiplin Pengkaji**: Filsafat Evaluasi Pendidikan Islam, Epistemologi Tazkiyatun Nafs & Fitrah, Teori Keadilan Restoratif, Etika Psikometri Pendidikan  
 
 ---
 
-## 1. Konseptualisasi Asesmen Formatif Restoratif
+> ### 💡 INTISARI EKSEKUTIF (EXECUTIVE SUMMARY)
+>
+> * **Kedudukan Fondasional Gugus Filosofi Asesmen:**  
+>   Gugus *Assessment Philosophy (Filosofi Asesmen Formatif-Ipsatif-Restoratif)* merupakan jangkar epistemologis bagi seluruh sistem evaluasi di Domain 05. Evaluasi di pesantren TUMBUH tidak diposisikan sebagai "vonis penghakiman retributif" yang melabeli, mempermalukan (*Public Shaming*), atau meranking santri secara destruktif, melainkan sebagai **Cermin Pensucian Jiwa (*Mir'ātut Tazkiyah*)** yang memuliakan martabat fitrah insan (*Karāmatul Insān*) dan menuntun langkah perbaikan amal.
+> * **Integrasi Holistik Turats & Konsensus Sains Evaluasi Modern:**  
+>   Gugus riset ini memadukan khazanah agung Islam tentang amanah menutup aib (*Sitrul 'Uyūb*), tingkatan jiwa (*Marātib an-Nafs*), dan kesungguhan ikhtiar (*Al-Mujāhadah*) dengan konsensus sains mutakhir (*Howard Zehr's Restorative Justice, Carol Dweck's Growth Mindset, Gwyneth Hughes' Ipsative Assessment, FERPA/GDPR Privacy Standards, dan Hattie-Timperley's Feedback Model*).
+> * **Struktur Lengkap 5 Berkas Monograf Riset Ilmiah:**  
+>   Dokumen induk ini memetakan dan menghubungkan 5 berkas monograf penelitian akademik komprehensif (~140 KB total riset) yang menyajikan prinsip non-stigmatisasi, jurnal pensucian batin Kasyf adz-Dzat, bahasa umpan balik bertumbuh, perlindungan kerahasiaan enkripsi AES-256, dan rapor trajektori radar diri ipsatif.
 
-Asesmen dalam ekosistem **TUMBUH** berlandaskan pada pandangan bahwa **setiap santri dilahirkan di atas fitrah yang suci** (QS. Ar-Rum: 30). Oleh karena itu, kesalahan atau pelanggaran adab bukanlah kecacatan permanen pada kepribadian santri, melainkan indikasi perlunya dukungan bimbingan (*Scaffolding Gap*).
+---
+
+## 📑 PETA NAVIGASI LIMA MONOGRAF RISET FILOSOFI ASESMEN
+
+Berikut adalah daftar lengkap 5 monograf riset akademik dalam gugus **`01 Assessment Philosophy`**:
 
 ```mermaid
-graph TD
-    PhilAss["Falsafah Asesmen Formatif Restoratif"]
-    PhilAss --> NonStigma["1. Penilaian Non-Stigmatisasi<br/>Dilarang memberi label anak nakal, malas, atau retas pada hasil penilaian."]
-    PhilAss --> GrowthMindset["2. Penanaman Growth Mindset (Carol Dweck)<br/>Fokus penilaian pada usaha (effort), perkembangan diri, & strategi perbaikan."]
-    PhilAss --> RestorativeFeedback["3. Umpan Balik Restoratif<br/>Umpan balik berorientasi pada pemulihan hubungan & solusi tindakan konkret."]
+flowchart TD
+    subgraph GugusAssessmentPhilosophy["STRUKTUR 5 MONOGRAF FILOSOFI ASESMEN TUMBUH"]
+        subgraph MARTABATDANTAZKIYAH["I. MARTABAT FITRAH & PENSUCIAN JIWA"]
+            M01["[P5-01-01] Prinsip Penilaian Non-Stigmatisasi & Restoratif<br/>• Karamatul Insan, Sitrul 'Uyub, & Restorative Expungement"]
+            M02["[P5-01-02] Integrasi Tazkiyatun Nafs & Asesmen Fitrah<br/>• Maratib an-Nafs, Qalbun Salim, & Jurnal Kasyf adz-Dzat"]
+        end
+
+        subgraph MINDSETDANPRIVASI["II. POLA PIKIR & PERLINDUNGAN PRIVASI"]
+            M03["[P5-01-03] Penerapan Growth Mindset dalam Umpan Balik<br/>• Process-Praise, The Power of Yet, & Model Hattie-Timperley"]
+            M04["[P5-01-04] Etika & Kerahasiaan Data Asesmen Santri<br/>• Hifzhul Amanah, Enkripsi AES-256, & RBAC Multi-Tingkat"]
+        end
+
+        subgraph IPSATIFDANREKOR["III. PARADIGMA ASESMEN IPSATIF"]
+            M05["[P5-01-05] Epistemologi Asesmen Ipsatif & Pertumbuhan Fitrah<br/>• Kullun Muyassarun, Delta Pertumbuhan (ΔG), & Radar Diri"]
+        end
+
+        MARTABATDANTAZKIYAH ==> MINDSETDANPRIVASI ==> IPSATIFDANREKOR
+    end
 ```
 
 ---
 
-## 2. Perbandingan Asesmen Tradisional vs Asesmen TUMBUH
+## 📚 DESKRIPSI RINGKAS 5 BERKAS MONOGRAF
 
-| Parameter Asesmen | Asesmen Tradisional / Konvensional | Asesmen Ekosistem TUMBUH |
-| :--- | :--- | :--- |
-| **Fokus Utama** | Mengukur pencapaian akhir (*Summative ONLY*) & perangkingan. | Membimbing pertumbuhan berkelanjutan (*Formative & Ipsative Growth*). |
-| **Penyikapan Pelanggaran** | Hukuman fisik/verbal, pengurangan nilai ekstrem, & denda. | Analisis Fungsional Perilaku (FBA) & Rencana Pemulihan Restoratif. |
-| **Sumber Penilaian** | Subjektivitas 1 pengajar / pengasuh. | Triangulasi Data 360-Derajat (Musyrif 40%, Guru 30%, Santri 30%). |
-| **Dampak Psikologis** | Kecemasan nilai, perbandingan unfaedah, & keputusasaan. | Kesadaran diri (*Self-Awareness*), motivasi intrinsik, & *Growth Mindset*. |
+1. **[P5-01-01: Prinsip Penilaian Non-Stigmatisasi dan Restoratif](file:///c:/xampp/htdocs/tumbuh/05%20Assessment%20Framework/01%20Assessment%20Philosophy/P5-01-01-Prinsip-Penilaian-Non-Stigmatisasi-dan-Restoratif.md)**  
+   *Membahas eliminasi mutlak labeling teori dan stigmatisasi santri, doktrin menutup aib (Sitrul 'Uyub), pemisahan tindakan salah dari martabat pribadi insan, dan pemutihan catatan pelanggaran (Restorative Expungement).*
+2. **[P5-01-02: Integrasi Tazkiyatun Nafs dan Asesmen Fitrah](file:///c:/xampp/htdocs/tumbuh/05%20Assessment%20Framework/01%20Assessment%20Philosophy/P5-01-02-Integrasi-Tazkiyatun-Nafs-dan-Asesmen-Fitrah.md)**  
+   *Membahas evaluasi kalbu menembus motif niat terdalam, tingkatan jiwa (Ammarah, Lawwamah, Muthma'innah), diagnostik penyakit hati (riya', 'ujub, hasad), dan jurnal refleksi Kasyf adz-Dzat.*
+3. **[P5-01-03: Penerapan Growth Mindset dalam Umpan Balik Asesmen](file:///c:/xampp/htdocs/tumbuh/05%20Assessment%20Framework/01%20Assessment%20Philosophy/P5-01-03-Penerapan-Growth-Mindset-dalam-Umpan-Balik.md)**  
+   *Membahas transformasi dari pujian bakat statis (Person-Praise) menuju apresiasi proses dan ikhtiar (Process-Praise), doktrin mujahadah Islam, The Power of Yet, dan 4 lapis umpan balik Hattie-Timperley.*
+4. **[P5-01-04: Etika dan Kerahasiaan Data Asesmen Santri](file:///c:/xampp/htdocs/tumbuh/05%20Assessment%20Framework/01%20Assessment%20Philosophy/P5-01-04-Etika-dan-Kerahasiaan-Data-Asesmen-Santri.md)**  
+   *Membahas protokol privasi data santri 24 jam, doktrin amanah majelis, standar FERPA/GDPR dan APA Ethics, enkripsi AES-256, kontrol otorisasi RBAC, dan pencegahan ghibah di ruang pengasuhan.*
+5. **[P5-01-05: Epistemologi Asesmen Ipsatif dan Pertumbuhan Fitrah](file:///c:/xampp/htdocs/tumbuh/05%20Assessment%20Framework/01%20Assessment%20Philosophy/P5-01-05-Epistemologi-Asesmen-Ipsatif-Perkembangan.md)**  
+   *Membahas dekonstruksi perankingan kelas normatif kurva lonceng, hadits Kullu Muyassarun, pengukuran Delta Pertumbuhan Ipsatif ($\Delta G$), dan penerbitan Rapor Trajektori Radar Diri (Form RTI-Personal).*
 
 ---
 
-## 3. Matriks Prinsip Etika Asesmen Pesantren
+## 🎯 STANDAR PENJAMINAN MUTU FILOSOFI ASESMEN
 
-1. **Prinsip Kerahasiaan (*Confidentiality*)**: Rekam data adab dan konseling santri tersimpan aman dalam sistem terenkripsi digital.
-2. **Prinsip Kejujuran Reflektif (*Honest Reflection*)**: Santri diajar menilai dirinya secara jujur tanpa takut dihukum apabila mengutarakan kekurangan belajarnya.
-3. **Prinsip Keadilan Kontekstual (*Contextual Fairness*)**: Penilaian memperhitungkan tingkat perkembangan tangga santri (T1, T2, T3, T4).
+Penerapan gugus **Filosofi Asesmen Formatif-Ipsatif-Restoratif (Assessment Philosophy)** menjamin bahwa:
+1. **Evaluasi Memanusiakan Manusia (*Dignified Humanizing Evaluation*)**: Setiap proses penilaian memperlakukan santri sebagai makhluk mulia ciptaan Allah yang senantiasa memiliki ruang untuk bertumbuh dan bertaubat.
+2. **Kesehatan Mental dan Spiritual Terlindungi 100% (*Optimal Spiritual & Psychological Safety*)**: Lingkungan pesantren steril dari budaya ejekan, vonis aib publik, dan rivalitas toksik perankingan.
+3. **Pemberdayaan Kemandirian Belajar Sepanjang Hayat (*Lifelong Autonomous Learner*)**: Santri terlatih melakukan muhasabah mandiri, mencintai proses perjuangan belajar, dan memiliki ketangguhan mental (*Grit*) yang kokoh di tengah peradaban dunia.
