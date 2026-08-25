@@ -1,79 +1,57 @@
-# SERI BUKU MASTER EKOSISTEM TUMBUH PESANTREN — JILID II (VOLUME 02)
-# TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER SANTRI TUMBUH
-## *Kerangka Holistik Kompetensi Adab, Taksonomi Fitrah, Trajektori Remaja, Progresi Jenjang J1–J4, dan Puncak Khidmah*
-
-**Nomor Koleksi**: BOOK-SERIES/VOL-02/MASTER-MONOGRAPH/2026/08  
-**Dewan Editor**: Dewan Keilmuan Ekosistem TUMBUH (24 Bidang Kepakaran)  
-**Klasifikasi**: Seri Buku Monograf Akademis & Buku Teks Standar Pembinaan Karakter Pesantren  
-**Repositori**: Ekosistem **TUMBUH** Pesantren
+# BUKU VOLUME 02: TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER SANTRI DALAM SISTEM TUMBUH
+## *Taksonomi 10 Muwashafat Adab, Trajektori Biososial-Spiritual Remaja, Progresi Tangga J1–J4, & Profil Tahap 7 Penggerak*
 
 ---
 
-## 🏛️ SITEMAP & NAVIGASI BAB BUKU VOLUME 02 (ORGANIK & DINAMIS)
-
-`mermaid
-graph TD
-    Vol2["BUKU VOLUME 02: TAKSONOMI KAPASITAS & 10 PROFIL KARAKTER SANTRI TUMBUH"]
-    
-    Vol2 --> B1["BAB 01: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah (4 Sub-Bab)<br/>(Whole-Child, 5 Dimensi Kapasitas, CASEL SEL, & Self-Determination Theory)"]
-    
-    Vol2 --> B2["BAB 02: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH (10 Sub-Bab Mandiri)<br/>(Salimul Aqidah s.d. Nafi'un Lighairihi dalam Indikator Perilaku Faktual 24-Jam)"]
-    
-    Vol2 --> B3["BAB 03: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)<br/>(Gap Limbik-PFC Usia 12-18 Thn, Krisis Identitas, & Scaffolding Musyrif)"]
-    
-    Vol2 --> B4["BAB 04: Progresi Jenjang Kemandirian TUMBUH (J1–J4): Jenjang J1 s.d. T4 (6 Sub-Bab)<br/>(Ta'aruf, Ta'awun, Tafahum, Takaful, Dinamika Transisi/Relapse, & Matriks Rubrik)"]
-    
-    Vol2 --> B5["BAB 05: Puncak Perkembangan: Tahap 7 PENGGERAK (4 Sub-Bab)<br/>(Profil Santri Akhir, Tahun Khidmah, Peer Mentorship, & Mediasi Restoratif)"]
-    
-    Vol2 --> B6["BAB 06: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender (5 Sub-Bab)<br/>(Capaian MTs vs MA, Pendekatan Santri Putra vs Putri, & Epilog Khidmah)"]
-`
+**Nomor Buku**: `BOOK-SERIES/VOL-02/MASTER-2026`  
+**Seri Publikasi**: Seri Buku Master Ekosistem TUMBUH Pesantren (Volume 2 dari 5)  
+**Dewan Editor & Penulis**: Dewan Keilmuan Ekosistem TUMBUH (24 Bidang Kepakaran)  
+**Klasifikasi**: Monograf Riset Akademis, Desain Kurikulum Karakter, & Psikologi Perkembangan Santri  
 
 ---
 
-## 📑 DAFTAR ISI LENGKAP VOLUME 02 (33 SUB-BAB ORGANIK)
+## 📑 DAFTAR ISI LENGKAP VOLUME 02
 
-1. **BAB 1: Arsitektur Kapasitas Holistik Santri Berbasis Fitrah (4 Sub-Bab)**
-   - 1.1 Dekonstruksi Karakter Parsial Menuju Pendekatan *Whole-Child*
-   - 1.2 Lima Dimensi Kapasitas Holistik Santri (*Ruhaniyyah, Wijdaniyyah, Aqliyyah, Jasadiyyah, Mahariyyah*)
-   - 1.3 Integrasi Taksonomi Adab Turats dengan 5 Kompetensi Inti CASEL SEL
-   - 1.4 Teori Penentuan Diri (*Self-Determination Theory*) & Rekayasa Lingkungan Asrama 24-Jam
-2. **BAB 2: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH (10 Sub-Bab Mandiri)**
-   - 2.1 *Salimul Aqidah* (Aqidah Bersih, Pemurnian Tauhid, & Pencegahan Riya')
-   - 2.2 *Shahihul Ibadah* (Ibadah Benar Sesuai Sunnah & Khusyuk 24-Jam)
-   - 2.3 *Matinul Khuluq* (Akhlak Kokoh, Komunikasi Nirkekerasan, & Hifzhul Lisan)
-   - 2.4 *Qadirun 'alal Kasbi* (Kemandirian Finansial, Etos Kerja Asrama, & Kifayah)
-   - 2.5 *Mutsaqqoful Fikri* (Wawasan Luas, Nalar Kritis Turats-Sains, & Tabayyun)
-   - 2.6 *Qowiyyul Jismi* (Kebugaran Raga, Higienitas Thaharah, & Zero Scabies)
-   - 2.7 *Mujahidun Linafsihi* (Penaklukan Hawa Nafsu, Regulasi Diri, & Delayed Gratification)
-   - 2.8 *Munazhzhamun fi Syu'unihi* (Keteraturan Hidup, Manajemen Loker 5S, & Rencana Harian)
-   - 2.9 *Haritsun 'ala Waqtihi* (Disiplin Waktu, Produktivitas Santri, & Eliminasi Kesia-siaan)
-   - 2.10 *Nafi'un Lighairihi* (Kebermanfaatan Sosial, Altruisme Ukhuwah, & Servant Leadership)
-3. **BAB 3: Trajektori Biososial-Spiritual Remaja Pesantren (4 Sub-Bab)**
-   - 3.1 Transisi Pubertas & Dinamika Lonjakan Hormonal di Lingkungan Asrama
-   - 3.2 Kesenjangan Maturasi Sistem Limbik vs Korteks Prefrontal Otak Remaja
-   - 3.3 Penanganan Krisis Identitas (*Identity vs Role Confusion*) Santri
-   - 3.4 Konformitas Sebaya & Musyrif sebagai *External Prefrontal Cortex*
-4. **BAB 4: Progresi Jenjang Kemandirian TUMBUH (J1–J4): Tahapan Perkembangan Karakter J1–J4 (6 Sub-Bab)**
-   - 4.1 Jenjang J1 — Adaptasi (*Ta'aruf*) & Terapi *Homesickness* (Bulan 1–6)
-   - 4.2 Jenjang J2 — Habituasi (*Ta'awun*) & Pembiasaan 24-Jam (Bulan 7–18)
-   - 4.3 Jenjang J3 — Internalisasi (*Tafahum*) & Disiplin Otonom *Muraqabatullah* (Bulan 19–36)
-   - 4.4 Jenjang J4 — Transformasi (*Takaful*) & Keteladanan Kepemimpinan *Qudwah*
-   - 4.5 Dinamika Transisi & Penanganan Regresi Karakter (*Relapse Prevention Tier 2*)
-   - 4.6 Matriks Rubrik Indikator Kenaikan Jenjang J1 ke T4 Berbasis Bukti Faktual
-5. **BAB 5: Puncak Perkembangan: Tahap 7 PENGGERAK dalam Kontinuum 10-Tahap (4 Sub-Bab)**
-   - 5.1 Karakteristik & Profil Kepribadian Santri Tahap 7 Penggerak
-   - 5.2 Desain Program Inkubasi Pengabdian Santri Akhir (*Tahun Khidmah*)
-   - 5.3 Mentorship Sebaya Bebas Perpeloncoan: Mengubah Senior Menjadi Pelindung
-   - 5.4 Mediasi Restoratif (*Ishlah al-Bain*) & Jembatan Transisi Karier Pendidik Tahap 8/9
-6. **BAB 6: Matriks Kompetensi Lintas Jenjang & Diferensiasi Gender (5 Sub-Bab)**
-   - 6.1 Pemetaan Capaian Pembelajaran Karakter Tingkat MTs/SMP (Kelas 7, 8, 9)
-   - 6.2 Pemetaan Capaian Pembelajaran Karakter Tingkat MA/SMA (Kelas 10, 11, 12)
-   - 6.3 Diferensiasi Psikologis dan Pendekatan Pengasuhan Santri Putra (Ksatria)
-   - 6.4 Diferensiasi Psikologis dan Pendekatan Pengasuhan Santri Putri (Anggun)
-   - 6.5 Epilog Volume 02: Menghantarkan Santri Menuju Puncak Keberadaban Khidmah
-7. **DAFTAR PUSTAKA BUKU VOLUME 02 (95 Referensi Primer Otentik)**
-
----
+- [BAB 01: ARSITEKTUR KAPASITAS HOLISTIK BERBASIS FITRAH](#bab-01-arsitektur-kapasitas-holistik-berbasis-fitrah)
+  - [Sub-Bab 1.1: Dekonstruksi Karakter Parsial Menuju Whole-Child Education](#sub-bab-11-dekonstruksi-karakter-parsial-menuju-whole-child-education)
+  - [Sub-Bab 1.2: Lima Dimensi Kapasitas Holistik Santri](#sub-bab-12-lima-dimensi-kapasitas-holistik-santri)
+  - [Sub-Bab 1.3: Integrasi Taksonomi Adab Turats dengan 5 Kompetensi CASEL SEL](#sub-bab-13-integrasi-taksonomi-adab-turats-dengan-5-kompetensi-casel-sel)
+  - [Sub-Bab 1.4: Teori Penentuan Diri (SDT) dan Rekayasa Lingkungan Asrama](#sub-bab-14-teori-penentuan-diri-sdt-dan-rekayasa-lingkungan-asrama)
+- [BAB 02: PROFIL 10 MUWASHAFAT KARAKTER SANTRI](#bab-02-profil-10-muwashafat-karakter-santri)
+  - [Sub-Bab 2.1: Salimul Aqidah (Ketauhidan Murni & Integritas Iman)](#sub-bab-21-salimul-aqidah-ketauhidan-murni--integritas-iman)
+  - [Sub-Bab 2.2: Shahihul Ibadah (Ibadah Sesuai Sunnah & Khusyuk)](#sub-bab-22-shahihul-ibadah-ibadah-sesuai-sunnah--khusyuk)
+  - [Sub-Bab 2.3: Matinul Khuluq (Akhlak Mulia & Keluhuran Budi)](#sub-bab-23-matinul-khuluq-akhlak-mulia--keluhuran-budi)
+  - [Sub-Bab 2.4: Qadirun 'alal Kasbi (Kemandirian Finansial & Jiwa Berdaya)](#sub-bab-24-qadirun-alal-kasbi-kemandirian-finansial--jiwa-berdaya)
+  - [Sub-Bab 2.5: Mutsaqqaful Fikri (Wawasan Luas & Nalar Kritis)](#sub-bab-25-mutsaqqaful-fikri-wawasan-luas--nalar-kritis)
+  - [Sub-Bab 2.6: Qawiyyul Jismi (Kebugaran Fisik & Stamina Khidmah)](#sub-bab-26-qawiyyul-jismi-kebugaran-fisik--stamina-khidmah)
+  - [Sub-Bab 2.7: Mujahidun Linafsihi (Pengendalian Diri & Keteguhan Batin)](#sub-bab-27-mujahidun-linafsihi-pengendalian-diri--keteguhan-batin)
+  - [Sub-Bab 2.8: Munazhzhamun fi Syu'unihi (Keteraturan Hidup & Budaya 5S)](#sub-bab-28-munazhzhamun-fi-syuunihi-keteraturan-hidup--budaya-5s)
+  - [Sub-Bab 2.9: Haritsun 'ala Waqtihi (Manajemen Waktu Produktif)](#sub-bab-29-haritsun-ala-waqtihi-manajemen-waktu-produktif)
+  - [Sub-Bab 2.10: Nafi'un Lighairihi (Kemanfaatan Sosial & Jiwa Melayani)](#sub-bab-210-nafiun-lighairihi-kemanfaatan-sosial--jiwa-melayani)
+- [BAB 03: TRAJEKTORI BIOSOSIAL-SPIRITUAL REMAJA PESANTREN](#bab-03-trajektori-biososial-spiritual-remaja-pesantren)
+  - [Sub-Bab 3.1: Transisi Pubertas dan Dinamika Hormonal Asrama](#sub-bab-31-transisi-pubertas-dan-dinamika-hormonal-asrama)
+  - [Sub-Bab 3.2: Kesenjangan Maturasi Sistem Limbik vs Prefrontal Cortex](#sub-bab-32-kesenjangan-maturasi-sistem-limbik-vs-prefrontal-cortex)
+  - [Sub-Bab 3.3: Krisis Identitas dan Rekonstruksi Konsep Diri Santri](#sub-bab-33-krisis-identitas-dan-rekonstruksi-konsep-diri-santri)
+  - [Sub-Bab 3.4: Konformitas Sebaya & Peran Musyrif sebagai External PFC](#sub-bab-34-konformitas-sebaya--peran-musyrif-sebagai-external-pfc)
+- [BAB 04: PROGRESI TANGGA TUMBUH T1 HINGGA T4](#bab-04-progresi-tangga-tumbuh-t1-hingga-t4)
+  - [Sub-Bab 4.1: Tangga T1: Adaptasi, Ta'aruf, dan Resolusi Homesickness](#sub-bab-41-tangga-t1-adaptasi-taaruf-dan-resolusi-homesickness)
+  - [Sub-Bab 4.2: Tangga T2: Habituasi, Ta'awun, dan Otomatisasi Ibadah 24 Jam](#sub-bab-42-tangga-t2-habituasi-taawun-dan-otomatisasi-ibadah-24-jam)
+  - [Sub-Bab 4.3: Tangga T3: Internalisasi, Tafahum, dan Disiplin Otonom](#sub-bab-43-tangga-t3-internalisasi-tafahum-dan-disiplin-otonom)
+  - [Sub-Bab 4.4: Tangga T4: Transformasi, Takaful, dan Keteladanan Paripurna](#sub-bab-44-tangga-t4-transformasi-takaful-dan-keteladanan-paripurna)
+  - [Sub-Bab 4.5: Dinamika Transisi & Penanganan Regresi Karakter (*CICO Protocol*)](#sub-bab-45-dinamika-transisi--penanganan-regresi-karakter-cico-protocol)
+  - [Sub-Bab 4.6: Matriks Rubrik Indikator Kenaikan Tangga T1–T4](#sub-bab-46-matriks-rubrik-indikator-kenaikan-tangga-t1t4)
+- [BAB 05: PUNCAK PERKEMBANGAN: TAHAP 7 PENGGERAK](#bab-05-puncak-perkembangan-tahap-7-penggerak)
+  - [Sub-Bab 5.1: Karakteristik Santri Tahap 7 Penggerak](#sub-bab-51-karakteristik-santri-tahap-7-penggerak)
+  - [Sub-Bab 5.2: Desain Program Tahun Khidmah & Inkubasi Kepemimpinan](#sub-bab-52-desain-program-tahun-khidmah--inkubasi-kepemimpinan)
+  - [Sub-Bab 5.3: Mentorship Sebaya Bebas Perpeloncoan (*Protective Peer Mentorship*)](#sub-bab-53-mentorship-sebaya-bebas-perpeloncoan-protective-peer-mentorship)
+  - [Sub-Bab 5.4: Mediasi Restoratif dan Transisi Karir Pendidik Muda](#sub-bab-54-mediasi-restoratif-dan-transisi-karir-pendidik-muda)
+- [BAB 06: MATRIKS KOMPETENSI DAN DIFERENSIASI GENDER](#bab-06-matriks-kompetensi-dan-diferensiasi-gender)
+  - [Sub-Bab 6.1: Pemetaan Capaian Tingkat MTs/SMP (Jenjang J1–J2)](#sub-bab-61-pemetaan-capaian-tingkat-mtssmp-jenjang-j1j2)
+  - [Sub-Bab 6.2: Pemetaan Capaian Tingkat MA/SMA (Jenjang J3–J4)](#sub-bab-62-pemetaan-capaian-tingkat-masma-jenjang-j3j4)
+  - [Sub-Bab 6.3: Diferensiasi Pendekatan Pengasuhan Santri Putra](#sub-bab-63-diferensiasi-pendekatan-pengasuhan-santri-putra)
+  - [Sub-Bab 6.4: Diferensiasi Pendekatan Pengasuhan Santri Putri](#sub-bab-64-diferensiasi-pendekatan-pengasuhan-santri-putri)
+  - [Sub-Bab 6.5: Epilog: Menghantarkan Santri Menuju Puncak Kematangan Adab](#sub-bab-65-epilog-menghantarkan-santri-menuju-puncak-kematangan-adab)
+- [DAFTAR PUSTAKA LENGKAP VOLUME 02](#daftar-pustaka-lengkap-volume-02)
 
 ---
 
@@ -242,6 +220,7 @@ Dengan meletakkan fondasi *Whole-Child* ini, kita melangkah menuju **Sub-Bab 1.2
 
 ---
 
+
 # SUB-BAB 1.2: LIMA DIMENSI KAPASITAS HOLISTIK SANTRI
 ## *Strukturisasi Panca Dimensi Pertumbuhan: Ruhaniyyah, Wijdaniyyah, Aqliyyah, Jasadiyyah, dan Mahariyyah*
 
@@ -403,6 +382,7 @@ Inilah perwujudan keadilan kurikulum sejati: menghormati fitrah kemanusiaan sant
 
 ---
 
+
 # SUB-BAB 1.3: INTEGRASI TAKSONOMI ADAB TURATS DENGAN CASEL SEL
 ## *Harmonisasi 5 Kompetensi Sosio-Emosional Kontemporer dengan Matriks Kesantunan Salafus Shalih*
 
@@ -549,6 +529,7 @@ Dengan integrasi taksonomi adab dan CASEL SEL ini, pembinaan karakter santri ber
 
 
 ---
+
 
 # SUB-BAB 1.4: TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA
 ## *Memadukan Otonomi Psikologis (SDT), Rekayasa Tata Ruang Bi'ah Shalihah, dan Penghapusan Titik Rawan 24-Jam*
@@ -722,6 +703,7 @@ Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini
 
 ---
 
+
 # SUB-BAB 2.1: SALIMUL AQIDAH (AQIDAH YANG BERSIH & MURNI)
 ## *Fondasi Tauhid Uluhiyyah, Pembebasan dari Kemunafikan Amali, dan Resiliensi Spiritual Santri 24-Jam*
 
@@ -823,7 +805,9 @@ Untuk menanamkan *Salimul Aqidah* secara berkelanjutan, lembaga menerapkan langk
 [^3]: **Robert A. Emmons & Michael E. McCullough**, "Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life", *Journal of Personality and Social Psychology*, Vol. 84, No. 2 (2003), hlm. 377–389; serta **Kenneth I. Pargament**, *The Psychology of Religion and Coping: Theory, Research, Practice* (New York: Guilford Press, 1997), Bab 4–6, hlm. 90–162.
 [^4]: **Justin L. Barrett**, *Why Would Anyone Believe in God?* (Walnut Creek: AltaMira Press, 2004), Bab 3: "How the Mind Conceives the Divine", hlm. 45–74.
 
+
 ---
+
 
 # SUB-BAB 2.2: SHAHIHUL IBADAH (IBADAH YANG BENAR & KHUSYUK)
 ## *Sinergi Keselarasan Sunnah Nabawiyyah, Kesucian Thaharah, dan Thuma'ninah Batin dalam Ritme Ibadah 24-Jam*
@@ -942,7 +926,9 @@ Untuk memastikan ibadah santri benar dan khusyuk, lembaga menerapkan:
 [^3]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Al-Wabil ash-Shayyib min al-Kalim ath-Thayyib*, Tahqiq: Syaikh Salim al-Hilali (Kairo: Dar Ibn Affan, 1999), hlm. 48–56; serta **Ibnu Qayyim**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid I, hlm. 520–535.
 [^4]: **Andrew Newberg & Mark Robert Waldman**, *How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist* (New York: Ballantine Books, 2009), Bab 2 & 4: "Brain Scan Studies of Spiritual Practices", hlm. 37–68, 85–112.
 
+
 ---
+
 
 # SUB-BAB 2.3: MATINUL KHULUQ (AKHLAK YANG KOKOH & SANTUN)
 ## *Fondasi Ketahanan Moral, Komunikasi Nirkekerasan (NVC), Penjagaan Lisan, dan Eliminasi Agresi Feodal 24-Jam*
@@ -1054,7 +1040,9 @@ Untuk menjaga iklim akhlak yang kokoh, lembaga menetapkan:
 [^4]: **Marshall B. Rosenberg**, *Nonviolent Communication: A Language of Life* (Encinitas: PuddleDancer Press, 2003; Edisi ke-3, 2015), Bab 1–4, hlm. 1–66.
 [^5]: **Giacomo Rizzolatti & Corrado Sinigaglia**, *Mirrors in the Brain: How Our Minds Share Actions and Emotions* (Oxford: Oxford University Press, 2008), Bab 5 & 6: "Empathy and the Mirror System", hlm. 135–184.
 
+
 ---
+
 
 # SUB-BAB 2.4: QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)
 ## *Fondasi Kemandirian Hidup, Keterampilan Vokasional Asrama, Literasi Finansial Remaja, dan Pembebasan dari Mentalitas Ketergantungan*
@@ -1162,7 +1150,9 @@ Lembaga mengoperasionalkan pembinaan kemandirian melalui dua inovasi:
 [^4]: **Albert Bandura**, *Self-Efficacy: The Exercise of Control* (New York: W. H. Freeman and Company, 1997), Bab 2 & 3: "Sources of Self-Efficacy", hlm. 79–115; serta **Albert Bandura**, *Social Foundations of Thought and Action: A Social Cognitive Theory* (Englewood Cliffs: Prentice-Hall, 1986).
 [^5]: **Annamaria Lusardi & Olivia S. Mitchell**, "The economic importance of financial literacy: Theory and evidence", *Journal of Economic Literature*, Vol. 52, No. 1 (2014), hlm. 5–44.
 
+
 ---
+
 
 # SUB-BAB 2.5: MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)
 ## *Sintesis Epistemologi Turats, Nalar Kritis Ilmiah, Metakognisi Belajar, dan Verifikasi Tabayyun di Era Informasi*
@@ -1275,7 +1265,9 @@ Untuk memfasilitasi bertumbuhnya nalar kritis yang beradab, lembaga menyelenggar
 [^3]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer, 2011), Bab 2 & 3: "Human Cognitive Architecture and Cognitive Load", hlm. 15–42.
 [^4]: **John H. Flavell**, "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry", *American Psychologist*, Vol. 34, No. 10 (1979), hlm. 906–911; serta **Douglas J. Hacker, John Dunlosky, & Arthur C. Graesser** (Eds.), *Handbook of Metacognition in Education* (New York: Routledge, 2009), hlm. 1–20.
 
+
 ---
+
 
 # SUB-BAB 2.6: QOWIYYUL JISMI (KEBUGARAN RAGA & HIGIENITAS THAHARAH)
 ## *Fondasi Kekuatan Jasmani, Integrasi Kedokteran Nabawi, Neurobiologi Kebugaran (BDNF), dan Protokol Zero Scabies 24-Jam*
@@ -1393,7 +1385,9 @@ Untuk mewujudkan asrama pesantren yang sehat dan bugar, lembaga menerapkan:
 [^2]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Zad al-Ma'ad fi Hadyi Khairil 'Ibad*, Tahqiq: Syaikh Syu'aib al-Arnauth & Abdul Qadir al-Arnauth (Beirut: Mu'assasah ar-Risalah, 1979), Jilid IV: "Ath-Thibb an-Nabawi", hlm. 12–45, 180–225.
 [^3]: **John J. Ratey & Eric Hagerman**, *Spark: The Revolutionary New Science of Exercise and the Brain* (New York: Little, Brown and Company, 2008), Bab 1 & 2: "Learning: Grow Your Brain Cells", hlm. 35–64; serta **Henriette van Praag**, "Exercise and the brain: Something to chew on", *Trends in Neurosciences*, Vol. 32, No. 5 (2009), hlm. 283–290.
 
+
 ---
+
 
 # SUB-BAB 2.7: MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)
 ## *Fondasi Penaklukan Impulsivitas, Delayed Gratification, Tazkiyatun Nafs, dan Penguatan Otot Kontrol Diri (PFC) 24-Jam*
@@ -1507,7 +1501,9 @@ Lembaga merumuskan instrumen aplikatif:
 [^4]: **Walter Mischel, Yuichi Shoda, & Philip K. Peake**, "Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification: Identifying delayed predictors", *Developmental Psychology*, Vol. 26, No. 6 (1990), hlm. 978–986; serta **Walter Mischel**, *The Marshmallow Test: Mastering Self-Control* (New York: Little, Brown and Company, 2014), hlm. 1–45.
 [^5]: **Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven, & Dianne M. Tice**, "Ego depletion: Is the active self a limited resource?", *Journal of Personality and Social Psychology*, Vol. 74, No. 5 (1998), hlm. 1252–1265; serta **Roy F. Baumeister & John Tierney**, *Willpower: Rediscovering the Greatest Human Strength* (New York: Penguin Press, 2011), Bab 1 & 2.
 
+
 ---
+
 
 # SUB-BAB 2.8: MUNAZHZHAMUN FI SYU'UNIHI (TERATUR DALAM SEGALA URUSAN)
 ## *Fondasi Keteraturan Hidup, Metodologi Manajemen Loker 5S/5R, Estetika Spasial Asrama, dan Penataan Mental 24-Jam*
@@ -1625,7 +1621,9 @@ Lembaga merumuskan program pendukung:
 [^4]: **Hiroyuki Hirano**, *5 Pillars of the Visual Workplace: The Sourcebook for 5S Implementation* (Portland: Productivity Press, 1995), Bab 1–3, hlm. 1–45; serta **Masaaki Imai**, *Gemba Kaizen: A Commonsense Approach to a Continuous Improvement Strategy* (New York: McGraw-Hill, 2012).
 [^5]: **Kathleen D. Vohs, Joseph P. Redden, & Ryan Rahinel**, "Physical order produces healthy choices, generosity, and conventionality, whereas disorder produces creativity", *Psychological Science*, Vol. 24, No. 9 (2013), hlm. 1860–1867.
 
+
 ---
+
 
 # SUB-BAB 2.9: HARITSUN 'ALA WAQTIHI (DISIPLIN WAKTU & PRODUKTIVITAS TINGGI)
 ## *Fondasi Penjagaan Modal Kehidupan, Eliminasi Prokrastinasi, Matriks Prioritas Kuadran II, dan Nilai Waktu Ulama Turats 24-Jam*
@@ -1740,7 +1738,9 @@ Lembaga merumuskan fasilitas pendukung:
 [^3]: **Timothy A. Pychyl**, *Solving the Procrastination Puzzle: A Concise Guide to Solving the Procrastination Problem* (New York: TarcherPerigee / Penguin Random House, 2013), Bab 1–3, hlm. 1–45; serta **Piers Steel**, "The nature of procrastination: A meta-analytic and theoretical review of quintessential self-regulatory failure", *Psychological Bulletin*, Vol. 133, No. 1 (2007), hlm. 65–94.
 [^4]: **Stephen R. Covey**, *The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change* (New York: Free Press, 1989; Edisi Peringatan 30 Tahun, Simon & Schuster, 2020), Habit 3: "Put First Things First", hlm. 157–195.
 
+
 ---
+
 
 # SUB-BAB 2.10: NAFI'UN LIGHAIRIHI (BERMANFAAT LUAS BAGI SESAMA)
 ## *Puncak Keberadaban Khidmah, Kepemimpinan Pelayanan (Servant Leadership), Altruisme Ukhuwah, dan Pembelaan Kaum Lemah 24-Jam*
@@ -1858,6 +1858,7 @@ Dengan tuntasnya pemaparan **10 Muwashafat Karakter Santri dalam sistem TUMBUH p
 
 ---
 
+
 # SUB-BAB 3.1: TRANSISI PUBERTAS & DINAMIKA HORMONAL ASRAMA
 ## *Memahami Ledakan Biologis Remaja (Usia 12–18 Tahun) dalam Ekosistem Berasrama Tanpa Vonis Moralitas Negatif*
 
@@ -1971,7 +1972,9 @@ Menjawab dinamika transisi pubertas ini, Ekosistem TUMBUH menerapkan strategi ka
 [^2]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Tuhfat al-Maudud bi Ahkam al-Maulud*, Tahqiq: Syaikh Abdul Qadir al-Arnauth (Damaskus: Maktabah Dar al-Bayan, 1971), Bab 15: "Fi Fasl Maratib al-Insan min al-Wiladah ila al-Bulugh", hlm. 140–185.
 [^3]: **B.J. Casey, Rebecca M. Jones, & Todd A. Hare**, "The adolescent brain", *Annals of the New York Academy of Sciences*, Vol. 1124, No. 1 (2008), hlm. 111–126; serta **B.J. Casey**, "Beyond simple models of self-control to circuit-based accounts of adolescent behavior", *Annual Review of Psychology*, Vol. 66 (2015), hlm. 295–319.
 
+
 ---
+
 
 # SUB-BAB 3.2: KESENJANGAN MATURASI LIMBIK VS PREFRONTAL CORTEX
 ## *Neurosains Otak Remaja: Mengapa Santri Berbuat Sebelum Berpikir dan Bagaimana Menjembatani Jurang Perkembangan Saraf*
@@ -2103,7 +2106,9 @@ Untuk mencegah malpraktik penanganan santri:
 [^3]: **Daniel Goleman**, *Emotional Intelligence: Why It Can Matter More Than IQ* (New York: Bantam Books, 1995; Edisi Peringatan 10 Tahun, 2005), Bab 2: "Anatomy of an Emotional Hijacking", hlm. 13–28.
 [^4]: **Al-Imam Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani**, *Sunan Abi Dawud*, Kitab al-Adab, Bab Ma Yuqalu 'indal Ghadhab (Beirut: Al-Maktabah al-'Ashriyyah, t.th.), Hadits No. 4782.
 
+
 ---
+
 
 # SUB-BAB 3.3: KRISIS IDENTITAS & KONSTRUKSI KONSEP DIRI SANTRI
 ## *Navigasi Krisis Identity vs Role Confusion Menuju Pembentukan Karakter Insan Adabi dan Resiliensi Mental Remaja*
@@ -2220,7 +2225,9 @@ Untuk mengokohkan fondasi identitas santri, lembaga menyelenggarakan:
 [^3]: **Erik H. Erikson**, *Identity: Youth and Crisis* (New York: W. W. Norton & Company, 1968), Bab 3 & 4: "The Life Cycle: Epigenesis of Identity" & "Identity Confusion", hlm. 91–178.
 [^4]: **James E. Marcia**, "Development and validation of ego-identity status", *Journal of Personality and Social Psychology*, Vol. 3, No. 5 (1966), hlm. 551–558; serta **James E. Marcia**, "Identity in adolescence", dalam J. Adelson (Ed.), *Handbook of Adolescent Psychology* (New York: John Wiley & Sons, 1980), hlm. 159–187.
 
+
 ---
+
 
 # SUB-BAB 3.4: KONFORMITAS SEBAYA & MUSYRIF SEBAGAI EXTERNAL PREFRONTAL CORTEX
 ## *Memanfaatkan Dinamika Kelompok Sebaya (Positive Peer Culture) dan Menempatkan Musyrif sebagai Penjembatan Regulasi Diri Santri 24-Jam*
@@ -2335,6 +2342,7 @@ Dengan tuntasnya **Bab 03: Trajektori Biososial-Spiritual Remaja Pesantren** ini
 
 ---
 
+
 # SUB-BAB 4.1: TANGGA T1 — ADAPTASI (TA'ARUF) & HOMESICKNESS
 ## *Fase Transisi Kritis Bulan 1–6: Orientasi Nilai, Regulasi Awal, Pengikatan Afektif, dan Terapi Kerinduan Rumah*
 
@@ -2424,6 +2432,7 @@ Dengan tuntasnya Jenjang J1, santri telah berhasil melintasi masa krisis adaptas
 
 
 ---
+
 
 # SUB-BAB 4.2: TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM
 ## *Fase Penguatan Bulan 7–18: Otomatisasi Rutinitas Asrama, Kolaborasi Kamar, dan Disiplin Positif Tanpa Friksi*
@@ -2520,6 +2529,7 @@ Santri di tangga T2 telah membiasakan adab dalam ritme fisiknya: mereka tertib, 
 
 ---
 
+
 # SUB-BAB 4.3: TANGGA T3 — INTERNALISASI (TAFAHUM) & DISIPLIN OTONOM
 ## *Fase Pematangan Bulan 19–36: Kesadaran Muraqabatullah, Otonomi Moral, dan Ketahanan terhadap Tekanan Sebaya*
 
@@ -2609,6 +2619,7 @@ Santri di tangga T3 telah memiliki **benteng moral internal yang kokoh**: mereka
 
 
 ---
+
 
 # SUB-BAB 4.4: TANGGA T4 — TRANSFORMASI (TAKAFUL) & KETELADANAN
 ## *Fase Kepemimpinan Tingkat Atas: Mentoring Adik Kelas, Inisiatif Khidmah Sosial, dan Transformasi Menjadi Figur Qudwah*
@@ -2706,6 +2717,7 @@ Santri Jenjang J4 telah mencapai puncak kepribadian *Insan Adabi*: mereka adalah
 
 ---
 
+
 # SUB-BAB 4.5: DINAMIKA TRANSISI & PENANGANAN REGRESI KARAKTER
 ## *Memahami Fluktuasi Perkembangan Adab, Deteksi Dini Penurunan Kapasitas (Relapse), dan Protokol Penyangga Scaffolding Intervensi*
 
@@ -2771,6 +2783,7 @@ $$\text{إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِ
 
 
 ---
+
 
 # SUB-BAB 4.6: MATRIKS RUBRIK INDIKATOR KENAIKAN J1–J4
 ## *Standarisasi Asesmen Kenaikan Tangga Kapasitas Berbasis Bukti Faktual Tanpa Subjektivitas dan Bebas Favoritisme*
@@ -2879,6 +2892,7 @@ Dengan berakhirnya Bab 04 ini, arsitektur tangga perkembangan karakter J1–J4 t
 
 ---
 
+
 # SUB-BAB 5.1: KARAKTERISTIK SANTRI TAHAP 7 PENGGERAK
 ## *Profil Kepemimpinan Puncak Santri dalam Kontinuum 10-Tahap: Integritas Otonom, Teladan Qudwah, dan Jiwa Pelayan Ummat*
 
@@ -2978,6 +2992,7 @@ Santri Tahap 7 Penggerak membuktikan bahwa kemuliaan santri sejati terletak pada
 
 ---
 
+
 # SUB-BAB 5.2: DESAIN PROGRAM TAHUN KHIDMAH (INKUBASI KEPEMIMPINAN)
 ## *Rekayasa Tahun Pengabdian Santri Akhir sebagai Laboratorium Inkubasi Kepemimpinan, Pedagogi Terapan, dan Kematangan Moral*
 
@@ -3075,6 +3090,7 @@ Tahun Khidmah dalam Ekosistem TUMBUH menjadi kawah candradimuka peradaban: mence
 
 ---
 
+
 # SUB-BAB 5.3: MENTORSHIP SEBAYA BEBAS PERPELONCOAN
 ## *Transformasi Radikal Budaya Asrama: Mengganti Tradisi Perpeloncoan Feodal dengan Ekosistem Perlindungan Kakak Asuh*
 
@@ -3167,6 +3183,7 @@ Dengan lenyapnya tradisi perpeloncoan dan tegaknya sistem Sahabat Asuh, asrama p
 
 ---
 
+
 # SUB-BAB 5.4: MEDIASI RESTORATIF & TRANSISI KARIER PENDIDIK
 ## *Keterlibatan Santri Penggerak dalam Resolusi Damai (Ishlah al-Bain) dan Jembatan Regenerasi Pendidik Tahap 8/9*
 
@@ -3216,6 +3233,7 @@ Rasulullah SAW bersabda: *"Maukah kalian aku kabarkan tentang suatu amalan yang 
 
 
 ---
+
 
 # SUB-BAB 6.1: PEMETAAN CAPAIAN TINGKAT MTS / SMP (KELAS 7, 8, 9)
 ## *Arsitektur Kurikulum Adab Usia Dini Remaja (12–15 Tahun): Keteraturan Fisik, Pengelolaan Barang, dan Pengendalian Diri Awal*
@@ -3296,6 +3314,7 @@ Santri lulusan MTs TUMBUH bertumbuh menjadi remaja yang kokoh fondasi adabnya: m
 
 
 ---
+
 
 # SUB-BAB 6.2: PEMETAAN CAPAIAN TINGKAT MA / SMA (KELAS 10, 11, 12)
 ## *Arsitektur Kurikulum Adab Remaja Lanjut (15–18 Tahun): Kedalaman Tafaqquh, Etika Digital, dan Kepemimpinan Transformatif*
@@ -3379,6 +3398,7 @@ Santri lulusan MA TUMBUH bertumbuh menjadi sosok **Cendekiawan Muslim Transforma
 
 
 ---
+
 
 # SUB-BAB 6.3: DIFERENSIASI PENGASUHAN SANTRI PUTRA
 ## *Pendekatan Pengasuhan Spesifik Santri Putra: Maskulinitas Positif, Sublimasi Energi Motorik, dan Pembentukan Karakter Muru'ah Ksatria*
@@ -3469,6 +3489,7 @@ Santri putra TUMBUH bertumbuh menjadi **Pilar Pelindung Umat (*Rijalun Qawwamun*
 
 ---
 
+
 # SUB-BAB 6.4: DIFERENSIASI PENGASUHAN SANTRI PUTRI
 ## *Pendekatan Pengasuhan Spesifik Santri Putri: Keintiman Relasional, Mitigasi Agresi Relasional, Ruang Aman Emosi, dan Kemuliaan 'Iffah*
 
@@ -3557,6 +3578,7 @@ Santri putri TUMBUH bertumbuh menjadi **Srikandi Peradaban Islam (*Nisa'un Shali
 
 ---
 
+
 # SUB-BAB 6.5: EPILOG VOLUME 02 — MENUJU PUNCAK ADAB KHIDMAH
 ## *Grand Synthesis Taksonomi Karakter: Mempersembahkan Insan Adabi Paripurna bagi Kebangkitan Peradaban Islam*
 
@@ -3641,6 +3663,7 @@ Pertanyaan agung ini akan dibedah secara tuntas dan sistematis pada **Buku Volum
 
 
 ---
+
 
 # DAFTAR PUSTAKA BUKU VOLUME 02 EKOSISTEM TUMBUH
 ## *Taksonomi Kapasitas & 10 Profil Karakter Santri dalam sistem TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
@@ -3763,5 +3786,4 @@ Pertanyaan agung ini akan dibedah secara tuntas dan sistematis pada **Buku Volum
 93: **Thaler, Richard H., & Sunstein, Cass R.** (2009). *Nudge: Improving Decisions About Health, Wealth, and Happiness* (Rev. ed.). New York: Penguin Books.
 94: **Wiggins, Grant, & McTighe, Jay.** (2005). *Understanding by Design* (2nd ed.). Alexandria: ASCD.
 95: **Zehr, Howard.** (2015). *The Little Book of Restorative Justice* (Rev. ed.). Intercourse: Good Books.
-
 
