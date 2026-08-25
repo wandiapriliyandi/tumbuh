@@ -1,101 +1,105 @@
 # SUB-BAB 2.4: QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Fondasi Kemandirian Hidup, Keterampilan Vokasional Asrama, Literasi Finansial Remaja, dan Pembebasan dari Mentalitas Ketergantungan*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Fiqih Muamalah & Etos Kerja Islam, Psikologi Efikasi Diri (*Self-Efficacy*), Literasi Ekonomi Remaja, & Pendidikan Vokasional  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Psikologi Belajar, & Pakar Arsitektur Digital*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### I. Hakikat Qadirun 'alal Kasbi: Menolak Mentalitas Parasit dan Pemanjaan
 
----
+Salah satu anomali paling memprihatinkan yang kerap ditemukan pada sebagian alumni lembaga pendidikan adalah **ketidakmampuan hidup mandiri (*helplessness in practical life*)**. 
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Tidak sedikit santri yang hafal matan kitab kuning beratus-ratus bait, namun ketika pulang ke masyarakat, ia tidak mampu mengelola anggaran keuangannya sendiri, tidak memiliki etos kerja untuk mencari nafkah halal, dan terus menggantungkan biaya hidupnya kepada orang tua atau belas kasihan donatur. Di asrama, fenomena ini terlihat nyata dalam kebiasaan buruk santri:
+* Menghabiskan seluruh uang saku bulanan hanya dalam tiga hari pertama untuk jajan konsumtif di kantin, lalu hidup merana dan meminjam uang kawan di sisa hari (*impulsive financial behavior*);
+* Malas mencuci dan melipat pakaiannya sendiri, lalu mengupah adik kelas secara zalim untuk mencucikannya;
+* Merusak fasilitas asrama tanpa rasa tanggung jawab karena merasa bukan miliknya.
 
-Penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Dalam Ekosistem TUMBUH, **Qadirun 'alal Kasbi** (Memiliki Kemampuan dan Etos Berpenghasilan Mandiri) bukanlah sekadar materi kewirausahaan sampingan, melainkan **pilar pembentukan martabat (*izzah*) seorang mukmin**. Islam membenci mentalitas pengemis dan ketergantungan parasit. Santri dididik untuk terbiasa bekerja keras, menghargai nilai uang, merawat fasilitas hidupnya secara mandiri, dan memiliki keterampilan praktis yang menjadikannya pribadi mandiri yang siap membiayai dakwahnya.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph PilarKemandirian["TIGA PILAR UTAMA QADIRUN 'ALAL KASBI EKOSISTEM TUMBUH"]
+        PorosMandiri["QADIRUN 'ALAL KASBI (KEMANDIRIAN HIDUP & ETOS KERJA 24 JAM)"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        PorosMandiri --> P1["1. LITERASI FINANSIAL & PENGELOLAAN UANG SAKU (IQTISHAD)<br/>Mencatat arus kas harian, menyisihkan tabungan amal/infak, & anti-pemborosan."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        PorosMandiri --> P2["2. KEMANDIRIAN LIFE SKILLS ASRAMA (KIFAYAH)<br/>Mencuci baju sendiri, merawat perlengkapan tidur, menjahit kancing lepas, & mandiri."]
         
-        T1 --> T2 --> T3
+        PorosMandiri --> P3["3. ETOS KERJA WIRAUSAHA & INOVASI PRODUKTIF (IKHTIYAR)<br/>Mengikuti pelatihan koperasi pondok, berkarya kreatif, & menghargai keringat sendiri."]
     end
 ```
-
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+<div align="center"><sub><b>Gambar 2.4.1:</b> Tiga Pilar Operasional Kemandirian Hidup dan Etos Kerja Santri.</sub></div>
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### II. Khazanah Turats: Syarah Imam Asy-Syaibani (*Al-Kasb*) & Hadits Keutamaan Bekerja
 
-Praksis **QADIRUN 'ALAL KASBI (MANDIRI SECARA FINANSIAL & ETOS KERJA)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Islam menempatkan usaha mencari rezeki yang halal dan kemandirian tangan pada derajat ibadah yang teramat mulia.
+
+#### 1. Keutamaan Makan dari Hasil Keringat Tangan Sendiri
+Dalam hadits shahih riwayat **Imam Al-Bukhari**[^1], Rasulullah SAW bersabda:
+
+$$\text{مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَإِنَّ نَبِيَّ اللهِ دَاوُدَ عَلَيْهِ السَّلَامُ كَانَ يَأْكُلُ مِنْ عَمَلِ يَدِهِ}$$
+
+**Artinya:** *"Tidak ada satu makanan pun yang dimakan oleh seseorang yang lebih baik daripada makanan yang dihasilkan dari jerih payah tangannya sendiri; dan sesungguhnya Nabi Allah Daud 'alaihissalam dahulu makan dari hasil karya tangannya sendiri."*
+
+#### 2. Wajibnya Kemandirian Menurut Imam Muhammad bin al-Hasan Asy-Syaibani
+Murid utama Imam Abu Hanifah, **Imam Muhammad bin al-Hasan Asy-Syaibani** dalam kitab agungnya *Al-Kasb*[^2] meletakkan fondasi fiqih ekonomi Islam:
+> *"Mencari penghasilan halal (*kasb al-halal*) adalah kewajiban syar'i yang setingkat setelah kewajiban shalat dan puasa. Orang yang menolak bekerja dengan dalih 'tawakal' padahal ia masih membutuhkan bantuan orang lain sesungguhnya sedang melakukan kemaksiatan kebodohan. Kemuliaan seorang penuntut ilmu terletak pada kemandirian tangannya dari meminta-minta kepada penguasa dan manusia."*
+
+Senada dengan itu, **Imam Abu al-Hasan Al-Mawardi** dalam *Adab ad-Dunya wad-Din*[^3] menegaskan bahwa kemandirian ekonomi adalah benteng utama yang melindungi kesucian ilmu seorang ulama dari intervensi hawa nafsu duniawi.
+
+---
+
+### III. Tinjauan Sains: Teori Efikasi Diri (Bandura) & Psikologi Finansial Remaja
+
+Pembiasaan kemandirian hidup santri di asrama memiliki landasan psikologis dan ekonomi yang sangat kuat:
+
+#### 1. Teori Efikasi Diri Albert Bandura (*Mastery Experience*)
+Pakar psikologi terkemuka **Prof. Albert Bandura**[^4] membuktikan bahwa rasa percaya diri dan ketangguhan mental seseorang (*self-efficacy*) paling kuat dibangun melalui **pengalaman penguasaan langsung (*mastery experiences*)**.
+
+Ketika seorang santri berusia 13 tahun dilatih mencuci bajunya sendiri sampai bersih, merapikan lemarinya secara teratur, dan berhasil mengelola uang sakunya cukup hingga akhir bulan, otaknya mengirimkan sinyal kemenangan kompetensi: *"Saya mampu mengendalikan hidup saya!"* Rasa efikasi diri ini akan menular ke dalam ketekunannya saat memecahkan masalah pelajaran dan ketangguhannya saat menghadapi krisis hidup di masa depan.
+
+#### 2. Riset Literasi Finansial Remaja Lusardi & Mitchell
+Riset global oleh **Annamaria Lusardi & Olivia S. Mitchell**[^5] membuktikan bahwa remaja yang dibiasakan mencatat pengeluaran uang saku secara mandiri sejak usia SMP/MTs memiliki tingkat kecerdasan finansial **3 kali lebih tinggi**, risiko terlilit utang di usia dewasa 60% lebih rendah, serta memiliki kecenderungan menabung dan berinvestasi sosial (filantropi/sedekah) yang jauh lebih konsisten.
+
+```mermaid
+graph LR
+    subgraph SiklusKemandirian["MEKANISME PSIKOLOGIS DARI LIFE SKILLS MENUJU KEMATANGAN MENTAL"]
+        LifeSkills["Pembiasaan Mandiri: Cuci Baju + Catat Uang Saku"] --> MasteryExp["Pengalaman Keberhasilan Nyata (Mastery Experience Bandura)"]
+        MasteryExp --> EfikasiDiri["Lonjakan Efikasi Diri & Tanggung Jawab Moral Santri"]
+        EfikasiDiri --> PribadiUnggul["Lahir Santri Berkarakter 'Izzah: Mandiri, Ulet, & Pantang Mengemis"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.4.2:</b> Alur Transformasi dari Pembiasaan Life Skills Asrama Menuju Efikasi Diri Santri.</sub></div>
+
+---
+
+### IV. Matriks Indikator Perilaku Faktual Qadirun 'alal Kasbi (24 Jam)
+
+| Situasi Keseharian Asrama | Indikator Perilaku Positif (Qadirun 'alal Kasbi) | Perilaku Defisit / Ketergantungan | Protokol Pembiasaan Terstruktur TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Pengelolaan Uang Saku Mingguan** | Mencatat setiap pemasukan & pengeluaran di Logbook Finansial, menyisihkan infak subuh, dan hemat. | Menghabiskan uang saku di awal pekan, membeli barang tidak penting, lalu berutang ke teman. | Pendampingan budgeting mingguan oleh Musyrif dan pembatasan plafon belanja harian di kantin. |
+| **Perawatan Pakaian & Ranjang Pribadi** | Mencuci pakaian sendiri secara terjadwal, melipat rapi di loker, dan menjahit kancing yang lepas. | Mengongkos adik kelas untuk mencuci baju (*exploitative delegation*) atau menumpuk baju basah kotor. | Larangan mutlak menyuruh santri lain mencuci baju; workshop keterampilan *Basic Life Skills*. |
+| **Etos Partisipasi Kerja Bakti Asrama** | Bekerja tuntas tanpa perlu diawasi, merawat alat kebersihan bersama, dan proaktif membantu dapur. | Menghindar dari piket kerja bakti, malas-malasan, atau melempar tugas ke santri yang lebih lemah. | Penilaian rubrik etos kerja asrama yang terhubung dengan rapor Jenjang Kemandirian TUMBUH (J1–J4). |
+| **Kreativitas Karya & Kewirausahaan** | Menulis artikel mading, berpartisipasi dalam divisi kreatif/koperasi, menghargai nilai karya. | Bersikap pasif, gemar merusak fasilitas umum (*vandalism*), dan memandang rendah pekerjaan fisik. | Program *Santri Entrepreneur Incubator*: magang pengelolaan koperasi dan bazaar karya santri. |
+
+---
+
+### V. Solusi Sistemik TUMBUH: Logbook Finansial Digital & Bengkel Kemandirian
+
+Lembaga mengoperasionalkan pembinaan kemandirian melalui dua inovasi:
+1. **Buku Rekening Logbook Finansial Santri**: Setiap santri dibekali logbook saku untuk mencatat 3 pos anggaran mingguan: *Kebutuhan Pokok, Tabungan Sedekah, dan Dana Darurat*.
+2. **Bengkel Keterampilan Hidup (*Life Skills Workshop*)**: Setiap semester diadakan pelatihan wajib pertukangan dasar, kelistrikan sederhana, menjahit pakaian, serta dasar sanitasi dan kuliner sehat asrama.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Al-Imam Abu Abdillah Muhammad bin Ismail al-Bukhari**, *Shahih al-Bukhari*, Kitab al-Buyu', Bab Kasbir Rajuli wa 'Amalihi bi Yadih (Beirut: Dar Thuq an-Najah, 1422 H), Hadits No. 2072.
+[^2]: **Al-Imam Muhammad bin al-Hasan asy-Syaibani**, *Kitab al-Kasb*, Tahqiq: Dr. Abdul Fattah Abu Ghuddah (Damaskus & Beirut: Maktab al-Mathbu'at al-Islamiyyah, 1997), hlm. 55–88.
+[^3]: **Al-Imam Abu al-Hasan Ali bin Muhammad al-Mawardi**, *Adab ad-Dunya wad-Din*, Tahqiq: Dr. Muhammad Ridha Qahwaji (Beirut: Dar Ibnu Katsir, 1993), Bab 5: "Fi Adabil Kasbi wal Ma'asy", hlm. 215–248.
+[^4]: **Albert Bandura**, *Self-Efficacy: The Exercise of Control* (New York: W. H. Freeman and Company, 1997), Bab 2 & 3: "Sources of Self-Efficacy", hlm. 79–115; serta **Albert Bandura**, *Social Foundations of Thought and Action: A Social Cognitive Theory* (Englewood Cliffs: Prentice-Hall, 1986).
+[^5]: **Annamaria Lusardi & Olivia S. Mitchell**, "The economic importance of financial literacy: Theory and evidence", *Journal of Economic Literature*, Vol. 52, No. 1 (2014), hlm. 5–44.

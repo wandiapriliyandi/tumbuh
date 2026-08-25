@@ -1,101 +1,83 @@
 # SUB-BAB 2.5: IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Dari Kesucian Fitrah Menuju Rekayasa Lingkungan Asrama 24-Jam yang Menumbuhkan Karakter Mulia*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Psikologi Lingkungan (*Environmental Psychology*), Arsitektur Ekologi Asrama, & Desain Bi'ah Shalihah  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Intervensi Preventif, & Pakar Pengasuhan Asrama*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### Menghidupkan Ekologi yang Menumbuhkan Jiwa
 
----
+Tatkala kita telah menyepakati bahwa setiap santri lahir membawa kesucian fitrah ketuhanan (*Fitrah al-Munazzalah*), maka konsekuensi ontologis paling mendasar bagi para pengasuh dan pengelola pesantren adalah:
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+* **Kita tidak bisa mendidik benih fitrah yang suci di dalam lingkungan yang kumuh, gelap, penuh teror, dan tidak manusiawi!**
 
-Penerapan **IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+Ibarat sebuah benih pohon kurma yang unggul: betapa pun hebatnya potensi genetik di dalam benih tersebut, ia hanya akan mampu bertunas, tumbuh kokoh, dan berbuah lebat jika ditanam di atas tanah yang subur, disirami air yang jernih, dan dinaungi sinar matahari yang cukup. Jika benih unggul itu dilempar ke atas tanah tandus yang beracun, benih itu akan membusuk dan mati.
 
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Begitu pula dengan jiwa anak santri. Lingkungan asrama pesantren—atau yang dalam khazanah Islam disebut sebagai **Bi'ah Shalihah (Lingkungan yang Saleh)**[^1]—bukanlah sekadar latar belakang pasif, melainkan **reaktor aktif yang membentuk sirkuit saraf, emosi, dan adab santri selama 24 jam sehari**.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph EkologiFitrah["IMPLIKASI ONTOLOGIS KESUCIAN FITRAH TERHADAP REKAYASA BI'AH SHALIHAH"]
+        Fitrah["KESUCIAN FITRAH SANTRI (Amanah Ilahiah Murni)"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        Biah["REKAYASA BI'AH SHALIHAH 24-JAM<br/>• Lingkungan Fisik: Bersih, Terang, & Sanitasi Layak.<br/>• Lingkungan Sosial: Penuh Kasih Sayang & Bebas Perundungan.<br/>• Lingkungan Spiritual: Gemerlap Dzikir, Shalat Khusyuk, & Qudwah."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        Hasil["PERTUMBUHAN INSAN ADABI PARIPURNA<br/>(Karakter Mulia, Tangguh, Berintegritas, & Beradab Sejati)"]
         
-        T1 --> T2 --> T3
+        Fitrah ==> Biah ==> Hasil
     end
 ```
-
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+<div align="center"><sub><b>Gambar 2.5.1:</b> Alur Implikasi Ontologis Kesucian Fitrah Menuju Rekayasa Lingkungan Bi'ah Shalihah.</sub></div>
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### Empat Dimensi Rekayasa Lingkungan Asrama Berbasis Fitrah
 
-Praksis **IMPLIKASI ONTOLOGIS RANCANGAN BI'AH SHALIHAH** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Sistem TUMBUH merumuskan **Empat Dimensi Desain Bi'ah Shalihah** yang selaras dengan kemuliaan martabat manusia (*Karamah Insaniyyah*):
+
+```mermaid
+graph TD
+    RootBiah["EMPAT DIMENSI REKAYASA BI'AH SHALIHAH SISTEM TUMBUH"]
+    
+    RootBiah --> D1["1. DIMENSI KEMULIAAN FISIK (Physical Dignity)<br/>• Sirkulasi udara kamar segar, pencahayaan alami matahari cukup.<br/>• Sanitasi bersih higienis & kran wudhu memadai (rasio 1:5 santri).<br/>• Eliminasi mutlak titik gelap rawan kekerasan (Hotspots Patrol)."]
+    
+    RootBiah --> D2["2. DIMENSI RASA AMAN PSIKOLOGIS (Emotional Safety)<br/>• Suasana asrama hangat, ramah, & bebas dari intrik perundungan.<br/>• Larangan total bentakan, hukuman fisik, & perpeloncoan feodal.<br/>• Hadirnya musyrif sebagai pendengar setia curahan hati santri."]
+    
+    RootBiah --> D3["3. DIMENSI GAUNG SPIRITUAL (Spiritual Resonance)<br/>• Shalat berjamaah khusyuk tepat waktu di shaf pertama masjid.<br/>• Tilawah Qur'an & majelis dzikir menenangkan gelombang otak.<br/>• Keteladanan akhlak nyata ustadz (*Qudwah Hasanah*) 24 jam."]
+    
+    RootBiah --> D4["4. DIMENSI KELUASAN INTELEKTUAL (Intellectual Flourishing)<br/>• Pojok baca literasi santri & perpustakaan asrama yang nyaman.<br/>• Ruang diskusi interaktif & panggung pengekspresian bakat seni Islam."]
+```
+<div align="center"><sub><b>Gambar 2.5.2:</b> Empat Dimensi Rekayasa Ekologi Bi'ah Shalihah Ekosistem TUMBUH.</sub></div>
+
+#### 1. Dimensi Kemuliaan Fisik (*Physical Dignity & Safe Environment*)
+Sistem TUMBUH memandang kebersihan dan penataan fisik sebagai bagian dari ibadah:
+* **Penghapusan Titik Rawan (*Hotspots Elimination*)**: Area-area gelap di belakang asrama, kamar mandi usang, atau gudang tua yang kerap dijadikan tempat pemalakan atau perpeloncoan malam dipasangi lampu penerangan terang dan dijaga oleh patroli musyrif.
+* **Standar Higienitas & Sanitasi**: Menjaga kamar mandi selalu harum dan bersih, serta menyediakan air bersih berlimpah agar antrean mandi dan wudhu berlangsung tenang tanpa gesekan emosi.
+
+#### 2. Dimensi Rasa Aman Psikologis (*Emotional Safety & Baituna Jannatuna*)
+* **Menjadikan Asrama sebagai Rumah Kedua yang Hangat**: Santri disambut dengan senyuman dan sapaan santun setiap kali pulang dari madrasah (*"Kaifa Halukum ya Bunayya?"*).
+* **Mendampingi Santri yang Rentan**: Santri baru yang menangis rindu keluarga (*homesick*) didampingi dengan pelukan hangat dan diajak beraktivitas bersama Kakak Asuh, meredam kecemasan perpisahan (*Separation Anxiety*).
+
+#### 3. Dimensi Gaung Spiritual (*Spiritual Resonance & Muraqabah*)
+* **Menciptakan Atmosfer Kesyahduan Ibadah**: Setengah jam sebelum adzan berkumandang, lantunan murottal Al-Qur'an dan dzikir penyejuk jiwa diperdengarkan secara lembut di seluruh lorong pondok, mengondisikan gelombang otak santri memasuki frekuensi alfa yang tenang.
+* **Shalat Berjamaah sebagai Puncak Kebersamaan**: Kiai, dewan guru, musyrif, dan santri berdiri sejajar merapatkan shaf shalat, memperkuat ikatan batin ukhuwah islamiyyah.
+
+#### 4. Dimensi Keluasan Intelektual & Kreativitas (*Intellectual Flourishing*)
+* **Pojok Literasi Bilik Asrama**: Setiap blok kamar asrama dilengkapi lemari buku mini berisi kitab-kitab adab, kisah teladan sahabat, dan buku sains populer, menumbuhkan kecintaan membaca secara mandiri.
+
+---
+
+### Transformasi Menuju Oase Peradaban Santri
+
+Ketika seluruh elemen fisik, sosial, emosional, dan spiritual ini dirajut dalam satu kesatuan sistemik yang kokoh, pesantren bertransformasi menjadi **Oase Bi'ah Shalihah yang Memuliakan Insan Pembelajar**.
+
+Santri merasa bahagia, aman, dicintai, dan dihargai. Dari lingkungan yang penuh berkah inilah, benih-benih fitrah kesucian santri akan mekar sempurna, melahirkan generasi muttaqin yang kokoh imannya, mulia akhlaknya, dan siap memancarkan cahaya peradaban bagi kejayaan umat dan bangsa.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **K.H. Imam Zarkasyi**, *Pondok Pesantren sebagai Lembaga Pendidikan Karakter dan Pencetak Kader Umat* (Ponorogo: Gontor Press, 1988), hlm. 20–55.
+[^2]: **Gary W. Evans**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441.

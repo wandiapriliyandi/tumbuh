@@ -1,101 +1,168 @@
 # SUB-BAB 1.4: TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Memadukan Otonomi Psikologis (SDT), Rekayasa Tata Ruang Bi'ah Shalihah, dan Penghapusan Titik Rawan 24-Jam*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-01/SUB-04/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: *Self-Determination Theory* (SDT), Psikologi Lingkungan (*Environmental Psychology*), Arsitektur Pesantren, & Teori *Nudge*  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Psikologi Belajar, & Pakar Intervensi Preventif*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### I. Titik Temu Motivasi Batin dan Rekayasa Ekologi Asrama
 
----
+Di banyak pesantren konvensional, kedisiplinan santri sering kali ditegakkan dengan instrumen yang sangat rapuh: **teriakan pengurus, ancaman sanksi fisik, dan desingan rotan**.
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Ketika seorang pembina asrama berjalan melintasi lorong dengan wajah garang dan tongkat di tangan, suasana mendadak sunyi senyap. Santri-santri langsung bergegas merapikan kasur, berlari mengambil air wudhu, dan menundukkan kepala. Para pengurus merasa bangga dan menyimpulkan: *"Lihatlah, metode kekerasan ini sangat ampuh membuat santri disiplin!"*
 
-Penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+Namun, apa yang terjadi begitu sang pembina melangkahkan kaki keluar dari pintu gerbang asrama?
+Hanya dalam hitungan detik, suasana asrama kembali riuh tak terkendali. Sandal kembali berserakan di depan pintu, sampah makanan dilempar sembarangan ke bawah ranjang, dan adab saling menghormati lenyap seketika.
 
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
+Fenomena ini dalam psikologi motivasi disebut sebagai **kepatuhan semu (*superficial compliance*)** yang lahir dari regulasi eksternal murni (*external regulation*). Kepatuhan yang didorong semata-mata oleh rasa takut akan ancaman tidak pernah meresap ke dalam lubuk kalbu. Begitu sumber rasa takut tersebut hilang, perilaku buruk akan kembali meletup dengan intensitas yang bahkan jauh lebih destruktif.
 
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Untuk membangun kedisiplinan yang sejati, langgeng, dan mandiri, **Ekosistem TUMBUH** memadukan dua pilar transformatif yang saling mengunci:
+1. **Teori Penentuan Diri (*Self-Determination Theory / SDT*)**[^1]: Memenuhi tiga kebutuhan psikologis dasar santri (Otonomi, Kompetensi, dan Keterhubungan Relasional) agar motivasi beradab bertransformasi dari keterpaksaan eksternal menjadi dorongan intrinsik yang tulus karena Allah (*Muraqabatullah*).
+2. **Rekayasa Lingkungan Hidup 24-Jam (*Environmental Architecture & Bi'ah Shalihah*)**[^2]: Menata ruang fisik, pencahayaan, alur sirkulasi, dan dorongan visual (*nudges*) di asrama sedemikian rupa sehingga lingkungan bertindak sebagai "guru bisu (*the silent educator*)" yang secara alami memandu santri berbuat tertib tanpa perlu diawasi dengan intimidasi.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph SinergiMotivasiRuang["SINERGI MOTIVASI BATIN (SDT) DAN REKAYASA LINGKUNGAN ASRAMA 24-JAM"]
+        Batin["<b>PILAR BATIN: MOTIVASI INTRINSIK (SDT)</b><br/>• Otonomi: Kesadaran niat ikhlas lillahi ta'ala tanpa paksaan<br/>• Kompetensi: Merasa mampu menaiki Jenjang J1–J4 dengan bangga<br/>• Keterhubungan: Kasih sayang hangat musyrif In Loco Parentis"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        Ruang["<b>PILAR FISIK: REKAYASA LINGKUNGAN (BI'AH SHALIHAH)</b><br/>• Arsitektur Bebas Titik Buta (Zero Hotspots Eliminating Bullying)<br/>• Dorongan Isyarat Visual (Nudges: Garis Wudhu & Loker 5S)<br/>• Sinkronisasi Dua Pilar (Dual-Pillar Sync Madrasah-Asrama)"]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        Batin <===> Ruang
         
-        T1 --> T2 --> T3
+        Batin --> Hasil["MELAHIRKAN KEDISIPLINAN SEJATI BERKELANJUTAN BEBAS PAKSAAN"]
+        Ruang --> Hasil
     end
 ```
+<div align="center"><sub><b>Gambar 1.4.1:</b> Diagram Sinergi Teori Penentuan Diri (SDT) dan Rekayasa Lingkungan 24-Jam.</sub></div>
 
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+Diagram di atas menegaskan bahwa pembentukan karakter membutuhkan kerja sama dua sayap yang seimbang: menyalakan api kesadaran dari dalam jiwa santri (*internal motivation*), sembari menyediakan sarang ekologi fisik yang mendukung dan menuntun perilaku mulia tersebut dalam realitas nyata (*enabling environment*).
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### II. Tiga Kebutuhan Psikologis Dasar SDT dalam Terang Ubudiyyah
 
-Praksis **TEORI PENENTUAN DIRI & REKAYASA LINGKUNGAN ASRAMA** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Pakar psikologi motivasi terkemuka dunia, **Prof. Edward L. Deci & Prof. Richard M. Ryan**[^3] dari University of Rochester, membuktikan melalui riset empiris puluhan tahun bahwa manusia memiliki **Tiga Kebutuhan Psikologis Dasar (*Basic Psychological Needs*)** yang wajib dipenuhi agar potensi karakternya dapat bertumbuh optimal:
+
+```mermaid
+graph LR
+    subgraph KebutuhanSDT["TIGA KEBUTUHAN PSIKOLOGIS DASAR SDT DALAM PERSPEKTIF ISLAM"]
+        Otonomi["1. OTONOMI (Autonomy)<br/>Kebutuhan merasa memiliki kehendak bebas & kesadaran nilai.<br/><b>Perspektif Syar'i:</b> Hakikat Ikhlas & Niat Murni Lillahi Ta'ala."]
+        
+        Kompetensi["2. KOMPETENSI (Competence)<br/>Kebutuhan merasa cakap, berdaya, & mampu berhasil.<br/><b>Perspektif Syar'i:</b> Istitha'ah & Tahapan Jenjang J1–J4."]
+        
+        Keterhubungan["3. KETERHUBUNGAN (Relatedness)<br/>Kebutuhan merasa dicintai, dihargai, & diterima komunal.<br/><b>Perspektif Syar'i:</b> Mahabbah, Ukhuwah, & In Loco Parentis."]
+    end
+```
+<div align="center"><sub><b>Gambar 1.4.2:</b> Tiga Kebutuhan Psikologis Dasar SDT dalam Perspektif Ubudiyyah Islam.</sub></div>
+
+Mari kita bedah korelasi mendalam antara ketiga kebutuhan psikologis ini dengan khazanah spiritual Islam:
+
+#### 1. Kebutuhan Otonomi (*Autonomy*) $\equiv$ Hakikat Ikhlas dan Pembebasan Jiwa
+Santri yang dididik dengan doktrin intimidasi merasa dirinya tidak memiliki kendali atas hidupnya. Akibatnya, ia menganggap aturan pondok sebagai "penjara penindas". Sebaliknya, ketika musyrif berdialog secara dialogis dan menjelaskan *hikmah* (alasan filosofis dan maslahat) di balik setiap aturan, santri merasa dihargai kemerdekaan akalnya.
+
+Dalam kitab monumentalnya *Al-'Ubudiyyah*[^4], **Syaikhul Islam Ibnu Taimiyyah** menegaskan bahwa hakikat ibadah yang diterima di sisi Allah adalah perpaduan antara kesadaran tunduk (*at-tadzallul*) dan kecintaan yang mendalam (*al-mahabbah*):
+> *"Ketaatan yang dipaksakan semata-mata karena takut kepada ancaman sesama makhluk bukanlah hakikat ubudiyyah kepada Allah. Ubudiyyah sejati adalah penyerahan diri yang merdeka, di mana hati digerakkan oleh rasa cinta dan kerinduan menggapai ridha-Nya tanpa pamrih duniawi."*
+
+#### 2. Kebutuhan Kompetensi (*Competence*) $\equiv$ Tangga Kapasitas *Istitha'ah*
+Santri sering kali melanggar aturan bukan karena berniat jahat, melainkan karena **merasa tidak mampu (*incompetent*)** memenuhi tuntutan yang melampaui kapasitas adaptasinya. Santri baru yang belum pernah mencuci pakaian sendiri atau belum lancar membaca pegon akan merasa cemas luar biasa. Melalui progresi Jenjang Kemandirian TUMBUH (J1–J4) (T1 Adaptasi hingga T4 Transformasi), kurikulum adab dipecah menjadi langkah-langkah kecil yang realistis, sehingga santri merasakan keberhasilan bertahap (*sense of mastery*) yang membangkitkan harga dirinya.
+
+#### 3. Kebutuhan Keterhubungan Relasional (*Relatedness*) $\equiv$ Kehangatan *Ukhuwah* & Pengasuhan
+Seorang anak yang terpisah ratusan kilometer dari pelukan ayah dan ibunya mengalami kerentanan relasional yang sangat tinggi (*attachment disruption*). Jika di pesantren ia hanya menjumpai pengurus yang berwajah dingin dan suka membentak, jiwanya akan merasa terasing (*alienated*). 
+
+Sebagaimana dicontohkan oleh Rasulullah SAW ketika mengasuh Anas bin Malik RA selama sepuluh tahun tanpa sekalipun membentak atau mencelanya, musyrif dalam sistem TUMBUH hadir sebagai figur lekat pengganti orang tua (*In Loco Parentis*) yang mendengarkan, merangkul, dan memvalidasi emosi santri.
+
+---
+
+### III. Sains Psikologi Lingkungan & Dorongan Arsitektural (*Nudge Theory*)
+
+Di samping pembinaan motivasi batin, lingkungan fisik asrama memegang peranan krusial yang kerap diabaikan. 
+
+Pakar psikologi lingkungan terkemuka **Prof. Gary W. Evans**[^5] dari Cornell University dalam riset komprehensifnya membuktikan bahwa tata ruang fisik yang buruk berdampak langsung terhadap kerusakan psikologis anak:
+* **Kepadatan Berlebih (*Crowding*)**: Menempatkan 30 santri dalam satu kamar sempit tanpa privasi memicu lonjakan hormon stres kortisol secara kronis, menurunkan empati sosial, dan melipatgandakan insiden perkelahian fisik hingga **3 kali lipat**.
+* **Kesemrawutan Visual (*Spatial Chaos*)**: Kamar yang gelap, sirkulasi udara pengap, dan barang-barang yang berserakan di lantai membuat otak anak mengalami kelebihan beban kognitif (*cognitive overload*), yang memicu keputusasaan dan kebiasaan malas.
+
+```mermaid
+graph TD
+    subgraph PengaruhRuang["DAMPAK PSIKOLOGIS TATA RUANG ASRAMA TERHADAP PERILAKU SANTRI"]
+        Buruk["TATA RUANG SEMRAWUT & TITIK BUTA GELAP<br/>• Kepadatan berlebih (Crowding) & udara pengap<br/>• Lorong gelap, gudang mati, & sudut tak terpantau<br/>• Sandal & barang berserakan tanpa rak tertata"]
+        
+        AkibatBuruk["Dampak: Lonjakan Kortisol, Agresi Amigdala, Bullying Senior, & Kebiasaan Ghashab"]
+        
+        Baik["REKAYASA BI'AH SHALIHAH TUMBUH<br/>• Zero Hotspots: Penerangan terang & sirkulasi lapang<br/>• Nudges Visual: Rak sandal terlabel & loker 5S<br/>• Zonasi Fungsional: Zona Hening, Privasi, & Sosial"]
+        
+        AkibatBaik["Dampak: Ketenangan Pikiran (Thuma'ninah), Refleks Tertib Spontan, & Iklim Ukhuwah"]
+        
+        Buruk --> AkibatBuruk
+        Baik --> AkibatBaik
+    end
+```
+<div align="center"><sub><b>Gambar 1.4.3:</b> Komparasi Dampak Tata Ruang Fisik terhadap Stabilitas Perilaku Santri.</sub></div>
+
+Pemenang Hadiah Nobel Ekonomi **Prof. Richard H. Thaler & Prof. Cass R. Sunstein**[^6] dalam mahakaryanya *Nudge* merumuskan konsep **Arsitektur Pilihan (*Choice Architecture*)**: bahwa penataan lingkungan fisik dengan memberikan isyarat visual halus (*nudges*) mampu mengarahkan manusia untuk secara otomatis memilih perilaku yang baik tanpa perlu pemaksaan hukum atau ancaman hukuman.
+
+---
+
+### IV. Empat Pilar Rekayasa Lingkungan Bi'ah Shalihah TUMBUH
+
+Menerjemahkan sains psikologi lingkungan dan teori *Nudge* ke dalam operasional pesantren, Ekosistem TUMBUH menetapkan **Empat Pilar Rekayasa Lingkungan Asrama 24-Jam**:
+
+```mermaid
+graph TD
+    PilarLingkungan["EMPAT PILAR REKAYASA LINGKUNGAN ASRAMA 24-JAM TUMBUH"]
+    
+    PilarLingkungan --> P1["1. DESAIN BEBAS TITIK BUTA (Zero Hotspots Architecture)<br/>Penerangan terang benderang di seluruh lorong, toilet, & jemuran; mengeliminasi sudut-sudut mati tempat suburnya perpeloncoan senior."]
+    
+    PilarLingkungan --> P2["2. ISYARAT VISUAL PENDUKUNG ADAB (Visual Nudge Cues)<br/>Garis marka antrean wudhu di lantai, rak sandal bersusun dengan label nama santri, papan panduan adab, & sistem loker teratur 5S."]
+    
+    PilarLingkungan --> P3["3. ZONASI FUNGSIONAL RUANG ASRAMA (Three-Zone Triad)<br/>Pemisahan tegas antara Zona Hening Muthala'ah (Akademis), Zona Privasi Kamar (Istirahat), & Zona Terbuka Interaksi Sosial."]
+    
+    PilarLingkungan --> P4["4. SINKRONISASI DUA PILAR (Dual-Pillar Synchronization Protocol)<br/>Protokol serah terima 15 menit setiap pergantian shift antara Wali Kelas Madrasah & Musyrif Asrama via Logbook Digital."]
+```
+<div align="center"><sub><b>Gambar 1.4.4:</b> Arsitektur Empat Pilar Rekayasa Lingkungan Asrama 24-Jam Ekosistem TUMBUH.</sub></div>
+
+Mari kita bedah keempat pilar ini secara rinci:
+
+1. **Desain Bebas Titik Buta (*Zero Hotspots Architecture*)**:
+   Mayoritas kasus perpeloncoan, kekerasan senior, dan perundungan di pesantren terjadi di tempat-tempat yang luput dari pandangan ustadz: lorong belakang kamar mandi, kamar pojok yang gelap, atau gudang terbengkalai. TUMBUH mewajibkan audit tata ruang: seluruh area publik asrama harus memiliki pencahayaan minimal 200 lux di malam hari, pintu-pintu transparan parsial, dan jalur patroli terjadwal musyrif (*proactive visibility*).
+
+2. **Isyarat Visual Pendukung Adab (*Visual Nudge Cues*)**:
+   Santri tidak perlu diteriaki untuk merapikan sandal jika di depan pintu kamar telah disediakan rak sandal bertingkat yang setiap kotaknya bertuliskan nama santri dengan warna yang jelas. Ketika sebuah sandal diletakkan di luar kotaknya, ketidakteraturan tersebut langsung terlihat mencolok secara visual, memicu dorongan psikologis santri untuk segera mengembalikannya ke tempat semula (*visual feedback loop*). Begitu pula dengan sistem manajemen loker 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*).
+
+3. **Zonasi Fungsional Tiga Zona (*Three-Zone Triad*)**:
+   * **Zona Hening (*Quiet Zone*)**: Khusus untuk muthala'ah kitab dan menghafal Al-Qur'an; dilarang bercengkerama suara keras di area ini.
+   * **Zona Privasi (*Rest Zone*)**: Bilik kamar tidur yang tenang dengan pencahayaan redup ba'da 22.00 WIB untuk menjamin kualitas tidur sirkadian 7 jam.
+   * **Zona Sosial (*Community Zone*)**: Ruang bersama, teras, dan lapangan tempat santri bebas berolahraga, berdiskusi, dan menyalurkan ekspresi dinamis remajanya.
+
+4. **Sinkronisasi Dua Pilar (*Dual-Pillar Synchronization Protocol*)**:
+   Pemisahan informasi antara guru sekolah di pagi hari dan musyrif asrama di sore hari adalah penyebab utama tidak terdeteksinya problem perilaku santri. Melalui protokol serah terima harian 15 menit pukul 15.30 WIB, wali kelas menyampaikan catatan observasi (misalnya: *"Santri Zaid hari ini tampak mengantuk dan murung di kelas"*) kepada musyrif, sehingga musyrif dapat langsung memberikan pendampingan personal (*check-in*) malam harinya.
+
+---
+
+### V. Wawasan Turats: Kaidah 'Innat Thiba'a Sarraqah' dan Ekosistem Kebajikan
+
+Prinsip bahwa penataan lingkungan fisik dan pergaulan sosial membentuk jiwa manusia secara otomatis adalah kaidah agung yang telah diuraikan oleh **Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Adab al-Ulfah wal Ukhuwwah*)[^7]:
+
+$$\text{إِنَّ الطِّبَاعَ سَرَّاقَةٌ، وَالنُّفُوسَ مَجْبُولَةٌ عَلَى التَّشَبُّهِ وَالِاقْتِدَاءِ، فَمُجَالَوَرَةُ أَهْلِ الْخَيْرِ تُكْسِبُ الْخَيْرَ، كَمَا أَنَّ مُجَاوَرَةَ أَهْلِ الشَّرِّ تُعْدِي بِالشَّرِّ}$$
+
+**Terjemahan Berjiwa:**
+> *"Sesungguhnya watak dasar manusia memiliki tabiat 'mencuri' (menyerap secara diam-diam keadaan di sekelilingnya), dan jiwa manusia diciptakan dengan kecenderungan alami untuk meniru dan mengikuti figur di dekatnya.*
+> 
+> *Maka bertetangga dan hidup berdampingan dengan lingkungan orang-orang yang berbuat kebaikan akan memancarkan kebaikan ke dalam jiwanya, sebagaimana hidup berdampingan dengan lingkungan yang rusak akan menularkan keburukan tanpa disadari."*
+
+Kaidah *Innat Thiba'a Sarraqah* membuktikan kearifan ulama: karakter tidak bisa ditanamkan di ruang hampa yang terisolasi. Jika asrama berantakan, kotor, dan penuh teror senioritas, maka jiwa santri akan "mencuri" tabiat kekerasan dan kekacauan tersebut. Sebaliknya, ketika asrama ditata bersih, damai, penuh kasih sayang, dan sarat dengan dorongan adab, maka jiwa santri secara spontan menyerap keteraturan dan kemuliaan adab menjadi tabiat permanennya.
+
+Dengan tuntasnya peletakan fondasi Arsitektur Kapasitas Holistik pada Bab 01 ini, kita telah membangun landasan filosofis, taksonomis, sosio-emosional, dan ekologis yang sangat kokoh. Seluruh instrumen ini siap menopang pembahasan inti pada **Bab 02: Profil 10 Muwashafat Karakter Santri dalam sistem TUMBUH**.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Richard M. Ryan & Edward L. Deci**, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: Guilford Press, 2017), Bab 1: "Overview of Self-Determination Theory", hlm. 3–25; serta **Edward L. Deci & Richard M. Ryan**, *Intrinsic Motivation and Self-Determination in Human Behavior* (New York: Plenum Press, 1985), hlm. 43–88.
+[^2]: **Gary W. Evans**, "The built environment and children's development", *Annual Review of Public Health*, Vol. 27 (2006), hlm. 423–441; serta **Gary W. Evans**, "Child development and the physical environment", *Annual Review of Psychology*, Vol. 57 (2006), hlm. 423–451.
+[^3]: **Edward L. Deci, Richard M. Ryan, & Maarten Vansteenkiste**, "Self-determination theory in educational settings", dalam K. R. Wentzel & D. B. Miele (Eds.), *Handbook of Motivation at School* (New York: Routledge, 2016), hlm. 105–129.
+[^4]: **Syaikhul Islam Ahmad bin Abdul Halim Ibnu Taimiyyah**, *Al-'Ubudiyyah*, Tahqiq: Ali Hasan al-Halabi (Beirut: Al-Maktab al-Islami, 1425 H / 2005 M), hlm. 15–35; serta **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Al-Fawa'id*, Tahqiq: Syaikh Syu'aib al-Arnauth (Kairo: Dar al-Afaq al-Jadidah, t.th.), hlm. 88–104.
+[^5]: **Gary W. Evans & Stephen J. Lepore**, "Moderating and mediating processes in environment-behavior research", dalam G. T. Moore & R. W. Marans (Eds.), *Advances in Environment, Behavior, and Design* (New York: Plenum Press, 1997), Vol. 4, hlm. 255–285.
+[^6]: **Richard H. Thaler & Cass R. Sunstein**, *Nudge: Improving Decisions About Health, Wealth, and Happiness* (New Haven: Yale University Press, 2008; Edisi Revisi, Penguin Books, 2009), Bab 1: "Biases and Blunders", hlm. 17–39; serta Bab 5: "Choice Architecture", hlm. 81–100.
+[^7]: **Hujjatul Islam Imam Abu Hamid Muhammad bin Muhammad al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Adab al-Ulfah wal Ukhuwwah wash-Shuhbah wa Mu'asyaratil Khalq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid II, hlm. 175–190.

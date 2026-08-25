@@ -1,101 +1,168 @@
 # SUB-BAB 1.2: FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Membongkar Mitos 'Penempaan Mental Baja', Meluruskan Residu Tradisi, dan Menegakkan Martabat Kemanusiaan Santri*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Sosiologi Kekerasan Pendidikan, Psikologi Trauma Perkembangan, Hukum Perlindungan Anak, & Epistemologi Turats  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Perlindungan Anak, Epistemologi Turats, & Disiplin Positif*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### Jeritan Sunyi di Bilik Asrama Malam Hari
 
----
+Ketika lonceng malam berdentang menandakan jam tidur dan lampu-lampu utama pesantren mulai dipadamkan, sebuah dunia yang sunyi dan mencekam kerap kali baru saja dimulai bagi sebagian anak-anak kita.
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Di balik pintu-pintu bilik yang terkunci rapat, di sudut lorong jemuran yang gelap, atau di aula yang tersembunyi dari pantauan para kiai, sekelompok santri baru dikumpulkan dalam suasana penuh ketegangan. Mata mereka dipaksa menatap lantai, tubuh mereka gemetar menahan dingin dan kantuk, sementara suara bentakan keras dari santri senior menggelegar memecah kesunyian malam. Satu per satu kesalahan kecil—seperti peci yang miring, terlambat beberapa detik saat antre makan, atau tatapan mata yang dianggap "kurang menunduk"—diadili layaknya kejahatan besar di hadapan mahkamah rimba.
 
-Penerapan **FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Hukuman pun dijatuhkan tanpa ampun: tamparan di pipi, pukulan sajadah basah yang menyengat kulit, tendangan di tulang kering, *push-up* dengan ujung jari hingga otot tangan gemetar kehabisan daya, hingga kewajiban mencuci tumpukan pakaian kotor senior sebelum fajar menyingsing.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph MitosTradisi["MITOS PENEMPAAN MENTAL YANG KELIRU"]
+        M1["1. Anggapan Keliru: Santri Harus 'Dihajar' agar Bermental Baja<br/>(Menganggap jiwa anak seperti besi kasar yang harus dipukul palu godam)"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        M2["2. Pembiaran Sistemik terhadap Sidang Malam & Pemukulan<br/>(Pengasuh membiarkan perpeloncoan dengan dalih 'belajar mandiri')"]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        M3["3. Klaim Semu: 'Dulu Saya Diperlakukan Begitu dan Terbukti Jadi Orang Hebat'<br/>(Cacat logika Survivorship Bias yang mengabaikan ribuan korban trauma)"]
         
-        T1 --> T2 --> T3
+        M1 --> M2 --> M3
     end
 ```
+<div align="center"><sub><b>Gambar 1.2.1:</b> Mitos Keliru 'Penempaan Mental Baja' yang Melanggengkan Kekerasan Antargenerasi.</sub></div>
 
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+Bagan di atas membongkar alasan klise yang selalu diulang-ulang oleh para pelaku kekerasan di asrama. Mereka berdalih bahwa anak harus *"dihajar"* agar bermental baja. Mereka mengklaim: *"Dulu saya juga dipukul dan sekarang terbukti jadi orang hebat!"* 
+
+Ini adalah cacat logika yang fatal. Jiwa anak bukanlah besi mati yang harus dihantam palu godam, melainkan **benih tanaman hidup yang rapuh**: ia butuh air keteladanan yang sejuk dan tanah aturan yang adil untuk bertumbuh kokoh. Pukulan fisik tidak pernah menciptakan kesatria bermental baja; pukulan hanya menciptakan dua tipe manusia yang terluka: **jiwa yang patah arang dan penakut**, atau **calon penindas baru yang menyimpan dendam membara**.
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### Anatomi Fenomenologis: Membedah Tiga Lapis Piramida Kekerasan
 
-Praksis **FENOMENOLOGI KEKERASAN & SENIORITAS FEODAL** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Kekerasan di pesantren tidak pernah muncul tiba-tiba. Ia menyusup secara halus melalui budaya turun-temurun. Sosiolog perdamaian dunia **Johan Galtung**[^1] merumuskan bahwa kekerasan selalu bekerja dalam struktur piramida tiga lapis:
+
+```mermaid
+graph TD
+    subgraph PiramidaKekerasan["PIRAMIDA TIGA LAPIS KEKERASAN DI ASRAMA"]
+        Puncak["1. KEKERASAN FISIK LANGSUNG (Direct Violence)<br/>Tamparan, pukulan rotan/sajadah basah, tendangan, push-up berlebih."]
+        Tengah["2. KEKERASAN VERBAL & PSIKOLOGIS (Structural Violence)<br/>Pembentakan massal, pelabelan merendahkan ('santri bebal'), pengucilan sosial."]
+        Dasar["3. KEKERASAN KULTURAL & FEODALISME SENIORITAS (Cultural Violence)<br/>Doktrin senior selalu benar, normalisasi perpeloncoan, mitos 'mental baja'."]
+        
+        Dasar ==> Tengah ==> Puncak
+    end
+```
+<div align="center"><sub><b>Gambar 1.2.2:</b> Piramida Tiga Lapis Kekerasan Kultural, Struktural, dan Fisik di Lingkungan Asrama.</sub></div>
+
+Piramida di atas menunjukkan mengapa kasus kekerasan fisik sulit diberantas jika kita hanya menghukum pelakunya tanpa membongkar akarnya:
+* **Lapis Dasar (Kekerasan Kultural)**: Berisi doktrin beracun seperti *"Senior selalu benar"*, *"Junior wajib tunduk tanpa syarat"*, dan anggapan bahwa perpeloncoan adalah tradisi wajib.
+* **Lapis Tengah (Kekerasan Struktural)**: Sistem asrama yang membiarkan ruang hampa pengawasan malam hari, di mana santri senior bebas membentak massal, mencaci maki dengan nama binatang, dan memaksa adik kelas mencuci bajunya.
+* **Lapis Puncak (Kekerasan Fisik Langsung)**: Letupan akhir berupa tamparan, tendangan, dan pemukulan. Tragedi santri luka berat atau meninggal yang viral di media massa hanyalah letupan puncak gunung es dari budaya feodal di bawahnya yang dibiarkan bertahun-tahun.
+
+---
+
+### Suluh Epistemologis Turats: Peringatan Keras Ibnu Khaldun dalam *Al-Muqaddimah*
+
+Jauh berabad-abad sebelum ilmu psikologi modern lahir, sosiolog teragung peradaban Islam, **Ibnu Khaldun (1332–1406 M)**[^2], telah menuliskan peringatan keras dalam *Al-Muqaddimah* pada bab khusus bertajuk *Kekerasan terhadap Pelajar Membawa Kerusakan Fatal bagi Jiwa Mereka*:
+
+> [!NOTE]
+> ### 📜 Diagnosa Tajam Sosiolog Muslim Ibnu Khaldun dalam *Al-Muqaddimah*:[^2]
+> 
+> $$\text{مَنْ كَانَ مَرْبَاهُ بِالْقَهْرِ وَالْقَسْرِ مِنْ الْمُتَعَلِّمِينَ أَوْ الْمَمَالِيكِ أَوْ الْخَدَمِ، سَطَا بِهِ الْقَهْرُ، وَضَيَّقَ عَلَى النَّفْسِ فِي انْبِسَاطِهَا، وَذَهَبَ بِنَشَاطِهَا، وَدَعَاهُ إِلَى الْكَسَلِ، وَحَمَلَهُ عَلَى الْكَذِبِ وَالْخُبْثِ، وَهُوَ التَّظَاهُرُ بِغَيْرِ مَا فِي ضَمِيرِهِ خَوْفًا مِنْ انْبِسَاطِ الْأَيْدِي بِالْقَهْرِ عَلَيْهِ، وَعَلَّمَهُ الْمَكْرَ وَالْخَدِيعَةَ لِذَلِكَ، وَصَارَتْ لَهُ هَذِهِ عَادَةً وَخُلُقًا، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ الَّتِي لَهُ}$$
+> 
+> **Artinya:**  
+> *"Barang siapa yang pola asuh dan pendidikannya ditegakkan di atas dasar kekerasan, pemaksaan, dan penindasan—maka kekerasan itu akan menguasai jiwanya, menyempitkan hatinya, melenyapkan semangat belajarnya, dan **mendorongnya untuk terbiasa berdusta serta bersikap curang**.*  
+> *Ia terpaksa berpura-pura patuh semata-mata karena takut dipukul. Kekerasan itulah yang mengajarinya tipu daya dan kelicikan, hingga akhirnya kepalsuan tersebut mendarah-daging menjadi karakternya; **dan pada puncaknya, hancurlah seluruh fitrah kemanusiaannya!**"*
+
+```mermaid
+graph TD
+    Kekerasan["Pendidikan Berbasis Kekerasan & Penindasan<br/>(Al-Qahr wal Qasr)"]
+    
+    Kekerasan --> D1["1. Jiwa Tertekan & Gairah Belajar Lenyap (Dhayyiq an-Nafs)"]
+    Kekerasan --> D2["2. Belajar Berdusta & Bermuka Dua demi Menghindari Siksaan (Al-Kadzib)"]
+    Kekerasan --> D3["3. Kelicikan Mendarah Daging Menjadi Watak Karakter (Al-Makr wal Khadi'ah)"]
+    
+    D1 & D2 & D3 ==> Hancur["RUSAKNYA MARTABAT FITRAH KEMANUSIAAN<br/>(Fasad Ma'ani al-Insaniyyah)"]
+```
+<div align="center"><sub><b>Gambar 1.2.3:</b> Rantai Kehancuran Karakter Santri Akibat Metode Kekerasan Menurut Ibnu Khaldun.</sub></div>
+
+Ibnu Khaldun membedah secara gamblang bagaimana kekerasan merusak anak dalam empat tahap: awalnya semangat belajar anak mati (*Dhayyiq an-Nafs*), lalu anak belajar berdusta demi menghindari pukulan (*Al-Kadzib*), kebohongan itu berubah menjadi kelicikan mendarah daging (*Al-Makr*), hingga akhirnya seluruh fitrah kemuliaan jiwanya hancur total (*Fasad Ma'ani al-Insaniyyah*).
+
+---
+
+### Neurosains Trauma & Siklus Pewarisan Dendam Antargenerasi
+
+Mengapa santri yang waktu yunior menangis tersiksa saat ditindas, beberapa tahun kemudian justru menjadi senior yang paling kejam kepada adik kelas barunya?
+
+Sains psikologi trauma[^3][^4] membongkar lingkaran setan ini:
+
+```mermaid
+graph TD
+    subgraph SiklusDendam["SIKLUS PEWARISAN KEKERASAN ANTARGENERASI"]
+        Korban["1. Santri Baru Menjadi Korban Penindasan<br/>Mengalami trauma, rasa terhina, & ketidakberdayaan kronis."]
+        
+        Modeling["2. Proses Peniruan Model (Albert Bandura)<br/>Otak merekam bahwa kekerasan adalah simbol kekuatan & kendali."]
+        
+        Identifikasi["3. Identifikasi dengan Pelaku (Bessel van der Kolk)<br/>Mekanisme pertahanan diri: 'Jika aku jadi penindas, aku aman'."]
+        
+        Pelaku["4. Santri Naik Tingkat Menjadi Senior<br/>Melampiaskan dendam masa lalu kepada adik kelas baru."]
+        
+        Korban --> Modeling --> Identifikasi --> Pelaku --> Korban
+    end
+```
+<div align="center"><sub><b>Gambar 1.2.4:</b> Siklus Transmisi Kekerasan Antargenerasi (*Cycle of Violence*) di Asrama Pesantren.</sub></div>
+
+Ketika seorang anak terus-menerus ditindas, otaknya merekam pesan bahwa *"satu-satunya cara agar tidak disakiti di dunia ini adalah dengan menjadi orang yang menyakiti"*. Begitu ia naik kelas menjadi senior, amigdala otaknya melampiaskan seluruh dendam masa lalu kepada santri baru yang tidak bersalah. Lingkaran setan ini akan terus berputar turun-temurun kecuali jika sistem pesantren memutusnya dengan tegas.
+
+---
+
+### Tinjauan Syar'i & Payung Hukum: Kezaliman Berkedok Pendidikan
+
+Banyak yang lupa bahwa memukul wajah, menampar, dan menyiksa fisik anak adalah **kezaliman syar'i yang diharamkan mutlak oleh Rasulullah SAW** sekaligus **tindak pidana murni di mata hukum negara**:
+
+> [!NOTE]
+> ### 📜 Larangan Tegas Rasulullah SAW Menyakiti Fisik Anak:
+> 
+> $$\text{إِذَا ضَرَبَ أَحَدُكُمْ فَلْيَجْتَنِبِ الْوَجْهَ، فَإِنَّ اللَّهَ خَلَقَ آدَمَ عَلَى صُورَتِهِ}$$
+> 
+> **Artinya:**  
+> *"Jika salah seorang di antara kalian terpaksa memukul, maka jauhilah memukul wajah! Karena sesungguhnya Allah memuliakan martabat fisik manusia."*  
+> *(HR. Bukhari no. 2559 dan Muslim no. 2612)*
+
+Rasulullah SAW—teladan agung umat manusia—sepanjang hayatnya **tidak pernah sekalipun memukul anak kecil, pembantu, maupun murid beliau** (HR. Muslim no. 2328).
+
+Secara hukum positif di Indonesia, **UU No. 35 Tahun 2014 tentang Perlindungan Anak (Pasal 54 & 80)**[^5] serta **PMA Kemenag No. 73 Tahun 2022**[^6] menegaskan bahwa segala bentuk kekerasan fisik dan psikis di lingkungan pendidikan diancam pidana penjara hingga 3 tahun 6 bulan dan sanksi pencabutan izin operasional lembaga.
+
+---
+
+### Solusi Sistemik TUMBUH: Arsitektur Ekosistem Nol Kekerasan (*Zero Violence Policy*)
+
+Menjawab amanah syariat dan hukum ini, **Sistem TUMBUH** merekayasa arsitektur perlindungan asrama melalui **Empat Pilar Deklarasi Nol Kekerasan**:
+
+```mermaid
+graph TD
+    KomitmenZero["DEKLARASI MUTLAK ZERO VIOLENCE SISTEM TUMBUH"]
+    
+    KomitmenZero --> K1["1. Penghapusan Mutlak Hukuman Fisik<br/>Rotan, tamparan, push-up tengah malam, & lari lapangan dihapus 100% dari seluruh SOP."]
+    
+    KomitmenZero --> K2["2. Penarikan Wewenang Yudisial Santri Senior<br/>Santri dilarang keras mengadili/menghukum adik kelas; peran diubah menjadi Peer Mentor."]
+    
+    KomitmenZero --> K3["3. Pakta Integritas Pendidik Bermaterai<br/>Seluruh asatidz dan musyrif menandatangani komitmen tertulis anti-kekerasan sebelum mengasuh."]
+    
+    KomitmenZero --> K4["4. Penerapan Disiplin Restoratif Logis 4R<br/>Mengganti balas dendam dengan pemulihan hubungan, restitusi nyata, dan taubat nashuha."]
+```
+<div align="center"><sub><b>Gambar 1.2.5:</b> Empat Pilar Deklarasi Mutlak Nol Kekerasan (*Zero Tolerance Policy*) Ekosistem TUMBUH.</sub></div>
+
+Langkah konkret Sistem TUMBUH di lapangan:
+1. **Hapus Hukuman Fisik 100%**: Menghilangkan seluruh rotan dan hukuman fisik tengah malam dari seluruh tata tertib.
+2. **Ubah Peran Senior Jadi Kakak Asuh (*Peer Mentors*)**: Membubarkan sidang malam senior dan mengalihkan tugas senior untuk membimbing dan melindungi adik kelasnya.
+3. **Pakta Integritas Pendidik**: Seluruh guru dan pembina menandatangani komitmen tertulis anti-kekerasan yang mengikat secara hukum.
+4. **Disiplin Restoratif 4R**: Pelanggaran diselesaikan dengan konsekuensi logis: **Related** (terkait langsung dengan kesalahan), **Respectful** (santun tanpa mencaci), **Reasonable** (masuk akal sesuai usia), dan **Restorative** (memulihkan persaudaraan melalui mekanisme saling memaafkan dan ganti rugi nyata).
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Johan Galtung**, "Violence, Peace, and Peace Research", *Journal of Peace Research*, Vol. 6, No. 3 (1969), hlm. 167–191; serta "Cultural Violence", *Journal of Peace Research*, Vol. 27, No. 3 (1990), hlm. 291–305.
+[^2]: **Al-Allamah Abdurrahman Ibnu Khaldun**, *Al-Muqaddimah*, Tahqiq: Dr. Darwis al-Juwaini (Beirut: Dar al-Fikr, t.th.), Fashl 40: *Fashl fi Anna asy-Syiddata 'ala al-Muta'allimin Mudhirrun bihim*, hlm. 540–542.
+[^3]: **Albert Bandura**, *Aggression: A Social Learning Analysis* (Englewood Cliffs: Prentice-Hall, 1973); serta **Cathy Spatz Widom**, "The cycle of violence", *Science*, Vol. 244, No. 4901 (1989), hlm. 160–166.
+[^4]: **Bessel van der Kolk**, *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* (New York: Viking Penguin, 2014), hlm. 105–124; serta **Vincent J. Felitti et al.**, "Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study", *American Journal of Preventive Medicine*, Vol. 14, No. 4 (1998), hlm. 245–258.
+[^5]: **Republik Indonesia**, *Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas UU Nomor 23 Tahun 2002 tentang Perlindungan Anak*, Lembaran Negara RI Tahun 2014 No. 297.
+[^6]: **Kementerian Agama Republik Indonesia**, *Peraturan Menteri Agama (PMA) Nomor 73 Tahun 2022 tentang Pencegahan dan Penanganan Kekerasan Seksual di Satuan Pendidikan pada Kementerian Agama*; serta **Republik Indonesia**, *Undang-Undang Nomor 18 Tahun 2019 tentang Pesantren*.

@@ -1,101 +1,91 @@
 # SUB-BAB 4.2: TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Fase Penguatan Bulan 7–18: Otomatisasi Rutinitas Asrama, Kolaborasi Kamar, dan Disiplin Positif Tanpa Friksi*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-04/SUB-02/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Teori Pembiasaan Perilaku (*Habit Formation Theory*), Sosiologi Kolaboratif, & Disiplin Positif Pesantren  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Pakar Disiplin Positif & Pakar Pengasuhan Asrama*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### Memasuki Tangga Kedua: Dari Adaptasi Menuju Otomatisasi Karakter
 
----
+Setelah santri berhasil melampaui fase adaptasi awal dan merasa aman di lingkungan pondok, santri melangkah menaiki **Jenjang J2 (Habituasi / *Ta'awun*)** yang berlangsung pada **bulan ke-7 hingga bulan ke-18** (Tahun Pertama Semester 2 hingga Tahun Kedua).
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
-
-Penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Fokus utama pada Jenjang J2 adalah **Habituasi dan Kolaborasi**:
+* Nilai-nilai adab yang sebelumnya masih dilakukan dengan rasa canggung kini dilatihkan secara konsisten hingga menjadi **kebiasaan bawah sadar (*automated habits*)**.
+* Interaksi santri diperluas dari sekadar menjaga diri sendiri menjadi **mampu bekerja sama dan bergotong royong (*Ta'awun*)** bersama seluruh warga kamar dan asrama.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph KarakteristikT2["PROFIL CAPAIAN SANTRI TANGGA T2 (HABITUASI / TA'AWUN)"]
+        Fokus["FOKUS UTAMA T2 (Bulan 7-18):<br/>Otomatisasi Adab 24-Jam, Keteraturan Loker, & Kerjasama Kamar"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        Fokus --> C1["1. Otomatisasi Rutinitas (Habit Automaticity)<br/>Bangun subuh, shalat berjamaah, & menata sandal tanpa perlu diperintah ustadz."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        Fokus --> C2["2. Tanggung Jawab Kebersihan (Room Cleanliness)<br/>Melaksanakan tugas piket kamar mandiri & menjaga loker selalu rapi 5S."]
         
-        T1 --> T2 --> T3
+        Fokus --> C3["3. Kolaborasi Gotong Royong (Ta'awun Bil Birri)<br/>Membantu kawan menyapu lorong & berbagi fasilitas bersama secara adil."]
+        
+        Fokus --> C4["4. Penerimaan Konsekuensi Logis (Accountability)<br/>Menerima teguran restoratif secara dewasa & bersedia melakukan restitusi 4R."]
     end
 ```
+<div align="center"><sub><b>Gambar 4.2.1:</b> Peta Capaian Karakter Santri pada Jenjang J2 (Habituasi / Ta'awun).</sub></div>
 
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+Pakar psikologi perilaku **Phillippa Lally et al.**[^1] membuktikan bahwa pembentukan kebiasaan otomatis (*automaticity*) membutuhkan waktu rata-rata 66 hari pengulangan harian yang konsisten dalam lingkungan yang stabil. Jenjang J2 memberikan ruang waktu yang cukup agar jalur mielin adab santri terbentuk kokoh.
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### Disiplin Positif Jane Nelsen: Menguatkan Jenjang J2 Tanpa Friksi
 
-Praksis **TANGGA T2 — HABITUASI (TA'AWUN) & PEMBIASAAN 24-JAM** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Pada tangga T2, santri mulai diuji oleh rasa bosan dan kejenuhan rutinitas asrama. Di sinilah banyak pembina terjebak kembali pada cara lama: menggunakan bentakan dan hukuman fisik.
+
+Sistem TUMBUH menegakkan prinsip **Disiplin Positif (*Positive Discipline*)** yang dirumuskan oleh **Jane Nelsen**[^2] yaitu prinsip **Tegas sekaligus Hangat (*Firm and Kind*)**:
+* **Tegas (*Firm*)**: Menghormati aturan dan kebutuhan lingkungan; standar adab tidak diturunkan.
+* **Hangat (*Kind*)**: Menghormati martabat anak; teguran dilayangkan dengan nada tenang tanpa mempermalukan santri di depan kawan-kawannya.
+
+```mermaid
+graph LR
+    subgraph KuadranPolaDisiplin["MATRIKS POLA DISIPLIN DALAM PENGASUHAN TANGGA T2"]
+        Opresif["OTORITER / OPRESIF<br/>(Tinggi Ketegasan, Rendah Kehangatan)<br/>Hasil: Santri Takut, Munafik, & Dendam"]
+        
+        Permisif["PERMISIF / MEMBIARKAN<br/>(Rendah Ketegasan, Tinggi Kehangatan)<br/>Hasil: Santri Manja & Asrama Kacau"]
+        
+        TUMBUH["DISIPLIN POSITIF TUMBUH (FIRM & KIND)<br/>(Tinggi Ketegasan, Tinggi Kehangatan)<br/>Hasil: Santri Bertanggung Jawab & Beradab"]
+        
+        Opresif --- TUMBUH
+        Permisif --- TUMBUH
+    end
+```
+<div align="center"><sub><b>Gambar 4.2.2:</b> Posisi Disiplin Positif Firm & Kind Ekosistem TUMBUH.</sub></div>
+
+---
+
+### Integrasi Turats: Konsep *Ta'awun 'alal Birri wat-Taqwa*
+
+Fondasi kolaborasi kamar pada Jenjang J2 berakar pada perintah Allah SWT dalam Al-Qur'an:
+$$\text{وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ}$$
+*"Dan tolong-menolonglah kamu dalam mengerjakan kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan!"* (QS. Al-Ma'idah: 2).
+
+**Al-Imam Abu Ishaq asy-Syathibi** dalam *Al-Muwafaqat*[^3] menjelaskan bahwa taklif kemaslahatan syariat tidak dapat ditegakkan oleh individu yang menyendiri, melainkan membutuhkan jalinan tolong-menolong (*at-Ta'awun al-Ijtima'i*) di antara sesama warga mukmin.
+
+**Hujjatul Islam Imam Abu Hamid Al-Ghazali** dalam *Ihya' 'Ulumiddin* (Kitab *Riyadhatin Nafs*)[^4] menegaskan bahwa tahapan *al-I'tiyad* (pembiasaan) membutuhkan kesabaran pendampingan hingga perbuatan baik yang tadinya terasa berat berubah menjadi tabiat alami yang terasa nikmat.
+
+---
+
+### Solusi Sistemik TUMBUH: Sistem Poin Apresiasi Kamar (*Room Positive Reinforcement*)
+
+Di asrama TUMBUH, keberhasilan Jenjang J2 didukung oleh:
+1. **Inspeksi Kamar Terbuka (*Adab Clean Room Audit*)**: Setiap pagi kamar dinilai berdasarkan standar kebersihan 5S; kamar yang paling tertib mendapatkan piala bergilir kamar teladan.
+2. **Penerapan Rasio Apresiasi Relasional 4:1**: Musyrif memberikan 4 apresiasi verbal tulus atas usaha kebaikan santri sebelum melayangkan 1 koreksi perbaikan.
+3. **Piket Kamar Terjadwal & Rotatif**: Setiap santri bertanggung jawab membersihkan area spesifik (lantai, jendela, rak sandal, tempat sampah) secara bergilir.
+
+Santri di tangga T2 telah membiasakan adab dalam ritme fisiknya: mereka tertib, bersih, dan mampu bekerja sama secara harmonis di dalam kamar asrama.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Phillippa Lally, Cornelia H. M. van Jaarsveld, Henry W. W. Potts, & Jane Wardle**, "How are habits formed: Modelling habit formation in the real world", *European Journal of Social Psychology*, Vol. 40, No. 6 (2010), hlm. 998–1009.
+[^2]: **Jane Nelsen, Lynn Lott, & H. Stephen Glenn**, *Positive Discipline in the Classroom: Developing Mutual Respect, Cooperation, and Responsibility in Your Classroom* (New York: Harmony Books / Random House, 2000; Edisi ke-4, 2013), Bab 1: "The Positive Discipline Class", hlm. 1–28.
+[^3]: **Al-Imam Abu Ishaq Ibrahim asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II, hlm. 112–135.
+[^4]: **Hujjatul Islam Imam Abu Hamid al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Riyadhatin Nafs wa Tahdzibil Akhlaq (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 62–74.

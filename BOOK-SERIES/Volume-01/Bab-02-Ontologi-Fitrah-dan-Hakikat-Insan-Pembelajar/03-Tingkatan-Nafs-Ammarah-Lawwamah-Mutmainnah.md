@@ -1,101 +1,111 @@
 # SUB-BAB 2.3: TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Tahapan Gradasi Moral Santri, Dinamika Muhasabah Diri, dan Komparasi Tahap Perkembangan Ego-Moral Kontemporer*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-02/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Psikologi Perkembangan Islam (*Tazkiyatun Nafs*), Tasawuf 'Amali, Teori Perkembangan Moral, & Epistemologi Turats  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Filosofi TUMBUH, & Pakar Desain Kurikulum Adab*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### Memahami Tangga Pendakian Karakter Santri
 
----
+Banyak pembina asrama sering kali kecewa dan putus asa Ketika melihat santri baru yang kemarin tampak bertobat, hari ini kembali mengulangi kesalahannya. 
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Muncul prasangka keliru: *"Anak ini memang tidak berniat berubah!", "Percuma dinasihati!"*
 
-Penerapan **TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Padahal, pertumbuhan karakter seorang anak manusia bukanlah peristiwa sulap yang terjadi dalam semalam. Jiwa manusia tidak berubah secara biner (dari "santri jahat" langsung menjadi "wali suci"). Al-Qur'an dan khazanah Islam memandang pembentukan akhlak sebagai sebuah **perjalanan pendakian spiritual (*As-Sayr was-Suluk*)** yang melintasi tiga etape kualitas jiwa:
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph TingkatanNafs["GRADASI DINAMIS NAFS DALAM AL-QUR'AN"]
+        Ammarah["1. NAFS AMMARAH BI AS-SU' (QS. Yusuf: 53)<br/>• Tunduk pada dorongan nafsu impulsif & mementingkan diri sendiri.<br/>• Melanggar aturan saat tidak diawasi, belum peka rasa bersalah."]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        Lawwamah["2. NAFS LAWWAMAH (QS. Al-Qiyamah: 2)<br/>• Mulai bangkit suara hati nurani (*Muhasabah*) & pergulatan batin.<br/>• Kadang tergelincir, namun segera menyesal dan ingin memperbaiki diri."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        Mutmainnah["3. NAFS MUTMA'INNAH (QS. Al-Fajr: 27-28)<br/>• Jiwa yang tenang, istiqamah, merasakan manisnya iman (*Halawatul Iman*).<br/>• Ketaatan adab menjadi refleks otomatis yang dicintai (*Muraqabah*)."]
         
-        T1 --> T2 --> T3
+        Ammarah -->|Etape 1: Ta'aruf & Adaptasi (T1)| Lawwamah
+        Lawwamah -->|Etape 2: Habituasi & Internalisasi (T2-T3)| Mutmainnah
     end
 ```
+<div align="center"><sub><b>Gambar 2.3.1:</b> Tiga Tingkatan Nafs dalam Al-Qur'an dan Tangga Metamorfosis Karakter Santri.</sub></div>
 
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+Peta tingkatan jiwa di atas mengajarkan kesabaran pedagogis: kekhilafan seorang santri bukanlah bukti kegagalan permanen, melainkan tanda bahwa ia sedang berjuang di tengah kancah pendakian jiwa.
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### Tiga Tingkatan Nafs dalam Khazanah Islam
 
-Praksis **TINGKATAN NAFS: DARI AMMARAH MENUJU MUTMA'INNAH** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Al-Qur'an menguraikan tiga kualitas jiwa manusia:
+
+1. **Nafs Ammarah bi as-Su' (النَّفْس الأمَّارَة بالسُّوء)**:  
+   Jiwa yang masih dikuasai dorongan biologis dan hawa nafsu primitif (QS. Yusuf: 53). Santri pada level ini bertindak impulsif, mementingkan diri sendiri (misal: menyerobot antrean makanan), dan hanya patuh jika ada pengawasan fisik ketat.
+2. **Nafs Lawwamah (النَّفْس اللَّوَّامَة)**:  
+   Jiwa yang telah terbangun suara hatinya (*Muhasabah*) dan mencela dirinya sendiri Ketika berbuat salah (QS. Al-Qiyamah: 2). Santri di level ini mengalami pergulatan batin: ia tahu mana yang benar dan salah, kadang masih tergelincir karena godaan kawan, namun segera merasa menyesal dan ingin berbenah.
+3. **Nafs Mutma'innah (النَّفْس المُطْمَئِنَّة)**:  
+   Puncak kematangan jiwa yang telah tenteram dan damai bersama Allah (QS. Al-Fajr: 27–28). Santri di level ini berakhlak mulia secara mandiri, merasakan kenikmatan dalam ibadah, dan tulus melayani sesamanya.
+
+---
+
+### Mutiara Turats: Penjelasan Ibn al-Qayyim tentang Pergulatan Jiwa
+
+Pakar jiwa Islam agung, **Imam Ibn al-Qayyim al-Jawziyyah** dalam *Madarij as-Salikin*[^1] menuliskan syarah yang amat mencerahkan:
+
+> [!NOTE]
+> ### 📜 Syarah Ibn al-Qayyim tentang Tiga Sifat Jiwa yang Silih Berganti:
+> 
+> $$\text{النَّفْسُ وَاحِدَةٌ، وَلَهَا صِفَاتٌ ثَلَاثَةٌ؛ فَتُسَمَّى أَمَّارَةً بِالسُّوءِ إِذَا غَلَبَتْ عَلَيْهَا الشَّهْوَةُ وَالْهَوَى، وَأَطَاعَتِ الشَّيْطَانَ. فَإِذَا اسْتَيْقَظَتْ مِنْ غَفْلَتِهَا وَلَامَتْ صَاحِبَهَا عَلَى التَّفْرِيطِ، وَتَرَدَّدَتْ بَيْنَ الطَّاعَةِ وَالْمَعْصِيَةِ، سُمِّيَتْ لَوَّامَةً. فَإِذَا رَضِيَتْ بِاللَّهِ رَبًّا، وَاطْمَأَنَّتْ إِلَى ذِكْرِهِ وَمَحَبَّتِهِ، وَصَارَتِ الطَّاعَةُ لَهَا غِذَاءً وَقُرَّةَ عَيْنٍ، سُمِّيَتْ مُطْمَئِنَّةً}$$
+> 
+> **Artinya:**  
+> *"Jiwa manusia itu pada hakikatnya satu, namun ia memiliki tiga sifat yang silih berganti: ia dinamakan **Ammarah** Ketika hawa nafsu menguasainya. Ketika jiwa itu terbangun dari kelalaiannya lalu mencela dirinya sendiri atas kesalahannya, maka ia dinamakan **Lawwamah**. Dan Ketika ia telah tenteram bersama Allah, mencintai ketaatan, serta ibadah telah menjadi santapan ruh dan penyejuk matanya, maka ia dinamakan **Mutma'innah**."*
+
+Uraian ini menyadarkan kita bahwa masa remaja santri adalah kancah pergulatan di level *Nafs Lawwamah*. Tugas pembina adalah menemani pergulatan tersebut dengan penuh kasih sayang, bukan memvonis dan mencampakkannya.
+
+---
+
+### Komparasi Sains: Tahap Perkembangan Moral Kohlberg vs Islam
+
+Teori psikologi perkembangan moral barat oleh **Lawrence Kohlberg**[^2] menemukan keselarasan yang luar biasa dengan konsep *Nafs* Islam:
+
+```mermaid
+graph LR
+    subgraph TuratsNafs["TINGKATAN NAFS TURATS"]
+        N1["1. Nafs Ammarah<br/>(Motif: Takut Hukuman / Keinginan Primitif)"]
+        N2["2. Nafs Lawwamah<br/>(Motif: Norma Sosial & Suara Hati Nurani)"]
+        N3["3. Nafs Mutma'innah<br/>(Motif: Mahabbah & Tauhid Transendental)"]
+    end
+
+    subgraph KohlbergMoral["TAHAP MORAL KOHLBERG"]
+        K1["Tingkat 1: Pre-Conventional<br/>(Orientasi Takut Hukuman Fisik)"]
+        K2["Tingkat 2: Conventional<br/>(Orientasi Konformitas & Tertib Sosial)"]
+        K3["Tingkat 3: Post-Conventional<br/>(Orientasi Prinsip Etika Universal)"]
+    end
+
+    N1 <===> K1
+    N2 <===> K2
+    N3 <===> K3
+```
+<div align="center"><sub><b>Gambar 2.3.2:</b> Komparasi Tingkatan Nafs dalam Turats dengan Tahap Perkembangan Moral Kohlberg.</sub></div>
+
+Kohlberg membuktikan bahwa anak bergerak dari kepatuhan takut dihukum (*Pre-conventional*), menuju kepatuhan menjaga hubungan sosial (*Conventional*), hingga kesadaran prinsip etika mandiri (*Post-conventional*). 
+
+Islam menyempurnakan teori Kohlberg: kematangan moral tertinggi tidak berhenti pada teori etika abstrak, melainkan bermuara pada **penyucian batin (*Tazkiyatun Nafs*) dan cinta tulus kepada Allah SWT** yang melahirkan kedamaian jiwa sejati (*Nafs Mutma'innah*).
+
+---
+
+### Solusi Sistemik TUMBUH: Pendekatan Berbasis Maqam Jiwa Santri
+
+Ekosistem **TUMBUH** melarang pendekatan seragam yang memukul rata seluruh santri. Musyrif dibekali panduan pendampingan sesuai maqam jiwa santri:
+
+| Tingkat Nafs Santri | Karakteristik Perilaku di Asrama | Strategi Pendampingan Sistem TUMBUH | Target Jenjang Kemandirian TUMBUH (J1–J4) |
+| :--- | :--- | :--- | :---: |
+| **1. Nafs Ammarah** | Sering lupa aturan, terburu-buru, impulsif membantah saat ditegur. | **Pendampingan Melekat (*Firm Scaffolding*)**: Jadwal harian yang terstruktur rapi, bimbingan langsung musyrif tanpa bentakan. | **Jenjang J1**<br/>(Tahu & Paham Adab) |
+| **2. Nafs Lawwamah** | Sudah paham aturan, kadang khilaf ikut kawan sekamar, namun merasa menyesal. | **Dialog Restoratif (*Restorative Inquiry*)**: Membimbing muhasabah batin, menyepakati ganti rugi/restitusi logis 4R. | **Jenjang J2 & T3**<br/>(Mau & Mampu Beradab) |
+| **3. Nafs Mutma'innah** | Mandiri dalam ibadah, pelopor kebersihan kamar, menyayangi adik kelas. | **Pemberdayaan Teladan (*Peer Mentorship*)**: Diberikan amanah sebagai Kakak Asuh dan duta teladan asrama. | **Jenjang J4**<br/>(**Tahap 7 Penggerak**) |
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Al-Imam Ibn al-Qayyim al-Jawziyyah**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-Arabi, 1416 H), Jilid I, hlm. 308–312.
+[^2]: **Lawrence Kohlberg**, *The Psychology of Moral Development: The Nature and Validity of Moral Stages* (San Francisco: Harper & Row, 1984), Bab 3: "Synopses of Moral Stages", hlm. 170–211.

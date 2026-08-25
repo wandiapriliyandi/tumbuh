@@ -1,101 +1,110 @@
 # SUB-BAB 2.5: MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Sintesis Epistemologi Turats, Nalar Kritis Ilmiah, Metakognisi Belajar, dan Verifikasi Tabayyun di Era Informasi*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Psikologi Kognitif & Metakognisi, Ushul Fiqih & Maqashid Syari'ah, *Cognitive Load Theory*, & Literasi Media Kritis  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Psikologi Belajar, & Pakar Desain Kurikulum Adab*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### I. Hakikat Mutsaqqoful Fikri: Melampaui Dogmatisme dan Fanatisme Sempit
 
----
+Pendidikan pesantren pada masa lampau kerap kali terjebak dalam model pembelajaran satu arah yang menuntut santri sekadar menjadi **perekam pasif teks (*passive memorizer*)**.
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Di ruang kelas madrasah, santri diajarkan untuk menghafal definisi tanpa diajak memahami latar belakang masalah (*asbab an-nuzul / asbab al-wurud*), tidak dilatih menimbang korelasi kaidah dengan realitas zaman, dan bahkan diharamkan bertanya kritis karena dianggap sebagai bentuk kelancangan adab. Akibatnya, lahirlah sebagian alumni dengan sindrom **keterbatasan wawasan kognitif (*narrow-mindedness*)**:
+* Begitu mendengar perbedaan pandangan fiqih (*khilafiyyah mazhab*), mereka langsung menuduh pihak lain sesat atau bid'ah karena tidak memahami keluasan khazanah ijtihad ulama;
+* Sangat mudah termakan hoaks, fitnah, dan teori konspirasi di media digital karena ketiadaan nalar verifikasi (*tabayyun*);
+* Gagap dan minder saat harus berdialog dengan perkembangan sains dan tantangan peradaban modern.
 
-Penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Dalam Ekosistem TUMBUH, **Mutsaqqoful Fikri** (Berwawasan Luas, Cerdas, dan Berpikir Kritis) ditegakkan sebagai manifestasi dari perintah agung *Tafakkur* dan *Tadabbur*. Santri dalam sistem TUMBUH dididik untuk memiliki kedalaman ilmu syariat yang kokoh (*Tafaqquh Fiddin*), sekaligus memiliki keterbukaan nalar intelektual untuk menyerap ilmu pengetahuan modern, menganalisis fenomena secara logis, dan memfilter informasi dengan filter *Tabayyun* nabawi.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph PilarNalarKritis["TIGA PILAR UTAMA MUTSAQQOFUL FIKRI EKOSISTEM TUMBUH"]
+        PorosFikir["MUTSAQQOFUL FIKRI (WAWASAN LUAS & NALAR KRITIS BERADAB)"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        PorosFikir --> P1["1. TAFAQQUH FIDDIN BERBASIS MAQASHID<br/>Memahami esensi syariat, ushul fiqih kontekstual, & lapang dada menyikapi khilafiyyah."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        PorosFikir --> P2["2. NALAR KRITIS & BUDAYA TABAYYUN (VERIFIKASI INFORMASI)<br/>Memeriksa kesahihan data (cek sumber), menolak hoaks, & pantang menghakimi tergesa."]
         
-        T1 --> T2 --> T3
+        PorosFikir --> P3["3. METAKOGNISI & LITERASI SAINS PERADABAN<br/>Menguasai strategi belajar mandiri, memahami sains dasar, & melek teknologi digital."]
     end
 ```
-
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+<div align="center"><sub><b>Gambar 2.5.1:</b> Tiga Pilar Operasional Karakter Mutsaqqoful Fikri Santri.</sub></div>
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### II. Khazanah Turats: Maqashid Asy-Syathibi & Budaya Ilmiah Al-Jahizh
 
-Praksis **MUTSAQQOFUL FIKRI (BERWAWASAN LUAS & BERNALAR KRITIS)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Tradisi keilmuan Islam klasik dibangun di atas dialektika argumentasi yang sangat rasional, jujur, dan beradab.
+
+#### 1. Perintah Tabayyun dan Verifikasi Epistemologis
+Allah SWT menetapkan protokol verifikasi informasi dalam Al-Qur'an (QS. Al-Hujurat: 6):
+
+$$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ}$$
+
+**Artinya:** *"Wahai orang-orang yang beriman! Jika datang kepadamu orang fasik membawa suatu berita, maka bertabayyunlah (periksalah kebenarannya secara teliti), agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang menyebabkan kamu menyesali perbuatanmu itu."*
+
+#### 2. Wawasan Maqashid Syari'ah Imam Abu Ishaq Asy-Syathibi
+Dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah*[^1], **Imam Abu Ishaq Asy-Syathibi** menegaskan bahwa tingkat pemahaman agama tertinggi dicapai apabila seorang penuntut ilmu mampu melihat tujuan universal syariat (*Maqashid asy-Syari'ah*):
+> *"Bukanlah orang berilmu sejati mereka yang hanya mampu menghafal teks zahir ayat dan hadits tanpa memahami 'illat (alasan hukum) dan maksud di baliknya. Pemahaman yang mendalam adalah yang mampu menghubungkan teks juz'iyyat (parsial) dengan kaidah kulliyyat (universal) demi mewujudkan kemaslahatan hamba dan menolak kerusakan di muka bumi."*
+
+Senada dengan itu, sastrawan dan ilmuwan besar Islam **Al-Jahizh** dalam *Kitab al-Hayawan*[^2] menolak sikap taklid buta dan menempatkan rasa ingin tahu ilmiah (*intellectual curiosity*) serta observasi eksperimental sebagai tangga pembuka ilmu hakiki.
+
+---
+
+### III. Tinjauan Sains: Teori Beban Kognitif (Sweller) & Metakognisi (Flavell)
+
+Bagaimana sains kognitif modern menjelaskan pembentukan kapasitas nalar kritis santri?
+
+#### 1. Teori Beban Kognitif (*Cognitive Load Theory*) John Sweller
+Pakar psikologi pendidikan **Prof. John Sweller**[^3] membuktikan bahwa kapasitas memori kerja manusia (*working memory*) sangat terbatas. Ketika santri dibebani dengan ceramah monoton yang membingungkan tanpa struktur yang jelas, otaknya mengalami kelebihan beban kognitif (*extraneous cognitive load*), yang mematikan proses analisis kritis.
+
+Sistem TUMBUH merancang pembelajaran madrasah dengan prinsip Sweller: materi disusun dalam peta konsep visual (*concept maps*), disajikan secara berjenjang, dan menghubungkan konsep baru dengan skema pengetahuan yang telah ada di memori jangka panjang (*germane cognitive load*).
+
+#### 2. Metakognisi: Seni Mengelola Proses Belajar Diri Sendiri (Flavell)
+Pakar psikologi perkembangan **John H. Flavell**[^4] merumuskan konsep **Metakognisi (*Metacognition*)**: yaitu kemampuan seseorang untuk memonitor, mengontrol, dan mengevaluasi proses berpikirnya sendiri (*thinking about thinking*).
+
+Santri yang memiliki *Mutsaqqoful Fikri* tidak sekadar menghafal, melainkan memiliki keterampilan metakognitif:
+* Mengetahui teknik belajar apa yang paling efektif bagi dirinya (apakah visual, auditori, atau ringkasan matriks);
+* Mampu mendeteksi bagian materi mana yang belum ia pahami secara jujur (*self-assessment*);
+* Berani mencari rujukan pembanding saat menemukan penjelasan yang janggal atau belum tuntas.
+
+```mermaid
+graph LR
+    subgraph AlurMetakognisi["SIKLUS METAKOGNISI BELAJAR SANTRI MUTSAQQOFUL FIKRI"]
+        Plan["1. Planning: Menentukan target belajar & strategi baca kitab"] --> Monitor["2. Monitoring: Mengecek pemahaman di setiap bab"]
+        Monitor --> Evaluate["3. Evaluating: Menguji diri lewat latihan soal & bahtsul masa'il"]
+        Evaluate --> Adjust["4. Adjusting: Memperbaiki metode jika hafalan belum mutqin"]
+        Adjust --> Plan
+    end
+```
+<div align="center"><sub><b>Gambar 2.5.2:</b> Siklus Metakognisi Belajar Mandiri Santri Ekosistem TUMBUH.</sub></div>
+
+---
+
+### IV. Matriks Indikator Perilaku Faktual Mutsaqqoful Fikri (24 Jam)
+
+| Ranah Aktivitas Pembelajaran | Indikator Perilaku Positif (Mutsaqqoful Fikri) | Perilaku Defisit / Fanatisme Sempit | Tindakan Pedagogis Terbimbing TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Diskusi & Halaqah Bahtsul Masa'il** | Menyampaikan argumen berbasis dalil shahih, mendengarkan pendapat kawan dengan hormat, dan terbuka dikoreksi. | Memotong pembicaraan kawan, memaksakan pendapat mazhabnya secara fanatik, mencela pendapat berbeda. | Pelatihan adab perbedaan pendapat (*Adab al-Ikhtilaf*) dan teknik debat ilmiah beretika (*Munazharah Adabi*). |
+| **Konsumsi Informasi & Berita Digital** | Melakukan verifikasi sumber (*cross-check* data), menyaring konten bermanfaat, dan menolak menyebar gosip/hoaks. | Langsung percaya dan membagikan berita viral provokatif tanpa membaca tuntas atau mengecek validitasnya. | Literasi media digital: pelatihan mendeteksi disinformasi, bias konfirmasi, dan menjaga etika digital Islami. |
+| **Sikap terhadap Sains & Teknologi** | Mengagumi keteraturan alam ciptaan Allah melalui sains, mempelajari teknologi untuk sarana kebaikan. | Menganggap seluruh sains modern sesat/haram, apriori terhadap kemajuan teknologi digital. | Integrasi kurikulum sains dan ayat-ayat kauniyyah dalam pembelajaran terpadu madrasah. |
+| **Strategi Belajar & Muthala'ah Mandiri** | Membuat ringkasan intisari kitab dengan peta konsep pribadi, aktif bertanya jika menemui kesulitan logika. | Menghafal buta kata per kata tanpa memahami maknanya, malu atau takut bertanya kepada guru. | Pembiasaan pembuatan *mind mapping* dan jurnal refleksi belajar harian santri. |
+
+---
+
+### V. Solusi Sistemik TUMBUH: Forum Munazharah Adabi & Pojok Sains Al-Qur'an
+
+Untuk memfasilitasi bertumbuhnya nalar kritis yang beradab, lembaga menyelenggarakan:
+1. **Forum Bahtsul Masa'il Kontekstual Remaja**: Agenda bulanan di mana santri membedah isu-isu kekinian (seperti etika kecerdasan buatan, bioetika medis, dan perlindungan lingkungan) dari kacamata ushul fiqih dan sains kontemporer.
+2. **Pojok Literasi & Sains Kauniyyah di Asrama**: Menyediakan ensiklopedia sains bergambar, buku-buku sejarah peradaban Islam, dan fasilitas teleskop astronomi untuk pengamatan hisab rukyat rukyatul hilal.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Al-Imam Abu Ishaq Ibrahim bin Musa asy-Syathibi**, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Syaikh Masyhur Hasan Salman (Kairo: Dar Ibn Affan, 1997), Jilid II: "Kitab al-Maqashid", hlm. 25–68.
+[^2]: **Abu Utsman Amr bin Bahr al-Jahizh**, *Kitab al-Hayawan*, Tahqiq: Abdussalam Muhammad Harun (Kairo: Musthafa al-Babi al-Halabi, 1965), Jilid I, hlm. 18–45; serta **Al-Jahizh**, *Al-Bayan wat-Tabyin* (Kairo: Maktabah al-Khanji, 1998), hlm. 33–55.
+[^3]: **John Sweller, Paul Ayres, & Slava Kalyuga**, *Cognitive Load Theory* (New York: Springer, 2011), Bab 2 & 3: "Human Cognitive Architecture and Cognitive Load", hlm. 15–42.
+[^4]: **John H. Flavell**, "Metacognition and cognitive monitoring: A new area of cognitive-developmental inquiry", *American Psychologist*, Vol. 34, No. 10 (1979), hlm. 906–911; serta **Douglas J. Hacker, John Dunlosky, & Arthur C. Graesser** (Eds.), *Handbook of Metacognition in Education* (New York: Routledge, 2009), hlm. 1–20.

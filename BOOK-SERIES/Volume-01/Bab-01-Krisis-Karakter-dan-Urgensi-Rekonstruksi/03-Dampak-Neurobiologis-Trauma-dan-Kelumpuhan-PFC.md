@@ -1,101 +1,176 @@
 # SUB-BAB 1.3: DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Mekanisme Pembajakan Amigdala, Disregulasi Hormon Kortisol, dan Kerusakan Sirkuit Regulasi Moral Otak Remaja*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-01/SUB-03/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Neurosains Kognitif Terapan, Neurobiologi Trauma, Teori Polivagal, & Epistemologi Turats  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Neurosains Perkembangan, Disiplin Positif, & Bimbingan Konseling*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### Paradoks Biologis Disiplin: Mengapa Kemarahan Menutup Pintu Pemahaman Anak?
 
----
+Pernahkah Anda heran, mengapa seorang santri yang sedang dibentak habis-habisan atau dihukum di depan umum justru tampak membisu layaknya patung batu, tatapan matanya kosong, atau beberapa hari kemudian mengulangi kesalahan yang sama persis? 
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Mengapa suara ustadz yang semakin keras dan hukuman yang semakin berat justru tidak membuat si anak semakin paham?
 
-Penerapan **DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
+Banyak pengurus mengira sikap membisu itu adalah tanda anak yang "keras kepala", "bebal", atau "sengaja melawan guru". Namun, sains modern di bidang neurosains kognitif membuktikan fakta biologis yang mengejutkan:
 
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
+> [!IMPORTANT]
+> ### 🧠 Hukum Biologis Otak:
+> Ketika seorang anak diteror dengan bentakan, ancaman rotan, atau dipermalukan di depan kawan-kawannya, bagian otak yang bertugas memahami aturan moral (**Korteks Prefrontal / PFC**) secara otomatis **padam dan terkunci rapat (*brain shut-down*)**.  
 > 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+> Memaksa anak mencerna nasihat adab saat ia sedang ketakutan sama mustahilnya dengan menyuruh seseorang membaca buku di dalam ruangan yang sedang terbakar hebat!
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph ParadoksBiologis["PARADOKS BENTAKAN & KELUMPUHAN NALAR MORAL"]
+        B1["Stimulus Teror: Suara Bentakan Keras, Tatapan Marah, atau Ancaman Fisik"]
+        B2["Reaksi Otak: Alarm Bahaya (Amigdala) Membajak Kemudi Saraf"]
+        B3["Dampak Seketika: Korteks Prefrontal (PFC / Nalar Moral) Padam Total"]
+        B4["Manifestasi Perilaku: Santri Mematung (Freeze), Berdusta (Fight/Flight), atau Pasrah Palsu"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
-        
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
-        
-        T1 --> T2 --> T3
+        B1 --> B2 --> B3 --> B4
     end
 ```
+<div align="center"><sub><b>Gambar 1.3.1:</b> Rantai Biologis Pembajakan Nalar Sadar Santri akibat Ancaman Disiplin Represif.</sub></div>
 
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+Detik saat suara bentakan menggelegar, otak santri tidak sedang memproses makna nasihat guru, melainkan sedang panik menyelamatkan diri dari ancaman bahaya fisik. Nalar sadarnya lumpuh seketika.
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### Neuroanatomi Otak Remaja: Mesin Mobil Balap vs Rem Sepeda Ontel
 
-Praksis **DAMPAK NEUROBIOLOGIS TRAUMA & KELUMPUHAN PFC** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Mengapa santri usia 12 hingga 18 tahun (usia MTs dan MA) sangat mudah meledak emosinya dan sering bertindak tanpa pikir panjang?
+
+Riset pencitraan otak resonansi magnetik (*fMRI*)[^1] membongkar sebuah rahasia besar: **otak santri remaja sedang berada dalam fase konstruksi yang sangat tidak seimbang**:
+
+```mermaid
+graph TD
+    subgraph MesinEmosi["1. 'OTAK LANTAI BAWAH' / SISTEM LIMBIK (Matang Sangat Awal di Usia 11-13 Tahun)"]
+        Amigdala["Amigdala & Nukleus Akumbens<br/>• Pusat dorongan emosi spontan, pencarian sensasi, & rasa malu.<br/>• Sangat peka terhadap pengakuan kawan sebaya.<br/>• Bekerja secepat kilat tanpa memikirkan akibat jangka panjang."]
+    end
+    
+    subgraph MesinNalar["2. 'OTAK LANTAI ATAS' / KORTEKS PREFRONTAL (Baru Matang Penuh di Usia 22-25 Tahun)"]
+        PFC["Korteks Prefrontal (Dorsolateral & Ventromedial PFC)<br/>• Pusat kendali diri, rem biologis emosi, & pertimbangan etika.<br/>• Kemampuan menimbang risiko masa depan & empati mendalam.<br/>• Fungsi eksekutif untuk merencanakan tindakan beradab."]
+    end
+    
+    Amigdala <-->|"Kesenjangan Kematangan Biologis Usia Santri Remaja"| PFC
+    PFC -.->|"Membutuhkan Penyangga Eksternal"| Musyrif["Musyrif Hadir sebagai 'Rem Eksternal' yang Tenang, Hangat, & Adil (Co-Regulation)"]
+```
+<div align="center"><sub><b>Gambar 1.3.2:</b> Model Dual-Systems: Kesenjangan Kematangan antara Sistem Limbik dan Korteks Prefrontal Otak Remaja.</sub></div>
+
+Bayangkan seorang anak yang mengendarai mobil dengan **mesin mobil balap berkekuatan 500 tenaga kuda (Sistem Limbik yang sudah matang sempurna sejak awal pubertas), namun baru dilengkapi dengan pedal rem sepeda ontel (Korteks Prefrontal yang baru akan selesai dibangun pada usia 25 tahun)**!
+
+Ketika seorang santri bercanda berlebihan di kamar mandi atau lupa jadwal piket, kekhilafan itu bukan karena ia anak jahat, melainkan rem biologis di otaknya memang belum selesai dibangun. Santri remaja belum memiliki rem mandiri yang kuat. Mereka sangat membutuhkan **kehadiran musyrif dewasa yang tenang dan hangat sebagai 'rem eksternal' (*External Scaffolding*)**, bukan bentakan kasar yang justru memutus kabel rem tersebut!
+
+---
+
+### Kaskade Neurokimia Trauma: Pembajakan Amigdala & Racun Hormon Kortisol
+
+Apa yang sebenarnya terjadi di dalam pembuluh darah dan jaringan saraf santri saat ia dibentak ustadznya?
+
+Pakar kecerdasan emosional Daniel Goleman[^2] menyebut peristiwa ini sebagai **Pembajakan Amigdala (*Amygdala Hijack*)**:
+
+```mermaid
+graph TD
+    Bentakan["Bentakan Keras / Ancaman Rotan Musyrif"] --> Talamus["Talamus Menangkap Sinyal Suara & Tatapan Marah"]
+    
+    Talamus -->|"Jalur Saraf Pintas Rendah (12 Milidetik)"| Amigdala["AMIGDALA MEMBAJAK KEMUDI OTAK<br/>(Mengaktifkan Sirkuit Darurat Bahaya Fisik)"]
+    
+    Amigdala --> AksisHPA["Aktivasi Aksis HPA (Hipotalamus - Pituitari - Adrenal)"]
+    AksisHPA --> Hormon["Banjir Hormon Stres Toksik:<br/>• Kortisol Dosis Tinggi<br/>• Norepinefrin & Adrenalin"]
+    
+    Hormon --> SirkuitFisik["Reaksi Darurat Raga:<br/>• Jantung berdegup kencang<br/>• Otot kaku & napas memburu"]
+    
+    Hormon --> LumpuhPFC["KORTEKS PREFRONTAL MATI TOTAL (PFC Shut-Down):<br/>• Hilang kemampuan mencerna nasihat moral<br/>• Terjebak 4 Reaksi Primitif: Fight, Flight, Freeze, Fawn"]
+```
+<div align="center"><sub><b>Gambar 1.3.3:</b> Kaskade Neurokimia Pembajakan Amigdala dan Kelumpuhan Nalar Moral (*PFC Shut-Down*).</sub></div>
+
+Hanya dalam tempo **12 milidetik**—sebelum santri sempat menyadari apa yang terjadi—alarm amigdala di otaknya langsung merebut kemudi tubuh. Aliran darah dibanjiri racun hormon stres (**kortisol dan adrenalin**). Jantung berdegup kencang, napas memburu, dan pintu nalar sadar di otak depan (*PFC*) padam seketika.
+
+Santri terlempar ke dalam **Empat Respons Primitif Pertahanan Diri**:
+* **Fight (Melawan)**: Santri menatap dendam atau melampiaskan amarah dengan memukul kawan yang lebih lemah.
+* **Flight (Kabur)**: Santri melarikan diri dari asrama (*minggat*) atau sembunyi di toilet saat jam mengaji.
+* **Freeze (Membeku)**: Santri mematung kaku, mulut terkunci, dan pikiran hampa (*seperti patung batu*).
+* **Fawn (Pura-pura Patuh)**: Santri mengangguk-angguk manis semata-mata agar kemarahan guru segera berakhir.
+
+Riset psikiatri anak[^3] membuktikan bahwa santri yang sering dibentak dan dihukum fisik mengalami **penyusutan organ memori (hipokampus) sebesar 10–15%**. Akibatnya fatal: santri kehilangan konsentrasi dan mengalami kemunduran tajam dalam menghafal Al-Qur'an dan kitab kuning!
+
+---
+
+### Teori Polivagal Stephen Porges: Rasa Aman adalah Pintu Masuk Adab
+
+Penelitian neurofisiologi klinis melalui **Teori Polivagal (*Polyvagal Theory*)** oleh **Prof. Stephen Porges**[^4] membuktikan bahwa tubuh manusia memiliki saklar saraf tiga tingkat:
+
+```mermaid
+graph TD
+    VVC["1. STATUS VENTRAL VAGAL (Aman, Tenang, & Terhubung Sosial)<br/>Musyrif Ramah, Wajah Teduh, Suara Tenang, Aturan Pasti & Berkeadilan"]
+    VVC --> BukaOtak["Korteks Prefrontal Aktif Optimal & Neuroplastisitas Terbuka Lebar"]
+    BukaOtak --> TumbuhAdab["Santri Menghayati Nilai Tawadhu', Syukur, Sabar, Ikhlas, & Cinta Ilmu"]
+    
+    SNS["2. STATUS SIMPATIK (Ancaman Bahaya: Fight or Flight)<br/>Bentakan Keras, Makian Pejoratif, & Ancaman Hukuman Fisik"]
+    SNS --> KunciOtak["PFC Lumpuh, Amigdala Meledak, Tubuh Menegang Siaga Bertarung/Kabur"]
+    KunciOtak --> RusakAdab["Santri Berdusta, Menuduh Kawan, & Mengembangkan Kepatuhan Semu"]
+    
+    DVC["3. STATUS DORSAL VAGAL (Keputusasaan: Freeze / Collapse)<br/>Trauma Berulang, Dipermalukan di Depan Umum, Perpeloncoan Malam"]
+    DVC --> MatiRasa["Jiwa Patah Arang, Disosiasi Emosional, Depresi Klinis, & Apatis Total"]
+```
+<div align="center"><sub><b>Gambar 1.3.4:</b> Hubungan Status Sistem Saraf Polivagal terhadap Terbuka atau Tertutupnya Kapasitas Penghayatan Adab Santri.</sub></div>
+
+Pesan dari tabel saraf di bawah ini sangat sederhana: **santri hanya bisa menyerap adab Ketika ia berada di Status Hijau (Ventral Vagal / Rasa Aman)**:
+
+| Status Saraf | Kondisi Batin Santri | Manifestasi Perilaku di Pondok | Kapasitas Menyerap Adab |
+| :--- | :--- | :--- | :---: |
+| **1. Hijau (Ventral Vagal)** | **Aman & Diterima**: Tenang, rileks, dan percaya pada guru. | Santun, kooperatif, empati tinggi, jujur mengakui salah. | **OPTIMAL (100%)**<br/>Adab mendarah daging. |
+| **2. Kuning (Simpatik)** | **Terancam Bahaya**: Panik, takut dipukul, merasa diserang. | Berdusta demi selamat, saling tuduh, atau kabur. | **TERHAMBAT (0%)**<br/>Kepatuhan palsu sesaat. |
+| **3. Merah (Dorsal Vagal)** | **Putus Asa**: Jiwa mati rasa, menyerah pada kepedihan. | Wajah datar tanpa ekspresi, mengompol, depresi berat. | **LUMPUH TOTAL (-100%)**<br/>Kehancuran mental anak. |
+
+---
+
+### Integrasi Turats: Ketenangan Qalbu (*Thuma'ninah*) dan Cahaya Akal (*Nural Fahm*)
+
+Temuan ilmiah ini menegaskan kaidah yang telah ditulis ulama tasawuf agung, **Imam Al-Harits al-Muhasibi (w. 857 M)** dalam kitabnya *Adab an-Nufus*:
+
+> [!NOTE]
+> ### 📜 Kaidah Emas Imam Al-Harits al-Muhasibi dalam *Adab an-Nufus*:[^5]
+> 
+> $$\text{إِذَا اسْتَوْلَى الْخَوْفُ الْمُفْرِطُ أَوِ الْغَضَبُ عَلَى النَّفْسِ، عَشِيَ بَصَرُ الْعَقْلِ، وَغَابَتِ الْحِكْمَةُ، وَلَمْ يَبْقَ لِلصَّاحِبِ مَسْلَكٌ إِلَى مَعْرِفَةِ حَقِيقَةِ الْأَدَبِ، وَإِنَّمَا يَنْبُتُ الْأَدَبُ فِي قَلْبٍ سَكَنَتْ رَوْعَتُهُ، وَاطْمَأَنَّتْ سَرِيرَتُهُ}$$
+> 
+> **Artinya:**  
+> *"Ketika rasa takut yang berlebihan atau amarah telah menguasai jiwa seseorang, maka **butalah pandangan mata hatinya**, sirnalah hikmah kebijaksanaan darinya, dan tertutuplah jalannya untuk mengenali hakikat adab yang sejati.*  
+> *Sesungguhnya adab itu hanyalah akan mampu bersemi dan bertumbuh di dalam **kalbu yang telah reda dari rasa takut yang mencekam dan telah tenteram batinnya (*Thuma'ninah*)**."*
+
+Ulama salaf telah mengajarkan: **ketenteraman batin (*Thuma'ninah*) adalah syarat mutlak agar pintu akal terbuka untuk menerima ilmu dan adab.**
+
+---
+
+### Solusi Sistemik TUMBUH: Arsitektur Regulasi Neuro-Afektif Berbasis Rasa Aman
+
+Berdasarkan hukum neurobiologi dan tuntunan Turats ini, **Sistem TUMBUH** menetapkan bahwa **penciptaan rasa aman (*Safety First*) adalah syarat mutlak seluruh proses pendidikan**. Sistem TUMBUH merumuskan **Tiga Protokol Regulasi Neuro-Afektif**:
+
+```mermaid
+graph TD
+    RootReg["TIGA PROTOKOL REGULASI NEURO-AFEKTIF SISTEM TUMBUH"]
+    
+    RootReg --> Reg1["1. De-eskalasi Suara & Postur (Calm Presence)<br/>Menurunkan oktaf suara, duduk sejajar mata anak, & tatapan mata teduh."]
+    
+    RootReg --> Reg2["2. Jeda Regulasi Bersama (Co-Regulation Pause)<br/>Santri ditenangkan dengan air minum & dzikir hingga detak jantung normal."]
+    
+    RootReg --> Reg3["3. Dialog Restoratif (Window of Tolerance)<br/>Konsekuensi logis 4R disepakati saat Korteks Prefrontal santri telah aktif penuh."]
+```
+<div align="center"><sub><b>Gambar 1.3.5:</b> Tiga Protokol Regulasi Neuro-Afektif Ekosistem TUMBUH dalam Penanganan Pelanggaran Santri.</sub></div>
+
+Penerapan protokol sistemik di lapangan:
+1. **Tenangkan Nada Suara (*Calm Presence*)**: Musyrif menggunakan intonasi rendah dan posisi duduk sejajar mata anak untuk meredakan alarm amigdala santri.
+2. **Beri Jeda Tenang (*Co-Regulation Pause*)**: Menghentikan interogasi saat santri panik, memberi segelas air putih, dan membimbing dzikir hingga detak jantung anak kembali normal.
+3. **Bicara saat Nalar Sudah Siap (*Window of Tolerance*)**: Memulai musyawarah dan penentuan konsekuensi logis 4R hanya Ketika santri sudah tenang, sehingga nilai akhlak tersimpan abadi di memori jangka panjangnya.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Jay N. Giedd et al.**, "Brain development during childhood and adolescence: a longitudinal MRI study", *Nature Neuroscience*, Vol. 2, No. 10 (1999), hlm. 861–863; **Sarah-Jayne Blakemore**, "Development of the social brain in adolescence", *Journal of the Royal Society of Medicine*, Vol. 105, No. 3 (2012), hlm. 111–116; serta **Laurence Steinberg**, "A social neuroscience perspective on adolescent risk-taking", *Developmental Review*, Vol. 28, No. 1 (2008), hlm. 78–106.
+[^2]: **Daniel Goleman**, *Emotional Intelligence: Why It Can Matter More Than IQ* (New York: Bantam Books, 1995), Bab 2: "Anatomy of an Emotional Hijacking", hlm. 13–29.
+[^3]: **Robert M. Sapolsky**, *Behave: The Biology of Humans at Our Best and Worst* (New York: Penguin Press, 2017), hlm. 95–136; serta **Bruce D. Perry & Maia Szalavitz**, *The Boy Who Was Raised as a Dog: And Other Stories from a Child Psychiatrist's Notebook* (New York: Basic Books, 2006), hlm. 45–78.
+[^4]: **Stephen W. Porges**, *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation* (New York: W. W. Norton & Company, 2011), hlm. 133–164; serta *The Pocket Guide to the Polyvagal Theory: The Transformative Power of Feeling Safe* (New York: W. W. Norton, 2017).
+[^5]: **Imam Al-Harits al-Muhasibi**, *Adab an-Nufus*, Tahqiq: Dr. Abdul Qadir Ahmad 'Atha (Kairo & Beirut: Dar al-Kutub al-Ilmiyyah, 1986), Bab 'Fashl fi Thuma'ninatil Qalbi wa Nuri Fahmil Aql', hlm. 48–51.

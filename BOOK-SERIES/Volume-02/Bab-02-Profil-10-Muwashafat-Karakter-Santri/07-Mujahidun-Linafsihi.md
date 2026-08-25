@@ -1,101 +1,111 @@
 # SUB-BAB 2.7: MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Fondasi Penaklukan Impulsivitas, Delayed Gratification, Tazkiyatun Nafs, dan Penguatan Otot Kontrol Diri (PFC) 24-Jam*
 
 **Kode Klasifikasi**: `BOOK-02/BAB-02/SUB-07/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Psikologi Regulasi Diri (*Self-Regulation*), Neurosains Inhibisi Kognitif, *Tazkiyatun Nafs*, & Teori Penundaan Kepuasan (*Delayed Gratification*)  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Bimbingan Konseling, & Pakar Neurosains Perkembangan*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### I. Hakikat Mujahidun Linafsihi: Medan Tempur Terbesar di Dalam Diri
 
----
+Dalam perjalanan hidup seorang penuntut ilmu di pesantren, musuh paling berbahaya yang mampu menggagalkan masa depannya bukanlah ketatnya jadwal madrasah, bukan pula ustadz yang tegas, melainkan **hawa nafsunya sendiri yang bersemayam di dalam dadanya (*an-Nafs al-Ammarah bis-Su'*)**.
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Remaja yang gagal menaklukkan dorongan impulsif nafsunya akan terperosok ke dalam berbagai perilaku destruktif:
+* **Kelumpuhan Daya Tahan Belajar (*Instant Gratification Trap*)**: Tidak mampu bertahan membaca kitab lebih dari 10 menit karena terbiasa mencari kepuasan instan;
+* **Kecanduan Tersembunyi (*Hidden Digital Addiction*)**: Berusaha menyelundupkan gawai secara ilegal ke asrama hanya untuk bermain game online sembunyi-sembunyi di bawah selimut hingga larut malam;
+* **Ketidakberdayaan Melawan Rasa Malas**: Selalu beralasan sakit saat adzan subuh berkumandang hanya demi menambah beberapa menit tidur di kasur empuk.
 
-Penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Dalam Ekosistem TUMBUH, **Mujahidun Linafsihi** (Pejuang yang Gigih Menaklukkan Hawa Nafsunya) adalah mahkota kepribadian santri. Santri tidak diposisikan sebagai robot yang patuh karena dipaksa kamera pengawas, melainkan sebagai **ksatria batin (*spiritual warrior*)** yang dilatih setiap hari untuk mengendalikan syahwatnya, menolak kepuasan sesaat (*delayed gratification*), dan mengarahkan seluruh kehendak jiwanya demi menggapai derajat keridhaan Allah SWT.
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph PilarMujahadah["TIGA PILAR UTAMA MUJAHIDUN LINAFSIHI EKOSISTEM TUMBUH"]
+        PorosJihad["MUJAHIDUN LINAFSIHI (PENGENDALIAN DIRI & REGULASI NAFSU 24 JAM)"]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        PorosJihad --> P1["1. DELAYED GRATIFICATION (PENUNDAAN KEPUASAN SESAAT)<br/>Rela lelah belajar & bangun malam hari ini demi meraih kemuliaan ilmu & akhirat."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
+        PorosJihad --> P2["2. GHADDHUL BASHAR & KESUCIAN PANDANGAN ('IFFAH)<br/>Menjaga pandangan mata dari pornografi, menjaga kesucian hati, & menolak maksiat."]
         
-        T1 --> T2 --> T3
+        PorosJihad --> P3["3. DISIPLIN BATIN & RESILIENSI RESISTENSI GODAAN (IRADAH)<br/>Mampu berkata 'TIDAK' pada ajakan kawan untuk melanggar aturan & bermalas-malasan."]
     end
 ```
-
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+<div align="center"><sub><b>Gambar 2.7.1:</b> Tiga Pilar Operasional Karakter Mujahidun Linafsihi Santri.</sub></div>
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### II. Khazanah Turats: Syarah Hadits Mujahid Sejati & Riyadhatun Nafs Al-Ghazali
 
-Praksis **MUJAHIDUN LINAFSIHI (PENGENDALIAN HAWA NAFSU & REGULASI DIRI)** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Para ulama Islam telah membedah secara mendalam dinamika perang batin melawan dorongan nafsu hewani (*an-Nafs al-Bahimiyyah*).
+
+#### 1. Hakikat Mujahid Sejati dalam Sunnah Nabawiyyah
+Dalam hadits shahih yang diriwayatkan oleh **Imam At-Tirmidzi**[^1], Rasulullah SAW menegaskan:
+
+$$\text{الْمُجَاهِدُ مَنْ جَاهَدَ نَفْسَهُ فِي اللهِ}$$
+
+**Artinya:** *"Mujahid (pejuang) sejati adalah orang yang bersungguh-sungguh berjihad melawan hawa nafsunya demi ketaatan kepada Allah."*
+
+#### 2. Metode Pelatihan Jiwa (*Riyadhatun Nafs*) Imam Al-Ghazali
+Dalam *Ihya' 'Ulumiddin* (Kitab *Kasyr asy-Syahwatain: Syahwat al-Bathn wa Syahwat al-Farj*)[^2], **Hujjatul Islam Imam Abu Hamid Al-Ghazali** mengibaratkan hawa nafsu manusia bagaikan seekor kuda liar:
+> *"Ketahuilah bahwa nafsu manusia jika dibiarkan bebas menuruti seluruh keinginannya, ia akan menjadi liar dan melemparkan penunggangnya ke dalam jurang kebinasaan. 
+> 
+> Namun, jika nafsu tersebut dilatih secara bertahap (*riyadhah*) dengan mengurangi porsi makan berlebih melalui puasa, membatasi tidur berlebihan melalui qiyamul lail, dan mengekangnya dengan kendali syariat, maka nafsu tersebut akan tunduk menjadi tunggangan setia yang menghantarkan manusia menuju hadirat Ilahi."*
+
+Dalam *Al-Fawa'id*[^3], **Imam Ibnu Qayyim al-Jawziyyah** menjelaskan strategi memenangkan perang batin: *Tolaklah lintasan pikiran buruk (*al-khawatir*) saat pertama kali muncul di kepala; karena jika lintasan pikiran dibiarkan, ia akan berubah menjadi syahwat (*asy-syahwah*); jika syahwat dibiarkan, ia akan mengkristal menjadi kehendak bulat (*al-iradah*); dan jika kehendak dibiarkan, ia akan meletup menjadi tindakan maksiat nyata (*al-fi'l*).*
+
+---
+
+### III. Tinjauan Sains: The Marshmallow Test & Otot Kontrol Diri Prefrontal
+
+Konsep *Mujahidun Linafsihi* memiliki padanan ilmiah yang sangat kokoh dalam riset psikologi kontrol diri modern:
+
+#### 1. Eksperimen Legendaris The Marshmallow Test (Walter Mischel)
+Riset longitudinal monumental oleh **Prof. Walter Mischel**[^4] dari Stanford University menguji kemampuan anak menunda kepuasan (*delayed gratification*): anak diberi satu marshmallow, namun jika ia mampu menahan diri tidak memakannya selama 15 menit, ia akan diberi hadiah marshmallow kedua.
+
+Pelacakan terhadap anak-anak tersebut selama 40 tahun membuktikan bahwa:
+* Anak yang memiliki kemampuan menunda kepuasan (*high self-control*) tumbuh menjadi remaja dengan capaian nilai ujian SAT yang jauh lebih tinggi, memiliki indeks massa tubuh (BMI) yang lebih sehat, memiliki ketahanan stres yang luar biasa, dan terbebas dari kecanduan narkoba;
+* Sebaliknya, anak yang tidak mampu menahan impuls (*low self-control*) memiliki risiko tinggi terjerat perilaku kriminal, kegagalan karier, dan ketidakstabilan relasi sosial.
+
+#### 2. Neurobiologi Kontrol Inhibisi di Korteks Prefrontal (PFC)
+Pakar neurosains kognitif **Prof. Roy F. Baumeister**[^5] dalam teorinya tentang *Ego Depletion & Self-Control Muscle* membuktikan bahwa kontrol diri bekerja persis seperti otot biologis:
+* Kontrol diri dikendalikan oleh sirkuit inhibisi di **Dorsolateral Prefrontal Cortex (dlPFC)**;
+* Semakin sering otot kontrol diri ini dilatih (melalui puasa sunnah, menahan diri dari menyontek, dan bangun fajar), sirkuit prefrontal tersebut semakin tebal dan kuat (*neuroplastic strengthening*).
+
+```mermaid
+graph LR
+    subgraph MekanismeSelfControl["PENGUATAN SIRKUIT KONTROL DIRI (PFC) MELALUI MUJAHADAH"]
+        LatihanRiyadhah["Riyadhah: Puasa Sunnah + Bangun Qiyamul Lail + Lawan Malas"] --> TebalPFC["Penebalan Lapisan Saraf di Dorsolateral Prefrontal Cortex (dlPFC)"]
+        TebalPFC --> KuatInhibisi["Kapasitas Kontrol Inhibisi (Daya Tahan Godaan) Meningkat Drastis"]
+        KuatInhibisi --> SantriKsatria["Lahir Santri Ksatria yang Memiliki Integritas Moral Tak Tergoyahkan"]
+    end
+```
+<div align="center"><sub><b>Gambar 2.7.2:</b> Alur Neurobiologis Penguatan Kapasitas Kontrol Diri Santri melalui Riyadhah.</sub></div>
+
+---
+
+### IV. Matriks Indikator Perilaku Faktual Mujahidun Linafsihi (24 Jam)
+
+| Situasi Godaan Keseharian | Indikator Perilaku Positif (Mujahidun Linafsihi) | Perilaku Defisit / Korban Hawa Nafsu | Protokol Pendampingan Terstruktur TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Menghadapi Waktu Tidur vs Begadang** | Disiplin memadamkan lampu pukul 22.00 WIB dan langsung berwudhu untuk tidur, menolak ajakan begadang. | Asyik mengobrol unfaedah hingga larut malam, begadang di lorong, lalu kesiangan shalat subuh. | Patroli malam empati oleh Musyrif dan konseling sirkadian tidur bagi santri yang gemar begadang. |
+| **Menghadapi Integritas Ujian Madrasah** | Pantang menyontek atau membuka contekan, percaya diri dengan hasil ikhtiar sendiri dan ridha pada takdir. | Mencontek, membuat catatan kecil di telapak tangan, atau bekerjasama curang dengan kawan. | Disiplin Restoratif: pembatalan nilai, kewajiban belajar mandiri, dan refleksi kejujuran bersama guru BK. |
+| **Pengendalian Syahwat Gawai & Media** | Menggunakan fasilitas komputer pondok semata-mata untuk riset akademis dan dakwah; menjaga pandangan mata. | Menyelundupkan gawai ilegal, mengakses konten pornografi/game judi online di warnet luar. | Karantina digital terstruktur, program konseling pemulihan kecanduan adiksi, dan pengalihan ke olahraga. |
+| **Ibadah Puasa Sunnah & Qiyamul Lail** | Menjalankan puasa Senin-Kamis atau puasa Daud dengan gembira, melatih penundaan rasa lapar fisik. | Menolak berpuasa sunnah dengan alasan malas, makan berlebihan di luar jam makan (*gluttony*). | Halaqah motivasi keutamaan puasa sunnah dan penyediaan menu sahur-berbuka sehat bersama. |
+
+---
+
+### V. Solusi Sistemik TUMBUH: Pembiasaan Digital Fasting & Klinik Regulasi Diri
+
+Lembaga merumuskan instrumen aplikatif:
+1. **Kebijakan Puasa Digital Terstruktur (*Structured Digital Fasting Protocol*)**: Pesantren didesain sebagai zona bebas radiasi kecanduan gawai, di mana interaksi digital hanya diizinkan di laboratorium komputer madrasah dengan filter konten ketat.
+2. **Klinik Bimbingan Konseling Regulasi Diri**: Santri yang terdeteksi memiliki masalah impulsivitas tinggi mendapatkan sesi pendampingan CBT (*Cognitive Behavioral Therapy*) Islami untuk melatih teknik pernapasan de-eskalasi dan pengalihan stimulus godaan.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Al-Imam Abu Isa Muhammad bin Isa at-Tirmidzi**, *Sunan at-Tirmidzi*, Kitab Fadha'il al-Jihad, Bab Man Qaatala Tahta Rayatin 'Ammiyyah (Beirut: Dar al-Gharb al-Islami, 1998), Hadits No. 1621. Dinyatakan shahih oleh Syaikh Al-Albani.
+[^2]: **Hujjatul Islam Imam Abu Hamid Muhammad bin Muhammad al-Ghazali**, *Ihya' 'Ulumiddin*, Kitab Kasyrisy Syahwatain (Kairo & Beirut: Dar al-Ma'rifah, t.th.), Jilid III, hlm. 85–110.
+[^3]: **Al-Imam Syamsuddin Ibnu Qayyim al-Jawziyyah**, *Al-Fawa'id*, Tahqiq: Syaikh Syu'aib al-Arnauth (Kairo: Dar al-Afaq al-Jadidah, t.th.), hlm. 88–104; serta **Ibnu Qayyim**, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Beirut: Dar al-Kitab al-'Arabi, 1416 H), Jilid II, hlm. 340–360.
+[^4]: **Walter Mischel, Yuichi Shoda, & Philip K. Peake**, "Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification: Identifying delayed predictors", *Developmental Psychology*, Vol. 26, No. 6 (1990), hlm. 978–986; serta **Walter Mischel**, *The Marshmallow Test: Mastering Self-Control* (New York: Little, Brown and Company, 2014), hlm. 1–45.
+[^5]: **Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven, & Dianne M. Tice**, "Ego depletion: Is the active self a limited resource?", *Journal of Personality and Social Psychology*, Vol. 74, No. 5 (1998), hlm. 1252–1265; serta **Roy F. Baumeister & John Tierney**, *Willpower: Rediscovering the Greatest Human Strength* (New York: Penguin Press, 2011), Bab 1 & 2.

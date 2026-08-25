@@ -1,101 +1,108 @@
 # SUB-BAB 4.5: TRANSFORMASI ORGANISASI SANTRI PENGAYOM
-## *Kajian Komprehensif, Sintesis Epistemologi Turats-Sains Kognitif, dan Pedoman Praksis 24-Jam Ekosistem TUMBUH*
+## *Restrukturisasi Organisasi Santri dari Lembaga Yudisial Represif Menjadi Wadah Pengayoman, Pelayanan Kreatif, dan Mediasi Sebaya*
 
 **Kode Klasifikasi**: `BOOK-01/BAB-04/SUB-05/MONOGRAF-MASTER-VIBRANT`  
-**Disiplin Ilmu**: Filsafat Pendidikan Islam, Neurosains Kognitif Terapan, School-Wide PBIS Multi-Tier, & Manajemen Asrama Modern  
-**Penanggung Jawab Keilmuan**: Dewan Keilmuan Ekosistem TUMBUH (*24 Bidang Kepakaran Dewan Guru Besar*)
+**Disiplin Ilmu**: Manajemen Organisasi Pendidikan Islam, Sosiologi Komunitas Santri, & Teori Dinamika Kelompok Sebaya  
+**Penanggung Jawab Keilmuan**: Dewan Pakar Ekosistem TUMBUH (*Master Author, Pakar Tata Kelola Qudwah, & Pakar Arsitektur PBIS Restoratif*)
 
 ---
 
-> ### 💡 INTISARI PRAKTIS (3 MENIT MEMAHAMI ESENSI BAB)
->
-> * **Akar Filosofis & Nilai Substantif:**  
->   Membahas secara mendalam urgensi **TRANSFORMASI ORGANISASI SANTRI PENGAYOM** sebagai fondasi integral dalam arsitektur pembinaan karakter santri 24-jam berbasis fitrah insaniyyah.
-> * **Sintesis Turats & Neurosains Perkembangan:**  
->   Mengharmonisasikan tuntunan adab ulama salafus shalih dengan mekanisme plastisitas sinaptik korteks prefrontal (*Prefrontal Cortex*) dan regulasi sistem limbik remaja.
-> * **Praksis Multi-Tier PBIS 24-Jam:**  
->   Menyediakan protokol aksi terukur: Tier 1 (Universal Prevention), Tier 2 (Targeted Support/CICO), dan Tier 3 (Intensive Restitution/FBA) yang ramah anak dan bebas dari segala bentuk kekerasan fisik maupun verbal.
+### Mengubah Wajah Organisasi Santri di Pesantren
 
----
+Di banyak pesantren di Indonesia, struktur Organisasi Santri (seperti Bagian Keamanan OSIS/OPPM/ISMI) sering kali menjadi lembaga yang paling ditakuti dan dijauhi oleh warga asrama.
 
-### I. Pembedahan Deskriptif Komprehensif 4 Pilar Nilai-Praksis
+Sosok pengurus bagian keamanan diidentikkan dengan figur-figur yang dingin, membawa tongkat kayu atau pipa paralon, bertampang garang, berteriak-teriak membubarkan santri saat jam malam, dan bertindak layaknya polisi rahasia yang gemar mengintai kesalahan kawan-kawannya. Akibatnya sangat merusak iklim asrama:
+* Muncul jurang pemisah (*social gulf*) antara santri pengurus dan santri non-pengurus.
+* Organisasi santri kehilangan esensi edukatifnya dan terdistorsi menjadi instrumen penindasan birokratis yang melahirkan dendam.
+* Santri-santri yang duduk di kepengurusan terbiasa mempraktikkan arogansi kekuasaan sejak usia remaja, yang berisiko membentuk kepribadian otoriter ketika mereka terjun ke masyarakat kelak.
 
-Penerapan **TRANSFORMASI ORGANISASI SANTRI PENGAYOM** dalam Sistem TUMBUH ditegakkan di atas empat pilar analitis yang saling menopang secara simbiotik:
-
-#### 1. Pilar Epistemologi Turats & Maqashid Syari'ah
-Khazanah pendidikan Islam klasik memandang pembinaan karakter bukan sekadar transmisi dogma kognitif, melainkan proses *Ta\'dib* (penanaman adab ke dalam jiwa)[^1] dan *Tazkiyatun Nafs* (penyucian jiwa dari kecenderungan hewani).
-
-> [!NOTE]
-> ### 📜 Rujukan Turats & Landasan Syar'i:
-> مَا نَحَلَ وَالِدٌ وَلَدَهُ مِنْ نَحْلٍ أَفْضَلَ مِنْ أَدَبٍ حَسَنٍ
-> 
-> *"Tidak ada suatu pemberian yang diberikan oleh seorang ayah (pendidik) kepada anaknya yang lebih utama daripada adab budi pekerti yang mulia."*  
-> *(HR. At-Tirmidzi no. 1952; Al-Hakim dalam Al-Mustadrak no. 7676).*
-
-Al-Imam Badruddin Ibnu Jama\'ah dalam *Tadzkirat as-Sami\' wal Mutakallim*[^2] menegaskan bahwa adab lahiriah merupakan cermin dari kejernihan batin (*Shidq al-Batin*). Oleh karena itu, pembinaan **TRANSFORMASI ORGANISASI SANTRI PENGAYOM** menuntut pendidik menjadi *Living Curriculum* melalui keteladanan nyata (*Qudwah Hasanah*), bukan sekadar instruktur yang gemar mendikte atau menghukum.
-
-#### 2. Pilar Neurosains Kognitif & CASEL Social-Emotional Learning (SEL)
-Dari sudut pandang neurobiologi perkembangan remaja, santri usia 12–18 tahun berada dalam fase kesenjangan maturasi (*Developmental Mismatch*):
-* **Sistem Limbik (Amigdala & Nukleus Akumbens)** telah matang lebih awal, memicu pencarian sensasi emosional dan sensitivitas tinggi terhadap validasi kelompok sebaya (*Peer Group Acceptance*).
-* **Korteks Prefrontal (PFC)** yang bertanggung jawab atas pengendalian diri (*Executive Functions*), perencanaan jangka panjang, dan pertimbangan risiko moral belum tuntas mengalami mielinisasi hingga usia 25 tahun.[^4]
-
-Melalui integrasi 5 Kompetensi CASEL (*Self-Awareness, Self-Management, Social Awareness, Relationship Skills, & Responsible Decision-Making*), penerapan **TRANSFORMASI ORGANISASI SANTRI PENGAYOM** berfungsi sebagai **External Prefrontal Cortex (PFC Eksternal)** yang mendampingi santri secara hangat (*Co-Regulation*) hingga mekanisme pengaturan diri internal (*Self-Regulation*) terbentuk kokoh.
-
-#### 3. Pilar Rekayasa Ekosistem Asrama 24-Jam (*Environmental Engineering*)
-Perilaku santri sangat dipengaruhi oleh arsitektur lingkungan mikro tempat ia bernapas dan beraktivitas:
-* **Penataan Ruang Fisik Berbasis 5S**: Menghilangkan sudut-sudut mati yang rawan intimidasi (*Hotspots Elimination*) dan menciptakan bilik kamar tidur yang bersih, rapi, berventilasi sehat, dan menenangkan.
-* **Ritme Sirkadian Sehat**: Melindungi hak tidur santri 6.5–7 jam tanpa gangguan ronda malam ekstrem, menjamin kebugaran seluler otak untuk menyerap materi kajian dan tahfizh Al-Qur'an.
-* **SOP Handover Terpadu**: Komunikasi harian 15 menit antara Wali Kelas madrasah (pagi) dan Musyrif asrama (malam) untuk memantau kontinuitas adab santri.
-
-#### 4. Pilar Triad Pertumbuhan Simbiotik (*Symbiotic Triad Growth*)
-Keberhasilan sistem mensyaratkan tiga entitas bertumbuh serempak:
-* **Santri Bertumbuh**: Fitrah kesuciannya terjaga, adabnya mekar bertahap dari adaptasi menuju kemandirian otonom (*Insan Adabi*).
-* **Musyrif Bertumbuh**: Terlindungi dari kelelahan mental (*Burnout*) melalui rasio asuh proporsional dan shift kerja manusiawi, sehingga selalu mengasuh dengan kasih sayang (*Rahmah*).
-* **Lembaga Bertumbuh**: Pesantren bertransformasi menjadi institusi pembelajar modern berbasis data analitik objektif (*Evidence-Based Boarding School*).
-
----
-
-### II. Arsitektur Diagram & Protokol Aksi Operasional PBIS Multi-Tier 24 Jam
-
-Penerapan **TRANSFORMASI ORGANISASI SANTRI PENGAYOM** dioperasionalkan melalui arsitektur berjenjang SW-PBIS (*Positive Behavioral Interventions and Supports*)[^3]:
+Ekosistem **TUMBUH** melakukan **transformasi struktural 180 derajat**: mengubah organisasi santri dari "lembaga kepolisian represif" menjadi **Wadah Pengayoman, Pelayanan Kreatif, dan Sahabat Sebaya (*The Peer Support & Service Community*)**[^1].
 
 ```mermaid
 graph TD
-    subgraph MultiTier["ARSITEKTUR MULTI-TIER PBIS 24 JAM"]
-        T1["TIER 1: UNIVERSAL PREVENTION (80-85% SANTRI)<br/>• Keteladanan Qudwah Hasanah Seluruh Asatidz<br/>• Matriks Ekspektasi Visual di Seluruh Zona<br/>• Rasio Emas Apresiasi 4:1 (Apresiasi vs Teguran)"]
+    subgraph TransformasiOrganisasi["TRANSFORMASI STRUKTUR ORGANISASI SANTRI EKOSISTEM TUMBUH"]
+        Lama["ORGANISASI LAMA (Fokus: Keamanan Represif & Hukuman)<br/>• Divisi Keamanan berkuasa mutlak merazia & menghukum.<br/>• Menumbuhkan iklim ketakutan, mata-mata, & saling curiga."]
         
-        T2["TIER 2: TARGETED SUPPORT (10-15% SANTRI)<br/>• Protokol Check-In / Check-Out (CICO) Harian<br/>• Mentoring Suhbah Kelompok Kecil<br/>• Modifikasi Lingkungan & Behavioral Contracting"]
+        Baru["ORGANISASI BARU TUMBUH (Fokus: Pelayanan & Pengayoman Sebaya)<br/>• Menghapus total divisi keamanan yudisial represif.<br/>• Menggantinya dengan divisi pelayanan, bakat, ukhuwah, & bimbingan belajar."]
         
-        T3["TIER 3: INTENSIVE RESTORATION (1-5% SANTRI)<br/>• Functional Behavior Assessment (FBA) Diagnostik<br/>• Rencana Intervensi BIP Individual Restoratif<br/>• Sidang Ishlah al-Bain Dipimpin Dewan Kiai"]
-        
-        T1 --> T2 --> T3
+        Lama ==>|"REFORMASI TOTAL"| Baru
     end
 ```
-
-#### Protokol Operasional Berjenjang Lapangan:
-1. **Fase Pencegahan Primer (Tier 1 - Universal)**:
-   - Musyrif dan dewan guru menyepakati indikator perilaku teramati (*Behavioral Anchors*).
-   - Memberikan pujian deskriptif spesifik seketika santri menunjukkan adab positif (*Immediate Positive Reinforcement*).
-2. **Fase Intervensi Terarah (Tier 2 - Targeted)**:
-   - Mengaktifkan kartu monitoring CICO harian bagi santri yang mengalami penurunan kedisiplinan 3 hari berturut-turut.
-   - Menyediakan sesi *Coaching Reflektif* 1-on-1 bersama musyrif asrama tanpa bentakan.
-3. **Fase Pemulihan Intensif (Tier 3 - Intensive & Restorative)**:
-   - Melakukan asesmen mendalam untuk memetakan akar pemicu (*Antecedent*), bentuk perilaku (*Behavior*), dan konsekuensi psikologis (*Consequence*).
-   - Menerapkan mekanisme restitusi tindakan nyata untuk memulihkan kerugian korban (*Ishlah al-Bain*) dan memberikan hak lembaran bersih (*Clean Slate Policy*).
+<div align="center"><sub><b>Gambar 4.5.1:</b> Transformasi Paradigma Organisasi Santri dari Lembaga Represif Menjadi Wadah Pelayanan.</sub></div>
 
 ---
 
-### III. Diskusi Filosofis & Rekomendasi Tata Kelola Bebas Kekerasan
+### Arsitektur Empat Departemen Pengayoman Organisasi Santri dalam sistem TUMBUH
 
-Praksis **TRANSFORMASI ORGANISASI SANTRI PENGAYOM** menegaskan komitmen mutlak Sistem TUMBUH terhadap prinsip **Nol Kekerasan (*Zero-Tolerance to Physical & Verbal Violence*)**:
-* Mengharamkan tradisi sanksi fisik (rotan, push-up malam, jemur terik matahari, atau cukur botak) yang terbukti merusak neuron hipokampus dan memicu dendam terselubung.
-* Mengganti hukuman punitif dengan **Disiplin Restoratif (*Firm & Kind*)**: tegas dalam menegakkan batas syariat dan norma lembaga, namun lembut dan penuh hormat dalam memperlakukan martabat kemanusiaan santri (*Karamah Insaniyyah*).
+Dalam Sistem TUMBUH, organisasi santri dirancang bukan untuk mengawasi dan menghukum, melainkan untuk memfasilitasi kebutuhan tumbuh kembang seluruh warga asrama melalui **Empat Departemen Layanan**:
+
+```mermaid
+graph TD
+    RootDept["EMPAT DEPARTEMEN LAYANAN ORGANISASI SANTRI SISTEM TUMBUH"]
+    
+    RootDept --> D1["1. DEPARTEMEN TA'LIM & TAHFIZH (Academic Support)<br/>• Mengorganisir kelompok belajar sore & tutor sebaya hafalan Qur'an.<br/>• Menyelenggarakan bedah kitab santai & olimpiade literasi santri."]
+    
+    RootDept --> D2["2. DEPARTEMEN UKHUWAH & MEDIASI SEBAYA (Peer Mediation)<br/>• Menyambut santri baru, mendampingi santri homesick, & donor darah.<br/>• Memfasilitasi mediasi damai sengketa kamar (Restorative Peer Circle)."]
+    
+    RootDept --> D3["3. DEPARTEMEN RI'AYAH BI'AH & WELLNESS (Environment & Health)<br/>• Mengawal kebersihan asrama secara kreatif, penghijauan taman pondok.<br/>• Manajemen posko kesehatan asrama & pendampingan santri sakit."]
+    
+    RootDept --> D4["4. DEPARTEMEN MINAT, BAKAT, & KREATIF (Talent & Sports)<br/>• Menyelenggarakan turnamen olahraga sunnah (futsal, panahan, renang).<br/>• Panggung kreasi hadrah, kaligrafi, teater Islam, & festival digital."]
+```
+<div align="center"><sub><b>Gambar 4.5.2:</b> Struktur Empat Departemen Layanan Organisasi Santri Ekosistem TUMBUH.</sub></div>
+
+#### 1. Departemen Ta'lim & Tahfizh (Layanan Akademik Sebaya)
+Alih-alih merazia catatan santri dengan bentakan, departemen ini hadir memberikan bantuan:
+* Mengidentifikasi santri-santri yang kesulitan memahami pelajaran nahwu atau hafalan juz 'amma, lalu memasangkan mereka dengan **Tutor Sebaya (*Peer Tutors*)**.
+* Menciptakan suasana belajar kelompok yang seru di serambi masjid dengan metode kuis interaktif dan diskusi santai.
+
+#### 2. Departemen Ukhuwah & Mediasi Sebaya (Layanan Rekonsiliasi & Sahabat)
+Departemen inilah yang menggantikan fungsi divisi keamanan lama:
+* Bertindak sebagai **Mediator Sebaya Terlatih (*Trained Peer Mediators*)** yang membantu mendamaikan kesalahpahaman kecil antar-kawan sekamar sebelum masalah membesar.
+* Membentuk tim penyambut santri baru (*Welcoming Committee*) dan mendampingi adik kelas yang sedang dilanda rindu rumah (*homesick*).
+
+#### 3. Departemen Ri'ayah Bi'ah & Kesehatan (Layanan Lingkungan & Kebugaran)
+* Menggerakkan budaya kebersihan melalui sistem **Lomba Kamar Terbersih & Terkreatif Mingguan**, mengganti hukuman kotor dengan penghargaan relasional.
+* Membantu piket Pos Kesehatan Pesantren (Poskestren): mengantarkan makanan hangat dan obat bagi santri yang sedang beristirahat di ruang isolasi sakit.
+
+#### 4. Departemen Minat, Bakat, & Olahraga (Layanan Pengembangan Potensi)
+* Menyalurkan energi berlebih para santri remaja ke dalam aktivitas fisik dan kreativitas yang positif: turnamen futsal, panahan sunnah, lomba pidato 3 bahasa, seni nasyid, dan kaligrafi mushaf.
+
+---
+
+### Protokol Mediasi Sebaya (*Peer Mediation Protocol*)
+
+Ketika terjadi perselisihan kecil antar-santri di asrama (misalnya: salah paham pinjam buku atau senggolan saat bermain olahraga), Departemen Ukhuwah memfasilitasi **Protokol Mediasi Sebaya 4-Langkah**:
+
+```mermaid
+graph LR
+    subgraph MediasiSebaya["ALUR PROTOKOL MEDIASI SEBAYA 4-LANGKAH SISTEM TUMBUH"]
+        M1["1. RUANG TENANG<br/>Kedua pihak diajak duduk bersama di ruang mediasi tanpa penonton."] --> M2["2. MENDENGAR BERGANTIAN<br/>Masing-masing menceritakan perasaannya secara santun tanpa disela."]
+        M2 --> M3["3. MERUMUSKAN SOLUSI<br/>Kedua pihak menyepakati jalan tengah & perbaikan kerugian (Ishlah)."]
+        M3 --> M4["4. IKRAR UKHUWAH<br/>Saling memaafkan, berpelukan, & menandatangani nota damai."]
+    end
+```
+<div align="center"><sub><b>Gambar 4.5.3:</b> Alur Protokol Mediasi Sebaya 4-Langkah Ekosistem TUMBUH.</sub></div>
+
+1. **Ruang Tenang Bebas Intimidasi**: Mediasi dilakukan di ruangan khusus yang nyaman, tertutup dari sorak-sorai kawan-kawannya, didampingi oleh 2 orang pengurus mediator sebaya dan 1 orang musyrif pembimbing.
+2. **Mendengarkan Cerita dari Dua Sisi**: Masing-masing pihak diberikan waktu yang sama untuk menceritakan apa yang ia rasakan tanpa boleh dipotong atau diejek.
+3. **Mencari Solusi Menang-Menang (*Win-Win Restorative Solution*)**: Mediator mengarahkan: *"Apa yang bisa kita lakukan bersama agar persahabatan antum berdua kembali rukun dan kamar kita tetap nyaman?"*
+4. **Ikrar Perdamaian & Rekonsiliasi**: Kedua santri menyepakati solusi, saling meminta maaf secara tulus, dan berikrar untuk tidak menyimpan dendam batin di masa depan.
+
+---
+
+### Akuntabilitas & Pendampingan Musyrif Terpadu
+
+Organisasi santri dalam Sistem TUMBUH tidak berjalan secara liar tanpa kontrol:
+* Setiap departemen dibimbing langsung oleh **Satu Orang Musyrif Pembimbing** yang memastikan seluruh program kerja mengedepankan prinsip kasih sayang nabawi (*Rahmatan lil 'Alamin*).
+* Evaluasi mingguan difokuskan pada indikator kebermanfaatan sosial: *"Berapa banyak kawan sekamar yang berhasil kita bantu pekan ini? Apakah ada santri yang merasa tidak aman atau terisolasi di asrama kita?"*
+
+Organisasi santri adalah kawah candradimuka di mana para santri belajar arti sejati dari kepemimpinan Islam: bahwa memimpin adalah melayani, membimbing adalah menyayangi, dan berorganisasi adalah sarana menebar manfaat seluas-luasnya bagi sesama (*Khairunnaas anfa'uhum linnaas*).
+
+Dengan mereformasi organisasi santri menjadi wadah pengayoman kreatif, Sistem TUMBUH memastikan asrama pesantren menjadi rumah peradaban yang aman, hangat, ceria, dan dipenuhi semangat persaudaraan sejati.
 
 ---
 
 ## 📌 Catatan Kaki & Rujukan Primer
 
-[^1]: **Syed Muhammad Naquib al-Attas**, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: ISTAC, 1980), hlm. 15–38.
-[^2]: **Al-Imam Badruddin Ibnu Jama'ah**, *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim*, Tahqiq: Muhammad Hasyim an-Nadwi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 42–89.
-[^3]: **George Sugai & Robert H. Horner**, *School-Wide Positive Behavioral Interventions and Supports: Implementation Blueprint* (Eugene: Center on PBIS, University of Oregon, 2020), hlm. 110–145.
-[^4]: **Daniel J. Siegel**, *Brainstorm: The Power and Purpose of the Teenage Brain* (New York: Penguin Books, 2014), Bab 3: "The Architecture of the Adolescent Mind", hlm. 67–104.
+[^1]: **Richard Cohen**, *Students Resolving Conflict: Peer Mediation in Schools* (Glenview: Good Year Books, 1995), hlm. 25–68.
+[^2]: **B. Bradford Brown & Jim Larson**, "Peer relationships in adolescence", dalam R. M. Lerner & L. Steinberg (Eds.), *Handbook of Adolescent Psychology* (Hoboken: John Wiley & Sons, 2009), Vol. 2, hlm. 74–103.
