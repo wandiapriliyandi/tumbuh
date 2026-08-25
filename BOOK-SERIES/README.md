@@ -2,7 +2,7 @@
 ## *Monograf Riset Akademis, Sintesis Epistemologis, & Panduan Tata Kelola Pengasuhan 24-Jam (5 Jilid Komprehensif)*
 
 **Nomor Koleksi**: `BOOK-SERIES/MASTER-SET/2026/08`  
-**Dewan Editor**: Dewan Keilmuan Ekosistem TUMBUH (22 Bidang Kepakaran)  
+**Dewan Editor**: Dewan Keilmuan Ekosistem TUMBUH (24 Bidang Kepakaran)  
 **Klasifikasi**: Seri Buku Monograf Akademis & Buku Teks Standar Pembinaan Karakter Pesantren  
 **Repositori**: Ekosistem **TUMBUH** Pesantren
 

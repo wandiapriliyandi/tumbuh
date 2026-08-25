@@ -3,7 +3,7 @@
 ## *Kerangka Holistik Kompetensi Adab, Taksonomi Fitrah, Trajektori Remaja, Progresi Jenjang J1–J4, dan Puncak Khidmah*
 
 **Nomor Koleksi**: BOOK-SERIES/VOL-02/MASTER-MONOGRAPH/2026/08  
-**Dewan Editor**: Dewan Keilmuan Ekosistem TUMBUH (22 Bidang Kepakaran)  
+**Dewan Editor**: Dewan Keilmuan Ekosistem TUMBUH (24 Bidang Kepakaran)  
 **Klasifikasi**: Seri Buku Monograf Akademis & Buku Teks Standar Pembinaan Karakter Pesantren  
 **Repositori**: Ekosistem **TUMBUH** Pesantren
 
@@ -3646,7 +3646,7 @@ Pertanyaan agung ini akan dibedah secara tuntas dan sistematis pada **Buku Volum
 ## *Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
 
 **Nomor Identifikasi**: `BOOK-SERIES/VOL-02/BIBLIOGRAPHY/2026/08`  
-**Dewan Penelaah**: Dewan Pakar Ekosistem TUMBUH (*22 Bidang Kepakaran*)  
+**Dewan Penelaah**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)  
 **Klasifikasi**: Bibliografi Master Standar Akademis Buku Volume 02
 
 ---

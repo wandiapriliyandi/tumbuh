@@ -74,9 +74,9 @@ Seluruh naskah riset akademis disusun secara berjenjang dalam **11 Domain Utama*
 
 ---
 
-## 🎓 Dewan Keilmuan Aktif (22 Custom Skills di `.agents/skills/`)
+## 🎓 Dewan Keilmuan Aktif (24 Custom Skills di `.agents/skills/`)
 
-Repositori ini dikembangkan dan diaudit oleh **22 Custom Skills Dewan Keilmuan** yang tersimpan di direktori `.agents/skills/`:
+Repositori ini dikembangkan dan diaudit oleh **24 Custom Skills Dewan Keilmuan** yang tersimpan di direktori `.agents/skills/`:
 
 1. `pakar-filosofi-tumbuh` & `pakar-epistemologi-turats`
 2. `pakar-pbis` & `pakar-arsitektur-pbis-restoratif`

@@ -2,7 +2,7 @@
 ## *Taksonomi Kapasitas & 10 Profil Karakter Santri TUMBUH: Rujukan Primer Turats & Literatur Ilmiah Peer-Reviewed*
 
 **Nomor Identifikasi**: `BOOK-SERIES/VOL-02/BIBLIOGRAPHY/2026/08`  
-**Dewan Penelaah**: Dewan Pakar Ekosistem TUMBUH (*22 Bidang Kepakaran*)  
+**Dewan Penelaah**: Dewan Pakar Ekosistem TUMBUH (*24 Bidang Kepakaran*)  
 **Klasifikasi**: Bibliografi Master Standar Akademis Buku Volume 02
 
 ---

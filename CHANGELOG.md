@@ -29,4 +29,4 @@ Rilis perdana komprehensif ekosistem **TUMBUH** yang merampungkan **11 Domain Ar
 - **Volume 05**: *Manual Operasional, SOP Musyrif, dan Tata Kelola Pesantren Modern* (Dual-Pillar Walas-Musyrif, Jadwal 24-Jam, Anti-Burnout).
 
 ### 🎓 Dewan Keilmuan Aktif:
-- Merilis 22 Custom Skills spesialis di `.agents/skills/` melintasi disiplin Turats Islam, PBIS, CASEL SEL, Neurosains, Pedagogi Master Teacher, Psikometri, Quality Assurance Auditor, dan Master Systems Modeler (Simulasi Cohort 100 Santri).
+- Merilis 24 Custom Skills spesialis di `.agents/skills/` melintasi disiplin Turats Islam, PBIS, CASEL SEL, Neurosains, Pedagogi Master Teacher, Psikometri, Quality Assurance Auditor, dan Master Systems Modeler (Simulasi Cohort 100 Santri).
