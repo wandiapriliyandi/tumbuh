@@ -171,13 +171,13 @@ Matriks 4 Kuadran Gaya Pengasuhan Pesantren:
 
 ```mermaid
 quadrantChart
-    title Matriks 4-Kuadran Gaya Pengasuhan Pesantren
-    x-axis Rendah Ketegasan (Low Firmness) --> Tinggi Ketegasan (High Firmness)
-    y-axis Rendah Kehangatan (Low Kindness) --> Tinggi Kehangatan (High Kindness)
-    quadrant-1 DISIPLIN POSITIF TUMBUH (Firm & Kind)
-    quadrant-2 PERMISIF (Kind & Not Firm)
-    quadrant-3 APATIS / PEMBIARAN (Not Kind & Not Firm)
-    quadrant-4 OTORITER / MILITERISTIK (Firm & Not Kind)
+    title "Matriks 4-Kuadran Gaya Pengasuhan Pesantren"
+    x-axis "Rendah Ketegasan (Low Firmness)" --> "Tinggi Ketegasan (High Firmness)"
+    y-axis "Rendah Kehangatan (Low Kindness)" --> "Tinggi Kehangatan (High Kindness)"
+    quadrant-1 "DISIPLIN POSITIF TUMBUH (Firm & Kind)"
+    quadrant-2 "PERMISIF (Kind & Not Firm)"
+    quadrant-3 "APATIS / PEMBIARAN (Not Kind & Not Firm)"
+    quadrant-4 "OTORITER / MILITERISTIK (Firm & Not Kind)"
 ```
 
 Rubrik Evaluasi Konsekuensi Logis 3R:
