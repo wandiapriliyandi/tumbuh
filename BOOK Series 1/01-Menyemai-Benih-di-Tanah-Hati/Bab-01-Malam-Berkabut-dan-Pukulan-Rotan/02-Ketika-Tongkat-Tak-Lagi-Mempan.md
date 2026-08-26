@@ -4,6 +4,10 @@ Siang hari pukul 14.15 di lapangan tengah komplek asrama putra Pesantren Darul A
 
 Suasana di lapangan terasa sangat hening dan mencekam, hanya dipecah oleh suara desau angin dan deru nafas anak-anak yang kepanasan. Sebanyak tiga puluh lima santri kelas tujuh dan delapan berdiri berbaris dalam dua saf memanjang tanpa alas kaki. Telapak kaki mereka yang telanjang terasa melepuh menginjak semen lapangan yang panas. Keringat bercucuran deras dari kening mereka, membasahi kerah baju koko dan sarung yang mereka kenakan hingga lepek menempel di kulit.
 
+$$\text{إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ}$$
+
+> *"Sesungguhnya kelembutan tidaklah berada pada sesuatu melainkan akan menghiasinya menjadi indah, dan tidaklah kelembutan dicabut dari sesuatu melainkan akan membuatnya menjadi buruk dan tercela."* (HR. Muslim no. 2594)
+
 Di hadapan barisan santri yang sedang dijemur tersebut, Ustadz Salman melangkah mondar-mandir dengan wajah yang mengeras laksana batu karang. Urat-urat di pelipisnya menonjol tegang, dan kedua tangannya menggenggam rotan kuning panjang yang ujungnya diseretkan di atas lantai semen. Suara derit ujung rotan yang bergesekan dengan semen menimbulkan bunyi berdecit tajam yang meremangkan bulu kuduk: *Kreeek... Kreeek...* Setiap kali Salman menghentikan langkahnya, tubuh anak-anak yang berada di depannya seketika menegang kaku menahan rasa takut.
 
 "Dengarkan baik-baik, kalian semua!" seru Salman dengan nada suara menggelegar yang sarat dengan amarah yang meluap. "Siang ini kalian berdiri di sini karena catatan pelanggaran asrama semakin hari semakin memalukan! Ada yang terlambat masuk shaf sholat Dzuhur, ada yang belum melipat selimut, dan ada yang tertangkap basah tertidur di serambi saat pembacaan wirid!" Salman mengangkat rotan kuningnya tinggi-tinggi ke udara, menunjuk ke arah wajah-wajah anak asuhnya yang tertunduk lesu.
@@ -107,3 +111,4 @@ Mendengar suara lembut sang Kiai, air mata Salman seketika menggenang di pelupuk
 Dialog bersejarah di serambi ndalem sore itu menjadi titik awal dari revolusi pengasuhan di Pesantren Darul Adab. Dari serambi kayu jati yang bersahaja ini, benih-benih ekosistem TUMBUH akan mulai dirumuskan untuk menggantikan rotan kekerasan dengan cahaya adab kenabian yang abadi.
 
 Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+

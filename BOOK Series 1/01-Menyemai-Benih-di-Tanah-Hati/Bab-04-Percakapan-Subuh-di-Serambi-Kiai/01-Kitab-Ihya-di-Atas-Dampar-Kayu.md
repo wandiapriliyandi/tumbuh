@@ -4,6 +4,10 @@ Pukul 05.30 pagi di serambi ndalem kediaman Kyai Hasyim. Sinar mentari fajar yan
 
 Cahaya fajar itu membiaskan siluet-siluet indah di atas lantai ubin terakota kuno yang dingin, bersih, dan mengkilap. Aroma wangi minyak gaharu murni berpadu dengan keharuman seduhan kopi Arabika kapulaga hangat. Keharuman tersebut menyerbak memenuhi seluruh ruangan serambi yang hening dan asri.
 
+$$\text{الْقَلْبُ هُوَ مَحَلُّ مَعْرِفَةِ اللَّهِ تَعَالَى وَمَحَطُّ نَظَرِ الرَّبِّ سُبْحَانَهُ}$$
+
+> *"Hati adalah tempat ma'rifatullah (mengenal Allah Ta'ala) dan tempat jatuhnya pandangan Allah Yang Maha Suci."* (Ihya' Ulumiddin, Kitab Syarh 'Aja'ib al-Qalb, Imam Al-Ghazali)
+
 Suara gemericik air mancur kolam ikan koi di sudut taman berpadu harmonis dengan kicauan merdu burung-burung perkutut di sangkar gantung bambu. Suasana serambi ndalem menghadirkan atmosfer ketenangan spiritual yang begitu mendalam (*Deep Sakinah Atmosphere*). Di atas sebuah dampar kayu jati pendek berukir sulur dedaunan teratai, sebuah kitab kuning klasik berukuran tebal bersampul kulit merah marun terbentang terbuka dengan anggun.
 
 Itu adalah kitab babon tasawuf dan pendidikan Islam: **Juz Ketiga Kitab Ihya' 'Ulūmiddīn karya Hujjatul Islam Imam Abu Hamid Al-Ghazali rahimahullah**. Halaman kitab tersebut menampilkan tulisan khat naskhi klasik dengan syarah dan catatan pinggir (*Hasyiyah*) bertinta hitam dan merah. Kyai Hasyim duduk bersila dengan sangat tenang di hadapan dampar kayu tersebut.
@@ -107,3 +111,4 @@ Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-s
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
 Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+

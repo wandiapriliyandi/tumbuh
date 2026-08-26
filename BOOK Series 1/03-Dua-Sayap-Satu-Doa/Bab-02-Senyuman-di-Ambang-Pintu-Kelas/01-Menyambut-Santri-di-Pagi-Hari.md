@@ -4,6 +4,10 @@ Pukul 06.50 pagi di depan pintu masuk ruang kelas 7-A madrasah Pesantren Darul A
 
 Ustadz Burhan sudah berdiri tegak di ambang pintu kelas sepuluh menit sebelum bel masuk berbunyi. Di tangannya tidak ada tongkat penggaris kayu pemukul meja. Burhan mengenakan kemeja putih berserban hijau rapi dan menyematkan senyuman paling hangat di wajahnya.
 
+$$\text{تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ}$$
+
+> *"Senyumanmu di hadapan wajah saudaramu (muridmu) adalah sedekah bagimu."* (HR. At-Tirmidzi no. 1956)
+
 Ketika santri-santri berdatangan menaiki tangga koridor, Burhan mempraktikkan protokol wajib pedagogi master: **Penyambutan Hangat di Ambang Pintu (*Threshold Welcoming & High-Five Connection*)**. Setiap santri yang hendak melangkah masuk ke dalam kelas disambut secara personal:
 * Burhan menatap mata santri dengan penuh perhatian (*Eye Contact*).
 * Menyebut nama santri secara lengkap dengan panggilan kehormatan: *"Ahlan wa sahlan, Farhan Ksatria Peradaban!"*
@@ -109,3 +113,4 @@ Lonceng tanda pelajaran pertama berdentang nyaring di koridor madrasah. Seluruh 
 Setiap pagi pukul 06.45, Ustadz Burhan telah berdiri tegak di ambang pintu kelas madrasah menyambut kedatangan murid-muridnya. Dengan senyuman hangat dan pandangan mata yang ramah, Ustadz Burhan menyalami setiap santri yang masuk ke dalam kelas. Sapaan pagi yang tulus ini memancarkan energi positif yang seketika mencairkan rasa cemas dan kantuk para santri.
 
 Ustadz Burhan melatih kepekaan intuisinya untuk membaca bahasa tubuh setiap santri sebelum memulai pelajaran. Ketika melihat Farhan yang tampak sedikit pucat, Ustadz Burhan menepuk pundaknya dengan lembut dan menanyakan keadaannya dengan penuh perhatian. Sentuhan kebapakan ini membuat Farhan merasa sangat dicintai dan diperhatikan di madrasah.
+

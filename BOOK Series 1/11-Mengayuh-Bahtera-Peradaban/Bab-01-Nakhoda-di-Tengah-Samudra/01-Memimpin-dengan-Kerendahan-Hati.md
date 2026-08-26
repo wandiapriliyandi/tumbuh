@@ -4,6 +4,10 @@ Di ruang pertemuan ndalem utama Pesantren Darul Adab, sebuah majelis kepemimpina
 
 $$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
 
+$$\text{كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ}$$
+
+> *"Setiap kalian adalah pemimpin (pengasuh) dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya."* (HR. Bukhari no. 893, Muslim no. 1829)
+
 > *"Pemimpin suatu kaum adalah pelayan bagi kaum tersebut."* (HR. Al-Baihaqi)
 
 Kiai menjelaskan bahwa kepemimpinan dalam Islam bukanlah takhta kekuasaan untuk menikmati privilese, kehormatan feodal, atau memerintah bawahan secara sewenang-wenang. "Memimpin," dawuh Kyai Hasyim dengan suara bergetar haru, "adalah **Mengulurkan Punggung untuk Menjadi Jembatan bagi Tumbuhnya Orang Lain**. Seorang pemimpin adalah orang yang paling pertama datang menyingsingkan lengan baju saat masalah melanda, dan orang yang paling terakhir mengambil keuntungan."
@@ -107,3 +111,4 @@ Pesantren Darul Adab memaparkan Cetak Biru Tata Kelola Kelembagaan Modern Berbas
 Kyai Hasyim menegaskan dalam Rapat Pleno Yayasan bahwa seorang pemimpin pesantren bukanlah raja feodal yang minta dilayani, melainkan pelayan terdepan (Khadimul Ummah) yang paling pertama memikul beban dan paling terakhir menikmati hasil. Kepemimpinan berbasis keteladanan (Qudwah Leadership) menjadi ruh yang menggerakkan seluruh lini manajemen pesantren.
 
 Pesantren mendirikan Akademi Murabbi Darul Adab sebagai pusat pelatihan dan sertifikasi kompetensi pedagogi pengasuhan bagi calon-calon musyrif baru. Kurikulum akademi memadukan pendalaman kitab-kitab turats akhlak klasik dengan keahlian konseling CBT modern, neurosains perkembangan anak, dan manajemen keselamatan sekolah. Standarisasi ini menjamin mutu pengasuhan santri tetap terjaga secara konsisten lintas generasi.
+

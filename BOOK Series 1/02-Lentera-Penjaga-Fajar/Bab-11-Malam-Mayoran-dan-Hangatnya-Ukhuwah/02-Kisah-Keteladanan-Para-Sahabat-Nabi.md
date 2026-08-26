@@ -4,6 +4,10 @@ Selepas nampan nasi liwet licin tandas dan seluruh santri mencuci tangannya hing
 
 "Anak-anakku para penuntut ilmu..." buka Salman dengan suara yang memikat imajinasi, "ketika sahabat Abdurrahman bin Auf tiba di Madinah tanpa membawa sepeser pun harta, sahabat Sa'ad bin Ar-Rabi'—seorang hartawan Anshar—menemuinya dan berkata: *'Saudaraku, aku adalah orang paling kaya di Madinah. Ambillah separuh dari seluruh kebun kurma dan hartaku untukmu!'*"
 
+$$\text{مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى}$$
+
+> *"Perumpamaan orang-orang beriman dalam hal saling mencintai, menyayangi, dan berlemah lembut adalah laksana satu tubuh; apabila satu anggota tubuh mengeluh sakit, maka seluruh tubuh akan ikut merasa demam dan tidak bisa tidur."* (HR. Bukhari no. 6011, Muslim no. 2586)
+
 Mata Farhan dan kawan-kawannya terpaku menyimak penuturan Salman. "Namun tahukah kalian bagaimana jawaban Abdurrahman bin Auf?" tanya Salman seraya menatap mata mereka. "Beliau tidak serakah mengambil harta saudaranya. Beliau berkata dengan penuh kemuliaan adab: *'Semoga Allah memberkahi hartamu dan keluargamu. Cukup tunjukkan padaku di mana letak pasar Madinah!'*"
 
 Salman menjelaskan intisari hikmahnya: "Persaudaraan kaum Muhajirin dan Anshar adalah puncak kemuliaan peradaban Islam. Kaum Anshar memiliki ketulusan cinta untuk memberi, sedangkan kaum Muhajirin memiliki kehormatan diri (*'Iffah*) untuk mandiri dan bekerja keras."
@@ -103,3 +107,4 @@ Gema tawa riang dan lantunan nasyid membahana di langit malam Pesantren Darul Ad
 Malam Ahad di pelataran asrama putra Pesantren Darul Adab dipenuhi oleh aroma harum nasi liwet gurih dan sambal terasi buatan Pakde Darmo. Seluruh santri dari kelas tujuh hingga kelas dua belas duduk bersila melingkar di atas karpet terpal panjang untuk mengikuti tradisi mayoran makan bersama. Satu nampan seng besar dinikmati bersama oleh empat santri dari berbagai tingkatan kelas dalam kehangatan ukhuwah yang tulus.
 
 Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+

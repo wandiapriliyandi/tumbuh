@@ -4,6 +4,10 @@ Pukul 20.00 malam di aula serambi masjid Pesantren Darul Adab. Di bawah pendar l
 
 Di hadapannya, Kiai membuka pengajian kitab tauhid klasik *Matan Jauharatut Tauhid*. Malam ini adalah malam pembukaan pembahasan bintang karakter pertama: **Mutiara Tauhid yang Bersih & Murni (*Salīmul 'Aqīdah / Prophetic Monotheism*)**. Kyai Hasyim mengangkat sebuah lentera kaca minyak tanah yang menyala terang di hadapan para santri.
 
+$$\text{أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ}$$
+
+> *"Engkau beribadah kepada Allah seakan-akan engkau melihat-Nya; jika engkau tidak mampu melihat-Nya, maka sesungguhnya Dia Maha Melihatmu."* (HR. Muslim no. 8)
+
 "Anak-anakku para calon ksatria peradaban..." buka Kyai Hasyim dengan suara bas yang dalam dan menembus kalbu, "apakah kalian melihat nyala api di dalam lentera ini?" Farhan, Faisal, Zaid, dan seluruh santri mengangguk serempak dengan tatapan terpaku. "Nyala api ini adalah perumpamaan tauhid di dalam dadamu," tutur Kiai dengan penuh kelembutan. "Ketika kaca lentera ini bersih dari jelaga hitam khurafat, tahayyul, dan ketergantungan pada selain Allah, maka cahayanya akan menerangi seluruh jalan hidupmu di kegelapan zaman."
 
 Kiai mengutip bait agung Syaikh Ibrahim Al-Laqqani:
@@ -107,3 +111,4 @@ Kyai Hasyim menguraikan hakikat Sepuluh Karakter Insan Adabi (Salimul Aqidah, Sh
 Farhan merenungkan pilar Salimul Aqidah saat bersujud di keheningan sholat tahajjud sepertiga malam terakhir. Farhan merasakan hatinya terbebas sepenuhnya dari rasa takut kepada selain Allah; ia tidak lagi takut pada gelapnya malam asrama atau bentakan manusia, karena yakin bahwa Allah adalah satu-satunya Pelindung sejati. Pemurnian tauhid ini melahirkan ketenangan jiwa yang tak tergoyahkan.
 
 Di lapangan olahraga asrama pada sore hari, Danang dan Faisal mempraktikkan pilar Qawiyyul Jism dengan berlatih lari estafet dan bela diri pencak silat bersama Mas Zaid. Latihan fisik yang teratur meningkatkan kebugaran jasmani dan memicu pelepasan hormon Endorfin serta BDNF (Brain-Derived Neurotrophic Factor) yang merangsang pertumbuhan sel-sel saraf baru di hipokampus.
+

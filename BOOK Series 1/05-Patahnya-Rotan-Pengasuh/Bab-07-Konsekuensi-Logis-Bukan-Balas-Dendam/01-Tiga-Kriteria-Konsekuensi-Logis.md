@@ -11,6 +11,10 @@ graph TD
 
 Ustadz Salman dan Ustadz Burhan melangkah menyusuri koridor pesantren dengan senyuman hangat dan tutur kata yang santun. Mereka merasa bahagia melihat bagaimana santri-santrinya kini menyapa dengan takzim dan cinta yang tulus. Beban berat masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
+$$\text{لَا ضَرَرَ وَلَا ضِرَارَ}$$
+
+> *"Tidak boleh melakukan perbuatan yang membahayakan diri sendiri dan tidak boleh membahayakan orang lain."* (HR. Ibnu Majah no. 2341, Malik dalam Al-Muwaththa' no. 1435)
+
 Danang dan Faisal duduk bersila di samping Farhan sembari membuka lembaran kitab suci Al-Qur'an dan kitab turats dengan penuh rasa hormat. Hubungan ukhuwah Islamiyyah yang tulus di antara para santri menjadi benteng pertahanan jiwa yang kokoh dalam menghadapi segala ujian belajar di perantauan.
 
 Ustadz Salman dan Ustadz Burhan melangkah menyusuri koridor pesantren dengan senyuman hangat dan tutur kata yang santun. Mereka merasa bahagia melihat bagaimana santri-santrinya kini menyapa dengan takzim dan cinta yang tulus. Beban berat masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
@@ -110,3 +114,4 @@ Farhan dan Danang menyaksikan peristiwa bersejarah tersebut dengan mata yang ber
 Ketika terjadi perselisihan antara Ilham dan Rayhan mengenai pinjam-meminjam kitab di kamar, Ustadz Salman menerapkan Teknik Lima Pertanyaan Restoratif: 'Apa yang sebenarnya terjadi? Apa yang kamu pikirkan saat itu? Siapa saja yang terdampak oleh perbuatanmu? Bagaimana perasaan mereka? Dan apa yang bisa kamu lakukan sekarang untuk memperbaikinya?' Pertanyaan reflektif ini mengaktifkan Prefrontal Cortex kedua santri untuk menyadari kesalahan mereka tanpa defensif.
 
 Ilham dan Rayhan saling berpelukan dan bersepakat untuk saling meminjamkan kitab dengan izin yang jelas tanpa ada dendam. Majelis Ishlah diakhiri dengan makan nasi liwet hangat bersama satu nampan di serambi kamar asrama. Disiplin restoratif telah membuktikan keunggulannya dalam menyembuhkan luka batin dan merajut kembali tali ukhuwah Islamiyyah yang kokoh.
+

@@ -4,6 +4,10 @@ Di tempat pencucian pakaian asrama putra yang basah dan temaram pada pukul 16.45
 
 Tanpa mengucapkan sepatah kata pun, Zaid mengulurkan kedua tangannya yang berotot dan kekar. Zaid menarik ember hitam berisi tumpukan baju kotor tersebut mendekat ke arah dirinya sendiri. Zaid menggulung kedua lengan kaos oblongnya hingga ke atas siku dengan gerakan mantap.
 
+$$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ فِي السَّفَرِ}$$
+
+> *"Pemimpin suatu kaum adalah pelayan bagi mereka dalam perjalanan pengabdian."* (HR. Al-Baihaqi dalam Syu'ab al-Iman no. 8632)
+
 Lalu di hadapan Farhan yang terperangah kaget, sang ketua santri meraih sarung tenun basah yang berat itu. Zaid mencelupkannya ke dalam bak air bilasan, dan mulai mengucek serta memerasnya dengan kekuatannya sendiri. Farhan panik luar biasa.
 
 Wajah anak dua belas tahun itu pucat pasi, kedua tangannya terangkat berusaha mencegah perbuatan seniornya tersebut: "Mas Zaid! Jangan, Mas!
@@ -107,3 +111,4 @@ Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tata
 Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
 
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+

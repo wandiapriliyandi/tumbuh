@@ -4,6 +4,10 @@ Pukul 09.15 pagi di ruang kelas 7-A madrasah Pesantren Darul Adab. Sesi latihan 
 
 Ustadz Burhan menuliskan sepotong ayat suci di papan tulis:
 
+$$\text{يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا}$$
+
+> *"Permudahlah dan jangan mempersulit, berikanlah kabar gembira dan jangan membuat orang lari menjauh."* (HR. Bukhari no. 69, Muslim no. 1734)
+
 $$\text{إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ}$$
 
 Burhan meminta salah seorang santri baru yang pendiam bernama Danang untuk mencoba menentukan kedudukan kata *Ghafurun* pada ayat tersebut. Danang berdiri dari bangkunya dengan wajah tegang. Dengan suara perlahan dan ragu-ragu, Danang menjawab:
@@ -105,3 +109,4 @@ Ustadz Burhan dengan tegas menghentikan kebiasaan saling mengejek saat ada santr
 Danang yang dahulunya selalu takut berbicara kini berani mengangkat tangannya untuk membaca teks kitab di depan kelas. Meskipun suaranya masih sedikit bergetar, Danang mampu menyelesaikan bacaannya dengan lancar dan mendapatkan tepuk tangan hangat dari seluruh kawan sekelasnya. Rasa percaya diri Danang tumbuh mekar laksana bunga di musim semi.
 
 Ustadz Burhan menatap buku catatan santri kelas tujuh sembari menyeruput kopi jahenya di ruang guru madrasah. Di hadapannya, Ustadz Salman mencocokkan data waktu tidur santri dengan tingkat konsentrasi mereka di kelas nahwu pagi ini. Mereka menemukan korelasi ilmiah yang sangat kuat: santri yang tidur cukup 7 jam di asrama mampu menghafal bait Imrithi tiga kali lebih cepat dibandingkan santri yang kurang tidur.
+

@@ -4,6 +4,10 @@ Dalam pengajian kitab *Bidayatul Hidayah* ba'da Maghrib di masjid utama, Kyai Ha
 
 $$\text{إِيَّاكُمْ وَالْحَسَدَ، فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ كَمَا تَأْكُلُ النَّارُ الْحَطَبَ}$$
 
+$$\text{أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ أَلَا وَهِيَ الْقَلْبُ}$$
+
+> *"Ketahuilah bahwa di dalam tubuh terdapat segumpal daging; jika ia baik maka baiklah seluruh tubuh, dan jika ia rusak maka rusaklah seluruh tubuh; ketahuilah bahwa segumpal daging itu adalah hati (qalb)."* (HR. Bukhari no. 52, Muslim no. 1599)
+
 > *"Jauhilah oleh kalian sifat hasad (dengki), karena sesungguhnya hasad itu memakan kebaikan-kebaikan sebagaimana api memakan kayu bakar."* (HR. Abu Dawud)
 
 Kiai mengajarkan terapi praktis mengobati hasad:
@@ -109,3 +113,4 @@ Farhan mempraktikkan Riyadhah Hati dan Muhasabah Diri sesuai tuntunan Hujjatul I
 Neurosains modern membuktikan bahwa keheningan sujud malam dan dzikir thuma'ninah yang mendalam mengaktifkan Saraf Vagus (Vagus Nerve) dan menstimulasi cabang saraf parasimpatis, menurunkan tekanan darah, merelaksasikan detak jantung, serta memicu pelepasan gelombang otak Teta dan Gamma yang melahirkan ketenangan batin absolut (*Spiritual Bliss & Peak Emotional Resilience*).
 
 Farhan memandang wajah sahabat-sahabatnya—Danang, Faisal, Arya, Ilham, Rayhan—yang sedang tertidur lelap dengan pandangan mata yang dipenuhi oleh luapan mahabbah persaudaraan Islam yang hakiki. Farhan berdoa dengan air mata yang menetes membasahi sajadahnya, memohon agar Allah mengumpulkan mereka semua kembali di surga Firdaus kelak sebagaimana Allah telah menyatukan mereka dalam perjuangan menuntut ilmu di bumi Pesantren Darul Adab.
+

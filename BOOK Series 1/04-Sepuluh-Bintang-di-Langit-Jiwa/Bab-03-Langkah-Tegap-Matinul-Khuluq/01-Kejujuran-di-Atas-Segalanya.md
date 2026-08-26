@@ -4,6 +4,10 @@ Pukul 14.00 siang di koridor samping gedung perpustakaan Pesantren Darul Adab. F
 
 Di lorong yang sepi itu, tidak ada seorang pun yang melihat. Tidak ada kamera pengawas di sudut tersebut.
 
+$$\text{إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ}$$
+
+> *"Sesungguhnya aku diutus hanyalah untuk menyempurnakan keshalihan kemuliaan akhlak."* (HR. Ahmad no. 8952, Al-Bukhari dalam Al-Adab al-Mufrad no. 273)
+
 Nafsu manusiawi sempat berbisik lirih: *"Ambillah uang itu sedikit untuk jajan di koperasi..."* Namun cahaya bintang karakter ketiga: **Akhlak yang Kokoh & Tak Tergoyahkan (*Matīnul Khuluq / Unshakable Prophetic Integrity*)** seketika bersinar terang di dalam dada Farhan. Farhan mengingat firman Allah SWT:
 
 $$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ}$$
@@ -107,3 +111,4 @@ Sepuluh bintang karakter kini bersinar terang benderang di langit jiwa para sant
 Kyai Hasyim menguraikan hakikat Sepuluh Karakter Insan Adabi (Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq, Qawiyyul Jism, Mutsaqqoful Fikr, Mujahidun Linafsihi, Haritsun ala Waqtihi, Munazhzhamun fi Syu'unihi, Qadirun alal Kasbi, Nafi'un Lighairihi) di hadapan majelis santri. Kiai menegaskan bahwa sepuluh pilar karakter ini bukanlah teori hafalan yang mati, melainkan nafas hidup yang harus berdenyut dalam setiap gerak-gerik santri selama 24 jam.
 
 Farhan merenungkan pilar Salimul Aqidah saat bersujud di keheningan sholat tahajjud sepertiga malam terakhir. Farhan merasakan hatinya terbebas sepenuhnya dari rasa takut kepada selain Allah; ia tidak lagi takut pada gelapnya malam asrama atau bentakan manusia, karena yakin bahwa Allah adalah satu-satunya Pelindung sejati. Pemurnian tauhid ini melahirkan ketenangan jiwa yang tak tergoyahkan.
+

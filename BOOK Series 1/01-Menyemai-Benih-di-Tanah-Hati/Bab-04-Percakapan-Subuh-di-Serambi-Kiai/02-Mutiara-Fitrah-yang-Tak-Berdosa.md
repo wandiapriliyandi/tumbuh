@@ -4,6 +4,10 @@ Di serambi ndalem kediaman Kyai Hasyim, percakapan mendalam ba'da Subuh berlanju
 
 Kyai Hasyim meraih teko keramik berukir kaligrafi doa di atas baki tembaga. Dengan gerakan tangan yang sangat anggun dan tenang, Kiai menuangkan secangkir teh jahe merah hangat yang mengepulkan aroma manis. Teh itu dituangkan ke dalam cangkir porselen putih di hadapan Salman.
 
+$$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
+
+> *"Setiap anak dilahirkan di atas kesucian fitrah; maka kedua orang tuanya (lingkungan pendidiknya)-lah yang menjadikannya Yahudi, Nasrani, atau Majusi."* (HR. Bukhari no. 1385, Muslim no. 2658)
+
 Uap aromatik jahe merah dan kapulaga seketika menyerbak ke udara, menenangkan suasana batin yang tegang. "Bismillah... Minumlah dulu teh jahe ini, Salman," dawuh Kiai dengan nada mengayomi.
 
 Salman mengangkat cangkir tersebut dengan kedua belah tangannya yang gemetar. Salman menundukkan kepala seraya mencicipi kehangatan teh yang menenteramkan dadanya. Kyai Hasyim membetulkan posisi duduk bersilanya di atas dampar kayu.
@@ -107,3 +111,4 @@ Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-s
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
 Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+

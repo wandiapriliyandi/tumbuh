@@ -4,6 +4,10 @@ Pukul 03.20 dini hari. Suasana lorong asrama lantai dua komplek asrama putra Pes
 
 Ustadz Salman melangkah menyusuri koridor. Di tangannya tidak ada lagi pipa besi penyangga sapu yang biasa dihantamkan ke pintu-pintu kamar. Salman hanya membawa senter kecil berpenutup kain tipis agar cahayanya tidak menyilaukan mata anak-anak.
 
+$$\text{أَفْشُوا السَّلَامَ بَيْنَكُمْ تَحَابُّوا}$$
+
+> *"Tebarkanlah salam di antara kalian, niscaya kalian akan saling mencintai dan berkasih sayang."* (HR. Muslim no. 54)
+
 Salman menghentikan langkahnya tepat di depan pintu Kamar Al-Farabi—kamar tempat Farhan dan sembilan belas santri baru lainnya tidur lelap. Di masa lalu, detik-detik ini adalah saat di mana pintu kamar digedor dengan suara keras laksana ledakan mortir. Namun malam ini, Salman mengangkat tangan kanannya, menekuk jemarinya dengan lembut, lalu mengetuk daun pintu kayu dengan tiga ketukan pelan yang berirama damai.
 
 *Tok... Tok... Tok...*
@@ -111,3 +115,4 @@ Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutu
 Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
 Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
