@@ -1,30 +1,53 @@
 # Sub-Bab 1.1: Membakar Buku Dosa Asrama
 
-Siang hari yang tenang di serambi kantor pengasuhan asrama putra Pesantren Darul Adab. Sinar matahari keemasan menerobos rimbunnya dedaunan pohon mangga arumanis, memantulkan bayangan teduh di atas lantai terakota yang bersih.
+Pukul 02.45 dini hari. Udara dingin pegunungan kapur kembali merayap menembus kisi-kisi jendela kantor pengasuhan asrama putra Pesantren Darul Adab. Di atas meja kerja kayunya yang sederhana, sebuah lampu minyak tanah antik berpadu dengan temaram lampu meja 5 watt, membiaskan bayangan panjang ke dinding kapur putih.
 
-Ustadz Salman duduk di samping Ustadz Ridwan di sebuah meja kayu bundar. Di hadapan mereka, bukan lagi tumpukan rotan atau buku catatan hitam tebal yang penuh dengan coretan tinta merah poin pelanggaran santri, melainkan dua cangkir teh serai hangat dan lembaran modul panduan pengasuhan baru berjudul ***In Loco Parentis: Seni Mengasuh dengan Hati***.
+Ustadz Salman duduk terpekur di kursi kayu rotan. Di hadapannya, sebuah buku bersampul kulit hitam tebal berdebu tergeletak kaku di samping cangkir kopi dingin. Buku itu bertuliskan tinta merah tebal di sampul depannya: **Buku Rekapitulasi Pelanggaran & Catatan Dosa Santri**.
 
-Salman menatap ke arah pintu gerbang asrama lantai satu. Di sana, sekelompok santri baru kelas tujuh sedang berjalan beriringan sembari tertawa riang membawa kitab suci Al-Qur'an menuju halaqah tahfizh.
+Selama bertahun-tahun, buku itu menjadi instrumen paling ditakuti di asrama. Di dalamnya, ratusan coretan tinta merah mencatat setiap kelemahan dan kekhilafan anak-anak asuh: *"Farhan - terlambat bangun sholat Subuh 3 menit (poin minus 5)", "Danang - sandal tertinggal di lorong (poin minus 10)", "Faisal - mengantuk saat pengajian kitab (poin minus 15)"*.
 
-"Ridwan," ucap Salman membuka percakapan dengan nada suara yang tenang dan penuh perenungan, "setiap kali aku mengingat bagaimana dulu aku memperlakukan anak-anak itu, dadaku masih terasa ngilu oleh rasa bersalah."
+Buku hitam itu adalah simbol peradilan yang dingin—buku yang hanya mencatat kesalahan tanpa pernah sekali pun mencatat air mata perjuangan, kebaikan tersembunyi, atau letihnya tubuh anak-anak yang sedang belajar beradaptasi.
 
-Ridwan tersenyum maklum, menepuk pundak sahabatnya itu dengan kehangatan seorang kakak. "Penyesalan yang melahirkan perbaikan adalah anugerah taufiq dari Allah, Salman. Yang terpenting adalah kita tidak lagi mengulangi kegelapan masa lalu itu."
+Salman membuka lembar demi lembar halaman buku tersebut. Setiap goresan tinta merah terasa seperti mencambuk nuraninya sendiri.
 
-Salman mengangguk pelan. Ia teringat bagaimana selama bertahun-tahun doktrin pengasuhan asrama yang salah telah menjebak para musyrif menjadi sosok "sipir penjara". Musyrif dituntut selalu bermuka masam, bersuara keras, dan mencatat setiap kekhilafan santri demi mempertahankan wibawa kekuasaan.
+Ia teringat percakapan mendalamnya dengan Kyai Hasyim di serambi ndalem dua hari yang lalu. Kata-kata sang Kiai bagaikan sembilu yang mengiris kesombongan dan persepsi kelirunya tentang disiplin.
 
-"Kita lupa bahwa anak-anak yang dititipkan di asrama ini adalah anak-anak yang terpisah ratusan kilometer dari pelukan ayah dan ibunya," lanjut Salman. "Mereka tidak membutuhkan seorang sipir yang siap menghukum mereka setiap saat; mereka membutuhkan sosok **pengganti orang tua (*In Loco Parentis*)** yang siap merengkuh mereka saat mereka terjatuh dan rapuh."
+*"Salman, anakku..."* suara Kyai Hasyim terngiang kembali dengan nada syahdu yang merasuk ke kalbu, *"apakah malaikat Raqib dan 'Atid hanya mencatat keburukan hamba tanpa mencatat kebaikannya? Mengapa buku catatanmu dipenuhi tinta merah vonis kesalahan, namun kosong dari tinta emas apresiasi kebaikan?"*
 
-Konsep *In Loco Parentis* dalam hukum dan etika pendidikan Islam menegaskan bahwa musyrif memikul mandat suci kebapakan:
-1. Menghadirkan rasa aman emosional (*Emotional Security*) yang setara dengan kehangatan rumah keluarga.
-2. Membimbing pembiasaan adab melalui keteladanan cinta (*Tarbiyah bil Qudwah*), bukan paksaan rasa takut.
-3. Menjadi tempat bersandar pertama ketika santri mengalami kebingungan, sakit fisik, atau kesedihan batin.
+Kyai Hasyim menatap mata Salman saat itu dengan tatapan seorang ayah yang penuh kasih sayang: *"Ketika kamu hanya mencari kesalahan santrimu, kamu sedang melatih matamu menjadi lalat yang hanya hinggap di atas kotoran. Padahal tugas murabbi adalah menjadi lebah yang mencari sari bunga kebaikan, lalu mengolahnya menjadi madu peradaban."*
 
-"Ketika seorang musyrif memposisikan dirinya sebagai orang tua," dawuh Kyai Hasyim yang melintas di serambi dan ikut bergabung dalam percakapan, "maka pandangan matanya kepada santri akan dipenuhi oleh **pandangan kasih sayang (*Nazarur Rahmah*)**."
+Salman mengusap wajahnya dengan kedua telapak tangannya yang gemetar. Dua tetes air mata hangat menetes membasahi lembaran buku hitam tersebut, melunturkan tinta merah yang telah lama membekukan kehangatan asrama.
 
-Kyai Hasyim duduk bersama kedua musyrif mudanya itu. Kiai mengutip sebuah atsar masyhur dari ulama salaf tentang adab seorang pendidik:
+Di dalam keheningan malam yang sunyi, desau angin pegunungan menggoyang dahan pohon beringin di depan kantor. Dari kejauhan, lolongan serangga malam bersahut-sahutan membelah kesunyian.
 
-$$\text{كُنْ لِلْيَتِيمِ كَالْأَبِ الرَّحِيمِ، وَاعْلَمْ أَنَّكَ كَمَا تَزْرَعُ كَذَلِكَ تَحْصُدُ}$$
+Salman bangkit berdiri dari kursinya. Tubuhnya yang tegap melangkah mendekati sebuah drum kaleng kecil di samping teras kantor yang biasa digunakan untuk membakar daun kering.
 
-> *"Jadilah engkau bagi anak-anak asuhmu seperti seorang ayah yang penuh kasih sayang. Dan ketahuilah bahwa apa yang engkau tanam di dalam hati mereka, itulah yang kelak akan engkau panen hasilnya."*
+Salman membawa buku hitam itu di tangan kanannya. Di tangan kirinya, ia menggenggam pemantik api gas.
 
-Salman meresapi kata-kata itu dengan sepenuh jiwanya. Di dalam benaknya, peran musyrif kini telah bertransformasi total: dari seorang penghitung dosa menjadi **Lentera Penjaga Fajar**—lentera yang setia menyala di tengah pekatnya malam demi menerangi jalan dan menuntun langkah anak-anak asuhnya menuju kemuliaan akhlak.
+"Bismillah..." bisik Salman lirih, suaranya bergetar menahan gejolak haru yang membuncah di dalam dada.
+
+Salman menyalakan pemantik api. Lidah api berwarna biru kemerahan seketika menyambar sudut lembaran buku catatan dosa itu.
+
+Kertas-kertas tebal itu mulai terbakar, meliuk-liuk di dalam drum kaleng. Asap tipis beraroma kertas terbakar membubung ke udara malam, membawa serta terbangnya seluruh stigma, cap buruk, dan vonis-vonis dingin yang selama ini membelenggu jiwa anak-anak asuhnya.
+
+Salman menatap kobaran api itu dengan tatapan mata yang basah oleh air mata taubat.
+
+Api itu tidak hanya membakar lembaran kertas bertinta merah; api itu sedang membakar kesombongan batinnya, membakar mentalitas sipir penjara yang selama ini bercokol di dalam kepalanya, dan membakar sisa-sisa arogansi kekuasaan yang telah menjauhkannya dari hakikat tarbiyah kenabian.
+
+"Mulai malam ini," ikrar Salman dalam bisikan yang khidmat, "aku kubur sistem pencatatan dosa yang zalim ini. Aku tidak akan lagi menjadi jaksa yang menghakimi anak-anak titipan umat. Aku akan menjadi pembimbing yang merangkul dan mencatat setiap langkah pertumbuhan mereka dengan cinta."
+
+Abu kertas yang terbakar beterbangan pelan ditiup angin dini hari, jatuh berserakan di atas tanah pekarangan pesantren.
+
+Salman melangkah kembali ke dalam kantor pengasuhan. Udara ruangan itu kini terasa jauh lebih lapang dan sejuk, seolah baru saja dibersihkan dari beban energi gelap yang menghimpit selama bertahun-tahun.
+
+Di atas meja kerjanya, Salman meletakkan sebuah buku baru bersampul kain beludru biru muda berlogo TUMBUH: **Buku Jurnal Apresiasi & Pertumbuhan Kebaikan Santri**.
+
+Di halaman pertama buku baru tersebut, Salman menuliskan sebuah ayat suci dengan tulisan tangan kaligrafi yang sangat rapi:
+
+$$\text{فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ}$$
+
+> *"Maka berkat rahmat dari Allah-lah engkau (Muhammad) berlaku lemah lembut terhadap mereka. Sekiranya engkau bersikap keras lagi berhati kasar, tentulah mereka menjauhkan diri dari sekelilingmu..."* (QS. Ali 'Imran: 159)
+
+Jarum jam dinding di kantor menunjukkan pukul 03.15. Waktu membangunkan santri telah tiba.
+
+Namun malam ini, tidak ada lagi derap sepatu lars yang dihentakkan keras. Tidak ada lagi sabetan rotan kuning. Salman melangkah keluar menyusuri koridor asrama beralaskan sandal karet lembut, membawa lentera kasih sayang yang siap menyinari fajar baru bagi seluruh santri Pesantren Darul Adab.

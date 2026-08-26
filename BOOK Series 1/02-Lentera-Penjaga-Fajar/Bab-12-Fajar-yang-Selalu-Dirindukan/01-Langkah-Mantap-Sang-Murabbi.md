@@ -1,15 +1,26 @@
 # Sub-Bab 12.1: Langkah Mantap Sang Murabbi
 
-Fajar kembali menyingsing di ufuk timur Pesantren Darul Adab. Pukul 03.45 dini hari. Di koridor lantai dua komplek asrama putra, Ustadz Salman melangkah dengan langkah yang tenang, mantap, dan berwibawa.
+Pukul 03.45 dini hari di lorong lantai dua asrama putra Pesantren Darul Adab. Udara pegunungan yang dingin dan segar menyelimuti komplek pesantren di bawah gugusan bintang-bintang fajar yang berkilauan.
 
-Di tangannya tidak ada rotan kuning, tidak ada peluit besi, dan di wajahnya tidak ada lagi bayang-bayang ketegangan amarah atau lingkaran hitam keletihan fisik.
+Ustadz Salman melangkah menyusuri koridor kamar dengan langkah kaki yang mantap, tenang, dan penuh wibawa.
 
-Salman kini melangkah sebagai seorang **Murabbi Sejati**—seorang pendidik yang jiwanya telah dipenuhi oleh cahaya keikhlasan, ilmunya ditopang oleh kaidah Turats yang mendalam, dan tindakannya dipandu oleh sains pengasuhan yang berkeadilan.
+Di tangannya tidak ada lagi rotan kuning yang menakutkan. Di dadanya tidak ada lagi amarah yang membakar.
 
-Di setiap pintu kamar yang dilewatinya, sapaan salam yang lembut dan ketukan jari yang tenang membangunkan santri-santrinya dengan penuh kehormatan.
+Salman memandang ke arah pintu-pintu kamar santri yang terbuka lebar. Dari dalam kamar, santri-santri telah bangun dengan tertib dan mandiri:
+* Farhan sedang melipat selimutnya membentuk sudut hospital corner yang kencang dan rapi.
+* Faisal sedang mengancingkan baju koko putihnya di depan cermin lemari.
+* Danang sedang membantu Arya menata sandal di garis kuning depan teras kamar.
 
-Santri-santri yang berpapasan dengannya di koridor tidak lagi menunduk ketakutan atau bersembunyi di balik pilar. Mereka menyambut pembinanya itu dengan cium tangan yang takzim, tatapan mata yang ceria, dan doa tulus: *"Semoga Allah menjaga kesehatan Ustadz Salman selalu."*
+Tidak ada lagi jeritan tangis panik. Tidak ada lagi anak-anak yang berlari ketakutan menuruni tangga.
 
-Salman merasakan kebahagiaan batin yang tiada tara—sebuah kebahagiaan hakiki yang tidak pernah bisa dibeli dengan secuil ketertiban semu masa lalu.
+Suasana asrama di waktu fajar telah bertransformasi menjadi orkestrasi keteraturan dan kedamaian yang begitu memukau.
 
-Ia menatap ke arah masjid utama, di mana ratusan lentera fajar mulai menyala, menerangi barisan para penuntut ilmu yang berbondong-bondong melangkah menuju shaf-shaf sholat dengan hati yang terpaut pada cinta Ilahi.
+Ketika Farhan melangkah keluar kamar dan berpapasan dengan Salman, Farhan menyapa dengan senyuman cerah yang tulus:
+
+"Assalamu'alaikum, Ustadz Salman!"
+
+"Wa'alaikumussalam warahmatullah, Farhan ksatria penuntut ilmu!" jawab Salman sembari menepuk lembut pundak anak asuhnya itu.
+
+Salman merasakan kebahagiaan batin yang tiada tara di dalam dadanya—sebuah kebahagiaan yang tidak akan pernah bisa dibeli dengan kekuasaan tongkat rotan mana pun.
+
+Ia telah membuktikan bahwa kepemimpinan yang berakar pada keteladanan cinta (*Qudwah Hasanah*) dan sistem pengasuhan yang memuliakan fitrah manusia adalah kunci pembuka pintu kemandirian sejati bagi generasi penerus peradaban Islam.

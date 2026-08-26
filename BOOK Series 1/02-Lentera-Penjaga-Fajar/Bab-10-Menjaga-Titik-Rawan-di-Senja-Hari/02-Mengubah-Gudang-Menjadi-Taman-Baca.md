@@ -1,14 +1,22 @@
 # Sub-Bab 10.2: Mengubah Gudang Menjadi Taman Baca
 
-Sebagai langkah pembenahan permanen terhadap titik rawan di belakang kantin, Kyai Hasyim menyetujui usulan Ustadz Salman untuk melakukan **Rekayasa Tata Ruang Lingkungan (*Environmental Space Redesign*)**.
+Untuk melenyapkan titik rawan di belakang kantin secara permanen, pimpinan Pesantren Darul Adab tidak hanya mengandalkan patroli, melainkan melakukan intervensi arsitektur lingkungan (*Crime Prevention Through Environmental Design - CPTED*): **Menyulap Gudang Tua Menjadi Gazebo Taman Baca Santri (*The Space Transformation Initiative*)**.
 
-Bangunan gudang tua yang kumuh dan gelap di belakang kantin dibongkar total oleh tim sarana dan prasarana bersama para santri senior:
-1. **Pemasangan Tata Cahaya Terang**: Lampu-lampu taman bertenaga surya berdaya terang dipasang di setiap sudut pohon dan dinding belakang.
-2. **Pembersihan Semak & Pembukaan Akses Terbuka**: Pohon-pohon liar ditebang, digantikan dengan rumput gajah mini yang hijau dan bunga-bunga bougenville warna-warni.
-3. **Pembangunan Gazebo Taman Baca Santri**: Di tengah area tersebut, dibangun gazebo kayu terbuka yang dilengkapi rak buku mini berisi majalah sains Islam, novel sastra, dan ensiklopedia bergambar.
+Gudang kayu tua yang tadinya gelap, berdebu, dan menjadi sarang laba-laba dibongkar total.
 
-Dua bulan kemudian, area yang dulu dijuluki 'lorong hantu' itu telah bertransformasi menjadi salah satu **Pojok Favorit Santri (*Student Favorite Hub*)**.
+Di atas lahan tersebut, dibangun sebuah gazebo panggung kayu jati beratap ijuk alami dengan lantai kayu yang dipel bersih.
 
-Setiap sore hari, puluhan santri dari berbagai jenjang kelas duduk bersama di bangku taman, membaca buku di bawah sinar matahari senja yang hangat, atau berdiskusi santai sembari menikmati semilir angin sepoi-sepoi.
+Di sekeliling gazebo:
+* Dipasang empat tiang lampu taman bertenaga surya yang otomatis menyala terang saat matahari terbenam (*Zero Dark Blindspots*).
+* Ditanami taman bunga melati, tanaman sirih merah, dan kolam ikan air mancur kecil yang gemericik menenangkan.
+* Disediakan rak buku kayu terbuka yang memuat majalah sains Islam bergambar, novel sejarah kepahlawanan sahabat nabi, dan komik adab anak.
 
-Prinsip rekayasa lingkungan PBIS membuktikan bahwa **perilaku manusia sangat dipengaruhi oleh arsitektur ruang di sekitarnya**. Ketika sebuah lingkungan didesain dengan indah, bersih, terang, dan bermartabat, maka secara otomatis perilaku orang-orang di dalamnya akan terangkat menuju kemuliaan adab dan keindahan budi pekerti.
+Sore itu, suasana di bekas gudang tua tersebut berubah menjadi pusat keceriaan yang sangat asri.
+
+Farhan, Danang, dan adik-adik kelasnya duduk bersila di atas lantai kayu gazebo sembari membaca buku ensiklopedia alam semesta dan memberi makan ikan koi di kolam.
+
+Ustadz Salman yang melintas di jalan setapak taman tersenyum memandang pemandangan yang indah itu.
+
+Prinsip rekayasa lingkungan membuktikan bahwa **kegelapan tidak bisa dihilangkan dengan pukulan tongkat, melainkan harus dihilangkan dengan menyalakan cahaya dan menghadirkan keindahan**.
+
+Tempat yang dulu menjadi sarang masalah kini telah bertransformasi menjadi oase literasi dan persaudaraan yang menyuburkan kecintaan santri pada ilmu pengetahuan.

@@ -1,22 +1,26 @@
 # Sub-Bab 6.1: Estafet Amanah Tanpa Celah
 
-Pukul 11.30 siang. Lonceng perpindahan waktu tugas berbunyi lembut di ruang transit pengasuhan asrama putra. Ruangan berukuran lima kali enam meter itu dirancang khusus sebagai pusat komando operasional pengasuhan (*Operational Command Center*).
+Pukul 21.00 malam di ruang pos jaga pengasuhan asrama putra Pesantren Darul Adab. Secangkir kopi arabika panas mengepulkan aroma harum di atas meja kayu jati, bersanding dengan tablet logbook digital yang menyala terang.
 
-Di tengah ruangan, sebuah meja kayu jati bundar dilengkapi dengan empat kursi berbusa empuk. Di atas meja, dua cangkir kopi hitam hangat dan sepiring singkong goreng renyah telah tersaji, menemani sebuah laptop layar sentuh yang menampilkan aplikasi **Sistem Informasi Logbook Pengasuhan Terpadu**.
+Di ruangan itu, dua orang ksatria penjaga asrama sedang menggelar ritual harian paling krusial: **Protokol Serah Terima Tugas Shift Malam (*The Sacred 15-Minute Handover Protocol*)**.
 
-Ustadz Salman (petugas Shift 1: Fajar & Pagi) duduk berhadapan dengan Ustadz Fauzan (petugas Shift 2: Siang & Sore). Keduanya sedang menjalankan sebuah protokol baku yang menjadi kunci keberhasilan pengasuhan 24 jam: **Protokol Serah Terima Tugas Tanpa Celah (*Handover Shift Protocol*)**.
+Ustadz Burhan (musyrif shift siang) duduk berhadapan dengan Ustadz Ridwan (musyrif shift malam yang baru tiba mengenakan jaket tebal dan syal hijau).
 
-"Assalamu'alaikum, Fauzan," sapa Salman sembari menyerahkan tablet digital pengasuhan. "Mari kita telaah rekapitulasi data santri sesi pagi hari ini."
+Di masa lalu, pergantian shift pengasuh sering kali berlangsung serampangan: musyrif siang pulang begitu saja tanpa memberikan catatan, sehingga musyrif malam tidak tahu santri mana yang sedang demam, santri mana yang sedang berselisih, atau santri mana yang sedang menangis rindu keluarga. Celah informasi (*Communication Gap*) inilah yang sering menjadi pintu masuk terjadinya insiden di malam hari.
 
-Salman membuka dasbor analitik dan memaparkan poin-poin krusial secara terstruktur:
-1. **Status Kesehatan Santri**: Dua santri kelas tujuh di Kamar Al-Farabi (Ilham dan Rizky) sedang beristirahat di Poskestren karena demam ringan. Obat penurun panas telah diberikan pada pukul 09.00 oleh perawat jaga, dan suhu tubuh mereka perlu diperiksa kembali pada pukul 13.00 siang.
-2. **Kondisi Emosional & Adaptasi**: Farhan menunjukkan perkembangan adaptasi yang sangat positif setelah didampingi Zaid, namun perlu diajak berbincang santai saat makan siang untuk memastikan ia tidak merasa kesepian.
-3. **Fasilitas & Titik Rawan**: Kran air di kamar mandi nomor tiga lantai satu dilaporkan bocor kecil dan telah dijadwalkan untuk diperbaiki oleh tim teknisi pada pukul 14.00.
+Namun di era Ekosistem TUMBUH, serah terima shift dijalankan dengan standar operasional terstruktur berbasis **Metode SBAR (Situation, Background, Assessment, Recommendation)**:
 
-Fauzan menyimak setiap penjelasan Salman dengan seksama, mencatat catatan khusus di akun digitalnya, dan mengonfirmasi pemahaman atas setiap kasus yang memerlukan perhatian lanjutan.
+Burhan membuka tablet digitalnya dan memaparkan laporan dengan runut:
 
-"Alhamdulillah, Salman. Seluruh informasi telah saya terima dengan jelas," ujar Fauzan seraya menandatangani berita acara digital serah terima shift.
+1. **Situation (Situasi Terkini)**: "Alhamdulillah secara umum seluruh 20 kamar di lantai 1 dan 2 dalam kondisi kondusif. Santri sedang menuntaskan muthala'ah mandiri di serambi masjid."
+2. **Background (Latar Belakang Khusus)**: "Di Kamar Al-Farabi nomor 3, santri bernama Danang tadi sore sempat mengeluh pusing dan mual setelah pelajaran olahraga. Sudah diperiksa dokter Poskestren dan diberikan obat penurun panas."
+3. **Assessment (Evaluasi Observasi)**: "Suhu tubuh Danang saat ini 37,8 derajat Celsius. Ananda sudah beristirahat di kasur bawahnya dan sudah makan bubur ayam."
+4. **Recommendation (Rekomendasi Tindak Lanjut Shift Malam)**: "Mohon Ustadz Ridwan memeriksa suhu tubuh Danang pada pukul 23.00 dan pukul 03.00 nanti, serta memastikan selimutnya terpasang rapi dan kompres hangatnya diganti jika suhu naik."
 
-Protokol handover ini memastikan bahwa **tidak ada satu pun santri yang terabaikan (*Zero-Blindspot Caretaking*)**. Ketika seorang musyrif menyelesaikan jam kerjanya, ia dapat pulang dan beristirahat dengan tenang tanpa rasa cemas, karena ia tahu bahwa tongkat estafet pengasuhan telah diserahkan kepada rekan sejawatnya yang kompeten dan memahami detail kondisi setiap anak asuh.
+Ridwan menyimak dengan cermat sembari mencatat poin-poin penting di buku catatan sakunya.
 
-Salman menyeruput kopi hangatnya dengan senyuman lega. Di ruang transit itu, serah terima tugas bukan sekadar formalitas birokrasi, melainkan sebuah ibadah estafet amanah suci demi menjaga keselamatan dan kemuliaan generasi penerus umat.
+"Baik, Ustadz Burhan. Saya terima amanah penjagaan malam ini," jawab Ridwan dengan nada suara yang mantap dan penuh tanggung jawab. "Saya akan pastikan Danang dan seluruh santri di lantai 1 dan 2 terjaga keselamatannya sepanjang malam ini."
+
+Keduanya saling berjabat tangan erat, lalu menyerahkan kunci pos dan kartu akses patroli.
+
+Proses serah terima tugas selama lima belas menit ini memastikan bahwa mata rantai penjagaan dan perlindungan santri selama 24 jam tidak pernah terputus sedetik pun (*Zero-Gap Continuous Care*), menghadirkan rasa aman yang sempurna bagi seluruh warga pesantren.

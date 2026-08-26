@@ -1,26 +1,35 @@
 # Sub-Bab 8.1: Ketika Nampan Makan Malam Terbang
 
-Malam itu, di ruang makan asrama putra selepas sholat Isya, sebuah insiden perselisihan pecah di meja makan barisan tengah.
+Pukul 18.45 malam. Suasana ruang makan asrama putra Pesantren Darul Adab sedang dipenuhi oleh ratusan santri yang menikmati makan malam mayoran selepas sholat Maghrib.
 
-*PRANG!*
+Tiba-tiba, sebuah dentang logam keras memekakkan telinga memecah suasana makan malam di sudut aula!
 
-Sebuah nampan makan seng terpental ke lantai semen, menumpahkan nasi liwet hangat, tempe orek, dan kuah sayur lodeh ke atas lantai. Di samping nampan yang terbalik, dua santri kelas delapan—Faisal dan Ihsan—berdiri saling berhadapan dengan nafas tersengal-sengal, dada membusung, dan kedua tangan terkepal erat siap saling pukul.
+*PRANGGG! BRAKKK!*
 
-"Kamu sengaja menyenggol nampanku, kan?!" bentak Ihsan dengan wajah merah padam.
+Sebuah nampan aluminium berisi nasi liwet, kuah sayur lodeh panas, dan potongan tempe goreng terlempar menghantam dinding keramik, lalu jatuh berserakan di atas lantai.
 
-"Siapa yang sengaja?! Kamu sendiri yang jalannya tidak melihat ke depan!" balas Faisal dengan nada suara yang tak kalah tinggi.
+Di samping tumpahan makanan itu, seorang santri kelas delapan bertubuh kekar bernama Bagas sedang berdiri dengan wajah merah padam, nafasnya memburu kasar seperti banteng terluka, dan kedua tangannya mengepal keras.
 
-Puluhan santri di sekitarnya seketika terdiam kaget, beberapa di antaranya mundur ketakutan, sementara yang lain mulai berkerumun menonton.
+Di depannya, seorang santri yang lebih kecil tampak terduduk gemetar di lantai dengan baju koko yang kotor terkena cipratan kuah sayur.
 
-Di masa lalu, insiden seperti ini akan langsung direspons oleh pembina piket dengan tiupan peluit melengking, bentakan kasar, dan sanksi hukuman fisik di tempat.
+"Kamu sengaja menumpahkan sambal ke bajuku ya?!" teriak Bagas dengan suara menggelegar, matanya menyala penuh amarah yang siap meledak menjadi perkelahian fisik.
 
-Namun malam ini, Ustadz Salman yang bertugas sebagai musyrif Shift Malam mempraktikkan **Protokol De-eskalasi Krisis Emosional (*Crisis De-escalation Protocol*)**:
-1. **Tetap Tenang & Menjaga Jarak Fisik Aman**: Salman melangkah mendekat dengan langkah santai tanpa berlari panik, tidak membentak, dan berdiri pada jarak dua meter dari kedua santri untuk menghindari kesan mengintimidasi.
-2. **Menurunkan Volume & Nada Suara (*Low-Tone Voice Modulation*)**: Salman berbicara dengan nada suara bas yang pelan namun sangat tenang dan tegas: *"Faisal, Ihsan... Ustadz ada di sini. Tarik nafas dalam-dalam... Turunkan tangan kalian. Kalian berdua aman bersama Ustadz."*
-3. **Pemisahan Ruang & Pendinginan Emosi (*Spatial Separation*)**: Salman tidak memaksa mereka berdebat di depan umum. Ia meminta Zaid memandu Ihsan ke teras samping masjid, sementara Salman merangkul pundak Faisal dan membimbingnya menuju ruang transit pengasuhan yang sejuk.
+Ratusan santri di sekeliling aula seketika hening mencekam. Beberapa santri mulai mundur ketakutan, mengira perkelahian berdarah akan segera terjadi.
 
-Melihat respons pembinanya yang sangat tenang dan tidak membalas dengan amarah, ketegangan di tubuh Faisal seketika mereda. Otot-otot tangannya yang mengepal perlahan mengendur, dan nafasnya yang memburu berangsur-angsur kembali normal.
+Di masa lalu, insiden seperti ini akan langsung dibalas dengan sabetan rotan atau bentakan kasar dari pembina yang membuat suasana semakin liar.
 
-Salman meminta santri piket dapur membersihkan tumpahan makanan dengan tenang tanpa drama, lalu mengajak Faisal duduk di sofa empuk ruang transit.
+Namun Ustadz Salman yang sedang berada di dekat pintu dapur segera bergerak cepat mempraktikkan protokol de-eskalasi: **Pertolongan Pertama Krisis Emosi Santri (*Psychological First Aid & Non-Violent Crisis Intervention*)**.
 
-Insiden nampan makan malam yang berpotensi meledak menjadi perkelahian massal itu berhasil diredam dalam waktu kurang dari dua menit, membuktikan keampuhan seni penguasaan diri pendidik dalam mengelola badai emosi remaja.
+Salman melangkah maju dengan tenang, menyuruh santri-santri lain untuk tetap duduk di tempatnya masing-masing.
+
+Salman tidak berteriak membalas amarah Bagas. Ia berdiri pada jarak aman dua meter di samping Bagas, membuka kedua telapak tangannya menghadap ke bawah, dan menurunkan nada suaranya menjadi sangat tenang dan berwibawa:
+
+"Bagas... Ustadz ada di sini. Tarik nafasmu, Mas. Letakkan tanganmu di samping tubuhmu. Kamu aman bersama Ustadz."
+
+Mendengar suara Salman yang stabil dan tidak membalas dengan ancaman fisik, gelombang amukan amigdala di otak Bagas perlahan kehilangan bahan bakar kepanikannya.
+
+Salman tidak langsung menghakimi atau menyuruh Bagas membersihkan nasi yang tumpah saat emosinya masih di puncak.
+
+Salman merangkul pundak Bagas dengan sentuhan yang mantap namun lembut, lalu membimbingnya melangkah keluar dari aula makan menuju gazebo luar yang sejuk untuk proses de-eskalasi emosional.
+
+Pengendalian krisis tanpa kekerasan berhasil menyelamatkan situasi dari pertumpahan darah, membuktikan bahwa ketenangan seorang murabbi mampu memadamkan api amarah yang paling membara sekalipun.

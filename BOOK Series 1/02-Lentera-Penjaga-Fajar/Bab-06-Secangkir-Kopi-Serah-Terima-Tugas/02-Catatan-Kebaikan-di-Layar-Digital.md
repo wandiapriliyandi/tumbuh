@@ -1,22 +1,29 @@
 # Sub-Bab 6.2: Catatan Kebaikan di Layar Digital
 
-Di ruang rapat pengasuhan asrama putra, Ustadz Salman, Ustadz Ridwan, dan Ustadz Fauzan sedang memproyeksikan layar tablet mereka ke dinding proyektor. Layar tersebut menampilkan **Peta Grafik Pertumbuhan Karakter Santri (*Student Character Growth Dashboard*)**.
+Pukul 22.15 malam. Selepas lampu-lampu kamar santri dipadamkan dan seluruh anak asuh telah terlelap dalam tidurnya, Ustadz Ridwan duduk di meja pos jaga lantai dua.
 
-Di era transformasi Ekosistem TUMBUH, data tidak lagi digunakan untuk menghukum atau memberi label negatif pada santri, melainkan sebagai **kompas presisi untuk memberikan bimbingan kasih sayang berbasis bukti (*Data-Driven Pastoral Care*)**.
+Di hadapannya, layar tablet digital menampilkan antarmuka aplikasi **Logbook Asrama Digital TUMBUH (*The Digital Pastoral Logbook Platform*)**.
 
-"Mari kita perhatikan grafik dimensi *Ukhuwah & Adab* pekan ini," ujar Ridwan seraya mengarahkan kursor ke diagram batang berwarna hijau cerah.
+Aplikasi ini dirancang dengan antarmuka yang sangat bersih, cepat, dan ramah pengguna, berlatar belakang warna hijau sage dan putih lembut.
 
-Layar menunjukkan bahwa dalam kurun waktu tujuh hari terakhir:
-* Tercatat **428 tindakan kebaikan spontan** yang dilakukan oleh santri di seluruh asrama putra: membantu kawan menyapu lantai, meminjamkan alat tulis, memimpin muraja'ah bersama, dan merapikan sandal yang berserakan.
-* Indeks perundungan (*Bullying Index*) berada pada angka **0%**.
-* Indeks perselisihan antarteman menurun drastis sebesar **85%** dibandingkan semester lalu.
+Di layar tablet, Ridwan membuka profil Kamar Al-Farabi.
 
-Salman tersenyum haru melihat nama Farhan, Faisal, dan Ihsan bertengger di jajaran santri dengan progres pertumbuhan adab paling mengesankan.
+Alih-alih formulir kuno yang memuat kolom pelanggaran dan sanksi hukuman, aplikasi tersebut menampilkan menu utama: **Jurnal Tangga Kebaikan & Observasi Karakter (*Virtue Milestone Logger*)**.
 
-"Faisal yang semester lalu sering dicap 'anak bermasalah'," ungkap Salman dengan binar mata bangga, "pekan ini mencatatkan sembilan poin kebaikan dalam dimensi *Khidmah*. Kemarin sore, Faisal secara sukarela membimbing adik-adik kelas tujuh yang kesulitan menghafal bait-bait *Nahwu* di serambi masjid."
+Ridwan memasukkan data observasi yang ia saksikan sendiri sepanjang sore dan malam tadi:
+1. **Santri: Farhan (Kelas 7 - Jenjang J1)**
+   - *Dimensi Karakter*: *Matinul Khuluq* (Akhlak yang Kokoh) & *Nafi'un Lighairihi* (Bermanfaat bagi Sesama).
+   - *Aksi Nyata Teramati*: "Farhan dengan sukarela membawakan semangkuk bubur ayam hangat dan segelas air putih untuk Danang yang sedang demam di kasur bawah, lalu membacakan doa kesembuhan untuk sahabatnya itu."
+   - *Apresiasi Sistem*: Diberikan stiker Bintang Kebaikan Emas (+5 Poin Karakter).
+2. **Santri: Faisal (Kelas 7 - Jenjang J1)**
+   - *Dimensi Karakter*: *Munazhzhamun fi Syu'unihi* (Tertib dalam Urusan).
+   - *Aksi Nyata Teramati*: "Faisal berhasil mempraktikkan lipatan sprei hospital corner 45 derajat secara mandiri dan merapikan 5 pasang sandal kawan sekamarnya di garis kuning."
+   - *Apresiasi Sistem*: Diberikan stiker Bintang Kebaikan Perak (+3 Poin Karakter).
 
-"Dan itulah keajaiban dari kekuatan apresiasi, Salman," timpal Ridwan. "Ketika kita mencatat kebaikan seorang anak dan mengumumkannya dengan rasa bangga di hadapan teman-temannya saat apel pagi, fitrah kemuliaan di dalam jiwanya akan mekar dengan kekuatan yang tak terbendung."
+Ridwan menekan tombol *"Simpan & Sinkronisasi"*.
 
-Penggunaan logbook digital ini menghapuskan prasangka subjektif (*Personal Bias*) antarstaf pengasuhan. Setiap tindakan musyrif didasarkan pada fakta objektif, memungkinkan intervensi dini yang tepat sasaran sebelum sebuah bibit masalah membesar.
+Secara instan, data observasi positif tersebut langsung terhubung dengan dashboard wali kelas madrasah (Ustadz Burhan) dan terakumulasi secara otomatis ke dalam rekapitulasi portofolio rapor naratif santri di akhir semester.
 
-Para musyrif menutup rapat evaluasi siang itu dengan doa syukur. Di balik kilau layar digital itu, terukir kisah-kisah nyata tentang jiwa-jiwa muda yang sedang bertumbuh menuju puncak kematangan insan adabi.
+Sistem digital yang berorientasi pada pelacakan kebaikan (*Virtue-Tracking Technology*) ini mengubah budaya pengasuhan pesantren secara radikal.
+
+Para musyrif tidak lagi sibuk mencari-cari kesalahan anak untuk dihukum, melainkan berlomba-lomba mencari dan merayakan setiap kilau kebaikan sekecil apa pun yang mekar di dalam sanubari santri-santrinya.

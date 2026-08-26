@@ -1,16 +1,24 @@
 # Sub-Bab 9.2: Membatasi Beban PR Malam Santri
 
-Dalam rapat koordinasi kurikulum terpadu antara Kepala Madrasah dan Kepala Pengasuhan Asrama Putra, sebuah kebijakan penting disepakati bersama: **Protokol Perlindungan Waktu Istirahat & Muthala'ah Santri (*Evening Workload Balance Policy*)**.
+Dalam rapat koordinasi mingguan antara dewan wali kelas madrasah dan tim pengasuhan asrama, sebuah topik penting dibahas: **Harmonisasi Beban Akademik & Waktu Istirahat Asrama (*Academic Load & Sirkadian Balance*)**.
 
-Selama ini, santri sering kali menjadi korban tumpang tindih tugas: guru-guru madrasah memberikan banyak tugas pekerjaan rumah (PR) tulis yang harus dikumpulkan esok pagi, sementara musyrif asrama mewajibkan santri mengikuti muthala'ah kitab kuning dan tahfizh malam.
+Ustadz Salman menyampaikan data observasi asrama kepada Ustadz Burhan dan dewan guru:
 
-Akibatnya sangat fatal: santri terpaksa begadang hingga tengah malam di bawah lampu lorong demi menyelesaikan PR, mengorbankan waktu tidurnya, dan terbangun dalam kondisi lelah di waktu Subuh.
+"Para asatidz yang kami muliakan... Kami mengamati bahwa pada hari Selasa malam kemarin, santri-santri baru kelas tujuh harus menyelesaikan lima tugas pekerjaan rumah (PR) sekaligus: tugas menulis insya' bahasa Arab, latihan soal matematika, hafalan Nahwu, terjemah Hadits, dan rangkuman IPA."
 
-Kepala Madrasah, Ustadz Anwar, mengetuk palu kesepakatan baru:
-1. **Peniadaan PR Tulis Berlebih di Malam Hari**: Seluruh latihan soal tulis diselesaikan tuntas di dalam jam pelajaran kelas madrasah siang hari (*Classroom-Based Mastery*).
-2. **Optimalisasi Muthala'ah Bermakna**: Waktu belajar malam di asrama (19.30 – 20.45) difokuskan murni untuk muraja'ah hafalan Al-Qur'an dan membaca kitab kuning bersama musyrif asrama tanpa tekanan tugas tulis yang menumpuk.
-3. **Kepatuhan Mutlak Jam Padam Lampu 21.45**: Tidak ada santri yang diperbolehkan belajar di atas jam 21.45 demi menjaga kualitas fase tidur gelombang lambat.
+Salman memaparkan dampaknya:
 
-Ustadz Salman menyambut keputusan tersebut dengan rasa syukur yang mendalam.
+"Akibatnya, waktu muthala'ah mandiri santri molor hingga pukul 22.30 malam. Anak-anak tidur dalam keadaan kelelahan mental, dan keesokan harinya saat sholat Subuh dan jam pertama kelas, banyak santri yang mengantuk berat dan kehilangan konsentrasi belajar."
 
-"Ketika madrasah dan asrama saling memikirkan kapasitas biologis santri," ungkap Salman, "kita tidak hanya melindungi kesehatan fisik anak-anak kita, melainkan juga menjaga gairah cinta mereka terhadap ilmu pengetahuan agar tidak layu sebelum berkembang."
+Ustadz Burhan dan dewan guru menyimak pemaparan tersebut dengan seksama dan penuh keterbukaan hati.
+
+Mereka menyepakati sebuah kebijakan kurikulum terpadu: **Protokol Kuota Beban PR Terkoordinasi (*The Synchronized Homework Cap Protocol*)**:
+1. Setiap hari maksimal hanya diperbolehkan **satu mata pelajaran** yang memberikan tugas rumah tertulis dengan durasi pengerjaan maksimal 30 menit.
+2. Tugas hafalan Al-Qur'an dan mutun kitab diselesaikan pada jam halaqah resmi di asrama, bukan ditumpuk menjadi beban tugas mandiri larut malam.
+3. Jam muthala'ah mandiri di asrama dibatasi maksimal pukul 20.45 malam, memberikan jeda waktu santai dan persiapan tidur yang berkualitas sebelum pukul 21.30.
+
+Kebijakan ini disambut gembira oleh seluruh santri.
+
+Malam harinya di serambi masjid, Farhan dan kawan-kawannya dapat menuntaskan muthala'ah satu tugas tugas Nahwunya dengan tenang dan fokus tanpa rasa tertekan.
+
+Ketika beban akademik diselaraskan secara proporsional dengan kebutuhan biologis istirahat anak, gairah belajar santri justru melonjak tinggi dan hasil prestasi akademiknya meningkat secara signifikan.

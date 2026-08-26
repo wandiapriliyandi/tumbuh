@@ -1,23 +1,31 @@
 # Sub-Bab 11.1: Nasi Liwet Satu Nampan Empat Sahabat
 
-Malam Ahad adalah malam yang paling dinanti-nantikan oleh seluruh santri asrama putra Pesantren Darul Adab. Malam ini adalah waktu pelaksanaan tradisi klasik pesantren yang penuh berkah: **Malam Mayoran (Makan Bersama Satu Nampan)**.
+Malam Kamis yang syahdu di serambi depan komplek kamar asrama putra Pesantren Darul Adab. Aroma harum rempah serai, daun salam, bawang goreng, dan santan kelapa gurih menyerbak ke seluruh penjuru lorong asrama.
 
-Di aula ruang makan, aroma gurih harum nasi liwet santan yang dimasak Pakde Darmo dengan daun salam, serai, dan potongan ikan asin jambal roti memenuhi seisi ruangan.
+Malam ini adalah malam yang paling dinanti-nantikan oleh seluruh santri: **Tradisi Mayoran Nasi Liwet Satu Nampan Berkah (*The Communal Liwet Feast of Ukhuwah*)**.
 
-Ratusan santri duduk bersila dalam kelompok-kelompok kecil melingkar di atas terpal plastik bersih. Setiap kelompok terdiri dari empat hingga lima santri yang sengaja dicampur dari jenjang yang berbeda: santri senior kelas dua belas, santri madya kelas delapan, dan santri baru kelas tujuh.
+Dari arah dapur asrama, Pakde Darmo bersama para santri senior membawa nampan-nampan seng besar berdiameter setengah meter yang dialasi daun pisang kepok hijau segar yang dipanaskan di atas api.
 
-Di salah satu lingkaran, Zaid, Farhan, Faisal, dan Ihsan duduk berdampingan mengelilingi sebuah nampan seng besar berdiameter setengah meter yang dipenuhi nasi liwet panas beralaskan daun pisang.
+Di atas setiap nampan, gunungan nasi liwet pulen yang mengepulkan asap putih tersaji menggugah selera, bertopping potongan ayam goreng lengkuas gurih, tahu tempe bacem, telur rebus balado, sambal terasi matang, dan taburan ikan teri asin krispi.
 
-Ustadz Salman duduk di samping mereka, memimpin doa makan bersama:
+Di teras depan Kamar Al-Farabi, Farhan, Faisal, Danang, dan Ihsan duduk bersila melingkari satu nampan yang sama.
 
-$$\text{اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ، بِسْمِ اللَّهِ}$$
+Ustadz Salman duduk mendampingi mereka sembari tersenyum bahagia.
 
-Keempat santri itu mulai menyuap nasi liwet dengan tangan kanan masing-masing, mengamalkan adab makan Nabawi: makan dari sisi yang terdekat, tidak berebut lauk, dan saling mendahulukan sahabatnya (*al-iitsaar*).
+"Bismillah..." ucap Zaid memimpin doa makan berjamaah.
 
-Zaid mengambil sepotong tahu goreng hangat dan meletakkannya di dekat suapan Farhan. "Makan tahunya, Farhan, agar tubuhmu cepat tinggi dan sehat."
+Keempat santri belia itu mencuci tangannya di mangkuk kobokan air jeruk nipis, lalu mulai menyantap nasi liwet dengan tangan kanan mereka.
 
-Farhan tersenyum manis, membalasnya dengan menyodorkan sambal tomat ke dekat Zaid.
+Ustadz Salman mengingatkan adab makan Nabawi:
 
-Sementara itu, Faisal dan Ihsan yang kemarin sempat bersitegang kini saling tertawa renyah sembari berebut kerupuk udang dalam suasana persaudaraan yang sangat akrab.
+$$\text{يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ}$$
 
-Makan bersama satu nampan (*Al-Aklu 'alat Tha'am al-Wahid*) adalah terapi psikososial alami yang sangat dahsyat. Di atas satu nampan daun pisang, seluruh sekat ego, perbedaan latar belakang sosial, dan dendam perselisihan lebur menjadi satu dalam suapan-suapan berkah yang mengikat hati mereka dalam tali persaudaraan ukhuwah Islamiyyah yang sejati.
+> *"Wahai anak muda! Sebutlah nama Allah (baca Bismillah), makanlah dengan tangan kananmu, dan makanlah dari makanan yang ada di dekatmu!"* (HR. Al-Bukhari dan Muslim)
+
+Farhan mengambil nasi dari bagian nampan di hadapannya, lalu menyodorkan potongan ayam goreng terbaik ke arah Danang yang baru sembuh dari sakit.
+
+"Danang, ini makan ayamnya ya, biar badanmu cepat kuat kembali," tutur Farhan dengan senyum tulus.
+
+Danang menatap sahabatnya itu dengan air mata haru. "Terima kasih banyak, Farhan..."
+
+Makan bersama dalam satu nampan (*Communal Dining*) memiliki kekuatan magis dalam meruntuhkan sekat-sekat egoisme, mengajarkan seni mendahulukan saudara (*Itsar*), dan menyatukan empat hati anak manusia ke dalam satu ikatan persaudaraan yang suci karena Allah SWT.

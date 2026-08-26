@@ -1,31 +1,35 @@
 # Sub-Bab 7.1: Bilik Curhat di Samping Masjid
 
-Di sudut taman samping masjid komplek asrama putra, di bawah naungan pohon rindang yang bunganya harum merekah, berdiri sebuah gazebo kayu beratap sirap kelapa. Gazebo itu diberi nama yang sangat teduh: **Bilik Suhbah & Curhat Hati (*Baitus Suhbah*)**.
+Pukul 20.30 malam. Di sayap barat komplek masjid asrama putra Pesantren Darul Adab, sebuah ruangan kecil berukuran tiga kali empat meter dengan pintu kaca berstiker sandblast temaram menyala hangat: **Bilik Konseling & Curhat Santri (*The Sacred Listening Sanctuary*)**.
 
-Gazebo terbuka tersebut dilengkapi dengan karpet empuk, beberapa bantal duduk, dan meja kayu pendek. Tempat ini sengaja dirancang semi-terbuka agar tetap menjaga transparansi etika, namun cukup tenang untuk memberikan privasi emosional bagi santri yang ingin mencurahkan isi hatinya.
+Di dalam ruangan tersebut, karpet beludru tebal berwarna hijau tua beralaskan dua bantal duduk busa memori yang empuk ditata berhadapan di samping meja kayu rendah. Sebuah diffuser aromaterapi kayu menyebarkan wewangian lembut minyak chamomile dan kayu gaharu yang menenangkan sistem saraf.
 
-Sore itu pukul 16.30, Ustadz Salman duduk bersila di gazebo tersebut bersama Rian—santri kelas sepuluh bertubuh gempal yang beberapa hari terakhir tampak murung dan sering menyendiri di sudut asrama.
+Malam itu, Ustadz Salman sedang duduk di salah satu bantal tersebut. Di hadapannya, seorang santri baru kelas tujuh bertubuh kurus bernama Arya sedang duduk menundukkan kepalanya dalam-dalam.
 
-Salman tidak memegang buku catatan atau pulpen, tidak pula memasang ekspresi interogator. Di tangannya hanya ada secangkir teh jahe hangat yang ia sodorkan ke hadapan Rian.
+Kedua jemari tangan Arya meremas ujung sarungnya yang lembap. Dari sudut matanya, air mata bening menetes membasahi pipinya yang kemerahan.
 
-"Minumlah dulu, Rian," bisik Salman dengan suara yang sangat bersahabat. "Angin sore ini sejuk sekali, cocok untuk melepas penat setelah seharian belajar di madrasah."
+Arya baru saja masuk pondok selama dua pekan dan sedang dihantam gelombang kerinduan rumah yang sangat hebat (*Severe Homesickness*): ia menolak makan malam selama dua hari, mengurung diri di ranjang atas, dan menangis tersedu-sedu setiap kali mendengar suara adzan.
 
-Rian meraih cangkir teh itu dengan kedua tangannya yang ragu-ragu. Anak laki-laki berusia enam belas tahun itu menundukkan kepalanya dalam-dalam, menatap riak teh jahe di cangkirnya.
+Di masa lalu, santri yang mengalami homesickness parah seperti Arya sering kali diejek sebagai 'anak manja yang cengeng' atau dipaksa push-up agar 'mental baja'.
 
-"Ustadz..." suara Rian terdengar tercekat, matanya mulai memerah. "Apakah saya adalah anak yang mengecewakan?"
+Namun Salman menyambut Arya dengan pendekatan yang sepenuhnya berbeda: **Seni Mendengarkan Aktif Tanpa Menghakimi (*Non-Judgmental Empathetic Listening*)**.
 
-Salman menatap Rian lekat-lekat dengan tatapan mata yang penuh penerimaan tanpa syarat (*Unconditional Positive Regard*).
+Salman menyodorkan segelas air putih hangat madu dan sekotak tisu lembut ke dekat Arya.
 
-"Mengapa kamu berpikir seperti itu, Rian?" tanya Salman lembut, tanpa nada menghakimi sedikit pun.
+"Arya, anakku..." bisik Salman dengan nada suara yang sangat lembut dan dalam, "minumlah air madu ini perlahan, Nak."
 
-Rian menghela nafas panjang, menahan air mata yang akhirnya tumpah membasahi celana sarungnya. "Ujian hafalan Al-Qur'an saya pekan ini nilainya paling rendah di kelas, Ustadz. Teman-teman sekamar saya sudah hafal lima juz, sedangkan saya juz satu saja masih sering lupa dan tersendat. Ayah saya di rumah pasti malu punya anak sebodoh saya..."
+Arya mengangkat kepalanya dengan ragu-ragu, meraih gelas itu dengan tangan bergetar, lalu meminumnya beberapa teguk.
 
-Mendengar jeritan batin yang jujur itu, Salman menggeser duduknya mendekat dan merangkul pundak Rian dengan kehangatan seorang abang kandung.
+Salman menatap mata Arya dengan pandangan seorang ayah yang memahami kepedihan anaknya:
 
-"Dengarkan Ustadz baik-baik, Rian," ucap Salman dengan nada yang sangat dalam dan menguatkan. "Nilai ujian hafalanmu tidak pernah menentukan nilai kemuliaan dirimu di hadapan Allah dan di hadapan para gurumu. Kecepatan setiap orang dalam menghafal Al-Qur'an berbeda-beda, tetapi kesungguhanmu untuk tetap melangkah dan tidak menyerah adalah mutiara jihad yang sangat dicintai oleh Allah."
+"Ustadz tahu dadamu terasa sesak, Arya. Ustadz tahu kamu sangat rindu Ibu dan Ayah di rumah. Menangislah jika ingin menangis, Nak. Menangis bukanlah tanda kelemahan; air mata adalah cara jiwa melepaskan rasa rindu yang meluap di dalam dada."
 
-Salman mempraktikkan keterampilan **Mendengar Empatik (*Active Empathetic Listening*)**: membiarkan santri menumpahkan seluruh rasa cemas, takut gagal, dan beban ekspektasi orang tuanya tanpa dipotong atau dihakimi.
+Mendengar kata-kata pengakuan yang begitu hangat dan penuh empati tersebut, pertahanan batin Arya seketika runtuh. Isak tangisnya pecah menjadi tangisan yang melegakan.
 
-Rian menangis tersedu-sedu di pelukan Salman, menumpahkan beban berat yang selama berbulan-bulan membelenggu jiwanya.
+"Ustadz..." bisik Arya tersedu-sedu sembari menatap Salman, "saya kangen masakan Ibu... Saya takut tidak bisa menghafal Al-Qur'an seperti kawan-kawan yang lain... Saya merasa sendirian di sini..."
 
-Di gazebo samping masjid sore itu, sebuah bilik curhat sederhana telah menjadi oase penyelamat bagi jiwa remaja yang hampir tenggelam, membimbingnya kembali menemukan makna sejati dari proses belajar dan perjuangan hidup.
+Salman mengulurkan tangannya, merangkul pundak Arya dengan lembut, dan membiarkan anak itu menumpahkan seluruh kepedihan hatinya selama lima belas menit dalam rasa aman.
+
+Salman tidak memotong ceritanya, tidak menasihatinya secara terburu-buru, dan tidak membanding-bandingkannya dengan santri lain.
+
+Kehadiran seorang murabbi yang bersedia mendengarkan jeritan sunyi kalbu anak asuh adalah obat paling mujarab yang mampu menyembuhkan luka keterasingan, mengubah rasa takut menjadi keberanian baru untuk melangkah menatap masa depan.

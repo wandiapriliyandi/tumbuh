@@ -1,21 +1,27 @@
 # Sub-Bab 10.1: Patroli Sore di Belakang Kantin
 
-Pukul 16.45 sore. Di masa lalu, area belakang kantin asrama putra dan lorong belakang gudang peralatan adalah dua **titik rawan merah (*Red Hotspots*)** yang sering menjadi lokasi perselisihan rahasia, perpeloncoan junior oleh senior, atau tempat persembunyian santri yang enggan mandi sore.
+Pukul 16.45 sore. Di area belakang gedung kantin lama Pesantren Darul Adab, sebuah lorong sempit yang diapit oleh dinding pembatas tanah dan deretan pohon pisang rindang tampak sepi dari aktivitas santri.
 
-Kondisi area tersebut sebelumnya memang sangat rentan: pencahayaan minim, tertutup rimbunnya pohon pisang liar, dan jarang dilewati oleh pembina pengasuhan.
+Berdasarkan data peta titik rawan (*Hotspot Map*) asrama putra, area belakang kantin ini adalah salah satu zona kuning yang paling rawan terjadi pelanggaran adab pada sore hari: santri sering bersembunyi di sini untuk bermain lempar batu liar, menghindari piket asrama, atau terlibat perselisihan antarkelompok sebaya.
 
-Namun di era Ekosistem TUMBUH, pendekatan pengasuhan menerapkan prinsip **Supervisi Aktif Proaktif (*Proactive Active Supervision*)**.
+Di masa lalu, pengawasan di area ini hampir nihil; pembina hanya datang saat keributan fisik telah terjadi dan langsung menghukum semua anak yang tertangkap.
 
-Ustadz Salman dan Ustadz Ridwan membagi jadwal patroli sore dengan rute bergerak yang terencana (*Dynamic Patrol Route*):
-* Musyrif tidak berdiri mematung di satu pos jaga, melainkan berjalan santai menyapa santri di titik-titik blindspot pada jam-jam rawan (16.45 – 17.15 sore).
-* Musyrif berpatroli dengan senyuman, membawa bola atau raket bulutangkis, menyapa anak-anak yang sedang nongkrong, dan mengajak mereka ikut bergabung dalam aktivitas olahraga bersama di lapangan terbuka.
+Namun sore ini, Ustadz Ridwan mempraktikkan doktrin pengawasan preventif aktif: **Patroli Hangat Bergerak (*The Active Proactive Walking Patrol*)**.
 
-Sore itu, saat Salman melangkah menyusuri area belakang kantin, ia melihat sekelompok santri kelas sembilan sedang duduk mengobrol.
+Ridwan tidak mengendap-endap seperti polisi yang mencari mangsa. Ia berjalan santai menyusuri lorong sembari bersenandung dzikir lirih dan membawa bola voli di tangannya.
 
-Alih-alih membentak atau mengusir mereka dengan curiga, Salman melangkah mendekat dengan senyum lebar.
+Ketika Ridwan tiba di persimpangan pohon pisang, ia melihat tiga orang santri kelas delapan—termasuk Faisal—sedang duduk termenung di atas bangku bambu tua.
 
-"Assalamu'alaikum, anak-anak muda! Sedang asyik mengobrol apa ini? Boleh Ustadz ikut bergabung?" sapa Salman ramah.
+Melihat kedatangan Ustadz Ridwan, ketiga santri itu sempat terkejut dan bersiap lari.
 
-Santri-santri itu tersenyum dan menyambut pembinanya dengan hangat. "Sedang membahas strategi lomba futsal antar-kamar nanti sore, Ustadz!"
+Namun Ridwan tersenyum lebar dan menyapa mereka dengan sangat hangat:
 
-Kehadiran fisik musyrif yang hangat dan bersahabat di titik rawan terbukti secara ilmiah melenyapkan peluang terjadinya pelanggaran secara alami (*Crime Prevention Through Environmental Design - CPTED*). Lingkungan yang dulu menyeramkan kini berubah menjadi ruang interaksi yang aman dan penuh keakraban.
+"Assalamu'alaikum, Faisal, Rian, Ilham! Wah, kebetulan sekali kalian ada di sini. Ustadz sedang mencari lawan tanding voli untuk tim musyrif di lapangan depan. Mau bergabung main bersama Ustadz?"
+
+Ketegangan di wajah anak-anak itu seketika sirna, digantikan oleh binar mata kegembiraan.
+
+"Mau, Ustadz! Mau sekali!" seru Faisal bersemangat sembari melompat dari bangku bambu.
+
+Ridwan merangkul pundak mereka dan mengajak mereka berjalan bersama menuju lapangan voli utama.
+
+Kehadiran fisik musyrif yang ramah dan proaktif di titik rawan berhasil mengalihkan energi negatif santri menjadi kegiatan olahraga yang sehat dan produktif, menutup celah terjadinya pelanggaran sebelum sempat dimulai.

@@ -1,27 +1,61 @@
 # Sub-Bab 1.2: Kehadiran Hangat di Ambang Pintu
 
-Pukul 12.15 siang. Lonceng tanda berakhirnya jam pelajaran madrasah sesi pagi berdentang nyaring di seluruh penjuru komplek Pesantren Darul Adab. Ratusan santri putra berhamburan keluar dari gerbang sekolah dengan membawa tas ransel dan kitab-kitab pelajaran, melangkah menyeberangi lapangan rumput menuju gedung asrama.
+Pukul 03.20 dini hari. Suasana lorong asrama lantai dua komplek asrama putra Pesantren Darul Adab masih diselimuti kabut tipis dan keheningan malam yang syahdu. Lampu neon lorong yang temaram membiaskan bayangan lembut di atas ubin semen yang bersih.
 
-Di ambang pintu gerbang utama asrama lantai satu, Ustadz Salman telah berdiri menyambut kedatangan anak-anak asuhnya.
+Ustadz Salman melangkah menyusuri koridor. Di tangannya tidak ada lagi pipa besi penyangga sapu yang biasa dihantamkan ke pintu-pintu kamar. Salman hanya membawa senter kecil berpenutup kain tipis agar cahayanya tidak menyilaukan mata anak-anak.
 
-Salman tidak berdiri dengan tangan bersedekap di dada atau memasang wajah menyelidik. Sebaliknya, pemuda itu mengenakan baju koko putih bersih beraroma segar, dengan senyuman tulus yang merekah di wajahnya. Kedua tangannya terbuka ramah menyambut setiap santri yang melangkah melewati pintu gerbang.
+Salman menghentikan langkahnya tepat di depan pintu Kamar Al-Farabi—kamar tempat Farhan dan sembilan belas santri baru lainnya tidur lelap.
 
-"Ahlan wa sahlan, anak-anak shalih! Selamat datang kembali di kamar tercinta," sapa Salman dengan suara yang ramah dan hangat.
+Di masa lalu, detik-detik ini adalah saat di mana pintu kamar digedor dengan suara keras laksana ledakan mortir. Namun malam ini, Salman mengangkat tangan kanannya, menekuk jemarinya dengan lembut, lalu mengetuk daun pintu kayu dengan tiga ketukan pelan yang berirama damai.
 
-Ketika Farhan melangkah masuk bersama Ihsan, Salman menundukkan badannya sedikit, menatap mata Farhan dengan ramah seraya menepuk pundaknya dengan lembut.
+*Tok... Tok... Tok...*
 
-"Bagaimana pelajaran Nahwu tadi siang di kelas, Farhan? Apakah lancar?" tanya Salman penuh perhatian.
+Suara ketukan itu begitu santun, laksana suara seorang ayah yang hendak menyapa buah hatinya di pagi hari.
 
-Farhan mendongak dengan senyum cerah. "Alhamdulillah lancar, Ustadz! Tadi Ustadz Burhan memuji hafalan bait *Imrithi* saya di depan kelas."
+Salman memutar gagang pintu pelan-pelan agar engselnya tidak berderit kasar. Ia melangkah masuk ke dalam bilik kamar yang temaram. Udara kamar beraroma minyak telon dan keringat anak-anak yang terlelap pulas.
 
-"Masya Allah, hebat sekali kamu, Farhan! Ustadz sangat bangga mendengarnya. Segera letakkan tas di kamar, minum air putih yang cukup, lalu kita bersiap sholat Dzuhur berjamaah ya," puji Salman sembari mengusap puncak kepala Farhan.
+Salman tidak berteriak memaki. Ia menarik nafas dalam-dalam, lalu melantunkan salam dengan nada suara bas yang sangat lembut, berbisik namun terdengar jelas di seluruh penjuru bilik:
 
-Farhan mengangguk gembira dan melangkah masuk ke kamarnya dengan langkah yang ringan dan penuh semangat.
+"Assalamu'alaikum warahmatullah... Bismillah, anak-anakku para calon ulama peradaban, waktu sahur dan fajar telah tiba. Mari bangun, bersihkan diri, dan jemput keberkahan dari Allah SWT..."
 
-Praktik menyambut santri di ambang pintu ini dikenal sebagai **Penyambutan Hangat di Pintu Masuk (*Threshold Welcoming Protocol*)**.
+Di ranjang susun tingkat atas, Farhan yang biasanya terbangun dalam keadaan panik dengan jantung berdegup kencang, kali ini membuka kelopak matanya secara perlahan.
 
-Secara neurobiologis dan psikologis, momen transisi dari lingkungan kelas yang formal menuju lingkungan asrama adalah titik kritis (*Critical Transition Point*). Santri sering kali membawa beban kelelahan kognitif (*Cognitive Fatigue*) setelah empat jam belajar intensif.
+Farhan tidak mendengar teriakan kemarahan. Ia tidak mendengar sabetan rotan. Yang pertama kali masuk ke dalam indra pendengarannya adalah salam yang mengalirkan ketenangan dan aroma minyak wangi kasturi lembut yang tercium di udara kamar.
 
-Ketika transisi tersebut disambut dengan sapaan hangat, kontak mata yang ramah, dan validasi emosional dari musyrif, otak santri seketika melepaskan hormon **Oksitosin** dan **Endorfin**. Hormon-hormon ini menurunkan kadar stres, memulihkan energi biologis, dan menumbuhkan rasa memiliki (*Sense of Belonging*) yang mendalam terhadap lingkungan asrama.
+Sistem saraf Farhan tidak dibajak oleh kepanikan amigdala. *Prefrontal Cortex*-nya aktif secara sadar dan tenang. Hormon serotonin dan endorfin mengalir lembut di tubuhnya, membiarkannya bangun dari tidur lelap tanpa rasa trauma.
 
-Santri tidak merasa kembali ke barak pengasingan yang menakutkan, melainkan merasa kembali ke sebuah rumah yang penuh dengan kasih sayang seorang ayah yang setia menanti kepulangan anak-anaknya.
+Farhan menoleh ke arah tangga ranjang. Di sana, Ustadz Salman sedang berdiri tersenyum hangat, menatapnya dengan pandangan mata seorang guru yang penuh welas asih (*Nazarur Rahmah*).
+
+"Farhan," bisik Salman sembari menepuk pelan ujung selimutnya, "selamat pagi, Ksatria. Bagaimana tidurmu semalam? Apakah nyenyak?"
+
+Farhan tertegun sejenak. Matanya mengerjap tak percaya. Selama berbulan-bulan di pondok, belum pernah sekali pun ia disapa dengan senyuman dan kata-kata selembut itu di waktu fajar.
+
+"Al-Alhamdulillah nyenyak, Ustadz..." jawab Farhan dengan suara serak khas bangun tidur, namun senyuman kecil perlahan terbit di sudut bibirnya.
+
+"Alhamdulillah. Mari bangun perlahan ya, Nak. Duduk sejenak, baca doa bangun tidur, lalu ambil wudhu dengan tenang. Tidak perlu berlari terburu-buru, waktu masih sangat lapang," tutur Salman dengan nada suara yang meneduhkan jiwa.
+
+Salman kemudian melangkah ke ranjang-ranjang lain. Ia mendekati Ilham yang masih meringkuk di balik selimut tebalnya. Salman tidak menarik selimut itu secara kasar. Ia duduk di tepi ranjang Ilham, mengusap punggung anak itu dengan lembut, lalu membisikkan kalimat tauhid di dekat telinganya: *"Lā ilāha illallāh... Bismillah, bangun ya Ilham anak shalih."*
+
+Ilham menggeliat, membuka matanya, dan langsung tersenyum saat melihat wajah Ustadz Salman yang berseri-seri di sampingnya.
+
+Pemandangan di dalam Kamar Al-Farabi fajar itu berubah 180 derajat. Tidak ada lagi kepanikan masal. Tidak ada lagi anak-anak yang saling dorong dan berebut gayung air sambil menangis ketakutan.
+
+Dua puluh santri bangun dengan tertib. Mereka duduk di tepi ranjang masing-masing, melafalkan doa bangun tidur secara serempak:
+
+$$\text{الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ}$$
+
+> *"Segala puji bagi Allah yang telah menghidupkan kami setelah mematikan kami (tidur), dan hanya kepada-Nya kami akan dibangkitkan."*
+
+Farhan turun dari ranjangnya dengan langkah mantap. Ia mengambil handuk bersihnya dari tali jemuran dalam kamar, memasang sandalnya dengan rapi, dan melangkah keluar menuju tempat wudhu bersama kawan-kawannya.
+
+Di koridor, anak-anak berjalan dengan tenang sembari saling bertukar senyuman. Tidak ada lagi rasa dendam, tidak ada lagi ketakutan yang menghantui.
+
+Ustadz Salman berdiri di ambang pintu kamar, memandang punggung anak-anak asuhnya yang melangkah menuju masjid dengan rasa haru yang tak terkatakan.
+
+Air mata syukur kembali menggenang di pelupuk mata Salman. Ia menyaksikan dengan mata kepalanya sendiri kebenaran sabda Rasulullah SAW:
+
+$$\text{إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ}$$
+
+> *"Sesungguhnya kelembutan itu tidaklah ada pada sesuatu melainkan ia akan memperindahnya, dan tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan memperburuknya."* (HR. Muslim)
+
+Fajar di Pesantren Darul Adab hari itu merekah dengan keindahan yang belum pernah dirasakan sebelumnya—fajar yang lahir dari ketukan kasih sayang, menghidupkan kembali fitrah suci di dalam dada para penuntut ilmu.

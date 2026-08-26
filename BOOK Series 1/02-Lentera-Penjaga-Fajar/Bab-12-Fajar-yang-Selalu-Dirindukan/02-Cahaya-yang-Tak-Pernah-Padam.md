@@ -1,21 +1,21 @@
 # Sub-Bab 12.2: Cahaya yang Tak Pernah Padam
 
-Di serambi masjid selepas sholat Subuh berjamaah, Ustadz Salman dan Ustadz Ridwan duduk bersila berdampingan menatap matahari pagi yang mulai memancarkan kehangatannya ke seluruh sudut pesantren.
+Suara adzan Subuh berkumandang merdu membelah keheningan lembah Pesantren Darul Adab. Alunan suara muadzin meliuk-liuk indah, memanggil ribuan hamba Allah untuk bersujud di hadapan Sang Maha Kuasa:
 
-Kyai Hasyim melangkah mendekati kedua musyrifnya itu, menepuk pundak mereka berdua dengan senyum penuh kebanggaan dan rasa syukur.
+$$\text{حَيَّ عَلَى الصَّلَاةِ... حَيَّ عَلَى الْفَلَاحِ... الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ}$$
 
-"Salman, Ridwan," dawuh Kyai Hasyim dengan suara syahdu yang merasuk ke kalbu, "kalian telah membuktikan bahwa asrama putra ini bisa berdiri kokoh dan bercahaya tanpa perlu setetes pun air mata kepedihan atau lecutan rotan kekerasan."
+Ratusan santri putra berduyun-duyun melangkah masuk ke dalam ruang utama masjid dengan baju koko putih bersih, sarung tenun rapi, dan wajah yang basah berseri-seri oleh air wudhu.
 
-Kiai memandang ke arah gedung asrama dua lantai yang kini tampak begitu anggun dan beradab.
+Kyai Hasyim melangkah menuju mihrab imam. Sebelum mengangkat takbiratul ihram, Kiai menoleh ke belakang, menatap barisan shaf santri yang berdiri lurus, rapat, dan tertib tanpa perlu ada satu bentakan pun.
 
-"Menjadi musyrif asrama adalah tugas kenabian (*Wazhifah Nabawiyyah*)," lanjut Kiai. "Kalian adalah lentera-lentera penjaga fajar yang rela terjaga di keheningan malam demi memastikan anak-anak umat ini tidur dalam rasa aman, bangun dalam ketenteraman, dan bertumbuh dalam kemuliaan adab."
+Di barisan shaf kedua, Ustadz Salman, Ustadz Ridwan, dan Ustadz Burhan berdiri berdampingan bersama santri-santri mereka.
 
-Kiai melafalkan doa penutup yang menggetarkan sanubari:
+Kyai Hasyim tersenyum sangat teduh, lalu mengangkat kedua tangannya:
 
-$$\text{رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا}$$
+$$\text{اللَّهُ أَكْبَرُ}$$
 
-> *"Wahai Tuhan kami, anugerahkanlah kepada kami pasangan dan keturunan (serta anak-anak asuh kami) yang menjadi penyejuk pandangan mata kami, dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa."*
+Di dalam keheningan sholat Subuh berjamaah yang khusyuk itu, Salman meneteskan air mata syukur di atas sajadahnya.
 
-Di bawah langit pagi yang cerah membiru, roman kedua **Lentera Penjaga Fajar** ditutup dengan sebuah pesan abadi bagi seluruh pendidik asrama di nusantara:
+Roman kedua **Lentera Penjaga Fajar** ditutup dengan sebuah keyakinan abadi:
 
-*Bahwa lentera kasih sayang yang dinyalakan dengan keikhlasan, dirawat dengan ilmu Turats dan sains, serta dijaga dengan keadilan sistem, tidak akan pernah padam oleh terpaan badai zaman mana pun. Lentera itu akan terus menyala terang, membimbing jutaan santri menuju fajar kemuliaan peradaban Islam.*
+*Bahwa ketika para pengasuh asrama berhenti menjadi algojo yang menebar ketakutan, dan mulai menjelma menjadi lentera yang menyinari fajar dengan kelembutan, kesabaran, dan keteladanan qudwah, maka dari asrama itulah akan lahir fajar baru kebangkitan peradaban Islam yang cahayanya tidak akan pernah padam hingga akhir zaman.*

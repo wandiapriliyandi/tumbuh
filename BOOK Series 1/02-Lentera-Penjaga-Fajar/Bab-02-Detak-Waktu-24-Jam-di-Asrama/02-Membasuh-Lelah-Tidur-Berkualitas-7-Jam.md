@@ -1,28 +1,42 @@
-# Sub-Bab 2.2: Membasuh Lelah dengan Tidur Berkualitas
+# Sub-Bab 2.2: Membasuh Lelah Tidur Berkualitas 7 Jam
 
-Malam kian larut di Pesantren Darul Adab. Jarum jam dinding menunjuk pukul 21.40. Di seluruh koridor komplek asrama putra, para musyrif Shift Malam sedang berkeliling memastikan seluruh santri telah menyelesaikan muthala'ah mandiri dan bersiap untuk tidur.
+Pukul 21.30 malam. Lonceng asrama berdentang tiga kali menandakan sesi muthala'ah mandiri santri di serambi masjid telah berakhir. Ratusan santri putra berduyun-duyun kembali ke kamar masing-masing di bawah temaram lampu jalan komplek pesantren.
 
-Pukul 21.45 tepat, lonceng tanda istirahat malam berdentang pelan sebanyak tiga kali.
+Di masa lalu, jam tidur santri di pesantren sering kali menjadi hal yang terabaikan: santri dibiarkan begadang hingga tengah malam untuk mengobrol atau membaca komik sembunyi-sembunyi, lalu dibangunkan secara paksa pada pukul 03.00 pagi. Akibatnya, anak-anak mengalami defisit tidur kronis (*Sleep Deprivation*), lesu di kelas madrasah, dan rentan jatuh sakit.
 
-*Teng... Teng... Teng...*
+Namun di era Ekosistem TUMBUH, Ustadz Salman dan Tim Pengasuhan menegakkan doktrin kesehatan tidur biologis: **Hak Istirahat Sirkadian 7 Jam Penuh (*Circadian Sleep Sanctuary Protocol*)**.
 
-Suara lonceng itu diikuti oleh pemadaman lampu neon utama di setiap bilik kamar asrama. Cahaya terang benderang seketika berganti dengan pendar lampu tidur dinding berwarna kuning temaram (*Warm Amber Lighting*) yang dipasang di sudut bawah lantai.
+Salman dan Ustadz Ridwan berkeliling ke kamar-kamar santri lantai satu dan dua.
 
-Di Kamar Al-Farabi, Farhan, Ihsan, dan kawan-kawan sekamarnya telah berbaring rapi di atas kasur masing-masing. Mereka mengamalkan sunnah Rasulullah SAW sebelum tidur: berwudhu, membersihkan kasur dengan ujung kain sarung, berbaring miring ke sisi kanan, meletakkan telapak tangan kanan di bawah pipi, dan membaca doa serta surat-surat perlindungan (*Al-Mu'awwidzat*).
+Pukul 21.45, seluruh santri telah selesai mencuci kaki, menggosok gigi di wastafel luar, dan berwudhu sebelum tidur sesuai sunnah Nabawi.
 
-Ustadz Salman melangkah masuk ke dalam kamar, membetulkan selimut seorang santri yang tersingkap, lalu melafalkan doa tidur dengan suara berbisik yang sangat menenangkan.
+Di dalam Kamar Al-Farabi, Farhan telah merebahkan tubuhnya di atas kasur busanya yang empuk. Lampu utama kamar yang terang telah dipadamkan, digantikan oleh lampu tidur dinding berwarna amber temaram (*Warm Nightlight*) yang tidak mengganggu produksi hormon melatonin di otak.
 
-"Selamat beristirahat, anak-anakku para mujahid ilmu. Semoga Allah menjaga tidur kalian dan mengalirkan pahala di setiap hembusan nafas kalian," bisik Salman seraya menutup pintu kamar dengan sangat perlahan.
+Ustadz Salman melangkah masuk ke dalam kamar, memegang termometer ruangan yang menunjukkan suhu sejuk 24 derajat Celsius berkat ventilasi silang yang mengalirkan angin malam.
 
-Kebijakan menjamin waktu tidur malam minimal **tujuh hingga delapan jam penuh (21.45 – 03.45)** adalah salah satu pilar revolusi terpenting dalam Ekosistem TUMBUH.
+"Bismillah, Farhan, Faisal, Danang..." sapa Salman sembari tersenyum memandang anak-anak asuhnya yang telah berselimut rapi. "Mari kita baca doa tidur bersama-sama."
 
-Secara kronobiologi dan neurosains tidur (*Sleep Neuroscience*), masa remaja adalah fase kritis di mana otak mengalami rekonstruksi saraf masif. Tidur malam yang cukup dan berkualitas bukanlah tanda kemalasan, melainkan **kebutuhan biologis mutlak (*Non-Negotiable Biological Imperative*)**.
+Dua puluh santri melafalkan doa tidur dengan suara lirih yang menenangkan:
 
-Ketika lampu dipadamkan pada pukul 21.45, ketiadaan cahaya biru (*Blue Light*) menstimulasi kelenjar pineal di otak santri untuk melepaskan hormon **Melatonin** secara optimal, memicu transisi cepat menuju fase tidur nyenyak:
-1. **Fase Tidur Gelombang Lambat (*Slow-Wave Deep Sleep*)**: Kelenjar pituitari melepaskan *Human Growth Hormone (HGH)* untuk memperbaiki sel-sel otot dan jaringan tubuh yang lelah, serta merevitalisasi sistem imun.
-2. **Fase Tidur REM (*Rapid Eye Movement*)**: Otak mengaktifkan proses konsolidasi memori, menyaring dan mengunci hafalan ayat-ayat Al-Qur'an dan materi pelajaran yang dipelajari siang hari ke dalam struktur memori permanen di korteks serebral.
-3. **Sistem Glimfatik (*Glymphatic Clearance*)**: Cairan otak membersihkan racun-racun metabolik dan zat sisa biokimia yang menumpuk selama seharian beraktivitas, memulihkan kejernihan kognitif.
+$$\text{بِاسْمِكَ اللَّهُمَّ أَحْيَا وَأَمُوتُ}$$
 
-Hasilnya, ketika jam bangun Subuh tiba pada pukul 03.45, santri-santri terbangun dengan tubuh yang segar bugar, kepala yang ringan, emosi yang stabil, dan otak yang siap menyerap hafalan baru dengan ketajaman maksimal.
+> *"Dengan nama-Mu ya Allah, aku hidup dan aku mati."*
 
-Farhan menghembuskan nafasnya yang teratur di bawah selimut hangatnya. Di dalam keheningan malam asrama yang damai, tidur santri bukan lagi pelarian dari rasa takut, melainkan ibadah istirahat suci yang membasuh segala lelah dan mempersiapkan lahirnya para ksatria peradaban di esok fajar.
+Salman kemudian membacakan tiga ayat terakhir surat Al-Baqarah dengan nada tartil yang sangat merdu, mengalirkan gelombang ketenteraman ke seluruh penjuru kamar.
+
+Satu per satu kelopak mata santri belia itu mulai terpejam rapat. Kelelahan fisik setelah seharian belajar di madrasah dan berolahraga sore perlahan dibasuh oleh keheningan istirahat yang berkualitas.
+
+Secara neurosains perkembangan remaja, tidur malam tanpa interupsi selama minimal tujuh jam (pukul 21.45 hingga 04.15) adalah fase biologis paling krusial:
+* Otak santri mengonsolidasikan hafalan Al-Qur'an dan mutun kitab kuning dari memori jangka pendek (*Short-Term Memory*) menuju memori jangka panjang (*Long-Term Memory / Hippocampus Consolidation*).
+* Kelenjar hipofisis memproduksi hormon pertumbuhan (*Human Growth Hormone*) secara maksimal untuk perkembangan tulang dan otot remaja.
+* Sistem kekebalan tubuh (*Immune System*) melakukan regenerasi sel-sel imun, mencegah infeksi virus dan demam.
+
+Ustadz Salman berdiri di samping pintu kamar selama beberapa menit, memastikan seluruh anak asuhnya telah bernafas teratur dalam tidur lelapnya.
+
+Salman menarik selimut Ilham yang sempat melorot ke bawah, merapikannya hingga menutupi pundak anak yatim itu dengan kelembutan seorang ayah kandung.
+
+"Tidurlah dengan tenang, anak-anakku para pahlawan peradaban..." bisik Salman dalam hatinya seraya menatap wajah-wajah polos yang damai itu. "Para malaikat rahmat dan doa guru-gurumu akan selalu menjagamu sepanjang malam."
+
+Salman melangkah keluar kamar dan menutup pintu secara perlahan tanpa suara.
+
+Di koridor luar asrama, lampu-lampu telah diredupkan. Seluruh komplek asrama putra terlelap dalam perlindungan sistem pengasuhan yang memuliakan hak biologis dan ruhiyyah anak, siap menyambut fajar esok hari dengan kebugaran fisik dan kecemerlangan akal yang prima.

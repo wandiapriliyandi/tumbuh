@@ -1,19 +1,23 @@
 # Sub-Bab 9.1: Catatan Kesehatan di Pagi Hari
 
-Pukul 06.45 pagi. Sebelum bel masuk kelas madrasah berbunyi, sebuah pertemuan singkat selama lima belas menit berlangsung di ruang guru madrasah putra: **Rapat Sinkronisasi Pagi Musyrif-Wali Kelas (*Morning Synchronization Standup*)**.
+Pukul 06.45 pagi di ruang guru madrasah Pesantren Darul Adab. Sinar matahari pagi menerangi deretan meja kerja para asatidz yang sedang menyiapkan bahan ajar sebelum bel masuk berbunyi.
 
-Ustadz Salman (perwakilan pengasuhan asrama) duduk semeja dengan Ustadz Burhan (wali kelas delapan) dan Ustadzah Maryam (wali kelas tujuh).
+Ustadz Burhan—wali kelas 7-A—sedang membuka laptopnya di meja kerja. Di layar, notifikasi dari aplikasi **Integrasi Pengasuhan & Akademik TUMBUH** berbunyi pelan.
 
-Di atas meja, Salman menyerahkan selembar lembaran digital berisi **Laporan Kesiapan Belajar Santri Pagi (*Morning Learning Readiness Brief*)**.
+Sebuah laporan pagi dari Ustadz Salman (musyrif asrama) masuk ke dashboard Ustadz Burhan: **Lembar Waspada Kesehatan & Kesiapan Belajar Pagi (*Morning Health & Readiness Alert*)**.
 
-"Assalamu'alaikum, Ustadz Burhan dan Ustadzah Maryam," buka Salman dengan senyum profesional. "Ini rekap kondisi fisik dan emosional anak-anak asrama sesi pagi ini."
+Laporan tersebut memuat catatan terperinci tentang kondisi santri-santri kelas 7-A yang tinggal di Kamar Al-Farabi:
+* *"Ananda Danang semalam sempat demam 37,8°C, pagi ini suhu sudah turun menjadi 36,9°C. Obat penurun panas telah diminum ba'da sarapan. Disarankan duduk di bangku depan dekat pintu yang sejuk dan diizinkan beristirahat di Poskestren jika merasa lemas saat jam siang."*
+* *"Ananda Arya semalam sempat mengalami homesickness dan menangis, namun pagi ini sudah tersenyum ceria setelah didampingi Farhan. Mohon diberikan apresiasi jika ananda aktif menjawab di kelas Fiqih."*
 
-Salman memaparkan secara detail:
-* Di kelas tujuh, santri baru bernama Ilham mengalami flu ringan dan telah diberikan izin istirahat di asrama hingga jam makan siang. Sementara Farhan berada dalam kondisi sangat bugar dan bersemangat.
-* Di kelas delapan, Faisal dan Ihsan semalam sempat mengalami insiden senggolan di ruang makan, namun telah diselesaikan dengan sangat baik melalui konseling restoratif. Burhan diminta memberikan apresiasi ekstra saat keduanya menunjukkan kerja sama positif di kelas kelompok hari ini.
+Burhan membaca catatan tersebut dengan senyuman penuh syukur.
 
-Ustadz Burhan mencatat informasi tersebut dengan sangat antusias di buku jurnal kelasnya.
+Di masa lalu, dinding pemisah antara asrama dan madrasah begitu tebal: guru di kelas tidak pernah tahu kondisi fisik dan emosional santri saat di asrama, sehingga sering kali memarahi santri yang tampak lemas atau mengantuk tanpa tahu bahwa anak tersebut baru saja sembuh dari demam tinggi.
 
-"Terima kasih banyak atas datanya, Ustadz Salman," ujar Burhan. "Dengan informasi ini, kami para guru di kelas tidak akan salah menilai jika melihat ada santri yang sedikit mengantuk atau murung. Kami bisa memberikan perlakuan pedagogis yang tepat sasaran."
+Sinergi data pagi hari ini menghilangkan kesalahpahaman pedagogis.
 
-Sinergi harian ini menghapuskan fenomena 'anak terbelah'—di mana pihak sekolah tidak tahu kondisi asrama, dan pihak asrama tidak tahu kondisi sekolah. Keduanya bergerak serempak sebagai **Dua Ksatria Penjaga Amanah (*Dual-Pillar Caretakers*)** yang saling menopang demi keselamatan dan perkembangan optimal setiap santri.
+Ketika bel masuk berbunyi pada pukul 07.00 dan seluruh santri masuk ke dalam ruang kelas 7-A, Ustadz Burhan menyambut Danang dan Arya dengan sapaan yang sangat hangat:
+
+"Selamat pagi, Danang! Bagaimana kabarmu pagi ini, Mas? Kalau nanti merasa lelah, langsung beri kode ke Ustadz ya," bisik Burhan lembut sembari menepuk pundak Danang.
+
+Danang tersenyum haru, merasakan betapa para gurunya di kelas dan di asrama saling terhubung menjaga dan merawat kesehatannya dengan penuh cinta.

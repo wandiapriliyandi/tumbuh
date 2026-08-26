@@ -1,24 +1,45 @@
 # Sub-Bab 3.2: Lemari Vertikal Tanpa Tumpukan Kusut
 
-Selepas merapikan ranjang, perhatian santri Kamar Al-Farabi beralih ke pintu lemari kayu masing-masing. Di lemari nomor dua belas, Farhan membuka kedua daun pintu lemarinya yang bercat cokelat muda.
+Setelah menuntaskan kerapian kasur standar hospital corner, workshop 5S di Kamar Al-Farabi berlanjut ke bagian yang paling sering menjadi titik krisis ketertiban asrama: **Lemari Pakaian Santri (*The 5S Vertical Wardrobe Revolution*)**.
 
-Di dalam lemari berukuran tinggi seratus dua puluh sentimeter dan lebar enam puluh sentimeter itu, sebuah sistem penataan barang yang sangat efisien telah diterapkan: **Metode Pengarsipan Pakaian Vertikal (*Vertical File Folding System*)**.
+Di masa lalu, lemari pakaian kayu milik santri berukuran satu meter persegi sering kali menyerupai tumpukan kain kusut: baju seragam madrasah, sarung, celana tidur, dan handuk basah ditumpuk secara horizontal menjadi satu gundukan tinggi. Akibatnya, setiap kali santri hendak mengambil satu baju di bagian bawah, seluruh tumpukan akan roboh berantakan ke lantai dan menimbulkan kepanikan saat bel madrasah berbunyi.
 
-Zaid berdiri di samping Farhan, mengamati lemari adik asuhnya itu dengan senyuman puas.
+Ustadz Salman berdiri di depan lemari kayu milik Farhan yang pintunya terbuka lebar.
 
-Tidak ada lagi tumpukan pakaian horizontal yang menggunung tinggi—metode lama yang selalu membuat pakaian di bagian bawah kusut dan berantakan ketika ditarik keluar secara terburu-buru.
+"Farhan dan anak-anakku semuanya," tutur Salman dengan nada suara ramah, "hari ini kita tinggalkan sistem tumpukan horizontal yang purba itu. Kita beralih ke **Metode Lipat & Susun Vertikal (*Vertical KonMari 5S Folding Method*)**."
 
-Kini, setiap potong pakaian dilipat menjadi gulungan persegi panjang yang kokoh dan disusun secara **berdiri (vertikal)** seperti buku-buku di rak perpustakaan:
-* **Rak Atas**: Tempat menyimpan kitab-kitab suci Al-Qur'an, juz 'amma, buku catatan halaqah, dan peci hitam yang ditaruh di dalam kotak anyaman pandan kecil.
-* **Rak Tengah (Pakaian Harian)**: Baju seragam madrasah, kemeja koko putih, sarung tenun, dan kaus dalam yang disusun berderet dari kiri ke kanan berdasarkan gradasi warna. Farhan dapat melihat seluruh koleksi pakaiannya hanya dalam satu kali pandang dan dapat mengambil sehelai baju tanpa menggeser pakaian lainnya.
-* **Rak Bawah**: Perlengkapan mandi (sabun, sikat gigi, sampo, dan handuk) yang disimpan di dalam keranjang plastik berlubang yang berventilasi baik agar cepat kering dan tidak menimbulkan bau apek.
+Salman mengambil sebuah sarung tenun hijau milik Farhan.
 
-Ustadz Salman yang memeriksa lemari Farhan mengangguk-angguk kagum.
+Salman membentangkan sarung tersebut di atas dampar kayu, melipatnya memanjang menjadi tiga bagian, lalu melipatnya kembali menjadi gulungan persegi panjang yang padat dan kokoh.
 
-"Luar biasa, Farhan!" puji Salman. "Tahukah kamu, apa manfaat terbesar dari lemari yang tertata vertikal seperti ini?"
+Salman mendirikan gulungan sarung itu di atas meja. Sarung itu dapat berdiri tegak sendiri tanpa roboh!
 
-Farhan tersenyum. "Pakaian saya tidak pernah kusut lagi, Ustadz, dan saya bisa mengambil baju dalam waktu lima detik tanpa membuat lemari berantakan."
+"Subhanallah... Kok bisa berdiri sendiri seperti buku di rak ya, Ustadz?" tanya Farhan dengan mata berbinar takjub.
 
-"Benar sekali," lanjut Salman. "Secara psikologis, **kekacauan visual di dalam lemari (*Visual Clutter*)** menciptakan beban kognitif tersembunyi yang membuat otak merasa lelah dan stres sebelum memulai hari. Ketika lemarimu tertata rapi dan bersih, pikiranmu menjadi tenang, jernih, dan siap menyerap ilmu dengan penuh keberkahan."
+"Tentu saja bisa," senyum Salman sembari menjelaskan logikanya. "Ketika pakaian dilipat dengan lipatan vertikal padat, serat kain saling menopang beban beratnya sendiri."
 
-Zaid menepuk pundak Farhan dengan bangga. Standarisasi 5S di kamar asrama bukan sekadar tentang estetika lahiriah, melainkan sebuah kurikulum tersembunyi yang melatih santri memiliki manajemen hidup yang teratur, cermat, dan bertanggung jawab penuh atas setiap amanah barang yang dimilikinya.
+Salman kemudian menata gulungan sarung itu ke dalam rak lemari Farhan secara berjajar ke samping—persis seperti menata buku-buku tebal di rak perpustakaan:
+* **Rak Atas**: Tempat mushaf Al-Qur'an, kitab-kitab pelajaran, dan buku tulis catatan.
+* **Rak Tengah**: Susunan baju seragam madrasah putih, gamis sholat, dan kaos harian yang disusun vertikal berurutan dari warna terang ke gelap.
+* **Rak Bawah**: Sarung sholat dan celana panjang yang tersusun rapi dalam kotak sekat kain (*Drawer Divider*).
+
+Dengan metode vertikal ini:
+1. Santri dapat melihat seluruh koleksi pakaiannya dalam satu kali pandangan mata (*Visual Clarity / Visual Control*) tanpa perlu membongkar isi lemari.
+2. Mengambil satu baju di tengah tidak akan merusak kerapian baju-baju di sebelahnya (*Zero Disturbance Retrievability*).
+3. Kapasitas ruang penyimpanan lemari meningkat hingga dua kali lipat.
+
+Farhan, Faisal, Danang, dan kawan-kawannya segera mempraktikkan metode melipat vertikal pada pakaian mereka masing-masing.
+
+Tangan-tangan mungil itu bekerja dengan cekatan, melipat baju koko, merapikan sarung tenun, dan menatanya ke dalam rak lemari masing-masing dengan senyuman puas.
+
+Dalam waktu tiga puluh menit, seluruh dua puluh lemari di Kamar Al-Farabi telah bertransformasi menjadi etalase kerapian yang memukau.
+
+Pintu-pintu lemari dibuka serentak. Tidak ada lagi bau apek, tidak ada lagi pakaian kusut yang tercecer, dan tidak ada lagi kepanikan mencari peci yang hilang.
+
+Kyai Hasyim yang kebetulan melintas di depan kamar melongokkan kepalanya ke dalam, lalu tersenyum sangat lebar memandang hasil kerja para santri belia itu.
+
+"Masya Allah, tabarakallah..." dawuh Kyai Hasyim dengan suara teduh yang membahagiakan kalbu. "Kamar kalian hari ini laksana taman para malaikat. Hati yang tertata rapi melahirkan lemari yang tertata suci. Rawatlah keindahan ini sebagai amal ibadah kalian kepada Allah SWT."
+
+Farhan mencium tangan Kiai dengan rasa bangga yang meluap-luap.
+
+Pelajaran 5S telah merevolusi cara pandang para santri: bahwa menjaga kerapian lemari bukanlah beban paksaan dari pengasuh, melainkan wujud rasa syukur atas rezeki pakaian yang dianugerahkan Allah dan langkah awal menjadi manusia beradab yang mandiri.

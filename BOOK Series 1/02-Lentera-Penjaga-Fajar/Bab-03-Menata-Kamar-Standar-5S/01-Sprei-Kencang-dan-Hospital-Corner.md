@@ -1,27 +1,50 @@
 # Sub-Bab 3.1: Sprei Kencang dan Hospital Corner
 
-Pukul 05.45 pagi. Matahari baru saja memunculkan sinarnya di atas bukit pesantren, menyinari lorong-lorong asrama putra dengan cahaya hangat. Selepas sholat Subuh dan wirid bersama di masjid, santri-santri kembali ke kamar masing-masing untuk menjalankan sesi **Operasi Kamar Bersih 5S (*Seiri, Seiton, Seiso, Seiketsu, Shitsuke*)** selama lima belas menit.
+Pukul 06.00 pagi di Kamar Al-Farabi asrama putra Pesantren Darul Adab. Sinar mentari fajar menembus tirai jendela, membiaskan berkas cahaya keemasan di atas lantai keramik yang telah dipel bersih.
 
-Di Kamar Al-Farabi, Zaid—sang ketua santri kelas dua belas yang menjadi kakak asuh kamar tersebut—sedang berdiri di samping ranjang susun Farhan.
+Ustadz Salman berdiri di samping ranjang susun nomor satu, dikelilingi oleh seluruh santri penghuni kamar yang mengenakan sarung dan kaos seragam olahraga santai.
 
-Zaid tidak memegang penggaris untuk mengukur atau mencari kesalahan, melainkan sedang mendemonstrasikan sebuah keterampilan motorik halus yang sangat berharga: **Teknik Melipat Sudut Ranjang ala *Hospital Corner***.
+Pagi ini adalah sesi workshop praktis perdana: **Seni Merapikan Ranjang Standar 5S (*The Master Bed-Making & Hospital Corner Workshop*)**.
 
-"Lihat ini, Farhan," kata Zaid sembari memegang ujung sprei kain berwarna biru muda. "Tarik kain sprei ini kencang-kencang ke arah bawah ranjang sampai tidak ada satu pun kerutan di bagian tengahnya. Lalu, angkat sisi kain membentuk sudut empat puluh lima derajat, selipkan sisa kain ke bawah kasur busa, dan lipat kembali ke bawah."
+Salman meletakkan sebuah koin logam lima ratus rupiah di telapak tangannya.
 
-Farhan memperhatikan dengan mata berbinar-binar, lalu mencoba mempraktikkannya pada ranjangnya sendiri. Ujung jari kecilnya menarik sprei kencang, melipat sudutnya dengan presisi, dan menyelipkannya ke bawah kasur.
+"Anak-anakku," buka Salman dengan senyuman cerah, "apakah kalian tahu bagaimana cara menguji apakah sprei ranjang kalian sudah terpasang dengan standar keindahan ksatria peradaban?"
 
-Dalam sekejap, permukaan ranjang Farhan menjadi begitu kencang dan rata, seolah sebutir koin logam yang dilemparkan ke atasnya akan memantul kembali.
+Farhan dan Faisal saling bertukar pandang dengan dahi berkerut penasaran.
 
-Di atas kasur yang telah rapi itu, Farhan meletakkan bantalnya di bagian kepala, lalu melipat selimut kainnya membentuk persegi empat yang simetris dan rapi.
+Salman melemparkan koin logam tersebut ke tengah permukaan kasur busa yang sprei hijaunya baru saja ia pasang.
 
-Ustadz Salman yang masuk ke kamar tersenyum kagum melihat hasil kerja Farhan.
+*Tung!*
 
-"Masya Allah, Farhan! Ranjangmu pagi ini rapi sekali seperti kamar asrama prajurit ksatria," puji Salman seraya mengacungkan dua jempolnya.
+Koin logam itu seketika memantul setinggi lima belas sentimeter di udara karena permukaan sprei yang begitu kencang dan tegang tanpa kerutan sedikit pun, lalu ditangkap kembali oleh tangan Salman dengan tangkas.
 
-Salman menatap Farhan dan anak-anak lainnya di kamar itu.
+Mata anak-anak asuh membelalak takjub. "Wah! Bisa memantul seperti trampolin, Ustadz!" seru Danang dengan wajah kagum.
 
-"Anak-anakku," dawuh Salman menjelaskan filosofi di balik kerapian ranjang pagi hari, "merapikan tempat tidurmu sendiri di pagi hari adalah **Kemenangan Pertama Kalian di Hari Ini (*The First Victory of the Day*)**."
+Salman tertawa renyah. "Itulah yang dinamakan **Sprei Kencang Standar Ksatria (*Taut Sheet Standard*)**."
 
-Ketika seorang santri memulai harinya dengan menyelesaikan satu tugas kecil dengan sempurna—merapikan kasurnya sendiri tanpa disuruh—otaknya mencatat sebuah pencapaian positif. Keberhasilan kecil ini menumbuhkan rasa percaya diri dan dorongan dopaminergik untuk menuntaskan tugas-tugas besar berikutnya di sekolah: belajar dengan fokus, menghafal Al-Qur'an, dan berbuat baik kepada sesama.
+Salman kemudian membungkuk di sudut kasur, memperagakan teknik melipat sudut sprei yang dikenal dalam dunia medis dan militer internasional sebagai **Hospital Corner (Sudut Rumah Sakit)**:
+1. Menyelipkan ujung bawah sprei ke bawah kasur dengan kencang.
+2. Mengangkat tepi samping sprei membentuk segitiga siku-siku 45 derajat.
+3. Menyelipkan bagian bawah segitiga ke kolong kasur, lalu menurunkan lipatan atas dan menyelipkannya rapat-rapat.
 
-Farhan berdiri tegak di samping ranjangnya dengan dada membusung bangga. Tempat tidur yang rapi dan kencang itu bukan hanya enak dipandang mata, melainkan telah menjadi fondasi kokoh bagi kedisiplinan dan kemandirian jiwanya sepanjang hari.
+"Sudut 45 derajat ini," terang Salman sembari menunjukkan sudut lipatan yang sangat presisi, "mengunci kain sprei agar tidak mudah lepas atau kusut meskipun kalian bergerak saat tidur di malam hari."
+
+Salman menepuk pundak Farhan. "Sekarang giliranmu mempraktikkannya di ranjangmu sendiri, Farhan!"
+
+Farhan melangkah ke ranjang susunnya dengan antusias. Dibantu oleh Faisal dari sisi seberang, Farhan menarik kain sprei katunnya, merapikan sudut-sudutnya, lalu melipat bagian tepinya membentuk sudut 45 derajat persis seperti yang dicontohkan Salman.
+
+Farhan mengusap permukaan kasurnya. Kain sprei itu kini terbentang sangat kencang, licin, dan rapi laksana ranjang di kabin kapal pesiar.
+
+Farhan melempar koin lima ratus rupiah miliknya ke atas kasur. *Tung!* Koin itu memantul dengan sempurna.
+
+Sorak tepuk tangan dan tawa gembira meledak di dalam Kamar Al-Farabi.
+
+"Hebat sekali, Farhan! Kamu berhasil pada percobaan pertama!" puji Salman seraya mengacungkan dua jempolnya.
+
+Pelajaran merapikan ranjang ini bukan sekadar tugas kebersihan domestik biasa.
+
+Riset psikologi perilaku membuktikan bahwa **menyelesaikan satu tugas pertama di pagi hari dengan sempurna (*Completing the First Task of the Day*)** menstimulasi hormon dopamin di otak, menumbuhkan rasa percaya diri, dan memicu efek domino keteraturan sepanjang hari bagi sang anak.
+
+Farhan berdiri tegak memandang ranjangnya yang rapi dengan dada membusung bangga.
+
+Pagi itu, para santri belia belajar bahwa kemuliaan adab dan kebesaran peradaban selalu dimulai dari kemampuan menata hal-hal kecil di sekeliling diri sendiri dengan penuh tanggung jawab dan keindahan.
