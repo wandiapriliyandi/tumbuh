@@ -12,11 +12,7 @@ Dan yang paling membanggakan, Farhan terpilih sebagai Ketua Organisasi Santri ma
 
 Itu adalah **Zaid**—sang mentor sahabat asuh yang kini telah menyelesaikan studi sarjananya di Universitas Al-Azhar Kairo dan kembali berkhidmah menjadi dosen muda di ma'had 'aly pesantren. Zaid merangkul pundak Farhan dengan tatapan bangga yang tak terkatakan: "Farhan, adikku tercinta..." sapa Zaid seraya tersenyum haru.
 
-"Hari ini adalah hari wisuda kelulusanmu dari jenjang Madrasah Aliyah." "Melihatmu berdiri di sini hari ini, Mas Zaid teringat sore enam tahun lalu saat kamu menangis memeluk mushaf di sudut serambi masjid." Farhan tersenyum manis, air mata haru dan syukur menggenang di pelupuk matanya:
-
-"Semua ini terjadi atas izin dan karunia Allah SWT, Mas Zaid..." "Dan berkat tangan hangat Mas Zaid, keteladanan Ustadz Salman, serta bimbingan agung Kyai Hasyim yang menyelamatkan jiwa Farhan melalui ekosistem TUMBUH." Dari arah belakang di pintu balkon, terdengar suara langkah kaki yang melangkah santun.
-
-Ibu Fatimah dan Pak Rahmat melangkah mendekati anak laki-laki kebanggaan mereka. Ibu Fatimah mengenakan jilbab biru tua terbaiknya, wajahnya berlinang air mata bahagia yang membasahi senyumannya yang tulus. Pak Rahmat mengenakan kemeja batik yang rapi, dadanya membusung bangga menatap putranya yang telah menjadi ulama muda yang shalih.
+"Hari ini adalah hari wisuda kelulusanmu dari jenjang Madrasah Aliyah." "Melihatmu berdiri di sini hari ini, Mas Zaid teringat sore enam tahun lalu saat kamu menangis memeluk mushaf di sudut serambi masjid." Farhan tersenyum manis, air mata haru dan syukur menggenang di pelupuk matanya: "Semua ini terjadi atas izin dan karunia Allah SWT, Mas Zaid..." "Dan berkat tangan hangat Mas Zaid, keteladanan Ustadz Salman, serta bimbingan agung Kyai Hasyim yang menyelamatkan jiwa Farhan melalui ekosistem TUMBUH." Dari arah belakang di pintu balkon, terdengar suara langkah kaki yang melangkah santun. Ibu Fatimah dan Pak Rahmat melangkah mendekati anak laki-laki kebanggaan mereka. Ibu Fatimah mengenakan jilbab biru tua terbaiknya, wajahnya berlinang air mata bahagia yang membasahi senyumannya yang tulus. Pak Rahmat mengenakan kemeja batik yang rapi, dadanya membusung bangga menatap putranya yang telah menjadi ulama muda yang shalih.
 
 Farhan segera berbalik badan, bersimpuh di hadapan kedua orang tuanya. Farhan mencium kedua telapak kaki dan tangan ibunya dengan segenap rasa takzim dan baktinya: "Ibu...
 
@@ -36,9 +32,7 @@ Farhan memegang medali emas di dadanya, mempersembahkannya seutuhnya untuk kedua
 
 Zaid berdiri di samping mereka, menyaksikan buah manis dari perjuangan tarbiyah enam tahun. Pohon rindang TUMBUH telah berakar teguh di bumi dan menjulang tinggi menaungi semesta. Farhan siap melangkah ke panggung peradaban dunia, membawa panji kemuliaan Islam.
 
-Keyakinan tauhid yang kokoh di dadanya menjadi pelita abadi dalam mengarungi samudra kehidupan.
-
-Enam tahun kemudian, di aula muktamar peradaban lantai tiga Pesantren Darul Adab, suasana wisuda akbar ratusan santri penghafal Al-Qur'an dan mutun ilmu berlangsung sangat meriah dan agung. Farhan berdiri di atas podium mengenakan jubah wisuda hitam bertahtakan selendang hijau toska berlogo emas TUMBUH dan medali emas santri teladan lulusan terbaik. Bocah kurus yang dahulu menangis memeluk koper biru kini telah bermetamorfosis sempurna menjadi seorang ksatria adabi pemuda peradaban yang paripurna.
+Keyakinan tauhid yang kokoh di dadanya menjadi pelita abadi dalam mengarungi samudra kehidupan. Enam tahun kemudian, di aula muktamar peradaban lantai tiga Pesantren Darul Adab, suasana wisuda akbar ratusan santri penghafal Al-Qur'an dan mutun ilmu berlangsung sangat meriah dan agung. Farhan berdiri di atas podium mengenakan jubah wisuda hitam bertahtakan selendang hijau toska berlogo emas TUMBUH dan medali emas santri teladan lulusan terbaik. Bocah kurus yang dahulu menangis memeluk koper biru kini telah bermetamorfosis sempurna menjadi seorang ksatria adabi pemuda peradaban yang paripurna.
 
 Ibu Fatimah dan Pak Rahmat menangis penuh keharuan saat Farhan bersimpuh mencium kedua telapak kaki dan tangan ibunya di atas panggung wisuda. Farhan mempersembahkan mahkota hafalan 30 juz Al-Qur'an Mutqin dan penguasaan belasan kitab turats untuk kedua orang tua tercintanya. Zaid yang kini telah menyelesaikan studi sarjananya di Universitas Al-Azhar Kairo merangkul Farhan dengan tatapan bangga yang tak terkatakan.
 
@@ -101,3 +95,11 @@ Ibu Fatimah dan Pak Rahmat menangis penuh keharuan saat Farhan bersimpuh mencium
 Kyai Hasyim yang telah berusia tujuh puluh tahun berdiri di hadapan ribuan hadirin menyampaikan Pesan Abadi Sang Murabbi Peradaban. Kiai mewasiatkan tiga perkara utama: menjaga kesucian hati hifzhul qalb, menjadi pelayan umat yang penuh kasih khadimul ummah bil-marhamah, dan menegakkan nilai-nilai TUMBUH di manapun berada tanpa kekerasan selamanya. Seluruh hadirin mengaminkan doa pamungkas sang mahaguru dengan cucuran air mata keharuan yang mendalam.
 
 Pohon rindang peradaban yang dahulu disemai dari benih-benih kecil di tanah hati yang terluka kini telah tumbuh menjulang tinggi ke langit, berakar kokoh di bumi, dan terus memancarkan buah keberkahan abadi bagi semesta alam hingga akhir zaman. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat, taufiq, dan hidayah-Nya yang tiada bertepi.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.

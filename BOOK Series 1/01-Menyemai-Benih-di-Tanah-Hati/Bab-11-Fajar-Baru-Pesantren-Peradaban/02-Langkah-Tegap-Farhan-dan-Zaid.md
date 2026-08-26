@@ -12,11 +12,7 @@ Farhan tersenyum tersipu malu, menganggukkan kepalanya dengan mata yang berbinar
 
 Zaid menepuk pundak Farhan dengan penuh rasa syukur: "Alhamdulillah... Itu semua berkat pertolongan Allah dan ketekunanmu sendiri, Farhan.
 
-Mas Zaid hanya menemani dan mendoakanmu." Zaid menatap Farhan dengan tatapan seorang kakak yang menaruh harapan besar: "Ingat pesan Mas Zaid, Farhan...
-
-Kamu bukan hanya santri yang pintar menghafal, tapi kamu adalah calon pemimpin masa depan." "Tahun depan saat kamu naik ke kelas delapan, giliranmu yang akan menjadi mentor pelindung bagi adik-adik kelas tujuh yang baru masuk." "Latihlah dirimu melayani dan mencintai mereka sebagaimana kita belajar saling mencintai karena Allah di sini."
-
-Farhan mengangguk mantap dengan sorot mata yang menyala penuh tekad: "Insya Allah, Mas Zaid... Farhan berjanji akan menjaga adik-adik kelas Farhan kelak dengan penuh kasih sayang tanpa kekerasan."
+Mas Zaid hanya menemani dan mendoakanmu." Zaid menatap Farhan dengan tatapan seorang kakak yang menaruh harapan besar: "Ingat pesan Mas Zaid, Farhan... Kamu bukan hanya santri yang pintar menghafal, tapi kamu adalah calon pemimpin masa depan." "Tahun depan saat kamu naik ke kelas delapan, giliranmu yang akan menjadi mentor pelindung bagi adik-adik kelas tujuh yang baru masuk." "Latihlah dirimu melayani dan mencintai mereka sebagaimana kita belajar saling mencintai karena Allah di sini." Farhan mengangguk mantap dengan sorot mata yang menyala penuh tekad: "Insya Allah, Mas Zaid... Farhan berjanji akan menjaga adik-adik kelas Farhan kelak dengan penuh kasih sayang tanpa kekerasan."
 
 Di ambang pintu gerbang madrasah, Ustadz Salman dan Ustadz Ridwan berdiri menyaksikan pemandangan indah tersebut. Ustadz Salman tersenyum haru, matanya berkaca-kaca melihat transformasi luar biasa yang terjadi pada diri Farhan dan Zaid. Dua generasi santri yang dahulu terbelah oleh jurang kasta feodalisme kini telah menyatu erat dalam ikatan ukhuwah Islamiyyah yang sejati.
 
@@ -101,3 +97,9 @@ Pesantren Darul Adab telah berhasil merajut keselarasan antara kemegahan fisik b
 Kamar Al-Farabi kini telah menjelma menjadi oase keindahan dan ketertiban visual sesuai standar 5S. Dua puluh ranjang susun kayu jati tertata simetris dengan sprei biru laut yang kencang dan selimut balok yang rapi di ujung kaki ranjang. Di depan pintu kamar mandi, sandal-sandal santri berbaris presisi di atas rak kayu berslot vertikal dengan garis pembatas kuning yang rapi tanpa ada yang tercecer.
 
 Farhan melangkah berdampingan bersama Mas Zaid di pelataran madrasah dengan langkah yang tegap, mantap, dan penuh rasa percaya diri. Farhan baru saja meraih nilai sempurna seratus dalam ujian lisan hafalan kaidah Nahwu Matan Al-Ajurrumiyyah berkat bimbingan intensif dari Mas Zaid di serambi masjid. Estafet keteladanan adab telah tersambung kokoh dari generasi senior ke generasi junior.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

@@ -34,9 +34,7 @@ Salman menarik nafas panjang yang terasa sesak, perih, dan panas di rongga dadan
 
 Salman menyandarkan punggungnya ke sandaran kursi kayu jati. Salman menatap langit-langit pos jaga dengan tatapan nanar menanti pertolongan fajar yang tak kunjung tiba. Di luar pos jaga, angin malam terus berhembus kencang menggoyang rerimbunan pohon bambu.
 
-Malam itu, pos jaga keamanan asrama menjadi saksi bisu atas kerapuhan batin seorang pendidik yang sedang merindukan jalan keluar dari belenggu keletihan jiwa.
-
-Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
+Malam itu, pos jaga keamanan asrama menjadi saksi bisu atas kerapuhan batin seorang pendidik yang sedang merindukan jalan keluar dari belenggu keletihan jiwa. Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
@@ -103,3 +101,5 @@ Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan ketela
 Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
 Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

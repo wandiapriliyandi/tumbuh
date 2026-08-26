@@ -38,9 +38,7 @@ Kyai Hasyim melafalkan puji syukur ke hadirat Allah SWT, lalu mengumumkan makna 
 
 "Enam pilar ini," dawuh Kyai Hasyim sembari menunjuk papan kaligrafi mahoni di sampingnya. "Adalah cetak biru agung yang memadukan kedalaman turats Islam peninggalan Hujjatul Islam Imam Al-Ghazali dengan konsensus sains neurobiologi perkembangan modern." "Kita tidak lagi sekadar mendidik santri untuk menghafal teks secara mekanis."
 
-"Kita sedang menanam, merawat, dan menumbuhkan benih fitrah insani agar mekar sempurna menjadi pohon peradaban yang menaungi semesta." "Setiap pilar adalah tiang pancang yang kokoh yang menopang atap kemuliaan pesantren kita." "Tanpa salah satu pilar, bangunan tarbiyah kita akan miring dan runtuh."
-
-Ustadz Salman menatap papan kaligrafi emas TUMBUH itu dengan kedua belah mata yang berkaca-kaca menahan air mata haru. Di dalam dada Salman, api tekad yang baru menyala berkobar-kobar, siap mempersembahkan seluruh hidupnya untuk menegakkan nilai-nilai luhur TUMBUH di bumi Pesantren Darul Adab. Salman menundukkan kepalanya dalam-dalam, bersumpah di hadapan Allah untuk menjadi pengawal setia manhaj peradaban ini.
+"Kita sedang menanam, merawat, dan menumbuhkan benih fitrah insani agar mekar sempurna menjadi pohon peradaban yang menaungi semesta." "Setiap pilar adalah tiang pancang yang kokoh yang menopang atap kemuliaan pesantren kita." "Tanpa salah satu pilar, bangunan tarbiyah kita akan miring dan runtuh." Ustadz Salman menatap papan kaligrafi emas TUMBUH itu dengan kedua belah mata yang berkaca-kaca menahan air mata haru. Di dalam dada Salman, api tekad yang baru menyala berkobar-kobar, siap mempersembahkan seluruh hidupnya untuk menegakkan nilai-nilai luhur TUMBUH di bumi Pesantren Darul Adab. Salman menundukkan kepalanya dalam-dalam, bersumpah di hadapan Allah untuk menjadi pengawal setia manhaj peradaban ini.
 
 Papan mahoni kaligrafi emas bertuliskan akronim TUMBUH terpampang megah di aula ndalem utama Pesantren Darul Adab. Sinar matahari sore membias keemasan menyinari setiap goresan huruf emas tersebut, menciptakan aura kemuliaan yang memukau seluruh hadirin. Enam pilar peradaban ini menjadi cetak biru abadi yang memandu transformasi tata kelola pengasuhan dan kurikulum pesantren 24 jam.
 
@@ -101,3 +99,19 @@ Seluruh dewan asatidz dan pengurus santri senior menyimak pembacaan manifesto pe
 Ustadz Salman memandang papan kaligrafi tersebut dengan mata yang berbinar-binar penuh harapan. Salman merasa bahwa beban berat pengasuhan asrama kini telah memiliki panduan yang jelas, sistematis, dan diridhai oleh syariat. Salman siap mengorbankan seluruh tenaga dan pikirannya demi mengawal keberhasilan implementasi enam pilar ini.
 
 Zaid yang duduk di samping Salman mengangguk mantap penuh keyakinan. Zaid bertekad untuk memimpin seluruh santri senior menjadi pelayan dan pelindung adik-adik kelas mereka, mengamalkan pilar Ukhuwah dan Qudwah secara nyata. Majelis peresmian piagam TUMBUH di aula ndalem ditutup dengan doa penutup yang menggetarkan arasy langit dan meneteskan air mata kebahagiaan seluruh hadirin.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

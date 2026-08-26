@@ -24,11 +24,7 @@ Kiai menjelaskan bahwa fitrah anak memiliki tiga dimensi agung yang saling mengu
 
 Dimensi ketiga adalah **Fitrah 'Aqliyyah & Jismiyyah**, yaitu potensi kecerdasan nalar, rasa ingin tahu yang tinggi, dan energi pertumbuhan fisik yang dinamis. "Ketika Farhan atau Danang terlambat bangun di waktu fajar," terang Kiai dengan penuh kearifan pedagogis. "Itu sama sekali bukan bukti bahwa fitrah iman mereka telah rusak atau mereka membangkang kepada Allah."
 
-"Raga mereka terlambat bangun karena jasad biologis anak dua belas tahun sedang membutuhkan adaptasi hormon tidur sirkadian yang cukup." "Otot mereka lelah karena sistem kehidupan asrama kita belum mengatur jadwal istirahat yang manusiawi." "Dan mereka takut sholat bukan karena benci kepada Allah, melainkan karena gambaran sholat di kepala mereka telah tercemar oleh suara bentakan kasar dan sabetan rotan yang menakutkan!"
-
-Kiai menghela nafas panjang seraya menatap Salman dengan tatapan yang menyentuh sanubari: "Tugas agung seorang murabbi dan musyrif bukanlah datang sebagai algojo yang menghukum anak karena menganggap fitrah mereka rusak." "Tugas murabbi adalah menjadi penjaga dan penyiram mutiara fitrah tersebut."
-
-"Tugas kita adalah membersihkan debu-debu kelelahan agar cahaya fitrah mereka kembali bersinar terang benderang menyinari semesta." "Jika mutiara fitrah itu tertutup oleh kotoran kebiasaan buruk, jangan kamu pukul mutiara itu dengan palu besi hingga hancur!" "Ambillah kain sutra kelembutan, basuhlah dengan air kesabaran, dan gosoklah dengan keteladanan akhlak hingga kemilaunya terpancar kembali."
+"Raga mereka terlambat bangun karena jasad biologis anak dua belas tahun sedang membutuhkan adaptasi hormon tidur sirkadian yang cukup." "Otot mereka lelah karena sistem kehidupan asrama kita belum mengatur jadwal istirahat yang manusiawi." "Dan mereka takut sholat bukan karena benci kepada Allah, melainkan karena gambaran sholat di kepala mereka telah tercemar oleh suara bentakan kasar dan sabetan rotan yang menakutkan!" Kiai menghela nafas panjang seraya menatap Salman dengan tatapan yang menyentuh sanubari: "Tugas agung seorang murabbi dan musyrif bukanlah datang sebagai algojo yang menghukum anak karena menganggap fitrah mereka rusak." "Tugas murabbi adalah menjadi penjaga dan penyiram mutiara fitrah tersebut." "Tugas kita adalah membersihkan debu-debu kelelahan agar cahaya fitrah mereka kembali bersinar terang benderang menyinari semesta." "Jika mutiara fitrah itu tertutup oleh kotoran kebiasaan buruk, jangan kamu pukul mutiara itu dengan palu besi hingga hancur!" "Ambillah kain sutra kelembutan, basuhlah dengan air kesabaran, dan gosoklah dengan keteladanan akhlak hingga kemilaunya terpancar kembali."
 
 Salman menundukkan kepalanya dalam-dalam di atas karpet permadani ndalem. Air mata pencerahan mengalir deras membasahi kedua pipinya yang tirus. Konsep fitrah kenabian yang dijelaskan Kyai Hasyim membongkar seluruh paradigma kekerasan pengasuhan yang selama ini membelenggu pikirannya.
 
@@ -40,9 +36,7 @@ Kiai Hasyim tersenyum lembut sembari mengusap janggut putihnya. Sinar mentari pa
 
 Salman menyimak setiap butir nasihat dengan dada yang bergetar penuh rasa syukur. Pencerahan fitrah ini menjadi lentera baru yang menerangi jalan pengabdiannya. Di kejauhan, sayup-sayup terdengar suara santri yang mulai berangkat menuju madrasah.
 
-Hari baru di Pesantren Darul Adab telah dimulai dengan kesadaran tauhid yang hakiki.
-
-Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+Hari baru di Pesantren Darul Adab telah dimulai dengan kesadaran tauhid yang hakiki. Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
 
 Salman mendengarkan setiap patah kata sang Kiai dengan dada yang bergetar penuh keharuan. Di hadapan sang mahaguru sepuh, Salman merasa laksana seorang musafir dahaga yang baru saja menemukan telaga mata air zamzam di tengah padang pasir. Salman menyadari betapa kerdilnya metode kekerasan yang selama ini ia gunakan jika dibandingkan dengan samudra hikmah yang diajarkan oleh para ulama salaf.
 
@@ -101,3 +95,15 @@ Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapa
 Salman mendengarkan setiap patah kata sang Kiai dengan dada yang bergetar penuh keharuan. Di hadapan sang mahaguru sepuh, Salman merasa laksana seorang musafir dahaga yang baru saja menemukan telaga mata air zamzam di tengah padang pasir. Salman menyadari betapa kerdilnya metode kekerasan yang selama ini ia gunakan jika dibandingkan dengan samudra hikmah yang diajarkan oleh para ulama salaf.
 
 Angin fajar berhembus lembut menggoyangkan tirai kain sutra di serambi ndalem kiai, mengalirkan aroma wangi bunga sedap malam yang sedang bermekaran. Cahaya fajar di ufuk timur mulai membiaskan semburat warna jingga keemasan yang menyejukkan mata. Suasana ndalem terasa sangat sakral dan diliputi oleh gelombang ketenangan spiritual yang mendalam.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.

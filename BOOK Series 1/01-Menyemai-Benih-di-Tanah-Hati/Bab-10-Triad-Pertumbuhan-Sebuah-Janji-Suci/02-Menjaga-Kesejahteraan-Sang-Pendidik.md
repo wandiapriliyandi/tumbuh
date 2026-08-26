@@ -4,9 +4,7 @@ Keesokan paginya pukul 08.30 di ruang rapat pimpinan yayasan Pesantren Darul Ada
 
 Yaitu: **Regulasi Kesejahteraan dan Manajemen Energi Pendidik (*Pastoral Staff Welfare & Burnout Mitigation Policy*)**. Kyai Hasyim membuka pertemuan dengan sebuah kalam hikmah yang sangat mendasar: "Para sahabatku sekalian..." tutur Kyai Hasyim dengan nada prihatin namun tegas.
 
-"Sebuah lentera minyak tidak akan mampu menerangi ruangan yang gelap gulita jika minyak di dalam bejananya telah kering kerontang." "Demikian pula halnya dengan seorang musyrif dan ustadz: bagaimana mungkin kita menuntut mereka mendidik santri dengan penuh kelembutan, kesabaran, dan senyuman..." "Jika tubuh mereka kelelahan akut, tidur mereka hanya tiga jam sehari, gaji mereka tidak mencukupi kebutuhan dasar keluarganya, dan mereka tidak pernah mendapatkan hari libur untuk menyegarkan jiwanya?"
-
-Kiai menegaskan bahwa mengeksploitasi ustadz pengabdian dengan beban kerja 24 jam tanpa jeda atas nama 'keikhlasan' adalah sebuah kezaliman institusional yang bertentangan dengan Maqashid Syari'ah. Rapat yayasan pagi itu secara bulat menyepakati paket kebijakan revolusioner untuk memuliakan para musyrif dan pendidik pesantren: Pertama, **Sistem Pembagian Shift Kerja Asrama yang Manusiawi (*Humanized Shift Rotation*)**.
+"Sebuah lentera minyak tidak akan mampu menerangi ruangan yang gelap gulita jika minyak di dalam bejananya telah kering kerontang." "Demikian pula halnya dengan seorang musyrif dan ustadz: bagaimana mungkin kita menuntut mereka mendidik santri dengan penuh kelembutan, kesabaran, dan senyuman..." "Jika tubuh mereka kelelahan akut, tidur mereka hanya tiga jam sehari, gaji mereka tidak mencukupi kebutuhan dasar keluarganya, dan mereka tidak pernah mendapatkan hari libur untuk menyegarkan jiwanya?" Kiai menegaskan bahwa mengeksploitasi ustadz pengabdian dengan beban kerja 24 jam tanpa jeda atas nama 'keikhlasan' adalah sebuah kezaliman institusional yang bertentangan dengan Maqashid Syari'ah. Rapat yayasan pagi itu secara bulat menyepakati paket kebijakan revolusioner untuk memuliakan para musyrif dan pendidik pesantren: Pertama, **Sistem Pembagian Shift Kerja Asrama yang Manusiawi (*Humanized Shift Rotation*)**.
 
 Jam tugas musyrif dibagi menjadi tiga shift kerja yang jelas, adil, dan proporsional. Setiap musyrif dijamin hak biologisnya untuk mendapatkan waktu tidur malam minimal 7 jam tanpa gangguan tugas piket malam. Setiap musyrif berhak mendapatkan jatah libur penuh (*Day Off*) minimal satu hari dalam sepekan untuk berkumpul bersama keluarga atau beristirahat menyegarkan fisik dan pikiran.
 
@@ -34,9 +32,7 @@ Sinergi yang indah antara kesejahteraan guru dan kemajuan santri terwujud nyata 
 
 Semoga Allah memberkahi seluruh pendidik yang berjuang dengan ikhlas di jalan-Nya. Salman menarik nafas panjang, merasakan detak jantungnya yang berdegup penuh kedamaian. Malam itu, di kamar tidurnya, Salman merebahkan tubuhnya dalam rasa syukur yang mendalam.
 
-Sebuah era baru pemuliaan para guru telah bersemi di Pesantren Darul Adab.
-
-Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
+Sebuah era baru pemuliaan para guru telah bersemi di Pesantren Darul Adab. Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
 
 Yayasan mengesahkan regulasi kesejahteraan musyrif yang menjamin pembagian shift kerja manusiawi, jatah libur berkala, asuransi kesehatan BPJS, dan pusat konseling pendidik. Para musyrif kini menjalankan tugas pengasuhan dengan tubuh yang bugar, jiwa yang segar, dan hati yang dipenuhi energi cinta. Lembaga yang sehat dan adil telah melahirkan guru-guru yang bahagia dan berdedikasi tinggi dalam mendampingi santri.
 
@@ -101,3 +97,9 @@ Pesantren Darul Adab mendeklarasikan Piagam Safe Sanctuary yang menetapkan kebij
 Komitmen kelembagaan ini menjadi tonggak sejarah yang mengukuhkan Darul Adab sebagai model percontohan pesantren ramah anak dan beradab di tingkat nasional. Di bawah naungan suaka yang aman ini, tunas-tunas peradaban dapat bertumbuh mekar dengan tenang tanpa rasa takut sedikit pun.
 
 Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

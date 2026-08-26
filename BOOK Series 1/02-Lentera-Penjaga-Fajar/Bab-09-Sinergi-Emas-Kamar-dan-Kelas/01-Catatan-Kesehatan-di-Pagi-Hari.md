@@ -12,9 +12,7 @@ Burhan membaca catatan tersebut dengan senyuman penuh syukur. Di masa lalu, dind
 
 Ketika bel masuk berbunyi pada pukul 07.00 dan seluruh santri masuk ke dalam ruang kelas 7-A, Ustadz Burhan menyambut Danang dan Arya dengan sapaan yang sangat hangat: "Selamat pagi, Danang! Bagaimana kabarmu pagi ini, Mas? Kalau nanti merasa lelah, langsung beri kode ke Ustadz ya," bisik Burhan lembut sembari menepuk pundak Danang.
 
-Danang tersenyum haru, merasakan betapa para gurunya di kelas dan di asrama saling terhubung menjaga dan merawat kesehatannya dengan penuh cinta.
-
-Sinergi yang erat antara kehidupan asrama dan proses belajar di kelas madrasah terjalin dengan sangat harmonis di Pesantren Darul Adab. Setiap pagi, musyrif asrama menyerahkan catatan kesehatan santri kepada wali kelas madrasah agar kondisi fisik santri terpantau dengan baik. Guru madrasah dapat menyesuaikan metode pembelajaran jika ada santri yang sedang kurang sehat.
+Danang tersenyum haru, merasakan betapa para gurunya di kelas dan di asrama saling terhubung menjaga dan merawat kesehatannya dengan penuh cinta. Sinergi yang erat antara kehidupan asrama dan proses belajar di kelas madrasah terjalin dengan sangat harmonis di Pesantren Darul Adab. Setiap pagi, musyrif asrama menyerahkan catatan kesehatan santri kepada wali kelas madrasah agar kondisi fisik santri terpantau dengan baik. Guru madrasah dapat menyesuaikan metode pembelajaran jika ada santri yang sedang kurang sehat.
 
 Pesantren memberlakukan kebijakan pembatasan beban tugas pekerjaan rumah (PR) malam bagi seluruh santri. Guru madrasah bersepakat agar tugas PR dapat diselesaikan di sekolah sehingga waktu malam di asrama dapat digunakan santri untuk istirahat, mengulang hafalan Al-Qur'an, dan berinteraksi sosial secara sehat. Kebijakan ini berhasil menghilangkan stres kognitif yang membebani anak-anak.
 
@@ -103,3 +101,7 @@ Farhan dan Danang dapat menikmati waktu malam di kamar asrama dengan santai dan 
 Ustadz Burhan dan Ustadz Salman rutin mengadakan pertemuan evaluasi mingguan untuk menyelaraskan kurikulum adab di kelas dan di asrama. Kolaborasi ini memastikan bahwa nilai-nilai karakter yang diajarkan di kelas madrasah langsung dipraktikkan secara konsisten di kehidupan asrama 24 jam. Santri bertumbuh dalam ekosistem pembinaan yang utuh dan terpadu.
 
 Keseimbangan antara aktivitas akademik dan kehidupan asrama menciptakan generasi santri yang cerdas otaknya dan sehat jiwanya. Pesantren Darul Adab membuktikan bahwa pendidikan Islam yang bermutu tinggi dibangun di atas prinsip keseimbangan dan kasih sayang. Tunas-tunas adab bertumbuh subur menyongsong masa depan yang cerah.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

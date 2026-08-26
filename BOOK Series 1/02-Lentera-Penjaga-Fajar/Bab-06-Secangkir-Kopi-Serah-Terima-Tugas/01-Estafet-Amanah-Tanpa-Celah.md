@@ -104,3 +104,5 @@ Ustadz Ridwan menyerahkan kunci pos piket kepada Salman dengan senyuman hangat d
 Malam pun turun menyelimuti komplek Pesantren Darul Adab dengan selimut kedamaian yang sempurna. Para musyrif bertugas dengan sigap dan penuh rasa tanggung jawab di bawah naungan rahmat Ilahi. Sistem pengasuhan modern telah menjamin keamanan dan keselamatan setiap jiwa penuntut ilmu di bumi pesantren.
 
 Proses serah terima tugas piket pengasuhan (handover shift) antara musyrif pagi, sore, dan malam berlangsung dengan sangat sistematis di pos pengasuhan. Sembari menikmati secangkir kopi hitam hangat, musyrif yang bertugas mencatat perkembangan santri di dashboard logbook digital TUMBUH. Tidak ada celah informasi yang terputus mengenai kondisi kesehatan dan emosi anak-anak asuh.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

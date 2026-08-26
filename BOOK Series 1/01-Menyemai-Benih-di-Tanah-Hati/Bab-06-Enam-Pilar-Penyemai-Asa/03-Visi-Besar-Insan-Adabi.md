@@ -22,11 +22,7 @@ Ia bersikap teguh memegang prinsip kebenaran dan bersikap lemah lembut dalam mem
 
 Ia tanggap terhadap masalah-masalah kemiskinan dan ketidakadilan di masyarakat sekitarnya. Ia siap mengorbankan waktu, tenaga, dan ilmunya demi kemajuan umat Islam dan kejayaan peradaban manusia. Kiai menatap seluruh dewan asatidz dan musyrif dengan tatapan yang menggetarkan seluruh rongga kalbu:
 
-"Sahabat-sahabatku para pendidik peradaban yang mulia..." "Farhan, Faisal, Danang, dan seluruh santri yang sedang belajar di pondok ini adalah calon-calon Insan Adabi yang sedang kita ukir bersama." "Kita sedang menanam benih-benih peradaban emas di tanah hati mereka yang suci."
-
-"Suatu saat kelak, ketika mereka lulus dari pesantren ini, mereka akan menjadi ulama yang menyejukkan umat." "Mereka akan menjadi pemimpin yang adil dan amanah." "Mereka akan menjadi dokter yang berakhlak mulia dan berhati dermawan."
-
-"Mereka akan menjadi ilmuwan yang berhati tasawuf dan berakhlak qur'ani." "Dan mereka akan menjadi benteng pertahanan Islam yang kokoh dari kegelapan fitnah akhir zaman!" Kyai Hasyim menutup pidato pembaharuan tersebut dengan memanjatkan doa agung yang khusyuk.
+"Sahabat-sahabatku para pendidik peradaban yang mulia..." "Farhan, Faisal, Danang, dan seluruh santri yang sedang belajar di pondok ini adalah calon-calon Insan Adabi yang sedang kita ukir bersama." "Kita sedang menanam benih-benih peradaban emas di tanah hati mereka yang suci." "Suatu saat kelak, ketika mereka lulus dari pesantren ini, mereka akan menjadi ulama yang menyejukkan umat." "Mereka akan menjadi pemimpin yang adil dan amanah." "Mereka akan menjadi dokter yang berakhlak mulia dan berhati dermawan." "Mereka akan menjadi ilmuwan yang berhati tasawuf dan berakhlak qur'ani." "Dan mereka akan menjadi benteng pertahanan Islam yang kokoh dari kegelapan fitnah akhir zaman!" Kyai Hasyim menutup pidato pembaharuan tersebut dengan memanjatkan doa agung yang khusyuk.
 
 Seluruh asatidz dan musyrif mengaminkan doa tersebut dengan linangan air mata haru yang membasahi janggut dan baju mereka. Gema takbir dan tekad membahana di aula ndalem Pesantren Darul Adab. Piagam TUMBUH telah resmi dilahirkan dan ditancapkan kokoh di bumi pesantren.
 
@@ -101,3 +97,13 @@ Zaid yang duduk di samping Salman mengangguk mantap penuh keyakinan. Zaid bertek
 Papan mahoni kaligrafi emas bertuliskan akronim TUMBUH terpampang megah di aula ndalem utama Pesantren Darul Adab. Sinar matahari sore membias keemasan menyinari setiap goresan huruf emas tersebut, menciptakan aura kemuliaan yang memukau seluruh hadirin. Enam pilar peradaban ini menjadi cetak biru abadi yang memandu transformasi tata kelola pengasuhan dan kurikulum pesantren 24 jam.
 
 Kyai Hasyim menjelaskan bahwa pilar Tarbiyah Ruhiyyah, Ukhuwah Restoratif, Manajemen Lingkungan 5S, Bimbingan Kasih Sayang Firm & Kind, Uswah Qudwah Pendidik, dan Hakikat Insan Adabi adalah satu kesatuan organik yang tak terpisahkan. Setiap pilar saling menopang dan menguatkan laksana bangunan istana peradaban yang kokoh. Tanpa salah satu pilar, bangunan pendidikan karakter akan miring dan kehilangan daya transformasinya.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

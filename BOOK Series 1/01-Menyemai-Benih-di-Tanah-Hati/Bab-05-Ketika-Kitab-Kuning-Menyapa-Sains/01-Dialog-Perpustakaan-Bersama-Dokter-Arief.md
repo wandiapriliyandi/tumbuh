@@ -16,11 +16,7 @@ Di samping laptopnya, tergeletak sebuah model replika anatomi otak manusia tiga 
 
 Tampak jelas belahan otak kiri dan kanan, batang otak (*Brainstem*), sistem limbik, dan korteks serebri. Kyai Hasyim membuka pertemuan akademik tersebut dengan basmalah dan senyuman yang sangat bijaksana. "Para sahabatku sekalian..." dawuh Kyai Hasyim dengan suara tenang yang mengisi seluruh keheningan ruangan perpustakaan.
 
-"Islam adalah agama ilmu (*Dīnul 'Ilm*)." "Allah SWT menurunkan dua ayat tanda kebesaran-Nya di alam wujud ini." "Pertama adalah ayat-ayat *Qauliyyah* yang termaktub di dalam Al-Qur'an dan hadits-hadits shahih Baginda Nabi SAW."
-
-"Kedua adalah ayat-ayat *Kauniyyah* yang terbentang di alam semesta dan di dalam sistem biologis tubuh manusia." Kiai menoleh memandang Dokter Arief dengan penuh rasa takzim dan persaudaraan: "Hari ini, kita mengundang Dokter Arief untuk menjelaskan kepada kita semua bagaimana ayat-ayat kauniyyah di dalam anatomi otak santri kita bekerja."
-
-"Kita ingin melihat bagaimana neurosains modern membuktikan kebenaran wasiat pendidikan yang diajarkan oleh para ulama salaf kita." Dokter Arief tersenyum ramah dan menganggukkan kepalanya dengan takzim kepada sang Kiai. Dokter Arief mengenakan kemeja putih bersahaja dengan jas dokter tersampir di sandaran kursinya.
+"Islam adalah agama ilmu (*Dīnul 'Ilm*)." "Allah SWT menurunkan dua ayat tanda kebesaran-Nya di alam wujud ini." "Pertama adalah ayat-ayat *Qauliyyah* yang termaktub di dalam Al-Qur'an dan hadits-hadits shahih Baginda Nabi SAW." "Kedua adalah ayat-ayat *Kauniyyah* yang terbentang di alam semesta dan di dalam sistem biologis tubuh manusia." Kiai menoleh memandang Dokter Arief dengan penuh rasa takzim dan persaudaraan: "Hari ini, kita mengundang Dokter Arief untuk menjelaskan kepada kita semua bagaimana ayat-ayat kauniyyah di dalam anatomi otak santri kita bekerja." "Kita ingin melihat bagaimana neurosains modern membuktikan kebenaran wasiat pendidikan yang diajarkan oleh para ulama salaf kita." Dokter Arief tersenyum ramah dan menganggukkan kepalanya dengan takzim kepada sang Kiai. Dokter Arief mengenakan kemeja putih bersahaja dengan jas dokter tersampir di sandaran kursinya.
 
 Dokter Arief mengklik tetikus komputernya, menampilkan slide presentasi pertama di layar proyektor putih. Slide tersebut memperlihatkan gambar hasil pemindaian fMRI (*Functional Magnetic Resonance Imaging*) dari otak seorang anak remaja yang sedang aktif berpikir. "Bismillāhir-Raḥmānir-Raḥīm...
 
@@ -30,9 +26,7 @@ Dokter Arief mengangkatnya ke udara agar dapat dilihat jelas oleh Ustadz Salman 
 
 "Ustadz Salman..." tutur Dokter Arief seraya mengarahkan tatapan matanya langsung ke arah pemuda tersebut. "Mari kita bedah secara ilmiah apa yang sesungguhnya terjadi di dalam kepala Farhan, Faisal, atau Danang saat mereka mendengar dentuman keras pipa besi di pintu kamar mereka pada pukul 03.30 dini hari." Dokter Arief menunjuk struktur kecil berbentuk kacang almond tersebut dengan ujung penanya:
 
-"Struktur kecil berwarna merah ini bernama **Amigdala (*The Amygdala*)**." "Amigdala adalah bagian dari otak purba limbik manusia yang berfungsi sebagai radar pendeteksi ancaman bahaya dan pusat pengatur respon rasa takut (*Threat Detector & Fear Center*)." "Ketika suara gedoran keras terdengar, amigdala menyala merah laksana sirine bahaya kebakaran."
-
-"Ia tidak bertanya apakah bahaya itu nyata atau palsu; ia langsung memerintahkan tubuh untuk siaga tempur atau lari ketakutan." Salman mencondongkan tubuhnya ke depan di atas meja kayu jati. Salman menatap replika organ kecil tersebut dengan mata terpaku dan rasa ingin tahu yang membuncah di dalam dadanya.
+"Struktur kecil berwarna merah ini bernama **Amigdala (*The Amygdala*)**." "Amigdala adalah bagian dari otak purba limbik manusia yang berfungsi sebagai radar pendeteksi ancaman bahaya dan pusat pengatur respon rasa takut (*Threat Detector & Fear Center*)." "Ketika suara gedoran keras terdengar, amigdala menyala merah laksana sirine bahaya kebakaran." "Ia tidak bertanya apakah bahaya itu nyata atau palsu; ia langsung memerintahkan tubuh untuk siaga tempur atau lari ketakutan." Salman mencondongkan tubuhnya ke depan di atas meja kayu jati. Salman menatap replika organ kecil tersebut dengan mata terpaku dan rasa ingin tahu yang membuncah di dalam dadanya.
 
 Dialog multidisipliner antara kitab kuning klasik dan sains neurosains modern di ruang perpustakaan pagi itu menjadi panggung pencerahan ilmiah yang akan membuka tirai kebenaran tentang rahasia fitrah dan biologi jiwa santri di Pesantren Darul Adab. Ustadz Salman menyiapkan buku catatannya, siap mencatat setiap butir ilmu neurobiologi yang akan merevolusi seluruh cara pandangnya terhadap santri.
 
@@ -101,3 +95,11 @@ Kyai Hasyim yang duduk di barisan depan mengangguk-angguk takzim menyadari betap
 Dokter Arief memperagakan replika otak silikon di tangannya, menunjukkan letak nukleus akumbens dan jalur dopaminergik yang merespons apresiasi positif. Dokter Arief menjelaskan bahwa satu pujian tulus atas usaha baik santri mampu memicu neuroplastisitas positif yang memperkuat kebiasaan beradab secara permanen. Pujian dan pengakuan jauh lebih efektif dalam membentuk karakter daripada seribu ancaman sanksi.
 
 Ruang perpustakaan lantai dua dipenuhi oleh diskusi ilmiah yang hangat dan mencerahkan antara dewan asatidz dan tim medis. Pertemuan ini meruntuhkan dinding pemisah antara sains sekuler dan ilmu agama klasik, melahirkan paradigma baru pendidikan Islam holistik. Para pembina asrama merasa tercerahkan dan siap menerapkan protokol neurobiologi adab di kamar-kamar santri.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.

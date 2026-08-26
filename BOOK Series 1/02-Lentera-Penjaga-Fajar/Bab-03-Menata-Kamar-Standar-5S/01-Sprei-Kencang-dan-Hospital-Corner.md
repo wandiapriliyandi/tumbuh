@@ -25,9 +25,7 @@ Farhan melempar koin lima ratus rupiah miliknya ke atas kasur. *Tung!* Koin itu 
 
 Pelajaran merapikan ranjang ini bukan sekadar tugas kebersihan domestik biasa. Riset psikologi perilaku membuktikan bahwa **menyelesaikan satu tugas pertama di pagi hari dengan sempurna (*Completing the First Task of the Day*)** menstimulasi hormon dopamin di otak, menumbuhkan rasa percaya diri, dan memicu efek domino keteraturan sepanjang hari bagi sang anak. Farhan berdiri tegak memandang ranjangnya yang rapi dengan dada membusung bangga.
 
-Pagi itu, para santri belia belajar bahwa kemuliaan adab dan kebesaran peradaban selalu dimulai dari kemampuan menata hal-hal kecil di sekeliling diri sendiri dengan penuh tanggung jawab dan keindahan.
-
-Penerapan standar kerapian 5S di Kamar Al-Farabi telah mengubah bilik asrama menjadi ruangan yang indah dan simetris. Dua puluh ranjang susun kayu jati tertata rapi dengan sprei biru laut yang ditarik kencang menggunakan teknik sudut rumah sakit (hospital corner). Selimut-selimut tidur dilipat rapi membentuk balok persegi empat di ujung kasur tanpa ada kerutan.
+Pagi itu, para santri belia belajar bahwa kemuliaan adab dan kebesaran peradaban selalu dimulai dari kemampuan menata hal-hal kecil di sekeliling diri sendiri dengan penuh tanggung jawab dan keindahan. Penerapan standar kerapian 5S di Kamar Al-Farabi telah mengubah bilik asrama menjadi ruangan yang indah dan simetris. Dua puluh ranjang susun kayu jati tertata rapi dengan sprei biru laut yang ditarik kencang menggunakan teknik sudut rumah sakit (hospital corner). Selimut-selimut tidur dilipat rapi membentuk balok persegi empat di ujung kasur tanpa ada kerutan.
 
 Farhan membuka lemari pakaian vertikalnya yang bersih dan wangi aroma lavender. Di dalam lemari, baju seragam madrasah, jubah putih, dan sarung tenun digantung dengan sistem pengelompokan warna yang teratur. Tidak ada lagi tumpukan pakaian kusut atau pakaian kotor yang terselip di balik pintu lemari.
 
@@ -104,3 +102,7 @@ Farhan membuka lemari pakaian vertikalnya yang bersih dan wangi aroma lavender. 
 Zaid datang memeriksa kerapian Kamar Al-Farabi sembari membawa stiker bintang kebaikan berwarna hijau toska. Zaid tersenyum sangat puas melihat bagaimana Farhan, Danang, dan Faisal merapikan kamar mereka secara mandiri. Zaid menempelkan stiker bintang prestasi di papan kamar sebagai bentuk apresiasi atas kedisiplinan mereka.
 
 Danang bangga melihat stiker bintang hijau di atas namanya di papan kamar asrama. Danang merasa bahwa setiap usaha kecilnya untuk menjaga kerapian dihargai dan dicintai oleh para guru dan seniornya. Motivasi intrinsik untuk berbuat baik semakin menyala berkobar di dalam dada anak yatim tersebut.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

@@ -20,9 +20,7 @@ $$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
 
 > *'Pemimpin sejati suatu kaum adalah pelayan bagi kaum yang dipimpinnya.'* (HR. Al-Baihaqi)
 
-Zaid menatap Farhan dengan tatapan mata seorang ksatria sejati: "Sebagai santri senior kelas dua belas, tugas Mas Zaid dan kawan-kawan pengurus bukanlah menjadi raja-raja kecil yang minta dilayani dan disembah oleh adik-adiknya." "Tugas senior adalah menjadi pelindung, menjadi pembimbing, menjadi teladan kebaikan, dan menjadi pelayan yang membantu adik-adiknya saat kesulitan beradaptasi di pondok!"
-
-"Memaksa adik kelas mencuci pakaian senior adalah tindakan pengecut, zalim, dan memalukan martabat santri!" Zaid melanjutkan mencuci seluruh pakaian kotor di dalam ember tersebut hingga tuntas. Zaid membilasnya berkali-kali di bawah kran air hingga busa detergennya hilang bersih.
+Zaid menatap Farhan dengan tatapan mata seorang ksatria sejati: "Sebagai santri senior kelas dua belas, tugas Mas Zaid dan kawan-kawan pengurus bukanlah menjadi raja-raja kecil yang minta dilayani dan disembah oleh adik-adiknya." "Tugas senior adalah menjadi pelindung, menjadi pembimbing, menjadi teladan kebaikan, dan menjadi pelayan yang membantu adik-adiknya saat kesulitan beradaptasi di pondok!" "Memaksa adik kelas mencuci pakaian senior adalah tindakan pengecut, zalim, dan memalukan martabat santri!" Zaid melanjutkan mencuci seluruh pakaian kotor di dalam ember tersebut hingga tuntas. Zaid membilasnya berkali-kali di bawah kran air hingga busa detergennya hilang bersih.
 
 Zaid memerasnya dengan kuat, lalu mengibaskan kain-kain itu dan menggantungkannya dengan rapi di kawat jemuran besi luar. Setelah menyelesaikan cucian tersebut, Zaid mengambil ember kecil milik Farhan sendiri yang berisi dua helai kaos dan sarung kumal Farhan yang belum sempat dicuci. Zaid tersenyum menatap Farhan: "Sekarang, ayo Mas Zaid ajari cara mencuci bajumu sendiri dengan teknik yang benar agar tanganmu tidak lecet dan kerah bajumu bersih cemerlang."
 
@@ -36,9 +34,7 @@ Farhan merasakan kehangatan yang luar biasa merayap di dalam rongga dadanya. Tan
 
 Zaid menepuk pundak Farhan, mengajaknya melangkah bersama menuju masjid untuk sholat Maghrib. Langkah kaki mereka beriringan, menandai runtuhnya sekat kasta senior dan junior di asrama. Malam itu, tempat cucian asrama menjadi monumen sejarah lahirnya kepemimpinan pelayan sejati.
 
-Ukhuwah Islamiyyah telah kembali bertahta di bumi Pesantren Darul Adab.
-
-Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
+Ukhuwah Islamiyyah telah kembali bertahta di bumi Pesantren Darul Adab. Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
 
 Zaid berdiri di samping Farhan dan Danang, mengajari kedua adik asuhnya cara memeras sarung tenun yang basah dan melipat cucian dengan teknik yang benar agar tidak kusut. Kehangatan bimbingan Zaid menghadirkan senyuman ceria di wajah anak-anak yang dahulunya selalu dicekam rasa takut. Tradisi perpeloncoan yang keliru telah musnah digantikan oleh budaya saling membantu dan memuliakan sesama penuntut ilmu.
 
@@ -101,3 +97,13 @@ Zaid berdiri di samping Farhan dan Danang, mengajari kedua adik asuhnya cara mem
 Di masjid utama, Kyai Hasyim mengesahkan Piagam Kesetaraan Martabat Santri yang melarang mutlak segala bentuk suruhan pribadi dan senioritas feodal di pesantren. Kiai menegaskan bahwa kemuliaan seorang santri tidak diukur dari tingkatan kelasnya, melainkan dari ketakwaan hati dan pelayanannya kepada saudaranya yang membutuhkan. Seluruh santri senior bersalaman dengan adik-adik kelas mereka, saling memaafkan dan berpelukan dalam kehangatan ukhuwah Islamiyyah yang suci.
 
 Farhan menatap Mas Zaid dengan rasa takzim dan cinta persaudaraan yang mendalam di dalam dadanya. Farhan merasa bahwa martabat kemanusiaannya sebagai penuntut Al-Qur'an kini dihormati dan dilindungi seutuhnya oleh lembaga pesantren. Pesantren Darul Adab telah menjelma menjadi rumah kedua yang aman, adil, dan penuh dengan keberkahan persaudaraan sejati.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

@@ -8,9 +8,7 @@ Deklarasi tersebut adalah: **Piagam Pesantren Darul Adab Sebagai Suaka Perlindun
 
 Kiai menguraikan empat pilar konstitusi perlindungan anak di pesantren: Pilar pertama: **Kebijakan Nol Toleransi Terhadap Kekerasan (*Zero-Tolerance Violence Policy*)**. "Lembaga mengharamkan dan melarang secara mutlak segala bentuk kekerasan fisik seperti pukulan, tamparan, tendangan, dan sabetan rotan."
 
-"Lembaga mengharamkan kekerasan verbal seperti bentakan, hinaan, makian, dan pelabelan buruk." "Dan lembaga mengharamkan kekerasan relasional seperti pengucilan, perpeloncoan, dan perundungan senior." "Siapa pun yang melanggar konstitusi ini—baik santri, musyrif, maupun ustadz senior—akan diproses melalui Dewan Etik Kelembagaan dengan sanksi tegas tanpa pandang bulu!"
-
-Pilar kedua: **Saluran Pengaduan Aman & Independen (*Safe & Confidential Whistleblowing Channel*)**. Lembaga menyediakan beberapa kanal pengaduan rahasia: Kotak Surat Amanah berdesain khusus yang ditempatkan di bilik-bilik privat asrama dan masjid.
+"Lembaga mengharamkan kekerasan verbal seperti bentakan, hinaan, makian, dan pelabelan buruk." "Dan lembaga mengharamkan kekerasan relasional seperti pengucilan, perpeloncoan, dan perundungan senior." "Siapa pun yang melanggar konstitusi ini—baik santri, musyrif, maupun ustadz senior—akan diproses melalui Dewan Etik Kelembagaan dengan sanksi tegas tanpa pandang bulu!" Pilar kedua: **Saluran Pengaduan Aman & Independen (*Safe & Confidential Whistleblowing Channel*)**. Lembaga menyediakan beberapa kanal pengaduan rahasia: Kotak Surat Amanah berdesain khusus yang ditempatkan di bilik-bilik privat asrama dan masjid.
 
 Kotak surat tersebut hanya dapat dibuka oleh Tim Perlindungan Santri independen. Layanan bimbingan konseling privat di Bilik Curhat BK yang menjamin kerahasiaan identitas santri secara mutlak (*Absolute Confidentiality*). Pilar ketiga: **Prosedur Operasional Standar Mitigasi Titik Rawan (*Hotspots Environmental Safety SOP*)**.
 
@@ -34,9 +32,7 @@ Ibu Fatimah membisikkan doa restu di telinga putranya dengan air mata bahagia di
 
 Tidak ada lagi rasa cemas di hati para orang tua saat melepaskan putra-putra tercintanya. Kepercayaan masyarakat dan umat Islam kepada Pesantren Darul Adab semakin kokoh tak tergoyahkan. Piagam Safe Sanctuary menjadi tonggak abadi yang mengukir sejarah kemuliaan pendidikan Islam.
 
-Semoga Allah senantiasa menjaga dan merahmati suaka peradaban ini hingga akhir zaman.
-
-Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
+Semoga Allah senantiasa menjaga dan merahmati suaka peradaban ini hingga akhir zaman. Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
 
 Yayasan mengesahkan regulasi kesejahteraan musyrif yang menjamin pembagian shift kerja manusiawi, jatah libur berkala, asuransi kesehatan BPJS, dan pusat konseling pendidik. Para musyrif kini menjalankan tugas pengasuhan dengan tubuh yang bugar, jiwa yang segar, dan hati yang dipenuhi energi cinta. Lembaga yang sehat dan adil telah melahirkan guru-guru yang bahagia dan berdedikasi tinggi dalam mendampingi santri.
 
@@ -101,3 +97,9 @@ Pesantren Darul Adab mendeklarasikan Piagam Safe Sanctuary yang menetapkan kebij
 Komitmen kelembagaan ini menjadi tonggak sejarah yang mengukuhkan Darul Adab sebagai model percontohan pesantren ramah anak dan beradab di tingkat nasional. Di bawah naungan suaka yang aman ini, tunas-tunas peradaban dapat bertumbuh mekar dengan tenang tanpa rasa takut sedikit pun.
 
 Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

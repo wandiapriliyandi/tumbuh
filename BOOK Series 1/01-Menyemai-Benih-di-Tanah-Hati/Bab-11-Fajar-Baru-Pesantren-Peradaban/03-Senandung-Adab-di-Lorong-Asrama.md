@@ -101,3 +101,11 @@ Farhan melangkah berdampingan bersama Mas Zaid di pelataran madrasah dengan lang
 Di sepanjang lorong asrama pada sore hari, terdengar lantunan merdu syair Ta'limul Muta'allim yang dilantunkan anak-anak saat bersiap menuju masjid. Suasana antrean mandi sore berlangsung tertib, tenang, dan dipenuhi canda tawa persaudaraan yang hangat. Hubungan guru dan murid di asrama telah bertransformasi menjadi ikatan mahabbah spiritual yang suci.
 
 Pesantren Darul Adab telah berhasil merajut keselarasan antara kemegahan fisik bangunan dan kesucian batiniah para penghuninya. Fajar baru peradaban pesantren telah merekah indah di ufuk timur, memancarkan cahaya hidayah dan ilmu ke seluruh penjuru nusantara.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.

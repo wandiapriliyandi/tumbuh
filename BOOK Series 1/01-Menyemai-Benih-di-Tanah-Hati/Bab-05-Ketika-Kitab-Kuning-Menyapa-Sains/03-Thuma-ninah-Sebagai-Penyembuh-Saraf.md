@@ -6,11 +6,7 @@ Grafik Beta Tinggi tersebut mencerminkan kondisi otak yang sedang stres berat, p
 
 "Sekarang, para guru yang kami muliakan..." tutur Dokter Arief dengan senyuman yang menyinari wajahnya. "Mari kita bedah keajaiban ilmiah dari metodologi pendidikan Nabawi yang diajarkan oleh Baginda Rasulullah SAW." Dokter Arief memaparkan dengan penuh semangat:
 
-"Ketika seorang murabbi membangunkan anak asuhnya dengan adab kenabian..." "Yaitu mengetuk pintu kamar dengan tiga kali ketukan lembut yang berirama..." "Mengucapkan salam dengan nada suara bas yang menyejukkan jiwa..."
-
-"Menyalakan lampu tidur temaram berwarna kuning hangat..." "Dan mengelus pundak anak dengan sentuhan kasih sayang seorang ayah kandung..." "Apakah yang sesungguhnya terjadi di dalam sistem saraf dan biokimia otaknya?"
-
-Dokter Arief mengklik animasi yang memperlihatkan pelepasan hormon-hormon kebaikan di dalam otak anak: Pertama, rangsangan sensorik yang menenangkan tersebut mengaktifkan saraf **Vagus (*The Vagus Nerve*)** dan sistem saraf parasimpatik (*The Parasympathetic Nervous System*). Saraf parasimpatik seketika melepaskan *Neurochemical Cocktail* alami yang menyehatkan:
+"Ketika seorang murabbi membangunkan anak asuhnya dengan adab kenabian..." "Yaitu mengetuk pintu kamar dengan tiga kali ketukan lembut yang berirama..." "Mengucapkan salam dengan nada suara bas yang menyejukkan jiwa..." "Menyalakan lampu tidur temaram berwarna kuning hangat..." "Dan mengelus pundak anak dengan sentuhan kasih sayang seorang ayah kandung..." "Apakah yang sesungguhnya terjadi di dalam sistem saraf dan biokimia otaknya?" Dokter Arief mengklik animasi yang memperlihatkan pelepasan hormon-hormon kebaikan di dalam otak anak: Pertama, rangsangan sensorik yang menenangkan tersebut mengaktifkan saraf **Vagus (*The Vagus Nerve*)** dan sistem saraf parasimpatik (*The Parasympathetic Nervous System*). Saraf parasimpatik seketika melepaskan *Neurochemical Cocktail* alami yang menyehatkan:
 
 Hormon pertama adalah **Oksitosin (*The Love & Trust Hormone*)**. Hormon oksitosin membangun rasa aman dasar (*Basic Trust*) dan memperkuat ikatan cinta spiritual antara santri dan pengasuh. Hormon kedua adalah **Endorfin dan Serotonin**.
 
@@ -28,11 +24,7 @@ $$\text{الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُو�
 
 Kyai Hasyim menatap Ustadz Salman dan seluruh asatidz dengan pandangan penuh cahaya kemuliaan: "Salman... Sahabat-sahabatku para pejuang asrama...
 
-Lihatlah bagaimana sains modern membuktikan kebenaran kalamullah!" "**Thuma'ninah** adalah obat penyembuh saraf yang paling mujarab ciptaan Allah." "Ketenangan batin adalah syarat mutlak bagi masuknya nur ilmu ke dalam dada penuntut ilmu."
-
-"Ketika kamu mengubah asramamu menjadi oase thuma'ninah yang dipenuhi dzikir, senyuman, dan kelembutan kasih sayang..." "Anak-anak asuhmu akan tumbuh menjadi ksatria peradaban yang berotak jenius, berhati lembut, dan berjiwa baja!" Ustadz Salman menundukkan kepalanya, menyatukan kedua telapak tangannya di depan dada.
-
-Rasa syukur dan haru yang tak terhingga membuncah di dalam dadanya. Malam kegelapan metodologi masa lalu telah berlalu; fajar baru sintesis agung antara kemuliaan kitab kuning turats dan kecanggihan sains neurosains modern telah menyingsing terang benderang di ufuk Pesantren Darul Adab. Salman bertekad bulat untuk menghadirkan atmosfer thuma'ninah di setiap detik kehidupan Kamar Al-Farabi.
+Lihatlah bagaimana sains modern membuktikan kebenaran kalamullah!" "**Thuma'ninah** adalah obat penyembuh saraf yang paling mujarab ciptaan Allah." "Ketenangan batin adalah syarat mutlak bagi masuknya nur ilmu ke dalam dada penuntut ilmu." "Ketika kamu mengubah asramamu menjadi oase thuma'ninah yang dipenuhi dzikir, senyuman, dan kelembutan kasih sayang..." "Anak-anak asuhmu akan tumbuh menjadi ksatria peradaban yang berotak jenius, berhati lembut, dan berjiwa baja!" Ustadz Salman menundukkan kepalanya, menyatukan kedua telapak tangannya di depan dada. Rasa syukur dan haru yang tak terhingga membuncah di dalam dadanya. Malam kegelapan metodologi masa lalu telah berlalu; fajar baru sintesis agung antara kemuliaan kitab kuning turats dan kecanggihan sains neurosains modern telah menyingsing terang benderang di ufuk Pesantren Darul Adab. Salman bertekad bulat untuk menghadirkan atmosfer thuma'ninah di setiap detik kehidupan Kamar Al-Farabi.
 
 Salman menjabat erat tangan Dokter Arief dan mencium tangan Kyai Hasyim, bersiap memimpin revolusi thuma'ninah di seluruh asrama. Dokter Arief tersenyum puas melihat antusiasme para asatidz di ruang pertemuan. Ustadz Ridwan menuangkan kembali teh hangat ke cangkir para peserta diskusi.
 
@@ -101,3 +93,17 @@ Dokter Arief Rahman mengklik tombol presentasi di laptopnya, menampilkan grafik 
 Ustadz Salman mencatat setiap penjelasan Dokter Arief di buku tulisnya dengan penuh ketelitian. Salman memahami bahwa bentakan dan suara keras saat membangunkan santri fajar hari memicu pelepasan hormon kortisol beracun yang melumpuhkan memori kerja santri di madrasah. Salman bertekad untuk mengganti alarm gedoran seng dengan ketukan santun dan lantunan salam kenabian.
 
 Kyai Hasyim yang duduk di barisan depan mengangguk-angguk takzim menyadari betapa sempurnanya keselarasan antara wahyu Ilahi dan sains kauniyyah. Kiai menegaskan bahwa sains modern adalah pelayan setia bagi syariat Islam yang memperjelas hikmah di balik setiap perintah dan larangan agama. Integrasi keilmuan ini menjadi tiang pancang yang kokoh bagi manhaj pendidikan pesantren.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Salman dan Ustadz Burhan melangkah menyusuri koridor pesantren dengan senyuman hangat dan tutur kata yang santun. Mereka merasa bahagia melihat bagaimana santri-santrinya kini menyapa dengan takzim dan cinta yang tulus. Beban berat masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.

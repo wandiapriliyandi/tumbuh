@@ -80,11 +80,7 @@ Setiap santri di Pesantren Darul Adab kini melangkah dengan kepala tegak dan hat
 
 Dan kisah koper biru yang menangis telah ditutup dengan senyuman syukur yang tak akan pernah pudar sepanjang masa. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat, taufiq, dan hidayah-Nya yang tiada bertepi.
 
-Fajar baru peradaban pesantren telah merekah dengan sempurna, menyinari jalan menuju kemuliaan Insan Adabi yang sejati di bumi Pesantren Darul Adab.
-
-Semua jiwa bersimpuh dalam rasa syukur yang mendalam menyambut era baru pendidikan berbasis fitrah, adab, dan kasih sayang yang abadi.
-
-Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
+Fajar baru peradaban pesantren telah merekah dengan sempurna, menyinari jalan menuju kemuliaan Insan Adabi yang sejati di bumi Pesantren Darul Adab. Semua jiwa bersimpuh dalam rasa syukur yang mendalam menyambut era baru pendidikan berbasis fitrah, adab, dan kasih sayang yang abadi. Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
@@ -103,3 +99,7 @@ Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tata
 Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
 Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

@@ -8,11 +8,7 @@ $$\text{جَاءَ زَيْدٌ الْعَالِمُ}$$
 
 Burhan menoleh ke arah para santri sembari tersenyum ramah. "Siapa di antara ksatria kelas 7-A yang dapat menjelaskan kedudukan I'rob dari kata *Al-'Ālimu* pada kalimat di papan tulis?"
 
-Farhan dan beberapa santri lain mengangkat tangannya dengan penuh semangat.
-
-Namun pandangan mata Burhan tertuju pada sudut baris kedua—tempat Danang duduk sembari memandangi papan tulis dengan wajah yang sedikit ragu-ragu.
-
-Burhan tidak memaksa, melainkan memberikan dorongan lembut:
+Farhan dan beberapa santri lain mengangkat tangannya dengan penuh semangat. Namun pandangan mata Burhan tertuju pada sudut baris kedua—tempat Danang duduk sembari memandangi papan tulis dengan wajah yang sedikit ragu-ragu. Burhan tidak memaksa, melainkan memberikan dorongan lembut:
 
 "Danang... Bismillah, maukah kamu mencoba menganalisis kata *Al-'Ālimu* ini bersama Ustadz?"
 
@@ -20,12 +16,92 @@ Danang terkejut sejenak, lalu menelan ludahnya pelan. Dengan suara yang sedikit 
 
 "Kata *Al-'Ālimu* berkedudukan sebagai *Na'at* (sifat) dari kata *Zaidun*, Ustadz. Dan tanda I'rob-nya adalah *Dhammah* di huruf mim karena mengikuti *Man'ut*-nya yang berharakat dhammah."
 
-Ustadz Burhan tersenyum lebar, bertepuk tangan bangga, lalu menuliskan kalimat pujian di sudut atas papan tulis dengan spidol biru terang: **"Analisis Kaidah Sempurna dari Ananda Danang! ⭐"**.
+Ustadz Burhan tersenyum lebar, bertepuk tangan bangga, lalu menuliskan kalimat pujian di sudut atas papan tulis dengan spidol biru terang: **"Analisis Kaidah Sempurna dari Ananda Danang! ⭐"**. Burhan memberikan **Pujian Spesifik Berbasis Usaha (*Behavior-Specific & Process Praise*)**: "Masya Allah, luar biasa sekali, Danang! Penjelasanmu sangat presisi dan runtut: kamu tidak hanya menyebutkan hukum Na'at-nya, tetapi juga menjelaskan alasan harakat Dhammah-nya yang mengikuti kata Zaidun. Ustadz sangat bangga dengan ketelitian dan keberanianmu menjawab!"
 
-Burhan memberikan **Pujian Spesifik Berbasis Usaha (*Behavior-Specific & Process Praise*)**:
+Mendengar pujian spesifik dan melihat namanya ditulis indah di papan tulis, wajah Danang yang tadinya pucat seketika berseri-seri merah merona oleh kebahagiaan yang meluap di dalam dadanya. Penerapan **Rasio Apresiasi Emas 4:1** di kelas madrasah mengubah ruang belajar menjadi ladang penumbuh kepercayaan diri santri, membuktikan bahwa satu kalimat pujian tulus seorang guru mampu menyalakan api kecerdasan di dalam jiwa anak untuk selamanya.
 
-"Masya Allah, luar biasa sekali, Danang! Penjelasanmu sangat presisi dan runtut: kamu tidak hanya menyebutkan hukum Na'at-nya, tetapi juga menjelaskan alasan harakat Dhammah-nya yang mengikuti kata Zaidun. Ustadz sangat bangga dengan ketelitian dan keberanianmu menjawab!"
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
 
-Mendengar pujian spesifik dan melihat namanya ditulis indah di papan tulis, wajah Danang yang tadinya pucat seketika berseri-seri merah merona oleh kebahagiaan yang meluap di dalam dadanya.
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
 
-Penerapan **Rasio Apresiasi Emas 4:1** di kelas madrasah mengubah ruang belajar menjadi ladang penumbuh kepercayaan diri santri, membuktikan bahwa satu kalimat pujian tulus seorang guru mampu menyalakan api kecerdasan di dalam jiwa anak untuk selamanya.
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.
+
+Ustadz Burhan juga memberikan dorongan khusus bagi santri-santri yang biasanya pasif dan pemalu laksana Danang. Ketika Danang memberanikan diri membaca satu bait nadzom di depan kelas, Ustadz Burhan menyambutnya dengan tepuk tangan bangga dan senyuman lebar. Danang tersipu bahagia, merasakan keberanian barunya dihargai dengan penuh kemuliaan.
+
+Budaya saling mengapresiasi dan menghargai kelebihan sesama kawan merebak ke seluruh penjuru kelas. Santri-santri tidak lagi saling mengejek atau menertawakan kawan yang belum paham, melainkan saling menyemangati dan membantu. Kelas madrasah telah menjadi taman persemaian budi pekerti yang luhur.
+
+Penerapan Rasio Emas Apresiasi 4:1 di ruang kelas madrasah berhasil mengubah iklim belajar menjadi sangat dinamis dan positif. Ustadz Burhan secara konsisten memberikan empat kali apresiasi spesifik atas usaha dan kemajuan santri sebelum memberikan satu kali koreksi yang diperlukan. Apresiasi tulus ini menyalakan lentera motivasi intrinsik di dalam kalbu setiap murid.
+
+Di sudut papan tulis kelas, terdapat kolom Catatan Bintang Prestasi tempat nama-nama santri yang menunjukkan kemajuan belajar dicatat dengan kapur warna-warni. Ketika Farhan berhasil meng-i'rob kalimat sulit dengan sempurna, Ustadz Burhan memujinya di depan seluruh kelas: 'Mumtaz, Farhan! Pemahaman nahwumu sangat tajam dan logis!'
+
+Pujian spesifik dari sang guru membuat dada Farhan berdesir hangat oleh rasa syukur dan kebanggaan yang sehat. Farhan semakin termotivasi untuk mendalami kitab-kitab turats lanjutan dengan penuh kesungguhan. Pengakuan atas prestasi belajar melahirkan rasa percaya diri akademis yang kokoh.

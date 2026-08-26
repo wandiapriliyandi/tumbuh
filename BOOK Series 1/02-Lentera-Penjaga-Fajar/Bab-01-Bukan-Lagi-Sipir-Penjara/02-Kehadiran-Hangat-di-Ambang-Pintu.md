@@ -46,9 +46,7 @@ $$\text{إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ 
 
 > *"Sesungguhnya kelembutan itu tidaklah ada pada sesuatu melainkan ia akan memperindahnya, dan tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan memperburuknya."* (HR. Muslim)
 
-Fajar di Pesantren Darul Adab hari itu merekah dengan keindahan yang belum pernah dirasakan sebelumnya—fajar yang lahir dari ketukan kasih sayang, menghidupkan kembali fitrah suci di dalam dada para penuntut ilmu.
-
-Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
+Fajar di Pesantren Darul Adab hari itu merekah dengan keindahan yang belum pernah dirasakan sebelumnya—fajar yang lahir dari ketukan kasih sayang, menghidupkan kembali fitrah suci di dalam dada para penuntut ilmu. Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
 
 Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
 
@@ -101,3 +99,15 @@ Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasa
 Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
 
 Kyai Hasyim tersenyum sangat teduh memandang komplek asrama putra dari serambi ndalem. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh santri dan dewan asatidz yang sedang berjuang di jalan dakwah pendidikan. Transformasi peradaban ini menjadi mercusuar penunjuk arah bagi kebangkitan tarbiyah Islam modern.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

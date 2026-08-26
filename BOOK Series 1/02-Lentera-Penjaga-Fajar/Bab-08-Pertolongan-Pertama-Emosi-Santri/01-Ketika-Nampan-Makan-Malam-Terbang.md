@@ -16,9 +16,7 @@ Salman tidak berteriak membalas amarah Bagas. Ia berdiri pada jarak aman dua met
 
 Mendengar suara Salman yang stabil dan tidak membalas dengan ancaman fisik, gelombang amukan amigdala di otak Bagas perlahan kehilangan bahan bakar kepanikannya. Salman tidak langsung menghakimi atau menyuruh Bagas membersihkan nasi yang tumpah saat emosinya masih di puncak. Salman merangkul pundak Bagas dengan sentuhan yang mantap namun lembut, lalu membimbingnya melangkah keluar dari aula makan menuju gazebo luar yang sejuk untuk proses de-eskalasi emosional.
 
-Pengendalian krisis tanpa kekerasan berhasil menyelamatkan situasi dari pertumpahan darah, membuktikan bahwa ketenangan seorang murabbi mampu memadamkan api amarah yang paling membara sekalipun.
-
-Suatu malam di ruang makan asrama putra, terjadi insiden kecil saat seorang santri tak sengaja menyenggol nampan makan kawannya hingga terjatuh ke lantai. Suara denting nampan seng beradu lantai seketika menarik perhatian seluruh santri di ruangan. Ustadz Salman yang sedang bertugas segera melangkah mendekat dengan langkah yang tenang dan wajah yang rileks.
+Pengendalian krisis tanpa kekerasan berhasil menyelamatkan situasi dari pertumpahan darah, membuktikan bahwa ketenangan seorang murabbi mampu memadamkan api amarah yang paling membara sekalipun. Suatu malam di ruang makan asrama putra, terjadi insiden kecil saat seorang santri tak sengaja menyenggol nampan makan kawannya hingga terjatuh ke lantai. Suara denting nampan seng beradu lantai seketika menarik perhatian seluruh santri di ruangan. Ustadz Salman yang sedang bertugas segera melangkah mendekat dengan langkah yang tenang dan wajah yang rileks.
 
 Salman tidak membentak atau memarahi santri tersebut, melainkan mempraktikkan protokol pertolongan pertama emosi (emotional first aid). Salman membimbing kedua santri yang tegang untuk menarik nafas dalam-dalam melalui hidung dan menghembuskannya perlahan. Salman mengajak mereka mengambil air wudhu untuk memadamkan api amarah sesuai sunnah Nabi.
 
@@ -101,3 +99,7 @@ Kyai Hasyim yang menerima laporan insiden tersebut tersenyum sangat bangga atas 
 Suatu malam di ruang makan asrama putra, terjadi insiden kecil saat seorang santri tak sengaja menyenggol nampan makan kawannya hingga terjatuh ke lantai. Suara denting nampan seng beradu lantai seketika menarik perhatian seluruh santri di ruangan. Ustadz Salman yang sedang bertugas segera melangkah mendekat dengan langkah yang tenang dan wajah yang rileks.
 
 Salman tidak membentak atau memarahi santri tersebut, melainkan mempraktikkan protokol pertolongan pertama emosi (emotional first aid). Salman membimbing kedua santri yang tegang untuk menarik nafas dalam-dalam melalui hidung dan menghembuskannya perlahan. Salman mengajak mereka mengambil air wudhu untuk memadamkan api amarah sesuai sunnah Nabi.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

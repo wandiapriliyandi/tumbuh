@@ -107,3 +107,5 @@ Danang bangga melihat stiker bintang hijau di atas namanya di papan kamar asrama
 Faisal membantu Ilham merapikan lipatan sarung sholatnya di ranjang seberang dengan penuh kesabaran. Budaya saling membantu dan merawat kebersihan kamar telah menyatukan anak-anak dalam harmoni keluarga kecil yang hangat. Kamar Al-Farabi menjadi teladan standar kamar 5S percontohan bagi seluruh asrama putra.
 
 Penerapan standar kerapian 5S di Kamar Al-Farabi telah mengubah bilik asrama menjadi ruangan yang indah dan simetris. Dua puluh ranjang susun kayu jati tertata rapi dengan sprei biru laut yang ditarik kencang menggunakan teknik sudut rumah sakit (hospital corner). Selimut-selimut tidur dilipat rapi membentuk balok persegi empat di ujung kasur tanpa ada kerutan.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

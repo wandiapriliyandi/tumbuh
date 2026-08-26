@@ -101,3 +101,9 @@ Kyai Hasyim memimpin sholat Subuh berjamaah dengan lantunan ayat-ayat suci Al-Qu
 Lentera penjaga fajar di Pesantren Darul Adab akan terus menyala terang benderang menerangi kegelapan zaman dan memandu generasi muda Islam menuju kemuliaan adab kenabian. Dari bilik-bilik asrama yang bersahaja, tunas-tunas peradaban telah tumbuh menjadi pohon-pohon rindang yang berakar teguh di bumi dan menjulang tinggi ke langit. Perjalanan tarbiyah fitrah ini telah membuktikan bahwa cinta dan keteladanan adalah kekuatan abadi pembangun peradaban Islam.
 
 Segala puji bagi Allah Tuhan semesta alam atas segala kesempurnaan nikmat dan hidayah-Nya yang tiada bertepi. Pesantren Darul Adab melangkah dengan tegap menuju panggung kejayaan peradaban dunia, mencetak generasi Insan Adabi yang berilmu amaliah, berakhlak karimah, dan membawa rahmat bagi seluruh alam semesta hingga akhir zaman.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.

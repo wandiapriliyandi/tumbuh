@@ -104,3 +104,5 @@ Ustadz Ridwan memantau pergerakan santri di lapangan tengah sembari tersenyum ar
 Kehadiran hangat para musyrif di setiap sudut asrama menghadirkan rasa aman yang mendalam bagi seluruh santri. Ustadz Salman rutin menyapa anak-anak di koridor kamar dengan senyuman ramah dan menanyakan kabar kesehatan mereka. Sapaan hangat ini memecah jarak emosional dan membangun jembatan kepercayaan antara murid dan guru.
 
 Pada jam-jam transisi antara asrama dan madrasah, para pembina memberikan arahan-arahan halus (gentle prompts) dengan nada suara yang santun. Tidak ada lagi teriakan kasar atau ancaman hukuman di pengeras suara; anak-anak bergerak tertib karena memahami tanggung jawab waktu mereka sendiri.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

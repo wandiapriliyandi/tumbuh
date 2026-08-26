@@ -101,3 +101,9 @@ Ustadz Burhan dan Ustadz Ridwan saling berdiskusi tentang strategi pembelajaran 
 Kyai Hasyim memantau jalannya supervisi pendidik dari serambi ndalem dengan penuh rasa syukur. Kiai menegaskan bahwa memuliakan guru adalah kunci utama terbukanya pintu keberkahan ilmu bagi para penuntut ilmu. Pesantren Darul Adab berdiri kokoh di atas fondasi tata kelola yang profesional dan berlandaskan Maqashid Syari'ah.
 
 Kebijakan perlindungan kesejahteraan musyrif di Pesantren Darul Adab menjamin para pembina terlindungi dari risiko keletihan kronis (burnout). Setiap musyrif mendapatkan hak tidur malam minimal 7 jam dan jatah libur penuh satu hari dalam sepekan untuk berkumpul bersama keluarga. Kebugaran fisik dan mental guru menjadi prioritas utama lembaga demi menjaga kualitas pengasuhan.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.

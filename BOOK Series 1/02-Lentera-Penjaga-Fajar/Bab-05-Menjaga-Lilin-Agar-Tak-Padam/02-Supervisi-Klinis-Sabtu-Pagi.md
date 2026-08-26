@@ -101,3 +101,5 @@ Setiap Sabtu pagi, seluruh tim musyrif mengikuti sesi supervisi klinis dan penda
 Salman merasakan ketenangan batin yang luar biasa setelah mengikuti program pembinaan kesehatan mental pendidik. Salman merasa bahwa yayasan dan pimpinan pondok benar-benar hadir memuliakan dan menghargai keringat pengabdiannya. Rasa syukur ini melipatgandakan semangatnya untuk melayani santri dengan penuh kasih sayang.
 
 Ustadz Burhan dan Ustadz Ridwan saling berdiskusi tentang strategi pembelajaran kreatif di kelas madrasah. Sinergi yang harmonis antara wali kelas dan musyrif asrama menciptakan kesinambungan pembinaan karakter santri yang utuh. Lembaga yang sehat dan adil telah melahirkan guru-guru yang bahagia dan berenergi penuh.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

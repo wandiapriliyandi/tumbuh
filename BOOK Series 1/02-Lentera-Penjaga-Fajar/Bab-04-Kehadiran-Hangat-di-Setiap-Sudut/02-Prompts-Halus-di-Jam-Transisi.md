@@ -105,3 +105,5 @@ Kehadiran hangat para musyrif di setiap sudut asrama menghadirkan rasa aman yang
 Pada jam-jam transisi antara asrama dan madrasah, para pembina memberikan arahan-arahan halus (gentle prompts) dengan nada suara yang santun. Tidak ada lagi teriakan kasar atau ancaman hukuman di pengeras suara; anak-anak bergerak tertib karena memahami tanggung jawab waktu mereka sendiri.
 
 Farhan melangkah menuju kelas madrasah dengan hati yang riang dan dada yang lapang. Farhan merasa bahwa para ustadz di pondok adalah orang tua pengganti yang menyayangi dan melindunginya laksana anak kandung. Rasa nyaman ini membuat proses penuntutan ilmu terasa begitu indah dan penuh makna.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

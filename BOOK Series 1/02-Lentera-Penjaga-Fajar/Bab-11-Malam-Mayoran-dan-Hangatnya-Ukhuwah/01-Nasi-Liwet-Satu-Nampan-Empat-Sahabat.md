@@ -14,9 +14,7 @@ $$\text{يَا غُلَامُ، سَمِّ اللَّهَ، وَكُلْ بِي�
 
 Farhan mengambil nasi dari bagian nampan di hadapannya, lalu menyodorkan potongan ayam goreng terbaik ke arah Danang yang baru sembuh dari sakit. "Danang, ini makan ayamnya ya, biar badanmu cepat kuat kembali," tutur Farhan dengan senyum tulus. Danang menatap sahabatnya itu dengan air mata haru. "Terima kasih banyak, Farhan..."
 
-Makan bersama dalam satu nampan (*Communal Dining*) memiliki kekuatan magis dalam meruntuhkan sekat-sekat egoisme, mengajarkan seni mendahulukan saudara (*Itsar*), dan menyatukan empat hati anak manusia ke dalam satu ikatan persaudaraan yang suci karena Allah SWT.
-
-Malam Ahad di pelataran asrama putra Pesantren Darul Adab dipenuhi oleh aroma harum nasi liwet gurih dan sambal terasi buatan Pakde Darmo. Seluruh santri dari kelas tujuh hingga kelas dua belas duduk bersila melingkar di atas karpet terpal panjang untuk mengikuti tradisi mayoran makan bersama. Satu nampan seng besar dinikmati bersama oleh empat santri dari berbagai tingkatan kelas dalam kehangatan ukhuwah yang tulus.
+Makan bersama dalam satu nampan (*Communal Dining*) memiliki kekuatan magis dalam meruntuhkan sekat-sekat egoisme, mengajarkan seni mendahulukan saudara (*Itsar*), dan menyatukan empat hati anak manusia ke dalam satu ikatan persaudaraan yang suci karena Allah SWT. Malam Ahad di pelataran asrama putra Pesantren Darul Adab dipenuhi oleh aroma harum nasi liwet gurih dan sambal terasi buatan Pakde Darmo. Seluruh santri dari kelas tujuh hingga kelas dua belas duduk bersila melingkar di atas karpet terpal panjang untuk mengikuti tradisi mayoran makan bersama. Satu nampan seng besar dinikmati bersama oleh empat santri dari berbagai tingkatan kelas dalam kehangatan ukhuwah yang tulus.
 
 Farhan, Danang, Faisal, dan Mas Zaid duduk melingkar di satu nampan yang sama menikmati nasi liwet hangat dengan lauk tempe bacem dan ayam goreng. Mereka makan bersama sembari bercengkerama riang dan saling berbagi cerita lucu tentang pengalaman mondok mereka. Tidak ada sekat senioritas, tidak ada kasta; semua santri duduk sama rendah dan berdiri sama tinggi dalam naungan persaudaraan Islam.
 
@@ -101,3 +99,11 @@ Malam Ahad di pelataran asrama putra Pesantren Darul Adab dipenuhi oleh aroma ha
 Farhan, Danang, Faisal, dan Mas Zaid duduk melingkar di satu nampan yang sama menikmati nasi liwet hangat dengan lauk tempe bacem dan ayam goreng. Mereka makan bersama sembari bercengkerama riang dan saling berbagi cerita lucu tentang pengalaman mondok mereka. Tidak ada sekat senioritas, tidak ada kasta; semua santri duduk sama rendah dan berdiri sama tinggi dalam naungan persaudaraan Islam.
 
 Seusai makan bersama, Ustadz Salman dan Ustadz Ridwan membawakan kisah-kisah keteladanan para sahabat Nabi di depan lingkaran santri. Mereka menceritakan bagaimana keindahan persaudaraan kaum Muhajirin dan kaum Anshar di Madinah yang saling mencintai karena Allah SWT. Kisah-kisah mulia tersebut meneteskan keharuan dan mengobarkan api cinta ukhuwah di dalam dada seluruh santri.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

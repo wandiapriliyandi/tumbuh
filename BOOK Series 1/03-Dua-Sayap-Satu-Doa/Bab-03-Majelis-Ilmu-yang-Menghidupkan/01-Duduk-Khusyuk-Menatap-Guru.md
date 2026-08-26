@@ -2,28 +2,110 @@
 
 Pukul 07.05 pagi di dalam ruang kelas 7-A madrasah Pesantren Darul Adab. Ruangan berukuran delapan kali sembilan meter itu dipenuhi oleh aroma minyak kasturi yang lembut dan udara segar pegunungan yang mengalir melalui jendela-jendela kayu yang terbuka lebar.
 
-Dua puluh santri duduk bersila rapi di atas karpet hijau tebal di hadapan meja dampar kayu jati masing-masing.
-
-Sebelum memulai membuka kitab, Ustadz Burhan membimbing para santri mempraktikkan **Adab Majelis Ta'lim Nabawi (*The Prophetic Etiquette of Learning*)**.
-
-Burhan mengutip wasiat agung Imam Az-Zarnuji dalam kitab *Ta'lim al-Muta'allim Thariq at-Ta'allum*:
+Dua puluh santri duduk bersila rapi di atas karpet hijau tebal di hadapan meja dampar kayu jati masing-masing. Sebelum memulai membuka kitab, Ustadz Burhan membimbing para santri mempraktikkan **Adab Majelis Ta'lim Nabawi (*The Prophetic Etiquette of Learning*)**. Burhan mengutip wasiat agung Imam Az-Zarnuji dalam kitab *Ta'lim al-Muta'allim Thariq at-Ta'allum*:
 
 $$\text{مَا وَصَلَ مَنْ وَصَلَ إِلَّا بِالْحُرْمَةِ، وَمَا سَقَطَ مَنْ سَقَطَ إِلَّا بِتَرْكِ الْحُرْمَةِ}$$
 
 > *"Tidaklah seseorang meraih keberhasilan ilmu melainkan karena penghormatannya (terhadap ilmu dan guru), dan tidaklah seseorang jatuh terpuruk melainkan karena ia meninggalkan penghormatan tersebut."*
 
-Santri-santri duduk dengan postur tubuh tegak, kedua lutut bersila sempurna, kedua tangan diletakkan di atas paha dengan tenang, dan tatapan mata memandang wajah guru dengan pandangan penuh rasa takzim dan haus akan ilmu.
+Santri-santri duduk dengan postur tubuh tegak, kedua lutut bersila sempurna, kedua tangan diletakkan di atas paha dengan tenang, dan tatapan mata memandang wajah guru dengan pandangan penuh rasa takzim dan haus akan ilmu. Tidak ada santri yang menyandarkan punggungnya ke dinding dengan malas. Tidak ada santri yang menoleh ke kiri dan ke kanan tanpa keperluan.
 
-Tidak ada santri yang menyandarkan punggungnya ke dinding dengan malas. Tidak ada santri yang menoleh ke kiri dan ke kanan tanpa keperluan.
-
-Farhan menatap wajah Ustadz Burhan dengan fokus yang sangat tajam.
-
-Secara psikologi kognitif, postur tubuh yang tegak dan kontak mata yang terfokus (*Attentive Posture & Eye Tracking*) menstimulasi *Reticular Activating System (RAS)* di batang otak, menyaring gangguan distraksi lingkungan dan mengunci konsentrasi otak pada materi pembelajaran.
-
-Ketika Burhan melafalkan bait pertama *Matan Al-Ajurrumiyyah* dengan suara merdu dan berwibawa:
+Farhan menatap wajah Ustadz Burhan dengan fokus yang sangat tajam. Secara psikologi kognitif, postur tubuh yang tegak dan kontak mata yang terfokus (*Attentive Posture & Eye Tracking*) menstimulasi *Reticular Activating System (RAS)* di batang otak, menyaring gangguan distraksi lingkungan dan mengunci konsentrasi otak pada materi pembelajaran. Ketika Burhan melafalkan bait pertama *Matan Al-Ajurrumiyyah* dengan suara merdu dan berwibawa:
 
 $$\text{الْكَلَامُ هُوَ اللَّفْظُ الْمُرَكَّبُ الْمُفِيدُ بِالْوَضْعِ}$$
 
-Suara dua puluh santri menggemuruh serempak mengulang bait tersebut dengan kefasihan makhraj yang indah.
+Suara dua puluh santri menggemuruh serempak mengulang bait tersebut dengan kefasihan makhraj yang indah. Ruang kelas menjelma menjadi taman surga (*Raudhatul Jannah*) tempat ilmu wahyu dialirkan dari dada seorang guru yang ikhlas menuju sanubari murid-muridnya yang suci.
 
-Ruang kelas menjelma menjadi taman surga (*Raudhatul Jannah*) tempat ilmu wahyu dialirkan dari dada seorang guru yang ikhlas menuju sanubari murid-muridnya yang suci.
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.
+
+Farhan membuka kitab Matan Al-Ajurrumiyyah dengan membaca basmalah dan shalawat di dalam hatinya. Farhan menyimak setiap bait penjelasan kaidah nahwu yang disampaikan oleh gurunya dengan antusiasme yang tinggi. Akal budi Farhan yang tenang mampu menangkap keindahan struktur bahasa Arab dengan sangat cepat.
+
+Ustadz Burhan menjelaskan materi pelajaran dengan metode dialogis yang interaktif dan menyenangkan. Beliau mengajak para santri berpikir kritis dan mengaitkan kaidah bahasa Arab dengan ayat-ayat suci Al-Qur'an dalam kehidupan sehari-hari. Majelis ilmu menjadi arena penjelajahan intelektual dan spiritual yang mencerahkan nalar.
+
+Danang dan Faisal aktif mengajukan pertanyaan dan menjawab latihan soal di papan tulis dengan penuh rasa percaya diri. Tidak ada lagi rasa takut salah yang membelenggu kreativitas berpikir mereka. Pembelajaran yang memanusiakan murid telah membangkitkan potensi kecerdasan fitrah santri secara maksimal.
+
+Suasana majelis ilmu di kelas madrasah Pesantren Darul Adab dipenuhi oleh ketenteraman dan adab yang luhur. Seluruh santri duduk bersila dengan tegak menghadap guru, menatap wajah Ustadz Burhan dengan pandangan takzim dan penuh konsentrasi. Tidak ada santri yang bersandar malas ke dinding atau berbicara sendiri saat pelajaran berlangsung.
+
+Kitab-kitab turats dan buku catatan disusun dengan sangat rapi di atas meja kayu di hadapan masing-masing santri. Para santri diajarkan untuk memuliakan kitab ilmu dengan tidak meletakkannya di lantai atau menumpuk sembarangan. Menghormati sarana ilmu adalah pintu utama terbukanya rahasia pemahaman dan keberkahan ilmu.

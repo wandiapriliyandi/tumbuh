@@ -23,9 +23,7 @@ Bagas membasuh kedua telapak tangannya, berkumur-kumur, dan membasuh wajahnya de
 
 Salman tersenyum hangat seraya menepuk pundak Bagas. "Alhamdulillah, kamu telah berhasil mengendalikan dirimu, Bagas. Sekarang, mari kita melangkah bersama membersihkan tumpahan makanan tadi dan meminta maaf secara jantan kepada saudaramu."
 
-Pertolongan pertama emosi yang berbasis sunnah dan neurosains berhasil mengembalikan kendali moral santri, mengubah insiden ledakan amarah menjadi momentum pembelajaran kedewasaan batin yang berharga.
-
-Suatu malam di ruang makan asrama putra, terjadi insiden kecil saat seorang santri tak sengaja menyenggol nampan makan kawannya hingga terjatuh ke lantai. Suara denting nampan seng beradu lantai seketika menarik perhatian seluruh santri di ruangan. Ustadz Salman yang sedang bertugas segera melangkah mendekat dengan langkah yang tenang dan wajah yang rileks.
+Pertolongan pertama emosi yang berbasis sunnah dan neurosains berhasil mengembalikan kendali moral santri, mengubah insiden ledakan amarah menjadi momentum pembelajaran kedewasaan batin yang berharga. Suatu malam di ruang makan asrama putra, terjadi insiden kecil saat seorang santri tak sengaja menyenggol nampan makan kawannya hingga terjatuh ke lantai. Suara denting nampan seng beradu lantai seketika menarik perhatian seluruh santri di ruangan. Ustadz Salman yang sedang bertugas segera melangkah mendekat dengan langkah yang tenang dan wajah yang rileks.
 
 Salman tidak membentak atau memarahi santri tersebut, melainkan mempraktikkan protokol pertolongan pertama emosi (emotional first aid). Salman membimbing kedua santri yang tegang untuk menarik nafas dalam-dalam melalui hidung dan menghembuskannya perlahan. Salman mengajak mereka mengambil air wudhu untuk memadamkan api amarah sesuai sunnah Nabi.
 
@@ -104,3 +102,11 @@ Setelah kedua anak tenang, Salman membantu mereka membersihkan ceceran makanan d
 Insiden tersebut disaksikan oleh puluhan santri lain dengan rasa kagum atas ketenangan dan kebijaksanaan Ustadz Salman. Anak-anak belajar secara langsung bagaimana menyelesaikan konflik dan mengendalikan amarah dengan cara yang beradab. Disiplin positif telah menjadi budaya hidup yang dipraktikkan secara nyata di setiap detik kehidupan pondok.
 
 Kyai Hasyim yang menerima laporan insiden tersebut tersenyum sangat bangga atas kematangan emosi para musyrifnya. Kiai menegaskan bahwa menundukkan amarah dengan kelembutan adalah tanda kekuatan ksatria sejati. Pesantren Darul Adab terus memancarkan cahaya tarbiyah yang mendidik jiwa dengan penuh kemuliaan.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

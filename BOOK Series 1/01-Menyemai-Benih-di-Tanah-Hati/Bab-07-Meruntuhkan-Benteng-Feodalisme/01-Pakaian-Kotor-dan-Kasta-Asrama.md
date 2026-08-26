@@ -34,9 +34,7 @@ Tetesan air sabun terus mengalir membasahi lantai semen yang berlumut tipis. Di 
 
 Zaid bertekad untuk menghapus air mata adik-adik kelasnya mulai detik ini juga. Suasana di tempat cucian membeku dalam keheningan yang sarat dengan tekad perubahan. Sebuah era baru keadilan persaudaraan segera lahir dari tempat pencucian yang basah ini.
 
-Farhan menatap Mas Zaid dengan tatapan mata yang dipenuhi oleh harapan baru.
-
-Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
+Farhan menatap Mas Zaid dengan tatapan mata yang dipenuhi oleh harapan baru. Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
 
 Zaid berdiri di samping Farhan dan Danang, mengajari kedua adik asuhnya cara memeras sarung tenun yang basah dan melipat cucian dengan teknik yang benar agar tidak kusut. Kehangatan bimbingan Zaid menghadirkan senyuman ceria di wajah anak-anak yang dahulunya selalu dicekam rasa takut. Tradisi perpeloncoan yang keliru telah musnah digantikan oleh budaya saling membantu dan memuliakan sesama penuntut ilmu.
 
@@ -101,3 +99,7 @@ Di masjid utama, Kyai Hasyim mengesahkan Piagam Kesetaraan Martabat Santri yang 
 Farhan menatap Mas Zaid dengan rasa takzim dan cinta persaudaraan yang mendalam di dalam dadanya. Farhan merasa bahwa martabat kemanusiaannya sebagai penuntut Al-Qur'an kini dihormati dan dilindungi seutuhnya oleh lembaga pesantren. Pesantren Darul Adab telah menjelma menjadi rumah kedua yang aman, adil, dan penuh dengan keberkahan persaudaraan sejati.
 
 Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

@@ -30,9 +30,7 @@ Dalam waktu kurang dari sepuluh menit, seluruh dua puluh pasang sandal dan sepat
 
 Salman tertawa renyah sembari merangkul bahu Farhan dan Faisal. "Ingat anak-anakku," pesan Salman sembari menunjuk ke arah deretan sandal itu, "keindahan luar ini adalah cermin dari keindahan akhlak di dalam hatimu. Rawatlah keteraturan ini dengan cinta, bukan karena takut dihukum, melainkan karena Allah mencintai keindahan dalam segala hal."
 
-Pagi itu, pelajaran adab 5S pertama di asrama putra telah tertanam kokoh di dalam sanubari santri—bukan lewat sabetan rotan atau teriakan marah, melainkan lewat sentuhan keteladanan dan hikmah yang menyentuh kalbu.
-
-Jadwal aktivitas 24 jam asrama putra Pesantren Darul Adab kini ditata secara saintifik dan manusiawi. Setiap santri dijamin hak biologisnya untuk mendapatkan waktu tidur malam minimal 7 jam berkualitas tanpa gangguan piket malam. Penataan ritme sirkadian ini terbukti meningkatkan daya konsentrasi santri dan mempertajam memori hafalan Al-Qur'an.
+Pagi itu, pelajaran adab 5S pertama di asrama putra telah tertanam kokoh di dalam sanubari santri—bukan lewat sabetan rotan atau teriakan marah, melainkan lewat sentuhan keteladanan dan hikmah yang menyentuh kalbu. Jadwal aktivitas 24 jam asrama putra Pesantren Darul Adab kini ditata secara saintifik dan manusiawi. Setiap santri dijamin hak biologisnya untuk mendapatkan waktu tidur malam minimal 7 jam berkualitas tanpa gangguan piket malam. Penataan ritme sirkadian ini terbukti meningkatkan daya konsentrasi santri dan mempertajam memori hafalan Al-Qur'an.
 
 Farhan merapikan sandalnya di atas slot rak kayu kamar mandi tepat di atas garis kuning presisi. Garis pembatas kuning di lantai semen telah mengeliminasi kekacauan antrean dan pertengkaran santri yang selama ini sering terjadi. Rekayasa lingkungan fisik yang rapi melahirkan ketertiban batin yang alami dan menenteramkan jiwa.
 
@@ -101,3 +99,7 @@ Ustadz Salman mengamati kerapian rak sandal tersebut dengan senyuman bangga di b
 Danang melangkah keluar kamar mandi sembari membawa gayung dan handuk kecilnya dengan tertib. Danang meletakkan perlengkapan mandinya di dalam keranjang plastik masing-masing di bawah wastafel. Budaya tertib dan bersih telah mendarah daging menjadi kebiasaan alami para santri asrama.
 
 Di ruang istirahat musyrif, jadwal pembagian shift kerja tiga giliran telah berjalan dengan sangat adil dan teratur. Setiap musyrif mendapatkan hak istirahat tidur yang cukup dan jatah libur berkala untuk menyegarkan fisik dan pikiran. Kebugaran fisik para pembina melahirkan atmosfer pengasuhan yang bahagia, ramah, dan penuh kesabaran.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

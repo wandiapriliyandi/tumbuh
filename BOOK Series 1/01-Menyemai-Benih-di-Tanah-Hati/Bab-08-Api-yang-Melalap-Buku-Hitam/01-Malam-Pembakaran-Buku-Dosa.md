@@ -16,15 +16,9 @@ Salman berhenti tepat di samping drum besi pembakaran. Salman mengambil mikrofon
 
 Salman menarik nafas panjang, lalu berbicara dengan nada suara bas yang bergetar hebat di pengeras suara: "Bismillāhir-Raḥmānir-Raḥīm... Anak-anakku sekalian, para penuntut ilmu yang sangat Ustadz cintai..."
 
-"Malam ini, di bawah naungan langit malam Pesantren Darul Adab dan disaksikan oleh para malaikat Allah..." "Ustadz berdiri di hadapan kalian bukan lagi sebagai kepala keamanan yang garang." "Ustadz berdiri di sini sebagai seorang hamba yang penuh dosa, seorang guru yang memohon ampunan kepada Allah dan memohon maaf yang setulus-tulusnya kepada kalian semua."
+"Malam ini, di bawah naungan langit malam Pesantren Darul Adab dan disaksikan oleh para malaikat Allah..." "Ustadz berdiri di hadapan kalian bukan lagi sebagai kepala keamanan yang garang." "Ustadz berdiri di sini sebagai seorang hamba yang penuh dosa, seorang guru yang memohon ampunan kepada Allah dan memohon maaf yang setulus-tulusnya kepada kalian semua." Air mata Salman tumpah membasahi pipinya: "Maafkan Ustadz atas setiap bentakan kasar yang pernah merobek rasa percaya diri kalian..." "Maafkan Ustadz atas setiap sabetan rotan yang pernah melukai kulit dan batin kalian..." "Maafkan Ustadz atas setiap vonis dan label buruk yang pernah Ustadz torehkan di dalam buku hitam ini..." Salman mengangkat buku hitam tebal itu tinggi-tinggi ke udara agar dapat dilihat oleh seluruh santri. "Buku hitam ini adalah simbol dari kebangkrutan metodologi kekerasan kita di masa lalu!"
 
-Air mata Salman tumpah membasahi pipinya: "Maafkan Ustadz atas setiap bentakan kasar yang pernah merobek rasa percaya diri kalian..." "Maafkan Ustadz atas setiap sabetan rotan yang pernah melukai kulit dan batin kalian..."
-
-"Maafkan Ustadz atas setiap vonis dan label buruk yang pernah Ustadz torehkan di dalam buku hitam ini..." Salman mengangkat buku hitam tebal itu tinggi-tinggi ke udara agar dapat dilihat oleh seluruh santri. "Buku hitam ini adalah simbol dari kebangkrutan metodologi kekerasan kita di masa lalu!"
-
-"Buku ini telah mencatat dosa dan kekhilafan kalian, namun lupa mencatat kebaikan, potensi, dan air mata perjuangan kalian!" "Maka malam ini, atas izin dan bimbingan guru kita Kyai Hasyim, kita kubur dan kita musnahkan selamanya budaya penghakiman masa lalu ini dari bumi Darul Adab!" Salman menyalakan sebuah pemantik api obor kecil.
-
-Dengan gerakan tangan yang mantap dan khusyuk, Salman menyulutkan lidah api obor ke sabut kelapa di dalam drum besi. Api seketika berkobar menyala terang benderang, menerangi wajah-wajah ratusan santri di sekeliling lapangan. Salman meletakkan buku hitam tebal tersebut ke dalam kobaran api yang membakar di dalam drum.
+"Buku ini telah mencatat dosa dan kekhilafan kalian, namun lupa mencatat kebaikan, potensi, dan air mata perjuangan kalian!" "Maka malam ini, atas izin dan bimbingan guru kita Kyai Hasyim, kita kubur dan kita musnahkan selamanya budaya penghakiman masa lalu ini dari bumi Darul Adab!" Salman menyalakan sebuah pemantik api obor kecil. Dengan gerakan tangan yang mantap dan khusyuk, Salman menyulutkan lidah api obor ke sabut kelapa di dalam drum besi. Api seketika berkobar menyala terang benderang, menerangi wajah-wajah ratusan santri di sekeliling lapangan. Salman meletakkan buku hitam tebal tersebut ke dalam kobaran api yang membakar di dalam drum.
 
 *Fuuushhh!* Lidah api merah keemasan seketika menjilati dan membakar lembaran-lembaran kertas bertinta merah tersebut. Kertas-kertas catatan pelanggaran itu terbakar menjadi abu hitam yang beterbangan ke udara.
 
@@ -101,3 +95,13 @@ Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepa
 Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
 Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.

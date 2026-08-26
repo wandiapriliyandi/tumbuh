@@ -101,3 +101,7 @@ Farhan dan kawan-kawan sekamarnya membuka mata dengan tenang tanpa ada kepanikan
 Penerapan Rasio Emas Apresiasi 4:1 mendominasi seluruh aktivitas asrama dan madrasah. Untuk setiap satu teguran korektif yang terpaksa diberikan, para asatidz memberikan minimal empat kali pujian spesifik dan pengakuan tulus atas kebaikan santri. Papan bintang prestasi di kamar-kamar asrama penuh terisi stiker penghargaan, menyalakan api motivasi intrinsik di dalam dada setiap penuntut ilmu.
 
 Angka pelanggaran santri merosot tajam hingga lebih dari delapan puluh persen dalam tempo satu bulan. Anak-anak merasa dicintai, dihargai martabatnya, dan diakui eksistensinya sebagai calon-calon ulama dan pemimpin masa depan. Pesantren Darul Adab memancarkan aura bi'ah shalihah yang menyejukkan hati siapa pun yang menginjakkan kakinya di bumi pondok.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.

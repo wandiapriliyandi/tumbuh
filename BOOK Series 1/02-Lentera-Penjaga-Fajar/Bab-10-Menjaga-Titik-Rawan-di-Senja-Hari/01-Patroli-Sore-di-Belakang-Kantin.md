@@ -101,3 +101,5 @@ Pesantren melakukan rekayasa lingkungan fisik dengan mengubah gudang-gudang tua 
 Farhan dan Danang sering menghabiskan waktu sore di taman baca baru sembari membaca buku-buku kisah nabi dan ensiklopedia sains. Tempat yang dahulunya kusam dan menakutkan kini telah berubah menjadi oase literasi yang menyenangkan. Anak-anak asrama menikmati waktu luang mereka dengan kegiatan-kegiatan yang positif dan mendidik.
 
 Ustadz Salman menyapa anak-anak yang sedang membaca di taman dengan senyuman hangat dan membagikan kue kering. Interaksi positif antara pengasuh dan santri di ruang-ruang terbuka memperkuat ikatan persaudaraan dan rasa saling percaya. Komplek pesantren menjadi suaka yang aman dan membahagiakan bagi seluruh penuntut ilmu.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

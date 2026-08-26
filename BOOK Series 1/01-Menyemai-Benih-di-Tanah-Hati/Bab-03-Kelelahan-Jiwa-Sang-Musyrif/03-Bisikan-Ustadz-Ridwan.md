@@ -26,29 +26,19 @@ Ridwan mengalihkan pandangan matanya menatap sebilah rotan kuning di atas meja. 
 
 "Salman, adikku yang shalih..." bisik Ridwan dengan suara yang sangat pelan namun berbobot menusuk langsung ke relung sanubari Salman. "Sudah berminggu-minggu aku mengamati gerak-gerikmu dari kejauhan." "Aku melihatmu bekerja maraton siang dan malam tanpa pernah mengambil waktu istirahat yang cukup untuk jasadmu."
 
-Ridwan menghela nafas panjang penuh keharuan: "Tubuhmu yang kekar itu sudah berteriak kelelahan biologis, Salman." "Dan yang lebih parah, hatimu yang suci sedang menjerit kesakitan karena memaksakan diri memakai topeng kekerasan yang sesungguhnya bukan jati dirimu yang asli."
-
-Salman terdiam seribu bahasa. Tubuh Salman bergetar mendengar kalimat yang begitu tepat membedah luka batinnya yang paling dalam. Air mata yang sempat ia seka kini kembali menggenang deras di pelupuk matanya.
+Ridwan menghela nafas panjang penuh keharuan: "Tubuhmu yang kekar itu sudah berteriak kelelahan biologis, Salman." "Dan yang lebih parah, hatimu yang suci sedang menjerit kesakitan karena memaksakan diri memakai topeng kekerasan yang sesungguhnya bukan jati dirimu yang asli." Salman terdiam seribu bahasa. Tubuh Salman bergetar mendengar kalimat yang begitu tepat membedah luka batinnya yang paling dalam. Air mata yang sempat ia seka kini kembali menggenang deras di pelupuk matanya.
 
 Ridwan mengulurkan tangannya yang hangat, meletakkannya di atas pundak Salman yang tegap dan kokoh: "Salman... Dengarkan bisikan kakakmu ini baik-baik."
 
-"Rotan kuning di atas mejamu itu tidak membuatmu menjadi murabbi yang disegani dan dihormati oleh anak-anak asuhmu." "Rotan kuning itu sesungguhnya adalah tanda keputusasaan kita sebagai pendidik." "Rotan itu adalah bukti bahwa akal pedagogi kita telah buntu, kesabaran kita telah bangkrut, dan kita sedang lari dari tugas mulia meneladani kelembutan Rasulullah SAW."
-
-Ridwan menatap rotan itu dengan tatapan prihatin yang mendalam: "Anak-anak kelas tujuh yang menangis di kamar itu bukan musuh yang harus kamu taklukkan dengan senjata rotan, Salman." "Mereka adalah tunas-tunas fitrah suci titipan umat yang haus akan bimbingan, haus akan teladan, dan haus akan kasih sayang seorang ayah di perantauan."
-
-"Kekerasan fisik hanya akan melahirkan dua jenis manusia yang rusak: generasi penakut yang munafik, atau generasi pembangkang yang kebal dan berhati batu laksana iblis." Salman menundukkan kepalanya dalam-dalam, membiarkan air matanya menetes membasahi cangkir teh di tangannya. "Lalu... apa yang harus saya lakukan, Ustadz Ridwan?" rintih Salman dengan suara putus asa.
+"Rotan kuning di atas mejamu itu tidak membuatmu menjadi murabbi yang disegani dan dihormati oleh anak-anak asuhmu." "Rotan kuning itu sesungguhnya adalah tanda keputusasaan kita sebagai pendidik." "Rotan itu adalah bukti bahwa akal pedagogi kita telah buntu, kesabaran kita telah bangkrut, dan kita sedang lari dari tugas mulia meneladani kelembutan Rasulullah SAW." Ridwan menatap rotan itu dengan tatapan prihatin yang mendalam: "Anak-anak kelas tujuh yang menangis di kamar itu bukan musuh yang harus kamu taklukkan dengan senjata rotan, Salman." "Mereka adalah tunas-tunas fitrah suci titipan umat yang haus akan bimbingan, haus akan teladan, dan haus akan kasih sayang seorang ayah di perantauan." "Kekerasan fisik hanya akan melahirkan dua jenis manusia yang rusak: generasi penakut yang munafik, atau generasi pembangkang yang kebal dan berhati batu laksana iblis." Salman menundukkan kepalanya dalam-dalam, membiarkan air matanya menetes membasahi cangkir teh di tangannya. "Lalu... apa yang harus saya lakukan, Ustadz Ridwan?" rintih Salman dengan suara putus asa.
 
 "Saya merasa buntu... Saya merasa gagal menjadi pengasuh bagi mereka..." Ridwan tersenyum teduh, menepuk pundak Salman dengan penuh keyakinan dan kehangatan:
 
 "Kamu tidak gagal, Salman. Kamu hanya sedang tersesat di jalan metode yang salah. Dan malam ini, Allah sedang mengetuk pintu hatimu untuk kembali ke jalan yang lurus."
 
-Ridwan mendekatkan wajahnya dan membisikkan sebuah wasiat penting di telinga Salman: "Besok pagi, tepat selepas sholat Subuh dan wirid dhuha, datanglah menghadap ke serambi ndalem kediaman Kyai Hasyim." "Kyai Hasyim telah mengetahui kegelisahanmu.
+Ridwan mendekatkan wajahnya dan membisikkan sebuah wasiat penting di telinga Salman: "Besok pagi, tepat selepas sholat Subuh dan wirid dhuha, datanglah menghadap ke serambi ndalem kediaman Kyai Hasyim." "Kyai Hasyim telah mengetahui kegelisahanmu. Beliau sedang membuka lembaran kitab *Ihya' Ulumiddin* dan menyiapkan sebuah cetak biru transformasi agung yang akan menyembuhkan luka-luka asrama kita: **Ekosistem TUMBUH Pesantren**." "Pergilah menemui Kiai besok pagi, Salman. Letakkan rotanmu, bersihkan hatimu, dan dengarkanlah mutiara hikmah dari sang guru besar kita."
 
-Beliau sedang membuka lembaran kitab *Ihya' Ulumiddin* dan menyiapkan sebuah cetak biru transformasi agung yang akan menyembuhkan luka-luka asrama kita: **Ekosistem TUMBUH Pesantren**." "Pergilah menemui Kiai besok pagi, Salman. Letakkan rotanmu, bersihkan hatimu, dan dengarkanlah mutiara hikmah dari sang guru besar kita."
-
-Kata-kata bisikan Ustadz Ridwan di pos jaga malam itu laksana lentera terang yang menyala di tengah pekatnya kegelapan malam, menyiramkan embun kedamaian di atas tanah jiwa Salman yang telah lama gersang, dan membukakan pintu gerbang fajar pembaharuan bagi seluruh peradaban Pesantren Darul Adab.
-
-Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
+Kata-kata bisikan Ustadz Ridwan di pos jaga malam itu laksana lentera terang yang menyala di tengah pekatnya kegelapan malam, menyiramkan embun kedamaian di atas tanah jiwa Salman yang telah lama gersang, dan membukakan pintu gerbang fajar pembaharuan bagi seluruh peradaban Pesantren Darul Adab. Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
@@ -103,3 +93,13 @@ Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehi
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
 Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Salman dan Ustadz Burhan melangkah menyusuri koridor pesantren dengan senyuman hangat dan tutur kata yang santun. Mereka merasa bahagia melihat bagaimana santri-santrinya kini menyapa dengan takzim dan cinta yang tulus. Beban berat masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
+
+Danang dan Faisal duduk bersila di samping Farhan sembari membuka lembaran kitab suci Al-Qur'an dan kitab turats dengan penuh rasa hormat. Hubungan ukhuwah Islamiyyah yang tulus di antara para santri menjadi benteng pertahanan jiwa yang kokoh dalam menghadapi segala ujian belajar di perantauan.

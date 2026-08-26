@@ -107,3 +107,5 @@ Ridwan membedah akar masalah kecemasan Farhan secara bijak, bukan sekadar meliha
 Danang dan Faisal juga mendapatkan giliran pendampingan privat di Bilik Curhat secara berkala. Mereka merasa dihargai dan didengarkan suaranya sebagai manusia yang berharga di mata para guru. Bilik Curhat telah menjadi klinik penyembuhan jiwa yang mengembalikan senyuman cerah di wajah anak-anak asuh.
 
 Kyai Hasyim mengapresiasi keberadaan Bilik Curhat sebagai manifestasi nyata dari tugas pengasuhan islami yang memuliakan fitrah. Di tempat yang teduh ini, jeritan-jeritan sunyi santri didengarkan dan dirawat dengan penuh kasih sayang kenabian. Pesantren Darul Adab membuktikan komitmennya sebagai suaka perlindungan jiwa yang suci bagi generasi penerus peradaban.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.

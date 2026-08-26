@@ -105,3 +105,5 @@ Salman bersimpuh di atas karpet permadani ndalem, mencium punggung tangan sang K
 Mendengar suara lembut sang Kiai, air mata Salman seketika menggenang di pelupuk matanya yang merah. Salman merasakan seluruh ketegangan otot dan amarah yang menumpuk di dadanya selama berbulan-bulan mendadak luluh. Ia siap membuka telinga dan hatinya untuk menerima bimbingan ilmu dari sang mahaguru.
 
 Dialog bersejarah di serambi ndalem sore itu menjadi titik awal dari revolusi pengasuhan di Pesantren Darul Adab. Dari serambi kayu jati yang bersahaja ini, benih-benih ekosistem TUMBUH akan mulai dirumuskan untuk menggantikan rotan kekerasan dengan cahaya adab kenabian yang abadi.
+
+Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
