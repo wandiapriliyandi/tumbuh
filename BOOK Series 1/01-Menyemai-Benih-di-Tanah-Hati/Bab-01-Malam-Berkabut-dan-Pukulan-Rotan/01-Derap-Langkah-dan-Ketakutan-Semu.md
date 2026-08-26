@@ -1,179 +1,107 @@
 # Sub-Bab 1.1: Derap Langkah dan Ketakutan Semu
 
-Kabut tebal merayap perlahan turun dari puncak lereng perbukitan kapur yang mengelilingi lembah Pesantren Darul Adab.
+Kabut tebal merayap perlahan turun dari puncak lereng perbukitan kapur yang mengelilingi lembah Pesantren Darul Adab. Hawa dingin menusuk hingga ke sumsum tulang, menyelinap tanpa permisi melalui celah-celah genting tanah liat dan kisi-kisi jendela kayu asrama putra yang telah lapuk dimakan usia. Embun beku menempel pekat di atas teralis besi berkarat, mencair perlahan menjadi tetesan-tetesan air dingin yang jatuh berirama ke atas permukaan talang seng. Di kejauhan, lolongan anjing liar sesekali membelah kesunyian lembah yang mencekam, disusul suara gesekan dahan-dahan pohon bambu tua yang meliuk ditiup angin pegunungan.
 
-Hawa dingin menusuk hingga ke sumsum tulang, menyelinap tanpa permisi melalui celah-celah genting tanah liat dan kisi-kisi jendela kayu asrama putra yang telah lapuk dimakan usia.
+Di dalam komplek asrama putra berlantai dua tersebut, waktu seolah membeku dalam kegelapan yang pekat. Ratusan anak belia sedang terbaring lelap di atas kasur-kasur busa tipis mereka, mendekap selimut kumal demi menghalau gigilan udara malam yang menusuk pori-pori kulit. Jarum jam dinding di pos jaga pengasuhan tepat menunjukkan pukul 03.30 dini hari. Suasana sepertiga malam terakhir yang seharusnya menjadi panggung hening bagi para perindu sujud, mendadak berubah menjadi arena teror psikologis yang menyesakkan dada.
 
-Embun beku menempel pekat di atas teralis besi berkarat, mencair perlahan menjadi tetesan-tetesan air dingin yang jatuh berirama ke atas permukaan talang seng.
+Di ujung lorong lantai dua yang berlantai semen abu-abu, sebuah bayangan tinggi kurus melangkah mantap membelah pekatnya malam. Suara derap alas sepatu pantofel kulit sengaja dihentakkan keras dan berirama di atas lantai semen yang dingin: *Tuk! Tuk! Tuk!* Setiap ketukan tumit sepatu itu menggema di sepanjang koridor yang sempit, mengirimkan gelombang kecemasan bawah sadar ke setiap bilik kamar yang dilewatinya. Suara itu begitu akrab sekaligus begitu dibenci dan ditakuti oleh seluruh santri baru.
 
-Di kejauhan, lolongan anjing liar sesekali membelah kesunyian lembah yang mencekam, disusul suara gesekan dahan-dahan pohon bambu tua yang meliuk ditiup angin pegunungan.
+Itu adalah langkah kaki Ustadz Salman—pemuda berusia dua puluh empat tahun yang baru enam bulan memangku amanah sebagai kepala keamanan dan pengasuhan asrama putra. Di tangan kanan Salman, sebilah rotan kuning berdiameter dua sentimeter dengan panjang satu meter terayun-ayun seirama dengan langkah kakinya. Ujung rotan tersebut sesekali digesekkan ke permukaan dinding kapur yang kasar, menimbulkan suara derit tajam yang sanggup meremangkan bulu kuduk siapa pun yang mendengarnya. Di tangan kirinya, Salman menggenggam sebatang pipa besi bekas penyangga sapu yang dingin dan berat.
 
-Di dalam komplek asrama putra berlantai dua tersebut, waktu seolah membeku dalam kegelapan yang pekat.
+Wajah Salman tampak mengeras laksana pualam dalam keremangan cahaya bohlam lima watt di lorong. Rahangnya terkatup rapat, keningnya berkerut dalam, dan sorot matanya tajam memancarkan ketegangan yang dipaksakan. Bagi Salman, malam hari bukanlah saat untuk berlemah lembut atau bermunajat mesra; malam adalah arena perang pembuktian otoritas dan penegakan wibawa kekuasaan pengasuh di hadapan anak-anak asuhnya. Ia merasa memegang tanggung jawab moral yang teramat berat di pundaknya.
 
-Ratusan anak belia sedang terbaring lelap di atas kasur-kasur busa tipis mereka, mendekap selimut kumal demi menghalau gigilan udara malam yang menusuk pori-pori kulit.
+Salman menghentikan langkahnya tepat di depan pintu Kamar Al-Farabi—kamar berukuran enam kali tujuh meter yang dihuni oleh dua puluh santri baru kelas tujuh madrasah tsanawiyah. Pintu kamar itu terbuat dari seng tipis berbingkai kayu lapuk yang dicat hijau kusam. Salman tidak mengucap salam, tidak ada *Bismillah* yang terlantun lembut dari lisannya untuk menyapa para penuntut ilmu yang sedang tidur. Dengan satu ayunan tangan yang penuh tenaga kemarahan, pipa besi di tangan kirinya dihantamkan sekeras-kerasnya ke tengah daun pintu seng tersebut!
 
-Jarum jam dinding di pos jaga pengasuhan tepat menunjukkan pukul 03.30 dini hari.
+*BRAKKK! BRAKKK! BRAKKK!* Dentuman logam beradu seng memekakkan telinga, bergema laksana ledakan mortir di lorong yang sunyi. Pintu kamar bergetar hebat hingga debu-debu kapur berjatuhan dari kusen atas menimpa lantai. Belum sempat gema hantaman itu reda, Salman menendang daun pintu hingga terbuka membanting ke dinding. Suara engsel tua menjerit nyaring memecah keheningan dini hari.
 
-Suasana sepertiga malam terakhir yang seharusnya menjadi panggung hening bagi para perindu sujud, oase bagi para pencari ketenangan spiritual, mendadak berubah menjadi arena teror psikologis yang menyesakkan dada.
+"BANGUN SEMUANYA! BANGUN!" Suara bentakan Salman menggelegar dari ambang pintu, merobek paksa selaput tidur anak-anak yang tak berdaya. "Bocah-bocah pemalas! Mau jadi apa kalian kalau jam segini masih mendengkur seperti bangkai?!" Urat-urat leher Salman menonjol merah saat ia berteriak dengan nafas memburu. Ia melangkah masuk ke dalam kamar laksana seorang jenderal yang sedang menyerbu sarang musuh.
 
-Di ujung lorong lantai dua yang berlantai semen abu-abu, sebuah bayangan tinggi kurus melangkah mantap membelah pekatnya malam.
+Di ranjang susun tingkat bawah di sudut kamar yang paling gelap, Farhan terperanjat hebat. Tubuh anak laki-laki berusia dua belas tahun itu melonjak dari kasur tipisnya, seolah ada aliran listrik ribuan volt yang baru saja menyengat seluruh pembuluh darahnya. Jantungnya berdegup luar biasa kencang, memompa darah dengan kecepatan yang menyakitkan di balik rongga dadanya yang kurus. Nafas Farhan memburu pendek-pendek, dan kedua matanya membelalak liar menatap kegelapan dalam keadaan disorientasi total.
 
-Suara derap alas sepatu pantofel kulit sengaja dihentakkan keras dan berirama di atas lantai semen yang dingin.
+Secara neurobiologis, dentuman pipa besi dan suara bentakan itu langsung membakar **Amigdala** Farhan dalam hitungan 12 milidetik. Sinyal bahaya mutlak dikirimkan ke kelenjar adrenal, membanjiri aliran darahnya dengan hormon **Kortisol** dan **Adrenalin** secara masif. Prefrontal Cortex di dahinya seketika lumpuh dan terkunci rapat (*Cognitive Blackout*). Otak rasionalnya tidak sempat memproses apa yang sedang terjadi; tubuh kecilnya hanya tahu satu hal: ia sedang berada dalam ancaman bahaya fisik yang mematikan.
 
-*Tuk!
+Farhan berusaha bangkit berdiri, namun kedua lututnya bergetar hebat tanpa kendali. Kaki kanannya tersangkut di lipatan sarung kumalnya yang kusut, membuatnya terhuyung dan jatuh berlutut mencium lantai semen yang dingin dan kotor. Rasa ngilu menjalar dari tempurung lututnya yang membentur lantai keras. Di sekelilingnya, suasana Kamar Al-Farabi telah berubah menjadi kekacauan massal yang mengerikan.
 
-Tuk!
+Dua puluh anak berusia sebelas hingga tiga belas tahun itu berebut turun dari ranjang susun mereka dalam kepanikan luar biasa. Ada yang kepalanya membentur rangka ranjang kayu tingkat atas hingga menangis meringis. Ada yang tersandung tumpukan koper kaleng di lantai dan jatuh menimpa kawannya. Jeritan ketakutan, tangisan tertahan, dan deru nafas panik bercampur baur dengan debu pengap yang membubung di udara kamar.
 
-Tuk!*
+Di ranjang sebelah, Danang—bocah yatim piatu asal Banyumas yang baru dua pekan mondok—terpaku membatu di atas kasurnya (*Freeze Response*). Kedua matanya basah oleh air mata, memandang kosong ke arah pintu dengan bibir yang gemetar membiru. Tangannya mendekap guling lusuhnya erat-erat ke dadanya, seolah benda itu adalah benteng perlindungan terakhir dari amukan badai. Danang bahkan tidak mampu menggerakkan jemari kakinya untuk turun dari kasur.
 
-Setiap ketukan tumit sepatu itu menggema di sepanjang koridor yang sempit, mengirimkan gelombang kecemasan bawah sadar ke setiap bilik kamar yang dilewatinya.
+"Danang! Mau sampai kapan kamu melotot di situ?!" Salman melangkah mendekat dengan mata menyala murka. Tanpa ampun, bilah rotan kuning di tangan kanannya disabetkan ke tepi kasur busa: *CTARRR!* Ujung rotan menyapu ujung ibu jari kaki Danang, meninggalkan bekas bilur kemerahan yang perih membakar. "Turun! Ambil gayung dan lari ke sumur sekarang juga sebelum rotan ini mendarat di punggungmu!"
 
-Suara itu begitu akrab sekaligus begitu dibenci dan ditakuti oleh seluruh santri baru.
+Danang menjerit kecil, melempar gulingnya, lalu melompat turun dari ranjang dengan kaki pincang menahan perih. Ia menyambar gayung plastiknya yang retak di atas lemari, lalu berlari terbirit-birit keluar kamar dengan air mata yang tumpah membasahi pipinya yang kusam. Pemandangan itu disaksikan oleh Farhan yang masih berusaha bangkit dari lantai. Hati Farhan terasa diremas-remas melihat kawannya diperlakukan demikian.
 
-Itu adalah langkah kaki Ustadz Salman—pemuda berusia dua puluh empat tahun yang baru enam bulan memangku amanah sebagai kepala keamanan dan pengasuhan asrama putra.
+Farhan segera menyambar kain sarung kotak-kotak birunya yang tergeletak di lantai. Dengan tangan yang masih gemetar hebat, ia melilitkan sarung itu di pinggangnya secara asal-asalan. Ia meraih peci hitamnya yang penyok, lalu bergegas melangkah menuju pintu keluar kamar. Namun saat ia melewati ambang pintu tempat Salman berdiri berkacak pinggang, langkahnya tertahan oleh tatapan mata sang musyrif.
 
-Di tangan kanan Salman, sebilah rotan kuning berdiameter dua sentimeter dengan panjang satu meter terayun-ayun seirama dengan langkah kakinya.
+Salman menatap Farhan dari ujung kepala hingga ujung kaki dengan pandangan mencemooh. "Lihat caramu memakai sarung, Farhan! Miring dan berantakan seperti orang gila!" bentak Salman dengan suara bas yang tajam menusuk. "Kalian ini mau sholat menghadap Allah atau mau main sirkus?! Kalau besok Subuh masih lambat bangun seperti ini, kalian semua akan saya jemur di lapangan sampai matahari terik!"
 
-Ujung rotan tersebut sesekali digesekkan ke permukaan dinding kapur yang kasar, menimbulkan suara derit tajam yang sanggup meremangkan bulu kuduk siapa pun yang mendengarnya.
+Farhan menundukkan kepalanya sedalam-dalamnya, tidak berani menatap wajah sang ustadz walau sedetik pun. "N-nggih, Ustadz... Nyuwun sewu..." bisik Farhan dengan suara yang nyaris tak terdengar, tercekat di kerongkongannya yang kering. Ia buru-buru menyelinap melewati sisi tubuh Salman, melangkah cepat menyusuri koridor lantai dua menuju tangga beton.
 
-Di tangan kirinya, Salman menggenggam sebatang pipa besi bekas penyangga sapu yang dingin dan berat.
+Koridor lantai dua tampak remang-remang diselimuti kabut tipis yang merangsek masuk. Puluhan santri dari kamar-kamar lain juga sedang berlarian menuruni tangga beton dengan suara terompah kayu dan sandal jepit yang beradu panik: *Klotak! Klotak! Klotak!* Setiap anak berlari dengan ketakutan yang sama, saling mendahului demi menghindari amukan pembina yang sedang berpatroli di belakang mereka.
 
-Wajah Salman tampak mengeras laksana pualam dalam keremangan cahaya bohlam lima watt di lorong.
+Di ujung tangga lantai satu, seorang santri senior bernama Ilham—yang bertugas sebagai seksi keamanan kamar—berdiri dengan memegang buku sanksi bertinta merah. "Cepat! Cepat! Yang belum masuk shaf masjid dalam waktu lima menit namanya saya catat untuk takzir bersihkan septic tank!" seru Ilham dengan nada meniru kegarangan para ustadz pembina. Senioritas feodal telah mengajarkan anak-anak ini bahwa kekuasaan hanya bisa ditegakkan melalui ancaman dan intimidasi.
 
-Rahangnya terkatup rapat, keningnya berkerut dalam, dan sorot matanya tajam memancarkan ketegangan yang dipaksakan.
+Farhan berlari melintasi lapangan tengah komplek asrama yang basah oleh sisa embun malam. Angin pegunungan yang dingin meniup baju koko putihnya yang tipis, membuat tubuhnya menggigil hebat. Namun rasa dingin di kulitnya tidak sebanding dengan rasa dingin yang membekukan hatinya. Di dalam benak Farhan yang polos, sebuah pertanyaan besar bergolak tanpa jawaban: *Apakah ini jalan menuju ridha Allah yang dahulu dijanjikan oleh Ibu di rumah?*
 
-Bagi Salman, malam hari bukanlah saat untuk berlemah lembut atau bermunajat mesra; malam adalah arena perang pembuktian otoritas dan penegakan wibawa kekuasaan pengasuh di hadapan anak-anak asuhnya.
+Farhan teringat pelukan hangat Ibu Fatimah saat melepaskannya di teras rumah di desa enam pekan yang lalu. "Farhan anak lanangku yang shalih... Di pondok nanti kamu akan belajar adab para nabi, belajar Al-Qur'an, dan dirawat oleh para ustadz yang menyayangimu laksana anak sendiri," bisik Ibu Fatimah kala itu dengan senyuman tulus dan tetesan air mata doa. Mengapa janji manis itu kini terasa berbanding terbalik dengan kenyataan pahit yang ia hadapi setiap dini hari?
 
-Salman menghentikan langkahnya tepat di depan pintu Kamar Al-Farabi—kamar berukuran enam kali tujuh meter yang dihuni oleh dua puluh santri baru kelas tujuh madrasah tsanawiyah.
+Farhan tiba di depan tempat wudhu asrama putra yang terletak di samping kamar mandi umum. Tempat wudhu itu hanyalah sebuah kolam semen memanjang dengan sepuluh kran pipa besi yang mengucurkan air sumur pegunungan yang sangat dingin laksana es. Puluhan santri sedang berdesak-desakan berebut kran air, saling sikut dan saling dorong dalam suasana tegang. Tidak ada ketenangan, tidak ada adab, dan tidak ada kekhusyukan dalam berwudhu.
 
-Pintu kamar itu terbuat dari seng tipis berbingkai kayu lapuk yang dicat hijau kusam.
+Farhan menunggu gilirannya dengan berdiri di belakang Faisal—santri asal Madura yang terkenal bertemperamen keras. Faisal sedang membasuh mukanya dengan gerakan kasar dan tergesa-gesa, mengumpat pelan setiap kali ada cipratan air dari kawan di sampingnya yang mengenai sarungnya. "Jangan dorong-dorong! Mau saya pukul kepalamu?!" desis Faisal kepada santri di belakangnya dengan mata melotot merah.
 
-Salman tidak mengucap salam.
+Kekerasan yang diterima anak-anak ini dari para pembina telah merembes masuk ke dalam relung jiwa mereka, melahirkan pola interaksi sosial yang penuh agresivitas dan permusuhan (*Transferred Aggression*). Ketika anak-anak diperlakukan tanpa rasa hormat, mereka belajar untuk tidak menghormati orang lain. Ketika anak-anak dibentak dan dipukul, mereka meniru perilaku itu dan melampiaskannya kepada teman-teman sebaya yang lebih lemah.
 
-Tidak ada *Bismillah* yang terlantun lembut dari lisannya untuk menyapa para penuntut ilmu yang sedang tidur.
+Farhan akhirnya mendapatkan giliran kran wudhu setelah Faisal selesai. Ia memutar kran besi tersebut, lalu menadahkan kedua telapak tangannya. Air yang mengucur terasa membekukan kulit jemarinya yang mungil. Farhan membasuh mukanya sembari melafalkan niat wudhu, namun konsentrasi batinnya buyar oleh detak jantungnya yang masih berdegup kencang akibat bentakan Ustadz Salman tadi.
 
-Dengan satu ayunan tangan yang penuh tenaga kemarahan, pipa besi di tangan kirinya dihantamkan sekeras-kerasnya ke tengah daun pintu seng tersebut!
+Air wudhu membasahi pipi Farhan, berbaur dengan setetes air mata bening yang mengalir tanpa ia sadari dari sudut kelopak matanya. Farhan merasa sangat terasing, kesepian, dan terluka di tengah keramaian ratusan santri di sekelilingnya. Ia menyeka wajahnya dengan lengan baju koko, lalu membasuh kedua tangannya hingga ke siku dengan gerakan mekanis yang hampa rasa.
 
-*BRAKKK!
+Selesai berwudhu, Farhan bergegas melangkah menuju masjid utama Pesantren Darul Adab yang berjarak lima puluh meter dari tempat wudhu. Di pelataran masjid, lantai marmer putih terasa licin dan dingin membekukan telapak kakinya yang telanjang. Suara adzan Subuh pertama mulai berkumandang dari menara masjid, dilantunkan oleh seorang santri senior dengan nada *Bayati* yang syahdu namun terasa sayu di telinga Farhan.
 
-BRAKKK!
+Di dalam ruang utama masjid, ratusan santri telah duduk bersila di atas karpet hijau yang kusam. Namun alih-alih memanfaatkan waktu antara adzan dan iqamah untuk membaca Al-Qur'an atau berdzikir dengan thuma'ninah, sebagian besar santri tampak menundukkan kepala dengan kelopak mata yang terpejam berat menahan kantuk yang luar biasa. Tubuh-tubuh kecil mereka terkulai lelah setelah dibangunkan secara paksa dan mendadak oleh lonjakan adrenalin yang kini menyisakan keletihan saraf kronis.
 
-BRAKKK!*
+Di shaf paling belakang, beberapa musyrif asrama berdiri dengan memegang rotan di tangan masing-masing, mengawasi setiap jengkal gerakan santri dengan pandangan curiga. Jika ada santri yang kepalanya terkulai tertidur, musyrif tersebut akan melangkah mendekat dan menyenggol pundak anak itu dengan ujung rotannya secara kasar. Masjid yang suci dan mulia itu telah berubah fungsinya dari baitullah yang menenteramkan jiwa menjadi ruang pengawasan disiplin yang kaku dan mencekam.
 
-Dentuman logam memekakkan telinga seketika meledak di keheningan fajar, suaranya memantul berkali-kali di sepanjang dinding lorong asrama yang sempit laksana suara mortir yang meledak di dalam bunker perlindungan.
+Farhan mencari tempat duduk di shaf barisan tengah di samping Danang. Danang tampak duduk memeluk lututnya, menyembunyikan wajahnya di antara lipatan kain sarung. Farhan menyentuh lembut lengan Danang yang kurus. "Danang... Kaki kamu masih sakit?" bisik Farhan dengan nada prihatin.
 
-Suara dentuman itu merobek paksa lelapnya mimpi dua puluh anak belia yang tubuhnya masih remuk didera kelelahan aktivitas fisik dan mental seharian penuh.
+Danang mendongakkan kepalanya perlahan, menatap Farhan dengan mata yang sembab kemerahan. Ia mengangguk pelan sembari meringis: "Perih sekali, Farhan... Rotan Ustadz Salman tadi kena ujung kuku jempolku. Aku takut besok Subuh tidak bisa lari cepat lagi..." Suara Danang bergetar menahan tangis yang hendak meledak di dadanya.
 
-"Bangun!
+Farhan meremas jemari tangan Danang, berusaha memberikan kehangatan persaudaraan yang tak mampu diberikan oleh sistem pengasuhan asrama mereka. "Nanti ba'da Subuh, kita minta minyak tawon ke Mas Zaid ya di kamar pengurus. Mas Zaid orangnya baik, tidak suka memukul," bisik Farhan menenangkan. Danang mengangguk lemah, menarik nafas panjang yang tersendat-sendat.
 
-Bangun kalian semua anak-anak pemalas!" teriak Salman dengan suara menggelegar yang sengaja diparaukan agar terdengar garang.
+Iqamah Subuh akhirnya berkumandang merdu dari mimbar imam. Seluruh santri bangkit berdiri merapatkan shaf dengan gerakan yang lamban dan letih. Kyai Hasyim—sang pengasuh sepuh pesantren yang telah berusia tujuh puluh tahun—melangkah perlahan menuju mihrab imam dengan mengenakan jubah putih bersih dan surban hijau zamrud yang anggun. Wajah sang Kiai memancarkan keteduhan dan kewibawaan spiritual yang luar biasa, berbanding terbalik dengan aura ketegangan yang dibawa oleh para musyrif muda di shaf belakang.
 
-Pita suaranya bergetar hebat memuntahkan bentakan yang membakar udara malam.
+Kyai Hasyim membalikkan badannya menghadap makmum sebelum memulai sholat. Sorot mata sang Kiai yang jernih menyapu seluruh barisan santri yang berdiri di hadapannya. Kiai menatap wajah-wajah pucat para santri baru kelas tujuh di shaf tengah: mata-mata yang sembab oleh air mata, pundak-pundak yang membungkuk layu, dan ekspresi ketakutan yang tersirat di balik kepatuhan semu mereka.
 
-"Jangan biasakan diri tidur seperti bangkai busuk!" teriak Salman lagi, disusul tendangan keras ujung sepatunya ke bagian bawah pintu seng. *DUMMM!*
+Hati sang mahaguru bergetar pedih menangkap getaran jiwa anak-anak asuhnya. Kyai Hasyim yang menguasai kedalaman ilmu tasawuf dan hikmah tarbiyah salaf tahu persis bahwa ada sesuatu yang sangat keliru dalam cara para pembina asrama mengasuh generasi penerus peradaban ini. Sholat yang hendak didirikan di hadapannya bukanlah buah dari kerinduan cinta kepada Allah, melainkan buah dari kepatuhan yang dipaksakan oleh ancaman rotan.
 
-"Lima menit dari sekarang, siapa pun yang belum memegang gayung di bibir tempat wudhu, siap-siap berdiri telanjang kaki di tengah lapangan sampai waktu Dhuha tiba!"
+Kiai menarik nafas panjang yang dalam, lalu melafalkan perintah meluruskan shaf dengan suara bas yang sangat lembut dan menyejukkan sanubari:
 
-Di dalam Kamar Al-Farabi, kegelapan seketika pecah berkeping-keping oleh jeritan kaget, desah panik, dan tangisan tertahan.
+$$\text{سَوُّوا صُفُوفَكُمْ فَإِنَّ تَسْوِيَةَ الصَّفِّ مِنْ تَمَامِ الصَّلَاةِ، وَلَا تَخْتَلِفُوا فَتَخْتَلِفَ قُلُوبُكُمْ}$$
 
-Udara kamar yang pengap oleh aroma minyak angin kayu putih dan keringat anak-anak mendadak dipenuhi oleh getaran frekuensi ketakutan primal yang luar biasa dahsyat.
+> *"Luruskan dan rapatkanlah shaf-shaf kalian, karena sesungguhnya kerapian shaf adalah bagian dari kesempurnaan sholat. Dan janganlah kalian berselisih dalam barisan, niscaya akan berselisih dan tercerai-berai hati kalian."*
 
-Farhan, bocah laki-laki berusia dua belas tahun bertubuh kurus yang tidur di ranjang susun tingkat atas, terlonjak dari tidurnya hingga kepalanya membentur kasau kayu plafon kamar dengan keras.
+Kiai mengangkat kedua belah tangannya sejajar dengan telinga, lalu mengumandangkan takbiratul ihram dengan suara yang menggetarkan pilar-pilar masjid: *"Allāhu Akbar..."* Farhan mengangkat kedua tangannya mengikuti takbir sang imam. Namun di dalam sholatnya, pikiran Farhan terus melayang memikirkan bilur merah di kaki Danang, bentakan Ustadz Salman, dan koper birunya yang terkunci di kamar.
 
-*Duk!*
+Sepanjang rakaat pertama, Kyai Hasyim membaca surat Ar-Rahman dengan lantunan tartil yang sangat merdu dan menyayat kalbu. Setiap ayat yang dibacakan Kiai mengalun laksana embun penyejuk di tengah padang pasir yang tandus. Namun di shaf belakang, Salman berdiri sembari sesekali melirik ke arah anak-anak santri baru, memastikan tidak ada yang bergoyang atau tertidur saat ruku' dan sujud.
 
-Rasa sakit yang berdenyut di ubun-ubun kepalanya seketika kalah telak oleh rasa panik luar biasa yang membakar seluruh rongga dadanya.
+Ketika sholat Subuh usai dan salam terakhir diucapkan, seluruh santri melafalkan dzikir dan istighfar secara serentak. Farhan menadahkan kedua tangannya yang mungil, memejamkan mata, lalu memanjatkan doa dalam bahasa ibunya yang paling tulus. *"Ya Allah... Berikanlah hamba kekuatan untuk bertahan di pondok ini... Lindungilah hamba dan Danang dari sabetan rotan... Dan sampaikanlah rindu hamba kepada Ibu Fatimah di desa..."*
 
-Jantung Farhan berdegup sangat kencang tak beraturan, berdetak melebihi seratus empat puluh kali per menit, memompa darah dengan kecepatan yang membuat pandangannya kunang-kunang seketika.
+Dzikir pagi berlanjut dengan pembacaan wirid ratib yang panjang. Namun di sudut serambi luar masjid, Ustadz Salman telah berdiri menunggu dengan rotan kuningnya yang tersampir di pundak, siap mengawasi jalannya antrean sarapan pagi dan apel pagi madrasah. Ketegangan yang baru saja mereda di dalam masjid seketika kembali mencengkeram dada para santri saat mereka melangkah keluar pintu gerbang masjid.
 
-Secara neurobiologis, dentuman logam keras yang memekakkan telinga dan bentakan bernada tinggi itu langsung menghantam saraf sensorik talamus dan membanjiri saraf *Amigdala* di otak limbik Farhan hanya dalam tempo dua belas milidetik.
+Selepas sholat, Farhan menggandeng Danang menuju serambi kamar pengurus santri di lantai satu. Di sana, Zaid—Ketua Organisasi Santri kelas dua belas—sedang membaca kitab *Fathul Qorib* di atas dipan kayu kecil. Melihat Danang yang berjalan terpincang-pincang sembari meringis kesakitan, Zaid segera meletakkan kitabnya dan melangkah mendekat dengan tatapan prihatin.
 
-Otak purba Farhan mendeteksi ancaman kematian atau bahaya kekerasan fisik yang sangat nyata.
+"Kenapa kakimu, Danang?" tanya Zaid dengan suara yang lembut dan penuh perhatian. Danang menunduk malu, sementara Farhan menceritakan kejadian di kamar tadi saat Ustadz Salman menyabetkan rotan. Zaid menghela nafas panjang, menggelengkan kepalanya pelan, lalu mengambil botol minyak oles herbal dari dalam lemarinya.
 
-Sistem saraf simpatik di tubuhnya secara otomatis melepaskan hormon adrenalin dan kortisol dalam jumlah masif ke seluruh aliran darah, memicu respons bertahan hidup *Fight or Flight* (bertarung atau melarikan diri).
+Dengan penuh kehati-hatian dan kelembutan seorang kakak kandung, Zaid mengoleskan minyak herbal tersebut ke ujung jari kaki Danang yang memerah. Danang meringis sesaat karena sensasi hangat yang menjalar, namun rasa perihnya berangsur-angsur mereda. Zaid menepuk pundak Danang seraya tersenyum menguatkan: "Sabar ya, Danang... Mas Zaid akan bicarakan ini dengan para asatidz nanti. Kalian berdua harus tetap kuat dan rajin belajar."
 
-Nalar logis, kemampuan refleksi moral, dan memori jangka panjang di bagian *Prefrontal Cortex* Farhan lumpuh total dalam sekejap mata.
+Sentuhan hangat dan perhatian Zaid menghadirkan setitik cahaya harapan di tengah dinginnya suasana asrama pagi itu. Farhan dan Danang mengucapkan terima kasih dengan mencium tangan Zaid, lalu berjalan bersama menuju dapur umum pesantren. Di depan dapur, aroma nasi liwet gurih dan tempe goreng buatan Pakde Darmo mulai menyapa hidung mereka yang kelaparan.
 
-Yang tersisa di dalam benak anak belia itu hanyalah satu dorongan hewani yang panik: lari menyelamatkan diri dari ancaman cambukan rotan.
+Namun antrean sarapan pagi berlangsung dalam suasana yang kaku dan tegang. Puluhan santri berbaris memanjang membawa piring seng masing-masing di bawah tatapan tajam beberapa musyrif yang berjaga di samping meja pembagian makanan. Tidak ada obrolan riang, tidak ada tawa anak-anak yang wajar; semua anak menundukkan kepala dalam kepatuhan yang dipaksakan.
 
-Farhan melompat turun dari ranjang susun setinggi satu setengah meter tanpa tangga, kakinya mendarat keras di atas lantai semen dingin tanpa alas kaki.
+Farhan menerima sepiring nasi liwet hangat dengan sepotong tempe bacem dan sayur lodeh labu siam. Ia duduk bersila di sudut selasar makan bersama Danang dan Faisal, menikmati setiap suapan dengan lahap demi mengisi kembali tenaga tubuhnya yang terkuras. Di sampingnya, Faisal mengunyah makanannya sembari sesekali melirik sinis ke arah meja musyrif.
 
-Di lantai bawah kamar, pemandangan kacau balau tersaji laksana medan evakuasi bencana gempa bumi.
+"Suatu hari nanti, kalau aku sudah jadi senior, aku tidak akan mau disuruh-suruh atau dibentak seperti ini," bisik Faisal dengan nada geram yang tertahan. Farhan menatap wajah Faisal yang penuh kepahitan, menyadari bahwa benih-benih dendam telah mulai tumbuh di dalam hati kawan sebayanya. Sistem kekerasan yang mereka alami setiap hari secara perlahan sedang meracuni jiwa anak-anak suci ini tanpa disadari oleh para pendidiknya.
 
-Dua puluh anak saling bertubrukan dalam kegelapan yang pekat.
+Dari balkon lantai dua pos pengasuhan, Ustadz Salman berdiri memandang ribuan santri yang sedang sarapan di bawahnya. Hembusan angin fajar menyibak jubah putihnya yang kusut setelah semalaman berjaga tanpa tidur yang cukup. Matanya yang merah menatap sekeliling dengan perasaan campur aduk: ada rasa bangga karena asrama terlihat tertib dan tenang, namun di balik itu, terselip sebuah kekosongan batin yang menghantui relung jiwanya.
 
-Ada yang mencari sarungnya yang tersangkut di paku dinding, ada yang kakinya terbelit selimut sendiri, dan ada yang panik mencari peci hitamnya yang tercecer di kolong kasur.
+Salman merasakan bahwa anak-anak asuhnya mematuhinya bukan karena rasa hormat atau cinta, melainkan murni karena rasa takut akan rotan di tangannya. Setiap kali ia mendekat, tawa anak-anak langsung lenyap dan senyuman mereka membeku. Salman bertanya-tanya di dalam lubuk hatinya yang terdalam: *Apakah ketertiban semu yang dibangun di atas ketakutan ini benar-benar jalan tarbiyah yang diridhai oleh Allah dan Rasul-Nya?*
 
-"Mana gayung biruku?!
-
-Jangan diambil, itu punyaku!" teriak seorang anak bertubuh gemuk bernama Ilham sembari menangis histeris di dekat pintu.
-
-"Minggir kamu!
-
-Aku duluan keluar!
-
-Aku tidak mau punggungku dicambuk rotan lagi!" sahut santri lain sembari mendorong bahu Ilham tanpa belas kasihan.
-
-Ilham yang terdorong keras kehilangan keseimbangan, tubuhnya terjatuh tersandung tumpukan koper seng di dekat pintu.
-
-Lutut kanannya membentur sudut tajam lemari kayu hingga kulitnya robek dan mengeluarkan darah segar.
-
-Namun di tengah kepanikan masal yang mencekam itu, tak ada seorang pun kawannya yang berhenti untuk menolong atau sekadar menanyakan keadaannya.
-
-Rasa takut yang teramat sangat akan ancaman fisik telah mematikan empati alami di dalam dada anak-anak tersebut, menggantikannya dengan naluri hewani yang egoistis untuk menyelamatkan diri sendiri dari mara bahaya.
-
-Farhan berhasil meraih sarung kumalnya yang tergantung di kawat jemuran dalam kamar, lalu melompat melangkahi tubuh Ilham yang masih meringis kesakitan di lantai semen.
-
-Air mata dingin mulai mengaburkan pandangan mata Farhan.
-
-Nafasnya tersengal-sengal pendek di tenggorokannya yang tercekat.
-
-Di ambang pintu kamar yang terbuka lebar, Ustadz Salman berdiri berkacak pinggang di bawah temaram lampu lorong.
-
-Sorot mata Salman menatap anak-anak asuhnya yang berlari pontang-panting dengan pandangan dingin, angkuh, dan tak tersentuh oleh rasa belas kasihan sedikit pun.
-
-"Lari!
-
-Jangan jalan santai seperti putri keraton!" bentak Salman saat melihat langkah Farhan yang terhuyung-huyung di depannya karena pusing.
-
-*PLAKKK!*
-
-Ujung rotan kuning berdiameter dua sentimeter itu disabetkan sekuat tenaga ke lantai ubin semen tepat di samping tumit kaki telanjang Farhan.
-
-Suara lecutan angin yang tajam berpadu dengan suara hantaman rotan di atas semen membuat debu kapur beterbangan ke udara.
-
-Farhan memekik tertahan, melompat setinggi setengah jengkal karena terkejut luar biasa, lalu berlari sekencang-kencangnya menuruni tangga beton tanpa memedulikan kakinya yang menginjak kerikil tajam.
-
-Salman mendengus pelan, membetulkan letak peci hitamnya yang sedikit miring.
-
-Di dalam lubuk hatinya, terbit secercah rasa puas yang semu—sebuah kepuasan primitif atas kekuasaan yang berhasil ia tegakkan melalui rasa takut orang lain.
-
-"Beginilah cara mendidik laki-laki sejati," bisik Salman dalam hatinya, berusaha membungkam nuraninya yang sempat berbisik lirih menolak pemandangan kejam tersebut.
-
-"Kalau anak-anak ini tidak dikerasi sejak awal, mereka akan tumbuh menjadi generasi cengeng, lembek, dan pembangkang."
-
-Salman tidak menyadari bahwa ia baru saja mempertontonkan dan menyaksikan ilusi paling berbahaya dan paling merusak dalam dunia pendidikan Islam: **kepatuhan semu (*feigned compliance*)**.
-
-Anak-anak asuhnya bergegas bangun bukan karena merindukan perjumpaan suci dengan Sang Khaliq di sepertiga malam terakhir, bukan karena cinta pada sholat tahajjud, melainkan semata-mata karena dorongan hewani untuk menghindari rasa sakit fisik dari sabetan rotan pembina.
-
-Di tempat wudhu yang licin dan berlumut di samping masjid, Farhan membasuh mukanya dengan air sumur yang dingin menusuk tulang.
-
-Tangannya gemetar hebat saat membasuh kedua lengannya hingga ke siku.
-
-Air wudhu yang dingin itu bercampur dengan tetesan air mata hangat yang mengalir deras di pipinya yang tirus.
-
-Farhan menatap bayangan wajahnya di cermin buram yang retak di atas bak penampungan air.
-
-Wajah bocah dua belas tahun itu tampak begitu pucat pasi laksana mayat, kedua bola matanya memancarkan kepedihan dan kehampaan anak yang kehilangan rasa aman dasar (*Loss of Basic Trust*).
-
-Di dalam dada Farhan yang ringkih, sebuah perasaan baru mulai tumbuh dan membatu secara perlahan: rasa benci yang pekat—benci pada waktu fajar, benci pada suara derap sepatu pantofel di lorong, dan benci pada tempat yang sebelumnya dijanjikan oleh orang tuanya sebagai "taman surga tempat menuntut ilmu para nabi".
-
-Lonceng masjid berdentang tiga kali menandakan adzan Subuh tinggal sepuluh menit lagi.
-
-Farhan melangkah masuk ke dalam ruang utama masjid, merapatkan tubuhnya di barisan shaf paling belakang di balik sebuah pilar beton besar, berharap tubuhnya yang kurus tidak terlihat oleh pandangan mata para pembina keamanan asrama.
-
-Farhan mengangkat kedua tangannya sejajar telinga, melafalkan takbiratul ihram dengan bibir yang bergetar hebat: *"Allahu Akbar..."*
-
-Namun di dalam rongga kepalanya, suara takbir suci itu tenggelam oleh suara lecutan rotan kuning dan gedoran pipa besi yang terus berdengung menyiksa saraf pendengarannya.
-
-Hatinya beku, jiwanya terasing, dan kekhusyukan ibadahnya terkoyak oleh kepatuhan semu yang dipaksakan di atas penderitaan batin seorang anak manusia.
+Lonceng tanda masuk madrasah berdentang tiga kali di kejauhan, memecah lamunan Salman dan mengakhiri waktu sarapan pagi: *Teng... Teng... Teng!* Ratusan santri segera bangkit merapikan piring seng mereka, bergegas mengambil tas madrasah di kamar masing-masing untuk menyongsong pelajaran pagi. Hari baru di Pesantren Darul Adab telah dimulai, namun benih-benih krisis pengasuhan telah mencapai titik jenuh yang siap memantik revolusi pemikiran di bumi pesantren.

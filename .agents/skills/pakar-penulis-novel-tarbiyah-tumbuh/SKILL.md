@@ -11,8 +11,9 @@ Skill ini adalah protokol dan pedoman baku bagi agen dalam menulis seluruh naska
 
 ## 1. Kaidah Baku Format & Volume Penulisan Novel
 
-1. **Standar Mutu Volume Paragraf (50+ Paragraf Per Sub-Bab)**:
-   * Setiap sub-bab **wajib ditulis utuh sepanjang minimal 50 hingga 70+ paragraf narasi sastra penuh**.
+1. **Standar Mutu Volume Paragraf (50+ Paragraf Utuh Per Sub-Bab)**:
+   * Setiap sub-bab **wajib ditulis utuh sepanjang minimal 50 hingga 70+ paragraf sastra naratif yang tebal dan berisi**.
+   * **DILARANG KERAS MEMBUAT 1 PARAGRAF HANYA BERISI 1 KALIMAT**. Setiap paragraf wajib merupakan sebuah paragraf sastra utuh yang kaya dan mengalir, terdiri dari **3 hingga 6 kalimat naratif, deskriptif, dan dialogis** yang saling bertaut secara organis.
    * Dilarang keras membuat ringkasan singkat, sinopsis cepat, poin-poin ceklis kering, atau tulisan pendek berformat esai ringkas.
    * Setiap paragraf adalah kesatuan narasi visual, pergulatan emosional, dialog karakter, atau refleksi adab yang dipisahkan oleh *double newline* (`\n\n`).
 
