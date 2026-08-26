@@ -31,9 +31,10 @@ Dokumen ini adalah aturan induk (*Master Repository Rules*) yang mengikat seluru
 
 ---
 
-## 3. Dewan Keilmuan Aktif (24 Custom Skills di `.agents/skills/`)
+## 3. Dewan Keilmuan Aktif (25 Custom Skills di `.agents/skills/`)
 Gunakan skill spesialis yang sesuai saat merancang, menguji, dan mengaudit modul:
 - `pakar-penulis-monograf-tumbuh` (Master Author & Begawan Literasi: Penulisan Menggugah, Transformatif, Jelas, & Mengalir)
+- `pakar-penulis-novel-tarbiyah-tumbuh` (Skill Ke-25: Master Novelis Tarbiyah Pesantren, Sastra Naratif Sinematik 50+ Paragraf Per Sub-Bab untuk Serial 12 Buku)
 - `pakar-filosofi-tumbuh` & `pakar-epistemologi-turats`
 - `pakar-pbis` & `pakar-arsitektur-pbis-restoratif`
 - `pakar-social-emotional-learning` & `pakar-neurosains-perkembangan`
