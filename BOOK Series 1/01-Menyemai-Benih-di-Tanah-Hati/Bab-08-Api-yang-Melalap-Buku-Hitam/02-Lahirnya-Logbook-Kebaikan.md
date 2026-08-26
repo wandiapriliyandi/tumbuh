@@ -1,109 +1,103 @@
 # Sub-Bab 8.2: Lahirnya Logbook Kebaikan
 
-Setelah lembaran-lembaran buku hitam masa lalu hangus terbakar menjadi abu di dalam drum besi pembakaran.
+Setelah lembaran-lembaran buku hitam masa lalu hangus terbakar menjadi abu di dalam drum besi pembakaran. Kyai Hasyim bangkit berdiri dari kursi duduknya di barisan depan. Langkah kaki sang guru besar tampak sangat tenang, anggun, dan memancarkan cahaya wibawa kenabian.
 
-Kyai Hasyim bangkit berdiri dari kursi duduknya di barisan depan.
+Kiai melangkah maju ke tengah lapangan mendekati Ustadz Salman yang masih berdiri di samping drum api. Di kedua belah tangannya, Kyai Hasyim membawa sebuah buku baru berukuran tebal bersampul kain beludru hijau toska yang sangat indah. Di bagian sampul depan buku beludru hijau tersebut, terukir lambang kaligrafi emas bertuliskan: **Buku Logbook Apresiasi & Catatan Kebaikan Santri (*The Pastoral Virtue Logbook of TUMBUH*)**.
 
-Langkah kaki sang guru besar tampak sangat tenang, anggun, dan memancarkan cahaya wibawa kenabian.
+Kyai Hasyim mengangkat buku hijau toska tersebut ke hadapan seluruh santri dan asatidz. Kiai menyerahkannya dengan penuh rasa takzim ke dalam kedua telapak tangan Ustadz Salman. Kyai Hasyim memegang pundak Salman seraya bersabda dengan suara yang menggetarkan sanubari:
 
-Kiai melangkah maju ke tengah lapangan mendekati Ustadz Salman yang masih berdiri di samping drum api.
+"Salman, muridku..." dawuh Kiai dengan nada suara yang penuh kehangatan. "Malaikat di sebelah kananmu mencatat setiap butir amal kebaikan hamba-hamba Allah dengan tinta emas yang abadi di Lauhul Mahfuzh." "Mulai malam ini, jadikanlah buku baru bersampul hijau ini sebagai cermin dari tugas mulia malaikat pencatat kebaikan."
 
-Di kedua belah tangannya, Kyai Hasyim membawa sebuah buku baru berukuran tebal bersampul kain beludru hijau toska yang sangat indah.
+"Tutuplah matamu dari mencari-cari aib dan kesalahan santrimu." "Dan bukalah selebar-lebarnya mata hatimu untuk melihat, mencatat, dan mengapresiasi setiap kebaikan kecil yang mereka lakukan di setiap detik kehidupan asrama!" Kiai menjelaskan struktur instrumen pencatatan di dalam **Buku Logbook Kebaikan** yang berbasis pada sistem ilmiah **Positive Behavioral Interventions and Supports (SW-PBIS Multi-Tier)**:
 
-Di bagian sampul depan buku beludru hijau tersebut, terukir lambang kaligrafi emas bertuliskan: **Buku Logbook Apresiasi & Catatan Kebaikan Santri (*The Pastoral Virtue Logbook of TUMBUH*)**.
+Kolom pertama adalah **Milestone Karakter & Kemandirian Adab**. Di kolom ini, musyrif mencatat setiap capaian bertahap santri dalam mempraktikkan sepuluh kapasitas fitrah dan kemandirian hidup asrama: Ketika seorang santri berhasil bangun fajar sendiri tanpa dibangunkan oleh musyrif.
 
-Kyai Hasyim mengangkat buku hijau toska tersebut ke hadapan seluruh santri dan asatidz.
+Ketika santri mampu melipat selimut dan menata lemarinya rapi sesuai standar 5S. Ketika santri disiplin meletakkan sandalnya tepat di atas garis kuning kamar mandi. Kolom kedua adalah **Aksi Nyata Ukhuwah & Kepedulian Sosial**.
 
-Kiai menyerahkannya dengan penuh rasa takzim ke dalam kedua telapak tangan Ustadz Salman.
+Di kolom ini, musyrif mencatat setiap inisiatif spontan santri dalam menolong sesama saudaranya: Membantu meminjamkan sabun kepada kawan yang kehabisan saat antrean mandi. Menemani kawan sekamar yang sedang sakit demam di ranjang asrama.
 
-Kyai Hasyim memegang pundak Salman seraya bersabda dengan suara yang menggetarkan sanubari:
+Membantu menyapu lantai serambi masjid tanpa disuruh oleh pengasuh. Kolom ketiga adalah **Catatan Refleksi & Pendampingan Penuh Kasih (*Pastoral Counseling Notes*)**. Jika ada santri yang mengalami kesulitan emosional atau melakukan kekhilafan perilaku, kolom ini tidak digunakan untuk mencatat vonis hukuman atau skor minus.
 
-"Salman, muridku..." dawuh Kiai dengan nada suara yang penuh kehangatan.
+Kolom ini digunakan oleh musyrif dan wali kelas untuk merumuskan rencana pendampingan suportif (*Supportive Behavior Intervention Plan*): Sesi dialog hati ke hati (*Check-In / Check-Out - CICO Tier 2*). Bimbingan pemulihan hubungan (*Restorative Restitution*).
 
-"Malaikat di sebelah kananmu mencatat setiap butir amal kebaikan hamba-hamba Allah dengan tinta emas yang abadi di Lauhul Mahfuzh."
+Dan doa khusus yang dipanjatkan musyrif di sepertiga malam untuk santri tersebut. Farhan menatap buku bersampul hijau toska di tangan Ustadz Salman dengan mata yang berbinar-binar penuh sukacita. Farhan merasa bahwa mulai malam ini, setiap usaha kecilnya untuk berbuat baik akan dihargai dan dicintai oleh para gurunya.
 
-"Mulai malam ini, jadikanlah buku baru bersampul hijau ini sebagai cermin dari tugas mulia malaikat pencatat kebaikan."
+Lahirnya Buku Logbook Kebaikan ini menandai transformasi kultural paling revolusioner di Pesantren Darul Adab. Pesantren telah beralih dari budaya pengintaian kesalahan (*Deficit & Punishment-Oriented Culture*) menuju budaya penyemaian kebaikan dan apresiasi fitrah (*Strength-Based & Growth-Oriented Culture*). Ustadz Salman memeluk erat buku logbook hijau tersebut di dadanya, berjanji untuk menjaganya sebagai amanah suci pencatat amal kebaikan santri.
 
-"Tutuplah matamu dari mencari-cari aib dan kesalahan santrimu."
+Salman membuka lembaran pertama Buku Logbook Kebaikan dengan jemari yang bergetar takzim. Kertas putih bersih bergaris emas di dalamnya siap diisi dengan jutaan catatan amal shalih. Kiai Hasyim menatap para musyrif dengan tatapan penuh kepercayaan dan kasih sayang.
 
-"Dan bukalah selebar-lebarnya mata hatimu untuk melihat, mencatat, dan mengapresiasi setiap kebaikan kecil yang mereka lakukan di setiap detik kehidupan asrama!"
+Para pembina asrama bertekad menjadi saksi-saksi kebaikan bagi anak-anak asuh mereka. Farhan tersenyum menatap buku hijau toska itu dari barisan shaf santri kelas tujuh. Danang di sampingnya ikut tersenyum lebar, merasakan semangat baru untuk berbuat baik.
 
-Kiai menjelaskan struktur instrumen pencatatan di dalam **Buku Logbook Kebaikan** yang berbasis pada sistem ilmiah **Positive Behavioral Interventions and Supports (SW-PBIS Multi-Tier)**:
+Sistem SW-PBIS telah resmi bersemi di tanah asrama Pesantren Darul Adab. Apresiasi positif menjadi bahasa cinta baru yang dituturkan di setiap sudut pondok. Malaikat di langit mencatat peristiwa agung ini sebagai amal jariyah yang abadi.
 
-Kolom pertama adalah **Milestone Karakter & Kemandirian Adab**.
+Buku hijau toska itu dipeluk erat oleh Salman sebagai lambang amanah tarbiyah baru. Seluruh santri bertepuk tangan riang menyambut lahirnya lembaran kebaikan tersebut. Malam di lapangan tengah asrama menjadi malam paling bersejarah bagi peradaban Darul Adab.
 
-Di kolom ini, musyrif mencatat setiap capaian bertahap santri dalam mempraktikkan sepuluh kapasitas fitrah dan kemandirian hidup asrama:
+Ustadz Salman memeluk buku logbook hijau itu dengan penuh keharuan di dada. Di sekeliling lapangan, para santri saling berpandangan dengan senyuman cerah di wajah. Buku catatan kebaikan ini menjadi saksi dari setiap langkah perjuangan santri dalam beradab.
 
-Ketika seorang santri berhasil bangun fajar sendiri tanpa dibangunkan oleh musyrif.
+Malaikat di langit menyambut gembira perubahan arah tarbiyah di Pesantren Darul Adab. Fajar baru yang penuh kasih sayang telah resmi menyingsing di ufuk timur pesantren. Pohon kebaikan yang disemai malam ini akan berbuah manis di masa depan kelak.
 
-Ketika santri mampu melipat selimut dan menata lemarinya rapi sesuai standar 5S.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Ketika santri disiplin meletakkan sandalnya tepat di atas garis kuning kamar mandi.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Kolom kedua adalah **Aksi Nyata Ukhuwah & Kepedulian Sosial**.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Di kolom ini, musyrif mencatat setiap inisiatif spontan santri dalam menolong sesama saudaranya:
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Membantu meminjamkan sabun kepada kawan yang kehabisan saat antrean mandi.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Menemani kawan sekamar yang sedang sakit demam di ranjang asrama.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Membantu menyapu lantai serambi masjid tanpa disuruh oleh pengasuh.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Kolom ketiga adalah **Catatan Refleksi & Pendampingan Penuh Kasih (*Pastoral Counseling Notes*)**.
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Jika ada santri yang mengalami kesulitan emosional atau melakukan kekhilafan perilaku, kolom ini tidak digunakan untuk mencatat vonis hukuman atau skor minus.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Kolom ini digunakan oleh musyrif dan wali kelas untuk merumuskan rencana pendampingan suportif (*Supportive Behavior Intervention Plan*):
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Sesi dialog hati ke hati (*Check-In / Check-Out - CICO Tier 2*).
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Bimbingan pemulihan hubungan (*Restorative Restitution*).
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Dan doa khusus yang dipanjatkan musyrif di sepertiga malam untuk santri tersebut.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Farhan menatap buku bersampul hijau toska di tangan Ustadz Salman dengan mata yang berbinar-binar penuh sukacita.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Farhan merasa bahwa mulai malam ini, setiap usaha kecilnya untuk berbuat baik akan dihargai dan dicintai oleh para gurunya.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Lahirnya Buku Logbook Kebaikan ini menandai transformasi kultural paling revolusioner di Pesantren Darul Adab.
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Pesantren telah beralih dari budaya pengintaian kesalahan (*Deficit & Punishment-Oriented Culture*) menuju budaya penyemaian kebaikan dan apresiasi fitrah (*Strength-Based & Growth-Oriented Culture*).
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Ustadz Salman memeluk erat buku logbook hijau tersebut di dadanya, berjanji untuk menjaganya sebagai amanah suci pencatat amal kebaikan santri.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Salman membuka lembaran pertama Buku Logbook Kebaikan dengan jemari yang bergetar takzim.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Kertas putih bersih bergaris emas di dalamnya siap diisi dengan jutaan catatan amal shalih.
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Kiai Hasyim menatap para musyrif dengan tatapan penuh kepercayaan dan kasih sayang.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Para pembina asrama bertekad menjadi saksi-saksi kebaikan bagi anak-anak asuh mereka.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Farhan tersenyum menatap buku hijau toska itu dari barisan shaf santri kelas tujuh.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Danang di sampingnya ikut tersenyum lebar, merasakan semangat baru untuk berbuat baik.
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Sistem SW-PBIS telah resmi bersemi di tanah asrama Pesantren Darul Adab.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Apresiasi positif menjadi bahasa cinta baru yang dituturkan di setiap sudut pondok.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Malaikat di langit mencatat peristiwa agung ini sebagai amal jariyah yang abadi.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Buku hijau toska itu dipeluk erat oleh Salman sebagai lambang amanah tarbiyah baru.
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Seluruh santri bertepuk tangan riang menyambut lahirnya lembaran kebaikan tersebut.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.
 
-Malam di lapangan tengah asrama menjadi malam paling bersejarah bagi peradaban Darul Adab.
+Kyai Hasyim menyerahkan Buku Logbook Kebaikan bersampul beludru hijau toska kepada Ustadz Salman di hadapan seluruh santri. Buku baru tersebut menjadi simbol transformasi budaya pesantren dari pengintaian kesalahan menuju penyemaian dan apresiasi amal kebaikan. Para musyrif berjanji untuk membuka mata hati mereka selebar-lebarnya demi melihat, mencatat, dan memuji setiap kebaikan kecil yang dilakukan santri di asrama 24 jam.
 
-Ustadz Salman memeluk buku logbook hijau itu dengan penuh keharuan di dada.
+Di dalam bilik Kamar Al-Farabi, suasana malam terasa sangat damai, sejuk, dan lapang. Lampu tidur kuning temaram membiaskan bayangan tenang di atas ranjang-ranjang susun kayu jati. Farhan merebahkan tubuhnya di kasur busanya sembari tersenyum bahagia menatap langit-langit kamar; untuk pertama kalinya sejak mondok, Farhan tertidur lelap tanpa ada rasa sesak atau ketakutan akan sabetan rotan yang mengintai tidurnya.
 
-Di sekeliling lapangan, para santri saling berpandangan dengan senyuman cerah di wajah.
+Ustadz Salman melangkah santun di koridor luar kamar mengenakan sandal karet lembut tanpa menimbulkan suara bising. Salman berhenti di depan pintu Kamar Al-Farabi, memanjatkan doa perlindungan kenabian untuk seluruh anak asuhnya yang sedang tidur lelap. Gelombang rasa lega dan ketenteraman spiritual menyapu seluruh komplek asrama putra, menandai dimulainya era baru tarbiyah fitrah yang suci di Pesantren Darul Adab.
 
-Buku catatan kebaikan ini menjadi saksi dari setiap langkah perjuangan santri dalam beradab.
-
-Malaikat di langit menyambut gembira perubahan arah tarbiyah di Pesantren Darul Adab.
-
-Fajar baru yang penuh kasih sayang telah resmi menyingsing di ufuk timur pesantren.
-
-Pohon kebaikan yang disemai malam ini akan berbuah manis di masa depan kelak.
+Drum besi pembakaran di tengah lapangan asrama putra berkobar menyala terang benderang menerangi malam yang dingin. Lembaran-lembaran buku hitam catatan sanksi masa lalu telah hangus terbakar menjadi abu yang beterbangan ke udara, membawa serta lenyapnya seluruh catatan kesalahan, stigma buruk, dan trauma kekerasan para santri. Seluruh warga pesantren melafalkan takbir dan hamdalah bersama-sama menyambut malam pembebasan jiwa yang agung.

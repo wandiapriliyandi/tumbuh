@@ -1,131 +1,105 @@
 # Sub-Bab 2.2: Menatap Foto Ibu Fatimah
 
-Pukul 13.30 siang di komplek madrasah Pesantren Darul Adab.
+Di sudut Kamar Al-Farabi di samping koper biru tua yang terbuka lebar, aroma teh manis hangat dan singkong goreng mengepul menenteramkan udara pagi. Zaid duduk bersila dengan tenang di atas lantai semen, mengamati jemari Farhan yang sedang meraba-raba saku bagian dalam tutup koper sengnya. Dari balik lipatan kain furing koper yang sedikit robek, Farhan mengeluarkan sebuah benda kecil yang dibungkus dengan plastik bening yang dilipat sangat rapi. Benda itu adalah selembar foto berukuran kartu pos dengan tepi kertas yang telah menguning dimakan waktu. Farhan membuka lipatan plastik pelindungnya dengan gerakan yang sangat hati-hati, seolah benda itu adalah intan permata yang paling rapuh di muka bumi. Di atas lembaran kertas foto tersebut, tampak potret sederhana seorang wanita paruh baya berwajah teduh mengenakan jilbab kain berwarna biru tua bersahaja. Wanita di dalam foto itu adalah **Ibu Fatimah**—ibu kandung Farhan yang tinggal di sebuah desa terpencil di kaki gunung. Wajah Ibu Fatimah di dalam foto memancarkan senyuman yang sangat tulus, penuh kelembutan, dan menyejukkan sanubari siapa pun yang memandangnya. Di sampingnya, berdiri Pak Rahmat—ayah Farhan—mengenakan kemeja batik sederhana dengan kulit wajah yang legam terbakar matahari khas seorang petani pekerja keras.
 
-Matahari siang bersinar sangat terik tepat di atas ubun-ubun kepala.
+Farhan mendekatkan foto kedua orang tuanya itu ke depan dadanya, menatap wajah ibunya dengan pandangan mata yang dipenuhi oleh kerinduan yang teramat menyayat kalbu. Di balik bingkai foto tersebut, tertulis sebuah pesan singkat bertinta biru yang ditulis dengan tulisan tangan ibunya yang miring dan sederhana: *"Untuk Farhan anak lanangku yang shalih... Belajarlah dengan ikhlas dan sabar ya, Le. Ibu dan Bapak selalu memelukmu dalam setiap sujud sepertiga malam kami."* Membaca kembali tulisan tangan ibunya, setetes air mata bening jatuh dari kelopak mata Farhan, tepat menetes di atas permukaan plastik foto tersebut. Farhan menyeka air mata itu dengan ujung jemarinya dengan sangat lembut agar tidak merusak kertas foto. Di dalam benak Farhan, terbayang kembali detik-detik perpisahan di stasiun kereta api kecil enam pekan yang lalu saat ia hendak berangkat ke pondok pesantren. Farhan teringat bagaimana telapak tangan Ibu Fatimah yang kasar namun hangat menggenggam kedua pipinya dengan penuh kasih sayang. Ibu Fatimah tidak menangis di hadapannya kala itu demi menguatkan hati putranya, meskipun Farhan tahu bahwa di balik senyumannya, hati seorang ibu sedang teriris melepas anak semata wayangnya pergi merantau jauh. *"Jadilah insan yang beradab dan berilmu ya, Le... Bawa pulang mahkota kemuliaan Al-Qur'an untuk Ibu dan Bapak di akhirat kelak,"* bisik ibunya kala itu.
 
-Sinar matahari itu membakar pelataran lapangan semen yang memantulkan hawa panas menyengat ke udara.
+Zaid mencondongkan tubuhnya ke depan, menatap lembaran foto di tangan Farhan dengan pandangan mata yang sarat dengan keharuan dan rasa hormat yang mendalam. "Itu ibumu ya, Farhan?" tanya Zaid dengan nada suara yang sangat lembut dan bersahabat. "Wajah ibumu tampak sangat teduh dan penuh dengan cahaya keshalihan." Farhan menganggukkan kepalanya perlahan, menyodorkan foto tersebut agar dapat dilihat lebih jelas oleh Mas Zaid dan Danang. "Nggih, Mas Zaid... Ini Ibu Fatimah dan Bapak Rahmat di desa. Ibu yang menjahit baju koko Farhan dan membungkus kue jahe di koper ini sebelum Farhan berangkat ke pondok." Danang yang duduk di samping Farhan ikut menatap foto tersebut dengan mata yang berbinar-binar penuh ketakjuban. "Ibumu cantik dan sangat ramah sekali wajahnya, Farhan," tutur Danang dengan senyuman tulus. "Melihat foto ibumu membuat Danang merasa seperti melihat ibu Danang sendiri di surga."
 
-Lonceng madrasah tanda jeda jam istirahat siang dan persiapan sholat Zhuhur baru saja berdentang dua kali di ujung koridor sekolah: *Teng...
+Zaid tersenyum haru mendengar celoteh polos Danang, lalu menepuk pundak kedua anak asuhnya tersebut secara bergantian. "Ibu Fatimah dan almarhumah ibu Danang adalah wanita-wanita mulia pilihan Allah yang telah melahirkan ksatria-ksatria penghafal Al-Qur'an seperti kalian berdua," tutur Zaid dengan intonasi yang membangkitkan rasa percaya diri dan martabat di dalam jiwa anak-anak tersebut. Zaid menghela nafas panjang, membetulkan posisi duduk bersilanya, lalu mulai bercerita dengan nada yang sangat memikat: "Farhan, Danang... Mas Zaid mau cerita sedikit tentang pengalaman Mas Zaid saat pertama kali masuk ke Pesantren Darul Adab enam tahun yang lalu ketika Mas Zaid masih seusia kalian di kelas tujuh." Kedua anak belia itu seketika memusatkan perhatian mereka kepada sang ketua santri, melupakan sejenak rasa sedih dan perih di hati mereka. Zaid tersenyum mengenang masa lalunya yang penuh liku: "Dulu saat pertama kali tiba di pondok ini, Mas Zaid juga menangis setiap malam memeluk bantal di kamar tidur. Mas Zaid merasa tidak betah karena sistem asrama yang keras, makanan yang sederhana, dan rindu yang luar biasa pada keluarga di rumah."
 
-Teng...*
+"Bahkan," lanjut Zaid sembari menatap koper biru Farhan, "koper Mas Zaid saat itu warnanya hijau tua dan kuncinya sempat rusak karena sering Mas Zaid buka hanya untuk mencium aroma baju ibu Mas Zaid di dalamnya. Mas Zaid sempat berpikir untuk kabur dari pondok karena merasa tidak kuat menahan rasa rindu dan bentakan para pengurus asrama masa itu." Farhan dan Danang terbelalak kaget mendengar pengakuan jujur dari sosok santri paling berprestasi dan paling dihormati di seluruh komplek pesantren tersebut. "Benarkah, Mas Zaid? Mas Zaid yang sehebat ini pernah menangis dan ingin kabur juga dari pondok?" tanya Farhan dengan rasa takjub yang terpancar di matanya. "Tentu saja, Farhan!" jawab Zaid dengan tawa kecil yang renyah dan menenangkan. "Menangis karena rindu orang tua bukanlah tanda bahwa kita lemah atau cengeng; menangis adalah tanda bahwa hati kita masih hidup dan memiliki rasa cinta yang suci kepada orang tua yang telah melahirkan kita. Baginda Rasulullah SAW sendiri meneteskan air mata saat berziarah ke makam ibunda beliau, Sayyidah Aminah, di Abwa'."
 
-Ratusan santri putra berhamburan keluar dari ruang-ruang kelas mereka.
+Zaid melafalkan sebuah riwayat hadits shahih dengan suara yang merdu dan penuh penghayatan spiritual:
 
-Sebagian besar anak berlarian riang menuju kantin untuk membeli es sirup.
+$$\text{زَارَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَبْرَ أُمِّهِ فَبَكَى وَأَبْكَى مَنْ حَوْلَهُ}$$
 
-Sebagian lainnya bermain kejar-kejaran dan sepak bola plastik di lapangan terbuka tanpa memedulikan panas terik matahari yang membakar kulit.
+> *"Nabi SAW berziarah ke makam ibundanya, lalu beliau menangis terharu hingga membuat para sahabat yang berada di sekeliling beliau ikut menangis karena luapan cinta dan kelembutan hati beliau."* (HR. Muslim)
 
-Namun di sudut paling belakang lapangan di samping pagar pembatas kebun jati, seorang bocah kurus memilih untuk menyendiri menjauh dari keramaian kawan-kawannya.
+Zaid menatap lurus ke dalam bola mata Farhan dengan tatapan mata seorang ksatria yang menaruh harapan besar: "Maka jangan pernah merasa malu jika air matamu menetes saat menatap foto Ibu Fatimah ini, Farhan. Jadikanlah setiap tetes air mata rindumu itu sebagai bahan bakar doa dan semangat untuk menguasai ilmu agama di pondok ini." "Setiap ayat Al-Qur'an yang kamu hafal dengan tartil di masjid," terang Zaid dengan penuh semangat, "setiap bait nadzom nahwu yang kamu pahami di kelas madrasah, dan setiap kebaikan yang kamu lakukan untuk saudaramu di kamar ini, akan mengalirkan pahala jariyah yang abadi dan mengangkat derajat Ibu Fatimah dan Pak Rahmat di hadapan Allah SWT kelak." Mendengar petuah bijak dari Mas Zaid, sebuah perasaan hangat yang tak terlukiskan merayap memenuhi seluruh rongga dada Farhan. Hati Farhan yang tadinya terasa dingin dan hampa oleh keputusasaan mendadak disinari oleh lentera harapan dan tekad kemuliaan yang menyala berkobar-kobar. Farhan menatap kembali foto Ibu Fatimah di tangannya, namun kali ini bukan dengan air mata kepedihan, melainkan dengan senyuman bangga seorang ksatria yang siap berjuang. Farhan memasukkan kembali foto kedua orang tuanya itu ke dalam bungkus plastik bening, lalu menyelipkannya dengan rapi di bagian saku paling dalam koper birunya. Farhan mengunci kembali gembok kuningan koper tersebut dengan gerakan yang mantap dan percaya diri. Koper biru tua itu kini bukan lagi lambang tangisan dan keterasingan, melainkan telah bertransformasi menjadi peti penyimpan amanah suci cinta kedua orang tuanya.
 
-Itu adalah Farhan.
+Lonceng tanda masuk madrasah berdentang nyaring di kejauhan: *Teng... Teng... Teng!* Zaid bangkit berdiri dari lantai semen, merapikan sarung dan kaos oblongnya, lalu tersenyum menatap Farhan dan Danang. "Ayo para ksatria peradaban... Ambil tas dan kitab kalian, kita berangkat menuju madrasah bersama Mas Zaid pagi ini!" seru Zaid dengan suara lantang yang penuh energi positif. Farhan dan Danang melompat bangkit dari lantai dengan wajah yang berseri-seri dan penuh semangat baru. Mereka menyambar tas ransel masing-masing di atas lemari, merapikan peci hitam mereka di cermin dinding, lalu melangkah keluar kamar berdampingan bersama Mas Zaid menyongsong hari baru penuntutan ilmu dengan dada yang lapang dan hati yang dipenuhi rasa syukur kepada Allah SWT. Zaid mengamati jemari Farhan yang mengusap foto kedua orang tuanya dengan tatapan penuh keharuan. Zaid teringat akan sabda Rasulullah SAW tentang keutamaan berbakti kepada kedua orang tua (*Birrul Walidain*) yang menjadi pintu surga paling agung bagi setiap penuntut ilmu. Zaid berjanji di dalam hatinya untuk selalu mendampingi Farhan menuntaskan cita-cita suci orang tuanya.
 
-Farhan duduk bersila seorang diri di atas tonjolan akar pohon kersen tua yang rindang dan berbuah lebat di sudut pagar.
+Farhan memandangi wajah ayahnya di dalam foto dengan tatapan takzim yang mendalam. Pak Rahmat yang bekerja membajak sawah dari pagi hingga petang di bawah terik matahari tidak pernah mengeluh demi membiayai kebutuhan mondok putranya. Farhan bertekad untuk tidak menyia-nyiakan sepeser pun rupiah hasil jerih payah keringat ayahnya di sawah. Danang yang duduk di samping Farhan melipat tangannya di atas paha sembari menatap koper biru itu dengan pandangan kagum. Danang merasa termotivasi melihat bagaimana Farhan begitu mencintai dan menghormati orang tuanya. Danang berbisik kepada Farhan bahwa ia ingin mencontoh semangat belajar Farhan di kelas madrasah nanti. Zaid mengambil sepotong singkong goreng yang masih tersisa di piring, membaginya menjadi dua bagian, lalu memberikannya kepada Farhan dan Danang. 'Makanlah bagian terakhir ini bersama-sama sebagai lambang persaudaraan kalian berdua,' tutur Zaid dengan senyuman hangat. Farhan dan Danang menerima potongan singkong itu dan memakannya bersama dengan penuh rasa syukur.
 
-Dedaunan pohon kersen yang rimbun membentuk kubah kanopi alami yang meneduhkan.
+Sinar matahari pagi semakin tinggi menyinari kaca jendela Kamar Al-Farabi, membiaskan cahaya keemasan yang menari di atas lantai semen. Suara burung-burung pipit yang berkicau riang di pepohonan luar asrama menambah keasrian suasana pagi. Udara asrama terasa semakin segar dan dipenuhi oleh aura kedamaian yang membahagiakan. Zaid bangkit berdiri dari lantai semen, lalu membantu Danang berdiri dengan menopang lengannya yang kurus. Zaid memeriksa perban kecil di kaki Danang yang telah diobati tadi pagi, memastikan luka sabetan rotan itu tidak lagi berdarah. Danang tersenyum lebar menunjukkan bahwa kakinya kini sudah bisa menapak dengan nyaman. 'Alhamdulillah, kakimu sudah membaik, Danang,' tutur Zaid sembari menepuk bahu anak yatim itu. 'Ingat, kalau berjalan jangan tergesa-gesa agar lukamu cepat kering sempurna.'
 
-Dedaunan itu menyaring sengatan terik matahari siang menjadi bercak-bercak bayangan lembut di atas tanah merah berbatu.
+Farhan mengemas tas ransel madrasahnya dengan sangat rapi, memasukkan kitab nahwu, buku catatan biru pemberian Mas Zaid, dan kotak pensil kayunya. Farhan memeriksa resleting tasnya, memastikan semua perlengkapan belajarnya siap digunakan untuk pelajaran pertama. Faisal yang sedang merapikan seragam madrasahnya di depan cermin menoleh memandang Farhan. Faisal tersenyum tipis, lalu menyapa Farhan dengan nada yang ramah: 'Farhan... Nanti di kelas kita duduk sebangku ya? Aku ingin belajar membedakan isim dan fi'il dari kamu.' Farhan terkejut sekaligus bahagia mendengar ajakan dari Faisal yang biasanya pendiam dan kasar. 'Tentu saja, Faisal! Farhan dengan senang hati akan belajar bersama Faisal di kelas,' jawab Farhan dengan senyuman cerah yang merekah di wajahnya.
 
-Suara riuh teriakan dan tawa anak-anak yang bermain bola di lapangan terdengar lamat-lamat dari kejauhan.
+Kehangatan persahabatan antarsantri di Kamar Al-Farabi mulai bersemi indah meruntuhkan sekat-sekat perbedaan dan trauma masa lalu. Anak-anak yang dahulunya saling curiga dan bermusuhan kini telah menyatu dalam satu ikatan ukhuwah Islamiyyah yang tulus. Zaid memandang transformasi positif yang terjadi di dalam kamar tersebut dengan rasa syukur yang membuncah di dalam dadanya. Zaid menyadari bahwa sebuah perubahan besar di pesantren tidak selalu harus dimulai dari kebijakan resmi yang kaku, melainkan dapat bersemi dari ketulusan hati dan teladan kasih sayang di bilik-bilik asrama. Lonceng tanda masuk madrasah berdentang nyaring untuk kedua kalinya di koridor lantai satu: *Teng... Teng!* Ratusan santri mulai melangkah keluar kamar membawa tas dan kitab masing-masing. Suara gemuruh langkah kaki penuntut ilmu berpadu dengan lantunan shalawat yang berkumandang dari pengeras suara masjid.
 
-Suara riuh tersebut terasa sangat kontras dengan kesunyian batin yang membungkus jiwa Farhan di bawah naungan pohon tersebut.
+Zaid berjalan di depan memimpin anak-anak Kamar Al-Farabi menuruni tangga asrama menuju gedung madrasah. Farhan berjalan berdampingan bersama Danang dan Faisal dengan langkah yang mantap dan percaya diri. Tidak ada lagi rasa takut atau ragu di dalam hati mereka saat melangkah di koridor asrama. Di lapangan tengah, Ustadz Burhan—wali kelas madrasah tsanawiyah—sedang berdiri menyambut kedatangan para santri di depan pintu gerbang madrasah. Ustadz Burhan tersenyum ramah menyapa setiap santri yang melintas dengan sapaan salam yang menyejukkan hati. Farhan, Danang, dan Faisal mencium punggung tangan Ustadz Burhan dengan penuh rasa takzim saat memasuki pelataran madrasah. Ustadz Burhan mengusap kepala Farhan seraya mendoakan: 'Semoga Allah membuka pintu pemahaman ilmu bagimu hari ini, Farhan anak shalih.'
 
-Farhan meletakkan tas kain madrasahnya yang kusam di atas akar pohon di sampingnya.
+Doa tulus dari sang guru madrasah mengalir laksana embun penyejuk yang menyirami tanah hati Farhan yang haus akan ilmu. Farhan melangkah masuk ke dalam ruang kelasnya dengan dada yang lapang dan pikiran yang fokus menyongsong pelajaran nahwu. Di dalam kelas madrasah yang terang benderang oleh cahaya matahari pagi, Farhan duduk di bangku barisan depan bersama Danang dan Faisal. Farhan membuka lembaran kitab *Matan Al-Ajurrumiyyah*-nya yang bertinta hitam bersih di atas meja kayu jati. Foto Ibu Fatimah yang tersimpan rapi di dalam koper biru di kamar asrama seolah terus memancarkan doa restu yang tak pernah putus menemani setiap detik penuntutan ilmunya. Farhan merasa bahwa ibunya selalu hadir di sampingnya, membimbing langkahnya meniti tangga kemuliaan adab di jalan Allah SWT.
 
-Dengan gerakan tangan yang sangat perlahan dan penuh kehati-hatian, Farhan merogoh saku dada sebelah kiri baju seragam putihnya yang kancing atasnya telah copot.
+Pelajaran nahwu dimulai dengan pembacaan basmalah bersama-sama yang dipimpin oleh Ustadz Burhan di depan kelas. Suara gemuruh puluhan santri yang melafalkan firman Allah dan kaidah-kaidah bahasa Arab menggetarkan ruangan kelas dengan penuh keberkahan. Farhan menyimak setiap bait penjelasan Ustadz Burhan dengan konsentrasi penuh dan kecerdasan fitrah yang terbuka lebar. Sistem saraf dan Prefrontal Cortex Farhan yang berada dalam kondisi rasa aman optimal mampu menyerap setiap butir ilmu dengan sangat cepat dan mendalam. Di luar jendela kelas, angin pagi berhembus lembut menggoyang dahan-dahan pohon mangga yang sedang berbunga. Cahaya mentari pagi menyinari komplek Pesantren Darul Adab dengan kemilau yang indah, menandai dimulainya era baru tarbiyah fitrah yang diridhai Allah SWT.
 
-Jari-jemari Farhan yang kurus menyentuh permukaan benda paling berharga, paling suci, dan paling dijaganya di dalam seluruh perjalanan hidupnya di perantauan: **Foto Ibu Fatimah dan Pak Rahmat**.
+Koper biru yang menangis di sudut kamar kini telah menjadi monumen sejarah transformasi jiwa seorang santri belia. Dari air mata rindu dan kepedihan masa lalu, telah lahir sebuah tekad baja untuk mengukir prestasi adabi yang akan membanggakan orang tua dan membawa kemaslahatan bagi umat Islam di masa depan. Farhan menuliskan bait pertama kaidah *Kalam* di buku catatannya dengan tulisan tangan yang rapi dan indah: *'Al-Kalāmu Huwal Lafzhul Murakkabul Mufīdu bil-Wadh'i...'* Setiap goresan tinta pena Farhan di atas kertas putih adalah langkah pasti menuju puncak kejayaan peradaban Islam yang gilang-gemilang. Semoga Allah senantiasa melimpahkan taufiq, hidayah, dan keberkahan bagi seluruh penuntut ilmu yang berjuang dengan ikhlas di bumi Pesantren Darul Adab. Fajar ilmu telah menyingsing terang benderang, menuntun langkah-langkah para ksatria muda menyongsong masa depan yang penuh dengan kemuliaan adab dan hikmah. Perjalanan meniti tangga Insan Adabi telah resmi dimulai dari meja kelas madrasah yang penuh dengan berkah Ilahi.
 
-Farhan mengeluarkan selembar foto berukuran kartu pos mini tersebut dari dalam sakunya dengan kedua belah tangannya.
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Ujung-ujung kertas foto itu telah memutih, terlipat kusut, dan sedikit koyak di bagian sudutnya.
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-Kertas foto itu mulai rusak karena setiap hari dikeluarkan, digenggam erat, dan dibasahi oleh air mata kerinduan Farhan di saat-saat sepi.
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-Farhan mengusap permukaan foto tersebut dengan ujung ibu jari tangannya yang gemetar halus.
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
-Di dalam foto berlatar belakang teras rumah panggung kayu sederhana di sebuah desa pedalaman Jawa Timur itu, tampak sosok Ibu Fatimah.
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
-Ibu Fatimah adalah seorang wanita bersahaja berusia tiga puluh lima tahun mengenakan jilbab biru tua sederhana yang terbuat dari kain paris murah.
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Wajah Ibu Fatimah dalam foto itu memancarkan keteduhan, kelembutan, dan ketulusan cinta seorang ibu yang tak terbatas oleh sekat jarak dan waktu.
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-Senyuman manis di bibir ibunya tampak begitu hidup di mata Farhan.
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-Senyuman itu seolah sedang menatap langsung ke dalam bola matanya dan memanggil namanya dengan penuh kasih sayang: *"Farhan, anak lanang kebanggaan Ibu..."*
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
-Di samping Ibu Fatimah, berdiri sang ayah—Pak Rahmat—mengenakan kemeja batik cokelat usang yang kerahnya mulai pudar warnanya.
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
-Pak Rahmat tersenyum bangga sembari meletakkan tangan kanannya yang berotot dan kapalan bekas mencangkul sawah di atas pundak Farhan kecil yang berdiri di depannya mengenakan seragam merah putih sekolah dasar.
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Farhan mendekatkan foto kecil itu ke depan dadanya yang berdegup sunyi dan bergetar.
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-Farhan teringat aroma wangi minyak kelapa buatan tangan dan bedak dingin yang selalu menempel di pipi Ibu Fatimah setiap kali ibunya merengkuhnya dalam pelukan hangat di waktu senja.
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-Farhan teringat hangatnya semangkuk sayur lodeh terong dan tempe goreng renyah yang selalu terhidang di atas meja makan bambu sederhana mereka setiap kali Farhan pulang dari sekolah dasar di desa.
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
-Farhan teringat bagaimana Ibu Fatimah selalu duduk berjaga di samping ranjangnya saat Farhan kecil sedang demam tinggi.
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
-Ibunya mengompres dahinya dengan handuk basah semalaman suntuk tanpa pernah mengeluh lelah sedetik pun.
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Dan Farhan teringat bisikan doa yang selalu diucapkan ibunya setiap malam selepas sholat Maghrib berjamaah di surau desa: *"Ya Allah, berkahilah Farhan anak hamba...
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-Jadikanlah ia anak yang shalih, penyejuk hati orang tua, dan pembawa mahkota kemuliaan di akhirat kelak..."*
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-Setitik air mata bening yang hangat jatuh menetes dari sudut mata Farhan.
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
-Tetesan air mata itu mendarat tepat di atas gambar wajah Ibu Fatimah di atas lembaran kertas foto tersebut.
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
-Farhan terkesiap kaget, buru-buru mengusap tetesan air mata itu dengan ujung lengan bajunya dengan sangat hati-hati.
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Farhan diliputi kepanikan bahwa cairan air mata itu akan melunturkan tinta gambar wajah ibunya yang tercinta.
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-"Ibu..." bisik Farhan dengan suara yang tercekat di tenggorokan, nafasnya bergetar menahan tangis yang hendak meledak di dalam dadanya.
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-"Farhan kangen sekali sama Ibu...
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
-Farhan rindu masakan Ibu...
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
-Farhan rindu mendengar suara lembut Ibu di rumah..."
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Farhan mendekatkan kertas foto itu ke bibirnya yang bergetar.
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-Farhan mencium lembut gambar wajah Ibu Fatimah dan Pak Rahmat berulang-ulang kali dengan segenap kerinduan jiwa yang membara di dalam dadanya.
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-"Bu...
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
 
-Di sini sangat sepi...
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
 
-Di sini orang-orang marah terus...
+Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Di sini tidak ada yang memeluk Farhan saat Farhan sakit dan menangis..." rintih Farhan dalam bisikan lirih yang tenggelam di bawah desau angin pohon kersen.
+Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
 
-"Farhan ingin pulang ke desa, Bu...
+Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
-Farhan tidak apa-apa membantu Bapak mencangkul di sawah atau menggembala kambing, asalkan Farhan bisa tidur di samping Ibu setiap malam..."
-
-Di atas dahan pohon kersen di atas kepalanya, seekor burung gereja kecil bertengger sembari berkicau riang melompati ranting-ranting daun yang bergoyang.
-
-Farhan menatap burung kecil itu dengan tatapan mata yang basah dan kosong.
-
-Farhan merasa dirinya laksana anak burung yang terlempar keluar dari sarangnya sebelum sayapnya mampu mengepak sempurna, terombang-ambing di tengah hutan belantara yang keras dan penuh ancaman.
-
-Di kejauhan, suara lonceng madrasah kembali berdentang nyaring tiga kali: *Teng...
-
-Teng...
-
-Teng...*
-
-Suara itu menandakan waktu sholat Zhuhur berjamaah tinggal lima belas menit lagi dan seluruh santri diwajibkan telah berada di serambi masjid.
-
-Farhan menghela nafas panjang yang terasa bergetar dan perih di dalam dadanya.
-
-Farhan mencium foto Ibu Fatimah dan Pak Rahmat untuk terakhir kalinya siang itu dengan penuh takzim dan cinta.
-
-Dengan sangat hati-hati, Farhan melipat kembali foto berharga itu, menyelipkannya ke dalam saku dada kirinya—tepat di atas detak jantungnya yang berdegup kencang.
-
-Farhan mengusap sisa-sisa air mata di pipinya dengan kedua telapak tangannya yang kurus.
-
-Farhan merapikan letak peci hitamnya yang miring, lalu bangkit berdiri dari akar pohon kersen.
-
-Farhan melangkah keluar dari naungan teduh pohon kersen menuju serambi masjid di bawah sengatan terik matahari siang, membawa kerinduan suci di dadanya yang menjadi satu-satunya lentera penguat jiwanya untuk bertahan hidup di perantauan pesantren.
+Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
