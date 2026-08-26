@@ -104,4 +104,4 @@ Ustadz Burhan membaca kartu belajar Farhan dengan senyuman bangga di bibirnya. B
 
 Membaca catatan apresiasi dari wali kelasnya, hati Farhan dipenuhi oleh rasa bahagia dan semangat baru untuk terus belajar. Farhan menunjukkan kartu tersebut kepada Danang dan Faisal saat istirahat siang, saling memotivasi untuk mencapai target belajar harian mereka masing-masing.
 
-Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Ustadz Burhan menatap buku catatan santri kelas tujuh sembari menyeruput kopi jahenya di ruang guru madrasah. Di hadapannya, Ustadz Salman mencocokkan data waktu tidur santri dengan tingkat konsentrasi mereka di kelas nahwu pagi ini. Mereka menemukan korelasi ilmiah yang sangat kuat: santri yang tidur cukup 7 jam di asrama mampu menghafal bait Imrithi tiga kali lebih cepat dibandingkan santri yang kurang tidur.

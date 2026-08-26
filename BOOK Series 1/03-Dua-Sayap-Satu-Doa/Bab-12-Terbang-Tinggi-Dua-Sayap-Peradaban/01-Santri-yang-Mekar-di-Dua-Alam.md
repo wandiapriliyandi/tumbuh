@@ -104,4 +104,4 @@ Farhan berdiri di pelataran utama pesantren memandang kubah masjid dan gedung ma
 
 Danang, Faisal, dan Mas Zaid merangkul pundak Farhan seraya tersenyum lebar menyongsong hari esok yang penuh harapan. Bersama-sama, mereka berikrar di hadapan Allah SWT untuk terus menjaga amanah ilmu dan adab ini hingga akhir hayat mereka.
 
-Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Ustadz Burhan menatap buku catatan santri kelas tujuh sembari menyeruput kopi jahenya di ruang guru madrasah. Di hadapannya, Ustadz Salman mencocokkan data waktu tidur santri dengan tingkat konsentrasi mereka di kelas nahwu pagi ini. Mereka menemukan korelasi ilmiah yang sangat kuat: santri yang tidur cukup 7 jam di asrama mampu menghafal bait Imrithi tiga kali lebih cepat dibandingkan santri yang kurang tidur.
