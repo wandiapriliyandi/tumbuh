@@ -1,9 +1,22 @@
-# Sub-Bab 1.1: Koper Pertama dan Rindu Rumah (Santri Jenjang J1)
+# Sub-Bab 1.1: Koper Pertama dan Rindu Rumah
 
-Mobil orang tua Farhan perlahan bergerak menjauh meninggalkan gerbang utama pesantren. Farhan, anak laki-laki berusia dua belas tahun bertubuh kurus, berdiri mematung di samping koper birunya. Dadanya sesak. Air mata yang sejak tadi ditahannya tumpah tak terbendung.
+Hari pertama tahun ajaran baru di Pesantren Darul Adab. Ratusan mobil wali santri berbaris rapi di lapangan parkir. Suasana riuh rendah oleh suara percakapan, isak tangis perpisahan para ibu, dan langkah-langkah kaki santri baru yang melangkah ragu melewati gerbang utama.
 
-Ini adalah malam pertama Farhan tidur jauh dari pelukan ibunya. Suasana kamar asrama yang asing, ranjang susun yang tinggi, dan suara gemerisik pohon di luar jendela membuatnya merasa sangat kecil dan tak berdaya (*Separation Anxiety & Homesickness*).
+Di depan pintu Kamar Al-Farabi lantai satu, Farhan—bocah dua belas tahun bertubuh kurus—berdiri mematung memegangi pegangan koper birunya.
 
-Farhan adalah potret nyata santri di **Jenjang J1 (Fase Adaptasi / At-Ta'alluf)**. Di usia ini, otak remaja sedang mengalami transisi biososial yang rentan. Menuntut santri baru untuk langsung mandiri 100%, tidak menangis, dan hafal seluruh SOP asrama dalam sepekan adalah bentuk ketidakpekaan pedagogis.
+Matanya sembab oleh air mata sehabis berpelukan dengan Ibu Fatimah dan ayahnya di mobil.
 
-Santri Jenjang J1 tidak membutuhkan ancaman atau vonis manja. Mereka membutuhkan **rasa aman emosional (*Emotional Safety*)**, kehadiran pendamping yang sabar, dan tangan hangat yang menuntun mereka menata koper, melipat pakaian, dan mengenali jalan menuju masjid di kala fajar.
+Di dalam dadanya berkecamuk rasa takut dan kesepian yang amat sangat (*Homesickness Crisis*): bagaimana ia bisa bertahan hidup di tempat asing ini tanpa pelukan ibu, tanpa masakan rumah, dan harus tinggal satu kamar dengan anak-anak yang belum dikenalnya sama sekali?
+
+Farhan adalah representasi santri **Jenjang Kemandirian Tingkat Satu (Jenjang J1 - Tahap Adaptasi & Orientasi)**.
+
+Santri pada jenjang J1 memiliki karakteristik psikologis yang sangat khas:
+* Masih mengalami kecemasan perpisahan (*Separation Anxiety*).
+* Belum terbiasa mengurus kebutuhan fisik pribadi secara mandiri (mencuci baju, menata lemari, bangun subuh).
+* Sangat membutuhkan bimbingan intensif, kehadiran hangat, dan kepastian rasa aman dari para pembina.
+
+Ustadz Salman melangkah mendekati Farhan, merendahkan badannya sejajar dengan tinggi Farhan, lalu tersenyum lembut.
+
+"Ahlan wa sahlan, Farhan," bisik Salman hangat. "Selamat datang di rumah barumu. Ustadz tahu hatimu sedang rindu ibu, tapi percayalah, di sini kamu dikelilingi oleh sahabat-sahabat yang akan menjadi saudaramu selamanya."
+
+Kata-kata kehangatan itu menembus kabut kecemasan di hati Farhan, menjadi pelipur lara pertama yang menenangkannya di awal perjalanan meniti tangga kemandirian pesantren.

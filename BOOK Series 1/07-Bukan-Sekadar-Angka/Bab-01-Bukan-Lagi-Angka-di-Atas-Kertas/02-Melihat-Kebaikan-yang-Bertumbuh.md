@@ -1,13 +1,17 @@
-# Sub-Bab 1.2: Melihat Kebaikan yang Bertumbuh (Asesmen Ipsatif)
+# Sub-Bab 1.2: Melihat Kebaikan yang Bertumbuh
 
-Satu tahun setelah Sistem TUMBUH diterapkan, papan ranking yang memajang nama santri terburuk telah dicabut selamanya. Di ruang wali kelas, Ustadz Burhan duduk bersama Ilham dan ayahnya dalam suasana yang akrab dan hangat.
+Di era transformasi Ekosistem TUMBUH, sistem ranking komparatif dihapuskan total dari Pesantren Darul Adab, digantikan oleh **Sistem Evaluasi Pertumbuhan Ipsatif (*Ipsative Growth Assessment Model*)**.
 
-Di atas meja, bukan lembaran angka ranking yang terbentang, melainkan **Buku Portofolio Naratif Ipsatif**.
+Ustadz Burhan dan Ustadz Salman menjelaskan paradigma baru ini kepada seluruh santri dan dewan asatidz:
 
-"Bapak," Ustadz Burhan menyapa ayah Ilham dengan senyum tulus, "mari kita lihat grafik pertumbuhan Ananda Ilham selama enam bulan terakhir. Pada bulan Juli, tingkat kemandirian ibadah Ilham berada di angka 40%. Namun lihat di bulan November dan Desember ini, grafiknya melonjak drastis hingga 85%! Ilham telah mengalami pertumbuhan kemandirian sebesar **+45%**."
+```mermaid
+graph TD
+    Old["SISTEM RANKING LAMA (KOMPARATIF)<br/>• Membandingkan anak dengan anak orang lain.<br/>• Melahirkan arogansi bagi ranking atas & keputusasaan bagi ranking bawah.<br/>• Mengabaikan dimensi adab, integritas, & karakter."]
+    New["SISTEM IPSATIF TUMBUH (PERTUMBUHAN FITRAH)<br/>• Membandingkan capaian anak saat ini dengan dirinya di masa lalu.<br/>• Menilai 10 Dimensi Muwashafat Karakter & Akademik.<br/>• Menumbuhkan optimisme, kolaborasi, & cinta belajar."]
 
-Ayah Ilham menatap grafik warna-warni itu dengan mata berkaca-kaca. "Benarkah ini, Ustadz?"
+    Old -.->|Dihapus Permanen| New
+```
 
-"Benar sekali, Pak. Di sistem kami, kami tidak membandingkan Ilham dengan anak orang lain. Kami membandingkan Ilham hari ini dengan dirinya enam bulan yang lalu. Dan kami menjadi saksi betapa gigihnya perjuangan Ilham untuk terus memperbaiki diri."
+"Mulai hari ini," terang Burhan, "tidak ada lagi santri yang merasa kalah atau rendah diri karena angka rapor. Setiap santri bersaing dengan dirinya sendiri: apakah kejujuranku hari ini lebih baik dari kemarin? Apakah hafalanku bulan ini lebih mantap dari bulan lalu?"
 
-Ilham mendongak, menatap ayahnya dan ustadznya. Untuk pertama kalinya dalam hidupnya, ia merasa bahwa usahanya dihargai. Senyuman bangga terukir di wajah ayahnya, menyalakan api motivasi intrinsik di dalam dada Ilham untuk terus bertumbuh lebih baik lagi.
+Danang yang mendengarkan penjelasan itu mendongak dengan mata berbinar-binar. Beban berat rasa malu yang selama ini menghimpit jiwanya seketika runtuh, digantikan oleh semangat berkobar untuk terus bertumbuh dan berbuat kebaikan di setiap langkah hidupnya.

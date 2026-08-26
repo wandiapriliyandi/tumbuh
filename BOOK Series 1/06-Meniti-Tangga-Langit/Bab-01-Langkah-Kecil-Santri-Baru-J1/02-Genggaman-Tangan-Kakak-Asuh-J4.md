@@ -1,13 +1,19 @@
 # Sub-Bab 1.2: Genggaman Tangan Kakak Asuh J4
 
-Ketika Farhan sedang terisak pelan di sudut ranjangnya, sebuah tangan kokoh menyentuh bahunya dengan lembut. Farhan mendongak. Di hadapannya berdiri Zaid, santri kelas dua belas bertubuh tinggi dengan wajah yang teduh.
+Ketika Farhan masih berdiri ragu di ambang pintu kamar, seorang santri senior bertubuh tinggi tegap melangkah mendekatinya sembari tersenyum ramah: **Zaid, santri kelas dua belas (Jenjang Kemandirian Tingkat Empat / J4 - Sang Qudwah)**.
 
-"Assalamu'alaikum, Farhan. Namaku Zaid. Mulai hari ini, aku adalah kakak asuhmu di kamar ini," kata Zaid sembari duduk bersila di samping Farhan.
+Zaid tidak berdiri dengan gaya sok kuasa atau memerintah Farhan membungkuk.
 
-Zaid tidak menertawakan tangisan Farhan. Sebaliknya, ia tersenyum tulus dan bercerita, "Tujuh tahun lalu, saat pertama kali masuk ke kamar ini, aku menangis lebih kencang darimu, Dik. Koperku bahkan belum kubuka selama tiga hari karena rindu rumah."
+Zaid justru mengulurkan tangannya, menyalami Farhan erat, lalu mengambil alih koper biru Farhan yang berat dengan kedua tangannya.
 
-Farhan mengusap air matanya, terkejut mendengar pengakuan sang ketua santri.
+"Assalamu'alaikum, Farhan! Namaku Kak Zaid. Aku kakak asuh kamarmu," sapa Zaid ceria. "Mari masuk, ranjangmu ada di lantai satu dekat jendela yang sejuk."
 
-"Mari, kita tata lemari bajumu bersama-sama," ajak Zaid sembari membuka koper Farhan. "Aku akan ajarkan cara melipat baju ala 5S agar lemarimu muat banyak dan bajumu tidak kusut."
+Zaid membimbing Farhan duduk di tepi kasur busa empuk yang telah dilapisi sprei biru bersih.
 
-Program **Suhbah Kakak Asuh (Peer Mentoring J4 to J1)** adalah jantung dari sistem adaptasi TUMBUH. Santri baru tidak merasa diteror oleh senior, melainkan menemukan sosok pelindung dan teladan hidup yang membimbing langkah-langkah awal mereka di pesantren dengan penuh kasih sayang.
+Kemudian, Zaid membuka koper biru Farhan, membantunya mengeluarkan pakaian satu per satu, dan mengajarkan Farhan cara melipat baju dengan metode vertikal ke dalam lemari 5S.
+
+"Lihat ini, Farhan," tutur Zaid sembari mencontohkan lipatan baju koko. "Jika bajumu dilipat rapi seperti ini, kamu tidak akan pernah bingung mencari baju saat hendak berangkat sholat Subuh."
+
+Farhan memandang Zaid dengan tatapan mata takjub dan penuh rasa hormat.
+
+Model pendampingan **Satu Santri J4 Mendampingi Satu Santri J1 (*J4-to-J1 Mentorship Dynamic*)** ini menghilangkan potensi perpeloncoan secara permanen. Santri baru merasa dirawat oleh seorang abang pelindung, mempercepat proses adaptasi mereka dari fase ketergantungan menuju kemandirian awal.

@@ -1,9 +1,14 @@
 # Sub-Bab 2.1: Catatan Jujur di Buku Muhasabah
 
-Pukul 21.15 malam. Suasana kamar asrama sunyi dan teduh. Di bawah cahaya lampu meja yang temaram, Farhan membuka buku bersampul coklat bertuliskan *"Jurnal Muhasabah Pribadi"*.
+Setiap Kamis malam selepas sholat Isya dan dzikir bersama, santri-santri Pesantren Darul Adab membuka sebuah buku bersampul kain biru berlogo TUMBUH: **Buku Cermin Kalbu (*The Daily Muhasabah & Growth Journal*)**.
 
-Setiap malam sebelum tidur, seluruh santri diberi waktu hening sepuluh menit untuk menuliskan refleksi jujur di hadapan Allah SWT:
+Farhan duduk di meja belajarnya di Kamar Al-Farabi. Di hadapannya, lembaran jurnal memuat kolom-kolom refleksi pribadi yang dirancang berdasarkan **Prinsip Triangulasi Asesmen (*360-Degree Triangulation Assessment*)**:
+1. **Sudut Pandang Diri Sendiri (*Self-Assessment*)**: Santri secara jujur mengevaluasi pencapaian adab dan ibadahnya sepekan terakhir.
+2. **Sudut Pandang Sahabat Sebaya (*Peer-Assessment*)**: Rekan sekamar memberikan umpan balik apresiasi dan masukan yang santun.
+3. **Sudut Pandang Murabbi & Asatidz (*Teacher/Musyrif Assessment*)**: Pendidik memvalidasi data observasi harian.
 
-> *"Hari ini aku bersyukur karena berhasil sholat Dhuha empat rakaat dan membantu Danang mencuci piring makan siangnya. Namun tadi sore aku sempat merasa kesal dan membalas ucapan temanku dengan nada agak keras. Ya Allah, ampunilah kekhilafanku. Esok hari aku bertekad untuk lebih sabar dan menjaga lisanku."*
+Farhan menuliskan catatan refleksi mingguannya dengan sangat jujur:
 
-Jurnal muhasabah ini adalah pilar pertama dari **Triangulasi Asesmen 360° (Self-Assessment)**. Karakter tidak bisa dinilai secara objektif hanya dari pengamatan luar pendidik. Ketika santri dibiasakan untuk jujur mengaudit dirinya sendiri di hadapan Sang Khaliq (*Muraqabatullah*), maka kontrol moral internal (*Internal Locus of Control*) akan terbangun kokoh di dalam jiwanya.
+> *"Alhamdulillah pekan ini sholat Subuh berjamaah tepat waktu setiap hari, hafalan surat Yasin lancar. Namun pada hari Selasa sore, saya sempat merasa malas menyapu kamar dan sempat berbicara dengan nada sedikit tinggi kepada Ihsan saat berebut gayung air. Saya berjanji akan meminta maaf dan lebih sabar minggu depan."*
+
+Evaluasi diri yang jujur ini melatih **Kecerdasan Metakognitif & Kejujuran Nurani (*Metacognitive Self-Honesty*)**, membiasakan santri untuk selalu mengaudit dirinya sendiri sebelum diaudit oleh Allah SWT di hari akhir kelak.

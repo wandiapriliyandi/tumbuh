@@ -1,11 +1,17 @@
 # Sub-Bab 1.1: Luka Sang Peringkat Terbawah
 
-Hari pembagian rapor semester di aula pesantren lama selalu menjadi hari yang penuh kecemasan. Di dinding pengumuman, selembar kertas besar tertempel rapi, memuat daftar ranking santri dari nomor 1 sampai nomor 150 berdasarkan akumulasi nilai akademik dan pengurangan poin pelanggaran.
+Siang hari di aula madrasah Pesantren Darul Adab beberapa tahun silam sebelum era Ekosistem TUMBUH. Pengumuman rapor akhir semester sedang dibacakan secara terbuka melalui pengeras suara.
 
-Di baris paling bawah, nama Ilham tertulis dengan angka merah mencolok: *"Peringkat 150 - Predikat Akhlak: C (Kurang)"*.
+Di atas panggung, sepuluh santri peraih ranking satu hingga sepuluh berdiri tersenyum bangga sembari menerima piala besar dan kalungan selempang emas.
 
-Ilham menatap kertas itu dengan pandangan hampa. Kawan-kawannya berbisik-bisik di belakang punggungnya sembari menunjuk-nunjuk namanya. Wajah ayahnya yang datang jauh-jauh dari luar kota tampak muram dan malu di hadapan wali santri lainnya.
+Namun di barisan belakang aula, seorang santri bernama Danang duduk menundukkan kepalanya dalam-dalam. Tubuhnya gemetar menahan tangis. Di tangannya, selembar rapor merah bertuliskan: **Peringkat 32 dari 32 Santri**.
 
-"Padahal semester ini aku sudah berjuang keras," bisik Ilham dalam hati dengan dada yang sesak. "Aku berhasil hafal satu juz Al-Qur'an, dan aku tidak pernah lagi terlambat sholat Subuh selama dua bulan terakhir. Tapi kenapa semua perjuanganku hangus hanya karena aku pernah lupa mencuci piring dan mendapat poin pelanggaran di awal semester?"
+Danang merasa dirinya adalah manusia paling bodoh, paling tidak berharga, dan telah mencoreng nama baik keluarganya.
 
-Meranking karakter anak dengan angka normatif adalah sebuah kekeliruan metodologis yang kejam. Ia mereduksi dinamika jiwa manusia menjadi sekadar statistika kering yang mematikan motivasi dan meninggalkan luka batin yang sulit sembuh.
+Padahal di asrama, Danang adalah anak yang paling rajin membantu merawat kawan sekamar yang sakit, paling pertama datang menyapu masjid, dan tidak pernah sekalipun meninggalkan sholat berjamaah lima waktu.
+
+Namun seluruh kebaikan dan kemuliaan adab Danang terhapus tak berbekas hanya karena angka-angka nilai ujian tulis kognitifnya yang di bawah rata-rata.
+
+Kyai Hasyim yang menyaksikan pemandangan itu dari sudut ruangan merasakan kepedihan yang sangat mendalam di dalam dadanya.
+
+"Sistem ranking komparatif ini telah membunuh fitrah jutaan anak bangsa," bisik Kyai Hasyim dalam hatinya. "Kita telah memaksakan seekor ikan untuk dinilai dari kemampuannya memanjat pohon, lalu mencapnya bodoh sepanjang hidupnya. Mulai hari ini, Pesantren Darul Adab akan meruntuhkan tirani ranking semu ini untuk selama-lamanya!"

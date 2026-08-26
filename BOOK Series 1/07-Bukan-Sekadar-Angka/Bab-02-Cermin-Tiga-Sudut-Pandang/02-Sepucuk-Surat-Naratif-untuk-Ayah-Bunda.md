@@ -1,10 +1,13 @@
 # Sub-Bab 2.2: Sepucuk Surat Naratif untuk Ayah Bunda
 
-Di ruang tamu rumahnya yang asri, Ibu Fatimah membaca lembaran **Laporan Naratif Karakter Berbasis Kekuatan (*Strength-Based Narrative Report*)** yang dikirimkan pihak pesantren:
+Sebagai pelengkap dari rapor naratif yang disusun oleh dewan asatidz, setiap santri di akhir semester diwajibkan menuliskan **Sepucuk Surat Cinta & Refleksi Naratif (*Student Self-Authored Reflection Letter*)** untuk diserahkan langsung ke tangan ayah dan ibunya saat hari pembagian laporan hasil belajar.
 
-> *"Ayah dan Bunda yang dirahmati Allah, kami bersyukur dapat mendampingi Ananda Farhan semester ini. Ananda menunjukkan kekuatan karakter yang sangat istimewa dalam dimensi **Nafi'un Lighairihi (Bermanfaat bagi Sesama)**. Di asrama, Farhan selalu menjadi anak yang paling peka ketika ada temannya yang sedang sakit; ia dengan sukarela membawakan makanan dari dapur dan menghibur kawannya. Di kelas, minat membacanya tumbuh luar biasa..."*
+Di meja belajarnya, Farhan menuliskan surat dengan tulisan tangan yang rapi di atas selembar kertas bergaris wangi:
 
-Di halaman berikutnya, terselip selembar kertas tulisan tangan Farhan sendiri:
-> *"Untuk Ibu dan Ayah tercinta... Terima kasih sudah mengizinkan Farhan belajar di pondok ini. Farhan sekarang sudah bisa mencuci baju sendiri dan hafal Juz 30. Farhan sayang Ayah dan Ibu karena Allah."*
+> *"Ayah dan Bunda yang sangat Farhan cintai...*
+> *Alhamdulillah satu semester ini Farhan telah belajar banyak hal di pondok ini. Farhan sudah bisa mencuci baju sendiri, menata lemari vertikal 5S, dan menghafal tiga juz Al-Qur'an dengan lancar. Farhan juga belajar menjadi ksatria yang berani mengakui kesalahan dan meminta maaf.*
+> *Farhan tahu dulu Farhan sering merepotkan Ibu di rumah. Doakan Farhan ya Bu, Ayah... agar Farhan bisa istiqomah menjadi anak yang shalih dan berbakti kepada Ayah dan Bunda selamanya..."*
 
-Air mata haru menetes di pipi Ibu Fatimah. Laporan naratif ini bukan sekadar lembaran penilaian sekolah; ini adalah jembatan hati yang menghubungkan kerinduan orang tua dengan bukti nyata kedewasaan sang buah hati.
+Farhan melipat surat itu, memasukkannya ke dalam amplop putih, dan merekatkannya dengan stiker bintang kebaikan.
+
+Surat naratif santri ini menjadi jembatan batin yang sangat mengharukan, mengubah momen pembagian rapor yang dulu menegangkan menjadi majelis pelukan cinta dan linangan air mata kebahagiaan antara anak dan orang tuanya.
