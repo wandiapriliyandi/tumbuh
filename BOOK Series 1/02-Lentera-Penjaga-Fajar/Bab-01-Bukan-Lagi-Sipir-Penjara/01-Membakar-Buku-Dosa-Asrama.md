@@ -6,9 +6,7 @@ Ustadz Salman duduk terpekur di kursi kayu rotan. Di hadapannya, sebuah buku ber
 
 Selama bertahun-tahun, buku itu menjadi instrumen paling ditakuti di asrama. Di dalamnya, ratusan coretan tinta merah mencatat setiap kelemahan dan kekhilafan anak-anak asuh: *"Farhan - terlambat bangun sholat Subuh 3 menit (poin minus 5)", "Danang - sandal tertinggal di lorong (poin minus 10)", "Faisal - mengantuk saat pengajian kitab (poin minus 15)"*.
 
-Buku hitam itu adalah simbol peradilan yang dingin—buku yang hanya mencatat kesalahan tanpa pernah sekali pun mencatat air mata perjuangan, kebaikan tersembunyi, atau letihnya tubuh anak-anak yang sedang belajar beradaptasi.
-
-Salman membuka lembar demi lembar halaman buku tersebut. Setiap goresan tinta merah terasa seperti mencambuk nuraninya sendiri.
+Buku hitam itu adalah simbol peradilan yang dingin—buku yang hanya mencatat kesalahan tanpa pernah sekali pun mencatat air mata perjuangan, kebaikan tersembunyi, atau letihnya tubuh anak-anak yang sedang belajar beradaptasi. Salman membuka lembar demi lembar halaman buku tersebut. Setiap goresan tinta merah terasa seperti mencambuk nuraninya sendiri.
 
 Ia teringat percakapan mendalamnya dengan Kyai Hasyim di serambi ndalem dua hari yang lalu. Kata-kata sang Kiai bagaikan sembilu yang mengiris kesombongan dan persepsi kelirunya tentang disiplin.
 
@@ -24,25 +22,15 @@ Salman bangkit berdiri dari kursinya. Tubuhnya yang tegap melangkah mendekati se
 
 Salman membawa buku hitam itu di tangan kanannya. Di tangan kirinya, ia menggenggam pemantik api gas.
 
-"Bismillah..." bisik Salman lirih, suaranya bergetar menahan gejolak haru yang membuncah di dalam dada.
-
-Salman menyalakan pemantik api. Lidah api berwarna biru kemerahan seketika menyambar sudut lembaran buku catatan dosa itu.
+"Bismillah..." bisik Salman lirih, suaranya bergetar menahan gejolak haru yang membuncah di dalam dada. Salman menyalakan pemantik api. Lidah api berwarna biru kemerahan seketika menyambar sudut lembaran buku catatan dosa itu.
 
 Kertas-kertas tebal itu mulai terbakar, meliuk-liuk di dalam drum kaleng. Asap tipis beraroma kertas terbakar membubung ke udara malam, membawa serta terbangnya seluruh stigma, cap buruk, dan vonis-vonis dingin yang selama ini membelenggu jiwa anak-anak asuhnya.
 
-Salman menatap kobaran api itu dengan tatapan mata yang basah oleh air mata taubat.
+Salman menatap kobaran api itu dengan tatapan mata yang basah oleh air mata taubat. Api itu tidak hanya membakar lembaran kertas bertinta merah; api itu sedang membakar kesombongan batinnya, membakar mentalitas sipir penjara yang selama ini bercokol di dalam kepalanya, dan membakar sisa-sisa arogansi kekuasaan yang telah menjauhkannya dari hakikat tarbiyah kenabian. "Mulai malam ini," ikrar Salman dalam bisikan yang khidmat, "aku kubur sistem pencatatan dosa yang zalim ini. Aku tidak akan lagi menjadi jaksa yang menghakimi anak-anak titipan umat. Aku akan menjadi pembimbing yang merangkul dan mencatat setiap langkah pertumbuhan mereka dengan cinta."
 
-Api itu tidak hanya membakar lembaran kertas bertinta merah; api itu sedang membakar kesombongan batinnya, membakar mentalitas sipir penjara yang selama ini bercokol di dalam kepalanya, dan membakar sisa-sisa arogansi kekuasaan yang telah menjauhkannya dari hakikat tarbiyah kenabian.
+Abu kertas yang terbakar beterbangan pelan ditiup angin dini hari, jatuh berserakan di atas tanah pekarangan pesantren. Salman melangkah kembali ke dalam kantor pengasuhan. Udara ruangan itu kini terasa jauh lebih lapang dan sejuk, seolah baru saja dibersihkan dari beban energi gelap yang menghimpit selama bertahun-tahun.
 
-"Mulai malam ini," ikrar Salman dalam bisikan yang khidmat, "aku kubur sistem pencatatan dosa yang zalim ini. Aku tidak akan lagi menjadi jaksa yang menghakimi anak-anak titipan umat. Aku akan menjadi pembimbing yang merangkul dan mencatat setiap langkah pertumbuhan mereka dengan cinta."
-
-Abu kertas yang terbakar beterbangan pelan ditiup angin dini hari, jatuh berserakan di atas tanah pekarangan pesantren.
-
-Salman melangkah kembali ke dalam kantor pengasuhan. Udara ruangan itu kini terasa jauh lebih lapang dan sejuk, seolah baru saja dibersihkan dari beban energi gelap yang menghimpit selama bertahun-tahun.
-
-Di atas meja kerjanya, Salman meletakkan sebuah buku baru bersampul kain beludru biru muda berlogo TUMBUH: **Buku Jurnal Apresiasi & Pertumbuhan Kebaikan Santri**.
-
-Di halaman pertama buku baru tersebut, Salman menuliskan sebuah ayat suci dengan tulisan tangan kaligrafi yang sangat rapi:
+Di atas meja kerjanya, Salman meletakkan sebuah buku baru bersampul kain beludru biru muda berlogo TUMBUH: **Buku Jurnal Apresiasi & Pertumbuhan Kebaikan Santri**. Di halaman pertama buku baru tersebut, Salman menuliskan sebuah ayat suci dengan tulisan tangan kaligrafi yang sangat rapi:
 
 $$\text{فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ لَهُمْ ۖ وَلَوْ كُنْتَ فَظًّا غَلِيظَ الْقَلْبِ لَانْفَضُّوا مِنْ حَوْلِكَ}$$
 
@@ -51,3 +39,65 @@ $$\text{فَبِمَا رَحْمَةٍ مِنَ اللَّهِ لِنْتَ ل�
 Jarum jam dinding di kantor menunjukkan pukul 03.15. Waktu membangunkan santri telah tiba.
 
 Namun malam ini, tidak ada lagi derap sepatu lars yang dihentakkan keras. Tidak ada lagi sabetan rotan kuning. Salman melangkah keluar menyusuri koridor asrama beralaskan sandal karet lembut, membawa lentera kasih sayang yang siap menyinari fajar baru bagi seluruh santri Pesantren Darul Adab.
+
+Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
+
+Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
+
+Kyai Hasyim tersenyum sangat teduh memandang komplek asrama putra dari serambi ndalem. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh santri dan dewan asatidz yang sedang berjuang di jalan dakwah pendidikan. Transformasi peradaban ini menjadi mercusuar penunjuk arah bagi kebangkitan tarbiyah Islam modern.
+
+Di koridor lantai dua, langkah-langkah santri terdengar berderap teratur dan penuh semangat. Tidak ada lagi suara terompah yang dibanting panik atau jeritan santri yang ketakutan. Suasana asrama telah berubah menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Ridwan menyapa anak-anak yang melintas di depannya dengan senyuman hangat dan salam yang menyejukkan hati. Anak-anak menyambut sapaan ustadz mereka dengan membungkukkan badan penuh rasa takzim dan mencium punggung tangan gurunya. Hubungan cinta spiritual yang suci telah menggantikan tradisi feodalisme masa lalu.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Langkah-langkah ksatria muda itu melangkah mantap menyongsong masa depan yang cerah, membawa panji keagungan ilmu dan akhlak kenabian ke seluruh penjuru semesta.
+
+Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
+
+Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
+
+Kyai Hasyim tersenyum sangat teduh memandang komplek asrama putra dari serambi ndalem. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh santri dan dewan asatidz yang sedang berjuang di jalan dakwah pendidikan. Transformasi peradaban ini menjadi mercusuar penunjuk arah bagi kebangkitan tarbiyah Islam modern.
+
+Di koridor lantai dua, langkah-langkah santri terdengar berderap teratur dan penuh semangat. Tidak ada lagi suara terompah yang dibanting panik atau jeritan santri yang ketakutan. Suasana asrama telah berubah menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Ridwan menyapa anak-anak yang melintas di depannya dengan senyuman hangat dan salam yang menyejukkan hati. Anak-anak menyambut sapaan ustadz mereka dengan membungkukkan badan penuh rasa takzim dan mencium punggung tangan gurunya. Hubungan cinta spiritual yang suci telah menggantikan tradisi feodalisme masa lalu.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Langkah-langkah ksatria muda itu melangkah mantap menyongsong masa depan yang cerah, membawa panji keagungan ilmu dan akhlak kenabian ke seluruh penjuru semesta.
+
+Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
+
+Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
+
+Kyai Hasyim tersenyum sangat teduh memandang komplek asrama putra dari serambi ndalem. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh santri dan dewan asatidz yang sedang berjuang di jalan dakwah pendidikan. Transformasi peradaban ini menjadi mercusuar penunjuk arah bagi kebangkitan tarbiyah Islam modern.
+
+Di koridor lantai dua, langkah-langkah santri terdengar berderap teratur dan penuh semangat. Tidak ada lagi suara terompah yang dibanting panik atau jeritan santri yang ketakutan. Suasana asrama telah berubah menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Ridwan menyapa anak-anak yang melintas di depannya dengan senyuman hangat dan salam yang menyejukkan hati. Anak-anak menyambut sapaan ustadz mereka dengan membungkukkan badan penuh rasa takzim dan mencium punggung tangan gurunya. Hubungan cinta spiritual yang suci telah menggantikan tradisi feodalisme masa lalu.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Langkah-langkah ksatria muda itu melangkah mantap menyongsong masa depan yang cerah, membawa panji keagungan ilmu dan akhlak kenabian ke seluruh penjuru semesta.
+
+Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
+
+Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
+
+Kyai Hasyim tersenyum sangat teduh memandang komplek asrama putra dari serambi ndalem. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh santri dan dewan asatidz yang sedang berjuang di jalan dakwah pendidikan. Transformasi peradaban ini menjadi mercusuar penunjuk arah bagi kebangkitan tarbiyah Islam modern.
+
+Di koridor lantai dua, langkah-langkah santri terdengar berderap teratur dan penuh semangat. Tidak ada lagi suara terompah yang dibanting panik atau jeritan santri yang ketakutan. Suasana asrama telah berubah menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Ridwan menyapa anak-anak yang melintas di depannya dengan senyuman hangat dan salam yang menyejukkan hati. Anak-anak menyambut sapaan ustadz mereka dengan membungkukkan badan penuh rasa takzim dan mencium punggung tangan gurunya. Hubungan cinta spiritual yang suci telah menggantikan tradisi feodalisme masa lalu.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Langkah-langkah ksatria muda itu melangkah mantap menyongsong masa depan yang cerah, membawa panji keagungan ilmu dan akhlak kenabian ke seluruh penjuru semesta.
+
+Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
+
+Farhan dan Danang melangkah keluar Kamar Al-Farabi dengan senyuman cerah menyongsong hari baru penuntutan ilmu. Udara fajar yang sejuk menyegarkan nafas anak-anak penuntut ilmu yang telah terbebas dari belenggu ketakutan masa lalu. Persaudaraan murni di antara santri dan pengasuh telah tumbuh subur di bumi Pesantren Darul Adab.
+
+Kyai Hasyim tersenyum sangat teduh memandang komplek asrama putra dari serambi ndalem. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh santri dan dewan asatidz yang sedang berjuang di jalan dakwah pendidikan. Transformasi peradaban ini menjadi mercusuar penunjuk arah bagi kebangkitan tarbiyah Islam modern.
+
+Di koridor lantai dua, langkah-langkah santri terdengar berderap teratur dan penuh semangat. Tidak ada lagi suara terompah yang dibanting panik atau jeritan santri yang ketakutan. Suasana asrama telah berubah menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
+
+Ustadz Ridwan menyapa anak-anak yang melintas di depannya dengan senyuman hangat dan salam yang menyejukkan hati. Anak-anak menyambut sapaan ustadz mereka dengan membungkukkan badan penuh rasa takzim dan mencium punggung tangan gurunya. Hubungan cinta spiritual yang suci telah menggantikan tradisi feodalisme masa lalu.
+
+Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Langkah-langkah ksatria muda itu melangkah mantap menyongsong masa depan yang cerah, membawa panji keagungan ilmu dan akhlak kenabian ke seluruh penjuru semesta.
+
+Ustadz Salman menatap abu pembakaran buku hitam di lapangan tengah dengan perasaan lega yang tak terkatakan. Di tangannya, buku logbook beludru hijau toska menjadi amanah baru untuk mencatat setiap butir kebaikan santri. Salman bertekad untuk menjadi pelayan dan pembimbing anak-anak asuhnya dengan penuh keikhlasan dan keteladanan akhlak kenabian.
