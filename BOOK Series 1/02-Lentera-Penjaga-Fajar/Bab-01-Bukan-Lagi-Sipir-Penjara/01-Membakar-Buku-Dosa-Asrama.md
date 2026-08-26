@@ -50,13 +50,7 @@ Di koridor lantai dua, langkah-langkah santri terdengar berderap teratur dan pen
 
 Ustadz Ridwan menyapa anak-anak yang melintas di depannya dengan senyuman hangat dan salam yang menyejukkan hati. Anak-anak menyambut sapaan ustadz mereka dengan membungkukkan badan penuh rasa takzim dan mencium punggung tangan gurunya. Hubungan cinta spiritual yang suci telah menggantikan tradisi feodalisme masa lalu.
 
-Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Langkah-langkah ksatria muda itu melangkah mantap menyongsong masa depan yang cerah, membawa panji keagungan ilmu dan akhlak kenabian ke seluruh penjuru semesta.
-
 Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
-
-Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
-
-Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
 
 Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
 
@@ -81,29 +75,3 @@ Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikka
 Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
 
 Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu.
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (14)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (15)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (16)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (17)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (18)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (19)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (20)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (21)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (22)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (23)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (24)
-
-Di bilik asrama pada keheningan sepertiga malam berikutnya, Farhan dan kawan-kawan sekamar terus memupuk kesadaran batiniah dan kemandirian adab secara istiqamah. Mereka saling mengingatkan untuk selalu menjaga niat yang ikhlas, memelihara kebersihan lingkungan 5S, dan berpegang teguh pada tuntunan Rasulullah SAW. Proses tarbiyah fitrah ini berlangsung alami dan mengakar kokoh di dalam sanubari setiap penuntut ilmu. (25)
