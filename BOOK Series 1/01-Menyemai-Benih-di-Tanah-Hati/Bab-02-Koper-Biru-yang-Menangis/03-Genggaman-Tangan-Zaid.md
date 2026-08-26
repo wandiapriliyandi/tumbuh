@@ -92,14 +92,14 @@ Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di 
 
 Di luar serambi asrama, hembusan angin sejuk pegunungan menyegarkan suasana kehidupan santri 24 jam. Langkah-langkah kaki penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga.
 
-Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
-
-Kyai Hasyim memantau perkembangan seluruh santri dari serambi ndalem dengan tatapan penuh rasa syukur ke hadirat Allah SWT. Kiai memanjatkan doa perlindungan dan keberkahan untuk seluruh anak-anak asuh dan dewan asatidz di pondok. Pesantren Darul Adab telah menjelma menjadi oase ketenteraman spiritual dan taman ilmu yang diberkahi Ilahi.
-
-Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
-
-Maha Suci Allah yang telah menganugerahkan cahaya hidayah dan keindahan adab di bumi Pesantren Darul Adab. Perjalanan meniti tangga Insan Adabi akan terus melangkah maju membawa panji kemuliaan Islam menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat dan karunia-Nya yang abadi.
-
 Di bawah naungan langit Pesantren Darul Adab yang jernih, hembusan angin sepoi-sepoi membawa kedamaian dan kesegaran bagi seluruh penuntut ilmu. Langkah-langkah kaki santri terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
 
 Zaid membimbing adik-adik asuhnya dengan penuh kelembutan, kesabaran, dan keteladanan akhlak kenabian. Zaid mengamalkan hadits Sayyidul Qaumi Khadimuhum secara nyata dalam setiap interaksi pengasuhan sehari-hari. Wajah-wajah santri baru yang dahulunya diliputi ketakutan kini memancarkan senyuman cerah dan rasa percaya diri yang tinggi.
+
+Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+
+Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+
+Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+
+Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
