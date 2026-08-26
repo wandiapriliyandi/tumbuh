@@ -1,24 +1,24 @@
 # Sub-Bab 9.1: Tanda Tangan Wali Kelas di Kartu Biru
 
-Setiap pagi pukul 07.00, sebelum jam pelajaran pertama dimulai, seorang santri bernama Danang melangkah mendekati meja Ustadz Burhan sembari membawa selembar kartu berukuran saku berwarna biru muda: **Kartu Harian Sahabat Belajar (CICO Daily Progress Report)**.
+Pukul 12.15 siang menjelang jam kepulangan madrasah di kelas 7-A Pesantren Darul Adab.
 
-Danang adalah salah satu santri yang sedang mendapatkan intervensi terarah Tier 2 PBIS untuk membantunya meningkatkan konsentrasi belajar dan partisipasi kelas.
+Seorang santri bernama Rian melangkah mendekati meja kerja Ustadz Burhan sembari memegang selembar kartu berukuran saku berwarna biru muda berlogo TUMBUH: **Kartu Harian Sahabat Belajar CICO Tier 2 (*The Check-In Check-Out Daily Success Card*)**.
 
-Burhan menerima kartu biru tersebut dengan senyuman hangat.
+Rian adalah santri yang sedang dalam program pendampingan khusus Tier 2 karena memiliki riwayat kesulitan fokus dan impulsif saat pelajaran berlangsung.
 
-Di dalam kartu tersebut, terdapat tiga target perilaku adab positif yang telah disepakati bersama:
-1. Menyiapkan buku dan alat tulis di atas meja sebelum bel masuk berbunyi.
-2. Mengangkat tangan saat ingin bertanya atau berpendapat.
-3. Mencatat poin penting penjelasan guru dengan rapi.
+Di kartu birunya, terdapat tiga indikator target perilaku positif harian yang sangat jelas:
+1. *Duduk tertib mendengarkan penjelasan guru.*
+2. *Menuntaskan tugas latihan mandiri tepat waktu.*
+3. *Bertutur kata santun kepada guru dan kawan sebangku.*
 
-Di akhir setiap sesi mata pelajaran, guru yang mengajar memberikan skor apresiasi (skor 2 untuk mandiri, 1 untuk diingatkan sekali, 0 untuk butuh bimbingan ekstra) disertai tanda tangan paraf dan paraf senyuman.
+Pada setiap kolom jam pelajaran (Jam 1 hingga Jam 6), para guru mata pelajaran telah memberikan nilai poin (Skala 1, 2, atau 3) dan paraf kecil.
 
-Burhan menandatangani kolom sesi pertama dengan skor maksimal (skor 2) seraya berkata: "Danang, fokusmu pagi ini di jam Nahwu sangat mengagumkan! Pertahankan terus sampai jam terakhir ya, Mas."
+Ustadz Burhan menerima kartu biru itu dengan senyuman hangat, lalu menghitung total poin yang diraih Rian sepanjang pagi hingga siang hari.
 
-Danang menerima kartu birunya dengan binar mata bahagia.
+"Subhanallah, Rian!" seru Burhan dengan nada takjub sembari menatap wajah muridnya itu. "Dari total 18 poin maksimal hari ini, kamu berhasil meraih 16 poin penuh! Itu artinya kamu mencapai target keberhasilan 88%!"
 
-Sistem kartu harian CICO ini menjadi jembatan monitoring yang sangat efektif antara wali kelas madrasah dan musyrif asrama:
-* Pada sore hari, Danang akan membawa kartu tersebut ke Ustadz Salman di asrama untuk sesi *Afternoon Check-Out*.
-* Skor harian direkapitulasi secara objektif untuk melihat grafik kemajuan dan memberikan reward penguatan mingguan.
+Rian tersenyum lebar dengan mata berbinar-binar bangga.
 
-Santri tidak merasa sedang 'diawasi untuk dicari kesalahannya', melainkan merasa sedang **didampingi oleh tim sahabat guru yang sangat peduli pada kemajuannya setiap jam**.
+Burhan membubuhkan tanda tangannya di kolom wali kelas, lalu menuliskan sebuah stiker bintang emas di kartu biru tersebut.
+
+Ritual verifikasi kartu CICO selama dua menit di akhir jam madrasah ini memberikan umpan balik langsung (*Immediate Positive Reinforcement*) yang sangat efektif bagi penguatan regulasi diri santri.

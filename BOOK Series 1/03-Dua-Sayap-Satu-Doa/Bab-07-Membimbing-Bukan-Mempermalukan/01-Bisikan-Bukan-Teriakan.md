@@ -1,19 +1,25 @@
 # Sub-Bab 7.1: Bisikan Bukan Teriakan
 
-Saat jam pelajaran Sharaf berlangsung, seorang santri bernama Rayhan kedapatan sedang menggambar komik di buku catatannya alih-alih mencatat wazan fi'il tsulatsi mazid yang sedang dijelaskan di papan tulis.
+Pukul 11.15 siang. Di tengah sesi latihan menulis insya' bahasa Arab di kelas 7-A, Faisal tampak asyik melipat secarik kertas menjadi pesawat terbang kecil di kolong dampar mejanya sembari mengabaikan instruksi guru.
 
-Di masa lalu, guru tradisional mungkin akan melempar kapur ke arah Rayhan, membentaknya di depan seluruh teman sekelasnya, atau menyuruhnya berdiri di depan kelas sembari mengangkat satu kaki.
+Di masa lalu, guru yang emosional akan langsung melempar kapur tulis ke kepala Faisal atau meneriakkan namanya di depan seluruh kelas: *"Faisal! Kamu tidak tahu malu ya! Berdiri di depan kelas sampai jam istirahat!"*.
 
-Namun Ustadz Burhan mempraktikkan adab koreksi Nabawi: **Nasihat Rahasia Meja Guru (*Private Desk Correction*)**.
+Tindakan mempermalukan murid di depan publik (*Public Shaming*) ini merusak harga diri anak, memicu dendam terselubung, dan mematikan kecintaannya pada pelajaran.
 
-Burhan tidak menghentikan penjelasannya, tidak pula menyebut nama Rayhan di hadapan kelas. Ia terus berjalan santai menjelaskan materi sembari melangkah perlahan menuju meja Rayhan.
+Namun Ustadz Burhan mempraktikkan etika tarbiyah Nabawi yang luhur: **Koreksi Privat Melalui Bisikan Kasih Sayang (*Praise in Public, Correct in Private*)**.
 
-Burhan berdiri di samping meja Rayhan, meletakkan telapak tangannya di sudut meja, lalu berbisik dengan nada yang sangat lembut dan bersahabat:
+Burhan tidak menghentikan penjelasan kelasnya dan tidak menyebut nama Faisal di hadapan kawan-kawannya.
 
-*"Rayhan, gambarmu bagus sekali dan penuh bakat seni. Tapi sekarang adalah waktu kita memuliakan ilmu Sharaf. Simpan dulu komikmu di dalam tas ya, Mas, dan mari kita selesaikan wazan bab ini bersama-sama. Nanti saat jam istirahat, tunjukkan gambarmu ke Ustadz ya."*
+Burhan berjalan perlahan menyusuri lorong kelas sembari terus menjelaskan materi, lalu berdiri di samping dampar meja Faisal.
 
-Rayhan tersentak kaget, wajahnya memerah karena malu. Namun di dalam hatinya, tidak ada rasa dendam atau rasa terhina, karena harga dirinya tidak diinjak-injak di depan kawan-kawannya.
+Burhan membungkukkan badannya dengan lembut, meletakkan tangannya di atas meja Faisal, lalu berbisik pelan tepat di telinga Faisal dengan nada suara yang sangat bersahabat:
 
-Rayhan segera menutup buku gambarnya, memasukkannya ke dalam tas, dan membuka kembali buku catatan Sharafnya dengan penuh kesungguhan.
+"Faisal, Ksatria... Simpan pesawat kertasmu ke dalam tas ya. Ustadz ingin melihat tulisan insya' bahasa Arabmu yang indah di buku latihan. Bismillah..."
 
-Koreksi privat dengan bisikan kelembutan terbukti ribuan kali lebih efektif mengubah perilaku santri daripada teriakan amarah yang mempermalukan martabat anak di depan publik.
+Faisal tersentak kaget, wajahnya memerah karena malu. Namun ia tidak merasa dihina atau dipermalukan di depan kawan-kawannya, karena tak seorang pun santri lain yang mendengar bisikan tersebut.
+
+Faisal segera memasukkan pesawat kertasnya ke dalam tas, membuka buku tulisnya, dan mulai menulis dengan sungguh-sungguh.
+
+Burhan menepuk lembut pundak Faisal sebelum melangkah kembali ke depan kelas.
+
+Menegur dengan bisikan privat menjaga kehormatan diri (*Murū'ah*) anak, membangun rasa percaya yang mendalam antara murid dan guru, dan membuktikan bahwa ketegasan sejati tidak membutuhkan teriakan yang melukai hati.

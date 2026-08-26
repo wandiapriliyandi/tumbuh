@@ -1,24 +1,27 @@
 # Sub-Bab 2.1: Menyambut Santri di Pagi Hari
 
-Pukul 06.55 pagi. Bel tanda dimulainya jam pertama madrasah berdentang lima menit lagi. Di koridor lantai satu gedung madrasah putra, Ustadz Burhan telah berdiri tegak tepat di ambang pintu masuk kelas delapan B.
+Pukul 06.50 pagi di depan pintu masuk ruang kelas 7-A madrasah Pesantren Darul Adab. Koridor madrasah yang bersih dan terang benderang disinari cahaya mentari pagi yang hangat.
 
-Burhan mengenakan kemeja batik lengan panjang yang rapi, celana kain hitam, dan peci hitam yang terpasang tegak. Di wajahnya tersungging senyuman ramah yang menyegarkan siapa pun yang memandangnya.
+Ustadz Burhan sudah berdiri tegak di ambang pintu kelas sepuluh menit sebelum bel masuk berbunyi. Di tangannya tidak ada tongkat penggaris kayu pemukul meja. Burhan mengenakan kemeja putih berserban hijau rapi dan menyematkan senyuman paling hangat di wajahnya.
 
-Satu per satu santri kelas delapan B melangkah mendekati pintu kelas.
+Ketika santri-santri berdatangan menaiki tangga koridor, Burhan mempraktikkan protokol wajib pedagogi master: **Penyambutan Hangat di Ambang Pintu (*Threshold Welcoming & High-Five Connection*)**.
 
-Ketika Faisal dan Ihsan tiba di depan pintu, Burhan mengulurkan tangannya, menyambut kedua santri itu dengan jabat tangan hangat dan tatapan mata yang ramah setinggi pandangan mata (*Eye-to-Eye Connection*).
+Setiap santri yang hendak melangkah masuk ke dalam kelas disambut secara personal:
+* Burhan menatap mata santri dengan penuh perhatian (*Eye Contact*).
+* Menyebut nama santri secara lengkap dengan panggilan kehormatan: *"Ahlan wa sahlan, Farhan Ksatria Peradaban!"*
+* Memberikan pilihan gestur sapaan: jabat tangan takzim, tepukan bahu bersahabat, atau *high-five* telapak tangan.
 
-"Assalamu'alaikum, Faisal! Assalamu'alaikum, Ihsan! Selamat pagi para ksatria peradaban! Bagaimana kabar antum berdua pagi ini?" sapa Burhan dengan nada suara yang penuh energi positif.
+Farhan yang melangkah mendekati pintu kelas langsung tersenyum lebar dan melakukan *high-five* bersama Ustadz Burhan.
 
-"Wa'alaikumussalam warahmatullah, Ustadz Burhan! Alhamdulillah sehat dan siap belajar!" jawab Faisal dan Ihsan serempak sembari tersenyum lebar dan mencium tangan guru mereka dengan takzim.
+*Plak!*
 
-Burhan memperhatikan kerapian kancing seragam mereka dan menepuk pundak keduanya dengan lembut. "Masya Allah, seragam antum berdua sangat rapi pagi ini. Silakan masuk, rapikan meja belajar, dan siapkan kitab *Fathul Qorib* di atas meja ya."
+Sentuhan telapak tangan yang bersahabat itu mengirimkan gelombang kehangatan dan rasa diterima (*Sense of Belonging*) ke dalam relung batin Farhan.
 
-Prosedur penyambutan di ambang pintu kelas ini dikenal dalam pedagogi PBIS sebagai **Protokol Penyambutan Positif di Ambang Pintu (*Positive Classroom Doorstep Greeting*)**.
+Riset neurosains pendidikan menunjukkan bahwa **ritual penyambutan di ambang pintu kelas selama 3 hingga 5 detik per siswa** mampu:
+1. Meningkatkan keterlibatan belajar akademik (*Academic Engagement*) di kelas hingga **20%**.
+2. Menurunkan perilaku gaduh dan disrupsi kelas hingga **9%**.
+3. Menciptakan rasa aman psikologis (*Psychological Safety*) yang membuka jendela kognitif anak untuk menyerap materi pelajaran baru dengan cepat.
 
-Riset neurosains pendidikan menunjukkan bahwa sambutan hangat guru di pintu kelas:
-1. Meningkatkan keterlibatan aktif akademik santri (*Academic Engagement*) hingga **20%** sepanjang jam pelajaran.
-2. Menurunkan potensi perilaku destruktif atau gaduh di dalam kelas hingga **54%**.
-3. Menciptakan **iklim belajar yang aman dan terprediksi (*Predictable Safe Learning Climate*)**, di mana santri merasa diakui, dihargai, dan disambut dengan cinta sejak detik pertama mereka melangkahkan kaki ke dalam ruang kelas.
+Satu per satu santri masuk ke dalam ruang kelas dengan wajah ceria dan langkah mantap.
 
-Burhan menyambut seluruh tiga puluh santri di kelasnya dengan perhatian personal yang setara, memastikan setiap anak memasuki ruang majelis ilmu dengan hati yang lapang dan pikiran yang siap untuk bertumbuh.
+Ruang kelas bukan lagi arena yang menegangkan dan menakutkan, melainkan sebuah majelis ilmu yang dirindukan dan dipenuhi oleh cahaya kasih sayang seorang guru.

@@ -1,20 +1,26 @@
 # Sub-Bab 3.2: Kitab yang Dimuliakan di Atas Meja
 
-Di atas setiap meja kayu di kelas delapan B, sebuah pemandangan indah tersaji: kitab-kitab pelajaran bersampul kuning dan mushaf Al-Qur'an diletakkan di atas dampar kayu kecil atau di posisi paling atas di tengah meja.
+Selain postur tubuh santri, salah satu pilar adab paling mendasar dalam tradisi pesantren adalah **Penghormatan Fisik terhadap Kitab & Mushaf (*The Sacred Physical Veneration of Books*)**.
 
-Tidak ada satu pun santri yang menaruh pulpen, penggaris, atau botol minum di atas kitab suci atau kitab hadits mereka.
+Di atas meja dampar masing-masing santri kelas 7-A, kitab kuning *Matan Al-Ajurrumiyyah* diletakkan di atas alas kain mori putih bersih berukuran kecil.
 
-Ustadz Burhan menceritakan sebuah kisah teladan agung dari Imam Abu Hanifah dan Imam Az-Zarnuji tentang **Ta'zhimul Kitab (Memuliakan Kitab Ilmu)**:
+Ustadz Burhan mengajarkan kaidah adab memperlakukan buku pelajaran:
+1. Kitab suci dan kitab ilmu dilarang keras diletakkan langsung di atas lantai yang diinjak kaki.
+2. Dilarang keras menaruh benda apa pun (seperti pulpen, penggaris, atau cangkir air) di atas jilid kitab kuning.
+3. Membuka halaman kitab menggunakan ujung jari yang telah dibasahi sedikit wudhu dengan gerakan yang sangat lembut agar kertas tidak robek.
 
-"Imam Az-Zarnuji dalam kitab *Ta'lim al-Muta'allim* menuliskan bahwa para ulama terdahulu tidak pernah meraih keberkahan ilmu dan pemahaman yang mendalam kecuali karena mereka sangat memuliakan ilmu dan alat-alat penuntut ilmu," tutur Burhan.
+Farhan memegang kitab *Jurumiyyah* miliknya dengan kedua belah tangannya.
 
-Burhan menguraikan adab-adab praktis terhadap buku dan kitab:
-1. Tidak meletakkan kitab di atas lantai tanpa alas.
-2. Tidak melipat sudut halaman (*dog-ear*), melainkan menggunakan pembatas pita kain yang rapi.
-3. Menulis catatan makna (*makna gandul*) dengan tulisan pegon yang rapi dan tinta yang bersih.
+Di bagian tepi halaman kitabnya yang berwarna kuning khas (*Kertas Merang*), Farhan menuliskan catatan makna makna kata (*Makna Gandul / Pegon*) menggunakan pena bertinta hitam dengan sangat rapi dan teliti.
 
-Ihsan yang sedang membuka halaman kitab *Fathul Qorib* membalik lembaran kertas kuning itu dengan sangat hati-hati, memastikan ujung kertasnya tidak terlipat atau sobek.
+Burhan berjalan perlahan menyusuri celah antardampar kayu, mengamati tulisan tangan santri-santrinya.
 
-"Ketika kita memuliakan kitab ilmu," bisik Ihsan dalam hatinya, "hakikatnya kita sedang memuliakan wahyu Allah dan sunnah Rasul-Nya yang tertulis di dalam lembaran-lembaran ini."
+Ketika Burhan berhenti di samping dampar Farhan, Burhan tersenyum kagum melihat kerapian harakat dan makna tarkib yang ditulis muridnya itu.
 
-Penanaman adab terhadap instrumen belajar ini melahirkan rasa takzim dan cinta yang mendalam terhadap ilmu pengetahuan, menjauhkan santri dari sifat sombong dan meremehkan ilmu.
+"Bagus sekali tulisanmu, Farhan. Rapi dan mudah dibaca," bisik Burhan pelan sembari memberikan anggukan apresiasi.
+
+Farhan tersenyum bersyukur di dalam hatinya.
+
+Memuliakan kitab fisik mengajarkan santri untuk menghargai warisan intelektual para ulama terdahulu.
+
+Ketika seorang anak manusia belajar memperlakukan selembar kertas ilmu dengan penuh rasa hormat dan kesucian, maka Allah SWT akan membukakan pintu-pintu pemahaman (*Fathul Qulub*) dan menganugerahkan keberkahan ilmu yang kekal di dalam kehidupannya.

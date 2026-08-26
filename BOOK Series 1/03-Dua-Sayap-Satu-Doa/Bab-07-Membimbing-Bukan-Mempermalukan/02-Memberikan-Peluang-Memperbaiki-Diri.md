@@ -1,23 +1,27 @@
 # Sub-Bab 7.2: Memberikan Peluang Memperbaiki Diri
 
-Selepas jam pelajaran berakhir dan bel istirahat berbunyi, Rayhan melangkah mendekati meja guru Ustadz Burhan dengan kepala tertunduk.
+Selepas bel istirahat madrasah berbunyi, Ustadz Burhan memanggil Faisal yang masih membereskan buku tulisnya di meja dampar.
 
-Di tangannya, buku gambar komiknya ia pegang erat-erat.
+"Faisal, boleh Ustadz minta waktu dua menit sebelum kamu ke asrama?" sapa Burhan hangat dari depan meja guru.
 
-"Ustadz Burhan..." bisik Rayhan dengan suara bergetar pelan. "Saya memohon maaf yang sebesar-besarnya atas kelalaian saya tadi saat jam pelajaran Sharaf."
+Faisal melangkah mendekat dengan langkah ragu-ragu dan kepala menunduk.
 
-Burhan tersenyum hangat, menatap Rayhan dengan pandangan penuh penerimaan. Ia menarik kursi kosong di samping mejanya dan mempersilakan Rayhan duduk.
+Burhan menarik sebuah kursi kayu dan mempersilakan Faisal duduk berhadapan dengannya.
 
-"Ustadz sudah memaafkanmu sebelum kamu meminta maaf, Rayhan," jawab Burhan lembut. "Manusia itu tempatnya salah dan lupa. Yang membedakan seorang ksatria adab dengan orang yang merugi adalah bagaimana ia bersikap setelah berbuat salah."
+Burhan tidak menceramahi dengan nada marah. Ia menatap mata Faisal dengan pandangan seorang sahabat yang mengayomi:
 
-Burhan membuka lembaran buku catatan Sharaf milik Rayhan yang masih kosong separuh.
+"Faisal, Ustadz tahu pelajaran insya' bahasa Arab siang tadi cukup panjang dan membutuhkan konsentrasi tinggi. Apakah kamu tadi merasa bosan atau lelah saat membuat pesawat kertas?"
 
-"Bagaimana rencanamu untuk memperbaiki materi wazan fi'il yang tadi tertinggal, Rayhan?" tanya Burhan memberikan ruang refleksi dan tanggung jawab (*Restitution Plan*).
+Faisal mengangguk pelan sembari menunduk. "Iya, Ustadz... Tadi tangan saya agak pegal menulis terus, jadi saya iseng melipat kertas. Maafkan saya ya, Ustadz Burhan..."
 
-Rayhan berpikir sejenak, lalu menjawab dengan mantap: "Saya akan meminjam buku catatan Faisal siang ini di asrama saat istirahat, menyalin seluruh wazan yang tertinggal, dan menghafalkannya untuk disetorkan kepada Ustadz besok pagi sebelum bel masuk."
+Burhan tersenyum hangat, lalu meletakkan tangannya di atas pundak Faisal:
 
-Burhan tersenyum bangga, menepuk pundak Rayhan dengan penuh keyakinan.
+"Ustadz memaafkanmu, Faisal. Setiap orang pasti pernah merasa jenuh. Namun ksatria sejati adalah yang berani bertanggung jawab dan memperbaiki kekhilafannya. Kira-kira, apa yang bisa kamu lakukan agar tugas insya'-mu tetap tuntas dengan baik?"
 
-"Rencana perbaikan yang sangat luar biasa, Rayhan! Ustadz tunggu setoran hafalanmu besok pagi dengan senyuman."
+Faisal berpikir sejenak, lalu mengangkat kepalanya dengan senyuman tekad:
 
-Pemberian kesempatan kedua (*Second Chance Culture*) dan restitusi mandiri ini mengajarkan santri tentang akuntabilitas sejati: bahwa kesalahan bukanlah kiamat dari harga diri, melainkan batu loncatan berharga untuk belajar bertanggung jawab dan bertumbuh menjadi pribadi yang lebih matang.
+"Saya akan menyelesaikan tiga kalimat insya' yang belum selesai saat jam muthala'ah sore nanti di asrama, lalu besok pagi saya kumpulkan ke meja Ustadz pertama kali!"
+
+"Sepakat! Ustadz sangat menghargai komitmenmu, Faisal. Kamu ksatria yang hebat!" puji Burhan seraya mengacungkan jempolnya.
+
+Memberikan kesempatan kedua (*The Second-Chance Reparation*) menumbuhkan lokus kendali internal (*Internal Locus of Control*) pada diri santri: mengajarkan anak untuk bertanggung jawab atas perbuatannya sendiri tanpa rasa takut yang menghancurkan jiwa.

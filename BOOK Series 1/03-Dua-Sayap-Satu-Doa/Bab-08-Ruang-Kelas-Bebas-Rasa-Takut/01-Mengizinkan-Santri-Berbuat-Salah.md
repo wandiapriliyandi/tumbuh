@@ -1,23 +1,31 @@
 # Sub-Bab 8.1: Mengizinkan Santri Berbuat Salah
 
-Di ruang kelas madrasah putra, Ustadz Burhan memasang sebuah plang kayu artistik kecil di atas papan tulis: **Di Kelas Ini, Kita Berani Mencoba, Boleh Berbuat Salah, dan Belajar Bersama (*Safe to Fail Learning Zone*)**.
+Pukul 09.15 pagi di ruang kelas 7-A madrasah Pesantren Darul Adab. Sesi latihan i'rob tarkib ayat-ayat Al-Qur'an sedang berlangsung.
 
-Di masa lalu, banyak santri yang memilih diam membisu saat guru bertanya di kelas, bukan karena mereka tidak tahu, melainkan karena mereka takut jika jawaban mereka keliru, mereka akan dimarahi guru atau ditertawakan oleh teman sekelasnya.
+Ustadz Burhan menuliskan sepotong ayat suci di papan tulis:
 
-Burhan merombak paradigma tersebut secara total.
+$$\text{إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ}$$
 
-"Anak-anakku," dawuh Burhan di hadapan para santri, "otak manusia tidak dirancang untuk langsung sempurna dalam sekali mencoba. Para penemu besar dunia dan para ulama mujtahid melewati ribuan kali kesalahan sebelum akhirnya menemukan kebenaran."
+Burhan meminta salah seorang santri baru yang pendiam bernama Danang untuk mencoba menentukan kedudukan kata *Ghafurun* pada ayat tersebut.
 
-Burhan menjelaskan konsep **Keamanan Psikologis Belajar (*Psychological Safety in Learning*)**:
-* Kesalahan dalam proses berpikir (*Trial and Error*) adalah bukti nyata bahwa neuron-neuron di otak sedang bekerja keras membangun jalur sinapsis baru.
-* Guru tidak pernah menghukum jawaban yang keliru; guru membimbing alur logika santri agar menemukan sendiri di mana letak kekeliruan tersebut.
+Danang berdiri dari bangkunya dengan wajah tegang. Dengan suara perlahan dan ragu-ragu, Danang menjawab:
 
-Ketika Farhan mencoba membedah kedudukan I'rob sebuah kalimat bahasa Arab yang rumit di papan tulis dan sempat salah menentukan tanda *I'rob Jar*, Burhan tidak mencoretnya dengan spidol merah besar.
+"Kata *Ghafurun* berkedudukan sebagai *Isim Inna*, Ustadz..."
 
-Burhan tersenyum dan berkata: "Langkah pertamamu sudah sangat tepat, Farhan! Sekarang coba perhatikan huruf terakhir dari isim tersebut, apakah ada huruf jar yang mendahuluinya?"
+Mendengar jawaban yang keliru tersebut, suasana kelas sempat hening sejenak. Beberapa santri di barisan belakang hampir saja tertawa mencemooh.
 
-Farhan mengamati kembali kalimat tersebut, matanya berbinar saat menemukan kuncinya: "Oh, ada huruf *Ba'*, Ustadz! Berarti tanda jarnya dengan kasrah!"
+Namun Ustadz Burhan segera mengangkat tangan kanannya dengan senyuman yang sangat teduh, memotong potensi ejekan di dalam kelas:
 
-"Tepat sekali, seratus untuk ketelitian Farhan!" puji Burhan.
+"Terima kasih banyak atas keberanianmu mencoba menjawab, Danang! Jawabanmu sangat menarik dan memberikan kita kesempatan belajar yang berharga."
 
-Suasana kelas yang aman dan mengizinkan santri berbuat salah menumbuhkan keberanian intelektual (*Intellectual Courage*) yang luar biasa, membuat santri antusias bertanya, berdiskusi, dan mencintai proses belajar tanpa rasa takut.
+Burhan melangkah mendekati papan tulis dan menjelaskan dengan penuh kelembutan:
+
+"Mari kita perhatikan bersama, Ksatria. Kata setelah *Inna* adalah lafadz jalalah *Allaha* yang berharakat fathah—itulah yang menjadi *Isim Inna*. Sedangkan kata *Ghafurun* yang berharakat dhammah adalah *Khabar Inna*-nya yang menyempurnakan makna kalimat."
+
+Burhan menoleh ke arah Danang sembari tersenyum bangga:
+
+"Danang, kamu luar biasa karena sudah berani maju mencoba! Dalam majelis ilmu ini, **Kesalahan Bukanlah Aib, Melainkan Anak Tangga Menuju Pemahaman yang Sempurna (*Mistakes are Stepping Stones to Mastery*)**."
+
+Danang menarik nafas lega. Tidak ada rasa malu, tidak ada rasa takut dimarahi.
+
+Menciptakan ruang kelas yang aman secara psikologis (*Psychological Safety*) membebaskan otak anak dari kecemasan kognitif, mendorong setiap santri untuk berani berpikir kritis, berani mencoba, dan bertumbuh tanpa rasa takut berbuat salah.

@@ -1,22 +1,27 @@
 # Sub-Bab 2.2: Membaca Bahasa Tubuh Sebelum Belajar
 
-Saat menyambut santri di ambang pintu kelas, Ustadz Burhan tidak hanya melontarkan salam basa-basi, melainkan secara aktif melakukan pemindaian visual terhadap bahasa tubuh (*Body Language Micro-Scanning*) setiap anak asuhnya.
+Saat berdiri menyambut santri di ambang pintu kelas, mata Ustadz Burhan tidak hanya tersenyum, melainkan aktif melakukan **Pemindaian Mikro-Ekspresi & Bahasa Tubuh Santri (*Socio-Emotional Body Language Scanning*)**.
 
-Ketika Danang—santri yang duduk di baris ketiga—melangkah melewati pintu dengan kepala menunduk dalam, langkah kaki yang berat, dan bahu yang membungkuk lesu, radar pedagogis Burhan seketika menyala.
+Burhan mengamati setiap gerak-gerik santri:
+* Santri yang melangkah dengan dada membusung dan sorot mata berbinar menandakan kesiapan belajar yang optimal.
+* Santri yang menundukkan kepala, menyeret kakinya, atau menghindari kontak mata menandakan adanya beban emosional atau masalah fisik yang sedang dialami.
 
-Burhan menahan tangan Danang dengan sangat lembut di pintu masuk.
+Ketika giliran Danang melangkah mendekati pintu, Burhan menangkap tanda-tanda khusus: langkah Danang sedikit gontai, kelopak matanya agak sayup, dan bibirnya tampak pucat.
 
-"Assalamu'alaikum, Danang," bisik Burhan dengan suara pelan dan penuh empati. "Wajahmu tampak sedikit pucat pagi ini, Mas. Apakah gigimu yang sakit semalam masih berdenyut?"
+Burhan menahan langkah Danang dengan lembut di samping pintu.
 
-Danang mendongak, matanya yang sayu menatap gurunya dengan rasa terharu karena diperhatikan. "Masih sedikit ngilu, Ustadz... tadi malam saya agak susah tidur."
+"Danang..." bisik Burhan sembari menempelkan punggung tangannya ke kening Danang dengan kehangatan seorang dokter pendidik.
 
-Burhan tersenyum penuh kasih sayang, menuntun Danang menuju kursinya.
+Kening Danang terasa hangat.
 
-"Duduklah dengan tenang, Danang. Nanti saat sesi diskusi kelompok, jika kepalamu terasa pusing, beri kode tangan pada Ustadz ya, agar kamu bisa minum air hangat atau beristirahat sejenak di bangku belakang."
+"Danang, badanmu masih agak hangat ya, Mas? Apakah kepalamu masih pusing?" tanya Burhan dengan nada penuh kepedulian.
 
-Setelah seluruh santri duduk di tempatnya masing-masing, Burhan memulai kelas dengan sesi **Tiga Menit Hening & Check-In Emosi (*Three-Minute Emotional Grounding*)**:
-1. Seluruh santri diajak memejamkan mata, menegakkan tulang punggung, dan menarik nafas panjang sembari melafalkan istighfar tiga kali.
-2. Burhan meminta santri mengangkat kartu simbol emosi kecil di atas meja: hijau (siap dan fokus), kuning (lelah/butuh bantuan), atau merah (sedang cemas/tertekan).
-3. Informasi visual instan ini memungkinkan guru menyesuaikan ritme mengajar dan memberikan perhatian khusus pada santri yang berada pada zona kuning atau merah tanpa mempermalukan mereka di depan kelas.
+Danang mengangguk pelan. "Sedikit pusing, Ustadz... Tapi Danang ingin tetap ikut pelajaran Nahwu."
 
-Sesi pembuka yang humanis ini mencairkan seluruh ketegangan kognitif di dalam kelas, mengubah ruang kelas madrasah menjadi ruang perjumpaan ilmu yang sarat rahmat dan ketenteraman jiwa.
+Burhan tersenyum penuh kasih sayang dan apresiasi atas tekad belajar muridnya itu.
+
+"Masya Allah, tekadmu luar biasa, Danang. Tapi kesehatanmu adalah yang utama. Mari duduk di bangku baris depan dekat meja Ustadz ya, di samping jendela yang sejuk. Jangan memaksakan diri mencatat terlalu banyak. Kalau nanti pusingmu bertambah, langsung beri tahu Ustadz agar kita antar ke Poskestren untuk istirahat."
+
+Kepekaan seorang guru dalam membaca bahasa tubuh murid sebelum pelajaran dimulai mencegah terjadinya pemaksaan akademik yang berbahaya bagi fisik anak.
+
+Danang duduk di bangkunya dengan hati yang sangat tenteram, merasa dihargai dan dilindungi oleh gurunya yang begitu mengerti kondisinya.

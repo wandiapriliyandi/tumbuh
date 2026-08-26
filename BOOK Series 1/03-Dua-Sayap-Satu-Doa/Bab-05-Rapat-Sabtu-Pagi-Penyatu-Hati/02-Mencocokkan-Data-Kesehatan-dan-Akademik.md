@@ -1,17 +1,19 @@
 # Sub-Bab 5.2: Mencocokkan Data Kesehatan dan Akademik
 
-Dalam sesi pencocokan data (*Data Triangulation Session*), Ustadz Burhan dan Ustadz Salman membahas perkembangan santri kelas delapan B, khususnya Faisal, Ihsan, dan Danang.
+Di paruh kedua Rapat Sabtu Pagi, laptop proyektor menampilkan dashboard analitik **Sistem Informasi Terpadu Dual-Pillar TUMBUH**.
 
-Salman memaparkan data asrama:
-* Faisal menunjukkan kepemimpinan yang sangat baik saat piket kebersihan kamar dan aktif membantu adik kelas tujuh.
-* Danang telah sembuh total dari sakit giginya dan tidurnya sangat teratur delapan jam setiap malam.
+Ustadz Burhan dan Ustadz Salman melakukan pencocokan silang data (*Data Cross-Triangulation*):
+* **Data Logbook Asrama**: Menampilkan tren jam tidur malam santri, catatan nafsu makan di dapur, dan partisipasi sholat tahajjud.
+* **Data Jurnal Madrasah**: Menampilkan tingkat fokus belajar di jam siang, nilai kuis formatif harian, dan interaksi diskusi kelompok.
 
-Burhan mencocokkannya dengan data kelas madrasah:
-* Keaktifan Danang di kelas meningkat drastis setelah mendapatkan apresiasi di depan papan tulis.
-* Nilai ujian Fiqih Faisal melonjak dari nilai 65 menjadi 92, didukung oleh waktu muthala'ah malam yang tenang di asrama tanpa beban PR tulis yang menumpuk.
+Sebuah pola menarik terlihat jelas pada profil santri bernama Faisal:
+* Pada pekan lalu, nilai kuis Matematika Faisal sempat turun drastis dan ananda tampak mengantuk di jam ketiga kelas.
+* Ketika dicocokkan dengan logbook asrama, terungkap bahwa Faisal sempat begadang di kamar mandi karena mencuci pakaian yang menumpuk terlambat dikerjakan.
 
-Kyai Hasyim tersenyum puas mendengar pemaparan tersebut.
+Burhan dan Salman seketika merumuskan solusi kolaboratif (*Integrated Support Plan*):
+1. **Intervensi Asrama**: Ustadz Salman menugaskan Zaid (santri senior J4) untuk membimbing Faisal mengatur manajemen waktu mencuci baju setiap sore pukul 16.30 agar tidak menumpuk hingga malam.
+2. **Intervensi Kelas**: Ustadz Burhan memberikan sesi klinik belajar matematika selama 15 menit ba'da Zhuhur untuk mengulang materi yang sempat tertinggal.
 
-"Inilah bukti nyata keberkahan sinergi Dua Sayap, anak-anakku," dawuh Kiai. "Ketika guru di kelas dan musyrif di asrama saling mendoakan dan saling melengkapi data, tidak ada energi yang terbuang sia-sia untuk perselisihan. Yang lahir adalah pertumbuhan karakter santri yang eksponensial menuju derajat Insan Adabi."
+Hasilnya, dalam waktu satu pekan, Faisal tidak lagi begadang di asrama dan nilai kuis matematikanya kembali melonjak ke peringkat atas.
 
-Rapat ditutup dengan saling bersalaman dan mendoakan keberkahan bagi seluruh civitas akademika Pesantren Darul Adab.
+Pencocokan data ilmiah yang berbasis empati ini membuktikan bahwa keberhasilan belajar santri di pesantren adalah hasil simfoni kerja sama yang harmonis antara kesehatan fisik, stabilitas emosi di asrama, dan pedagogi yang tepat di ruang kelas madrasah.

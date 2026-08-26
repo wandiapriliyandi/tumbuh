@@ -1,14 +1,13 @@
 # Sub-Bab 10.1: Laporan Naratif Kekuatan Bukan Kelemahan
 
-Di akhir semester ganjil, ruang kerja wali kelas madrasah dipenuhi oleh tumpukan berkas portofolio santri. Namun berbeda dengan rapor sekolah konvensional yang hanya memuat angka-angka kuantitatif dingin dan grafik peringkat ranking kelas, Ustadz Burhan dan Ustadzah Maryam sedang menyusun **Laporan Naratif Karakter Berbasis Kekuatan (*Strength-Based Narrative Progress Report*)**.
+Di meja kerja wali kelas madrasah Pesantren Darul Adab, Ustadz Burhan sedang menyusun format evaluasi berkala untuk dikirimkan kepada orang tua santri: **Rapor Naratif Berbasis Kekuatan Karakter (*Strength-Based Narrative Progress Report*)**.
 
-Setiap lembar laporan dirancang seperti sebuah surat cinta pedagogis dari pihak pesantren kepada orang tua santri:
-1. **Dimensi Kekuatan Utama (*Core Signature Strengths*)**: Mendeskripsikan secara hidup contoh-contoh konkret adab mulia yang ditunjukkan santri di kelas dan di asrama selama satu semester penuh.
-2. **Grafik Pertumbuhan Ipsatif (*Ipsative Trajectory*)**: Membandingkan kemajuan santri saat ini dengan kondisi dirinya sendiri di awal semester, bukan membandingkannya dengan anak orang lain (*Non-Comparative Assessment*).
-3. **Peluang Pertumbuhan Masa Depan (*Growth Opportunities*)**: Memberikan saran kolaboratif bagi orang tua tentang kebiasaan adab apa yang perlu dirawat dan dilanjutkan bersama saat anak pulang liburan di rumah.
+Format laporan naratif ini meninggalkan paradigma lama yang hanya memuat angka dingin 0–100 dan deretan ranking kelas yang memicu persaingan tidak sehat antarkeluarga.
 
-Burhan menuliskan laporan untuk Farhan:
+Dalam laporan Farhan, Burhan menuliskan narasi deskriptif yang sangat hidup dan menyentuh:
 
-> *"Ayah dan Bunda Farhan yang dirahmati Allah, kami bersyukur dapat mendampingi Ananda Farhan semester ini. Ananda menunjukkan kekuatan karakter yang sangat istimewa dalam dimensi **Nafi'un Lighairihi (Bermanfaat bagi Sesama)** dan ketekunan belajar Nahwu yang luar biasa. Di asrama, Farhan selalu menjadi anak yang paling peka merawat kawannya yang sakit; di kelas, keberaniannya bertanya dan menjawab tumbuh sangat mengagumkan..."*
+> *"Alhamdulillah, ananda Farhan menunjukkan lonjakan pertumbuhan adab dan kemandirian yang sangat mengagumkan pada bulan ini. Ananda mampu memimpin tadarus pagi di asrama dengan makhraj yang fasih, menunjukkan empati tinggi saat membantu kawan sekamarnya yang sakit, dan berhasil menguasai 15 bait kaidah Nahwu secara mandiri. Tantangan belajar ananda berikutnya adalah melatih kecepatan berhitung matematika pecahan, yang saat ini sedang kami dampingi melalui klinik belajar santai ba'da Zhuhur."*
 
-Laporan naratif ini menjadi jembatan hati yang menghubungkan kerinduan orang tua di rumah dengan bukti nyata pertumbuhan kematangan adab sang buah hati di pesantren.
+Pendekatan pelaporan naratif berbasis kekuatan (*Asset-Based Pedagogical Reporting*) ini memberikan gambaran yang utuh dan manusiawi tentang proses pertumbuhan fitrah anak.
+
+Orang tua tidak lagi cemas atau merasa dihakimi ketika menerima laporan dari pondok; mereka merasa diajak bermitra secara terhormat dalam merawat potensi unik buah hati mereka.

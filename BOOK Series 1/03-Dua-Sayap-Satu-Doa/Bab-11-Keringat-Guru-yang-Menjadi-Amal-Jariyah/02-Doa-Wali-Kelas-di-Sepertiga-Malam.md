@@ -1,15 +1,15 @@
 # Sub-Bab 11.2: Doa Wali Kelas di Sepertiga Malam
 
-Pukul 03.15 dini hari. Di bilik kamarnya yang sederhana di komplek perumahan asatidz, Ustadz Burhan telah bangkit dari tidurnya. Selepas berwudhu, ia menggelar sajadah beludrunya dan mendirikan sholat malam (*Qiyamul Lail*) dalam keheningan yang syahdu.
+Pukul 03.30 dini hari. Di kamar rumah dinasnya yang sederhana, Ustadz Burhan bersujud panjang di atas sajadah tipisnya mendirikan sholat Tahajjud.
 
-Di sujud terakhirnya, Burhan bersujud sangat lama, membasahi kain sajadahnya dengan air mata munajat.
+Air mata membasahi janggut tipisnya dan menetes ke atas kain sajadah.
 
-Selepas salam, Burhan mengangkat kedua tangannya tinggi-tinggi ke langit, membuka selembar kertas kecil yang memuat daftar nama tiga puluh santri kelas delapan B yang menjadi anak asuhnya.
+Dalam munajatnya yang lirih di keheningan sepertiga malam terakhir, Burhan membuka buku catatan absensi kelasnya, lalu menyebutkan nama dua puluh muridnya satu per satu di hadapan Allah SWT:
 
-Satu per satu nama santri itu ia sebutkan dalam doa-doa khususnya:
+> *"Ya Allah, Rabb Yang Membolak-balikkan Hati... Hamba-Mu yang lemah ini memohon kepada-Mu. Bukakanlah pintu pemahaman ilmu bagi Farhan, karuniakanlah ketenangan batin bagi Arya, sembuhkanlah sakitnya Danang, jadikanlah Faisal santri yang tertib, dan bimbinglah Rian agar mampu mengendalikan amarahnya... Jangan jadikan kelemahan hamba sebagai penghalang turunnya hidayah kepada mereka, ya Rabb..."*
 
-*"Ya Allah, Ya Hadi, Ya Rasyid... Bimbinglah hati Farhan agar hafalan Qur'annya semakin kuat... Lembutkanlah amarah Faisal dan jadikanlah ia ksatria pembela kebenaran... Berikanlah kefasihan lisan dan keberanian bagi Danang... Jadikanlah seluruh santri asuh kami sebagai lentera-lentera penerang umat yang beradab dan berbakti kepada orang tuanya..."*
+Kyai Hasyim pernah berpesan:
 
-Kyai Hasyim pernah berpesan bahwa **senjata terkuat seorang pendidik sejati bukanlah retorika lisannya di depan kelas, melainkan tetesan air matanya saat mendoakan murid-muridnya di sepertiga malam terakhir**.
+"Seorang guru yang hanya mengajar di waktu siang dengan lisannya hanyalah guru biasa. Namun guru yang menangis mendoakan murid-muridnya di kegelapan malam adalah murabbi sejati yang ilmunya akan menembus relung sanubari anak-anaknya."
 
-Ketika cinta seorang guru telah menyatu dengan doa-doa mustajab di hadapan Allah, tidak ada dinding hati murid yang terlalu keras untuk dilembutkan, dan tidak ada rintangan ilmu yang terlalu sulit untuk ditaklukkan.
+Kekuatan doa seorang pendidik yang ikhlas di waktu sahur adalah senjata spiritual paling dahsyat yang mampu melunakkan hati murid yang paling keras sekalipun dan membimbing mereka menuju kemuliaan akhlak.

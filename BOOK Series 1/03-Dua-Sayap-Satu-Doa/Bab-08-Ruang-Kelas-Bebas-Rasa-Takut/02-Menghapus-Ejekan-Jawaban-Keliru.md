@@ -1,21 +1,17 @@
 # Sub-Bab 8.2: Menghapus Ejekan Jawaban Keliru
 
-Dalam sebuah sesi kuis kelompok di kelas delapan B, seorang santri bernama Rizky salah menyebutkan tahun wafatnya Khalifah Umar bin Abdul Aziz. Seorang santri di kelompok lain sempat mengeluarkan suara tawa mengejek: *"Hahaha, masak tahun segitu saja tidak tahu!"*
+Di ruang kelas 7-A Pesantren Darul Adab, norma budaya saling menghargai dijaga dengan sangat ketat melalui kesepakatan adab kelas: **Piagam Majelis Adab Tanpa Ejekan (*Zero-Mockery Classroom Charter*)**.
 
-Seketika itu juga, Ustadz Burhan mengangkat tangannya dengan tenang. Kelas seketika hening.
+Ustadz Burhan membacakan salah satu pasal piagam adab yang terpampang rapi di dinding samping papan tulis:
 
-Burhan tidak membentak santri yang mengejek tersebut, melainkan memanfaatkan momen itu sebagai **Peluang Pembelajaran Adab (*Teachable Moment*)**.
+> *"Di dalam ruang kelas ini, setiap santri adalah saudara kandung penuntut ilmu. Dilarang keras menertawakan jawaban keliru kawan, dilarang melontarkan ejekan verbal, dan wajib memberikan tepuk tangan apresiasi kepada siapa pun yang berani mencoba menjawab."*
 
-"Santri yang dirahmati Allah," tutur Burhan dengan suara yang sangat tenang dan mendalam, "di kelas ini kita mengikat janji suci ukhuwah: **Kita saling menopang, bukan saling menjatuhkan**."
+Ketika sesi tanya jawab berikutnya berlangsung dan Farhan mencoba menjawab soal hafalan bait Nahwu yang sempat tersendat satu kata, seluruh santri di kelas tidak ada yang menertawakan.
 
-Burhan menatap seluruh santri secara bergantian.
+Sebaliknya, kawan-kawan sekelasnya memberikan isyarat anggukan penyemangat, dan ketika Farhan berhasil mengingat bait tersebut, seluruh kelas serempak bertepuk tangan memberikan apresiasi.
 
-"Ketika seorang saudaramu berani berdiri dan mencoba menjawab, ia sedang berjuang demi kelompoknya. Menertawakan kekeliruan kawan adalah cermin dari hati yang sombong dan miskin empati. Rasulullah SAW bersabda bahwa mencela saudaramu adalah kefasikan (*Sibabul Muslimi Fusuq*)."
+Farhan tersenyum lega dan membungkukkan badannya sebagai tanda terima kasih kepada kawan-kawannya.
 
-Santri yang sempat mengejek itu menundukkan kepalanya, menyadari kekhilafannya.
+Lingkungan belajar yang bebas dari ejekan (*Bullying-Free Learning Environment*) melahirkan iklim persaudaraan ilmiah yang sangat sehat.
 
-Dengan bimbingan Burhan, santri tersebut berdiri dan meminta maaf secara tulus kepada Rizky: *"Afwan, Rizky... aku tadi khilaf menertawakanmu. Terima kasih kamu sudah berani menjawab untuk kelompok kita."*
-
-Rizky tersenyum dan memaafkan temannya.
-
-Eliminasi mutlak budaya mengejek dan perundungan verbal di ruang kelas menciptakan ekosistem sosial yang sangat suportif. Santri merasa aman untuk berekspresi, saling mendukung dalam kesulitan belajar, dan merayakan kemajuan satu sama lain dalam ikatan persaudaraan yang murni.
+Santri-santri saling menopang kelemahan saudaranya, saling menguatkan hafalan, dan bertumbuh bersama dalam perlindungan ukhuwah Islamiyyah yang kokoh.

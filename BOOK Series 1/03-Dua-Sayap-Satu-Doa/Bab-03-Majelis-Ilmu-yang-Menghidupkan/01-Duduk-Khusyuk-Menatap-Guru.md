@@ -1,19 +1,29 @@
 # Sub-Bab 3.1: Duduk Khusyuk Menatap Guru
 
-Pukul 07.15 pagi. Di ruang kelas delapan B, suasana hening dan penuh takzim menyelimuti seisi ruangan. Tiga puluh pasang mata santri menatap lurus ke arah Ustadz Burhan yang sedang berdiri di depan papan tulis sembari memegang kitab kuning *Fathul Qorib*.
+Pukul 07.05 pagi di dalam ruang kelas 7-A madrasah Pesantren Darul Adab. Ruangan berukuran delapan kali sembilan meter itu dipenuhi oleh aroma minyak kasturi yang lembut dan udara segar pegunungan yang mengalir melalui jendela-jendela kayu yang terbuka lebar.
 
-Santri-santri duduk bersila di atas kursi kayu dengan posisi tubuh yang tegak, tidak ada yang bersandar malas ke dinding atau menopang dagu dengan tangan.
+Dua puluh santri duduk bersila rapi di atas karpet hijau tebal di hadapan meja dampar kayu jati masing-masing.
 
-Burhan sedang mengajarkan intisari dari kitab **Tadzkiratus Sami' wal Mutakallim fi Adabil 'Alim wal Muta'allim** karya Imam Ibnu Jama'ah tentang adab fisik seorang penuntut ilmu saat berada di majelis guru:
+Sebelum memulai membuka kitab, Ustadz Burhan membimbing para santri mempraktikkan **Adab Majelis Ta'lim Nabawi (*The Prophetic Etiquette of Learning*)**.
 
-$$\text{أَنْ يَجْلِسَ الطَّالِبُ بَيْنَ يَدَيْ شَيْخِهِ جِلْسَةَ الْأَدَبِ، بِسُكُونٍ وَخُشُوعٍ، وَيُقْبِلَ عَلَيْهِ بِكُلِّيَّتِهِ، وَلَا يَلْتَفِتَ عَنْهُ مِنْ غَيْرِ ضَرُورَةٍ}$$
+Burhan mengutip wasiat agung Imam Az-Zarnuji dalam kitab *Ta'lim al-Muta'allim Thariq at-Ta'allum*:
 
-> *"Hendaklah seorang penuntut ilmu duduk di hadapan gurunya dengan duduk penuh adab, tenang, khusyuk, menghadapkan seluruh jiwa dan raganya kepada gurunya, dan tidak menoleh ke sana-kemari tanpa kebutuhan yang mendesak."*
+$$\text{مَا وَصَلَ مَنْ وَصَلَ إِلَّا بِالْحُرْمَةِ، وَمَا سَقَطَ مَنْ سَقَطَ إِلَّا بِتَرْكِ الْحُرْمَةِ}$$
 
-Burhan menjelaskan bahwa duduk dengan tegak dan menatap guru dengan penuh perhatian (*Attentive Posture*) bukan sekadar tata krama lahiriah, melainkan sebuah **wadah penampung ilmu (*Ina'ul 'Ilm*)**.
+> *"Tidaklah seseorang meraih keberhasilan ilmu melainkan karena penghormatannya (terhadap ilmu dan guru), dan tidaklah seseorang jatuh terpuruk melainkan karena ia meninggalkan penghormatan tersebut."*
 
-"Ketika raga kalian duduk dengan tenang dan pandangan mata kalian fokus," jelas Burhan dengan suara yang berwibawa, "sistem saraf di otak kalian mengirimkan sinyal ke otak depan bahwa materi yang sedang disampaikan adalah hal yang sangat agung dan mulia."
+Santri-santri duduk dengan postur tubuh tegak, kedua lutut bersila sempurna, kedua tangan diletakkan di atas paha dengan tenang, dan tatapan mata memandang wajah guru dengan pandangan penuh rasa takzim dan haus akan ilmu.
 
-Faisal yang duduk di barisan depan menyimak setiap kata yang diucapkan gurunya dengan seksama. Di dalam benaknya, belajar bukan lagi kewajiban yang membosankan, melainkan sebuah ibadah agung yang menghubungkannya dengan mata rantai keilmuan para ulama salafus shalih.
+Tidak ada santri yang menyandarkan punggungnya ke dinding dengan malas. Tidak ada santri yang menoleh ke kiri dan ke kanan tanpa keperluan.
 
-Ruang kelas madrasah itu telah bertransformasi dari sekadar ruangan berdinding semen menjadi sebuah taman surga keilmuan yang dipenuhi oleh malaikat-malaikat yang membentangkan sayapnya karena ridha terhadap penuntut ilmu.
+Farhan menatap wajah Ustadz Burhan dengan fokus yang sangat tajam.
+
+Secara psikologi kognitif, postur tubuh yang tegak dan kontak mata yang terfokus (*Attentive Posture & Eye Tracking*) menstimulasi *Reticular Activating System (RAS)* di batang otak, menyaring gangguan distraksi lingkungan dan mengunci konsentrasi otak pada materi pembelajaran.
+
+Ketika Burhan melafalkan bait pertama *Matan Al-Ajurrumiyyah* dengan suara merdu dan berwibawa:
+
+$$\text{الْكَلَامُ هُوَ اللَّفْظُ الْمُرَكَّبُ الْمُفِيدُ بِالْوَضْعِ}$$
+
+Suara dua puluh santri menggemuruh serempak mengulang bait tersebut dengan kefasihan makhraj yang indah.
+
+Ruang kelas menjelma menjadi taman surga (*Raudhatul Jannah*) tempat ilmu wahyu dialirkan dari dada seorang guru yang ikhlas menuju sanubari murid-muridnya yang suci.

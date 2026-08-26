@@ -1,30 +1,27 @@
 # Sub-Bab 1.1: Ketika Kelas dan Kamar Saling Menyapa
 
-Matahari pagi baru saja menyinari halaman madrasah Pesantren Darul Adab dengan pendar keemasan yang hangat. Angin sejuk bertiup semilir menggoyangkan pucuk-pucuk pohon ketapang kencana di depan deretan ruang kelas berlantai dua.
+Pukul 06.15 pagi di pelataran gazebo tengah yang menghubungkan komplek asrama putra dan gedung madrasah Pesantren Darul Adab. Udara pagi terasa sejuk dan segar, dibasahi embun yang berkilauan di atas pucuk-pucuk daun puring merah.
 
-Di koridor penghubung antara gedung madrasah dan gedung asrama putra, Ustadz Burhan—wali kelas delapan putra yang berperawakan atletis dan berkacamata—sedang berdiri menanti kedatangan Ustadz Salman.
+Dua orang guru muda berdiri berdampingan sembari memegang cangkir kopi masing-masing: Ustadz Salman (Kepala Asrama Putra) dan Ustadz Burhan (Wali Kelas 7-A Madrasah).
 
-Keduanya berjabat tangan erat, saling melempar senyuman hangat penuh ukhuwah.
+Selama bertahun-tahun sebelum lahirnya Ekosistem TUMBUH, kedua pilar pengasuhan ini hidup dalam dunia yang terpisah laksana dua kutub yang terisolasi: para ustadz madrasah hanya peduli pada nilai ujian di atas kertas dan menganggap urusan asrama adalah tanggung jawab pengasuh, sementara para musyrif asrama hanya peduli pada ketertiban sholat dan menganggap urusan nilai adalah urusan guru kelas.
 
-"Assalamu'alaikum, Burhan," sapa Salman sembari menyerahkan map jepit berisi rekap catatan kesehatan dan catatan emosional santri pagi hari.
+Ketika seorang santri nilainya anjlok atau melanggar adab, kedua pihak saling menyalahkan dan melempar tanggung jawab.
 
-"Wa'alaikumussalam warahmatullah, Salman," jawab Burhan dengan mata berbinar. "Bagaimana kondisi anak-anak kita di kamar Al-Kindi dan Al-Farabi semalam?"
+Kyai Hasyim meruntuhkan tembok pemisah itu dengan sebuah metafora peradaban yang agung: **Dua Sayap Burung Garuda Peradaban (*The Dual-Pillar Caretaking Paradigm*)**.
 
-Salman membuka mapnya dan menjelaskan dengan sangat rinci:
-* Santri-santri tidur nyenyak tepat waktu pada pukul 21.45.
-* Farhan dan Ihsan menunjukkan fokus yang sangat baik saat muthala'ah mandiri.
-* Danang sempat mengeluh pusing karena giginya ngilu dan telah diperiksa oleh dokter poskestren pagi tadi.
+*"Burhan, Salman..."* dawuh Kyai Hasyim saat memimpin rapat perdana, *"seekor burung elang tidak akan pernah mampu terbang tinggi menembus badai jika sayap kanannya mengepak ke depan sementara sayap kirinya mengepak ke belakang. Madrasah adalah sayap intelektual akal, dan asrama adalah sayap pembiasaan adab dan ruhani. Jika kedua sayap ini tidak mengepak dalam satu frekuensi dan satu doa, anak-anak asuh kita akan jatuh terhempas ke tanah."*
 
-Burhan mencatat informasi tersebut dengan sangat cermat.
+Burhan menatap Salman seraya tersenyum hangat. "Salman, bagaimana kondisi anak-anak Kamar Al-Farabi semalam? Apakah tidur mereka nyenyak?"
 
-Di masa lalu, pemandangan koordinasi seperti ini tidak pernah terjadi di Pesantren Darul Adab. Ada jurang pemisah (*dikotomi*) yang sangat dalam antara dunia madrasah di siang hari dan dunia asrama di malam hari:
-* Guru madrasah hanya peduli pada nilai ujian akademik dan ketertiban di dalam kelas, menganggap apa yang terjadi di asrama bukan urusan mereka.
-* Sebaliknya, musyrif asrama hanya peduli pada kebersihan kamar dan absensi sholat, menganggap kesulitan belajar santri di sekolah adalah tanggung jawab guru madrasah.
+Salman membuka buku saku catatannya sembari tersenyum ramah:
 
-Akibatnya, santri menjadi korban di tengah-tengah dua kutub otoritas yang tidak saling berkomunikasi.
+"Alhamdulillah nyenyak, Burhan. Tadi malam seluruh santri tidur tepat pukul 21.45. Hanya saja, Farhan semalam sempat mengigau lirih karena cemas menghadapi ujian hafalan matan Jurumiyyah di kelasmu pagi ini. Tolong nanti di kelas berikan sapaan hangat pembuka ya, biar rasa cemasnya mencair."
 
-Kini, melalui pilar **Dual-Pillar Caretaking (Dua Ksatria Satu Amanah)** dalam Ekosistem TUMBUH, dinding pemisah itu telah diruntuhkan selamanya.
+Burhan mengangguk cepat sembari mencatat nama Farhan di buku agendanya.
 
-Wali kelas madrasah dan musyrif asrama memandang diri mereka sebagai **Dua Sayap dari Seekor Burung Peradaban**. Seekor burung tidak akan pernah bisa terbang tinggi mengarungi angkasa jika sayap kanan dan sayap kirinya mengepak dengan ritme yang berbeda.
+"Terima kasih infonya, Salman. Tentu saja! Nanti di awal jam pelajaran Nahwu, aku akan panggil Farhan dengan senyuman dan meminta dia membaca bait pembuka yang sudah ia kuasai dengan baik."
 
-"Ketika kelas dan kamar saling menyapa dan bertukar data setiap pagi," ungkap Burhan kepada Salman sembari melangkah bersama menuju ruang guru, "kita sedang membentangkan jaring pengaman yang memastikan tidak ada satu pun anak kita yang terjatuh di antara celah-celah pengasuhan."
+Pertukaran informasi yang tulus dan bersahabat selama lima menit di pelataran gazebo ini adalah jembatan emas yang menyatukan dua dunia santri.
+
+Farhan yang sedang berjalan melintasi gazebo menuju kelas madrasah melihat kedua gurunya berdiri akrab bersama. Di dalam hatinya, terbit rasa aman dan tenteram yang luar biasa: ia tahu bahwa ke mana pun ia melangkah, ada dua sayap pelindung yang senantiasa saling menjaga dan mendoakan keselamatannya.

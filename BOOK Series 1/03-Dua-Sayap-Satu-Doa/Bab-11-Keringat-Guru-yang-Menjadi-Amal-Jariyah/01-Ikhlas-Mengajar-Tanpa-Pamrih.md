@@ -1,17 +1,19 @@
 # Sub-Bab 11.1: Ikhlas Mengajar Tanpa Pamrih
 
-Sore hari selepas seluruh santri kembali ke asrama, ruang guru madrasah mulai sepi. Ustadz Burhan masih duduk di mejanya, merapikan tumpukan buku latihan santri dan menyiapkan media pembelajaran interaktif untuk esok pagi.
+Pukul 14.30 siang di ruang kelas 7-A yang sudah sepi dari santri. Sinar mentari siang membiaskan bayangan debu-debu kapur yang beterbangan perlahan di udara ruangan.
 
-Keringat dingin membasahi pelipisnya setelah mengajar enam jam penuh, namun tidak ada raut kelelahan atau kekesalan di wajahnya.
+Ustadz Burhan masih duduk di meja kerjanya seorang diri, menuntaskan koreksi puluhan lembar buku latihan insya' bahasa Arab milik para santri.
 
-Burhan memandang deretan nama santri-santrinya di buku jurnal kelas. Baginya, setiap huruf yang ia ajarkan di papan tulis bukanlah sekadar tugas profesi untuk mengejar honorarium duniawi, melainkan sebuah **Investasi Abadi Amal Jariyah (*Al-Amal al-Jariyah*)**.
+Keringat dingin membasahi punggung bajunya. Jari jemarinya terasa sedikit kaku setelah memegang pena merah berjam-jam.
 
-Imam Asy-Syafi'i rahimahullah pernah berpesan:
+Namun di wajah pemuda berusia dua puluh enam tahun itu, tidak tampak sedikit pun gurat kekesalan atau keluhan.
 
-$$\text{تَعَلَّمْ فَلَيْسَ الْمَرْءُ يُولَدُ عَالِمًا، وَإِنَّ رَسُولَ اللَّهِ لَمْ يَتْرُكْ دِرْهَمًا وَلَا دِينَارًا وَإِنَّمَا وَرَّثَ الْعِلْمَ}$$
+Burhan teringat nasihat agung Imam An-Nawawi dalam *At-Tibyan fi Adabi Hamalatil Qur'an*:
 
-> *"Belajarlah dan mengajarlah, karena tidak ada seorang pun yang dilahirkan langsung menjadi berilmu. Dan sesungguhnya Rasulullah SAW tidak mewariskan dinar maupun dirham, melainkan beliau mewariskan ilmu pengetahuan."*
+$$\text{يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَقْصِدَ بِتَعْلِيمِهِ وَجْهَ اللَّهِ تَعَالَى، وَلَا يَقْصِدَ بِهِ غَرَضًا دُنْيَوِيًّا}$$
 
-Burhan merenungi bahwa setiap kali seorang santri membaca Al-Qur'an dengan tajwid yang ia ajarkan, setiap kali santri mendirikan sholat dengan rukun yang ia bimbingkan, dan setiap kali santri berbuat adab kepada orang tuanya, pahala mengalir deras ke catatan amalnya tanpa henti hingga hari kiamat kelak.
+> *"Seyogianya bagi seorang guru berniat dalam mengajarnya semata-mata mengharap wajah Allah Ta'ala, dan tidak bermaksud mencari tujuan-tujuan duniawi sesaat."*
 
-Keikhlasan spiritual (*Ikhlasun Niyyah*) inilah yang menjadi bahan bakar tanpa batas bagi para pendidik di Pesantren Darul Adab untuk terus mengabdi dengan segenap cinta, kesabaran, dan ketulusan jiwa.
+Burhan membetulkan setiap kesalahan tanda harakat santri dengan penuh ketelitian, lalu membubuhkan catatan kecil doa di setiap halaman: *"Semoga Allah memahamkanmu ilmu agama, anakku..."*.
+
+Bagi seorang pendidik sejati di Pesantren Darul Adab, mengajar bukanlah sekadar profesi mencari nafkah materi, melainkan sebuah jalan pengabdian suci (*Thariqul Khidmah*) dan investasi amal jariyah yang pahalanya akan terus mengalir abadi bahkan setelah jasad terbujur kaku di dalam liang lahad.

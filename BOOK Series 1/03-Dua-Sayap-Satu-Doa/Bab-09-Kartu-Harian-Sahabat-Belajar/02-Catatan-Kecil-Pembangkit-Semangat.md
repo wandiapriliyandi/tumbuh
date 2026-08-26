@@ -1,15 +1,15 @@
 # Sub-Bab 9.2: Catatan Kecil Pembangkit Semangat
 
-Di bagian bawah Kartu Harian Sahabat Belajar, terdapat sebuah kolom khusus berukuran tiga baris bertuliskan: **Catatan Kasih Sayang Guru (*Teacher's Note of Encouragement*)**.
+Selain membubuhkan tanda tangan resmi di kartu CICO, Ustadz Burhan selalu menyisipkan **Catatan Kecil Apresiasi Personal (*Personalized Handwritten Sticky-Note Affirmation*)** di bagian bawah kartu harian santri.
 
-Ustadz Burhan tidak pernah membiarkan kolom tersebut kosong atau hanya membubuhkan paraf dingin.
+Burhan mengambil selembar sticky note berwarna kuning cerah, lalu menuliskan sebaris kalimat motivasi dengan pena tinta cair:
 
-Di akhir jam pelajaran siang, sebelum mengembalikan kartu kepada Danang, Burhan menuliskan sebaris kalimat dengan tinta biru yang rapi:
+> *"Untuk Rian Ksatria Tangguh: Hari ini Ustadz melihat fokus dan kerja kerasmu saat latihan menulis khat Arab sangat luar biasa. Kamu mampu menahan diri tidak mengganggu kawan dan berhasil menyelesaikan 5 baris khat dengan sangat rapi. Pertahankan prestasimu ini ya, Nak. Ustadz sangat bangga padamu!"*
 
-> *"Danang, hari ini tulisan I'robmu di buku catatan sangat rapi dan kamu berani membaca teks di depan kawan-kawanmu. Ustadz bangga padamu! Tetaplah bersinar, ksatria ilmu!"*
+Burhan menempelkan catatan kuning itu di sampul kartu biru Rian, lalu menyerahkannya kembali ke tangan Rian sembari menatap matanya dengan penuh kasih sayang:
 
-Ketika Danang membaca catatan kecil tersebut saat berjalan menuju asrama, sebuah senyuman haru merekah di bibirnya. Kalimat sederhana itu terasa seperti suntikan kekuatan yang tak ternilai harganya bagi jiwanya yang dulu rapuh.
+"Bawa kartu ini ke asrama ya, Rian. Tunjukkan kepada Ustadz Salman saat sesi check-out sore nanti, dan simpan catatan ini di dinding lemarimu sebagai penyemangat belajarmu."
 
-Penelitian psikologi pendidikan menunjukkan bahwa **catatan afirmasi positif tertulis dari seorang guru (*Written Growth Feedback*)** memiliki dampak retensi emosional jangka panjang yang sangat kuat pada pembentukan konsep diri (*Self-Concept*) remaja.
+Rian memeluk kartu biru itu erat-erat di dadanya. "Terima kasih banyak, Ustadz Burhan... Saya janji besok akan lebih semangat lagi."
 
-Santri menyimpan kartu-kartu biru tersebut di kotak kenangan mereka, menjadikannya bukti nyata bahwa di pondok pesantren ini, ada guru-guru yang senantiasa melihat kebaikan di dalam diri mereka dan percaya pada masa depan mereka yang gilang-gemilang.
+Catatan kecil dari seorang guru memiliki kekuatan psikologis yang luar biasa dalam merekonstruksi citra diri (*Self-Concept*) anak: mengubah anak yang tadinya menganggap dirinya 'anak nakal pembawa masalah' menjadi anak yang percaya bahwa dirinya berharga, mampu berprestasi, dan dicintai oleh para pendidiknya.

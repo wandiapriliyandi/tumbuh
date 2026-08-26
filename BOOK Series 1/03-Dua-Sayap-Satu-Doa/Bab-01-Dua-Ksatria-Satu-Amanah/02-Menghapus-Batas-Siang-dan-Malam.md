@@ -1,16 +1,31 @@
 # Sub-Bab 1.2: Menghapus Batas Siang dan Malam
 
-Di ruang rapat gabungan kurikulum madrasah dan pengasuhan asrama, sebuah bagan peta jalan terpadu dipaparkan di layar proyektor oleh Ustadz Anwar (Kepala Madrasah) dan Ustadz Ridwan (Kepala Asrama).
+Pukul 13.00 siang. Suasana jam kepulangan santri dari gedung madrasah menuju komplek asrama putra Pesantren Darul Adab.
 
-Bagan itu menunjukkan **Alur Siklus Pembinaan Holistik 24 Jam (*24-Hour Unified Holistic Cycle*)**:
-* **07.00 – 12.15 (Sesi Madrasah)**: Pembelajaran sains, bahasa Arab, dan ilmu syar'i berbasis inquiry dan manajemen kelas positif.
-* **12.15 – 17.30 (Sesi Asrama Siang)**: Penerapan adab makan siang, qailulah teratur, dan pengembangan minat bakat olahraga.
-* **18.00 – 21.45 (Sesi Asrama Malam)**: Muthala'ah kitab kuning, internalisasi 10 Muwashafat Karakter, dan penyiapan tidur berkualitas 5S.
+Ustadz Burhan melangkah keluar dari ruang kelas 7-A sembari menenteng tas dokumen mengajarnya. Alih-alih langsung pulang ke rumah dinasnya, Burhan berjalan santai menuju lorong Kamar Al-Farabi di lantai satu asrama putra.
 
-"Kita menghapus batas semu antara 'waktu sekolah' dan 'waktu asrama'," tegas Ustadz Anwar. "Adab penuntut ilmu yang diajarkan oleh guru di ruang kelas harus menjadi perilaku nyata yang hidup di kamar asrama; dan kedisiplinan 5S yang dilatih musyrif di asrama harus tercermin dalam kerapian meja belajar di ruang kelas."
+Pemandangan seorang guru madrasah berjalan menyapa santri di dalam kamar asrama adalah hal baru yang dulu mustahil terjadi.
 
-Ustadz Burhan dan Ustadz Salman menyepakati standar rubrik karakter yang sama:
-1. Santri yang menunjukkan kejujuran (*Ash-Shidq*) di ruang kelas saat ujian akan dicatat poin kebaikannya di logbook pengasuhan asrama.
-2. Santri yang menunjukkan kepedulian (*Al-Iitsaar*) membantu kawan sekamar yang sakit akan diapresiasi oleh wali kelas di hadapan teman-teman sekelasnya saat apel pagi.
+Di dalam Kamar Al-Farabi, Farhan, Faisal, dan Danang sedang duduk di atas karpet sembari melepaskan peci dan kaos kaki mereka.
 
-Harmonisasi kurikulum ini memberikan kepastian dan ketenangan batin yang luar biasa bagi santri. Santri tidak lagi merasa hidup dalam dua dunia yang kontradiktif dengan aturan yang berbeda-beda; mereka hidup dalam satu ekosistem terpadu yang memancarkan nilai-nilai adab Nabawi yang konsisten dari fajar hingga fajar kembali.
+Ketika pintu kamar diketuk pelan dan sosok Ustadz Burhan melangkah masuk dengan senyuman cerah, anak-anak asuh seketika mendongak dengan wajah berseri-seri gembira.
+
+"Assalamu'alaikum, ksatria-ksatria kelas 7-A!" sapa Burhan ramah sembari duduk bersila di samping Farhan.
+
+"Wa'alaikumussalam warahmatullah, Ustadz Burhan!" jawab anak-anak serempak sembari menyalami tangan guru mereka dengan takzim.
+
+Burhan menatap Farhan sembari tersenyum bangga:
+
+"Farhan, tadi saat pelajaran Nahwu di kelas, Ustadz sangat takjub melihat ketepatan makhraj dan hafalan bait I'rob-mu. Keren sekali! Bagaimana perasaanmu setelah maju membaca di depan kelas?"
+
+Farhan tersenyum tersipu sembari menggaruk tengkuknya yang tidak gatal.
+
+"Alhamdulillah lega sekali, Ustadz... Tadi pagi Farhan sempat sangat takut lupa, tapi karena Ustadz menyapa Farhan dengan senyuman di awal kelas, rasa takut Farhan seketika hilang."
+
+Ustadz Salman yang melongok dari pintu kamar ikut tertawa renyah.
+
+"Tuh kan, Farhan! Ustadz bilang apa tadi pagi di asrama? Gurumu di kelas adalah sahabatmu yang paling mencintaimu," seru Salman sembari menepuk pundak Farhan.
+
+Kehadiran guru madrasah di asrama dan keterlibatan musyrif di madrasah menghapus sekat dikotomi antara siang dan malam (*Seamless 24-Hour Holistic Ecosystem*).
+
+Santri tidak lagi merasa sedang menjalani dua kepribadian yang berbeda; mereka hidup dalam satu ekosistem kasih sayang yang utuh di mana setiap nafas, tawa, dan jerih payah mereka selalu dirawat dengan cinta para pendidik.

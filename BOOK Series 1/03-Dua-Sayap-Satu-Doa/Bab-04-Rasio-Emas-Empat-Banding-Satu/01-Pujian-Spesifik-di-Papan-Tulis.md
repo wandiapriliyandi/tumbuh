@@ -1,17 +1,31 @@
 # Sub-Bab 4.1: Pujian Spesifik di Papan Tulis
 
-Pukul 08.30 pagi di ruang kelas delapan B. Sesi tanya jawab interaktif materi Fiqih Muamalah sedang berlangsung dengan penuh semangat.
+Pukul 08.15 pagi di ruang kelas 7-A madrasah Pesantren Darul Adab. Sesi tanya jawab dan analisis kalimat kaidah Nahwu sedang berlangsung dengan sangat interaktif.
 
-Ustadz Burhan memegang spidol hitam di depan papan tulis putih. Alih-alih menuliskan daftar rumus atau ancaman sanksi bagi yang tidak memperhatikan, Burhan menggambar sebuah pohon kebaikan di sudut kanan papan tulis: **Pohon Apresiasi Keberanian Ilmiah (*The Tree of Courage*)**.
+Ustadz Burhan menuliskan sebuah kalimat bahasa Arab di papan tulis putih menggunakan spidol hitam:
 
-Ketika Faisal memberanikan diri mengangkat tangannya dan menjelaskan perbedaan antara akad *Murabahah* dan *Mudharabah* dengan contoh konkret transaksi jual beli di kantin pesantren, Burhan tidak sekadar berkata "Bagus".
+$$\text{جَاءَ زَيْدٌ الْعَالِمُ}$$
 
-Burhan mempraktikkan teknik **Pujian Spesifik Perilaku (*Behavior-Specific Praise*)**:
+Burhan menoleh ke arah para santri sembari tersenyum ramah. "Siapa di antara ksatria kelas 7-A yang dapat menjelaskan kedudukan I'rob dari kata *Al-'Ālimu* pada kalimat di papan tulis?"
 
-"Masya Allah, luar biasa sekali, Faisal!" puji Burhan dengan senyuman tulus sembari menuliskan nama Faisal di salah satu dahan pohon apresiasi. "Penjelasanmu sangat jernih dan kamu menggunakan analogi kantin yang sangat relevan. Cara bicaramu runtut, santun, dan menunjukkan bahwa kamu benar-benar membaca materi tadi malam."
+Farhan dan beberapa santri lain mengangkat tangannya dengan penuh semangat.
 
-Faisal tersenyum bangga, dadanya terasa hangat mendengar apresiasi yang begitu detail dan menghargai usahanya.
+Namun pandangan mata Burhan tertuju pada sudut baris kedua—tempat Danang duduk sembari memandangi papan tulis dengan wajah yang sedikit ragu-ragu.
 
-Burhan menjelaskan bahwa pujian yang samar seperti "kamu pintar" tidak efektif secara pedagogis, karena pujian tersebut berfokus pada bakat bawaan (*Fixed Mindset*).
+Burhan tidak memaksa, melainkan memberikan dorongan lembut:
 
-Sebaliknya, pujian yang spesifik pada usaha, adab, dan proses penalaran (*Growth Mindset*) memicu pelepasan neurotransmiter **Dopamin** di otak santri, memperkuat jalur saraf kebiasaan positif dan mendorong seluruh santri di kelas untuk ikut berani berpikir kritis dan berakhlak mulia.
+"Danang... Bismillah, maukah kamu mencoba menganalisis kata *Al-'Ālimu* ini bersama Ustadz?"
+
+Danang terkejut sejenak, lalu menelan ludahnya pelan. Dengan suara yang sedikit gemetar namun jelas, Danang menjawab:
+
+"Kata *Al-'Ālimu* berkedudukan sebagai *Na'at* (sifat) dari kata *Zaidun*, Ustadz. Dan tanda I'rob-nya adalah *Dhammah* di huruf mim karena mengikuti *Man'ut*-nya yang berharakat dhammah."
+
+Ustadz Burhan tersenyum lebar, bertepuk tangan bangga, lalu menuliskan kalimat pujian di sudut atas papan tulis dengan spidol biru terang: **"Analisis Kaidah Sempurna dari Ananda Danang! ⭐"**.
+
+Burhan memberikan **Pujian Spesifik Berbasis Usaha (*Behavior-Specific & Process Praise*)**:
+
+"Masya Allah, luar biasa sekali, Danang! Penjelasanmu sangat presisi dan runtut: kamu tidak hanya menyebutkan hukum Na'at-nya, tetapi juga menjelaskan alasan harakat Dhammah-nya yang mengikuti kata Zaidun. Ustadz sangat bangga dengan ketelitian dan keberanianmu menjawab!"
+
+Mendengar pujian spesifik dan melihat namanya ditulis indah di papan tulis, wajah Danang yang tadinya pucat seketika berseri-seri merah merona oleh kebahagiaan yang meluap di dalam dadanya.
+
+Penerapan **Rasio Apresiasi Emas 4:1** di kelas madrasah mengubah ruang belajar menjadi ladang penumbuh kepercayaan diri santri, membuktikan bahwa satu kalimat pujian tulus seorang guru mampu menyalakan api kecerdasan di dalam jiwa anak untuk selamanya.

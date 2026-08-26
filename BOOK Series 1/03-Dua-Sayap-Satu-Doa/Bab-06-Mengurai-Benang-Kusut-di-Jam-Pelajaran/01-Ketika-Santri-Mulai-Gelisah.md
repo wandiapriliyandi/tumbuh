@@ -1,18 +1,26 @@
 # Sub-Bab 6.1: Ketika Santri Mulai Gelisah
 
-Pukul 10.45 siang di kelas delapan B. Jam pelajaran keempat sedang berlangsung di tengah hawa siang yang mulai gerah. Santri-santri yang telah belajar intensif sejak pagi mulai menunjukkan tanda-tanda kelelahan fisik dan kegelisahan motorik: beberapa santri mulai menggeliat, mengetuk-ngetuk meja dengan pensil, dan pandangan mata mereka mulai mengembara ke luar jendela.
+Pukul 10.45 siang di ruang kelas 7-A madrasah Pesantren Darul Adab. Sinar matahari siang mulai terasa terik, memanaskan atap genting madrasah.
 
-Ustadz Burhan yang sedang menjelaskan kaidah Nahwu di depan kelas tidak membiarkan situasi tersebut berlarut-larut, tidak pula membentak santri dengan ancaman hukuman.
+Jam pelajaran keempat adalah jam paling kritis dalam ritme biologis belajar anak: setelah duduk berkonsentrasi selama hampir empat jam penuh, cadangan glukosa di otak santri mulai menipis dan tubuh anak-anak mulai menunjukkan tanda-tanda kegelisahan fisik (*Cognitive Fatigue & Restlessness*).
 
-Burhan mempraktikkan teknik **Penyegaran Kognitif & Gerak Sadar (*Brain Break & Mindful Movement*)** selama dua menit:
+Beberapa santri mulai menggoyang-goyangkan kakinya, memainkan tutup pulpen, menopang dagunya di atas meja dampar, atau menoleh ke arah jendela luar.
 
-"Para ksatria, letakkan pena kalian sejenak di atas meja. Mari kita berdiri bersama-sama!" seru Burhan dengan senyum ceria dan tepukan tangan berirama.
+Di masa lalu, guru yang otoriter akan langsung memukul meja menggunakan penggaris kayu sembari membentak santri yang gelisah: *"Duduk diam! Jangan banyak gerak!"*. Hal ini justru memicu stres kortisol dan mematikan fungsi memori otak.
 
-Seluruh santri serentak bangkit berdiri di samping meja masing-masing.
+Namun Ustadz Burhan menerapkan teknik jeda aktif yang menyenangkan: **Penyegaran Otak & Gerak Cerdas (*Brain Break & Kinesthetic Energizer*)**.
 
-Burhan memandu serangkaian gerakan peregangan sederhana:
-* Menarik kedua tangan lurus ke atas sembari menarik nafas dalam-dalam dan melafalkan *"Alhamdulillah..."*
-* Memutar bahu ke belakang untuk melemaskan otot leher yang kaku.
-* Melakukan tepuk tangan konsentrasi terpadu yang melatih sinkronisasi otak kiri dan kanan.
+Burhan meletakkan spidolnya, lalu bertepuk tangan berirama tiga kali: *Prok... Prok... Prok!*
 
-Dua menit peregangan fisik sederhana itu seketika memompa aliran darah segar dan oksigen kembali ke otak santri. Rasa kantuk dan jenuh lenyap, tawa ceria merekah, dan suasana kelas kembali segar bugar, siap melanjutkan materi pelajaran dengan fokus penuh hingga bel siang berbunyi.
+"Ksatria kelas 7-A!" seru Burhan dengan senyuman ceria. "Mari berdiri sejenak, regangkan otot-otot sayap ksatria kita!"
+
+Seluruh santri berdiri di samping dampar mejanya masing-masing dengan antusias.
+
+Burhan memandu serangkaian gerakan peregangan silang (*Cross-Crawl Exercises*):
+* Mengangkat lutut kanan dan menyentuhkannya ke siku tangan kiri, lalu bergantian dengan lutut kiri ke siku kanan.
+* Melafalkan bait-bait tasrif bahasa Arab sembari bertepuk tangan berirama gembira.
+* Menarik nafas panjang melalui hidung dan menghembuskannya sembari tersenyum lebar ke arah teman di sebelahnya.
+
+Hanya dalam waktu dua menit, suasana kelesuan di kelas seketika lenyap!
+
+Aktivitas fisik ringan ini memompa aliran darah segar beroksigen ke otak, memicu pelepasan neurotransmitter dopamin dan noradrenalin, dan menyegarkan kembali fokus anak-anak untuk melanjutkan pelajaran dengan semangat baru yang membara.
