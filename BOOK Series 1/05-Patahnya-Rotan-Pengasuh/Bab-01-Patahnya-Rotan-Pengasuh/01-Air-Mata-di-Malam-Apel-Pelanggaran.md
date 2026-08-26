@@ -1,11 +1,21 @@
 # Sub-Bab 1.1: Air Mata di Malam Apel Pelanggaran
 
-Malam itu, angin dingin berhembus kencang di lapangan tengah pesantren lama. Ratusan santri berdiri berjajar kaku dalam keheningan yang mencekam. Di tengah lapangan, di bawah sorot lampu sorot yang menyilaukan, tiga orang santri kelas delapan berdiri tertunduk dengan kepala plontos yang baru saja dicukur paksa.
+Malam hari yang sunyi di halaman tengah komplek asrama putra Pesantren Darul Adab. Angin malam bertiup dingin menusuk tulang, membawa aroma tanah basah sehabis hujan.
 
-"Kalian bertiga telah mencoreng nama baik asrama karena berkelahi!" bentak seorang pengurus keamanan melalui megafon. "Malam ini, kalian berdiri di sini sampai jam dua pagi!"
+Di hadapan tiang bendera, puluhan santri yang melanggar aturan berdiri berbaris dengan kepala tertunduk lesu. Di tangan Ustadz Salman yang dulu, sebilah rotan kuning mengkilap berdesir di udara, siap dijatuhkan ke telapak tangan atau betis santri yang terlambat sholat.
 
-Rasa malu yang luar biasa menghujam dada ketiga anak tersebut. Ratusan pasang mata teman-teman mereka menatap dari kejauhan. Di antara santri yang dihukum, salah satunya—Faisal—mengepalkan tinjunya erat-erat di balik saku celana. Air matanya mengering, digantikan oleh bara dendam yang membara di dadanya.
+Salman masih ingat betul jeritan tangis Farhan dan Faisal saat rotan itu mengenai kulit mereka setahun yang lalu.
 
-*Public shaming* (mempermalukan santri di depan publik) tidak pernah menyembuhkan perilaku menyimpang. Secara neurobiologis, rasa malu yang ekstrem merangsang rasa terancam yang mendalam, memutus koneksi sosial, dan memicu perilaku agresif di kemudian hari. Santri yang dipermalukan di depan umum tidak menyesali perbuatannya; mereka hanya menyimpan dendam dan menunggu giliran menjadi senior untuk membalaskan perlakuan yang sama kepada adik kelas mereka.
+Malam itu, di dalam keheningan yang mencekam, Kyai Hasyim melangkah mendekat ke tengah lapangan. Wajah sang Kiai tampak begitu berduka, matanya memancarkan kepedihan yang sangat dalam melihat anak-anak asuhnya diperlakukan laksana tawanan perang.
 
-Malam itu menjadi malam terakhir praktik apel penghakiman semacam itu diizinkan berlangsung di pesantren ini.
+Kyai Hasyim mengangkat tangannya, meminta Salman menghentikan ayunan rotannya.
+
+"Salman..." panggil Kyai Hasyim dengan suara bergetar menahan tangis. "Apakah engkau mengira rotan keras itu akan melahirkan ksatria adab yang ikhlas? Atau justru engkau sedang menanam benih dendam, kepalsuan, dan kemunafikan di dalam jiwa anak-anak titipan Allah ini?"
+
+Kiai mengambil rotan kuning itu dari tangan Salman. Di hadapan seluruh santri dan para musyrif yang terpaku hening, kedua tangan sang Kiai yang renta namun kuat mematahkan rotan itu menjadi dua bagian!
+
+*KRAK!*
+
+Suara patahan rotan itu bergaung memecah kesunyian malam, seolah mematahkan era kegelapan feodalisme dan kekerasan fisik di bumi pesantren untuk selama-lamanya.
+
+Salman tersungkur bersimpuh di atas tanah basah, air matanya tumpah membasahi dadanya dalam penyesalan yang tak terperikan. Malam itu menjadi titik balik bersejarah lahirnya era baru: **Pesantren Ramah Santri Berbasis Disiplin Positif dan Keadilan Restoratif**.

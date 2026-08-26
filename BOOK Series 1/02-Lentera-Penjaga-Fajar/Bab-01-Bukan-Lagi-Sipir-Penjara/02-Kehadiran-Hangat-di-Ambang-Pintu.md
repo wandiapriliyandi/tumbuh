@@ -1,11 +1,27 @@
 # Sub-Bab 1.2: Kehadiran Hangat di Ambang Pintu
 
-Pukul 17.00 sore, matahari mulai condong ke ufuk barat. Lapangan asrama masih basah oleh sisa-sisa keringat santri yang baru saja selesai berolahraga futsal dan memanah.
+Pukul 12.15 siang. Lonceng tanda berakhirnya jam pelajaran madrasah sesi pagi berdentang nyaring di seluruh penjuru komplek Pesantren Darul Adab. Ratusan santri putra berhamburan keluar dari gerbang sekolah dengan membawa tas ransel dan kitab-kitab pelajaran, melangkah menyeberangi lapangan rumput menuju gedung asrama.
 
-Ustadz Salman tidak lagi duduk diam di kantor pengasuhan dengan wajah tegang menunggu laporan pelanggaran. Sebaliknya, ia berdiri di ambang pintu masuk lorong asrama. Di tangannya tidak ada rotan atau penggaris kayu, melainkan senyuman tulus dan beberapa botol air mineral dingin.
+Di ambang pintu gerbang utama asrama lantai satu, Ustadz Salman telah berdiri menyambut kedatangan anak-anak asuhnya.
 
-"Assalamu'alaikum, Fatih! Operan bolamu tadi keren sekali!" sapa Salman sembari menepuk pundak seorang santri yang melintas dengan nafas terengah-engah.
+Salman tidak berdiri dengan tangan bersedekap di dada atau memasang wajah menyelidik. Sebaliknya, pemuda itu mengenakan baju koko putih bersih beraroma segar, dengan senyuman tulus yang merekah di wajahnya. Kedua tangannya terbuka ramah menyambut setiap santri yang melangkah melewati pintu gerbang.
 
-Fatih, yang awalnya sempat kaget dan refleks menunduk karena takut ditegur, mendongak. Matanya berbinar melihat senyuman hangat sang musyrif. "Wa'alaikumsalam, Ustadz! Syukron, Ustadz!"
+"Ahlan wa sahlan, anak-anak shalih! Selamat datang kembali di kamar tercinta," sapa Salman dengan suara yang ramah dan hangat.
 
-Inilah konsep **Kehadiran Hangat (*Warm Presence*)**. Ketika musyrif hadir bukan sebagai sosok yang mengancam, melainkan sebagai sosok kakak dan pengganti orang tua (*In Loco Parentis*) yang menyapa, mendengarkan, dan mengapresiasi, maka tembok kecurigaan antara santri dan pembina runtuh seketika. Santri merasa dilihat, dihargai, dan disayangi. Dan dari rasa disayangi itulah, kepatuhan fitrah yang tulus mekar secara alami tanpa perlu dipaksa.
+Ketika Farhan melangkah masuk bersama Ihsan, Salman menundukkan badannya sedikit, menatap mata Farhan dengan ramah seraya menepuk pundaknya dengan lembut.
+
+"Bagaimana pelajaran Nahwu tadi siang di kelas, Farhan? Apakah lancar?" tanya Salman penuh perhatian.
+
+Farhan mendongak dengan senyum cerah. "Alhamdulillah lancar, Ustadz! Tadi Ustadz Burhan memuji hafalan bait *Imrithi* saya di depan kelas."
+
+"Masya Allah, hebat sekali kamu, Farhan! Ustadz sangat bangga mendengarnya. Segera letakkan tas di kamar, minum air putih yang cukup, lalu kita bersiap sholat Dzuhur berjamaah ya," puji Salman sembari mengusap puncak kepala Farhan.
+
+Farhan mengangguk gembira dan melangkah masuk ke kamarnya dengan langkah yang ringan dan penuh semangat.
+
+Praktik menyambut santri di ambang pintu ini dikenal sebagai **Penyambutan Hangat di Pintu Masuk (*Threshold Welcoming Protocol*)**.
+
+Secara neurobiologis dan psikologis, momen transisi dari lingkungan kelas yang formal menuju lingkungan asrama adalah titik kritis (*Critical Transition Point*). Santri sering kali membawa beban kelelahan kognitif (*Cognitive Fatigue*) setelah empat jam belajar intensif.
+
+Ketika transisi tersebut disambut dengan sapaan hangat, kontak mata yang ramah, dan validasi emosional dari musyrif, otak santri seketika melepaskan hormon **Oksitosin** dan **Endorfin**. Hormon-hormon ini menurunkan kadar stres, memulihkan energi biologis, dan menumbuhkan rasa memiliki (*Sense of Belonging*) yang mendalam terhadap lingkungan asrama.
+
+Santri tidak merasa kembali ke barak pengasingan yang menakutkan, melainkan merasa kembali ke sebuah rumah yang penuh dengan kasih sayang seorang ayah yang setia menanti kepulangan anak-anaknya.

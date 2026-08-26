@@ -1,17 +1,30 @@
 # Sub-Bab 1.1: Ketika Kelas dan Kamar Saling Menyapa
 
-Ustadzah Maryam, wali kelas 8B, melangkah menuju ruang asrama putri dengan membawa map portofolio belajar. Di teras asrama, Ustadzah Nurul, musyrifah kamar, telah menunggunya dengan senyuman ramah.
+Matahari pagi baru saja menyinari halaman madrasah Pesantren Darul Adab dengan pendar keemasan yang hangat. Angin sejuk bertiup semilir menggoyangkan pucuk-pucuk pohon ketapang kencana di depan deretan ruang kelas berlantai dua.
 
-"Assalamu'alaikum, Ustadzah Nurul. Terima kasih sudah menyempatkan waktu untuk sinkronisasi mingguan," sapa Maryam hangat.
+Di koridor penghubung antara gedung madrasah dan gedung asrama putra, Ustadz Burhan—wali kelas delapan putra yang berperawakan atletis dan berkacamata—sedang berdiri menanti kedatangan Ustadz Salman.
 
-"Wa'alaikumsalam, Ustadzah Maryam. Selalu menyenangkan berdiskusi dengan wali kelas," balas Nurul sembari membuka catatan logbook kamar.
+Keduanya berjabat tangan erat, saling melempar senyuman hangat penuh ukhuwah.
 
-Keduanya duduk bersama membahas perkembangan Ananda Aisyah, santriwati yang dua pekan terakhir tampak sering melamun saat pelajaran Nahwu di kelas.
+"Assalamu'alaikum, Burhan," sapa Salman sembari menyerahkan map jepit berisi rekap catatan kesehatan dan catatan emosional santri pagi hari.
 
-"Di kelas, Aisyah tampak cemas setiap kali diminta membaca kitab di depan papan tulis," ungkap Maryam. "Apakah ada masalah di asrama?"
+"Wa'alaikumussalam warahmatullah, Salman," jawab Burhan dengan mata berbinar. "Bagaimana kondisi anak-anak kita di kamar Al-Kindi dan Al-Farabi semalam?"
 
-Nurul tersenyum lembut dan menjelaskan, "Aisyah sempat bercerita pada saya saat sesi refleksi malam, Ustadzah. Dia merasa minder karena teman-teman sekamarnya rata-rata lulusan pesantren tahfizh, sementara dia baru pertama kali belajar bahasa Arab. Di kamar, kami mulai memasangkannya dengan mentor sebaya untuk belajar bersama sebelum tidur."
+Salman membuka mapnya dan menjelaskan dengan sangat rinci:
+* Santri-santri tidur nyenyak tepat waktu pada pukul 21.45.
+* Farhan dan Ihsan menunjukkan fokus yang sangat baik saat muthala'ah mandiri.
+* Danang sempat mengeluh pusing karena giginya ngilu dan telah diperiksa oleh dokter poskestren pagi tadi.
 
-"Masya Allah, informasi ini sangat berharga!" seru Maryam lega. "Besok di kelas, saya akan memberikan tugas kelompok terstruktur agar Aisyah merasa didukung oleh teman-temannya, bukan dihakimi."
+Burhan mencatat informasi tersebut dengan sangat cermat.
 
-Ketika madrasah dan asrama saling menyapa dan berbagi data, setiap tantangan belajar santri dapat diurai dengan tepat, penuh empati, dan tanpa vonis sepihak.
+Di masa lalu, pemandangan koordinasi seperti ini tidak pernah terjadi di Pesantren Darul Adab. Ada jurang pemisah (*dikotomi*) yang sangat dalam antara dunia madrasah di siang hari dan dunia asrama di malam hari:
+* Guru madrasah hanya peduli pada nilai ujian akademik dan ketertiban di dalam kelas, menganggap apa yang terjadi di asrama bukan urusan mereka.
+* Sebaliknya, musyrif asrama hanya peduli pada kebersihan kamar dan absensi sholat, menganggap kesulitan belajar santri di sekolah adalah tanggung jawab guru madrasah.
+
+Akibatnya, santri menjadi korban di tengah-tengah dua kutub otoritas yang tidak saling berkomunikasi.
+
+Kini, melalui pilar **Dual-Pillar Caretaking (Dua Ksatria Satu Amanah)** dalam Ekosistem TUMBUH, dinding pemisah itu telah diruntuhkan selamanya.
+
+Wali kelas madrasah dan musyrif asrama memandang diri mereka sebagai **Dua Sayap dari Seekor Burung Peradaban**. Seekor burung tidak akan pernah bisa terbang tinggi mengarungi angkasa jika sayap kanan dan sayap kirinya mengepak dengan ritme yang berbeda.
+
+"Ketika kelas dan kamar saling menyapa dan bertukar data setiap pagi," ungkap Burhan kepada Salman sembari melangkah bersama menuju ruang guru, "kita sedang membentangkan jaring pengaman yang memastikan tidak ada satu pun anak kita yang terjatuh di antara celah-celah pengasuhan."
