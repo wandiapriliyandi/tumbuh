@@ -1,11 +1,14 @@
-# Sub-Bab 1.2: Petunjuk Indah di Setiap Sudut (Matriks Visual)
+# Sub-Bab 1.2: Petunjuk Indah di Setiap Sudut
 
-Di ruang makan asrama, plang besi bertuliskan ancaman denda *"DILARANG MEMBUANG SISA MAKANAN! DENDA RP 10.000!"* telah dicopot selamanya.
+Di setiap sudut gedung asrama putra Pesantren Darul Adab, dinding-dinding tidak dibiarkan kosong atau dipenuhi coretan larangan bernada kasar seperti *"Dilarang Membuang Sampah Sembarangan!"*.
 
-Sebagai gantinya, dinding ruang makan dihiasi poster infografis artistik bernada hangat:
+Sebaliknya, dinding-dinding dihiasi oleh **Plang Ekspektasi Visual Beradab (*Visual Behavior Expectations Prompts*)** yang didesain secara artistik:
+* Di atas kran tempat wudhu: *"Air wudhu ini adalah karunia Allah. Hematlah air walau engkau berwudhu di sungai yang mengalir deras."* (Lengkap dengan ilustrasi tata cara wudhu sunnah).
+* Di pintu ruang makan: *"Bismillah... Makanlah dengan tangan kanan dari makanan yang terdekat, rasakan keberkahan satu nampan."*
+* Di depan rak sandal: *"Menata sandal dengan rapi menghadap ke luar adalah latihan menata thuma'ninah kalbumu."*
 
-> **"Makan Berkah, Piring Bersih: Ambil Secukupnya, Habiskan Semuanya. Senyum untuk Petugas Dapur."**
+Plang-plang visual ini berfungsi sebagai **Pengingat Bawah Sadar (*Subconscious Priming*)** yang membimbing perilaku santri secara lembut tanpa perlu teriakan musyrif.
 
-Di dekat tempat mencuci tangan, stiker telapak tangan dengan gambar cara mencuci tangan enam langkah Sunnah dan wastafel berdesain modern terpasang rapi.
+Farhan yang melintas di depan plang rak sandal otomatis membungkukkan badannya dan membalikkan ujung sandalnya menghadap ke luar.
 
-Inilah kekuatan **Matriks Ekspektasi Visual (*Visual Behavioral Nudges*)**. Manusia merespons petunjuk visual positif jauh lebih baik daripada ancaman denda yang memicu resistensi bawah sadar. Ketika setiap sudut pesantren memberikan petunjuk visual yang indah dan menginspirasi, nilai-nilai adab tertanam ke dalam memori visual santri secara permanen.
+"Ketika lingkungan fisik berbicara dengan bahasa keindahan dan adab," dawuh Kyai Hasyim, "maka jiwa anak-anak yang tinggal di dalamnya akan otomatis terbiasa hidup dalam keteraturan, kebersihan, dan kemuliaan budi pekerti."

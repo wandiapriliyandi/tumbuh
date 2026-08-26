@@ -1,9 +1,15 @@
-# Sub-Bab 2.2: Hadir Sebelum Masalah Lahir (Proactive Supervision)
+# Sub-Bab 2.2: Hadir Sebelum Masalah Lahir
 
-Sebagai tindak lanjut dari analisis peta titik rawan, dua langkah preventif langsung dieksekusi oleh pesantren:
-1. **Peningkatan Pencahayaan & Estetika**: Area belakang kantin dipasangi lampu taman berdaya terang dan diubah menjadi taman bacaan dengan bangku-bangku kayu yang nyaman.
-2. **Penempatan Patroli Kehadiran Hangat (*Active Supervision*)**: Musyrif Shift Sore dijadwalkan berdiri menyapa santri di lorong belakang gudang pada pukul 16.45–17.15 sambil membagikan senyuman dan mengajak santri bersiap mandi sore.
+Pukul 17.00 sore. Berdasarkan data peta titik rawan, rentang waktu antara pukul 17.00 hingga 17.30 adalah jam transisi paling padat di asrama putra: santri berhamburan dari lapangan olahraga menuju kamar mandi untuk persiapan sholat Maghrib.
 
-Satu bulan kemudian, grafik insiden pelanggaran di kedua area tersebut turun drastis menjadi **0%**.
+Alih-alih duduk diam di ruang kantor, Ustadz Salman dan Ustadz Ridwan mempraktikkan doktrin utama supervisi preventif: **Hadir Sebelum Masalah Lahir (*Presence Before Problems*)**.
 
-Inilah esensi kepengasuhan preventif PBIS: **Hadir sebelum masalah lahir (*Preventive Presence*)**. Pendidik yang bijaksana tidak menunggu pelanggaran terjadi untuk kemudian menghukum pelakunya; ia merekayasa lingkungan dan hadir di tempat yang tepat pada waktu yang tepat sehingga bibit-bibit pelanggaran layu sebelum sempat tumbuh.
+Salman berdiri santai di persimpangan koridor kamar mandi lantai satu, memegang handuk bersih cadangan dan botol sabun cair, menyapa setiap santri yang melintas dengan senyuman ceria.
+
+"Ayo Faisal, mandi yang bersih ya! Jangan lupa sikat gigi sebelum Maghrib," sapa Salman ramah.
+
+Faisal tersenyum dan melangkah masuk ke kamar mandi dengan tertib.
+
+Sementara itu, Ridwan berpatroli di area jemuran pakaian lantai dua, membantu santri merapikan jemuran yang kering sebelum hujan sore turun.
+
+Kehadiran fisik musyrif yang hangat, bergerak, dan bersahabat di lokasi padat terbukti melenyapkan peluang terjadinya pelanggaran secara alami. Santri merasa aman, terlindungi, dan tidak ada lagi ruang gelap bagi tumbuhnya niat-niat buruk di lingkungan asrama.
