@@ -1,15 +1,15 @@
 # Sub-Bab 12.2: Lentera Peradaban Masa Depan
 
-Kyai Hasyim mengangkat kedua tangannya ke langit, memanjatkan doa pamungkas bagi seluruh generasi santri yang sedang menuntut ilmu di bumi pertiwi:
+Fajar keesokan harinya merekah di ufuk timur, menyinari kubah megah masjid Pesantren Darul Adab dengan kilau cahaya keemasan yang menakjubkan.
 
-$$\text{اللَّهُمَّ حَبِّبْ إِلَيْنَا الْإِيمَانَ وَزَيِّنْهُ فِي قُلُوبِنَا، وَكَرِّهْ إِلَيْنَا الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ، وَاجْعَلْنَا مِنَ الرَّاشِدِينَ}$$
+Dari dalam masjid, lantunan wirid dan doa para santri membubung ke langit angkasa.
 
-> *"Ya Allah, jadikanlah kami mencintai keimanan dan hiasilah keimanan itu di dalam hati kami. Dan jadikanlah kami membenci kekufuran, kefasikan, dan kemaksiatan, serta jadikanlah kami termasuk golongan orang-orang yang lurus dan beradab."* (QS. Al-Hujurat: 7)
+Kyai Hasyim melangkah keluar serambi masjid, memandang ratusan santri mudanya yang sedang berjalan beriringan menuju ruang makan dan kelas madrasah dengan senyuman yang merekah indah di wajahnya.
 
-Kiai menatap Salman, Zaid, dan Farhan dengan air mata kebahagiaan yang menetes di pipinya.
+Roman keempat **Sepuluh Bintang di Langit Jiwa** dipuncaki oleh sebuah doa dan wasiat peradaban:
 
-"Pergilah anak-anakku, bawalah sepuluh bintang karakter ini ke mana pun takdir Allah membimbing langkah kalian. Jadilah lentera peradaban yang tak pernah padam, tebarkanlah kedamaian, dan tegakkanlah kemuliaan Islam dengan akhlak mulia kalian."
+$$\text{اللَّهُمَّ اجْعَلْ شَبَابَنَا شَبَابَ خَيْرٍ وَهُدًى، وَاجْعَلْهُمْ مَفَاتِيحَ لِلْخَيْرِ مَغَالِيقَ لِلشَّرِّ}$$
 
-Roman keempat **Sepuluh Bintang di Langit Jiwa** ditutup dengan sebuah janji peradaban:
+> *"Ya Allah, jadikanlah para pemuda kami sebagai generasi kebaikan dan petunjuk, dan jadikanlah mereka sebagai kunci-kunci pembuka pintu kebaikan dan penggembok pintu-pintu keburukan."*
 
-*Bahwa ketika sepuluh bintang adab Nabawi telah bersinar di langit jiwa para santri, maka kegelapan zaman akan sirna, digantikan oleh fajar kebangkitan umat yang berilmu, beradab, dan berdaya saing luhur di panggung peradaban dunia.*
+*Bahwa ketika sepuluh bintang karakter Nabawi telah bersinar terang di dalam langit jiwa para penuntut ilmu, maka dari tangan-tangan suci pemuda pesantren inilah peradaban Islam masa depan akan kembali bangkit memimpin dunia dengan cahaya keadilan, ilmu, dan akhlak yang mulia.*

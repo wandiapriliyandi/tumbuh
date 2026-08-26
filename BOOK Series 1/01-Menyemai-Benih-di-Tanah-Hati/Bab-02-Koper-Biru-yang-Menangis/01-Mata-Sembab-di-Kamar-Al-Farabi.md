@@ -1,55 +1,109 @@
 # Sub-Bab 2.1: Mata Sembab di Kamar Al-Farabi
 
-Fajar menyingsing di ufuk timur, memancarkan semburat cahaya tembaga yang membelah kabut pagi di atas atap genting Pesantren Darul Adab. Udara masih sangat dingin, membawa wangi tanah basah sisa embun semalam dan kepulan asap dapur umum yang mulai sibuk memasak sarapan pagi.
+Pagi hari pukul 06.00 selepas sholat Subuh berjamaah dan wirid panjang di ruang utama masjid Pesantren Darul Adab.
 
-Di Kamar Al-Farabi, suasana pagi itu terasa lesu dan muram. Sinar matahari pagi yang menembus kisi-kisi jendela kayu memperlihatkan kondisi kamar yang berantakan: tumpukan sarung yang belum terlipat di atas kasur busa, gayung-gayung plastik yang berserakan di dekat pintu, serta butiran debu yang melayang-layang di udara yang pengap.
+Sinar matahari fajar perlahan-lahan merambat naik dari balik bukit timur yang berselimut kabut tipis.
 
-Farhan duduk di tepi ranjang susun bawahnya. Kedua matanya tampak sembab dan merah, kelopak matanya membengkak akibat tangisan panjang semalam suntuk. Wajah bocah berusia dua belas tahun itu tampak kuyu, dengan lingkaran hitam di bawah matanya yang menandakan betapa buruknya kualitas tidur yang ia alami.
+Berkas-berkas cahaya keemasan menerobos masuk melalui celah teralis jendela kayu yang mulai lapuk dan kusam.
 
-Di sampingnya, Ihsan dan beberapa santri baru lainnya sedang mengenakan seragam pramuka dengan gerakan lambat dan tanpa semangat. Tidak ada canda tawa ceria khas anak-anak seusia mereka. Yang terdengar hanyalah helaan nafas berat dan gumaman pelan saat mencari kaus kaki yang hilang.
+Cahaya pagi itu menyinari dinding-dinding kapur Kamar Al-Farabi yang tampak muram, berdebu, dan dingin.
 
-Di sudut kamar, tepat di samping lemari kayu nomor dua belas, sebuah koper kain berwarna biru laut berdiri membisu. Koper itu adalah koper milik Farhan. Sejak pertama kali diletakkan di sudut itu dua pekan lalu, koper itu tampak seperti benda asing yang terisolasi dari peradaban kamar.
+Di dinding kamar berukuran enam kali tujuh meter tersebut, tampak coretan-coretan pensil bekas santri angkatan lama.
 
-Farhan menatap koper birunya dengan tatapan nanar. Gembok kuningan kecil yang mengunci resleting koper itu masih terpasang rapat. Baginya, koper itu adalah satu-satunya benteng terakhir yang menghubungkannya dengan dunia luar—dunia di mana ia dicintai tanpa syarat oleh kedua orang tuanya, dunia di mana tidak ada bentakan kasar dan derap sepatu lars yang memburu.
+Tampak pula bekas paku-paku berkarat tempat menggantung sarung, dan plester semen yang terkelupas di sana-sini.
 
-"Farhan, kamu tidak ganti baju?" tanya Ihsan seraya membetulkan kerah bajunya yang kusut. "Sebentar lagi lonceng sarapan berbunyi. Kalau terlambat, nanti Ustadz Salman mencatat nama kita lagi di buku hitam."
+Kamar Al-Farabi dihuni oleh dua puluh santri baru kelas tujuh madrasah tsanawiyah yang baru sebulan berada di pondok.
 
-Mendengar nama Ustadz Salman disebut, tubuh Farhan refleks menegang. Saraf-saraf di lehernya mengencang seketika. Rasa takut yang tertanam sejak dini hari tadi kembali mencengkeram dadanya seperti cakar besi.
+Udara di dalam kamar terasa sangat pengap, berat, dan lembap.
 
-"Iya, Ihsan... sebentar lagi aku ganti," jawab Farhan dengan suara parau dan serak.
+Percampuran aroma minyak kayu putih, bau apek pakaian basah yang belum kering sempurna di jemuran dalam, dan sisa-sisa kepanikan bangun fajar tadi pagi menciptakan suasana yang menekan dada.
 
-Farhan bangkit berdiri dengan langkah gontai. Kepalanya terasa pusing dan melayang akibat kelelahan fisik dan beban psikologis yang menumpuk. Ia melangkah menuju koper birunya, namun tangannya ragu-ragu untuk memutar kunci gembok kuningan tersebut.
+Farhan duduk terpekur seorang diri di tepi kasur busanya yang tipis di ranjang susun tingkat bawah.
 
-Ada ketakutan aneh di dalam benak Farhan: ia takut jika ia membuka koper itu dan mengeluarkan seluruh bajunya, maka ia akan benar-benar terperangkap di asrama ini selamanya dan tidak akan pernah bisa pulang lagi ke rumah ibunya.
+Kedua lutut Farhan ditekuk merapat ke dadanya yang ringkih.
 
-Lonceng besi di depan dapur umum berdentang tiga kali dengan nada nyaring.
+Kedua tangannya saling menggenggam erat di atas pangkuan kain sarungnya.
 
-*Teng! Teng! Teng!*
+Kedua bola mata anak laki-laki berusia dua belas tahun itu tampak sangat sembab, bengkak, dan memerah.
 
-"Sarapan! Sarapan sudah siap! Kamar tujuh dan delapan segera menuju ruang makan!" suara petugas piket terdengar bersahut-sahutan di koridor luar.
+Lingkaran hitam pekat melingkari kelopak matanya—tanda nyata dari malam panjang yang dihabiskan dalam tangisan tanpa suara dan tidur yang terus-menerus terganggu oleh mimpi buruk.
 
-Anak-anak di Kamar Al-Farabi bergegas keluar kamar dengan membawa piring seng masing-masing. Farhan tergesa-gesa mengenakan kemeja seragamnya yang kusut tanpa sempat disetrika, lalu menyusul kawan-kawannya menuruni tangga menuju ruang makan asrama.
+Di samping kasur tipisnya di atas lantai semen yang dingin, sebuah koper kain berwarna biru laut tergeletak bisu.
 
-Ruang makan asrama putra adalah sebuah aula semi-terbuka berlantai semen kasar dengan meja-meja kayu panjang tanpa kursi. Di sana, ratusan santri duduk bersila di atas lantai semen dingin, mengantre giliran mengambil nasi liwet hangat dan sayur tahu dari gentong besar yang dijaga oleh Pakde Darmo, kepala dapur asrama.
+Resleting utama koper tersebut tampak sedikit rusak dan terganjal oleh benang kain yang terburai.
 
-Farhan berdiri di barisan antrean paling belakang. Tubuhnya yang kurus tampak tenggelam di antara santri-santri yang lebih besar. Ia memegang piring sengnya dengan kedua tangan yang sedikit gemetar.
+Koper biru itu adalah koper yang dibelikan oleh ayahnya—Pak Rahmat—di pasar kecamatan seminggu sebelum Farhan berangkat merantau ke pondok pesantren.
 
-Ketika gilirannya tiba, Pakde Darmo—seorang pria paruh baya bertubuh gempal dengan kumis tebal namun memiliki sorot mata yang ramah—menyendokkan seporsi nasi hangat dan sepotong tahu goreng ke atas piring seng Farhan.
+Koper biru itu kini telah menjadi saksi bisu dari seluruh kepedihan, kecemasan, dan keterasingan batin yang dirasakan Farhan selama berminggu-minggu di asrama.
 
-Pakde Darmo menatap wajah Farhan yang pucat dan matanya yang sembab. Pria tua itu menghentikan gerakannya sejenak, lalu tersenyum hangat.
+Setiap kali Farhan menatap koper biru tersebut, rongga dadanya terasa berdenyut nyeri laksana ditusuk sembilu tajam.
 
-"Kenapa matamu sembab begitu, Le?" tanya Pakde Darmo dengan logat Jawa yang medok dan penuh kelembutan. "Habis menangis rindu simbok di rumah ya?"
+Di dalam koper itu, masih tersimpan rapi beberapa helai kaos oblong dan sarung tenun yang dicuci, dibilas, dan disetrika sendiri oleh ibunya—Ibu Fatimah.
 
-Farhan tertegun. Di tengah lingkungan asrama yang serba kaku dan penuh kedisiplinan keras, sapaan lembut Pakde Darmo terasa seperti tetesan air embun di padang pasir yang tandus. Tenggorokan Farhan mendadak tercekat, air matanya hampir saja tumpah kembali di depan gentong nasi.
+Aroma sabun cuci batangan khas buatan rumah yang menempel di serat kain kaos tersebut selalu memicu banjir air mata kerinduan di mata Farhan setiap kali ia membuka tutup kopernya.
 
-Farhan hanya mampu mengangguk pelan tanpa sanggup bersuara.
+Di sekeliling bilik kamar asrama, kawan-kawan sekamar Farhan bergerak laksana bayang-bayang robot yang kehilangan keceriaan alami masa kanak-kanak mereka.
 
-Pakde Darmo tersenyum lebar, menepuk pundak Farhan dengan tangannya yang hangat dan berbau harum bumbu masakan. "Makan yang banyak, Le. Tubuhmu harus kuat. Santri penuntut ilmu itu mujahid fi sabilillah. Kanjeng Nabi dulu juga yatim piatu sejak kecil, tapi beliau tumbuh menjadi manusia paling mulia. Habiskan nasinya ya, nanti Pakde beri tambahan kerupuk udang."
+Faisal sedang tergesa-gesa mengancingkan kerah baju seragam madrasahnya yang kusut sembari melirik cemas ke arah jam dinding plastik di atas pintu.
 
-Pakde Darmo meletakkan dua buah kerupuk udang renyah di atas piring Farhan.
+Ilham sedang berusaha menyapu lantai semen dengan sapu lidi yang batangnya sudah rontok separuh, menimbulkan kepulan debu kapur yang membuat anak-anak lain terbatuk-batuk.
 
-Farhan menerima piring itu dengan membungkukkan badannya takzim. "Matur nuwun, Pakde..." bisik Farhan dengan rasa haru yang membuncah di dadanya.
+Danang sedang duduk memegangi kepalanya yang pusing di ranjang pojok dekat lemari, tubuhnya masih lemas karena sisa demam yang belum sembuh.
 
-Farhan melangkah mencari sudut kosong di dekat pilar aula. Ia duduk bersila di atas lantai semen, menatap piring seng di hadapannya. Sentuhan manusiawi sederhana dari seorang juru masak tua itu telah menyelipkan secercah kehangatan di dalam hatinya yang sedang beku.
+Tidak ada canda tawa riang yang terdengar di kamar itu.
 
-Farhan mulai menyuap nasi hangat itu ke dalam mulutnya. Meskipun rasanya sederhana, setiap suapan nasi itu memberinya sedikit kekuatan baru untuk bertahan dan melangkah menghadapi hari yang panjang di Pesantren Darul Adab.
+Tidak ada sapaan hangat persaudaraan atau obrolan santai yang mencerminkan ukhuwah penuntut ilmu.
+
+Suasana asrama yang keras, militeristik, dan serba mengancam telah mengubah anak-anak belia itu menjadi pribadi yang tertutup, defensif, dan selalu waspada (*Guarded & Hypervigilant State*).
+
+Mereka belajar dari pengalaman pahit setiap hari: bahwa menunjukkan kelemahan, menangis, atau mengeluh di pondok adalah hal yang sangat berbahaya yang bisa berujung pada ejekan kawan sebaya atau hukuman fisik dari pembina keamanan asrama.
+
+Farhan menundukkan kepalanya dalam-dalam, menatap kedua ibu jari kakinya yang kotor dan berdebu di atas lantai semen.
+
+Di kedua tangannya, Farhan memegang sebuah buku tulis bergaris bersampul kertas cokelat bertuliskan mata pelajaran *Nahwu Dasar Kelas 7*.
+
+Namun pandangan mata Farhan kabur dan berbayang oleh sisa-sisa air mata yang masih menggenang di pelupuk matanya.
+
+Huruf-huruf Arab dan penjelasan kaidah I'rob di atas halaman buku tersebut tampak menari-nari tanpa bentuk, sama sekali tidak mampu dicerna oleh otaknya yang sedang mengalami kelelahan kognitif dan emosional yang akut (*Severe Cognitive & Emotional Fatigue*).
+
+Kepala Farhan berdenyut pening laksana dipukul martil dari dalam.
+
+Tubuhnya yang kurus terasa sangat lemas dan tidak bertenaga karena ia melewatkan sarapan pagi di dapur umum asrama.
+
+Tadi pagi, antrean pengambilan nasi bungkus di depan pintu dapur sangat padat dan diwarnai aksi saling dorong antarsantri yang kelaparan.
+
+Farhan yang bertubuh kecil dan pemalu terdorong ke belakang hingga terjatuh ke parit semen di samping dapur, dan ketika ia berhasil bangkit berdiri, jatah sarapan pagi telah ludes tak bersisa.
+
+Farhan tidak berani mengadu kepada petugas dapur atau pengasuh karena takut dibentak atau dicap sebagai anak manja yang merepotkan.
+
+"Farhan..." bisik Faisal pelan sembari melintas di depan ranjangnya, memecah lamunan sedih anak itu.
+
+"Ayo cepat pakai peci dan rapikan bukumumu, Farhan.
+
+Bel madrasah berbunyi lima menit lagi," lanjut Faisal dengan suara berbisik yang sarat kekhawatiran.
+
+"Nanti kalau Ustadz Salman lewat koridor dan melihatmu masih duduk melamun begini, kamu bisa disuruh berdiri di depan tiang bendera sampai jam istirahat siang tiba."
+
+Farhan mendongak perlahan menatap wajah Faisal, lalu mengangguk lemah dengan bibir bergetar.
+
+"Iya, Faisal...
+
+Terima kasih banyak sudah mengingatkanku," jawab Farhan dengan suara serak yang parau menahan tangis.
+
+Farhan meraih peci hitamnya yang kain beludrunya mulai kusam dan berdebu dari atas koper birunya.
+
+Dengan tangan yang masih gemetar halus karena rasa lapar dan lelah yang bertumpuk, Farhan mengenakan pecinya di kepala, lalu berusaha bangkit berdiri dari kasur busanya.
+
+Kedua lutut Farhan terasa gemetar dan ngilu saat kakinya menumpu beban tubuhnya di atas lantai semen yang dingin.
+
+Namun saat melangkah menuju pintu keluar kamar, pandangan mata Farhan kembali terhenti dan terpaku menatap koper birunya di sudut lantai.
+
+Koper biru itu seolah memiliki jiwa yang berbicara kepadanya, memanggil-manggilnya untuk segera memasukkan seluruh baju, sarung, dan kitabnya, lalu berlari sekencang-kencangnya keluar melewati gerbang pesantren untuk pulang ke pelukan hangat orang tuanya di desa.
+
+Farhan menggigit bibir bawahnya kuat-kuat menahan air mata yang kembali hendak tumpah membasahi pipinya.
+
+Farhan menarik nafas panjang yang terasa sangat berat, sesak, dan perih di dalam rongga dadanya.
+
+Farhan merapikan letak tas ransel kainnya di pundak yang kurus.
+
+Farhan melangkah perlahan keluar melewati ambang pintu kamar menyusuri lorong asrama menuju gedung madrasah dengan langkah kaki yang gontai, kepala tertunduk, dan jiwa yang remuk oleh kepedihan sunyi anak perantauan.

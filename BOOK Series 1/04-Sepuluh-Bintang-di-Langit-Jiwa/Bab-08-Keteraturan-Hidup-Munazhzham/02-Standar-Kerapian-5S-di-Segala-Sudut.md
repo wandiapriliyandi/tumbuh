@@ -1,14 +1,15 @@
 # Sub-Bab 8.2: Standar Kerapian 5S di Segala Sudut
 
-Kerapian hidup santri Pesantren Darul Adab tidak hanya terlihat di dalam kamar tidur, melainkan tercermin di seluruh sudut fasilitas komplek asrama putra:
-1. **Area Tempat Wudhu & Kamar Mandi**: Gayung tergantung rapi di cantolan dinding, sabun batangan tersimpan di wadahnya, dan lantai kamar mandi disikat bersih setiap pagi oleh tim piket.
-2. **Area Jemuran Pakaian**: Pakaian digantung dengan gantungan baju (*hanger*) yang berjarak satu jengkal agar cepat kering, sarung terbentang rapi, dan tidak ada pakaian basah yang menumpuk di lantai.
-3. **Area Masjid & Perpustakaan**: Al-Qur'an dan kitab kuning tersusun tegak di rak kaca sesuai klasifikasi fan keilmuan, karpet masjid divakum bersih setiap hari, dan sajadah imam terlipat rapi.
+Keteraturan seorang santri *Munazhzham* memancar nyata pada kondisi lingkungan fisiknya: di ranjang tidur, di dalam lemari pakaian, di loker madrasah, hingga di tempat wudhu.
 
-Kyai Hasyim mengutip sabda Rasulullah SAW:
+Di Kamar Al-Farabi:
+* Setiap sudut kasur terlipat rapi dengan teknik hospital corner 45 derajat.
+* Pakaian tersusun vertikal dari warna terang ke gelap tanpa kerutan.
+* Handuk basah digantung lurus di tali jemuran dengan jarak antarhanduk lima sentimeter agar kering merata.
+* Sandal jepit tertata rapi di dalam kotak garis kuning menghadap ke arah luar.
 
-$$\text{إِنَّ اللَّهَ تَعَالَى طَيِّبٌ يُحِبُّ الطَّيِّبَ، نَظِيفٌ يُحِبُّ النَّظَافَةَ، كَرِيمٌ يُحِبُّ الْكَرَمَ، جَوَادٌ يُحِبُّ الْجُودَ، فَنَظِّفُوا أَفْنِيَتَكُمْ}$$
+Ketika tim audit kebersihan gabungan santri senior memeriksa seluruh kamar asrama pada hari Jumat pagi, Kamar Al-Farabi meraih predikat: **Kamar Bintang Emas Teladan (*The 5S Golden Room Award*)**.
 
-> *"Sesungguhnya Allah Ta'ala itu Maha Indah dan mencintai keindahan, Maha Bersih dan mencintai kebersihan, Maha Mulia dan mencintai kemuliaan, Maha Dermawan dan mencintai kedermawanan. Maka bersihkanlah halaman dan lingkungan kalian."* (HR. At-Tirmidzi)
+Farhan dan kawan-kawan sekamarnya bersujud syukur bersama atas capaian tersebut.
 
-Keteraturan lingkungan lahiriah yang bersih dan indah menghadirkan kenyamanan dan ketenangan batin (*Sakinah*), menciptakan atmosfer yang sangat kondusif bagi mekar sempurnanya akhlak para penuntut ilmu.
+Kerapian fisik adalah cermin dari ketertiban jiwa, membuktikan bahwa santri Pesantren Darul Adab adalah generasi peradaban yang memadukan kebersihan lahiriah dan kesucian batiniah secara paripurna.

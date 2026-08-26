@@ -1,46 +1,107 @@
-# Sub-Bab 6.2: Dari Tarbiyah Ruhiyyah Hingga Qudwah Hasanah
+# Sub-Bab 6.2: Dari Tarbiyah Ruhiyyah Hingga Qudwah
 
-Kyai Hasyim mempersilakan Ustadz Salman untuk melangkah ke depan mimbar dan memaparkan dekomposisi enam pilar filosofis TUMBUH di hadapan seluruh dewan guru dan musyrif.
+Di hadapan papan kaligrafi emas TUMBUH yang terpampang megah di aula ndalem utama Pesantren Darul Adab.
 
-Salman melangkah dengan langkah mantap dan tatapan mata yang jernih. Di tangannya tidak ada lagi rotan kuning; yang ada hanyalah lembaran kertas kerja dan niat tulus untuk memimpin pembaruan.
+Kyai Hasyim melangkah mendekati mimbar kayu jati berukir sulur bunga teratai.
 
-"Para asatidz yang dirahmati Allah," ujar Salman dengan suara yang tegas dan menggetarkan dada para pendengar, "inilah enam tiang pancang yang akan menopang seluruh napas kehidupan di asrama putra Pesantren Darul Adab:
+Kiai menatap para asatidz dan musyrif dengan pandangan yang teduh dan penuh kehangatan.
 
-```mermaid
-graph LR
-    T["T - Tarbiyah Ruhiyyah<br/>(Penyucian Jiwa)"] --> U1["U - Ukhuwah & Adab<br/>(Persaudaraan Sejati)"]
-    U1 --> M["M - Mutawaazin<br/>(Keseimbangan 24 Jam)"]
-    M --> B["B - Barakah & Khidmah<br/>(Pelayanan Sosial)"]
-    B --> U2["U - Unggul & Mandiri<br/>(Regulasi Diri)"]
-    U2 --> H["H - Hasanah / Qudwah<br/>(Keteladanan Nyata)"]
-```
+Kiai mulai membedah secara mendalam integrasi operasional dari lima pilar pertama dalam kehidupan pesantren 24 jam.
 
-Salman menguraikan keenam pilar tersebut satu per satu:
+Kiai memaparkan pilar pertama: **Tarbiyah Ruhiyyah Berkelanjutan**.
 
-1. **Pilar 1: T - Tarbiyah Ruhiyyah (Penyucian Jiwa & Hubungan dengan Khaliq)**:
-   * Fondasi dari segala pendidikan karakter adalah keterhubungan hati dengan Allah SWT (*Tazkiyatun Nafs*).
-   * Menanamkan rasa diawasi oleh Allah (*Muraqabatullah*), sehingga santri berbuat jujur dan tertib bukan karena takut pada mata musyrif, melainkan karena cinta dan takzim kepada Sang Pencipta.
+"Tarbiyah Ruhiyyah," dawuh Kiai dengan suara yang menyejukkan sanubari, "bukanlah sekadar ritual sholat lima waktu yang dijalankan secara seremonial atau terpaksa karena takut hukuman."
 
-2. **Pilar 2: U - Ukhuwah & Adab (Persaudaraan Sejati & Pemuliaan Martabat)**:
-   * Mengikis habis budaya perpeloncoan, feodalisme, dan perundungan (*bullying*) di seluruh kamar asrama.
-   * Menggantikannya dengan semangat *Ta'akhi* (saling bersaudara), di mana santri senior menjadi kakak asuh pelindung bagi adik-adik kelasnya.
+"Tarbiyah Ruhiyyah adalah proses menghidupkan dzikir kalbu (*Living Dhikr*) di setiap tarikan nafas santri."
 
-3. **Pilar 3: M - Mutawaazin (Keseimbangan Holistik Jasmani, Akal, & Ruhani)**:
-   * Menolak pola pengasuhan ekstrem yang mengabaikan kebutuhan biologis santri dan musyrif.
-   * Menjamin hak tidur berkualitas tujuh jam, asupan gizi seimbang, dan ruang rekreasi olahraga yang sehat demi menjaga stabilitas sistem saraf.
+"Kita melatih santri merasakan kehadiran Allah (*Ma'iyyatullah*) di setiap detik waktu mereka."
 
-4. **Pilar 4: B - Barakah & Khidmah (Keberkahan Melalui Pelayanan Umat)**:
-   * Mengajarkan bahwa kemuliaan seorang penuntut ilmu terletak pada seberapa luas manfaat dirinya bagi orang lain (*Nafi'un Lighairihi*).
-   * Menghidupkan budaya khidmah: membersihkan fasilitas umum, membantu santri yang sakit, dan melayani masyarakat dhuafa.
+"Kita menuntun mereka merasakan manisnya munajat saat mereka belajar ilmu nahwu di kelas madrasah."
 
-5. **Pilar 5: U - Unggul & Mandiri (Kematangan Karakter & Regulasi Diri)**:
-   * Membimbing santri menaiki tangga kemandirian bertahap dari Jenjang J1 hingga J4.
-   * Mengubah motivasi kepatuhan dari dorongan ekstrinsik (takut dihukum) menjadi motivasi intrinsik (kesadaran nilai diri).
+"Kita menuntun mereka merasakan ibadah saat mereka mencuci piring dan membersihkan kamar mandi."
 
-6. **Pilar 6: H - Hasanah / Qudwah Hasanah (Keteladanan Nyata Pendidik)**:
-   * Pendidik adalah kurikulum hidup (*Living Curriculum*).
-   * Musyrif dan guru memimpin bukan dengan teriakan atau ancaman, melainkan dengan keteladanan akhlak, tutur kata yang santun, dan kasih sayang yang tulus.
+"Hingga saat mereka merebahkan tubuh di kasur asrama sembari melafalkan doa tidur dengan penuh rasa syukur."
 
-Salman mengakhiri pemaparannya dengan sebuah kalimat yang disambut tepuk tangan dan gema takbir haru dari seluruh asatidz:
+Kemudian Kiai memaparkan pilar kedua: **Ukhuwah & Keadilan Restoratif**.
 
-*"Kita tidak lagi membangun asrama ini di atas puing-puing ketakutan; kita membangun asrama ini di atas enam pilar cinta, keadilan, dan keteladanan qudwah hasanah!"*
+Pilar kedua ini merombak total seluruh sistem penanganan pelanggaran santri di pesantren.
+
+"Kita menghapus selamanya budaya hukuman balas dendam (*Retributive Punishment*) yang melahirkan rasa dendam dan stigma buruk," tegas Kiai dengan nada mantap.
+
+"Kita menggantinya dengan **Disiplin Restoratif (*Restorative Justice & Ishlah*)**."
+
+"Ketika seorang santri melakukan kekhilafan adab, fokus kita bukan menghukum fisiknya dengan rotan."
+
+"Fokus kita adalah membimbing anak tersebut menyadari dampak perbuatannya terhadap diri sendiri dan orang lain."
+
+"Kita membimbingnya memulihkan hubungan persaudaraan dengan saudaranya yang tersakiti (*Restitution*)."
+
+"Dan kita mengembalikan kehormatannya di tengah komunitas asrama tanpa rasa malu dan tanpa stigma (*Reintegration without Stigma*)."
+
+Selanjutnya Kiai menjelaskan pilar ketiga: **Manajemen Lingkungan 24 Jam Bebas Friksi (*Environmental Engineering*)**.
+
+Pilar ini menata ruang fisik dan ritme kehidupan asrama secara saintifik dan manusiawi:
+
+Penataan bilik kamar tidur diwajibkan mengacu pada standar **5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)**.
+
+Kamar tidur harus selalu ringkas, rapi, bersih, terawat, dan berdisiplin tinggi.
+
+Pesantren memberlakukan standarisasi rak sandal berslot vertikal dengan garis pembatas kuning di depan pintu kamar mandi.
+
+Langkah rekayasa lingkungan ini berhasil menghilangkan kekacauan antrean dan hilangnya sandal santri yang selama ini menjadi sumber pertengkaran.
+
+Pesantren mengatur sirkulasi udara bersih dan pencahayaan alami di setiap bilik kamar untuk menjaga kesehatan fisik santri.
+
+Dan pesantren memberlakukan penataan jadwal tidur malam yang manusiawi—minimal 7 jam tidur berkualitas tanpa gangguan.
+
+Tidur yang cukup ini sangat penting untuk mengoptimalkan hormon pertumbuhan dan konsolidasi memori otak santri.
+
+Kemudian Kiai membedah pilar keempat: **Bimbingan Kasih Sayang & Ketegasan Tanpa Kekerasan (Firm & Kind)**.
+
+"Sebagai murabbi," tutur Kiai seraya menatap Ustadz Salman dan para musyrif muda.
+
+"Kita wajib memadukan dua sifat mulia kenabian: *Kind in Tone, Firm in Boundaries*."
+
+"Artinya, kita wajib bersikap lembut dan penuh kasih sayang dalam tutur kata dan nada suara."
+
+"Namun pada saat yang sama, kita tetap tegas, konsisten, dan tidak berkompromi dalam menegakkan batasan adab dan syariat."
+
+"Kita tidak membentak, kita tidak menghina martabat anak, dan kita tidak memukul fisik mereka."
+
+"Namun kita menuntut tanggung jawab penuh atas setiap pelanggaran melalui konsekuensi logis yang mendidik."
+
+Dan pilar kelima adalah mahkota dari seluruh metodologi pengasuhan: **Uswah & Qudwah Hasanah Para Pendidik**.
+
+Kyai Hasyim menegaskan bahwa santri adalah cermin sempurna dari perilaku para gurunya.
+
+"Jika kita ingin santri kita sholat Subuh tepat waktu di shaf pertama, maka para ustadz dan musyrif harus sudah berada di masjid sebelum adzan berkumandang!"
+
+"Jika kita ingin santri berbicara santun dan beradab, maka para ustadz diharamkan melontarkan kata-kata kasar atau ejekan dari lisannya!"
+
+"Keteladanan nyata (*Qudwah Hasanah*) berbicara sejuta kali lebih keras daripada seribu khutbah di atas mimbar!"
+
+Ustadz Salman menyerap setiap penjelasan tersebut ke dalam relung sanubarinya yang paling dalam.
+
+Salman menyadari bahwa mendidik santri bukanlah perkara menundukkan raga mereka dengan tongkat rotan.
+
+Mendidik santri adalah sebuah simfoni keteladanan akhlak yang dimainkan secara serempak dan harmonis oleh seluruh komponen Pesantren Darul Adab.
+
+Salman bertekad di dalam hatinya untuk menjadi cermin keteladanan yang jernih bagi seluruh santri asuhnya di asrama.
+
+Salman mengangkat tangannya mengusap wajahnya seraya berdoa agar Allah memberinya kekuatan untuk mengemban amanah qudwah ini.
+
+Kiai Hasyim berhenti sejenak, meminum seteguk air putih dari gelas di mejanya.
+
+Seluruh asatidz menyimak dengan pandangan mata yang berbinar-binar penuh inspirasi.
+
+Salman mencatat setiap poin penting dari kelima pilar operasional tersebut.
+
+Ustadz Burhan tersenyum membayangkan bagaimana suasana kelas madrasah akan bertransformasi.
+
+Zaid yang duduk di barisan santri senior mengangguk mantap penuh keyakinan.
+
+Udara aula ndalem terasa sejuk oleh hembusan angin semilir dari taman samping.
+
+Kelima pilar ini menjadi pondasi kokoh yang menopang masa depan Darul Adab.
+
+Seluruh warga pesantren siap bergotong-royong menegakkan pilar-pilar peradaban ini.

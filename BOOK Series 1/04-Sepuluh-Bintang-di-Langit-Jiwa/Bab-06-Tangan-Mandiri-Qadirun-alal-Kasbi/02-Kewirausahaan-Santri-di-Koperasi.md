@@ -1,16 +1,17 @@
 # Sub-Bab 6.2: Kewirausahaan Santri di Koperasi
 
-Di unit koperasi santri dan mini market Pesantren Darul Adab, suasana transaksi jual beli berlangsung dengan sangat tertib, jujur, dan beradab.
+Pukul 11.00 siang pada hari Ahad di toko Koperasi Santri Darul Adab. Suasana transaksi jual beli alat tulis, perlengkapan mandi, dan aneka jajanan sehat berlangsung sangat tertib dan ramai.
 
-Santri-santri kelas sebelas bertugas sebagai pengelola piket kasir dan manajemen stok barang di bawah bimbingan guru ekonomi syariah.
+Faisal dan Danang sedang bertugas sebagai petugas kasir dan pengelola stok barang koperasi.
 
-Mereka mencatat setiap arus kas masuk dan keluar secara digital, menyusun produk makanan hasil karya kebun hidroponik santri di rak etalase, dan melayani pembeli dengan senyum 5S (*Salam, Senyum, Sapa, Sopan, Santun*).
+Mereka melayani pembeli dengan salam dan senyuman ramah, mengoperasikan mesin kasir digital dengan teliti, dan mencatat laporan arus kas harian secara transparan.
 
-Koperasi santri ini bukan sekadar unit bisnis, melainkan **Laboratorium Kewirausahaan Berbasis Adab (*Sharia Entrepreneurship Lab*)**:
-* Melatih santri memahami akad-akad muamalah secara aplikatif di lapangan.
-* Membentuk etos kerja keras (*Itqan*), kejujuran timbangan, dan profesionalisme pelayanan.
-* Menumbuhkan jiwa kemandirian ekonomi (*Economic Self-Reliance*) agar santri tidak menjadi beban masyarakat kelak setelah lulus.
+Selain menjaga koperasi, santri-santri juga dilatih memproduksi produk kreatif mandiri: seperti budidaya madu lebah klanceng dan pembuatan sabun cuci piring herbal ramah lingkungan yang dijual kepada para pengunjung dan wali santri.
 
-Zaid yang sedang mengaudit laporan laba-rugi koperasi tersenyum melihat surplus hasil usaha yang akan dialokasikan untuk beasiswa santri yatim dan dhuafa.
+Kyai Hasyim mengajarkan etos wirausaha Nabawi:
 
-Jiwa mandiri yang berpadu dengan kepedulian sosial adalah pilar ketahanan umat yang dibangun nyata di bumi Pesantren Darul Adab.
+$$\text{مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَإِنَّ نَبِيَّ اللَّهِ دَاوُدَ كَانَ يَأْكُلُ مِنْ عَمَلِ يَدِهِ}$$
+
+> *"Tidaklah seseorang memakan makanan yang lebih baik daripada apa yang dihasilkan dari jerih payah tangannya sendiri. Dan sesungguhnya Nabi Allah Dawud 'alaihissalam senantiasa makan dari hasil karya tangannya sendiri."* (HR. Al-Bukhari)
+
+Pelatihan kewirausahaan sejak dini menumbuhkan mentalitas tangan di atas (*The Giving Hand*), melatih keterampilan negosiasi yang beradab, dan menyiapkan santri menjadi pengusaha muslim yang berintegritas tinggi.

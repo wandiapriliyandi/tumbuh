@@ -1,15 +1,17 @@
 # Sub-Bab 8.1: Menata Jadwal Menata Langkah
 
-Di dinding Kamar Al-Farabi, sebuah papan jadwal harian terpasang rapi dengan tabel warna-warni yang jelas: **Peta Jadwal Terpadu 24 Jam (*Daily Life Schedule*)**.
+Pukul 05.45 pagi di meja belajar Kamar Al-Farabi. Farhan sedang menempelkan selembar jadwal harian pribadi berwarna biru di dinding samping lemari pakaiannya: **Bagan Manajemen Waktu & Rutinitas Ksatria (*Personal Daily Rhythm Planner*)**.
 
-Farhan dan kawan-kawannya mengamalkan bintang kedelapan: **Munazhzhamun fi Syu'unihi (Keteraturan dan Kerapian dalam Segala Urusan)**.
+Bintang karakter kedelapan: **Keteraturan dalam Segala Urusan (*Munazhzhamun fī Syu'ūnihi / Structured & Organized Living*)** telah mendarah daging dalam keseharian Farhan:
+* **03.30 – 04.30**: Tahajjud, witir, dan persiapan fajar.
+* **04.30 – 06.00**: Sholat Subuh berjamaah dan halaqah tahsin Qur'an.
+* **06.00 – 06.45**: Piket kamar 5S, mandi, dan sarapan pagi.
+* **07.00 – 12.30**: Pembelajaran madrasah dan muthala'ah kelas.
+* **12.30 – 15.00**: Sholat Zhuhur, makan siang, dan qailulah (tidur siang sunnah 20 menit).
+* **15.30 – 17.15**: Sholat Ashar, olahraga sore, dan mencuci pakaian mandiri.
+* **18.00 – 21.00**: Sholat Maghrib, makan malam mayoran, Sholat Isya', dan pengajian kitab kuning.
+* **21.30 – 03.30**: Istirahat tidur lelap sirkadian 6–7 jam.
 
-Jadwal harian santri diatur dengan ritme yang seimbang:
-* Pukul 03.45 – 05.30: Subuh, dzikir pagi, dan tahfizh Qur'an.
-* Pukul 05.30 – 06.45: Piket kamar 5S, mandi, sarapan, dan persiapan madrasah.
-* Pukul 07.00 – 12.15: KBM madrasah pagi.
-* Pukul 12.15 – 15.30: Dzuhur, makan siang, qailulah, dan persiapan Ashar.
-* Pukul 15.30 – 17.30: Ashar, olahraga sore, dan mandi sore.
-* Pukul 18.00 – 21.45: Maghrib, muthala'ah kitab kuning, Isya, makan malam mayoran, dan persiapan tidur.
+Farhan memeriksa setiap agenda dengan disiplin tinggi.
 
-Keteraturan jadwal ini memberikan struktur hidup yang sangat jelas bagi santri. Santri tidak pernah merasa kebingungan atau panik karena setiap menit dalam hidupnya memiliki tujuan yang bermakna dan terencana dengan matang.
+Keteraturan hidup melahirkan efisiensi energi mental, membebaskan santri dari kepanikan ketergesaan (*Rush & Chaos*), dan menjadikannya pribadi yang selalu tenang, terencana, dan produktif dalam setiap langkah kehidupannya.

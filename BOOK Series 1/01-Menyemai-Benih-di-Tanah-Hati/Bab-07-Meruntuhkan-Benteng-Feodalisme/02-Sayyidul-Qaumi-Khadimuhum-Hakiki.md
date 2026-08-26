@@ -1,31 +1,103 @@
 # Sub-Bab 7.2: Sayyidul Qaumi Khadimuhum Hakiki
 
-Keheningan yang mencekam menyelimuti seisi aula pertemuan selepas peringatan keras dari Kyai Hasyim. Di barisan paling depan santri kelas dua belas, Zaid mengangkat kepalanya perlahan. Wajah pemuda berusia tujuh belas tahun itu tampak basah oleh air mata penyesalan.
+Di tempat pencucian pakaian asrama putra yang basah dan temaram pada pukul 16.45 sore.
 
-Zaid bangkit berdiri dari duduk bersilanya. Dengan langkah perlahan dan kepala tertunduk takzim, ia melangkah maju mendekati mimbar di hadapan Kyai Hasyim dan seluruh rekan-rekan seangkatannya.
+Sosok Zaid—sang ketua santri kelas dua belas—berjongkok perlahan di atas lantai semen yang licin di samping Farhan.
 
-"Bismillahir Rahmanir Rahim..." suara Zaid bergetar hebat saat berbicara di depan mikrofon. "Kyai, para asatidz, dan sahabat-sahabatku santri senior..."
+Zaid menatap kedua telapak tangan Farhan yang memutih, lecet, dan memerah karena air detergen.
 
-Zaid berlutut di hadapan Kyai Hasyim, mencium tangan sang kiai sembari terisak.
+Tanpa mengucapkan sepatah kata pun, Zaid mengulurkan kedua tangannya yang berotot dan kekar.
 
-"Malam ini, di hadapan Allah SWT dan para guru, saya, Zaid, sebagai Ketua Santri Putra, memohon ampunan kepada Allah dan meminta maaf yang sebesar-besarnya atas kelalaian saya dalam memimpin asrama ini," ucap Zaid dengan suara yang merasuk ke kalbu seluruh yang hadir.
+Zaid menarik ember hitam berisi tumpukan baju kotor tersebut mendekat ke arah dirinya sendiri.
 
-Zaid berbalik menghadap rekan-rekan santri kelas sebelas dan dua belas. Tatapan matanya memancarkan tekad pembaharuan yang membara.
+Zaid menggulung kedua lengan kaos oblongnya hingga ke atas siku dengan gerakan mantap.
 
-"Sahabat-sahabatku," seru Zaid sembari menyeka air matanya, "kita selama ini bangga disebut sebagai santri paling tua di pondok ini. Kita merasa berhak dihormati dan dilayani. Tapi apa yang telah kita berikan kepada adik-adik kelas kita selain rasa takut dan beban cucian pakaian kita?!"
+Lalu di hadapan Farhan yang terperangah kaget, sang ketua santri meraih sarung tenun basah yang berat itu.
 
-Zaid melangkah mendekati tiga ember pakaian kotor di depan aula. Dengan kedua tangannya sendiri, Zaid mengangkat salah satu ember tersebut dan menaruhnya di samping tubuhnya.
+Zaid mencelupkannya ke dalam bak air bilasan, dan mulai mengucek serta memerasnya dengan kekuatannya sendiri.
 
-"Mulai malam ini, saya yang akan mencuci pakaian kotor saya sendiri!" tegas Zaid. "Dan mulai besok pagi, saya akan turun langsung ke Kamar Al-Farabi untuk membantu adik-adik kelas tujuh menjemur pakaian mereka dan mengajarkan mereka cara berwudhu yang benar!"
+Farhan panik luar biasa.
 
-Zaid mengutip hadits masyhur yang selama ini hanya menjadi hafalan di lisan tanpa pernah dipraktikkan:
+Wajah anak dua belas tahun itu pucat pasi, kedua tangannya terangkat berusaha mencegah perbuatan seniornya tersebut:
+
+"Mas Zaid!
+
+Jangan, Mas!
+
+Astaghfirullah...
+
+Jangan Mas Zaid yang mencuci!"
+
+"Biar saya saja yang selesaikan cucian ini, Mas...
+
+Nanti saya dimarahi dan dipukuli oleh Mas Ilham atau senior lain kalau tahu bajunya dicucikan oleh Ketua Santri..."
+
+Zaid menghentikan gerakannya sejenak.
+
+Zaid menahan kedua pergelangan tangan Farhan dengan sangat lembut.
+
+Zaid menatap lurus ke dalam bola mata Farhan dengan senyuman yang begitu hangat, tulus, dan menenangkan:
+
+"Farhan, adikku yang shalih...
+
+Dengarkan kata-kata Mas Zaid baik-baik."
+
+"Mulai detik ini, di bumi Pesantren Darul Adab ini, tidak akan pernah ada lagi santri baru kelas tujuh yang mencucikan pakaian kotor santri senior!"
+
+Zaid menghela nafas panjang yang sarat dengan getaran haru dan tekad kemuliaan:
+
+"Nabi kita yang mulia, Baginda Rasulullah SAW bersabda dalam hadits yang shahih:
 
 $$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
 
-> *"Pemimpin suatu kaum adalah pelayan bagi kaumnya."*
+> *'Pemimpin sejati suatu kaum adalah pelayan bagi kaum yang dipimpinnya.'* (HR. Al-Baihaqi)
 
-"Inilah kepemimpinan Islam sejati!" seru Zaid. "Kemuliaan seorang santri senior Jenjang J4 bukanlah pada seberapa banyak adik kelas yang takut padanya, melainkan pada **seberapa banyak keringat yang ia cucurkan untuk melayani dan melindungi adik-adiknya**!"
+Zaid menatap Farhan dengan tatapan mata seorang ksatria sejati:
 
-Mendengar ikrar tulus sang ketua santri, satu per satu santri senior lainnya bangkit berdiri dengan mata basah oleh air mata haru. Mereka melangkah maju ke depan, memeluk Zaid, dan mengambil ember cucian pakaian masing-masing.
+"Sebagai santri senior kelas dua belas, tugas Mas Zaid dan kawan-kawan pengurus bukanlah menjadi raja-raja kecil yang minta dilayani dan disembah oleh adik-adiknya."
 
-Malam itu, di aula asrama putra, sebuah gelombang pertobatan masal meruntuhkan arogansi senioritas. Kepemimpinan melayani (*Servant Leadership*) yang dicontohkan oleh Zaid menjadi lentera baru yang menerangi jalan bagi seluruh santri senior Pesantren Darul Adab.
+"Tugas senior adalah menjadi pelindung, menjadi pembimbing, menjadi teladan kebaikan, dan menjadi pelayan yang membantu adik-adiknya saat kesulitan beradaptasi di pondok!"
+
+"Memaksa adik kelas mencuci pakaian senior adalah tindakan pengecut, zalim, dan memalukan martabat santri!"
+
+Zaid melanjutkan mencuci seluruh pakaian kotor di dalam ember tersebut hingga tuntas.
+
+Zaid membilasnya berkali-kali di bawah kran air hingga busa detergennya hilang bersih.
+
+Zaid memerasnya dengan kuat, lalu mengibaskan kain-kain itu dan menggantungkannya dengan rapi di kawat jemuran besi luar.
+
+Setelah menyelesaikan cucian tersebut, Zaid mengambil ember kecil milik Farhan sendiri yang berisi dua helai kaos dan sarung kumal Farhan yang belum sempat dicuci.
+
+Zaid tersenyum menatap Farhan: "Sekarang, ayo Mas Zaid ajari cara mencuci bajumu sendiri dengan teknik yang benar agar tanganmu tidak lecet dan kerah bajumu bersih cemerlang."
+
+Zaid membimbing jemari mungil Farhan, mengajarinya cara mengucek kerah baju, cara menyikat bagian ketiak dengan sikat berbulu lembut, dan cara melipat cucian basah sebelum dijemur.
+
+Peristiwa dramatis dan mengharukan di tempat pencucian pakaian sore itu disaksikan oleh puluhan santri dari kejauhan.
+
+Kabar tentang sang Ketua Santri yang turun tangan mencuci pakaian dan membela adik kelas menyebar cepat laksana kilat ke seluruh komplek asrama.
+
+Keteladanan nyata (*Qudwah Hasanah*) yang diperagakan Zaid meruntuhkan benteng feodalisme asrama hingga ke pondasi dasarnya, mengembalikan kemuliaan persaudaraan Islam yang suci di Pesantren Darul Adab.
+
+Farhan tersenyum dengan air mata haru yang mengering di pipinya, merasakan indahnya persaudaraan Islam yang memuliakan martabat manusia.
+
+Zaid tersenyum memandang Farhan yang mulai mampu memeras bajunya sendiri dengan benar.
+
+Sinar mentari senja yang temaram membiaskan cahaya jingga di atas permukaan air bak bilasan.
+
+Beberapa santri senior yang melintas di koridor terpaku malu menyaksikan aksi ketuanya.
+
+Mereka menundukkan kepala, menyadari betapa hinanya perbuatan menyuruh adik kelas selama ini.
+
+Farhan merasakan kehangatan yang luar biasa merayap di dalam rongga dadanya.
+
+Tangan Zaid yang kekar telah menyalakan kembali api rasa percaya diri di dalam jiwa Farhan.
+
+Keduanya menyelesaikan seluruh jemuran pakaian dengan rapi di kawat jemuran luar.
+
+Zaid menepuk pundak Farhan, mengajaknya melangkah bersama menuju masjid untuk sholat Maghrib.
+
+Langkah kaki mereka beriringan, menandai runtuhnya sekat kasta senior dan junior di asrama.
+
+Malam itu, tempat cucian asrama menjadi monumen sejarah lahirnya kepemimpinan pelayan sejati.
+
+Ukhuwah Islamiyyah telah kembali bertahta di bumi Pesantren Darul Adab.

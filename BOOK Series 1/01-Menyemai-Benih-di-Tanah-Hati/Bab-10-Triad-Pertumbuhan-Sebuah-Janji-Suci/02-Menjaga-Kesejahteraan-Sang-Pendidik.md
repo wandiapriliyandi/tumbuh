@@ -1,23 +1,105 @@
 # Sub-Bab 10.2: Menjaga Kesejahteraan Sang Pendidik
 
-Sebagai tindak lanjut nyata dari penandatanganan Piagam Triad Pertumbuhan, manajemen yayasan Pesantren Darul Adab langsung mengeksekusi reformasi total terhadap sistem kerja pengasuhan asrama putra.
+Keesokan paginya pukul 08.30 di ruang rapat pimpinan yayasan Pesantren Darul Adab.
 
-Di ruang transit pengasuhan yang baru saja direnovasi menjadi lebih nyaman, Ustadz Salman dan Ustadz Ridwan memimpin rapat perdana penerapan **Sistem 4-Shift Kerja Terpadu (*4-Shift Rostering System*)**.
+Kyai Hasyim memimpin rapat koordinasi khusus bersama dewan bendahara yayasan dan kepala biro kepegawaian.
 
-"Selama ini," jelas Salman di depan rekan-rekan musyrif muda, "kita mengira bahwa semakin lama seorang musyrif berada di asrama tanpa tidur, semakin tinggi pahala dan dedikasinya. Namun sains dan pengalaman telah membuktikan bahwa kelelahan kronis hanya akan mengubah kita menjadi pemarah yang merusak santri."
+Rapat ini bertujuan untuk mengesahkan kebijakan perlindungan dan pemuliaan hak-hak musyrif.
 
-Sistem 4-Shift yang diberlakukan membagi waktu tugas secara adil dan manusiawi:
-1. **Shift 1: Fajar & Pagi (03.30 – 11.30)**: Mengawal bangun Subuh beradab, sarapan, dan transisi ke madrasah.
-2. **Shift 2: Siang & Sore (11.30 – 17.30)**: Mengawal qailulah siang, sholat Dzuhur/Ashar, dan kegiatan olahraga sore.
-3. **Shift 3: Malam (17.30 – 22.00)**: Mengawal kajian kitab kuning ba'da Maghrib, makan malam mayoran, dan persiapan tidur 5S.
-4. **Shift 4: Ronda Malam (22.00 – 03.30)**: Menjaga keamanan komplek, memantau titik-titik rawan, dan memastikan santri tidur nyenyak.
+Yaitu: **Regulasi Kesejahteraan dan Manajemen Energi Pendidik (*Pastoral Staff Welfare & Burnout Mitigation Policy*)**.
 
-Dengan sistem ini, setiap musyrif dijamin memiliki waktu istirahat dan tidur berkualitas minimal tujuh hingga delapan jam setiap hari, serta memiliki hari libur mingguan untuk berkumpul bersama keluarga.
+Kyai Hasyim membuka pertemuan dengan sebuah kalam hikmah yang sangat mendasar:
 
-Selain itu, pesantren mendirikan **Klinik Konseling & Wellness Pendidik**, di mana musyrif dapat memeriksakan kesehatan fisiknya secara rutin dan berkonsultasi dengan psikolog klinis jika mengalami kelelahan mental.
+"Para sahabatku sekalian..." tutur Kyai Hasyim dengan nada prihatin namun tegas.
 
-Ustadz Salman merasakan dampak perubahan ini secara langsung.
+"Sebuah lentera minyak tidak akan mampu menerangi ruangan yang gelap gulita jika minyak di dalam bejananya telah kering kerontang."
 
-Wajahnya kini tidak lagi pucat dan muram; matanya yang dulu merah saga kini kembali jernih dan segar. Tubuhnya terasa bugar, dan yang terpenting: hatinya dipenuhi oleh ketenangan dan energi kasih sayang yang melimpah ruah setiap kali ia melangkah menyapa santri-santrinya di lorong asrama.
+"Demikian pula halnya dengan seorang musyrif dan ustadz: bagaimana mungkin kita menuntut mereka mendidik santri dengan penuh kelembutan, kesabaran, dan senyuman..."
 
-"Ketika seorang musyrif dirawat kesejahteraannya oleh lembaga," bisik Salman kepada Ridwan sembari tersenyum lebar, "maka musyrif itu akan merawat santri-santrinya dengan segenap cinta dan kemuliaan adab yang ia miliki."
+"Jika tubuh mereka kelelahan akut, tidur mereka hanya tiga jam sehari, gaji mereka tidak mencukupi kebutuhan dasar keluarganya, dan mereka tidak pernah mendapatkan hari libur untuk menyegarkan jiwanya?"
+
+Kiai menegaskan bahwa mengeksploitasi ustadz pengabdian dengan beban kerja 24 jam tanpa jeda atas nama 'keikhlasan' adalah sebuah kezaliman institusional yang bertentangan dengan Maqashid Syari'ah.
+
+Rapat yayasan pagi itu secara bulat menyepakati paket kebijakan revolusioner untuk memuliakan para musyrif dan pendidik pesantren:
+
+Pertama, **Sistem Pembagian Shift Kerja Asrama yang Manusiawi (*Humanized Shift Rotation*)**.
+
+Jam tugas musyrif dibagi menjadi tiga shift kerja yang jelas, adil, dan proporsional.
+
+Setiap musyrif dijamin hak biologisnya untuk mendapatkan waktu tidur malam minimal 7 jam tanpa gangguan tugas piket malam.
+
+Setiap musyrif berhak mendapatkan jatah libur penuh (*Day Off*) minimal satu hari dalam sepekan untuk berkumpul bersama keluarga atau beristirahat menyegarkan fisik dan pikiran.
+
+Kedua, **Peningkatan Standar Kesejahteraan Finansial & Asuransi Kesehatan**.
+
+Yayasan menaikkan tunjangan kehormatan musyrif secara signifikan agar mereka mampu hidup layak, tenang, dan bermartabat dalam berkhidmah.
+
+Setiap ustadz dan musyrif didaftarkan ke dalam program jaminan kesehatan BPJS dan pemeriksaan kesehatan medis berkala (*Regular Medical Check-Up*).
+
+Ketiga, **Pusat Konseling & Kesehatan Mental Pendidik (*Educator Wellness & Counseling Support*)**.
+
+Pesantren menyediakan sesi pendampingan psikologis dan konseling berkala bersama psikolog dan dokter saraf untuk mencegah kejenuhan kerja (*Burnout Syndrome*).
+
+Lembaga menyediakan ruang istirahat khusus musyrif yang nyaman, dilengkapi fasilitas perpustakaan mini, teh herbal, dan sarana relaksasi.
+
+Keempat, **Akademi Pengembangan Karir & Beasiswa Lanjutan**.
+
+Setiap musyrif mendapatkan hak pelatihan berkala dalam bidang psikologi remaja, konseling islami, dan manajemen perilaku PBIS.
+
+Pesantren memberikan beasiswa penuh studi lanjut jenjang sarjana dan pascasarjana bagi musyrif yang berprestasi dalam mendampingi santri.
+
+Ketika Ustadz Salman menerima surat keputusan kebijakan baru tersebut di ruang pengasuhan siang harinya.
+
+Salman meneteskan air mata haru dan sujud syukur di atas lantai.
+
+Salman merasakan bahwa lembaga pesantren kini benar-benar hadir memeluk, melindungi, dan menghargai keringat perjuangannya sebagai pendidik.
+
+Dengan jiwa yang segar, raga yang sehat, dan hati yang dipenuhi rasa syukur, para musyrif Pesantren Darul Adab siap memancarkan kembali cahaya keikhlasan dan kasih sayang sejati kepada seluruh santri asuh mereka.
+
+Lembaga yang sehat telah melahirkan guru-guru yang bahagia dan berenergi penuh untuk mendidik generasi peradaban.
+
+Salman melangkah pulang menuju kamar istirahatnya dengan senyuman lebar di wajahnya.
+
+Tubuh pemuda itu kini mendapatkan hak istirahat yang cukup untuk menyegarkan saraf-sarafnya.
+
+Pagi hari berikutnya, Salman bangun fajar dengan tubuh yang bugar dan jiwa yang dipenuhi energi cinta.
+
+Para musyrif lainnya tampak sangat ceria saat menyapa anak-anak asuh mereka di koridor asrama.
+
+Tidak ada lagi tatapan mata merah penuh amarah atau keletihan kronis di ruang piket pengasuhan.
+
+Kesejahteraan yang terjamin melahirkan dedikasi dan keikhlasan pengabdian yang berlipat ganda.
+
+Pesantren Darul Adab membuktikan bahwa memuliakan guru adalah kunci utama keberkahan ilmu.
+
+Lembaga yang sehat dan adil telah melahirkan atmosfer pendidikan yang bahagia dan bermartabat.
+
+Dengan energi yang penuh, para pendidik siap menuntun santri meniti tangga kemandirian adabi.
+
+Masa depan peradaban Islam diukir indah melalui tangan-tangan guru yang bahagia dan sejahtera.
+
+Ustadz Ridwan dan Ustadz Burhan saling berjabat tangan erat di ruang pengasuhan.
+
+Wajah-wajah para musyrif muda kini tampak berseri-seri, cerah, dan berenergi penuh.
+
+Keluarga-keluarga para ustadz di perumahan guru merasakan kebahagiaan yang berlipat ganda.
+
+Lembaga yang adil dan memuliakan pendidik telah melahirkan keberkahan yang melimpah ruah.
+
+Setiap detik pengabdian dijalankan dengan senyuman tulus tanpa beban kejenuhan batin.
+
+Anak-anak santri menyambut keceriaan para gurunya dengan cinta dan takzim yang mendalam.
+
+Sinergi yang indah antara kesejahteraan guru dan kemajuan santri terwujud nyata di Darul Adab.
+
+Pohon tarbiyah tumbuh subur karena para petaninya dirawat dan dimuliakan dengan penuh keadilan.
+
+Masa depan peradaban Islam disongsong dengan langkah-langkah mantap penuh optimisme.
+
+Semoga Allah memberkahi seluruh pendidik yang berjuang dengan ikhlas di jalan-Nya.
+
+Salman menarik nafas panjang, merasakan detak jantungnya yang berdegup penuh kedamaian.
+
+Malam itu, di kamar tidurnya, Salman merebahkan tubuhnya dalam rasa syukur yang mendalam.
+
+Sebuah era baru pemuliaan para guru telah bersemi di Pesantren Darul Adab.

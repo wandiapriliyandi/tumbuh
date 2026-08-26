@@ -1,65 +1,129 @@
 # Sub-Bab 2.3: Genggaman Tangan Zaid
 
-Pintu kayu Kamar Al-Farabi berderit pelan saat didorong dari luar. Farhan yang sedang mendekap foto ibunya di dada tersentak kaget. Dengan gerakan refleks yang panik, ia buru-buru menyembunyikan foto tersebut ke balik bantal tipisnya dan menyeka air matanya dengan lengan baju seragamnya yang lusuh.
+Sore hari pukul 17.15 di serambi samping masjid utama Pesantren Darul Adab.
 
-Farhan menundukkan kepalanya dalam-dalam, bersiap menerima teguran jika ada pengurus asrama yang memergokinya tidak tidur siang.
+Matahari senja perlahan-lahan tenggelam di balik punggung bukit kapur barat, membiaskan semburat cahaya jingga keemasan yang menaungi kubah masjid dan pucuk-pucuk pohon palem di halaman pesantren.
 
-Namun suara langkah kaki yang mendekat ke sudut ranjangnya terdengar sangat pelan dan hati-hati, tidak tergesa-gesa seperti langkah para pembina piket.
+Lantunan tartil ayat-ayat suci Al-Qur'an surat Ar-Rahman berkumandang syahdu dari pengeras suara menara masjid, mengalirkan gelombang ketenteraman ke seluruh penjuru lembah pesantren.
 
-"Assalamu'alaikum, Farhan," sapa sebuah suara bas yang tenang, teduh, dan berwibawa.
+Di sudut serambi masjid yang beralaskan ubin marmer putih dingin di balik sebuah pilar beton besar, Farhan sedang duduk bersila seorang diri.
 
-Farhan mendongak perlahan dengan rasa takut yang masih membekas. Di hadapannya berdiri Zaid, santri kelas dua belas bertubuh tinggi tegap yang mengenakan sarung tenun hijau tua dan kemeja putih polos yang rapi. Di dadanya tersemat pin kuningan bertuliskan *"Ketua Santri Putra Pesantren Darul Adab"*.
+Kepala Farhan tertunduk sangat dalam hingga dahinya nyaris menyentuh permukaan ubin marmer.
 
-Zaid adalah sosok santri paling senior dan paling disegani di seluruh komplek asrama putra. Namun tidak ada sedikit pun kesan angkuh atau menakutkan pada raut wajah pemuda berusia tujuh belas tahun itu.
+Kedua tangannya memegang erat sebuah mushaf Al-Qur'an saku bersampul kain hijau tua.
 
-Zaid tidak berdiri menjulang di atas Farhan. Sebaliknya, pemuda itu melipat kedua kakinya dan duduk bersila di atas lantai semen beralaskan tikar pandan, tepat di depan ranjang Farhan. Tingkat pandangan mata mereka kini sejajar (*Eye-Level Communication*).
+Namun mushaf tersebut tidak sedang dibaca; permukaan kertas mushaf itu tampak basah oleh tetesan-tetesan air mata yang terus jatuh tanpa henti dari kedua kelopak mata Farhan yang sembab.
 
-"Boleh Kak Zaid duduk di sini menemanimu sebentar?" tanya Zaid dengan senyuman yang sangat ramah.
+Farhan baru saja mengalami hari yang sangat berat dan melelahkan: di kelas madrasah siang tadi, ia ditegur di depan kawan-kawannya karena tidak mampu menjawab hafalan kaidah Nahwu akibat kepalanya yang pusing, dan sore harinya ia kehabisan air saat hendak mandi di asrama.
 
-Farhan tertegun, lidahnya tercekat. Di dalam sistem asrama lama yang feodal, santri kelas dua belas tidak pernah mau duduk bersila di lantai bersama santri baru kelas tujuh. Namun Zaid duduk di sana tanpa canggung sedikit pun.
+Tubuhnya lelah, perutnya lapar, dan batinnya merasa sangat terpuruk, sendiri, dan tak berdaya di dunia yang begitu luas dan asing ini.
 
-Farhan hanya mampu menganggukkan kepalanya pelan.
+Farhan merasa seolah-olah tidak ada seorang pun di pesantren megah ini yang peduli apakah ia masih hidup, apakah ia sedang sakit, atau apakah jiwanya sedang menjerit kesakitan.
 
-Zaid memandang koper kain berwarna biru laut yang masih terkunci rapat di samping lemari kayu nomor dua belas. Tatapan matanya beralih ke sudut bantal Farhan yang basah oleh bekas air mata.
+Tiba-tiba, di tengah kesendirian dan keputusasaan batinnya yang pekat, sebuah bayangan tinggi melangkah mendekati pilar tempat Farhan duduk.
 
-"Kopermu bagus sekali, Farhan. Warnanya biru segar, seperti air danau di desa kelahiranku," ucap Zaid memulai percakapan dengan nada yang sangat santai.
+Suara gesekan kain jubah putih bersih berpadu dengan aroma wewangian minyak oud gaharu yang sangat lembut dan menenangkan seketika tercium di udara sekitar Farhan.
 
-Farhan menunduk kembali, meremas jemari tangannya sendiri. "Itu koper yang dibelikan Ibu sebelum saya berangkat ke pondok, Kak..." bisik Farhan dengan suara bergetar.
+Sebelum Farhan sempat mendongak atau menyembunyikan wajahnya yang basah oleh air mata, sebuah telapak tangan yang besar, hangat, dan kokoh mendarat dengan sangat lembut di atas bahu kurusnya.
 
-Zaid mengangguk penuh pengertian. Ia tidak melarang Farhan bersedih, tidak pula mencapnya sebagai anak yang lemah atau cengeng.
+Farhan terkesiap kaget, tubuhnya seketika menegang kaku karena mengira yang datang adalah pembina keamanan yang hendak memarahinya karena duduk menyendiri di serambi.
 
-"Ibumu pasti orang yang sangat hebat dan penuh kasih sayang," kata Zaid lembut. "Dan Kakak tahu, pasti sangat berat bagimu harus berpisah dari pelukan Ibu dan tinggal di tempat baru yang serba asing ini."
+Namun sentuhan tangan di bahunya itu sama sekali tidak kasar atau mengancam; sentuhan itu begitu hangat, mantap, dan menenteramkan laksana sentuhan tangan seorang abang kandung yang penuh perlindungan.
 
-Mendengar pengakuan yang begitu tulus dan memvalidasi perasaannya, pertahanan batin Farhan mendadak runtuh. Air mata yang sejak tadi ditahannya kembali mengalir deras membasahi pipinya yang tirus.
+Farhan mengangkat wajahnya yang sembab dengan perlahan dan ragu-ragu.
 
-"Farhan rindu Ibu, Kak Zaid..." isak anak itu seraya menutupi wajahnya dengan kedua telapak tangan kecilnya. "Farhan takut di sini... Farhan takut kena rotan Ustadz Salman... Farhan tidak bisa mencuci baju sendiri..."
+Di hadapannya, seorang santri senior berusia tujuh belas tahun bertubuh tegap mengenakan baju koko putih bersih bertahtakan sorban hijau di pundaknya sedang berjongkok menatapnya.
 
-Zaid menggeser duduknya mendekat. Dengan gerakan yang sangat lembut dan penuh kehangatan persaudaraan sejati (*Ukhuwah Islamiyyah*), Zaid mengulurkan tangannya dan merangkul pundak Farhan.
+Itu adalah Zaid—santri kelas dua belas madrasah aliyah yang baru saja terpilih sebagai Ketua Santri / Ketua Organisasi Pengurus Santri Putra Pesantren Darul Adab.
 
-Zaid membiarkan kepala Farhan bersandar di pundaknya. Tangan kanannya yang kokoh menggenggam jemari Farhan yang gemetar, menyalurkan kehangatan dan rasa aman yang selama dua pekan ini hilang dari jiwa sang santri baru.
+Wajah Zaid yang bersih dan teduh dihiasi oleh senyuman yang sangat tulus dan menyejukkan hati siapa pun yang memandangnya.
 
-"Menangislah, Farhan," bisik Zaid sembari menepuk punggung Farhan dengan irama yang menenangkan. "Keluarkan semua rasa takut dan rindumu. Kak Zaid di sini bersamamu. Kamu tidak sendirian lagi di asrama ini."
+Sorot mata Zaid tidak memancarkan arogansi senioritas atau tatapan menghakimi; mata pemuda itu memancarkan pancaran kasih sayang (*Nazarur Rahmah*) yang begitu dalam dan tulus.
 
-Zaid tersenyum kecil sembari memandang ke arah jendela kamar. "Tujuh tahun yang lalu, saat pertama kali Kakak menginjakkan kaki di kamar ini, Kakak menangis lebih kencang darimu, Dik. Kakak bahkan bersembunyi di balik pintu kamar mandi seharian karena takut bertemu senior."
+"Assalamu'alaikum warahmatullah, adikku..." sapa Zaid dengan nada suara bas yang sangat lembut dan menenangkan jiwa.
 
-Farhan mendongak perlahan, menyeka air matanya, terkejut mendengar pengakuan sang ketua santri yang begitu ia kagumi. "Benarkah, Kak Zaid?"
+Farhan menelan ludahnya yang terasa tercekat di tenggorokan, matanya mengerjap menatap sang ketua santri.
 
-"Benar sekali," jawab Zaid seraya tertawa renyah. "Tapi perlahan Kakak belajar bahwa di pondok ini kita punya keluarga baru. Mulai hari ini, Kak Zaid adalah kakak asuhmu. Jika kamu merasa rindu rumah, jika kamu bingung cara mencuci baju, atau jika ada pelajaran yang sulit kamu pahami, carilah Kak Zaid. Pintu kamar Kakak di lantai dua selalu terbuka untukmu."
+"Wa-wa'alaikumussalam warahmatullah, Mas Zaid..." jawab Farhan dengan suara yang bergetar lirih dan serak.
 
-Zaid menunjuk gembok kuningan di koper biru Farhan. "Bagaimana kalau sekarang kita buka koper ini bersama-sama? Kakak akan ajarkan padamu cara menata lemari pakaian ala standar 5S yang rapi dan mudah diambil."
+Zaid duduk bersila di atas ubin marmer di samping Farhan, menurunkan pandangan matanya sejajar dengan tatapan mata Farhan.
 
-Farhan mengangguk mantap. Ada secercah keberanian baru yang menyala di dalam matanya.
+Zaid merogoh saku jubah putihnya, mengeluarkan selembar sapu tangan kain katun berwarna biru muda yang bersih dan wangi, lalu menyerahkannya ke tangan Farhan.
 
-Farhan merogoh kunci kecil dari sakunya dan memutar gembok kuningan tersebut. Suara *klik* pelan terdengar saat gembok itu terbuka. Resleting koper ditarik, membuka lipatan-lipatan baju yang masih menyimpan aroma wangi deterjen rumah ibunya.
+"Usaplah air matamu, Farhan adikku..." tutur Zaid dengan kelembutan yang menusuk langsung ke relung sanubari Farhan.
 
-Dengan penuh kesabaran seorang kakak kandung, Zaid mengajarkan Farhan teknik melipat baju ala *hospital corner*—melipat bagian sisi dengan rapi dan menyusunnya secara vertikal di dalam lemari agar pakaian tidak kusut dan mudah diambil tanpa merusak tumpukan lainnya.
+Farhan menerima sapu tangan itu dengan jemari yang gemetar, lalu mengusap sisa-sisa air mata di pipi dan kelopak matanya yang perih.
 
-Farhan mengikuti setiap instruksi Zaid dengan antusiasme yang tinggi. Tangannya yang awalnya gemetar kini bergerak lincah menata sarung, sajadah, dan kitab-kitabnya di rak lemari.
+Zaid mengulurkan tangan kanannya, menggenggam erat telapak tangan kiri Farhan yang mungil—tepat di atas bekas garis merah sabetan rotan yang masih sedikit membengkak.
 
-Setengah jam kemudian, lemari nomor dua belas itu tertata begitu rapi, bersih, dan harum. Koper biru yang tadinya membisu di sudut kini tersimpan rapi di atas rak lemari, menjadi simbol bahwa Farhan telah siap memulai langkah barunya di Pesantren Darul Adab.
+Genggaman tangan Zaid begitu hangat, kuat, dan mantap, seolah sedang menyalurkan seluruh energi keberanian, perlindungan, dan harapan baru ke dalam aliran darah Farhan yang sedang membeku oleh ketakutan.
 
-Sebelum meninggalkan kamar, Zaid kembali menepuk pundak Farhan dan menatap matanya dengan penuh keyakinan.
+"Farhan..." bisik Zaid sembari menatap lekat-lekat kedua bola mata Farhan yang basah.
 
-"Ingat pesan Kak Zaid ya, Farhan," ucap Zaid sembari tersenyum hangat. "Kebaikan itu menular. Hari ini Kak Zaid membantumu menata koper dan mengusap air matamu. Kelak, saat kamu sudah duduk di kelas dua belas seperti Kakak, giliranmu yang akan menggenggam tangan adik-adik kelasmu yang menangis rindu rumah."
+"Mas Zaid tahu apa yang sedang kamu rasakan saat ini, Dik.
 
-Farhan mengangguk kuat-kuat dengan senyuman tulus yang akhirnya mekar di wajahnya. Genggaman tangan Zaid siang itu telah menjadi jangkar penyelamat yang menyelamatkan fitrah seorang anak dari keputusasaan, mengubah rindu rumah menjadi bahan bakar tekad untuk bertumbuh menjadi insan yang tangguh dan berbudi luhur.
+Mas Zaid tahu dadamu terasa sesak...
+
+Mas Zaid tahu kamu sangat rindu Ibu dan Bapak di rumah...
+
+Mas Zaid tahu kamu merasa takut dan terasing di pondok ini..."
+
+Farhan menatap wajah Zaid tanpa berkedip, air matanya kembali menggenang di pelupuk matanya mendengar kata-kata pengakuan empati yang begitu nyata dari sang senior.
+
+Zaid tersenyum haru sembari mengeratkan genggaman tangannya di jemari Farhan:
+
+"Dengarkan Mas Zaid baik-baik, Farhan...
+
+Enam tahun yang lalu, saat Mas Zaid baru pertama kali masuk ke pondok ini sebagai santri baru kelas tujuh, Mas Zaid juga duduk menangis di sudut serambi masjid ini persis seperti kamu hari ini."
+
+Zaid melanjutkan kisahnya dengan suara yang bergetar penuh ketulusan:
+
+"Saat itu, Mas Zaid juga merasa tidak kuat...
+
+Mas Zaid juga membawa koper tua dan ingin kabur pulang ke rumah...
+
+Mas Zaid merasa pondok ini terlalu keras dan menakutkan..."
+
+Farhan tertegun mendengar penuturan jujur dari sosok ketua santri yang selama ini tampak begitu gagah, berwibawa, dan sempurna di matanya.
+
+"Tapi tahukah kamu apa yang membuat Mas Zaid mampu bertahan dan berdiri kokoh hingga hari ini, Farhan?" tanya Zaid dengan tatapan mata yang berbinar penuh inspirasi.
+
+Farhan menggelengkan kepalanya pelan.
+
+"Karena di tempat ini, Allah mempertemukan Mas Zaid dengan kawan-kawan seperjuangan dan para guru yang mengajari Mas Zaid bahwa setiap tetes air mata perantauan seorang penuntut ilmu tidak akan pernah sia-sia di hadapan Allah SWT."
+
+Zaid mengutip sabda agung junjungan kita Nabi Muhammad SAW dengan nada suara yang berwibawa dan penuh penghayatan:
+
+$$\text{مَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا، سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ}$$
+
+> *"Barangsiapa yang menempuh suatu jalan untuk mencari ilmu agama, niscaya Allah akan memudahkan baginya jalan menuju surga."* (HR. Muslim)
+
+Zaid menatap Farhan dengan senyuman yang menyinari sanubari:
+
+"Farhan...
+
+Kamu bukan anak yang lemah.
+
+Kamu adalah ksatria pilihan Allah yang sedang ditempa menjadi lentera peradaban.
+
+Mulai sore ini, ingatlah bahwa kamu tidak sendirian di pondok ini."
+
+Zaid menepuk dadanya sendiri dengan mantap:
+
+"Mas Zaid adalah abang kandungmu di sini.
+
+Kamar Mas Zaid di lantai atas selalu terbuka untukmu kapan pun kamu butuh tempat bercerita, kapan pun kamu butuh bantuan belajar Nahwu, atau kapan pun kamu rindu pelukan abangmu.
+
+Kamu aman bersama kami, Farhan."
+
+Mendengar janji persaudaraan yang begitu tulus dan suci dari sang ketua santri, seluruh dinding keputusasaan, rasa takut, dan keterasingan di dalam jiwa Farhan seketika runtuh berkeping-keping laksana debu yang ditiup angin kencang.
+
+Farhan tidak mampu menahan lagi rasa haru yang membuncah di dalam dadanya.
+
+Anak dua belas tahun itu memeluk tubuh Zaid erat-erat, menyandarkan kepalanya di dada bidang sang ketua santri sembari menangis tersedu-sedu—namun kali ini bukan lagi tangisan kepedihan atau keputusasaan, melainkan tangisan kelegaan, rasa syukur, dan lahirnya kembali harapan baru di dalam jiwanya.
+
+Zaid merengkuh tubuh Farhan yang kurus dengan pelukan hangat seorang abang sejati, mengusap punggung anak itu dengan lembut sembari membisikkan doa-doa keberkahan di telinganya.
+
+Suara adzan Maghrib berkumandang merdu dari menara masjid membelah langit senja Pesantren Darul Adab.
+
+Genggaman tangan dan pelukan hangat Zaid di serambi masjid sore itu menjadi titik balik agung dalam kehidupan Farhan: menyalakan kembali api fitrah yang sempat padam, dan mengokohkan langkah kakinya untuk meniti tangga kemandirian sebagai ksatria adabi penerus peradaban Islam.

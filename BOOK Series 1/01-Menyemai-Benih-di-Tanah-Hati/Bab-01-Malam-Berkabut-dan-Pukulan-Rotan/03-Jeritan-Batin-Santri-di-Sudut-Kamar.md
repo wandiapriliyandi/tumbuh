@@ -1,47 +1,141 @@
 # Sub-Bab 1.3: Jeritan Batin Santri di Sudut Kamar
 
-Lampu neon utama di Kamar Al-Farabi telah dipadamkan sejak pukul sepuluh malam. Kegelapan merayapi setiap sudut ruangan, hanya menyisakan berkas cahaya kuning temaram dari tiang lampu jalanan luar yang menerobos masuk melalui celah kisi-kisi ventilasi udara.
+Pukul 22.00 malam di komplek asrama putra Pesantren Darul Adab.
 
-Namun di dalam kamar berukuran enam kali tujuh meter itu, udara terasa begitu pekat dan berat. Suara desah nafas anak-anak yang tertidur gelisah berpadu dengan suara gemerisik daun pohon mangga di luar jendela yang bergesekan ditiup angin malam.
+Selepas sholat Isya' berjamaah dan pengajian kitab *Matan Al-Ajurrumiyyah* yang menguras energi di serambi masjid utama, suasana di dalam bilik Kamar Al-Farabi diselimuti kegelapan yang temaram dan pengap.
 
-Di ranjang susun nomor lima, Farhan masih terjaga. Matanya terbuka lebar menatap langit-langit plafon tripleks yang kusam. Tubuh kecilnya berbaring menyamping, meringkuk memeluk guling kapuk yang sarungnya sudah memudar warnanya.
+Lampu neon putih berdaya dua puluh watt di tengah plafon kamar telah dimatikan secara paksa oleh petugas piket pos jaga pengasuhan tepat saat lonceng malam berdentang dua kali.
 
-Farhan tidak bisa memejamkan mata. Setiap kali kelopak matanya tertutup, bayangan kejadian dini hari tadi berputar kembali di benaknya seperti mimpi buruk yang enggan pergi: suara gedoran pintu yang memekakkan telinga, bentakan kasar Ustadz Salman, dan sabetan rotan kuning yang menghantam lantai ubin di samping tumitnya.
+Matinya lampu utama tersebut menyisakan seberkas cahaya lampu minyak tanah dari pos jaga keamanan di seberang lapangan yang menerobos masuk melalui celah-celah ventilasi kayu di atas pintu kamar.
 
-Tubuh Farhan bergidik pelan. Dadanya terasa sesak, seolah ada batu besar yang menindih rongga pernapasannya. Di bawah bantalnya yang tipis, tangan kanannya meraba selembar kertas foto kecil yang tersimpan rapi di dalam saku baju koko cadangannya.
+Bayangan jeruji ventilasi kayu itu terpantul miring dan memanjang di atas lantai semen kamar yang dingin dan berdebu, menciptakan siluet visual yang menyerupai jeruji besi sel penjara bawah tanah yang mengurung jiwa dua puluh anak belia di dalamnya.
 
-Itu adalah foto ibunya, Ibu Fatimah. Farhan menarik foto itu perlahan dan mendekatkannya ke dada.
+Di sudut paling belakang kamar berukuran enam kali tujuh meter itu, tepat di kolong ranjang susun tingkat bawah di samping tumpukan koper-koper seng berdebu yang baunya apek, seorang bocah kurus sedang duduk meringkuk seorang diri.
 
-"Ibu..." bisik Farhan dengan suara yang nyaris tak terdengar, bibirnya bergetar menahan tangis yang ingin meledak. "Farhan takut di sini, Bu... Farhan ingin pulang ke rumah kita..."
+Itu adalah Farhan.
 
-Air mata hangat merembes dari sudut matanya, membasahi kain bantal yang keras. Farhan merasa sangat terasing dan sendirian di tengah keramaian asrama. Di rumah, ibunya selalu membangunkannya dengan elusan lembut di dahi dan bisikan adzan yang merdu. Di sini, ia dibangunkan dengan teror logam dan amarah yang menghancurkan rasa amannya.
+Farhan menarik kedua lututnya rapat-rapat hingga menempel ke dadanya yang ringkih, lalu melingkarkan kedua tangannya memeluk kedua tulang kering kakinya yang kurus.
 
-Di sudut kamar yang lain, di atas kasur busa tipis di bawah jendela, seorang santri kelas delapan bernama Faisal juga masih terjaga. Berbeda dengan Farhan yang menangis dalam ketakutan, mata Faisal berkilat-kilat memancarkan api kemarahan dalam kegelapan.
+Kedua bahu Farhan yang tipis berguncang-guncang hebat di dalam kegelapan malam.
 
-Tangan Faisal meraba kepalanya sendiri yang kini licin tanpa sehelai rambut pun. Kemarin sore, ia baru saja dijatuhi sanksi cukur gundul paksa di depan tiang bendera karena kedapatan terlambat masuk masjid saat sholat Ashar.
+Anak dua belas tahun itu berusaha sekuat tenaga menahan gelombang isak tangis yang meledak-ledak di dalam dadanya dengan cara menggigit ujung kain sarung kumalnya yang lembap.
 
-Bagi Faisal yang baru menginjak usia empat belas tahun—fase di mana harga diri dan citra diri (*self-esteem*) remaja sedang mekar—perlakuan tersebut adalah sebuah penghinaan yang mencabik-cabik martabatnya sebagai manusia. Ratusan pasang mata adik kelas dan teman sebayanya yang menonton saat rambutnya dipangkas kasar terpatri abadi di dalam memorinya sebagai luka batin yang menganga.
+Suara nafasnya terdengar tersengal-sengal pendek, terputus-putus melalui hidungnya yang tersumbat oleh percampuran antara air mata, debu lantai, dan lendir.
 
-"Biar saja mereka mempermalukanku hari ini," bisik Faisal dalam hati dengan rahang yang mengeras dan kepalan tangan yang memutih. "Tunggu saja nanti kalau aku sudah jadi pengurus kelas dua belas! Aku akan buat anak-anak baru merasakan apa yang kurasakan sekarang!"
+Dari kedua sudut matanya yang sembab, bengkak, dan memerah, butiran-butiran air mata hangat terus mengalir deras tanpa henti laksana anak sungai yang meluap.
 
-Inilah lingkaran setan kekerasan yang telah lama menjangkiti ekosistem pengasuhan tradisional: **mata rantai transmisi trauma antargenerasi (*Intergenerational Trauma Transmission*)**. Anak yang disakiti dan dipermalukan tidak belajar tentang empati; mereka hanya belajar bahwa dalam hukum rimba asrama, kekuasaan memberikan hak untuk menindas yang lemah.
+Air mata itu membasahi pipinya yang tirus, mengalir melewati dagunya, dan menetes jatuh satu per satu ke atas permukaan kain sarung hijau bermotif kotak-kotak yang ia kenakan.
 
-Secara neurobiologis, apa yang dialami oleh Farhan dan Faisal adalah manifestasi nyata dari **Aktivasi Kronis Sumbu HPA (Hypothalamic-Pituitary-Adrenal Axis)**. Ketika lingkungan tempat seorang anak hidup terus-menerus memicu rasa takut dan ancaman rasa malu, otak mereka akan terbiasa dibanjiri oleh hormon stres kortisol dan adrenalin.
+Di telapak tangan kirinya yang mungil, masih terasa denyutan rasa perih, panas, dan ngilu yang menusuk-nusuk tulang.
 
-Kondisi stres toksik (*Toxic Stress*) ini merusak struktur mikroskopis pada area *Hipokampus*—bagian otak yang bertanggung jawab atas pembentukan memori jangka panjang dan retensi hafalan ayat-ayat Al-Qur'an. Pada saat yang sama, konektivitas saraf menuju *Prefrontal Cortex* terhambat secara signifikan, melumpuhkan kemampuan anak untuk melakukan penalaran moral, regulasi emosi, dan metakognisi.
+Itu adalah bekas sabetan rotan kuning Ustadz Salman tadi siang saat Farhan terlambat dua menit masuk ke dalam barisan apel asrama karena harus mengantre di kamar mandi yang airnya habis.
 
-Anak-anak santri di kamar itu tampak tertidur, namun secara biologis tubuh mereka berada dalam kondisi siaga darurat (*Hyperarousal*). Detak jantung mereka lebih cepat, otot-otot mereka tegang, dan fase tidur gelombang lambat (*Slow-Wave Sleep*) yang seharusnya merevitalisasi sel-sel tubuh mereka terganggu secara fatal.
+Sebuah garis merah kebiruan selebar satu jari melintang nyata di kulit telapak tangannya yang tipis dan halus.
 
-Di ranjang sebelah Farhan, Ihsan—teman sebantal Farhan—mengigau dalam tidurnya. Kakinya menendang kasur dengan kencang seraya berteriak lirih: *"Jangan pukul, Ustadz! Jangan pukul!"*
+Setiap kali Farhan mencoba membuka atau menekuk jemari tangan kirinya, rasa nyeri menyengat seketika menjalar hingga ke pergelangan tangannya.
 
-Farhan menoleh menatap Ihsan yang berkeringat dingin dalam tidurnya. Farhan mengulurkan tangannya yang kecil, menyentuh lengan Ihsan dengan lembut untuk menenangkannya.
+Namun bukan rasa sakit fisik di telapak tangan kirinya itu yang membuat rongga dada Farhan terasa sesak, sakit, dan terhimpit laksana tertindih bongkahan batu besar; melainkan rasa rindu yang teramat dahsyat kepada ibunya—Ibu Fatimah—dan rasa keterasingan batin yang mencekik di tempat yang terasa sangat asing, dingin, dan menakutkan ini.
 
-"Tidak apa-apa, Ihsan... Ustadznya tidak ada di sini..." bisik Farhan menenangkan kawannya.
+Farhan merogoh saku baju koko lusuhnya yang kancing atasnya telah lepas dengan jemari tangan kanan yang gemetar hebat.
 
-Ihsan perlahan kembali tenang, nafasnya yang tersengal-sengal mulai mereda. Farhan menarik tangannya kembali dan memandang ke luar jendela kamar. Di langit malam yang pekat, bintang-bintang tampak terhalang oleh kabut tebal yang tak kunjung beranjak.
+Dengan gerakan yang sangat hati-hati dan penuh ketakutan seolah sedang memegang benda paling rapuh di dunia, Farhan mengeluarkan selembar foto berukuran dompet dari balik sakunya.
 
-Jeritan batin di sudut kamar asrama itu tidak terdengar oleh telinga manusia di luar gedung, namun jeritan itu menggema menembus langit arsy. Itu adalah jeritan jiwa-jiwa fitrah yang mendambakan pelukan kasih sayang, merindukan rasa aman, dan menuntut hakikat pendidikan yang memanusiakan manusia.
+Ujung-ujung kertas foto tersebut telah mulai terlipat kusut, memutih, dan sedikit koyak di bagian sudutnya karena terlalu sering digenggam, dicium, dan dibasahi oleh air mata Farhan setiap malam.
 
-Farhan memejamkan matanya perlahan sembari mendekap erat foto ibunya di dada. Di dalam heningnya malam yang dingin, anak itu melantunkan doa tulus dari dasar kalbunya: *"Ya Allah... kirimkanlah malaikat pelindung untuk kami di pondok ini..."*
+Di dalam keremangan cahaya lampu minyak tanah yang menyusup dari ventilasi, foto hitam putih itu memperlihatkan sosok seorang wanita bersahaja berusia tiga puluh lima tahun mengenakan jilbab biru tua sederhana yang terbuat dari kain paris murah.
 
-Doa lirih dari sudut kamar asrama yang remang itu melayang menuju keabadian, menjadi awal dari keajaiban fajar baru yang akan segera mengubah takdir Pesantren Darul Adab selamanya.
+Wanita itu sedang tersenyum teduh dan tulus sembari merangkul pundak Farhan kecil di depan teras rumah panggung kayu mereka di sebuah desa pedalaman Jawa Timur.
+
+Di samping wanita itu, berdiri sang ayah—Pak Rahmat—mengenakan kemeja batik usang sembari tersenyum bangga meletakkan tangan kekarnya di atas pundak anak laki-laki semata wayangnya tersebut.
+
+Farhan mendekatkan foto kecil itu ke depan bibirnya yang bergetar menahan dingin dan tangis.
+
+Farhan mencium lembut bayangan wajah Ibu Fatimah di atas kertas foto tersebut berulang-ulang kali di dalam kegelapan malam yang sunyi.
+
+"Ibu..." bisik Farhan dengan suara yang tercekik oleh kepedihan yang meluap di tenggorokannya, air matanya menetes tepat di atas gambar wajah ibunya.
+
+"Farhan tidak kuat di sini, Bu...
+
+Farhan takut sekali..." rintih Farhan dalam bisikan lirih yang nyaris tanpa suara agar tidak terdengar oleh kawan-kawan sekamarnya.
+
+"Di sini orang-orang marah terus, Bu...
+
+Setiap hari kami dibentak...
+
+Setiap hari ada yang dipukul rotan...
+
+Tidak ada yang menyapa Farhan dengan senyuman seperti Ibu menyapa Farhan di rumah..."
+
+Farhan teringat kembali kenangan manis sekaligus memilukan sebulan yang lalu saat mobil travel tua sewaan desa mengantarkan ia dan kedua orang tuanya ke depan gerbang megah Pesantren Darul Adab.
+
+Saat itu, di depan gerbang kayu jati bercat hijau tersebut, Ibu Fatimah memeluk tubuh Farhan erat-erat sembari meneteskan air mata haru dan membisikkan kata-kata penuh harapan suci di telinganya:
+
+*"Farhan anak lanang kebanggaan Ibu dan Bapak...
+
+Belajarlah dengan sungguh-sungguh ya, Le.
+
+Jadilah orang alim yang shalih, berakhlak mulia, dan hafizh Qur'an.
+
+Pondok pesantren ini adalah taman surga tempatmu menuntut ilmu peninggalan Baginda Rasulullah SAW..."*
+
+Farhan memejamkan kedua matanya rapat-rapat, membiarkan air matanya membanjiri pipinya hingga membasahi kerah bajunya.
+
+"Taman surga apa yang seperti ini, ya Allah?" rintih batin Farhan dalam kepedihan anak berusia dua belas tahun yang polos dan hancur harapannya.
+
+"Mengapa taman surga dipenuhi suara gedoran pintu seng yang memekakkan telinga?
+
+Mengapa tempat menuntut ilmu warisan Nabi Muhammad dipenuhi oleh lecutan rotan dan tatapan mata para ustadz yang penuh kebencian?"
+
+Di ranjang susun tingkat bawah di seberang Farhan, santri lain bernama Danang tampak tidur tidak tenang di atas kasur busa tipisnya.
+
+Tubuh Danang yang kecil menggeliat gelisah ke kiri dan ke kanan, nafasnya memburu pendek-pendek, dan sesekali anak yatim yang pendiam itu mengigau memanggil nama ibunya sembari meremas bantal gulingnya yang telah basah kuyup oleh air mata.
+
+Danang mengalami demam ringan sejak sore tadi, namun anak itu terlalu takut untuk melapor ke pos jaga pengasuhan karena takut dimarahi atau dianggap berpura-pura sakit untuk menghindari kegiatan malam.
+
+Hampir separuh dari dua puluh anak penghuni Kamar Al-Farabi malam itu tidur dalam keadaan jiwa yang terluka, cemas, dan mengalami trauma psikologis yang mendalam (*Childhood Psychological Trauma & Institutional Stress*).
+
+Mereka adalah anak-anak belia berusia dua belas tahun yang baru saja terlepas dari pelukan hangat dan rasa aman keluarga di rumah.
+
+Mereka dipaksa beradaptasi secara instan dengan ritme kehidupan komunal 24 jam yang sangat padat dan menuntut, namun alih-alih disambut dengan bimbingan empati seorang ayah pengganti (*In Loco Parentis*), mereka justru disambut oleh sistem pengasuhan yang dingin, militeristik, kaku, dan serba menghukum.
+
+Secara psikologi perkembangan anak (*Child Developmental Psychology*), kondisi yang dialami Farhan dan anak-anak asrama tersebut adalah bentuk nyata dari **Keterasingan Kelembagaan Akut (*Acute Institutional Alienation*)**.
+
+Anak merasa kehilangan figur lekat (*Attachment Figure*) yang selama ini menjadi jangkar rasa aman emosionalnya.
+
+Ketika kebutuhan dasar manusia paling fundamental—yaitu rasa aman (*Psychological Safety*) dan rasa diterima (*Belongingness*)—tidak terpenuhi di lingkungan baru, sirkuit saraf amigdala anak akan terkunci dalam status siaga bahaya kronis (*Chronic Hyperarousal State*).
+
+Kondisi stres berkepanjangan ini memicu depresi masa kanak-kanak (*Childhood Depression*), gangguan tidur (*Insomnia & Night Terrors*), penurunan daya tahan tubuh, dan sikap apatis serta kebencian terselubung terhadap pelajaran agama.
+
+Farhan menarik kain selimut kumalnya perlahan hingga menutupi seluruh kepala dan tubuhnya, menciptakan sebuah ruang persembunyian kecil di dalam kegelapan di balik kain selimut yang pengap dan berbau debu itu.
+
+Di dalam ruang persembunyian kecil itu, Farhan mendekap foto kedua orang tuanya erat-erat di atas dadanya yang kurus.
+
+Farhan mendengarkan detak jantungnya sendiri yang berdegup sunyi dan bergetar di dalam rongga dadanya.
+
+Farhan memanjatkan doa paling tulus, paling polos, dan paling mengharukan yang mampu diucapkan oleh seorang anak kecil yang sedang terluka batinnya di tengah kesunyian malam:
+
+*"Ya Allah...
+
+Tuhan Yang Maha Pengasih lagi Maha Penyayang...
+
+Tuhan yang menjaga anak-anak yatim dan fakir miskin...
+
+Jika memang hamba tidak pantas berada di sini, pulangkanlah hamba ke pelukan Ibu di rumah...
+
+Farhan rela makan nasi putih dengan garam di desa asalkan bisa bersama Ibu dan Bapak lagi..."*
+
+Farhan menarik nafasnya yang tersengal, lalu melanjutkan doanya:
+
+*"Tapi jika Engkau menakdirkan Farhan harus tetap belajar di sini, ya Allah...
+
+Tolong lembutkanlah hati para ustadz di pondok ini...
+
+Tolong jangan biarkan mereka memukul kawan-kawan Farhan lagi...
+
+Jadikanlah pondok ini benar-benar taman surga yang penuh cinta seperti yang diceritakan Ibu..."*
+
+Malam semakin larut di lereng perbukitan kapur Pesantren Darul Adab.
+
+Kabut tebal semakin pekat turun menyelimuti atap-atap asrama dan kubah masjid yang sunyi.
+
+Angin dingin pegunungan terus mendesau di luar kisi-kisi jendela kayu kamar, menjadi saksi bisu atas ribuan butir air mata suci dan jeritan-jeritan hening yang tertumpah di bawah bantal-bantal lusuh anak-anak penuntut ilmu yang sedang menanti fajar baru keadilan dan kasih sayang peradaban Islam.

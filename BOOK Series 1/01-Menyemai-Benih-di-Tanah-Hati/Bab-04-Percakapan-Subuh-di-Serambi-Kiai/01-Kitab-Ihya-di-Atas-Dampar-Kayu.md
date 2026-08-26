@@ -1,45 +1,107 @@
 # Sub-Bab 4.1: Kitab Ihya' di Atas Dampar Kayu
 
-Gema wirid ba'da Subuh baru saja mereda di ruang utama masjid Pesantren Darul Adab. Semburat fajar shadiq perlahan menggores langit timur dengan warna jingga keemasan, mengusir sisa-sisa kabut dingin yang menyelimuti dedaunan pohon sawo kecik di halaman ndalem.
+Pukul 05.30 pagi di serambi ndalem kediaman Kyai Hasyim.
 
-Ustadz Salman melangkah berdampingan dengan Ustadz Ridwan menyusuri jalan setapak berbatu kali menuju kediaman Kyai Hasyim. Udara pagi terasa sangat segar dan menyejukkan dada. Hati Salman berdegup pelan; ada rasa segan dan cemas yang bercampur dengan rasa penasaran yang membuncah.
+Sinar mentari fajar yang hangat dan lembut perlahan merambat naik menyinari pepohonan sawo kecik di halaman ndalem.
 
-Serambi ndalem Kyai Hasyim adalah sebuah bangunan terbuka berarsitektur joglo Jawa klasik dengan tiang-tiang kayu jati gelondongan yang kokoh. Lantainya dilapisi ubin terakota merah yang selalu bersih dan mengkilap. Di sudut serambi, gemercik air mancur kolam ikan koi menghadirkan irama alam yang menentramkan pikiran.
+Berkas-berkas cahaya keemasan menembus celah-celah ukiran kayu gebyok jati khas Jawa Tengah yang antik.
 
-Di tengah serambi, Kyai Hasyim telah duduk bersila di atas karpet beludru hijau tua. Di hadapan beliau, terbentang sebuah dampar—meja baca kayu pendek berukir sulur daun khas Jepara. Di atas dampar tersebut, tergeletak sebuah kitab klasik berukuran besar dengan sampul kulit berwarna cokelat tua bertuliskan kaligrafi emas: ***Ihya' 'Ulumiddin* karya Hujjatul Islam Imam Al-Ghazali**.
+Cahaya fajar itu membiaskan siluet-siluet indah di atas lantai ubin terakota kuno yang dingin, bersih, dan mengkilap.
 
-Di samping dampar, sebuah teko tanah liat mengepulkan uap harum aroma wedang jahe rempah yang dicampur gula aren dan cengkeh.
+Aroma wangi minyak gaharu murni berpadu dengan keharuman seduhan kopi Arabika kapulaga hangat.
 
-"Assalamu'alaikum, Kyai..." ucap Salman dan Ridwan serentak sembari membungkukkan badan dan mencium punggung tangan sang kiai dengan takzim.
+Keharuman tersebut menyerbak memenuhi seluruh ruangan serambi yang hening dan asri.
 
-"Wa'alaikumussalam warahmatullah wabarakatuh. Mari, duduklah di sini, Salman, Ridwan," sambut Kyai Hasyim dengan senyum ramah yang selalu menghangatkan hati siapa pun yang memandangnya.
+Suara gemericik air mancur kolam ikan koi di sudut taman berpadu harmonis dengan kicauan merdu burung-burung perkutut di sangkar gantung bambu.
 
-Kiai menuangkan wedang jahe panas ke dalam dua cangkir tembikar dan menyodorkannya ke hadapan kedua tamunya.
+Suasana serambi ndalem menghadirkan atmosfer ketenangan spiritual yang begitu mendalam (*Deep Sakinah Atmosphere*).
 
-"Minumlah wedang jahe ini selagi hangat, agar dinginnya malam asrama yang membekukan persendianmu mencair," dawuh Kiai penuh perhatian.
+Di atas sebuah dampar kayu jati pendek berukir sulur dedaunan teratai, sebuah kitab kuning klasik berukuran tebal bersampul kulit merah marun terbentang terbuka dengan anggun.
 
-Salman meraih cangkir tembikar itu, merasakan hangatnya menjalar ke telapak tangannya. Kehangatan sikap sang kiai seketika mengikis rasa tegang yang sempat bersarang di dadanya.
+Itu adalah kitab babon tasawuf dan pendidikan Islam: **Juz Ketiga Kitab Ihya' 'Ulūmiddīn karya Hujjatul Islam Imam Abu Hamid Al-Ghazali rahimahullah**.
 
-Kyai Hasyim membuka halaman kitab *Ihya'* dengan sangat hati-hati, membalik lembaran kertas kuning bertinta hitam pekat yang penuh dengan catatan pinggir (*hasyiyah*). Jari telunjuk beliau yang halus menunjuk ke sebuah bab penting: **Bab *Riyadhatus Shibyan* (Pendidikan dan Pelatihan Karakter Anak-Anak)**.
+Halaman kitab tersebut menampilkan tulisan khat naskhi klasik dengan syarah dan catatan pinggir (*Hasyiyah*) bertinta hitam dan merah.
 
-"Salman, anakku," Kiai memulai pembicaraan dengan suara yang begitu lembut merasuk kalbu. "Semalam aku melihatmu duduk bersimbah air mata di ruang pengasuhan. Ketahuilah, air matamu itu bukanlah tanda kelemahan, melainkan tanda bahwa hatimu masih hidup dan fitrahmu sedang memberontak terhadap cara-cara yang salah."
+Kyai Hasyim duduk bersila dengan sangat tenang di hadapan dampar kayu tersebut.
 
-Salman menundukkan kepalanya, matanya mulai berkaca-kaca kembali mendengar pengakuan sang kiai.
+Kyai Hasyim mengenakan jubah katun putih bersih bertahtakan sorban hijau zamrud yang tersampir anggun di pundak kanannya.
 
-Kyai Hasyim menepuk permukaan kitab *Ihya'* di hadapannya. "Selama puluhan tahun, banyak lembaga pendidikan kita mengklaim diri berpegang teguh pada kitab kuning warisan para ulama salaf. Namun sayangnya, kita sering kali hanya membaca bab-bab hukum fiqih lahiriah, sementara bab-bab tentang adab, psikologi jiwa, dan kelembutan pengasuhan justru kita abaikan dan kita gantikan dengan budaya kekerasan militeristik."
+Janggut putih sang Kiai yang terawat rapi memancarkan wibawa kemuliaan seorang ulama arif billah pewaris para nabi.
 
-Kiai memandang Salman dan Ridwan secara bergantian. "Imam Al-Ghazali menulis kitab ini sembilan abad yang lalu, Salman. Beliau membedah hakikat jiwa anak dengan ketajaman makrifat yang luar biasa, melampaui teori-teori psikologi modern mana pun di zamannya."
+Di hadapan Kiai, dengan jarak dua meter di atas karpet permadani hijau, Ustadz Salman duduk bersimpuh dengan kepala tertunduk dalam-dalam.
 
-Kiai membaca bait pembuka kitab tersebut dengan suara bergetar penuh penghayatan:
+Kedua lutut Salman menempel rapat di lantai permadani.
 
-$$\text{الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ}$$
+Kedua telapak tangannya diletakkan di atas paha dengan posisi duduk *Tawarruk* penuh rasa tawadhu dan takzim.
 
-> *"Anak kecil itu adalah amanah suci di tangan kedua orang tuanya (dan para pendidiknya). Kalbunya yang suci adalah mutiara permata yang sangat berharga, murni, bersih dari segala ukiran dan lukisan."*
+Jantung pemuda berusia dua puluh empat tahun itu berdegup kencang menanti wejangan dan evaluasi dari sang pengasuh tertinggi pesantren.
 
-Salman mendengarkan bait itu dengan nafas tertahan. Kata-kata Imam Al-Ghazali terasa seperti cahaya fajar yang menyinari sudut-sudut gelap di dalam pikirannya.
+Salman tidak membawa rotan kuningnya.
 
-"Mutiara murni, Salman," ulang Kyai Hasyim dengan nada yang dalam. "Imam Al-Ghazali tidak menyebut anak santri sebagai tanah liat kotor yang harus diinjak-injak agar padat, tidak pula menyebut mereka sebagai kayu bengkok yang harus dihantam dengan palu besi agar lurus. Beliau menyebut mereka sebagai **Jauharah Nafisah (Mutiara yang Sangat Berharga)**."
+Rotan itu telah ia tinggalkan di sudut pos jaga asrama, sesuai bisikan Ustadz Ridwan semalam.
 
-Kiai menatap lurus ke dalam mata Salman. "Lalu bagaimana mungkin seorang pendidik yang mengaku mewarisi ilmu para nabi justru memperlakukan mutiara permata itu dengan bentakan kasar dan sabetan rotan kuning?"
+Kyai Hasyim membetulkan letak kacamata bacanya yang berbingkai emas tipis.
 
-Pertanyaan itu membuat dada Salman bergetar hebat. Di atas serambi ndalem yang tenang, di hadapan kitab kuning yang terbuka di atas dampar kayu, pondasi pemikiran Salman tentang pendidikan anak mulai runtuh dan bersiap untuk dibangun kembali di atas dasar kebenaran yang hakiki.
+Dengan jari telunjuknya yang bersih, Kiai menyusuri baris-baris teks Arab gundul berharakat di atas lembaran kitab Ihya' di hadapannya.
+
+Kyai Hasyim melafalkan beberapa bait kalimat mutiara Imam Al-Ghazali dengan suara bas yang pelan, tartil, dan sangat syahdu:
+
+$$\text{الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ عَلَيْهِ، وَمَائِلٌ إِلَى كُلِّ مَا يُمَالُ بِهِ إِلَيْهِ}$$
+
+> *"Ketahuilah bahwa anak kecil itu adalah amanah suci yang diletakkan di sisi kedua orang tuanya (dan para pendidiknya). Hatinya yang suci dan murni adalah mutiara permata yang sangat berharga, polos, bersih dari segala bentuk ukiran dan gambar rupa. Dan ia siap menerima segala bentuk ukiran yang digoreskan di atasnya, serta condong kepada apa saja yang dibiasakan kepadanya..."*
+
+Kyai Hasyim menghentikan bacaannya secara perlahan.
+
+Kiai melepas kacamata bacanya, meletakkannya di samping dampar kayu jati.
+
+Kiai mengangkat pandangan matanya yang teduh dan menatap lurus ke arah wajah Salman yang menunduk.
+
+"Salman, muridku..." dawuh Kyai Hasyim dengan nada suara yang begitu lembut, sejuk, namun berbobot laksana gunung karang yang kokoh.
+
+"Sudahkah kamu membaca, menelaah, dan merenungi kalam Hujjatul Islam Imam Al-Ghazali ini saat kamu bertugas mengasuh anak-anak di asrama putra?"
+
+Salman menelan ludahnya pelan.
+
+Tenggorokannya terasa tercekat dan suaranya bergetar menahan malu dan rasa bersalah yang mendalam.
+
+"Sa-sampun, Kiai...
+
+Hamba pernah mempelajarinya saat mengaji kitab Ihya' bersama Kiai dahulu..." jawab Salman dengan suara lirih.
+
+"Namun hamba mengaku khilaf...
+
+Hamba sering kali lalai dan dikuasai oleh hawa nafsu amarah serta ketidaksabaran saat menghadapi kekurangan anak-anak asuh hamba di asrama..."
+
+Kyai Hasyim tersenyum sangat teduh.
+
+Senyuman sang guru besar seketika mengalirkan rasa damai yang melunturkan ketakutan dan kecemasan di dalam dada Salman.
+
+Kyai Hasyim mengelus permukaan lembaran kitab Ihya' 'Ulūmiddīn di hadapannya dengan penuh kasih sayang:
+
+"Salman...
+
+Anak-anak belia kelas tujuh yang menangis di asramamu itu adalah permata suci titipan Allah SWT."
+
+"Kertas putih hati mereka masih sangat polos dan bening."
+
+"Ketika kamu mendidik mereka dengan gedoran pintu seng, bentakan kasar, dan sabetan rotan kuning, sesungguhnya kamu sedang menggoreskan ukiran hitam berupa luka trauma psikologis yang akan membekas seumur hidup di dalam jiwa mereka."
+
+Kiai memandang Salman dengan tatapan yang menyentuh lubuk sanubari:
+
+"Jika kamu mengukir hati anak dengan kekerasan, kelak mereka akan tumbuh menjadi pohon yang beracun."
+
+"Mereka akan menindas orang yang lebih lemah dan menjilat orang yang lebih kuat."
+
+"Namun jika kamu mengukir hati mereka dengan keteladanan akhlak, kelembutan, dan ketegasan yang berkeadilan, kelak mereka akan tumbuh menjadi ksatria peradaban yang berhati emas dan berakhlak mulia."
+
+Setitik air mata keharuan menetes dari pelupuk mata Salman, jatuh membasahi karpet permadani di hadapan sang Kiai.
+
+Di serambi ndalem yang asri, di hadapan kitab Ihya' dan keteduhan sang guru besar, Ustadz Salman menyadari betapa sucinya amanah tarbiyah.
+
+Salman menyadari betapa kelirunya jalan kekerasan yang selama ini ia tempuh dalam mengasuh anak-anak di pondok pesantren.
+
+Salman menundukkan kepalanya semakin dalam, merenungi setiap kata yang terucap dari lisan sang mahaguru.
+
+Pagi itu, serambi ndalem menjadi gerbang terbukanya kesadaran baru bagi sang musyrif muda.
+
+Salman bersimpuh dengan penuh keikhlasan, bersiap menerima petunjuk dan bimbingan baru dari sang guru demi menyelamatkan fitrah anak-anak asuhnya.

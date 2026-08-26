@@ -1,21 +1,25 @@
 # Sub-Bab 12.1: Sepuluh Cahaya di Langit Malam
 
-Malam hari di atas bukit pesantren, langit malam tampak sangat jernih dan bertaburan ribuan bintang yang berkilauan indah.
+Malam hari di atap gedung asrama putra Pesantren Darul Adab. Taburan ribuan bintang berkilauan di langit malam yang bersih tanpa awan.
 
-Kyai Hasyim, Ustadz Salman, Zaid, dan Farhan duduk bersama di bangku batu di bawah naungan pohon beringin tua, menatap ke arah langit malam yang memukau.
+Farhan berdiri berdampingan bersama Faisal, Danang, dan Zaid, menatap luasnya hamparan bintang di angkasa raya.
 
-"Lihatlah sepuluh gugusan bintang paling terang di atas sana, anak-anakku," dawuh Kyai Hasyim seraya menunjuk ke arah rasi bintang di langit utara.
+Di dalam dada mereka masing-masing, sepuluh bintang karakter Nabawi kini telah terpatri kokoh laksana konstelasi cahaya yang abadi:
+1. *Salīmul 'Aqīdah* (Tauhid yang Lurus dan Murni)
+2. *Shaḥīḥul 'Ibādah* (Ibadah yang Sahih Sesuai Sunnah)
+3. *Matīnul Khuluq* (Akhlak yang Kokoh Berintegritas)
+4. *Qawiyyul Jism* (Fisik yang Kuat dan Bugar)
+5. *Mutsaqqoful Fikr* (Wawasan Intelektual yang Luas)
+6. *Qādirun 'alal Kasbi* (Mandiri dan Terampil Berkarya)
+7. *Mujāhidun li Nafsihi* (Penakluk Hawa Nafsu Sendiri)
+8. *Munazhzhamun fī Syu'ūnihi* (Tertib dalam Segala Urusan)
+9. *Ḥarītsun 'alā Waqtihi* (Penjaga Waktu yang Sangat Teliti)
+10. *Nāfi'un li Ghairihi* (Bermanfaat Sebesar-besarnya bagi Sesama)
 
-"Sepuluh gugusan bintang itu adalah tamsil dari **Sepuluh Muwashafat Karakter** yang telah kita semai bersama di tanah hati para santri:
-1. *Salimul Aqidah* (Tauhid yang lurus).
-2. *Shahihul Ibadah* (Ibadah yang sah dan khusyuk).
-3. *Matinul Khuluq* (Akhlak yang mulia dan kokoh).
-4. *Qawiyyul Jism* (Raga yang bugar dan tangguh).
-5. *Mutsaqqoful Fikr* (Wawasan ilmu yang luas).
-6. *Qadirun 'alal Kasbi* (Kemandirian hidup yang terampil).
-7. *Mujahidun li Nafsihi* (Disiplin batin menaklukkan nafsu).
-8. *Munazhzhamun fi Syu'unihi* (Keteraturan dan kerapian 5S).
-9. *Haritsun 'ala Waqtihi* (Disiplin menghargai waktu).
-10. *Nafi'un Lighairihi* (Menjadi lentera manfaat bagi sesama)."
+Zaid menepuk pundak Farhan sembari tersenyum hangat:
 
-Salman memandang Farhan dan Zaid yang sedang tersenyum damai. Sepuluh karakter itu kini bukan lagi deretan teks hafalan di atas kertas, melainkan darah dan daging yang mengalir di setiap denyut nadi para santri Pesantren Darul Adab.
+"Farhan... Sepuluh bintang ini bukanlah beban hafalan teori, melainkan kompas hidup yang akan menuntun setiap ayunan langkah kakimu di tengah badai kehidupan dunia kelak."
+
+Farhan tersenyum penuh keyakinan dan menatap bintang paling terang di ufuk timur.
+
+Konstelasi sepuluh karakter ini menyatu membentuk sosok kepribadian muslim yang holistik, tangguh, berilmu luas, dan berhati mulia.

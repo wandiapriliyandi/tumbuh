@@ -1,20 +1,15 @@
 # Sub-Bab 11.1: Dari Terpaksa Menjadi Bisa
 
-Di aula pertemuan santri, Kyai Hasyim memaparkan peta progresi kematangan karakter: **Empat Tangga Kematangan Karakter Santri (*The 4-Stage Character Maturation Ladder*)**.
+Di gazebo pembinaan karakter asrama putra Pesantren Darul Adab, Ustadz Salman sedang memaparkan bagan empat anak tangga pembiasaan karakter kepada Farhan dan para santri baru: **Matriks Progresi Pembentukan Karakter Nabawi (*The 4-Stage Habit Formation Ladder*)**.
 
-```mermaid
-graph TD
-    L1["LEVEL 1: TAHAP ADAPTASI (KOPLIT / TERPAKSA)<br/>• Butuh bimbingan intensif & pengawasan penuh.<br/>• Melakukan adab karena aturan eksternal."]
-    L2["LEVEL 2: TAHAP PEMBIASAAN (BISA / RUTIN)<br/>• Mulai memahami pola & menjalankan rutinitas.<br/>• Butuh pengingat minimal dari musyrif."]
-    L3["LEVEL 3: TAHAP KESADARAN (TERBIASA / MANDIRI)<br/>• Melakukan adab atas dorongan kesadaran diri intrinsik.<br/>• Menjadi teladan mandiri di kamar."]
-    L4["LEVEL 4: TAHAP KEPEMIMPINAN (QUDWAH / PENGGERAK)<br/>• Menjadi inspirator & pembimbing bagi adik kelas.<br/>• Memimpin gerakan kebaikan dan khidmah umat."]
+Salman menjelaskan empat tahapan transformasi perilaku manusia:
+1. **Tahap 1 - Terpaksa (*Compliance under Structure*)**: Santri bangun fajar atau menata sandal karena mengikuti aturan sistem dan arahan musyrif.
+2. **Tahap 2 - Bisa (*Skill Competence*)**: Santri telah menguasai teknik melipat sprei hospital corner 45 derajat dan teknik membaca tajwid secara mandiri tanpa perlu dibantu.
+3. **Tahap 3 - Terbiasa (*Automatic Routine*)**: Perilaku adab telah menjadi kebiasaan otomatis harian yang dilakukan secara refleks tanpa merasa terbebani.
+4. **Tahap 4 - Karakter & Budaya (*Internalized Identity*)**: Adab telah mendarah daging menjadi identitas jiwa, di mana santri merasa resah jika melihat sandal yang berantakan dan secara sukarela merapikannya demi mengharap ridha Allah.
 
-    L1 --> L2 --> L3 --> L4
-```
+Farhan mengamati tahapan perjalanan dirinya sendiri:
 
-Kyai Hasyim menjelaskan bahwa setiap santri memulai perjalanannya dari Level 1:
-* Di awal masuk, santri seperti Farhan mungkin merasa terpaksa bangun pagi atau merapikan ranjang karena adanya aturan.
-* Namun melalui pembiasaan yang penuh kasih (*Nurturing Habituation*), dorongan itu bergeser menjadi Level 2 (Bisa) dan Level 3 (Mandiri).
-* Hingga akhirnya di puncak kematangannya, santri mencapai Level 4: menjadi sosok **Qudwah Hasanah** yang menggerakkan kebaikan di sekelilingnya tanpa pamrih.
+Dulu di pekan pertama, ia bangun fajar dengan rasa terpaksa dan kantuk berat. Namun kini, setelah berbulan-bulan berproses, tubuhnya secara otomatis bangun dengan segar saat mendengar ketukan lembut musyrif.
 
-Farhan melihat grafis tangga tersebut dan menyadari perjalanan dirinya: setahun lalu ia berada di Level 1 yang rapuh, dan kini ia telah melangkah mantap di Level 2 menuju Level 3, siap meniti tangga kematangan karakter hingga tuntas.
+Proses pembentukan karakter membutuhkan kesabaran, pendampingan yang konsisten (*Consistent Scaffolding*), dan lingkungan yang kondusif agar benih-benih kebaikan dapat tumbuh subur secara bertahap menuju kematangan fitrah.

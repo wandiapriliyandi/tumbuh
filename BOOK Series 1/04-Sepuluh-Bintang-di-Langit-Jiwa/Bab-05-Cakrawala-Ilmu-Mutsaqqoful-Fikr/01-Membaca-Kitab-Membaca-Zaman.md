@@ -1,16 +1,25 @@
-# Sub-Bab 5.1: Membaca Kitab, Membaca Zaman
+# Sub-Bab 5.1: Membaca Kitab Membaca Zaman
 
-Di perpustakaan pesantren pada jam muthala'ah sore, Zaid dan para santri senior kelas sebelas dan dua belas sedang membedah kitab *Bidayatul Mujtahid* karya Ibnu Rusyd berdampingan dengan jurnal-jurnal ilmiah kontemporer tentang etika kecerdasan buatan (*Artificial Intelligence Ethics*) dan ekonomi hijau.
+Pukul 19.45 malam di perpustakaan berlantai kayu jati Pesantren Darul Adab. Aroma kertas buku klasik berpadu dengan dinginnya pendingin ruangan yang sejuk.
 
-Kyai Hasyim duduk membimbing mereka mempelajari bintang kelima: **Mutsaqqoful Fikr (Wawasan Intelektual yang Luas dan Mendalam)**.
+Di atas meja baca panjang, Farhan sedang membuka dua buah buku secara berdampingan: di sisi kanan terbentang kitab fiqih klasik *Fathul Qaribil Mujib*, dan di sisi kiri terbuka buku sains kontemporer *Astronomi & Fisika Modern*.
 
-"Santri peradaban," dawuh Kyai Hasyim dengan tatapan mata yang tajam dan visioner, "tidak boleh menjadi katak dalam tempurung yang hanya hafal matan teks tanpa memahami realitas dunia di sekitarnya."
+Ustadz Burhan melangkah mendekati meja Farhan, lalu duduk di kursi seberang sembari tersenyum ramah.
 
-Kiai menekankan rumus emas kesarjanaan Islam: **Mengakar di Turats Salaf, Menjulang Menjawab Tantangan Zaman (*Al-Ashalah wal Mu'asharah*)**.
+"Farhan, kamu sedang membedah apa malam ini?" tanya Burhan.
 
-Santri dilatih untuk:
-1. Menguasai metodologi *Ushul Fiqh* dan kaidah *Maqashid Syari'ah* secara mendalam.
-2. Menguasai bahasa internasional (Arab dan Inggris) secara aktif.
-3. Memahami perkembangan sains, teknologi digital, dan dinamika geopolitik global.
+Farhan mendongak sembari menunjukkan kedua buku tersebut:
 
-Zaid mencatat setiap kaidah ushul fiqih seraya menganalisis penerapannya pada isu-isu sosial modern. Wawasan yang luas ini membebaskan santri dari fanatisme sempit (*ta'ashshub*), melahirkan generasi ulama intelektual yang bijaksana dan solutif bagi kemaslahatan umat manusia.
+"Ustadz... Farhan sedang membaca bab penentuan arah kiblat dan waktu sholat dalam kitab fiqih, lalu mencocokkannya dengan rumus perhitungan derajat garis bujur bumi dan gerak semu matahari di buku astronomi ini. Ternyata para ulama terdahulu sudah sangat canggih memahami ilmu hisab falak!"
+
+Burhan tersenyum bangga seraya mengusap kepala Farhan:
+
+"Itulah bintang karakter kelima yang sedang kamu bangun, Farhan: **Cakrawala Intelektual yang Luas (*Mutsaqqoful Fikr / Intellectual Breadth & Depth*)**."
+
+Burhan melanjutkan penjelasannya:
+
+"Seorang santri sejati tidak boleh berwawasan sempit. Akalmu harus menguasai teks wahyu (*Turats*), namun matamu juga harus mampu membaca realitas alam semesta dan sains modern (*Kauniyyah*). Ketika keduanya berpadu, kamu akan mampu memberikan solusi peradaban yang relevan bagi umat manusia."
+
+Farhan mencatat hikmah tersebut di buku catatannya.
+
+Wawasan keilmuan yang luas membuka jendela pemikiran santri, menjadikannya pemikir ulung yang berwawasan global namun tetap berakar kuat pada nilai-nilai tradisi Islam.

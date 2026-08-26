@@ -1,22 +1,23 @@
 # Sub-Bab 4.1: Kebugaran Jasmani di Lapangan Futsal
 
-Sore hari pukul 16.00, sinar matahari senja menyinari lapangan futsal rumput sintetis di komplek asrama putra. Sorak-sorai riang dan tepuk tangan santri membahana mengiringi pertandingan persahabatan antar-kamar.
+Pukul 16.15 sore di lapangan futsal beralaskan rumput sintetis hijau Pesantren Darul Adab. Sorak-sorai gembira dan tawa riang ratusan santri memecah udara sore yang sejuk.
 
-Di tengah lapangan, Zaid, Farhan, Faisal, dan Ihsan sedang berlari menggiring bola dengan lincah. Keringat segar membasahi dahi dan kaus olahraga mereka.
+Pertandingan futsal persahabatan antarkamar sedang berlangsung dengan sangat seru.
 
-Ustadz Salman berdiri di pinggir lapangan sebagai wasit yang adil dan ramah.
+Farhan, Faisal, dan kawan-kawannya berlari lincah menggiring bola, melakukan operan pendek yang presisi, dan saling bekerja sama merebut kemenangan dengan sportif.
 
-Salman mengajarkan bintang keempat: **Qawiyyul Jism (Kekuatan dan Kebugaran Jasmani)**.
+Ustadz Salman yang menjadi wasit pertandingan tersenyum memandang ketangkasan fisik anak-anak asuhnya.
 
-Rasulullah SAW bersabda dalam hadits shahih:
+Salman mengajarkan bintang karakter keempat: **Kekuatan Fisik & Kebugaran Jasmani Ksatria (*Qawiyyul Jism / Physical Vitality & Athletic Excellence*)**.
+
+Salman mengutip sabda agung Rasulullah SAW:
 
 $$\text{الْمُؤْمِنُ الْقَوِيُّ خَيْرٌ وَأَحَبُّ إِلَى اللَّهِ مِنَ الْمُؤْمِنِ الضَّعِيفِ، وَفِي كُلٍّ خَيْرٌ}$$
 
-> *"Mukmin yang kuat (secara fisik, mental, dan ruhiyyah) lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, dan pada masing-masingnya terdapat kebaikan."* (HR. Muslim)
+> *"Mukmin yang kuat fisiknya lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, namun pada masing-masing ada kebaikan."* (HR. Muslim)
 
-Salman menjelaskan bahwa raga yang sehat dan bugar adalah **kendaraan suci bagi ruhani penuntut ilmu**. Tanpa fisik yang tangguh:
-* Santri akan mudah mengantuk saat sholat malam dan qiyamul lail.
-* Daya tahan tubuh santri akan mudah tumbang saat cuaca ekstrem.
-* Semangat berkhidmah dan membantu sesama akan lumpuh.
+Di Pesantren Darul Adab, olahraga fisik bukan sekadar sarana rekreasi pelepas lelah, melainkan bagian integral dari kurikulum pembentukan raga yang tangguh agar mampu menopang beban berat perjuangan dakwah dan keilmuan Islam.
 
-Farhan melepaskan tendangan operan bola yang akurat ke arah Faisal yang langsung mencetak gol indah. Anak-anak itu saling berpelukan dan tertawa bahagia. Olahraga di asrama bukan ajang permusuhan, melainkan sarana menguatkan raga dan mempererat ukhuwah para mujahid ilmu.
+Farhan mencetak gol kemenangan dengan tendangan kaki kanan yang akurat, lalu bersujud syukur di atas rumput lapangan bersama seluruh anggota timnya.
+
+Raga yang sehat dan bugar menjadi rumah yang kokoh bagi jiwa yang suci dan akal yang cerdas.

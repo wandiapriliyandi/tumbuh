@@ -1,21 +1,24 @@
 # Sub-Bab 7.1: Menundukkan Hawa Nafsu di Malam Hari
 
-Malam hari pukul 21.40 di Kamar Al-Farabi. Sebagian santri telah bersiap tidur, namun seorang santri bernama Ilham masih tergoda untuk melanjutkan obrolan seru tentang permainan sepak bola bersama kawan di ranjang sebelah.
+Pukul 21.45 malam di Kamar Al-Farabi. Lampu utama kamar telah dipadamkan, menyisakan temaram lampu tidur dinding yang lembut.
 
-Farhan yang melihat hal itu melangkah mendekati Ilham sembari tersenyum lembut.
+Sebagian besar santri telah terlelap di kasurnya masing-masing.
 
-"Ilham, lima menit lagi lampu tidur akan dipadamkan," bisik Farhan ramah. "Mari kita sudahi obrolan kita, kita ambil wudhu, dan kita amalkan bintang ketujuh: **Mujahidun li Nafsihi (Ksatria yang Berjuang Menundukkan Hawa Nafsunya)**."
+Farhan berbaring di ranjang atasnya. Di tangannya, terselip sebuah majalah komik petualangan bergambar yang baru saja dipinjamkannya dari kawan sekamar.
 
-Ilham terdiam sejenak. Di dalam benaknya terjadi pergulatan antara dorongan syahwat obrolan yang menyenangkan dan tekad untuk menjaga disiplin diri.
+Rasa penasaran untuk terus membaca lembaran komik tersebut di bawah selimut menggunakan senter kecil terasa begitu kuat menggoda.
 
-Farhan mengingatkan bait wasiat Imam Al-Bushiri dalam qashidah *Burdah*:
+Namun Farhan teringat bintang karakter ketujuh: **Pejuang Penakluk Hawa Nafsu (*Mujāhidun li Nafsihi / Prophetic Self-Discipline & Willpower*)**.
 
-$$\text{وَالنَّفْسُ كَالطِّفْلِ إِنْ تُهْمِلْهُ شَبَّ عَلَى * حُبِّ الرَّضَاعِ وَإِنْ تَفْطِمْهُ يَنْفَطِمِ}$$
+Farhan tahu bahwa jika ia nekat membaca komik hingga larut malam:
+1. Jam tidurnya akan terpotong dan ia akan terlambat bangun tahajjud.
+2. Ia akan mengantuk saat mendengarkan pengajian kitab Subuh nanti.
+3. Ia telah melanggar kesepakatan adab tidur asrama.
 
-> *"Hawa nafsu itu bagaikan bayi mungil; jika engkau membiarkannya, ia akan terus menuntut menyusu hingga dewasa, namun jika engkau menyapihnya dengan tegas, niscaya ia akan tersapih dan tunduk."*
+Farhan menarik nafas panjang, menutup komik tersebut, dan meletakkannya di atas meja belajar.
 
-Ilham menghela nafas panjang, tersenyum, lalu mengangguk mantap. "Terima kasih sudah mengingatkanku, Farhan."
+Farhan memejamkan matanya sembari melafalkan ta'awwudz dan doa tidur:
 
-Ilham bangkit dari ranjangnya, melangkah mengambil wudhu, lalu membaringkan tubuhnya untuk beristirahat.
+$$\text{أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ ... بِاسْمِكَ اللَّهُمَّ أَحْيَا وَأَمُوتُ}$$
 
-Kemenangan menundukkan hawa nafsu di keheningan malam kamar asrama adalah latihan kemauan keras (*Willpower & Self-Regulation*) yang melatih santri menjadi ksatria sejati yang mampu menguasai dirinya sendiri sebelum memimpin orang lain.
+Kemenangan menundukkan godaan kesenangan sesaat demi menjaga kemaslahatan yang lebih besar adalah bukti nyata kedewasaan batin seorang ksatria penakluk diri sejati.

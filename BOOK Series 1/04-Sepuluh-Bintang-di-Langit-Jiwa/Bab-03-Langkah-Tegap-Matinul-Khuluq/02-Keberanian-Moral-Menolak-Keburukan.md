@@ -1,17 +1,17 @@
 # Sub-Bab 3.2: Keberanian Moral Menolak Keburukan
 
-Malam itu di lorong lantai dua asrama putra, beberapa santri kelas sembilan sedang berkumpul di sudut balkon yang gelap. Mereka sedang merencanakan aksi melanggar jam malam untuk menonton video di pos satpam yang kosong.
+Di sore hari yang mendung, Faisal diajak oleh dua orang santri senior nakal dari angkatan lama untuk menyelinap keluar pagar belakang pesantren demi membeli mie instan cup di warung luar.
 
-Mereka memanggil Faisal yang sedang melintas. "Ayo Faisal, ikut kami! Mumpung Ustadz Salman lagi rapat di ndalem Kiai! Seru loh!"
+"Ayo, Faisal! Cuma lima menit saja. Tidak ada musyrif yang lewat di belakang pagar," bisik salah seorang senior sembari menarik lengan baju Faisal.
 
-Faisal menghentikan langkahnya. Di masa lalu, Faisal mungkin akan menjadi orang pertama yang menyetujui ajakan tersebut demi dianggap 'hebat' dan 'pemberani' oleh teman-temannya.
+Faisal sempat bimbang sejenak. Tekanan kelompok sebaya (*Negative Peer Pressure*) terasa begitu kuat menghimpit dadanya.
 
-Namun malam ini, Faisal berdiri tegak dengan tatapan mata yang tenang dan penuh wibawa. Di dalam dadanya, karakter **Matinul Khuluq** telah memberinya keberanian moral (*Moral Courage*) yang sejati.
+Namun Faisal mengingat pembinaan karakter *Matinul Khuluq* yang diajarkan di kelas madrasah: **Keberanian Moral Mengatakan 'Tidak' pada Keburukan (*Moral Courage & Assertiveness*)**.
 
-Faisal menatap teman-temannya dengan senyuman ramah tanpa nada menghakimi.
+Faisal menarik lengannya perlahan, menatap mata kedua senior tersebut dengan pandangan yang tenang dan berani, lalu berkata dengan nada santun namun tegas:
 
-"Terima kasih ajakannya, kawan-kawan," jawab Faisal dengan suara yang tegas dan bersahabat. "Tapi aku memilih untuk kembali ke kamar dan membaca kitab saja. Merusak kepercayaan yang telah diberikan Ustadz Salman dan Kiai Hasyim tidak sebanding dengan kesenangan sesaat itu. Mari kita kembali ke kamar masing-masing ya."
+"Afwan, Mas... Saya tidak bisa ikut. Saya sudah berjanji pada orang tua dan para ustadz untuk menjaga amanah dan kehormatan pondok ini. Kalau Mas butuh mie instan, di kantin asrama sebentar lagi buka dan kita bisa beli bersama secara halal dan tertib."
 
-Mendengar ketegasan Faisal, teman-temannya terdiam. Mereka saling melirik, lalu akhirnya mengurungkan niat tersebut dan bergegas kembali ke kamar masing-masing.
+Kedua senior itu tertegun mendengar penolakan yang begitu berwibawa dan santun dari adik kelasnya. Mereka urung melompati pagar dan memilih kembali ke asrama.
 
-Keberanian moral untuk berkata 'tidak' pada keburukan adalah tanda ksatria adab yang sejati—seorang santri yang mampu memimpin dirinya sendiri dan menjadi lentera kebaikan bagi kawan-kawan di sekelilingnya.
+Keberanian moral menolak ajakan buruk tanpa rasa takut dikucilkan adalah bukti kematangan karakter seorang ksatria sejati yang senantiasa berdiri tegak membela kebenaran di mana pun ia berada.

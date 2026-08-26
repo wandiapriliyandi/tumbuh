@@ -1,17 +1,17 @@
 # Sub-Bab 2.2: Dzikir Pagi Petang Perisai Jiwa
 
-Sore hari selepas sholat Ashar berjamaah, seluruh santri asrama putra duduk bersila di serambi masjid yang dinaungi bayang-bayang pohon palem.
+Setiap hari selepas sholat Subuh dan sholat Ashar di Pesantren Darul Adab, suasana masjid selalu diliputi oleh lantunan wirid yang syahdu: **Dzikir Al-Ma'tsurat Pagi & Petang (*The Sacred Morning & Evening Prophetic Shield*)**.
 
-Ustadz Salman memimpin pembacaan **Untaian Dzikir Petang Ma'tsurat (*Al-Wirdul Ma'tsur*)**.
+Ratusan santri duduk melingkar di serambi masjid beralaskan sajadah masing-masing, memegang buku saku dzikir doa-doa ma'tsur dari Nabi Muhammad SAW.
 
-Ratusan suara santri menyatu dalam harmoni lantunan dzikir yang merdu dan menggetarkan dada:
+Farhan melantunkan doa sayyidul istighfar dengan suara yang bergetar penuh penghayatan:
 
-$$\text{أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ}$$
+$$\text{اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ}$$
 
-Salman menjelaskan kepada santri bahwa dzikir pagi dan petang adalah **Baju Besi Spiritual (*The Spiritual Armor*)** yang membentengi kalbu santri dari bisikan godaan setan, rasa was-was, dan penyakit hati seperti iri dan dengki.
+$$\text{أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ}$$
 
-Ketika seorang santri membiasakan lisannya basah dengan mengingat Allah (*Dzikrullah*):
-* Gelombang otaknya stabil pada frekuensi Alfa yang tenang.
-* Hatinya dipenuhi rasa syukur dan lapang dada menghadapi ujian harian di pondok.
+Ustadz Burhan menjelaskan kedudukan dzikir pagi petang bagi seorang penuntut ilmu:
 
-Farhan melafalkan setiap bait doa dengan mata terpejam dan hati yang khusyuk. Ia merasakan sebuah perisai kedamaian menyelubungi seluruh jiwanya, mengusir segala kecemasan dan menghadirkan kekuatan baru di dalam sanubarinya.
+"Dzikir ini adalah baju zirah besi bagi jiwamu. Ketika kamu membentengi dirimu dengan dzikir pagi petang setiap hari, tidak ada racun hasad, bisikan waswas setan, atau penyakit hati yang mampu melukai kebersihan batinmu."
+
+Dzikir yang dibiasakan secara istiqomah melatih santri untuk selalu berada dalam keadaan *Muraqabatullah*—merasa senantiasa diawasi dan dilindungi oleh Allah SWT di setiap hembusan nafasnya.

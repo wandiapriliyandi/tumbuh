@@ -1,22 +1,23 @@
 # Sub-Bab 2.1: Menelusuri Jejak Sujud Nabi
 
-Pukul 12.00 siang. Suara adzan Dzuhur berkumandang menggetarkan langit Pesantren Darul Adab. Ratusan santri putra berwudhu dengan tertib di area wudhu yang luas dan bebas genangan air.
+Pukul 15.30 sore selepas sholat Ashar di masjid utama Pesantren Darul Adab. Sesi halaqah fiqih praktis bintang karakter kedua sedang berlangsung: **Kesempurnaan Ibadah Berbasis Sunnah (*Shaḥīḥul 'Ibādah / Prophetic Worship Precision*)**.
 
-Di ruang utama masjid, Ustadz Salman dan Ustadz Burhan membimbing santri mempraktikkan bintang kedua: **Shahihul Ibadah (Ibadah yang Sah dan Sesuai Sunnah)**.
-
-Salman mengutip sabda agung Rasulullah SAW:
+Ustadz Salman berdiri di depan barisan santri, memperagakan tata cara sholat yang sahih sesuai sunnah Rasulullah SAW:
 
 $$\text{صَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي}$$
 
-> *"Sholatlah kalian sebagaimana kalian melihat aku sholat."* (HR. Al-Bukhari)
+> *"Sholatlah kalian sebagaimana kalian melihat aku sholat!"* (HR. Al-Bukhari)
 
-Salman mempraktikkan rukun demi rukun sholat secara langsung di depan santri:
-* Meluruskan dan merapatkan shaf sholat dengan menyatukan tumit dan bahu (*Taswiyatus Shufuf*).
-* Mengangkat tangan sejajar bahu atau daun telinga saat takbiratul ihram dengan jari-jari yang renggang wajar menghadap kiblat.
-* Meletakkan tangan kanan di atas punggung tangan kiri di atas dada.
-* Melakukan ruku' dengan punggung yang lurus rata hingga jika ditaruh secangkir air di atasnya, air itu tidak akan tumpah.
-* Bersujud dengan menempelkan tujuh anggota sujud secara sempurna (dahi bersama hidung, kedua telapak tangan, kedua lutut, dan ujung jari-jari kedua kaki yang ditekuk menghadap kiblat).
+Salman membedah setiap gerakan sholat dari takbiratul ihram hingga salam:
+1. **Takbiratul Ihram**: Mengangkat kedua tangan sejajar dengan daun telinga dengan jari-jari terbuka menghadap kiblat, tidak terlalu rapat dan tidak terlalu renggang.
+2. **Sedekap (*Iftirasy al-Yadain*)**: Meletakkan telapak tangan kanan di atas punggung telapak tangan kiri di atas dada dengan tenang dan rileks.
+3. **Rukuk yang Lurus**: Punggung ditekuk 90 derajat hingga lurus horizontal sedemikian rupa sehingga jika diletakkan segelas air di atas punggungnya, air tersebut tidak akan tumpah.
+4. **Sujud Sempurna Tujuh Anggota Badan**: Menempelkan dahi dan hidung, kedua telapak tangan, kedua lutut, dan ujung jari-jari kedua kaki yang ditekuk menghadap kiblat secara rapat ke lantai.
 
-Farhan dan santri lainnya mempraktikkan gerakan tersebut dengan penuh kesungguhan dan thuma'ninah.
+Salman memanggil Farhan untuk mempraktikkan rukuk dan sujud di depan kawan-kawannya.
 
-Sholat di Pesantren Darul Adab tidak lagi menjadi rutinitas cepat yang terburu-buru seperti ayam mematuk makanan, melainkan menjadi panggung munajat suci yang menghubungkan jiwa hamba dengan keagungan Sang Khaliq.
+Farhan melakukan rukuk. Punggungnya membentuk garis lurus yang sangat presisi, kedua tangannya mencengkeram lutut dengan mantap, dan pandangan matanya tertuju ke tempat sujud dengan thuma'ninah yang mendalam.
+
+Salman tersenyum kagum seraya mengusap punggung Farhan. "Masya Allah, sempurna sekali rukukmu, Farhan!"
+
+Ibadah yang shahih memadukan pemahaman fiqih yang presisi dengan kekhusyukan kalbu yang hidup, menjadikan sholat lima waktu sebagai mi'raj ruhani yang menghubungkan hamba dengan Sang Khaliq.

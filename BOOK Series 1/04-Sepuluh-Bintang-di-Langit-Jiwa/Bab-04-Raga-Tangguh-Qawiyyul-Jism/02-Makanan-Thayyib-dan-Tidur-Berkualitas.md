@@ -1,17 +1,16 @@
 # Sub-Bab 4.2: Makanan Thayyib dan Tidur Berkualitas
 
-Selepas berolahraga sore dan mandi bersih, santri-santri bergegas menuju ruang makan. Di sana, Pakde Darmo telah menyiapkan menu makan malam yang memenuhi kriteria syariat: **Halalan Thayyiban (Halal dan Bergizi Seimbang)**.
+Kebugaran fisik seorang santri tidak hanya dibangun di lapangan olahraga, melainkan dirawat setiap hari melalui **Nutrisi Halalan Thayyiban & Pola Tidur Sirkadian (*Nutritional & Sleep Hygiene*)**.
 
-Pakde Darmo menyendokkan nasi merah pulen, sup sayur bayam jagung manis, sepotong ikan tongkol bakar berlumur bumbu rempah, dan sebutir pisang ambon matang ke atas piring Farhan.
+Di dapur asrama putra Pesantren Darul Adab, menu makan santri disusun dengan bimbingan ahli gizi:
+* Sayuran hijau segar kaya serat dari kebun hidroponik santri.
+* Sumber protein hewani dan nabati (ikan laut segar, ayam kampung, telur, dan tempe kedelai).
+* Buah-buahan segar lokal (pisang kepok dan semangka) dan air putih hangat yang melimpah.
 
-"Makanlah sayurnya sampai habis, Farhan," pesan Pakde Darmo dengan senyuman hangat. "Otakmu butuh vitamin dan asam folat dari sayuran segar ini agar hafalan Al-Qur'anmu semakin tajam dan tubuhmu tidak mudah lelah."
+Santri dilatih makan tidak berlebihan, mengamalkan kaidah sepertiga lambung untuk makanan, sepertiga untuk minuman, dan sepertiga untuk nafas.
 
-Kyai Hasyim yang hadir mengawasi makan malam menegaskan bahwa menjaga kesehatan fisik santri melalui makanan bergizi dan tidur tujuh jam adalah bagian integral dari syariat Islam:
+Dipadukan dengan kepatuhan jam tidur malam tepat waktu pukul 21.45, tubuh santri terlindungi dari penyakit pencernaan, stamina tubuh selalu prima, dan kekebalan tubuh meningkat secara optimal.
 
-$$\text{كُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا، إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ}$$
+Farhan menikmati sarapan paginya dengan rasa syukur yang mendalam.
 
-> *"Makan dan minumlah kalian, tetapi janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan."* (QS. Al-A'raf: 31)
-
-Pesantren Darul Adab mengeliminasi konsumsi mie instan berlebih, makanan cepat saji tinggi MSG, dan minuman manis berpengawet di kantin, menggantikannya dengan buah-buahan segar, susu murni, dan air putih hangat.
-
-Hasilnya, tingkat santri yang jatuh sakit di poskestren menurun drastis sebesar **90%**, membuktikan bahwa kebugaran jasmani yang dirawat dengan benar adalah fondasi vital bagi lahirnya generasi santri yang kuat dan berdaya saing tinggi.
+Menjaga kesehatan tubuh adalah bentuk amanah menjaga raga yang dianugerahkan Allah, agar setiap sendi tubuh dapat terus digunakan untuk bersujud dan berkhidmah melayani umat.

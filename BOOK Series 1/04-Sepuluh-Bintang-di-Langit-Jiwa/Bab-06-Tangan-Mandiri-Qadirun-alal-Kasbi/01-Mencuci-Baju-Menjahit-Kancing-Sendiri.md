@@ -1,23 +1,21 @@
 # Sub-Bab 6.1: Mencuci Baju Menjahit Kancing Sendiri
 
-Sore hari di area tempat cuci baju dan jemuran asrama lantai satu. Gemercik air bersih dari kran mengalir ke dalam ember-ember plastik.
+Sore hari pukul 16.45 di area tempat cuci baju asrama putra Pesantren Darul Adab. Suara gemercik air kran dan busa sabun wangi memenuhi pelataran semen yang bersih.
 
-Di sana, Farhan sedang berdiri di depan bak cucian semen. Tangannya dengan terampil mengucek pakaian seragam madrasahnya dengan sabun batangan harum, membilasnya hingga busanya hilang sempurna, lalu memerasnya kencang.
+Farhan sedang berjongkok di samping ember cuciannya, menyikat kerah baju seragam putihnya dengan gerakan yang cekatan dan berirama.
 
-Di sampingnya, Zaid sedang mengajari santri baru cara menjahit kancing baju koko yang lepas menggunakan jarum dan benang putih.
+Di masa lalu sebelum masuk pondok, Farhan tidak pernah mencuci pakaiannya sendiri; semua baju dicucikan oleh asisten rumah tangga atau ibunya di rumah.
 
-"Tusukkan jarum dari bagian bawah kain, Farhan," tunjuk Zaid ramah. "Silangkan benangnya empat kali membentuk huruf X, lalu kunci simpulnya di bagian belakang."
+Namun di bawah bimbingan bintang karakter keenam: **Kemandirian Hidup & Keterampilan Berkarya (*Qādirun 'alal Kasbi / Self-Reliance & Practical Life Skills*)**, Farhan telah bertransformasi menjadi ksatria mandiri yang serba bisa.
 
-Farhan mempraktikkannya dengan sangat teliti. Dalam waktu dua menit, kancing baju koko yang tadinya lepas kini telah terpasang kuat dan rapi kembali.
+Farhan membilas bajunya hingga bersih, memerasnya dengan kuat, lalu menggantungkannya di tali jemuran dengan hanger kayu yang rapi.
 
-Ustadz Salman yang mengamati dari teras tersenyum bangga.
+Selepas menjemur, Farhan duduk di teras kamar membawa jarum jahit dan benang putih. Dengan sabar dan teliti, Farhan memasukkan benang ke lubang jarum kecil, lalu menjahit kembali sebuah kancing baju kokonya yang sempat lepas.
 
-Salman menguraikan bintang keenam: **Qadirun 'alal Kasbi (Kemandirian Hidup dan Keterampilan Terapan)**.
+*Tusuk... Tarik... Kunci simpul...*
 
-Rasulullah SAW bersabda:
+Hanya dalam waktu tiga menit, kancing baju itu telah terpasang sangat kuat dan rapi.
 
-$$\text{مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَإِنَّ نَبِيَّ اللَّهِ دَاوُدَ كَانَ يَأْكُلُ مِنْ عَمَلِ يَدِهِ}$$
+Farhan menatap hasil jahitannya dengan senyuman bangga.
 
-> *"Tidaklah seseorang memakan makanan yang lebih baik daripada makanan yang dihasilkan dari keringat tangannya sendiri. Dan sesungguhnya Nabi Allah Dawud 'alaihissalam dahulu makan dari hasil kerja tangannya sendiri."* (HR. Al-Bukhari)
-
-Kemandirian mengurus kebutuhan primer diri sendiri membebaskan santri dari mentalitas manja dan ketergantungan pada orang lain, membentuk karakter ksatria yang mandiri, ulet, dan siap hidup di medan perjuangan mana pun.
+Kemandirian mengurus kebutuhan pribadi menanamkan etos kemuliaan diri (*Self-Sufficiency*), membebaskan santri dari mentalitas manja yang bergantung pada orang lain, dan melatih anak untuk selalu siap memimpin kehidupannya sendiri.

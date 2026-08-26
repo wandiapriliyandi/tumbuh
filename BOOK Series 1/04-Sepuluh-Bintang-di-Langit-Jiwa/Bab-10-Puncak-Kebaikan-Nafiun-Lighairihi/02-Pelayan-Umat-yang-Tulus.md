@@ -1,16 +1,19 @@
 # Sub-Bab 10.2: Pelayan Umat yang Tulus
 
-Hari Ahad pagi. Ratusan santri senior kelas sebelas dan dua belas yang dipimpin oleh Zaid melangkah keluar dari gerbang pesantren menuju desa dhuafa di seberang bukit untuk program **Bakti Khidmah Santri (*Community Social Service*)**.
+Di serambi asrama putra malam harinya selepas program bakti sosial, Kyai Hasyim mengumpulkan seluruh santri sembari membagikan wedang jahe hangat.
 
-Santri-santri membawa cangkul, cat tembok, dan paket sembako beras:
-* Zaid dan kelompoknya membersihkan saluran irigasi sawah warga desa yang tersumbat lumpur.
-* Kelompok Faisal mengecat ulang musholla desa dan memperbaiki tempat wudhunya.
-* Kelompok lainnya mengajar membaca Al-Qur'an dan kisah para nabi bagi anak-anak petani di balai desa.
+Kyai Hasyim menatap wajah-wajah para santri yang masih tampak lelah namun memancarkan binar kebahagiaan batin yang tiada tara.
 
-Warga desa menyambut para santri dengan senyuman haru dan hidangan kelapa muda segar.
+Kiai mendawuhkan kaidah kepemimpinan Islam:
 
-Kepala Desa menyampaikan rasa terima kasihnya: "Santri-santri Pesantren Darul Adab sungguh berakhlak mulia. Mereka tidak sombong dengan ilmunya, melainkan terjun langsung membantu kami dengan senyuman dan keringat mereka."
+$$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
 
-Zaid menatap kawan-kawannya yang sedang bekerja bakti dengan rasa syukur mendalam.
+> *"Pemimpin sejati suatu kaum adalah pelayan bagi kaum tersebut."*
 
-"Inilah hakikat santri sejati," bisik Zaid. "Kita belajar di pesantren bukan untuk menjadi menara gading yang terasing dari masyarakat, melainkan untuk menjadi air hujan yang membasahi bumi yang tandus dan menumbuhkan kemaslahatan bagi seluruh umat manusia."
+Kiai melanjutkan petuahnya:
+
+"Anak-anakku... Jangan pernah kalian menuntut ilmu di pesantren ini untuk menjadi 'tuan besar' yang minta dilayani dan dihormati oleh orang lain. Jadilah pelayan umat yang tulus. Semakin tinggi ilmumu, semakin rendah hatimu, dan semakin luas pengorbananmu untuk menolong orang-orang yang lemah dan membutuhkan."
+
+Zaid dan Farhan mencium tangan sang Kiai dengan penuh rasa takzim.
+
+Keikhlasan melayani sesama melenyapkan benih-benih kesombongan di dalam jiwa, menjadikan para santri sebagai ksatria pelayan umat yang senantiasa dirindukan kehadirannya di tengah-tengah masyarakat.

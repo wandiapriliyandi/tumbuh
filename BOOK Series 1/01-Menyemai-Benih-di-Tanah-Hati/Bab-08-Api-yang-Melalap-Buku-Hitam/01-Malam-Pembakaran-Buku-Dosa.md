@@ -1,35 +1,109 @@
 # Sub-Bab 8.1: Malam Pembakaran Buku Dosa
 
-Malam itu, di tengah lapangan rumput komplek asrama putra Pesantren Darul Adab, sebuah drum besi besar diletakkan tepat di tengah lingkaran. Ratusan santri dari seluruh tingkatan kelas—mulai dari kelas tujuh hingga kelas dua belas—berkumpul mengelilingi drum tersebut dalam formasi lingkaran besar yang rapi.
+Pukul 21.00 malam di lapangan tengah komplek asrama putra Pesantren Darul Adab.
 
-Di samping drum besi itu, berdiri Kyai Hasyim, Ustadz Salman, Ustadz Ridwan, dan jajaran pengurus asrama. Cahaya bulan purnama menyinari lapangan dengan pendar perak yang anggun, berpadu dengan hembusan angin malam yang membawa hawa sejuk.
+Langit malam tampak cerah bertaburkan ribuan bintang keemasan yang berkedip indah.
 
-Ustadz Salman melangkah maju mendekati drum besi. Di kedua tangannya, ia memeluk setumpuk tebal buku-buku bersampul hitam legam: seluruh **"Buku Catatan Pelanggaran dan Dosa Santri"** yang telah digunakan selama bertahun-tahun untuk mencatat ribuan poin kesalahan, hukuman, dan aib para santri.
+Udara malam pegunungan yang dingin terasa sejuk menyegarkan, menyapu keheningan komplek pesantren yang sedang menanti peristiwa bersejarah.
 
-Di atas tumpukan buku hitam itu, tergeletak sebilah rotan kuning yang selama ini menjadi simbol teror dan ketakutan di asrama putra.
+Ratusan santri dari kelas tujuh hingga kelas dua belas, bersama seluruh jajaran dewan asatidz dan musyrif pengasuhan, duduk melingkar dengan rapi di sekeliling lapangan semen.
 
-Kyai Hasyim melangkah ke hadapan mikrofon, memandang ratusan santri yang menatap dengan mata berbinar-binar penuh tanda tanya dan debar harapan.
+Di tengah-tengah lingkaran manusia tersebut, sebuah drum pembakaran besi berukuran besar telah disiapkan.
 
-"Bismillahir Rahmanir Rahim..." suara Kyai Hasyim mengalun dengan wibawa spiritual yang merasuk ke relung kalbu setiap yang hadir.
+Permukaan drum besi itu dicat hitam mengkilap dan dihiasi oleh kaligrafi doa istighfar berwarna putih perak:
 
-"Anak-anakku dan para asatidz yang kucintai karena Allah," dawuh Kiai, "malam ini kita berkumpul untuk mengubur sebuah zaman kegelapan dan menyalakan fajar baru bagi peradaban pesantren kita."
+$$\text{أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ}$$
 
-Kiai menunjuk ke tumpukan buku hitam di pelukan Salman. "Buku-buku ini selama ini telah mencatat setiap kelemahan dan ketergelinciran kalian. Namun malam ini, atas nama Allah Yang Maha Pengampun (*Al-Ghafur*) dan Maha Penyayang (*Ar-Rahim*), kami mendeklarasikan **Kebijakan Lembaran Bersih (*Clean Slate Policy*)**!"
+Di dalam drum tersebut, telah ditata beberapa potong kayu bakar kering dan sabut kelapa yang siap disulut.
 
-Kyai Hasyim mengambil sebuah korek api kayu, menyalakannya, dan melemparkan apinya ke dalam drum besi yang telah disiram minyak kelapa.
+Kyai Hasyim duduk di kursi barisan terdepan didampingi oleh Ustadz Ridwan dan Ustadz Burhan.
 
-*Fwoosh!*
+Di tengah keheningan yang mencekam dan sakral, Ustadz Salman melangkah maju ke tengah lapangan menuju drum pembakaran.
 
-Lidah api merah keemasan seketika berkobar menjilat ke udara, menerangi wajah-wajah para santri dengan kehangatan yang memukau.
+Langkah kaki Salman malam ini tidak lagi tergesa-gesa atau menghentak keras seperti masa lalu.
 
-Ustadz Salman melangkah maju ke bibir drum besi. Dengan linangan air mata haru dan penyesalan mendalam, Salman melemparkan satu per satu buku catatan pelanggaran hitam itu ke dalam kobaran api. Kertas-kertas penuh tinta merah catatan hukuman itu seketika hangus terbakar menjadi abu hitam yang beterbangan ke angkasa malam.
+Langkah kaki pemuda itu tampak sangat tenang, mantap, dan dipenuhi oleh kerendahan hati seorang hamba yang telah bertaubat.
 
-Dan pada puncaknya, Salman mengangkat rotan kuning di tangannya tinggi-tinggi di hadapan seluruh santri.
+Salman mengenakan jubah putih bersih tanpa membawa rotan kuning.
 
-"Atas nama seluruh pembina asrama putra," seru Salman dengan suara lantang yang bergetar penuh tekad, "malam ini kami mematahkan dan membakar rotan kekerasan ini untuk selama-lamanya! Kami berjanji tidak akan pernah lagi menyentuh tubuh kalian dengan pukulan atau melukai hati kalian dengan bentakan amarah!"
+Di kedua belah tangannya, Salman mendekap sebuah buku tebal berukuran folio bersampul kulit hitam kusam: **Buku Hitam Rekapitulasi Pelanggaran Santri (*The Black Book of Disciplinary Punishments*)**.
 
-*KRAK!*
+Buku hitam tebal itu adalah buku yang selama bertahun-tahun telah menjadi momok paling menakutkan bagi seluruh santri asrama.
 
-Salman mematahkan rotan kuning itu menjadi dua bagian dengan kedua tangannya, lalu melemparkannya ke dalam kobaran api yang melalapnya seketika.
+Di dalam buku itu, tertulis ribuan catatan pelanggaran, vonis hukuman, sanksi fisik, dan skor negatif bertinta merah yang melabeli anak-anak sebagai 'santri bermasalah'.
 
-Gemuruh takbir *"Allahu Akbar!"* seketika meledak dari ratusan dada para santri, berpadu dengan isak tangis keharuan yang membuncah dari seluruh penjuru lapangan. Malam itu, di bawah pendar api yang menyala terang, Pesantren Darul Adab resmi mendeklarasikan dirinya sebagai **Kawasan Suci Bebas Kekerasan (*Zero-Violence Sanctuary*)**.
+Salman berhenti tepat di samping drum besi pembakaran.
+
+Salman mengambil mikrofon nirkabel yang disodorkan oleh santri pengurus, lalu menatap seluruh santri yang duduk melingkar di sekelilingnya.
+
+Kedua bola mata Salman tampak berkaca-kaca menahan gelombang emosi dan keharuan yang meluap di dalam dadanya.
+
+Salman menarik nafas panjang, lalu berbicara dengan nada suara bas yang bergetar hebat di pengeras suara:
+
+"Bismillāhir-Raḥmānir-Raḥīm...
+
+Anak-anakku sekalian, para penuntut ilmu yang sangat Ustadz cintai..."
+
+"Malam ini, di bawah naungan langit malam Pesantren Darul Adab dan disaksikan oleh para malaikat Allah..."
+
+"Ustadz berdiri di hadapan kalian bukan lagi sebagai kepala keamanan yang garang."
+
+"Ustadz berdiri di sini sebagai seorang hamba yang penuh dosa, seorang guru yang memohon ampunan kepada Allah dan memohon maaf yang setulus-tulusnya kepada kalian semua."
+
+Air mata Salman tumpah membasahi pipinya:
+
+"Maafkan Ustadz atas setiap bentakan kasar yang pernah merobek rasa percaya diri kalian..."
+
+"Maafkan Ustadz atas setiap sabetan rotan yang pernah melukai kulit dan batin kalian..."
+
+"Maafkan Ustadz atas setiap vonis dan label buruk yang pernah Ustadz torehkan di dalam buku hitam ini..."
+
+Salman mengangkat buku hitam tebal itu tinggi-tinggi ke udara agar dapat dilihat oleh seluruh santri.
+
+"Buku hitam ini adalah simbol dari kebangkrutan metodologi kekerasan kita di masa lalu!"
+
+"Buku ini telah mencatat dosa dan kekhilafan kalian, namun lupa mencatat kebaikan, potensi, dan air mata perjuangan kalian!"
+
+"Maka malam ini, atas izin dan bimbingan guru kita Kyai Hasyim, kita kubur dan kita musnahkan selamanya budaya penghakiman masa lalu ini dari bumi Darul Adab!"
+
+Salman menyalakan sebuah pemantik api obor kecil.
+
+Dengan gerakan tangan yang mantap dan khusyuk, Salman menyulutkan lidah api obor ke sabut kelapa di dalam drum besi.
+
+Api seketika berkobar menyala terang benderang, menerangi wajah-wajah ratusan santri di sekeliling lapangan.
+
+Salman meletakkan buku hitam tebal tersebut ke dalam kobaran api yang membakar di dalam drum.
+
+*Fuuushhh!*
+
+Lidah api merah keemasan seketika menjilati dan membakar lembaran-lembaran kertas bertinta merah tersebut.
+
+Kertas-kertas catatan pelanggaran itu terbakar menjadi abu hitam yang beterbangan ke udara.
+
+Asap pembakaran membubung tinggi ke langit malam yang bertabur bintang, membawa serta lenyapnya seluruh catatan sanksi, stigma buruk, dan beban psikologis masa lalu para santri.
+
+Di barisan santri kelas tujuh, Farhan dan Faisal menatap kobaran api tersebut dengan kedua mata yang basah oleh air mata haru.
+
+Dada Farhan yang tadinya terasa sesak oleh trauma rotan seketika terasa sangat lapang, lega, dan merdeka.
+
+Malam pembakaran buku hitam adalah malam pembebasan jiwa agung di Pesantren Darul Adab.
+
+Pintu taubat, lembaran putih baru yang bersih, dan masa depan yang penuh harapan telah dibuka seluas-luasnya bagi setiap insan di bumi pesantren.
+
+Seluruh santri dan guru melafalkan takbir dan hamdalah bersama-sama, menyambut lahirnya era baru yang suci.
+
+Percikan api merah keemasan melompat ke udara di atas drum besi pembakaran.
+
+Bau abu kertas yang terbakar menyerbak di lapangan tengah asrama putra.
+
+Salman menatap abu yang melayang dengan mata yang dipenuhi air mata kelegaan.
+
+Farhan meremas kain sarungnya, merasakan beban berat di dadanya terbang bersama asap api.
+
+Kiai Hasyim tersenyum teduh dari barisan depan, memanjatkan puji syukur ke hadirat Ilahi.
+
+Malam yang dingin terasa hangat oleh kobaran api taubat dan pembebasan jiwa santri.
+
+Seluruh hadirin berdiri dan melafalkan shalawat thibbil qulub dengan sangat khusyuk.
+
+Masa lalu yang kelam telah musnah; masa depan yang suci dan cemerlang telah terbit.

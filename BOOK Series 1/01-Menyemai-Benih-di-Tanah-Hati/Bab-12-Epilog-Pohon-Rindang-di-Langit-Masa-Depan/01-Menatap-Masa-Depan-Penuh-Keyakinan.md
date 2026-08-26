@@ -1,23 +1,111 @@
 # Sub-Bab 12.1: Menatap Masa Depan Penuh Keyakinan
 
-Matahari pagi bersinar cerah di atas puncak bukit kecil di belakang komplek Pesantren Darul Adab. Hembusan angin pegunungan yang segar mengibarkan ujung jubah putih Kyai Hasyim dan baju koko Ustadz Salman yang berdiri berdampingan di bawah naungan pohon beringin tua.
+Enam tahun kemudian.
 
-Dari ketinggian bukit tersebut, seluruh lanskap komplek pesantren terhampar dengan sangat indah dan megah di depan mata mereka:
-* Kubah masjid yang berkilauan keemasan diterpa sinar surya.
-* Bangunan asrama putra berlantai dua yang tertata rapi dan bersih.
-* Lapangan rumput hijau tempat anak-anak berolahraga dengan ceria.
-* Kebun sayur dan pohon-pohon mangga yang mulai berbuah lebat di bawah asuhan tangan-tangan terampil para santri.
+Waktu bergulir laksana hembusan angin pegunungan yang membawa musim demi musim di lembah Pesantren Darul Adab.
 
-Salman menghela nafas panjang, menghirup udara pagi yang segar dengan dada yang dipenuhi rasa syukur yang tak terhingga.
+Pagi hari pukul 07.30 di pelataran aula utama lantai tiga gedung pertemuan peradaban baru pesantren.
 
-"Kyai..." bisik Salman dengan suara lembut penuh takzim, "setahun yang lalu, di tempat ini, saya hampir saja putus asa dan berniat mengundurkan diri dari amanah pengasuhan asrama karena merasa tidak mampu menghadapi kerasnya dunia asrama."
+Sinar matahari pagi yang cerah menyinari kubah hijau zamrud dan menara masjid yang menjulang megah ke langit biru bebas awan.
 
-Kyai Hasyim tersenyum teduh, menatap musyrif mudanya itu dengan pandangan penuh kasih sayang.
+Di balkon aula lantai tiga yang berpagar marmer putih, seorang pemuda berusia delapan belas tahun bertubuh tegap dan berwajah teduh sedang berdiri menatap pemandangan komplek pesantren di bawahnya.
 
-"Dan lihatlah dirimu hari ini, Salman," dawuh Kiai. "Allah tidak membiarkan niat tulusmu sia-sia. Ketika kamu bersedia merendahkan egomu, mematahkan rotan kekerasan, dan membuka hatimu untuk belajar merawat fitrah santri, Allah membukakan pintu-pintu kemudahan yang tak pernah kita bayangkan sebelumnya."
+Pemuda itu mengenakan jubah wisuda berwarna hitam bertahtakan selendang hijau toska berlogo emas TUMBUH.
 
-Keduanya memandang ke arah gerbang utama pesantren di bawah sana.
+Di dadanya tersemat medali emas penghargaan santri teladan lulusan terbaik (*The Best All-Around Adabi Graduate*).
 
-Sebuah bus besar baru saja tiba di halaman depan, membawa rombongan santri baru dan orang tua dari berbagai penjuru nusantara. Di pintu gerbang, Zaid, Farhan, Faisal, dan para santri senior lainnya telah berdiri berbaris rapi dengan senyuman terhangat, siap menyambut adik-adik kelas mereka dengan tangan terbuka dan pelukan persaudaraan sejati.
+Itu adalah **Farhan**.
 
-Tidak ada lagi ketakutan yang mencekam di balik gerbang itu. Yang ada hanyalah fajar baru sebuah peradaban pendidikan Islam yang memuliakan martabat manusia.
+Bocah kurus yang enam tahun lalu tiba di pondok dengan koper biru tua, mata sembab, dan ketakutan akan sabetan rotan.
+
+Kini ia telah bermetamorfosis sempurna menjadi seorang ksatria adabi pemuda peradaban yang paripurna (*A Fully Realized Insan Adabi*).
+
+Farhan telah menyelesaikan hafalan tiga puluh juz Al-Qur'an dengan predikat *Mutqin*.
+
+Farhan menguasai belasan kitab matan ilmu nahwu, sharaf, ushul fiqih, hadits, dan tasawuf.
+
+Dan yang paling membanggakan, Farhan terpilih sebagai Ketua Organisasi Santri masa khidmah terakhir.
+
+Ia memimpin ribuan adik-adik kelasnya dengan kelembutan akhlak dan pelayanan penuh cinta sebagaimana yang dahulu dicontohkan oleh Mas Zaid.
+
+Di samping Farhan, berdiri seorang pemuda berusia dua puluh tiga tahun mengenakan setelan jas hitam rapi dan sorban putih di pundaknya.
+
+Itu adalah **Zaid**—sang mentor sahabat asuh yang kini telah menyelesaikan studi sarjananya di Universitas Al-Azhar Kairo dan kembali berkhidmah menjadi dosen muda di ma'had 'aly pesantren.
+
+Zaid merangkul pundak Farhan dengan tatapan bangga yang tak terkatakan:
+
+"Farhan, adikku tercinta..." sapa Zaid seraya tersenyum haru.
+
+"Hari ini adalah hari wisuda kelulusanmu dari jenjang Madrasah Aliyah."
+
+"Melihatmu berdiri di sini hari ini, Mas Zaid teringat sore enam tahun lalu saat kamu menangis memeluk mushaf di sudut serambi masjid."
+
+Farhan tersenyum manis, air mata haru dan syukur menggenang di pelupuk matanya:
+
+"Semua ini terjadi atas izin dan karunia Allah SWT, Mas Zaid..."
+
+"Dan berkat tangan hangat Mas Zaid, keteladanan Ustadz Salman, serta bimbingan agung Kyai Hasyim yang menyelamatkan jiwa Farhan melalui ekosistem TUMBUH."
+
+Dari arah belakang di pintu balkon, terdengar suara langkah kaki yang melangkah santun.
+
+Ibu Fatimah dan Pak Rahmat melangkah mendekati anak laki-laki kebanggaan mereka.
+
+Ibu Fatimah mengenakan jilbab biru tua terbaiknya, wajahnya berlinang air mata bahagia yang membasahi senyumannya yang tulus.
+
+Pak Rahmat mengenakan kemeja batik yang rapi, dadanya membusung bangga menatap putranya yang telah menjadi ulama muda yang shalih.
+
+Farhan segera berbalik badan, bersimpuh di hadapan kedua orang tuanya.
+
+Farhan mencium kedua telapak kaki dan tangan ibunya dengan segenap rasa takzim dan baktinya:
+
+"Ibu...
+
+Bapak...
+
+Ini Farhan persembahkan untuk Ibu dan Bapak..." bisik Farhan dengan suara tercekik haru.
+
+Ibu Fatimah memeluk kepala putranya erat-erat, mencium kening Farhan sembari menangis penuh keharuan:
+
+"Farhan, anak lanang kebanggaan Ibu...
+
+Kamu benar-benar telah menjadi penyejuk hati Ibu dan Bapak di dunia dan akhirat, Le..."
+
+Di kejauhan di bawah balkon, ribuan santri junior sedang berbaris rapi di lapangan dengan senyuman ceria menyongsong masa depan.
+
+Pohon peradaban yang dahulu disemai dari benih-benih kecil di tanah hati yang terluka kini telah tumbuh rimbun, kokoh, dan berbuah manis.
+
+Pohon peradaban ini siap menaungi umat manusia dari kegelapan zaman menuju cahaya keabadian Islam.
+
+Farhan bangkit berdiri di samping kedua orang tuanya, menatap masa depan dengan dada yang dipenuhi keyakinan tauhid yang kokoh.
+
+Farhan memandang komplek pesantren di bawah balkon dengan mata yang berbinar penuh keharuan.
+
+Enam tahun perjalanan tarbiyah telah mengubah anak kecil pemalu menjadi ulama muda yang tangguh.
+
+Zaid menepuk pundak Farhan, mengingatkannya akan tanggung jawab besar memimpin umat kelak.
+
+Ibu Fatimah dan Pak Rahmat tersenyum bahagia menyaksikan kemuliaan akhlak putranya.
+
+Medali emas di dada Farhan adalah lambang kemenangan fitrah yang dirawat dengan cinta dan hikmah.
+
+Di halaman pesantren, ribuan santri junior menatap Farhan sebagai panutan dan inspirasi hidup.
+
+Pohon rindang TUMBUH telah berakar teguh di bumi dan menjulang tinggi menaungi semesta.
+
+Farhan siap melangkah ke panggung dunia, membawa lentera adab untuk menerangi kegelapan zaman.
+
+Keyakinan tauhid yang kokoh di dadanya menjadi perisai abadi dalam mengarungi samudra kehidupan.
+
+Farhan memegang medali emas di dadanya, mempersembahkannya seutuhnya untuk kedua orang tuanya.
+
+Pak Rahmat mengusap pundak putranya dengan air mata haru yang menetes di pipinya yang legam.
+
+Ibu Fatimah tersenyum sangat teduh, memandangi wajah putranya yang bersinar penuh nur ilmu.
+
+Zaid berdiri di samping mereka, menyaksikan buah manis dari perjuangan tarbiyah enam tahun.
+
+Pohon rindang TUMBUH telah berakar teguh di bumi dan menjulang tinggi menaungi semesta.
+
+Farhan siap melangkah ke panggung peradaban dunia, membawa panji kemuliaan Islam.
+
+Keyakinan tauhid yang kokoh di dadanya menjadi pelita abadi dalam mengarungi samudra kehidupan.

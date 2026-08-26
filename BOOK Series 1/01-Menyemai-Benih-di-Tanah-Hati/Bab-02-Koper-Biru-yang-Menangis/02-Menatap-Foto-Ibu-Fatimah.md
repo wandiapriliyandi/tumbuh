@@ -1,43 +1,131 @@
 # Sub-Bab 2.2: Menatap Foto Ibu Fatimah
 
-Matahari tepat berada di puncak langit, memancarkan terik panas yang menyengat atap seng asrama putra. Jam madrasah sesi pagi baru saja usai. Setelah sholat Dzuhur berjamaah di masjid, santri-santri berhamburan kembali ke kamar masing-masing untuk menikmati waktu istirahat siang (*qailulah*).
+Pukul 13.30 siang di komplek madrasah Pesantren Darul Adab.
 
-Di Kamar Al-Farabi, sebagian besar santri kelas tujuh telah merebahkan tubuhnya di atas kasur busa yang tipis. Suara dengkuran halus mulai terdengar berbaur dengan deru kipas angin gantung tua yang berputar lambat di langit-langit kamar, meniupkan udara yang tetap terasa hangat dan kering.
+Matahari siang bersinar sangat terik tepat di atas ubun-ubun kepala.
 
-Namun di sudut ranjang susun nomor lima, Farhan sama sekali tidak berniat untuk tidur. Ia duduk bersandar pada dinding tembok kamar yang terasa dingin di punggungnya. Kedua tangannya merogoh saku baju seragamnya dengan sangat hati-hati, seolah sedang mengambil sebuah harta karun yang sangat rapuh.
+Sinar matahari itu membakar pelataran lapangan semen yang memantulkan hawa panas menyengat ke udara.
 
-Ujung jemari kecilnya menarik keluar selembar foto berwarna berukuran saku yang telah dilapisi plastik bening.
+Lonceng madrasah tanda jeda jam istirahat siang dan persiapan sholat Zhuhur baru saja berdentang dua kali di ujung koridor sekolah: *Teng...
 
-Farhan mendekatkan foto itu ke depan wajahnya. Di dalam bingkai foto sederhana itu, tampak wajah seorang wanita berkerudung biru muda dengan senyum yang sangat teduh: Ibu Fatimah. Di samping ibunya, berdiri sang ayah, Pak Rahmat, yang merangkul pundak Farhan kecil di depan teras rumah mereka yang dihiasi pot-pot tanaman bunga melati.
+Teng...*
 
-Air mata Farhan seketika merebak kembali, mengaburkan pandangannya yang lelah.
+Ratusan santri putra berhamburan keluar dari ruang-ruang kelas mereka.
 
-Memori dua pekan lalu berputar kembali di benak Farhan dengan sangat jernih, seperti baru terjadi kemarin sore.
+Sebagian besar anak berlarian riang menuju kantin untuk membeli es sirup.
 
-Hari itu adalah hari pendaftaran santri baru. Mobil tua ayahnya terparkir di bawah pohon trembesi rindang di halaman depan pesantren. Ribuan orang tua dan calon santri memadati komplek pondok dengan berbagai macam tas, koper, dan ember plastik.
+Sebagian lainnya bermain kejar-kejaran dan sepak bola plastik di lapangan terbuka tanpa memedulikan panas terik matahari yang membakar kulit.
 
-Farhan masih ingat betapa eratnya genggaman tangan ibunya saat mereka berjalan menuju meja registrasi. Tangan Ibu Fatimah terasa begitu lembut, hangat, dan selalu memberikan rasa aman yang tak tergantikan sejak ia masih bayi.
+Namun di sudut paling belakang lapangan di samping pagar pembatas kebun jati, seorang bocah kurus memilih untuk menyendiri menjauh dari keramaian kawan-kawannya.
 
-"Farhan, anak shaleh kebanggaan Ibu," bisik Ibu Fatimah saat mereka duduk di bangku taman depan asrama sebelum jam kepulangan orang tua tiba. "Ibu dan Ayah mengantarmu ke pondok ini bukan karena Ibu tidak sayang padamu, Nak. Ibu ingin Farhan tumbuh menjadi ksatria ilmu yang hafal Al-Qur'an, berakhlak mulia, dan bisa mendoakan Ibu dan Ayah kelak di akhirat."
+Itu adalah Farhan.
 
-Farhan saat itu hanya bisa mengangguk pelan sembari menyandarkan kepalanya di pangkuan ibunya, menghirup aroma wangi bedak bayi dan minyak wangi mawar yang selalu menjadi ciri khas ibunya.
+Farhan duduk bersila seorang diri di atas tonjolan akar pohon kersen tua yang rindang dan berbuah lebat di sudut pagar.
 
-Namun ketika saat perpisahan itu benar-benar tiba, keberanian Farhan runtuh seketika.
+Dedaunan pohon kersen yang rimbun membentuk kubah kanopi alami yang meneduhkan.
 
-Ketika kaca jendela mobil ayahnya perlahan terangkat naik dan mesin mobil mulai menderu, Farhan melihat ibunya mendekap dadanya yang terguncang hebat menahan tangis di balik kaca mobil yang gelap. Farhan berlari mengejar mobil itu beberapa langkah sembari melambaikan tangannya, sebelum akhirnya seorang pembina asrama memegang pundaknya dan memintanya kembali ke barisan santri baru.
+Dedaunan itu menyaring sengatan terik matahari siang menjadi bercak-bercak bayangan lembut di atas tanah merah berbatu.
 
-Sejak detik itu, dunia Farhan berubah total.
+Suara riuh teriakan dan tawa anak-anak yang bermain bola di lapangan terdengar lamat-lamat dari kejauhan.
 
-Di rumah, jika Farhan merasa takut atau sedih, ada pelukan hangat ibunya yang siap meredakan segala gundah. Ada masakan sayur sup hangat yang disiapkan ibunya setiap sore. Ada dongeng-dongeng para nabi yang dibacakan ayahnya sebelum ia terlelap tidur.
+Suara riuh tersebut terasa sangat kontras dengan kesunyian batin yang membungkus jiwa Farhan di bawah naungan pohon tersebut.
 
-Di sini, di asrama yang dingin ini, tidak ada pelukan ibu. Tidak ada usapan lembut di dahi saat ia demam. Yang ada hanyalah derap langkah sepatu yang tergesa-gesa, antrean kamar mandi yang panjang, dan ancaman hukuman jika melakukan kesalahan kecil.
+Farhan meletakkan tas kain madrasahnya yang kusam di atas akar pohon di sampingnya.
 
-Farhan mengusap permukaan plastik foto ibunya dengan ibu jarinya.
+Dengan gerakan tangan yang sangat perlahan dan penuh kehati-hatian, Farhan merogoh saku dada sebelah kiri baju seragam putihnya yang kancing atasnya telah copot.
 
-Secara psikologis, apa yang dialami Farhan adalah manifestasi klasik dari **Kecemasan Perpisahan Masa Remaja Awal (*Early Adolescent Separation Anxiety*)**. Anak-anak yang memiliki kelekatan aman (*Secure Attachment*) dengan orang tuanya akan mengalami fase disorientasi emosional yang intens ketika tiba-tiba dipisahkan dari figur pelindung utamanya tanpa proses transisi yang suportif.
+Jari-jemari Farhan yang kurus menyentuh permukaan benda paling berharga, paling suci, dan paling dijaganya di dalam seluruh perjalanan hidupnya di perantauan: **Foto Ibu Fatimah dan Pak Rahmat**.
 
-Bagi Farhan, ketiadaan figur pengganti orang tua (*In Loco Parentis*) di asrama membuat jiwanya merasa terombang-ambing di tengah samudra yang ganas tanpa jangkar penyelamat.
+Farhan mengeluarkan selembar foto berukuran kartu pos mini tersebut dari dalam sakunya dengan kedua belah tangannya.
 
-"Ibu... Farhan rindu sekali..." bisik anak itu dengan air mata yang menetes membasahi permukaan plastik foto tersebut. "Farhan ingin mendengar suara Ibu... Farhan ingin dipeluk Ibu..."
+Ujung-ujung kertas foto itu telah memutih, terlipat kusut, dan sedikit koyak di bagian sudutnya.
 
-Farhan mendekapkan foto itu ke dadanya yang berdenyut ngilu. Di tengah heningnya waktu istirahat siang di Kamar Al-Farabi, doa seorang anak yang rindu rumah melantun lirih, merindukan pelukan hangat yang mampu menyembuhkan luka dan ketakutan di dalam jiwanya.
+Kertas foto itu mulai rusak karena setiap hari dikeluarkan, digenggam erat, dan dibasahi oleh air mata kerinduan Farhan di saat-saat sepi.
+
+Farhan mengusap permukaan foto tersebut dengan ujung ibu jari tangannya yang gemetar halus.
+
+Di dalam foto berlatar belakang teras rumah panggung kayu sederhana di sebuah desa pedalaman Jawa Timur itu, tampak sosok Ibu Fatimah.
+
+Ibu Fatimah adalah seorang wanita bersahaja berusia tiga puluh lima tahun mengenakan jilbab biru tua sederhana yang terbuat dari kain paris murah.
+
+Wajah Ibu Fatimah dalam foto itu memancarkan keteduhan, kelembutan, dan ketulusan cinta seorang ibu yang tak terbatas oleh sekat jarak dan waktu.
+
+Senyuman manis di bibir ibunya tampak begitu hidup di mata Farhan.
+
+Senyuman itu seolah sedang menatap langsung ke dalam bola matanya dan memanggil namanya dengan penuh kasih sayang: *"Farhan, anak lanang kebanggaan Ibu..."*
+
+Di samping Ibu Fatimah, berdiri sang ayah—Pak Rahmat—mengenakan kemeja batik cokelat usang yang kerahnya mulai pudar warnanya.
+
+Pak Rahmat tersenyum bangga sembari meletakkan tangan kanannya yang berotot dan kapalan bekas mencangkul sawah di atas pundak Farhan kecil yang berdiri di depannya mengenakan seragam merah putih sekolah dasar.
+
+Farhan mendekatkan foto kecil itu ke depan dadanya yang berdegup sunyi dan bergetar.
+
+Farhan teringat aroma wangi minyak kelapa buatan tangan dan bedak dingin yang selalu menempel di pipi Ibu Fatimah setiap kali ibunya merengkuhnya dalam pelukan hangat di waktu senja.
+
+Farhan teringat hangatnya semangkuk sayur lodeh terong dan tempe goreng renyah yang selalu terhidang di atas meja makan bambu sederhana mereka setiap kali Farhan pulang dari sekolah dasar di desa.
+
+Farhan teringat bagaimana Ibu Fatimah selalu duduk berjaga di samping ranjangnya saat Farhan kecil sedang demam tinggi.
+
+Ibunya mengompres dahinya dengan handuk basah semalaman suntuk tanpa pernah mengeluh lelah sedetik pun.
+
+Dan Farhan teringat bisikan doa yang selalu diucapkan ibunya setiap malam selepas sholat Maghrib berjamaah di surau desa: *"Ya Allah, berkahilah Farhan anak hamba...
+
+Jadikanlah ia anak yang shalih, penyejuk hati orang tua, dan pembawa mahkota kemuliaan di akhirat kelak..."*
+
+Setitik air mata bening yang hangat jatuh menetes dari sudut mata Farhan.
+
+Tetesan air mata itu mendarat tepat di atas gambar wajah Ibu Fatimah di atas lembaran kertas foto tersebut.
+
+Farhan terkesiap kaget, buru-buru mengusap tetesan air mata itu dengan ujung lengan bajunya dengan sangat hati-hati.
+
+Farhan diliputi kepanikan bahwa cairan air mata itu akan melunturkan tinta gambar wajah ibunya yang tercinta.
+
+"Ibu..." bisik Farhan dengan suara yang tercekat di tenggorokan, nafasnya bergetar menahan tangis yang hendak meledak di dalam dadanya.
+
+"Farhan kangen sekali sama Ibu...
+
+Farhan rindu masakan Ibu...
+
+Farhan rindu mendengar suara lembut Ibu di rumah..."
+
+Farhan mendekatkan kertas foto itu ke bibirnya yang bergetar.
+
+Farhan mencium lembut gambar wajah Ibu Fatimah dan Pak Rahmat berulang-ulang kali dengan segenap kerinduan jiwa yang membara di dalam dadanya.
+
+"Bu...
+
+Di sini sangat sepi...
+
+Di sini orang-orang marah terus...
+
+Di sini tidak ada yang memeluk Farhan saat Farhan sakit dan menangis..." rintih Farhan dalam bisikan lirih yang tenggelam di bawah desau angin pohon kersen.
+
+"Farhan ingin pulang ke desa, Bu...
+
+Farhan tidak apa-apa membantu Bapak mencangkul di sawah atau menggembala kambing, asalkan Farhan bisa tidur di samping Ibu setiap malam..."
+
+Di atas dahan pohon kersen di atas kepalanya, seekor burung gereja kecil bertengger sembari berkicau riang melompati ranting-ranting daun yang bergoyang.
+
+Farhan menatap burung kecil itu dengan tatapan mata yang basah dan kosong.
+
+Farhan merasa dirinya laksana anak burung yang terlempar keluar dari sarangnya sebelum sayapnya mampu mengepak sempurna, terombang-ambing di tengah hutan belantara yang keras dan penuh ancaman.
+
+Di kejauhan, suara lonceng madrasah kembali berdentang nyaring tiga kali: *Teng...
+
+Teng...
+
+Teng...*
+
+Suara itu menandakan waktu sholat Zhuhur berjamaah tinggal lima belas menit lagi dan seluruh santri diwajibkan telah berada di serambi masjid.
+
+Farhan menghela nafas panjang yang terasa bergetar dan perih di dalam dadanya.
+
+Farhan mencium foto Ibu Fatimah dan Pak Rahmat untuk terakhir kalinya siang itu dengan penuh takzim dan cinta.
+
+Dengan sangat hati-hati, Farhan melipat kembali foto berharga itu, menyelipkannya ke dalam saku dada kirinya—tepat di atas detak jantungnya yang berdegup kencang.
+
+Farhan mengusap sisa-sisa air mata di pipinya dengan kedua telapak tangannya yang kurus.
+
+Farhan merapikan letak peci hitamnya yang miring, lalu bangkit berdiri dari akar pohon kersen.
+
+Farhan melangkah keluar dari naungan teduh pohon kersen menuju serambi masjid di bawah sengatan terik matahari siang, membawa kerinduan suci di dadanya yang menjadi satu-satunya lentera penguat jiwanya untuk bertahan hidup di perantauan pesantren.

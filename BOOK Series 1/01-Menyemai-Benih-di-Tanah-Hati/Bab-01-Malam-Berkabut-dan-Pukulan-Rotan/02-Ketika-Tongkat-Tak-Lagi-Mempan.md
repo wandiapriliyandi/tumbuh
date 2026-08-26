@@ -1,69 +1,161 @@
 # Sub-Bab 1.2: Ketika Tongkat Tak Lagi Mempan
 
-Malam berikutnya, selepas sholat Isya, keheningan di kantor pengasuhan asrama putra terasa begitu menekan. Cahaya lampu neon panjang yang mulai temaram berkedip-kedip tak beraturan, memantulkan bayangan muram di atas dinding tembok yang catnya mulai mengelupas.
+Sore hari pukul 17.00 di lapangan tengah komplek asrama putra Pesantren Darul Adab.
 
-Ustadz Salman duduk terpekur di balik meja kerja kayunya yang penuh goresan. Kedua sikunya bertumpu di atas meja, menopang kepalanya yang berdenyut hebat. Di hadapannya terbentang "Buku Catatan Pelanggaran Santri" bersampul hitam legam yang sudah lusuh di bagian sudutnya.
+Sinar matahari senja perlahan merayap turun, membias kemerahan di balik puncak-puncak perbukitan kapur yang mengelilingi lembah pesantren.
 
-Salman membalik halaman buku itu dengan jari yang gemetar karena amarah yang bercampur frustrasi. Di lembaran kertas bergaris itu, deretan tinta merah berjejer rapat seperti barisan semut: *"Kamar Al-Kindi - 4 santri kabur jajan di warung belakang", "Kamar Al-Farabi - Faisal dan Ihsan berkelahi merusak lemari", "Kamar Ibnu Sina - 6 santri tertidur saat halaqah Al-Qur'an"*.
+Cahaya tembaga itu menyiram atap-atap seng dan genting asrama dengan warna temaram yang muram dan mencekam.
 
-"Kenapa anak-anak ini semakin hari semakin bebal?" gumam Salman dengan gigi terkatup rapat. "Padahal sanksi sudah dilipatgandakan. Pekan lalu sudah digundul kepalanya, kemarin sudah disuruh lari keliling lapangan tiga puluh kali sambil memegang telinga. Tapi mengapa mereka bukannya jera, malah semakin lihai mencari celah untuk melanggar?"
+Debu tanah liat kering beterbangan di udara setiap kali hembusan angin kencang bertiup melintasi lapangan semen yang mulai retak-retak.
 
-Salman meraih rotan kuning yang tersandar di samping mejanya. Ia menatap bilah rotan itu dengan tatapan nanar. Ujung rotan itu sudah sedikit retak karena terlalu sering disabetkan ke lantai atau dipukulkan ke betis santri yang terlambat.
+Suasana di sekitar lapangan tampak sepi dan tegang.
 
-Bagi Salman, rotan itu awalnya adalah simbol ketegasan dan wibawa. Namun malam ini, untuk pertama kalinya dalam kariernya sebagai pembina asrama, rotan itu terasa begitu hampa dan tak berdaya. Ia menyadari sebuah kenyataan pahit yang selama ini ia sangkal: tongkat di tangannya telah kehilangan tuahnya.
+Hanya terdengar suara gemercik air kran yang menetes lambat dari deretan kamar mandi di sudut barat dan desau angin yang menggesek dahan pohon beringin tua.
 
-Suara langkah sandal bakiak kayu yang beradu dengan lantai teras membuyarkan lamunan Salman. Suara itu begitu pelan, teratur, dan membawa ketenangan yang aneh.
+Di tengah lapangan semen yang berdebu itu, Ustadz Salman berdiri tegak laksana tugu batu.
 
-Pintu kantor pengasuhan yang setengah terbuka berderit pelan saat didorong dari luar. Salman mendongak dan seketika berdiri tegak dengan takzim saat mengenali sosok sepuh yang melangkah masuk ke ruangan itu.
+Postur tubuhnya yang tinggi kekar dibalut baju koko putih dan sarung hitam yang terikat kencang.
 
-"Kyai Hasyim..." bisik Salman dengan suara serak seraya menundukkan badannya dalam-dalam.
+Di tangan kanannya, rotan kuning mengkilap berdiameter dua sentimeter dengan panjang satu meter digenggamnya erat-erat.
 
-Kyai Hasyim, pengasuh utama Pesantren Darul Adab yang telah berusia hampir enam puluh tahun, melangkah masuk dengan senyuman yang teduh. Jubah putihnya berkibar ringan tertiup angin malam, memancarkan wangi minyak kayu gaharu yang menenangkan jiwa. Di tangan kanannya, Kiai memegang sebatang tongkat jalan kayu jati berukir sederhana, sementara tangan kirinya membawa sebuah nampan kecil berisi dua cangkir teh serai hangat.
+Tekanan jari-jemari Salman begitu kuat hingga buku-buku jemarinya tampak memutih.
 
-"Duduklah, Salman," dawuh Kyai Hasyim dengan suara bas yang lembut namun penuh wibawa. "Jangan tegang begitu di hadapan orang tuamu sendiri."
+Di hadapan Salman, berbaris sepuluh orang santri kelas delapan madrasah tsanawiyah.
 
-Kyai Hasyim meletakkan cangkir teh serai di atas meja kerja Salman, tepat di samping buku hitam catatan pelanggaran yang masih terbuka. Kiai menarik sebuah kursi kayu sederhana dan duduk berhadapan dengan musyrif mudanya itu.
+Kesepuluh anak itu baru saja tertangkap basah sedang bersembunyi di balik dinding gudang asrama tua untuk menghindari giliran piket menyapu halaman sore.
 
-Salman menundukkan kepalanya, tak berani menatap langsung mata sang kiai yang jernih. Ada rasa bersalah dan malu yang berkecamuk di dalam dadanya. Ia merasa telah gagal menjaga ketertiban asrama yang diamanahkan kepadanya.
+Keringat dingin bercampur debu mengalir membasahi dahi dan pelipis para santri tersebut.
 
-Kyai Hasyim memandang buku catatan hitam yang dipenuhi tinta merah itu dengan tatapan penuh belas kasih. Kiai menghela nafas panjang, lalu menyentuh punggung tangan Salman yang dingin.
+Namun berbeda dengan anak-anak baru kelas tujuh yang masih mudah menangis ketakutan saat dibentak, di wajah sebagian santri kelas delapan ini mulai tampak gurat-gurat perubahan psikologis yang sangat mengkhawatirkan.
 
-"Salman, anakku," Kiai memulai pembicaraan dengan nada yang begitu meresap ke dalam dada. "Sudah berapa lama kamu memegang rotan kuning itu untuk mendisiplinkan santri-santrimu?"
+Sorot mata mereka tidak lagi memancarkan ketakutan anak-anak; sorot mata mereka tampak dingin, hampa, dan datar.
 
-"Sudah hampir dua tahun, Kyai... sejak saya diangkat menjadi pembina asrama putra," jawab Salman lirih.
+Rahang mereka mengeras rapat, dan bibir mereka terkatup tanpa memperlihatkan sedikit pun ekspresi penyesalan atau rasa bersalah.
 
-"Dan selama dua tahun itu, apakah kamu melihat asrama kita semakin dipenuhi oleh cahaya ketenangan dan adab yang ikhlas, ataukah kamu justru melihat tembok kebencian dan kepalsuan yang semakin menebal di antara kamu dan santri-santrimu?"
+Di barisan paling depan, berdiri seorang santri berusia empat belas tahun bertubuh gempal bernama Faisal.
 
-Pertanyaan sang kiai menghujam tepat di ulu hati Salman. Salman terdiam seribu bahasa. Ia ingin membela diri, ingin mengatakan bahwa anak-anak zaman sekarang memang keras kepala, namun lidahnya mendadak kelu. Ia tahu persis jawaban sejujurnya di dalam lubuk hatinya yang terdalam: asrama putra tidak semakin tertib; asrama itu hanya menjadi semakin dingin, mencekam, dan penuh intrik kemunafikan.
+Faisal adalah santri yang terkenal memiliki watak keras kepala dan keberanian nekat di antara kawan-kawan seangkatannya.
 
-Kyai Hasyim meraih cangkir tehnya, menyesapnya perlahan, lalu kembali memandang Salman dengan sorot mata yang penuh kehangatan kebapakan.
+Faisal berdiri dengan kedua kaki yang sedikit terbuka kokoh, menatap lurus ke arah kancing baju koko Ustadz Salman.
 
-"Kamu sedang berusaha memaku sebatang kayu lapuk dengan palu godam yang semakin besar, Salman," ucap Kiai mengumpamakan. "Ketika kayunya mulai retak, kamu tidak berhenti untuk memeriksa mengapa kayu itu rapuh, melainkan kamu justru mengayunkan palumu lebih keras lagi. Akhirnya, kayunya bukan menjadi lurus, melainkan hancur berkeping-keping menjadi serpihan tak berguna."
+Faisal secara terang-terangan menolak untuk menundukkan kepalanya ke tanah sebagaimana yang biasa dilakukan oleh anak-anak baru saat menghadapi pembina asrama.
 
-"Tapi Kyai..." Salman memberanikan diri bersuara, matanya menatap sang kiai dengan pandangan memohon petunjuk. "Bagaimana mungkin kita menegakkan kedisiplinan ratusan santri laki-laki yang sedang berada di usia puber jika kita tidak membuat mereka takut pada hukuman? Bukankah rasa takut adalah cara tercepat menghentikan kekacauan?"
+"Kalian pikir kalian ini siapa?!" bentak Salman dengan suara menggelegar yang memecah kesunyian senja.
 
-Kyai Hasyim tersenyum tipis, sebuah senyuman yang menyiratkan kedalaman samudra ilmu dan pengalaman hidup yang panjang.
+Urat-urat di leher Salman menonjol tegang di balik kerah baju putihnya, wajahnya memerah menahan amarah yang meluap.
 
-"Ketakutan memang bisa mengendalikan raga secara instan, Salman. Tapi ketakutan tidak akan pernah mampu menyentuh dan mengubah kalbu (*al-qalb*). Ketika kamu mendidik santri dengan ancaman rotan dan bentakan amarah, kamu sebenarnya tidak sedang melatih mereka menjadi orang yang bertakwa; kamu hanya sedang melatih mereka menjadi aktor yang pandai bersandiwara."
+"Kalian pikir kalian bisa mempermainkan aturan asrama sesuka hati kalian?!" teriak Salman lagi, melangkah maju mendekati barisan santri.
 
-Kiai mengetuk pelan meja kayu itu dengan ujung jarinya. "Saat kamu berada di dekat mereka, mereka akan menunduk patuh dan bergerak cepat seperti kilat. Namun itu semua palsu, Salman. Begitu punggungmu berbalik, atau begitu mereka melangkah keluar dari gerbang pondok ini, mereka akan langsung melampiaskan segala dendam dan syahwat yang selama ini mereka pendam di bawah tekanan rasa takut."
+"Sudah berulang kali Ustadz tegaskan di setiap apel!
 
-Salman mendengarkan setiap kalimat sang kiai dengan nafas yang tertahan. Kata-kata itu menelanjangi segala kepalsuan metode yang selama ini ia banggakan.
+Waktu sore adalah waktu untuk piket kebersihan dan persiapan sholat Maghrib berjamaah!
 
-"Ibnu Khaldun dalam kitab agungnya, *Muqaddimah*, telah menuliskan peringatan keras ini berabad-abad yang lalu," lanjut Kyai Hasyim mengutip khazanah Turats klasik:
+Bukan waktu untuk nongkrong, merokok daun kering, atau bermain lempar batu di belakang gudang!"
 
-$$\text{مَنْ كَانَ مَرْبَاهُ بِالْعَسْفِ وَالْقَهْرِ، حَمَلَهُ ذَلِكَ عَلَى الْكَذِبِ وَالْخُبْثِ، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ فِيهِ}$$
+Salman mengayunkan ujung rotan kuningnya di udara tepat di depan hidung Faisal.
 
-> *"Barangsiapa yang pola pengasuhan dan pendidikannya dibangun di atas kekerasan dan pemaksaan, niscaya hal itu akan mendorong jiwa anak pada kebohongan dan kepalsuan batin, serta merusak hakikat kemanusiaan di dalam dirinya."*
+*Wuuusss!*
 
-"Lihatlah kata-kata Ibnu Khaldun itu, Salman," dawuh Kiai lirih. "Kekerasan dalam pendidikan tidak pernah melahirkan ksatria adab; ia hanya melahirkan generasi pembohong, penakut di hadapan penguasa, namun kejam dan menindas saat mereka sendiri memegang kekuasaan."
+Suara desingan angin yang tajam membelah udara di antara wajah Faisal dan ujung rotan tersebut, hanya berjarak kurang dari tiga sentimeter dari ujung hidungnya.
 
-Salman tertunduk lesu. Kedua matanya basah oleh air mata penyesalan yang tak terbendung. Rotan kuning di tangannya kini terasa seperti bara api yang membakar telapak tangannya sendiri.
+Namun Faisal tidak bergeming sedikit pun.
 
-"Lalu... apa yang harus saya lakukan, Kyai?" tanya Salman dengan suara bergetar, membiarkan air matanya menetes di atas meja. "Jika tongkat ini tak lagi boleh digunakan, dengan apa lagi saya harus memimpin dan membimbing anak-anak asrama ini?"
+Bahu anak itu tidak bergetar.
 
-Kyai Hasyim meletakkan tangannya di atas pundak Salman, menyalurkan ketenangan yang luar biasa ke dalam raga pemuda yang sedang terluka batinnya itu.
+Kelopak matanya bahkan tidak berkedip sedetik pun saat bilah rotan itu melintas kencang di depan matanya.
 
-"Tinggalkan tongkat itu, Salman. Mulai malam ini, kita akan meletakkan dasar arsitektur baru bagi asrama kita. Kita akan membimbing santri-santri kita dengan **cahaya fitrah, keteladanan qudwah yang nyata, dan sistem disiplin restoratif yang memulihkan, bukan meremukkan**. Besok fajar, temuilah aku di serambi masjid. Kita akan memulai lembaran baru peradaban pesantren ini bersama-sama."
+Sikap dingin, tenang, dan tanpa rasa takut yang diperagakan Faisal seketika membuat darah Ustadz Salman mendidih hingga ke ubun-ubun.
 
-Malam itu, di kantor pengasuhan yang remang, tongkat rotan kuning itu diletakkan di sudut lantai. Tongkat itu telah patah wibawanya, memberi jalan bagi fajar baru yang akan segera menyingsing di langit Pesantren Darul Adab.
+Salman merasa harga diri dan wibawa kekuasaannya sebagai kepala keamanan asrama sedang diinjak-injak secara terang-terangan di hadapan sembilan santri lainnya.
+
+"Buka telapak tangan kananmu, Faisal!" perintah Salman dengan nada suara rendah yang bergetar penuh ancaman.
+
+Faisal menghela nafas pendek melalui hidungnya, lalu mengulurkan tangan kanannya ke depan secara perlahan tanpa ragu-ragu.
+
+Kulit telapak tangan Faisal tampak menebal, kapalan, dan bergaris-garis hitam—tanda bahwa tangan anak itu telah berkali-kali menerima sabetan rotan pembina sejak setahun yang lalu.
+
+Salman mengangkat rotan kuningnya tinggi-tinggi ke atas kepala, melengkungkan tubuhnya ke belakang untuk menghimpun seluruh tenaga dari pundak dan otot lengannya yang kekar.
+
+*PLAKKK!*
+
+Suara lecutan rotan menghantam telapak tangan kanan Faisal dengan kekuatan penuh, menghasilkan suara benturan keras yang bergema memantul di dinding-dinding gedung asrama.
+
+Sebuah garis merah pekat seketika tercetak melintang di permukaan telapak tangan Faisal.
+
+Rasa sakit yang membakar dan menyengat menjalar seketika melalui saraf-saraf sensorik tangan anak itu, menembus pergelangan tangan hingga ke otot sikunya.
+
+Namun pemandangan yang terjadi sepersekian detik setelahnya membuat Ustadz Salman tertegun kaget di dalam hatinya.
+
+Faisal tidak menjerit.
+
+Faisal tidak meringis kesakitan.
+
+Faisal tidak menarik tangannya ke belakang atau melompat-lompat seperti yang biasa dilakukan santri baru.
+
+Anak empat belas tahun itu hanya menghembuskan nafas dingin melalui mulutnya, lalu mengangkat pandangan matanya dan menatap lurus ke dalam bola mata Ustadz Salman.
+
+Tatapan mata Faisal sangat dingin, hampa, menantang, dan tanpa rasa takut sedikit pun.
+
+Di dalam bola mata anak itu, rasa hormat telah mati, rasa takut telah lenyap, dan yang tersisa hanyalah benteng pertahanan psikologis yang telah membeku menjadi kebal (*Psychological Desensitization & Habituation*).
+
+Secara psikologi perilaku dan neurobiologi, ketika sebuah stimulus fisik yang menyakitkan (hukuman rotan) diberikan secara berulang-ulang tanpa disertai pembinaan relasi yang bermakna, otak manusia secara adaptif akan mematikan kepekaan emosionalnya terhadap rasa sakit tersebut.
+
+Amigdala anak tidak lagi merespons ancaman fisik sebagai sesuatu yang menakutkan, melainkan menganggapnya sebagai 'ongkos murah' yang lumrah untuk sebuah pelanggaran aturan.
+
+Faisal menarik tangannya perlahan, meniup telapak tangannya yang memerah sekali saja dengan gerakan santai, lalu memasukkan kedua tangannya ke dalam saku sarungnya.
+
+Faisal tidak mengucapkan sepatah kata pun.
+
+Namun seluruh bahasa tubuhnya mengirimkan pesan bisu yang sangat menghancurkan wibawa Salman: *"Hanya begini saja kemampuan rotanmu, Ustadz?
+
+Aku sudah kebal."*
+
+Ustadz Salman terpaku kaku di tempatnya berdiri.
+
+Bilah rotan kuning di tangannya mendadak terasa sangat berat, dingin, dan tidak berguna laksana sebatang kayu lapuk yang patah.
+
+Untuk pertama kalinya dalam sejarah tiga tahun masa pengabdiannya di pesantren, Salman merasakan sebuah kekalahan moral yang teramat telak dan memalukan.
+
+Senjata pamungkas yang selama ini ia agung-agungkan sebagai instrumen penegak disiplin santri kini telah tumpul dan kehilangan taringnya sama sekali.
+
+Tongkat rotan itu tidak lagi mempan.
+
+Tongkat itu tidak lagi mampu menembus lapisan baja kebebalan hati anak-anak yang telah terbiasa disakiti.
+
+Di barisan belakang, sembilan santri lainnya yang menyaksikan ketegaran Faisal perlahan mulai mengangkat kepala mereka.
+
+Rasa takut masal yang tadinya mencekam mereka seketika luntur, digantikan oleh rasa keberanian semu dan kekebalan yang sama.
+
+Mereka menyadari bahwa hukuman terburuk yang bisa diberikan oleh pembina keamanan asrama hanyalah rasa panas di telapak tangan selama sepuluh menit, dan setelah itu mereka bisa kembali melanggar aturan yang sama esok hari tanpa beban penyesalan.
+
+Salman menarik nafas panjang yang terasa membakar rongga dadanya.
+
+Keringat dingin mulai membasahi punggung bajunya sendiri.
+
+Tangannya yang memegang rotan mulai gemetar halus karena rasa frustrasi yang tak terkatakan.
+
+Salman menyadari sebuah kenyataan pahit: bahwa kekerasan fisik memiliki hukum titik jenuh yang mematikan (*Law of Diminishing Marginal Returns*).
+
+Semakin sering tongkat kekerasan diayunkan, efek kepatuhannya akan semakin merosot tajam hingga mencapai titik nol, meninggalkan generasi santri yang berhati batu, sinis terhadap nilai agama, dan membenci para pendidiknya.
+
+"Bubar kalian semua!
+
+Langsung ambil wudhu dan masuk ke shaf masjid!" bentak Salman dengan suara yang telah kehilangan daya magis wibawanya.
+
+Kesepuluh santri kelas delapan itu membalikkan badan dengan santai dan melangkah meninggalkan lapangan tanpa rasa tergesa-gesa.
+
+Beberapa di antara mereka bahkan saling menyenggol bahu sembari tersenyum sinis dan berbisik-bisik di belakang punggung Salman.
+
+Salman berdiri seorang diri di tengah lapangan semen yang berdebu di bawah langit senja yang semakin menggelap.
+
+Salman menundukkan kepalanya, menatap nanar sebilah rotan kuning di tangannya yang kini tampak sangat menyedihkan dan tak berdaya.
+
+Di dalam keheningan senja lembah pesantren yang sepi, nurani Salman kembali menjerit dengan rasa perih yang teramat sangat:
+
+*"Wahai Salman...
+
+Apakah dengan cara yang gagal seperti ini engkau hendak mencetak kader ulama pewaris nabi dan pemimpin peradaban Islam?"*
+
+Salman tidak mampu menjawab jeritan nuraninya sendiri.
+
+Ia hanya bisa berdiri membisu, menatap bayangan tubuhnya yang memanjang di atas tanah lapangan, merasa tersesat dan hancur di ujung jalan buntu metodologi pengasuhan kekerasan yang telah bangkrut.

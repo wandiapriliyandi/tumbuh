@@ -1,19 +1,19 @@
 # Sub-Bab 7.2: Mengendalikan Gejolak Amarah
 
-Hari Kamis adalah hari puasa sunnah bagi santri Pesantren Darul Adab. Di siang hari yang terik, rasa haus dan lapar menguji kesabaran para santri.
+Di lapangan olahraga sore hari, sebuah insiden benturan keras terjadi saat permainan sepak bola: seorang santri lawan tak sengaja menginjak kaki Faisal hingga sarung olahraganya kotor terkena lumpur.
 
-Saat antre wudhu sebelum sholat Dzuhur, seorang santri junior tidak sengaja menyenggol lengan Faisal hingga gayungnya terlepas.
+Faisal sempat merasakan lonjakan amarah yang membakar dadanya; kedua tangannya mengepal keras dan giginya terkatup rapat.
 
-Di masa lalu, Faisal pasti akan langsung membalas dengan bentakan kasar atau dorongan fisik.
+Namun Faisal mengingat ajaran Rasulullah SAW:
 
-Namun siang ini, Faisal yang sedang berpuasa menarik nafas dalam-dalam. Ia mengingat sabda Rasulullah SAW:
+$$\text{لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ}$$
 
-$$\text{إِذَا كَانَ يَوْمُ صَوْمِ أَحَدِكُمْ فَلَا يَرْفُثْ وَلَا يَصْخَبْ، فَإِنْ سَابَّهُ أَحَدٌ أَوْ قَاتَلَهُ فَلْيَقُلْ: إِنِّي امْرُؤٌ صَائِمٌ}$$
+> *"Bukanlah orang yang kuat itu yang jago bergulat, melainkan orang yang kuat adalah yang mampu mengendalikan dirinya saat marah."* (HR. Al-Bukhari dan Muslim)
 
-> *"Apabila salah seorang di antara kalian sedang berpuasa, janganlah ia berkata kotor dan janganlah ia berteriak gaduh. Jika ada orang lain yang mencela atau mengajaknya berkelahi, hendaklah ia berkata: 'Sesungguhnya aku sedang berpuasa'."* (HR. Al-Bukhari)
+Faisal menarik nafas dalam-dalam, mengendurkan kepalan tangannya, lalu tersenyum sembari mengulurkan tangan membantu santri yang menabraknya untuk bangkit berdiri:
 
-Faisal tersenyum ramah kepada adik kelasnya itu. "Tidak apa-apa, Dik. Hati-hati ya, lantainya agak licin."
+"Tidak apa-apa, Akhi. Kita lanjut main lagi ya!"
 
-Adik kelas itu menunduk takzim seraya meminta maaf.
+Melihat respon yang begitu mulia dan pemaaf tersebut, seluruh santri di lapangan bertepuk tangan kagum.
 
-Ustadz Salman yang melihat pemandangan itu dari kejauhan tersenyum haru. Faisal telah membuktikan bahwa dirinya bukan lagi budak dari amarahnya, melainkan seorang ksatria nurani yang mampu menaklukkan gejolak emosi di dadanya dengan kematangan iman dan adab Nabawi.
+Kemampuan menahan amarah di saat mampu membalas adalah puncak kekuatan moral seorang mujahid sejati yang telah menundukkan egonya di hadapan perintah Allah.

@@ -1,17 +1,29 @@
 # Sub-Bab 1.1: Menemukan Mutiara Salimul Aqidah
 
-Malam bertabur bintang di serambi masjid komplek asrama putra Pesantren Darul Adab. Angin sejuk bertiup semilir menerpa wajah-wajah santri yang sedang duduk melingkar di hadapan Kyai Hasyim.
+Pukul 20.00 malam di aula serambi masjid Pesantren Darul Adab. Di bawah pendar lampu gantung kristal yang temaram dan semilir angin malam pegunungan, Kyai Hasyim duduk bersila di hadapan ratusan santri putra.
 
-Kiai sedang mengajarkan bintang pertama dari Sepuluh Muwashafat Karakter Nabawi: **Salimul Aqidah (Akidah yang Bersih dan Lurus)**.
+Di hadapannya, Kiai membuka pengajian kitab tauhid klasik *Matan Jauharatut Tauhid*.
 
-"Anak-anakku," dawuh Kyai Hasyim dengan suara syahdu yang merasuk ke kalbu, "akidah yang lurus bukanlah sekadar hafalan bait-bait ilmu kalam tentang sifat dua puluh. Akidah yang lurus adalah **kesadaran batin yang hidup bahwa Allah SWT senantiasa menatapmu, menjagamu, dan mencintaimu di mana pun kamu berada (*Muraqabatullah*)**."
+Malam ini adalah malam pembukaan pembahasan bintang karakter pertama: **Mutiara Tauhid yang Bersih & Murni (*Salīmul 'Aqīdah / Prophetic Monotheism*)**.
 
-Farhan yang duduk di shaf depan mendengarkan dengan penuh penghayatan.
+Kyai Hasyim mengangkat sebuah lentera kaca minyak tanah yang menyala terang di hadapan para santri.
 
-Kiai menjelaskan bahwa ketika seorang santri memiliki *Salimul Aqidah*:
-* Ia tidak lagi takut pada gelapnya malam atau cerita hantu di sudut kamar mandi, karena ia tahu bahwa perlindungan Allah jauh lebih agung dari segala makhluk.
-* Ia berbuat jujur dan tidak mencuri barang temannya bukan karena takut pada mata musyrif, melainkan karena ia tahu bahwa Allah Maha Melihat (*Al-Bashir*) dan Maha Mendengar (*As-Sami'*).
+"Anak-anakku para calon ksatria peradaban..." buka Kyai Hasyim dengan suara bas yang dalam dan menembus kalbu, "apakah kalian melihat nyala api di dalam lentera ini?"
 
-"Tauhid adalah akar dari seluruh kemuliaan akhlak," pungkas Kiai. "Ketika akarmu menghunjam kokoh pada keyakinan bahwa hanya Allah satu-satunya tempat bergantung (*Ash-Shamad*), maka jiwamu akan merdeka dari segala bentuk ketakutan semu dan kepura-puraan."
+Farhan, Faisal, Zaid, dan seluruh santri mengangguk serempak dengan tatapan terpaku.
 
-Farhan menghembuskan nafas lega. Di dalam dadanya, mutiara tauhid yang murni mulai bersinar terang, memberinya keberanian dan ketenteraman batin yang hakiki.
+"Nyala api ini adalah perumpamaan tauhid di dalam dadamu," tutur Kiai dengan penuh kelembutan. "Ketika kaca lentera ini bersih dari jelaga hitam khurafat, tahayyul, dan ketergantungan pada selain Allah, maka cahayanya akan menerangi seluruh jalan hidupmu di kegelapan zaman."
+
+Kiai mengutip bait agung Syaikh Ibrahim Al-Laqqani:
+
+$$\text{فَكُلُّ مَنْ كُلِّفَ شَرْعًا وَجَبَا ... عَلَيْهِ أَنْ يَعْرِفَ مَا قَدْ وَجَبَا}$$
+
+$$\text{لِلَّهِ وَالْجَائِزَ وَالْمَمْتَنِعَا ... وَمِثْلَ ذَا لِرُسْلِهِ فَاسْتَمِعَا}$$
+
+Kiai menatap mata Farhan yang duduk di barisan shaf depan:
+
+"Tauhid yang lurus bukanlah sekadar hafalan dua puluh sifat wajib bagi Allah di atas kertas ujian, melainkan keyakinan mutlak yang mengakar kuat di dalam sanubari: bahwa tiada yang memberi manfaat, tiada yang menimpakan mudarat, tiada yang menghidupkan, dan tiada yang mematikan selain Allah SWT semata (*Lā Khāliq, Lā Rāziq, Lā Mudabbir Illallāh*)."
+
+Farhan meresapi dawuh Kiai tersebut dengan dada yang bergetar haru.
+
+Ia menyadari bahwa fondasi utama seluruh bangunan akhlak dan prestasinya di pesantren adalah tauhid yang murni—sebuah keyakinan baja yang membebaskan jiwanya dari perbudakan materi dan pujian manusia.

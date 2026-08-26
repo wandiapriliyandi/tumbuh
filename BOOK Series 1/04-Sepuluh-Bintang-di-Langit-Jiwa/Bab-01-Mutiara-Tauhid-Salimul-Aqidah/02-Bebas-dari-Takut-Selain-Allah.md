@@ -1,19 +1,25 @@
 # Sub-Bab 1.2: Bebas dari Takut Selain Allah
 
-Malam itu pukul 02.30 dini hari. Suasana komplek asrama putra sangat sunyi. Farhan terbangun karena ingin buang air kecil ke kamar mandi di ujung koridor lantai satu.
+Ujian tauhid nyata bagi seorang santri baru sering kali hadir di saat-saat sepi di malam hari.
 
-Di masa lalu, Farhan selalu ketakutan setengah mati jika harus berjalan sendirian ke kamar mandi di tengah malam karena mitos-mitos horor yang sering ditakut-takutkan oleh senior asrama lama.
+Malam itu pukul 23.30, komplek asrama putra Pesantren Darul Adab sedang mengalami pemadaman listrik total akibat pohon tumbang yang menimpa kabel induk PLN di luar bukit.
 
-Namun malam ini, Farhan mengingat nasihat Kyai Hasyim tentang tauhid sejati.
+Suasana asrama seketika gelap gulita. Angin malam bertiup kencang membuat dahan-dahan pohon beringin tua di samping asrama bergoyang menimbulkan suara gemerisik yang menakutkan.
 
-Sebelum melangkah keluar dari Kamar Al-Farabi, Farhan melafalkan doa perlindungan yang diajarkan Rasulullah SAW:
+Danang yang hendak pergi ke kamar mandi lantai bawah tampak berdiri gemetar di ambang pintu kamar, ketakutan oleh cerita-cerita tahayyul tentang 'hantu lorong gelap' yang sempat ia dengar dari kawan-kawan lamanya di kampung.
 
-$$\text{أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ}$$
+Farhan yang melihat sahabatnya ketakutan segera bangkit dari kasurnya, menyalakan senter kecilnya, lalu menggenggam tangan Danang dengan hangat.
 
-> *"Aku berlindung dengan kalimat-kalimat Allah yang sempurna dari segala kejahatan makhluk yang Dia ciptakan."*
+"Danang..." bisik Farhan lembut, "mari kita jalan bersama ke kamar mandi."
 
-Farhan melangkah menyusuri koridor yang diterangi lampu temaram dengan langkah tenang dan dada lapang. Tidak ada lagi rasa panik atau bayang-bayang ketakutan gaib yang menyiksa pikirannya.
+Di sepanjang lorong yang gelap gulita, Farhan merangkul pundak Danang dan membacakan ayat Kursi dengan nada tartil yang menenangkan:
 
-Ia menyadari bahwa seorang mukmin yang bertauhid lurus hanya takut kepada Allah dan tidak pernah tunduk pada ilusi ketakutan makhluk.
+$$\text{اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ}$$
 
-Farhan berwudhu dengan air sumur yang dingin, lalu kembali ke kamarnya dengan senyuman kemenangan. Kemerdekaan jiwa dari rasa takut selain Allah adalah buah manis pertama dari pohon *Salimul Aqidah* yang telah berakar kuat di dalam dadanya.
+Farhan menatap mata Danang sembari tersenyum di balik temaram cahaya senter:
+
+"Danang, ingat pesan Kyai Hasyim tadi malam: kita adalah ksatria tauhid (*Salimul Aqidah*). Tidak ada makhluk halus atau kegelapan apa pun yang mampu mencelakai kita tanpa izin Allah. Yang berhak kita takuti hanyalah murka Allah, dan Allah selalu bersama hamba-Nya yang berdzikir."
+
+Mendengar kata-kata tauhid yang kokoh dari sahabatnya, detak jantung Danang perlahan kembali stabil dan rasa takutnya seketika mencair.
+
+Kemerdekaan jiwa dari rasa takut kepada selain Allah (*Fearlessness of Created Beings*) adalah buah manis dari akidah yang lurus, melahirkan santri-santri yang berjiwa ksatria pemberani dan tidak pernah gentar menghadapi badai kegelapan zaman.

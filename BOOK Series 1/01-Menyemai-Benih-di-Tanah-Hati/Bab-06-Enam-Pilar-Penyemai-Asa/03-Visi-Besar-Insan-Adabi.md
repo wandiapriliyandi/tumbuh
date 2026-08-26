@@ -1,23 +1,105 @@
 # Sub-Bab 6.3: Visi Besar Insan Adabi
 
-Selepas pemaparan Ustadz Salman, suasana di dalam aula semakin hidup dengan sesi diskusi dan respon antusias dari para asatidz dan wali kelas madrasah.
+Kyai Hasyim melangkah ke tengah panggung aula ndalem utama Pesantren Darul Adab.
 
-Ustadzah Maryam, salah satu wali kelas teladan di madrasah, mengangkat tangannya dan menyampaikan pandangannya yang sangat tajam.
+Sinar matahari sore mulai membias keemasan melalui jendela kaca patri, menyinari sosok sang mahaguru.
 
-"Assalamu'alaikum warahmatullah. Paparan Ustadz Salman tentang Enam Pilar TUMBUH sungguh membukakan mata kita semua," ujar Maryam dengan nada penuh apresiasi. "Selama ini kami di madrasah sering merasa frustrasi ketika melihat santri yang cerdas dalam ujian akademik, namun di asrama bersikap kasar kepada temannya atau tidak mandiri mengurus pakaiannya sendiri."
+Kiai menatap seluruh hadirin dengan pandangan mata yang berbinar penuh cahaya kemuliaan, optimisme, dan keharuan.
 
-Ustadz Burhan, wali kelas kelas delapan putra, ikut mengangguk membenarkan. "Benar sekali apa yang disampaikan Ustadzah Maryam. Selama ini ada jurang pemisah (*dikotomi*) antara apa yang diajarkan guru di ruang kelas madrasah pada jam 07.00–12.00 siang dengan apa yang terjadi di asrama malam hari. Akibatnya, karakter santri terbelah."
+Kiai mengangkat kedua belah tangannya seraya menjelaskan pilar keenam yang menjadi muara akhir dari seluruh proses pendidikan ekosistem TUMBUH: **Hakikat Insan Adabi Paripurna (*The Holistic Islamic Civilizational Human Being*)**.
 
-Kyai Hasyim tersenyum bijak, menyambut baik dialog konstruktif tersebut.
+Kyai Hasyim mengutip pemikiran filosofis agung dari begawan filsafat Islam kontemporer, Prof.
 
-"Inilah mengapa kita membutuhkan visi pemersatu yang melampaui sekat-sekat administratif, anak-anakku," dawuh Kyai Hasyim. "Tujuan akhir dari seluruh kurikulum kelas dan sistem pengasuhan asrama kita adalah satu: **Melahirkan Insan Adabi**."
+Syed Muhammad Naquib Al-Attas, mengenai hakikat adab:
 
-Kiai menguraikan karakteristik profil **Insan Adabi Paripurna** yang menjadi *output* lulusan Pesantren Darul Adab:
-1. **Adab kepada Allah (*Adab ma'allah*)**: Menjadikan ridha Allah sebagai kompas utama seluruh perbuatan, menegakkan sholat dengan thuma'ninah, dan menjauhi maksiat di saat ramai maupun sunyi.
-2. **Adab kepada Diri Sendiri (*Adab ma'an-nafs*)**: Menjaga kebersihan raga, memelihara kesehatan akal dari tontonan sia-sia, dan mampu mengendalikan gejolak emosi amarah.
-3. **Adab kepada Sesama (*Adab ma'al-khalq*)**: Berbakti kepada orang tua, menghormati guru, mengasihi adik kelas, dan tidak pernah merendahkan atau menzalimi orang lain.
-4. **Adab kepada Lingkungan & Alam (*Adab ma'al-biah*)**: Menjaga kerapian kamar 5S, menghemat air dan listrik, serta merawat kelestarian lingkungan hidup.
+$$\text{الْأَدَبُ هُوَ مَعْرِفَةُ وَضْعِ الْأَشْيَاءِ فِي مَوَاضِعِهَا الصَّحِيحَةِ فِي النَّفْسِ وَالْعَالَمِ، وَالْعَمَلُ بِمُقْتَضَى ذَلِكَ الْوَضْعِ بِعَدْلٍ وَحِكْمَةٍ}$$
 
-"Ketika seorang santri memiliki adab yang terpadu seperti ini," tegas Kyai Hasyim, "maka ke mana pun ia melangkah kelak di masa depan—apakah ia menjadi ulama, dokter, insinyur, pengusaha, atau pemimpin bangsa—ia akan selalu memancarkan cahaya kebaikan dan menjadi rahmat bagi semesta alam (*Rahmatan lil 'Alamin*)."
+> *"Adab adalah pengenalan dan pengakuan atas letak yang tepat dan benar bagi segala sesuatu dalam tata susunan wujud dan martabat ciptaan, sehingga melahirkan tindakan yang benar, adil, dan penuh hikmah di dalam diri manusia dan di alam semesta."*
 
-Seluruh asatidz dan musyrif yang hadir di aula malam itu mengangguk takzim. Visi besar Insan Adabi telah menyatukan hati dan langkah mereka dalam satu barisan perjuangan yang kokoh di bawah panji Ekosistem TUMBUH.
+Kyai Hasyim membedah profil agung **Insan Adabi** yang hendak dicetak oleh Pesantren Darul Adab di masa depan:
+
+Insan Adabi bukanlah manusia yang sekadar cerdas otaknya namun kering hatinya dari rasa takut kepada Allah SWT.
+
+Insan Adabi bukanlah manusia yang hafal ribuan bait matan ilmu nahwu namun kasar tutur katanya kepada sesama penuntut ilmu.
+
+Dan Insan Adabi bukanlah manusia yang jago berdebat di podium namun bersikap sombong dan merendahkan martabat orang lain.
+
+Insan Adabi adalah pribadi mukmin yang utuh, seimbang (*Tawazun*), dan paripurna (*Kāmil*).
+
+Insan Adabi memiliki empat dimensi kematangan karakter yang terintegrasi kuat:
+
+Dimensi pertama adalah **Kematangan Tauhid dan Spiritual (*Salimul Aqidah & Shahihul Ibadah*)**.
+
+Insan Adabi menjadikan ridha Allah SWT dan kecintaan yang mendalam kepada Baginda Rasulullah SAW sebagai poros utama dari seluruh niat dan tindakannya.
+
+Ia merasakan kenikmatan dalam sujud tahajjud dan memiliki keikhlasan mutlak dalam beramal tanpa mengharap pujian makhluk.
+
+Dimensi kedua adalah **Kematangan Intelektual dan Hikmah (*Qadirun 'alal Kasbi & Mutsaqqoful Fikr*)**.
+
+Insan Adabi memiliki nalar kritis, kemampuan berpikir logis, dan kecintaan membaca yang sangat tinggi.
+
+Ia menguasai khazanah turats klasik sekaligus mampu membedah sains modern secara kritis tanpa terombang-ambing oleh fitnah pemikiran sekuler.
+
+Dimensi ketiga adalah **Kematangan Emosional dan Karakter (*Matinul Khuluq & Mujahidun Linafsih*)**.
+
+Insan Adabi mampu mengendalikan hawa nafsu amarahnya (*Emotional Self-Regulation*).
+
+Ia memiliki rasa empati yang sangat mendalam kepada penderitaan orang lain.
+
+Ia bersikap teguh memegang prinsip kebenaran dan bersikap lemah lembut dalam memperlakukan orang-orang yang lemah.
+
+Dimensi keempat adalah **Kematangan Sosial dan Pelayanan Umat (*Nafi'un Lighairihi*)**.
+
+Insan Adabi memiliki jiwa kepemimpinan pelayan (*Servant Leadership*).
+
+Ia tanggap terhadap masalah-masalah kemiskinan dan ketidakadilan di masyarakat sekitarnya.
+
+Ia siap mengorbankan waktu, tenaga, dan ilmunya demi kemajuan umat Islam dan kejayaan peradaban manusia.
+
+Kiai menatap seluruh dewan asatidz dan musyrif dengan tatapan yang menggetarkan seluruh rongga kalbu:
+
+"Sahabat-sahabatku para pendidik peradaban yang mulia..."
+
+"Farhan, Faisal, Danang, dan seluruh santri yang sedang belajar di pondok ini adalah calon-calon Insan Adabi yang sedang kita ukir bersama."
+
+"Kita sedang menanam benih-benih peradaban emas di tanah hati mereka yang suci."
+
+"Suatu saat kelak, ketika mereka lulus dari pesantren ini, mereka akan menjadi ulama yang menyejukkan umat."
+
+"Mereka akan menjadi pemimpin yang adil dan amanah."
+
+"Mereka akan menjadi dokter yang berakhlak mulia dan berhati dermawan."
+
+"Mereka akan menjadi ilmuwan yang berhati tasawuf dan berakhlak qur'ani."
+
+"Dan mereka akan menjadi benteng pertahanan Islam yang kokoh dari kegelapan fitnah akhir zaman!"
+
+Kyai Hasyim menutup pidato pembaharuan tersebut dengan memanjatkan doa agung yang khusyuk.
+
+Seluruh asatidz dan musyrif mengaminkan doa tersebut dengan linangan air mata haru yang membasahi janggut dan baju mereka.
+
+Gema takbir dan tekad membahana di aula ndalem Pesantren Darul Adab.
+
+Piagam TUMBUH telah resmi dilahirkan dan ditancapkan kokoh di bumi pesantren.
+
+Piagam ini siap menjadi lentera abadi yang memandu perjalanan mencetak Insan Adabi pengawal masa depan peradaban Islam.
+
+Seluruh asatidz bersalam-salaman dan berpelukan erat, menyatukan tekad untuk melahirkan generasi Insan Adabi yang diridhai Allah SWT.
+
+Kiai Hasyim menghela nafas panjang yang sarat dengan keharuan dan optimisme agung.
+
+Di luar aula, langit senja mulai membias kemerahan di atas kubah masjid.
+
+Para asatidz saling bertatapan dengan tatapan penuh rasa persaudaraan dan tekad perjuangan.
+
+Salman merasakan beban berat di pundaknya kini berubah menjadi sayap-sayap harapan.
+
+Farhan dan kawan-kawannya adalah mutiara masa depan yang sedang diasah dengan cinta.
+
+Visi Insan Adabi telah menjadi kompas penunjuk arah bagi seluruh civitas akademika.
+
+Pesantren Darul Adab melangkah dengan tegap menyongsong fajar kebangkitan umat.
+
+Setiap jiwa bertekad untuk mempersembahkan yang terbaik demi kejayaan Islam.
+
+Majelis pembaharuan di aula ndalem ditutup dengan gema takbir yang membahana.

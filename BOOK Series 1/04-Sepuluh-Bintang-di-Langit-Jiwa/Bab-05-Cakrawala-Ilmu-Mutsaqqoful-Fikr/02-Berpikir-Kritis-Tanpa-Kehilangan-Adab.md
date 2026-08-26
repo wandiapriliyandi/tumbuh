@@ -1,17 +1,17 @@
 # Sub-Bab 5.2: Berpikir Kritis Tanpa Kehilangan Adab
 
-Dalam sesi debat ilmiah santri di aula madrasah, dua kelompok santri kelas sebelas sedang memperdebatkan sudut pandang fiqih tentang akad transaksi keuangan digital.
+Di majelis bahtsul masa'il kelas madrasah aliyah Pesantren Darul Adab, sesi debat ilmiah dan pengujian dalil sedang berlangsung hangat.
 
-Perdebatan berlangsung sangat hangat dan sengit dengan menyodorkan dalil-dalil *Nash*, *Qiyas*, dan *Mashlahah Mursalah*.
+Zaid—santri kelas 12—sedang menyampaikan argumentasi ushul fiqih terkait hukum transaksi ekonomi digital berbasis cryptocurrency.
 
-Namun di tengah perbedaan pendapat yang tajam tersebut, tidak terdengar satu pun suara bernada tinggi, celaan pribadi, atau tatapan mata yang merendahkan lawan bicara.
+Zaid mengemukakan dalil kaidah fiqhiyyah dengan runtut, kritis, dan logis, namun ia menyampaikannya dengan nada suara yang sangat santun, tidak memotong pembicaraan lawan bicara, dan tetap memuliakan pendapat musyrif penguji.
 
-Ketika kelompok pertama selesai memaparkan argumennya, juru bicara kelompok lawan—Zaid—mengawali sanggahannya dengan kalimat adab yang sangat anggun:
+Kyai Hasyim yang memimpin majelis memberikan apresiasi tertinggi:
 
-*"Kami sangat mengagumi ketajaman dalil yang disampaikan oleh sahabat-sahabat kami di kelompok satu. Namun izinkan kami menyodorkan perspektif Maqashid Syari'ah dalam riwayat lain untuk melengkapi khazanah ini..."*
+"Anak-anakku... Berpikir kritis (*Critical Thinking*) adalah karunia akal yang mulia. Namun di pesantren ini, kita memadukan ketajaman nalar kritis dengan **Keindahan Ketawadhuan Adab (*Adab-Infused Intellectualism*)**."
 
-Kyai Hasyim yang duduk di meja dewan juri tersenyum bangga.
+Kiai berpesan:
 
-"Inilah hakikat **Berpikir Kritis Berbalut Adab (*Critical Thinking with Adab*)**," puji Kiai. "Seorang santri yang cerdas mampu membedah kelemahan sebuah argumen dengan pisau logika yang sangat tajam, namun pada saat yang sama ia tetap memeluk pribadi saudaranya dengan sutra kasih sayang dan ketawadhuan yang tulus."
+"Kritislah terhadap argumen, namun tetaplah santun dan memuliakan orang yang berpendapat. Jangan biarkan kecerdasan akalmu melahirkan kesombongan intelektual (*Kibr 'Ilmi*) yang membuatmu meremehkan orang lain."
 
-Budaya dialog kritis yang beradab ini melatih santri menjadi pemimpin masa depan yang berjiwa demokratis, toleran terhadap perbedaan (*Ikhtilaf*), dan senantiasa mencari kebenaran demi kemaslahatan bersama.
+Perpaduan antara kecerdasan kritis dan kerendahan hati adab adalah ciri khas utama ilmuwan muslim sejati yang mengantarkan ilmunya menjadi lentera penerang kebenaran.

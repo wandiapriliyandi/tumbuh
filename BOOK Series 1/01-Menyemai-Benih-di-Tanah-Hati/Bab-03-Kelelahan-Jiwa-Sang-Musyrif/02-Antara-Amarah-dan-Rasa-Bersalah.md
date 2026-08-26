@@ -1,45 +1,111 @@
 # Sub-Bab 3.2: Antara Amarah dan Rasa Bersalah
 
-Dada Ustadz Salman bergemuruh hebat, seperti kawah gunung berapi yang siap memuntahkan lahar panas. Di dalam keheningan ruang piket pengasuhan yang remang, ia tidak bisa menghentikan kilas balik peristiwa demi peristiwa yang telah terjadi selama beberapa pekan terakhir di komplek asrama putra.
+Di dalam keheningan pos jaga asrama putra yang sunyi pada pukul 02.30 dini hari.
 
-Pikiran Salman melayang ke kejadian kemarin sore di depan tangga asrama lantai satu.
+Suara detak jarum jam dinding plastik di atas rak berkas berbunyi nyaring membelah kesunyian: *Tik...
 
-Saat itu, seorang santri baru kelas tujuh yang kelelahan tidak sengaja menabrak ember cucian milik seniornya, menumpahkan air sabun keruh ke seluruh lantai teras. Salman yang baru saja selesai mengajar lima jam di madrasah dengan kepala yang berdenyut pening seketika kehilangan kendali emosinya.
+Tok...
 
-Di hadapan puluhan santri yang sedang berkerumun, Salman membentak bocah kecil itu dengan suara menggelegar: *"Kamu punya mata tidak?! Anak manja seperti kamu memang tidak pantas hidup di pondok ini! Bersihkan lantai ini sekarang juga sampai kering tanpa menggunakan kain pel!"*
+Tik...
 
-Salman masih ingat dengan sangat jelas bagaimana bibir bocah kecil itu bergetar hebat saat mendengar kata-katanya. Anak itu menunduk ketakutan, air matanya membanjiri pipinya sembari membersihkan genangan air sabun menggunakan telapak tangan kecilnya sendiri.
+Tok...*
 
-Saat peristiwa itu terjadi, Salman merasa bahwa tindakan kasarnya adalah bentuk "ketegasan yang diperlukan" demi memberikan pelajaran berharga bagi santri yang ceroboh.
+Setiap detik yang berdentang di dinding terasa laksana ketukan waktu hisab yang mengadili batin Ustadz Salman.
 
-Namun malam ini, ketika api amarahnya telah padam dan ia duduk sendirian di ruang piket, perasaan yang timbul di dadanya bukanlah rasa bangga atas kedisiplinan yang ditegakkannya, melainkan **rasa bersalah yang sangat menyiksa batin (*Moral Injury*)**.
+Sebuah pergolakan batin yang sangat dahsyat sedang berkecamuk di dalam relung dada pemuda berusia dua puluh empat tahun tersebut.
 
-Salman meremas rambutnya kuat-kuat dengan kedua tangannya.
+Pertarungan sengit antara amarah defensif dan rasa bersalah nurani sedang mengoyak jiwanya (*The Agony of Moral Injury & Cognitive Dissonance*).
 
-"Ya Allah... apa yang telah kulakukan pada anak sekecil itu?" rintih Salman dengan suara parau, dadanya terasa nyeri seolah dihantam godam godaan penyesalan.
+Salman membuka laci meja kerjanya yang berderit kusam dan berdebu.
 
-Di dalam psikologi modern, *Moral Injury* adalah luka batin mendalam yang dialami seseorang ketika ia dipaksa oleh sistem, lingkungan, atau kelelahan emosional untuk melakukan tindakan yang bertentangan secara frontal dengan nilai-nilai moral dan kemanusiaan yang ia yakini di dalam lubuk hatinya.
+Dari dalam laci kayu tersebut, Salman mengeluarkan sebuah buku catatan harian pribadi bersampul kulit cokelat tua yang ujung-ujungnya mulai terkelupas dan kusam.
 
-Salman tahu persis bahwa Rasulullah SAW tidak pernah membentak anak kecil seumur hidup beliau. Beliau mendidik Anas bin Malik selama sepuluh tahun tanpa sekali pun berkata *"Mengapa kamu melakukan ini?"* atau *"Mengapa kamu tidak melakukan itu?"*.
+Buku harian itu adalah buku yang ia beli tiga tahun lalu saat hari kelulusannya dari jenjang madrasah aliyah.
 
-Namun mengapa dirinya, yang mengaku sebagai pengikut sunnah Nabi dan pengajar kitab adab, justru memperlakukan anak-anak titipan umat seperti binatang ternak yang harus dipecut dan dihardik setiap hari?
+Buku itu adalah saksi bisu hari pembacaan bai'at pengabdian dirinya sebagai ustadz muda di hadapan Kyai Hasyim.
 
-Pergulatan batin ini menciptakan **disonansi kognitif dan krisis identitas yang parah** di dalam jiwa Salman.
+Salman membuka lembaran pertama buku harian tersebut secara perlahan.
 
-Di satu sisi, struktur sistem pengasuhan tradisional di sekitarnya terus menuntutnya untuk menjadi sosok "pembina yang ditakuti", karena jika pembina bersikap lunak, maka santri dianggap akan menjadi pembangkang dan asrama akan menjadi anarki.
+Di lembaran pertama yang kertasnya mulai menguning dimakan usia, Salman membaca kembali bait-bait tulisan tangan kaligrafinya sendiri.
 
-Di sisi lain, nurani fitrah dan keilmuan agamanya berteriak lantang bahwa apa yang ia lakukan adalah sebuah kezaliman pedagogis yang sedang membunuh fitrah dan karakter anak-anak didiknya secara perlahan.
+Tulisan itu ia tulis dengan tinta hitam penuh semangat dan cita-cita yang membara:
 
-Setiap kali ia mengayunkan rotan kuningnya atau melontarkan hardikan kasar, ada bagian dari jiwanya yang ikut retak dan mati. Salman merasa dirinya sedang berubah menjadi monster yang selama ini paling ia takuti.
+> *"Bismillāhir-Raḥmānir-Raḥīm... Ya Allah, jadikanlah pengabdianku di pesantren ini sebagai jalan khidmah suci... Jadikanlah aku murabbi yang dicintai anak-anak asuhku... Jadikanlah aku pembimbing yang menuntun mereka menuju ridha-Mu dengan kelembutan akhlak dan keteladanan Baginda Nabi Muhammad SAW..."*
 
-Ia teringat sebuah hadits Nabi SAW yang sering ia ajarkan di kelas madrasah:
+Salman tersenyum pahit, sangat pahit, membaca kembali impian suci masa mudanya tersebut.
 
-$$\text{إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ}$$
+Setitik air mata panas menetes dari kelopak mata Salman yang merah dan perih.
 
-> *"Sesungguhnya kelembutan itu tidaklah berada pada sesuatu melainkan ia akan menghiasinya menjadi indah, dan tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan membuatnya menjadi buruk dan hina."* (HR. Muslim)
+Tetesan air mata itu jatuh membasahi tinta tulisan tangannya di atas lembaran kertas buku harian itu hingga buram.
 
-Hadits itu kini terngiang-ngiang di kepalanya seperti cambuk rohani yang menghakimi dirinya sendiri.
+Bagaimana mungkin impian yang begitu mulia, begitu suci, dan begitu tulus kini telah bermutasi menjadi kenyataan kelam yang mengerikan?
 
-Salman menyadari bahwa kelembutan telah lama dicabut dari asrama ini, dan sebagai gantinya, kehinaanlah yang kini menyelimuti setiap sudut bilik kamar dan lorong-lorong asrama putra.
+Bagaimana mungkin pemuda yang bercita-cita menjadi murabbi penyayang kini menjelma menjadi sosok 'monster malam' yang paling ditakuti dan dibenci oleh anak-anak asuhnya sendiri?
 
-Air mata penyesalan menetes dari mata merah pemuda itu, membasahi tumpukan berkas laporan pelanggaran di atas mejanya. Di antara amarah yang membara dan rasa bersalah yang mengoyak dada, Salman merasa jiwanya telah mencapai batas akhir ketahanan. Ia membutuhkan pertolongan, ia membutuhkan sebuah jalan keluar sebelum dirinya hancur binasa oleh siklus kepalsuan ini.
+Salman teringat kembali peristiwa Subuh kemarin di dalam bilik Kamar Al-Farabi.
+
+Salman teringat bagaimana tatapan mata Farhan—bocah kurus kelas tujuh yang malang itu.
+
+Salman teringat saat ujung rotan kuningnya dihantamkan sekeras-kerasnya ke lantai ubin tepat di samping tumit anak tersebut.
+
+Debu semen beterbangan di udara bersama pekikan ketakutan Farhan.
+
+Sorot mata Farhan saat itu bukanlah sorot mata seorang penuntut ilmu yang kagum dan takzim kepada gurunya.
+
+Sorot mata anak itu adalah sorot mata seekor kijang kecil yang ketakutan dan terluka saat diburu oleh serigala lapar di tengah hutan belantara.
+
+Di dalam mata Farhan, terpancar kepedihan, rasa terasing, dan kebencian yang mulai membeku menjadi keputusasaan batin yang sunyi.
+
+Rasa bersalah (*Guilt & Remorse*) yang teramat dalam seketika menghantam ulu hati Salman laksana pukulan godam raksasa yang meremukkan tulang rusuknya.
+
+Salman merasa dadanya sesak dan nafasnya tercekat menahan rasa perih yang teramat sangat.
+
+Namun di sisi lain, suara ego hewani dan dogma pengasuhan feodal masa lalu yang telah tertanam di kepalanya berusaha keras melakukan pembelaan diri (*Defensive Rationalization*).
+
+*"Tapi kalau kamu tidak bersikap keras, Salman, asrama ini akan hancur berantakan!"* bisik suara ego di dalam kepalanya yang membela diri.
+
+*"Anak-anak zaman sekarang itu manja, nakal, dan tidak tahu aturan!"* lanjut bisikan ego tersebut.
+
+*"Kalau tidak diancam dengan rotan dan bentakan keras, mereka tidak akan pernah bangun sholat Subuh tepat waktu!"*
+
+*"Disiplin pesantren dari zaman dulu memang membutuhkan ketegasan fisik dan rasa takut agar mereka patuh!"*
+
+Perpecahan kognitif (*Cognitive Dissonance*) yang tajam terjadi di dalam kepalanya.
+
+Pertarungan antara ayat-ayat Al-Qur'an dan hadits kasih sayang yang ia hafal di luar kepala dengan perilaku kekerasan fisik yang ia lakukan setiap hari dengan tangannya sendiri menciptakan siksaan batin yang luar biasa pedih (*Moral Injury*).
+
+Salman merasa jiwanya terbelah menjadi dua kepribadian yang saling bertentangan:
+
+Di satu sisi ia adalah seorang penuntut ilmu yang mencintai sunnah Nabi Muhammad SAW.
+
+Namun di sisi lain ia adalah algojo malam yang melanggar prinsip-prinsip dasar kemuliaan akhlak kenabian setiap kali ia mengayunkan tongkatnya.
+
+Salman menengadahkan kepalanya menatap langit-langit pos jaga yang berdebu dan temaram.
+
+Salman memegangi dadanya yang berdenyut ngilu dan nyeri.
+
+Air mata penyesalan mengalir semakin deras membasahi kedua pipinya yang tirus dan basah.
+
+"Ya Allah..." rintih Salman dengan suara lirih yang parau dan bergetar hebat di dalam keheningan malam yang sunyi.
+
+"Apakah caraku mendidik selama ini benar-benar salah?"
+
+"Mengapa semakin sering aku mengayunkan rotan, anak-anak ini justru semakin menjauh dari ketaatan yang tulus kepada-Mu?"
+
+"Mengapa semakin keras aku membentak, hati mereka justru semakin membatu, dingin, dan membenci rumah-Mu?"
+
+"Ampunilah hamba-Mu yang tersesat ini, ya Rabb...
+
+Hamba merasa lelah...
+
+Jiwa hamba hancur..."
+
+Salman menutup wajahnya dengan kedua telapak tangannya yang basah oleh air mata taubat.
+
+Untuk pertama kalinya dalam sejarah tiga tahun masa pengabdiannya di pesantren, Ustadz Salman meruntuhkan seluruh tembok arogansi kekuasaannya.
+
+Salman mengakui kerapuhan, kelemahan, dan kebuntuan metodologinya di hadapan Allah SWT di sepertiga malam terakhir yang sunyi dan dingin.
+
+Salman bersujud di atas lantai pos jaga semen yang dingin, menumpahkan seluruh air mata penyesalannya di hadapan Sang Khaliq.
+
+Sujud penyesalan di pos jaga malam itu menjadi titik awal pembersihan jiwa seorang murabbi yang siap menyambut hidayah pembaharuan peradaban.

@@ -1,25 +1,109 @@
 # Sub-Bab 8.2: Lahirnya Logbook Kebaikan
 
-Keesokan paginya di kantor pengasuhan asrama putra, suasana ruangan telah bertransformasi total. Meja kerja yang tadinya dipenuhi tumpukan berkas pelanggaran kusam kini telah berganti dengan sebuah tablet digital layar sentuh dan papan tulis kaca transparan yang bersih.
+Setelah lembaran-lembaran buku hitam masa lalu hangus terbakar menjadi abu di dalam drum besi pembakaran.
 
-Ustadz Salman dan Ustadz Ridwan memperkenalkan sebuah instrumen baru yang revolusioner: **Logbook Kebaikan Santri (*Positive Behavior Tracking Logbook*)**.
+Kyai Hasyim bangkit berdiri dari kursi duduknya di barisan depan.
 
-"Salman," ujar Ridwan seraya menunjukkan antarmuka aplikasi digital tersebut, "jika selama ini mata pengasuhan kita dilatih untuk mencari-cari kesalahan santri (*Deficit-Based Hunting*), maka mulai hari ini, kita melatih mata dan hati kita untuk **menangkap basah kebaikan santri (*Catching Them Being Good*)**."
+Langkah kaki sang guru besar tampak sangat tenang, anggun, dan memancarkan cahaya wibawa kenabian.
 
-Ridwan menguraikan prinsip operasional **Rasio Apresiasi Emas 4:1 (*The Golden 4:1 Praise-to-Correction Ratio*)**:
-* Untuk setiap satu koreksi lembut yang diberikan kepada seorang santri, musyrif wajib memberikan minimal empat penguatan dan apresiasi positif atas perilaku baik yang dilakukannya.
-* Kebaikan yang dicatat bukanlah hal-hal spektakuler semata, melainkan tindakan-tindakan kecil harian: merapikan sandal yang berserakan di depan masjid, membantu kawan yang batuk mengambilkan air minum, membuang sampah kecil ke tempatnya, atau tersenyum saat berpapasan di lorong.
+Kiai melangkah maju ke tengah lapangan mendekati Ustadz Salman yang masih berdiri di samping drum api.
 
-Salman mulai mempraktikkan instrumen baru tersebut siang itu.
+Di kedua belah tangannya, Kyai Hasyim membawa sebuah buku baru berukuran tebal bersampul kain beludru hijau toska yang sangat indah.
 
-Saat berkeliling di lorong asrama lantai satu, Salman melihat Farhan sedang memungut selembar kertas pembungkus roti yang tercecer di lantai dan memasukkannya ke tempat sampah.
+Di bagian sampul depan buku beludru hijau tersebut, terukir lambang kaligrafi emas bertuliskan: **Buku Logbook Apresiasi & Catatan Kebaikan Santri (*The Pastoral Virtue Logbook of TUMBUH*)**.
 
-Salman melangkah mendekati Farhan. Kali ini, langkah kaki Salman tidak lagi membuat Farhan gemetar ketakutan.
+Kyai Hasyim mengangkat buku hijau toska tersebut ke hadapan seluruh santri dan asatidz.
 
-Salman tersenyum hangat, menepuk pundak Farhan dengan lembut, lalu membuka tablet digitalnya.
+Kiai menyerahkannya dengan penuh rasa takzim ke dalam kedua telapak tangan Ustadz Salman.
 
-"Farhan," ucap Salman dengan suara yang tulus, "Ustadz melihatmu memungut sampah di lorong tadi tanpa disuruh siapa pun. Itu adalah perwujudan adab yang sangat mulia (*Imathatut Adza 'anit Thariq*). Ustadz mencatat kebaikanmu ini di Logbook Kebaikan, dan semoga Allah membalasmu dengan pahala yang berlipat ganda."
+Kyai Hasyim memegang pundak Salman seraya bersabda dengan suara yang menggetarkan sanubari:
 
-Farhan tertegun, matanya berbinar-binar dengan rona merah bahagia di pipinya. Ini pertama kalinya dalam hidupnya di pesantren namanya dicatat bukan karena berbuat salah, melainkan karena sebuah kebaikan kecil yang ia lakukan dengan tulus.
+"Salman, muridku..." dawuh Kiai dengan nada suara yang penuh kehangatan.
 
-Secara psikologis, penguatan positif (*Positive Reinforcement*) yang konsisten ini memicu pelepasan neurotransmiter **Dopamin** di otak Farhan, memperkuat jalur saraf kebiasaan baik (*Habit Loop*) dan menumbuhkan motivasi intrinsik untuk terus berbuat kebajikan di setiap hembusan nafasnya.
+"Malaikat di sebelah kananmu mencatat setiap butir amal kebaikan hamba-hamba Allah dengan tinta emas yang abadi di Lauhul Mahfuzh."
+
+"Mulai malam ini, jadikanlah buku baru bersampul hijau ini sebagai cermin dari tugas mulia malaikat pencatat kebaikan."
+
+"Tutuplah matamu dari mencari-cari aib dan kesalahan santrimu."
+
+"Dan bukalah selebar-lebarnya mata hatimu untuk melihat, mencatat, dan mengapresiasi setiap kebaikan kecil yang mereka lakukan di setiap detik kehidupan asrama!"
+
+Kiai menjelaskan struktur instrumen pencatatan di dalam **Buku Logbook Kebaikan** yang berbasis pada sistem ilmiah **Positive Behavioral Interventions and Supports (SW-PBIS Multi-Tier)**:
+
+Kolom pertama adalah **Milestone Karakter & Kemandirian Adab**.
+
+Di kolom ini, musyrif mencatat setiap capaian bertahap santri dalam mempraktikkan sepuluh kapasitas fitrah dan kemandirian hidup asrama:
+
+Ketika seorang santri berhasil bangun fajar sendiri tanpa dibangunkan oleh musyrif.
+
+Ketika santri mampu melipat selimut dan menata lemarinya rapi sesuai standar 5S.
+
+Ketika santri disiplin meletakkan sandalnya tepat di atas garis kuning kamar mandi.
+
+Kolom kedua adalah **Aksi Nyata Ukhuwah & Kepedulian Sosial**.
+
+Di kolom ini, musyrif mencatat setiap inisiatif spontan santri dalam menolong sesama saudaranya:
+
+Membantu meminjamkan sabun kepada kawan yang kehabisan saat antrean mandi.
+
+Menemani kawan sekamar yang sedang sakit demam di ranjang asrama.
+
+Membantu menyapu lantai serambi masjid tanpa disuruh oleh pengasuh.
+
+Kolom ketiga adalah **Catatan Refleksi & Pendampingan Penuh Kasih (*Pastoral Counseling Notes*)**.
+
+Jika ada santri yang mengalami kesulitan emosional atau melakukan kekhilafan perilaku, kolom ini tidak digunakan untuk mencatat vonis hukuman atau skor minus.
+
+Kolom ini digunakan oleh musyrif dan wali kelas untuk merumuskan rencana pendampingan suportif (*Supportive Behavior Intervention Plan*):
+
+Sesi dialog hati ke hati (*Check-In / Check-Out - CICO Tier 2*).
+
+Bimbingan pemulihan hubungan (*Restorative Restitution*).
+
+Dan doa khusus yang dipanjatkan musyrif di sepertiga malam untuk santri tersebut.
+
+Farhan menatap buku bersampul hijau toska di tangan Ustadz Salman dengan mata yang berbinar-binar penuh sukacita.
+
+Farhan merasa bahwa mulai malam ini, setiap usaha kecilnya untuk berbuat baik akan dihargai dan dicintai oleh para gurunya.
+
+Lahirnya Buku Logbook Kebaikan ini menandai transformasi kultural paling revolusioner di Pesantren Darul Adab.
+
+Pesantren telah beralih dari budaya pengintaian kesalahan (*Deficit & Punishment-Oriented Culture*) menuju budaya penyemaian kebaikan dan apresiasi fitrah (*Strength-Based & Growth-Oriented Culture*).
+
+Ustadz Salman memeluk erat buku logbook hijau tersebut di dadanya, berjanji untuk menjaganya sebagai amanah suci pencatat amal kebaikan santri.
+
+Salman membuka lembaran pertama Buku Logbook Kebaikan dengan jemari yang bergetar takzim.
+
+Kertas putih bersih bergaris emas di dalamnya siap diisi dengan jutaan catatan amal shalih.
+
+Kiai Hasyim menatap para musyrif dengan tatapan penuh kepercayaan dan kasih sayang.
+
+Para pembina asrama bertekad menjadi saksi-saksi kebaikan bagi anak-anak asuh mereka.
+
+Farhan tersenyum menatap buku hijau toska itu dari barisan shaf santri kelas tujuh.
+
+Danang di sampingnya ikut tersenyum lebar, merasakan semangat baru untuk berbuat baik.
+
+Sistem SW-PBIS telah resmi bersemi di tanah asrama Pesantren Darul Adab.
+
+Apresiasi positif menjadi bahasa cinta baru yang dituturkan di setiap sudut pondok.
+
+Malaikat di langit mencatat peristiwa agung ini sebagai amal jariyah yang abadi.
+
+Buku hijau toska itu dipeluk erat oleh Salman sebagai lambang amanah tarbiyah baru.
+
+Seluruh santri bertepuk tangan riang menyambut lahirnya lembaran kebaikan tersebut.
+
+Malam di lapangan tengah asrama menjadi malam paling bersejarah bagi peradaban Darul Adab.
+
+Ustadz Salman memeluk buku logbook hijau itu dengan penuh keharuan di dada.
+
+Di sekeliling lapangan, para santri saling berpandangan dengan senyuman cerah di wajah.
+
+Buku catatan kebaikan ini menjadi saksi dari setiap langkah perjuangan santri dalam beradab.
+
+Malaikat di langit menyambut gembira perubahan arah tarbiyah di Pesantren Darul Adab.
+
+Fajar baru yang penuh kasih sayang telah resmi menyingsing di ufuk timur pesantren.
+
+Pohon kebaikan yang disemai malam ini akan berbuah manis di masa depan kelak.

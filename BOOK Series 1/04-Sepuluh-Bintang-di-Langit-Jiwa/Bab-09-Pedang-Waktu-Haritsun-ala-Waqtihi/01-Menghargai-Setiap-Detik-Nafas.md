@@ -1,20 +1,19 @@
 # Sub-Bab 9.1: Menghargai Setiap Detik Nafas
 
-Pukul 11.45 siang. Sepuluh menit sebelum adzan Dzuhur berkumandang, Farhan dan kawan-kawan sekamarnya telah selesai berwudhu dan duduk di shaf pertama masjid sembari membaca mushaf Al-Qur'an masing-masing.
+Pukul 12.45 siang di serambi masjid utama Pesantren Darul Adab. Di sela-sela waktu antara adzan Zhuhur dan iqamah sholat berjamaah, sebagian orang mungkin mengobrol santai tanpa faedah.
 
-Mereka mengamalkan bintang kesembilan: **Haritsun 'ala Waqtihi (Sangat Menjaga dan Menghargai Waktu)**.
+Namun Farhan duduk bersila di barisan shaf pertama, membuka mushaf saku Al-Qur'an, dan memuraja'ah lima ayat hafalan barunya dengan khusyuk.
 
-Imam Hasan Al-Bashri rahimahullah pernah berpesan dengan untaian kata yang sangat menyentak:
+Bintang karakter kesembilan: **Penjaga Waktu yang Sangat Teliti (*Ḥarītsun 'alā Waqtihi / Time Stewardship & Vigilance*)** memandu setiap detik nafas hidupnya.
 
-$$\text{يَا ابْنَ آدَمَ، إِنَّمَا أَنْتَ أَيَّامٌ، كُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكَ}$$
+Farhan teringat kalam hikmah agung Imam Syafi'i rahimahullah:
 
-> *"Wahai anak Adam, sesungguhnya hakikat dirimu hanyalah kumpulan hari demi hari. Setiap kali satu hari berlalu, maka hilanglah sebagian dari dirimu."*
+$$\text{الْوَقْتُ كَالسَّيْفِ، إِنْ لَمْ تَقْطَعْهُ قَطَعَكَ، وَنَفْسُكَ إِنْ لَمْ تَشْغَلْهَا بِالْحَقِّ شَغَلَتْكَ بِالْبَاطِلِ}$$
 
-Ustadz Salman menjelaskan bahwa waktu adalah modal terbesar yang diberikan Allah kepada seorang penuntut ilmu.
+> *"Waktu laksana sebilah pedang; jika engkau tidak menebasnya (dengan amal shalih), maka dialah yang akan menebasmu (dalam kelalaian). Dan jiwamu, jika tidak engkau sibukkan dengan kebenaran, niscaya ia akan menyibukkanmu dengan kebatilan."*
 
-Santri yang menjaga waktunya:
-* Hadir di masjid lima menit sebelum adzan berkumandang untuk meraih keutamaan sholat di shaf pertama dan doa di antara adzan dan iqamah.
-* Hadir di ruang kelas tepat waktu sebelum guru melangkahkan kaki ke dalam kelas.
-* Menyelesaikan tugas dan hafalan tepat pada waktunya tanpa pernah menunda-nunda.
+Bagi Farhan, setiap detik waktu yang berlalu di dunia adalah modal investasi abadi yang tidak akan pernah kembali lagi.
 
-Farhan membalik halaman mushafnya, melantunkan ayat-ayat suci dengan tartil. Baginya, setiap detik di pesantren adalah mutiara berharga yang tidak boleh disia-siakan untuk hal-hal yang tidak mendatangkan ridha Allah SWT.
+Ia mengisi waktu-waktu jeda (*Pockets of Time*) dengan dzikir, tilawah, membaca buku ilmiah, atau membantu kawan sekamar yang membutuhkan.
+
+Menghargai waktu melahirkan pribadi yang berdisiplin baja dan selalu bergegas menjemput ridha Allah di setiap kesempatan hidup.

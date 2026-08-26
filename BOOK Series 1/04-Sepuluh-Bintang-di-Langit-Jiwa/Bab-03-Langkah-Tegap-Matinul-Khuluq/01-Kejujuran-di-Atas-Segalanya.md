@@ -1,21 +1,31 @@
 # Sub-Bab 3.1: Kejujuran di Atas Segalanya
 
-Di ruang kelas madrasah saat jeda istirahat siang, sebuah dompet kain berwarna hitam tertinggal di atas meja barisan depan.
+Pukul 14.00 siang di koridor samping gedung perpustakaan Pesantren Darul Adab.
 
-Farhan yang sedang berjalan keluar kelas melihat dompet tersebut. Tanpa ragu-ragu sedetik pun, dan tanpa membuka isi uang di dalamnya, Farhan mengambil dompet itu dan langsung membawanya ke ruang kantor Ustadz Burhan.
+Farhan sedang berjalan menuju kamar asrama ketika kakinya tak sengaja menyenggol sebuah dompet kulit cokelat tebal yang tergeletak di bawah pot bunga palem.
 
-"Assalamu'alaikum, Ustadz Burhan. Saya menemukan dompet ini tertinggal di meja depan kelas," lapor Farhan sembari menyerahkan dompet tersebut dengan kedua tangannya.
+Farhan berjongkok dan memungut dompet tersebut. Di dalamnya, terselip uang tunai lembaran seratus ribu rupiah bernilai ratusan ribu rupiah beserta kartu tanda pengenal milik salah seorang wali santri yang berkunjung kemarin sore.
 
-Burhan menerima dompet itu dan memeriksa kartu identitas di dalamnya: ternyata dompet itu milik seorang guru tamu yang baru saja mengisi seminar di madrasah.
+Di lorong yang sepi itu, tidak ada seorang pun yang melihat. Tidak ada kamera pengawas di sudut tersebut.
 
-Burhan menatap Farhan dengan senyuman bangga dan rasa haru yang mendalam.
+Nafsu manusiawi sempat berbisik lirih: *"Ambillah uang itu sedikit untuk jajan di koperasi..."*
 
-"Masya Allah, Farhan!" puji Burhan seraya menepuk pundak anak asuhnya itu. "Kamu baru saja mengamalkan bintang ketiga: **Matinul Khuluq (Akhlak yang Kokoh dan Terpuji)**, khususnya dalam dimensi **Kejujuran Mutlak (*Ash-Shidq wal Amanah*)**."
+Namun cahaya bintang karakter ketiga: **Akhlak yang Kokoh & Tak Tergoyahkan (*Matīnul Khuluq / Unshakable Prophetic Integrity*)** seketika bersinar terang di dalam dada Farhan.
 
-Burhan mengutip sabda Rasulullah SAW:
+Farhan mengingat firman Allah SWT:
 
-$$\text{عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ}$$
+$$\text{يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَكُونُوا مَعَ الصَّادِقِينَ}$$
 
-> *"Hendaklah kalian senantiasa berlaku jujur, karena sesungguhnya kejujuran itu menuntun kepada kebaikan, dan kebaikan itu menuntun menuju surga."* (HR. Al-Bukhari & Muslim)
+> *"Wahai orang-orang yang beriman! Bertakwalah kepada Allah, dan hendaklah kalian bersama orang-orang yang jujur!"* (QS. At-Taubah: 119)
 
-Farhan tersenyum bahagia. Kejujuran yang ia tunjukkan bukan karena ingin mendapatkan hadiah atau pujian manusia, melainkan karena mutiara akhlak mulia telah menjadi bagian tak terpisahkan dari kepribadian dirinya sebagai santri Pesantren Darul Adab.
+Tanpa ragu sedetik pun, Farhan menutup dompet tersebut, memegang erat dengan kedua tangannya, lalu berlari kencang menuju kantor pengasuhan pusat.
+
+Farhan menyerahkan dompet tersebut secara utuh ke tangan Ustadz Salman.
+
+"Ustadz, saya menemukan dompet ini di dekat perpustakaan. Mohon diserahkan kembali kepada pemiliknya," ucap Farhan dengan nafas terengah-engah namun dengan sorot mata yang sangat jernih dan jujur.
+
+Ustadz Salman memeriksa isi dompet tersebut, lalu memeluk Farhan dengan rasa haru yang luar biasa.
+
+"Jazakallahu khairan, Farhan ksatria sejati! Kejujuranmu hari ini adalah mutiara akhlak yang nilainya jauh lebih berharga daripada seluruh emas di dunia."
+
+Integritas moral di saat sepi (*Integrity in Solitude*) adalah mahkota karakter seorang santri adabi yang telah tertempa oleh cahaya iman dan ketakwaan.
