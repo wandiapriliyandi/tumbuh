@@ -19,9 +19,9 @@ flowchart TD
         
         Guru["<b>WALI KELAS & MUSYRIF (FASILITATOR NETRAL)</b><br/>Memvalidasi data faktual logbook, menengahi dialog apresiatif, & menyelaraskan komitmen rumah-asrama"]
 
-        SantriPresenter <-->|Presentasi & Refleksi| Ortu
-        Ortu <-->|Kolaborasi Home-School| Guru
-        Guru <-->|Bimbingan Kasih Sayang| SantriPresenter
+        SantriPresenter <-->|"Presentasi & Refleksi"| Ortu
+        Ortu <-->|"Kolaborasi Home-School"| Guru
+        Guru <-->|"Bimbingan Kasih Sayang"| SantriPresenter
     end
 ```
 

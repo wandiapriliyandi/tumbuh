@@ -13,11 +13,11 @@ Ekosistem TUMBUH memutus rantai miskomunikasi ini melalui penerapan **Protokol D
 ```mermaid
 flowchart LR
     subgraph Pagi["DAILY HANDOVER 1 (07:00 - 07:15 PAGI)"]
-        A1["Koordinator Musyrif Asrama"] -->|Serahkan Data Kesehatan, Emosi, & Logbook Malam| B1["Koordinator Guru Madrasah"]
+        A1["Koordinator Musyrif Asrama"] -->|"Serahkan Data Kesehatan, Emosi, & Logbook Malam"| B1["Koordinator Guru Madrasah"]
     end
 
     subgraph Sore["DAILY HANDOVER 2 (16:00 - 16:15 SORE)"]
-        B2["Koordinator Guru Madrasah"] -->|Serahkan Data KBM Siang, Catatan Khusus, & Tugas PR| A2["Koordinator Musyrif Asrama"]
+        B2["Koordinator Guru Madrasah"] -->|"Serahkan Data KBM Siang, Catatan Khusus, & Tugas PR"| A2["Koordinator Musyrif Asrama"]
     end
 ```
 

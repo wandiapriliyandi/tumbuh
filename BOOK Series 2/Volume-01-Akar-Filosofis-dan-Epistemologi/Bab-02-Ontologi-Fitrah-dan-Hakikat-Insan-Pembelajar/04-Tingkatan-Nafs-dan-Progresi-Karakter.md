@@ -14,7 +14,7 @@ graph TD
     
     N3["<b>3. NAFS MUTHMA'INNAH (QS. Al-Fajr: 27-28)</b><br/>• Ketenangan batin, adab otomatis, & cinta kebaikan lillahi ta'ala.<br/>• Regulasi diri mandiri & menjadi teladan bagi sesama.<br/>• Berperan sebagai penggerak & mentor sebaya (Jenjang J4)."]
 
-    N1 ==>|Evolusi Bimbingan & Tazkiyah| N2 ==>|Internalisasi Nilai & Qudwah| N3
+    N1 ==>|"Evolusi Bimbingan & Tazkiyah"| N2 ==>|"Internalisasi Nilai & Qudwah"| N3
 ```
 
 Memahami ketiga tingkatan nafs ini sangat krusial bagi seluruh pengasuh pesantren. Kesalahan terbesar pembina asrama konvensional adalah **menuntut santri yang masih berada di level *Nafs Ammarah* (fase pubertas awal dengan dorongan impulsif tinggi) untuk seketika berperilaku layaknya orang tua di level *Nafs Muthma'innah***. Ketika santri gagal memenuhi ekspektasi instan tersebut, pengasuh lekas marah dan menghukumnya secara berlebihan.

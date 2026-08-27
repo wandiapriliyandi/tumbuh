@@ -35,8 +35,8 @@ flowchart TD
         J1C["Santri J1-C<br/>(Adaptasi Emosi)"]
     end
 
-    Senior ==>|Bimbingan Kasih Sayang & Keteladanan| AdikAsuh
-    Senior -.->|Laporan Kemajuan Mingguan| Musyrif["<b>Musyrif Kamar</b><br/><i>(Supervisi Penuh Dewasa)</i>"]
+    Senior ==>|"Bimbingan Kasih Sayang & Keteladanan"| AdikAsuh
+    Senior -.->|"Laporan Kemajuan Mingguan"| Musyrif["<b>Musyrif Kamar</b><br/><i>(Supervisi Penuh Dewasa)</i>"]
 ```
 
 ### Ranah Pendampingan Peer-Mentor J4:

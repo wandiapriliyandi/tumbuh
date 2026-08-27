@@ -97,9 +97,9 @@ flowchart LR
     
     Sarpras["<b>3. SARPRAS</b><br/><i>Membangun Ekosistem Fisik</i><br/>(Kamar 5S, CPTED, Zero Blind Spot, Bilik Sakinah)"]
 
-    Kurikulum <==>|Sinergi RPP & Observasi Kamar| Kesiswaan
-    Kesiswaan <==>|Peta Titik Rawan & Audit Fasilitas| Sarpras
-    Sarpras <==>|Ergonomi Belajar & Sirkulasi Udara| Kurikulum
+    Kurikulum <-->|"Sinergi RPP & Observasi Kamar"| Kesiswaan
+    Kesiswaan <-->|"Peta Titik Rawan & Audit Fasilitas"| Sarpras
+    Sarpras <-->|"Ergonomi Belajar & Sirkulasi Udara"| Kurikulum
 ```
 
 Dengan integrasi tiga pilar ini, tidak ada lagi ruang bagi santri untuk mengalami disorientasi nilai. Apa yang dibaca di atas meja kelas, dialami langsung dalam kehangatan relasi asrama, dan dinaungi oleh kenyamanan bangunan fisik pesantren yang memuliakan martabat kemanusiaan mereka.
