@@ -15,9 +15,9 @@ flowchart TD
         
         Lembaga["<b>3. LEMBAGA PESANTREN TUMBUH</b><br/>• Organisasi pembelajar (Learning Organization)<br/>• Transparansi berbasis data faktual PBIS<br/>• Budaya Bi'ah Shalihah yang lestari"]
 
-        Santri <===>|Hubungan Lekat Aman| Asatidz
-        Asatidz <===>|Sistem Shift & Supervisi No-Blame| Lembaga
-        Lembaga <===>|Sarpras Sehat & Ruang Aman| Santri
+        Santri <-->|"Hubungan Lekat Aman"| Asatidz
+        Asatidz <-->|"Sistem Shift & Supervisi No-Blame"| Lembaga
+        Lembaga <-->|"Sarpras Sehat & Ruang Aman"| Santri
     end
 ```
 

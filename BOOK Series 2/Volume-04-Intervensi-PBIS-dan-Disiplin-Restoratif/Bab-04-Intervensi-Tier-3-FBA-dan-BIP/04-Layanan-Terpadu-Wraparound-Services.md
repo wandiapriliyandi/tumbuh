@@ -20,7 +20,7 @@ flowchart TD
         Tokoh["<b>Kyai / Sesepuh Pesantren</b><br/>(Bimbingan Doa Ruhiyyah & Penguatan Batin)"]
     end
 
-    SantriKeluarga <===> TimWraparound
+    SantriKeluarga <--> TimWraparound
 ```
 
 ---

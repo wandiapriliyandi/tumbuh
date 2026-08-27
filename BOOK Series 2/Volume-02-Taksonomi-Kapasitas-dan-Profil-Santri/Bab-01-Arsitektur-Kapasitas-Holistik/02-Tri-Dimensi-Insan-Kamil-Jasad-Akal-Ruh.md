@@ -19,9 +19,9 @@ flowchart TD
         
         J["<b>3. DIMENSI JASADIYYAH (FISIK & MATERI)</b><br/>• Qawiyyul Jism & Standar Kamar 5S<br/>• Qadirun 'alal Kasbi & Tidur Sehat 7 Jam"]
 
-        R <===> A
-        A <===> J
-        J <===> R
+        R <--> A
+        A <--> J
+        J <--> R
     end
 ```
 

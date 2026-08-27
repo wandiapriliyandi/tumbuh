@@ -29,7 +29,7 @@ flowchart TD
         A4["<b>Status Guru Madrasah</b>: Bebas Tugas Ronda Malam (Fokus Persiapan Bahan Ajar)"]
     end
 
-    BlokMadrasah <===>|DAILY HANDOVER RESMI (07:00 & 16:00)| BlokAsrama
+    BlokMadrasah <-->|"DAILY HANDOVER RESMI (07:00 & 16:00)"| BlokAsrama
 ```
 
 ---

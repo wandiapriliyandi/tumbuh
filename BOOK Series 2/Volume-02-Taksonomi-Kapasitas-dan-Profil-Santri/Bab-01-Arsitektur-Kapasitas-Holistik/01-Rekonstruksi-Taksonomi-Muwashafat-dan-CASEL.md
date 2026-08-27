@@ -28,7 +28,7 @@ flowchart TD
         C5["<b>5. Responsible Decision-Making</b><br/>Tabayyun, akhlak, & integritas moral"]
     end
 
-    TuratsMuwashafat <===>|SINTESIS TAKSONOMI TUMBUH| CASEL5
+    TuratsMuwashafat <-->|"SINTESIS TAKSONOMI TUMBUH"| CASEL5
 ```
 
 ---

@@ -24,10 +24,10 @@ flowchart TD
         Humas["<b>4. WAKAMAD HUMAS</b><br/>Portal Digital Wali Santri, SLC Tripartit, & Komunikasi Publik Transparan"]
     end
 
-    Kurikulum <===> Kesiswaan
-    Kesiswaan <===> Sarpras
-    Sarpras <===> Humas
-    Humas <===> Kurikulum
+    Kurikulum <--> Kesiswaan
+    Kesiswaan <--> Sarpras
+    Sarpras <--> Humas
+    Humas <--> Kurikulum
 ```
 
 ---
