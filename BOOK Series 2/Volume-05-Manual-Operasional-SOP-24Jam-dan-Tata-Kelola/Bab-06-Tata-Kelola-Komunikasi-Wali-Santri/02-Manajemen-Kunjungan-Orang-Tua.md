@@ -2,29 +2,45 @@
 
 ---
 
-## 1. Menjaga Kestabilan Ritme Pembiasaan Asrama
+## 1. Menjaga Keseimbangan Antara Kasih Sayang Keluarga & Kemandirian Santri
 
-Hari kunjungan orang tua (*Visiting Day*) adalah momen yang sangat membahagiakan, namun jika tidak dikelola dengan SOP yang rapi, kunjungan dapat memicu gangguan ritme asrama (seperti menumpuknya makanan cepat saji tidak sehat, hilangnya waktu istirahat santri, dan rasa cemburu bagi santri yang orang tuanya tinggal jauh).
+Hari Kunjungan Orang Tua (*Visiting Day*) adalah momentum yang sangat dirindukan oleh seluruh keluarga santri. Namun, tatkala hari kunjungan tidak dikelola dengan sistem operasional yang matang, momentum ini dapat menimbulkan dampak negatif terhadap ritme kehidupan asrama: [^1]
+* Menumpuknya sampah makanan cepat saji instan yang merusak pola makan sehat santri.
+* Terganggunya privasi santri lain akibat orang tua lawan jenis masuk ke area kamar tidur santri secara bebas.
+* Timbulnya rasa minder atau sedih mendalam bagi santri-santri dhuafa atau santri luar pulau yang orang tuanya tidak dapat hadir berkunjung.
 
-Ekosistem TUMBUH merancang **SOP Hari Kunjungan Tertib & Bermakna**:
+Ekosistem TUMBUH merancang **SOP Manajemen Hari Kunjungan Tertib, Edukatif, & Bermakna**:
 
 ```mermaid
 flowchart TD
-    subgraph SOPKunjungan["3 PILAR SOP HARI KUNJUNGAN TUMBUH"]
-        P1["<b>1. JADWAL KUNJUNGAN PERIODIK</b><br/>Dilaksanakan 1x sebulan pada Ahad ke-2 (08:00 - 16:30)"]
-        P2["<b>2. ZONASI AREA TEMU KELUARGA</b><br/>Bertemu di aula terbuka / taman pondok (Kamar tidur tetap privat)"]
-        P3["<b>3. EDUKASI NUTRISI TITIPAN MAKANAN</b><br/>Membawa makanan bergizi seimbang & menghindari makanan instan berlebih"]
+    subgraph AlurHariKunjungan["ALUR OPERASIONAL HARI KUNJUNGAN EKOSISTEM TUMBUH"]
+        A1["<b>1. REGISTRASI DIGITAL DI GERBANG UTAMA (08:00 - 09:00)</b><br/>Pemeriksaan kartu akses wali santri & penitipan bingkisan makanan terstandar"]
+        
+        A2["<b>2. MAJELIS PARENTING ADAB DI MASJID UTAMA (09:00 - 10:30)</b><br/>Kajian bersama Pimpinan Pondok & Konselor: Menyelaraskan pembiasaan rumah-asrama"]
+        
+        A3["<b>3. SESI TEMU KASIH KELUARGA DI ZONA RAMAH KELUARGA (10:30 - 15:30)</b><br/>Bertemu santri di aula terbuka, taman rindang, & gazebo keluarga (Kamar asrama tetap privat)"]
+        
+        A4["<b>4. DOA PELEPASAN & TRANSISI KEMBALI ASRAMA (15:30 - 16:30)</b><br/>Mushafahah perpisahan santun; santri bersiap sholat Ashar & masuk jadwal normal"]
     end
+
+    A1 --> A2 --> A3 --> A4
 ```
 
 ---
 
-## 2. Forum Parenting & Penguatan Visi Bersama
+## 2. Tiga Regulasi Utama Hari Kunjungan
 
-Pada setiap hari kunjungan, tim pesantren menyelenggarakan **Kajian Parenting Adab (60 Menit)** di masjid pondok sebelum waktu temu santri dimulai. Forum ini menyelaraskan pemahaman orang tua mengenai pentingnya disiplin positif, membiasakan anak hidup mandiri 5S, dan cara mendengarkan curhat anak secara empatik.
+1. **Zonasi Area Pertemuan (*Designated Family Zones*)**:
+   * Pertemuan keluarga diselenggarakan di area publik yang asri (Taman Pondok, Gazebo, Aula Utama, dan Kantin Terbuka).
+   * **Larangan Mutlak Masuk Kamar Tidur Santri**: Orang tua dilarang keras memasuki kamar tidur santri demi menjaga privasi aurat, keamanan barang, dan ketertiban tata ruang 5S kamar.
+2. **Edukasi Nutrisi Makanan Titipan (*Healthy Food Guidelines*)**:
+   * Lembaga menyediakan panduan makanan titipan bergizi seimbang (buah-buahan segar, madu, kurma, makanan olahan rumah sehat) dan membatasi makanan instan tinggi MSG/pengawet yang berlebih.
+3. **Program "Keluarga Asuh" bagi Santri Luar Pulau**:
+   * Bagi santri yang orang tuanya tidak bisa hadir karena kendala jarak, pimpinan pondok dan komite wali santri setempat membentuk program **Orang Tua Asuh Sebaya**: mengajak santri tersebut makan siang bersama di gazebo, sehingga tidak ada satu pun anak yang merasa kesepian atau terabaikan.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
 [^1]: Henderson, A. T., & Mapp, K. L. (2002). *A New Wave of Evidence: The Impact of School, Family, and Community Connections on Student Achievement*. Austin, TX: SEDL.
+[^2]: Epstein, J. L. (2018). *School, Family, and Community Partnerships*. New York: Routledge.

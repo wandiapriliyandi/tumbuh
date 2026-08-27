@@ -4,45 +4,56 @@
 
 ## 1. Membedakan Konsekuensi Logis dari Hukuman Punitif
 
-Banyak praktisi pendidikan keliru mengira bahwa disiplin positif berarti meniadakan segala bentuk konsekuensi. Dalam Ekosistem TUMBUH, disiplin ditegakkan melalui **Konsekuensi Logis Edukatif (*Logical Consequences*)**, yang dibedakan secara tegas dari **Hukuman Punitif (*Punitive Punishment*)**: [^1]
+Banyak praktisi pendidikan pesantren yang keliru memahami konsep disiplin positif: mereka mengira bahwa menghapus hukuman fisik berarti meniadakan segala bentuk konsekuensi atas pelanggaran (*Permissive Laissez-Faire*). [^1]
+
+Dalam Ekosistem TUMBUH, disiplin ditegakkan secara sangat tegas melalui **Konsekuensi Logis Edukatif (*Logical Consequences*)**, yang dibedakan secara fundamental dari **Hukuman Punitif (*Punitive Punishment*)**:
 
 ```mermaid
 flowchart TD
-    subgraph Punitif["HUKUMAN PUNITIF (TIDAK BERHUBUNGAN & MERENDAHKAN)"]
-        H1["Contoh: Tidak sholat Subuh disuruh lari keliling lapangan 20x"]
-        H2["Tidak ada kaitan logis antara sholat dan lari"]
-        H3["Memicu rasa dendam & kelelahan fisik semata"]
+    subgraph HukumanPunitif["HUKUMAN PUNITIF (TIDAK BERHUBUNGAN & MERENDAHKAN)"]
+        H1["Bentuk: Memukul rotan, push-up 100x, botak paksa, jemur lapangan"]
+        H2["Karakter: Menimpakan rasa sakit fisik & mempermalukan di depan umum"]
+        H3["Dampak Batin: Memicu dendam, kepatuhan semu, & hilangnya harga diri"]
     end
 
-    subgraph KonsekuensiLogis["KONSEKUENSI LOGIS (RELEVAN & EDUKATIF)"]
-        K1["Contoh: Terlambat Subuh karena begadang ngobrol"]
-        K2["Konsekuensi: Tidur 30 menit lebih awal malam ini & mengqadha zikir"]
-        K3["Kaitan logis jelas: Memperbaiki jam biologis tubuh & mengganti ibadah"]
+    subgraph KonsekuensiLogis["KONSEKUENSI LOGIS (RELEVAN & MENDIDIK TANGGUNG JAWAB)"]
+        K1["Bentuk: Memperbaiki apa yang rusak, mengganti waktu yang terbuang"]
+        K2["Karakter: Berhubungan kausal langsung (*Related*), santun (*Respectful*), wajar (*Reasonable*)"]
+        K3["Dampak Batin: Memahami hukum sebab-akibat moral & melatih akuntabilitas diri"]
     end
 ```
 
 ---
 
-## 2. Prinsip 4R Konsekuensi Logis Jane Nelsen
+## 2. Prinsip 4R Jane Nelsen dalam Merumuskan Konsekuensi Logis
 
-Agar sebuah konsekuensi bersifat mendidik dan tidak berubah menjadi hukuman punitif terselubung, ia wajib memenuhi kriteria **4R Jane Nelsen**: [^2]
+Agar sebuah konsekuensi bersifat mendidik dan tidak tergelincir menjadi hukuman punitif terselubung, ia wajib memenuhi kriteria **4R Jane Nelsen**: [^2]
 
-1. **Related (Relevan/Terkait)**: Konsekuensi harus memiliki hubungan sebab-akibat langsung dengan perilaku yang dilakukan.
-2. **Respectful (Santun & Menghormati Martabat)**: Diberikan dengan nada suara tenang tanpa teriakan, makian, atau penghinaan pribadi (*Firm & Kind*).
-3. **Reasonable (Wajar & Proporsional)**: Beban konsekuensi tidak berlebihan atau melampaui kemampuan anak.
-4. **Revealed in Advance (Telah Disepakati Sebelumnya)**: Konsekuensi telah tercantum dalam Piagam Kamar atau aturan pondok yang dipahami santri sejak awal.
+1. **Related (Berhubungan/Relevan Langsung)**:
+   * Konsekuensi harus memiliki keterkaitan sebab-akibat yang nyata dengan bentuk pelanggaran yang dilakukan.
+2. **Respectful (Santun & Menghormati Martabat)**:
+   * Diberikan dengan nada suara rendah, tenang, dan bersahabat (*Firm & Kind*), tanpa teriakan, makian, atau bahasa tubuh mengancam.
+3. **Reasonable (Wajar & Proporsional)**:
+   * Beban konsekuensi tidak berlebihan atau melampaui kapasitas kemampuan fisik dan usia perkembangan santri.
+4. **Revealed in Advance (Telah Disepakati Sejak Awal)**:
+   * Konsekuensi telah tercantum dalam Piagam Adab Kamar yang disepakati bersama sejak awal semester, sehingga santri memahami konsekuensi atas pilihannya.
 
-| Kasus Pelanggaran Santri | Hukuman Punitif (Dilarang Mutlak) | Konsekuensi Logis 4R (TUMBUH) |
+---
+
+## 3. Matriks Komparatif Kasus Pelanggaran Santri
+
+| Bentuk Pelanggaran Santri | Hukuman Punitif (Dilarang Mutlak di TUMBUH) | Konsekuensi Logis 4R (Standar Ekosistem TUMBUH) |
 | :--- | :--- | :--- |
-| **Menumpahkan kuah sayur di meja makan karena bercanda.** | Disuruh push-up 50x di depan kantin. | Mengambil kain lap, membersihkan meja hingga bersih, dan meminta maaf pada petugas dapur. |
-| **Meminjam sandal kawan tanpa izin (*ghasab*).** | Sandalnya disita dan disuruh jalan kaki telanjang kaki. | Mengembalikan sandal, mencucinya hingga bersih, dan meletakkannya rapi di rak pemiliknya. |
-| **Terlambat masuk kelas karena mengobrol.** | Dilarang masuk kelas dan dijemur di lapangan. | Mempelajari materi yang terlewat secara mandiri di perpustakaan saat jam istirahat. |
+| **Terlambat bangun sholat Subuh karena begadang ngobrol.** | Disiram air dingin di kasur lalu disuruh lari keliling lapangan 15 putaran. | **Related**: Jam tidur dimajukan 30 menit lebih awal malam ini untuk menstabilkan jam biologis, dan mengqadha zikir pagi ma'tsurat secara mandiri. |
+| **Mencoret-coret meja belajar kelas madrasah.** | Dikeluarkan dari kelas dan disuruh berdiri di depan tiang bendera seharian. | **Related**: Mengambil amplas dan cat pernis bersama tim Sarpras untuk membersihkan dan mengecat ulang meja belajar hingga kembali mulus. |
+| **Membuang bungkus makanan sembarangan di lorong asrama.** | Dihukum push-up 50 kali di depan santri lain. | **Related**: Mengambil sapu dan kantong sampah untuk membersihkan lorong asrama tersebut selama 15 menit. |
 
-Dengan konsekuensi logis, santri belajar memahami hukum kausalitas moral: bahwa setiap pilihan tindakan memiliki konsekuensi alami yang harus dipertanggungjawabkan secara sadar.
+Dengan penegakan konsekuensi logis, santri belajar memahami hukum kausalitas moral: bahwa setiap pilihan tindakan membawa konsekuensi alami yang harus dipertanggungjawabkan secara sadar dan bermartabat.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Nelsen, J. (2006). *Positive Discipline* (4th ed.). New York: Ballantine Books, hlm. 72–98.
-[^2]: Dreikurs, R., & Cassel, P. (1972). *Discipline Without Tears*. New York: Hawthorn Books, hlm. 45–65.
+[^1]: Nelsen, J. (2006). *Positive Discipline* (4th ed.). New York: Ballantine Books, hlm. 72–105.
+[^2]: Dreikurs, R., & Cassel, P. (1972). *Discipline Without Tears*. New York: Hawthorn Books, hlm. 45–70.
+[^3]: Kohn, A. (1996). *Beyond Discipline: From Compliance to Community*. Alexandria, VA: ASCD.

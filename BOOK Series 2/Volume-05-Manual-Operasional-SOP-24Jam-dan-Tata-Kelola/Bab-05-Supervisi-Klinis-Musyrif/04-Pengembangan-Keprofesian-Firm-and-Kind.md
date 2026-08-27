@@ -2,32 +2,57 @@
 
 ---
 
-## 1. Menolak Pengasuhan Amatir: Profesionalisasi Musyrif
+## 1. Menolak Amatirisme: Musyrif Sebagai Pendidik Profesional
 
-Di era modern saat ini, pengasuhan asrama 24 jam tidak boleh lagi diserahkan kepada lulusan baru tanpa pelatihan yang memadai (*untrained amateurism*). Musyrif adalah seorang **Profesional Pendidikan Pengasuhan (*Residential Educator*)** yang memegang tanggung jawab hukum dan moral tertinggi atas keselamatan anak.
+Di era tantangan disrupsi moral saat ini, tugas membina remaja di asrama 24 jam tidak dapat lagi diserahkan kepada sekadar "niat baik tanpa keterampilan" (*well-intentioned amateurism*). Mengelola dinamika psikologis puluhan santri menuntut keahlian profesional yang teruji dalam ranah pedagogi terapan, manajemen perilaku, komunikasi non-kekerasan, dan de-eskalasi krisis. [^1]
 
-Ekosistem TUMBUH merancang kurikulum **Pengembangan Keprofesian Berkelanjutan (PKB Musyrif)** dengan fokus pada kompetensi pedagogi **Firm & Kind (Tegas & Penuh Kasih)**: [^1]
+Ekosistem TUMBUH merancang kurikulum **Pengembangan Keprofesian Berkelanjutan (PKB Musyrif & Pendidik)** dengan pilar utama pedagogi **Firm & Kind (Tegas & Penuh Kasih Sayang)**:
 
 ```mermaid
 flowchart TD
-    subgraph PilarFirmKind["4 MODUL PELATIHAN PEDAGOGI FIRM & KIND"]
-        M1["<b>MODUL 1: KOMUNIKASI ASERTIF NON-VIOLENT</b><br/>Menegur dengan tegas, jelas, & tenang tanpa bentakan/sarkasme"]
-        M2["<b>MODUL 2: TEKNIK DE-ESKALASI EMOSI</b><br/>Manajemen amarah santri & fasilitasi Bilik Sakinah"]
-        M3["<b>MODUL 3: FASILITASI LINGKARAN ISHLAH 3R</b><br/>Seni mediasi damai & penyusunan kontrak pemulihan adab"]
-        M4["<b>MODUL 4: REKAYASA LINGKUNGAN 5S & CPTED</b><br/>Standarisasi kamar sehat, sanitasi, & eliminasi titik buta"]
+    subgraph KurikulumFirmKind["4 MODUL INTI PELATIHAN PROFESIONAL MUSYRIF TUMBUH"]
+        M1["<b>MODUL 1: KOMUNIKASI ASERTIF NON-VIOLENT (NVC)</b><br/>Menegur tegas, tenang, & jelas tanpa bentakan, sarkasme, atau labeling"]
+        
+        M2["<b>MODUL 2: TEKNIK DE-ESKALASI KRISIS & BILIK SAKINAH</b><br/>Manajemen amarah santri, regulasi pernapasan, & intervensi non-punitif"]
+        
+        M3["<b>MODUL 3: FASILITASI LINGKARAN RESTORATIF ISHLAH 3R</b><br/>Seni mediasi konflik antarsantri & penyusunan kontrak perbaikan adab"]
+        
+        M4["<b>MODUL 4: MANAJEMEN LINGKUNGAN 5S & SARPRAS CPTED</b><br/>Standarisasi kasur hospital corner, zonasi lemari, & sanitasi higienis"]
     end
 ```
 
 ---
 
-## 2. Sertifikasi Musyrif Terakreditasi TUMBUH
+## 2. Jenjang Karier & Akreditasi Pengasuh Asrama (*Musyrif Career Pathway*)
 
-Setiap musyrif yang lolos uji kompetensi teoritis dan studi kasus simulasi lapangan mendapatkan **Sertifikat Pengasuh Terakreditasi Level 1–3**. 
+Untuk menjamin motivasi belajar dan profesionalisme jangka panjang, Ekosistem TUMBUH memberlakukan sistem sertifikasi 3 level: [^2]
 
-Peningkatan level sertifikasi berkorelasi langsung dengan jenjang karier, peningkatan tunjangan kehormatan, dan peluang beasiswa pendidikan lanjut, memposisikan profesi musyrif sebagai profesi yang mulia, bermartabat, dan sejahtera.
+```
+               JENJANG KARIER & AKREDITASI MUSYRIF EKOSISTEM TUMBUH
+  
+  ┌────────────────────────┬─────────────────────────────────────────────────┐
+  │ LEVEL AKREDITASI       │ KOMPETENSI KUNCI & SYARAT PENGUJIAN             │
+  ├────────────────────────┼─────────────────────────────────────────────────┤
+  │ LEVEL 1: MUSYRIF PRATAMA│ • Menguasai seluruh SOP 4 Shift & Kamar 5S.     │
+  │ (Tahun Pertama)        │ • Mampu input logbook PBIS & Rasio 4:1.         │
+  │                        │ • Lulus uji simulasi de-eskalasi dasar.         │
+  ├────────────────────────┼─────────────────────────────────────────────────┤
+  │ LEVEL 2: MUSYRIF MADYA │ • Menguasai fasilitasi Intervensi CICO Tier 2.  │
+  │ (Tahun 2 - 3)          │ • Memimpin Lingkaran Restoratif Ishlah 3R.      │
+  │                        │ • Lulus uji studi kasus konflik santri berat.   │
+  ├────────────────────────┼─────────────────────────────────────────────────┤
+  │ LEVEL 3: MUSYRIF UTAMA │ • Mampu membedah FBA & merancang dokumen BIP.   │
+  │ (Senior / Master Coach)│ • Menjadi mentor bagi musyrif baru (Liqa' Ruhi).│
+  │                        │ • Memimpin Tim Respon Krisis & Safeguarding.    │
+  └────────────────────────┴─────────────────────────────────────────────────┘
+```
+
+Peningkatan jenjang akreditasi berkorelasi langsung dengan kenaikan tunjangan kehormatan profesi, fasilitas tempat tinggal keluarga di lingkungan pondok, dan beasiswa studi lanjut pascasarjana. Dengan penghargaan profesi yang tinggi ini, posisi musyrif dipandang sebagai jalur pengabdian dakwah yang sangat prestisius, mulia, dan menjanjikan masa depan yang cerah.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Nelsen, J. (2006). *Positive Discipline*. New York: Ballantine Books, hlm. 15–40.
+[^1]: Nelsen, J. (2006). *Positive Discipline* (4th ed.). New York: Ballantine Books, hlm. 25–60.
+[^2]: Danielson, C. (2007). *Enhancing Professional Practice: A Framework for Teaching* (2nd ed.). Alexandria, VA: ASCD.
+[^3]: Rosenberg, M. B. (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). Encinitas, CA: PuddleDancer Press.

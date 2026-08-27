@@ -2,31 +2,39 @@
 
 ---
 
-## 1. Perlindungan Mutlak & Pemulihan Korban (*Victim-Centered Support*)
+## 1. Perlindungan Mutlak & Pemulihan Korban (*Victim-Centered Restoration*)
 
-Dalam setiap insiden pelanggaran atau konflik, prioritas pertama dan utama adalah **pemulihan rasa aman dan martabat korban (*Victim Restoration*)**. 
+Dalam setiap insiden pelanggaran atau konflik di asrama, prioritas pertama dan utama yang tidak boleh diabaikan adalah **pemulihan rasa aman, kesehatan fisik, dan martabat korban (*Victim Safeguarding & Healing*)**. [^1]
 
-Protokol perlindungan korban di pesantren mencakup:
-* **Jaminan Beban Nol bagi Korban**: Korban tidak boleh dipaksa untuk "langsung memaafkan" jika kondisi emosionalnya masih syok atau trauma. Pemaafan difasilitasi bertahap saat korban telah merasa siap dan aman.
-* **Perlindungan dari Ancaman Balasan (*Anti-Retaliation Safeguards*)**: Musyrif memastikan tidak ada intimidasi lanjutan dari kawan-kawan pelaku.
-* **Pendampingan Konseling Pemulihan di Bilik Sakinah**: Guru BK memberikan sesi katarsis emosi dan pemulihan kepercayaan diri korban.
+Protokol penanganan korban di Ekosistem TUMBUH menetapkan standar perlindungan ketat:
+* **Larangan Memaksa Korban Memaafkan Secara Prematur**: Korban tidak boleh dipaksa oleh musyrif untuk "langsung memaafkan dan bersalaman" saat kondisi emosionalnya masih syok, marah, atau trauma. Pemaafan difasilitasi secara bertahap tatkala korban telah merasa siap, tenang, dan divalidasi perasaannya.
+* **Jaminan Beban Nol bagi Korban (*Zero Burden Policy*)**: Korban tidak boleh dibebani kewajiban membersihkan kerusakan atau menanggung biaya ganti rugi apa pun atas insiden yang menimpanya.
+* **Perlindungan dari Ancaman Balasan (*Anti-Retaliation Safeguards*)**: Musyrif memastikan tidak ada intimidasi, tatapan dingin, atau pengucilan lanjutan dari teman-teman pelaku terhadap korban.
 
 ---
 
-## 2. Reintegrasi Sosial Pelaku Tanpa Stigma (*Reintegrative Shaming vs Stigmatization*)
+## 2. Reintegrasi Sosial Pelaku Tanpa Stigma (*Reintegrative Shaming Theory*)
 
-John Braithwaite (1989) dalam teorinya mengenai *Reintegrative Shaming* membedakan dua jenis respon sosial terhadap pelanggar hukum: [^1]
-1. **Stigmatisasi Toksik (Model Lama)**: Menolak dan mencap pelaku sebagai "anak jahat", mengucilkannya dari pergaulan, sehingga pelaku semakin terdorong masuk ke kelompok penyimpang.
-2. **Reintegrasi Restoratif (Model TUMBUH)**: **Mengecam dan menolak perbuatannya secara tegas (*firm*), namun tetap merangkul dan menerima kembali pribadi santri tersebut ke dalam pelukan kasih sayang asrama (*kind*)**.
+John Braithwaite (1989) dalam karya monumentalnya *Crime, Shame and Reintegration* membedakan dua jenis respon sosial terhadap pelanggar norma: [^2]
 
+```mermaid
+flowchart TD
+    subgraph Stigmatisasi["STIGMATISASI TOKSIK (MODEL HUKUM LAMA)"]
+        S1["Mencap pelaku sebagai 'anak jahat / anak bermasalah'"]
+        S2["Mengucilkan pelaku dari pergaulan & memutus relasi sosial"]
+        S3["Hasil: Pelaku bergabung dengan kelompok penyimpang & makin merusak"]
+    end
+
+    subgraph Reintegrasi["REINTEGRASI RESTORATIF (MODEL EKOSISTEM TUMBUH)"]
+        R1["<b>Mengecam & menolak perbuatannya secara tegas (*Firm*)</b>"]
+        R2["<b>Tetap merangkul & memuliakan pribadi kemanusiaannya (*Kind*)</b>"]
+        R3["Hasil: Pelaku bangkit bertanggung jawab & diterima kembali secara utuh"]
+    end
 ```
-             PRINSIP REINTEGRASI SOSIAL SANTRI PELAKU
-             
- "Perbuatan antum kemarin adalah kekeliruan yang tidak dapat dibenarkan,
-  tetapi diri antum tetaplah saudara kami yang mulia di jalan Allah.
-  Setelah antum menuntaskan tanggung jawab perbaikan ini,
-  kita melangkah bersama sebagai keluarga tanpa prasangka masa lalu."
-```
+
+Ekosistem TUMBUH menegakkan deklarasi penerimaan kembali santri yang telah menuntaskan proses perbaikan:
+
+> *"Kekeliruan yang antum lakukan kemarin adalah perbuatan salah yang tidak kita benarkan, namun diri antum tetaplah saudara kami yang mulia di jalan Allah SWT. Setelah antum menuntaskan tanggung jawab perbaikan ini, pintu ukhuwah terbuka lebar, dan kita melangkah bersama sebagai satu keluarga besar tanpa prasangka masa lalu."*
 
 Dengan protokol reintegrasi ini, santri yang pernah berbuat salah tidak kehilangan masa depannya; mereka bangkit kembali dengan jiwa yang lebih matang, beradab, dan penuh kesyukuran.
 
@@ -34,5 +42,6 @@ Dengan protokol reintegrasi ini, santri yang pernah berbuat salah tidak kehilang
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Braithwaite, J. (1989). *Crime, Shame and Reintegration*. Cambridge: Cambridge University Press, hlm. 54–98.
-[^2]: Ahmed, E., et al. (2001). *Shame Management through Reintegration*. Cambridge: Cambridge University Press, hlm. 112–140.
+[^1]: Zehr, H. (2015). *The Little Book of Restorative Justice*. Intercourse, PA: Good Books, hlm. 25–48.
+[^2]: Braithwaite, J. (1989). *Crime, Shame and Reintegration*. Cambridge: Cambridge University Press, hlm. 54–105.
+[^3]: Ahmed, E., et al. (2001). *Shame Management through Reintegration*. Cambridge: Cambridge University Press.

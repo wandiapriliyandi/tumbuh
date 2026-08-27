@@ -2,22 +2,24 @@
 
 ---
 
-## 1. Menyelamatkan Santri yang Mulai Goyah (*Early Intervention*)
+## 1. Menyelamatkan Santri yang Mulai Goyah (*Targeted Secondary Prevention*)
 
-Ketika data logbook mingguan menunjukkan seorang santri mengalami penurunan kedisiplinan berulang (misal: 3x terlambat sholat atau kerap lupa membawa buku pelajaran), santri tersebut tidak langsung dihukum. Sistem secara otomatis memasukkan santri tersebut ke dalam **Intervensi Tier 2: Protokol Check-In / Check-Out (CICO)** selama 4 hingga 6 pekan. [^1]
+Tatkala data analitik logbook mingguan menunjukkan bahwa seorang santri mulai menunjukkan tren penurunan kedisiplinan berulang—misalnya: tercatat 3 kali terlambat sholat Subuh dalam sepekan, sering lupa membawa buku madrasah, atau mulai menarik diri dari pergaulan kamar—pendekatan konvensional biasanya langsung menjatuhkan sanksi hukum atau memanggil santri untuk dimarahi. [^1]
 
-CICO adalah intervensi perilaku terbukti secara ilmiah (*Evidence-Based Practice*) yang memberikan **dosis perhatian positif dan umpan balik terstruktur yang lebih sering** kepada santri dari seorang pendidik yang dipercaya (*CICO Facilitator / Musyrif Pendamping*).
+Dalam Ekosistem TUMBUH, tanda-tanda awal kemunduran perilaku ini dipandang sebagai **sinyal diagnostik bahwa santri tersebut membutuhkan dosis dukungan dan perhatian positif ekstra (*Tier 2 Targeted Support*)**.
+
+Sistem secara otomatis memasukkan santri tersebut ke dalam **Program Penguatan Ksatria: Protokol Check-In / Check-Out (CICO)** selama 4 hingga 6 pekan:
 
 ```mermaid
 flowchart TD
-    subgraph SiklusHarianCICO["SIKLUS HARIAN PROTOKOL CICO DI PESANTREN"]
-        CI["<b>1. MORNING CHECK-IN (06:45 Pagi)</b><br/>• Temui Musyrif CICO di Bilik Sakinah (3 menit)<br/>• Cek kesiapan seragam, mood, & target adab hari ini<br/>• Terima Kartu Perkembangan Harian (DPR)"]
+    subgraph SiklusHarianCICO["SIKLUS HARIAN 4 LANGKAH PROTOKOL CICO TUMBUH"]
+        CI["<b>1. MORNING CHECK-IN (06:45 - 07:00 Pagi)</b><br/>• Bertemu Musyrif CICO di Bilik Sakinah (3-5 menit)<br/>• Cek kesiapan fisik/seragam, sambutan hangat, & tetapkan target adab hari ini<br/>• Santri menerima Kartu Pantau Perkembangan Harian (DPR)"]
         
-        KBM["<b>2. PEMANTAUAN KELAS & ASRAMA</b><br/>• Guru madrasah beri paraf & skor adab di setiap jam pelajaran<br/>• Umpan balik positif singkat di akhir sesi KBM"]
+        KBM["<b>2. PEMANTAUAN KELAS & ASRAMA SEPANJANG HARI</b><br/>• Guru madrasah & musyrif memberi paraf & skor adab (0, 1, 2) di tiap blok waktu<br/>• Umpan balik positif singkat & dorongan verbal konstruktif"]
         
-        CO["<b>3. EVENING CHECK-OUT (20:45 Malam)</b><br/>• Temui Musyrif CICO untuk hitung total persentase skor<br/>• Refleksi muhasabah hari ini & doa penutup"]
+        CO["<b>3. EVENING CHECK-OUT (20:45 - 21:00 Malam)</b><br/>• Bertemu Musyrif CICO untuk menghitung total persentase skor adab harian<br/>• Sesi muhasabah singkat: rayakan capaian sukses & analisis kendala hari ini<br/>• Doa keberkahan penutup hari"]
         
-        Home["<b>4. KONEKSI KELUARGA</b><br/>• Ringkasan skor terkirim ke portal digital orang tua"]
+        Home["<b>4. KONEKSI KELUARGA (HOME REPORTING)</b><br/>• Ringkasan skor ketercapaian terkirim ke portal digital orang tua santri"]
 
         CI --> KBM --> CO --> Home
     end
@@ -25,15 +27,21 @@ flowchart TD
 
 ---
 
-## 2. Mengapa CICO Sangat Efektif di Pesantren?
+## 2. Mengapa CICO Sangat Efektif Secara Ilmiah & Syar'i?
 
-1. **Memberikan Titik Sentuh Kasih Sayang (*High-Frequency Touchpoints*)**: Santri yang tadinya merasa diabaikan kini memiliki sosok pembina yang secara khusus menanyakan kabarnya setiap pagi dan malam.
-2. **Umpan Balik Cepat Tanpa Menunggu Semester Berakhir**: Santri langsung mengetahui capaian perilakunya setiap jam pelajaran, sehingga ia termotivasi untuk segera memperbaiki diri jika jam sebelumnya sempat kurang fokus.
-3. **Bebas dari Stigma Hukuman**: Program CICO dibingkai sebagai *"Program Penguatan Ksatria"*, bukan hukuman yang memalukan. Santri merasa dibantu dan diperhatikan, bukan divonis bersalah.
+Riset empiris dalam School-Wide PBIS menunjukkan bahwa program CICO memiliki tingkat keberhasilan lebih dari **$80\%$ dalam mengembalikan perilaku siswa ke zona hijau (Tier 1)**. [^2] Keberhasilan ini didorong oleh 3 faktor kunci:
+
+1. **Frekuensi Sentuhan Kasih Sayang yang Tinggi (*High-Frequency Touchpoints*)**:
+   * Santri yang tadinya merasa "tidak ada yang peduli" kini memiliki figur pembina khusus yang menyambutnya setiap pagi dengan senyuman dan menanyakan kabarnya setiap malam.
+2. **Umpan Balik Cepat & Real-Time (*Immediate Behavioral Feedback*)**:
+   * Santri tidak perlu menunggu hingga akhir semester untuk mengetahui apakah perilakunya membaik. Ia mendapatkan konfirmasi skor di setiap jam pelajaran, sehingga jika pada jam ke-1 ia sempat kurang fokus, ia langsung termotivasi memperbaikinya pada jam ke-2.
+3. **Bebas dari Label Hukuman (*Dignified Framing*)**:
+   * Program CICO dibingkai secara terhormat sebagai *"Program Pendampingan Ksatria / Mentoring Khusus"*, bukan hukuman yang memalukan. Santri merasa dibantu untuk menjadi pribadi unggul.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Crone, D. A., Hawken, L. S., & Horner, R. H. (2010). *Responding to Problem Behavior in Schools: The Behavior Education Program* (2nd ed.). New York: Guilford Press, hlm. 15–48.
+[^1]: Crone, D. A., Hawken, L. S., & Horner, R. H. (2010). *Responding to Problem Behavior in Schools: The Behavior Education Program* (2nd ed.). New York: Guilford Press, hlm. 15–55.
 [^2]: Mitchell, B. S., Stormont, M., & Gage, N. A. (2011). Tier two interventions in school-wide positive behavior support: A review of the evidence for check-in/check-out. *Preventing School Failure*, 55(2), 77–84.
+[^3]: Todd, A. W., et al. (2008). A structured approach to implementing Check-In/Check-Out. *Beyond Behavior*, 18(1), 11–20.

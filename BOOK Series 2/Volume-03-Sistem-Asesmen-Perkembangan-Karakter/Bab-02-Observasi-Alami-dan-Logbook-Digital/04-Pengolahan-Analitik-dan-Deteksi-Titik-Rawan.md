@@ -1,38 +1,47 @@
-# SUB-BAB 2.4: PENGOLAHAN ANALITIK MINGGUAN & DETEKSI DINI TITIK RAWAN
+# SUB-BAB 2.4: PENGOLAHAN ANALITIK MINGGUAN & DETEKSI TITIK RAWAN (*HOTSPOTS*)
 
 ---
 
-## 1. Menghidupkan Data: Dari Angka Menjadi Keputusan Tarbiyah
+## 1. Dari Data Mentah Menuju Keputusan Strategis (*Data-Driven Decision Making*)
 
-Kumpulan data mikro harian yang dicatat oleh musyrif dan wali kelas diproses secara otomatis oleh mesin analitik PBIS menjadi **Laporan Dasbor Kesehatan Ekosistem Mingguan (*Weekly Ecosystem Analytics Dashboard*)**.
+Data ribuan catatan logbook harian yang diinput oleh para musyrif dan guru madrasah tidak dibiarkan menumpuk tanpa makna di dalam server. Setiap akhir pekan, mesin analitik sistem PBIS mengolah data tersebut menjadi **Laporan Dasbor Analitik Perilaku Terpadu (*Big Data Behavioral Dashboard*)**. [^1]
 
-Pimpinan pesantren, Wakamad Kesiswaan, Wakamad Kurikulum, dan Wakamad Sarpras menggunakan data analitik ini untuk:
-* **Mendeteksi Waktu Rawan (*Hotspots Timing*)**: Mengidentifikasi jam-jam rawan di mana kasus friksi santri meningkat (misal: jam transisi 16:30–17:15 sore atau 21:00–21:30 malam).
-* **Mendeteksi Lokasi Rawan (*Hotspots Location*)**: Menemukan sudut-sudut fisik pondok yang kurang penerangan atau jarang dilewati musyrif.
-* **Deteksi Dini Kebutuhan Intervensi Tier 2**: Mengenali santri yang dalam 14 hari terakhir mengalami penurunan drastis dalam catatan adab atau mengalami lonjakan keterlambatan bangun tidur, sebelum masalah tersebut membesar menjadi krisis.
+Pengolahan data ini menjawab 4 pertanyaan diagnostik kunci:
+1. *What (Perilaku apa yang paling sering terjadi atau dilanggar pekan ini?)*
+2. *When (Pada jam berapa atau titik transisi mana insiden paling sering muncul?)*
+3. *Where (Di lokasi mana titik rawan/hotspot terjadinya kegaduhan atau perselisihan?)*
+4. *Who (Siapa santri yang membutuhkan intervensi CICO Tier 2 atau pendampingan konseling?)*
 
 ```mermaid
 flowchart TD
-    DataRaw["<b>Data Logbook Harian (Madrasah + Asrama)</b>"] --> Engine["<b>Mesin Analitik PBIS TUMBUH</b>"]
-    
-    Engine --> G1["<b>Grafik Hotspots Waktu & Lokasi</b><br/>(Sarpras tambah lampu & Kesiswaan rotasi patroli)"]
-    Engine --> G2["<b>Daftar Skrining Santri Tier 2</b><br/>(BK jadwalkan bimbingan CICO di Bilik Sakinah)"]
-    Engine --> G3["<b>Indeks Rasio Apresiasi Musyrif</b><br/>(Supervisi pembinaan staf anti-burnout)"]
+    subgraph SiklusAnalitikPBIS["SIKLUS PENGOLAHAN DATA ANALITIK PBIS MINGGUAN"]
+        D1["<b>1. PENGUMPULAN DATA REAL-TIME</b><br/>Input harian logbook musyrif, presensi madrasah, & rekam medis Poskestren"]
+        
+        D2["<b>2. AGREGASI & HEATMAP GENERATION</b><br/>Sistem menghasilkan peta panas titik rawan (Hotspot Map) & grafik tren"]
+        
+        D3["<b>3. RAPAT KOORDINASI PLENO 4 PILAR (KAMIS SORE)</b><br/>Kepala Madrasah & 4 Wakamad membedah data & tentukan intervensi"]
+        
+        D4["<b>4. TINDAKAN REKAYASA SISTEMIK TEPAT SASARAN</b><br/>Penambahan patroli musyrif di titik rawan, revisi modul ajar, & aktivasi Tier 2"]
+
+        D1 --> D2 --> D3 --> D4
+    end
 ```
 
 ---
 
-## 2. Rapat Kasus Mingguan Bebas Menyalahkan (*No-Blame Case Conference*)
+## 2. Peta Panas Titik Rawan (*Hotspot Heatmap Analysis*)
 
-Setiap hari Kamis sore, tim pengasuhan menggelar **Rapat Koordinasi 4 Pilar**:
-* **Fokus Pembahasan**: Mencari solusi sistemik atas temuan analitik, bukan mencari kambing hitam staf (*No-Blame Culture*).
-* **Contoh Keputusan Terpadu**: Jika grafik menunjukkan kenaikan kasus santri mengantuk di kelas pagi (Kurikulum), tim Sarpras mengecek sirkulasi udara kamar, dan tim Kesiswaan memastikan jam padam lampu malam dipatuhi tepat waktu pukul 21:45.
+Sebagai contoh praktis: jika analitik data mingguan menunjukkan bahwa **$65\%$ insiden pertengkaran santri terjadi di lorong lantai 2 antara pukul 17:15 hingga 17:45 (saat jam antre mandi sore)**: [^2]
+* Lembaga tidak meresponsnya dengan menghukum massal santri lantai 2.
+* Lembaga melakukan **Rekayasa Sistemik Tepat Sasaran**:
+  - Wakamad Sarpras memeriksa kran air mandi lantai 2 (jika debit air kecil sehingga antrean lama, pompa air segera diperbesar).
+  - Wakamad Kesiswaan menempatkan 1 musyrif Shift 3 untuk berdiri aktif (*Active Supervision*) di lorong tersebut pada rentang jam 17:15 - 17:45.
 
-Dengan analitik prediktif ini, pesantren beralih dari manajemen pemadam kebakaran yang serba panik menjadi manajemen peradaban yang rapi, tenang, dan visioner.
+Dalam tempo 3 hari, insiden pertengkaran di lokasi tersebut turun $100\%$ tuntas berkat keputusan berbasis data faktual.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
-[^2]: McIntosh, K., & Goodman, S. (2016). *Integrated Multi-Tiered Systems of Support: Blending RTI and PBIS*. New York: Guilford Press, hlm. 88–115.
+[^1]: Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.
+[^2]: McIntosh, K., et al. (2014). Using school-level data to predict and prevent student behavioral problems. *School Psychology Quarterly*, 29(3), 253–268.

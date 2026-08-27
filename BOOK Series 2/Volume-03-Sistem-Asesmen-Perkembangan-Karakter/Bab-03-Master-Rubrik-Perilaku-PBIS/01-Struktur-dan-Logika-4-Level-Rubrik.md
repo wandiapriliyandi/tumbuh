@@ -1,35 +1,50 @@
-# SUB-BAB 3.1: STRUKTUR & LOGIKA 4 TINGKAT KEMAHIRAN RUBRIK (*LEVEL 1 S/D LEVEL 4*)
+# SUB-BAB 3.1: STRUKTUR & LOGIKA 4 TINGKAT KEMAHIRAN RUBRIK PBIS
 
 ---
 
-## 1. Menghindari Angka Kering: Membangun Rubrik Deskriptif Kualitatif
+## 1. Menolak Angka Subjektif: Dari Skor Samar Menuju Deskriptor Nyata
 
-Memberi nilai angka kuantitatif pada adab santri (seperti *"Nilai Akhlak: 85"* atau *"Nilai Kedisiplinan: 70"*) adalah praktik yang tidak memberikan panduan operasional bagi santri untuk memperbaiki diri. Santri tidak tahu apa makna spesifik dari angka 85 dan apa yang harus dilakukannya agar nilainya naik menjadi 90.
+Dalam evaluasi adab santri di madrasah konvensional, nilai rapor sering kali berupa skor angka tunggal yang sangat subjektif dan ambigu (misal: "Nilai Akhlak: 82"). Angka ini tidak memberikan petunjuk apa pun bagi orang tua maupun santri: *Mengapa bukan 85? Apa yang kurang dari perilaku anak? Dan apa persisnya yang harus diperbaiki?* [^1]
 
-Ekosistem TUMBUH merancang **Master Rubrik Perilaku Deskriptif 4 Tingkat Kemahiran (*4-Level Developmental Rubric*)**: [^1]
+Ekosistem TUMBUH merombak angka samar ini dengan merumuskan **Master Rubrik Perilaku PBIS Berbasis 4 Tingkat Kemahiran (*Four-Tier Developmental Rubrics*)**:
 
 ```mermaid
 flowchart LR
-    L1["<b>LEVEL 1: PERLU BIMBINGAN (EMERGING)</b><br/>Belum konsisten & butuh supervisi eksternal penuh"]
-    L2["<b>LEVEL 2: BERKEMBANG (DEVELOPING)</b><br/>Mampu menjalankan adab saat diingatkan musyrif"]
-    L3["<b>LEVEL 3: MANDIRI (PROFICIENT)</b><br/>Konsisten beradab atas inisiatif kesadaran sendiri"]
-    L4["<b>LEVEL 4: TELADAN (EXEMPLARY / QUDWAH)</b><br/>Menginspirasi, melatih, & mengayomi santri lain"]
-
-    L1 --> L2 --> L3 --> L4
+    L1["<b>LEVEL 1: AWAL / MEMERLUKAN BIMBINGAN (EMERGING)</b><br/>Belum mampu melakukan secara mandiri; membutuhkan instruksi & pengawasan aktif"] --> L2["<b>LEVEL 2: BERKEMBANG / DENGAN PENGINGAT (DEVELOPING)</b><br/>Memahami aturan dasar; mampu menjalankan dengan 1 kali pengingat lembut"]
+    
+    L2 --> L3["<b>LEVEL 3: MUMPUNI / KONSISTEN MANDIRI (PROFICIENT)</b><br/>Menjalankan adab atas kesadaran diri sendiri (*Second Nature*) tanpa perlu disuruh"]
+    
+    L3 --> L4["<b>LEVEL 4: TELADAN / MEMBIMBING SESAMA (EXEMPLARY)</b><br/>Bukan hanya mandiri, melainkan menginspirasi, mengajak, & membimbing saudaranya"]
 ```
 
 ---
 
-## 2. Prinsip Penyusunan Deskriptor: Berbasis Perilaku Teramati (*Observable Behaviors*)
+## 2. Struktur Anatomi Setiap Master Rubrik Ekosistem TUMBUH
 
-Agar terbebas dari prasangka subjektif penilai (*Rater Bias*), setiap deskriptor dalam rubrik TUMBUH mematuhi **Tiga Syarat Baku**:
-1. **Dapat Dilihat & Didengar (*Observable & Audible*)**: Menggunakan kata kerja konkret (misal: *"merapikan sprei kasur"*, *"mengetuk pintu sebelum masuk"*), bukan kata sifat yang kabur (misal: *"bersikap baik"*).
-2. **Berorientasi Pertumbuhan Positif (*Strength-Based Language*)**: Mendeskripsikan apa yang harus dilakukan santri, bukan semata-mata mencantumkan daftar larangan.
-3. **Kontekstual 24 Jam**: Mencakup situasi nyata di kelas pagi, serambi masjid, kamar mandi, lapangan olahraga, hingga kamar tidur malam.
+Setiap indikator karakter dalam 10 Muwashafat didekomposisi ke dalam 4 kolom deskriptor perilaku yang operasional, teramati (*observable*), dan terukur (*measurable*): [^2]
+
+```
+               STRUKTUR 4 KOLOM MASTER RUBRIK PERILAKU TUMBUH
+  
+  ┌─────────────────┬─────────────────┬─────────────────┬─────────────────┐
+  │ LEVEL 1 (AWAL)  │ LEVEL 2 (BERKBG)│ LEVEL 3 (MUMPUNI│ LEVEL 4 (TELADAN│
+  ├─────────────────┼─────────────────┼─────────────────┼─────────────────┤
+  │ Masih terlambat │ Bangun tepat    │ Bangun mandiri  │ Bangun awal,    │
+  │ bangun fajar;   │ waktu setelah   │ sebelum adzan;  │ qiyamul lail,   │
+  │ butuh dibangun- │ dibangunkan     │ langsung wudhu  │ & membantu      │
+  │ kan berulang    │ 1 kali secara   │ & ke masjid     │ membangunkan    │
+  │ kali oleh staf. │ ramah.          │ mandiri.        │ kawan sekamar.  │
+  └─────────────────┴─────────────────┴─────────────────┴─────────────────┘
+```
+
+Dengan struktur deskriptor yang objektif ini:
+* Tidak ada lagi bias suka/tidak suka (*Halo Effect*) dari pihak penilai.
+* Santri mengetahui dengan sangat jernih di level mana posisinya saat ini dan apa langkah konkret yang harus dilatihnya untuk naik ke level berikutnya.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Stevens, D. D., & Levi, A. J. (2013). *Introduction to Rubrics: An Assessment Tool to Save Grading Time, Convey Effective Feedback, and Promote Student Learning* (2nd ed.). Sterling, VA: Stylus Publishing, hlm. 15–42.
-[^2]: Brookhart, S. M. (2018). *How to Create and Use Rubrics for Formative Assessment and Grading*. Alexandria, VA: ASCD, hlm. 60–85.
+[^1]: Brookhart, S. M. (2018). *How to Create and Use Rubrics for Formative Assessment and Grading*. Alexandria, VA: ASCD, hlm. 12–45.
+[^2]: Popham, W. J. (1997). What's wrong—and what's right—with rubrics. *Educational Leadership*, 55(2), 72–75.
+[^3]: Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.

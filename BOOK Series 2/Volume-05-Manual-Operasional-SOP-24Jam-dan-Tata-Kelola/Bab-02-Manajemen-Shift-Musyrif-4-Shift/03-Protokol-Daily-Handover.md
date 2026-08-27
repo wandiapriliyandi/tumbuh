@@ -2,31 +2,62 @@
 
 ---
 
-## 1. Menjembatani Silo: Protokol Serah Terima 15 Menit
+## 1. Menghubungkan Dua Dunia: Protokol Serah Terima 15 Menit
 
-Salah satu inovasi manajerial terpenting dalam Ekosistem TUMBUH adalah pelaksanaan **Daily Handover (Pertemuan Serah Terima Harian)** yang mempertemukan pimpinan asrama dan pimpinan madrasah dua kali setiap hari: [^1]
+Dalam ekosistem sekolah berasrama, transfer informasi yang terputus antara pihak asrama dan pihak sekolah formal sering kali menyebabkan santri yang sedang mengalami krisis emosional atau sakit fisik terabaikan. [^1] 
+
+Sebagai contoh: seorang santri yang semalaman menangis karena *homesick* berat atau mengalami demam ringan di asrama, masuk ke kelas madrasah tanpa sepengetahuan guru kelas. Ketika santri tersebut tampak lesu dan tidak fokus, guru membentaknya karena mengira ia malas. Bentakan ini memperparah trauma psikologis anak.
+
+Ekosistem TUMBUH memutus rantai miskomunikasi ini melalui penerapan **Protokol Daily Handover (Serah Terima Harian Berbasis Data)** yang dilaksanakan dua kali setiap hari:
 
 ```mermaid
 flowchart LR
-    H1["<b>DAILY HANDOVER 1 (07:00 - 07:15 PAGI)</b><br/>Koordinator Musyrif Asrama ──► Koordinator Guru Madrasah<br/><i>Serahkan data kesehatan santri, kamar 5S, & kondisi semalam</i>"]
-    
-    H2["<b>DAILY HANDOVER 2 (16:00 - 16:15 SORE)</b><br/>Koordinator Guru Madrasah ──► Koordinator Musyrif Asrama<br/><i>Serahkan data KBM siang, catatan tugas rumah, & insiden kelas</i>"]
+    subgraph Pagi["DAILY HANDOVER 1 (07:00 - 07:15 PAGI)"]
+        A1["Koordinator Musyrif Asrama"] -->|Serahkan Data Kesehatan, Emosi, & Logbook Malam| B1["Koordinator Guru Madrasah"]
+    end
+
+    subgraph Sore["DAILY HANDOVER 2 (16:00 - 16:15 SORE)"]
+        B2["Koordinator Guru Madrasah"] -->|Serahkan Data KBM Siang, Catatan Khusus, & Tugas PR| A2["Koordinator Musyrif Asrama"]
+    end
 ```
 
 ---
 
-## 2. Format 4 Elemen Pelaporan Handover Cepat
+## 2. Struktur Standar 4 Elemen Pelaporan Handover Cepat
 
-Dalam forum 15 menit ini, pelaporan dilakukan secara terstruktur menggunakan aplikasi dashboard:
-1. **Status Kesehatan Santri (*Health Status*)**: Daftar santri yang sedang dirawat di Poskestren atau butuh pemantauan minum obat.
-2. **Status Perilaku Tier 2 & Tier 3 (*Targeted Students Update*)**: Daftar santri yang sedang menjalani program CICO hari ini.
-3. **Catatan Apresiasi Kebaikan Luar Biasa (*Celebrations*)**: Berbagi kabar tentang santri yang menunjukkan kemajuan adab istimewa.
-4. **Isu Sarana & Logistik (*Facilities Readiness*)**: Koordinasi cepat dengan Wakamad Sarpras jika ada perbaikan fasilitas darurat.
+Pertemuan 15 menit ini berlangsung di Ruang Transisi Terpadu dengan format pelaporan berbasis data digital: [^2]
 
-Dengan protokol Daily Handover ini, informasi tidak pernah terputus, dan santri merasakan bahwa guru di kelas dan musyrif di asrama adalah satu kesatuan keluarga pendidik yang saling terhubung erat.
+```
+               FORMAT STANDAR PELAPORAN DAILY HANDOVER
+  
+  1. STATUS KESEHATAN SANTRI (HEALTH ALERTS):
+     • Daftar santri yang dirawat di Poskestren (Nama, Diagnosa, Obat).
+     • Santri yang dipulangkan ke kamar namun membutuhkan observasi suhu/istirahat.
+     
+  2. STATUS EMOSI & PERILAKU TIER 2 / TIER 3 (BEHAVIOR TRACKING):
+     • Santri yang sedang menjalani pemantauan kartu CICO (Check-In / Check-Out).
+     • Santri yang mengalami dinamika emosional (misal: duka keluarga, konflik kamar).
+     
+  3. APRESIASI & PRESTASI ADAB LUAR BIASA (CELEBRATIONS):
+     • Nama-nama santri yang menunjukkan adab mulia istimewa untuk diapresiasi di kelas/halaqah.
+     
+  4. ISU SARANA & LOGISTIK DARURAT (FACILITIES & READINESS):
+     • Catatan fasilitas yang membutuhkan perbaikan cepat dari tim Sarpras.
+```
+
+---
+
+## 3. Berita Acara Digital & Akuntabilitas Hukum
+
+Setiap sesi Daily Handover diakhiri dengan **Penandatanganan Berita Acara Serah Terima Digital** pada tablet operasional:
+* Kedua pihak (Asrama dan Madrasah) menandatangani berita acara secara elektronik.
+* Sistem secara otomatis mengirimkan ringkasan status santri yang butuh perhatian khusus ke dasbor masing-masing Wali Kelas.
+* Dengan mekanisme ini, santri merasakan bahwa guru di ruang kelas dan musyrif di kamar asrama adalah satu kesatuan keluarga pendidik yang senantiasa memperhatikan, melindungi, dan menyayangi mereka sepenuh hati.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
 [^1]: Patterson, E. S., et al. (2004). Handoffs: Implications for healthcare from actions taken in other high-stakes domains. *Quality and Safety in Health Care*, 13(2), 125–132.
+[^2]: Australian Commission on Safety and Quality in Health Care. (2019). *Implementation Toolkit for Clinical Handover*. Sydney: ACSQHC.
+[^3]: Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.

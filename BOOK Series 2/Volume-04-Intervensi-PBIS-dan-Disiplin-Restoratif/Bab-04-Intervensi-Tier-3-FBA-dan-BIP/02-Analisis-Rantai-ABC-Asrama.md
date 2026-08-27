@@ -2,49 +2,64 @@
 
 ---
 
-## 1. Anatomi Rantai Perilaku ABC
+## 1. Anatomi Rantai Perilaku Tiga Elemen (ABC)
 
-Untuk membedah fungsi perilaku secara objektif, Tim Intervensi Tier 3 (Guru BK dan Musyrif) menggunakan instrumen observasi **Rantai ABC (*Antecedent - Behavior - Consequence*)**: [^1]
+Dalam metodologi Analisis Perilaku Terapan (*Applied Behavior Analysis - ABA*), setiap insiden perilaku manusia selalu terjadi dalam sebuah rangkaian sebab-akibat tiga elemen yang saling mengunci: **Antecedent (Pemicu Awal), Behavior (Bentuk Perilaku Teramati), dan Consequence (Konsekuensi Respon yang Mengikuti)**. [^1]
 
 ```
-                     RANTAI ANALISIS PERILAKU ABC DI PESANTREN
-                     
-  [A: ANTECEDENT]       ──► Pemicu awal sebelum perilaku terjadi
-                            (Waktu, lokasi, orang yang terlibat, tuntutan tugas)
-                            
-  [B: BEHAVIOR]         ──► Bentuk perilaku spesifik yang teramati
-                            (Apa persisnya yang dilakukan/dikatakan santri)
-                            
-  [C: CONSEQUENCE]      ──► Apa yang terjadi segera setelah perilaku dilakukan
-                            (Bagaimana respon kawan/musyrif yang memperkuat perilaku)
+                     RANTAI ANALISIS PERILAKU TIGA ELEMEN (ABC)
+  
+  ┌──────────────────┬───────────────────────────────────────────────────────┐
+  │ ELEMEN RANTAI    │ DEFINISI & PERTANYAAN KUNCI DIAGNOSTIK                │
+  ├──────────────────┼───────────────────────────────────────────────────────┤
+  │ [A] ANTECEDENT   │ Apa kondisi lingkungan, waktu, lokasi, orang terlibat,│
+  │     (Pemicu Awal)│ atau tuntutan tugas yang memicu perilaku sebelum aksi?│
+  ├──────────────────┼───────────────────────────────────────────────────────┤
+  │ [B] BEHAVIOR     │ Apa persisnya tindakan motorik / kata-kata terukur    │
+  │     (Perilaku)   │ yang dilakukan santri? (Deskripsi faktual tanpa opini)│
+  ├──────────────────┼───────────────────────────────────────────────────────┤
+  │ [C] CONSEQUENCE  │ Apa yang terjadi segera setelah santri bertindak?      │
+  │     (Konsekuensi)│ Bagaimana respon kawan/ustadz yang memperkuat perilaku?│
+  └──────────────────┴───────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 2. Studi Kasus Lapangan: Analisis ABC Santri Membolos Halaqah
+## 2. Studi Kasus Lapangan: Analisis ABC Kasus Santri Mengamuk di Halaqah Kitab
+
+Untuk memahami cara kerja analisis ABC di lingkungan pesantren, perhatikan studi kasus nyata berikut: [^2]
 
 ```mermaid
-flowchart LR
-    A["<b>ANTECEDENT (Pemicu)</b><br/>Ustadz memanggil santri Zidan untuk membaca kitab gundul di depan halaqah"]
+flowchart TD
+    A["<b>[A] ANTECEDENT (Pemicu Nyata)</b><br/>Ustadz halaqah secara mendadak menyuruh Santri Zidan (Kelas 8 MTs) membaca teks kitab gundul tanpa harakat di depan seluruh santri halaqah"]
     
-    B["<b>BEHAVIOR (Perilaku)</b><br/>Zidan membanting kitab, memaki, & lari keluar masjid menuju asrama"]
+    B["<b>[B] BEHAVIOR (Perilaku Meledak)</b><br/>Zidan membanting kitab ke lantai, berteriak memaki dengan kata kasar, menendang pintu masjid, dan lari keluar menuju lorong asrama"]
     
-    C["<b>CONSEQUENCE (Respon)</b><br/>Zidan diusir dari halaqah & tidak jadi membaca kitab (Fungsi Escape Tercapai)"]
+    C["<b>[C] CONSEQUENCE (Respon Lingkungan)</b><br/>Ustadz marah & mengusir Zidan keluar dari halaqah; teman-teman sekamar menertawakan & membicarakan kejadian tersebut"]
 
     A --> B --> C
 ```
 
-* **Analisis Tim FBA**:
-  - Pemicu utama bukan "benci masjid", melainkan **rasa cemas luar biasa (*anxiety*) karena Zidan belum lancar nahwu** dan takut ditertawakan teman-temannya saat salah membaca harakat di depan halaqah.
-  - Sanksi lama (mengusir keluar) justru **memberikan penguatan negatif (*negative reinforcement*)**, karena Zidan berhasil mencapai tujuannya: *terbebas dari keharusan membaca kitab*.
+### 🔍 Bedah Diagnostik Tim FBA:
+1. **Analisis Fungsi Perilaku**:
+   * Zidan sebenarnya mengalami kesulitan membaca bahasa Arab gundul (*Academic Frustration*). Ia merasa cemas luar biasa (*Acute Anxiety*) dan takut dipermalukan di hadapan kawan-kawannya.
+   * Fungsi perilakunya adalah **Menghindari Rasa Malu / Tugas yang Terlalu Sulit (*Escape / Avoidance Function*)**.
+2. **Kelemahan Respon Konvensional**:
+   * Tindakan ustadz mengusir Zidan keluar dari masjid justru **memberikan Penguatan Negatif (*Negative Reinforcement*)** yang memuaskan fungsi perilaku Zidan: *Zidan berhasil terbebas dari keharusan membaca kitab!* Akibatnya, di waktu mendatang Zidan akan mengulangi mengamuk setiap kali disuruh membaca kitab.
 
-* **Solusi Berbasis ABC**:
-  - *Modifikasi Antecedent*: Ustadz tidak langsung menyuruh Zidan membaca di depan umum, melainkan membimbingnya membaca privat terlebih dahulu.
-  - *Pengajaran Replacement Behavior*: Mengajari Zidan mengangkat tangan dan berkata santun: *"Ustadz, mohon izin saya butuh bimbingan kata ini terlebih dahulu"*.
+---
+
+## 3. Solusi Intervensi Berbasis Rantai ABC
+
+Berdasarkan analisis ABC, Tim Intervensi Tier 3 merancang solusi:
+* **Modifikasi Antecedent (Mencegah Pemicu)**: Ustadz tidak lagi menyuruh Zidan membaca secara mendadak di depan umum, melainkan memberikan teks bahan ajar satu hari sebelumnya dan membimbingnya membaca privat terlebih dahulu.
+* **Pengajaran Perilaku Pengganti (*Replacement Behavior*)**: Melatih Zidan menggunakan kartu *"Minta Waktu Latihan Privat"* secara santun tatkala merasa ragu dengan bacaannya.
+* **Modifikasi Konsekuensi**: Menghilangkan respons pengusiran; mendampingi Zidan di Bilik Sakinah untuk menenangkan diri dan melatih kembali bacaan secara empatik.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied Behavior Analysis* (3rd ed.). Hoboken, NJ: Pearson, hlm. 280–310.
+[^1]: Cooper, J. O., Heron, T. E., & Heward, W. L. (2020). *Applied Behavior Analysis* (3rd ed.). Hoboken, NJ: Pearson, hlm. 285–315.
 [^2]: Iwata, B. A., et al. (1994). Toward a functional analysis of self-injury. *Journal of Applied Behavior Analysis*, 27(2), 197–209.
+[^3]: O'Neill, R. E., et al. (2015). *Functional Assessment and Program Development for Problem Behavior*. Stamford, CT: Cengage Learning.

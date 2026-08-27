@@ -1,34 +1,36 @@
-# SUB-BAB 2.3: ARSITEKTUR LOGBOOK DIGITAL PBIS: PENCATATAN MIKRO CEPAT & EFISIEN
+# SUB-BAB 2.3: ARSITEKTUR LOGBOOK DIGITAL PBIS: PENCATATAN 3-KLIK <15 DETIK
 
 ---
 
-## 1. Menghilangkan Beban Administrasi yang Melelahkan
+## 1. Ergonomi Digital: Mencegah Beban Administrasi Musyrif
 
-Salah satu alasan kegagalan program penilaian karakter di banyak sekolah adalah **beban administrasi manual yang terlalu rumit (*administrative burnout*)**. Musyrif yang sudah lelah menjaga asrama dipaksa menulis laporan berlembar-lembar setiap malam, sehingga akhirnya mereka mengisi laporan secara asal-asalan (*copy-paste* formalitas).
+Salah satu alasan mengapa sistem pencatatan perkembangan karakter santri sering gagal di lapangan adalah **rumitnya instrumen administrasi manual (kertas formulir tebal)** yang memakan waktu berjam-jam untuk diisi. Musyrif yang sudah lelah menjaga asrama tidak memiliki waktu untuk menulis esai panjang setiap malam, sehingga pencatatan terbengkalai. [^1]
 
-Ekosistem TUMBUH merancang **Aplikasi Logbook Digital PBIS** dengan filosofi: **Pencatatan Cepat Berbasis Sentuhan (*3-Click Micro-Logging in <15 Seconds*)**.
+Ekosistem TUMBUH merancang **Arsitektur Aplikasi Logbook Digital PBIS** dengan prinsip **Ergonomi Pencatatan Cepat (3-Klik dalam Waktu <15 Detik per Santri)**:
 
 ```mermaid
 flowchart LR
-    S1["<b>SENTUHAN 1: Pilih Nama Santri</b><br/>(Foto / Nomor Kamar)"] --> S2["<b>SENTUHAN 2: Pilih Muwashafah</b><br/>(Ikon 10 Karakter / 5S)"]
-    S2 --> S3["<b>SENTUHAN 3: Kategori Catatan</b><br/>(Apresiasi Hijau / Bimbingan Kuning / Tier 3 Merah)"]
-    S3 --> S4["<b>SELESAI (<15 DETIK)</b><br/>(Tersimpan & Terenkripsi Cloud)"]
+    PilihSantri["<b>KLIK 1: PILIH NAMA SANTRI</b><br/>(Foto Wajah & Kamar Santri Muncul Otomatis)"] --> PilihKategori["<b>KLIK 2: PILIH KATEGORI ADAB</b><br/>(Salimul Aqidah, 5S, Nafi'un, dll)"]
+    PilihKategori --> PilihTindakan["<b>KLIK 3: PILIH STATUS & APRESIASI</b><br/>(Apresiasi Positif 4:1 / Koreksi Restoratif)"]
+    PilihTindakan --> Selesai["<b>TERCATAT & TERSINKRONISASI KE SERVER (<15 DETIK)</b>"]
 ```
 
 ---
 
-## 2. Fitur Utama Aplikasi Logbook Digital Musyrif
+## 2. Struktur Database Relasional & Fitur Utama Aplikasi Logbook
 
-Aplikasi logbook dirancang responsif untuk perangkat ponsel pintar (*smartphone*) musyrif dengan fitur-fitur esensial:
+Aplikasi dirancang ringan (*Lightweight Mobile-First Web Application*) yang dapat diakses melalui ponsel pintar atau tablet musyrif: [^2]
 
-1. **Tagging 10 Muwashafat Cepat**: Ikon grafis intuitif untuk mencatat perilaku adab (misal: ikon masjid untuk *Shahihul Ibadah*, ikon buku untuk *Mutsaqqaful Fikr*, ikon sapu untuk *5S/Munazzhamun*).
-2. **Rekaman Suara Cepat (*Voice-to-Text Feature*)**: Musyrif dapat mendiktekan catatan deskriptif singkat sambil berjalan tanpa perlu mengetik panjang lebar.
-3. **Sinkronisasi Terpadu Madrasah-Asrama**: Catatan musyrif di asrama langsung terhubung dengan dashboard Wali Kelas di madrasah, sehingga guru pagi mengetahui kondisi santri yang semalam kurang fit atau baru saja diapresiasi.
-4. **Keamanan & Kerahasiaan Data (*Role-Based Security*)**: Catatan kasus khusus hanya dapat diakses oleh Kepala Pesantren dan Tim Bimbingan Konseling (BK).
+1. **Preset Cepat Perilaku Harian (*Quick-Tag Behaviors*)**:
+   * Tersedia tombol sekali-sentuh untuk perilaku rutin: `[Subuh Tepat Waktu]`, `[Kasur 5S Kencang]`, `[Membantu Teman Sekamar]`, `[Fokus Mudzakarah]`.
+2. **Input Suara Cepat (*Voice-to-Text Transcription*)**:
+   * Musyrif dapat mendiktekan catatan naratif singkat menggunakan suara; sistem otomatis mengubahnya menjadi teks narasi laporan.
+3. **Kerahasiaan & Pembatasan Hak Akses (*Role-Based Access Control - RBAC*)**:
+   * Musyrif hanya dapat melihat data santri binaan di kamarnya; Guru BK dan Kepala Madrasah memiliki akses komprehensif ke seluruh data sekolah.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
 [^1]: Nielsen, J. (1994). *Usability Engineering*. San Francisco: Morgan Kaufmann, hlm. 115–140.
-[^2]: Sugai, G., & Horner, R. (2009). Responsiveness-to-intervention and school-wide positive behavior support: Integration of multi-tiered system. *Exceptionality*, 17(4), 223–237.
+[^2]: Pressman, R. S., & Maxim, B. R. (2020). *Software Engineering: A Practitioner's Approach* (9th ed.). New York: McGraw-Hill.

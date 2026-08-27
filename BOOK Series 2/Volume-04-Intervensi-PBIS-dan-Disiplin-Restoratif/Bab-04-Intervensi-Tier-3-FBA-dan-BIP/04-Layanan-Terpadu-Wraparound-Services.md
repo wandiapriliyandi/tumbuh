@@ -4,34 +4,39 @@
 
 ## 1. Filosofi Wraparound: Membalut Santri dengan Sistem Dukungan Utuh
 
-Untuk kasus-kasus Tier 3 yang sangat kompleks (seperti trauma keluarga berat, depresi klinis, kecenderungan menyakiti diri sendiri, atau kedukaan mendalam), pendekatan individual musyrif saja tidak akan cukup. Diperlukan **Layanan Terpadu Lintas Disiplin (*Wraparound Services*)**. [^1]
+Untuk kasus-kasus Tier 3 yang sangat kompleks—seperti santri yang mengalami kedukaan mendalam akibat wafatnya orang tua, trauma kekerasan masa lalu di rumah (*Adverse Childhood Experiences - ACEs*), depresi klinis, atau kecenderungan menyakiti diri sendiri (*Self-Harm*)—penanganan individual oleh musyrif kamar saja tidak akan pernah cukup. [^1]
 
-Filosofi *Wraparound* memosisikan santri dan orang tua di pusat lingkaran dukungan, yang "dibalut" secara rapat oleh seluruh pemangku kepentingan pondok:
+Diperlukan **Layanan Terpadu Lintas Disiplin (*Wraparound Services Model*)**: sebuah pendekatan komprehensif yang memosisikan santri dan keluarganya di pusat lingkaran dukungan, yang "dibalut rapat" (*wrapped around*) oleh seluruh jejaring pendukung di pesantren:
 
 ```mermaid
 flowchart TD
-    SantriKeluarga["<b>SANTRI & ORANG TUA (PUSAT DUKUNGAN)</b>"]
+    SantriKeluarga["<b>SANTRI & ORANG TUA (PUSAT DUKUNGAN KASIH SAYANG)</b>"]
     
-    subgraph TimPenyelamat["TIM LAYANAN TERPADU WRAPAROUND TUMBUH"]
-        BK["<b>Konselor BK / Psikolog</b><br/>(Terapi Emosi di Bilik Sakinah)"]
-        Musyrif["<b>Musyrif Kamar</b><br/>(Pendampingan Kasih Sayang 24 Jam)"]
-        Guru["<b>Wali Kelas & Guru</b><br/>(Diferensiasi Beban Belajar Madrasah)"]
-        Medis["<b>Dokter Poskestren</b><br/>(Pemantauan Fisik, Nutrisi, & Tidur)"]
+    subgraph TimWraparound["TIM LAYANAN TERPADU WRAPAROUND TUMBUH"]
+        BK["<b>Konselor BK / Psikolog Klinis</b><br/>(Terapi Regulasi Emosi di Bilik Sakinah)"]
+        Musyrif["<b>Musyrif Kamar 24 Jam</b><br/>(Pendampingan Kelekatan Aman & Rutinitas Asrama)"]
+        Guru["<b>Wali Kelas & Dewan Guru</b><br/>(Diferensiasi Beban Belajar Akademik Madrasah)"]
+        Medis["<b>Dokter / Perawat Poskestren</b><br/>(Pemantauan Fisik, Nutrisi, & Pola Tidur)"]
+        Tokoh["<b>Kyai / Sesepuh Pesantren</b><br/>(Bimbingan Doa Ruhiyyah & Penguatan Batin)"]
     end
 
-    SantriKeluarga <===> TimPenyelamat
+    SantriKeluarga <===> TimWraparound
 ```
 
 ---
 
 ## 2. Empat Prinsip Kerja Tim Wraparound di Pesantren
 
-1. **Berbasis Kekuatan (*Strength-Based Approach*)**: Memulai perencanaan dengan mengidentifikasi apa potensi dan kebaikan yang masih dimiliki santri (misal: bakat seni khat atau hafalan juz 30), bukan terpaku pada kesalahannya.
-2. **Kemitraan Sejajar dengan Orang Tua**: Orang tua tidak dipanggil untuk dimarahi atau dihakimi, melainkan diajak duduk melingkar sebagai mitra utama pemulihan ananda.
-3. **Penyelarasan Beban Santri**: Jika santri sedang mengalami krisis emosional berat, pihak madrasah memberikan dispensasi beban tugas akademik sementara agar energi psikologis santri fokus pada pemulihan diri.
-4. **Evaluasi Perkembangan Dwi-Mingguan**: Tim bertemu setiap dua pekan untuk meninjau efektivitas dokumen BIP dan merayakan setiap kemajuan yang diraih santri.
+1. **Berbasis Kekuatan Fitrah (*Strength-Based Focus*)**:
+   * Tim tidak memandang santri dari "daftar dosanya", melainkan memetakan apa kekuatan fitrah dan potensi positif yang masih dimiliki santri (misal: memiliki suara merdu, pintar menggambar khat, atau sangat setia kawan). Kekuatan ini dijadikan pintu masuk pemulihan.
+2. **Kemitraan Sejajar dengan Orang Tua (*Family as Full Partners*)**:
+   * Orang tua tidak dipanggil untuk dimarahi atau dihakimi, melainkan diajak duduk melingkar sebagai mitra utama pemulihan ananda.
+3. **Penyelarasan Beban Fleksibel (*Academic Accommodations*)**:
+   * Selama santri menjalani pemulihan emosional intensif, pihak madrasah memberikan penyesuaian beban tugas akademik sementara agar energi psikologis santri fokus pada pemulihan diri.
+4. **Pertemuan Kasus Dwi-Mingguan Terjadwal (*Bi-Weekly Case Conference*)**:
+   * Tim bertemu setiap 2 pekan sekali untuk meninjau efektivitas BIP, mencocokkan data observasi, dan merayakan setiap kemajuan kecil yang dicapai santri.
 
-Dengan pendekatan *Wraparound* ini, pesantren membuktikan diri sebagai rumah peradaban yang melindungi dan menyembuhkan setiap anak kaum muslimin.
+Dengan pendekatan *Wraparound* ini, pesantren membuktikan diri sebagai rumah peradaban yang memeluk, merawat, dan menyelamatkan setiap anak kaum muslimin dengan cinta yang utuh.
 
 ---
 
@@ -39,3 +44,4 @@ Dengan pendekatan *Wraparound* ini, pesantren membuktikan diri sebagai rumah per
 
 [^1]: Eber, L., Nelson, C. M., & Miles, P. (1997). School-based wraparound for students with emotional and behavioral challenges. *Journal of Emotional and Behavioral Disorders*, 5(3), 174–186.
 [^2]: Walker, J. S., & Bruns, E. J. (2006). Building on practice-based evidence: Using alternative methods to define the wraparound process. *Psychiatric Services*, 57(9), 1288–1293.
+[^3]: Felitti, V. J., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults: The Adverse Childhood Experiences (ACE) Study. *American Journal of Preventive Medicine*, 14(4), 245–258.

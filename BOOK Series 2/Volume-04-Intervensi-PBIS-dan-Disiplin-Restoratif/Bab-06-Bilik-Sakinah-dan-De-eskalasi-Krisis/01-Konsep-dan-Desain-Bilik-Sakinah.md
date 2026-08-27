@@ -2,35 +2,44 @@
 
 ---
 
-## 1. Menolak Ruang Isolasi Punitif: Menghadirkan Ruang Ketenangan
+## 1. Menolak Ruang Isolasi Punitif: Menghadirkan Ruang Ketenangan Jiwa
 
-Di sebagian sekolah berasrama konvensional, santri yang mengalami ledakan emosi atau melanggar aturan berat sering kali dikurung di sebuah ruangan gelap yang sempit ("kamar isolasi / sel pondok") sebagai bentuk hukuman. Praktik pengurungan ini secara neurosains memicu kepanikan amigdala yang akut, memperparah trauma psikologis, dan memicu kebencian mendalam.
+Di sebagian pondok pesantren lama, santri yang mengalami krisis histeria emosi atau melakukan pelanggaran berat kerap kali dikurung di sebuah ruangan gelap yang sempit dan berdebu ("kamar isolasi / sel gelap pondok") sebagai bentuk hukuman penjeraan. [^1]
 
-Ekosistem TUMBUH merombak konsep isolasi tersebut menjadi **Bilik Sakinah (*The Sensory Calming & De-escalation Sanctuary*)**. [^1]
+Secara neurobiologi dan teori trauma (*Polyvagal Theory*), tindakan pengurungan paksa di ruang gelap ini secara instan memicu **Kepanikan Amigdala Akut (*Sympathetic Overdrive & Dissociative Freeze Response*)**. Pengurungan tidak membuat santri jera, melainkan memperparah trauma psikologis anak, memicu klaustrofobia berat, dan menanamkan kebencian batin yang mendalam terhadap institusi pesantren.
 
-Bilik Sakinah bukanlah ruang hukuman (*not a detention room*), melainkan **ruang perlindungan sensoris (*sensory-safe environment*)** yang dirancang khusus untuk membantu santri menurunkan ketegangan sistem saraf otonomnya (*down-regulating sympathetic nervous system*) agar kembali tenang dan mampu berpikir jernih.
+Ekosistem TUMBUH merombak total konsep kamar isolasi tersebut dan mendirikan **Bilik Sakinah (*The Sensory Calming & De-Escalation Sanctuary*)**: sebuah ruang perlindungan sensoris (*sensory-safe room*) yang dirancang khusus untuk membantu santri menurunkan ketegangan sistem saraf otonomnya (*down-regulating hyperarousal*) agar kembali mencapai zona tenang batin (*Ventral Vagal State*).
 
 ```mermaid
 flowchart TD
-    subgraph ElemenBilikSakinah["DESAIN SENSORIS BILIK SAKINAH"]
-        E1["<b>Pencahayaan Hangat Lembut</b><br/>(Lampu amber redup tanpa kilau silau)"]
-        E2["<b>Kenyamanan Kinestetik</b><br/>(Karpet lembut, bantal duduk tebal, beanbag empuk)"]
-        E3["<b>Fasilitas Thaharah & Hidrasi</b><br/>(Dispenser air mineral sejuk & tempat wudhu privat)"]
-        E4["<b>Instrumen Regulasi & Refleksi</b><br/>(Mushaf Al-Qur'an, headphone murottal, jurnal refleksi)"]
+    subgraph ElemenBilikSakinah["4 ELEMEN DESAIN SENSORIS BILIK SAKINAH TUMBUH"]
+        E1["<b>1. PENCAHAYAAN AMBER HANGAT (WARM AMBIENT LIGHTING)</b><br/>Lampu amber temaram yang dapat diredupkan; bebas dari kilau silau lampu neon"]
+        
+        E2["<b>2. KENYAMANAN KINESTETIK & PROPRIOSEPTIF</b><br/>Karpet peredam suara tebal, bantal duduk lembut, & beanbag ergonomis"]
+        
+        E3["<b>3. FASILITAS THAHARAH & HIDRASI SEJUK</b><br/>Tempat wudhu privat bersirkulasi sejuk & dispenser air mineral sejuk"]
+        
+        E4["<b>4. INSTRUMEN REGULASI RUHIYYAH & REFLEKSI</b><br/>Mushaf Al-Qur'an terjemah, headphone murottal tartil, & buku jurnal refleksi"]
     end
 ```
 
 ---
 
-## 2. Aturan Baku Penggunaan Bilik Sakinah
+## 2. Standar Operasional Desain Fisik & Visibilitas Aman Bilik Sakinah
 
-1. **Akses Sukarela & Terfasilitasi**: Santri yang merasa emosinya mulai meluap dapat meminta izin untuk menenangkan diri di Bilik Sakinah selama 15–20 menit (*Voluntary Sensory Break*).
-2. **Pintu Tidak Terkunci dari Luar**: Pintu Bilik Sakinah memiliki jendela kaca visibilitas dan tidak pernah dikunci dari luar, menjamin rasa aman dan terhindar dari klaustrofobia.
-3. **Didampingi Konselor BK / Musyrif Terlatih**: Staf hadir mendampingi secara tenang di sudut ruangan tanpa memaksa santri langsung berbicara sebelum emosinya stabil.
+Wakamad Sarpras dan Tim Konseling BK memastikan standar fisik Bilik Sakinah memenuhi kriteria keselamatan: [^2]
+
+1. **Pintu Kaca Visibilitas & Bebas Kunci Luar (*Safety First*)**:
+   * Pintu Bilik Sakinah dilengkapi panel kaca transparan dan **dilarang keras dikunci dari luar**. Santri memiliki kebebasan membuka pintu kapan pun ia merasa telah tenang, menghilangkan rasa terkekang atau klaustrofobia.
+2. **Akses Sukarela & Terfasilitasi (*Voluntary Sensory Break*)**:
+   * Santri yang merasa emosinya mulai memuncak atau kewalahan (*emotional overwhelm*) dapat meminta izin kepada musyrif/guru untuk menenangkan diri di Bilik Sakinah selama 15–20 menit sebelum kembali mengikuti aktivitas.
+3. **Pendampingan Tenang Staf Terlatih (*Silent Calming Presence*)**:
+   * Staf konselor atau musyrif terlatih hadir menemani santri di sudut ruangan secara tenang tanpa memaksa santri langsung berbicara sebelum kondisi fisiologisnya stabil.
 
 ---
 
 ### 📚 Catatan Kaki & Referensi Akademik:
 
-[^1]: Champagne, T., & Stromberg, E. (2004). Sensory approaches in inpatient psychiatric settings: Innovative alternatives to seclusion and restraint. *Journal of Psychosocial Nursing and Mental Health Services*, 42(9), 34–44.
-[^2]: Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. New York: W. W. Norton & Company, hlm. 150–185.
+[^1]: Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. New York: W. W. Norton & Company, hlm. 150–195.
+[^2]: Champagne, T., & Stromberg, E. (2004). Sensory approaches in inpatient psychiatric settings: Innovative alternatives to seclusion and restraint. *Journal of Psychosocial Nursing and Mental Health Services*, 42(9), 34–44.
+[^3]: Perry, B. D. (2006). Applying principles of neurodevelopment to clinical work with maltreated and traumatized children. Dalam N. B. Webb (Ed.), *Working with Traumatized Youth in Child Welfare*. New York: Guilford Press, hlm. 27–52.
