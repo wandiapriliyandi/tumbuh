@@ -1,71 +1,111 @@
 # Sub-Bab 10.1: Ikrar di Bawah Kubah Masjid
 
-Pukul 20.30 malam di bawah kubah agung masjid utama Pesantren Darul Adab. Lampu-lampu gantung kristal di tengah kubah masjid menyala terang benderang, memancarkan cahaya keemasan yang menaungi seluruh jamaah. Suasana di dalam ruang utama masjid terasa sangat sakral, agung, dan diliputi oleh gelombang kekhidmatan spiritual yang luar biasa.
+Lampu-lampu gantung kristal tembaga di bawah kubah agung masjid utama Pesantren Darul Adab membiaskan cahaya keemasan yang hangat ke seluruh penjuru ruangan.
 
-Ratusan santri putra dari kelas tujuh hingga kelas dua belas duduk bersila dengan tertib di atas karpet permadani hijau. Di barisan depan di hadapan mihrab masjid, duduk bersila jajaran pimpinan pondok pesantren. Tampak Kyai Hasyim, dewan pengawas yayasan, seluruh dewan asatidz madrasah, dan tim musyrif pengasuhan asrama.
+Di luar, angin malam perbukitan berdesir lembut menyapu dahan-dahan pohon trembesi tua di pelataran. Di dalam masjid, lantai marmer berbalut karpet permadani hijau tebal dipadati oleh ratusan pasang mata yang duduk bersila rapat dalam barisan melingkar rapi.
 
-Malam ini adalah malam pelaksanaan **Majelis Ikrar Triad Pertumbuhan Simbiotik (*The Symbiotic Triad Growth Covenant*)**. Kyai Hasyim bangkit berdiri dari tempat duduknya, melangkah ke tengah ruang mimbar dengan membawa mikrofon. Wajah sang guru besar memancarkan wibawa kemuliaan yang sangat agung.
+Malam itu adalah malam yang sakral.
 
-Kyai Hasyim melafalkan puji syukur ke hadirat Allah SWT dan shalawat salam kepada Baginda Nabi Muhammad SAW dengan intonasi yang menggetarkan kalbu. "Para hadirin yang dimuliakan Allah... Para santriku, anak-anak kandung rohaniku, dan para asatidz pejuang peradaban..." buka Kyai Hasyim dengan suara bas yang dalam.
+Di barisan depan menghadap mihrab marmer putih, duduk jajaran dewan pengawas yayasan, para sesepuh pesantren, seluruh dewan asatidz madrasah, dan tim musyrif pengasuhan asrama putra. Di belakang mereka, ratusan santri dari kelas tujuh hingga kelas dua belas bersila tertib dengan jubah dan baju koko terbaik mereka.
 
-"Sebuah ekosistem pendidikan Islam tidak akan pernah mampu melahirkan peradaban yang agung jika hanya satu pihak yang dipaksa berjuang sendirian." "Maka malam ini, di rumah Allah yang suci ini, kita resmikan sebuah prinsip agung yang mengikat kita semua: **PRINSIP TRIAD PERTUMBUHAN SIMBIOTIK**." Kiai menjelaskan hakikat dari Triad Pertumbuhan tersebut secara mendalam: Entitas pertama adalah **Santri Tumbuh**. "Santri wajib bertumbuh fitrahnya, bertumbuh akalnya, bertumbuh kemandirian hidupnya, dan bertumbuh akhlak adabnya dalam lingkungan yang penuh rasa aman dan kasih sayang." Entitas kedua adalah **Pendidik & Musyrif Tumbuh**.
+Kyai Hasyim bangkit dari duduk bersilanya di depan mihrab. Langkah sang mahaguru sepuh begitu tenang, berwibawa, memancarkan keteduhan seorang pembimbing spiritual yang telah mengarungi samudra dakwah selama puluhan tahun.
 
-"Para ustadz dan musyrif bukanlah mesin pengasuh yang diperas tenaganya hingga burnout!" "Para pendidik wajib bertumbuh keilmuannya, bertumbuh kompetensi pedagoginya, bertumbuh kesejahteraan hidupnya, dan terlindungi kesehatan mental dan fisiknya dari keletihan yang berlebihan." Entitas ketiga adalah **Sistem Kelembagaan Pesantren Tumbuh**. "Pesantren Darul Adab sebagai lembaga pendidikan Islam wajib bertumbuh menjadi organisasi pembelajar (*Learning Organization*)." "Lembaga wajib memiliki tata kelola yang profesional, SOP pengasuhan yang jelas dan transparan, akuntabilitas data PBIS, serta menjamin perlindungan mutlak bagi anak dan pendidik dari segala bentuk intimidasi dan kekerasan." Kyai Hasyim memanggil perwakilan dari ketiga entitas tersebut untuk maju ke depan mihrab: Ustadz Salman maju melangkah mewakili dewan pendidik dan musyrif asrama. Farhan dan Zaid maju melangkah mewakili seluruh santri junior dan senior. Dan Ustadz Ridwan maju melangkah mewakili jajaran manajemen kelembagaan pesantren.
+Sang kiai memegang mikrofon dengan kedua belah tangannya. Pandangan matanya menyapu seluruh jamaah dengan binar penuh cinta dan keharuan.
 
-Di hadapan seluruh jamaah dan disaksikan oleh para malaikat Allah, Kyai Hasyim membimbing pembacaan **Naskah Ikrar Janji Suci Triad Pertumbuhan Pesantren Darul Adab**:
+"Bismillāhir-Raḥmānir-Raḥīm..."
+
+Gema bas suara Kyai Hasyim memantul di lengkungan kubah masjid yang tinggi, meresap ke dalam dada setiap orang yang hadir.
+
+"Anak-anakku para santri penuntut ilmu, para asatidz pejuang dakwah, dan para pengurus yayasan yang dirahmati Allah..." dawuh Kyai Hasyim perlahan namun bertenaga.
+
+"Sebuah pohon peradaban tidak akan pernah bisa tumbuh tinggi menjulang ke langit jika tanahnya tandus, atau jika petaninya kelelahan hingga jatuh sakit."
+
+Keheningan mutlak menyergap ruangan masjid.
+
+"Selama puluhan tahun, banyak lembaga pendidikan menuntut santri untuk menjadi malaikat—harus sempurna adabnya, harus disiplin bangun fajar, harus kuat menghafal siang dan malam. Tetapi lembaga lupa memikirkan apakah para musyrifnya cukup tidur, dan yayasan lalai membangun sistem yang manusiawi."
+
+Kiai Hasyim menghela napas panjang.
+
+"Jika hanya santri yang dituntut bertumbuh sementara gurunya lelah dan sistemnya menindas, pesantren akan berubah menjadi penjara moral yang melahirkan kepalsuan."
+
+Kyai Hasyim menatap para pengurus yayasan dan dewan asatidz lekat-lekat.
+
+"Maka malam ini, di hadapan Allah SWT dan di bawah naungan kubah rumah-Nya yang agung, kita canangkan sebuah komitmen bersama yang tidak boleh diputus oleh siapa pun: **Triad Pertumbuhan Simbiotik**."
+
+Kiai Hasyim menguraikan ketiga entitas yang wajib bertumbuh serempak:
+
+"Entitas pertama: **Santri Tumbuh**. Jiwa fitrah anak-anak kita harus mekar dalam suasana aman, terlindungi martabatnya, merdeka dari rasa takut dan trauma fisik, serta bertumbuh regulasi dirinya menuju kemandirian adabi."
+
+Kiai beralih ke entitas kedua:
+
+"Entitas kedua: **Pendidik dan Musyrif Tumbuh**. Para ustadz dan pembina asrama bukanlah mesin robot yang diperas tenaganya dua puluh empat jam nonstop. Mereka wajib bertumbuh kompetensi pedagoginya, bertumbuh kesejahteraan hidupnya, dan terlindungi kesehatan fisik serta mentalnya dari kelelahan kronis."
+
+Dan entitas ketiga:
+
+"Entitas ketiga: **Sistem Lembaga Tumbuh**. Pesantren Darul Adab sebagai institusi wajib bertumbuh menjadi organisasi pembelajar yang profesional, berbasis data faktual, transparan, bebas feodalisme, dan menjamin perlindungan mutlak bagi seluruh warganya."
+
+Kyai Hasyim menghentikan penjelasannya sejenak. Sang kiai menoleh ke arah barisan jamaah di hadapannya.
+
+"Kiai memanggil perwakilan dari ketiga entitas ini untuk maju ke depan mihrab."
+
+Dari barisan musyrif, Ustadz Salman bangkit berdiri dengan jubah putih bersihnya.
+
+Dari barisan santri, Zaid menggandeng tangan Farhan dan melangkah maju beriringan.
+
+Dan dari barisan manajemen kelembagaan, Ustadz Ridwan melangkah tegap menuju mihrab.
+
+Keempat sosok itu berdiri berjajar di samping Kyai Hasyim di depan ratusan pasang mata yang memandang dengan dada bergetar haru.
+
+Ustadz Salman berdiri di sisi kiri. Wajah musyrif muda itu tampak bersih, memancarkan keikhlasan seorang pembina yang telah menanggalkan seluruh kesombongan masa lalunya.
+
+Di sampingnya, Farhan berdiri tegak dengan sarung tenun birunya. Anak dua belas tahun yang sebulan lalu menangis memeluk koper kini berdiri dengan pandangan mata yang jernih, memancarkan keberanian dan harapan baru.
+
+Zaid berdiri di samping Farhan, tangan kanannya merangkul pelan pundak adik asuhnya itu. Dan di ujung kanan, Ustadz Ridwan berdiri mewakili tata kelola lembaga yang siap mengawal perubahan.
+
+Kyai Hasyim membimbing pembacaan naskah ikrar suci bersama. Suara sang mahaguru mengalun khusyuk, diikuti serempak oleh Salman, Farhan, Zaid, Ridwan, dan diaminkan oleh ratusan santri di seluruh penjuru masjid:
 
 $$\text{بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ}$$
 
 $$\text{نُعَاهِدُ اللَّهَ عَلَى التَّعَاوُنِ عَلَى الْبِرِّ وَالتَّقْوَى، وَحِمَايَةِ الْفِطْرَةِ، وَإِقَامَةِ الْعَدْلِ وَالرَّحْمَةِ فِي هَذَا الصَّرْحِ الْمُبَارَكِ}$$
 
-> *"Bismillāhir-Raḥmānir-Raḥīm... Kami berikrar dan berjanji setia di hadapan Allah SWT untuk saling tolong-menolong dalam kebajikan dan ketaqwaan, menjaga kesucian fitrah anak-anak penuntut ilmu, serta menegakkan keadilan, kasih sayang, dan keteladanan akhlak di pondok pesantren yang berkah ini."*
+"*Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang... Kami berikrar dan berjanji setia di hadapan Allah SWT untuk saling tolong-menolong dalam kebajikan dan ketakwaan, menjaga kesucian fitrah anak-anak penuntut ilmu, serta menegakkan keadilan, kasih sayang, dan keteladanan akhlak di pondok pesantren yang berkah ini.*"
 
-Suara ikrar bersama tersebut menggema membahana di bawah kubah masjid, memantul di dinding-dinding marmer, dan meresap masuk ke dalam relung kalbu setiap insan yang hadir. Farhan memegang tangan Ustadz Salman dan Mas Zaid dengan genggaman yang sangat erat. Air mata haru dan tekad kebersamaan menetes membasahi pipi anak-anak dan para guru.
+Lafal ikrar itu menggema membahana di bawah kubah masjid, memantul di pilar-pilar marmer dan menggetarkan arasy langit.
 
-Malam ikrar di bawah kubah masjid tersebut menjadi tonggak sejarah abadi. Peristiwa ini menyatukan santri, guru, dan lembaga dalam satu frekuensi perjuangan suci menuju puncak kejayaan peradaban Islam di Pesantren Darul Adab. Seluruh hadirin sujud syukur bersama di atas karpet permadani masjid, memohon keberkahan dan keistiqamahan dari Allah SWT.
+Ketika kalimat ikrar selesai dibacakan, Kyai Hasyim meraih tangan kanan Salman dan menyatukannya dengan tangan kanan Farhan. Lalu tangan Zaid dan Ridwan diletakkan di atas genggaman tangan mereka berdua.
 
-Kyai Hasyim mengangkat kedua tangannya memimpin doa penutup majelis ikrar akbar. Lantunan doa sang guru besar menggetarkan pilar-pilar marmer masjid dan mengalirkan air mata jamaah. Salman bersimpuh di samping Ridwan, merasakan ketenangan batin yang belum pernah ia rasakan sebelumnya.
+"Genggam tangan saudaramu ini, Salman... Farhan... Zaid... Ridwan..." dawuh Kyai Hasyim dengan air mata yang menetes membasahi janggut putihnya. "Jangan pernah biarkan salah satu dari kalian terjatuh sendirian."
 
-Farhan menggenggam tangan Zaid dengan erat, berjanji di dalam hati untuk menjadi santri yang berprestasi. Cahaya lampu kristal masjid memantulkan kilauan emas di atas naskah piagam ikrar triad. Pesantren Darul Adab kini berdiri kokoh di atas fondasi komitmen bersama yang tak tergoyahkan.
+Farhan merasakan kehangatan telapak tangan Ustadz Salman yang kokoh menggenggam jemari tangannya yang mungil.
 
-Santri, guru, dan lembaga telah bersatu dalam simfoni pertumbuhan yang diridhai Allah SWT. Malam itu, janji suci di bawah kubah masjid telah dipatri abadi di dalam catatan langit. Seluruh warga pesantren melangkah keluar masjid dengan hati yang dipenuhi cahaya keyakinan baru.
+Anak itu mendongak menatap wajah ustadznya. Salman menunduk menatap Farhan seraya tersenyum dengan mata yang basah oleh air mata haru.
 
-Suara gema shalawat terus mengalun lembut di bawah kubah masjid yang megah. Farhan memandang wajah Mas Zaid dan Ustadz Salman dengan mata yang berbinar bahagia. Ikrar Triad ini mengikat hati seluruh elemen pondok dalam satu jalinan cinta karena Allah.
+Tidak ada lagi rasa takut. Tidak ada lagi jurang pemisah antara pengasuh dan santri asuh.
 
-Tidak ada lagi pihak yang merasa tertindas atau diabaikan hak-hak kemanusiaannya. Pesantren Darul Adab telah menjelma menjadi miniatur masyarakat madani yang ideal. Langkah-langkah ksatria adabi melangkah keluar masjid dengan dada membusung penuh tekad suci.
+Zaid dan Ridwan merapatkan pelukan mereka, menyatukan lingkaran keempat sosok itu di hadapan seluruh jamaah.
 
-Di bawah kubah agung masjid utama Pesantren Darul Adab, ratusan santri, asatidz, dan pimpinan yayasan berkumpul dalam Majelis Ikrar Triad Pertumbuhan Simbiotik. Naskah ikrar suci dibacakan bersama-sama di depan mihrab masjid, menyatukan komitmen bahwa santri wajib bertumbuh fitrahnya, pendidik wajib bertumbuh kesejahteraannya tanpa burnout, dan lembaga wajib bertumbuh menjadi organisasi pembelajar yang aman dan akuntabel.
+Gemuruh shalawat badar seketika mengalun dari ratusan bibir santri di seluruh ruangan masjid, mengiringi momen persatuan yang agung tersebut. Beberapa asatidz sepuh di barisan depan tampak menundukkan kepala seraya menyeka air mata bahagia dengan serban mereka.
 
-Yayasan mengesahkan regulasi kesejahteraan musyrif yang menjamin pembagian shift kerja manusiawi, jatah libur berkala, asuransi kesehatan BPJS, dan pusat konseling pendidik. Para musyrif kini menjalankan tugas pengasuhan dengan tubuh yang bugar, jiwa yang segar, dan hati yang dipenuhi energi cinta. Lembaga yang sehat dan adil telah melahirkan guru-guru yang bahagia dan berdedikasi tinggi dalam mendampingi santri.
+Setelah shalawat mereda, Kyai Hasyim merogoh saku dalam jubahnya.
 
-Pesantren Darul Adab mendeklarasikan Piagam Safe Sanctuary yang menetapkan kebijakan nol toleransi terhadap segala bentuk kekerasan fisik, verbal, dan relasional. Kanal pengaduan independen Kotak Surat Amanah dan Bilik Curhat BK menjamin perlindungan mutlak bagi hak-hak santri. Ibu Fatimah dan Pak Rahmat yang datang berkunjung dari desa meneteskan air mata bahagia melihat putranya dirawat di tangan lembaga yang memuliakan martabat anak manusia.
+Sang kiai mengeluarkan dua benda kecil: sebatang kayu siwak yang masih berbalut kulit cokelat harum, dan sebuah kitab saku kecil bersampul hijau tua bertuliskan kaligrafi emas *Adab al-Mu'allim wal Muta'allim*.
 
-Komitmen kelembagaan ini menjadi tonggak sejarah yang mengukuhkan Darul Adab sebagai model percontohan pesantren ramah anak dan beradab di tingkat nasional. Di bawah naungan suaka yang aman ini, tunas-tunas peradaban dapat bertumbuh mekar dengan tenang tanpa rasa takut sedikit pun.
+Kyai Hasyim menyerahkan siwak itu ke telapak tangan Farhan.
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+"Ini siwak dari Madinah untukmu, Farhan anakku," tutur sang kiai seraya mengelus kepala anak itu. "Gunakan setiap kali kamu hendak bersujud dan membaca kalam Allah. Jagalah lisanmu agar selalu memancarkan kejujuran dan dzikir."
 
-Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
+Farhan mencium siwak itu dengan takzim, lalu mencium tangan sang mahaguru. "Matur nuwun sanget, Kiai..."
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+Kemudian Kiai Hasyim menyerahkan kitab saku hijau tua itu kepada Ustadz Salman.
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+"Dan ini untukmu, Salman," sabda Kyai Hasyim. "Kitab adab pendidik karya para ulama salaf. Bacalah setiap kali kamu merasa lelah, agar kamu selalu ingat bahwa mendidik dengan cinta adalah jalan para nabi."
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+Salman menerima kitab itu dengan kedua belah tangannya, menempelkannya ke keningnya seraya berlinang air mata. "Bismillāh, Kiai... Hamba akan menjaga amanah ini dengan segenap jiwa raga."
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+Zaid dan Ridwan tersenyum menyaksikan pemandangan yang sarat dengan barakah kenabian itu.
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Ratusan santri di dalam masjid mulai bangkit berdiri, melangkah teratur menyalami para kiai dan asatidz dengan senyuman yang merekah di wajah mereka.
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+Malam itu, di bawah lindungan kubah masjid Darul Adab, sebuah janji suci telah dipatri di hadapan Sang Maha Kuasa.
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
-
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
-
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
-
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
-
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
-
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Santri, pendidik, dan lembaga telah menyatu dalam satu ikatan cinta dan keadilan, bersiap melangkah bersama menyongsong fajar kejayaan peradaban Islam yang hakiki.
