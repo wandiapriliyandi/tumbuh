@@ -1,73 +1,105 @@
 # Sub-Bab 9.1: Senyum Subuh Ustadz Salman
 
-Pukul 03.30 dini hari di koridor lantai dua komplek asrama putra Pesantren Darul Adab. Kabut tipis merayap turun dari lereng bukit kapur, menyelinap melalui kisi-kisi ventilasi asrama. Hawa dingin pegunungan masih menusuk pori-pori kulit, membekukan embun di atas dedaunan pohon mangga di halaman.
+Kabut putih tipis merayap turun perlahan dari punggung perbukitan kapur di balik pesantren.
 
-Namun keheningan dini hari di koridor lantai dua kali ini tidak lagi dipecah oleh suara derap sepatu pantofel yang menghentak keras. Tidak ada lagi suara derit rotan kuning yang diseretkan di sepanjang dinding kapur. Sosok Ustadz Salman melangkah menyusuri koridor semen dengan langkah kaki yang sangat anggun, tenang, dan nyaris tanpa suara.
+Hawa dingin sepertiga malam terakhir menyusup melalui lubang-lubang ventilasi di atas jendela asrama lantai dua, membasahi teralis besi dengan butiran embun beku yang berkilauan. Di luar, suara jangkrik dan katak sawah yang tadinya bersahut-sahutan mulai mereda, menyisakan desau halus angin fajar yang menggoyangkan dahan-dahan pohon sawo kecik.
 
-Salman mengenakan sandal selop karet berwarna abu-abu yang empuk. Tubuh tegap pemuda berusia dua puluh empat tahun itu dibalut jubah katun putih bersih yang wangi dan rapi. Di tangan kanannya, Salman tidak lagi membawa pipa besi pemukul pintu atau sebatang rotan kuning.
+Langkah kaki Ustadz Salman menapak di atas lantai semen koridor.
 
-Salman hanya menggenggam sebuah lampu senter kecil berpenutup kain kuning temaram. Cahaya senter itu memancarkan kilau lembut yang tidak menyilaukan mata anak-anak yang sedang tidur. Di saku jubah putihnya, tersimpan sebotol kecil minyak wangi kasturi kijang non-alkohol yang harum semerbak.
+Tidak ada lagi bunyi dentang hak sepatu kulit yang menggelegar laksana masa lalu. Salman mengenakan sandal selop karet berlapik busa tebal yang meredam setiap gesekan dengan lantai.
 
-Salman menghentikan langkah kakinya tepat di depan pintu Kamar Al-Farabi. Salman berdiri tegak di depan pintu kamar kayu bercat hijau kusam tersebut selama beberapa detik. Salman memejamkan matanya sejenak, menarik nafas panjang yang tenang, lalu melafalkan doa di dalam hatinya:
+Di tangan kanannya, tidak ada lagi sebatang pipa besi bekas penyangga sapu yang dingin berkarat. Tidak ada pula bilah rotan kuning yang meliuk-liuk mengancam.
+
+Yang tergenggam di jemari Salman hanyalah sebuah senter kecil berbaterai dua dengan penutup kain kasa kuning di depannya. Pendar cahaya senter itu temaram dan hangat, cukup untuk menerangi langkah kakinya di koridor yang remang tanpa menyilaukan mata anak-anak yang sedang beristirahat di dalam bilik.
+
+Di saku kiri jubah putihnya yang disetrika rapi, terselip sebotol kecil minyak wangi non-alkohol beraroma kesturi kijang.
+
+Salman berhenti tepat di depan pintu hijau kusam Kamar Al-Farabi.
+
+Pemuda dua puluh empat tahun itu menarik napas panjang. Udara fajar yang bersih memenuhi paru-parunya dengan kesejukan yang menenteramkan. Salman memejamkan matanya sejenak, melafalkan doa pembuka hati di dalam sanubarinya:
 
 $$\text{رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي}$$
 
-Salman mengangkat tangan kanannya secara perlahan. Dengan buku-buku jemarinya yang bersih, Salman mengetuk daun pintu kayu tersebut dengan tiga kali ketukan lembut yang berirama indah: *Tok...
+Salman mengangkat tangan kanannya. Dengan buku-buku jarinya yang rileks, ia mengetuk daun pintu kayu itu sebanyak tiga kali dengan jeda teratur: *Tok... Tok... Tok.*
 
-Tok... Tok...* Suara ketukan itu begitu santun, pelan, dan beradab—mencerminkan adab minta izin yang diajarkan oleh Baginda Rasulullah SAW.
+Ketukan itu begitu tenang dan beradab, bergetar pelan di daun pintu laksana suara tetesan air pertama yang menyapa daun talas di pagi hari.
 
-Setelah mengetuk, Salman memutar handel pintu dengan sangat hati-hati agar tidak menimbulkan bunyi decitan engsel yang mengagetkan. Salman mendorong pintu kamar perlahan hingga terbuka setengah jengkal. Salman melangkah masuk ke dalam bilik kamar berukuran enam kali tujuh meter tersebut dengan kaki kanan terlebih dahulu.
+Salman memutar handel pintu dengan sangat perlahan agar derit engsel tua tidak menimbulkan bunyi mengejutkan. Pintu terbuka ke dalam selebar bahu.
 
-Salman melantunkan salam dengan nada suara bas yang sangat lembut, berbisik, namun terdengar jelas dan menyejukkan ke seluruh penjuru kamar: "Bismillāhir-Raḥmānir-Raḥīm... Assalāmu'alaikum warahmatullāhi wabarakātuh..."
+Salman melangkah masuk melintasi ambang pintu dengan kaki kanan terlebih dahulu.
 
-"Bangunlah, wahai ksatria-ksatria peradaban pencari ridha Allah..." "Waktu sahur dan tahajjud telah tiba... Mari kita bersihkan diri dan menyongsong limpahan rahmat fajar dari Allah SWT..."
+"Assalamu'alaikum warahmatullāhi wabarakātuh..." bisik Salman dengan suara bas yang empuk dan rendah, namun memiliki artikulasi yang jelas terdengar ke sekeliling ruangan.
 
-Farhan yang sedang tidur di ranjang susun tingkat bawah perlahan-lahan membuka kedua kelopak matanya. Otak anak dua belas tahun itu tidak lagi tersentak oleh kepanikan adrenalin yang membakar amigdala. Jantung Farhan berdetak tenang, saraf-sarafnya relaks, dan Prefrontal Cortex-nya terjaga dalam kejernihan kesadaran.
+"Bangunlah ksatria-ksatria peradaban... Fajar rahmat Allah telah tiba menyapa bumi Darul Adab..."
 
-Farhan mengedipkan matanya di dalam keremangan cahaya lampu tidur kuning temaram. Yang pertama kali tampak di depan pandangan matanya bukanlah wajah marah pembina yang sedang berteriak berkacak pinggang. Yang pertama kali menyambut fajar Farhan pagi itu adalah senyuman hangat Ustadz Salman yang sedang berjongkok di samping ranjangnya.
+Di ranjang susun tingkat bawah di sudut kamar, kelopak mata Farhan perlahan-lahan membuka.
 
-Wajah Ustadz Salman tampak begitu teduh, bersih, dan memancarkan kasih sayang seorang ayah kandung (*Paternal Compassion*). Salman meletakkan telapak tangannya yang hangat di atas selimut Farhan, menepuk lembut bahu anak itu dengan penuh kelembutan: "Selamat pagi, Farhan anak shalih..." bisik Salman sembari tersenyum sangat manis.
+Tidak ada hentakan kaget di dadanya. Tidak ada detak jantung yang melonjak liar laksana diburu pemangsa. Otak Farhan menerima sapaan fajar itu dengan ketenangan seorang anak yang terjaga di pelukan rumahnya sendiri.
 
-"Bagaimana tidurmu semalam? Apakah badanmu terasa segar?" Farhan tertegun sejenak, menatap wajah sang ustadz dengan rasa takjub dan bahagia yang membuncah di dalam dadanya.
+Farhan mengerjapkan matanya, menyesuaikan penglihatannya dengan temaram kuning lampu tidur lima watt di sudut langit-langit kamar.
 
-Sebuah senyuman cerah seketika merekah di bibir Farhan yang mungil. "Alhamdulillah nyenyak sekali, Ustadz..." jawab Farhan dengan suara polos yang ceria. "Alhamdulillah..." tutur Salman seraya mengusap lembut pucuk kepala Farhan.
+Sosok pertama yang menyambut pandangannya adalah Ustadz Salman yang sedang berjongkok di samping tepi kasurnya.
 
-"Ayo ksatria, ambil gayung dan sarungmu, kita ambil air wudhu bersama ke masjid." Salman beralih ke ranjang sebelah, membangunkan Danang, Faisal, Ilham, dan anak-anak lainnya dengan cara yang sama. Ketukan lembut, salam kenabian, dan senyuman penuh kasih menyapa setiap anak satu per satu.
+Senyuman hangat merekah di wajah sang musyrif. Mata pemuda itu menatap Farhan dengan tatapan kasih sayang seorang kakak kandung yang menjaga adik bungsunya.
 
-Dua puluh anak di Kamar Al-Farabi bangun dari tidur mereka tanpa ada satu pun jeritan kaget. Tidak ada aksi saling dorong, dan tidak ada air mata ketakutan yang menetes di bantal. Mereka melangkah bersama menuju tempat wudhu di bawah sinar bintang fajar dengan hati yang riang, gembira, dan penuh kerinduan untuk bersujud di hadapan Allah SWT.
+Salman meletakkan telapak tangannya di atas selimut biru Farhan, menepuk pelan bahu anak itu dengan kelembutan yang menenteramkan.
 
-Senyuman fajar Ustadz Salman di ambang pintu kamar telah membuktikan kebenaran abadi: bahwa kelembutan dan adab kenabian mampu menghidupkan fitrah ibadah anak-anak jauh melampaui apa yang pernah dicapai oleh seribu sabetan rotan kekerasan. Fajar di Pesantren Darul Adab kini menjadi fajar yang selalu dirindukan oleh seluruh penghuni asrama.
+"Selamat fajar, Farhan anak shalih..." bisik Salman dengan nada suara yang sangat manis. "Bagaimana tidurmu semalam, Le? Badanmu terasa segar?"
 
-Pukul 03.30 dini hari di koridor asrama lantai dua, Ustadz Salman melangkah anggun membawa lentera senter kuning temaram dan minyak wangi kasturi di sakunya. Salman mengetuk pintu Kamar Al-Farabi dengan tiga kali ketukan lembut yang berirama indah: Tok... Tok... Tok. Salman melangkah masuk sembari melantunkan salam dengan suara bas yang menyejukkan jiwa: Assalamu'alaikum warahmatullāhi wabarakātuh, bangunlah wahai ksatria peradaban pencari ridha Allah.
+Farhan tertegun sejenak. Hatinya bergetar hangat mendengar sapaan kebapakan itu.
 
-Farhan dan kawan-kawan sekamarnya membuka mata dengan tenang tanpa ada kepanikan adrenalin yang membakar amigdala. Mereka disambut oleh senyuman hangat dan elusan lembut di pundak dari Ustadz Salman yang sedang berjongkok di samping ranjang. Dua puluh anak kelas tujuh itu bangun fajar dengan riang gembira, melangkah bersama menuju tempat wudhu di bawah sinar bintang fajar yang cerah.
+Sebuah senyuman cerah seketika merekah di wajah Farhan yang polos.
 
-Penerapan Rasio Emas Apresiasi 4:1 mendominasi seluruh aktivitas asrama dan madrasah. Untuk setiap satu teguran korektif yang terpaksa diberikan, para asatidz memberikan minimal empat kali pujian spesifik dan pengakuan tulus atas kebaikan santri. Papan bintang prestasi di kamar-kamar asrama penuh terisi stiker penghargaan, menyalakan api motivasi intrinsik di dalam dada setiap penuntut ilmu.
+"Alhamdulillah segar sekali, Ustadz," jawab Farhan dengan suara bening yang renyah.
 
-Angka pelanggaran santri merosot tajam hingga lebih dari delapan puluh persen dalam tempo satu bulan. Anak-anak merasa dicintai, dihargai martabatnya, dan diakui eksistensinya sebagai calon-calon ulama dan pemimpin masa depan. Pesantren Darul Adab memancarkan aura bi'ah shalihah yang menyejukkan hati siapa pun yang menginjakkan kakinya di bumi pondok.
+Farhan bangkit duduk di tepi kasurnya. Anak dua belas tahun itu melipat selimut birunya dengan tenang, menyusunnya rapi menjadi balok simetris di atas kasur busa tanpa rasa tergesa-gesa.
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+"Alhamdulillah," tutur Salman seraya mengusap lembut rambut Farhan.
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+Salman merogoh saku jubahnya, mengeluarkan botol kecil minyak kesturi. Ia mengoleskan setetes cairan harum itu ke ujung jarinya, lalu menempelkannya perlahan di pergelangan tangan Farhan.
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+Aroma kesturi yang harum semerbak seketika menyeruak di udara dingin pagi itu, menyegarkan indera penciuman anak itu.
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Biar wangi dan segar saat menghadap Allah di shaf pertama nanti," senyum Salman.
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+Farhan mencium pergelangan tangannya, lalu tersenyum lebar menatap ustadznya. "Matur nuwun, Ustadz Salman."
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Salman bangkit berdiri perlahan, melangkah ke ranjang sebelah tempat Danang sedang mulai menggeliatkan tubuhnya.
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+Danang membuka matanya. Anak yatim piatu itu tidak lagi memeluk gulingnya dalam tangisan ketakutan. Melihat Salman berdiri di samping ranjangnya dengan senyuman teduh, Danang langsung menarik kakinya turun ke lantai semen.
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+"Selamat pagi, Ustadz Salman!" sapa Danang mendahului dengan nada ceria memperlihatkan deretan giginya yang rapi.
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+Salman tertawa kecil, suara tawanya renyah dan menghangatkan bilik kamar.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+"Selamat pagi ksatria shalihku, Danang," jawab Salman seraya berjongkok di hadapan Danang. Salman memeriksa ujung ibu jari kaki kanan anak itu yang dulu pernah disabet rotan. "Bagaimana kakimu hari ini, Danang? Masih ada yang ngilu?"
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+"Sampun mboten sakit sama sekali, Ustadz!" seru Danang bangga sembari menggoyang-goyangkan jempol kakinya. "Kemarin sore saya sudah bisa lari-lari waktu main bola di lapangan!"
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+Salman mengelus kepala Danang dengan penuh rasa syukur. "Alhamdulillah... Ayo ambil gayung dan sarungmu, kita ambil wudhu bersama."
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Dari ranjang atas, Faisal melompat turun dengan gesit. Pemuda Madura itu telah melilitkan sarung batiknya dengan rapi di pinggang dan mengenakan peci hitamnya yang tegak.
+
+"Kamar Al-Farabi siap wudhu, Ustadz," kata Faisal seraya tersenyum hormat kepada Salman.
+
+Salman menatap seluruh anak asuhnya yang kini telah berdiri rapi di atas karpet kamar. Wajah-wajah mereka berseri-seri, memancarkan kepolosan jiwa penuntut ilmu yang siap menyambut panggilan sujud fajar.
+
+"Ayo anak-anakku, langkahkan kaki dengan basmalah," ajak Salman.
+
+Anak-anak Kamar Al-Farabi melangkah keluar kamar beriringan.
+
+Di koridor lantai dua yang temaram, tidak terdengar suara gedoran pintu atau bentakan kasar di bilik-bilik lain. Ustadz Ridwan dan para musyrif lainnya sedang berkeliling dari kamar ke kamar mempraktikkan sunnah fajar yang sama: ketukan lembut tiga kali, salam yang menyejukkan jiwa, dan senyuman hangat di ambang pintu.
+
+Di tempat wudhu lantai satu, air sumur pegunungan yang jernih mengalir membasuh wajah-wajah para santri.
+
+Canda santun dan sapaan ukhuwah terdengar di antara gemericik air keran. Farhan berwudhu di samping Danang, sementara di belakang mereka, Mas Zaid dan para santri senior berdiri mengantre dengan sabar dan tertib di belakang garis kuning pembatas.
+
+Tidak ada rebutan gayung. Tidak ada sandal yang berserakan di parit.
+
+Dari pengeras suara menara masjid, suara tarhim fajar mulai melantunkan bait-bait puji-pujian kepada Nabi, mengalirkan gelombang ketenteraman spiritual ke seluruh penjuru lembah Darul Adab.
+
+Salman berdiri di serambi masjid menatap anak-anak asuhnya yang melangkah masuk ke dalam saf dengan sajadah di pundak.
+
+Di dalam dada sang musyrif muda, rasa syukur yang mendalam membuncah tanpa batas.
+
+Senyuman subuh di ambang pintu telah melahirkan mukjizat yang nyata: ia tidak hanya membangunkan raga anak-anak dari tidur lelap mereka, melainkan telah membangkitkan fitrah cinta ibadah yang bersinar terang benderang di dalam dada generasi peradaban.
