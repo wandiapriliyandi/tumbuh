@@ -1,71 +1,103 @@
 # Sub-Bab 12.2: Pesan Abadi Kyai Hasyim
 
-Pukul 11.00 siang di atas mimbar agung aula muktamar peradaban Pesantren Darul Adab. Prosesi wisuda akbar ratusan santri penghafal Al-Qur'an dan mutun ilmu telah memasuki sesi puncak yang paling dinanti oleh ribuan wali santri dan tamu undangan dari seluruh penjuru nusantara. Kyai Hasyim melangkah perlahan menuju podium utama mimbar kayu jati.
+Gedung aula muktamar peradaban Pesantren Darul Adab bergetar halus oleh alunan shalawat badar yang dilantunkan serentak oleh lima ribu hadirin. Ruangan megah berarsitektur Andalusia dengan pilar-pilar kokoh berbalut ukiran kayu jati Jepara itu dipenuhi oleh ribuan pasang mata yang basah oleh keharuan. Di atas panggung utama beralaskan karpet merah tebal, ratusan wisudawan duduk bersila dengan jubah hitam dan selempang hijau toska, memancarkan aura ketenangan yang agung.
 
-Meskipun usia sang guru besar kini telah menginjak tujuh puluh tahun dan rambut serta janggutnya telah memutih seutuhnya. Pancaran sinar kewibawaan spiritual, ketajaman sorot mata, dan keteduhan wajahnya justru semakin bercahaya benderang laksana bulan purnama di malam ke-14. Kyai Hasyim memegang tepi podium kayu, menatap ribuan pasang mata santri, wali santri, dan dewan asatidz yang hening terpaku memandangnya dengan rasa takzim yang mendalam.
+Di deretan kursi sayap kanan, ribuan santri junior menyimak dengan penuh ketakjuban. Bagi mereka, para wisudawan di atas panggung bukan sekadar kakak kelas, melainkan cermin masa depan yang membangkitkan cita-cita luhur di dalam dada.
 
-Kyai Hasyim menarik nafas panjang yang tenang, lalu membacakan sebuah wasiat agung peninggalan Rasulullah SAW dengan suara bas yang menggetarkan seluruh relung arasy jiwa:
+Sementara itu di sisi sayap kiri, ratusan wali santri duduk dengan tatapan tak berkedip. Banyak di antara mereka menyeka air mata haru menyaksikan transformasi luar biasa anak-anak mereka yang kini tampak begitu anggun dan berwibawa.
+
+Ketika alunan shalawat mereda, keheningan yang syahdu seketika menyelimuti seluruh ruangan. Seluruh pandangan tertuju ke arah tangga mimbar utama.
+
+Seorang pria sepuh melangkah perlahan menaiki anak tangga kayu jati. Meskipun usianya kini telah genap tujuh puluh tahun, dan surai rambut serta janggutnya telah memutih seutuhnya laksana kapas, langkah kakinya tetap tegap dan mantap. Dari wajahnya yang teduh terpancar kewibawaan spiritual yang luar biasa—sebuah karisma kenabian yang lahir dari puluhan tahun sujud malam dan keikhlasan mutlak merawat umat.
+
+Itu adalah Kyai Hasyim. Sang mahaguru, arsitek perubahan, dan ayah ruhani bagi ribuan santri di lembah tersebut.
+
+Kyai Hasyim berdiri di balik podium kayu berukir kaligrafi ayat-ayat ilmu. Beliau tidak membawa map naskah pidato atau catatan kertas selembar pun. Kedua belah tangannya yang bersih bertumpu lembut di tepi podium. Sorot matanya yang tajam namun memancarkan telaga marhamah menatap satu demi satu wajah para wisudawan di hadapannya, lalu menyapu seluruh hadirin di setiap penjuru aula.
+
+Suasana begitu sunyi, hingga desau angin yang menyusup lewat jendela-jendela lengkung aula terdengar jelas. Bahkan helaan nafas dan isak haru tertahan dari para ibu di kursi tamu dapat tertangkap oleh telinga.
+
+Kyai Hasyim menarik nafas panjang yang dalam dan tenang, lalu mengawali khutbahnya dengan suara bas yang berat, jernih, dan menggetarkan relung dada terdalam:
+
+$$\text{بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ}$$
 
 $$\text{إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاقِ}$$
 
 > *"Sesungguhnya aku diutus ke muka bumi ini hanyalah untuk menyempurnakan kemuliaan akhlak dan adab kemanusiaan."* (HR. Al-Bukhari & Ahmad)
 
-Kyai Hasyim terdiam sejenak, membiarkan makna hadits kenabian itu bergaung di setiap sudut ruangan aula. Kyai Hasyim kemudian menyampaikan **Pesan Abadi Sang Murabbi Peradaban (*The Eternal Legacy of TUMBUH*)**: "Anak-anakku para wisudawan yang Kiai cintai karena Allah...
+Kyai Hasyim terdiam sejenak. Beliau membiarkan sabda agung Rasulullah SAW itu meresap ke dalam pori-pori kesadaran setiap jiwa yang hadir. Tetesan air mata pertama mulai tampak berkilau di pipi sang ulama sepuh itu.
 
-Dan para sahabatku para pendidik penabur benih fitrah..." "Hari ini, kalian melangkah keluar dari gerbang pesantren ini membawa mahkota ilmu dan adab." "Ingatlah selalu pesan orang tuamu ini di setiap jengkal langkah kakimu di muka bumi:" "Pertama, **Jagalah Kesucian Hatimu (*Hifzhul Qalb*)**." "Ilmu tanpa adab adalah racun yang membinasakan, dan kecerdasan tanpa ketakwaan adalah kesombongan yang mengundang murka Allah." "Tetaplah bersikap rendah hati, basahilah lisanmu dengan dzikir di tengah malam, dan jangan pernah merasa dirimu lebih mulia daripada makhluk Allah yang lain." "Kedua, **Jadilah Pelayan Umat yang Penuh Kasih (*Khadimul Ummah bil-Marhamah*)**." "Dunia di luar sana sedang haus akan kasih sayang. Zaman ini dipenuhi oleh kekerasan, kesombongan, dan penindasan atas nama kekuasaan."
+"Anak-anakku para ksatria adabi yang Kiai cintai karena Allah..." suara Kyai Hasyim terdengar begitu dekat dan menyapa langsung ke dalam sanubari, seolah beliau sedang berbisik di telinga masing-masing santri. "Dan para sahabatku, para asatidz dan musyrif penabur benih fitrah di kebun peradaban ini..."
 
-"Jadilah lentera yang menerangi kegelapan; jangan menjadi api yang membakar." "Rangkullah mereka yang tergelincir dengan tangan kasih sayang, sebagaimana dahulu para gurumu merangkulmu dengan cinta di saat kamu terluka dan menangis di awal masa mondokmu." "Ketiga, **Tegakkanlah Keadilan dan Nilai-Nilai TUMBUH di Manapun Engkau Berada**." "Bawalah cetak biru peradaban ini ke rumah tanggamu, ke tempat kerjamu, ke sekolah-sekolah yang kelak kamu pimpin, dan ke tengah-tengah masyarakatmu." "Rawatlah tunas-tunas fitrah generasi mudamu dengan kesabaran, pupuklah dengan keteladanan, dan hindarilah kekerasan fisik serta kekasaran lisan untuk selama-lamanya." Kyai Hasyim mengangkat kedua belah tangannya ke langit, memanjatkan doa pamungkas yang diaminkan oleh ribuan hadirin dengan cucuran air mata keharuan dan tekad pengabdian suci:
+Ribuan hadirin menahan nafas, mendengarkan setiap patah kata sang guru besar dengan khidmat yang tak terlukiskan.
+
+"Enam tahun yang lalu," lanjut Kyai Hasyim seraya menatap ke arah Ustadz Salman dan Farhan di barisan depan, "pesantren ini pernah diselimuti oleh kabut gelap. Kita pernah terjebak dalam ilusi bahwa ketertiban hanya bisa ditegakkan dengan lecutan rotan, bahwa kepatuhan santri hanya bernilai jika lahir dari gemetar ketakutan, dan bahwa kekerasan adalah bagian dari tradisi ketegasan."
+
+Kyai Hasyim menggeleng pelan, air matanya menetes membasahi janggut putihnya.
+
+"Betapa kelirunya kita di masa itu... Kita lupa bahwa anak-anak yang dititipkan para wali santri ke bilik-bilik asrama kita adalah mutiara fitrah yang suci. Mereka bukan musuh yang harus ditaklukkan, melainkan tanah hati yang sedang menanti tetesan embun kasih sayang."
+
+Di kursi barisan depan para asatidz, Ustadz Salman menundukkan kepala sedalam-dalamnya. Bahu musyrif muda itu berguncang pelan menahan tangis taubat dan rasa syukur yang berbaur menjadi satu. Di sampingnya, Ustadz Ridwan dan Ustadz Burhan menyeka air mata mereka dengan sapu tangan.
+
+"Hari ini, Allah SWT telah memperlihatkan kepada kita semua kebenaran janji-Nya," suara Kyai Hasyim kembali meninggi, penuh dengan getaran wibawa yang membakar semangat. "Ketika rotan dipatahkan, ketika bentakan diganti dengan dekapan qudwah, dan ketika sistem TUMBUH ditegakkan di atas pilar kasih sayang, lahirlah dari rahim pesantren ini para penghafal Al-Qur'an yang berjiwa ksatria, para pemikir peradaban yang berakhlak mulia, dan para pemimpin yang hatinya dipenuhi kerendahan hati!"
+
+Gemuruh takbir seketika membahana dari ribuan lisan santri: *"Allāhu Akbar! Allāhu Akbar! Walillāhil hamd!"*
+
+Kyai Hasyim mengangkat tangan kanannya perlahan, menenangkan kembali suasana aula hingga hening terpaku.
+
+"Sebelum kalian melangkah keluar dari gerbang pondok ini untuk menapaki samudra kehidupan yang sesungguhnya," tutur sang Kiai dengan tatapan yang sarat kasih seorang ayah, "Kiai titipkan tiga pesan abadi yang wajib kalian pahat di atas batu karang sanubarimu."
+
+Seluruh wisudawan menegakkan punggung mereka. Farhan merapatkan kedua telapak tangannya di pangkuan, menatap wajah gurunya dengan mata yang berlinang haru.
+
+"Pesan pertama," ucap Kyai Hasyim dengan ketukan suara yang lambat dan penuh penekanan, "**Jagalah Kesucian Hatimu (*Hifzhul Qalb*)**."
+
+"Ilmu tanpa adab adalah racun yang membinasakan, dan kecerdasan tanpa ketakwaan adalah kesombongan yang mengundang murka Allah. Jangan pernah silau oleh tepuk tangan manusia. Jangan pernah merasa dirimu lebih suci daripada pendosa yang sedang menangis memohon ampun di keheningan malam. Tetaplah menjadi hamba yang tawadhu', yang basah lisannya oleh dzikir, dan yang hatinya selalu gentar di hadapan keagungan Allah."
+
+Hening merayap kian pekat. Setiap patah kata sang Kiai terasa laksana pedang bermata dua yang membedah keangkuhan diri.
+
+"Pesan kedua," lanjut Kyai Hasyim, matanya menatap tajam para wisudawan, "**Jadilah Pelayan Umat yang Penuh Kasih (*Khādimul Ummah bil-Marhamah*)**."
+
+"Dunia di luar sana sedang sakit parah oleh krisis keteladanan. Zaman ini dipenuhi oleh tirani kekuasaan, keserakahan ekonomi, dan penindasan atas nama kekuatan. Jangan sekali-kali kalian ikut menindas! Jadilah lentera yang menerangi kegelapan, jangan menjadi api yang membakar. Rangkullah mereka yang tergelincir dengan tangan kasih sayang, sebagaimana para gurumu telah merangkulmu dengan cinta di saat kamu menangis terluka di awal masa mondokmu."
+
+Air mata Farhan mengalir deras membasahi jubah wisudanya. Ia teringat bagaimana Ustadz Salman merangkulnya saat ia dituduh mencuri gayung, bagaimana Mas Zaid menghiburnya saat ia menangis di serambi masjid, dan bagaimana seluruh sistem di pondok ini berjuang melindunginya dari keputusasaan.
+
+"Dan pesan ketiga," suara Kyai Hasyim bergetar menahan luapan emosi spiritual yang agung, "**Tegakkanlah Nilai-Nilai TUMBUH Tanpa Kekerasan Selamanya di Mana Pun Engkau Berada**."
+
+"Bawalah cetak biru peradaban ini ke rumah tanggamu, ke madrasah-madrasah yang kelak engkau dirikan, ke birokrasi pemerintahan yang engkau pimpin, dan ke tengah-tengah masyarakatmu. Tolaklah segala bentuk penindasan fisik dan kekerasan verbal atas nama apa pun! Didiklah generasi penerusmu dengan memuliakan fitrah mereka. Rawatlah benih-benih itu dengan kelembutan, pupuklah dengan keteladanan nyata, dan jangan pernah putus asa terhadap rahmat Allah."
+
+Kyai Hasyim menghentikan khutbahnya. Beliau melangkah keluar dari balik podium, menuruni anak tangga mimbar perlahan menuju barisan depan para wisudawan.
+
+Pandangan Kyai Hasyim tertuju lurus kepada Farhan. Sang Kiai mengulurkan kedua belah tangannya.
+
+"Farhan, kemarilah, Nak..." panggil sang mahaguru dengan suara yang lembut dan penuh kehangatan.
+
+Farhan segera bangkit berdiri. Dengan langkah yang gemetar oleh keharuan yang meluap, ia melangkah maju ke tengah panggung, lalu bersimpuh di hadapan sang Kiai.
+
+Kyai Hasyim mengambil sebuah tabung ijazah sanad keilmuan bersampul beludru hijau lumut dengan lambang emas Pesantren Darul Adab. Beliau menyerahkannya ke tangan Farhan, lalu membungkuk dan merengkuh kepala Farhan ke dalam pelukannya yang hangat.
+
+Farhan membenamkan wajahnya di pundak sang guru agung. Aroma minyak wangi kesturi dan kesucian doa merasuk ke dalam jiwanya. Tangisnya tumpah tanpa bisa dibendung lagi.
+
+"Engkau telah menjadi ksatria adabi kebanggaan Kiai, Farhan," bisik Kyai Hasyim di telinga Farhan dengan tetesan air mata yang membasahi pundak jubah wisuda muridnya itu. "Berangkatlah... Terangi dunia dengan akhlak Al-Qur'an yang bersemayam di dadamu."
+
+"Matur nuwun, Kiai... Ridhai Farhan lahir dan batin seumur hidup Farhan..." isak Farhan seraya mencium kedua tangan keriput sang mahaguru berkali-kali.
+
+Kyai Hasyim mengelus kepala Farhan untuk yang terakhir kalinya, lalu memberi isyarat agar pemuda itu kembali ke barisannya dengan kepala tegak.
+
+Farhan berbalik, disambut tatapan bangga dan pelukan hangat dari Zaid, Danang, dan Faisal yang menyambutnya di barisan depan.
+
+Kyai Hasyim kemudian menegakkan tubuhnya, berbalik menghadap ke arah kiblat, lalu mengangkat kedua belah tangannya tinggi-tinggi ke langit untuk memimpin doa pamungkas:
 
 $$\text{رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا}$$
 
 $$\text{اللَّهُمَّ اجْعَلْ هَذَا الْبَلَدَ آمِنًا مُطْمَئِنًّا، وَاجْعَلْ أَبْنَاءَنَا قَادَةً لِلْهُدَى وَأَعْلَامًا لِلتَّقْوَى بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ}$$
 
-Farhan, Zaid, Ustadz Salman, Ibu Fatimah, dan seluruh warga Pesantren Darul Adab mengusap wajah mereka dengan kedua telapak tangan sembari melafalkan: *"Aamiiin ya Rabbal 'Aalamiin..."* Gema takbir dan shalawat berkumandang membahana di lembah Pesantren Darul Adab. Sebuah perjalanan panjang dari malam berkabut yang dingin dan sabetan rotan kuning telah mencapai fajar kemenangannya yang gemilang.
+> *"Ya Tuhan kami, anugerahkanlah kepada kami pasangan-pasangan kami dan keturunan kami sebagai penyejuk hati, dan jadikanlah kami pemimpin bagi orang-orang yang bertakwa... Ya Allah, jadikanlah negeri ini aman dan sentosa, dan jadikanlah anak-anak kami para pemimpin petunjuk serta lentera ketakwaan, dengan rahmat-Mu wahai Yang Maha Penyayang di antara para penyayang..."*
 
-Benih yang dahulu disemai dengan air mata taubat di tanah hati kini telah mekar sempurna menjadi pohon peradaban Islam yang rimbun, kokoh, berakar teguh, dan terus memancarkan buah keberkahan abadi bagi semesta alam hingga akhir zaman. Semoga Allah SWT merahmati seluruh santri, guru, dan pejuang pendidikan yang berjuang di jalan dakwah dan tarbiyah peradaban ini. Kyai Hasyim menuntaskan pidato wasiatnya diiringi oleh linangan air mata haru ribuan hadirin.
+"Aamiiin ya Rabbal 'Aalamiin..." gema suara lima ribu hadirin membahana memecah angkasa, mengiringi bait-bait doa suci yang melesat menembus pintu-pintu langit.
 
-Gema takbir tiga kali berkumandang memecah langit aula muktamar peradaban. Farhan melangkah maju menerima ijazah sanad keilmuan langsung dari tangan sang mahaguru. Kiai memeluk Farhan erat-erat, membisikkan doa keberkahan di telinga murid kesayangannya itu.
+Air mata kebahagiaan tumpah ruah di seantero aula pertemuan. Di barisan orang tua, Ibu Fatimah dan Pak Rahmat menangis sembari memanjatkan puji syukur ke hadirat Ilahi Rabbi. Ustadz Salman tersenyum dengan dada yang lapang, menatap fajar masa depan yang terbentang gilang-gemilang.
 
-Zaid dan Ustadz Salman tersenyum haru di samping panggung, menyaksikan puncak keberhasilan tarbiyah. Lembah Pesantren Darul Adab bersinar terang benderang disinari cahaya ilmu dan kemuliaan adab. Wasiat abadi sang murabbi akan terus terpatri kuat di dalam dada setiap ksatria peradaban.
+Para wisudawan saling berpelukan, melepaskan haru dan syukur atas perjalanan panjang yang telah mereka lalui bersama. Tidak ada lagi dendam, tidak ada lagi luka lama yang menganga. Semuanya telah disembuhkan oleh air mata taubat dan kasih sayang tarbiyah.
 
-Perjalanan panjang telah berbuah manis; peradaban Insan Adabi telah bangkit menyinari semesta alam. Lantunan doa Kyai Hasyim menggetarkan seluruh relung kalbu ribuan hadirin yang bersimpuh. Air mata keharuan tumpah membasahi karpet aula muktamar peradaban di hari wisuda akbar.
+Sebuah perjalanan panjang dari malam berkabut yang dingin dan lecutan rotan kuning telah mencapai fajar kemenangannya yang paripurna. Benih fitrah yang dahulu disemai dengan tetesan air mata taubat di tanah hati kini telah tumbuh menjulang menjadi pohon peradaban Islam yang rimbun, kokoh berakar ke bumi, dan terus memancarkan buah-buah keberkahan abadi bagi semesta alam hingga akhir zaman.
 
-Farhan memeluk erat ijazah sanad keilmuannya, berjanji untuk menjaga marwah adab seumur hidupnya. Kiai Hasyim tersenyum sangat teduh memandang generasi baru ulama dan pemimpin masa depan. Lembah Pesantren Darul Adab bersinar terang benderang disinari cahaya ilmu dan akhlak kenabian.
-
-Wasiat abadi sang murabbi akan terus terpatri kokoh di dalam dada setiap ksatria peradaban. Perjalanan panjang telah berbuah manis; peradaban Insan Adabi telah bangkit menyinari semesta alam. Segala puji bagi Allah Tuhan semesta alam yang telah menyempurnakan nikmat dan hidayah-Nya.
-
-Enam tahun kemudian, di aula muktamar peradaban lantai tiga Pesantren Darul Adab, suasana wisuda akbar ratusan santri penghafal Al-Qur'an dan mutun ilmu berlangsung sangat meriah dan agung. Farhan berdiri di atas podium mengenakan jubah wisuda hitam bertahtakan selendang hijau toska berlogo emas TUMBUH dan medali emas santri teladan lulusan terbaik. Bocah kurus yang dahulu menangis memeluk koper biru kini telah bermetamorfosis sempurna menjadi seorang ksatria adabi pemuda peradaban yang paripurna.
-
-Ibu Fatimah dan Pak Rahmat menangis penuh keharuan saat Farhan bersimpuh mencium kedua telapak kaki dan tangan ibunya di atas panggung wisuda. Farhan mempersembahkan mahkota hafalan 30 juz Al-Qur'an Mutqin dan penguasaan belasan kitab turats untuk kedua orang tua tercintanya. Zaid yang kini telah menyelesaikan studi sarjananya di Universitas Al-Azhar Kairo merangkul Farhan dengan tatapan bangga yang tak terkatakan.
-
-Kyai Hasyim yang telah berusia tujuh puluh tahun berdiri di hadapan ribuan hadirin menyampaikan Pesan Abadi Sang Murabbi Peradaban. Kiai mewasiatkan tiga perkara utama: menjaga kesucian hati hifzhul qalb, menjadi pelayan umat yang penuh kasih khadimul ummah bil-marhamah, dan menegakkan nilai-nilai TUMBUH di manapun berada tanpa kekerasan selamanya. Seluruh hadirin mengaminkan doa pamungkas sang mahaguru dengan cucuran air mata keharuan yang mendalam.
-
-Pohon rindang peradaban yang dahulu disemai dari benih-benih kecil di tanah hati yang terluka kini telah tumbuh menjulang tinggi ke langit, berakar kokoh di bumi, dan terus memancarkan buah keberkahan abadi bagi semesta alam hingga akhir zaman. Segala puji bagi Allah Tuhan semesta alam atas segala limpahan rahmat, taufiq, dan hidayah-Nya yang tiada bertepi.
-
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
-
-Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
-
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
-
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
-
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
-
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
-
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
-
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
-
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
-
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
-
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
-
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
-
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
-
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Matahari siang menyinari kubah hijau zamrud pesantren dengan kemilau yang benderang. Cahaya itu bukan lagi sekadar pantulan sinar fisik, melainkan metafora abadi dari sebuah lentera adab yang telah menyala di dada setiap insan, siap menerangi lorong-lorong zaman demi kemuliaan manusia dan ridha Sang Maha Pencipta.
