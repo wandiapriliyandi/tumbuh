@@ -1,63 +1,113 @@
 # Sub-Bab 6.2: Dari Tarbiyah Ruhiyyah Hingga Qudwah
 
-Di hadapan papan kaligrafi emas TUMBUH yang terpampang megah di aula ndalem utama Pesantren Darul Adab. Kyai Hasyim melangkah mendekati mimbar kayu jati berukir sulur bunga teratai. Kiai menatap para asatidz dan musyrif dengan pandangan yang teduh dan penuh kehangatan.
+Udara di dalam aula ndalem semakin hangat seiring bergesernya bayangan matahari di atas lantai marmer.
 
-Kiai mulai membedah secara mendalam integrasi operasional dari lima pilar pertama dalam kehidupan pesantren 24 jam. Kiai memaparkan pilar pertama: **Tarbiyah Ruhiyyah Berkelanjutan**. "Tarbiyah Ruhiyyah," dawuh Kiai dengan suara yang menyejukkan sanubari, "bukanlah sekadar ritual sholat lima waktu yang dijalankan secara seremonial atau terpaksa karena takut hukuman."
+Kyai Hasyim melangkah turun dari panggung kecil, mendekati barisan depan tempat para asatidz dan musyrif duduk. Gerakan sang kiai begitu bersahaja, melipat jubahnya lalu ikut duduk bersila melingkar bersama mereka.
 
-"Tarbiyah Ruhiyyah adalah proses menghidupkan dzikir kalbu (*Living Dhikr*) di setiap tarikan nafas santri." "Kita melatih santri merasakan kehadiran Allah (*Ma'iyyatullah*) di setiap detik waktu mereka." "Kita menuntun mereka merasakan manisnya munajat saat mereka belajar ilmu nahwu di kelas madrasah." "Kita menuntun mereka merasakan ibadah saat mereka mencuci piring dan membersihkan kamar mandi." "Hingga saat mereka merebahkan tubuh di kasur asrama sembari melafalkan doa tidur dengan penuh rasa syukur." Kemudian Kiai memaparkan pilar kedua: **Ukhuwah & Keadilan Restoratif**. Pilar kedua ini merombak total seluruh sistem penanganan pelanggaran santri di pesantren. "Kita menghapus selamanya budaya hukuman balas dendam (*Retributive Punishment*) yang melahirkan rasa dendam dan stigma buruk," tegas Kiai dengan nada mantap. "Kita menggantinya dengan **Disiplin Restoratif (*Restorative Justice & Ishlah*)**."
+Tindakan itu membuat seluruh hadirin merapatkan duduknya dengan takzim.
 
-"Ketika seorang santri melakukan kekhilafan adab, fokus kita bukan menghukum fisiknya dengan rotan." "Fokus kita adalah membimbing anak tersebut menyadari dampak perbuatannya terhadap diri sendiri dan orang lain." "Kita membimbingnya memulihkan hubungan persaudaraan dengan saudaranya yang tersakiti (*Restitution*)." "Dan kita mengembalikan kehormatannya di tengah komunitas asrama tanpa rasa malu dan tanpa stigma (*Reintegration without Stigma*)." Selanjutnya Kiai menjelaskan pilar ketiga: **Manajemen Lingkungan 24 Jam Bebas Friksi (*Environmental Engineering*)**. Pilar ini menata ruang fisik dan ritme kehidupan asrama secara saintifik dan manusiawi:
+"Sebuah manhaj yang hebat akan mati di atas kertas jika ia tidak mendarat menjadi tindakan nyata di kamar tidur, di tempat wudhu, dan di ruang kelas," dawuh Kyai Hasyim seraya menatap Salman dan Burhan bergantian.
 
-Penataan bilik kamar tidur diwajibkan mengacu pada standar **5S (Seiri, Seiton, Seiso, Seiketsu, Shitsuke)**. Kamar tidur harus selalu ringkas, rapi, bersih, terawat, dan berdisiplin tinggi. Pesantren memberlakukan standarisasi rak sandal berslot vertikal dengan garis pembatas kuning di depan pintu kamar mandi.
+Ustadz Burhan membuka lembaran baru di buku catatannya. "Bagaimana kita menerjemahkan enam pilar ini ke dalam jadwal harian santri, Kiai?"
 
-Langkah rekayasa lingkungan ini berhasil menghilangkan kekacauan antrean dan hilangnya sandal santri yang selama ini menjadi sumber pertengkaran. Pesantren mengatur sirkulasi udara bersih dan pencahayaan alami di setiap bilik kamar untuk menjaga kesehatan fisik santri. Dan pesantren memberlakukan penataan jadwal tidur malam yang manusiawi—minimal 7 jam tidur berkualitas tanpa gangguan.
+"Kita mulai dari pilar pertama: **Tarbiyah Ruhiyyah**," jawab Kyai Hasyim dengan suara tenang. "Selama ini, kita mengira anak-anak sholat karena kita bentak. Mulai besok, kita ubah pendekatannya. Jadikan masjid sebagai tempat mereka menemukan kedamaian, bukan medan hisab."
 
-Tidur yang cukup ini sangat penting untuk mengoptimalkan hormon pertumbuhan dan konsolidasi memori otak santri. Kemudian Kiai membedah pilar keempat: **Bimbingan Kasih Sayang & Ketegasan Tanpa Kekerasan (Firm & Kind)**. "Sebagai murabbi," tutur Kiai seraya menatap Ustadz Salman dan para musyrif muda.
+Kiai menoleh ke arah Salman.
 
-"Kita wajib memadukan dua sifat mulia kenabian: *Kind in Tone, Firm in Boundaries*." "Artinya, kita wajib bersikap lembut dan penuh kasih sayang dalam tutur kata dan nada suara." "Namun pada saat yang sama, kita tetap tegas, konsisten, dan tidak berkompromi dalam menegakkan batasan adab dan syariat." "Kita tidak membentak, kita tidak menghina martabat anak, dan kita tidak memukul fisik mereka." "Namun kita menuntut tanggung jawab penuh atas setiap pelanggaran melalui konsekuensi logis yang mendidik." Dan pilar kelima adalah mahkota dari seluruh metodologi pengasuhan: **Uswah & Qudwah Hasanah Para Pendidik**. Kyai Hasyim menegaskan bahwa santri adalah cermin sempurna dari perilaku para gurunya. "Jika kita ingin santri kita sholat Subuh tepat waktu di shaf pertama, maka para ustadz dan musyrif harus sudah berada di masjid sebelum adzan berkumandang!" "Jika kita ingin santri berbicara santun dan beradab, maka para ustadz diharamkan melontarkan kata-kata kasar atau ejekan dari lisannya!"
+"Salman, bangunkan mereka dengan kelembutan fajar seperti yang kamu lakukan subuh tadi di Kamar Al-Farabi. Beri mereka waktu lima belas menit untuk meregangkan tubuh, mencuci muka, dan bernapas dengan sadar. Jangan paksa mereka berlari kencang dalam keadaan saraf yang linglung."
 
-"Keteladanan nyata (*Qudwah Hasanah*) berbicara sejuta kali lebih keras daripada seribu khutbah di atas mimbar!" Ustadz Salman menyerap setiap penjelasan tersebut ke dalam relung sanubarinya yang paling dalam. Salman menyadari bahwa mendidik santri bukanlah perkara menundukkan raga mereka dengan tongkat rotan.
+Salman mengangguk mantap. "Nggih, Kiai. Tadi pagi Farhan dan Danang bangun tanpa rasa panik ketika saya ketuk pelan."
 
-Mendidik santri adalah sebuah simfoni keteladanan akhlak yang dimainkan secara serempak dan harmonis oleh seluruh komponen Pesantren Darul Adab. Salman bertekad di dalam hatinya untuk menjadi cermin keteladanan yang jernih bagi seluruh santri asuhnya di asrama. Salman mengangkat tangannya mengusap wajahnya seraya berdoa agar Allah memberinya kekuatan untuk mengemban amanah qudwah ini.
+"Dan itulah fitrah ibadah," sahut sang Kiai tersenyum. "Ibadah yang berakar pada kesadaran cinta selalu menghasilkan kekhusyukan. Ibadah yang berakar pada ketakutan hanya menghasilkan kemunafikan."
 
-Kiai Hasyim berhenti sejenak, meminum seteguk air putih dari gelas di mejanya. Seluruh asatidz menyimak dengan pandangan mata yang berbinar-binar penuh inspirasi. Salman mencatat setiap poin penting dari kelima pilar operasional tersebut.
+Kyai Hasyim lalu menatap Ustadz Ridwan.
 
-Ustadz Burhan tersenyum membayangkan bagaimana suasana kelas madrasah akan bertransformasi. Zaid yang duduk di barisan santri senior mengangguk mantap penuh keyakinan. Udara aula ndalem terasa sejuk oleh hembusan angin semilir dari taman samping.
+"Pilar kedua: **Ukhuwah dan Disiplin Restoratif**. Ridwan, mulai hari ini, hapuskan seluruh papan pelanggaran dan buku hitam sanksi fisik di pos keamanan asrama."
 
-Kelima pilar ini menjadi pondasi kokoh yang menopang masa depan Darul Adab. Seluruh warga pesantren siap bergotong-royong menegakkan pilar-pilar peradaban ini.
+Ruangan mendadak hening. Beberapa musyrif muda saling berpandangan dengan mata cemas.
 
-Papan mahoni kaligrafi emas bertuliskan akronim TUMBUH terpampang megah di aula ndalem utama Pesantren Darul Adab. Sinar matahari sore membias keemasan menyinari setiap goresan huruf emas tersebut, menciptakan aura kemuliaan yang memukau seluruh hadirin. Enam pilar peradaban ini menjadi cetak biru abadi yang memandu transformasi tata kelola pengasuhan dan kurikulum pesantren 24 jam.
+"Hapuskan, Kiai?" tanya salah seorang musyrif muda dari lantai satu. "Lalu bagaimana jika ada santri yang berkelahi atau melanggar aturan?"
 
-Kyai Hasyim menjelaskan bahwa pilar Tarbiyah Ruhiyyah, Ukhuwah Restoratif, Manajemen Lingkungan 5S, Bimbingan Kasih Sayang Firm & Kind, Uswah Qudwah Pendidik, dan Hakikat Insan Adabi adalah satu kesatuan organik yang tak terpisahkan. Setiap pilar saling menopang dan menguatkan laksana bangunan istana peradaban yang kokoh. Tanpa salah satu pilar, bangunan pendidikan karakter akan miring dan kehilangan daya transformasinya.
+Kyai Hasyim menatap musyrif muda itu dengan tatapan mengayomi.
 
-Seluruh dewan asatidz dan pengurus santri senior menyimak pembacaan manifesto peradaban tersebut dengan dada yang bergetar penuh haru. Mereka merasakan bahwa sebuah babak baru kejayaan Islam sedang dimulai dari aula ndalem yang bersahaja ini. Mereka bersumpah di hadapan Allah untuk menjadi garda terdepan penegak nilai-nilai TUMBUH di seluruh lini kehidupan pondok.
+"Jika ada anak yang berkelahi, jangan disuruh push-up di depan umum atau dicukur gundul kepalanya. Hukuman fisik semacam itu hanya memupuk dendam dan rasa malu beracun di dalam dada anak."
 
-Ustadz Salman memandang papan kaligrafi tersebut dengan mata yang berbinar-binar penuh harapan. Salman merasa bahwa beban berat pengasuhan asrama kini telah memiliki panduan yang jelas, sistematis, dan diridhai oleh syariat. Salman siap mengorbankan seluruh tenaga dan pikirannya demi mengawal keberhasilan implementasi enam pilar ini.
+Kiai Hasyim mengangkat telapak tangannya.
 
-Zaid yang duduk di samping Salman mengangguk mantap penuh keyakinan. Zaid bertekad untuk memimpin seluruh santri senior menjadi pelayan dan pelindung adik-adik kelas mereka, mengamalkan pilar Ukhuwah dan Qudwah secara nyata. Majelis peresmian piagam TUMBUH di aula ndalem ditutup dengan doa penutup yang menggetarkan arasy langit dan meneteskan air mata kebahagiaan seluruh hadirin.
+"Bawa kedua anak yang berselisih ke ruang pendampingan yang tenang. Tanyakan lima pertanyaan reflektif: *Apa yang sebenarnya terjadi? Apa yang kamu rasakan saat itu? Siapa yang terluka oleh tindakanmu? Bagaimana caramu memperbaiki kerusakan itu? Dan apa yang bisa kita lakukan agar hal ini tidak terulang kembali?*"
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Ustadz Burhan mencatat kelima pertanyaan itu dengan tangan bergetar haru.
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+"Itulah keadilan restoratif, anak-anakku," lanjut Kyai Hasyim. "Kita mendidik mereka memikul tanggung jawab moral, memperbaiki hubungan yang retak, dan kembali ke tengah kawan-kawannya tanpa membawa stigma sebagai 'anak nakal'."
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+Kyai Hasyim kemudian mengarahkan pandangannya kepada Zaid.
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Pilar ketiga: **Mutawaazin dan Rekayasa Lingkungan**. Zaid, tugasmu bersama pengurus santri adalah merapikan titik-titik rawan konflik di asrama."
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+Zaid mencondongkan tubuhnya ke depan. "Titik rawan yang mana, Kiai?"
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+"Antrean tempat wudhu dan hilangnya sandal santri," jawab Kyai Hasyim lugas. "Setiap pagi, pertengkaran santri selalu dipicu oleh hal-hal sepele: sandal tertukar, gayung mandi diperebutkan, atau baju cucian yang berserakan."
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+Kiai menatap para hadirin dengan senyuman arif.
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+"Itu bukan karena anak-anak kita jahat, melainkan karena lingkungan fisiknya belum kita rekayasa dengan adab. Mulai besok, buat garis kuning pembatas antrean di depan tempat wudhu. Beri nomor dan slot vertikal untuk setiap sandal santri di rak kamar masing-masing. Ketika lingkungan tertata rapi, delapan puluh persen friksi dan kemarahan akan lenyap dengan sendirinya."
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+Zaid mengangguk cepat. Di kepalanya langsung terbayang denah rak bambu bertingkat yang bisa mereka buat bersama adik-adik kelas di bengkel pertukangan pondok.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+"Dan jangan lupakan hak tidur mereka," sambung Kyai Hasyim dengan nada tegas. "Maksimal pukul sepuluh malam, lampu utama asrama harus dipadamkan. Biarkan anak-anak tidur nyenyak selama tujuh jam. Otak mereka sedang bertumbuh, sel ingatan mereka butuh istirahat agar Al-Qur'an yang mereka hafal bisa mengendap kokoh di dada."
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+Kiai menoleh kembali ke arah Salman.
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+"Pilar keempat: **Bimbingan Kasih Sayang yang Tegas tanpa Kekerasan—Firm and Kind**. Sebagai pembina, kamu harus memadukan kelembutan nada bicara dengan ketegasan batasan hukum."
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+"Bagaimana contohnya di lapangan, Kiai?" tanya Salman penasaran.
+
+"Ketika Farhan terlambat datang ke halaqah," terang Kyai Hasyim, "kamu menyapanya dengan suara yang lembut: *'Farhan, Ustadz senang melihatmu datang. Tapi aturan halaqah kita mulai pukul empat tepat, dan sekarang sudah pukul empat lewat sepuluh. Silakan duduk di belakang dan selesaikan tugas membacamu sepuluh menit lebih lama setelah halaqah selesai.'*"
+
+Kyai Hasyim tersenyum memandang Salman.
+
+"Nada bicaramu penuh kasih sayang, tidak ada caci maki, tidak ada teriakan. Tetapi konsekuensinya tegas dan logis. Itulah *Firm and Kind*. Anak belajar bertanggung jawab tanpa merasa martabat kemanusiaannya diinjak-injak."
+
+Salman menghembuskan napas panjang. Jiwanya serasa menemukan lentera di tengah lorong gelap yang selama ini ia lalui dengan meraba-raba.
+
+"Dan pilar kelima yang menjadi ruh dari semuanya," dawuh Kyai Hasyim seraya meletakkan tangannya di dada kirinya, "**Qudwah Hasanah**."
+
+Sang kiai menatap seluruh guru dan santri senior dengan tatapan yang sangat dalam.
+
+"Jangan pernah menuntut anak-anak mencintai shubuh jika kita sendiri terlambat ke masjid. Jangan pernah menuntut anak-anak bertutur kata santun jika lisan kita masih mengumpat dan merendahkan mereka. Dan jangan pernah menyuruh mereka merapikan kamar jika meja kerja kita sendiri berserakan oleh kertas dan debu."
+
+Kiai Hasyim memejamkan mata sejenak, lalu melafalkan sebuah kalam hikmah ulama:
+
+$$\text{لِسَانُ الْحَالِ أَفْصَحُ مِنْ لِسَانِ الْمَقَالِ}$$
+
+"*Bahasa keteladanan perbuatan jauh lebih fasih dan menancap daripada sejuta kata ucapan lisan.*"
+
+Ustadz Ridwan mengangkat tangannya sedikit, meminta izin berbicara.
+
+"Nyuwun sewu, Kiai... Di samping pos jaga lantai satu, ada sebuah bilik sempit yang selama bertahun-tahun dipakai sebagai 'ruang sanksi'. Di sana disimpan rotan cadangan, ember denda, dan buku hitam catatan pelanggaran santri."
+
+Kyai Hasyim menatap Ridwan dengan tatapan teduh. "Apa yang panjenengan usulkan untuk bilik itu, Ridwan?"
+
+"Malam ini juga, saya dan Salman ingin mengosongkan bilik itu," kata Ridwan tegas. "Buku hitam catatan dosa santri akan kita kubur atau kita bakar. Bilik sempit yang pengap itu akan kita bersihkan, kita beri cat putih, kita pasang karpet bersih dan rak buku kisah para nabi."
+
+Ridwan menoleh menatap Salman. Salman membalas tatapan itu dengan senyuman penuh kelegaan.
+
+"Kita ubah bilik itu menjadi *Ruang Ishlah*," lanjut Ridwan. "Sebuah tempat teduh di mana santri yang bermasalah tidak dihakimi laksana narapidana, melainkan diajak berdialog dari hati ke hati untuk memulihkan adab dan persaudaraan mereka."
+
+Kyai Hasyim tersenyum sangat lebar. Ada kilau kebahagiaan yang mendalam di sepasang mata sang kiai sepuh.
+
+"Maa syaa Allah... Itulah tanda bahwa cahaya ilmu telah meresap ke dalam tindakanmu, Ridwan," sabda Kyai Hasyim dengan nada bergetar haru. "Lakukan malam ini. Bersihkan bilik itu dari sisa-sisa kegelapan masa lalu. Jadikan ia oase ketenangan bagi jiwa anak-anak kita yang sedang terluka."
+
+Zaid yang duduk di dekat mimbar ikut mengajukan diri.
+
+"Kiai... Izinkan saya dan anak-anak pengurus kelas dua belas membantu Ustadz Salman dan Ustadz Ridwan membersihkan bilik itu sore nanti."
+
+Salman menoleh ke arah Zaid. Matanya berkaca-kaca menatap kesiapan santri senior itu.
+
+"Terima kasih, Zaid," bisik Salman tulus. "Kita akan bekerja bersama-sama."
+
+Keheningan kembali merayap di aula ndalem. Namun kali ini bukan keheningan ketakutan, melainkan keheningan jiwa-jiwa yang sedang dipenuhi oleh tekad suci untuk bertransformasi.
+
+Salman menatap papan mahoni kaligrafi TUMBUH di atas panggung. Huruf-huruf emas itu kini bukan lagi deretan abjad tanpa nyawa, melainkan peta jalan peradaban yang siap ia tempuh bersama seluruh keluarga besar Pesantren Darul Adab.
+
+Di luar aula, angin sore mulai berhembus sejuk menggoyang pucuk pohon sawo kecik, mengiringi tekad agung yang baru saja diikrarkan di hadapan Allah SWT.

@@ -1,71 +1,117 @@
 # Sub-Bab 6.3: Visi Besar Insan Adabi
 
-Kyai Hasyim melangkah ke tengah panggung aula ndalem utama Pesantren Darul Adab. Sinar matahari sore mulai membias keemasan melalui jendela kaca patri, menyinari sosok sang mahaguru. Kiai menatap seluruh hadirin dengan pandangan mata yang berbinar penuh cahaya kemuliaan, optimisme, dan keharuan.
+Sinar matahari sore mulai condong ke barat, menumpahkan cahaya kuning kemerahan yang tembus melalui celah ventilasi kaca aula ndalem.
 
-Kiai mengangkat kedua belah tangannya seraya menjelaskan pilar keenam yang menjadi muara akhir dari seluruh proses pendidikan ekosistem TUMBUH: **Hakikat Insan Adabi Paripurna (*The Holistic Islamic Civilizational Human Being*)**. Kyai Hasyim mengutip pemikiran filosofis agung dari begawan filsafat Islam kontemporer, Prof. Syed Muhammad Naquib Al-Attas, mengenai hakikat adab:
+Kyai Hasyim bangkit kembali dari duduk bersilanya. Langkah sang mahaguru sepuh tampak ringan namun penuh wibawa saat ia melangkah mendekati papan kaligrafi bertinta emas di atas panggung.
+
+Seluruh pandangan hadirin terangkat mengikuti setiap gerak tubuh sang ulama.
+
+"Setelah lima pilar pertama kita tegakkan di asrama, di kelas, dan di masjid," suara Kyai Hasyim bergaung lembut memenuhi setiap sudut aula, "ke mana arah muara dari seluruh jerih payah kita ini?"
+
+Kiai Hasyim menyentuh huruf terakhir pada papan kaligrafi itu: huruf **H**.
+
+"Pilar keenam: **Hakikat Insan Adabi**," dawuh sang Kiai. "Inilah mahkota peradaban yang hendak kita lahirkan dari rahim Pesantren Darul Adab."
+
+Kiai Hasyim memandang para asatidz dengan binar mata yang sarat dengan cahaya keilmuan yang luas.
+
+"Begawan peradaban Islam abad ini, Profesor Syed Muhammad Naquib Al-Attas, telah mendefinisikan adab dengan sangat mendalam di dalam kitab-kitabnya:"
+
+Kyai Hasyim melafalkan sebuah rumusan berbahasa Arab dengan intonasi yang begitu khusyuk:
 
 $$\text{الْأَدَبُ هُوَ مَعْرِفَةُ وَضْعِ الْأَشْيَاءِ فِي مَوَاضِعِهَا الصَّحِيحَةِ فِي النَّفْسِ وَالْعَالَمِ، وَالْعَمَلُ بِمُقْتَضَى ذَلِكَ الْوَضْعِ بِعَدْلٍ وَحِكْمَةٍ}$$
 
-> *"Adab adalah pengenalan dan pengakuan atas letak yang tepat dan benar bagi segala sesuatu dalam tata susunan wujud dan martabat ciptaan, sehingga melahirkan tindakan yang benar, adil, dan penuh hikmah di dalam diri manusia dan di alam semesta."*
+Sang kiai menerjemahkannya dengan suara yang tenang dan berwibawa:
 
-Kyai Hasyim membedah profil agung **Insan Adabi** yang hendak dicetak oleh Pesantren Darul Adab di masa depan: Insan Adabi bukanlah manusia yang sekadar cerdas otaknya namun kering hatinya dari rasa takut kepada Allah SWT. Insan Adabi bukanlah manusia yang hafal ribuan bait matan ilmu nahwu namun kasar tutur katanya kepada sesama penuntut ilmu.
+"*Adab adalah pengenalan dan pengakuan atas letak yang tepat dan benar bagi segala sesuatu dalam tata susunan wujud dan martabat ciptaan, sehingga melahirkan tindakan yang benar, adil, dan penuh hikmah di dalam diri manusia dan di alam semesta.*"
 
-Dan Insan Adabi bukanlah manusia yang jago berdebat di podium namun bersikap sombong dan merendahkan martabat orang lain. Insan Adabi adalah pribadi mukmin yang utuh, seimbang (*Tawazun*), dan paripurna (*Kāmil*). Insan Adabi memiliki empat dimensi kematangan karakter yang terintegrasi kuat:
+Salman menyimak kalimat itu dengan dada yang bergetar.
 
-Dimensi pertama adalah **Kematangan Tauhid dan Spiritual (*Salimul Aqidah & Shahihul Ibadah*)**. Insan Adabi menjadikan ridha Allah SWT dan kecintaan yang mendalam kepada Baginda Rasulullah SAW sebagai poros utama dari seluruh niat dan tindakannya. Ia merasakan kenikmatan dalam sujud tahajjud dan memiliki keikhlasan mutlak dalam beramal tanpa mengharap pujian makhluk.
+"Perhatikan kata kuncinya, Salman, Burhan, Ridwan..." Kiai menatap murid-muridnya satu per satu. "*Meletakkan sesuatu pada tempatnya yang benar.*"
 
-Dimensi kedua adalah **Kematangan Intelektual dan Hikmah (*Qadirun 'alal Kasbi & Mutsaqqoful Fikr*)**. Insan Adabi memiliki nalar kritis, kemampuan berpikir logis, dan kecintaan membaca yang sangat tinggi. Ia menguasai khazanah turats klasik sekaligus mampu membedah sains modern secara kritis tanpa terombang-ambing oleh fitnah pemikiran sekuler.
+Kiai Hasyim mengangkat satu tangannya.
 
-Dimensi ketiga adalah **Kematangan Emosional dan Karakter (*Matinul Khuluq & Mujahidun Linafsih*)**. Insan Adabi mampu mengendalikan hawa nafsu amarahnya (*Emotional Self-Regulation*). Ia memiliki rasa empati yang sangat mendalam kepada penderitaan orang lain.
+"Ketika seorang santri meletakkan sandalnya dengan rapi di rak, itu adalah adab pada benda fisik. Ketika santri mendengarkan gurunya mengajar dengan tenang, itu adalah adab pada ilmu. Ketika seorang santri merangkul kawannya yang sedang menangis rindu ibu, itu adalah adab pada sesama insan."
 
-Ia bersikap teguh memegang prinsip kebenaran dan bersikap lemah lembut dalam memperlakukan orang-orang yang lemah. Dimensi keempat adalah **Kematangan Sosial dan Pelayanan Umat (*Nafi'un Lighairihi*)**. Insan Adabi memiliki jiwa kepemimpinan pelayan (*Servant Leadership*).
+"Dan ketika seorang pendidik menahan amarahnya," suara Kyai Hasyim sedikit meninggi penuh penegasan, "lalu memilih menegur dengan kelembutan yang adil alih-alih melampiaskan rotan, itulah puncak adab seorang murabbi kepada amanah Allah!"
 
-Ia tanggap terhadap masalah-masalah kemiskinan dan ketidakadilan di masyarakat sekitarnya. Ia siap mengorbankan waktu, tenaga, dan ilmunya demi kemajuan umat Islam dan kejayaan peradaban manusia. Kiai menatap seluruh dewan asatidz dan musyrif dengan tatapan yang menggetarkan seluruh rongga kalbu:
+Kata-kata itu meresap bagai tetesan air murni di tanah gersang.
 
-"Sahabat-sahabatku para pendidik peradaban yang mulia..." "Farhan, Faisal, Danang, dan seluruh santri yang sedang belajar di pondok ini adalah calon-calon Insan Adabi yang sedang kita ukir bersama." "Kita sedang menanam benih-benih peradaban emas di tanah hati mereka yang suci." "Suatu saat kelak, ketika mereka lulus dari pesantren ini, mereka akan menjadi ulama yang menyejukkan umat." "Mereka akan menjadi pemimpin yang adil dan amanah." "Mereka akan menjadi dokter yang berakhlak mulia dan berhati dermawan." "Mereka akan menjadi ilmuwan yang berhati tasawuf dan berakhlak qur'ani." "Dan mereka akan menjadi benteng pertahanan Islam yang kokoh dari kegelapan fitnah akhir zaman!" Kyai Hasyim menutup pidato pembaharuan tersebut dengan memanjatkan doa agung yang khusyuk.
+"Pesantren kita tidak didirikan hanya untuk mencetak anak-anak yang pandai berdebat nahwu namun lidahnya berbisa menyakiti kawan," lanjut Kyai Hasyim. "Kita tidak ingin melahirkan penghafal Al-Qur'an tiga puluh juz yang hatinya sombong dan memandang rendah orang awam."
 
-Seluruh asatidz dan musyrif mengaminkan doa tersebut dengan linangan air mata haru yang membasahi janggut dan baju mereka. Gema takbir dan tekad membahana di aula ndalem Pesantren Darul Adab. Piagam TUMBUH telah resmi dilahirkan dan ditancapkan kokoh di bumi pesantren.
+Kiai Hasyim menggeleng pelan.
 
-Piagam ini siap menjadi lentera abadi yang memandu perjalanan mencetak Insan Adabi pengawal masa depan peradaban Islam. Seluruh asatidz bersalam-salaman dan berpelukan erat, menyatukan tekad untuk melahirkan generasi Insan Adabi yang diridhai Allah SWT. Kiai Hasyim menghela nafas panjang yang sarat dengan keharuan dan optimisme agung.
+"Insan Adabi yang kita impikan adalah sosok mukmin yang utuh, seimbang, dan berjiwa merdeka. Ia memiliki empat pilar kematangan di dalam dadanya."
 
-Di luar aula, langit senja mulai membias kemerahan di atas kubah masjid. Para asatidz saling bertatapan dengan tatapan penuh rasa persaudaraan dan tekad perjuangan. Salman merasakan beban berat di pundaknya kini berubah menjadi sayap-sayap harapan.
+Kiai Hasyim menguraikan pilar kematangan pertama:
 
-Farhan dan kawan-kawannya adalah mutiara masa depan yang sedang diasah dengan cinta. Visi Insan Adabi telah menjadi kompas penunjuk arah bagi seluruh civitas akademika. Pesantren Darul Adab melangkah dengan tegap menyongsong fajar kebangkitan umat.
+"Pertama: *Kematangan Tauhid dan Ibadah*. Hatinya tenang karena selalu merasa diawasi oleh Allah SWT. Ia bersujud tahajjud bukan karena takut dihukum musyrif, melainkan karena rindu berbisik kepada Sang Kekasih di keheningan malam."
 
-Setiap jiwa bertekad untuk mempersembahkan yang terbaik demi kejayaan Islam. Majelis pembaharuan di aula ndalem ditutup dengan gema takbir yang membahana.
+Kiai melanjutkan ke pilar kedua:
 
-Papan mahoni kaligrafi emas bertuliskan akronim TUMBUH terpampang megah di aula ndalem utama Pesantren Darul Adab. Sinar matahari sore membias keemasan menyinari setiap goresan huruf emas tersebut, menciptakan aura kemuliaan yang memukau seluruh hadirin. Enam pilar peradaban ini menjadi cetak biru abadi yang memandu transformasi tata kelola pengasuhan dan kurikulum pesantren 24 jam.
+"Kedua: *Kematangan Akal dan Hikmah*. Ia menguasai turats ulama terdahulu sekaligus fasih membaca sains modern. Pikirannya tajam, nalar logikanya kritis, namun hatinya tetap tawadhu dan haus akan kebenaran."
 
-Kyai Hasyim menjelaskan bahwa pilar Tarbiyah Ruhiyyah, Ukhuwah Restoratif, Manajemen Lingkungan 5S, Bimbingan Kasih Sayang Firm & Kind, Uswah Qudwah Pendidik, dan Hakikat Insan Adabi adalah satu kesatuan organik yang tak terpisahkan. Setiap pilar saling menopang dan menguatkan laksana bangunan istana peradaban yang kokoh. Tanpa salah satu pilar, bangunan pendidikan karakter akan miring dan kehilangan daya transformasinya.
+Kiai menunjuk pilar ketiga:
 
-Seluruh dewan asatidz dan pengurus santri senior menyimak pembacaan manifesto peradaban tersebut dengan dada yang bergetar penuh haru. Mereka merasakan bahwa sebuah babak baru kejayaan Islam sedang dimulai dari aula ndalem yang bersahaja ini. Mereka bersumpah di hadapan Allah untuk menjadi garda terdepan penegak nilai-nilai TUMBUH di seluruh lini kehidupan pondok.
+"Ketiga: *Kematangan Jiwa dan Akhlak*. Ia mampu mengendalikan hawa nafsunya sendiri. Ia memiliki empati yang dalam terhadap orang yang tertindas, dan ia memiliki keberanian moral untuk membela kebenaran tanpa rasa takut."
 
-Ustadz Salman memandang papan kaligrafi tersebut dengan mata yang berbinar-binar penuh harapan. Salman merasa bahwa beban berat pengasuhan asrama kini telah memiliki panduan yang jelas, sistematis, dan diridhai oleh syariat. Salman siap mengorbankan seluruh tenaga dan pikirannya demi mengawal keberhasilan implementasi enam pilar ini.
+Dan pilar keempat:
 
-Zaid yang duduk di samping Salman mengangguk mantap penuh keyakinan. Zaid bertekad untuk memimpin seluruh santri senior menjadi pelayan dan pelindung adik-adik kelas mereka, mengamalkan pilar Ukhuwah dan Qudwah secara nyata. Majelis peresmian piagam TUMBUH di aula ndalem ditutup dengan doa penutup yang menggetarkan arasy langit dan meneteskan air mata kebahagiaan seluruh hadirin.
+"Keempat: *Kematangan Khidmah dan Kepemimpinan*. Ia menjadikan dirinya sebagai pelayan bagi umat manusia. Di mana pun ia berada, ia menjadi pohon rindang yang menaungi musafir, menjadi sumber mata air yang menghilangkan dahaga orang-orang di sekitarnya."
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Kyai Hasyim berhenti sejenak. Sang kiai menatap ke arah pintu aula yang terbuka, memandang ke arah deretan gedung asrama putra di seberang lapangan.
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+"Lihatlah ke sana, para sahabatku..." tutur Kyai Hasyim dengan suara bergetar haru. "Farhan, Danang, Faisal, dan ratusan santri yang saat ini sedang berada di bilik-bilik asrama itu... mereka bukanlah beban yang menyusahkan hidup kita."
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+Setitik air mata tampak menggenang di pelupuk mata sang ulama sepuh.
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Mereka adalah benih-benih peradaban emas yang dititipkan Allah ke pangkuan kita. Suatu hari nanti, sepuluh atau dua puluh tahun dari sekarang, anak-anak yang hari ini kita asuh dengan cinta akan memimpin bangsa ini."
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+Kiai Hasyim tersenyum membayangkan masa depan yang gilang-gemilang.
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+"Di antara mereka akan ada yang menjadi ulama yang menyejukkan hati jutaan umat. Akan ada yang menjadi dokter spesialis saraf yang merawat pasien dhuafa dengan kelembutan tangan seorang sufi. Akan ada yang menjadi hakim yang adil, menjadi ilmuwan yang zuhud, dan menjadi pemimpin yang menangis karena takut menzalimi rakyatnya."
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+Kiai menoleh kembali menatap seluruh dewan asatidz dan musyrif yang telah berlinang air mata.
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+"Dan semua pohon peradaban raksasa itu berakar dari bagaimana kita menyapa mereka fajar hari ini di bilik asrama mereka!"
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+Kyai Hasyim mengangkat kedua belah tangannya ke atas, memimpin doa penutup majelis.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+Suara sang mahaguru mengalun syahdu membelah keheningan aula ndalem, memohon perlindungan Allah dari sifat sombong dan meminta kekuatan agar seluruh pendidik di Pesantren Darul Adab dimampukan menjadi petani-petani fitrah yang amanah.
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+Air mata penyesalan dan harapan bercampur tumpah di atas sajadah para guru.
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+Ketika doa selesai dan lafal amin berkumandang serempak menggetarkan ruangan, para hadirin menyeka sisa air mata mereka dengan ujung lengan baju atau surban.
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Beberapa asatidz senior melangkah mendekati panggung, menyalami Kyai Hasyim dengan takzim dan mencium punggung tangan sang pengasuh sepuh bergantian.
+
+Zaid dan Salman melangkah beriringan mendekati papan kaligrafi bertinta emas itu. Mereka memandangi huruf-huruf TUMBUH yang kini telah mengering sempurna di atas permukaan kayu mahoni.
+
+"Kiai..." panggil Zaid hati-hati saat sang kiai menoleh menatap mereka berdua.
+
+Kyai Hasyim tersenyum teduh. "Ada apa, Zaid anakku?"
+
+"Bagaimana jika di asrama nanti kami mendapati adik-adik kelas yang masih menaruh curiga?" tanya Zaid dengan nada bimbang yang jujur. "Sebagian dari mereka, seperti Faisal, sudah telanjur menyimpan luka dan sikap defensif karena pernah mengalami kekerasan di masa lalu. Mereka mungkin mengira kelembutan kami hanyalah siasat baru untuk menjebak mereka."
+
+Salman menyimak pertanyaan itu dengan dada yang berdesir. Ia tahu persis bahwa Faisal memang anak yang paling sulit didekati karena pengalaman pahitnya.
+
+Kyai Hasyim meletakkan telapak tangannya di pundak Zaid, lalu menatap Salman dan Zaid secara bergantian.
+
+"Burung yang pernah terluka oleh panah pemburu akan terbang menjauh setiap kali melihat ranting pohon bergerak, Zaid," sabda Kyai Hasyim dengan suara yang menyejukkan sanubari. "Kamu tidak bisa meminta burung itu langsung hinggap di telapak tanganmu dalam sehari."
+
+Kiai Hasyim menghela napas perlahan.
+
+"Dibutuhkan kesabaran seorang petani yang tekun. Jangan merasa kecewa jika tatapan mereka masih dingin. Teruslah hadir dengan senyuman, teruslah menyapa dengan salam, dan buktikan dengan tindakan nyata bahwa rotan itu benar-benar telah tiada."
+
+"Konsistensi," tambah Salman pelan. "Dokter Arief tadi pagi mengatakan bahwa sirkuit rasa aman di otak anak butuh bukti yang berulang-ulang."
+
+"Tepat sekali, Salman," angguk Kyai Hasyim bangga. "Ketika mereka melihat bahwa setelah seminggu, sebulan, dan tiga bulan kalian tetap memperlakukan mereka dengan kasih sayang yang tulus, dinding kecurigaan di hati mereka akan runtuh dengan sendirinya."
+
+Zaid menarik napas dalam-dalam. Beban keraguan di dadanya seketika menguap, digantikan oleh ketenangan dan keyakinan baru.
+
+"Kami mengerti sekarang, Kiai. Kami tidak akan tergesa-gesa menuntut hasil instan."
+
+Salman dan Zaid saling berpandangan, lalu berpelukan erat. Dua generasi penggerak asrama itu menyatukan tekad untuk mengawal kelahiran generasi Insan Adabi di setiap bilik santri.
+
+Matahari sore telah tenggelam sempurna di ufuk barat, meninggalkan pendar lembayung jingga yang memesona di atas kubah hijau masjid Darul Adab.
+
+Lentera peradaban TUMBUH telah resmi dinyalakan, dan sinarnya siap menerangi setiap relung jiwa para penuntut ilmu menyongsong babak baru perjuangan mereka.
