@@ -1,71 +1,115 @@
 # Sub-Bab 7.1: Pakaian Kotor dan Kasta Asrama
 
-Sore hari pukul 16.30 di lorong tempat pencucian pakaian asrama putra Pesantren Darul Adab. Sinar matahari senja mulai meredup di balik atap-atap gedung asrama, menyisakan udara sore yang lembap dan dingin. Lantai semen tempat pencucian pakaian yang terletak di samping deretan kamar mandi tampak basah dan licin oleh genangan air sabun berbusa.
+Lantai semen tempat pencucian pakaian di samping deretan kamar mandi asrama putra tampak tergenang air keruh berbusa putih.
 
-Suara gemericik air kran yang mengucur ke dalam bak semen terdengar beradu dengan suara decit sikat cuci dan deburan air bilasan. Di sudut paling ujung tempat pencucian tersebut, seorang bocah kurus sedang berjongkok di atas lantai semen yang dingin. Itu adalah Farhan.
+Bau detergen kiloan yang tajam dan menusuk hidung bercampur dengan aroma lumut basah dari parit pembuangan air di sudut tembok. Di atas kepala, seutas kawat jemuran berkarat berderit pelan setiap kali diayun angin sore yang bertiup dingin dari lembah bukit.
 
-Kedua lengan baju kaos oblong putih Farhan telah digulung tinggi hingga ke atas bahunya yang kurus. Kedua telapak tangan Farhan yang mungil tampak memutih, berkerut-kerut (*Macerated Skin*), dan lecet-lecet kemerahan. Kulit tangannya terasa sangat perih akibat kontak terus-menerus dengan bubuk detergen keras murahan selama hampir dua jam.
+Farhan berjongkok di atas lantai semen yang licin.
 
-Di hadapan Farhan, sebuah ember plastik besar berwarna hitam penuh berisi tumpukan pakaian kotor yang menggunung. Pakaian kotor tersebut bukan milik Farhan. Di dalam ember itu, bertumpuk tiga potong sarung tenun tebal, empat helai baju koko, dua celana panjang training, dan pakaian dalam milik salah seorang santri senior kelas dua belas.
+Kedua lengan kaos oblong putihnya yang kusam digulung tinggi hingga melewati siku. Kulit di kedua telapak tangannya telah memutih, berkerut-kerut seperti kertas basah, dan di sela-sela jari manis serta telunjuknya tampak bilur-bilur merah perih akibat gesekan sikat sabun selama hampir dua jam tanpa henti.
 
-Farhan sedang memeras sehelai sarung tenun yang basah dan berat dengan seluruh sisa tenaga di kedua lengannya yang ringkih. Urat-urat halus di pergelangan tangannya menonjol tegang, dan nafasnya terdengar tersengal-sengal pendek menahan beban yang teramat berat bagi anak seusianya. Selama bertahun-tahun sebelum reformasi TUMBUH dilahirkan, sebuah budaya feodalisme terselubung yang sangat merusak telah mengakar kuat di asrama putra Pesantren Darul Adab.
+Di hadapannya, sebuah ember plastik hitam besar dipenuhi oleh tumpukan pakaian basah yang menggunung.
 
-Sebuah hierarki kasta tak tertulis telah membelenggu kehidupan santri: para santri baru kelas tujuh dipaksa secara sistemik menjadi 'pesuruh dan pelayan' bagi para santri senior kelas sebelas dan dua belas. Bentuk-bentuk perbudakan terselubung ini beraneka ragam dan sangat menindas: Santri baru dipaksa mencucikan pakaian kotor senior setiap sore hari.
+Pakaian-pakaian itu bukan miliknya.
 
-Santri baru dipaksa menyetrikakan jubah dan sarung senior hingga larut malam. Santri baru dipaksa memijat kaki dan punggung senior di kamar saat senior sedang bersantai. Santri baru dipaksa mengantrekan dan membawakan piring makan nasi liwet senior dari dapur umum.
+Di dalam ember itu bertumpuk dua potong sarung tenun tebal, empat helai baju koko bersulam, tiga celana panjang kain, dan seonggok pakaian dalam milik salah seorang santri senior kelas dua belas dari asrama blok barat.
 
-Dan santri baru dipaksa membelikan makanan ke warung luar di malam hari. Praktek perpeloncoan dan eksploitasi fisik ini dibungkus secara keliru dan manipulatif dengan label 'latihan khidmah', 'ngalap berkah senior', dan 'pendidikan tawadhu'. Padahal di balik topeng nilai agama palsu tersebut, tumbuh subur rasa superioritas semu, arogansi kekuasaan, dan mentalitas penindas di dalam jiwa santri senior.
+Farhan menarik sehelai sarung tenun hitam yang berat oleh serapan air sabun. Anak dua belas tahun itu memerasnya dengan segenap tenaga yang tersisa di kedua tangannya yang kurus.
 
-Sebaliknya, di dalam jiwa para santri baru, praktek ini menanamkan rasa trauma, kehinaan diri, dan bibit dendam kesumat yang membara. Anak-anak baru belajar bahwa satu-satunya cara untuk lepas dari penindasan adalah dengan bertahan hidup hingga mereka menjadi senior kelak, agar mereka bisa melampiaskan dendam yang sama kepada adik-adik kelas mereka (*The Intergenerational Cycle of Bullying & Abuse*). Farhan menatap tumpukan baju kotor berbusa di hadapannya dengan pandangan mata yang nanar dan hampa.
+Urat-urat halus di pergelangan tangannya menonjol tegang. Napasnya terdengar tersengal pendek-pendek menahan beban kain yang seolah enggan diperas kering.
 
-Setitik air mata bening jatuh menetes dari kelopak matanya, jatuh berbaur ke dalam air cucian yang kotor. Farhan merasa martabat kemanusiaannya sebagai penuntut ilmu Al-Qur'an telah diinjak-injak hingga ke dasar tanah. Farhan teringat pesan ayahnya di desa bahwa ia dikirim ke pondok untuk belajar kitab suci dan meneladani akhlak mulia Nabi, bukan untuk menjadi pembantu tak berbayar bagi orang lain.
+Setiap sore, setelah jam madrasah usai dan sebelum adzan Maghrib berkumandang, pemandangan seperti ini adalah pemandangan lumrah di sudut asrama. Sebuah aturan tak tertulis yang telah diwariskan turun-temurun mengikat anak-anak kelas tujuh laksana belenggu besi: santri baru wajib mencucikan pakaian kotor santri senior.
 
-Ketika Farhan sedang mengucek kerah baju koko senior dengan jemari yang gemetar dan nafas yang terengah-engah... Tiba-tiba sebuah telapak tangan kekar mendarat dengan sangat lembut di atas pundak kirinya. Farhan terlonjak kaget luar biasa.
+Bukan hanya mencuci baju.
 
-Tubuhnya seketika menegang kaku, mengira santri senior pemilik baju itu datang untuk membentaknya karena cuciannya belum selesai. Farhan buru-buru memejamkan mata sembari menundukkan kepala sedalam-dalamnya: "Af-afwan, Mas... Cuciannya hampir selesai, tinggal membilas sarungnya..."
+Mereka dipaksa menyetrika jubah senior hingga lewat tengah malam dengan setrika arang yang berat. Mereka dipaksa mengantrekan piring nasi liwet di dapur umum lalu mengantarkannya ke ranjang senior. Mereka dipaksa memijat betis senior saat mereka sedang lelah belajar, dan mereka disuruh berlari ke warung di luar gerbang pondok saat malam hari untuk membelikan rokok atau mi instan.
 
-Namun tidak ada bentakan kasar yang terdengar. Yang terdengar hanyalah sebuah helaan nafas panjang yang sarat dengan rasa bersalah dan kepedihan nurani yang mendalam. Farhan memberanikan diri mendongakkan kepalanya perlahan.
+Semua penindasan itu selama bertahun-tahun dibungkus rapat dengan istilah-istilah yang terdengar suci: *ngalap berkah*, *latihan khidmah*, atau *belajar tawadhu*.
 
-Di hadapannya, berdiri sosok Zaid—Ketua Organisasi Santri kelas dua belas yang baru dilantik. Zaid mengenakan kaos oblong hitam polos dan celana training panjang yang ujungnya digulung ke atas. Kedua mata Zaid menatap Farhan dan ember cucian di lantai dengan sorot mata yang dipenuhi oleh keharuan, rasa sesal, dan kepedihan jiwa yang tak terkira.
+Namun di dalam hati Farhan yang polos, ia tahu kata-kata itu palsu.
 
-Zaid menarik nafas panjang, bersiap menghentikan seluruh kezaliman ini untuk selama-lamanya di Pesantren Darul Adab. Angin sore berhembus kencang, menggoyang kawat jemuran di samping tempat cucian. Farhan menarik nafasnya yang tersengal, merasakan perih di ujung jemari tangannya.
+Tidak ada berkah dalam kepedihan tangan yang terkelupas oleh detergen keras. Tidak ada latihan khidmah dalam ancaman pukulan jika setrikaan sarung kurang licin. Yang ada hanyalah rasa takut, kehinaan diri, dan kemarahan yang harus ia telan bulat-bulat sendirian di sudut tempat cuci.
 
-Tetesan air sabun terus mengalir membasahi lantai semen yang berlumut tipis. Di kejauhan, terdengar tawa santri-santri lain yang sedang bermain di lapangan. Zaid mengepalkan tangannya di balik saku, menahan amarah atas kezaliman yang terjadi.
+Farhan berhenti mengucek. Tangannya terasa begitu perih saat air sabun meresap ke dalam luka kecil di sela jempolnya.
 
-Zaid bertekad untuk menghapus air mata adik-adik kelasnya mulai detik ini juga. Suasana di tempat cucian membeku dalam keheningan yang sarat dengan tekad perubahan. Sebuah era baru keadilan persaudaraan segera lahir dari tempat pencucian yang basah ini.
+Ia menarik napas panjang yang tersengat bau klorin. Pandangannya nanar menatap buih busa yang mengambang di permukaan air ember.
 
-Farhan menatap Mas Zaid dengan tatapan mata yang dipenuhi oleh harapan baru. Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
+Di benaknya melintas wajah Ibu Fatimah di desa.
 
-Zaid berdiri di samping Farhan dan Danang, mengajari kedua adik asuhnya cara memeras sarung tenun yang basah dan melipat cucian dengan teknik yang benar agar tidak kusut. Kehangatan bimbingan Zaid menghadirkan senyuman ceria di wajah anak-anak yang dahulunya selalu dicekam rasa takut. Tradisi perpeloncoan yang keliru telah musnah digantikan oleh budaya saling membantu dan memuliakan sesama penuntut ilmu.
+Ia ingat bagaimana ibunya mencium kedua belah tangannya saat ia berpamitan di teras rumah kayu mereka sebulan lalu. *'Farhan anakku,'* bisik ibunya waktu itu dengan derai air mata cinta, *'belajarlah yang sungguh-sungguh di pondok. Tuntutlah ilmu Al-Qur'an agar kelak kamu bisa mengangkat derajat abah dan emak di hadapan Allah.'*
 
-Di masjid utama, Kyai Hasyim mengesahkan Piagam Kesetaraan Martabat Santri yang melarang mutlak segala bentuk suruhan pribadi dan senioritas feodal di pesantren. Kiai menegaskan bahwa kemuliaan seorang santri tidak diukur dari tingkatan kelasnya, melainkan dari ketakwaan hati dan pelayanannya kepada saudaranya yang membutuhkan. Seluruh santri senior bersalaman dengan adik-adik kelas mereka, saling memaafkan dan berpelukan dalam kehangatan ukhuwah Islamiyyah yang suci.
+Air mata Farhan menetes, jatuh tanpa suara ke dalam ember cucian yang kotor.
 
-Farhan menatap Mas Zaid dengan rasa takzim dan cinta persaudaraan yang mendalam di dalam dadanya. Farhan merasa bahwa martabat kemanusiaannya sebagai penuntut Al-Qur'an kini dihormati dan dilindungi seutuhnya oleh lembaga pesantren. Pesantren Darul Adab telah menjelma menjadi rumah kedua yang aman, adil, dan penuh dengan keberkahan persaudaraan sejati.
+Abah dan emaknya di desa mengira ia di pesantren sedang duduk mulia di hadapan para ulama membaca kitab suci. Mereka tidak tahu bahwa di sini putranya dijadikan pembantu tak berbayar, mencucikan pakaian kotor orang lain yang tubuhnya jauh lebih kekar dan lebih dewasa darinya.
 
-Tempat pencucian pakaian di samping deretan kamar mandi asrama putra kini menjadi saksi bisu dari runtuhnya benteng feodalisme asrama. Tidak ada lagi tumpukan ember baju kotor santri senior yang dipaksakan kepada santri baru kelas tujuh. Setiap santri dari kelas tujuh hingga kelas dua belas mencuci, membilas, dan menjemur pakaian mereka sendiri dengan penuh kemandirian dan rasa tanggung jawab pribadi.
+Rasa sesak yang teramat perih menghimpit rongga dadanya.
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Tiba-tiba sebuah tepukan lembut mendarat di bahu kirinya.
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+Farhan tersentak hebat. Tubuh kurusnya melonjak kaget hingga punggungnya menabrak dinding semen kamar mandi.
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+"Af... afwan, Mas!" jerit Farhan panik, suaranya tercekat di tenggorokan. Matanya terpejam rapat, kepalanya tertunduk melindungi diri seperti refleks seorang tawanan yang menunggu tamparan. "Cuciannya tinggal membilas sarung... sebentar lagi selesai, Mas! Jangan dilaporkan ke musyrif..."
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+Namun tidak ada bentakan kasar yang membalas teriakannya.
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+Tidak ada caci maki. Tidak ada kaki yang menendang ember cucian ke lantai semen.
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Yang terdengar hanyalah sebuah tarikan napas panjang yang sarat dengan kepedihan nurani yang mendalam.
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+"Farhan..."
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+Suara itu terdengar sangat tenang, berat, dan dipenuhi keharuan.
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+Farhan memberanikan diri membuka matanya perlahan. Pandangannya yang basah oleh air mata mendapati sepasang kaki beralaskan sandal selop hitam yang berdiri di samping genangan air sabun.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+Pandangannya bergerak ke atas: celana training panjang hitam yang digulung rapi hingga betis, kaos oblong katun hitam polos, dan wajah tirus yang sangat ia kenal.
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+Mas Zaid. Ketua santri senior kelas dua belas yang disegani seluruh komplek asrama.
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+Farhan terpana kaku. Jantungnya berdegup tidak teratur. "Mas... Mas Zaid?"
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Zaid tidak menjawab. Matanya menatap lurus ke arah kedua belah tangan Farhan yang pucat keriput dan memerah lecet.
+
+Lalu tanpa mempedulikan genangan air sabun yang kotor di lantai semen, Zaid perlahan-lahan menekuk kedua lututnya. Pemuda kelas dua belas itu berlutut tepat di hadapan Farhan, sejajar dengan mata adik kelasnya yang ketakutan.
+
+"Tanganmu berdarah, Farhan," bisik Zaid. Suaranya serak menahan getaran batin yang hebat.
+
+Farhan buru-buru menyembunyikan kedua telapak tangannya ke balik punggungnya. "Mboten napa-napa, Mas Zaid... Cuma perih kena sabun..."
+
+Zaid mengulurkan kedua tangannya. Dengan sangat hati-hati dan lembut, ia meraih pergelangan tangan Farhan, menariknya ke depan, lalu membalikkan kedua telapak tangan anak itu.
+
+Zaid menatap luka-luka lecet di kulit tangan Farhan. Rahang pemuda itu mengeras kencang, dan setitik air mata tampak menggenang di pelupuk matanya yang tajam.
+
+"Siapa yang menyuruhmu mencuci pakaian ini?" tanya Zaid dengan nada rendah yang menuntut kejujuran mutlak.
+
+Farhan menelan ludah, ketakutan membayang di matanya. "Saya... saya tidak berani bilang, Mas. Nanti saya dipukul di kamar..."
+
+"Jangan takut," kata Zaid seraya menatap manik mata Farhan lekat-lekat. "Mulai detik ini, tidak akan ada seorang pun di pesantren ini yang boleh memukulmu atau menyuruhmu mencuci pakaiannya. Kiai Hasyim tadi siang telah mengamanahkan pesantren ini kepada kita semua. Katakan pada Mas: siapa pemilik baju-baju ini?"
+
+Farhan memandang wajah Zaid yang bersih dari kepalsuan. Di dalam mata kakak kelasnya itu, ia hanya melihat kemarahan suci terhadap kezaliman dan tekad pelindung yang kokoh.
+
+"Milik... Mas Herman, kelas dua belas asrama barat," bisik Farhan akhirnya.
+
+Zaid menghembuskan napas panjang. Herman adalah kawan satu angkatannya, teman sekelasnya di madrasah aliyah.
+
+Zaid melepaskan pergelangan tangan Farhan perlahan, lalu meraih ember plastik hitam besar itu dengan kedua belah tangannya. Dengan satu sentakan bertenaga, Zaid mengangkat ember cucian yang berat itu dari lantai semen.
+
+"Berdiri, Farhan," perintah Zaid lembut seraya bangkit berdiri.
+
+Farhan bangkit dari jongkoknya dengan lutut yang agak gemetar karena terlalu lama berjongkok di lantai dingin.
+
+"Cuci tanganmu dengan air bersih di kran sana," kata Zaid sambil menunjuk kran air wudhu di dekat pintu kamar mandi. "Lalu kembali ke Kamar Al-Farabi. Masuk ke kamarmu, pakai sarung yang bersih, dan istirahatlah sebelum Maghrib."
+
+"Lalu... baju-baju ini bagaimana, Mas Zaid?" tanya Farhan dengan mata membelalak heran melihat Zaid menjinjing ember cucian itu.
+
+Zaid menatap ember di tangannya, lalu menatap Farhan dengan senyuman yang menyiratkan ketegasan seorang ksatria peradaban.
+
+"Baju-baju ini urusan Mas Zaid. Mas yang akan mengembalikannya kepada pemiliknya."
+
+Farhan memandang punggung Zaid yang melangkah tegap menjauhi tempat cucian dengan membawa ember hitam itu di tangannya.
+
+Angin sore berhembus kencang menyapu lorong asrama, menerbangkan tetesan air di kawat jemuran.
+
+Di sudut tempat cuci yang basah itu, Farhan menyalakan kran air bersih. Air sumur pegunungan yang dingin mengalir membasuh sisa-sisa busa sabun dan perih di telapak tangannya.
+
+Dan untuk pertama kalinya sejak ia menginjakkan kaki di Pesantren Darul Adab, Farhan merasa bahwa ia bukan lagi seorang tawanan yang tak berdaya. Ia memiliki seorang kakak pelindung yang siap berdiri membela kehormatannya sebagai sesama penuntut ilmu Allah.
