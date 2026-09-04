@@ -1,65 +1,113 @@
 # Sub-Bab 11.2: Langkah Tegap Farhan dan Zaid
 
-Pukul 06.45 pagi di pelataran lapangan utama depan gedung madrasah Pesantren Darul Adab. Sinar matahari pagi yang cerah menyinari ratusan santri putra yang sedang berjalan beriringan menuju ruang-ruang kelas mereka. Di antara kerumunan santri tersebut, dua sosok santri tampak melangkah berdampingan dengan penuh keakraban dan kekompakan.
+Embun yang menempel di pucuk-pucuk daun palem di pelataran madrasah mulai menguap perlahan tatkala bola mentari pagi menyembul utuh di balik punggung bukit. Hamparan rumput gajah mini yang terpangkas rapi tampak berkilau keperakan tersiram cahaya fajar. Dari arah koridor asrama lantai dua, derap langkah ratusan santri terdengar mengalir ritmis, laksana alunan musik yang menenteramkan hati.
 
-Mereka adalah Farhan—santri kelas tujuh yang dahulu pemalu dan penuh trauma—dan Zaid—Ketua Organisasi Santri kelas dua belas yang kini menjadi mentor sahabat asuhnya. Farhan mengenakan seragam putih madrasah tsanawiyah yang disetrika rapi, peci hitam mengkilap, dan tas ransel kain di punggungnya. Langkah kaki Farhan tampak sangat tegap, mantap, dan percaya diri di atas tanah lapangan.
+Farhan melangkah menuruni anak tangga batu pualam dengan ketukan sol sepatu yang tegas dan teratur. Di bahu kirinya tergantung ransel sekolah berbahan kanvas tebal, sedangkan di tangan kanannya tergenggam erat sebuah map binder plastik transparan berisi lembaran tugas nahwu dan insya'. Punggungnya tegak lurus, dagunya terangkat dengan wajar, dan tatapan matanya menatap lurus ke depan dengan keteduhan yang memancar alami.
 
-Dagunya terangkat anggun, kedua tangannya mengayun bebas seirama dengan langkah kakinya. Tidak ada lagi bayangan anak kecil kurus yang melangkah gontai dengan kepala tertunduk ketakutan seperti sebulan yang lalu. Di sampingnya, Zaid melangkah sembari merangkul pundak Farhan dengan hangat.
+Tiada lagi bayangan bocah kurus yang enam bulan lalu berjalan mengendap-endap menyusuri dinding, gemetar setiap kali mendengar suara gesekan sandal senior, atau menundukkan kepala sedalam-dalamnya karena takut dituduh tidak sopan. Ketakutan purba itu telah terkikis habis, digantikan oleh pemahaman batin bahwa adab sejati tidak pernah lahir dari jiwa yang kerdil dan terintimidasi, melainkan memancar dari kesadaran fitrah yang dimuliakan.
 
-Zaid memegang sebuah buku catatan kecil berlogo TUMBUH di tangannya. "Farhan..." sapa Zaid seraya tersenyum bangga menatap adik asuhnya tersebut. "Mas Zaid dengar dari Ustadz Burhan kemarin, nilai ujian lisan hafalan kaidah Nahwu *Matan Al-Ajurrumiyyah*-mu mendapat nilai sempurna seratus?"
+Setiap jengkal halaman pesantren kini terasa begitu ramah menyambut langkahnya. Di samping lapangan upacara, deretan pohon beringin kerdil dan bunga tapak dara mekar dalam petak-petak taman yang terawat asri. Beberapa santri kelas sepuluh tampak duduk santai di bangku semen sambil memegang kitab hafalan, sesekali melempar senyum bersahabat saat tatapan mereka bersirobok dengan Farhan.
 
-Farhan tersenyum tersipu malu, menganggukkan kepalanya dengan mata yang berbinar bahagia: "Alhamdulillah, Mas Zaid... Berkat bimbingan dan kesabaran Mas Zaid mengajari Farhan di serambi masjid setiap ba'da Maghrib, kaidah-kaidah I'rob itu sekarang terasa sangat mudah dan menyenangkan untuk dipahami."
+"Assalamu'alaikum, Pejuang Nahwu," sebuah suara yang berat dan akrab menyapa dari samping selasar perpustakaan.
 
-Zaid menepuk pundak Farhan dengan penuh rasa syukur: "Alhamdulillah... Itu semua berkat pertolongan Allah dan ketekunanmu sendiri, Farhan.
+Farhan menoleh, lalu seketika wajahnya merekah dalam senyum takzim yang hangat. "Wa'alaikumussalām warahmatullāh, Mas Zaid."
 
-Mas Zaid hanya menemani dan mendoakanmu." Zaid menatap Farhan dengan tatapan seorang kakak yang menaruh harapan besar: "Ingat pesan Mas Zaid, Farhan... Kamu bukan hanya santri yang pintar menghafal, tapi kamu adalah calon pemimpin masa depan." "Tahun depan saat kamu naik ke kelas delapan, giliranmu yang akan menjadi mentor pelindung bagi adik-adik kelas tujuh yang baru masuk." "Latihlah dirimu melayani dan mencintai mereka sebagaimana kita belajar saling mencintai karena Allah di sini." Farhan mengangguk mantap dengan sorot mata yang menyala penuh tekad: "Insya Allah, Mas Zaid... Farhan berjanji akan menjaga adik-adik kelas Farhan kelak dengan penuh kasih sayang tanpa kekerasan."
+Zaid, santri kelas dua belas yang kini mengemban amanah sebagai Ketua Organisasi Santri Darul Adab, melangkah mendekat. Pemuda itu mengenakan kemeja koko putih tulang berbordir halus di kerahnya, dipadu sarung tenun Samarinda warna marun dan peci hitam polos yang terpasang presisi. Di tangannya, Zaid membawa sebuah buku catatan bersampul kulit cokelat tua, tempat ia mencatat agenda rapat santri dan evaluasi pendampingan adik-adik kelas.
 
-Di ambang pintu gerbang madrasah, Ustadz Salman dan Ustadz Ridwan berdiri menyaksikan pemandangan indah tersebut. Ustadz Salman tersenyum haru, matanya berkaca-kaca melihat transformasi luar biasa yang terjadi pada diri Farhan dan Zaid. Dua generasi santri yang dahulu terbelah oleh jurang kasta feodalisme kini telah menyatu erat dalam ikatan ukhuwah Islamiyyah yang sejati.
+Zaid mengulurkan tangannya, yang langsung disambut Farhan dengan mencium punggung tangan sang ketua santri penuh hormat. Namun Zaid segera menarik bahu Farhan perlahan, lalu merangkulnya erat layaknya seorang abang kandung yang menyambut kepulangan adiknya dari medan juang.
 
-Langkah tegap Farhan dan Zaid di lapangan madrasah pagi itu adalah simbol nyata kemenangan tarbiyah fitrah di Pesantren Darul Adab. Tarbiyah ini melahirkan kader-kader ksatria adabi yang kokoh iman dan ilmunya, lembut akhlaknya, dan siap memikul panji kejayaan peradaban Islam di masa depan. Keduanya melangkah masuk ke dalam kelas dengan senyuman dan tekad menuntut ilmu setinggi-tingginya.
+"Mas Zaid baru saja dari ruang dewan guru," ucap Zaid sembari melangkah beriringan di samping Farhan, menyusuri jalan setapak berpaving di sisi lapangan basket. "Ustadz Burhan bercerita panjang lebar tentang ujian lisan hafalan *Matan Al-Ajurrumiyyah*-mu tadi malam."
 
-Farhan mendengarkan nasihat Mas Zaid sembari mengangguk-angguk penuh rasa takzim. Ikatan persaudaraan mentor dan santri asuh ini menjadi teladan indah bagi seluruh santri pondok. Zaid tersenyum memandang adik asuhnya yang kini telah tumbuh menjadi santri berprestasi.
+Farhan merasakan desau darahnya berdesir hangat di balik dada. Rasa ingin tahu bercampur sedikit cemas seketika melingkupi benaknya.
 
-Nilai sempurna dalam ujian Nahwu adalah bukti nyata dari kekuatan cinta dalam pembelajaran. Keduanya tiba di depan pintu kelas madrasah tepat saat lonceng tanda masuk berdentang nyaring. Farhan mencium punggung tangan Mas Zaid seraya berpamitan masuk ke dalam ruang kelasnya.
+"Apakah ada lafazh yang keliru ketika Farhan membaca bab *Af'āl*, Mas?" tanya Farhan dengan mata membulat hati-hati.
 
-Zaid melambaikan tangannya sembari melangkah menuju gedung perkuliahan ma'had 'aly. Estafet keteladanan adab telah tersambung kokoh dari generasi senior ke generasi junior. Langkah tegap mereka adalah derap langkah ksatria pembawa panji kemuliaan peradaban Islam.
+Zaid tertawa kecil, suara tawanya yang renyah membuyarkan kecemasan Farhan seketika. "Keliru bagaimana? Ustadz Burhan justru takjub. Beliau bilang, baru kali ini ada santri kelas tujuh yang tidak hanya lancar melafalkan seluruh bait matan tanpa tersendat satu huruf pun, tetapi juga mampu menguraikan *tarkib* dan alasan gramatikal setiap kedudukan kata dengan nalar yang sangat jernih."
 
-Zaid menatap langkah kaki adik asuhnya dengan rasa bangga yang memenuhi rongga dadanya. Enam tahun kebersamaan di pondok telah mengukir ikatan persaudaraan yang tak akan pernah putus. Farhan melambaikan tangannya dari ambang pintu kelas madrasah dengan senyuman cerah.
+"Masya Allah..." bisik Farhan seraya mengelus dadanya, menghembuskan nafas lega yang teramat panjang.
 
-Ustadz Burhan menyambut kedatangan Farhan di depan kelas dengan anggukan apresiasi. Pagi itu, semangat menuntut ilmu menyala berkobar di dalam dada setiap santri. Regenerasi kepemimpinan adab telah berjalan mulus di atas rel keteladanan yang sejati.
+"Nilaimu sempurna seratus, Farhan," bisik Zaid seraya menoleh dan menatap bola mata Farhan dengan binar kebanggaan yang mendalam. "Ustadz Burhan memberikan tanda bintang emas di lembar penilaian syahadahmu."
 
-Langkah tegap Farhan adalah cermin dari masa depan peradaban Islam yang gilang-gemilang. Semoga Allah mengokohkan langkah para ksatria muda ini dalam mengemban amanah umat.
+Farhan menghentikan langkahnya sejenak di bawah bayang-bayang pohon flamboyan yang bunganya sedang bermekaran merah menyala. Matanya mendadak terasa hangat oleh genangan air mata yang merebak di pelupuk. Di benaknya, terbayang kembali malam-malam panjang di serambi masjid ketika ia terkantuk-kantuk menghafalkan bait-bait kaidah yang rumit.
 
-Kamar Al-Farabi kini telah menjelma menjadi oase keindahan dan ketertiban visual sesuai standar 5S. Dua puluh ranjang susun kayu jati tertata simetris dengan sprei biru laut yang kencang dan selimut balok yang rapi di ujung kaki ranjang. Di depan pintu kamar mandi, sandal-sandal santri berbaris presisi di atas rak kayu berslot vertikal dengan garis pembatas kuning yang rapi tanpa ada yang tercecer.
+Ia teringat betapa sabarnya Mas Zaid menemaninya duduk di atas tikar pandan, menyeduhkannya teh hangat saat kantuk menyerang, dan membantunya menguraikan logika *I'rob* bukan sebagai hafalan mati, melainkan sebagai tatanan harmoni alam semesta. Bagi Zaid, bahasa Arab bukan sekadar susunan huruf, melainkan arsitektur logika Ilahi yang mengatur keindahan rasa dan makna.
 
-Farhan melangkah berdampingan bersama Mas Zaid di pelataran madrasah dengan langkah yang tegap, mantap, dan penuh rasa percaya diri. Farhan baru saja meraih nilai sempurna seratus dalam ujian lisan hafalan kaidah Nahwu Matan Al-Ajurrumiyyah berkat bimbingan intensif dari Mas Zaid di serambi masjid. Estafet keteladanan adab telah tersambung kokoh dari generasi senior ke generasi junior.
+"Ingatkah kamu bab pertama yang kita pelajari di serambi itu, Han?" tanya Zaid seraya memandangi kubah masjid di kejauhan.
 
-Di sepanjang lorong asrama pada sore hari, terdengar lantunan merdu syair Ta'limul Muta'allim yang dilantunkan anak-anak saat bersiap menuju masjid. Suasana antrean mandi sore berlangsung tertib, tenang, dan dipenuhi canda tawa persaudaraan yang hangat. Hubungan guru dan murid di asrama telah bertransformasi menjadi ikatan mahabbah spiritual yang suci.
+"Tentu ingat, Mas Zaid," sahut Farhan seraya melafalkan bait definisi *I'rob* dengan intonasi yang merdu:
 
-Pesantren Darul Adab telah berhasil merajut keselarasan antara kemegahan fisik bangunan dan kesucian batiniah para penghuninya. Fajar baru peradaban pesantren telah merekah indah di ufuk timur, memancarkan cahaya hidayah dan ilmu ke seluruh penjuru nusantara.
+$$\text{الْإِعْرَابُ هُوَ تَغْيِيرُ أَوَاخِرِ الْكَلِمِ لِاخْتِلَافِ الْعَوَامِلِ الدَّاخِلَةِ عَلَيْهَا لَفْظًا أَوْ تَقْدِيرًا}$$
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+> *"I'rob adalah perubahan akhir setiap kata karena perbedaan faktor-faktor penentu ('amil) yang memasukinya, baik perubahan itu tampak secara lafazh maupun diperkirakan dalam makna."*
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+Farhan tersenyum penuh penghayatan. "Mas Zaid selalu bilang pada Farhan bahwa *I'rob* itu seperti kehidupan seorang santri di tengah pergaulan."
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+"Coba ulangi apa filosofi yang dulu Mas sampaikan padamu," pinta Zaid dengan senyum menantang yang hangat.
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Sebuah kata yang mandiri pada asalnya memiliki harakat *dhammah* yang melambangkan ketinggian martabat (*marfu'*)," tutur Farhan dengan tatapan menerawang ke puncak pepohonan. "Tetapi ketika ia dimasuki oleh *'amil* penentu, kedudukannya bisa berubah. Jika dimasuki faktor penenang, ia tetap luhur. Tetapi jika dimasuki faktor penindas, ia bisa tertekan menjadi *khafadh* atau terputus menjadi *jazm*."
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+"Persis," sambung Zaid seraya menepuk pundak Farhan. "Dan seorang santri di pesantren adalah kalimat yang sedang dibentuk. Jika lingkungan sekitarnya dipenuhi oleh *'amil* kekerasan, ketakutan, dan ancaman, maka jiwa santri akan tertekan dan lumpuh. Namun jika *'amil*-nya adalah bi'ah shalihah, keteladanan qudwah, dan kasih sayang, maka akal dan ruhnya akan tegak mandiri dalam keluhuran fitrah."
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Farhan mengangguk-angguk khidmat. Kalimat-kalimat Zaid itu telah lama menjadi lentera yang menerangi cara pandangnya terhadap ilmu.
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+Keduanya kembali melangkah menyusuri pelataran yang kian ramai oleh santri-santri yang beriringan menuju gedung kelas. Banyak santri kelas tujuh dan delapan yang berpapasan dengan mereka mengangguk hormat, menyapa Zaid dan Farhan dengan senyum cerah. Tiada lagi tatapan curiga atau ketakutan saat berpapasan dengan pengurus organisasi, sebab tongkat kekuasaan telah digantikan oleh tangan-tangan yang siap merangkul dan membantu.
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+Di dekat tiang bendera, sekelompok santri baru tampak sedang berebut melihat pengumuman jadwal halaqah tahfizh. Zaid mendekat sebentar, tersenyum menyapa mereka, lalu membantu menertibkan barisan tanpa satu pun kata bernada tinggi. Anak-anak itu segera merapikan diri dengan suka rela, membalas senyuman Zaid dengan binar kekaguman.
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+"Farhan," panggil Zaid seraya kembali menyejajarkan langkahnya dengan Farhan.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+"Dalem, Mas Zaid?" sahut Farhan menoleh.
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+"Dua bulan lagi masa khidmah kepengurusan Mas Zaid akan selesai," tutur pemuda delapan belas tahun itu dengan nada bicara yang teduh namun sarat amanah. "Kami yang duduk di kelas dua belas harus bersiap menghadapi ujian akhir dan melanjutkan studi ke jenjang berikutnya."
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+Farhan terdiam. Ada rasa kehilangan yang mendadak menyusup ke dasar hatinya. Baginya, Mas Zaid bukan sekadar kakak kelas atau ketua asrama; Zaid adalah pelindung pertama yang mengusap air matanya di serambi masjid ketika ia nyaris putus asa dan ingin kabur dari pondok.
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+"Mas Zaid akan kuliah ke mana?" tanya Farhan pelan, menahan getar di suaranya.
+
+"Insya Allah, jika Allah mengizinkan dan doa restu Kiai Hasyim menyertai, Mas Zaid ingin mengambil jurusan Ushuluddin di Universitas Al-Azhar, Kairo," jawab Zaid seraya menatap langit biru yang membentang luas di atas menara masjid.
+
+"Al-Azhar..." bisik Farhan dengan takzim. "Tanah para ulama besar."
+
+"Ya, Farhan. Tetapi di mana pun Mas Zaid berada nanti, hati Mas Zaid akan selalu tertambat pada bumi pesantren ini," kata Zaid seraya memegang kedua pundak Farhan, memutar tubuh Farhan agar saling berhadapan.
+
+Sorot mata Zaid menatap lurus menembus manik mata Farhan. Ada api ketulusan yang membakar hangat di dalam tatapannya.
+
+"Tahun ajaran baru nanti, kamu akan naik ke kelas delapan, Farhan," kata Zaid dengan suara berwibawa namun sarat kasih sayang. "Dalam sistem jenjang kemandirian TUMBUH, kamu akan memasuki tahap *J2—Pemandu Adab*. Kamu bukan lagi santri baru yang hanya menerima perlindungan."
+
+Farhan menelan ludah, mendengarkan setiap patah kata seniornya dengan khidmat.
+
+"Akan datang ratusan adik-adik kelas tujuh baru yang tiba di gerbang pondok ini dengan koper-koper mereka yang berat," lanjut Zaid. "Banyak di antara mereka yang akan menangis di malam hari karena rindu rumah, seperti kamu dahulu. Banyak yang akan merasa cemas, takut, dan bingung menghadapi kehidupan asrama."
+
+Zaid meremas lembut pundak Farhan. "Mas Zaid ingin menitipkan tongkat estafet ini kepadamu, Farhan. Jadilah kakak pelindung bagi mereka. Jangan biarkan ada satu pun dari mereka yang merasa kesepian atau takut di rumah Allah ini."
+
+Kata-kata itu menghujam tepat ke ulu hati Farhan. Ia membayangkan koper biru tuanya yang dulu berdebu, pelukan ibunya yang basah oleh air mata di hari pelepasan, dan gigil ketakutannya saat pertama kali menginjakkan kaki di asrama.
+
+"Maukah kamu berjanji pada Mas Zaid untuk melanjutkan rantai kebaikan ini?" tanya Zaid, matanya menatap lekat-lekat.
+
+Air mata Farhan akhirnya menetes membasahi pipinya. Ia mengangguk mantap, membiarkan dadanya bergemuruh oleh tekad suci yang membuncah.
+
+"Farhan berjanji, Mas Zaid," ucap Farhan dengan suara yang bergetar namun tegas. "Farhan akan menjaga adik-adik kelas Farhan kelak dengan cinta dan kelembutan, sebagaimana Mas Zaid dan Ustadz Salman telah menjaga jiwa Farhan di sini."
+
+"Pegang teguh janjimu itu, saudaraku," bisik Zaid penuh keharuan.
+
+Zaid tersenyum lega, lalu merengkuh Farhan ke dalam pelukannya. Dekapan hangat itu menyalurkan energi kepemimpinan yang tulus, sebuah ikatan ukhuwah yang tidak terikat oleh darah melainkan oleh kesamaan akidah dan perjuangan peradaban.
+
+Di atas balkon lantai dua gedung madrasah, Ustadz Burhan dan Ustadz Salman berdiri menyaksikan pemandangan mengharukan itu dari balik pagar pembatas pualam.
+
+Ustadz Salman mengusap sudut matanya yang basah. "Lihatlah mereka, Ustadz Burhan," bisik Salman seraya menunjuk ke arah Zaid dan Farhan. "Itulah buah dari kesabaran kita meruntuhkan feodalisme asrama."
+
+"Benar, Salman," timpal Ustadz Burhan dengan senyum haru yang tersungging di balik janggut tipisnya. "Ketika ketakutan disingkirkan dari hati seorang penuntut ilmu, fitrah kecerdasannya akan merekah melampaui apa yang kita bayangkan. Farhan telah menjadi bukti hidup bahwa tarbiyah berbasis kasih sayang melahirkan mutiara-mutiara terbaik umat ini."
+
+Ustadz Salman mengangguk pelan. Di tangannya, logbook pembinaan menunjukkan grafik penurunan pelanggaran santri hingga menyentuh angka nol selama tiga pekan berturut-turut.
+
+"Dulu kita mengira ketertiban hanya bisa ditegakkan dengan rasa takut," gumam Salman. "Ternyata, rasa aman dan penghormatan martabat justru melahirkan ketertiban yang jauh lebih kokoh dan bertahan lama."
+
+Bel tanda masuk madrasah berbunyi panjang: *Teeeeeet!*
+
+Zaid melepaskan pelukannya, menepuk pipi Farhan dengan lembut seraya tersenyum bangga. "Masuklah ke kelasmu, ksatria. Tunjukkan pada dunia bahwa santri Darul Adab adalah generasi yang menjunjung tinggi ilmu dan adab."
+
+"Matur nuwun sanget, Mas Zaid. Doakan Farhan selalu," ucap Farhan seraya membungkuk hormat sekali lagi.
+
+"Selalu, Farhan. Doa Mas Zaid akan selalu mengiringi setiap bait ilmu yang kau pelajari," sahut Zaid seraya melambaikan tangannya.
+
+Dengan langkah yang tegap, mantap, dan ringan, Farhan melangkah menuju pintu ruang kelas 7-A. Bayangan dirinya yang gemetar dan rapuh di hari pertama mondok telah musnah ditelan fajar peradaban. Kini ia melangkah laksana anak panah yang melesat dari busurnya, siap membidik cita-cita luhur demi kejayaan agama dan kemuliaan kemanusiaan.

@@ -1,75 +1,103 @@
 # Sub-Bab 11.3: Senandung Adab di Lorong Asrama
 
-Sore hari pukul 17.30 di sepanjang koridor lantai satu dan lantai dua komplek asrama putra Pesantren Darul Adab. Sinar mentari senja yang lembut menyiram dinding-dinding kapur asrama dengan warna keemasan yang menyejukkan mata. Angin sepoi-sepoi berhembus melalui pepohonan rindang di taman asrama, mengalirkan aroma wangi bunga kenanga dan melati yang sedang bermekaran.
+Langit senja di atas lembah Pesantren Darul Adab mulai melukis semburat jingga keemasan yang meneduhkan pandangan. Bayang-bayang pepohonan mahoni dan trembesi di halaman asrama memanjang ke arah barat, berpadu dengan kepulan tipis uap air dari cucian santri yang telah diangkat dari jemuran. Hawa sejuk khas pegunungan berhembus perlahan, membawa semerbak wangi bunga kenanga dan melati yang mekar di samping pagar pembatas selasar.
 
-Di sepanjang koridor semen yang bersih berkilauan tanpa sampah sebutir pun. Terdengar lantunan senandung bait-bait syair adab yang syahdu dan berirama indah. Anak-anak asrama kelas tujuh dan delapan sedang bersiap-siap menuju masjid sembari melantunkan bait-bait *Ta'limul Muta'allim* dan *Nadzom Al-Lala'*:
+Di sepanjang koridor lantai satu dan dua komplek asrama putra, suasana menjelang Maghrib itu terasa begitu tenang dan tertib, jauh dari hiruk-pikuk kekacauan masa lampau. Lantai semen abu-abu tampak bersih berkilap tanpa selembar pun sampah plastik yang tercecer. Tiada lagi suara bentakan pengurus yang berteriak mengancam dengan penggaris kayu, tiada pula suara derap langkah panik santri yang pontang-panting dikejar waktu.
+
+Yang terdengar justru alunan merdu senandung bait-bait syair adab yang dilantunkan secara bersahut-sahutan oleh anak-anak asrama yang sedang bersiap melangkah ke masjid. Dari salah satu bilik kamar di lantai satu, beberapa santri kelas tujuh dan delapan melantunkan bait-bait masyhur dari kitab *Ta'limul Muta'allim*:
 
 $$\text{أَلَا لَا تَنَالُ الْعِلْمَ إِلَّا بِسِتَّةٍ ۞ سَأُنْبِيكَ عَنْ تَفْصِيلِهَا بِبَيَانِ}$$
 
 $$\text{ذَكَاءٍ وَحِرْصٍ وَاصْطِبَارٍ وَبُلْغَةٍ ۞ وَإِرْشَادِ أُسْتَاذٍ وَطُولِ زَمَانِ}$$
 
-> *"Ingatlah, engkau tidak akan memperoleh ilmu agama yang berkah melainkan dengan enam perkara yang akan kuterangkan secara jelas: kecerdasan akal, semangat membara, kesabaran yang teguh, bekal yang cukup, bimbingan ustadz yang penuh hikmah, dan masa waktu yang panjang..."*
+> *"Ingatlah, engkau tidak akan memperoleh ilmu yang bermanfaat melainkan dengan enam perkara yang akan kuterangkan secara rinci: kecerdasan akal, ketamakan pada ilmu, kesabaran yang kukuh, bekal yang mencukupi, bimbingan guru yang tulus, dan masa belajar yang panjang..."*
 
-Suara lantunan syair adab tersebut berkumandang merdu dari bibir anak-anak yang wajahnya berseri-seri. Di lorong depan deretan kamar mandi, antrean mandi sore berlangsung dengan sangat tertib, tenang, dan damai. Sandal-sandal santri tersusun sangat rapi di atas slot rak kayu dengan garis pembatas kuning tanpa ada satu pun yang tercecer di lantai.
+Suara lantunan itu mengalun syahdu, merayap di antara pilar-pilar beton koridor, menghadirkan getaran ketenangan yang menusuk ke palung kalbu siapa pun yang mendengarnya. Bagi para santri, bait-bait itu bukan sekadar nyanyian pengisi waktu luang, melainkan kompas jiwa yang memandu setiap gerak-gerik mereka di jalan panjang penuntutan ilmu.
 
-Tidak ada lagi suara teriakan kasar pembina yang memekakkan telinga. Tidak ada lagi perkelahian berebut gayung air antar kawan sekamar. Dan tidak ada lagi rasa cemas akan sabetan rotan pembina keamanan.
+Dendang itu kemudian disambut oleh bilik kamar di seberangnya dengan bait-bait *Nadzom Al-Lala'* karya Sayyidina Ali karramallāhu wajhah. Iramanya bersahaja namun bertenaga, seakan menjadi denyut nadi bersama yang mengikat seluruh jiwa penghuni asrama dalam satu frekuensi mahabbah keilmuan.
 
-Ustadz Salman melangkah menyusuri lorong asrama mengenakan jubah abu-abu muda dan peci putih. Di bibir Salman tersungging senyuman yang sangat hangat dan tulus. Setiap kali berpapasan dengan santri, Salman menepuk lembut bahu mereka sembari menyapa: *"Assalamu'alaikum, ksatria...
+Di selasar lantai dua, beberapa anak tampak duduk meluruskan kaki sehabis mencuci piring makan mereka. Mereka saling bercanda dengan suara pelan, menjaga agar tawa mereka tidak mengganggu rekan-rekan yang sedang muraja'ah hafalan di dalam kamar.
 
-Semoga Allah memberkahi harimu."* Para santri menyambut sapaan sang ustadz dengan membungkukkan badan penuh rasa takzim. Mereka mencium punggung tangan ustadz mereka dengan rasa cinta yang mendalam (*Hubbur-Riyadah*).
+Di ujung koridor dekat deretan bilik kamar mandi, pemandangan antrean santri sore itu memperlihatkan perubahan peradaban yang paling nyata. Deretan sandal jepit wudhu tersusun rapi di atas rak kayu berslot vertikal, diposisikan tepat di belakang garis pembatas kuning yang dicat di lantai. Dua belas anak yang sedang menunggu giliran mandi duduk tertib di bangku kayu panjang yang sengaja disediakan di dinding seberang.
 
-Hubungan antara guru dan murid di asrama kini telah bertransformasi menjadi hubungan cinta spiritual yang suci (*Spiritual Affection*). Farhan yang sedang berjalan bersama Faisal dan Danang menatap sosok Ustadz Salman yang sedang bercengkerama riang dengan anak-anak kelas tujuh lainnya di ujung koridor. Farhan tersenyum haru di dalam hatinya:
+Sebagian dari mereka memegang mushaf Al-Qur'an saku untuk mengulang hafalan juz tiga puluh, sementara sebagian lainnya membaca lembaran rangkuman fiqih ibadah. Tidak ada aksi dorong-mendorong pintu, tidak ada gayung yang dibenturkan ke dinding semen, dan tidak ada lagi teriakan kasar menggedor pintu kawan yang sedang di dalam.
 
-"Inilah taman surga yang sesungguhnya dijanjikan oleh Ibu di rumah..." bisik batin Farhan dengan penuh rasa syukur. "Sebuah tempat di mana ilmu diajarkan dengan hikmah, adab ditanamkan dengan keteladanan, dan setiap jiwa dirangkul dalam naungan cinta Allah SWT." Lonceng masjid berdentang tiga kali menandakan adzan Maghrib telah tiba.
+Kran-kran air yang mengalirkan air pegunungan yang jernih dan dingin terdengar gemercik tenang. Setiap anak yang selesai mandi segera menyeka sisa air di lantai bilik dengan penarik karet khusus sebelum keluar, memastikan kawan berikutnya memasuki ruangan yang tetap bersih dan nyaman.
 
-Ratusan santri dan asatidz melangkah beriringan memasuki rumah Allah dengan hati yang tenang, khusyuk, dan rindu akan perjumpaan suci dengan Sang Maha Pencipta. Langkah-langkah kaki penuntut ilmu itu mengalir damai menyongsong maghrib yang penuh berkah. Lantunan syair Ta'lim Muta'allim terus berkumandang merdu di sepanjang koridor asrama.
+"Silakan duluan, Mas Danang," ucap seorang santri kelas tujuh yang bertubuh mungil seraya tersenyum ramah saat pintu salah satu kamar mandi terbuka.
 
-Suara anak-anak yang melantunkan nadzom ilmu nahwu terdengar laksana simfoni para malaikat. Ustadz Salman menyapa setiap santri dengan senyuman kasih sayang seorang ayah kandung. Tidak ada lagi rasa takut atau kecemasan yang membekas di dalam tatapan mata anak-anak asuh.
+Danang yang sedang memegang handuk dan wadah sabun menggeleng pelan seraya tersenyum hangat. "Tidak apa-apa, Dek Faris. Giliranmu yang tertulis di papan urutan antrean. Dahulukan hakmu, aku masih bisa menyimak satu halaman hafalan lagi di sini."
 
-Semua bergerak teratur menuju masjid utama di bawah naungan langit senja yang keemasan. Antrean wudhu berlangsung tertib tanpa ada satu pun keributan atau aksi saling dorong. Farhan merapatkan shaf sholatnya di samping Danang dan Faisal di shaf terdepan masjid.
+Santri kecil itu tersenyum lebar seraya mengangguk takzim. "Matur nuwun sanget, Mas Danang."
 
-Ketika takbiratul ihram berkumandang, kekhusyukan suci menyelimuti seluruh ruangan masjid. Pesantren Darul Adab telah bertransformasi menjadi bi'ah shalihah yang memancarkan cahaya surga. Senandung adab di lorong asrama adalah senandung keabadian yang akan terus hidup di dalam jiwa santri.
+"Sama-sama, Dek Faris. Segeralah mandi, air sore ini sangat segar," sahut Danang seraya membuka kembali mushaf saku bersampul biru miliknya.
 
-Bait-bait syair Ta'lim Muta'allim terus terngiang merdu di telinga para penuntut ilmu. Setiap santri meresapi makna enam syarat menuntut ilmu ke dalam sanubarinya. Langkah-langkah kaki santri beralaskan sandal rapi melangkah masuk ke serambi masjid.
+Sikap saling mendahulukan dan menghormati hak sesama—*i'tsar*—telah tumbuh subur menggantikan hukum rimba masa lalu. Dahulu, siapa yang berbadan besar dan bersuara paling keraslah yang menguasai kamar mandi, sementara santri yang kecil dan pendiam harus rela mandi di sisa waktu dengan air yang nyaris habis. Kini, sistem jadwal yang transparan dan kesadaran adab telah mengembalikan martabat setiap anak tanpa memandang usia atau kasta angkatan.
 
-Ustadz Salman berdiri di pintu masjid, menyalami anak-anak asuhnya dengan penuh kehangatan. Kekhusyukan sholat Maghrib berjamaah mengalirkan gelombang ketenteraman ke seluruh asrama. Pesantren Darul Adab telah menjelma menjadi taman surga yang sesungguhnya di muka bumi.
+Farhan melangkah santai menyusuri koridor lantai dua bersama Faisal. Farhan telah mengenakan sarung tenun hijau lumut, kemeja takwa putih bersih, dan peci beludru hitam. Di tangannya, ia mendekap mushaf Al-Qur'an berukuran sedang dengan sampul beludru hijau bersulam benang emas. Rambutnya yang masih agak basah sehabis wudhu menyebarkan wangi minyak zaitun yang lembut.
 
-Senandung adab di lorong asrama akan terus bergema melintasi ruang dan zaman. Cahaya hidayah dan kemuliaan ilmu menyinari setiap sudut Pesantren Darul Adab yang berkah. Malam pun turun dengan membawa dekap kedamaian yang abadi bagi seluruh warga pondok.
+Di sampingnya, Faisal melangkah dengan anggun. Langkah kaki santri Madura itu tak lagi menyiratkan arogansi pemuda perkasa yang siap memukul, melainkan langkah seorang penuntut hakikat yang tawadhu'.
 
-Gema takbir sholat Isya' mengakhiri malam yang penuh dengan keindahan adab. Anak-anak asrama melangkah kembali ke bilik masing-masing dengan senyuman bahagia. Pesantren Darul Adab tertidur lelap di bawah naungan rahmat dan perlindungan Ilahi.
+"Faisal," panggil Farhan seraya melirik ke arah lapangan asrama di bawah mereka.
 
-Kamar Al-Farabi kini telah menjelma menjadi oase keindahan dan ketertiban visual sesuai standar 5S. Dua puluh ranjang susun kayu jati tertata simetris dengan sprei biru laut yang kencang dan selimut balok yang rapi di ujung kaki ranjang. Di depan pintu kamar mandi, sandal-sandal santri berbaris presisi di atas rak kayu berslot vertikal dengan garis pembatas kuning yang rapi tanpa ada yang tercecer.
+"Ada apa, Han?" sahut Faisal yang berjalan di sampingnya seraya membenahi letak sorban di pundak kirinya.
 
-Farhan melangkah berdampingan bersama Mas Zaid di pelataran madrasah dengan langkah yang tegap, mantap, dan penuh rasa percaya diri. Farhan baru saja meraih nilai sempurna seratus dalam ujian lisan hafalan kaidah Nahwu Matan Al-Ajurrumiyyah berkat bimbingan intensif dari Mas Zaid di serambi masjid. Estafet keteladanan adab telah tersambung kokoh dari generasi senior ke generasi junior.
+"Setiap kali melihat lorong ini di waktu senja, aku sering merasa seperti sedang bermimpi," tutur Farhan dengan tatapan menerawang ke arah lembah yang mulai diselimuti kabut tipis.
 
-Di sepanjang lorong asrama pada sore hari, terdengar lantunan merdu syair Ta'limul Muta'allim yang dilantunkan anak-anak saat bersiap menuju masjid. Suasana antrean mandi sore berlangsung tertib, tenang, dan dipenuhi canda tawa persaudaraan yang hangat. Hubungan guru dan murid di asrama telah bertransformasi menjadi ikatan mahabbah spiritual yang suci.
+"Mimpi bagaimana maksudmu?" tanya Faisal dengan kening sedikit berkerut namun penuh minat.
 
-Pesantren Darul Adab telah berhasil merajut keselarasan antara kemegahan fisik bangunan dan kesucian batiniah para penghuninya. Fajar baru peradaban pesantren telah merekah indah di ufuk timur, memancarkan cahaya hidayah dan ilmu ke seluruh penjuru nusantara.
+"Masih ingatkah kamu betapa mencekamnya lorong ini beberapa bulan yang lalu?" desah Farhan perlahan.
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Faisal menghela nafas panjang, senyum getir tersungging sejenak di bibirnya mengenang masa-masa kelam itu. "Bagaimana mungkin aku bisa lupa, Han. Dulu, menjelang Maghrib adalah waktu yang paling menegangkan. Di lorong ini kita hanya mendengar bunyi sabetan rotan pembina yang menyapu betis anak-anak yang terlambat, atau bentakan senior yang mencari-cari kesalahan."
 
-Ustadz Salman melangkah menyusuri koridor asrama dengan senyuman hangat dan tutur kata yang santun. Salman merasa bahagia melihat bagaimana santri-santrinya kini menyapanya dengan takzim dan cinta yang tulus. Beban berat pengasuhan masa lalu telah berganti menjadi ladang pengabdian yang membahagiakan jiwa dan raga.
+"Dan sekarang..." lanjut Farhan seraya merentangkan tangannya sedikit menyambut hembusan angin sejuk, "lorong ini dipenuhi senandung bait ilmu dan senyuman kawan-kawan. Tidak ada lagi rasa waswas di dada."
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+"Itu karena hati kita yang berubah, Han," timpal Faisal seraya menepuk bahu Farhan. "Ketika para ustadz memimpin dengan cinta dan teladan, rasa takut yang menindas itu lenyap, berganti menjadi rasa malu jika kita tidak berbuat baik."
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+"Rasa malu yang mulia," gumam Farhan menyetujui. "Bukan malu karena takut dihukum, tapi malu jika mengotori kemuliaan ilmu yang kita pelajari."
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Tepat sekali," sambung Faisal. "Dulu kita taat karena takut disiksa. Sekarang kita tertib karena kita mencintai tempat ini dan menghormati guru-guru kita."
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+Keduanya menghentikan obrolan tatkala melihat sosok Ustadz Salman muncul dari tangga penghubung koridor. Sang musyrif asrama itu melangkah anggun mengenakan jubah abu-abu muda berpadu sorban putih yang melingkar longgar di pundaknya. Wajahnya yang teduh memancarkan wibawa kenabian yang menyejukkan hati.
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Setiap kali berpapasan dengan santri, Ustadz Salman berhenti sejenak, menepuk lembut pundak mereka seraya menyapa dengan salam yang hangat: "Assalamu'alaikum, wahai hamba Allah yang shalih... Semoga langkahmu ke masjid diberkahi malaikat."
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+Para santri yang disapa menyambut dengan senyuman bahagia, membungkukkan badan sedikit, lalu mencium punggung tangan sang ustadz dengan penuh rasa cinta dan hormat. Tidak ada keterpaksaan, tidak ada tatapan mata yang mencuri pandang ketakutan. Hubungan antara pengasuh dan santri telah bermetamorfosis sempurna menjadi jalinan mahabbah ruhaniyah (*Spiritual Affection*) yang kokoh.
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+"Farhan, Faisal," sapa Ustadz Salman tatkala pandangannya bersua dengan kedua santri tersebut di depan pintu Kamar Al-Ghazali.
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+"Assalamu'alaikum, Ustadz Salman," jawab Farhan dan Faisal serempak seraya melangkah mendekat dan mencium tangan sang guru bergantian.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+"Wa'alaikumussalām warahmatullāhi wabarakātuh," sambut Salman dengan senyumnya yang khas meneduhkan. "Kalian berdua tampak sangat segar dan bercahaya sore ini. Apakah persiapan halaqah Al-Qur'an ba'da Maghrib sudah siap?"
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+"Alhamdulillah, sampun siap, Ustadz," jawab Faisal mantap. "Malam ini giliran kami menyetorkan hafalan surat Maryam."
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+"Alhamdulillah. Semoga Allah melancarkan lisan dan mengokohkan hafalan di dada kalian berdua," ucap Ustadz Salman seraya meletakkan telapak tangannya di kepala Farhan sejenak, melafalkan doa keberkahan dalam hati.
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Farhan merasakan kehangatan yang menjalar dari telapak tangan sang ustadz langsung merasuk ke relung jiwanya. Rasa damai yang mendalam memenuhi rongga dadanya. Di hadapan Ustadz Salman, ia tidak pernah lagi merasa sebagai anak kampung yang rendah diri; ia merasa dihargai sebagai manusia seutuhnya yang memiliki potensi fitrah tak terbatas.
+
+"Terima kasih atas segala bimbingan panjenengan, Ustadz," bisik Farhan dengan mata yang berkaca-kaca haru.
+
+"Terima kasih juga karena kalian berdua selalu menjadi teladan ketertiban bagi adik-adik kelas," sahut Ustadz Salman seraya menatap kedua santri itu dengan tatapan seorang ayah yang bangga.
+
+Ustadz Salman tersenyum bijak, lalu menatap Farhan dan Faisal bergantian. "Bukan aku yang hebat, anak-anakku. Allah-lah yang telah membolak-balikkan hati kita semua. Kita bersama-sama belajar merawat benih adab ini di tanah hati kita masing-masing."
+
+"Kami merasakan ketenangan yang luar biasa sejak pondok menerapkan sistem ini, Ustadz," tambah Faisal tulus.
+
+"Itulah rahasia tarbiyah nabawiyyah," pungkas Salman. "Ketika hati dididik dengan cinta, akal akan terbuka dengan sukarela. Dan adab yang mekar dari cinta tidak akan pernah layu oleh pergantian zaman."
+
+Dari sudut serambi bawah, Ustadz Ridwan melambaikan tangannya ke arah Salman, memberi isyarat bahwa saf muadzin telah bersiap. Salman mengangguk ramah membalas isyarat rekan sesama musyrifnya itu.
+
+Dari arah menara masjid utama pesantren, alunan tarhim mulai berkumandang merdu melalui pengeras suara. Suara lantunan shalawat yang mendayu-dayu memecah keheningan senja, memanggil seluruh penghuni lembah untuk menanggalkan segala urusan duniawi dan bersimpuh di hadapan Sang Khaliq.
+
+"Ayo, waktu Maghrib telah tiba," ajak Ustadz Salman seraya melangkah bersama kedua muridnya menuruni tangga menuju serambi masjid. "Mari kita penuhi panggilan-Nya dengan hati yang tunduk dan bersyukur."
+
+Di pekarangan asrama, ratusan santri bersarung dan berbaju takwa putih berbondong-bondong melangkah teratur melintasi jalan setapak berhiaskan taman bunga. Barisan langkah kaki mereka yang tenang menciptakan pemandangan laksana kafilah cahaya yang sedang berarak menuju mata air kehidupan.
+
+Angin senja membelai lembut jubah dan sarung mereka. Tiada teriakan peluit, tiada suara lecutan cemeti rotan. Yang ada hanyalah kesadaran kolektif yang menggerakkan setiap raga untuk mendekat kepada Sang Maha Pencipta.
+
+Farhan melangkah berdampingan bersama Danang dan Faisal di samping Ustadz Salman. Dadanya bergetar oleh rasa haru yang teramat sangat. Di dalam hatinya, ia membisikkan doa dan rasa terima kasih yang tak terhingga kepada ibunya di kampung halaman:
+
+*"Ibu... anakmu kini telah menemukan surga ilmu yang sesungguhnya. Di sini, rotan telah patah berganti pelukan kasih sayang, dan bentakan telah sirna berganti senandung adab yang memuliakan jiwa."*
+
+Ketika kaki mereka menjejak lantai marmer serambi masjid yang dingin, gema adzan Maghrib berkumandang membahana dari pucuk menara. Suara adzan yang syahdu menembus lapisan langit, mengalirkan gelombang ketenteraman abadi ke seluruh penjuru Pesantren Darul Adab. Fajar peradaban baru telah merekah seutuhnya di ufuk timur, dan senandung adab di lorong-lorong asrama itu akan terus abadi menjaga kesucian jiwa para penuntut ilmu hingga akhir masa.
