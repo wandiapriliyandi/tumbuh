@@ -1,219 +1,111 @@
 # Sub-Bab 2.4: Lentera Nahwu di Ruang Kelas
 
-Ruang kelas VII-A berbau kapur dan kayu.
+Ruang kelas VII-A beraroma khas bubuk kapur tulis dan kayu jati tua. Itulah kesan pertama yang menyergap indra penciuman Farhan ketika pertama kali melangkah melintasi ambang pintu kayu kelas tersebut. Aroma itu bukanlah wangi semerbak parfum melati atau kepulan asap dupa masjid, melainkan bau kapur tulis kering yang bercampur dengan kelembapan meja-meja kayu yang telah puluhan tahun digosok oleh telapak tangan ratusan generasi santri. Ada kesungguhan yang tak terkatakan di dalam ruangan berlantai ubin abu-abu itu; sebuah atmosfer sakral yang seakan membisikkan bahwa di bilik inilah akal budi manusia ditempa untuk memahami kalam Ilahi.
 
-Itulah yang pertama kali Farhan cium ketika melangkah masuk—bukan wangi semerbak atau aroma kemenyan seperti di masjid, tapi bau kapur tulis yang kering dan bau meja kayu jati yang sudah dipakai bertahun-tahun oleh ratusan generasi santri sebelum mereka. Ada sesuatu yang serius di dalam bau itu. Sesuatu yang mengatakan: *di sini orang belajar sungguh-sungguh.*
+Farhan memilih bangku kayu di barisan paling depan, tepat di sisi kiri dekat jendela yang menghadap ke arah taman madrasah. Danang lekas mengambil tempat duduk di sebelahnya tanpa perlu diminta, menyandarkan tas ranselnya di kaki meja. Faisal, setelah sempat tertegun sesaat di ambang pintu kelas, melangkah masuk dengan tenang lalu duduk di samping kanan Farhan. Mereka bertiga tidak banyak bertukar kata, namun formasi duduk bersisian itu terasa laksana sebuah ikrar tak tertulis yang telah mereka sepakati bersama sejak peristiwa di bordes tangga asrama tadi pagi.
 
-Farhan memilih bangku barisan paling depan, sisi kiri dekat jendela.
+Dari dalam tas kanvasnya, Farhan mengeluarkan kitab *Matan Al-Ajurrumiyyah* bersampul kuning gading dan buku catatan bersampul biru tua. Buku catatan itu ia letakkan tepat di sisi kanan kitabnya dengan penuh kehati-hatian. Ia membuka lembaran pertama buku tulis itu sejenak, memandangi torehan nama yang dituliskan Mas Zaid dengan tinta hitam pekat: *Farhan bin Rahmat – Penuntut Cahaya Adab*. Menatap goresan khat riq'ah yang indah itu menghadirkan getaran semangat yang membuncah di dadanya, sebelum ia menutupnya kembali seraya menanti kedatangan sang guru.
 
-Danang ikut duduk di sebelahnya tanpa ditanya. Faisal, setelah ragu sebentar di ambang pintu, berjalan masuk dan duduk di sebelah kanan Farhan. Mereka bertiga tidak saling bicara—tapi duduk seperti itu, satu barisan, terasa seperti keputusan yang sudah diambil bersama sejak tadi di bordes tangga.
+Dua puluh lima santri lainnya telah menempati bangku masing-masing di dalam kelas yang berkapasitas tiga puluh anak tersebut. Sebagian anak masih sibuk berbisik-bisik membicarakan menu sarapan di dapur umum, sebagian lainnya membolak-balik lembaran kitab kuning dengan tampang pura-pura mengerti. Di pojok belakang kelas, seorang santri bertubuh kurus tampak menyandarkan dahinya di atas meja karena didera rasa kantuk yang berat, sebelum kawannya menyenggol lengannya pelan mengingatkan bahwa pintu kelas telah berderit membuka.
 
-Farhan mengeluarkan kitab Ajurrumiyyah dan buku catatan birunya dari tas. Buku catatan itu ia letakkan di sebelah kanan kitab. Ia buka ke halaman pertama—di sana, nama yang ditulis Mas Zaid tadi pagi masih terlihat segar. Tinta hitam khat riq'ah: *Farhan bin Rahmat – Penuntut Cahaya Adab.*
+Seluruh pandangan anak-anak seketika terarah lurus ke ambang pintu depan. Ustadz Burhan melangkah masuk dengan kemeja putih bersih yang terseterika rapi, peci beludru hitam yang tegak, dan sebuah kitab syarah tebal yang didekap di tangan kirinya. Wajah sang master pedagogi tampak teduh dan bersahaja; tiada senyuman yang dibuat-buat, tiada pula sorot mata yang berusaha memamerkan keangkeran otoritas. Kehadirannya yang tenang dan mantap seketika menyihir suasana kelas menjadi hening terpaku, bahkan santri yang tadi terkantuk di sudut belakang langsung menegakkan posisi duduknya tanpa perlu dikomando.
 
-Ia menutup buku catatan itu kembali. Belum saatnya.
+"*Assalamu'alaikum warahmatullāhi wabarakātuh*," suara Ustadz Burhan mengalun jernih menyapa seluruh muridnya di keheningan pagi. Salam penuh doa tersebut langsung disambut serentak oleh puluhan suara santri dengan nada yang kompak dan penuh gairah: "*Wa'alaikumussalām warahmatullāhi wabarakātuh!*" Gema suara anak-anak itu memantul di dinding-dinding kelas, seketika melenyapkan sisa-sisa kegelisahan yang sempat membayangi benak mereka.
 
-Dua puluh lima santri lainnya sudah duduk di tempat masing-masing. Ada yang masih berbisik-bisik, ada yang membuka-buka kitab dengan tampang pura-pura sudah paham. Di pojok kanan belakang, ada satu anak yang kepalanya sudah terkantuk-kantuk di atas meja. Santri di sampingnya menyenggol lengannya pelan.
+Ustadz Burhan meletakkan kitabnya di atas meja guru kayu jati di depan kelas. Beliau tidak langsung duduk di kursi busa, melainkan berdiri tegak memandang wajah murid-murid barunya satu per satu dengan ketelitian seorang pemahat yang sedang memeriksa batu mulia. "Tadahkan kedua telapak tangan kalian ke langit, wahai para pencari ilmu," titah sang guru dengan intonasi yang lembut menyejukkan sanubari.
 
-Pintu terbuka.
+Seluruh santri serempak menengadahkan kedua tangan mereka setinggi dada. Ustadz Burhan memimpin doa pembuka dengan lantunan suara yang tulus dan bergetar khidmat: *"Rabbi zidnī 'ilmā, warzuqnī fahmā..."* Ya Allah, tambahkanlah ilmuku dan karuniakanlah kepadaku pemahaman yang mendalam. Doa singkat itu diresapi oleh seluruh anak di ruangan itu, sebelum mereka mengusapkan kedua telapak tangan ke wajah masing-masing pertanda siap menerima curahan ilmu.
 
-Semua kepala menoleh otomatis.
+"Pagi ini, kita akan memulai perjalanan agung menyelami samudra *Matan Al-Ajurrumiyyah*," ucap Ustadz Burhan langsung menuju inti pelajaran tanpa basa-basi yang bertele-tele. "Kitab ringkas namun penuh berkah ini disusun oleh Syaikh Abu Abdillah Muhammad bin Muhammad bin Dawud Ash-Shanhaji, seorang ulama besar asal Maroko yang wafat pada tahun 1323 Masehi. Beliau menuliskan risalah ini dengan keikhlasan mutlak demi membimbing para pemula seperti kalian untuk memahami bahasa Al-Qur'an."
 
-Ustadz Burhan masuk. Kemeja putih, peci hitam beludru, kitab tebal di tangan kiri. Wajahnya tidak ekspresif besar-besaran—tidak senyum yang dibuat-buat atau tatapan yang berusaha terlihat berwibawa. Ia hanya masuk seperti seseorang yang sudah tahu persis apa yang akan ia lakukan, dan itu justru yang membuat suasana di kelas langsung berubah.
+Farhan segera mencelupkan mata penanya ke botol tinta hitam, lalu menuliskan catatan ringkas di sudut atas buku tulisnya: *Ibnu Ajurrum – Faas, Maroko – Wafat 723 H / 1323 M*. Goresan tintanya tampak tebal dan rapi, mengikat erat riwayat sang muallif ke dalam ingatannya. Di sampingnya, Danang dan Faisal juga mulai menyalin keterangan pembuka tersebut dengan kesungguhan yang tak kalah khidmat.
 
-Tanpa komando, anak yang tadi terkantuk di pojok belakang menegakkan tubuhnya.
+"Sebelum kita membedah matan, Kiai ingin bertanya kepada kalian semua: apakah hakikat dari ilmu Nahwu itu?" lanjut Ustadz Burhan seraya mengedarkan pandangan matanya ke seluruh penjuru kelas. Ruangan seketika hening sejenak saat anak-anak berpikir keras mencari jawaban yang tepat. Seorang santri di barisan tengah memberanikan diri mengangkat tangannya seraya menjawab ragu-ragu: "Ilmu tata bahasa Arab, Ustadz?"
 
-"*Assalamu'alaikum warahmatullāhi wabarakātuh.*"
+"Benar sekali, ilmu Nahwu adalah kaidah tata bahasa Arab," jawab Ustadz Burhan seraya tersenyum mengapresiasi keberanian muridnya itu. "Namun lebih dari sekadar tata bahasa, Nahwu adalah penjaga kemurnian makna kalam Ilahi. Tanpa pemahaman Nahwu yang kokoh, kesalahan satu harakat saja dapat membalikkan makna ayat suci dari keimanan menjadi kekufuran."
 
-"*Wa'alaikumussalām warahmatullāhi wabarakātuh!*"
+Ustadz Burhan mengetuk meja kayu dengan buku jarinya sebanyak tiga kali untuk memberikan penekanan yang mendalam. "Para ulama salaf menyebut kesalahan harakat itu sebagai *lahn*. Dahulu, Amirul Mukminin Umar bin Khattab radhiyallāhu 'anhu pernah menegur keras seseorang yang salah membaca harakat ayat Al-Qur'an, bukan karena beliau kejam, melainkan karena beliau tahu betapa mahalnya marwah makna wahyu yang harus dijaga dari kerusakan lisan."
 
-Ustadz Burhan meletakkan kitabnya di meja guru. Ia tidak langsung duduk—ia berdiri di depan kelas, memandang seluruh muridnya sebentar. Seolah sedang menghitung. Atau sedang melihat sesuatu yang ada di balik wajah-wajah itu.
+Farhan menyalin penjelasan tersebut dengan hati yang bergetar kagum: *Lahn adalah kesalahan harakat yang merusak makna kalam Ilahi*. Kalimat itu ia beri garis bawah ganda dengan tinta hitam sebagai pengingat abadi. Ia mulai menyadari bahwa belajar Nahwu bukanlah sekadar menghafal rumus-rumus mati, melainkan sebuah amanah spiritual untuk menjaga kesucian wahyu Allah SWT dari ketergelinciran lisan.
 
-"Tangan kalian."
-
-Semua anak menengadahkan tangan.
-
-Ustadz Burhan memimpin doa pembuka. Bukan dengan nada yang berapi-api, bukan yang terlalu khusyuk sampai terdengar dibuat-buat. Cukup tulus. Cukup pelan. *Rabbi zidnī 'ilmā, warzuqnī fahmā.* Ya Allah, tambahkan ilmuku, dan anugerahkan kepadaku pemahaman.
-
-Doa selesai. Tangan diturunkan.
-
-"Hari ini kita mulai *Matan Al-Ajurrumiyyah*," kata Ustadz Burhan langsung. Tidak ada pembuka panjang tentang betapa pentingnya ilmu atau betapa mulianya pesantren. Langsung ke inti. "Kitab ini ditulis oleh Syaikh Muhammad bin Dawud Ash-Shanhaji. Orang menyebutnya Ibnu Ajurrum. Beliau orang Maroko, wafat tahun 1323 Masehi. Beliau menulis kitab ini untuk pemula. Untuk kalian."
-
-Farhan menulis di sudut halaman pertama buku catatannya: *Ibnu Ajurrum – Maroko – 1323.*
-
-"Ilmu Nahwu itu apa?" lanjut Ustadz Burhan. Ia melirik ke kelas. "Ada yang tahu?"
-
-Hening sebentar.
-
-Satu anak mengangkat tangan ragu-ragu di barisan tengah. "Ilmu tata bahasa, Ustadz?"
-
-"Betul. Tata bahasa Arab. Tapi lebih dari itu—" Ustadz Burhan mengetuk meja guru dengan buku jarinya, pelan, tiga kali. "Nahwu itu penjaga makna. Tanpa nahwu, satu harakat yang salah bisa mengubah arti ayat Al-Qur'an. Bukan hanya salah—bisa kufur jika tidak hati-hati."
-
-Suasana kelas sedikit lebih sunyi.
-
-"*Lahn* namanya. Kesalahan pengucapan dalam bahasa Arab. Para ulama salaf sangat keras soal ini. Sahabat Umar bin Khattab pernah memukul seseorang yang melakukan lahn dalam membaca Al-Qur'an—bukan karena beliau kejam, tapi karena beliau tahu betapa mahalnya makna yang bisa rusak oleh satu harakat yang salah."
-
-Farhan menuliskan: *lahn = kesalahan harakat yang bisa merusak makna.*
-
-Ustadz Burhan mengambil kapur dari kotak kayu di samping meja guru. Ia berbalik ke papan tulis hitam besar dan mulai menulis—tulisannya rapi, khat yang bersih, bukan tulisan tangan cepat-cepatan:
+Ustadz Burhan berbalik menghadap papan tulis hitam yang membentang lebar di dinding depan kelas. Mengambil sebatang kapur putih dari kotak kayu di bibir mimbar, jemari beliau yang terampil mulai menorehkan bait definisi pertama dengan kaligrafi khat tsuluts yang amat rapi. Ketukan kapur di papan tulis itu berderit ritmis, menarik seluruh pasang mata anak-anak untuk mengeja bait pembuka tersebut:
 
 $$\text{الْكَلَامُ هُوَ اللَّفْظُ الْمُرَكَّبُ الْمُفِيدُ بِالْوَضْعِ}$$
 
-"Ini definisi Kalam menurut Ibnu Ajurrum." Ustadz Burhan membalikkan badan. "Dibaca: *Al-Kalāmu huwal-lafzhul-murakkabul-mufīdu bil-wadh'i.* Artinya: ucapan yang tersusun, berfaedah, dan diucapkan secara sengaja dalam bahasa Arab. Ulang bersama saya."
+"Inilah kaidah pembuka yang dirumuskan oleh Ibnu Ajurrum," tutur Ustadz Burhan seraya membalikkan badan menghadap para muridnya kembali. "Dengarkan pelafalannya dengan seksama: *Al-Kalāmu huwal-lafzhul-murakkabul-mufīdu bil-wadh'i*. Artinya, Kalam dalam tradisi ilmu Nahwu adalah setiap ungkapan lisan yang tersusun, berfaedah sempurna, dan sengaja diucapkan sesuai kaidah bahasa Arab. Mari kita baca bersama-sama!"
 
-Seluruh kelas membaca bersama. Pelan, mengikuti ritme yang Ustadz Burhan tunjukkan dengan telapak tangannya.
+Seluruh santri serentak melafalkan bait definisi tersebut dengan suara lantang mengikuti ketukan telapak tangan sang guru di meja. Pembacaan pertama terasa agak kaku dan tersendat, namun pada pengulangan kedua dan ketiga, ritme suara anak-anak mulai mengalun serasi laksana paduan suara yang tertata rapi. Farhan merasakan sensasi getaran yang luar biasa tatkala bait Arab itu mengalir lancar dari rongga dadanya.
 
-"Lagi."
+"Bagus sekali pelafalan kalian," puji Ustadz Burhan seraya tersenyum bangga memandangi wajah-wajah polos di hadapannya. "Kalian memiliki modal vokal yang fasih dan tajam. Sekarang mari kita bedah satu per satu empat pilar penyusun Kalam ini agar kalian memahaminya secara mendalam dan tidak sekadar menghafal bunyi bunyinya di bibir semata."
 
-Mereka mengulang.
+Ustadz Burhan menunjuk kata pertama di papan tulis: "*Al-Lafzhu* bermakna suara yang keluar dari lisan manusia yang mengandung sebagian huruf hijaiyyah dari alif hingga ya'. Isyarat tangan, kedipan mata, atau coretan tulisan di kertas bukanlah lafazh dalam istilah nahwu sebelum ia diucapkan oleh lidah. Sebuah pemikiran baru sah menjadi kalam ketika ia telah dilisankan secara nyata."
 
-"Satu kali lagi, tapi kali ini perhatikan artinya sementara kalian membaca."
+Beberapa anak mengangguk-angguk paham sembari mencatat penjelasan tersebut di buku tulis masing-masing. Suara gemerisik gesekan pena di atas kertas putih berpadu dengan hembusan angin pagi yang sejuk menerobos jendela. Danang menyalin setiap patah kata dengan teliti, sesekali melirik buku catatan Farhan untuk memastikan ejaannya tidak keliru.
 
-Kali ketiga terdengar berbeda—lebih dalam, lebih disengaja.
+"Pilar kedua adalah *Al-Murakkab*, yang bermakna tersusun dari dua kata atau lebih," lanjut sang ustadz dengan gaya mengajar yang sangat hidup. "Satu kata tunggal seperti *'kitābun'* bukanlah kalam, melainkan hanya sebuah isim mufrod. Namun jika kita menyusunnya menjadi *'hādzā kitābun'*—ini adalah sebuah buku—maka susunan itu telah memenuhi syarat *murakkab*."
 
-"Bagus." Ustadz Burhan meletakkan kapurnya. "Sekarang saya urai satu per satu. *Al-Lafzhu*—" ia mengetuk kata pertama di papan tulis "—suara dari lisan yang mengandung huruf hijaiyyah. Isyarat tangan bukan lafaz. Tulisan bukan lafaz sampai ia diucapkan. Paham?"
+Ustadz Burhan kemudian beralih ke pilar ketiga yang paling menentukan: "*Al-Mufīd* bermakna memberikan faedah yang sempurna bagi pendengarnya. Maknanya tuntas, sehingga orang yang menyimak tidak lagi bertanya-tanya menanti kelanjutan kalimat. Jika saya mengatakan *'Zaid telah hadir'*, maka kalimat itu sudah mufid. Tetapi jika saya hanya mengatakan *'jika Zaid hadir...'* lalu saya diam membisu, maka ungkapan itu belum menjadi kalam karena maknanya masih menggantung dan membuat pendengar bingung."
 
-Beberapa anak mengangguk.
+Anak-anak kelas VII-A tersenyum simpul mendengar contoh sederhana yang dibawakan oleh sang guru. Penjelasan yang runtut dan visual itu membuat konsep gramatika yang semula dianggap rumit terasa begitu logis dan mudah dicerna oleh nalar anak-anak usia dua belas tahun. Suasana ketegangan akademis seketika mencair menjadi kegembiraan intelektual yang hangat.
 
-"*Al-Murakkab*—tersusun. Minimal dua kata. Satu kata tunggal bukan kalam. Kalau saya bilang *kitab*, itu bukan kalam. Kalau saya bilang *hādzal kitābu*—ini kitab itu—baru jadi kalam karena sudah tersusun dan memberikan faedah penuh."
+"Dan pilar keempat adalah *Bil-Wadh'i*, yakni diucapkan dengan sengaja dan berlandaskan tatanan bahasa Arab yang baku," pungkas Ustadz Burhan. "Igauan orang yang sedang mengigau tidur atau ocehan burung beo yang menirukan suara manusia tidak dapat dikategorikan sebagai kalam, karena tidak lahir dari kesadaran akal yang bertujuan menyampaikan makna. Sebuah ucapan harus memiliki kehendak sadar dan berpegang pada kesepakatan kaidah bangsa Arab."
 
-Farhan menyalin. Di sampingnya, Danang menulis lebih lambat tapi tulisannya rapi juga—dengan hati-hati.
+Seorang anak di barisan belakang menahan tawa membayangkan burung beo yang mengigau nahwu. Ustadz Burhan menoleh ke arah santri tersebut seraya tersenyum ramah: "Boleh tertawa, anakku. Humor yang sehat akan membuka pintu ingatan otakmu agar kaidah ini menancap kuat di dalam memori seumur hidupmu."
 
-"*Al-Mufīd*—berfaedah. Artinya ketika kamu selesai mengucapkan kalimat itu, pendengar tidak kebingungan menunggu apa lagi. Kalimat itu sudah selesai menyampaikan pesannya. Contoh: *'Zaid pergi.'* Kalimat ini mufid—selesai, tidak gantung. Tapi kalau saya bilang *'apabila Zaid...'* dan saya diam—itu belum mufid. Pendengar masih menunggu."
+Setelah suasana kembali tenang, Ustadz Burhan mengambil kapur tulisnya kembali, lalu menorehkan tiga kata besar berharakat lengkap di bawah definisi Kalam. Ketukan kapurnya di papan tulis berbunyi mantap dan berirama. Beliau menatap seluruh santri seraya memberi isyarat agar mereka memperhatikan pembagian agung tersebut:
 
-Beberapa anak tersenyum kecil karena bisa membayangkan contohnya.
+$$\text{اِسْمٌ — فِعْلٌ — حَرْفٌ}$$
 
-"Dan *bil-Wadh'i*—diucapkan dengan sengaja dalam kaidah bahasa Arab. Igauan orang tidur bukan kalam. Rekaman suara burung beo yang meniru manusia bukan kalam dalam ilmu nahwu."
+"Ketahuilah anak-anakku, seluruh kosakata dalam perbendaharaan bahasa Arab—mulai dari wahyu suci Al-Qur'an, ribuan hadits kenabian, hingga syair-syair para pujangga—hanya terbagi ke dalam tiga jenis kata ini," ucap Ustadz Burhan dengan sorot mata yang berbinar takjub. "Hanya ada Isim, Fi'il, dan Harf. Kata benda, kata kerja, dan kata penghubung tugas. Tiga kelompok saja, tidak pernah ada jenis kata keempat di muka bumi ini."
 
-Seorang anak di barisan belakang menahan tawa.
+Farhan menatap papan tulis dengan rasa kagum yang luar biasa mendalam. Di benaknya, ia membayangkan kejeniusan para ulama salaf terdahulu yang mampu memetakan seluruh kompleksitas bahasa wahyu ke dalam tiga pilar yang teramat padat dan presisi. Tiga pilar itu berdiri tegak laksana pasak-pasak bumi yang menopang keagungan sastra samawi.
 
-Ustadz Burhan menoleh ke arahnya, tapi tidak marah. "Boleh tertawa. Saya sengaja pilih contoh itu supaya kalian ingat."
+"Isim adalah kata yang menunjukkan nama orang, benda, sifat, atau tempat, dan maknanya mandiri tanpa terikat oleh dimensi waktu," terang Ustadz Burhan seraya menunjuk ke arah Farhan. "Kata *'kitābun'* adalah isim, demikian pula namamu *'Farhan'*. Namamu tetap Farhan kemarin, hari ini, dan esok hari tanpa dipengaruhi oleh perputaran masa."
 
-Anak itu malah tertawa lebih bebas. Yang lain ikut.
+Farhan tanpa sadar menegakkan posisi duduknya, merasakan kebanggaan tersendiri saat namanya dijadikan contoh gramatika oleh sang guru di depan kelas. Di sampingnya, Danang tersenyum lebar menyenggol lengan Farhan dengan akrab. Rasa percaya diri Farhan yang sempat redup semalam kini mulai berpijar kembali menyinari relung dadanya.
 
-Setelah tawa mereda, Ustadz Burhan mengambil kapur lagi dan menulis tiga kata di bawah definisi tadi:
+"Adapun Fi'il adalah kata kerja yang maknanya senantiasa terikat dengan dimensi waktu: masa lampau, masa sekarang, atau tuntutan perintah," sambung Ustadz Burhan dengan gerakan tangan yang dinamis. "*Kataba* berarti dia telah menulis di masa lalu, *yaktubu* berarti dia sedang menulis saat ini, dan *uktub* adalah perintah untuk menuliskan sesuatu. Ketiganya kita kenal sebagai Fi'il Madhi, Mudhari', dan Amr."
 
-**اِسْمٌ — فِعْلٌ — حَرْفٌ**
+Ustadz Burhan menuliskan ketiga pembagian fi'il tersebut di papan tulis dengan bagan pohon yang rapi. "Sedangkan Harf adalah kata yang baru memancarkan makna sempurnanya apabila ia digabungkan dengan isim atau fi'il. Kata *'min'* yang berarti dari tidak memiliki arti mandiri sebelum kita merangkaikannya menjadi *'minal masjidi'*—dari masjid. Harf berfungsi laksana perekat yang menyatukan bata-bata kalimat menjadi istana makna yang kokoh."
 
-"Seluruh bahasa Arab—dari Al-Qur'an sampai kitab-kitab ulama sampai percakapan pasar di Madinah—hanya terdiri dari tiga jenis kata ini. Isim, Fi'il, Harf. Kata benda, kata kerja, kata tugas. Tiga saja. Tidak lebih." Ia berhenti. "Bayangkan betapa luar biasanya para ulama yang berhasil merangkum keseluruhan bahasa wahyu ini menjadi tiga kelompok besar. Mereka bukan sekadar ahli bahasa—mereka orang-orang yang melihat keteraturan di balik kerumitan."
+Di sebelah Farhan, Faisal menyalin bagan tersebut dengan sangat tekun. Tangannya yang biasa menggenggam pisau atau mengepal pukulan tampak memegang pena dengan canggung, namun matanya tak pernah lepas memandangi papan tulis. Ada kehausan belajar yang memancar dari sorot matanya yang legam.
 
-Farhan menatap papan tulis. Tiga kata itu terlihat sederhana. Tapi ada sesuatu di balik kesederhanaannya yang terasa agung.
+Ustadz Burhan kemudian meletakkan kapur tulisnya di tepi meja guru. Beliau melipat kedua tangannya di dada, lalu menatap seluruh muridnya dengan tatapan menantang yang hangat. "Sekarang, mari kita buktikan ketajaman nalar kalian melalui sebuah latihan analisa sederhana di papan tulis ini."
 
-"Isim itu apa? Kata benda, nama, sifat. Tidak terikat waktu. Kata *'kitab'* adalah isim—kemarin kitab, hari ini kitab, besok tetap kitab. Kata *'Farhan'*—" Ustadz Burhan menatap ke arah Farhan sebentar "—itu isim. Namamu tidak berubah tergantung waktu."
+Ustadz Burhan menuliskan dua kata dengan jarak yang cukup lebar di bagian tengah papan tulis hitam. Kapur putih itu digoreskan dengan ketukan tegas yang mengundang rasa ingin tahu seluruh murid. Beliau menunjuk kedua kata itu seraya bersiap menguji ketajaman analisa para santri:
 
-Farhan tanpa sadar menegakkan posisi duduknya.
+$$\text{كِتَابٌ} \quad \text{—} \quad \text{يَكْتُبُ}$$
 
-"Fi'il itu kata kerja. Selalu terikat waktu—lampau, sekarang, atau perintah. *Kataba*—dia telah menulis. *Yaktubu*—dia sedang menulis. *Uktub*—tulislah! Tiga bentuk. Fi'il Madhi, Fi'il Mudhari', Fi'il Amr."
+"Dua kata ini berasal dari akar huruf yang persis sama, yakni *kaf, ta', dan ba'* yang berkaitan dengan perbuatan menulis," tutur sang ustadz dengan suara tenang. "Namun satu di antaranya berkedudukan sebagai Isim, dan yang satunya lagi adalah Fi'il. Siapa di antara kalian yang mampu menentukan kedudukan kedua kata ini beserta tanda pengenal gramatikal yang membedakannya?"
 
-Ustadz Burhan menuliskan ketiganya di papan.
+Suasana ruang kelas seketika sunyi senyap laksana lapangan terbuka sebelum fajar menyingsing. Anak-anak tampak menatap dua kata tersebut dengan kening berkerut, sebagian saling melirik mencari kawan yang berani mengangkat tangan lebih dahulu. Farhan menatap kata *kitābun* dan lekas menangkap keberadaan harakat dhommatain di huruf akhirnya; ia teringat betul penjelasan Mas Zaid di serambi bahwa tanwin adalah stempel mutlak milik isim.
 
-"Dan Harf adalah kata yang baru punya makna kalau digabung dengan isim atau fi'il. *'Min'*—dari—tidak punya makna sendiri. Tapi *'dari Makkah'*—nah, sekarang punya makna. Harf itu seperti perekat. Tanpa direkatkan ke sesuatu, ia tidak berguna."
+Farhan melirik ke arah Faisal di samping kanannya. Ia mendapati sahabatnya itu sedang menatap papan tulis dengan rahang terkatup dan jemari meremas pena dengan tegang; Faisal tampak sedang bergelut hebat dengan nalarnya sendiri namun dilanda keraguan untuk bersuara. Farhan tidak ingin membiarkan kawannya tenggelam dalam kebimbangan tersebut.
 
-Di sebelah Farhan, Faisal menulis dengan sungguh-sungguh. Tangannya agak tegang memegang pena—pena yang ia pinjam dari Danang karena ia lupa membawa—tapi matanya tidak pindah dari papan tulis.
+"Faisal," bisik Farhan dengan suara yang teramat pelan di samping telinga sahabatnya. "Coba perhatikan harakat di atas huruf ba' pada kata *kitābun*. Ada tanda apa di sana?"
 
-Ustadz Burhan meletakkan kapur. "Sekarang kita latihan."
+Faisal mengamati tulisan di papan dengan mata menyipit tajam. "Ada dua harakat dhommah bertumpuk di atas huruf ba'... dhommatain kan?" bisiknya balik dengan nada ragu yang kentara. Tangannya yang memegang pena tampak bergetar pelan, takut bila dugaannya keliru di hadapan kawan sebangkunya.
 
-Ia menulis dua kata di papan dengan jarak lebar:
+"Betul sekali, dan dua dhommah bertumpuk itu namanya tanwin," tutur Farhan membimbing dengan kelembutan seorang kawan sejati. "Di dalam kaidah nahwu, tanwin adalah tanda khas isim, dan fi'il diharamkan menerima tanwin. Jadi kata mana yang merupakan isim?"
 
-**كِتَابٌ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **يَكْتُبُ**
+Mata Faisal seketika melebar cerah saat nalar gramatikanya berhasil merajut pemahaman tersebut. "Berarti *kitābun* adalah isim karena berharakat tanwin!" desis Faisal dengan getaran gairah yang baru pertama kali ia rasakan di ruang kelas. Sepercik binar keyakinan menyala di sepasang matanya yang legam, mengusir kabut rendah diri yang selama ini membelenggunya.
 
-"Keduanya dari akar kata yang sama: *kaf, ta', ba'*—yang berarti menulis. Tapi satu isim, satu fi'il. Siapa yang bisa membedakan mana yang isim dan mana yang fi'il? Dan—yang lebih penting—apa tanda pengenal yang membedakannya?"
+"Tepat sekali! Dan pada kata *yaktubu*, ada huruf ya' di depannya sebagai huruf mudhara'ah yang menandakan kata kerja yang sedang berlangsung," tambah Farhan menyempurnakan pemahaman kawannya. "Angkat tanganmu sekarang, Faisal. Berdirilah dan jawab pertanyaan Ustadz Burhan dengan lantang."
 
-Kelas hening.
+Faisal menoleh menatap Farhan dengan tatapan memastikan, seakan mencari kepastian apakah dirinya yang selama ini dicap anak bengal layak untuk menjawab pertanyaan guru. Farhan tersenyum mantap seraya menganggukkan kepalanya memberi dukungan moral penuh. Perlahan namun pasti, tangan kanan Faisal terangkat tinggi di udara di tengah keheningan kelas.
 
-Farhan menatap dua kata itu. Ia melihat *kitābun*—ada tanwin di harakat akhirnya, dhommatain bertumpuk. Dan *yaktubu*—ada huruf ya' di depannya, dan harakat akhirnya dhommah biasa.
+Ustadz Burhan yang sejak tadi mengamati gerak-gerik kedua santri di bangku depan itu tersenyum teduh. Sorot mata sang guru memancarkan kebahagiaan batin seorang pendidik yang menyaksikan mekarnya benih fitrah kecerdasan muridnya. "Faisal dari Madura, silakan berdiri dan sampaikan jawabanmu kepada seluruh kawan-kawanmu," panggil sang ustadz dengan suara yang memuliakan.
 
-Tanwin. Mas Zaid pernah menyebut sesuatu tentang tanwin kemarin malam di serambi. Tanda isim.
+Faisal bangkit berdiri dari bangkunya dengan gerakan yang mantap. Ia menarik nafas panjang yang dalam untuk menenangkan debar jantungnya yang berdegup kencang laksana genderang perang. Mengarahkan pandangannya lurus ke papan tulis hitam di hadapannya, ia mengumpulkan segenap keberanian yang tersisa di dalam dadanya.
 
-Ia menoleh ke Faisal—dan langsung membaca kebingungan di wajah itu. Kening berkerut. Pena dipegang erat tapi tidak bergerak. Napasnya sedikit menahan.
+"*Kitābun* adalah Isim, Ustadz," ucap Faisal dengan suara yang lantang, bulat, dan tanpa keraguan sedikit pun. "Tandanya adalah keberadaan harakat tanwin di huruf akhirnya, dan tanwin tidak pernah bisa masuk ke dalam fi'il. Sedangkan kata *yaktubu* adalah Fi'il Mudhari', dengan tanda pengenal berupa huruf ya' mudhara'ah di awalnya yang menunjukkan sebuah pekerjaan yang sedang dikerjakan."
 
-Farhan tidak menunggu lama.
+Keheningan yang mencekam seketika pecah oleh anggukan mantap dari sang guru. Ustadz Burhan memandang Faisal dengan tatapan takjub yang tulus, lalu bertepuk tangan pelan di depan kelas seraya berseru: "*Mumtāz! Ahsānallāhu ilaika*, Faisal! Jawabanmu sangat presisi, runut, dan tepat sasaran!"
 
-"Faisal," bisiknya. Sangat pelan. "Lihat harakat di huruf terakhir *kitābun*. Ada apa di sana?"
+Seluruh murid di kelas VII-A serentak ikut bertepuk tangan mengapresiasi keberhasilan kawan mereka. Danang menepuk-nepuk pahanya dengan wajah berseri-seri seolah dirinyalah yang baru saja meraih kemenangan besar. Faisal duduk kembali di bangkunya; wajahnya tampak memerah haru, dan seulas senyum bangga tersungging di sudut bibirnya—sebuah senyuman manusiawi dari seorang anak yang baru saja menemukan kembali harga diri intelektualnya di bawah lentera tarbiyah.
 
-Faisal mengamati. "Ada... dhommatain? Dua dhommah?"
+Pelajaran nahwu pagi itu berlanjut selama dua jam penuh dalam suasana dialogis yang sangat menyenangkan. Ustadz Burhan menguraikan tanda-tanda isim dan fi'il lainnya dengan contoh-contoh yang membumi, sesekali menyisipkan kisah keteladanan para imam madzhab dalam menuntut ilmu. Di sela-sela penjelasan sang guru, Faisal menyenggol pelan lengan Farhan seraya berbisik tulus: "Matur nuwun sanget ya, Farhan." Farhan membalas bisikan itu dengan senyuman hangat tanpa mengalihkan pandangannya dari papan tulis.
 
-"Itu namanya tanwin. Dan tanwin itu tanda isim. Fi'il tidak bisa menerima tanwin—haram. Jadi kata mana yang isim?"
+Ketika lonceng tanda istirahat pertama berdentang tiga kali di pelataran madrasah, Ustadz Burhan menutup majelis ilmu dengan doa kaffaratul majlis yang diaminkan secara khusyuk oleh seluruh santri. Farhan menutup buku catatannya yang kini telah terisi penuh empat halaman dengan tulisan tangan yang rapi. Di halaman depan, nama *Farhan bin Rahmat – Penuntut Cahaya Adab* kini bersanding indah dengan catatan-catatan ilmu yang telah menghidupkan relung jiwanya.
 
-Satu detik Faisal memproses. Lalu matanya naik sedikit—sebuah gerakan kecil yang menandakan sesuatu terhubung di dalam kepalanya.
-
-"*Kitābun*. Yang ada tanwin-nya."
-
-"Tepat. Sekarang *yaktubu* yang fi'il—coba lihat huruf di depannya."
-
-"Ada ya'."
-
-"Itu huruf mudhara'ah. Tanda fi'il mudhari'. Kata kerja yang sedang berlangsung. *Yaktubu*—dia sedang menulis."
-
-Faisal menatap papan tulis lagi. Kali ini dengan wajah yang berbeda.
-
-"Aku paham," bisiknya. Sangat pelan—setengah tidak percaya dengan dirinya sendiri.
-
-"Angkat tangan. Jawab."
-
-Faisal menoleh ke Farhan sebentar, seperti memastikan sekali lagi. Farhan mengangguk.
-
-Tangan Faisal naik.
-
-Ustadz Burhan melihatnya. Ekspresinya tidak berubah besar-besaran—tapi ada sesuatu yang bergerak di matanya, seperti orang yang melihat hal yang ia duga-duga akhirnya terjadi.
-
-"Faisal. Silakan."
-
-Faisal berdiri. Ia menarik napas sekali—tidak dramatis, cukup untuk memberi dirinya satu detik lagi.
-
-"*Kitābun* adalah isim, Ustadz. Tandanya ada tanwin di harakat akhirnya. Dan tanwin itu tanda isim—fi'il tidak bisa menerima tanwin. Sedangkan *yaktubu* adalah fi'il mudhari', tandanya ada huruf ya' di awalnya sebagai huruf mudhara'ah, dan kata ini menunjukkan perbuatan yang terikat waktu."
-
-Hening.
-
-Bukan hening yang kosong—hening seperti setelah seseorang melempar batu ke danau dan semua orang menunggu lingkaran gelombangnya.
-
-Ustadz Burhan mengangguk. Satu kali. Tapi anggukan yang berat.
-
-"*Mumtāz.*"
-
-Seseorang di barisan belakang mulai bertepuk tangan. Yang lain mengikuti—tidak riuh-riuh lebay, tapi tulus. Danang tepuk tangan dari sebelah Farhan dengan wajah yang sangat senang, seolah Faisallah yang menang lomba lari.
-
-Faisal duduk. Mukanya tidak berubah banyak—tapi ada sesuatu di sudut matanya yang tidak ada sebelumnya.
-
-Ustadz Burhan melanjutkan. Ia tidak membesar-besarkan momen itu—justru itu yang membuat momen itu terasa bermakna. Ia lanjutkan penjelasan berikutnya seolah jawaban Faisal adalah hal yang seharusnya memang terjadi, bukan sesuatu yang mengejutkan.
-
-Dan kelas berjalan.
-
-Dua jam penuh. Ustadz Burhan mengajarkan tanda-tanda isim yang lain—bisa menerima alif lam, bisa menerima tanwin, bisa disandarkan ke isim lain. Lalu tanda fi'il—bisa dimasuki huruf *ta' fa'il* untuk pelaku perempuan, bisa dimasuki *ya' mutsanna* untuk dua orang. Dan harf—tidak bisa menerima tanda apapun, hanya menempel ke kata lain.
-
-Setiap penjelasan diberi contoh. Setiap contoh diberi pertanyaan. Setiap pertanyaan ada yang menjawab—tidak selalu benar, tapi Ustadz Burhan tidak membuat siapapun merasa buruk karena jawaban yang salah.
-
-"Kalau salah itu berarti otak kalian sedang bekerja keras. Lebih baik salah di kelas daripada salah saat membaca Al-Qur'an di hadapan jamaah."
-
-Di sela-sela penjelasan Ustadz Burhan, Faisal menyenggol lengan Farhan.
-
-"Makasih," bisiknya.
-
-Farhan tidak menjawab dengan kata-kata. Ia hanya mengangguk pelan sambil terus menyalin catatan.
-
-Lonceng berbunyi di luar.
-
-*Teng... Teng... Teng!*
-
-Tiga dentang. Istirahat pertama.
-
-Ustadz Burhan memimpin doa penutup. *Subhānaka Allāhumma wa bihamdik, asyhadu allā ilāha illā anta, astaghfiruka wa atūbu ilaik.* Kelas mengikuti.
-
-Setelah doa selesai, anak-anak mulai bergerak—menutup kitab, merapikan tas. Farhan menutup buku catatannya. Ia melihat seberapa banyak yang sudah tertulis di dalamnya dalam dua jam pertama ini—empat halaman, penuh, rapi.
-
-Di halaman pertama, nama yang ditulis Mas Zaid masih ada. *Farhan bin Rahmat – Penuntut Cahaya Adab.*
-
-Sekarang di bawahnya ada tulisan tangannya sendiri. Definisi Kalam, rukun-rukunnya, tiga jenis kata, tanda-tanda pengenal isim dan fi'il.
-
-Dua goresan tinta yang berbeda, dari dua tangan yang berbeda, di halaman yang sama.
-
-Farhan menutup buku itu.
-
-Di luar jendela, halaman madrasah sudah ramai oleh anak-anak yang keluar beristirahat. Suara sandal berderap di keramik lorong. Angin masuk melalui jendela membawa aroma tanah yang hangat dari taman kecil di sisi timur gedung—pohon mangga, rumput, sedikit basah dari embun yang belum sepenuhnya kering.
-
-"Ayo keluar," kata Danang.
-
-Mereka bertiga berdiri.
-
-Faisal keluar lebih dulu—langkahnya sedikit berbeda dari tadi pagi di lorong asrama. Tidak lebih cepat atau lebih lambat. Tapi punggungnya tidak membungkuk seperti orang yang sedang bersiap-siap untuk diserang.
-
-Farhan berjalan di belakangnya, keluar dari pintu kelas menuju terang pagi yang menunggu.
+Ketiga sahabat itu bangkit berdiri menyandang tas mereka, lalu melangkah bersama keluar dari ruang kelas menuju cerahnya pelataran madrasah yang bermandikan cahaya matahari pagi. Langkah kaki Faisal tampak jauh lebih tegap dan lapang, Danang berceloteh riang merencanakan hafalan bersama, sementara Farhan menatap langit biru dengan dada yang dipenuhi keyakinan bahwa tanah pesantren ini benar-benar tempat terbaik bagi fitrahnya untuk bertumbuh mekar. Angin sejuk pegunungan membelai wajah mereka, seakan turut merestui langkah awal ketiga santri belia itu dalam menapaki jalan panjang penuntut ilmu.
