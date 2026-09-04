@@ -1,85 +1,175 @@
 # Sub-Bab 4.1: Kitab Ihya' di Atas Dampar Kayu
 
-Pukul 05.30 pagi di serambi ndalem kediaman Kyai Hasyim. Sinar mentari fajar yang hangat dan lembut perlahan merambat naik menyinari pepohonan sawo kecik di halaman ndalem. Berkas-berkas cahaya keemasan menembus celah-celah ukiran kayu gebyok jati khas Jawa Tengah yang antik.
+Serambi ndalem berbeda dari bagian pesantren lainnya.
 
-Cahaya fajar itu membiaskan siluet-siluet indah di atas lantai ubin terakota kuno yang dingin, bersih, dan mengkilap. Aroma wangi minyak gaharu murni berpadu dengan keharuman seduhan kopi Arabika kapulaga hangat. Keharuman tersebut menyerbak memenuhi seluruh ruangan serambi yang hening dan asri.
+Bukan karena lebih megah—justru lebih sederhana dalam beberapa hal. Tidak ada spanduk, tidak ada papan pengumuman, tidak ada bau detergen atau apek kasur. Yang ada hanya uap pembakaran kayu gaharu dari bejana tembaga di sudut, suara air mengucur dari pancuran bambu di taman kecil samping, dan cahaya matahari pagi yang masuk miring melalui ukiran kayu gebyok tua.
 
-$$\text{الْقَلْبُ هُوَ مَحَلُّ مَعْرِفَةِ اللَّهِ تَعَالَى وَمَحَطُّ نَظَرِ الرَّبِّ سُبْحَانَهُ}$$
+Salman berdiri di ambang pintu.
 
-> *"Hati adalah tempat ma'rifatullah (mengenal Allah Ta'ala) dan tempat jatuhnya pandangan Allah Yang Maha Suci."* (Ihya' Ulumiddin, Kitab Syarh 'Aja'ib al-Qalb, Imam Al-Ghazali)
+Bajunya sudah berganti yang bersih. Sandalnya sudah dilepas di luar. Keningnya tidak ada lagi bekas debu semen—sudah ia bersihkan waktu wudhu tadi. Tapi di bawah matanya, lingkaran hitam itu masih ada. Tidak bisa dibersihkan dengan air wudhu.
 
-Suara gemericik air mancur kolam ikan koi di sudut taman berpadu harmonis dengan kicauan merdu burung-burung perkutut di sangkar gantung bambu. Suasana serambi ndalem menghadirkan atmosfer ketenangan spiritual yang begitu mendalam (*Deep Sakinah Atmosphere*). Di atas sebuah dampar kayu jati pendek berukir sulur dedaunan teratai, sebuah kitab kuning klasik berukuran tebal bersampul kulit merah marun terbentang terbuka dengan anggun.
+Kyai Hasyim duduk di belakang dampar kayu jati rendah. Jubah putih, sorban hijau lumut yang disampirkan di pundak. Di atas dampar, sebuah kitab tebal terbuka—juz ketiga, dari tulisan tangan Arab naskhi yang terlihat kecil-kecil dan padat di antara catatan pinggir merah tua.
 
-Itu adalah kitab babon tasawuf dan pendidikan Islam: **Juz Ketiga Kitab Ihya' 'Ulūmiddīn karya Hujjatul Islam Imam Abu Hamid Al-Ghazali rahimahullah**. Halaman kitab tersebut menampilkan tulisan khat naskhi klasik dengan syarah dan catatan pinggir (*Hasyiyah*) bertinta hitam dan merah. Kyai Hasyim duduk bersila dengan sangat tenang di hadapan dampar kayu tersebut.
+*Ihya' 'Ulūmiddīn.*
 
-Kyai Hasyim mengenakan jubah katun putih bersih bertahtakan sorban hijau zamrud yang tersampir anggun di pundak kanannya. Janggut putih sang Kiai yang terawat rapi memancarkan wibawa kemuliaan seorang ulama arif billah pewaris para nabi. Di hadapan Kiai, dengan jarak dua meter di atas karpet permadani hijau, Ustadz Salman duduk bersimpuh dengan kepala tertunduk dalam-dalam.
+Sang Kiai tidak langsung melihat ke arah pintu. Jemarinya sedang menelusuri baris-baris teks dengan gerakan yang sabar—seperti seseorang yang sudah tahu isinya, tapi tetap mau membacanya lagi. Seperti orang yang menemukan sesuatu yang berharga bukan karena baru, tapi karena tiap kali dibaca, terasa berbeda.
 
-Kedua lutut Salman menempel rapat di lantai permadani. Kedua telapak tangannya diletakkan di atas paha dengan posisi duduk *Tawarruk* penuh rasa tawadhu dan takzim. Jantung pemuda berusia dua puluh empat tahun itu berdegup kencang menanti wejangan dan evaluasi dari sang pengasuh tertinggi pesantren.
+Salman menunggu di ambang pintu.
 
-Salman tidak membawa rotan kuningnya. Rotan itu telah ia tinggalkan di sudut pos jaga asrama, sesuai bisikan Ustadz Ridwan semalam. Kyai Hasyim membetulkan letak kacamata bacanya yang berbingkai emas tipis.
+Ia tidak berani melangkah lebih jauh sampai diizinkan.
 
-Dengan jari telunjuknya yang bersih, Kiai menyusuri baris-baris teks Arab gundul berharakat di atas lembaran kitab Ihya' di hadapannya. Kyai Hasyim melafalkan beberapa bait kalimat mutiara Imam Al-Ghazali dengan suara bas yang pelan, tartil, dan sangat syahdu:
+"Masuklah, Salman."
 
-$$\text{الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ عَلَيْهِ، وَمَائِلٌ إِلَى كُلِّ مَا يُمَالُ بِهِ إِلَيْهِ}$$
+Suara itu tidak keras. Tidak juga berbisik. Suara yang sudah tahu caranya mengisi ruangan tanpa harus meninggikan diri.
 
-> *"Ketahuilah bahwa anak kecil itu adalah amanah suci yang diletakkan di sisi kedua orang tuanya (dan para pendidiknya). Hatinya yang suci dan murni adalah mutiara permata yang sangat berharga, polos, bersih dari segala bentuk ukiran dan gambar rupa. Dan ia siap menerima segala bentuk ukiran yang digoreskan di atasnya, serta condong kepada apa saja yang dibiasakan kepadanya..."*
+Salman masuk. Melangkah di atas karpet permadani hijau zamrud yang tebalnya mengenyahkan bunyi langkah kaki. Ia berjalan hingga dua meter di hadapan dampar kayu, lalu duduk bersimpuh. Lutut menyentuh karpet. Tangan di atas paha. Punggung sedikit membungkuk.
 
-Kyai Hasyim menghentikan bacaannya secara perlahan. Kiai melepas kacamata bacanya, meletakkannya di samping dampar kayu jati. Kiai mengangkat pandangan matanya yang teduh dan menatap lurus ke arah wajah Salman yang menunduk.
+Ia menatap motif dedaunan sulur karpet di depan jemari kakinya.
 
-"Salman, muridku..." dawuh Kyai Hasyim dengan nada suara yang begitu lembut, sejuk, namun berbobot laksana gunung karang yang kokoh. "Sudahkah kamu membaca, menelaah, dan merenungi kalam Hujjatul Islam Imam Al-Ghazali ini saat kamu bertugas mengasuh anak-anak di asrama putra?" Salman menelan ludahnya pelan.
+Beberapa detik berlalu.
 
-Tenggorokannya terasa tercekat dan suaranya bergetar menahan malu dan rasa bersalah yang mendalam. "Sa-sampun, Kiai... Hamba pernah mempelajarinya saat mengaji kitab Ihya' bersama Kiai dahulu..." jawab Salman dengan suara lirih.
+Kiai Hasyim menutup kitabnya—bukan dengan cepat, tapi dengan perlahan, seperti menutup pintu ruangan yang di dalamnya ada orang tidur. Ia meletakkan kacamata bacanya di sudut dampar.
 
-"Namun hamba mengaku khilaf... Hamba sering kali lalai dan dikuasai oleh hawa nafsu amarah serta ketidaksabaran saat menghadapi kekurangan anak-anak asuh hamba di asrama..." Kyai Hasyim tersenyum sangat teduh.
+"Keningmu ada bekasnya kemarin," kata Kyai Hasyim. "Kata Ridwan kamu sujud di lantai pos piket."
 
-Senyuman sang guru besar seketika mengalirkan rasa damai yang melunturkan ketakutan dan kecemasan di dalam dada Salman. Kyai Hasyim mengelus permukaan lembaran kitab Ihya' 'Ulūmiddīn di hadapannya dengan penuh kasih sayang: "Salman...
+Salman tidak menjawab langsung. Tenggorokannya tercekat.
 
-Anak-anak belia kelas tujuh yang menangis di asramamu itu adalah permata suci titipan Allah SWT." "Kertas putih hati mereka masih sangat polos dan bening." "Ketika kamu mendidik mereka dengan gedoran pintu seng, bentakan kasar, dan sabetan rotan kuning, sesungguhnya kamu sedang menggoreskan ukiran hitam berupa luka trauma psikologis yang akan membekas seumur hidup di dalam jiwa mereka." Kiai memandang Salman dengan tatapan yang menyentuh lubuk sanubari: "Jika kamu mengukir hati anak dengan kekerasan, kelak mereka akan tumbuh menjadi pohon yang beracun." "Mereka akan menindas orang yang lebih lemah dan menjilat orang yang lebih kuat." "Namun jika kamu mengukir hati mereka dengan keteladanan akhlak, kelembutan, dan ketegasan yang berkeadilan, kelak mereka akan tumbuh menjadi ksatria peradaban yang berhati emas dan berakhlak mulia." Setitik air mata keharuan menetes dari pelupuk mata Salman, jatuh membasahi karpet permadani di hadapan sang Kiai. Di serambi ndalem yang asri, di hadapan kitab Ihya' dan keteduhan sang guru besar, Ustadz Salman menyadari betapa sucinya amanah tarbiyah.
+"Nggih, Kyai."
 
-Salman menyadari betapa kelirunya jalan kekerasan yang selama ini ia tempuh dalam mengasuh anak-anak di pondok pesantren. Salman menundukkan kepalanya semakin dalam, merenungi setiap kata yang terucap dari lisan sang mahaguru. Pagi itu, serambi ndalem menjadi gerbang terbukanya kesadaran baru bagi sang musyrif muda.
+Kyai Hasyim mengangguk. Satu kali. Tidak ada komentar tentang sujud itu—tidak dipuji, tidak dipertanyakan.
 
-Salman bersimpuh dengan penuh keikhlasan, bersiap menerima petunjuk dan bimbingan baru dari sang guru demi menyelamatkan fitrah anak-anak asuhnya. Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+"Duduklah lebih dekat."
 
-Salman mendengarkan setiap patah kata sang Kiai dengan dada yang bergetar penuh keharuan. Di hadapan sang mahaguru sepuh, Salman merasa laksana seorang musafir dahaga yang baru saja menemukan telaga mata air zamzam di tengah padang pasir. Salman menyadari betapa kerdilnya metode kekerasan yang selama ini ia gunakan jika dibandingkan dengan samudra hikmah yang diajarkan oleh para ulama salaf.
+Salman menggeser lututnya maju. Kini jarak antara ia dan dampar kayu hanya sejengkal.
 
-Angin fajar berhembus lembut menggoyangkan tirai kain sutra di serambi ndalem kiai, mengalirkan aroma wangi bunga sedap malam yang sedang bermekaran. Cahaya fajar di ufuk timur mulai membiaskan semburat warna jingga keemasan yang menyejukkan mata. Suasana ndalem terasa sangat sakral dan diliputi oleh gelombang ketenangan spiritual yang mendalam.
+"Pagi ini Kiai memanggilmu bukan untuk menyidangmu," kata Kyai Hasyim. Matanya yang tajam di balik kacamata turun menatap Salman dengan tatapan yang Salman tidak bisa nama dengan tepat—bukan kasihan, bukan marah, bukan bangga. Lebih seperti seseorang yang melihat sesuatu yang sudah lama ia tunggu akhirnya tiba.
 
-Kiai Hasyim menuangkan kembali air teh jahe hangat ke dalam cangkir porselen putih di hadapan Salman. 'Salman, anakku...' dawuh Kiai dengan nada suara yang penuh kasih sayang kebapakan. 'Tugasmu di asrama bukanlah mematahkan tunas-tunas muda yang sedang bertumbuh, melainkan merawat dan menyiraminya dengan air kesabaran hingga mekar menjadi pohon yang berbuah manis.'
+"Kiai memanggilmu karena Kiai melihat seorang murabbi yang hampir hancur. Dan Kiai tidak ingin kehilangan kamu."
 
-Kiai menjelaskan bahwa setiap santri membawa potensi kebaikan fitrah yang suci sejak dilahirkan ke muka bumi. Tugas murabbi adalah membersihkan debu-debu kebiasaan buruk yang menutupi fitrah tersebut tanpa merusak wadah fitrahnya. Kekerasan hanya akan meretakkan wadah fitrah dan melahirkan kepribadian yang munafik dan penuh kepalsuan.
+Salman memejamkan matanya sebentar.
 
-Salman menundukkan kepalanya dalam-dalam, menyatukan kedua telapak tangannya di depan dada sebagai tanda taubat dan kesiapan untuk belajar. Salman berikrar di hadapan sang Kiai untuk menanggalkan seluruh metode kekerasan dan memimpin asrama dengan keteladanan akhlak kenabian. Kiai Hasyim tersenyum sangat teduh, memegang kepala Salman seraya melafalkan doa taufiq dan keberkahan.
+Ia sudah siap dengan banyak hal sebelum datang ke sini—siap dimarahi, siap diminta mundur dari jabatan, siap diberi ceramah panjang. Yang tidak ia siapkan adalah kalimat seperti itu.
 
-Di kejauhan, sayup-sayup terdengar suara santri-santri yang mulai melangkah beriringan menuju gedung madrasah untuk memulai pelajaran pagi. Wajah-wajah anak penuntut ilmu itu memancarkan harapan baru di bawah naungan fajar yang semakin terang. Serambi ndalem Kyai Hasyim pagi itu telah menjadi rahim tempat dilahirkannya manhaj baru pengasuhan peradaban di Pesantren Darul Adab.
+Kyai Hasyim membuka kitabnya kembali—bukan ke halaman yang tadi, tapi ke halaman lain yang sudah ditandai dengan lipatan halus. Jemarinya menyentuh baris tertentu.
 
-Maha Suci Allah yang telah mempertemukan seorang murid yang mencari kebenaran dengan seorang mahaguru yang berhati samudra kasih sayang. Dari dialog fajar di serambi kayu jati ini, lentera adab telah dinyalakan untuk menerangi seluruh sudut komplek pesantren. Perjalanan menuju peradaban Insan Adabi telah resmi dimulai dengan basmalah yang suci dan penuh keikhlasan.
+"Imam Al-Ghazali rahimahullah menulis ini dalam bab *Riyādhatun Nafs*," kata Kyai Hasyim. Ia membacanya dengan suara pelan, tartil, dengan penekanan yang berbeda dari cara orang membaca hafalan:
 
-Salman bangkit berdiri dari karpet permadani ndalem, mencium tangan Kyai Hasyim dengan segenap rasa takzim dan baktinya. Salman melangkah keluar ndalem dengan langkah kaki yang tegap, mantap, dan dipenuhi oleh cahaya keyakinan baru. Ia siap kembali ke asrama untuk memeluk dan mendampingi anak-anak asuhnya dengan segenap jiwa dan raganya.
+$$\text{الطِّفْلُ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ، خَالِيَةٌ مِنْ كُلِّ نَقْشٍ وَصُورَةٍ}$$
 
-Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+Ia berhenti. Membiarkan kalimat itu selesai di udara.
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Salman mengenal teks ini. Ia pernah mempelajarinya di madrasah aliyah. Tapi mendengarnya sekarang, dalam keadaan seperti ini, terasa seperti mendengar untuk pertama kali.
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+*Anak kecil adalah amanah di sisi orang tuanya, dan hatinya yang suci adalah mutiara permata yang berharga, polos, kosong dari segala ukiran dan gambar...*
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+"Mutiara bening," kata Kyai Hasyim. "Bukan batu kasar yang perlu dipukul supaya bersih." Ia menutup kitabnya. "Farhan datang ke sini dengan hati seperti mutiara itu, Salman. Kamu tahu itu."
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Nggih, Kyai."
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+"Tapi kamu masuk ke kamarnya pagi itu dengan rotan."
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Bukan pertanyaan. Pernyataan yang diucapkan dengan nada yang sama seperti seseorang yang menyebut cuaca.
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+"Nggih."
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+"Ceritakan kepada Kiai apa yang kamu rasakan saat itu. Bukan apa yang kamu lakukan—apa yang kamu *rasakan*."
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+Salman menghela napas. Ini pertanyaan yang lebih sulit dari pertanyaan tentang perbuatannya.
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+"Saya... tidak merasakan apa-apa, Kyai." Ia menelan ludah. "Itu yang menakutkan. Waktu saya tarik selimutnya, waktu saya hantamkan rotan ke lantai—tidak ada bagian dari saya yang ragu. Tidak ada bagian dari saya yang merasa itu salah. Saya hanya berpikir: anak ini harus bangun, dan ini caranya."
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+Kyai Hasyim mendengarkan. Tidak menyela.
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+"Dan baru tadi malam, saat saya duduk sendirian di pos piket—baru saya bisa melihat wajah Farhan dengan jelas. Cara ia menutupi kepalanya dengan kedua tangannya. Ia melakukannya sebelum saya memukul apa pun. Artinya itu sudah jadi refleksnya."
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+Salman mengangkat pandangannya sedikit—tidak sampai menatap wajah sang Kiai, tapi tidak tertunduk seperti tadi.
+
+"Saya tidak tahu kapan saya berubah menjadi sesuatu yang membuat anak-anak melakukan itu, Kyai."
+
+Kyai Hasyim diam sebentar.
+
+Angin dari taman kecil di samping membawa sesuatu—suara gemerisik daun yang halus, dan sesekali percikan air dari pancuran bambu.
+
+"Kamu tidak berubah menjadi itu," kata Kyai Hasyim akhirnya. "Kamu *ditempatkan* di kondisi yang membuat manusia manapun akan berubah ke arah itu. Dua ratus santri. Satu orang. Tidak ada jeda. Tidak ada rotasi."
+
+"Itu bukan alasan untuk—"
+
+"Bukan alasan. Tapi ada perbedaan antara penjelasan dan pembenaran." Kyai Hasyim menatapnya langsung. "Penjelasan tidak menghapus kesalahan. Tapi juga tidak boleh diabaikan jika kita ingin membangun sesuatu yang lebih baik."
+
+Salman tidak menjawab.
+
+Kyai Hasyim menarik napas. Ia mencondongkan sedikit tubuhnya ke depan, ke arah Salman.
+
+"Ketika kamu masuk ke kamar Farhan dengan rotan, apa yang ingin kamu bangun? Apa yang kamu harapkan terjadi di dalam dada anak itu?"
+
+Salman berpikir sebentar. "Kepatuhan, Kyai."
+
+"Kepatuhan karena apa?"
+
+Jeda.
+
+"Karena... karena tidak mau ada hukuman berikutnya."
+
+"Tepat." Kyai Hasyim mengambil kitab Ihya'-nya kembali, membuka ke halaman yang sama tadi. "Imam Al-Ghazali menulis tentang ini. Bahwa ada perbedaan antara anak yang patuh karena ia *mencintai* kebaikan—dan anak yang patuh karena ia *takut* pada hukuman. Yang pertama, kepatuhannya bertahan sampai ia dewasa dan tidak ada yang mengawasinya. Yang kedua, kepatuhannya berakhir tepat di pintu kamarnya, begitu kamu membalikkan punggung."
+
+Salman menatap lantai.
+
+"Dan Salman—" Kyai Hasyim menurunkan kitabnya, menatap musyrif muda itu dengan cara yang berbeda, lebih langsung "—kamu sudah bekerja enam bulan. Sudah berapa banyak santri yang benar-benar berubah? Yang sholat Subuh bukan karena dengar rotan, tapi karena rindu sujud?"
+
+Pertanyaan itu tidak perlu dijawab. Keduanya tahu jawabannya.
+
+"Kiai tidak menyalahkanmu," kata sang ulama. "Kiai menyalahkan sistem yang mewarisi kamu rotan itu pada hari pertama, lalu membiarkan kamu sendirian membawa beban dua ratus jiwa tanpa satu pun alat yang lebih manusiawi."
+
+Salman mengangguk pelan.
+
+"Fajar hari ini berbeda, Salman." Kyai Hasyim menutup kitab Ihya'-nya. "Kiai sudah lama menyiapkan sesuatu. Sudah berdiskusi dengan para pakar, membaca kitab, membaca hasil riset neurosains tentang perkembangan anak remaja. Hasilnya sederhana: semua—baik turats ulama salaf maupun sains modern—menunjuk ke arah yang sama."
+
+Ia berhenti. Memandang ke arah taman kecil di luar serambi.
+
+"Anak tumbuh karena merasa aman. Bukan karena takut."
+
+Ia menoleh ke Salman.
+
+"Ekosistem yang kita bangun di sini harus menjadi tempat yang aman. Bukan hanya aman dari bahaya fisik—tapi aman secara emosional. Aman untuk menangis. Aman untuk tidak langsung bisa bangun jam tiga pagi. Aman untuk sedang rindu ibu dan tidak bisa fokus menghafal malam itu."
+
+Salman merasakan sesuatu di dadanya.
+
+Bukan tangis—tidak seperti tadi malam. Lebih seperti sesuatu yang sudah lama terjepit akhirnya bergeser ke posisi yang lebih pas.
+
+"Kiai akan memaparkan lebih lengkap nanti, setelah beberapa asatidz lain hadir," lanjut Kyai Hasyim. "Tapi Kiai ingin kamu menjadi yang pertama mendengar ini. Karena Kiai percaya kamu adalah orang yang akan merawat perubahan ini dengan sungguh-sungguh."
+
+"Saya?" Salman tidak bisa menyembunyikan rasa herannya.
+
+"Kamu." Kyai Hasyim tersenyum tipis. "Orang yang sudah pernah salah jalan dan menyadarinya jauh lebih berharga dari orang yang belum pernah mencoba apa pun."
+
+Dari arah masjid yang berdekatan dengan serambi ndalem, suara iqamat Dhuha mulai dilantunkan. Tipis, tapi jelas.
+
+Kyai Hasyim menutup kitabnya dengan cara yang sama seperti tadi—pelan, seperti menutup pintu ruangan yang di dalamnya ada orang tidur.
+
+"Sebentar lagi ada tamu yang datang," katanya. "Dokter spesialis saraf. Alumni pesantren ini dua puluh tahun yang lalu." Ia menatap Salman. "Kamu akan duduk bersamanya, dan kamu akan mendengar apa yang ia jelaskan tentang otak anak remaja. Bukan teori—penjelasan yang bisa kamu pegang dan gunakan besok pagi waktu masuk ke kamar Farhan."
+
+Salman mengangguk.
+
+"Tapi sebelum itu," kata Kyai Hasyim, "Kiai ingin bertanya satu hal."
+
+Ia menatap Salman langsung.
+
+"Kalau kamu diizinkan memulai ulang—bukan dari hari ini, tapi dari hari pertama kamu masuk ke asrama itu enam bulan yang lalu—apa yang akan kamu lakukan berbeda?"
+
+Salman tidak langsung menjawab.
+
+Ia memikirkan ini dengan sungguh-sungguh—bukan untuk memberi jawaban yang diinginkan sang Kiai, tapi benar-benar memikirkannya.
+
+"Saya akan masuk ke kamar mereka lebih dulu tanpa rotan," kata Salman akhirnya. "Hanya untuk memperkenalkan diri. Hanya untuk duduk di antara mereka dan bertanya siapa nama mereka, dari mana, ibunya ada di mana."
+
+Kyai Hasyim mendengarkan.
+
+"Saya akan belajar nama-nama mereka dulu. Sebelum belajar daftar pelanggaran mereka."
+
+Angin bergerak lagi dari taman kecil. Aroma kayu gaharu dari bejana tembaga mengalun tenang ke seluruh sudut serambi ndalem.
+
+Kyai Hasyim mengangguk.
+
+Bukan anggukan yang mengatakan *jawaban yang bagus.* Lebih seperti anggukan yang mengatakan *sekarang kamu sudah tahu caranya.*
+
+"Itulah awalnya," kata sang Kiai pelan.

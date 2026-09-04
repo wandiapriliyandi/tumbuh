@@ -1,87 +1,121 @@
 # Sub-Bab 4.2: Mutiara Fitrah yang Tak Berdosa
 
-Di serambi ndalem kediaman Kyai Hasyim, percakapan mendalam ba'da Subuh berlanjut memasuki inti doktrin antropologi dan psikologi Islam. Diskursus berpusat pada hakikat kesucian fitrah insani (*The Sacred Primordial Nature of the Soul*). Sinar matahari pagi semakin terang menyinari halaman rumput hijau ndalem yang basah oleh sisa embun fajar.
+Uap tipis beraroma kapulaga dan irisan jahe merah tua mengepul dari cangkir porselen putih berlis emas itu.
 
-Kyai Hasyim meraih teko keramik berukir kaligrafi doa di atas baki tembaga. Dengan gerakan tangan yang sangat anggun dan tenang, Kiai menuangkan secangkir teh jahe merah hangat yang mengepulkan aroma manis. Teh itu dituangkan ke dalam cangkir porselen putih di hadapan Salman.
+Kyai Hasyim meletakkan teko keramik kecil kembali ke atas baki kuningan beralas taplak sulam. Tangannya mantap, tanpa getar sedikit pun, meski kulit punggung tangannya telah memperlihatkan lipatan-lipatan halus usia tujuh puluhan tahun.
 
-$$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
+"Minumlah, Salman. Dari tadi nafasmu tertahan di dada."
 
-> *"Setiap anak dilahirkan di atas kesucian fitrah; maka kedua orang tuanya (lingkungan pendidiknya)-lah yang menjadikannya Yahudi, Nasrani, atau Majusi."* (HR. Bukhari no. 1385, Muslim no. 2658)
+Salman mengangguk pelan. Ia mengangkat cangkir itu dengan kedua telapak tangannya, merasakan panas yang merambat dari porselen ke buku-buku jarinya yang dingin.
 
-Uap aromatik jahe merah dan kapulaga seketika menyerbak ke udara, menenangkan suasana batin yang tegang. "Bismillah... Minumlah dulu teh jahe ini, Salman," dawuh Kiai dengan nada mengayomi.
+Rasa jahe yang pedas dan hangat menyengat lidahnya, lalu turun membasuh kerongkongannya yang kering. Di luar serambi, kabut tipis di antara dahan-dahan pohon sawo kecik mulai terurai oleh sapuan cahaya matahari yang kian meninggi.
 
-Salman mengangkat cangkir tersebut dengan kedua belah tangannya yang gemetar. Salman menundukkan kepala seraya mencicipi kehangatan teh yang menenteramkan dadanya. Kyai Hasyim membetulkan posisi duduk bersilanya di atas dampar kayu.
+Kyai Hasyim menatap dampar kayu di hadapannya. Jari-jarinya menyusuri tepi jilid kulit kambing kitab klasik yang masih terbuka sebagian.
 
-Kiai melafalkan sebuah hadits shahih riwayat Imam Al-Bukhari dan Imam Muslim dengan intonasi yang sangat khusyuk dan tartil:
+"Kiai masih ingat waktu kamu pertama kali diantar almarhum abahmu kemari, sebelas tahun lalu," kata sang ulama pelan. Suaranya seperti air sumur tua yang ditarik dengan timba kayu—dalam dan bergaung tenang. "Waktu itu kamu baru lulus madrasah ibtidaiyah. Kopermu terbuat dari seng hijau, dan kamu menangis di pelukan abahmu sampai maghrib."
+
+Salman tersenyum tipis, meski rongga dadanya terasa ngilu mengingat kenangan itu. "Koper seng itu masih ada di gudang, Kyai."
+
+"Kamu ingat apa yang Kiai katakan kepada abahmu waktu beliau menitipkan tangan kecilmu ke tangan Kiai?"
+
+Salman menggeleng pelan. Ingatannya tentang sore itu kabur oleh air mata perpisahan dan ketakutan akan dunia baru yang serba asing.
+
+"Kiai bilang: *Haji Mansur, anak ini datang ke sini bukan sepotong kayu mati yang perlu dipahat paksa menjadi patung.*" Kyai Hasyim memandang Salman lekat-lekat. "*Anak ini adalah mutiara hidup yang dititipkan Allah SWT. Tugas kami di sini bukan mencetak bentuk baru, melainkan mencuci debu-debu yang menempel agar kemilau aslinya tampak.*"
+
+Kata-kata itu jatuh ke dada Salman seperti tetesan embun yang menimpa kaca panas. Berdesir, lalu meresap ke lapisan kesadarannya yang paling dalam.
+
+Kyai Hasyim melafalkan sebuah hadits riwayat Imam Al-Bukhari dan Imam Muslim dengan tajwid yang fasih dan suara yang bening:
 
 $$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ، كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ؟}$$
 
-> *"Setiap anak yang dilahirkan ke muka bumi ini terlahir di atas fitrah kesucian tauhid dan potensi kebaikan. Maka kedua orang tuanyalah (dan para pendidik di sekitarnya) yang menjadikannya berkarakter Yahudi, Nasrani, atau Majusi. Sebagaimana binatang ternak melahirkan anaknya dalam keadaan utuh sempurna tanpa cacat, apakah engkau melihat ada telinganya yang terpotong sejak lahir?"*
+Kalimat Arab berirama itu menggantung di udara serambi yang hening beberapa jenak.
 
-Kyai Hasyim berhenti sejenak, membiarkan makna hadits agung tersebut meresap ke dalam akal dan kalbu Salman. Kiai menatap lurus ke dalam kedua bola mata Salman dengan pandangan yang menembus tirai kepura-puraan: "Salman...
+"Setiap anak yang dilahirkan, lahir di atas fitrah kesucian," Kyai Hasyim menerjemahkannya dengan nada lirih. "Lalu kedua orang tuanyalah—dan para pendidiknya—yang menjadikannya Yahudi, Nasrani, atau Majusi. Sebagaimana binatang ternak melahirkan anaknya dalam keadaan utuh sempurna, adakah kamu melihat ada telinga yang terpotong sejak lahir?"
 
-Apakah selama ini kamu memandang anak-anak asuhmu yang susah dibangunkan sholat Subuh atau malas piket itu sebagai anak-anak yang terlahir membawa benih kejahatan dan pembangkangan?" Salman menggelengkan kepalanya pelan dengan mata yang mulai berkaca-kaca. "Mboten, Kiai..." jawab Salman dengan suara tercekat.
+Salman menyimak. Tenggorokannya kembali tercekat.
 
-"Tentu tidak, Salman!" tegas Kyai Hasyim dengan suara mantap yang bergetar penuh keyakinan tauhid. "Di dalam akidah Islam yang hanif, tidak ada doktrin 'dosa warisan' (*Original Sin*) yang menyatakan bahwa manusia terlahir kotor, berdosa, dan terkutuk sejak lahir." "Setiap santri baru yang melangkahkan kakinya melewati gerbang pesantren kita membawa mutiara fitrah suci titipan Allah SWT."
+"Rasulullah shallallahu 'alaihi wa sallam menggunakan perumpamaan anak ternak yang lahir utuh, *jam'ā'*, tanpa cacat telinga, *jad'ā'*," lanjut Kyai Hasyim. "Telinga anak domba itu utuh ketika keluar dari rahim. Kalau kemudian telinganya robek atau terpotong, siapa yang memotongnya? Pemiliknya yang kasar, atau pisau peternak yang tidak sabar menandai ternaknya."
 
-Kiai menjelaskan bahwa fitrah anak memiliki tiga dimensi agung yang saling menguatkan: Dimensi pertama adalah **Fitrah Imaniyyah / Ilahiyyah**, yaitu kerinduan alami jiwa untuk mengenal, mencintai, dan menyembah Allah SWT. Dimensi kedua adalah **Fitrah Khuluqiyyah / Adabiyyah**, yaitu kecenderungan alami nurani untuk menyukai kejujuran, keadilan, kebersihan, dan kasih sayang sesama makhluk.
+Kiai Hasyim menggeser duduknya, merapatkan sorban putih yang melingkar di pundaknya.
 
-Dimensi ketiga adalah **Fitrah 'Aqliyyah & Jismiyyah**, yaitu potensi kecerdasan nalar, rasa ingin tahu yang tinggi, dan energi pertumbuhan fisik yang dinamis. "Ketika Farhan atau Danang terlambat bangun di waktu fajar," terang Kiai dengan penuh kearifan pedagogis. "Itu sama sekali bukan bukti bahwa fitrah iman mereka telah rusak atau mereka membangkang kepada Allah."
+"Di dalam akidah kita, Salman, tidak ada doktrin dosa warisan. Kita tidak memandang bayi manusia lahir dengan memikul kutukan nenek moyang."
 
-"Raga mereka terlambat bangun karena jasad biologis anak dua belas tahun sedang membutuhkan adaptasi hormon tidur sirkadian yang cukup." "Otot mereka lelah karena sistem kehidupan asrama kita belum mengatur jadwal istirahat yang manusiawi." "Dan mereka takut sholat bukan karena benci kepada Allah, melainkan karena gambaran sholat di kepala mereka telah tercemar oleh suara bentakan kasar dan sabetan rotan yang menakutkan!" Kiai menghela nafas panjang seraya menatap Salman dengan tatapan yang menyentuh sanubari: "Tugas agung seorang murabbi dan musyrif bukanlah datang sebagai algojo yang menghukum anak karena menganggap fitrah mereka rusak." "Tugas murabbi adalah menjadi penjaga dan penyiram mutiara fitrah tersebut." "Tugas kita adalah membersihkan debu-debu kelelahan agar cahaya fitrah mereka kembali bersinar terang benderang menyinari semesta." "Jika mutiara fitrah itu tertutup oleh kotoran kebiasaan buruk, jangan kamu pukul mutiara itu dengan palu besi hingga hancur!" "Ambillah kain sutra kelembutan, basuhlah dengan air kesabaran, dan gosoklah dengan keteladanan akhlak hingga kemilaunya terpancar kembali."
+Salman mengangguk. Pelajaran tauhid dasar itu sudah ia hafal sejak tsanawiyah.
 
-Salman menundukkan kepalanya dalam-dalam di atas karpet permadani ndalem. Air mata pencerahan mengalir deras membasahi kedua pipinya yang tirus. Konsep fitrah kenabian yang dijelaskan Kyai Hasyim membongkar seluruh paradigma kekerasan pengasuhan yang selama ini membelenggu pikirannya.
+"Tetapi anehnya," suara Kyai Hasyim melunak, namun bobot tegurannya justru semakin tajam, "di asrama kita bertahun-tahun, cara kita memperlakukan santri baru persis seperti orang yang percaya bahwa anak-anak itu lahir membawa dosa bawaan."
 
-Doktrin fitrah tersebut menggantikannya dengan kesadaran tauhid yang memuliakan martabat setiap jiwa santri di Pesantren Darul Adab. Salman berjanji di dalam hatinya untuk selalu memandang setiap santri dengan pandangan fitrah yang suci dan penuh kasih sayang. Salman menatap sang Kiai dengan mata yang berbinar penuh tekad baru.
+Salman terperanjat kecil. Ia menatap dampar kayu, tak kuasa membalas tatapan gurunya.
 
-Pagi itu, jiwa Salman telah terlahir kembali sebagai pendidik yang memandang fitrah sebagai mutiara terindah ciptaan Ilahi. Salman membungkukkan badannya, mencium lutut sang Kiai dengan penuh rasa takzim dan rasa syukur atas hidayah ilmu yang agung. Kyai Hasyim mengelus kepala Salman dengan penuh doa restu, mengokohkan langkah sang musyrif muda menyongsong era baru peradaban pesantren.
+"Kamu melihat anak dua belas tahun yang lambat bangun fajar, dan di kepalamu langsung muncul vonis: *anak ini pemalas, anak ini pembangkang, anak ini tidak menghargai waktu sholat.*"
 
-Kiai Hasyim tersenyum lembut sembari mengusap janggut putihnya. Sinar mentari pagi mulai menghangatkan sudut-sudut serambi ndalem yang tenang. Burung-burung pipit beterbangan riang di antara ranting pohon sawo kecik.
+Salman tidak membantah. Persis kalimat itu yang berputar di kepalanya setiap kali kakinya melangkah terburu-buru menyusuri koridor asrama pukul empat subuh.
 
-Salman menyimak setiap butir nasihat dengan dada yang bergetar penuh rasa syukur. Pencerahan fitrah ini menjadi lentera baru yang menerangi jalan pengabdiannya. Di kejauhan, sayup-sayup terdengar suara santri yang mulai berangkat menuju madrasah.
+"Padahal apa yang sebenarnya terjadi pada anak itu?" tanya Kyai Hasyim.
 
-Hari baru di Pesantren Darul Adab telah dimulai dengan kesadaran tauhid yang hakiki. Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+"Fisiknya... belum terbiasa, Kyai."
 
-Salman mendengarkan setiap patah kata sang Kiai dengan dada yang bergetar penuh keharuan. Di hadapan sang mahaguru sepuh, Salman merasa laksana seorang musafir dahaga yang baru saja menemukan telaga mata air zamzam di tengah padang pasir. Salman menyadari betapa kerdilnya metode kekerasan yang selama ini ia gunakan jika dibandingkan dengan samudra hikmah yang diajarkan oleh para ulama salaf.
+"Bukan cuma fisiknya," sergah Kyai Hasyim lembut. "Ada tiga lapis fitrah yang Allah titipkan pada anak-anak itu, dan kita sering kali buta terhadap ketiganya."
 
-Angin fajar berhembus lembut menggoyangkan tirai kain sutra di serambi ndalem kiai, mengalirkan aroma wangi bunga sedap malam yang sedang bermekaran. Cahaya fajar di ufuk timur mulai membiaskan semburat warna jingga keemasan yang menyejukkan mata. Suasana ndalem terasa sangat sakral dan diliputi oleh gelombang ketenangan spiritual yang mendalam.
+Kiai Hasyim mengangkat satu jarinya.
 
-Kiai Hasyim menuangkan kembali air teh jahe hangat ke dalam cangkir porselen putih di hadapan Salman. 'Salman, anakku...' dawuh Kiai dengan nada suara yang penuh kasih sayang kebapakan. 'Tugasmu di asrama bukanlah mematahkan tunas-tunas muda yang sedang bertumbuh, melainkan merawat dan menyiraminya dengan air kesabaran hingga mekar menjadi pohon yang berbuah manis.'
+"Lapis pertama: *Fitrah Imāniyyah*. Kerinduan primordial jiwa kepada Allah SWT. Sejak di alam rahim, ketika Allah bertanya *Alastu birabbikum*, ruh mereka telah menjawab serempak *Balā syahidnā*. Farhan, Danang, anak-anak asuhmu itu—ruh mereka tidak pernah membenci sujud. Mereka tidak pernah memusuhi adzan."
 
-Kiai menjelaskan bahwa setiap santri membawa potensi kebaikan fitrah yang suci sejak dilahirkan ke muka bumi. Tugas murabbi adalah membersihkan debu-debu kebiasaan buruk yang menutupi fitrah tersebut tanpa merusak wadah fitrahnya. Kekerasan hanya akan meretakkan wadah fitrah dan melahirkan kepribadian yang munafik dan penuh kepalsuan.
+Salman menghela napas panjang. Bayangan Farhan yang bersujud gemetar di sajadahnya tadi subuh kembali melintas di pelupuk matanya.
 
-Salman menundukkan kepalanya dalam-dalam, menyatukan kedua telapak tangannya di depan dada sebagai tanda taubat dan kesiapan untuk belajar. Salman berikrar di hadapan sang Kiai untuk menanggalkan seluruh metode kekerasan dan memimpin asrama dengan keteladanan akhlak kenabian. Kiai Hasyim tersenyum sangat teduh, memegang kepala Salman seraya melafalkan doa taufiq dan keberkahan.
+"Tetapi ketika sholat Subuh diperkenalkan melalui teriakan kasar, gedoran pintu seng, dan bayang-bayang rotan di lantai," kata Kyai Hasyim, suaranya sarat kepedihan, "fitrah iman itu tidak mati, Salman. Fitrah itu bersembunyi. Tertutup oleh rasa takut yang luar biasa."
 
-Di kejauhan, sayup-sayup terdengar suara santri-santri yang mulai melangkah beriringan menuju gedung madrasah untuk memulai pelajaran pagi. Wajah-wajah anak penuntut ilmu itu memancarkan harapan baru di bawah naungan fajar yang semakin terang. Serambi ndalem Kyai Hasyim pagi itu telah menjadi rahim tempat dilahirkannya manhaj baru pengasuhan peradaban di Pesantren Darul Adab.
+Kiai Hasyim mengangkat jari keduanya.
 
-Maha Suci Allah yang telah mempertemukan seorang murid yang mencari kebenaran dengan seorang mahaguru yang berhati samudra kasih sayang. Dari dialog fajar di serambi kayu jati ini, lentera adab telah dinyalakan untuk menerangi seluruh sudut komplek pesantren. Perjalanan menuju peradaban Insan Adabi telah resmi dimulai dengan basmalah yang suci dan penuh keikhlasan.
+"Lapis kedua: *Fitrah Khuluqiyyah*. Kompas moral alami. Setiap anak menyukai kejujuran, mendambakan rasa aman, dan merindukan kehangatan kasih sayang. Mereka tahu kapan seorang musyrif menegur karena cinta, dan kapan musyrif meledak karena kelelahan emosinya sendiri."
 
-Salman bangkit berdiri dari karpet permadani ndalem, mencium tangan Kyai Hasyim dengan segenap rasa takzim dan baktinya. Salman melangkah keluar ndalem dengan langkah kaki yang tegap, mantap, dan dipenuhi oleh cahaya keyakinan baru. Ia siap kembali ke asrama untuk memeluk dan mendampingi anak-anak asuhnya dengan segenap jiwa dan raganya.
+Salman memejamkan mata rapat-rapat. Kata-kata itu menusuk tepat ke bagian terdalam nuraninya yang paling perih.
 
-Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+Ia ingat pagi-pagi di mana ia membentak bukan demi menegakkan syariat, melainkan karena kepalanya berdenyut akibat kurang tidur dan perutnya perih belum terisi sarapan. Rotan itu bukan tongkat adab. Rotan itu adalah pelampiasan frustrasi seorang pemuda dua puluh empat tahun yang kehabisan daya.
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+"Lapis ketiga," sambung Kyai Hasyim sambil mengangkat jari ketiga, "*Fitrah Jismī-Biyūlūjī*. Raga biologis yang sedang mekar. Anak usia dua belas atau tiga belas tahun mengalami lonjakan pertumbuhan tulang dan otak yang sangat melelahkan. Jam biologis mereka, ritme sirkadiannya, menuntut tidur lelap yang cukup agar otaknya mampu menyerap hafalan."
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+Kyai Hasyim berhenti sejenak, membiarkan Salman merenungi kata demi kata.
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+"Lalu apa yang sistem asrama kita lakukan selama ini?" Kyai Hasyim menatap ke arah pelataran ndalem. "Kita menyuruh mereka tidur jam sebelas malam setelah ronda dan antre kamar mandi, lalu kita bangunkan jam tiga pagi dengan ancaman sabetan. Ketika tubuh mereka lemas dan mata mereka merah, kita cap mereka pemalas."
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Astaghfirullāh..." bisik Salman lirih. Kedua telapak tangannya menutup wajahnya.
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+"Kalau mutiara yang kamu temukan di dalam lumpur berlumur tanah hitam," Kyai Hasyim melanjutkan dengan tamsil yang memikat, "apa yang akan kamu perbuat dengan mutiara itu, Salman?"
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+Salman menurunkan tangannya perlahan. Matanya tampak memerah. "Mencucinya dengan air bersih, Kyai."
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+"Apakah kamu akan mengambil palu godam lalu memukul mutiara itu keras-keras supaya kotorannya rontok?"
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+"Mboten, Kyai. Kalau dipukul dengan palu, mutiaranya akan hancur lebur."
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+"Dan itulah yang kamu lakukan ketika kamu membawa rotan ke kamar mereka!" Suara Kyai Hasyim bergetar pelan. Tidak ada nada kemarahan, hanya kesedihan mendalam seorang pendidik sepuh. "Kekhilafan Farhan, kelambatan Danang, kantuknya anak-anak santri baru—itu hanyalah butiran debu tanah yang menempel di luar cangkang. Tetapi rotanmu, bentakanmu, kemarahanmu—itu adalah palu godam yang memecahkan mutiaranya!"
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+Keheningan seketika menyelimuti serambi ndalem.
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+Hanya suara desau angin pagi yang menggoyangkan pelepah pohon pisang di samping serambi, dan kokok ayam jago dari kejauhan yang memecah kesunyian.
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+Salman menundukkan wajahnya hingga keningnya hampir menyentuh ujung dampar kayu jati. Air matanya menetes, satu per satu, membasahi serat karpet permadani merah tua di hadapannya.
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+"Pagi itu saya merasa diri saya benar, Kyai," ucap Salman dengan suara parau yang bergetar. "Saya merasa sedang menegakkan disiplin para kiai terdahulu. Saya merasa sedang menjaga wibawa pondok."
+
+"Wibawa tidak pernah lahir dari ketakutan anak-anak, Salman," sahut Kyai Hasyim dengan ketenangan yang menenangkan gelombang badai di dada muridnya. "Ketakutan hanya melahirkan kepalsuan. Di depan rotanmu, mereka akan berbaris rapi. Di hadapan matamu, mereka akan menunduk patuh. Tetapi di belakang punggungmu, mereka akan belajar berbohong, belajar menyembunyikan luka, dan suatu saat kelak ketika mereka memegang tongkat itu, mereka akan memukulkannya kepada adik-adik kelas mereka dengan dendam yang berlipat ganda."
+
+Kyai Hasyim menghela napas panjang, lalu tersenyum sangat tipis.
+
+"Itulah lingkaran setan feodalisme yang selama ini meracuni asrama kita tanpa kita sadari. Kekerasan selalu beranak-pinak melahirkan kekerasan baru."
+
+Salman mengangkat kepalanya perlahan. "Apakah... apakah luka di hati anak-anak itu masih bisa disembuhkan, Kyai? Apakah Farhan masih bisa memaafkan saya?"
+
+Kyai Hasyim menatap murid mudanya dengan tatapan penuh kehangatan kebapakan.
+
+"Fitrah itu laksana mata air jernih di bawah lapisan tanah, Salman. Kamu bisa menutupnya dengan batu besar, kamu bisa menimbunnya dengan daun-daun kering, tetapi air itu tidak pernah hilang. Begitu kamu singkirkan batunya, air jernih itu akan kembali memancar ke permukaan."
+
+Kiai Hasyim mengulurkan tangannya, menyentuh pundak Salman yang gemetar.
+
+"Tugasmu sekarang bukan meratapi apa yang sudah lewat. Tugasmu adalah belajar menjadi tukang kebun yang mengerti sifat tanah dan benih."
+
+Kyai Hasyim menepuk pundak Salman dua kali, lalu perlahan bangkit dari posisi duduk bersilanya di depan dampar.
+
+"Ayo, berdiri," ajak Kiai Hasyim seraya melangkah ke arah pintu samping serambi. "Ikut Kiai ke halaman samping. Ada sesuatu yang ingin Kiai tunjukkan kepadamu sebelum para asatidz lain berkumpul."
+
+Salman menyeka sisa air matanya dengan lengan baju koko putihnya, lalu bergegas bangkit mengikuti langkah sang Kiai menuju halaman terbuka di balik rimbunnya dedaunan ndalem.

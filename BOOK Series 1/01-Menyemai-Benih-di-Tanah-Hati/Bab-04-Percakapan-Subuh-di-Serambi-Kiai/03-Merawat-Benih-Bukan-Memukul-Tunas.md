@@ -1,73 +1,129 @@
 # Sub-Bab 4.3: Merawat Benih Bukan Memukul Tunas
 
-Kyai Hasyim bangkit berdiri dari posisi duduk bersilanya di hadapan dampar kayu jati. Gerakan tubuh sang guru besar tampak sangat anggun, berwibawa, dan ringan laksana angin fajar. "Salman...
+Pintu kayu jati berukir di sisi serambi terbuka perlahan ke arah pekarangan samping.
 
-Mari ikut Kiai melangkah ke halaman samping ndalem," ajak Kyai Hasyim seraya tersenyum teduh. Salman segera bangkit dari duduk bersimpuhnya. Salman melangkah perlahan di belakang punggung sang Kiai dengan kepala tetap tertunduk tawadhu.
+Udara luar menyergap Salman seketika—lebih dingin, lebih lembap, sarat dengan bau tanah basah dan aroma pekat pupuk kandang yang telah matang terfermentasi.
 
-Mereka berdua melangkah melewati pintu samping serambi ndalem menuju sebuah taman pembibitan tanaman yang asri dan hijau. Di taman pembibitan tersebut, tersusun rapi puluhan polybag hitam berisi aneka bibit tanaman peradaban. Ada bibit-bibit pohon kurma Ajwa, bibit pohon tin, dan aneka tanaman bunga anggrek yang sedang mekar indah.
+Kyai Hasyim melangkah tanpa tergesa-gesa. Sandal bakiak kayunya menimbulkan bunyi *klotak-klotak* ritmis di atas deretan batu kali pipih yang ditata rapi membelah rerumputan hijau.
 
-Sinar matahari pagi menyinari butiran-butiran embun di atas pucuk-pucuk daun hijau. Embun itu menciptakan kilauan permata alami yang memesona di bawah birunya langit fajar. Kyai Hasyim menghentikan langkah kakinya tepat di samping sebuah polybag hitam kecil.
+Salman mengekor di belakang punggung kyainya dengan langkah pendek-pendek. Pandangannya tertuju pada ujung jubah abu-abu sang Kiai yang sesekali tersapu ujung dedaunan basah.
 
-Di dalam polybag tersebut, tampak sebuah tunas pohon kurma kecil yang baru saja berkecambah. Tunas itu baru tumbuh setinggi satu jengkal tangan anak-anak. Dua lembar helai daun mudanya yang berwarna hijau kekuningan tampak masih sangat tipis, halus, dan rapuh.
+Pekarangan samping ndalem itu ternyata adalah sebuah taman pembibitan yang luas dan terawat. Ratusan polybag hitam tersusun rapi di atas rak-rak bambu bertingkat dan di atas permukaan tanah yang diratakan dengan pasir kali.
 
-Kyai Hasyim berjongkok perlahan di samping polybag tunas kurma tersebut. Kiai memberi isyarat dengan tangannya agar Salman ikut berjongkok di sampingnya. Salman berjongkok di samping sang guru besar di atas hamparan rumput hijau yang basah oleh embun.
+Ada bibit pohon tin dengan daun berjari lima yang lebar, bibit zaitun yang daunnya keperakan, dan aneka tanaman obat tradisional seperti jahe gajah, temulawak, dan sereh wangi. Di bawah paranet hitam yang meneduhkan sinar matahari, beberapa pot anggrek tanah memperlihatkan kuncup-kuncup ungunya yang siap mekar.
 
-Kyai Hasyim menyentuh lembut pucuk helai daun muda tunas kurma tersebut dengan ujung jari telunjuknya yang bersih. "Salman... Perhatikanlah dengan seksama tunas pohon kurma yang baru tumbuh ini," tutur Kiai dengan suara yang sangat tenang dan mendalam.
+Kyai Hasyim menghentikan langkahnya di depan sebuah bedengan khusus yang dinaungi jaring bambu halus.
 
-"Tunas kecil ini membawa potensi genetik raksasa di dalam dirinya." "Suatu saat kelak, tunas ini bisa tumbuh menjadi pohon kurma raksasa yang batangnya kokoh menjulang ke langit." "Akarnya akan menancap kuat ke perut bumi, dan buahnya yang manis akan menaungi serta mengenyangkan ribuan kafilah musafir yang kehausan di padang pasir." Salman mengangguk takzim menyimak tamsil peradaban tersebut. Kyai Hasyim menatap mata Salman dengan tatapan yang tiba-tiba mengeras penuh ketegasan filosofis: "Sekarang, Kiai ingin bertanya kepadamu, Salman..."
+"Kemari, Salman," panggil Kiai Hasyim tanpa menoleh. "Lihat ini."
 
-"Seandainya suatu pagi kamu melihat ada seekor ulat daun kecil atau seekor semut hitam hinggap di pucuk daun muda tunas kurma ini..." "Lalu karena kamu ingin mengusir ulat tersebut, kamu mengambil sebatang kayu balok besar atau sebilah tongkat rotan besi..." "Lalu kamu hantamkan sekeras-kerasnya kayu tersebut ke pucuk tunas kurma ini..." "Kiai bertanya: apa yang akan terjadi dengan tunas pohon kurma ini, Salman?" Salman tertegun kaku. Nafasnya tercekat di tenggorokan, dan wajahnya seketika pucat pasi menyadari arah perumpamaan tersebut.
+Salman mendekat, lalu ikut membungkukkan tubuhnya sedikit saat sang Kiai perlahan berjongkok di samping sebuah polybag hitam berukuran sedang.
 
-"Tu-tunas pohon kurma itu akan patah hancur berkeping-keping dan mati membusuk di tanah, Kiai..." jawab Salman dengan suara yang gemetar hebat. "Tepat sekali, Salman!" seru Kyai Hasyim dengan suara berbobot yang menggetarkan seluruh rongga dada pemuda itu. "Tunas itu akan mati dan tidak akan pernah menjadi pohon kurma selamanya!"
+Di dalam kantong plastik hitam itu, menyembul sebatang tunas tanaman kurma Ajwa yang baru saja merekah dari bijinya. Tingginya baru sejangkauan telapak tangan terbuka. Dua helai daun pertamanya berwarna hijau muda pucat, sangat tipis dan halus seperti selaput sayap capung, dengan urat-urat daun yang tampak ringkih di bawah terpaan sinar fajar.
 
-Kyai Hasyim menatap Salman dengan tatapan kasih sayang yang menghunjam sanubari: "Dan itulah dosa metodologi terbesar yang selama bertahun-tahun telah kita lakukan di asrama pesantren ini, Salman!" "Anak-anak asuhmu yang berusia dua belas tahun itu adalah tunas-tunas peradaban yang baru tumbuh dari tanah fitrah." "Ketika mereka melakukan sedikit kekhilafan adab—seperti lupa merapikan sandal, mengantuk di sholat Subuh, atau bercanda di kamar—itu hanyalah laksana ulat kecil yang hinggap di pucuk daun." "Namun apa yang kamu lakukan sebagai pengasuh?" "Kamu datang dengan membawa kemarahan membabi buta, kamu membawa tongkat rotan kuning, kamu membawa gedoran pintu seng, dan kamu memukul tunas-tunas jiwa mereka sekeras-kerasnya!" "Kamu mungkin merasa puas karena ulat perilakunya hilang sesaat, namun kamu tidak sadar bahwa kamu telah mematahkan batang fitrah, mematikan rasa percaya diri, dan membunuh gairah cinta ilmu di dalam jiwa mereka untuk selama-lamanya!" Salman tersungkur bersimpuh di atas tanah taman ndalem di samping polybag kurma tersebut. Kedua tangannya mencengkeram rumput basah, air mata penyesalannya tumpah membasahi tanah bumi pesantren.
+Kyai Hasyim mengulurkan jari telunjuknya. Sangat perlahan, seolah takut menghembuskan napas terlalu kuat, ujung jarinya menyentuh lembut tepi helai daun muda itu.
 
-Kyai Hasyim mengambil sebuah botol semprot kecil berisi air bersih yang telah dicampur pupuk organik cair dari atas rak kayu. Dengan gerakan tangan yang sangat lembut dan penuh kasih, Kiai menyemprotkan kabut air halus tersebut ke pangkal batang dan akar tunas kurma kecil itu: "Seorang petani peradaban yang sejati mendidik dengan kesabaran dan kelembutan, Salman."
+"Ini tunas kurma Ajwa dari Madinah, Salman. Kiai menanam bijinya empat puluh hari yang lalu."
 
-"Ia tidak memukul tunasnya; ia menyiram akarnya dengan air doa di keheningan malam." "Ia memberi pupuk pemahaman dan keteladanan yang bergizi." "Dan ia memagari bibit itu dengan aturan disiplin yang kokoh dari terpaan angin badai pergaulan yang merusak." Kyai Hasyim meletakkan botol semprot tersebut, lalu mengulurkan kedua tangannya merengkuh tubuh Salman yang sedang terisak di atas tanah. Kiai membimbing murid mudanya itu bangkit berdiri dan mendekapnya dalam pelukan kehangatan seorang mahaguru sejati: "Salman...
+Salman menatap tunas kecil itu. Di sekeliling pangkal batangnya yang cokelat kehijauan, butiran embun berkilau seperti manik-manik kaca di atas remah-remah tanah kompos.
 
-Hari ini kita kubur selamanya tongkat rotan kekerasan itu di pesantren ini." "Mulai hari ini, mari kita bersama-sama menjadi petani fitrah yang merawat benih-benih surga ini hingga mereka tumbuh menjadi pohon peradaban yang kokoh dan berbuah manis untuk kejayaan Islam dan kemanusiaan." Ustadz Salman mendekap tubuh sang guru besar dengan cucuran air mata taubat nasuha. Salman berjanji di hadapan Allah SWT untuk mengabdikan sisa hidupnya sebagai murabbi sejati yang mendidik dengan cinta, hikmah, dan keteladanan akhlak kenabian. Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+"Tunas sekecil ini," tutur Kyai Hasyim pelan, tatapannya lekat pada pucuk daun, "membawa rahasia pohon raksasa di dalam dirinya. Suatu saat nanti, kalau ia dijaga dengan benar, batangnya akan tumbuh kokoh setinggi dua belas meter. Daun-daun pelepahnya akan merentang menaungi peziarah, dan tandan buahnya yang manis akan memberi makan ratusan orang lapar di tengah padang pasir."
 
-Salman mendengarkan setiap patah kata sang Kiai dengan dada yang bergetar penuh keharuan. Di hadapan sang mahaguru sepuh, Salman merasa laksana seorang musafir dahaga yang baru saja menemukan telaga mata air zamzam di tengah padang pasir. Salman menyadari betapa kerdilnya metode kekerasan yang selama ini ia gunakan jika dibandingkan dengan samudra hikmah yang diajarkan oleh para ulama salaf.
+Salman mengangguk takzim. "Nggih, Kyai."
 
-Angin fajar berhembus lembut menggoyangkan tirai kain sutra di serambi ndalem kiai, mengalirkan aroma wangi bunga sedap malam yang sedang bermekaran. Cahaya fajar di ufuk timur mulai membiaskan semburat warna jingga keemasan yang menyejukkan mata. Suasana ndalem terasa sangat sakral dan diliputi oleh gelombang ketenangan spiritual yang mendalam.
+Kyai Hasyim menarik tangannya dari pucuk daun kurma, lalu menoleh dan menatap wajah Salman tepat di manik matanya. Tatapan teduh sang kiai tiba-tiba berubah sangat tajam, menuntut kejujuran mutlak dari kedalaman batin muridnya.
 
-Kiai Hasyim menuangkan kembali air teh jahe hangat ke dalam cangkir porselen putih di hadapan Salman. 'Salman, anakku...' dawuh Kiai dengan nada suara yang penuh kasih sayang kebapakan. 'Tugasmu di asrama bukanlah mematahkan tunas-tunas muda yang sedang bertumbuh, melainkan merawat dan menyiraminya dengan air kesabaran hingga mekar menjadi pohon yang berbuah manis.'
+"Sekarang bayangkan ini, Salman."
 
-Kiai menjelaskan bahwa setiap santri membawa potensi kebaikan fitrah yang suci sejak dilahirkan ke muka bumi. Tugas murabbi adalah membersihkan debu-debu kebiasaan buruk yang menutupi fitrah tersebut tanpa merusak wadah fitrahnya. Kekerasan hanya akan meretakkan wadah fitrah dan melahirkan kepribadian yang munafik dan penuh kepalsuan.
+Salman menahan napasnya.
 
-Salman menundukkan kepalanya dalam-dalam, menyatukan kedua telapak tangannya di depan dada sebagai tanda taubat dan kesiapan untuk belajar. Salman berikrar di hadapan sang Kiai untuk menanggalkan seluruh metode kekerasan dan memimpin asrama dengan keteladanan akhlak kenabian. Kiai Hasyim tersenyum sangat teduh, memegang kepala Salman seraya melafalkan doa taufiq dan keberkahan.
+"Suatu pagi kamu datang ke bedengan ini," kata Kyai Hasyim dengan suara datar namun penuh tekanan makna. "Dan kamu melihat seekor ulat jengkal kecil yang rakus sedang merayap di pucuk tunas kurma ini. Ulat itu menggigit sedikit ujung daun mudanya yang baru mekar."
 
-Di kejauhan, sayup-sayup terdengar suara santri-santri yang mulai melangkah beriringan menuju gedung madrasah untuk memulai pelajaran pagi. Wajah-wajah anak penuntut ilmu itu memancarkan harapan baru di bawah naungan fajar yang semakin terang. Serambi ndalem Kyai Hasyim pagi itu telah menjadi rahim tempat dilahirkannya manhaj baru pengasuhan peradaban di Pesantren Darul Adab.
+Salman mendengarkan dengan seksama, mencoba menebak ke mana arah tamsil gurunya.
 
-Maha Suci Allah yang telah mempertemukan seorang murid yang mencari kebenaran dengan seorang mahaguru yang berhati samudra kasih sayang. Dari dialog fajar di serambi kayu jati ini, lentera adab telah dinyalakan untuk menerangi seluruh sudut komplek pesantren. Perjalanan menuju peradaban Insan Adabi telah resmi dimulai dengan basmalah yang suci dan penuh keikhlasan.
+"Lalu," sambung Kyai Hasyim, suaranya sedikit meninggi, "karena kamu ingin sekali mengusir ulat itu, karena kamu tidak ingin tunas kurma itu diganggu hama, kamu lari ke gudang."
 
-Salman bangkit berdiri dari karpet permadani ndalem, mencium tangan Kyai Hasyim dengan segenap rasa takzim dan baktinya. Salman melangkah keluar ndalem dengan langkah kaki yang tegap, mantap, dan dipenuhi oleh cahaya keyakinan baru. Ia siap kembali ke asrama untuk memeluk dan mendampingi anak-anak asuhnya dengan segenap jiwa dan raganya.
+Jeda satu detik terasa begitu panjang di antara mereka.
 
-Kyai Hasyim memandang kitab Ihya' Ulumiddin di atas dampar kayunya dengan tatapan penuh rasa takzim. Lembaran-lembaran kitab klasik bertinta kuning tua itu memuat intisari hikmah tazkiyatun nafs yang telah membimbing jutaan penuntut ilmu selama berabad-abad. Kiai menjelaskan kepada Salman bahwa membersihkan hati dari sifat takabur dan amarah adalah syarat mutlak bagi masuknya nur hidayah ke dalam kalbu.
+"Kamu mengambil sebatang kayu balok besar. Atau kamu mengambil sebilah rotan kuning yang tebal." Kyai Hasyim menatap mata Salman tanpa berkedip. "Lalu dengan segenap kemarahanmu pada ulat itu, kamu ayunkan rotan itu sekeras-kerasnya dan kamu hantamkan tepat ke pucuk daun tunas kurma ini!"
 
-Di luar bilik asrama, angin sepoi-sepoi pegunungan berhembus lembut membawa aroma tanah basah dan kesegaran embun pagi. Langkah-langkah kaki para penuntut ilmu terdengar berderap teratur dan penuh semangat meniti tangga kemandirian adab. Farhan dan kawan-kawannya menyadari bahwa setiap detik waktu di pesantren adalah ladang amal shalih yang sangat berharga di hadapan Allah SWT.
+Jantung Salman terasa mencelap. Darahnya seketika berdesir dingin sampai ke ujung-ujung jari tangannya.
 
-Di luar jendela asrama, angin malam berhembus lembut membawa aroma wangi bunga sedap malam yang sedang mekar di samping masjid. Suara gesekan dedaunan pohon trembesi tua berpadu dengan gemercik air kolam wudhu di lantai bawah. Farhan memandang ke arah langit malam yang bertabur bintang sembari merenungkan betapa agungnya karunia hidayah ilmu yang Allah anugerahkan kepadanya.
+"Kiai bertanya kepadamu, Musyrif Salman: apa yang akan terjadi dengan tunas kurma ini setelah kamu hantam dengan rotanmu?"
 
-Danang merapikan lipatan sarung sholatnya di atas kasur busa dengan gerakan yang sangat hati-hati dan teliti. Danang menoleh ke arah Farhan sembari tersenyum tulus memperlihatkan deretan giginya yang putih. 'Farhan... Terima kasih ya sudah mau menemaniku belajar tajwid tadi sore. Sekarang aku sudah tidak takut lagi kalau disuruh membaca Al-Qur'an di depan halaqah.'
+Lidah Salman terasa kaku, tertahan di langit-langit mulutnya. Dadanya sesak seperti dihimpit batu besar.
 
-Farhan tersenyum hangat menyambut perkataan sahabatnya, lalu menepuk pundak Danang dengan penuh kasih sayang seorang saudara. 'Kita belajar bersama, Danang... Mas Zaid selalu berpesan bahwa ilmu itu akan semakin bertambah berkah jika kita saling mengajarkan dan saling menguatkan dalam kebaikan.'
+"Tu... tunasnya akan patah, Kyai," bisik Salman. Suaranya hampir tenggelam dalam desau angin kebun.
 
-Di ranjang susun seberang, Faisal sedang duduk bersandar sembari membersihkan kacamata bacanya dengan kain flanel lembut. Faisal menatap kedua adik kelasnya itu dengan pandangan mata yang dipenuhi rasa hormat dan persaudaraan. Faisal menyadari bahwa kebersamaan di bilik Kamar Al-Farabi telah mengubah jalan hidupnya dari seorang pemarah menjadi pemuda yang mencintai kedamaian.
+"Hanya patah?" kejar Kyai Hasyim tajam.
 
-Ilham melangkah masuk ke dalam kamar sembari membawa teko air hangat dari dapur umum pesantren. Dengan senyuman ceria di wajah bulatnya, Ilham menuangkan air hangat ke dalam cangkir-cangkir kayu milik kawan-kawan sekamarnya. 'Ayo kawan-kawan, minum air hangat dulu sebelum tidur agar badan kita tetap bugar saat bangun tahajjud nanti,' tutur Ilham dengan ramah.
+"Hancur... remuk sampai ke pangkal batangnya, Kyai. Dan... tunas itu akan mati membusuk di tanah."
 
-Aroma teh sereh hangat buatan Ilham seketika menyeruak memenuhi udara kamar yang sejuk. Anak-anak Kamar Al-Farabi berkumpul melingkar di atas karpet lantai menikmati minuman hangat sembari bertukar cerita tentang pengalaman belajar mereka hari ini. Tawa riang dan canda santun menghangatkan suasana malam di bilik asrama.
+"Tepat!" seru Kyai Hasyim, dan kali ini suaranya bergetar dengan getaran yang membuat seluruh bulu kuduk Salman meremang. "Tunas itu akan mati! Ulatnya mungkin mati atau terlempar, tetapi tunas kurmanya mati bersamanya!"
 
-Pintu kamar diketuk perlahan sebanyak tiga kali dengan irama yang lembut dan menenangkan: Tok... Tok... Tok. Ustadz Salman melangkah masuk sembari tersenyum ramah menyapa seluruh santri di kamar. 'Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria peradaban... Apakah semua perlengkapan madrasah untuk besok pagi sudah disiapkan di meja masing-masing?'
+Kyai Hasyim bangkit berdiri. Tubuh sepuh sang ulama menjulang di hadapan Salman yang masih berjongkok kaku di atas tanah basah.
 
-Anak-anak serentak menjawab salam ustadz mereka dengan kompak dan penuh rasa takzim: 'Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman! Semua sudah rapi dan siap di atas meja!' Ustadz Salman tersenyum bangga melihat kerapian kamar standar 5S yang terjaga dengan sangat konsisten.
+"Dan itulah yang selama ini kamu lakukan di asrama santri baru, Salman!"
 
-Ustadz Salman berjongkok di samping lingkaran santri, lalu mengajak mereka membaca doa kaffaratul majlis dan ayat kursi bersama-sama sebelum tidur. Suara lantunan doa yang syahdu mengalun pelan memecah keheningan malam, mengundang kedamaian para malaikat untuk menaungi ruangan tersebut.
+Kata-kata itu menghantam batin Salman seperti halilintar di pagi hari yang cerah.
 
-Seusai berdoa, Ustadz Salman mengusap kepala Farhan dan Danang seraya membisikkan doa keberkahan di telinga mereka: 'Tidurlah dengan tenang anak-anakku... Semoga Allah menjaga mimpi kalian dan membangunkan kalian fajar nanti dalam keadaan sehat wal afiat.'
+"Farhan, Danang, anak-anak santri kelas tujuh yang baru dua pekan berpisah dari pelukan ibunya—mereka adalah tunas-tunas muda peradaban yang baru merekah dari tanah fitrah!" Kyai Hasyim menunjuk ke arah asrama di kejauhan. "Ketika mereka mengantuk saat sholat Subuh, ketika sandal mereka berserakan di depan pintu, ketika mereka menangis di pojok lemari karena rindu rumah—itu hanyalah ulat kecil yang hinggap di pucuk daun!"
 
-Ustadz Salman melangkah keluar kamar dan memadamkan lampu utama, menyisakan lampu tidur temaram yang menenteramkan. Farhan merebahkan tubuhnya di atas kasur, menarik selimut birunya, dan memejamkan kedua matanya dengan hati yang dipenuhi rasa syukur yang mendalam.
+Salman menundukkan kepalanya dalam-dalam. Lututnya lemas, menyentuh tanah kebun yang basah.
 
-Di keheningan malam Pesantren Darul Adab yang bersahaja, tanah hati para santri telah mekar subur disirami oleh air cinta, adab, dan ukhuwah Islamiyyah yang tulus. Mereka tertidur lelap menyongsong fajar baru peradaban yang gilang-gemilang di jalan Allah SWT.
+"Ulat itu adalah bagian dari proses pertumbuhan," lanjut Kyai Hasyim dengan suara yang kian dalam. "Mereka belum pernah hidup mandiri. Otak dan otot mereka sedang berjuang beradaptasi dengan ritme hidup yang serba baru. Kekhilafan mereka adalah kewajaran manusiawi anak usia dua belas tahun."
+
+Kyai Hasyim berhenti sejenak, membiarkan napasnya teratur kembali.
+
+"Tetapi kamu datang membawa kepongahan penegak hukum. Kamu membawa bentakan yang memekakkan telinga. Kamu membawa rotan yang mendesis di udara dan kamu hantamkan ke jiwa anak-anak itu!"
+
+Air mata Salman tak lagi bisa dibendung. Menetes deras jatuh ke remah-remah tanah hitam di samping polybag tunas kurma.
+
+"Kamu bangga melihat mereka melompat dari tempat tidur karena takut padamu," kata Kyai Hasyim pelan, nadanya berubah menjadi bisikan pilu. "Kamu merasa telah berhasil mendisiplinkan mereka. Padahal sesungguhnya, kamu telah mematahkan pucuk keberanian mereka. Kamu telah mematikan rasa percaya diri mereka. Dan kamu telah menanamkan racun ketakutan yang akan membuat jiwa mereka kerdil seumur hidup."
+
+Salman tersungkur. Kedua telapak tangannya mencengkeram tanah lembap di bawah rak bibit. Bahunya berguncang hebat oleh isak tangis yang tertahan di tenggorokan.
+
+"Ampun, Kyai... Ampuni kebodohan saya..." ratap Salman dengan suara tercekat. "Saya berdosa... Saya benar-benar tidak paham apa yang selama ini saya perbuat kepada anak-anak itu..."
+
+Kyai Hasyim memandang muridnya yang sedang menangis di atas tanah. Tidak ada kemarahan di wajah sang kiai sepuh, melainkan kelegaan seorang guru yang melihat kesombongan muridnya akhirnya rontok berkeping-keping di hadapan kebenaran.
+
+Kiai Hasyim meraih sebuah botol semprot kuningan kecil dari atas rak bambu di dekatnya. Botol semprot itu berisi air bersih yang telah dicampur air rendaman daun mimba dan perasan kapur sirih—ramuan pengusir hama organik warisan leluhur.
+
+Kiai Hasyim berjongkok kembali di sisi Salman.
+
+Dengan gerakan tangan yang sangat terukur dan lembut, Kyai Hasyim memompa tuas botol semprot itu. Kabut air halus menyeruak keluar, berdesis pelan, menyelimuti helai daun muda dan membasuh pangkal akar tunas kurma Ajwa itu tanpa menggeser sebutir pun tanah di sekitarnya.
+
+"Seorang petani sejati tidak membawa palu ke kebunnya, Salman," bisik Kyai Hasyim di dekat telinga Salman. "Seorang petani merawat tunas dengan kelembutan. Ia tahu kapan harus menyiram, kapan harus memangkas dengan pisau bedah yang halus, dan kapan harus membiarkan tunas itu bergoyang dihembus angin agar batangnya menjadi liat."
+
+Kyai Hasyim meletakkan botol semprot itu kembali ke rak.
+
+Lalu dengan kedua tangannya yang hangat dan kokoh, sang kiai memegang kedua pundak Salman. Perlahan namun bertenaga, Kiai Hasyim membimbing musyrif muda itu untuk mengangkat kepalanya dan bangkit berdiri.
+
+"Hari ini, di depan tunas kurma ini, Kiai minta satu hal darimu."
+
+Salman menyeka air mata di pipinya yang kotor oleh tanah. Ia menatap wajah gurunya dengan mata yang sembab.
+
+"Nggih, Kyai... Apa pun dawuh Kiai, saya laksanakan."
+
+"Kembalilah ke pos jaga asramamu," dawuh Kyai Hasyim dengan ketegasan yang penuh wibawa kenabian. "Ambil rotan kuning yang selama ini kamu gantung di samping pintu piket."
+
+Salman menahan napas.
+
+"Patahkan rotan itu dengan kedua tanganmu di depan pos, lalu masukkan ke dalam tungku pembakaran sampah dapur."
+
+Dada Salman bergetar kencang. Ia mengangguk mantap tanpa ragu sedikit pun. "Nggih, Kyai. Pagi ini juga saya bakar rotan itu."
+
+Kyai Hasyim tersenyum. Sinar matahari pagi yang menembus sela-sela paranet bambu kini menerangi senyum sang kiai dengan cahaya keemasan yang hangat.
+
+"Mulai hari ini, kita tidak lagi mengasuh santri dengan ketakutan. Kita akan mengasuh mereka dengan cinta, kesabaran, dan ilmu yang sahih."
+
+Kiai Hasyim melangkah kembali ke arah serambi ndalem, mengajak Salman berjalan bersisian dengannya.
+
+"Dan untuk membekalimu dengan ilmu itu," kata Kyai Hasyim sambil melirik jam dinding kayu di serambi yang sudah menunjukkan pukul tujuh lewat seperempat, "Kiai sudah mengundang seseorang yang mengerti rahasia kerja saraf dan otak anak-anak."
+
+Salman menoleh dengan rasa ingin tahu yang besar.
+
+"Dokter Arief Rahman," lanjut Kyai Hasyim sembari menunjuk sebuah mobil sedan hitam yang baru saja berbelok perlahan memasuki pelataran ndalem. "Alumni kita yang sekarang menjadi dokter spesialis saraf di rumah sakit pusat. Ia datang pagi ini khusus untuk membantumu memahami apa yang sebenarnya terjadi di dalam kepala Farhan saat kamu membentaknya."
+
+Pintu sedan hitam itu terbuka, dan seorang pria berkacamata dengan baju batik lengan panjang melangkah keluar sambil membawa tas kerja kulit cokelat.
+
+Salman menatap sosok dokter itu dengan dada yang dipenuhi harapan baru yang belum pernah ia rasakan sebelumnya. Pagi itu, tanah hati sang musyrif telah siap menerima benih ilmu yang akan mengubah jalannya sejarah pengasuhan di Pesantren Darul Adab selamanya.
