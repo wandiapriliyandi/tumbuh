@@ -1,197 +1,123 @@
 # Sub-Bab 3.2: Bisikan Ustadz Ridwan
 
-Pintu pos jaga terbuka tanpa diketuk.
+Pintu pos jaga asrama berderit pelan saat terdorong membuka ke dalam tanpa didahului suara ketukan yang mengejutkan. Hawa dingin malam seketika menyelinap masuk bersama desau angin, namun cara pintu itu digeser memperlihatkan kehati-hatian seorang sahabat yang tidak ingin mengusik kesunyian yang rapuh. Dari balik remang pintu kayu, melangkah masuk sesosok tubuh tegap yang membawa sebuah baki kayu bersahaja yang ditutupi selembar daun pisang segar yang masih basah oleh embun pegunungan.
 
-Bukan secara keras—perlahan, dengan cara orang yang tidak ingin mengagetkan. Sebuah sosok masuk dengan membawa baki kayu kecil yang ditutup daun pisang segar di atasnya.
+Salman mengangkat kepalanya perlahan dari atas meja piket yang berdebu, menatap sosok yang baru tiba dengan pandangan mata yang merah dan berat. Di ambang pintu berdiri Ustadz Ridwan, konselor senior pesantren sekaligus sahabat karibnya sejak masa belajar di ma'had 'aly. Pria berusia tiga puluh tahun itu mengenakan jubah abu-abu sederhana yang dilapisi jaket wol tebal, dengan syal rajut hijau tua melilit lehernya yang sudah mulai berbulu di bagian tepiannya. Di atas baki kayu yang dibawanya, tampak sebuah poci keramik tanah liat hitam yang mengepulkan uap putih harum menari-nari di udara.
 
-Salman mengangkat kepalanya dari atas meja.
+Dari uap hangat yang membubung tersebut, mengalir aroma rempah yang teramat khas dan seketika menyergap indra penciuman Salman sebelum baki itu sempat diletakkan di meja. Bau wangi batang serai yang dimemarkan bercampur dengan sengatan pedas jahe merah bakar, aroma manis kayu manis, dan semerbak hangat kuntum cengkih kering. Racikan wedang uwuh khas pesantren itu mengalir laksana penawar duka, seketika membangkitkan ingatan Salman pada masa-masa santai di serambi asrama bertahun-tahun silam.
 
-Ustadz Ridwan.
+"Duduk saja, Salman, jangan merepotkan diri untuk bangkit," tutur Ridwan dengan nada suara yang teramat lembut tatkala melihat sahabatnya itu bersiap berdiri untuk menyambutnya. "Malam ini biarkan aku yang melayanimu di bilik pos jaga ini." Ridwan melangkah mendekat dengan langkah tanpa alas kaki yang nyaris tak bersuara di atas lantai semen. Senyum tipis yang tersungging di bibirnya memancarkan keteduhan seorang abang yang datang bukan untuk menghakimi, melainkan merangkul jiwa yang sedang remuk.
 
-Pria tiga puluh tahun itu mengenakan jubah abu-abu yang dilapisi jaket wol, dan di lehernya syal hijau tua yang sudah mulai berbulu di tepinya. Di atas baki, ada poci keramik tanah liat yang mengepulkan uap—dan dari uap itu mengalir sesuatu yang Salman kenali sebelum ia bisa melihat warna cairan di dalamnya.
+Ridwan meletakkan baki kayu itu di sudut meja yang kosong, lalu menggeser buku register pelanggaran bersampul hitam tebal ke samping dengan gerakan yang sangat berhati-hati dan teratur. Ia tidak mengambil kursi kepala pembina di belakang meja, melainkan menarik sebuah kursi kayu rotan yang tersandar di sudut dinding bilik. Ia meletakkan kursi itu tepat di hadapan Salman—memilih posisi duduk yang sejajar berhadapan, bukan dalam relasi hierarki antara atasan dan bawahan, melainkan dua orang sahabat yang setara dalam memikul amanah pengabdian.
 
-Serai. Jahe merah. Cengkih. Kayu manis.
+Setelah duduk dengan tenang, jemari Ridwan menuangkan cairan merah kecokelatan dari poci keramik ke dalam dua cangkir enamel bermotif loreng hijau. Uap wedang rempah mengepul tebal saat cairan panas itu menyentuh dasar cangkir, menghadirkan suara gemercik halus yang menenangkan batin. Tanpa mengeluarkan sepatah kata pun, Ridwan mengangsurkan salah satu cangkir tepat ke hadapan Salman, sementara cangkir lainnya ia dekap dengan kedua telapak tangannya sendiri.
 
-Aroma itu menghantam hidung Salman sebelum Ridwan sempat meletakkan baki.
+Salman menyambut cangkir enamel tersebut dengan kedua belah tangannya yang masih dingin membeku. Kehangatan logam cangkir seketika meresap melalui pori-pori kulit telapak tangannya yang kasar, menghantarkan aliran nyaman yang telah berminggu-minggu hilang dari raganya. Ia tidak langsung meneguknya; ia membiarkan uap rempah membelai wajahnya yang lelah dan menikmati sensasi hangat yang perlahan-lahan mencairkan rasa kaku di jemarinya.
 
-"Duduk saja," kata Ridwan pelan waktu Salman hendak berdiri. "Jangan repot."
+Ridwan menyesap wedang jahenya perlahan-lahan dengan penuh penghayatan, tidak menunjukkan ketergesaan sedikit pun dalam gerak-geriknya. Dari sikap tubuhnya, tampak jelas bahwa ia telah membulatkan tekad untuk menemani sahabatnya itu melewati sisa malam hingga fajar merekah di ufuk timur. Pandangan matanya yang tenang menatap Salman dengan keteduhan seorang pembimbing jiwa yang mengerti betul batas-batas kerapuhan manusiawi.
 
-Ridwan meletakkan baki di sudut meja yang kosong, menggeser buku pelanggaran bersampul hitam ke samping secara hati-hati. Ia mengambil kursi yang tersandar di sudut dinding dan meletakkannya di depan meja Salman—bukan di belakang meja, bukan di posisi superior. Sejajar.
+Keheningan yang damai membungkus ruang pos jaga selama beberapa menit berikutnya di tengah derit tiang-tiang kayu. Di luar bilik, hembusan angin kencang menerpa dinding tripleks lapuk, sementara di kejauhan terdengar suara katak bersahut-sahutan di selokan belakang dapur umum asrama. Tiada suara bentakan, tiada ketukan sepatu lars; malam itu hanya diisi oleh desau alam dan hangatnya kepulan wedang rempah.
 
-Lalu ia duduk.
+Salman mengangkat cangkir ke bibirnya, lalu menyesap wedang jahe itu dengan tarikan nafas pelan. Sengatan pedas jahe merah dan manisnya gula aren seketika menyebar hangat dari rongga mulutnya, membasahi kerongkongannya yang kering, lalu merayap turun menghangatkan ruang dadanya yang sempat membeku. Kehangatan rempah itu seolah menemukan jalannya sendiri menuju sudut-sudut batinnya yang didera keletihan kronis, melonggarkan himpitan sesak yang sejak semalam mencengkeram ulu hatinya.
 
-Ia menuangkan teh ke dalam dua cangkir enamel tanpa berkata apa-apa. Mendorong satu ke arah Salman. Mengambil yang satunya untuk dirinya sendiri.
+"Di keningmu masih ada bekas debu semen yang menempel melingkar," ucap Ridwan akhirnya memecah keheningan dengan tatapan matanya yang tertuju lembut ke arah dahi Salman. "Aku tahu betul bagaimana dinginnya lantai semen pos jaga ini saat disentuh oleh kening yang sedang terbakar oleh beban jiwa." Ridwan tidak menambahkan kalimat penghakiman atau pertanyaan interogatif. Ia hanya menyampaikan pengamatan itu dengan nada pengakuan yang tulus dan menyejukkan sanubari.
 
-Salman menerima cangkir itu dengan kedua tangan.
+Salman tanpa sadar menyentuh keningnya sendiri dengan ujung jemarinya, merasakan butiran debu halus yang telah mengering bersama sisa air matanya tadi. Ia teringat kembali pada dua puluh menit sujud panjang tanpa sajadah yang baru saja ia lalui di atas lantai dingin tersebut. Ada dorongan di hatinya untuk menyeka debu itu dengan lengan baju, namun ia mengurungkannya; debu semen itu terasa laksana penanda suci atas titik balik kesadarannya yang paling jujur.
 
-Hangatnya meresap melalui kulit telapak tangannya yang sudah lama dingin. Ia tidak langsung meminumnya—hanya memegang. Merasakan hangat itu dulu.
+Ridwan kembali meneguk teh jahenya seteguk kecil, meletakkan cangkirnya di atas baki kayu dengan bunyi denting halus. "Sudah berapa pekan kamu tidak tidur lebih dari tiga jam setiap malamnya, Salman?" tanya Ridwan dengan nada bicara yang penuh kepedulian seorang saudara tua. Pertanyaan itu tidak terdengar seperti investigasi atasan, melainkan sapaan seorang konselor yang telah membaca gejala kelelahan ekstrem pada fisik dan psikis sahabatnya.
 
-Ridwan minum seteguk. Tidak buru-buru. Seperti orang yang sudah menetapkan bahwa malam ini ia tidak kemana-mana.
+"Hampir empat pekan, Kang Ridwan," jawab Salman dengan suara serak yang parau dan tertahan di tenggorokan. "Bahkan dalam beberapa hari terakhir ini, rasanya kepalaku terus berputar dan tubuhku menolak untuk tidur kendati aku telah merebahkan badan di kasur asrama." Salman menundukkan wajahnya menatap dasar cangkirnya yang bergolak pelan. Pandangannya terasa kabur, diselimuti bayang-bayang kelelahan yang seolah telah menjadi bagian tak terpisahkan dari denyut nadinya.
 
-Hening berlangsung cukup lama.
+Ridwan mengangguk-angguk pelan seraya menarik nafas panjang yang sarat pemahaman mendalam. "Dan sebilah rotan kuning itu sudah berapa lama bertengger di atas meja piketmu setiap malam?" tanya Ridwan seraya mengarahkan pandangan matanya ke arah tongkat kuning yang tergeletak di samping buku pelanggaran santri. Tatapannya dingin mengamati serat-serat rami di gagangnya yang mengkilap oleh keringat dingin.
 
-Di luar, angin memukul-mukul sisi lapuk dinding tripleks. Bambu-bambu bergerak dalam gelap. Dari kejauhan, suara katak di selokan yang mengalir di belakang dapur umum.
+Salman melirik bilah rotan tersebut dengan tatapan getir yang sarat penyesalan. "Sejak hari pertama saya diangkat menjadi kepala keamanan asrama enam bulan yang lalu, Kang. Para senior menasihati saya bahwa tanpa rotan itu, anak-anak tidak akan pernah bisa ditertibkan di waktu Subuh." Suara Salman terdengar lirih, mencerminkan betapa rapuhnya landasan pemikiran yang selama ini ia jadikan pegangan. Ia menyadari kebodohannya yang telah mempercayai dogma sesat itu begitu lama.
 
-Salman menyesap tehnya.
+Ridwan mengulurkan tangan kanannya, lalu mengangkat bilah rotan kuning itu dari permukaan meja kayu dengan gerakan yang terukur. Ia menimbang-nimbang bobot rotan tersebut di telapak tangannya, memutar-mutarnya perlahan di bawah temaram cahaya lentera, lalu mengamati serat-serat hitam yang memar di ujung bilahnya. Pandangan matanya memancarkan kesedihan mendalam saat menyadari betapa banyaknya kekerasan terselubung yang telah dihasilkan oleh batangan kayu tersebut.
 
-Pedas jahe menyebar dari tenggorokan ke dada. Hangat yang menyusuri jalan sendiri ke tempat-tempat yang sudah lama membeku. Bukan keajaiban—tapi cukup untuk membuat dada terasa sedikit lebih longgar dari tadi.
+"Sudah berapa ratus anak yang kamu bangunkan setiap fajar dengan hantaman rotan ini di lantai kamar mereka, Salman?" bisik Ridwan dengan intonasi yang menusuk tepat ke ulu hati. "Aku tidak bertanya tentang anak-anak yang terkena pukulan fisik, melainkan anak-anak yang jantungnya terlonjak panik karena mendengar suara rotan ini berdentam keras di samping kasur tipis mereka." Suara Ridwan tidak meninggi, namun beban moral di dalamnya terasa begitu berat menekan ruangan pos jaga. Di matanya terpancar kesedihan mendalam seorang pendidik yang menyaksikan fitrah anak-anak terluka oleh disiplin yang salah arah.
 
-"Keningmu ada bekasnya," kata Ridwan akhirnya. Matanya ke arah kening Salman yang masih ada debu semen tipis menempel. Tidak ada komentar lain. Tidak ada pertanyaan.
+Salman memejamkan matanya rapat-rapat saat pertanyaan itu meluncur di udara bilik pos piket. Di balik kelopak matanya yang perih, deretan wajah anak-anak belia Kamar Al-Farabi, Kamar Ibnu Rusyd, dan bilik-bilik lainnya berkelebat silih berganti. Ia melihat kembali bagaimana tubuh-tubuh mungil itu melompat dari tempat tidur dengan mata nanar dan refleks mengangkat tangan menutupi kepala mereka demi menyelamatkan diri.
 
-Hanya pernyataan itu.
+"Terlalu banyak, Kang... tak terhitung lagi jumlahnya," rintih Salman seraya meremas cangkirnya dengan jemari yang bergetar hebat. "Setiap kali melihat mereka melompat dan berdiri kaku, saya mengira bahwa disiplin telah berhasil ditegakkan dengan wibawa yang sempurna." Pengakuan itu meluncur dari bibir Salman laksana muntahan racun yang telah berbulan-bulan mengendap di dalam darahnya. Ia menatap telapak tangannya sendiri dengan rasa sesal yang teramat menyiksa.
 
-Salman menyentuh keningnya sendiri. Lupa tadi ada bekas sujud di sana. Ia tidak membersihkannya. Entah kenapa tidak mau.
+Ridwan meletakkan bilah rotan itu kembali ke atas meja kayu dengan gerakan yang dingin dan lepas dari ikatan emosional. "Itulah yang di dalam ilmu psikologi pendidikan kita sebut sebagai keputusasaan pedagogis, Salman. Sebuah ilusi keberhasilan yang sebenarnya menutupi kebangkrutan metode pembinaan jiwa."
 
-Ridwan minum lagi. Masih pelan.
+Salman membuka matanya perlahan, menatap wajah sahabatnya dengan kening berkerut heran. "Keputusasaan pedagogis? Bukankah ketegasan mutlak memang diperlukan untuk membentuk karakter tangguh di pesantren?" tanya Salman mencoba mencari pembenaran terakhir bagi praksis yang selama ini ia jalankan.
 
-"Sudah berapa bulan kamu tidak tidur lebih dari tiga jam?" tanyanya akhirnya. Bukan seperti pertanyaan atasan kepada bawahan—lebih seperti seseorang yang bertanya dan sudah tahu kemungkinan jawabannya, tapi ingin mendengar langsung.
+"Ketegasan sejati itu hadir ketika seorang pendidik memiliki seratus jalan hikmah dan memilih cara yang paling mendidik serta memuliakan martabat muridnya," tegas Ridwan dengan tatapan mata yang menatap lurus ke pupil mata Salman. "Sebaliknya, keputusasaan pedagogis terjadi ketika seorang guru merasa tidak memiliki alternatif lain—atau malas mencari cara yang lebih beradab—hingga akhirnya terperosok menggunakan cara-cara yang paling primitif: ancaman kekerasan, teriakan intimidasi, dan hentakan rotan. Metode purba itu hanya membuktikan kemiskinan strategi pengasuhan, bukan keagungan wibawa kepemimpinan."
 
-"Hampir tiga minggu," jawab Salman. Suaranya serak. "Mungkin lebih."
+Kata-kata Ridwan meluncur laksana pisau bedah yang membedah kepalsuan doktrin yang selama ini menyelimuti pikiran Salman. Salman menundukkan kepalanya dalam-dalam, merasakan kepedihan yang luar biasa karena ia tahu persis bahwa setiap patah kata yang diucapkan Ridwan adalah kebenaran mutlak yang tak terbantahkan. Otoritas yang selama ini ia banggakan ternyata hanyalah topeng rapuh dari ketiadaan kompetensi pedagogis dalam mendampingi jiwa anak-anak.
 
-Ridwan mengangguk. Tidak terkejut. Tidak langsung memberikan solusi.
+"Dengarkan aku baik-baik, Salman," lanjut Ridwan dengan nada bicara yang melembut namun sarat empati persaudaraan. "Aku tidak sedang menuduhmu sebagai orang yang berhati jahat atau kejam. Engkau adalah pemuda shalih yang sedang mengalami kelelahan mental akut karena dibebani tanggung jawab raksasa tanpa adanya sistem pendukung kelembagaan yang memadai. Dua ratus santri remaja di bawah pengawasan satu musyrif kepala, tanpa sistem rotasi piket yang adil, tanpa waktu istirahat yang layak untuk pemulihan jiwa."
 
-"Dan rotan itu sudah berapa lama menemanimu?"
+Ridwan menjeda kalimatnya sejenak, membiarkan makna kata-katanya meresap ke dalam ruang kesadaran Salman yang tengah terluka. "Beban kerja yang menumpuk tanpa jeda pemulihan semacam itu bukanlah pengasuhan tarbiyah, melainkan eksploitasi halus yang menghancurkan kesehatan mental para musyrif. Lembaga menuntut kalian menjadi teladan malaikat, namun sistem operasional asrama memperlakukan kalian laksana mesin keamanan yang tidak boleh lelah."
 
-Salman menatap bilah rotan kuning di atas meja. "Sejak hari pertama saya ditunjuk."
+Salman menatap meja kayu dengan dada yang bergetar haru mendengar pembelaan yang begitu manusiawi dari sang konselor. Selama berbulan-bulan ini, ia merasa sendirian memikul beban target ketertiban asrama, takut dicap gagal bila ada santri yang terlambat atau melanggar aturan. Pengakuan Ridwan atas kelelahan sistemik itu terasa laksana basuhan air sejuk yang membasuh dahaga jiwanya yang sekarat.
 
-"Enam bulan."
+"Namun kelelahan sistemik tidak boleh menjadi alasan pembenaran bagi kita untuk menindas tunas-tunas fitrah," sambung Ridwan dengan ketegasan etis yang jernih. "Engkau tetap memiliki kehendak bebas setiap fajar untuk memilih: apakah melangkah masuk ke kamar santri membawa keteladanan kenabian, atau membawa teror ketakutan dengan ayunan rotan. Dan pilihan kekerasan yang kita ambil selalu meninggalkan luka psikologis yang dalam di saraf anak-anak itu, luka yang tidak akan pernah sirna hanya dengan ucapan maaf sepintas lalu."
 
-"Enam bulan."
+Kalimat itu terdengar begitu berat dan menghujam sanubari Salman, namun diucapkan Ridwan tanpa nada kebencian atau vonis yang mempermalukan. Itulah ciri khas keteladanan *Qudwah Hasanah* yang dimiliki Ridwan; ia menghadirkan kebenaran laksana cermin jernih yang memperlihatkan noda di wajah tanpa berniat memecahkan cermin tersebut. Salman menelan ludahnya yang getir, menyadari betapa nyata kerusakan yang telah ia timbulkan.
 
-Ridwan meletakkan cangkirnya. Ia mengulurkan tangannya ke rotan itu—mengangkatnya, menimbangnya di telapak tangan sebentar. Memutar-mutarnya. Melihat ujungnya yang sudah memar kehitaman.
+"Farhan... santri kelas tujuh di Kamar Al-Farabi," bisik Salman seraya menatap buku register hitam di hadapannya dengan suara tertahan. "Tadi malam saya membuka lembaran pelanggaran anak itu. Namanya tercatat empat kali berturut-turut dalam satu halaman saja karena kesalahan-kesalahan sepele."
 
-"Berapa anak yang sudah kamu bangunkan Subuh dengan rotan ini?"
+"Aku sudah membaca laporannya di kantor bimbingan konseling kemarin sore," sahut Ridwan dengan sorot mata yang dipenuhi kelembutan seorang ayah. "Farhan adalah anak cerdas yang fitrahnya sangat peka, namun jiwanya sedang didera rindu rumah yang luar biasa berat di pekan-pekan pertamanya. Hatinya masih rapuh, membutuhkan telaga pengayoman dan bukan vonis hukuman yang dingin."
 
-Salman tidak langsung menjawab.
+"Salah satu hukumannya adalah karena ia menangis di jam belajar malam, Kang," lanjut Salman dengan nafas yang tercekat oleh rasa sesal yang mendalam. "Dan saya menghukumnya berdiri membersihkan papan tulis seluruh ruang kelas. Seberapa buta mata hati saya saat itu hingga tega memvonis tangisan fitrah seorang anak sebagai dosa kedisiplinan?"
 
-"Bukan yang kena pukulan," kata Ridwan. "Yang terbangun karena suara rotan ini berdentam di lantai semen di sebelah kasurnya."
+Ridwan terdiam sejenak, membiarkan keheningan pos jaga menjadi ruang kontemplasi bagi sahabatnya untuk mencerna kedalaman rasa bersalahnya. Ia meletakkan cangkir enamelnya, lalu menatap Salman dengan tatapan yang penuh kasih sayang tarbiyah. "Apakah engkau masih mengingat sebuah hadits shahih yang diriwayatkan oleh Sayyidina Anas bin Malik radhiyallāhu 'anhu tentang pengasuhan Rasulullah SAW?"
 
-Salman memejamkan matanya. Di belakang kelopak itu, deretan wajah muncul satu per satu. Kamar Al-Farabi. Kamar Ibnu Rusyd. Kamar Al-Kindi. Puluhan wajah yang melompat bangun dan langsung mengangkat tangan ke kepala sebagai perlindungan.
+Salman mendongak perlahan, lalu menganggukkan kepalanya dengan khidmat. "Saya mengingatnya dengan sangat baik, Kang Ridwan. Hadits tentang sepuluh tahun pengabdian beliau di haribaan Baginda Nabi."
 
-"Tidak terhitung."
+"Lafalkanlah hadits itu sekarang dengan lisanmu, Salman," pinta Ridwan seraya menengadahkan tangannya memberi isyarat restu. "Biarkan sabda agung itu kembali menyucikan ruang batinmu yang sempat tercemari oleh doktrin kekerasan. Hadirkan kembali sosok Rasulullah SAW sebagai satu-satunya teladan pengasuhan kita di bumi pesantren ini."
 
-Ridwan meletakkan rotan itu kembali ke meja—tidak kasar, tapi juga tidak hati-hati. Asal diletakkan.
-
-"Itu yang kusebut keputusasaan pedagogis, Salman."
-
-Salman membuka matanya. "Bukan ketegasan?"
-
-"Bukan ketegasan." Ridwan menatapnya langsung. "Ketegasan itu ketika kamu punya cara lain, tapi memilih cara yang lebih tepat. Keputusasaan itu ketika kamu tidak punya cara lain—atau mengira kamu tidak punya—dan akhirnya jatuh ke cara yang paling primitif."
-
-Salman menunduk.
-
-Ia tahu Ridwan benar. Itulah yang menyakitkan.
-
-"Dengar," kata Ridwan, suaranya lebih pelan sekarang. "Kamu bukan orang jahat, Salman. Kamu orang lelah yang diberi tanggung jawab terlalu besar tanpa sistem pendukung yang memadai. Dua ratus santri. Satu musyrif kepala. Tidak ada rotasi. Tidak ada hari libur yang nyata." Ia berhenti sebentar. "Itu bukan pengasuhan. Itu perbudakan yang halus."
-
-Salman menatap cangkir tehnya.
-
-"Tapi kelelahan tidak menghapus pilihan," lanjut Ridwan. "Kamu tetap memilih setiap pagi untuk masuk ke kamar itu dengan rotan. Dan pilihan itu meninggalkan bekas pada anak-anak itu yang tidak akan hilang hanya karena kamu minta maaf besok."
-
-Itu kalimat yang keras.
-
-Tapi diucapkan dengan nada yang tidak keras. Itu yang membuatnya lebih berat—karena terasa seperti kebenaran yang tidak sedang menghakimi, hanya sedang hadir.
-
-"Farhan," kata Salman. Nama itu keluar begitu saja. "Tadi malam saya buka buku pelanggaran. Namanya muncul empat kali di halaman yang sama."
-
-"Saya tahu."
-
-"Salah satunya: menangis di jam belajar malam. Hukuman hapus papan tulis."
-
-Ridwan diam.
-
-"Saya yang menuliskan itu," kata Salman.
-
-Ridwan masih diam. Membiarkan Salman bersama kalimatnya sendiri sebentar.
-
-"Anak itu menangis," kata Salman lagi, lebih pelan. "Dan saya menghukumnya karena menangis."
-
-Tidak ada yang ditambahkan setelah itu selama beberapa saat.
-
-"Kamu tahu hadits Anas bin Malik?" tanya Ridwan kemudian.
-
-Salman mengangguk. "Saya hafal."
-
-"Lafalkan."
-
-Salman menarik napas. Lalu dengan suara yang tidak beraturan, ia melafalkan:
+Salman menarik nafas panjang yang dalam untuk menata getaran di dadanya. Di ruang pos jaga yang hening, ia memejamkan mata sejenak demi mengumpulkan sisa-sisa ketenangan ruhiyyahnya. Dengan suara serak yang bergetar penuh takzim, ia melafalkan bait sabda kenabian yang telah lama terkubur di bawah tumpukan kelelahan tugasnya:
 
 $$\text{خَدَمْتُ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، وَاللهِ مَا قَالَ لِي أُفٍّ قَطُّ}$$
 
-*"Saya melayani Rasulullah SAW selama sepuluh tahun. Demi Allah, beliau tidak pernah sekalipun berkata 'ah' kepadaku."* (HR. Muslim, no. 2309)
+> *"Aku telah melayani Rasulullah SAW selama sepuluh tahun penuh. Demi Allah, beliau tidak pernah sekalipun berkata 'ah' atau mencelaku atas apa yang kulakukan."* (HR. Muslim, no. 2309)
 
-"Sepuluh tahun," ulang Ridwan. "Anas melayani beliau sejak usia sepuluh tahun. Tidak pernah dibentak. Tidak pernah disindir. Tidak pernah dihukum di depan orang banyak." Ridwan menoleh ke arah rotan di meja itu. "Sementara kita yang baru mengasuh beberapa bulan sudah merasa berhak menghantam lantai di samping tumit seorang anak dua belas tahun yang baru empat minggu meninggalkan ibunya."
+Lafazh hadits kenabian itu mengalun syahdu di keheningan bilik pos jaga, membawa hawa keteduhan yang meruntuhkan sisa-sisa keangkuhan militeristik. Ridwan mengangguk khidmat mendengarkan hafalan sahabatnya itu. "Sepuluh tahun penuh, Salman. Anas bin Malik melayani Rasulullah sejak berusia sepuluh tahun—usia yang jauh lebih muda dari Farhan dan Danang. Namun selama satu dekade itu, beliau tidak pernah dibentak, tidak pernah dicaci di depan kawan-kawannya, dan tidak pernah dihantam dengan tongkat kayu."
 
-Salman tidak menjawab.
+Ridwan menoleh ke arah bilah rotan di meja, lalu membandingkannya dengan risalah kasih sayang Rasulullah. "Sementara kita yang baru mengasuh anak-anak selama beberapa bulan sudah merasa paling berhak menghantamkan rotan ke lantai semen di samping tumit anak belia yang baru sebulan berpisah dari ibunya. Betapa jauhnya akhlak pengasuhan kita dari telaga sunnah kenabian yang selama ini kita ajarkan di mimbar-mimbar pengajian."
 
-"Yang kamu lakukan kepada Farhan pagi itu—" Ridwan berbicara pelan, tapi setiap katanya memiliki berat "—secara biologis mengaktifkan respons darurat di otaknya. Amigdala. Adrenalin. Refleks selamatkan diri. Anak itu melompat bangun bukan karena ia rindu sholat, bukan karena panggilan iman—tapi karena tubuhnya mengira ia dalam bahaya." Ridwan menjeda. "Dan jika itu yang terus ia alami setiap Subuh selama satu tahun di sini, itu bukan membentuk disiplin. Itu melatih kewaspadaan terhadap ancaman. Dua hal yang sangat berbeda."
+Salman menundukkan wajahnya, tak sanggup membalas argumentasi ruhiyyah yang begitu agung tersebut. Air matanya kembali menetes perlahan membasahi ujung sarungnya. "Lalu apa yang sebenarnya terjadi pada jiwa anak-anak itu saat saya menghentakkan rotan di samping kasur mereka setiap fajar, Kang?"
 
-"Saya tahu sekarang," kata Salman pelan.
+"Secara neurosains perkembangan, tindakan intimidatif yang kamu lakukan setiap fajar membajak fungsi luhur amigdala di otak mereka," terang Ridwan dengan kepakaran konselingnya yang mendalam. "Dentuman rotan dan bentakan keras memicu semburan hormon adrenalin dan kortisol secara masif, memaksa otak purba mereka masuk ke dalam mode pertahanan hidup: melawan, lari, atau membeku. Refleks Farhan menutupi kepala adalah bukti nyata bahwa otaknya memproses kehadiranmu sebagai ancaman bahaya fisik, bukan kehadiran seorang pembimbing yang aman."
 
-"Kamu tahu sekarang. Tapi Farhan sudah merasakannya."
+Ridwan mencondongkan tubuhnya ke depan agar tatapannya semakin dekat dengan wajah Salman. "Jika kondisi siaga bahaya itu terus dipaksakan setiap fajar selama bertahun-tahun di asrama, maka yang terbentuk bukanlah santri yang bertakwa dan beradab luhur. Yang engkau ciptakan adalah generasi santri yang mengalami kelelahan saraf kronis, anak-anak yang patuh hanya ketika diawasi dan siap melampiaskan dendam kekerasan kepada adik kelasnya saat mereka menjadi senior kelak. Lingkaran setan perpeloncoan itulah yang selama ini merusak peradaban pesantren kita."
 
-Sekali lagi, bukan untuk menyudutkan. Hanya untuk memastikan Salman tidak melewatkan betapa nyatanya luka itu.
+"Astaghfirullāh... Sungguh besar kezaliman yang telah saya perbuat tanpa saya sadari," rintih Salman dengan nada penyesalan yang teramat pekat. "Lalu langkah apa yang harus saya tempuh untuk menebus dosa-dosa pengasuhan ini, Kang Ridwan?"
 
-"Langkah apa yang harus saya ambil?" tanya Salman.
+Ridwan tersenyum hangat, lalu menuangkan sisa wedang jahe dari poci tanah liat ke dalam cangkir Salman yang telah kosong separuh. "Langkah pertama yang mutlak dan tidak bisa ditawar lagi: hentikan penggunaan rotan ini untuk selamanya mulai detik ini juga! Jangan pernah ada lagi senjata intimidasi fisik yang bertengger di pos jaga atau dibawa berpatroli di lorong asrama. Engkau menghentikannya bukan karena takut pada sanksi pengurus, melainkan karena kesadaran imanmu bahwa perbuatan itu bertentangan dengan fitrah kasih sayang Allah."
 
-Ridwan meraih baki, menuang teh lagi ke cangkir Salman yang sudah hampir habis. "Yang pertama—dan ini bukan saran, ini keharusan—berhenti memimpin pengasuhan dengan rotan. Bukan dikurangi. Berhenti." Ridwan memandang matanya langsung. "Bukan karena kamu takut ketahuan. Tapi karena kamu sudah tahu bahwa itu salah."
+Salman menganggukkan kepalanya dengan kemantapan tekad yang bulat. "Bismillah, saya bersumpah demi Allah untuk tidak akan pernah lagi mengangkat rotan ini di hadapan anak-anak asuh saya," ikrarnya dengan getaran suara yang mantap. "Saya akan belajar menundukkan amarah saya sendiri sebelum menertibkan mereka."
 
-Salman mengangguk.
+"Langkah kedua," lanjut Ridwan dengan senyum yang semakin mengembang sejuk, "besok fajar seusai sholat Subuh, ketuklah pintu Kamar Al-Farabi dengan kelembutan seorang abang kandung. Masuklah tanpa derap sepatu lars yang mengancam, ucapkan salam dengan nada suara yang meneduhkan, lalu sebut nama Farhan dengan penuh kasih sayang. Jika ia masih tertidur pulas karena kelelahan, duduklah bersila di samping kasurnya, usaplah pundaknya dengan lembut, dan bisikkan di telinganya: *'Ayo bangun, Farhan anak shalih... fajar telah menyingsing, mari kita berwudhu menyambut rahmat Allah.'* Tunjukkan pada anak itu bahwa orang dewasa di pesantren ini adalah benteng pelindung yang aman bagi jiwanya."
 
-"Yang kedua—besok fajar, setelah sholat Subuh, ketuk pintu Farhan. Bukan dengan rotan. Dengan salam. Dengan nama. Dengan suara yang pelan." Ridwan menunjukkan gerakan tangan yang lembut—meletakkan telapak tangan di udara, seperti menyentuh bahu seseorang. "Dan kalau ia masih tidak bangun, kamu duduk di tepinya. Kamu ucapkan namanya. Kamu tunggu sampai ia membuka mata. Lalu kamu bilang: 'Ayo wudhu, Farhan. Subuh hampir tiba.'" Ridwan menurunkan tangannya. "Tidak ada yang lain."
+Salman menyimak setiap butir arahan itu dengan dada yang bergetar kagum; ia membayangkan betapa indahnya suasana asrama jika sentuhan kelembutan kenabian semacam itu benar-benar dihidupkan di setiap bilik tidur santri. Keraguan di hatinya perlahan-lahan runtuh berganti dengan kerinduan mendalam untuk memeluk fitrah adik-adik asuhnya. "Hanya sesederhana itu, Kang?" tanya Salman dengan tatapan takjub.
 
-"Itu saja?"
+"Sederhana dalam ucapan, namun menuntut keikhlasan ruhiyyah yang teramat raksasa dalam pelaksanaannya," sahut Ridwan seraya menepuk lengan sahabatnya. "Engkau harus mampu mengendalikan egomu sendiri saat melihat anak yang sulit bangun. Dan langkah ketiga yang terpenting: pagi ini seusai jamaah Subuh, Kyai Hasyim memanggilmu untuk sowan secara pribadi di serambi ndalem utama."
 
-"Itu saja. Untuk sekarang."
+Salman tersentak kaget mendengar penuturan itu, kedua bola matanya membulat menatap Ridwan. "Kyai Hasyim memanggil saya secara pribadi pagi ini? Apakah beliau telah mengetahui insiden kekerasan di Kamar Al-Farabi kemarin Subuh?" Rasa cemas mendadak menyusup ke dalam benaknya membayangkan teguran dari sang sesepuh pondok.
 
-Salman menatap rotan yang masih tergeletak di ujung meja.
+"Kyai Hasyim adalah sosok guru waskita yang senantiasa mengamati dinamika kehidupan santri dan para musyrifnya dengan mata hati yang jernih," terang Ridwan seraya menenangkan sahabatnya. "Beliau tidak memanggilmu untuk menghakimi atau mempermalukanmu, Salman. Beliau mengetahui betapa beratnya beban kelelahan yang kamu pikul selama ini. Kyai sedang mempersiapkan sebuah cetak biru pembaruan total bagi tata kelola pengasuhan pesantren kita, sebuah sistem terpadu yang beliau namakan sebagai Ekosistem TUMBUH."
 
-"Dan yang ketiga," lanjut Ridwan, "ada hal lain yang lebih besar dari semua ini. Kyai Hasyim ingin berbicara denganmu. Langsung. Pagi ini, setelah Subuh."
+"Ekosistem TUMBUH?" bisik Salman mengulang nama asing tersebut dengan rasa penasaran yang mendalam. "Apakah itu semacam kurikulum baru atau tata tertib disiplin yang lebih ketat, Kang?" Matanya menatap Ridwan dengan dahaga keingintahuan yang membuncah.
 
-Salman mengangkat kepalanya.
+"Ekosistem TUMBUH adalah dekonstruksi total terhadap seluruh cara pandang feodal dan militeristik di pesantren kita," jawab Ridwan dengan binar mata yang memancarkan optimisme peradaban. "Sebuah arsitektur pengasuhan berbasis data dan fitrah kenabian yang menyelaraskan perkembangan santri, perlindungan kesejahteraan guru, dan transformasi sistem lembaga secara simbiotik. Kyai Hasyim sendiri yang akan menguraikan rahasia keilmuan dan metodologinya kepadamu pagi ini di serambi ndalem."
 
-"Beliau sudah lama mengamati kondisi pengasuhan asrama ini," kata Ridwan. "Kondisimu. Kondisi tim musyrif. Beliau tidak menutup mata. Dan beliau sedang menyiapkan sesuatu yang belum pernah ada di pesantren ini sebelumnya." Ridwan berhenti. "Ekosistem TUMBUH. Itu yang beliau sebut namanya."
+Ridwan kemudian bangkit berdiri dari kursi rotannya dengan gerakan yang berwibawa. Tangannya terulur ke atas meja piket, lalu meraih bilah rotan kuning sepanjang satu meter itu tanpa ragu-ragu. Ia melangkah menuju lemari arsip kayu jati di sudut ruangan, membuka pintu kayunya yang berderit, lalu meletakkan rotan kuning itu di rak paling bawah yang terlindung dari pandangan luar. Ridwan menutup pintu lemari tersebut rapat-rapat, memutar anak kuncinya hingga berbunyi *klik*, lalu memasukkan anak kunci kuningan itu ke dalam saku jubahnya.
 
-"Ekosistem TUMBUH?"
+Salman menyaksikan peristiwa itu dengan pandangan mata yang tak berkedip. Senjata rotan yang selama enam bulan ini membelenggu batinnya kini telah terkunci rapat di dalam kegelapan lemari kayu oleh tangan seorang sahabat. Anehnya, tiada secuil pun rasa kehilangan di dalam dada Salman; yang merebak di seluruh relung jiwanya adalah rasa lega yang luar biasa lapang, seakan sepasang rantai besi yang selama ini mengikat kedua tangannya baru saja dipatahkan untuk selamanya.
 
-"Beliau yang akan menjelaskan kepadamu. Bukan saya." Ridwan tersenyum tipis. "Tapi percayalah, Salman—itu bukan sekadar program baru. Itu pemikiran ulang terhadap seluruh cara kita memandang santri, murabbi, dan apa yang seharusnya terjadi di antara keduanya."
+"Sekarang, bersihkanlah debu di wajahmu dengan air wudhu yang segar," titah Ridwan seraya merapikan letak syal rajut di lehernya dan bersiap untuk berpamitan. "Gantilah baju koko dinasmu dengan baju koko putih bersih yang masih tersimpan di lemarimu. Jangan sampai terlambat hadir di serambi ndalem seusai wirid Subuh, karena Kyai Hasyim sangat menghargai ketepatan waktu seorang penuntut ilmu."
 
-Salman diam menyerap.
+Ridwan mengangkat baki kayu yang kini hanya menyisakan poci keramik yang telah kosong. "Terima kasih banyak atas segalanya, Kang Ridwan... Engkau telah menyelamatkan akal dan jiwaku dari jurang kebinasaan malam ini," ucap Salman seraya membungkukkan badan penuh rasa hormat dan takzim kepada sahabat seniornya itu.
 
-Ridwan berdiri. Ia mengambil rotan kuning dari atas meja—tanpa banyak bicara, dengan gerakan biasa-biasa saja, seperti mengambil barang yang memang harus dipindahkan. Ia berjalan ke sudut ruangan, membuka pintu lemari arsip kayu yang berderit, dan memasukkan rotan itu ke dalamnya. Ke tempat paling dalam.
+Ridwan tersenyum tulus seraya menepuk bahu Salman dua kali dengan kehangatan persaudaraan sejati. "Kita semua adalah kawan seperahu yang sedang menyeberangi samudra perjuangan yang sama, Salman. Beristirahatlah sejenak, dan songsonglah fajar baru yang akan segera menyapa bumi Darul Adab." Ridwan melangkah keluar bilik pos jaga seraya menutup pintu kayu tersebut secara perlahan dari luar.
 
-Ia menutup pintu lemari. Memutar kunci. Memasukkan kunci ke saku jubahnya.
+Salman kini kembali duduk sendirian di dalam keheningan pos jaga, namun suasana di ruangan itu telah bertransformasi seutuhnya. Lampu minyak di sudut meja masih berkedip lembut, dinding tripleks masih menampakkan urat-urat kayunya yang lapuk, namun hawa dingin yang mencekam telah sirna digantikan oleh kehangatan harapan baru. Tempat di mana rotan kuning tadi pernah tergeletak kini tampak bersih dan lapang, membuka ruang bagi tumbuhnya benih-benih adab yang murni.
 
-Salman memandang lemari itu.
+Dari kejauhan di balik bukit asrama, suara ayam jago pertama mulai berkokok nyaring menyambut sepertiga malam terakhir, disusul oleh deru angin pagi yang berhembus lembut menggoyangkan pucuk-pucuk daun cemara. Suara kokok itu bersahut-sahutan di udara dingin fajar, memecah kesunyian lembah dengan panggilan kehidupan. Waktu fajar telah kian mendekat, memanggil seluruh jiwa untuk bersiap menyambut limpahan rahmat Ilahi di bumi pesantren.
 
-Sesuatu yang ia pegang selama enam bulan—sesuatu yang ia percaya sebagai senjata ketertiban—sekarang di balik pintu yang dikunci orang lain.
-
-Dan anehnya, ia tidak ingin memintanya kembali.
-
-"Cucilah mukamu," kata Ridwan sambil merapikan syal di lehernya. "Ganti baju koko kalau ada yang lebih bersih. Selepas Subuh, langsung ke serambi ndalem. Jangan terlambat." Ridwan menoleh sekali. "Kyai Hasyim tidak suka menunggu—bukan karena beliau tidak sabar, tapi karena beliau tahu waktu itu mahal."
-
-Ridwan mengambil baki, mengangkatnya. Poci keramik sudah hampir kosong. Dua cangkir sudah tandas.
-
-"Terima kasih, Ustadz Ridwan," kata Salman.
-
-Ridwan mengangguk. Tidak ada kalimat panjang. Tidak ada retorika perpisahan yang berbunga-bunga.
-
-Ia keluar. Pintu pos jaga ditutup pelan dari luar.
-
-Salman duduk sendirian lagi.
-
-Tapi kali ini ruangan yang sama terasa berbeda. Lampu minyak yang sama. Dinding tripleks yang sama. Meja kayu jati yang sama. Tapi ada sesuatu yang sudah tidak ada di sini—dan absennya itu membuat ruangan terasa lebih lega, bukan lebih kosong.
-
-Ia menatap sudut meja tempat rotan tadi tergeletak.
-
-Kosong sekarang.
-
-Dari luar terdengar suara ayam pertama berkokok di belakang dapur umum. Pertanda sepertiga malam terakhir. Pertanda bahwa Subuh tidak lama lagi.
-
-Salman menarik nafas.
-
-Lalu ia berdiri. Mengambil baju kokonya yang tergantung di paku dinding—yang bersih, yang belum dipakai. Ia melipatnya rapi, meletakkannya di atas meja. Menyiapkan untuk nanti.
-
-Di luar, langit masih gelap.
-
-Tapi tidak selama tadi.
+Salman menarik nafas panjang yang teramat lega, merasakan setiap sendi tubuhnya kembali dialiri energi ketenangan yang telah lama hilang. Ia bangkit berdiri dengan langkah kaki yang tegap dan mantap, lalu melangkah menuju gantungan baju di dinding untuk mengambil baju koko putih bersihnya yang terseterika rapi. Di ufuk timur, segaris cahaya fajar perak mulai mereka-reka membelah pekatnya malam, membawa janji suci tentang kelahiran fajar baru peradaban di tanah hati yang siap disemai kembali.
