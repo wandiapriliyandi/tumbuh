@@ -1,111 +1,179 @@
 # Sub-Bab 3.1: Mata Merah di Ruang Piket
 
-Pukul dua lebih lima belas menit dini hari di pos jaga keamanan asrama putra Pesantren Darul Adab. Udara malam pegunungan berhembus kencang melintasi lembah, menyusup masuk melalui celah-celah papan tripleks dinding pos yang mulai lapuk dan berderit pelan setiap kali diterpa angin dingin. Hawa lembap menusuk hingga ke persendian tulang, membuat kaca nako jendela yang berdebu tampak berembun tebal di bagian sudutnya. Di luar pos, rerimbunan pohon bambu meliuk-liuk saling bergesekan, memercikkan suara gemerisik tajam yang memecah kesunyian malam pegunungan.
+Pukul dua lewat lima belas.
 
-Sebuah lampu minyak tanah antik bergagang tembaga diletakkan di sudut rak berkas kayu, memancarkan pendar cahaya kekuningan yang berkedip-kedip tak menentu diiringi desis halus sumbu kapas. Bayang-bayang panjang meliuk-liuk di atas dinding kapur putih yang ditumbuhi bercak-bercak lumut kehijauan, menciptakan atmosfer temaram yang sunyi dan menekan batin. Di sekeliling ruangan sempit berukuran tiga kali tiga meter itu, aroma minyak kayu putih berbaur dengan pekatnya bau tembakau sisa piket malam sebelumnya. Di sudut dinding, tergantung selembar peta denah asrama putra yang garis-garis pembagian bloknya mulai memudar dimakan usia.
+Pos jaga asrama putra. Lampu minyak satu-satunya berkedip ditiup angin yang menyusup dari celah papan tripleks dinding yang mulai lapuk. Di luar, bambu-bambu besar bergesekan dalam gelap, mengeluarkan suara yang kadang terdengar seperti langkah kaki, kadang seperti sesuatu yang mendesah.
 
-Di tengah keheningan yang mencekam itu, Ustadz Salman duduk terpekur seorang diri di balik meja kerja jati tua peninggalan pengurus lama. Kedua siku tangan pemuda berusia dua puluh empat tahun itu bertumpu kokoh di atas permukaan kayu meja yang penuh guratan mata pisau dan noda tinta kering. Kedua telapak tangannya yang kekar namun dingin meremas pelipisnya sendiri dengan kuat, seolah berusaha menahan ledakan denyut rasa sakit yang bergemuruh di dalam batok kepalanya. Nafas Salman terdengar berat, memburu pelan seirama dengan detak jarum jam dinding plastik di atas kepalanya.
+Ustadz Salman tidak tidur.
 
-Kepala Salman tertunduk sangat rendah, menatap selembar kalender dinding usang yang tanggal-tanggalnya telah dicoret silang dengan spidol hitam pekat. Coretan-coretan silang itu menandai hari-hari pengabdian tanpa jeda yang telah ia lalui selama berbulan-bulan di pesantren ini. Setiap angka yang tercoret bukanlah sekadar hitungan hari, melainkan rekam jejak stamina yang terkuras habis demi menegakkan disiplin asrama. Salman merasa dirinya laksana tawanan waktu yang terperangkap dalam sangkar rutinitas tanpa jalan keluar yang jelas.
+Ia tidak bisa.
 
-Ketika Salman mengangkat kepalanya perlahan, tampaklah sepasang bola mata yang menyala merah padam laksana arang kayu yang hampir habis terbakar di tungku dapur umum. Urat-urat darah halus berwarna merah keunguan menjalar rapat melintasi selaput sklera putihnya yang bengkak dan digenangi selaput air mata kental. Kelopak mata bagian bawahnya tampak menghitam legam, membengkak menjadi kantung mata tebal yang menandakan kebangkrutan fisik dan mental yang telah berlangsung selama berminggu-minggu tanpa jeda istirahat yang layak. Sorot matanya yang biasanya tajam dan berwibawa kini redup oleh kabut kelelahan yang teramat pekat.
+Ia duduk di kursi kayu jati yang sandarannya sudah lama miring ke kanan, dan ia tidak memperbaikinya. Kedua sikunya di atas meja. Kedua telapak tangannya menopang kepalanya sendiri. Dari posisi itu, matanya menatap sebuah kalender dinding usang—bulan September—di mana setiap angka tanggal yang sudah lewat dicoret silang dengan spidol hitam tebal. Coretan-coretan itu seperti tanda kuburan yang berjejer rapi.
 
-Kondisi tersebut adalah manifestasi nyata dari deprivasi tidur kronis (*severe chronic sleep deprivation*) yang telah menguras habis cadangan glikogen dan neurotransmiter di dalam otaknya. Selama hampir tiga pekan penuh, Salman tidak pernah mengecap tidur lelap lebih dari dua setengah hingga tiga jam dalam sehari semalam. Sebagai musyrif muda yang baru enam bulan menyelesaikan masa pengabdian madrasah aliyah dan langsung ditunjuk menjadi kepala seksi ketertiban asrama, seluruh beban pengawasan dua ratus santri putra diletakkan tanpa ampun di atas kedua pundaknya yang masih belia. Tidak ada pembagian giliran piket yang seimbang, dan tidak ada sistem rotasi yang memungkinkan seorang musyrif memulihkan kondisi biologisnya secara manusiawi.
+Dua puluh delapan coret.
 
-Siklus harian yang harus dijalaninya setiap hari laksana putaran roda gerinda yang tak kenal belas kasihan. Tepat pukul tiga lewat seperempat dini hari, di saat sebagian besar manusia masih terlelap dalam selimut hangat, Salman sudah harus bangkit dari dipan sempitnya dengan kepala berdenyut pening. Ia harus segera menyalakan lampu senter besar, lalu menyusuri lorong-lorong asrama yang gelap gulita dan dingin membeku. Tugas pertamanya adalah memastikan lonceng besi berdentang keras dan pintu-pintu kamar digedor tanpa henti agar santri segera bangun menuju masjid.
+Dua puluh delapan hari telah ia lalui tanpa tidur lebih dari tiga jam.
 
-Di bawah gigilan angin subuh yang membekukan darah, Salman harus berdiri tegak di serambi masjid mengawasi sholat tahajjud dan mendampingi halaqah tahfidz Al-Qur'an hingga fajar merekah. Punggungnya yang kaku harus dipaksa tegak berjam-jam di atas karpet tipis, menyimak hafalan ayat-ayat suci sembari menahan kantuk yang menggelayuti pelupuk matanya. Setiap kali ada santri yang kepalanya terkantuk-kantuk menyentuh meja lipat, Salman harus sigap menegur dengan suara keras demi menjaga ketertiban majelis. Tidak ada ruang bagi kelemahan fisik di serambi masjid tersebut, baik bagi para santri maupun bagi dirinya sendiri.
+Ketika ia mengangkat kepala dan matanya menemukan cermin kecil retak di pojok lemari arsip, ia tidak segera mengenali wajah sendiri. Bukan karena cerminnya retak—tapi karena mata di cermin itu tampak asing. Putih matanya sudah tidak putih; merah gelap dengan urat-urat halus yang menyebar ke mana-mana, seperti peta jalan desa yang digambar oleh tangan yang gemetar. Kantung di bawah matanya hitam dan menggembung. Bibirnya pecah-pecah.
 
-Begitu adzan Subuh selesai dikumandangkan dan sholat berjamaah usai ditunaikan, penderitaan fisik Salman belum juga mereda. Ia harus memimpin apel pagi santri di lapangan semen yang berdebu di bawah hembusan angin fajar yang dingin menusuk dada. Salman harus memeriksa kelengkapan seragam madrasah santri satu per satu, mulai dari peci hitam, baju koko putih yang disetrika rapi, hingga kerapian kuku dan potongan rambut. Jika ada santri yang dasinya miring atau kancing bajunya lepas, Salman harus melontarkan teguran tegas di hadapan barisan ratusan santri lainnya.
+Ini wajah orang yang sudah lama kalah.
 
-Pukul tujuh pagi, saat para santri mulai melantunkan bait-bait nazham di ruang kelas madrasah, waktu istirahat Salman sama sekali tidak pernah terwujud. Pagi harinya segera dipenuhi oleh tumpukan berkas administrasi perizinan santri yang harus diverifikasi secara manual di atas meja kerja pos jaga. Buku-buku induk santri yang tebal, formulir izin keluar pondok, dan surat-surat panggilan wali santri menumpuk tinggi laksana bukit kertas yang siap runtuh sewaktu-waktu. Mata merah Salman harus membaca baris demi baris tulisan tangan yang rumit di bawah temaramnya cahaya lampu pos jaga.
+Tapi Salman belum mengizinkan dirinya mengakui itu.
 
-Di sela-sela urusan administrasi yang menjemukan itu, Salman harus bergegas menuju Pos Kesehatan Pesantren untuk mengurus santri-santri yang jatuh sakit. Ada santri yang menggigil karena demam berdarah, ada yang mengerang kesakitan karena bisul di kakinya, dan ada pula santri baru yang menangis histeris karena serangan asma akibat udara dingin. Salman harus mencarikan obat, memanggil dokter piket, atau bahkan memboncengkan santri ke puskesmas terdekat dengan sepeda motor tuanya yang sering mogok di jalan. Tanggung jawab atas nyawa dan keselamatan fisik anak-anak itu sepenuhnya bergantung pada kecepatan responnya.
+Di atas meja, di samping tumpukan formulir perizinan santri yang belum ia proses, tergeletak sebilah rotan kuning sepanjang satu meter. Gagang berbalut tali rami cokelat yang sudah menggelap oleh keringat telapak tangannya. Ujungnya memar kehitaman dari ratusan hantaman ke lantai, ke kusen pintu, ke udara kosong di depan anak-anak yang tubuhnya sudah kaku duluan sebelum rotan itu jatuh.
 
-Menjelang tengah hari, ruang tamu pesantren mulai didatangi oleh puluhan wali santri yang datang dari berbagai pelosok daerah tanpa pemberitahuan terlebih dahulu. Salman harus menyambut mereka dengan senyum formal yang dipaksakan, mendengarkan keluhan panjang lebar tentang anak mereka yang belum betah, atau menjawab titipan uang saku dan paket pakaian dari keluarga. Seringkali Salman harus menjadi sasaran amarah para orang tua yang tidak terima ketika anaknya dikenai hukuman takzir karena melanggar disiplin asrama. Energi psikologisnya terkuras habis meladeni perdebatan demi perdebatan yang menguras emosi tersebut.
+Ia memandangi rotan itu.
 
-Pukul dua belas siang, Salman harus berdiri tegak di tengah riuh rendah ruang makan umum yang pengap, panas, dan berbau tajam kuah lodeh santan. Salman harus mengawasi antrean panjang ratusan santri yang saling dorong dan berebut mengambil jatah nasi dari ember-ember aluminium besar. Suara denting sendok seng yang beradu dengan piring kaleng berpadu dengan teriakan anak-anak yang mengeluhkan porsi sayur mereka yang sedikit. Salman harus berjalan mondar-mandir di antara meja-meja panjang, membentak santri yang menyalip antrean, dan memastikan pembagian makanan berjalan tertib hingga butir nasi terakhir.
+Sudah enam bulan senjata ini menemaninya. Dari hari pertama ia diangkat jadi kepala keamanan asrama—sehari setelah wisuda, dua hari setelah sang guru senior berkata kepadanya: *"Wibawamu ada pada ketakutan mereka, Salman. Bersikap lemah satu kali saja, dan asrama ini akan kacau."*
 
-Selepas sholat Zhuhur, waktu tidur siang sunnah (*qailulah*) yang dianjurkan dalam syariat Islam hanyalah fatamorgana belaka bagi Salman. Di saat santri-santri lain merebahkan diri di atas kasur asrama, Salman harus melakukan patroli keliling kamar untuk memastikan seluruh santri benar-benar tidur dan tidak berkeliaran di luar asrama. Jika ia mendapati ada santri yang asyik bermain catur atau membaca komik sembunyi-sembunyi di pojok kamar mandi, Salman harus menyita barang-barang tersebut dan mencatat nama pelakunya ke dalam buku pelanggaran. Setiap detik waktu siangnya terikat oleh tuntutan pengawasan tanpa henti.
+Ia percaya itu.
 
-Sore harinya, dari pukul tiga hingga pukul lima sore, lapangan olahraga pesantren berubah menjadi kancah keributan yang rawan perselisihan antar-santri. Salman harus berdiri di tepi lapangan semen, mengawasi pertandingan sepak bola bertelanjang kaki yang kerap berujung pada benturan fisik dan adu mulut antar-kubu. Begitu peluit akhir dibunyikan, Salman harus segera berlari menuju bilik-bilik kamar mandi umum di bagian belakang asrama. Di sana, antrean ratusan santri yang membawa gayung dan handuk basah seringkali memicu perkelahian karena saling berebut giliran mandi sebelum waktu Maghrib tiba.
+Ia percaya sampai kemarin Subuh.
 
-Malam hari selepas sholat Isya' berjamaah, Salman harus memimpin sesi muthala'ah mandiri dan pengajian kitab kuning di serambi masjid hingga pukul sepuluh malam. Ia harus berkeliling di antara halaqah-halaqah kecil, mendengarkan santri-santri melafalkan kaidah gramatika bahasa Arab, dan membangunkan mereka yang terkulai lemas di atas meja dampar kayu. Udara malam yang semakin dingin membuat konsentrasi para santri buyar, dan Salman harus terus bersuara lantang membakar semangat mereka yang telah padam oleh keletihan belajar seharian penuh.
+Kemarin Subuh, ketika ia mendapati Farhan—anak kurus kelas tujuh yang baru empat minggu di pesantren—masih meringkuk di bawah selimut birunya sepuluh menit sebelum iqamat.
 
-Pukul sepuluh malam hingga pukul satu dini hari adalah fase yang paling menguras kewaspadaan dan sisa-sisa tenaga fisiknya. Di saat asrama telah dinyatakan dalam jam wajib tidur, Salman harus menyandang lampu senter dan sebatang rotan untuk melakukan patroli malam gelap. Ia harus menyusuri lorong-lorong sepi, memeriksa kolong-kolong ranjang susun, mengintip jendela gudang belakang, dan menyusuri pagar batas pesantren untuk mencegah santri kabur atau merokok di balik rumpun pisang. Setiap bayangan mencurigakan di kegelapan malam memicu detak jantungnya berdegup kencang dalam kecurigaan yang melelahkan.
+Salman sudah tidak ingat persis apa yang ia pikirkan waktu itu. Yang ia ingat adalah caranya masuk—derap sepatunya di lantai ubin semen yang sengaja ia buat keras supaya terdengar mengancam—dan cara ia menarik selimut biru itu dengan satu sentakan hingga terlempar ke pojok kamar.
 
-Ketika patroli malam akhirnya selesai pada pukul setengah dua dini hari, Salman hanya memiliki waktu kurang dari dua jam untuk merebahkan badannya yang remuk redam. Di atas dipan kayu pos jaga yang sempit dan berdebu, ia mencoba memejamkan mata di bawah selimut tipis yang berbau apek. Namun seringkali tidur itu tidak kunjung datang karena otot-otot tubuhnya yang terlalu tegang dan pikirannya yang masih berputar memikirkan permasalahan santri esok hari. Dan sebelum ia sempat memasuki fase tidur nyenyak, alarm jam dinding pos jaga telah kembali berdering nyaring pada pukul tiga dini hari untuk mengulang neraka rutinitas yang sama.
+Dan cara ia mengayunkan rotan ke lantai tepat di samping tumit Farhan.
 
-Kelelahan biologis yang menumpuk ini telah merusak homeostasis tubuh Salman secara mendasar dan berbahaya bagi kesehatannya. Otot-otot leher dan pundaknya terasa kaku, tegang, dan nyeri laksana kayu kering yang hendak patah akibat beban fisik yang melampaui batas kewajaran. Denyut rasa sakit di pelipis kanannya terasa berdenyut-denyut kencang laksana dihantam palu godam berulang kali (*throbbing tension headache*). Setiap kali Salman menggerakkan lehernya ke kiri atau ke kanan, terdengar bunyi gemeretak halus dari persendian tulangnya yang aus dan meradang.
+*Krak!*
 
-Secara neurobiologis, sumbu hipotalamus-pituitari-adrenal (*HPA axis*) di dalam tubuh Salman telah berada dalam status siaga bahaya tingkat tinggi yang kronis (*chronic hypervigilant state*). Banjir hormon kortisol dan adrenalin yang membanjiri peredaran darahnya secara terus-menerus melumpuhkan fungsi korteks prefrontal (*prefrontal cortex*)—pusat kendali rasional, kesabaran, dan pertimbangan etis di otaknya. Sebaliknya, amigdala Salman mengambil alih kendali penuh, memicu respon defensif instingtif yang membuat dirinya selalu berada dalam mode bertarung atau lari (*fight-or-flight mode*). Dalam kondisi seperti ini, Salman kehilangan kemampuan biologis untuk bersikap tenang, sabar, dan penuh pertimbangan dalam menghadapi kenakalan santri.
+Ia ingat suara itu lebih jelas dari suara lainnya.
 
-Keadaan fisiologis yang rapuh tersebut bermuara pada apa yang dalam sains modern disebut sebagai sindrom kelelahan belas kasih (*compassion fatigue*). Cadangan empati dan kasih sayang di dalam jiwanya telah terkuras habis hingga ke titik nadir, menyisakan kekosongan emosional yang dingin dan hampa. Suara gesekan sandal santri di lorong semen yang basah terdengar laksana tantangan yang memekakkan telinga. Pertanyaan lugu santri baru yang tersesat mencari tempat wudhu tidak lagi disikapi dengan bimbingan lembut, melainkan dipandang sebagai gangguan yang menyebalkan dan pantas dibentak dengan kata-kata kasar.
+Farhan terlonjak. Terjatuh dari sisi ranjang. Lutut membentur ubin. Kedua tangannya naik ke atas melindungi kepala—gerakan naluriah seseorang yang mengira ia akan dipukul.
 
-Salman menatap nanar secangkir kopi hitam pekat di atas mejanya yang telah dingin dan menyisakan ampas tebal berbau pahit menyengat. Kopi hitam itu adalah cangkir keempat yang ia teguk malam ini demi memaksa matanya tetap terbuka di tengah serbuan kantuk yang mematikan. Namun kafein pekat itu tidak lagi mampu memberikan kesegaran berpikir, melainkan hanya menyisakan rasa perih membakar di lambungnya yang kosong dan gemetar halus di ujung jemari tangannya. Tubuhnya menjerit menuntut istirahat, namun tanggung jawab keamanan asrama mencengkeram lehernya tanpa ampun.
+Ia tidak dipukul.
 
-Tepat di samping cangkir kopi dingin itu, tergeletak sebilah rotan kuning mengkilap sepanjang satu meter dengan gagang berbalut tali rami cokelat. Permukaan rotan itu tampak sangat licin karena telah ratusan kali digenggam oleh telapak tangan Salman yang berkeringat saat memimpin patroli asrama. Di ujung bilah rotan tersebut, terlihat memar kehitaman bekas hantaman keras yang berulang-ulang ke permukaan lantai semen, kusen pintu kayu, dan tiang penyangga asrama. Rotan itu adalah senjata utama yang selalu menyertai setiap langkah kaki Salman sejak hari pertama ia diangkat menjadi kepala keamanan.
+Tapi ia sudah menutupi kepalanya.
 
-Selama ini, Salman berusaha keras meyakinkan dirinya sendiri bahwa rotan kuning itu adalah instrumen suci untuk menegakkan wibawa kepengasuhan pesantren. Para senior pengasuhan terdahulu selalu menanamkan dogma bahwa santri adalah sekelompok anak nakal yang hanya bisa ditundukkan dengan gertakan fisik dan rasa takut. "Wibawamu sebagai musyrif ada pada ketakutan mereka, Salman," demikian nasehat seorang senior yang selalu terngiang di kepalanya. "Sekali saja kamu bersikap lembut dan tersenyum, mereka akan meremehkanmu dan seluruh asrama ini akan hancur oleh anarki!"
+Sepuluh detik Salman berdiri di sana, memegang rotan, menatap anak dua belas tahun yang duduk gemetar di lantai semen dengan piyama lusuh dan rambut yang baru saja bangun. Di sekeliling mereka, dua puluh anak lainnya membeku di atas ranjang masing-masing—tidak ada yang bergerak, tidak ada yang mengeluarkan suara. Mereka menahan napas.
 
-Doktrin kedisiplinan berbasis rasa takut itulah yang telah menuntun setiap keputusan operasional Salman selama berbulan-bulan di pesantren ini. Salman meyakini bahwa suara dentuman rotan yang menghantam lantai adalah melodi ketertiban yang paling efektif untuk membangunkan santri dan menegakkan adab. Namun malam ini, di tengah dinginnya pos jaga yang sepi dan membekukan, sebuah kehampaan batin yang teramat perih mulai menggerogoti jiwanya dari dalam. Salman menatap bilah rotan kuning itu bukan lagi sebagai lambang ketegasan seorang kesatria pendidik, melainkan sebagai tanda kelemahan jiwa dan keputusasaan metodologi yang memalukan.
+Waktu itu Salman tidak merasa apa-apa. Hanya mendapat apa yang ia inginkan: keheningan mutlak dan kepatuhan yang total.
 
-Salman mengulurkan tangannya yang gemetar, menyentuh permukaan rotan kuning yang dingin dan kaku di atas meja kayu jati tersebut. Sensasi dingin dari bilah rotan itu merambat perlahan menembus telapak tangannya, menghadirkan rasa mual yang mendadak menyeruak di ulu hatinya. Salman teringat bagaimana tatapan mata anak-anak asuhnya berubah drastis setiap kali melihat dirinya melangkah mendekati bilik kamar mereka. Sorot mata ceria anak-anak itu seketika padam, digantikan oleh kepanikan liar dan ketakutan mencekam laksana anak-anak ayam yang melihat burung elang pemangsa melayang di atas sarang mereka.
+Sekarang, duduk di pos jaga pukul dua lebih seperempat, ia merasa apa yang tidak ia rasakan kemarin.
 
-Tepat di sebelah bilah rotan kuning tersebut, tergeletak sebuah buku besar bersampul kulit hitam dengan sudut-sudut yang telah melengkung dan aus. Buku itu adalah *Buku Catatan Pelanggaran dan Mahkamah Disiplin Asrama Putra*, tempat seluruh dosa dan kekhilafan para santri diabadikan dengan tinta merah yang dingin. Salman membuka lembaran-lembaran kertas bergaris buku itu dengan gerakan perlahan, membiarkan matanya menatap deretan nama dan angka yang tertulis di sana. Setiap halaman buku itu dipenuhi oleh coretan vonis hukuman yang ia tuliskan sendiri dengan tangan kanannya selama tiga bulan terakhir.
+Tatapan mata Farhan.
 
-Nama-nama santri tercantum berderet dengan rincian dakwaan yang kaku dan tanpa ampun di setiap lembarnya. Ada catatan tentang Farhan yang terlambat sholat Subuh tiga menit dan dihukum lari keliling lapangan sepuluh kali, ada Danang yang sandalnya tidak rapi di rak lalu dihukum menguras selokan asrama, dan ada Faisal yang tertawa saat doa malam sehingga dihukum berdiri di depan pos jaga hingga pukul sepuluh malam. Coretan-coretan tinta merah itu tampak begitu garang, mutlak, dan tidak menyisakan ruang sedikit pun bagi pemahaman atas kelelahan atau kerapuhan psikologis anak-anak tersebut. Buku hitam itu laksana neraca pengadilan yang hanya mengenal vonis tanpa secuil pun belas kasihan.
+Bukan tangis, bukan teriakan. Hanya tatapan. Sepasang mata yang menatap ke arahnya—tidak dengan marah, tidak dengan protes, tapi dengan sesuatu yang jauh lebih sulit ditanggung dari amarah. Rasa takut yang sudah menjadi biasa. Kepasrahan yang sudah mengendap menjadi kebiasaan. Dan di balik itu semua, di lapisan yang paling dalam, sesuatu yang Salman baru bisa namai malam ini:
 
-Pandangan mata Salman terpaku lama pada nama Farhan yang tercatat berulang-ulang di lembaran halaman ketiga puluh dua. Bocah kurus berusia dua belas tahun asal dusun terpencil di kaki gunung itu baru sepekan menginjakkan kakinya di lingkungan pesantren yang serba asing ini. Salman tahu betul bahwa anak itu masih sering menangis diam-diam di balik lemari pakaian karena menahan rindu yang teramat sangat kepada ibunya di kampung halaman. Namun alih-alih merangkul dan menghibur hati anak perantau yang malang itu, Salman justru menjadikannya sebagai sasaran empuk pelampiasan frustrasi dan ketegasan semu pengasuhannya.
+Rasa tidak percaya.
 
-Rasa bersalah yang mendalam seketika menghantam ulu hati Salman laksana pukulan palu godam raksasa yang meremukkan tulang rusuknya. Nafas pemuda itu tercekat di tenggorokan, dan matanya yang sembab mulai digenangi oleh butiran air mata penyesalan yang panas. Kenangan peristiwa Subuh kemarin di dalam bilik Kamar Al-Farabi berputar kembali di depan matanya laksana rekaman film kelam yang menolak dihapus dari memorinya. Bayangan kepanikan Farhan dan kawan-kawan sekamarnya mendadak memenuhi seluruh dinding pos jaga yang temaram.
+Anak itu tidak percaya bahwa orang dewasa di sekelilingnya bisa aman.
 
-Kemarin Subuh, saat waktu sholat berjamaah tinggal sepuluh menit lagi, Salman mendapati Farhan masih meringkuk di atas kasur busanya yang lusuh dengan selimut biru yang menutupi hingga ke ujung kepala. Kelelahan fisik Salman yang telah menumpuk sejak malam sebelumnya seketika meledak menjadi amarah yang buta dan tak terkendali. Tanpa bertanya apakah anak itu sedang sakit demam atau kelelahan, Salman melangkah masuk ke dalam kamar dengan derap sepatu yang menghentak keras di atas lantai ubin semen. Tangan kanannya mencengkeram rotan kuning dengan urat-urat lengan yang menegang tegang.
+Salman menggeser tangannya dari pelipisnya. Ia membuka laci meja sebelah kanan—laci yang kayu tepinya sudah renggang dan berderit setiap kali ditarik. Di sudut paling dalam, di balik penghapus papan tulis dan meteran kain yang entah milik siapa, jemarinya menyentuh sesuatu.
 
-Dengan satu sentakan kasar, Salman menarik paksa selimut biru yang menutupi tubuh Farhan hingga terlempar ke sudut lantai kamar. Sebelum bocah malang itu sempat menyadari apa yang sedang terjadi, Salman mengayunkan rotan kuningnya sekuat tenaga ke arah lantai semen tepat di samping tumit kaki Farhan. Bunyi lecutan rotan yang menggelegar memecah keheningan fajar di dalam bilik sempit itu, disusul oleh debu semen halus yang beterbangan ke udara dan pekikan ketakutan Farhan yang tersentak bangun dengan mata terbelalak liar.
+Buku harian bersampul kulit cokelat tua.
 
-Salman masih ingat betul bagaimana tubuh kurus Farhan gemetar hebat laksana anak burung yang jatuh dari sarang tingginya di tengah hujan lebat. Kedua telapak tangan anak itu terangkat ke atas menutupi kepalanya yang tertunduk, seolah berusaha melindungi diri dari hantaman rotan berikutnya yang mungkin akan mendarat di tubuhnya. Namun yang paling meremukkan sanubari Salman malam ini bukanlah pekikan ketakutan Farhan, melainkan sepasang bola mata anak itu saat memberanikan diri menatap wajah sang musyrif.
+Ia menariknya keluar. Mengelap debunya dengan lengan baju.
 
-Di dalam sepasang bola mata Farhan yang basah oleh genangan air mata, Salman sama sekali tidak menemukan rasa hormat, ketakziman, atau cinta seorang santri kepada murabbinya. Yang terpancar dari mata bocah malang itu adalah kengerian murni, rasa terasing yang membeku, dan kebencian sunyi terhadap sosok pendidik yang berdiri angkuh di hadapannya. Sorot mata Farhan saat itu adalah sorot mata seekor kijang kecil yang terluka dan terpojok di hadapan serigala pemangsa di tengah rimba gelap tanpa ada tempat untuk berlari meminta pertolongan.
+Tiga tahun yang lalu ia membeli ini di pasar kecamatan dengan uang saku terakhirnya. Hari yang sama ia mengucapkan ikrar di hadapan Kyai Hasyim. Hari kelulusan madrasah aliyah. Hari paling penuh harapan dalam hidupnya.
 
-Tatapan mata Farhan itu terus menghantui pikiran Salman sepanjang siang dan malam, menjelma menjadi duri beracun yang menancap semakin dalam di relung jiwanya. Salman memegangi dadanya yang terasa berdenyut nyeri dan sesak, seolah pasokan udara di dalam pos jaga mendadak lenyap tak bersisa. Ia menyadari sebuah kepalsuan besar dalam jalan hidupnya: bahwa ketertiban yang ia ciptakan selama ini bukanlah ketertiban adab yang lahir dari kesadaran hati, melainkan ketertiban semu yang dipaksakan di bawah todongan teror fisik yang merusak fitrah manusia.
+Ia membuka halaman pertama.
 
-Salman menarik nafas panjang yang bergetar, berusaha menenangkan gemuruh badai yang berkecamuk di dalam kepalanya yang pening. Tangannya yang dingin bergerak perlahan menuju laci meja kerja sebelah kanan yang kayunya telah renggang dan berderit nyaring saat ditarik keluar. Dari dalam laci sempit yang berdebu dan dipenuhi serpihan kapur tulis itu, jemari Salman meraba sebuah benda persegi panjang yang telah lama ia sembunyikan di sudut terdalam. Tangannya menarik keluar sebuah buku catatan harian pribadi bersampul kulit cokelat tua dengan pita pembatas sutra merah yang mulai pudar warnanya.
+Tulisan tangannya sendiri. Khat naskhi hitam yang dulu rapi sekali, sekarang sudah tidak bisa ia tiru lagi karena tangannya terlalu sering gemetar kelelahan.
 
-Buku harian bersampul kulit cokelat itu adalah pusaka pribadi yang ia beli dengan seluruh sisa uang sakunya tiga tahun yang lalu di pasar kecamatan. Hari itu adalah hari paling membahagiakan dalam hidupnya, hari kelulusannya dari madrasah aliyah sekaligus hari pembacaan ikrar pengabdian dirinya sebagai ustadz muda di hadapan sang guru besar, Kyai Hasyim. Salman mengusap permukaan kulit buku itu dengan jemarinya yang gemetar, menyingkirkan lapisan debu tipis yang menutupi tulisan kaligrafi timbul bertuliskan *Buku Harian Khidmah dan Tarbiyah*.
+*Bismillāhir-Raḥmānir-Raḥīm...*
 
-Salman membuka lembaran pertama buku catatan itu dengan gerakan yang sangat hati-hati, seolah takut merobek kesucian lembaran masa lalunya yang tersimpan di sana. Di halaman pembuka yang kertasnya telah menguning dimakan usia, terpampang tulisan tangan kaligrafi Salman sendiri menggunakan tinta Cina hitam yang pekat dan rapi. Bait-bait tulisan khat naskhi itu ditulis dengan penuh gairah spiritual, memancarkan kesucian tekad seorang pemuda yang ingin mewakafkan seluruh usianya di jalan dakwah dan pendidikan Islam. Salman membaca kembali bait-bait tulisan tangannya dengan suara bibir yang bergetar menahan tangis: *"Bismillāhir-Raḥmānir-Raḥīm... Ya Allah Yang Maha Pengasih lagi Maha Penyayang. Pada hari yang penuh berkah ini, di bawah naungan doa Kyai Hasyim, hamba berikrar untuk mewakafkan masa muda hamba demi mengasuh tunas-tunas peradaban di Pesantren Darul Adab. Jadikanlah hamba seorang murabbi yang meneladani kelembutan akhlak Baginda Rasulullah SAW... Jadikanlah dada hamba seluas samudera untuk merangkul kelemahan dan air mata santri-santri yang rindu pada pelukan orang tua mereka... Jangan pernah biarkan lisan dan tangan hamba melukai hati seorang pun penuntut ilmu titipan umat ini..."*
+*Ya Allah. Pada hari ini hamba berikrar untuk menjadi murabbi bagi tunas-tunas peradaban di Darul Adab. Jadikanlah lisan ini lembut. Jadikanlah tangan ini penyembuh, bukan pemukul. Jadikanlah dada hamba cukup luas untuk menerima air mata santri yang rindu ibunya...*
 
-Tepat di bawah bait ikrar pengabdian tersebut, Salman menuliskan sebuah hadits kenabian yang diriwayatkan oleh Imam Muslim dengan harakat yang sangat lengkap: *«إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ»*, yang bermakna bahwa sesungguhnya kelembutan itu tidaklah berada pada sesuatu melainkan ia akan menghiasinya, dan tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan memperburuknya. Tulisan kaligrafi hadits itu tampak berkilau di bawah temaramnya cahaya lampu minyak pos jaga. Salman menatap harakat-harakat suci tersebut dengan dada yang bergemuruh hebat, merasakan setiap hurufnya menembus dinding kesadarannya yang telah lama beku.
+Salman berhenti membaca.
 
-Kata demi kata sabda Rasulullah SAW itu mendadak laksana bilah pedang berkilau yang menghujam tepat ke jantung kesombongannya tanpa ampun. Tidaklah kelembutan itu dicabut dari sesuatu melainkan ia akan memperburuknya! Kalimat itu menggema berulang-ulang di dalam ruang benaknya, menelanjangi seluruh kebohongan metode disiplin keras yang selama ini ia agung-agungkan di hadapan rekan-rekannya. Salman menyadari bahwa dengan mencabut kelembutan dari asrama ini, ia sesungguhnya sedang memperburuk akhlak para santri dan merusak keindahan Islam itu sendiri.
+Satu kalimat itu cukup.
 
-Setitik air mata panas yang tak terbendung lagi menetes dari sudut kelopak mata Salman yang merah dan perih. Tetesan air mata itu meluncur jatuh tepat di atas kata *ar-rifq* (kelembutan) pada lembaran buku hariannya, membasahi kertas kuno tersebut hingga tinta hitamnya meluber dan memudar membentuk lingkaran basah yang buram. Salman menatap lingkaran basah itu dengan perasaan hancur yang teramat sangat, menyadari betapa jauh dirinya telah tersesat dari cita-cita luhur yang dulu ia ikrarkan di hadapan Allah dan para gurunya. Air mata penyesalan itu terus mengalir, membasahi bait-bait doa yang dulu ia tulis dengan penuh ketulusan.
+Ia meletakkan buku itu di atas meja, lalu menatap langit-langit pos jaga yang ternoda jamur dan retakan. Nafasnya panjang, tidak rata, seperti orang yang baru saja naik dari dalam air.
 
-Bagaimana mungkin impian yang begitu suci dan dipenuhi cahaya kasih sayang itu kini bermutasi menjadi kenyataan kelam yang mengerikan di tangannya sendiri? Bagaimana mungkin pemuda yang dulu bertekad menjadi pelindung bagi anak-anak yatim dan perantau, kini justru menjelma menjadi momok menakutkan yang membuat santri-santri gemetar ketakutan di setiap sudut asrama? Di manakah letak kelembutan kenabian yang dulu ia tulis dengan penuh air mata haru ketika tangannya sendiri kini begitu ringan mengayunkan rotan ke arah tubuh anak-anak yang tak berdaya? Pertanyaan-pertanyaan itu menghakimi jiwanya tanpa ampun di tengah kesunyian sepertiga malam.
+Di bawah bait ikrar itu, ia ingat, ia menulis sebuah hadits dari riwayat Imam Muslim. Ia hafal kata-katanya, tidak perlu membaca:
 
-Pertarungan sengit berkecamuk di dalam benak Salman, membelah kesadarannya menjadi dua kutub yang saling menghantam keras (*the agonizing battle of moral injury and cognitive dissonance*). Di satu sisi, doktrin feodal pengasuhan lama yang telah mengakar di kepalanya berusaha melakukan perlawanan defensif untuk membela diri. Suara egonya berbisik lantang bahwa kekerasan fisik adalah satu-satunya bahasa yang dipahami oleh anak-anak asrama, dan bahwa tanpa adanya ancaman rotan, tatanan disiplin pesantren yang telah dibangun puluhan tahun akan runtuh seketika. "Kalau kamu tidak bersikap keras dan menakutkan, Salman, santri-santri itu tidak akan pernah sholat Subuh tepat waktu!" demikian suara pembenaran diri yang terus berteriak nyaring di dalam kepalanya demi menepis rasa bersalah.
+$$\text{إِنَّ الرِّفْقَ لَا يَكُونُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا يُنْزَعُ مِنْ شَيْءٍ إِلَّا شَانَهُ}$$
 
-Namun suara nurani fitrah Salman yang telah tersentuh oleh air mata taubat menolak mentah-mentah rasionalisasi palsu tersebut. Hati kecilnya menjerit bahwa ketegasan yang lahir dari rasa takut bukanlah pendidikan karakter, melainkan penjinakan hewani yang menindas martabat manusia ciptaan Allah. Salman teringat sebuah pesan adab yang sangat mendalam dari Hujjatul Islam Imam Al-Ghazali dalam kitab *Ihya' Ulumiddin* yang berbunyi: *«مَنْ رَبَّى بِالْقَهْرِ وَالْقَسْوَةِ مِنَ الْمُتَعَلِّمِينَ، سَطَا بِهِ الْقَهْرُ، وَضَاقَتْ نَفْسُهُ عَنِ الِانْبِسَاطِ، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ فِيهِ»*, yang menegaskan bahwa barangsiapa mendidik penuntut ilmu dengan paksaan dan kekerasan, maka watak penindas akan menguasai dirinya, jiwanya menjadi sempit dan tertekan dari perkembangan yang lapang, serta rusaklah makna-makna kemanusiaan di dalam dirinya. Peringatan agung dari sang Hujjatul Islam itu terasa meruntuhkan seluruh sendi keyakinan lamanya.
+*Sesungguhnya kelembutan, tidak berada pada sesuatu kecuali ia memperindahnya. Dan tidak dicabut dari sesuatu kecuali ia memperburuknya.* (HR. Muslim, no. 2594)
 
-Kutipan hikmah Imam Al-Ghazali itu menggelegar laksana petir di tengah keheningan pos jaga, menyapu bersih seluruh dalih pembelaan diri yang tersisa di dalam kepala Salman. Rusaklah makna-makna kemanusiaan di dalam dirinya! Kalimat itu menjadi vonis mutlak atas kegagalan sistem pengasuhannya selama ini. Salman menyadari bahwa santri yang patuh karena takut akan rotan kelak akan menjadi pribadi yang munafik: taat ketika diawasi oleh musyrif, namun liar dan melanggar aturan begitu berada di luar jangkauan pengawasan. Disiplin yang dibangun di atas pondasi ketakutan hanyalah ilusi kerapuhan yang menunggu waktu untuk meledak menjadi kekacauan yang lebih besar.
+Ia hafal itu sejak dulu.
 
-Dan yang jauh lebih mengerikan lagi, kekerasan yang ia taburkan setiap hari di dalam asrama akan diserap oleh jiwa anak-anak asuhnya sebagai norma kehidupan yang lumrah. Suatu saat nanti, ketika anak-anak kelas tujuh yang hari ini menangis di bawah ancaman rotan naik menjadi santri senior, mereka akan melampiaskan luka dan dendam masa lalu mereka kepada generasi adik kelas berikutnya. Salman tersadar bahwa tangannya sendiri yang memegang rotan kuning itu sedang memelihara lingkaran setan feodalisme dan penindasan yang menghancurkan masa depan peradaban pesantren dari dalam. Dosa jariyah kekerasan itu akan terus mengalir dari generasi ke generasi jika tidak segera diputus hari ini juga.
+Ia hafal, dan ia tetap mengangkat rotan.
 
-Salman menarik kedua tangannya dari atas meja kayu, lalu menangkupkan kedua telapak tangannya menutupi seluruh wajahnya yang kuyu dan basah oleh air mata. Bahunya yang kekar dan tegap mulai berguncang-guncang hebat menahan badai tangis penyesalan yang membuncah dari relung sanubarinya yang paling dalam. Suara isak tangisnya yang tertahan terdengar lirih dan menyayat hati, memecah kesunyian malam di bilik pos jaga yang dingin membeku. Seluruh keangkuhan, baju zirah wibawa semu, dan kepalsuan otoritas musyrif yang selama ini ia kenakan runtuh lebur tak bersisa di atas lantai semen.
+Ia tidak tahu kapan tepatnya dua hal itu bisa ada bersamaan di dalam kepala yang sama—hafal sabda Nabi tentang kelembutan, dan setiap pagi mengayunkan rotan kepada anak-anak. Mungkin itulah yang disebut orang-orang sebagai kemunafikan. Atau mungkin ia hanya terlalu lelah untuk merasakan kontradiksi itu sampai malam ini.
 
-Di hadapan pengawasan Allah SWT yang Maha Menatap di sepertiga malam terakhir, Salman merasa dirinya hanyalah sebutir debu yang hina dan penuh dosa. Ia menyadari betapa zhalimnya dirinya yang telah membalas kepercayaan para wali santri dengan bentakan kasar dan ancaman tongkat rotan kepada anak-anak mereka yang tak berdosa. Rasa malu yang luar biasa kepada Baginda Rasulullah SAW membakar dadanya, membayangkan bagaimana beliau mendidik para sahabat dengan kelembutan, kesabaran, dan keteladanan akhlak yang agung tanpa pernah memukul seorang anak pun sepanjang hayat beliau. Teladan agung Rasulullah SAW itu terasa begitu kontras dengan apa yang telah ia praktekkan selama berbulan-bulan ini.
+Di laci yang sama dengan buku hariannya, ada buku lain. Yang ini tebal, bersampul hitam, sudutnya mulai melengkung. Buku catatan pelanggaran dan mahkamah disiplin asrama.
 
-"Astaghfirullāhal-'Azhīm... Astaghfirullāhal-'Azhīm... Astaghfirullāhal-'Azhīm..." rintih Salman dengan suara serak yang bergetar hebat di sela-sela hembusan nafasnya yang tersengal-sengal. "Ampunilah hamba-Mu yang jahil dan melampaui batas ini, ya Allah... Betapa zhalimnya tangan ini yang telah mengayunkan rotan kepada anak-anak penghafal ayat-ayat-Mu... Betapa kotornya lisan ini yang telah membentak tunas-tunas peradaban yang seharusnya hamba rawat dengan air cinta dan kesabaran..." Rintihan taubat itu mengalir tulus dari lubuk hatinya yang paling remuk.
+Salman menariknya keluar juga.
 
-Salman tidak sanggup lagi menahan beban kehancuran batinnya di atas kursi kayu jati tersebut. Tubuhnya yang remuk redam merosot turun ke bawah dengan lutut yang membentur lantai semen pos jaga yang dingin dan berdebu. Salman merebahkan keningnya yang panas tepat di atas lantai semen yang membeku, bersujud dalam kepasrahan total dan taubat nasuha yang meremukkan seluruh sendi-sendi kesombongannya di hadapan Sang Khaliq. Posisi sujud itu adalah penyerahan diri yang paling mutlak, melepaskan segala atribut kebesaran duniawi yang fana.
+Ia membuka halaman ketiga puluh dua.
 
-Di atas lantai pos piket yang bersahaja itu, Salman menumpahkan seluruh air mata yang telah lama membatu di dalam dadanya. Setiap detik sujudnya adalah permohonan ampun yang tulus atas setiap desah ketakutan santri yang pernah ia picu, atas setiap derai air mata anak-anak kelas tujuh yang menangis merindukan rumah mereka, dan atas kegagalannya menjadi cermin keteladanan kenabian. Lantai semen abu-abu di bawah keningnya basah kuyup oleh tetesan air mata penyesalan yang melarutkan debu dan dosa-dosa pengasuhannya. Salman berjanji dalam sujudnya bahwa ia tidak akan pernah lagi mengangkat tongkat kekerasan kepada tunas-tunas fitrah yang suci itu.
+Nama *Farhan* tertulis empat kali di halaman itu saja. Dengan rincian pelanggaran yang membuat Salman, membacanya sekarang, merasakan sesuatu yang tidak enak di bagian bawah tulang dadanya:
 
-Dalam keheningan sujud panjang yang meruntuhkan segala bentuk arogansi kekuasaan itu, Salman merasakan beban berat yang menghimpit rongga dadanya perlahan-lahan mulai terangkat. Sakit kepala tegang yang berdenyut-denyut di pelipisnya mereda secara berangsur-angsur, digantikan oleh kelegaan batin yang sejuk dan menenangkan jiwa. Salman menyadari bahwa malam ini Allah sedang membersihkan hatinya melalui rasa sakit penyesalan, membuka jalan baginya untuk kembali menapaki fitrah sejati seorang pendidik yang berjiwa mulia. Hatinya yang dulu keras membeku kini telah luluh dan siap menerima benih-benih kebaikan yang baru.
+*Terlambat sholat Subuh 3 menit. Hukuman: lari keliling lapangan 10 kali.*
 
-Ketika Salman perlahan-lahan mengangkat kepalanya dari sujud dan kembali duduk bertumpu pada kedua lututnya di atas lantai semen, jarum jam dinding plastik di atas rak berkas menunjukkan pukul dua lewat empat puluh menit dini hari. Wajah pemuda itu basah kuyup oleh air mata dan keningnya memerah berlumur debu halus lantai pos jaga, namun sepasang bola matanya memancarkan kedamaian batin yang belum pernah ia rasakan sebelumnya. Malam di luar pos jaga masih sangat pekat dan dingin membeku melingkupi lembah pegunungan, namun di dalam dada sang musyrif muda, badai keputusasaan telah berganti menjadi ketetapan hati untuk meletakkan rotan kuning dan menyongsong fajar pembaharuan tarbiyah yang penuh berkah.
+*Sandal tidak rapi di rak. Hukuman: menguras selokan koridor.*
 
-Salman bangkit berdiri perlahan, merapikan baju kokonya yang kusut, lalu menatap bilah rotan kuning di atas meja dengan tatapan yang penuh kebulatan tekad. Ia melangkah menuju jendela pos jaga, membuka sedikit celah nako, dan membiarkan angin malam yang sejuk menyapa wajahnya yang basah. Salman tahu bahwa perjalanan hijrah pedagogis ini tidak akan mudah dan penuh dengan ujian yang berat, namun ia siap membayar harganya demi mengembalikan kemuliaan adab kenabian di Pesantren Darul Adab. Di kejauhan, lolongan anjing malam mulai bersahut-sahutan menyambut datangnya sepertiga malam terakhir, mengiringi tekad suci sang musyrif yang telah terlahir kembali.
+*Berbicara saat antri makan malam. Hukuman: berdiri di lapangan 30 menit.*
 
-Di tengah keheningan pos jaga yang kini terasa teduh, Salman duduk kembali di kursinya dan merapikan buku harian kulit cokelatnya dengan penuh rasa hormat. Ia meletakkan buku pusaka itu tepat di tengah meja, menutupi buku hitam catatan pelanggaran yang kaku. Salman menghela nafas panjang yang terasa lega dan lapang di rongga dadanya, menatap seberkas cahaya kuning lampu minyak tanah yang menerangi ruangan dengan kehangatan baru. Pukul dua lewat empat puluh lima menit dini hari telah tiba, dan takdir Allah sedang menuntun langkah seorang pembimbing senior untuk mengetuk pintu pos jaganya dan membuka lembaran sejarah baru bagi peradaban pesantren.
+*Menangis di jam belajar malam. Hukuman: hapus papan tulis seluruh kelas.*
+
+Salman menutup buku itu.
+
+Menangis di jam belajar malam. Dihukum hapus papan tulis.
+
+Anak itu menangis. Dan ia diberi hukuman karenanya.
+
+Seberapa lama ia tidak berpikir tentang kenapa anak itu menangis? Seberapa lama ia hanya melihat pelanggaran tanpa satu kali pun bertanya *ada apa?* Salman menopang kepalanya lagi dengan kedua telapak tangannya. Matanya perih. Bukan karena kurang tidur—perih yang berbeda, dari dalam.
+
+Ia teringat sesuatu yang pernah ia baca dari kitab *Ihya' Ulumiddin*—bab tarbiyah, kalam Imam Al-Ghazali tentang mendidik dengan paksaan:
+
+$$\text{مَنْ رَبَّى بِالْقَهْرِ وَالْقَسْوَةِ، فَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ فِيهِ}$$
+
+*Barangsiapa mendidik dengan pemaksaan dan kekerasan, rusaklah makna-makna kemanusiaan di dalam diri yang dididik itu.*
+
+Rusak makna-makna kemanusiaan.
+
+Bukan sekadar rusak akhlak. Rusak *kemanusiaannya.*
+
+Salman memejamkan matanya. Di belakang kelopak yang merah dan lelah itu, ia masih bisa melihat Farhan—lutut di lantai semen, tangan di atas kepala, menunggu hantaman berikutnya yang tidak datang. Anak itu menutupi kepalanya sebelum dipukul. Itu artinya ini bukan kali pertama ia refleks melakukan itu. Itu sudah menjadi reflek. Sudah terlatih.
+
+Oleh siapa?
+
+Kursi kayu itu berderit ketika Salman bergerak, merosot turun dari tempat duduknya. Lututnya menyentuh lantai semen yang dingin dan berdebu. Ia tidak merencanakan ini. Tubuhnya bergerak sendiri.
+
+Keningnya menyentuh lantai.
+
+Sujud di lantai pos piket, pukul dua lewat dua puluh menit, sendirian.
+
+Tidak ada sajadah. Lantai semen yang kotor dan dingin. Tapi ia tidak peduli soal itu sekarang. Ada sesuatu yang hanya bisa ia lakukan dengan cara ini—dengan keningnya yang panas menempel di batu yang dingin, dengan tubuhnya yang sebesar itu melipat sekecil-kecilnya di hadapan sesuatu yang jauh lebih besar.
+
+*Astaghfirullāhal-'Azhīm...*
+
+Suaranya hanya desisan. Hampir tidak terdengar.
+
+*Ampunilah tangan ini, ya Allah. Tangan yang harusnya menyembuhkan, yang malah mencederai. Ampunilah lisan ini. Ampunilah ini semua.*
+
+Air mata jatuh ke lantai semen. Satu titik. Lalu dua.
+
+Di keningnya yang menempel lantai, ada sensasi dingin yang aneh—bukan tidak nyaman, tapi seperti sesuatu yang memadamkan. Api di dada yang sudah lama membakar, perlahan-lahan, padam sedikit demi sedikit.
+
+Ia tidak tahu sudah berapa lama sujud ketika akhirnya mengangkat kepalanya.
+
+Jam dinding menunjukkan pukul dua lewat empat puluh.
+
+Dua puluh menit.
+
+Lantai di depan wajahnya basah. Ia mengusap wajahnya dengan punggung tangan. Keningnya merah, ada bekas debu lantai menempel di kulitnya. Ia tidak membersihkannya.
+
+Salman duduk kembali di atas lututnya. Punggungnya lurus—pertama kalinya malam ini ia duduk tegak tanpa bersandar.
+
+Matanya masih merah. Kepalanya masih berat. Kelelahan itu tidak kemana-mana.
+
+Tapi ada sesuatu yang berbeda sekarang. Bukan perubahan besar yang dramatis. Hanya seperti seseorang yang akhirnya berhenti berlari dan mengakui bahwa ia tersesat—dan karena sudah mengakui, baru bisa mulai mencari jalan pulang.
+
+Ia menatap rotan kuning di atas meja.
+
+Besok pagi, ia akan memasukkannya ke dalam laci terkunci. Atau mungkin membuangnya. Ia belum tahu pasti. Yang ia tahu—malam ini ia tidak akan lagi tidur dengan rotan itu tergeletak di atas meja, seolah senjata yang siap pakai setiap saat.
+
+Dari luar, suara bambu bergesekan masih terdengar.
+
+Tapi sekarang terdengar berbeda—bukan seperti ancaman, hanya seperti bambu yang bergesek karena angin. Hanya itu. Tidak lebih.
+
+Salman menarik buku harian kulit cokelatnya lebih dekat. Ia membaliknya ke halaman kosong pertama yang ia temukan. Mengambil pena dari saku baju kokonya.
+
+Lalu ia menulis, dengan tulisan tangan yang lebih gemetar dari tiga tahun yang lalu:
+
+*Malam ini aku sujud di lantai semen. Keningku masih terasa dinginnya. Ya Allah, tunjukkan jalan pulang.*
