@@ -11,18 +11,33 @@ Skill ini adalah protokol dan pedoman baku bagi agen dalam menulis seluruh naska
 
 ## 1. Kaidah Baku Format & Volume Penulisan Novel
 
-1. **Standar Mutu Volume Paragraf (50+ Paragraf Utuh Per Sub-Bab)**:
-   * Setiap sub-bab **wajib ditulis utuh sepanjang minimal 50 hingga 70+ paragraf sastra naratif yang tebal dan berisi**.
-   * **DILARANG KERAS MEMBUAT 1 PARAGRAF HANYA BERISI 1 KALIMAT**. Setiap paragraf wajib merupakan sebuah paragraf sastra utuh yang kaya dan mengalir, terdiri dari **3 hingga 6 kalimat naratif, deskriptif, dan dialogis** yang saling bertaut secara organis.
+1. **Standar Mutu Volume Paragraf (50–100 Paragraf Per Sub-Bab)**:
+   * Setiap sub-bab **wajib ditulis utuh sepanjang minimal 50 hingga 100 paragraf sastra naratif**.
+   * Paragraf pendek satu kalimat **diizinkan** sebagai teknik dramatis (jeda emosi, baris dialog tunggal, penegasan), asalkan tidak mendominasi. Mayoritas paragraf narasi dan deskripsi tetap terdiri dari 3–6 kalimat yang saling bertaut.
    * Dilarang keras membuat ringkasan singkat, sinopsis cepat, poin-poin ceklis kering, atau tulisan pendek berformat esai ringkas.
-   * Setiap paragraf adalah kesatuan narasi visual, pergulatan emosional, dialog karakter, atau refleksi adab yang dipisahkan oleh *double newline* (`\n\n`).
 
-2. **Gaya Bahasa Sastra Baku & Mengalir (*Literary Narrative Excellence*)**:
-   * Menggunakan Bahasa Indonesia baku tingkat tinggi yang kaya diksi puitis, mengalir alami, dan bebas dari gaya bahasa kaku dokumen birokrasi.
-   * Membangun ketegangan emosional (*Dramatic Tension*), kehangatan empati (*Deep Empathy*), dan keindahan thuma'ninah (*Spiritual Tranquility*).
+2. **Referensi Gaya Penulisan Baku — Perpaduan Ahmad Fuadi & Habiburrahman El Shirazy**:
+   * **Ahmad Fuadi** (*Negeri 5 Menara*): Sensoris luar biasa, detail kehidupan pesantren yang hidup dan otentik, deskripsi alam dan suasana yang menggigit, refleksi batin yang mendalam namun tidak mengkhotbah.
+   * **Habiburrahman El Shirazy** (*Ayat-Ayat Cinta*): Dialog yang penuh getaran emosi dan tidak kaku, penceritaan tokoh yang membuat pembaca berpihak, momen spiritual yang menyentuh tanpa terasa dipaksakan.
+   * **Hasil perpaduan**: Kalimat pendek-panjang silih berganti mengikuti ritme emosi cerita. Dialog tidak formal—ada jeda, ragu, potongan kalimat yang mencerminkan manusia nyata. Narasi "tunjukkan, jangan ceritakan" (*show, don't tell*).
 
-3. **Sensoris Multi-Dimensi (*Immersive Sensory Details*)**:
-   * Setiap adegan wajib menghidupkan panca indera: aroma embun fajar, wangi kasturi atau teh jahe, dinginnya lantai semen kamar mandi, gemericik air wudhu, sorot lampu kuning temaram, rasa perih luka rotan atau detergen, dan kehangatan rangkulan murabbi.
+3. **LARANGAN KERAS Pola AI-Writing**:
+   * ❌ DILARANG membuka paragraf dengan template: *"Pukul [waktu] di [lokasi]... Sinar mentari... Hembusan angin... Aroma..."* — ini template mekanis yang mudah dikenali sebagai AI.
+   * ❌ DILARANG menggunakan frasa superlatif berulang: *"sangat lembut dan bersahabat"*, *"sangat rapi"*, *"sangat berharga"*, *"sangat mengharukan"*, *"sangat meyakinkan"* — tunjukkan, jangan nyatakan.
+   * ❌ DILARANG dialog yang terlalu sempurna dan formal: tokoh tidak berbicara seperti buku teks. Dialog harus hidup, bisa terpotong, bisa tidak terselesaikan.
+   * ❌ DILARANG penutup sub-bab yang selalu puitis-klisé: *"...kini telah disapa fajar kasih sayang..."*, *"...memancarkan cahaya peradaban..."* — akhiri sub-bab dengan adegan yang menggantung atau transisi organis.
+   * ❌ DILARANG menjelaskan makna emosi setelah menunjukkannya: jika Farhan menangis, jangan langsung tulis kalimat yang menjelaskan *mengapa* ia menangis. Biarkan pembaca merasakannya.
+
+4. **Teknik Naratif yang Wajib Digunakan**:
+   * **Ritme Kalimat Berselang**: Kalimat pendek yang menohok (*"Ia bangkit dengan punggung yang terasa berat."*) lalu disusul kalimat panjang yang membangun atmosfer. Variasi ini menciptakan ritme baca yang manusiawi.
+   * **Interior Monolog Tidak Langsung**: Pikiran tokoh muncul organis di dalam narasi tanpa selalu ditandai dengan tanda petik atau *"Farhan berpikir bahwa..."*.
+   * **Detail Sensoris yang Spesifik**: Bukan sekadar *"aroma wangi"*, tapi *"aroma minyak wangi melati khas lemari kayu jati ibunya"*. Spesifik adalah tanda penulisan manusiawi.
+   * **Subtext dalam Dialog**: Tokoh tidak selalu mengungkapkan apa yang mereka rasakan. Emosi tersembunyi di balik apa yang *tidak* dikatakan atau *tidak* dilakukan.
+   * **Peralihan Sudut Pandang Internal**: Sesekali masuk ke dalam kepala tokoh lain (Danang, Faisal, Salman) untuk menunjukkan bahwa konflik batin tidak hanya milik satu tokoh.
+
+5. **Sensoris Multi-Dimensi (*Immersive Sensory Details*)**:
+   * Setiap adegan wajib menghidupkan indera: aroma embun fajar, wangi kasturi atau teh jahe, dinginnya lantai semen, gemericik air wudhu, sorot lampu kuning temaram, rasa perih luka, kehangatan rangkulan.
+   * Detail sensoris harus **spesifik dan konkret**, bukan generik. Bukan *"bau asrama"* tapi *"bau apek kasur busa yang belum dijemur berpekan-pekan"*.
 
 ---
 
@@ -60,12 +75,11 @@ Setiap sub-bab dihidupkan dengan latar spesifik kehidupan asrama:
 ## 4. Integrasi Organik Teks Turats & Neurosains
 
 1. **Teks Turats Berharakat Lengkap**:
-   * Setiap kali Kiai Hasyim atau asatidz memberikan nasihat, sertakan kutipan ayat Al-Qur'an, hadits Nabi, atau kalam hikmah ulama salaf (Imam Al-Ghazali, Ibnu Khaldun, Ibnu 'Athaillah, Syed Naquib Al-Attas) dalam aksara Arab berharakat rapi:
-   $$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
-   * Berikan terjemahan puitis dan syarah makna yang melebur ke dalam percakapan tokoh.
+   * Setiap kali Kiai Hasyim atau asatidz memberikan nasihat, sertakan kutipan ayat Al-Qur'an, hadits Nabi, atau kalam hikmah ulama salaf (Imam Al-Ghazali, Ibnu Khaldun, Ibnu 'Athaillah, Syed Naquib Al-Attas) dalam aksara Arab berharakat rapi.
+   * Berikan terjemahan puitis dan syarah makna yang melebur ke dalam percakapan tokoh — **bukan sebagai penjelasan di luar cerita, tapi sebagai bagian dari dialog dan momen dramatik**.
 
 2. **Wawasan Neurosains Terapan**:
-   * Sertakan penjelasan ilmiah yang mudah dicerna mengenai respons otak santri: perbandingan **Amigdala vs Prefrontal Cortex (PFC)**, hormon stres (**Kortisol & Adrenalin**) vs hormon kasih sayang (**Oksitosin, Endorfin, Dopamin, Serotonin**), saraf Vagus, dan gelombang otak **Alfa & Teta (Thuma'ninah)**.
+   * Sertakan penjelasan ilmiah yang mudah dicerna, **dimasukkan secara organis ke dalam narasi** — bukan sebagai sisipan teks akademis yang tiba-tiba berhenti cerita. Pembaca harus memahami sains melalui apa yang *dialami* tokoh, bukan melalui penjelasan langsung dari narrator.
 
 ---
 
@@ -90,10 +104,13 @@ Setiap buku memiliki fokus babak perkembangan yang wajib dikembangkan menjadi 12
 ## 6. Checklist Verifikasi Mandiri Agen Novelis
 
 Sebelum menyelesaikan penulisan setiap sub-bab novel, pastikan:
-- [ ] Apakah jumlah paragraf telah mencapai minimal **50+ paragraf** utuh?
+- [ ] Apakah jumlah paragraf telah mencapai minimal **50 paragraf** hingga maksimal **100 paragraf**?
 - [ ] Apakah setiap paragraf dipisahkan oleh *double newline* (`\n\n`)?
 - [ ] Apakah nama ibu Farhan adalah **Ibu Fatimah** (bukan Rahma)?
-- [ ] Apakah tokoh-tokoh utama (Farhan, Zaid, Salman, Kyai Hasyim, Faisal, Danang, Ilham) hadir dengan karakter yang hidup dan konsisten?
+- [ ] Apakah pembuka sub-bab **tidak** menggunakan template *"Pukul X di lokasi Y, cahaya Z, aroma W"*?
+- [ ] Apakah frasa *"sangat + kata sifat"* berulang sudah dieliminasi dan diganti dengan narasi sensoris konkret?
+- [ ] Apakah dialog tokoh terasa hidup, natural, tidak formal, dan bisa terpotong/tidak tuntas seperti percakapan nyata?
+- [ ] Apakah penutup sub-bab **tidak** puitis-klisé generik, tapi menggantung organis atau transisi dramatis?
 - [ ] Apakah terdapat dialog alami, konflik emosional yang menyentuh, serta deskripsi atmosferik sensoris?
-- [ ] Apakah ada teks Turats berharakat dan keterkaitannya dengan adab atau sains?
+- [ ] Apakah ada teks Turats berharakat yang melebur organis ke dalam momen cerita?
 - [ ] Apakah naskah bebas dari format ringkasan poin atau esai birokrasi?

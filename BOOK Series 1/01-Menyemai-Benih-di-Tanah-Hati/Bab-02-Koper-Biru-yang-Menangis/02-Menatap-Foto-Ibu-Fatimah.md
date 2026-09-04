@@ -1,93 +1,141 @@
 # Sub-Bab 2.2: Menatap Foto Ibu Fatimah
 
-Di sudut Kamar Al-Farabi di samping koper biru tua yang terbuka lebar, aroma teh manis melati dan gurihnya singkong goreng masih mengepulkan uap tipis yang menenteramkan udara pagi. Zaid duduk bersila dengan tenang di atas lantai semen, mengamati jemari Farhan yang sedang meraba-raba saku bagian dalam tutup koper sengnya. Dari balik lipatan kain furing koper yang sedikit robek dimakan usia, jemari Farhan menarik keluar sebuah benda kecil yang dibungkus dengan plastik bening yang dilipat dengan sangat rapi dan teliti.
+Bungkusan plastik itu masih ada di telapak tangan Farhan.
 
-Farhan membuka lipatan plastik pelindung bening tersebut dengan gerakan jemari yang sangat berhati-hati, seolah benda yang sedang ia pegang adalah intan permata yang paling rapuh di muka bumi. Dari dalam bungkusan plastik itu, tampak selembar foto berukuran kartu pos dengan tepi kertas yang telah mulai menguning dimakan waktu. Farhan menatap lembaran foto tersebut dengan pandangan mata yang seketika berubah menjadi sangat lembut dan sarat dengan getaran kerinduan spiritual yang mendalam.
+Ia belum membukanya. Hanya menatapnya—plastik bening dua lapis yang sudah ia lipat dengan sangat hati-hati malam sebelum berangkat, memastikan tidak ada sudut yang terbuka, tidak ada celah tempat air bisa masuk. Ia bahkan sempat menguji dengan meniupnya. Kalau basah, fotonya rusak. Dan foto itu tidak bisa diganti.
 
-Di atas lembaran kertas foto sederhana tersebut, tampak potret sepasang suami istri bersahaja yang berdiri di depan teras rumah berdinding anyaman bambu di kaki bukit. Sosok wanita di dalam foto itu mengenakan jilbab kain sederhana berwarna biru tua bersahaja, dengan wajah teduh yang memancarkan senyuman tulus yang menyejukkan sanubari siapa pun yang memandangnya. Wanita itu adalah **Ibu Fatimah**—ibu kandung Farhan yang selama dua belas tahun merawat dan membesarkannya dengan cucuran air mata doa di desa terpencil.
+Di pesantren ini tidak ada warung foto.
 
-Di samping Ibu Fatimah, berdiri sosok pria bertubuh kurus tegap dengan kemeja batik katun sederhana dan peci hitam yang sedikit miring. Pria itu adalah **Pak Rahmat**—ayah kandung Farhan—seorang petani pekerja keras dengan kulit wajah yang legam terbakar terik matahari sawah dan kedua telapak tangan yang kasar berurat tebal. Tatapan mata Pak Rahmat di dalam foto memancarkan ketegasan seorang kepala keluarga yang menaruh harapan besar pada masa depan putranya agar menjadi insan yang berilmu dan beradab.
+Di desanya pun warung foto itu jauh—dua jam naik bus, dan bapaknya tidak pernah punya waktu untuk urusan seperti itu.
 
-Farhan membalikkan lembaran foto tersebut perlahan-lahan di depan dadanya. Di bagian belakang kertas foto yang berwarna putih kusam, tertulis sebuah pesan singkat bertinta biru yang ditulis dengan tulisan tangan ibunya yang miring dan sederhana namun sangat bermakna: *"Untuk Farhan anak lanangku yang shalih... Belajarlah dengan ikhlas dan sabar ya, Le. Ibu dan Bapak selalu memelukmu dalam setiap sujud sepertiga malam kami."*
+"Dibuka saja," kata Zaid pelan.
 
-Membaca kembali goresan tinta biru tulisan tangan ibunya tersebut, pertahanan batin Farhan seketika luluh kembali. Setitik air mata bening jatuh dari sudut kelopak mata Farhan, tepat menetes di atas permukaan kertas foto di tangannya. Farhan segera menyeka tetesan air mata itu dengan ujung jemarinya secara sangat lembut agar tidak memudarkan tinta tulisan tangan ibunya yang amat ia muliakan.
+Farhan menoleh. Zaid tidak sedang menatapnya—matanya melihat ke lantai semen, tangannya memutar-mutar cangkir enamel yang sudah hampit kosong. Tapi ada sesuatu di nadanya yang tidak menuntut, hanya mengundang.
 
-Di dalam benak Farhan, terbayang kembali detik-detik perpisahan di stasiun kereta api kecil kecamatan enam pekan yang lalu saat ia hendak berangkat menuju Pesantren Darul Adab. Farhan teringat bagaimana telapak tangan Ibu Fatimah yang kasar namun terasa sangat hangat menggenggam kedua pipinya dengan penuh kasih sayang. Ibu Fatimah tidak meneteskan air mata di hadapannya kala itu demi menguatkan ketegaran hati putranya, meskipun Farhan tahu bahwa di balik senyuman ibunya, hati seorang ibu sedang teriris pedih melepas anak semata wayangnya pergi merantau jauh.
+Farhan membuka plastik itu. Perlahan-lahan, seperti orang yang membuka sesuatu yang ia tahu akan menyakitinya namun tidak bisa tidak dilakukan juga.
 
-*"Jadilah insan yang beradab dan berilmu ya, Le... Bawa pulang mahkota kemuliaan Al-Qur'an untuk Ibu dan Bapak di akhirat kelak..."* bisik ibunya kala itu sembari merapikan kerah baju koko putranya. Kata-kata wasiat suci itu kini menggema kembali di telinga Farhan dengan kekuatan yang luar biasa, membelah kesunyian bilik Kamar Al-Farabi yang dingin. Farhan mendekapkan lembaran foto tersebut ke dadanya, merasakan detak jantungnya yang berdegup kencang oleh gelombang kerinduan yang membuncah.
+Foto berukuran kartu pos. Tepinya sedikit menguning. Diambil di depan teras rumah mereka—dinding anyaman bambu di belakang, pot bunga bougainvillea ungu di samping kiri. Ibu Fatimah berdiri dengan jilbab biru tua yang ia pakai setiap hari Jumat. Pak Rahmat di sebelahnya, kemeja batik yang dua kancingnya selalu susah dikancingkan, peci hitam yang sedikit miring ke kiri.
 
-Zaid mencondongkan tubuhnya ke depan, menatap lembaran foto di tangan Farhan dengan pandangan mata yang sarat dengan keharuan dan rasa hormat yang mendalam. "Itu foto Ibu Fatimah dan Pak Rahmat ya, Farhan?" tanya Zaid dengan nada suara yang sangat lembut, ramah, dan bersahabat. "Wajah ibumu tampak sangat teduh dan bercahaya, memancarkan keshalihan seorang wanita mukminah yang ahli ibadah."
+Mereka tidak tersenyum lebar. Bukan karena tidak bahagia—tapi karena mereka tidak biasa difoto. Ibu Fatimah tersenyum tipis, matanya sedikit menyipit menahan silau matahari pagi. Pak Rahmat menatap kamera dengan ekspresi yang sama seperti ketika ia menatap sawah sebelum musim tanam—serius, sabar, menghitung sesuatu yang tidak kelihatan.
 
-Farhan menganggukkan kepalanya perlahan, menyodorkan lembaran foto tersebut dengan kedua belah tangannya agar dapat dilihat lebih jelas oleh Mas Zaid, Danang, dan Faisal. "Nggih, Mas Zaid... Ini Ibu Fatimah dan Bapak Rahmat di desa," bisik Farhan dengan suara yang bergetar menahan haru. "Ibu yang menjahit baju koko Farhan dan membungkus kue jahe di koper ini sebelum Farhan berangkat ke pondok."
+Farhan membalik foto itu.
 
-Danang yang duduk bersila di samping Farhan ikut menatap foto tersebut dengan mata yang berbinar-binar penuh ketakjuban dan rasa hormat. "Ibumu sangat ramah sekali wajahnya, Farhan..." tutur Danang dengan senyuman tulus yang merekah di bibirnya yang polos. "Melihat senyuman ibumu membuat Danang merasa seperti sedang melihat senyuman almarhumah ibu Danang sendiri di surga."
+Di bagian belakang, tulisan tangan ibunya dengan tinta biru yang sudah sedikit memudar di tepi-tepinya:
 
-Faisal yang duduk di seberang karpet ikut memandangi foto tersebut dari dekat dengan rahang yang perlahan-lahan mereda dari ketegangannya. Faisal melihat bagaimana kesederhanaan pakaian orang tua Farhan mencerminkan perjuangan rakyat kecil yang rela membanting tulang demi membiayai pendidikan anaknya di pondok pesantren. Faisal merenungi betapa besarnya pengorbanan para orang tua yang menaruh harapan suci di pundak anak-anak mereka di perantauan ini.
+*"Untuk Farhan anak lanangku yang shalih.*
+*Belajarlah dengan ikhlas dan sabar ya, Le.*
+*Ibu dan Bapak selalu memelukmu dalam setiap sujud sepertiga malam kami."*
 
-Zaid menerima lembaran foto tersebut dengan kedua belah tangannya yang penuh takzim, seolah benda kertas itu adalah mushaf ilmu yang sangat berharga. Zaid memandangi wajah Ibu Fatimah dan Pak Rahmat dengan seksama, lalu mengusap tepi foto tersebut dengan ibu jarinya yang lembut. "Ibu Fatimah dan Pak Rahmat adalah orang tua yang sangat mulia di hadapan Allah SWT, Farhan..." tutur Zaid dengan intonasi yang membangkitkan rasa percaya diri dan martabat di dalam jiwa anak-anak tersebut.
+Titik di akhir kalimat terakhir itu agak dalam bekasnya. Seperti ibunya menekan pena terlalu keras, atau tangan ibunya sedang gemetar saat menulisnya.
 
-Zaid menghela nafas panjang, membetulkan posisi duduk bersilanya di atas lantai semen, lalu menatap Farhan dan Danang secara bergantian dengan pandangan mata seorang kakak kandung yang hendak membagikan rahasia hidupnya. "Farhan, Danang, Faisal... Mas Zaid ingin menceritakan sebuah rahasia yang selama ini belum pernah Mas Zaid ceritakan kepada siapa pun di pesantren ini," buka Zaid dengan nada suara yang sangat memikat perhatian anak-anak asrama.
+Farhan tidak tahu mana yang benar.
 
-Mendengar perkataan sang ketua santri, Farhan, Danang, dan Faisal seketika memusatkan seluruh perhatian mereka kepada Zaid. Mereka melupakan sejenak rasa dingin lantai semen dan sisa-sisa kepedihan batin mereka, terpaku menanti kisah apa yang hendak disampaikan oleh sosok santri paling berprestasi di Darul Adab tersebut. Zaid tersenyum kecil, sorot matanya menerawang menatap jendela asrama mengenang masa lalunya yang penuh liku.
+Tapi ia tahu bahwa ibunya tidak tidur malam itu.
 
-"Enam tahun yang lalu, ketika Mas Zaid masih berusia dua belas tahun dan baru masuk ke kelas tujuh madrasah tsanawiyah di pesantren ini..." tutur Zaid dengan suara perlahan yang sarat penghayatan. "Mas Zaid adalah anak yang paling sering menangis di asrama. Mas Zaid menangis hampir setiap malam di bawah kolong ranjang susun, memeluk bantal kapuk yang basah kuyup oleh air mata karena tidak tahan menahan rasa rindu kepada orang tua di rumah."
+"Ibumu?" tanya Danang pelan dari sampingnya.
 
-Farhan dan Danang terbelalak kaget mendengar pengakuan jujur tersebut dari lisan Mas Zaid. Mereka tidak pernah membayangkan bahwa sosok Zaid yang kini begitu tegap, pemberani, menguasai kitab kuning, dan dihormati oleh seluruh asatidz dahulunya pernah mengalami kepedihan batin yang serupa dengan apa yang mereka rasakan saat ini. Keheningan menyergap sudut kamar, menanti kelanjutan kisah masa lalu sang ketua santri.
+Farhan mengangguk. Ia menyodorkan foto itu ke Danang dengan kedua tangannya. Danang menerimanya hati-hati, lalu menatapnya cukup lama tanpa berkata apa-apa. Faisal dari seberangnya ikut menjulurkan leher sedikit—ia tidak minta, tapi matanya jelas ingin melihat.
 
-"Dulu saat pertama kali tiba di pondok ini," lanjut Zaid sembari menunjuk koper biru tua Farhan, "Mas Zaid membawa sebuah koper seng tua berwarna hijau daun. Koper hijau itu kuncinya bahkan sempat rusak dan patah karena terlalu sering Mas Zaid buka hanya untuk mencium aroma baju daster ibu Mas Zaid yang tersimpan di dalamnya. Setiap kali mencium wangi baju itu, Mas Zaid merasa tidak sanggup lagi tinggal di pondok ini."
+"Cantik ibumu," kata Danang akhirnya. Bukan pujian kosong—ia mengucapkannya dengan nada yang jujur, nada orang yang sedang melihat sesuatu yang ia sendiri tidak punya.
 
-Zaid menatap Faisal dan Farhan dengan tatapan mata yang jujur dan tanpa ada kepura-puraan. "Bahkan pada pekan ketiga masa orientasi santri baru, Mas Zaid sempat merencanakan untuk kabur dari pondok melalui pintu gerbang belakang dekat kebun singkong. Mas Zaid merasa sistem pengasuhan asrama saat itu terlalu keras, makanan yang disajikan terlalu sederhana, dan bentakan para pengurus asrama membuat dada Mas Zaid terasa sesak setiap malam."
+Farhan mengambil fotonya kembali. "Ibu suka menanam bunga. Pot itu tanamannya sendiri dari bibit." Ia menunjuk pot bougainvillea di sudut foto. "Tiap pagi sebelum masak, ia menyiramnya dulu."
 
-"Benarkah itu, Mas Zaid?" tanya Farhan dengan suara lirih yang diliputi rasa takjub dan tak percaya. "Mas Zaid yang begitu hebat dan disegani pernah menangis dan ingin kabur juga dari pondok pesantren ini?" Danang ikut memajukan tubuhnya, menatap wajah Zaid dengan mata bulat yang membelalak penuh kekaguman atas kejujuran sang senior.
+Tidak ada yang menjawab. Tapi tidak ada yang perlu menjawab.
 
-"Tentu saja, Farhan! Demi Allah itu benar-benar terjadi," jawab Zaid seraya tersenyum ramah dan menganggukkan kepalanya dengan tulus. "Menangis karena rindu orang tua bukanlah tanda bahwa kita adalah anak yang lemah, penakut, atau cengeng. Menangis adalah bukti biologis dan spiritual bahwa tanah hati kita masih hidup, bahwa kita memiliki fitrah cinta yang suci kepada orang tua yang telah melahirkan dan membesarkan kita."
+Zaid mengulurkan tangan, menerima foto itu dari Farhan—bukan merebutnya, ia menunggu sampai Farhan menyerahkan sendiri. Zaid memandangi Pak Rahmat di dalam foto dengan tatapan yang sulit diartikan.
 
-Zaid menegaskan bahwa rasa cinta dan kerinduan kepada orang tua adalah sebuah nilai fitrah luhur yang bahkan dicontohkan secara nyata oleh junjungan kita Baginda Nabi Muhammad SAW. "Ketahuilah adik-adikku sekalian... Manusia paling mulia di muka bumi, pemimpin para nabi dan rasul, Baginda Rasulullah SAW sendiri meneteskan air mata saat mengingat ibunda tercintanya!" tegas Zaid dengan suara berbobot yang menggetarkan sanubari.
+"Bapakmu petani?"
 
-Zaid kemudian melafalkan sebuah riwayat hadits shahih dari kitab Shahih Muslim dengan suara tartil yang sangat merdu dan penuh penghayatan spiritual di hadapan anak-anak Kamar Al-Farabi:
+"Sawah. Dan kadang buruh bangunan kalau musim kering."
 
-$$\text{زَارَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَبْرَ أُمِّهِ فَبَكَى وَأَبْكَى مَنْ حَوْلَهُ}$$
+Zaid mengangguk. "Tangannya pasti keras."
 
-> *"Nabi SAW berziarah ke makam ibundanya (Sayyidah Aminah), lalu beliau menangis terharu hingga membuat para sahabat yang berada di sekeliling beliau ikut menangis karena luapan cinta dan kelembutan hati beliau."* (HR. Muslim)
+"Keras sekali." Farhan menelan ludah. "Waktu salaman sebelum aku berangkat, tangannya terasa seperti kulit pohon kering. Tapi... hangatnya masih terasa sampai sekarang."
 
-Zaid menatap lurus ke dalam bola mata Farhan seraya menjelaskan syarah makna dari hadits yang baru saja ia bacakan. "Lihatlah, Farhan... Baginda Rasulullah SAW adalah sosok ksatria paling perkasa yang memimpin peperangan dan menegakkan risalah peradaban Islam di muka bumi. Namun ketika berhadapan dengan makam ibundanya di Abwa', hati beliau yang mulia luluh meneteskan air mata cinta yang suci hingga membuat para sahabat tangguh di sekeliling beliau ikut menangis tersedu-sedu."
+Kalimat itu keluar begitu saja. Farhan tidak merencanakan mengatakannya. Ia sedikit terkejut dengan dirinya sendiri setelah kata-kata itu sudah di udara.
 
-"Maka jika Baginda Rasulullah SAW saja meneteskan air mata cinta kepada ibunda beliau," lanjut Zaid dengan intonasi yang membakar semangat, "mengapa engkau harus merasa malu jika air matamu menetes saat memandangi foto Ibu Fatimah ini, Farhan? Jangan pernah menganggap air matamu sebagai tanda kehinaan! Air matamu adalah tanda bahwa engkau adalah anak yang shalih dan memiliki adab berbakti (*Birrul Walidain*) di dalam dadamu."
+Zaid mengembalikan foto itu dengan pelan. "Simpan baik-baik, Farhan."
 
-Zaid memegang kedua pundak kurus Farhan dengan tatapan mata yang menyala penuh tekad seorang murabbi muda. "Tugas kita sekarang adalah melakukan apa yang diajarkan oleh para ulama salaf: yaitu mengubah air mata kepedihan menjadi **Lentera Bahan Bakar Perjuangan**! Jangan biarkan air mata rindumu menguap sia-sia menjadi keputusasaan yang melemahkan jiwamu; jadikanlah setiap tetes air matamu sebagai sumbu yang menyalakan api kesungguhan belajarmu di pesantren ini!"
+Farhan melipat plastiknya kembali—dua lapis, sudut dirapatkan. Ia masukkan ke saku koper dalam, di balik furing yang sedikit robek di tepinya.
 
-Zaid menguraikan bagaimana setiap detik waktu belajar dan ibadah santri di pondok pesantren terhubung langsung secara metafisik dengan nasib dan derajat orang tua mereka di hadapan Allah SWT. "Farhan, Danang, Faisal... Dengarkan wasiat Mas Zaid ini baik-baik," tutur Zaid dengan nada suara yang khidmat. "Setiap kali kalian melangkahkan kaki menuju masjid di waktu Subuh yang dingin, langkah kaki kalian mengalirkan pahala penghapus dosa bagi ayah dan ibu kalian di rumah."
+Di ranjang atas, Faisal sudah tidak membuang muka lagi. Ia sedang duduk dengan lutut dipeluk, menatap nampan di lantai. Singkong gorengnya sudah habis. Cangkir tehnya tinggal sedikit, tidak diminum-minum.
 
-"Setiap ayat Al-Qur'an yang kalian lantunkan dengan tartil di dalam halaqah," lanjut Zaid seraya menatap mushaf kecil Danang, "akan menenun sehelai benang cahaya kemuliaan yang kelak di yaumil akhir akan dipakaikan sebagai mahkota emas di atas kepala orang tua kalian di hadapan seluruh umat manusia! Dan setiap bait kaidah nahwu yang kalian pahami di kelas madrasah akan mengangkat derajat Ibu Fatimah dan Pak Rahmat setinggi-tingginya di surga Firdaus!"
+Zaid menoleh padanya.
 
-Kata-kata bijak yang meluncur dari lisan Mas Zaid itu seketika meresap masuk menembus lapisan batin Farhan yang paling dalam. Di dalam kepala dan dada Farhan, terjadi sebuah revolusi kognitif dan emosional yang sangat mendasar (*Cognitive Reframing*). Rasa sakit akibat *homesickness* dan rasa takut yang selama berminggu-minggu mencekik lehernya kini mendadak bertransformasi menjadi gelombang tekad baja dan gairah kemuliaan yang menyala berkobar-kobar.
+"Orang tuamu di Madura?"
 
-Farhan memandangi kembali lembaran foto Ibu Fatimah dan Pak Rahmat di tangannya, namun kali ini bukan dengan pandangan mata seorang bocah malang yang meratapi nasibnya di pengasingan. Farhan menatap foto itu dengan senyuman bangga seorang ksatria muda yang siap berjuang menaklukkan samudra ilmu demi membahagiakan kedua orang tuanya. Air mata yang tersisa di pelupuk matanya bukan lagi air mata keputusasaan, melainkan air mata keinsyafan tekad yang tak tergoyahkan.
+"Bapak," jawab Faisal singkat. "Ibu tidak ada."
 
-"Matur nuwun sanget, Mas Zaid..." bisik Farhan dengan suara yang mantap, lantang, dan telah kehilangan seluruh getaran ketakutan masa lalunya. "Nasihat Mas Zaid telah membukakan mata hati Farhan. Farhan berjanji tidak akan menangis cengeng lagi di sudut kamar ini. Farhan akan berjuang sekuat tenaga menghafal Al-Qur'an dan mutun kitab agar kelak dapat mempersembahkan mahkota kemuliaan itu untuk Ibu Fatimah dan Bapak Rahmat di akhirat."
+"Meninggal?"
 
-Danang yang duduk di samping Farhan mengepalkan tangan kanannya ke udara dengan senyuman yang merekah lebar di wajahnya. "Danang juga berjanji, Mas Zaid! Danang akan belajar sungguh-sungguh agar almarhumah ibu Danang di surga tersenyum bangga melihat Danang menjadi anak penghafal Al-Qur'an!" seru Danang dengan suara ceria yang mengalirkan energi kebahagiaan ke seluruh sudut kamar.
+"Pergi."
 
-Faisal menatap kedua adik kelasnya itu dengan senyuman tipis yang sangat hangat, lalu menganggukkan kepalanya dengan mantap. "Aku juga akan menemani kalian belajar di kelas madrasah nanti," tutur Faisal dengan suara basnya yang ramah. "Kita akan buktikan bahwa anak-anak Kamar Al-Farabi mampu menjadi santri-santri terbaik di Pesantren Darul Adab."
+Zaid tidak bertanya lagi. Faisal juga tidak menambahkan.
 
-Melihat kebangkitan tekad dan persaudaraan yang begitu indah di antara anak-anak asuhnya, dada Zaid bergetar hebat oleh rasa syukur yang membuncah ke hadirat Allah SWT. Zaid mengembalikan lembaran foto Ibu Fatimah dan Pak Rahmat ke tangan Farhan dengan segenap rasa takzim dan hormat. "Simpanlah kembali foto mulia ini di dalam kopermu, Farhan... Biarkan foto ini menjadi lentera pengingat cita-cita sucimu setiap kali engkau membuka koper ini."
+Tapi ada sesuatu yang bergeser di wajah Faisal—sangat kecil, hampir tidak kelihatan kalau kamu tidak sedang memerhatikan. Rahangnya yang biasanya mengeras sedikit melonggar. Matanya turun, melihat ke cangkir tehnya.
 
-Farhan menerima foto tersebut dengan kedua belah tangannya yang penuh rasa hormat. Dengan gerakan yang sangat rapi dan teliti, Farhan memasukkan kembali foto kedua orang tuanya ke dalam bungkusan plastik pelindung bening, lalu menyelipkannya ke dalam saku kain furing di bagian dalam tutup koper birunya. Farhan menutup kembali tutup koper seng tersebut secara perlahan, lalu mengunci gembok kuningannya dengan bunyi klik yang mantap: *Klek!*
+Ia angkat cangkir itu dan meminumnya sampai habis.
 
-Koper biru tua yang penyok dan berkarat di sudut kamar itu kini telah resmi bertransformasi fungsinya. Benda seng itu bukan lagi monumen kepedihan atau peti penyimpan air mata keputusasaan; koper biru itu kini telah menjadi peti suci penyimpan amanah cinta orang tua dan saksi sejarah dari lahirnya tekad seorang ksatria adabi yang siap meniti tangga kemandirian ilmu di Pesantren Darul Adab.
+"Zaid," kata Farhan tiba-tiba. "Mas Zaid dulu juga pernah nangis di sini?"
 
-Farhan mengusap permukaan tutup koper biru tua itu dengan telapak tangannya yang hangat. Di dalam benaknya, koper itu seolah memancarkan denyut kehidupan baru yang menyatu dengan detak jantungnya. Setiap goresan karat dan lekukan penyok pada dinding koper tersebut kini menjadi lambang ketabahan seorang anak desa yang tidak akan pernah menyerah menghadapi cobaan perantauan.
+Danang langsung menoleh ke Zaid, seperti ia juga ingin tahu jawabannya namun tidak berani bertanya lebih dulu.
 
-Danang menatap koper biru Farhan dengan tatapan mata yang berbinar-binar penuh kekaguman. "Kopermu hebat sekali, Farhan..." bisik Danang dengan suara polosnya yang menghangatkan suasana kamar. "Sekarang koper birumu tidak lagi menangis, Farhan. Kopermu sedang tersenyum bangga karena kamu sudah menjadi anak yang kuat dan pemberani."
+Zaid tersenyum. Bukan senyuman yang menghindar dari pertanyaan, melainkan senyuman orang yang sudah berdamai dengan suatu kenangan.
 
-Mendengar celoteh manis Danang, Farhan, Faisal, dan Zaid seketika tertawa bersama, tawa renyah yang memecah seluruh sisa ketegangan di dalam bilik asrama. Suasana di Kamar Al-Farabi terasa semakin akrab dan dipenuhi oleh kehangatan persaudaraan yang tulus. Tidak ada lagi sekat perbedaan asal daerah atau senioritas yang memisahkan mereka; semuanya telah melebur dalam satu keluarga besar penuntut ilmu.
+"Hampir setiap malam. Enam tahun yang lalu." Ia meletakkan cangkirnya di atas nampan. "Koper Mas Zaid waktu itu warnanya hijau. Kuncinya rusak di pekan ketiga—terlalu sering dibuka hanya untuk mencium bau baju daster ibu Mas Zaid yang dilipat di dalamnya."
 
-Zaid menatap ketiga adik asuhnya tersebut dengan senyuman yang merekah bangga di wajahnya yang tampan. Zaid merasakan sebuah kebahagiaan batin yang tiada tara melihat bagaimana keputusasaan seorang anak belia dapat dipulihkan hanya dengan sentuhan empati dan keteladanan cinta kasih kenabian. Zaid bertekad di dalam hatinya untuk terus mengawal pertumbuhan jiwa adik-adik asuhnya hingga mereka berhasil meraih cita-cita luhur mereka.
+Farhan menatapnya.
 
-"Farhan, Danang, Faisal..." panggil Zaid seraya menarik tas ransel kanvas birunya yang tergeletak di samping tempat duduknya. "Kalian telah membuktikan bahwa kalian memiliki jiwa-jiwa ksatria yang mulia. Dan sebagai bukti bahwa Mas Zaid bersungguh-sungguh ingin mendampingi kalian meniti tangga ilmu, Mas Zaid telah menyiapkan sesuatu yang istimewa untuk kalian berdua di dalam tas ini."
+"Beneran?" tanya Danang.
 
-Farhan dan Danang seketika menatap ke arah tas ransel Zaid dengan rasa ingin tahu yang membuncah di dalam dada mereka. Faisal ikut mencondongkan badannya, menanti benda apa gerangan yang hendak dikeluarkan oleh sang ketua santri dari dalam tasnya. Suasana kamar mendadak hening kembali dalam penantian yang menyenangkan.
+"Demi Allah."
 
-Zaid membuka ritsleting tas kanvasnya secara perlahan-lahan, lalu memasukkan kedua belah tangannya ke dalam tas tersebut. Di luar jendela kamar asrama, cahaya mentari pagi memancar semakin terang benderang, menyinari lantai semen kamar dengan berkas-berkas keemasan yang hangat. Detik-detik menuju keberangkatan ke madrasah kian mendekat, membawa harapan baru yang siap mekar di tanah hati para penuntut ilmu di Pesantren Darul Adab.
+Keheningan yang menyusul bukan keheningan yang tidak nyaman. Lebih seperti keheningan ruangan setelah hujan berhenti—masih ada tetesannya, tapi sudah lebih lapang.
 
-Farhan menarik nafas panjang yang dalam, merasakan ketenangan batin (*Thuma'ninah*) yang sempurna mengalir di dalam seluruh aliran darahnya. Bayangan wajah Ibu Fatimah yang tersenyum di dalam koper seolah terus membisikkan doa restu yang tak pernah putus di telinganya. Farhan siap melangkah menyongsong masa depan dengan dada yang membusung penuh keyakinan tauhid dan kemuliaan adab di jalan Allah SWT.
+"Mas Zaid hampir kabur juga," lanjut Zaid. "Pekan ketiga. Sudah hafal jalur menuju pintu gerbang belakang, yang dekat kebun singkong itu. Sudah tahu jadwal giliran piket malam pengurus keamanan."
+
+"Kenapa tidak jadi?" tanya Faisal. Pelan. Hampir bisik.
+
+Zaid tidak langsung menjawab. Ia memandang jendela besi kamar sebentar—di luar, langit sudah benar-benar terang.
+
+"Ada ustadz muda yang mengetuk pintu kamar Mas Zaid malam itu. Waktu itu sudah pukul dua dini hari. Mas Zaid pikir ia kena patroli. Ternyata si ustadz itu duduk di lantai koridor, menawarkan segelas teh hangat, dan bertanya satu kalimat: *'Ada apa, Zaid?'*"
+
+Farhan mengerutkan kening. "Terus?"
+
+"Terus Mas Zaid menangis sampai setengah jam. Tidak ada yang bilang apa-apa. Si ustadz itu hanya duduk di sana, sampai Mas Zaid selesai."
+
+Hening lagi.
+
+"Siapa ustadznya?" tanya Danang.
+
+"Sekarang beliau sudah tidak di sini." Zaid berdiri, merapikan sarungnya. "Tapi pertanyaannya yang dua kata itu yang bikin Mas Zaid bertahan."
+
+Ia mengambil nampan kosong, lalu menatap ketiga anak di hadapannya.
+
+"Kalian boleh rindu," katanya. Kalimat pendek. Tidak ada kalimat panjang setelahnya, tidak ada ceramah yang mengikutinya. "Rindu itu bukan kelemahan. Rindu artinya kalian punya orang yang layak dirindu."
+
+Ia berjalan ke pintu.
+
+"Malam ini selepas Maghrib, Mas Zaid tunggu di serambi masjid. Tiang ketiga dari kiri. Bawa kitab Ajurrumiyyah dan buku catatan kalian." Ia menoleh sebentar di ambang pintu. "Faisal juga."
+
+Faisal mendongak. Seolah tidak menduga namanya ikut disebut.
+
+Zaid sudah melangkah keluar sebelum Faisal sempat menjawab.
+
+Suara langkahnya menuruni tangga koridor—teratur, tidak terburu-buru—perlahan menghilang ke arah lorong bawah.
+
+Di dalam Kamar Al-Farabi, tiga anak laki-laki kelas tujuh duduk dengan nampan kosong di antara mereka. Aroma singkong goreng masih samar-samar tersisa di udara. Cangkir enamel berjajar di atas nampan merah tua.
+
+Farhan meletakkan tangannya di atas tutup koper birunya.
+
+Koper itu masih terbuka.
+
+Ia menutupnya. Perlahan. Klik. Gembok dikunci. Anak kunci dimasukkan ke saku—masih diikat benang wol merah yang sama.
+
+"Tiang ketiga dari kiri," ulang Danang, mengingat-ingat.
+
+"Kita pergi sama-sama," kata Farhan.
+
+Faisal tidak berkata apa-apa. Tapi ia tidak menolak.
+
+Dan itu cukup.

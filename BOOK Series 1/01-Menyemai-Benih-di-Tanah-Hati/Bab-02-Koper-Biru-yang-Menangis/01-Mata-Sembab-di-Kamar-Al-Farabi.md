@@ -1,89 +1,165 @@
 # Sub-Bab 2.1: Mata Sembab di Depan Koper Biru
 
-Pagi hari pukul 05.30 selepas sholat Subuh dan wirid pagi berjamaah di Pesantren Darul Adab. Sinar mentari fajar yang pucat mulai menyelinap masuk melalui kisi-kisi jendela kayu Kamar Al-Farabi lantai dua asrama putra. Cahaya temaram itu menerangi butiran-butiran debu halus yang melayang di udara kamar yang pengap dan lembap oleh hembusan nafas puluhan penghuninya. Suara deru angin pagi menyapu atap genting tanah liat tua, membawa aroma embun pegunungan yang dingin berbaur dengan bau apek kasur busa yang belum dijemur berpekan-pekan.
+Farhan tidak tahu pukul berapa ia akhirnya berhenti menangis.
 
-Di dalam bilik kamar berukuran enam kali tujuh meter tersebut, suasana tampak sangat muram dan sepi laksana bangsal perawatan. Dua puluh anak santri baru kelas tujuh baru saja kembali dari masjid dengan langkah-langkah kaki yang gontai dan kepala tertunduk lesu. Sebagian anak duduk termenung di tepi ranjang susun masing-masing sembari memandangi lantai semen yang dingin dan kusam. Tidak ada tawa riang atau celoteh ceria anak-anak yang wajar di pagi hari; keletihan fisik akibat dibangunkan secara kasar tadi fajar masih membekas jelas di wajah-wajah belia mereka.
+Yang ia tahu, ketika kelopak matanya perlahan terbuka menyambut suara adzan Subuh, bantal kapuknya terasa berat dan lembap seperti tanah sehabis hujan. Wajahnya panas. Dadanya masih sesak, dengan sisa-sisa kepedihan semalam yang belum rampung dicerna oleh usianya yang baru dua belas tahun.
 
-Di sudut paling pojok kamar di bawah kolong ranjang susun tingkat bawah, sebuah koper seng tua berwarna biru laut tergeletak kaku di atas lantai semen. Cat biru pada permukaan koper tersebut telah terkelupas di beberapa bagian sudutnya, memperlihatkan lapisan seng berkarat yang kusam dimakan usia. Sudut-sudut koper itu tampak penyok akibat benturan keras saat diangkut di atas bak mobil bak terbuka dari desa enam pekan yang lalu. Koper biru tua itu adalah milik Farhan—satu-satunya harta benda berharga yang menemaninya merantau meninggalkan tanah kelahirannya.
+Di luar jendela besi Kamar Al-Farabi, langit masih biru gelap. Bintang terakhir memudar perlahan, dan angin pegunungan menerobos masuk melalui celah kisi-kisi kayu yang mulai lapuk. Farhan menarik selimut tipisnya, menggulung diri di dalamnya, mencoba mengulur waktu. Tapi suara pengurus asrama sudah bergemuruh di lorong. Pintu-pintu diketuk keras. Langkah-langkah kaki berlomba menuju kamar mandi.
 
-Farhan sedang duduk bersila di lantai semen di samping koper birunya yang terkunci rapat dengan gembok kuningan kecil. Kedua lututnya ditarik rapat ke dada dan dipeluk erat oleh kedua lengannya yang kurus berbalut baju koko putih sederhana. Wajah Farhan tampak sangat pucat pasi, dan kedua kelopak matanya sembab kemerahan akibat tangisan yang ia tahan sepanjang malam di balik selimut. Bibir Farhan kering pecah-pecah, dan nafasnya sesekali terdengar tersengal pendek menahan himpitan rasa sesak yang luar biasa berat di dalam rongga dadanya.
+Ia bangkit dengan punggung yang terasa berat.
 
-Rasa rindu yang mendalam terhadap rumah dan orang tua di desa—yang dalam istilah psikologi perkembangan dikenal sebagai **Kecemasan Perpisahan Akut (*Severe Separation Anxiety & Acute Homesickness*)**—sedang mencengkeram seluruh jiwa raga Farhan. Bagi seorang anak laki-laki berusia dua belas tahun yang belum pernah berpisah semalam pun dari dekapan ibunya, transisi kehidupan asrama yang serba keras ini terasa laksana keterputusan dunia secara brutal. Farhan merasa tercerabut dari akar rasa aman biologis yang selama ini menopang kehidupannya sejak buaian.
+Di masjid tadi, saat berjamaah, bibirnya bergerak mengikuti bacaan imam. Tapi pikirannya masih di sana—di teras rumah di desa, di mana Ibu Fatimah duduk menjahit baju koko ini di bawah lampu minyak yang bersumbu basah. Bapak Rahmat berdiri di ambang pintu, peci hitamnya miring ke kiri, tangan kasarnya menepuk pundak Farhan dua kali. Dua tepukan. Tidak banyak kata.
 
-Secara psikologis, keterpisahan fisik dari figur lekat utama (*Primary Attachment Figure*) memicu kepanikan eksistensial yang sangat dalam di dalam otak anak. Sistem lekat (*Attachment System*) anak berteriak mencari perlindungan, namun lingkungan asrama yang ia temui justru dipenuhi oleh bentakan, tatapan curiga, dan ancaman sabetan rotan pembina. Alih-alih mendapatkan pengasuhan pengganti yang penuh kasih (*In Loco Parentis*), Farhan justru merasa dilemparkan ke dalam sebuah lingkungan antah-berantah yang dingin, asing, dan menakutkan bagi jiwanya yang polos.
+*Jadilah orang, Le.*
 
-Farhan mengulurkan tangannya yang gemetar perlahan ke arah saku celana sarungnya, mengeluarkan sebilah anak kunci kecil yang diikat dengan seutas benang wol merah. Dengan ujung-ujung jemarinya yang dingin membeku, Farhan memasukkan anak kunci tersebut ke dalam lubang gembok kuningan koper birunya. Suara denting gembok yang terbuka terdengar begitu nyaring di tengah keheningan sudut kamar: *Klek!* Farhan menarik kedua grendel seng koper ke atas, lalu membuka tutup koper biru tua itu dengan sangat hati-hati agar tidak menimbulkan suara berderit.
+Hanya itu.
 
-Begitu tutup koper terbuka, semerbak aroma minyak wangi melati khas lemari pakaian kayu jati ibunya di desa seketika menyeruak keluar menyapa hidung Farhan. Aroma wangi melati yang sangat akrab dan menenteramkan itu laksana mesin waktu emosional yang seketika meruntuhkan seluruh pertahanan batin Farhan. Butiran air mata bening yang sejak fajar tadi ia tahan seketika tumpah membasahi kedua pipinya yang tirus, menetes satu per satu membasahi lipatan kain di dalam koper.
+Farhan pulang ke kamar selepas wirid. Dua puluh satu anak laki-laki lain juga kembali—sebagian lekas melompat ke ranjang susun, sebagian termenung di tepi kasur. Kamar Al-Farabi seperti sebuah ruangan yang semua penghuninya sama-sama memendam sesuatu, namun tidak ada yang berani mengatakannya.
 
-Di dalam koper biru tua tersebut, seluruh pakaian Farhan tersusun dengan sangat rapi sesuai lipatan tangan Ibu Fatimah pada malam sebelum ia berangkat mondok. Ada empat helai baju koko putih sederhana, tiga potong sarung tenun bermotif kotak-kotak, dan dua pasang celana panjang seragam madrasah. Di samping tumpukan baju, terselip sebuah botol kaca minyak kayu putih kecil dan sekotak kue kering jahe buatan ibunya yang telah mengeras namun masih tersimpan rapi sebagai bekal penawar rindu.
+Farhan berjongkok di sudut paling pojok, di bawah kolong ranjang susun, di samping sebuah koper seng tua berwarna biru laut yang sudah penyok di sudut-sudutnya. Catnya terkelupas. Engselnya sedikit berkarat. Koper itu sudah lama—milik pakde Farhan dulu, sebelum diwariskan ke bapaknya, lalu ke Farhan. Tiga generasi pernah mengandalkan koper ini untuk pergi merantau.
 
-Farhan menyentuh permukaan baju koko putihnya dengan telapak tangannya yang gemetar penuh rasa takzim. Kain katun sederhana yang telah dicuci bersih dan dikanji itu terasa begitu lembut di jemarinya, mengingatkannya pada detik-detik penuh haru di teras rumah desa. Farhan teringat bagaimana Ibu Fatimah duduk bersimpuh di depan koper ini hingga larut malam, menyetrika setiap helai pakaian putranya dengan penuh kehati-hatian sembari melafalkan shalawat dan doa agar putranya dijaga oleh para malaikat Allah di tanah rantau.
+Farhan duduk bersila di depannya. Lututnya menyentuh lantai semen yang dingin.
 
-Kenangan tentang tatapan mata Ibu Fatimah yang berbinar penuh cinta kembali menghantam ulu hati Farhan dengan kepedihan yang menyayat kalbu. *"Farhan anak lanangku yang shalih... Belajarlah yang tekun di pondok ya, Le..."* bisik suara ibunya yang seolah kembali terngiang lembut di telinganya. Farhan menundukkan wajahnya ke dalam tumpukan pakaian di koper, menghirup aroma minyak melati ibunya dalam-dalam sembari menumpahkan isak tangis yang tertahan di balik telapak tangannya.
+Dari saku sarungnya ia mengeluarkan anak kunci kecil—diikat dengan benang wol merah yang sudah sedikit kusut. Ia masukkan ke dalam lubang gembok kuningan. *Klek.* Suara itu terdengar terlalu nyaring di keheningan sudut kamar.
 
-Dada Farhan bergolak hebat oleh pertentangan batin antara keinginan untuk bertahan demi membanggakan orang tua dan rasa putus asa yang membisikkan agar ia menyerah. Setiap bentakan yang ia dengar di lorong asrama dan setiap sabetan rotan yang ia saksikan di lapangan terik seolah mengikis sedikit demi sedikit keberanian jiwanya. Farhan merasa dirinya terlalu kecil, terlalu rapuh, dan terlalu lemah untuk bertahan di tengah ganasnya badai kehidupan pesantren yang menuntut kepatuhan mutlak.
+Ia angkat dua grendel seng secara perlahan.
 
-Di ranjang susun sebelah, Danang memperhatikan punggung Farhan yang berguncang menahan tangis dengan tatapan mata yang dipenuhi rasa iba yang teramat mendalam. Danang yang tidak memiliki koper bagus—hanya sebuah tas ransel kanvas lusuh pemberian paman di kampung—turun dari ranjangnya perlahan-lahan. Kaki kanan Danang yang masih menyisakan bekas bilur sabetan rotan melangkah berhati-hati di atas lantai semen yang dingin, menahan sedikit rasa ngilu yang merayap di persendiannya.
+Tutup koper terbuka.
 
-Danang berjongkok di samping Farhan di depan koper biru yang terbuka, lalu meletakkan tangannya yang mungil di atas pundak sahabat sekamarnya tersebut. "Farhan..." bisik Danang dengan nada suara yang sangat lembut, bergetar oleh empati seorang anak yang juga merasakan kepedihan yang sama. "Jangan menangis sendirian di sudut kamar ini, Farhan... Danang ada di sini menemanimu."
+Sesuatu yang tidak kasat mata mengalir keluar begitu tutup koper itu terbuka—sesuatu yang tidak bisa dijelaskan dengan kata-kata namun langsung menghantam batang hidung Farhan dan menghujam jauh ke dalam dadanya. Aroma minyak wangi melati. Khas. Lemari kayu jati di rumah ibunya. Kaos kaki yang dilipat empat. Baju koko yang disetrika dengan besi arang, satu per satu, malam itu.
 
-Farhan mendongakkan kepalanya perlahan, menatap Danang dengan mata yang basah kuyup oleh genangan air mata yang tak henti-hentinya mengalir. "Farhan rindu sekali pada Ibu Fatimah di desa, Danang..." tutur Farhan dengan suara serak yang tercekat di kerongkongannya. "Farhan rindu masakan sayur lodeh Ibu... Farhan rindu diusap kepala Farhan saat hendak tidur... Farhan merasa tidak sanggup tinggal di pondok yang keras ini lebih lama lagi..."
+Farhan tidak sempat bersiap.
 
-Danang terdiam membisu mendengarkan keluh kesah sahabatnya, setitik air mata ikut menggenang di pelupuk mata anak yatim piatu tersebut. Danang yang telah kehilangan ibu kandungnya sejak usia tujuh tahun tahu persis betapa mahalnya arti dekapan seorang ibu dalam kehidupan seorang anak. Danang menarik nafas panjang yang bergetar, lalu merangkul pundak Farhan lebih erat untuk menyalurkan kehangatan persaudaraan yang tak mampu diberikan oleh lingkungan fisik asrama mereka.
+Air mata jatuh begitu saja. Bukan isak tangis yang dramatis—hanya rintik yang tiba-tiba, tanpa peringatan, seperti atap bocor di musim hujan. Ia menundukkan kepalanya. Jemarinya menyentuh permukaan kain baju koko paling atas, kain katun putih polos yang sudah dicuci dan dikanjikan hingga kaku sempurna. Di bawahnya, kue kering jahe dalam kotak kaleng kecil. Di sudut kanan, botol minyak kayu putih hijau yang masih hampir penuh.
 
-"Danang mengerti sekali perasaanmu, Farhan..." bisik Danang seraya menatap lipatan baju koko di dalam koper dengan pandangan penuh haru. "Danang juga sering menangis di balik bantal kalau malam hari teringat almarhumah Ibu di makam desa. Tapi Danang selalu ingat pesan nenek Danang sebelum berangkat ke sini, bahwa doa anak yang menuntut ilmu Al-Qur'an di pondok akan langsung menembus langit dan memeluk ibu kita dengan cahaya kemuliaan."
+Semua ini dikemas oleh tangan Ibu Fatimah.
 
-Kata-kata bijak yang keluar dari bibir Danang yang polos itu mengalir laksana embun penyejuk di tengah gurun kegelisahan Farhan. Farhan menyeka air matanya dengan ujung lengan baju kokonya, menatap wajah Danang yang tersenyum tulus di sampingnya. Farhan menyadari bahwa di balik kerapuhan raganya, sahabat sekamarnya ini memendam ketabahan jiwa yang luar biasa besar dalam menghadapi takdir hidupnya yang yatim piatu.
+Farhan menutup matanya. Terbayang jelas: ibunya berlutut di depan koper ini hingga lewat tengah malam, memasukkan barang satu per satu, mengecek lagi, mengecek lagi. Bibir ibunya komat-kamit—ia tahu ibunya sedang berdoa. Ia pernah mengintipnya dari balik pintu kamar dan tidak berani masuk karena mata ibunya basah.
 
-"Terima kasih ya, Danang..." tutur Farhan dengan senyuman tipis yang mulai merekah di bibirnya yang kering. "Kamu selalu ada mengingatkan Farhan saat Farhan merasa putus asa. Farhan berjanji akan berusaha sabar dan kuat bersama kamu di kamar ini." Dua anak belia itu duduk berdampingan di sudut kamar di samping koper biru yang terbuka, saling menguatkan jiwa-jiwa mereka yang terluka dalam ikatan persaudaraan iman yang suci.
+*"Sudah tidur, Le?"*
 
-Di ranjang susun tingkat atas di seberang kamar, Faisal sedang duduk bersandar sembari membersihkan sela-sela kukunya dengan pisau lipat kecil. Faisal sesekali melirik ke arah Farhan dan Danang yang sedang duduk berangkulan di lantai dengan tatapan mata yang sulit diartikan. Di balik sikapnya yang kasar dan dingin di luar, nurani Faisal sejatinya berdenyut perih menyaksikan pemandangan tersebut; ia teringat pada masa-masa awal kedatangannya di pondok dua tahun silam saat dirinya menangis tanpa ada seorang pun yang peduli.
+*"Belum, Bu."*
 
-Faisal menutup pisau lipatnya, lalu memasukkannya ke dalam saku sarungnya dengan gerakan pelan. Faisal mengamati bagaimana Farhan mengusap air mata sahabatnya dengan penuh ketulusan, sebuah pemandangan kasih sayang yang hampir tidak pernah ia temukan di lingkungan keluarganya yang keras di Madura. Tanpa disadari oleh Faisal, benih-benih kelembutan mulai bersemi di dalam hatinya yang selama ini membeku oleh dendam kekerasan.
+*"Ya sudah, tidurlah. Besok pagi-pagi."*
 
-Keheningan di dalam Kamar Al-Farabi tiba-tiba terusik oleh suara langkah kaki seseorang yang menaiki tangga koridor luar lantai dua. Langkah kaki itu tidak terdengar tergesa-gesa atau menghentak kasar laksana langkah musyrif keamanan piket. Langkah kaki tersebut terdengar sangat tenang, berwibawa, dan mantap, diiringi oleh aroma wangi minyak kasturi putih yang samar-samar tercium menyelinap masuk melalui ventilasi kamar.
+Ibunya tidak pernah bilang ia sedang menangis. Tapi Farhan tahu.
 
-Anak-anak Kamar Al-Farabi seketika menoleh ke arah pintu dengan rasa ingin tahu yang bercampur sedikit kewaspadaan alami. Farhan dan Danang buru-buru menyeka sisa air mata di pipi mereka, hendak bangkit berdiri untuk merapikan pakaian mereka. Namun sebelum mereka sempat berdiri sempurna, daun pintu kamar terbuka perlahan dengan bunyi deritan engsel yang sangat halus.
+Ia selalu tahu.
 
-Di ambang pintu kamar, berdirilah sosok Zaid—Ketua Organisasi Santri Pesantren Darul Adab yang sedang duduk di kelas dua belas madrasah aliyah. Zaid mengenakan kaos oblong hitam bersahaja beralaskan sarung tenun hijau tua yang disetrika sangat rapi, dengan peci hitam yang bertengger anggun di kepalanya. Wajah santri senior berusia tujuh belas tahun itu memancarkan aura keteduhan, keramahan, dan kewibawaan akhlak yang membuat siapa pun merasa nyaman berada di dekatnya.
+Di ranjang susun sebelah, Danang memperhatikan punggung Farhan yang berguncang pelan. Anak yatim itu turun dari ranjangnya dengan hati-hati, kaki kanannya yang masih menyisakan garis merah bekas rotan kemarin diletakkan lebih dulu di lantai, lalu kaki kiri menyusul.
 
-Di kedua tangannya yang kekar, Zaid membawa sebuah nampan plastik berwarna merah tua yang mengepulkan uap panas yang sangat harum. Di atas nampan tersebut, tersaji dua cangkir enamel besar berisi teh manis melati yang masih panas, serta sepiring besar singkong goreng merekah yang ditaburi sedikit garam gurih buatan dapur umum Pakde Darmo. Aroma gurih singkong goreng dan manisnya teh melati seketika menyerbak memenuhi udara kamar yang lembap, mengalahkan bau apek kasur asrama.
+Danang tidak berkata apa-apa. Ia hanya duduk berjongkok di samping Farhan.
 
-Melihat kedatangan sang ketua santri yang paling dihormati di seluruh komplek pesantren, Farhan dan Danang seketika membungkukkan badan untuk memberikan penghormatan takzim. Namun Zaid segera tersenyum sangat lebar memperlihatkan deretan giginya yang rapi, lalu melambaikan tangan kirinya memberi isyarat agar kedua anak belia itu tetap duduk santai di lantai. "Assalamu'alaikum warahmatullāhi wabarakātuh, para pejuang Al-Qur'an Kamar Al-Farabi..." sapa Zaid dengan suara bas yang hangat dan bersahabat.
+Beberapa detik berlalu.
 
-Seluruh anak di dalam kamar serentak menjawab salam Zaid dengan kompak dan penuh rasa takzim: *"Wa'alaikumussalām warahmatullāhi wabarakātuh, Mas Zaid!"* Suasana kamar yang tadinya muram seketika berubah menjadi cerah oleh kehadiran sosok senior yang selalu membawa energi positif ke mana pun ia melangkah. Anak-anak asrama tahu persis bahwa Mas Zaid bukanlah senior feodal yang gemar menindas, melainkan pelindung sejati bagi kaum yang lemah.
+"Farhan," bisiknya.
 
-Zaid melangkah masuk ke dalam kamar, melepaskan sandalnya di ambang pintu, lalu berjalan santai menuju sudut tempat Farhan dan Danang duduk bersila di samping koper biru. Zaid meletakkan nampan plastik berisi teh manis dan singkong goreng di atas lantai semen tepat di depan kedua anak tersebut. Zaid kemudian melipat sarungnya dan ikut duduk bersila di atas lantai semen bersama mereka tanpa rasa canggung sedikit pun.
+Farhan tidak menjawab. Ia menunduk lebih dalam.
 
-"Mas Zaid baru saja dari dapur umum menemui Pakde Darmo," tutur Zaid sembari tersenyum ramah memandang Farhan dan Danang secara bergantian. "Pakde Darmo baru saja mengangkat singkong goreng gurih ini dari wajan penggorengan, dan Mas Zaid ingat pada kalian berdua di kamar ini. Mas Zaid sengaja membawakan sarapan hangat ini khusus untuk ksatria-ksatria kamar Al-Farabi."
+"Danang di sini."
 
-Melihat kebaikan dan perhatian yang begitu tulus dari seorang ketua santri, dada Farhan seketika terasa hangat dan bergetar haru. Farhan menatap cangkir teh manis yang mengepulkan uap harum di hadapannya, lalu menatap wajah Mas Zaid dengan pandangan penuh rasa syukur. Perlakuan manusiawi yang ia terima dari Zaid laksana oase penyejuk yang membasuh rasa terasing dan kepedihan batin yang sejak fajar tadi mencekam jiwanya.
+Tiga kata. Tidak ada kalimat panjang yang menasihati atau merayu. Hanya tiga kata. Namun tiga kata itu terasa seperti seseorang menyalakan lilin kecil di dalam ruangan yang gelap gulita.
 
-"Matur nuwun sanget, Mas Zaid..." bisik Farhan dengan suara yang bergetar menahan luapan terima kasih yang teramat dalam. "Mas Zaid begitu baik dan repot-repot membawakan makanan ini untuk kami ke kamar." Danang yang duduk di samping Farhan mengangguk-angguk setuju dengan mata yang berbinar-binar memandangi singkong goreng yang masih merekah panas.
+Farhan mengangkat kepalanya perlahan. Matanya merah dan sembab. Pipinya basah. Ia melihat wajah Danang—anak kurus dengan tulang pipi yang menonjol dan mata yang juga tidak kalah lelahnya, namun di dalamnya ada sesuatu yang tegak berdiri, seperti pohon yang sudah terbiasa diterpa badai namun akarnya tidak lepas.
 
-Zaid tertawa kecil, tawa renyah yang memancarkan ketulusan seorang kakak kandung yang mengayomi adik-adiknya di perantauan. "Tidak ada yang repot dalam ukhuwah Islamiyyah, Farhan, Danang..." dawuh Zaid dengan intonasi yang menenangkan. "Rasulullah SAW mengajarkan kita untuk saling berbagi makanan dan saling menebarkan kasih sayang di antara sesama penuntut ilmu. Makanan yang dimakan bersama dengan hati yang bersih akan melahirkan keberkahan ilmu di dalam dada."
+"Aku rindu Ibu," kata Farhan. Kalimatnya terputus di tengah. "Aku rindu masakan lodehnya. Aku rindu... diusap kepalanya waktu mau tidur."
 
-Zaid kemudian mengambil sepotong singkong goreng yang masih hangat, lalu menyerahkannya ke tangan Farhan dan Danang secara bergantian. "Ayo makanlah selagi hangat, anak-anakku yang shalih... Jangan biarkan perut kalian kosong sebelum berangkat ke madrasah. Badan yang sehat dan bertenaga adalah syarat mutlak untuk menyerap ilmu nahwu dan hafalan Al-Qur'an dengan lancar."
+Danang mengangguk pelan.
 
-Farhan menerima potongan singkong goreng tersebut dengan kedua tangannya yang takzim, menghirup aroma gurihnya, lalu menggigitnya perlahan-lahan. Rasa gurih singkong yang empuk berpadu dengan kehangatan teh manis melati yang ia seruput seketika mengalirkan energi kehidupan baru ke dalam tubuhnya yang letih. Farhan merasakan kekuatan fisiknya yang sempat terkuras oleh tangisan tadi berangsur-angsur pulih kembali.
+"Aku juga," kata Danang. Sangat pelan. Hampir tidak terdengar.
 
-Danang mengunyah singkongnya dengan lahap sembari tersenyum lebar, sesekali meniup uap panas dari cangkir tehnya. "Enak sekali singkong gorengnya, Mas Zaid! Gurih dan empuk sekali di lidah!" celoteh Danang dengan kepolosan yang menggemaskan. Zaid tersenyum sangat teduh memandang Danang, lalu mengusap puncak kepala anak yatim itu dengan penuh kelembutan: "Alhamdulillah kalau kamu suka, Danang... Habiskanlah semuanya bersama Farhan."
+Farhan menoleh. Danang tidak memalingkan wajah—matanya masih menatap koper biru itu. "Tapi ibu Danang sudah tidak ada. Sudah lima tahun."
 
-Dari sudut ranjang atas, Faisal memperhatikan interaksi hangat tersebut dengan dada yang berdegup pelan. Melihat Zaid yang begitu rendah hati duduk di lantai semen menyuapi adik-adik kelasnya membuat Faisal semakin merenungi hakikat kepemimpinan di pesantren. Zaid tidak membutuhkan rotan atau bentakan untuk dihormati oleh seluruh santri; akhlak mulia dan keteladanan cintanyalah yang membuat semua anak tunduk dengan kerelaan hati yang tulus.
+Farhan diam. Kata-katanya tercekat entah di mana.
 
-Zaid menoleh ke arah Faisal yang sedang duduk di ranjang atas, lalu tersenyum menyapa pemuda Madura tersebut: "Faisal, ayo turun ke sini... Bergabunglah bersama kami minum teh manis hangat dan makan singkong goreng ini selagi masih panas." Ajakan Zaid yang ramah dan tidak membeda-bedakan status seketika menyentuh hati Faisal yang paling dalam.
+"Jadi kalau kamu masih bisa rindu ibu yang masih ada," lanjut Danang, suaranya agak serak, "itu artinya kamu kaya, Farhan."
 
-Faisal menganggukkan kepalanya dengan rasa takzim yang tulus: "Nggih, Mas Zaid... Matur nuwun." Faisal melompat turun dari ranjang atasnya, melangkah santun mendekati lingkaran karpet, lalu duduk bersila di samping Danang. Faisal mengambil sepotong singkong goreng dan memakannya bersama adik-adik kelasnya dalam suasana kebersamaan yang belum pernah tercipta sebelumnya di bilik Kamar Al-Farabi.
+Farhan menatap sahabat sekamarnya itu. Ia tidak tahu harus menjawab apa. Maka ia tidak menjawab. Ia hanya menyandarkan bahunya ke bahu Danang—dua anak laki-laki belia duduk berdampingan di lantai semen yang dingin, di depan sebuah koper biru yang berbau melati, menanggung beban yang masing-masing belum mampu mereka beri nama.
 
-Zaid mengamati jemari Farhan yang masih sesekali meraba tutup koper biru tua di sampingnya dengan tatapan mata yang sarat dengan empati mendalam. Zaid melihat bagaimana mata Farhan masih sedikit sembab kemerahan akibat sisa tangisan rindu rumah tadi pagi. Sebagai seorang santri senior yang telah melalui asam garam kehidupan asrama selama enam tahun, Zaid tahu persis pergulatan batin apa yang sedang berkecamuk di dalam jiwa Farhan.
+Dari ranjang atas di seberang, Faisal menatap mereka dengan rahang yang mengeras. Pisau lipat kecilnya sudah masuk ke saku sarung. Ia duduk dengan kedua lutut diangkat ke dada, memeluk betisnya sendiri.
 
-Zaid membetulkan posisi duduk bersilanya, mencondongkan tubuhnya sedikit ke arah koper biru tua Farhan yang masih terbuka. "Farhan..." sapa Zaid dengan nada suara yang sangat lembut dan bersahabat, memecah keheningan makan pagi mereka. "Koper birumu ini tampak sangat kokoh dan memiliki cerita yang sangat berharga. Boleh Mas Zaid tahu apa yang tersimpan rapi di balik saku bagian dalamnya?"
+Ia tidak mau terlihat memerhatikan.
 
-Mendengar pertanyaan Mas Zaid, Farhan menoleh menatap koper birunya dengan pandangan mata yang dipenuhi keharuan batin. Farhan melihat ke dalam koper, tempat tumpukan baju koko yang disetrika rapi oleh ibunya tersusun teratur. Aroma minyak wangi melati kembali berhembus lembut menyapa hidung Farhan, mengingatkannya pada amanah suci yang dititipkan oleh orang tuanya di desa.
+Tapi ia memerhatikan.
 
-"Di dalam saku bagian dalam koper ini..." bisik Farhan perlahan sembari menatap wajah Mas Zaid dengan mata yang kembali berkaca-kaca oleh kerinduan suci. "Tersimpan selembar foto Ibu Fatimah dan Bapak Rahmat di desa, Mas Zaid... Foto itu adalah harta paling berharga yang Farhan bawa ke pondok ini untuk menemani perjuangan Farhan menuntut ilmu."
+Ada sesuatu di pemandangan itu—Danang yang tidak punya ibu, menghibur Farhan yang rindu ibunya—yang membuat dada Faisal terasa aneh. Bukan sedih. Bukan iri. Sesuatu yang lain, yang lebih tua dari itu. Sesuatu yang sudah lama ia lupakan, atau sengaja ia kubur di bawah lapisannya yang keras.
 
-Mendengar penuturan Farhan tentang foto kedua orang tuanya, pandangan mata Zaid seketika melembut penuh rasa hormat yang mendalam. Zaid tersenyum sangat arif, menyadari bahwa di hadapannya sedang duduk seorang anak berbakti yang memiliki tanah hati yang sangat subur untuk disirami oleh cahaya adab kenabian. Zaid mengangguk takzim, bersiap membuka babak percakapan mendalam yang akan mengubah seluruh cara pandang Farhan terhadap air mata dan perjalanan hidupnya di bumi Pesantren Darul Adab.
+Ia mendengus pelan, lalu membuang pandang ke jendela.
 
-Sinar mentari pagi semakin meninggi di luar jendela asrama, membiaskan cahaya keemasan yang menari di atas permukaan koper biru tua yang terbuka di sudut Kamar Al-Farabi. Kehangatan teh manis melati dan kelezatan singkong goreng telah menyatukan hati empat anak manusia dalam satu ikatan ukhuwah Islamiyyah yang hakiki. Di bilik asrama yang bersahaja itu, koper biru yang dahulunya menangis kini telah disapa oleh fajar kasih sayang seorang murabbi muda yang siap menuntun langkah para ksatria peradaban menuju puncak kemuliaan ilmu.
+Di luar, langit mulai berubah. Biru tua perlahan memudar ke abu, lalu ke jingga tipis di ujung timur. Merpati abu-abu hinggap di tepi jendela besi asrama, menoleh sebentar ke dalam kamar, lalu terbang lagi.
+
+Suara langkah kaki menaiki tangga koridor terdengar dari luar.
+
+Bukan langkah yang tergesa atau menghentak. Langkah yang tenang. Terukur. Dan dari celah bawah pintu, aroma yang berbeda mulai menyusup—bukan apek kasur atau bau sabun cuci piring. Sesuatu yang lebih hangat. Lebih hidup.
+
+Singkong goreng.
+
+Dan teh.
+
+Anak-anak Kamar Al-Farabi, satu per satu, menoleh ke arah pintu.
+
+Farhan mengusap matanya cepat-cepat dengan ujung lengan baju koko. Danang berdiri, merapikan sarungnya. Bahkan Faisal turun dari ranjangnya—diam-diam, seolah tidak ada yang perlu diketahui.
+
+Pintu kamar terbuka dengan bunyi deritan engsel yang sangat pelan.
+
+Di ambang pintu, seorang santri senior berdiri dengan nampan plastik merah tua di kedua tangannya. Kaos oblong hitam bersahaja, sarung tenun hijau disetrika rapi, peci hitam di kepala. Wajahnya memiliki keteduhan yang tidak biasa untuk seorang remaja—bukan karena ia sok dewasa, melainkan karena keteduhan itu tampak seperti sesuatu yang sudah ia bayar dengan mahal.
+
+"*Assalamu'alaikum warahmatullāhi wabarakātuh*, para pendekar Al-Farabi," sapa Zaid—Ketua Organisasi Santri Darul Adab—dengan suara yang hangat dan tidak punya sedikit pun nuansa menggurui.
+
+"*Wa'alaikumussalām!*" sahut beberapa anak, reflek, meskipun sebagian masih setengah mengantuk.
+
+Zaid melangkah masuk, melepas sandal di ambang pintu, lalu berjalan santai menuju sudut tempat Farhan dan Danang tadi duduk. Ia meletakkan nampan di lantai semen—dua cangkir enamel besar berisi teh manis melati yang masih mengepulkan uap, dan sepiring singkong goreng yang masih berdesis.
+
+Ia duduk bersila langsung di lantai. Tanpa karpet. Tanpa kursi.
+
+"Pakde Darmo baru mengangkat singkong ini dari penggorengan sepuluh menit yang lalu," katanya. "Mas Zaid minta izin langsung dibawa ke sini."
+
+Farhan menatap nampan itu. Cangkir emaille yang bergambar bunga biru. Asap tipis teh yang berputar naik. Singkong yang kulitnya masih sedikit keriput keemasan.
+
+Sesuatu di dalam dadanya, yang tadi sesak dan panas, perlahan-lahan bergeser. Sedikit saja. Tapi cukup terasa.
+
+"Matur nuwun, Mas Zaid," bisiknya.
+
+"Tidak perlu matur nuwun untuk ini," jawab Zaid, sambil mengambil sepotong singkong dan menyodorkannya ke tangan Farhan. "Makanlah dulu. Perut kosong itu bikin segala sesuatu terasa lebih berat dari seharusnya."
+
+Danang sudah mengambil cangkirnya. Faisal berdiri di jarak dua langkah, tidak langsung duduk, tapi matanya terus ke nampan itu.
+
+"Faisal," sapa Zaid tanpa menoleh. "Sini."
+
+Faisal diam sebentar. Lalu duduk. Di samping Danang. Tanpa kata-kata.
+
+Zaid tersenyum—senyuman yang tidak membuat orang merasa kecil—lalu mengambil cangkir terakhir dan mendorongnya ke arah Faisal.
+
+Beberapa saat mereka makan dalam diam. Bunyi singkong yang dikunyah, tiupan pelan di permukaan teh yang masih panas, dan di luar jendela, suara kicau burung perkutut yang mulai berulah di pohon manga belakang asrama.
+
+Zaid memperhatikan jemari Farhan yang sesekali menyentuh tepi koper biru yang masih terbuka di sampingnya. Ia melihat tumpukan baju koko yang dilipat dengan sangat rapi di dalamnya. Ia melihat kotak kaleng kecil di sudut koper.
+
+"Ibumu yang melipatnya?"
+
+Farhan mengangguk.
+
+"Semalam sebelum berangkat?"
+
+"Ya."
+
+Zaid tidak berkomentar. Ia hanya mengangguk satu kali—anggukan yang pelan dan serius, seperti orang yang benar-benar mengerti apa yang ada di balik pertanyaan itu, dan memilih untuk tidak mengusiknya dengan kata-kata yang tidak perlu.
+
+"Di dalam koper itu ada foto mereka?" tanya Zaid kemudian.
+
+Farhan menoleh. "Mas Zaid tahu?"
+
+"Hampir semua anak baru punya. Biasanya disimpan di saku koper sebelah dalam."
+
+Farhan menatap koper itu. Di saku bagian dalam, ada sesuatu yang terbungkus plastik bening—ia melipat plastik itu dua lapis sebelum berangkat, demi memastikan fotonya tidak basah kalau koper kena hujan.
+
+Ia ragu sebentar.
+
+Lalu tangannya bergerak masuk ke dalam saku koper, meraba permukaan plastik yang halus itu, dan mengeluarkannya.
+
+Bungkusan plastic itu ia letakkan di telapak tangannya. Ringan sekali. Tapi entah kenapa rasanya seperti memegang sesuatu yang sangat berat, sesuatu yang kalau dijatuhkan tidak akan bisa dipulihkan.
+
+Matanya kembali memanas.
+
+Di sampingnya, Danang diam-diam menelan ludah. Di seberangnya, Faisal menundukkan kepala, menatap singkong di tangannya yang sudah tidak dikunyah lagi.
+
+Dan di luar jendela, langit Pesantren Darul Adab akhirnya benar-benar terang. Fajar habis. Pagi sudah tiba—dengan segala beratnya, dengan segala janjinyanya.

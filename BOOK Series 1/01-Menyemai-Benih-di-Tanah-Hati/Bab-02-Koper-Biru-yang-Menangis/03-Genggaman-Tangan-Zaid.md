@@ -1,103 +1,161 @@
 # Sub-Bab 2.3: Maklumat di Bordes Tangga
 
-Di sudut Kamar Al-Farabi yang hangat beralaskan karpet merah marun kusam, Zaid menarik kedua belah tangannya keluar dari dalam tas ransel kanvas birunya. Di genggaman tangannya yang kekar, tampak dua buah buku catatan berukuran sedang dengan sampul tebal berwarna biru muda polos yang sangat bersih dan rapi. Kertas sampul buku tersebut tampak tebal dan berkualitas tinggi, dirancang khusus untuk memuat mutiara-mutiara ilmu yang berharga.
+Lonceng madrasah pertama berdentang dari arah bawah.
 
-Zaid membalikkan halaman depan kedua buku catatan tersebut di hadapan Farhan dan Danang dengan senyuman yang menyinari wajahnya. Di sudut kanan atas halaman pertama buku-buku tersebut, tampak goresan kaligrafi Arab dengan khat *Riq'ah* bertinta hitam yang sangat indah, simetris, dan presisi. Di buku catatan pertama, tertulis nama: *"Farhan bin Rahmat – Penuntut Cahaya Adab"*, sedangkan di buku catatan kedua tertulis nama: *"Danang Al-Aitam – Penjaga Kalamullah"*.
+*Teng... Teng!*
 
-Kedua anak belia penuntut ilmu itu seketika terperangah menatap nama mereka yang terukir begitu agung di atas kertas putih bersih tersebut. Farhan memegangi dadanya yang berdegup kencang oleh rasa haru, sementara Danang mengelus kaligrafi namanya dengan jemarinya yang mungil. Zaid menyerahkan buku catatan pertama ke tangan Farhan dan buku catatan kedua ke tangan Danang secara bergantian dengan penuh kehangatan persaudaraan.
+Dua dentang. Artinya dua puluh menit lagi jam pertama dimulai.
 
-"Ini adalah hadiah persaudaraan khusus dari Mas Zaid untuk kalian berdua," tutur Zaid dengan suara bas yang hangat dan menenangkan. "Mas Zaid menuliskan nama kalian dengan doa yang tulus di setiap goresan tintanya, agar kalian tumbuh menjadi ksatria-ksatria peradaban yang memancarkan cahaya adab dan menjaga firman-firman Allah SWT di muka bumi ini."
+Di Kamar Al-Farabi, anak-anak bergerak. Ada yang menyambar kitab dari laci meja, ada yang masih tergopoh-gopoh mengikat tali sandalnya. Danang sudah berdiri dengan tas ransel lusuh tersampir di satu bahunya, menunggu Farhan yang sedang memasukkan buku catatan biru ke dalam tasnya—buku catatan yang tadi diserahkan Zaid kepadanya di kamar, sambil menuliskan namanya di halaman pertama dengan tinta hitam dalam tulisan khat riq'ah: *Farhan bin Rahmat – Penuntut Cahaya Adab.*
 
-Farhan menerima buku catatan bersampul biru muda itu dengan kedua tangannya yang gemetar takzim. Ia memeluk buku tersebut erat-erat di dadanya, merasakan betapa agungnya karunia persaudaraan Islam yang Allah hadirkan melalui sosok Mas Zaid. Aroma lembaran kertas baru yang harum menyapa hidungnya, mengundang gairah intelektual yang membara di dalam pikirannya untuk segera menorehkan ilmu pengetahuan di dalamnya.
+Farhan belum pernah punya buku yang di halaman depannya ada namanya ditulis sepenting itu.
 
-Danang mengusap kaligrafi namanya di halaman depan buku catatan itu dengan mata yang berbinar-binar penuh kegembiraan yang polos. "Bagus sekali tulisan nama Danang, Mas Zaid! Danang belum pernah punya buku sebagus dan seindah ini seumur hidup Danang!" seru Danang dengan suara ceria yang menghangatkan suasana bilik asrama. Danang mencium sampul buku biru itu seraya tersenyum bangga di samping Farhan.
+Ia menutup tasnya, memasang tali bahu, lalu menoleh ke Zaid yang sudah berdiri di dekat pintu.
 
-Zaid menatap lurus ke dalam bola mata kedua adik asuhnya tersebut seraya menyampaikan amanah pembinaan ruhaninya yang sangat mendalam. "Buku catatan biru ini bukan sekadar buku tulis biasa, Farhan, Danang..." tutur Zaid dengan nada suara yang sarat keteladanan seorang murabbi muda. "Mulai malam ini, tepat selepas sholat Maghrib dan wirid berjamaah di masjid, Mas Zaid akan menunggu kalian berdua di serambi masjid sebelah utara dekat tiang ukir kayu jati ketiga."
+"Ayo," kata Zaid.
 
-Zaid merinci rencana pembinaan adab dan keilmuan yang akan ia berikan secara sukarela kepada adik-adik asuhnya setiap malam. "Di serambi masjid itu, Mas Zaid akan mengajari kalian dasar-dasar ilmu nahwu, sharaf, dan adab secara bertahap dengan sabar. Mas Zaid juga akan menyimak setoran hafalan Al-Qur'an kalian dengan penuh ketenangan. Tidak akan ada bentakan kemarahan, tidak ada sabetan rotan, dan tidak ada caci maki; kita akan belajar bersama dalam oase thuma'ninah dan kasih sayang kenabian."
+Tidak ada kata-kata yang lebih dari itu. Tapi cara ia mengatakannya—seperti sudah jelas bahwa ia akan menemani mereka—membuat Farhan tidak perlu bertanya apakah Zaid ikut atau tidak.
 
-Janji bimbingan yang tulus dari seorang ketua santri paling berprestasi seketika menyiramkan embun ketenteraman yang sempurna di dalam rongga dada Farhan dan Danang. Mereka merasa bahwa Allah SWT tidak pernah membiarkan mereka sendirian di pondok pesantren ini. Di tengah kerasnya sistem asrama masa lalu, Allah telah menghadirkan sosok Mas Zaid sebagai lentera penerang jalan dan pelindung sejati bagi langkah-langkah awal perjalanan mereka.
+Faisal berdiri paling terakhir. Tasnya sudah terpasang. Kitab Ajurrumiyyahnya ia pegang di tangan kanan dengan cara yang agak canggung, seperti orang yang belum terbiasa membawa kitab kuning ke madrasah.
 
-"Matur nuwun sanget atas kemuliaan hati dan bimbingan Mas Zaid..." bisik Farhan seraya menundukkan kepalanya takzim dan mencium punggung tangan Zaid dengan segenap rasa hormatnya. "Farhan berjanji akan merawat buku catatan biru ini dengan sebaik-baiknya dan tidak akan menyia-nyiakan waktu belajar bersama Mas Zaid di serambi masjid nanti."
+"Faisal," panggil Zaid dari pintu.
 
-Danang ikut mencium tangan Zaid dengan senyuman lebar yang memancarkan rasa terima kasih yang mendalam: "Danang juga berjanji akan rajin datang ke tiang ketiga, Mas Zaid! Danang akan menghafal surat An-Naba' sampai lancar dan mutqin!" Zaid tersenyum haru, lalu mengusap puncak kepala kedua anak asuhnya tersebut secara bergantian dengan doa keberkahan di dalam hatinya.
+"Nggih."
 
-Dari arah koridor luar lantai satu asrama putra, suara lonceng madrasah berdentang nyaring sebanyak dua kali memecah keheningan pagi: *Teng... Teng!* Suara dentang lonceng tembaga itu menggema di seluruh komplek Pesantren Darul Adab, menandakan bahwa waktu persiapan menuju gedung madrasah telah tiba dan seluruh santri diwajibkan segera mengenakan seragam madrasah masing-masing.
+"Kitabnya bisa disimpan di dalam tas kalau mau."
 
-Mendengar suara lonceng tersebut, suasana di bilik Kamar Al-Farabi seketika menjadi sibuk namun penuh keteraturan. Anak-anak asrama segera bangkit berdiri merapikan perlengkapan sekolah mereka di atas meja dan lemari kayu. Zaid bangkit berdiri dari lantai semen, merapikan sarung hijau tuanya, lalu tersenyum menatap Farhan, Danang, dan Faisal yang telah siap dengan tas ransel madrasah di pundak mereka.
+Faisal menatap kitabnya sebentar, lalu memasukkannya ke dalam tas. Tidak ada terima kasih yang diucapkan—tapi ia melakukannya, dan itu cara Faisal yang paling dekat dengan terima kasih.
 
-"Waktu menuju madrasah telah tiba, para ksatria peradaban..." seru Zaid dengan suara lantang yang memancarkan wibawa kepemimpinan positif. "Ambil tas dan kitab *Matan Al-Ajurrumiyyah* kalian. Pagi ini, Mas Zaid sendiri yang akan menggandeng tangan kalian menuruni tangga asrama dan mengantar kalian menuju pintu gerbang madrasah!"
+Mereka bertiga keluar dari kamar.
 
-Farhan, Danang, dan Faisal serentak menyambar kitab nahwu dan buku catatan masing-masing dengan wajah yang berseri-seri penuh semangat membara. Rasa takut dan minder yang dahulunya menghantui setiap langkah mereka di lorong asrama kini telah lenyap tak bersisa, digantikan oleh rasa percaya diri yang kokoh di bawah naungan perlindungan sang ketua santri. Mereka bersiap melangkah keluar dari bilik Kamar Al-Farabi menyongsong fajar kebangkitan ilmu.
+Lorong lantai dua Asrama Darul Adab di pagi hari seperti sungai yang tiba-tiba deras. Puluhan santri dari berbagai kamar bergerak serentak ke arah tangga—ada yang masih merapikan peci sambil berjalan, ada yang memikul kitab tebal di ketiak, ada yang berbisik-bisik kepada teman sambil melirik kanan kiri. Bau sabun mandi dan pasta gigi menguar tipis di udara lorong yang sempit.
 
-Pintu Kamar Al-Farabi terbuka lebar pada pukul 06.30 pagi, dan dari ambang pintu tersebut, melangkahlah keluar tiga sosok santri yang menyita perhatian seluruh lorong lantai dua. Zaid melangkah di tengah dengan langkah kaki yang tegap, mantap, dan berwibawa laksana seorang perwira adab. Zaid mengenakan jubah abu-abu muda yang disetrika rapi beralaskan sorban putih bersih yang disampirkan anggun di pundak kanannya.
+Zaid berjalan di depan.
 
-Sepanjang perjalanan melintasi koridor lantai dua, Zaid tidak melepaskan genggaman tangan kirinya dari jemari tangan Farhan yang mungil. Sementara tangan kanannya merangkul erat pundak Danang yang sedang memeluk tas ransel lusuhnya dengan senyuman cerah. Genggaman tangan Zaid terasa begitu kokoh, hangat, dan mantap, menyalurkan energi perlindungan batin yang sangat dahsyat ke dalam jiwa kedua santri baru kelas tujuh tersebut.
+Farhan dan Danang mengikuti di belakangnya—otomatis, tanpa diminta, seperti dua anak bebek yang sudah mengenal induknya.
 
-Berjalan di samping sang ketua santri membuat rasa minder, cemas, dan keterasingan yang selama ini menghantui Farhan dan Danang seketika sirna tanpa bekas. Mereka merasa bahwa mereka tidak lagi berjalan sebagai anak-anak desa yang tersisih di sudut asrama, melainkan berjalan sebagai putra-putra peradaban yang memiliki hak penuh untuk dihormati dan dilindungi martabat kemanusiaannya.
+Lalu Zaid berhenti.
 
-Faisal melangkah tegap di samping kanan Zaid dengan tas madrasah tersampir di pundaknya dan kitab *Matan Al-Ajurrumiyyah* berada di genggaman tangannya. Langkah kaki pemuda Madura itu tampak sangat mantap, tidak ada lagi sorot mata liar yang menantang atau bibir yang mengumpat sinis laksana kemarin siang di lapangan. Kehangatan ukhuwah yang baru saja ia rasakan di bilik Kamar Al-Farabi telah melahirkan kembali rasa percaya diri dan ketenangan batin di dalam jiwa ksatria mudanya.
+Tepat di bordes tangga—undak-undak beton yang melebar sebelum tangga menurun ke lantai satu—ada lima santri senior berdiri berjejer. Kelas sepuluh dan sebelas, berdasarkan seragam madrasah aliyah yang mereka kenakan. Mereka tidak sedang pergi ke madrasah; posisi mereka seperti sedang berjaga—berdiri menghalangi aliran santri yang turun, satu kakinya menyandar di pagar tangga besi.
 
-Santri-santri lain yang sedang berpapasan di lorong koridor memandang pemandangan tersebut dengan tatapan takjub dan penuh rasa takzim. Pemandangan seorang Ketua Organisasi Santri kelas dua belas yang menggandeng mesra santri-santri baru kelas tujuh adalah sebuah pemandangan langka yang mendobrak kebiasaan feodal asrama masa lalu. Selama bertahun-tahun, santri senior biasanya hanya berjalan bersama sesama senior sembari memandang rendah adik-adik kelas mereka.
+Di depan mereka, tiga santri kelas tujuh berdiri gugup. Salah satunya—anak bertubuh agak gempal dengan peci yang sedikit miring—sedang memegangi tas ransel kecilnya dengan kedua tangan erat-erat.
 
-Beberapa santri senior kelas sepuluh dan sebelas yang biasanya bersikap angkuh seketika menyingkir memberi jalan dan menyapa Zaid dengan santun: *"Assalamu'alaikum, Mas Zaid..."* Zaid membalas sapaan salam para adik kelas dan rekannya dengan senyuman ramah dan anggukan kepala yang santun tanpa ada sedikit pun gestur arogansi kekuasaan (*Humble Leadership*). Di bawah kepemimpinan Zaid, Pesantren Darul Adab mulai merasakan hembusan angin segar kesetaraan martabat insan.
+"Kamu yang bilik sebelah kamar mandi tiga, kan?" kata satu santri senior kepada si anak gempal itu.
 
-Namun langkah kaki Zaid mendadak terhenti tepat di bordes tangga beton lantai dua, di bawah naungan jendela kaca besar yang menghadap langsung ke arah pepohonan komplek pesantren. Di area bordes tangga tersebut, beberapa santri senior kelas sebelas dari bagian seksi keamanan kamar sedang berdiri berkumpul sembari mengawasi barisan adik-adik kelas yang melintas dengan tatapan mata yang dingin dan intimidatif.
+Si anak mengangguk pelan.
 
-Di antara kelompok santri senior tersebut, tampak beberapa nama yang selama ini dikenal sering menyuruh adik-adik kelas mencuci tumpukan baju kotor mereka di tempat pencucian belakang. Mereka juga terbiasa menyuruh santri baru menyetrika sarung mereka dan membelikan makanan ke warung luar asrama dengan ancaman takzir jika menolak. Melihat Zaid berhenti melangkah di hadapan mereka, para santri senior tersebut seketika menegakkan posisi berdiri mereka dengan rasa hormat bercampur kegamangan batin yang nyata.
+"Celanaku yang dicuci kemarin masih ada yang belum kering. Besok pagi-pagi kamu ambil dan setrika sebelum apel."
 
-Zaid melepaskan genggaman tangannya dari Farhan dan Danang sejenak, lalu melangkah maju dua langkah menghadap para santri senior di hadapannya. Tatapan mata Zaid yang jernih namun menyala penuh wibawa kepemimpinan menyapu wajah-wajah rekannya yang berada di jenjang madrasah aliyah tersebut satu per satu. Suasana di sekitar bordes tangga mendadak hening membisu saat puluhan santri yang sedang menuruni tangga ikut menghentikan langkah mereka untuk menyimak apa yang hendak disampaikan oleh sang pemimpin santri.
+Si anak itu tidak menjawab. Tapi ia tidak menolak juga.
 
-Zaid melafalkan sebuah kaidah kepemimpinan kenabian yang sangat agung dengan suara bas yang lantang, berbobot, dan menggema di sepanjang koridor tangga beton:
+Zaid berhenti melangkah.
+
+Ia memperhatikan pemandangan itu sebentar—tidak lama, cukup untuk memastikan ia tidak salah menangkap apa yang sedang terjadi. Kemudian ia berjalan maju, melewati Farhan dan Danang, mendekat ke arah bordes tangga.
+
+"Assalamu'alaikum."
+
+Santri-santri senior itu serentak menoleh. Muka mereka berubah saat melihat siapa yang menyapa.
+
+"Wa'alaikumussalām, Mas Zaid," jawab mereka, nyaris serentak, suaranya otomatis turun satu nada.
+
+Zaid berdiri di antara mereka dan si anak gempal kelas tujuh itu. Tidak mengancam. Tidak ada suara yang ditinggikan.
+
+"Tadi saya dengar kamu minta dia setrika celanamu."
+
+Si santri senior—yang tadi bicara—sedikit menegakkan punggungnya. "Itu biasa, Mas Zaid. Adik kelas yang..."
+
+"Saya tahu itu biasa," potong Zaid pelan. "Itulah masalahnya."
+
+Keheningan singkat.
+
+Dari barisan santri yang sedang menuruni tangga, beberapa memperlambat langkah. Bukan karena ingin menonton—tapi karena suara Zaid punya berat yang membuat orang berhenti sebentar.
+
+Zaid menatap si santri senior itu. Lurus. Tidak keras, tapi tidak berpaling.
+
+"Dengarkan saya baik-baik," kata Zaid, dan suaranya sudah cukup berat sehingga tidak perlu dinaikkan. "Hadits Nabi kita yang shahih menyatakan:"
 
 $$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
 
-> *"Pemimpin suatu kaum adalah pelayan bagi mereka."* (HR. Al-Baihaqi)
+> *"Pemimpin suatu kaum adalah pelayan mereka."* (HR. Al-Baihaqi)
 
-Zaid menatap lurus ke dalam manik mata para santri senior kelas sepuluh dan sebelas dengan ketegasan moral yang tak terbantahkan. "Sahabat-sahabatku para santri senior yang dirahmati Allah SWT..." dawuh Zaid dengan intonasi yang membelah keheningan koridor. "Hadits shahih ini adalah wasiat abadi Baginda Nabi Muhammad SAW yang wajib menjadi kompas adab bagi seluruh santri yang dituakan di pondok pesantren ini. Senioritas di bumi Darul Adab bukanlah mahkota kasta untuk menindas atau memperbudak adik-adik kelas kita yang lemah!"
+"Kita ini santri. Kalau kita tidak bisa melayani adik kelas, setidaknya jangan jadikan mereka pembantu." Zaid menarik nafas. "Cuci celanamu sendiri. Setrika sarungmu sendiri. Bukan karena itu rendah—tapi karena itu adab."
 
-Zaid mengarahkan pandangan matanya ke arah Farhan, Danang, dan ratusan santri kelas tujuh yang sedang berdiri mendengarkan di sepanjang tangga beton. "Anak-anak kelas tujuh ini datang ke pesantren membawa air mata rindu kepada orang tua mereka dan membawa amanah suci untuk menghafal Al-Qur'an dan mutun ilmu agama. Mereka datang ke sini bukan untuk menjadi pembantu yang mencucikan baju kotor kita, bukan untuk menyetrika sarung kita, dan bukan pula untuk memijat kaki kita di malam hari!"
+Si santri senior itu menundukkan kepala. Pelan-pelan. Bukan karena takut, sepertinya—tapi karena ada sesuatu dalam kalimat Zaid yang sulit dibantah.
 
-Zaid menegaskan bahwa feodalisme senioritas adalah penyakit kultural yang merusak ruh kepesantrenan. "Tindakan memperalat adik kelas demi kenyamanan pribadi adalah bentuk feodalisme keji yang bertentangan secara mutlak dengan sunnah Rasulullah SAW!" seru Zaid dengan tatapan mata yang menyala penuh integritas. "Baginda Nabi mengajarkan bahwa semakin tinggi kedudukan seseorang, maka semakin besar pula kewajibannya untuk melayani dan mengayomi kaum yang paling lemah!"
+Zaid berpaling ke si anak gempal kelas tujuh.
 
-Zaid kemudian mendeklarasikan maklumat resmi organisasi santri yang mematahkan seluruh tradisi perpeloncoan di asrama putra Pesantren Darul Adab. "Mulai pagi hari ini, Organisasi Santri Darul Adab mengumumkan maklumat resmi: dilarang keras bagi seluruh santri senior untuk menyuruh santri baru mencuci pakaian pribadi, menyetrika sarung, membersihkan lemari, atau melakukan khidmah pribadi lainnya! Setiap santri wajib mandiri merawat pakaian dan kebersihan pribadinya masing-masing!"
+"Siapa namamu?"
 
-Zaid menegaskan sanksi tegas yang akan dijatuhkan bagi siapa pun yang berani melanggar maklumat adab tersebut tanpa pandang bulu. "Barangsiapa di antara santri senior yang tertangkap tangan masih menyuruh adik kelas mencuci pakaian atau melakukan perpeloncoan, namanya akan dicatat dalam berita acara resmi dan akan disidangkan langsung di hadapan Mahkamah Adab Santri bersama Ustadz Ridwan! Tidak ada kompromi bagi kezaliman feodal di bumi Darul Adab!"
+"Ilham, Mas Zaid."
 
-Zaid kemudian menoleh menatap Farhan dan Danang seraya menunjuk kedua adik asuhnya tersebut dengan gestur perlindungan yang sangat tegas di hadapan seluruh santri asrama. "Dan ketahuilah kalian semua... Farhan, Danang, dan seluruh santri baru kelas tujuh berada di bawah pengawalan dan perlindungan resmi Ketua Organisasi Santri! Jika ada senior yang berani mengancam, membentak, atau memaksa kalian melakukan hal-hal di luar aturan adab, jangan pernah takut untuk menolak secara tegas! Katakan bahwa kalian dilindungi oleh Mas Zaid, dan laporkan langsung kepada Mas Zaid di kamar pengurus!"
+"Ilham, kamu tidak wajib menerima perintah seperti itu dari siapapun di sini. Tidak ada dalam aturan pesantren, tidak ada dalam kitab adab manapun, yang mewajibkan santri baru mencuci pakaian pribadi seniornya." Zaid berbicara dengan nada yang tenang—bukan menggurui, lebih seperti memberi informasi yang memang seharusnya sudah diketahui Ilham dari hari pertama. "Kalau ada yang memaksa lagi, kamu datang ke saya. Kamar pengurus, lantai dua, ujung timur."
 
-Mendengar deklarasi yang begitu berani, adil, dan membebaskan dari lisan sang ketua santri, dada Farhan dan Danang seketika terasa lapang laksana burung yang lepas dari sangkar besi. Beban teror perpeloncoan senior yang selama berminggu-minggu menghantui tidur mereka laksana bayang-bayang kelam kini telah runtuh rata dengan tanah. Farhan menatap wajah Mas Zaid dengan air mata haru yang kembali menggenang di pelupuk matanya, menyadari betapa agungnya keberanian seorang pemimpin yang rela berdiri membela kaum yang tertindas.
+Ilham mengangguk. Matanya sedikit berkaca-kaca.
 
-Para santri senior di bordes tangga menundukkan kepala mereka sedalam-dalamnya dengan rasa malu dan keinsyafan yang tulus di hadapan seluruh santri. Mereka menyadari bahwa kebiasaan menyuruh adik kelas yang selama ini mereka anggap wajar sesungguhnya adalah bentuk kezaliman kultural yang tidak memiliki dasar dalam syariat Islam. Hati nurani mereka tersentuh oleh keteladanan Zaid yang memilih melayani daripada dilayani.
+Zaid menoleh ke santri-santri senior lainnya—tidak hanya yang lima di bordes, tapi juga yang sudah berhenti di sekitar tangga.
 
-Salah seorang santri senior kelas sebelas melangkah maju mendekati Zaid, lalu menyalami dan mencium tangan Zaid dengan segenap rasa takzim: "Mohon maafkan kekhilafan kami selama ini, Mas Zaid... Kami berjanji di hadapan Allah SWT untuk mematuhi maklumat ini dan siap menjaga adik-adik kelas kami dengan kasih sayang seorang kakak." Langkah santri senior tersebut seketika diikuti oleh rekan-rekannya yang lain, menyalami Zaid dan adik-adik kelas dengan senyuman persaudaraan yang tulus.
+"Ini berlaku untuk semua," katanya. Tidak keras. Cukup jelas. "Mulai hari ini."
 
-Suasana di bordes tangga yang dahulunya kaku dan mencekam seketika mencair menjadi lautan ukhuwah Islamiyyah yang sangat mengharukan. Tembok feodalisme asrama yang telah bertahan selama bertahun-tahun di Pesantren Darul Adab pagi itu resmi runtuh berkeping-keping oleh kekuatan dalil kenabian dan keteladanan akhlak seorang santri sejati. Ratusan anak penuntut ilmu menyaksikan peristiwa bersejarah tersebut dengan dada yang berdebar penuh kebanggaan peradaban.
+Tidak ada yang protes.
 
-Zaid tersenyum sangat teduh melihat kemenangan adab di koridor asrama tersebut. Zaid kembali menggandeng tangan kiri Farhan dan meletakkan tangan kanannya di pundak Danang, lalu melangkah memimpin rombongan menuruni anak-anak tangga beton menuju lantai satu. Faisal berjalan di samping kanan Zaid dengan kepala terangkat tegak, merasakan kebanggaan yang luar biasa menjadi bagian dari barisan penegak keadilan adab di bawah naungan Mas Zaid.
+Santri senior yang tadi bicara mengulurkan tangannya. "Maaf, Mas Zaid. Maaf, Ilham."
 
-Langkah kaki mereka kini menapak ke atas pelataran lapangan tengah komplek asrama putra yang basah oleh tetesan sisa embun pagi. Sinar mentari fajar memancar hangat menyinari lapangan semen yang luas, membiaskan bayangan-bayangan panjang para penuntut ilmu yang melangkah mantap menuju gedung madrasah. Udara pagi terasa sangat segar dan bersih, seolah alam semesta ikut tersenyum merayakan terbebasnya komplek pesantren dari belenggu intimidasi dan feodalisme.
+Zaid menyalaminya. Kemudian ia mundur, kembali ke posisi awalnya di antara Farhan dan Danang.
 
-Farhan menggenggam erat buku catatan bersampul biru pemberian Mas Zaid di dadanya, melangkah berdampingan bersama Danang dan Faisal dengan ritme kaki yang teratur dan penuh semangat baru. Farhan memandang ke arah langit biru yang membentang luas di atas kubah masjid Darul Adab dengan hati yang dipenuhi rasa syukur yang tak terhingga kepada Allah SWT. Di dalam benak Farhan, ia tahu bahwa perjalanan menuntut ilmunya di pondok pesantren ini kini telah memiliki pelindung dan arah yang sangat jelas.
+Aliran santri yang menuruni tangga kembali bergerak.
 
-Danang berjalan sembari sesekali menoleh ke arah Farhan dan Faisal dengan senyuman lebar yang tak pernah pudar dari bibirnya. Danang merasakan kakinya yang sembuh melangkah tanpa ada beban ketakutan sedikit pun. Bagi anak yatim piatu tersebut, hari ini adalah fajar baru di mana dirinya merasa benar-benar memiliki keluarga kandung yang menyayanginya dan melindunginya di bumi Pesantren Darul Adab.
+Farhan berjalan di sebelah kiri Zaid menuruni tangga beton. Ia tidak berkata apa-apa. Tapi tangannya—tanpa sengaja, atau mungkin dengan sengaja—menyentuh lengan baju Zaid sebentar saat mereka turun bersama.
 
-Rombongan penuntut ilmu itu melintasi jembatan semen kecil yang menghubungkan komplek asrama putra dengan pelataran gedung madrasah tsanawiyah. Di sepanjang jalan setapak berpasir putih, pepohonan mangga dan bunga asoka yang sedang mekar melambai-lambai lembut ditiup angin pagi, memancarkan semerbak wangi alami yang menyegarkan pikiran. Di kejauhan, gedung madrasah dua lantai bercat putih bersih tampak berdiri megah menyambut kedatangan para calon ulama masa depan.
+Zaid tidak berkomentar tentang itu.
 
-Di depan gerbang utama gedung madrasah tsanawiyah, sosok Ustadz Burhan—wali kelas sekaligus master pengajar ilmu Nahwu dan Sharaf—telah berdiri menanti kedatangan para muridnya dengan mengenakan kemeja putih bersahaja dan peci hitam beludru yang rapi. Di tangan kirinya, Ustadz Burhan memegang kitab *Matan Al-Ajurrumiyyah* bersampul kuning bersih. Senyuman hangat dan pandangan mata yang teduh memancar dari wajah sang guru madrasah saat melihat Zaid melangkah mendekat sembari menggandeng tangan Farhan dan Danang.
+Di belakang mereka, Ilham ikut turun. Danang yang berjalan di sebelah kanannya menoleh dan tersenyum—senyuman yang tidak menawarkan apa-apa, hanya mengakui keberadaan.
 
-Zaid menghentikan langkah kakinya tepat dua meter di hadapan Ustadz Burhan, lalu membungkukkan badannya dengan penuh rasa takzim seorang santri kepada gurunya. "Assalamu'alaikum warahmatullāhi wabarakātuh, Ustadz Burhan yang kami muliakan..." sapa Zaid dengan suara bas yang santun dan berwibawa.
+Ilham membalas senyum itu.
 
-Ustadz Burhan membalas salam Zaid dengan senyuman yang sangat lebar dan menyejukkan sanubari: "Wa'alaikumussalām warahmatullāhi wabarakātuh, Mas Zaid dan para ksatria penuntut ilmu peradaban..." Ustadz Burhan menyatukan kedua telapak tangannya di depan dada, menyambut kedatangan murid-murid barunya dengan kehangatan seorang pendidik sejati.
+Faisal berjalan di barisan terbelakang. Ia melihat semuanya dari jarak dua langkah—Zaid yang berdiri di bordes tangga tadi, cara ia berbicara, cara si santri senior menundukkan kepala. Faisal tidak bersuara. Tapi ia memikirkan sesuatu.
 
-Farhan, Danang, dan Faisal serentak melangkah maju dan mencium punggung tangan Ustadz Burhan secara bergantian dengan segenap rasa takzim dan baktinya. Ustadz Burhan mengusap puncak kepala Farhan dan Danang dengan telapak tangannya yang hangat seraya membisikkan doa keberkahan ilmu dan kemudahan pemahaman di telinga mereka berdua. Sentuhan kasih sayang sang guru madrasah mengalirkan ketenangan batin yang semakin memantapkan kesiapan mental anak-anak tersebut untuk belajar.
+Ia memikirkan Madura. Ia memikirkan pola yang sama di kampungnya—siapa yang lebih tua, dialah yang dilayani. Ia tidak pernah mempertanyakan itu sebelumnya.
 
-Zaid menatap Ustadz Burhan dengan pandangan mata yang sarat amanah kepemimpinan yang tulus. "Ustadz Burhan yang kami cintai karena Allah SWT..." tutur Zaid dengan nada suara yang berbobot khidmat. "Pagi ini, saya menyerahkan adik-adik asuh saya: Farhan, Danang, dan Faisal ke haribaan bimbingan Ustadz di ruang kelas madrasah. Bimbinglah mereka dengan hikmah ilmu Al-Qur'an dan sunnah kenabian, agar tunas-tunas suci ini tumbuh menjadi insan adabi yang mengharumkan nama Islam dan Pesantren Darul Adab di masa depan."
+Sekarang ia mempertanyakannya.
 
-Ustadz Burhan menganggukkan kepalanya dengan rasa haru dan hormat yang mendalam kepada sang ketua santri. "Alhamdulillah ya Rabb... Terima kasih banyak atas amanah yang teramat mulia ini, Mas Zaid," jawab Ustadz Burhan dengan suara bergetar haru. "Insya Allah, madrasah ini akan menjadi taman surga ilmu yang aman, menyejukkan jiwa, dan memerdekakan akal budi adik-adik kita dari segala bentuk rasa takut dan kebodohan."
+Pelataran bawah asrama terbuka di depan mereka—hamparan semen yang luas, pohon mangga di sudut utara, bendera organisasi santri yang masih sedikit basah oleh embun pagi. Di seberang pelataran, gedung madrasah berdiri dengan jendela-jendela yang sudah mulai terang oleh lampu di dalam.
 
-Tepat pada pukul 07.00 pagi, lonceng tembaga tanda dimulainya jam pelajaran pertama berdentang nyaring di koridor gedung madrasah tsanawiyah: *Teng... Teng... Teng!* Suara dentang lonceng itu memecah keheningan pelataran, memanggil seluruh penuntut ilmu untuk segera memasuki ruang kelas masing-masing. Pintu gerbang madrasah terbuka lebar menyambut langkah-langkah kaki generasi baru peradaban Islam.
+Di depan gerbang madrasah, Ustadz Burhan berdiri menunggu. Kemeja putih, peci hitam, kitab Ajurrumiyyah di tangan kiri.
 
-Zaid menepuk pundak Farhan dan Danang untuk terakhir kalinya seraya tersenyum bangga memandang kedua adik asuhnya tersebut. "Masuklah ke dalam kelas kalian, ksatria-ksatria peradaban kebanggaan Mas Zaid... Bukalah kitab nahwu kalian, simaklah penjelasan Ustadz Burhan dengan pikiran yang jernih, dan raihlah puncak kemuliaan ilmu. Mas Zaid akan menunggu kalian di serambi masjid ba'da Maghrib nanti."
+Ia tersenyum ketika melihat Zaid datang bersama tiga anak.
 
-Farhan dan Danang mengangguk mantap dengan mata yang berbinar-binar penuh tekad kemuliaan. "Matur nuwun sanget atas segalanya, Mas Zaid... Kami akan belajar dengan sungguh-sungguh!" seru Farhan dan Danang secara serentak. Didampingi oleh Faisal yang melangkah tegap di samping mereka, kedua anak belia penuntut ilmu Al-Qur'an itu melangkah melintasi ambang pintu gerbang madrasah menyongsong fajar kebangkitan ilmu dengan dada yang lapang dan hati yang dipenuhi oleh lentera iman yang abadi.
+"Serahkan ke saya, Mas Zaid," kata Ustadz Burhan waktu mereka sudah dekat.
+
+"Kepada guru terbaik yang saya kenal," jawab Zaid. Ia menepuk pundak Farhan sebentar, lalu Danang. Kepada Faisal ia hanya mengangguk—tapi anggukan yang berat, anggukan yang artinya *kamu sudah memilih dengan baik untuk ikut.*
+
+Farhan dan Danang mencium tangan Ustadz Burhan. Faisal ragu sebentar—lalu ikut juga.
+
+Ustadz Burhan menepuk kepala Danang pelan. "Namamu Danang?"
+
+"Nggih, Ustadz."
+
+"Nadzom Imrithi berapa bait sudah kamu hafal?"
+
+Danang terkejut. "B-belum hafal, Ustadz. Baru mau mulai."
+
+"Bagus. Berarti tidak ada yang perlu dilupakan dulu." Ustadz Burhan tersenyum. "Ayo masuk."
+
+Zaid masih berdiri di depan gerbang ketika mereka bertiga memasuki halaman madrasah. Farhan sempat menoleh sekali ke belakang—Zaid melambaikan tangannya sebentar, lalu berbalik.
+
+Langkah kakinya menjauh.
+
+Farhan menatap punggung Zaid yang menghilang di seberang pelataran. Ia tidak bisa menjelaskan dengan tepat apa yang ia rasakan—tapi ada sesuatu yang terasa berbeda dari pagi ini dibandingkan pagi-pagi sebelumnya di pesantren ini.
+
+Bukan karena pesantrennya yang berubah.
+
+Sesuatu di dalam dadanya yang bergeser.
+
+Ia berbalik, mengikuti Ustadz Burhan masuk ke gedung madrasah.
+
+Di sampingnya, Danang sudah berceloteh pelan tentang nadzom apa yang akan mereka pelajari hari ini. Di belakangnya, Faisal berjalan tanpa banyak bicara.
+
+Lonceng kedua berdentang.
+
+*Teng... Teng... Teng!*
+
+Jam pertama dimulai.
