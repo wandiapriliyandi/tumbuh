@@ -1,123 +1,153 @@
-# Sub-Bab 5.3: Uji Nyata di Bilik Al-Farabi: Menyapa dengan Cinta
+# Sub-Bab 5.3: Thuma'ninah Sebagai Penyembuh Saraf
 
-Malam hari pukul 21.00 di dalam bilik Kamar Al-Farabi lantai dua asrama putra Pesantren Darul Adab. Udara malam pegunungan yang dingin dan lembap merayap masuk melalui celah-celah papan ventilasi kayu yang renggang di atas kusen jendela. Hembusan angin malam itu meniup tirai kain biru tipis yang terpasang di jendela kamar, membiaskan cahaya temaram dari lampu merkuri lapangan asrama di luar. Di dalam ruangan berukuran enam kali tujuh meter tersebut, suasana tampak hening dan sunyi saat dua puluh anak santri baru kelas tujuh sedang bersiap-siap menyongsong jam malam.
+Kipas angin gantung di langit-langit Kamar Al-Farabi berputar dengan suara dengung halus yang monoton.
 
-Sebagaimana malam-malam sebelumnya, ketegangan bawah sadar selalu mulai merayap di dada anak-anak asrama saat jarum jam dinding plastik di sudut kamar mendekati pukul 21.30. Pukul setengah sepuluh malam adalah batas akhir waktu belajar mandiri dan mulainya jam tidur wajib yang biasanya diawasi dengan patroli ketat oleh para pengurus keamanan asrama. Setiap anak bergerak dengan gerakan yang sangat hati-hati dan nyaris tanpa suara di atas kasur busa masing-masing. Mereka takut jika menimbulkan sedikit saja kegaduhan, pintu kamar mereka akan kembali digedor dari luar dan mereka akan dihukum push-up di atas lantai semen yang dingin.
+Angin malam yang menyusup lewat kisi-kisi ventilasi membawa hawa dingin lembap dari lereng bukit kapur di belakang pesantren. Di luar, lampu merkuri tiang koridor membiaskan bayangan jeruji jendela ke lantai semen yang abu-abu kusam.
 
-Di ranjang susun tingkat bawah di sudut paling pojok kamar, Farhan sedang merapikan buku catatan nahwu birunya dan meletakkannya di samping bantal kapuknya yang bersahaja. Farhan memeriksa koper biru tua di bawah kolong ranjangnya yang terkunci rapat, tempat ia menyimpan selembar foto Ibu Fatimah dan Pak Rahmat yang selalu menjadi sumber kekuatan batinnya. Di dalam hati kecil Farhan, kerinduan mendalam kepada rumah di desa sesekali masih berdesir pelan, namun rasa takut yang dahulunya mencekam kini mulai sedikit mereda berkat bimbingan hangat dari Mas Zaid dan persahabatan erat bersama kawan-kawan sekamarnya.
+Jarum jam dinding plastik di atas pintu menunjukkan pukul sembilan lewat dua puluh.
 
-Di ranjang susun sebelah, Danang sedang duduk bersila sembari memijat lembut ujung ibu jari kaki kanannya yang masih menyisakan sedikit memar kemerahan akibat sabetan rotan kemarin fajar. Anak yatim piatu asal Banyumas itu menundukkan kepalanya, sesekali meringis pelan saat jemarinya menyentuh bagian kulit yang ngilu. Danang menoleh ke arah Farhan seraya tersenyum tipis memperlihatkan deretan giginya yang rapi, berusaha menunjukkan kepada sahabatnya bahwa ia adalah anak yang kuat dan tabah menghadapi kerasnya kehidupan perantauan pondok pesantren.
+Sepuluh menit lagi jam malam dimulai. Dan seperti malam-malam sebelumnya, menit-menit menjelang jam tidur wajib selalu menjadi waktu yang paling mencekam bagi dua puluh santri baru kelas tujuh di bilik itu.
 
-Sementara itu di ranjang susun tingkat atas di seberang kamar, Faisal sedang duduk bersandar di dinding kapur sembari membaca bait-bait kaidah *Matan Al-Ajurrumiyyah* di bawah sinar lampu neon putih. Faisal menatap catatan penjelasan tentang perbedaan *Isim* dan *Fi'il* yang tadi pagi ia diskusikan bersama Farhan di kelas madrasah dengan penuh ketekunan. Sikap Faisal yang dahulunya kasar, defensif, dan selalu memendam bara amarah kini perlahan-lahan mulai melunak sejak Farhan dengan tulus mencuci luka betisnya di tempat wudhu kemarin siang. Benih-benih ukhuwah Islamiyyah yang tulus mulai meluluhkan dinding permusuhan di hati anak Madura yang bertemperamen keras tersebut.
+Di ranjang susun tingkat bawah di sudut kamar, Farhan merapikan letak kitab *Al-Ajurrumiyyah*-nya di meja belajar kecil. Gerakannya tergesa-gesa, takut ada barang yang tercecer di lantai saat ronda keamanan lewat.
 
-Tiba-tiba dari arah koridor luar lantai dua, terdengar suara langkah kaki seseorang yang sedang melangkah mendekati pintu Kamar Al-Farabi. Namun anehnya, suara langkah kaki itu tidak diiringi oleh hentakan tumit sepatu pantofel kulit yang keras dan berirama mengancam laksana biasanya. Tidak terdengar pula suara derit tajam dari bilah rotan yang diseretkan di atas permukaan dinding kapur koridor yang biasanya sanggup meremangkan bulu kuduk seluruh santri. Suara langkah kaki itu terdengar sangat tenang, pelan, dan bersahaja laksana langkah kaki seorang musafir yang datang membawa damai.
+Di kolong ranjangnya, koper biru seng miliknya terkunci rapat. Farhan sempat menyentuh gembok kuningan koper itu sejenak, membayangkan foto ibu dan abahnya yang tersimpan aman di balik tumpukan sarung di dalamnya.
 
-Meskipun suara langkah kaki itu terdengar berbeda, refleks trauma amigdala di dalam kepala anak-anak Kamar Al-Farabi seketika menyala secara otomatis. Dua puluh anak santri belia di dalam kamar mendadak menahan nafas mereka dalam keheningan yang mencekam. Danang seketika menarik kedua kakinya ke atas kasur dan mendekap gulingnya erat-erat ke dadanya dengan tubuh yang menegang kaku. Faisal meletakkan kitab nahwunya di atas kasur dengan gerakan perlahan, menatap ke arah pintu hijau kusam dengan rahang yang terkatup rapat mengantisipasi kemungkinan terjadinya razia malam mendadak.
+Di ranjang sebelah, Danang sedang duduk melipat kakinya ke dada. Jemari tangannya mengelus pelan ujung ibu jari kaki kanannya yang masih menyisakan bekas bilur kemerahan akibat sabetan rotan kemarin subuh.
 
-Keheningan malam yang sunyi itu tiba-tiba dipecah oleh sebuah ketukan di permukaan daun pintu seng kamar. Namun suara yang terdengar bukanlah hantaman keras pipa besi yang memekakkan telinga (*BRAKKK!*) yang biasa merobek ketenangan kamar. Suara yang terdengar adalah ketukan yang sangat santun, berirama teratur, dan lembut sebanyak tiga kali berturut-turut: *Tok... Tok... Tok.* Ketukan tiga kali yang berirama tenang itu terdengar begitu merdu dan menenteramkan sanubari siapa pun yang mendengarnya di dalam kamar.
+"Masih perih, Nang?" bisik Farhan sangat lirih.
 
-Anak-anak Kamar Al-Farabi saling berpandangan satu sama lain dengan mata yang membelalak penuh keheranan dan rasa tak percaya. Belum pernah sekalipun seumur hidup mereka selama tinggal di pesantren ini ada pengurus keamanan asrama yang mengetuk pintu kamar dengan adab yang begitu santun di malam hari. Farhan menoleh menatap Danang dengan kening berkerut dalam, sementara Faisal melongokkan kepalanya dari atas ranjang susun untuk memastikan siapa gerangan tamu misterius yang berdiri di balik pintu kamar mereka.
+Danang menoleh, lalu menggeleng cepat. "Tinggal ngilu sedikit kalau kena lantai dingin, Han."
 
-Grendel pintu seng kamar perlahan-lahan terdorong dari arah luar, menimbulkan suara deritan engsel tua yang sangat pelan dan nyaris tanpa gaduh. Daun pintu terbuka perlahan selebar bahu manusia, dan di ambang pintu tersebut, berdirilah sosok Ustadz Salman yang menjulang tegap. Salman mengenakan jubah abu-abu muda yang bersih dan rapi, beralaskan peci hitam beludru bersahaja tanpa ada kotoran debu sedikit pun. Penampilan Salman malam ini tampak sangat berbeda secara visual dari penampilannya yang garang pada malam-malam sebelumnya.
+Di ranjang tingkat atas, Faisal merebahkan badannya tanpa melepas sarung batiknya. Anak asal Madura itu menatap langit-langit kamar dengan kedua tangan terlipat di bawah kepala, telinganya tetap terpasang awas menangkap setiap bunyi dari arah lorong luar.
 
-Semua pasang mata anak-anak di dalam kamar seketika terpaku menatap kedua belah tangan sang kepala keamanan asrama tersebut. Di tangan kiri Salman, tidak ada lagi sebatang pipa besi bekas penyangga sapu yang berat dan berkarat. Dan yang paling mengejutkan seluruh jiwa raga santri, di tangan kanan Salman yang kekar, tidak ada lagi sebilah rotan kuning panjang yang selama berbulan-bulan menjadi momok paling menakutkan di lorong asrama. Kedua belah tangan pemuda itu kosong bersih, tergantung santai di samping pinggangnya dengan gestur yang sangat terbuka dan ramah.
+Suasana di dalam bilik itu begitu sunyi hingga derit engsel kasur busa pun terdengar jelas.
 
-Wajah Ustadz Salman malam ini tidak lagi mengeras laksana batu pualam yang dingin atau menampakkan kerutan amarah yang menyeramkan. Di bawah temaramnya cahaya koridor, wajah pemuda berusia dua puluh empat tahun itu memancarkan aura keteduhan batin yang luar biasa bersih dan damai. Sepasang matanya yang dahulunya merah menyala kini tampak jernih menatap anak-anak asuhnya dengan tatapan penuh kasih sayang seorang kakak tertua. Sebuah senyuman tulus yang sangat hangat merekah di bibir Salman, menyapa seluruh penghuni Kamar Al-Farabi yang masih mematung di tempat masing-masing.
+Setiap anak belajar menahan napas, berharap malam ini tidak ada razia lemari atau pemeriksaan kuku mendadak yang berujung hukuman squat jump di koridor tengah malam.
 
-Ustadz Salman melafalkan salam kenabian dengan intonasi suara bas yang sangat empuk, lembut, dan menyejukkan sanubari seluruh anak di dalam kamar: *"Assalamu'alaikum warahmatullāhi wabarakātuh, ksatria-ksatria peradaban kebanggaan pesantren..."* Suara salam yang diucapkan Salman mengalun laksana embun penyejuk di tengah gurun sahara yang membara. Nada suaranya tidak mengandung sedikit pun bentakan komando, melainkan sarat dengan getaran doa keselamatan yang tulus dari lubuk jiwanya yang paling dalam.
+Lalu suara langkah kaki itu terdengar.
 
-Selama beberapa detik lamanya, ruangan Kamar Al-Farabi tenggelam dalam keheningan yang sarat dengan rasa takjub dan ketidakpercayaan. Anak-anak asrama yang dahulunya selalu menyambut kedatangan Salman dengan ketakutan luar biasa kini terpana menyaksikan perubahan sikap sang pembina yang begitu dramatis. Farhan adalah orang pertama yang tersadar dari keterpakuannya, lalu dengan suara lantang dan penuh rasa takzim menjawab salam tersebut: *"Wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz Salman!"*
+Bukan bunyi hentakan tumit sepatu pantofel kulit yang keras dan berirama mengancam laksana biasanya. Langkah kaki yang mendekat ke pintu Kamar Al-Farabi itu terdengar ringan, teratur, dan tidak tergesa-gesa.
 
-Jawaban salam Farhan seketika diikuti secara serentak dan kompak oleh seluruh anak kamar dengan wajah yang mulai berseri-seri gembira. Ustadz Salman tersenyum sangat lebar mendengar sambutan hangat dari murid-muridnya tersebut. Salman melangkah masuk ke dalam kamar, melepaskan sandal selopnya dengan sangat rapi di rak sandal dekat pintu, lalu melangkah ke tengah ruangan yang beralaskan karpet merah marun kusam tanpa membawa arogansi kekuasaan sedikit pun.
+Namun refleks trauma berbulan-bulan tidak mudah padam.
 
-Alih-alih berdiri berkacak pinggang di depan pintu untuk mengontrol dan mencari kesalahan santri, Ustadz Salman justru melipat jubahnya dan duduk bersila di atas karpet lantai di tengah ruangan. Tindakan sederhana sang musyrif yang memilih duduk bersila di lantai sejajar dengan anak-anak asuhnya seketika meruntuhkan tembok pemisah feodalisme asrama yang selama ini membentang kaku. Salman menatap anak-anak asuhnya dengan tatapan seorang ayah yang merindukan anak-anak kandungnya setelah perjalanan panjang.
+Danang seketika menarik tubuhnya merapat ke dinding kapur, mendekap gulingnya erat-erat dengan mata membelalak tegang. Di atas ranjang, Faisal langsung menegakkan tubuhnya, otot-otot punggungnya menegang kaku mengantisipasi bentakan.
 
-"Farhan, Danang, Faisal... Kemarilah, anak-anakku yang shalih..." tutur Ustadz Salman dengan suara yang sangat ramah seraya menepuk permukaan karpet di samping tempat duduknya. "Malam ini Ustadz ingin duduk melingkar bersama kalian semua di sini sebelum kita istirahat tidur. Ayo duduk bersama Ustadz." Gestur tangan Salman yang terbuka mengalirkan energi rasa aman psikologis yang begitu dahsyat ke seluruh sudut bilik kamar.
+Semua anak di bilik itu menunggu suara dentuman pipa besi yang biasanya merobek kesunyian pintu seng mereka.
 
-Danang yang duduk di ranjang bawah menatap Ustadz Salman dengan pandangan mata yang ragu-ragu dan diliputi kebingungan yang polos. Namun melihat senyuman sang ustadz yang begitu teduh tanpa ada rotan di sampingnya, anak yatim itu perlahan-lahan menurunkan kakinya dari kasur dan melangkah mendekati lingkaran. Salman segera menyambut kedatangan Danang dengan menggeser posisi duduknya, lalu merangkul pundak kurus anak itu dengan sangat lembut dan penuh kehangatan: "Duduklah di samping Ustadz, Danang anak shalih."
+Tetapi dentuman itu tidak pernah datang.
 
-Faisal yang berada di ranjang atas melompat turun ke lantai dengan gerakan yang tangkas, lalu melangkah menuju lingkaran karpet dengan tatapan mata yang menyelidik. Faisal memperhatikan wajah Ustadz Salman dengan seksama, mencari apakah ada kepura-puraan di balik sikap ramah sang ustadz. Namun di dalam manik mata Salman, Faisal hanya menemukan ketulusan, kerendahan hati, dan kasih sayang yang murni tanpa ada kepalsuan sedikit pun. Faisal menarik nafas panjang, lalu duduk bersila di seberang Salman dengan dada yang mulai terasa lapang.
+Dari daun pintu hijau kusam terdengar ketukan pelan sebanyak tiga kali dengan jeda yang sangat beradab: *Tok... Tok... Tok.*
 
-Seluruh anak Kamar Al-Farabi segera berkumpul merapatkan barisan, duduk melingkar mengelilingi ustadz pembina mereka di atas karpet lantai. Suasana kamar yang dahulunya dingin dan kaku laksana sel penjara mendadak bertransformasi menjadi sebuah lingkaran kekeluargaan yang hangat dan dipenuhi oleh aura ukhuwah Islamiyyah. Salman memandangi wajah-wajah polos anak-anak asuhnya satu per satu dengan pandangan mata yang perlahan-lahan mulai berkaca-kaca menahan luapan keharuan batin.
+Ketukan itu begitu tenang, seperti ketukan seorang kawan yang datang bertamu di sore hari.
 
-Di hadapan dua puluh santri belia kelas tujuh tersebut, Ustadz Salman menarik nafas panjang yang dalam, lalu menundukkan kepalanya sejenak mengumpulkan keberanian moralnya. Salman menyadari bahwa kedatangannya malam ini bukanlah untuk memeriksa kebersihan kamar atau menegakkan aturan jam malam. Kedatangannya malam ini adalah untuk menunaikan sebuah kewajiban suci taubat nasuha: yaitu meminta maaf secara ksatria kepada anak-anak yang selama ini telah menjadi korban kezaliman metodologinya di asrama.
+Anak-anak Kamar Al-Farabi saling pandang dalam kebingungan yang pekat. Farhan menahan napasnya, menatap Danang yang masih membeku memeluk guling.
 
-"Anak-anakku yang sangat kucintai karena Allah SWT..." buka Ustadz Salman dengan nada suara yang bergetar menahan tangis yang hendak membuncah di dadanya. "Malam ini, Ustadz duduk melingkar di hadapan kalian bukan sebagai seorang pembina keamanan yang hendak memeriksa kesalahan atau menjatuhkan sanksi takzir. Malam ini, Ustadz duduk di hadapan kalian sebagai seorang hamba Allah yang fakir, seorang guru yang khilaf, yang datang dengan hati yang hancur untuk memohon maaf kepada kalian semua."
+Grendel pintu seng perlahan bergeser dari luar tanpa suara derit yang kasar.
 
-Mendengar pengakuan pembuka yang begitu rendah hati dari sang musyrif kepala asrama, seluruh anak di dalam kamar terbelalak kaget dalam keheningan yang membisu. Farhan merasakan bulu kuduknya meremang oleh getaran keharuan yang luar biasa, sementara Faisal menatap ustadznya dengan tatapan mata yang tak berkedip. Belum pernah ada dalam sejarah pesantren seorang pembina senior yang begitu ditakuti bersedia merendahkan dirinya sendiri dan mengakui kesalahannya di hadapan santri-santri baru kelas tujuh.
+Pintu terbuka selebar dada, dan sosok Ustadz Salman melangkah masuk melintasi ambang pintu.
 
-"Ustadz menyadari sepenuhnya..." lanjut Salman dengan air mata bening yang mulai menetes satu per satu membasahi kedua pipinya yang tirus. "Bahwa selama berbulan-bulan kalian tinggal di pondok ini, Ustadz telah memperlakukan kalian dengan cara yang sangat keliru dan zalim. Ustadz telah membentak kalian dengan suara keras, menggedor pintu kamar kalian dengan pipa besi, dan mengayunkan rotan kuning kepada raga kalian yang suci. Ustadz mengira bahwa kekerasan itu adalah jalan mendidik kedisiplinan, padahal sesungguhnya itu adalah cerminan dari kebodohan dan kezaliman hati Ustadz sendiri."
+Ruangan seketika terasa semakin hening.
 
-Salman menyatukan kedua telapak tangannya di depan dada, membungkukkan badannya sedalam-dalamnya di hadapan lingkaran anak-anak asuhnya. "Maka malam ini, di hadapan Allah Yang Maha Menyaksikan, Ustadz memohon ridha dan keikhlasan maaf dari lubuk hati kalian yang paling dalam. Maafkanlah kezaliman tangan Ustadz, maafkanlah kasarnya lisan Ustadz, dan jangan simpan dendam di dalam hati kalian terhadap Ustadz di akhirat kelak." Suara Salman tercekat oleh isakan tangis taubat yang meruntuhkan seluruh keangkuhan dirinya sebagai seorang pendidik.
+Dua puluh pasang mata anak-anak kelas tujuh langsung tertuju pada kedua tangan sang musyrif kepala asrama. Mereka mencari rotan kuning yang biasanya diseret di lantai atau dipegang menyilang di dada.
 
-Ruangan Kamar Al-Farabi seketika tenggelam dalam gelombang keharuan spiritual yang sangat menyayat sanubari. Butiran-butiran air mata menetes di pelupuk mata Farhan, Danang, Faisal, dan seluruh santri yang duduk melingkar di atas karpet. Kata-kata permohonan maaf yang tulus dari seorang guru telah menembus dinding pertahanan batin anak-anak tersebut, menyembuhkan luka-luka trauma yang selama berminggu-minggu membeku di dalam sistem saraf mereka.
+Tangan Salman kosong.
 
-Ustadz Salman kemudian mengangkat kepalanya perlahan, menoleh menatap Danang yang duduk tepat di samping kanannya dengan mata yang sembab basah oleh air mata. "Danang, anakku yang shalih..." bisik Salman dengan suara yang sangat lembut seraya mengusap pundak anak yatim tersebut. "Bolehkah Ustadz melihat ujung ibu jari kakimu yang kemarin fajar tersabet oleh rotan kuning Ustadz? Ustadz ingin melihat lukamu, Nak."
+Kedua telapak tangannya tergantung santai di samping jubah abu-abu mudanya yang bersih. Tidak ada pipa besi penyangga sapu. Tidak ada bilah rotan yang mengancam.
 
-Danang menganggukkan kepalanya perlahan dengan air mata yang mengalir membasahi kedua pipinya yang polos. Dengan gerakan yang sangat pelan, Danang mengulurkan kaki kanannya ke hadapan Ustadz Salman. Ustadz Salman segera bergeser posisi duduknya menjadi berlutut di atas karpet tepat di depan kaki Danang, menyejajarkan dirinya dengan kaki anak asuhnya tanpa merasa risih atau merasa jatuh wibawanya sebagai seorang pembina asrama.
+Bahkan wajah Salman malam ini tampak asing bagi mereka. Garis-garis rahang yang biasanya mengeras galak tampak mengendur lembut. Di bawah temaram cahaya lampu kamar, sepasang mata musyrif muda itu memancarkan rasa lelah yang tulus dan keteduhan yang belum pernah mereka saksikan sebelumnya.
 
-Salman memegang pergelangan kaki Danang dengan kedua belah tangannya yang kekar namun digerakkan dengan kelembutan yang luar biasa laksana memegang porselen yang paling rapuh di dunia. Salman mengamati bekas bilur kemerahan di ujung ibu jari kaki Danang yang mulai mengering namun masih tampak membengkak. Dada Salman berdenyut ngilu dan perih menyadari bahwa luka fisik itu lahir dari sabetan rotan yang ia ayunkan tanpa rasa belas kasihan kemarin fajar.
+Salman tersenyum tipis—sebuah senyuman yang ragu namun murni.
 
-Salman merogoh saku jubah abu-abunya, mengeluarkan sebuah botol kaca kecil berisi minyak herbal oles penyejuk yang tadi siang diberikan oleh Dokter Arief di ruang perpustakaan. Salman membuka tutup botol tersebut, menuangkan beberapa tetes cairan herbal yang beraroma harum daun mint dan minyak zaitun ke ujung jari-jarinya. Dengan penuh kehati-hatian dan kelembutan seorang ayah kandung, Salman mengoleskan minyak herbal tersebut ke atas permukaan kulit ibu jari kaki Danang yang bengkak.
+"Assalamu'alaikum warahmatullāhi wabarakātuh," sapa Salman dengan suara bas yang rendah, empuk, dan hangat.
 
-Sepanjang jemari Salman mengusap luka di kakinya, Salman melafalkan bait-bait shalawat *Tibbil Qulub* dengan suara bas yang lirih dan sangat syahdu di telinga Danang: *"Allāhumma shalli 'alā Sayyidinā Muhammadin thibbil qulūbi wa dawā'ihā, wa 'āfiyatil abdāni wa syifā'ihā..."* Danang merasakan sensasi sejuk dan hangat menjalar dari ujung jemari kakinya, meredakan rasa ngilu yang selama dua hari ini menghantui setiap langkah kakinya saat berjalan di lorong asrama.
+Tidak ada bentakan. Tidak ada komando militer.
 
-Namun kehangatan minyak herbal itu tidak sebanding dengan kehangatan cinta kasih yang seketika membanjiri relung sanubari anak yatim piatu tersebut. Danang yang sejak usia tujuh tahun kehilangan sosok orang tua yang merawat dan mengobatinya saat terluka kini merasakan kembali kehadiran figur ayah yang begitu ia rindukan dalam hidupnya. Air mata Danang tumpah ruah laksana bendungan yang jebol, tangisan keharuan yang meluapkan seluruh kerinduan dan kepedihan batinnya selama ini.
+Ucapan salam itu menggantung di udara bilik Al-Farabi selama beberapa detik seperti embun yang menyejukkan ruangan yang pengap.
 
-Secara spontan, Danang mencondongkan tubuh kecilnya ke depan dan memeluk leher Ustadz Salman dengan sangat erat. Tubuh kecil Danang berguncang hebat di dalam pelukan ustadznya sembari menangis terisak-isak: "Ustadz Salman... Danang sudah memaafkan Ustadz... Danang tidak marah pada Ustadz... Danang sangat sayang pada Ustadz Salman..." Suara kepolosan anak yatim itu menggetarkan seluruh pilar Kamar Al-Farabi dengan keindahan cinta yang tak ternilai harganya.
+Farhan yang duduk di tepi kasurnya adalah yang pertama kali memecah keterpanaan. "Wa... wa'alaikumussalām warahmatullāhi wabarakātuh, Ustadz..."
 
-Ustadz Salman merengkuh tubuh kecil Danang ke dalam dekapannya yang kokoh, mendekap kepala anak yatim itu ke dadanya seraya mencium ubun-ubun Danang dengan air mata yang bercucuran deras di pipinya. "Terima kasih, Danang anakku yang mulia... Terima kasih atas kebaikan hatimu yang luhur..." bisik Salman dengan suara yang tercekat oleh keharuan mendalam. "Ustadz berjanji di hadapan Allah, tangan ini tidak akan pernah lagi memukulmu atau menyakitimu sampai kapan pun."
+Jawaban Farhan disusul perlahan oleh Danang dan anak-anak lainnya dengan suara yang masih diliputi keraguan.
 
-Setelah beberapa saat mendekap Danang hingga tangisan anak itu mereda, Salman melepaskan pelukannya perlahan-lahan sembari mengusap air mata di pipi Danang dengan ibu jarinya yang lembut. Salman kemudian membalikkan tubuhnya, menatap lurus ke arah Faisal yang sedang duduk bersila di seberang karpet dengan kepala tertunduk dalam-dalam. Salman melihat kedua tangan Faisal terkepal di atas pahanya, menahan gejolak emosi yang sedang berkecamuk di dalam dadanya.
+Salman melangkah masuk lebih dalam. Ia melepas sandal selopnya di dekat pintu, merapikannya berdampingan dengan deretan sandal anak-anak.
 
-"Faisal, adikku ksatria dari Madura..." panggil Salman dengan nada suara yang penuh rasa hormat dan penghargaan yang tulus. "Tataplah mata Ustadz, Faisal." Faisal mendongakkan kepalanya perlahan, menatap mata Ustadz Salman dengan mata yang telah memerah dan basah oleh genangan air mata yang hendak meledak. Faisal yang biasanya selalu memasang wajah garang dan menantang kini tampak sangat rapuh di hadapan gurunya.
+Lalu sesuatu yang tidak pernah terbayangkan oleh seluruh santri terjadi di depan mata mereka.
 
-"Kemarin siang di lapangan asrama yang terik, Ustadz telah bertindak sangat zalim dan memalukan kepadamu di hadapan kawan-kawanmu," tutur Salman dengan intonasi yang tegas mengakui kesalahannya sendiri. "Ustadz menjemurmu tanpa alas kaki dan menyabet betismu dengan rotan hanya karena Ustadz tidak sanggup mengendalikan hawa nafsu amarah Ustadz sendiri. Padahal tadi pagi di madrasah, Ustadz Burhan menceritakan kepada Ustadz betapa cerdasnya kamu belajar nahwu dan betapa mulianya tekadmu untuk maju bersama Farhan."
+Salman tidak berdiri menjulang berkacak pinggang di tengah ruangan untuk menghitung kepala santri. Musyrif kepala itu melipat jubahnya perlahan, lalu duduk bersila di atas karpet merah kusam di lantai tengah kamar.
 
-Salman menatap lurus ke dalam manik mata Faisal dengan tatapan mata seorang ksatria yang menghormati ksatria lainnya. "Kamu memiliki jiwa yang sangat tangguh, Faisal. Ketegaranmu menatap matahari kemarin bukanlah tanda kejahatan, melainkan tanda bahwa kamu memiliki jiwa pemimpin yang berani membela martabatmu. Ustadz yang telah keliru memperlakukanmu laksana musuh. Maukah engkau membuka pintu maafmu yang mulia bagi Ustadzmu ini, Faisal?"
+Ia duduk sejajar dengan mereka.
 
-Mendengar kata-kata pengakuan yang begitu tulus dan memuliakan martabat dirinya, seluruh pertahanan keras di dalam hati Faisal seketika hancur berkeping-keping. Selama bertahun-tahun sejak masa kecilnya di kampung halaman, Faisal selalu diperlakukan dengan kekerasan, pukulan, dan cacian yang memaksanya membangun topeng kepribadian yang kasar dan kebal rasa sakit agar tidak ditindas oleh orang lain. Namun malam ini, kehangatan empati dan penghormatan tulus dari Ustadz Salman berhasil menembus benteng baja di dalam jiwanya.
+"Sudah pada mengantuk?" tanya Salman lembut, memandang anak-anak satu per satu.
 
-Setetes air mata panas yang selama bertahun-tahun tidak pernah keluar saat Faisal dipukul rotan atau dihukum fisik kini mengalir bening membasahi pipinya yang legam. Faisal menundukkan kepalanya dalam-dalam, menumpahkan tangisan penyesalan yang selama ini terkunci rapat di dalam lubuk sanubarinya. Faisal menyeka air matanya dengan lengan baju koko putihnya yang lusuh, menarik nafas panjang yang bergetar hebat di dalam dadanya.
+Anak-anak itu masih terpaku di ranjang masing-masing. Faisal dari atas ranjang menatap Salman dengan pandangan menyelidik, mencoba mencari jebakan di balik kelembutan sang pembina.
 
-"Nggih, Ustadz Salman..." bisik Faisal dengan suara serak yang bergetar penuh keharuan yang mendalam. "Faisal sudah memaafkan Ustadz dari lubuk hati Faisal... Faisal juga mohon maaf yang sebesar-besarnya karena selama ini sering membantah aturan pondok dan bersikap kasar kepada para ustadz dan adik-adik kelas... Faisal berjanji akan berubah menjadi santri yang beradab dan membanggakan orang tua Faisal di Madura..."
+"Kemarilah sebentar," ajak Salman seraya menepuk permukaan karpet di samping lututnya. "Ustadz tidak sedang patroli keamanan. Ustadz cuma ingin duduk bersama kalian sebelum tidur."
 
-Ustadz Salman tersenyum sangat teduh mendengar ikrar ketulusan dari lisan Faisal. Salman mengulurkan tangan kanannya melintasi karpet, meremas erat telapak tangan Faisal dengan genggaman persaudaraan yang kokoh dan mantap. Dua jiwa yang dahulunya saling berbenturan dalam api permusuhan dan dendam di lapangan terik kemarin siang kini telah berpadu erat dalam ikatan ukhuwah Islamiyyah yang suci dan dipenuhi oleh ampunan Allah SWT.
+Melihat tatapan Salman yang teduh tanpa kepura-puraan, Farhan bangkit dari kasurnya dan melangkah pelan menuju lingkaran karpet. Ia duduk bersila dua jengkal dari lutut Salman.
 
-Di tengah suasana keharuan yang memenuhi bilik Kamar Al-Farabi tersebut, pintu kamar tiba-tiba terbuka perlahan dengan bunyi deritan engsel yang pelan. Sosok Ilham—santri kelas tujuh bertubuh gemuk dengan pipi bulat yang menggemaskan—melangkah masuk ke dalam kamar dengan kedua tangannya memegang sebuah teko enamel besar bermotif loreng hijau yang mengepulkan uap panas yang sangat harum. Di belakang Ilham, Arya berjalan membawa sebuah nampan plastik berisi dua puluh cangkir kayu jati kecil yang bersih.
+Danang masih ragu di atas kasur bawah. Matanya menatap Salman dengan binar cemas seorang anak yatim yang terbiasa bersiap menerima pukulan.
 
-Wajah bulat Ilham memancarkan senyuman yang sangat ceria dan ramah saat melihat pemandangan mengharukan di dalam kamarnya. "Assalamu'alaikum kawan-kawan dan Ustadz Salman!" sapa Ilham dengan suara riang yang seketika mencairkan suasana emosional kamar menjadi penuh kehangatan. "Pakde Darmo di dapur umum baru saja menyeduh teh serai jahe merah hangat dengan gula aren asli untuk kita semua di Kamar Al-Farabi. Mari kita minum bersama agar badan kita tetap segar dan hangat malam ini!"
+Salman menoleh ke arah Danang. Senyumannya melebar hangat.
 
-Aroma harum rempah serai, jahe merah, cengkih, dan kayu manis yang mengepul dari moncong teko enamel seketika menyerbak memenuhi seluruh ruangan kamar yang dingin. Udara asrama yang dahulunya terasa pengap dan mencekam kini berganti menjadi semerbak keharuman terapi aromatik alami yang menenangkan saraf-saraf kepala setiap anak. Anak-anak Kamar Al-Farabi serentak menyambut kedatangan Ilham dengan senyuman lebar dan tawa kecil yang penuh rasa syukur.
+"Danang," panggil Salman dengan nada selembut seorang paman menyapa keponakannya. "Sini, Le. Duduk di sebelah Ustadz."
 
-Ilham dan Arya meletakkan nampan kayu di tengah lingkaran karpet di samping Ustadz Salman. Dengan gerakan yang sangat cekatan dan santun, Ilham menuangkan cairan teh herbal berwarna cokelat kemerahan yang mengepul panas ke dalam cangkir-cangkir kayu jati di hadapan para santri dan ustadz mereka. Ustadz Salman menerima cangkir kayu pertama dari tangan Ilham seraya menepuk bahu anak gemuk itu dengan senyuman penuh apresiasi: "Matur nuwun sanget, Ilham... Kebaikan hatimu malam ini sangat menyejukkan hati kami semua."
+Danang menelan ludah. Perlahan-lahan ia menurunkan kakinya yang masih memar, lalu melangkah ragu menghampiri lingkaran karpet.
 
-Seluruh anak Kamar Al-Farabi bersama Ustadz Salman mengangkat cangkir masing-masing, membaca basmalah bersama-sama, lalu menyeruput teh herbal serai jahe tersebut secara perlahan-lahan. Rasa manis gula aren yang legit berpadu dengan sensasi hangat jahe merah mengalir menuruni kerongkongan mereka, menghadirkan kenyamanan fisik dan kehangatan biologis yang meredakan seluruh sisa-sisa ketegangan otot di raga anak-anak penuntut ilmu tersebut.
+Begitu Danang duduk di sampingnya, Salman tidak memberinya tugas atau sanksi. Salman mengangkat tangan kanannya, lalu dengan sangat hati-hati meletakkan telapak tangannya di atas pundak kurus Danang.
 
-Sembari menikmati tegukan teh hangat di atas karpet lantai, suasana di bilik Kamar Al-Farabi dipenuhi oleh obrolan santai, canda tawa santun, dan cerita-cerita riang tentang pengalaman belajar di kelas madrasah siang tadi. Farhan menceritakan bagaimana Faisal dengan cepat memahami rumus kaidah tanwin dalam menentukan kata isim, disambut tepukan tangan bangga dari Ustadz Salman dan kawan-kawan sekamar. Faisal tersipu malu namun memancarkan kebahagiaan batin yang belum pernah ia rasakan seumur hidupnya.
+Sentuhan itu hangat. Tidak ada cengkeraman keras, hanya usapan lembut yang menenangkan.
 
-Secara neurobiologis dan sains perkembangan anak, sebuah mukjizat restorasi saraf sedang berlangsung secara nyata di dalam kepala anak-anak Kamar Al-Farabi malam itu. Kehangatan relasi sosial yang penuh rasa hormat, permohonan maaf yang tulus dari sang pendidik, dan hilangnya ancaman sabetan rotan seketika membanjiri sirkuit persarafan anak-anak dengan hormon **Oksitosin** dan **Endorfin** dalam jumlah masif. Amigdala Farhan, Danang, dan Faisal yang selama berbulan-bulan menyala merah dalam mode siaga darurat kini telah padam seutuhnya.
+Danang tersentak kecil di awal, namun detik berikutnya bahunya yang tegang perlahan-lahan mengendur. Rongga dadanya terasa hangat, seolah ada beban beku yang mencair di balik tulang rusuknya.
 
-Saraf kranial kesepuluh—**Saraf Vagus (*The Vagus Nerve*)**—pada tubuh anak-anak teraktivasi optimal melalui sistem keterlibatan sosial yang aman (*Social Engagement System*). Detak jantung mereka melambat menuju irama yang sangat stabil dan rileks, tekanan darah mereka menurun normal, dan otot-otot leher mereka yang dahulunya kaku kini mengendur nyaman. Gelombang listrik di otak mereka bertransisi secara sempurna dari frekuensi Beta Tinggi yang panik menuju liukan gelombang **Alfa (8–12 Hertz)** yang anggun dan harmonis laksana oase thuma'ninah yang hakiki.
+Faisal menuruni tangga ranjang atas dan ikut duduk bersila di seberang Salman bersama anak-anak lainnya. Kini seluruh penghuni kamar duduk melingkar mengelilingi ustadz mereka di atas karpet lantai.
 
-Jarum jam dinding di sudut kamar tepat menunjukkan pukul 21.45 malam, menandai waktu persiapan tidur telah tiba. Ustadz Salman meletakkan cangkir kayunya yang telah kosong di atas nampan, lalu tersenyum menatap seluruh anak asuhnya yang tampak sangat rileks dan damai. "Anak-anakku yang shalih... Waktu istirahat tidur malam telah tiba," tutur Salman dengan nada suara bas yang lembut dan menenangkan. "Mari kita rapikan cangkir-cangkir ini, lalu kita duduk menghadap kiblat sejenak untuk membaca wirid penutup hari bersama-sama."
+Salman menatap lingkaran wajah-wajah belia di hadapannya. Anak-anak usia dua belas tahun yang masih sangat polos, jauh dari rumah, menanggung rindu dan kelelahan.
 
-Dengan penuh kesadaran adab mandiri tanpa perlu dibentak atau diperintah dengan ancaman, anak-anak Kamar Al-Farabi serentak bangkit merapikan cangkir-cangkir kayu ke atas nampan, lalu kembali duduk bersila dengan tertib menghadap ke arah kiblat. Ustadz Salman memimpin pembacaan doa *Kaffaratul Majlis*, surat Al-Mulk, ayat kursi, dan surat tiga Qul (*Al-Ikhlash, Al-Falaq, An-Nas*) dengan lantunan tartil yang sangat merdu, syahdu, dan menggetarkan relung sanubari.
+Tenggorokan Salman mendadak tercekat. Matanya mulai berkaca-kaca.
 
-Suara dengung lantunan ayat-ayat suci Al-Qur'an mengalun harmonis memecah keheningan malam di lantai dua asrama putra Pesantren Darul Adab. Anak-anak melafalkan setiap ayat dengan hati yang khusyuk dan pikiran yang jernih, merasakan betapa agungnya perlindungan Allah SWT yang menaungi kamar mereka. Rasa takut, rasa cemas, dan rasa terasing yang selama ini menghantui tidur mereka laksana kabut hitam kini telah lenyap tersapu oleh cahaya berkah kalam Ilahi.
+"Anak-anakku yang dicintai Allah..." Salman memulai dengan suara yang bergetar menahan luapan emosi di dadanya. "Malam ini, Ustadz datang ke kamar kalian bukan untuk memeriksa kerapian lemari atau melihat sandal kalian."
 
-Seusai pembacaan doa dan mengusapkan kedua telapak tangan ke seluruh wajah dan tubuh sesuai sunnah nabawiyyah, anak-anak Kamar Al-Farabi bangkit berdiri dengan tertib. Mereka menaiki ranjang susun masing-masing dengan langkah yang ringan dan hati yang dipenuhi rasa syukur yang mendalam. Danang merebahkan tubuhnya di atas kasur busa ranjang bawah, meluruskan kakinya yang telah diobati dengan rasa nyaman yang belum pernah ia rasakan sebelumnya.
+Salman menundukkan kepalanya sejenak, mengumpulkan seluruh keberanian nuraninya.
 
-Farhan merebahkan kepalanya di atas bantal kapuknya, menarik kain sarung kotak-kotak birunya hingga menutupi dada, lalu menoleh memandang ke arah Ustadz Salman yang sedang melangkah berkeliling kamar. Tidak ada lagi debar jantung panik di rongga dada Farhan; yang bersemayam di dalam hatinya malam ini hanyalah rasa aman, rasa cinta, dan keyakinan fitrah yang kokoh bahwa dirinya berada di tempat yang tepat untuk menuntut ilmu agama Allah SWT.
+"Ustadz datang malam ini untuk meminta maaf kepada kalian semua."
 
-Ustadz Salman melangkah menghampiri ranjang anak-anak asuhnya satu per satu dengan langkah yang santun dan penuh perhatian seorang murabbi sejati. Salman membetulkan lipatan selimut anak-anak yang belum rapi, menepuk pundak mereka dengan lembut, dan membisikkan doa perlindungan nabawiyyah tepat di kepala mereka: *"Bismika Allāhumma ahyā wa amūt... Tidurlah dalam naungan kasih sayang dan penjagaan para malaikat Allah, anak-anakku para ksatria peradaban."*
+Kata-kata itu jatuh ke tengah lingkaran kamar laksana tetesan air pertama di padang pasir yang retak-retak.
 
-Ketika Salman sampai di samping ranjang Danang dan Farhan, pemuda itu mengelus kening kedua anak asuhnya tersebut dengan telapak tangannya yang hangat dan lembut. Danang menatap wajah ustadznya seraya tersenyum manis dengan kelopak mata yang mulai memberat menahan kantuk alami yang menenteramkan. "Selamat tidur, Ustadz Salman... Terima kasih atas teh hangat dan obatnya ya, Ustadz," bisik Danang dengan suara lirih yang sarat rasa terima kasih.
+Faisal terperangah. Farhan memandang ustadznya dengan mata membelalak tak percaya.
 
-"Sama-sama, Danang anakku yang shalih... Tidurlah dengan tenang dan bermimpilah yang indah," jawab Salman seraya tersenyum teduh dan mengecup lembut kening anak yatim tersebut dengan kasih sayang seorang ayah kandung. Salman kemudian menepuk pundak Farhan seraya mendoakan: "Selamat istirahat, Farhan... Esok fajar kita akan bangun bersama menyambut cahaya ridha Allah di masjid." Farhan mengangguk takzim dengan senyuman damai yang merekah di wajahnya.
+Seorang musyrif kepala asrama—penguasa hukum yang ditakuti seluruh santri putra—sedang menundukkan kepalanya meminta maaf di hadapan anak-anak kelas tujuh.
 
-Salman melangkah perlahan menuju saklar lampu di samping kusen pintu kamar. Dengan gerakan yang sangat hati-hati, Salman memadamkan lampu neon putih panjang di tengah plafon yang sinarnya terlalu menyilaukan mata. Sebagai gantinya, Salman menyalakan lampu tidur temaram berwarna kuning hangat berdaya lima watt yang terpasang di sudut dinding atas. Cahaya kuning temaram itu membiaskan suasana keemasan yang sangat teduh dan menenangkan, memberikan sinyal optik alami ke kelenjar pineal anak-anak untuk melepaskan hormon melatonin pemanggil tidur lelap.
+"Ustadz minta maaf atas bentakan-bentakan Ustadz selama ini," lanjut Salman, suaranya parau oleh rasa sesal yang tulus. "Ustadz minta maaf atas gedoran pintu yang mengejutkan tidur kalian. Ustadz minta maaf atas rotan yang pernah melukai kaki kalian."
 
-Salman melangkah keluar kamar seraya menutup daun pintu seng secara sangat perlahan dan halus agar tidak menimbulkan bunyi gaduh yang mengejutkan anak-anak: *Klik.* Grendel pintu terkunci lembut dari luar. Di lorong koridor lantai dua yang dingin, Salman berdiri sejenak memejamkan mata, memanjatkan puji dan syukur yang tak terhingga kepada Allah SWT atas karunia hidayah dan keindahan ukhuwah yang baru saja ia rasakan di dalam Kamar Al-Farabi.
+Salman menoleh menatap Danang yang duduk di sampingnya. Mata sang musyrif basah oleh air mata yang mulai bergulir di pipinya.
 
-Di dalam keheningan bilik Kamar Al-Farabi malam itu, suara desau angin pegunungan di luar jendela berpadu harmonis dengan deru nafas anak-anak yang teratur dan tenang dalam tidur lelap mereka. Tidak ada lagi igauan ketakutan, tidak ada lagi isak tangis di balik selimut, dan tidak ada lagi ketegangan otot yang menyiksa raga para penuntut ilmu. Di bawah naungan cahaya tidur kuning temaram, tanah hati anak-anak suci itu telah mekar subur disirami oleh air cinta kasih dan adab kenabian; oase thuma'ninah telah resmi bersemi indah di bumi Pesantren Darul Adab.
+"Danang... Ustadz minta maaf karena kemarin subuh telah memukul kakimu. Ustadz yang salah, Le. Ustadz yang bodoh dan kelelahan, lalu melampiaskannya kepadamu."
+
+Danang menatap wajah ustadznya yang berlinang air mata. Bibir anak yatim itu bergetar pelan.
+
+Di sudut matanya, bulir-bulir air mata yang sejak kemarin ditahannya akhirnya tumpah membasahi pipinya yang cokelat. Namun kali ini bukan air mata ketakutan atau rasa sakit fisik; melainkan air mata kelegaan seorang anak yang merasa lukanya akhirnya dilihat dan diakui.
+
+"Mboten napa-napa, Ustadz..." bisik Danang dengan suara serak. "Danang sampun nyepura..."
+
+Salman menarik tubuh kurus Danang ke dalam dekapannya. Ia merengkuh pundak anak yatim itu dengan kehangatan seorang pelindung sejati. Danang membenamkan wajahnya di dada jubah Salman, menangis terisak tanpa ada rasa takut lagi.
+
+Di sekeliling karpet, Farhan dan Faisal menatap pemandangan itu dengan dada yang bergetar haru. Faisal menundukkan wajahnya, menyembunyikan genangan air mata yang mulai memenuhi pelupuk matanya.
+
+Benteng kecurigaan dan dendam yang sempat mengkristal di hati anak-anak Kamar Al-Farabi runtuh tak bersisa malam itu.
+
+Rasa aman yang hakiki telah lahir di bilik mereka.
+
+Salman melepas pelukannya perlahan, mengusap air mata di pipi Danang dengan jempolnya, lalu menatap seluruh santri di lingkaran itu dengan senyuman yang bercahaya.
+
+"Mulai malam ini, anak-anakku, tidak akan ada lagi pipa besi yang menggedor pintu kalian," ikrar Salman dengan tegas namun penuh cinta. "Tidak akan ada lagi rotan yang masuk ke kamar ini. Kita akan belajar bersama, sholat bersama, dan saling menjaga laksana saudara kandung."
+
+Salman mengulurkan kedua tangannya ke tengah lingkaran.
+
+"Sekarang, mari kita tutup malam ini dengan membaca surat Al-Mulk dan doa tidur bersama-sama. Bacalah dengan thuma'ninah... tenang, jangan tergesa-gesa."
+
+Suara lantunan ayat suci Al-Qur'an mengalun pelan dari bilik Kamar Al-Farabi, memecah keheningan malam pesantren dengan nada yang syahdu dan damai.
+
+Malam itu, untuk pertama kalinya sejak mondok di Darul Adab, Farhan merebahkan kepalanya di atas bantal kapuknya tanpa rasa cemas di dada.
+
+Di ranjang sebelah, Danang tertidur lelap dengan napas yang teratur dan raut wajah yang tenang berseri.
+
+Dan di luar jendela kamar, angin malam bertiup sepoi-sepoi membawa kedamaian fajar baru yang akan segera menyapa bumi peradaban.
