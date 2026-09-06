@@ -11,7 +11,9 @@ Pertanyaan ini membawa kita dari gambaran tentang manusia kepada makna kehidupan
 
 Kehidupan manusia tidak dipahami hanya sebagai rangkaian aktivitas menuju keberhasilan material.
 
-Manusia hidup sebagai makhluk Allah, menerima amanah, memiliki pilihan dan ikhtiar, serta memikul tanggung jawab moral. Karena itu kemampuan tidak berdiri sendiri. Selalu ada pertanyaan tentang arah penggunaannya.
+Manusia hidup sebagai makhluk Allah, menerima amanah, memiliki pilihan dan ikhtiar, serta memikul tanggung jawab moral. **Moral** di sini berkaitan dengan pertimbangan tentang benar-salah dan baik-buruknya tindakan.
+
+Karena itu kemampuan tidak berdiri sendiri. Selalu ada pertanyaan tentang arah penggunaannya.
 
 > **Apa yang mampu dilakukan seseorang?**
 >
@@ -33,11 +35,11 @@ Pandangan ini membuat pendidikan harus menghubungkan **kemampuan dengan arah pen
 
 Secara konseptual, TUMBUH perlu menjaga hubungan antara:
 
-- **kapasitas** — apa yang diketahui, dipahami, dapat dilakukan, dan dapat dikembangkan;
-- **orientasi nilai** — ke mana kemampuan itu diarahkan; dan
-- **tanggung jawab** — bagaimana seseorang menjalankan amanah dan mempertanggungjawabkan tindakannya.
+- **kapasitas**, yaitu kemampuan yang diketahui, dipahami, dapat dilakukan, dan dapat dikembangkan;
+- **orientasi nilai**, yaitu arah nilai yang membimbing penggunaan kemampuan; dan
+- **tanggung jawab**, yaitu kesediaan menjalankan amanah, menghadapi konsekuensi, dan mempertanggungjawabkan tindakan.
 
-Hubungan ini belum berarti bahwa TUMBUH sudah memiliki tiga konstruk atau tiga skor. Perincian formalnya baru dilakukan ketika masuk ke **Core Model**.
+Hubungan ini belum berarti bahwa TUMBUH sudah memiliki tiga konstruk atau tiga skor. **Konstruk** adalah konsep yang dirumuskan cukup jelas untuk menjadi bagian dari model dan, bila diperlukan, dapat diteliti atau diukur. Perincian formalnya baru dilakukan ketika masuk ke **Core Model**.
 
 ## Bagaimana pandangan ini mengubah pendidikan?
 
