@@ -3,59 +3,46 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Tidak semua yang nyata dapat diketahui dengan cara yang sama. Ini penting bagi TUMBUH karena sistem pendidikan bekerja sekaligus dengan hal-hal yang dapat diamati dan dengan orientasi keagamaan yang tidak seluruhnya berada dalam jangkauan pengukuran empiris.
+Tidak semua yang nyata dapat diketahui dengan cara yang sama. Bagi TUMBUH, ini bukan persoalan membuat dua dunia yang saling bertentangan, melainkan memahami bahwa **jenis pertanyaan menentukan cara kita mencari pengetahuan tentangnya**.
 
-## Dua ranah yang perlu dibedakan
+## Yang dapat diamati
 
-Sebagian realitas ciptaan dapat diakses melalui pengalaman, observasi, pengukuran, dokumentasi, dan penyelidikan ilmiah yang sesuai.
+Sebagian realitas ciptaan dapat kita dekati melalui pengalaman, observasi, pengukuran, dokumentasi, dan penyelidikan ilmiah yang sesuai.
 
-Perkara gaib memiliki kedudukan berbeda. Dalam worldview Islam, perkara tersebut diketahui melalui wahyu yang sahih dan tidak ditetapkan hanya melalui indera atau instrumen empiris biasa.
+Pendidikan banyak bekerja di wilayah ini. Perilaku, interaksi sosial, lingkungan belajar, kondisi fisik, proses pembelajaran, perubahan perilaku, dan outcome tertentu dapat menjadi objek penyelidikan.
 
-Pembedaan ini bukan berarti keduanya tidak berhubungan. Maksudnya adalah **jenis pertanyaan perlu dikenali sebelum menentukan cara mengetahui dan evidence yang dibutuhkan.**
+Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Pengukuran tetap bergantung pada kualitas definisi, metode, data, dan penalarannya.
 
-## Ketika yang teramati menjadi objek pendidikan
+## Yang tidak ditangkap oleh indera
 
-Banyak hal dalam pendidikan memang dapat dipelajari secara empiris: perilaku, interaksi sosial, lingkungan, proses pembelajaran, kondisi fisik, organisasi, perubahan perilaku, dan berbagai outcome pendidikan.
+Dalam worldview Islam, perkara gaib memiliki kedudukan berbeda. Ia tidak ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih.
 
-Tetapi dapat diamati bukan berarti otomatis benar. Kualitas suatu klaim tetap bergantung pada cara pengamatan, pengukuran, analisis, dan evidence yang digunakan.
+Karena itu TUMBUH tidak perlu memaksa perkara gaib menjadi angka hanya agar dapat masuk ke sistem pengukuran.
 
-## Ketika yang gaib tidak dipaksa menjadi angka
+Sebaliknya, sesuatu yang belum dapat dijelaskan secara empiris juga tidak otomatis boleh disebut perkara gaib. Ketidaktahuan kita bukan bukti dengan sendirinya.
 
-TUMBUH tidak mengubah perkara gaib menjadi variabel empiris hanya agar semuanya dapat dimasukkan ke dalam sistem pengukuran.
+Pembedaan sederhana ini penting agar TUMBUH tidak jatuh ke salah satu dari dua sisi: menganggap hanya yang terukur yang nyata, atau memakai klaim keagamaan untuk menggantikan evidence ketika pertanyaannya memang empiris.
 
-Sebaliknya, pengalaman subjektif atau kejadian yang belum dapat dijelaskan juga tidak otomatis menjadi bukti perkara gaib.
+## Ketika pertanyaan berubah, cara mengetahuinya juga berubah
 
-Dengan demikian, TUMBUH menjaga dua disiplin sekaligus: **menghormati batas metode empiris dan tidak melampaui batas evidence ketika berbicara tentang dunia yang teramati.**
+Ada perbedaan antara bertanya **“apa yang terjadi?”**, **“apa yang seharusnya dilakukan?”**, dan **“apa yang termasuk perkara gaib?”**.
 
-## Empat jenis pertanyaan
+Pertanyaan pertama membutuhkan penyelidikan terhadap kenyataan empiris. Pertanyaan kedua membutuhkan landasan normatif dan penalaran yang sesuai. Pertanyaan ketiga berada pada wilayah yang ditentukan oleh wahyu yang sahih.
 
-| Ketika kita bertanya... | Maka kita membutuhkan... |
-|---|---|
-| Apa yang terjadi secara empiris? | Observasi dan evidence empiris yang sesuai |
-| Apa yang seharusnya dilakukan? | Landasan normatif dan penalaran yang sesuai |
-| Apa yang termasuk perkara gaib? | Wahyu yang sahih |
-| Apakah suatu intervensi efektif? | Evidence dan evaluasi empiris |
+Lalu ada pertanyaan seperti **“apakah program ini efektif?”**. Pertanyaan semacam ini tidak selesai dengan keyakinan bahwa program tersebut baik. Ia membutuhkan evidence dan evaluasi.
 
-Cara memperoleh, menilai, menguji, dan mengintegrasikan pengetahuan dibahas lebih lanjut dalam `01_FOUNDATION/02 Epistemology`.
+Cara memperoleh, menilai, menguji, dan mengintegrasikan pengetahuan akan dibahas lebih jauh dalam **Epistemology**. Worldview di sini hanya menetapkan batas agar kita tidak salah memperlakukan jenis realitas dan jenis pertanyaan.
 
-## Apa artinya bagi pendidikan?
+## Lalu apa akibatnya bagi pendidikan?
 
-Pendidikan TUMBUH boleh menilai perilaku, kemampuan, performa, atau kondisi belajar ketika memang relevan dan dapat didefinisikan dengan baik.
+Pendidikan TUMBUH boleh menilai perilaku, kemampuan, performa, dan kondisi belajar ketika hal tersebut relevan dan dapat didefinisikan dengan baik.
 
-Namun tujuan pendidikan tidak otomatis menjadi identik dengan apa yang mudah dihitung. Orientasi spiritual dan moral tetap berada dalam worldview Islam.
+Tetapi apa yang mudah diukur tidak otomatis menjadi seluruh tujuan pendidikan. Nilai, amanah, orientasi moral, dan hubungan manusia dengan Allah tidak boleh dianggap hilang hanya karena tidak semuanya dapat direduksi menjadi skor.
 
-Ketika suatu aspek hendak dijadikan konstruk yang diukur, TUMBUH perlu berpindah dari bahasa worldview ke bahasa model dan assessment: definisi konstruk, indikator, instrumen, evidence, dan validasi.
+Sebaliknya, ketika TUMBUH ingin mengatakan bahwa suatu intervensi memperbaiki perilaku atau meningkatkan outcome tertentu, bahasa worldview saja tidak cukup. Kita harus berpindah ke bahasa **konstruk, evidence, assessment, dan research**.
 
-## Batas pembahasan
+Dengan batas ini, TUMBUH dapat mempertahankan worldview Islam tanpa kehilangan disiplin ketika berhadapan dengan kenyataan yang dapat diteliti.
 
-Dokumen ini tidak menyusun seluruh doktrin alam gaib dan tidak menggantikan epistemologi atau research.
+Dari sini pembahasan bergerak kembali kepada manusia: **siapa manusia yang hidup sekaligus dalam realitas yang teramati dan dalam orientasi kehidupan yang melampaui apa yang dapat ditangkap indera?**
 
-Ia juga tidak memberi legitimasi pada klaim empiris tanpa evidence. Sebaliknya, keterbatasan pengukuran empiris tidak boleh dipakai sebagai bukti bahwa sesuatu pasti gaib.
-
-## Ke mana pembahasan bergerak?
-
-Pembedaan ini menjadi pagar bagi pengembangan **Core Model, Assessment, Sources & Evidence, dan Research**. Dengan pagar tersebut, TUMBUH dapat menjaga worldview tanpa mengorbankan disiplin keilmuan.
-
-**Status keilmuan:** posisi normatif-konseptual worldview; klaim empiris memperoleh statusnya melalui evidence dan validasi tersendiri.
-
-**Lineage:** rekonstruksi canonical v2.0.0.
+Sumber normatif dan evidence yang menopang pembahasan ini ditelusurkan pada layer `08_SOURCES_AND_EVIDENCE`, sedangkan pertanyaan epistemiknya menjadi bagian `01_FOUNDATION/02 Epistemology`.
