@@ -9,7 +9,7 @@ Kemampuan yang tinggi belum tentu berarti penggunaannya baik. Dari sini muncul p
 
 Dalam worldview TUMBUH, sesuatu tidak menjadi baik hanya karena efisien, populer, disukai, menghasilkan skor tinggi, atau menguntungkan institusi.
 
-Kebaikan memiliki dasar normatif. Karena TUMBUH berangkat dari worldview Islam, orientasi nilai perlu selaras dengan petunjuk Allah dan tidak dibangun semata-mata dari preferensi manusia atau tekanan keadaan.
+Kebaikan memiliki dasar **normatif**, yaitu berkaitan dengan apa yang dinilai benar, baik, layak, atau seharusnya. Karena TUMBUH berangkat dari worldview Islam, orientasi nilai perlu selaras dengan petunjuk Allah dan tidak dibangun semata-mata dari preferensi manusia atau tekanan keadaan.
 
 Ini juga berarti TUMBUH perlu membedakan dua pertanyaan yang sering tercampur: **“apakah cara ini efektif?”** dan **“apakah cara ini benar dan layak?”**
 
@@ -25,11 +25,9 @@ Ini bukan berarti ketiganya harus langsung menjadi tiga konstruk atau tiga skor.
 
 ## Amanah
 
-Amanah bukan sekadar melakukan apa yang diperintahkan.
+**Amanah** adalah tanggung jawab yang melekat pada kepercayaan, peran, kemampuan, kewenangan, atau kesempatan yang diterima seseorang.
 
-Amanah berkaitan dengan kepercayaan dan tanggung jawab yang melekat pada peran, kemampuan, kewenangan, dan kesempatan yang diterima seseorang.
-
-Karena itu amanah selalu mengandung pertanyaan tentang **apa yang dipercayakan, bagaimana menjaganya, bagaimana menggunakannya, dan kepada siapa tindakan tersebut dipertanggungjawabkan**.
+Amanah bukan sekadar melakukan apa yang diperintahkan. Ia berkaitan dengan apa yang dipercayakan, bagaimana menjaganya, bagaimana menggunakannya, dan kepada siapa tindakan tersebut dipertanggungjawabkan.
 
 Dalam pendidikan, amanah berlaku pada peserta didik maupun orang dewasa yang mendampingi mereka. Pendidik memiliki amanah mendidik. Musyrif memiliki amanah membina. Pimpinan memiliki amanah menggunakan kewenangan. Institusi memiliki amanah menjaga manusia yang berada di dalamnya.
 
