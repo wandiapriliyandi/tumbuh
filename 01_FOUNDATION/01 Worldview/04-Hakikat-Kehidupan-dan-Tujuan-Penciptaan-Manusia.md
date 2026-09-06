@@ -1,54 +1,100 @@
 # 04 — Hakikat Kehidupan dan Tujuan Penciptaan Manusia
 
-**Status:** DESIGNED — Foundation baseline v2.0.0  
-**Epistemic class:** NORMATIVE / CONCEPTUAL  
+**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
+**Classification:** FOUNDATION / WORLDVIEW / NORMATIVE-CONCEPTUAL  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-## Tujuan
+## 1. Purpose
 
-Menetapkan orientasi TUMBUH mengenai kehidupan manusia dan tujuan penciptaannya agar pendidikan tidak kehilangan arah ketika diterjemahkan menjadi tujuan lulusan, kapasitas, pengalaman belajar, dan pembinaan.
+Dokumen ini menetapkan orientasi dasar TUMBUH mengenai kehidupan manusia dan tujuan penciptaannya. Orientasi tersebut menjadi dasar agar pendidikan tidak kehilangan arah ketika diterjemahkan menjadi graduate profile, capacity architecture, progression, assessment, intervention, implementation, dan programs.
 
-## Posisi Kanonik
+## 2. Core Position
 
-Kehidupan manusia dipahami bukan sebagai rangkaian aktivitas yang hanya berakhir pada pencapaian duniawi. Manusia hidup dalam hubungan dengan Allah dan memikul amanah serta tanggung jawab moral.
+Kehidupan manusia tidak dipahami hanya sebagai rangkaian aktivitas menuju keberhasilan material. Manusia hidup sebagai makhluk yang memiliki hubungan dengan Allah, menerima amanah, memiliki pilihan dan ikhtiar, serta memikul tanggung jawab moral.
 
-Karena itu, pendidikan tidak hanya bertanya **apa yang mampu dilakukan seseorang**, tetapi juga **untuk apa kemampuan tersebut digunakan dan bagaimana penggunaannya dipertanggungjawabkan**.
+Karena itu, pertanyaan pendidikan bukan hanya:
 
-## Implikasi terhadap Tujuan Pendidikan
+> **Apa yang mampu dilakukan seseorang?**
 
-Tujuan pendidikan TUMBUH perlu menghubungkan sekurang-kurangnya tiga hal:
+tetapi juga:
 
-1. **Kapasitas** — apa yang mampu diketahui, dipahami, dilakukan, dan dikembangkan seseorang.
-2. **Orientasi nilai** — arah penggunaan kapasitas berdasarkan nilai yang benar.
-3. **Tanggung jawab** — kesediaan menggunakan kemampuan dan mengambil konsekuensi secara bertanggung jawab.
+> **Untuk apa kemampuan itu digunakan, dengan cara apa, dan bagaimana penggunaannya dipertanggungjawabkan?**
 
-Dengan demikian, keberhasilan pendidikan tidak direduksi menjadi nilai akademik, kepatuhan, atau performa sesaat.
+## 3. Dunia dan Akhirat
 
-## Dunia dan Akhirat
+TUMBUH tidak membangun pertentangan sederhana antara kehidupan dunia dan orientasi akhirat. Belajar, bekerja, memimpin, melayani, menjaga diri, membangun keluarga, dan berkontribusi kepada masyarakat dapat dipahami sebagai bagian dari amanah ketika dijalankan dalam batas dan orientasi yang benar.
 
-Orientasi kehidupan dunia tidak dipisahkan secara mutlak dari orientasi akhirat. Aktivitas belajar, bekerja, memimpin, melayani, dan membangun masyarakat dapat menjadi bagian dari amanah manusia ketika dijalankan sesuai nilai dan batas yang benar.
+Dengan demikian, prestasi duniawi tidak otomatis diposisikan sebagai lawan kesalehan, dan kesalehan tidak dipahami sebagai alasan untuk mengabaikan kemampuan, tanggung jawab, atau kualitas kerja.
 
-Implikasinya, TUMBUH tidak membangun pertentangan sederhana antara **prestasi duniawi** dan **kesalehan**. Yang menjadi perhatian adalah arah, cara, dan tanggung jawab dalam menggunakan kemampuan.
+## 4. Tiga Dimensi Tujuan Pendidikan
 
-## Implikasi terhadap Graduate Profile
+Secara konseptual, tujuan pendidikan TUMBUH perlu menghubungkan setidaknya tiga dimensi:
 
-Graduate Profile perlu menggambarkan manusia yang bukan hanya memiliki pengetahuan dan keterampilan, tetapi juga mampu mengarahkan kapasitasnya kepada tujuan yang benar, menjalankan amanah, bertanggung jawab, dan terus bertumbuh.
+### 4.1 Capacity
 
-Rincian kapasitas dan indikator tidak ditetapkan dalam dokumen worldview ini; ia dikembangkan pada `02_CORE_MODEL`.
+Apa yang diketahui, dipahami, dapat dilakukan, dan mampu dikembangkan oleh seseorang.
 
-## Boundary
+### 4.2 Value Orientation
+
+Ke arah mana kapasitas tersebut digunakan dan nilai apa yang membimbing penggunaannya.
+
+### 4.3 Responsibility
+
+Bagaimana seseorang menjalankan amanah, mengambil keputusan, menghadapi konsekuensi, dan memperbaiki tindakannya.
+
+Ketiganya tidak boleh disamakan dengan tiga skor atau tiga konstruk otomatis. Perincian konstruk ditetapkan pada `02_CORE_MODEL` dan pengukuran hanya dilakukan jika memenuhi persyaratan assessment.
+
+## 5. Implikasi terhadap Graduate Profile
+
+Graduate Profile TUMBUH perlu menggambarkan manusia yang memiliki kapasitas untuk belajar dan bertindak, mampu mengarahkan kemampuannya kepada tujuan yang benar, menjalankan amanah, bertanggung jawab, dan terus bertumbuh.
+
+Worldview tidak menetapkan daftar final kapasitas atau indikator. Hal tersebut merupakan tugas `02_CORE_MODEL`.
+
+## 6. Implikasi terhadap Pendidikan
+
+Pendidikan tidak cukup dipahami sebagai transfer pengetahuan. Pendidikan mencakup proses membantu manusia berkembang sehingga ilmu, kemampuan, kebiasaan, nilai, dan tindakan dapat bergerak menuju arah yang benar.
+
+Karena itu, keberhasilan pendidikan tidak direduksi menjadi:
+
+- nilai akademik;
+- kepatuhan sesaat;
+- performa yang tampak pada satu situasi;
+- jumlah kegiatan yang diikuti; atau
+- pencapaian administratif.
+
+Indikator keberhasilan yang lebih spesifik harus diturunkan dan diuji pada layer sistem yang sesuai.
+
+## 7. Implikasi terhadap Amanah dan Ikhtiar
+
+Manusia bertanggung jawab atas ikhtiar dan tindakan yang berada dalam ruang kewenangannya. Kesadaran bahwa hasil akhir tidak sepenuhnya berada dalam kendali manusia tidak menghapus kewajiban untuk berusaha, merencanakan, mengevaluasi, dan memperbaiki.
+
+Dalam pendidikan, prinsip ini berarti kegagalan atau keterbatasan tidak boleh langsung dibaca sebagai kegagalan nilai diri seseorang. Sistem perlu menyediakan ruang untuk belajar, memperbaiki, pulih, dan bertumbuh.
+
+## 8. Boundary
 
 Dokumen ini tidak:
 
-- merumuskan seluruh pembahasan teologis tentang tujuan penciptaan;
-- menetapkan daftar final kompetensi atau karakter lulusan;
-- menetapkan ukuran keberhasilan spiritual;
+- merumuskan seluruh pembahasan teologis mengenai tujuan penciptaan manusia;
+- menetapkan daftar final karakter atau kompetensi TUMBUH;
+- menetapkan progression level;
+- menentukan rubric atau instrumen assessment;
+- menetapkan program tertentu;
 - membuktikan hubungan kausal antara orientasi hidup dan outcome pendidikan.
 
-## Status Keilmuan
+## 9. Downstream Implication
 
-Orientasi tujuan hidup dan tanggung jawab manusia merupakan bagian normatif worldview. Formulasi graduate profile merupakan keputusan desain yang harus ditelusuri dan diuji pada layer sistem yang relevan.
+Bahasan ini menjadi landasan konseptual bagi:
 
-## Downstream Implication
+- `02_CORE_MODEL/01 Graduate Profile/`;
+- `02_CORE_MODEL/02 Capacity Architecture/`;
+- `03_PROGRESSION/`;
+- `04_ASSESSMENT/`;
+- `07_PROGRAMS/`.
 
-Bahasan ini menjadi landasan bagi `02_CORE_MODEL/01 Graduate Profile`, Capacity Architecture, Progression, Programs, dan Assessment.
+## 10. Status Keilmuan
+
+Orientasi mengenai makna kehidupan, amanah, tanggung jawab, dan tujuan manusia merupakan **normative/conceptual worldview**. Klaim empiris mengenai dampaknya terhadap pendidikan harus dipisahkan dan ditelusurkan melalui evidence atau research.
+
+## 11. Lineage
+
+Dokumen ini merupakan rekonstruksi canonical v2.0.0. Formulasi normatif spesifik perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources` tanpa menjadikan dokumen worldview sebagai pengganti sumber primer.
