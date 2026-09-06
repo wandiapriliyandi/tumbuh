@@ -1,18 +1,21 @@
 # MIGRATION MATRIX — v1.x → v2.0.0
 
-Status: ACTIVE MIGRATION BASELINE
+**Status:** ACTIVE MIGRATION BASELINE
+**Current batch:** 19C — File-Level Inventory: `01 Philosophy`
 
-This matrix preserves the substantive work from the legacy v1.x architecture while the v2.0.0 system architecture becomes the current design authority.
+This matrix preserves the substantive work from the legacy v1.x architecture while v2.0.0 becomes the current system design authority. It is a navigation baseline; file-level inventory documents provide the more granular migration decisions.
 
-| Legacy domain | v2.0.0 destination | Migration rule |
+## 1. Domain-Level Mapping
+
+| Legacy domain | v2.0.0 destination | Rule |
 |---|---|---|
-| `01 Philosophy/01 Worldview` | `01_FOUNDATION/01 Worldview` | MOVE / MERGE / SPLIT by construct; preserve research lineage |
-| `01 Philosophy/02 Human Nature` | `01_FOUNDATION/03 Human Nature` | MOVE / MERGE |
-| `01 Philosophy/03 Human Development` | `01_FOUNDATION/04 Human Development` | MOVE / MERGE |
-| `01 Philosophy/04 Education` | `01_FOUNDATION/05 Education` | MOVE / MERGE |
-| `01 Philosophy/05 Leadership` | `01_FOUNDATION/06 Leadership` | MOVE / MERGE |
-| `01 Philosophy/06 Change` | `01_FOUNDATION/07 Change` | MOVE / MERGE |
-| `02 Principles` | `01_FOUNDATION/08 Core Principles` + `01_FOUNDATION/09 Design Principles` | CLASSIFY / SPLIT |
+| `01 Philosophy/01 Worldview` | `01_FOUNDATION/01 Worldview` | MOVE + REFACTOR; split by function where required |
+| `01 Philosophy/02 Human Nature` | `01_FOUNDATION/03 Human Nature` | MOVE + REFACTOR |
+| `01 Philosophy/03 Human Development` | `01_FOUNDATION/04 Human Development` | MOVE + REFACTOR |
+| `01 Philosophy/04 Education` | Foundation + Sources & Evidence + Assessment + Implementation + Programs/Methods | SPLIT |
+| `01 Philosophy/05 Leadership` | Foundation + Sources & Evidence + Implementation + Staff Development | SPLIT |
+| `01 Philosophy/06 Change` | Foundation + Sources & Evidence + Implementation + Research | SPLIT |
+| `02 Principles` | `01_FOUNDATION/08 Core Principles` + `01_FOUNDATION/09 Design Principles` + downstream layers where function requires | CLASSIFY / SPLIT |
 | `03 Capacity Framework` | `02_CORE_MODEL/01–04` + `06 Development Domains` + `08 Construct Registry` | RESTRUCTURE / SPLIT |
 | `04 Progression Framework` | `03_PROGRESSION/01–06` | RESTRUCTURE / SPLIT |
 | `05 Assessment Framework` | `04_ASSESSMENT/01–08` | RESTRUCTURE / SPLIT |
@@ -23,34 +26,108 @@ This matrix preserves the substantive work from the legacy v1.x architecture whi
 | `10 Methods` | relevant `03–07` execution layers | CLASSIFY / MOVE |
 | `11 Tools` | relevant `04–07` execution layers | CLASSIFY / MOVE |
 
-## Preservation rule
+## 2. Batch 19C — Philosophy File-Level Inventory
 
-Legacy substantive material remains intact on `v1-legacy`. No legacy material is deleted as part of v2 migration.
+### 19C.2 README
 
-## Decision rules
+`01 Philosophy/README.md` → `01_FOUNDATION/README.md`
 
-1. A legacy document does not automatically become a canonical v2 construct.
-2. Existing research is preserved as source material and migrated according to function.
-3. Duplicate or overlapping documents are merged only after dependency review.
-4. Core terminology is governed by the v2.0.0 System Specification and Construct Registry.
-5. Claims retain their original epistemic status until explicitly reclassified through the Claim Registry.
-6. Research/evidence claims are not upgraded merely because a document is detailed.
-7. Every migrated document must retain lineage to its legacy path.
+**Action:** REWRITE — P0.
 
-## Migration waves
+The new README defines Foundation, its relationship to Core Model, epistemic boundary, relationship to Principles, and what Foundation does not define. It must not be a catalogue of all TUMBUH theories.
 
-0. Governance & preservation — BASELINED
-1. Foundation
-2. Core Model + registries
-3. Progression
-4. Assessment
-5. Intervention
-6. Implementation
-7. Programs
-8. Sources & Evidence
-9. Research
-10. Book Series + archive/index repair
+### 19C.3 Worldview
 
-## Completion criteria
+`01 Philosophy/01 Worldview` → `01_FOUNDATION/01 Worldview`
+
+**Action:** MOVE + REFACTOR — P0.
+
+Conceptual structure: Reality → Knowledge → Human → Purpose → Value → Implication for Education.
+
+Do not place rubrics, assessments, intervention protocols, staffing ratios, programs, or outcome claims in Worldview.
+
+### 19C.4 Epistemology
+
+`01 Philosophy/01 Worldview/02 Epistemologi TUMBUH` → `01_FOUNDATION/02 Epistemology`
+
+**Action:** MOVE + REFACTOR — P0.
+
+Functional chain: SUMBER → PROSES → VALIDASI → INTEGRASI → BATAS → PRAKSIS.
+
+Islamic/Turats, Scientific, and Local/Practice Evidence retain distinct epistemic functions and are not summed as interchangeable evidence scores.
+
+### 19C.5 Human Nature
+
+`01 Philosophy/02 Human Nature` → `01_FOUNDATION/03 Human Nature`
+
+**Action:** MOVE + REFACTOR — P0.
+
+Human Nature answers who/what the human being is understood to be. Fitrah, Nafs, Ruh, 'Aql, Qalb, Adab, and human dignity belong here when used as conceptions of human nature. Development stages, scores, rubrics, and progression levels do not.
+
+### 19C.6 Human Development
+
+`01 Philosophy/03 Human Development` → `01_FOUNDATION/04 Human Development`
+
+**Action:** MOVE + REFACTOR — P0.
+
+This layer contains theories of human change/development. J1–J4 are not universal developmental stages; they belong to TUMBUH's support/independence architecture in `03_PROGRESSION`.
+
+### 19C.7 Education
+
+`01 Philosophy/04 Education` → multiple v2 layers.
+
+**Action:** SPLIT — P0.
+
+- Foundation: Ta'dib, education purpose, educator-learner relationship, nature of learning, educational adab.
+- Sources & Evidence: Cognitive Load Theory, Dual Coding, Kagan, Growth Mindset, and other external approaches.
+- Assessment: formative assessment, feedback, evidence of learning.
+- Implementation: school environment, safeguarding, organizational requirements.
+- Programs/Methods: lesson procedures, activities, learning routines.
+
+### 19C.8 Leadership
+
+`01 Philosophy/05 Leadership` → multiple v2 layers.
+
+**Action:** SPLIT — P0.
+
+- Foundation: Qudwah, Amanah, Khidmah, nature of leadership, leader responsibility.
+- Sources & Evidence: Servant Leadership, organizational leadership research, leadership science.
+- Implementation: governance, decision authority, RACI, delegation, handover, succession.
+- Staff Development: leader development, leadership training, supervision, coaching.
+
+### 19C.9 Change
+
+`01 Philosophy/06 Change` → multiple v2 layers.
+
+**Action:** SPLIT — P0.
+
+- Foundation: Sunnatullah Taghyir, Tadarruj, Istiqamah, conceptions of human and system change.
+- Sources & Evidence: Lewin, Kotter, Atomic Habits, behavior-change science.
+- Implementation: change management, resistance, pilot, rollout, change champion, fidelity, scale-up.
+- Research: implementation evaluation, change outcomes, adoption, sustainment.
+
+## 3. Architectural Boundary
+
+Foundation answers: **Mengapa sistem ini seperti ini?**
+
+Core Model answers: **Apa yang hendak dibentuk?**
+
+Progression answers: **Bagaimana pertumbuhan disusun?**
+
+Assessment answers: **Bagaimana kita mengetahui pertumbuhan?**
+
+Intervention answers: **Apa yang dilakukan ketika kebutuhan muncul?**
+
+Implementation answers: **Bagaimana sistem dijalankan?**
+
+Programs answer: **Apa paket kegiatan nyatanya?**
+
+Sources & Evidence and Research operate across the system as knowledge and testing layers.
+
+## 4. Preservation and Lineage
+
+Legacy substantive material remains intact on `v1-legacy`. No legacy material is deleted merely because its function has been migrated to v2. Every migrated/refactored component must retain traceable lineage to its legacy source.
+
+## 5. Completion Criteria
 
 PATH VALID → LINK VALID → TERMINOLOGY VALID → CONSTRUCT VALID → CLAIM VALID → EVIDENCE STATUS VALID → NO DUPLICATE SOURCE OF TRUTH → NO ORPHAN DEPENDENCY → ARCHIVE REFERENCE VALID.
