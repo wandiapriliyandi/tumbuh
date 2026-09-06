@@ -3,7 +3,7 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Ada satu orientasi yang tidak ditempatkan sebagai aksesori dalam TUMBUH: **Allah adalah Al-Khaliq, sedangkan manusia dan seluruh alam adalah makhluk.**
+Ada satu orientasi yang tidak ditempatkan sebagai aksesori dalam TUMBUH: **Allah adalah Al-Khaliq**, yaitu Pencipta, sedangkan manusia dan seluruh alam adalah **makhluk**, yaitu ciptaan-Nya.
 
 Posisi ini memberi arah bagi cara TUMBUH melihat manusia, pendidikan, kepemimpinan, dan perubahan.
 
@@ -11,9 +11,9 @@ Posisi ini memberi arah bagi cara TUMBUH melihat manusia, pendidikan, kepemimpin
 
 Manusia memiliki martabat. Ia dapat belajar, memilih, berikhtiar, membangun relasi, dan mengembangkan kemampuan. Namun kemuliaan tersebut tidak mengubah kedudukannya sebagai makhluk.
 
-Manusia karena itu bukan pusat realitas yang berdiri sendiri. Pengetahuan, kekuasaan, kemampuan, dan kendalinya terbatas. Ia membutuhkan petunjuk, kondisi yang mendukung, relasi, dan pertolongan untuk menjalankan amanahnya.
+Manusia karena itu bukan pusat realitas yang berdiri sendiri. Pengetahuan, kekuasaan, kemampuan, dan kendalinya terbatas. Ia membutuhkan petunjuk, kondisi yang mendukung, relasi, dan pertolongan untuk menjalankan amanah.
 
-Di sinilah martabat dan tanggung jawab bertemu: manusia memiliki nilai, tetapi juga memikul amanah.
+Di sinilah martabat dan tanggung jawab bertemu: manusia memiliki nilai, tetapi juga memikul **amanah**, yaitu tanggung jawab yang melekat pada kepercayaan, peran, kemampuan, atau kewenangan yang diterimanya.
 
 ## Kalau demikian, apa yang terjadi pada relasi pendidikan?
 
@@ -27,9 +27,11 @@ Pendidikan juga bukan pengganti petunjuk Allah. Pendidikan membantu manusia bela
 
 Jika manusia bukan pemilik mutlak atas manusia lain, maka kepemimpinan tidak tepat dipahami sebagai kepemilikan.
 
-Jabatan adalah amanah. Kewenangan memiliki tujuan, batas, dan akuntabilitas. Pemimpin tidak hanya bertanya apakah orang lain melakukan apa yang diperintahkan, tetapi juga apakah kewenangan yang ia gunakan benar dan dapat dipertanggungjawabkan.
+Jabatan adalah amanah. Kewenangan memiliki tujuan, batas, dan **akuntabilitas**, yaitu kewajiban untuk menjelaskan dan mempertanggungjawabkan penggunaan kewenangan tersebut.
 
-Gagasan ini nantinya perlu diterjemahkan lebih jauh dalam pembahasan **Leadership** dan dalam arsitektur implementasi TUMBUH.
+Pemimpin tidak hanya bertanya apakah orang lain melakukan apa yang diperintahkan, tetapi juga apakah kewenangan yang ia gunakan benar dan dapat dipertanggungjawabkan.
+
+Gagasan ini nantinya perlu diterjemahkan lebih jauh dalam pembahasan Leadership dan dalam arsitektur implementasi TUMBUH.
 
 ## Kalau manusia tidak mengendalikan seluruh hasil, apakah ia boleh pasif?
 
@@ -37,11 +39,11 @@ Tidak.
 
 Mengakui Allah sebagai Al-Khaliq tidak berarti meninggalkan ikhtiar. Manusia tetap perlu memperhatikan sebab, merencanakan tindakan, belajar dari pengalaman, dan memperbaiki usaha.
 
-Yang perlu dibedakan adalah **ikhtiar dan hasil**. Manusia bertanggung jawab atas apa yang ia pilih dan usahakan, sementara hasil akhir dipengaruhi oleh banyak kondisi yang tidak seluruhnya berada dalam kendalinya.
+Yang perlu dibedakan adalah ikhtiar dan hasil. Manusia bertanggung jawab atas apa yang ia pilih dan usahakan, sementara hasil akhir dipengaruhi oleh banyak kondisi yang tidak seluruhnya berada dalam kendalinya.
 
 Karena itu, kegagalan tidak otomatis berarti seseorang tidak bernilai, sebagaimana keberhasilan tidak otomatis membuktikan bahwa seluruh prosesnya benar.
 
-Pandangan ini akan menjadi penting ketika TUMBUH membahas **Human Development** dan **Change**.
+Pandangan ini akan menjadi penting ketika TUMBUH membahas Human Development dan Change.
 
 ## Sebab tetap diperhatikan
 
@@ -51,6 +53,6 @@ Pada saat yang sama, sebab empiris tidak dipahami sebagai kekuatan yang berdiri 
 
 Dengan demikian, keyakinan kepada Allah dan keseriusan terhadap kenyataan empiris tidak perlu dipertentangkan.
 
-Pertanyaan berikutnya menjadi semakin spesifik: **jika manusia adalah makhluk yang memiliki martabat, keterbatasan, pilihan, dan amanah, bagaimana manusia itu sendiri harus dipahami?** Dari sinilah pembahasan bergerak menuju *Manusia dan Kedudukannya sebagai Makhluk*.
+Pertanyaan berikutnya menjadi semakin spesifik: **jika manusia adalah makhluk yang memiliki martabat, keterbatasan, pilihan, dan amanah, bagaimana manusia itu sendiri harus dipahami?** Dari sinilah pembahasan bergerak menuju Manusia dan Kedudukannya sebagai Makhluk.
 
 Sumber normatif spesifik perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`. Dokumen ini sendiri merupakan posisi normatif-konseptual TUMBUH, bukan kajian teologi yang lengkap.
