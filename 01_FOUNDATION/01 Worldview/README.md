@@ -3,17 +3,15 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Worldview adalah **cara pandang mendasar tentang realitas dan kehidupan** yang menjadi arah bagi cara TUMBUH memahami manusia, nilai, dan pendidikan.
+**Worldview** adalah **cara pandang mendasar tentang kenyataan dan kehidupan**. Cara pandang ini memengaruhi cara kita memahami manusia, apa yang dianggap penting, dan ke mana pendidikan diarahkan.
 
-Istilah *worldview* digunakan di sini bukan sekadar untuk menyebut pendapat atau sudut pandang pribadi. Ia menunjuk pada seperangkat pemahaman dasar yang menentukan bagaimana kita melihat kenyataan, menempatkan manusia di dalamnya, memahami apa yang bernilai, dan menentukan arah kehidupan.
+Jadi, worldview bukan sekadar pendapat pribadi. Ia adalah cara dasar kita melihat dunia sebelum kita membuat keputusan yang lebih jauh.
 
-Karena itu, Worldview ditempatkan paling awal. Sebelum TUMBUH bertanya **manusia seperti apa yang perlu dikembangkan**, ia perlu lebih dahulu menjawab **kenyataan seperti apa yang diyakini dan untuk apa manusia diarahkan**.
+Karena itu Worldview ditempatkan di awal TUMBUH. Sebelum bertanya **“manusia seperti apa yang ingin dikembangkan?”**, kita perlu menjawab **“manusia itu siapa, hidup untuk apa, dan kenyataan seperti apa yang kita yakini?”**
 
-Dokumen-dokumen di bagian ini bukan buku teologi, filsafat, atau teori pendidikan yang lengkap. Fungsinya adalah menetapkan cara pandang dasar yang menjadi pijakan bagi bagian-bagian TUMBUH berikutnya.
+## Tujuh pertanyaan
 
-## Tujuh pertanyaan yang menjadi pijakan
-
-Worldview TUMBUH dibangun melalui tujuh pertanyaan yang saling berurutan:
+Worldview TUMBUH dibangun melalui tujuh pertanyaan:
 
 1. Apa yang dimaksud dengan realitas?
 2. Bagaimana posisi Allah dan seluruh ciptaan dipahami?
@@ -21,9 +19,9 @@ Worldview TUMBUH dibangun melalui tujuh pertanyaan yang saling berurutan:
 4. Siapa manusia dan bagaimana kedudukannya sebagai makhluk?
 5. Apa makna kehidupan dan tujuan penciptaan manusia?
 6. Apa yang dimaksud dengan nilai, kebaikan, tanggung jawab, dan amanah?
-7. Apa implikasi cara pandang tersebut bagi pendidikan?
+7. Apa akibat cara pandang tersebut bagi pendidikan?
 
-Ketujuh pertanyaan ini bukan tujuh topik yang berdiri sendiri. Jawaban terhadap satu pertanyaan membuka pertanyaan berikutnya.
+Urutannya sengaja dibuat seperti ini. Jawaban satu pertanyaan membawa kita ke pertanyaan berikutnya.
 
 ```text
 REALITAS
@@ -41,101 +39,55 @@ NILAI & AMANAH
 PENDIDIKAN
 ```
 
-### 1. Realitas
+## Titik berangkat TUMBUH
 
-Pertama-tama kita perlu menentukan apa yang dimaksud dengan realitas. TUMBUH berangkat dari keyakinan bahwa realitas tidak dapat direduksi hanya menjadi apa yang dapat diukur oleh manusia.
+TUMBUH berangkat dari worldview Islam: **Allah adalah Al-Khaliq**, artinya Pencipta, sedangkan manusia dan seluruh alam adalah **makhluk**, artinya ciptaan Allah.
 
-### 2. Allah dan ciptaan
+Dari sini TUMBUH memandang manusia sebagai makhluk yang memiliki martabat, kemampuan, keterbatasan, pilihan, dan tanggung jawab.
 
-Dari pertanyaan tentang realitas muncul pertanyaan tentang sumber dan kedudukan segala sesuatu. TUMBUH berangkat dari worldview Islam yang mengakui **Allah sebagai Al-Khaliq**, yaitu **Pencipta**, sedangkan manusia dan seluruh alam adalah makhluk, yaitu ciptaan-Nya.
+Manusia perlu berusaha, tetapi tidak menguasai semua hasil. Kehidupan memiliki tujuan. Kemampuan perlu diarahkan kepada kebaikan. Pendidikan karena itu tidak cukup hanya membuat manusia semakin pintar atau semakin patuh.
 
-### 3. Gaib dan teramati
+## Worldview bukan semua jawaban
 
-Jika realitas tidak seluruhnya berada dalam jangkauan indera, maka perlu dibedakan antara perkara yang dapat diamati dan perkara gaib. Pembedaan ini penting agar TUMBUH tidak memaksa semua hal menjadi objek pengukuran, tetapi juga tidak menggunakan klaim agama untuk menggantikan evidence ketika pertanyaannya bersifat empiris.
+Worldview memberi arah. Ia tidak langsung menentukan daftar kapasitas, level perkembangan, rubrik, instrumen, intervensi, SOP, atau program.
 
-### 4. Manusia
+Pertanyaan **bagaimana pengetahuan diperoleh, diperiksa, dan diuji** juga bukan pertanyaan utama Worldview. Itu dibahas dalam **Epistemology**, yaitu pembahasan tentang bagaimana kita memperoleh dan menilai pengetahuan.
 
-Setelah memahami kedudukan manusia sebagai makhluk, pertanyaan bergerak kepada manusia itu sendiri: siapa manusia, apa martabatnya, apa keterbatasannya, dan bagaimana pilihan serta tanggung jawabnya dipahami.
+Demikian juga, ketika TUMBUH ingin mengatakan bahwa suatu program benar-benar efektif, kita membutuhkan **evidence**, yaitu bukti yang dapat membantu menilai apakah program tersebut bekerja.
 
-### 5. Kehidupan dan tujuan
-
-Pemahaman tentang manusia membawa kita pada pertanyaan tentang kehidupan. Manusia tidak hanya memiliki kemampuan untuk melakukan sesuatu, tetapi juga hidup dengan tujuan, amanah, dan pertanggungjawaban.
-
-### 6. Nilai dan amanah
-
-Dari tujuan kehidupan muncul pertanyaan tentang apa yang disebut baik, benar, bernilai, dan bertanggung jawab. Kemampuan manusia karena itu tidak berdiri sendiri; penggunaannya perlu memiliki arah.
-
-### 7. Pendidikan
-
-Barulah pertanyaan tersebut bertemu dengan kepentingan TUMBUH secara langsung: **kalau manusia dipahami seperti ini, lalu pendidikan seharusnya diarahkan ke mana?**
-
-Jawaban atas pertanyaan ini menjadi jembatan menuju bagian Foundation berikutnya dan akhirnya menuju Core Model.
-
-## Worldview dan istilah yang digunakan TUMBUH
-
-Beberapa istilah dalam dokumen ini memiliki makna khusus.
-
-**Worldview** berarti cara pandang mendasar tentang realitas dan kehidupan.
-
-**Normatif** berarti berkaitan dengan apa yang dinilai benar, baik, layak, atau seharusnya.
-
-**Konseptual** berarti berkaitan dengan gagasan dan hubungan antargagasan yang digunakan untuk memahami suatu hal, sebelum gagasan tersebut diterjemahkan menjadi konstruk atau ukuran empiris.
-
-Karena itu, ketika dokumen Worldview menyatakan suatu posisi sebagai **normatif-konseptual**, maksudnya adalah posisi tersebut menetapkan arah pemikiran TUMBUH, bukan mengklaim bahwa semua konsekuensi empirisnya sudah terbukti secara penelitian.
-
-Istilah **evidence** digunakan untuk bukti atau informasi yang dapat digunakan untuk mendukung suatu klaim. Istilah **research** digunakan untuk kegiatan penelitian yang secara sistematis menguji, mengevaluasi, atau mengembangkan pengetahuan.
-
-Pembedaan istilah ini penting agar bahasa worldview, bahasa teori, dan bahasa penelitian tidak tercampur.
-
-## Worldview bukan epistemology
-
-Di sini ada batas yang perlu dijaga.
-
-Worldview terutama menjawab:
-
-> **Realitas seperti apa yang kita yakini? Siapa manusia? Apa yang bernilai? Untuk apa manusia hidup dan pendidikan diarahkan?**
-
-Sementara **epistemology**, yaitu kajian tentang **bagaimana pengetahuan diperoleh, dinilai, diuji, dan dibenarkan**, menjawab pertanyaan yang berbeda:
-
-> **Bagaimana kita mengetahui bahwa sesuatu dapat dipercaya sebagai pengetahuan?**
-
-Karena itu, pembahasan tentang sumber pengetahuan, pembenaran, validasi, ketidakpastian, dan integrasi berbagai bentuk pengetahuan diteruskan ke `01_FOUNDATION/02 Epistemology`.
-
-## Dari cara pandang menuju sistem
-
-Worldview tidak langsung menentukan konstruk, rubrik, program, atau SOP. Ia memberi arah dan batas bagi keputusan-keputusan tersebut.
-
-Jika kita sudah sepakat tentang **realitas**, **manusia**, **kehidupan**, dan **nilai**, pertanyaan berikutnya adalah: **manusia seperti apa yang hendak dikembangkan dan kapasitas apa yang perlu bertumbuh?**
-
-Di situlah TUMBUH mulai bergerak dari Worldview menuju **Core Model**.
-
-Dengan demikian, alur TUMBUH bukan sekadar perpindahan antar-folder, tetapi perpindahan dari pertanyaan yang paling mendasar menuju keputusan sistem yang semakin konkret.
+Jadi ada batas yang jelas:
 
 ```text
 WORLDVIEW
-cara memahami realitas, manusia, kehidupan, dan nilai
+Bagaimana kita melihat kenyataan dan kehidupan?
         ↓
 CORE MODEL
-manusia dan kapasitas yang hendak dikembangkan
+Manusia dan kapasitas apa yang hendak dikembangkan?
         ↓
 PROGRESSION
-bagaimana pertumbuhan dipahami dan disusun
+Bagaimana pertumbuhan berlangsung?
         ↓
 ASSESSMENT
-bagaimana perkembangan dapat diketahui
+Bagaimana perkembangan diketahui?
         ↓
 INTERVENTION
-bagaimana kebutuhan perkembangan direspons
+Bagaimana kebutuhan direspons?
         ↓
 IMPLEMENTATION
-bagaimana sistem dijalankan
+Bagaimana sistem dijalankan?
         ↓
 PROGRAMS
-bagaimana sistem diwujudkan dalam praktik
+Bagaimana sistem hadir dalam praktik?
 ```
 
-`08_SOURCES_AND_EVIDENCE` dan `09_RESEARCH` tidak menjadi bagian dari alur substantif Worldview, tetapi menyediakan sumber dan proses pengujian yang menopang pengembangan TUMBUH.
+`08_SOURCES_AND_EVIDENCE` menyediakan sumber dan bukti yang dibutuhkan. `09_RESEARCH` digunakan untuk menguji, mengevaluasi, dan mengembangkan TUMBUH.
 
-`90-Inventory-and-Lineage.md` digunakan untuk mencatat asal-usul, rekonstruksi, dan status bahan yang membentuk dokumen Worldview. Ia bersifat administratif dan tidak menggantikan isi substantif tujuh dokumen utama.
+`90-Inventory-and-Lineage.md` hanya digunakan untuk mencatat asal-usul dan bahan sejarah. Ia bukan pengganti dokumen substantif Worldview.
 
-**Status:** dokumen-dokumen Worldview merupakan posisi normatif-konseptual TUMBUH v2.0.0. Formulasi normatif spesifik perlu ditelusurkan ke sumber yang sesuai, sedangkan klaim empiris yang muncul dari pengembangan selanjutnya perlu memiliki evidence dan/atau research yang sesuai.
+## Dari Worldview ke Core Model
+
+Sampai di sini kita sudah punya titik berangkat. Tetapi kita belum tahu secara rinci **manusia seperti apa yang ingin dikembangkan**.
+
+Itulah pertanyaan berikutnya.
+
+Worldview memberi arah. **Core Model** mulai menerjemahkan arah itu menjadi gambaran manusia dan kapasitas yang hendak dikembangkan.
