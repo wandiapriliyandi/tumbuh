@@ -31,7 +31,7 @@ Namun bentuk teknis dari semua itu belum diputuskan di sini. Worldview hanya mem
 
 ## Nilai memberi arah, evidence menguji cara
 
-Worldview memberi jawaban normatif tentang arah dan batas. Ia tidak otomatis menjawab apakah sebuah metode efektif.
+Worldview memberi jawaban **normatif**, yaitu arah tentang apa yang dianggap benar, baik, layak, dan seharusnya. Ia tidak otomatis menjawab apakah sebuah metode efektif.
 
 Misalnya, suatu bentuk pembinaan dapat dianggap sesuai dengan nilai TUMBUH tetapi ternyata tidak menghasilkan perubahan yang diharapkan. Dalam keadaan seperti itu, nilai tidak perlu ditinggalkan; yang perlu diperiksa adalah asumsi, desain, pelaksanaan, atau evidence tentang caranya.
 
@@ -47,9 +47,9 @@ Pertanyaan berikutnya adalah:
 
 > **Jika pendidikan TUMBUH diarahkan untuk membantu manusia bertumbuh seperti itu, kapasitas apa yang sebenarnya perlu dikembangkan?**
 
-Pertanyaan tersebut membawa kita keluar dari Worldview menuju **Core Model**.
+Pertanyaan tersebut membawa kita keluar dari Worldview menuju **Core Model**, yaitu bagian sistem yang mulai merumuskan manusia dan kapasitas yang hendak dikembangkan beserta hubungan konseptualnya.
 
-Di sana TUMBUH perlu mulai merumuskan graduate profile, kapasitas, hubungan antarkapasitas, dan logika sistem. Setelah itu barulah pertanyaan tentang perkembangan, assessment, intervention, implementation, dan program dapat dijawab dengan lebih bertanggung jawab.
+Di sana TUMBUH perlu mulai merumuskan graduate profile, yaitu gambaran manusia yang hendak dicapai sebagai arah pengembangan; kapasitas, yaitu kemampuan yang hendak dikembangkan; hubungan antarkapasitas; dan logika sistem. Setelah itu barulah pertanyaan tentang perkembangan, assessment, intervention, implementation, dan program dapat dijawab dengan lebih bertanggung jawab.
 
 Jadi Worldview berhenti bukan karena pertanyaannya sudah habis, tetapi karena **pekerjaan berikutnya memang sudah menjadi pekerjaan layer lain**.
 
