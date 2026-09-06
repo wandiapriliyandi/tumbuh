@@ -15,15 +15,15 @@ Namun manusia juga bukan makhluk yang berdaulat mutlak atas dirinya. Ia hidup da
 
 Dua sisi ini perlu dijaga sekaligus. Jika hanya melihat keterbatasan, pendidikan mudah berubah menjadi kontrol. Jika hanya melihat kebebasan, pendidikan mudah kehilangan arah dan tanggung jawab.
 
-Karena itu TUMBUH menempatkan manusia sebagai **subjek yang berkembang**.
+Karena itu TUMBUH menempatkan manusia sebagai **subjek yang berkembang**, yaitu manusia yang menjadi pelaku dalam proses belajarnya dan tidak diperlakukan hanya sebagai objek yang dibentuk oleh sistem.
 
 ## Apa yang melekat pada manusia?
 
 Ada beberapa kenyataan yang tidak boleh hilang ketika TUMBUH kelak membangun model yang lebih teknis.
 
-Manusia memiliki **martabat**, sehingga ia tidak boleh diperlakukan sekadar sebagai alat atau angka. Ia memiliki **kapasitas**, sehingga pertumbuhan mungkin terjadi. Ia juga memiliki **keterbatasan**, sehingga perkembangan tidak dapat dipaksakan dengan cara yang sama pada setiap orang.
+Manusia memiliki **martabat**, yaitu nilai dan kehormatan yang melekat pada dirinya sebagai manusia, sehingga ia tidak boleh diperlakukan sekadar sebagai alat atau angka. Ia memiliki **kapasitas**, yaitu kemampuan yang dapat digunakan dan dikembangkan, sehingga pertumbuhan mungkin terjadi. Ia juga memiliki **keterbatasan**, sehingga perkembangan tidak dapat dipaksakan dengan cara yang sama pada setiap orang.
 
-Ia memiliki **agency dan ikhtiar**, tetapi pilihan tersebut hadir bersama **tanggung jawab**. Dan ia selalu hidup secara **relasional**: bersama Allah, manusia lain, dan lingkungan.
+Ia memiliki **agency**, yaitu kemampuan untuk mengambil pilihan dan bertindak sebagai pelaku, serta ikhtiar, yaitu usaha sadar yang dilakukan untuk mencapai atau memperbaiki sesuatu. Pilihan tersebut hadir bersama **tanggung jawab**. Dan ia selalu hidup secara **relasional**, yaitu dalam hubungan dengan Allah, manusia lain, dan lingkungan.
 
 Ini belum merupakan daftar konstruk final. TUMBUH belum sedang memberi nama pada seluruh kapasitas manusia. Kita baru sedang menetapkan cara memandang manusia sebelum model itu dibangun.
 
@@ -40,4 +40,3 @@ Pemahaman tentang manusia ini juga membuat TUMBUH perlu berhati-hati ketika mema
 Pembahasan ilmiah tentang bagaimana manusia berkembang akan diteruskan dalam **Human Development**. Pertanyaan tentang manusia seperti apa yang hendak dibentuk secara sistematis baru akan masuk ke **Graduate Profile** dan **Capacity Architecture**.
 
 Dan dari sini muncul pertanyaan yang lebih jauh: **manusia hidup untuk apa?** Sebab mengetahui siapa manusia belum cukup jika kita belum mengetahui arah kehidupan yang hendak dijalani.
-
