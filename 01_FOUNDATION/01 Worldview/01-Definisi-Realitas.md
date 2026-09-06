@@ -3,66 +3,53 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Sebelum TUMBUH berbicara tentang kapasitas, perkembangan, assessment, atau intervensi, ada pertanyaan yang lebih awal: **realitas seperti apa yang sedang kita bicarakan?**
+Sebelum TUMBUH berbicara tentang manusia yang berkembang, ada pertanyaan yang lebih mendasar: **realitas seperti apa yang sedang kita bicarakan?**
 
-TUMBUH memulai dari worldview Islam yang mengakui **Allah sebagai Al-Khaliq** dan seluruh selain-Nya sebagai makhluk. Karena itu, realitas tidak dipahami sebagai sesuatu yang berdiri sendiri tanpa Pencipta dan tanpa tatanan.
+Jawaban atas pertanyaan ini penting karena cara kita memahami kenyataan akan menentukan apa yang kita anggap mungkin, apa yang perlu diperhatikan, dan apa yang tidak boleh kita abaikan ketika membangun pendidikan.
 
-## Realitas yang tidak direduksi menjadi yang terukur
+## Realitas dan Pencipta
 
-Realitas ciptaan mencakup fenomena yang dapat dialami dan dikaji melalui pengamatan, sekaligus perkara gaib yang tidak dapat ditetapkan hanya melalui indera dan diketahui melalui wahyu yang sahih.
+TUMBUH berangkat dari worldview Islam: **Allah adalah Al-Khaliq**, sedangkan segala sesuatu selain-Nya adalah makhluk.
 
-Dengan posisi ini, TUMBUH menghindari dua reduksi:
+Karena itu, realitas tidak dipahami sebagai sesuatu yang berdiri sendiri tanpa Pencipta. Dunia yang kita alami memiliki keteraturan, keterbatasan, dan hubungan sebab-akibat yang dapat dipelajari. Manusia pun berada di dalam realitas tersebut, bukan berada di luar atau di atasnya.
 
-- menganggap hanya sesuatu yang dapat diukur secara empiris yang benar-benar nyata; dan
-- menggunakan klaim spiritual untuk menggantikan evidence ketika pertanyaannya memang bersifat empiris.
+Tubuh manusia, perilaku, keluarga, masyarakat, lembaga, proses belajar, lingkungan pendidikan, dan perubahan yang terjadi di dalamnya merupakan bagian dari ciptaan. Semuanya dapat menjadi objek pengamatan dan pembelajaran dengan cara yang sesuai dengan sifat objeknya.
 
-Jadi, **tidak semua yang nyata harus menjadi variabel pengukuran, tetapi setiap klaim empiris tetap membutuhkan evidence yang sesuai.**
+## Yang Terlihat dan yang Tidak Terlihat
 
-## Allah, ciptaan, dan dunia yang dapat dipelajari
+Tidak semua yang nyata harus dapat ditangkap oleh indera.
 
-Allah adalah Pencipta dan bukan bagian dari alam ciptaan.
+Dalam worldview Islam, terdapat perkara gaib yang tidak dapat ditetapkan hanya melalui pengamatan empiris dan diketahui melalui wahyu yang sahih. Pada saat yang sama, keterbatasan pengamatan empiris tidak boleh digunakan untuk menyimpulkan bahwa sesuatu pasti gaib.
 
-Manusia, tubuh, lingkungan, masyarakat, lembaga, perilaku, proses belajar, dan perubahan pendidikan berada dalam ranah ciptaan. Karena itu semuanya dapat menjadi objek pengalaman, pengamatan, dan penyelidikan dengan cara yang sesuai dengan objeknya.
+Pembedaan ini menjaga TUMBUH dari dua kesalahan yang berlawanan: menyempitkan realitas hanya pada apa yang dapat diukur, atau memakai bahasa agama untuk menjawab pertanyaan yang sebenarnya membutuhkan penyelidikan terhadap kenyataan empiris.
 
-Perkara gaib memiliki kedudukan berbeda. Ia tidak diperlakukan seolah-olah merupakan variabel empiris hanya agar dapat dimasukkan ke dalam instrumen pengukuran.
+Dengan kata lain, **cara mengetahui harus mengikuti jenis pertanyaan yang sedang diajukan**. Apa yang harus diterima melalui wahyu tidak dipaksa menjadi variabel pengukuran. Sebaliknya, ketika TUMBUH membuat klaim tentang perilaku, kondisi belajar, atau efektivitas intervensi, klaim tersebut tetap harus berhadapan dengan evidence.
 
-## Ikhtiar dan sebab–akibat
+Pembahasan tentang bagaimana pengetahuan diperoleh dan diuji akan bergerak ke **Epistemology**. Di sini kita cukup menetapkan pandangan tentang realitas yang menjadi titik berangkatnya.
 
-TUMBUH menerima bahwa kehidupan ciptaan memiliki keteraturan dan hubungan sebab–akibat. Manusia karena itu perlu berikhtiar dan memperhatikan sebab yang relevan.
+## Sebab, Ikhtiar, dan Hasil
 
-Pada saat yang sama, hasil tidak disamakan dengan sesuatu yang sepenuhnya berada dalam kendali manusia. TUMBUH membedakan:
+Dunia ciptaan bukan dunia yang acak. Manusia dapat mengenali pola, memperhatikan sebab, belajar dari pengalaman, dan melakukan ikhtiar untuk mengubah keadaan.
 
-- **ikhtiar:** tindakan yang dapat direncanakan dan dilakukan;
-- **kondisi dan faktor:** keadaan yang memengaruhi proses; dan
-- **hasil:** keadaan akhir yang tidak selalu sepenuhnya dapat dikendalikan.
+Namun, kemampuan untuk berikhtiar tidak sama dengan kemampuan mengendalikan seluruh hasil.
 
-Pembedaan ini bukan alasan untuk mengurangi tanggung jawab. Justru ia membantu TUMBUH membedakan antara kualitas usaha dan hasil yang muncul.
+TUMBUH karena itu perlu membedakan tiga hal yang sering tercampur:
 
-## Apa artinya bagi pendidikan?
+- **ikhtiar**, yaitu apa yang manusia pilih dan usahakan;
+- **kondisi dan faktor**, yaitu berbagai keadaan yang ikut membentuk proses; dan
+- **hasil**, yaitu keadaan yang muncul dan tidak selalu sepenuhnya berada dalam kendali manusia.
 
-Kalau proses pendidikan berlangsung di dunia nyata, maka dunia nyata harus diperlakukan serius.
+Pembedaan ini bukan untuk melemahkan tanggung jawab. Justru dengan membedakannya, TUMBUH dapat menilai usaha secara lebih adil dan tidak menjadikan satu hasil sebagai satu-satunya ukuran nilai seseorang.
 
-Keselamatan, kesehatan, relasi sosial, lingkungan belajar, kualitas pengajaran, tidur, beban aktivitas, dan kondisi lain yang relevan tidak boleh diabaikan dengan alasan spiritual.
+## Ketika Pandangan Ini Dibawa ke Pendidikan
 
-Sebaliknya, pendidikan juga tidak boleh direduksi menjadi pengelolaan perilaku atau performa. Manusia dipahami memiliki tujuan, nilai, amanah, dan tanggung jawab yang melampaui hasil yang mudah dihitung.
+Jika pendidikan berlangsung di dunia nyata, maka kenyataan dunia nyata harus diperlakukan serius.
 
-## Batas pembahasan
+Keselamatan, kesehatan, tidur, relasi sosial, beban aktivitas, kualitas pengajaran, lingkungan belajar, dan kondisi kehidupan peserta didik tidak boleh diabaikan hanya karena pendidikan memiliki orientasi spiritual.
 
-Dokumen ini menetapkan orientasi ontologis. Ia **tidak**:
+Namun pendidikan juga tidak selesai ketika semua hal yang dapat diukur sudah tercatat. Manusia memiliki makna, nilai, amanah, dan tanggung jawab yang tidak dapat direduksi menjadi angka.
 
-- menjadi kajian teologi yang lengkap;
-- menetapkan daftar konstruk manusia;
-- menetapkan progression atau level perkembangan;
-- menetapkan instrumen assessment;
-- menetapkan protokol intervensi; atau
-- membuktikan efektivitas program pendidikan.
+Di sinilah TUMBUH mulai memperoleh arah: **pendidikan harus cukup dekat dengan kenyataan untuk tidak hidup dalam angan-angan, tetapi cukup luas dalam memahami manusia sehingga tidak mereduksinya menjadi data.**
 
-Pertanyaan tentang **bagaimana mengetahui sesuatu** diteruskan ke `01_FOUNDATION/02 Epistemology`. Klaim empiris ditelusurkan ke evidence dan research yang relevan.
+Pertanyaan berikutnya menjadi lebih dekat dengan pusat sistem: **jika seluruh realitas adalah ciptaan Allah, lalu bagaimana manusia harus memahami kedudukannya di dalam realitas itu?**
 
-## Ke mana pembahasan bergerak?
-
-Definisi realitas ini memberi batas awal bagi pembahasan tentang manusia, perkembangan, pendidikan, kepemimpinan, perubahan, dan akhirnya model inti TUMBUH.
-
-**Status keilmuan:** posisi normatif-konseptual TUMBUH. Klaim empiris yang muncul kemudian harus memperoleh dasar evidence dan validasi tersendiri.
-
-**Lineage:** rekonstruksi canonical v2.0.0; dokumen legacy berfungsi sebagai bahan sejarah dan kajian, bukan bukti otomatis atas formulasi ini.
