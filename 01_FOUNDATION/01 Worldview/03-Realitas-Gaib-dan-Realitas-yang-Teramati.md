@@ -1,87 +1,61 @@
 # 03 — Realitas Gaib dan Realitas yang Teramati
 
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Classification:** FOUNDATION / WORLDVIEW / NORMATIVE-CONCEPTUAL  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-## 1. Purpose
+Tidak semua yang nyata dapat diketahui dengan cara yang sama. Ini penting bagi TUMBUH karena sistem pendidikan bekerja sekaligus dengan hal-hal yang dapat diamati dan dengan orientasi keagamaan yang tidak seluruhnya berada dalam jangkauan pengukuran empiris.
 
-Dokumen ini menetapkan pembedaan dasar antara realitas yang dapat dikaji melalui pengalaman dan observasi dengan perkara gaib yang diketahui melalui wahyu yang sahih.
+## Dua ranah yang perlu dibedakan
 
-Pembedaan ini diperlukan agar TUMBUH tidak jatuh pada dua ekstrem: empirisme yang menganggap hanya yang terukur sebagai realitas, atau klaim keagamaan yang digunakan untuk menggantikan evidence ketika pertanyaannya bersifat empiris.
+Sebagian realitas ciptaan dapat diakses melalui pengalaman, observasi, pengukuran, dokumentasi, dan penyelidikan ilmiah yang sesuai.
 
-## 2. Core Position
+Perkara gaib memiliki kedudukan berbeda. Dalam worldview Islam, perkara tersebut diketahui melalui wahyu yang sahih dan tidak ditetapkan hanya melalui indera atau instrumen empiris biasa.
 
-TUMBUH mengakui bahwa keterbatasan metode empiris tidak identik dengan ketiadaan realitas. Sebagian realitas ciptaan dapat diteliti melalui observasi dan penyelidikan, sementara perkara gaib tidak ditetapkan hanya melalui indera atau instrumen empiris biasa.
+Pembedaan ini bukan berarti keduanya tidak berhubungan. Maksudnya adalah **jenis pertanyaan perlu dikenali sebelum menentukan cara mengetahui dan evidence yang dibutuhkan.**
 
-Karena itu, **jenis realitas dan jenis pertanyaan harus dibedakan sebelum menentukan cara mengetahui dan evidence yang diperlukan**.
+## Ketika yang teramati menjadi objek pendidikan
 
-## 3. Realitas yang Teramati
+Banyak hal dalam pendidikan memang dapat dipelajari secara empiris: perilaku, interaksi sosial, lingkungan, proses pembelajaran, kondisi fisik, organisasi, perubahan perilaku, dan berbagai outcome pendidikan.
 
-Realitas yang teramati mencakup fenomena yang dapat diakses melalui pengalaman, observasi, pengukuran, dokumentasi, atau penyelidikan ilmiah yang sesuai.
+Tetapi dapat diamati bukan berarti otomatis benar. Kualitas suatu klaim tetap bergantung pada cara pengamatan, pengukuran, analisis, dan evidence yang digunakan.
 
-Dalam konteks TUMBUH, contoh objek yang dapat dikaji secara empiris meliputi:
+## Ketika yang gaib tidak dipaksa menjadi angka
 
-- perilaku manusia;
-- interaksi sosial;
-- lingkungan pendidikan;
-- proses pembelajaran;
-- kondisi fisik dan organisasi;
-- perubahan perilaku dan outcome pendidikan.
+TUMBUH tidak mengubah perkara gaib menjadi variabel empiris hanya agar semuanya dapat dimasukkan ke dalam sistem pengukuran.
 
-Status suatu klaim empiris tetap bergantung pada kualitas metode dan evidence yang digunakan.
+Sebaliknya, pengalaman subjektif atau kejadian yang belum dapat dijelaskan juga tidak otomatis menjadi bukti perkara gaib.
 
-## 4. Realitas Gaib
+Dengan demikian, TUMBUH menjaga dua disiplin sekaligus: **menghormati batas metode empiris dan tidak melampaui batas evidence ketika berbicara tentang dunia yang teramati.**
 
-Perkara gaib merupakan perkara yang tidak dapat ditetapkan hanya melalui pengamatan inderawi. Dalam worldview Islam, pengetahuan mengenai perkara gaib bersumber pada wahyu yang sahih.
+## Empat jenis pertanyaan
 
-TUMBUH tidak mengubah perkara gaib menjadi variabel empiris hanya agar dapat dimasukkan ke dalam sistem pengukuran.
-
-Sebaliknya, pengalaman subjektif atau kejadian yang belum dapat dijelaskan tidak otomatis dikategorikan sebagai bukti perkara gaib.
-
-## 5. Implikasi Epistemologis
-
-Pembedaan ontologis ini menjadi batas bagi epistemologi TUMBUH:
-
-| Jenis pertanyaan | Pendekatan utama |
+| Ketika kita bertanya... | Maka kita membutuhkan... |
 |---|---|
-| Apa yang terjadi secara empiris? | Observasi, pengukuran, dan evidence empiris yang sesuai |
+| Apa yang terjadi secara empiris? | Observasi dan evidence empiris yang sesuai |
 | Apa yang seharusnya dilakukan? | Landasan normatif dan penalaran yang sesuai |
 | Apa yang termasuk perkara gaib? | Wahyu yang sahih |
-| Apakah intervensi efektif? | Evidence dan evaluasi empiris |
+| Apakah suatu intervensi efektif? | Evidence dan evaluasi empiris |
 
-Pembahasan mengenai sumber, proses, validasi, dan integrasi pengetahuan ditempatkan pada `01_FOUNDATION/02 Epistemology`.
+Cara memperoleh, menilai, menguji, dan mengintegrasikan pengetahuan dibahas lebih lanjut dalam `01_FOUNDATION/02 Epistemology`.
 
-## 6. Implikasi terhadap Pendidikan
+## Apa artinya bagi pendidikan?
 
-Pendidikan TUMBUH mencakup dimensi yang dapat diamati seperti perilaku, kemampuan, performa, dan kondisi belajar, tetapi tidak menganggap bahwa seluruh tujuan pendidikan dapat direduksi menjadi angka.
+Pendidikan TUMBUH boleh menilai perilaku, kemampuan, performa, atau kondisi belajar ketika memang relevan dan dapat didefinisikan dengan baik.
 
-Orientasi spiritual dan moral tetap berada dalam worldview Islam. Namun, ketika suatu aspek hendak dijadikan **konstruk pengukuran**, diperlukan definisi konstruk, indikator, instrumen, dan validasi yang sesuai pada layer Assessment/Research.
+Namun tujuan pendidikan tidak otomatis menjadi identik dengan apa yang mudah dihitung. Orientasi spiritual dan moral tetap berada dalam worldview Islam.
 
-## 7. Boundary
+Ketika suatu aspek hendak dijadikan konstruk yang diukur, TUMBUH perlu berpindah dari bahasa worldview ke bahasa model dan assessment: definisi konstruk, indikator, instrumen, evidence, dan validasi.
 
-Dokumen ini tidak:
+## Batas pembahasan
 
-- merumuskan seluruh doktrin alam gaib;
-- menetapkan metodologi penelitian secara lengkap;
-- menganggap semua pengalaman subjektif sebagai evidence gaib;
-- mengklaim hubungan empiris tanpa penelitian;
-- menggantikan `02 Epistemology` atau `09_RESEARCH`.
+Dokumen ini tidak menyusun seluruh doktrin alam gaib dan tidak menggantikan epistemologi atau research.
 
-## 8. Downstream Implication
+Ia juga tidak memberi legitimasi pada klaim empiris tanpa evidence. Sebaliknya, keterbatasan pengukuran empiris tidak boleh dipakai sebagai bukti bahwa sesuatu pasti gaib.
 
-Pembedaan ini menjadi batas bagi:
+## Ke mana pembahasan bergerak?
 
-- desain konstruk pada `02_CORE_MODEL`;
-- evidence pada `04_ASSESSMENT`;
-- intervensi pada `05_INTERVENTION`;
-- evidence synthesis pada `08_SOURCES_AND_EVIDENCE`;
-- validasi dan penelitian pada `09_RESEARCH`.
+Pembedaan ini menjadi pagar bagi pengembangan **Core Model, Assessment, Sources & Evidence, dan Research**. Dengan pagar tersebut, TUMBUH dapat menjaga worldview tanpa mengorbankan disiplin keilmuan.
 
-## 9. Status Keilmuan
+**Status keilmuan:** posisi normatif-konseptual worldview; klaim empiris memperoleh statusnya melalui evidence dan validasi tersendiri.
 
-Pembedaan realitas gaib dan teramati merupakan posisi **normative/conceptual worldview**. Klaim empiris yang menggunakan fenomena teramati harus memperoleh status evidence secara terpisah.
-
-## 10. Lineage
-
-Dokumen ini merupakan rekonstruksi v2.0.0. Sumber normatif dan kajian yang mendukung formulasi worldview dicatat melalui `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`.
+**Lineage:** rekonstruksi canonical v2.0.0.
