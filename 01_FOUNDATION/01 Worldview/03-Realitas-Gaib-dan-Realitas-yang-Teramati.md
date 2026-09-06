@@ -7,7 +7,7 @@ Tidak semua yang nyata dapat diketahui dengan cara yang sama. Bagi TUMBUH, ini b
 
 ## Yang dapat diamati
 
-Sebagian realitas ciptaan dapat kita dekati melalui pengalaman, observasi, pengukuran, dokumentasi, dan penyelidikan ilmiah yang sesuai.
+Sebagian realitas ciptaan dapat kita dekati melalui pengalaman, observasi, pengukuran, dokumentasi, dan penyelidikan **empiris**, yaitu penyelidikan yang bertumpu pada pengalaman atau pengamatan terhadap kenyataan yang dapat diperiksa.
 
 Pendidikan banyak bekerja di wilayah ini. Perilaku, interaksi sosial, lingkungan belajar, kondisi fisik, proses pembelajaran, perubahan perilaku, dan outcome tertentu dapat menjadi objek penyelidikan.
 
@@ -15,7 +15,7 @@ Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Pen
 
 ## Yang tidak ditangkap oleh indera
 
-Dalam worldview Islam, perkara gaib memiliki kedudukan berbeda. Ia tidak ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih.
+Dalam worldview Islam, perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, memiliki kedudukan berbeda. Ia tidak ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih.
 
 Karena itu TUMBUH tidak perlu memaksa perkara gaib menjadi angka hanya agar dapat masuk ke sistem pengukuran.
 
@@ -27,7 +27,7 @@ Pembedaan sederhana ini penting agar TUMBUH tidak jatuh ke salah satu dari dua s
 
 Ada perbedaan antara bertanya **“apa yang terjadi?”**, **“apa yang seharusnya dilakukan?”**, dan **“apa yang termasuk perkara gaib?”**.
 
-Pertanyaan pertama membutuhkan penyelidikan terhadap kenyataan empiris. Pertanyaan kedua membutuhkan landasan normatif dan penalaran yang sesuai. Pertanyaan ketiga berada pada wilayah yang ditentukan oleh wahyu yang sahih.
+Pertanyaan pertama membutuhkan penyelidikan terhadap kenyataan empiris. Pertanyaan kedua membutuhkan landasan normatif dan penalaran yang sesuai. **Normatif** di sini berarti berkaitan dengan apa yang dinilai benar, baik, layak, atau seharusnya. Pertanyaan ketiga berada pada wilayah yang ditentukan oleh wahyu yang sahih.
 
 Lalu ada pertanyaan seperti **“apakah program ini efektif?”**. Pertanyaan semacam ini tidak selesai dengan keyakinan bahwa program tersebut baik. Ia membutuhkan evidence dan evaluasi.
 
@@ -39,7 +39,7 @@ Pendidikan TUMBUH boleh menilai perilaku, kemampuan, performa, dan kondisi belaj
 
 Tetapi apa yang mudah diukur tidak otomatis menjadi seluruh tujuan pendidikan. Nilai, amanah, orientasi moral, dan hubungan manusia dengan Allah tidak boleh dianggap hilang hanya karena tidak semuanya dapat direduksi menjadi skor.
 
-Sebaliknya, ketika TUMBUH ingin mengatakan bahwa suatu intervensi memperbaiki perilaku atau meningkatkan outcome tertentu, bahasa worldview saja tidak cukup. Kita harus berpindah ke bahasa **konstruk, evidence, assessment, dan research**.
+Sebaliknya, ketika TUMBUH ingin mengatakan bahwa suatu intervensi memperbaiki perilaku atau meningkatkan outcome tertentu, bahasa worldview saja tidak cukup. Kita harus berpindah ke bahasa konstruk, evidence, assessment, dan research.
 
 Dengan batas ini, TUMBUH dapat mempertahankan worldview Islam tanpa kehilangan disiplin ketika berhadapan dengan kenyataan yang dapat diteliti.
 
