@@ -3,40 +3,46 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Setelah berbicara tentang realitas dan hubungan Khaliq–makhluk, pertanyaan TUMBUH menjadi lebih dekat dengan dirinya sendiri: **siapa manusia yang hendak dikembangkan?**
+Setelah membahas Allah dan ciptaan, pertanyaan berikutnya sederhana:
 
-TUMBUH memandang manusia sebagai makhluk Allah yang memiliki martabat, kemampuan, keterbatasan, pilihan, ikhtiar, dan tanggung jawab.
+> **Kalau manusia adalah makhluk Allah, lalu siapa manusia yang hendak dikembangkan?**
 
-## Manusia bukan benda yang diproduksi
+TUMBUH memandang manusia sebagai makhluk yang memiliki martabat, kemampuan, keterbatasan, pilihan, dan tanggung jawab.
 
-Manusia bukan benda pasif yang cukup dibentuk dari luar. Ia dapat belajar, memilih, bertindak, membangun relasi, dan memperbaiki diri.
+## Manusia bukan benda yang tinggal dibentuk
 
-Namun manusia juga bukan makhluk yang berdaulat mutlak atas dirinya. Ia hidup dalam keterbatasan, konteks, relasi, dan pertanggungjawaban kepada Allah.
+Manusia bisa belajar. Ia bisa memilih. Ia bisa berubah. Ia juga bisa ikut mengambil keputusan tentang apa yang akan ia lakukan.
 
-Dua sisi ini perlu dijaga sekaligus. Jika hanya melihat keterbatasan, pendidikan mudah berubah menjadi kontrol. Jika hanya melihat kebebasan, pendidikan mudah kehilangan arah dan tanggung jawab.
+Karena itu santri tidak tepat diperlakukan seperti benda yang tinggal dibentuk oleh orang dewasa. Pendidikan memang memberi arah dan aturan, tetapi manusia yang dididik tetap memiliki peran dalam proses pertumbuhannya.
 
-Karena itu TUMBUH menempatkan manusia sebagai **subjek yang berkembang**, yaitu manusia yang menjadi pelaku dalam proses belajarnya dan tidak diperlakukan hanya sebagai objek yang dibentuk oleh sistem.
+Di sisi lain, manusia juga bukan makhluk yang bebas tanpa batas. Ia hidup dalam keterbatasan, membutuhkan orang lain, dipengaruhi keadaan, dan bertanggung jawab kepada Allah.
 
-## Apa yang melekat pada manusia?
+Dua hal ini harus dijaga bersama: **manusia punya kemampuan untuk bertindak, tetapi ia juga punya batas dan tanggung jawab.**
 
-Ada beberapa kenyataan yang tidak boleh hilang ketika TUMBUH kelak membangun model yang lebih teknis.
+## Beberapa hal yang perlu kita ingat tentang manusia
 
-Manusia memiliki **martabat**, yaitu nilai dan kehormatan yang melekat pada dirinya sebagai manusia, sehingga ia tidak boleh diperlakukan sekadar sebagai alat atau angka. Ia memiliki **kapasitas**, yaitu kemampuan yang dapat digunakan dan dikembangkan, sehingga pertumbuhan mungkin terjadi. Ia juga memiliki **keterbatasan**, sehingga perkembangan tidak dapat dipaksakan dengan cara yang sama pada setiap orang.
+**Martabat** berarti manusia memiliki nilai dan kehormatan sebagai manusia. Karena itu ia tidak boleh diperlakukan hanya sebagai angka, alat, atau objek hukuman.
 
-Ia memiliki **agency**, yaitu kemampuan untuk mengambil pilihan dan bertindak sebagai pelaku, serta ikhtiar, yaitu usaha sadar yang dilakukan untuk mencapai atau memperbaiki sesuatu. Pilihan tersebut hadir bersama **tanggung jawab**. Dan ia selalu hidup secara **relasional**, yaitu dalam hubungan dengan Allah, manusia lain, dan lingkungan.
+**Kapasitas** berarti manusia memiliki kemampuan yang bisa digunakan dan dikembangkan. Kemampuan itu tidak selalu sama pada setiap orang dan tidak selalu berkembang dengan kecepatan yang sama.
 
-Ini belum merupakan daftar konstruk final. TUMBUH belum sedang memberi nama pada seluruh kapasitas manusia. Kita baru sedang menetapkan cara memandang manusia sebelum model itu dibangun.
+**Agency** berarti kemampuan seseorang untuk memilih dan mengambil tindakan sebagai pelaku atas apa yang ia lakukan. Agency tidak berarti bebas dari aturan atau akibat. Pilihan tetap membawa tanggung jawab.
 
-## Apa yang berubah ketika manusia dipandang seperti ini?
+**Ikhtiar** berarti usaha sadar yang dilakukan seseorang untuk mencapai atau memperbaiki sesuatu. Manusia dituntut berikhtiar, meskipun hasil akhirnya tidak selalu berada sepenuhnya dalam kendalinya.
 
-Peserta didik tidak lagi cukup dipahami sebagai penerima materi, angka dalam laporan, atau objek yang harus patuh.
+Manusia juga bersifat **relasional**, yaitu hidup dalam hubungan dengan Allah, dengan manusia lain, dan dengan lingkungannya. Perkembangan seseorang karena itu tidak terjadi di ruang kosong.
 
-Ia adalah manusia yang sedang berkembang dan dapat mengambil bagian dalam pertumbuhannya sendiri. Karena itu, pendidikan perlu memberi ruang untuk mencoba, mengalami, menerima umpan balik, mengambil tanggung jawab, memperbaiki kesalahan, dan berkembang sesuai tahap serta konteks.
+Ini belum menjadi daftar kemampuan resmi TUMBUH. Kita sedang menentukan cara memandang manusia. Daftar kapasitas yang perlu dikembangkan baru akan dirumuskan setelahnya.
 
-Martabat manusia sekaligus menjadi batas penggunaan kekuasaan. Pendidik, musyrif, pimpinan, dan pihak lain yang menerima kewenangan pendidikan memikul amanah. Kewenangan tersebut tidak menjadi legitimasi untuk penghinaan, manipulasi, kekerasan, atau perlakuan yang merendahkan manusia.
+## Apa akibatnya bagi pendidikan?
 
-Pemahaman tentang manusia ini juga membuat TUMBUH perlu berhati-hati ketika memakai teori ilmiah. Teori tentang kognisi, emosi, motivasi, perilaku, atau perkembangan dapat membantu menjelaskan aspek tertentu dari manusia, tetapi tidak otomatis menjadi keseluruhan pandangan TUMBUH tentang manusia.
+Kalau santri dipandang sebagai manusia yang sedang berkembang, maka pendidikan tidak cukup hanya menyampaikan materi atau menuntut kepatuhan.
 
-Pembahasan ilmiah tentang bagaimana manusia berkembang akan diteruskan dalam **Human Development**. Pertanyaan tentang manusia seperti apa yang hendak dibentuk secara sistematis baru akan masuk ke **Graduate Profile** dan **Capacity Architecture**.
+Santri perlu mendapat kesempatan untuk mencoba, mengalami akibat dari pilihannya, menerima masukan, memperbaiki kesalahan, mengambil tanggung jawab, dan belajar dari pengalaman.
 
-Dan dari sini muncul pertanyaan yang lebih jauh: **manusia hidup untuk apa?** Sebab mengetahui siapa manusia belum cukup jika kita belum mengetahui arah kehidupan yang hendak dijalani.
+Pandangan ini juga memberi batas bagi orang dewasa. Guru, musyrif, pimpinan, dan siapa pun yang mendapat kewenangan tidak boleh menggunakan jabatan untuk merendahkan, mempermalukan, memanipulasi, atau menyakiti santri.
+
+Kewenangan pendidikan adalah amanah. Ia dipakai untuk membantu manusia berkembang, bukan untuk membuat manusia tunduk demi kepentingan pribadi orang yang berkuasa.
+
+TUMBUH juga tidak boleh mengambil satu teori tentang manusia lalu menganggap teori itu sudah menjelaskan manusia secara utuh. Penelitian tentang pikiran, emosi, motivasi, perilaku, dan perkembangan dapat membantu kita memahami bagian-bagian tertentu dari manusia. Tetapi cara TUMBUH memandang manusia lebih luas daripada satu teori ilmiah.
+
+Dari sini pertanyaannya berubah: **kalau kita sudah tahu siapa manusia, lalu manusia hidup untuk apa?** Mengetahui manusia saja belum cukup. Kita juga perlu mengetahui arah hidupnya.
