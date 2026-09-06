@@ -1,79 +1,80 @@
 # 02 — Allah sebagai Al-Khaliq dan Relasi Khaliq–Makhluk
 
-**Status:** DESIGNED — Foundation baseline v2.0.0  
-**Epistemic class:** NORMATIVE / CONCEPTUAL  
+**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
+**Classification:** FOUNDATION / WORLDVIEW / NORMATIVE-CONCEPTUAL  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-## Tujuan
+## 1. Purpose
 
-Menetapkan posisi dasar TUMBUH mengenai Allah sebagai Pencipta dan hubungan antara **Khaliq** dan **makhluk** sebagai orientasi worldview. Bahasan ini menjadi batas normatif bagi cara TUMBUH memahami manusia, pendidikan, kepemimpinan, perubahan, dan penggunaan ilmu.
+Dokumen ini menetapkan posisi TUMBUH mengenai Allah sebagai **Al-Khaliq** dan hubungan Khaliq–makhluk sebagai orientasi dasar dalam memahami manusia, pendidikan, kepemimpinan, dan perubahan.
 
-## Posisi Kanonik
+## 2. Core Position
 
-TUMBUH berangkat dari keyakinan tauhid bahwa **Allah adalah Al-Khaliq**, sedangkan seluruh selain-Nya adalah makhluk. Karena itu manusia, alam, kehidupan, kemampuan, ilmu, dan lembaga pendidikan tidak ditempatkan sebagai pusat realitas yang berdiri sendiri.
+TUMBUH berangkat dari keyakinan tauhid bahwa **Allah adalah Al-Khaliq**, sedangkan manusia, alam, kehidupan, kemampuan, ilmu, dan lembaga pendidikan merupakan bagian dari ciptaan.
 
-Relasi Khaliq–makhluk berarti manusia memiliki kedudukan sebagai makhluk yang menerima amanah dan memiliki tanggung jawab, bukan sebagai penguasa mutlak atas dirinya maupun orang lain.
+Manusia karena itu memiliki kedudukan yang mulia sebagai makhluk, tetapi tidak menjadi pusat realitas yang berdiri sendiri dan tidak memiliki kedaulatan mutlak atas dirinya maupun orang lain.
 
-## Implikasi terhadap Pandangan tentang Manusia
+Relasi Khaliq–makhluk menempatkan manusia sebagai makhluk yang memiliki kemampuan untuk memilih dan berikhtiar sekaligus memikul amanah dan tanggung jawab.
 
-Posisi ini menghasilkan beberapa batas penting:
+## 3. Implikasi terhadap Manusia
 
-1. **Martabat manusia tidak berarti manusia bersifat ilahiah.** Kemuliaan manusia tetap berada dalam statusnya sebagai makhluk.
-2. **Kemampuan manusia bersifat terbatas.** Pengetahuan, kekuasaan, dan kemampuan mengubah keadaan tidak menjadikan manusia berdaulat tanpa batas.
-3. **Manusia memiliki tanggung jawab moral.** Pilihan dan tindakan manusia memiliki konsekuensi yang harus dipertanggungjawabkan.
-4. **Manusia bukan objek kepemilikan pendidik.** Amanah mendidik tidak memberi hak untuk merendahkan, menyakiti, atau menyalahgunakan peserta didik.
-5. **Pendidikan tidak menggantikan petunjuk Allah.** Pendidikan berfungsi membantu manusia belajar, bertumbuh, menjalankan amanah, dan menggunakan kemampuan yang diberikan kepadanya.
+Posisi ini memberi beberapa batas penting:
 
-## Implikasi terhadap Pendidikan TUMBUH
+1. **Martabat tidak sama dengan ketuhanan.** Kemuliaan manusia tidak mengubah statusnya sebagai makhluk.
+2. **Kemampuan manusia terbatas.** Ilmu, kekuasaan, dan kemampuan mengubah keadaan tidak menjadikan manusia berdaulat tanpa batas.
+3. **Manusia bertanggung jawab.** Pilihan dan tindakan manusia memiliki dimensi moral dan pertanggungjawaban.
+4. **Pendidik bukan pemilik peserta didik.** Amanah mendidik tidak memberikan legitimasi untuk merendahkan, menyakiti, memanipulasi, atau menyalahgunakan kekuasaan.
+5. **Pendidikan bukan pengganti petunjuk Allah.** Pendidikan membantu manusia belajar, bertumbuh, menggunakan kemampuan, dan menjalankan amanah.
 
-Worldview ini mengarahkan pendidikan agar tidak berhenti pada pencapaian duniawi, performa akademik, kepatuhan administratif, atau kontrol perilaku. Tujuan pendidikan harus dibaca dalam hubungan dengan tujuan hidup manusia sebagai makhluk yang bertanggung jawab kepada Allah.
+## 4. Implikasi terhadap Pendidikan
 
-Dengan demikian, pengembangan kapasitas dalam TUMBUH diposisikan sebagai sarana pembentukan manusia yang mampu menggunakan ilmu, kemampuan, dan kebebasannya secara bertanggung jawab.
+Pendidikan tidak dipandang semata-mata sebagai produksi prestasi, kepatuhan, atau performa. Pendidikan diarahkan untuk membantu manusia menggunakan ilmu dan kemampuan dalam orientasi yang benar serta menjalankan tanggung jawabnya.
 
-## Implikasi terhadap Kepemimpinan
+Karena itu, pengembangan kapasitas tidak cukup dinilai dari **apa yang mampu dilakukan**, tetapi juga perlu mempertimbangkan **arah penggunaan kemampuan, cara penggunaannya, dan tanggung jawab atas penggunaannya**.
 
-Kepemimpinan dipahami sebagai **amanah**, bukan kepemilikan atas manusia. Pemimpin memiliki kewenangan yang terbatas oleh tujuan, nilai, hukum, keselamatan, dan akuntabilitas.
+## 5. Implikasi terhadap Kepemimpinan
 
-Karena itu, struktur senioritas atau jabatan tidak dapat menjadi pembenaran bagi penghinaan, intimidasi, manipulasi, atau penyalahgunaan kekuasaan.
+Kepemimpinan dipahami sebagai **amanah**, bukan kepemilikan atas manusia. Jabatan memberikan kewenangan yang memiliki tujuan, batas, dan akuntabilitas.
 
-## Implikasi terhadap Perubahan
+Senioritas, status, atau kedudukan tidak dapat menjadi pembenaran untuk penghinaan, intimidasi, manipulasi, kekerasan, atau penyalahgunaan kekuasaan.
 
-Manusia berikhtiar melakukan perubahan, tetapi tidak diposisikan sebagai pengendali mutlak seluruh hasil. TUMBUH karena itu membedakan antara:
+## 6. Implikasi terhadap Perubahan
 
-- **ikhtiar manusia** — tindakan yang direncanakan dan dilakukan;
-- **kondisi dan sebab** — faktor yang memengaruhi proses;
-- **hasil** — keadaan yang tidak selalu sepenuhnya berada dalam kendali manusia.
+Manusia melakukan ikhtiar untuk memperbaiki diri, orang lain, dan sistem. Namun manusia tidak diposisikan sebagai pengendali mutlak seluruh hasil.
 
-Pembedaan ini tidak boleh digunakan untuk meniadakan usaha, tanggung jawab, evaluasi, atau perbaikan sistem.
+TUMBUH karena itu membedakan antara tindakan yang diupayakan manusia, kondisi yang memengaruhi proses, dan hasil yang muncul. Pembedaan tersebut tidak menghapus kewajiban untuk merencanakan, melaksanakan, mengevaluasi, dan memperbaiki ikhtiar.
 
-## Hubungan dengan Sebab–Akibat
+## 7. Hubungan dengan Sebab–Akibat
 
-TUMBUH dapat menggunakan penalaran sebab–akibat dalam desain dan penelitian tanpa menyamakan sebab empiris dengan kemandirian mutlak dari kehendak Allah. Pembahasan rinci mengenai kausalitas dan hukum keteraturan alam ditempatkan pada bahasan worldview yang sesuai serta pada Epistemology/Research ketika menjadi klaim empiris.
+TUMBUH dapat menggunakan penalaran sebab–akibat dalam memahami dan memperbaiki pendidikan. Pengakuan terhadap keteraturan sebab–akibat tidak berarti bahwa sebab empiris dipahami sebagai kekuatan yang berdiri sendiri dari Allah.
 
-## Boundary
+Sebaliknya, keyakinan kepada Allah dan tawakal tidak menjadi alasan untuk mengabaikan sebab yang relevan, evidence, keselamatan, atau tanggung jawab profesional.
 
-Dokumen ini **tidak**:
+## 8. Boundary
 
-- menetapkan seluruh doktrin teologi secara komprehensif;
-- menggantikan kajian aqidah atau ilmu kalam;
-- menetapkan instrumen pengukuran religiusitas;
-- membuktikan efektivitas metode pendidikan tertentu;
-- menjadi dasar untuk membuat klaim empiris tanpa evidence.
+Dokumen ini tidak:
 
-## Status Keilmuan
+- menjadi kajian teologi atau ilmu kalam yang komprehensif;
+- menetapkan konstruk assessment;
+- menentukan progression level;
+- menetapkan intervensi tertentu;
+- membuktikan efektivitas metode pendidikan;
+- mengubah pernyataan normatif menjadi klaim empiris.
 
-Pernyataan utama dokumen ini merupakan **orientasi normatif worldview**. Implikasi desain terhadap TUMBUH merupakan keputusan konseptual sistem. Klaim empiris yang mungkin diturunkan dari worldview ini harus dinyatakan dan diuji secara terpisah.
+## 9. Downstream Implication
 
-## Downstream Implication
+Posisi ini menjadi landasan bagi:
 
-Bahasan ini menjadi landasan bagi:
+- `01_FOUNDATION/03 Human Nature/`;
+- `01_FOUNDATION/05 Education/`;
+- `01_FOUNDATION/06 Leadership/`;
+- `01_FOUNDATION/07 Change/`;
+- `02_CORE_MODEL/01 Graduate Profile/`.
 
-- `03 Human Nature` — posisi manusia sebagai makhluk bermartabat dan bertanggung jawab;
-- `05 Education` — tujuan dan batas pendidikan;
-- `06 Leadership` — amanah dan batas kewenangan;
-- `07 Change` — ikhtiar, keterbatasan, dan tanggung jawab;
-- `02_CORE_MODEL` — perumusan graduate profile dan capacity architecture.
+## 10. Status Keilmuan
 
-## Lineage
+Pernyataan utama merupakan orientasi **normative/conceptual**. Jika terdapat klaim empiris yang diturunkan dari implikasinya, klaim tersebut harus memiliki evidence dan jalur validasi tersendiri.
 
-Dokumen ini merupakan rekonstruksi canonical v2.0.0 dari orientasi worldview Islam yang digunakan TUMBUH. Ia tidak dimaksudkan sebagai salinan satu dokumen legacy tertentu. Sumber normatif spesifik dan kajian turats yang menjadi dasar formulasi perlu dicatat kemudian dalam `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources` dan `06 Evidence Registry` sesuai tingkat klaimnya.
+## 11. Lineage
+
+Dokumen ini adalah rekonstruksi canonical v2.0.0 dan tidak merupakan salinan otomatis dari dokumen legacy. Sumber normatif spesifik perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`.
