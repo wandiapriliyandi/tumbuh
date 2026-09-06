@@ -9,7 +9,7 @@ Jawaban atas pertanyaan ini penting karena cara kita memahami kenyataan akan men
 
 ## Realitas dan Pencipta
 
-TUMBUH berangkat dari worldview Islam: **Allah adalah Al-Khaliq**, sedangkan segala sesuatu selain-Nya adalah makhluk.
+TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang realitas dan kehidupan yang menjadi arah bagi cara kita memahami manusia, nilai, dan pendidikan. Dalam worldview Islam, **Allah adalah Al-Khaliq**, yaitu Pencipta, sedangkan segala sesuatu selain-Nya adalah makhluk, yaitu ciptaan-Nya.
 
 Karena itu, realitas tidak dipahami sebagai sesuatu yang berdiri sendiri tanpa Pencipta. Dunia yang kita alami memiliki keteraturan, keterbatasan, dan hubungan sebab-akibat yang dapat dipelajari. Manusia pun berada di dalam realitas tersebut, bukan berada di luar atau di atasnya.
 
@@ -19,17 +19,17 @@ Tubuh manusia, perilaku, keluarga, masyarakat, lembaga, proses belajar, lingkung
 
 Tidak semua yang nyata harus dapat ditangkap oleh indera.
 
-Dalam worldview Islam, terdapat perkara gaib yang tidak dapat ditetapkan hanya melalui pengamatan empiris dan diketahui melalui wahyu yang sahih. Pada saat yang sama, keterbatasan pengamatan empiris tidak boleh digunakan untuk menyimpulkan bahwa sesuatu pasti gaib.
+Dalam worldview Islam, terdapat perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, yang diketahui melalui wahyu yang sahih. Pada saat yang sama, keterbatasan pengamatan empiris tidak boleh digunakan untuk menyimpulkan bahwa sesuatu pasti gaib.
 
 Pembedaan ini menjaga TUMBUH dari dua kesalahan yang berlawanan: menyempitkan realitas hanya pada apa yang dapat diukur, atau memakai bahasa agama untuk menjawab pertanyaan yang sebenarnya membutuhkan penyelidikan terhadap kenyataan empiris.
 
-Dengan kata lain, **cara mengetahui harus mengikuti jenis pertanyaan yang sedang diajukan**. Apa yang harus diterima melalui wahyu tidak dipaksa menjadi variabel pengukuran. Sebaliknya, ketika TUMBUH membuat klaim tentang perilaku, kondisi belajar, atau efektivitas intervensi, klaim tersebut tetap harus berhadapan dengan evidence.
+Dengan kata lain, **cara mengetahui harus mengikuti jenis pertanyaan yang sedang diajukan**. Apa yang harus diterima melalui wahyu tidak dipaksa menjadi variabel pengukuran. Sebaliknya, ketika TUMBUH membuat klaim tentang perilaku, kondisi belajar, atau efektivitas intervensi, klaim tersebut tetap harus berhadapan dengan **evidence**, yaitu bukti atau informasi yang dapat digunakan untuk mendukung suatu klaim.
 
-Pembahasan tentang bagaimana pengetahuan diperoleh dan diuji akan bergerak ke **Epistemology**. Di sini kita cukup menetapkan pandangan tentang realitas yang menjadi titik berangkatnya.
+Pembahasan tentang bagaimana pengetahuan diperoleh dan diuji akan bergerak ke **Epistemology**, yaitu kajian tentang bagaimana pengetahuan diperoleh, dinilai, diuji, dan dibenarkan. Di sini kita cukup menetapkan pandangan tentang realitas yang menjadi titik berangkatnya.
 
 ## Sebab, Ikhtiar, dan Hasil
 
-Dunia ciptaan bukan dunia yang acak. Manusia dapat mengenali pola, memperhatikan sebab, belajar dari pengalaman, dan melakukan ikhtiar untuk mengubah keadaan.
+Dunia ciptaan bukan dunia yang acak. Manusia dapat mengenali pola, memperhatikan sebab, belajar dari pengalaman, dan melakukan **ikhtiar**, yaitu usaha sadar yang dipilih dan dilakukan manusia untuk mencapai atau memperbaiki sesuatu.
 
 Namun, kemampuan untuk berikhtiar tidak sama dengan kemampuan mengendalikan seluruh hasil.
 
@@ -52,4 +52,3 @@ Namun pendidikan juga tidak selesai ketika semua hal yang dapat diukur sudah ter
 Di sinilah TUMBUH mulai memperoleh arah: **pendidikan harus cukup dekat dengan kenyataan untuk tidak hidup dalam angan-angan, tetapi cukup luas dalam memahami manusia sehingga tidak mereduksinya menjadi data.**
 
 Pertanyaan berikutnya menjadi lebih dekat dengan pusat sistem: **jika seluruh realitas adalah ciptaan Allah, lalu bagaimana manusia harus memahami kedudukannya di dalam realitas itu?**
-
