@@ -1,73 +1,89 @@
 # P1-01-01-01 — Definisi Realitas
 
-**Legacy lineage:** `01 Philosophy/01 Worldview/01 Hakikat Realitas/P1-01-01-01-Definisi-Realitas.md`
-
-**v2 classification:** FOUNDATION / WORLDVIEW / ONTOLOGY
-
-**Status:** REWRITTEN — Wave 1
+**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
+**Classification:** FOUNDATION / WORLDVIEW / ONTOLOGY  
+**Layer:** `01_FOUNDATION/01 Worldview`
 
 ## 1. Purpose
 
-Dokumen ini merumuskan posisi ontologis yang menjadi fondasi TUMBUH. Ia menjelaskan bagaimana TUMBUH memahami realitas sebelum konsep tersebut diterjemahkan menjadi model kapasitas, progression, assessment, intervention, atau program.
+Dokumen ini menetapkan posisi ontologis dasar TUMBUH: bagaimana realitas dipahami sebelum diterjemahkan menjadi model kapasitas, progression, assessment, intervention, implementation, atau programs.
 
-## 2. Core formulation
+## 2. Core Formulation
 
-TUMBUH berangkat dari worldview Islam yang mengakui Allah sebagai Al-Khaliq dan membedakan antara Sang Pencipta dan seluruh ciptaan. Realitas ciptaan mencakup ranah yang dapat diketahui melalui pengalaman dan pengamatan serta perkara gaib yang sumber pengetahuannya berasal dari wahyu yang sahih.
+TUMBUH berangkat dari worldview Islam yang mengakui **Allah sebagai Al-Khaliq** dan seluruh selain-Nya sebagai makhluk. Realitas karena itu tidak dipahami sebagai sesuatu yang berdiri tanpa Pencipta dan tanpa tatanan.
 
-Karena itu, TUMBUH menolak reduksi manusia dan pendidikan hanya menjadi fenomena material, sekaligus menolak penggunaan klaim spiritual untuk mengabaikan hukum sebab-akibat, kesehatan, keselamatan, dan kebutuhan nyata manusia.
+Realitas ciptaan mencakup fenomena yang dapat dialami dan dikaji melalui pengamatan, sekaligus perkara gaib yang tidak dapat ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih.
 
-## 3. Ontological boundary
+TUMBUH menolak dua reduksi sekaligus:
 
-### A. Allah sebagai Al-Khaliq
-Allah adalah Pencipta dan bukan bagian dari alam ciptaan. Ketuhanan merupakan fondasi normatif worldview TUMBUH.
+1. mereduksi realitas hanya menjadi apa yang dapat diukur secara empiris; dan
+2. menggunakan klaim spiritual atau keagamaan untuk menggantikan evidence ketika pertanyaannya bersifat empiris.
 
-### B. Realitas yang dapat diamati
-Tubuh manusia, lingkungan, perilaku, interaksi sosial, dan berbagai proses pendidikan merupakan bagian dari realitas ciptaan yang dapat dikaji melalui pengalaman, observasi, dan metode ilmiah yang sesuai.
+## 3. Struktur Ontologis Dasar
 
-### C. Realitas gaib
-Perkara seperti malaikat, akhirat, pahala, dosa, dan hal gaib lainnya diterima berdasarkan sumber wahyu yang sahih. Klaim tentang perkara gaib tidak diperlakukan sebagai temuan empiris.
+### 3.1 Allah sebagai Al-Khaliq
 
-## 4. Kausalitas dan ikhtiar
+Allah adalah Pencipta dan tidak diposisikan sebagai bagian dari alam ciptaan. Ketuhanan menjadi fondasi normatif worldview TUMBUH.
 
-TUMBUH memandang keteraturan sebab-akibat di alam sebagai bagian dari sunnatullah. Pengakuan terhadap tawakal tidak menjadi alasan untuk meninggalkan ikhtiar yang relevan. Sebaliknya, keberhasilan empiris tidak boleh diperlakukan sebagai pengganti nilai, wahyu, atau tujuan akhir pendidikan Islam.
+### 3.2 Ciptaan
 
-Implikasinya: kesehatan lingkungan, tidur, keamanan, relasi sosial, dan kualitas pembelajaran harus ditangani sebagai persoalan nyata; sementara makna ibadah, niat, tanggung jawab moral, dan orientasi akhirat tetap berada dalam kerangka normatif Islam.
+Manusia, tubuh, lingkungan, masyarakat, lembaga, perilaku, proses belajar, dan perubahan pendidikan berada dalam ranah ciptaan. Karena itu fenomena-fenomena tersebut dapat menjadi objek pengalaman, pengamatan, dan penyelidikan dengan metode yang sesuai.
 
-## 5. Epistemic caution
+### 3.3 Realitas Gaib
 
-Dokumen legacy memuat sejumlah formulasi kuat seperti "membuktikan", "konsensus sains", hubungan langsung antara kondisi fisik dan keadaan metafisik, serta angka-angka operasional. Dalam v2 formulasi tersebut **tidak otomatis menjadi klaim empiris canonical**. Klaim empiris harus ditelusuri ke Evidence Registry/Research dan diberi status validasi yang sesuai.
+Perkara gaib diterima berdasarkan wahyu yang sahih. Perkara tersebut tidak diperlakukan seolah-olah merupakan variabel empiris yang dapat diukur dengan instrumen biasa.
 
-Contoh yang memerlukan verifikasi terpisah:
-- klaim neurobiologis spesifik;
-- klaim kausal tentang sanitasi, tidur, stres, dan perilaku;
-- rasio penguatan perilaku tertentu;
-- angka standar lingkungan atau jam istirahat;
-- klaim efektivitas PBIS/restoratif dalam konteks pesantren.
+## 4. Kausalitas dan Ikhtiar
 
-## 6. Boundary with other TUMBUH layers
+TUMBUH mengakui adanya keteraturan dan hubungan sebab-akibat dalam kehidupan ciptaan. Manusia diperintahkan untuk berikhtiar dan tidak menjadikan tawakal sebagai alasan untuk mengabaikan sebab yang relevan.
 
-| Pertanyaan | Layer canonical |
-|---|---|
-| Apa realitas dan worldview TUMBUH? | Foundation / Worldview |
-| Bagaimana pengetahuan dinilai? | Foundation / Epistemology |
-| Apa kapasitas manusia yang dikembangkan? | Core Model |
-| Bagaimana pertumbuhan berlangsung? | Progression |
-| Bagaimana pertumbuhan diukur? | Assessment |
-| Apa intervensi yang dipilih? | Intervention |
-| Bagaimana sistem dijalankan? | Implementation |
-| Apa program konkretnya? | Programs |
-| Apa bukti yang mendukung klaim? | Sources & Evidence / Research |
+Pada saat yang sama, keberhasilan empiris tidak diperlakukan sebagai bukti bahwa manusia memiliki kendali mutlak atas seluruh hasil. TUMBUH membedakan:
 
-## 7. Source note
+- **ikhtiar** — tindakan yang dapat direncanakan dan dilakukan;
+- **kondisi dan faktor** — keadaan yang memengaruhi proses;
+- **hasil** — keadaan akhir yang tidak selalu sepenuhnya berada dalam kendali manusia.
 
-Sumber legacy tetap dipertahankan pada jalur v1.x/v1-legacy. Dokumen v2 ini merupakan hasil rekonstruksi arsitektural, bukan pernyataan bahwa seluruh isi monograf legacy telah tervalidasi secara empiris.
+Pembedaan ini merupakan batas konseptual, bukan alasan untuk mengurangi tanggung jawab terhadap kualitas tindakan.
 
-## 8. Related canonical documents
+## 5. Implikasi bagi Pendidikan
 
-- `01_FOUNDATION/02 Epistemology/`
-- `01_FOUNDATION/03 Human Nature/`
-- `01_FOUNDATION/04 Human Development/`
-- `01_FOUNDATION/08 Core Principles/`
-- `01_FOUNDATION/09 Design Principles/`
-- `08_SOURCES_AND_EVIDENCE/`
-- `09_RESEARCH/`
+Jika manusia dan proses pendidikan merupakan bagian dari realitas ciptaan, maka kondisi nyata pendidikan harus ditangani secara nyata. Lingkungan, keamanan, kesehatan, relasi sosial, proses belajar, tidur, beban aktivitas, dan kualitas pengajaran tidak boleh diabaikan dengan alasan spiritual.
+
+Sebaliknya, pendidikan juga tidak direduksi menjadi pengelolaan perilaku atau performa karena manusia dipahami memiliki tujuan dan tanggung jawab yang melampaui aspek material.
+
+## 6. Epistemic Boundary
+
+Definisi realitas tidak dengan sendirinya menetapkan metode penelitian. Pertanyaan tentang **bagaimana mengetahui** dibahas pada `01_FOUNDATION/02 Epistemology`.
+
+Klaim empiris seperti hubungan antara kondisi fisik, perilaku, stres, tidur, lingkungan, atau intervensi tertentu tidak menjadi canonical hanya karena konsisten dengan worldview. Klaim tersebut memerlukan evidence dan validasi tersendiri.
+
+## 7. Boundary
+
+Dokumen ini tidak:
+
+- merumuskan doktrin teologi secara lengkap;
+- menetapkan daftar konstruk manusia;
+- menetapkan progression atau level perkembangan;
+- menetapkan assessment instrument;
+- menetapkan intervention protocol;
+- membuktikan efektivitas program atau metode pendidikan.
+
+## 8. Downstream Implication
+
+Definisi ini menjadi dasar konseptual untuk:
+
+- `01_FOUNDATION/02 Epistemology/`;
+- `01_FOUNDATION/03 Human Nature/`;
+- `01_FOUNDATION/04 Human Development/`;
+- `01_FOUNDATION/05 Education/`;
+- `01_FOUNDATION/06 Leadership/`;
+- `01_FOUNDATION/07 Change/`;
+- `02_CORE_MODEL/`.
+
+## 9. Status Keilmuan
+
+Pernyataan ontologis dalam dokumen ini merupakan **normative/conceptual position** TUMBUH. Setiap klaim empiris yang muncul sebagai konsekuensi desain harus dinyatakan secara terpisah dan ditelusurkan ke evidence atau research yang relevan.
+
+## 10. Lineage
+
+Dokumen ini merupakan rekonstruksi v2.0.0. Dokumen legacy digunakan sebagai lineage dan bahan kajian, bukan sebagai bukti otomatis bahwa seluruh formulasi lama telah tervalidasi.
