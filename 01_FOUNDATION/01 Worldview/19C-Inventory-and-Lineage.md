@@ -1,165 +1,86 @@
-# Batch 19C — File-Level Inventory: 01 Philosophy → Worldview
+# Worldview — Inventory and Lineage
 
-**Status:** INVENTORY LOCKED — v2.0.0
-**Priority:** P0
-**Action:** Inventory / classification baseline; no legacy deletion
+**Status:** MIGRATION RECORD — TUMBUH v2.0.0  
+**Function:** inventory, classification, and lineage  
+**Layer:** `01_FOUNDATION/01 Worldview`
 
-## Purpose
+## 1. Purpose
 
-Batch 19C memecah `01 Philosophy` berdasarkan fungsi. Philosophy bukan blok tunggal dan bukan tempat menampung seluruh sistem.
+Dokumen ini mencatat asal-usul dan batas migrasi materi worldview dari struktur legacy menuju TUMBUH v2.0.0.
 
-## Classification
+Dokumen ini **bukan sumber normatif utama** dan bukan bagian dari formulasi worldview substantif. Fungsinya adalah menjaga keterlacakan perubahan arsitektur.
 
-### WORLDVIEW
+## 2. Legacy Lineage
 
-**Legacy:** `01 Philosophy/01 Worldview`
-
-**Action:** MOVE + REFACTOR → `01_FOUNDATION/01 Worldview`
-
-**Function:** menjawab apa realitas, pengetahuan, manusia, tujuan, nilai, dan implikasi worldview terhadap pendidikan.
-
-**Boundary:** tidak memasukkan rubric, assessment, intervention protocol, staffing ratio, program, atau outcome claim sebagai bagian worldview.
-
-**Conceptual structure:**
-
-- Reality
-- Knowledge
-- Human
-- Purpose
-- Value
-- Implication for Education
-
-### EPISTEMOLOGY
-
-**Legacy:** `01 Philosophy/01 Worldview/02 Epistemologi TUMBUH`
-
-**Action:** MOVE + REFACTOR → `01_FOUNDATION/02 Epistemology`
-
-**Function:** SUMBER → PROSES → VALIDASI → INTEGRASI → BATAS → PRAKSIS.
-
-**Epistemic boundary:** Islamic/Turats, Scientific, dan Local/Practice Evidence memiliki fungsi epistemik yang berbeda dan tidak diperlakukan sebagai jenis evidence yang dapat dijumlahkan dalam satu skor.
-
-### HUMAN NATURE
-
-**Legacy:** `01 Philosophy/02 Human Nature`
-
-**Action:** MOVE + REFACTOR → `01_FOUNDATION/03 Human Nature`
-
-**Function:** menjawab siapa/apa manusia.
-
-**Boundary:** Fitrah, Nafs, Ruh, 'Aql, Qalb, Adab, dan martabat insan dapat dibahas sebagai konsepsi manusia. Jika dipakai sebagai development stage, score, rubric, atau progression level, harus dirujuk ke domain yang tepat.
-
-### HUMAN DEVELOPMENT
-
-**Legacy:** `01 Philosophy/03 Human Development`
-
-**Action:** MOVE + REFACTOR → `01_FOUNDATION/04 Human Development`
-
-**Function:** teori tentang perubahan dan perkembangan manusia.
-
-**Boundary:** adolescent development, identity, attachment, self-regulation, moral development, dan social development dapat menjadi landasan. J1–J4 bukan teori perkembangan universal; J1–J4 adalah arsitektur dukungan/kemandirian TUMBUH dan ditempatkan pada `03_PROGRESSION`.
-
-### EDUCATION
-
-**Legacy:** `01 Philosophy/04 Education`
-
-**Action:** SPLIT → Foundation + Sources & Evidence + Assessment + Implementation + Programs/Methods
-
-**Foundation:** Ta'dib, tujuan pendidikan, relasi pendidik-peserta didik, hakikat belajar, adab dalam pendidikan.
-
-**Sources & Evidence:** Cognitive Load Theory, Dual Coding, Kagan, Growth Mindset, dan pendekatan eksternal lain.
-
-**Assessment:** formative assessment, feedback, evidence of learning.
-
-**Implementation:** school environment, safeguarding, organizational requirements.
-
-**Programs/Methods:** lesson procedure, activity, learning routine.
-
-### LEADERSHIP
-
-**Legacy:** `01 Philosophy/05 Leadership`
-
-**Action:** SPLIT → Foundation + Sources & Evidence + Implementation + Staff Development
-
-**Foundation:** Qudwah, Amanah, Khidmah, hakikat kepemimpinan, tanggung jawab pemimpin.
-
-**Sources & Evidence:** Servant Leadership, organizational leadership research, leadership science.
-
-**Implementation:** governance, decision authority, RACI, delegation, handover, succession.
-
-**Staff Development:** leader development, leadership training, supervision, coaching.
-
-### CHANGE
-
-**Legacy:** `01 Philosophy/06 Change`
-
-**Action:** SPLIT → Foundation + Sources & Evidence + Implementation + Research
-
-**Foundation:** Sunnatullah Taghyir, Tadarruj, Istiqamah, konsepsi perubahan manusia, konsepsi perubahan sistem.
-
-**Sources & Evidence:** Lewin, Kotter, Atomic Habits, behavior change science.
-
-**Implementation:** change management, resistance, pilot, rollout, change champion, fidelity, scale-up.
-
-**Research:** implementation evaluation, change outcomes, adoption, sustainment.
-
-## Cross-Layer Architecture
+Materi worldview pada struktur legacy berasal terutama dari:
 
 ```text
-FOUNDATION
-     ↓
-CORE MODEL
-     ↓
-PROGRESSION
-     ↓
-ASSESSMENT
-     ↓
-INTERVENTION
-     ↓
-IMPLEMENTATION
-     ↓
-PROGRAMS
-
-SOURCES & EVIDENCE + RESEARCH
-= knowledge and testing layers across the system
+01 Philosophy/01 Worldview
 ```
 
-## Architectural Boundary
+Dalam v2, materi tersebut tidak dipindahkan secara mekanis. Materi legacy diperlakukan sebagai bahan sumber yang perlu diklasifikasikan, direfaktor, dan—untuk klaim empiris—divalidasi secara terpisah.
 
-Foundation menjawab:
+## 3. Canonical Scope of Worldview
 
-> Mengapa sistem ini seperti ini?
+Worldview v2 mencakup enam fungsi konseptual utama:
 
-Core Model:
+1. **Reality** — bagaimana realitas dipahami.
+2. **Khaliq–Makhluk** — posisi Allah sebagai Al-Khaliq dan kedudukan manusia sebagai makhluk.
+3. **Unseen and Observed Reality** — pembedaan perkara gaib dan realitas yang dapat dikaji secara empiris.
+4. **Human** — orientasi dasar mengenai manusia sebagai makhluk bermartabat, terbatas, dan bertanggung jawab.
+5. **Purpose** — orientasi mengenai kehidupan dan tujuan manusia.
+6. **Educational Implication** — konsekuensi worldview bagi arah pendidikan.
 
-> Apa yang hendak dibentuk?
+Pembahasan rinci tentang epistemologi, hakikat manusia, perkembangan, pendidikan, kepemimpinan, dan perubahan memiliki direktori Foundation masing-masing.
 
-Progression:
+## 4. Boundary Rules
 
-> Bagaimana pertumbuhan disusun?
+Materi berikut **tidak otomatis termasuk Worldview**:
 
-Assessment:
+- teori efektivitas pendidikan;
+- metode pembelajaran;
+- rubric dan assessment instrument;
+- intervention protocol;
+- staffing ratio;
+- SOP;
+- program;
+- angka standar operasional;
+- klaim outcome atau causal claim.
 
-> Bagaimana kita mengetahui pertumbuhan?
+Jika materi tersebut memiliki dasar worldview tetapi fungsi utamanya berada pada layer lain, materi harus ditempatkan pada layer tersebut.
 
-Intervention:
+## 5. Classification Rule
 
-> Apa yang dilakukan ketika kebutuhan muncul?
+Gunakan pertanyaan berikut untuk menentukan lokasi materi:
 
-Implementation:
+| Pertanyaan | Layer |
+|---|---|
+| Mengapa TUMBUH memandang manusia dan pendidikan seperti ini? | Foundation |
+| Bagaimana pengetahuan diperoleh dan divalidasi? | Foundation / Epistemology |
+| Apa kapasitas yang hendak dibentuk? | Core Model |
+| Bagaimana pertumbuhan disusun? | Progression |
+| Bagaimana pertumbuhan diketahui? | Assessment |
+| Apa respons ketika kebutuhan muncul? | Intervention |
+| Bagaimana sistem dijalankan? | Implementation |
+| Apa bentuk program konkretnya? | Programs |
+| Apa evidence yang mendukung klaim? | Sources & Evidence |
+| Bagaimana klaim/model/intervensi diuji? | Research |
 
-> Bagaimana sistem dijalankan?
+## 6. Canonical Documents
 
-Programs:
+Dokumen substantif worldview saat ini adalah:
 
-> Apa paket kegiatan nyatanya?
+- `P1-01-01-01-Definisi-Realitas.md`
+- `02-Allah-sebagai-Al-Khaliq-dan-Relasi-Khaliq-Makhluk.md`
+- `03-Realitas-Gaib-dan-Realitas-yang-Teramati.md`
+- `04-Hakikat-Kehidupan-dan-Tujuan-Penciptaan-Manusia.md`
 
-Karena itu BARS, PBIS, CASEL, CICO, FBA, IRT, CFA, TFI, RACI, dashboard, program, dan SOP tidak otomatis menjadi Foundation.
+## 7. Lineage Rule
 
-## Result
+Legacy tetap menjadi arsip sejarah pada `v1-legacy`. Kehadiran suatu gagasan pada legacy tidak membuatnya otomatis canonical pada v2.
 
-`01 Philosophy` diperlakukan sebagai fondasi teoritik yang harus diurai berdasarkan fungsi. Batch 19C mengunci klasifikasi ini sebagai baseline migrasi P0.
+Sebaliknya, penghapusan materi dari v2 juga tidak berarti materi tersebut hilang dari sejarah; materi tetap dapat ditelusuri melalui legacy dan migration records.
 
-## Lineage Rule
+## 8. Design Rule
 
-Dokumen legacy tetap dipertahankan pada `v1-legacy`. Inventory ini tidak menghapus atau mengubah legacy.
+Worldview harus tetap **normative-conceptual**. Ketika suatu formulasi mulai menyatakan efektivitas, korelasi, hubungan sebab-akibat, ukuran, prevalence, atau outcome, formulasi tersebut harus diberi klasifikasi klaim dan ditelusurkan ke `08_SOURCES_AND_EVIDENCE` dan/atau `09_RESEARCH`.
