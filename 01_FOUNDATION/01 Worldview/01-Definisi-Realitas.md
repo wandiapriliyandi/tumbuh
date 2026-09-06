@@ -1,89 +1,68 @@
-# P1-01-01-01 — Definisi Realitas
+# 01 — Definisi Realitas
 
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Classification:** FOUNDATION / WORLDVIEW / ONTOLOGY  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-## 1. Purpose
+Sebelum TUMBUH berbicara tentang kapasitas, perkembangan, assessment, atau intervensi, ada pertanyaan yang lebih awal: **realitas seperti apa yang sedang kita bicarakan?**
 
-Dokumen ini menetapkan posisi ontologis dasar TUMBUH: bagaimana realitas dipahami sebelum diterjemahkan menjadi model kapasitas, progression, assessment, intervention, implementation, atau programs.
+TUMBUH memulai dari worldview Islam yang mengakui **Allah sebagai Al-Khaliq** dan seluruh selain-Nya sebagai makhluk. Karena itu, realitas tidak dipahami sebagai sesuatu yang berdiri sendiri tanpa Pencipta dan tanpa tatanan.
 
-## 2. Core Formulation
+## Realitas yang tidak direduksi menjadi yang terukur
 
-TUMBUH berangkat dari worldview Islam yang mengakui **Allah sebagai Al-Khaliq** dan seluruh selain-Nya sebagai makhluk. Realitas karena itu tidak dipahami sebagai sesuatu yang berdiri tanpa Pencipta dan tanpa tatanan.
+Realitas ciptaan mencakup fenomena yang dapat dialami dan dikaji melalui pengamatan, sekaligus perkara gaib yang tidak dapat ditetapkan hanya melalui indera dan diketahui melalui wahyu yang sahih.
 
-Realitas ciptaan mencakup fenomena yang dapat dialami dan dikaji melalui pengamatan, sekaligus perkara gaib yang tidak dapat ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih.
+Dengan posisi ini, TUMBUH menghindari dua reduksi:
 
-TUMBUH menolak dua reduksi sekaligus:
+- menganggap hanya sesuatu yang dapat diukur secara empiris yang benar-benar nyata; dan
+- menggunakan klaim spiritual untuk menggantikan evidence ketika pertanyaannya memang bersifat empiris.
 
-1. mereduksi realitas hanya menjadi apa yang dapat diukur secara empiris; dan
-2. menggunakan klaim spiritual atau keagamaan untuk menggantikan evidence ketika pertanyaannya bersifat empiris.
+Jadi, **tidak semua yang nyata harus menjadi variabel pengukuran, tetapi setiap klaim empiris tetap membutuhkan evidence yang sesuai.**
 
-## 3. Struktur Ontologis Dasar
+## Allah, ciptaan, dan dunia yang dapat dipelajari
 
-### 3.1 Allah sebagai Al-Khaliq
+Allah adalah Pencipta dan bukan bagian dari alam ciptaan.
 
-Allah adalah Pencipta dan tidak diposisikan sebagai bagian dari alam ciptaan. Ketuhanan menjadi fondasi normatif worldview TUMBUH.
+Manusia, tubuh, lingkungan, masyarakat, lembaga, perilaku, proses belajar, dan perubahan pendidikan berada dalam ranah ciptaan. Karena itu semuanya dapat menjadi objek pengalaman, pengamatan, dan penyelidikan dengan cara yang sesuai dengan objeknya.
 
-### 3.2 Ciptaan
+Perkara gaib memiliki kedudukan berbeda. Ia tidak diperlakukan seolah-olah merupakan variabel empiris hanya agar dapat dimasukkan ke dalam instrumen pengukuran.
 
-Manusia, tubuh, lingkungan, masyarakat, lembaga, perilaku, proses belajar, dan perubahan pendidikan berada dalam ranah ciptaan. Karena itu fenomena-fenomena tersebut dapat menjadi objek pengalaman, pengamatan, dan penyelidikan dengan metode yang sesuai.
+## Ikhtiar dan sebab–akibat
 
-### 3.3 Realitas Gaib
+TUMBUH menerima bahwa kehidupan ciptaan memiliki keteraturan dan hubungan sebab–akibat. Manusia karena itu perlu berikhtiar dan memperhatikan sebab yang relevan.
 
-Perkara gaib diterima berdasarkan wahyu yang sahih. Perkara tersebut tidak diperlakukan seolah-olah merupakan variabel empiris yang dapat diukur dengan instrumen biasa.
+Pada saat yang sama, hasil tidak disamakan dengan sesuatu yang sepenuhnya berada dalam kendali manusia. TUMBUH membedakan:
 
-## 4. Kausalitas dan Ikhtiar
+- **ikhtiar:** tindakan yang dapat direncanakan dan dilakukan;
+- **kondisi dan faktor:** keadaan yang memengaruhi proses; dan
+- **hasil:** keadaan akhir yang tidak selalu sepenuhnya dapat dikendalikan.
 
-TUMBUH mengakui adanya keteraturan dan hubungan sebab-akibat dalam kehidupan ciptaan. Manusia diperintahkan untuk berikhtiar dan tidak menjadikan tawakal sebagai alasan untuk mengabaikan sebab yang relevan.
+Pembedaan ini bukan alasan untuk mengurangi tanggung jawab. Justru ia membantu TUMBUH membedakan antara kualitas usaha dan hasil yang muncul.
 
-Pada saat yang sama, keberhasilan empiris tidak diperlakukan sebagai bukti bahwa manusia memiliki kendali mutlak atas seluruh hasil. TUMBUH membedakan:
+## Apa artinya bagi pendidikan?
 
-- **ikhtiar** — tindakan yang dapat direncanakan dan dilakukan;
-- **kondisi dan faktor** — keadaan yang memengaruhi proses;
-- **hasil** — keadaan akhir yang tidak selalu sepenuhnya berada dalam kendali manusia.
+Kalau proses pendidikan berlangsung di dunia nyata, maka dunia nyata harus diperlakukan serius.
 
-Pembedaan ini merupakan batas konseptual, bukan alasan untuk mengurangi tanggung jawab terhadap kualitas tindakan.
+Keselamatan, kesehatan, relasi sosial, lingkungan belajar, kualitas pengajaran, tidur, beban aktivitas, dan kondisi lain yang relevan tidak boleh diabaikan dengan alasan spiritual.
 
-## 5. Implikasi bagi Pendidikan
+Sebaliknya, pendidikan juga tidak boleh direduksi menjadi pengelolaan perilaku atau performa. Manusia dipahami memiliki tujuan, nilai, amanah, dan tanggung jawab yang melampaui hasil yang mudah dihitung.
 
-Jika manusia dan proses pendidikan merupakan bagian dari realitas ciptaan, maka kondisi nyata pendidikan harus ditangani secara nyata. Lingkungan, keamanan, kesehatan, relasi sosial, proses belajar, tidur, beban aktivitas, dan kualitas pengajaran tidak boleh diabaikan dengan alasan spiritual.
+## Batas pembahasan
 
-Sebaliknya, pendidikan juga tidak direduksi menjadi pengelolaan perilaku atau performa karena manusia dipahami memiliki tujuan dan tanggung jawab yang melampaui aspek material.
+Dokumen ini menetapkan orientasi ontologis. Ia **tidak**:
 
-## 6. Epistemic Boundary
-
-Definisi realitas tidak dengan sendirinya menetapkan metode penelitian. Pertanyaan tentang **bagaimana mengetahui** dibahas pada `01_FOUNDATION/02 Epistemology`.
-
-Klaim empiris seperti hubungan antara kondisi fisik, perilaku, stres, tidur, lingkungan, atau intervensi tertentu tidak menjadi canonical hanya karena konsisten dengan worldview. Klaim tersebut memerlukan evidence dan validasi tersendiri.
-
-## 7. Boundary
-
-Dokumen ini tidak:
-
-- merumuskan doktrin teologi secara lengkap;
+- menjadi kajian teologi yang lengkap;
 - menetapkan daftar konstruk manusia;
 - menetapkan progression atau level perkembangan;
-- menetapkan assessment instrument;
-- menetapkan intervention protocol;
-- membuktikan efektivitas program atau metode pendidikan.
+- menetapkan instrumen assessment;
+- menetapkan protokol intervensi; atau
+- membuktikan efektivitas program pendidikan.
 
-## 8. Downstream Implication
+Pertanyaan tentang **bagaimana mengetahui sesuatu** diteruskan ke `01_FOUNDATION/02 Epistemology`. Klaim empiris ditelusurkan ke evidence dan research yang relevan.
 
-Definisi ini menjadi dasar konseptual untuk:
+## Ke mana pembahasan bergerak?
 
-- `01_FOUNDATION/02 Epistemology/`;
-- `01_FOUNDATION/03 Human Nature/`;
-- `01_FOUNDATION/04 Human Development/`;
-- `01_FOUNDATION/05 Education/`;
-- `01_FOUNDATION/06 Leadership/`;
-- `01_FOUNDATION/07 Change/`;
-- `02_CORE_MODEL/`.
+Definisi realitas ini memberi batas awal bagi pembahasan tentang manusia, perkembangan, pendidikan, kepemimpinan, perubahan, dan akhirnya model inti TUMBUH.
 
-## 9. Status Keilmuan
+**Status keilmuan:** posisi normatif-konseptual TUMBUH. Klaim empiris yang muncul kemudian harus memperoleh dasar evidence dan validasi tersendiri.
 
-Pernyataan ontologis dalam dokumen ini merupakan **normative/conceptual position** TUMBUH. Setiap klaim empiris yang muncul sebagai konsekuensi desain harus dinyatakan secara terpisah dan ditelusurkan ke evidence atau research yang relevan.
-
-## 10. Lineage
-
-Dokumen ini merupakan rekonstruksi v2.0.0. Dokumen legacy digunakan sebagai lineage dan bahan kajian, bukan sebagai bukti otomatis bahwa seluruh formulasi lama telah tervalidasi.
+**Lineage:** rekonstruksi canonical v2.0.0; dokumen legacy berfungsi sebagai bahan sejarah dan kajian, bukan bukti otomatis atas formulasi ini.
