@@ -3,77 +3,53 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Worldview baru benar-benar berguna ketika ia mengubah cara kita melihat pendidikan. Dokumen ini menjadi jembatan dari pertanyaan-pertanyaan dasar worldview menuju sistem TUMBUH yang lebih konkret.
+Tujuh pertanyaan sebelumnya akhirnya bertemu pada satu pertanyaan praktis: **kalau manusia, kehidupan, nilai, amanah, dan realitas dipahami seperti itu, lalu pendidikan harus menjadi seperti apa?**
 
-Jika manusia dipahami sebagai makhluk Allah yang memiliki martabat, kapasitas, keterbatasan, amanah, dan tanggung jawab, maka pendidikan tidak cukup dipahami sebagai transfer pengetahuan, kontrol perilaku, atau produksi prestasi.
+Di titik ini Worldview mulai menunjukkan daya kerjanya. Ia belum memberi kita kurikulum, metode, rubrik, atau SOP. Ia memberi alasan mengapa sistem pendidikan TUMBUH harus dibangun dengan cara tertentu.
 
-Pendidikan diarahkan untuk membantu manusia **mengetahui, memahami, bertindak, bertumbuh, menggunakan kemampuan secara benar, menjalankan amanah, dan terus memperbaiki diri**.
+## Pendidikan tidak sekadar membuat manusia mampu
 
-## Maka, seperti apa pendidikan yang dimaksud?
+Jika manusia memiliki martabat, kapasitas, pilihan, dan tanggung jawab, maka peserta didik tidak tepat diperlakukan sebagai objek yang tinggal dibentuk dari luar.
 
-### Manusia tetap menjadi subjek
+Pendidikan perlu membantu manusia **mengetahui, memahami, mampu bertindak, menggunakan kemampuannya dengan benar, menjalankan amanah, dan terus memperbaiki diri**.
 
-Peserta didik bukan sekadar objek yang harus dikendalikan. Ia adalah manusia yang memiliki kemampuan untuk belajar dan dapat mengambil bagian dalam proses pertumbuhannya.
+Karena itu kemampuan penting, tetapi kemampuan bukan satu-satunya pertanyaan.
 
-### Kapasitas dan nilai berjalan bersama
+## Pendidikan juga tidak sekadar membuat manusia patuh
 
-Pendidikan tidak hanya bertanya apakah seseorang mampu melakukan sesuatu. Ia juga perlu memperhatikan arah penggunaan kemampuan dan tanggung jawab yang menyertainya.
+Kepatuhan dapat menjadi bagian dari pendidikan, tetapi kepatuhan mekanis bukan keseluruhan tujuan.
 
-### Pertumbuhan dipahami sebagai proses
+Manusia perlu berkembang sehingga ia semakin mampu memahami alasan, mengenali tanggung jawab, membuat pilihan yang tepat, dan bertindak dengan kesadaran. Ini tidak berarti setiap tindakan harus menunggu kesadaran sempurna; artinya pendidikan tidak berhenti pada kemampuan membuat orang mengikuti perintah ketika diawasi.
 
-Satu kegiatan tidak otomatis menghasilkan perubahan yang menetap. Manusia membutuhkan pengalaman, latihan, umpan balik, kesempatan memperbaiki kesalahan, dan lingkungan yang mendukung perkembangan.
+## Pertumbuhan membutuhkan kehidupan nyata
 
-### Amanah tidak direduksi menjadi kepatuhan mekanis
+Kalau manusia berkembang melalui kehidupan nyata, maka pendidikan tidak dapat hanya mengandalkan penyampaian materi.
 
-Pendidikan membantu manusia memahami tanggung jawab sesuai usia, peran, kemampuan, dan konteksnya. Ketaatan perlu ditempatkan dalam hubungan dengan pemahaman, nilai, dan tanggung jawab.
+Pengalaman, latihan, relasi, lingkungan, kebiasaan, teladan, umpan balik, kesempatan memperbaiki kesalahan, dan tantangan yang sesuai menjadi bagian dari ruang pendidikan.
 
-### Dunia nyata tidak boleh diabaikan
+Namun bentuk teknis dari semua itu belum diputuskan di sini. Worldview hanya memberi arah bahwa manusia perlu dipandang sebagai makhluk yang bertumbuh, bukan produk yang selesai setelah melewati serangkaian kegiatan.
 
-Orientasi spiritual tidak menjadi alasan untuk mengabaikan keselamatan, kesehatan, relasi sosial, kualitas pembelajaran, lingkungan, dan kondisi nyata lain yang memengaruhi pendidikan.
+## Nilai memberi arah, evidence menguji cara
 
-### Evidence tetap memiliki tempat
+Worldview memberi jawaban normatif tentang arah dan batas. Ia tidak otomatis menjawab apakah sebuah metode efektif.
 
-Worldview memberi arah normatif. Ia tidak otomatis membuktikan bahwa sebuah metode, program, atau intervensi efektif.
+Misalnya, suatu bentuk pembinaan dapat dianggap sesuai dengan nilai TUMBUH tetapi ternyata tidak menghasilkan perubahan yang diharapkan. Dalam keadaan seperti itu, nilai tidak perlu ditinggalkan; yang perlu diperiksa adalah asumsi, desain, pelaksanaan, atau evidence tentang caranya.
 
-Ketika TUMBUH membuat klaim tentang efektivitas atau hubungan sebab–akibat, klaim tersebut perlu diuji melalui evidence dan research.
+Sebaliknya, metode yang terbukti efektif secara empiris tidak otomatis layak digunakan jika cara tersebut melanggar martabat manusia atau batas normatif yang dipegang TUMBUH.
 
-## Dari sini TUMBUH mulai bergerak
+Di sinilah worldview dan evidence saling melengkapi tanpa saling menggantikan.
 
-Worldview tidak langsung berubah menjadi SOP. Ada beberapa lapisan yang perlu dilalui agar arah normatif dapat diterjemahkan dengan hati-hati:
+## Dari sini, sistem mulai mengambil bentuk
 
-```text
-WORLDVIEW
-apa yang diyakini dan ke mana pendidikan diarahkan
-        ↓
-CORE MODEL
-apa yang hendak dikembangkan
-        ↓
-PROGRESSION
-bagaimana pertumbuhan disusun
-        ↓
-ASSESSMENT
-bagaimana perkembangan diketahui
-        ↓
-INTERVENTION
-bagaimana kebutuhan direspons
-        ↓
-IMPLEMENTATION
-bagaimana sistem dijalankan
-        ↓
-PROGRAMS
-bagaimana sistem hadir dalam praktik
-```
+Sampai titik ini kita baru mengetahui **arahnya**. Kita belum menentukan secara rinci manusia seperti apa yang hendak dikembangkan.
 
-Inilah alasan Worldview tidak perlu memuat seluruh konstruk, rubrik, metode, atau program. Setiap keputusan akan mendapatkan tempatnya sendiri di arsitektur TUMBUH.
+Pertanyaan berikutnya adalah:
 
-## Batas pembahasan
+> **Jika pendidikan TUMBUH diarahkan untuk membantu manusia bertumbuh seperti itu, kapasitas apa yang sebenarnya perlu dikembangkan?**
 
-Dokumen ini tidak menetapkan curriculum atau program tertentu. Ia juga tidak memilih satu metode pembelajaran sebagai metode resmi TUMBUH, menetapkan konstruk dan instrumen assessment, menentukan intervention protocol, staffing, SOP, atau mengklaim efektivitas suatu pendekatan pendidikan.
+Pertanyaan tersebut membawa kita keluar dari Worldview menuju **Core Model**.
 
-## Ke mana pembahasan bergerak?
+Di sana TUMBUH perlu mulai merumuskan graduate profile, kapasitas, hubungan antarkapasitas, dan logika sistem. Setelah itu barulah pertanyaan tentang perkembangan, assessment, intervention, implementation, dan program dapat dijawab dengan lebih bertanggung jawab.
 
-Dokumen ini menjadi penghubung terutama menuju `01_FOUNDATION/05 Education`, lalu diteruskan ke `02_CORE_MODEL`, `03_PROGRESSION`, `04_ASSESSMENT`, `05_INTERVENTION`, `06_IMPLEMENTATION`, dan `07_PROGRAMS`.
+Jadi Worldview berhenti bukan karena pertanyaannya sudah habis, tetapi karena **pekerjaan berikutnya memang sudah menjadi pekerjaan layer lain**.
 
-**Status keilmuan:** normative/conceptual bridge. Implikasi yang berubah menjadi klaim empiris memerlukan evidence dan validasi melalui layer yang sesuai.
-
-**Lineage:** rekonstruksi canonical v2.0.0 berdasarkan orientasi Worldview; detail implementasi tidak ditetapkan di sini.
