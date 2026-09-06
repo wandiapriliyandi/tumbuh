@@ -3,68 +3,58 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-TUMBUH tidak ingin mengembangkan manusia tanpa mengetahui **untuk apa kemampuan itu digunakan**. Karena itu, setelah memahami manusia sebagai makhluk, kita perlu melihat kehidupan dan tujuan penciptaannya.
+Mengetahui siapa manusia belum cukup. Jika TUMBUH hendak membantu manusia bertumbuh, pertanyaan berikutnya tidak bisa dihindari: **bertumbuh menuju apa?**
 
-## Kehidupan bukan sekadar pencapaian
+Pertanyaan ini membawa kita dari gambaran tentang manusia kepada makna kehidupan dan tujuan penciptaannya.
+
+## Hidup bukan sekadar mencapai sesuatu
 
 Kehidupan manusia tidak dipahami hanya sebagai rangkaian aktivitas menuju keberhasilan material.
 
-Manusia hidup dalam hubungan dengan Allah, menerima amanah, memiliki pilihan dan ikhtiar, serta memikul tanggung jawab moral.
-
-Maka pertanyaan pendidikan tidak berhenti pada:
+Manusia hidup sebagai makhluk Allah, menerima amanah, memiliki pilihan dan ikhtiar, serta memikul tanggung jawab moral. Karena itu kemampuan tidak berdiri sendiri. Selalu ada pertanyaan tentang arah penggunaannya.
 
 > **Apa yang mampu dilakukan seseorang?**
-
-Ia juga perlu bergerak ke pertanyaan:
-
+>
+> belum cukup tanpa bertanya:
+>
 > **Untuk apa kemampuan itu digunakan, dengan cara apa, dan bagaimana penggunaannya dipertanggungjawabkan?**
 
-## Dunia dan akhirat tidak dipertentangkan secara sederhana
+## Dunia dan akhirat
 
-TUMBUH tidak menempatkan kehidupan dunia dan orientasi akhirat sebagai dua wilayah yang harus saling meniadakan.
+TUMBUH tidak memerlukan pertentangan sederhana antara kehidupan dunia dan orientasi akhirat.
 
 Belajar, bekerja, memimpin, melayani, menjaga diri, membangun keluarga, dan berkontribusi kepada masyarakat dapat menjadi bagian dari amanah ketika dijalankan dengan orientasi dan cara yang benar.
 
-Karena itu, prestasi duniawi tidak otomatis diposisikan sebagai lawan kesalehan. Sebaliknya, kesalehan tidak menjadi alasan untuk mengabaikan kemampuan, tanggung jawab, atau kualitas kerja.
+Karena itu, prestasi duniawi tidak otomatis menjadi lawan kesalehan. Sebaliknya, orientasi akhirat tidak menjadi alasan untuk mengabaikan kemampuan, tanggung jawab, kualitas kerja, atau kebutuhan nyata kehidupan.
 
-## Tiga hal yang perlu tetap terhubung
+Pandangan ini membuat pendidikan harus menghubungkan **kemampuan dengan arah penggunaannya**, bukan hanya mengejar kemampuan setinggi mungkin.
 
-Secara konseptual, tujuan pendidikan TUMBUH perlu menjaga hubungan antara:
+## Tiga hal yang tidak seharusnya dipisahkan
 
-**Capacity** — apa yang diketahui, dipahami, dapat dilakukan, dan dapat dikembangkan.
+Secara konseptual, TUMBUH perlu menjaga hubungan antara:
 
-**Value orientation** — ke mana kemampuan itu diarahkan dan nilai apa yang membimbing penggunaannya.
+- **kapasitas** — apa yang diketahui, dipahami, dapat dilakukan, dan dapat dikembangkan;
+- **orientasi nilai** — ke mana kemampuan itu diarahkan; dan
+- **tanggung jawab** — bagaimana seseorang menjalankan amanah dan mempertanggungjawabkan tindakannya.
 
-**Responsibility** — bagaimana seseorang menjalankan amanah, mengambil keputusan, menghadapi konsekuensi, dan memperbaiki tindakannya.
+Hubungan ini belum berarti bahwa TUMBUH sudah memiliki tiga konstruk atau tiga skor. Perincian formalnya baru dilakukan ketika masuk ke **Core Model**.
 
-Ketiganya belum menjadi tiga skor atau tiga konstruk otomatis. Perincian formalnya merupakan pekerjaan `02_CORE_MODEL`, sedangkan pengukurannya memerlukan dasar assessment yang memadai.
+## Bagaimana pandangan ini mengubah pendidikan?
 
-## Apa artinya bagi pendidikan?
-
-Pendidikan tidak cukup dipahami sebagai transfer pengetahuan atau pencapaian prestasi.
-
-Pendidikan membantu manusia berkembang sehingga ilmu, kemampuan, kebiasaan, nilai, dan tindakan dapat bergerak menuju arah yang benar.
+Pendidikan tidak cukup menjadi transfer pengetahuan atau perlombaan prestasi. Ia perlu membantu manusia mengubah pengetahuan menjadi kemampuan, kemampuan menjadi tindakan, dan tindakan menjadi bagian dari kehidupan yang bertanggung jawab.
 
 Karena itu, nilai akademik, kepatuhan sesaat, performa dalam satu situasi, jumlah kegiatan, atau pencapaian administratif tidak dengan sendirinya menggambarkan keseluruhan perkembangan manusia.
 
-## Ikhtiar, kegagalan, dan kesempatan untuk tumbuh
+Kegagalan pun tidak otomatis menjadi kegagalan nilai diri. Manusia tetap memiliki ruang untuk belajar, memperbaiki, pulih, dan bertumbuh.
 
-Manusia bertanggung jawab atas ikhtiar dan tindakan yang berada dalam ruang kewenangannya. Hasil akhir tidak selalu sepenuhnya berada dalam kendali manusia.
+## Ikhtiar dan hasil
 
-Kesadaran ini tidak menghapus kewajiban untuk merencanakan, berusaha, mengevaluasi, dan memperbaiki.
+Manusia bertanggung jawab atas ikhtiar dan tindakan yang berada dalam ruang kewenangannya. Hasil akhir tidak selalu sepenuhnya berada dalam kendalinya.
 
-Dalam pendidikan, kegagalan atau keterbatasan juga tidak seharusnya langsung dibaca sebagai kegagalan nilai diri seseorang. Sistem perlu menyediakan ruang untuk belajar, memperbaiki, pulih, dan bertumbuh.
+Kesadaran ini tidak mengurangi kewajiban untuk merencanakan, berusaha, mengevaluasi, dan memperbaiki. Justru ia membantu TUMBUH membedakan kualitas usaha dari hasil sesaat.
 
-## Batas pembahasan
+Dari sini arah pendidikan mulai terlihat lebih jelas. TUMBUH tidak hanya membutuhkan sistem yang mampu menjawab **“apa yang dapat dilakukan manusia?”**, tetapi juga **“manusia seperti apa yang hendak dikembangkan?”**.
 
-Dokumen ini tidak menetapkan daftar final karakter atau kompetensi TUMBUH, progression level, rubric, instrumen assessment, atau program tertentu.
+Pertanyaan itu menjadi pekerjaan berikutnya dalam **Graduate Profile** dan **Capacity Architecture**. Sementara pertanyaan tentang apa yang benar, baik, bertanggung jawab, dan amanah membawa kita ke pembahasan berikutnya tentang **nilai dan kebaikan**.
 
-Ia juga bukan kajian teologis lengkap tentang tujuan penciptaan manusia. Formulasi normatif spesifik perlu ditelusurkan ke sumber yang sesuai.
-
-## Ke mana pembahasan bergerak?
-
-Orientasi ini menjadi pijakan terutama bagi **Graduate Profile, Capacity Architecture, Progression, Assessment, dan Programs**.
-
-**Status keilmuan:** posisi normatif-konseptual worldview. Klaim empiris mengenai dampaknya terhadap pendidikan memerlukan evidence dan research tersendiri.
-
-**Lineage:** rekonstruksi canonical v2.0.0.
+Sumber normatif spesifik mengenai tujuan penciptaan perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`; dokumen ini bukan kajian teologis lengkap.
