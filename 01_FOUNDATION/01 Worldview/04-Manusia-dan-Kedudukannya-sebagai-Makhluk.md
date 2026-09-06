@@ -1,69 +1,57 @@
 # 04 — Manusia dan Kedudukannya sebagai Makhluk
 
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Classification:** FOUNDATION / WORLDVIEW / NORMATIVE-CONCEPTUAL  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-## 1. Purpose
+Setelah berbicara tentang realitas dan hubungan Khaliq–makhluk, pertanyaan berikutnya menjadi sangat dekat dengan jantung TUMBUH: **siapa manusia yang hendak dikembangkan?**
 
-Dokumen ini menjawab pertanyaan worldview: **Siapa manusia dan bagaimana kedudukannya sebagai makhluk?**
+TUMBUH memandang manusia sebagai **makhluk Allah** yang memiliki martabat, kemampuan, keterbatasan, pilihan, ikhtiar, dan tanggung jawab.
 
-Dokumen ini menetapkan orientasi dasar tentang manusia yang menjadi batas bagi pengembangan model kapasitas, pendidikan, kepemimpinan, perubahan, assessment, dan intervention TUMBUH.
+## Manusia bukan benda yang harus “diproduksi”
 
-## 2. Core Position
+Manusia bukan benda pasif yang cukup dibentuk dari luar. Ia memiliki kemampuan untuk belajar, memilih, bertindak, membangun relasi, dan memperbaiki diri.
 
-Manusia dipahami sebagai **makhluk Allah** yang memiliki martabat, kemampuan, keterbatasan, pilihan, ikhtiar, dan tanggung jawab.
+Namun manusia juga bukan makhluk yang berdaulat mutlak atas dirinya. Ia tetap hidup dalam keterbatasan, konteks, relasi, dan tanggung jawab kepada Allah.
 
-Manusia bukan benda pasif, tetapi juga bukan makhluk yang berdaulat mutlak atas dirinya. Ia memiliki kapasitas untuk belajar, memilih, bertindak, membangun relasi, memperbaiki diri, dan menjalankan amanah.
+Karena itu, TUMBUH menempatkan manusia sebagai **subjek yang berkembang**, bukan sekadar objek kontrol sistem.
 
-## 3. Dimensi Dasar Manusia
+## Beberapa hal yang melekat pada manusia
 
-Secara worldview, TUMBUH memandang manusia setidaknya memiliki:
+Dari orientasi ini, setidaknya ada beberapa hal yang perlu terus dijaga ketika TUMBUH membangun sistem:
 
-- **martabat** — manusia tidak boleh diperlakukan sekadar sebagai objek atau alat;
-- **kapasitas** — manusia dapat mengetahui, belajar, bertindak, dan mengembangkan kemampuan;
-- **keterbatasan** — kemampuan, pengetahuan, kondisi, dan kendali manusia tidak tidak terbatas;
-- **agency dan ikhtiar** — manusia memiliki ruang untuk memilih dan berusaha;
-- **tanggung jawab** — pilihan dan tindakan memiliki konsekuensi moral;
-- **relasionalitas** — manusia hidup dalam hubungan dengan Allah, manusia lain, dan lingkungan.
+- **Martabat.** Manusia tidak boleh diperlakukan sekadar sebagai alat atau angka.
+- **Kapasitas.** Manusia dapat mengetahui, belajar, bertindak, dan mengembangkan kemampuan.
+- **Keterbatasan.** Pengetahuan, kondisi, kemampuan, dan kendali manusia tidak tak terbatas.
+- **Agency dan ikhtiar.** Manusia memiliki ruang untuk memilih dan berusaha.
+- **Tanggung jawab.** Pilihan dan tindakan memiliki konsekuensi moral.
+- **Relasionalitas.** Manusia hidup dalam hubungan dengan Allah, manusia lain, dan lingkungan.
 
-## 4. Implikasi terhadap Pendidikan
+Ini adalah orientasi worldview, bukan daftar konstruk final TUMBUH.
 
-Peserta didik tidak dipandang sebagai objek kontrol, angka, atau sekadar penerima materi. Pendidikan perlu memperlakukan mereka sebagai manusia yang sedang bertumbuh dan memiliki kemampuan untuk mengambil peran dalam pertumbuhan tersebut.
+## Apa artinya bagi peserta didik?
 
-Karena itu, pendidikan perlu memperhatikan bukan hanya perilaku yang tampak, tetapi juga perkembangan kemampuan, pembentukan orientasi nilai, tanggung jawab, dan kesempatan untuk belajar dari pengalaman.
+Peserta didik tidak seharusnya dipahami hanya sebagai penerima materi, angka dalam laporan, atau objek yang harus patuh.
 
-## 5. Implikasi terhadap Kepemimpinan dan Relasi
+Ia adalah manusia yang sedang berkembang dan dapat mengambil bagian dalam proses pertumbuhannya sendiri.
 
-Karena manusia memiliki martabat sekaligus tanggung jawab, hubungan pendidik–peserta didik dan pemimpin–anggota harus dibangun atas amanah, batas kewenangan, penghormatan, dan akuntabilitas.
+Karena itu, pendidikan perlu memberi ruang untuk belajar dari pengalaman, menerima umpan balik, mengambil tanggung jawab, memperbaiki kesalahan, dan berkembang sesuai tahap serta konteksnya.
 
-Kekuasaan pendidikan tidak menjadi legitimasi untuk penghinaan, manipulasi, kekerasan, atau perlakuan yang merendahkan martabat manusia.
+## Apa artinya bagi relasi pendidik?
 
-## 6. Boundary
+Martabat manusia membatasi penggunaan kekuasaan.
 
-Dokumen ini tidak:
+Pendidik, musyrif, pimpinan, dan pihak lain yang menerima kewenangan pendidikan memikul amanah. Kewenangan tersebut tidak menjadi legitimasi untuk penghinaan, manipulasi, kekerasan, atau perlakuan yang merendahkan manusia.
 
-- menetapkan teori psikologi manusia tertentu sebagai teori resmi TUMBUH;
-- menetapkan konstruk atau taxonomy kapasitas final;
-- menetapkan diagnosis atau instrumen assessment;
-- menetapkan metode intervensi;
-- membuktikan klaim empiris mengenai perkembangan manusia.
+## Batas pembahasan
 
-Pembahasan ilmiah mengenai perkembangan, motivasi, perilaku, kognisi, emosi, dan faktor lingkungan ditempatkan pada layer foundation yang relevan serta `08_SOURCES_AND_EVIDENCE` dan `09_RESEARCH`.
+Dokumen ini tidak memilih satu teori psikologi sebagai teori resmi TUMBUH. Ia juga tidak menetapkan taxonomy kapasitas, diagnosis, instrumen assessment, metode intervensi, atau klaim empiris tentang perkembangan manusia.
 
-## 7. Downstream Implication
+Kajian ilmiah tentang kognisi, emosi, perilaku, motivasi, perkembangan, dan lingkungan perlu dibahas melalui foundation yang relevan serta `08_SOURCES_AND_EVIDENCE` dan `09_RESEARCH`.
 
-Dokumen ini menjadi landasan konseptual bagi:
+## Ke mana pembahasan bergerak?
 
-- `01_FOUNDATION/04 Human Development/`;
-- `01_FOUNDATION/05 Education/`;
-- `02_CORE_MODEL/01 Graduate Profile/`;
-- `02_CORE_MODEL/02 Capacity Architecture/`.
+Pemahaman tentang manusia ini menjadi pijakan bagi **Human Development, Education, Graduate Profile, dan Capacity Architecture**.
 
-## 8. Status Keilmuan
+**Status keilmuan:** posisi normatif-konseptual worldview. Klaim empiris tentang manusia atau perkembangannya harus ditelusurkan melalui evidence dan research.
 
-Pernyataan mengenai kedudukan manusia merupakan **normative/conceptual worldview**. Klaim empiris tentang karakteristik atau perkembangan manusia harus ditelusurkan melalui evidence dan research tersendiri.
-
-## 9. Lineage
-
-Dokumen ini merupakan rekonstruksi canonical v2.0.0. Sumber normatif dan kajian manusia ditelusurkan melalui sumber Islam/turats serta evidence ilmiah yang relevan pada layer sumber dan research.
+**Lineage:** rekonstruksi canonical v2.0.0.
