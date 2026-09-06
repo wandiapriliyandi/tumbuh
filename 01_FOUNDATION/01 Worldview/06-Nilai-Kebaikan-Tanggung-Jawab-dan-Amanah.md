@@ -3,66 +3,48 @@
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
 **Layer:** `01_FOUNDATION/01 Worldview`
 
-Kemampuan yang tinggi belum tentu berarti penggunaannya baik. Karena itu TUMBUH perlu membedakan antara **apa yang bisa dilakukan manusia**, **untuk apa kemampuan itu digunakan**, dan **bagaimana ia mempertanggungjawabkannya**.
+Kemampuan yang tinggi belum tentu berarti penggunaannya baik. Dari sini muncul pertanyaan penting bagi TUMBUH: **apa yang membuat suatu tindakan bernilai, baik, dan layak dipertanggungjawabkan?**
 
-## Apa yang dimaksud dengan nilai?
+## Nilai bukan sekadar apa yang menguntungkan
 
-Dalam worldview TUMBUH, nilai tidak ditentukan hanya oleh efisiensi, popularitas, kepentingan institusi, skor, atau hasil jangka pendek.
+Dalam worldview TUMBUH, sesuatu tidak menjadi baik hanya karena efisien, populer, disukai, menghasilkan skor tinggi, atau menguntungkan institusi.
 
-Kebaikan, tanggung jawab, dan amanah menjadi orientasi normatif yang membimbing manusia ketika menggunakan kemampuan dan mengambil keputusan.
+Kebaikan memiliki dasar normatif. Karena TUMBUH berangkat dari worldview Islam, orientasi nilai perlu selaras dengan petunjuk Allah dan tidak dibangun semata-mata dari preferensi manusia atau tekanan keadaan.
 
-Karena TUMBUH berangkat dari worldview Islam, orientasi nilai perlu selaras dengan petunjuk Allah dan tidak dibangun hanya dari preferensi manusia atau tekanan situasional.
+Ini juga berarti TUMBUH perlu membedakan dua pertanyaan yang sering tercampur: **“apakah cara ini efektif?”** dan **“apakah cara ini benar dan layak?”**
 
-## Kemampuan belum sama dengan kebaikan
+Yang pertama adalah pertanyaan yang membutuhkan evidence. Yang kedua tidak dapat dijawab hanya dengan evidence efektivitas.
 
-Seseorang dapat memiliki kemampuan yang tinggi dan tetap menggunakannya dengan cara yang salah.
+## Kemampuan dan arah penggunaannya
 
-Karena itu, TUMBUH secara konseptual membedakan:
+Seseorang dapat memiliki kemampuan tinggi dan menggunakannya untuk tujuan yang salah. Karena itu kemampuan tidak cukup menjadi ukuran keberhasilan pengembangan manusia.
 
-- **kapasitas:** apa yang seseorang mampu lakukan;
-- **arah nilai:** untuk apa kemampuan tersebut digunakan; dan
-- **tanggung jawab:** bagaimana pilihan dan tindakan dipertanggungjawabkan.
+TUMBUH perlu menjaga hubungan antara tiga hal: kemampuan yang dimiliki, arah nilai yang membimbing penggunaannya, dan tanggung jawab atas tindakan yang diambil.
 
-Pembedaan ini tidak berarti ketiganya harus menjadi tiga skor yang berdiri sendiri.
+Ini bukan berarti ketiganya harus langsung menjadi tiga konstruk atau tiga skor. Kita baru menetapkan orientasi; perincian model akan dikerjakan pada layer berikutnya.
 
-## Amanah bukan sekadar patuh
+## Amanah
 
-Amanah berkaitan dengan tanggung jawab yang melekat pada peran, kemampuan, kewenangan, dan kepercayaan yang diterima manusia.
+Amanah bukan sekadar melakukan apa yang diperintahkan.
 
-Dalam pendidikan, amanah berlaku sesuai ruang tanggung jawab masing-masing: peserta didik, pendidik, musyrif, pimpinan, keluarga, maupun institusi.
+Amanah berkaitan dengan kepercayaan dan tanggung jawab yang melekat pada peran, kemampuan, kewenangan, dan kesempatan yang diterima seseorang.
 
-Karena itu amanah bukan sekadar melakukan apa yang diperintahkan. Ia juga menyangkut menjalankan tanggung jawab dengan benar, menjaga batas, dan bersedia mempertanggungjawabkan tindakan.
+Karena itu amanah selalu mengandung pertanyaan tentang **apa yang dipercayakan, bagaimana menjaganya, bagaimana menggunakannya, dan kepada siapa tindakan tersebut dipertanggungjawabkan**.
 
-## Efektif belum tentu baik
+Dalam pendidikan, amanah berlaku pada peserta didik maupun orang dewasa yang mendampingi mereka. Pendidik memiliki amanah mendidik. Musyrif memiliki amanah membina. Pimpinan memiliki amanah menggunakan kewenangan. Institusi memiliki amanah menjaga manusia yang berada di dalamnya.
 
-TUMBUH perlu menjaga perbedaan antara tiga pertanyaan yang sering tercampur:
+## Ketika prinsip ini masuk ke pendidikan
 
-**Apakah cara ini efektif?** — pertanyaan empiris.
+Pendidikan tidak cukup menghasilkan orang yang **bisa**. Ia perlu membantu manusia menggunakan apa yang bisa ia lakukan dengan arah yang benar.
 
-**Apakah orang menyukainya?** — pertanyaan preferensi.
+Karena itu pembentukan manusia mencakup kemampuan untuk mempertimbangkan dampak tindakan, menjaga kepercayaan, memperbaiki kesalahan, dan bertanggung jawab atas pilihan.
 
-**Apakah cara ini benar dan layak?** — pertanyaan normatif.
+Pada saat yang sama, TUMBUH tidak boleh membalik logika ini menjadi klaim bahwa sesuatu pasti efektif hanya karena dianggap baik. Nilai menentukan arah dan batas; evidence membantu kita mengetahui apakah cara yang dipilih benar-benar bekerja.
 
-Sesuatu bisa efektif tetapi tetap tidak layak digunakan jika bertentangan dengan batas moral atau merendahkan martabat manusia.
+Pembedaan inilah yang nantinya memungkinkan TUMBUH memiliki prinsip moral yang tegas sekaligus tetap terbuka terhadap koreksi berbasis evidence.
 
-Sebaliknya, keyakinan bahwa sesuatu itu baik tidak otomatis membuktikan bahwa metode tersebut efektif. Untuk pertanyaan efektivitas, TUMBUH tetap membutuhkan evidence.
+Dari sini pembahasan bergerak menuju pertanyaan pendidikan yang lebih konkret: **kalau manusia harus dikembangkan dalam arah nilai seperti ini, pendidikan seperti apa yang selaras dengan worldview tersebut?**
 
-## Apa artinya bagi pendidikan?
+Pembahasan itu menjadi jembatan menuju **Implikasi Worldview bagi Pendidikan**, sementara rincian konstruk, assessment, dan evidence akan muncul pada layer sistem yang sesuai.
 
-Pendidikan perlu membantu manusia menggunakan ilmu dan kemampuan dengan arah yang benar, menjalankan amanah, mempertimbangkan dampak tindakan, dan memperbaiki kesalahan.
-
-Dengan demikian, pembentukan manusia tidak berhenti pada **“bisa”**. Ia juga menyentuh **“menggunakan kemampuan dengan benar”** dan **“mampu mempertanggungjawabkan penggunaannya.”**
-
-## Batas pembahasan
-
-Dokumen ini tidak menyusun daftar final karakter TUMBUH, taxonomy kapasitas, rubric moral, skor kesalehan, SOP pembinaan, atau bukti efektivitas pendidikan berbasis nilai tertentu.
-
-Perincian konstruk dan pengukuran ditempatkan pada `02_CORE_MODEL` dan `04_ASSESSMENT`. Evidence empiris ditelusurkan melalui `08_SOURCES_AND_EVIDENCE` dan `09_RESEARCH`.
-
-## Ke mana pembahasan bergerak?
-
-Orientasi nilai ini menjadi pijakan bagi **Education, Leadership, Change, Graduate Profile, dan Capacity Architecture**.
-
-**Status keilmuan:** posisi normatif-konseptual worldview.
-
-**Lineage:** rekonstruksi canonical v2.0.0; sumber normatif spesifik perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`.
+Sumber normatif spesifik perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`.
