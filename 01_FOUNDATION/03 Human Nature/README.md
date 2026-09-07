@@ -1,26 +1,38 @@
 # 03 Human Nature — Hakikat Manusia
 
-**Status:** CANONICAL DRAFT — Foundation v2.0.0
+**Status:** Canonical Draft  
 **Layer:** `01_FOUNDATION/03 Human Nature`
 
 Human Nature membahas pertanyaan sederhana tetapi mendasar: **siapa manusia yang hendak dikembangkan oleh TUMBUH?**
 
-Jika Worldview memberi arah tentang realitas, manusia, kehidupan, dan nilai, Human Nature membawa pembahasan itu lebih dekat kepada manusia sebagai pelaku pendidikan. Bagian ini tidak membuat diagnosis psikologis dan tidak menentukan instrumen asesmen. Fokusnya adalah asumsi dasar tentang manusia yang diperlukan sebelum TUMBUH merancang perkembangan, kapasitas, asesmen, intervensi, dan program.
+TUMBUH memandang manusia sebagai makhluk ciptaan Allah yang memiliki martabat, kemampuan memahami dan memilih, kehidupan batin, hubungan dengan orang lain, potensi, keterbatasan, dan tanggung jawab.
 
-## Pokok pembahasan
+Pandangan ini penting karena cara kita memahami manusia akan memengaruhi cara kita mendidik, menilai, mendampingi, dan memperlakukan manusia.
 
-1. **Hakikat Manusia** — manusia sebagai makhluk yang memiliki martabat, kemampuan, kehendak, dan tanggung jawab.
-2. **Dimensi dan Struktur Manusia** — manusia tidak cukup dipahami dari satu sisi; tubuh, pikiran, perasaan, kehendak, kehidupan batin, dan relasi perlu dilihat secara utuh.
-3. **Akal, Hati, Kehendak, dan Agency** — bagaimana manusia memahami, merasakan, memilih, dan bertindak sebagai pelaku.
-4. **Manusia, Relasi, dan Lingkungan** — manusia berkembang dalam hubungan dan konteks kehidupan nyata.
-5. **Potensi, Keterbatasan, dan Perbedaan Individu** — manusia dapat berkembang, tetapi tidak berkembang dengan cara dan kecepatan yang sama.
-6. **Kesalahan, Perubahan, dan Kemungkinan Bertumbuh** — kesalahan tidak disamakan dengan identitas; perubahan membutuhkan tanggung jawab sekaligus kesempatan untuk memperbaiki diri.
-7. **Implikasi Human Nature bagi TUMBUH** — konsekuensi pandangan tersebut bagi rancangan sistem TUMBUH.
+## Struktur Pembahasan
 
-## Batas pembahasan
+Human Nature tidak dibuat dengan jumlah file yang harus sama dengan subdomain Foundation lainnya. Pembagiannya mengikuti pertanyaan yang memang perlu dijawab.
 
-Human Nature bukan buku psikologi dan bukan tempat menetapkan klaim ilmiah tentang perkembangan manusia. Jika TUMBUH membuat klaim tentang motivasi, otak, emosi, perilaku, atau hubungan sebab-akibat, klaim tersebut perlu diperiksa melalui **Epistemology, Sources & Evidence, dan Research**.
+1. **Manusia sebagai Makhluk** — kedudukan manusia sebagai ciptaan Allah.
+2. **Akal, Hati, Kehendak, dan Agency** — kemampuan manusia memahami, memilih, dan bertindak.
+3. **Manusia dalam Relasi** — manusia sebagai pribadi yang hidup dan berkembang dalam hubungan.
+4. **Potensi, Keterbatasan, dan Perbedaan Individu** — kemampuan untuk berkembang sekaligus kenyataan bahwa manusia berbeda.
+5. **Kesalahan, Perubahan, dan Kemungkinan Bertumbuh** — bagaimana kesalahan dan perubahan dipahami dalam proses pembinaan.
+6. **Implikasi Human Nature bagi TUMBUH** — konsekuensi pandangan tentang manusia bagi desain sistem.
 
-## Hubungan dengan subdomain berikutnya
+## Batas Pembahasan
 
-Human Nature menjawab **siapa manusia**. Human Development kemudian menjawab **bagaimana manusia berubah dan berkembang dari waktu ke waktu**.
+Human Nature menetapkan pandangan dasar tentang manusia. Ia tidak menetapkan diagnosis klinis, instrumen asesmen, ukuran psikometrik, atau prosedur intervensi.
+
+Pernyataan khusus tentang perkembangan psikologis, fungsi otak, motivasi, atau hubungan sebab-akibat perlu diperiksa melalui Evidence dan Research. Human Nature memberi arah konseptual, bukan menggantikan penelitian.
+
+## Hubungan dengan Foundation Lain
+
+**Worldview** menjelaskan cara TUMBUH memandang realitas, Allah, kehidupan, dan nilai.  
+**Epistemology** menjelaskan bagaimana pengetahuan diperoleh, diperiksa, dan dinilai.  
+**Human Nature** menjelaskan siapa manusia yang menjadi subjek pengembangan.  
+**Human Development** kemudian membahas bagaimana manusia berkembang dan berubah dari waktu ke waktu.
+
+Dengan demikian alurnya bukan sekadar kumpulan topik, tetapi bergerak dari:
+
+**realitas → pengetahuan → manusia → perkembangan manusia.**
