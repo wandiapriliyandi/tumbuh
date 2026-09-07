@@ -1,8 +1,5 @@
 # 01 — Definisi Realitas
 
-**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/01 Worldview`
-
 Sebelum TUMBUH berbicara tentang manusia yang berkembang, ada pertanyaan yang lebih mendasar: **realitas seperti apa yang sedang kita bicarakan?**
 
 Jawaban atas pertanyaan ini penting karena cara kita memahami kenyataan akan menentukan apa yang kita anggap mungkin, apa yang perlu diperhatikan, dan apa yang tidak boleh kita abaikan ketika membangun pendidikan.
