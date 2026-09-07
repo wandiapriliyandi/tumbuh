@@ -14,6 +14,8 @@ Untuk kenyataan yang dapat diamati, TUMBUH menggunakan pengamatan, pengukuran, p
 
 Ini bukan berarti semua sumber pengetahuan harus dipaksa masuk ke satu metode. Justru pertanyaan menentukan cara memperoleh pengetahuan.
 
+Al-Ghazali memberi contoh penting tentang kehati-hatian dalam memperoleh pengetahuan. Dalam *Al-Munqidh min al-Dalal*, ia memeriksa dasar pengetahuan inderawi dan rasional untuk memahami sejauh mana keduanya dapat dipercaya dan memberikan kepastian. [^2]
+
 ## Contoh sederhana di pendidikan
 
 Jika kita ingin mengetahui **berapa banyak santri hadir**, kita membutuhkan catatan kehadiran yang baik.
@@ -42,7 +44,7 @@ Prinsip ini menjadi penting agar TUMBUH tidak mengubah pengalaman menjadi hukum 
 
 Dari sini muncul pertanyaan berikutnya: **setelah pengetahuan diperoleh, bagaimana kita memeriksa apakah pengetahuan itu layak dipercaya?**
 
-## Rujukan kunci
+## Catatan kaki
 
 [^1]: Stanford Encyclopedia of Philosophy, “Epistemology” dan “Epistemological Problems of Testimony”, membahas sumber pengetahuan seperti persepsi, ingatan, penalaran, dan testimony serta persoalan keandalan kesaksian.
 
