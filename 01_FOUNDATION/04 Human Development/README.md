@@ -4,9 +4,9 @@
 
 Human Nature menjawab **siapa manusia**. Bagian ini melanjutkan pertanyaan yang berbeda: **bagaimana manusia berkembang dan berubah dari waktu ke waktu?**
 
-Perkembangan bukan sekadar bertambah umur atau bertambah banyak pengetahuan. Perkembangan berarti adanya perubahan dalam kemampuan, pemahaman, kebiasaan, cara mengatur diri, hubungan, dan cara menjalankan tanggung jawab.
+Perkembangan bukan sekadar bertambah umur atau bertambah banyak pengetahuan. Perkembangan mencakup perubahan pada kemampuan, pemahaman, kebiasaan, cara mengatur diri, hubungan, dan cara menjalankan tanggung jawab.
 
-TUMBUH memandang perkembangan sebagai proses yang bertahap, dinamis, dan dipengaruhi hubungan antara diri seseorang dengan lingkungan. Penelitian perkembangan kontemporer juga menekankan hubungan timbal balik antara individu dan konteksnya. citeturn0search0turn0search4
+Dalam ilmu perkembangan, manusia dipahami sebagai bagian dari proses yang berlangsung dalam hubungan dengan konteks. Individu dan lingkungan dapat saling memengaruhi, dan perkembangan dapat berubah seiring waktu. Karena itu TUMBUH tidak melihat perkembangan sebagai proses yang sepenuhnya ditentukan oleh usia, sifat bawaan, atau lingkungan saja. citeturn0search0turn0search6
 
 ## Pertanyaan Utama
 
@@ -20,12 +20,14 @@ TUMBUH memandang perkembangan sebagai proses yang bertahap, dinamis, dan dipenga
 
 ## Prinsip Dasar
 
-- **Bertahap:** perkembangan memiliki proses dan tidak harus terjadi sekaligus.
-- **Berkelanjutan:** perubahan membutuhkan kesempatan untuk berlatih dan mengulang.
+- **Bertahap:** perkembangan berlangsung melalui proses, bukan selalu sekaligus.
+- **Berkelanjutan:** perubahan membutuhkan kesempatan untuk belajar, berlatih, dan menyesuaikan diri.
 - **Beragam:** orang tidak berkembang dengan kecepatan dan pola yang sama.
-- **Kontekstual:** keluarga, sekolah, asrama, teman sebaya, budaya, dan pengalaman ikut membentuk perkembangan.
+- **Kontekstual:** keluarga, sekolah, asrama, teman sebaya, budaya, dan pengalaman ikut membentuk kondisi perkembangan.
 - **Multidimensi:** perkembangan tidak dapat diringkas menjadi satu ukuran.
-- **Memperhatikan kesiapan:** tuntutan dan dukungan perlu sesuai dengan kemampuan yang sedang berkembang.
+- **Relasional:** perubahan manusia perlu dipahami bersama hubungan antara individu dan lingkungan.
+- **Memperhatikan kesiapan:** tuntutan dan dukungan perlu disesuaikan dengan kemampuan yang sedang berkembang.
+- **Memiliki kemungkinan berubah:** pengalaman dapat membuka peluang perubahan, tetapi perubahan tidak otomatis terjadi dan tidak tanpa batas. citeturn0search5turn0search2
 
 ## Posisi J1–J4
 
