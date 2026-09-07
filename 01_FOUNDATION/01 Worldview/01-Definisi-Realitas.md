@@ -6,7 +6,7 @@ Pertanyaan ini penting karena cara kita memandang kenyataan akan memengaruhi car
 
 ## Realitas tidak berdiri sendiri
 
-TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang kenyataan dan kehidupan. Dalam worldview Islam, **Allah adalah Al-Khaliq**, yaitu Pencipta, sedangkan segala sesuatu selain-Nya adalah **makhluk**, yaitu ciptaan-Nya.[^1]
+TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang kenyataan dan kehidupan. Dalam worldview Islam, **Allah adalah Al-Khaliq**, yaitu Pencipta, sedangkan segala sesuatu selain-Nya adalah **makhluk**, yaitu ciptaan-Nya.
 
 > “Allah adalah Pencipta segala sesuatu.”[^1]
 
@@ -30,7 +30,7 @@ Dengan demikian, ada dua sikap yang perlu dijaga sekaligus: **serius terhadap ke
 
 Dunia ciptaan memiliki keteraturan yang dapat dipelajari. Manusia dapat memperhatikan hubungan sebab dan akibat, belajar dari pengalaman, merencanakan tindakan, dan melakukan **ikhtiar**, yaitu usaha sadar untuk mencapai atau memperbaiki sesuatu.
 
-Tetapi ikhtiar tidak sama dengan menguasai seluruh hasil. Manusia berusaha dalam kondisi yang tidak seluruhnya ia tentukan. Al-Qur'an mengaitkan manusia dengan apa yang diusahakannya.[^3]
+Tetapi ikhtiar tidak sama dengan menguasai seluruh hasil. Manusia berusaha dalam kondisi yang tidak seluruhnya ia tentukan. Al-Qur'an mengingatkan bahwa manusia memperoleh sesuai dengan apa yang diusahakannya:
 
 > “...manusia hanya memperoleh apa yang telah diusahakannya...”[^3]
 
