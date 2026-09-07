@@ -1,39 +1,21 @@
-# 06 Leadership — Kepemimpinan
+# 06 Leadership — Kepemimpinan Pendidikan
 
-**Status:** DESIGNED — Foundation baseline v2.0.0
+Kepemimpinan dalam TUMBUH bukan hanya soal siapa yang memiliki jabatan. Kepemimpinan adalah cara seseorang menggunakan pengaruh, wewenang, dan tanggung jawab untuk menjaga arah pendidikan dan membantu orang lain berkembang.
 
-## Purpose
+Dalam konteks pesantren, kepemimpinan memiliki dimensi yang khas: **amanah, keteladanan, pelayanan, musyawarah, keadilan, dan tanggung jawab terhadap manusia yang dibina.** Penelitian tentang kepemimpinan pesantren juga menunjukkan kuatnya tema amanah, keteladanan, pelayanan, musyawarah, komunikasi, dan evaluasi. citeturn0search1turn0search4
 
-Menetapkan pandangan dasar tentang kepemimpinan yang diperlukan agar sistem pembinaan dapat berjalan secara aman, beradab, akuntabel, dan berorientasi pada pertumbuhan manusia.
+## Pertanyaan utama
 
-## Core Position
+1. Apa hakikat kepemimpinan?
+2. Dari mana legitimasi dan batas kewenangan pemimpin berasal?
+3. Mengapa keteladanan penting dalam pendidikan?
+4. Bagaimana pemimpin menggunakan pengaruh tanpa menciptakan ketergantungan?
+5. Bagaimana keputusan dibuat ketika kepentingan berbeda?
+6. Bagaimana kepemimpinan membangun orang lain, bukan hanya mengatur mereka?
+7. Apa arti kepemimpinan yang bertanggung jawab dalam sistem TUMBUH?
 
-Kepemimpinan adalah amanah untuk mengarahkan manusia dan sumber daya menuju tujuan yang benar dengan menjaga martabat, keselamatan, keadilan, keteladanan, dan akuntabilitas.
+## Batas
 
-## Qudwah
+Foundation ini menetapkan arah dan prinsip kepemimpinan. Ia tidak menetapkan struktur jabatan, SOP rapat, pembagian tugas, atau model manajemen tertentu. Hal tersebut dibangun pada Implementation.
 
-Keteladanan merupakan bagian dari mekanisme pendidikan: pemimpin dan pendidik tidak hanya menetapkan standar tetapi memperlihatkannya dalam perilaku. Klaim bahwa keteladanan menghasilkan efek tertentu tetap merupakan pertanyaan empiris yang dapat diteliti.
-
-## Servant Orientation
-
-Pemimpin melayani tujuan pendidikan dan perkembangan anggota sistem. Melayani tidak berarti menghilangkan standar, batas, atau akuntabilitas.
-
-## Syura dan Decision Quality
-
-Keputusan penting perlu membuka ruang konsultasi, tabayyun, pemeriksaan data, dan pertimbangan dampak. Otoritas tetap diperlukan ketika keputusan harus dibuat, tetapi prosesnya harus dapat dipertanggungjawabkan.
-
-## Anti-Abuse of Power
-
-TUMBUH menolak penyalahgunaan senioritas, feodalisme, intimidasi, penghinaan, konflik kepentingan yang tidak dikelola, dan penggunaan kekuasaan untuk kepentingan pribadi.
-
-## Accountability
-
-Kepemimpinan harus memiliki tujuan, peran, kewenangan, batas kewenangan, mekanisme eskalasi, dokumentasi, review, dan perlindungan terhadap peserta didik serta staf.
-
-## Boundary
-
-Foundation tidak menentukan struktur organisasi spesifik. Governance, RACI, staffing, workflow, dan SOP ditetapkan pada Implementation.
-
-## Downstream Implication
-
-Prinsip ini menjadi dasar Governance & Roles, Staff Development, Change Management, Safeguarding, Family Partnership, dan Continuous Improvement.
+**Lanjut ke:** Change, yang membahas bagaimana manusia dan organisasi bergerak dari kondisi sekarang menuju kondisi yang diharapkan.
