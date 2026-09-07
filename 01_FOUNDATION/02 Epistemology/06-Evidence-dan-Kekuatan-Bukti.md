@@ -4,7 +4,7 @@
 
 Evidence tidak hanya berarti angka. Catatan observasi, hasil wawancara, data assessment, dokumen, hasil penelitian, atau pengalaman lapangan dapat menjadi evidence, selama jelas apa yang dapat dan tidak dapat disimpulkan darinya.
 
-Dalam epistemologi, evidence berkaitan dengan alasan yang membuat suatu keyakinan lebih layak diterima. Karena itu, banyaknya data tidak otomatis berarti kuatnya bukti. Evidence harus dilihat bersama kualitas proses yang menghasilkan data dan hubungan data tersebut dengan klaim yang sedang dinilai. urlStanford Encyclopedia of Philosophy — Evidencehttps://plato.stanford.edu/entries/evidence/
+Dalam epistemologi, evidence berkaitan dengan alasan yang membuat suatu keyakinan lebih layak diterima. Karena itu, banyaknya data tidak otomatis berarti kuatnya bukti. Evidence harus dilihat bersama kualitas proses yang menghasilkan data dan hubungan data tersebut dengan klaim yang sedang dinilai.[^1]
 
 ## Evidence harus sesuai dengan pertanyaan
 
@@ -25,7 +25,7 @@ TUMBUH perlu memperhatikan beberapa hal ketika menilai evidence:
 - **keterbatasan** — apa yang belum dapat dijelaskan oleh evidence tersebut; dan
 - **konteks** — pada siapa, di mana, dan dalam keadaan apa evidence diperoleh.
 
-Reliabilitas menjadi penting terutama ketika TUMBUH menggunakan laporan orang lain. Dalam epistemologi kesaksian, pertanyaan tentang apakah sumber dapat dipercaya, apakah ia berada dalam posisi mengetahui, dan apakah ada alasan untuk meragukannya merupakan bagian penting dari penilaian. urlStanford Encyclopedia of Philosophy — Epistemological Problems of Testimonyhttps://plato.stanford.edu/entries/testimony-episprob/
+Reliabilitas menjadi penting terutama ketika TUMBUH menggunakan laporan orang lain. Dalam epistemologi kesaksian, pertanyaan tentang apakah sumber dapat dipercaya, apakah ia berada dalam posisi mengetahui, dan apakah ada alasan untuk meragukannya merupakan bagian penting dari penilaian.[^2]
 
 ## Jangan mengubah data menjadi kesimpulan yang terlalu besar
 
@@ -36,3 +36,8 @@ Evidence yang baik membantu TUMBUH mengambil keputusan dengan lebih hati-hati. E
 Prinsip sederhananya: **semakin besar klaim, semakin jelas dasar yang harus ditunjukkan; semakin jauh kesimpulan dari data asli, semakin hati-hati bahasa yang digunakan.**
 
 Pertanyaan berikutnya: **bagaimana jika beberapa sumber pengetahuan memberikan informasi yang berbeda?**
+
+### Catatan kaki
+
+[^1]: Stanford Encyclopedia of Philosophy, “Evidence,” tentang evidence dan perannya dalam epistemologi serta penilaian terhadap klaim.
+[^2]: Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony,” tentang reliabilitas, evidence, dan kesaksian sebagai sumber pengetahuan.
