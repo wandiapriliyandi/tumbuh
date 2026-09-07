@@ -1,26 +1,41 @@
 # P2-01 — Core Principles TUMBUH
 
-**Status:** REWRITTEN — Wave 1
+Core Principles adalah prinsip normatif tingkat sistem yang mengikat cara TUMBUH dirancang dan dijalankan.
 
-**Source lineage:** `02 Principles/01 Core Principles`
+Prinsip ini bukan rubric, instrumen, SOP, metode tertentu, atau bukti bahwa sebuah pendekatan pasti efektif.
 
-## Role
+## 1. Pertumbuhan adalah urusan ekosistem
 
-Core Principles adalah prinsip normatif tingkat sistem yang mengikat desain dan implementasi TUMBUH. Ia bukan rubric, instrumen, SOP, atau bukti efektivitas.
+Pertumbuhan santri tidak berdiri sendiri. Pendidik, pengasuh, keluarga, teman sebaya, dan lembaga ikut membentuk lingkungan pertumbuhan.
 
-## Prinsip inti yang dibawa dari legacy
+## 2. Martabat manusia harus dijaga
 
-1. **Triad Pertumbuhan** — pertumbuhan santri, pendidik, dan lembaga dipandang sebagai bagian dari satu ekosistem.
-2. **Kemuliaan Fitrah dan Martabat Insan** — pembinaan wajib menjaga martabat manusia dan menolak penghinaan sebagai mekanisme pendidikan.
-3. **Keteladanan/Qudwah** — pendidik dan pengasuh menjadi bagian penting dari lingkungan pembelajaran melalui perilaku nyata.
-4. **Disiplin yang tegas sekaligus beradab** — koreksi diarahkan pada perbaikan, tanggung jawab, dan pemulihan, bukan penghinaan atau kekerasan.
-5. **Pengambilan keputusan berbasis data dan tabayyun** — keputusan pembinaan harus membedakan fakta, interpretasi, dan dugaan.
-6. **Tadarruj dan istiqamah** — perubahan dirancang bertahap dan berkelanjutan, bukan melalui tuntutan perubahan yang tidak realistis.
+Manusia tidak boleh diperlakukan sebagai objek yang boleh dipermalukan demi mencapai target. Koreksi, asesmen, dan intervensi tetap harus menjaga martabat.
 
-## Boundary
+## 3. Keteladanan adalah bagian dari pendidikan
 
-Prinsip di atas menjadi arah desain. Rincian indikator, measurement, tier intervensi, staffing, program, metode, dan SOP harus ditetapkan pada layer masing-masing.
+Nilai yang diajarkan perlu terlihat dalam perilaku orang dewasa dan pemimpin. Sistem tidak dapat meminta santri melakukan sesuatu yang terus-menerus dilanggar oleh lingkungannya sendiri.
 
-## Epistemic note
+## 4. Disiplin bertujuan memperbaiki
 
-Dokumen legacy menggabungkan prinsip normatif dengan klaim empiris dan angka operasional. Dalam v2, klaim-klaim tersebut dipisahkan dan tidak dianggap tervalidasi hanya karena berada di bawah Core Principles.
+Disiplin dibutuhkan untuk menjaga batas dan tanggung jawab. Namun koreksi diarahkan pada pemahaman, perbaikan, pemulihan, dan kemampuan mengambil tanggung jawab, bukan penghinaan atau kekerasan.
+
+## 5. Keputusan harus jernih terhadap informasi
+
+TUMBUH perlu membedakan **fakta, interpretasi, dan dugaan**. Informasi yang belum cukup tidak boleh diperlakukan seolah-olah sudah menjadi fakta.
+
+## 6. Pertumbuhan membutuhkan proses
+
+Perubahan perlu mempertimbangkan tahap, kesiapan, latihan, dukungan, dan kesinambungan. Tuntutan yang baik tetap perlu disesuaikan dengan kondisi manusia yang menjalaninya.
+
+## 7. Sistem harus belajar dari kenyataan
+
+Prinsip memberi arah, sedangkan evidence membantu kita mengetahui apakah cara yang dipilih bekerja. Karena itu TUMBUH harus terbuka terhadap evaluasi dan perbaikan.
+
+## 8. Tujuan pendidikan lebih besar daripada kepatuhan sesaat
+
+Kepatuhan dapat menjadi bagian dari pendidikan, tetapi tujuan akhirnya bukan membuat manusia selalu bergantung pada kontrol. TUMBUH diarahkan pada kemampuan memahami, memilih, bertindak, dan bertanggung jawab.
+
+## Batas
+
+Rincian indikator, instrumen, tier dukungan, staffing, program, metode, dan SOP ditetapkan pada layer masing-masing.
