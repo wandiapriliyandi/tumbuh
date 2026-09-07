@@ -24,6 +24,16 @@ Karena itu, TUMBUH tidak boleh menyamakan “nyata” dengan “bisa diukur”. 
 
 Dua sikap perlu berjalan bersama: **serius terhadap kenyataan yang dapat dipelajari dan rendah hati terhadap keterbatasan manusia.**
 
+## Akal dan wahyu tidak harus ditempatkan sebagai lawan
+
+Tradisi intelektual Islam memiliki perdebatan panjang tentang bagaimana akal, pengalaman, dan wahyu berhubungan. Al-Ghazali, misalnya, menunjukkan bahwa manusia perlu menguji dasar-dasar keyakinannya dan tidak sekadar menerima sesuatu sebagai benar karena kebiasaan atau otoritas. Dalam *Al-Munqidh min al-Dalal*, ia bahkan menguji kembali keandalan pengalaman inderawi dan prinsip-prinsip rasional sebelum membahas tingkat pengetahuan yang lebih tinggi.[^4]
+
+Ibn Rushd mengambil tekanan yang berbeda: ia menekankan bahwa penggunaan penalaran yang benar tidak perlu dipertentangkan dengan wahyu. Dalam *Fasl al-Maqal*, hubungan antara syariat dan penalaran filosofis dibahas sebagai hubungan yang dapat saling menguatkan ketika masing-masing digunakan secara tepat.[^5]
+
+Dua tokoh ini tidak boleh diperlakukan seolah-olah mengatakan hal yang sama. Justru perbedaan mereka memperlihatkan bahwa tradisi Islam memiliki sejarah serius dalam membahas **bagaimana manusia mengetahui sesuatu dan apa batas akal**.
+
+Bagi TUMBUH, wawasan ini membantu menjaga dua sikap sekaligus: **jangan mematikan akal atas nama agama, tetapi jangan pula menganggap kemampuan akal manusia tidak memiliki batas.** Pembahasan rinci tentang cara memperoleh dan menilai pengetahuan tetap menjadi pekerjaan Epistemology.
+
 ## Dunia memiliki keteraturan, manusia memiliki ikhtiar
 
 Dunia ciptaan Allah memiliki keteraturan yang dapat dipelajari. Manusia dapat memperhatikan sebab dan akibat, belajar dari pengalaman, merencanakan tindakan, dan melakukan **ikhtiar**, yaitu usaha sadar untuk mencapai atau memperbaiki sesuatu.
@@ -56,7 +66,9 @@ Pembahasan tentang **bagaimana manusia memperoleh dan memeriksa pengetahuan** ti
 [^1]: Al-Qur'an, QS. Az-Zumar [39]: 62.
 [^2]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
 [^3]: Al-Qur'an, QS. An-Najm [53]: 39–40.
+[^4]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*). Lihat pembahasan tentang pencarian dasar kepastian dan pemeriksaan terhadap indera serta akal. Sumber teks: ghazali.org. citeturn0search0turn0search1
+[^5]: Ibn Rushd, *Fasl al-Maqal fi ma bayna al-Hikmah wa al-Shari'ah min al-Ittisal* (*The Decisive Treatise*). Lihat pembahasan tentang hubungan penalaran dan syariat. Ringkasan dan kajian: Dar al-Ifta' Egypt; Tamtowi, M. *Keselarasan antara Syariah dan Falsafah*. citeturn0search5turn0search10
 
 ## Sumber yang memperkaya pembahasan
 
-Pembahasan ini menggunakan Al-Qur'an sebagai sumber primer untuk posisi teologis tentang Allah sebagai Pencipta, ciptaan, dan perkara gaib. Rumusan mengenai implikasinya bagi sistem TUMBUH merupakan sintesis TUMBUH sendiri.
+Pembahasan ini menggunakan Al-Qur'an sebagai sumber primer untuk posisi teologis tentang Allah sebagai Pencipta, ciptaan, dan perkara gaib. Al-Ghazali dan Ibn Rushd digunakan untuk memperkaya sejarah pemikiran Islam tentang pengetahuan, akal, dan wahyu. Rumusan mengenai implikasinya bagi sistem TUMBUH merupakan sintesis TUMBUH sendiri.
