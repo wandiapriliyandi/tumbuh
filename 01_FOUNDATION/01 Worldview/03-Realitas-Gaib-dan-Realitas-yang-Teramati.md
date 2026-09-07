@@ -11,17 +11,19 @@ Sebagian realitas ciptaan dapat kita dekati melalui pengalaman, observasi, pengu
 
 Pendidikan banyak bekerja di wilayah ini. Perilaku, interaksi sosial, lingkungan belajar, kondisi fisik, proses pembelajaran, perubahan perilaku, dan outcome tertentu dapat menjadi objek penyelidikan.
 
-Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Pengukuran tetap bergantung pada kualitas definisi, metode, data, dan penalarannya.
+Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Dalam filsafat pengetahuan, pengalaman inderawi sendiri bersifat dapat keliru; karena itu pengetahuan perlu diperiksa bersama sumber, alasan, dan kualitas pembenarannya.[^3]
 
 ## Yang tidak ditangkap oleh indera
 
-Dalam worldview Islam, perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, memiliki kedudukan berbeda. Ia tidak ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih.
+Dalam worldview Islam, perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, memiliki kedudukan berbeda. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman.[^1]
 
-Karena itu TUMBUH tidak perlu memaksa perkara gaib menjadi angka hanya agar dapat masuk ke sistem pengukuran.
+> “...beriman kepada yang gaib...”[^1]
+
+Perkara gaib tidak ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih. Karena itu TUMBUH tidak perlu memaksa perkara gaib menjadi angka hanya agar dapat masuk ke sistem pengukuran.
 
 Sebaliknya, sesuatu yang belum dapat dijelaskan secara empiris juga tidak otomatis boleh disebut perkara gaib. Ketidaktahuan kita bukan bukti dengan sendirinya.
 
-Pembedaan sederhana ini penting agar TUMBUH tidak jatuh ke salah satu dari dua sisi: menganggap hanya yang terukur yang nyata, atau memakai klaim keagamaan untuk menggantikan evidence ketika pertanyaannya memang empiris.
+Dalam tradisi epistemologi Islam, wahyu, akal, dan pengalaman inderawi dibahas sebagai sumber atau sarana pengetahuan dengan fungsi dan batas yang berbeda. Literatur kontemporer tentang epistemologi Islam juga menekankan pentingnya menjaga hubungan antara wahyu, penalaran, dan pengalaman tanpa mencampuradukkan wilayahnya.[^4]
 
 ## Ketika pertanyaan berubah, cara mengetahuinya juga berubah
 
@@ -31,7 +33,7 @@ Pertanyaan pertama membutuhkan penyelidikan terhadap kenyataan empiris. Pertanya
 
 Lalu ada pertanyaan seperti **“apakah program ini efektif?”**. Pertanyaan semacam ini tidak selesai dengan keyakinan bahwa program tersebut baik. Ia membutuhkan evidence dan evaluasi.
 
-Cara memperoleh, menilai, menguji, dan mengintegrasikan pengetahuan akan dibahas lebih jauh dalam **Epistemology**. Worldview di sini hanya menetapkan batas agar kita tidak salah memperlakukan jenis realitas dan jenis pertanyaan.
+Epistemology kemudian menjadi tempat TUMBUH membahas bagaimana berbagai jenis pengetahuan tersebut diperoleh, diperiksa, dan dinilai. Worldview di sini hanya menetapkan batas agar kita tidak salah memperlakukan jenis realitas dan jenis pertanyaan.
 
 ## Lalu apa akibatnya bagi pendidikan?
 
@@ -45,4 +47,8 @@ Dengan batas ini, TUMBUH dapat mempertahankan worldview Islam tanpa kehilangan d
 
 Dari sini pembahasan bergerak kembali kepada manusia: **siapa manusia yang hidup sekaligus dalam realitas yang teramati dan dalam orientasi kehidupan yang melampaui apa yang dapat ditangkap indera?**
 
-Sumber normatif dan evidence yang menopang pembahasan ini ditelusurkan pada layer `08_SOURCES_AND_EVIDENCE`, sedangkan pertanyaan epistemiknya menjadi bagian `01_FOUNDATION/02 Epistemology`.
+### Sumber yang digunakan
+
+[^1]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
+[^3]: Stanford Encyclopedia of Philosophy. *Epistemology*, substantive revision 2024, bagian tentang sources of knowledge dan perception. https://plato.stanford.edu/entries/epistemology/
+[^4]: Basri, M., Fadriati, & Suryana, E. (2025). *Sources of Knowledge in Islam: Epistemology of Revelation, Reason, Senses, and Intuition*. At-Tasyrih, 11(2), 178–187. https://doi.org/10.55849/attasyrih.v11i2.353
