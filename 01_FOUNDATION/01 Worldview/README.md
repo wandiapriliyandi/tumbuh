@@ -7,6 +7,8 @@
 
 Worldview bukan sekadar pendapat pribadi. Ia adalah pandangan dasar yang menjadi pijakan ketika kita menjawab pertanyaan seperti: apa yang nyata, siapa manusia, untuk apa manusia hidup, apa yang baik, dan pendidikan seharusnya membawa manusia ke mana?
 
+TUMBUH berangkat dari worldview Islam, tetapi pembahasannya tidak berhenti pada pengulangan ayat. Setiap pertanyaan dibaca melalui sumber yang sesuai: Al-Qur'an dan Sunnah untuk dasar wahyu, tradisi pemikiran Islam untuk melihat bagaimana persoalan tersebut diperdebatkan, dan ilmu pengetahuan untuk memahami bagian-bagian kenyataan yang memang dapat diteliti. Hasil akhirnya adalah **sintesis TUMBUH**, bukan klaim bahwa semua sumber tersebut mengatakan hal yang sama.
+
 Karena itu Worldview ditempatkan di awal TUMBUH. Sebelum menentukan manusia seperti apa yang ingin dikembangkan, kita perlu tahu dulu cara kita memandang manusia dan kehidupannya.
 
 ## Tujuh pertanyaan dasar
@@ -38,6 +40,19 @@ NILAI & AMANAH
    ↓
 PENDIDIKAN
 ```
+
+## Cara membaca sumber
+
+Tidak semua sumber digunakan untuk menjawab pertanyaan yang sama.
+
+**Wahyu** memberi dasar normatif dan teologis tentang Allah, manusia, kehidupan, nilai, amanah, dan tujuan penciptaan.  
+**Tradisi intelektual Islam** membantu kita melihat bagaimana ulama dan pemikir Muslim memahami, memperdebatkan, dan menjelaskan persoalan tersebut.  
+**Ilmu pengetahuan** membantu TUMBUH memahami kenyataan yang dapat diteliti, misalnya perkembangan manusia, perilaku, hubungan sosial, pembelajaran, dan lingkungan.  
+**Sintesis TUMBUH** menerjemahkan berbagai wawasan tersebut menjadi posisi konseptual yang diperlukan oleh sistem.
+
+Keempatnya tidak boleh dicampur secara sembarangan. Temuan empiris tidak otomatis menjadi ajaran agama. Pendapat seorang tokoh Muslim juga tidak otomatis menjadi wahyu. Sebaliknya, sebuah prinsip normatif tidak perlu dibuktikan dengan eksperimen agar menjadi prinsip normatif.
+
+Prinsip ini penting karena TUMBUH ingin kaya wawasan tanpa kehilangan ketelitian.
 
 ## Cara pandang TUMBUH
 
