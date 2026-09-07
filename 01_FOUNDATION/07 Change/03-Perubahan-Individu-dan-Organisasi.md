@@ -1,31 +1,31 @@
 # 03 — Perubahan Individu dan Organisasi
 
-Perubahan pada individu dan perubahan pada organisasi saling berkaitan, tetapi tidak sama.
+Perubahan pada manusia dan perubahan pada lembaga saling memengaruhi, tetapi keduanya bukan hal yang sama.
 
-Seseorang dapat berubah tanpa organisasi berubah. Sebaliknya, organisasi dapat mengganti aturan, struktur, atau program tanpa perilaku manusia benar-benar berubah. Karena itu perubahan pada dokumen belum tentu sama dengan perubahan dalam kehidupan sehari-hari.
+Seseorang bisa berubah meskipun lembaganya belum berubah. Sebaliknya, lembaga bisa mengganti aturan, struktur, atau program tanpa membuat kebiasaan orang-orang di dalamnya benar-benar berubah. Karena itu, perubahan pada dokumen belum tentu menjadi perubahan dalam kehidupan sehari-hari.
 
-Contohnya sederhana. Pesantren dapat membuat aturan baru tentang kedisiplinan. Aturan itu sudah resmi berlaku, tetapi jika pola pengawasan, kebiasaan pembina, sistem penghargaan, dan lingkungan kamar masih mendorong perilaku lama, perubahan yang diharapkan mungkin tidak terjadi.
+Contohnya sederhana. Pesantren membuat aturan baru tentang kedisiplinan. Aturannya sudah resmi, tetapi pola pengawasan, kebiasaan pembina, sistem penghargaan, dan suasana kamar masih mendorong perilaku lama. Dalam keadaan seperti ini, kita tidak bisa langsung mengatakan bahwa santri gagal berubah. Bisa jadi lingkungan belum membantu perubahan tersebut.
 
-Sebaliknya, individu juga dapat mulai berubah sebelum sistem berubah. Seorang musyrif mungkin sudah menemukan cara pendampingan yang lebih baik, tetapi jika jadwal, beban kerja, atau kebijakan lembaga tidak mendukung, perubahan tersebut dapat sulit berkembang atau bertahan.
+Hal yang sama bisa terjadi pada pendidik. Seorang musyrif mungkin sudah menemukan cara pendampingan yang lebih baik, tetapi jadwal, beban kerja, atau kebijakan lembaga tidak mendukungnya. Perubahan yang sudah dimulai pada diri seseorang akhirnya sulit berkembang atau bertahan.
 
-Karena itu TUMBUH perlu melihat **manusia dan sistem secara bersamaan**. Perubahan perilaku manusia dipengaruhi lingkungan tempat perilaku itu dilakukan. Perubahan organisasi juga pada akhirnya harus terlihat dalam cara manusia bekerja, berinteraksi, mengambil keputusan, dan menjalankan tanggung jawab.
+Di sini TUMBUH perlu melihat dua arah sekaligus: **manusia memengaruhi sistem, dan sistem memengaruhi manusia**. Kebiasaan orang-orang dapat membentuk budaya lembaga. Pada saat yang sama, aturan, lingkungan, kepemimpinan, dan pembagian tanggung jawab dapat memudahkan atau menghambat kebiasaan baru.
 
-Hal ini membuat perubahan tidak cukup dinilai dari satu sisi. Kita perlu melihat setidaknya:
+Karena itu, ketika menilai perubahan, kita tidak cukup bertanya, “Apakah orangnya sudah berubah?” Kita juga perlu bertanya:
 
-- apa yang berubah pada perilaku manusia;
-- apa yang berubah pada kebiasaan dan cara kerja;
-- apakah lingkungan mendukung perilaku baru;
-- apakah aturan dan sumber daya selaras dengan perubahan;
-- apakah pemimpin memberi contoh yang sesuai;
-- dan apakah perubahan tersebut memberi hasil yang memang diharapkan.
+- Apakah cara kerja sehari-hari ikut berubah?
+- Apakah lingkungan mendukung perilaku yang diharapkan?
+- Apakah aturan dan sumber daya sudah selaras?
+- Apakah pemimpin memberi contoh yang sesuai?
+- Apakah orang memiliki kemampuan untuk menjalankan cara baru?
+- Apakah perubahan tersebut menghasilkan dampak yang memang diharapkan?
 
-Penelitian mengenai keberlanjutan reformasi pendidikan menunjukkan pola yang serupa. Perubahan lebih mungkin bertahan ketika kepemimpinan, sumber daya, pengembangan profesional, data dan evaluasi, keterlibatan pihak terkait, serta dukungan pada pendidik berjalan secara selaras.[^1]
+Penelitian tentang keberlanjutan perubahan pendidikan menunjukkan bahwa perubahan lebih mungkin bertahan ketika kepemimpinan, sumber daya, pengembangan profesional, penggunaan data, keterlibatan pihak terkait, dan dukungan bagi pendidik berjalan secara selaras.[^1]
 
-Ini juga menjelaskan mengapa TUMBUH tidak boleh hanya membuat program untuk “mengubah santri”. Jika tujuan pendidikan adalah membantu manusia berkembang, maka lingkungan, pendidik, aturan, budaya, dan cara lembaga bekerja juga harus diperiksa. Kadang masalah yang terlihat sebagai masalah individu sebenarnya diperkuat oleh sistem di sekitarnya.
+Ini membuat TUMBUH perlu berhati-hati terhadap kecenderungan untuk selalu mencari kesalahan pada individu. Kadang masalah yang terlihat sebagai masalah santri sebenarnya diperkuat oleh jadwal, aturan, lingkungan, atau pola pendampingan. Begitu pula masalah pendidik tidak selalu selesai hanya dengan pelatihan jika kondisi kerjanya tetap sama.
 
-Maka perubahan dalam TUMBUH bukan sekadar **mengubah orang**, tetapi juga **memperbaiki kondisi yang membuat perubahan manusia mungkin terjadi dan bertahan**.
+Maka perubahan dalam TUMBUH bukan sekadar **mengubah orang**. Perubahan juga berarti **memperbaiki kondisi yang membuat perubahan manusia mungkin terjadi dan bertahan**.
 
-Pertanyaan berikutnya: **apa yang membuat perubahan yang sudah dimulai dapat bertahan tanpa harus terus-menerus dipaksa?**
+Dari sini kita sampai pada pertanyaan berikutnya: **setelah perubahan mulai terjadi, apa yang membuatnya bertahan sehingga tidak kembali ke pola lama?**
 
 ### Catatan kaki
 
