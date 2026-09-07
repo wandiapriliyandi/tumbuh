@@ -8,7 +8,11 @@ Jawaban atas pertanyaan ini penting karena cara kita memahami kenyataan akan men
 
 TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang realitas dan kehidupan yang menjadi arah bagi cara kita memahami manusia, nilai, dan pendidikan. Dalam worldview Islam, **Allah adalah Al-Khaliq**, yaitu Pencipta, sedangkan segala sesuatu selain-Nya adalah makhluk, yaitu ciptaan-Nya.[^1]
 
-Karena itu, realitas tidak dipahami sebagai sesuatu yang berdiri sendiri tanpa Pencipta. Dunia yang kita alami memiliki keteraturan, keterbatasan, dan hubungan sebab-akibat yang dapat dipelajari. Manusia pun berada di dalam realitas tersebut, bukan berada di luar atau di atasnya.
+> “Allah adalah Pencipta segala sesuatu.”[^1]
+
+Ayat ini menjadi dasar teologis bagi cara TUMBUH memahami realitas: alam, manusia, dan seluruh kehidupan bukan sesuatu yang berdiri sendiri tanpa Pencipta.
+
+Dunia yang kita alami memiliki keteraturan, keterbatasan, dan hubungan sebab-akibat yang dapat dipelajari. Manusia pun berada di dalam realitas tersebut, bukan berada di luar atau di atasnya.
 
 Tubuh manusia, perilaku, keluarga, masyarakat, lembaga, proses belajar, lingkungan pendidikan, dan perubahan yang terjadi di dalamnya merupakan bagian dari ciptaan. Semuanya dapat menjadi objek pengamatan dan pembelajaran dengan cara yang sesuai dengan sifat objeknya.
 
@@ -16,7 +20,9 @@ Tubuh manusia, perilaku, keluarga, masyarakat, lembaga, proses belajar, lingkung
 
 Tidak semua yang nyata harus dapat ditangkap oleh indera.
 
-Dalam worldview Islam, terdapat perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa dan menjadi bagian dari apa yang diimani berdasarkan wahyu.[^2] Pada saat yang sama, keterbatasan pengamatan empiris tidak boleh digunakan untuk menyimpulkan bahwa sesuatu pasti gaib.
+Dalam worldview Islam, terdapat perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa dan menjadi bagian dari apa yang diimani berdasarkan wahyu. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman.[^2]
+
+> “...beriman kepada yang gaib...”[^2]
 
 Pembedaan ini menjaga TUMBUH dari dua kesalahan yang berlawanan: menyempitkan realitas hanya pada apa yang dapat diukur, atau memakai bahasa agama untuk menjawab pertanyaan yang sebenarnya membutuhkan penyelidikan terhadap kenyataan empiris.
 
@@ -26,15 +32,11 @@ Dengan kata lain, **cara mengetahui harus mengikuti jenis pertanyaan yang sedang
 
 Dunia ciptaan bukan dunia yang acak. Manusia dapat mengenali pola, memperhatikan sebab, belajar dari pengalaman, dan melakukan **ikhtiar**, yaitu usaha sadar yang dipilih dan dilakukan manusia untuk mencapai atau memperbaiki sesuatu.
 
-Namun, kemampuan untuk berikhtiar tidak sama dengan kemampuan mengendalikan seluruh hasil.
+Namun, kemampuan untuk berikhtiar tidak sama dengan kemampuan mengendalikan seluruh hasil. Al-Qur'an mengaitkan manusia dengan apa yang diusahakannya.[^3]
 
-TUMBUH karena itu perlu membedakan tiga hal yang sering tercampur:
+> “...manusia hanya memperoleh apa yang telah diusahakannya...”[^3]
 
-- **ikhtiar**, yaitu apa yang manusia pilih dan usahakan;
-- **kondisi dan faktor**, yaitu berbagai keadaan yang ikut membentuk proses; dan
-- **hasil**, yaitu keadaan yang muncul dan tidak selalu sepenuhnya berada dalam kendali manusia.
-
-Pembedaan ini bukan untuk melemahkan tanggung jawab. Justru dengan membedakannya, TUMBUH dapat menilai usaha secara lebih adil dan tidak menjadikan satu hasil sebagai satu-satunya ukuran nilai seseorang.
+TUMBUH karena itu perlu membedakan tiga hal yang sering tercampur: ikhtiar, kondisi dan faktor, serta hasil. Pembedaan ini bukan untuk melemahkan tanggung jawab. Justru dengan membedakannya, TUMBUH dapat menilai usaha secara lebih adil dan tidak menjadikan satu hasil sebagai satu-satunya ukuran nilai seseorang.
 
 ## Ketika Pandangan Ini Dibawa ke Pendidikan
 
@@ -48,5 +50,6 @@ Di sinilah TUMBUH mulai memperoleh arah: **pendidikan harus cukup dekat dengan k
 
 Pertanyaan berikutnya menjadi lebih dekat dengan pusat sistem: **jika seluruh realitas adalah ciptaan Allah, lalu bagaimana manusia harus memahami kedudukannya di dalam realitas itu?**
 
-[^1]: Al-Qur'an, Az-Zumar 39:62: Allah disebut sebagai Pencipta segala sesuatu. Lihat juga Az-Zumar 39:62 dalam *The Noble Qur'an*, Quran.com.
-[^2]: Al-Qur'an, Al-Baqarah 2:3 menyebut iman kepada perkara gaib sebagai bagian dari ciri orang beriman. Untuk pembahasan tentang hubungan wahyu dan perkara gaib dalam TUMBUH, lihat juga domain `01_FOUNDATION/02 Epistemology`.
+[^1]: Al-Qur'an, QS. Az-Zumar [39]: 62.
+[^2]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
+[^3]: Al-Qur'an, QS. An-Najm [53]: 39–40.
