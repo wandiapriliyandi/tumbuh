@@ -4,7 +4,7 @@ Memiliki informasi belum berarti kita memiliki pengetahuan yang kuat. Informasi 
 
 Pertanyaan dasarnya sederhana: **dari mana informasi ini berasal? Bagaimana informasi diperoleh? Apakah caranya sesuai dengan pertanyaan? Apa yang bisa membuat kita keliru? Dan seberapa jauh kesimpulan boleh dibuat?**
 
-Pertanyaan seperti ini sudah lama menjadi perhatian epistemologi. Pengetahuan tidak hanya menyangkut apakah sebuah pernyataan benar, tetapi juga alasan mengapa kita layak mempercayainya. Dalam epistemologi kontemporer, sumber seperti persepsi, ingatan, penalaran, dan kesaksian orang lain dibahas bersama dengan persoalan reliabilitas dan batas pengetahuan. [1]
+Pertanyaan seperti ini sudah lama menjadi perhatian epistemologi. Pengetahuan tidak hanya menyangkut apakah sebuah pernyataan benar, tetapi juga alasan mengapa kita layak mempercayainya. Dalam epistemologi kontemporer, sumber seperti persepsi, ingatan, penalaran, dan kesaksian orang lain dibahas bersama dengan persoalan reliabilitas dan batas pengetahuan. [^1]
 
 ## Tidak semua pemeriksaan harus memakai statistik
 
@@ -32,19 +32,19 @@ Jika data hanya menunjukkan perubahan pada satu kelompok, kita tidak boleh langs
 
 Jika dua hal terjadi bersamaan, kita juga tidak boleh langsung menyatakan bahwa yang satu menyebabkan yang lain.
 
-Jika sebuah studi menemukan hubungan antara dua variabel, **hubungan** belum otomatis berarti **sebab-akibat**. Klaim kausal membutuhkan dasar dan desain yang memungkinkan kita menilai kemungkinan penjelasan alternatif. Literatur causal inference modern menunjukkan bahwa pertanyaan kausal membutuhkan asumsi yang dinyatakan dengan jelas dan desain yang sesuai dengan pertanyaan tersebut. [2]
+Jika sebuah studi menemukan hubungan antara dua variabel, **hubungan** belum otomatis berarti **sebab-akibat**. Klaim kausal membutuhkan dasar dan desain yang memungkinkan kita menilai kemungkinan penjelasan alternatif. Literatur causal inference modern menunjukkan bahwa pertanyaan kausal membutuhkan asumsi yang dinyatakan dengan jelas dan desain yang sesuai dengan pertanyaan tersebut. [^2]
 
 ## Ada juga masalah pada sumbernya
 
 Kesaksian seseorang dapat sangat berguna, tetapi kita tetap perlu mempertimbangkan kompetensi, konteks, kemungkinan kesalahan ingatan, kepentingan, dan konsistensinya dengan informasi lain.
 
-Ini bukan berarti semua kesaksian harus dicurigai. Justru kehidupan sehari-hari dan ilmu pengetahuan sangat bergantung pada kesaksian orang lain. Persoalannya adalah **kapan kita layak mempercayainya dan kapan kita perlu melakukan pemeriksaan tambahan**. [3]
+Ini bukan berarti semua kesaksian harus dicurigai. Justru kehidupan sehari-hari dan ilmu pengetahuan sangat bergantung pada kesaksian orang lain. Persoalannya adalah **kapan kita layak mempercayainya dan kapan kita perlu melakukan pemeriksaan tambahan**. [^3]
 
 ## Dari Al-Ghazali kita belajar satu hal penting
 
 Al-Ghazali terkenal karena tidak menerima begitu saja keyakinan yang belum diperiksa. Dalam *Al-Munqidh min al-Dalal*, ia menggambarkan pencariannya terhadap pengetahuan yang benar dan mempertanyakan apakah apa yang tampak meyakinkan benar-benar memberikan kepastian.
 
-Pelajaran yang relevan bagi TUMBUH bukan bahwa semua pengetahuan harus memiliki kepastian mutlak. Pelajarannya adalah bahwa **dasar sebuah keyakinan perlu diperiksa, dan tingkat keyakinan harus sesuai dengan kualitas dasarnya**. [4]
+Pelajaran yang relevan bagi TUMBUH bukan bahwa semua pengetahuan harus memiliki kepastian mutlak. Pelajarannya adalah bahwa **dasar sebuah keyakinan perlu diperiksa, dan tingkat keyakinan harus sesuai dengan kualitas dasarnya**. [^4]
 
 ## Prinsip pemeriksaan TUMBUH
 
@@ -64,10 +64,10 @@ Setelah cara memeriksa pengetahuan jelas, kita perlu melihat bahwa pernyataan da
 
 ## Rujukan kunci
 
-[1] Stanford Encyclopedia of Philosophy, “Epistemology”, pembahasan tentang knowledge, justification, sources of knowledge, dan limits of cognitive success.
+[^1]: Stanford Encyclopedia of Philosophy, “Epistemology”, pembahasan tentang knowledge, justification, sources of knowledge, dan limits of cognitive success.
 
-[2] Judea Pearl, Madelyn Glymour, dan Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*. Wiley, 2016.
+[^2]: Judea Pearl, Madelyn Glymour, dan Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*. Wiley, 2016.
 
-[3] Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony”, tentang reliabilitas, evidence, dan kesaksian sebagai sumber pengetahuan.
+[^3]: Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony”, tentang reliabilitas, evidence, dan kesaksian sebagai sumber pengetahuan.
 
-[4] Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), tentang pencarian dasar pengetahuan dan kepastian.
+[^4]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), tentang pencarian dasar pengetahuan dan kepastian.
