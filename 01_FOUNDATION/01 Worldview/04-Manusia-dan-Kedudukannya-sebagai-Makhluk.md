@@ -1,8 +1,5 @@
 # 04 — Manusia dan Kedudukannya sebagai Makhluk
 
-**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/01 Worldview`
-
 Setelah membahas Allah dan ciptaan, pertanyaan berikutnya sederhana:
 
 > **Kalau manusia adalah makhluk Allah, lalu siapa manusia yang hendak dikembangkan?**
