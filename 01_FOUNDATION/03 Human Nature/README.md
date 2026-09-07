@@ -1,39 +1,26 @@
 # 03 Human Nature — Hakikat Manusia
 
-**Status:** DESIGNED — Foundation baseline v2.0.0
+**Status:** CANONICAL DRAFT — Foundation v2.0.0
+**Layer:** `01_FOUNDATION/03 Human Nature`
 
-## Purpose
+Human Nature membahas pertanyaan sederhana tetapi mendasar: **siapa manusia yang hendak dikembangkan oleh TUMBUH?**
 
-Menetapkan asumsi dasar TUMBUH tentang manusia sebelum manusia diterjemahkan menjadi kapasitas, indikator, asesmen, atau intervensi.
+Jika Worldview memberi arah tentang realitas, manusia, kehidupan, dan nilai, Human Nature membawa pembahasan itu lebih dekat kepada manusia sebagai pelaku pendidikan. Bagian ini tidak membuat diagnosis psikologis dan tidak menentukan instrumen asesmen. Fokusnya adalah asumsi dasar tentang manusia yang diperlukan sebelum TUMBUH merancang perkembangan, kapasitas, asesmen, intervensi, dan program.
 
-## Core Position
+## Pokok pembahasan
 
-Manusia dipandang sebagai makhluk yang memiliki martabat, fitrah, akal, kehendak, dimensi jasmani dan batin, relasi sosial, serta tanggung jawab moral kepada Allah. Karena itu manusia tidak direduksi menjadi skor perilaku atau objek kontrol.
+1. **Hakikat Manusia** — manusia sebagai makhluk yang memiliki martabat, kemampuan, kehendak, dan tanggung jawab.
+2. **Dimensi dan Struktur Manusia** — manusia tidak cukup dipahami dari satu sisi; tubuh, pikiran, perasaan, kehendak, kehidupan batin, dan relasi perlu dilihat secara utuh.
+3. **Akal, Hati, Kehendak, dan Agency** — bagaimana manusia memahami, merasakan, memilih, dan bertindak sebagai pelaku.
+4. **Manusia, Relasi, dan Lingkungan** — manusia berkembang dalam hubungan dan konteks kehidupan nyata.
+5. **Potensi, Keterbatasan, dan Perbedaan Individu** — manusia dapat berkembang, tetapi tidak berkembang dengan cara dan kecepatan yang sama.
+6. **Kesalahan, Perubahan, dan Kemungkinan Bertumbuh** — kesalahan tidak disamakan dengan identitas; perubahan membutuhkan tanggung jawab sekaligus kesempatan untuk memperbaiki diri.
+7. **Implikasi Human Nature bagi TUMBUH** — konsekuensi pandangan tersebut bagi rancangan sistem TUMBUH.
 
-## Fitrah
+## Batas pembahasan
 
-Fitrah menjadi konsep normatif penting dalam worldview TUMBUH. Fitrah tidak diperlakukan sebagai label psikometrik sederhana atau alasan untuk mengabaikan pengaruh lingkungan, pengalaman, pembelajaran, dan pilihan manusia.
+Human Nature bukan buku psikologi dan bukan tempat menetapkan klaim ilmiah tentang perkembangan manusia. Jika TUMBUH membuat klaim tentang motivasi, otak, emosi, perilaku, atau hubungan sebab-akibat, klaim tersebut perlu diperiksa melalui **Epistemology, Sources & Evidence, dan Research**.
 
-## Agency dan Tanggung Jawab
+## Hubungan dengan subdomain berikutnya
 
-Pembinaan perlu mengembangkan kemampuan memilih, memahami konsekuensi, memperbaiki kesalahan, dan mengambil tanggung jawab. Dukungan eksternal diperlukan pada kondisi tertentu, tetapi arah jangka panjangnya adalah meningkatnya kemandirian yang proporsional dengan kesiapan.
-
-## Martabat dan Batas Pembinaan
-
-- Tidak menggunakan penghinaan sebagai alat pendidikan.
-- Tidak menyamakan kesalahan dengan identitas pribadi.
-- Tidak menggunakan label yang mengunci perkembangan seseorang.
-- Koreksi diarahkan pada perilaku, tanggung jawab, perbaikan, dan pemulihan.
-- Perlindungan, keselamatan, dan kebutuhan perkembangan menjadi pertimbangan wajib.
-
-## Boundary
-
-Human Nature tidak menentukan diagnosis klinis, skor karakter, atau prosedur intervensi. Hal tersebut berada pada Assessment, Intervention, dan Research.
-
-## Research Boundary
-
-Pernyataan tentang motivasi, perkembangan otak, kebutuhan psikologis, atau hubungan sebab-akibat harus diverifikasi melalui Evidence Registry/Research dan tidak dianggap benar hanya karena sesuai dengan intuisi pendidikan.
-
-## Downstream Implication
-
-Pandangan manusia ini menjadi dasar bagi Graduate Profile, Capacity Architecture, Progression, Assessment, Intervention, dan Implementation.
+Human Nature menjawab **siapa manusia**. Human Development kemudian menjawab **bagaimana manusia berubah dan berkembang dari waktu ke waktu**.
