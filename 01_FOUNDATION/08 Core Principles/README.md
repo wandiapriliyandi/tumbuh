@@ -1,26 +1,16 @@
 # 08 Core Principles
 
-**Status:** DESIGNED — Foundation baseline v2.0.0
+Core Principles adalah prinsip yang **tidak boleh hilang ketika TUMBUH diterjemahkan menjadi desain dan praktik**.
 
-## Role
+Prinsip ini berbeda dari metode. Metode dapat berubah ketika evidence dan konteks berubah. Prinsip menjadi pagar agar perubahan tersebut tetap berada dalam arah yang benar.
 
-Core Principles adalah aturan normatif tingkat sistem yang mengikat desain dan implementasi TUMBUH.
+## Prinsip inti
 
-## Canonical Principles
+1. Pertumbuhan manusia, pendidik, dan lembaga saling berkaitan.
+2. Martabat manusia harus dijaga.
+3. Pendidik perlu menjadi teladan.
+4. Disiplin diarahkan pada tanggung jawab dan perbaikan, bukan penghinaan.
+5. Keputusan perlu membedakan fakta, tafsir, dan dugaan.
+6. Perubahan perlu bertahap dan konsisten.
 
-1. Triad Pertumbuhan.
-2. Kemuliaan fitrah dan martabat insan.
-3. Keteladanan/Qudwah.
-4. Disiplin yang tegas sekaligus beradab.
-5. Keputusan berbasis data dan tabayyun.
-6. Tadarruj dan istiqamah.
-
-Rincian prinsip dan batasnya berada pada `P2-01-Core-Principles-Canonical.md`.
-
-## Boundary
-
-Core Principles bukan rubrik, instrumen, SOP, metode, program, atau bukti efektivitas. Penerjemahan ke desain dilakukan melalui Design Principles dan layer berikutnya.
-
-## Governance
-
-Prinsip tidak boleh diam-diam diubah menjadi klaim empiris. Jika sebuah prinsip memuat dugaan tentang dampak atau efektivitas, dugaan tersebut dipisahkan dan dicatat pada Claim Registry.
+Rincian penerapan prinsip ditempatkan pada Core Model, Assessment, Intervention, Implementation, dan Programs.
