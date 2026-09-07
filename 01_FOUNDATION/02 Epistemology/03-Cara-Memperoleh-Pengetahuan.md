@@ -4,7 +4,7 @@ Setelah membedakan sumber pengetahuan, TUMBUH perlu memperhatikan **cara pengeta
 
 Tidak semua pertanyaan dapat dijawab dengan cara yang sama. Kalau pertanyaannya tentang nilai atau tujuan pendidikan, kita membutuhkan dasar normatif. Kalau pertanyaannya tentang apa yang terjadi di lapangan, kita membutuhkan pengamatan dan bukti yang sesuai. Kalau pertanyaannya tentang pengalaman seseorang, kita mungkin perlu mendengar langsung dari orang tersebut.
 
-Pandangan ini sejalan dengan pembahasan epistemologi modern yang membedakan beberapa sumber pengetahuan seperti persepsi, ingatan, penalaran, dan kesaksian (*testimony*). Kesaksian penting karena sebagian besar pengetahuan manusia tentang dunia memang diperoleh melalui orang lain, buku, laporan, dan media. Tetapi kesaksian juga perlu dinilai berdasarkan siapa yang menyampaikan, apa kompetensinya, dan apakah ada alasan untuk meragukannya. [1]
+Pandangan ini sejalan dengan pembahasan epistemologi modern yang membedakan beberapa sumber pengetahuan seperti persepsi, ingatan, penalaran, dan kesaksian (*testimony*). Kesaksian penting karena sebagian besar pengetahuan manusia tentang dunia memang diperoleh melalui orang lain, buku, laporan, dan media. Tetapi kesaksian juga perlu dinilai berdasarkan siapa yang menyampaikan, apa kompetensinya, dan apakah ada alasan untuk meragukannya. [^1]
 
 ## Wahyu, akal, dan kenyataan yang diamati
 
@@ -44,6 +44,6 @@ Dari sini muncul pertanyaan berikutnya: **setelah pengetahuan diperoleh, bagaima
 
 ## Rujukan kunci
 
-[1] Stanford Encyclopedia of Philosophy, “Epistemology” dan “Epistemological Problems of Testimony”, membahas sumber pengetahuan seperti persepsi, ingatan, penalaran, dan testimony serta persoalan keandalan kesaksian.
+[^1]: Stanford Encyclopedia of Philosophy, “Epistemology” dan “Epistemological Problems of Testimony”, membahas sumber pengetahuan seperti persepsi, ingatan, penalaran, dan testimony serta persoalan keandalan kesaksian.
 
-[2] Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), terutama pembahasannya tentang pencarian kepastian dan pemeriksaan dasar pengetahuan.
+[^2]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), terutama pembahasannya tentang pencarian kepastian dan pemeriksaan dasar pengetahuan.
