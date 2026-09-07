@@ -1,8 +1,5 @@
 # 06 — Nilai, Kebaikan, Tanggung Jawab, dan Amanah
 
-**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/01 Worldview`
-
 Kemampuan yang tinggi belum tentu berarti penggunaannya baik. Dari sini muncul pertanyaan penting bagi TUMBUH: **apa yang membuat suatu tindakan bernilai, baik, dan layak dipertanggungjawabkan?**
 
 ## Nilai bukan sekadar apa yang menguntungkan
@@ -25,7 +22,7 @@ TUMBUH perlu menjaga hubungan antara kemampuan yang dimiliki, arah nilai yang me
 
 **Amanah** adalah tanggung jawab yang melekat pada kepercayaan, peran, kemampuan, kewenangan, atau kesempatan yang diterima seseorang.
 
-Al-Qur'an memberi contoh yang sangat jelas: Allah memerintahkan agar amanah diberikan kepada yang berhak dan agar manusia berlaku adil ketika menetapkan perkara.[^1] Jadi amanah tidak berhenti pada “menyelesaikan tugas”. Ia juga menyangkut siapa yang dipercayai, bagaimana kewenangan digunakan, dan apakah keputusan dibuat dengan adil.
+Al-Qur'an memberi contoh yang sangat jelas: amanah harus diberikan kepada yang berhak dan manusia diperintahkan berlaku adil ketika menetapkan perkara.[^1] Jadi amanah tidak berhenti pada “menyelesaikan tugas”. Ia juga menyangkut siapa yang dipercayai, bagaimana kewenangan digunakan, dan apakah keputusan dibuat dengan adil.
 
 Ini penting dalam pendidikan. Pendidik memiliki amanah mendidik. Musyrif memiliki amanah membina. Pimpinan memiliki amanah menggunakan kewenangan. Institusi memiliki amanah menjaga manusia yang berada di dalamnya.
 
