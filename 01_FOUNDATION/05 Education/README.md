@@ -1,35 +1,50 @@
 # 05 Education — Hakikat Pendidikan
 
-**Status:** DESIGNED — Foundation baseline v2.0.0
+**Status:** CANONICAL DRAFT — TUMBUH v2.0.0
 
-## Purpose
+Kalau **Human Nature** menjawab siapa manusia dan **Human Development** menjawab bagaimana manusia berkembang, maka **Education** menjawab pertanyaan berikutnya: **bagaimana kita dengan sengaja membantu manusia berkembang?**
 
-Menetapkan pengertian pendidikan/pembinaan dalam TUMBUH dan relasi antara tujuan, pendidik, peserta didik, lingkungan, pengalaman, dan adab.
+Pendidikan dalam TUMBUH bukan sekadar menyampaikan pengetahuan dan bukan pula sekadar membuat santri patuh terhadap aturan.
 
-## Core Position
+**Pendidikan adalah usaha yang disengaja untuk membantu manusia berkembang dalam pengetahuan, kemampuan, sikap, kebiasaan, nilai, dan tanggung jawab.** Arah pendidikan mengikuti pandangan TUMBUH tentang manusia, kehidupan, dan nilai.
 
-Pendidikan adalah proses yang disengaja untuk membantu manusia bertumbuh menuju kematangan kapasitas dan tanggung jawab sesuai tujuan hidup yang ditetapkan worldview TUMBUH. Pendidikan bukan sekadar transfer informasi dan bukan sekadar kontrol perilaku.
+## Pertanyaan yang Dibahas
 
-## Ta'dib, Tarbiyah, dan Pembelajaran
+Pembahasan Education mengikuti pertanyaan yang memang perlu dijawab, bukan jumlah file yang harus diseragamkan dengan subdomain lain.
 
-TUMBUH mempertahankan kedudukan **adab** sebagai orientasi penting pendidikan Islam, sementara tarbiyah dan proses pembelajaran menjelaskan proses pengembangan yang lebih luas. Istilah tersebut tidak dipakai sebagai slogan; masing-masing perlu memiliki definisi operasional pada layer yang tepat.
+1. **Hakikat Pendidikan** — apa yang dimaksud dengan pendidikan?
+2. **Tujuan Pendidikan** — manusia hendak dibawa ke arah mana?
+3. **Pendidikan dan Perkembangan** — bagaimana pendidikan berhubungan dengan proses perkembangan manusia?
+4. **Relasi Pendidik dan Peserta Didik** — bagaimana kewenangan, bimbingan, teladan, dan kemandirian ditempatkan?
+5. **Lingkungan sebagai Bagian dari Pendidikan** — bagaimana kehidupan sehari-hari ikut mendidik?
+6. **Ilmu, Nilai, dan Pengalaman** — bagaimana pengetahuan, nilai, dan pengalaman saling melengkapi?
+7. **Pendidikan dan Kemandirian** — bagaimana dukungan berubah ketika kemampuan santri berkembang?
+8. **Implikasi Education bagi TUMBUH** — apa yang harus diterjemahkan ke dalam desain sistem?
 
-## Relasi Pendidik–Peserta Didik
+## Beberapa Pembedaan Penting
 
-Pendidik berfungsi sebagai pembimbing, teladan, pengarah, pemberi umpan balik, penjaga batas, dan fasilitator perkembangan. Otoritas pendidikan harus digunakan untuk amanah dan keselamatan, bukan untuk membangun ketergantungan atau penghinaan.
+**Pendidikan tidak sama dengan pembelajaran.** Pembelajaran terutama berkaitan dengan proses memperoleh atau membangun pengetahuan dan kemampuan. Pendidikan lebih luas karena menyangkut arah perubahan manusia dan cara ia menggunakan apa yang dipelajarinya.
 
-## Environment as Educator
+**Pendidikan tidak sama dengan kontrol.** Aturan dan batas diperlukan, tetapi tujuan pendidikan bukan membuat seseorang hanya bertindak benar ketika diawasi.
 
-Dalam konteks pesantren, pembelajaran terjadi melalui kelas, asrama, ibadah, relasi teman sebaya, aktivitas pelayanan, rutinitas harian, dan budaya lembaga. Karena itu lingkungan harus dipandang sebagai bagian dari sistem pendidikan.
+**Pendidikan tidak hanya terjadi di kelas.** Dalam pesantren, asrama, ibadah, relasi teman sebaya, tugas, rutinitas, dan budaya lembaga juga menjadi bagian dari pengalaman pendidikan.
 
-## Discipline
+**Adab menjadi orientasi penting dalam pendidikan Islam.** Istilah seperti *ta'dib* dan *tarbiyah* dapat dipelajari lebih lanjut melalui sumber Islam dan kajian ilmiah. TUMBUH tidak menjadikannya slogan, tetapi perlu menerjemahkan maknanya ke dalam cara manusia dididik dan menjalankan tanggung jawab.
 
-Disiplin diarahkan kepada pemahaman nilai, pembentukan kebiasaan, tanggung jawab, konsekuensi yang proporsional, perbaikan, dan pemulihan. Detail prosedur disiplin berada pada Intervention dan SOP, bukan pada Foundation.
+## Batas
 
-## Boundary
+Education menetapkan pandangan dasar tentang pendidikan. Ia tidak menetapkan satu metode belajar, satu model disiplin, satu program, atau satu instrumen asesmen sebagai jawaban universal.
 
-Foundation ini tidak menetapkan bahwa pendekatan tertentu seperti PBIS, SEL, restorative practice, mentoring, atau coaching pasti efektif. Pendekatan tersebut dipilih dan dievaluasi pada layer Integrated Approaches/Programs/Research.
+Pilihan pendekatan dan bukti efektivitasnya dibahas pada **Sources & Evidence**, **Research**, **Intervention**, **Implementation**, dan **Programs** sesuai fungsi masing-masing.
 
-## Downstream Implication
+## Arah Berikutnya
 
-Pendidikan diterjemahkan menjadi Graduate Profile, kapasitas, progression, pengalaman belajar, asesmen, intervensi, peran pendidik, dan desain lingkungan.
+Education menjadi jembatan dari fondasi menuju desain sistem.
+
+**Foundation:** untuk apa dan bagaimana pendidikan dipahami  
+↓  
+**Core Model:** manusia seperti apa dan kapasitas apa yang hendak dikembangkan  
+↓  
+**Progression:** bagaimana perkembangan kapasitas itu bergerak  
+↓  
+**Assessment & Intervention:** bagaimana perkembangan dibaca dan didukung
