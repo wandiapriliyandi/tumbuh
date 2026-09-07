@@ -1,8 +1,5 @@
 # 03 — Realitas Gaib dan Realitas yang Teramati
 
-**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/01 Worldview`
-
 Tidak semua yang nyata dapat diketahui dengan cara yang sama. Bagi TUMBUH, ini bukan persoalan membuat dua dunia yang saling bertentangan, melainkan memahami bahwa **jenis pertanyaan menentukan cara kita mencari pengetahuan tentangnya**.
 
 ## Yang dapat diamati
@@ -11,11 +8,11 @@ Sebagian realitas ciptaan dapat kita dekati melalui pengalaman, observasi, pengu
 
 Pendidikan banyak bekerja di wilayah ini. Perilaku, interaksi sosial, lingkungan belajar, kondisi fisik, proses pembelajaran, perubahan perilaku, dan outcome tertentu dapat menjadi objek penyelidikan.
 
-Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Dalam filsafat pengetahuan, pengalaman inderawi sendiri bersifat dapat keliru; karena itu pengetahuan perlu diperiksa bersama sumber, alasan, dan kualitas pembenarannya.[^3]
+Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Dalam filsafat pengetahuan, pengalaman inderawi sendiri dapat keliru; karena itu pengetahuan perlu diperiksa bersama sumber, alasan, dan kualitas pembenarannya.[^3]
 
 ## Yang tidak ditangkap oleh indera
 
-Dalam worldview Islam, perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, memiliki kedudukan berbeda. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman.[^1]
+Dalam worldview Islam, perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, memiliki kedudukan berbeda. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman:
 
 > “...beriman kepada yang gaib...”[^1]
 
