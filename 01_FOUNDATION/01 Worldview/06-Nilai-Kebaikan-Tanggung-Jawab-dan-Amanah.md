@@ -19,17 +19,21 @@ Yang pertama adalah pertanyaan yang membutuhkan evidence. Yang kedua tidak dapat
 
 Seseorang dapat memiliki kemampuan tinggi dan menggunakannya untuk tujuan yang salah. Karena itu kemampuan tidak cukup menjadi ukuran keberhasilan pengembangan manusia.
 
-TUMBUH perlu menjaga hubungan antara tiga hal: kemampuan yang dimiliki, arah nilai yang membimbing penggunaannya, dan tanggung jawab atas tindakan yang diambil.
+TUMBUH perlu menjaga hubungan antara kemampuan yang dimiliki, arah nilai yang membimbing penggunaannya, dan tanggung jawab atas tindakan yang diambil.
 
-Ini bukan berarti ketiganya harus langsung menjadi tiga konstruk atau tiga skor. Kita baru menetapkan orientasi; perincian model akan dikerjakan pada layer berikutnya.
-
-## Amanah
+## Amanah bukan sekadar tugas
 
 **Amanah** adalah tanggung jawab yang melekat pada kepercayaan, peran, kemampuan, kewenangan, atau kesempatan yang diterima seseorang.
 
-Amanah bukan sekadar melakukan apa yang diperintahkan. Ia berkaitan dengan apa yang dipercayakan, bagaimana menjaganya, bagaimana menggunakannya, dan kepada siapa tindakan tersebut dipertanggungjawabkan.
+Al-Qur'an memberi contoh yang sangat jelas: Allah memerintahkan agar amanah diberikan kepada yang berhak dan agar manusia berlaku adil ketika menetapkan perkara.[^1] Jadi amanah tidak berhenti pada “menyelesaikan tugas”. Ia juga menyangkut siapa yang dipercayai, bagaimana kewenangan digunakan, dan apakah keputusan dibuat dengan adil.
 
-Dalam pendidikan, amanah berlaku pada peserta didik maupun orang dewasa yang mendampingi mereka. Pendidik memiliki amanah mendidik. Musyrif memiliki amanah membina. Pimpinan memiliki amanah menggunakan kewenangan. Institusi memiliki amanah menjaga manusia yang berada di dalamnya.
+Ini penting dalam pendidikan. Pendidik memiliki amanah mendidik. Musyrif memiliki amanah membina. Pimpinan memiliki amanah menggunakan kewenangan. Institusi memiliki amanah menjaga manusia yang berada di dalamnya.
+
+## Adab mempertemukan nilai dengan perilaku
+
+Dalam tradisi pendidikan Islam, nilai tidak hanya dipahami sebagai pengetahuan tentang yang baik. Pemikiran Al-Ghazali tentang adab pendidik dan peserta didik menekankan niat, kasih sayang, kesabaran, keteladanan, penghormatan, dan tanggung jawab moral.[^2] Ibn Jama'ah juga menempatkan adab guru dan murid sebagai bagian penting dari proses menuntut ilmu.[^3]
+
+Bagi TUMBUH, wawasan ini membantu menjelaskan mengapa pendidikan karakter tidak cukup dengan daftar nilai. Nilai perlu hadir dalam kebiasaan, hubungan, keputusan, dan cara seseorang menggunakan kewenangan.
 
 ## Ketika prinsip ini masuk ke pendidikan
 
@@ -43,6 +47,8 @@ Pembedaan inilah yang nantinya memungkinkan TUMBUH memiliki prinsip moral yang t
 
 Dari sini pembahasan bergerak menuju pertanyaan pendidikan yang lebih konkret: **kalau manusia harus dikembangkan dalam arah nilai seperti ini, pendidikan seperti apa yang selaras dengan worldview tersebut?**
 
-Pembahasan itu menjadi jembatan menuju **Implikasi Worldview bagi Pendidikan**, sementara rincian konstruk, assessment, dan evidence akan muncul pada layer sistem yang sesuai.
+### Sumber yang digunakan
 
-Sumber normatif spesifik perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`.
+[^1]: Al-Qur'an, QS. An-Nisa' [4]: 58.
+[^2]: Izuddin, A., Muhammad, A. N., & Assegaf, A. R. *Adab in Teacher–Student Relations: An Analysis of Al-Ghazali’s Educational Thought*. AL-ADABIYAH: Jurnal Pendidikan Agama Islam. https://doi.org/10.35719/adabiyah.v7i1.1263
+[^3]: Farhan, S. A. (2025). *Adab Murid dan Guru Perspektif Ibnu Jama’ah dalam Kitab Tazkirah As-Sami’ wa Al-Mutakallim*. Tesis, IIQ Jakarta. https://repository.iiq.ac.id/handle/123456789/4208
