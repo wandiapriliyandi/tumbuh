@@ -2,7 +2,7 @@
 
 Sebelum TUMBUH berbicara tentang manusia dan pendidikan, ada pertanyaan yang lebih dasar: **kenyataan seperti apa yang sedang kita bicarakan?**
 
-Pertanyaan ini penting karena cara kita memandang kenyataan akan memengaruhi cara kita memahami manusia, kehidupan, nilai, dan pendidikan.
+Pertanyaan ini bukan sekadar pertanyaan filsafat. Cara kita memandang kenyataan akan memengaruhi cara kita memahami manusia, kehidupan, nilai, dan pendidikan.
 
 ## Realitas tidak berdiri sendiri
 
@@ -10,46 +10,48 @@ TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang kenyata
 
 > “Allah adalah Pencipta segala sesuatu.”[^1]
 
-Karena itu, manusia dan alam tidak dipahami sebagai sesuatu yang berdiri sendiri tanpa Pencipta. Kehidupan memiliki sumber, keteraturan, batas, dan tujuan.
+Karena itu, manusia dan alam tidak dipahami sebagai sesuatu yang ada dengan sendirinya tanpa Pencipta. Kehidupan berlangsung dalam ciptaan Allah yang memiliki keteraturan, batas, dan ketentuan yang tidak seluruhnya berada dalam kendali manusia.
 
-Pandangan ini tidak berarti bahwa semua hal sudah kita ketahui. Justru karena manusia adalah makhluk yang terbatas, kita perlu membedakan antara **kenyataan itu sendiri** dan **pemahaman manusia tentang kenyataan**. Kita dapat salah memahami apa yang kita lihat, salah menafsirkan kejadian, atau menarik kesimpulan yang terlalu jauh.
-
-Pembahasan tentang bagaimana pengetahuan diperoleh dan diperiksa menjadi bagian dari **Epistemology**.
+Manusia sendiri adalah bagian dari ciptaan tersebut. Ia dapat belajar dan berusaha, tetapi kemampuannya terbatas. Ia tidak menciptakan dunia tempat ia hidup, tidak menentukan seluruh keadaan yang dihadapinya, dan tidak menguasai seluruh hasil dari tindakannya.
 
 ## Realitas lebih luas daripada yang terlihat
 
-Sebagian kenyataan dapat diamati melalui pengalaman, pengukuran, dokumentasi, dan penyelidikan. Tubuh manusia, perilaku, lingkungan, hubungan sosial, proses belajar, dan perubahan dalam kehidupan pendidikan termasuk di dalamnya.
+Sebagian kenyataan dapat kita amati melalui pengalaman, pengukuran, dokumentasi, dan penyelidikan. Tubuh manusia, perilaku, hubungan sosial, lingkungan belajar, proses pembelajaran, dan berbagai perubahan dalam kehidupan pendidikan termasuk di dalamnya.
 
-Namun dalam worldview Islam, kenyataan tidak dibatasi pada apa yang dapat ditangkap oleh indera. Ada **perkara gaib**, yaitu perkara yang tidak berada dalam jangkauan pengamatan inderawi biasa dan yang diketahui melalui wahyu yang sahih. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman.[^2]
+Namun worldview Islam tidak membatasi kenyataan pada apa yang dapat ditangkap oleh indera. Ada **perkara gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa dan diketahui melalui wahyu yang sahih. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman.[^2]
 
-Pembedaan ini penting bagi TUMBUH. Kita tidak boleh menyempitkan kenyataan hanya menjadi sesuatu yang dapat diukur. Tetapi kita juga tidak boleh menyebut sesuatu sebagai perkara gaib hanya karena kita belum mampu menjelaskannya.
+Karena itu, TUMBUH tidak boleh menyamakan “nyata” dengan “bisa diukur”. Tetapi kita juga tidak boleh menyebut sesuatu sebagai perkara gaib hanya karena kita belum mampu menjelaskannya. Tidak tahu bukan berarti gaib.
 
-Dengan demikian, ada dua sikap yang perlu dijaga sekaligus: **serius terhadap kenyataan yang dapat dipelajari, dan rendah hati terhadap batas pengetahuan manusia.**
+Dua sikap perlu berjalan bersama: **serius terhadap kenyataan yang dapat dipelajari dan rendah hati terhadap keterbatasan manusia.**
 
-## Keteraturan, sebab, dan ikhtiar
+## Dunia memiliki keteraturan, manusia memiliki ikhtiar
 
-Dunia ciptaan memiliki keteraturan yang dapat dipelajari. Manusia dapat memperhatikan hubungan sebab dan akibat, belajar dari pengalaman, merencanakan tindakan, dan melakukan **ikhtiar**, yaitu usaha sadar untuk mencapai atau memperbaiki sesuatu.
+Dunia ciptaan Allah memiliki keteraturan yang dapat dipelajari. Manusia dapat memperhatikan sebab dan akibat, belajar dari pengalaman, merencanakan tindakan, dan melakukan **ikhtiar**, yaitu usaha sadar untuk mencapai atau memperbaiki sesuatu.
 
 Tetapi ikhtiar tidak sama dengan menguasai seluruh hasil. Manusia berusaha dalam kondisi yang tidak seluruhnya ia tentukan. Al-Qur'an mengingatkan bahwa manusia memperoleh sesuai dengan apa yang diusahakannya:
 
 > “...manusia hanya memperoleh apa yang telah diusahakannya...”[^3]
 
-Bagi TUMBUH, pembedaan ini penting. Kita perlu menilai kualitas usaha tanpa menyederhanakan manusia hanya berdasarkan hasil akhir. Keberhasilan tidak selalu membuktikan bahwa seluruh prosesnya benar. Kegagalan juga tidak otomatis berarti seseorang tidak memiliki nilai atau tidak dapat berkembang.
+Bagi TUMBUH, hal ini membuat kita perlu membedakan **usaha, keadaan yang memengaruhi, dan hasil**. Ketiganya berhubungan, tetapi tidak sama.
 
-## Apa arti pandangan ini bagi pendidikan?
+Karena itu keberhasilan tidak otomatis membuktikan bahwa seluruh prosesnya benar. Sebaliknya, kegagalan tidak otomatis berarti seseorang tidak bernilai atau tidak dapat berkembang.
 
-Kalau pendidikan berlangsung di dunia nyata, maka kenyataan dunia nyata harus diperlakukan serius.
+## Apa akibatnya bagi pendidikan?
 
-Kondisi kesehatan, tidur, relasi sosial, beban aktivitas, kualitas pengajaran, lingkungan belajar, dan kondisi kehidupan peserta didik tidak boleh diabaikan hanya karena pendidikan memiliki orientasi spiritual.
+Kalau pendidikan berlangsung di dunia nyata, maka kondisi nyata peserta didik harus diperlakukan serius.
 
-Namun pendidikan juga tidak selesai ketika semua hal yang dapat diukur sudah tercatat. Manusia memiliki makna, nilai, amanah, dan tanggung jawab yang tidak semuanya dapat direduksi menjadi angka.
+Kualitas pengajaran, lingkungan belajar, relasi sosial, beban kegiatan, kondisi fisik, kesempatan berlatih, dan keadaan hidup peserta didik tidak boleh diabaikan hanya karena pendidikan memiliki orientasi spiritual.
 
-Karena itu, TUMBUH perlu menghindari dua penyederhanaan:
+Pada saat yang sama, pendidikan juga tidak selesai ketika semua hal yang dapat diukur sudah tercatat. Manusia memiliki nilai, amanah, tujuan hidup, dan tanggung jawab yang tidak semuanya dapat direduksi menjadi angka.
+
+Dari sini TUMBUH perlu menghindari dua kesalahan:
 
 - menganggap hanya yang dapat diukur sebagai sesuatu yang nyata atau penting; dan
-- mengabaikan kenyataan empiris dengan alasan bahwa pendidikan menyangkut nilai dan spiritualitas.
+- mengabaikan kenyataan yang dapat dipelajari dengan alasan bahwa pendidikan menyangkut nilai dan spiritualitas.
 
-Posisi ini menjadi dasar bagi pembahasan berikutnya tentang **Allah sebagai Al-Khaliq dan hubungan antara Khaliq dan makhluk**. Dari sana kita dapat melihat lebih jelas apa arti menjadi manusia di dalam realitas yang diciptakan Allah.
+Dengan pijakan ini, pembahasan berikutnya menjadi lebih spesifik: **jika Allah adalah Al-Khaliq dan manusia adalah makhluk, apa konsekuensinya bagi kedudukan manusia, martabat, kewenangan, dan ikhtiar?**
+
+Pembahasan tentang **bagaimana manusia memperoleh dan memeriksa pengetahuan** tidak diselesaikan di sini. Itu menjadi pekerjaan Epistemology.
 
 [^1]: Al-Qur'an, QS. Az-Zumar [39]: 62.
 [^2]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
@@ -57,4 +59,4 @@ Posisi ini menjadi dasar bagi pembahasan berikutnya tentang **Allah sebagai Al-K
 
 ## Sumber yang memperkaya pembahasan
 
-Pembahasan ini menggunakan Al-Qur'an sebagai sumber primer untuk posisi teologis tentang Allah sebagai Pencipta, ciptaan, dan perkara gaib. Penjelasan tentang keterbatasan pemahaman manusia menjadi jembatan menuju pembahasan epistemologi. Sintesis mengenai bagaimana pandangan tersebut menjadi fondasi sistem TUMBUH adalah perumusan TUMBUH sendiri.
+Pembahasan ini menggunakan Al-Qur'an sebagai sumber primer untuk posisi teologis tentang Allah sebagai Pencipta, ciptaan, dan perkara gaib. Rumusan mengenai implikasinya bagi sistem TUMBUH merupakan sintesis TUMBUH sendiri.
