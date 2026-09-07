@@ -14,22 +14,28 @@ TUMBUH menggunakan beberapa jenis klaim utama:
 6. **Hypothesis** — menyatakan dugaan yang masih perlu diuji.
 7. **Simulation** — menyatakan hasil pemodelan atau simulasi, bukan temuan langsung dari lapangan.
 
-Pembedaan ini sejalan dengan persoalan dasar epistemologi: sebuah keyakinan dapat memiliki alasan yang masuk akal tetapi tetap tidak identik dengan pengetahuan yang pasti. Literatur epistemologi juga membedakan peran **evidence** dan **reliability** dalam menilai apakah suatu keyakinan layak dipercaya. urlStanford Encyclopedia of Philosophy — Epistemologyhttps://plato.stanford.edu/entries/epistemology/
+Pembedaan ini sejalan dengan persoalan dasar epistemologi: sebuah keyakinan dapat memiliki alasan yang masuk akal tetapi tetap tidak identik dengan pengetahuan yang pasti. Literatur epistemologi juga membedakan peran **evidence** dan **reliability** dalam menilai apakah suatu keyakinan layak dipercaya.[^1]
 
 ## Jenis klaim menentukan cara memeriksanya
 
 Klaim normatif tidak diperiksa dengan eksperimen untuk menentukan apakah sebuah nilai harus dipegang. Klaim definisional diperiksa terutama dari kejelasan, konsistensi, dan kesesuaiannya dengan tujuan sistem. Klaim empiris membutuhkan bukti tentang kenyataan. Klaim kausal membutuhkan dasar yang lebih khusus karena hubungan yang muncul bersamaan belum otomatis menunjukkan sebab-akibat.
 
-Klaim yang berasal dari **testimony** atau kesaksian juga perlu diperlakukan dengan hati-hati. Banyak pengetahuan manusia memang diperoleh dari orang lain, tetapi reliabilitas sumber, konteks, dan alasan untuk mempercayainya tetap relevan. urlStanford Encyclopedia of Philosophy — Epistemological Problems of Testimonyhttps://plato.stanford.edu/entries/testimony-episprob/
+Klaim yang berasal dari **testimony** atau kesaksian juga perlu diperlakukan dengan hati-hati. Banyak pengetahuan manusia memang diperoleh dari orang lain, tetapi reliabilitas sumber, konteks, dan alasan untuk mempercayainya tetap relevan.[^2]
 
 ## Tingkat kepastian
 
 Selain jenis, TUMBUH perlu memperhatikan **tingkat kepastian**. Tingkat kepastian menunjukkan seberapa kuat dasar yang kita miliki untuk menerima sebuah klaim pada saat tertentu.
 
-Klaim yang masih berupa hipotesis tidak boleh ditulis dengan bahasa yang sama seperti klaim yang didukung oleh banyak evidence berkualitas. Sebaliknya, adanya evidence tidak berarti semua pertanyaan sudah terjawab. Bahkan dalam epistemologi, bukti yang tampak kuat dapat tetap menghasilkan keyakinan yang keliru atau terlalu jauh jika ada informasi lain yang melemahkannya. urlStanford Encyclopedia of Philosophy — Evidencehttps://plato.stanford.edu/entries/evidence/
+Klaim yang masih berupa hipotesis tidak boleh ditulis dengan bahasa yang sama seperti klaim yang didukung oleh banyak evidence berkualitas. Sebaliknya, adanya evidence tidak berarti semua pertanyaan sudah terjawab. Bahkan dalam epistemologi, bukti yang tampak kuat dapat tetap menghasilkan keyakinan yang keliru atau terlalu jauh jika ada informasi lain yang melemahkannya.[^3]
 
 Karena itu, dokumen TUMBUH sebaiknya membuat pembaca dapat membedakan antara **apa yang diyakini sebagai prinsip, apa yang ditetapkan sebagai definisi, apa yang ditemukan, apa yang dirancang, dan apa yang masih diduga**.
 
 Klasifikasi ini menjadi dasar bagi Claim Registry dan membantu menjaga bahasa dokumentasi TUMBUH tetap jujur terhadap kekuatan bukti yang tersedia.
 
 Pertanyaan berikutnya: **apa yang membuat evidence cukup kuat untuk mendukung sebuah klaim?**
+
+### Catatan kaki
+
+[^1]: Stanford Encyclopedia of Philosophy, “Epistemology,” tentang pengetahuan, justifikasi, sumber pengetahuan, dan batas keberhasilan kognitif.
+[^2]: Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony,” tentang testimony sebagai sumber pengetahuan dan persoalan reliabilitas kesaksian.
+[^3]: Stanford Encyclopedia of Philosophy, “Evidence,” tentang evidence dan perannya dalam mendukung penilaian terhadap klaim.
