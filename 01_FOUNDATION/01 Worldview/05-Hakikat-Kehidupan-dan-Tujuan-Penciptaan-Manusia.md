@@ -1,8 +1,5 @@
 # 05 — Hakikat Kehidupan dan Tujuan Penciptaan Manusia
 
-**Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/01 Worldview`
-
 Mengetahui siapa manusia belum cukup. Jika TUMBUH hendak membantu manusia bertumbuh, pertanyaan berikutnya tidak bisa dihindari: **bertumbuh menuju apa?**
 
 Pertanyaan ini membawa kita dari gambaran tentang manusia kepada makna kehidupan dan tujuan penciptaannya.
