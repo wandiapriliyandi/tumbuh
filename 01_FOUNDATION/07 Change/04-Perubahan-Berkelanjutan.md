@@ -1,27 +1,35 @@
 # 04 — Perubahan yang Bertahan
 
-Perubahan yang hanya terlihat selama program berjalan belum tentu menjadi bagian dari sistem.
+Perubahan yang terlihat selama sebuah program berjalan belum tentu menjadi bagian dari kehidupan sehari-hari.
 
-Misalnya, selama satu bulan semua kamar menjalankan kebiasaan baru karena ada pengawasan khusus. Setelah program selesai, kebiasaan itu kembali seperti sebelumnya. Dalam keadaan seperti ini, kita memang melihat perubahan perilaku, tetapi belum tentu melihat perubahan yang sudah menjadi bagian dari kehidupan sistem.
+Bayangkan selama satu bulan semua kamar menjalankan kebiasaan baru karena ada pengawasan khusus. Setelah pengawasan dihentikan, semuanya kembali seperti semula. Berarti memang ada perubahan perilaku, tetapi perubahan itu belum cukup kuat untuk berjalan tanpa dorongan yang sama.
 
-Agar perubahan bertahan, perilaku baru perlu mendapat dukungan dari lingkungan. Dukungan itu dapat berupa kebiasaan yang semakin kuat, contoh dari pemimpin dan pendidik, aturan yang selaras, sumber daya yang cukup, kesempatan untuk terus belajar, serta evaluasi yang membantu melihat apa yang berhasil dan apa yang perlu diperbaiki.
+Perubahan lebih mungkin bertahan ketika orang tidak hanya diminta melakukan hal baru, tetapi juga memahami alasannya, memiliki kemampuan untuk menjalankannya, mendapat dukungan, dan hidup dalam lingkungan yang tidak terus-menerus menarik mereka kembali ke pola lama.
 
-Kajian tentang keberlanjutan perubahan pendidikan menunjukkan bahwa perubahan jangka panjang tidak cukup ditopang oleh peluncuran program. Diperlukan kepemimpinan yang terus mendukung, sumber daya, pengembangan profesional yang relevan, penggunaan data dan evaluasi, keterlibatan pihak terkait, serta dukungan praktis bagi pendidik.[^1]
+Karena itu, keberlanjutan bukan hanya urusan kemauan individu. Kebiasaan baru dipengaruhi oleh banyak hal: contoh dari pendidik dan pemimpin, aturan, pembagian tanggung jawab, waktu, sumber daya, kesempatan belajar, serta cara lembaga melihat dan memperbaiki hasilnya. Kajian tentang keberlanjutan reformasi pendidikan juga menunjukkan bahwa dukungan kepemimpinan, sumber daya, pengembangan profesional, penggunaan data dan evaluasi, keterlibatan pihak terkait, serta dukungan praktis bagi pendidik ikut menentukan apakah perubahan dapat bertahan.[^1]
 
-Namun **bertahan bukan berarti tidak boleh berubah lagi**. Ini penting. Sistem pendidikan berada dalam lingkungan yang terus berubah. Sesuatu yang berhasil hari ini mungkin perlu disesuaikan besok.
+Tetapi ada hal yang sering keliru dipahami: **perubahan yang bertahan tidak berarti sesuatu harus dipertahankan selamanya**.
 
-Karena itu keberlanjutan dalam TUMBUH bukan berarti mempertahankan semua hal selamanya. Keberlanjutan berarti kemampuan sistem untuk:
+Lingkungan pendidikan terus bergerak. Kebutuhan santri berubah. Pengetahuan berkembang. Kondisi lembaga juga berubah. Karena itu, cara yang baik hari ini bisa perlu diperbaiki besok.
 
-- mempertahankan hal yang terbukti baik;
+Maka keberlanjutan dalam TUMBUH berarti kemampuan untuk melakukan empat hal:
+
+- mempertahankan hal yang memang terbukti baik;
 - memperbaiki hal yang belum bekerja dengan baik;
-- menyesuaikan cara ketika kondisi berubah;
-- dan menghentikan sesuatu ketika ternyata tidak lagi bermanfaat.
+- menyesuaikan cara ketika keadaan berubah;
+- menghentikan sesuatu jika ternyata tidak lagi bermanfaat.
 
-Dengan cara pandang ini, perubahan dan stabilitas bukan dua hal yang harus dipilih salah satunya. Sistem membutuhkan **nilai dan arah yang cukup stabil, tetapi cara kerja yang cukup lentur untuk belajar dan menyesuaikan diri**.
+Di sini kita menemukan hubungan antara **stabilitas dan perubahan**. TUMBUH membutuhkan nilai dan arah yang tidak mudah berubah, tetapi cara kerja yang cukup lentur untuk belajar. Kalau semuanya selalu berubah, sistem kehilangan arah. Kalau tidak ada yang boleh berubah, sistem kehilangan kemampuan untuk belajar.
 
-Inilah yang kemudian mengarah pada gagasan perbaikan berkelanjutan. TUMBUH tidak dirancang sebagai sistem yang sekali jadi lalu tidak boleh disentuh. Sistem perlu mampu membaca pengalaman, menggunakan bukti, mengambil pelajaran, dan melakukan perbaikan tanpa kehilangan prinsip dasarnya.
+Karena itu, perubahan yang sehat bukan perubahan yang terus-menerus mengejar hal baru. Perubahan yang sehat adalah perubahan yang membantu sistem menjadi lebih baik tanpa kehilangan alasan mengapa sistem itu dibangun.
 
-Prinsip ini nantinya menjadi salah satu dasar bagi **continuous improvement** pada layer Implementation. Tetapi model, siklus, indikator, dan alat perbaikannya tidak ditentukan di Foundation. Bagian tersebut perlu dirancang dan diuji pada layer yang sesuai.
+Dari sini gagasan **perbaikan berkelanjutan** menjadi masuk akal. TUMBUH tidak dirancang sebagai sistem yang selesai sekali lalu tidak boleh disentuh. Ia perlu mampu membaca pengalaman, melihat bukti, belajar dari hasil, dan memperbaiki cara kerja ketika diperlukan.
+
+Prinsip ini nantinya menjadi dasar bagi *continuous improvement* pada layer Implementation. Namun siklus, indikator, alat, dan mekanisme perbaikannya tidak ditentukan di Foundation. Itu akan dirancang dan diuji pada layer yang sesuai.
+
+Dengan demikian, pembahasan Change di Foundation selesai pada satu gagasan utama: **perubahan adalah bagian dari pertumbuhan, tetapi perubahan harus memiliki arah, dipahami manusia, didukung sistem, dan terus diuji melalui pengalaman serta bukti.**
+
+Pertanyaan berikutnya membawa kita ke bagian terakhir Foundation: **kalau seluruh fondasi ini sudah dibangun, prinsip apa yang tidak boleh hilang ketika TUMBUH mulai dirancang sebagai sebuah sistem?**
 
 ### Catatan kaki
 
