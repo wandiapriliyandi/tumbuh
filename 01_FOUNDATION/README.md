@@ -1,41 +1,55 @@
-# 01 FOUNDATION
+# 01 FOUNDATION — Fondasi TUMBUH
 
-**Status:** DESIGNED — Foundation baseline v2.0.0
+Foundation menjawab pertanyaan yang harus jelas sebelum TUMBUH membangun model, progression, assessment, intervention, dan implementation.
 
-Foundation adalah lapisan yang menjawab **mengapa TUMBUH dibangun, tentang manusia seperti apa sistem ini berbicara, apa tujuan pendidikan, bagaimana kepemimpinan dipahami, dan bagaimana perubahan seharusnya berlangsung**.
+Alurnya:
 
-Foundation bukan tempat untuk menyimpan rubrik, instrumen, SOP, program, atau klaim efektivitas. Detail operasional berada pada layer berikutnya.
+**Worldview → Epistemology → Human Nature → Human Development → Education → Leadership → Change → Core Principles → Design Principles**
 
-## Struktur Canonical
+## 01 Worldview
 
-1. **Worldview** — pandangan dasar tentang realitas, manusia, ilmu, nilai, dan tujuan akhir.
-2. **Epistemology** — aturan membedakan wahyu/normatif, definisi, evidence empiris, desain, hipotesis, dan simulasi.
-3. **Human Nature** — pandangan tentang fitrah, martabat, potensi, kebutuhan, keterbatasan, dan tanggung jawab manusia.
-4. **Human Development** — bagaimana manusia berkembang secara bertahap dan kontekstual tanpa menjadikan satu tahap sebagai hukum universal.
-5. **Education** — hakikat pendidikan/pembinaan, adab, relasi pendidik-peserta didik, lingkungan, dan tujuan pembentukan manusia.
-6. **Leadership** — kepemimpinan sebagai amanah, qudwah, pelayanan, syura, akuntabilitas, dan pengembangan manusia.
-7. **Change** — prinsip perubahan manusia dan organisasi: tadarruj, istiqamah, diagnosis, adaptasi, dan continuous improvement.
-8. **Core Principles** — prinsip normatif yang mengikat seluruh sistem.
-9. **Design Principles** — aturan menerjemahkan foundation menjadi arsitektur sistem.
+Menjelaskan cara pandang mendasar TUMBUH tentang realitas, Allah, manusia, kehidupan, nilai, dan arah pendidikan.
 
-## Alur Konseptual
+## 02 Epistemology
 
-**Worldview → Epistemology → Human Nature → Human Development → Education → Leadership → Change → Core Principles → Design Principles → Core Model**
+Menjelaskan bagaimana pengetahuan diperoleh, diperiksa, dan dinilai, termasuk perbedaan jenis klaim dan kekuatan evidence.
 
-## Status Keilmuan
+## 03 Human Nature
 
-Foundation dapat memuat tiga jenis dasar:
+Menjelaskan siapa manusia yang menjadi subjek pengembangan: martabat, kemampuan, kehendak, relasi, potensi, keterbatasan, dan tanggung jawab.
 
-- **Normatif:** berasal dari worldview Islam, Al-Qur'an, Sunnah, dan turats yang relevan.
-- **Konseptual:** hasil sintesis dan definisi sistem.
-- **Empiris:** hanya digunakan bila dapat ditelusuri ke Evidence Registry/Research.
+## 04 Human Development
 
-Keberadaan sebuah konsep dalam Foundation **tidak otomatis membuktikan efektivitasnya**. Setiap klaim empiris harus memiliki status epistemik dan evidence yang dapat ditelusuri.
+Menjelaskan bagaimana manusia berkembang dan berubah dari waktu ke waktu, termasuk variasi individu, kesiapan, pengalaman, kebiasaan, dan pengaruh lingkungan.
 
-## Batas Layer
+## 05 Education
 
-Foundation menentukan arah dan batas. Core Model menerjemahkan arah tersebut menjadi kapasitas dan hubungan. Progression menjelaskan perkembangan. Assessment menghasilkan evidence. Intervention menentukan respons. Implementation menjalankan sistem. Programs menerjemahkannya menjadi pengalaman nyata.
+Menjelaskan pendidikan sebagai usaha yang disengaja untuk membantu manusia berkembang melalui tujuan, ilmu, nilai, pengalaman, hubungan, dan lingkungan.
 
-## Governance
+## 06 Leadership
 
-Perubahan terhadap konstruk inti harus ditelusuri melalui Construct Registry dan Decision Log. Perubahan terhadap klaim harus melalui Claim Registry dan Evidence Registry.
+Menjelaskan penggunaan pengaruh dan kewenangan secara amanah untuk menjaga arah pendidikan, memberi teladan, mengambil keputusan, dan membangun pemimpin berikutnya.
+
+## 07 Change
+
+Menjelaskan perubahan pada manusia dan organisasi, termasuk resistensi, keberlanjutan, dan hubungan antara perubahan individu dan perubahan sistem.
+
+## 08 Core Principles
+
+Merumuskan prinsip normatif yang harus tetap dijaga ketika TUMBUH diterjemahkan menjadi desain dan praktik.
+
+## 09 Design Principles
+
+Merumuskan cara berpikir yang digunakan untuk menerjemahkan prinsip menjadi desain sistem yang jelas, terhubung, sesuai evidence, realistis, dan dapat diperbaiki.
+
+## Batas Foundation
+
+Foundation memberi **arah dan dasar berpikir**. Ia belum menetapkan profil lulusan final, taxonomy kapasitas, progression, instrumen asesmen, tier intervensi, struktur organisasi, atau program operasional.
+
+Bagian tersebut dibangun pada layer berikutnya.
+
+Dengan demikian Foundation selesai ketika TUMBUH sudah memiliki dasar untuk menjawab:
+
+> **Realitas apa yang kita yakini, bagaimana kita mengetahui sesuatu, manusia seperti apa yang kita kembangkan, bagaimana manusia berkembang, bagaimana pendidikan bekerja, bagaimana kepemimpinan digunakan, bagaimana perubahan terjadi, prinsip apa yang tidak boleh dilanggar, dan bagaimana semuanya diterjemahkan menjadi desain sistem?**
+
+Dari sini TUMBUH bergerak ke **02 CORE_MODEL**.
