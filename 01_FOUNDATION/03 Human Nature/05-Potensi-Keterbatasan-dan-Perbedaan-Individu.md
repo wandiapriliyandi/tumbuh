@@ -1,15 +1,19 @@
 # 05 — Potensi, Keterbatasan, dan Perbedaan Individu
 
-Manusia memiliki kemampuan untuk belajar dan berkembang, tetapi tidak berarti semua orang berkembang dengan cara, kecepatan, atau hasil yang sama.
+Manusia memiliki kemampuan untuk belajar dan berkembang. Tetapi kemampuan itu tidak muncul dengan cara yang sama pada setiap orang.
 
-**Potensi** berarti kemampuan atau kemungkinan yang masih dapat dikembangkan. Potensi bukan jaminan hasil. Seseorang tetap membutuhkan kesempatan belajar, latihan, lingkungan yang mendukung, dan kemauan untuk bertindak.
+Ada santri yang cepat memahami pelajaran tetapi kesulitan mengatur dirinya. Ada yang membutuhkan waktu lebih lama untuk memahami sesuatu, tetapi sangat tekun ketika sudah menemukan cara yang cocok. Ada yang percaya diri di depan umum, tetapi masih perlu banyak latihan untuk bekerja dalam kelompok.
 
-Sebaliknya, **keterbatasan** tidak berarti seseorang tidak dapat berkembang. Keterbatasan dapat menunjukkan bahwa seseorang membutuhkan waktu, dukungan, penyesuaian, atau cara belajar yang berbeda.
+Karena itu **potensi** tidak sebaiknya dipahami sebagai “bakat yang pasti menjadi hasil”. Potensi adalah kemungkinan yang masih dapat dikembangkan. Agar berkembang, seseorang membutuhkan kesempatan, pengalaman, latihan, lingkungan yang mendukung, dan kemauan untuk bertindak.
 
-Perbedaan individu juga perlu dipandang secara hati-hati. Perbedaan bukan alasan untuk menurunkan harapan secara sembarangan, tetapi juga bukan alasan untuk memaksa semua orang melalui jalan yang sama.
+Hal yang sama berlaku pada **keterbatasan**. Keterbatasan bukan berarti seseorang tidak dapat berkembang. Kadang seseorang membutuhkan waktu lebih panjang. Kadang ia membutuhkan bantuan atau cara belajar yang berbeda. Kadang lingkungan yang selama ini kita anggap biasa justru menjadi hambatan bagi dirinya.
 
-Karena itu target perkembangan boleh jelas, sementara jalan menuju target dapat berbeda. TUMBUH tidak memandang perkembangan sebagai perlombaan yang harus menghasilkan ukuran yang sama pada waktu yang sama.
+Namun perhatian terhadap perbedaan individu juga tidak berarti setiap orang boleh diberi standar yang berbeda tanpa alasan. TUMBUH tetap membutuhkan arah dan harapan yang jelas. Yang dapat berbeda adalah jalan, dukungan, waktu, dan pengalaman yang diperlukan untuk mencapainya.
 
-Pendidik juga perlu berhati-hati dengan label seperti “anak pintar”, “anak nakal”, atau “anak tidak bisa berubah”. Label yang dianggap sebagai identitas tetap dapat membuat kita berhenti melihat kemungkinan perkembangan.
+Di sinilah pendidik perlu berhati-hati dengan label. Kalimat seperti **“dia memang anak pintar”, “dia anak nakal”, atau “dia memang tidak bisa berubah”** terdengar sederhana, tetapi dapat membuat kita memperlakukan perilaku hari ini sebagai identitas yang akan berlaku selamanya.
 
-Pertanyaan berikutnya adalah bagaimana memahami kesalahan. Jika manusia memiliki keterbatasan dan tetap memiliki kemampuan memilih, apakah kesalahan menjadi akhir, atau dapat menjadi bagian dari proses perubahan?
+Lebih baik kita melihat dua hal sekaligus: **siapa anak itu sekarang dan siapa yang masih mungkin ia menjadi**. Penilaian terhadap kondisi saat ini diperlukan agar bantuan tepat. Tetapi penilaian itu tidak boleh menutup kemungkinan pertumbuhan.
+
+Cara pandang ini juga membantu TUMBUH membedakan antara **target** dan **jalur perkembangan**. Target dapat dirumuskan dengan jelas, sementara jalur untuk mencapainya dapat berbeda antarindividu. Dengan begitu, perbedaan tidak menjadi alasan untuk menurunkan harapan, tetapi juga tidak menjadi alasan untuk memaksa semua orang tumbuh dengan cara yang sama.
+
+Pertanyaan berikutnya menjadi penting: manusia bisa memiliki kekuatan dan kelemahan, bisa salah, lalu belajar dari pengalaman. **Bagaimana TUMBUH memahami kesalahan, perubahan, dan kemungkinan seseorang untuk bertumbuh setelah melakukan kesalahan?**
