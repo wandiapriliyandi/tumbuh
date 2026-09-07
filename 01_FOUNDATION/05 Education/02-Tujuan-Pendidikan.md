@@ -8,30 +8,82 @@ Dalam TUMBUH, tujuan pendidikan berangkat dari pandangan tentang manusia dan tuj
 
 Tradisi pendidikan Islam kemudian memberi penekanan yang beragam. Dalam kajian tentang Al-Ghazali, misalnya, tujuan pendidikan dikaitkan dengan *taqarrub*—mendekatkan diri kepada Allah—serta pengamalan ilmu dan pembentukan manusia yang baik dalam kehidupan dunia dan akhirat.[^3] Tradisi ini penting bagi TUMBUH karena mengingatkan bahwa kemampuan bukan tujuan akhir. Kemampuan memiliki arah moral dan tanggung jawab.
 
-Namun tujuan pendidikan tidak boleh berhenti pada rumusan yang terlalu umum. “Menjadi baik”, “menjadi saleh”, atau “menjadi manusia unggul” belum cukup untuk membimbing desain pendidikan. Kita perlu menerjemahkannya ke dalam perubahan yang dapat dipahami: kemampuan apa yang perlu tumbuh, kebiasaan apa yang perlu terbentuk, bagaimana seseorang mengambil keputusan, bagaimana ia memperlakukan orang lain, dan bagaimana ia menjalankan tanggung jawabnya.
+## Tujuan bukan sekadar slogan
 
-Di sini pemikiran pendidikan modern memberi pertanyaan tambahan. Dewey, misalnya, mengkritik tujuan pendidikan yang hanya dipahami sebagai persiapan menuju keadaan akhir yang sudah ditentukan. Ia menempatkan **pertumbuhan** sebagai bagian penting dari pendidikan dan menekankan pengalaman sebagai ruang terjadinya pertumbuhan.[^4] Ki Hadjar Dewantara juga melihat pendidikan sebagai proses **menuntun** kekuatan yang ada pada diri anak, bukan sekadar memaksakan bentuk tertentu dari luar.[^5]
+Rumusan seperti “menjadi baik”, “menjadi saleh”, atau “menjadi manusia unggul” memang penting sebagai arah nilai, tetapi belum cukup untuk membimbing pekerjaan pendidikan sehari-hari.
 
-TUMBUH tidak mengambil salah satu pandangan tersebut secara utuh. Dari tradisi Islam, TUMBUH mengambil **arah nilai dan tujuan hidup**. Dari pemikiran pendidikan dan ilmu perkembangan, TUMBUH mengambil perhatian pada **proses pertumbuhan, pengalaman, konteks, dan perkembangan kemampuan manusia**. Keduanya kemudian perlu dipertemukan dalam desain sistem.
+Pendidik perlu bisa bertanya lebih jauh: **baik dalam hal apa? Mampu melakukan apa? Mampu mengambil keputusan seperti apa? Bagaimana ia memperlakukan orang lain? Apa yang ia lakukan ketika tidak ada yang mengawasi?**
 
-Karena itu tujuan pendidikan TUMBUH perlu menghubungkan **arah hidup, kapasitas manusia, dan cara menggunakan kapasitas tersebut**. Kemampuan berpikir, berbicara, memimpin, bekerja sama, mengambil keputusan, dan mengelola diri menjadi lebih bermakna ketika digunakan secara bertanggung jawab.
+Pertanyaan tersebut membantu tujuan pendidikan bergerak dari slogan menuju sesuatu yang dapat dipahami dan pada akhirnya diterjemahkan ke dalam kapasitas, pengalaman, dan perkembangan.
 
-Ini juga berarti tujuan pendidikan tidak sama dengan target kegiatan. Target seperti “santri mengikuti lima kegiatan” adalah target pelaksanaan. Tujuan pendidikan berada satu tingkat lebih dalam: **perubahan apa yang diharapkan terjadi pada diri santri melalui pengalaman tersebut?**
+Di sinilah TUMBUH perlu membedakan beberapa hal yang sering tercampur.
 
-Tujuan juga perlu dibedakan dari ukuran keberhasilan. “Santri mampu mengatur waktunya” adalah arah perkembangan. “Santri mampu mengatur jadwal mingguannya tanpa diingatkan selama beberapa pekan” dapat menjadi salah satu bukti perkembangan. Detail cara menetapkan indikator dan bukti tidak diselesaikan di Foundation; itu menjadi pekerjaan Core Model dan Assessment.
+**Tujuan pendidikan** menjawab perubahan manusia seperti apa yang ingin diarahkan. **Target kegiatan** menjawab apa yang ingin diselesaikan dalam suatu kegiatan. **Bukti keberhasilan** menjawab tanda-tanda apa yang dapat digunakan untuk melihat apakah perubahan mulai terjadi.
 
-Karena itu TUMBUH membutuhkan gambaran yang jelas tentang manusia yang ingin dikembangkan. Gambaran tersebut nantinya dirumuskan lebih konkret dalam **Graduate Profile**, yaitu gambaran manusia yang menjadi arah pengembangan lulusan.
+Contohnya sederhana. “Santri mengikuti program pengelolaan waktu” adalah target kegiatan. “Santri semakin mampu mengatur waktunya” adalah tujuan perkembangan. Catatan beberapa pekan tentang bagaimana ia merencanakan, menjalankan, dan memperbaiki jadwalnya dapat menjadi salah satu bukti.
 
-Tujuan memberi arah. Tetapi arah saja belum cukup. Kita masih perlu memahami bagaimana tujuan itu diterjemahkan menjadi pengalaman yang benar-benar membantu manusia berkembang.
+Ketiganya saling berhubungan, tetapi tidak boleh diperlakukan sebagai hal yang sama.
 
-Pertanyaan berikutnya: **bagaimana pendidikan mengubah tujuan menjadi pengalaman yang benar-benar membantu manusia berkembang?**
+## Tujuan memberi arah, bukan mematikan proses
+
+Pemikiran pendidikan modern memberi pertanyaan tambahan. Dewey, misalnya, mengkritik tujuan pendidikan yang hanya dipahami sebagai keadaan akhir yang sudah ditentukan. Ia menempatkan pertumbuhan sebagai bagian penting dari pendidikan dan melihat pengalaman sebagai ruang terjadinya pertumbuhan.[^4]
+
+Ki Hadjar Dewantara juga melihat pendidikan sebagai proses **menuntun** kekuatan yang ada pada diri anak, bukan sekadar memaksakan bentuk tertentu dari luar.[^5]
+
+Pandangan ini membantu TUMBUH menghindari dua ekstrem.
+
+Di satu sisi, pendidikan tidak boleh kehilangan arah. Kalau semua perubahan dianggap baik hanya karena disebut “pertumbuhan”, lembaga kehilangan dasar untuk menentukan apa yang perlu dituju.
+
+Di sisi lain, pendidikan juga tidak boleh memperlakukan peserta didik seperti bahan yang harus dicetak persis sesuai cetakan. Manusia berkembang melalui pengalaman, pilihan, relasi, dan kondisi yang tidak semuanya dapat dikendalikan pendidik.
+
+Maka tujuan dalam TUMBUH harus menjadi **arah yang jelas sekaligus cukup terbuka untuk memberi ruang bagi proses perkembangan manusia**.
+
+## Arah nilai dan kemampuan harus bertemu
+
+TUMBUH tidak mengambil salah satu tradisi secara utuh. Dari tradisi Islam, TUMBUH mengambil **arah nilai dan tujuan hidup**. Dari pemikiran pendidikan dan ilmu perkembangan, TUMBUH mengambil perhatian pada **proses pertumbuhan, pengalaman, konteks, dan perkembangan kemampuan manusia**.
+
+Keduanya perlu bertemu.
+
+Kemampuan berpikir, berbicara, memimpin, bekerja sama, mengambil keputusan, mengelola diri, dan menyelesaikan masalah menjadi lebih bermakna ketika digunakan dengan nilai yang benar. Sebaliknya, nilai yang baik juga membutuhkan kemampuan agar dapat diwujudkan dalam tindakan nyata.
+
+Dengan begitu, tujuan pendidikan bukan hanya pertanyaan **“ingin menjadi siapa?”**, tetapi juga **“mampu melakukan apa?”** dan **“untuk apa kemampuan itu digunakan?”**
+
+## Tujuan pendidikan dan Graduate Profile
+
+Karena tujuan pendidikan perlu diterjemahkan menjadi gambaran manusia yang lebih konkret, TUMBUH membutuhkan **Graduate Profile**.
+
+Graduate Profile adalah gambaran manusia yang menjadi arah pengembangan lulusan. Ia bukan daftar kegiatan dan bukan pula daftar nilai yang berdiri sendiri. Ia menjadi jembatan antara tujuan pendidikan yang bersifat umum dengan kapasitas yang nantinya perlu dikembangkan dan diamati.
+
+Perumusan detail Graduate Profile tidak diselesaikan di Foundation. Itu menjadi pekerjaan **Core Model**.
+
+Foundation hanya menetapkan prinsip bahwa tujuan pendidikan harus memiliki hubungan yang jelas dengan pandangan tentang manusia, tujuan hidup, perkembangan, kapasitas, dan penggunaan kapasitas secara bertanggung jawab.
+
+## Tujuan tidak sama dengan ukuran keberhasilan
+
+Ada bahaya ketika tujuan langsung diubah menjadi angka.
+
+Angka dapat membantu ketika memang ada sesuatu yang perlu diukur. Tetapi angka bukan tujuan itu sendiri. Seorang santri dapat memperoleh nilai tinggi dalam suatu tugas tanpa menunjukkan perubahan yang kita maksud. Sebaliknya, perubahan penting kadang membutuhkan waktu dan tidak langsung terlihat dalam satu pengukuran.
+
+Karena itu TUMBUH perlu menjaga urutannya:
+
+**tujuan → kapasitas yang diharapkan → pengalaman dan dukungan → bukti perkembangan → penilaian.**
+
+Bukan sebaliknya:
+
+**apa yang mudah diukur → dijadikan tujuan.**
+
+Cara berpikir ini penting agar sistem tidak mengorbankan tujuan pendidikan hanya karena suatu aspek lebih mudah diberi angka.
+
+Tujuan memberi tahu kita **ke mana pendidikan diarahkan**. Human Development membantu menjelaskan **bagaimana manusia berubah menuju arah tersebut**. Sekarang pertanyaan berikutnya adalah: **bagaimana proses pendidikan dirancang agar pengalaman yang diberikan benar-benar mendukung perkembangan itu?**
+
+Itulah yang akan dibahas pada **03 — Pendidikan dan Perkembangan**.
 
 ## Catatan kaki
 
 [^1]: Al-Qur’an, QS. Adz-Dzariyat 51:56.
 [^2]: Al-Qur’an, QS. Al-Baqarah 2:151.
 [^3]: Mokhamad Ali Musyaffa’ dan Abd Haris, “Hakikat Tujuan Pendidikan Islam Perspektif Imam Al-Ghazali,” *Dar el-Ilmi: Jurnal Studi Keagamaan, Pendidikan dan Humaniora*, 9(1), 2022, https://doi.org/10.52166/darelilmi.v9i1.3033.
-[^4]: John Dewey, *Democracy and Education* (1916), khususnya pembahasan tentang tujuan pendidikan dan education as growth. Lihat juga edisi Columbia University Press, https://cup.columbia.edu/book/democracy-and-education/9780231210102/.
+[^4]: John Dewey, *Democracy and Education* (1916), khususnya pembahasan tentang tujuan pendidikan dan education as growth.
 [^5]: Untuk ringkasan pemikiran Ki Hadjar Dewantara tentang pendidikan sebagai proses menuntun kodrat anak, lihat BBPPMPV BMTI, “Pendidikan Tanggung Jawab Semua Pihak,” 10 Juni 2026, https://bbppmpvbmti.kemendikdasmen.go.id/berita/pendidikan-tanggung-jawab-semua-pihak.
 
 ## Rujukan
