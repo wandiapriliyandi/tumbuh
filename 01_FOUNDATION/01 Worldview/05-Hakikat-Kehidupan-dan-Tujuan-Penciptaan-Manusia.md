@@ -11,6 +11,8 @@ Pertanyaan ini membawa kita dari gambaran tentang manusia kepada makna kehidupan
 
 Kehidupan manusia tidak dipahami hanya sebagai rangkaian aktivitas menuju keberhasilan material.
 
+Al-Qur'an menyatakan bahwa jin dan manusia diciptakan untuk beribadah kepada Allah.[^1] Dalam TUMBUH, ayat ini menjadi penentu arah yang mendasar: pengembangan manusia tidak boleh berhenti pada kemampuan, prestasi, atau keberhasilan duniawi. Kemampuan harus ditempatkan dalam kehidupan yang memiliki orientasi kepada Allah.
+
 Manusia hidup sebagai makhluk Allah, menerima amanah, memiliki pilihan dan ikhtiar, serta memikul tanggung jawab moral. **Moral** di sini berkaitan dengan pertimbangan tentang benar-salah dan baik-buruknya tindakan.
 
 Karena itu kemampuan tidak berdiri sendiri. Selalu ada pertanyaan tentang arah penggunaannya.
@@ -59,4 +61,6 @@ Dari sini arah pendidikan mulai terlihat lebih jelas. TUMBUH tidak hanya membutu
 
 Pertanyaan itu menjadi pekerjaan berikutnya dalam **Graduate Profile** dan **Capacity Architecture**. Sementara pertanyaan tentang apa yang benar, baik, bertanggung jawab, dan amanah membawa kita ke pembahasan berikutnya tentang **nilai dan kebaikan**.
 
-Sumber normatif spesifik mengenai tujuan penciptaan perlu ditelusurkan pada `08_SOURCES_AND_EVIDENCE/03 Islamic & Turats Sources`; dokumen ini bukan kajian teologis lengkap.
+### Sumber yang digunakan
+
+[^1]: Al-Qur'an, QS. Adz-Dzariyat [51]: 56.
