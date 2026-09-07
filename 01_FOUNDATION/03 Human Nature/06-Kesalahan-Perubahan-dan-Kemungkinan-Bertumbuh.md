@@ -12,7 +12,7 @@ Memberi ruang untuk berubah bukan berarti membuat kesalahan menjadi ringan. Just
 
 Di sini **konsekuensi** perlu dibedakan dari sekadar hukuman. Konsekuensi dalam pembinaan seharusnya membantu seseorang memahami hubungan antara tindakannya dan dampaknya. Dalam situasi tertentu, konsekuensi juga perlu melindungi orang lain dan menjaga batas yang telah disepakati. Cara menerapkannya tetap harus menghormati martabat manusia.
 
-Perubahan juga tidak selalu berjalan lurus. Seseorang bisa membaik, kembali melakukan kesalahan, lalu mencoba lagi. Dalam masa remaja, kemampuan belajar dan menyesuaikan diri masih berkembang, dan pengalaman serta lingkungan dapat ikut memengaruhi proses tersebut. Riset perkembangan menunjukkan bahwa masa remaja merupakan periode perubahan dan plastisitas yang cukup besar, sehingga pengalaman positif maupun negatif dapat memiliki pengaruh penting. citeturn0search0turn0search6
+Perubahan juga tidak selalu berjalan lurus. Seseorang bisa membaik, kembali melakukan kesalahan, lalu mencoba lagi. Dalam masa remaja, kemampuan belajar dan menyesuaikan diri masih berkembang, dan pengalaman serta lingkungan dapat ikut memengaruhi proses tersebut. Literatur perkembangan menunjukkan bahwa masa remaja merupakan periode perubahan yang penting dan memiliki kapasitas untuk berkembang melalui pengalaman dan konteks.
 
 Karena itu pembinaan membutuhkan **ketegasan sekaligus ruang untuk memperbaiki diri**. Ketegasan berarti batas tetap ada. Kasih sayang berarti manusia tidak dibuang hanya karena ia pernah gagal. Keduanya bukan lawan.
 
