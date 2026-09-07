@@ -1,39 +1,22 @@
 # 07 Change — Perubahan
 
-**Status:** DESIGNED — Foundation baseline v2.0.0
+Perubahan adalah bagian yang tidak bisa dipisahkan dari sistem pendidikan. Manusia berubah, kebutuhan berubah, lingkungan berubah, dan lembaga juga berubah.
 
-## Purpose
+TUMBUH karena itu tidak memandang perubahan hanya sebagai proyek yang dilakukan ketika ada masalah. Perubahan adalah proses berpindah dari kondisi sekarang menuju kondisi yang dianggap lebih baik atau lebih sesuai dengan tujuan.
 
-Menetapkan cara TUMBUH memahami perubahan individu, kelompok, dan lembaga agar implementasi tidak bergantung pada perubahan mendadak atau kepatuhan semu.
+Namun tidak semua perubahan adalah kemajuan. Perubahan perlu dinilai berdasarkan arah, dampak, nilai, dan bukti yang tersedia.
 
-## Core Position
+## Pertanyaan utama
 
-Perubahan adalah proses yang membutuhkan arah, kesiapan, dukungan, praktik berulang, umpan balik, adaptasi, dan evaluasi. Perubahan sistem tidak identik dengan mengganti dokumen atau SOP.
+1. Mengapa manusia dan lembaga berubah?
+2. Mengapa perubahan sering mendapat penolakan?
+3. Apa yang membuat perubahan bertahan?
+4. Bagaimana membedakan perubahan yang baik dari sekadar perubahan?
+5. Bagaimana perubahan individu berbeda dari perubahan organisasi?
+6. Apa peran kepemimpinan, lingkungan, dan pengalaman dalam perubahan?
 
-## Tadarruj dan Istiqamah
+## Batas
 
-Perubahan dapat dilakukan bertahap sesuai prioritas dan kapasitas organisasi. Setelah perubahan diterapkan, sistem membutuhkan konsistensi, penguatan, monitoring, dan perbaikan.
+Foundation ini membahas hakikat dan dinamika perubahan. Ia tidak menetapkan satu model change management sebagai model resmi TUMBUH. Model, tahapan, alat, dan rencana implementasi dipilih pada layer Implementation dan Research berdasarkan kebutuhan serta evidence.
 
-## Diagnosis Before Intervention
-
-Sebelum mengubah perilaku atau kebijakan, TUMBUH membedakan masalah tujuan, kemampuan, motivasi, lingkungan, sumber daya, proses, kepemimpinan, dan faktor keselamatan. Intervensi harus sesuai dengan masalah yang sebenarnya.
-
-## Change as a System
-
-Perubahan peserta didik dipengaruhi oleh pendidik, keluarga, teman sebaya, rutinitas, lingkungan fisik, kebijakan, kepemimpinan, dan sumber daya. Karena itu perubahan tidak boleh dibebankan hanya kepada individu.
-
-## Resistance
-
-Resistensi tidak otomatis dianggap sebagai pembangkangan. Ia dapat menjadi sinyal ketidakjelasan tujuan, beban kerja, ketidaksesuaian desain, kekhawatiran nilai, kurangnya kompetensi, atau kepentingan yang belum terkelola. Namun perilaku yang membahayakan tetap membutuhkan batas dan respons yang tepat.
-
-## Continuous Improvement
-
-Perubahan menggunakan siklus: **diagnose → design → prepare → implement → monitor → learn → adapt → institutionalize**.
-
-## Boundary
-
-Foundation tidak menetapkan metodologi manajemen perubahan tertentu sebagai satu-satunya metode. Efektivitas strategi perubahan harus dievaluasi melalui Implementation Research dan System Performance.
-
-## Downstream Implication
-
-Prinsip ini menjadi dasar Change Management, Implementation Fidelity, Monitoring, Risk Management, dan Continuous Improvement.
+**Lanjut ke:** Core Principles, yang merumuskan prinsip-prinsip yang harus tetap dijaga ketika sistem TUMBUH dirancang dan dijalankan.
