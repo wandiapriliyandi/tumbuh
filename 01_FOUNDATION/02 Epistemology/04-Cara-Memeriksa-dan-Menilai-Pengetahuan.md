@@ -4,25 +4,37 @@ Memiliki informasi belum berarti kita memiliki pengetahuan yang kuat. Informasi 
 
 Pertanyaan dasarnya sederhana: **dari mana informasi ini berasal? Bagaimana informasi diperoleh? Apakah caranya sesuai dengan pertanyaan? Apa yang bisa membuat kita keliru? Dan seberapa jauh kesimpulan boleh dibuat?**
 
-Pertanyaan seperti ini sudah lama menjadi perhatian epistemologi. Pengetahuan tidak hanya menyangkut apakah sebuah pernyataan benar, tetapi juga alasan mengapa kita layak mempercayainya. Dalam epistemologi kontemporer, sumber seperti persepsi, ingatan, penalaran, dan kesaksian orang lain dibahas bersama dengan persoalan reliabilitas dan batas pengetahuan. [^1]
+Pertanyaan seperti ini sudah lama menjadi perhatian epistemologi. Dalam pembahasan pengetahuan, yang penting bukan hanya apakah sebuah keyakinan benar, tetapi juga apakah ada alasan yang memadai untuk mempercayainya. Dalam epistemologi kontemporer, hal ini dibahas melalui konsep seperti *justification* (alasan yang mendukung keyakinan), evidence, dan reliabilitas sumber. [^1]
 
-## Tidak semua pemeriksaan harus memakai statistik
+## Pemeriksaan mengikuti jenis pengetahuan
 
-Untuk sebuah definisi, misalnya, kita perlu melihat apakah definisinya jelas, tidak saling bertentangan, dan digunakan secara konsisten.
+Tidak semua hal perlu diperiksa dengan cara yang sama.
 
-Untuk klaim empiris, kita perlu melihat kualitas data, cara data dikumpulkan, ukuran yang digunakan, dan kemungkinan adanya penjelasan lain.
+Untuk sebuah **definisi**, kita perlu melihat apakah maknanya jelas, tidak saling bertentangan, dan digunakan secara konsisten.
 
-Untuk keputusan desain, kita perlu memeriksa apakah keputusan tersebut mengikuti prinsip yang sudah ditetapkan, menjawab kebutuhan yang nyata, dan memiliki evidence yang cukup untuk klaim empiris yang menyertainya.
+Untuk **klaim empiris**, kita perlu melihat bagaimana data dikumpulkan, bagaimana sesuatu diukur, apakah datanya cukup baik, dan apakah ada penjelasan lain yang masuk akal.
 
-Jadi pemeriksaan harus mengikuti **jenis pengetahuan yang sedang diperiksa**.
+Untuk **klaim normatif**, pertanyaannya berbeda. Kita perlu memeriksa sumber dan alasan normatif yang menjadi dasarnya, bukan memaksanya menjadi kesimpulan statistik.
+
+Untuk **keputusan desain**, kita perlu melihat apakah keputusan tersebut mengikuti prinsip TUMBUH, menjawab kebutuhan yang nyata, dan tidak membuat klaim empiris yang lebih kuat daripada evidence yang tersedia.
+
+Jadi, pemeriksaan harus mengikuti **jenis pengetahuan yang sedang diperiksa**.
+
+## Evidence membantu, tetapi tidak berbicara sendirian
+
+**Evidence** berarti bukti atau informasi yang digunakan untuk menilai sebuah pernyataan.
+
+Evidence dapat memperkuat sebuah hipotesis, tetapi tidak otomatis membuat hipotesis pasti benar. Dalam penalaran berbasis evidence, informasi yang sama bahkan dapat dipahami berbeda jika kita memiliki hipotesis atau informasi pembanding yang berbeda. Karena itu, kesimpulan dari evidence pada umumnya tetap memiliki kemungkinan salah. [^2]
+
+Hal ini penting bagi TUMBUH. Data bukan sekadar kumpulan angka. Kita perlu mengetahui **apa yang diukur, bagaimana mengukurnya, dan apa yang sebenarnya dapat disimpulkan dari hasil pengukuran tersebut**.
 
 ## Validasi bukan berarti “sudah terbukti”
 
 **Validasi** berarti proses memeriksa apakah suatu konstruk, instrumen, klaim, atau keputusan memiliki dasar yang memadai sesuai dengan tujuan penggunaannya.
 
-Karena itu kalimat seperti **“sudah tervalidasi”**, **“evidence-based”**, atau **“terbukti efektif”** tidak boleh digunakan sebagai hiasan. Kita harus bisa menjelaskan: apa yang divalidasi, untuk tujuan apa, berdasarkan bukti apa, dan apa batas penggunaannya.
+Karena itu kalimat seperti **“sudah tervalidasi”**, **“evidence-based”**, atau **“terbukti efektif”** tidak boleh digunakan sebagai hiasan. Kita harus bisa menjelaskan: apa yang dinilai, untuk tujuan apa, berdasarkan bukti apa, dan apa batas penggunaannya.
 
-Dalam TUMBUH, sebuah instrumen misalnya dapat memiliki bukti yang cukup untuk mengukur aspek tertentu pada konteks tertentu, tetapi itu tidak otomatis berarti instrumen tersebut mengukur seluruh karakter manusia.
+Dalam TUMBUH, sebuah instrumen misalnya dapat memiliki bukti yang cukup untuk mengukur aspek tertentu pada konteks tertentu. Itu tidak otomatis berarti instrumen tersebut mengukur seluruh karakter manusia.
 
 ## Jangan membuat kesimpulan lebih besar daripada buktinya
 
@@ -32,42 +44,55 @@ Jika data hanya menunjukkan perubahan pada satu kelompok, kita tidak boleh langs
 
 Jika dua hal terjadi bersamaan, kita juga tidak boleh langsung menyatakan bahwa yang satu menyebabkan yang lain.
 
-Jika sebuah studi menemukan hubungan antara dua variabel, **hubungan** belum otomatis berarti **sebab-akibat**. Klaim kausal membutuhkan dasar dan desain yang memungkinkan kita menilai kemungkinan penjelasan alternatif. Literatur causal inference modern menunjukkan bahwa pertanyaan kausal membutuhkan asumsi yang dinyatakan dengan jelas dan desain yang sesuai dengan pertanyaan tersebut. [^2]
+Jika sebuah studi menemukan hubungan antara dua variabel, **hubungan** belum otomatis berarti **sebab-akibat**. Klaim kausal membutuhkan asumsi dan desain yang memungkinkan kita menilai kemungkinan penjelasan lain. Literatur *causal inference* menunjukkan bahwa kesimpulan sebab-akibat tidak dapat ditarik hanya dari adanya korelasi. [^3]
 
-## Ada juga masalah pada sumbernya
+## Sumber yang dapat dipercaya tetap bisa keliru
 
 Kesaksian seseorang dapat sangat berguna, tetapi kita tetap perlu mempertimbangkan kompetensi, konteks, kemungkinan kesalahan ingatan, kepentingan, dan konsistensinya dengan informasi lain.
 
-Ini bukan berarti semua kesaksian harus dicurigai. Justru kehidupan sehari-hari dan ilmu pengetahuan sangat bergantung pada kesaksian orang lain. Persoalannya adalah **kapan kita layak mempercayainya dan kapan kita perlu melakukan pemeriksaan tambahan**. [^3]
+Ini bukan berarti semua kesaksian harus dicurigai. Kehidupan sehari-hari dan ilmu pengetahuan justru sangat bergantung pada informasi dari orang lain. Persoalannya adalah **kapan kita layak mempercayainya dan kapan kita perlu melakukan pemeriksaan tambahan**. [^4]
 
-## Dari Al-Ghazali kita belajar satu hal penting
+Hal yang sama berlaku untuk instrumen, laporan, dan hasil penelitian. Sebuah sumber dapat memiliki reputasi baik tetapi tetap memiliki batas pada konteks tertentu. Karena itu, TUMBUH perlu menilai **kecocokan sumber dengan pertanyaan**, bukan hanya nama atau status sumbernya.
 
-Al-Ghazali terkenal karena tidak menerima begitu saja keyakinan yang belum diperiksa. Dalam *Al-Munqidh min al-Dalal*, ia menggambarkan pencariannya terhadap pengetahuan yang benar dan mempertanyakan apakah apa yang tampak meyakinkan benar-benar memberikan kepastian.
+## Pemeriksaan ilmiah tidak memiliki satu resep untuk semua persoalan
 
-Pelajaran yang relevan bagi TUMBUH bukan bahwa semua pengetahuan harus memiliki kepastian mutlak. Pelajarannya adalah bahwa **dasar sebuah keyakinan perlu diperiksa, dan tingkat keyakinan harus sesuai dengan kualitas dasarnya**. [^4]
+Dalam ilmu pengetahuan, pengamatan sistematis, eksperimen, penalaran, pemodelan, dan pengujian hipotesis merupakan bagian penting dari praktik ilmiah. Namun tidak ada satu prosedur tunggal yang cocok untuk semua bidang dan semua pertanyaan. Metode perlu disesuaikan dengan objek dan tujuan penyelidikan. [^5]
+
+Bagi TUMBUH, pelajarannya sederhana: jangan menggunakan istilah “ilmiah” hanya karena sebuah prosedur terlihat rumit. Yang lebih penting adalah apakah cara tersebut **sesuai dengan pertanyaan dan mampu memberikan dasar yang layak bagi kesimpulan yang dibuat**.
+
+## Dari Al-Ghazali kita belajar kehati-hatian
+
+Al-Ghazali menunjukkan dalam *Al-Munqidh min al-Dalal* bahwa pencarian pengetahuan membutuhkan pemeriksaan terhadap dasar keyakinan. Ia mempertanyakan apakah sesuatu yang tampak meyakinkan benar-benar memberikan kepastian.
+
+TUMBUH tidak mengambil kesimpulan bahwa semua pengetahuan harus mencapai kepastian mutlak. Pelajaran yang lebih berguna adalah: **tingkat keyakinan harus sepadan dengan dasar yang tersedia**. Jika dasarnya lemah, bahasa kesimpulannya juga harus lebih hati-hati. [^6]
 
 ## Prinsip pemeriksaan TUMBUH
 
 Dari pembahasan ini, TUMBUH menggunakan beberapa kebiasaan epistemik:
 
 - bedakan sumber informasi dari kesimpulan yang dibuat;
-- cocokkan metode dengan pertanyaan;
+- cocokkan cara pemeriksaan dengan jenis pertanyaan;
 - periksa kualitas dan keterbatasan data;
 - bedakan hubungan dari sebab-akibat;
 - perhatikan reliabilitas sumber dan kesaksian;
+- pertimbangkan penjelasan alternatif;
 - nyatakan batas kesimpulan;
 - jangan menggunakan istilah ilmiah lebih kuat daripada evidence yang tersedia.
 
-Dengan kebiasaan ini, TUMBUH tidak hanya bertanya apakah sebuah informasi terdengar masuk akal, tetapi juga apakah dasar dan kesimpulannya memang sepadan.
+Dengan kebiasaan ini, TUMBUH tidak hanya bertanya apakah sebuah informasi terdengar masuk akal, tetapi juga apakah **dasar, cara pemeriksaan, dan kesimpulannya memang sepadan**.
 
 Setelah cara memeriksa pengetahuan jelas, kita perlu melihat bahwa pernyataan dalam TUMBUH sendiri memiliki jenis yang berbeda. **Jenis klaim menentukan cara kita memeriksanya.**
 
 ## Rujukan kunci
 
-[^1]: Stanford Encyclopedia of Philosophy, “Epistemology”, pembahasan tentang knowledge, justification, sources of knowledge, dan limits of cognitive success.
+[^1]: Stanford Encyclopedia of Philosophy, “Epistemology”, terutama pembahasan tentang justification, evidence, dan reliabilitas. https://plato.stanford.edu/entries/epistemology/
 
-[^2]: Judea Pearl, Madelyn Glymour, dan Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*. Wiley, 2016.
+[^2]: Stanford Encyclopedia of Philosophy, “Confirmation”, tentang hubungan evidence dengan hipotesis dan sifat fallible dari penalaran berbasis evidence. https://plato.stanford.edu/entries/confirmation/
 
-[^3]: Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony”, tentang reliabilitas, evidence, dan kesaksian sebagai sumber pengetahuan.
+[^3]: Judea Pearl, Madelyn Glymour, dan Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*. Wiley, 2016.
 
-[^4]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), tentang pencarian dasar pengetahuan dan kepastian.
+[^4]: Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony”, tentang testimony sebagai sumber pengetahuan dan persoalan reliabilitasnya. https://plato.stanford.edu/entries/testimony-episprob/
+
+[^5]: Stanford Encyclopedia of Philosophy, “Scientific Method”, tentang pengamatan sistematis, eksperimen, penalaran, pemodelan, pengujian hipotesis, dan pluralitas metode ilmiah. https://plato.stanford.edu/entries/scientific-method/
+
+[^6]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), tentang pencarian dasar pengetahuan dan kepastian. https://www.ghazali.org/md-mcc-2/
