@@ -66,8 +66,8 @@ Pembahasan tentang **bagaimana manusia memperoleh dan memeriksa pengetahuan** ti
 [^1]: Al-Qur'an, QS. Az-Zumar [39]: 62.
 [^2]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
 [^3]: Al-Qur'an, QS. An-Najm [53]: 39–40.
-[^4]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*). Lihat pembahasan tentang pencarian dasar kepastian dan pemeriksaan terhadap indera serta akal. Sumber teks: ghazali.org. citeturn0search0turn0search1
-[^5]: Ibn Rushd, *Fasl al-Maqal fi ma bayna al-Hikmah wa al-Shari'ah min al-Ittisal* (*The Decisive Treatise*). Lihat pembahasan tentang hubungan penalaran dan syariat. Ringkasan dan kajian: Dar al-Ifta' Egypt; Tamtowi, M. *Keselarasan antara Syariah dan Falsafah*. citeturn0search5turn0search10
+[^4]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*). Lihat pembahasan tentang pencarian dasar kepastian dan pemeriksaan terhadap indera serta akal. Sumber teks: ghazali.org, https://www.ghazali.org/md-mcc-2/.
+[^5]: Ibn Rushd, *Fasl al-Maqal fi ma bayna al-Hikmah wa al-Shari'ah min al-Ittisal* (*The Decisive Treatise*). Lihat pembahasan tentang hubungan penalaran dan syariat. Kajian pendukung: Dar al-Ifta' Egypt, https://www.dar-alifta.org/en/article/details/362/islamic-philosophy; Tamtowi, M., *Keselarasan antara Syariah dan Falsafah*, https://jurnal.ar-raniry.ac.id/index.php/islamfutura/article/view/60.
 
 ## Sumber yang memperkaya pembahasan
 
