@@ -12,7 +12,9 @@ Di pesantren, seorang pengasuh, kepala madrasah, guru, musyrif, atau ketua kamar
 
 Seorang musyrif boleh menetapkan aturan kamar. Ia boleh menghentikan tindakan yang membahayakan, menegur pelanggaran, atau meminta santri memperbaiki kesalahan. Tetapi kewenangan itu tidak otomatis membenarkan penghinaan, kekerasan, mempermalukan di depan umum, atau hukuman yang tidak berhubungan dengan tujuan pendidikan.
 
-Ini menjadi batas penting: **pemimpin boleh menggunakan kekuasaan untuk menjaga tujuan pendidikan, tetapi tidak boleh menjadikan orang yang dipimpin sebagai alat untuk mempertahankan kekuasaannya.**
+Ini menjadi batas penting:
+
+> **Pemimpin boleh menggunakan kekuasaan untuk menjaga tujuan pendidikan, tetapi tidak boleh menjadikan orang yang dipimpin sebagai alat untuk mempertahankan kekuasaannya.**
 
 ## Amanah menuntut pertanggungjawaban
 
@@ -36,15 +38,19 @@ Mengendalikan berarti pemimpin memastikan orang melakukan sesuatu terutama karen
 
 Ini sejalan dengan pembahasan Education sebelumnya. Jika tujuan pendidikan adalah pertumbuhan manusia, maka kepemimpinan tidak boleh menghasilkan ketergantungan permanen kepada pemimpin.
 
-Penelitian kepemimpinan pendidikan modern juga memberi petunjuk yang relevan. Studi tentang distributed leadership—kepemimpinan yang membagi ruang kepemimpinan kepada beberapa orang—menunjukkan hubungan dengan otonomi guru, kolaborasi, dan kualitas praktik pendidikan.³ Namun TUMBUH tidak perlu mengadopsi distributed leadership sebagai model baku. Temuan tersebut lebih tepat digunakan sebagai bukti bahwa **memberi ruang tanggung jawab kepada orang lain dapat menjadi bagian dari pembangunan kapasitas**.
+Penelitian tentang **distributed leadership**—kepemimpinan yang membagi ruang kepemimpinan kepada beberapa orang—memberi petunjuk bahwa pemberian ruang tanggung jawab kepada orang lain dapat berkaitan dengan otonomi, kolaborasi, dan praktik pendidikan.³ Namun TUMBUH tidak perlu mengadopsi distributed leadership sebagai model baku. Temuan tersebut lebih tepat digunakan sebagai salah satu bahan ilmiah untuk menguji gagasan bahwa **memberi ruang tanggung jawab dapat menjadi bagian dari pembangunan kapasitas**.
 
 Jadi, ketika kepala madrasah memberi ruang kepada guru untuk mengambil keputusan profesional, ketika musyrif memberi kesempatan kepada santri senior untuk membantu pembinaan, atau ketika ketua kamar diberi tanggung jawab menyelesaikan persoalan sederhana, yang sedang dibangun bukan hanya pembagian pekerjaan. Yang sedang dibangun adalah kapasitas memimpin.
 
-## Batas yang harus tetap ada
+## Memberi wewenang tetap membutuhkan batas
 
 Memberi wewenang tidak berarti melepaskan semua batas. Ada keputusan yang memang harus tetap berada pada pemimpin karena menyangkut keselamatan, aturan lembaga, hak peserta didik, atau tanggung jawab hukum.
 
 Karena itu, kepemimpinan TUMBUH tidak bergerak dari “semua diputuskan pemimpin” menjadi “semua bebas diputuskan bersama”. Yang dicari adalah **wewenang yang tepat untuk tanggung jawab yang tepat**, dengan batas yang jelas dan ruang partisipasi yang sesuai.
+
+Batas ini juga melindungi orang yang diberi wewenang. Seseorang tidak seharusnya diberi tanggung jawab tanpa kejelasan tentang apa yang boleh ia putuskan, kapan harus meminta bantuan, dan kepada siapa ia mempertanggungjawabkan keputusan.
+
+Dengan demikian, amanah memiliki dua sisi: **ada kewenangan untuk bertindak, dan ada kewajiban untuk mempertanggungjawabkan tindakan tersebut.**
 
 Dari sini muncul pertanyaan berikutnya: **kalau kewenangan harus digunakan untuk membantu orang bertumbuh, bagaimana pemimpin memengaruhi orang tanpa sekadar memerintah mereka?**
 
