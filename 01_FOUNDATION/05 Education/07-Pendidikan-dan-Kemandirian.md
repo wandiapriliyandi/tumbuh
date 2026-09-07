@@ -12,27 +12,27 @@ Misalnya, seorang santri beberapa kali lupa menyiapkan perlengkapan sekolah. Jik
 
 Dengan begitu, yang dibangun bukan sekadar **kepatuhan terhadap pengingat**, tetapi kemampuan mengelola diri.
 
-Di sinilah pendidikan perlu membedakan antara **kontrol dari luar** dan **pengaturan diri**. Kontrol dari luar membuat seseorang bertindak karena ada orang yang mengawasi atau memberi konsekuensi. Pengaturan diri berarti seseorang mulai mampu mengarahkan perilakunya sendiri berdasarkan tujuan, nilai, dan pertimbangan yang ia pahami.
+Di sinilah pendidikan perlu membedakan antara **kontrol dari luar** dan **pengaturan diri**. Kontrol dari luar membuat seseorang bertindak terutama karena ada orang yang mengawasi atau memberi konsekuensi. Pengaturan diri berarti seseorang mulai mampu mengarahkan perilakunya sendiri berdasarkan tujuan, nilai, dan pertimbangan yang ia pahami.
 
-Keduanya tetap mempunyai tempat. Anak yang sedang belajar tidak mungkin langsung dilepas. Namun arah perkembangannya perlu bergerak dari banyak bantuan menuju kemampuan yang semakin mandiri.
+Keduanya tetap mempunyai tempat. Santri yang sedang belajar tidak mungkin langsung dilepas. Namun arah pendidikannya perlu bergerak dari banyak bantuan menuju kemampuan yang semakin mandiri.
 
 ## Kemandirian bukan kebebasan tanpa arah
 
 Dalam konteks TUMBUH, mandiri tidak berarti bebas melakukan apa saja.
 
-Seorang santri justru semakin mandiri ketika ia mampu memilih dan bertindak dengan mempertimbangkan nilai, tanggung jawab, serta akibat dari pilihannya. Ia tidak hanya bertanya, “Apakah ada yang melihat?” tetapi juga, “Apa yang seharusnya saya lakukan?”
+Seorang santri justru semakin mandiri ketika ia mampu memilih dan bertindak dengan mempertimbangkan nilai, tanggung jawab, serta akibat dari pilihannya. Ia tidak hanya bertanya, **“Apakah ada yang melihat?”**, tetapi juga, **“Apa yang seharusnya saya lakukan?”**
 
-Karena itu, kemandirian berkaitan erat dengan amanah. Ketika seseorang diberi tanggung jawab, ia belajar menjalankannya bukan hanya karena ada pengawas, tetapi karena memahami bahwa tanggung jawab itu memang harus ditunaikan.
+Karena itu kemandirian berkaitan erat dengan amanah. Ketika seseorang diberi tanggung jawab, ia belajar menjalankannya bukan hanya karena ada pengawas, tetapi karena memahami bahwa tanggung jawab itu memang harus ditunaikan.
 
 Ini juga menjelaskan mengapa pendidikan karakter tidak cukup hanya dengan memperbanyak aturan. Aturan dapat membantu membentuk batas perilaku, tetapi tujuan akhirnya bukan agar seseorang selamanya membutuhkan aturan yang semakin banyak. Tujuannya adalah agar nilai di balik aturan semakin dipahami dan mampu menjadi dasar tindakan.
 
-## Apa yang dikatakan penelitian tentang kemandirian?
+## Kemandirian tumbuh melalui hubungan
 
-Dalam penelitian motivasi, **Self-Determination Theory (SDT)** dari Richard Ryan dan Edward Deci membedakan antara tindakan yang terasa dikendalikan dari luar dan tindakan yang semakin diterima serta diarahkan oleh diri sendiri. Penelitian dalam tradisi ini menunjukkan pentingnya tiga kebutuhan psikologis: **autonomy** (merasakan bahwa dirinya punya ruang untuk memilih dan memulai tindakan), **competence** (merasakan bahwa dirinya mampu), dan **relatedness** (merasakan hubungan yang aman dan bermakna dengan orang lain). Ketiganya berkaitan dengan motivasi dan perkembangan yang lebih sehat. [^1]
+Penelitian dalam tradisi **Self-Determination Theory (SDT)** dari Richard Ryan dan Edward Deci membedakan tindakan yang terasa dikendalikan dari luar dengan tindakan yang semakin diterima dan diarahkan oleh diri sendiri. Tradisi penelitian ini juga menekankan tiga kebutuhan psikologis: **autonomy** (merasakan adanya ruang untuk memilih dan memulai tindakan), **competence** (merasakan bahwa dirinya mampu), dan **relatedness** (merasakan hubungan yang aman dan bermakna dengan orang lain). Ketiganya berkaitan dengan motivasi dan perkembangan yang lebih sehat.[^1]
 
-Temuan ini berguna bagi pendidikan, tetapi tidak berarti TUMBUH harus mengambil SDT sebagai dasar tunggal. Ia membantu kita melihat satu hal yang penting: **cara pendidik memberi bantuan dapat memengaruhi apakah peserta didik menjadi lebih aktif dan mampu mengatur dirinya, atau semakin pasif menunggu perintah.** [^2]
+Bagi TUMBUH, temuan ini tidak menjadi dasar tunggal. Ia membantu memperjelas satu hal: **cara pendidik memberi bantuan dapat memengaruhi apakah santri semakin aktif mengatur dirinya atau semakin terbiasa menunggu perintah.**
 
-Tradisi pendidikan Islam memberi penekanan yang berbeda tetapi dapat berdialog dengan persoalan ini. Dalam pembahasan adab pendidik dan peserta didik yang dinisbatkan pada Al-Ghazali, pendidik tidak hanya menyampaikan ilmu. Ia membimbing, memberi nasihat, menjadi teladan, memperhatikan kemampuan murid, dan membantu murid menjalani proses belajar secara bertahap. Murid juga tidak berhenti pada menerima pengetahuan; ilmu perlu dipelajari, diamalkan, dan membentuk perilaku. [^3]
+Tradisi pendidikan Islam memberi penekanan yang berbeda tetapi dapat berdialog dengan persoalan ini. Dalam pembahasan adab guru dan murid yang dinisbatkan kepada Al-Ghazali, pendidik tidak hanya menyampaikan ilmu. Ia membimbing, memberi nasihat, menjadi teladan, memperhatikan kemampuan murid, dan membantu proses belajar secara bertahap. Ilmu juga tidak berhenti pada pengetahuan, tetapi perlu diamalkan dan membentuk perilaku.[^2]
 
 Jadi, kemandirian dalam TUMBUH tidak dibangun dengan mengurangi peran pendidik secara tiba-tiba. Kemandirian dibangun melalui **pendampingan yang bertahap dan disengaja**.
 
@@ -54,24 +54,31 @@ Pertanyaan kedua lebih dekat dengan tujuan kemandirian.
 
 Misalnya, kamar selalu bersih karena musyrif setiap sore memeriksa dan memberi perintah. Itu menunjukkan sistem kontrol berjalan. Namun belum tentu menunjukkan bahwa santri sudah memiliki tanggung jawab terhadap lingkungan. Tanda perkembangan yang lebih kuat muncul ketika santri mulai mampu melihat kebutuhan, mengambil inisiatif, membagi tugas, dan memperbaiki keadaan tanpa harus selalu menunggu instruksi.
 
-## Pendidik tetap penting
+## Bantuan perlu berubah seiring perkembangan
 
 Mendorong kemandirian tidak berarti pendidik harus segera mundur. Justru pendidik perlu semakin cermat membaca kapan harus membantu dan kapan harus memberi ruang.
 
 Pada satu keadaan, santri mungkin perlu diberi contoh. Pada keadaan lain, cukup diberi pertanyaan. Setelah itu mungkin hanya perlu umpan balik. Pada tahap yang lebih matang, tanggung jawab dapat diserahkan dan pendidik cukup memantau.
 
-Dengan demikian, bantuan dapat berubah mengikuti perkembangan kapasitas santri:
+Dengan demikian, bentuk bantuan dapat berubah mengikuti perkembangan kapasitas santri:
 
 **dibantu → didampingi → diberi kesempatan → diberi tanggung jawab → mampu mengelola diri.**
 
 Urutan ini bukan hukum perkembangan yang berlaku sama untuk semua orang. Santri dapat maju, mundur, atau membutuhkan dukungan lebih banyak pada bidang tertentu. Yang penting adalah arah pendidikannya: bantuan tidak berhenti sebagai ketergantungan.
 
-Dari sini, pendidikan bertemu dengan pembinaan kebiasaan, tanggung jawab, motivasi, dan perkembangan kapasitas. Cara menentukan kapan dukungan perlu ditambah, dikurangi, atau dialihkan tidak ditetapkan di sini; pembahasannya akan masuk ke progression, intervention, implementation, dan programs.
+Dari sini, pendidikan bertemu dengan pembinaan kebiasaan, tanggung jawab, motivasi, dan perkembangan kapasitas. Cara menentukan kapan dukungan perlu ditambah, dikurangi, atau dialihkan tidak ditetapkan di Foundation; pembahasannya masuk ke **Progression, Intervention, Implementation,** dan **Programs**.
 
-Pertanyaan yang kemudian muncul adalah: **kalau aturan dan disiplin tetap diperlukan, bagaimana memastikan keduanya membantu pendidikan tanpa menggantikan proses tumbuhnya tanggung jawab dari dalam?**
+Dengan demikian, kemandirian bukan berarti pendidik semakin tidak dibutuhkan. Keberhasilan pendidikan justru terlihat ketika **bantuan yang diberikan hari ini membuat bantuan yang sama semakin tidak diperlukan di kemudian hari**.
 
-### Catatan kaki
+Pertanyaan berikutnya: **setelah memahami hakikat, tujuan, perkembangan, relasi, lingkungan, pengalaman, dan kemandirian, bagaimana seluruh prinsip Education ini diterjemahkan ke dalam TUMBUH sebagai sebuah sistem?**
+
+## Catatan kaki
 
 [^1]: Ryan, R. M., & Deci, E. L. (2000). “Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being.” *American Psychologist*, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
-[^2]: Center for Self-Determination Theory. “Education.” Ringkasan penerapan Self-Determination Theory dalam pendidikan, termasuk dukungan terhadap autonomy, competence, dan relatedness. https://selfdeterminationtheory.org/topics/application-education/
-[^3]: Al-Ghazali, *Ihya' 'Ulum al-Din*. Untuk kajian tentang adab pendidik dan peserta didik serta relevansinya dengan pendidikan kontemporer, lihat juga Fahrurozi (2021), “Relevansi akhlak interaksi guru dan murid menurut Al Ghazali dalam kitab ‘Ihya’ Al-ulum Ad-din’ dengan konsep pendidikan zaman modern,” Walisongo Repository. https://eprints.walisongo.ac.id/id/eprint/13709/
+[^2]: Al-Ghazali, *Ihya' 'Ulum al-Din*. Untuk kajian tentang adab pendidik dan peserta didik serta relevansinya dengan pendidikan kontemporer, lihat Fahrurozi (2021), “Relevansi akhlak interaksi guru dan murid menurut Al Ghazali dalam kitab ‘Ihya’ Al-ulum Ad-din’ dengan konsep pendidikan zaman modern,” Walisongo Repository. https://eprints.walisongo.ac.id/id/eprint/13709/
+
+## Rujukan
+
+- Ryan, R. M., & Deci, E. L. (2000). “Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being.” *American Psychologist*, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
+- Al-Ghazali. *Ihya' 'Ulum al-Din*.
+- Fahrurozi. (2021). “Relevansi akhlak interaksi guru dan murid menurut Al Ghazali dalam kitab ‘Ihya’ Al-ulum Ad-din’ dengan konsep pendidikan zaman modern.” Walisongo Repository. https://eprints.walisongo.ac.id/id/eprint/13709/
