@@ -1,41 +1,81 @@
 # P2-01 — Core Principles TUMBUH
 
-Core Principles adalah prinsip normatif tingkat sistem yang mengikat cara TUMBUH dirancang dan dijalankan.
+Core Principles adalah prinsip yang menjadi pagar ketika TUMBUH diterjemahkan menjadi model, asesmen, intervensi, implementasi, dan program.
 
-Prinsip ini bukan rubric, instrumen, SOP, metode tertentu, atau bukti bahwa sebuah pendekatan pasti efektif.
+Prinsip ini ditarik dari pembahasan Foundation. Ia bukan metode tertentu dan bukan daftar langkah kerja. Karena itu, sebuah metode boleh berubah ketika konteks dan bukti berubah, tetapi perubahan tersebut tidak boleh membuat TUMBUH kehilangan prinsip dasarnya.
 
-## 1. Pertumbuhan adalah urusan ekosistem
+## 1. Pendidikan harus menjaga arah dan tujuan manusia
 
-Pertumbuhan santri tidak berdiri sendiri. Pendidik, pengasuh, keluarga, teman sebaya, dan lembaga ikut membentuk lingkungan pertumbuhan.
+TUMBUH tidak melihat pendidikan sebagai sekadar kegiatan membuat orang tahu atau patuh. Pendidikan harus membantu manusia berkembang menuju kehidupan yang bernilai, mampu bertindak, dan mampu memikul tanggung jawab.
 
-## 2. Martabat manusia harus dijaga
+Arah pendidikan berasal dari fondasi TUMBUH. Model dan program menerjemahkan arah tersebut; keduanya tidak boleh menggantikan atau mengaburkannya.
 
-Manusia tidak boleh diperlakukan sebagai objek yang boleh dipermalukan demi mencapai target. Koreksi, asesmen, dan intervensi tetap harus menjaga martabat.
+## 2. Manusia harus diperlakukan sebagai manusia
 
-## 3. Keteladanan adalah bagian dari pendidikan
+Santri, pendidik, dan siapa pun yang berada dalam sistem TUMBUH memiliki martabat. Mereka bukan sekadar objek yang harus dibuat sesuai target.
 
-Nilai yang diajarkan perlu terlihat dalam perilaku orang dewasa dan pemimpin. Sistem tidak dapat meminta santri melakukan sesuatu yang terus-menerus dilanggar oleh lingkungannya sendiri.
+Karena itu, koreksi, asesmen, intervensi, aturan, dan keputusan tidak boleh menggunakan penghinaan atau kekerasan sebagai cara untuk mencapai hasil.
 
-## 4. Disiplin bertujuan memperbaiki
+## 3. Pertumbuhan adalah proses yang membutuhkan dukungan
 
-Disiplin dibutuhkan untuk menjaga batas dan tanggung jawab. Namun koreksi diarahkan pada pemahaman, perbaikan, pemulihan, dan kemampuan mengambil tanggung jawab, bukan penghinaan atau kekerasan.
+Pertumbuhan manusia tidak terjadi dalam satu langkah dan tidak selalu berjalan lurus. Kesiapan, pengalaman, kebiasaan, kemampuan, relasi, dan lingkungan ikut memengaruhinya.
 
-## 5. Keputusan harus jernih terhadap informasi
+Karena itu, TUMBUH perlu memberi tuntutan yang jelas sekaligus dukungan yang sesuai. Dukungan bukan untuk membuat seseorang terus bergantung, tetapi untuk membantunya semakin mampu mengelola dirinya.
 
-TUMBUH perlu membedakan **fakta, interpretasi, dan dugaan**. Informasi yang belum cukup tidak boleh diperlakukan seolah-olah sudah menjadi fakta.
+## 4. Kemandirian adalah arah, bukan pengabaian
 
-## 6. Pertumbuhan membutuhkan proses
+Tujuan pendampingan bukan membuat manusia selalu membutuhkan pendamping. Bantuan perlu berubah mengikuti perkembangan: dibantu, didampingi, diberi kesempatan, diberi tanggung jawab, lalu semakin mampu mengelola diri.
 
-Perubahan perlu mempertimbangkan tahap, kesiapan, latihan, dukungan, dan kesinambungan. Tuntutan yang baik tetap perlu disesuaikan dengan kondisi manusia yang menjalaninya.
+Kepatuhan dapat menjadi bagian dari proses pendidikan, tetapi kepatuhan sesaat bukan ukuran akhir keberhasilan pendidikan.
 
-## 7. Sistem harus belajar dari kenyataan
+## 5. Pendidik dan pemimpin ikut membentuk apa yang dipelajari
 
-Prinsip memberi arah, sedangkan evidence membantu kita mengetahui apakah cara yang dipilih bekerja. Karena itu TUMBUH harus terbuka terhadap evaluasi dan perbaikan.
+Nilai tidak hanya disampaikan melalui kata-kata. Santri juga belajar dari cara orang dewasa berbicara, mengambil keputusan, memperlakukan orang lain, menghadapi kesalahan, dan menggunakan kewenangan.
 
-## 8. Tujuan pendidikan lebih besar daripada kepatuhan sesaat
+Karena itu, keteladanan bukan tambahan di luar sistem pendidikan. Ia merupakan bagian dari cara sistem bekerja.
 
-Kepatuhan dapat menjadi bagian dari pendidikan, tetapi tujuan akhirnya bukan membuat manusia selalu bergantung pada kontrol. TUMBUH diarahkan pada kemampuan memahami, memilih, bertindak, dan bertanggung jawab.
+## 6. Kewenangan adalah amanah
 
-## Batas
+Kewenangan memberi seseorang hak untuk bertindak dalam batas tertentu, tetapi sekaligus membawa kewajiban untuk mempertanggungjawabkan tindakannya.
 
-Rincian indikator, instrumen, tier dukungan, staffing, program, metode, dan SOP ditetapkan pada layer masing-masing.
+Pemimpin tidak menggunakan kewenangan untuk menguasai manusia. Kewenangan digunakan untuk menjaga arah, melindungi manusia, menegakkan keadilan, dan membantu orang lain berkembang.
+
+## 7. Keputusan harus menghormati kenyataan dan batas pengetahuan
+
+TUMBUH perlu membedakan apa yang diketahui, apa yang ditafsirkan, dan apa yang masih diduga. Informasi yang belum cukup tidak boleh diperlakukan seolah-olah sudah pasti.
+
+Semakin besar konsekuensi sebuah keputusan, semakin serius kebutuhan untuk memeriksa informasi dan bukti yang mendasarinya.
+
+## 8. Sistem harus belajar dari kenyataan
+
+Prinsip memberi arah, sedangkan pengalaman dan bukti membantu kita mengetahui apakah cara yang dipilih bekerja.
+
+Karena itu TUMBUH harus terbuka terhadap evaluasi, koreksi, dan pembelajaran. Kegagalan tidak otomatis berarti manusia gagal; ia dapat menjadi informasi untuk memperbaiki desain, dukungan, atau cara kerja sistem.
+
+## 9. Perubahan harus memiliki arah tetapi tetap memberi ruang untuk belajar
+
+TUMBUH tidak menganggap semua perubahan sebagai kemajuan. Perubahan perlu dinilai berdasarkan arah dan tujuan yang hendak dicapai.
+
+Pada saat yang sama, sistem tidak boleh menganggap cara yang digunakan hari ini pasti harus dipertahankan selamanya. Nilai dan arah perlu dijaga, sedangkan cara kerja dapat diperbaiki ketika kenyataan dan bukti menunjukkan perlunya perubahan.
+
+## 10. Manusia dan lingkungan harus dilihat bersama
+
+Perilaku seseorang tidak dapat selalu dipahami hanya dari dirinya sendiri. Aturan, budaya, relasi, beban kerja, sumber daya, dan lingkungan dapat memudahkan atau menghambat perubahan.
+
+Karena itu TUMBUH tidak dirancang hanya untuk “mengubah orang”. Sistem juga perlu memeriksa kondisi yang membuat pertumbuhan mungkin terjadi dan bertahan.
+
+## Cara membaca prinsip ini
+
+Sepuluh prinsip di atas bukan sepuluh program yang harus dibuat. Prinsip ini adalah pertanyaan yang perlu dibawa ketika bagian lain dari TUMBUH dirancang:
+
+- Apakah desain ini masih sesuai dengan tujuan pendidikan?
+- Apakah martabat manusia tetap terjaga?
+- Apakah dukungan membantu orang semakin mandiri?
+- Apakah pendidik dan pemimpin memberi contoh yang sesuai?
+- Apakah kewenangan digunakan secara bertanggung jawab?
+- Apakah keputusan didukung informasi yang memadai?
+- Apakah sistem mau belajar ketika kenyataan tidak sesuai harapan?
+- Apakah perubahan memiliki arah dan tetap terbuka terhadap perbaikan?
+- Apakah kita melihat manusia sekaligus lingkungan yang membentuk perilakunya?
+
+Pertanyaan-pertanyaan ini menjadi pagar bagi layer berikutnya. Rincian profil lulusan, kapasitas, progression, evidence, instrumen, intervensi, staffing, program, metode, dan SOP tidak ditetapkan di sini. Rincian tersebut harus dikembangkan pada layer masing-masing tanpa bertentangan dengan prinsip ini.
