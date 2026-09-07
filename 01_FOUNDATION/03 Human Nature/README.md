@@ -14,11 +14,12 @@ Pandangan ini penting karena cara kita memahami manusia akan memengaruhi cara ki
 Human Nature tidak dibuat dengan jumlah file yang harus sama dengan subdomain Foundation lainnya. Pembagiannya mengikuti pertanyaan yang memang perlu dijawab.
 
 1. **Manusia sebagai Makhluk** — kedudukan manusia sebagai ciptaan Allah.
-2. **Akal, Hati, Kehendak, dan Agency** — kemampuan manusia memahami, memilih, dan bertindak.
-3. **Manusia dalam Relasi** — manusia sebagai pribadi yang hidup dan berkembang dalam hubungan.
-4. **Potensi, Keterbatasan, dan Perbedaan Individu** — kemampuan untuk berkembang sekaligus kenyataan bahwa manusia berbeda.
-5. **Kesalahan, Perubahan, dan Kemungkinan Bertumbuh** — bagaimana kesalahan dan perubahan dipahami dalam proses pembinaan.
-6. **Implikasi Human Nature bagi TUMBUH** — konsekuensi pandangan tentang manusia bagi desain sistem.
+2. **Dimensi dan Struktur Manusia** — berbagai sisi manusia dan hubungan di antara akal, kehidupan batin, kehendak, tubuh, perilaku, dan relasi.
+3. **Akal, Hati, Kehendak, dan Agency** — kemampuan manusia memahami, memilih, dan bertindak.
+4. **Manusia dalam Relasi** — manusia sebagai pribadi yang hidup dan berkembang dalam hubungan.
+5. **Potensi, Keterbatasan, dan Perbedaan Individu** — kemampuan untuk berkembang sekaligus kenyataan bahwa manusia berbeda.
+6. **Kesalahan, Perubahan, dan Kemungkinan Bertumbuh** — bagaimana kesalahan dan perubahan dipahami dalam proses pembinaan.
+7. **Implikasi Human Nature bagi TUMBUH** — konsekuensi pandangan tentang manusia bagi desain sistem.
 
 ## Batas Pembahasan
 
