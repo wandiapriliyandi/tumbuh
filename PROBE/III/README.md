@@ -1,6 +1,6 @@
 # PROBE III — Capacity Ontology & Architecture Audit
 
-Folder ini mendokumentasikan rangkaian **Probe (P00–P30)** yang menguji ontology, boundary, architecture, parsimony, coverage, dan kandidat **Core Capacity** dalam TUMBUH.
+Folder ini mendokumentasikan rangkaian **Probe** yang menguji ontology, boundary, architecture, parsimony, coverage, dan kandidat **Core Capacity** dalam TUMBUH.
 
 > **P = Probe.** Probe adalah unit penyelidikan/stress-test terhadap asumsi arsitektur. P bukan tahap perkembangan, teori, framework, atau versi model.
 
@@ -41,17 +41,30 @@ Rangkaian ini merupakan research/design inquiry. Hasil Probe tidak otomatis menj
 ### Candidate expansion
 - P26 — Agency Identity & Non-Equivalence Test
 - P27 — Adaptability Identity & Non-Equivalence Test
-- P28 — Problem Solving Identity & Non-Equivalence Test
+- P28 — Problem Solving Identity & Non-Equivalence Test — legacy/earlier probe artifact
 - P29 — Decision Making Identity & Non-Equivalence Test
 - P30 — Resilience Identity & Non-Equivalence Test
+- P31 — Critical Thinking Identity & Redundancy Test
+- P32 — Empathy Identity & Non-Equivalence Test
+- P33 — Problem Solving Identity & Redundancy Test
 
-## Archived / superseded numbering
+## Numbering clarification
 
-`ARCHIVE/` menyimpan artefak lama yang tetap bernilai sebagai jejak intelektual tetapi tidak lagi menjadi nomor kanonik.
+Nomor file menggunakan format kanonik **empat digit** (`P0031`, `P0032`, `P0033`, dst.). Judul di dalam dokumen menggunakan nomor konseptual `P31`, `P32`, `P33`.
 
-Contoh penting: **Cognitive Function Decomposition Test** pernah memakai nomor P30 pada versi sebelumnya. Finding tersebut dipertahankan di `ARCHIVE/` dan tidak dihapus secara substantif.
+P31 sebelumnya menunjuk ke Problem Solving sebagai Next Probe. Dalam perkembangan aktual repository, **P0032 digunakan untuk Empathy**. Karena itu P31 telah diperbaiki agar mencatat urutan aktual:
 
-## Current candidate state after P30
+```text
+P31 Critical Thinking
+        ↓
+P32 Empathy
+        ↓
+P33 Problem Solving
+```
+
+Problem Solving pada P28 merupakan artefak/hasil probe sebelumnya. P0033 adalah probe lanjutan yang secara eksplisit menguji kembali identitas dan redundancy Problem Solving setelah P31–P32, sehingga tidak menghapus jejak intelektual P28.
+
+## Current candidate state after P33
 
 ```text
 CORE CAPACITY — PROVISIONAL / CANDIDATE
@@ -64,9 +77,13 @@ CORE CAPACITY — PROVISIONAL / CANDIDATE
 ├── Social Understanding  [provisional]
 ├── Agency                [strong candidate]
 ├── Adaptability          [strong candidate / unresolved]
-├── Problem Solving       [strong candidate]
+├── Problem Solving       [under renewed probe in P33]
 ├── Decision Making       [hold / conditional]
 └── Resilience            [hold / conditional]
+
+OTHER MEANINGFUL TERRITORIES
+├── Empathy               [hold / likely relational subfunction/pattern]
+└── Cognitive functions   [subfunctions/resources; archived prior P30]
 ```
 
 Daftar di atas **belum merupakan final Capacity Taxonomy**. P23 dan P24 harus dibaca bersama: minimality dan coverage harus diuji pada level set, bukan hanya pada item individual.
