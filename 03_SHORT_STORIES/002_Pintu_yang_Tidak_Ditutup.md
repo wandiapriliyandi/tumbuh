@@ -1,309 +1,385 @@
 # Pintu yang Tidak Ditutup
 
-Hujan turun sejak selepas asar, mula-mula seperti seseorang mengetuk atap dengan ujung jari, lalu berubah menjadi bunyi yang rapat dan tak memberi celah. Dari serambi asrama, halaman pesantren tampak seperti lembaran kaca yang terus digores air. Pohon mangga di dekat lapangan menunduk, seolah-olah ikut lelah.
+Hujan turun sejak selepas asar. Dari serambi asrama, halaman pesantren tampak seperti kaca yang terus digores air.
 
 Di ujung koridor, pintu kamar nomor tujuh terbuka setengah.
 
-Fahmi melihatnya ketika berjalan pulang dari masjid. Ia berhenti.
+Fahmi berhenti.
 
-Pintu itu seharusnya tertutup.
+Kamar itu milik Ilham, santri yang tiga hari terakhir lebih sering diam sejak ketahuan menyalin pekerjaan rumah Arif.
 
-Bukan karena ada aturan khusus tentang pintu, melainkan karena kamar nomor tujuh punya penghuni yang sedang tidak ingin bertemu siapa pun.
+Fahmi mengetuk.
 
-Namanya Ilham.
+"Ham?"
 
-Tiga hari sebelumnya, Ilham ketahuan menyalin pekerjaan rumah milik Arif. Ustaz sudah memanggilnya. Ia mengakui perbuatannya. Tetapi sejak itu ia lebih banyak diam. Ketika teman-temannya bercanda, ia tidak ikut tertawa. Ketika makan, ia memilih duduk di ujung meja. Bahkan pada malam hari, lampu mejanya sering masih menyala ketika kamar lain sudah gelap.
+Tidak ada jawaban.
 
-Fahmi berdiri beberapa saat di depan pintu.
+Ia mendorong pintu sedikit.
 
-Dari dalam terdengar suara kertas diremas.
+Ilham duduk di lantai. Buku latihan terbuka di depannya. Beberapa halaman penuh coretan. Wajahnya kusut.
 
-Ia mengetuk.
+"Pergi," katanya.
 
-Tak ada jawaban.
+Fahmi duduk di ambang pintu.
 
-“Ham?”
+"Kalau aku pergi, pintunya ditutup?"
 
-Diam.
+Ilham menatapnya.
 
-Fahmi mendorong pintu sedikit.
+"Tutup saja."
 
-Ilham duduk di lantai, bersandar pada ranjang. Di depannya ada buku latihan yang halaman-halamannya penuh coretan. Wajahnya kusut seperti kertas yang baru saja diremas.
+"Nanti."
 
-“Kenapa?” tanya Fahmi.
+Mereka diam cukup lama.
 
-“Pergi.”
+Akhirnya Ilham berkata, "Aku takut."
 
-Fahmi mengangguk, tetapi tidak langsung pergi.
+Fahmi menoleh.
 
-“Kalau aku pergi, pintunya ditutup?”
+"Takut apa?"
 
-Ilham menatapnya. “Tutup saja.”
+"Takut ternyata aku memang tidak bisa."
 
-Fahmi justru duduk di ambang pintu.
+Barulah Fahmi mengerti. Menyontek bukan sekadar masalah kejujuran. Ada kesulitan belajar yang selama ini disembunyikan, rasa takut terlihat lemah, dan kebiasaan mengejar nilai untuk menutup semuanya.
 
-Hujan mengisi koridor dengan suara panjang.
+"Kamu enggak harus beres malam ini," kata Fahmi.
 
-“Aku enggak minta maaf,” kata Ilham tiba-tiba.
+"Terus?"
 
-“Ya sudah.”
+"Kita cari dulu sebenarnya masalahnya di mana."
 
-“Aku serius.”
+***
 
-“Aku juga serius.”
+Besok malam, Pak Hamdan, musyrif mereka, tidak langsung memberi hukuman.
 
-Ilham mengernyit. “Kamu enggak marah?”
+Ia mengajak Ilham duduk.
 
-“Kenapa aku harus marah?”
+"Saya sudah dengar soal tugasmu," katanya. "Tapi saya ingin tahu lebih banyak daripada sekadar kamu salah."
 
-“Karena aku nyontek.”
+Ilham menunduk.
 
-Fahmi mengangkat bahu. “Yang rugi kamu.”
+Mereka membicarakan beberapa minggu terakhir. Pelajaran mana yang sulit. Kapan Ilham mulai tertinggal. Apa yang biasanya ia lakukan ketika tidak mengerti. Bagaimana ia belajar. Siapa yang biasa membantunya.
 
-Ilham tertawa pendek. Untuk pertama kalinya dalam tiga hari.
+Pak Hamdan tidak langsung menyimpulkan.
 
-“Enak ngomong.”
+Ia juga berbicara dengan guru mata pelajaran dan meminta melihat beberapa pekerjaan Ilham yang lama. Ternyata masalahnya bukan semua pelajaran. Kesulitan paling besar muncul pada materi tertentu yang menjadi dasar pelajaran berikutnya. Karena dasar itu belum kuat, Ilham semakin tertinggal. Ketika tugas menumpuk, ia panik. Ketika panik, ia mencari jawaban teman.
 
-“Memang. Kalau enggak enak, namanya bukan ngomong.”
+Pak Hamdan menulis di sebuah kertas.
 
-Ilham kembali melihat bukunya.
+**Keadaan sekarang:** belum menguasai beberapa kemampuan dasar pada materi tertentu.
 
-Beberapa saat mereka diam.
+**Kebiasaan yang menghambat:** menyembunyikan ketidakpahaman dan menunda bertanya.
 
-“Aku takut,” kata Ilham.
+**Kekuatan:** mau belajar ketika merasa aman untuk salah.
 
-Fahmi tidak menjawab.
+Ilham membaca kertas itu.
 
-“Aku takut ternyata aku memang bodoh.”
+"Jadi saya bukan bodoh?"
 
-Kalimat itu jatuh begitu saja. Lebih berat daripada suara hujan.
+Pak Hamdan menggeleng.
 
-Fahmi memandang temannya. Selama ini ia mengira Ilham marah karena ketahuan menyontek. Ternyata ada sesuatu yang lebih tua daripada kesalahan itu: ketakutan untuk mengetahui bahwa dirinya mungkin tidak sehebat yang ia ingin orang lain percaya.
+"Saya tidak sedang memberi label kamu pintar atau bodoh. Kita sedang mencari keadaanmu yang sebenarnya supaya tahu bantuan apa yang masuk akal."
 
-“Aku sering enggak ngerti pelajaran,” lanjut Ilham. “Tapi kalau aku tanya, takut dibilang bodoh. Jadi aku lihat punya Arif. Awalnya cuma satu nomor. Lama-lama...”
+Ilham terdiam.
 
-“Lama-lama jadi semua.”
+Kalimat itu sederhana, tetapi mengubah cara ia memandang penilaian.
 
-Ilham mengangguk.
+Selama ini ia mengira penilaian adalah keputusan tentang siapa dirinya.
 
-“Aku pikir kalau nilainya bagus, orang enggak akan tahu.”
+Malam itu ia melihatnya sebagai informasi tentang apa yang perlu dilakukan berikutnya.
 
-Fahmi menatap halaman buku yang penuh coretan.
+***
 
-“Sekarang kamu tahu.”
+Mereka membuat rencana kecil.
 
-“Apa?”
+Bukan mengejar seluruh ketertinggalan sekaligus.
 
-“Nilai bagus enggak selalu berarti kamu ngerti.”
+Setiap tiga hari, Ilham memilih satu kemampuan yang harus benar-benar ia pahami. Ia belajar bersama Fahmi selama waktu yang disepakati. Jika masih buntu, ia bertanya kepada guru.
 
-Ilham tersenyum pahit.
+Pak Hamdan hanya meminta satu hal tambahan: Ilham harus berani menunjukkan bagian yang belum ia kuasai.
 
-“Dan nilai jelek enggak selalu berarti kamu enggak bisa.”
+"Jangan datang kepada saya dengan kalimat, 'Saya enggak bisa matematika.'"
 
-Kali ini Ilham tidak tersenyum.
+"Terus?"
 
-Fahmi teringat sesuatu yang pernah dikatakan musyrif mereka, Pak Hamdan: seseorang tidak selalu membutuhkan jawaban ketika sedang jatuh. Kadang ia membutuhkan tempat yang tidak buru-buru menyuruhnya berdiri.
+"Datang dengan kalimat, 'Saya tidak paham bagian ini.'"
 
-“Aku bisa bantu belajar,” kata Fahmi.
+"Bedanya?"
 
-Ilham menoleh.
+"Kalimat pertama menutup pintu. Kalimat kedua menunjukkan pintunya di mana."
 
-“Beneran?”
+Ilham tersenyum.
 
-“Beneran.”
+***
 
-“Tapi kamu juga enggak pintar-pintar amat.”
+Minggu pertama tidak berjalan mulus.
 
-Fahmi mengangguk. “Nah, berarti kita cocok.”
+Ia masih terlambat belajar dua kali.
 
-Mereka tertawa.
+Ia masih pernah melihat jawaban Arif sebelum akhirnya menutup buku.
 
-Malam itu mereka belajar sampai azan isya terdengar. Tidak banyak yang selesai. Dua soal matematika tetap tidak terpecahkan. Satu halaman penuh coretan malah semakin berantakan.
+Satu latihan mendapat nilai sangat rendah.
 
-Tetapi untuk pertama kalinya setelah tiga hari, Ilham bertanya tanpa menyembunyikan wajahnya.
+Ilham membawa kertas itu kepada Pak Hamdan.
 
-“Yang ini kenapa hasilnya begini?”
+"Gagal lagi."
 
-Fahmi menjelaskan.
+Pak Hamdan melihat kertasnya.
 
-Ilham mencoba.
+"Bagian mana yang sudah kamu kuasai?"
 
-Salah.
+Ilham menunjuk tiga nomor.
 
-Mencoba lagi.
+"Ini."
 
-Salah lagi.
+"Bagian mana yang belum?"
 
-“Gue enggak bisa,” katanya.
+Ia menunjuk sisanya.
 
-“Belum bisa.”
+"Nah. Sekarang kita punya peta."
 
-“Apa bedanya?”
+"Peta apaan?"
 
-“Kalau enggak bisa, pintunya ditutup. Kalau belum bisa, masih ada jalan.”
-
-Ilham menatapnya cukup lama.
-
-“Fahmi.”
-
-“Hm?”
-
-“Kalau aku gagal lagi?”
-
-“Ya gagal lagi.”
-
-“Jawabanmu nyebelin.”
-
-“Karena kamu minta jawaban, bukan mukjizat.”
+"Peta masalahmu."
 
 Ilham tertawa.
 
-Hari-hari berikutnya berjalan biasa. Tidak ada perubahan besar yang bisa dipotret. Ilham masih beberapa kali mendapat nilai rendah. Ia masih sering keliru. Bahkan suatu pagi ia datang terlambat ke kelas karena tertidur.
+"Masalah saya ternyata luas juga."
 
-Namun ada satu hal yang berbeda.
+"Makanya jangan dikerjakan sekaligus."
 
-Ia mulai berhenti menyembunyikan kesulitan.
+Mereka memperbaiki rencana. Waktu belajar digeser karena Ilham selalu kehilangan konsentrasi pada jam tertentu. Materi dasar diulang sebelum masuk materi berikutnya. Fahmi tidak lagi sekadar memberikan jawaban; ia diminta mengajukan pertanyaan agar Ilham menemukan cara berpikirnya sendiri.
 
-Ketika tidak mengerti, ia bertanya.
+Perlahan, cara belajar berubah.
 
-Ketika salah, ia menghapus.
+***
 
-Ketika mendapat nilai buruk, ia tidak lagi meremas kertasnya.
+Perubahan itu juga mulai mengubah Fahmi.
 
-Dan ketika suatu sore Arif menegurnya karena ia masih ingin melihat jawabannya, Ilham menggeleng.
+Selama ini ia senang membantu karena merasa lebih pintar. Ketika Ilham lambat memahami, ia sering ingin segera mengambil pensil dan mengerjakan soal untuknya.
 
-“Enggak usah.”
+Pak Hamdan menegur.
 
-Arif menatapnya curiga.
+"Kalau setiap kali dia kesulitan kamu mengambil alih, siapa yang sebenarnya sedang belajar?"
 
-“Yakin?”
+Fahmi diam.
 
-“Yakin.”
+Sejak itu ia belajar menahan diri.
 
-“Padahal ini susah.”
+Ia mulai memahami bahwa mendampingi bukan berarti mengerjakan perjalanan orang lain.
 
-Ilham mengangguk. “Makanya.”
+Kadang bantuan terbaik adalah pertanyaan yang tepat, waktu yang cukup, dan keberanian untuk membiarkan seseorang mencoba lalu salah.
 
-Malam itu Fahmi melihat Ilham duduk sendirian di meja belajar. Lampu kecil menerangi wajahnya. Di samping buku ada selembar kertas bertuliskan:
+Fahmi sendiri akhirnya meminta Pak Hamdan mengevaluasi caranya mendampingi.
 
-**Yang belum saya kuasai.**
+"Saya masih sering terlalu cepat memberi jawaban, Pak."
 
-Di bawahnya terdapat lima poin.
+"Bagus kamu tahu."
 
-Tidak ada satu pun yang ia coret.
+"Terus saya harus bagaimana?"
+
+"Coba besok lebih banyak mendengar."
+
+Fahmi mengangguk.
+
+Ia baru sadar bahwa dalam proses pertumbuhan, pendamping juga tidak berdiri di luar proses. Ia pun perlu belajar.
+
+***
+
+Beberapa minggu kemudian, guru mata pelajaran mereka mengadakan latihan yang sama jenisnya dengan latihan pertama Ilham.
+
+Nilainya belum tinggi.
+
+Tetapi ia menyelesaikan sendiri.
+
+Ketika kertas dikembalikan, Ilham melihat angkanya, lalu membalik kertas itu.
+
+Fahmi tertawa.
+
+"Enggak mau lihat?"
+
+"Mau. Tapi saya lebih penasaran kenapa saya bisa mengerjakan yang ini."
+
+Di belakang kertas, ia menulis satu kalimat.
+
+*Saya masih belum menguasai semuanya, tetapi saya tahu bagian yang harus saya latih.*
+
+***
+
+Pada saat yang hampir bersamaan, Pak Hamdan membawa catatan perkembangan anak-anak di kamarnya ke rapat pengasuhan.
+
+Ia menunjukkan satu masalah yang selama ini dianggap sebagai masalah kedisiplinan.
+
+Banyak santri terlambat masuk kegiatan malam.
+
+Awalnya mereka hanya ingin menambah hukuman.
+
+Namun setelah melihat catatan beberapa pekan, pola lain muncul. Jadwal perpindahan dari kelas ke asrama terlalu sempit pada hari tertentu. Sebagian santri harus berganti pakaian dan mengambil perlengkapan dalam waktu yang tidak realistis. Beberapa keterlambatan memang berasal dari kebiasaan anak, tetapi sebagian dipengaruhi oleh pengaturan kegiatan.
+
+Rapat itu berubah arah.
+
+Bukan hanya bertanya, "Siapa yang terlambat?"
+
+Mereka mulai bertanya, "Apa yang membuat keterlambatan itu terjadi?"
+
+Sebagian aturan diperjelas. Alur perpindahan diperbaiki. Musyrif sepakat mencatat keterlambatan dengan cara yang lebih konsisten. Setelah beberapa minggu, mereka memeriksa kembali apakah perubahan itu benar-benar membantu.
+
+Tidak semua masalah selesai.
+
+Tetapi lembaga mulai belajar dari apa yang terjadi di lapangan.
+
+Pak Hamdan pulang dari rapat dengan perasaan aneh.
+
+Ia sadar bahwa selama ini ia terlalu mudah menyalahkan individu untuk masalah yang kadang juga dibentuk oleh sistem.
+
+***
+
+Suatu malam, Ilham duduk bersama Fahmi di depan kamar nomor tujuh.
+
+"Kamu tahu enggak," kata Ilham, "dulu saya kira yang harus berubah cuma saya."
+
+Fahmi menatapnya.
+
+"Sekarang?"
+
+"Ternyata guru juga bisa belajar. Cara belajar bisa diperbaiki. Aturan bisa diperbaiki. Bahkan cara lembaga melihat anak juga bisa diperbaiki."
 
 Fahmi tersenyum.
 
-“Banyak amat.”
+"Berarti semua orang tumbuh?"
 
-Ilham menoleh. “Biar tahu harus mulai dari mana.”
+"Kayaknya begitu."
 
-“Dulu kamu enggak suka lihat yang enggak bisa.”
+Mereka tertawa kecil.
 
-“Sekarang aku justru mau lihat.”
+Dari masjid terdengar azan.
 
-“Kenapa?”
+***
 
-Ilham memutar pensil di tangannya.
+Beberapa bulan kemudian, seorang santri baru datang ke kamar mereka. Namanya Salman. Ia sering diam di kelas dan tidak pernah bertanya meskipun beberapa kali terlihat kebingungan.
 
-“Karena kalau aku enggak tahu di mana kurangnya, aku enggak tahu ke mana harus tumbuh.”
+Suatu malam Salman meremas kertas latihan.
 
-Fahmi tidak menjawab.
+"Saya enggak bisa," katanya.
 
-Ia hanya menarik kursi dan duduk di sebelahnya.
+Ilham yang sedang menyusun bukunya berhenti.
 
-Di luar, malam turun perlahan. Suara langkah santri terdengar dari koridor. Ada yang menuju masjid, ada yang membawa ember, ada yang berlari karena takut terlambat apel malam.
+Kalimat itu terasa akrab.
 
-Tidak ada musik yang mengiringi perubahan Ilham.
+Ia duduk di sebelah Salman.
 
-Tidak ada pengumuman.
+"Bagian mana yang enggak bisa?"
 
-Tidak ada seseorang yang berdiri dan berkata bahwa seorang anak baru saja berubah menjadi lebih baik.
+Salman menunjukkan satu soal.
 
-Perubahan itu terlalu sederhana untuk dirayakan.
+Ilham membaca.
 
-Ia hanya berupa keberanian untuk mengatakan, “Saya belum tahu.”
+"Oke. Yang ini kita lihat dulu. Jangan bilang kamu bodoh."
 
-Kejujuran untuk berkata, “Saya salah.”
+"Kenapa?"
 
-Kesediaan untuk mencoba lagi setelah gagal.
+"Karena kita belum punya buktinya."
 
-Dan kerendahan hati untuk menerima bantuan tanpa merasa harga diri ikut runtuh bersamanya.
+Salman tertawa.
 
-Beberapa bulan kemudian, nilai Ilham mulai membaik. Tidak melonjak. Hanya naik sedikit demi sedikit. Tetapi ada sesuatu yang jauh lebih penting daripada angka di pojok kertas.
+Mereka mulai dari satu soal.
 
-Suatu hari, seorang santri baru duduk sendirian di depan kelas. Anak itu menatap buku pelajaran seperti sedang menatap pintu yang terkunci.
+Salah.
 
-Ilham menghampirinya.
+Coba lagi.
 
-“Belum ngerti?”
+Salah lagi.
 
-Anak itu menggeleng malu.
+Ilham tidak mengambil pensil Salman.
 
-“Takut ditanya?”
+Ia hanya bertanya.
 
-Ia mengangguk.
+"Menurutmu, langkah pertama apa?"
 
-Ilham duduk di sampingnya.
+Di luar kamar, Pak Hamdan lewat dan melihat mereka. Ia tidak masuk.
 
-“Enggak apa-apa.”
+Ia hanya tersenyum.
 
-Anak itu menatapnya.
+Dulu ia mengira tugasnya adalah membuat anak-anak patuh dan berhasil.
 
-“Kalau belum bisa, bilang belum bisa.”
+Sekarang ia mulai memahami tugas itu secara berbeda: menciptakan lingkungan yang memungkinkan anak mengetahui arahnya, memahami keadaannya, memperoleh dukungan yang sesuai, mencoba, gagal, memperbaiki, lalu berkembang menuju kemandirian.
 
-“Kalau nanti dimarahin?”
+Dan lingkungan itu tidak bisa dibangun oleh musyrif sendirian.
 
-Ilham tersenyum kecil.
+Guru perlu belajar.
 
-“Ya kita cari cara supaya besok lebih bisa.”
+Keluarga perlu dilibatkan ketika diperlukan.
 
-Hujan turun lagi sore itu.
+Program perlu disesuaikan.
 
-Ilham berjalan melewati koridor dan melihat pintu kamar nomor tujuh. Pintu itu terbuka.
+Kebijakan perlu diperiksa.
 
-Ia teringat malam ketika ia berharap semua orang pergi dan membiarkannya tenggelam sendirian dalam rasa malu.
+Data perlu dibaca dengan hati-hati.
 
-Ternyata yang ia perlukan bukan seseorang yang menyelesaikan masalahnya.
+Lembaga perlu bersedia mengubah dirinya sendiri ketika bukti menunjukkan bahwa caranya belum cukup membantu.
 
-Ia hanya membutuhkan seseorang yang tidak menutup pintu ketika dirinya belum sanggup keluar.
+Tidak ada satu orang yang menjadi pusat seluruh pertumbuhan.
 
-Fahmi muncul dari ujung koridor.
+Pertumbuhan terjadi dalam hubungan antara manusia dan lingkungan yang terus belajar.
 
-“Ham!”
+***
 
-Ilham menoleh.
+Malam semakin larut.
 
-“Ayo masjid.”
+Salman akhirnya menyelesaikan satu soal sendiri.
 
-“Sebentar.”
+Ia menatap jawabannya seperti seseorang yang baru menemukan celah cahaya di ruangan gelap.
 
-“Kenapa?”
+"Benar?"
 
-Ilham melihat ke dalam kamar. Buku-bukunya masih terbuka. Lima hal yang belum ia kuasai masih tertulis di sana. Besok mungkin menjadi empat. Atau tetap lima. Mungkin bertambah menjadi enam.
+Ilham memeriksa.
 
-Tidak apa-apa.
+"Benar."
 
-Ia mematikan lampu, lalu membiarkan pintunya terbuka.
+Salman tersenyum.
 
-Bukan karena ia sudah selesai.
+"Besok saya coba yang lain."
 
-Justru karena ia tahu dirinya belum selesai.
+Ilham mengangguk.
 
-Dan untuk pertama kalinya, ia tidak lagi menganggap itu sebagai sesuatu yang memalukan.
+Pintu kamar nomor tujuh masih terbuka.
 
-Sebab manusia tidak tumbuh dengan menjadi seseorang yang tidak pernah gagal.
+Bukan karena semua masalah sudah selesai.
 
-Manusia tumbuh ketika ia berani melihat kegagalannya, memahami dirinya, menerima bantuan, lalu mengambil satu langkah lagi—meskipun langkah itu kecil, meskipun belum ada yang melihat.
+Justru karena mereka sudah tahu bahwa tidak ada pertumbuhan yang selesai hanya karena satu keberhasilan.
 
-Di ujung koridor, Fahmi sudah menunggu.
+Masih ada kapasitas yang perlu berkembang. Masih ada keadaan yang perlu dipahami. Masih ada dukungan yang mungkin perlu diubah. Masih ada cara kerja lembaga yang harus terus diperiksa.
 
-Ilham menyusul.
+Fahmi berdiri.
 
-Mereka berjalan berdampingan menuju masjid.
+"Ayo masjid."
 
-Di belakang mereka, pintu kamar nomor tujuh tetap terbuka.
+Ilham dan Salman menyusul.
 
-Seperti sebuah pengakuan sederhana bahwa perjalanan itu belum selesai.
+Pak Hamdan menutup buku catatannya dan berjalan di belakang mereka.
 
-Dan mungkin memang tidak pernah selesai.
+Mereka bukan tiga orang yang sudah selesai tumbuh.
+
+Mereka adalah tiga manusia yang sedang berjalan dalam sistem yang juga belajar berjalan.
+
+Dan malam itu, untuk pertama kalinya, pintu kamar nomor tujuh tidak lagi tampak seperti pintu yang pernah menyembunyikan rasa malu.
+
+Ia tampak seperti pintu yang mengingatkan mereka pada satu hal sederhana:
+
+ketika seseorang belum sampai, tugas kita bukan sekadar bertanya mengapa ia belum sampai.
+
+Kita perlu melihat dari mana ia mulai, memahami apa yang menghambatnya, menyediakan dukungan yang sesuai, lalu memperbaiki lingkungan di sekelilingnya agar perjalanan itu mungkin dilanjutkan.
+
+Besok mereka akan melihat lagi.
+
+Mendengar lagi.
+
+Menilai lagi.
+
+Mencoba lagi.
+
+Dan jika cara yang dipakai ternyata belum membantu, mereka akan mengubah caranya lagi.
+
+Bukan karena sistem itu sudah sempurna.
+
+Tetapi karena sistem yang ingin menumbuhkan manusia harus bersedia untuk ikut tumbuh.
