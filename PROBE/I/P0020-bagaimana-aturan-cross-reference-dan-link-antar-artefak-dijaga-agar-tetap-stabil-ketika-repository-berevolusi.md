@@ -1,4 +1,4 @@
-# P020 — Bagaimana Aturan Cross-Reference dan Link Antar-Artefak Dijaga agar Tetap Stabil ketika Repository Berevolusi?
+# P0020 — Bagaimana Aturan Cross-Reference dan Link Antar-Artefak Dijaga agar Tetap Stabil ketika Repository Berevolusi?
 
 ## Tujuan
 
@@ -8,17 +8,17 @@ Menetapkan prinsip cross-reference dan link antar-artefak pada repository V2 aga
 
 ## 1. Titik Berangkat
 
-P013 menetapkan bahwa lineage harus didokumentasikan sebagai relation antar-identity.
+P0013 menetapkan bahwa lineage harus didokumentasikan sebagai relation antar-identity.
 
-P014 menetapkan bahwa index adalah navigation layer, bukan duplikasi isi.
+P0014 menetapkan bahwa index adalah navigation layer, bukan duplikasi isi.
 
-P016 menetapkan bahwa perubahan schema dan struktur harus menjaga traceability.
+P0016 menetapkan bahwa perubahan schema dan struktur harus menjaga traceability.
 
-P018 menetapkan bahwa identity, namespace, dan path adalah hal berbeda.
+P0018 menetapkan bahwa identity, namespace, dan path adalah hal berbeda.
 
-P019 menetapkan bahwa naming harus stabil dan predictable tanpa membebani filename dengan state yang sering berubah.
+P0019 menetapkan bahwa naming harus stabil dan predictable tanpa membebani filename dengan state yang sering berubah.
 
-Maka pertanyaan P020 adalah:
+Maka pertanyaan P0020 adalah:
 
 > **Bagaimana referensi antar-artefak dibuat agar tetap berguna ketika repository terus berevolusi?**
 
@@ -39,7 +39,7 @@ Navigation link
 Contoh:
 
 ```text
-P013 → P018
+P0013 → P0018
 ```
 
 menunjukkan relation.
@@ -47,7 +47,7 @@ menunjukkan relation.
 Sedangkan:
 
 ```text
-[lihat P018](...path...)
+[lihat P0018](...path...)
 ```
 
 adalah navigation link.
@@ -58,16 +58,16 @@ Keduanya dapat muncul bersama, tetapi memiliki fungsi berbeda.
 
 ## 3. Identity Harus Menjadi Anchor Cross-Reference
 
-Karena P008 menetapkan P-number sebagai identity stabil, referensi substantif sebaiknya mengacu pada:
+Karena P0008 menetapkan P-number sebagai identity stabil, referensi substantif sebaiknya mengacu pada:
 
 ```text
-P018
+P0018
 ```
 
 bukan hanya:
 
 ```text
-PROBE/I/P018.md
+PROBE/I/P0018.md
 ```
 
 Dengan demikian jika path berubah, identity relation tetap dapat dipertahankan.
@@ -84,10 +84,10 @@ Maka model yang lebih baik:
 
 ```text
 Relation
-→ P018
+→ P0018
 
 Navigation
-→ current path of P018
+→ current path of P0018
 ```
 
 Jika path berubah, navigation layer diperbarui tanpa mengubah relation identity.
@@ -99,15 +99,15 @@ Jika path berubah, navigation layer diperbarui tanpa mengubah relation identity.
 Model yang rapuh:
 
 ```text
-P013
+P0013
   ↓
-PROBE/I/P018.md
+PROBE/I/P0018.md
 ```
 
-Jika P018 pindah:
+Jika P0018 pindah:
 
 ```text
-PROBE/ARCHITECTURE/P018.md
+PROBE/ARCHITECTURE/P0018.md
 ```
 
 reference dapat rusak.
@@ -115,9 +115,9 @@ reference dapat rusak.
 Model yang lebih tahan perubahan:
 
 ```text
-P013
+P0013
   ↓
-relation → P018
+relation → P0018
   ↓
 locator → current path
 ```
@@ -131,25 +131,25 @@ Secara konseptual setidaknya ada:
 ### Identity reference
 
 ```text
-P018
+P0018
 ```
 
 ### Lineage relation
 
 ```text
-FOLLOW_UP → P018
+FOLLOW_UP → P0018
 ```
 
 ### Informational reference
 
 ```text
-Related to P018
+Related to P0018
 ```
 
 ### Navigation link
 
 ```text
-Open P018
+Open P0018
 ```
 
 ### External source reference
@@ -164,7 +164,7 @@ Tidak semua link memiliki bobot semantik yang sama.
 
 ## 7. Relation Type Harus Tetap Terbatas
 
-P013 sudah mengusulkan vocabulary:
+P0013 sudah mengusulkan vocabulary:
 
 ```text
 FOLLOW_UP
@@ -187,13 +187,13 @@ Dua dokumen dapat memiliki hyperlink satu sama lain tanpa berarti terdapat linea
 Contoh:
 
 ```text
-P018 menyebut P019 sebagai contoh.
+P0018 menyebut P0019 sebagai contoh.
 ```
 
 Itu belum tentu:
 
 ```text
-P018 → DERIVED_FROM → P019
+P0018 → DERIVED_FROM → P0019
 ```
 
 Relation substantif harus menyatakan makna hubungan secara eksplisit.
@@ -205,9 +205,9 @@ Relation substantif harus menyatakan makna hubungan secara eksplisit.
 Misalnya:
 
 ```text
-P020
+P0020
   │
-  └── FOLLOW_UP → P021
+  └── FOLLOW_UP → P0021
 ```
 
 arah memiliki makna.
@@ -215,7 +215,7 @@ arah memiliki makna.
 Jika hanya ditulis:
 
 ```text
-See also P021
+See also P0021
 ```
 
 maka itu lebih dekat ke informational reference daripada directional lineage.
@@ -229,7 +229,7 @@ Karena itu relation dan hyperlink tidak boleh disamakan.
 Model konseptual:
 
 ```text
-             P020
+             P0020
               │
        canonical identity
               │
@@ -237,7 +237,7 @@ Model konseptual:
        ↓             ↓
    relations      locator
        │             │
-    P021, P022    current/path
+    P0021, P0022    current/path
 ```
 
 Identity stabil.
@@ -256,10 +256,10 @@ Contoh:
 
 ```text
 Before:
-PROBE/I/P020.md
+PROBE/I/P0020.md
 
 After:
-PROBE/I/archive/P020.md
+PROBE/I/archive/P0020.md
 ```
 
 Yang berubah:
@@ -271,7 +271,7 @@ locator
 Yang tidak otomatis berubah:
 
 ```text
-P020
+P0020
 lineage
 identity
 ```
@@ -287,15 +287,15 @@ Relation identity tidak perlu dibuat ulang.
 Misalnya:
 
 ```text
-PROBE/I/P020.md
+PROBE/I/P0020.md
 ↓
-PROBE/ARCHITECTURE/P020.md
+PROBE/ARCHITECTURE/P0020.md
 ```
 
 Cross-reference tetap:
 
 ```text
-P020
+P0020
 ```
 
 Index dapat memperbarui current path.
@@ -309,7 +309,7 @@ Jika diperlukan, migration record menjelaskan perubahan namespace.
 Relative link:
 
 ```text
-../P020.md
+../P0020.md
 ```
 
 praktis untuk navigasi lokal.
@@ -319,7 +319,7 @@ Tetapi ia sensitif terhadap perubahan struktur folder.
 Identity reference:
 
 ```text
-P020
+P0020
 ```
 
 lebih stabil untuk hubungan semantik.
@@ -336,7 +336,7 @@ Contoh konseptual:
 
 ```text
 Relation: FOLLOW_UP
-Target: P020
+Target: P0020
 ```
 
 Bukan hanya kalimat bebas:
@@ -378,7 +378,7 @@ Ada dua jenis kegagalan:
 ### Navigation failure
 
 ```text
-P020
+P0020
 → old path
 → 404 / file tidak ditemukan
 ```
@@ -386,8 +386,8 @@ P020
 ### Identity/reference failure
 
 ```text
-Relation → P020
-→ P020 tidak ditemukan
+Relation → P0020
+→ P0020 tidak ditemukan
 ```
 
 Yang kedua lebih serius karena dapat mengganggu lineage.
@@ -407,7 +407,7 @@ index mapping
 migration note
 ```
 
-P020 belum menetapkan mekanisme teknis mana yang wajib digunakan.
+P0020 belum menetapkan mekanisme teknis mana yang wajib digunakan.
 
 Yang ditetapkan adalah kebutuhan menjaga discoverability ketika locator berubah.
 
@@ -421,7 +421,7 @@ Menghapus file lama tanpa menyediakan mapping dapat menghasilkan:
 old link → broken
 ```
 
-Jika artefak masih memiliki nilai historis atau lineage, prinsip P010 dan P016 mengarahkan agar history dipertahankan.
+Jika artefak masih memiliki nilai historis atau lineage, prinsip P0010 dan P0016 mengarahkan agar history dipertahankan.
 
 Archive atau migration mapping lebih sesuai daripada penghapusan tanpa jejak.
 
@@ -434,12 +434,12 @@ Probe yang sudah `ARCHIVED` tetap dapat menjadi target relation.
 Contoh:
 
 ```text
-P025
+P0025
   ↓
-DERIVED_FROM → P012
+DERIVED_FROM → P0012
 ```
 
-meskipun P012 telah diarsipkan.
+meskipun P0012 telah diarsipkan.
 
 Archive tidak memutus lineage.
 
@@ -447,15 +447,15 @@ Archive tidak memutus lineage.
 
 ## 20. Supersession
 
-Jika P021 secara eksplisit menggantikan P020:
+Jika P0021 secara eksplisit menggantikan P0020:
 
 ```text
-P021
+P0021
   ↓
-SUPERSEDES → P020
+SUPERSEDES → P0020
 ```
 
-P020 tidak boleh dihapus hanya karena sudah superseded.
+P0020 tidak boleh dihapus hanya karena sudah superseded.
 
 Hubungan tersebut justru menjadi bagian penting dari lineage.
 
@@ -468,7 +468,7 @@ Hubungan tersebut justru menjadi bagian penting dari lineage.
 Contoh:
 
 ```text
-RELATED_TO → P020
+RELATED_TO → P0020
 ```
 
 hanya menyatakan hubungan.
@@ -476,7 +476,7 @@ hanya menyatakan hubungan.
 Sedangkan:
 
 ```text
-DERIVED_FROM → P020
+DERIVED_FROM → P0020
 ```
 
 menyatakan bahwa inquiry baru berasal dari inquiry sebelumnya.
@@ -490,18 +490,18 @@ Menggunakan relation type yang tepat mencegah graph repository memberi makna yan
 Misalnya:
 
 ```text
-P020 → P021
+P0020 → P0021
 ```
 
 tidak berarti:
 
 ```text
-P021 lebih tinggi dari P020
+P0021 lebih tinggi dari P0020
 ```
 
 Relation hanya menjelaskan jenis hubungan.
 
-Ini konsisten dengan P003 dan P006 bahwa grouping dan numbering bukan hierarchy teoritis.
+Ini konsisten dengan P0003 dan P0006 bahwa grouping dan numbering bukan hierarchy teoritis.
 
 ---
 
@@ -515,14 +515,14 @@ Secara konseptual:
 
 ```text
 Internal
-→ P020
-→ P021
+→ P0020
+→ P0021
 
 External
 → source / evidence / external document
 ```
 
-P020 belum menetapkan format citation eksternal final.
+P0020 belum menetapkan format citation eksternal final.
 
 Yang penting internal identity tidak dicampurkan dengan external identifier.
 
@@ -533,22 +533,22 @@ Yang penting internal identity tidak dicampurkan dengan external identifier.
 Index dapat menampilkan:
 
 ```text
-P020
-Relations: P018, P021
-Current Path: PROBE/I/P020.md
+P0020
+Relations: P0018, P0021
+Current Path: PROBE/I/P0020.md
 ```
 
-Jika P020 dipindahkan:
+Jika P0020 dipindahkan:
 
 ```text
-Current Path: PROBE/ARCHITECTURE/P020.md
+Current Path: PROBE/ARCHITECTURE/P0020.md
 ```
 
 Index berubah.
 
 Identity dan relation tidak perlu berubah.
 
-Ini memperkuat P014–P015 bahwa index adalah derived navigation view.
+Ini memperkuat P0014–P0015 bahwa index adalah derived navigation view.
 
 ---
 
@@ -583,7 +583,7 @@ old identity → new identity
 
 dan dampaknya terhadap seluruh relation perlu diperiksa.
 
-Namun berdasarkan P008 dan P019, perubahan identity adalah **high-risk operation** dan bukan mekanisme normal evolusi repository.
+Namun berdasarkan P0008 dan P0019, perubahan identity adalah **high-risk operation** dan bukan mekanisme normal evolusi repository.
 
 ---
 
@@ -635,13 +635,13 @@ Perubahan path atau namespace harus mempertahankan kemampuan untuk menemukan kem
 
 ```text
                  SOURCE PROBE
-                     P020
+                     P0020
                       │
               ┌───────┴────────┐
               ↓                ↓
          RELATION          NAVIGATION
               │                │
-        FOLLOW_UP → P021     current path
+        FOLLOW_UP → P0021     current path
               │                │
               ↓                ↓
         semantic link       locator link
@@ -655,9 +655,9 @@ Model ini memisahkan hubungan intelektual dari alamat file.
 
 ---
 
-## 29. Batas P020
+## 29. Batas P0020
 
-P020 belum menetapkan:
+P0020 belum menetapkan:
 
 - format final front matter relation;
 - syntax canonical cross-reference;
@@ -666,7 +666,7 @@ P020 belum menetapkan:
 - standar citation eksternal final;
 - tooling link checker tertentu.
 
-P020 menetapkan prinsip bahwa **cross-reference harus berorientasi pada identity dan lineage, sedangkan navigation link berorientasi pada locator yang dapat berubah.**
+P0020 menetapkan prinsip bahwa **cross-reference harus berorientasi pada identity dan lineage, sedangkan navigation link berorientasi pada locator yang dapat berubah.**
 
 ---
 
@@ -674,7 +674,7 @@ P020 menetapkan prinsip bahwa **cross-reference harus berorientasi pada identity
 
 **PASS — CROSS-REFERENCE BERBASIS IDENTITY, NAVIGATION BERBASIS LOCATOR**
 
-Keputusan P020:
+Keputusan P0020:
 
 > **Repository V2 harus membedakan hubungan semantik antar-artefak dari link navigasi menuju lokasi file. P-number menjadi anchor canonical untuk relation dan lineage, sedangkan path menjadi locator yang dapat berubah. Relation type harus eksplisit dan terkendali; archive tidak memutus lineage; broken navigation link tidak otomatis berarti broken identity; dan migration harus menjaga kemampuan untuk menemukan kembali artefak serta hubungan historisnya.**
 
@@ -684,4 +684,4 @@ Dengan demikian, restrukturisasi repository tidak perlu memaksa seluruh hubungan
 
 ## Next Probe
 
-**P021 — Bagaimana Repository V2 Menentukan Source of Truth ketika Satu Informasi Muncul di Banyak Artefak?**
+**P0021 — Bagaimana Repository V2 Menentukan Source of Truth ketika Satu Informasi Muncul di Banyak Artefak?**
