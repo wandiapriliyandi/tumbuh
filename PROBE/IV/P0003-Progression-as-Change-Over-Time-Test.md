@@ -1,98 +1,375 @@
 # P0003 — Progression as Change Over Time Test
 
-## Tujuan
+## 1. Tujuan
 
-Menguji apakah progression dalam Sistem TUMBUH harus didefinisikan sebagai perubahan yang berlangsung sepanjang waktu, serta apa konsekuensinya bagi pemodelan perkembangan.
+P0003 menguji apakah progression harus memiliki **dimensi waktu** dan, jika iya, apa yang membedakan progression dari keadaan tunggal maupun perubahan sesaat.
 
-## Pertanyaan Utama
+P0002 telah memisahkan progression dari sequence. P0003 melangkah lebih dalam: sequence dapat menunjukkan urutan, tetapi progression harus menjelaskan **perubahan**. Pertanyaannya sekarang adalah apakah setiap perubahan sepanjang waktu sudah cukup untuk disebut progression.
 
-1. Apakah progression mensyaratkan adanya dimensi waktu?
-2. Apa yang membedakan kondisi awal, perubahan, dan kondisi berikutnya?
-3. Apakah perubahan sesaat dapat disebut progression?
-4. Bagaimana sistem membedakan perkembangan yang stabil dari performa sesaat?
-5. Apakah progression dapat mencakup stagnasi atau regresi?
-6. Bukti longitudinal seperti apa yang diperlukan untuk menyatakan bahwa progression benar-benar terjadi?
+Jawaban sementara: belum tentu.
 
-## Hipotesis Kerja
+---
 
-Progression merupakan **perubahan perkembangan yang dapat ditelusuri sepanjang waktu**. Karena itu, progression tidak cukup ditentukan oleh satu observasi atau satu performa pada satu titik waktu.
+## 2. Mengapa Dimensi Waktu Penting
 
-Secara konseptual:
+Progression secara konseptual mengandung gagasan bahwa keadaan pada suatu titik berbeda dari keadaan pada titik lain.
 
-> progression = perubahan keadaan perkembangan yang bermakna sepanjang waktu, yang dapat didukung oleh bukti yang memadai.
+Tanpa dimensi waktu, sistem hanya mengetahui:
 
-Formula tersebut bersifat konseptual, bukan persamaan matematis final.
+> "Bagaimana keadaan seseorang sekarang?"
 
-## Distingsi Kunci
+Dengan dimensi waktu, sistem dapat bertanya:
 
-### 1. State
+> "Bagaimana keadaan tersebut dibandingkan dengan sebelumnya?"
 
-State adalah kondisi kapasitas atau manifestasinya pada suatu titik waktu.
+Karena itu, minimal terdapat tiga posisi konseptual:
 
-### 2. Change
+**State A → Change → State B**
 
-Change adalah perbedaan antara keadaan pada waktu yang berbeda.
+Namun hubungan tersebut masih belum cukup. Perbedaan State A dan State B dapat berasal dari perubahan nyata, variasi performa, kesalahan pengukuran, atau konteks yang berbeda.
 
-### 3. Progression
+Maka progression membutuhkan lebih dari sekadar dua angka pada dua tanggal.
 
-Progression adalah perubahan yang ditafsirkan sebagai perkembangan berdasarkan arah, kualitas, konsistensi, dan konteks yang relevan.
+---
 
-### 4. Performance
+## 3. Distingsi Fundamental
 
-Performance adalah manifestasi kemampuan pada situasi tertentu. Performance dapat menjadi evidence bagi progression, tetapi tidak identik dengan progression.
+### 3.1 State
 
-## Uji Kasus Konseptual
+**State** adalah keadaan capacity atau manifestasinya pada suatu titik waktu tertentu.
 
-### Kasus A — Performa sesaat
+State menjawab:
 
-Seseorang menunjukkan perilaku sangat baik sekali, tetapi tidak muncul kembali dalam konteks lain atau waktu berikutnya.
+> "Bagaimana kondisinya sekarang?"
 
-**Kesimpulan sementara:** belum cukup untuk menyatakan progression.
+### 3.2 Change
 
-### Kasus B — Perubahan konsisten
+**Change** adalah perbedaan antara keadaan pada waktu yang berbeda.
 
-Perilaku atau kapasitas menunjukkan peningkatan yang relatif konsisten dalam berbagai kesempatan dan dapat dipertahankan.
+Change menjawab:
 
-**Kesimpulan sementara:** bukti lebih kuat untuk menyatakan progression.
+> "Apa yang berbeda dari sebelumnya?"
 
-### Kasus C — Stagnasi
+### 3.3 Performance
 
-Tidak ditemukan perubahan bermakna dalam periode tertentu.
+**Performance** adalah manifestasi kemampuan pada kondisi tertentu.
 
-**Kesimpulan sementara:** progression tidak boleh dipaksakan hanya karena waktu berlalu.
+Performance dapat berubah tanpa capacity yang mendasarinya berubah secara setara.
 
-### Kasus D — Regresi
+### 3.4 Progression
 
-Kapasitas atau manifestasi yang sebelumnya lebih baik menurun secara bermakna.
+**Progression** adalah perubahan perkembangan yang dapat ditelusuri sepanjang waktu dan ditafsirkan berdasarkan evidence yang memadai.
 
-**Kesimpulan sementara:** model progression harus mampu merepresentasikan regresi tanpa menghapus riwayat perkembangan sebelumnya.
+Dengan demikian:
 
-## Implikasi terhadap Domain Progression
+> **Tidak semua change adalah progression, dan tidak semua performance change adalah capacity change.**
 
-Jika progression bersifat temporal, maka domain progression membutuhkan setidaknya tiga komponen konseptual:
+---
 
-1. **baseline** — keadaan perkembangan yang menjadi titik acuan;
-2. **trajectory** — pola perubahan sepanjang waktu;
-3. **evidence** — bukti yang memungkinkan trajectory ditafsirkan.
+## 4. Test 1 — Satu Observasi Tinggi
 
-Stage atau level tidak boleh menjadi pengganti ketiga komponen tersebut.
+Seseorang menunjukkan performa sangat baik dalam satu kesempatan.
 
-## Konsekuensi bagi Assessment
+Apakah itu progression?
 
-Assessment progression seharusnya tidak hanya menjawab:
+Belum tentu.
 
-> "Di level berapa seseorang sekarang?"
+Performa tersebut dapat merupakan:
 
-Tetapi juga:
+- kondisi optimal sesaat;
+- bantuan konteks;
+- keberuntungan;
+- efek latihan spesifik;
+- atau perubahan yang memang nyata.
 
-> "Bagaimana kondisi tersebut berubah dibandingkan sebelumnya, seberapa konsisten perubahan itu, dan bukti apa yang mendukung interpretasinya?"
+Tanpa evidence tambahan, satu observasi belum cukup membuktikan trajectory perkembangan.
 
-## Batasan
+**Temuan:** performance sesaat ≠ progression yang terbukti.
 
-Probe ini belum menetapkan metode longitudinal, interval pengukuran, bobot evidence, atau algoritma penentuan trajectory. Hal tersebut harus diuji secara terpisah.
+---
+
+## 5. Test 2 — Perubahan Konsisten
+
+Seseorang menunjukkan peningkatan dalam beberapa kesempatan dan konteks yang relevan.
+
+Jika evidence tersebut menunjukkan pola yang relatif konsisten dan berkaitan dengan capacity yang sedang diamati, klaim progression menjadi lebih kuat.
+
+Bukan karena jumlah observasi otomatis menentukan kebenaran, tetapi karena progression membutuhkan dasar untuk membedakan perubahan yang bermakna dari variasi sesaat.
+
+**Temuan:** konsistensi temporal memperkuat klaim progression.
+
+---
+
+## 6. Test 3 — Stagnasi
+
+Misalkan waktu berlalu enam bulan tetapi capacity yang diamati relatif tidak berubah.
+
+Sistem tidak boleh memaksa kesimpulan bahwa progression pasti terjadi hanya karena waktu berlalu.
+
+Dengan demikian:
+
+**time elapsed ≠ progression**
+
+Waktu menyediakan dimensi, bukan jaminan perkembangan.
+
+Stagnasi harus dapat direpresentasikan sebagai keadaan yang sah dalam sistem.
+
+---
+
+## 7. Test 4 — Regresi
+
+Sekarang capacity yang sebelumnya lebih kuat mengalami penurunan.
+
+Jika sistem hanya memiliki model "naik level", maka perubahan tersebut akan sulit direpresentasikan secara jujur.
+
+Padahal perkembangan manusia dapat berubah arah.
+
+Model progression harus dapat membedakan setidaknya:
+
+- improvement;
+- maintenance/stability;
+- stagnation;
+- regression;
+- dan pola yang belum dapat ditentukan.
+
+**Temuan:** model temporal yang baik harus dapat menyimpan arah perubahan, bukan hanya posisi akhir.
+
+---
+
+## 8. Test 5 — Perubahan Performa, Capacity Tetap
+
+Seseorang mendapat hasil lebih rendah karena konteks ujian berbeda, kelelahan, kecemasan, atau kondisi lain.
+
+Jika sistem langsung mengubah level capacity hanya karena satu performa menurun, sistem dapat salah menginterpretasikan state.
+
+Ini memperlihatkan pentingnya membedakan:
+
+**Capacity state**
+
+dan
+
+**Observed performance**.
+
+Performance adalah evidence, tetapi evidence harus diinterpretasikan dalam konteks.
+
+---
+
+## 9. Test 6 — Perubahan Capacity Tanpa Kenaikan Skor
+
+Sebaliknya, seseorang dapat menunjukkan perubahan kualitas yang bermakna walaupun skor agregat tidak banyak berubah.
+
+Contoh konseptual:
+
+- strategi menjadi lebih efektif;
+- transfer ke konteks baru meningkat;
+- ketergantungan pada bantuan menurun;
+- kestabilan performa meningkat;
+- atau kompleksitas situasi yang dapat ditangani bertambah.
+
+Jika sistem hanya mengakui progression ketika angka naik, maka sebagian perubahan perkembangan dapat hilang.
+
+**Temuan:** score change bukan syarat tunggal progression.
+
+---
+
+## 10. Test 7 — Apakah Semua Change adalah Development?
+
+Tidak.
+
+Change dapat bersifat:
+
+- biologis;
+- situasional;
+- sementara;
+- acak;
+- adaptif;
+- maladaptif;
+- atau perkembangan yang bermakna.
+
+Karena itu, TUMBUH memerlukan kriteria tambahan untuk membedakan **developmental change** dari change biasa.
+
+Pertanyaan kuncinya:
+
+> Apa yang membuat suatu perubahan dapat disebut perubahan perkembangan?
+
+P0003 belum memberikan jawaban final. Pertanyaan tersebut justru menjadi hasil penting dari probe ini.
+
+---
+
+## 11. Baseline, Trajectory, Evidence
+
+P0003 menghasilkan tiga komponen konseptual yang tampaknya diperlukan.
+
+### Baseline
+
+Keadaan yang menjadi titik acuan.
+
+Tanpa baseline, sistem sulit menyatakan apakah perubahan terjadi.
+
+### Trajectory
+
+Pola perubahan sepanjang waktu.
+
+Trajectory tidak harus berupa garis naik. Ia dapat menunjukkan peningkatan, kestabilan, penurunan, fluktuasi, atau pola lain.
+
+### Evidence
+
+Informasi yang memungkinkan sistem menilai apakah perubahan tersebut cukup kuat untuk ditafsirkan.
+
+Ketiganya lebih fundamental daripada label level.
+
+---
+
+## 12. Model Konseptual Awal
+
+Model kerja P0003:
+
+**State(t0) → Evidence → State(t1) → Comparison → Interpretation → Progression Representation**
+
+Jika pengamatan dilakukan berkali-kali:
+
+**State(t0) → State(t1) → State(t2) → ... → State(tn)**
+
+Kemudian sistem dapat menginterpretasikan pola:
+
+**trajectory = f(states, evidence, context, time)**
+
+Formula tersebut bukan persamaan matematis final. Ia hanya menunjukkan bahwa progression tidak seharusnya direduksi menjadi satu skor akhir.
+
+---
+
+## 13. Progression Tidak Sama dengan Posisi
+
+Dua orang dapat berada pada level yang sama sekarang tetapi memiliki trajectory berbeda.
+
+| Individu | Keadaan sekarang | Riwayat |
+|---|---|---|
+| A | sama | meningkat cepat |
+| B | sama | stabil |
+| C | sama | baru mengalami regresi setelah sebelumnya lebih tinggi |
+| D | sama | evidence terbatas |
+
+Jika sistem hanya menyimpan posisi sekarang, informasi perkembangan yang penting hilang.
+
+Maka progression membutuhkan **history**, bukan hanya current state.
+
+---
+
+## 14. Progression dan Arah
+
+P0003 juga membuka pertanyaan penting: apakah progression harus memiliki arah yang dinilai lebih baik?
+
+Perubahan dari A ke B secara matematis dapat dicatat. Namun menyebut perubahan tersebut sebagai "progress" memerlukan kriteria mengenai arah perkembangan.
+
+Ini berarti ada perbedaan antara:
+
+**change** — sesuatu berubah;
+
+**developmental change** — sesuatu berubah dalam konteks perkembangan;
+
+**progression** — sistem merepresentasikan trajectory perkembangan;
+
+**improvement** — perubahan dinilai lebih baik menurut kriteria tertentu.
+
+Keempat istilah ini tidak boleh diperlakukan sebagai sinonim.
+
+Pertanyaan tentang arah akan menjadi probe tersendiri.
+
+---
+
+## 15. Implikasi terhadap Assessment
+
+Assessment progression seharusnya tidak berhenti pada:
+
+> "Berapa skor sekarang?"
+
+Tetapi perlu memungkinkan pertanyaan:
+
+1. Bagaimana baseline-nya?
+2. Apa perubahan yang diamati?
+3. Apakah perubahan konsisten?
+4. Dalam konteks apa perubahan muncul?
+5. Apakah perubahan dapat dipertahankan?
+6. Apa evidence yang mendukungnya?
+7. Apakah perubahan menunjukkan perkembangan, stagnasi, regresi, atau belum dapat ditentukan?
+
+Assessment dengan demikian menjadi sumber evidence bagi progression, bukan progression itu sendiri.
+
+---
+
+## 16. Implikasi terhadap Data dan Riwayat
+
+Jika progression bersifat temporal, maka sistem membutuhkan cara untuk mempertahankan riwayat perkembangan.
+
+Secara konseptual, record progression sebaiknya tidak hanya menyimpan:
+
+`current_level = 3`
+
+tetapi mampu menjelaskan:
+
+- state sebelumnya;
+- state sekarang;
+- waktu pengamatan;
+- evidence;
+- konteks;
+- interpretasi perubahan;
+- dan tingkat kepastian interpretasi.
+
+Detail teknis belum ditetapkan pada P0003. Namun kebutuhan konseptual terhadap history mulai terlihat.
+
+---
+
+## 17. Uji Ringkas
+
+| Kasus | Change? | Progression terbukti? |
+|---|---:|---:|
+| Satu performa tinggi | mungkin | belum cukup |
+| Peningkatan konsisten | ya | evidence kuat |
+| Waktu berlalu tanpa perubahan | tidak signifikan | tidak |
+| Penurunan konsisten | ya | trajectory regresif mungkin |
+| Skor naik sekali | mungkin | belum cukup |
+| Kualitas capacity meningkat tanpa skor agregat naik | mungkin | dapat terjadi |
+| Naik kelas | administratif | tidak otomatis |
+
+Tabel ini merupakan alat uji konseptual, bukan rubrik assessment final.
+
+---
+
+## 18. Temuan Sementara
+
+P0003 mendukung beberapa proposisi:
+
+1. Progression membutuhkan dimensi waktu.
+2. Waktu berlalu tidak menjamin progression.
+3. State berbeda dari change.
+4. Change berbeda dari progression.
+5. Performance berbeda dari capacity.
+6. Evidence diperlukan untuk menafsirkan change sebagai progression.
+7. Progression perlu mampu merepresentasikan stagnasi dan regresi.
+8. Current position tidak cukup; riwayat trajectory memiliki informasi penting.
+9. Score change tidak boleh menjadi definisi tunggal progression.
+
+---
+
+## 19. Pertanyaan yang Belum Selesai
+
+P0003 sengaja tidak menutup pertanyaan:
+
+- Berapa lama perubahan harus bertahan?
+- Berapa banyak evidence yang cukup?
+- Apa kriteria developmental change?
+- Apa yang menentukan arah progression?
+- Apakah improvement selalu diperlukan agar disebut progression?
+- Bagaimana membedakan regresi nyata dari noise pengukuran?
+- Bagaimana progression multidimensional direpresentasikan?
+- Bagaimana trajectory diterjemahkan menjadi stage atau level tanpa kehilangan informasi?
+
+Pertanyaan tersebut menjadi dasar probe berikutnya.
+
+---
 
 ## Status
 
-**Probe — belum final.**
+**Probe — selesai sementara, belum final.**
 
-P0003 menetapkan dimensi waktu sebagai kandidat elemen fundamental progression, tetapi validitas operasionalnya masih memerlukan pengujian lanjutan.
+P0003 menetapkan dimensi waktu sebagai kandidat elemen fundamental progression dan menghasilkan kebutuhan konseptual akan baseline, trajectory, dan evidence. Namun kriteria yang membedakan change biasa dari developmental progression masih harus diuji lebih lanjut.
