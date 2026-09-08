@@ -1,210 +1,311 @@
 # Langkah yang Tidak Tercatat
 
-Pukul lima lewat dua puluh, halaman pesantren masih basah oleh sisa hujan malam. Lampu-lampu koridor belum seluruhnya padam. Dari masjid terdengar suara sandal yang beradu dengan lantai, lalu hilang di antara suara burung dan angin yang menyisir pepohonan.
+Pukul lima lewat dua puluh, halaman pesantren masih basah oleh hujan malam. Di depan asrama, Rafi berdiri dengan seragam yang belum sepenuhnya rapi. Tangannya memegang sapu, tetapi matanya tertuju pada papan pengumuman.
 
-Rafi berdiri di depan papan pengumuman sambil memegang sapu.
+Di sana tertempel daftar tiga nama.
 
-Namanya tidak ada di sana.
+**SANTRI TERBAIK BULAN INI**.
 
-Ia membaca daftar itu sekali lagi. Lalu sekali lagi, seolah-olah jika matanya cukup lama menatap, namanya akan muncul di antara daftar santri teladan bulan itu.
+Namanya tidak ada.
 
-Tidak ada.
+Rafi menatap daftar itu cukup lama sampai suara dari belakang membuatnya menoleh.
 
-Di bagian atas tertulis besar: **SANTRI TERBAIK BULAN INI**.
+"Kalau papan itu bisa menatap balik, mungkin dia juga bingung kamu lihat terus."
 
-Di bawahnya ada tiga nama. Semuanya anak yang memang dikenal rajin, pandai, dan aktif dalam berbagai kegiatan. Rafi mengenal mereka. Ia bahkan tidak merasa iri. Hanya saja, ada sesuatu yang mengganjal di dadanya.
+Pak Hasan, musyrifnya, berdiri sambil membawa ember.
 
-Selama sebulan terakhir, ia merasa sudah berubah.
+Rafi tersenyum tipis. "Saya kira bulan ini saya berubah, Pak."
 
-Ia bangun lebih awal. Ia tidak lagi meninggalkan pakaian berserakan. Ia mulai menghafal Al-Qur'an dengan jadwal yang lebih teratur. Ia bahkan pernah menahan diri untuk tidak membalas ejekan seorang teman ketika dirinya sedang sangat kesal.
+"Berubah dalam hal apa?"
 
-Tetapi tidak ada satu pun dari semua itu yang tertulis di papan.
+Rafi mengangkat bahu.
 
-"Cari nama sendiri?"
+"Bangun lebih pagi. Kamar lebih rapi. Hafalan lebih teratur. Saya juga sudah jarang bertengkar."
 
-Rafi menoleh. Pak Hasan, musyrif kamarnya, berdiri beberapa langkah di belakangnya.
+Pak Hasan meletakkan ember.
 
-"Enggak, Pak. Cuma lihat-lihat."
+"Bagus."
 
-Pak Hasan tersenyum tipis. "Kalau cuma lihat-lihat, kenapa sapunya berhenti?"
+"Tapi tidak masuk daftar."
 
-Rafi melihat sapu di tangannya.
+"Memangnya daftar itu dibuat untuk mengukur seluruh pertumbuhanmu?"
 
-"Capek, Pak."
+Rafi diam.
 
-"Capek menyapu atau capek tidak masuk daftar?"
+Pertanyaan itu terasa lebih mengganggu daripada jawaban.
 
-Rafi terdiam.
+Pak Hasan mengajak Rafi menyapu halaman. Beberapa saat mereka bekerja tanpa bicara.
 
-Pak Hasan tidak tertawa. Ia justru berjalan mendekat, mengambil satu sapu lain, lalu mulai menyapu daun yang menumpuk di sudut halaman.
-
-"Pak," kata Rafi akhirnya, "kalau orang berubah tapi enggak ada yang tahu, itu tetap perubahan, kan?"
-
-"Menurutmu?"
-
-"Menurut saya... iya."
-
-"Kenapa kamu perlu orang lain tahu?"
-
-Rafi tidak langsung menjawab.
-
-Angin membawa beberapa daun kering kembali ke tempat yang baru saja disapu.
-
-"Karena kadang kita perlu tahu kalau usaha kita ada hasilnya."
-
-Pak Hasan mengangguk.
-
-"Itu benar. Tapi hati-hati. Ada dua hal yang sering kita campur: **bertumbuh** dan **terlihat bertumbuh**."
+"Begini," kata Pak Hasan kemudian. "Kalau kita ingin membantu seseorang tumbuh, kita harus tahu dulu: dia sedang berada di mana, mau dibawa ke mana, dan apa yang membuat dia belum sampai."
 
 Rafi menatapnya.
 
-"Bedanya apa?"
+"Jadi bukan sekadar lihat nilai?"
 
-"Besar."
+"Bukan. Nilai hanya salah satu potongan cerita."
 
-Pak Hasan menyandarkan sapunya.
-
-"Kalau kamu hanya mengejar supaya terlihat berubah, kamu akan memilih perubahan yang mudah dilihat orang. Nilai bagus. Piala. Pujian. Foto di depan kamera. Tapi ada banyak perubahan penting yang justru terjadi ketika tidak ada yang melihat."
-
-Rafi menunduk.
-
-"Berarti papan itu enggak penting?"
-
-"Penting. Tapi papan bukan manusia. Papan hanya mencatat sebagian kecil dari perjalananmu."
-
-Mereka kembali menyapu.
-
-Pagi mulai terang.
-
-Hari itu berlalu seperti hari-hari lain. Rafi mengikuti pelajaran, makan siang, kembali ke asrama, lalu mengikuti kegiatan sore. Namun percakapan tadi terus menempel di kepalanya.
-
-Malamnya, sebelum tidur, Rafi membuka buku catatan kecil yang jarang ia gunakan. Di halaman pertama ia menulis:
-
-**Apa yang berubah dalam diriku hari ini?**
-
-Ia berpikir cukup lama.
-
-Lalu menulis:
-
-*Saya tidak marah ketika Fikri mengambil tempat duduk saya.*
-
-Besoknya ia menulis lagi.
-
-*Saya menyelesaikan tugas sebelum diminta.*
-
-Lusa:
-
-*Saya mengingatkan teman untuk salat tanpa mengejeknya.*
-
-Hari berikutnya:
-
-*Saya mengaku kepada ustaz bahwa saya belum paham pelajaran, padahal sebelumnya saya pura-pura paham.*
-
-Catatan itu terus bertambah.
-
-Tidak ada nilai.
-Tidak ada stempel.
-Tidak ada tanda tangan.
-
-Hanya kalimat-kalimat sederhana.
-
-Beberapa minggu kemudian, suatu malam listrik asrama padam. Para santri keluar kamar membawa senter dan lilin. Sebagian bercanda. Sebagian mengeluh karena belum selesai belajar.
-
-Di tengah kegelapan itu, terdengar suara benda jatuh dari kamar sebelah.
-
-"Tolong!"
-
-Rafi berlari.
-
-Seorang santri baru bernama Salman tersandung ketika hendak turun dari tempat tidur. Kakinya terjepit di antara ranjang dan meja kecil.
-
-"Jangan bergerak!" kata Rafi.
-
-Ia meminta bantuan. Dua santri lain datang. Setelah Salman berhasil dibebaskan, Rafi melihat wajah anak itu pucat.
-
-"Sakit?"
-
-Salman mengangguk.
-
-"Takut pulang ke rumah?" tanya Rafi pelan.
-
-Salman menggeleng, lalu berkata, "Aku takut dianggap lemah."
-
-Rafi terdiam.
-
-Dulu, mungkin ia akan mengatakan sesuatu seperti, *Jangan cengeng.*
-
-Tetapi kali ini ia hanya duduk di samping Salman.
-
-"Di sini enggak ada yang harus kuat sendirian."
-
-Salman menatapnya.
-
-"Kamu juga pernah takut?"
-
-Rafi tersenyum.
-
-"Sering."
-
-"Terus?"
-
-"Ya tetap takut. Tapi sekarang saya belajar tetap melakukan yang benar meskipun takut."
-
-Malam itu tidak ada guru yang melihat mereka.
-
-Tidak ada kamera.
-Tidak ada papan penghargaan.
-
-Tidak ada yang mencatat apa yang Rafi lakukan.
-
-Tetapi sesuatu di dalam dirinya sedang tumbuh.
-
-Beberapa bulan kemudian, Pak Hasan menemukan buku catatan itu ketika Rafi lupa membawanya dari ruang belajar. Ia tidak membukanya. Ia hanya melihat sampulnya, lalu meletakkannya kembali.
-
-"Kamu masih mencatat?" tanyanya ketika Rafi datang mengambil buku.
-
-"Masih, Pak."
-
-"Untuk apa?"
-
-Rafi tersenyum.
-
-"Biar saya enggak lupa kalau saya sedang bertumbuh."
-
-Pak Hasan mengangguk.
-
-"Sekarang kamu masih ingin namamu ada di papan?"
-
-Rafi berpikir sebentar.
-
-"Kalau ada, alhamdulillah. Kalau enggak ada, ya tetap harus jalan."
-
-"Kenapa?"
-
-Rafi memandang halaman pesantren dari jendela.
-
-"Karena ternyata hidup bukan tentang memastikan semua langkah kita tercatat. Kadang yang paling penting justru langkah yang tidak tercatat siapa-siapa."
+"Terus bagaimana tahu saya tumbuh atau tidak?"
 
 Pak Hasan tersenyum.
 
-Di luar, beberapa santri sedang berlari menuju masjid.
+"Nah. Itu pertanyaan yang lebih penting."
 
-Rafi ikut berjalan.
+***
 
-Langkahnya tidak menghasilkan suara besar. Tidak ada tepuk tangan. Tidak ada nama yang dipanggil.
+Seminggu kemudian, Pak Hasan memanggil Rafi setelah makan malam.
 
-Hanya suara sandal di lantai, napas yang teratur, dan sebuah hati yang perlahan belajar menjadi lebih baik daripada dirinya sendiri kemarin.
+Tidak ada hukuman. Tidak ada daftar pelanggaran.
 
-Dan mungkin, begitulah pertumbuhan yang sebenarnya bekerja.
+Di atas meja hanya ada sebuah lembar catatan.
 
-Ia tidak selalu datang dengan pengumuman.
+"Kita ngobrol sebentar."
 
-Ia sering datang diam-diam—dalam keputusan kecil, dalam kebiasaan yang mulai berubah, dalam kesalahan yang akhirnya berani diakui, dalam amarah yang berhasil ditahan, dalam kebaikan yang dilakukan tanpa saksi.
+Rafi duduk.
 
-Tidak semua pertumbuhan perlu dipajang.
+Pak Hasan tidak langsung bertanya tentang nilai.
 
-Sebagian cukup hidup di dalam diri.
+"Bagaimana tidurmu akhir-akhir ini?"
 
-Lalu, suatu hari, tanpa kita sadari, kita menoleh ke belakang dan menemukan bahwa jalan yang dahulu terasa berat ternyata sudah menjadi bagian dari kaki kita sendiri.
+"Lumayan."
 
-**Tumbuh bukan sekadar menjadi lebih tinggi. Tumbuh adalah menjadi lebih utuh.**
+"Kalau belajar?"
+
+"Kalau sudah mulai, bisa. Mulainya yang susah."
+
+"Kalau marah?"
+
+Rafi tertawa kecil. "Masih marah, Pak."
+
+"Saya juga."
+
+Rafi tertawa.
+
+Lalu percakapan berubah menjadi lebih serius. Mereka membicarakan beberapa kejadian selama sebulan terakhir. Rafi ternyata memang lebih tertib, tetapi masih sering menunda pekerjaan yang tidak dia sukai. Ia mampu menahan diri ketika diejek, tetapi mudah kehilangan kendali ketika merasa gagal. Ia cukup baik dalam mengikuti aturan, tetapi belum terbiasa menentukan sendiri apa yang perlu ia lakukan ketika tidak ada yang mengawasi.
+
+Pak Hasan menulis beberapa catatan.
+
+"Jadi saya masih banyak kurangnya," kata Rafi.
+
+"Kita semua punya bagian yang belum berkembang."
+
+"Berarti saya dinilai?"
+
+"Kita sedang mengumpulkan informasi supaya bantuan kita tidak asal."
+
+Rafi melihat lembar itu.
+
+Untuk pertama kalinya ia memahami bahwa penilaian tidak selalu berarti mencari siapa yang paling baik dan siapa yang paling buruk.
+
+Kadang penilaian adalah cara untuk menemukan titik tempat seseorang perlu dibantu.
+
+***
+
+Dari percakapan itu mereka memilih satu hal terlebih dahulu: kemampuan Rafi mengatur pekerjaan tanpa menunggu diperintah.
+
+Pak Hasan tidak membuat hukuman.
+
+Ia membuat kesepakatan.
+
+Setiap malam Rafi menuliskan tiga pekerjaan penting untuk esok hari. Bukan sepuluh. Bukan semua pekerjaan. Tiga saja. Setelah selesai, ia mencatat apa yang membuatnya berhasil atau gagal.
+
+Selama dua minggu pertama, catatan itu menyedihkan.
+
+Senin: *Lupa.*
+
+Selasa: *Terlalu lama ngobrol.*
+
+Rabu: *Mengira tugasnya sedikit, ternyata banyak.*
+
+Kamis: *Berhasil satu.*
+
+Jumat: *Lupa lagi.*
+
+Rafi mulai kesal.
+
+"Pak, ini tidak berhasil."
+
+Pak Hasan melihat catatan itu.
+
+"Dari mana kamu tahu?"
+
+"Karena saya masih sering gagal."
+
+"Justru sekarang kita punya bukti tentang kapan kamu gagal."
+
+"Bukti untuk apa?"
+
+"Untuk memperbaiki cara."
+
+Mereka kemudian mengubah cara. Tugas besar dipecah menjadi bagian kecil. Waktu mulai ditentukan. Ponsel ditinggalkan di ruang musyrif ketika belajar malam. Pada akhir pekan, Rafi dan Pak Hasan melihat catatan bersama.
+
+Tidak ada satu metode yang langsung membuat Rafi berubah.
+
+Ada percobaan.
+
+Ada kegagalan.
+
+Ada penyesuaian.
+
+Ada percobaan lagi.
+
+***
+
+Sebulan kemudian, sesuatu yang kecil terjadi.
+
+Hari itu Pak Hasan sedang rapat. Tidak ada yang menyuruh Rafi membersihkan rak kitab di kamar. Namun setelah menyelesaikan tugasnya, ia melihat rak itu berantakan.
+
+Ia mengambil kain.
+
+Seorang teman bertanya, "Disuruh Pak Hasan?"
+
+Rafi menggeleng.
+
+"Enggak."
+
+"Terus ngapain?"
+
+Rafi berhenti sebentar.
+
+Dulu ia mungkin akan menjawab, "Biar dipuji."
+
+Sekarang ia berkata, "Karena memang perlu dibereskan."
+
+Tidak ada yang mencatat kejadian itu.
+
+Namun malamnya, ia menuliskannya sendiri.
+
+*Hari ini saya melakukan sesuatu tanpa menunggu diperintah.*
+
+***
+
+Pada akhir bulan, papan pengumuman kembali diperbarui.
+
+Tiga nama baru tertempel.
+
+Nama Rafi tetap tidak ada.
+
+Ia berdiri di depan papan sebentar, lalu pergi.
+
+Bukan karena ia sudah tidak peduli.
+
+Ia masih senang kalau suatu hari namanya ada di sana. Tetapi sekarang ia tahu bahwa papan itu bukan tujuan pertumbuhannya.
+
+Tujuannya lebih dalam: menjadi seseorang yang perlahan mampu mengelola dirinya, memahami kekurangannya, menerima bantuan, dan mengambil tanggung jawab atas langkah berikutnya.
+
+Sore itu Pak Hasan memanggilnya.
+
+"Ada perkembangan."
+
+Rafi duduk.
+
+Pak Hasan menunjukkan catatan lama dan catatan terbaru.
+
+"Dulu kamu menunggu instruksi. Sekarang beberapa pekerjaan sudah mulai kamu antisipasi. Tapi ada satu masalah baru."
+
+Rafi mengerutkan dahi.
+
+"Apa?"
+
+"Kamu mulai terlalu percaya diri mengatur semuanya sendiri."
+
+Rafi tertawa.
+
+"Jadi tumbuh juga bisa salah arah?"
+
+"Bisa. Makanya perjalanan harus terus dilihat, bukan sekali dinilai lalu selesai."
+
+Rafi mengangguk.
+
+Ia baru menyadari sesuatu: pertumbuhan bukan garis lurus dari buruk menuju baik. Kadang seseorang maju pada satu sisi, lalu menemukan persoalan baru di sisi lain. Karena itu ia membutuhkan arah, bukti tentang keadaan dirinya, dukungan yang sesuai, dan kesempatan untuk mencoba lagi.
+
+Dan bukan hanya Rafi yang perlu berubah.
+
+Pak Hasan pun mencatat sesuatu malam itu.
+
+Ia menyadari bahwa cara memberi instruksi kepada anak-anak di kamarnya selama ini terlalu banyak. Anak-anak menjadi tertib ketika dia hadir, tetapi belum tentu mampu mengambil keputusan ketika dia pergi.
+
+Besoknya ia mengubah cara mendampingi.
+
+Ia mulai lebih banyak bertanya sebelum memberi jawaban.
+
+Apa yang kamu lihat?
+
+Apa yang membuatmu kesulitan?
+
+Apa pilihanmu?
+
+Bantuan apa yang kamu perlukan?
+
+Sedikit demi sedikit, kamar itu berubah.
+
+Bukan karena semua anak tiba-tiba menjadi sempurna.
+
+Justru karena mereka mulai belajar membaca dirinya sendiri.
+
+***
+
+Beberapa bulan kemudian, seorang santri baru datang ke kamar Rafi. Anak itu sering terlambat, sulit mengikuti jadwal, dan mudah marah ketika ditegur.
+
+Pada malam pertama, ia berkata, "Kak, saya memang begini."
+
+Rafi teringat dirinya sendiri.
+
+Ia tidak menjawab dengan nasihat panjang.
+
+"Kita lihat dulu," katanya.
+
+"Lihat apa?"
+
+"Kamu sekarang ada di mana. Besok kita cari satu hal yang bisa diperbaiki. Bukan semuanya."
+
+Anak itu mengangguk pelan.
+
+Malam semakin larut.
+
+Dari masjid terdengar suara orang membaca Al-Qur'an. Di meja, sebuah buku catatan terbuka. Rafi menulis tiga baris untuk dirinya sendiri.
+
+*Yang sudah berubah.*
+
+*Yang belum berubah.*
+
+*Yang perlu saya coba berikutnya.*
+
+Ia menutup buku.
+
+Tidak ada stempel.
+
+Tidak ada ranking.
+
+Tidak ada kamera.
+
+Tetapi perjalanan itu tidak lagi benar-benar tidak tercatat. Ada catatan untuk melihat keadaan, ada percakapan untuk memahami, ada dukungan untuk menolong, dan ada perubahan kecil yang bisa diperiksa kembali.
+
+Rafi tersenyum.
+
+Ia akhirnya mengerti mengapa papan pengumuman tidak pernah cukup untuk menjelaskan pertumbuhan seseorang.
+
+Pertumbuhan bukan sekadar hasil yang terlihat.
+
+Ia adalah perjalanan dari kapasitas awal menuju kemampuan yang semakin matang—melalui arah yang jelas, pengamatan yang jujur, dukungan yang tepat, dan perbaikan yang terus berlangsung.
+
+Di luar kamar, seorang teman memanggilnya.
+
+"Rafi, ayo!"
+
+"Ke mana?"
+
+"Masjid."
+
+Rafi berdiri.
+
+Ia berjalan keluar tanpa menunggu ada yang mencatat langkahnya.
+
+Sebab sekarang ia tahu: langkah yang penting bukan selalu langkah yang dipajang.
+
+Yang penting adalah apakah langkah itu membuat manusia sedikit lebih mampu menjalani hidupnya dengan ilmu, adab, tanggung jawab, dan kemandirian.
+
+Dan kalau besok ia jatuh lagi, perjalanan itu belum gagal.
+
+Besok mereka tinggal melihat lagi, memahami lagi, memperbaiki lagi, lalu berjalan lagi.
+
+Begitulah pertumbuhan bekerja.
