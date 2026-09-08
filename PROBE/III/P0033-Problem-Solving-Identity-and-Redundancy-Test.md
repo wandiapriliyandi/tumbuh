@@ -1,252 +1,78 @@
 # P33 — Problem Solving Identity & Redundancy Test
 
-## 1. Status
+## Status
 
-- Probe: **P33**
-- Area: Capacity Architecture
-- Nature: construct identity / boundary / redundancy stress test
-- Status: **INQUIRY — PENDING DECISION**
-- Epistemic status: conceptual architectural inquiry; not empirical validation of Problem Solving as a universal Core Capacity
+**INQUIRY — PENDING DECISION**
 
-## 2. Pertanyaan utama
+Problem Solving memiliki functional territory yang defensible, tetapi belum ditetapkan sebagai independent Core Capacity. Probe ini merupakan conceptual architectural inquiry, bukan validasi empiris universal.
 
-Apakah **Problem Solving** memiliki functional identity yang cukup berbeda untuk dipertahankan sebagai Core Capacity, atau sebenarnya merupakan integrasi dari Critical Thinking, Self-Regulation, Knowledge, Skills, dan fungsi lain?
+## Pertanyaan Utama
 
-P33 tidak menguji apakah Problem Solving penting. Yang diuji adalah apakah importance tersebut membutuhkan status **Core Capacity** pada arsitektur TUMBUH.
+Apakah **Problem Solving** memiliki functional identity yang cukup berbeda untuk dipertahankan sebagai Core Capacity, atau sebenarnya merupakan integrasi dari Critical Thinking, Self-Regulation, Knowledge, Skills, Decision Making, Agency, Adaptability, dan fungsi lain?
 
-## 3. Working definition
+## Working Definition
 
 > **Problem Solving adalah kapasitas untuk memahami dan menangani kesenjangan antara kondisi yang ada dan kondisi yang dituju dengan mengidentifikasi hambatan, menghasilkan atau memilih strategi, serta menyesuaikan tindakan berdasarkan informasi dan hasil yang diperoleh.**
 
 Definisi ini masih merupakan working definition, bukan definisi final tervalidasi.
 
-## 4. Masalah arsitektural
+## Functional Identity
 
-Problem Solving berpotensi menjadi **super-capacity** karena proses pemecahan masalah dapat melibatkan:
-
-- understanding;
-- knowledge;
-- reasoning;
-- Critical Thinking;
-- planning;
-- decision making;
-- Self-Regulation;
-- domain-specific skills;
-- feedback dan adaptation.
-
-Karena itu keberadaan banyak komponen tidak otomatis membuktikan bahwa Problem Solving adalah Capacity tersendiri.
-
-## 5. Functional identity
-
-Territory utama Problem Solving adalah **mengatasi discrepancy/problem** antara keadaan aktual dan keadaan yang dituju.
+Territory utama Problem Solving adalah **mengatasi discrepancy/problem antara keadaan aktual dan keadaan yang dituju**.
 
 ```text
 Current state
       ↓
-Identify discrepancy / problem
+Problem / discrepancy
       ↓
-Understand constraints & causes
+Understand constraints
       ↓
-Generate / select strategies
+Generate / select strategy
       ↓
 Act
       ↓
 Monitor result
       ↓
-Adapt strategy
-      ↓
-Improved problem state
+Adapt when needed
 ```
 
-Diagram ini adalah conceptual mechanism, bukan klaim bahwa semua problem solving selalu mengikuti urutan linear tersebut.
+Diagram ini merupakan conceptual mechanism, bukan klaim bahwa seluruh problem solving selalu mengikuti urutan linear.
 
-## 6. Problem Solving ≠ Critical Thinking
+## Boundary Utama
 
-Critical Thinking berorientasi pada kualitas pemeriksaan, evaluasi, inferensi, dan judgment.
+- **Problem Solving ≠ Critical Thinking** — CT berorientasi kualitas pemeriksaan, evaluasi, inferensi, dan judgment; Problem Solving berorientasi penanganan problem/discrepancy.
+- **Problem Solving ≠ Decision Making** — Decision Making berorientasi pilihan tindakan; Problem Solving berorientasi perubahan problem state.
+- **Problem Solving ≠ Self-Regulation** — Self-Regulation mengatur diri/tindakan secara lebih luas.
+- **Problem Solving ≠ Reasoning** — reasoning dapat digunakan dalam Problem Solving, tetapi tidak semua reasoning diarahkan pada problem.
+- **Problem Solving ≠ Planning** — planning dapat menjadi bagian dari Problem Solving, tetapi planning juga terjadi di luar problem.
+- **Problem Solving ≠ Knowledge / Skill** — knowledge dan skill adalah resources yang dapat dimobilisasi.
+- **Problem Solving ≠ Agency** — Agency menginisiasi/mengarahkan tindakan; Problem Solving menangani problem/discrepancy.
+- **Problem Solving ≠ Adaptability** — Adaptability berfokus pada penyesuaian terhadap perubahan; Problem Solving berfokus pada problem/discrepancy.
+- **Problem Solving ≠ Resilience** — Resilience berfokus pada mempertahankan/memulihkan functioning saat adversity; Problem Solving dapat menjadi resource di dalamnya.
 
-Problem Solving berorientasi pada **menangani dan menyelesaikan problem**.
+## Super-Capacity Test
 
-CT dapat digunakan dalam Problem Solving untuk:
-
-- memeriksa definisi masalah;
-- mengevaluasi informasi;
-- menguji asumsi;
-- menilai alternatif.
-
-Namun:
-
-```text
-Critical Thinking ≠ Problem Solving
-```
-
-P31 sudah memberikan dasar konseptual untuk mempertahankan perbedaan ini; P33 menguji apakah perbedaan tersebut cukup untuk level Core Capacity.
-
-## 7. Problem Solving ≠ Decision Making
-
-Decision Making berfokus pada memilih arah tindakan atau non-tindakan dari beberapa kemungkinan.
-
-Problem Solving dapat mengandung banyak keputusan, tetapi object fungsionalnya adalah **problem state/discrepancy**, bukan sekadar choice.
+Problem Solving tidak boleh didefinisikan sebagai penjumlahan otomatis:
 
 ```text
-Problem Solving
-→ menangani problem
-
-Decision Making
-→ memilih tindakan/opsi
-```
-
-Satu problem dapat memerlukan banyak keputusan; satu keputusan juga dapat terjadi tanpa problem solving yang kompleks.
-
-## 8. Problem Solving ≠ Self-Regulation
-
-Self-Regulation mengatur diri, perhatian, emosi, impuls, usaha, kebiasaan, dan tindakan.
-
-Problem Solving menggunakan Self-Regulation ketika seseorang perlu mempertahankan usaha, mengelola frustrasi, memonitor tindakan, atau menyesuaikan strategi.
-
-Tetapi kemampuan mengatur diri tidak identik dengan kemampuan menangani problem.
-
-## 9. Problem Solving ≠ Reasoning
-
-Reasoning berkaitan dengan hubungan inferensial dan penarikan kesimpulan.
-
-Problem Solving dapat menggunakan reasoning, tetapi tidak semua reasoning diarahkan pada penyelesaian problem.
-
-Reasoning karena itu lebih tepat diperlakukan sebagai functional component/resource daripada otomatis menjadi Core Capacity tersendiri.
-
-## 10. Problem Solving ≠ Planning
-
-Planning adalah penyusunan langkah atau tindakan menuju tujuan.
-
-Planning dapat menjadi bagian dari Problem Solving, tetapi planning juga terjadi dalam konteks yang tidak merupakan problem.
-
-Dengan demikian:
-
-```text
-Planning ⊂ possible problem-solving process
-```
-
-bukan:
-
-```text
-Problem Solving = Planning
-```
-
-## 11. Problem Solving ≠ Knowledge
-
-Knowledge menyediakan informasi, konsep, pengalaman, dan domain resources yang dapat digunakan untuk menyelesaikan problem.
-
-Problem Solving bukan jumlah knowledge yang dimiliki seseorang.
-
-Seseorang dapat memiliki knowledge tinggi tetapi gagal menyelesaikan problem karena tidak dapat menggunakannya secara fungsional dalam situasi tersebut.
-
-## 12. Problem Solving ≠ Skill
-
-Skill adalah kemampuan melakukan tindakan tertentu dengan cara yang relatif terlatih atau terampil.
-
-Problem Solving dapat memobilisasi banyak skill dan tidak terikat pada satu skill tertentu.
-
-## 13. Functional identity test
-
-| Construct | Pertanyaan utama |
-|---|---|
-| Critical Thinking | Apakah informasi, alasan, asumsi, dan judgment telah diperiksa dengan baik? |
-| Problem Solving | Bagaimana mengatasi kesenjangan/problem menuju kondisi yang dituju? |
-| Decision Making | Apa yang dipilih/dilakukan dari kemungkinan yang tersedia? |
-| Self-Regulation | Bagaimana mengarahkan dan mengatur diri/tindakan? |
-| Reasoning | Kesimpulan apa yang mengikuti secara masuk akal? |
-| Planning | Langkah apa yang disusun untuk mencapai tujuan? |
-
-Tabel ini mendukung **functional distinction**, tetapi belum membuktikan **architectural necessity** sebagai Core Capacity.
-
-## 14. Cross-context identity
-
-Problem Solving dapat muncul dalam:
-
-- pembelajaran;
-- kehidupan asrama;
-- hubungan sosial;
-- tugas organisasi;
-- aktivitas rumah tangga;
-- masalah praktis;
-- konflik;
-- situasi digital;
-- kehidupan masyarakat.
-
-Bentuk problem berubah menurut konteks, tetapi territory fungsionalnya tetap berkaitan dengan menangani discrepancy/problem menuju kondisi yang dituju.
-
-Context-specific problem ≠ new Capacity.
-
-## 15. Super-capacity test
-
-Definisi berikut terlalu luas dan tidak dapat diterima:
-
-```text
-Problem Solving
-= knowledge
+knowledge
 + reasoning
 + critical thinking
 + planning
 + decision making
 + self-regulation
-+ skills
++ agency
 + adaptation
++ skills
 ```
 
-Komponen-komponen tersebut dapat berkontribusi pada Problem Solving tanpa menjadi identitas ontologis Problem Solving.
+Komponen-komponen tersebut dapat berkontribusi tanpa menjadi identitas ontologis Problem Solving. Pertanyaan arsitekturalnya adalah apakah **problem/discrepancy** merupakan functional object yang cukup khas untuk membenarkan satu node Core Capacity.
 
-Pertanyaan yang harus dijaga:
+## Cross-Context Identity
 
-> Apakah ada functional object yang khas, yaitu **problem/discrepancy**, yang membuat keseluruhan konfigurasi tersebut layak dipertahankan sebagai Capacity?
+Problem Solving dapat muncul dalam pembelajaran, kehidupan asrama, hubungan sosial, tugas organisasi, aktivitas rumah tangga, konflik, situasi digital, dan kehidupan masyarakat. Konteks dapat mengubah bentuk problem dan evidence, tetapi tidak otomatis mengubah construct menjadi Capacity baru.
 
-## 16. Problem Solving dan Agency
-
-Agency berkaitan dengan kemampuan menginisiasi dan mengarahkan tindakan secara intentional berdasarkan tujuan, alasan, dan kemungkinan tindakan dalam konteks.
-
-Problem Solving dapat membutuhkan Agency untuk memulai, mempertahankan, atau mengubah tindakan.
-
-Namun seseorang dapat memiliki Agency tanpa sedang memecahkan problem tertentu.
-
-```text
-Agency
-→ initiates / directs action
-
-Problem Solving
-→ addresses a problem/discrepancy
-```
-
-Hubungan ini menunjukkan complementarity, bukan equivalence.
-
-## 17. Problem Solving dan Adaptability
-
-Adaptability berfokus pada penyesuaian functioning atau strategi ketika tuntutan, kondisi, atau lingkungan berubah.
-
-Problem Solving dapat memerlukan adaptation ketika strategi pertama gagal.
-
-Tetapi adaptation juga terjadi tanpa problem solving yang eksplisit.
-
-```text
-Adaptability
-→ adjust to change
-
-Problem Solving
-→ address problem/discrepancy
-```
-
-## 18. Problem Solving dan Resilience
-
-Resilience berfokus pada mempertahankan atau memulihkan functioning ketika menghadapi adversity, disruption, setback, atau sustained difficulty.
-
-Problem Solving dapat menjadi salah satu resource yang digunakan dalam resilience, tetapi keduanya tidak identik.
-
-P30 menempatkan Resilience pada status HOLD; P33 tidak mengubah keputusan tersebut.
-
-## 19. Problem Solving dan Critical Thinking: batas penting
-
-Problem Solving dapat berlangsung dengan kualitas CT yang berbeda-beda. Sebaliknya seseorang dapat menunjukkan Critical Thinking pada pertanyaan evaluatif yang tidak menuntut penyelesaian problem.
-
-Karena itu overlap tidak sama dengan redundancy.
-
-## 20. Evidence dan false positives
+## Evidence Guardrail
 
 Hal berikut tidak otomatis menunjukkan Problem Solving:
 
@@ -258,118 +84,62 @@ Hal berikut tidak otomatis menunjukkan Problem Solving:
 - memiliki nilai akademik tinggi;
 - memiliki satu skill teknis tertentu.
 
-Evidence yang lebih kuat perlu menunjukkan adanya problem/discrepancy, pemahaman terhadap constraints, pemilihan atau pengembangan strategi, tindakan, serta penyesuaian berdasarkan hasil bila memang relevan dengan problem.
+Performance juga tidak identik dengan Capacity. Evidence perlu mempertimbangkan problem/discrepancy, constraints, strategi, tindakan, dan penyesuaian yang relevan.
 
-## 21. False negatives dan contextual caution
-
-Kegagalan menyelesaikan suatu problem tidak otomatis membuktikan rendahnya Capacity karena performance dipengaruhi:
-
-- knowledge;
-- opportunity;
-- task demand;
-- resources;
-- support;
-- motivation/engagement;
-- context;
-- familiarity;
-- constraints.
-
-Dengan demikian:
-
-```text
-Performance ≠ Capacity
-```
-
-P16 dan P13 menjadi guardrail penting untuk interpretasi evidence.
-
-## 22. Developmental relevance
-
-Problem-solving functioning dapat berkembang melalui pengalaman menghadapi problem yang bermakna, practice, feedback, reflection, strategy adjustment, dan dukungan yang proporsional.
-
-P33 tidak menetapkan satu urutan perkembangan universal atau satu metode pembelajaran problem solving.
-
-## 23. Assessment implications
-
-Jika Problem Solving dipertahankan sebagai Core Capacity, assessment perlu membedakan antara:
-
-1. memahami problem;
-2. mengidentifikasi discrepancy;
-3. mengenali constraints/hambatan;
-4. menghasilkan atau memilih strategi;
-5. mengimplementasikan strategi;
-6. memonitor hasil;
-7. menyesuaikan strategi ketika diperlukan.
-
-P33 tidak menetapkan instrument, rubric, atau scoring model.
-
-## 24. Architectural utility
-
-Problem Solving memiliki utility yang jelas karena banyak konteks pendidikan menuntut individu tidak hanya memahami atau memilih, tetapi **mengubah problem state menjadi kondisi yang lebih baik**.
-
-Namun utility saja tidak cukup. TUMBUH harus menguji apakah territory ini dapat ditampung secara lebih parsimonious sebagai integrative functioning pattern dari Capacity lain.
-
-## 25. Alternative architectural positions
+## Architectural Alternatives
 
 ### Opsi A — Independent Core Capacity
 
 Problem Solving dipertahankan sebagai sibling Core Capacity karena memiliki functional object yang khas: problem/discrepancy.
 
-### Opsi B — Integrative functioning pattern
+### Opsi B — Integrative Functioning Pattern
 
 Problem Solving dipetakan sebagai konfigurasi dari Critical Thinking, Agency, Self-Regulation, Knowledge, Skills, Decision Making, dan Adaptability.
 
-### Opsi C — Contextual application
+### Opsi C — Contextual Application
 
 Problem Solving tidak menjadi Core Capacity, tetapi muncul sebagai application/manifestation dari beberapa Core Capacity pada domain tertentu.
 
-P33 belum memilih secara final sebelum seluruh redundancy dan set-level implications diuji.
+P33 belum memilih secara final sebelum set-level implications diuji.
 
-## 26. Decision rule
+## Decision Rule
 
 Problem Solving layak dipertahankan sebagai Core Capacity jika setelah set-level audit ditemukan bahwa:
 
-1. functional object **problem/discrepancy** tetap stabil lintas konteks relevan;
-2. territory-nya tidak dapat dijelaskan secara memadai oleh CT + Agency + Self-Regulation + Decision Making + resources;
-3. construct bukan sekadar label untuk keberhasilan/performance;
-4. evidence dapat diinferensikan secara memadai tanpa menyamakan Capacity dengan task success;
-5. node tersebut memberi explanatory utility yang cukup untuk membenarkan tambahan kompleksitas taxonomy.
+1. functional object **problem/discrepancy** stabil lintas konteks relevan;
+2. territory tidak dapat dijelaskan secara memadai oleh CT + Agency + Self-Regulation + Decision Making + resources;
+3. construct bukan sekadar label untuk task success/performance;
+4. evidence dapat diinferensikan secara memadai tanpa menyamakan Capacity dengan performance;
+5. node memberi explanatory utility yang cukup untuk membenarkan tambahan kompleksitas taxonomy.
 
-Jika syarat tersebut tidak terpenuhi, status yang lebih parsimonious adalah merge/relocate/hold.
+Jika syarat tidak terpenuhi, status lebih parsimonious adalah merge/relocate/hold.
 
-## 27. Keputusan sementara
+## Keputusan Sementara
 
 ### **INQUIRY — PENDING DECISION**
 
-P33 saat ini menetapkan bahwa Problem Solving memiliki **functional territory yang defensible**, tetapi belum menetapkan bahwa territory tersebut secara arsitektural wajib menjadi Core Capacity.
+Problem Solving memiliki functional territory yang defensible, tetapi architectural necessity sebagai Core Capacity masih terbuka.
 
-Probe berikutnya harus menguji implikasinya terhadap keseluruhan candidate set dan pasangan yang paling berisiko overlap, terutama:
+## Relasi Probe dan Urutan Aktual
 
-- Problem Solving ↔ Critical Thinking
-- Problem Solving ↔ Decision Making
-- Problem Solving ↔ Agency
-- Problem Solving ↔ Self-Regulation
-- Problem Solving ↔ Adaptability
-
-## 28. Dampak arsitektural sementara
-
-P33 memperkuat prinsip bahwa **functional identity ≠ automatic Core Capacity status**.
-
-TUMBUH harus membedakan:
+Rangkaian aktual yang telah terdokumentasi adalah:
 
 ```text
-Functional territory
-        ↓
-Construct identity
-        ↓
-Architectural necessity
-        ↓
-Core Capacity status
+P0031 — Critical Thinking
+       ↓
+P0032 — Empathy
+       ↓
+P0033 — Problem Solving
 ```
 
-Tidak semua construct yang penting dan dapat diamati harus menjadi node Core Capacity.
+P0031 menetapkan bahwa Problem Solving berbeda secara fungsional dari Critical Thinking, tetapi status Core Capacity Problem Solving memerlukan pengujian tersendiri. P0032 menguji Empathy sebagai pertanyaan relational yang berbeda dan menghasilkan **CONDITIONAL PASS — HOLD**. P0033 kemudian melanjutkan pengujian Problem Solving.
 
-## Status
+### Next Probe
 
-**INQUIRY — PENDING DECISION**
+Setelah P0033, pertanyaan berikutnya bukan otomatis penambahan kandidat baru. Hasil P0033 perlu dibawa ke **set-level Core Capacity Architecture Audit** untuk menguji parsimony, coverage, redundancy, functional distinctness, evidence path, dan architectural necessity secara simultan.
+
+**Next Probe: Set-Level Core Capacity Architecture Audit**
+
+## Epistemic Status
 
 Probe ini merupakan research/design inquiry. Hasilnya belum merupakan klaim bahwa Problem Solving telah tervalidasi secara empiris sebagai Core Capacity.
