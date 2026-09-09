@@ -2,134 +2,215 @@
 
 **Status:** PROVISIONAL — CORE MODEL
 
-## Apa maksudnya?
+## 1. Apa itu Growth Ecology?
 
-**Growth Ecology menjelaskan lingkungan dan relasi tempat seseorang tumbuh.**
+**Growth Ecology adalah cara TUMBUH melihat tempat dan hubungan yang ikut membentuk pertumbuhan manusia.**
 
-Pertumbuhan santri tidak terjadi sendirian. Ia terjadi dalam hubungan dengan orang lain dan dalam lingkungan tertentu.
+Manusia tidak tumbuh sendirian. Ia tumbuh melalui pengalaman yang terjadi dalam lingkungan dan hubungan dengan orang lain.
 
-Jadi pertanyaan utama Growth Ecology adalah:
+Karena itu, pertanyaan dasar Growth Ecology adalah:
 
-> **"Santri tumbuh di mana, bersama siapa, dan dalam relasi seperti apa?"**
+> **Santri tumbuh di mana, bersama siapa, dan dalam hubungan seperti apa?**
+
+Growth Ecology tidak pertama-tama mencari "siapa yang salah". Ia membantu TUMBUH melihat **kondisi tempat pertumbuhan berlangsung**.
 
 ---
 
-## Inti TUMBUH: Triad Growth
+## 2. Mengapa ini penting dalam TUMBUH?
 
-Dalam TUMBUH, ada tiga aktor utama:
+Bayangkan seorang santri mengalami kesulitan mengatur waktu.
 
-1. **Santri** — orang yang sedang tumbuh.
-2. **Guru/Musyrif** — orang yang mendampingi, membimbing, memberi teladan, dan berinteraksi dengan santri.
-3. **Lembaga** — sistem yang mengatur dan membentuk lingkungan tempat pertumbuhan berlangsung.
+Ada dua cara melihatnya.
 
-Ketiganya disebut **Triad Growth**.
+**Cara pertama:**
+
+> "Santri ini tidak disiplin."
+
+**Cara TUMBUH:**
+
+> "Apa yang sedang terjadi pada santri, dan bagaimana lingkungan pertumbuhannya?"
+
+Maka kita melihat beberapa hal sekaligus:
+
+- kondisi dan kebiasaan santri;
+- cara guru/musyrif mendampingi;
+- aturan dan budaya lembaga;
+- hubungan dengan teman sebaya;
+- kondisi keluarga;
+- pengaruh lingkungan digital dan masyarakat.
+
+Bukan berarti semua hal tersebut pasti menjadi penyebab. Artinya, **pertumbuhan tidak dipahami dengan mengisolasi manusia dari lingkungannya.**
+
+---
+
+## 3. Triad Growth: inti operasional TUMBUH
+
+Untuk mengoperasikan pandangan ekologis tersebut, TUMBUH menggunakan tiga aktor utama:
+
+1. **Santri** — individu yang sedang tumbuh.
+2. **Guru/Musyrif** — pihak yang mendampingi, membimbing, berinteraksi, dan memberi teladan.
+3. **Lembaga** — sistem yang mengatur dan membentuk kondisi tempat pertumbuhan berlangsung.
+
+Ketiganya membentuk **Triad Growth**.
 
 ```text
-              LEMBAGA
-             ↕       ↕
-            ↕         ↕
-     GURU/MUSYRIF ↔ SANTRI
+                 LEMBAGA
+                ↕       ↕
+               ↕         ↕
+        GURU / MUSYRIF ↔ SANTRI
 ```
 
-Tanda panah dua arah penting: hubungan pertumbuhan tidak dipahami hanya sebagai **guru memengaruhi santri**. Kondisi santri, guru, dan lembaga dapat saling berhubungan dan saling memengaruhi.
+Panah dua arah menunjukkan bahwa hubungan pertumbuhan tidak dipahami hanya sebagai:
+
+> guru → santri
+
+Kondisi santri, guru/musyrif, dan lembaga dapat saling berhubungan.
+
+Namun, **hubungan tersebut adalah bagian dari model sistem dan tidak otomatis berarti hubungan kausal yang telah terbukti secara empiris.**
 
 ---
 
-## Tetapi Triad bukan seluruh lingkungan
+## 4. Triad bukan seluruh ekologi
 
-Santri juga berada dalam konteks lain:
+Triad adalah **operational core**, bukan seluruh lingkungan pertumbuhan.
+
+Santri juga hidup dalam konteks yang lebih luas:
 
 ```text
-          MASYARAKAT • BUDAYA • DIGITAL
+        MASYARAKAT • BUDAYA • DIGITAL
                      │
                      ↓
                   LEMBAGA
-                     ↕
-               GURU/MUSYRIF
-                     ↕
-                   SANTRI
+                  ↕     ↕
+        GURU/MUSYRIF ↔ SANTRI
                   ↙     ↘
-              KELUARGA   PEER
+             KELUARGA   PEER
 ```
 
-Karena itu, **Triad adalah operational core, bukan keseluruhan ecology**.
+Karena itu, TUMBUH membedakan:
 
-Keluarga, teman sebaya, masyarakat, lingkungan digital, dan konteks sosial-budaya dapat menjadi bagian dari ekologi pertumbuhan.
+- **Triad Growth** → inti operasional sistem;
+- **Connected Contexts** → lingkungan dan relasi lain yang dapat terkait dengan pertumbuhan.
+
+Connected contexts dapat mencakup keluarga, peers, community, digital environment, serta konteks sosial-budaya yang lebih luas.
 
 ---
 
-## Mengapa lembaga penting?
+## 5. Apa peran lembaga?
 
-Lembaga bukan sekadar "tempat".
+Lembaga bukan sekadar gedung atau lokasi tempat santri berada.
 
-Lembaga dapat membentuk kondisi pertumbuhan melalui:
+Lembaga adalah bagian aktif dari ekologi karena ia dapat membentuk kondisi pertumbuhan melalui:
 
-- aturan dan tata kelola;
+- tata kelola;
+- aturan dan kebijakan;
 - budaya lembaga;
 - kualitas relasi;
 - dukungan yang tersedia;
-- cara pengalaman diorganisasikan;
-- kebijakan dan keputusan sehari-hari.
+- pengorganisasian pengalaman sehari-hari;
+- keputusan yang dibuat oleh para pengelola.
 
-Jadi, kalau pertumbuhan tidak berjalan baik, TUMBUH tidak otomatis menyimpulkan bahwa **masalahnya ada pada santri**. Kondisi ekologinya juga perlu dilihat.
+Implikasinya penting:
 
----
+> **Jika pertumbuhan seorang santri mengalami masalah, TUMBUH tidak boleh otomatis menyimpulkan bahwa sumber masalah berada pada diri santri. Kondisi ekologinya juga perlu diperiksa.**
 
-## Contoh sederhana
-
-Seorang santri kesulitan mengatur waktu.
-
-Growth Ecology tidak langsung mengatakan:
-
-> "Santri ini kurang disiplin."
-
-Pertanyaan ekologisnya lebih luas:
-
-- Bagaimana pola pendampingan musyrif?
-- Apakah aturan lembaga jelas?
-- Apakah jadwal terlalu padat?
-- Bagaimana budaya teman sebaya?
-- Apakah keluarga memiliki peran tertentu?
-- Apakah lingkungan digital ikut memengaruhi?
-
-Pertanyaan-pertanyaan ini **tidak otomatis menentukan penyebab**. Tujuannya adalah memastikan pertumbuhan dipahami dalam konteks yang benar.
+Ini bukan berarti lembaga selalu menjadi penyebab. Ini berarti **lembaga termasuk bagian dari konteks yang harus dipertimbangkan.**
 
 ---
 
-## Apa yang TIDAK dijelaskan Growth Ecology?
+## 6. Contoh: santri kesulitan mengatur waktu
 
-Growth Ecology bukan:
+Misalnya seorang santri sering terlambat dan kesulitan menyelesaikan tugas.
+
+Growth Ecology membantu kita bertanya:
+
+### Pada santri
+- Bagaimana kebiasaan dan kondisi dirinya?
+- Apakah ia memahami tuntutan yang ada?
+
+### Pada guru/musyrif
+- Bagaimana pola pendampingannya?
+- Apakah ekspektasi sudah jelas?
+- Apakah feedback diberikan?
+
+### Pada lembaga
+- Apakah jadwal dan aturan cukup jelas?
+- Apakah beban kegiatan masuk akal?
+- Bagaimana budaya kedisiplinannya?
+
+### Pada konteks lain
+- Bagaimana pengaruh teman sebaya?
+- Apakah keluarga memiliki kondisi tertentu yang relevan?
+- Apakah lingkungan digital ikut berperan?
+
+Pertanyaan ini **belum menentukan penyebab**.
+
+Pertanyaan tersebut hanya memastikan bahwa kita memahami persoalan dalam konteks ekologis yang memadai sebelum membuat keputusan lebih lanjut.
+
+---
+
+## 7. Apa yang dijelaskan dan apa yang tidak?
+
+### Growth Ecology menjelaskan
+
+- siapa saja yang berada dalam ekologi pertumbuhan;
+- hubungan dan konteks tempat pertumbuhan berlangsung;
+- posisi Santri–Guru/Musyrif–Lembaga sebagai Triad Growth;
+- pentingnya melihat kondisi individu dan lingkungan secara bersama.
+
+### Growth Ecology tidak menjelaskan
 
 - tahapan perkembangan;
-- rubrik penilaian;
+- apa yang harus dinilai;
 - instrumen assessment;
 - prosedur intervensi;
 - SOP lembaga;
 - program pendidikan tertentu;
-- bukti bahwa satu relasi pasti menyebabkan hasil tertentu.
+- metode pembelajaran tertentu;
+- hubungan sebab-akibat universal.
 
-Itu dibahas di layer lain.
+Hal-hal tersebut berada pada layer TUMBUH yang lain.
 
 ---
 
-## Hubungan dengan Growth Mechanism
+## 8. Hubungan dengan Growth Mechanism
 
-Bedakan dua pertanyaan:
+Dua pertanyaan ini harus dibedakan.
 
 **Growth Ecology:**
-> "Di mana dan bersama siapa pertumbuhan berlangsung?"
+
+> **Di mana, bersama siapa, dan dalam kondisi apa pertumbuhan berlangsung?**
 
 **Growth Mechanism:**
-> "Bagaimana kapasitas dapat berubah melalui proses pertumbuhan?"
 
-Contohnya, hubungan santri–musyrif adalah bagian dari **ecology**. Apa yang terjadi melalui pengalaman, latihan, feedback, refleksi, dan adaptasi merupakan bagian dari **mechanism**.
+> **Bagaimana kapasitas dapat berubah melalui proses pertumbuhan?**
+
+Contoh:
+
+- hubungan santri dengan musyrif → **ecology**;
+- pengalaman yang dialami santri → **experience**;
+- keterlibatan dalam pengalaman → **engagement**;
+- latihan → **practice**;
+- feedback dan refleksi → **feedback/reflection**;
+- penyesuaian → **adaptation**;
+- perubahan kapasitas → **capacity change**.
+
+Dengan demikian, **Ecology menjelaskan konteks pertumbuhan, sedangkan Mechanism menjelaskan proses perubahan.**
 
 ---
 
-## Status pengetahuan
+## 9. Posisi ilmiah model
 
-Model ini adalah **model konseptual/desain**. Ia belum boleh diperlakukan sebagai teori kausal universal yang telah tervalidasi secara empiris.
+Growth Ecology dalam TUMBUH adalah **model konseptual/desain**.
 
-### Inti satu kalimat
+Artinya, model ini digunakan untuk mengorganisasi cara TUMBUH memahami pertumbuhan dan merancang sistemnya.
 
-> **Growth Ecology memastikan TUMBUH melihat pertumbuhan manusia sebagai sesuatu yang berlangsung dalam relasi dan lingkungan, bukan sebagai proses yang terjadi di dalam individu saja.**
+Model ini **belum boleh diperlakukan sebagai teori kausal universal yang telah tervalidasi secara empiris**.
+
+Klaim empiris tentang pengaruh suatu konteks atau hubungan tertentu harus diuji dan dicatat pada layer evidence/research.
+
+---
+
+## Inti satu kalimat
+
+> **Growth Ecology membuat TUMBUH melihat pertumbuhan manusia sebagai proses yang berlangsung dalam lingkungan dan relasi, bukan sebagai sesuatu yang hanya terjadi di dalam diri individu.**
