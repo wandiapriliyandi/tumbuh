@@ -1,65 +1,109 @@
-# 02 CORE MODEL
+# 02 CORE MODEL — Model Inti Sistem TUMBUH
 
-## Purpose
+## Apa itu Core Model?
 
-Domain ini memuat model inti yang menjelaskan mekanisme fundamental Sistem TUMBUH: ekologi pertumbuhan, mekanisme perubahan kapasitas, serta arsitektur kapasitas yang menjadi penghubung menuju progression, assessment, intervention, implementation, dan research.
+**Core Model adalah bagian TUMBUH yang menjelaskan cara kerja dasar sistem.**
 
-## Boundary
+Kalau dibuat sangat sederhana:
 
-Core Model bukan kumpulan program, metode, instrumen, SOP, atau teori yang ditempelkan ke TUMBUH.
+> **Core Model menjawab: pertumbuhan terjadi di mana, bagaimana pertumbuhan berlangsung, dan kapasitas apa yang berkembang.**
 
-Core Model juga tidak menggantikan Foundation, Progression, Assessment, Intervention, atau Implementation.
+Core Model bukan program, bukan metode mengajar, bukan instrumen penilaian, dan bukan kumpulan teori yang ditempelkan ke TUMBUH.
 
-## Structure
+---
+
+## Tiga pertanyaan utama
+
+| Pertanyaan | Komponen |
+|---|---|
+| Pertumbuhan terjadi **di mana dan bersama siapa**? | **Growth Ecology** |
+| Pertumbuhan terjadi **bagaimana**? | **Growth Mechanism** |
+| Yang berkembang **apa**? | **Core Capacity Architecture** |
+
+Komponen lain membantu menjaga agar model tersebut dapat dipakai secara konsisten:
+
+- **System Logic** → menghubungkan bagian-bagian sistem.
+- **Construct Registry** → menjaga agar istilah dan definisi tidak berubah-ubah.
+- **Claim Registry** → menjaga agar setiap klaim memiliki status epistemik yang jelas.
+
+---
+
+## Gambaran paling sederhana
+
+```text
+             DI MANA?
+          GROWTH ECOLOGY
+                │
+                ↓
+             BAGAIMANA?
+         GROWTH MECHANISM
+                │
+                ↓
+             APA YANG
+            BERKEMBANG?
+        CORE CAPACITIES
+                │
+                ↓
+       PROGRESSION • ASSESSMENT
+       INTERVENTION • IMPLEMENTATION
+                │
+                ↓
+              EVIDENCE
+```
+
+Artinya, TUMBUH tidak langsung bertanya **"program apa yang harus dibuat?"**.
+
+TUMBUH lebih dulu bertanya:
+
+1. **Dalam ekologi seperti apa seseorang tumbuh?**
+2. **Melalui proses apa pertumbuhan dapat terjadi?**
+3. **Kapasitas apa yang sedang berkembang?**
+4. Baru kemudian: **bagaimana perkembangan itu dipetakan, diamati, didukung, dan dievaluasi?**
+
+---
+
+## Batas penting
+
+Core Model tidak boleh diam-diam berubah menjadi:
+
+- daftar program;
+- metode pembelajaran;
+- SOP lembaga;
+- instrumen assessment;
+- rubrik;
+- resep intervensi;
+- klaim bahwa suatu mekanisme **pasti** menyebabkan hasil tertentu;
+- atau teori dari luar yang hanya ditempelkan pada TUMBUH.
+
+Status model saat ini adalah **conceptually specified / designed dan masih empirically provisional**. Jadi modelnya sudah dirumuskan untuk menjadi dasar kerja, tetapi belum boleh diperlakukan sebagai teori kausal universal yang telah terbukti.
+
+---
+
+## Struktur
 
 ```text
 02_CORE_MODEL/
 │
-├── README.md
-│
 ├── 01_GROWTH_ECOLOGY/
-│   └── README.md
-│
 ├── 02_GROWTH_MECHANISM/
-│   └── README.md
-│
 ├── 03_CORE_CAPACITY_ARCHITECTURE/
-│   ├── README.md
-│   ├── 01_CORE_CAPACITIES/
-│   │   ├── 01_SELF_REGULATION.md
-│   │   ├── 02_CRITICAL_THINKING.md
-│   │   ├── 03_COMMUNICATION.md
-│   │   ├── 04_COLLABORATION.md
-│   │   ├── 05_PHYSICAL_FUNCTIONING.md
-│   │   ├── 06_SOCIAL_UNDERSTANDING.md
-│   │   ├── 07_AGENCY.md
-│   │   └── 08_PROBLEM_SOLVING.md
-│   ├── 02_FUNCTIONAL_OBJECTS/
-│   ├── 03_FUNCTIONAL_DIMENSIONS/
-│   ├── 04_CAPACITY_RELATIONSHIPS/
-│   └── 05_TRACEABILITY/
-│
 ├── 04_SYSTEM_LOGIC/
-│   └── README.md
-│
 ├── 05_CONSTRUCT_REGISTRY/
-│   └── README.md
-│
 └── 06_CLAIM_REGISTRY/
-    └── README.md
 ```
 
-## Architectural Roles
+### Intinya
 
-| Component | Pertanyaan utama |
-|---|---|
-| Growth Ecology | Di mana, bersama siapa, dan dalam relasi apa pertumbuhan terjadi? |
-| Growth Mechanism | Bagaimana kapasitas berubah melalui pengalaman dan proses pertumbuhan? |
-| Core Capacity Architecture | Kapasitas fungsional apa yang menjadi objek perkembangan? |
-| System Logic | Bagaimana seluruh komponen sistem saling terhubung? |
-| Construct Registry | Apa definisi kanonik setiap konstruk? |
-| Claim Registry | Seberapa kuat dan dalam status epistemik setiap klaim? |
+> **Growth Ecology = tempat dan relasi pertumbuhan.**
+>
+> **Growth Mechanism = bagaimana perubahan kapasitas dapat terjadi.**
+>
+> **Core Capacity Architecture = apa yang berkembang.**
+
+Tiga hal ini adalah pintu masuk untuk memahami Core Model TUMBUH.
 
 ## Status
 
-Architecturally closed for the current stage. Core Model dapat dibuka kembali hanya jika ditemukan gap arsitektural material, kontradiksi substantif, collision antar-layer, kegagalan traceability, atau evidence baru yang secara material mengubah desain.
+**Architecturally closed for the current stage.**
+
+Core Model dibuka kembali hanya jika ditemukan gap arsitektural material, kontradiksi substantif, collision antar-layer, kegagalan traceability, atau evidence baru yang secara material mengubah desain.
