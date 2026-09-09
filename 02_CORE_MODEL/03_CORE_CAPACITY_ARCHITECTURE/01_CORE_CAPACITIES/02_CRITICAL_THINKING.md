@@ -10,7 +10,7 @@
 
 ## Functional Object
 
-Informasi, claims, reasons, dan judgment.
+Informasi, claims, reasons, dan judgment yang relevan dengan apa yang diyakini atau dilakukan.
 
 ## Functional Dimensions
 
@@ -18,6 +18,29 @@ Informasi, claims, reasons, dan judgment.
 2. **Evaluation** — menilai kualitas, relevansi, kecukupan, atau konsistensi informasi dan alasan.
 3. **Inference / Judgment** — membentuk inferensi atau judgment berdasarkan informasi dan alasan yang tersedia.
 4. **Explanation / Justification** — menjelaskan atau memberikan alasan atas judgment yang dibentuk.
+
+Dimensi tersebut adalah cara mengurai functioning Critical Thinking; bukan empat Core Capacity yang terpisah.
+
+## Distinguishing Logic
+
+Critical Thinking dibedakan dari capacity lain berdasarkan fungsi utamanya: **memeriksa dan menilai informasi atau alasan untuk membentuk serta mempertanggungjawabkan judgment**.
+
+- **Critical Thinking vs Problem Solving** — Critical Thinking berfokus pada examination, evaluation, inference, dan justification terhadap informasi/alasan; Problem Solving berfokus pada menangani kesenjangan antara kondisi aktual dan kondisi yang dituju melalui representasi masalah, strategi, tindakan, dan adjustment.
+- **Critical Thinking vs Self-Regulation** — Critical Thinking dapat menggunakan monitoring dan reflection, tetapi objek utamanya adalah informasi/alasan dan judgment; Self-Regulation berfokus pada monitoring dan regulation terhadap functioning serta tindakan diri.
+- **Critical Thinking vs Agency** — Critical Thinking dapat memengaruhi arah tindakan, tetapi membentuk judgment tidak sama dengan menginisiasi dan mengarahkan tindakan secara intentional.
+- **Critical Thinking vs Communication** — Explanation/justification dapat diwujudkan melalui komunikasi, tetapi kemampuan mengomunikasikan alasan bukan identitas construct Critical Thinking itu sendiri.
+
+## Non-Equivalence Rules
+
+Hal-hal berikut tidak boleh diperlakukan sebagai sinonim atau pengganti Critical Thinking:
+
+- pengetahuan yang luas;
+- prestasi akademik;
+- kecerdasan umum;
+- kemampuan verbal semata;
+- skepticism atau disagreement semata;
+- keputusan yang kebetulan benar;
+- kemampuan menyampaikan argumen tanpa kualitas reasoning yang memadai.
 
 ## Boundary
 
@@ -36,7 +59,7 @@ Manifestasi dipengaruhi oleh pengetahuan domain, bahasa, konteks, tuntutan tugas
 
 ## Evidence Territory
 
-Evidence dapat menunjukkan proses pemeriksaan, analisis, evaluasi, inferensi/judgment, dan explanation/justification pada konteks yang relevan. Bukti harus cukup untuk mendukung inference yang dibuat dan tidak boleh diperluas melampaui scope evidence.
+Evidence dapat menunjukkan pola functioning dalam pemeriksaan, analisis, evaluasi, inferensi/judgment, dan explanation/justification pada konteks yang relevan. Bukti harus cukup untuk mendukung inference yang dibuat dan tidak boleh diperluas melampaui scope evidence. Satu jawaban benar atau satu tugas tidak otomatis mewakili keseluruhan capacity.
 
 ## Progression Boundary
 
@@ -56,8 +79,8 @@ Critical Thinking dapat mendukung pembentukan judgment yang selaras dengan arah 
 
 ## Validation Status
 
-Construct telah ditetapkan dalam Core Capacity Architecture secara konseptual. Status empiris tetap **provisional**.
+Construct telah ditetapkan dalam Core Capacity Architecture secara konseptual. Status empiris tetap **provisional**; spesifikasi konseptual tidak sama dengan validasi psikometrik, lintas budaya, atau kausal.
 
 ## Source Trail
 
-Ditulis berdasarkan canonical Core Capacity Architecture dan hasil closure/boundary audit P0001–P0098 di `PROBE/III`.
+Ditulis berdasarkan canonical Core Capacity Architecture dan hasil closure/boundary audit P0001–P0098 di `PROBE/III`. Perubahan substantif pada definisi, functional object, dimensions, boundary, atau intended inference harus ditelusurkan melalui Construct Registry dan Claim Registry.
