@@ -2,74 +2,134 @@
 
 **Status:** PROVISIONAL — CORE MODEL
 
-## Purpose
+## Apa maksudnya?
 
-Growth Ecology menjelaskan **di mana, bersama siapa, dan dalam relasi apa pertumbuhan terjadi** dalam Sistem TUMBUH.
+**Growth Ecology menjelaskan lingkungan dan relasi tempat seseorang tumbuh.**
 
-## Operational Core
+Pertumbuhan santri tidak terjadi sendirian. Ia terjadi dalam hubungan dengan orang lain dan dalam lingkungan tertentu.
 
-TUMBUH menggunakan **Triad Growth** sebagai operational core:
+Jadi pertanyaan utama Growth Ecology adalah:
 
-1. Santri
-2. Guru / Musyrif
-3. Lembaga
+> **"Santri tumbuh di mana, bersama siapa, dan dalam relasi seperti apa?"**
 
-Triad bukan keseluruhan ekologi pertumbuhan. Ia berada di dalam connected contexts yang meliputi keluarga, peers, community, digital environment, dan konteks sosial-budaya yang lebih luas.
+---
 
-## Model
+## Inti TUMBUH: Triad Growth
+
+Dalam TUMBUH, ada tiga aktor utama:
+
+1. **Santri** — orang yang sedang tumbuh.
+2. **Guru/Musyrif** — orang yang mendampingi, membimbing, memberi teladan, dan berinteraksi dengan santri.
+3. **Lembaga** — sistem yang mengatur dan membentuk lingkungan tempat pertumbuhan berlangsung.
+
+Ketiganya disebut **Triad Growth**.
 
 ```text
-                 LINGKUNGAN LUAS
-          budaya • masyarakat • digital
-                     │
-                     ↓
-             ┌───────────────┐
-             │    LEMBAGA    │
-             └───────┬───────┘
-                     ↕
-             ┌───────────────┐
-             │ GURU/MUSYRIF  │
-             └───────┬───────┘
-                     ↕
-             ┌───────────────┐
-             │    SANTRI     │
-             └───────────────┘
-               ↕          ↕
-             KELUARGA     PEER
+              LEMBAGA
+             ↕       ↕
+            ↕         ↕
+     GURU/MUSYRIF ↔ SANTRI
 ```
 
-## Core Proposition
+Tanda panah dua arah penting: hubungan pertumbuhan tidak dipahami hanya sebagai **guru memengaruhi santri**. Kondisi santri, guru, dan lembaga dapat saling berhubungan dan saling memengaruhi.
 
-Pertumbuhan Santri, Guru/Musyrif, dan Lembaga saling terkait dan dapat saling memengaruhi. Relasi tersebut merupakan **model sistem**, bukan otomatis bukti hubungan kausal empiris.
+---
 
-Lembaga tidak diposisikan sekadar sebagai lingkungan pasif. Lembaga dapat membentuk kondisi pertumbuhan melalui tata kelola, budaya, kebijakan, dukungan, dan pengorganisasian pengalaman.
+## Tetapi Triad bukan seluruh lingkungan
 
-## Connected Contexts
+Santri juga berada dalam konteks lain:
 
-Ekologi pertumbuhan dapat mencakup:
+```text
+          MASYARAKAT • BUDAYA • DIGITAL
+                     │
+                     ↓
+                  LEMBAGA
+                     ↕
+               GURU/MUSYRIF
+                     ↕
+                   SANTRI
+                  ↙     ↘
+              KELUARGA   PEER
+```
 
-- keluarga;
-- peers;
-- community;
-- digital environment;
-- konteks sosial dan budaya yang lebih luas.
+Karena itu, **Triad adalah operational core, bukan keseluruhan ecology**.
 
-Connected contexts bukan otomatis Core Capacity atau komponen baru dari Triad.
+Keluarga, teman sebaya, masyarakat, lingkungan digital, dan konteks sosial-budaya dapat menjadi bagian dari ekologi pertumbuhan.
 
-## Boundary
+---
 
-Growth Ecology tidak menetapkan progression stages, assessment instruments, intervention procedures, implementation SOP, program tertentu, atau klaim kausal universal.
+## Mengapa lembaga penting?
 
-## Relationship to CM-02
+Lembaga bukan sekadar "tempat".
 
-Growth Ecology menjelaskan **kondisi dan relasi tempat pertumbuhan berlangsung**. Growth Mechanism menjelaskan **proses melalui mana kapasitas dapat berubah**.
+Lembaga dapat membentuk kondisi pertumbuhan melalui:
 
-Keduanya tidak dilebur menjadi satu model.
+- aturan dan tata kelola;
+- budaya lembaga;
+- kualitas relasi;
+- dukungan yang tersedia;
+- cara pengalaman diorganisasikan;
+- kebijakan dan keputusan sehari-hari.
 
-## Validation Status
+Jadi, kalau pertumbuhan tidak berjalan baik, TUMBUH tidak otomatis menyimpulkan bahwa **masalahnya ada pada santri**. Kondisi ekologinya juga perlu dilihat.
 
-**Conceptual / designed.** Model ini belum merupakan teori kausal tervalidasi.
+---
 
-## Lineage
+## Contoh sederhana
 
-Substansi Triad Growth berasal dari model pertumbuhan triadik yang telah dimigrasikan dalam v2.0.0. Formulasi ecological boundary diperjelas untuk mencegah Triad diperlakukan sebagai keseluruhan ekologi pertumbuhan.
+Seorang santri kesulitan mengatur waktu.
+
+Growth Ecology tidak langsung mengatakan:
+
+> "Santri ini kurang disiplin."
+
+Pertanyaan ekologisnya lebih luas:
+
+- Bagaimana pola pendampingan musyrif?
+- Apakah aturan lembaga jelas?
+- Apakah jadwal terlalu padat?
+- Bagaimana budaya teman sebaya?
+- Apakah keluarga memiliki peran tertentu?
+- Apakah lingkungan digital ikut memengaruhi?
+
+Pertanyaan-pertanyaan ini **tidak otomatis menentukan penyebab**. Tujuannya adalah memastikan pertumbuhan dipahami dalam konteks yang benar.
+
+---
+
+## Apa yang TIDAK dijelaskan Growth Ecology?
+
+Growth Ecology bukan:
+
+- tahapan perkembangan;
+- rubrik penilaian;
+- instrumen assessment;
+- prosedur intervensi;
+- SOP lembaga;
+- program pendidikan tertentu;
+- bukti bahwa satu relasi pasti menyebabkan hasil tertentu.
+
+Itu dibahas di layer lain.
+
+---
+
+## Hubungan dengan Growth Mechanism
+
+Bedakan dua pertanyaan:
+
+**Growth Ecology:**
+> "Di mana dan bersama siapa pertumbuhan berlangsung?"
+
+**Growth Mechanism:**
+> "Bagaimana kapasitas dapat berubah melalui proses pertumbuhan?"
+
+Contohnya, hubungan santri–musyrif adalah bagian dari **ecology**. Apa yang terjadi melalui pengalaman, latihan, feedback, refleksi, dan adaptasi merupakan bagian dari **mechanism**.
+
+---
+
+## Status pengetahuan
+
+Model ini adalah **model konseptual/desain**. Ia belum boleh diperlakukan sebagai teori kausal universal yang telah tervalidasi secara empiris.
+
+### Inti satu kalimat
+
+> **Growth Ecology memastikan TUMBUH melihat pertumbuhan manusia sebagai sesuatu yang berlangsung dalam relasi dan lingkungan, bukan sebagai proses yang terjadi di dalam individu saja.**
