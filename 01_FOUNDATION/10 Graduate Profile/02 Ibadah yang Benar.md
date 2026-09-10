@@ -14,42 +14,15 @@ Dalam TUMBUH, ibadah bukan sekadar rutinitas yang harus dilakukan karena jadwal 
 
 **Shahihul Ibadah** dipertahankan dari legacy sebagai salah satu karakter lulusan, tetapi dalam v2.0.0 ditempatkan sebagai Graduate Profile, bukan Core Capacity.
 
----
-
 ## 2. Makna Ibadah yang Benar
 
-“Ibadah yang benar” memiliki dua dimensi yang perlu dibedakan namun tidak dipisahkan:
+“Ibadah yang benar” memiliki dua dimensi yang perlu dibedakan namun tidak dipisahkan: ketepatan praktik berdasarkan dasar normatif dan kualitas penghayatan sebagai penghambaan kepada Allah.
 
-1. **ketepatan praktik**, yaitu pelaksanaan ibadah berdasarkan dasar normatif yang menjadi rujukan; dan
-2. **kualitas penghayatan**, yaitu kesadaran bahwa ibadah merupakan bentuk penghambaan kepada Allah.
-
-Dengan demikian, kemampuan mengetahui tata cara ibadah penting, tetapi pengetahuan saja belum menggambarkan keseluruhan profil.
-
-Sebaliknya, pengalaman spiritual subjektif juga tidak boleh digunakan untuk menggantikan ketepatan praktik.
-
----
+Kemampuan mengetahui tata cara ibadah penting, tetapi pengetahuan saja belum menggambarkan keseluruhan profil. Sebaliknya, pengalaman spiritual subjektif juga tidak menggantikan ketepatan praktik.
 
 ## 3. Ibadah sebagai Penghambaan
 
-Ibadah menempatkan manusia pada posisi sebagai hamba Allah.
-
-Orientasinya bukan sekadar:
-
-```text
-“melakukan kewajiban karena aturan”
-```
-
-tetapi berkembang menuju:
-
-```text
-mengetahui → memahami → menjalankan → membiasakan → menghayati
-```
-
-Urutan tersebut merupakan bahan kajian perkembangan dan **bukan jenjang resmi Graduate Profile**.
-
-Graduate Profile hanya menetapkan bahwa lulusan diharapkan memiliki praktik ibadah yang benar dan konsisten.
-
----
+Ibadah menempatkan manusia pada posisi sebagai hamba Allah. Dalam perkembangan, seseorang dapat bergerak dari mengetahui, memahami, menjalankan, membiasakan, hingga semakin menghayati. Urutan ini merupakan bahan kajian Progression dan bukan jenjang resmi Graduate Profile.
 
 ## 4. Dimensi Utama
 
@@ -67,80 +40,41 @@ Ibadah dipahami sebagai bagian dari penghambaan kepada Allah, bukan sekadar akti
 
 ### 4.4 Bertanggung Jawab
 
-Lulusan memahami bahwa pelaksanaan ibadah merupakan bagian dari tanggung jawab dirinya sebagai Muslim.
-
----
+Lulusan memahami pelaksanaan ibadah sebagai bagian dari tanggung jawab dirinya sebagai Muslim.
 
 ## 5. Manifestasi Kehidupan
 
-Shahihul Ibadah dapat hadir dalam berbagai konteks kehidupan:
+Shahihul Ibadah dapat hadir dalam pelaksanaan ibadah wajib, ibadah sunnah sesuai kapasitas dan pembinaan, kesiapan menjalankan ibadah, menjaga ketepatan praktik, dan membawa kesadaran penghambaan ke dalam kehidupan sehari-hari.
 
-- pelaksanaan ibadah wajib;
-- ibadah sunnah sesuai kapasitas dan pembinaan;
-- kesiapan menjalankan ibadah tanpa ketergantungan penuh pada pengingat eksternal;
-- menjaga ketepatan praktik;
-- membawa kesadaran penghambaan ke dalam kehidupan sehari-hari.
-
-Manifestasi tidak boleh direduksi menjadi satu indikator frekuensi. Dua orang dapat memiliki frekuensi yang sama tetapi berbeda dalam pemahaman, kesadaran, dan konsistensi.
-
----
+Manifestasi tidak direduksi menjadi satu indikator frekuensi. Frekuensi yang sama tidak selalu menunjukkan pemahaman, kesadaran, dan konsistensi yang sama.
 
 ## 6. Apa yang Bukan Ibadah yang Benar?
 
-Shahihul Ibadah bukan:
-
-- sekadar hafalan tata cara;
-- sekadar banyaknya aktivitas ibadah;
-- kepatuhan administratif;
-- performa karena takut kepada pengawas;
-- skor Self-Regulation;
-- atau ukuran tunggal kualitas spiritual seseorang.
+Shahihul Ibadah bukan sekadar hafalan tata cara, banyaknya aktivitas ibadah, kepatuhan administratif, performa karena takut kepada pengawas, skor Self-Regulation, atau ukuran tunggal kualitas spiritual seseorang.
 
 Kesalahan dalam praktik perlu dibedakan antara persoalan pengetahuan, keterampilan, kebiasaan, kondisi, dan orientasi. Graduate Profile tidak memberikan vonis menyeluruh hanya berdasarkan satu kesalahan.
 
----
-
 ## 7. Relasi dengan Foundation
 
-Profil ini terutama berakar pada **Worldview, Human Nature, Education,** dan **Core Principles**.
-
-Foundation menjelaskan mengapa manusia dipandang sebagai makhluk yang memiliki tanggung jawab penghambaan dan mengapa pendidikan perlu membentuk praktik kehidupan yang selaras dengan orientasi tersebut.
-
-Graduate Profile kemudian merumuskan bentuk lulusan yang dituju.
-
----
+Profil ini terutama berakar pada **Worldview, Human Nature, Education,** dan **Core Principles**. Foundation menjelaskan dasar pandangan tentang manusia, pendidikan, dan penghambaan; Graduate Profile merumuskan bentuk lulusan yang dituju.
 
 ## 8. Relasi dengan Core Capacities
 
-**Self-Regulation** dan **Agency** merupakan relasi fungsional utama. Self-Regulation membantu menjaga konsistensi praktik, sedangkan Agency membantu manusia mengarahkan pilihannya secara sadar.
-
-Capacity tersebut bukan pengganti penilaian terhadap ibadah. Relasinya bersifat **many-to-many**, bukan kausal satu arah.
-
----
+**Self-Regulation** dan **Agency** merupakan relasi fungsional utama. Keduanya menopang manifestasi, tetapi bukan pengganti penilaian terhadap ibadah. Relasi bersifat **many-to-many**, bukan kausal satu arah.
 
 ## 9. Relasi dengan Progression
 
-Pertanyaan seperti bagaimana seseorang bergerak dari:
+Progression nantinya menjawab bagaimana praktik ibadah berkembang dari pengetahuan dan kemampuan awal menuju konsistensi dan kesadaran penghambaan yang semakin matang.
 
 ```text
-mengetahui ibadah
-→ memahami makna
-→ mampu melaksanakan
-→ konsisten
-→ semakin sadar dalam penghambaan
+mengetahui → memahami → melaksanakan → konsisten → semakin sadar
 ```
 
-merupakan wilayah Progression.
-
-Graduate Profile tidak menetapkan usia, tahap, atau level perkembangan.
-
----
+Ini bukan jenjang resmi Graduate Profile.
 
 ## 10. Rumusan Graduate Profile
 
 > **Lulusan TUMBUH menjalankan ibadah dengan benar, sadar akan orientasi penghambaan kepada Allah, dan mampu menjaganya secara konsisten dalam kehidupan.**
-
----
 
 ## 11. Boundary dan Status
 
