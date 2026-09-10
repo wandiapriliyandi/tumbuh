@@ -1,112 +1,81 @@
 # Core Capacity 07 — Agency
 
 ## Status
-
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Construct Identity
+## Gampangnya
+**Agency adalah kemampuan untuk sengaja bertindak: memulai, menentukan arah, dan menjalankan tindakan dalam kondisi nyata.**
 
-Agency concerns the person's capacity to initiate, direct, and intentionally enact action within the conditions that actually shape the person's room for action. It concerns **authored action under conditions**, not unrestricted control over outcomes.
+Agency **bukan berarti bebas melakukan apa saja**. Setiap orang punya batasan, aturan, sumber daya, relasi, dan dukungan yang memengaruhi ruang untuk bertindak.
 
-## Definition
+**Contoh:** seorang santri melihat masalah kebersihan, memutuskan ikut menangani, mengajak beberapa teman, lalu menyesuaikan caranya ketika kondisi di lapangan berubah.
 
+## Definisi
 > Kapasitas untuk menginisiasi dan mengarahkan tindakan secara sengaja dalam kondisi nyata, termasuk ketika terdapat batasan, peluang, dan dukungan yang memengaruhi ruang bertindak.
 
-## Functional Object
+## Tiga Fungsi Utama
+1. **Initiation — memulai:** mengambil langkah secara sengaja ketika ada tujuan, kebutuhan, alasan, atau peluang.
+2. **Direction — mengarahkan:** menentukan ke mana tindakan dibawa.
+3. **Intentional Action under Conditions — bertindak dalam kondisi nyata:** menjalankan dan menyesuaikan tindakan sesuai peluang, batasan, resources, aturan, dan dukungan.
 
-**Intentional action under real conditions** — tindakan yang diinisiasi dan diarahkan secara sengaja oleh individu dalam ruang bertindak yang dibentuk oleh tujuan, peluang, batasan, resources, relasi, aturan, dan dukungan yang tersedia.
+## Pertanyaan Kunci
+> **“Apakah orang ini mampu sengaja memulai dan mengarahkan tindakannya dalam ruang yang benar-benar tersedia baginya?”**
 
-Functional Object ini bukan berarti individu mengendalikan seluruh kondisi atau hasil tindakan. Fokusnya adalah kapasitas untuk bertindak secara sengaja dalam ruang kontrol yang benar-benar tersedia.
-
-## Functional Dimensions
-
-1. **Initiation** — memulai tindakan secara sengaja ketika terdapat alasan, tujuan, kebutuhan, atau peluang yang relevan.
-2. **Direction** — mengarahkan tindakan sesuai tujuan atau maksud yang dipilih.
-3. **Intentional Action under Conditions** — menjalankan dan menyesuaikan tindakan dengan mempertimbangkan batasan, peluang, dan dukungan yang nyata.
-
-Ketiga dimensi tersebut adalah **dimensi fungsional dari satu Core Capacity**, bukan tiga kapasitas terpisah dan bukan urutan perkembangan universal.
-
-## Distinguishing Logic
-
-Agency perlu dibedakan dari:
-
-- **Self-Regulation** — mengatur functioning dan tindakan diri; Agency berfokus pada inisiasi, pengarahan, dan enactment tindakan yang disengaja dalam kondisi nyata.
-- **Critical Thinking** — memeriksa dan menilai informasi/alasan; hasil judgment dapat mendukung Agency, tetapi judgment itu sendiri bukan Agency.
-- **Problem Solving** — menangani kesenjangan kondisi dan tujuan; seseorang dapat menunjukkan Agency tanpa sedang menyelesaikan problem tertentu.
-- **Communication** — membentuk, menyampaikan, menerima, dan memaknai pesan; komunikasi dapat menjadi sarana tindakan agentic tetapi bukan identitas Agency.
-- **Collaboration** — mengoordinasikan tindakan bersama; Agency dapat muncul dalam tindakan individual maupun bersama.
-- **Social Understanding** — memahami perspektif, relasi, dan konteks sosial; pemahaman tersebut dapat memengaruhi Agency tetapi tidak identik dengannya.
-- **Physical Functioning** — kapasitas fungsi fisik relatif terhadap tuntutan; keterbatasan fisik dapat mempersempit ruang bertindak tanpa otomatis menghapus Agency.
-
-## Non-Equivalence Rules
-
+## Bukan Ini
 Agency **bukan**:
-
 - kebebasan tanpa batas;
 - kemandirian absolut;
-- sekadar motivasi, niat, keinginan, atau preferensi;
-- kepemimpinan;
-- keberhasilan atau outcome tindakan;
-- kepatuhan terhadap pilihan yang dibuat pihak lain;
-- trait kepribadian yang diasumsikan tetap;
-- atau ukuran seberapa besar seseorang mampu mengendalikan lingkungan.
+- sekadar punya niat atau keinginan;
+- leadership otomatis;
+- keberhasilan outcome;
+- kemampuan mengendalikan lingkungan.
 
-Intention dan actual action harus dibedakan. Kegagalan mencapai outcome juga tidak otomatis berarti Agency rendah apabila kondisi di luar kontrol individu menjadi pembatas utama.
+Penting membedakan:
+`NIAT → TINDAKAN → HASIL`
 
-## Context and Variability
+Hasil dapat gagal karena faktor di luar kendali individu.
 
-Manifestasi Agency bergantung pada tujuan, opportunity, role/power, aturan, resources, dukungan, risiko, lingkungan, relasi, task demand, informasi yang tersedia, dan batasan nyata.
+## Bedanya dengan Capacity Lain
+- **Agency:** memulai dan mengarahkan tindakan.
+- **Self-Regulation:** mengatur diri dan tindakan.
+- **Critical Thinking:** memeriksa informasi dan alasan.
+- **Problem Solving:** menangani masalah.
+- **Collaboration:** menyelaraskan tindakan bersama.
 
-Karena itu, Agency harus dibaca bersama **actual room for action**. Perbedaan perilaku antar situasi tidak boleh langsung diperlakukan sebagai perbedaan construct tanpa memeriksa perubahan kondisi yang tersedia bagi individu.
+## Functional Object
+**Intentional action under real conditions — tindakan yang disengaja dalam kondisi nyata.**
+
+## Konteks Sangat Penting
+Agency dipengaruhi kesempatan, aturan, role/power, resources, relasi, risiko, dukungan, informasi, dan lingkungan.
+
+Karena itu:
+> **Tidak bertindak ≠ otomatis Agency rendah.**
+
+Bisa saja ruang bertindaknya memang terbatas.
 
 ## Evidence Territory
-
-Evidence dapat menunjukkan pola:
-
-- memulai tindakan secara sengaja;
-- memilih atau menetapkan arah tindakan;
+Bukti dapat melihat pola kemampuan:
+- memulai tindakan;
+- memilih arah;
 - menjalankan maksud melalui tindakan nyata;
 - menyesuaikan tindakan ketika kondisi berubah;
-- serta menggunakan opportunity dan support yang tersedia secara sengaja.
+- menggunakan peluang dan dukungan secara sengaja.
 
-Evidence perlu membedakan sekurang-kurangnya:
+Outcome saja tidak cukup untuk menyimpulkan Agency.
 
-`INTENTION → ACTION → OUTCOME`
+## Batas terhadap Progression & Assessment
+Progression menjelaskan perubahan functioning Agency sepanjang waktu dan kondisi. Assessment harus mempertimbangkan **ruang bertindak yang benar-benar tersedia**.
 
-Ketiganya tidak ekuivalen. Outcome tidak dapat digunakan sendirian sebagai bukti Agency karena dipengaruhi kondisi dan faktor di luar kontrol individu.
+Milestone bukan tahap umur universal.
 
-Evidence juga harus mempertimbangkan apakah kesempatan untuk bertindak memang tersedia. **Tidak bertindak tidak otomatis berarti Agency rendah.**
+## Batas terhadap Intervention
+Jika Agency tampak rendah, response tidak selalu berupa “memperbaiki orang”. Bisa jadi yang perlu diubah adalah opportunity, aturan, role, resources, lingkungan, atau support.
 
-## Progression Boundary
-
-Progression menjelaskan perubahan functioning Agency sepanjang waktu dan lintas kondisi. Milestone bukan universal stage, dan performa dalam satu kondisi tidak otomatis mewakili keseluruhan capacity.
-
-Perubahan ruang bertindak akibat lingkungan, role, resources, support, atau constraint tidak boleh keliru dibaca sebagai perubahan construct tanpa evidence yang memadai.
-
-## Intervention Boundary
-
-Hambatan Agency tidak otomatis berarti deficit capacity. Response dapat diarahkan pada opportunity, choice architecture, role, resources, environment, relationship, support, skill, atau functioning individu sesuai kebutuhan.
-
-Intervention yang memperluas opportunity atau mengurangi constraint tidak boleh dianggap sebagai bukti bahwa capacity sebelumnya pasti rendah.
-
-## Relationship to Other Capacities
-
-Agency dapat berhubungan dengan Self-Regulation, Critical Thinking, Communication, Collaboration, Social Understanding, Problem Solving, dan Physical Functioning. Hubungan tersebut bersifat **functional/relational** dan tidak otomatis causal.
-
-Klaim bahwa Agency menyebabkan, memprediksi, atau menghasilkan perubahan pada capacity lain memerlukan pencatatan dan bukti yang sesuai dalam **Claim Registry**.
-
-## Normative Traceability
-
-Agency dapat mendukung orientasi Graduate Profile seperti tanggung jawab dan kesanggupan bertindak, tetapi tidak identik dengan Muwashofat, nilai, adab, atau akhlak tertentu.
-
-> **Penting secara normatif tidak berarti otomatis menjadi Core Capacity.**
+## Hubungan dengan TUMBUH
+Agency dapat mendukung tanggung jawab dan kesanggupan bertindak dalam Graduate Profile, tetapi **tidak identik dengan Muwashofat, nilai, adab, atau akhlak tertentu**.
 
 ## Validation Status
-
-Construct ditetapkan secara arsitektural dan konseptual. Status empiris tetap **provisional**.
-
-Belum dapat diperlakukan sebagai construct yang telah tervalidasi secara universal, psikometrik, kausal, atau lintas budaya hanya berdasarkan spesifikasi konseptual ini.
+Spesifikasi konseptual ditetapkan dalam arsitektur TUMBUH; status empiris tetap **provisional**.
 
 ## Source Trail
-
-Ditulis berdasarkan canonical Core Capacity Architecture dan hasil closure/boundary audit P0001–P0098 di `PROBE/III`.
+Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
