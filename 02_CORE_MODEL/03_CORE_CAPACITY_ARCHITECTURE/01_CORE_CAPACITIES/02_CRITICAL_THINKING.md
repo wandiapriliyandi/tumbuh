@@ -1,86 +1,81 @@
 # Core Capacity 02 — Critical Thinking
 
 ## Status
-
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Definition
+## Gampangnya
+**Critical Thinking adalah kemampuan berpikir dengan memeriksa alasan dan informasi sebelum percaya atau bertindak.**
 
+Bukan berarti suka membantah. Bukan juga berarti harus selalu benar.
+
+**Contoh:** mendapat informasi “kalau melakukan X pasti berhasil”. Orang dengan Critical Thinking tidak langsung percaya. Ia bertanya: *Apa buktinya? Apakah informasinya cukup? Ada kemungkinan lain? Mengapa saya harus menerima kesimpulan ini?*
+
+## Definisi
 > Kapasitas untuk memeriksa, menganalisis, mengevaluasi, menginferensikan, dan menjelaskan informasi atau alasan secara reflektif untuk membentuk judgment yang tepat terhadap apa yang diyakini atau dilakukan.
 
-## Functional Object
+## Empat Fungsi Utama
+1. **Examination / Analysis — memeriksa** informasi, klaim, dan alasan.
+2. **Evaluation — menilai** kualitas, relevansi, kecukupan, dan konsistensinya.
+3. **Inference / Judgment — menyimpulkan** apa yang paling masuk akal berdasarkan informasi yang tersedia.
+4. **Explanation / Justification — menjelaskan** mengapa judgment tersebut dibuat.
 
-Informasi, claims, reasons, dan judgment yang relevan dengan apa yang diyakini atau dilakukan.
+> Empat fungsi ini adalah bagian dari satu capacity, bukan empat capacity baru.
 
-## Functional Dimensions
+## Pertanyaan Kunci
+> **“Apakah orang ini mampu memeriksa informasi dan alasan, menilainya, lalu membentuk serta menjelaskan judgment?”**
 
-1. **Examination / Analysis** — memeriksa dan menganalisis informasi, klaim, atau alasan yang relevan.
-2. **Evaluation** — menilai kualitas, relevansi, kecukupan, atau konsistensi informasi dan alasan.
-3. **Inference / Judgment** — membentuk inferensi atau judgment berdasarkan informasi dan alasan yang tersedia.
-4. **Explanation / Justification** — menjelaskan atau memberikan alasan atas judgment yang dibentuk.
-
-Dimensi tersebut adalah cara mengurai functioning Critical Thinking; bukan empat Core Capacity yang terpisah.
-
-## Distinguishing Logic
-
-Critical Thinking dibedakan dari capacity lain berdasarkan fungsi utamanya: **memeriksa dan menilai informasi atau alasan untuk membentuk serta mempertanggungjawabkan judgment**.
-
-- **Critical Thinking vs Problem Solving** — Critical Thinking berfokus pada examination, evaluation, inference, dan justification terhadap informasi/alasan; Problem Solving berfokus pada menangani kesenjangan antara kondisi aktual dan kondisi yang dituju melalui representasi masalah, strategi, tindakan, dan adjustment.
-- **Critical Thinking vs Self-Regulation** — Critical Thinking dapat menggunakan monitoring dan reflection, tetapi objek utamanya adalah informasi/alasan dan judgment; Self-Regulation berfokus pada monitoring dan regulation terhadap functioning serta tindakan diri.
-- **Critical Thinking vs Agency** — Critical Thinking dapat memengaruhi arah tindakan, tetapi membentuk judgment tidak sama dengan menginisiasi dan mengarahkan tindakan secara intentional.
-- **Critical Thinking vs Communication** — Explanation/justification dapat diwujudkan melalui komunikasi, tetapi kemampuan mengomunikasikan alasan bukan identitas construct Critical Thinking itu sendiri.
-
-## Non-Equivalence Rules
-
-Hal-hal berikut tidak boleh diperlakukan sebagai sinonim atau pengganti Critical Thinking:
-
-- pengetahuan yang luas;
-- prestasi akademik;
+## Bukan Ini
+Critical Thinking **bukan**:
+- sekadar punya banyak pengetahuan;
 - kecerdasan umum;
-- kemampuan verbal semata;
-- skepticism atau disagreement semata;
-- keputusan yang kebetulan benar;
-- kemampuan menyampaikan argumen tanpa kualitas reasoning yang memadai.
+- prestasi akademik;
+- suka skeptis atau suka membantah;
+- bisa bicara dengan lancar;
+- kebetulan mendapat jawaban benar.
 
-## Boundary
+Jawaban benar belum tentu lahir dari reasoning yang baik.
 
-Critical Thinking bukan:
+## Bedanya dengan Capacity Lain
+- **Critical Thinking:** menilai informasi/alasan dan membentuk judgment.
+- **Problem Solving:** menangani masalah dan mencari jalan keluar.
+- **Self-Regulation:** mengatur diri dan tindakan.
+- **Agency:** memulai dan mengarahkan tindakan.
+- **Communication:** membentuk dan menyampaikan pesan.
 
-- sekadar memiliki banyak pengetahuan;
-- kecerdasan atau kemampuan kognitif umum;
-- satu jawaban benar pada satu tes;
-- skepticism tanpa dasar;
-- keputusan moral itu sendiri;
-- atau ukuran kemampuan akademik secara keseluruhan.
+Satu tindakan bisa memakai beberapa capacity sekaligus.
 
-## Context
+## Functional Object
+**Informasi, klaim, alasan, dan judgment yang relevan dengan apa yang diyakini atau dilakukan.**
 
-Manifestasi dipengaruhi oleh pengetahuan domain, bahasa, konteks, tuntutan tugas, informasi yang tersedia, dukungan, teknologi, dan kesempatan untuk memeriksa atau menjelaskan alasan. Variasi performance tidak otomatis menunjukkan perubahan construct.
+## Konteks Penting
+Critical Thinking dapat dipengaruhi pengetahuan domain, bahasa, informasi yang tersedia, tuntutan tugas, teknologi, dan kesempatan untuk memeriksa bukti.
+
+Karena itu:
+> **Gagal menjawab satu soal ≠ otomatis Critical Thinking rendah.**
 
 ## Evidence Territory
+Bukti dapat melihat apakah seseorang mampu:
+- memeriksa informasi;
+- membandingkan atau menilai alasan;
+- menarik kesimpulan;
+- menjelaskan dasar kesimpulannya;
+- memperbaiki judgment ketika informasi baru muncul.
 
-Evidence dapat menunjukkan pola functioning dalam pemeriksaan, analisis, evaluasi, inferensi/judgment, dan explanation/justification pada konteks yang relevan. Bukti harus cukup untuk mendukung inference yang dibuat dan tidak boleh diperluas melampaui scope evidence. Satu jawaban benar atau satu tugas tidak otomatis mewakili keseluruhan capacity.
+Satu soal atau satu jawaban benar tidak otomatis mewakili seluruh capacity.
 
-## Progression Boundary
+## Batas terhadap Progression & Assessment
+Progression menjelaskan perubahan functioning Critical Thinking sepanjang waktu. Assessment mencari bukti yang cukup untuk inference tertentu.
 
-Progression menjelaskan perubahan functioning Critical Thinking terhadap waktu atau tuntutan. Milestone bukan universal stage dan skor bukan representasi tunggal dari seluruh capacity.
+Milestone bukan tahap umur universal dan skor bukan keseluruhan kapasitas.
 
-## Intervention Boundary
+## Batas terhadap Intervention
+Kesulitan dapat berasal dari kurangnya pengetahuan, informasi, bahasa, struktur tugas, atau dukungan. Jangan langsung menyebutnya deficit capacity.
 
-Kesulitan pada satu tugas tidak otomatis berarti deficit Critical Thinking. Response dapat diarahkan pada knowledge/resource, task demand, information environment, opportunity, scaffolding, atau functioning capacity sesuai evidence.
-
-## Relationship to Other Capacities
-
-Critical Thinking dapat berhubungan dengan Problem Solving, Self-Regulation, Communication, Agency, dan Social Understanding. Hubungan tersebut bersifat functional/relational dan tidak otomatis causal.
-
-## Normative Traceability
-
-Critical Thinking dapat mendukung pembentukan judgment yang selaras dengan arah pendidikan TUMBUH, tetapi capacity ini tidak identik dengan nilai, aqidah, adab, atau Muwashofat.
+## Hubungan dengan TUMBUH
+Critical Thinking mendukung kemampuan membentuk judgment yang baik, tetapi **tidak identik dengan nilai, aqidah, adab, atau Muwashofat tertentu**.
 
 ## Validation Status
-
-Construct telah ditetapkan dalam Core Capacity Architecture secara konseptual. Status empiris tetap **provisional**; spesifikasi konseptual tidak sama dengan validasi psikometrik, lintas budaya, atau kausal.
+Spesifikasi ini merupakan keputusan arsitektural-konseptual TUMBUH. Status empiris tetap **provisional**.
 
 ## Source Trail
-
-Ditulis berdasarkan canonical Core Capacity Architecture dan hasil closure/boundary audit P0001–P0098 di `PROBE/III`. Perubahan substantif pada definisi, functional object, dimensions, boundary, atau intended inference harus ditelusurkan melalui Construct Registry dan Claim Registry.
+Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
