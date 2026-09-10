@@ -1,88 +1,75 @@
 # Core Capacity 05 — Physical Functioning
 
 ## Status
-
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Definition
+## Gampangnya
+**Physical Functioning adalah kemampuan menggunakan fungsi tubuh untuk melakukan aktivitas sesuai tuntutan yang ada.**
 
+Fokusnya bukan “seberapa kuat atau sehat tubuh seseorang”, tetapi **seberapa baik fungsi fisiknya dapat digunakan untuk menjalankan aktivitas dalam kondisi tertentu.**
+
+**Contoh:** kemampuan berjalan, bergerak, memegang benda, mempertahankan aktivitas, atau menggunakan alat sesuai kebutuhan aktivitas.
+
+## Definisi
 > Kapasitas untuk menjalankan fungsi fisik yang diperlukan oleh aktivitas atau tuntutan konteks secara memadai.
 
-## Functional Object
+## Tiga Fungsi Utama
+1. **Mobility / Movement — bergerak:** berpindah atau menggerakkan tubuh sesuai aktivitas.
+2. **Manipulation / Control — mengendalikan:** mengontrol tubuh, gerakan, atau objek yang digunakan.
+3. **Endurance / Function Relative to Demand — mempertahankan fungsi:** mempertahankan fungsi fisik sesuai tuntutan aktivitas.
 
-Physical functioning yang diperlukan untuk menjalankan aktivitas atau memenuhi tuntutan konteks, termasuk gerak, kontrol, dan pemeliharaan fungsi yang relevan terhadap demand.
+## Pertanyaan Kunci
+> **“Apakah fungsi fisik orang ini cukup untuk menjalankan aktivitas yang sedang dituntut, dengan kondisi dan dukungan yang tersedia?”**
 
-## Functional Dimensions
-
-1. **Mobility / Movement** — menjalankan perpindahan dan gerak tubuh yang relevan dengan aktivitas.
-2. **Manipulation / Control** — mengendalikan atau memanipulasi tubuh, objek, atau gerakan yang diperlukan untuk aktivitas.
-3. **Endurance / Function Relative to Demand** — mempertahankan fungsi fisik secara memadai relatif terhadap tuntutan aktivitas dan konteks.
-
-Dimensi tersebut merupakan cara mengurai functioning Physical Functioning, bukan tiga Core Capacity yang terpisah.
-
-## Distinguishing Logic
-
-Physical Functioning dibedakan berdasarkan fungsi utamanya: **kemampuan menjalankan fungsi fisik yang dibutuhkan untuk melakukan aktivitas secara memadai relatif terhadap tuntutan dan kondisi yang relevan**.
-
-- **Physical Functioning vs Self-Regulation** — Physical Functioning menyangkut fungsi fisik yang dapat digunakan untuk menjalankan aktivitas; Self-Regulation menyangkut monitoring dan regulation terhadap functioning serta tindakan diri.
-- **Physical Functioning vs Agency** — kemampuan melakukan gerak atau aktivitas fisik tidak dengan sendirinya menunjukkan bahwa seseorang menginisiasi atau mengarahkan tindakan secara intentional.
-- **Physical Functioning vs Performance** — hasil satu aktivitas dipengaruhi demand, environment, accessibility, equipment, support, dan kondisi saat itu; performance tersebut tidak otomatis sama dengan capacity.
-- **Physical Functioning vs Health** — physical functioning adalah kapasitas fungsional dalam aktivitas; ia bukan ukuran kesehatan secara keseluruhan atau diagnosis medis.
-
-## Non-Equivalence Rules
-
-Hal-hal berikut tidak boleh diperlakukan sebagai sinonim atau pengganti Physical Functioning:
-
-- kesehatan secara keseluruhan;
-- kekuatan fisik semata;
-- kebugaran semata;
-- kemampuan olahraga tertentu;
-- penampilan atau bentuk tubuh;
-- diagnosis atau label medis;
-- satu ukuran fisik tunggal;
-- kemampuan melakukan satu tugas tertentu tanpa memperhatikan demand dan kondisi.
-
-Functioning harus dipahami relatif terhadap aktivitas dan tuntutan yang relevan, bukan terhadap satu standar fisik universal.
-
-## Boundary
-
-Physical Functioning bukan:
-
+## Bukan Ini
+Physical Functioning **bukan**:
 - ukuran kesehatan secara keseluruhan;
-- kekuatan atau kebugaran sebagai satu-satunya indikator;
+- kekuatan fisik saja;
+- kebugaran saja;
 - kemampuan olahraga tertentu;
-- penampilan fisik;
-- diagnosis atau label medis;
-- atau nilai moral seseorang.
+- bentuk tubuh atau penampilan;
+- diagnosis medis;
+- satu ukuran fisik tunggal.
 
-## Context
+## Bedanya dengan Capacity Lain
+- **Physical Functioning:** fungsi tubuh untuk menjalankan aktivitas.
+- **Self-Regulation:** mengatur diri dan tindakan.
+- **Agency:** memulai dan mengarahkan tindakan.
+- **Problem Solving:** menangani masalah.
 
-Manifestasi bergantung pada tuntutan aktivitas, lingkungan fisik, aksesibilitas, alat bantu, kondisi tugas, durasi, keselamatan, support, dan karakteristik konteks. Functioning harus dipahami relatif terhadap demand yang relevan. Perbedaan dukungan atau accessibility tidak boleh otomatis ditafsirkan sebagai perbedaan capacity.
+Seseorang dapat memiliki keterbatasan fisik tetapi tetap memiliki Agency dan capacity lain yang baik.
+
+## Functional Object
+**Fungsi fisik yang diperlukan untuk menjalankan aktivitas atau memenuhi tuntutan konteks.**
+
+## Konteks Sangat Penting
+Functioning fisik dipengaruhi tuntutan aktivitas, lingkungan, accessibility, alat bantu, durasi, keselamatan, kondisi saat itu, dan dukungan.
+
+Karena itu:
+> **Tidak mampu melakukan satu aktivitas ≠ otomatis kapasitas fisiknya rendah.**
+
+Bisa jadi aktivitasnya terlalu berat, alatnya tidak tersedia, lingkungan tidak aksesibel, atau dukungannya berbeda.
 
 ## Evidence Territory
+Bukti dapat melihat pola kemampuan:
+- bergerak;
+- mengontrol gerakan atau objek;
+- mempertahankan fungsi;
+- menjalankan aktivitas dengan tuntutan fisik yang relevan.
 
-Evidence dapat menunjukkan pola kemampuan menjalankan fungsi fisik yang dibutuhkan oleh aktivitas dalam kondisi yang relevan. Evidence perlu membedakan capacity dari task demand, accessibility, equipment, support, fatigue, safety, dan kondisi lingkungan. Satu performa fisik atau satu ukuran tidak otomatis mewakili keseluruhan capacity.
+Bukti harus memperhatikan demand, accessibility, equipment, support, fatigue, dan safety.
 
-## Progression Boundary
+## Batas terhadap Progression & Assessment
+Progression menjelaskan perubahan functioning sepanjang waktu atau ketika tuntutan berubah. Assessment tidak boleh menyamakan satu ukuran fisik dengan seluruh capacity.
 
-Progression menjelaskan perubahan functioning sepanjang waktu atau perubahan tuntutan. Tidak ada asumsi universal bahwa satu ukuran fisik atau satu urutan perkembangan mewakili seluruh capacity.
+## Batas terhadap Intervention
+Response tidak selalu harus “melatih tubuh”. Bisa juga memperbaiki lingkungan, alat bantu, accessibility, struktur tugas, keselamatan, atau dukungan.
 
-## Intervention Boundary
-
-Kesulitan physical functioning tidak otomatis berarti deficit capacity. Response dapat diarahkan pada lingkungan, accessibility, alat bantu, task adaptation, opportunity, support, keselamatan, atau functioning individu sesuai kebutuhan dan evidence.
-
-## Relationship to Other Capacities
-
-Physical Functioning dapat berhubungan dengan Self-Regulation, Agency, Problem Solving, dan kapasitas lain melalui tuntutan aktivitas dan konteks. Hubungan tersebut bersifat functional/relational dan tidak otomatis causal.
-
-## Normative Traceability
-
-Physical Functioning dapat mendukung tujuan Graduate Profile, termasuk tuntutan functioning yang sehat dan produktif, tetapi tidak identik dengan Qawiyyul Jism atau Muwashofat lain secara satu-banding-satu.
+## Hubungan dengan TUMBUH
+Physical Functioning dapat mendukung tujuan Graduate Profile dan berkaitan dengan **Qawiyyul Jism**, tetapi **tidak identik satu-banding-satu dengan Qawiyyul Jism atau Muwashofat lain**.
 
 ## Validation Status
-
-Construct ditetapkan secara arsitektural dan konseptual. Status empiris tetap **provisional**; spesifikasi konseptual tidak sama dengan validasi psikometrik, lintas budaya, medis, atau kausal.
+Spesifikasi konseptual ditetapkan dalam arsitektur TUMBUH; status empiris tetap **provisional**.
 
 ## Source Trail
-
-Ditulis berdasarkan canonical Core Capacity Architecture dan hasil closure/boundary audit P0001–P0098 di `PROBE/III`. Perubahan substantif pada definisi, functional object, dimensions, boundary, atau intended inference harus ditelusurkan melalui Construct Registry dan Claim Registry.
+Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
