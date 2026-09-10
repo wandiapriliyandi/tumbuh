@@ -1,102 +1,93 @@
 # Core Capacity 01 — Self-Regulation
 
 ## Status
-
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Definition
+## Gampangnya
+**Self-Regulation adalah kemampuan mengatur diri sendiri.**
 
+Bukan berarti selalu tenang, selalu patuh, atau tidak pernah salah. Intinya adalah: **saya bisa melihat bagaimana diri saya sedang berjalan, mengatur tindakan saya, lalu mengubah arah jika diperlukan.**
+
+**Contoh:** seorang santri sadar bahwa waktunya habis untuk bermain gawai, lalu mengurangi penggunaannya dan kembali mengerjakan tugas. Yang penting bukan sekadar hasil akhirnya, tetapi adanya proses melihat keadaan → mengatur diri → mengubah arah.
+
+## Definisi
 > Kapasitas untuk memonitor dan mengatur functioning serta tindakan diri agar tetap atau kembali selaras dengan arah atau tujuan yang relevan.
 
-## Construct Identity
+## Tiga Fungsi Utama
 
-Self-Regulation berfokus pada **pengelolaan functioning dan tindakan diri oleh individu relatif terhadap arah atau tujuan yang relevan**. Identitas construct terletak pada fungsi monitoring, regulation, dan reorientation; bukan pada hasil akhir tertentu, kepatuhan, atau keadaan internal tertentu.
+1. **Monitoring — melihat diri**  
+   Menyadari keadaan, tindakan, atau kondisi diri yang sedang terjadi.
+
+2. **Regulation — mengatur diri**  
+   Mengubah atau mengendalikan respons dan tindakan agar sesuai dengan arah atau tujuan.
+
+3. **Reorientation — mengembalikan arah**  
+   Ketika melenceng atau kondisi berubah, mampu menyesuaikan dan kembali ke arah yang relevan.
+
+> Ketiganya adalah **cara kerja satu kapasitas**, bukan tiga kapasitas berbeda.
+
+## Yang Sebenarnya Diukur/Diamati
+Pertanyaan sederhananya:
+
+> **“Apakah orang ini mampu mengatur functioning dan tindakannya sendiri ketika menghadapi tuntutan, gangguan, perubahan, atau hambatan?”**
+
+## Bukan Ini
+Self-Regulation **bukan**:
+- sekadar patuh aturan;
+- sekadar mampu menahan emosi;
+- sekadar punya motivasi atau niat;
+- sekadar mendapat hasil yang baik;
+- trait kepribadian tetap;
+- ukuran baik-buruknya seseorang.
+
+Orang bisa patuh karena diawasi. Itu belum otomatis berarti mampu mengatur dirinya sendiri.
+
+## Bedanya dengan Capacity Lain
+- **Self-Regulation:** mengatur diri dan tindakan sendiri.
+- **Agency:** memulai dan mengarahkan tindakan secara sengaja.
+- **Critical Thinking:** memeriksa dan menilai informasi/alasan.
+- **Problem Solving:** menangani kesenjangan antara kondisi sekarang dan kondisi yang dituju.
+
+Satu kejadian dapat melibatkan beberapa capacity sekaligus.
 
 ## Functional Object
-
 **Functioning dan tindakan diri relatif terhadap arah atau tujuan yang relevan.**
 
-Functional object ini menjaga agar Self-Regulation tidak bergeser menjadi kapasitas umum untuk mencapai tujuan. Yang menjadi objek adalah bagaimana individu memonitor dan mengatur functioning/tindakannya sendiri ketika berhadapan dengan tuntutan, penyimpangan, perubahan kondisi, atau hambatan.
+Artinya, yang menjadi fokus bukan “orang ini baik atau buruk”, tetapi **bagaimana ia mengelola dirinya ketika sedang menjalankan sesuatu.**
 
-## Functional Dimensions
+## Konteks Penting
+Kemampuan yang tampak dapat berbeda karena tugas, lingkungan, dukungan, aturan, relasi, teknologi, kondisi fisik, atau kesempatan bertindak berubah.
 
-1. **Monitoring** — memperhatikan dan mengenali keadaan, tindakan, atau functioning diri yang relevan terhadap arah/tujuan.
-2. **Regulation** — mengatur respons, tindakan, atau functioning diri berdasarkan keadaan yang dikenali dan arah/tujuan yang relevan.
-3. **Reorientation** — menyesuaikan atau mengembalikan arah tindakan ketika terjadi penyimpangan, perubahan kondisi, atau hambatan.
-
-Ketiga dimensi ini adalah **functional dimensions**, bukan tiga Core Capacity terpisah. Tidak semua manifestasi harus menampilkan ketiganya dengan intensitas yang sama pada setiap situasi.
-
-## Distinguishing Logic
-
-Self-Regulation dapat dibedakan dari kapasitas lain dengan pertanyaan utama:
-
-> **Apakah yang sedang dijelaskan adalah kemampuan individu untuk memonitor dan mengatur functioning atau tindakannya sendiri relatif terhadap arah/tujuan?**
-
-Jika fokus utamanya adalah kualitas penalaran terhadap informasi atau alasan, konstruksinya dapat berada pada **Critical Thinking**. Jika fokus utamanya adalah memulai dan mengarahkan tindakan secara intentional, konstruksinya dapat berada pada **Agency**. Jika fokus utamanya adalah menangani kesenjangan masalah melalui representasi masalah, strategi, dan penyesuaian tindakan, konstruksinya dapat berada pada **Problem Solving**.
-
-Overlap fungsional dengan capacity lain tidak otomatis berarti construct redundancy. Yang harus dibedakan adalah **fungsi yang sedang dijelaskan**, bukan sekadar perilaku permukaan yang terlihat sama.
-
-## Boundary
-
-Self-Regulation bukan:
-
-- sekadar kepatuhan terhadap aturan;
-- satu keadaan emosi tertentu;
-- trait kepribadian;
-- moral value itu sendiri;
-- motivation atau intention;
-- performance pada satu tugas;
-- kemampuan mencapai semua tujuan;
-- atau ukuran harga diri seseorang.
-
-Kesulitan pada satu perilaku juga tidak otomatis membuktikan rendahnya Self-Regulation. Kesulitan dapat berasal dari task demand, kesempatan bertindak, dukungan, sumber daya, kondisi lingkungan, atau capacity lain.
-
-## Context
-
-Manifestasi dapat berubah menurut tuntutan tugas, konteks, dukungan, keadaan, budaya, bahasa, teknologi, dan kesempatan untuk bertindak. Perubahan manifestasi tidak otomatis berarti perubahan identitas construct.
+Karena itu:
+> **Gagal dalam satu situasi ≠ otomatis Self-Regulation rendah secara umum.**
 
 ## Evidence Territory
+Bukti yang relevan dapat melihat pola:
+- mampu mengenali keadaan dirinya;
+- mampu mengatur tindakan;
+- mampu kembali ke arah setelah menyimpang;
+- mampu menyesuaikan diri ketika kondisi berubah.
 
-Evidence dapat berasal dari pola functioning yang menunjukkan kemampuan memonitor, mengatur, dan/atau melakukan reorientasi dalam lebih dari satu situasi yang relevan. Bukti sebaiknya mempertimbangkan variasi konteks dan tuntutan ketika intended inference menuntut generalisasi lintas situasi.
+Satu kejadian atau satu penilaian tidak otomatis mewakili seluruh capacity.
 
-Satu indikator, satu observer, satu episode, atau satu konteks tidak otomatis mewakili keseluruhan capacity.
+## Batas terhadap Progression & Assessment
+Progression nanti menjelaskan **bagaimana functioning Self-Regulation dapat berkembang sepanjang waktu**. Assessment mencari bukti functioning tersebut.
 
-## Non-Equivalence Rules
+Milestone bukan “umur sekian harus begini” dan bukan skor kematangan universal.
 
-- **Self-Regulation ≠ Compliance:** seseorang dapat patuh karena kontrol eksternal tanpa menunjukkan regulation yang terinternalisasi.
-- **Self-Regulation ≠ Motivation:** memiliki keinginan tidak sama dengan mampu mengatur tindakan menuju arah tersebut.
-- **Self-Regulation ≠ Emotional Control:** regulasi emosi dapat menjadi bagian dari functioning, tetapi Self-Regulation tidak identik dengan pengendalian emosi.
-- **Self-Regulation ≠ Performance:** hasil yang buruk tidak otomatis menunjukkan kegagalan regulation.
-- **Self-Regulation ≠ Agency:** keduanya dapat bekerja bersama, tetapi Agency berfokus pada initiation, direction, dan intentional action under conditions; Self-Regulation berfokus pada monitoring dan regulation/reorientation of functioning and action.
+## Batas terhadap Intervention
+Jika seseorang kesulitan mengatur diri, jangan langsung menyimpulkan “capacity-nya rendah”. Bisa jadi masalahnya berasal dari tuntutan tugas, lingkungan, dukungan, resources, atau kesempatan.
 
-## Progression Boundary
+## Hubungan dengan TUMBUH
+Self-Regulation dapat mendukung banyak tujuan Graduate Profile dan Muwashofat, tetapi **tidak sama dengan satu Muwashofat tertentu**.
 
-Progression menjelaskan perubahan functioning Self-Regulation sepanjang waktu atau tuntutan. Milestone atau gateway tidak boleh diperlakukan sebagai universal age stage atau fixed maturity score.
-
-## Intervention Boundary
-
-Kesulitan performance tidak otomatis menunjukkan deficit Self-Regulation. Response dapat diarahkan pada functioning individu, skill/resource, task demand, opportunity, environment, relationship, atau support sesuai evidence dan kebutuhan.
-
-## Relationship to Other Capacities
-
-Self-Regulation dapat berhubungan dengan Critical Thinking, Agency, Communication, Collaboration, Physical Functioning, Social Understanding, dan Problem Solving. Hubungan tersebut bersifat **functional/relational** dan tidak otomatis merupakan bukti hubungan kausal.
-
-Hubungan fungsional tidak mengubah identitas Self-Regulation menjadi capacity lain dan tidak berarti seluruh capacity harus muncul bersama dalam setiap tindakan.
-
-## Normative Traceability
-
-Self-Regulation dapat mendukung berbagai tujuan dalam Graduate Profile dan 10 Muwashofat, tetapi tidak identik dengan aqidah, ibadah, adab, akhlak, atau Muwashofat tertentu.
+> **Penting bagi pendidikan ≠ otomatis menjadi capacity yang sama dengan nilai tersebut.**
 
 ## Validation Status
-
-Construct ini telah ditetapkan secara arsitektural dalam Core Capacity Architecture TUMBUH. Status empiris tetap **provisional**; spesifikasi konseptual tidak sama dengan validasi psikometrik, lintas budaya, atau kausal.
+Spesifikasi ini adalah keputusan arsitektural-konseptual TUMBUH. Status empiris masih **provisional**. Ini belum merupakan bukti validasi psikometrik, kausal, atau universal.
 
 ## Source Trail
-
-Canonical construct card diturunkan dari Core Capacity Architecture dan closure/specification series P0001–P0098 di `PROBE/III`. Definisi dan batas dapat direvisi apabila evidence baru menunjukkan masalah construct boundary, redundancy, underrepresentation, atau intended inference.
+Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
 
 ## Architectural Audit Result
-
-**PASS — current conceptual architecture.**
-
-Self-Regulation memenuhi posisi sebagai Core Capacity karena memiliki fungsi yang dapat dibedakan: monitoring, regulation, dan reorientation of one's own functioning/action relative to relevant direction or goal. Batas terhadap compliance, motivation, emotional state, performance, Agency, dan Problem Solving dinyatakan secara eksplisit. Status ini merupakan penilaian arsitektural-konseptual, bukan validasi empiris.
+**PASS — construct memiliki fungsi yang jelas: melihat, mengatur, dan mengembalikan arah functioning/tindakan diri.**
