@@ -1,7 +1,7 @@
 # 03 Human Nature — Hakikat Manusia
 
 **Status:** Canonical Draft  
-**Layer:** `01_FOUNDATION/03 Human Nature`
+**Layer:** `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE`
 
 Human Nature membahas pertanyaan sederhana tetapi mendasar: **siapa manusia yang hendak dikembangkan oleh TUMBUH?**
 
@@ -27,7 +27,7 @@ Human Nature menetapkan pandangan dasar tentang manusia. Ia tidak menetapkan dia
 
 Pernyataan khusus tentang perkembangan psikologis, fungsi otak, motivasi, atau hubungan sebab-akibat perlu diperiksa melalui Evidence dan Research. Human Nature memberi arah konseptual, bukan menggantikan penelitian.
 
-## Hubungan dengan Foundation Lain
+## Hubungan dengan Fundamental Lain
 
 **Worldview** menjelaskan cara TUMBUH memandang realitas, Allah, kehidupan, dan nilai.  
 **Epistemology** menjelaskan bagaimana pengetahuan diperoleh, diperiksa, dan dinilai.  
