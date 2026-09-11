@@ -1,4 +1,4 @@
-# 05_INTERVENTION / 08 Reinforcement & Recognition
+# 06_INTERVENTION / 08 Reinforcement & Recognition
 
 **Status:** PROPOSED — Wave 5 baseline
 
