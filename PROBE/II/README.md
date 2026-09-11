@@ -1,5 +1,7 @@
-# PROBE II
+# PROBE II — Philosophy
 
-Folder pengelompokan dokumentasi Probe TUMBUH.
+PROBE II adalah ruang penyelidikan yang menelusuri **Philosophy** sebagai dasar pemikiran TUMBUH.
 
-> Pengelompokan Romawi bersifat dokumentatif dan belum merupakan klasifikasi teoritis atas Probe.
+Di sini dicatat pertanyaan, alasan, pertimbangan, kritik, dan keputusan yang membantu menjelaskan mengapa fondasi filosofis TUMBUH disusun seperti sekarang.
+
+PROBE bukan dokumen normatif pengganti `01_FUNDAMENTAL`. Hasil penyelidikan yang telah diputuskan dan ditetapkan masuk ke Foundation; PROBE menyimpan jejak bagaimana pemikiran tersebut dibangun.
