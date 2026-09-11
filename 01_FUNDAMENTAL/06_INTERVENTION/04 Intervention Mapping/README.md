@@ -1,4 +1,4 @@
-# 05_INTERVENTION / 04 Intervention Mapping
+# 06_INTERVENTION / 04 Intervention Mapping
 
 **Status:** PROPOSED — Wave 5 baseline
 
