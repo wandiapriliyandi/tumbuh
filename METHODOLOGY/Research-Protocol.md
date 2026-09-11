@@ -1,36 +1,127 @@
 # Protokol Riset & Standar Keilmiahan Sistem TUMBUH
 
-## 1. Pendahuluan
-Dokumen ini menetapkan protokol metodologis formal untuk menjamin bahwa seluruh konsep, prinsip, asesmen, dan instrumen dalam ekosistem **TUMBUH** bersifat **ilmiah, koheren, dan dapat dipertanggungjawabkan** secara teologis (*Syar'i*), filosofis (*Ontologis-Epistemologis*), dan ilmiah modern (*Empiris-Psikologis*).
+## 1. Tujuan
+
+Dokumen ini menetapkan cara kerja riset dan penilaian keilmuan dalam pengembangan TUMBUH. Tujuannya bukan untuk menyatakan bahwa setiap isi repository otomatis "ilmiah", melainkan untuk membantu memastikan bahwa **klaim dan keputusan desain yang memerlukan dukungan keilmuan memiliki dasar, batas, dan jejak penalaran yang jelas**.
+
+Protokol ini berlaku sebagai pedoman metodologis. Ia tidak menggantikan `PROBE/`, `08_SOURCES_AND_EVIDENCE/`, atau dokumen substantif pada `01_FUNDAMENTAL/`.
 
 ---
 
-## 2. Triangulasi Epistemologis TUMBUH
+## 2. Posisi Metodologi dalam Arsitektur TUMBUH
 
-Setiap dalil atau proposisi yang masuk ke dalam repositori TUMBUH wajib lolos uji triangulasi:
+Metodologi membantu mengatur proses dari bahan dan pertanyaan menuju klaim atau keputusan yang dapat dipertanggungjawabkan.
 
-```mermaid
-graph TD
-    Triangulasi["Triangulasi Epistemologis TUMBUH"]
-    Triangulasi --> N1["1. Validitas Naqliyah (Wahyu & Turats)<br/>Al-Qur'an, Hadits Shahih/Hasan, Ijma' & telaah ulama mu'tabar"]
-    Triangulasi --> N2["2. Validitas 'Aqliyah (Filsafat & Logika)<br/>Koherensi rasional, bebas kontradiksi, deduksi aksiomatis"]
-    Triangulasi --> N3["3. Validitas Waqi'iyyah (Empiris & Sains Modern)<br/>Psikologi perkembangan, neurosains, behavioral science, data lapangan"]
+```text
+SOURCE
+  ↓
+PROBE / RESEARCH
+  ↓
+EVIDENCE
+  ↓
+CLAIM / DECISION
+  ↓
+FUNDAMENTAL
+  ↓
+IMPLEMENTATION
+  ↓
+OPERATIONAL
 ```
 
----
-
-## 3. Tingkatan Otoritas Sumber (Hierarchy of Evidence)
-
-1. **Tingkat 1: Nash Qath'i (Al-Qur'an & Hadits Mutawatir/Shahih)**: Menjadi *Foundational Axiom* (kebenaran mutlak penentu arah/tujuan).
-2. **Tingkat 2: Khazanah Turats & Ijtihad Ulama Salaf-Khalaf** (*Al-Ghazali, Ibnul Qayyim, Ibn Taimiyyah, Raghib Al-Isfahani, Al-Attas*): Menjadi kerangka teoretis penjelas fitrah, tazkiyah, dan adab.
-3. **Tingkat 3: Temuan Sains Kontemporer Berbasis Bukti (*Evidence-Based Science*)** (*CASEL, PBIS, Self-Determination Theory, Restorative Justice*): Menjadi instrumen teknis-metodologis operasional selama tidak bertentangan dengan prinsip Tingkat 1 & 2.
-4. **Tingkat 4: Data Empiris & Best Practices Pesantren**: Observasi lapangan, data perilaku santri harian, dan evaluasi berkala.
+Dengan demikian, metodologi **mengatur cara memperoleh dan menilai dasar keputusan**; metodologi sendiri bukan tempat menetapkan substansi TUMBUH.
 
 ---
 
-## 4. Kriteria Kelolosan Konsep (Scientific Rigor Checklist)
-Sebuah konsep dinyatakan **Valid & Dapat Dipertanggungjawabkan** jika memenuhi 4 syarat:
-- [x] **Falsifiability & Clarity**: Batasan istilah terdefinisi jelas dan tidak ambigu.
-- [x] **Theological Consistency**: Tidak mengandung reduksionisme sekuler atau relativisme nilai.
-- [x] **Empirical Applicability**: Mampu diobservasi dan diterapkan dalam realitas kehidupan santri di pondok.
-- [x] **Restorative Ethics**: Menjunjung tinggi martabat insani (*Karamah Insaniyyah*) dan melarang kekerasan fisik/mental.
+## 3. Triangulasi Epistemologis
+
+Dalam pengembangan TUMBUH, suatu pertanyaan dapat membutuhkan lebih dari satu cara mengetahui. Tiga ranah yang dapat dipertimbangkan adalah:
+
+1. **Naqliyah** — wahyu dan khazanah keilmuan Islam yang relevan dengan klaim normatif.
+2. **'Aqliyah** — penalaran, logika, koherensi konsep, dan analisis filosofis.
+3. **Waqi'iyyah / empiris** — pengamatan, penelitian, data lapangan, dan temuan ilmiah yang relevan dengan klaim empiris.
+
+Ketiganya **tidak harus selalu memiliki fungsi yang sama**. Jenis klaim menentukan jenis dasar yang diperlukan. Klaim normatif tidak dibuktikan dengan data empiris semata, sementara klaim efektivitas intervensi tidak cukup dibenarkan hanya dengan dalil normatif.
+
+---
+
+## 4. Tingkatan dan Fungsi Sumber
+
+Sumber dapat memiliki fungsi yang berbeda dalam proses pengembangan:
+
+1. **Sumber normatif Islam/turats** — digunakan untuk klaim normatif dan arah nilai sesuai fungsi keilmuannya.
+2. **Kajian filosofis dan teoritis** — digunakan untuk koherensi konsep, kerangka berpikir, dan penjelasan teoritis.
+3. **Evidence ilmiah empiris** — digunakan untuk pertanyaan empiris, mekanisme, asosiasi, outcome, atau efektivitas sesuai desain penelitiannya.
+4. **Evidence implementasi lokal** — digunakan untuk memahami penerapan, konteks, variasi, dan pengalaman lapangan.
+
+Urutan tersebut tidak boleh diperlakukan sebagai tangga sederhana bahwa satu kategori selalu "lebih benar" daripada kategori lain. **Kecocokan evidence terhadap jenis klaim adalah pertimbangan utama.**
+
+---
+
+## 5. Kriteria Penilaian Klaim
+
+Sebuah klaim atau usulan desain perlu diperiksa sekurang-kurangnya dari sisi:
+
+- **Kejelasan** — istilah dan batas klaim dapat dipahami.
+- **Koherensi** — tidak mengandung kontradiksi yang tidak terselesaikan.
+- **Kesesuaian sumber** — sumber benar-benar relevan dengan klaim yang dibuat.
+- **Kesesuaian metodologis** — cara memperoleh evidence sesuai dengan pertanyaan yang diajukan.
+- **Konteks** — batas penerapan pada konteks tertentu dicatat.
+- **Keterbatasan dan ketidakpastian** — hal yang belum diketahui atau belum cukup didukung tidak disamarkan.
+- **Kesesuaian nilai dan etika** — penerapan tidak mengabaikan martabat manusia dan prinsip yang menjadi landasan TUMBUH.
+
+Memenuhi checklist tidak otomatis berarti suatu klaim telah terbukti benar. Hasil penilaian harus tetap dinyatakan sesuai tingkat dukungannya.
+
+---
+
+## 6. Hubungan dengan Evidence Registry
+
+Evidence yang cukup penting untuk mendukung atau menguji klaim dicatat dalam `08_SOURCES_AND_EVIDENCE/06 Evidence Registry/` sesuai format registry.
+
+Pencatatan sekurang-kurangnya perlu memungkinkan pembaca mengetahui:
+
+- evidence apa yang digunakan;
+- klaim apa yang didukung atau ditantang;
+- konteks dan populasi yang relevan;
+- temuan utama;
+- keterbatasan dan ketidakpastian;
+- status evidence untuk klaim tersebut.
+
+Satu sumber tidak otomatis menjadi evidence untuk semua jenis klaim yang dapat dikaitkan dengannya.
+
+---
+
+## 7. Hubungan dengan PROBE dan Research
+
+**PROBE** digunakan untuk menyimpan pertanyaan, penyelidikan, penalaran, pertimbangan, dan alasan desain. **Research** digunakan ketika pertanyaan perlu dikaji secara lebih terstruktur melalui penelusuran, analisis, pengujian, atau pengembangan.
+
+Hasil research dapat memperkaya PROBE, menghasilkan atau memperbarui evidence, serta memberi bahan untuk pengambilan keputusan. Namun hasil research **tidak otomatis menjadi substansi TUMBUH** sebelum keputusan tersebut ditetapkan dan ditempatkan pada lapisan yang sesuai.
+
+---
+
+## 8. Prinsip Anti-Overclaiming
+
+TUMBUH tidak boleh menggunakan istilah seperti **evidence-based**, **validated**, **effective**, atau **proven** hanya karena terdapat referensi atau penelitian.
+
+Setiap klaim harus mempertimbangkan:
+
+```text
+KLAIM
+  ↓
+EVIDENCE YANG RELEVAN
+  ↓
+KUALITAS / KETERBATASAN
+  ↓
+KONTEKS & APPLICABILITY
+  ↓
+TINGKAT KEPERCAYAAN / STATUS
+```
+
+Jika evidence belum cukup, ketidakcukupan tersebut dicatat sebagai bagian dari hasil—bukan ditutup dengan bahasa yang lebih pasti.
+
+---
+
+## 9. Prinsip Akhir
+
+Metodologi yang baik bukan sekadar membuat dokumen terlihat akademis. Fungsinya adalah menjaga agar pembaca dapat membedakan dengan jelas antara **bahan yang ditemukan, pertanyaan yang diselidiki, evidence yang tersedia, klaim yang dibuat, dan keputusan desain yang akhirnya dipilih**.
+
+Itulah yang memungkinkan TUMBUH berkembang tanpa kehilangan jejak mengapa suatu keputusan pernah dibuat dan kapan keputusan tersebut perlu ditinjau kembali.
