@@ -1,4 +1,4 @@
-# 05_INTERVENTION / 01 Principles & Ethics
+# 06_INTERVENTION / 01 Principles & Ethics
 
 **Status:** DESIGNED — Wave 5 baseline
 
