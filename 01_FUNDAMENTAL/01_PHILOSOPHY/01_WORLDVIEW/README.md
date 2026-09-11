@@ -1,7 +1,7 @@
 # 01 Worldview
 
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/01 Worldview`
+**Layer:** `01_FUNDAMENTAL/01_PHILOSOPHY/01_WORLDVIEW`
 
 **Worldview** adalah cara pandang mendasar tentang kenyataan dan kehidupan. Cara pandang ini memengaruhi bagaimana kita memahami manusia, apa yang kita anggap bernilai, dan ke mana pendidikan diarahkan.
 
@@ -78,7 +78,7 @@ Epistemology bertanya:
 
 > **Bagaimana kita tahu bahwa sesuatu dapat dipercaya sebagai pengetahuan?**
 
-Pembahasan tentang cara memperoleh dan menguji pengetahuan diteruskan di `01_FOUNDATION/02 Epistemology`.
+Pembahasan tentang cara memperoleh dan menguji pengetahuan diteruskan di `01_FUNDAMENTAL/01_PHILOSOPHY/02_EPISTEMOLOGY`.
 
 ## Apa yang belum dibahas di sini?
 
