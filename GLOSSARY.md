@@ -1,15 +1,21 @@
-# Glosarium & Kamus Istilah Ekosistem TUMBUH
+# Glosarium TUMBUH
 
-Dokumen rujukan lengkap glosarium dan kamus istilah terminologi syar'i, filosofis, neurosains, PBIS, dan tata kelola pesantren dipusatkan pada:
+Dokumen ini adalah pintu masuk singkat menuju istilah yang digunakan dalam ekosistem TUMBUH.
 
-👉 **[REFERENCES/Kamus-Istilah-TUMBUH.md](./REFERENCES/Kamus-Istilah-TUMBUH.md)**
+Glosarium lengkap dipusatkan pada **[REFERENCES/Kamus-Istilah-TUMBUH.md](./REFERENCES/Kamus-Istilah-TUMBUH.md)**.
 
----
+## Cara Membaca
 
-## Ringkasan 5 Kategori Glosarium:
+Istilah dalam glosarium perlu dibaca sesuai konteks dokumen yang menggunakannya. Keberadaan sebuah istilah di kamus tidak otomatis berarti istilah tersebut merupakan konstruk inti, prinsip normatif, atau keputusan desain TUMBUH.
 
-1. **Terminologi Filsafat & Metodologi Ilmu**: *Ontologi, Epistemologi, Aksiologi, Teleologi, Eskatologi, Aksioma, Theocentric Worldview, Critical Realism, De-sekularisasi Ilmu.*
-2. **Terminologi Teologi & Turats Syar'i**: *Qudwah / Qudwah Hasanah, Ta'dib, Tarbiyah, Ta'lim, Fitrah, Tazkiyatun Nafs (Takhalli-Tahalli-Tajalli), Mujahadatun Linafsih, Bi'ah Shalihah, Shidq al-Amal, Hilm.*
-3. **Terminologi Neurosains & Psikologi Perkembangan**: *Prefrontal Cortex, Sistem Limbik/Amygdala, Dual-Systems Model, Amygdala Hijacking, Kortisol, Neuroplastisitas, Self-Determination Theory, CASEL SEL, Cognitive Load Theory, Spaced Retrieval.*
-4. **Terminologi PBIS & Disiplin Restoratif**: *School-Wide PBIS Multi-Tier (Tier 1 Universal, Tier 2 Targeted, Tier 3 Intensive), Disiplin Restoratif, Firm & Kind, Konsekuensi Logis, FBA (Functional Behavior Assessment), Antecedent, Hotspots, Check-In Check-Out (CICO).*
-5. **Terminologi Ekosistem TUMBUH & Perangkat Digital**: *Triad Pertumbuhan Simbiotik (Santri-Guru-Sistem), Jenjang Kemandirian TUMBUH (J1–J4) (J1-J4), In Loco Parentis, Psychological Safety, Servant Leadership, Nudge Theory, Magic Ratio (4:1), Quick-Tap Logbook App, Parent Portal Digital.*
+Untuk memahami **substansi TUMBUH**, gunakan `01_FUNDAMENTAL/` sebagai rujukan utama.
+
+Untuk memahami **proses penalaran dan alasan desain**, lihat `PROBE/`, `METHODOLOGY/`, dan bila relevan `09_RESEARCH/` serta `08_SOURCES_AND_EVIDENCE/`.
+
+Untuk memahami **penerapan dan perangkat kerja**, lihat `02_IMPLEMENTATION/` dan `03_OPERATIONAL/`.
+
+## Batas Penting
+
+Kamus istilah membantu menyamakan bahasa. Ia bukan pengganti definisi formal yang berada pada dokumen substantif TUMBUH.
+
+> **Istilah membantu kita berbicara dengan bahasa yang sama; definisi formal tetap mengikuti lapisan sistem yang memiliki kewenangan menetapkannya.**
