@@ -1,4 +1,4 @@
-# 05_INTERVENTION / 03 Decision Architecture
+# 06_INTERVENTION / 03 Decision Architecture
 
 **Status:** PROPOSED — Wave 5 baseline
 
