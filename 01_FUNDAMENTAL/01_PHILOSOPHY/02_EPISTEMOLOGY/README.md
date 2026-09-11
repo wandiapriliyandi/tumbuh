@@ -1,7 +1,7 @@
 # 02 Epistemology
 
 **Status:** CANONICAL DRAFT — TUMBUH v2.0.0  
-**Layer:** `01_FOUNDATION/02 Epistemology`
+**Layer:** `01_FUNDAMENTAL/01_PHILOSOPHY/02_EPISTEMOLOGY`
 
 **Epistemology** adalah pembahasan tentang bagaimana kita memperoleh, memeriksa, dan menilai pengetahuan.
 
