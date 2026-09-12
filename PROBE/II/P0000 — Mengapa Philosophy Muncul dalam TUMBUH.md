@@ -10,7 +10,7 @@ Pertanyaan itu menjadi titik masuk PROBE II.
 
 ---
 
-## Dari mana persoalan ini muncul?
+## 1. Dari mana persoalan ini muncul?
 
 Sebuah sistem pengembangan manusia tidak pernah benar-benar netral.
 
@@ -38,7 +38,7 @@ Dari sinilah kebutuhan Philosophy menjadi nyata.
 
 ---
 
-## Philosophy bukan tambahan setelah sistem jadi
+## 2. Philosophy bukan tambahan setelah sistem jadi
 
 Ada kemungkinan kita membuat sistem terlebih dahulu, kemudian menambahkan Philosophy sebagai pengantar.
 
@@ -54,7 +54,7 @@ Ia adalah upaya untuk menyadari dasar pemikiran yang selama ini memungkinkan TUM
 
 ---
 
-## Tetapi kita belum tahu isi Philosophy-nya
+## 3. Tetapi kita belum tahu isi Philosophy-nya
 
 Di sini kita perlu berhenti sejenak.
 
@@ -72,7 +72,7 @@ Perbedaan ini penting karena PROBE II harus menghasilkan pemahaman, bukan sekada
 
 ---
 
-## Apa yang perlu kita cari?
+## 4. Apa yang perlu kita cari?
 
 Jika Philosophy diperlukan untuk menjelaskan pandangan dasar TUMBUH, maka kita perlu menemukan pandangan dasar seperti apa yang sebenarnya bekerja di dalam sistem ini.
 
@@ -103,7 +103,7 @@ Yang menentukan adalah kebutuhan kajian.
 
 ---
 
-## Arah kerja PROBE II
+## 5. Arah kerja PROBE II
 
 Mulai titik ini, PROBE II bergerak dengan pola:
 
@@ -137,7 +137,7 @@ Dengan cara ini, Philosophy TUMBUH tidak lahir dari kalimat yang paling indah, t
 
 ---
 
-## Batas P0000
+## 6. Batas P0000
 
 P0000 belum merumuskan Philosophy TUMBUH.
 
@@ -151,7 +151,7 @@ Rumusan ini masih merupakan titik kerja, bukan rumusan final Philosophy TUMBUH.
 
 ---
 
-## Pertanyaan berikutnya
+## 7. Pertanyaan berikutnya
 
 Setelah mengetahui **mengapa** Philosophy diperlukan, kita perlu memastikan **apa yang dimaksud dengan Philosophy** dalam konteks TUMBUH.
 
