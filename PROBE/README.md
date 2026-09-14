@@ -8,19 +8,19 @@ PROBE bukan domain isi TUMBUH dan bukan pengganti `01_FUNDAMENTAL`. Hasil PROBE 
 
 ```text
 PROBE/
-├── I/
-├── II/
-├── III/
-├── IV/
-├── V/
-├── VI/
-├── VII/
-├── VIII/
-├── IX/
-└── X/
+├── PROBE_01/
+├── PROBE_02/
+├── PROBE_03/
+├── PROBE_04/
+├── PROBE_05/
+├── PROBE_06/
+├── PROBE_07/
+├── PROBE_08/
+├── PROBE_09/
+└── PROBE_10/
 ```
 
-Folder Romawi digunakan untuk mengelompokkan rangkaian penyelidikan. Pengelompokan ini mengikuti perkembangan PROBE dan **tidak otomatis merupakan klasifikasi teoritis** atas TUMBUH.
+Folder `PROBE_01` hingga `PROBE_10` digunakan untuk mengelompokkan rangkaian penyelidikan. Pengelompokan ini mengikuti perkembangan PROBE dan **tidak otomatis merupakan klasifikasi teoritis** atas TUMBUH.
 
 ### Penomoran
 
@@ -29,9 +29,9 @@ Setiap rangkaian PROBE menggunakan penomoran empat digit yang dimulai dari `P000
 Contoh:
 
 ```text
-PROBE/I/P0000.md
-PROBE/II/P0000-Mengapa-PROBE-Diperlukan-untuk-Merekonstruksi-TUMBUH.md
-PROBE/III/P0000-Capacity-Ontology-Architecture-Audit-Scoping.md
+PROBE/PROBE_01/P0000.md
+PROBE/PROBE_02/P0000-Mengapa-PROBE-Diperlukan-untuk-Merekonstruksi-TUMBUH.md
+PROBE/PROBE_03/P0000-Capacity-Ontology-Architecture-Audit-Scoping.md
 ```
 
 Nomor dapat kembali dimulai dari `P0000` pada rangkaian PROBE yang berbeda. Nama file boleh diberi judul deskriptif agar pembaca segera memahami pokok penyelidikannya.
