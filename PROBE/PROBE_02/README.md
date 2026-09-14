@@ -85,7 +85,7 @@ Menyelidiki bagaimana manusia berubah secara hakiki: proses pembersihan jiwa (*t
 Setiap unit penyelidikan didokumentasikan dengan penomoran empat digit berurutan:
 
 * **P0000 – P0005**: Fondasi Titik Tolak, Orientasi Tauhid, Integrasi Epistemik, dan Hakikat Fitrah
-  * [P0000 — Mengapa TUMBUH Tidak Bisa Langsung Dimulai dari Aturan dan Program?](P0000-Mengapa-TUMBUH-Tidak-Bisa-Langsung-Dimulai-dari-Aturan-dan-Program.md)
+  * [P0000 — Mengapa Philosophy Muncul dalam TUMBUH?](P0000-Mengapa-Philosophy-Muncul-dalam-TUMBUH.md)
   * [P0001 — Apakah Filosofi TUMBUH Adalah Teori Abstrak atau Pegangan Pengasuhan?](P0001-Apakah-Filosofi-TUMBUH-Adalah-Teori-Abstrak-atau-Pegangan-Pengasuhan.md)
   * [P0002 — Dari Mana Penyelidikan Filosofi TUMBUH Harus Bermula?](P0002-Dari-Mana-Penyelidikan-Filosofi-TUMBUH-Harus-Bermula.md)
   * [P0003 — Bagaimana Tauhid Membentuk Cara Memandang Santri dan Asrama?](P0003-Bagaimana-Tauhid-Membentuk-Cara-Memandang-Santri-dan-Asrama.md)
