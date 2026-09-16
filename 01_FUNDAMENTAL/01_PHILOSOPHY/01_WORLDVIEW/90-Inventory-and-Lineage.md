@@ -1,86 +1,66 @@
 # Worldview — Inventory and Lineage
 
-**Status:** MIGRATION RECORD — TUMBUH v2.0.0  
-**Function:** inventory, classification, and lineage  
-**Layer:** `01_FOUNDATION/01 Worldview`
+**Status:** MIGRATION RECORD — TUMBUH v2.0.0
+**Function:** inventory, classification, and lineage
 
 ## 1. Purpose
 
-Dokumen ini mencatat asal-usul dan batas migrasi materi worldview dari struktur legacy menuju TUMBUH v2.0.0.
+Dokumen ini mencatat asal-usul, klasifikasi, dan keterlacakan materi Worldview. Ia bukan sumber normatif utama.
 
-Dokumen ini **bukan sumber normatif utama** dan bukan bagian dari formulasi worldview substantif. Fungsinya adalah menjaga keterlacakan perubahan arsitektur.
+## 2. Canonical Scope
 
-## 2. Legacy Lineage
+Worldview TUMBUH dibangun melalui tujuh pertanyaan dasar:
 
-Materi worldview pada struktur legacy berasal terutama dari:
+1. Apa yang dimaksud dengan realitas?
+2. Bagaimana posisi Allah dan seluruh ciptaan dipahami?
+3. Bagaimana realitas gaib dan realitas yang teramati dibedakan?
+4. Siapa manusia dan bagaimana kedudukannya sebagai makhluk?
+5. Apa makna kehidupan dan tujuan penciptaan manusia?
+6. Apa yang dimaksud dengan nilai, kebaikan, tanggung jawab, dan amanah?
+7. Apa arti semua pandangan tersebut bagi pendidikan?
+
+Pertanyaan tersebut diterjemahkan ke dalam tujuh dokumen substantif:
+
+1. `01-Definisi-Realitas.md`
+2. `02-Allah-sebagai-Al-Khaliq-dan-Relasi-Khaliq-Makhluk.md`
+3. `03-Realitas-Gaib-dan-Realitas-yang-Teramati.md`
+4. `04-Manusia-dan-Kedudukannya-sebagai-Makhluk.md`
+5. `05-Hakikat-Kehidupan-dan-Tujuan-Penciptaan-Manusia.md`
+6. `06-Nilai-Kebaikan-Tanggung-Jawab-dan-Amanah.md`
+7. `07-Implikasi-Worldview-bagi-Pendidikan.md`
+
+Dokumen `90-Inventory-and-Lineage.md` dan `DAFTAR-PUSTAKA.md` adalah dokumen pendukung, bukan rumusan worldview utama.
+
+## 3. Boundary
+
+Worldview tetap normative-conceptual. Ia tidak menjadi tempat untuk teori efektivitas, metode pembelajaran, rubric, instrument, intervention protocol, SOP, program, atau causal/outcome claim.
+
+Jika sebuah materi memiliki dasar worldview tetapi fungsi utamanya berada pada layer lain, materi ditempatkan pada layer tersebut.
+
+## 4. Lineage
+
+Materi legacy tetap dapat ditelusuri melalui `v1-legacy` dan catatan migrasi. Kehadiran sebuah gagasan pada legacy tidak otomatis membuatnya canonical pada v2.
+
+## 5. Relationship
 
 ```text
-01 Philosophy/01 Worldview
+Worldview
+   ↓
+Epistemology
+   ↓
+Human Nature
+   ↓
+Human Development
+   ↓
+Education
+   ↓
+Leadership
+   ↓
+Change
 ```
 
-Dalam v2, materi tersebut tidak dipindahkan secara mekanis. Materi legacy diperlakukan sebagai bahan sumber yang perlu diklasifikasikan, direfaktor, dan—untuk klaim empiris—divalidasi secara terpisah.
+Worldview memberi arah dasar; Epistemology menjaga cara pengetahuan diperlakukan; domain berikutnya mengembangkan konsekuensi konseptualnya.
 
-## 3. Canonical Scope of Worldview
+## 6. Design Rule
 
-Worldview v2 mencakup enam fungsi konseptual utama:
-
-1. **Reality** — bagaimana realitas dipahami.
-2. **Khaliq–Makhluk** — posisi Allah sebagai Al-Khaliq dan kedudukan manusia sebagai makhluk.
-3. **Unseen and Observed Reality** — pembedaan perkara gaib dan realitas yang dapat dikaji secara empiris.
-4. **Human** — orientasi dasar mengenai manusia sebagai makhluk bermartabat, terbatas, dan bertanggung jawab.
-5. **Purpose** — orientasi mengenai kehidupan dan tujuan manusia.
-6. **Educational Implication** — konsekuensi worldview bagi arah pendidikan.
-
-Pembahasan rinci tentang epistemologi, hakikat manusia, perkembangan, pendidikan, kepemimpinan, dan perubahan memiliki direktori Foundation masing-masing.
-
-## 4. Boundary Rules
-
-Materi berikut **tidak otomatis termasuk Worldview**:
-
-- teori efektivitas pendidikan;
-- metode pembelajaran;
-- rubric dan assessment instrument;
-- intervention protocol;
-- staffing ratio;
-- SOP;
-- program;
-- angka standar operasional;
-- klaim outcome atau causal claim.
-
-Jika materi tersebut memiliki dasar worldview tetapi fungsi utamanya berada pada layer lain, materi harus ditempatkan pada layer tersebut.
-
-## 5. Classification Rule
-
-Gunakan pertanyaan berikut untuk menentukan lokasi materi:
-
-| Pertanyaan | Layer |
-|---|---|
-| Mengapa TUMBUH memandang manusia dan pendidikan seperti ini? | Foundation |
-| Bagaimana pengetahuan diperoleh dan divalidasi? | Foundation / Epistemology |
-| Apa kapasitas yang hendak dibentuk? | Core Model |
-| Bagaimana pertumbuhan disusun? | Progression |
-| Bagaimana pertumbuhan diketahui? | Assessment |
-| Apa respons ketika kebutuhan muncul? | Intervention |
-| Bagaimana sistem dijalankan? | Implementation |
-| Apa bentuk program konkretnya? | Programs |
-| Apa evidence yang mendukung klaim? | Sources & Evidence |
-| Bagaimana klaim/model/intervensi diuji? | Research |
-
-## 6. Canonical Documents
-
-Dokumen substantif worldview saat ini adalah:
-
-- `P1-01-01-01-Definisi-Realitas.md`
-- `02-Allah-sebagai-Al-Khaliq-dan-Relasi-Khaliq-Makhluk.md`
-- `03-Realitas-Gaib-dan-Realitas-yang-Teramati.md`
-- `04-Hakikat-Kehidupan-dan-Tujuan-Penciptaan-Manusia.md`
-
-## 7. Lineage Rule
-
-Legacy tetap menjadi arsip sejarah pada `v1-legacy`. Kehadiran suatu gagasan pada legacy tidak membuatnya otomatis canonical pada v2.
-
-Sebaliknya, penghapusan materi dari v2 juga tidak berarti materi tersebut hilang dari sejarah; materi tetap dapat ditelusuri melalui legacy dan migration records.
-
-## 8. Design Rule
-
-Worldview harus tetap **normative-conceptual**. Ketika suatu formulasi mulai menyatakan efektivitas, korelasi, hubungan sebab-akibat, ukuran, prevalence, atau outcome, formulasi tersebut harus diberi klasifikasi klaim dan ditelusurkan ke `08_SOURCES_AND_EVIDENCE` dan/atau `09_RESEARCH`.
+Temuan empiris tidak otomatis menjadi ajaran normatif. Sebaliknya, prinsip normatif tidak perlu diperlakukan sebagai klaim empiris. Sintesis TUMBUH harus tetap dapat dibedakan dari sumber yang menjadi bahan penyusunannya.
