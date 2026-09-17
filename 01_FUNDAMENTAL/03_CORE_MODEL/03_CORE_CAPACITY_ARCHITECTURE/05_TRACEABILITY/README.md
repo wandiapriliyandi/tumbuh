@@ -299,7 +299,7 @@ Traceability perlu mampu mendeteksi setidaknya:
 
 ## Validation Status
 
-Traceability architecture berstatus **conceptually specified / empirically provisional**.
+Traceability architecture berstatus **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**.
 
 Ia merupakan mekanisme governance dan integritas lintas-layer, bukan bukti empiris dengan sendirinya. Kualitas traceability tidak boleh dibaca sebagai validitas construct, validitas assessment, efektivitas intervention, atau bukti kausal.
 
