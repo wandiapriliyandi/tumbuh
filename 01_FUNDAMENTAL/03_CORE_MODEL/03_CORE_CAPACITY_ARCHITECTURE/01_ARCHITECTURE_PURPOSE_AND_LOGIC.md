@@ -10,27 +10,29 @@ Jika Growth Ecology menjelaskan **medan pertumbuhan** dan Growth Mechanism menje
 
 Karena itu, Core Capacity Architecture menjadi jembatan konseptual antara mekanisme pertumbuhan dan pengamatan terhadap functioning manusia.
 
+Core Capacity Architecture **bukan Core Model ketiga**. Ia adalah arsitektur konstruk yang berada di dalam Core Model.
+
 ---
 
 ## 1. Core Capacity bukan sekadar daftar kemampuan
 
 Delapan Core Capacities TUMBUH bukan dimaksudkan sebagai daftar “skill” yang harus dimiliki seseorang.
 
-Sebuah Core Capacity adalah konstruk arsitektural yang harus memiliki:
+Sebuah Core Capacity adalah konstruk arsitektural yang perlu memiliki:
 
 - definisi yang jelas;
 - functional object yang jelas;
-- functional dimensions yang dapat menjelaskan bagian penting dari functioning;
+- functional dimensions yang membantu menjelaskan bagian penting dari functioning;
 - boundary terhadap konsep lain;
 - hubungan dengan capacity lain;
 - wilayah evidence yang relevan;
 - serta traceability terhadap arah normatif dan struktur sistem.
 
-Dengan demikian, pertanyaan bukan hanya:
+Karena itu pertanyaannya bukan hanya:
 
 > “Apakah seseorang bisa melakukan X?”
 
-tetapi:
+melainkan:
 
 > “Kapasitas apa yang sedang direpresentasikan oleh functioning tersebut, dan apa batas konstruknya?”
 
@@ -38,7 +40,7 @@ tetapi:
 
 ## 2. Mengapa perlu arsitektur?
 
-Tanpa arsitektur, daftar kapasitas mudah mengalami tiga masalah.
+Tanpa arsitektur, daftar kapasitas mudah mengalami setidaknya tiga masalah.
 
 ### Construct drift
 
@@ -46,13 +48,13 @@ Definisi capacity berubah ketika masuk ke progression, assessment, intervention,
 
 ### Construct overlap
 
-Dua capacity ternyata mengukur hal yang sama dengan nama berbeda.
+Dua capacity ternyata menjelaskan fungsi yang sama dengan nama berbeda.
 
 ### Construct inflation
 
 Setiap istilah penting seperti motivation, resilience, adaptability, decision making, creativity, atau learning langsung ditambahkan sebagai capacity baru.
 
-Core Capacity Architecture dibuat untuk mencegah ketiganya.
+Core Capacity Architecture dibuat untuk menjaga identitas konstruk tetap stabil dan mencegah ketiga masalah tersebut.
 
 ---
 
@@ -76,9 +78,9 @@ OBSERVABLE MANIFESTATIONS
 EVIDENCE
 ```
 
-Rantai ini bukan berarti setiap elemen merupakan tahap perkembangan.
+Rantai ini **bukan urutan perkembangan**, bukan urutan assessment, dan bukan resep intervensi.
 
-Ia adalah **struktur representasi konstruk**.
+Ia adalah **struktur representasi konstruk**: cara untuk menjelaskan dari arah yang dituju, menuju identitas capacity, lalu ke bentuk functioning yang dapat direpresentasikan dan akhirnya ke evidence.
 
 ---
 
@@ -127,6 +129,8 @@ Karena itu TUMBUH membedakan:
 
 > **Cross-capacity functioning** dari **construct identity**.
 
+Yang perlu dijaga adalah fungsi yang dijelaskan oleh masing-masing capacity, meskipun functioning nyata mempertemukan beberapa capacity sekaligus.
+
 ---
 
 ## 6. Functional Object
@@ -137,13 +141,13 @@ Functional Object menjawab:
 
 Functional Object bukan nama lain dari capacity.
 
-Ia membantu memperjelas ruang kerja konstruk.
+Ia membantu memperjelas ruang kerja konstruk sehingga definisi capacity tidak terlalu luas atau kabur.
 
 Contoh:
 
 **Problem Solving** memiliki functional object berupa kesenjangan antara kondisi aktual dan kondisi yang dituju beserta hambatan dan strategi untuk menanganinya.
 
-Dengan adanya Functional Object, definisi capacity tidak mengambang terlalu luas.
+Contoh ini bersifat ilustratif terhadap struktur arsitektur; definisi canonical masing-masing capacity mengikuti dokumen capacity yang sesuai.
 
 ---
 
@@ -165,7 +169,7 @@ Action Adjustment
 
 Functional Dimensions bukan sub-capacity baru secara otomatis.
 
-Mereka adalah dimensi fungsional yang membantu menguraikan konstruk.
+Ia adalah cara untuk menguraikan fungsi penting dalam sebuah construct tanpa memecahnya menjadi capacity baru.
 
 ---
 
@@ -254,6 +258,8 @@ Karena itu:
 
 > **Satu performance tidak boleh langsung diperlakukan sebagai keseluruhan capacity.**
 
+Pembedaan ini juga menjaga hubungan yang konsisten dengan Growth Mechanism dan Assessment.
+
 ---
 
 ## 12. Capacity bukan process
@@ -281,7 +287,7 @@ Reflection bukan Self-Regulation.
 
 Practice bukan Problem Solving.
 
-Batas ini harus dipertahankan.
+Batas ini harus dipertahankan agar proses pertumbuhan tidak berubah menjadi daftar capacity baru.
 
 ---
 
@@ -339,17 +345,26 @@ Sebaliknya, satu domain dapat membutuhkan banyak capacities.
         FUNCTIONING
 ```
 
-Ini membantu menjaga capacity tetap sebagai arsitektur lintas konteks, bukan daftar mata pelajaran atau bidang program.
+Ini membantu menjaga capacity sebagai arsitektur lintas konteks, bukan daftar mata pelajaran atau bidang program.
 
 ---
 
 ## 16. Core Capacity bersifat lintas konteks, tetapi tidak berarti identik di semua konteks
 
-Capacity dimaksudkan untuk memiliki identitas konstruk yang cukup stabil sehingga dapat dikenali lintas konteks.
+Capacity dimaksudkan memiliki identitas konstruk yang cukup stabil sehingga dapat dikenali lintas konteks.
 
-Namun manifestasinya dapat berbeda.
+Namun manifestasinya dapat berbeda menurut:
 
-Contoh Communication:
+- usia dan tahap perkembangan;
+- peran;
+- task dan demand;
+- lingkungan;
+- budaya dan norma sosial;
+- relasi;
+- kondisi fisik dan sosial;
+- resources dan support.
+
+Contoh Communication dapat muncul sebagai:
 
 - berbicara dalam diskusi;
 - menulis penjelasan;
@@ -376,6 +391,8 @@ Namun hubungan tersebut tidak boleh otomatis dibaca sebagai:
 - atau satu general capacity yang dapat dihitung dari semuanya.
 
 Cross-capacity functioning adalah kenyataan fungsional, bukan alasan untuk menggabungkan semua capacity menjadi satu konstruk.
+
+Detail hubungan antar-capacity dibahas lebih lanjut dalam **Capacity Relationships**.
 
 ---
 
@@ -415,7 +432,7 @@ TOTAL SCORE
 
 adalah representasi yang sah.
 
-Arsitektur capacity harus mempertahankan multidimensionalitasnya sampai evidence menunjukkan sebaliknya.
+Arsitektur capacity harus mempertahankan multidimensionalitasnya sampai evidence menunjukkan dasar yang memadai untuk kesimpulan lain.
 
 ---
 
@@ -476,7 +493,7 @@ Ini adalah **arsitektur konseptual TUMBUH**.
 
 ## 22. Prinsip integritas arsitektur
 
-Core Capacity Architecture harus menjaga tujuh prinsip:
+Core Capacity Architecture perlu menjaga tujuh prinsip:
 
 1. **Construct clarity** — setiap capacity memiliki definisi dan batas yang jelas.
 2. **Functional decomposition** — capacity dapat diuraikan tanpa kehilangan identitas konstruk.
@@ -543,6 +560,8 @@ Setiap perubahan material harus memeriksa dampaknya terhadap:
 
 Jika sebuah capacity baru diusulkan, ia harus melewati governance dan closure logic yang berlaku pada TUMBUH.
 
+Perubahan wording yang tidak mengubah construct identity dapat menjadi editorial clarification. Penambahan, penghapusan, penggabungan, atau perubahan fungsi yang material harus diperlakukan sebagai **construct-architecture revision**.
+
 ---
 
 ## 25. Status
@@ -551,10 +570,12 @@ Core Capacity Architecture saat ini berstatus:
 
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-Artinya arsitektur konseptualnya telah ditetapkan untuk tahap pengembangan saat ini, tetapi status empirisnya belum boleh diperlakukan sebagai validasi universal.
+Artinya arsitektur konseptualnya telah ditetapkan untuk tahap pengembangan saat ini, tetapi status empiris seluruh construct belum boleh diperlakukan sebagai validasi universal.
+
+Dokumen ini menetapkan **logika dan batas arsitektur**. Definisi rinci masing-masing capacity, functional object, functional dimensions, relationships, dan traceability harus tetap konsisten dengan dokumen canonical pada folder terkait.
 
 ---
 
 ## Ringkasnya
 
-> **Core Capacity Architecture bukan daftar kemampuan, melainkan arsitektur konstruk yang menjelaskan apa yang berkembang, bagaimana setiap capacity diuraikan secara fungsional, dan bagaimana ia dibedakan dari process, resource, norm, domain, context, serta performance.**
+> **Core Capacity Architecture bukan sekadar daftar kemampuan. Ia adalah arsitektur konstruk yang menjelaskan apa yang berkembang, bagaimana setiap capacity diuraikan secara fungsional, bagaimana capacity dapat berhubungan tanpa disamakan, dan bagaimana semuanya tetap traceable ke arah normatif, evidence, serta layer sistem lainnya.**
