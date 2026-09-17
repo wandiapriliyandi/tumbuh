@@ -29,4 +29,4 @@ Dimensions bukan keramahan, popularitas, perilaku baik, kemampuan bekerja sama, 
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
