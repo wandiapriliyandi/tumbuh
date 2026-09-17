@@ -116,6 +116,6 @@ Perubahan juga harus meninggalkan jejak pada governance yang relevan, termasuk C
 
 ## Validation Status
 
-Arsitektur ini berstatus **conceptually specified / empirically provisional**.
+Arsitektur ini berstatus **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**.
 
 Pemetaan Functional Object di atas adalah keputusan arsitektural saat ini; ia belum merupakan bukti empiris bahwa setiap object telah tervalidasi universal atau lintas budaya.
