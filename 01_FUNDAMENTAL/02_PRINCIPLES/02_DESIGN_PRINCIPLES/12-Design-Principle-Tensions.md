@@ -81,12 +81,4 @@ Traceability kemudian membantu menjaga hubungan antara prinsip, pertimbangan des
 
 Jika masalah muncul dalam pelaksanaan, masalah tersebut tidak otomatis berarti tension berada pada level prinsip. Bisa saja sumbernya adalah keputusan desain, implementasi, prosedur, sumber daya, atau konteks. Diagnosis tetap perlu dilakukan pada lapisan yang tepat.
 
-## Arah ke depan
-
-Seiring TUMBUH berkembang, tension yang ditemukan dari penggunaan nyata dapat memperkaya PROBE dan membantu memperjelas batas Design Principles. Namun tidak semua perbedaan perlu diubah menjadi aturan baru.
-
-Yang perlu dijaga adalah kemampuan sistem untuk menjelaskan:
-
-> **Prinsip apa yang sedang berhadapan, fungsi apa yang perlu dipertahankan, bagian mana yang dapat disesuaikan, mengapa keputusan tertentu dipilih, dan apa yang akan dilakukan jika pengalaman berikutnya menunjukkan kebutuhan untuk meninjau kembali keputusan tersebut?**
-
 **Status:** DRAFT — MENUNGGU VALIDASI PROBE
