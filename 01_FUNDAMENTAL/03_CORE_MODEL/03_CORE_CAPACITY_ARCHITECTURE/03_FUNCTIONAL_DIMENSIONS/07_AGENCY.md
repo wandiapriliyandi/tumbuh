@@ -1,7 +1,5 @@
 # Functional Dimensions 07 — Agency
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi penting dalam memulai, mengarahkan, dan menjalankan tindakan yang disengaja dalam kondisi nyata.
 
 ## Functional Object
