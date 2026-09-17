@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Social Understanding adalah kemampuan memahami apa yang sedang terjadi dalam situasi sosial.**
 
 Bukan sekadar ramah atau pandai bergaul. Fokusnya adalah memahami **orang lain, hubungan antarorang, dan konteks sosial** yang memengaruhi situasi.
