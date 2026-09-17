@@ -1,7 +1,5 @@
 # Inference Boundaries — Batas Penarikan Kesimpulan
 
-## Gampangnya
-
 System Logic mengatur hubungan antarbagian TUMBUH, tetapi tidak memberikan izin untuk menarik kesimpulan yang lebih kuat daripada evidence yang tersedia.
 
 ## Boundary Utama
