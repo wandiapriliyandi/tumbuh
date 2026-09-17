@@ -78,12 +78,6 @@ Rincian pengelolaan klaim, evidence, dan keputusan berada pada layer yang sesuai
 
 Foundation tidak mengatur format teknis pencatatan atau prosedur kerja masing-masing. Foundation menetapkan pembedaan konseptual agar sistem tetap jernih ketika pengetahuan, keputusan, dan praktik berkembang.
 
-## Arah Masa Depan
-
-Ketika TUMBUH berkembang, jumlah pengetahuan, klaim, keputusan, dan prosedur dapat bertambah. Pertumbuhan tersebut perlu diikuti dengan kejelasan status agar sistem tidak mengalami penumpukan aturan yang sulit dibedakan asal-usulnya.
-
-Teknologi, penelitian baru, dan pengalaman penerapan dapat menghasilkan perubahan. Yang penting bukan mempertahankan semua keputusan lama, tetapi memastikan bahwa setiap perubahan dapat ditelusuri dan ditempatkan pada kedudukan yang tepat.
-
 ## Batas Prinsip
 
 Prinsip ini tidak menentukan isi dari setiap prinsip, klaim, keputusan, atau prosedur. Ia juga tidak menetapkan prosedur operasional tertentu.
