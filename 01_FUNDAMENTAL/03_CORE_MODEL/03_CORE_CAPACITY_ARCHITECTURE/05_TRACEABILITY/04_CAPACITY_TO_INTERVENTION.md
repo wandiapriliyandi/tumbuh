@@ -1,7 +1,5 @@
 # Capacity to Intervention Trace
 
-## Gampangnya
-
 Trace ini menjawab pertanyaan: **kalau kita merancang intervensi, kebutuhan functioning apa yang sebenarnya hendak dibantu?**
 
 Intervention TUMBUH harus dapat ditelusuri kembali ke Core Capacity dan representasi fungsional yang relevan, lalu ke evidence tentang functioning dan kebutuhan perkembangan yang menjadi dasar respons.
