@@ -1,58 +1,55 @@
 # Feedback and Reflection
 
-## Apa maksudnya?
+## Posisi dalam Growth Mechanism
 
-Dalam Growth Mechanism, **Feedback** dan **Reflection** membantu seseorang memahami apa yang terjadi dalam pengalaman dan tindakannya.
+Dalam Growth Mechanism, **Feedback** dan **Reflection** menjelaskan bagaimana seseorang memperoleh dan mengolah informasi dari pengalaman, tindakan, dan hasilnya.
 
-Pertanyaan sederhananya:
+Pertanyaan yang ingin dijawab adalah:
 
-> **Bagaimana seseorang mengetahui apa yang terjadi, memikirkan kembali pengalaman tersebut, lalu menggunakan pemahaman itu untuk menentukan langkah berikutnya?**
+> **Bagaimana seseorang memahami apa yang terjadi, memaknai pengalaman tersebut, lalu dapat menggunakannya untuk menyesuaikan tindakan berikutnya?**
 
-Feedback memberi informasi dari pengalaman atau sumber lain.
+Feedback memberi informasi.
 
-Reflection membantu seseorang mengolah dan memaknai informasi tersebut.
+Reflection membantu mengolah dan memahami informasi tersebut.
 
-Keduanya dapat saling berhubungan, tetapi bukan hal yang sama.
-
----
-
-## 1. Feedback — mendapatkan informasi
-
-Feedback adalah informasi yang membantu seseorang melihat hubungan antara tindakan, proses, dan hasil.
-
-Contohnya:
-
-- guru memberi tahu bagian jawaban yang perlu diperbaiki;
-- musyrif menunjukkan bahwa suatu kebiasaan belum berjalan konsisten;
-- hasil suatu tugas menunjukkan kesalahan;
-- teman memberikan tanggapan;
-- seseorang membandingkan hasil dengan tujuan yang ingin dicapai.
-
-Feedback tidak selalu berupa ucapan dari orang lain.
-
-Informasi dari hasil tindakan atau pengalaman juga dapat menjadi feedback.
+Keduanya dapat saling berhubungan, tetapi bukan konsep yang sama dan bukan tahapan wajib yang selalu muncul dalam urutan tetap.
 
 ---
 
-## 2. Feedback bukan sekadar kritik
+## 1. Feedback — memperoleh informasi
 
-Feedback dapat menunjukkan:
+**Feedback** adalah informasi yang membantu seseorang melihat hubungan antara tindakan, proses, hasil, tujuan, atau kondisi yang sedang dihadapi.
+
+Feedback dapat muncul dari:
+
+- guru atau musyrif;
+- teman sebaya;
+- keluarga;
+- diri sendiri;
+- hasil tugas;
+- hasil tindakan;
+- lingkungan;
+- atau sumber lain yang relevan.
+
+Karena itu feedback tidak harus berupa komentar dari orang lain. Hasil suatu tindakan sendiri dapat memberi informasi yang kemudian digunakan untuk menyesuaikan tindakan berikutnya.
+
+### Feedback bukan sekadar kritik
+
+Feedback dapat membantu seseorang melihat:
 
 - apa yang sudah berjalan;
 - apa yang belum berjalan;
 - apa yang berbeda dari tujuan;
-- informasi baru yang sebelumnya belum diketahui;
-- kemungkinan arah perbaikan.
+- informasi baru yang sebelumnya belum diperhatikan;
+- atau kemungkinan arah perbaikan.
 
-Karena itu feedback tidak identik dengan menyalahkan.
-
-Feedback yang baik juga tidak otomatis menghasilkan perubahan. Informasi harus dipahami dan digunakan oleh orang yang menerimanya.
+Jadi feedback tidak identik dengan menyalahkan, menilai pribadi, atau mencari kesalahan.
 
 ---
 
-## 3. Reflection — melihat kembali pengalaman
+## 2. Reflection — memahami kembali pengalaman
 
-Reflection adalah proses memikirkan kembali pengalaman, tindakan, hasil, dan alasan yang terkait dengannya.
+**Reflection** adalah proses melihat kembali pengalaman, tindakan, hasil, dan alasan yang terkait dengannya untuk memperoleh pemahaman yang lebih baik.
 
 Pertanyaan reflektif dapat berupa:
 
@@ -62,17 +59,17 @@ Pertanyaan reflektif dapat berupa:
 - Bagian mana yang berhasil?
 - Bagian mana yang belum berhasil?
 - Apa yang belum saya pahami?
-- Apa yang perlu saya lakukan berbeda berikutnya?
+- Apa yang mungkin perlu dilakukan berbeda berikutnya?
 
 Reflection bukan sekadar mengingat kejadian.
 
-Yang penting adalah adanya proses memahami dan menilai kembali pengalaman untuk membantu menentukan tindakan berikutnya.
+Yang penting adalah proses memahami dan memaknai kembali pengalaman sehingga seseorang memiliki dasar untuk mempertimbangkan tindakan berikutnya.
 
 ---
 
-## 4. Feedback dan Reflection saling berhubungan
+## 3. Hubungan Feedback dan Reflection
 
-Secara sederhana:
+Secara sederhana, hubungan keduanya dapat digambarkan:
 
 ```text
 PENGALAMAN
@@ -83,215 +80,179 @@ FEEDBACK
     ↕
 REFLECTION
     ↓
-PEMAHAMAN BARU
+PEMAHAMAN
     ↓
 ADAPTATION
 ```
 
-Namun, hubungan ini tidak harus selalu mengikuti urutan tersebut.
+Namun diagram tersebut adalah **peta konseptual, bukan prosedur wajib**.
 
-Seseorang dapat:
+Dalam kenyataan:
 
-- merefleksikan pengalaman sebelum menerima feedback dari orang lain;
-- mendapatkan feedback lalu menyadari ada hal yang sebelumnya tidak diperhatikan;
-- mencoba kembali dan mendapatkan informasi baru;
-- mengubah praktik setelah refleksi.
+- seseorang dapat merefleksikan pengalaman sebelum menerima feedback dari orang lain;
+- feedback dapat membuat seseorang menyadari sesuatu yang sebelumnya tidak diperhatikan;
+- reflection dapat menghasilkan perubahan cara bertindak;
+- percobaan baru dapat menghasilkan feedback baru;
+- dan proses tersebut dapat berulang.
 
-Jadi diagram tersebut adalah **peta konseptual**, bukan prosedur wajib.
+Dengan demikian, Growth Mechanism tidak mengharuskan setiap komponen hadir dalam satu urutan yang kaku.
 
 ---
 
-## 5. Contoh sederhana
+## 4. Contoh dalam kehidupan santri
 
 Seorang santri sering lupa membawa perlengkapan belajar.
 
-### Pengalaman
+**Experience:** ia beberapa kali datang tanpa perlengkapan yang diperlukan.
 
-Ia beberapa kali datang tanpa perlengkapan yang diperlukan.
+**Feedback:** musyrif menunjukkan bahwa kejadian tersebut berulang dan memengaruhi kesiapan belajar.
 
-### Feedback
+**Reflection:** santri melihat kembali rutinitas sebelum tidur dan menyadari bahwa ia tidak memeriksa perlengkapan untuk hari berikutnya.
 
-Musyrif menunjukkan bahwa kejadian tersebut berulang dan mengganggu kesiapan belajar.
+**Adaptation:** ia mencoba membuat kebiasaan memeriksa perlengkapan sebelum tidur.
 
-### Reflection
+**Pengalaman berikutnya:** ia mencoba kebiasaan tersebut dan memperoleh informasi baru tentang apakah cara itu membantu.
 
-Santri melihat kembali rutinitas sebelum tidur dan menyadari bahwa ia tidak pernah memeriksa perlengkapan untuk hari berikutnya.
-
-### Adaptation
-
-Ia mencoba membuat kebiasaan pemeriksaan sebelum tidur.
-
-### Pengalaman berikutnya
-
-Ia mencoba lagi dan melihat apakah strategi tersebut membantu.
-
-Jika perubahan functioning menjadi cukup konsisten dan didukung evidence yang memadai, barulah perubahan kapasitas dapat dipertimbangkan.
+Contoh ini menunjukkan bagaimana feedback dan reflection dapat menjadi bagian dari proses perubahan. Namun contoh tersebut tidak membuktikan bahwa setiap feedback atau reflection akan menghasilkan perubahan kapasitas.
 
 ---
 
-## 6. Feedback dapat berasal dari banyak sumber
+## 5. Kualitas feedback lebih penting daripada sekadar jumlah
 
-Dalam ecology pertumbuhan, feedback dapat datang dari:
+Tidak semua feedback membantu.
 
-- diri sendiri;
-- guru atau musyrif;
-- teman sebaya;
-- keluarga;
-- hasil tugas;
-- hasil tindakan;
-- lingkungan;
-- atau sumber informasi lain yang relevan.
+Feedback perlu dilihat berdasarkan:
 
-Namun, sumber feedback tidak otomatis menentukan kualitasnya.
+- **relevansi** — apakah berkaitan dengan hal yang sedang dipahami atau diperbaiki;
+- **akurasi** — apakah informasi tersebut cukup dapat dipercaya;
+- **konteks** — apakah informasi sesuai dengan situasi;
+- **tujuan** — apakah membantu memahami tujuan atau arah tindakan.
 
-Feedback tetap perlu dinilai berdasarkan relevansi, akurasi, konteks, dan tujuan.
+Feedback yang terlalu umum, tidak akurat, tidak relevan, atau hanya memberi label dapat sulit digunakan.
+
+Karena itu TUMBUH tidak menggunakan asumsi bahwa **semakin banyak feedback selalu semakin baik**.
 
 ---
 
-## 7. Reflection tidak selalu menghasilkan perubahan
+## 6. Reflection tidak selalu menghasilkan perubahan
 
-Seseorang dapat melakukan reflection tetapi tidak mengubah tindakannya.
+Seseorang dapat melakukan reflection tetapi tetap mempertahankan cara bertindak yang sama.
 
-Misalnya:
+Misalnya seseorang menyadari bahwa cara belajarnya tidak efektif, tetapi belum menemukan atau belum memilih cara lain.
 
-> “Saya tahu cara belajar saya tidak efektif, tetapi saya tetap menggunakan cara yang sama.”
+Artinya reflection telah terjadi, tetapi **adaptation belum tentu terjadi**.
 
-Artinya reflection terjadi, tetapi belum tentu menghasilkan adaptation.
+Sebaliknya, perubahan tindakan dapat terjadi karena pengalaman, dukungan, tuntutan situasi, atau kondisi lain tanpa reflection yang eksplisit.
 
-Demikian pula, seseorang dapat berubah karena pengalaman atau kondisi lain tanpa melakukan reflection yang jelas.
-
-Karena itu Growth Mechanism tidak menganggap setiap komponen sebagai syarat yang selalu harus muncul dalam urutan tetap.
+Hal ini memperkuat batas bahwa Growth Mechanism bukan rangkaian langkah yang wajib dilalui secara identik oleh setiap orang.
 
 ---
 
-## 8. Feedback harus sesuai dengan tujuan
-
-Informasi hanya berguna jika berhubungan dengan sesuatu yang ingin dipahami atau diperbaiki.
-
-Contoh:
-
-Jika tujuan adalah meningkatkan keteraturan waktu, feedback tentang ketepatan waktu lebih relevan daripada komentar yang tidak berkaitan dengan tujuan tersebut.
-
-Ini tidak berarti feedback lain tidak berguna secara umum. Hanya saja relevansinya terhadap mekanisme pertumbuhan tertentu perlu dipertimbangkan.
-
----
-
-## 9. Feedback bukan assessment
-
-Feedback dan assessment dapat berhubungan, tetapi bukan konsep yang sama.
-
-**Feedback** adalah informasi yang dapat digunakan untuk membantu memahami atau menyesuaikan tindakan.
-
-**Assessment** adalah proses yang dirancang untuk menghasilkan inference atau penilaian berdasarkan evidence tertentu.
-
-Hasil assessment dapat menjadi sumber feedback.
-
-Tetapi tidak semua feedback merupakan assessment.
-
----
-
-## 10. Feedback bukan intervention
-
-Memberikan feedback dapat menjadi bagian dari sebuah intervensi.
-
-Namun, konsep feedback sendiri tidak berarti bahwa suatu intervensi telah dirancang.
-
-Contoh:
-
-> Musyrif mengatakan, “Coba periksa kembali urutan langkahmu.”
-
-Itu adalah feedback.
-
-Jika lembaga merancang sistem pendampingan terstruktur untuk memperbaiki kapasitas tertentu, keseluruhan rancangan tersebut berada dalam domain **Intervention**.
-
----
-
-## 11. Feedback dan agency
+## 7. Feedback dan agency
 
 Feedback tidak mengambil alih keputusan seseorang.
 
-Orang yang menerima feedback tetap perlu:
+Orang yang menerima feedback tetap memiliki peran untuk:
 
 - memahami informasi;
 - mempertimbangkan relevansinya;
-- menilai kemungkinan tindakan;
-- memilih respons;
-- dan melakukan tindakan.
+- menilai kemungkinan respons;
+- memilih tindakan;
+- dan menjalankan tindakan tersebut.
 
-Karena itu feedback dapat mendukung agency, tetapi tidak menggantikan agency.
+Dengan demikian, feedback dapat mendukung **agency**, tetapi tidak menggantikan agency.
 
----
-
-## 12. Risiko feedback yang buruk
-
-Tidak semua feedback membantu pertumbuhan.
-
-Feedback dapat bermasalah jika:
-
-- tidak relevan;
-- tidak akurat;
-- terlalu umum;
-- hanya memberi label tanpa informasi yang dapat digunakan;
-- disampaikan dengan cara yang menghambat keterbukaan;
-- atau membuat seseorang tidak memahami apa yang harus diperhatikan.
-
-Karena itu TUMBUH tidak menggunakan asumsi sederhana bahwa **semakin banyak feedback selalu semakin baik**.
+Ini penting terutama dalam konteks pendidikan: pendamping bukan sekadar pemberi koreksi, sementara santri bukan sekadar penerima instruksi. Proses pertumbuhan tetap melibatkan keterlibatan dan pilihan orang yang sedang bertumbuh.
 
 ---
 
-## 13. Hubungan dengan Adaptation
+## 8. Hubungan dengan Adaptation
 
-Feedback dan reflection menyediakan informasi yang dapat digunakan untuk adaptation.
+Feedback dan reflection menyediakan informasi atau pemahaman yang **dapat digunakan** untuk adaptation.
 
 Secara konseptual:
 
 ```text
-FEEDBACK + REFLECTION
+FEEDBACK / REFLECTION
           ↓
-     INTERPRETATION
+      PEMAHAMAN
           ↓
       ADAPTATION
           ↓
-    PRACTICE BERIKUTNYA
+PRACTICE / EXPERIENCE BARU
 ```
 
-Tetapi adaptation juga dapat dipengaruhi oleh pengalaman baru, dukungan, kondisi lingkungan, kemampuan yang sudah dimiliki, dan faktor lainnya.
+Tetapi adaptation juga dapat dipengaruhi oleh pengalaman baru, dukungan, lingkungan, kondisi individu, kapasitas yang sudah dimiliki, dan faktor lainnya.
 
-Karena itu tidak boleh dikatakan bahwa feedback atau reflection **pasti** menyebabkan adaptation.
+Karena itu tidak tepat mengatakan bahwa feedback atau reflection **pasti menyebabkan adaptation**.
 
 ---
 
-## 14. Hubungan dengan Capacity Change
+## 9. Hubungan dengan Capacity Change
 
-Tujuan akhir Growth Mechanism bukan sekadar membuat seseorang mengetahui kesalahannya.
+Growth Mechanism tidak berhenti pada seseorang mengetahui bahwa tindakannya kurang tepat.
 
-Yang diperhatikan adalah apakah proses tersebut dapat berkontribusi pada perubahan functioning yang cukup bermakna dan relatif stabil sehingga perubahan kapasitas dapat dipertimbangkan.
+Yang lebih penting adalah apakah proses tersebut dapat berkontribusi pada perubahan **functioning** yang cukup bermakna dan relatif konsisten sehingga perubahan kapasitas dapat dipertimbangkan.
 
 ```text
 Feedback / Reflection
         ↓
-Adaptation
+     Adaptation
         ↓
 Practice & Experience baru
         ↓
 Perubahan functioning
         ↓
-Evidence
+     Evidence
         ↓
 Pertimbangan capacity change
 ```
 
 Jalur ini tetap bersifat konseptual.
 
-Capacity change harus didukung evidence yang sesuai; tidak boleh disimpulkan hanya dari satu feedback atau satu sesi reflection.
+Adanya satu feedback, satu refleksi, atau satu perubahan tindakan tidak dengan sendirinya menjadi bukti bahwa capacity change telah terjadi.
 
 ---
 
-## 15. Batas konsep
+## 10. Feedback ≠ Assessment
+
+**Feedback** adalah informasi yang dapat digunakan untuk memahami atau menyesuaikan tindakan.
+
+**Assessment** adalah proses yang dirancang untuk menghasilkan inference atau penilaian berdasarkan evidence tertentu.
+
+Keduanya dapat berhubungan:
+
+> Hasil assessment dapat menjadi sumber feedback.
+
+Tetapi:
+
+> **Tidak semua feedback merupakan assessment.**
+
+Batas ini menjaga Growth Mechanism tetap sebagai penjelasan proses, bukan berubah menjadi model penilaian.
+
+---
+
+## 11. Feedback ≠ Intervention
+
+Memberikan feedback dapat menjadi bagian dari sebuah intervention.
+
+Namun feedback itu sendiri tidak berarti bahwa sebuah intervention telah dirancang.
+
+Contoh sederhana:
+
+> “Coba periksa kembali urutan langkahmu.”
+
+Kalimat tersebut dapat menjadi feedback.
+
+Jika lembaga kemudian merancang pendampingan terstruktur untuk merespons kebutuhan perkembangan tertentu, rancangan tersebut berada dalam domain **Intervention**, bukan otomatis menjadi bagian dari definisi feedback.
+
+---
+
+## 12. Batas konsep
 
 ### Feedback ≠ Praise
 
-Pujian dapat menjadi respons sosial, tetapi tidak semua pujian memberi informasi yang membantu seseorang memahami tindakan atau hasilnya.
+Pujian dapat menjadi respons sosial, tetapi tidak semua pujian memberi informasi yang membantu memahami tindakan atau hasil.
 
 ### Feedback ≠ Criticism
 
@@ -299,27 +260,53 @@ Feedback dapat mengoreksi tanpa menjadi serangan terhadap pribadi.
 
 ### Reflection ≠ Rumination
 
-Berpikir tentang kejadian berulang-ulang tidak otomatis berarti reflection yang membantu pembelajaran atau adaptation.
+Memikirkan suatu kejadian berulang-ulang tidak otomatis berarti reflection yang membantu pemahaman atau adaptation.
 
 ### Reflection ≠ Assessment
 
-Reflection adalah proses memahami pengalaman; assessment menghasilkan inference atau penilaian berdasarkan evidence yang dirancang.
+Reflection membantu memahami pengalaman; assessment menghasilkan inference atau penilaian berdasarkan evidence yang dirancang.
 
-### Feedback/Reflection ≠ Capacity
+### Feedback / Reflection ≠ Capacity
 
-Keduanya merupakan bagian dari proses growth mechanism, bukan kapasitas manusia.
+Keduanya adalah bagian dari proses Growth Mechanism, bukan kapasitas manusia itu sendiri.
 
 ---
 
-## 16. Prinsip praktis
+## 13. Prinsip penggunaan konsep
 
-1. **Feedback harus relevan dengan tujuan atau pengalaman yang sedang dipahami.**
-2. **Feedback sebaiknya memberi informasi yang dapat digunakan, bukan hanya label.**
-3. **Reflection membantu memahami pengalaman, bukan sekadar mengingatnya.**
-4. **Tidak semua feedback menghasilkan adaptation.**
-5. **Tidak semua reflection menghasilkan perubahan tindakan.**
+1. **Feedback perlu relevan dengan pengalaman, tujuan, atau hal yang sedang dipahami.**
+2. **Feedback sebaiknya memberi informasi yang dapat digunakan, bukan sekadar label.**
+3. **Reflection membantu memahami pengalaman, bukan hanya mengingatnya.**
+4. **Feedback tidak menjamin adaptation.**
+5. **Reflection tidak menjamin perubahan tindakan.**
 6. **Feedback dan reflection dapat berlangsung berulang dan saling memengaruhi.**
-7. **Jangan menyimpulkan capacity change hanya dari adanya feedback atau reflection.**
+7. **Capacity change tidak boleh disimpulkan hanya dari adanya feedback atau reflection.**
+
+---
+
+## 14. Hubungan dengan bagian lain dalam Growth Mechanism
+
+Dokumen ini terutama menjelaskan bagian setelah **Experience, Engagement, and Practice**.
+
+Secara konseptual:
+
+```text
+Experience
+    ↓
+Engagement
+    ↓
+Practice
+    ↓
+Feedback ↔ Reflection
+    ↓
+Adaptation
+    ↓
+Capacity Change
+```
+
+Namun hubungan tersebut bersifat dinamis. Feedback dapat muncul dari practice, reflection dapat memengaruhi practice berikutnya, dan experience baru dapat muncul sebelum atau sesudah adaptation.
+
+Karena itu dokumen ini tidak dimaksudkan untuk mengubah Growth Mechanism menjadi model linear.
 
 ---
 
@@ -335,4 +322,4 @@ Klaim tentang efektivitas jenis feedback atau reflection tertentu harus diuji se
 
 ## Ringkasnya
 
-> **Feedback memberi informasi tentang pengalaman dan tindakan, sedangkan reflection membantu seseorang memahami kembali pengalaman tersebut; keduanya dapat membantu adaptation, tetapi tidak otomatis menghasilkan perubahan kapasitas.**
+> **Feedback memberi informasi tentang pengalaman, tindakan, dan hasil; Reflection membantu seseorang memahami kembali informasi tersebut. Keduanya dapat membuka jalan menuju adaptation, tetapi tidak otomatis menghasilkan perubahan kapasitas.**
