@@ -22,7 +22,46 @@ Practice
 
 Core Principles juga berfungsi sebagai alat untuk menjaga agar pengembangan TUMBUH tidak berjalan secara terpisah-pisah. Perubahan pada assessment, intervention, program, metode, maupun tools tetap harus dapat ditelusuri kembali kepada prinsip-prinsip dasar yang sama.
 
-## 2. Kedudukan Core Principles
+## 2. Mengapa Core Principles Diperlukan?
+
+Philosophy memberi TUMBUH landasan tentang bagaimana manusia dan pertumbuhan dipahami. Tetapi landasan saja belum cukup untuk menentukan bagaimana sebuah sistem harus dibangun.
+
+Core Principles menjawab pertanyaan sederhana:
+
+> **Jika kita benar-benar percaya pada Philosophy TUMBUH, apa yang harus selalu kita jaga ketika membangun sistem?**
+
+Karena itu, prinsip bukan sekadar kalimat yang terdengar baik. Prinsip harus dapat membantu ketika TUMBUH menghadapi pilihan, perubahan, perbedaan konteks, atau masalah baru.
+
+## 3. Arah TUMBUH: Bukan Hanya Memperbaiki Masa Lalu
+
+TUMBUH tidak dibangun hanya untuk memperbaiki kelemahan sistem sebelumnya.
+
+Masalah dan pengalaman dari sistem sebelumnya tetap penting karena memberi pelajaran tentang apa yang perlu dihindari, diperbaiki, atau dipertahankan. Namun untuk membangun `v2.0.0`, pertanyaan TUMBUH perlu bergerak lebih jauh:
+
+- Masa depan seperti apa yang ingin dimungkinkan TUMBUH?
+- Manusia seperti apa yang ingin mampu dibentuk melalui proses pertumbuhan?
+- Sistem seperti apa yang diperlukan agar pertumbuhan tersebut menjadi mungkin?
+- Prinsip apa yang harus tetap dijaga agar TUMBUH tidak kehilangan arah ketika berkembang?
+
+Dengan demikian, pengalaman masa lalu menjadi **bahan pembelajaran**, sedangkan kemungkinan masa depan menjadi **arah penyelidikan dan pembangunan**.
+
+```text
+Pengalaman masa lalu
+        ↓
+masalah + pelajaran + batasan
+        ↓
+      PROBE
+        ↑
+kemungkinan masa depan
+        ↓
+prinsip yang perlu dijaga
+        ↓
+keputusan desain TUMBUH
+```
+
+Arah ini penting agar TUMBUH tidak menjadi sekadar versi baru dari sistem lama. TUMBUH perlu memiliki alasan yang jelas mengapa bentuk sistem yang baru diperlukan dan masa depan apa yang ingin dibuat lebih mungkin.
+
+## 4. Kedudukan Core Principles
 
 TUMBUH memiliki beberapa kelompok prinsip:
 
@@ -40,31 +79,43 @@ Jika prinsip-prinsip berikutnya menjawab pertanyaan, "Bagaimana bagian tertentu 
 
 Karena itu, prinsip pada lapisan berikutnya tidak boleh bertentangan dengan Core Principles.
 
-## 3. Fungsi Core Principles
+## 5. Fungsi Core Principles
 
-### 3.1 Sebagai penjaga arah
+### 5.1 Sebagai penjaga arah
 
-Core Principles menjaga agar seluruh pengembangan TUMBUH tetap bergerak sesuai Philosophy yang telah ditetapkan.
+Core Principles menjaga agar seluruh pengembangan TUMBUH tetap bergerak sesuai Philosophy dan arah masa depan yang sedang dibangun.
 
-### 3.2 Sebagai pengikat sistem
+### 5.2 Sebagai pengikat sistem
 
 Berbagai bagian TUMBUH memiliki fungsi yang berbeda. Assessment tidak sama dengan intervention. Learning tidak sama dengan implementation. Namun semuanya harus berada dalam satu logika sistem.
 
 Core Principles menjadi pengikatnya.
 
-### 3.3 Sebagai dasar pengambilan keputusan
+### 5.3 Sebagai dasar pengambilan keputusan
 
 Ketika terdapat beberapa pilihan desain, metode, program, atau pendekatan, keputusan tidak semata-mata ditentukan oleh apa yang paling mudah dilakukan. Pilihan harus diperiksa terhadap prinsip dasar TUMBUH.
 
-### 3.4 Sebagai batas
+### 5.4 Sebagai batas
 
 Prinsip tidak hanya mengatakan apa yang perlu dilakukan. Prinsip juga menjelaskan apa yang tidak sesuai dengan TUMBUH.
 
 Dengan demikian, Core Principles berfungsi sebagai guardrail bagi perkembangan sistem.
 
-# 4. Prinsip-Prinsip Inti TUMBUH
+### 5.5 Sebagai penghubung masa depan dan desain
 
-## 4.1 Development over mere compliance
+Core Principles membantu menerjemahkan masa depan yang ingin dimungkinkan menjadi pegangan nyata dalam pembangunan sistem.
+
+```text
+Masa depan yang ingin dimungkinkan
+                ↓
+          Core Principles
+                ↓
+       keputusan desain sistem
+```
+
+## 6. Prinsip-Prinsip Inti TUMBUH
+
+## 6.1 Development over mere compliance
 
 TUMBUH memandang pembinaan manusia sebagai proses perkembangan, bukan sekadar proses menghasilkan kepatuhan terhadap aturan.
 
@@ -74,7 +125,7 @@ Karena itu, TUMBUH berusaha bergerak dari pertanyaan, "Apakah seseorang melakuka
 
 Prinsip ini menjadi salah satu pembeda penting antara sistem pembinaan dan sekadar sistem pengendalian perilaku.
 
-## 4.2 Whole-person development
+## 6.2 Whole-person development
 
 TUMBUH memandang manusia sebagai pribadi yang utuh.
 
@@ -84,7 +135,7 @@ Pengembangan manusia perlu memperhatikan keterhubungan berbagai dimensi kehidupa
 
 Karena itu, suatu program tidak seharusnya dinilai hanya dari keberhasilannya menghasilkan satu kemampuan terisolasi. Pertanyaan yang lebih penting adalah: "Bagaimana perkembangan ini berkontribusi terhadap pertumbuhan manusia secara utuh?"
 
-## 4.3 Growth is developmental
+## 6.3 Growth is developmental
 
 Pertumbuhan manusia berlangsung melalui proses.
 
@@ -94,7 +145,7 @@ Perkembangan perlu dipahami sebagai perjalanan yang memiliki proses, tahapan, pe
 
 Prinsip ini menjadi dasar bagi pengembangan Progression Framework dan berbagai bentuk pemetaan perkembangan.
 
-## 4.4 Context matters
+## 6.4 Context matters
 
 Perkembangan manusia tidak berlangsung dalam ruang kosong.
 
@@ -104,7 +155,7 @@ Karena itu, TUMBUH tidak semestinya hanya bertanya, "Apa yang salah pada individ
 
 Prinsip ini penting agar pembinaan tidak secara otomatis meletakkan seluruh persoalan pada individu.
 
-## 4.5 Relationship is part of development
+## 6.5 Relationship is part of development
 
 Perkembangan manusia berlangsung melalui hubungan.
 
@@ -112,7 +163,7 @@ Guru, pembina, mentor, orang tua, teman sebaya, dan lingkungan memiliki peran da
 
 Karena itu, relasi dalam TUMBUH bukan sekadar sarana administratif untuk menyampaikan program. Relasi merupakan bagian dari lingkungan perkembangan itu sendiri.
 
-## 4.6 Evidence-informed development
+## 6.6 Evidence-informed development
 
 TUMBUH perlu dibangun berdasarkan perpaduan antara landasan nilai, pengalaman pendidikan, kajian ilmiah, dan bukti dari praktik.
 
@@ -122,7 +173,7 @@ Setiap bagian penting dari sistem perlu dapat dijelaskan: apa dasar pemikirannya
 
 Sumber, teori, dan kajian tetap perlu terdokumentasi pada lapisan research/PROBE sehingga dapat ditelusuri ketika suatu rumusan repository perlu diperiksa kembali.
 
-## 4.7 Integration over fragmentation
+## 6.7 Integration over fragmentation
 
 TUMBUH merupakan sebuah sistem.
 
@@ -134,7 +185,7 @@ Sebuah alat assessment, misalnya, tidak boleh dikembangkan tanpa memahami kapasi
 
 Setiap bagian perlu menjawab: "Bagaimana bagian ini terhubung dengan keseluruhan sistem?"
 
-## 4.8 Assessment serves development
+## 6.8 Assessment serves development
 
 Assessment dalam TUMBUH bukan tujuan akhir.
 
@@ -156,7 +207,7 @@ Decision
 Development
 ```
 
-## 4.9 Intervention should develop, not merely correct
+## 6.9 Intervention should develop, not merely correct
 
 Intervensi dalam TUMBUH tidak semata-mata dipahami sebagai tindakan ketika terjadi masalah.
 
@@ -164,7 +215,7 @@ Intervensi dapat bersifat preventif, developmental, corrective, reinforcement, m
 
 Tujuannya bukan sekadar menghilangkan perilaku yang tidak diinginkan, tetapi membantu individu dan lingkungan bergerak menuju kondisi perkembangan yang lebih baik.
 
-## 4.10 Continuous improvement
+## 6.10 Continuous improvement
 
 TUMBUH tidak diperlakukan sebagai sistem yang selesai sekali dibuat.
 
@@ -188,7 +239,37 @@ Context
 
 Dengan demikian, TUMBUH dapat berkembang tanpa kehilangan identitas dan arah dasarnya.
 
-# 5. Hubungan dengan Prinsip-Prinsip Turunan
+## 7. Bagaimana 10 Prinsip Ini Bekerja Bersama?
+
+Sepuluh prinsip di atas tidak dimaksudkan sebagai sepuluh gagasan yang berdiri sendiri. Bersama-sama, prinsip tersebut membentuk cara TUMBUH memandang pembangunan manusia dan pembangunan sistem.
+
+Secara sederhana:
+
+```text
+Manusia perlu berkembang secara utuh
+            ↓
+Perkembangan berlangsung melalui proses
+            ↓
+Perkembangan dipengaruhi konteks dan relasi
+            ↓
+Sistem harus mendukung perkembangan
+            ↓
+Assessment membantu memahami perkembangan
+            ↓
+Intervention membantu pertumbuhan ketika diperlukan
+            ↓
+Semua bagian harus terintegrasi
+            ↓
+Keputusan perlu diinformasikan oleh evidence
+            ↓
+Sistem terus belajar dan diperbaiki
+            ↓
+Semua tetap dijaga oleh Core Principles
+```
+
+Dengan cara ini, Core Principles bukan daftar slogan. Ia menjadi logika yang menghubungkan cara TUMBUH memahami manusia dengan cara TUMBUH membangun sistem.
+
+## 8. Hubungan dengan Prinsip-Prinsip Turunan
 
 Core Principles menjadi dasar bagi kelompok prinsip berikutnya.
 
@@ -216,22 +297,23 @@ Core Principles
 
 Prinsip-prinsip tersebut harus dapat ditelusuri kembali kepada Core Principles.
 
-# 6. Core Principles sebagai Guardrail
+## 9. Core Principles sebagai Guardrail
 
 Ketika terdapat usulan baru untuk TUMBUH, usulan tersebut perlu diuji dengan pertanyaan dasar:
 
 1. Apakah sesuai dengan Philosophy TUMBUH?
-2. Apakah sesuai dengan Core Principles?
-3. Apakah memperkuat perkembangan manusia secara utuh?
-4. Apakah memiliki dasar yang dapat dipertanggungjawabkan?
-5. Apakah terhubung dengan bagian lain dari sistem?
-6. Apakah dapat diterapkan dalam konteks nyata?
-7. Apakah menghasilkan informasi atau pengalaman yang membantu perkembangan?
-8. Apakah dapat dievaluasi dan diperbaiki?
+2. Apakah membantu menuju masa depan yang ingin dimungkinkan TUMBUH?
+3. Apakah sesuai dengan Core Principles?
+4. Apakah memperkuat perkembangan manusia secara utuh?
+5. Apakah memiliki dasar yang dapat dipertanggungjawabkan?
+6. Apakah terhubung dengan bagian lain dari sistem?
+7. Apakah dapat diterapkan dalam konteks nyata?
+8. Apakah menghasilkan informasi atau pengalaman yang membantu perkembangan?
+9. Apakah dapat dievaluasi dan diperbaiki?
 
 Jika sebuah gagasan bertentangan dengan prinsip dasar, maka popularitas, kemudahan, atau kebaruan gagasan tersebut tidak cukup menjadi alasan untuk memasukkannya ke dalam sistem.
 
-# 7. Status Dokumen
+## 10. Status Dokumen
 
 Dokumen ini merupakan rumusan awal Core Principles TUMBUH.
 
