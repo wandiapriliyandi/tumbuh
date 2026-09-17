@@ -1,7 +1,5 @@
 # Functional Object 07 — Agency
 
-## Gampangnya
-
 **Apa yang menjadi objek Agency?**
 
 Yang menjadi objek adalah **tindakan yang sengaja dipilih dan diarahkan oleh seseorang dalam kondisi nyata**.
