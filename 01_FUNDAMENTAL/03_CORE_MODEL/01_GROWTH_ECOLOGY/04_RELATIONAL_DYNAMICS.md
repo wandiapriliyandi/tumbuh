@@ -1,6 +1,8 @@
 # Relational Dynamics
 
-## Apa yang dimaksud Relational Dynamics?
+**Status:** CONCEPTUAL / DESIGNED — bagian dari Growth Ecology
+
+## Apa itu Relational Dynamics?
 
 **Relational Dynamics** menjelaskan bahwa hubungan di dalam ecology pertumbuhan tidak bersifat statis.
 
@@ -10,7 +12,7 @@ Pertanyaan sederhananya:
 
 Hubungan antara santri, guru/musyrif, lembaga, keluarga, teman sebaya, dan konteks lain dapat berubah mengikuti pengalaman, respons, komunikasi, dan kondisi yang terjadi.
 
-Karena itu, Growth Ecology tidak hanya melihat **siapa berada di mana**, tetapi juga memperhatikan **bagaimana relasi berlangsung**.
+Karena itu, Growth Ecology tidak hanya melihat **siapa berada di mana**, tetapi juga **bagaimana relasi berlangsung dan berubah**.
 
 ---
 
@@ -18,17 +20,17 @@ Karena itu, Growth Ecology tidak hanya melihat **siapa berada di mana**, tetapi 
 
 Hubungan pendidikan tidak selalu berjalan dengan pola yang sama.
 
-Contoh sederhana:
+Contoh:
 
 > Santri awalnya enggan berbicara dengan musyrif.
 
 Setelah beberapa kali mengalami percakapan yang aman dan mendapatkan respons yang baik, santri mulai lebih terbuka.
 
-Sebaliknya, jika beberapa interaksi berikutnya terasa menghakimi, keterbukaan dapat kembali menurun.
+Sebaliknya, jika interaksi berikutnya terasa menghakimi, keterbukaan dapat kembali menurun.
 
-Artinya, kualitas relasi dapat berubah berdasarkan pengalaman yang berlangsung.
+Contoh tersebut adalah **ilustrasi konseptual**, bukan klaim bahwa pola yang sama selalu terjadi pada semua santri.
 
-Contoh ini adalah ilustrasi konseptual, bukan klaim bahwa pola tersebut selalu terjadi pada semua santri.
+Intinya, kondisi relasional perlu dilihat sebagai proses yang dapat berubah berdasarkan pengalaman dan respons yang berlangsung.
 
 ---
 
@@ -42,8 +44,6 @@ Relational Dynamics terutama terlihat dalam hubungan:
             ↕       ↕
  GURU/MUSYRIF ↔ LEMBAGA
 ```
-
-Ketiga unsur tersebut tidak berdiri sendiri.
 
 ### Santri ↔ Guru/Musyrif
 
@@ -81,6 +81,8 @@ Relasi dapat mencakup:
 - komunikasi;
 - ruang untuk mengambil keputusan.
 
+Ketiga relasi tersebut merupakan **wilayah pengamatan konseptual**, bukan daftar hubungan yang harus selalu dianalisis seluruhnya.
+
 ---
 
 ## 3. Relasi tidak selalu berarti hubungan yang harmonis
@@ -97,13 +99,13 @@ Dalam ecology pertumbuhan dapat terjadi:
 - ketegangan;
 - pemulihan hubungan.
 
-Konflik juga merupakan bagian dari realitas relasional yang perlu dipahami.
+Konflik merupakan bagian dari realitas relasional yang perlu dipahami, bukan otomatis tanda bahwa seluruh relasi gagal.
 
-Yang penting adalah bagaimana hubungan tersebut berlangsung dan bagaimana pihak-pihak yang terlibat meresponsnya.
+Yang penting adalah bagaimana hubungan berlangsung dan bagaimana pihak-pihak yang terlibat meresponsnya.
 
 ---
 
-## 4. Relasi bersifat dua arah
+## 4. Relasi bersifat timbal balik
 
 TUMBUH tidak menggunakan pola sederhana:
 
@@ -126,17 +128,15 @@ Santri ↔ Lembaga
 Guru/Musyrif ↔ Lembaga
 ```
 
-Hubungan tersebut dapat saling memengaruhi.
+Hubungan tersebut dapat berlangsung secara timbal balik.
 
-Namun, simbol dua arah **bukan bukti kausalitas**. Ia hanya menunjukkan bahwa interaksi dapat berlangsung timbal balik.
+Namun, simbol dua arah **bukan bukti kausalitas**. Ia menunjukkan kemungkinan adanya interaksi timbal balik, bukan besarnya atau arah efek empiris.
 
 ---
 
 ## 5. Relasi berubah dari waktu ke waktu
 
 Relasi perlu dipahami sebagai proses, bukan hanya keadaan pada satu titik.
-
-Secara sederhana:
 
 ```text
 Pengalaman
@@ -181,9 +181,7 @@ Kondisi relasional perlu dipahami sesuai tujuan, konteks, pengalaman pihak yang 
 
 Melihat relasi secara serius **tidak berarti menganggap santri pasif**.
 
-Santri tetap memiliki agency.
-
-Santri dapat:
+Santri tetap memiliki agency. Santri dapat:
 
 - memilih respons tertentu;
 - meminta bantuan;
@@ -192,23 +190,23 @@ Santri dapat:
 - mengubah strategi;
 - memengaruhi hubungan dengan orang lain.
 
-Pada saat yang sama, agency selalu berlangsung dalam kondisi tertentu.
+Pada saat yang sama, agency berlangsung dalam kondisi tertentu.
 
-Karena itu TUMBUH menghindari dua ekstrem:
+Karena itu TUMBUH menghindari dua penyederhanaan:
 
 > **“Semua masalah adalah kesalahan santri.”**
 
-dan
+atau
 
 > **“Santri tidak bertanggung jawab karena semuanya disebabkan lingkungan.”**
 
-Growth Ecology berusaha melihat keduanya secara proporsional.
+Growth Ecology berusaha melihat agency dan kondisi lingkungan secara bersamaan.
 
 ---
 
 ## 8. Relasi dan perubahan lembaga
 
-Relasi juga dapat memberi informasi kepada lembaga tentang kualitas ecology yang sedang berjalan.
+Relasi dapat memberi informasi kepada lembaga tentang ecology yang sedang berjalan.
 
 Contoh:
 
@@ -228,7 +226,7 @@ Tetapi juga:
 
 Temuan seperti ini dapat menjadi bahan untuk pengembangan lembaga.
 
-Namun, pengembangan tersebut masuk ke domain **intervention dan implementation** ketika sudah menjadi tindakan yang dirancang.
+Ketika sudah diterjemahkan menjadi tindakan yang sengaja dirancang, pembahasannya berpindah ke layer **Intervention** dan **Implementation** yang sesuai.
 
 ---
 
@@ -236,14 +234,15 @@ Namun, pengembangan tersebut masuk ke domain **intervention dan implementation**
 
 Keduanya berhubungan, tetapi tidak sama.
 
-**Relational Dynamics** menjelaskan pola interaksi dalam ecology.
+| Konsep | Pertanyaan |
+|---|---|
+| **Relational Dynamics** | Bagaimana pola interaksi berlangsung dan berubah dalam ecology? |
+| **Growth Mechanism** | Bagaimana perubahan kapasitas dapat berlangsung melalui proses pertumbuhan? |
 
-**Growth Mechanism** menjelaskan bagaimana perubahan kapasitas dapat berlangsung melalui proses seperti pengalaman, engagement, practice, feedback, reflection, dan adaptation.
-
-Contoh:
+Contoh konseptual:
 
 ```text
-Relasi:
+Relasi
 Santri ↔ Musyrif
        ↓
 Pengalaman pendampingan
@@ -255,9 +254,9 @@ Adaptation
 Perubahan kapasitas yang mungkin terjadi
 ```
 
-Bagian relasi berada dalam Growth Ecology.
+Bagian relasi berada dalam **Growth Ecology**.
 
-Bagian proses perubahan kapasitas berada dalam Growth Mechanism.
+Bagian proses perubahan kapasitas berada dalam **Growth Mechanism**.
 
 Tidak semua perubahan relasi menghasilkan perubahan kapasitas, dan tidak setiap perubahan kapasitas harus dijelaskan oleh satu pola relasional tertentu.
 
@@ -265,56 +264,81 @@ Tidak semua perubahan relasi menghasilkan perubahan kapasitas, dan tidak setiap 
 
 ## 10. Batas konsep
 
-### Relational Dynamics ≠ Core Capacity
+| Bukan | Penjelasan |
+|---|---|
+| **Core Capacity** | Relasi adalah bagian dari ecology, bukan kapasitas manusia. |
+| **Relationship Skill** | Pola hubungan tidak otomatis merupakan kemampuan komunikasi, kolaborasi, atau kapasitas lainnya. |
+| **Intervention** | Memahami relasi berbeda dari merancang tindakan untuk mengubah relasi. |
+| **Program** | Relasi terjadi dalam kehidupan sehari-hari; program adalah kegiatan yang sengaja dirancang. |
+| **Causal Model** | Pola relasional dapat menjadi objek penelitian, tetapi deskripsi hubungan tidak otomatis membuktikan sebab-akibat. |
 
-Relasi adalah bagian dari ecology, bukan kapasitas manusia.
-
-### Relational Dynamics ≠ Relationship Skill
-
-Kualitas atau pola hubungan tidak otomatis merupakan kemampuan komunikasi, kolaborasi, atau kapasitas lainnya.
-
-### Relational Dynamics ≠ Intervention
-
-Memahami relasi berbeda dari merancang tindakan untuk mengubah relasi.
-
-### Relational Dynamics ≠ Program
-
-Relasi terjadi dalam kehidupan sehari-hari; program adalah bentuk kegiatan yang sengaja dirancang.
-
-### Relational Dynamics ≠ Causal Model
-
-Pola relasional dapat menjadi objek penelitian, tetapi deskripsi hubungan tidak otomatis membuktikan sebab-akibat.
+Batas ini menjaga Relational Dynamics tetap sebagai **model konseptual dalam Growth Ecology**.
 
 ---
 
-## 11. Prinsip praktis
+## 11. Prinsip kerja
 
 1. **Lihat hubungan sebagai proses, bukan hanya status.**
-2. **Perhatikan interaksi dua arah.**
+2. **Perhatikan interaksi timbal balik.**
 3. **Jangan menyamakan konflik dengan kegagalan relasi secara otomatis.**
-4. **Jangan menghilangkan agency santri ketika melihat pengaruh lingkungan.**
+4. **Jangan menghilangkan agency santri ketika melihat kondisi lingkungan.**
 5. **Perhatikan pengalaman dan respons yang membentuk pola hubungan.**
 6. **Gunakan temuan relasional untuk memperbaiki pemahaman sebelum merancang intervensi.**
 7. **Jangan mengubah pola relasi menjadi klaim kausal tanpa evidence yang memadai.**
 
+Prinsip ini adalah **prinsip kerja konseptual**, bukan SOP.
+
 ---
 
-## 12. Status dan batas penggunaan
+## 12. Hubungan dengan Philosophy, Principles, dan Core Model
 
-Status konsep ini adalah **conceptual / designed**.
+Posisinya dapat dibaca sebagai:
 
-Relational Dynamics merupakan pendalaman dari **Growth Ecology** untuk menjelaskan sifat hubungan yang berubah, timbal balik, dan kontekstual dalam ecology pertumbuhan.
+```text
+Philosophy
+    ↓
+Principles
+    ↓
+Core Model
+    ↓
+Growth Ecology
+    ↓
+Relational Dynamics
+```
 
-Konsep ini bukan:
+Relational Dynamics bukan sumber Philosophy baru dan bukan pengganti Principles.
 
-- teori kausal universal;
-- progression model;
-- assessment instrument;
-- rubric;
-- intervention procedure;
-- implementation SOP;
-- program;
-- atau bukti efektivitas.
+Ia memperdalam satu pertanyaan dalam Growth Ecology: **bagaimana relasi dalam ecology berlangsung, saling merespons, dan berubah dari waktu ke waktu**.
+
+---
+
+## 13. Hubungan dengan Evidence dan Research
+
+Relational Dynamics membantu menentukan **apa yang perlu diperhatikan** ketika membaca hubungan dalam ecology pertumbuhan.
+
+Namun model ini tidak menentukan sebelumnya bahwa suatu pola relasi pasti efektif atau menghasilkan outcome tertentu.
+
+Jika TUMBUH membuat klaim tentang hubungan tertentu dan outcome tertentu, klaim tersebut perlu diperiksa melalui sumber, evidence, atau research yang sesuai.
+
+Dengan demikian:
+
+**Relational Dynamics → membantu memetakan pola hubungan.**
+
+**Evidence / Research → membantu memeriksa apa yang dapat disimpulkan tentang hubungan tersebut.**
+
+---
+
+## 14. Traceability
+
+Ketika Relational Dynamics dikembangkan atau diubah, perubahan perlu dapat ditelusuri:
+
+1. Apa masalah atau kebutuhan yang memunculkan perubahan?
+2. Pola relasional apa yang ditambahkan, diubah, atau dibatasi?
+3. Principles mana yang berkaitan?
+4. Apakah ada claim atau evidence yang mendukung atau menantang perubahan?
+5. Komponen Core Model atau layer berikutnya apa yang terdampak?
+
+Traceability menjaga agar perubahan pada praktik hubungan tidak otomatis dianggap sebagai perubahan pada model inti.
 
 ---
 
