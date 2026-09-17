@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Problem Solving adalah kemampuan menghadapi jarak antara keadaan sekarang dan keadaan yang ingin dicapai, lalu mencari, menjalankan, dan menyesuaikan cara untuk menangani jarak tersebut.**
 
 Jadi bukan sekadar bisa menjawab soal. Fokusnya adalah bagaimana seseorang **memahami masalah, mengenali hambatan, mencari atau memilih cara, bertindak, membaca informasi baru, lalu memperbaiki cara ketika diperlukan.**
