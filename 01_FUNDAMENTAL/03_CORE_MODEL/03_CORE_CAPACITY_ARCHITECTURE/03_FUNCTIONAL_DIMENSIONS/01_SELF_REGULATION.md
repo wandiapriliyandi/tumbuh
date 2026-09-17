@@ -1,7 +1,5 @@
 # Functional Dimensions 01 — Self-Regulation
 
-## Gampangnya
-
 Functional Dimensions menjelaskan **fungsi-fungsi penting yang membentuk Self-Regulation**. Bukan tiga kemampuan baru, tetapi tiga cara utama melihat bagaimana seseorang mengelola functioning dan tindakannya.
 
 ## Functional Object
