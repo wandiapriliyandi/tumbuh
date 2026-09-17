@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Collaboration adalah kemampuan bekerja bersama orang lain untuk mencapai tujuan bersama.**
 
 Tetapi “bekerja bersama” bukan sekadar berada dalam satu kelompok. Yang penting adalah **memberi kontribusi, menyelaraskan tindakan, dan menyesuaikan tindakan bersama ketika keadaan berubah.**
