@@ -1,7 +1,5 @@
 # Construct Registry — Struktur Registry
 
-## Gampangnya
-
 Construct Registry adalah **daftar resmi construct TUMBUH** agar istilah yang dipakai di berbagai domain memiliki identitas, definisi, posisi, dan batas yang konsisten.
 
 Ia menjawab:
