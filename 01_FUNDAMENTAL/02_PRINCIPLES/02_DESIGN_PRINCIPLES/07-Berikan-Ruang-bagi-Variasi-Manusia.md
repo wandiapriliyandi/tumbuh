@@ -66,12 +66,6 @@ Foundation tidak menetapkan jalur individual, bentuk dukungan, atau prosedur ter
 
 Dengan demikian, variasi dapat diterjemahkan pada layer yang tepat tanpa menjadikan Foundation sebagai kumpulan aturan operasional.
 
-## Arah Masa Depan
-
-Semakin banyak TUMBUH diterapkan pada konteks yang berbeda, semakin penting kemampuan sistem untuk mengenali variasi tanpa kehilangan koherensi.
-
-Desain yang baik bukan desain yang menghapus semua perbedaan agar mudah dikelola. Desain yang baik memberi ruang yang cukup untuk kenyataan manusia, sambil tetap menjaga tujuan dan prinsip yang menjadi arah bersama.
-
 ## Batas Prinsip
 
 Prinsip ini tidak berarti:
