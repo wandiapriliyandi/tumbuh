@@ -1,7 +1,5 @@
 # Construct Drift Audit
 
-## Gampangnya
-
 **Construct drift** terjadi ketika makna sebuah Core Capacity perlahan bergeser karena representasinya di downstream mulai dianggap sebagai construct itu sendiri.
 
 Drift sering tidak terjadi dalam satu perubahan besar. Ia dapat muncul sedikit demi sedikit ketika perilaku, indikator, skor, program, milestone, atau istilah baru mulai menggantikan definisi awal tanpa keputusan arsitektural yang jelas.
