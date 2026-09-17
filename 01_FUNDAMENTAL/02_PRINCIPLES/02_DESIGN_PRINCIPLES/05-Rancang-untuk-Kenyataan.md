@@ -4,16 +4,74 @@ TUMBUH tidak akan dijalankan dalam kondisi yang sempurna.
 
 Di lapangan, waktu pendidik terbatas. Kemampuan orang berbeda. Jumlah santri bisa banyak. Sumber daya tidak selalu cukup. Jadwal dapat berubah. Masalah juga sering muncul bersamaan.
 
-Karena itu, desain yang hanya terlihat baik di dokumen belum tentu menjadi desain yang baik.
+Karena itu, desain yang hanya terlihat baik di dokumen belum tentu menjadi desain yang baik. Desain perlu mempertimbangkan kenyataan manusia dan kondisi tempat TUMBUH digunakan sejak awal.
 
-Sebelum sebuah komponen dimasukkan ke dalam sistem, kita perlu membayangkan bagaimana komponen itu benar-benar akan digunakan. Siapa yang menjalankannya? Kapan dilakukan? Informasi apa yang dibutuhkan? Berapa banyak pekerjaan tambahan yang muncul? Apa yang terjadi jika kondisi tidak ideal?
+## Kenyataan Bukan Gangguan terhadap Desain
 
-Misalnya, sebuah instrumen asesmen mungkin sangat lengkap. Tetapi jika membutuhkan waktu yang tidak tersedia bagi pendidik, hasilnya bisa tidak konsisten atau akhirnya tidak digunakan. Dalam keadaan seperti itu, masalahnya bukan semata-mata pada pelaksana. Bisa jadi desainnya memang tidak sesuai dengan kenyataan kerja.
+Konteks bukan sesuatu yang harus disingkirkan agar desain terlihat ideal. Konteks adalah bagian dari kenyataan yang perlu diperhitungkan.
 
-Prinsip ini juga berarti bahwa **konteks bukan gangguan terhadap desain**. Konteks adalah bagian dari kenyataan yang harus dipertimbangkan sejak awal. Sistem yang baik memiliki arah yang jelas, tetapi cukup lentur untuk diterapkan pada kondisi yang berbeda tanpa kehilangan fungsi utamanya.
+Dua lembaga dapat memiliki tujuan perkembangan yang sama tetapi menghadapi kondisi kerja, sumber daya, budaya, jumlah santri, waktu, dan kapasitas pendidik yang berbeda. Karena itu, desain perlu memiliki arah yang jelas sekaligus ruang untuk menyesuaikan bentuk penerapannya tanpa kehilangan fungsi utama.
 
-Karena itu desain TUMBUH perlu diuji melalui pengalaman nyata. Kita perlu melihat apakah orang memahami sistem, apakah sistem benar-benar dijalankan, apa yang sulit dilakukan, apa yang tidak bekerja, dan apa yang perlu diperbaiki.
+## Uji Sebelum Menganggap Desain Berfungsi
 
-Namun “bisa dilakukan” saja belum cukup. Sebuah prosedur yang mudah dijalankan tetapi tidak membantu tujuan pendidikan juga bukan desain yang baik. Yang dicari adalah keseimbangan antara **makna, manfaat, beban, dan kemungkinan pelaksanaan**.
+Sebelum sebuah komponen dimasukkan ke dalam sistem, kita perlu membayangkan bagaimana komponen tersebut benar-benar akan digunakan:
 
-Prinsip ini nantinya akan berhubungan erat dengan Implementation, Program, Assessment, dan Continuous Improvement. Foundation tidak menentukan detail operasionalnya. Foundation hanya menetapkan bahwa desain TUMBUH harus berangkat dari kenyataan manusia dan kondisi tempat sistem tersebut digunakan.
+- siapa yang menjalankannya;
+- kapan dan dalam kondisi apa dilakukan;
+- informasi apa yang dibutuhkan;
+- kemampuan apa yang diperlukan;
+- berapa banyak pekerjaan tambahan yang muncul;
+- apa yang terjadi ketika kondisi tidak ideal;
+- bagaimana kita mengetahui apakah komponen tersebut benar-benar membantu tujuan yang dimaksud.
+
+Pertanyaan tersebut membantu memindahkan perhatian dari **“apakah desain ini terlihat baik?”** menjadi **“apakah desain ini dapat berfungsi dalam kenyataan?”**
+
+## Beban Desain Perlu Dipertimbangkan
+
+Sebuah instrumen asesmen mungkin sangat lengkap. Tetapi jika membutuhkan waktu yang tidak tersedia bagi pendidik, hasilnya dapat tidak konsisten atau akhirnya tidak digunakan.
+
+Dalam keadaan seperti itu, masalahnya tidak selalu terletak pada pelaksana. Bisa jadi desainnya memang tidak sesuai dengan kenyataan kerja.
+
+Karena itu, beban yang muncul dari sebuah desain perlu dipertimbangkan sebagai bagian dari kualitas desain itu sendiri. Beban tidak selalu berarti desain harus ditolak, tetapi perlu dibandingkan dengan manfaat yang diharapkan.
+
+## Bisa Dilakukan Saja Tidak Cukup
+
+“Bisa dilakukan” bukan satu-satunya ukuran.
+
+Sebuah prosedur mungkin mudah dijalankan tetapi tidak membantu tujuan pendidikan. Sebaliknya, sebuah komponen mungkin memiliki manfaat penting tetapi membutuhkan dukungan atau penyesuaian agar dapat diterapkan dengan baik.
+
+Yang dicari adalah keseimbangan antara **makna, manfaat, beban, dan kemungkinan pelaksanaan**.
+
+## Belajar dari Pengalaman Nyata
+
+Desain TUMBUH perlu diuji melalui pengalaman nyata. Kita perlu memperhatikan apakah orang memahami sistem, apakah sistem benar-benar dijalankan, bagian mana yang sulit dilakukan, apa yang tidak bekerja seperti yang diharapkan, dan apa yang perlu diperbaiki.
+
+Pengalaman nyata tidak otomatis menjadi bukti bahwa suatu desain benar atau salah. Pengalaman menjadi bahan untuk ditelaah, dihubungkan dengan pertanyaan yang tepat, dan digunakan dalam proses perbaikan.
+
+## Hubungan dengan Layer TUMBUH
+
+Prinsip ini berhubungan erat dengan **Implementation, Program, Assessment, dan Continuous Improvement**.
+
+Implementation menerjemahkan rancangan ke dalam konteks lembaga. Program menjadi salah satu bentuk penerapan yang perlu sesuai dengan kondisi nyata. Assessment perlu mempertimbangkan beban dan kemampuan penggunaan. Continuous Improvement membantu sistem belajar dari pengalaman penerapan.
+
+Foundation tidak menentukan detail operasional masing-masing layer tersebut. Foundation menetapkan bahwa keputusan desain tidak boleh dilepaskan dari kenyataan manusia dan kondisi tempat sistem digunakan.
+
+## Arah Masa Depan
+
+TUMBUH perlu dirancang agar dapat menghadapi perubahan kondisi tanpa kehilangan tujuan dan prinsip dasarnya. Ketika konteks berubah, tidak semua bagian harus dipertahankan dalam bentuk yang sama.
+
+Perubahan kondisi dapat menjadi alasan untuk menyesuaikan desain, menguji kembali asumsi, atau menyederhanakan bagian tertentu. Yang dijaga adalah fungsi dan prinsip yang mendasarinya, bukan bentuk lama semata.
+
+## Traceability
+
+Pertimbangan terhadap konteks dan beban desain perlu dapat ditelusuri. Ketika suatu pilihan desain dibuat untuk kondisi tertentu, perlu dapat dijelaskan kebutuhan apa yang dipertimbangkan dan fungsi apa yang hendak dijaga.
+
+Jika kondisi berubah, traceability membantu melihat bagian mana yang perlu disesuaikan dan bagian mana yang tetap menjadi dasar.
+
+## Batas Prinsip
+
+Prinsip ini tidak menetapkan satu cara pelaksanaan, standar beban kerja, ukuran efisiensi, atau SOP yang berlaku untuk semua lembaga.
+
+Ia juga tidak berarti bahwa setiap variasi konteks harus menghasilkan sistem yang sepenuhnya berbeda.
+
+Prinsip ini menetapkan arah desain: **rancang berdasarkan kenyataan tempat dan manusia yang akan menggunakan TUMBUH, sambil tetap menjaga tujuan, fungsi, dan prinsip yang mendasarinya.**
