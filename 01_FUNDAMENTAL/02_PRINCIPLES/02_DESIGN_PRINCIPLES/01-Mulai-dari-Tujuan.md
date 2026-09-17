@@ -54,18 +54,6 @@ Setiap komponen penting dalam desain sebaiknya dapat menjawab:
 
 Dengan demikian, desain tidak menjadi kumpulan keputusan yang sulit dijelaskan asal-usulnya.
 
-## Tujuan dan Arah Masa Depan
-
-TUMBUH tidak hanya bertanya bagaimana memperbaiki keadaan yang sudah ada. Desain juga perlu mempertimbangkan **kemungkinan perkembangan yang ingin dimungkinkan ke depan**.
-
-Artinya, ketika memilih suatu komponen, pertanyaan yang relevan bukan hanya:
-
-> “Apakah ini menyelesaikan masalah sekarang?”
-
-tetapi juga:
-
-> “Apakah ini membantu membuka jalan menuju perkembangan yang ingin kita bangun?”
-
 ## Batas Prinsip
 
 Prinsip ini tidak menentukan:
