@@ -276,22 +276,6 @@ Dengan traceability ini, perubahan pada implementasi tidak otomatis dianggap seb
 
 ---
 
-## Arah Masa Depan
-
-Triad Growth perlu tetap cukup sederhana untuk dipahami dan digunakan, tetapi cukup terbuka untuk menampung kenyataan bahwa pertumbuhan manusia berlangsung dalam ekologi yang lebih luas.
-
-Seiring TUMBUH berkembang, pertanyaan pentingnya bukan sekadar apakah triad dapat digambar dengan baik, tetapi apakah model ini tetap membantu TUMBUH:
-
-- melihat santri sebagai manusia yang berpartisipasi;
-- melihat relasi sebagai bagian dari kondisi pertumbuhan;
-- melihat lembaga sebagai pembentuk kondisi, bukan hanya lokasi;
-- membedakan model dari klaim kausal;
-- dan memperluas konteks ketika kenyataan menuntutnya.
-
-Jika evidence atau research di masa depan menunjukkan kebutuhan perubahan substantif pada model, perubahan tersebut perlu melalui inquiry dan traceability yang sesuai.
-
----
-
 ## Inti satu kalimat
 
 > **Triad Growth menempatkan Santri, Guru/Musyrif, dan Lembaga sebagai tiga aktor utama yang perlu dilihat bersama ketika TUMBUH memahami dan membangun kondisi pertumbuhan dalam lembaga pendidikan.**
