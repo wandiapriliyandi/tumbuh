@@ -29,4 +29,4 @@ Dimensions bukan kecerdasan umum, kreativitas saja, pengetahuan saja, satu metod
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
