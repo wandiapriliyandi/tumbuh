@@ -45,12 +45,6 @@ Sebaliknya, jika semua fungsi dicampurkan, sistem kehilangan kejelasan yang dipe
 
 Karena itu, arah desainnya adalah **terintegrasi tetapi tidak bercampur aduk**.
 
-## Arah Masa Depan
-
-Ketika TUMBUH berkembang, penambahan komponen baru tidak cukup dinilai dari apakah komponen tersebut berguna secara terpisah. Perlu dilihat pula bagaimana ia terhubung dengan struktur yang sudah ada dan apakah fungsi barunya benar-benar diperlukan.
-
-Perkembangan sistem dapat berarti menambah hubungan, memperjelas batas, menggabungkan fungsi yang terlalu terpisah, atau mengurangi duplikasi. Dengan demikian, integrasi bukan sekadar membuat lebih banyak hubungan, tetapi membuat hubungan yang bermakna.
-
 ## Batas Prinsip
 
 Prinsip ini tidak menentukan struktur teknis setiap komponen, alur kerja operasional, format pencatatan, atau SOP lembaga.
