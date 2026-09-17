@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Communication adalah kemampuan membentuk pesan, menyampaikannya, menerima pesan orang lain, dan memahami maknanya sesuai tujuan dan konteks.**
 
 Jadi komunikasi bukan cuma “bisa ngomong”. Mendengar, memahami, memilih cara menyampaikan, dan menyesuaikan pesan juga bagian penting.
