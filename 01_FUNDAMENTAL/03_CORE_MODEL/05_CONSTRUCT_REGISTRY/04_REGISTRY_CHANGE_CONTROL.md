@@ -1,7 +1,5 @@
 # Construct Registry Change Control
 
-## Gampangnya
-
 Construct Registry harus stabil. Perubahan istilah atau definisi tidak dilakukan hanya karena ada ide baru, kebutuhan program, atau keinginan membuat model terlihat lebih lengkap.
 
 ## Material Change
