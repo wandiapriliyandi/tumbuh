@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Agency adalah kemampuan seseorang untuk sengaja memulai, menentukan arah, dan menjalankan tindakan dalam ruang nyata yang tersedia baginya.**
 
 Agency tidak berarti seseorang bebas melakukan apa saja. Tindakan selalu berlangsung dalam kondisi tertentu: ada aturan, relasi, peran, sumber daya, risiko, peluang, dan dukungan. Karena itu, Agency perlu dibaca bersama kondisi tempat seseorang bertindak.
