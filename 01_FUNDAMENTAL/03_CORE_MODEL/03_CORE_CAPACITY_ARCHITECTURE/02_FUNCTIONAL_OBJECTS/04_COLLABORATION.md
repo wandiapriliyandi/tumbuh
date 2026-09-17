@@ -1,7 +1,5 @@
 # Functional Object 04 — Collaboration
 
-## Gampangnya
-
 **Apa yang menjadi objek Collaboration?**
 
 Yang menjadi objek adalah **tindakan bersama**: kontribusi dan tindakan beberapa orang yang perlu diselaraskan untuk mencapai tujuan bersama.
