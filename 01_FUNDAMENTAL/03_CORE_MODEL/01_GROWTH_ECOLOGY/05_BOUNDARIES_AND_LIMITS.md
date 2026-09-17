@@ -1,16 +1,12 @@
-# Boundaries and Limits
+# Boundaries and Limits — Batas dan Ruang Lingkup Growth Ecology
 
-## Mengapa batas konsep diperlukan?
+## Peran file ini
 
-Growth Ecology dibuat agar TUMBUH dapat melihat pertumbuhan manusia secara lebih utuh.
+Growth Ecology membantu TUMBUH melihat bahwa pertumbuhan manusia selalu berlangsung dalam lingkungan, konteks, dan relasi tertentu.
 
-Tetapi semakin luas sebuah konsep, semakin besar pula risiko konsep tersebut menjadi terlalu longgar.
+Tetapi konsep yang luas mudah berubah menjadi konsep yang menjelaskan segala sesuatu. Karena itu, file ini menetapkan batas: **apa yang termasuk Growth Ecology, apa yang berada di domain lain, dan apa yang belum boleh disimpulkan dari sebuah pengamatan ekologis.**
 
-Karena itu, file ini menetapkan batas sederhana:
-
-> **Apa yang termasuk Growth Ecology, apa yang tidak, dan apa yang belum boleh disimpulkan darinya?**
-
-Batas ini penting agar Growth Ecology tidak berubah menjadi istilah untuk menjelaskan segala sesuatu.
+Batas ini bukan untuk mempersempit cara melihat manusia. Batas ini justru menjaga agar cara melihat yang luas tetap jelas, dapat digunakan, dan dapat ditelusuri.
 
 ---
 
@@ -20,71 +16,71 @@ Growth Ecology membahas **kondisi lingkungan dan relasi tempat pertumbuhan berla
 
 Di dalamnya termasuk:
 
-- Triad Growth;
-- connected contexts;
-- institutional ecology;
-- relational dynamics;
+- **Triad Growth**;
+- **Connected Contexts**;
+- **Institutional Ecology**;
+- **Relational Dynamics**;
 - hubungan antara manusia dan lingkungan yang relevan terhadap proses pertumbuhan.
 
-Fokusnya adalah konteks:
+Pertanyaan utamanya adalah:
 
-> **di mana, bersama siapa, dan dalam relasi seperti apa pertumbuhan berlangsung.**
+> **Di mana, bersama siapa, dan dalam relasi seperti apa pertumbuhan berlangsung?**
+
+Jadi, Growth Ecology berfokus pada **konteks pertumbuhan**, bukan seluruh hal yang berkaitan dengan pertumbuhan.
 
 ---
 
 ## 2. Apa yang bukan Growth Ecology?
 
-Growth Ecology bukan tempat untuk memasukkan semua konsep TUMBUH.
+Growth Ecology tidak menjadi tempat untuk menampung semua konsep TUMBUH.
 
 ### Bukan Core Capacity
 
-Self-Regulation, Critical Thinking, Communication, Collaboration, Physical Functioning, Social Understanding, Agency, dan Problem Solving adalah **Core Capacities**.
+Self-Regulation, Critical Thinking, Communication, Collaboration, Physical Functioning, Social Understanding, Agency, dan Problem Solving merupakan **Core Capacities**.
 
-Growth Ecology menjelaskan konteks tempat kapasitas tersebut dapat berkembang, bukan mendefinisikan kapasitas itu sendiri.
+Growth Ecology membantu menjelaskan konteks tempat kapasitas tersebut berkembang. Ia tidak mendefinisikan kapasitas itu sendiri.
 
 ### Bukan Growth Mechanism
 
 Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation berada dalam **Growth Mechanism**.
 
-Growth Ecology menjelaskan ecology tempat proses tersebut berlangsung.
+Growth Ecology menjelaskan ecology tempat proses tersebut berlangsung, bukan mekanisme perubahan itu sendiri.
 
 ### Bukan Progression
 
-Tahapan, milestone, gateway, dan transition criteria berada di domain **Progression**.
+Tahapan, milestone, gateway, dan transition criteria berada dalam **Progression**.
 
 Growth Ecology tidak menentukan kapan seseorang harus berpindah tahap.
 
 ### Bukan Assessment
 
-Rubrik, instrumen, evidence protocol, monitoring, dan reporting berada di domain **Assessment**.
+Rubrik, instrumen, evidence protocol, monitoring, dan reporting berada dalam **Assessment**.
 
-Growth Ecology dapat membantu menentukan konteks yang perlu diperhatikan ketika assessment dilakukan, tetapi bukan assessment itu sendiri.
+Growth Ecology dapat membantu menentukan konteks yang perlu diperhatikan saat assessment, tetapi bukan assessment itu sendiri.
 
 ### Bukan Intervention
 
-Respons preventif, developmental support, corrective support, recovery, dan case management berada di domain **Intervention**.
+Respons preventif, developmental support, corrective support, recovery, dan case management berada dalam **Intervention**.
 
-Growth Ecology membantu memahami kondisi, tetapi tidak otomatis menentukan tindakan intervensi.
+Growth Ecology membantu memahami kondisi; ia tidak otomatis menentukan tindakan yang harus dilakukan.
 
 ### Bukan Program
 
 Program adalah bentuk konkret pelaksanaan pendidikan.
 
-Growth Ecology bukan katalog program.
+Growth Ecology bukan katalog program dan bukan rancangan kegiatan.
 
 ---
 
 ## 3. Ecology bukan daftar semua lingkungan
 
-TUMBUH tidak membutuhkan daftar tanpa akhir tentang semua tempat atau kelompok yang mungkin berhubungan dengan kehidupan seseorang.
+TUMBUH tidak membutuhkan daftar tanpa akhir tentang semua tempat, kelompok, atau lingkungan yang mungkin berhubungan dengan kehidupan seseorang.
 
-Connected Contexts digunakan secara **relevan dan proporsional**.
+**Connected Contexts digunakan secara relevan dan proporsional.**
 
-Misalnya, ketika memahami masalah adaptasi santri baru, tidak selalu diperlukan analisis mendalam terhadap seluruh konteks sosial-budaya nasional.
+Misalnya, ketika memahami adaptasi santri baru, tidak selalu diperlukan analisis mendalam terhadap seluruh konteks sosial-budaya nasional. Namun, jika suatu konteks ternyata relevan terhadap situasi, konteks tersebut tidak boleh diabaikan hanya karena berada di luar lembaga.
 
-Sebaliknya, jika suatu konteks ternyata relevan terhadap situasi, konteks tersebut tidak boleh diabaikan hanya karena tidak berada di dalam lembaga.
-
-Jadi prinsipnya:
+Prinsipnya:
 
 > **Cukup luas untuk tidak menyederhanakan manusia, tetapi cukup terbatas agar tetap dapat digunakan.**
 
@@ -92,21 +88,21 @@ Jadi prinsipnya:
 
 ## 4. Ecology bukan teori sebab-akibat
 
-Ini adalah batas epistemik utama.
+Ini adalah salah satu batas epistemik utama Growth Ecology.
 
-Jika sebuah konteks hadir bersamaan dengan suatu outcome, TUMBUH tidak otomatis menyatakan:
+Jika sebuah konteks hadir bersamaan dengan suatu outcome, TUMBUH **tidak otomatis menyimpulkan bahwa konteks tersebut menyebabkan outcome tersebut**.
 
-> “Konteks tersebut menyebabkan outcome tersebut.”
-
-Growth Ecology menyediakan **cara melihat konteks**, bukan bukti kausal.
+Growth Ecology menyediakan cara untuk melihat konteks. Ia bukan bukti kausal.
 
 Contoh:
 
 > Santri yang mendapatkan dukungan musyrif yang lebih baik tampak lebih mampu menghadapi kesulitan.
 
-Temuan tersebut dapat menjadi bahan observasi atau hipotesis.
+Pengamatan tersebut dapat menjadi bahan observasi atau hipotesis. Untuk menyatakan bahwa dukungan musyrif menyebabkan perubahan tertentu, dibutuhkan evidence penelitian yang sesuai dengan jenis klaimnya.
 
-Untuk menyatakan bahwa dukungan musyrif menyebabkan perubahan tertentu, dibutuhkan evidence penelitian yang sesuai dengan jenis klaimnya.
+Dengan demikian:
+
+**observasi ekologis → pertanyaan/hipotesis → penelitian → evidence → klaim dengan tingkat kepastian tertentu**
 
 ---
 
@@ -114,7 +110,7 @@ Untuk menyatakan bahwa dukungan musyrif menyebabkan perubahan tertentu, dibutuhk
 
 TUMBUH tidak memandang manusia sebagai produk pasif dari lingkungannya.
 
-Lingkungan penting, tetapi manusia juga memiliki agency.
+Lingkungan penting, tetapi manusia juga memiliki **agency**.
 
 Secara konseptual:
 
@@ -126,11 +122,11 @@ RELASI
 LINGKUNGAN
 ```
 
-Hubungan tersebut dapat saling berinteraksi.
+Hubungan tersebut dapat saling memengaruhi. Karena itu:
 
-Karena itu, dua santri yang berada dalam lingkungan yang sama tidak harus mengalami atau merespons lingkungan tersebut dengan cara yang sama.
-
-Sebaliknya, perbedaan respons individu tidak selalu berarti lingkungan tidak relevan.
+- dua santri dalam lingkungan yang sama tidak harus mengalami atau merespons lingkungan dengan cara yang sama;
+- perbedaan respons individu tidak selalu berarti lingkungan tidak relevan;
+- kondisi lingkungan juga tidak boleh dipakai sebagai penjelasan tunggal tanpa memperhatikan agency dan konteks lain yang relevan.
 
 ---
 
@@ -138,13 +134,13 @@ Sebaliknya, perbedaan respons individu tidak selalu berarti lingkungan tidak rel
 
 Pendekatan ekologis tidak boleh berubah menjadi:
 
-> “Semua kesalahan berasal dari sistem.”
+> **“Semua masalah berasal dari sistem.”**
 
-TUMBUH juga menolak kebalikan yang sama sederhananya:
+TUMBUH juga tidak mengambil kebalikan yang sama sederhananya:
 
-> “Semua masalah berasal dari individu.”
+> **“Semua masalah berasal dari individu.”**
 
-Pertanyaan yang lebih tepat adalah:
+Pertanyaan yang lebih berguna adalah:
 
 - apa yang terjadi pada individu;
 - kondisi apa yang sedang dihadapi;
@@ -153,7 +149,7 @@ Pertanyaan yang lebih tepat adalah:
 - bagaimana individu merespons;
 - dan evidence apa yang tersedia untuk membuat kesimpulan.
 
-Dengan cara ini, konteks dan agency dapat dipertimbangkan bersama.
+Dengan cara ini, **konteks dan agency dipertimbangkan bersama**, tanpa otomatis memindahkan seluruh tanggung jawab kepada salah satunya.
 
 ---
 
@@ -161,13 +157,11 @@ Dengan cara ini, konteks dan agency dapat dipertimbangkan bersama.
 
 Melihat banyak konteks tidak berarti setiap keputusan harus menunggu investigasi yang tidak pernah selesai.
 
-Dalam praktik, informasi yang tersedia sering terbatas.
-
-Karena itu TUMBUH perlu membedakan:
+Dalam praktik, informasi sering terbatas. Karena itu TUMBUH perlu membedakan:
 
 1. **apa yang diketahui;**
 2. **apa yang belum diketahui;**
-3. **apa yang hanya merupakan dugaan;**
+3. **apa yang masih berupa dugaan;**
 4. **apa yang perlu diteliti lebih lanjut.**
 
 Keputusan dapat dibuat berdasarkan informasi yang tersedia sesuai tingkat kepastian yang dimiliki, dengan tetap mengakui keterbatasannya.
@@ -176,11 +170,11 @@ Keputusan dapat dibuat berdasarkan informasi yang tersedia sesuai tingkat kepast
 
 ## 8. Ecology tidak sama dengan “baik” atau “buruk”
 
-Growth Ecology bersifat deskriptif dan konseptual pada level ini.
+Pada level ini, Growth Ecology bersifat **deskriptif dan konseptual**.
 
 Sebuah konteks tidak otomatis diberi label baik atau buruk hanya karena konteks tersebut ada.
 
-Contoh:
+Misalnya:
 
 - aturan ketat tidak otomatis buruk;
 - kebebasan tidak otomatis baik;
@@ -188,7 +182,7 @@ Contoh:
 - sedikit kegiatan tidak otomatis baik;
 - lingkungan digital tidak otomatis negatif.
 
-Penilaian normatif dan evaluasi terhadap suatu kondisi harus mempertimbangkan tujuan pendidikan, prinsip TUMBUH, kondisi nyata, dan evidence yang relevan.
+Penilaian terhadap suatu kondisi perlu mempertimbangkan tujuan pendidikan, prinsip TUMBUH, kondisi nyata, dan evidence yang relevan.
 
 ---
 
@@ -198,19 +192,19 @@ Perbedaan ini penting karena keduanya mudah tercampur.
 
 Contoh:
 
-> “Kualitas relasi antara musyrif dan santri perlu diperbaiki.”
+> **“Kualitas relasi antara musyrif dan santri perlu diperbaiki.”**
 
 Ini dapat menjadi **temuan atau kebutuhan ekologis**.
 
 Sedangkan:
 
-> “Lembaga membuat program pelatihan komunikasi musyrif selama enam minggu.”
+> **“Lembaga membuat program pelatihan komunikasi musyrif selama enam minggu.”**
 
 Ini sudah menjadi **intervention/program**, bukan Growth Ecology.
 
-Ecology membantu memahami kondisi.
+Sederhananya:
 
-Intervention menjelaskan tindakan yang sengaja dilakukan untuk merespons kondisi tersebut.
+> **Ecology membantu memahami kondisi. Intervention menjelaskan tindakan yang sengaja dilakukan untuk merespons kondisi tersebut.**
 
 ---
 
@@ -222,11 +216,11 @@ Contoh pertanyaan penelitian:
 
 > Apakah perubahan tertentu dalam pola pendampingan musyrif berkaitan dengan perubahan tertentu pada kapasitas santri?
 
-Pertanyaan tersebut harus diuji dengan desain penelitian dan evidence yang sesuai.
+Pertanyaan tersebut perlu diuji dengan desain penelitian dan evidence yang sesuai.
 
-Hasil penelitian kemudian dicatat dalam sistem evidence dan claim governance TUMBUH.
+Hasil penelitian kemudian dapat dicatat dalam sistem evidence dan claim governance TUMBUH.
 
-Dengan demikian:
+Alurnya:
 
 ```text
 Growth Ecology
@@ -242,9 +236,9 @@ Claim dengan tingkat kepastian tertentu
 
 ---
 
-## 11. Batas antara Ecology dan Core Model lain
+## 11. Batas dengan Core Model lain
 
-Hubungan konseptualnya dapat diringkas sebagai berikut:
+Secara konseptual, posisi Growth Ecology dapat dipahami melalui peta berikut:
 
 ```text
 FOUNDATION / PRINCIPLES
@@ -271,17 +265,17 @@ FOUNDATION / PRINCIPLES
       “bagaimana dijalankan?”
 ```
 
-Diagram ini adalah peta arsitektur konseptual, bukan urutan waktu yang selalu linear dalam praktik.
+Diagram tersebut adalah **peta arsitektur konseptual**, bukan urutan waktu yang selalu linear dalam praktik.
+
+Dalam penggunaan nyata, satu domain dapat memberi informasi kepada domain lain tanpa kehilangan batas konsepnya.
 
 ---
 
 ## 12. Kapan Growth Ecology perlu dibuka kembali?
 
-Growth Ecology tidak dianggap selesai secara mutlak selamanya.
+Growth Ecology tidak dianggap selesai secara mutlak selamanya. Namun, konsep ini juga tidak perlu terus-menerus diperluas setiap kali ditemukan konteks baru.
 
-Namun, konsep ini tidak perlu terus-menerus ditambah hanya karena ditemukan konteks baru.
-
-Pembukaan kembali arsitektur sebaiknya dilakukan hanya jika terdapat alasan material, misalnya:
+Arsitektur sebaiknya dibuka kembali jika terdapat alasan yang material, misalnya:
 
 - ditemukan kontradiksi konseptual;
 - terdapat konteks penting yang tidak dapat dijelaskan oleh struktur yang ada;
@@ -296,7 +290,7 @@ Menemukan contoh lingkungan baru **tidak otomatis** berarti perlu membuat Core M
 
 ## 13. Prinsip batas akhir
 
-Growth Ecology harus tetap memenuhi lima prinsip:
+Growth Ecology perlu tetap memenuhi lima prinsip:
 
 1. **Kontekstual** — pertumbuhan dilihat dalam lingkungan nyata.
 2. **Relasional** — hubungan antarorang dan lingkungan diperhatikan.
@@ -320,4 +314,4 @@ Klaim empiris atau kausal yang muncul dari penggunaan konsep ini harus diperlaku
 
 ## Ringkasnya
 
-> **Batas Growth Ecology adalah sederhana: ia menjelaskan konteks dan relasi tempat manusia tumbuh, tetapi tidak mengambil alih tugas menjelaskan mekanisme perubahan, kapasitas, progression, assessment, intervention, atau evidence.**
+> **Growth Ecology menjelaskan konteks dan relasi tempat manusia tumbuh. Ia membantu TUMBUH melihat manusia secara lebih utuh, tetapi tidak mengambil alih tugas menjelaskan mekanisme perubahan, kapasitas, progression, assessment, intervention, atau evidence.**
