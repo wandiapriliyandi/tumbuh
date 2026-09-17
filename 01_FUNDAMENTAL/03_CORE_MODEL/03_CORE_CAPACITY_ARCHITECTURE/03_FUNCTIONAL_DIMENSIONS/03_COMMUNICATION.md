@@ -1,7 +1,5 @@
 # Functional Dimensions 03 — Communication
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi penting dalam mengelola pesan dan makna dalam interaksi.
 
 ## Functional Object
