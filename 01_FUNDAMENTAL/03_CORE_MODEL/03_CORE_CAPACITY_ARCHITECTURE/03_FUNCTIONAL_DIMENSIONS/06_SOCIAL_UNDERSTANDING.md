@@ -1,7 +1,5 @@
 # Functional Dimensions 06 — Social Understanding
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi penting untuk memahami keadaan sosial, perspektif orang lain, relasi, dan konteks sosial.
 
 ## Functional Object
