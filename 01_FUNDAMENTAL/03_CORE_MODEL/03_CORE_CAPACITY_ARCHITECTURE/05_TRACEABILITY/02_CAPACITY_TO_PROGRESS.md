@@ -1,7 +1,5 @@
 # Capacity to Progression Trace
 
-## Gampangnya
-
 Bagian ini menjelaskan **bagaimana Core Capacity dapat diterjemahkan ke dalam Progression tanpa mengubahnya menjadi daftar usia, checklist perilaku, atau urutan perkembangan yang kaku**.
 
 Traceability di sini menjaga agar hubungan antara apa yang dikembangkan dan bagaimana perkembangan itu direpresentasikan tetap dapat ditelusuri.
