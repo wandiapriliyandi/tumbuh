@@ -1,7 +1,5 @@
 # Functional Dimensions 05 — Physical Functioning
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi fisik utama yang memungkinkan seseorang menjalankan aktivitas sesuai tuntutan kondisi tertentu.
 
 ## Functional Object
