@@ -1,188 +1,217 @@
-# CM-02 — Growth Mechanism
+# Growth Mechanism — Mekanisme Pertumbuhan
 
 **Status:** PROVISIONAL — CORE MODEL
 
-## Apa maksudnya?
+## Peran folder ini
 
-**Growth Mechanism menjelaskan bagaimana kapasitas seseorang dapat berubah.**
+Growth Mechanism menjelaskan **bagaimana kapasitas seseorang dapat berubah melalui proses pertumbuhan**.
 
-Kalau Growth Ecology bertanya:
+Jika Growth Ecology membantu menjawab:
 
-> "Pertumbuhan terjadi di mana dan bersama siapa?"
+> **Di mana, bersama siapa, dan dalam kondisi apa pertumbuhan berlangsung?**
 
-maka Growth Mechanism bertanya:
+maka Growth Mechanism membantu menjawab:
 
-> **"Melalui proses apa perubahan kapasitas dapat terjadi?"**
+> **Melalui proses apa perubahan kapasitas dapat berlangsung?**
+
+Folder ini berada di dalam **Core Model**, sehingga fungsinya adalah menjelaskan logika konseptual pertumbuhan. Ia bukan kumpulan metode pembelajaran, program, SOP, atau bukti efektivitas.
 
 ---
 
-## Cara paling sederhana memahami mekanismenya
+## Cara membaca folder ini
 
-Seseorang mengalami sesuatu → terlibat di dalamnya → mencoba → mendapat informasi tentang hasilnya → merefleksikan → menyesuaikan cara bertindak → dan melalui proses berulang kapasitas dapat berkembang.
+Baca dokumen-dokumen di sini sebagai satu rangkaian konsep yang saling berhubungan, bukan sebagai prosedur langkah demi langkah.
+
+Secara sederhana:
 
 ```text
 EXPERIENCE
-    ↓
+     ↓
 ENGAGEMENT
-    ↓
+     ↓
 PRACTICE
-    ↓
+     ↓
 FEEDBACK ↔ REFLECTION
-    ↓
+     ↓
 ADAPTATION
-    ↓
+     ↓
 CAPACITY CHANGE
 ```
 
-**Support** dan **Environment** memengaruhi proses tersebut dari luar dan di sepanjang proses.
+**Support** dan **Environment** memengaruhi proses tersebut sepanjang berlangsungnya pertumbuhan.
+
+Panah di atas adalah **peta konseptual**, bukan urutan yang wajib dilalui setiap orang secara linear.
 
 ---
 
-## Arti setiap bagian
+## Peta isi folder
 
-### 1. Experience — mengalami
+### 01 — Experience, Engagement, and Practice
 
-Seseorang berhadapan dengan situasi, tugas, masalah, hubungan, atau kejadian nyata.
+Menjelaskan tiga bagian awal mekanisme:
 
-### 2. Engagement — terlibat
+- **Experience** — apa yang dialami seseorang;
+- **Engagement** — bagaimana seseorang terlibat dalam pengalaman;
+- **Practice** — kesempatan untuk mencoba, mengulang, memvariasikan, dan memperbaiki tindakan.
 
-Seseorang tidak hanya "mengalami", tetapi benar-benar terlibat dalam situasi tersebut.
+Ketiganya berbeda dan tidak otomatis menghasilkan capacity change.
 
-### 3. Practice — berlatih
+### 02 — Feedback and Reflection
 
-Seseorang mencoba melakukan sesuatu. Pengulangan dan variasi pengalaman dapat memberi kesempatan untuk berkembang.
+Menjelaskan bagaimana informasi dari pengalaman dan proses melihat kembali pengalaman dapat membantu seseorang memahami hasil dan menentukan penyesuaian berikutnya.
 
-### 4. Feedback — mendapat informasi
+Feedback dan reflection saling berhubungan, tetapi bukan hal yang sama dan tidak selalu menghasilkan adaptation.
 
-Seseorang memperoleh informasi tentang apa yang terjadi, apa yang berhasil, dan apa yang perlu diperbaiki.
+### 03 — Adaptation and Capacity Change
 
-### 5. Reflection — merefleksikan
+Menjelaskan penyesuaian tindakan atau functioning dan hubungannya dengan kemungkinan perubahan kapasitas.
 
-Seseorang memikirkan kembali pengalaman dan tindakannya: apa yang terjadi, mengapa terjadi, dan apa yang perlu dilakukan berikutnya.
+Bagian ini penting untuk menjaga perbedaan antara:
 
-### 6. Adaptation — menyesuaikan
+> **perubahan tindakan sesaat** dan **perubahan kapasitas yang lebih bermakna dan konsisten**.
 
-Cara bertindak dapat diubah berdasarkan pengalaman, feedback, dan refleksi.
+### 04 — Support and Environment
 
-### 7. Capacity Change — perubahan kapasitas
+Menjelaskan kondisi pendukung dan lingkungan yang dapat memengaruhi berlangsungnya mekanisme pertumbuhan.
 
-Jika proses pertumbuhan berjalan dan perubahan cukup bermakna, kapasitas fungsional dapat berkembang.
+Support dan environment bukan “tahap” tambahan dalam mekanisme.
 
-### 8. Support — dukungan
+### 05 — Nonlinearity and Context
 
-Pendampingan, bantuan, scaffolding, sumber daya, dan kondisi pendukung dapat membuat proses pertumbuhan lebih mungkin terjadi.
+Menjelaskan mengapa pertumbuhan tidak selalu berjalan lurus, seragam, atau menghasilkan perubahan yang sama pada setiap orang dan setiap konteks.
 
-### 9. Environment — lingkungan
+### 06 — Boundaries and Failure Modes
 
-Aturan, budaya, relasi, kesempatan, tuntutan, dan kondisi sekitar dapat mempermudah atau menghambat proses tersebut.
+Menjelaskan batas penggunaan Growth Mechanism dan cara menghindari kesalahan konseptual, seperti menganggap setiap pengalaman pasti menghasilkan pertumbuhan atau setiap perubahan performance sebagai capacity change.
 
----
+### 07 — Mechanism Audit
 
-## Ini bukan tangga satu arah
-
-Diagram di atas **bukan berarti semua orang selalu melalui urutan yang sama**.
-
-Dalam kehidupan nyata:
-
-- feedback dapat membuat seseorang mengubah praktik;
-- pengalaman baru dapat memicu refleksi;
-- refleksi dapat mengubah engagement;
-- dukungan dapat dibutuhkan di tengah proses;
-- kegagalan dapat menghasilkan adaptasi;
-- proses dapat berulang berkali-kali.
-
-Karena itu, mekanisme TUMBUH bersifat **interaktif dan kontekstual**, bukan resep linear.
+Merupakan pemeriksaan arsitektural terhadap keseluruhan Growth Mechanism: apakah konsepnya cukup jelas, tidak tumpang tindih dengan Growth Ecology atau Core Capacity Architecture, dan tetap terbuka terhadap validasi.
 
 ---
 
-## Contoh sederhana
+## Hubungan dengan bagian lain dari Core Model
 
-Santri sering terlambat.
-
-Bukan langsung:
-
-> "Berarti kapasitas self-regulation-nya rendah."
-
-TUMBUH melihat prosesnya:
+Growth Mechanism tidak berdiri sendiri.
 
 ```text
-Mengalami masalah waktu
-        ↓
-Terlibat dalam upaya mengatur jadwal
-        ↓
-Mencoba strategi baru
-        ↓
-Mendapat feedback
-        ↓
-Merefleksikan apa yang gagal
-        ↓
-Menyesuaikan strategi
-        ↓
-Mencoba lagi
-        ↓
-Apakah functioning berubah secara konsisten?
-        ↓
-Jika ya → ada indikasi capacity change
-```
-
-Ini juga menunjukkan mengapa **satu performance tidak boleh langsung disamakan dengan kapasitas**.
-
----
-
-## Capacity Change ≠ Performance sesaat
-
-Ini salah satu batas paling penting.
-
-Santri berhasil sekali → belum tentu kapasitasnya sudah berubah.
-
-Santri gagal sekali → belum tentu kapasitasnya tidak ada.
-
-Perubahan kapasitas perlu dilihat melalui bukti yang memadai, sesuai konteks dan tujuan inference.
-
----
-
-## Hubungan dengan Core Capacity
-
-Growth Mechanism menjelaskan **proses perubahan**.
-
-Core Capacity Architecture menjelaskan **apa yang berubah**.
-
-```text
+GROWTH ECOLOGY
+“di mana & bersama siapa?”
+          ↓
 GROWTH MECHANISM
-       ↓
-proses pertumbuhan
-       ↓
-CORE CAPACITY
-       ↓
-perubahan functioning
-       ↓
-OBSERVABLE EVIDENCE
+“melalui proses apa?”
+          ↓
+CORE CAPACITY ARCHITECTURE
+“kapasitas apa yang berubah?”
+          ↓
+PROGRESSION
+“bagaimana perkembangan dipahami?”
+          ↓
+ASSESSMENT
+“bagaimana perubahan dibuktikan?”
+          ↓
+INTERVENTION
+“bagaimana merespons?”
 ```
 
-Jadi jangan membaliknya menjadi:
-
-> "Karena ada latihan, pasti kapasitas berubah."
-
-Mekanisme hanya menjelaskan bagaimana perubahan **dapat** terjadi. Ia tidak otomatis menjamin hasil.
+Hubungan tersebut adalah hubungan arsitektural. Dalam praktik, proses pertumbuhan dapat berulang, berinteraksi, dan tidak selalu mengikuti urutan linear pada diagram.
 
 ---
 
-## Apa yang TIDAK dijelaskan Growth Mechanism?
+## Batas penting
 
-Model ini bukan:
+Growth Mechanism **bukan**:
 
-- metode pembelajaran;
+- metode pembelajaran tertentu;
 - program latihan;
 - SOP pendampingan;
-- tahapan usia universal;
+- resep untuk membuat seseorang berkembang;
+- tahapan perkembangan universal;
 - instrumen assessment;
-- bukti efektivitas intervensi;
-- teori kausal universal.
+- bukti efektivitas intervention;
+- atau teori kausal universal.
 
-Hal-hal tersebut berada di layer lain dan harus memiliki bukti sesuai jenis klaimnya.
+Mekanisme menjelaskan **bagaimana perubahan dapat berlangsung**, bukan menjamin bahwa perubahan akan terjadi.
+
+Karena itu:
+
+> **Experience bukan jaminan learning.**
+>
+> **Practice bukan jaminan capacity change.**
+>
+> **Feedback bukan jaminan adaptation.**
+>
+> **Performance bukan otomatis evidence of capacity.**
 
 ---
 
-## Inti satu kalimat
+## Prinsip membaca mekanisme
 
-> **Growth Mechanism menjelaskan bahwa kapasitas dapat berkembang melalui interaksi pengalaman, keterlibatan, praktik, feedback, refleksi, dan adaptasi, dalam kondisi dukungan dan lingkungan tertentu.**
+Ada beberapa gagasan yang harus dipertahankan ketika membaca seluruh folder:
+
+1. **Tidak linear** — proses dapat maju, berulang, berubah arah, atau berhenti.
+2. **Interaktif** — komponen mekanisme dapat saling memengaruhi.
+3. **Kontekstual** — proses berlangsung dalam ecology tertentu.
+4. **Berbasis agency** — individu bukan penerima pasif dari proses pertumbuhan.
+5. **Tidak deterministik** — adanya suatu proses tidak menjamin outcome tertentu.
+6. **Terhubung dengan evidence** — capacity change tidak boleh disimpulkan hanya dari asumsi mekanisme.
+
+---
+
+## Hubungan dengan Principles
+
+Growth Mechanism terutama menerjemahkan prinsip TUMBUH tentang:
+
+- mulai dari tujuan;
+- rancang untuk kenyataan;
+- berikan ruang bagi variasi manusia;
+- bangun mekanisme umpan balik dan perbaikan;
+- bedakan prinsip, klaim, keputusan, dan prosedur;
+- serta menjaga agar sistem tidak menjadi lebih rumit dari kebutuhan konseptualnya.
+
+Prinsip-prinsip tersebut memberi arah desain. Growth Mechanism menjelaskan model konseptual proses pertumbuhan yang mengikuti arah tersebut.
+
+---
+
+## Hubungan dengan PROBE dan evidence
+
+Growth Mechanism merupakan **model konseptual**, bukan hasil akhir validasi empiris.
+
+Karena itu PROBE dapat menguji pertanyaan seperti:
+
+- apakah komponen yang digunakan sudah cukup jelas;
+- apakah ada tumpang tindih antar-konsep;
+- apakah hubungan antar-komponen perlu direvisi;
+- klaim apa yang muncul ketika model digunakan;
+- dan evidence apa yang diperlukan untuk mendukung klaim tersebut.
+
+Jika evidence menunjukkan perlunya perubahan arsitektur, perubahan dilakukan pada model yang relevan. Jika evidence hanya mendukung atau menolak suatu klaim tertentu, klaim tersebut tidak otomatis mengubah seluruh model.
+
+---
+
+## Pertanyaan kunci untuk membaca folder
+
+Saat membaca setiap file, pertanyaan utamanya adalah:
+
+1. **Apa proses yang sedang dijelaskan?**
+2. **Apa yang membedakannya dari komponen lain?**
+3. **Apa yang dapat terjadi, tetapi tidak boleh dianggap pasti terjadi?**
+4. **Bagaimana konteks memengaruhi proses tanpa mengambil alih konsep Ecology?**
+5. **Kapan sebuah pernyataan berubah dari model konseptual menjadi empirical claim?**
+6. **Evidence seperti apa yang dibutuhkan jika klaim tersebut ingin diuji?**
+
+---
+
+## Status epistemik
+
+Growth Mechanism berstatus **provisional / conceptual / designed** dalam Core Model TUMBUH.
+
+Dokumen-dokumen di folder ini menjelaskan rancangan konseptual tentang proses pertumbuhan. Mereka tidak dengan sendirinya membuktikan efektivitas metode, program, intervention, atau hubungan kausal tertentu.
+
+Validasi lebih lanjut dilakukan melalui **PROBE, Research, Construct Registry, Claim Registry, dan Evidence** sesuai jenis pertanyaan dan klaimnya.
+
+---
+
+## Ringkasnya
+
+> **Growth Mechanism adalah cara TUMBUH menjelaskan bagaimana pengalaman, keterlibatan, praktik, feedback, reflection, dan adaptation dapat berhubungan dengan perubahan kapasitas, dengan dukungan dan lingkungan yang menyertainya — tanpa menganggap proses tersebut linear, pasti, atau otomatis terbukti secara empiris.**
