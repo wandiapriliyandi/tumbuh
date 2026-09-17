@@ -164,7 +164,7 @@ Kecukupan evidence, validitas indikator, keputusan assessment, dan inferensi ten
 | Assessment | Evidence apa yang digunakan dan inferensi apa yang sah? |
 | Intervention | Respons apa yang dirancang berdasarkan kebutuhan? |
 
-Functional Dimensions therefore sits **inside construct architecture**, not inside progression, assessment, or intervention.
+Functional Dimensions berada **di dalam construct architecture**, bukan di dalam progression, assessment, atau intervention.
 
 ## Governance
 
@@ -183,7 +183,7 @@ Perubahan yang hanya memperjelas wording tanpa mengubah identitas fungsi dapat d
 
 ## Validation Status
 
-Arsitektur Functional Dimensions berstatus **conceptually specified / empirically provisional**.
+Arsitektur Functional Dimensions berstatus **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**.
 
 Status ini berarti struktur dan batas konseptual telah ditetapkan untuk kebutuhan arsitektur TUMBUH, tetapi tidak boleh dibaca sebagai bukti bahwa:
 
