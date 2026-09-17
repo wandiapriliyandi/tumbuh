@@ -1,22 +1,22 @@
 # Adaptation and Capacity Change
 
-## Apa maksudnya?
+## Posisi dalam Growth Mechanism
 
-Dalam Growth Mechanism, **Adaptation** adalah penyesuaian cara seseorang bertindak atau berfungsi berdasarkan pengalaman dan informasi yang diperoleh.
+Dalam Growth Mechanism, **Adaptation** menjelaskan proses penyesuaian cara seseorang bertindak atau berfungsi berdasarkan pengalaman dan informasi yang tersedia.
 
-**Capacity Change** adalah perubahan pada kapasitas fungsional yang cukup bermakna sehingga dapat dipertimbangkan sebagai perkembangan kapasitas.
+**Capacity Change** menjelaskan perubahan pada kapasitas fungsional yang cukup bermakna sehingga dapat dipertimbangkan sebagai perkembangan kapasitas.
 
-Pertanyaan sederhananya:
+Pertanyaan utamanya adalah:
 
-> **Kapan proses belajar dari pengalaman mulai terlihat sebagai perubahan kemampuan berfungsi?**
+> **Kapan proses belajar dari pengalaman mulai terlihat sebagai perubahan functioning yang relevan dengan kapasitas?**
 
-Ini penting karena perubahan tindakan sesaat belum tentu berarti kapasitas telah berkembang.
+Batas ini penting karena perubahan tindakan sesaat belum tentu berarti kapasitas telah berkembang.
 
 ---
 
 ## 1. Adaptation — menyesuaikan
 
-Adaptation terjadi ketika seseorang mengubah cara menghadapi situasi berdasarkan informasi yang tersedia.
+**Adaptation** terjadi ketika seseorang menyesuaikan cara menghadapi situasi berdasarkan pengalaman, informasi, hasil tindakan, atau kondisi yang dihadapi.
 
 Contoh:
 
@@ -24,32 +24,32 @@ Contoh:
 
 Perubahan strategi tersebut merupakan contoh adaptation.
 
-Namun, adaptation tidak selalu berarti berhasil.
+Namun adaptation tidak selalu berarti strategi yang dipilih akan berhasil. Strategi baru yang ternyata kurang membantu tetap dapat menghasilkan informasi untuk percobaan berikutnya.
 
-Seseorang dapat mencoba strategi baru dan ternyata strategi tersebut tidak membantu. Hasil itu tetap dapat menjadi informasi untuk percobaan berikutnya.
+Jadi adaptation lebih tepat dipahami sebagai **proses penyesuaian**, bukan sinonim dari keberhasilan.
 
 ---
 
 ## 2. Adaptation bukan sekadar perubahan
 
-Tidak setiap perubahan adalah adaptation dalam arti Growth Mechanism.
+Tidak setiap perubahan merupakan adaptation dalam pengertian Growth Mechanism.
 
 Misalnya:
 
 - jadwal berubah karena aturan lembaga;
-- seseorang pindah tempat;
-- kondisi fisik berubah sementara;
-- seseorang melakukan sesuatu secara berbeda karena terpaksa.
+- seseorang berpindah tempat;
+- kondisi sementara berubah;
+- seseorang melakukan sesuatu secara berbeda karena tekanan atau paksaan situasi.
 
-Perubahan seperti itu belum tentu menunjukkan bahwa seseorang menggunakan pengalaman atau informasi untuk menyesuaikan cara berfungsi.
+Perubahan tersebut dapat memengaruhi functioning, tetapi belum tentu menunjukkan bahwa seseorang menggunakan pengalaman atau informasi untuk menyesuaikan cara berfungsi.
 
-Karena itu konteks dan proses perlu dilihat bersama.
+Karena itu perubahan perlu dibaca bersama proses dan konteksnya.
 
 ---
 
-## 3. Adaptation dapat berlangsung berulang
+## 3. Adaptation bersifat iteratif
 
-Pertumbuhan jarang berhenti pada satu kali penyesuaian.
+Pertumbuhan tidak selalu berhenti setelah satu kali penyesuaian.
 
 Secara sederhana:
 
@@ -69,33 +69,31 @@ Hasil baru
 Adaptation berikutnya
 ```
 
-Proses tersebut dapat berulang berkali-kali.
+Siklus tersebut dapat berulang, berhenti sementara, atau berubah arah ketika kondisi berubah.
 
-Karena itu, Growth Mechanism lebih tepat dipahami sebagai proses yang **iteratif** daripada tangga yang hanya bergerak satu arah.
+Karena itu Growth Mechanism lebih tepat dipahami sebagai proses **iteratif dan dinamis**, bukan tangga yang bergerak satu arah.
 
 ---
 
-## 4. Adaptation tidak selalu menghasilkan Capacity Change
+## 4. Adaptation tidak otomatis menghasilkan Capacity Change
 
-Ini batas yang sangat penting.
+Ini merupakan batas utama.
 
-Seseorang dapat menemukan strategi yang berhasil dalam satu situasi tanpa menunjukkan perubahan kapasitas yang lebih luas atau relatif stabil.
+Seseorang dapat menemukan strategi yang berhasil pada satu situasi tanpa menunjukkan perubahan kapasitas yang lebih luas atau relatif konsisten.
 
 Contoh:
 
 > Santri berhasil datang tepat waktu selama satu minggu karena selalu diingatkan oleh musyrif.
 
-Ada perubahan performance.
+Terdapat perubahan performance. Namun belum cukup untuk menyimpulkan bahwa self-regulation santri telah berkembang pada tingkat yang sama dengan performance tersebut.
 
-Tetapi belum cukup untuk menyimpulkan bahwa self-regulation santri telah berkembang secara mandiri.
-
-Diperlukan evidence yang sesuai dengan pertanyaan yang ingin dijawab.
+Untuk membuat inference tentang capacity change diperlukan evidence yang sesuai dengan pertanyaan, kapasitas, konteks, dan cara assessment yang digunakan.
 
 ---
 
 ## 5. Apa yang dimaksud Capacity Change?
 
-Capacity Change bukan sekadar:
+**Capacity Change** bukan sekadar:
 
 - nilai yang naik sekali;
 - tugas yang berhasil sekali;
@@ -104,21 +102,21 @@ Capacity Change bukan sekadar:
 - pengetahuan baru;
 - atau performance yang membaik sesaat.
 
-Capacity change mengarah pada perubahan dalam **functioning yang relevan dengan kapasitas**, dan perubahan tersebut perlu cukup bermakna serta didukung evidence yang memadai.
+Capacity change mengarah pada perubahan **functioning yang relevan dengan kapasitas**, dengan tingkat kebermaknaan dan konsistensi yang perlu dibaca berdasarkan evidence yang tersedia.
 
-Karena itu, pertanyaan yang lebih tepat bukan:
+Karena itu pertanyaan yang lebih tepat bukan hanya:
 
 > “Apakah santri berhasil?”
 
-tetapi:
+melainkan:
 
-> **“Apakah terdapat perubahan functioning yang menunjukkan perkembangan kapasitas dalam kondisi yang relevan?”**
+> **“Apakah terdapat perubahan functioning yang memberikan dasar untuk mempertimbangkan perkembangan kapasitas dalam kondisi yang relevan?”**
 
 ---
 
 ## 6. Performance dan Capacity tidak sama
 
-Hubungannya dapat digambarkan secara sederhana:
+Hubungan sederhananya dapat digambarkan:
 
 ```text
 CAPACITY
@@ -128,48 +126,50 @@ FUNCTIONING
 PERFORMANCE DALAM KONTEKS TERTENTU
 ```
 
-Namun hubungan ini tidak satu arah secara sederhana.
+Namun hubungan tersebut tidak sesederhana satu arah.
 
-Performance dipengaruhi banyak hal, termasuk:
+Performance juga dipengaruhi oleh:
 
 - tuntutan tugas;
 - kondisi lingkungan;
 - dukungan;
 - sumber daya;
-- keadaan fisik dan psikologis;
+- keadaan individu;
 - kesempatan;
 - dan karakteristik situasi.
 
-Karena itu satu performance tidak cukup untuk mengestimasi seluruh kapasitas seseorang.
+Karena itu satu performance tidak cukup untuk menggambarkan keseluruhan kapasitas seseorang.
+
+Sebaliknya, pola performance dalam kondisi yang relevan dapat menjadi salah satu sumber evidence ketika kapasitas hendak dipahami melalui assessment yang sesuai.
 
 ---
 
 ## 7. Peran Support
 
-Support dapat membantu seseorang mencapai functioning yang lebih baik daripada yang mungkin dicapai tanpa bantuan.
+**Support** dapat membantu seseorang mencapai functioning yang lebih baik daripada yang mungkin dicapai tanpa bantuan.
 
 Contoh:
 
 > Santri mampu menyelesaikan tugas setelah mendapat scaffolding dari musyrif.
 
-Ini adalah informasi penting.
+Ini merupakan informasi penting tentang functioning dalam kondisi tersebut.
 
-Tetapi jangan langsung menyimpulkan bahwa kapasitas santri sudah berubah pada tingkat yang sama dengan performance tersebut.
+Namun jangan langsung menyimpulkan bahwa capacity change telah terjadi pada tingkat yang sama dengan performance tersebut.
 
-Pertanyaan lanjutan dapat berupa:
+Pertanyaan yang dapat membantu memahami perubahan antara lain:
 
 - apakah santri dapat melakukannya kembali;
-- apakah kebutuhan support berkurang;
-- apakah strategi dapat digunakan dalam situasi lain;
+- apakah kebutuhan support berubah atau berkurang;
+- apakah strategi dapat digunakan dalam situasi lain yang relevan;
 - apakah perubahan tetap terlihat ketika kondisi berubah.
 
-Pertanyaan-pertanyaan ini masuk ke wilayah evidence dan assessment ketika hendak digunakan untuk membuat inference formal.
+Ketika pertanyaan tersebut digunakan untuk membuat inference formal, pembahasannya masuk ke wilayah **evidence dan assessment**.
 
 ---
 
 ## 8. Konsistensi dan transfer
 
-Dua hal dapat membantu memahami apakah perubahan functioning cukup bermakna untuk mempertimbangkan capacity change.
+Dua hal yang dapat membantu membaca apakah perubahan functioning cukup bermakna untuk mempertimbangkan capacity change adalah **konsistensi** dan **transfer**.
 
 ### Konsistensi
 
@@ -179,21 +179,21 @@ Apakah perubahan muncul lebih dari sekali dalam kondisi yang relevan?
 
 Apakah kemampuan berfungsi tersebut dapat digunakan pada situasi lain yang relevan, bukan hanya pada satu tugas yang sangat spesifik?
 
-Keduanya bukan aturan universal atau cutoff otomatis.
+Keduanya bukan cutoff universal.
 
-Kebutuhan evidence bergantung pada kapasitas, tujuan inference, konteks, dan cara assessment yang digunakan.
+Kebutuhan evidence bergantung pada kapasitas yang dibahas, tujuan inference, konteks, dan pendekatan assessment yang digunakan.
 
 ---
 
-## 9. Capacity Change tidak harus berarti perubahan besar
+## 9. Capacity Change tidak harus dramatis
 
-Pertumbuhan tidak selalu terlihat sebagai lompatan dramatis.
+Pertumbuhan tidak selalu terlihat sebagai lompatan besar.
 
-Perubahan kecil yang cukup konsisten dapat menjadi bagian dari perkembangan.
+Perubahan yang relatif kecil tetapi cukup konsisten dapat menjadi bagian dari perkembangan.
 
 Sebaliknya, perubahan besar dalam satu kesempatan belum tentu menunjukkan perubahan kapasitas.
 
-Jadi TUMBUH menghindari dua kesalahan:
+Karena itu TUMBUH menghindari dua penyederhanaan:
 
 > **“Perubahan kecil tidak berarti apa-apa.”**
 
@@ -201,11 +201,15 @@ dan
 
 > **“Perubahan besar sekali berarti kapasitas sudah berkembang.”**
 
+Makna perubahan perlu dibaca berdasarkan kapasitas, konteks, arah pertumbuhan, dan evidence yang relevan.
+
 ---
 
-## 10. Hubungan dengan Experience, Practice, Feedback, dan Reflection
+## 10. Hubungan dengan bagian lain dalam Growth Mechanism
 
-Adaptation biasanya muncul dalam hubungan dengan komponen lain dalam Growth Mechanism.
+Adaptation biasanya berhubungan dengan Experience, Engagement, Practice, Feedback, dan Reflection.
+
+Secara konseptual:
 
 ```text
 EXPERIENCE
@@ -229,6 +233,8 @@ Tanda tanya pada bagian terakhir penting.
 
 Growth Mechanism menjelaskan **kemungkinan proses perubahan**, bukan menjamin hasil tertentu.
 
+Selain itu, hubungan antarbagian dapat berputar dan tidak selalu mengikuti urutan yang sama.
+
 ---
 
 ## 11. Adaptation dan agency
@@ -237,27 +243,25 @@ Adaptation tidak selalu merupakan keputusan yang sepenuhnya sadar.
 
 Seseorang dapat belajar menyesuaikan diri melalui pengalaman yang berulang tanpa mampu menjelaskan seluruh prosesnya secara verbal.
 
-Namun, agency tetap penting karena seseorang dapat merespons kondisi, memilih tindakan, dan mengubah strateginya dalam batas kemampuan dan konteks yang tersedia.
+Pada saat yang sama, **agency** tetap penting. Seseorang dapat merespons kondisi, memilih tindakan, dan mengubah strategi dalam batas kemampuan dan konteks yang tersedia.
 
 Dengan demikian:
 
-> **Adaptation bukan berarti manusia sepenuhnya dikendalikan lingkungan, dan bukan pula berarti setiap perubahan adalah keputusan sadar yang disengaja.**
+> **Adaptation bukan berarti manusia sepenuhnya dikendalikan lingkungan, dan bukan pula berarti setiap perubahan harus merupakan keputusan sadar yang disengaja.**
 
 ---
 
-## 12. Adaptation bisa gagal
+## 12. Adaptation bisa gagal atau tidak mendukung arah pertumbuhan
 
-Tidak semua adaptation membantu.
+Tidak semua adaptation membantu perkembangan kapasitas yang sedang menjadi perhatian.
 
 Contoh:
 
-> Santri menemukan cara menghindari tugas yang sulit sehingga masalah langsung terasa lebih ringan.
+> Santri menemukan cara menghindari tugas yang sulit sehingga tekanan jangka pendek berkurang.
 
-Secara jangka pendek, ia berhasil mengurangi tekanan.
+Secara situasional, strategi tersebut mungkin terasa berhasil. Namun jika pola tersebut justru mengurangi kesempatan mengembangkan kemampuan menghadapi masalah, adaptation tersebut belum tentu mendukung arah pertumbuhan yang relevan.
 
-Tetapi jika pola tersebut justru menghambat perkembangan kemampuan menangani masalah, adaptation tersebut belum tentu mendukung growth yang diinginkan.
-
-Karena itu adaptation perlu dilihat terhadap **arah pertumbuhan yang relevan**, bukan hanya terhadap apakah situasi terasa lebih mudah.
+Karena itu adaptation perlu dilihat bukan hanya dari apakah situasi menjadi lebih mudah, tetapi juga dari **arah dan fungsi perubahan tersebut**.
 
 ---
 
@@ -265,7 +269,7 @@ Karena itu adaptation perlu dilihat terhadap **arah pertumbuhan yang relevan**, 
 
 TUMBUH tidak mendefinisikan growth sebagai perubahan apa pun.
 
-Perubahan perlu dipahami terhadap arah atau tujuan yang relevan.
+Perubahan perlu dipahami terhadap arah atau tujuan yang relevan dalam arsitektur TUMBUH.
 
 Secara sederhana:
 
@@ -281,23 +285,23 @@ PERUBAHAN FUNCTIONING
 APAKAH SELARAS DENGAN ARAH?
 ```
 
-Penilaian tentang “lebih berkembang” tidak dapat dilepaskan dari normative direction yang menjadi bagian dari arsitektur TUMBUH.
+Pertanyaan tentang keselarasan dengan arah pertumbuhan berbeda dari pertanyaan tentang apakah perubahan itu terjadi. Keduanya perlu dibedakan.
 
-Namun, dokumen ini tidak menetapkan rubrik atau kriteria skor untuk menentukan growth.
+Dokumen ini tidak menetapkan rubrik, skor, atau cutoff untuk menentukan growth.
 
 ---
 
-## 14. Capacity Change bukan diagnosis
+## 14. Capacity Change bukan diagnosis atau label pribadi
 
-Perubahan atau tidak adanya perubahan kapasitas dalam satu konteks tidak boleh otomatis digunakan untuk memberi label terhadap pribadi seseorang.
+Perubahan atau tidak adanya perubahan kapasitas dalam satu konteks tidak boleh otomatis digunakan untuk memberi label luas terhadap pribadi seseorang.
 
 Contoh:
 
 > “Dia memang tidak punya kemampuan mengatur diri.”
 
-adalah kesimpulan yang terlalu luas jika hanya berdasarkan beberapa performance.
+merupakan kesimpulan yang terlalu luas jika hanya didasarkan pada beberapa performance.
 
-Inference tentang kapasitas harus memiliki dasar evidence dan batas generalisasi yang jelas.
+Inference tentang kapasitas perlu memiliki dasar evidence dan batas generalisasi yang jelas.
 
 ---
 
@@ -313,7 +317,7 @@ Perubahan performance dapat menjadi hasil adaptation, tetapi keduanya bukan hal 
 
 ### Capacity Change ≠ Learning Outcome otomatis
 
-Seseorang dapat mempelajari pengetahuan baru tanpa setiap perubahan pengetahuan otomatis berarti perubahan pada semua kapasitas yang relevan.
+Pembelajaran atau pengetahuan baru tidak otomatis berarti semua kapasitas yang relevan telah berubah.
 
 ### Capacity Change ≠ Score Increase
 
@@ -321,7 +325,7 @@ Kenaikan skor adalah hasil pengukuran tertentu; maknanya terhadap kapasitas berg
 
 ### Capacity Change ≠ Permanent Change
 
-Growth tidak harus berarti perubahan yang tidak pernah dapat menurun. Functioning dan kapasitas dapat dipengaruhi kondisi, pengalaman baru, dan perubahan konteks.
+Growth tidak harus berarti perubahan yang tidak pernah menurun. Functioning dan kapasitas dapat dipengaruhi pengalaman baru dan perubahan konteks.
 
 ---
 
@@ -349,4 +353,4 @@ Klaim tentang kapan dan sejauh mana suatu proses menghasilkan capacity change ha
 
 ## Ringkasnya
 
-> **Adaptation adalah penyesuaian cara berfungsi berdasarkan pengalaman dan informasi; capacity change baru dapat dipertimbangkan ketika terdapat evidence yang menunjukkan perubahan functioning yang cukup bermakna dan relevan dengan kapasitas yang dimaksud.**
+> **Adaptation adalah proses penyesuaian cara berfungsi berdasarkan pengalaman dan informasi. Capacity change baru dapat dipertimbangkan ketika terdapat evidence yang cukup untuk menunjukkan perubahan functioning yang relevan dengan kapasitas yang dimaksud; perubahan sesaat atau performance tunggal belum cukup.**
