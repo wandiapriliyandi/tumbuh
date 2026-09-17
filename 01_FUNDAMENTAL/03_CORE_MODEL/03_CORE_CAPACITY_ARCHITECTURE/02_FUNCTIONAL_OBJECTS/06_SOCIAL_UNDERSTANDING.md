@@ -1,7 +1,5 @@
 # Functional Object 06 — Social Understanding
 
-## Gampangnya
-
 **Apa yang dipahami oleh Social Understanding?**
 
 Yang menjadi objek adalah **situasi sosial**: perspektif orang lain, hubungan antarorang, dan konteks sosial yang membuat suatu keadaan memiliki makna tertentu.
