@@ -151,14 +151,6 @@ Pada tahap awal, hubungan utama dapat dicatat langsung dalam dokumen. Ketika TUM
 
 Tujuannya bukan membuat sebanyak mungkin catatan, tetapi memastikan **informasi yang diperlukan untuk memahami alasan dan dampak perubahan dapat ditemukan ketika dibutuhkan**.
 
-## Arah Masa Depan
-
-Seiring TUMBUH berkembang, traceability diharapkan menjadi bagian dari kemampuan sistem untuk belajar tanpa kehilangan identitasnya.
-
-Ketika sebuah metode berubah, TUMBUH perlu dapat melihat apakah perubahan tersebut hanya menyentuh cara penerapan. Ketika sebuah keputusan desain berubah, TUMBUH perlu dapat melihat komponen apa yang terdampak. Dan ketika sebuah prinsip dasar dipertanyakan, TUMBUH perlu dapat melihat konsekuensi yang mungkin menjalar ke bagian lain.
-
-Dengan demikian, traceability bukan sekadar arsip masa lalu. Ia menjadi **peta hubungan yang membantu TUMBUH bergerak ke depan dengan sadar terhadap alasan, konsekuensi, dan batas perubahan**.
-
 ## Batas Prinsip
 
 Dokumen ini menjelaskan **apa yang perlu dapat ditelusuri dan mengapa traceability penting bagi Design Principles**. Dokumen ini tidak menetapkan:
