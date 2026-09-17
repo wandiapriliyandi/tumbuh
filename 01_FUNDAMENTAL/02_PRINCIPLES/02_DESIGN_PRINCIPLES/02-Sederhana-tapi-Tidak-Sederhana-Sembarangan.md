@@ -38,12 +38,6 @@ Prinsip ini membantu menjaga agar orientasi pengembangan tidak berubah menjadi s
 
 Kesederhanaan juga mendukung keterhubungan antarkomponen. Semakin banyak bagian yang ditambahkan tanpa kebutuhan yang jelas, semakin besar kemungkinan sistem menjadi terfragmentasi atau sulit ditelusuri.
 
-## Arah Masa Depan
-
-TUMBUH perlu dapat berkembang tanpa terus menambah kerumitan secara tidak terkendali. Ketika kebutuhan baru muncul, pertanyaannya bukan hanya **“apa yang perlu ditambahkan?”**, tetapi juga **“apa yang dapat disederhanakan, digabungkan, atau ditinggalkan?”**
-
-Dengan cara ini, perkembangan sistem tidak selalu berarti penambahan komponen. Perbaikan dapat berupa memperjelas, mengurangi, mengintegrasikan, atau mengubah bagian yang sudah ada.
-
 ## Traceability
 
 Setiap keputusan untuk menambah tingkat detail, komponen, istilah, pengukuran, atau langkah perlu memiliki alasan yang dapat ditelusuri kembali kepada fungsi dan kebutuhan yang dilayaninya.
