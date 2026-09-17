@@ -1,26 +1,29 @@
 # Boundaries and Failure Modes
 
-## Apa maksudnya?
+## Posisi dalam Growth Mechanism
 
-Growth Mechanism menjelaskan bagaimana perubahan kapasitas **dapat terjadi** melalui interaksi pengalaman, keterlibatan, praktik, feedback, reflection, dan adaptation dalam kondisi support dan environment.
+Growth Mechanism menjelaskan bagaimana perubahan capacity **dapat terjadi** melalui interaksi experience, engagement, practice, feedback, reflection, dan adaptation dalam kondisi support dan environment.
 
-Karena model ini bersifat konseptual, ia harus memiliki batas yang jelas. Tanpa batas tersebut, mekanisme mudah disalahgunakan untuk menjelaskan semua hal, mengubah dugaan menjadi kepastian, atau mencampurkan mekanisme dengan assessment, intervention, dan program.
+Karena model ini bersifat konseptual, batasnya harus jelas. Tanpa batas, mekanisme mudah berubah menjadi resep, penjelasan serba-bisa, klaim sebab-akibat, atau campuran dengan assessment, intervention, program, dan SOP.
 
-Dokumen ini mengunci batas dan failure modes utama.
+Dokumen ini menjadi **guardrail konseptual** untuk menjaga penggunaan Growth Mechanism tetap sesuai dengan perannya dalam Core Model.
 
 ---
 
 ## 1. Growth Mechanism bukan teori sebab-akibat universal
 
-Growth Mechanism menyediakan model konseptual tentang proses yang dapat mendukung perubahan capacity.
+Growth Mechanism adalah model konseptual tentang proses yang **dapat mendukung perubahan functioning dan capacity**.
 
-Ia **bukan** klaim bahwa:
+Ia bukan klaim bahwa:
 
-> setiap Experience selalu menyebabkan Engagement,
-> setiap Practice selalu menyebabkan Capacity Change,
-> atau setiap Support tertentu selalu menghasilkan Growth.
+- setiap experience selalu menghasilkan engagement;
+- setiap practice menghasilkan capacity change;
+- setiap feedback menghasilkan adaptation;
+- atau support tertentu selalu menghasilkan growth.
 
-Hubungan kausal tertentu harus diuji melalui evidence yang sesuai.
+Hubungan kausal tertentu harus menjadi klaim empiris tersendiri dan membutuhkan evidence yang sesuai.
+
+**Guardrail:** jangan mengubah hubungan konseptual dalam model menjadi kepastian kausal.
 
 ---
 
@@ -35,18 +38,16 @@ Engagement
   ↓
 Practice
   ↓
-Feedback
-  ↓
-Reflection
+Feedback ↔ Reflection
   ↓
 Adaptation
   ↓
 Capacity Change
 ```
 
-kemudian diperlakukan sebagai prosedur yang harus selalu terjadi dalam urutan tersebut.
+lalu diagram tersebut diperlakukan sebagai urutan yang wajib dilalui semua orang.
 
-Masalahnya, proses pertumbuhan dapat berulang, bercabang, berhenti, berubah arah, atau berlangsung dengan intensitas berbeda.
+Padahal proses dapat berulang, bercabang, berhenti sementara, berubah arah, atau berlangsung dengan intensitas berbeda.
 
 **Guardrail:** diagram adalah representasi mekanisme konseptual, bukan SOP.
 
@@ -58,11 +59,9 @@ Kesalahan:
 
 > “Santri sudah mengikuti kegiatan, berarti sudah berkembang.”
 
-Mengikuti kegiatan hanya menunjukkan adanya exposure atau pengalaman tertentu.
+Mengikuti kegiatan menunjukkan adanya pengalaman atau exposure tertentu. Itu belum membuktikan engagement, practice yang bermakna, adaptation, atau capacity change.
 
-Belum tentu terdapat engagement, practice yang bermakna, adaptation, atau capacity change.
-
-**Guardrail:** pisahkan kesempatan mengalami dari bukti perubahan kapasitas.
+**Guardrail:** bedakan kesempatan mengalami dari bukti perubahan.
 
 ---
 
@@ -72,9 +71,7 @@ Kesalahan:
 
 > “Hari ini santri berhasil, berarti capacity-nya sudah terbentuk.”
 
-Performance adalah functioning yang teramati dalam kondisi tertentu.
-
-Capacity membutuhkan inferensi yang lebih hati-hati dan evidence yang relevan.
+Performance adalah functioning yang teramati dalam kondisi tertentu. Capacity memerlukan inferensi yang lebih hati-hati dan evidence yang relevan.
 
 **Guardrail:** jangan mengubah satu performance snapshot menjadi klaim capacity change.
 
@@ -82,13 +79,11 @@ Capacity membutuhkan inferensi yang lebih hati-hati dan evidence yang relevan.
 
 ## 5. Failure mode: score disamakan dengan growth
 
-Skor dapat menjadi bagian dari evidence, tetapi skor itu sendiri bukan Growth Mechanism.
+Score dapat menjadi bagian dari evidence, tetapi score itu sendiri bukan Growth Mechanism.
 
-Peningkatan skor juga tidak otomatis membuktikan bahwa underlying capacity berubah.
+Peningkatan score tidak otomatis membuktikan perubahan underlying capacity. Sebaliknya, perubahan capacity juga tidak selalu dapat direpresentasikan oleh satu score.
 
-Sebaliknya, perubahan capacity dapat tidak sepenuhnya tertangkap oleh satu skor.
-
-**Guardrail:** interpretasi assessment tetap berada di domain Assessment dan harus memperhatikan kualitas evidence.
+**Guardrail:** interpretasi score dan evidence berada dalam domain Assessment; Growth Mechanism hanya memberi implikasi konseptual tentang bagaimana evidence perlu dibaca.
 
 ---
 
@@ -98,11 +93,11 @@ Kesalahan:
 
 > “Santri dapat menyelesaikan tugas, jadi sudah mandiri.”
 
-Jika functioning terjadi dengan scaffolding yang sangat intensif, maka tingkat bantuan merupakan bagian dari kondisi performance tersebut.
+Jika functioning terjadi dengan scaffolding yang intensif, tingkat dan jenis support merupakan bagian dari kondisi functioning tersebut.
 
 Support dapat memungkinkan functioning tanpa otomatis membuktikan independent functioning.
 
-**Guardrail:** ketika relevan, baca functioning bersama tingkat dan jenis support.
+**Guardrail:** ketika relevan, baca functioning bersama kondisi support yang menyertainya.
 
 ---
 
@@ -112,11 +107,9 @@ Kesalahan:
 
 > “Kalau masih membutuhkan bantuan berarti kapasitasnya rendah.”
 
-Kesimpulan ini terlalu cepat.
+Kesimpulan tersebut terlalu cepat. Support dapat relevan karena tuntutan meningkat, tugas baru, perubahan konteks, kebutuhan akses, atau kebutuhan belajar dan practice.
 
-Support dapat diperlukan karena tuntutan meningkat, tugas baru, kondisi lingkungan, atau kebutuhan akses terhadap kesempatan belajar dan practice.
-
-**Guardrail:** kebutuhan support harus dibaca secara kontekstual, bukan otomatis sebagai label kekurangan tetap.
+**Guardrail:** kebutuhan support dibaca secara kontekstual, bukan otomatis sebagai label kekurangan tetap.
 
 ---
 
@@ -126,21 +119,21 @@ Kesalahan:
 
 > “Semua masalah terjadi karena sistem.”
 
-Growth Ecology memang menempatkan individu dalam relasi dan lingkungan, tetapi TUMBUH tidak menghapus agency individu.
-
-Environment dapat membuka atau membatasi kondisi pertumbuhan tanpa menjadi penyebab tunggal setiap hasil.
+Growth Ecology menempatkan individu dalam relasi dan lingkungan, tetapi TUMBUH tetap mempertahankan agency individu. Environment dapat membuka atau membatasi kondisi pertumbuhan tanpa menjadi penyebab tunggal setiap hasil.
 
 **Guardrail:** pertimbangkan individu, relasi, support, demand, dan environment secara proporsional.
+
+Catatan penting: masalah teknis atau operasional tidak otomatis merupakan masalah pada sistem konseptual TUMBUH. Diagnosis harus dilakukan pada layer yang tepat.
 
 ---
 
 ## 9. Failure mode: individu disalahkan untuk semua hal
 
-Kesalahan kebalikannya:
+Kebalikannya juga bermasalah:
 
 > “Kalau santri belum berkembang, berarti santrinya yang bermasalah.”
 
-Ini mengabaikan peluang practice, kualitas feedback, support, demand, dan kondisi environment.
+Ini dapat mengabaikan peluang practice, feedback, support, demand, relasi, dan environment.
 
 **Guardrail:** sebelum menyimpulkan deficit individu, periksa kondisi proses pertumbuhan yang relevan.
 
@@ -152,9 +145,9 @@ Kesalahan:
 
 > “Karena growth tidak linear, apa pun boleh disebut perkembangan.”
 
-Tidak demikian.
+Nonlinearitas menjelaskan bentuk proses, bukan menghapus arah perkembangan.
 
-TUMBUH tetap memiliki arah normatif dan fungsional yang berasal dari layer di atasnya. Variasi proses tidak menghapus kebutuhan untuk menentukan apakah perubahan tersebut relevan dengan arah perkembangan.
+TUMBUH tetap membutuhkan arah normatif dan fungsional dari layer yang lebih fundamental.
 
 **Guardrail:** bedakan variasi jalur dari hilangnya arah perkembangan.
 
@@ -166,9 +159,9 @@ Kesalahan:
 
 > “Karena konteks berbeda, tidak ada standar yang dapat dipertanggungjawabkan.”
 
-Konteks memang memengaruhi functioning, tetapi bukan berarti semua functioning memiliki nilai atau makna yang sama.
+Konteks memang memengaruhi functioning, tetapi bukan berarti semua functioning memiliki makna atau relevansi yang sama.
 
-**Guardrail:** konteks diperhitungkan dalam interpretasi, sementara arah perkembangan dan tujuan tetap dijaga.
+**Guardrail:** konteks diperhitungkan dalam interpretasi, sementara arah perkembangan dan kebutuhan evidence tetap dijaga.
 
 ---
 
@@ -178,9 +171,7 @@ Kesalahan:
 
 > “Karena santri bisa di kelas, berarti pasti bisa di asrama.”
 
-Functioning dapat berbeda antar konteks.
-
-Transfer membutuhkan kesempatan dan evidence yang relevan.
+Functioning dapat berbeda antar konteks. Transfer membutuhkan kesempatan, tuntutan yang relevan, dan evidence yang sesuai.
 
 **Guardrail:** jangan menggeneralisasi capacity secara otomatis dari satu konteks ke konteks lain.
 
@@ -192,7 +183,7 @@ Kesalahan:
 
 > “Performance menurun, berarti capacity hilang.”
 
-Performance dapat berubah karena demand, support, environment, kondisi situasional, atau faktor lain.
+Performance dapat berubah karena demand, support, environment, kondisi situasional, pengalaman, atau faktor lain yang belum diketahui.
 
 **Guardrail:** cari pola sebelum membuat klaim tentang perubahan capacity.
 
@@ -200,31 +191,27 @@ Performance dapat berubah karena demand, support, environment, kondisi situasion
 
 ## 14. Failure mode: adaptation selalu dianggap positif
 
-Adaptation berarti penyesuaian functioning terhadap kondisi atau informasi.
+Adaptation berarti penyesuaian functioning terhadap kondisi atau informasi. Tidak setiap adaptation otomatis selaras dengan arah perkembangan yang dituju.
 
-Tidak semua adaptation secara otomatis selaras dengan arah perkembangan yang dituju.
+Seseorang dapat menyesuaikan diri secara efektif terhadap situasi jangka pendek tetapi dengan cara yang tidak selaras dengan tujuan normatif yang lebih luas.
 
-Seseorang dapat menyesuaikan diri dengan cara yang efektif untuk situasi jangka pendek tetapi tidak sesuai dengan tujuan normatif yang lebih luas.
-
-**Guardrail:** adaptation harus dibaca bersama arah perkembangan, bukan hanya keberhasilan menghadapi situasi sesaat.
+**Guardrail:** baca adaptation bersama arah perkembangan, bukan hanya keberhasilan menghadapi situasi sesaat.
 
 ---
 
 ## 15. Failure mode: feedback dianggap selalu membantu
 
-Feedback hanya menjadi berguna jika dapat dipahami, relevan, cukup tepat waktu, dan dapat digunakan untuk penyesuaian.
+Feedback tidak otomatis menghasilkan reflection atau adaptation.
 
-Feedback juga dapat tidak cocok dengan konteks atau tidak digunakan oleh penerima.
+Kegunaan feedback bergantung pada relevansi, keterpahaman, waktu pemberian, konteks, dan apakah informasi tersebut benar-benar dapat digunakan untuk penyesuaian.
 
-**Guardrail:** jangan menganggap pemberian feedback otomatis menghasilkan reflection atau adaptation.
+**Guardrail:** jangan menyamakan pemberian feedback dengan terjadinya perubahan.
 
 ---
 
 ## 16. Failure mode: reflection dianggap otomatis menghasilkan perubahan
 
 Seseorang dapat melakukan reflection tanpa mengubah tindakan.
-
-Karena itu:
 
 ```text
 REFLECTION
@@ -236,88 +223,88 @@ CAPACITY CHANGE
 
 Reflection merupakan bagian potensial dari mekanisme, bukan bukti otomatis hasil mekanisme.
 
+**Guardrail:** bedakan proses pengolahan pengalaman dari perubahan functioning atau capacity.
+
 ---
 
 ## 17. Failure mode: practice dianggap sekadar repetisi
 
-Practice bukan sekadar mengulang tindakan yang sama.
+Practice bukan sekadar mengulang tindakan.
 
-Jika seseorang mengulang kesalahan tanpa feedback, reflection, atau adjustment yang relevan, pengulangan tersebut belum tentu menghasilkan perubahan capacity.
+Pengulangan kesalahan tanpa feedback, reflection, atau adjustment yang relevan belum tentu menghasilkan perubahan capacity.
 
-**Guardrail:** lihat kualitas proses practice, bukan hanya jumlah pengulangan.
+**Guardrail:** perhatikan kualitas dan relevansi practice, bukan hanya jumlah pengulangan.
 
 ---
 
 ## 18. Failure mode: mechanism dipakai untuk membenarkan program tertentu
 
-Contoh kesalahan:
+Contoh:
 
-> “Karena Growth Mechanism membutuhkan practice, maka program X pasti merupakan program terbaik.”
+> “Karena Growth Mechanism membutuhkan practice, maka program X pasti program yang terbaik.”
 
-Kesimpulan tersebut melompat dari mekanisme konseptual ke efektivitas program.
+Kesimpulan tersebut melompat dari model konseptual ke klaim efektivitas program.
 
-**Guardrail:** efektivitas program harus menjadi klaim empiris tersendiri.
+**Guardrail:** efektivitas program adalah klaim empiris tersendiri.
 
 ---
 
 ## 19. Failure mode: mechanism dipakai sebagai intervention protocol
 
-Growth Mechanism dapat membantu memahami mengapa intervention mungkin dirancang untuk menyediakan experience, practice, feedback, atau support.
+Growth Mechanism dapat membantu menjelaskan mengapa suatu intervention mungkin menyediakan experience, practice, feedback, atau support.
 
-Tetapi ia tidak menentukan:
+Namun Growth Mechanism tidak menentukan:
 
 - siapa yang harus menerima intervention;
-- berapa lama intervention dilakukan;
-- metode apa yang wajib digunakan;
-- dosis intervention;
+- metode yang wajib digunakan;
+- durasi atau dosis;
+- urutan pelaksanaan;
 - atau kapan intervention dianggap efektif.
 
-Semua itu berada di domain Intervention dan Implementation.
+Detail tersebut berada pada domain **Intervention** dan **Implementation**.
+
+**Guardrail:** jangan mengubah model mekanisme menjadi resep intervensi.
 
 ---
 
 ## 20. Failure mode: mechanism dipakai sebagai assessment protocol
 
-Model ini dapat membantu menjelaskan mengapa evidence perlu mempertimbangkan konteks, support, performance, dan pola perubahan.
+Growth Mechanism dapat memberi alasan konseptual mengapa evidence perlu mempertimbangkan konteks, support, performance, demand, dan pola perubahan.
 
-Tetapi ia tidak menetapkan:
+Namun ia tidak menetapkan:
 
 - instrumen;
 - rubrik;
 - scoring;
-- sumber evidence tertentu sebagai satu-satunya sumber;
 - cut-off;
-- atau reporting format.
+- sumber evidence tunggal;
+- atau format reporting.
 
-Detail tersebut berada di domain Assessment.
+Detail tersebut berada pada domain **Assessment**.
+
+**Guardrail:** jangan menggunakan Growth Mechanism sebagai pengganti desain assessment.
 
 ---
 
 ## 21. Failure mode: capacity baru ditambahkan karena muncul dalam mekanisme
 
-Growth Mechanism memuat istilah seperti:
+Growth Mechanism memuat istilah seperti engagement, practice, feedback, reflection, dan adaptation.
 
-- engagement;
-- practice;
-- feedback;
-- reflection;
-- adaptation.
+Istilah tersebut **bukan otomatis Core Capacity**.
 
-Istilah-istilah tersebut **bukan otomatis Core Capacity**.
+Core Capacity mengikuti arsitektur dan governance pada **Core Capacity Architecture**.
 
-Core Capacity tetap mengikuti arsitektur dan governance pada **Core Capacity Architecture**.
-
-**Guardrail:** jangan membuat kapasitas baru hanya karena sebuah proses penting dalam mekanisme.
+**Guardrail:** jangan membuat capacity baru hanya karena sebuah proses penting dalam mekanisme.
 
 ---
 
-## 22. Failure mode: semua proses diberi label sebagai construct
+## 22. Failure mode: semua proses diberi label construct
 
-Tidak setiap istilah dalam mekanisme perlu menjadi construct yang berdiri sendiri dalam Construct Registry.
+Tidak setiap istilah dalam mekanisme harus menjadi construct yang berdiri sendiri dalam Construct Registry.
 
-Sebagian adalah komponen proses yang diperlukan untuk menjelaskan hubungan antarkomponen.
+Sebagian istilah berfungsi sebagai komponen proses yang diperlukan untuk menjelaskan hubungan antarkomponen.
 
-**Guardrail:** gunakan Construct Registry untuk construct yang memang membutuhkan status, definisi, batas, dan traceability tersendiri.
+**Guardrail:** gunakan Construct Registry hanya ketika sebuah construct memang membutuhkan status, definisi, batas, dan traceability tersendiri.
 
 ---
 
@@ -327,15 +314,15 @@ Contoh:
 
 > “Feedback membantu adaptation.”
 
-Sebagai hubungan konseptual, ini dapat menjadi bagian dari model.
+Dalam model konseptual, hubungan tersebut dapat digunakan untuk menjelaskan mekanisme.
 
-Namun:
+Tetapi:
 
 > “Feedback mingguan dari musyrif meningkatkan Self-Regulation sebesar X%.”
 
-adalah klaim empiris/kausal yang membutuhkan evidence khusus.
+merupakan klaim empiris/kausal yang membutuhkan evidence khusus.
 
-**Guardrail:** setiap kenaikan level klaim harus tercatat dan diuji sesuai jenis klaimnya.
+**Guardrail:** ketika level klaim berubah, status epistemik dan evidence yang dibutuhkan juga harus berubah.
 
 ---
 
@@ -343,27 +330,29 @@ adalah klaim empiris/kausal yang membutuhkan evidence khusus.
 
 Tidak semua perubahan manusia harus dipaksa masuk ke Growth Mechanism.
 
-Jika suatu fenomena tidak dapat dijelaskan dengan cukup baik oleh model, sistem harus mengakui keterbatasannya.
+Jika suatu fenomena tidak dapat dijelaskan dengan cukup baik oleh model, keterbatasan tersebut harus diakui.
 
-Pertanyaan yang belum terjawab menjadi:
+Pertanyaan yang belum terjawab dapat menjadi:
 
 - research need;
 - evidence gap;
-- atau kemungkinan perluasan model di masa depan.
+- atau alasan untuk meninjau kembali model.
 
 Bukan alasan untuk memperluas definisi secara sembarangan.
+
+**Guardrail:** lebih baik mengakui batas model daripada menjadikan model sebagai penjelasan serba-bisa.
 
 ---
 
 ## 25. Failure mode: model terlalu lengkap sehingga kehilangan kegunaan
 
-Ada risiko lain: setiap detail pertumbuhan dimasukkan ke dalam Core Model sampai model menjadi terlalu besar dan sulit digunakan.
+Ada risiko kebalikan: setiap detail pertumbuhan dimasukkan ke Core Model sampai model menjadi terlalu besar dan sulit digunakan.
 
-Core Model harus tetap cukup sederhana untuk menjelaskan mekanisme fundamental.
-
-Detail operasional tetap ditempatkan pada layer yang sesuai.
+Core Model harus tetap cukup sederhana untuk menjelaskan mekanisme fundamental. Detail operasional ditempatkan pada layer yang sesuai.
 
 > **Kelengkapan tidak sama dengan memasukkan semuanya ke Core Model.**
+
+**Guardrail:** pertahankan batas dan fungsi setiap layer.
 
 ---
 
@@ -377,7 +366,7 @@ Growth Mechanism mencakup:
 - Feedback;
 - Reflection;
 - Adaptation;
-- Capacity Change sebagai kemungkinan hasil perubahan functioning;
+- Capacity Change sebagai kemungkinan hasil perubahan;
 - Support;
 - Environment;
 - serta hubungan iteratif dan kontekstual antarkomponen tersebut.
@@ -393,85 +382,93 @@ Growth Mechanism tidak mencakup sebagai objek utamanya:
 - Effectiveness claims;
 - atau causal theory universal.
 
+Batas ini menjaga Growth Mechanism tetap berada pada level **Core Model**.
+
 ---
 
 ## 27. Hubungan dengan layer lain
 
 ```text
-FOUNDATION / PRINCIPLES
-          ↓
-     CORE MODEL
-          ↓
-GROWTH ECOLOGY ↔ GROWTH MECHANISM
-          ↓
-   CORE CAPACITY ARCHITECTURE
-          ↓
-      PROGRESSION
-          ↓
-      ASSESSMENT
-          ↓
-     INTERVENTION
-          ↓
-     IMPLEMENTATION
-          ↓
-PROGRAMS / PRACTICE / EVIDENCE
+PHILOSOPHY
+    ↓
+PRINCIPLES
+    ↓
+CORE MODEL
+    ├── GROWTH ECOLOGY
+    └── GROWTH MECHANISM
+            ↓
+    CORE CAPACITY ARCHITECTURE
+            ↓
+       PROGRESSION
+            ↓
+       ASSESSMENT
+            ↓
+      INTERVENTION
+            ↓
+      IMPLEMENTATION
+            ↓
+ PROGRAMS / PRACTICE / EVIDENCE
 ```
 
-Growth Mechanism berada di tengah arsitektur karena menjelaskan proses perubahan, bukan seluruh sistem operasional.
+Growth Ecology membantu menjelaskan **di mana, dengan siapa, dan dalam kondisi apa** pertumbuhan berlangsung.
+
+Growth Mechanism membantu menjelaskan **melalui proses apa perubahan dapat berlangsung**.
+
+Keduanya bukan pengganti layer setelahnya.
 
 ---
 
 ## 28. Governance dan epistemic discipline
 
-Jika muncul klaim baru tentang mekanisme pertumbuhan, klaim tersebut harus dapat ditelusuri berdasarkan status epistemiknya.
+Jika muncul klaim baru tentang mekanisme pertumbuhan, klaim tersebut perlu dapat ditelusuri berdasarkan status epistemiknya.
 
 Minimal dibedakan antara:
 
 - **Conceptual** — bagian dari model yang dirancang;
 - **Hypothesis** — dugaan yang perlu diuji;
 - **Empirical** — didukung evidence empiris tertentu;
-- **Causal** — membutuhkan desain evidence yang mampu mendukung inferensi kausal.
+- **Causal** — membutuhkan evidence yang mampu mendukung inferensi kausal.
 
 Perubahan pada mekanisme tidak dilakukan hanya karena sebuah teori populer menyatakan demikian.
 
-Perubahan harus memiliki alasan, traceability, dan evaluasi terhadap dampaknya pada arsitektur TUMBUH.
+Perubahan perlu memiliki alasan, traceability, dan evaluasi terhadap dampaknya pada arsitektur TUMBUH.
 
 ---
 
 ## 29. Kapan Growth Mechanism perlu dibuka kembali?
 
-Folder ini tidak perlu terus-menerus diperluas hanya untuk mengejar kelengkapan.
+Folder ini tidak perlu terus diperluas hanya untuk mengejar kelengkapan.
 
-Reopen dapat dipertimbangkan jika muncul:
+Peninjauan kembali dapat dipertimbangkan jika muncul:
 
-1. kontradiksi konseptual material;
+1. kontradiksi konseptual yang material;
 2. komponen penting yang tidak dapat dijelaskan;
 3. collision dengan Core Capacity atau Growth Ecology;
-4. failure of traceability;
-5. evidence baru yang materially challenges model;
-6. kebutuhan implementasi yang menunjukkan batas konseptual yang nyata;
+4. kegagalan traceability;
+5. evidence baru yang secara material menantang model;
+6. kebutuhan implementasi yang menunjukkan batas konseptual nyata;
 7. atau temuan research yang memerlukan revisi arsitektur.
 
 Perubahan kecil pada metode atau program tidak otomatis menjadi alasan membuka kembali Core Model.
 
 ---
 
-## 30. Status penutupan konseptual
+## 30. Status dan prinsip penutupan
 
 Setelah enam file pendalaman, Growth Mechanism memiliki batas konseptual yang cukup untuk digunakan sebagai **Core Model provisional** pada tahap pengembangan berikutnya.
 
 Penutupan ini berarti:
 
-> **model cukup jelas untuk menjadi mekanisme kerja konseptual dan menjadi dasar layer berikutnya, bukan berarti telah terbukti secara universal.**
+> **Model cukup jelas untuk menjadi mekanisme kerja konseptual dan menjadi dasar layer berikutnya; bukan berarti model telah terbukti secara universal.**
 
-Statusnya tetap:
+Status konsep ini tetap:
 
-**PROVISIONAL — CORE MODEL**
+**conceptual / designed / provisional**
 
-Validasi empiris, psikometrik, kausal, lintas konteks, dan efektivitas tetap merupakan agenda research tersendiri.
+Klaim empiris tentang faktor yang menyebabkan atau memprediksi pola growth tertentu harus dicatat sebagai klaim empiris tersendiri melalui mekanisme governance dan evidence yang sesuai.
 
 ---
 
 ## Ringkasnya
 
-> **Growth Mechanism menjelaskan kemungkinan proses perubahan capacity tanpa mengklaim bahwa setiap pengalaman menghasilkan growth, setiap support efektif, atau setiap performance membuktikan capacity change. Model ini bersifat konseptual, nonlinear, kontekstual, dan memiliki batas agar tidak berubah menjadi teori kausal universal, assessment protocol, intervention protocol, atau program.**
+> **Growth Mechanism menjelaskan proses yang memungkinkan perubahan, bukan resep yang menjamin perubahan. Batas utamanya adalah menjaga perbedaan antara model konseptual, evidence, causal claim, assessment, intervention, program, dan SOP. Ketika functioning berubah, TUMBUH perlu membaca pola secara kontekstual tanpa terlalu cepat menyalahkan individu, lingkungan, atau sistem.**
