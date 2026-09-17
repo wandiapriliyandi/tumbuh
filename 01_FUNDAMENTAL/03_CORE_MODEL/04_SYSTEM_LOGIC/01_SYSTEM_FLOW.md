@@ -1,7 +1,5 @@
 # System Flow — Alur Sistem TUMBUH
 
-## Gampangnya
-
 System Flow menjelaskan **bagaimana bagian-bagian TUMBUH saling terhubung sebagai satu sistem**. Ia membantu kita melihat dari mana suatu keputusan berasal, ke bagian mana keputusan tersebut diteruskan, dan bagaimana evidence dapat kembali digunakan untuk memperbaiki sistem.
 
 System Flow adalah **alur ketergantungan dan keterhubungan konseptual**. Ia bukan urutan bahwa manusia selalu tumbuh secara linear, dan bukan pula prosedur operasional yang harus dijalankan persis langkah demi langkah.
