@@ -1,7 +1,5 @@
 # Capacity Relationships
 
-## Gampangnya
-
 Bagian ini menjelaskan **bagaimana 8 Core Capacities dapat saling berhubungan ketika functioning terjadi dalam kehidupan nyata**.
 
 Bayangkan seorang santri sedang menghadapi persoalan bersama teman. Ia mungkin perlu memahami keadaan sosial, berbicara dengan orang lain, mengatur respons diri, mengambil inisiatif, dan mencari jalan keluar. Beberapa capacity dapat bekerja dalam satu kejadian yang sama.
