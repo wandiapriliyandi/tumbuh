@@ -1,7 +1,5 @@
 # Construct Identity and Boundaries
 
-## Gampangnya
-
 Construct identity menjaga agar sebuah konsep tetap menjadi dirinya sendiri ketika diterjemahkan ke progression, assessment, intervention, atau program.
 
 ## Identity Record
