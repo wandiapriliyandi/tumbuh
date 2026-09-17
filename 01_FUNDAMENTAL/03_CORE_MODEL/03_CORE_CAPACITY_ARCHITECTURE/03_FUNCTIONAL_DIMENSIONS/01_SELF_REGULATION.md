@@ -42,4 +42,4 @@ Dimensions bukan:
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
