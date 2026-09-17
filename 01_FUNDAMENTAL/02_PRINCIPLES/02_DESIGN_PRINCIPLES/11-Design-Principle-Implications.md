@@ -65,12 +65,4 @@ Sementara itu, traceability membantu menjaga jejak dari prinsip ke pertimbangan 
 
 Jika pengalaman di lapangan menunjukkan masalah, hal itu tidak otomatis berarti Design Principle atau Foundation salah. Masalah dapat berada pada keputusan desain, cara penerapan, prosedur, sumber daya, atau kondisi konteks. Diagnosis perlu dilakukan pada lapisan yang tepat sebelum perubahan ditetapkan.
 
-## Arah ke depan
-
-Seiring TUMBUH berkembang, implikasi ini dapat menjadi dasar untuk meninjau desain baru dan desain yang sudah ada. Namun bentuk pemeriksaannya tidak perlu dibuat semakin rumit hanya demi terlihat lengkap.
-
-Yang lebih penting adalah kemampuan untuk menjawab dengan jelas:
-
-> **Prinsip apa yang sedang diterjemahkan, konsekuensi desain apa yang muncul, mengapa keputusan tersebut dipilih, dan bagaimana kita mengetahui bahwa keputusan itu masih sesuai dengan tujuan serta kenyataan?**
-
 **Status:** DRAFT — MENUNGGU VALIDASI PROBE
