@@ -1,6 +1,8 @@
 # Institutional Ecology
 
-## Apa yang dimaksud Institutional Ecology?
+**Status:** CONCEPTUAL / DESIGNED — bagian dari Growth Ecology
+
+## Apa itu Institutional Ecology?
 
 **Institutional Ecology** menjelaskan bagaimana lembaga menjadi bagian dari lingkungan pertumbuhan manusia.
 
@@ -16,7 +18,7 @@ Karena itu, ketika pertumbuhan seseorang dipahami, kondisi lembaga dapat menjadi
 
 ## 1. Lembaga sebagai lingkungan pertumbuhan
 
-Lembaga dapat membentuk kondisi tempat pertumbuhan berlangsung melalui hal-hal seperti:
+Lembaga dapat membentuk kondisi tempat pertumbuhan berlangsung melalui:
 
 - kebijakan;
 - tata tertib dan aturan;
@@ -31,13 +33,13 @@ Lembaga dapat membentuk kondisi tempat pertumbuhan berlangsung melalui hal-hal s
 
 Ini tidak berarti lembaga selalu menentukan perkembangan santri.
 
-Lembaga adalah **bagian dari ecology**, bukan satu-satunya penjelasan tentang pertumbuhan.
+> **Lembaga adalah bagian dari ecology, bukan satu-satunya penjelasan tentang pertumbuhan.**
 
 ---
 
 ## 2. Mengapa ini penting?
 
-Tanpa Institutional Ecology, ada risiko TUMBUH terlalu cepat menempatkan persoalan pada individu.
+Tanpa Institutional Ecology, TUMBUH berisiko terlalu cepat menempatkan persoalan pada individu.
 
 Contoh:
 
@@ -57,7 +59,7 @@ Growth Ecology meminta kita juga melihat kondisi yang mengelilinginya:
 - apakah ada pola budaya yang membuat keterlambatan dianggap biasa;
 - apakah ada persoalan lain yang perlu dipahami.
 
-Tujuannya bukan membebaskan santri dari tanggung jawab.
+Tujuannya bukan membebaskan santri dari tanggung jawab dan bukan pula mencari pihak yang harus disalahkan.
 
 Tujuannya adalah **memahami situasi secara utuh sebelum mengambil keputusan**.
 
@@ -67,11 +69,9 @@ Tujuannya adalah **memahami situasi secara utuh sebelum mengambil keputusan**.
 
 Institutional Ecology dapat dilihat melalui beberapa dimensi konseptual.
 
-### A. Governance
+### Governance
 
-Bagaimana lembaga membuat dan menjalankan keputusan.
-
-Contohnya:
+Bagaimana lembaga membuat dan menjalankan keputusan:
 
 - siapa yang mengambil keputusan;
 - bagaimana tanggung jawab dibagi;
@@ -79,15 +79,15 @@ Contohnya:
 - bagaimana masalah ditindaklanjuti;
 - bagaimana keputusan diperbaiki ketika tidak berjalan baik.
 
-### B. Rules and Policies
+### Rules and Policies
 
 Aturan menentukan batas dan ekspektasi kehidupan bersama.
 
-Aturan yang jelas dapat membantu menciptakan keteraturan. Namun, aturan juga perlu dipahami dalam konteks tujuan pendidikan, penerapan, dan dampaknya.
+Aturan yang jelas dapat membantu menciptakan keteraturan. Namun aturan perlu dipahami bersama tujuan pendidikan, penerapan, dan dampaknya.
 
 TUMBUH tidak menganggap banyaknya aturan sebagai tanda kualitas lembaga.
 
-### C. Time and Experience Organization
+### Time and Experience Organization
 
 Lembaga mengatur sebagian besar pengalaman harian melalui:
 
@@ -102,7 +102,7 @@ Lembaga mengatur sebagian besar pengalaman harian melalui:
 
 Cara pengalaman diatur dapat menjadi bagian dari kondisi pertumbuhan.
 
-### D. Institutional Culture
+### Institutional Culture
 
 Budaya lembaga tercermin dalam kebiasaan dan pola interaksi yang berulang.
 
@@ -117,11 +117,9 @@ Misalnya:
 
 Budaya tidak selalu sama dengan aturan tertulis. Sesuatu dapat tidak tertulis tetapi tetap menjadi kebiasaan yang kuat.
 
-### E. Support System
+### Support System
 
-Lembaga juga menyediakan atau tidak menyediakan dukungan.
-
-Contohnya:
+Lembaga juga menyediakan atau tidak menyediakan dukungan, seperti:
 
 - dukungan guru dan musyrif;
 - akses bantuan;
@@ -130,7 +128,7 @@ Contohnya:
 - mekanisme rujukan;
 - dukungan ketika seseorang mengalami kesulitan.
 
-### F. Problem Handling
+### Problem Handling
 
 Cara lembaga merespons masalah merupakan bagian dari ecology.
 
@@ -142,23 +140,19 @@ Pertanyaan pentingnya:
 - apakah ada tindak lanjut;
 - apakah pengalaman dari kasus sebelumnya digunakan untuk memperbaiki sistem.
 
+Enam dimensi tersebut adalah **cara membaca ecology**, bukan checklist wajib dan bukan ukuran kualitas universal sebuah lembaga.
+
 ---
 
 ## 4. Hubungan dengan Triad Growth
 
 Institutional Ecology memperdalam sisi **Lembaga** dalam Triad Growth.
 
-Triad Growth:
-
 ```text
 Santri ↔ Guru/Musyrif ↔ Lembaga
 ```
 
-Institutional Ecology membantu menjelaskan bahwa “Lembaga” bukan entitas abstrak.
-
-Di dalamnya terdapat kondisi nyata yang membentuk pengalaman sehari-hari.
-
-Dengan demikian:
+“Lembaga” bukan entitas abstrak. Di dalamnya terdapat kondisi nyata yang membentuk pengalaman sehari-hari.
 
 ```text
 Growth Ecology
@@ -177,17 +171,13 @@ Ini tetap merupakan **peta konseptual**, bukan model sebab-akibat yang sudah ter
 
 ## 5. Hubungan dengan Guru dan Musyrif
 
-Guru dan musyrif berada dalam posisi yang unik.
-
-Mereka adalah bagian dari Triad sebagai aktor pertumbuhan, tetapi mereka juga bekerja di dalam kondisi institusional tertentu.
+Guru dan musyrif berada dalam posisi yang unik. Mereka merupakan aktor dalam Triad, tetapi juga bekerja di dalam kondisi institusional tertentu.
 
 Contoh:
 
 > Seorang musyrif ingin memberikan pendampingan yang lebih baik kepada santri, tetapi waktu pendampingannya sangat terbatas karena beban tugas administratif.
 
-Masalah ini tidak cukup dipahami hanya sebagai “kemampuan musyrif”.
-
-Perlu dilihat juga kondisi lembaga yang mengatur:
+Masalah ini tidak cukup dipahami hanya sebagai “kemampuan musyrif”. Perlu dilihat pula kondisi lembaga yang mengatur:
 
 - pembagian tugas;
 - beban kerja;
@@ -195,7 +185,7 @@ Perlu dilihat juga kondisi lembaga yang mengatur:
 - dukungan kepemimpinan;
 - prioritas organisasi.
 
-Dengan demikian, Institutional Ecology membantu menghubungkan perkembangan individu dengan kondisi sistem tanpa menghilangkan agency individu.
+Institutional Ecology membantu menghubungkan perkembangan individu dengan kondisi sistem **tanpa menghilangkan agency individu**.
 
 ---
 
@@ -209,7 +199,7 @@ Contoh:
 
 Pernyataan tersebut belum cukup untuk menyimpulkan bahwa aturan ketat menyebabkan ketertiban.
 
-Masih ada kemungkinan faktor lain, seperti:
+Masih mungkin terdapat faktor lain, seperti:
 
 - kualitas kepemimpinan;
 - seleksi peserta didik;
@@ -219,15 +209,13 @@ Masih ada kemungkinan faktor lain, seperti:
 - sumber daya;
 - atau faktor lain.
 
-Jika ingin membuat klaim kausal, klaim tersebut harus diuji melalui penelitian dan evidence yang sesuai.
+Jika ingin membuat klaim kausal, klaim tersebut harus diuji melalui research dan evidence yang sesuai.
 
 ---
 
-## 7. Lembaga juga merupakan sesuatu yang dapat bertumbuh
+## 7. Lembaga juga dapat berkembang
 
-Dalam TUMBUH, ecology lembaga tidak hanya dilihat sebagai latar bagi pertumbuhan santri.
-
-Lembaga sendiri dapat mengalami perkembangan dalam:
+Ecology lembaga tidak hanya menjadi latar bagi pertumbuhan santri. Lembaga sendiri dapat mengalami perkembangan dalam:
 
 - kapasitas sistem;
 - budaya;
@@ -238,41 +226,28 @@ Lembaga sendiri dapat mengalami perkembangan dalam:
 
 Hal ini sejalan dengan Growth Architecture yang mengenali **Institutional Development** sebagai salah satu jalur perkembangan yang terhubung dengan perkembangan santri dan pendidik.
 
-Namun, Institutional Ecology sendiri tidak menjadi progression model lembaga.
+Namun Institutional Ecology **bukan progression model lembaga**.
 
-Progression tetap berada di domain **03_PROGRESSION**.
+Progression tetap berada pada domain **03_PROGRESSION**.
 
 ---
 
 ## 8. Batas konsep
 
-Institutional Ecology perlu dibedakan dari beberapa konsep lain.
+| Konsep | Batasnya |
+|---|---|
+| **Institutional Ecology** | Kondisi lingkungan institusional tempat pertumbuhan berlangsung. |
+| **Institutional Development** | Proses perkembangan kapasitas lembaga. |
+| **Governance Model** | Salah satu aspek ecology, bukan keseluruhan ecology. |
+| **Program** | Kegiatan yang dirancang; berbeda dari kondisi sistem tempat kegiatan berlangsung. |
+| **Intervention** | Respons yang sengaja dirancang terhadap kebutuhan tertentu. Perubahan lingkungan dapat menjadi bagian dari intervensi, tetapi keduanya tetap berbeda. |
+| **Evidence of Effectiveness** | Kondisi lembaga bukan otomatis bukti bahwa suatu pendekatan efektif. |
 
-### Institutional Ecology ≠ Institutional Development
-
-Ecology menjelaskan **kondisi lingkungan institusional**.
-
-Development menjelaskan **proses perkembangan kapasitas lembaga**.
-
-### Institutional Ecology ≠ Governance Model
-
-Governance adalah salah satu bagian dari ecology, bukan keseluruhan konsepnya.
-
-### Institutional Ecology ≠ Program
-
-Program adalah bentuk kegiatan yang dirancang. Ecology adalah kondisi sistem tempat kegiatan tersebut berlangsung.
-
-### Institutional Ecology ≠ Intervention
-
-Intervensi adalah respons yang sengaja dirancang terhadap kebutuhan tertentu. Perubahan lingkungan institusional dapat menjadi bagian dari intervensi, tetapi ecology dan intervention tetap berbeda secara konseptual.
-
-### Institutional Ecology ≠ Evidence of Effectiveness
-
-Kondisi lembaga bukan otomatis bukti bahwa suatu pendekatan efektif.
+Batas ini menjaga Institutional Ecology tetap berada sebagai **model konseptual dalam Core Model**.
 
 ---
 
-## 9. Prinsip praktis
+## 9. Prinsip kerja
 
 Institutional Ecology memberi beberapa prinsip sederhana:
 
@@ -284,29 +259,62 @@ Institutional Ecology memberi beberapa prinsip sederhana:
 6. **Gunakan kasus dan pengalaman sebagai bahan pembelajaran sistem.**
 7. **Jangan mengubah hubungan kontekstual menjadi klaim kausal tanpa evidence.**
 
+Prinsip ini adalah prinsip kerja konseptual, **bukan SOP**.
+
 ---
 
-## 10. Status dan batas penggunaan
+## 10. Hubungan dengan Philosophy, Principles, dan Core Model
 
-Status konsep ini adalah **conceptual / designed**.
+Posisinya dapat dibaca sebagai:
 
-Institutional Ecology merupakan bagian dari **Growth Ecology** dan terutama memperdalam bagaimana lembaga menjadi lingkungan pertumbuhan.
+```text
+Philosophy
+    ↓
+Principles
+    ↓
+Core Model
+    ↓
+Growth Ecology
+    ↓
+Institutional Ecology
+```
 
-Konsep ini bukan:
+Institutional Ecology bukan sumber Philosophy baru dan bukan pengganti Principles.
 
-- teori kausal universal;
-- progression model;
-- assessment instrument;
-- rubric;
-- intervention procedure;
-- implementation SOP;
-- program;
-- atau bukti efektivitas.
+Ia memperdalam salah satu bagian Growth Ecology: **bagaimana kondisi kelembagaan menjadi bagian dari lingkungan pertumbuhan**.
 
-Jika TUMBUH ingin menyatakan bahwa karakteristik institusi tertentu menghasilkan outcome tertentu, klaim tersebut harus dicatat dan diuji pada domain **research dan evidence** dengan standar yang sesuai.
+---
+
+## 11. Hubungan dengan Evidence dan Research
+
+Institutional Ecology membantu menentukan **apa yang perlu diperhatikan** ketika membaca kondisi sebuah lembaga.
+
+Namun model ini tidak menentukan sebelumnya bahwa karakteristik institusi tertentu pasti efektif atau menyebabkan outcome tertentu.
+
+Jika TUMBUH membuat klaim tentang hubungan karakteristik lembaga dengan outcome tertentu, klaim tersebut perlu diperiksa melalui sumber, evidence, atau research yang sesuai.
+
+Dengan demikian:
+
+**Institutional Ecology → membantu memetakan kondisi institusional.**
+
+**Evidence / Research → membantu memeriksa apa yang dapat disimpulkan tentang pengaruh kondisi tersebut.**
+
+---
+
+## 12. Traceability
+
+Ketika Institutional Ecology dikembangkan atau diubah, perubahan perlu dapat ditelusuri:
+
+1. Apa masalah atau kebutuhan yang memunculkan perubahan?
+2. Dimensi ecology apa yang ditambahkan, diubah, atau dibatasi?
+3. Principles mana yang berkaitan?
+4. Apakah ada claim atau evidence yang mendukung atau menantang perubahan?
+5. Komponen Core Model atau layer berikutnya apa yang terdampak?
+
+Traceability menjaga agar perubahan pada praktik atau kebijakan tidak otomatis dianggap sebagai perubahan pada model inti.
 
 ---
 
 ## Ringkasnya
 
-> **Institutional Ecology memastikan bahwa lembaga dipahami bukan hanya sebagai tempat berlangsungnya pendidikan, tetapi sebagai lingkungan yang melalui tata kelola, aturan, budaya, pengaturan pengalaman, dukungan, dan penanganan masalah ikut membentuk kondisi tempat manusia bertumbuh—tanpa menganggap lembaga sebagai penyebab tunggal.**
+> **Institutional Ecology memastikan bahwa lembaga dipahami bukan hanya sebagai tempat berlangsungnya pendidikan, tetapi sebagai lingkungan yang melalui tata kelola, aturan, budaya, pengaturan pengalaman, dukungan, dan penanganan masalah menjadi bagian dari kondisi tempat manusia bertumbuh—tanpa menganggap lembaga sebagai penyebab tunggal.**
