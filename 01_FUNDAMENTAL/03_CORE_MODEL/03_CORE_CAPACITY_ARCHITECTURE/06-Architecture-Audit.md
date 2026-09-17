@@ -3,25 +3,31 @@
 **Status:** FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS  
 **Scope:** Audit arsitektur, bukan penambahan construct baru.
 
-## 1. Tujuan Audit
+## Gampangnya
 
-Audit ini memeriksa apakah Core Capacity Architecture sudah cukup jelas untuk menjalankan fungsi yang ditempatkan padanya dalam Core Model TUMBUH:
+Audit ini menjawab pertanyaan sederhana:
 
-> **Growth Ecology menjelaskan medan pertumbuhan. Growth Mechanism menjelaskan proses perubahan. Core Capacity Architecture menjelaskan apa yang berkembang.**
+> **Apakah Core Capacity Architecture sudah cukup jelas untuk menjelaskan apa yang berkembang, tanpa mencampurkannya dengan konteks, mekanisme, performance, nilai normatif, atau program?**
 
-Audit tidak dimaksudkan untuk memperluas model hanya demi kelengkapan.
+Dalam Core Model TUMBUH:
 
-## 2. Struktur yang Saat Ini Sudah Ada
+- **Growth Ecology** menjelaskan medan tempat pertumbuhan berlangsung;
+- **Growth Mechanism** menjelaskan proses yang memungkinkan perubahan;
+- **Core Capacity Architecture** menjelaskan construct apa yang berkembang dan bagaimana construct tersebut direpresentasikan.
 
-Arsitektur memiliki lima komponen canonical:
+Audit ini tidak dimaksudkan untuk memperbanyak komponen hanya agar arsitektur terlihat semakin lengkap.
 
-1. **Core Capacities** — delapan kapasitas inti;
+## 1. Struktur Canonical yang Sudah Ada
+
+Core Capacity Architecture saat ini memiliki lima komponen utama:
+
+1. **Core Capacities** — delapan capacity inti;
 2. **Functional Objects** — objek functioning dari setiap capacity;
 3. **Functional Dimensions** — dimensi fungsional di dalam object;
 4. **Capacity Relationships** — hubungan fungsional antar-capacity;
-5. **Traceability** — keterhubungan construct, manifestation, evidence, inference, dan layer downstream.
+5. **Traceability** — keterhubungan construct, representation, evidence, inference, dan layer downstream.
 
-Struktur ini konsisten dengan README folder dan dengan rantai representasi:
+Rantai representasinya adalah:
 
 ```text
 NORMATIVE DIRECTION
@@ -39,9 +45,9 @@ OBSERVABLE MANIFESTATIONS
 EVIDENCE
 ```
 
-Rantai tersebut adalah **construct representation architecture**, bukan urutan perkembangan atau prosedur assessment.
+Rantai ini adalah **construct representation architecture**. Ia bukan developmental sequence, causal chain, atau prosedur assessment yang harus selalu berlangsung linear.
 
-## 3. Canonical Capacity Set
+## 2. Canonical Capacity Set
 
 Saat ini terdapat delapan Core Capacities:
 
@@ -54,43 +60,57 @@ Saat ini terdapat delapan Core Capacities:
 7. Agency
 8. Problem Solving
 
-Kedelapan capacity tersebut diperlakukan sebagai keputusan arsitektural saat ini. Status empirisnya tetap provisional.
+Kedelapan capacity tersebut merupakan **keputusan arsitektural saat ini**. Status empirisnya tetap provisional.
 
-Audit ini **tidak menambahkan capacity kesembilan**.
+Audit ini tidak menambahkan capacity kesembilan hanya karena ada konsep lain yang tampak penting.
 
-## 4. Apakah Arsitektur Sudah Menjawab Pertanyaan "Apa yang Berkembang?"
+## 3. Apakah Arsitektur Sudah Menjawab “Apa yang Berkembang?”
 
 **Ya, secara arsitektural sudah.**
 
-Core Capacity Architecture telah membedakan dengan cukup jelas antara:
+Arsitektur telah memberikan pembedaan yang cukup antara:
 
 - capacity;
 - functional object;
 - functional dimension;
-- process;
+- subfunction;
 - resource;
 - pattern;
+- process;
 - context;
 - task;
 - manifestation;
 - evidence;
-- dan normative construct.
+- normative construct.
 
-Pembedaan ini penting agar construct tidak berubah makna ketika turun ke Progression, Assessment, Intervention, dan Implementation.
+Pembedaan ini penting karena sesuatu yang membantu pertumbuhan tidak otomatis menjadi sesuatu yang **berkembang sebagai Core Capacity**.
 
-## 5. Kekuatan Utama
+Contohnya:
+
+> Practice dapat menjadi bagian dari Growth Mechanism tanpa menjadi capacity.  
+> Motivation dapat relevan dalam functioning tanpa otomatis menjadi capacity.  
+> Performance dapat menjadi evidence tanpa otomatis menjadi capacity.
+
+## 4. Kekuatan Arsitektur
 
 ### A. Identitas construct dijaga
 
-Capacity tidak diperlakukan sebagai daftar skill atau skor. Setiap capacity memiliki ruang konseptual yang harus dijaga melalui definisi, object, dimensions, boundaries, relationships, dan evidence territory.
+Setiap Core Capacity memiliki ruang konseptual yang dijaga melalui nama, definisi, Functional Object, Functional Dimensions, boundaries, relationships, dan evidence territory.
 
-### B. Capacity tidak dicampur dengan mekanisme
+### B. Capacity tidak dicampur dengan Growth Mechanism
 
-Growth Mechanism menjelaskan proses seperti Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation. Capacity Architecture menjelaskan objek perubahan.
+Growth Mechanism membahas proses seperti Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation.
+
+Capacity Architecture membahas construct yang menjadi objek perubahan.
 
 Dengan demikian:
 
-> **Practice bukan capacity. Reflection bukan capacity. Adaptation bukan capacity.**
+```text
+Practice      ≠ Capacity
+Reflection    ≠ Capacity
+Adaptation    ≠ Capacity
+Support       ≠ Capacity
+```
 
 ### C. Capacity tidak dicampur dengan performance
 
@@ -102,35 +122,40 @@ Arah normatif, adab, akhlak, tujuan pendidikan, dan Graduate Profile dapat memil
 
 ### E. Cross-capacity functioning sudah diakui
 
-Functioning nyata dapat melibatkan beberapa capacity sekaligus. Ini tidak mengharuskan construct digabung menjadi satu construct umum.
+Satu episode functioning dapat melibatkan beberapa capacity sekaligus. Hal tersebut tidak berarti capacity-capacity tersebut harus digabung menjadi satu construct.
 
 ### F. Context sensitivity dipertahankan
 
-Identitas construct dapat relatif stabil sementara manifestasinya berubah menurut usia, role, task, demand, lingkungan, budaya, relasi, resources, dan support.
+Identitas construct dapat tetap stabil sementara manifestation dan evidence berubah menurut usia/tahap perkembangan, role, task, demand, lingkungan, budaya, relasi, kondisi fisik/sosial, resources, dan support.
 
 ### G. Construct inflation memiliki guardrail
 
-Tidak setiap istilah penting seperti motivation, resilience, adaptability, creativity, learning, atau decision making otomatis menjadi Core Capacity baru.
+Istilah seperti learning, motivation, resilience, adaptability, creativity, decision making, knowledge, atau strategy tidak otomatis menjadi Core Capacity baru hanya karena penting dalam pendidikan.
 
-### H. Tidak ada asumsi total score
+### H. Tidak ada automatic total score
 
-Delapan capacity tidak otomatis dijumlahkan menjadi satu skor yang disebut tingkat pertumbuhan manusia tanpa dasar validasi yang memadai.
+Delapan capacity tidak otomatis dijumlahkan menjadi satu skor yang disebut sebagai “tingkat pertumbuhan manusia”. Kebutuhan akan agregasi merupakan pertanyaan tersendiri yang membutuhkan dasar konseptual dan evidence yang sesuai.
 
-## 6. Hubungan dengan Dua Komponen Core Model Sebelumnya
+## 5. Hubungan dengan Growth Ecology dan Growth Mechanism
 
 ### Growth Ecology ↔ Capacity Architecture
 
-Growth Ecology menjelaskan di mana, bersama siapa, dan dalam kondisi apa functioning berlangsung.
+Growth Ecology membantu menjelaskan:
 
-Capacity Architecture menjelaskan construct apa yang direpresentasikan oleh functioning tersebut.
+- di mana functioning berlangsung;
+- bersama siapa;
+- dalam relasi apa;
+- dengan kondisi dan dukungan seperti apa.
+
+Capacity Architecture menjelaskan **construct apa** yang direpresentasikan oleh functioning tersebut.
 
 ### Growth Mechanism ↔ Capacity Architecture
 
-Growth Mechanism menjelaskan bagaimana capacity dapat berubah.
+Growth Mechanism menjelaskan proses yang secara konseptual memungkinkan perubahan.
 
-Capacity Architecture menjelaskan capacity apa yang dimaksud dan bagaimana construct tersebut diuraikan.
+Capacity Architecture menjelaskan **capacity apa** yang dimaksud dan bagaimana construct tersebut diuraikan.
 
-Maka hubungan sederhananya:
+Hubungan sederhananya:
 
 ```text
 GROWTH ECOLOGY
@@ -147,39 +172,71 @@ FUNCTIONING / MANIFESTATION
 EVIDENCE
 ```
 
-Diagram ini adalah arsitektur konseptual, bukan causal chain universal.
+Diagram ini adalah hubungan arsitektural konseptual, bukan causal chain universal.
 
-## 7. Risiko yang Masih Harus Dijaga
+## 6. Hubungan dengan Downstream Layers
 
-Arsitektur sudah cukup, tetapi beberapa failure mode harus tetap dikunci dalam penggunaan downstream:
+Core Capacity Architecture tidak berdiri sendiri. Ia harus tetap dapat diterjemahkan tanpa kehilangan identitas construct ketika masuk ke layer berikutnya.
 
-- capacity inflation;
-- capacity overlap/collapse;
-- process-capacity confusion;
-- resource-capacity confusion;
-- performance-capacity confusion;
-- norm-capacity confusion;
-- domain-capacity confusion;
-- context blindness;
-- hubungan antar-capacity dibaca sebagai kausalitas tanpa evidence;
-- manifestation tertentu diperlakukan sebagai representasi lengkap capacity;
-- assessment score diperlakukan sebagai capacity itu sendiri.
+```text
+Core Capacity
+      ↓
+Progression
+      ↓
+Assessment
+      ↓
+Intervention
+      ↓
+Implementation
+      ↓
+Evidence & Research
+      ↺
+Continuous Improvement
+```
 
-Risiko tersebut bukan alasan untuk menambah struktur baru sekarang. Ia merupakan **governance concern** untuk layer berikutnya.
+Setiap layer memiliki fungsi berbeda:
 
-## 8. Pertanyaan Audit yang Harus Dibawa ke Tahap Berikutnya
+- **Progression** merepresentasikan perubahan functioning sepanjang perkembangan atau tuntutan;
+- **Assessment** mengumpulkan dan menafsirkan evidence untuk tujuan tertentu;
+- **Intervention** merancang respons terhadap kebutuhan;
+- **Implementation** mewujudkan respons dalam praktik;
+- **Evidence & Research** menguji, membatasi, memperkuat, atau merevisi claims.
 
-Beberapa pertanyaan tidak perlu diselesaikan dengan menambah construct pada Core Model, tetapi perlu dijaga ketika sistem bergerak downstream:
+Traceability memastikan downstream tidak diam-diam mendefinisikan ulang Core Model.
 
-1. Apakah setiap capacity memiliki Functional Object yang benar-benar membedakan ruang konstruknya?
-2. Apakah Functional Dimensions konsisten antar-capacity?
-3. Apakah boundaries antar-capacity cukup kuat ketika masuk assessment?
-4. Bagaimana evidence direpresentasikan tanpa mengubah manifestation menjadi capacity?
-5. Bagaimana progression dapat menggambarkan perubahan tanpa mengubah Functional Dimensions menjadi developmental stages secara otomatis?
-6. Bagaimana intervention dapat menargetkan functioning tanpa mengklaim bahwa mekanisme tertentu pasti menghasilkan capacity change?
-7. Apakah Construct Registry dan Claim Registry tetap sinkron dengan architecture ini?
+## 7. Risiko yang Harus Tetap Dijaga
 
-Pertanyaan tersebut adalah agenda validasi dan implementasi, bukan gap arsitektural material pada tahap ini.
+Arsitektur sudah cukup untuk tahap ini, tetapi beberapa failure mode harus tetap dikunci:
+
+- **capacity inflation** — terlalu banyak konsep ditambahkan sebagai capacity;
+- **capacity overlap/collapse** — boundaries antar-capacity menjadi kabur;
+- **process-capacity confusion** — mekanisme dianggap sebagai capacity;
+- **resource-capacity confusion** — resource dianggap sebagai capacity;
+- **performance-capacity confusion** — performance dianggap sebagai capacity;
+- **norm-capacity confusion** — norma dianggap sebagai capacity;
+- **domain-capacity confusion** — domain atau bidang kehidupan dianggap sebagai capacity;
+- **context blindness** — context hilang dari interpretasi functioning;
+- **relationship overreach** — hubungan antar-capacity dianggap sebagai causation, hierarchy, dependency, atau sequence;
+- **manifestation capture** — satu manifestation dianggap sebagai representasi lengkap;
+- **score reification** — score dianggap sebagai capacity itu sendiri;
+- **traceability gap** — perubahan downstream tidak dapat ditelusuri kembali ke canonical construct.
+
+Risiko tersebut bukan alasan untuk menambah komponen baru sekarang. Ia merupakan **governance concern** yang harus dijaga ketika architecture digunakan.
+
+## 8. Pertanyaan Audit yang Dibawa ke Tahap Berikutnya
+
+Pertanyaan berikut perlu terus dibawa ke downstream dan validation:
+
+1. Apakah setiap capacity memiliki Functional Object yang cukup membedakan ruang konstruknya?
+2. Apakah Functional Dimensions konsisten berada pada level fungsi?
+3. Apakah boundaries antar-capacity tetap jelas ketika masuk assessment?
+4. Apakah evidence dapat direpresentasikan tanpa mengubah manifestation menjadi capacity?
+5. Apakah progression dapat menggambarkan perubahan tanpa mengubah dimensions menjadi developmental stages secara otomatis?
+6. Apakah intervention dapat menargetkan functioning tanpa mengklaim bahwa mekanisme tertentu pasti menghasilkan capacity change?
+7. Apakah Construct Registry, Claim Registry, Evidence Registry, dan Decision Log tetap sinkron dengan architecture?
+8. Apakah adaptasi implementasi tetap dapat ditelusuri tanpa mengubah canonical construct secara diam-diam?
+
+Pertanyaan ini merupakan agenda validasi, governance, dan downstream application — bukan bukti bahwa arsitektur saat ini memiliki gap material.
 
 ## 9. Keputusan Audit
 
@@ -187,19 +244,29 @@ Pertanyaan tersebut adalah agenda validasi dan implementasi, bukan gap arsitektu
 
 Tidak diperlukan penambahan Core Capacity baru atau komponen arsitektural baru hanya untuk mengejar kelengkapan.
 
-Yang perlu dilakukan selanjutnya adalah memastikan struktur yang sudah ada tetap konsisten ketika diterapkan pada layer downstream dan ketika evidence baru masuk.
+Prioritas berikutnya adalah menjaga:
 
-## 10. Closure
+- konsistensi construct;
+- ketepatan boundary;
+- traceability;
+- kualitas evidence;
+- dan keterpisahan yang sehat antar-layer ketika TUMBUH diterapkan.
 
-Folder ini dapat diperlakukan sebagai **conceptually closed for the current stage** dengan ketentuan bahwa closure dapat dibuka kembali apabila ditemukan:
+## 10. Closure untuk Tahap Saat Ini
+
+Folder Core Capacity Architecture dapat diperlakukan sebagai **conceptually closed for the current stage**.
+
+Closure bukan berarti construct telah tervalidasi secara universal. Closure berarti struktur konseptual saat ini dianggap cukup untuk melanjutkan pekerjaan ke layer downstream tanpa terus-menerus membuka arsitektur hanya karena muncul kebutuhan baru di bawahnya.
+
+Closure dapat dibuka kembali apabila ditemukan:
 
 1. kontradiksi konseptual material;
 2. overlap atau gap construct yang material;
 3. collision dengan Growth Ecology atau Growth Mechanism;
-4. kegagalan traceability;
+4. kegagalan traceability yang material;
 5. evidence baru yang secara material menantang architecture;
 6. atau kebutuhan downstream yang menunjukkan masalah konseptual nyata.
 
-Closure tidak berarti delapan capacity telah tervalidasi secara universal.
+Perubahan editorial atau perbaikan representasi downstream tidak otomatis membuka closure.
 
-> **Arsitektur sudah cukup untuk menjelaskan apa yang berkembang; pekerjaan berikutnya adalah menjaga agar makna itu tidak berubah ketika diterjemahkan menjadi progression, assessment, intervention, dan implementation.**
+> **Arsitektur sudah cukup untuk menjelaskan apa yang berkembang. Pekerjaan berikutnya adalah menjaga agar makna itu tetap utuh ketika diterjemahkan menjadi progression, assessment, intervention, dan implementation.**
