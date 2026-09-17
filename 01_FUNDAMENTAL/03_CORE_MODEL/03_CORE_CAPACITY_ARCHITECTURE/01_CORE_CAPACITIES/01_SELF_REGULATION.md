@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Self-Regulation adalah kemampuan mengatur diri sendiri.**
 
 Bukan berarti selalu tenang, selalu patuh, atau tidak pernah salah. Intinya adalah kemampuan untuk **melihat bagaimana diri sedang berjalan, mengatur tindakan, lalu mengubah atau mengembalikan arah ketika diperlukan**.
