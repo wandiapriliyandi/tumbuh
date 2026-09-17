@@ -1,6 +1,8 @@
 # Triad Growth
 
-## Apa itu Triad Growth?
+**Status:** CONCEPTUAL / DESIGNED — CORE MODEL
+
+## 1. Apa itu Triad Growth?
 
 **Triad Growth adalah cara TUMBUH melihat tiga aktor utama yang perlu diperhatikan ketika pertumbuhan santri dibangun dalam lembaga pendidikan:**
 
@@ -17,21 +19,19 @@ Ketiganya tidak dipandang sebagai bagian yang berdiri sendiri.
      GURU/MUSYRIF ↔ SANTRI
 ```
 
-Panah dua arah menunjukkan bahwa hubungan dalam sistem dapat saling berhubungan dan saling memengaruhi. TUMBUH **tidak** mengubah gambar ini menjadi klaim bahwa setiap hubungan pasti bersifat kausal.
+Panah dua arah menunjukkan adanya hubungan timbal balik dalam sistem. TUMBUH **tidak** mengubah gambaran ini menjadi klaim bahwa setiap hubungan pasti bersifat kausal.
 
-Triad Growth karena itu lebih tepat dipahami sebagai **model untuk melihat sistem**, bukan resep tentang bagaimana setiap lembaga harus mengatur ketiga aktor tersebut.
+Karena itu, Triad Growth lebih tepat dipahami sebagai **model untuk melihat sistem**, bukan resep tentang bagaimana setiap lembaga harus mengatur ketiga aktor tersebut.
 
 ---
 
-## Mengapa tiga aktor ini penting?
+## 2. Mengapa tiga aktor ini perlu dilihat bersama?
 
-Kalau kita hanya melihat santri, kita bisa jatuh pada kesalahan:
+Jika hanya melihat santri, kita dapat jatuh pada cara pandang:
 
 > “Kalau santri belum berkembang, berarti santrinya yang bermasalah.”
 
-Triad Growth mencegah cara pandang yang terlalu sempit.
-
-TUMBUH juga melihat:
+Triad Growth mencegah cara pandang yang terlalu sempit dengan mengajak TUMBUH melihat:
 
 - bagaimana guru/musyrif mendampingi;
 - bagaimana lembaga menciptakan kondisi;
@@ -40,31 +40,29 @@ TUMBUH juga melihat:
 
 Dengan demikian, pertumbuhan dipahami sebagai **proses yang berlangsung dalam relasi**, bukan hanya sesuatu yang terjadi di dalam diri santri.
 
-Namun melihat ketiganya bersama tidak berarti menyatakan bahwa ketiganya selalu memiliki pengaruh yang sama, atau bahwa setiap masalah harus dibebankan kepada semua pihak. Hubungan tersebut tetap perlu dipahami berdasarkan konteks dan evidence yang tersedia.
+Namun melihat ketiganya bersama tidak berarti menyatakan bahwa mereka selalu memiliki pengaruh yang sama, atau bahwa setiap masalah harus dibebankan kepada semua pihak. Hubungan tetap perlu dipahami berdasarkan konteks dan evidence yang tersedia.
 
 ---
 
-## Santri bukan objek pasif
+## 3. Peran setiap aktor
+
+### Santri bukan objek pasif
 
 Santri adalah pihak yang sedang berkembang dan sekaligus berpartisipasi dalam proses tersebut.
 
-Karena itu, Triad Growth tidak berarti:
+Triad Growth karena itu bukan:
 
-> Lembaga → Guru → Santri
+```text
+Lembaga → Guru → Santri
+```
 
 seolah-olah pertumbuhan selalu merupakan proses satu arah.
 
-Sebaliknya, TUMBUH menggunakan hubungan timbal balik sebagai cara memahami sistem.
+Santri dapat menerima dukungan, meresponsnya, mengambil inisiatif, memberi umpan balik, dan ikut membentuk dinamika hubungan. Desain TUMBUH perlu memberi ruang bagi partisipasi dan variasi manusia tanpa menghilangkan arah perkembangan yang ingin dibangun.
 
-Santri dapat menerima dukungan, meresponsnya, mengambil inisiatif, memberi umpan balik, dan ikut membentuk dinamika hubungan. Karena itu, desain TUMBUH perlu memberi ruang bagi partisipasi dan variasi manusia tanpa menghilangkan arah perkembangan yang ingin dibangun.
+### Guru/Musyrif bukan sekadar pelaksana program
 
----
-
-## Guru/Musyrif bukan sekadar pelaksana program
-
-Guru atau musyrif berada dalam relasi langsung dengan santri.
-
-Perannya dapat mencakup:
+Guru atau musyrif berada dalam relasi langsung dengan santri. Perannya **dapat mencakup**:
 
 - mendampingi;
 - memberi arahan;
@@ -73,13 +71,11 @@ Perannya dapat mencakup:
 - membantu santri menghadapi kesulitan;
 - menciptakan hubungan yang mendukung pertumbuhan.
 
-Namun Triad Growth tidak menetapkan bahwa semua guru/musyrif selalu menjalankan fungsi tersebut dengan kualitas yang sama. Hal itu merupakan objek pengamatan, pengembangan, dan evaluasi di layer lain.
+Triad Growth tidak menetapkan bahwa semua guru/musyrif selalu menjalankan fungsi tersebut dengan kualitas yang sama. Hal itu merupakan objek pengamatan, pengembangan, dan evaluasi pada layer lain.
 
-Dengan demikian, Triad Growth tidak boleh dibaca sebagai daftar tugas guru/musyrif. Perincian kompetensi, praktik, dukungan, atau prosedur berada pada layer yang sesuai.
+Dengan demikian, Triad Growth bukan daftar tugas guru/musyrif. Perincian kompetensi, praktik, dukungan, atau prosedur berada pada layer yang sesuai.
 
----
-
-## Lembaga bukan sekadar gedung
+### Lembaga bukan sekadar gedung
 
 Dalam Triad Growth, **lembaga berarti sistem kelembagaan**, bukan hanya tempat fisik.
 
@@ -100,9 +96,9 @@ Tetapi memeriksa lembaga tidak berarti setiap masalah santri pasti merupakan mas
 
 ---
 
-## Apakah Triad berarti hanya ada tiga pihak?
+## 4. Triad bukan seluruh ekologi pertumbuhan
 
-**Tidak.**
+**Tidak, Triad bukan berarti hanya ada tiga pihak.**
 
 Triad adalah **operational core**, bukan keseluruhan ekologi pertumbuhan.
 
@@ -118,17 +114,15 @@ Karena itu:
 
 > **Triad = inti operasional yang menjadi fokus utama TUMBUH dalam konteks lembaga pendidikan, bukan seluruh dunia sosial santri.**
 
-Connected Contexts memperluas pandangan tersebut ketika konteks di luar triad relevan terhadap pertanyaan yang sedang dikaji.
+Ketika konteks di luar triad relevan terhadap pertanyaan yang sedang dikaji, **Connected Contexts** memperluas pandangan tersebut.
 
 ---
 
-## Triad Growth bukan teori kausal
+## 5. Triad Growth bukan teori kausal
 
-**Bukan.**
+**Bukan.** Triad Growth adalah **model konseptual/desain sistem**.
 
-Triad Growth adalah **model konseptual/desain sistem**.
-
-Model ini membantu kita menentukan siapa dan hubungan apa yang perlu diperhatikan ketika merancang dan memahami sistem pertumbuhan.
+Model ini membantu menentukan siapa dan hubungan apa yang perlu diperhatikan ketika merancang dan memahami sistem pertumbuhan.
 
 Model ini belum membuktikan bahwa:
 
@@ -139,29 +133,33 @@ Model ini belum membuktikan bahwa:
 
 Klaim seperti itu membutuhkan penelitian empiris tersendiri.
 
-Perbedaan ini penting agar model tidak digunakan secara berlebihan. **Model membantu menentukan apa yang perlu dilihat; evidence dan research membantu menentukan apa yang dapat kita simpulkan.**
+Perbedaan ini penting agar model tidak digunakan secara berlebihan:
+
+> **Model membantu menentukan apa yang perlu dilihat; evidence dan research membantu menentukan apa yang dapat kita simpulkan.**
 
 ---
 
-## Hubungan dengan Growth Ecology
+## 6. Hubungan dengan Growth Ecology
 
-Triad Growth adalah inti operasional dari **Growth Ecology**.
+Triad Growth adalah **inti operasional Growth Ecology**.
 
 Growth Ecology bertanya:
 
 > **Di mana, bersama siapa, dan dalam relasi seperti apa pertumbuhan berlangsung?**
 
-Triad membantu menjawab pertanyaan tersebut dengan memusatkan perhatian pada:
+Triad membantu menjawabnya dengan memusatkan perhatian pada:
 
 > **Santri ↔ Guru/Musyrif ↔ Lembaga**
 
 Connected Contexts kemudian memperluas pandangan ketika diperlukan.
 
-Dengan demikian, Triad tidak berdiri sebagai teori terpisah dari Growth Ecology. Ia adalah cara inti untuk memetakan ekologi pertumbuhan dalam konteks lembaga pendidikan.
+Triad tidak berdiri sebagai teori terpisah dari Growth Ecology. Ia adalah cara inti untuk memetakan ekologi pertumbuhan dalam konteks lembaga pendidikan.
 
 ---
 
-## Hubungan dengan Growth Mechanism
+## 7. Hubungan dengan komponen Core Model lainnya
+
+### Growth Mechanism
 
 Triad Growth menjelaskan **siapa dan konteks relasionalnya**.
 
@@ -175,19 +173,15 @@ Hubungan santri–musyrif → bagian dari **Growth Ecology**.
 
 Latihan, feedback, refleksi, dan adaptasi yang terjadi selama proses tersebut → bagian dari **Growth Mechanism**.
 
-Keduanya saling berhubungan, tetapi tidak boleh dicampur.
+Keduanya saling berhubungan, tetapi tidak boleh dicampur. Triad tidak boleh digunakan untuk menyimpulkan bahwa suatu hubungan otomatis merupakan mekanisme perubahan.
 
-Triad tidak boleh digunakan untuk menyimpulkan bahwa suatu hubungan otomatis merupakan mekanisme perubahan. Mekanisme perlu dijelaskan dan diperiksa pada bagian Core Model yang sesuai.
-
----
-
-## Hubungan dengan Core Capacity Architecture
+### Core Capacity Architecture
 
 Triad menjelaskan **aktor dan konteks hubungan**. Ia tidak menentukan sendiri kapasitas apa yang harus dimiliki atau dikembangkan oleh santri.
 
 Kapasitas perkembangan berada pada **Core Capacity Architecture**.
 
-Karena itu, alurnya dapat dipahami sebagai:
+Secara sederhana:
 
 **Ekologi pertumbuhan → proses pertumbuhan → kapasitas yang berkembang**
 
@@ -195,9 +189,9 @@ Triad memberi konteks bagi proses tersebut, sementara Core Capacity Architecture
 
 ---
 
-## Implikasi desain
+## 8. Implikasi desain
 
-Sebagai bagian dari Core Model, Triad Growth memberi beberapa konsekuensi bagi desain TUMBUH:
+Sebagai bagian dari Core Model, Triad Growth memberi konsekuensi bagi desain TUMBUH:
 
 - santri tidak dirancang hanya sebagai penerima program;
 - kualitas relasi perlu diperhatikan, bukan hanya aktivitas;
@@ -207,11 +201,11 @@ Sebagai bagian dari Core Model, Triad Growth memberi beberapa konsekuensi bagi d
 - desain perlu mempertimbangkan hubungan timbal balik dan konteks;
 - komponen lain TUMBUH perlu menjaga hubungan yang dapat dijelaskan dengan ekologi tersebut.
 
-Implikasi ini bukan SOP. Cara menerjemahkannya ke program, praktik, atau kebijakan ditentukan pada layer berikutnya dan tetap bergantung pada konteks.
+Implikasi ini **bukan SOP**. Cara menerjemahkannya ke program, praktik, atau kebijakan ditentukan pada layer berikutnya dan tetap bergantung pada konteks.
 
 ---
 
-## Batas penggunaan Triad Growth
+## 9. Batas penggunaan
 
 Triad Growth tidak menetapkan:
 
@@ -228,7 +222,7 @@ Batas ini menjaga agar Triad tetap menjadi model konseptual dalam Core Model dan
 
 ---
 
-## Hubungan dengan Evidence dan Research
+## 10. Evidence dan Research
 
 Triad Growth dapat digunakan untuk menentukan **apa yang perlu diperhatikan** ketika mengumpulkan atau membaca informasi tentang pertumbuhan.
 
@@ -248,7 +242,7 @@ Dengan demikian:
 
 ---
 
-## Hubungan dengan Philosophy dan Principles
+## 11. Hubungan dengan Philosophy dan Principles
 
 Triad Growth bukan sumber Philosophy baru dan bukan pengganti Principles.
 
@@ -256,13 +250,13 @@ Ia merupakan penerjemahan arsitektural dari komitmen TUMBUH bahwa perkembangan m
 
 Design Principles kemudian membantu menentukan bagaimana model seperti Triad digunakan ketika sistem dirancang.
 
-Dengan demikian, hubungan sederhananya adalah:
+Hubungan sederhananya:
 
 **Philosophy → Principles → Core Model → Triad Growth → komponen sistem dan penerapan**
 
 ---
 
-## Traceability
+## 12. Traceability
 
 Ketika Triad Growth dikembangkan atau diubah, alasan perubahan perlu dapat ditelusuri:
 
@@ -280,8 +274,10 @@ Dengan traceability ini, perubahan pada implementasi tidak otomatis dianggap seb
 
 > **Triad Growth menempatkan Santri, Guru/Musyrif, dan Lembaga sebagai tiga aktor utama yang perlu dilihat bersama ketika TUMBUH memahami dan membangun kondisi pertumbuhan dalam lembaga pendidikan.**
 
-## Status
+## Status epistemik
 
 **Conceptual / designed.**
 
 Triad Growth merupakan model sistem yang berasal dari substansi Triad pertumbuhan pada V1 dan telah dipertahankan dalam V2 dengan batas ekologis dan epistemik yang diperjelas.
+
+Model ini dapat menjadi landasan desain, tetapi rumusan dan batasnya tetap dapat diperiksa dan direvisi melalui PROBE, research, evidence, dan pengalaman implementasi yang relevan.
