@@ -29,4 +29,4 @@ Dimensions bukan motivasi, keinginan, kebebasan absolut, kepemimpinan, kemandiri
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
