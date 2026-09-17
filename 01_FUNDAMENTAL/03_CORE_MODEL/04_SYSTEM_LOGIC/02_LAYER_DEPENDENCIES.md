@@ -1,7 +1,5 @@
 # Layer Dependencies — Ketergantungan Antar-Layer
 
-## Gampangnya
-
 Setiap bagian TUMBUH mempunyai pekerjaan yang berbeda. **Layer Dependencies** menjelaskan apa yang menjadi dasar bagi bagian berikutnya agar sistem tetap koheren, tanpa membuat satu bagian mengambil alih pekerjaan bagian lain.
 
 Ketergantungan di sini adalah ketergantungan **arsitektural dan informasional**. Ia tidak menyatakan bahwa perkembangan manusia selalu mengikuti urutan yang sama, atau bahwa hubungan antarbagian merupakan hubungan sebab-akibat.
