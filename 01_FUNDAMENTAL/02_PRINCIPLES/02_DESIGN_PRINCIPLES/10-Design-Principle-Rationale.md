@@ -99,12 +99,4 @@ Hal-hal tersebut perlu ditempatkan dan diperiksa pada layer yang sesuai.
 
 Rationale juga tidak boleh digunakan untuk membuat sebuah prinsip tampak benar hanya karena alasannya terdengar masuk akal. Alasan konseptual dan validitas suatu klaim adalah dua hal yang berbeda.
 
-## Arah Masa Depan
-
-Seiring TUMBUH berkembang, rationale dapat menjadi semakin kaya karena hubungan antarkomponen, pengalaman penerapan, dan hasil inquiry menjadi lebih jelas.
-
-Namun penambahan penjelasan tidak perlu membuat dokumen ini menjadi tempat menampung seluruh evidence atau seluruh riwayat keputusan. Jejak tersebut tetap dikelola melalui mekanisme dan layer yang sesuai.
-
-Tujuannya adalah menjaga agar setiap Design Principle tetap dapat dipahami: **mengapa ia diperlukan, apa yang hendak dijaga dalam proses desain, dan di mana batas kewenangannya.**
-
 **Status:** DRAFT — MENUNGGU VALIDASI PROBE
