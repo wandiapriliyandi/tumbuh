@@ -1,7 +1,5 @@
 # Capacity Relationship Map
 
-## Gampangnya
-
 Delapan Core Capacities TUMBUH **tidak bekerja sebagai delapan kotak yang terpisah**. Dalam functioning nyata, beberapa capacity dapat muncul bersama, saling melengkapi, atau saling menyediakan kondisi fungsional.
 
 ## Status Peta
