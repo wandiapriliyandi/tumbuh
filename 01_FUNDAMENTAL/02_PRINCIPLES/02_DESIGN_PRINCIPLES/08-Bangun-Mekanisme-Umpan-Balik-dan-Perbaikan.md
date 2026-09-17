@@ -82,12 +82,6 @@ Foundation tidak menentukan siklus operasional, format monitoring, alat evaluasi
 
 Yang ditetapkan di sini adalah arah desain: **TUMBUH harus mampu belajar dari kenyataan dan memperbaiki dirinya ketika ditemukan alasan yang cukup untuk berubah.**
 
-## Arah Masa Depan
-
-TUMBUH akan terus berhadapan dengan konteks, pengetahuan, kebutuhan, dan pengalaman baru. Karena itu, kemampuan untuk menerima informasi baru dan meninjau keputusan merupakan bagian penting dari keberlanjutan sistem.
-
-Sistem yang matang bukan sistem yang menganggap desain pertamanya sempurna. Sistem yang matang adalah sistem yang dapat mempertahankan hal yang memang perlu dipertahankan, memperbaiki hal yang terbukti perlu diperbaiki, dan menjelaskan alasan di balik keduanya.
-
 ## Batas Prinsip
 
 Prinsip ini tidak menetapkan alat evaluasi tertentu, frekuensi monitoring, format rapat perbaikan, atau prosedur operasional.
