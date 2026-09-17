@@ -1,7 +1,5 @@
 # Functional Object 05 — Physical Functioning
 
-## Gampangnya
-
 **Apa yang menjadi objek Physical Functioning?**
 
 Yang menjadi objek adalah **fungsi fisik yang dibutuhkan untuk melakukan aktivitas dalam kondisi tertentu**.
