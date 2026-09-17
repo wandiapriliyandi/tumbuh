@@ -56,12 +56,6 @@ Implementation menerjemahkan rancangan ke dalam konteks lembaga. Program menjadi
 
 Foundation tidak menentukan detail operasional masing-masing layer tersebut. Foundation menetapkan bahwa keputusan desain tidak boleh dilepaskan dari kenyataan manusia dan kondisi tempat sistem digunakan.
 
-## Arah Masa Depan
-
-TUMBUH perlu dirancang agar dapat menghadapi perubahan kondisi tanpa kehilangan tujuan dan prinsip dasarnya. Ketika konteks berubah, tidak semua bagian harus dipertahankan dalam bentuk yang sama.
-
-Perubahan kondisi dapat menjadi alasan untuk menyesuaikan desain, menguji kembali asumsi, atau menyederhanakan bagian tertentu. Yang dijaga adalah fungsi dan prinsip yang mendasarinya, bukan bentuk lama semata.
-
 ## Traceability
 
 Pertimbangan terhadap konteks dan beban desain perlu dapat ditelusuri. Ketika suatu pilihan desain dibuat untuk kondisi tertentu, perlu dapat dijelaskan kebutuhan apa yang dipertimbangkan dan fungsi apa yang hendak dijaga.
