@@ -1,7 +1,5 @@
 # Cross-Capacity Functioning
 
-## Gampangnya
-
 Dalam kehidupan nyata, seseorang jarang menggunakan satu capacity saja. Satu aktivitas dapat melibatkan beberapa capacity sekaligus. Ini normal dalam functioning manusia dan **bukan masalah arsitektur** selama identitas masing-masing capacity tetap jelas.
 
 Contoh sederhana: santri harus menyelesaikan proyek kelompok. Dalam satu episode dapat terlihat beberapa fungsi sekaligus:
