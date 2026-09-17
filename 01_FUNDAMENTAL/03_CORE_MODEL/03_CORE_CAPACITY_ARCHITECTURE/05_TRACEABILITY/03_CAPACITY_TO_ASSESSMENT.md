@@ -1,7 +1,5 @@
 # Capacity to Assessment Trace
 
-## Gampangnya
-
 Trace ini menjawab satu pertanyaan sederhana: **kalau kita menilai sesuatu, sebenarnya kita sedang mencari bukti tentang capacity yang mana?**
 
 Karena itu, assessment TUMBUH harus dapat ditelusuri kembali ke construct yang hendak diamati. Instrumen, indikator, atau skor tidak boleh diam-diam menjadi definisi baru bagi Core Capacity.
