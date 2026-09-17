@@ -123,17 +123,6 @@ Design Principle Validation berada di **Foundation**, tetapi proses pemeriksaann
 
 Dengan batas ini, masalah operasional tidak langsung dinaikkan menjadi masalah prinsip, dan validasi prinsip tidak berubah menjadi pemeriksaan SOP.
 
-## Arah Masa Depan
-
-Seiring TUMBUH berkembang, validasi diharapkan tidak hanya menjawab apakah sebuah prinsip dapat diterima saat ini, tetapi juga membantu menjaga agar prinsip tetap relevan ketika konteks, pengetahuan, dan kebutuhan manusia berubah.
-
-Artinya, validasi perlu menjaga dua hal sekaligus:
-
-- **keteguhan pada dasar yang memang harus dipertahankan**; dan
-- **keterbukaan untuk memperbaiki rumusan ketika alasan yang lebih kuat muncul**.
-
-Dengan demikian, validasi menjadi bagian dari mekanisme pembelajaran TUMBUH, bukan sekadar tahap administratif sebelum sebuah dokumen dianggap selesai.
-
 ## Batas Prinsip
 
 Dokumen ini menjelaskan **bagaimana Design Principles dinilai status validasinya**. Dokumen ini tidak menetapkan:
