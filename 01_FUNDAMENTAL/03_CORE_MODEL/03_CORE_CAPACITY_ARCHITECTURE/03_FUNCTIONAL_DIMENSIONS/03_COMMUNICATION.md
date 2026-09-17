@@ -32,4 +32,4 @@ Dimensions bukan bahasa tertentu, kemampuan bicara saja, presentasi, tulisan seb
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
