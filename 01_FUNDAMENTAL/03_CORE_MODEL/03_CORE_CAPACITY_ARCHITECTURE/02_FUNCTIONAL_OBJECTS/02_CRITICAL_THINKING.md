@@ -1,7 +1,5 @@
 # Functional Object 02 — Critical Thinking
 
-## Gampangnya
-
 **Apa yang diperiksa dan dinilai oleh Critical Thinking?**
 
 Yang menjadi objeknya adalah **informasi, klaim, alasan, dan judgment** yang berkaitan dengan apa yang dipercaya atau dilakukan.
