@@ -1,98 +1,153 @@
 # Capacity Relationships
 
-## Purpose
+## Gampangnya
 
-Dokumen ini menjelaskan bagaimana 8 Core Capacities dapat saling berhubungan dalam functioning nyata, tanpa mengubah hubungan tersebut menjadi klaim kausal, hierarki, atau model penjumlahan kapasitas.
+Bagian ini menjelaskan **bagaimana 8 Core Capacities dapat saling berhubungan ketika functioning terjadi dalam kehidupan nyata**.
 
-## Canonical Principle
+Bayangkan seorang santri sedang menghadapi persoalan bersama teman. Ia mungkin perlu memahami keadaan sosial, berbicara dengan orang lain, mengatur respons diri, mengambil inisiatif, dan mencari jalan keluar. Beberapa capacity dapat bekerja dalam satu kejadian yang sama.
 
-Core Capacities adalah konstruk yang dapat saling berhubungan dalam functioning nyata. Hubungan antar-capacity harus dibaca sebagai **functional/relational relationships**, bukan otomatis sebagai:
+Tetapi TUMBUH tidak menganggapnya sebagai satu capacity besar. **Yang saling terhubung adalah functioning-nya; identitas construct tetap dibedakan.**
 
-- hubungan sebab-akibat;
-- hierarki perkembangan;
-- dependency wajib;
-- bagian/sub-komponen satu sama lain;
-- atau skor yang dapat dijumlahkan menjadi satu kapasitas umum.
+## Posisi dalam Arsitektur
 
-## Relationship Map
+Capacity Relationships berada di dalam **Core Capacity Architecture** dan menjelaskan hubungan antar-construct setelah masing-masing capacity memiliki identitas yang jelas.
 
-| Capacity | Relevant relationships |
-|---|---|
-| Self-Regulation | Critical Thinking; Communication; Collaboration; Agency; Problem Solving; Physical Functioning |
-| Critical Thinking | Self-Regulation; Communication; Agency; Problem Solving; Social Understanding; Collaboration |
-| Communication | Social Understanding; Collaboration; Self-Regulation; Critical Thinking; Agency; Problem Solving |
-| Collaboration | Communication; Social Understanding; Self-Regulation; Agency; Problem Solving; Critical Thinking |
-| Physical Functioning | Self-Regulation; Agency; Problem Solving |
-| Social Understanding | Communication; Collaboration; Self-Regulation; Critical Thinking; Agency; Problem Solving |
-| Agency | Self-Regulation; Critical Thinking; Communication; Collaboration; Social Understanding; Problem Solving; Physical Functioning |
-| Problem Solving | Critical Thinking; Agency; Self-Regulation; Communication; Collaboration; Social Understanding; Physical Functioning |
+```text
+Core Capacities
+      ↓
+Functional Objects
+      ↓
+Functional Dimensions
+      ↓
+Capacity Relationships
+      ↓
+Traceability
+```
 
-Relationship map ini adalah **peta relevansi konseptual**, bukan adjacency matrix, korelasi empiris, atau causal graph. Tidak adanya relationship yang tercantum juga tidak membuktikan bahwa dua capacities secara empiris tidak berhubungan.
+Bagian ini tidak menggantikan definisi capacity individual. Justru relationship harus dibaca berdasarkan construct identity masing-masing.
 
-## How to Interpret a Relationship
+## Isi Folder
 
-Sebuah relationship dapat berarti bahwa dua capacities:
+### 01 — Relationship Map
 
-- dapat muncul dalam satu episode functioning;
-- dapat saling melengkapi dalam suatu aktivitas;
+`01_RELATIONSHIP_MAP.md`
+
+Peta relevansi konseptual antar-delapan Core Capacities. Peta ini menunjukkan relationship yang relevan untuk dibaca dalam functioning, bukan korelasi atau causal graph.
+
+### 02 — Cross-Capacity Functioning
+
+`02_CROSS_CAPACITY_FUNCTIONING.md`
+
+Menjelaskan bagaimana beberapa capacity dapat hadir dan bekerja bersama dalam satu aktivitas atau episode functioning tanpa dianggap sebagai construct yang sama.
+
+### 03 — Relationship Boundaries
+
+`03_RELATIONSHIP_BOUNDARIES.md`
+
+Menetapkan batas interpretasi agar relationship tidak berubah menjadi klaim tentang kausalitas, hierarki, dependency, sequence, atau identity.
+
+## Prinsip Utama
+
+### 1. Relationship ≠ Causation
+
+Dua capacity dapat muncul bersama tanpa membuktikan bahwa salah satunya menyebabkan yang lain.
+
+### 2. Relationship ≠ Hierarchy
+
+Tidak ada capacity yang otomatis menjadi “lebih tinggi” atau “lebih rendah” hanya karena memiliki banyak relationship.
+
+### 3. Relationship ≠ Identity
+
+Kemunculan bersama tidak berarti dua capacity adalah construct yang sama.
+
+### 4. Relationship ≠ Required Co-occurrence
+
+Tidak semua capacity harus muncul dalam setiap aktivitas.
+
+### 5. Relationship ≠ Developmental Sequence
+
+Peta hubungan tidak menentukan urutan perkembangan.
+
+### 6. Relationship ≠ Score Aggregation
+
+Delapan capacity tidak dijumlahkan secara otomatis menjadi satu skor umum.
+
+### 7. Cross-Capacity Functioning ≠ Redundancy
+
+Satu aktivitas dapat melibatkan banyak capacity tanpa menghilangkan boundary antar-construct.
+
+## Cara Membaca Relationship
+
+Sebuah relationship dapat berarti bahwa dua capacity:
+
+- dapat muncul dalam episode functioning yang sama;
+- dapat saling melengkapi secara fungsional;
 - memiliki kondisi penggunaan yang beririsan;
 - atau dapat berinteraksi dalam functioning yang kompleks.
 
-Makna relationship harus selalu ditentukan oleh **fungsi masing-masing construct**, bukan hanya karena keduanya tampak pada perilaku yang sama.
+Makna relationship harus selalu kembali ke:
 
-## Cross-Capacity Functioning
+`CAPACITY → FUNCTIONAL OBJECT → FUNCTIONAL DIMENSIONS → MANIFESTATIONS`
 
-Dalam situasi nyata, capacities dapat bekerja secara terkoordinasi. Contohnya, penyelesaian masalah kolaboratif dapat melibatkan Problem Solving, Communication, Collaboration, Critical Thinking, Social Understanding, Self-Regulation, dan Agency sekaligus.
+Bukan sekadar karena dua capacity terlihat pada perilaku yang sama.
 
-Ini menunjukkan keterkaitan functioning, bukan bukti bahwa capacities tersebut adalah satu construct atau bahwa semua harus hadir pada setiap situasi serupa.
+## Contoh Sederhana
 
-## Non-Equivalence Rules
+Dalam penyelesaian konflik kelompok, satu episode dapat melibatkan:
 
-1. Relationship ≠ causation.
-2. Relationship ≠ hierarchy.
-3. Relationship ≠ identity.
-4. Relationship ≠ required co-occurrence.
-5. Relationship ≠ developmental sequence.
-6. Relationship ≠ score aggregation.
-7. Cross-capacity functioning ≠ construct redundancy.
+- **Social Understanding** — memahami perspektif dan keadaan sosial;
+- **Communication** — membentuk dan memahami pesan;
+- **Collaboration** — menyelaraskan tindakan bersama;
+- **Self-Regulation** — mengelola tindakan diri;
+- **Problem Solving** — menangani gap dan mencari cara;
+- **Agency** — memulai dan mengarahkan tindakan.
 
-Perubahan pada satu capacity tidak otomatis membuktikan perubahan pada capacity lain. Demikian pula, keberadaan dua capacities dalam satu aktivitas tidak membuktikan bahwa salah satunya merupakan komponen dari yang lain.
+Ini adalah contoh **cross-capacity functioning**, bukan model bahwa keenam capacity tersebut selalu muncul bersama.
 
-## Boundary
+## Batas terhadap Layer Lain
 
-Dokumen ini bukan:
+Bagian ini bukan:
 
-- causal model;
-- developmental sequence;
-- scoring model;
-- intervention protocol;
-- assessment rubric;
-- atau bukti validitas empiris hubungan antar-capacity.
+- Growth Mechanism;
+- Progression;
+- Assessment rubric;
+- Intervention protocol;
+- Implementation procedure;
+- atau sistem penilaian total.
+
+Ia juga bukan tempat untuk menentukan nilai moral seseorang. Capacity Relationships menjelaskan hubungan fungsional antar-construct, bukan menentukan apakah seseorang “baik” atau “buruk”.
 
 ## Evidence Boundary
 
-Jika relationship hendak digunakan untuk mendukung inference empiris, diperlukan evidence yang secara eksplisit menguji relationship tersebut. Evidence tentang satu capacity tidak otomatis menjadi evidence tentang relationship-nya dengan capacity lain.
+Peta relationship bersifat konseptual. Jika TUMBUH ingin membuat klaim empiris tentang korelasi, prediksi, mediasi, moderasi, dependency, atau kausalitas, klaim tersebut harus didukung evidence yang sesuai dan ditelusurkan melalui **Claim Registry**.
 
-Klaim tentang korelasi, prediksi, mediasi, moderasi, kausalitas, atau dependency harus memiliki epistemic status dan evidence yang sesuai serta dicatat dalam **Claim Registry**.
+Evidence tentang satu capacity tidak otomatis menjadi evidence tentang relationship-nya dengan capacity lain.
 
 ## Governance
 
-Setiap perubahan relationship map harus diuji terhadap:
+Relationship baru tidak ditambahkan hanya karena dua capacity sering muncul dalam program atau aktivitas yang sama.
+
+Setiap perubahan perlu diperiksa terhadap:
 
 - construct identity;
 - functional object;
 - functional dimensions;
-- boundary masing-masing capacity;
+- boundary antar-capacity;
 - intended inference;
 - traceability;
-- dan risiko construct overlap.
+- risiko construct overlap;
+- dan status evidence.
 
-Penambahan relationship baru tidak boleh dilakukan hanya karena dua capacities sering muncul dalam program atau aktivitas yang sama.
+Jika relationship berubah dari keputusan konseptual menjadi klaim empiris, perubahan epistemic status tersebut harus terlihat jelas.
 
-Jika sebuah relationship baru dinyatakan sebagai klaim empiris, perubahan tersebut harus dipisahkan dari keputusan arsitektural dan ditelusurkan melalui **Claim Registry**.
+## Arah Pengembangan
 
-## Validation Status
+Untuk tahap sekarang, **relationship architecture tidak perlu diperluas dengan capacity baru**. Fokus berikutnya adalah memastikan relationship yang sudah ada tetap konsisten ketika ditelusurkan ke Functional Objects, Functional Dimensions, Evidence, Progression, Assessment, dan Intervention.
 
-Relationship architecture berstatus **conceptually specified / empirically provisional**.
+Jika kemudian muncul evidence atau contradiction yang material, relationship dapat dibuka kembali melalui PROBE dan mekanisme traceability. Revisi bukan dilakukan hanya untuk membuat peta terlihat lebih lengkap.
 
-Peta ini menetapkan ruang hubungan yang relevan secara konseptual; ia belum merupakan bukti bahwa hubungan tersebut terbukti secara empiris, kausal, universal, atau lintas konteks.
+## Status
+
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
+
+Relationship architecture saat ini cukup untuk kebutuhan arsitektur Core Model v2.0.0. Peta dan boundary-nya adalah keputusan konseptual; validitas empiris relationship antar-capacity tetap terbuka untuk penelitian dan validasi.
