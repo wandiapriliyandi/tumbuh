@@ -32,4 +32,4 @@ Dimensions bukan kecerdasan umum, banyaknya pengetahuan, jawaban benar, nilai mo
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
