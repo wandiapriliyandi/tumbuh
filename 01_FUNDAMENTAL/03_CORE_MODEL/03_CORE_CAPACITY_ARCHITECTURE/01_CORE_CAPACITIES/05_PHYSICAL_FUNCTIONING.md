@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Physical Functioning adalah kemampuan menggunakan fungsi tubuh untuk melakukan aktivitas sesuai tuntutan yang ada.**
 
 Fokusnya bukan “seberapa kuat atau sehat tubuh seseorang”, tetapi **seberapa baik fungsi fisiknya dapat digunakan untuk menjalankan aktivitas dalam kondisi tertentu.**
