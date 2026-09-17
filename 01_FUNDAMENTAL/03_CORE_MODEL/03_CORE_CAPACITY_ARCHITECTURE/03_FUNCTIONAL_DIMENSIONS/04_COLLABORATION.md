@@ -1,7 +1,5 @@
 # Functional Dimensions 04 — Collaboration
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi penting dalam membentuk dan menjaga tindakan bersama menuju tujuan bersama.
 
 ## Functional Object
