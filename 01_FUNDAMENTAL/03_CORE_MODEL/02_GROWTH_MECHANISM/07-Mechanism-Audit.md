@@ -6,14 +6,16 @@
 
 Audit ini memeriksa apakah **Growth Mechanism** sudah cukup kuat secara arsitektural untuk menjadi komponen kedua dalam Core Model TUMBUH.
 
-Audit ini tidak dimaksudkan untuk menambah teori baru. Fokusnya adalah memastikan bahwa mekanisme:
+Audit ini bukan tempat untuk menambah teori baru. Fokusnya adalah memastikan bahwa mekanisme:
 
 - menjawab pertanyaan yang memang menjadi tanggung jawabnya;
 - terhubung dengan Growth Ecology tanpa tumpang tindih;
-- terhubung dengan Core Capacity Architecture tanpa mencampurkan proses dan hasil;
+- terhubung dengan Core Capacity Architecture tanpa mencampurkan proses dan objek perkembangan;
 - memiliki batas terhadap Assessment, Intervention, Implementation, dan Program;
 - tidak mengubah model konseptual menjadi klaim kausal yang belum didukung evidence;
-- serta cukup sederhana untuk digunakan sebagai fondasi layer berikutnya.
+- dan cukup sederhana untuk menjadi fondasi layer berikutnya.
+
+Dengan demikian, audit berfungsi sebagai **pemeriksaan arsitektur dan disiplin penggunaan**, bukan sebagai penambahan komponen.
 
 ---
 
@@ -25,45 +27,41 @@ Growth Ecology menjawab:
 
 Growth Mechanism menjawab:
 
-> **Melalui proses apa perubahan kapasitas dapat terjadi?**
+> **Melalui proses apa perubahan functioning dan kemungkinan perubahan kapasitas dapat berlangsung?**
 
-Ini adalah pembagian kerja yang penting. Growth Mechanism tidak perlu mengulang seluruh ecology, dan Growth Ecology tidak perlu menjelaskan proses perubahan kapasitas secara rinci.
+Pembagian kerja ini penting. Growth Mechanism tidak perlu mengulang seluruh ecology, sementara Growth Ecology tidak perlu menjelaskan proses perubahan kapasitas secara rinci.
 
 ---
 
 ## 3. Struktur mekanisme yang diperiksa
 
-Struktur yang ada terdiri dari:
+Struktur saat ini terdiri dari:
 
-1. Experience — mengalami;
-2. Engagement — terlibat;
-3. Practice — berlatih;
-4. Feedback — memperoleh informasi tentang hasil dan proses;
-5. Reflection — memikirkan kembali pengalaman dan tindakan;
-6. Adaptation — menyesuaikan tindakan;
-7. Capacity Change — kemungkinan perubahan kapasitas;
-8. Support — kondisi dukungan;
-9. Environment — kondisi lingkungan.
+1. **Experience** — mengalami;
+2. **Engagement** — terlibat;
+3. **Practice** — berlatih;
+4. **Feedback** — memperoleh informasi tentang hasil dan proses;
+5. **Reflection** — meninjau kembali pengalaman dan tindakan;
+6. **Adaptation** — menyesuaikan tindakan;
+7. **Capacity Change** — kemungkinan perubahan kapasitas;
+8. **Support** — kondisi dukungan;
+9. **Environment** — kondisi lingkungan.
 
 Representasi sederhananya:
 
 ```text
-EXPERIENCE
-    ↓
-ENGAGEMENT
-    ↓
-PRACTICE
-    ↓
-FEEDBACK ↔ REFLECTION
-    ↓
-ADAPTATION
-    ↓
-CAPACITY CHANGE
+EXPERIENCE → ENGAGEMENT → PRACTICE
+                    ↓
+          FEEDBACK ↔ REFLECTION
+                    ↓
+               ADAPTATION
+                    ↓
+          CAPACITY CHANGE?
 ```
 
-Support dan Environment memengaruhi proses tersebut sepanjang perjalanan.
+Support dan Environment berinteraksi dengan proses tersebut sepanjang perjalanan.
 
-Dokumen utama juga sudah menegaskan bahwa diagram tersebut bukan urutan wajib atau SOP. Proses dapat berulang, bercabang, berhenti, berubah arah, dan berlangsung dengan intensitas berbeda.
+Diagram ini bukan urutan wajib atau SOP. Proses dapat berulang, bercabang, berhenti sementara, berubah arah, atau berlangsung dengan intensitas berbeda.
 
 ---
 
@@ -71,21 +69,21 @@ Dokumen utama juga sudah menegaskan bahwa diagram tersebut bukan urutan wajib at
 
 ### 4.1 Pertanyaan yang dijawab sudah jelas
 
-Growth Mechanism memiliki objek yang berbeda dari Growth Ecology: bukan lokasi atau aktor pertumbuhan, melainkan proses yang memungkinkan perubahan functioning dan kemungkinan perubahan capacity.
+Growth Mechanism memiliki objek yang berbeda dari Growth Ecology. Fokusnya bukan terutama pada lokasi atau aktor pertumbuhan, melainkan pada proses yang dapat menghasilkan perubahan functioning dan kemungkinan perubahan capacity.
 
-### 4.2 Proses dan hasil sudah dibedakan
+### 4.2 Proses dan kemungkinan hasil sudah dibedakan
 
-Pembedaan antara **mekanisme perubahan** dan **Capacity Change** merupakan bagian penting dari arsitektur.
+Pembedaan antara **proses perubahan** dan **Capacity Change** merupakan bagian penting dari arsitektur.
 
-Growth Mechanism tidak mengatakan bahwa setiap experience, practice, feedback, atau support pasti menghasilkan growth. Ia menjelaskan bagaimana perubahan **dapat** berlangsung.
+Growth Mechanism tidak mengatakan bahwa setiap experience, practice, feedback, reflection, adaptation, atau support pasti menghasilkan growth. Ia menjelaskan bagaimana perubahan **dapat** berlangsung.
 
 ### 4.3 Performance tidak disamakan dengan capacity
 
-Model sudah memberikan guardrail bahwa satu performance tidak cukup untuk langsung menyimpulkan capacity change.
+Model sudah memiliki guardrail bahwa satu performance tidak cukup untuk langsung menyimpulkan capacity change.
 
-Ini penting agar Growth Mechanism tidak mengambil alih fungsi Assessment.
+Ini menjaga agar Growth Mechanism tidak mengambil alih fungsi Assessment.
 
-### 4.4 Nonlinearitas sudah diakui
+### 4.4 Nonlinearitas sudah menjadi bagian model
 
 Mekanisme tidak diperlakukan sebagai tangga perkembangan yang selalu linear. Interaksi antarbagian dapat berlangsung secara iteratif dan kontekstual.
 
@@ -93,15 +91,15 @@ Dengan demikian, diagram berfungsi sebagai **model konseptual hubungan**, bukan 
 
 ### 4.5 Support dan Environment ditempatkan sebagai kondisi proses
 
-Support dan Environment tidak dijadikan kapasitas baru. Keduanya dipahami sebagai kondisi yang dapat membuka, menghambat, atau memengaruhi proses pertumbuhan.
+Support dan Environment tidak dijadikan kapasitas baru. Keduanya dipahami sebagai kondisi yang dapat membuka, membatasi, atau memengaruhi bagaimana proses growth berlangsung.
 
-Ini konsisten dengan Growth Ecology, tetapi tidak membuat Growth Mechanism kembali menjadi daftar konteks.
+Ini konsisten dengan Growth Ecology tanpa membuat Growth Mechanism kembali menjadi daftar seluruh konteks kehidupan.
 
 ---
 
 ## 5. Hubungan dengan Growth Ecology
 
-Hubungan keduanya sebaiknya dipahami seperti ini:
+Hubungan keduanya dapat dibaca seperti ini:
 
 ```text
 GROWTH ECOLOGY
@@ -110,7 +108,7 @@ dan dalam kondisi apa?
           ↕
 GROWTH MECHANISM
 Melalui proses apa perubahan
-kapasitas dapat berlangsung?
+functioning/capacity dapat berlangsung?
 ```
 
 Growth Ecology memberi **konteks tempat mekanisme berlangsung**.
@@ -142,14 +140,14 @@ proses perubahan
       ↓
 CORE CAPACITY ARCHITECTURE
       ↓
-apa yang berkembang
+objek kapasitas yang berkembang
 ```
 
 Growth Mechanism menjelaskan **bagaimana perubahan dapat berlangsung**.
 
 Core Capacity Architecture menjelaskan **kapasitas apa yang menjadi objek perkembangan**.
 
-Istilah seperti engagement, practice, reflection, dan adaptation tidak otomatis menjadi Core Capacity hanya karena penting dalam mekanisme.
+Istilah seperti engagement, practice, feedback, reflection, dan adaptation tidak otomatis menjadi Core Capacity hanya karena penting dalam mekanisme.
 
 Ini merupakan guardrail arsitektural yang perlu dipertahankan.
 
@@ -157,7 +155,7 @@ Ini merupakan guardrail arsitektural yang perlu dipertahankan.
 
 ## 7. Hubungan dengan Assessment
 
-Growth Mechanism dapat memberi dasar konseptual untuk memahami mengapa bukti perkembangan perlu memperhatikan:
+Growth Mechanism memberi dasar konseptual untuk memahami mengapa evidence perkembangan dapat perlu memperhatikan:
 
 - pola performance;
 - konteks;
@@ -165,14 +163,7 @@ Growth Mechanism dapat memberi dasar konseptual untuk memahami mengapa bukti per
 - perubahan dari waktu ke waktu;
 - dan kemungkinan transfer antar-konteks.
 
-Namun mekanisme tidak menetapkan:
-
-- instrumen;
-- rubrik;
-- scoring;
-- cut-off;
-- format laporan;
-- atau prosedur assessment.
+Namun mekanisme tidak menetapkan instrumen, rubrik, scoring, cut-off, format laporan, atau prosedur assessment.
 
 Dengan demikian, **mekanisme tidak berubah menjadi assessment protocol**.
 
@@ -182,68 +173,41 @@ Dengan demikian, **mekanisme tidak berubah menjadi assessment protocol**.
 
 Growth Mechanism dapat membantu menjelaskan mengapa suatu intervention mungkin menyediakan kesempatan untuk experience, practice, feedback, reflection, adaptation, atau support.
 
-Tetapi mekanisme tidak menentukan:
+Tetapi mekanisme tidak menentukan siapa yang harus menerima intervention, metode tertentu yang wajib digunakan, dosis, durasi, urutan program, atau efektivitas program tertentu.
 
-- siapa yang harus menerima intervention;
-- metode tertentu yang wajib digunakan;
-- dosis;
-- durasi;
-- urutan program;
-- atau efektivitas program tertentu.
-
-Detail tersebut harus dibangun dan diuji pada layer yang sesuai.
+Detail tersebut dibangun dan diuji pada layer yang sesuai.
 
 ---
 
 ## 9. Kekuatan utama yang perlu dipertahankan
 
-Audit menemukan beberapa kekuatan penting:
-
 ### A. Sederhana tetapi tidak terlalu sederhana
 
-Model memiliki alur yang mudah dipahami, tetapi sudah diberi penjelasan bahwa hubungan tersebut interaktif dan tidak linear.
+Model memiliki alur yang mudah dipahami, tetapi hubungan tersebut telah dijelaskan sebagai interaktif dan tidak linear.
 
 ### B. Tidak menjanjikan hasil otomatis
 
 Kata kunci **dapat terjadi** penting. Experience atau practice tidak diperlakukan sebagai jaminan growth.
 
-### C. Menjaga agency individu tanpa mengabaikan lingkungan
+### C. Menjaga agency tanpa mengabaikan lingkungan
 
-Model tidak jatuh pada dua ekstrem:
-
-> semua masalah berasal dari individu;
-
-atau:
-
-> semua masalah berasal dari lingkungan.
+Model tidak jatuh pada dua ekstrem: semua masalah berasal dari individu, atau semua masalah berasal dari lingkungan.
 
 ### D. Menjaga disiplin epistemik
 
 Model membedakan antara conceptual model, hypothesis, empirical claim, dan causal claim.
 
-Ini penting karena Core Model tidak boleh diam-diam menjadi kumpulan klaim empiris yang belum diuji.
+Ini penting agar Core Model tidak diam-diam menjadi kumpulan klaim empiris yang belum diuji.
 
-### E. Memiliki failure modes yang eksplisit
+### E. Failure modes sudah eksplisit
 
-Dokumen batas dan failure modes sudah mengantisipasi penyalahgunaan model, termasuk:
-
-- mekanisme dibaca sebagai resep linear;
-- exposure disamakan dengan growth;
-- performance disamakan dengan capacity;
-- score disamakan dengan growth;
-- support disamakan dengan kemandirian;
-- contextuality berubah menjadi relativisme;
-- transfer dianggap otomatis;
-- reflection dianggap otomatis menghasilkan perubahan;
-- program dianggap efektif hanya karena cocok dengan mekanisme.
-
-Guardrail ini membuat model lebih aman untuk diturunkan ke layer berikutnya.
+Batas dan failure modes telah mengantisipasi penyalahgunaan model, termasuk mekanisme dibaca sebagai resep linear, exposure disamakan dengan growth, performance disamakan dengan capacity, score disamakan dengan growth, support disamakan dengan kemandirian, kebutuhan support diberi label deficit, environment atau individu dijadikan penyebab tunggal, contextuality berubah menjadi relativisme, transfer dianggap otomatis, fluctuation dianggap capacity loss, reflection dianggap otomatis menghasilkan perubahan, dan program dianggap efektif hanya karena cocok dengan mekanisme.
 
 ---
 
 ## 10. Hal yang tidak perlu ditambahkan sekarang
 
-Audit tidak menemukan kebutuhan untuk menambah komponen baru hanya demi membuat Growth Mechanism terlihat lebih lengkap.
+Audit tidak menemukan kebutuhan material untuk menambah komponen baru hanya demi membuat Growth Mechanism terlihat lebih lengkap.
 
 Tidak perlu memasukkan ke dalam Core Model:
 
@@ -253,27 +217,28 @@ Tidak perlu memasukkan ke dalam Core Model:
 - model intervensi tertentu;
 - instrumen assessment;
 - SOP;
-- atau daftar program.
+- daftar program;
+- atau klaim efektivitas yang belum diuji.
 
-Kelengkapan tidak berarti semua detail harus dimasukkan ke Core Model.
+> **Kelengkapan tidak berarti semua detail harus dimasukkan ke Core Model.**
 
-> **Core Model harus cukup menjelaskan mekanisme fundamental tanpa berubah menjadi manual operasional.**
+Core Model harus cukup menjelaskan mekanisme fundamental tanpa berubah menjadi manual operasional.
 
 ---
 
 ## 11. Pertanyaan yang tetap perlu divalidasi melalui PROBE dan evidence
 
-Meskipun struktur konseptual sudah cukup, beberapa pertanyaan tetap merupakan agenda validasi:
+Meskipun struktur konseptual sudah cukup untuk tahap ini, beberapa pertanyaan tetap menjadi agenda validasi:
 
 1. Apakah Experience, Engagement, dan Practice memiliki batas konseptual yang cukup jelas untuk kebutuhan TUMBUH?
-2. Apakah Feedback dan Reflection memang perlu diposisikan sebagai pasangan yang saling berinteraksi?
-3. Apakah Adaptation sudah cukup tepat sebagai jembatan menuju perubahan functioning/capacity?
+2. Apakah Feedback dan Reflection tepat diposisikan sebagai pasangan yang saling berinteraksi?
+3. Apakah Adaptation cukup tepat sebagai jembatan menuju perubahan functioning/capacity?
 4. Bagaimana hubungan Growth Mechanism dengan construct yang nantinya tercantum dalam Construct Registry?
 5. Klaim mana yang tetap conceptual dan klaim mana yang memerlukan evidence empiris khusus?
 6. Apakah terdapat evidence yang secara material menantang model mekanisme ini?
-7. Bagaimana mekanisme ini berhubungan dengan delapan Core Capacity yang akan dibahas pada layer berikutnya?
+7. Bagaimana mekanisme ini berhubungan dengan Core Capacity Architecture pada layer berikutnya?
 
-Pertanyaan-pertanyaan ini adalah agenda inquiry, bukan alasan untuk menambah komponen tanpa dasar.
+Pertanyaan ini adalah agenda inquiry, bukan alasan untuk menambah komponen tanpa dasar.
 
 ---
 
@@ -289,15 +254,17 @@ Statusnya tetap:
 
 **PROVISIONAL — CORE MODEL**
 
-Artinya model sudah cukup jelas untuk menjadi dasar desain dan pembahasan layer berikutnya, tetapi tidak diposisikan sebagai teori kausal universal yang telah terbukti.
+Artinya model cukup jelas untuk menjadi dasar desain dan pembahasan layer berikutnya, tetapi tidak diposisikan sebagai teori kausal universal yang telah terbukti.
 
 ---
 
 ## 13. Prinsip penutupan
 
-Growth Mechanism sebaiknya dianggap **conceptually closed for the current stage**.
+Growth Mechanism dapat dianggap **conceptually closed for the current stage**.
 
-Folder ini dibuka kembali apabila ditemukan:
+Penutupan ini bersifat tahap kerja, bukan klaim bahwa model telah selesai untuk selamanya.
+
+Folder dibuka kembali apabila ditemukan:
 
 1. kontradiksi konseptual material;
 2. komponen mekanisme yang benar-benar diperlukan tetapi tidak dapat dijelaskan;
@@ -313,4 +280,4 @@ Perubahan kecil pada metode, program, atau SOP tidak otomatis menjadi alasan unt
 
 ## 14. Ringkasan satu kalimat
 
-> **Growth Mechanism TUMBUH sudah memiliki struktur yang cukup untuk menjelaskan bagaimana perubahan kapasitas dapat berlangsung melalui proses yang interaktif dan kontekstual, dengan batas yang menjaga agar mekanisme tidak berubah menjadi teori kausal universal, assessment protocol, intervention recipe, atau SOP.**
+> **Growth Mechanism TUMBUH memiliki struktur yang cukup untuk menjelaskan bagaimana perubahan functioning dan kemungkinan perubahan kapasitas dapat berlangsung melalui proses yang interaktif, iteratif, dan kontekstual, dengan batas yang menjaga agar mekanisme tidak berubah menjadi teori kausal universal, assessment protocol, intervention recipe, atau SOP.**
