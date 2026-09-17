@@ -29,4 +29,4 @@ Dimensions bukan pertemanan, jumlah anggota kelompok, kepemimpinan, komunikasi s
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
