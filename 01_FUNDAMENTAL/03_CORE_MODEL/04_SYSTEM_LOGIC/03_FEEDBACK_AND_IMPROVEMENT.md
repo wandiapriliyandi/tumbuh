@@ -1,7 +1,5 @@
 # Feedback and Continuous Improvement
 
-## Gampangnya
-
 TUMBUH bukan sistem sekali jalan. Apa yang terjadi dalam **implementation** dan apa yang ditemukan melalui **evidence & research** dapat digunakan untuk meninjau dan, bila warranted, memperbaiki bagian sistem.
 
 Continuous improvement karena itu bukan sekadar "selalu mengubah". Intinya adalah **belajar dari kenyataan tanpa mengubah desain secara gegabah**.
