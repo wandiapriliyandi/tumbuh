@@ -29,4 +29,4 @@ Dimensions bukan kesehatan secara keseluruhan, penampilan tubuh, kekuatan fisik 
 
 ## Status
 
-**Conceptually specified / empirically provisional.**
+**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS.**
