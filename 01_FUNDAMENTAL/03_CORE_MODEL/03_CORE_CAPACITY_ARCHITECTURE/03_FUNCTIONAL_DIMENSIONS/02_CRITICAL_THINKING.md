@@ -1,7 +1,5 @@
 # Functional Dimensions 02 — Critical Thinking
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi penting dalam memperlakukan informasi, klaim, alasan, dan judgment secara reflektif.
 
 ## Functional Object
