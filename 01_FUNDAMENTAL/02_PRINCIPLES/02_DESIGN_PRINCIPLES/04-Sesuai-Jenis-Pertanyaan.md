@@ -42,12 +42,6 @@ Epistemology membantu menjelaskan bagaimana pengetahuan dan klaim dipahami. Sour
 
 Dengan demikian, keputusan desain tidak seharusnya menggunakan bukti hanya karena bukti tersebut mudah diperoleh. Yang perlu dipertimbangkan adalah apakah bukti tersebut memang membantu menjawab pertanyaan yang sedang dihadapi.
 
-## Arah Masa Depan
-
-Ketika TUMBUH berkembang, jenis pertanyaan yang muncul juga dapat semakin beragam. Sistem perlu mampu menerima berbagai bentuk bukti tanpa kehilangan disiplin dalam menilai apa yang sebenarnya dapat disimpulkan dari bukti tersebut.
-
-Perkembangan metode atau teknologi baru tidak otomatis berarti harus digunakan. Pertanyaan dan kebutuhan tetap menjadi titik awal untuk menentukan apakah suatu cara baru relevan.
-
 ## Traceability
 
 Pilihan metode, sumber, atau bukti sebaiknya dapat ditelusuri kembali kepada pertanyaan dan jenis klaim yang hendak diperiksa.
