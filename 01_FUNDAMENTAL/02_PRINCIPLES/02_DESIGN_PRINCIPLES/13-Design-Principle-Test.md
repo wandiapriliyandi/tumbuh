@@ -110,14 +110,4 @@ Kandidat yang meragukan, hasil uji yang tidak jelas, atau ketegangan antar-krite
 
 Traceability menjaga jejak dari alasan filosofis sampai konsekuensi desain dan penerapannya. Dengan demikian, ketika sebuah Design Principle diperbaiki atau ditolak, kita dapat mengetahui alasan perubahan dan bagian mana yang ikut terdampak.
 
-## Arah ke depan
-
-Uji Design Principle dapat berkembang ketika TUMBUH menemukan kebutuhan desain baru. Namun pengembangan kriteria tidak perlu dilakukan hanya untuk menambah jumlah pemeriksaan.
-
-Yang lebih penting adalah menjaga kemampuan untuk membedakan dengan jernih:
-
-**prinsip → klaim/pengetahuan → pertimbangan → keputusan desain → prosedur**
-
-Dengan pembedaan tersebut, TUMBUH dapat berkembang tanpa membuat setiap saran, metode, atau pengalaman lapangan berubah menjadi prinsip baru.
-
 **Status:** DRAFT — MENUNGGU VALIDASI PROBE
