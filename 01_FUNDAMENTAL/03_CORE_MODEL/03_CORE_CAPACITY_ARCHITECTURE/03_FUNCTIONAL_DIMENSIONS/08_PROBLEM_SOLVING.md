@@ -1,7 +1,5 @@
 # Functional Dimensions 08 — Problem Solving
 
-## Gampangnya
-
 Functional Dimensions menjelaskan fungsi penting untuk memahami masalah, menentukan jalan penanganan, dan menyesuaikan tindakan berdasarkan kondisi dan hasil.
 
 ## Functional Object
