@@ -3,7 +3,6 @@
 ## Status
 **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
 
-## Gampangnya
 **Critical Thinking adalah kemampuan memeriksa informasi dan alasan sebelum membentuk atau mempertanggungjawabkan judgment.**
 
 Bukan berarti suka membantah. Bukan pula berarti selalu meragukan semua hal. Intinya adalah tidak menerima klaim begitu saja ketika masih ada alasan yang perlu diperiksa.
