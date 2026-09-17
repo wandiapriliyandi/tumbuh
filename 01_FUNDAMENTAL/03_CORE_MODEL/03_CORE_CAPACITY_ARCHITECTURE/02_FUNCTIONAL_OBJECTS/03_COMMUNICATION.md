@@ -1,7 +1,5 @@
 # Functional Object 03 — Communication
 
-## Gampangnya
-
 **Apa yang menjadi objek Communication?**
 
 Yang menjadi objek adalah **pesan dan makna dalam interaksi**: sesuatu yang ingin disampaikan, diterima, dan dipahami oleh pihak yang berkomunikasi.
