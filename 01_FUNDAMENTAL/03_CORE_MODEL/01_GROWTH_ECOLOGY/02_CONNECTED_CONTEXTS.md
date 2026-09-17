@@ -1,6 +1,8 @@
 # Connected Contexts
 
-## Apa yang dimaksud Connected Contexts?
+**Status:** CONCEPTUAL / DESIGNED — bagian dari Growth Ecology
+
+## Apa itu Connected Contexts?
 
 **Connected Contexts** adalah lingkungan dan relasi di luar Triad Growth yang tetap dapat menjadi bagian dari kondisi tempat seseorang tumbuh.
 
@@ -8,9 +10,9 @@ Pertanyaan sederhananya:
 
 > **Selain Santri, Guru/Musyrif, dan Lembaga, lingkungan apa lagi yang perlu diperhatikan ketika memahami pertumbuhan santri?**
 
-TUMBUH tidak memandang santri sebagai individu yang tumbuh dalam ruang kosong. Pengalaman di pesantren dapat berhubungan dengan keluarga, teman sebaya, masyarakat, lingkungan digital, dan konteks sosial-budaya yang lebih luas.
+Santri tidak tumbuh dalam ruang kosong. Pengalaman di pesantren dapat berhubungan dengan keluarga, teman sebaya, masyarakat, lingkungan digital, dan konteks sosial-budaya yang lebih luas.
 
-Connected Contexts membantu sistem melihat hubungan tersebut tanpa menganggap setiap konteks sebagai penyebab langsung suatu perubahan.
+Connected Contexts membantu TUMBUH **memperluas cara melihat situasi** tanpa menganggap setiap konteks sebagai penyebab langsung suatu perubahan.
 
 ---
 
@@ -22,28 +24,26 @@ Contoh:
 
 > Seorang santri terlihat sulit mengatur waktu.
 
-Jangan langsung menyimpulkan bahwa masalahnya hanya ada pada kemampuan santri.
-
-Kita dapat melihat konteks yang terhubung:
+TUMBUH tidak langsung menyimpulkan bahwa persoalannya hanya berada pada kemampuan santri. Pertanyaan dapat diperluas, misalnya:
 
 - apakah jadwal lembaga terlalu padat;
 - apakah guru atau musyrif memberi dukungan yang cukup;
 - bagaimana kebiasaan teman sebaya;
 - bagaimana tuntutan keluarga;
-- apakah penggunaan perangkat dan lingkungan digital mengganggu pengelolaan waktu;
+- apakah penggunaan perangkat dan lingkungan digital relevan;
 - bagaimana norma dan kebiasaan sosial di sekitar santri.
 
-Contoh ini **bukan bukti bahwa salah satu konteks tersebut pasti menyebabkan masalah**. Tujuannya adalah memperluas cara melihat kondisi sebelum membuat penilaian atau keputusan.
+Contoh tersebut **bukan bukti bahwa salah satu konteks pasti menyebabkan masalah**. Fungsinya adalah memperluas pemeriksaan sebelum penilaian atau keputusan dibuat.
 
 ---
 
-## 2. Konteks yang Terhubung
+## 2. Wilayah Connected Contexts
 
-Connected Contexts dalam Growth Ecology mencakup beberapa wilayah utama.
+Dalam Growth Ecology, beberapa wilayah konteks yang dapat diperhatikan adalah:
 
-### A. Keluarga
+### Keluarga
 
-Keluarga dapat menjadi bagian penting dari lingkungan pertumbuhan santri melalui:
+Dapat mencakup:
 
 - pola relasi;
 - dukungan;
@@ -54,9 +54,9 @@ Keluarga dapat menjadi bagian penting dari lingkungan pertumbuhan santri melalui
 
 TUMBUH tidak mengasumsikan bahwa semua keluarga memiliki pengaruh yang sama atau selalu positif. Konteks keluarga perlu dipahami sesuai keadaan nyata.
 
-### B. Teman Sebaya
+### Teman Sebaya
 
-Teman sebaya dapat membentuk pengalaman sosial sehari-hari melalui:
+Dapat mencakup:
 
 - penerimaan dan penolakan;
 - norma kelompok;
@@ -65,11 +65,11 @@ Teman sebaya dapat membentuk pengalaman sosial sehari-hari melalui:
 - konflik;
 - dukungan sosial.
 
-Teman sebaya bukan sekadar latar sosial. Dalam kondisi tertentu, relasi sebaya menjadi bagian penting dari pengalaman yang dihadapi santri.
+Teman sebaya bukan sekadar latar sosial. Dalam situasi tertentu, relasi sebaya menjadi bagian penting dari pengalaman yang dihadapi santri.
 
-### C. Komunitas dan Masyarakat
+### Komunitas dan Masyarakat
 
-Santri juga berada dalam lingkungan sosial yang lebih luas, seperti:
+Dapat mencakup:
 
 - komunitas lokal;
 - masyarakat sekitar;
@@ -77,11 +77,11 @@ Santri juga berada dalam lingkungan sosial yang lebih luas, seperti:
 - lingkungan tempat tinggal;
 - jejaring sosial di luar lembaga.
 
-Konteks ini membantu TUMBUH memahami bahwa pertumbuhan tidak berhenti pada batas fisik lembaga.
+Konteks ini membantu TUMBUH melihat bahwa kehidupan santri tidak berhenti pada batas fisik lembaga.
 
-### D. Lingkungan Digital
+### Lingkungan Digital
 
-Lingkungan digital mencakup pengalaman yang terjadi melalui:
+Dapat mencakup:
 
 - media sosial;
 - komunikasi daring;
@@ -90,15 +90,15 @@ Lingkungan digital mencakup pengalaman yang terjadi melalui:
 - komunitas daring;
 - arus informasi digital.
 
-Lingkungan digital dapat menjadi ruang belajar, relasi, distraksi, tekanan sosial, atau sumber informasi. Karena itu, ia perlu dilihat sebagai bagian dari ecology ketika memang relevan terhadap kasus atau pengalaman yang sedang dipahami.
+Lingkungan digital dapat menjadi ruang belajar, relasi, distraksi, tekanan sosial, atau sumber informasi. Ia diperhatikan ketika memang relevan terhadap kasus atau pengalaman yang sedang dipahami.
 
-### E. Konteks Sosial dan Budaya yang Lebih Luas
+### Konteks Sosial dan Budaya yang Lebih Luas
 
-Santri juga hidup dalam norma, nilai, kebiasaan, bahasa, struktur sosial, dan perubahan masyarakat yang lebih luas.
+Dapat mencakup norma, nilai, kebiasaan, bahasa, struktur sosial, dan perubahan masyarakat yang lebih luas.
 
-Konteks ini dapat memengaruhi jenis pengalaman yang tersedia, harapan yang diberikan kepada santri, serta cara perilaku tertentu dipahami oleh lingkungan.
+Konteks ini dapat berkaitan dengan jenis pengalaman yang tersedia, harapan terhadap santri, serta cara perilaku tertentu dipahami oleh lingkungan.
 
-Namun, TUMBUH tidak menggunakan label budaya secara sederhana untuk menjelaskan perilaku individu. Konteks sosial-budaya harus dipahami secara hati-hati dan tidak dijadikan stereotip.
+Namun TUMBUH tidak menggunakan label budaya secara sederhana untuk menjelaskan perilaku individu. Konteks sosial-budaya perlu dipahami secara hati-hati dan tidak dijadikan stereotip.
 
 ---
 
@@ -106,13 +106,11 @@ Namun, TUMBUH tidak menggunakan label budaya secara sederhana untuk menjelaskan 
 
 Connected Contexts **bukan pengganti Triad Growth**.
 
-Triad Growth tetap menjadi operational core dalam Growth Ecology:
+Triad Growth tetap menjadi **operational core** dalam Growth Ecology:
 
 > **Santri ↔ Guru/Musyrif ↔ Lembaga**
 
 Connected Contexts memperluas pandangan terhadap kondisi yang mengelilingi dan terhubung dengan Triad tersebut.
-
-Secara sederhana:
 
 ```text
                     KELUARGA
@@ -130,7 +128,7 @@ TEMAN SEBAYA ─── SANTRI ─── GURU/MUSYRIF
              KONTEKS SOSIAL-BUDAYA
 ```
 
-Diagram ini adalah **peta konseptual**, bukan diagram hubungan sebab-akibat.
+Diagram tersebut adalah **peta konseptual**, bukan diagram hubungan sebab-akibat.
 
 ---
 
@@ -142,37 +140,27 @@ Yang diperhatikan adalah konteks yang **relevan terhadap situasi yang sedang dip
 
 Misalnya:
 
-- Untuk masalah konflik teman sebaya, konteks teman sebaya mungkin sangat relevan.
-- Untuk masalah keteraturan belajar di rumah, keluarga dan lingkungan digital mungkin lebih relevan.
-- Untuk persoalan adaptasi santri baru, relasi dengan musyrif, teman sebaya, dan aturan lembaga mungkin menjadi konteks utama.
+- konflik teman sebaya → konteks teman sebaya mungkin relevan;
+- keteraturan belajar di rumah → keluarga dan lingkungan digital mungkin relevan;
+- adaptasi santri baru → relasi dengan musyrif, teman sebaya, dan aturan lembaga mungkin menjadi konteks utama.
 
-Dengan demikian, Connected Contexts bukan checklist yang harus selalu dicentang seluruhnya.
+Dengan demikian, Connected Contexts **bukan checklist universal** yang harus selalu dicentang seluruhnya.
 
 ---
 
 ## 5. Batas Konsep
 
-Connected Contexts perlu dibedakan dari beberapa konsep lain.
+Connected Contexts perlu dibedakan dari konsep lain dalam arsitektur TUMBUH.
 
-### Connected Contexts ≠ Core Capacity
+| Bukan | Penjelasan |
+|---|---|
+| **Core Capacity** | Keluarga, teman sebaya, atau lingkungan digital adalah konteks, bukan kapasitas manusia. |
+| **Actor** | Tidak setiap konteks diperlakukan sebagai aktor operasional seperti Santri, Guru/Musyrif, atau Lembaga. |
+| **Intervention** | Konteks adalah kondisi kehidupan; intervensi adalah respons yang sengaja dirancang. |
+| **Program** | Program adalah bentuk pelaksanaan yang dirancang; konteks merupakan bagian dari kehidupan yang sedang berlangsung. |
+| **Evidence** | Kehadiran suatu konteks tidak dengan sendirinya menjadi bukti bahwa konteks tersebut menyebabkan outcome. |
 
-Keluarga, teman sebaya, atau lingkungan digital adalah **konteks**, bukan kapasitas manusia.
-
-### Connected Contexts ≠ Actor
-
-Tidak setiap konteks diperlakukan sebagai aktor yang memiliki peran operasional seperti Santri, Guru/Musyrif, atau Lembaga.
-
-### Connected Contexts ≠ Intervention
-
-Konteks adalah bagian dari kondisi tempat pertumbuhan berlangsung. Intervensi adalah respons yang sengaja dirancang untuk menangani kebutuhan atau mendukung pertumbuhan.
-
-### Connected Contexts ≠ Program
-
-Program adalah bentuk pelaksanaan yang dirancang. Konteks adalah lingkungan dan relasi yang sudah menjadi bagian dari kehidupan seseorang.
-
-### Connected Contexts ≠ Evidence
-
-Kehadiran suatu konteks tidak dengan sendirinya menjadi bukti bahwa konteks tersebut menyebabkan suatu outcome.
+Batas ini mencegah Connected Contexts bergeser menjadi daftar penyebab, daftar program, atau prosedur intervensi.
 
 ---
 
@@ -180,7 +168,7 @@ Kehadiran suatu konteks tidak dengan sendirinya menjadi bukti bahwa konteks ters
 
 Ini adalah batas epistemik penting.
 
-Jika ditemukan bahwa dua hal terjadi bersamaan, TUMBUH tidak langsung menyimpulkan hubungan sebab-akibat.
+Jika dua hal terjadi bersamaan, TUMBUH tidak langsung menyimpulkan hubungan sebab-akibat.
 
 Contoh:
 
@@ -197,7 +185,7 @@ Masih mungkin terdapat faktor lain, misalnya:
 - tuntutan akademik;
 - atau faktor lain yang belum diketahui.
 
-Karena itu, hubungan konteks dengan outcome harus mengikuti tingkat bukti yang tersedia.
+Karena itu, hubungan konteks dengan outcome harus mengikuti **tingkat bukti yang tersedia**.
 
 ---
 
@@ -211,17 +199,15 @@ Growth Mechanism menjawab:
 
 > **Bagaimana perubahan kapasitas dapat berlangsung?**
 
-Connected Contexts membantu menjelaskan **kondisi dan lingkungan** tempat proses pertumbuhan berlangsung.
+Connected Contexts membantu menjelaskan **kondisi dan lingkungan** tempat proses pertumbuhan berlangsung. Ia tidak menjelaskan mekanisme perubahan kapasitas secara tersendiri.
 
-Namun, Connected Contexts tidak menjelaskan mekanisme perubahan kapasitas secara tersendiri.
-
-Contoh:
+Contoh konseptual:
 
 ```text
-Konteks:
+Konteks
 lingkungan teman sebaya
         ↓
-Pengalaman:
+Pengalaman
 sering bekerja dalam kelompok
         ↓
 Engagement & Practice
@@ -231,11 +217,11 @@ Feedback / Reflection / Adaptation
 Perubahan kapasitas yang mungkin terjadi
 ```
 
-Urutan tersebut adalah contoh konseptual. Ia bukan klaim bahwa setiap pengalaman kelompok pasti meningkatkan kapasitas tertentu.
+Urutan tersebut **bukan klaim bahwa setiap pengalaman kelompok pasti meningkatkan kapasitas tertentu**.
 
 ---
 
-## 8. Prinsip Praktis
+## 8. Prinsip Kerja
 
 Connected Contexts memberi beberapa prinsip kerja sederhana:
 
@@ -246,25 +232,67 @@ Connected Contexts memberi beberapa prinsip kerja sederhana:
 5. **Jangan menjadikan konteks sebagai alasan untuk menghapus agency santri.**
 6. **Gunakan konteks untuk memahami situasi secara lebih utuh sebelum mengambil keputusan.**
 
+Prinsip kerja ini bukan SOP. Bentuk penerapannya berada pada layer yang sesuai.
+
 ---
 
-## 9. Status dan Batas Penggunaan
+## 9. Hubungan dengan Philosophy, Principles, dan Core Model
 
-Status konsep ini adalah **conceptual / designed**.
+Connected Contexts berada di dalam **Growth Ecology**, sehingga posisinya dapat dibaca sebagai:
 
-Connected Contexts merupakan bagian dari **Growth Ecology**, bukan teori kausal universal tentang pengaruh keluarga, teman sebaya, komunitas, lingkungan digital, atau budaya terhadap perkembangan manusia.
+```text
+Philosophy
+    ↓
+Principles
+    ↓
+Core Model
+    ↓
+Growth Ecology
+    ↓
+Connected Contexts
+```
 
-Konsep ini juga bukan:
+Ia bukan sumber Philosophy baru dan bukan pengganti Principles.
 
-- progression model;
-- assessment instrument;
-- rubric;
-- intervention procedure;
-- implementation SOP;
-- program;
-- atau bukti efektivitas.
+Connected Contexts juga tidak menggantikan Growth Mechanism atau Core Capacity Architecture. Ketiganya menjawab pertanyaan yang berbeda:
 
-Pertanyaan tentang pengaruh spesifik suatu konteks terhadap outcome tertentu harus dibawa ke tahap **research dan evidence** sesuai klaim yang hendak diuji.
+- **Growth Ecology** → konteks dan relasi tempat pertumbuhan berlangsung;
+- **Growth Mechanism** → bagaimana perubahan kapasitas dapat berlangsung;
+- **Core Capacity Architecture** → kapasitas apa yang menjadi bagian dari model perkembangan.
+
+---
+
+## 10. Hubungan dengan Evidence dan Research
+
+Connected Contexts dapat membantu menentukan **apa yang perlu diperhatikan** ketika mengumpulkan atau membaca informasi tentang pertumbuhan.
+
+Namun model ini tidak menentukan sebelumnya bahwa suatu konteks pasti efektif atau menyebabkan outcome tertentu.
+
+Jika TUMBUH membuat klaim seperti:
+
+> “Bentuk pendampingan tertentu berkaitan dengan perkembangan kapasitas tertentu dalam konteks tertentu,”
+
+klaim tersebut perlu diperiksa melalui sumber, evidence, atau research yang sesuai.
+
+Dengan demikian:
+
+**Connected Contexts → membantu memetakan konteks pertanyaan.**
+
+**Evidence / Research → membantu memeriksa apa yang dapat disimpulkan dari pertanyaan tersebut.**
+
+---
+
+## 11. Traceability
+
+Ketika Connected Contexts dikembangkan atau diubah, perubahan perlu dapat ditelusuri:
+
+1. Apa masalah atau kebutuhan yang memunculkan perubahan?
+2. Konteks apa yang ditambahkan, diubah, atau dibatasi?
+3. Principles mana yang berkaitan?
+4. Apakah ada claim atau evidence yang mendukung atau menantang perubahan?
+5. Komponen Core Model atau layer berikutnya apa yang terdampak?
+
+Traceability menjaga agar penambahan konteks tidak otomatis berubah menjadi penambahan klaim sebab-akibat atau prosedur baru.
 
 ---
 
