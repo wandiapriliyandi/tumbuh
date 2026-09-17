@@ -1,7 +1,5 @@
 # Capacity Relationship Boundaries
 
-## Gampangnya
-
 Relasi antar-capacity perlu dijelaskan hati-hati. Dalam TUMBUH, **hubungan yang masuk akal secara fungsional tidak otomatis menjadi klaim empiris tentang hubungan antar-construct**.
 
 Sederhananya: dua capacity bisa bekerja dalam satu kejadian yang sama tanpa berarti keduanya sama, salah satunya menyebabkan yang lain, atau keduanya harus selalu muncul bersama.
