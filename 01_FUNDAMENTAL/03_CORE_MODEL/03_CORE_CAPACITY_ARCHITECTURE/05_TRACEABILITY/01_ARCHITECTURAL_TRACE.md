@@ -1,7 +1,5 @@
 # Architectural Trace
 
-## Gampangnya
-
 Architectural Trace memastikan bahwa setiap construct dalam Core Capacity Architecture **tidak berdiri sendiri**. Ia dapat ditelusuri ke arah normatif di atasnya dan ke artefak pengembangan di bawahnya.
 
 Tujuannya bukan membuat semua dokumen terlihat saling terhubung. Tujuannya adalah memastikan bahwa ketika sebuah keputusan dibaca atau diubah, kita dapat mengetahui **asalnya, fungsi yang diwakilinya, evidence yang mendasarinya, dan artefak lain yang mungkin terdampak**.
