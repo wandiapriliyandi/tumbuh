@@ -65,12 +65,6 @@ Di layer berikutnya, prinsip ini membantu kita menilai apakah **Core Model, Prog
 
 Foundation tidak menetapkan jumlah komponen, jumlah formulir, format dashboard, atau langkah operasional tertentu. Hal-hal tersebut perlu ditentukan pada layer yang sesuai berdasarkan kebutuhan dan konteks.
 
-## Arah Masa Depan
-
-TUMBUH akan berkembang. Perkembangan dapat membawa pengetahuan baru, kebutuhan baru, teknologi baru, dan komponen baru. Setiap pertambahan perlu tetap diuji terhadap manfaat dan bebannya.
-
-Sistem yang matang bukan sistem yang terus bertambah. Sistem yang matang adalah sistem yang mampu menambah ketika memang diperlukan dan berani menyederhanakan ketika sesuatu tidak lagi memberi manfaat yang sebanding.
-
 ## Batas Prinsip
 
 Prinsip ini tidak melarang kerumitan, tidak menetapkan ukuran sederhana secara matematis, dan tidak menentukan komponen mana yang harus dihapus.
