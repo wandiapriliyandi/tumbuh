@@ -1,7 +1,5 @@
 # Functional Object 01 — Self-Regulation
 
-## Gampangnya
-
 **Apa yang diatur oleh Self-Regulation?**
 
 Yang diatur adalah **diri sendiri ketika menjalankan sesuatu**: keadaan diri, respons, dan tindakan, terutama ketika ada tujuan, tuntutan, gangguan, atau penyimpangan.
