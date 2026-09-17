@@ -1,7 +1,5 @@
 # Functional Object 08 — Problem Solving
 
-## Gampangnya
-
 **Apa yang ditangani oleh Problem Solving?**
 
 Yang menjadi objek adalah **kesenjangan antara keadaan sekarang dan keadaan yang ingin dicapai**, beserta hambatan dan kemungkinan jalan untuk menanganinya.
