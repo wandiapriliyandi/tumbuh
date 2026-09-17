@@ -1,8 +1,8 @@
 # Support and Environment
 
-## Apa maksudnya?
+## Posisi dalam Growth Mechanism
 
-Dalam Growth Mechanism, **Support** dan **Environment** adalah kondisi yang memengaruhi bagaimana proses pertumbuhan berlangsung.
+Dalam Growth Mechanism, **Support** dan **Environment** menjelaskan kondisi yang berinteraksi dengan proses pertumbuhan.
 
 Keduanya bukan tahap tambahan dalam urutan:
 
@@ -10,17 +10,17 @@ Keduanya bukan tahap tambahan dalam urutan:
 Experience → Engagement → Practice → Feedback ↔ Reflection → Adaptation → Capacity Change
 ```
 
-Sebaliknya, Support dan Environment dapat bekerja **di sekitar, di antara, dan sepanjang proses tersebut**.
+Sebaliknya, Support dan Environment dapat hadir **di sekitar, di antara, dan sepanjang proses tersebut**.
 
 Pertanyaan sederhananya:
 
-> **Dalam kondisi seperti apa seseorang mendapat kesempatan dan dukungan untuk menjalani proses pertumbuhan?**
+> **Dalam kondisi seperti apa seseorang mendapat kesempatan, tuntutan, dan dukungan untuk menjalani proses pertumbuhan?**
 
 ---
 
 ## 1. Support — bantuan yang memungkinkan proses berlangsung
 
-Support adalah bantuan, dukungan, atau kondisi pendukung yang membantu seseorang menjalani suatu proses.
+**Support** adalah bantuan, dukungan, atau kondisi pendukung yang membantu seseorang menjalani suatu proses atau menampilkan functioning tertentu.
 
 Support dapat berupa:
 
@@ -36,15 +36,15 @@ Support dapat berupa:
 
 Support tidak selalu berarti seseorang tidak mampu.
 
-Dalam banyak situasi, support justru memungkinkan seseorang mencoba sesuatu yang belum dapat dilakukan secara mandiri.
+Dalam banyak situasi, support justru memungkinkan seseorang mencoba sesuatu yang belum dapat dilakukan secara mandiri pada tingkat yang sama.
 
 ---
 
 ## 2. Environment — kondisi tempat proses berlangsung
 
-Environment mencakup kondisi di sekitar seseorang yang membentuk kesempatan, tuntutan, hambatan, dan pola interaksi.
+**Environment** mencakup kondisi di sekitar seseorang yang membentuk kesempatan, tuntutan, hambatan, sumber daya, dan pola interaksi.
 
-Dalam Growth Ecology, lingkungan dapat mencakup:
+Dalam Growth Ecology, konteks dapat mencakup:
 
 - keluarga;
 - teman sebaya;
@@ -54,7 +54,7 @@ Dalam Growth Ecology, lingkungan dapat mencakup:
 - lingkungan digital;
 - serta konteks sosial dan budaya yang lebih luas.
 
-Environment dalam Growth Mechanism menyoroti bagaimana kondisi tersebut berinteraksi dengan proses pertumbuhan.
+Dalam Growth Mechanism, perhatian diarahkan pada bagaimana kondisi tersebut berinteraksi dengan proses pertumbuhan.
 
 ---
 
@@ -62,53 +62,51 @@ Environment dalam Growth Mechanism menyoroti bagaimana kondisi tersebut berinter
 
 Keduanya berhubungan, tetapi tidak identik.
 
-**Support** lebih menekankan bantuan atau kondisi yang mendukung seseorang dalam menjalani proses.
+**Support** lebih menekankan bantuan atau kondisi yang membantu seseorang menjalani proses.
 
-**Environment** lebih luas: mencakup keseluruhan kondisi, hubungan, tuntutan, peluang, aturan, dan konteks tempat proses berlangsung.
+**Environment** lebih luas: mencakup kondisi, hubungan, tuntutan, peluang, aturan, sumber daya, dan konteks tempat proses berlangsung.
 
 Contoh:
 
 > Musyrif membantu santri membuat strategi belajar.
 
-Itu adalah support.
+Ini merupakan **support**.
 
 > Jadwal lembaga menyediakan waktu belajar yang cukup dan aturan yang memungkinkan santri menggunakannya.
 
-Itu adalah bagian dari environment.
+Ini merupakan bagian dari **environment**.
 
 ---
 
 ## 4. Support dapat berubah sesuai kebutuhan
 
-Support tidak harus selalu sama.
+Support tidak harus selalu sama sepanjang proses.
 
-Seseorang mungkin membutuhkan bantuan intensif ketika pertama kali menghadapi tugas, lalu membutuhkan bantuan yang lebih sedikit setelah mulai mampu melakukannya sendiri.
+Seseorang mungkin membutuhkan bantuan lebih besar ketika pertama kali menghadapi tugas, lalu membutuhkan bentuk bantuan yang berbeda ketika mulai mampu melakukannya dengan lebih mandiri.
 
 Secara konseptual:
 
 ```text
-KEBUTUHAN TINGGI
-      ↓
-SUPPORT LEBIH BESAR
-      ↓
+KEBUTUHAN
+   ↓
+SUPPORT YANG SESUAI
+   ↓
 PRACTICE & ADAPTATION
-      ↓
-FUNCTIONING MENINGKAT
-      ↓
-SUPPORT DAPAT DISESUAIKAN
+   ↓
+PERUBAHAN FUNCTIONING
+   ↓
+SUPPORT DISESUAIKAN KEMBALI
 ```
 
-Namun, ini bukan aturan bahwa support harus selalu berkurang.
+Namun ini **bukan aturan bahwa support harus selalu berkurang**.
 
-Pada situasi tertentu, tuntutan dapat meningkat sehingga seseorang justru membutuhkan bentuk support yang berbeda atau lebih kompleks.
+Ketika tuntutan meningkat atau situasi berubah, seseorang justru dapat membutuhkan support yang berbeda atau lebih kompleks.
 
 ---
 
 ## 5. Support bukan pengganti functioning
 
-Ini batas yang penting.
-
-Jika seseorang dapat menyelesaikan tugas hanya ketika terus diarahkan, maka performance tersebut perlu dibaca bersama tingkat support yang digunakan.
+Jika seseorang dapat menyelesaikan tugas hanya ketika terus diarahkan, performance tersebut perlu dibaca bersama tingkat support yang digunakan.
 
 Contoh:
 
@@ -116,9 +114,9 @@ Contoh:
 
 Ini menunjukkan functioning dalam kondisi dengan support tertentu.
 
-Belum tepat jika langsung disimpulkan bahwa santri memiliki tingkat kapasitas yang sama ketika harus bekerja secara mandiri.
+Belum tepat jika langsung disimpulkan bahwa santri memiliki kapasitas yang sama ketika harus bekerja secara mandiri.
 
-Support dapat membantu **mengakses atau menampilkan functioning**, tetapi tidak otomatis membuktikan perubahan capacity.
+Support dapat membantu **mengakses atau menampilkan functioning**, tetapi tidak otomatis membuktikan capacity change.
 
 ---
 
@@ -134,7 +132,7 @@ Santri kemudian mencoba cara tersebut.
 
 Dalam situasi ini support menjadi bagian dari pengalaman yang memungkinkan engagement dan practice.
 
-Karena itu support tidak berada di luar sistem pertumbuhan secara mutlak; ia dapat menjadi salah satu kondisi yang membuat mekanisme dapat berjalan.
+Karena itu support bukan sesuatu yang sepenuhnya berada di luar Growth Mechanism; ia merupakan kondisi yang dapat membantu mekanisme berjalan.
 
 ---
 
@@ -153,19 +151,19 @@ Environment dapat:
 
 Contoh:
 
-Jika santri diharapkan belajar mandiri tetapi jadwal selalu penuh dan tidak menyediakan waktu untuk latihan mandiri, maka kesempatan untuk mengembangkan functioning tersebut mungkin terbatas.
+Jika santri diharapkan belajar mandiri tetapi jadwal selalu penuh dan tidak menyediakan waktu untuk latihan mandiri, kesempatan untuk mengembangkan functioning tersebut dapat terbatas.
 
-Ini bukan berarti environment otomatis menjadi penyebab tunggal.
+Namun keadaan tersebut tidak dengan sendirinya membuktikan bahwa environment adalah penyebab tunggal hasil perkembangan.
 
 ---
 
-## 8. Environment bukan deterministic cause
+## 8. Environment bukan penyebab deterministik
 
 TUMBUH tidak menggunakan lingkungan sebagai penjelasan deterministik.
 
-Kondisi yang sama dapat menghasilkan respons yang berbeda pada orang yang berbeda.
+Kondisi yang sama dapat berinteraksi secara berbeda dengan orang yang berbeda.
 
-Sebaliknya, orang yang sama juga dapat merespons lingkungan berbeda pada waktu yang berbeda.
+Orang yang sama juga dapat merespons kondisi yang sama secara berbeda pada waktu yang berbeda.
 
 Karena itu:
 
@@ -181,11 +179,11 @@ Growth Ecology menjawab pertanyaan:
 
 > **Di mana dan dalam relasi seperti apa pertumbuhan berlangsung?**
 
-Support and Environment dalam Growth Mechanism membantu menjawab:
+Support and Environment dalam Growth Mechanism membantu memperjelas:
 
-> **Bagaimana kondisi tersebut memengaruhi kemungkinan proses pertumbuhan berjalan?**
+> **Bagaimana kondisi, bantuan, tuntutan, dan peluang tersebut berinteraksi dengan proses pertumbuhan?**
 
-Dengan demikian:
+Secara konseptual:
 
 ```text
 GROWTH ECOLOGY
@@ -199,13 +197,13 @@ GROWTH MECHANISM
 FUNCTIONING / CAPACITY CHANGE?
 ```
 
-Diagram ini menunjukkan hubungan konseptual antarlayer, bukan klaim sebab-akibat universal.
+Diagram ini menunjukkan hubungan antarkonsep, bukan klaim sebab-akibat universal.
 
 ---
 
 ## 10. Environment juga memiliki tuntutan
 
-Lingkungan bukan hanya sumber dukungan.
+Environment bukan hanya sumber dukungan.
 
 Ia juga dapat memberikan **demands**.
 
@@ -214,31 +212,31 @@ Contoh:
 - tugas membutuhkan konsentrasi;
 - kehidupan asrama membutuhkan pengaturan waktu;
 - kerja kelompok membutuhkan koordinasi;
-- kegiatan fisik membutuhkan fungsi tubuh tertentu.
+- kegiatan fisik membutuhkan fungsi tertentu.
 
-Demand dapat menjadi kesempatan latihan, tetapi juga dapat menjadi beban atau hambatan jika tidak sesuai dengan kondisi seseorang.
+Demand dapat menjadi kesempatan untuk menggunakan atau mengembangkan functioning, tetapi juga dapat menjadi beban atau hambatan jika tuntutan tidak sesuai dengan kondisi yang tersedia.
 
 ---
 
 ## 11. Demand bukan Capacity
 
-Ini perlu dijaga agar konstruk tidak bercampur.
+Batas ini perlu dijaga agar konstruk tidak bercampur.
 
 > **Demand adalah tuntutan situasi.**
 
 > **Capacity adalah kapasitas seseorang untuk berfungsi.**
 
-Seseorang dapat memiliki capacity tertentu tetapi gagal menampilkan performance karena demand sangat tinggi.
+Seseorang dapat memiliki capacity tertentu tetapi tidak menampilkan performance yang sama ketika demand sangat tinggi.
 
-Sebaliknya, seseorang dapat terlihat sangat baik ketika demand sangat rendah sehingga kapasitas yang lebih tinggi belum benar-benar teruji.
+Sebaliknya, seseorang dapat terlihat berhasil ketika demand sangat rendah sehingga kapasitas yang lebih tinggi belum benar-benar teruji.
 
-Karena itu capacity perlu dipahami relatif terhadap konteks dan tuntutan yang relevan.
+Karena itu capacity perlu dipahami dengan memperhatikan konteks dan tuntutan yang relevan.
 
 ---
 
 ## 12. Fit antara person dan environment
 
-Dalam praktik, functioning dapat dipengaruhi oleh hubungan antara:
+Functioning dapat dipengaruhi oleh hubungan antara:
 
 - karakteristik individu;
 - kapasitas yang tersedia;
@@ -258,15 +256,21 @@ SUPPORT ↔ ENVIRONMENT
 FUNCTIONING
 ```
 
-Model ini membantu menghindari kesalahan menafsirkan semua kesulitan sebagai kekurangan individu.
+Kerangka ini membantu menghindari dua penyederhanaan sekaligus:
 
-Tetapi juga tidak boleh digunakan untuk menyimpulkan bahwa semua kesulitan berasal dari lingkungan.
+> semua kesulitan pasti berasal dari individu;
+
+atau:
+
+> semua kesulitan pasti berasal dari lingkungan.
+
+Keduanya membutuhkan pembacaan terhadap konteks dan evidence yang relevan.
 
 ---
 
-## 13. Support dapat menjadi scaffolding
+## 13. Support sebagai scaffolding
 
-Scaffolding adalah salah satu bentuk support yang membantu seseorang melakukan sesuatu yang belum dapat dilakukan secara mandiri pada tingkat yang sama.
+**Scaffolding** adalah salah satu bentuk support yang membantu seseorang melakukan sesuatu yang belum dapat dilakukan secara mandiri pada tingkat yang sama.
 
 Contohnya:
 
@@ -279,17 +283,17 @@ Contohnya:
 
 Scaffolding dapat menjadi jembatan menuju functioning yang lebih mandiri.
 
-Namun, apakah scaffolding tertentu benar-benar menghasilkan capacity change adalah pertanyaan empiris yang memerlukan evidence.
+Namun apakah bentuk scaffolding tertentu benar-benar menghasilkan capacity change merupakan pertanyaan empiris yang memerlukan evidence.
 
 ---
 
 ## 14. Support dapat terlalu sedikit atau terlalu banyak
 
-Support yang tidak memadai dapat membuat seseorang tidak memiliki kesempatan yang cukup untuk berhasil mencoba.
+Support yang tidak memadai dapat membuat seseorang tidak memperoleh kesempatan yang cukup untuk mencoba.
 
 Sebaliknya, support yang terlalu dominan dapat mengurangi kesempatan seseorang untuk mengambil keputusan dan melakukan tindakan sendiri.
 
-Karena itu tujuan support bukan sekadar **memaksimalkan bantuan**, tetapi menyediakan kondisi yang sesuai dengan kebutuhan dan tujuan pertumbuhan.
+Karena itu tujuan support bukan sekadar **memaksimalkan bantuan**, melainkan menyediakan kondisi yang sesuai dengan kebutuhan dan arah pertumbuhan.
 
 TUMBUH tidak menetapkan satu kadar support universal untuk semua orang atau semua situasi.
 
@@ -297,7 +301,7 @@ TUMBUH tidak menetapkan satu kadar support universal untuk semua orang atau semu
 
 ## 15. Environment dapat berubah
 
-Growth berlangsung dalam sistem yang dinamis.
+Growth berlangsung dalam kondisi yang dinamis.
 
 Jadwal dapat berubah.
 
@@ -307,7 +311,7 @@ Tuntutan dapat berubah.
 
 Sumber daya dapat berubah.
 
-Karena itu perubahan functioning tidak selalu dapat dipahami hanya dengan membandingkan individu dengan dirinya sendiri tanpa memperhatikan perubahan kondisi.
+Karena itu perubahan functioning tidak selalu dapat dipahami hanya dengan membandingkan individu tanpa memperhatikan perubahan kondisi di sekitarnya.
 
 Perubahan konteks perlu dipertimbangkan ketika membaca evidence perkembangan.
 
@@ -353,6 +357,8 @@ Ia menambahkan buffer waktu dan mengubah urutan kegiatan.
 
 Belum otomatis dapat disimpulkan. Diperlukan evidence yang sesuai untuk menilai apakah terdapat perubahan functioning yang cukup bermakna.
 
+Contoh ini menunjukkan bagaimana kondisi lingkungan dan support berinteraksi dengan proses, tanpa mengubahnya menjadi resep intervensi.
+
 ---
 
 ## 17. Batas konsep
@@ -371,11 +377,15 @@ Lingkungan dapat berkontribusi terhadap kondisi pertumbuhan tanpa otomatis menja
 
 ### Support ≠ Capacity
 
-Kemampuan seseorang dengan bantuan tidak otomatis sama dengan kapasitas mandirinya.
+Functioning seseorang dengan bantuan tidak otomatis sama dengan kapasitas mandirinya.
+
+### Demand ≠ Capacity
+
+Demand adalah tuntutan situasi; capacity adalah kapasitas untuk berfungsi.
 
 ### Demand ≠ Difficulty
 
-Demand adalah tuntutan situasi; difficulty adalah karakteristik atau tingkat kesulitan yang dirasakan atau dibentuk oleh tugas/konteks. Keduanya tidak boleh otomatis disamakan.
+Demand adalah tuntutan situasi. Difficulty berkaitan dengan tingkat kesulitan suatu tugas atau situasi dan tidak boleh otomatis disamakan dengan demand.
 
 ### Support ≠ Compensation
 
@@ -389,9 +399,9 @@ Bantuan yang memungkinkan functioning tidak otomatis berarti compensation dalam 
 2. **Lihat environment sebagai konteks yang memengaruhi peluang dan tuntutan, bukan penyebab deterministik.**
 3. **Pertimbangkan tingkat support ketika membaca performance.**
 4. **Bedakan demand situasi dari capacity individu.**
-5. **Sesuaikan support dengan kebutuhan dan tujuan, bukan dengan asumsi kadar bantuan universal.**
-6. **Pertimbangkan perubahan lingkungan ketika membaca perubahan functioning.**
-7. **Jaga agency individu tanpa mengabaikan kondisi sistem.**
+5. **Sesuaikan support dengan kebutuhan dan arah pertumbuhan, bukan dengan asumsi kadar bantuan universal.**
+6. **Pertimbangkan perubahan environment ketika membaca perubahan functioning.**
+7. **Jaga agency individu tanpa mengabaikan kondisi tempat ia bertumbuh.**
 
 ---
 
@@ -407,4 +417,4 @@ Klaim tentang efektivitas jenis support, scaffolding, atau kondisi lingkungan te
 
 ## Ringkasnya
 
-> **Support membantu seseorang menjalani proses pertumbuhan, sedangkan Environment menyediakan kondisi, peluang, tuntutan, dan batas tempat proses itu berlangsung; keduanya memengaruhi kemungkinan growth tetapi tidak secara otomatis menentukan capacity change.**
+> **Support membantu seseorang menjalani proses pertumbuhan, sedangkan Environment menyediakan kondisi, peluang, tuntutan, sumber daya, dan batas tempat proses itu berlangsung. Keduanya berinteraksi dengan growth mechanism, tetapi tidak otomatis menentukan capacity change.**
