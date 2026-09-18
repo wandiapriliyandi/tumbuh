@@ -1,18 +1,29 @@
 # P0044 — Apakah Dependency Type Dapat Berubah tanpa Mengubah Identity Parent dan Downstream Object?
 
-## Pertanyaan
+## Status
 
-**Apakah dependency type dapat berubah—misalnya dari enabling menjadi constraining—tanpa mengubah identity parent dan downstream object?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0044  
+**Status:** Revised  
+**Type:** Relationship Identity and Dependency Type Inquiry
 
-P0043 menemukan bahwa Confirmed adalah status validitas relationship, sedangkan dependency type menjelaskan semantics relationship dan consequence-nya.
+---
 
-Maka muncul pertanyaan:
+## 1. Object of Inquiry
 
-> Jika semantics sebuah relationship berubah, apakah parent atau downstream object otomatis harus dianggap berubah identitasnya?
+**Object of Inquiry:** Hubungan antara identity parent, identity downstream object, identity relationship, dan dependency type dalam Principles TUMBUH.
 
-## 1. Titik Berangkat
+P0043 menemukan bahwa **Confirmed** adalah status relationship, sedangkan dependency type menjelaskan semantics relationship.
 
-Perlu memisahkan empat hal:
+P0044 menguji apakah perubahan semantics tersebut otomatis mengubah identity object.
+
+## 2. TUMBUH Question
+
+> **Apakah dependency type dapat berubah—misalnya dari enabling menjadi constraining—tanpa mengubah identity parent dan downstream object?**
+
+## 3. Empat Hal yang Harus Dipisahkan
+
+Perlu membedakan:
 
 1. **Identity Parent**
 2. **Identity Downstream**
@@ -21,31 +32,37 @@ Perlu memisahkan empat hal:
 
 Keempatnya tidak harus berubah bersama.
 
-Sebuah relationship dapat tetap menghubungkan object yang sama, tetapi interpretation atau type relationship dapat direvisi.
+Working principle:
 
-## 2. Dependency Type adalah Semantics Relationship
+> **Type change ≠ automatic object identity change.**
 
-Jika:
+## 4. Dependency Type adalah Semantics Relationship
 
-**P1 → I1**
+Contoh:
 
-awalnya dipahami sebagai:
+~~~text
+P1 → I1
+~~~
 
-**enabling**
+Awalnya:
 
-kemudian review menunjukkan P1 sebenarnya:
+~~~text
+P1 enables I1
+~~~
 
-**constraining**
+Setelah review:
 
-maka yang pertama kali berubah adalah **semantics relationship**, bukan otomatis identity P1 atau I1.
+~~~text
+P1 constrains I1
+~~~
 
-Dengan demikian:
+Yang pertama kali berubah adalah **semantics relationship**.
 
-**Type change ≠ automatic object identity change.**
+P1 dan I1 tidak otomatis berubah identity.
 
-## 3. Relationship Identity
+## 5. Relationship Identity
 
-Relationship dapat diperlakukan sebagai claim yang memiliki:
+Relationship dapat direpresentasikan melalui:
 
 - parent;
 - downstream;
@@ -55,228 +72,264 @@ Relationship dapat diperlakukan sebagai claim yang memiliki:
 - consequence;
 - status.
 
-Jika parent dan downstream tetap sama tetapi type berubah, relationship claim mengalami revision.
+Jika parent dan downstream tetap sama tetapi type berubah, relationship claim dapat mengalami revision.
 
-## 4. Mengapa Type Bisa Berubah?
+## 6. Mengapa Type Dapat Berubah?
 
-Beberapa kemungkinan:
+Perubahan dapat terjadi karena:
 
 - reasoning awal belum lengkap;
-- evidence baru mengubah interpretation;
-- scope diperjelas;
-- consequence baru ditemukan;
+- evidence baru;
+- scope clarification;
+- consequence baru;
 - relationship sebelumnya terlalu kuat;
 - relationship sebelumnya terlalu lemah;
-- terminology diperbaiki;
-- downstream design berubah;
-- parent principle berubah.
+- terminology correction;
+- downstream design change;
+- parent Principle change.
 
-Tidak semua perubahan ini berarti identity object berubah.
+Tidak semua perubahan tersebut mengubah identity object.
 
-## 5. Type Change karena Better Interpretation
-
-Contoh:
-
-Awalnya:
-
-**P1 enables I1**
-
-Setelah review:
-
-**P1 constrains I1**
-
-P1 tetap sama.
-
-I1 tetap sama.
-
-Yang berubah adalah pemahaman tentang bagaimana P1 berhubungan dengan I1.
-
-Ini merupakan **relationship revision**.
-
-## 6. Type Change karena Scope Clarification
+## 7. Type Change karena Better Interpretation
 
 Contoh:
 
-**P1 → I1**
+~~~text
+P1 enables I1
+↓
+review
+↓
+P1 constrains I1
+~~~
 
-awalnya dibaca universal.
+Jika parent dan downstream tetap memiliki commitment, meaning, dan design function yang sama, perubahan ini merupakan **relationship revision**.
 
-Setelah review ditemukan:
+## 8. Type Change karena Scope Clarification
 
-**P1 → I1 under C1**
+Contoh:
 
-Relationship berubah menjadi conditional.
+~~~text
+P1 constrains I1
+↓
+P1 conditionally constrains I1 under C1
+~~~
 
-Parent dan downstream dapat tetap sama.
+Object dapat tetap sama.
 
-Yang berubah adalah applicability boundary.
+Yang berubah adalah applicability boundary relationship.
 
-## 7. Type Change karena Downstream Change
+Ini konsisten dengan P0033–P0034 tentang scope dan conditions.
 
-Ada kasus berbeda.
+## 9. Type Change karena Downstream Change
 
-Jika I1 sendiri berubah sehingga relationship tidak lagi memiliki semantics yang sama, maka:
+Jika I1 berubah lebih dahulu:
 
-**I1 revision → relationship re-evaluation**
+~~~text
+I1 revision
+↓
+relationship re-evaluation
+~~~
 
-Type dapat berubah sebagai konsekuensi downstream revision.
+Type dapat berubah sebagai consequence.
 
-Ini tidak berarti type change menyebabkan identity change.
+Maka perlu dicatat arah causality:
 
-Arah causality perlu dicatat.
+> **Object change dapat menyebabkan relationship change.**
 
-## 8. Type Change karena Parent Change
+Tidak berarti relationship change menyebabkan object identity change.
 
-P0038 dan P0039 telah menunjukkan bahwa parent change tidak otomatis memicu semua downstream revision.
+## 10. Type Change karena Parent Change
 
-Jika P1 berubah, relationship dengan I1 perlu diperiksa.
+Jika P1 berubah:
 
-Kemungkinan:
+~~~text
+P1 revision
+↓
+relationship review
+↓
+type retained / revised / conditionalized / rejected
+~~~
 
-- tetap sama;
-- berubah type;
-- menjadi conditional;
-- menjadi redundant;
-- hilang;
-- membutuhkan re-derivation.
+P0039 tetap berlaku: impact tidak otomatis dipropagasikan ke seluruh repository.
 
-Maka type change dapat menjadi **impact of parent revision** tanpa otomatis mengubah I1 identity.
+## 11. Type Change vs Relationship Replacement
 
-## 9. Type Change vs Relationship Replacement
+Tidak semua type change adalah relationship yang sama.
 
-Tidak semua perubahan type adalah revision atas relationship yang sama.
+### Relationship Revision
 
-Pertanyaan penting:
+Underlying relational claim tetap sama, tetapi semantics diperjelas/direvisi.
 
-> Apakah underlying relationship claim masih sama?
+### Reclassification / Replacement
 
-Jika hanya semantics diperjelas:
+Relationship lama ternyata salah dan digantikan relationship dengan claim berbeda.
 
-**Relationship Revision**
+### Rejection / Retirement
 
-Jika relationship lama ternyata salah dan digantikan relationship yang berbeda:
+Substantive relationship tidak lagi dapat dipertahankan.
 
-**Relationship Reclassification/Replacement**
+Pertanyaan kuncinya:
 
-Jika tidak ada lagi substantive relationship:
+> **Apakah underlying relational claim masih menunjuk pada hubungan substantif yang sama?**
 
-**Relationship Rejection/Retirement**
-
-## 10. Identity Test
+## 12. Identity Test
 
 Working test:
 
 > **Apakah parent, downstream, scope of relation, dan underlying relational claim masih menunjuk pada hubungan substantif yang sama?**
 
-Jika iya, type change dapat diperlakukan sebagai revision.
+Jika ya:
 
-Jika tidak, relationship lama mungkin perlu ditutup dan relationship baru dibuat.
+→ relationship revision dapat cukup.
 
-## 11. Parent dan Downstream Identity
+Jika tidak:
 
-Identity parent ditentukan oleh commitment, design function, scope, dan meaning sebagaimana inquiry sebelumnya membedakan identity dari relationship.
+→ relationship lama dapat perlu ditutup dan relationship baru direpresentasikan.
+
+## 13. Parent Identity
+
+Identity parent terutama berkaitan dengan:
+
+- commitment;
+- design function;
+- scope;
+- meaning.
+
+Perubahan relationship type tidak otomatis mengubah keempatnya.
+
+## 14. Downstream Identity
 
 Identity downstream juga tidak ditentukan oleh satu dependency saja.
 
-Karena itu perubahan relationship tidak otomatis mengubah identity kedua object.
+Karena itu:
 
-## 12. Dependency Type Bukan Identity Field
+> **Relationship change ≠ automatic downstream identity change.**
 
-Jika type diperlakukan sebagai bagian dari relationship metadata, maka perubahan:
+Object hanya perlu dibuka kembali jika relationship change menunjukkan substantive change pada identity-relevant properties.
 
-**enabling → constraining**
+## 15. Dependency Type Bukan Identity Field
 
-tidak otomatis menjadi:
+Jika type diperlakukan sebagai property relationship:
 
-**I1 v1 → I1 v2**
+~~~text
+enabling → constraining
+~~~
+
+tidak otomatis berarti:
+
+~~~text
+P1 v1 → P1 v2
+~~~
 
 atau:
 
-**P1 v1 → P1 v2**.
+~~~text
+I1 v1 → I1 v2
+~~~
 
-Versioning relationship dan versioning object sebaiknya dapat dibedakan.
+Versioning relationship dan object dapat dibedakan.
 
-## 13. Relationship Lifecycle
+## 16. Relationship Lifecycle
 
-P0027 dan P0028 menunjukkan bahwa relationship dan principle memiliki lifecycle yang dapat dibedakan.
+Working lifecycle:
 
-Maka working lifecycle relationship dapat mencakup:
+~~~text
+Proposed
+↓
+Under Review
+↓
+Confirmed
+↓
+Revised / Reclassified
+↓
+Confirmed
+↓
+Superseded / Rejected
+~~~
 
-**Proposed → Under Review → Confirmed → Revised → Superseded/Rejected**
+“Revised” lebih tepat dipahami sebagai perubahan dalam history/lifecycle daripada harus menjadi permanent status.
 
-Namun “Revised” lebih tepat dipahami sebagai event/history daripada harus menjadi status permanen.
+## 17. Historical Traceability
 
-## 14. Historical Traceability
-
-Type change perlu menyimpan historical traceability.
+Type change perlu dapat ditelusuri.
 
 Contoh:
 
-**t1:** P1 enables I1  
-**t2:** review  
-**t3:** P1 constrains I1
+~~~text
+t1: P1 enables I1
+t2: review
+t3: P1 constrains I1
+~~~
 
-Catatan tersebut penting karena reviewer masa depan perlu mengetahui mengapa interpretation berubah.
+Historical reasoning membantu reviewer memahami mengapa semantics berubah.
 
-## 15. Apakah Semua Type Change Perlu PROBE Baru?
+## 18. Apakah Setiap Type Change Membutuhkan PROBE Baru?
 
-Tidak selalu.
+Tidak.
 
-Jika perubahan type hanya:
+Jika perubahan hanya:
 
-- editorial;
 - terminology;
+- editorial;
 - clarification tanpa substantive consequence;
 
-mungkin cukup melalui review.
+review biasa dapat cukup.
 
 Jika type change mengubah:
 
 - design consequence;
-- governance consequence;
 - scope;
+- governance consequence;
 - acceptance;
 - downstream impact;
 
-maka inquiry/PROBE dapat diperlukan sesuai materiality.
+PROBE/inquiry dapat diperlukan sesuai materiality.
 
 Tidak ada dasar bahwa setiap metadata change harus menghasilkan P baru.
 
-## 16. Type Change dan Acceptance
+## 19. Type Change dan Acceptance
 
-Jika relationship telah Confirmed kemudian type berubah, relationship sebaiknya kembali ke review sesuai materiality.
+Confirmed relationship yang mengalami material type change perlu kembali melalui review yang sesuai.
 
 Namun tidak otomatis:
 
-**type change → parent rejection**
+~~~text
+type change → parent rejection
+~~~
 
 atau:
 
-**type change → downstream rejection**
+~~~text
+type change → downstream rejection
+~~~
 
-Yang perlu ditinjau adalah consequence dari semantic change.
+Yang diperiksa adalah consequence dari perubahan semantics.
 
-## 17. Type Change dan Governance
+## 20. Type Change dan Governance
 
-Jika type menentukan impact propagation, perubahan type dapat mengubah governance action.
+Jika type menentukan impact path, perubahan type dapat mengubah review focus.
 
 Contoh:
 
-**Supporting → Necessary**
+~~~text
+supporting → necessary
+~~~
 
-dapat memperkuat kebutuhan review.
+dapat meningkatkan kebutuhan review derivation.
 
 Sebaliknya:
 
-**Necessary → Supporting**
+~~~text
+necessary → supporting
+~~~
 
 dapat mengurangi dependency consequence.
 
-Karena itu governance perlu melihat type sebagai semantic input, bukan sekadar label.
+Namun action governance tetap bergantung pada consequence dan materiality.
 
-## 18. Type Change dan Re-Derivation
+## 21. Type Change dan Re-Derivation
 
-Jika type berubah dari:
+Jika relationship berubah dari:
 
 **derivational**
 
@@ -284,171 +337,154 @@ menjadi:
 
 **supporting**
 
-mungkin perlu diperiksa apakah downstream masih benar-benar derived dari parent.
+perlu diperiksa apakah downstream masih benar-benar derived dari parent.
 
-Jika tidak, relationship mungkin bukan sekadar type change; derivation claim-nya perlu dibuka kembali.
+Jika tidak, relationship claim dapat perlu direvisi lebih substantif daripada sekadar mengganti label.
 
-## 19. Type Change dan Conditionality
+## 22. Type Change dan Conditionality
 
-Conditionality sering dapat ditambahkan tanpa mengubah object identity.
+Conditionality dapat ditambahkan tanpa mengubah identity object:
 
-Contoh:
+~~~text
+constraining
+↓
+constraining under C1
+~~~
 
-**constraining**
+Ini dapat menjadi refinement atas relationship semantics.
 
-menjadi:
+## 23. Composite Relationships
 
-**constraining under C1**.
+Untuk:
 
-Ini dapat dipahami sebagai refinement atas relationship semantics.
+~~~text
+P1 + P2 → I1
+~~~
 
-## 20. Composite Relationships
-
-Pada:
-
-**P1 + P2 → I1**
-
-masing-masing parent dapat memiliki type berbeda:
+parent dapat memiliki semantics berbeda:
 
 - P1 constrains I1;
 - P2 enables I1.
 
-Tidak perlu memaksa seluruh composite relationship memiliki satu type.
+Tidak perlu memaksa composite relationship memiliki satu type.
 
-Namun representation harus tetap jelas tentang contribution masing-masing parent.
+Representation harus tetap menunjukkan contribution masing-masing parent.
 
-## 21. Multiple Types dan Over-Modeling
+## 24. Multiple Types dan Over-Modeling
 
-Jika satu relationship memiliki banyak type:
+Jika relationship diberi terlalu banyak labels:
 
-**enables + constrains + supports + refines**
+~~~text
+enables + constrains + supports + refines
+~~~
 
-perlu ditanyakan apakah semuanya benar-benar distinct.
-
-Jika beberapa label hanya mengulang consequence yang sama, taxonomy menjadi noisy.
+perlu diperiksa apakah semuanya benar-benar distinct.
 
 Working approach:
 
-- primary semantic type;
-- secondary consequence bila material.
+- **Primary semantic type**
+- **Secondary consequence** bila material.
 
-## 22. Type Change dan Terminology Change
+Ini menghindari relationship explosion.
 
-Terminology dapat berubah tanpa substantive semantic change.
+## 25. Terminology Change
+
+Perubahan label tidak otomatis substantive.
 
 Contoh:
 
-**supports**
+~~~text
+supports
+↓
+enables
+~~~
 
-diganti menjadi:
+Jika setelah review keduanya dimaksudkan sebagai semantics yang sama dalam vocabulary TUMBUH, perubahan dapat merupakan terminology normalization.
 
-**enables**
+Jangan memperlakukan setiap label change sebagai relationship revision substantif.
 
-Jika setelah review ternyata keduanya dimaksudkan sebagai semantics yang sama dalam vocabulary TUMBUH, ini dapat menjadi terminology normalization.
+## 26. Controlled Vocabulary
 
-Jangan memperlakukan setiap label change sebagai substantive revision.
-
-## 23. Type Change dan Vocabulary Governance
-
-Jika TUMBUH nantinya memiliki controlled vocabulary, perubahan type harus memperhatikan:
+Jika TUMBUH nantinya memiliki controlled vocabulary, perubahan type perlu memperhatikan:
 
 - definisi type;
-- relation semantics;
+- semantics;
 - compatibility dengan relationship lama;
 - migration;
 - historical records.
 
 Namun kebutuhan controlled vocabulary formal belum terbukti harus dibangun sekarang.
 
-## 24. Relationship Type dan Evidence
+## 27. Evidence Requirement
 
-Perubahan type dapat memerlukan evidence berbeda.
-
-Misalnya:
-
-**supporting**
-
-mungkin cukup membutuhkan rationale.
-
-Sedangkan:
-
-**necessary**
-
-membutuhkan argumentasi necessity yang lebih kuat.
-
-Maka type change dapat mengubah **evidence requirement**, tanpa mengubah object identity.
-
-## 25. Relationship Type dan Scope
-
-Type change sering muncul karena scope sebelumnya terlalu luas.
+Type change dapat mengubah jenis reasoning yang perlu diperiksa.
 
 Contoh:
 
-**P1 constrains I1**
+**Supporting**
 
-menjadi:
+→ rationale dapat menjadi fokus utama.
 
-**P1 conditionally constrains I1 under C1**.
+**Necessary**
 
-Object tetap sama.
+→ necessity/derivation reasoning perlu diperiksa lebih kuat.
 
-Relationship menjadi lebih precise.
+Dengan demikian type change dapat mengubah **evidence/reasoning requirement** tanpa otomatis mengubah object identity.
 
-Ini konsisten dengan P0033–P0034 tentang scope dan conditions.
+## 28. Counterfactual untuk Type
 
-## 26. Relationship Type dan Counterfactual
+Pertanyaan:
 
-Counterfactual membantu memeriksa type:
+> **Jika P1 dihapus atau berubah, apa yang berubah pada I1?**
 
-> Jika P1 dihapus, apa yang berubah pada I1?
+Working interpretation:
 
-Jika I1 hanya kehilangan option → indikasi enabling.
+- option hilang → indikasi enabling;
+- design space berubah → indikasi constraining;
+- derivation tidak dapat dipertahankan → indikasi derivational/necessary;
+- rationale melemah → indikasi supporting.
 
-Jika design space menjadi lebih luas → indikasi constraining.
+Ini bukan mechanical classifier. Hasil tetap membutuhkan reasoning.
 
-Jika derivation tidak lagi dapat dipertahankan → indikasi derivational/necessary.
+## 29. Type Change sebagai Review Trigger
 
-Jika hanya rationale yang melemah → indikasi supporting.
-
-Ini bukan mechanical classification; hasilnya tetap membutuhkan reasoning.
-
-## 27. Type Change sebagai Review Trigger
-
-Material type change dapat menjadi trigger untuk:
+Material type change dapat memicu:
 
 - relationship review;
 - downstream impact review;
 - acceptance review;
 - governance review.
 
-Tetapi tidak otomatis menjadi trigger untuk seluruh repository.
+Tetapi tidak otomatis seluruh repository.
 
-P0039 tetap berlaku: propagate hanya melalui substantive dependencies.
+P0039 tetap menjadi boundary:
 
-## 28. Type Change dan Principle Identity
+> **Propagate only through substantive and material impact.**
 
-Jika relationship type berubah tetapi:
+## 30. Type Change dan Object Identity
+
+Jika setelah review:
 
 - commitment parent tetap;
 - design function parent tetap;
 - scope parent tetap;
 - meaning parent tetap;
 
-identity parent tidak perlu berubah.
+maka parent identity dapat tetap.
 
-Demikian pula untuk downstream jika identity dan design function tetap.
+Demikian pula downstream jika identity-relevant properties tetap.
 
-Jika perubahan relationship ternyata mengubah identity atau meaning object, object review diperlukan.
+Jika perubahan relationship menunjukkan perubahan pada identity atau meaning object, object review diperlukan.
 
-## 29. Classification Outcomes
+## 31. Classification Outcomes
 
-Working outcomes untuk type review:
+Working outcomes:
 
-### Confirmed — Type Retained
+### Type Retained
 
 Semantics tetap.
 
-### Confirmed — Type Revised
+### Type Revised
 
 Relationship tetap, semantics diperbarui.
 
@@ -456,105 +492,138 @@ Relationship tetap, semantics diperbarui.
 
 Relationship sebelumnya salah diklasifikasikan.
 
+### Conditionalized
+
+Relationship dipersempit dengan condition/scope.
+
 ### Superseded
 
 Relationship lama ditutup dan relationship baru menggantikannya.
 
 ### Rejected
 
-Relationship tidak lagi memiliki substantive basis.
+Substantive basis tidak lagi cukup.
 
-### Conditionalized
+Kategori tersebut dapat menjadi event/status berbeda dalam implementasi final.
 
-Relationship dipersempit dengan condition/scope.
+## 32. No Automatic Version Cascade
 
-Kategori dapat overlap sebagai event dan status; implementasi final perlu diputuskan kemudian.
+Tidak ada dasar untuk:
 
-## 30. Tidak Ada Dasar untuk Automatic Version Cascade
+> Setiap dependency type change harus membuat versi baru seluruh downstream.
 
-P0040–P0043 tidak mendukung aturan:
+Working model:
 
-> Setiap relationship type change harus membuat versi baru seluruh downstream.
+~~~text
+Type Change
+↓
+Semantic Impact Analysis
+↓
+Targeted Review
+↓
+Object Revision only if necessary
+~~~
 
-Itu berpotensi menghasilkan governance cascade.
+Ini mencegah governance cascade.
 
-Lebih tepat:
+## 33. Boundary
 
-**Type change → semantic impact analysis → targeted review → object revision only if necessary.**
+P0044 **tidak**:
 
-## 31. Temuan
+- menetapkan controlled vocabulary final;
+- membuat dependency type ranking;
+- mengharuskan PROBE baru untuk setiap type change;
+- menetapkan automatic version cascade;
+- atau menetapkan technical implementation.
 
-1. Dependency type dapat berubah tanpa otomatis mengubah identity parent atau downstream.
-2. Type adalah semantics relationship, bukan identity object.
-3. Relationship itself dapat direvisi secara independen.
-4. Scope clarification dapat menyebabkan type menjadi conditional tanpa identity change.
-5. Parent atau downstream change dapat memicu type re-evaluation.
-6. Type change dan relationship replacement harus dibedakan.
-7. Identity test membantu menentukan apakah relationship masih sama.
-8. Historical traceability penting untuk type change.
-9. Tidak setiap type change membutuhkan PROBE baru.
-10. Material semantic change dapat memerlukan inquiry dan review.
-11. Type change dapat mengubah governance consequence.
-12. Type change dapat mengubah evidence requirement.
-13. Composite dependency dapat memiliki type berbeda per parent.
-14. Primary type + secondary consequence dapat mencegah over-modeling.
-15. Terminology change tidak otomatis substantive.
-16. Controlled vocabulary dapat membantu di masa depan, tetapi belum perlu dipaksakan.
-17. Counterfactual membantu klasifikasi dependency type.
-18. Material type change dapat menjadi review trigger.
-19. Type change tidak otomatis menyebabkan version cascade.
-20. Object identity hanya perlu direvisi jika commitment, design function, scope, meaning, atau identity-relevant property berubah.
+Fokusnya adalah **relationship semantics dan object identity dalam Principles TUMBUH**.
 
-## 32. Keputusan Sementara
+## 34. Repository Destination
 
-**PASS — DEPENDENCY TYPE DAPAT BERUBAH TANPA MENGUBAH IDENTITY PARENT DAN DOWNSTREAM OBJECT, SELAMA UNDERLYING OBJECT IDENTITY TETAP DAN PERUBAHAN TERBATAS PADA SEMANTICS RELATIONSHIP.**
+Hasil P0044 diarahkan ke:
 
-Working rule:
+**Principles → Design Principles → Dependency / Relationship → Type / Lifecycle / Traceability**
 
-> **Relationship type dapat direvisi secara independen. Object identity hanya dibuka kembali jika perubahan relationship menunjukkan bahwa commitment, design function, scope, meaning, atau identity-relevant property dari object tersebut juga berubah.**
+Repository sebaiknya dapat memisahkan:
 
-Model:
-
-**Parent/Downstream Identity**
-
-tetap dapat stabil sementara:
-
-**Relationship Type**
-
-berubah melalui:
-
-**Review → Reclassification/Revision → Impact Analysis**
-
-## 33. Implikasi bagi Repository
-
-Repository sebaiknya memisahkan:
-
-- identity object;
+- object identity;
 - relationship identity;
 - dependency type;
 - relationship status;
 - historical revision.
 
-Perubahan type tidak perlu otomatis membuat versi baru seluruh downstream object.
+Untuk perubahan material:
 
-Untuk material relationship:
-
-**old type → rationale for change → new type → impact review**
+~~~text
+Old Type
+→ Reason for Change
+→ New Type
+→ Impact Review
+~~~
 
 perlu dapat ditelusuri.
 
-## 34. Next Inquiry
+## 35. Implikasi bagi TUMBUH
 
-P0045 akan menguji:
+Working rule:
 
-> **Jika satu relationship dapat berubah type tanpa mengubah identity object, apakah dependency type sebaiknya dianggap sebagai property tetap atau sebagai state yang dapat berevolusi sepanjang lifecycle relationship?**
+> **Dependency type dapat berevolusi sebagai semantics relationship tanpa otomatis mengubah identity parent atau downstream object. Object identity hanya perlu dibuka kembali jika perubahan relationship menunjukkan perubahan substantif pada commitment, design function, scope, meaning, atau property lain yang identity-relevant.**
 
-Ini akan memperdalam pemisahan antara **relationship identity, semantics, property, dan lifecycle state**.
+Dengan demikian:
 
-## Status
+**Relationship Semantics** dapat berubah sementara **Object Identity** tetap stabil.
 
-**P0044 — selesai sebagai inquiry.**
+## 36. Temuan Sementara
 
-**Temuan utama:** Dependency type adalah semantics relationship dan dapat berubah secara independen dari identity parent/downstream. Perubahan type harus memicu impact review secara proporsional, bukan automatic object/version cascade.
+1. Dependency type dapat berubah tanpa otomatis mengubah identity parent/downstream.
+2. Type adalah semantics relationship, bukan identity object.
+3. Relationship dapat direvisi secara independen.
+4. Scope clarification dapat membuat relationship conditional tanpa identity change.
+5. Parent/downstream change dapat memicu type re-evaluation.
+6. Type change dan relationship replacement harus dibedakan.
+7. Identity test membantu membedakan revision dari replacement.
+8. Historical traceability penting.
+9. Tidak setiap type change membutuhkan PROBE baru.
+10. Material type change dapat mengubah governance consequence.
+11. Type change dapat mengubah evidence/reasoning requirement.
+12. Composite dependency dapat memiliki semantics berbeda per parent.
+13. Primary type + secondary consequence dapat mencegah over-modeling.
+14. Terminology normalization tidak otomatis substantive.
+15. Counterfactual membantu klasifikasi type.
+16. Type change dapat menjadi review trigger secara proporsional.
+17. Tidak ada dasar untuk automatic version cascade.
+18. Object identity hanya dibuka kembali bila identity-relevant properties berubah.
 
-**Next inquiry:** P0045 — *Apakah Dependency Type Merupakan Property Tetap atau State yang Berevolusi?*
+Temuan ini masih provisional.
+
+## 37. Kesimpulan
+
+P0044 mendukung:
+
+> **Dependency type dapat berubah tanpa mengubah identity parent dan downstream object, selama underlying object identity dan substantive meaning tetap.**
+
+Working model:
+
+**Object Identity**  
+dapat tetap stabil sementara:
+
+**Relationship Type**  
+berubah melalui:
+
+**Review → Reclassification/Revision → Impact Analysis**
+
+## 38. Next Inquiry
+
+> **Apakah Dependency Type sebaiknya diperlakukan sebagai property tetap dari relationship atau sebagai semantics yang dapat berevolusi sepanjang lifecycle relationship?**
+
+P0045 akan menguji hubungan antara **relationship identity, dependency type, property, dan lifecycle state**.
+
+## 39. Status Inquiry
+
+**Finding:** Dependency type merupakan semantics relationship yang dapat berubah secara independen dari object identity.
+
+**Working conclusion:** Type change memerlukan semantic impact review secara proporsional, bukan automatic object/version cascade.
+
+**Boundary:** Controlled vocabulary dan technical representation belum ditetapkan.
+
+**Open question:** Apakah type merupakan property tetap atau evolving lifecycle semantics?
