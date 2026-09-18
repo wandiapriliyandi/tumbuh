@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0067  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Governance / Traceability Inquiry
 
 ---
@@ -501,7 +501,19 @@ Reopening tetap berbeda dari identity change: reopening hanya memulai review, se
 
 ---
 
-## 27. Status Inquiry
+## 27. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Alternative claims diperlakukan sebagai early-warning mechanism; reopening dipicu oleh material challenge, bukan jumlah dissent.
+
+## 28. Next Inquiry
+
+> **Setelah identity review dibuka, bagaimana menentukan scope review agar cukup luas untuk menemukan identity problem tetapi tidak berubah menjadi reopening seluruh system secara berlebihan?**
+
+P0068 akan menguji bounded identity review dengan prinsip dependency-aware impact analysis yang telah dibangun pada P0039–P0048.
+
+## 29. Status Inquiry
 
 **Finding:** Adequacy identity anchor tidak ditentukan oleh jumlah alternative claims, tetapi oleh kualitas, independence, convergence, semantic impact, dan consequence dari challenge tersebut.
 
