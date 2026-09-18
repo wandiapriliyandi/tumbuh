@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0069  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Substantive / Core Principles Inquiry
 
 ---
@@ -590,7 +590,19 @@ Belum ada dasar untuk menentukan jumlah final Core Principles.
 
 ---
 
-## 28. Status Inquiry
+## 28. Repository Destination
+
+**Principles → Core Principles → Candidate Core Principles / Fundamental Commitments**
+
+P0069 mengembalikan PROBE_03 secara eksplisit pada substansi Principles TUMBUH: menemukan commitment fundamental sebelum menyusun daftar Core Principles.
+
+## 29. Next Inquiry
+
+> **Apa saja fundamental commitments yang secara substantif sudah dapat ditelusuri dari Philosophy dan keseluruhan arah Sistem TUMBUH, sehingga layak menjadi kandidat Core Principles?**
+
+P0070 akan mulai menguji candidate fundamental commitments dari sumber TUMBUH, bukan sekadar membangun teori umum tentang Core Principles.
+
+## 30. Status Inquiry
 
 **Finding:** Core Principles harus dicari dari commitment fundamental yang menjaga identitas, arah, dan coherence Sistem TUMBUH; bukan dari jumlah folder, daftar nilai, atau target jumlah prinsip.
 
