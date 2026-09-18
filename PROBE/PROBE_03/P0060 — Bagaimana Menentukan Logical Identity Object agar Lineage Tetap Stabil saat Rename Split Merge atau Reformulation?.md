@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0060  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Traceability Inquiry
 
 ---
@@ -405,7 +405,19 @@ Dengan demikian:
 
 ---
 
-## 21. Status Inquiry
+## 21. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Logical identity diposisikan sebagai konsep cross-cutting untuk menjaga continuity antara current representation, version, relationship, dan historical lineage.
+
+## 22. Next Inquiry
+
+> **Bagaimana membuat identity description cukup precise untuk mencegah false continuity dan false discontinuity, tetapi tetap fleksibel ketika concept berkembang?**
+
+P0061 akan menguji minimum identity description yang dapat menjadi anchor lineage tanpa mengunci perkembangan concept secara prematur.
+
+## 23. Status Inquiry
 
 **Finding:** Logical identity harus ditentukan secara semantic dan relational, sementara lineage menjaga continuity ketika identity berubah.
 
