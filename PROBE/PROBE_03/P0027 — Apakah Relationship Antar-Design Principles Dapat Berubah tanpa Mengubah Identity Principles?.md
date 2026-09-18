@@ -1,114 +1,93 @@
 # P0027 — Apakah Relationship Antar-Design Principles Dapat Berubah tanpa Mengubah Identity Principles?
 
-## Pertanyaan
+## Status
 
-**Apakah relationship antar-Design Principles dapat berubah status atau jenis tanpa mengubah identity dari principles yang dihubungkannya?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0027  
+**Status:** Revised  
+**Type:** Relationship–Principle Identity Inquiry
 
-P0025 menemukan bahwa relationship merupakan claim tersendiri. P0026 menunjukkan bahwa relationship substantif berbeda dari association. P0027 menguji konsekuensi lanjutannya: apakah identity sebuah principle harus bergantung pada relationship-nya, atau relationship merupakan objek yang dapat berubah secara independen.
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-Misalnya terdapat:
+**Object of Inquiry:** Design Principles TUMBUH, khususnya hubungan antara identity Principle dan relationship yang menghubungkannya.
 
-**DP-A**
+P0025 menetapkan relationship sebagai claim tersendiri. P0026 membedakan substantive relationship dari association. P0027 menguji apakah perubahan relationship otomatis mengubah identity Principle.
 
-dan
+## 2. TUMBUH Question
 
-**DP-B**
-
-Pada satu tahap inquiry ditemukan:
-
-**A supports B**
-
-Setelah penelitian lebih lanjut, hubungan tersebut dapat berubah menjadi:
-
-**A complements B**
-
-atau:
-
-**A supports B under condition X**
-
-atau bahkan:
-
-**relationship rejected**
-
-Pertanyaan penting:
-
-> Apakah perubahan tersebut berarti A atau B harus dianggap sebagai principle yang berbeda?
-
-Tidak selalu.
-
-## 2. Identity Principle dan Identity Relationship
-
-P0026 menunjukkan bahwa relationship adalah claim tersendiri.
-
-Maka working distinction:
-
-**Principle identity**
-→ apa commitment dan design function yang dimiliki principle.
-
-**Relationship identity**
-→ apa hubungan yang diklaim antara dua principles.
-
-Keduanya harus dapat berubah dengan tingkat independensi tertentu.
-
-Jika relationship berubah tetapi commitment dan design function principle tetap sama, identity principle tidak perlu berubah.
-
-## 3. Contoh Perubahan Relationship
+> **Apakah relationship antar-Design Principles dapat berubah status atau jenis tanpa mengubah identity dari Principles yang dihubungkannya?**
 
 Misalnya:
 
-### Versi awal
+~~~text
+A supports B
+↓
+A supports B under condition X
+~~~
 
-A supports B.
+atau:
+
+~~~text
+A supports B
+↓
+relationship rejected
+~~~
+
+Apakah A atau B otomatis menjadi Principle yang berbeda?
+
+Tidak selalu.
+
+## 3. Principle Identity vs Relationship Identity
+
+Working distinction:
+
+**Principle identity**  
+→ commitment dan design function yang dimiliki Principle.
+
+**Relationship identity**  
+→ claim mengenai hubungan tertentu antara Principles.
+
+Keduanya berkaitan, tetapi tidak identik.
+
+Jika relationship berubah sementara commitment dan design function Principle tetap, identity Principle tidak perlu berubah.
+
+## 4. Relationship dapat Berubah tanpa Principle Berubah
+
+Contoh:
+
+### Awal
+
+**A supports B**
 
 ### Setelah review
 
-Evidence baru menunjukkan bahwa A tidak selalu mendukung B.
+Evidence atau analysis menunjukkan bahwa dukungan hanya berlaku pada condition X:
 
-Relationship direvisi menjadi:
+**A supports B under condition X**
 
-A supports B under condition X.
+Dalam kasus ini yang berubah adalah **scope relationship**, bukan necessarily identity A atau B.
 
-Principles A dan B masih dapat tetap valid.
+Contoh lain:
 
-Yang berubah adalah **scope relationship**.
+### Awal
 
-### Versi berikutnya
+**A supports B**
 
-Review menunjukkan bahwa A dan B hanya sering muncul bersama tetapi tidak memiliki hubungan substantif.
+### Setelah inquiry
 
-Relationship:
+Ternyata A dan B hanya sering muncul bersama tanpa substantive relationship.
 
-A–B → rejected.
+**A–B relationship → rejected**
 
-A dan B tetap dapat dipertahankan sebagai principles independen.
+A dan B tetap dapat dipertahankan sebagai independent Principles.
 
-Ini menunjukkan bahwa relationship memiliki lifecycle sendiri.
+## 5. Relationship Status ≠ Principle Status
 
-## 4. Relationship sebagai Object of Governance
+Working distinction:
 
-P0010 menetapkan bahwa acceptance terhadap principle membutuhkan governance.
-
-Jika relationship merupakan claim tersendiri, maka relationship juga perlu dapat:
-
-- proposed;
-- reviewed;
-- accepted;
-- revised;
-- contested;
-- rejected;
-- superseded.
-
-Namun governance relationship tidak harus identik dengan governance principle.
-
-Sebuah principle dapat tetap accepted sementara salah satu relationship-nya rejected.
-
-## 5. Relationship Status dan Principle Status Berbeda
-
-Working model:
-
-| Principle Status | Relationship Status |
+| Principle | Relationship |
 |---|---|
 | Candidate | Proposed |
 | Under Review | Under Review |
@@ -117,66 +96,70 @@ Working model:
 | Rejected | Rejected |
 | Superseded | Superseded |
 
-Kedua status tidak harus berubah bersama.
+Status keduanya tidak harus berubah bersama.
 
 Contoh:
 
-**DP-A = Accepted**
-
-**DP-B = Accepted**
-
+**DP-A = Accepted**  
+**DP-B = Accepted**  
 **A supports B = Rejected**
 
-Tidak ada contradiction dalam model tersebut.
+Tidak ada contradiction jika relationship claim ditolak sementara kedua Principles tetap valid.
 
-## 6. Relationship Type Juga Dapat Berubah
+## 6. Relationship Type Dapat Berubah
 
-P0024 menemukan bahwa relationship memiliki semantic directionality.
+P0024 menunjukkan bahwa relationship dapat mempunyai semantic directionality berbeda.
 
-Karena reasoning berkembang, type relationship juga dapat berubah.
+Karena reasoning berkembang:
 
-Contoh:
-
-**A supports B**
-
-→ setelah analisis:
-
-**A complements B**
+~~~text
+A supports B
+↓
+A complements B
+~~~
 
 atau:
 
-**A depends-on B**
+~~~text
+A supports B
+↓
+A supports B under condition X
+~~~
 
-Perubahan type tidak otomatis berarti salah satu principle berubah identity.
+Perubahan ini tidak otomatis berarti identity A atau B berubah.
 
-Yang berubah adalah interpretation of relation.
+Yang berubah adalah **relationship claim**.
 
-## 7. Mengapa Relationship Bisa Berubah?
+## 7. Mengapa Relationship Dapat Berubah?
 
-Beberapa penyebab:
+Relationship dapat direvisi karena:
 
-- definisi principle diperjelas;
-- scope berubah;
+- definisi Principle diperjelas;
+- scope relationship diperjelas;
 - evidence baru muncul;
 - counterexample ditemukan;
-- contextual condition ditemukan;
+- condition baru ditemukan;
 - design consequence ternyata berbeda;
 - relationship sebelumnya ternyata hanya association;
-- governance melakukan revision.
+- review menghasilkan formulasi yang lebih tepat.
 
-Perubahan tersebut merupakan bagian normal dari epistemic development.
+Perubahan tersebut merupakan bagian normal dari perkembangan reasoning TUMBUH.
 
-## 8. Relationship Revision Tidak Sama dengan Principle Revision
-
-Perlu dibedakan:
+## 8. Relationship Revision ≠ Principle Revision
 
 ### Principle revision
 
-Mengubah commitment, scope, design function, atau formulation principle.
+Menyentuh:
+
+- commitment;
+- design function;
+- scope Principle;
+- atau formulation secara substantif.
 
 ### Relationship revision
 
-Mengubah:
+Dapat menyentuh:
+
 - relation type;
 - direction;
 - scope;
@@ -185,215 +168,233 @@ Mengubah:
 - evidence;
 - status.
 
-Satu dapat berubah tanpa yang lain.
+Keduanya harus dibedakan dalam traceability.
 
 ## 9. Identity Boundary
 
-Pertanyaan praktis:
+Relationship independence bukan berarti Principle dan relationship benar-benar terpisah.
 
-> Kapan perubahan relationship cukup besar sehingga principle identity harus diperiksa ulang?
+Pertanyaan penting:
 
-Jika perubahan relationship menunjukkan bahwa:
+> **Kapan perubahan relationship harus membuka kembali review Principle?**
 
-- commitment principle sebenarnya salah;
+Review Principle diperlukan jika relationship revision menunjukkan bahwa:
+
+- commitment Principle ternyata tidak tepat;
 - design function tidak lagi valid;
-- scope principle terlalu luas;
-- formulation principle ternyata bergantung pada relationship yang salah;
+- scope Principle terlalu luas;
+- formulation Principle bergantung pada relationship yang ternyata salah.
 
-maka principle perlu dibuka kembali.
+Jika tidak, cukup revisi relationship.
 
-Jadi independence bukan berarti relationship dan principle benar-benar terpisah.
+## 10. Relationship Dependency terhadap Principle Identity
 
-Lebih tepat:
+Ada candidate yang memang dirumuskan berdasarkan relationship tertentu.
 
-> **relationship dapat berubah secara independen, tetapi relationship revision dapat menjadi trigger untuk reviewing principle identity.**
+Misalnya B didefinisikan sebagai:
 
-## 10. Relationship Dependency
+> **refinement of A**
 
-Ada kemungkinan sebuah principle dirumuskan berdasarkan relationship tertentu.
+Jika kemudian relationship tersebut ternyata tidak benar, identity B mungkin perlu diperiksa kembali.
 
-Misalnya candidate B awalnya didefinisikan sebagai:
+Namun jika B mempunyai independent design function, penolakan relationship A–B tidak otomatis membatalkan B.
 
-> refinement of A.
+Karena itu dependency antara Principle identity dan relationship perlu dapat ditelusuri.
 
-Jika ternyata A bukan refinement relationship yang tepat, identity B mungkin perlu ditinjau.
-
-Ini berbeda dari kasus di mana B memiliki independent design function.
-
-Karena itu, dependency antara principle identity dan relationship harus dapat ditelusuri.
-
-## 11. Stable Identity vs Relational Context
+## 11. Stable Identity, Changing Relational Context
 
 Working model:
 
-**Principle identity**
-relatif stabil.
+~~~text
+Principle Identity
+       ↕
+Relational Context
+       ↕
+Design Reasoning
+~~~
 
-**Relational context**
-dapat berubah.
+Identity Principle relatif stabil.
 
-Ini mirip distinction antara object dan state of relationship.
+Relational context dapat berubah.
 
-Principle tidak perlu didefinisikan ulang setiap kali relasinya berubah.
+Perubahan relational context tidak otomatis mengharuskan redefinisi Principle.
 
-Namun perubahan relasi yang menyentuh definisi atau fungsi principle dapat membuka kembali review principle.
+Namun perubahan yang menyentuh commitment, function, atau scope dapat menjadi trigger review.
 
-## 12. Historical Traceability
+## 12. Conditionalization
 
-Jika relationship berubah, repository sebaiknya tidak menghapus sejarah reasoning begitu saja.
+Salah satu bentuk perubahan penting:
 
-Perlu dapat diketahui:
-
-- relationship sebelumnya;
-- alasan perubahan;
-- evidence yang memicu perubahan;
-- keputusan review;
-- relationship baru.
-
-Ini penting bagi PROBE karena fungsi inquiry adalah menjaga traceability dari reasoning menuju repository.
-
-## 13. Supersession
-
-Kadang relationship lama tidak sepenuhnya salah, tetapi sudah tidak menjadi formulasi yang dipakai.
+~~~text
+Universal Relationship
+↓
+Conditional Relationship
+~~~
 
 Contoh:
-
-A supports B
-
-diganti:
-
-A complements B under condition X.
-
-Relationship lama dapat berstatus **Superseded**.
-
-Ini lebih informatif daripada menghapus relationship lama tanpa record.
-
-## 14. Conditionalization
-
-Salah satu bentuk revision yang penting adalah:
-
-**universal → conditional**
-
-Contoh:
-
-Awalnya:
 
 > A supports B.
 
-Setelah counterexample:
+menjadi:
 
 > A supports B under condition X.
 
-Ini bukan necessarily rejection.
+Ini tidak harus diperlakukan sebagai rejection.
 
-Ini merupakan **scope refinement**.
+Ia dapat merupakan **scope refinement**.
 
-P0021–P0024 telah menunjukkan bahwa contextuality dan conditionality merupakan bagian penting dari Principle System.
+## 13. Relationship Merge dan Split
 
-## 15. Relationship Merge dan Split
-
-Relationship juga dapat mengalami perubahan struktur.
+Relationship juga dapat berubah secara struktural.
 
 ### Merge
 
 Dua relationship ternyata merupakan claim yang sama.
 
-→ digabung.
+→ dapat digabung.
 
 ### Split
 
-Satu relationship terlalu umum dan ternyata terdiri dari dua hubungan berbeda:
+Satu relationship terlalu umum:
 
-A supports B under X  
-A tensions-with B under Y.
+> A relates to B.
 
-Satu claim lama kemudian dipecah menjadi dua conditional relationships.
+kemudian ditemukan:
 
-Ini memperlihatkan bahwa relational structure bersifat living structure.
+> A supports B under X.  
+> A tensions-with B under Y.
 
-## 16. Relationship Identity
+Satu claim dapat dipecah menjadi beberapa conditional relationships.
 
-Jika relational metadata nantinya digunakan, setiap relationship yang substantif sebaiknya memiliki identity sendiri, misalnya:
+Ini memperkuat bahwa relational structure merupakan living structure.
+
+## 14. Supersession
+
+Relationship lama tidak selalu perlu dihapus.
+
+Misalnya:
+
+~~~text
+A supports B
+↓
+Superseded
+↓
+A complements B under condition X
+~~~
+
+Historical traceability membantu menunjukkan bagaimana reasoning berkembang.
+
+## 15. Relationship Identity sebagai Working Model
+
+Jika kompleksitas repository nantinya membutuhkan relational metadata, relationship dapat memiliki identifier sendiri, misalnya:
 
 **REL-001**
 
-bukan hanya pasangan:
+Tujuannya:
 
-**A — supports — B**
-
-Identity relation membantu:
 - versioning;
 - status;
 - review;
 - supersession;
 - historical traceability.
 
-Belum berarti TUMBUH harus segera mengimplementasikan ID formal. Ini hanya working model jika kompleksitas menuntutnya.
+Namun formal relationship ID **belum diperlukan sebagai keputusan arsitektural saat ini**.
 
-## 17. Uji untuk Membuka Kembali Principle
+## 16. Uji untuk Membuka Kembali Principle
 
-Ketika relationship berubah, gunakan pertanyaan:
+Ketika relationship berubah, tanyakan:
 
-1. Apakah commitment principle berubah?
+1. Apakah commitment Principle berubah?
 2. Apakah design function berubah?
-3. Apakah scope principle berubah?
+3. Apakah scope Principle berubah?
 4. Apakah formulation berubah secara substantif?
-5. Apakah principle masih dapat berdiri tanpa relationship lama?
-6. Apakah evidence yang mendukung principle ikut berubah?
+5. Apakah Principle masih dapat berdiri tanpa relationship lama?
+6. Apakah evidence yang mendukung Principle ikut berubah?
 
-Jika jawabannya tidak, cukup revisi relationship.
+Jika tidak, revisi relationship dapat dilakukan tanpa revisi Principle.
 
-Jika jawabannya ya, principle perlu kembali ke review.
+Jika ya, Principle perlu kembali ke review.
 
-## 18. Temuan
+## 17. Boundary
+
+P0027 **tidak**:
+
+- menetapkan lifecycle governance final;
+- menetapkan formal relationship ID;
+- menetapkan semua relationship harus versioned secara teknis;
+- menganggap Principle dan relationship sepenuhnya independen;
+- atau menetapkan bahwa setiap relationship revision harus membuka review Principle.
+
+Fokusnya adalah **identity boundary antara Principle dan relationship**.
+
+## 18. Repository Destination
+
+Hasil P0027 diarahkan ke:
+
+**Principles → Design Principles → relational traceability → relationship status / revision**
+
+Repository perlu mampu membedakan:
+
+~~~text
+Principle status
+≠
+Relationship status
+~~~
+
+Jika relationship pernah menjadi bagian penting dari design reasoning, historical record sebaiknya dipertahankan ketika relationship direvisi atau superseded.
+
+## 19. Implikasi bagi TUMBUH
+
+Working model:
+
+~~~text
+Principle A ─────┐
+                 ├─ Relationship Claim ──→ Design Consequence
+Principle B ─────┘
+                       ↓
+                 Review / Revision
+                       ↓
+              [Principles dibuka kembali
+               hanya bila identity terdampak]
+~~~
+
+Dengan demikian perubahan relational context tidak otomatis menghasilkan Principle baru.
+
+## 20. Temuan Sementara
 
 1. Relationship merupakan claim tersendiri.
-2. Relationship dapat berubah status tanpa mengubah identity principles.
-3. Relationship type dapat berubah tanpa otomatis mengubah identity principles.
+2. Relationship dapat berubah tanpa mengubah identity Principle.
+3. Relationship type dapat berubah tanpa otomatis mengubah identity Principle.
 4. Relationship dapat menjadi conditional melalui scope refinement.
-5. Relationship dapat ditolak sementara principles tetap accepted.
-6. Relationship revision dapat memicu review terhadap principle identity jika menyentuh commitment, function, atau scope.
-7. Relationship memiliki lifecycle yang dapat berbeda dari lifecycle principle.
+5. Relationship dapat ditolak sementara Principles tetap accepted.
+6. Relationship revision dapat menjadi trigger review Principle jika menyentuh commitment, function, atau scope.
+7. Relationship memiliki status yang dapat berbeda dari Principle status.
 8. Historical traceability penting ketika relationship berubah.
 9. Relationship dapat di-merge, di-split, atau di-supersede.
-10. Formal relationship ID belum diperlukan sekarang, tetapi dapat berguna jika complexity meningkat.
+10. Formal relationship ID belum diperlukan saat ini.
 
-## 19. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — RELATIONSHIP MERUPAKAN OBJEK YANG RELATIF INDEPENDEN DARI PRINCIPLE IDENTITY, TETAPI TIDAK SEPENUHNYA TERPISAH.**
+## 21. Kesimpulan
 
-Working rule:
+P0027 mendukung working rule:
 
-> **Relationship antar-Design Principles dapat direvisi, dikondisikan, diubah jenisnya, ditolak, di-merge, di-split, atau di-supersede tanpa otomatis mengubah identity principles yang dihubungkannya. Namun jika perubahan relationship menunjukkan perubahan pada commitment, design function, atau scope principle, maka identity principle harus dibuka kembali untuk review.**
+> **Relationship antar-Design Principles dapat direvisi, dikondisikan, diubah jenisnya, ditolak, di-merge, di-split, atau di-supersede tanpa otomatis mengubah identity Principles yang dihubungkannya. Namun jika perubahan relationship menunjukkan perubahan pada commitment, design function, atau scope Principle, maka identity Principle harus dibuka kembali untuk review.**
 
-## 20. Implikasi bagi Repository
+Dengan demikian Principle identity dan relational context memiliki **independensi relatif**, bukan pemisahan absolut.
 
-Untuk saat ini repository belum perlu memiliki database relationship formal.
+## 22. Next Inquiry
 
-Namun desain dokumentasi sebaiknya memungkinkan:
+> **Apakah Design Principles membutuhkan lifecycle yang sama dengan Core Principles, atau perlu lifecycle yang berbeda sesuai fungsi masing-masing?**
 
-**Principle**
-→ relationship
-→ rationale/evidence
-→ status
-→ revision history.
+P0028 akan menguji apakah perbedaan posisi dan fungsi Core Principles dan Design Principles menghasilkan kebutuhan lifecycle yang berbeda dalam Sistem TUMBUH.
 
-Jangan menghapus relationship lama tanpa alasan jika relationship tersebut pernah menjadi bagian penting dari design reasoning.
+## 23. Status Inquiry
 
-Jika complexity meningkat, relationship dapat diberikan identifier tersendiri untuk menjaga versioning dan traceability.
+**Finding:** Relationship dapat berubah secara relatif independen dari Principle identity.
 
-## 21. Next Inquiry
+**Working conclusion:** Relationship revision tidak otomatis berarti Principle revision; review Principle dipicu bila commitment, design function, atau scope Principle terdampak.
 
-P0028 akan menguji:
+**Boundary:** Belum menetapkan lifecycle governance final.
 
-> **Apakah Design Principles membutuhkan lifecycle yang sama dengan Core Principles, atau perlu lifecycle governance yang berbeda?**
-
-Pertanyaan ini penting karena rangkaian P0009–P0027 sekarang menunjukkan bahwa candidate, acceptance, revision, relationship, dan supersession memiliki dinamika yang berbeda pada setiap level.
-
-## Status
-
-**P0027 — selesai sebagai inquiry.**
-
-**Temuan utama:** Relationship dapat berubah secara relatif independen dari identity principle. Perubahan relationship tidak otomatis berarti perubahan principle, tetapi dapat menjadi trigger untuk membuka kembali review jika menyentuh commitment, design function, atau scope.
-
-**Next inquiry:** P0028 — *Apakah Design Principles membutuhkan lifecycle yang sama dengan Core Principles, atau perlu lifecycle governance yang berbeda?*
+**Open question:** Apakah Design Principles dan Core Principles memerlukan lifecycle yang sama?
