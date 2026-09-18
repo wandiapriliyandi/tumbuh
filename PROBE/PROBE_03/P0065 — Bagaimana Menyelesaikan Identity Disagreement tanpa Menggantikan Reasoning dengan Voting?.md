@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0065  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Governance Inquiry
 
 ---
@@ -457,7 +457,19 @@ Ketika disagreement tidak dapat diselesaikan secara epistemik, governance tetap 
 
 ---
 
-## 24. Status Inquiry
+## 24. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Identity disagreement diposisikan sebagai structured reasoning problem sebelum governance decision, dengan competing reasoning tetap dapat ditelusuri.
+
+## 25. Next Inquiry
+
+> **Jika setelah review dan further PROBE disagreement tetap tidak dapat diselesaikan, bagaimana TUMBUH seharusnya merepresentasikan persistent epistemic disagreement tanpa membuat repository memiliki dua identity anchor yang saling bertentangan?**
+
+P0066 akan menguji representasi persistent disagreement sambil mempertahankan satu current system state yang dapat ditelusuri.
+
+## 26. Status Inquiry
 
 **Finding:** Identity disagreement membutuhkan mekanisme yang memisahkan diagnosis disagreement, peningkatan epistemic sufficiency, dan governance decision. Voting tidak dapat menggantikan reasoning.
 
