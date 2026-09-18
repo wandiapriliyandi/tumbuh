@@ -1,110 +1,104 @@
 # P0037 — Apakah Composite Design Implication Membutuhkan Identity dan Lifecycle Sendiri?
 
-## Pertanyaan
+## Status
 
-**Jika sebuah Design Implication muncul dari kombinasi beberapa Design Principles, apakah implication tersebut perlu memiliki identity dan lifecycle sendiri?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0037  
+**Status:** Revised  
+**Type:** Composite Design Implication Identity and Lifecycle Inquiry
 
-P0036 menemukan bahwa Design Implication dapat berasal dari satu atau beberapa Design Principles. Composite implication dapat memiliki reasoning, evidence, criteria, scope, dan downstream consequences.
+---
 
-P0037 menguji apakah kompleksitas tersebut cukup untuk menjadikan composite implication sebagai object governance yang berdiri sendiri.
+## 1. Object of Inquiry
 
-## 1. Titik Berangkat
+**Object of Inquiry:** Composite Design Implication dalam Principles TUMBUH, khususnya apakah consequence yang berasal dari beberapa Design Principles perlu diperlakukan sebagai object dengan identity dan lifecycle tersendiri.
 
-Sebuah composite implication dapat direpresentasikan sebagai:
+P0036 menemukan bahwa satu Design Implication dapat muncul dari satu atau beberapa Design Principles.
 
-**Principle A + Principle B → Implication X**
+## 2. TUMBUH Question
 
-Implication X memiliki fungsi sebagai konsekuensi design reasoning.
+> **Jika sebuah Design Implication muncul dari kombinasi beberapa Design Principles, apakah implication tersebut perlu memiliki identity dan lifecycle sendiri?**
 
-Pertanyaan berikutnya:
+## 3. Titik Berangkat
 
-> Apakah X hanya merupakan hasil reasoning yang dapat dilacak, atau sudah menjadi object yang membutuhkan identity dan lifecycle sendiri?
+Model:
 
-## 2. Identity Tidak Sama dengan Traceability
+~~~text
+Principle A + Principle B
+↓
+Implication X
+~~~
 
-Sebuah implication harus dapat ditelusuri.
+X dapat memiliki:
 
-Tetapi:
+- reasoning;
+- evidence;
+- criteria;
+- scope;
+- downstream consequence.
 
-**traceability ≠ independent identity.**
+Namun keberadaan atribut tersebut belum membuktikan bahwa X harus menjadi independent governance object.
 
-Tidak semua sesuatu yang perlu dilacak harus menjadi object repository tersendiri.
+## 4. Traceability ≠ Independent Identity
 
-Ini penting agar TUMBUH tidak mengalami over-modeling.
+Sesuatu dapat perlu ditelusuri tanpa harus menjadi object repository tersendiri.
 
-## 3. Kapan Implication Cukup sebagai Derived Object?
+Karena itu:
 
-Composite implication dapat tetap menjadi derived reasoning object jika:
+> **Traceability ≠ independent identity.**
+
+TUMBUH perlu menghindari over-modeling.
+
+## 5. Derived Implication
+
+Composite implication cukup menjadi derived reasoning object ketika:
 
 - hanya menjelaskan consequence;
-- tidak memiliki commitment normatif sendiri;
-- tidak digunakan sebagai independent design constraint;
-- tidak memiliki governance decision terpisah;
-- tidak perlu diterapkan lintas banyak contexts secara independen.
+- tidak memiliki normative commitment sendiri;
+- tidak menjadi independent design constraint;
+- tidak membutuhkan governance decision terpisah;
+- tidak digunakan lintas context secara independen.
 
 Dalam kondisi ini:
 
-**A + B → X**
+~~~text
+A + B → X
+~~~
 
-cukup dicatat sebagai reasoning relation.
+cukup dicatat sebagai reasoning yang traceable.
 
-## 4. Kapan Identity Mulai Diperlukan?
+## 6. Kapan Identity Eksplisit Berguna?
 
-Identity menjadi lebih masuk akal jika X:
+Identity eksplisit mulai berguna ketika X:
 
-- memiliki definisi yang stabil;
+- memiliki formulation stabil;
 - digunakan berulang;
 - memiliki scope sendiri;
 - memiliki criteria sendiri;
-- memiliki evidence sendiri;
+- memiliki evidence tersendiri;
 - menjadi dependency bagi beberapa designs;
-- memiliki downstream consequences yang independen;
-- dapat direview tanpa selalu membuka ulang A dan B.
+- memiliki downstream consequence substantif;
+- dapat direview secara bermakna.
 
-Namun daftar tersebut merupakan indikator, bukan checklist mekanis.
+Ini adalah indikator, bukan checklist mekanis.
 
-## 5. Implication Tidak Otomatis Menjadi Principle
+## 7. Identity ≠ Principle Identity
 
-Salah satu risiko utama adalah:
-
-**A + B → X**
-
-kemudian X diperlakukan sebagai Design Principle hanya karena sering digunakan.
-
-Frekuensi penggunaan tidak otomatis memberikan normative identity.
-
-Pertanyaan tetap:
-
-> Apakah X memiliki commitment dan design function sendiri?
-
-Jika tidak, X tetap implication.
-
-## 6. Derived Object vs Independent Object
+Memberi identity pada X tidak otomatis berarti X menjadi Design Principle.
 
 Working distinction:
 
-### Derived Implication
+### Derived Design Object
 
-X hanya merupakan consequence dari A + B.
+Memiliki identity untuk kebutuhan reference dan traceability.
 
-Identity X berasal dari reasoning tersebut.
+### Independent Normative Object
 
-### Independent Design Object
+Memiliki commitment dan design function sendiri.
 
-X memiliki:
+Hanya bentuk kedua yang perlu dipertimbangkan untuk promosi menjadi Design Principle.
 
-- fungsi;
-- scope;
-- criteria;
-- evidence;
-- lifecycle;
-- governance consequence
-
-yang dapat berdiri relatif independen.
-
-Kedua bentuk dapat ada dalam TUMBUH.
-
-## 7. Test Commitment
+## 8. Commitment Test
 
 Tanyakan:
 
@@ -114,12 +108,12 @@ Jika tidak, X kemungkinan tetap implication.
 
 Jika ya, perlu diuji apakah commitment tersebut:
 
-- sebenarnya sudah berada di A;
-- sebenarnya sudah berada di B;
-- merupakan combination baru;
-- atau merupakan principle baru.
+- sudah terdapat pada A;
+- sudah terdapat pada B;
+- muncul sebagai kombinasi baru;
+- atau merupakan Principle yang belum dirumuskan.
 
-## 8. Test Design Function
+## 9. Design Function Test
 
 Tanyakan:
 
@@ -127,152 +121,130 @@ Tanyakan:
 
 Jika X hanya menjelaskan consequence, identity tambahan mungkin tidak diperlukan.
 
-Jika X digunakan untuk mengarahkan design choices secara independen, identity dapat menjadi lebih relevan.
+Jika X digunakan untuk mengarahkan design choices secara independen, explicit identity lebih relevan.
 
-## 9. Test Reusability
+## 10. Reusability Test
 
-Reusability adalah sinyal penting tetapi bukan syarat tunggal.
+Reusability adalah sinyal, bukan syarat tunggal.
 
-Jika X digunakan:
+Jika X digunakan pada:
 
-- dalam beberapa Core Model decisions;
-- pada beberapa domains;
-- sebagai basis beberapa criteria;
+- beberapa Core Model decisions;
+- beberapa domain;
+- beberapa criteria;
 
-maka explicit identity dapat membantu traceability.
+identity referensial dapat membantu.
 
-Tetapi reusable implication tetap dapat menjadi named derived object tanpa menjadi principle.
+Namun reusable implication tetap tidak otomatis menjadi Principle.
 
-## 10. Test Independence
+## 11. Independence Test
 
 Tanyakan:
 
 > **Apakah X dapat direview secara bermakna tanpa mengulang seluruh identity review A dan B?**
 
-Jika tidak, X mungkin masih sangat dependent.
+Jika tidak, X masih sangat dependent.
 
-Jika ya, X mulai memiliki independent governance relevance.
+Jika ya, X mulai memiliki governance relevance yang lebih independen.
 
-Namun independence tidak berarti X harus menjadi Principle.
+Independence tidak otomatis berarti Principle.
 
-Ia dapat menjadi **derived design object**.
+## 12. Lifecycle Tidak Harus Sama
 
-## 11. Lifecycle Minimum
-
-Tidak semua implication membutuhkan lifecycle penuh seperti Principle.
-
-Untuk derived implication, lifecycle minimal dapat berupa:
-
-- Proposed;
-- Derived/Accepted for use;
-- Revised;
-- Retired.
-
-Tetapi bahkan ini belum tentu perlu direpresentasikan sebagai status repository.
-
-Yang penting adalah version/history ketika implication memiliki substantive consequence.
-
-## 12. Principle Lifecycle vs Implication Lifecycle
-
-P0028–P0032 menunjukkan bahwa Principle memiliki lifecycle governance yang cukup jelas.
+P0028–P0032 menunjukkan lifecycle Principle memiliki fungsi governance tersendiri.
 
 Composite implication berbeda.
 
-Working distinction:
+Jika X hanya derived object, tidak perlu memaksakan lifecycle penuh:
 
-### Principle
+~~~text
+Candidate → Review → Accepted → Active → Reopened → Superseded
+~~~
 
-Lifecycle utama:
+Working lifecycle yang lebih ringan, bila diperlukan:
 
-**Candidate → Review → Accepted → Active → Reopened → Outcome → Accepted/Active or Superseded**
+~~~text
+Derived → Used → Re-derived / Revised → Retired
+~~~
 
-### Derived Implication
-
-Tidak harus memiliki lifecycle penuh.
-
-Lebih tepat:
-
-**Derived → Used → Revised/Invalidated if parent reasoning changes**
-
-Perubahan parent principles dapat membuat implication perlu dihitung ulang.
+Ini masih working model.
 
 ## 13. Parent Change
 
 Jika:
 
-**A + B → X**
+~~~text
+A + B → X
+~~~
 
 kemudian A berubah:
 
-**A' + B → ?**
+~~~text
+A' + B → ?
+~~~
 
 X tidak otomatis tetap valid.
 
-Maka composite implication perlu memiliki dependency traceability terhadap parent principles.
+Pertanyaan utama:
 
-Ini tidak berarti X memiliki identity Principle-level.
+> **Apakah X masih dapat diturunkan dari current parent state?**
 
-Yang dibutuhkan adalah ability to re-evaluate derived consequence.
+Jika ya, X dapat dipertahankan melalui re-derivation.
 
-## 14. Parent Relationship Change
+Jika tidak, X perlu direview untuk revision, invalidation, atau retirement.
 
-P0027 menemukan relationship dapat berubah tanpa mengubah principle identity.
+## 14. Relationship Change
 
-Jika X bergantung pada relationship antara A dan B, maka relationship change dapat memengaruhi X.
+Jika X bergantung pada relationship A–B:
 
-Model:
+~~~text
+A + Relationship(A,B) + B → X
+~~~
 
-**A + Relationship(A,B) + B → X**
+perubahan relationship dapat mengubah validity X.
 
-Jika relationship berubah:
-
-**A + Relationship'(A,B) + B → X?**
-
-X perlu direview.
+Karena itu composite implication perlu dependency traceability ketika relationship tersebut substantif.
 
 ## 15. Evidence Change
 
 Evidence baru dapat memengaruhi:
 
-- A;
-- B;
-- relationship A-B;
+- parent Principle;
+- relationship;
 - joint reasoning;
-- X.
+- implication.
 
-Tidak semua evidence change membutuhkan lifecycle event untuk X.
+Tidak semua evidence change harus menjadi lifecycle event X.
 
-Tetapi jika evidence materially weakens the derivation, X perlu direview.
+Namun jika evidence materially weakens the derivation, X perlu direview.
 
-## 16. Criteria dan Identity
+## 16. Criteria ≠ Identity
 
-Jika X memiliki criteria sendiri, itu menunjukkan X memiliki evaluative relevance.
+X dapat memiliki criteria sendiri.
 
 Tetapi:
 
-**criterion ≠ identity.**
+> **Criteria ≠ independent identity.**
 
-Banyak derived objects dapat memiliki criteria tanpa menjadi principles.
+Criteria hanya menunjukkan bahwa X memiliki evaluative relevance.
 
-Karena itu criteria alone tidak cukup untuk menjadikan X independent object.
+## 17. Scope ≠ Identity
 
-## 17. Scope dan Identity
+X dapat memiliki scope tersendiri sebagai derived consequence.
 
-X dapat memiliki scope yang berbeda dari A dan B karena merupakan consequence pada intersection atau derived applicability tertentu.
+Namun scope juga tidak otomatis membuat X menjadi Principle.
 
-Namun scope sendiri juga tidak cukup untuk menjadikan X Principle.
-
-Identity tetap ditentukan oleh function dan commitment.
+Identity tetap diuji melalui function dan commitment.
 
 ## 18. Governance Threshold
 
-Working governance rule:
+Working rule:
 
-> **Semakin besar consequence dan reuse sebuah composite implication, semakin kuat alasan untuk memberinya explicit identity dan review record.**
+> **Semakin besar consequence, reuse, dependency, dan kebutuhan review sebuah composite implication, semakin kuat alasan untuk memberinya explicit referential identity.**
 
-Tetapi governance tidak harus menjadikannya Principle.
+Tetapi object type harus mengikuti function.
 
-Bentuknya dapat berupa:
+Kemungkinannya antara lain:
 
 - named implication;
 - design constraint;
@@ -280,9 +252,9 @@ Bentuknya dapat berupa:
 - model relationship;
 - documented design logic.
 
-Jenis object ditentukan oleh function-nya.
+Tidak semuanya perlu menjadi Principle.
 
-## 19. Over-Modeling Risk
+## 19. Over-Modeling
 
 Jika setiap implication diberi:
 
@@ -293,26 +265,22 @@ Jika setiap implication diberi:
 - governance;
 - evidence record;
 
-repository dapat menjadi sangat berat.
+repository dapat menjadi terlalu berat.
 
-TUMBUH harus menghindari membuat setiap reasoning artifact menjadi formal object.
-
-Prinsip:
+Working principle:
 
 > **Model only what needs independent traceability or governance.**
 
-## 20. Under-Modeling Risk
+## 20. Under-Modeling
 
-Kebalikannya juga berbahaya.
+Sebaliknya, composite implication yang consequential tidak sebaiknya hanya menjadi catatan informal jika akibatnya:
 
-Jika composite implication yang sangat consequential hanya ditulis sebagai catatan informal:
-
-- dependency dapat hilang;
-- perubahan parent tidak terlacak;
+- dependency hilang;
+- parent changes tidak terlacak;
 - downstream design tidak dapat ditelusuri;
-- governance tidak mengetahui apa yang harus direview.
+- review tidak mengetahui apa yang terdampak.
 
-Maka objectification perlu dilakukan ketika traceability consequence menuntutnya.
+Objectification perlu mengikuti kebutuhan traceability.
 
 ## 21. Three-Level Model
 
@@ -324,137 +292,154 @@ Composite implication hanya berada dalam argumentation.
 
 ### Level 2 — Traceable Derived Object
 
-Composite implication diberi identity referensial karena digunakan berulang atau memiliki consequence substantif.
+Composite implication memiliki identity referensial karena reuse atau consequence substantif.
 
 ### Level 3 — Independent Normative Object
 
-Jika implication berkembang menjadi independent design commitment, ia dapat dipertimbangkan sebagai Design Principle.
+Composite implication memiliki independent commitment dan design function sehingga dapat dipertimbangkan sebagai Design Principle.
 
 Ini bukan hierarchy of quality.
 
-Ini adalah hierarchy of governance independence.
+Ini adalah **hierarchy of governance independence**.
 
 ## 22. Promotion Test
 
-Sebuah composite implication dapat dipertimbangkan untuk dipromosikan menjadi independent Design Principle jika:
+X dapat dipertimbangkan menjadi independent Design Principle jika:
 
 1. memiliki commitment sendiri;
 2. memiliki design function sendiri;
-3. dapat digeneralisasi dalam scope tertentu;
+3. memiliki scope yang dapat dipertanggungjawabkan;
 4. memiliki consequence independen;
-5. memiliki reasoning yang tidak hanya bergantung pada satu konfigurasi;
-6. membutuhkan governance sebagai normative design commitment.
+5. dapat digunakan sebagai normative design commitment;
+6. membutuhkan governance sebagai commitment tersendiri.
 
-Jika tidak, tetap sebagai derived object.
+Jika tidak, X tetap derived object.
 
 ## 23. Demotion Test
 
-Sebaliknya, sebuah object yang disebut principle dapat ternyata hanya:
+Sebaliknya, object yang disebut Principle dapat ternyata hanya:
 
 - implication;
 - criterion;
 - design decision;
 - implementation rule.
 
-Jika identity review menunjukkan tidak ada independent commitment, ia sebaiknya diturunkan ke level yang sesuai.
+Jika identity review menunjukkan tidak ada independent commitment, object perlu ditinjau untuk dikembalikan ke level konseptual yang sesuai.
 
-Ini membantu menjaga conceptual integrity.
+## 24. Re-Derivation
 
-## 24. Lifecycle dari Derived Object
+Konsep penting:
 
-Jika explicit identity diberikan kepada composite implication, lifecycle dapat tetap lebih ringan daripada Principle.
+Jika X derived dari A+B, ketika A atau B berubah pertanyaan utamanya adalah:
 
-Working model:
+> **Apakah X masih dapat diturunkan dari current parent state?**
 
-**Derived**
-→ **Reviewed for Use**
-→ **In Use**
-→ **Re-derived / Revised**
-→ **Retired**
-
-Perubahan parent dapat menjadi trigger otomatis untuk review derivation.
-
-Belum ada dasar untuk menetapkan lifecycle teknis final.
-
-## 25. Re-Derivation
-
-Ini merupakan konsekuensi penting.
-
-Jika X adalah derived dari A+B, maka ketika A atau B berubah, pertanyaan utama bukan:
+Bukan otomatis:
 
 > “Apakah X harus direvisi?”
 
-melainkan:
+Working outcomes:
 
-> **“Apakah X masih dapat diturunkan dari current parent state?”**
+~~~text
+Current derivation valid
+→ Retain / Re-derived
+~~~
 
-Jika ya → Retain/Re-derived.
+~~~text
+Current derivation no longer valid
+→ Revise / Invalidate / Retire
+~~~
 
-Jika tidak → Revise, invalidate, atau retire.
+## 25. Boundary
 
-## 26. Composite Implication dan Current System State
+P0037 **tidak**:
 
-Karena implication dapat bergantung pada parent state, current validity perlu dibaca sebagai:
+- menjadikan semua composite implications independent objects;
+- menetapkan lifecycle teknis final;
+- menjadikan reusable implication sebagai Principle secara otomatis;
+- menetapkan formal governance mechanism;
+- atau membuat Design Implication menjadi architectural layer baru.
 
-**Parent Principles + Relationships + Conditions**
-→ **Current Derivation**
-→ **Implication**
+Fokusnya adalah **kapan composite implication membutuhkan independence dalam traceability dan governance**.
 
-Ini lebih tepat daripada menganggap X sebagai static statement.
+## 26. Repository Destination
 
-## 27. Temuan
+Hasil P0037 diarahkan ke:
 
-1. Composite implication tidak otomatis membutuhkan independent identity.
-2. Traceability tidak sama dengan independent identity.
-3. Derived implication dapat cukup menjadi reasoning object.
-4. Identity menjadi lebih berguna ketika implication memiliki reuse dan consequence substantif.
-5. Reusability saja tidak cukup untuk menjadikannya Principle.
-6. Commitment dan design function tetap menjadi test utama.
-7. Composite implication dapat memiliki explicit identity tanpa menjadi Design Principle.
-8. Parent change dapat memicu re-evaluation atau re-derivation.
-9. Relationship change dapat memengaruhi validity implication.
-10. Evidence change dapat memicu review jika materially affects derivation.
-11. Criteria dan scope tidak otomatis memberikan Principle identity.
-12. Over-modeling dan under-modeling sama-sama perlu dihindari.
-13. Ada working distinction antara reasoning statement, traceable derived object, dan independent normative object.
-14. Implication dapat dipromosikan menjadi Design Principle jika memperoleh independent commitment dan design function.
-15. Principle yang ternyata hanya implication dapat didemote.
-16. Jika diberi explicit identity, lifecycle composite implication tidak harus seberat Principle lifecycle.
-17. Re-derivation adalah konsep penting ketika parent principles berubah.
-18. Belum ada dasar untuk menetapkan lifecycle teknis final bagi derived objects.
+**Principles → Design Principles → Design Implications → composite reasoning / traceability**
 
-## 28. Keputusan Sementara
-
-**PASS — COMPOSITE DESIGN IMPLICATION TIDAK OTOMATIS MEMBUTUHKAN IDENTITY DAN LIFECYCLE SENDIRI.**
-
-Working rule:
-
-> **Composite Design Implication cukup menjadi derived reasoning object ketika identity-nya sepenuhnya berasal dari parent principles dan tidak memiliki governance independence. Explicit identity dapat diberikan ketika implication memiliki reuse, consequence, scope, criteria, atau dependency yang membutuhkan traceability tersendiri. Jika implication berkembang menjadi independent design commitment dan design function, ia dapat dipertimbangkan untuk dipromosikan menjadi Design Principle.**
-
-## 29. Implikasi bagi Repository
-
-Repository tidak perlu menjadikan setiap composite implication sebagai file atau lifecycle object.
-
-Gunakan tiga tingkat representasi sesuai kebutuhan:
+Repository dapat mendukung tiga tingkat representasi:
 
 1. reasoning statement;
 2. traceable derived object;
 3. independent normative object.
 
-Objectification harus mengikuti kebutuhan **traceability dan governance**, bukan sekadar kompleksitas struktur.
+Tidak semua tingkat harus menjadi file terpisah.
+
+## 27. Implikasi bagi TUMBUH
+
+Working model:
+
+~~~text
+Principles
+↓
+Joint Reasoning
+↓
+Composite Implication
+↓
+[Traceable Object bila diperlukan]
+↓
+Criteria / Evidence / Design
+~~~
+
+Jika implication memperoleh independent normative commitment, ia dapat dipertimbangkan untuk dipromosikan menjadi Design Principle.
+
+Dengan demikian TUMBUH dapat menjaga traceability tanpa menjadikan setiap consequence sebagai Principle.
+
+## 28. Temuan Sementara
+
+1. Composite implication tidak otomatis membutuhkan independent identity.
+2. Traceability tidak sama dengan independent identity.
+3. Derived implication dapat cukup menjadi reasoning object.
+4. Explicit identity berguna ketika reuse, consequence, dependency, dan governance relevance meningkat.
+5. Reusability saja tidak cukup untuk menjadi Principle.
+6. Commitment dan design function tetap merupakan test utama.
+7. Composite implication dapat memiliki identity referensial tanpa menjadi Principle.
+8. Parent change dapat memicu re-evaluation atau re-derivation.
+9. Relationship change dapat memengaruhi validity.
+10. Evidence change dapat memicu review jika derivation terdampak secara material.
+11. Criteria dan scope tidak otomatis memberikan Principle identity.
+12. Over-modeling dan under-modeling sama-sama perlu dihindari.
+13. Reasoning statement, traceable derived object, dan independent normative object merupakan working distinction.
+14. Composite implication dapat dipromosikan menjadi Principle jika memperoleh independent commitment dan design function.
+15. Object yang ternyata hanya implication dapat didemote.
+16. Lifecycle derived object tidak harus sama dengan lifecycle Principle.
+17. Re-derivation penting ketika parent berubah.
+
+Temuan ini masih provisional.
+
+## 29. Kesimpulan
+
+P0037 mendukung working rule:
+
+> **Composite Design Implication tidak otomatis membutuhkan identity dan lifecycle sendiri. Identity eksplisit diperlukan ketika consequence, reuse, dependency, dan governance relevance menuntut traceability tersendiri. Jika identity tersebut tetap sepenuhnya derived dari parent Principles, lifecycle dapat ringan atau bahkan cukup berada dalam reasoning record. Jika implication berkembang menjadi independent normative commitment dan design function, ia dapat dipertimbangkan sebagai Design Principle.**
+
+Dengan demikian:
+
+> **Objectification follows governance need, not complexity alone.**
 
 ## 30. Next Inquiry
 
-P0038 akan menguji:
+> **Jika Composite Design Implication berubah karena salah satu parent Principle berubah, apakah perubahan itu merupakan revision atas implication atau hanya re-derivation?**
 
-> **Jika sebuah composite implication berubah karena salah satu parent principle berubah, apakah perubahan itu merupakan revision atas implication atau hanya re-derivation?**
+P0038 akan membedakan perubahan pada **derived consequence** dari perubahan pada **identity object**.
 
-Pertanyaan ini penting untuk membedakan perubahan pada **derived consequence** dari perubahan pada **identity object**.
+## 31. Status Inquiry
 
-## Status
+**Finding:** Composite Design Implication tidak otomatis menjadi independent governance object.
 
-**P0037 — selesai sebagai inquiry.**
+**Working conclusion:** Tingkat identity dan lifecycle mengikuti kebutuhan traceability dan governance independence.
 
-**Temuan utama:** Composite Design Implication tidak otomatis membutuhkan identity dan lifecycle sendiri. Identity eksplisit diperlukan ketika consequence, reuse, dependency, dan governance relevance menuntutnya. Jika berkembang menjadi independent normative commitment, implication dapat dipertimbangkan sebagai Design Principle.
+**Boundary:** Lifecycle teknis final dan mekanisme governance formal belum ditetapkan.
 
-**Next inquiry:** P0038 — *Jika Composite Implication Berubah karena Parent Principle Berubah, Apakah Itu Revision atau Re-derivation?*
+**Open question:** Bagaimana membedakan re-derivation dari revision pada derived implication?
