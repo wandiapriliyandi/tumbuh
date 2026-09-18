@@ -1,54 +1,62 @@
 # P0041 — Apakah Substantive Dependency yang Belum Explicit Merupakan Gap Traceability yang Menghalangi Acceptance?
 
-## Pertanyaan
+## Status
 
-**Apakah substantive dependency yang belum dinyatakan secara explicit merupakan gap traceability yang harus diperbaiki sebelum sebuah Design Principle atau downstream object dapat dinyatakan Accepted?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0041  
+**Status:** Revised  
+**Type:** Acceptance and Traceability Inquiry
 
-P0040 menemukan bahwa substantive dan governance-relevant dependencies sebaiknya explicit, sementara inference dapat digunakan untuk discovery dan exploratory reasoning.
+---
 
-P0041 menguji konsekuensi temuan tersebut terhadap **acceptance**.
+## 1. Object of Inquiry
 
-## 1. Titik Berangkat
+**Object of Inquiry:** Acceptance of Design Principles dan downstream objects dalam Principles TUMBUH, khususnya ketika terdapat substantive dependency yang belum dapat ditelusuri secara explicit.
 
-P0029 menetapkan bahwa acceptance membutuhkan sufficient epistemic justification, scope, dan traceability.
+P0040 menemukan bahwa substantive dan governance-relevant dependency sebaiknya explicit. P0041 menguji apakah explicitness tersebut menjadi **syarat acceptance**, dan jika ya, dalam kondisi apa.
 
-P0040 menambahkan bahwa dependency substantif sebaiknya explicit.
+## 2. TUMBUH Question
 
-Maka muncul pertanyaan:
+> **Apakah substantive dependency yang belum dinyatakan secara explicit merupakan gap traceability yang harus diperbaiki sebelum sebuah Design Principle atau downstream object dapat dinyatakan Accepted?**
 
-> Jika dependency substantif belum explicit, apakah object tersebut otomatis tidak dapat Accepted?
+## 3. Titik Berangkat
 
-Jawabannya perlu membedakan **absence of explicitness** dari **absence of justification**.
+P0029 membedakan acceptance dari proof dan menempatkan traceability sebagai bagian dari sufficient justification.
 
-## 2. Traceability Gap
+P0040 membedakan:
 
-Traceability gap terjadi ketika sebuah claim atau object memiliki hubungan substantif yang diperlukan untuk memahami derivation, impact, atau governance, tetapi hubungan tersebut tidak dapat ditelusuri dengan cukup jelas.
+- inference untuk discovery;
+- explicit reference untuk traceability;
+- structured relationship untuk governance-relevant dependency.
+
+Maka pertanyaan berikutnya:
+
+> **Apakah missing explicit dependency selalu menghalangi acceptance?**
+
+Tidak otomatis. Perlu dibedakan **missing explicitness** dari **insufficient inspectability**.
+
+## 4. Traceability Gap
+
+Traceability gap terjadi ketika hubungan substantif yang diperlukan untuk memahami atau memeriksa sebuah object tidak dapat ditelusuri dengan cukup jelas.
 
 Contoh:
 
-**P1 → I1**
+~~~text
+P1 → I1
+~~~
 
-Reasoning sebenarnya menunjukkan I1 bergantung pada P1, tetapi repository tidak mencatat hubungan tersebut.
+Reasoning menunjukkan I1 bergantung pada P1, tetapi relationship tersebut tidak dinyatakan secara memadai.
 
-I1 mungkin tetap memiliki argumentasi yang masuk akal, tetapi traceability-nya tidak lengkap.
+I1 masih mungkin memiliki reasoning yang masuk akal, tetapi reviewer dapat kesulitan memastikan:
 
-## 3. Apakah Gap Otomatis Membatalkan Acceptance?
+- dari mana I1 berasal;
+- mengapa P1 menjadi parent;
+- bagaimana scope bekerja;
+- apa yang terdampak jika P1 berubah.
 
-Tidak otomatis.
+## 5. Traceability Sufficiency vs Epistemic Sufficiency
 
-Sebuah gap traceability dapat memiliki tingkat materialitas berbeda.
-
-Pertanyaan yang lebih tepat:
-
-> **Apakah gap tersebut menghalangi reviewer memahami dan memverifikasi alasan, dependency, scope, dan consequence yang relevan?**
-
-Jika tidak, gap mungkin merupakan documentation improvement.
-
-Jika iya, gap dapat menjadi acceptance blocker.
-
-## 4. Distinguish Epistemic Sufficiency dan Traceability Sufficiency
-
-Acceptance memerlukan dua hal yang berbeda:
+Keduanya berbeda.
 
 ### Epistemic Sufficiency
 
@@ -56,168 +64,177 @@ Apakah reasoning dan justification cukup untuk mendukung candidate?
 
 ### Traceability Sufficiency
 
-Apakah reviewer dapat mengikuti hubungan penting yang membentuk claim atau object tersebut?
+Apakah reviewer dapat mengikuti hubungan penting yang membentuk claim atau object?
 
-Sebuah object dapat memiliki reasoning yang baik tetapi traceability buruk.
+Reasoning kuat tidak otomatis menghasilkan traceability kuat.
 
-Sebaliknya, reference dapat lengkap tetapi reasoning lemah.
+Sebaliknya, reference lengkap tidak menggantikan reasoning yang lemah.
 
-Keduanya tidak saling menggantikan.
+Acceptance memerlukan keduanya pada tingkat yang memadai.
 
-## 5. Traceability Bukan Sekadar Documentation
+## 6. Traceability Bukan Sekadar Documentation
 
-Traceability bukan hanya metadata administratif.
+Untuk substantive dependency, traceability membantu memeriksa:
 
-Untuk substantive dependency, traceability membantu menjawab:
+- derivation;
+- identity;
+- scope;
+- condition;
+- design consequence;
+- impact;
+- governance consequence.
 
-- dari mana object berasal;
-- apa yang menjadi parent;
-- mengapa dependency ada;
-- apa yang terdampak jika parent berubah;
-- bagaimana scope/condition bekerja.
+Karena itu traceability dalam kasus material merupakan bagian dari **acceptability**, bukan sekadar kerapian repository.
 
-Karena itu, pada kasus tertentu traceability menjadi bagian dari **acceptability**, bukan sekadar kerapian dokumentasi.
+## 7. Apakah Missing Explicitness Otomatis Membatalkan Acceptance?
 
-## 6. Minimum Acceptance Requirement
+**Tidak.**
 
-Working requirement:
+Pertanyaan penentunya:
 
-> **Substantive dependency yang material terhadap identity, derivation, scope, consequence, conformance, atau governance harus dapat ditelusuri secara explicit sebelum acceptance final.**
+> **Apakah reviewer masih dapat memverifikasi substantive dependency dengan cukup jelas dari reasoning atau representation lain?**
 
-Ini tidak berarti setiap association harus ditulis sebagai dependency.
+Jika ya, gap dapat menjadi remediation.
 
-Hanya dependency yang memang substantive dan material.
+Jika tidak, gap dapat menjadi acceptance blocker.
 
-## 7. Materiality
+Jadi:
 
-Materiality dapat dilihat dari consequence.
+**Missing explicitness ≠ automatic invalidity**
 
-Dependency menjadi material jika ketiadaannya dapat menyebabkan:
+dan:
+
+**Material missing traceability → possible acceptance blocker**
+
+## 8. Materiality
+
+Dependency gap menjadi material bila ketidakjelasannya dapat menyebabkan:
 
 - salah memahami derivation;
 - salah menentukan applicability;
+- salah memahami consequence;
+- salah menilai conformance;
 - salah melakukan impact analysis;
-- salah memahami criteria;
-- salah mengambil governance action;
+- salah mengambil lifecycle/governance action;
 - downstream object terlewat ketika parent berubah.
 
-Jika tidak ada consequence semacam itu, explicitness mungkin bukan acceptance blocker.
+Jika tidak menghasilkan consequence tersebut, explicitness belum tentu menjadi acceptance blocker.
 
-## 8. Acceptance Blocker vs Improvement
+## 9. Acceptance Blocker vs Remediation
 
 Working distinction:
 
 ### Acceptance Blocker
 
-Gap membuat claim/object tidak cukup dapat diperiksa atau ditelusuri untuk acceptance.
+Gap membuat object tidak cukup inspectable untuk acceptance.
 
-### Required Before Activation
+### Accepted — Remediation Required
 
-Object mungkin dapat Accepted secara governance, tetapi belum layak Active karena dependency penting belum lengkap.
+Object secara substantif dapat diterima, tetapi traceability perlu diperbaiki.
 
 ### Documentation Improvement
 
 Gap tidak mengganggu substantive understanding atau governance.
 
-Dengan demikian acceptance dan activation tidak perlu diperlakukan identik.
+Dengan demikian **acceptance** dan **remediation** tidak harus identik.
 
-## 9. Design Principle
+## 10. Design Principle
 
-Untuk Design Principle, dependency yang belum explicit dapat menjadi blocker jika:
+Missing dependency dapat menjadi blocker jika Principle:
 
-- principle merupakan refinement dari principle lain;
-- principle memiliki condition yang berasal dari parent;
-- design consequence bergantung pada principle lain;
-- konflik dengan principle lain perlu dipahami;
-- acceptance rationale bergantung pada relationship tertentu.
+- merupakan refinement dari Principle lain;
+- memperoleh scope/condition dari parent;
+- memiliki design consequence yang bergantung pada Principle lain;
+- memiliki tension atau relationship yang material;
+- membutuhkan relationship tertentu untuk memahami acceptance rationale.
 
-Jika relationship hanya contextual association, tidak perlu menjadi blocker.
+Sebaliknya, contextual association tidak perlu menjadi acceptance blocker.
 
-## 10. Downstream Implication
+## 11. Downstream Design Implication
 
-Untuk Design Implication, kebutuhan explicitness biasanya lebih kuat ketika implication dinyatakan sebagai derived object.
-
-Contoh:
-
-**P1 + P2 → I1**
-
-Jika I1 diterima sebagai hasil derivation, parent dependency sebaiknya dapat ditelusuri.
-
-Jika tidak, pembaca tidak dapat membedakan:
-
-- implication derived;
-- implication merely associated;
-- independent design suggestion.
-
-## 11. Composite Dependency
-
-Composite implication memiliki kebutuhan traceability yang lebih tinggi.
+Kebutuhan explicitness biasanya lebih kuat pada derived object.
 
 Contoh:
 
-**P1 + P2 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
-Explicitness perlu menunjukkan kontribusi reasoning dari masing-masing parent.
+Jika I1 diterima sebagai hasil derivation, reviewer perlu dapat menelusuri kontribusi P1 dan P2.
 
-Bukan hanya:
+Tanpa itu, I1 sulit dibedakan dari:
 
-**Derived from P1, P2**
+- independent design suggestion;
+- mere association;
+- implication yang benar-benar derived.
 
-tetapi jika material, juga:
+## 12. Composite Dependency
 
-- contribution P1;
-- contribution P2;
-- why combination is necessary.
+Untuk composite implication, reference parent saja mungkin belum cukup.
 
-Ini mengikuti temuan P0036 tentang contribution dan counterfactual test.
+Jika:
 
-## 12. Conditional Dependency
+~~~text
+P1 + P2 → I1
+~~~
 
-Jika dependency hanya berlaku pada kondisi tertentu, kondisi tersebut perlu ditelusuri.
+dan kontribusi keduanya material, traceability perlu memungkinkan reviewer memahami:
 
-Contoh:
+- kontribusi P1;
+- kontribusi P2;
+- mengapa kombinasi diperlukan.
 
-**P1 → I1 [under Condition C]**
+Ini konsisten dengan P0036 tentang contribution test dan counterfactual removal test.
+
+## 13. Conditional Dependency
+
+Jika:
+
+~~~text
+P1 → I1 [Condition C]
+~~~
+
+maka Condition C perlu dapat ditelusuri ketika condition tersebut material.
 
 Tanpa condition, dependency dapat salah dibaca sebagai universal.
 
-Maka conditional dependency yang material sebaiknya explicit bersama scope/condition-nya.
+## 14. Governance Dependency
 
-## 13. Governance Dependency
-
-Kebutuhan explicitness paling kuat muncul pada governance dependency.
-
-Jika relationship menentukan:
+Explicitness paling kuat diperlukan ketika dependency menentukan:
 
 - review trigger;
 - impact propagation;
-- lifecycle action;
 - acceptance condition;
 - reopening;
+- lifecycle action.
 
-maka relationship tidak seharusnya hanya bergantung pada inference.
+Relationship seperti ini tidak seharusnya hanya bergantung pada inference.
 
-Governance perlu mengetahui relationship tersebut secara inspectable.
+Governance memerlukan relationship yang **inspectable**.
 
-## 14. Inferred Dependency sebagai Candidate
+## 15. Inference sebagai Discovery
 
-P0040 menemukan bahwa inference berguna untuk discovery.
+P0040 menemukan:
 
-Maka ketika reviewer menemukan:
+~~~text
+Inference
+↓
+Candidate Dependency
+↓
+Review
+↓
+Confirmed / Rejected
+~~~
 
-> “Sepertinya I1 bergantung pada P1.”
+Jika reviewer menemukan dependency yang belum dicatat, hasil awalnya adalah **candidate finding**, bukan automatic invalidity.
 
-status yang tepat bukan langsung **Accepted Dependency**.
+Inference membantu menemukan gap.
 
-Working flow:
+Ia tidak menggantikan established traceability.
 
-**Inference → Candidate Dependency → Review → Confirmed/Rejected**
+## 16. Missing Dependency sebagai Review Finding
 
-Dengan demikian inference menjadi mekanisme menemukan gap, bukan pengganti explicit traceability.
-
-## 15. Missing Dependency sebagai Review Finding
-
-Jika object sedang direview dan reviewer menemukan substantive dependency yang tidak tercatat, temuan tersebut dapat dikategorikan:
+Ketika substantive dependency ditemukan tetapi belum tercatat, working finding:
 
 **Traceability Gap**
 
@@ -225,69 +242,95 @@ Bukan langsung:
 
 **Principle Invalid**
 
-Ini penting agar kekurangan dokumentasi tidak otomatis dianggap sebagai kegagalan epistemik.
+Perbedaan ini penting agar documentation gap tidak otomatis disamakan dengan epistemic failure.
 
-## 16. Apakah Acceptance Harus Ditunda?
+## 17. Kapan Acceptance Ditunda?
 
-Tidak selalu.
-
-Acceptance dapat ditunda jika missing dependency menyebabkan reviewer tidak dapat memverifikasi:
+Acceptance sebaiknya ditunda ketika missing dependency membuat reviewer tidak dapat memverifikasi secara memadai:
 
 - derivation;
+- identity;
 - scope;
 - consequence;
 - relationship;
 - acceptance rationale.
 
-Jika reviewer tetap dapat memverifikasi seluruh hal tersebut dari explicit reasoning lain yang sufficiently clear, gap mungkin dapat diperbaiki tanpa membatalkan substantive judgment.
+Jika reviewer dapat memverifikasi hal tersebut melalui representation lain yang **equivalent in inspectability**, acceptance tidak harus selalu ditunda.
 
-Namun jika dependency merupakan bagian material dari claim, acceptance sebaiknya menunggu perbaikannya.
+## 18. Explicit ≠ Structured Field
 
-## 17. Acceptance vs Historical Traceability
+Explicitness tidak berarti harus ada database field atau graph edge.
 
-Ada kemungkinan sebuah object telah Accepted sebelum traceability standard diperketat.
+Bentuk explicit dapat berupa:
 
-Dalam kasus tersebut, missing dependency tidak berarti object otomatis menjadi invalid.
+- parent declaration;
+- derivation statement;
+- cross-reference;
+- relationship section;
+- structured metadata.
 
-Lebih tepat:
+Yang penting:
 
-**Accepted → Traceability Review → Gap Identified → Remediation → Retain/Reopen sesuai materiality**
+> **Substantive dependency dapat ditemukan dan diperiksa tanpa bergantung pada tebakan reviewer.**
 
-Ini menjaga historical continuity.
+## 19. Equivalent in Inspectability
 
-## 18. Legacy Objects
+Working requirement:
 
-Untuk legacy objects, perlu dibedakan:
+> **Explicit dependency dapat diwujudkan melalui bentuk apa pun yang membuat substantive relationship cukup inspectable untuk review.**
 
-- object belum pernah dinilai;
-- object sudah Accepted;
-- object Active;
-- object Superseded.
+Dengan demikian TUMBUH tidak perlu mengunci satu format teknis terlalu dini.
 
-Traceability remediation dapat dilakukan berbeda sesuai lifecycle status.
+Structured representation menjadi lebih relevan ketika dependency dipakai untuk governance atau tooling.
 
-Tidak perlu menerapkan retroactive rejection secara otomatis.
+## 20. Acceptance vs Activation
 
-## 19. Traceability Debt
+Acceptance dan Active status perlu dibedakan.
 
-Jika banyak dependency tidak explicit, repository dapat mengalami:
+Sebuah object dapat:
 
-> **Traceability Debt**
+**Accepted + traceability remediation pending**
 
-Ciri-cirinya:
+tetapi belum tentu layak **Active** jika dependency penting belum cukup jelas untuk digunakan secara aman dalam downstream design.
 
-- reviewer harus membaca banyak prose untuk menemukan dependency;
-- impact analysis sulit;
-- parent change mudah melewatkan downstream;
+Ini konsisten dengan P0029 bahwa Accepted dan Active bukan status yang sama.
+
+## 21. Legacy Objects
+
+Jika object telah Accepted sebelum standar traceability diperjelas, missing dependency tidak otomatis membuatnya invalid.
+
+Working pathway:
+
+~~~text
+Accepted
+↓
+Traceability Review
+↓
+Gap Identified
+↓
+Remediation
+↓
+Retain / Reopen sesuai materiality
+~~~
+
+Ini menjaga historical traceability tanpa automatic retroactive rejection.
+
+## 22. Traceability Debt
+
+Jika banyak substantive dependency hanya tersirat, TUMBUH dapat mengalami **traceability debt**.
+
+Akibatnya:
+
+- impact analysis menjadi sulit;
+- reviewer perlu membaca terlalu banyak prose;
+- downstream objects mudah terlewat;
 - relationship semantics tidak konsisten.
 
-Traceability debt bukan berarti semua object harus dimodelkan ulang sekaligus.
+Remediation sebaiknya mengikuti materiality, bukan mewajibkan pemodelan ulang seluruh repository sekaligus.
 
-Remediation dapat diprioritaskan berdasarkan materiality.
+## 23. Evidence of Sufficient Traceability
 
-## 20. Acceptance Evidence
-
-Evidence bahwa traceability cukup dapat berupa:
+Bukti traceability dapat berupa:
 
 - explicit parent reference;
 - derivation statement;
@@ -297,194 +340,189 @@ Evidence bahwa traceability cukup dapat berupa:
 - cross-reference ke PROBE;
 - review record.
 
-Tidak perlu semua bentuk digunakan sekaligus.
+Tidak semua bentuk diperlukan.
 
-Yang penting adalah **inspectability**.
+Ukuran utamanya adalah **inspectability**.
 
-## 21. Tidak Perlu Numeric Score
+## 24. Tidak Perlu Numeric Score
 
-P0040 dan P0029 tidak memberikan dasar untuk membuat skor traceability.
+Belum ada dasar dalam inquiry sebelumnya untuk menetapkan numeric traceability score.
 
-Maka acceptance tidak perlu:
-
-> Traceability = 80/100.
-
-Lebih sesuai menggunakan judgment berbasis criteria:
+Lebih tepat menggunakan judgment:
 
 - sufficient;
 - insufficient;
-- gap requiring remediation;
-- blocker.
-
-## 22. Traceability Threshold
-
-Working threshold:
-
-### Sufficient
-
-Reviewer dapat mengikuti substantive dependency yang relevan.
-
-### Insufficient
-
-Ada dependency penting yang tidak dapat diverifikasi dengan cukup jelas.
-
-### Over-modeled
-
-Relationship dicatat berlebihan sampai association dan dependency bercampur.
+- remediation required;
+- acceptance blocker.
 
 Tujuannya bukan maximal explicitness.
 
-Tujuannya adalah **sufficient explicitness**.
+Tujuannya **sufficient explicitness**.
 
-## 23. Principle Identity
+## 25. Principle Identity
 
-Missing dependency tidak otomatis mengubah identity sebuah Design Principle.
+Missing dependency tidak otomatis mengubah identity Principle.
 
 Jika setelah dependency diperjelas ternyata:
 
 - commitment berubah;
 - design function berbeda;
 - scope berubah;
-- relationship ternyata essential;
+- relationship ternyata merupakan bagian essential dari meaning;
 
-maka principle dapat dibuka kembali.
+maka Principle dapat dibuka kembali.
 
-Namun jika hanya metadata/traceability yang diperbaiki, identity tetap.
+Jika yang berubah hanya traceability representation, identity tidak otomatis berubah.
 
-## 24. Downstream Impact
+## 26. Downstream Consequence
 
-Ketika missing dependency ditemukan setelah acceptance, pertanyaan berikutnya:
+Jika missing dependency ditemukan setelah acceptance, downstream impact mengikuti P0039.
 
-> Apakah downstream objects harus direview?
+Artinya:
 
-Jawabannya mengikuti P0039:
+- periksa direct substantive dependents;
+- propagasikan hanya jika consequence intermediate berubah material;
+- jangan membuka seluruh repository secara otomatis.
 
-- review direct substantive dependents;
-- lanjutkan secara transitive hanya jika consequence benar-benar material;
-- jangan otomatis membuka seluruh repository.
+Traceability remediation dan downstream impact analysis berjalan bersama, tetapi bukan hal yang sama.
 
-## 25. Governance Implication
+## 27. Working Acceptance Logic
 
-Governance perlu membedakan tiga kondisi:
+Working logic:
 
-**Accepted + traceability sufficient**
+~~~text
+Candidate
+↓
+Dependency Discovery
+↓
+Traceability Check
+↓
+Epistemic Review
+↓
+Acceptance Decision
+~~~
 
-→ normal lifecycle.
+Pada traceability check:
 
-**Accepted + traceability gap non-material**
+### Sufficient
 
-→ remediation.
+Dependency material dapat diperiksa.
 
-**Accepted + material traceability gap**
+→ Proceed.
 
-→ targeted review/reopening sesuai consequence.
+### Gap, non-material
 
-Dengan demikian missing explicit dependency menjadi governance signal, bukan automatic invalidation.
+Tidak menghalangi substantive judgment.
 
-## 26. Minimum Traceability Rule
+→ Acceptance dapat berjalan + remediation.
+
+### Gap, material
+
+Menghalangi inspectability.
+
+→ Acceptance ditunda atau targeted review dilakukan.
+
+## 28. Boundary
+
+P0041 **tidak**:
+
+- menetapkan satu format metadata;
+- mewajibkan technical dependency graph;
+- menetapkan numeric threshold;
+- menyatakan semua missing reference sebagai blocker;
+- atau mengubah acceptance menjadi checklist administratif.
+
+Fokusnya adalah **hubungan antara substantive dependency, traceability, dan acceptance dalam Principles TUMBUH**.
+
+## 29. Repository Destination
+
+Hasil P0041 diarahkan ke:
+
+**Principles → Design Principles → Acceptance / Traceability / Dependency**
+
+Repository idealnya dapat menunjukkan, bila material:
+
+~~~text
+Object
+→ Parent / Dependency
+→ Relationship
+→ Rationale
+→ Scope / Condition
+→ Evidence / PROBE
+→ Review / Acceptance Status
+~~~
+
+Bentuk teknis dapat berkembang.
+
+## 30. Implikasi bagi TUMBUH
 
 Working rule:
 
-> **Sebelum final acceptance, setiap substantive dependency yang material terhadap derivation, identity, scope, consequence, conformance, atau governance harus dapat ditelusuri secara explicit atau melalui reasoning yang equivalent in inspectability.**
+> **Substantive dependency yang material harus sufficiently explicit atau otherwise equivalent in inspectability sebelum final acceptance. Missing traceability tidak otomatis membatalkan acceptance; materiality menentukan apakah gap menjadi blocker, remediation, atau review trigger.**
 
-Frasa **equivalent in inspectability** penting.
+Dengan demikian TUMBUH menghindari dua ekstrem:
 
-Tujuannya bukan memaksa format tertentu.
+**Too implicit** → hidden dependency.
 
-Yang diwajibkan adalah kemampuan reviewer untuk memeriksa hubungan substantif tersebut.
+**Too explicit** → over-modeling.
 
-## 27. Apakah “Explicit” Harus Berarti Structured Field?
+Targetnya:
 
-Tidak.
+> **Sufficient traceability for reliable design reasoning and governance.**
 
-Explicit dapat berupa:
-
-- parent declaration;
-- derivation statement;
-- cross-reference;
-- relationship section;
-- structured metadata.
-
-Structured field lebih berguna ketika dependency dipakai oleh governance atau tooling.
-
-Maka:
-
-**Explicitness ≠ database field.**
-
-## 28. Inference Tetap Berguna
-
-Inference tidak dibuang.
-
-Ia berguna untuk:
-
-- menemukan missing dependencies;
-- menemukan inconsistency;
-- melakukan impact discovery;
-- membantu reviewer;
-- mendeteksi potential orphan objects.
-
-Tetapi inferred result perlu validasi sebelum diperlakukan sebagai established governance relationship.
-
-## 29. Temuan
+## 31. Temuan Sementara
 
 1. Substantive dependency yang belum explicit dapat merupakan traceability gap.
 2. Traceability gap tidak otomatis membatalkan acceptance.
 3. Material traceability gap dapat menjadi acceptance blocker.
-4. Epistemic sufficiency dan traceability sufficiency adalah dua dimensi berbeda.
+4. Epistemic sufficiency dan traceability sufficiency adalah dimensi berbeda.
 5. Governance-relevant dependency membutuhkan explicitness paling kuat.
 6. Composite dependency membutuhkan kontribusi parent yang dapat ditelusuri jika material.
-7. Conditional dependency perlu scope/condition yang dapat ditelusuri.
-8. Inference dapat menemukan candidate dependency tetapi bukan otomatis authority.
-9. Missing dependency sebaiknya diperlakukan sebagai traceability finding sebelum dianggap sebagai invalidity.
-10. Acceptance, activation, dan documentation remediation tidak harus identik.
-11. Legacy accepted objects tidak otomatis invalid karena standar traceability berubah.
-12. Traceability debt dapat muncul ketika dependency substantif terlalu banyak tersirat.
-13. Tidak ada dasar untuk menggunakan numeric traceability score.
-14. Targetnya adalah sufficient explicitness, bukan maximal explicitness.
-15. Explicitness tidak mensyaratkan technical graph atau structured field.
-16. Missing dependency hanya memicu targeted downstream review sesuai substantive impact.
+7. Conditional dependency perlu scope/condition yang dapat diperiksa.
+8. Inference dapat menemukan candidate dependency, tetapi bukan established authority.
+9. Missing dependency sebaiknya dicatat sebagai traceability finding sebelum dianggap invalidity.
+10. Acceptance dan activation tidak harus identik.
+11. Legacy accepted objects tidak otomatis invalid karena standar traceability berkembang.
+12. Traceability debt dapat menghambat impact analysis.
+13. Tidak ada dasar untuk numeric traceability score.
+14. Targetnya sufficient explicitness, bukan maximal explicitness.
+15. Explicitness tidak mensyaratkan structured field atau technical graph.
+16. Missing dependency setelah acceptance mengikuti targeted impact analysis sesuai P0039.
 
-## 30. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — SUBSTANTIVE DEPENDENCY YANG MATERIAL HARUS DAPAT DITELUSURI SECARA EXPLICIT ATAU DENGAN REASONING YANG SETARA DALAM INSPECTABILITY SEBELUM ACCEPTANCE FINAL. NAMUN MISSING TRACEABILITY TIDAK OTOMATIS MEMBATALKAN ACCEPTANCE; MATERIALITAS DAN CONSEQUENCE MENENTUKAN APAKAH GAP MENJADI BLOCKER, REMEDIATION, ATAU REVIEW TRIGGER.**
+## 32. Kesimpulan
+
+P0041 mendukung:
+
+> **Substantive dependency yang material harus dapat ditelusuri secara explicit atau melalui representation/reasoning yang equivalent in inspectability sebelum final acceptance.**
+
+Namun:
+
+> **Missing traceability tidak otomatis berarti Principle atau downstream object invalid.**
+
+Yang menentukan adalah apakah gap tersebut menghalangi reviewer memahami dan memverifikasi derivation, scope, consequence, conformance, atau governance consequence.
 
 Working model:
 
-**Candidate → Dependency Discovery → Explicit/Inspectable Traceability → Review → Acceptance**
+**Discovery → Traceability Check → Review → Acceptance**
 
-Bukan:
+bukan:
 
-**Inference → Automatic Acceptance**
+**Reference Missing → Automatic Rejection**
 
-## 31. Implikasi bagi Repository
-
-Acceptance record idealnya mampu menunjukkan, bila relevan:
-
-- parent/dependency;
-- relationship type;
-- rationale;
-- scope/condition;
-- evidence/PROBE;
-- review status.
-
-Namun bentuk teknisnya tetap dapat berkembang.
-
-Prinsip arsitekturalnya:
-
-> **Governance membutuhkan dependency yang dapat diperiksa, bukan sekadar dependency yang mungkin dapat ditebak.**
-
-## 32. Next Inquiry
-
-P0042 akan menguji:
+## 33. Next Inquiry
 
 > **Jika sebuah dependency dinyatakan explicit, bagaimana memastikan dependency tersebut benar-benar substantive dan bukan sekadar reference yang terlihat formal?**
 
-Ini melanjutkan garis inquiry dari **explicitness → validation → substantive dependency**.
+P0042 akan menguji batas antara **formal reference** dan **substantive dependency**, agar explicitness tidak berubah menjadi principle/dependency inflation.
 
-## Status
+## 34. Status Inquiry
 
-**P0041 — selesai sebagai inquiry.**
+**Finding:** Missing explicit dependency menjadi traceability gap ketika dependency tersebut substantif dan material.
 
-**Temuan utama:** Missing explicit dependency merupakan traceability gap ketika dependency tersebut substantif dan material. Gap tidak otomatis membatalkan acceptance; yang menentukan adalah apakah gap tersebut menghalangi inspectability dan governance.
+**Working conclusion:** Material traceability gap dapat menghalangi final acceptance, tetapi non-material gap dapat menjadi remediation tanpa automatic rejection.
 
-**Next inquiry:** P0042 — *Bagaimana Memastikan Explicit Dependency Benar-Benar Substantive dan Bukan Sekadar Formal Reference?*
+**Boundary:** Format teknis acceptance/traceability belum ditetapkan.
+
+**Open question:** Bagaimana memvalidasi bahwa explicit dependency benar-benar substantive?
