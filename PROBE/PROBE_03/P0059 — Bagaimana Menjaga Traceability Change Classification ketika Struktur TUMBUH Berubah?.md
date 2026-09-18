@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0059  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
@@ -377,7 +377,19 @@ Dengan demikian:
 
 ---
 
-## 19. Status Inquiry
+## 19. Repository Destination
+
+**Principles → Design Principles → Relational Traceability → Change Classification / Lineage / Framework Evolution**
+
+Common framework, domain extensions, logical identity, dan historical lineage diperlakukan sebagai konsep traceability yang saling terkait, tanpa mengharuskan top-level technical framework baru.
+
+## 20. Next Inquiry
+
+> **Bagaimana menentukan logical identity sebuah object secara cukup stabil agar lineage tetap dapat dipertahankan ketika object mengalami rename, split, merge, atau reformulation?**
+
+P0060 akan menguji boundary antara logical identity, reformulation, dan object replacement dalam Principles TUMBUH.
+
+## 21. Status Inquiry
 
 **Finding:** Traceability harus bergantung pada logical identity dan lineage, sementara common framework menjadi semantic anchor dan domain extensions mengikuti perubahan semantic structure.
 
