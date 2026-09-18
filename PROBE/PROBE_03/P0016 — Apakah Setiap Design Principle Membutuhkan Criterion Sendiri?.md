@@ -1,315 +1,382 @@
 # P0016 — Apakah Setiap Design Principle Membutuhkan Criterion Sendiri?
 
-## Pertanyaan
+## Status
 
-**Apakah setiap Design Principle membutuhkan Design Criterion sendiri, atau beberapa Design Principles dapat berbagi criterion yang sama?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0016  
+**Status:** Revised  
+**Type:** Design Principle–Criterion Relationship Inquiry
 
-P0015 menemukan bahwa Design Principle perlu memiliki konsekuensi desain yang dapat diperiksa. Namun temuan tersebut belum menjawab apakah hubungan antara Principle dan Criterion harus selalu satu-ke-satu.
+---
 
-P0016 menguji kemungkinan hubungan satu-ke-satu, satu-ke-banyak, banyak-ke-satu, dan banyak-ke-banyak.
+## 1. Object of Inquiry
 
-## 1. Principle dan Criterion Memiliki Fungsi Berbeda
+**Object of Inquiry:** Design Principles TUMBUH.
+
+P0016 menguji hubungan antara Design Principles dan criteria yang digunakan untuk memeriksa design consequence.
+
+P0015 menunjukkan bahwa conformity membutuhkan consequence yang dapat diperiksa. P0016 menguji apakah setiap Principle harus mempunyai criterion yang unik.
+
+---
+
+## 2. TUMBUH Question
+
+> **Apakah setiap Design Principle TUMBUH membutuhkan Design Criterion sendiri, atau satu criterion dapat menjadi cara memeriksa beberapa Design Principles sekaligus?**
+
+Pertanyaan ini penting agar struktur Principles tidak dipaksa mengikuti struktur evaluasi secara satu-ke-satu.
+
+---
+
+## 3. Principle dan Criterion Memiliki Fungsi Berbeda
 
 Design Principle menjawab:
 
-> **Komitmen atau arah desain apa yang harus dijaga?**
+> **Commitment desain apa yang harus dijaga?**
 
-Design Criterion menjawab:
+Criterion menjawab:
 
-> **Apa yang perlu diperiksa untuk mengetahui apakah desain memenuhi komitmen tersebut?**
+> **Apa yang diperiksa untuk mengetahui apakah consequence dari commitment tersebut terpenuhi?**
 
-Karena pertanyaannya berbeda, tidak ada alasan konseptual bahwa jumlah Principle harus sama dengan jumlah Criterion.
+Karena fungsi keduanya berbeda, jumlah Principle tidak harus sama dengan jumlah Criterion.
 
-## 2. Empat Pola Hubungan
+---
 
-### A. One-to-One
+## 4. Kemungkinan Relationship
 
-Satu Principle memiliki satu Criterion.
+Secara konseptual terdapat beberapa pola:
 
-**Principle A → Criterion A**
+### One-to-One
 
-Ini sederhana dan mudah ditelusuri, tetapi tidak selalu mencerminkan kompleksitas desain.
+~~~text
+Principle A → Criterion A
+~~~
 
-### B. One-to-Many
+Sederhana, tetapi tidak selalu mencerminkan reasoning desain.
 
-Satu Principle menghasilkan beberapa Criterion.
+### One-to-Many
 
-**Principle A → Criterion A1 + A2 + A3**
+~~~text
+Principle A → Criterion A1 + A2 + A3
+~~~
 
-Ini dapat terjadi ketika satu komitmen desain memiliki beberapa konsekuensi yang berbeda.
+Terjadi jika satu Principle mempunyai beberapa consequence yang perlu diperiksa.
 
-### C. Many-to-One
+### Many-to-One
 
-Beberapa Principles berbagi Criterion.
+~~~text
+Principle A + Principle B → Criterion X
+~~~
 
-**Principle A + Principle B → Criterion X**
+Terjadi jika satu karakteristik desain menjadi consequence yang relevan bagi beberapa Principles.
 
-Ini dapat terjadi ketika satu karakteristik desain sekaligus menjadi konsekuensi dari beberapa prinsip.
+### Many-to-Many
 
-### D. Many-to-Many
+~~~text
+Principles A+B+C
+        ↕
+Criteria X+Y+Z
+~~~
 
-Beberapa Principles menghasilkan beberapa Criteria dengan hubungan silang.
+Dimungkinkan dalam sistem yang kompleks, tetapi membutuhkan traceability yang lebih kuat.
 
-**Principle A + B + C ↔ Criterion X + Y + Z**
+---
 
-Pola ini mungkin lebih realistis untuk sistem kompleks, tetapi membutuhkan traceability yang lebih baik.
+## 5. Shared Criterion Dapat Sah
 
-## 3. Mengapa Shared Criterion Masuk Akal?
+Satu criterion dapat menjadi evidence of conformity bagi beberapa Principles jika hubungan masing-masing dapat dijelaskan.
 
-Bayangkan dua Design Principles berbeda:
+Contoh abstrak:
 
-- satu menuntut keterhubungan antar-komponen;
-- satu lagi menuntut koherensi lintas proses.
+~~~text
+Principle A ──┐
+              ├──→ Criterion X
+Principle B ──┘
+~~~
 
-Keduanya mungkin dapat diuji melalui criterion yang sama, misalnya keberadaan hubungan yang konsisten antar-komponen dan proses.
+Criterion X tidak menjadi Principle baru.
 
-Criterion tersebut tidak menjadi Principle baru.
-
-Ia merupakan **observable consequence** yang relevan terhadap lebih dari satu komitmen.
-
-Dengan demikian:
-
-> **Shared criterion tidak berarti shared principle.**
-
-## 4. Risiko Satu Criterion untuk Setiap Principle
-
-Jika repository memaksa setiap Principle memiliki Criterion unik, dapat terjadi:
-
-- criteria menjadi terlalu banyak;
-- terminology berulang;
-- evaluasi terfragmentasi;
-- satu karakteristik desain diukur berkali-kali;
-- hubungan antar-principles menjadi tidak terlihat.
-
-Maka one-to-one bukan standar yang perlu dipaksakan.
-
-## 5. Risiko Criterion yang Terlalu Umum
-
-Sebaliknya, shared criterion dapat menjadi terlalu luas.
-
-Misalnya:
-
-> “Desain harus baik.”
-
-Criterion tersebut tidak cukup inspectable.
-
-Criterion perlu memiliki hubungan yang dapat dijelaskan dengan prinsip yang diuji.
+Ia merupakan **observable design consequence** yang kebetulan relevan terhadap dua commitment.
 
 Maka:
 
-**shared ≠ generic.**
+> **Shared criterion ≠ shared principle.**
 
-Criterion bersama tetap harus memiliki definisi dan evidence yang jelas.
+---
 
-## 6. Criterion sebagai Observable Consequence
+## 6. Mengapa One-to-One Tidak Perlu Dipaksakan?
 
-P0015 memperkenalkan gagasan **inspectable consequence**.
+Memaksa satu criterion unik untuk setiap Principle dapat menyebabkan:
 
-P0016 memperjelas bahwa consequence tersebut dapat berasal dari lebih dari satu Principle.
+- criteria terlalu banyak;
+- istilah berulang;
+- pemeriksaan yang sama dilakukan berkali-kali;
+- hubungan antar-Principles tidak terlihat;
+- dan repository mengikuti simetri dokumentasi, bukan reasoning.
 
-Yang perlu diperiksa adalah:
+Karena itu hubungan Principle–Criterion sebaiknya mengikuti **substansi hubungan**, bukan jumlah.
 
-> Apakah criterion benar-benar menangkap konsekuensi yang relevan dari principle?
+---
 
-Bukan:
+## 7. Shared Tidak Berarti Generic
 
-> Apakah criterion memiliki nama yang sama dengan principle?
-
-Dengan demikian, desain evaluasi harus mengikuti reasoning, bukan simetri struktur repository.
-
-## 7. Traceability Matrix
-
-Jika satu criterion melayani beberapa principles, traceability menjadi penting.
+Risiko sebaliknya adalah membuat satu criterion yang terlalu luas.
 
 Contoh:
 
-| Principle | Criterion | Evidence |
-|---|---|---|
-| P-A | C-1 | E-1 |
-| P-B | C-1 | E-1, E-2 |
-| P-C | C-2 | E-3 |
+> “Desain harus baik.”
 
-Matrix tersebut menunjukkan bahwa C-1 memiliki dua hubungan berbeda:
+Ini bukan criterion yang memadai.
 
-**P-A → C-1**
+Criterion bersama tetap harus:
 
-dan
+- inspectable;
+- relevan;
+- memiliki scope;
+- memiliki evidence yang sesuai;
+- dan memiliki alasan hubungan dengan setiap Principle.
 
-**P-B → C-1**
+Dengan demikian:
 
-Namun alasan hubungan masing-masing tetap harus dapat dijelaskan.
+> **Shared ≠ generic.**
 
-## 8. Criterion Tidak Selalu Berarti Metric
+---
 
-Criterion dapat berbentuk:
+## 8. Arah Reasoning Tetap dari Principle
 
-- structural criterion;
-- behavioural criterion;
-- functional criterion;
-- relational criterion;
-- contextual criterion;
-- evidence-based criterion.
+Hubungan utama tetap:
 
-Karena itu, satu Design Principle dapat membutuhkan beberapa jenis evidence tanpa membutuhkan beberapa metric.
+~~~text
+DESIGN PRINCIPLE
+      ↓
+DESIGN IMPLICATION
+      ↓
+CRITERION
+      ↓
+EVIDENCE / TEST
+~~~
 
-Ini mempertahankan temuan P0015 bahwa measurability kuantitatif bukan syarat mutlak.
+Criterion tidak otomatis menghasilkan Principle.
 
-## 9. Criterion Hierarchy
+Namun hasil evaluasi dapat memberikan feedback:
 
-Dalam beberapa kasus, criterion dapat memiliki subcriteria.
+~~~text
+EVALUATION RESULT
+      ↓
+PROBE / REVIEW
+      ↓
+PRINCIPLE OR CRITERION REVIEW
+~~~
 
-Contoh:
+Jadi arsitektur reasoning bersifat iteratif, tetapi tidak membalikkan hubungan konseptual utama.
 
-**Principle A**
-→ **Criterion A**
-→ **Subcriterion A1**
-→ **Subcriterion A2**
+---
 
-Ini dapat membantu ketika konsekuensi desain kompleks.
+## 9. Satu Principle Dapat Memiliki Banyak Criteria
 
-Namun hierarchy tidak boleh dibuat hanya demi dokumentasi. Ia harus mencerminkan hubungan reasoning yang nyata.
-
-## 10. Uji untuk Shared Criterion
-
-Jika sebuah criterion digunakan oleh beberapa Principles, lakukan beberapa test.
-
-### Test 1 — Relevance
-
-Apakah criterion benar-benar relevan terhadap setiap principle yang dipetakan?
-
-### Test 2 — Distinct Reasoning
-
-Apakah alasan hubungan Principle A → Criterion X sama atau berbeda dari Principle B → Criterion X?
-
-Jika berbeda, reasoning masing-masing tetap perlu dicatat.
-
-### Test 3 — Sufficiency
-
-Apakah criterion cukup untuk menguji aspek principle yang dimaksud?
-
-### Test 4 — Non-Redundancy
-
-Apakah criterion menghindari pengukuran atau pemeriksaan yang sebenarnya sama dengan criterion lain?
-
-### Test 5 — Traceability
-
-Apakah hubungan Principle → Criterion → Evidence dapat ditelusuri?
-
-## 11. Criterion Tidak Menentukan Principle
-
-Arah reasoning tetap penting.
-
-Bukan:
-
-**Criterion → Principle**
-
-secara otomatis.
-
-Lebih tepat:
-
-**Principle → design implication → criterion**
-
-Kemudian evidence dapat menguji criterion.
-
-Namun feedback dapat berjalan kembali:
-
-**Evaluation result → PROBE → Principle review**
-
-Jadi sistem tetap bersifat iteratif.
-
-## 12. Ketika Satu Principle Memiliki Banyak Criterion
-
-Ini tidak berarti Principle terlalu lemah.
-
-Satu komitmen dapat memiliki beberapa konsekuensi desain.
+Satu commitment desain dapat mempunyai beberapa consequence.
 
 Misalnya secara abstrak:
 
-**Principle X**
-→ structural consequence;
-→ behavioural consequence;
-→ contextual consequence.
+~~~text
+Principle X
+ ├── structural consequence
+ ├── behavioural consequence
+ └── contextual consequence
+~~~
 
-Masing-masing dapat memiliki criterion sendiri.
+Masing-masing dapat membutuhkan criterion berbeda.
 
-Yang perlu dijaga adalah bahwa semua criterion tersebut tetap menjelaskan aspek yang berbeda dari principle yang sama.
+Hal tersebut tidak berarti Principle lemah.
 
-## 13. Ketika Banyak Principles Memiliki Criterion yang Sama
+Yang perlu diperiksa adalah apakah tiap criterion memang menangkap consequence yang berbeda dan relevan.
 
-Ini juga tidak berarti Principles redundan.
+---
 
-Dua Principles dapat memiliki alasan normatif berbeda tetapi menghasilkan tuntutan desain yang sama pada suatu bagian sistem.
+## 10. Banyak Principles Dapat Berbagi Criterion
 
-Criterion bersama hanya menunjukkan bahwa:
+Sebaliknya:
 
-> **satu karakteristik desain dapat sekaligus menjadi evidence of conformity untuk beberapa commitments.**
+~~~text
+Principle A ──┐
+Principle B ──┼──→ Criterion X
+Principle C ──┘
+~~~
 
-Tetapi jika hampir semua Principles selalu menggunakan criterion yang sama, perlu diperiksa apakah:
+dapat terjadi ketika satu design property menjadi consequence dari beberapa commitment.
 
-- Principles sebenarnya redundan;
-- criterion terlalu generic;
-- atau memang terdapat system-wide design property yang mendasari banyak prinsip.
+Namun setiap relationship tetap harus memiliki reasoning.
 
-## 14. Temuan
+Jika:
 
-1. Tidak ada keharusan satu Principle memiliki satu Criterion.
-2. Hubungan Principle-Criterion dapat one-to-one, one-to-many, many-to-one, atau many-to-many.
-3. Shared criterion dapat sah jika benar-benar relevan terhadap setiap Principle yang dipetakan.
-4. Criterion harus tetap inspectable dan tidak terlalu generic.
-5. Traceability menjadi semakin penting ketika relationships menjadi many-to-many.
-6. Criterion tidak harus berupa metric kuantitatif.
-7. Principle → design implication → criterion tetap menjadi arah utama reasoning.
-8. Evaluation dapat memberikan feedback untuk membuka kembali inquiry terhadap Principle.
-9. Banyak Principles yang berbagi criterion tidak otomatis berarti Principles redundan.
-10. Banyak criteria pada satu Principle tidak otomatis berarti Principle terlalu lemah.
+~~~text
+A → X
+B → X
+~~~
 
-## 15. Keputusan Sementara
+maka alasan A → X dan B → X tidak boleh dianggap identik hanya karena criterion-nya sama.
 
-**PASS — HUBUNGAN DESIGN PRINCIPLE DAN DESIGN CRITERION TIDAK HARUS SATU-KE-SATU.**
+---
 
-Working rule:
+## 11. Kapan Shared Criterion Menjadi Sinyal Masalah?
 
-> **Design Criteria harus diturunkan dari observable design implications, dan satu criterion dapat melayani beberapa Design Principles apabila hubungan dan reasoning-nya dapat dijelaskan serta ditelusuri.**
+Jika hampir seluruh Principles menggunakan criterion yang sama, perlu dilakukan review.
 
-Dengan demikian, TUMBUH sebaiknya menggunakan **traceability graph**, bukan struktur satu-ke-satu yang dipaksakan.
+Kemungkinan:
 
-## 16. Implikasi bagi Repository
+1. criterion terlalu generic;
+2. Principles memiliki redundancy;
+3. terdapat system-wide design property yang memang menjadi consequence banyak Principles;
+4. atau reasoning belum cukup dibedakan.
 
-Pemisahan berikut menjadi semakin penting:
+Shared criterion bukan masalah pada dirinya sendiri.
 
-**Principles**
-→ komitmen pengarah.
+Yang menjadi masalah adalah **relationship yang tidak dapat dipertanggungjawabkan**.
 
-**Criteria**
-→ kondisi/konsekuensi yang diperiksa.
+---
 
-**Evidence**
-→ bahan yang mendukung assessment.
+## 12. Criterion Hierarchy
 
-**Assessment**
-→ judgment tentang conformity.
+Criterion dapat memiliki subcriteria jika satu consequence memang membutuhkan beberapa pemeriksaan.
 
-**PROBE**
-→ inquiry dan reasoning yang dapat membuka kembali prinsip atau criterion.
+Contoh:
 
-Ini membantu mencegah folder Principles menjadi bercampur dengan mekanisme Assessment.
+~~~text
+Principle A
+   ↓
+Criterion A
+   ├── Subcriterion A1
+   └── Subcriterion A2
+~~~
 
-## 17. Next Inquiry
+Namun hierarchy hanya perlu dibuat jika mencerminkan struktur reasoning nyata.
+
+Jangan membuat hierarchy hanya demi kerapian dokumentasi.
+
+---
+
+## 13. Working Tests
+
+Untuk setiap hubungan Principle → Criterion:
+
+### Test 1 — Relevance
+
+Apakah criterion benar-benar relevan terhadap Principle?
+
+### Test 2 — Consequence
+
+Apakah criterion berasal dari design implication yang dapat dijelaskan?
+
+### Test 3 — Sufficiency
+
+Apakah criterion cukup untuk memeriksa consequence yang dimaksud?
+
+### Test 4 — Non-Redundancy
+
+Apakah criterion tidak sekadar menduplikasi pemeriksaan lain?
+
+### Test 5 — Traceability
+
+Apakah hubungan Principle → Implication → Criterion → Evidence dapat ditelusuri?
+
+Untuk shared criterion, tambahkan:
+
+### Test 6 — Relationship Specificity
+
+Apakah alasan hubungan criterion dengan setiap Principle dapat dijelaskan secara terpisah?
+
+Ini adalah working tests, bukan scoring.
+
+---
+
+## 14. Boundary
+
+P0016 **tidak** menetapkan:
+
+- criteria final TUMBUH;
+- format assessment final;
+- lokasi folder final;
+- metric tertentu;
+- atau hubungan konkret antar-Principles TUMBUH.
+
+Fokusnya hanya:
+
+> **menentukan apakah relationship Principle–Criterion harus satu-ke-satu.**
+
+---
+
+## 15. Repository Destination
+
+Hasil P0016 diarahkan ke:
+
+**Principles → Design Principles → design implications / criteria relationships**
+
+Posisi criteria dalam arsitektur repository belum ditetapkan pada P0016 dan menjadi pertanyaan P0017.
+
+---
+
+## 16. Implication for TUMBUH
+
+P0016 menghasilkan working rule:
+
+> **Design Criteria mengikuti observable design implications, bukan jumlah Design Principles.**
+
+Karena itu relationship dapat berupa:
+
+~~~text
+1 : 1
+1 : many
+many : 1
+many : many
+~~~
+
+selama relevance, inspectability, dan traceability dapat dipertanggungjawabkan.
+
+Ini memungkinkan repository merepresentasikan reasoning nyata tanpa memaksa setiap Principle mempunyai criterion unik.
+
+---
+
+## 17. Temuan Sementara
+
+1. **Design Principle dan Criterion memiliki fungsi berbeda.**
+2. **Tidak ada keharusan hubungan satu-ke-satu.**
+3. **Satu Principle dapat memiliki beberapa Criteria.**
+4. **Beberapa Principles dapat berbagi Criterion.**
+5. **Many-to-many dimungkinkan bila reasoning dan traceability memadai.**
+6. **Shared criterion tidak berarti shared Principle.**
+7. **Criterion bersama tetap harus spesifik dan inspectable.**
+8. **Arah utama reasoning tetap Principle → Implication → Criterion → Evidence.**
+9. **Relationship yang terlalu banyak atau terlalu generic perlu direview.**
+
+Temuan ini masih provisional.
+
+---
+
+## 18. Kesimpulan
+
+P0016 mendukung working rule:
+
+> **TUMBUH tidak perlu memaksakan satu Design Criterion untuk setiap Design Principle. Criterion harus mengikuti design consequence yang perlu diperiksa, dan dapat digunakan bersama oleh beberapa Principles apabila hubungan masing-masing relevan, dapat dijelaskan, dan dapat ditelusuri.**
+
+Dengan demikian, struktur evaluasi harus mengikuti **reasoning Principles**, bukan memaksakan simetri administratif.
+
+---
+
+## 19. Next Inquiry
 
 Pertanyaan berikutnya:
 
-> **Apakah Design Criteria seharusnya berada di dalam Principles, Assessment, atau menjadi lapisan konseptual tersendiri dalam arsitektur TUMBUH?**
+> **Di mana Design Criteria seharusnya berada dalam arsitektur TUMBUH agar tetap terhubung dengan Principles tetapi tidak bercampur dengan Assessment?**
 
-P0017 akan menguji posisi Design Criteria dalam hubungan:
+P0017 akan menguji posisi konseptual criteria dalam arsitektur TUMBUH.
 
-**Principles → Core Model → Assessment**
+---
 
-agar tidak terjadi tumpang tindih antar-folder.
+## 20. Status Inquiry
 
-## Status
+**Finding:** Relationship Principle–Criterion dapat one-to-one, one-to-many, many-to-one, atau many-to-many.
 
-**P0016 — selesai sebagai inquiry.**
+**Working conclusion:** Criterion mengikuti design consequence dan tidak harus unik untuk setiap Principle.
 
-**Temuan utama:** hubungan Design Principle dan Design Criterion dapat bersifat one-to-one, one-to-many, many-to-one, atau many-to-many. Yang penting adalah relevance, inspectability, dan traceability; bukan kesamaan jumlah.
+**Boundary:** Posisi criteria dalam architecture TUMBUH belum diputuskan.
 
-**Next inquiry:** P0017 — *Di mana Design Criteria seharusnya berada dalam arsitektur TUMBUH?*
+**Open question:** Di mana Design Criteria seharusnya berada?
