@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0072  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Cross-Philosophy Validation / Core Principles Inquiry
 
 ---
@@ -237,7 +237,19 @@ Namun belum ada perubahan langsung pada layer tersebut berdasarkan P0072 saja.
 
 ---
 
-## 14. Kesimpulan
+## 14. Repository Destination
+
+**Principles → Core Principles → Candidate Fundamental Commitments / Cross-Philosophy Validation**
+
+P0072 memperkuat metode pencarian Core Principles melalui konvergensi substantif antar-domain Philosophy, tanpa memaksa setiap domain menghasilkan prinsip tersendiri.
+
+## 15. Next Inquiry
+
+> **Apa yang dikatakan Human Development TUMBUH tentang arah dan hakikat perkembangan manusia, dan apakah ia memperkuat atau mengubah candidate fundamental commitments yang telah ditemukan?**
+
+P0073 akan menguji candidate tersebut terhadap substansi Human Development TUMBUH.
+
+## 16. Kesimpulan
 
 P0072 memperlihatkan bahwa Human Nature bukan sekadar domain terpisah, tetapi dapat menjadi **uji lintas-Philosophy** terhadap candidate Core Principles.
 
