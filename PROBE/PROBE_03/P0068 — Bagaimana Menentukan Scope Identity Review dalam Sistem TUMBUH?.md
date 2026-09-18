@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0068  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Impact Boundary Inquiry
 
 ---
@@ -465,7 +465,19 @@ Full-system reopening adalah exceptional outcome dan memerlukan evidence bahwa p
 
 ---
 
-## 27. Status Inquiry
+## 27. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Scope identity review mengikuti substantive semantic impact dan material consequence, dengan scope dan review depth dipisahkan.
+
+## 28. Next Inquiry
+
+> **Jika bounded identity review menemukan bahwa beberapa domain tetap coherent secara lokal tetapi bersama-sama menunjukkan pola ketegangan, kapan pola tersebut cukup untuk menjadi systemic coherence concern?**
+
+P0069 akan menguji boundary antara local coherence findings dan systemic coherence concern, tetap dalam konteks identity review Principles TUMBUH.
+
+## 29. Status Inquiry
 
 **Finding:** Scope identity review harus ditentukan berdasarkan substantive semantic impact dan material consequence, bukan repository connectivity. Scope dan depth perlu dipisahkan.
 
