@@ -4,10 +4,18 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0050  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Governance Inquiry
 
 ---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Disposition atas systemic tension dalam Principles TUMBUH setelah system-level coherence check.
+
+## TUMBUH Question
+
+**Bagaimana membedakan systemic tension yang dapat ditoleransi dari tension yang membutuhkan design resolution atau reopening Design Principle?**
 
 ## 1. Pertanyaan
 
@@ -243,3 +251,5 @@ Dengan demikian, coherence tidak berarti **absence of tension**, tetapi kemampua
 **Disposition:** `Tolerate | Design Resolution | Relationship Revision | Principle Reopening | Further PROBE`
 
 **Open question:** Bagaimana tension yang ditoleransi harus direpresentasikan secara eksplisit agar tidak dibaca sebagai contradiction pada review atau perubahan sistem berikutnya?
+
+**Repository destination:** Principles → Design Principles → Relational Traceability → Tension / Coherence / Disposition
