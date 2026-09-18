@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0066  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Governance / Traceability Inquiry
 
 ---
@@ -465,7 +465,19 @@ Dengan demikian TUMBUH menghindari dua kegagalan:
 
 ---
 
-## 24. Status Inquiry
+## 24. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Persistent disagreement diposisikan sebagai epistemic/review record yang terpisah dari current governance identity state.
+
+## 25. Next Inquiry
+
+> **Jika alternative claim terus muncul dan jumlahnya bertambah, bagaimana menentukan kapan kumpulan claim tersebut menunjukkan bahwa identity anchor saat ini sudah tidak memadai dan harus dibuka kembali secara substantif?**
+
+P0067 akan menguji trigger substantive reopening yang berbasis pola disagreement, tanpa menjadikan jumlah dissent sebagai automatic threshold.
+
+## 26. Status Inquiry
 
 **Finding:** Persistent epistemic disagreement sebaiknya direpresentasikan sebagai review/epistemic record yang terpisah dari current governance state. Ini memungkinkan satu official anchor tetap menjadi deterministic reference tanpa menghapus substantive disagreement.
 
