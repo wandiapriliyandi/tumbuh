@@ -1,34 +1,47 @@
 # P0036 — Apakah Design Implication Harus Selalu Diturunkan dari Satu Design Principle atau Dapat Muncul dari Kombinasi Beberapa Principles?
 
-## Pertanyaan
+## Status
 
-**Apakah sebuah Design Implication harus selalu dapat ditelusuri ke satu Design Principle, atau dapat muncul dari kombinasi beberapa Design Principles?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0036  
+**Status:** Revised  
+**Type:** Composite Design Implication Inquiry
 
-P0035 menemukan bahwa satu Design Principle dapat menghasilkan beberapa Design Implications. P0036 menguji arah sebaliknya: apakah satu implication harus memiliki satu parent principle, atau design reasoning dapat menghasilkan implication dari kombinasi beberapa principles.
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-Model sederhana sebelumnya adalah:
+**Object of Inquiry:** Design Principles TUMBUH, khususnya hubungan antara Design Principles dan Design Implications ketika satu consequence desain membutuhkan lebih dari satu commitment.
 
-**Design Principle → Design Implication**
+P0035 menemukan bahwa satu Principle dapat memiliki banyak implications. P0036 menguji arah sebaliknya: apakah satu implication harus memiliki satu parent Principle, atau dapat muncul dari kombinasi beberapa Principles.
 
-Model ini berguna untuk traceability.
+## 2. TUMBUH Question
 
-Namun dalam sistem yang memiliki banyak Design Principles, sebuah design consequence dapat muncul karena beberapa commitments bekerja bersama.
+> **Apakah sebuah Design Implication harus selalu dapat ditelusuri ke satu Design Principle, atau dapat muncul dari kombinasi beberapa Design Principles?**
 
-Model alternatif:
+## 3. Model Dasar
 
-**Principle A + Principle B → Design Implication X**
+Model sederhana:
 
-Pertanyaan utamanya bukan apakah model ini lebih kompleks, tetapi apakah reasoning tersebut memang diperlukan dan dapat dipertanggungjawabkan.
+~~~text
+Design Principle → Design Implication
+~~~
 
-## 2. Satu Principle sebagai Sumber Tunggal
+Model ini penting karena membuat attribution dan traceability sederhana.
 
-Banyak implications memang dapat ditelusuri ke satu principle.
+Namun terdapat kemungkinan:
 
-Model:
+~~~text
+Principle A + Principle B
+↓
+Design Implication X
+~~~
 
-**P1 → I1**
+Dalam model kedua, X bukan sekadar consequence dari A atau B secara individual, tetapi muncul dari **joint reasoning**.
+
+## 4. Single-Parent Implication
+
+Single-parent implication tetap merupakan pola penting.
 
 Keuntungannya:
 
@@ -37,390 +50,385 @@ Keuntungannya:
 - conformance lebih mudah diperiksa;
 - relationship lebih mudah dilacak.
 
-Karena itu single-parent implication tetap merupakan pola penting.
+Karena itu composite reasoning tidak menggantikan single-source reasoning.
 
-## 3. Kombinasi Principles sebagai Sumber
+## 5. Composite Design Implication
 
-Ada kemungkinan lain:
+Working definition:
 
-**P1**
+> **Composite Design Implication adalah consequence desain yang membutuhkan pertimbangan substantif atas dua atau lebih Design Principles secara bersama.**
+
+Model:
+
+~~~text
+P1
 +
-**P2**
-→
-**I1**
+P2
+↓
+I1
+~~~
 
-Dalam kasus ini, I1 bukan sekadar implication dari P1 atau P2 secara individual.
+P1 dan P2 tetap memiliki identity masing-masing.
 
-Ia muncul karena kedua commitments bekerja bersama.
+Yang bersifat composite adalah **reasoning menuju implication**, bukan identity Principles.
 
-Ini dapat disebut **composite design implication**.
+## 6. Kapan Kombinasi Benar-Benar Diperlukan?
 
-## 4. Kapan Kombinasi Benar-Benar Diperlukan?
+Combination layak digunakan jika:
 
-Kombinasi beberapa principles layak digunakan jika:
-
-1. P1 sendiri tidak cukup menjelaskan I1;
-2. P2 sendiri juga tidak cukup menjelaskan I1;
+1. P1 sendiri tidak cukup menjelaskan implication;
+2. P2 sendiri tidak cukup menjelaskan implication;
 3. I1 membutuhkan joint commitment;
-4. reasoning dapat menjelaskan kontribusi masing-masing principle;
-5. implication tidak sebenarnya merupakan hidden principle baru.
+4. kontribusi masing-masing dapat dijelaskan;
+5. I1 bukan hidden Principle baru.
 
-Jika P1 sendiri sudah cukup, tidak perlu memasukkan P2 hanya karena keduanya relevan.
+Jika P1 sendiri sudah cukup, P2 tidak perlu dicantumkan hanya karena relevan secara umum.
 
-## 5. Avoiding False Combination
+## 7. False Combination
 
-Ada risiko bahwa semua design implications diklaim sebagai hasil kombinasi banyak principles.
+Ada risiko over-attribution:
 
-Ini membuat traceability terlalu rumit.
+~~~text
+P1 → I1
+~~~
 
-Contoh:
+tetapi karena P2 juga relevan dalam konteks yang sama ditulis:
 
-**P1 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
-tetapi karena P2 juga kebetulan relevan, sistem menulis:
+Jika P2 tidak substantively contribute, kombinasi tersebut hanya menambah complexity.
 
-**P1 + P2 → I1**
+Working rule:
 
-Jika P2 tidak diperlukan untuk membenarkan implication, relationship tersebut hanya menambah complexity.
+> **Combination requires substantive contribution, not mere co-occurrence.**
 
-Maka kombinasi harus memiliki **reasoning necessity**, bukan sekadar association.
+## 8. Contribution Test
 
-## 6. Contribution Test
-
-Untuk composite implication, tanyakan:
+Untuk setiap parent Principle, tanyakan:
 
 ### Contribution of P1
 
-Apa yang P1 sumbangkan?
+Apa yang P1 sumbangkan terhadap I?
 
 ### Contribution of P2
 
-Apa yang P2 sumbangkan?
+Apa yang P2 sumbangkan terhadap I?
 
 ### Joint Effect
 
-Apa yang hanya muncul ketika keduanya dipertimbangkan bersama?
+Apa yang hanya dapat dijelaskan ketika keduanya dipertimbangkan bersama?
 
-Jika kontribusi salah satu tidak dapat dijelaskan, kombinasi perlu ditinjau.
+Jika kontribusi salah satu tidak dapat dijelaskan, parent tersebut perlu dikeluarkan atau status hubungannya ditinjau.
 
-## 7. Counterfactual Removal Test
+## 9. Counterfactual Removal Test
 
-Salah satu test:
+Uji:
 
-> **Jika P1 dihapus dari reasoning, apakah I1 masih dapat dipertahankan dengan dasar yang sama?**
+> **Jika P1 dihapus dari reasoning, apakah I masih dapat dipertahankan dengan reasoning yang sama?**
 
 Kemudian:
 
-> **Jika P2 dihapus, apakah I1 masih dapat dipertahankan?**
+> **Jika P2 dihapus, apakah I masih dapat dipertahankan?**
 
-Jika menghapus salah satu mengubah reasoning secara substantif, principle tersebut mungkin benar-benar merupakan dependency.
+Jika penghapusan salah satu mengubah reasoning secara substantif, Principle tersebut mungkin merupakan necessary dependency.
 
-Namun jika implication tetap dapat dijustifikasi tanpa salah satunya, hubungan tersebut mungkin hanya contextual association.
+Jika implication tetap dapat dijustifikasi tanpa salah satunya, kombinasi mungkin tidak diperlukan.
 
-## 8. Logical AND Tidak Harus Formal
+## 10. Logical AND Tidak Harus Formal
 
-“P1 + P2” tidak berarti TUMBUH harus menggunakan logika formal.
+Notasi:
 
-Ini hanya menunjukkan:
+**P1 + P2 → I**
 
-> implication membutuhkan consideration dari dua commitments secara bersama.
+tidak berarti TUMBUH membutuhkan formal mathematical logic.
 
-Representasinya dapat tetap berupa argumentasi prose.
+Notasi tersebut hanya menunjukkan bahwa implication membutuhkan **joint consideration** dari beberapa commitments.
 
-## 9. Combination Tidak Sama dengan Conflict
+Representasinya dapat tetap berupa argumentasi yang dapat dibaca dan ditelusuri.
 
-Beberapa principles dapat:
+## 11. Combination vs Conflict
 
-- support satu sama lain;
+Composite implication tidak sama dengan conflict.
+
+Principles dapat:
+
+- support;
 - complement;
 - constrain;
 - tension;
 - conflict.
 
-Composite implication terutama relevan ketika commitments bekerja bersama.
+Composite implication terutama muncul ketika beberapa commitments berkontribusi terhadap satu consequence.
 
-Jika P1 dan P2 conflict, implication mungkin memerlukan:
+Jika principles conflict, reasoning mungkin memerlukan trade-off atau conditional priority sebelum menghasilkan implication.
 
-- trade-off analysis;
-- conditional priority;
-- design decision.
-
-Maka tidak setiap relationship menghasilkan composite implication.
-
-## 10. Relationship Tetap Penting
+## 12. Relationship sebagai Bagian Reasoning
 
 P0021–P0027 menunjukkan bahwa Design Principles memiliki relational structure.
 
-Composite implication merupakan salah satu konsekuensi yang mungkin muncul dari relational structure tersebut.
+Maka:
 
-Model:
-
-**P1**
+~~~text
+P1
 ↕ relationship
-**P2**
+P2
 ↓ joint reasoning
-**I**
+I
+~~~
 
-Dengan demikian implication tidak berdiri di luar Principle System.
+merupakan salah satu bentuk relational design reasoning.
 
-## 11. Composite Implication dan Design Logic
+Namun ini belum menjadi alasan untuk membuat formal Design Grammar. P0021 masih menempatkan Design Logic sebagai working concept.
 
-P0021 menemukan bahwa TUMBUH sebaiknya dipahami sebagai Principle System, tetapi belum cukup evidence untuk menetapkan formal Design Grammar.
+## 13. Composite Implication dan Scope
 
-Composite implication memperkuat kebutuhan akan **relational design reasoning**, tetapi belum membuktikan bahwa TUMBUH membutuhkan formal grammar.
-
-Karena itu istilah “Design Logic” tetap digunakan sebagai working concept, bukan struktur final.
-
-## 12. Traceability Graph
-
-Single implication:
-
-**P1 → I1**
-
-Composite implication:
-
-**P1 →**
-  
-**P2 → I1**
-
-Secara konseptual ini lebih tepat dipahami sebagai graph daripada tree.
-
-Namun repository belum perlu mengadopsi graph database atau technical graph.
-
-Yang penting relationship dan reasoning dapat ditelusuri.
-
-## 13. Composite Implication dan Criteria
+Composite implication tidak boleh memperoleh scope lebih luas daripada basis yang membentuknya tanpa justification tambahan.
 
 Jika:
 
-**P1 + P2 → I1**
+- P1 berlaku pada scope A;
+- P2 berlaku pada scope B;
+
+maka working expectation:
+
+> **I berlaku pada bagian scope yang secara reasoning dapat dibenarkan, sering kali terkait dengan A ∩ B.**
+
+Extension di luar intersection membutuhkan justification tambahan.
+
+## 14. Composite Implication dan Condition
+
+Model dapat menjadi:
+
+~~~text
+P1 + P2 + Condition C
+↓
+I1
+~~~
+
+Semakin banyak dependencies, semakin penting menjaga readability dan traceability.
+
+Complexity menjadi review trigger, bukan automatic rejection.
+
+## 15. Necessary vs Contributing Parent
+
+Tidak semua parent memiliki status yang sama.
+
+### Necessary Parent
+
+Tanpa Principle tersebut, implication tidak dapat dipertahankan dengan reasoning yang sama.
+
+### Contributing Parent
+
+Principle substantively memperkuat atau membentuk reasoning, tetapi bukan satu-satunya dependency yang mutlak.
+
+### Contextual Association
+
+Principle hanya muncul dalam context yang sama tanpa contribution yang dapat ditunjukkan.
+
+Tidak semua association perlu masuk ke composite reasoning.
+
+## 16. Minimality Test
+
+Composite reasoning sebaiknya minimal:
+
+> **Apakah semua parent Principles yang dicantumkan benar-benar diperlukan atau substantively contributing?**
+
+Jika tidak, dependency yang tidak perlu sebaiknya dihapus.
+
+Tujuannya bukan meminimalkan jumlah Principles secara mekanis, tetapi menjaga reasoning tetap dapat dipahami.
+
+## 17. Hidden Principle Test
+
+Composite implication dapat menyembunyikan Principle lain.
+
+Misalnya:
+
+~~~text
+P1 + P2 → I
+~~~
+
+tetapi I ternyata hanya dapat dibenarkan jika terdapat commitment P3.
+
+Maka perlu diperiksa apakah P3:
+
+- independent Design Principle;
+- assumption;
+- design decision;
+- atau menunjukkan P1/P2 perlu direformulasi.
+
+Composite implication tidak boleh menjadi tempat menyembunyikan normative commitment baru.
+
+## 18. Composite Implication dan Criteria
+
+Jika:
+
+~~~text
+P1 + P2 → I1
+~~~
 
 maka:
 
-**I1 → C1/C2 → Evidence**
+~~~text
+I1 → Criteria → Evidence
+~~~
 
-Criteria dapat menguji consequence yang dihasilkan dari kombinasi tersebut.
+Criteria menguji consequence composite tersebut.
 
-Conformance terhadap P1 atau P2 secara individual tidak otomatis membuktikan conformance terhadap I1.
+Conformance terhadap P1 dan P2 secara individual tidak otomatis membuktikan conformance terhadap I1.
 
-## 14. Composite Implication dan Evidence
+## 19. Composite Implication dan Evidence
 
 Evidence dapat mendukung:
 
 - P1;
 - P2;
 - relationship P1–P2;
-- composite implication I1.
+- implication I1.
 
-Tidak selalu diperlukan evidence baru untuk setiap node.
+Tidak harus ada evidence baru untuk setiap node.
 
-Tetapi reasoning yang menghubungkan P1 dan P2 ke I1 harus dapat diperiksa.
+Namun joint reasoning harus tetap dapat diperiksa.
 
-Ini konsisten dengan P0025 bahwa evidence principle dan evidence relationship adalah hal yang berbeda.
+Ini konsisten dengan pembedaan P0025 antara evidence untuk Principle dan justification untuk relationship.
 
-## 15. Hidden Principle Test
+## 20. Composite Implication dan Design Decision
 
-Composite implication dapat sebenarnya menyembunyikan principle ketiga.
-
-Misalnya:
-
-**P1 + P2 → I1**
-
-tetapi I1 ternyata membutuhkan commitment:
-
-**P3**
-
-yang tidak pernah dinyatakan.
-
-Maka jangan menganggap P3 sebagai implication.
-
-Perlu diuji apakah:
-
-- P3 memang independent Design Principle;
-- P3 adalah assumption;
-- P3 adalah design decision;
-- atau P1/P2 perlu direformulasi.
-
-## 16. Combination dan Scope
-
-Composite implication harus memiliki scope yang konsisten dengan parent principles.
-
-Jika:
-
-- P1 berlaku pada A;
-- P2 berlaku pada B;
-
-maka I1 hanya dapat diklaim pada intersection yang relevan:
-
-**A ∩ B**
-
-kecuali terdapat reasoning tambahan yang membenarkan extension.
-
-Ini penting agar composite implication tidak memperoleh scope lebih luas daripada basisnya.
-
-## 17. Combination dan Conditions
-
-Model dapat menjadi:
-
-**P1 + P2 + Condition C → I1**
-
-Ini masih dapat valid jika condition memang diperlukan.
-
-Tetapi semakin banyak dependencies, semakin penting memastikan implication masih dapat dipahami.
-
-Complexity adalah alasan untuk review, bukan automatic rejection.
-
-## 18. Necessary vs Contributing Principle
-
-Tidak semua principle yang berkontribusi merupakan necessary dependency.
-
-Working distinction:
-
-### Necessary Parent
-
-Tanpa principle tersebut, implication tidak dapat dipertahankan dengan reasoning yang sama.
-
-### Contributing Parent
-
-Principle membantu atau memperkaya reasoning, tetapi implication masih dapat dipertahankan tanpa principle tersebut.
-
-### Contextual Association
-
-Principle muncul dalam konteks yang sama tetapi tidak memiliki causal atau normative contribution yang dapat ditunjukkan.
-
-Hanya necessary atau substantively contributing relationships yang layak dimasukkan ke composite reasoning.
-
-## 19. Minimality Test
-
-Composite reasoning sebaiknya **minimal**.
-
-Pertanyaan:
-
-> **Apakah semua parent principles yang dicantumkan benar-benar diperlukan atau substantively contributing?**
-
-Jika tidak, remove unnecessary dependency.
-
-Ini menjaga traceability tetap readable.
-
-## 20. Combination dan Principle Identity
-
-Composite implication tidak otomatis membuat principles menjadi satu principle.
-
-**P1 tetap P1.**
-
-**P2 tetap P2.**
-
-Yang berubah adalah consequence yang muncul ketika keduanya dipertimbangkan bersama.
-
-Ini konsisten dengan P0027 bahwa relationship dan downstream consequence dapat berubah tanpa mengubah identity principle.
-
-## 21. Combination dan Design Decision
-
-Composite implication tetap bukan design decision.
-
-Jika reasoning sampai pada:
-
-> “karena P1 dan P2, TUMBUH harus menggunakan konfigurasi X”
-
-maka konfigurasi X merupakan design decision yang masih perlu justification.
+Composite implication tidak otomatis menjadi design decision.
 
 Model:
 
-**P1 + P2 → I1**
-→ **Design Alternatives**
-→ **Decision**
+~~~text
+P1 + P2
+↓
+Composite Implication
+↓
+Design Alternatives
+↓
+Design Decision
+~~~
 
-Principles membatasi design space; mereka tidak otomatis memilih satu configuration.
+Jika reasoning menghasilkan konfigurasi tertentu, konfigurasi tersebut tetap merupakan decision yang membutuhkan justification sesuai levelnya.
 
-## 22. Kapan Composite Implication Tidak Perlu Dicatat?
+## 21. Kapan Composite Implication Perlu Dicatat?
 
-Tidak semua kombinasi reasoning harus menjadi explicit repository object.
+Tidak semua joint reasoning harus menjadi explicit repository object.
 
-Jika kombinasi hanya merupakan reasoning sementara dan tidak memiliki consequence traceability yang penting, cukup berada dalam analysis record.
+Jika hanya merupakan reasoning sementara dan tidak memiliki consequence traceability penting, ia dapat tetap berada dalam analysis record.
 
-Composite implication layak dicatat ketika:
+Composite implication layak direpresentasikan secara eksplisit jika:
 
-- memiliki consequence substantif;
+- consequence substantif;
 - digunakan berulang;
 - memengaruhi Core Model;
-- memengaruhi criteria;
-- atau penting untuk governance traceability.
+- memengaruhi Design Criteria;
+- atau penting untuk traceability/review.
 
-## 23. Governance
+## 22. Representation Tidak Harus Graph Database
 
-Composite implication dapat menjadi lebih sulit direview karena melibatkan beberapa principles.
+Secara konseptual hubungan ini menyerupai graph:
 
-Review perlu memeriksa:
+~~~text
+P1 ─┐
+    ├──→ I1
+P2 ─┘
+~~~
 
-1. identity setiap parent principle;
-2. relationship antar-parent;
-3. joint reasoning;
-4. scope intersection;
-5. implication;
-6. evidence;
-7. downstream consequence.
+Namun repository tidak perlu menggunakan graph database atau struktur teknis khusus.
 
-Ini bukan alasan untuk menghindari composite reasoning.
+Yang dibutuhkan adalah kemampuan menelusuri:
 
-Ini alasan untuk membuat reasoning-nya explicit.
+**Parent Principles → Joint Reasoning → Implication**
 
-## 24. Temuan
+## 23. Boundary
 
-1. Tidak semua Design Implication harus memiliki satu parent principle.
-2. Single-parent implication tetap merupakan pola normal.
-3. Composite implication dapat muncul dari kombinasi beberapa principles.
-4. Combination harus memiliki reasoning necessity atau substantive contribution.
-5. Co-occurrence tidak cukup.
-6. Contribution dan counterfactual tests dapat membantu memeriksa dependency.
-7. Composite implication tidak sama dengan conflict.
-8. Relationship antar-principles dapat menjadi bagian dari reasoning.
-9. Composite implication dapat membutuhkan condition dan scope intersection.
-10. Evidence untuk parent principles, relationship, dan implication perlu dibedakan secara konseptual.
-11. Hidden principle harus diperiksa.
-12. Composite reasoning sebaiknya minimal agar traceability tidak menjadi terlalu kompleks.
-13. Composite implication tidak menggabungkan identity principles.
-14. Composite implication tidak otomatis menjadi design decision.
-15. Tidak semua kombinasi reasoning harus menjadi object repository tersendiri.
-16. Composite implications memperkuat kebutuhan relational design reasoning tetapi belum cukup untuk menetapkan formal Design Grammar.
+P0036 **tidak**:
 
-## 25. Keputusan Sementara
+- menetapkan formal logic untuk Principle reasoning;
+- mewajibkan setiap implication memiliki multiple parents;
+- menetapkan graph database;
+- menjadikan composite implication sebagai Principle baru;
+- atau menetapkan Design Grammar sebagai struktur final.
 
-**PASS — DESIGN IMPLICATION DAPAT MUNCUL DARI KOMBINASI BEBERAPA DESIGN PRINCIPLES, SELAMA KONTRIBUSI MASING-MASING DAPAT DIJELASKAN DAN JOINT REASONING-NYA SUBSTANTIF.**
+Fokusnya adalah **kapan kombinasi Principles diperlukan untuk menjelaskan Design Implication TUMBUH**.
 
-Working rule:
+## 24. Repository Destination
 
-> **TUMBUH tidak perlu memaksakan one-principle-to-one-implication traceability. Sebuah Design Implication dapat memiliki satu atau beberapa parent Design Principles. Untuk composite implication, setiap parent harus memiliki kontribusi yang dapat dijelaskan, scope dan condition harus konsisten, serta joint reasoning harus dapat ditelusuri.**
+Hasil P0036 diarahkan ke:
 
-## 26. Implikasi bagi Repository
+**Principles → Design Principles → Design Implications → composite reasoning / traceability**
 
-Traceability sebaiknya mendukung dua pola:
+Repository sebaiknya mendukung minimal dua pola:
 
-**Single-source**
-
-**Principle → Implication**
+~~~text
+Single:
+Principle → Implication
+~~~
 
 dan:
 
-**Composite**
+~~~text
+Composite:
+Principle A + Principle B → Implication
+~~~
 
-**Principle A + Principle B → Implication**
+Parent, scope, condition, rationale, evidence, dan consequence perlu dapat ditelusuri bila composite implication memiliki fungsi substantif.
 
-Tidak perlu membuat struktur folder baru.
+## 25. Implikasi bagi TUMBUH
 
-Yang diperlukan adalah kemampuan mencatat parent principles dan rationale hubungan ketika composite implication memiliki consequence substantif.
+Working model:
 
-## 27. Next Inquiry
+> **Design Implication dapat merupakan consequence dari satu Principle atau hasil joint reasoning beberapa Principles.**
 
-P0037 akan menguji:
+Ini penting karena TUMBUH tidak harus memaksa semua design reasoning menjadi tree sederhana.
 
-> **Jika satu Design Implication muncul dari kombinasi beberapa Design Principles, apakah implication tersebut perlu menjadi object yang memiliki identity dan lifecycle sendiri?**
+Namun semakin banyak parent Principles, semakin penting **minimality, contribution, scope, condition, dan traceability**.
 
-Pertanyaan ini mengikuti konsekuensi langsung dari composite implication: jika implication memiliki reasoning, evidence, criteria, dan downstream consequences sendiri, mungkin ia membutuhkan governance status yang lebih eksplisit.
+## 26. Temuan Sementara
 
-## Status
+1. Single-parent implication tetap merupakan pola normal.
+2. Design Implication dapat muncul dari kombinasi beberapa Design Principles.
+3. Composite implication membutuhkan substantive joint reasoning.
+4. Co-occurrence tidak cukup.
+5. Contribution dan counterfactual removal dapat membantu menguji dependency.
+6. Necessary parent berbeda dari contributing parent.
+7. Scope composite implication harus dapat dipertanggungjawabkan.
+8. Conditions dapat menjadi bagian dari composite reasoning.
+9. Hidden Principle harus diperiksa.
+10. Composite implication tidak menggabungkan identity Principles.
+11. Evidence untuk parent, relationship, dan implication perlu dibedakan.
+12. Composite implication tidak otomatis menjadi design decision.
+13. Tidak semua joint reasoning perlu menjadi repository object.
+14. Composite reasoning memperkuat kebutuhan relational design reasoning, tetapi belum membuktikan kebutuhan formal Design Grammar.
+15. Traceability perlu mendukung single dan composite patterns.
 
-**P0036 — selesai sebagai inquiry.**
+Temuan ini masih provisional.
 
-**Temuan utama:** Design Implication tidak harus selalu berasal dari satu Design Principle. Composite implication valid ketika beberapa principles memiliki kontribusi substantif terhadap joint reasoning, dengan scope, condition, evidence, dan traceability yang jelas.
+## 27. Kesimpulan
 
-**Next inquiry:** P0037 — *Apakah Composite Design Implication Membutuhkan Identity dan Lifecycle Sendiri?*
+P0036 mendukung working rule:
+
+> **Design Implication tidak harus selalu berasal dari satu Design Principle. Composite Design Implication dapat digunakan ketika dua atau lebih Principles memberikan kontribusi substantif terhadap joint reasoning yang menghasilkan consequence desain tertentu. Setiap parent harus memiliki kontribusi yang dapat dijelaskan, scope dan condition harus konsisten, dan reasoning harus tetap traceable.**
+
+Dengan demikian:
+
+**Multiplicity of parents ≠ merger of Principles.**
+
+Yang menjadi composite adalah **design reasoning**, bukan Principle identity.
+
+## 28. Next Inquiry
+
+> **Jika sebuah Composite Design Implication memiliki identity, criteria, evidence, dan downstream consequences sendiri, apakah ia membutuhkan identity dan lifecycle sendiri?**
+
+P0037 akan menguji apakah Design Implication tetap cukup sebagai consequence yang ditelusuri, atau pada titik tertentu membutuhkan status, revision, dan governance yang lebih eksplisit.
+
+## 29. Status Inquiry
+
+**Finding:** Design Implication dapat memiliki satu atau beberapa parent Principles.
+
+**Working conclusion:** Composite implication valid jika joint reasoning substantif dan setiap parent memiliki kontribusi yang dapat dijelaskan.
+
+**Boundary:** Belum menentukan apakah composite implication memerlukan identity/lifecycle tersendiri.
+
+**Open question:** Apakah Design Implication dapat menjadi governance object?
