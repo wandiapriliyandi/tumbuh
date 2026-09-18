@@ -1,72 +1,63 @@
 # P0024 — Apakah Relasi Antar-Design Principles Perlu Memiliki Arah?
 
-## Pertanyaan
+## Status
 
-Apakah relasi antar-Design Principles dalam TUMBUH perlu dipahami sebagai hubungan directional, atau cukup sebagai hubungan simetris?
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0024  
+**Status:** Revised  
+**Type:** Design Principles Relational Semantics Inquiry
 
-P0023 menemukan bahwa TUMBUH membutuhkan relational traceability ketika hubungan antar-principle memiliki konsekuensi terhadap design reasoning. P0024 menguji struktur relasi tersebut lebih lanjut.
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-Tidak semua relasi memiliki bentuk yang sama.
+**Object of Inquiry:** Design Principles TUMBUH, khususnya semantic directionality dalam relasi antar-Design Principles.
 
-Beberapa relasi tampak jelas memiliki arah:
-- A supports B;
-- A depends-on B;
-- A constrains B;
-- A refines B.
+P0024 tidak menetapkan hierarchy. Fokusnya adalah apakah arah merupakan bagian dari makna relasi dan kapan arah diperlukan untuk menjaga reasoning tetap dapat ditelusuri.
 
-Sementara relasi lain tampak lebih dekat dengan hubungan dua arah:
-- A complements B;
-- A tensions-with B.
+## 2. TUMBUH Question
 
-Pertanyaannya: apakah semua relasi perlu diperlakukan dengan arah yang sama?
+> **Apakah relasi antar-Design Principles dalam TUMBUH perlu dipahami sebagai hubungan directional, atau cukup sebagai hubungan simetris?**
 
-## 2. Directional Relation
+P0023 menemukan kebutuhan relational traceability. P0024 menguji bentuk semantic relationship yang diperlukan.
+
+## 3. Directional Relation
 
 Relasi directional memiliki source dan target yang berbeda.
 
 Contoh:
 
-A → supports → B
+`A → supports → B`
 
-Artinya A memiliki fungsi relasional terhadap B.
+Jika dibalik menjadi:
 
-Jika dibalik:
-
-B → supports → A
+`B → supports → A`
 
 maknanya belum tentu sama.
 
-Hal ini menunjukkan bahwa arah merupakan bagian dari semantic relation, bukan sekadar cara menggambar graph.
+Karena itu directionality dapat menjadi bagian dari **semantic content**, bukan sekadar cara menggambar.
 
-## 3. Symmetric Relation
+## 4. Symmetric Relation
 
-Relasi simetris berlaku jika:
+Relasi symmetric berlaku ketika:
 
-A R B
+`A R B`
 
-dan secara substantif:
+dan:
 
-B R A
+`B R A`
 
-memiliki makna yang setara.
+memiliki makna substantif yang sama.
 
-Contoh yang paling mungkin adalah tensions-with.
+Contoh yang mungkin:
 
-Jika A dan B berada dalam genuine trade-off, maka:
+`A tensions-with B`
 
-A tensions-with B
+jika keduanya benar-benar berada dalam genuine trade-off.
 
-secara relasional juga berarti:
+Representasi tetap dapat disimpan sekali untuk menghindari duplication.
 
-B tensions-with A.
-
-Namun representasi satu arah tetap dapat digunakan untuk menghindari duplikasi.
-
-## 4. Tidak Semua Relasi Simetris atau Directional Secara Absolut
-
-Yang penting bukan memaksakan satu model.
+## 5. Tidak Semua Relasi Sama
 
 Working classification:
 
@@ -78,103 +69,57 @@ Working classification:
 | refines | directional |
 | complements | cenderung symmetric |
 | tensions-with | cenderung symmetric |
-| applies-with | dapat directional atau conditional |
+| applies-with | dapat conditional/directional |
 | derives-from | directional |
 
-Klasifikasi ini bersifat provisional.
+Klasifikasi ini provisional.
 
-Relasi perlu ditentukan berdasarkan makna yang benar-benar dimaksud, bukan berdasarkan bentuk label.
+Jenis relasi harus ditentukan berdasarkan **makna hubungan**, bukan bentuk label atau diagram.
 
-## 5. Arah Membantu Traceability
+## 6. Mengapa Arah Penting bagi TUMBUH?
 
-Directionality sangat berguna ketika pertanyaan yang ingin dijawab adalah:
+Directionality membantu menjawab:
 
-> “Principle ini berasal dari mana?”
-
-atau:
-
-> “Principle ini memengaruhi apa?”
-
-atau:
-
-> “Apa yang mempersempit interpretasi principle ini?”
+- Principle ini memengaruhi apa?
+- Principle ini bergantung pada apa?
+- Apa yang mempersempit interpretasinya?
+- Dari mana reasoning tertentu bergerak?
 
 Contoh:
 
-Core Principle → Design Principle
+`Core Principle → Design Principle`
 
 atau:
 
-Design Principle → Design Implication
+`Design Principle → Design Implication`
 
-adalah relasi directional.
+merupakan hubungan directional.
 
-Tanpa arah, hubungan tersebut kehilangan sebagian informasi reasoning.
+Tanpa arah, sebagian informasi reasoning dapat hilang.
 
-## 6. Arah Tidak Sama dengan Hierarki
+## 7. Directionality ≠ Hierarchy
 
 Jika:
 
-A refines B
+`A refines B`
 
-maka A memiliki hubungan directional terhadap B.
+arah menunjukkan fungsi hubungan.
 
-Tetapi ini tidak otomatis berarti:
+Ia tidak berarti:
 
-A > B
-
-Arah menunjukkan relational semantics, bukan superiority.
+`A > B`
 
 Demikian pula:
 
-A depends-on B
+`A depends-on B`
 
-tidak berarti B merupakan principle yang lebih tinggi secara normatif.
+tidak berarti B secara normatif lebih tinggi.
 
-## 7. Relasi Bidirectional
+**Directionality menunjukkan relational semantics, bukan superiority.**
 
-Ada juga hubungan yang secara substantif dapat berjalan dua arah.
+## 8. Symmetric ≠ Reciprocal
 
-Misalnya:
-
-A complements B
-
-A melengkapi B, dan B melengkapi A.
-
-Namun repository tidak harus menyimpan dua record:
-
-A complements B
-B complements A
-
-Cukup satu relation dengan semantic type yang ditandai sebagai symmetric.
-
-Ini menghindari duplication.
-
-## 8. Relasi yang Tampak Simetris tetapi Dapat Menyimpan Arah
-
-Beberapa hubungan perlu diperiksa lebih hati-hati.
-
-Misalnya:
-
-A constrains B
-
-Jika B juga memengaruhi batas penerapan A, hubungan sebenarnya dapat berubah menjadi dua relasi:
-
-A constrains B
-
-dan
-
-B constrains A
-
-Ini bukan lagi satu relasi symmetric secara otomatis.
-
-Karena itu, jangan mengubah relasi menjadi symmetric hanya karena kedua principles saling memengaruhi.
-
-Yang perlu dicatat adalah jenis pengaruhnya.
-
-## 9. Symmetric dan Reciprocal
-
-Ada perbedaan antara symmetric dan reciprocal.
+Ini merupakan distinction penting.
 
 ### Symmetric
 
@@ -182,96 +127,109 @@ A R B berarti B R A dengan makna yang sama.
 
 ### Reciprocal
 
-A memengaruhi B dan B memengaruhi A, tetapi arah dan fungsi masing-masing berbeda.
+A memengaruhi B dan B memengaruhi A, tetapi fungsi masing-masing berbeda.
+
+Misalnya:
+
+`A constrains B`
+
+dan:
+
+`B constrains A`
+
+Jika keduanya benar-benar terjadi, ini lebih tepat dipahami sebagai **dua directional relations** daripada satu symmetric relation.
+
+## 9. Conditional Directionality
+
+Relasi dapat bergantung pada scope atau condition.
+
+Misalnya:
+
+`A supports B under condition X`
+
+tetapi pada kondisi lain:
+
+`A tensions-with B under condition Y`
+
+Karena itu relational semantics perlu dapat menampung conditionality jika kondisi tersebut mengubah reasoning.
+
+## 10. Jika Semua Relasi Symmetric
+
+Model symmetric-only akan menyulitkan:
+
+- dependency;
+- refinement;
+- constraint;
+- derivation;
+- upstream/downstream reasoning.
+
+Karena itu symmetric-only terlalu lemah untuk keseluruhan kebutuhan relational traceability TUMBUH.
+
+## 11. Jika Semua Relasi Directional
+
+Model directional-only juga bermasalah.
+
+Ia dapat:
+
+- membuat complementarity terlihat artifisial;
+- membuat tension seolah memiliki pemenang;
+- menggandakan reciprocal relations;
+- menambahkan arah yang sebenarnya tidak memiliki makna.
+
+Karena itu directional-only juga terlalu kaku.
+
+## 12. Working Model: Mixed Relation Semantics
+
+Model yang lebih proporsional:
+
+> **Relational traceability TUMBUH menggunakan mixed relation semantics.**
+
+Artinya:
+
+- relation type menentukan apakah hubungan directional, symmetric, atau reciprocal;
+- scope/condition dicatat bila substantif;
+- direction tidak digunakan sebagai hierarchy;
+- symmetric relation tidak perlu diduplikasi;
+- reciprocal relation dapat direpresentasikan sebagai dua directional links bila memang kedua arah memiliki fungsi berbeda.
+
+## 13. Uji Directionality
+
+Sebelum menetapkan jenis relasi, tanyakan:
+
+1. Apakah membalik A dan B mempertahankan makna?
+2. Jika tidak, apa yang berubah?
+3. Apakah A memengaruhi B dengan fungsi berbeda dari B terhadap A?
+4. Apakah hubungan berlaku hanya pada condition tertentu?
+5. Apakah arah menunjukkan dependency atau hanya urutan visual?
+6. Apakah directionality membantu traceability?
+
+Jika arah tidak menambah makna, jangan dipaksakan.
+
+## 14. False Directionality
+
+**False directionality** terjadi ketika panah ditambahkan hanya karena representasi membutuhkan panah.
 
 Contoh:
 
-A constrains B
+`A → complements → B`
 
-B constrains A
+jika complementarity sebenarnya mutual.
 
-Ini merupakan reciprocal relation, bukan necessarily symmetric relation.
+Arah semacam ini tidak menambah informasi dan dapat menghasilkan interpretasi yang keliru.
 
-Pembedaan ini penting jika TUMBUH nantinya menggunakan relational metadata.
+## 15. False Symmetry
 
-## 10. Conditional Directionality
+Sebaliknya:
 
-P0021 dan P0023 menunjukkan bahwa hubungan dapat contextual.
+`A ↔ constrains ↔ B`
 
-Karena itu sebuah relasi dapat berbentuk:
+dapat menyesatkan jika sebenarnya hanya A yang memberikan constraint terhadap B.
 
-A supports B under condition X
+Jenis relasi harus mengikuti semantic content.
 
-tetapi:
+## 16. Relational Metadata — Working Hypothesis
 
-A tensions-with B under condition Y.
-
-Artinya jenis dan arah relasi tidak selalu bersifat universal.
-
-Scope dan condition perlu dapat direpresentasikan jika memang memiliki konsekuensi.
-
-## 11. Directionality dalam Design Reasoning
-
-Directionality berguna untuk mengikuti alur reasoning:
-
-Core Principle
-↓
-Design Principle
-↓
-Design Implication
-↓
-Design Criterion
-↓
-Design Alternative
-↓
-Design Judgment
-
-Namun relational links antar-Design Principles berada sebagai cross-cutting structure:
-
-DP-A → supports → DP-B
-
-DP-C → tensions-with → DP-D
-
-Dengan demikian, arah relasi tidak menggantikan arsitektur utama.
-
-## 12. Jika Semua Relasi Dibuat Symmetric
-
-Jika semua relasi dianggap symmetric:
-- dependency kehilangan arah;
-- refinement kehilangan source dan target;
-- constraint menjadi ambigu;
-- derivation sulit dilacak;
-- upstream/downstream reasoning sulit dibedakan.
-
-Ini menunjukkan bahwa symmetric-only model terlalu lemah.
-
-## 13. Jika Semua Relasi Dibuat Directional
-
-Sebaliknya, jika semua relasi dipaksa directional:
-- complementarity menjadi artifisial;
-- tension dapat terlihat seolah memiliki pemenang;
-- reciprocal relation harus ditulis dua kali;
-- struktur menjadi lebih kompleks;
-- semantic meaning dapat terdistorsi.
-
-Directional-only model juga terlalu kaku.
-
-## 14. Model yang Lebih Tepat
-
-Working model:
-
-> Relational traceability TUMBUH sebaiknya mendukung mixed relation semantics.
-
-Artinya:
-- relation type menentukan apakah relasi directional, symmetric, atau reciprocal;
-- scope/condition dapat menentukan kapan relasi berlaku;
-- direction tidak digunakan untuk menunjukkan hierarchy;
-- symmetric relation tidak perlu diduplikasi;
-- reciprocal relations dapat direpresentasikan sebagai dua directional links bila diperlukan.
-
-## 15. Minimal Relational Schema
-
-Jika relational metadata nantinya dibutuhkan, schema minimal dapat diperluas menjadi:
+Jika metadata relational nantinya diperlukan:
 
 | Field | Fungsi |
 |---|---|
@@ -281,99 +239,98 @@ Jika relational metadata nantinya dibutuhkan, schema minimal dapat diperluas men
 | directionality | directional / symmetric / reciprocal |
 | scope | ruang berlaku |
 | condition | kondisi penerapan |
-| consequence | konsekuensi terhadap reasoning |
+| consequence | consequence terhadap reasoning |
 | rationale | alasan hubungan |
-| evidence | dasar pendukung |
+| evidence | evidence relevan |
 | status | status hubungan |
 
-Tidak semua field harus selalu diisi.
+Schema ini belum merupakan keputusan implementasi.
 
-## 16. Uji Directionality
+## 17. Boundary
 
-Sebelum menetapkan jenis relasi, gunakan pertanyaan:
+P0024 **tidak**:
 
-1. Apakah membalik A dan B mempertahankan makna?
-2. Jika tidak, apa yang berubah?
-3. Apakah A memengaruhi B dengan fungsi yang berbeda dari B terhadap A?
-4. Apakah hubungan berlaku pada kondisi tertentu?
-5. Apakah arah menunjukkan dependency atau hanya urutan representasi?
-6. Apakah directionality membantu traceability?
+- menetapkan hierarchy antar-Principles;
+- menentukan Principle mana yang lebih tinggi;
+- menetapkan graph sebagai format repository;
+- menganggap semua relation type sudah final;
+- atau menetapkan governance untuk menyelesaikan relation conflict.
 
-Jika jawaban tidak jelas, relasi belum cukup terdefinisi.
+Fokusnya adalah **semantic directionality untuk relational traceability**.
 
-## 17. Risiko False Directionality
+## 18. Repository Destination
 
-False directionality terjadi ketika arah ditambahkan hanya karena graph membutuhkan panah.
+Hasil P0024 diarahkan ke:
 
-Misalnya:
+**Principles → Design Principles → relational traceability / relationship semantics**
 
-A → complements → B
+Belum diperlukan layer atau folder baru.
 
-padahal complementarity sebenarnya mutual.
+Ketika hubungan dicatat, formulasi sebaiknya memiliki semantic content, misalnya:
 
-Arah semacam ini tidak menambah informasi dan justru dapat menciptakan interpretasi yang salah.
+> **A supports B**
 
-## 18. Risiko False Symmetry
+bukan hanya:
 
-Sebaliknya:
+> **A terkait dengan B.**
 
-A ↔ constrains ↔ B
+## 19. Implikasi bagi TUMBUH
 
-dapat salah jika sebenarnya hanya A yang memberikan constraint terhadap B.
+Working model:
 
-Maka jenis relasi harus ditentukan dari semantic content, bukan dari kenyamanan visual.
+`Design Principle A`
+↓ relationship semantics
+`Design Principle B`
 
-## 19. Temuan
+dengan relation yang dapat bersifat:
+
+**directional / symmetric / reciprocal / conditional**
+
+sesuai makna substantifnya.
+
+Dengan demikian:
+
+**directionality ≠ hierarchy**
+
+dan:
+
+**explicit relation ≠ formal graph requirement.**
+
+## 20. Temuan Sementara
 
 1. Tidak semua relasi antar-Design Principles memiliki karakter yang sama.
 2. supports, depends-on, constrains, dan refines secara umum membutuhkan arah.
-3. complements dan tensions-with cenderung symmetric, tetapi tetap perlu diperiksa berdasarkan makna.
+3. complements dan tensions-with cenderung symmetric, tetapi perlu diuji berdasarkan makna.
 4. Symmetric dan reciprocal bukan hal yang sama.
-5. Conditionality dapat mengubah jenis atau arah relasi pada scope tertentu.
-6. Directionality tidak menunjukkan hierarchy atau superiority.
-7. Model symmetric-only terlalu lemah untuk dependency dan refinement.
-8. Model directional-only terlalu kaku untuk mutual relations.
+5. Conditionality dapat memengaruhi jenis atau arah relasi.
+6. Directionality tidak menunjukkan hierarchy.
+7. Symmetric-only terlalu lemah untuk dependency dan refinement.
+8. Directional-only terlalu kaku untuk mutual relations.
 9. TUMBUH membutuhkan mixed relation semantics.
-10. Relational metadata sebaiknya menyimpan arah hanya ketika arah memiliki makna reasoning.
+10. Arah hanya perlu direpresentasikan ketika memiliki makna reasoning.
 
-## 20. Keputusan Sementara
+Temuan ini masih provisional.
 
-PASS — RELATIONAL TRACEABILITY TUMBUH SEBAIKNYA MENGGUNAKAN SEMANTIC DIRECTIONALITY, BUKAN MEMAKSA SEMUA RELASI MENJADI DIRECTIONAL ATAU SYMMETRIC.
+## 21. Kesimpulan
 
-Working rule:
+P0024 mendukung working rule:
 
-> Arah relasi harus ditentukan oleh makna hubungan. Relasi directional digunakan ketika source dan target memiliki fungsi berbeda; relasi symmetric digunakan ketika pertukaran source dan target tidak mengubah makna; reciprocal relation digunakan ketika kedua arah memiliki pengaruh yang berbeda. Directionality tidak boleh dibaca sebagai hierarchy.
+> **Arah relasi harus ditentukan oleh makna hubungan. Relasi directional digunakan ketika source dan target memiliki fungsi berbeda; relasi symmetric ketika pertukaran source dan target tidak mengubah makna; reciprocal ketika kedua arah memiliki pengaruh berbeda. Directionality tidak boleh dibaca sebagai hierarchy.**
 
-## 21. Implikasi bagi Repository
-
-Belum perlu mengimplementasikan schema relational metadata secara formal.
-
-Namun ketika traceability mulai dicatat, relasi sebaiknya tidak hanya ditulis sebagai:
-
-> “A terkait dengan B.”
-
-Lebih berguna jika dinyatakan:
-
-> “A supports B.”
-
-atau:
-
-> “A tensions-with B under condition X.”
-
-Dengan begitu hubungan memiliki semantic content dan dapat digunakan kembali dalam inquiry maupun review.
+Dengan demikian relational traceability dapat menjaga informasi yang diperlukan tanpa memaksakan satu bentuk hubungan untuk semua Principles.
 
 ## 22. Next Inquiry
 
-P0025 akan menguji:
+> **Apakah setiap relasi antar-Design Principles perlu memiliki evidence atau rationale tersendiri, atau dapat diwariskan dari evidence Principles yang dihubungkan?**
 
-> Apakah setiap relasi antar-Design Principles perlu memiliki evidence atau rationale tersendiri, atau dapat diwariskan dari evidence principles yang dihubungkan?
+P0025 akan menguji apa yang membuat sebuah relationship claim cukup justified dalam Principle System.
 
-Pertanyaan ini mengikuti kebutuhan traceability: jika relasi menjadi explicit, perlu ditentukan apa yang membuat relasi tersebut justified.
+## 23. Status Inquiry
 
-## Status
+**Finding:** Relational semantics TUMBUH perlu membedakan directional, symmetric, dan reciprocal relations.
 
-P0024 — selesai sebagai inquiry.
+**Working conclusion:** Directionality digunakan ketika ia membawa makna reasoning; bukan sebagai hierarchy.
 
-Temuan utama: Relasi antar-Design Principles tidak boleh dipaksa menjadi satu bentuk. TUMBUH membutuhkan mixed relation semantics: directional, symmetric, dan reciprocal sesuai makna relasinya. Directionality menunjukkan fungsi hubungan, bukan hierarchy.
+**Boundary:** Tidak menetapkan format teknis atau taxonomy final.
 
-Next inquiry: P0025 — Apakah setiap relasi antar-Design Principles membutuhkan evidence/rationale tersendiri?
+**Open question:** Apa dasar yang cukup untuk membenarkan sebuah relationship antar-Design Principles?
