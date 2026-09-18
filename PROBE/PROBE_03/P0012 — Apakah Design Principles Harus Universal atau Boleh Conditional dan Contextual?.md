@@ -1,288 +1,360 @@
 # P0012 — Apakah Design Principles Harus Universal atau Boleh Conditional dan Contextual?
 
-## Pertanyaan
+## Status
 
-**Apakah Design Principles TUMBUH harus berlaku universal, atau boleh bersifat conditional dan contextual?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0012  
+**Status:** Revised  
+**Type:** Design Principle Scope Inquiry
 
-P0011 menemukan bahwa konflik antar-Design Principles perlu dibaca melalui scope, kondisi penerapan, dan trade-off. P0012 melanjutkan pertanyaan tersebut: jika kondisi penerapan memang berpengaruh, apakah sebuah Design Principle kehilangan statusnya ketika tidak berlaku secara universal?
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-PROBE tidak dirancang sebagai daftar pertanyaan yang kaku. Inquiry bergerak dari temuan sebelumnya menuju pertanyaan berikutnya, selama masih ada konsep, hubungan, gap, contradiction, atau implikasi yang perlu dipahami. fileciteturn12file0L1-L17
+**Object of Inquiry:** Design Principles TUMBUH.
 
-Karena itu, pertanyaan tentang universalitas Design Principles harus diuji dari fungsi prinsip itu sendiri, bukan dari asumsi bahwa semua prinsip harus berlaku di semua tempat.
+P0012 mengkaji **scope of validity** Design Principles TUMBUH: apakah sebuah Design Principle harus berlaku lintas seluruh sistem, atau dapat memiliki kondisi dan konteks penerapan tertentu.
 
-## 2. Universal Tidak Sama dengan Fundamental
+---
 
-Sebuah prinsip dapat sangat penting tanpa harus berlaku dengan bentuk identik pada setiap konteks.
+## 2. TUMBUH Question
 
-Ini penting karena:
+> **Apakah sebuah Design Principle TUMBUH kehilangan statusnya sebagai Principle jika tidak berlaku secara universal, atau dapat tetap menjadi Principle dengan scope dan kondisi yang jelas?**
 
-**Core Principle** dan **Design Principle** memiliki fungsi berbeda.
+Pertanyaan ini merupakan kelanjutan langsung P0011.
 
-Core Principle menjaga komitmen fundamental.
+P0011 menunjukkan bahwa conflict antar-Principles dapat muncul karena perbedaan scope dan condition.
 
-Design Principle mengarahkan cara berpikir dalam desain.
+P0012 perlu memastikan apakah scope terbatas masih kompatibel dengan fungsi Design Principle.
 
-Karena Design Principle bekerja pada ruang keputusan desain, penerapannya dapat bergantung pada:
+---
 
-- objek yang sedang dirancang;
-- tujuan desain;
-- kondisi sistem;
-- batasan yang tersedia;
-- karakteristik pengguna;
-- tahap pengembangan sistem.
+## 3. Titik Berangkat
 
-Maka universalitas bukan syarat otomatis.
+P0007 menetapkan bahwa Design Principle adalah:
 
-## 3. Tiga Bentuk Cakupan
+> **commitment pengarah pada tingkat desain yang membantu TUMBUH memilih, membentuk, atau mengevaluasi alternatif desain tanpa menetapkan satu desain tertentu.**
 
-P0012 membedakan tiga kemungkinan.
+P0009 menambahkan bahwa candidate perlu mempunyai generality yang memadai.
 
-### A. Universal Design Principle
+Maka pertanyaannya bukan:
 
-Berlaku sebagai constraint lintas seluruh desain TUMBUH.
+> “Apakah Principle berlaku di mana-mana?”
 
-Bentuknya kurang lebih:
+tetapi:
 
-> Dalam setiap desain TUMBUH, kondisi X harus dijaga.
+> **“Apakah Principle cukup general dalam scope yang memang menjadi wilayah validitasnya?”**
 
-Jenis ini paling dekat dengan prinsip lintas-sistem.
+---
 
-### B. Conditional Design Principle
+## 4. Universal ≠ General
 
-Berlaku ketika kondisi tertentu terpenuhi.
+P0012 membedakan dua konsep:
 
-Bentuknya:
+### Universality
 
-> Ketika kondisi X terjadi, desain perlu mempertimbangkan Y.
+Berlaku lintas seluruh Sistem TUMBUH.
 
-Prinsip tetap general, tetapi domain validitasnya eksplisit.
+### Generality
 
-### C. Contextual Design Principle
-
-Berlaku pada konteks tertentu karena karakteristik konteks tersebut.
-
-Misalnya suatu prinsip mungkin relevan untuk desain pesantren atau institusi pendidikan tertentu, tetapi tidak otomatis berlaku identik pada seluruh bentuk implementasi TUMBUH.
-
-Contextual tidak berarti sembarang atau subjektif. Ia tetap membutuhkan dasar, scope, dan traceability.
-
-## 4. Risiko Memaksa Universalitas
-
-Jika setiap Design Principle harus universal, terdapat beberapa risiko:
-
-1. prinsip menjadi terlalu abstrak sehingga kehilangan daya guna;
-2. kondisi penerapan penting disembunyikan;
-3. prinsip dirumuskan terlalu absolut;
-4. konflik muncul karena prinsip diterapkan di luar scope;
-5. desain lokal dipaksa mengikuti constraint yang tidak relevan.
-
-Dengan demikian, universalitas yang berlebihan dapat justru melemahkan fungsi Design Principle.
-
-## 5. Risiko Kontekstualitas yang Berlebihan
-
-Sebaliknya, jika semua keputusan lokal disebut Design Principle, konsepnya menjadi terlalu longgar.
-
-Maka contextual Design Principle tetap harus memenuhi batas P0007 dan P0009:
-
-- memiliki fungsi desain;
-- cukup general dalam scope-nya;
-- memiliki justification;
-- tidak sekadar decision;
-- tidak sekadar preference;
-- dapat diuji;
-- memiliki traceability.
-
-Perbedaannya adalah **scope-nya dibatasi**, bukan standar reasoning-nya diturunkan.
-
-## 6. Generality dan Universality Adalah Hal Berbeda
-
-Temuan penting P0012:
-
-> **Sebuah Design Principle tidak harus universal untuk menjadi general.**
-
-Misalnya sebuah prinsip berlaku pada seluruh desain assessment TUMBUH tetapi tidak relevan untuk desain intervention.
-
-Ia tetap general dalam domain assessment.
+Berlaku pada lebih dari satu kasus yang relevan dalam scope tertentu.
 
 Dengan demikian:
 
-**universality = berlaku lintas seluruh sistem**
+~~~text
+Universal
+= system-wide scope
 
-sedangkan:
+General
+= reusable within valid scope
+~~~
 
-**generality = berlaku pada lebih dari satu kasus yang relevan dalam scope tertentu.**
+Sebuah Design Principle dapat general tanpa universal.
 
-Ini memperjelas temuan P0007 bahwa generality merupakan salah satu pembeda antara principle dan decision.
+Contohnya secara abstrak, sebuah commitment desain dapat berlaku lintas keputusan dalam satu domain TUMBUH tetapi tidak relevan untuk domain lain.
 
-## 7. Scope Harus Menjadi Bagian dari Principle
+---
 
-Jika sebuah Design Principle conditional atau contextual, scope tidak boleh hanya hidup di kepala perancang.
+## 5. Tiga Bentuk Scope
 
-Idealnya rumusan dapat menunjukkan:
+### A. System-wide
+
+Principle berlaku lintas desain Sistem TUMBUH.
+
+Pola:
+
+> Dalam desain TUMBUH, kondisi X perlu dijaga.
+
+### B. Domain-wide
+
+Principle berlaku lintas keputusan dalam domain desain tertentu.
+
+Pola:
+
+> Dalam desain [domain], kondisi X perlu dijaga.
+
+### C. Conditional / Contextual
+
+Principle berlaku ketika kondisi tertentu atau konteks tertentu terpenuhi.
+
+Pola:
+
+> Ketika kondisi X terjadi dalam [scope], desain perlu mempertimbangkan Y.
+
+Ketiganya dapat menjadi bentuk Design Principle selama fungsi dan batasnya dapat dipertanggungjawabkan.
+
+---
+
+## 6. Mengapa Universalitas Tidak Boleh Dipaksakan?
+
+Jika setiap Design Principle harus universal, TUMBUH berisiko:
+
+- merumuskan Principle terlalu abstrak;
+- menyembunyikan kondisi penting;
+- menghasilkan formulasi terlalu absolut;
+- menerapkan commitment di luar wilayah validitasnya;
+- atau mengubah Principle menjadi slogan yang tidak membantu keputusan desain.
+
+Karena itu, **universalitas bukan syarat otomatis Design Principle**.
+
+---
+
+## 7. Mengapa Contextuality Juga Tidak Boleh Terlalu Longgar?
+
+Sebaliknya, jika setiap kebiasaan lokal dapat disebut Design Principle, batas konsep akan hilang.
+
+Pola berikut belum cukup:
+
+> “Di konteks kami biasanya begini, maka ini Principle.”
+
+Contextual candidate tetap harus menjawab:
+
+1. Apa problem desain yang ditanganinya?
+2. Mengapa problem tersebut relevan bagi TUMBUH?
+3. Apa commitment desain yang dihasilkan?
+4. Apakah commitment dapat digunakan kembali dalam kasus yang sejenis?
+5. Apakah konsisten dengan Core Principles?
+6. Apakah scope-nya dapat dijelaskan?
+
+Jika hanya berlaku pada satu keputusan tertentu, candidate kemungkinan lebih tepat disebut **Decision**.
+
+---
+
+## 8. Conditionality Tidak Berarti Principle Lebih Lemah
+
+Principle yang memiliki kondisi tidak otomatis lebih lemah daripada Principle universal.
+
+Justru kondisi dapat memperjelas:
+
+- kapan commitment berlaku;
+- apa yang dilindungi;
+- kapan tidak berlaku;
+- dan bagaimana ia berhubungan dengan Principle lain.
+
+Karena itu:
+
+> **Kekuatan Design Principle terletak pada ketepatan scope dan reasoning, bukan pada penghilangan seluruh kondisi.**
+
+---
+
+## 9. Scope Harus Menjadi Bagian dari Reasoning
+
+Jika scope penting bagi validitas Principle, scope tidak boleh menjadi catatan tersembunyi.
+
+Candidate idealnya dapat menunjukkan:
 
 - domain;
 - kondisi;
-- tujuan;
+- tujuan desain;
 - batas;
-- hubungan dengan prinsip lain.
+- relationship dengan Principles lain.
 
-Contoh pola:
+Namun tetap harus dibedakan dari operational rule.
 
-> **Dalam [kondisi/domain], desain TUMBUH perlu [arah desain] agar [komitmen/tujuan] tetap terjaga.**
+~~~text
+DESIGN PRINCIPLE
+→ memberi arah
 
-Ini masih berbeda dari SOP karena tidak menetapkan langkah operasional.
+DESIGN RULE
+→ memberi constraint yang lebih spesifik
 
-## 8. Conditional Bukan Berarti Lemah
+DECISION
+→ memilih tindakan desain tertentu
+~~~
 
-Ada kecenderungan menganggap prinsip yang memiliki kondisi sebagai prinsip yang kurang kuat.
+Pembedaan ini akan diuji lebih lanjut pada P0013.
 
-P0012 tidak mendukung asumsi tersebut.
+---
 
-Justru conditionality dapat menunjukkan bahwa sebuah prinsip memahami **boundary of validity**.
-
-Prinsip yang mengatakan:
-
-> “Selalu lakukan X.”
-
-dapat terlihat kuat tetapi mungkin terlalu absolut.
-
-Sedangkan:
-
-> “Ketika X terjadi, Y perlu dipertimbangkan karena Z.”
-
-dapat lebih jujur terhadap kompleksitas desain.
-
-Kekuatan prinsip terletak pada **ketepatan scope dan reasoning**, bukan pada jumlah kondisi yang dihapus dari rumusannya.
-
-## 9. Hubungan dengan Core Principles
+## 10. Hubungan dengan Core Principles
 
 Core Principles tetap menjadi constraint normatif.
 
-Maka Design Principle contextual tidak boleh digunakan untuk menghindari Core Principles.
+Karena itu contextual atau conditional Design Principle tidak boleh menjadi cara untuk menghindari Core Principles.
 
 Hubungannya:
 
-**Core Principles**
-→ menetapkan komitmen fundamental
+~~~text
+CORE PRINCIPLES
+      ↓
+normative boundary
+      ↓
+DESIGN PRINCIPLE
+      ↓
+scope / condition
+      ↓
+design alternatives
+~~~
 
-**Design Principles**
-→ menerjemahkan komitmen tersebut sesuai ruang dan kondisi desain
+Semakin terbatas scope sebuah Design Principle, semakin penting alasan mengapa scope tersebut memang diperlukan.
 
-**Contextual design decisions**
-→ memilih implementasi konkret
+---
 
-Dengan demikian, semakin contextual sebuah prinsip, semakin penting traceability terhadap fondasi dan batas penerapannya.
+## 11. Scope Test
 
-## 10. Uji Scope
+Working scope test:
 
-Untuk setiap candidate Design Principle, dapat ditanyakan:
+### Test 1 — Scope
 
-### Test 1
-Apakah ia dimaksudkan lintas seluruh sistem?
+Di mana Principle ini berlaku?
 
-### Test 2
-Jika tidak, domain apa yang dibatasi?
+### Test 2 — Condition
 
-### Test 3
-Kondisi apa yang membuatnya berlaku?
+Kondisi apa yang mengaktifkan atau membatasi penerapannya?
 
-### Test 4
-Apa yang terjadi jika diterapkan di luar scope?
+### Test 3 — Reuse
 
-### Test 5
-Apakah scope tersebut cukup luas untuk disebut principle dan bukan decision?
+Apakah masih dapat digunakan pada lebih dari satu kasus dalam scope tersebut?
 
-### Test 6
-Apakah scope dapat ditelusuri ke kebutuhan, evidence, atau reasoning yang sah?
+### Test 4 — Design Function
 
-## 11. Model Hierarki Scope
+Apakah tetap memberikan arah pada desain?
 
-Daripada membuat hierarchy nilai, TUMBUH dapat menggunakan hierarchy **scope**:
+### Test 5 — Boundary
 
-**System-wide**
-→ berlaku lintas sistem
+Apa yang terjadi jika Principle diterapkan di luar scope?
 
-**Domain-wide**
-→ berlaku pada domain tertentu
+### Test 6 — Foundation
 
-**Context-specific**
-→ berlaku pada konteks tertentu yang masih memiliki pola generalizable
+Apakah scope dan Principle tetap konsisten dengan Core Principles?
 
-**Decision-specific**
-→ terlalu sempit; kemungkinan bukan Design Principle
+### Test 7 — Traceability
 
-Ini bukan ranking kualitas. Ia hanya membantu menentukan kategori.
+Apakah scope dapat ditelusuri ke reasoning, evidence, atau system need yang mendasarinya?
 
-## 12. Apa yang Tidak Boleh Terjadi?
+Ini merupakan **working test**, bukan scoring.
 
-Design Principle contextual tidak boleh menjadi cara untuk melegitimasi semua kebiasaan lokal.
+---
 
-Contoh pola yang perlu dicurigai:
+## 12. Model Scope
 
-> “Di tempat kami biasanya begini, maka ini Design Principle.”
+Untuk kebutuhan repository, scope dapat dipahami sebagai:
 
-Itu belum cukup.
+~~~text
+SYSTEM-WIDE
+     ↓
+DOMAIN-WIDE
+     ↓
+CONDITIONAL / CONTEXTUAL
+     ↓
+DECISION-SPECIFIC
+~~~
 
-Perlu ditanyakan:
+Ini bukan hierarchy kualitas.
 
-- apakah terdapat problem desain yang generalizable;
-- apakah terdapat reasoning;
-- apakah prinsip dapat digunakan kembali dalam kasus serupa;
-- apakah prinsip konsisten dengan fondasi TUMBUH;
-- apakah scope dapat dijelaskan.
+Ia adalah cara untuk melihat **cakupan validitas**.
 
-Jika tidak, kemungkinan besar ia merupakan local decision atau practice, bukan Design Principle.
+Batas pentingnya:
 
-## 13. Temuan
+> **Jika terlalu sempit hingga hanya menjelaskan satu keputusan, candidate berisiko bukan lagi Design Principle.**
 
-1. Design Principle tidak harus universal.
-2. Universalitas dan generality merupakan dua hal berbeda.
-3. Design Principle dapat bersifat system-wide, domain-wide, atau contextual selama scope dan reasoning jelas.
-4. Conditionality dapat menjadi bagian sah dari formulasi principle.
-5. Contextuality tidak menghilangkan kebutuhan akan justification, testing, dan traceability.
-6. Design Principle yang terlalu sempit berisiko berubah menjadi decision.
-7. Design Principle yang terlalu luas berisiko menjadi slogan atau Core Principle yang diulang.
-8. Core Principles tetap menjadi constraint normatif bagi Design Principles pada semua scope.
-9. Scope of validity sebaiknya dibuat eksplisit.
+---
 
-## 14. Keputusan Sementara
+## 13. Boundary
 
-**PASS — DESIGN PRINCIPLES BOLEH CONDITIONAL DAN CONTEXTUAL.**
+P0012 **tidak** sedang:
 
-Working rule:
+- menentukan Design Principle TUMBUH tertentu;
+- menetapkan semua Principles harus contextual;
+- membuat taxonomy final;
+- membangun teori konteks secara umum;
+- atau menetapkan local design rules.
 
-> **Sebuah Design Principle tidak harus universal selama ia memiliki generality yang memadai dalam scope-nya, memiliki kondisi atau batas penerapan yang dapat dijelaskan, konsisten dengan Core Principles, dan memiliki justification serta traceability yang memadai.**
+Fokusnya hanya:
 
-Dengan demikian, TUMBUH tidak perlu memilih antara “semua prinsip universal” atau “semua prinsip kontekstual”.
+> **menentukan apakah scope terbatas dapat kompatibel dengan status Design Principle dan bagaimana scope tersebut harus dipertanggungjawabkan.**
 
-Yang lebih tepat adalah membedakan **scope of validity** setiap prinsip.
+---
 
-## 15. Implikasi bagi Repository
+## 14. Repository Destination
 
-Ketika Design Principles mulai dirumuskan dalam repository, setiap principle idealnya dapat menunjukkan:
+Hasil P0012 diarahkan ke:
 
-- scope;
-- condition, bila ada;
-- design implication;
-- related Core Principle;
-- justification;
-- traceability.
+**Principles → Design Principles → scope of validity**
 
-Ini membantu repository tetap stabil tanpa memaksa seluruh desain TUMBUH menjadi identik pada semua konteks.
+Temuan ini menjadi dasar untuk membedakan contextual Design Principle dari rule dan decision pada inquiry berikutnya.
 
-## 16. Next Inquiry
+---
+
+## 15. Implication for TUMBUH
+
+P0012 memberikan implikasi:
+
+> **Design Principles TUMBUH tidak harus universal. Ia dapat system-wide, domain-wide, conditional, atau contextual selama memiliki generality yang memadai dalam scope-nya dan tetap memenuhi fungsi, foundation, justification, testing, serta traceability yang diperlukan.**
+
+Dengan demikian TUMBUH tidak perlu memaksakan satu bentuk universalitas kepada seluruh Principles.
+
+Yang harus eksplisit adalah:
+
+> **di mana, kapan, dan untuk desain apa commitment tersebut berlaku.**
+
+---
+
+## 16. Temuan Sementara
+
+1. **Design Principle tidak harus universal.**
+2. **Universality dan generality merupakan konsep berbeda.**
+3. **Conditionality dapat menjadi bagian sah dari Design Principle.**
+4. **Contextuality dapat diterima jika scope dan reasoning dapat dipertanggungjawabkan.**
+5. **Contextuality tidak boleh menjadi legitimasi otomatis bagi kebiasaan lokal.**
+6. **Design Principle harus tetap lebih general daripada decision-specific choice.**
+7. **Core Principles tetap menjadi normative boundary.**
+8. **Scope of validity perlu dapat ditelusuri.**
+
+Temuan ini masih provisional.
+
+---
+
+## 17. Kesimpulan
+
+P0012 mendukung working rule:
+
+> **Design Principle TUMBUH tidak harus universal. Ia dapat bersifat conditional atau contextual selama tetap memiliki fungsi sebagai commitment pengarah desain, cukup general dalam scope-nya, konsisten dengan Core Principles, serta memiliki justification, testing, dan traceability yang memadai.**
+
+Dengan demikian:
+
+~~~text
+UNIVERSALITY
+≠
+REQUIREMENT
+
+GENERALITY WITHIN VALID SCOPE
+=
+REQUIREMENT
+~~~
 
 Pertanyaan berikutnya:
 
-> **Bagaimana membedakan Design Principle yang benar-benar generalizable dari local design rule yang hanya berlaku pada satu konteks?**
+> **Bagaimana TUMBUH membedakan contextual Design Principle yang reusable dari local design rule atau decision yang hanya berlaku pada satu kasus?**
 
-P0013 akan menguji batas antara **contextual Design Principle, design rule, dan local decision**.
+---
 
-## Status
+## 18. Status Inquiry
 
-**P0012 — selesai sebagai inquiry.**
+**Finding:** Universalitas bukan syarat otomatis Design Principle.
 
-**Temuan utama:** Design Principles tidak harus universal. Ia dapat bersifat conditional atau contextual selama memiliki scope yang jelas, generality yang memadai dalam scope tersebut, konsistensi dengan Core Principles, justification, testing, dan traceability.
+**Working conclusion:** Scope dapat system-wide, domain-wide, conditional, atau contextual selama generality, design function, foundation, justification, dan traceability tetap terjaga.
 
-**Next inquiry:** P0013 — *Bagaimana membedakan contextual Design Principle dari local design rule dan local decision?*
+**Boundary:** P0012 belum menetapkan taxonomy final antara Principle, rule, dan decision.
+
+**Open question:** Bagaimana membedakan contextual Design Principle dari local design rule dan local decision?
