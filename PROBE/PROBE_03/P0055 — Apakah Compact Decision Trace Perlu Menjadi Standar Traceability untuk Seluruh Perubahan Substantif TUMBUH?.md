@@ -4,10 +4,18 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0055  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Boundary antara relationship history, object history, dan review history sebagai source of truth untuk transition substantif dalam Principles TUMBUH.
+
+## TUMBUH Question
+
+**Di level mana transition sebaiknya menjadi source of truth ketika relationship, object, dan review sama-sama memiliki history?**
 
 ## 1. Pertanyaan
 
@@ -15,7 +23,7 @@ P0054 menunjukkan bahwa minimum historical record yang diperlukan untuk menjaga 
 
 `Previous State → Trigger → Evidence/Trace → Reasoning → New State`
 
-Pertanyaannya: apakah pola ini hanya diperlukan untuk perubahan disposition pada relationship, atau sebaiknya menjadi **standar traceability untuk seluruh perubahan substantif TUMBUH**?
+Pertanyaan sebelumnya mengenai compact decision trace tetap relevan, tetapi P0055 mempersempit inquiry pada **lokasi semantic source of truth** agar history tidak terfragmentasi.
 
 ---
 
@@ -317,7 +325,15 @@ Setiap substantive transition memiliki semantic trace yang kompatibel, tetapi de
 
 ## 16. Kesimpulan
 
-**Compact decision trace sebaiknya menjadi standar minimum traceability untuk seluruh perubahan substantif TUMBUH.**
+**Compact decision trace sebaiknya menjadi standar minimum traceability untuk seluruh perubahan substantif TUMBUH, tetapi source of truth perlu mengikuti object yang benar-benar mengalami transition.**
+
+Working distinction:
+
+- **Relationship history** menjadi source of truth untuk perubahan semantics/status relationship.
+- **Object history** menjadi source of truth untuk perubahan identity, meaning, scope, atau lifecycle object.
+- **Review history** menjadi source of truth untuk reasoning dan review event yang menghasilkan decision.
+
+Ketiganya saling mereferensikan; tidak perlu memaksa satu history menampung seluruh transition.
 
 Standar ini bukan template dokumentasi yang kaku, melainkan semantic contract:
 
