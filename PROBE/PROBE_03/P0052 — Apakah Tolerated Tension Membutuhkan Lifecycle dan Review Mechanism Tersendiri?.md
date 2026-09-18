@@ -4,10 +4,18 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0052  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Lifecycle / Governance Inquiry
 
 ---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Lifecycle dan review mechanism untuk tolerated tension dalam relational traceability Principles TUMBUH.
+
+## TUMBUH Question
+
+**Apakah tolerated tension membutuhkan lifecycle dan review mechanism tersendiri, atau cukup mengikuti lifecycle relationship dengan disposition dan trigger khusus?**
 
 ## 1. Pertanyaan
 
@@ -285,5 +293,7 @@ Jika consequence governance menjadi khusus, TUMBUH dapat menambahkan specializat
 
 **Working rule:**  
 `Relationship Lifecycle + Disposition + Review Trigger + History`
+
+**Repository destination:** Principles → Design Principles → Relational Traceability → Tension / Coherence / Disposition / Review History
 
 **Open question:** Jika tolerated tension berubah menjadi design resolution atau principle reopening, bagaimana perubahan disposition harus dicatat agar historical reasoning tetap utuh?
