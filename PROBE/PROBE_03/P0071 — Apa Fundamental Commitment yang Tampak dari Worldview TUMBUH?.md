@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0071  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Substantive / Core Principles Inquiry
 
 ---
@@ -243,7 +243,19 @@ Tujuannya bukan membuat enam kelompok Core Principles, tetapi mencari commitment
 
 ---
 
-## 14. Kesimpulan
+## 14. Repository Destination
+
+**Principles → Core Principles → Candidate Fundamental Commitments**
+
+P0071 belum menetapkan Core Principle final. Temuan ditempatkan sebagai candidate commitments yang harus diuji lintas domain Philosophy.
+
+## 15. Next Inquiry
+
+> **Apakah candidate commitments dari Worldview ini merupakan prinsip yang berbeda, atau merupakan beberapa aspek dari commitment fundamental yang lebih mendasar?**
+
+P0072 akan menguji distinctness dan kemungkinan penggabungan candidate commitments Worldview sebelum kandidat dibawa ke validasi lintas domain.
+
+## 16. Kesimpulan
 
 Sumber TUMBUH yang tersedia memberikan dasar substantif, bukan hanya struktur, untuk mulai menemukan candidate fundamental commitments.
 
