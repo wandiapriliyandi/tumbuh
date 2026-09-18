@@ -1,6 +1,19 @@
 # P0048 — Apakah Consistency Check Cukup pada Boundary Interface atau Kadang Harus Naik ke System-Level Coherence?
 
-## Pertanyaan
+## Status
+
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0048  
+**Status:** Revised  
+**Type:** Local Consistency and System Coherence Inquiry
+
+---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Batas antara local interface consistency dan system-level coherence dalam Principles TUMBUH setelah terjadi perubahan pada relationship atau object.
+
+## TUMBUH Question
 
 **Apakah consistency check setelah sebuah change cukup dilakukan pada boundary interface, atau pada kondisi tertentu perlu dinaikkan ke level system-level coherence meskipun tidak semua object dibuka kembali?**
 
@@ -581,5 +594,7 @@ Ini membawa inquiry dari **scope of coherence review** menuju **sufficiency of c
 **P0048 — selesai sebagai inquiry.**
 
 **Temuan utama:** Local consistency adalah default, tetapi systemic coherence check diperlukan ketika perubahan memiliki credible systemic consequence. System-level check tidak sama dengan full-system reopening.
+
+**Working rule:** Review scope mengikuti substantive consequence; system-level coherence diperiksa ketika shared/fundamental semantics, cross-domain constraints, atau credible systemic tension membuat local check tidak lagi memadai.
 
 **Next inquiry:** P0049 — *Apa Minimum Evidence dan Reasoning yang Cukup untuk Menyatakan System-Level Coherence Check Memadai?*
