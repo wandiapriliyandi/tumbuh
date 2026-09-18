@@ -1,231 +1,387 @@
 # P0007 — Apa yang Membedakan Design Principle dari Core Principle, Core Model, Method, dan Decision?
 
-## Pertanyaan
+## Status
 
-**Karakteristik apa yang harus dimiliki sebuah Design Principle agar benar-benar berbeda dari Core Principle, Core Model, method, dan decision?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0007  
+**Status:** Revised  
+**Type:** Design Principles Boundary Inquiry
 
-P0006 menemukan bahwa Design Principles dapat dipertahankan apabila memiliki fungsi substantif sebagai jembatan dari Core Principles menuju desain sistem. P0007 menguji batas konsep tersebut agar folder Design Principles tidak menjadi tempat menampung semua gagasan yang tidak jelas kategorinya.
+---
 
-## 1. Mengapa Batas Konseptual Diperlukan?
+## 1. Object of Inquiry
 
-Jika batas antara Design Principle dan konsep lain kabur, terdapat beberapa risiko:
+**Object of Inquiry:** Design Principles TUMBUH.
 
-- Core Principle hanya diganti nama menjadi Design Principle.
-- keputusan desain tertentu dianggap sebagai prinsip universal;
-- metode implementasi naik menjadi prinsip;
-- Core Model ditulis ulang dalam bentuk kalimat normatif;
-- repository menjadi rapi secara struktur tetapi lemah secara konseptual.
+P0007 menguji batas substantif Design Principle agar lapisan ini tidak menjadi tempat menampung Core Principle, Core Model, Method, atau Decision.
 
-Karena itu, klasifikasi harus mengikuti **fungsi dan tingkat abstraksi**, bukan sekadar bentuk kalimat atau lokasi file.
+---
 
-## 2. Design Principle vs Core Principle
+## 2. TUMBUH Question
+
+> **Apa yang membuat sebuah commitment pengarah benar-benar merupakan Design Principle TUMBUH, bukan pengulangan Core Principle, bagian dari Core Model, Method, atau Decision?**
+
+Pertanyaan ini muncul langsung dari P0006.
+
+P0006 mendukung Design Principles karena kemungkinan adanya commitment reusable pada tingkat desain.
+
+Sekarang fungsi tersebut perlu dibuat lebih presisi.
+
+---
+
+## 3. Working Definition
+
+Berdasarkan P0001–P0006, working definition yang digunakan:
+
+> **Design Principle adalah commitment pengarah pada tingkat desain yang membantu TUMBUH memilih, membentuk, atau mengevaluasi alternatif desain tanpa menetapkan satu desain tertentu.**
+
+Definisi ini belum final.
+
+Ia perlu diuji terhadap batas dengan konsep lain.
+
+---
+
+## 4. Design Principle dan Core Principle
 
 ### Core Principle
 
-Core Principle merupakan komitmen sistem yang bersifat fundamental dan relatif stabil. Ia menjawab:
+Menjawab:
 
-> **Apa yang harus tetap dijaga agar TUMBUH tetap konsisten dengan identitas dan arah fundamentalnya?**
+> **Commitment fundamental apa yang harus tetap dijaga oleh TUMBUH?**
 
 ### Design Principle
 
-Design Principle menjawab pertanyaan berbeda:
+Menjawab:
 
-> **Bagaimana proses perancangan sistem harus berpikir atau memilih agar komitmen fundamental tersebut terjaga?**
+> **Commitment desain apa yang harus dijaga ketika TUMBUH menerjemahkan fondasi tersebut ke dalam desain?**
 
-Perbedaan utamanya bukan pada kata-kata, melainkan pada fungsi.
+Maka perbedaannya bukan terutama pada kata-kata.
 
-Secara sederhana:
+Perbedaannya pada **fungsi commitment**.
 
-**Core Principle = invariant yang dijaga.**
+~~~text
+CORE PRINCIPLE
+→ menjaga commitment fundamental
 
-**Design Principle = constraint/heuristic dalam menerjemahkan invariant ke desain.**
+DESIGN PRINCIPLE
+→ mengarahkan penerjemahan commitment
+  ke dalam desain
+~~~
 
-Sebuah pernyataan yang hanya mengulang komitmen fundamental belum menjadi Design Principle.
+Jika sebuah rumusan hanya mengulang commitment fundamental tanpa memberikan fungsi desain tambahan, ia belum memiliki alasan kuat untuk menjadi Design Principle.
 
-## 3. Design Principle vs Core Model
+---
 
-Core Model merupakan representasi konseptual mengenai bagaimana sistem tersusun atau bekerja.
+## 5. Design Principle dan Core Model
 
-Design Principle tidak seharusnya menetapkan struktur model secara langsung.
+Core Model menjelaskan **bagaimana Sistem TUMBUH dimodelkan**.
 
-Contoh abstrak:
+Design Principle memberi arah ketika model tersebut dirancang.
 
-> “Sistem harus memandang perkembangan manusia sebagai proses yang utuh.”
+~~~text
+DESIGN PRINCIPLE
+      ↓
+mengarahkan desain
+      ↓
+CORE MODEL
+      ↓
+merepresentasikan sistem
+~~~
 
-dapat menjadi komitmen/prinsip.
+Perbedaan pengujinya:
 
-Sedangkan:
+> **Apakah pernyataan ini mengatakan commitment yang harus dijaga ketika mendesain, atau sudah mengatakan seperti apa model TUMBUH itu?**
 
-> “Dalam merancang model, jangan memisahkan dimensi perkembangan menjadi domain yang sepenuhnya independen apabila pemisahan tersebut menghilangkan keterhubungannya.”
+Jika sudah menetapkan struktur, komponen, hubungan, tahapan, atau mekanisme model secara substantif, ia perlu diperiksa sebagai bagian dari Core Model.
 
-lebih dekat dengan fungsi Design Principle karena memberikan arahan terhadap **cara mendesain**.
+---
 
-Sementara:
-
-> “Model TUMBUH terdiri dari X, Y, dan Z.”
-
-sudah merupakan klaim Core Model, bukan Design Principle.
-
-## 4. Design Principle vs Method
+## 6. Design Principle dan Method
 
 Method menjawab:
 
-> **Dengan cara apa suatu pekerjaan dilakukan?**
+> **Bagaimana suatu pekerjaan dilakukan?**
 
 Design Principle menjawab:
 
-> **Pertimbangan apa yang harus memandu pemilihan atau pembentukan desain?**
+> **Commitment apa yang harus memandu pilihan atau pembentukan desain?**
 
-Karena itu Design Principle tidak seharusnya berbentuk prosedur langkah demi langkah.
+Maka:
 
-Jika suatu pernyataan dapat langsung diubah menjadi SOP atau instruksi kerja, kemungkinan besar ia bukan Design Principle.
+~~~text
+Design Principle
+      ↓
+membatasi / mengarahkan
+      ↓
+pilihan method
+~~~
 
-## 5. Design Principle vs Decision
+tetapi:
 
-Decision adalah pilihan konkret yang dibuat dalam konteks tertentu.
+> **Design Principle bukan method.**
 
-Design Principle seharusnya lebih umum dan dapat digunakan kembali ketika menghadapi keputusan serupa.
+Jika rumusan dapat langsung diterjemahkan menjadi prosedur langkah demi langkah, ia perlu diuji apakah sudah turun ke level method atau operational guidance.
 
-Perbedaannya:
+---
 
-**Decision:**
-> “Pada versi ini kita memilih struktur A.”
+## 7. Design Principle dan Decision
 
-**Design Principle:**
-> “Ketika terdapat beberapa alternatif struktur, pilih desain yang mempertahankan keterhubungan antar-dimensi yang secara konseptual saling bergantung.”
+Decision adalah pilihan konkret dalam konteks tertentu.
 
-Decision dapat berubah karena konteks atau bukti baru. Design Principle menjadi dasar untuk menilai berbagai decision.
+Design Principle harus memiliki penggunaan yang lebih luas.
 
-## 6. Lima Uji untuk Design Principle
+~~~text
+DESIGN PRINCIPLE
+      ↓
+memandu beberapa kemungkinan keputusan
+      ↓
+DESIGN DECISION
+~~~
 
-Sebuah kandidat Design Principle dapat diuji melalui lima pertanyaan:
+Pertanyaan pengujinya:
 
-### Uji 1 — Translasi
+> **Apakah rumusan ini hanya menjelaskan pilihan yang dibuat, atau dapat digunakan kembali ketika menghadapi keputusan desain serupa?**
 
-Apakah ia membantu menerjemahkan Core Principle ke dalam keputusan desain?
+Jika hanya menjelaskan satu pilihan:
 
-Jika tidak, dasar untuk menyebutnya Design Principle lemah.
+> kemungkinan besar ia adalah Decision.
 
-### Uji 2 — Generalisasi
+---
 
-Apakah ia dapat berlaku pada lebih dari satu keputusan atau komponen desain?
+## 8. Lima Uji Candidate Design Principle
 
-Jika hanya berlaku pada satu keputusan spesifik, ia mungkin merupakan decision.
+P0007 menghasilkan lima uji awal.
 
-### Uji 3 — Abstraksi
+### Uji 1 — Translation
 
-Apakah ia cukup abstrak untuk tidak menjadi Core Model atau method?
+Apakah commitment ini membantu menerjemahkan Core Principle atau kebutuhan sistem yang sah ke dalam desain?
 
-Jika terlalu konkret, kategorinya perlu ditinjau kembali.
+### Uji 2 — Reusability
 
-### Uji 4 — Constraint
+Apakah dapat digunakan untuk lebih dari satu keputusan atau situasi desain yang relevan?
 
-Apakah ia dapat digunakan untuk menolak atau menerima alternatif desain?
+### Uji 3 — Abstraction
 
-Jika tidak menghasilkan konsekuensi terhadap pilihan desain, fungsi prinsipnya perlu dipertanyakan.
+Apakah cukup abstrak sehingga tidak menjadi Core Model atau Method?
+
+### Uji 4 — Design Consequence
+
+Apakah commitment ini dapat memengaruhi penerimaan, penolakan, atau pembentukan alternatif desain?
 
 ### Uji 5 — Traceability
 
-Apakah dapat ditelusuri ke Core Principle atau kebutuhan sistem yang sah?
+Apakah asal-usul dan reasoning-nya dapat ditelusuri?
 
-Design Principle tidak boleh muncul tanpa dasar.
+Kelima uji ini adalah **alat inquiry**, bukan rubric acceptance final.
 
-## 7. Matriks Pembeda
+---
 
-| Konsep | Pertanyaan utama | Tingkat | Fungsi |
-|---|---|---|---|
-| Core Principle | Apa yang harus tetap dijaga? | Fundamental | Menjaga identitas/komitmen sistem |
-| Design Principle | Bagaimana desain harus berpikir? | Translasional | Mengarahkan pilihan desain |
-| Core Model | Sistem ini tersusun/bekerja seperti apa? | Arsitektural | Merepresentasikan sistem |
-| Method | Bagaimana pekerjaan dilakukan? | Prosedural | Menentukan cara melakukan |
-| Decision | Pilihan apa yang dibuat? | Kontekstual | Menetapkan pilihan konkret |
+## 9. Uji Counterfactual
 
-Matriks ini bukan hierarki nilai. Ia adalah pembedaan berdasarkan fungsi.
+Counterfactual membantu memperjelas batas.
 
-## 8. Uji Counterfactual
+### Jika keputusan konkret berubah
 
-Pertanyaan berikut membantu menguji kandidat:
+> Apakah commitment masih dapat digunakan?
 
-> **Jika keputusan desain berubah, apakah prinsip tersebut masih berlaku?**
+Jika tidak, mungkin ia Decision.
 
-Jika jawabannya tidak, kandidat mungkin hanya decision.
+### Jika model tertentu berubah
 
-Pertanyaan berikutnya:
+> Apakah commitment masih dapat digunakan untuk menilai atau membentuk model lain?
 
-> **Jika model berubah, apakah prinsip tersebut masih dapat digunakan untuk menilai model baru?**
+Jika ya, kandidat lebih mungkin Design Principle.
 
-Jika ya, kandidat lebih mungkin merupakan Design Principle.
+### Jika detail desain dihapus
 
-Dan:
+> Apakah commitment masih memberikan arah terhadap cara mendesain?
 
-> **Jika semua detail desain dihapus, apakah pernyataan tersebut masih memberikan arah terhadap cara mendesain?**
+Jika tidak, mungkin ia terlalu konkret.
 
-Jika ya, ia memiliki karakter abstraksi yang sesuai.
+---
 
-## 9. Risiko Overclassification
+## 10. Design Principle Harus Membatasi Design Space
 
-Tidak semua gagasan normatif perlu diberi label Design Principle.
+Design Principle tidak harus menghasilkan satu desain.
 
-Repository sebaiknya tidak memiliki prinsip hanya agar setiap aspek sistem memiliki “prinsip”.
+Justru salah satu cirinya adalah:
 
-Khususnya:
+~~~text
+DESIGN PRINCIPLE
+      ↓
+membatasi design space
+      ↓
+DESIGN A
+DESIGN B
+DESIGN C
+~~~
 
-- aturan operasional tidak perlu dinaikkan menjadi Design Principle;
-- preferensi desain tidak otomatis menjadi Design Principle;
-- temuan penelitian tidak otomatis menjadi Design Principle;
-- slogan atau nilai tidak otomatis menjadi Design Principle;
-- keputusan arsitektur tidak otomatis menjadi Design Principle.
+Beberapa desain dapat tetap valid selama memenuhi commitment tersebut.
 
-Label **Principle** harus diperoleh melalui fungsi, dasar, dan traceability.
+Karena itu:
 
-## 10. Temuan
+> **Design Principle bukan blueprint.**
 
-P0007 menghasilkan batas kerja berikut:
+Blueprint atau struktur konkret lebih dekat dengan Core Model atau design decision.
 
-1. **Core Principle** menjaga komitmen fundamental.
-2. **Design Principle** mengarahkan cara berpikir dalam menerjemahkan komitmen tersebut ke desain.
-3. **Core Model** menggambarkan struktur/relasi konseptual sistem.
-4. **Method** menentukan cara melakukan pekerjaan.
-5. **Decision** menetapkan pilihan konkret dalam konteks tertentu.
-6. Design Principle seharusnya cukup general untuk memandu lebih dari satu keputusan.
-7. Design Principle seharusnya cukup abstrak agar tidak berubah menjadi model atau prosedur.
-8. Design Principle harus memiliki konsekuensi terhadap pilihan desain.
-9. Traceability merupakan syarat penting agar Design Principle tidak menjadi opini desain yang tidak berakar.
+---
 
-## 11. Keputusan Sementara
+## 11. Tidak Semua Pertimbangan Desain Menjadi Principle
 
-**PASS — BATAS KERJA DESIGN PRINCIPLE DAPAT DIRUMUSKAN.**
+Dalam inquiry dan desain TUMBUH akan muncul banyak pertimbangan.
 
-Working definition:
+Tidak semuanya harus dinaikkan menjadi Design Principle.
 
-> **Design Principle adalah komitmen pengarah pada tingkat desain yang menerjemahkan Core Principles atau kebutuhan sistem yang sah menjadi pertimbangan dan constraint untuk memilih, membentuk, atau mengevaluasi alternatif desain.**
+Sebuah pertimbangan hanya layak diuji sebagai Design Principle apabila memiliki:
 
-Definisi ini masih bersifat working definition dan dapat dibuka kembali apabila inquiry berikutnya menemukan kasus batas yang tidak dapat dijelaskan oleh kriteria tersebut.
+- commitment normatif;
+- fungsi pengarah desain;
+- relevansi yang dapat digunakan kembali;
+- konsekuensi terhadap alternatif desain;
+- dan traceability.
 
-## 12. Implikasi bagi Repository
+Jika hanya berlaku untuk satu kasus:
 
-Folder Design Principles sebaiknya tidak diisi dengan daftar gagasan normatif secara bebas.
+~~~text
+design reasoning
+      ↓
+decision
+~~~
 
-Setiap kandidat harus dapat menjawab:
+tidak perlu dibuat menjadi Principle.
 
-1. berasal dari mana;
-2. prinsip fundamental atau kebutuhan sistem apa yang diterjemahkan;
-3. keputusan desain apa yang dipengaruhinya;
-4. alternatif desain apa yang dapat dinilai dengannya;
-5. mengapa ia bukan Core Principle, Core Model, method, atau decision.
+---
 
-Dengan demikian, Design Principles menjadi **lapisan reasoning desain**, bukan tempat penampungan.
+## 12. Risiko Overclassification
 
-## 13. Next Inquiry
+P0007 menandai beberapa bentuk inflation:
 
-> **Apakah Design Principles harus diturunkan dari Core Principles saja, atau dapat memiliki sumber legitimasi lain seperti kebutuhan sistem, evidence, dan temuan PROBE?**
+~~~text
+nilai
+ ↓
+disebut Design Principle
 
-P0008 akan menguji sumber legitimasi Design Principles dan batas hubungan antara prinsip fundamental, evidence, serta kebutuhan desain.
+temuan penelitian
+ ↓
+disebut Design Principle
 
-## Status
+preferensi desain
+ ↓
+disebut Design Principle
 
-**P0007 — selesai sebagai inquiry.**
+keputusan arsitektur
+ ↓
+disebut Design Principle
 
-**Temuan utama:** Design Principle dapat dibedakan dari Core Principle, Core Model, method, dan decision melalui fungsi, tingkat abstraksi, kemampuan generalisasi, konsekuensi terhadap pilihan desain, dan traceability.
+SOP
+ ↓
+disebut Design Principle
+~~~
 
-**Next inquiry:** P0008 — *Dari mana Design Principles memperoleh legitimasi?*
+Semua bentuk tersebut dapat membuat repository tampak kaya prinsip tetapi kehilangan ketepatan konseptual.
+
+Karena itu label **Design Principle harus diperoleh melalui fungsi dan reasoning**, bukan melalui bentuk kalimat.
+
+---
+
+## 13. Matriks Pembeda
+
+| Konsep | Pertanyaan utama | Fungsi |
+|---|---|---|
+| **Core Principle** | Apa commitment fundamental yang harus dijaga? | Menjaga arah/identitas fundamental |
+| **Design Principle** | Commitment desain apa yang harus dijaga? | Mengarahkan pilihan desain |
+| **Core Model** | Sistem dimodelkan seperti apa? | Merepresentasikan struktur konseptual |
+| **Method** | Bagaimana pekerjaan dilakukan? | Menentukan cara |
+| **Decision** | Pilihan konkret apa yang dibuat? | Menetapkan pilihan kontekstual |
+
+Matriks ini bukan ranking.
+
+Ia adalah **pembedaan berdasarkan fungsi**.
+
+---
+
+## 14. Boundary
+
+P0007 **tidak** sedang:
+
+- menentukan candidate Design Principles TUMBUH;
+- menetapkan Core Principles;
+- membangun Core Model;
+- memilih methods;
+- atau menilai keputusan desain tertentu.
+
+Fokusnya hanya:
+
+> **menentukan batas konseptual agar Design Principle tidak bercampur dengan lapisan lain.**
+
+---
+
+## 15. Repository Destination
+
+Hasil P0007 diarahkan ke:
+
+**Principles → Design Principles → definisi dan batas**
+
+Temuan ini menjadi dasar ketika candidate Design Principles TUMBUH mulai dikaji secara substantif.
+
+---
+
+## 16. Implication for TUMBUH
+
+P0007 memberikan implikasi:
+
+> **Design Principles TUMBUH harus diperlakukan sebagai commitment pengarah pada tingkat desain, bukan sebagai tempat untuk menyimpan semua alasan, keputusan, metode, atau struktur model.**
+
+Setiap candidate nantinya perlu dapat menjelaskan:
+
+1. commitment apa yang dikandung;
+2. kebutuhan desain apa yang dijawab;
+3. alternatif desain apa yang dipengaruhinya;
+4. mengapa ia reusable;
+5. mengapa ia bukan Core Principle, Core Model, Method, atau Decision;
+6. dan bagaimana reasoning-nya dapat ditelusuri.
+
+---
+
+## 17. Temuan Sementara
+
+1. **Design Principle berbeda dari Core Principle berdasarkan fungsi commitment, bukan sekadar wording.**
+2. **Design Principle berbeda dari Core Model karena ia mengarahkan desain tanpa menjadi representasi model itu sendiri.**
+3. **Design Principle berbeda dari Method karena ia tidak menetapkan cara melakukan pekerjaan.**
+4. **Design Principle berbeda dari Decision karena ia reusable pada lebih dari satu keputusan desain yang relevan.**
+5. **Design Principle harus memiliki konsekuensi terhadap design space.**
+6. **Traceability diperlukan agar Design Principle tidak menjadi preferensi desain pribadi.**
+7. **Tidak semua design reasoning perlu dinaikkan menjadi Principle.**
+
+Temuan ini masih provisional.
+
+---
+
+## 18. Kesimpulan
+
+P0007 memperjelas working boundary:
+
+> **Design Principle adalah commitment pengarah pada tingkat desain yang dapat digunakan kembali untuk membentuk atau mengevaluasi alternatif desain TUMBUH.**
+
+Ia:
+
+- lebih spesifik secara fungsi daripada Core Principle;
+- lebih abstrak daripada Core Model;
+- berbeda dari Method;
+- dan lebih reusable daripada Decision.
+
+Dengan batas ini, inquiry berikutnya dapat kembali kepada pertanyaan substantif:
+
+> **Dari mana Design Principles TUMBUH memperoleh legitimasi, dan apakah Core Principles merupakan satu-satunya sumbernya?**
+
+Pertanyaan tersebut membawa PROBE kembali kepada **asal-usul Principles TUMBUH**, bukan kepada teori desain umum.
+
+---
+
+## 19. Status Inquiry
+
+**Finding:** Design Principle dapat dibedakan melalui fungsi commitment, tingkat abstraksi, reusability, design consequence, dan traceability.
+
+**Working definition:** Design Principle = commitment pengarah pada tingkat desain yang membantu TUMBUH memilih, membentuk, atau mengevaluasi alternatif desain tanpa menetapkan satu desain tertentu.
+
+**Open question:** Dari mana Design Principles TUMBUH memperoleh legitimasi, dan apakah Core Principles merupakan satu-satunya sumbernya?
