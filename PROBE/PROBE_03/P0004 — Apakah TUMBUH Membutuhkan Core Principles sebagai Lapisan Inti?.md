@@ -1,306 +1,429 @@
 # P0004 — Apakah TUMBUH Membutuhkan Core Principles sebagai Lapisan Inti?
 
-## Pertanyaan
+## Status
 
-**Apakah TUMBUH membutuhkan Core Principles sebagai lapisan inti yang menjadi sumber bagi Principles lainnya?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0004  
+**Status:** Revised  
+**Type:** Core Principles Inquiry
 
-## 1. Titik Berangkat
+---
 
-P0003 menemukan bahwa domain dan level fundamentalitas perlu dibedakan. Repository TUMBUH sendiri sudah membedakan:
+## 1. Object of Inquiry
 
-```text
-Principles
-├── Core Principles
-│   └── apa yang harus tetap dijaga
-└── Design Principles
-    └── bagaimana berpikir ketika menerjemahkan pegangan
-       tersebut ke dalam desain
-```
+**Object of Inquiry:** Principles TUMBUH, khususnya kebutuhan akan **Core Principles** sebagai commitment fundamental.
 
-Repository menetapkan bacaan sederhana:
+P0004 tidak sedang menentukan isi Core Principles.
 
-```text
-Philosophy
-    ↓
-Core Principles
-    ↓
-Design Principles
-    ↓
-Core Model
-```
+---
 
-P0004 bertugas menguji apakah pemisahan tersebut diperlukan secara konseptual.
+## 2. TUMBUH Question
 
-## 2. Mengapa Core Principles Diperlukan?
+> **Apakah TUMBUH membutuhkan kelompok Core Principles yang terbatas untuk menjaga commitment fundamental sistem, dan apa alasan sistemiknya?**
 
-Jika Principles hanya berupa kumpulan Design Principles, tidak ada lapisan yang cukup stabil untuk menjaga identitas sistem ketika desain, program, metode, teknologi, atau implementasi berubah.
+Pertanyaan ini merupakan kelanjutan langsung P0003.
 
-Maka diperlukan lapisan:
+P0003 menemukan bahwa fundamentalitas perlu dibedakan dari domain dan dari keputusan desain.
 
-```text
-CORE PRINCIPLES
-= apa yang harus tetap dijaga
+P0004 menguji apakah pembedaan tersebut memang membutuhkan sebuah kelompok Core Principles yang eksplisit.
 
-DESIGN PRINCIPLES
-= bagaimana pegangan tersebut diterjemahkan
-  ketika sistem dirancang
-```
+---
 
-Ini sesuai dengan README Principles yang menyebut Core Principles sebagai pegangan paling mendasar TUMBUH dan Design Principles sebagai cara berpikir dalam menerjemahkannya ke desain.
+## 3. Titik Berangkat
 
-## 3. Core Principles Bukan Philosophy
+P0001 merumuskan Principle TUMBUH secara sementara sebagai:
 
-Philosophy dan Core Principles memiliki fungsi berbeda.
+> **komitmen normatif yang memberi arah dan batas bagi perumusan serta pengambilan keputusan dalam Sistem TUMBUH.**
 
-```text
+P0002 menunjukkan bahwa candidate Principle membutuhkan dasar dan reasoning yang dapat ditelusuri.
+
+P0003 kemudian menunjukkan kemungkinan adanya commitment fundamental yang berbeda dari Design Principle.
+
+Dari tiga temuan tersebut muncul pertanyaan:
+
+> **Apakah commitment fundamental tersebut perlu direpresentasikan sebagai Core Principles?**
+
+---
+
+## 4. Mengapa Lapisan Inti Mungkin Diperlukan?
+
+Sistem TUMBUH harus mampu berubah tanpa kehilangan arah fundamentalnya.
+
+Program dapat berubah.
+
+Metode dapat berubah.
+
+Implementasi dapat diperbaiki.
+
+Model atau desain tertentu dapat berkembang.
+
+Tetapi tidak setiap perubahan tersebut seharusnya mengubah apa yang membuat TUMBUH menjadi sistem yang sama.
+
+Maka diperlukan kemungkinan adanya:
+
+~~~text
+COMMITMENT FUNDAMENTAL
+        ↓
+menjaga arah dan identitas
+        ↓
+DESIGN COMMITMENTS
+        ↓
+MODEL / FRAMEWORK
+~~~
+
+Jika commitment fundamental tidak dibedakan, setiap perubahan desain berisiko diperlakukan seolah-olah perubahan pada fondasi.
+
+---
+
+## 5. Petunjuk dari Struktur TUMBUH
+
+Repository TUMBUH menempatkan Principles di dalam wilayah Fundamental dan membedakan **Core Principles** dari **Design Principles**.
+
+Secara konseptual:
+
+~~~text
 PHILOSOPHY
     ↓
-worldview dan landasan pemikiran
-    ↓
 CORE PRINCIPLES
     ↓
-pegangan yang harus dijaga sistem
-```
+DESIGN PRINCIPLES
+    ↓
+CORE MODEL
+~~~
 
-Philosophy menjelaskan bagaimana TUMBUH memahami manusia, pertumbuhan, pendidikan, dan tujuan yang mendasarinya.
+Struktur ini merupakan petunjuk internal yang relevan bagi inquiry.
 
-Core Principles menjawab:
+Namun penting:
 
-> **Jika Philosophy tersebut benar-benar menjadi landasan TUMBUH, apa yang harus tetap dijaga ketika sistem dirancang, diterapkan, dinilai, dan diperbaiki?**
+> **keberadaan folder atau label dalam repository tidak dengan sendirinya membuktikan kebutuhan konseptualnya.**
 
-Jadi Core Principles bukan ringkasan Philosophy. Ia merupakan translasi normatif Philosophy ke tingkat sistem.
+P0004 tetap perlu menguji fungsi Core Principles terhadap Sistem TUMBUH.
 
-## 4. Hubungan dengan Design Principles
+---
 
-Design Principles perlu dapat ditelusuri kembali kepada Core Principles, tetapi tidak harus diturunkan secara mekanis.
+## 6. Core Principles Bukan Philosophy
 
-Hubungan yang lebih tepat:
+Jika Core Principles memang diperlukan, ia tidak boleh hanya menjadi ringkasan Philosophy.
 
-```text
+Perbedaannya sementara dapat dirumuskan:
+
+~~~text
+PHILOSOPHY
+→ bagaimana TUMBUH memahami realitas,
+  manusia, perkembangan, pendidikan,
+  kepemimpinan, dan perubahan
+
+CORE PRINCIPLES
+→ commitment normatif apa yang harus
+  tetap dijaga oleh sistem berdasarkan
+  fondasi tersebut
+~~~
+
+Dengan demikian:
+
+> **Philosophy memberikan fondasi pemahaman; Core Principles menerjemahkan konsekuensi normatifnya ke tingkat sistem.**
+
+Hubungan ini masih perlu diuji ketika isi Philosophy TUMBUH digunakan untuk mengidentifikasi candidate Core Principles.
+
+---
+
+## 7. Core Principles Bukan Design Principles
+
+Pembedaan utamanya terletak pada konsekuensi perubahan.
+
+### Core Principle
+
+Jika berubah, terdapat kemungkinan perubahan pada **arah atau identitas fundamental TUMBUH**.
+
+### Design Principle
+
+Jika berubah, yang terutama berubah adalah **cara sistem dirancang**, sementara commitment fundamental masih dapat dipertahankan.
+
+Secara sederhana:
+
+~~~text
 Core Principle
-      ↓
-design implication
-      ↓
+→ apa yang secara fundamental harus dijaga
+
 Design Principle
+→ bagaimana sistem dirancang
+  dengan menjaga commitment tersebut
+~~~
+
+Ini bukan berarti Design Principles kurang penting.
+
+Keduanya mempunyai fungsi berbeda.
+
+---
+
+## 8. Uji Counterfactual
+
+P0003 menghasilkan counterfactual sebagai alat awal.
+
+Untuk candidate Core Principle:
+
+> **Jika commitment ini tidak lagi dijaga, apakah TUMBUH masih memiliki arah dan identitas fundamental yang sama?**
+
+Jika perubahan hanya memengaruhi desain tertentu, candidate tersebut lebih tepat diuji sebagai Design Principle.
+
+Skema:
+
+~~~text
+Candidate Commitment
+        ↓
+dihilangkan / dibalik
+        ↓
+identitas atau arah fundamental berubah?
+   ├── ya → Core Principle candidate
+   │
+   └── tidak
+        ↓
+desain sistem berubah?
+        ├── ya → Design Principle candidate
+        └── tidak → cari level yang sesuai
+~~~
+
+Counterfactual ini bukan keputusan otomatis.
+
+Ia hanya membantu menentukan pertanyaan inquiry berikutnya.
+
+---
+
+## 9. Core Principles Tidak Harus Banyak
+
+Jika seluruh Design Principles dinaikkan menjadi Core Principles, fungsi lapisan inti akan hilang.
+
+Core Principles harus cukup terbatas sehingga benar-benar merepresentasikan commitment yang fundamental.
+
+Namun P0004 **belum menentukan jumlahnya**.
+
+Yang dapat dirumuskan sekarang hanya:
+
+> **Tidak semua Principle perlu menjadi Core Principle.**
+
+Dan:
+
+> **Jumlah Core Principles tidak boleh ditentukan semata-mata demi simetri struktur repository.**
+
+---
+
+## 10. Core Principles sebagai Invariant Normatif
+
+Untuk kebutuhan TUMBUH, Core Principle dapat dipahami sementara sebagai **invariant normatif**.
+
+Invariant berarti commitment yang diharapkan tetap dijaga ketika bagian lain sistem berubah.
+
+Contoh struktur perubahan:
+
+~~~text
+PROGRAM A → PROGRAM B
+
+METHOD A → METHOD B
+
+IMPLEMENTATION A → IMPLEMENTATION B
+~~~
+
+Perubahan tersebut tidak otomatis berarti:
+
+~~~text
+CORE PRINCIPLE A → CORE PRINCIPLE B
+~~~
+
+Jika Core Principle sendiri perlu berubah, maka perubahan tersebut perlu diperlakukan sebagai perubahan fundamental dan membutuhkan reasoning yang lebih dalam.
+
+“Invariant” di sini bukan berarti tidak dapat pernah direvisi.
+
+---
+
+## 11. Fungsi Core Principles bagi Sistem
+
+P0004 menemukan dua fungsi utama.
+
+### 11.1 Fundamental Guardrail
+
+Core Principles membatasi arah sistem agar tidak bergerak bertentangan dengan commitment fundamental.
+
+~~~text
+PHILOSOPHY
+    ↓
+CORE PRINCIPLE
+    ↓
+arah + batas sistem
+~~~
+
+### 11.2 Anchor bagi Design Reasoning
+
+Core Principles menyediakan titik rujukan ketika TUMBUH harus membuat keputusan desain.
+
+~~~text
+CORE PRINCIPLE
+      ↓
+system question
+      ↓
+design reasoning
+      ↓
+DESIGN PRINCIPLE
       ↓
 design decision
-```
+~~~
 
-Evidence, research, pengalaman, dan kebutuhan sistem dapat membantu menentukan bentuk Design Principle:
+Dengan demikian, Core Principles dapat menjaga hubungan antara fondasi dan desain tanpa menentukan seluruh desain secara mekanis.
 
-```text
-Core Principle
-      +
-Evidence
-      +
-System requirements
-      +
-Design reasoning
-      ↓
-Design Principle
-```
+---
 
-Core Principle memberikan arah dan batas; inquiry membantu menemukan bentuk penerapannya.
+## 12. Tidak Semua Design Principle Harus “Turunan” Mekanis
 
-## 5. Apakah Semua Principles Harus Menjadi Core Principles?
+P0002 telah menunjukkan bahwa evidence dan kebutuhan desain dapat berkontribusi pada candidate Principle.
 
-Tidak.
+Hal tersebut tetap berlaku.
 
-Core Principles harus tetap kecil dan mendasar. Jika setiap pedoman desain dinaikkan menjadi Core Principle:
+Maka hubungan yang lebih tepat:
 
-- lapisan inti menjadi terlalu besar;
-- komitmen fundamental bercampur dengan keputusan desain;
-- revisi desain menjadi sulit;
-- sistem menjadi terlalu kaku.
-
-Karena itu:
-
-> **Core Principles sebaiknya hanya memuat komitmen yang benar-benar perlu dipertahankan pada tingkat paling dasar sistem.**
-
-Jumlah Core Principles belum ditentukan melalui P0004.
-
-## 6. Uji Kontra-Faktual
-
-P0003 mengusulkan pertanyaan:
-
-> **Jika prinsip ini dihapus, apa yang berubah?**
-
-Untuk Core Principles, pertanyaannya diperketat:
-
-> **Jika komitmen ini tidak lagi dijaga, apakah identitas atau arah fundamental TUMBUH berubah?**
-
-Skema awal:
-
-```text
-Candidate Principle
-        ↓
-Jika dihapus...
-        ↓
-identitas / arah fundamental berubah?
-   ├── ya → Core Principle candidate
-   └── tidak
-          ↓
-   arsitektur desain berubah?
-      ├── ya → Design Principle candidate
-      └── tidak → periksa lapisan implementasi/operasional
-```
-
-Ini merupakan alat penyaringan awal, bukan rubric final.
-
-## 7. Core Principles sebagai Invariant Normatif
-
-Core Principles dapat dipahami sebagai **invariant normatif**: komitmen yang diharapkan tetap dijaga ketika banyak bagian sistem berubah.
-
-Invariant tidak berarti tidak boleh berubah sama sekali.
-
-Program dapat berubah:
-
-```text
-Program A → Program B
-```
-
-Metode dapat berubah:
-
-```text
-Method A → Method B
-```
-
-Implementasi dapat diperbaiki:
-
-```text
-Implementation A → Implementation B
-```
-
-Namun perubahan tersebut tidak otomatis menghapus komitmen fundamental TUMBUH.
-
-Jika evidence atau reasoning baru menuntut perubahan Core Principle, perubahan tersebut harus diperlakukan sebagai perubahan fundamental, bukan sekadar revisi teknis.
-
-## 8. Dua Fungsi Utama
-
-### A. Guardrail
-
-Core Principles membatasi arah yang tidak konsisten dengan fondasi TUMBUH.
-
-```text
-Philosophy
-    ↓
-Core Principle
-    ↓
-batas arah sistem
-```
-
-### B. Source of Design Coherence
-
-Core Principles menjadi titik rujukan bagi prinsip yang lebih spesifik.
-
-```text
-Core Principles
+~~~text
+CORE PRINCIPLE
+       +
+RELEVANT EVIDENCE
+       +
+SYSTEM NEED
        ↓
-Design Principles
+DESIGN REASONING
        ↓
-Core Model
-```
-
-Dengan demikian Core Principles menjaga koherensi vertikal sistem.
-
-## 9. Hubungan dengan Prinsip Domain-Specific
-
-PROBE 03 sebelumnya memetakan:
-
-- Core Principles;
-- Design Principles;
-- Learning Principles;
-- Development Principles;
-- Assessment Principles;
-- Intervention Principles;
-- Implementation Principles.
-
-P0004 menunjukkan bahwa kelompok-kelompok tersebut tidak harus merupakan tujuh lapisan yang sejajar.
-
-Hipotesis yang perlu diuji:
-
-```text
-                 CORE PRINCIPLES
-                       ↓
-                DESIGN PRINCIPLES
-                       ↓
-          ┌────────────┼────────────┐
-          ↓            ↓            ↓
-      Learning     Development   Assessment
-      Principles    Principles   Principles
-          ↓            ↓            ↓
-      Intervention / Implementation
-                 Principles
-```
-
-Namun struktur ini belum dikunci. P0005 perlu menguji hubungan masing-masing domain dengan Core Principles dan Design Principles.
-
-## 10. Risiko Over-Centralization
-
-Jika semua Principles harus dijelaskan sebagai deduksi langsung dari sejumlah Core Principles yang sangat sedikit, TUMBUH dapat menjadi terlalu tersentralisasi.
-
-Traceability yang dibutuhkan bukan deduksi palsu.
-
-Yang lebih tepat:
-
-```text
-Core Principle
-      ↓
-relevant implication
-      ↓
-specific principle
-```
+DESIGN PRINCIPLE
+~~~
 
 Bukan:
 
-```text
-Core Principle A
-      ↓
-semua prinsip lainnya
-```
+~~~text
+CORE PRINCIPLE
+       ↓
+semua Design Principles
+~~~
 
-Jaringan hubungan dapat lebih realistis daripada satu rantai linear.
+Core Principle memberikan arah dan constraint.
 
-## 11. Temuan Sementara
+Inquiry tetap diperlukan untuk menemukan bentuk desain yang tepat.
 
-1. **TUMBUH membutuhkan pembedaan antara Core Principles dan Design Principles.**
-2. **Core Principles merupakan lapisan pegangan paling mendasar dalam domain Principles.**
-3. **Core Principles bukan pengulangan Philosophy, tetapi translasi konsekuensinya ke tingkat sistem.**
-4. **Design Principles perlu dapat ditelusuri kembali ke Core Principles, tetapi tidak harus diturunkan secara mekanis.**
-5. **Core Principles sebaiknya relatif sedikit dan stabil.**
-6. **Core Principles dapat dipahami sebagai invariant normatif terhadap perubahan implementasi.**
-7. **Hubungan prinsip domain-specific dengan Core Principles masih perlu diuji.**
+---
 
-## 12. Keputusan Sementara
+## 13. Mengapa Ini Penting bagi TUMBUH?
 
-**PASS — CORE PRINCIPLES DIPERLUKAN SEBAGAI LAPISAN INTI.**
+Tanpa Core Principles yang jelas, ada risiko bahwa Principles hanya menjadi kumpulan keputusan desain.
 
-P0004 mendukung struktur:
+Sebaliknya, jika semua keputusan desain dinaikkan menjadi Core Principles, sistem menjadi terlalu kaku.
 
-```text
-Philosophy
+Core Principles—jika memang digunakan—berfungsi sebagai **ruang tengah yang sangat terbatas antara Philosophy dan desain**:
+
+~~~text
+PHILOSOPHY
     ↓
-Core Principles
+CORE PRINCIPLES
     ↓
-Design Principles
+DESIGN REASONING
     ↓
-Core Model
-```
+DESIGN PRINCIPLES
+    ↓
+CORE MODEL
+~~~
 
-P0004 belum menetapkan isi maupun jumlah Core Principles.
+Nilai utama struktur ini bukan banyaknya lapisan.
 
-P0004 juga belum menetapkan bahwa semua prinsip domain-specific pasti berada di bawah Design Principles.
+Nilainya adalah **kejelasan tentang commitment mana yang harus dipertahankan ketika desain berubah**.
 
-## 13. Next Inquiry
+---
 
-> **Bagaimana Core Principles berhubungan dengan Learning, Development, Assessment, Intervention, dan Implementation Principles?**
+## 14. Boundary
 
-P0005 akan menguji apakah kelompok-kelompok tersebut merupakan turunan Core Principles, domain penerapan Design Principles, atau membutuhkan arsitektur hubungan yang lebih kompleks.
+P0004 **tidak** sedang:
 
-## Status
+- menetapkan daftar Core Principles;
+- menentukan isi Philosophy TUMBUH;
+- menentukan Design Principles;
+- menentukan prinsip domain seperti Learning atau Assessment;
+- atau membangun mekanisme governance.
 
-**P0004 — selesai sebagai inquiry.**
+P0004 hanya menguji:
 
-**Temuan utama:** Core Principles diperlukan sebagai lapisan inti yang menjaga komitmen fundamental TUMBUH dan menjadi titik traceability bagi prinsip yang lebih spesifik.
+> **apakah sebuah kelompok Core Principles diperlukan sebagai representasi commitment fundamental TUMBUH.**
 
-**Next inquiry:** P0005 — *Bagaimana Core Principles berhubungan dengan Learning, Development, Assessment, Intervention, dan Implementation Principles?*
+---
+
+## 15. Repository Destination
+
+Hasil P0004 diarahkan ke:
+
+**Principles → Core Principles**
+
+Secara khusus, hasilnya menjadi dasar bagi inquiry untuk menentukan hubungan Core Principles dengan prinsip-prinsip yang bekerja pada domain atau fungsi sistem tertentu.
+
+---
+
+## 16. Implication for TUMBUH
+
+P0004 memberikan implikasi sementara:
+
+> **TUMBUH membutuhkan Core Principles sebagai kelompok commitment fundamental yang terbatas, bukan sebagai daftar seluruh Principles.**
+
+Core Principles berfungsi untuk:
+
+- menjaga arah fundamental;
+- menjadi guardrail terhadap perubahan desain;
+- menjadi anchor bagi reasoning Principles yang lebih spesifik;
+- dan menjaga traceability dari Philosophy menuju desain sistem.
+
+Namun P0004 belum menentukan:
+
+- berapa jumlahnya;
+- apa isinya;
+- bagaimana setiap candidate diidentifikasi;
+- atau bagaimana hubungan masing-masing dengan domain Principles.
+
+---
+
+## 17. Temuan Sementara
+
+P0004 menghasilkan beberapa temuan:
+
+1. **Pembedaan fundamentalitas yang ditemukan pada P0003 membutuhkan representasi yang eksplisit jika TUMBUH ingin menjaga commitment fundamental.**
+2. **Core Principles mempunyai fungsi berbeda dari Philosophy: ia menerjemahkan konsekuensi normatif Philosophy ke tingkat sistem.**
+3. **Core Principles berbeda dari Design Principles: yang pertama menjaga commitment fundamental, yang kedua mengarahkan bagaimana sistem dirancang.**
+4. **Core Principles sebaiknya terbatas; tidak semua Principles perlu menjadi Core Principles.**
+5. **Core Principles tidak harus menjadi sumber mekanis bagi seluruh Design Principles.**
+6. **Counterfactual dapat digunakan untuk menguji candidate Core Principle berdasarkan konsekuensi terhadap identitas dan arah fundamental TUMBUH.**
+
+Temuan ini masih provisional sampai candidate Core Principles diuji terhadap substansi Philosophy TUMBUH.
+
+---
+
+## 18. Kesimpulan
+
+P0004 mendukung **working hypothesis** bahwa TUMBUH membutuhkan Core Principles sebagai kelompok commitment fundamental yang terbatas.
+
+Struktur kerja yang sementara didukung:
+
+~~~text
+PHILOSOPHY
+    ↓
+CORE PRINCIPLES
+    ↓
+DESIGN PRINCIPLES
+    ↓
+CORE MODEL
+~~~
+
+Namun P0004 belum mengisi lapisan tersebut.
+
+Justru pertanyaan berikutnya menjadi lebih substantif:
+
+> **Jika Core Principles memang diperlukan, bagaimana kita mengidentifikasi candidate Core Principles dari substansi Philosophy TUMBUH tanpa sekadar memparafrase Philosophy?**
+
+Pertanyaan inilah yang harus membawa PROBE kembali kepada **substansi TUMBUH**, bukan ke teori umum tentang Principles.
+
+---
+
+## 19. Status Inquiry
+
+**Finding:** TUMBUH membutuhkan working distinction antara commitment fundamental dan commitment desain; Core Principles merupakan kandidat representasi yang tepat untuk commitment fundamental tersebut.
+
+**Working conclusion:** Core Principles diperlukan sebagai lapisan inti, tetapi isi dan jumlahnya belum ditentukan.
+
+**Open question:** Bagaimana mengidentifikasi candidate Core Principles dari substansi Philosophy TUMBUH?
