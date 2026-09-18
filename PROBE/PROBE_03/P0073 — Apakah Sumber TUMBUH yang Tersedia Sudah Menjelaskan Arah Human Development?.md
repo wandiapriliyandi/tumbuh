@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0073  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Evidence Gap / Cross-Philosophy Validation
 
 ---
@@ -232,7 +232,19 @@ Ia hanya menetapkan bahwa **substansi Philosophy Human Development perlu tersedi
 
 ---
 
-## 12. Kesimpulan
+## 12. Repository Destination
+
+**Principles → Core Principles → Candidate Fundamental Commitments / Cross-Philosophy Validation**
+
+P0073 tidak menghasilkan kandidat baru, tetapi menetapkan bahwa substansi Human Development TUMBUH memang tersedia dan harus dibaca langsung sebelum menarik commitment fundamental.
+
+## 13. Next Inquiry
+
+> **Apa commitment fundamental tentang Human Development yang dapat ditarik secara substantif dari sumber TUMBUH, dan bagaimana commitment tersebut berhubungan dengan candidate dari Worldview dan Human Nature?**
+
+P0074 akan melakukan ekstraksi commitment dari substansi Human Development TUMBUH, bukan sekadar mengidentifikasi evidence gap.
+
+## 14. Kesimpulan
 
 P0073 tidak menghasilkan candidate Core Principle baru.
 
