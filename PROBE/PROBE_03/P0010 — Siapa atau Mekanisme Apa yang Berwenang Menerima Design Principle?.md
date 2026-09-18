@@ -1,244 +1,382 @@
 # P0010 — Siapa atau Mekanisme Apa yang Berwenang Menerima Design Principle?
 
-## Pertanyaan
+## Status
 
-**Siapa atau mekanisme apa yang berwenang mengubah candidate Design Principle menjadi accepted principle dalam epistemic governance TUMBUH?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0010  
+**Status:** Revised  
+**Type:** Design Principle Acceptance Inquiry
 
-P0009 menemukan bahwa candidate Design Principle membutuhkan acceptance process. Namun proses validasi belum sama dengan kewenangan untuk menetapkan sebuah rumusan sebagai posisi resmi TUMBUH.
+---
 
-P0010 menguji batas antara **inquiry, judgment, governance, dan repository acceptance**.
+## 1. Object of Inquiry
 
-## 1. Mengapa Authority Perlu Dibedakan dari Inquiry?
+**Object of Inquiry:** Design Principles TUMBUH.
 
-PROBE merupakan mesin inquiry TUMBUH: ruang tempat pertanyaan diajukan, sumber ditelusuri, konsep diperiksa, hubungan ditemukan, argumentasi dibangun, dan rumusan dikembangkan. Hasilnya menjadi bahan intelektual bagi repository. fileciteturn10file1L1-L17
+P0010 mengkaji batas kewenangan yang diperlukan agar candidate Design Principle dapat berubah menjadi **accepted Design Principle** dalam Sistem TUMBUH.
 
-Karena itu, PROBE menghasilkan **dasar penalaran**, tetapi tidak dengan sendirinya berarti setiap hasil PROBE menjadi keputusan resmi TUMBUH.
+P0010 tidak sedang membangun teori governance secara umum atau menetapkan struktur organisasi TUMBUH yang belum didukung sumber.
 
-Alurnya perlu dibedakan:
+---
 
-**Inquiry → Argument → Candidate → Review → Governance Decision → Repository**
+## 2. TUMBUH Question
 
-## 2. Evidence Tidak Sama dengan Authority
+> **Setelah sebuah candidate Design Principle melewati inquiry dan validation, apa yang membedakan hasil kajian dari keputusan bahwa rumusan tersebut telah menjadi posisi resmi Principles TUMBUH?**
 
-Evidence dapat membuat sebuah candidate semakin kuat, tetapi evidence tidak “memutuskan” bahwa candidate tersebut menjadi prinsip.
+Pertanyaan ini merupakan kelanjutan langsung P0009.
+
+P0009 membedakan candidate dan accepted Principle.
+
+P0010 perlu menjelaskan siapa atau mekanisme apa yang melakukan perpindahan status tersebut, sejauh yang dapat didukung oleh sumber TUMBUH.
+
+---
+
+## 3. Mengapa Inquiry dan Acceptance Harus Dipisahkan?
+
+PROBE berfungsi sebagai ruang inquiry:
+
+~~~text
+question
+→ investigation
+→ evidence
+→ analysis
+→ critique
+→ synthesis
+→ formulation
+~~~
+
+Karena itu hasil PROBE dapat berupa:
+
+- finding;
+- argument;
+- candidate;
+- counterexample;
+- atau rekomendasi perubahan.
+
+Namun hasil tersebut belum otomatis menjadi posisi repository.
+
+Hubungan yang lebih tepat:
+
+~~~text
+PROBE
+   ↓
+CANDIDATE
+   ↓
+REVIEW
+   ↓
+ACCEPTANCE DECISION
+   ↓
+REPOSITORY POSITION
+~~~
+
+Pembedaan ini penting agar PROBE tidak menjadi tempat keputusan final sekaligus.
+
+---
+
+## 4. Evidence Bukan Authority
+
+Evidence dapat mendukung candidate, tetapi evidence tidak mempunyai fungsi untuk menetapkan status repository.
 
 Demikian pula:
 
-- penelitian tidak otomatis menjadi keputusan;
-- pengalaman tidak otomatis menjadi norma;
-- konsensus diskusi tidak otomatis menjadi prinsip;
-- hasil PROBE tidak otomatis menjadi Foundation.
+- sumber tidak otomatis menjadi Principle;
+- penelitian tidak otomatis menjadi Principle;
+- pengalaman tidak otomatis menjadi Principle;
+- hasil PROBE tidak otomatis menjadi Principle.
 
-Yang dibutuhkan adalah mekanisme yang mengubah **reasoned candidate** menjadi **accepted system position**.
+Evidence menjawab terutama:
 
-## 3. Governance Tidak Harus Berarti Satu Orang
+> **Apa yang dapat mendukung atau menantang candidate?**
 
-Kewenangan menerima prinsip tidak harus diwujudkan sebagai satu individu.
+Acceptance menjawab:
 
-Secara konseptual terdapat beberapa kemungkinan:
+> **Apakah TUMBUH sekarang menetapkan candidate tersebut sebagai posisi Principles?**
 
-### Model A — Individual Authority
+Kedua fungsi ini berbeda.
 
-Satu otoritas menetapkan prinsip.
+---
 
-Kelebihan:
-- cepat;
-- jelas.
+## 5. Validation dan Acceptance adalah Dua Tahap
 
-Risiko:
-- ketergantungan pada individu;
-- sulit menjaga continuity;
-- reasoning dapat kalah oleh personal preference.
+P0009 menghasilkan validation process.
 
-### Model B — Collective Governance
+P0010 menambahkan pembedaan:
 
-Sebuah kelompok atau council meninjau dan menetapkan prinsip.
+### Validation
 
-Kelebihan:
-- dapat menghadirkan perspektif berbeda;
-- keputusan lebih terdistribusi.
+Menilai apakah candidate mempunyai dasar dan karakteristik yang diperlukan sebagai Design Principle.
 
-Risiko:
-- proses lebih lambat;
-- consensus dapat menjadi tujuan tersendiri.
+### Acceptance
 
-### Model C — Layered Governance
+Menetapkan apakah candidate yang telah ditinjau menjadi **accepted position** dalam Principles TUMBUH.
 
-Tidak semua keputusan membutuhkan tingkat authority yang sama.
+Secara sederhana:
 
-Misalnya:
+~~~text
+CANDIDATE
+   ↓
+VALIDATION
+   ↓
+cukup beralasan?
+   ↓
+ACCEPTANCE
+   ↓
+accepted TUMBUH position
+~~~
 
-**PROBE → review epistemik → design review → system acceptance**
+Validation memberikan dasar bagi keputusan.
 
-Model ini memungkinkan kedalaman governance disesuaikan dengan dampak keputusan.
+Validation sendiri tidak identik dengan keputusan repository.
 
-P0010 tidak menetapkan salah satu model sebagai final karena sumber yang tersedia belum memberikan struktur governance TUMBUH yang cukup spesifik untuk keputusan tersebut.
+---
 
-## 4. Yang Dapat Ditentukan dari Arsitektur TUMBUH
+## 6. Fungsi Kewenangan yang Diperlukan
 
-Struktur TUMBUH membedakan Principles dari Project Research. Dalam sumber struktur, tokoh, teori, dan sumber ditempatkan dalam **Project Research**, sedangkan Framework berisi struktur sistem TUMBUH. fileciteturn10file0L1-L38
+Dari kebutuhan Principles TUMBUH, acceptance mechanism setidaknya harus mampu:
 
-Ini memberikan satu konsekuensi penting:
+1. menerima candidate;
+2. meminta revisi;
+3. menunda penerimaan;
+4. menolak candidate;
+5. memastikan reasoning dan traceability tersedia;
+6. menjaga konsistensi dengan fondasi Principles TUMBUH;
+7. memungkinkan accepted Principle ditinjau kembali.
 
-> **Accepted Principle seharusnya tampil sebagai posisi sistem TUMBUH, sedangkan sumber dan reasoning yang melahirkannya tetap dapat ditelusuri melalui research/PROBE.**
+Dengan demikian kewenangan bukan sekadar:
 
-Dengan demikian, authority tidak boleh disamakan dengan sumber.
+> **power to approve**
 
-## 5. Epistemic Governance sebagai Fungsi
+tetapi juga tanggung jawab untuk menjaga **coherence dan traceability**.
 
-Daripada langsung menentukan “siapa”, lebih aman terlebih dahulu menentukan **fungsi governance** yang harus tersedia.
+---
 
-Untuk Design Principles, governance setidaknya perlu mampu:
+## 7. Apakah Harus Satu Orang?
 
-1. memastikan candidate memiliki dasar;
-2. memeriksa konsistensi dengan Philosophy dan Core Principles;
-3. menilai konsekuensi desain;
-4. mempertimbangkan evidence dan counterexample;
-5. meminta revisi bila diperlukan;
-6. menerima atau menolak candidate;
-7. mencatat alasan keputusan;
-8. membuka kembali prinsip bila muncul evidence atau reasoning yang signifikan.
+Tidak ada dasar yang cukup dalam inquiry ini untuk menetapkan bahwa acceptance harus dilakukan oleh satu individu.
 
-Dengan kata lain, authority yang baik bukan sekadar **power to approve**, tetapi juga **responsibility to preserve coherence and traceability**.
+Secara konseptual, acceptance dapat dilakukan melalui:
 
-## 6. Acceptance Harus Memiliki Alasan
+- individual authority;
+- collective authority;
+- atau mekanisme berlapis.
 
-Jika candidate diterima, repository tidak harus menyimpan seluruh proses PROBE. Namun keputusan acceptance perlu memiliki jejak.
+Namun P0010 **tidak memilih salah satunya** karena sumber yang tersedia belum menetapkan struktur governance TUMBUH secara eksplisit.
 
-Minimal dapat ditelusuri:
+Yang dapat ditetapkan adalah fungsi yang harus tersedia, bukan identitas otoritas yang belum terbukti.
 
-**Candidate**
-→ **P yang membahasnya**
-→ **sources/evidence**
-→ **argumentation**
-→ **review**
-→ **acceptance decision**
-→ **repository principle**
+---
 
-Hal ini konsisten dengan fungsi PROBE sebagai penyedia traceability antara sumber, proses kajian, dan hasil repository. fileciteturn10file1L18-L33
+## 8. Tiga Fungsi yang Perlu Dibedakan
 
-## 7. Authority Harus Reversible
+P0010 mempertahankan pembedaan berikut:
 
-Sebuah accepted Design Principle tidak seharusnya menjadi dogma hanya karena telah masuk repository.
+### Epistemic Judgment
 
-Sistem inquiry TUMBUH tetap membutuhkan kemampuan untuk:
+> **Apakah evidence dan reasoning cukup mendukung candidate?**
 
-- meninjau ulang;
-- mempersempit;
-- memperluas;
-- menggabungkan;
-- mengganti;
-- atau mencabut prinsip.
+### Design Judgment
 
-Ini penting karena PROBE memang dirancang sebagai ruang inquiry yang dapat berkembang ketika ditemukan pertanyaan, konsep, hubungan, gap, contradiction, atau implikasi baru. fileciteturn10file1L34-L58
+> **Apakah candidate benar-benar berfungsi sebagai commitment pengarah desain TUMBUH?**
 
-Maka governance harus menyediakan **reviewability**, bukan hanya finality.
+### Governance Decision
 
-## 8. Bedakan Tiga Jenis Keputusan
+> **Apakah candidate sekarang diterima sebagai posisi resmi Principles TUMBUH?**
 
-P0010 menemukan perlunya membedakan:
+Ketiganya dapat dilakukan dalam satu proses atau oleh pihak yang sama.
 
-### Epistemic judgment
+Namun secara konseptual ketiganya tetap berbeda.
 
-> “Apakah argumentasi dan evidence cukup kuat untuk mendukung candidate?”
+---
 
-### Design judgment
+## 9. Mengapa Pembedaan Ini Penting bagi TUMBUH?
 
-> “Apakah candidate memberikan arah desain yang berguna dan koheren?”
+Tanpa pembedaan:
 
-### Governance decision
+~~~text
+“sudah dibahas di PROBE”
+        ↓
+dianggap
+        ↓
+“sudah menjadi Principle”
+~~~
 
-> “Apakah candidate sekarang diterima sebagai posisi resmi TUMBUH?”
+Padahal inquiry dapat berakhir dengan:
 
-Ketiganya berhubungan, tetapi tidak identik.
+- candidate diterima;
+- candidate direvisi;
+- candidate ditolak;
+- candidate digabung;
+- atau inquiry dilanjutkan.
 
-Satu orang atau satu forum dapat menjalankan beberapa fungsi sekaligus, tetapi secara konseptual fungsi-fungsi tersebut tetap perlu dibedakan.
+Dengan demikian, **hasil inquiry dan status sistem harus tetap dibedakan**.
 
-## 9. Proposal Mekanisme Kerja
+---
 
-Untuk sementara, mekanisme yang paling dapat dipertanggungjawabkan adalah:
+## 10. Acceptance Harus Traceable
 
-**1. Inquiry**
-Candidate muncul melalui PROBE.
+Ketika sebuah candidate diterima, perlu ada jejak yang memungkinkan TUMBUH menjawab:
 
-**2. Argumentation**
-Candidate memiliki reasoning, evidence yang relevan, dan hubungan dengan fondasi.
+> **Mengapa candidate ini diterima?**
 
-**3. Review**
-Candidate diuji berdasarkan acceptance criteria P0009.
+Minimum genealogy:
 
-**4. Governance judgment**
-Pihak yang memiliki mandat atas architecture TUMBUH menilai apakah candidate layak menjadi accepted position.
+~~~text
+Candidate
+   ↓
+P / Inquiry
+   ↓
+Source / Evidence
+   ↓
+Reasoning
+   ↓
+Review
+   ↓
+Acceptance Decision
+   ↓
+Accepted Principle
+~~~
 
-**5. Repository acceptance**
-Setelah diterima, rumusan masuk ke repository sebagai bagian dari sistem TUMBUH.
+Tidak perlu menyalin seluruh isi PROBE ke repository.
 
-**6. Traceability**
-Repository tetap memiliki hubungan kembali ke PROBE dan sumber.
+Yang diperlukan adalah traceability yang cukup untuk merekonstruksi alasan penerimaan.
 
-## 10. Apa yang Belum Diketahui?
+---
 
-Sumber yang tersedia **belum menetapkan secara eksplisit**:
+## 11. Acceptance Tidak Membuat Principle Tidak Dapat Berubah
 
-- siapa final authority Principles TUMBUH;
-- apakah akan ada council;
-- apakah founder memiliki final authority;
-- bagaimana mekanisme voting atau consensus;
-- kapan sebuah principle wajib direview;
+Accepted bukan berarti:
+
+> “tidak boleh pernah direvisi.”
+
+Principles TUMBUH tetap perlu dapat ditinjau jika terdapat alasan substantif.
+
+Karena itu acceptance harus bersifat:
+
+> **final untuk status saat ini, tetapi reviewable terhadap evidence dan reasoning baru.**
+
+Ini menjaga stabilitas tanpa mengubah Principles menjadi dogma.
+
+---
+
+## 12. Apa yang Belum Dapat Ditentukan?
+
+P0010 tidak menemukan dasar yang cukup untuk menetapkan:
+
+- siapa final authority TUMBUH;
+- apakah founder memiliki kewenangan final;
+- apakah diperlukan council;
+- apakah keputusan menggunakan voting;
+- apakah keputusan harus consensus;
 - siapa yang dapat mengusulkan amendment;
-- bagaimana konflik antar-principle diselesaikan.
+- atau prosedur organisasi rinci.
 
-Hal-hal tersebut tidak sebaiknya diisi dengan asumsi.
+Hal-hal tersebut **tidak boleh diisi dengan asumsi**.
 
-Ia merupakan wilayah inquiry governance tersendiri.
+Jika nantinya diperlukan, ia menjadi inquiry governance tersendiri.
 
-## 11. Temuan
+---
 
-1. PROBE menghasilkan inquiry, evidence, analysis, argumentation, dan candidate; PROBE bukan otomatis authority penerimaan prinsip.
-2. Evidence dan sumber memberikan dasar argumentasi, bukan kewenangan normatif.
-3. Accepted Principle merupakan posisi resmi repository, bukan sekadar hasil diskusi.
-4. Authority perlu dipahami sebagai fungsi governance, bukan semata-mata status individu.
-5. Governance perlu mencakup review, acceptance, rejection, revision, dan reopening.
-6. Epistemic judgment, design judgment, dan governance decision perlu dibedakan secara konseptual.
-7. Traceability harus tetap menghubungkan accepted principle dengan PROBE dan sumber.
-8. Struktur final authority TUMBUH belum didukung secara cukup oleh sumber yang tersedia dan harus dikaji lebih lanjut.
+## 13. Boundary
 
-## 12. Keputusan Sementara
+P0010 **tidak** sedang:
 
-**PASS — ACCEPTANCE MEMERLUKAN EPISTEMIC GOVERNANCE, TETAPI FINAL AUTHORITY BELUM BOLEH DITETAPKAN TANPA INQUIRY LANJUTAN.**
+- membangun teori governance umum;
+- menetapkan struktur organisasi TUMBUH;
+- memilih individu atau badan tertentu;
+- menentukan voting atau consensus;
+- atau menetapkan prosedur amendment.
 
-Working principle:
+Fokusnya hanya:
 
-> **Tidak setiap hasil inquiry menjadi prinsip; candidate menjadi accepted principle melalui proses governance yang memeriksa dasar, coherence, design relevance, dan traceability, kemudian menetapkannya sebagai posisi resmi TUMBUH.**
+> **memastikan bahwa perubahan candidate menjadi accepted Design Principle merupakan keputusan yang berbeda dari proses inquiry dan validation.**
 
-Dengan demikian:
+---
 
-**PROBE menemukan dan menguji.**
+## 14. Repository Destination
 
-**Governance menilai dan menetapkan.**
+Hasil P0010 diarahkan ke:
 
-**Repository merepresentasikan posisi yang telah diterima.**
+**Principles → Design Principles → acceptance status and traceability**
 
-## 13. Implikasi bagi Repository
+Temuan ini membantu menjaga perbedaan antara **hasil kajian PROBE** dan **posisi resmi Principles TUMBUH**.
 
-Accepted Principles sebaiknya tidak menyimpan seluruh perdebatan PROBE, tetapi harus memiliki traceability yang cukup untuk menjawab:
+---
 
-> “Mengapa prinsip ini ada, dari mana asalnya, dan melalui proses apa ia diterima?”
+## 15. Implication for TUMBUH
 
-Ini menjaga repository tetap bersih sekaligus memungkinkan audit intelektual ketika prinsip ditinjau kembali.
+P0010 memberikan implikasi:
 
-## 14. Next Inquiry
+> **TUMBUH perlu memisahkan epistemic validation dari repository acceptance.**
 
-Pertanyaan berikutnya:
+Model kerja:
 
-> **Bagaimana konflik diselesaikan ketika dua candidate Design Principles sama-sama memiliki dasar kuat tetapi menghasilkan konsekuensi desain yang berbeda?**
+~~~text
+PROBE
+  ↓
+candidate
+  ↓
+validation
+  ↓
+governance acceptance
+  ↓
+accepted Principle
+  ↓
+repository
+~~~
 
-P0011 akan menguji **conflict resolution dan coherence antar-Principles**.
+Dengan demikian, Principles repository bukan sekadar kumpulan hasil diskusi, tetapi kumpulan posisi sistem yang telah melalui proses penerimaan yang dapat ditelusuri.
 
-## Status
+---
 
-**P0010 — selesai sebagai inquiry.**
+## 16. Temuan Sementara
 
-**Temuan utama:** penerimaan Design Principle membutuhkan epistemic governance, tetapi siapa final authority TUMBUH belum dapat ditetapkan dari sumber yang tersedia. Yang dapat ditetapkan sekarang adalah pemisahan fungsi antara inquiry, judgment, governance, dan repository acceptance.
+1. **PROBE menghasilkan inquiry dan candidate, bukan otomatis accepted Principle.**
+2. **Evidence dan source memberikan dasar reasoning, bukan authority repository.**
+3. **Validation dan acceptance merupakan dua fungsi yang berbeda.**
+4. **Acceptance harus dapat menerima, merevisi, menunda, atau menolak candidate.**
+5. **Epistemic judgment, design judgment, dan governance decision perlu dibedakan secara konseptual.**
+6. **Accepted Principle harus memiliki traceability kembali kepada inquiry dan reasoning.**
+7. **Accepted tidak berarti immutable; Principle tetap reviewable.**
+8. **Sumber yang tersedia belum cukup untuk menetapkan siapa final authority TUMBUH.**
 
-**Next inquiry:** P0011 — *Bagaimana konflik antar-Design Principles diselesaikan?*
+Temuan ini masih provisional.
+
+---
+
+## 17. Kesimpulan
+
+P0010 memperjelas satu hal penting bagi arsitektur Principles TUMBUH:
+
+> **Candidate menjadi accepted Principle bukan karena ia telah muncul dalam PROBE, tetapi karena terdapat keputusan penerimaan yang menetapkannya sebagai posisi resmi TUMBUH.**
+
+Mekanisme finalnya belum dapat ditentukan dari sumber yang tersedia.
+
+Yang sudah dapat dirumuskan adalah pemisahan fungsi:
+
+~~~text
+PROBE
+→ menemukan dan menguji
+
+VALIDATION
+→ menilai kecukupan reasoning
+
+GOVERNANCE
+→ menetapkan status accepted
+
+REPOSITORY
+→ merepresentasikan posisi yang diterima
+~~~
+
+Pertanyaan berikutnya sebaiknya tetap kembali kepada **isi dan struktur Principles TUMBUH**, bukan memperluas inquiry governance:
+
+> **Bagaimana dua Design Principles yang sama-sama valid dapat berhubungan ketika keduanya menghasilkan konsekuensi desain yang berbeda atau bertentangan?**
+
+---
+
+## 18. Status Inquiry
+
+**Finding:** Acceptance merupakan keputusan yang berbeda dari inquiry dan validation.
+
+**Working conclusion:** TUMBUH membutuhkan mekanisme acceptance yang menjaga coherence, traceability, dan reviewability, tetapi sumber yang tersedia belum menetapkan siapa final authority.
+
+**Open question:** Bagaimana konflik antar-Design Principles ditangani ketika keduanya sama-sama memiliki dasar yang memadai?
