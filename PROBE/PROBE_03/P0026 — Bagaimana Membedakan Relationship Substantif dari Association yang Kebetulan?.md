@@ -1,63 +1,67 @@
 # P0026 — Bagaimana Membedakan Relationship Substantif dari Association yang Kebetulan?
 
-## Pertanyaan
+## Status
 
-**Bagaimana membedakan relationship antar-Design Principles yang benar-benar memiliki makna substantif dari association yang hanya muncul karena dua principles kebetulan digunakan bersama dalam suatu desain?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0026  
+**Status:** Revised  
+**Type:** Substantive Relationship Inquiry
 
-P0025 menetapkan bahwa relationship claim substantif membutuhkan rationale yang dapat ditelusuri. P0026 menguji kapan sebuah hubungan layak disebut relationship, bukan sekadar co-occurrence.
+---
 
-## 1. Association Tidak Sama dengan Relationship
+## 1. Object of Inquiry
 
-Dua principles dapat muncul dalam satu desain tanpa memiliki hubungan konseptual.
+**Object of Inquiry:** Design Principles TUMBUH, khususnya batas antara relationship substantif dan association/co-occurrence.
 
-Contoh:
+P0025 menetapkan bahwa relationship claim membutuhkan rationale. P0026 menguji kapan sebuah hubungan layak dicatat sebagai relationship dalam Principle System.
 
-- DP-A digunakan dalam desain;
-- DP-B juga digunakan dalam desain;
-- keduanya muncul pada dokumen yang sama.
+## 2. TUMBUH Question
 
-Fakta tersebut hanya menunjukkan **association**.
+> **Bagaimana membedakan relationship antar-Design Principles yang benar-benar memiliki makna substantif dari association yang hanya muncul karena dua Principles kebetulan digunakan bersama dalam suatu desain?**
 
-Belum cukup untuk menyatakan:
+Fokusnya adalah menjaga relational traceability tetap bermakna dan tidak berubah menjadi daftar asosiasi.
 
-> A supports B.
-
-Relationship membutuhkan klaim tambahan tentang bagaimana atau mengapa A dan B saling berhubungan.
-
-## 2. Tiga Tingkat Hubungan
+## 3. Co-occurrence, Association, Relationship
 
 Working distinction:
 
 ### Co-occurrence
+
 A dan B muncul bersama.
 
 ### Association
-A dan B memiliki pola keterkaitan dalam penggunaan atau konteks tertentu.
+
+A dan B menunjukkan pola keterkaitan dalam penggunaan atau konteks tertentu.
 
 ### Substantive Relationship
-Ada mekanisme, alasan, atau konsekuensi yang menjelaskan mengapa hubungan A–B relevan terhadap design reasoning.
 
-Tidak setiap co-occurrence harus naik menjadi relationship.
+Ada reasoning, mechanism, atau consequence yang menjelaskan mengapa hubungan A–B relevan terhadap design reasoning.
 
-## 3. Uji Counterfactual
+Maka:
 
-Uji pertama:
+> **Co-occurrence ≠ Association ≠ Substantive Relationship.**
 
-> **Jika A dihilangkan, apakah relationship terhadap B berubah secara substantif?**
+Tidak setiap co-occurrence perlu menjadi relationship.
 
-Kemudian:
+## 4. Counterfactual Test
 
-> **Jika B dihilangkan, apakah alasan untuk mempertahankan hubungan dengan A masih ada?**
+Tanyakan:
 
-Jika tidak ada konsekuensi, kemungkinan hubungan tersebut hanya association.
+> **Jika A dihilangkan tetapi B dipertahankan, apakah alasan atau consequence relationship berubah secara substantif?**
 
-## 4. Uji Mechanism
+Lalu sebaliknya:
 
-Pertanyaan yang lebih kuat:
+> **Jika B dihilangkan tetapi A dipertahankan, apakah relationship masih memiliki alasan yang sama?**
 
-> **Apa mekanisme yang membuat A berhubungan dengan B?**
+Jika tidak ada consequence yang hilang, hubungan mungkin hanya association.
 
-Mekanisme tidak harus berupa mekanisme kausal empiris.
+## 5. Mechanism Test
+
+Pertanyaan utama:
+
+> **Apa yang membuat A berhubungan dengan B?**
+
+Mechanism tidak harus berarti causal mechanism empiris.
 
 Ia dapat berupa:
 
@@ -68,144 +72,112 @@ Ia dapat berupa:
 - conditional relation;
 - empirical interaction.
 
-Jika tidak ada mekanisme atau reasoning yang dapat dijelaskan, relationship claim perlu dicurigai.
+Jika tidak ada mechanism atau reasoning yang dapat dijelaskan, relationship claim perlu dipertanyakan.
 
-## 5. Uji Consequence
+## 6. Consequence Test
 
-Relationship substantif seharusnya mengubah sesuatu dalam reasoning.
-
-Misalnya:
-
-A supports B
-
-harus memiliki konsekuensi seperti:
-
-- ketika mendesain A, B perlu dipertimbangkan;
-- criterion tertentu perlu digunakan bersama;
-- perubahan A dapat memengaruhi interpretation B;
-- conflict antara A dan B perlu dikelola.
-
-Jika relationship tidak menghasilkan konsekuensi apa pun, nilai relationship tersebut rendah.
-
-## 6. Uji Predictive/Generative Value
-
-Relationship juga dapat diuji dengan pertanyaan:
-
-> **Apakah mengetahui relationship ini membantu kita memprediksi, menghasilkan, atau mengevaluasi sesuatu dalam design reasoning?**
-
-Tidak harus berarti prediksi empiris.
-
-Misalnya, mengetahui bahwa:
-
-A refines B
-
-membantu designer memahami bagaimana B harus dibaca dalam scope tertentu.
-
-Jika mengetahui A dan B “terkait” tidak membantu apa pun, association tersebut belum menjadi relationship yang berguna.
-
-## 7. Uji Stability
-
-Association yang kebetulan dapat muncul sekali.
-
-Relationship substantif cenderung memiliki dasar yang dapat bertahan ketika konteks atau contoh berubah.
-
-Pertanyaan:
-
-> Apakah hubungan ini masih masuk akal ketika diterapkan pada beberapa desain atau scenario yang relevan?
-
-Jika hanya benar pada satu konfigurasi lokal, relationship mungkin sebenarnya merupakan:
-
-- local decision;
-- local rule;
-- atau contextual association.
-
-## 8. Uji Reversibility
-
-P0024 menunjukkan bahwa relationship dapat directional atau symmetric.
-
-Karena itu, uji balik membantu:
-
-> Jika A supports B, apakah B juga supports A?
-
-Jika tidak, directional relation masuk akal.
-
-Jika iya, mungkin relationship bersifat reciprocal atau symmetric.
-
-Namun hasil uji ini tidak menentukan apakah relationship substantif; ia hanya membantu menentukan semantic form-nya.
-
-## 9. Uji Alternative Design
-
-Relationship menjadi lebih bermakna jika ia tetap relevan ketika terdapat beberapa alternatif desain.
+Relationship substantif harus mengubah sesuatu dalam design reasoning.
 
 Misalnya:
 
-Design A menggunakan A dan B.
+> **A supports B**
 
-Design B menggunakan A tetapi tidak B.
+seharusnya memiliki consequence seperti:
 
-Jika relationship A–B tetap menjelaskan constraint atau consequence pada kedua alternatif, hubungan lebih mungkin substantif.
+- B perlu dipertimbangkan ketika mendesain A;
+- criterion tertentu perlu dibaca bersama;
+- perubahan A dapat mengubah interpretation B;
+- tension antara A dan B perlu dikelola.
 
-Jika relationship hanya muncul karena Design A kebetulan mengandung keduanya, kemungkinan besar itu association.
+Jika relationship tidak menghasilkan consequence apa pun, tidak ada alasan kuat untuk menjadikannya relational edge.
 
-## 10. Uji Scope
+## 7. Predictive / Generative Value
 
-Sebuah relationship dapat valid hanya dalam scope tertentu.
+Tanyakan:
+
+> **Apakah mengetahui relationship ini membantu menghasilkan, mengevaluasi, atau memahami design reasoning?**
 
 Contoh:
 
-> A supports B dalam context X.
+> **A refines B**
 
-Tidak berarti:
+memberi informasi tentang bagaimana B dibaca dalam scope tertentu.
 
-> A supports B everywhere.
+Jika label “A terkait dengan B” tidak membantu reasoning, association tersebut belum menjadi relationship yang berguna.
 
-Karena itu relationship harus diuji bersama scope dan condition.
+## 8. Stability Test
 
-Conditional relationship bukan relationship yang lebih lemah; yang penting batas keberlakuannya jelas.
+Relationship substantif seharusnya tidak hanya muncul karena satu konfigurasi lokal.
 
-## 11. Uji Independent Rationale
+Tanyakan:
 
-P0025 menunjukkan bahwa relationship claim membutuhkan rationale.
+> **Apakah hubungan tetap masuk akal pada beberapa desain atau scenario yang relevan?**
 
-P0026 memperketatnya:
+Jika hanya berlaku pada satu konfigurasi, hubungan mungkin sebenarnya:
 
-> Rationale harus menjelaskan hubungan, bukan hanya mengulang bahwa kedua principles sama-sama penting.
+- local decision;
+- local rule;
+- contextual association.
+
+Namun relationship conditional tetap dapat substantif jika scope-nya jelas.
+
+## 9. Alternative Design Test
+
+Bandingkan beberapa alternatif.
+
+Jika Design A menggunakan A+B, sedangkan Design B menggunakan A tanpa B, tanyakan apakah relationship A–B masih menjelaskan constraint atau consequence yang relevan.
+
+Jika relationship hanya muncul karena satu desain kebetulan mengandung keduanya, kemungkinan besar itu association.
+
+## 10. Scope Test
+
+Relationship dapat bersifat conditional:
+
+> **A supports B under condition X.**
+
+Ini tidak berarti:
+
+> **A supports B everywhere.**
+
+Karena itu scope dan condition merupakan bagian dari relationship semantics ketika keduanya memengaruhi reasoning.
+
+Conditional relationship bukan otomatis relationship yang lebih lemah.
+
+## 11. Independent Rationale Test
+
+P0025 menetapkan bahwa relationship claim membutuhkan rationale.
+
+P0026 memperjelas bahwa rationale harus menjelaskan **hubungan**, bukan sekadar mengulang bahwa kedua Principles sama-sama penting.
 
 Rationale lemah:
 
 > “A dan B sama-sama penting untuk desain.”
 
-Rationale lebih substantif:
+Rationale substantif:
 
-> “A supports B karena mekanisme A memungkinkan kondisi yang dibutuhkan B tetap tersedia dalam design alternative.”
+> “A supports B karena mekanisme A menyediakan kondisi yang dibutuhkan B dalam design alternative.”
 
-Yang kedua memberikan relational explanation.
+Perbedaannya adalah adanya relational explanation.
 
-## 12. Uji Evidence
+## 12. Evidence Test
 
-Evidence dapat membantu membedakan association dari relationship.
+Evidence dapat membantu, tetapi:
 
-Namun:
+> **Co-occurrence evidence ≠ relationship evidence.**
 
-> co-occurrence evidence bukan otomatis relationship evidence.
-
-Misalnya, sepuluh proyek menggunakan A dan B bersama.
-
-Itu menunjukkan association.
+Jika sepuluh proyek menggunakan A dan B bersama, fakta tersebut menunjukkan association.
 
 Belum otomatis membuktikan:
 
-> A menyebabkan atau mendukung B.
+> A supports B.
 
-Untuk empirical relationship claim, perlu evidence yang benar-benar relevan dengan hubungan yang diklaim.
+Untuk empirical relationship claim, evidence harus relevan dengan relationship yang diklaim.
 
-## 13. Relationship Empiris vs Conceptual
-
-Penting membedakan:
+## 13. Conceptual vs Empirical Relationship
 
 ### Conceptual Relationship
 
-Hubungan dapat dijelaskan dari definisi, structure, scope, atau reasoning.
+Dapat dijelaskan melalui definition, structure, scope, atau reasoning.
 
 Contoh:
 
@@ -213,19 +185,19 @@ Contoh:
 
 ### Empirical Relationship
 
-Hubungan menyatakan sesuatu tentang apa yang terjadi dalam praktik.
+Menyatakan sesuatu tentang apa yang terjadi dalam praktik.
 
 Contoh:
 
 > A increases the effectiveness of B.
 
-Yang kedua memerlukan dukungan empirical evidence jika digunakan sebagai dasar keputusan.
+Empirical claim membutuhkan evidence yang sesuai.
 
-Jangan menggunakan standar pembuktian empirical untuk semua conceptual relationship, tetapi jangan pula memperlakukan empirical claim sebagai sekadar conceptual assertion.
+Standar pembuktian tidak perlu dibuat sama untuk semua conceptual relationship, tetapi empirical claim tidak boleh diperlakukan hanya sebagai assertion konseptual.
 
-## 14. Association Karena Shared Context
+## 14. Shared Context ≠ Relationship
 
-Dua principles dapat sering muncul bersama karena memiliki:
+Dua Principles dapat muncul bersama karena:
 
 - domain yang sama;
 - aktor yang sama;
@@ -233,26 +205,23 @@ Dua principles dapat sering muncul bersama karena memiliki:
 - dokumen yang sama;
 - sumber yang sama.
 
-Ini belum cukup.
+Shared context menjelaskan **mengapa keduanya ditemukan bersama**, bukan otomatis **mengapa keduanya memiliki relationship**.
 
-Shared context menjelaskan **mengapa keduanya ditemukan bersama**, bukan **mengapa keduanya memiliki relationship**.
-
-## 15. Association Karena Shared Evidence
+## 15. Shared Evidence ≠ Relationship
 
 Satu sumber dapat membahas A dan B sekaligus.
 
-Ini juga belum cukup untuk relationship.
-
 Sumber tersebut mungkin:
+
 - mendukung A;
 - mendukung B;
-- atau memang menjelaskan hubungan A–B.
+- atau menjelaskan relationship A–B.
 
 Ketiganya berbeda.
 
 Traceability harus menunjukkan claim mana yang benar-benar didukung.
 
-## 16. Relationship sebagai Claim Tersendiri
+## 16. Relationship adalah Claim Tersendiri
 
 Temuan penting:
 
@@ -260,114 +229,141 @@ Temuan penting:
 
 Jika TUMBUH menyatakan:
 
-A supports B
+> **A supports B**
 
-maka repository sebenarnya membuat sebuah assertion baru tentang hubungan A dan B.
+maka TUMBUH membuat assertion baru tentang hubungan A dan B.
 
-Karena itu claim tersebut harus dapat:
+Claim tersebut harus dapat:
+
 - dijelaskan;
 - ditelusuri;
 - diuji;
 - direvisi;
-- dan jika perlu ditolak.
+- dan bila perlu ditolak.
 
 ## 17. Minimum Relationship Test
 
-Sebuah relationship layak dicatat jika dapat menjawab:
+Relationship layak dicatat jika dapat menjawab:
 
-1. Apa tepatnya hubungan yang diklaim?
-2. Apa alasan hubungan tersebut?
-3. Apa mekanisme atau reasoning yang menghubungkannya?
-4. Apa konsekuensi terhadap design reasoning?
-5. Dalam scope/condition apa hubungan berlaku?
-6. Apa yang akan berbeda jika relationship tersebut tidak dianggap ada?
-7. Apakah relationship tetap masuk akal pada alternatif atau scenario relevan?
+1. Apa tepatnya relationship yang diklaim?
+2. Apa rationale-nya?
+3. Apa mechanism atau reasoning yang menghubungkan A dan B?
+4. Apa consequence terhadap design reasoning?
+5. Dalam scope/condition apa relationship berlaku?
+6. Apa yang berbeda jika relationship tersebut tidak dianggap ada?
+7. Apakah relationship tetap masuk akal pada alternative atau scenario yang relevan?
 
 Jika sebagian besar tidak dapat dijawab, relationship kemungkinan masih berupa association.
 
-## 18. Association Should Not Become Graph Edge
+## 18. Jangan Mengubah Semua Association Menjadi Graph Edge
 
-Ini penting bagi P0023.
+P0023 membutuhkan relational traceability yang eksplisit, tetapi bukan graph yang penuh noise.
 
-Jika semua co-occurrence dimasukkan sebagai edge, relational graph akan menjadi sangat padat tetapi miskin makna.
+Jika semua co-occurrence menjadi edge:
 
-Graph seperti itu memberi **false sense of structure**.
+- graph menjadi padat;
+- makna relationship sulit dibedakan;
+- false structure dapat muncul.
 
-Karena itu:
+Working rule:
 
 > **Tidak semua association perlu menjadi relational edge.**
 
-Hanya relationship yang memiliki semantic dan design consequence yang perlu direpresentasikan sebagai relational traceability.
+Hanya relationship yang mempunyai semantic dan design consequence yang perlu masuk relational traceability.
 
-## 19. Relationship Strength Bukan Score
+## 19. Relationship Status ≠ Relationship Score
 
-Kita tidak perlu membuat:
+Tidak diperlukan score seperti:
 
 - strong = 3;
 - medium = 2;
 - weak = 1.
 
-Yang lebih penting adalah status epistemiknya:
+Lebih berguna menggunakan status epistemik/operasional, misalnya:
 
-- proposed;
-- justified;
-- conditional;
-- contested;
-- accepted;
-- superseded.
+- Proposed;
+- Under Review;
+- Accepted;
+- Conditional;
+- Contested;
+- Superseded.
 
-Jika diperlukan, tingkat keyakinan dapat dijelaskan secara naratif berdasarkan evidence dan rationale, bukan dipaksa menjadi angka.
+Jika perlu menjelaskan tingkat keyakinan, gunakan rationale dan evidence yang relevan.
 
-## 20. Temuan
+## 20. Boundary
+
+P0026 **tidak**:
+
+- menetapkan causal relationship untuk semua Principles;
+- mewajibkan empirical evidence bagi conceptual relationship;
+- menganggap co-occurrence sebagai relationship;
+- menetapkan graph sebagai format;
+- atau menetapkan scoring strength untuk relationship.
+
+Fokusnya adalah **membedakan relationship yang mempunyai consequence terhadap design reasoning dari association yang tidak mempunyai fungsi tersebut.**
+
+## 21. Repository Destination
+
+Hasil P0026 diarahkan ke:
+
+**Principles → Design Principles → relational traceability → substantive relationship**
+
+Association yang belum memiliki dasar substantif dapat tetap berada dalam research notes atau evidence analysis tanpa dinaikkan menjadi relationship dalam Principle System.
+
+## 22. Implikasi bagi TUMBUH
+
+Working model:
+
+~~~text
+Co-occurrence
+      ↓
+Association
+      ↓  [uji mechanism + rationale + consequence + scope]
+Substantive Relationship
+      ↓
+Relational Traceability
+      ↓
+Design Reasoning
+~~~
+
+Dengan demikian Principle System tidak menjadi kumpulan hubungan hanya karena dua Principles sering muncul bersama.
+
+## 23. Temuan Sementara
 
 1. Co-occurrence tidak sama dengan relationship.
 2. Association dapat muncul karena shared context, shared evidence, atau penggunaan bersama.
-3. Relationship substantif membutuhkan rationale dan konsekuensi terhadap design reasoning.
-4. Mekanisme hubungan harus dapat dijelaskan sesuai jenis claim.
+3. Relationship substantif membutuhkan rationale dan consequence terhadap design reasoning.
+4. Mechanism atau reasoning harus dapat dijelaskan sesuai jenis claim.
 5. Relationship dapat conceptual, structural, normative, design, empirical, atau contextual.
-6. Empirical relationship membutuhkan evidence yang sesuai dengan claim empirisnya.
+6. Empirical relationship membutuhkan evidence yang sesuai dengan empirical claim.
 7. Shared evidence tidak otomatis membuktikan relationship.
-8. Relationship merupakan claim tersendiri dan harus dapat ditelusuri.
-9. Tidak semua association perlu menjadi relational edge.
-10. Scope dan condition merupakan bagian penting dari relationship semantics.
-11. Relationship sebaiknya tidak dinilai dengan scoring sederhana.
+8. Relationship merupakan claim tersendiri.
+9. Scope dan condition dapat menjadi bagian dari relationship semantics.
+10. Tidak semua association perlu menjadi relational edge.
+11. Relationship tidak perlu dinilai dengan scoring sederhana.
 
-## 21. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — HANYA RELATIONSHIP YANG MEMILIKI RATIONALE, MEKANISME/REASONING, DAN DESIGN CONSEQUENCE YANG DAPAT DITELUSURI YANG LAYAK DIREPRESENTASIKAN SEBAGAI RELATIONAL TRACEABILITY.**
+## 24. Kesimpulan
 
-Working rule:
+P0026 mendukung working rule:
 
-> **Co-occurrence menunjukkan bahwa dua principles muncul bersama. Association menunjukkan pola keterkaitan. Substantive relationship merupakan claim bahwa terdapat hubungan bermakna yang memengaruhi design reasoning. Hanya tingkat terakhir yang perlu diperlakukan sebagai relational edge dalam Principle System.**
+> **Co-occurrence hanya menunjukkan bahwa dua Principles muncul bersama. Association menunjukkan pola keterkaitan. Substantive relationship merupakan claim bahwa terdapat hubungan bermakna yang memengaruhi design reasoning. Hanya relationship substantif yang memiliki rationale, mechanism/reasoning, scope yang dapat dijelaskan, dan consequence yang relevan yang layak direpresentasikan sebagai relational traceability.**
 
-## 22. Implikasi bagi Repository
+Dengan demikian relational structure TUMBUH tetap kaya secara reasoning tanpa menjadi daftar association yang penuh noise.
 
-Relational traceability TUMBUH sebaiknya tidak menjadi daftar semua hubungan yang pernah muncul.
+## 25. Next Inquiry
 
-Untuk setiap relation yang dicatat, minimal perlu dapat diketahui:
+> **Apakah relationship antar-Design Principles dapat berubah status atau jenis tanpa mengubah identity dari Principles yang dihubungkannya?**
 
-**A → relation → B**
+P0027 akan menguji apakah relationship merupakan objek yang dapat berevolusi secara independen dari identity Principle A dan Principle B.
 
-serta:
+## 26. Status Inquiry
 
-**scope/condition → rationale → consequence → evidence bila diperlukan.**
+**Finding:** Relationship substantif berbeda dari association karena memiliki reasoning/mechanism dan consequence terhadap design reasoning.
 
-Association dapat tetap disimpan dalam research notes atau evidence analysis tanpa dinaikkan menjadi relationship pada repository.
+**Working conclusion:** Hanya relationship substantif yang layak menjadi relational edge dalam Principle System.
 
-Dengan demikian Principle System tetap kaya secara reasoning tetapi tidak menjadi graph yang penuh noise.
+**Boundary:** Tidak menetapkan causal proof untuk seluruh relationship.
 
-## 23. Next Inquiry
-
-P0027 akan menguji:
-
-> **Apakah relationship antar-Design Principles dapat berubah status atau jenis tanpa mengubah identity dari principles yang dihubungkannya?**
-
-Ini penting karena P0025 menunjukkan bahwa relationship merupakan claim tersendiri, sedangkan P0024 menunjukkan bahwa jenis dan arah relasi dapat berbeda. Jika relationship dapat berubah, TUMBUH perlu memahami lifecycle-nya.
-
-## Status
-
-**P0026 — selesai sebagai inquiry.**
-
-**Temuan utama:** association tidak otomatis merupakan relationship. Relationship substantif adalah claim tersendiri yang harus memiliki rationale, mekanisme atau reasoning yang dapat dijelaskan, scope yang sesuai, dan konsekuensi terhadap design reasoning.
-
-**Next inquiry:** P0027 — *Apakah relationship antar-Design Principles dapat berubah status atau jenis tanpa mengubah identity dari principles yang dihubungkannya?*
+**Open question:** Bagaimana perubahan relationship memengaruhi identity Principles yang dihubungkannya?
