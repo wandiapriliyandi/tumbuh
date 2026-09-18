@@ -1,12 +1,25 @@
 # P0017 — Di Mana Design Criteria Seharusnya Berada dalam Arsitektur TUMBUH?
 
-## Pertanyaan
+## Status
 
-**Di mana Design Criteria seharusnya berada dalam arsitektur TUMBUH: di Principles, Assessment, atau sebagai lapisan konseptual tersendiri?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0017  
+**Status:** Revised  
+**Type:** Design Criteria Architectural Boundary Inquiry
 
-P0016 menemukan bahwa hubungan Design Principle dan Design Criterion tidak harus satu-ke-satu. Criterion dapat menjadi konsekuensi desain yang digunakan untuk memeriksa conformity terhadap satu atau beberapa Principles.
+---
 
-P0017 menguji konsekuensi arsitekturalnya: **apakah Design Criteria merupakan bagian dari Principles, bagian dari Assessment, atau konsep yang berdiri di antara keduanya?**
+## Object of Inquiry
+
+**Object of Inquiry:** Design Principles TUMBUH, khususnya hubungan Design Principles dengan Design Criteria dalam arsitektur TUMBUH.
+
+P0017 menguji peran konseptual Design Criteria agar tidak terjadi pencampuran antara Principles, Model, dan Assessment.
+
+## TUMBUH Question
+
+> **Di mana Design Criteria seharusnya berada dalam arsitektur TUMBUH agar tetap terhubung dengan Design Principles tetapi tidak bercampur dengan Assessment?**
+
+P0016 menunjukkan bahwa hubungan Principle–Criterion dapat many-to-many. P0017 menguji konsekuensi arsitekturalnya tanpa langsung membuat layer repository baru.
 
 ## 1. Titik Berangkat dari Arsitektur TUMBUH
 
@@ -211,17 +224,13 @@ P0017 belum menetapkan terminologi final. Hal tersebut memerlukan inquiry termin
 
 ## 12. Keputusan Sementara
 
-**PASS — DESIGN CRITERIA DIAKUI SEBAGAI KONSEP PENGHUBUNG, TETAPI BELUM MEMERLUKAN TOP-LEVEL ARCHITECTURAL LAYER TERSENDIRI.**
+**PASS — DESIGN CRITERIA DIAKUI SEBAGAI CONCEPTUAL BRIDGE, TETAPI BELUM MEMERLUKAN TOP-LEVEL ARCHITECTURAL LAYER TERSENDIRI.**
 
-Working model:
+Working rule:
 
-**Principles**
-→ **Design Implications / Criteria**
-→ **Core Model / Design**
-→ **Evidence**
-→ **Assessment / Evaluation**
+> **Design Criteria perlu diakui dalam reasoning antara Design Principles dan evaluasi conformity, tetapi lokasi repository-nya tidak harus menjadi layer fundamental tersendiri.**
 
-Namun posisi repository final belum perlu dibakukan sampai inquiry mengenai hubungan Principles, Core Model, Assessment, dan Evaluation lebih lengkap.
+Tidak ada dasar yang cukup pada P0017 untuk membakukan folder top-level khusus Design Criteria.
 
 ## 13. Implikasi bagi Repository
 
