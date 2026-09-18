@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0062  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Governance Inquiry
 
 ---
@@ -384,7 +384,19 @@ Jika terjadi disagreement, perbedaan identity claim perlu diuji melalui evidence
 
 ---
 
-## 20. Status Inquiry
+## 20. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Identity governance diposisikan sebagai pemisahan fungsi **propose → validate → accept**, dengan PROBE sebagai sumber inquiry/reasoning dan governance sebagai penerimaan official state.
+
+## 21. Next Inquiry
+
+> **Jika identity anchor dapat berubah melalui clarification, revision, split, merge, atau supersession, bagaimana membedakan identity refinement dari identity change secara konsisten?**
+
+P0063 akan menguji boundary antara refinement dan perubahan identity agar lineage tidak terputus atau dipertahankan secara keliru.
+
+## 22. Status Inquiry
 
 **Finding:** Identity anchor memerlukan pemisahan antara proposal, semantic validation, dan governance acceptance.
 
