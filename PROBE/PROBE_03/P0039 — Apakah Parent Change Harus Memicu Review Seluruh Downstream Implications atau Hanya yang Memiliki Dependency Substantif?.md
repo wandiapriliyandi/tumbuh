@@ -1,162 +1,189 @@
 # P0039 — Apakah Parent Change Harus Memicu Review Seluruh Downstream Implications atau Hanya yang Memiliki Dependency Substantif?
 
-## Pertanyaan
+## Status
 
-**Apakah perubahan pada satu Design Principle harus otomatis memicu review terhadap seluruh downstream implications, atau hanya implications yang memiliki dependency substantif terhadap principle tersebut?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0039  
+**Status:** Revised  
+**Type:** Dependency-Aware Impact Inquiry
 
-P0038 menemukan bahwa perubahan parent pada Composite Design Implication memerlukan re-derivation dan impact review. P0039 mempersempit pertanyaan tersebut: **seberapa luas impact review harus dilakukan?**
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-Model downstream TUMBUH dapat dibayangkan sebagai:
+**Object of Inquiry:** Downstream consequences Design Principles TUMBUH, khususnya bagaimana perubahan pada satu Principle memengaruhi Design Implications dan objects setelahnya.
 
-**Principle → Implication → Criterion → Design → Implementation**
+P0038 menemukan bahwa parent change memerlukan re-derivation dan impact review. P0039 menguji **seberapa luas review tersebut harus berjalan**.
 
-Satu Design Principle dapat memiliki banyak downstream elements.
+## 2. TUMBUH Question
 
-Namun tidak semua downstream elements memiliki dependency yang sama terhadap principle tersebut.
+> **Apakah perubahan pada satu Design Principle harus otomatis memicu review terhadap seluruh downstream implications, atau hanya implications yang memiliki dependency substantif terhadap Principle tersebut?**
+
+## 3. Titik Berangkat
+
+Working chain:
+
+~~~text
+Principle
+↓
+Implication
+↓
+Criterion
+↓
+Design / Core Model
+↓
+Implementation
+~~~
+
+Satu Principle dapat memiliki banyak downstream elements, tetapi dependency setiap element tidak sama.
 
 Karena itu:
 
-**Parent Change ≠ Automatic Review of Everything**
+> **Parent Change ≠ Automatic Review of Everything**
 
-Pertanyaan yang lebih tepat adalah:
+Pertanyaan yang lebih tepat:
 
-> **Objek downstream mana yang benar-benar bergantung secara substantif pada parent yang berubah?**
+> **Object downstream mana yang benar-benar bergantung secara substantif pada parent yang berubah?**
 
-## 2. Dependency Tidak Sama dengan Association
+## 4. Dependency ≠ Association
 
 P0026 membedakan association dari substantive relationship.
 
-Prinsip yang sama berlaku di sini.
+Prinsip yang sama berlaku pada downstream impact.
 
-Sebuah implication dapat:
+Object dapat:
 
-- disebut dalam dokumen yang sama;
-- berada dalam domain yang sama;
-- menggunakan terminology yang sama;
+- berada dalam domain sama;
+- memakai terminology sama;
+- disebut dalam dokumen sama;
 
-tanpa benar-benar bergantung pada principle yang berubah.
+tanpa bergantung pada Principle yang berubah.
 
-Review harus diarahkan pada dependency, bukan sekadar association.
+Impact analysis harus mengikuti dependency, bukan sekadar association.
 
-## 3. Direct Dependency
+## 5. Direct Substantive Dependency
 
-Dependency paling jelas terjadi ketika:
+Contoh:
 
-**P1 → I1**
+~~~text
+P1 → I1
+~~~
 
-dan I1 tidak dapat dipertahankan dengan reasoning yang sama jika P1 berubah.
+Jika I1 tidak dapat dipertahankan dengan reasoning yang sama ketika P1 berubah, terdapat direct substantive dependency.
 
-Ini merupakan **direct substantive dependency**.
+I1 menjadi titik awal impact check.
 
-Perubahan P1 setidaknya memerlukan impact check terhadap I1.
-
-## 4. Composite Dependency
+## 6. Composite Dependency
 
 P0036 menemukan:
 
-**P1 + P2 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
 Jika P1 berubah, I1 perlu diperiksa karena P1 merupakan parent substantive.
 
-Namun P2 tetap dapat menjadi bagian dari current derivation.
-
-Maka review terhadap I1 perlu menguji:
+Review perlu melihat:
 
 - current P1;
 - current P2;
 - relationship;
 - conditions;
+- scope;
 - derivation.
 
-## 5. Indirect Dependency
-
-Ada kemungkinan:
-
-**P1 → I1 → C1 → Design D1**
-
-P1 tidak langsung mendefinisikan D1, tetapi perubahan P1 dapat mengalir melalui I1 dan C1.
-
-Ini merupakan **indirect downstream dependency**.
-
-Indirect dependency dapat memerlukan impact review, tetapi tidak berarti setiap downstream object otomatis harus direvisi.
-
-## 6. Dependency Depth
-
-Semakin jauh downstream:
-
-**P → I → C → D → Implementation**
-
-semakin besar kemungkinan bahwa perubahan dapat diserap oleh intermediate layer.
+## 7. Indirect Dependency
 
 Contoh:
 
-P berubah sedikit.
+~~~text
+P1 → I1 → C1 → D1
+~~~
 
-I tetap valid.
+P1 tidak langsung menentukan D1, tetapi perubahan P1 dapat mengalir melalui I1 dan C1.
 
-Jika I tetap valid, C mungkin juga tetap valid.
+Ini adalah **transitive downstream impact**.
 
-Dengan demikian D tidak harus dibuka kembali secara substantif.
+Namun D1 tidak otomatis harus direvisi hanya karena P1 berubah.
 
-Maka impact propagation sebaiknya berhenti ketika dependency consequence sudah tidak berubah secara material.
+## 8. Dependency Depth
 
-## 7. Change Propagation
+Semakin jauh downstream, semakin besar kemungkinan perubahan dapat diserap oleh intermediate layer.
+
+Jika:
+
+~~~text
+P1 berubah
+↓
+I1 tetap valid
+↓
+C1 tetap valid
+~~~
+
+maka D1 belum tentu perlu substantive review.
+
+Karena itu propagation sebaiknya mengikuti perubahan consequence, bukan sekadar kedalaman chain.
+
+## 9. Change Propagation
 
 Working model:
 
-**Parent Change**
-→ **Identify Dependents**
-→ **Check Direct Dependency**
-→ **Re-derive / Impact Check**
-→ **Propagate only if consequence changes**
+~~~text
+Parent Change
+↓
+Identify Dependents
+↓
+Check Direct Dependency
+↓
+Re-derive / Impact Check
+↓
+Propagate only if consequence changes materially
+~~~
 
-Ini lebih tepat daripada:
+Bukan:
 
-**Parent Change**
-→ **Review All Downstream Objects**
+~~~text
+Parent Change
+↓
+Review All Downstream Objects
+~~~
 
-## 8. Dependency Graph
+## 10. Dependency Graph
 
 Secara konseptual:
 
-**P1**
-↘
-**I1 → C1 → D1**
+~~~text
+P1 ──→ I1 ──→ C1 ──→ D1
+ │
+ └────→ I2 ──→ C2
 
-**P1**
-↘
-**I2 → C2**
-
-**P2**
-→ **I3**
+P2 ──→ I3
+~~~
 
 Jika P1 berubah:
 
 - I1 perlu diperiksa;
 - I2 perlu diperiksa;
-- I3 tidak otomatis terdampak.
+- I3 tidak otomatis terdampak;
+- D1 ditinjau lebih lanjut jika perubahan I1/C1 material.
 
-D1 hanya perlu ditinjau lebih jauh jika I1 atau C1 berubah secara material.
+Technical graph belum diperlukan.
 
-## 9. Direct vs Transitive Impact
-
-Working distinction:
+## 11. Direct vs Transitive Impact
 
 ### Direct Impact
 
-Parent berubah dan object downstream memiliki explicit substantive dependency.
+Downstream object memiliki explicit substantive dependency pada changed Principle.
 
 ### Transitive Impact
 
-Object terdampak karena object intermediate yang menjadi parent-nya berubah.
+Downstream object terdampak melalui intermediate object yang berubah.
 
-Transitive impact perlu ditelusuri hanya jika perubahan pada intermediate object material.
+Transitive review hanya diteruskan jika intermediate change material.
 
-## 10. Not All Dependency Is Equal
+## 12. Dependency Strength
 
-Dependency dapat memiliki tingkat:
+Working distinction:
 
 - essential;
 - substantive;
@@ -164,81 +191,85 @@ Dependency dapat memiliki tingkat:
 - weak/contextual;
 - administrative.
 
-Untuk governance, yang paling relevan adalah dependency yang memiliki consequence terhadap meaning atau design function.
+Governance terutama berkepentingan dengan dependency yang dapat mengubah meaning, applicability, criteria, atau design function.
 
-Administrative reference tidak perlu memicu substantive review.
+Administrative reference tidak otomatis memicu substantive review.
 
-## 11. Dependency dan Scope
+## 13. Dependency × Scope
 
-Jika P1 hanya berlaku pada context A, downstream implication yang hanya berlaku pada context B mungkin tidak terdampak.
+Dependency harus dibaca bersama scope.
 
-Maka impact analysis perlu memperhitungkan:
+Jika P1 berlaku pada context A sementara downstream object hanya berlaku pada B yang tidak overlap secara substantif, impact mungkin tidak ada.
 
-**Dependency × Scope**
+Working model:
 
-bukan dependency saja.
+> **Impact = Dependency × Applicable Scope**
 
-## 12. Dependency dan Condition
+Ini bukan formula numerik, melainkan prinsip diagnosis.
+
+## 14. Dependency × Condition
 
 Misalnya:
 
-**P1 + Condition X → I1**
+~~~text
+P1 + Condition X → I1
+~~~
 
-Jika perubahan P1 hanya terjadi pada kondisi Y, I1 mungkin tidak terdampak.
+Jika perubahan P1 hanya menyentuh Condition Y yang tidak relevan dengan I1, I1 mungkin tidak terdampak.
 
-Sebaliknya jika perubahan menyentuh common commitment P1, I1 perlu diperiksa.
+Sebaliknya, perubahan pada common commitment P1 dapat berdampak langsung.
 
-Karena itu impact analysis harus memperhatikan condition boundary.
+Condition boundary harus masuk ke impact analysis.
 
-## 13. Dependency dan Relationship
-
-P0025–P0027 menunjukkan relationship dapat menjadi substantive object.
+## 15. Dependency × Relationship
 
 Jika:
 
-**P1 + Relationship(P1,P2) → I1**
+~~~text
+P1 + Relationship(P1,P2) → I1
+~~~
 
-dan relationship berubah, I1 dapat terdampak meskipun identity P1 dan P2 tetap.
+dan relationship berubah, I1 dapat terdampak walaupun P1 dan P2 tetap.
 
-Maka impact graph perlu memasukkan relationship ketika relationship tersebut merupakan dependency substantif.
+Karena itu relationship perlu masuk impact analysis ketika relationship tersebut merupakan dependency substantif.
 
-## 14. Dependency dan Evidence
+## 16. Dependency × Evidence
 
-Evidence juga dapat menjadi dependency.
+Evidence dapat menjadi bagian reasoning dependency.
 
-Jika I1 bergantung pada evidence E1 dan E1 berubah status, I1 dapat memerlukan review.
+Jika I1 bergantung pada evidence tertentu dan evidence tersebut materially berubah, I1 dapat perlu direview.
 
-Namun perubahan evidence yang hanya berkaitan dengan P1 secara umum tidak otomatis membatalkan semua downstream implications.
+Namun evidence yang hanya berkaitan dengan P1 secara umum tidak otomatis memengaruhi semua downstream implications.
 
-Impact harus mengikuti actual reasoning dependency.
+## 17. Core Model sebagai Intermediate Layer
 
-## 15. Dependency dan Core Model
+Contoh:
 
-Core Model dapat menjadi intermediate layer:
+~~~text
+P1 → I1 → Core Model Component M1
+~~~
 
-**P1 → I1 → Core Model Component M1**
-
-Jika P1 berubah tetapi I1 tetap, M1 mungkin tetap valid.
+Jika P1 berubah tetapi I1 tetap valid, M1 mungkin tetap valid.
 
 Jika I1 berubah, M1 perlu impact check.
 
-Jika M1 berubah secara substantif, downstream assessment dan implementation dapat ikut diperiksa.
+Jika M1 berubah secara substantif, assessment atau implementation yang bergantung padanya dapat diperiksa lebih lanjut.
 
 Ini menghasilkan **controlled propagation**.
 
-## 16. Stop Condition
+## 18. Stop Condition
 
-Impact propagation membutuhkan stop condition.
+Impact propagation membutuhkan batas berhenti.
 
 Working rule:
 
-> **Propagasi review berhenti pada titik ketika perubahan tidak lagi mengubah meaning, applicability, criteria, design consequence, atau dependency downstream secara material.**
+> **Propagasi berhenti ketika perubahan tidak lagi mengubah meaning, applicability, criteria, design consequence, atau substantive dependency downstream secara material.**
 
-Tanpa stop condition, satu perubahan kecil dapat membuka seluruh repository.
+Tanpa stop condition, perubahan kecil dapat membuka seluruh repository.
 
-## 17. Impact Review Tidak Sama dengan Full Review
+## 19. Impact Check ≠ Full Review
 
-Sebuah downstream object dapat menerima:
+Downstream object dapat menerima:
 
 ### No Impact
 
@@ -246,33 +277,33 @@ Tidak ada dependency substantif.
 
 ### Impact Check
 
-Dependency ada tetapi perubahan belum menunjukkan material consequence.
+Dependency ada tetapi belum terlihat material consequence.
 
 ### Targeted Review
 
-Ada material consequence pada area tertentu.
+Material consequence ada pada bagian tertentu.
 
 ### Full Review
 
-Identity atau governance status object downstream mungkin terdampak secara luas.
+Identity atau governance status downstream mungkin terdampak secara luas.
 
-Ini memungkinkan proportional governance.
+Ini mendukung proportional governance.
 
-## 18. Review Queue
+## 20. Review Queue
 
-Parent change dapat menghasilkan daftar:
+Parent change dapat menghasilkan:
 
-- Direct dependents;
-- Potential dependents;
-- Transitive dependents.
+- direct dependents;
+- potential dependents;
+- transitive dependents.
 
-Namun hanya object yang memenuhi threshold dependency yang perlu masuk substantive review.
+Namun substantive review hanya perlu diberikan kepada object yang memenuhi basis dependency dan materiality.
 
 Ini dapat menjadi dasar future governance workflow.
 
-## 19. Avoiding Governance Cascade
+## 21. Menghindari Governance Cascade
 
-Jika setiap parent change otomatis membuka semua downstream elements:
+Jika setiap Principle change membuka seluruh downstream repository:
 
 - review volume meningkat;
 - governance overload;
@@ -280,42 +311,40 @@ Jika setiap parent change otomatis membuka semua downstream elements:
 - false impact;
 - instability.
 
-Karena itu TUMBUH membutuhkan **dependency-aware propagation**.
+TUMBUH membutuhkan **dependency-aware propagation**.
 
-## 20. Avoiding Hidden Impact
+## 22. Menghindari Hidden Impact
 
-Kebalikannya juga berisiko.
+Kebalikan juga berisiko.
 
-Jika governance hanya memeriksa direct dependents, perubahan dapat lolos ke downstream melalui intermediate object.
+Jika hanya direct dependents yang diperiksa, perubahan dapat lolos melalui intermediate object.
 
-Maka sistem perlu mendukung:
+Karena itu:
 
-**direct dependency analysis**
-+
-**conditional transitive impact analysis.**
+> **Direct dependency analysis + conditional transitive impact analysis**
 
-Tidak semua transitive dependency harus direview; yang perlu diteruskan adalah impact yang material.
+lebih memadai daripada direct-only atau full-repository review.
 
-## 21. Materiality
+## 23. Materiality
 
-Materiality dapat dilihat melalui:
+Materiality dapat diperiksa melalui perubahan pada:
 
-- change in commitment;
-- change in scope;
-- change in condition;
-- change in design implication;
-- change in criteria;
-- change in applicability;
-- change in relationship;
-- change in downstream consequence.
+- commitment;
+- scope;
+- condition;
+- design implication;
+- criteria;
+- applicability;
+- relationship;
+- downstream consequence.
 
-Jika tidak ada perubahan material pada elemen-elemen tersebut, full downstream review tidak diperlukan.
+Jika tidak terdapat material change pada elemen relevan, full downstream review tidak diperlukan.
 
-## 22. Dependency Metadata
+## 24. Dependency Metadata
 
-Secara konseptual, downstream objects dapat memiliki:
+Secara konseptual downstream objects dapat menyimpan:
 
-- parent principle;
+- parent Principle;
 - dependency type;
 - scope;
 - condition;
@@ -323,158 +352,199 @@ Secara konseptual, downstream objects dapat memiliki:
 - affected criteria;
 - downstream links.
 
-Belum ada kebutuhan untuk menetapkan format metadata teknis final.
+Belum ada dasar untuk menetapkan format metadata teknis final.
 
-## 23. Parent Change Protocol
+## 25. Parent Change Protocol
 
 Working protocol:
 
-1. Identifikasi parent yang berubah.
+1. Identifikasi Principle yang berubah.
 2. Identifikasi direct substantive dependents.
 3. Periksa scope dan condition.
-4. Re-derive derived implications.
+4. Re-derive dependent implications.
 5. Tentukan apakah consequence berubah.
-6. Jika berubah material, propagate impact.
+6. Jika material, propagate impact.
 7. Periksa intermediate objects.
-8. Hentikan propagasi ketika tidak ada material impact.
+8. Hentikan propagasi ketika tidak ada material downstream impact.
 9. Catat outcome dan traceability.
 
-## 24. Contoh Konseptual
+## 26. Contoh Konseptual
 
-Misalnya:
+~~~text
+P1 → I1 → C1 → D1 → Program X
+~~~
 
-**P1 → I1 → C1 → D1 → Program X**
+### Case A — Tidak Ada Downstream Change
 
 P1 berubah.
 
-### Case A
-
-I1 tetap sama.
+I1 tetap.
 
 → C1 tetap.
 
 → D1 tetap.
 
-→ Program X tidak perlu substantive review.
+→ Program X tidak memerlukan substantive review.
 
-### Case B
+### Case B — Implication Berubah
+
+P1 berubah.
 
 I1 berubah.
 
-→ C1 perlu diperiksa.
+→ C1 diperiksa.
 
 Jika C1 tetap:
 
 → D1 dapat Retain.
 
-### Case C
+### Case C — Consequence Berlanjut
 
 I1 dan C1 berubah.
 
-→ D1 perlu targeted review.
+→ D1 targeted review.
 
 Jika D1 berubah:
 
-→ Program X dapat masuk impact review.
+→ Program X masuk impact review.
 
-Dengan demikian propagation bersifat conditional.
+Propagation bersifat conditional.
 
-## 25. Parent Change dan Current System State
+## 27. Current System State
 
-Current state tidak cukup dibaca dari parent saja.
+Impact tidak cukup dibaca dari parent.
 
-Perlu dibaca melalui chain:
+Working chain:
 
-**Parent State**
-→ **Derivation**
-→ **Intermediate State**
-→ **Downstream Consequence**
+~~~text
+Parent State
+↓
+Derivation
+↓
+Intermediate State
+↓
+Downstream Consequence
+~~~
 
-Ini membuat impact analysis lebih presisi.
+Ini membuat impact analysis mengikuti current system state.
 
-## 26. Dependency dan Governance Authority
+## 28. Governance Scope
 
-Tidak semua downstream review membutuhkan authority yang sama.
+Tidak semua downstream review membutuhkan governance level yang sama.
 
-Review dapat berada pada level:
+Review dapat berada pada:
 
 - epistemic/design review;
 - domain governance;
 - system governance.
 
-Jika impact mencapai Core Model atau system-wide commitment, governance scope dapat meluas.
+Semakin luas consequence yang terdampak, semakin luas governance review yang mungkin diperlukan.
 
-Ini konsisten dengan P0028 tentang differentiated governance.
+P0039 tidak menetapkan authority final.
 
-## 27. Dependency dan Versioning
+## 29. Version / State Traceability
 
-Parent version/state sebaiknya dapat ditelusuri.
+Parent state perlu dapat ditelusuri secara konseptual.
 
-Misalnya:
+Contoh:
 
-**I1 derived from P1@v2 + P2@v3**
+~~~text
+I1 derived from P1@state-2 + P2@state-3
+~~~
 
 Ketika P1 berubah:
 
-**P1@v3**
+~~~text
+P1@state-3
+~~~
 
-system dapat mengidentifikasi bahwa I1 perlu re-derivation.
+I1 dapat diidentifikasi sebagai dependent yang perlu re-derivation.
 
-Belum perlu menentukan mekanisme versioning teknis.
+Belum diperlukan mekanisme versioning teknis tertentu.
 
-## 28. Temuan
+## 30. Boundary
 
-1. Parent change tidak seharusnya otomatis membuka seluruh downstream repository.
-2. Direct substantive dependents adalah titik awal impact review.
-3. Composite dependents juga perlu diperiksa.
-4. Indirect/transitive impact perlu ditelusuri ketika intermediate consequence berubah material.
+P0039 **tidak**:
+
+- menetapkan automatic review seluruh repository;
+- menetapkan automation teknis;
+- menetapkan numeric threshold materiality;
+- menetapkan format metadata final;
+- atau menetapkan authority governance final.
+
+Fokusnya adalah **dependency-aware impact propagation dalam Principles TUMBUH**.
+
+## 31. Repository Destination
+
+Hasil P0039 diarahkan ke:
+
+**Principles → Design Principles → Design Implications → dependency / impact traceability**
+
+Repository perlu memungkinkan pertanyaan:
+
+> **Apa yang bergantung pada Principle ini, mengapa, dalam scope apa, dan apa consequence jika Principle berubah?**
+
+Tidak semua dependency harus menjadi technical graph edge.
+
+## 32. Implikasi bagi TUMBUH
+
+Working model:
+
+> **Parent change memicu dependency-aware impact analysis, bukan blanket downstream review.**
+
+Propagation dimulai dari direct substantive dependents dan diteruskan hanya jika perubahan intermediate memiliki consequence material.
+
+Dengan demikian TUMBUH dapat menjaga coherence tanpa governance cascade.
+
+## 33. Temuan Sementara
+
+1. Parent change tidak otomatis membuka seluruh downstream repository.
+2. Direct substantive dependents adalah titik awal.
+3. Composite dependents perlu diperiksa.
+4. Transitive impact diperiksa ketika intermediate consequence berubah material.
 5. Association tidak cukup untuk memicu review.
 6. Scope dan condition memengaruhi impact.
 7. Relationship dapat menjadi dependency substantif.
-8. Evidence dependency perlu ditelusuri sesuai reasoning aktual.
+8. Evidence dependency perlu mengikuti reasoning aktual.
 9. Core Model dapat menjadi intermediate propagation layer.
 10. Impact propagation membutuhkan stop condition.
 11. Impact check berbeda dari full review.
 12. Dependency-aware propagation mencegah governance cascade.
 13. Sistem juga harus mencegah hidden downstream impact.
-14. Materiality menjadi dasar untuk menentukan apakah impact diteruskan.
-15. Parent change protocol perlu dimulai dari direct dependents dan berkembang hanya jika consequence berubah.
+14. Materiality menentukan apakah impact perlu diteruskan.
+15. Parent change protocol dimulai dari direct dependents.
 16. Tidak semua downstream objects membutuhkan governance event.
 17. Dependency metadata dapat membantu traceability.
 18. Belum ada dasar untuk menetapkan format teknis dependency metadata.
 
-## 29. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — PARENT CHANGE SEBAIKNYA MEMICU REVIEW BERDASARKAN SUBSTANTIVE DEPENDENCY, BUKAN OTOMATIS TERHADAP SELURUH DOWNSTREAM IMPLICATIONS.**
+## 34. Kesimpulan
 
-Working rule:
+P0039 mendukung working rule:
 
-> **Ketika parent principle berubah, TUMBUH mengidentifikasi direct substantive dependents terlebih dahulu. Downstream impact kemudian dipropagasikan hanya jika perubahan pada intermediate consequence, applicability, criteria, relationship, atau design meaning bersifat material. Propagasi berhenti ketika tidak terdapat material downstream impact.**
+> **Ketika Design Principle berubah, TUMBUH sebaiknya memulai impact analysis dari direct substantive dependents. Downstream impact dipropagasikan hanya ketika perubahan pada intermediate implication, applicability, criteria, relationship, atau design consequence bersifat material. Propagasi berhenti ketika tidak terdapat material downstream impact.**
 
-## 30. Implikasi bagi Repository
+Dengan demikian:
 
-Repository perlu mendukung **dependency-aware traceability**, minimal secara konseptual.
+**Parent Change → Identify Dependencies → Impact Check → Conditional Propagation**
 
-Yang penting dapat diketahui:
+bukan:
 
-**apa bergantung pada apa, mengapa, dalam scope apa, dan dengan consequence apa.**
+**Parent Change → Review Everything.**
 
-Tidak perlu semua dependency menjadi edge formal dalam technical graph.
-
-Yang dibutuhkan adalah kemampuan untuk melakukan impact analysis tanpa membuka seluruh repository.
-
-## 31. Next Inquiry
-
-P0040 akan menguji:
+## 35. Next Inquiry
 
 > **Apakah dependency antara Design Principle dan downstream object harus selalu explicit, atau sebagian dependency dapat diinferensikan dari struktur dan reasoning?**
 
-Pertanyaan ini penting karena P0039 menetapkan dependency sebagai dasar impact propagation. Agar mekanisme tersebut dapat bekerja, TUMBUH perlu menentukan seberapa explicit dependency harus dicatat.
+P0040 akan menguji batas **explicit dependency** versus **inferred dependency**, agar traceability TUMBUH cukup kuat untuk impact analysis tetapi tidak menghasilkan metadata yang berlebihan.
 
-## Status
+## 36. Status Inquiry
 
-**P0039 — selesai sebagai inquiry.**
+**Finding:** Impact review sebaiknya mengikuti substantive dependency dan material consequence.
 
-**Temuan utama:** Parent change tidak perlu memicu review seluruh downstream implications. Review dimulai dari direct substantive dependents dan dipropagasikan hanya ketika downstream consequence berubah secara material.
+**Working conclusion:** Direct dependency menjadi titik awal; transitive propagation bersifat conditional.
 
-**Next inquiry:** P0040 — *Apakah Dependency Harus Selalu Explicit atau Dapat Diinferensikan dari Struktur dan Reasoning?*
+**Boundary:** Format metadata dan mekanisme otomatis dependency detection belum ditetapkan.
+
+**Open question:** Seberapa explicit dependency harus direpresentasikan?
