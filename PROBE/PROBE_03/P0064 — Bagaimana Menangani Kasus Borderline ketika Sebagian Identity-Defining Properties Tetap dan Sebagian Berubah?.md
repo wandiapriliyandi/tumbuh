@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0064  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Governance Inquiry
 
 ---
@@ -478,7 +478,19 @@ Property Change
 
 ---
 
-## 25. Status Inquiry
+## 25. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Borderline identity cases diperlakukan sebagai semantic continuity problem dengan status Uncertain yang sah ketika evidence/reasoning belum memadai.
+
+## 26. Next Inquiry
+
+> **Jika dua reviewer memberikan continuity judgment yang berbeda pada borderline case, bagaimana TUMBUH seharusnya menyelesaikan identity disagreement tanpa mengorbankan traceability dan tanpa menjadikan voting sebagai pengganti reasoning?**
+
+P0065 akan menguji mekanisme penyelesaian disagreement secara khusus dalam konteks identity Principles TUMBUH.
+
+## 27. Status Inquiry
 
 **Finding:** Borderline identity cases tidak dapat diselesaikan dengan property counting. Penentu utamanya adalah peran identity-defining property yang berubah dan dampaknya terhadap substantive continuity.
 
