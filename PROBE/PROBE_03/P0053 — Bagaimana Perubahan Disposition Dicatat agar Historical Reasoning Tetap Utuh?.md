@@ -4,10 +4,18 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0053  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Historical traceability atas perubahan disposition relationship dalam Principles TUMBUH.
+
+## TUMBUH Question
+
+**Bagaimana perubahan disposition dicatat agar historical reasoning tetap utuh ketika tolerated tension berubah menjadi design resolution atau principle reopening?**
 
 ## 1. Pertanyaan
 
@@ -327,5 +335,7 @@ Ini memperkuat traceability antara PROBE, reasoning, governance, dan repository 
 
 **Working rule:**  
 `Current State + Historical Transition + Rationale + Trace`
+
+**Repository destination:** Principles → Design Principles → Relational Traceability → Tension / Coherence / Disposition / Review History
 
 **Open question:** Jika history relationship terus bertambah, bagaimana menentukan **minimum historical record** yang wajib dipertahankan agar traceability tetap kuat tanpa membuat repository terlalu berat?
