@@ -1,57 +1,78 @@
 # P0022 — Bagaimana Membedakan Dua Design Principles yang Benar-Benar Berbeda dari Dua Formulasi atas Commitment yang Sama?
 
-## Pertanyaan
+## Status
 
-**Bagaimana menentukan apakah dua Design Principles benar-benar merupakan dua principles yang berbeda, atau hanya dua formulasi/redaksi dari commitment atau design logic yang sama?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0022  
+**Status:** Revised  
+**Type:** Design Principle Distinctiveness Inquiry
 
-P0021 menemukan bahwa Design Principles membentuk relational structure. Karena itu, semakin banyak candidate principle dirumuskan, semakin penting mencegah **principle inflation** dan redundancy.
+---
 
-## 1. Masalah
+## 1. Object of Inquiry
 
-Dua candidate dapat tampak berbeda karena menggunakan kata berbeda:
+**Object of Inquiry:** Design Principles TUMBUH, khususnya identitas dan distinctiveness antar-Design Principles.
 
-- “menjaga keterhubungan antar-komponen”;
-- “menghindari fragmentasi desain.”
+P0022 menguji apakah dua candidate merupakan dua commitments yang memang berbeda, atau hanya dua formulasi, refinement, atau elemen pada level berbeda.
 
-Namun keduanya mungkin memiliki:
+---
 
-- tujuan yang sama;
+## 2. TUMBUH Question
+
+> **Bagaimana menentukan apakah dua Design Principles benar-benar merupakan dua principles yang berbeda, atau hanya dua formulasi dari commitment atau design logic yang sama?**
+
+P0021 menunjukkan bahwa Principles membentuk relational structure. Karena itu, semakin banyak candidate muncul, semakin penting mencegah **principle inflation** dan redundancy.
+
+---
+
+## 3. Mengapa Perbedaan Redaksi Tidak Cukup?
+
+Dua candidate dapat menggunakan kata berbeda tetapi memiliki:
+
+- commitment yang sama;
+- design function yang sama;
 - implication yang sama;
-- criterion yang sama;
-- evidence yang sama;
-- trade-off yang sama.
+- consequence yang sama;
+- scope yang sama.
 
-Jika demikian, perbedaan bahasa tidak cukup untuk membuktikan adanya dua principles.
+Sebaliknya, dua candidate dapat menggunakan bahasa mirip tetapi menghasilkan design consequences berbeda.
 
-Sebaliknya, dua principles dapat menggunakan bahasa yang mirip tetapi menghasilkan konsekuensi desain yang berbeda.
+Maka unit analisisnya bukan nama Principle, melainkan:
 
-Maka pembeda harus dicari pada **fungsi dan konsekuensi**, bukan sekadar redaksi.
+~~~text
+Commitment
+→ Design Function
+→ Implication
+→ Criterion
+→ Evidence
+→ Design Consequence
+~~~
 
-## 2. Unit Pembeda
+---
+
+## 4. Working Distinction
 
 Working hypothesis:
 
-> **Dua Design Principles merupakan principles yang berbeda jika keduanya memiliki design function yang substantif berbeda dan perbedaannya menghasilkan konsekuensi desain yang tidak dapat direduksi satu sama lain.**
+> **Dua Design Principles dapat dipertahankan sebagai principles berbeda jika masing-masing memiliki design function substantif dan consequence desain yang tidak sepenuhnya dapat digantikan oleh yang lain.**
 
-Ini berarti nama principle bukan unit analisis utama.
+Perbedaan wording saja tidak cukup.
 
-Yang diperiksa adalah:
+---
 
-**commitment → implication → question → criterion → evidence → design consequence.**
-
-## 3. Uji Commitment
+## 5. Commitment Test
 
 Pertanyaan pertama:
 
-> Apakah kedua candidate sebenarnya melindungi atau mengarahkan commitment yang sama?
+> **Apakah kedua candidate sebenarnya melindungi atau mengarahkan commitment yang sama?**
 
-Jika jawabannya ya, perlu diuji lebih lanjut apakah perbedaannya hanya merupakan:
+Jika ya, uji apakah B hanya:
 
 - sinonim;
 - elaborasi;
 - refinement;
 - kondisi penerapan;
-- atau benar-benar principle baru.
+- atau benar-benar commitment tambahan.
 
 Contoh abstrak:
 
@@ -59,87 +80,92 @@ Contoh abstrak:
 
 **B:** menjaga consistency.
 
-Keduanya belum dapat dianggap berbeda hanya karena istilah berbeda.
+Keduanya belum dapat dianggap berbeda hanya karena istilahnya berbeda.
 
-## 4. Uji Design Function
+---
+
+## 6. Design Function Test
 
 Tanyakan:
 
-> **Apa fungsi desain unik yang dilakukan principle ini?**
+> **Apa fungsi desain unik yang dilakukan candidate ini?**
 
-Jika A dan B menghasilkan fungsi desain yang sama, keduanya mungkin redundant.
+Jika A dan B melakukan fungsi yang sama, redundancy perlu dicurigai.
 
-Jika A mengarahkan hubungan antar-komponen sedangkan B mengarahkan kemampuan sistem beradaptasi terhadap perubahan, terdapat alasan lebih kuat untuk mempertahankan distinction.
+Jika A mengarahkan hubungan antar-komponen sedangkan B mengarahkan kemampuan desain beradaptasi terhadap perubahan, terdapat dasar lebih kuat untuk mempertahankan distinction.
 
-## 5. Uji Design Implication
+Namun fungsi berbeda saja belum cukup; scope dan commitment tetap perlu diuji.
 
-Bandingkan implication keduanya.
+---
 
-Jika:
+## 7. Design Implication Test
 
-**A → implication X**
+Bandingkan consequence:
 
-dan
+~~~text
+A → Implication X
+B → Implication X
+~~~
 
-**B → implication X**
+Jika reasoning substantifnya sama, redundancy mungkin terjadi.
 
-maka perlu dicurigai redundancy.
+Sebaliknya:
 
-Jika:
+~~~text
+A → X
+B → Y
+~~~
 
-**A → X**
+dapat menunjukkan distinction jika X dan Y benar-benar menghasilkan consequence desain berbeda.
 
-sedangkan
+Perbedaan implication tidak otomatis membuktikan dua Principles berbeda karena satu Principle dapat mempunyai beberapa implication.
 
-**B → Y**
+---
 
-dan X serta Y menghasilkan konsekuensi desain yang substantif berbeda, distinction lebih dapat dipertahankan.
+## 8. Criterion Test
 
-Namun implication yang berbeda belum otomatis membuktikan dua principles berbeda. Perbedaan tersebut harus diuji kembali terhadap commitment dan scope.
+Shared criterion bukan bukti bahwa dua Principles sama.
 
-## 6. Uji Criterion
+~~~text
+A → Criterion C
+B → Criterion C
+~~~
 
-P0016 menemukan bahwa Principle dan Criterion tidak harus one-to-one.
+C dapat memang relevan bagi keduanya.
 
-Karena itu shared criterion bukan bukti bahwa dua principles sama.
+Sebaliknya, criterion berbeda juga belum otomatis membuktikan distinctiveness.
 
-Dua principles dapat memiliki:
+Criterion adalah salah satu evidence untuk distinction, bukan penentu tunggal.
 
-**A → Criterion C**
+---
 
-**B → Criterion C**
+## 9. Counterfactual Test
 
-jika C memang relevan untuk keduanya.
+Uji penting:
 
-Sebaliknya, dua principles yang memiliki criterion berbeda juga belum otomatis berbeda secara substantif.
+> **Jika A dihapus tetapi B dipertahankan, apakah ada commitment atau consequence desain yang hilang?**
 
-Criterion adalah evidence untuk distinction, bukan satu-satunya penentu.
-
-## 7. Uji Counterfactual
-
-Salah satu uji paling kuat:
-
-> **Jika A dihapus tetapi B dipertahankan, apakah ada komitmen atau konsekuensi desain yang hilang?**
-
-Kemudian sebaliknya:
+Lalu sebaliknya:
 
 > **Jika B dihapus tetapi A dipertahankan, apakah ada sesuatu yang hilang?**
 
-Jika menghapus A tidak menghilangkan apa pun yang tidak sudah dijaga oleh B, A mungkin redundant.
+Jika penghapusan A tidak kehilangan apa pun yang belum dijaga B, A mungkin redundant.
 
-Jika masing-masing melindungi sesuatu yang tidak dapat sepenuhnya digantikan oleh yang lain, distinction lebih kuat.
+Jika masing-masing melindungi sesuatu yang tidak sepenuhnya dapat digantikan oleh yang lain, distinction lebih kuat.
 
-## 8. Uji Substitutability
+---
 
-Pertanyaan lanjutan:
+## 10. Substitutability Test
+
+Pertanyaan:
 
 > **Apakah B dapat menggantikan A tanpa mengubah design reasoning yang penting?**
 
-Jika ya, candidate mungkin merupakan formulasi alternatif.
+Jika ya, candidate mungkin hanya formulation alternatif.
 
-Jika tidak, perlu dicari sumber perbedaannya.
+Jika tidak, cari sumber perbedaannya.
 
-Substitutability sangat berguna untuk membedakan:
+Substitutability membantu membedakan:
 
 **duplicate**
 
@@ -147,124 +173,164 @@ dari
 
 **distinct principle**.
 
-## 9. Uji Scope
+---
 
-Dua principles dapat memiliki commitment yang mirip tetapi scope berbeda.
+## 11. Scope Test
+
+Dua candidate dapat memiliki commitment mirip tetapi scope berbeda.
 
 Misalnya:
 
-- A berlaku pada seluruh sistem;
+- A berlaku system-wide;
 - B berlaku hanya pada domain tertentu.
 
-Perbedaan scope dapat menjadikan B sebagai contextual refinement, bukan necessarily principle yang berdiri sendiri.
+Perbedaan ini belum otomatis berarti dua Principles.
+
+B dapat merupakan:
+
+- contextual refinement;
+- scope condition;
+- atau Principle yang memang memiliki fungsi berbeda.
 
 Karena itu perlu dibedakan:
 
-**different principle**
+> **different principle**
 
 dengan
 
-**same principle, different scope**.
+> **same principle, different scope.**
 
-## 10. Uji Level
+---
 
-P0021 menunjukkan pentingnya relational structure, tetapi relasi tidak otomatis berarti dua node setara.
+## 12. Level Test
 
-Dua candidate dapat sebenarnya berada pada level berbeda:
+Dua candidate dapat tampak mirip tetapi sebenarnya berada pada level berbeda:
 
-**A — Core Principle**
+~~~text
+Core Principle
+→ Design Principle
+→ Design Criterion
+→ Design Rule
+→ Design Decision
+~~~
 
-**B — Design Principle**
+Jika A dan B tidak berada pada level konseptual yang sama, keduanya tidak tepat diperlakukan sebagai dua Design Principles yang bersaing.
 
-atau:
+---
 
-**A — Design Principle**
+## 13. Refinement Test
 
-**B — Design Criterion**
+Candidate B dapat merupakan refinement dari A:
 
-Jika level berbeda, tidak tepat memperlakukannya sebagai dua Design Principles yang bersaing.
-
-## 11. Uji Refinement
-
-Kadang candidate kedua bukan duplicate, tetapi refinement.
-
-Struktur:
-
-**Principle A**
+~~~text
+Principle A
 ↓
-**Refinement B**
+Refinement B
+~~~
 
 B memperjelas A untuk:
 
 - kondisi tertentu;
 - domain tertentu;
-- jenis desain tertentu.
+- atau jenis desain tertentu.
 
-Dalam kasus ini, pertanyaan yang perlu dijawab bukan:
+Pertanyaan yang tepat kemudian bukan hanya “apakah A dan B berbeda?”, tetapi:
 
-> “Apakah A dan B dua principles?”
+> **Apakah B perlu menjadi Principle tersendiri, atau cukup menjadi refinement/scope condition dari A?**
 
-melainkan:
+Tidak semua refinement perlu dinaikkan menjadi Principle.
 
-> “Apakah B perlu menjadi principle tersendiri, atau cukup menjadi refinement/scope condition dari A?”
+---
 
-Tidak semua refinement perlu dinaikkan menjadi principle.
+## 14. Trade-off Test
 
-## 12. Uji Trade-off
+Jika A dan B benar-benar dapat menghasilkan tension terhadap alternatif desain yang sama, distinction mungkin substantif.
 
-Dua candidate yang tampak mirip dapat menghasilkan trade-off yang berbeda.
+Namun jika apparent conflict hilang setelah istilah diperjelas, masalahnya mungkin semantic overlap.
 
-Jika A dan B dapat benar-benar mengalami tension terhadap alternative yang sama, distinction mereka mungkin substantif.
-
-Tetapi jika “conflict” hilang setelah definisi diperjelas, masalah mungkin sebenarnya hanya semantic overlap.
-
-Karena itu:
+Maka:
 
 > **semantic clarification harus mendahului conflict resolution.**
 
 Ini konsisten dengan P0011.
 
-## 13. Uji Evidence
+---
 
-Evidence yang sama tidak otomatis berarti principle yang sama.
+## 15. Evidence Test
+
+Evidence yang sama tidak otomatis berarti Principles sama.
 
 Satu evidence dapat mendukung beberapa claims.
 
-Sebaliknya, evidence berbeda tidak otomatis membuktikan dua principles berbeda.
+Sebaliknya, evidence berbeda tidak otomatis membuktikan Principles berbeda.
 
-Yang harus dibandingkan adalah:
+Pertanyaan yang lebih tepat:
 
-> evidence mendukung claim apa, dan claim tersebut menghasilkan konsekuensi desain apa?
+> **Evidence mendukung claim apa, dan claim tersebut menghasilkan consequence desain apa?**
 
-Dengan demikian, evidence berfungsi sebagai bagian dari traceability, bukan sebagai mekanisme klasifikasi tunggal.
+Dengan demikian evidence membantu traceability, bukan menjadi klasifikasi tunggal.
 
-## 14. Uji Generalization
+---
 
-Candidate yang sangat spesifik mungkin sebenarnya bukan principle baru.
+## 16. Four Possible Outcomes
 
-Pertanyaan:
+Setelah diuji, dua candidate dapat menghasilkan:
 
-> Apakah candidate masih memiliki fungsi yang sama ketika konteksnya diperluas?
+### 1. Duplicate
 
-Jika ya, candidate mungkin merupakan formulation atau refinement.
+Makna dan fungsi substantif sama.
 
-Jika tidak, perlu ditentukan apakah perbedaan tersebut merupakan:
+→ merge atau hilangkan redundancy.
 
-- contextual principle;
-- local design rule;
-- atau local decision.
+### 2. Refinement
 
-P0013 memberikan batas awal untuk pembedaan ini.
+B mempersempit atau memperjelas A pada scope/condition tertentu.
 
-## 15. Matriks Distinction
+→ pertimbangkan sebagai refinement, bukan otomatis Principle mandiri.
 
-Working tool:
+### 3. Related but Distinct
+
+A dan B berhubungan kuat tetapi mempunyai fungsi desain yang berbeda.
+
+→ keduanya dapat dipertahankan.
+
+### 4. Different Level
+
+Keduanya sebenarnya bukan objek pada level yang sama.
+
+→ tempatkan pada level yang tepat, misalnya criterion, rule, atau decision.
+
+---
+
+## 17. Principle Inflation
+
+Working definition:
+
+> **Principle inflation** adalah kecenderungan mengubah setiap insight, preference, consideration, atau implication menjadi Principle tersendiri.
+
+Risikonya:
+
+- Principle Set membesar tanpa fungsi tambahan;
+- traceability menjadi rumit;
+- apparent conflict meningkat;
+- hierarchy semu terbentuk;
+- commitment utama menjadi sulit terlihat.
+
+Maka:
+
+> **Jumlah Principles bukan target. Distinctiveness dan functional necessity lebih penting.**
+
+---
+
+## 18. Distinction Matrix
+
+Working inquiry tool:
 
 | Dimensi | A | B | Pertanyaan |
 |---|---|---|---|
 | Commitment | ... | ... | sama atau berbeda? |
 | Design Function | ... | ... | fungsi unik? |
-| Implication | ... | ... | konsekuensi berbeda? |
+| Implication | ... | ... | consequence berbeda? |
 | Scope | ... | ... | sama atau conditional? |
 | Criterion | ... | ... | shared atau berbeda? |
 | Evidence | ... | ... | claim yang didukung? |
@@ -273,77 +339,18 @@ Working tool:
 | Trade-off | ... | ... | tension substantif? |
 | Level | ... | ... | berada pada level yang sama? |
 
-Matriks ini adalah alat inquiry, bukan scoring system.
+Matriks ini adalah alat inquiry, **bukan scoring system**.
 
-## 16. Jangan Menggunakan Score untuk Menentukan Distinction
-
-P0010 dan P0011 menunjukkan pentingnya governed reasoning.
-
-Karena itu tidak disarankan membuat:
-
-> A = 8/10  
-> B = 6/10
-
-lalu menyimpulkan mana principle yang “lebih benar”.
-
-Tujuannya bukan memilih principle dengan skor tertinggi.
-
-Tujuannya adalah mengetahui apakah **distinction tersebut justified**.
-
-## 17. Empat Kemungkinan Hasil
-
-Setelah diuji, dua candidate dapat menghasilkan empat outcome utama.
-
-### 1. Duplicate
-
-Makna dan fungsi substantif sama.
-
-→ merge/remove redundancy.
-
-### 2. Refinement
-
-B merupakan penajaman A untuk scope atau condition tertentu.
-
-→ dapat dipertahankan sebagai refinement, bukan harus menjadi principle mandiri.
-
-### 3. Related but Distinct
-
-A dan B berhubungan kuat tetapi memiliki fungsi desain yang berbeda.
-
-→ keduanya dapat dipertahankan.
-
-### 4. Different Level
-
-Keduanya sebenarnya bukan objek yang sama.
-
-→ pindahkan ke level yang tepat, misalnya criterion, rule, atau decision.
-
-## 18. Principle Inflation
-
-P0022 memperkuat istilah kerja:
-
-> **Principle inflation** = kecenderungan mengubah setiap insight, preference, consideration, atau implication menjadi principle tersendiri.
-
-Risikonya:
-
-- Principle Set membesar tanpa fungsi tambahan;
-- traceability menjadi rumit;
-- conflict meningkat secara artifisial;
-- hierarchy semu terbentuk;
-- designers kehilangan gambaran tentang commitment utama.
-
-Maka jumlah principles bukan target.
-
-**Distinctiveness dan functional necessity lebih penting daripada jumlah.**
+---
 
 ## 19. Minimum Distinction Test
 
-Sebuah candidate dapat dipertahankan sebagai Design Principle tersendiri jika sekurang-kurangnya dapat menunjukkan:
+Candidate dapat dipertahankan sebagai Design Principle tersendiri jika dapat menunjukkan:
 
 1. commitment yang dapat dibedakan;
 2. design function yang substantif;
-3. konsekuensi desain yang tidak sepenuhnya dapat digantikan;
-4. scope yang jelas;
+3. consequence desain yang tidak sepenuhnya dapat digantikan;
+4. scope yang dapat dijelaskan;
 5. traceability yang dapat dipertanggungjawabkan.
 
 Jika tidak, candidate perlu diuji sebagai:
@@ -353,57 +360,93 @@ Jika tidak, candidate perlu diuji sebagai:
 - criterion;
 - rule;
 - decision;
-- atau sekadar explanatory text.
+- atau explanatory text.
 
-## 20. Temuan
+---
 
-1. Perbedaan redaksi tidak cukup untuk membuktikan dua Design Principles berbeda.
-2. Distinction sebaiknya diuji pada commitment, design function, implication, consequence, scope, dan level.
-3. Shared criterion atau shared evidence tidak otomatis berarti redundancy.
+## 20. Boundary
+
+P0022 **tidak**:
+
+- menentukan jumlah final Design Principles TUMBUH;
+- memilih Principle mana yang “lebih benar”;
+- menggunakan score untuk memilih Principle;
+- menetapkan hierarchy baru;
+- atau menghapus candidate tertentu tanpa inquiry substantif.
+
+Fokusnya adalah **menguji distinctiveness sebelum sebuah candidate diperlakukan sebagai node tersendiri dalam Principle System.**
+
+---
+
+## 21. Repository Destination
+
+Hasil P0022 diarahkan ke:
+
+**Principles → Design Principles → distinctiveness / redundancy / refinement / traceability**
+
+Candidate Principle sebaiknya melalui distinction analysis sebelum menjadi node tersendiri.
+
+---
+
+## 22. Implication for TUMBUH
+
+Working model:
+
+~~~text
+Candidate Principle
+        ↓
+Distinction Analysis
+        ↓
+Duplicate / Refinement / Distinct / Different Level
+        ↓
+Principle System
+~~~
+
+Dengan demikian repository tidak perlu membuat satu Principle untuk setiap insight atau variasi redaksi.
+
+---
+
+## 23. Temuan Sementara
+
+1. Perbedaan redaksi tidak cukup membuktikan dua Design Principles berbeda.
+2. Distinction perlu diuji pada commitment, design function, implication, consequence, scope, dan level.
+3. Shared criterion atau evidence tidak otomatis berarti redundancy.
 4. Counterfactual dan substitutability merupakan uji penting.
-5. Dua candidate dapat berupa duplicate, refinement, related-but-distinct, atau different-level.
-6. Refinement tidak otomatis harus dinaikkan menjadi principle.
+5. Candidate dapat berakhir sebagai duplicate, refinement, related-but-distinct, atau different-level.
+6. Refinement tidak otomatis harus menjadi Principle mandiri.
 7. Principle inflation perlu dicegah.
-8. Jumlah principles bukan ukuran kualitas.
-9. Distinction harus ditentukan melalui reasoning, bukan scoring.
-10. Traceability harus mengikuti claim dan consequence, bukan hanya nama principle.
+8. Jumlah Principles bukan ukuran kualitas.
+9. Distinction ditentukan melalui reasoning, bukan scoring.
+10. Traceability harus mengikuti claim dan consequence, bukan sekadar nama Principle.
 
-## 21. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — DISTINCTIVENESS HARUS DITENTUKAN BERDASARKAN FUNGSI DAN KONSEKUENSI DESAIN, BUKAN PERBEDAAN REDAKSI.**
+---
 
-Working rule:
+## 24. Kesimpulan
 
-> **Dua Design Principles dapat dipertahankan sebagai principles yang berbeda ketika masing-masing memiliki design function dan konsekuensi yang substantif serta tidak sepenuhnya dapat digantikan oleh yang lain. Jika salah satunya hanya mengulang, mempersempit, atau berada pada level berbeda dari yang lain, ia sebaiknya diperlakukan sebagai duplicate, refinement, atau elemen pada level yang tepat.**
+P0022 mendukung working rule:
 
-## 22. Implikasi bagi Repository
+> **Dua Design Principles dapat dipertahankan sebagai Principles yang berbeda ketika masing-masing memiliki design function dan consequence yang substantif serta tidak sepenuhnya dapat digantikan oleh yang lain. Jika salah satunya hanya mengulang, mempersempit, atau berada pada level berbeda dari yang lain, ia sebaiknya diperlakukan sebagai duplicate, refinement, atau elemen pada level yang tepat.**
 
-Repository tidak perlu memaksakan satu principle untuk setiap insight.
+Dengan demikian, distinctiveness ditentukan oleh **fungsi dan consequence**, bukan perbedaan wording.
 
-Candidate principles perlu melalui distinction analysis sebelum masuk sebagai node tersendiri dalam Principle System.
+---
 
-Relational traceability dapat membantu menunjukkan:
+## 25. Next Inquiry
 
-- duplicate;
-- refinement;
-- dependency;
-- complementarity;
-- tension.
+> **Jika Design Principles dapat saling mendukung, memperhalus, bergantung, atau mengalami tension, apakah TUMBUH membutuhkan struktur eksplisit untuk mengorganisasikan relasi antar-Design Principles?**
 
-Dengan demikian Principle System dapat berkembang secara **parsimonious**: cukup kaya untuk menangkap design logic, tetapi tidak membengkak karena redundancy.
+P0023 akan menguji bagaimana relationship antar-principle sebaiknya direpresentasikan tanpa menciptakan hierarchy atau formalism yang belum diperlukan.
 
-## 23. Next Inquiry
+---
 
-P0023 akan menguji:
+## 26. Status Inquiry
 
-> **Jika Design Principles dapat saling mendukung, memperhalus, bergantung, atau mengalami tension, apakah TUMBUH membutuhkan struktur eksplisit untuk mengorganisasikan Principles tersebut?**
+**Finding:** Distinctiveness Design Principles ditentukan oleh distinct commitment, design function, dan consequence yang tidak sepenuhnya substitutable.
 
-Pertanyaannya bukan sekadar apakah ada relasi, tetapi **bagaimana relasi itu sebaiknya direpresentasikan tanpa menciptakan hierarchy atau formalism yang tidak diperlukan.**
+**Working conclusion:** Candidate yang redundant, refinement, atau berbeda level tidak perlu dipaksakan menjadi Principle tersendiri.
 
-## Status
+**Boundary:** Tidak menentukan final Principle Set.
 
-**P0022 — selesai sebagai inquiry.**
-
-**Temuan utama:** dua Design Principles harus dibedakan berdasarkan distinct commitment, design function, dan konsekuensi desain yang tidak sepenuhnya substitutable. Perbedaan redaksi saja tidak cukup. Candidate yang redundant, refinement, atau berbeda level tidak perlu dipaksakan menjadi principle tersendiri.
-
-**Next inquiry:** P0023 — *Apakah TUMBUH membutuhkan struktur eksplisit untuk mengorganisasikan relasi antar-Design Principles?*
+**Open question:** Bagaimana relasi antar-Design Principles sebaiknya direpresentasikan?
