@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0063  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Traceability Inquiry
 
 ---
@@ -424,7 +424,19 @@ Candidate Change
 
 ---
 
-## 22. Status Inquiry
+## 22. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Identity refinement dan identity change diperlakukan sebagai outcome semantic review yang berbeda, dengan lineage tetap dipertahankan pada kedua kasus.
+
+## 23. Next Inquiry
+
+> **Bagaimana menangani kasus borderline ketika sebagian identity-defining properties tetap, tetapi sebagian lainnya berubah secara substantif?**
+
+P0064 akan menguji kasus campuran tersebut tanpa mengubah identity review menjadi aturan mekanis.
+
+## 24. Status Inquiry
 
 **Finding:** Refinement dan identity change adalah dua outcome berbeda dari semantic review. Pembeda utamanya adalah substantive continuity pada identity-defining semantics, bukan textual magnitude.
 
