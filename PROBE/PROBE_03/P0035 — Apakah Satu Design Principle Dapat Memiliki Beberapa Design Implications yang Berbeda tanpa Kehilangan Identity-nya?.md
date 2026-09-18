@@ -1,321 +1,300 @@
 # P0035 — Apakah Satu Design Principle Dapat Memiliki Beberapa Design Implications yang Berbeda tanpa Kehilangan Identity-nya?
 
-## Pertanyaan
+## Status
 
-**Apakah satu Design Principle dapat memiliki beberapa Design Implications yang berbeda tanpa kehilangan identity-nya?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0035  
+**Status:** Revised  
+**Type:** Design Principle and Design Implication Inquiry
 
-P0015 menetapkan bahwa Design Principle perlu diterjemahkan ke Design Implication sebelum dapat diuji melalui Design Criterion. P0034 menunjukkan bahwa satu principle juga dapat memiliki beberapa conditions selama common commitment dan design function tetap dapat dipertahankan.
+---
 
-P0035 menguji apakah satu commitment dapat menghasilkan lebih dari satu implication tanpa berubah menjadi beberapa principles.
+## 1. Object of Inquiry
 
-## 1. Design Principle Bukan Satu Instruksi
+**Object of Inquiry:** Design Principles TUMBUH, khususnya hubungan antara satu Principle dan beberapa Design Implications.
 
-P0020 menemukan bahwa Design Principle tidak seharusnya menjadi rule atau SOP.
+P0015 menunjukkan bahwa Principle perlu diterjemahkan ke Design Implication sebelum dapat diuji melalui Design Criterion. P0034 menunjukkan bahwa satu Principle dapat memiliki beberapa conditions selama common commitment dan design function tetap.
 
-Karena itu satu principle tidak harus menghasilkan satu instruksi desain.
+## 2. TUMBUH Question
 
-Sebuah commitment dapat menghasilkan beberapa konsekuensi desain yang berbeda.
+> **Apakah satu Design Principle dapat memiliki beberapa Design Implications yang berbeda tanpa kehilangan identity-nya?**
 
-Working chain:
+## 3. Design Principle Bukan Satu Instruksi
 
-**Design Principle**
-→ **Design Implication 1**
-→ **Design Implication 2**
-→ **Design Implication 3**
+Design Principle bukan rule atau SOP.
 
-Selama implications tersebut merupakan konsekuensi dari commitment yang sama, tidak ada kebutuhan otomatis untuk membuat beberapa principles.
+Karena itu tidak ada alasan untuk mengharuskan:
 
-## 2. Apa itu Design Implication?
+> **1 Principle = 1 Implication**
 
-Dalam working model P0015, Design Implication adalah konsekuensi desain yang dapat diperiksa yang muncul ketika sebuah Design Principle diterapkan.
+Satu commitment dapat menghasilkan beberapa consequence desain.
+
+Working model:
+
+~~~text
+Design Principle
+├── Implication 1
+├── Implication 2
+└── Implication 3
+~~~
+
+## 4. Apa itu Design Implication?
+
+Working definition dari P0015:
+
+> **Design Implication adalah konsekuensi desain yang dapat diperiksa ketika sebuah Design Principle benar-benar digunakan sebagai design commitment.**
 
 Ia menjawab:
 
-> **Jika principle ini benar-benar digunakan sebagai design commitment, apa yang harus diperhatikan atau berubah dalam desain?**
+> **Jika Principle ini digunakan dalam desain, apa yang harus diperhatikan atau berubah?**
 
 Design Implication bukan:
 
-- principle baru;
-- criterion;
-- indicator;
-- method;
+- Principle baru;
+- Criterion;
+- Indicator;
+- Method;
 - SOP.
 
-## 3. Satu Commitment dapat Menghasilkan Banyak Implications
+## 5. One-to-Many adalah Valid
 
-Secara konseptual:
-
-**P**
-→ **I1**
-→ **I2**
-→ **I3**
-
-Misalnya satu commitment dapat memiliki implikasi terhadap:
+Satu Principle dapat memiliki implications terhadap:
 
 - structure;
 - interaction;
 - sequencing;
 - information flow;
-- evaluation.
+- evaluation;
+- atau aspek desain lain.
 
 Perbedaan domain consequence tidak otomatis berarti commitment berbeda.
 
-Yang perlu diuji adalah apakah seluruh implications masih dapat ditelusuri kembali ke commitment yang sama.
+Test utamanya:
 
-## 4. Traceability Menjadi Test Utama
+> **Apakah setiap implication masih dapat ditelusuri kembali ke commitment yang sama?**
 
-Untuk setiap implication, tanyakan:
+## 6. Traceability sebagai Test Utama
 
-> **Apakah implication ini dapat dijelaskan sebagai konsekuensi dari principle tanpa memasukkan commitment baru yang tidak ada dalam principle?**
+Untuk setiap implication:
 
-Jika ya, implication dapat tetap berada di bawah principle.
+> **Apakah implication ini dapat dijelaskan sebagai consequence dari Principle tanpa memasukkan commitment baru yang tidak terdapat dalam Principle?**
 
-Jika tidak, mungkin terdapat:
+Jika ya, implication masih dapat berada di bawah Principle.
 
-- hidden principle;
+Jika tidak, perlu dicari apakah terdapat:
+
+- hidden Principle;
 - unsupported assumption;
 - design decision;
-- atau principle baru yang belum dirumuskan.
+- atau Principle lain yang belum dirumuskan.
 
-## 5. Hidden Principle
+## 7. Hidden Principle
 
-Ini merupakan risiko penting.
+Risiko penting muncul ketika sebuah implication membutuhkan commitment tambahan.
 
-Sebuah Design Principle dapat memiliki banyak implications, tetapi salah satu implication ternyata membutuhkan commitment tambahan.
+Model:
 
-Contoh konseptual:
+~~~text
+Principle A
+├── I1
+└── I2
 
-**Principle A**
-menghasilkan:
-
-- I1;
-- I2;
-- I3.
-
-Tetapi I3 hanya dapat dibenarkan jika ada commitment B.
-
-Maka I3 tidak boleh dipaksakan sebagai consequence dari A.
-
-Kemungkinan:
-
-**A → I1, I2**
-
-dan
-
-**B → I3**
+Principle B
+└── I3
+~~~
 
 atau:
 
-**A + B → I3**
+~~~text
+Principle A + Principle B
+└── I3
+~~~
 
-Ini membantu mencegah overloading satu principle.
+I3 tidak boleh dipaksakan sebagai consequence A jika reasoning sebenarnya membutuhkan B.
 
-## 6. Implication Tidak Harus Identik Bentuknya
+Ini menjaga batas identity Principle.
 
-Beberapa implications dapat berbeda tingkat abstraksinya.
+## 8. Implication Tidak Harus Satu Bentuk
 
-Contoh:
+Implications dapat berbeda tingkat abstraksinya.
 
-- implication untuk architecture;
-- implication untuk interaction;
-- implication untuk sequencing.
+Misalnya:
 
-Namun repository perlu menjaga agar implication tidak turun terlalu jauh menjadi implementation instruction.
+- architectural implication;
+- interaction implication;
+- sequencing implication.
 
-Jika implication sudah menentukan:
+Namun implication tetap harus berada pada level design reasoning.
 
-- siapa;
-- kapan;
-- urutan langkah;
-- tool;
-- prosedur;
+Jika sudah menentukan tool, actor, urutan kerja, atau prosedur spesifik, formulation dapat turun menjadi design decision atau operational specification.
 
-maka kemungkinan telah menjadi rule atau operational specification.
-
-## 7. Implication dan Condition
+## 9. Implication dan Condition
 
 P0034 menemukan:
 
-**Principle + Condition → context-sensitive implication**
+~~~text
+Principle
+↓
+Condition
+↓
+Context-Sensitive Implication
+~~~
 
-Maka satu principle dapat memiliki implication berbeda pada kondisi berbeda.
+Maka satu Principle dapat memiliki implication berbeda pada kondisi berbeda.
 
-Model:
+Contoh struktur:
 
-**P**
-→ Condition A → I1
-→ Condition B → I2
+~~~text
+Principle P
+├── Condition A → I1
+└── Condition B → I2
+~~~
 
-Ini masih dapat merupakan satu principle jika commitment dan design function tetap sama.
+Selama common commitment dan design function tetap, identity dapat dipertahankan.
 
-## 8. Condition Tree
+## 10. Implication dan Criterion
 
-Untuk principle yang kompleks, working representation dapat berupa:
+P0015–P0016 menunjukkan:
 
-**Principle P**
-
-- Condition A
-  - Implication A1
-  - Implication A2
-- Condition B
-  - Implication B1
-  - Implication B2
-
-Namun ini adalah representational possibility, bukan kewajiban repository.
-
-## 9. Implication dan Design Criterion
-
-P0015 dan P0016 menunjukkan bahwa implication perlu dapat diterjemahkan menjadi criterion.
-
-Model:
-
-**Principle**
-→ **Implication**
-→ **Criterion**
-→ **Evidence**
-→ **Conformance Judgment**
+~~~text
+Principle
+↓
+Implication
+↓
+Criterion
+↓
+Evidence
+↓
+Conformance Judgment
+~~~
 
 Satu implication dapat memiliki beberapa criteria.
 
-Satu principle juga dapat memiliki banyak implications.
+Satu Principle juga dapat memiliki banyak implications.
 
-Maka hubungan tidak perlu one-to-one.
+Karena itu hubungan tidak perlu one-to-one.
 
-## 10. One-to-Many sebagai Struktur Normal
+## 11. Implication Complexity
 
-Working relationship:
-
-**1 Principle**
-→ **Many Implications**
-
-dan:
-
-**1 Implication**
-→ **Many Criteria**
-
-Ini tidak menunjukkan bahwa principle terlalu luas.
-
-Yang menentukan adalah apakah hubungan tersebut memiliki reasoning yang dapat dipertanggungjawabkan.
-
-## 11. Kapan Banyak Implications Menjadi Masalah?
-
-Jumlah bukan masalah utama.
+Jumlah implications bukan test utama.
 
 Masalah muncul ketika:
 
-- implications tidak lagi memiliki common rationale;
-- implications membutuhkan commitments berbeda;
+- common rationale hilang;
+- commitments berbeda;
 - implications saling bertentangan;
-- implications berada pada level yang tidak kompatibel;
-- principle menjadi terlalu abstract untuk menjelaskan consequences;
-- reviewer tidak dapat menelusuri reasoning.
+- level tidak kompatibel;
+- reasoning tidak dapat ditelusuri;
+- Principle menjadi terlalu abstract untuk menjelaskan consequence.
 
-Dengan kata lain:
+Working rule:
 
 > **Complexity of implication is a diagnostic issue, not a numeric threshold.**
 
 ## 12. Implication Explosion
 
-Seperti condition explosion pada P0034, dapat terjadi:
+Satu Principle dapat menghasilkan terlalu banyak implications.
 
-**implication explosion.**
+Ini dapat menjadi sinyal bahwa:
 
-Satu principle menghasilkan puluhan atau ratusan implications yang sangat berbeda.
-
-Ini dapat menunjukkan:
-
-- principle terlalu broad;
-- beberapa principles telah digabung;
-- implications seharusnya menjadi bagian dari Core Model;
+- Principle terlalu broad;
+- beberapa Principles telah digabung;
+- sebagian implications sebenarnya Core Model content;
 - sebagian implications sebenarnya design decisions.
 
-Maka implication explosion adalah trigger untuk review, bukan automatic reason untuk split.
+Implication explosion adalah **review trigger**, bukan automatic reason untuk split.
 
 ## 13. Common Design Function
 
-Salah satu test penting:
+Pertanyaan kunci:
 
 > **Apakah seluruh implications masih melayani design function yang sama?**
 
-Jika ya, satu principle masih dapat dipertahankan.
+Jika ya, satu Principle masih dapat dipertahankan.
 
-Jika implications ternyata melayani dua fungsi design yang berbeda, principle mungkin mengandung lebih dari satu commitment.
+Jika implications ternyata melayani dua design functions yang berbeda secara substantif, Principle perlu ditinjau.
 
 ## 14. Counterfactual Test
 
 Untuk setiap implication:
 
-> **Jika implication ini dihapus, apakah principle tetap memiliki commitment yang sama?**
+> **Jika implication ini dihapus, apakah Principle masih memiliki commitment yang sama?**
 
-Jika ya, implication mungkin merupakan salah satu consequence dari principle.
+Jika ya, implication dapat merupakan salah satu consequence.
 
-Jika penghapusan implication membuat principle kehilangan sebagian commitment fundamentalnya, perlu diperiksa apakah implication tersebut sebenarnya bagian dari principle formulation.
+Jika tidak, perlu diperiksa apakah implication tersebut sebenarnya bagian dari Principle formulation atau menunjukkan hidden commitment.
 
-Ini bukan mechanical rule, tetapi diagnostic test.
+Ini diagnostic test, bukan rule mekanis.
 
-## 15. Necessity vs Possibility
+## 15. Necessary vs Possible Implication
 
-Tidak semua implication harus bersifat necessary.
+Tidak semua implication memiliki kekuatan yang sama.
 
-Perlu dibedakan:
+### Necessary Implication
 
-### Necessary implication
+Jika Principle diterapkan, consequence tersebut harus dipenuhi.
 
-Jika principle diterapkan, consequence tertentu memang harus dipenuhi.
+### Conditional Implication
 
-### Probable implication
+Consequence berlaku jika condition tertentu terpenuhi.
 
-Evidence atau experience menunjukkan consequence biasanya muncul.
+### Possible Design Implication
 
-### Possible implication
+Consequence merupakan design possibility yang relevan, tetapi bukan requirement.
 
-Implication merupakan salah satu design possibility.
+Pembedaan ini penting agar kemungkinan desain tidak salah dipresentasikan sebagai keharusan.
 
-Design Principle harus hati-hati agar possible design choice tidak dipresentasikan sebagai necessary implication.
+Terminologi ini masih working model.
 
 ## 16. Implication dan Evidence
 
-Evidence dapat digunakan untuk mendukung reasoning:
+Evidence dapat mendukung reasoning antara Principle dan Implication.
 
-**Principle**
-→ **Implication**
-→ **Evidence**
+Namun:
 
-Tetapi evidence tidak otomatis membuktikan implication.
+> **Evidence ≠ automatic proof of implication.**
 
-Jenis claim perlu dibedakan.
+Jika implication merupakan normative design consequence, design reasoning dapat menjadi dasar utama.
 
-Jika implication merupakan normative design consequence, argumentasi design mungkin cukup.
-
-Jika implication membuat empirical claim, evidence empiris yang sesuai diperlukan.
+Jika implication mengandung empirical claim, evidence empiris yang sesuai diperlukan.
 
 ## 17. Implication dan Design Alternatives
 
-Satu Design Principle dapat menghasilkan beberapa valid design alternatives.
+P0014 menunjukkan bahwa Principle tidak harus menghasilkan satu konfigurasi desain.
 
-P0014 menemukan bahwa principle tidak harus menentukan satu konfigurasi.
+Working model:
 
-Maka:
+~~~text
+Principle
+↓
+Implications / Constraints
+↓
+Multiple Valid Designs
+~~~
 
-**Principle**
-→ **Implications / constraints**
-→ **Multiple valid designs**
-
-Design Implication membatasi design space tanpa menentukan satu solution.
+Implications membantu membentuk design space tanpa menentukan satu solution.
 
 ## 18. Implication dan Conformance
 
-P0015 menemukan bahwa conformance perlu melalui:
+Conformance dapat diperiksa melalui:
 
-**Principle**
-→ **Design Implication**
-→ **Evaluation Criterion**
-→ **Evidence**
-→ **Design Assessment**
+~~~text
+Principle
+↓
+Implication
+↓
+Criterion
+↓
+Evidence
+↓
+Conformance Judgment
+~~~
 
-Jika principle memiliki banyak implications, conformance dapat diperiksa pada beberapa consequence.
+Jika Principle memiliki beberapa implications, conformance dapat diperiksa pada beberapa consequence.
 
-Tetapi conformance pada satu implication tidak otomatis membuktikan seluruh principle.
+Namun:
+
+> **Conformance terhadap satu implication tidak otomatis berarti conformance terhadap seluruh Principle.**
 
 ## 19. Partial Conformance
 
@@ -323,161 +302,164 @@ Sebuah design dapat:
 
 - memenuhi I1;
 - memenuhi I2;
-- gagal memenuhi I3.
+- tidak memenuhi I3.
 
-Ini tidak otomatis berarti principle gagal secara keseluruhan.
+Ini tidak otomatis membuktikan Principle gagal.
 
-Perlu ditentukan apakah:
+Perlu diketahui apakah I3:
 
-- I3 mandatory;
-- I3 conditional;
-- I3 optional;
-- atau I3 ternyata bukan implication yang valid.
+- mandatory;
+- conditional;
+- possible;
+- atau ternyata bukan valid implication.
 
-Ini menunjukkan pentingnya semantic status pada implications.
+Karena itu status implication perlu jelas ketika digunakan untuk conformance.
 
-## 20. Mandatory dan Conditional Implications
-
-Working taxonomy:
-
-### Core Implication
-
-Konsekuensi yang dianggap harus mengikuti commitment.
-
-### Conditional Implication
-
-Konsekuensi yang berlaku jika condition tertentu terpenuhi.
-
-### Possible Design Implication
-
-Salah satu consequence yang dapat dipertimbangkan tetapi bukan requirement.
-
-Ketiganya tidak boleh dicampur.
-
-Terminologi ini masih working model dan belum merupakan struktur final repository.
-
-## 21. Implication Relationship
-
-Implications dapat memiliki relationship sendiri:
-
-- supports;
-- depends on;
-- constrains;
-- enables;
-- conflicts with.
-
-Namun relationship implication tidak otomatis perlu menjadi object repository tersendiri.
-
-Yang penting ketika relationship tersebut memiliki reasoning consequence, ia dapat ditelusuri.
-
-## 22. Kapan Implication Harus Naik Menjadi Principle?
+## 20. Implication dapat Naik Menjadi Principle
 
 Jika sebuah implication:
 
 - memiliki commitment sendiri;
 - memiliki design function sendiri;
-- dapat berdiri secara general;
-- digunakan lintas konteks;
-- memiliki downstream consequences independen;
-- dan dapat diuji sebagai normative design commitment;
+- general;
+- reusable;
+- memiliki downstream consequence independen;
+- dan dapat diperlakukan sebagai normative design commitment;
 
-maka perlu dipertimbangkan apakah ia sebenarnya adalah Design Principle tersendiri.
+maka perlu dipertimbangkan apakah ia sebenarnya Design Principle tersendiri.
 
-Ini mencegah implication digunakan sebagai tempat menyembunyikan principles.
+Ini mencegah implications menjadi tempat tersembunyinya Principles.
 
-## 23. Kapan Implication Turun Menjadi Decision?
+## 21. Implication dapat Turun Menjadi Decision
 
 Jika implication diterjemahkan menjadi:
 
 - konfigurasi spesifik;
-- pilihan arsitektur tertentu;
-- tool tertentu;
-- urutan kerja tertentu;
+- architectural choice tertentu;
+- tool;
+- actor;
+- urutan kerja;
+- prosedur;
 
-maka ia sudah memasuki design decision atau operational layer.
+maka ia telah memasuki design decision atau operational layer.
 
-Dengan demikian terdapat boundary:
+Boundary:
 
-**Principle**
-→ **Implication**
-→ **Criterion**
-→ **Design**
-→ **Decision**
+~~~text
+Principle
+↓
+Implication
+↓
+Criterion
+↓
+Design
+↓
+Decision / Operation
+~~~
 
-## 24. Identity Test
+## 22. Identity Test
 
-Working test untuk mempertahankan banyak implications di bawah satu principle:
+Working test untuk mempertahankan banyak implications di bawah satu Principle:
 
 1. common commitment;
 2. common design function;
-3. traceable derivation;
+3. traceable reasoning;
 4. compatible implications;
 5. clear scope;
 6. manageable complexity;
 7. no hidden commitment.
 
-Jika semua terpenuhi, multiple implications tidak mengharuskan split.
+Jika conditions terpenuhi, multiplicity tidak mengharuskan split.
 
-## 25. Temuan
+## 23. Boundary
+
+P0035 **tidak**:
+
+- menetapkan jumlah maksimal implications;
+- menjadikan semua implications mandatory;
+- menetapkan implication sebagai repository layer baru;
+- atau menentukan bahwa semua implications harus empirically proven.
+
+Fokusnya adalah **batas identity Principle ketika satu Principle memiliki banyak Design Implications**.
+
+## 24. Repository Destination
+
+Hasil P0035 diarahkan ke:
+
+**Principles → Design Principles → Design Implications → traceability / criteria**
+
+Repository tidak perlu memaksakan satu implication per Principle.
+
+Yang diperlukan adalah hubungan yang dapat ditelusuri:
+
+~~~text
+Principle
+↓
+Condition (bila ada)
+↓
+Implication
+↓
+Criterion
+↓
+Evidence / Test
+~~~
+
+Implications tidak otomatis membutuhkan folder atau file terpisah.
+
+## 25. Implikasi bagi TUMBUH
+
+Working model:
+
+> **Satu Design Principle dapat memiliki banyak Design Implications selama seluruh implications merupakan consequence yang defensible dari common commitment dan common design function dalam scope yang berlaku.**
+
+Dengan demikian TUMBUH dapat merepresentasikan kompleksitas desain tanpa memperbanyak Principles secara artifisial.
+
+## 26. Temuan Sementara
 
 1. Satu Design Principle dapat memiliki banyak Design Implications.
-2. One-to-many merupakan struktur yang normal.
-3. Banyak implications tidak otomatis berarti principle terlalu luas.
-4. Traceability adalah test utama.
-5. Hidden commitment pada implication merupakan risiko penting.
-6. Implications dapat berbeda menurut condition.
-7. Implications dapat memiliki criteria yang berbeda.
+2. One-to-many merupakan struktur yang valid.
+3. Banyak implications tidak otomatis berarti Principle terlalu broad.
+4. Traceability merupakan test utama.
+5. Hidden commitment pada implication merupakan risiko.
+6. Conditions dapat menghasilkan context-sensitive implications.
+7. Implications dapat memiliki criteria berbeda.
 8. Implications tidak harus menentukan satu design configuration.
-9. Necessary, conditional, dan possible implications harus dibedakan.
-10. Implication explosion dapat menjadi diagnostic trigger.
-11. Jika implications memiliki design functions atau commitments yang berbeda, split dapat diperlukan.
-12. Jika implication menjadi independent normative commitment, ia mungkin perlu naik menjadi Design Principle.
-13. Jika implication menjadi konfigurasi atau prosedur spesifik, ia turun menjadi design decision atau operational specification.
-14. Partial conformance pada satu implication tidak otomatis menentukan conformance keseluruhan principle.
-15. Tidak ada numeric threshold untuk jumlah implications.
+9. Necessary, conditional, dan possible implications perlu dibedakan.
+10. Implication explosion merupakan diagnostic trigger.
+11. Independent commitment/design function dapat menunjukkan kebutuhan split.
+12. Implication yang menjadi independent normative commitment dapat naik menjadi Design Principle.
+13. Implication yang menjadi configuration/procedure turun ke design decision atau operational layer.
+14. Tidak ada numeric threshold untuk jumlah implications.
+15. Partial conformance pada satu implication tidak otomatis menentukan conformance keseluruhan Principle.
 
-## 26. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — SATU DESIGN PRINCIPLE DAPAT MEMILIKI BEBERAPA DESIGN IMPLICATIONS SELAMA IMPLICATIONS TERSEBUT MASIH DAPAT DITELUSURI KE COMMITMENT DAN DESIGN FUNCTION YANG SAMA.**
+## 27. Kesimpulan
 
-Working rule:
+P0035 mendukung working rule:
 
-> **Multiplicity of implications is acceptable when each implication is a defensible consequence of the same Design Principle, within its scope and conditions, without introducing hidden commitments. Jika implications mulai memiliki commitment atau design function independen, principle perlu ditinjau untuk split.**
-
-## 27. Implikasi bagi Repository
-
-Repository sebaiknya tidak memaksa:
-
-**1 Principle = 1 Implication.**
-
-Lebih tepat mendukung traceability:
-
-**Principle**
-→ **Implications**
-→ **Criteria**
-→ **Evidence**
-→ **Design Assessment**
-
-Conditions dapat berada di antara Principle dan Implication ketika diperlukan.
-
-Namun implications tidak perlu otomatis menjadi folder atau file tersendiri.
+> **Satu Design Principle dapat memiliki beberapa Design Implications tanpa kehilangan identity selama implications tersebut dapat ditelusuri ke commitment dan design function yang sama, berada dalam scope/conditions yang tepat, dan tidak memasukkan hidden commitment. Jika implications mulai memiliki commitment atau design function independen, Principle perlu ditinjau untuk split atau reformulation.**
 
 ## 28. Next Inquiry
 
-P0036 akan menguji:
+> **Apakah Design Implication harus selalu diturunkan dari satu Design Principle, atau dapat muncul dari kombinasi beberapa Design Principles?**
 
-> **Apakah Design Implication harus selalu dapat diturunkan secara langsung dari Design Principle, atau boleh membutuhkan kombinasi beberapa Principles?**
+P0036 akan menguji reasoning lintas-Principles:
 
-Pertanyaan ini penting karena P0035 menemukan kemungkinan:
+~~~text
+Principle A + Principle B
+↓
+Design Implication
+~~~
 
-**A + B → I**
+dan bagaimana menjaga traceability ketika consequence desain baru muncul dari kombinasi commitments.
 
-Jika kombinasi principles dapat menghasilkan implication baru, TUMBUH perlu memahami bagaimana reasoning lintas-principles bekerja tanpa mengaburkan traceability.
+## 29. Status Inquiry
 
-## Status
+**Finding:** Satu Principle dapat memiliki banyak implications tanpa kehilangan identity.
 
-**P0035 — selesai sebagai inquiry.**
+**Working conclusion:** Multiplicity ditentukan oleh traceability dan common design function, bukan jumlah.
 
-**Temuan utama:** Satu Design Principle dapat memiliki banyak Design Implications tanpa kehilangan identity selama seluruh implications memiliki common commitment dan design function, dapat ditelusuri, dan tidak menyembunyikan commitment baru.
+**Boundary:** Belum menentukan mekanisme formal untuk implications yang muncul dari kombinasi Principles.
 
-**Next inquiry:** P0036 — *Apakah Design Implication Harus Selalu Diturunkan dari Satu Design Principle atau Dapat Muncul dari Kombinasi Beberapa Principles?*
+**Open question:** Bagaimana kombinasi beberapa Principles menghasilkan Design Implication?
