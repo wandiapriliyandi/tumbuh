@@ -1,377 +1,381 @@
 # P0023 — Apakah TUMBUH Membutuhkan Struktur Eksplisit untuk Mengorganisasikan Relasi Antar-Design Principles?
 
-## Pertanyaan
+## Status
 
-**Jika Design Principles dapat saling mendukung, memperhalus, bergantung, atau mengalami tension, apakah TUMBUH membutuhkan struktur eksplisit untuk mengorganisasikan relasi tersebut?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0023  
+**Status:** Revised  
+**Type:** Design Principles Relational Representation Inquiry
 
-P0021 menemukan bahwa Design Principles lebih tepat dipahami sebagai bagian dari Principle System, tetapi belum ada dasar untuk membangun formal Design Grammar. P0022 kemudian menunjukkan pentingnya membedakan principle yang benar-benar berbeda dari duplicate atau refinement.
+---
 
-P0023 menguji konsekuensi berikutnya: bagaimana relational structure tersebut sebaiknya direpresentasikan dalam TUMBUH?
+## 1. Object of Inquiry
 
-## 1. Masalah
+**Object of Inquiry:** Design Principles TUMBUH, khususnya cara merepresentasikan relasi antar-Design Principles.
 
-Ada dua kemungkinan ekstrem.
+P0023 tidak menetapkan Design Logic, graph, atau layer repository baru. Fokusnya adalah menentukan **tingkat explicitness minimum yang diperlukan agar relasi substantif tetap terlihat dan dapat ditelusuri**.
 
-### Tidak ada struktur relasional
+## 2. TUMBUH Question
 
-Setiap principle disimpan sendiri-sendiri.
+> **Jika Design Principles dapat saling mendukung, memperhalus, bergantung, atau mengalami tension, apakah TUMBUH membutuhkan struktur eksplisit untuk mengorganisasikan relasi tersebut?**
 
-Akibatnya:
-- hubungan antar-principle mudah hilang;
+P0021 menemukan kebutuhan relational understanding. P0022 menunjukkan bahwa distinctiveness dan redundancy perlu ditelusuri.
+
+P0023 menguji bentuk representasi yang proporsional.
+
+## 3. Dua Ekstrem
+
+### Under-modeling
+
+Setiap Principle disimpan sendiri tanpa relational information.
+
+Risikonya:
+
 - conflict dan dependency sulit dilacak;
 - duplicate dapat berkembang;
-- design reasoning menjadi tersebar.
+- design reasoning tersebar;
+- perubahan antar-principle sulit ditelusuri.
 
-### Struktur relasional terlalu formal
+### Over-modeling
 
-Semua principle harus ditempatkan dalam graph, taxonomy, hierarchy, atau grammar formal.
+Semua hubungan dipaksa masuk ke graph, taxonomy, hierarchy, atau grammar formal.
 
-Akibatnya:
-- repository menjadi terlalu kompleks;
-- hubungan contextual dapat terlihat universal;
-- formalism dapat mendahului kebutuhan;
-- principle berubah menjadi sistem klasifikasi.
+Risikonya:
 
-Pertanyaannya bukan sekadar apakah relasi ada, tetapi berapa banyak struktur yang benar-benar diperlukan untuk membuat relasi tersebut berguna dan dapat ditelusuri.
+- repository menjadi kompleks;
+- hubungan contextual tampak universal;
+- formalism mendahului kebutuhan;
+- perhatian bergeser dari makna ke struktur.
 
-## 2. Titik Berangkat dari Arsitektur TUMBUH
+Targetnya:
 
-Sumber struktur TUMBUH menempatkan Principles sebagai satu bagian tersendiri yang mencakup Core Principles dan Design Principles, sementara framework-framework berikutnya menerjemahkan sistem ke wilayah capacity, progression, assessment, intervention, dan implementation. 
+> **minimum sufficient explicitness.**
 
-Sumber PROBE juga menetapkan bahwa hasil inquiry harus dapat ditelusuri dari sumber → PROBE → kajian → argumentasi → sintesis → rumusan → file repository.
-
-Dengan demikian, kebutuhan paling kuat yang dapat diturunkan saat ini adalah traceability, bukan formalism.
-
-## 3. Apa yang Dimaksud Struktur Eksplisit?
+## 4. Explicit Representation ≠ New Repository Layer
 
 Struktur eksplisit tidak harus berarti folder baru.
 
-Ia dapat berupa:
-- bagian Relations dalam file principle;
-- metadata;
-- tabel relasi;
+Relasi dapat direpresentasikan melalui:
+
+- bagian Relations dalam file Principle;
 - cross-reference;
+- metadata;
+- tabel;
 - traceability matrix;
 - graph;
-- atau bentuk lain yang memungkinkan hubungan penting terlihat.
+- atau bentuk lain yang sesuai kebutuhan.
 
-Karena itu:
+Maka:
 
-> **explicit representation tidak sama dengan new repository layer.**
+> **explicit representation tidak sama dengan architectural layer.**
 
-Ini merupakan distinction penting.
+## 5. Minimum Relational Structure
 
-## 4. Minimum Relational Structure
+Pada tahap ini, struktur minimum sebaiknya dapat menjawab:
 
-Pada tahap sekarang, struktur minimum dapat menjawab:
+1. Principle apa yang berhubungan?
+2. Jenis hubungan apa yang terjadi?
+3. Dalam scope atau condition apa hubungan berlaku?
+4. Apa consequence hubungan terhadap design reasoning?
+5. Apa rationale atau basis yang mendukung hubungan?
 
-1. Principle ini terkait dengan principle apa?
-2. Jenis hubungannya apa?
-3. Apakah hubungan tersebut berlaku umum atau conditional?
-4. Apa konsekuensinya terhadap design reasoning?
-5. Apa dasar yang mendukung hubungan tersebut?
+Jika pertanyaan tersebut dapat dijawab, kebutuhan dasar relational traceability telah terpenuhi.
 
-Jika lima hal tersebut dapat ditelusuri, kebutuhan dasar relational structure sudah terpenuhi.
+## 6. Kapan Relasi Perlu Dicatat?
 
-## 5. Bentuk Relasi yang Relevan
+Tidak semua pasangan Principles perlu dicatat.
 
-Working vocabulary dari P0021 dapat dipertahankan secara provisional:
+Relasi perlu direpresentasikan ketika ia mempunyai consequence terhadap:
+
+- interpretation;
+- design alternatives;
+- criteria;
+- conflict atau trade-off;
+- scope;
+- dependency;
+- atau traceability.
+
+Working rule:
+
+> **Record the relation when the relation matters.**
+
+Connectivity bukan target.
+
+## 7. Working Vocabulary
+
+Label relasi berikut dapat digunakan secara provisional:
 
 | Relasi | Fungsi |
 |---|---|
-| supports | satu principle memperkuat penerapan principle lain |
-| complements | satu principle melengkapi fungsi principle lain |
-| depends-on | penerapan efektif bergantung pada principle lain |
-| constrains | satu principle membatasi ruang interpretasi/design principle lain |
-| tensions-with | keduanya dapat menghasilkan trade-off |
-| refines | satu principle mempersempit atau memperjelas principle lain |
-| applies-with | hubungan hanya berlaku pada scope atau condition tertentu |
+| supports | satu Principle memperkuat penerapan Principle lain |
+| complements | fungsi keduanya saling melengkapi |
+| depends-on | penerapan efektif bergantung pada Principle lain |
+| constrains | satu Principle membatasi ruang interpretasi/desain Principle lain |
+| tensions-with | penerapan keduanya dapat menghasilkan trade-off |
+| refines | satu Principle mempersempit atau memperjelas Principle lain |
+| applies-with | hubungan berlaku pada scope/condition tertentu |
 
 Ini bukan taxonomy final.
 
-## 6. Mengapa Relasi Perlu Terlihat?
-
-Relasi menjadi penting ketika ia mengubah reasoning.
-
-Misalnya:
-
-DP-A dan DP-B sama-sama mendukung suatu design alternative.
-
-Jika hubungan itu hanya dicatat sebagai daftar, designer mengetahui keduanya ada tetapi tidak mengetahui bahwa keduanya saling memperkuat.
-
-Sebaliknya:
-
-DP-A tensions-with DP-B
-
-memberi informasi bahwa penerapan keduanya dapat memunculkan trade-off.
-
-Maka relasi perlu direpresentasikan ketika ia mempunyai design consequence.
-
-## 7. Relasi Tidak Harus Dicatat untuk Semua Pasangan
-
-Jika terdapat 20 principles, secara teoritis terdapat banyak kemungkinan pasangan.
-
-Tidak masuk akal mengisi semua kombinasi hanya demi kelengkapan.
-
-Prinsip kerja:
-
-> **record the relation when the relation matters.**
-
-Relasi perlu dicatat jika:
-- memengaruhi interpretation;
-- memengaruhi design alternative;
-- memengaruhi criterion;
-- memengaruhi conflict resolution;
-- memengaruhi scope;
-- atau penting untuk traceability.
-
-Relasi yang tidak memiliki konsekuensi substantif tidak perlu dipaksakan.
-
 ## 8. Traceability Lebih Penting daripada Connectivity
 
-Tujuan bukan membuat setiap principle memiliki banyak koneksi.
+Tujuan bukan membuat setiap Principle memiliki banyak koneksi.
 
-Tujuannya adalah agar ketika suatu hubungan penting muncul, kita dapat menjawab:
+Pertanyaan yang lebih penting:
 
-> Mengapa hubungan ini ada?
+> **Mengapa hubungan ini ada?**
 
-Dan:
+dan:
 
-> Apa akibat hubungan ini terhadap desain?
+> **Apa akibat hubungan ini terhadap desain?**
 
-Dengan demikian ukuran keberhasilan bukan jumlah edge dalam graph, tetapi keterjelasan reasoning.
+Karena itu ukuran keberhasilan relational structure bukan jumlah hubungan, tetapi **keterjelasan reasoning yang dapat ditelusuri**.
 
-## 9. Relational Structure Tidak Sama dengan Hierarchy
+## 9. Relational Structure ≠ Hierarchy
 
-Struktur relasional harus menghindari asumsi bahwa setiap hubungan berarti urutan tingkat.
+Hubungan tidak otomatis menunjukkan ranking.
 
-Contoh:
-
+~~~text
 A supports B
+~~~
 
-tidak berarti A lebih tinggi.
+tidak berarti A lebih tinggi daripada B.
 
-A complements B
-
-tidak berarti B lebih rendah.
-
+~~~text
 A tensions-with B
+~~~
 
-tidak berarti salah satunya salah.
+tidak berarti salah satunya harus selalu menang.
 
+~~~text
 A refines B
+~~~
 
-menunjukkan relasi directional tertentu, tetapi tetap tidak otomatis berarti hierarchy repository.
+menunjukkan directionality tertentu, tetapi belum otomatis berarti hierarchy repository.
 
-Dengan demikian, graph relasional lebih tepat dipahami sebagai network of reasoning relations daripada tree of authority.
+Relational structure lebih tepat dipahami sebagai **network of reasoning relations**.
 
-## 10. Relational Structure Tidak Menggantikan Governance
-
-P0010 menemukan bahwa PROBE tidak memiliki kewenangan menerima atau menetapkan principle.
-
-Hal yang sama berlaku untuk relational structure.
-
-Graph atau tabel yang menunjukkan A tensions-with B tidak dengan sendirinya menyelesaikan tension tersebut.
+## 10. Relational Structure ≠ Governance
 
 Relational structure hanya membuat hubungan terlihat.
 
-Keputusan mengenai:
-- acceptance;
-- revision;
-- merge;
-- supersession;
-- conflict handling;
+Misalnya:
 
-tetap membutuhkan reasoning dan governance.
+> A tensions-with B
+
+tidak dengan sendirinya menyelesaikan tension.
+
+Acceptance, revision, merge, supersession, dan conflict handling tetap membutuhkan reasoning serta mekanisme governance yang tepat.
+
+Dengan demikian, representasi relasi tidak boleh dianggap sebagai mekanisme pengambilan keputusan.
 
 ## 11. Relational Structure sebagai Living Structure
 
-Principle System dapat berkembang.
+Principle System dapat berubah.
 
-Candidate baru dapat:
+Candidate dapat:
+
 - ditambahkan;
 - digabung;
-- ditolak;
 - direvisi;
+- ditolak;
 - dipecah;
 - dibuat conditional;
 - atau dinyatakan superseded.
 
-Karena itu relational structure tidak seharusnya dianggap sebagai diagram final yang sekali dibuat lalu tidak berubah.
+Relational information karena itu harus dapat berubah bersama Principle System.
 
-Ia merupakan living structure yang mengikuti perkembangan inquiry dan governance.
+Ia bukan diagram final yang sekali dibuat lalu dianggap tetap.
 
 ## 12. Repository Implication
 
-Sumber struktur TUMBUH menunjukkan bahwa repository dirancang sebagai sistem yang terstruktur dari Philosophy, Principles, berbagai Framework, Programs, Methods, dan Tools.
+Untuk tahap ini belum diperlukan folder:
 
-Karena itu, menambahkan folder baru bernama DESIGN_LOGIC atau DESIGN_GRAMMAR belum diperlukan hanya karena relational structure ditemukan.
+**DESIGN_LOGIC**
 
-Struktur repository sebaiknya tetap mengikuti fungsi utama.
+atau:
 
-Relational information dapat hidup di dalam:
-- file Design Principles;
-- cross-reference;
-- metadata;
-- atau artefak traceability yang baru dibuat jika kebutuhan sudah terbukti.
+**DESIGN_GRAMMAR**
 
-## 13. Kapan Perlu Artefak Khusus?
+hanya karena relational structure ditemukan.
 
-Artefak khusus baru layak dibuat jika jumlah dan kompleksitas hubungan telah mencapai titik di mana dokumentasi individual tidak lagi memadai.
+Lebih proporsional untuk mempertahankan:
 
-Indikasinya antara lain:
-- banyak conflict yang berulang;
+~~~text
+Principles
+→ Design Principles
+→ relational traceability when needed
+~~~
+
+Representasi dapat berkembang kemudian jika kebutuhan terbukti.
+
+## 13. Kapan Artefak Khusus Diperlukan?
+
+Artefak khusus layak dipertimbangkan jika:
+
+- jumlah relationship meningkat secara signifikan;
 - dependency menjadi kompleks;
-- perubahan satu principle berdampak pada banyak principle lain;
-- review membutuhkan peta hubungan;
-- traceability manual sulit dipertahankan;
-- atau Design Logic mulai menjadi objek reasoning tersendiri.
+- perubahan satu Principle berdampak pada banyak Principle lain;
+- review membutuhkan peta relationship;
+- cross-reference manual sulit dipertahankan;
+- atau relational reasoning sendiri menjadi objek inquiry.
 
-Jika kondisi itu belum ada, struktur ringan lebih tepat.
+Dengan demikian kebutuhan artefak khusus harus muncul dari **complexity of reasoning**, bukan dari keinginan melengkapi repository.
 
-## 14. Graph sebagai Kemungkinan, Bukan Keputusan
+## 14. Graph: Kemungkinan, Bukan Keputusan
 
-Graph dapat menjadi representasi yang menarik karena relational structure memang bersifat network.
+Graph sesuai dengan sifat network dari relational structure.
 
 Namun:
 
-> **graph adalah representational option, bukan architectural requirement.**
+> **Graph adalah representational option, bukan architectural requirement.**
 
-TUMBUH belum perlu memutuskan apakah akhirnya akan menggunakan:
-- Markdown cross-reference;
-- YAML/JSON metadata;
-- relational table;
-- knowledge graph;
-- diagram;
-- atau kombinasi.
+TUMBUH belum perlu memilih Markdown cross-reference, metadata, relational table, knowledge graph, diagram, atau kombinasi tertentu.
 
-Pilihan representasi harus mengikuti kebutuhan repository dan workflow.
+Pilihan tersebut harus mengikuti kebutuhan repository dan workflow.
 
-## 15. Minimal Schema yang Dapat Diuji
+## 15. Minimal Schema sebagai Hipotesis
 
-Jika nantinya relational metadata diperlukan, candidate schema sederhana dapat berupa:
+Jika metadata relasional nantinya diperlukan, schema sederhana dapat diuji:
 
 | Field | Fungsi |
 |---|---|
-| source_principle | principle asal |
+| source_principle | Principle asal |
 | relation | jenis hubungan |
-| target_principle | principle tujuan |
+| target_principle | Principle tujuan |
 | scope | kondisi/scope hubungan |
-| consequence | konsekuensi terhadap desain |
+| consequence | consequence terhadap desain |
 | rationale | alasan hubungan |
-| evidence | evidence yang relevan |
+| evidence | evidence relevan |
 | status | status hubungan |
 | reviewed | informasi review |
 
-Schema ini hanya working hypothesis.
+Ini hanya **working hypothesis**, bukan keputusan implementasi.
 
-Tidak perlu langsung diimplementasikan sebelum kebutuhan terbukti.
-
-## 16. Risiko Over-Modeling
-
-TUMBUH perlu berhati-hati terhadap kecenderungan:
-
-> “Karena hubungan ada, maka semua hubungan harus dimodelkan.”
-
-Ini dapat menghasilkan over-modeling.
+## 16. Risiko Over-modeling
 
 Over-modeling terjadi ketika representasi menjadi lebih kompleks daripada reasoning yang hendak dibantu.
 
-Akibatnya:
+Risikonya:
+
 - maintenance meningkat;
-- pengguna lebih fokus pada struktur daripada makna;
-- perubahan kecil menjadi sulit;
+- pengguna fokus pada struktur;
+- perubahan menjadi sulit;
 - repository kehilangan keterbacaan.
 
-Maka:
+Working rule:
 
-> **model only what improves reasoning or traceability.**
+> **Model only what improves reasoning or traceability.**
 
-## 17. Risiko Under-Modeling
+## 17. Risiko Under-modeling
 
-Sebaliknya, terlalu sedikit struktur juga bermasalah.
+Sebaliknya, jika relational information hanya tersimpan implisit dalam narasi:
 
-Jika relasi hanya tersimpan secara implisit dalam narasi:
 - reviewer sulit menemukan hubungan;
 - duplicate dapat muncul;
-- conflict baru diketahui terlambat;
-- perubahan sulit ditelusuri.
+- conflict terlambat terlihat;
+- downstream impact sulit ditelusuri.
 
-Maka targetnya bukan minimalisme absolut.
-
-Targetnya adalah:
+Karena itu target bukan minimalisme absolut, melainkan:
 
 > **minimum sufficient explicitness.**
 
 ## 18. Working Architecture
 
-Untuk saat ini, model yang paling proporsional:
-
+~~~text
 CORE PRINCIPLES
-↓
+       ↓
 DESIGN PRINCIPLES
-↕
+       ↕
 RELATIONAL TRACEABILITY
-↓
+       ↓
 DESIGN IMPLICATIONS
-↓
+       ↓
 DESIGN QUESTIONS / CRITERIA
-↓
+       ↓
 DESIGN ALTERNATIVES
-↓
+       ↓
 EVIDENCE & JUDGMENT
-↓
+       ↓
 DESIGN DECISIONS
+~~~
 
-Relational Traceability bukan necessarily layer baru.
+Relational Traceability merupakan **cross-cutting structure**, bukan necessarily layer baru.
 
-Ia adalah cross-cutting structure yang membantu menjaga hubungan antar-elemen.
+## 19. Boundary
 
-## 19. Temuan
+P0023 **tidak**:
 
-1. TUMBUH membutuhkan cara eksplisit untuk merepresentasikan relasi antar-Design Principles ketika relasi tersebut memiliki konsekuensi terhadap reasoning.
-2. Kebutuhan yang paling kuat saat ini adalah relational traceability, bukan formal Design Grammar.
-3. Struktur eksplisit tidak berarti harus ada folder atau framework baru.
-4. Tidak semua pasangan principles perlu memiliki relasi yang dicatat.
+- menetapkan semua Principles harus saling terhubung;
+- menetapkan hierarchy;
+- menetapkan graph sebagai format;
+- menetapkan Design Grammar;
+- membuat folder baru;
+- atau menggantikan governance dengan relational model.
+
+Fokusnya adalah **representasi relasi yang cukup eksplisit untuk menjaga coherence dan traceability**.
+
+## 20. Repository Destination
+
+Hasil P0023 diarahkan ke:
+
+**Principles → Design Principles → relational traceability**
+
+Belum diperlukan layer atau folder baru.
+
+Jika kompleksitas kemudian meningkat, kebutuhan artefak khusus harus dibuktikan melalui inquiry berikutnya.
+
+## 21. Implication for TUMBUH
+
+Working model:
+
+> **Relational traceability adalah kebutuhan fungsional; bentuk representasinya adalah keputusan yang dapat berkembang.**
+
+Dengan demikian:
+
+**Need for relationship visibility** ≠ **need for formal graph**
+
+dan:
+
+**Explicit relation** ≠ **hierarchy**.
+
+## 22. Temuan Sementara
+
+1. TUMBUH membutuhkan representasi eksplisit atas relasi antar-Design Principles ketika relasi tersebut memiliki consequence terhadap reasoning.
+2. Kebutuhan saat ini adalah relational traceability, bukan formal Design Grammar.
+3. Explicit representation tidak berarti repository layer baru.
+4. Tidak semua pasangan Principles perlu memiliki relasi yang dicatat.
 5. Traceability lebih penting daripada connectivity.
 6. Relational structure tidak sama dengan hierarchy.
 7. Relational structure tidak menggantikan governance.
-8. Relational structure harus dapat berkembang bersama Principle System.
-9. Graph merupakan kemungkinan representasi, bukan keputusan arsitektural saat ini.
-10. TUMBUH perlu menghindari over-modeling maupun under-modeling.
+8. Relational information harus dapat berkembang bersama Principle System.
+9. Graph merupakan opsi representasi, bukan keputusan arsitektural.
+10. Formal artifact khusus baru diperlukan jika complexity of reasoning membuktikan kebutuhannya.
 
-## 20. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — TUMBUH MEMBUTUHKAN RELATIONAL TRACEABILITY, BUKAN WAJIB MEMILIKI LAYER ATAU FRAMEWORK BARU.**
+## 23. Kesimpulan
 
-Working rule:
+P0023 mendukung working rule:
 
-> **Relasi antar-Design Principles perlu direpresentasikan secara eksplisit ketika relasi tersebut memiliki konsekuensi terhadap design reasoning, conflict handling, scope, atau traceability. Representasi tersebut cukup menggunakan struktur paling ringan yang mampu menjaga reasoning tetap terlihat dan dapat ditelusuri.**
+> **Relasi antar-Design Principles perlu direpresentasikan secara eksplisit ketika relasi tersebut memengaruhi design reasoning, conflict/trade-off, scope, dependency, atau traceability. Gunakan representasi paling ringan yang cukup untuk menjaga hubungan dan alasannya tetap terlihat.**
 
-## 21. Implikasi bagi Repository
+Dengan demikian TUMBUH menghindari dua ekstrem:
 
-Belum perlu membuat DESIGN_LOGIC atau DESIGN_GRAMMAR sebagai folder baru.
+**under-modeling** yang kehilangan reasoning, dan **over-modeling** yang membebani repository.
 
-Untuk tahap sekarang:
-- Design Principles tetap menjadi layer utama;
-- relation dapat dicatat melalui cross-reference atau metadata bila diperlukan;
-- conflict, dependency, refinement, dan complementarity perlu dapat ditelusuri;
-- artefak relasional khusus dapat dibuat jika kompleksitas nanti membutuhkannya.
-
-Ini konsisten dengan prinsip kerja PROBE bahwa repository harus lebih terstruktur dan stabil daripada ruang inquiry, sementara PROBE sendiri dapat berkembang secara eksploratif.
-
-## 22. Next Inquiry
-
-P0024 akan menguji:
+## 24. Next Inquiry
 
 > **Apakah relasi antar-Design Principles perlu memiliki arah (directional), atau cukup dipahami sebagai hubungan simetris?**
 
-Pertanyaan ini muncul karena beberapa relasi seperti supports, depends-on, constrains, dan refines tampak directional, sedangkan complements dan tensions-with dapat tampak lebih simetris.
+P0024 akan menguji directionality setiap jenis relasi agar representasi relational structure tidak kehilangan makna.
 
-## Status
+## 25. Status Inquiry
 
-**P0023 — selesai sebagai inquiry.**
+**Finding:** Relational traceability diperlukan ketika relationship memiliki consequence terhadap design reasoning.
 
-**Temuan utama:** TUMBUH membutuhkan relational traceability yang eksplisit ketika hubungan antar-Design Principles mempunyai konsekuensi terhadap reasoning, tetapi belum membutuhkan layer atau framework baru untuk menampungnya. Representasi harus mengikuti kebutuhan reasoning dan menggunakan tingkat formalitas minimum yang memadai.
+**Working conclusion:** Bentuk representasi belum perlu diformalkan menjadi graph atau layer baru.
 
-**Next inquiry:** P0024 — *Apakah relasi antar-Design Principles perlu memiliki arah, atau cukup dipahami sebagai hubungan simetris?*
+**Boundary:** Tidak menetapkan format teknis atau hierarchy.
+
+**Open question:** Apakah relationship antar-Design Principles bersifat directional atau symmetric?
