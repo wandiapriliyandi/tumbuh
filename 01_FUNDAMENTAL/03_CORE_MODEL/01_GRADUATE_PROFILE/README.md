@@ -6,9 +6,9 @@ Graduate Profile adalah arah normatif lulusan yang menjadi keluaran Foundation d
 
 Graduate Profile TUMBUH terdiri dari 10 Muwashofat:
 
-1. Aqidah yang Lurus — Salimul Aqidah
-2. Ibadah yang Benar — Shahihul Ibadah
-3. Akhlak yang Mulia — Matinul Khuluq
+1. Aqidah yang Lurus — Salimul Aqidah — **True Faith**
+2. Ibadah yang Benar — Shahihul Ibadah — **Rightful Worship**
+3. Akhlak yang Mulia — Matinul Khuluq — **Moral Excellence**
 4. Fisik yang Sehat dan Kuat — Qawiyyul Jism
 5. Wawasan yang Luas — Mutsaqqaful Fikr
 6. Mampu Mengendalikan Diri — Mujahadatun Linafsih
@@ -30,9 +30,9 @@ Graduate Profile bukan taxonomy Core Capacity, bukan rubric, bukan instrumen ass
 ```text
 Foundation
 └── Graduate Profile
-    ├── 01 Aqidah yang Lurus
-    ├── 02 Ibadah yang Benar
-    ├── 03 Akhlak yang Mulia
+    ├── 01 Aqidah yang Lurus — True Faith
+    ├── 02 Ibadah yang Benar — Rightful Worship
+    ├── 03 Akhlak yang Mulia — Moral Excellence
     ├── 04 Fisik yang Sehat dan Kuat
     ├── 05 Wawasan yang Luas
     ├── 06 Mampu Mengendalikan Diri
