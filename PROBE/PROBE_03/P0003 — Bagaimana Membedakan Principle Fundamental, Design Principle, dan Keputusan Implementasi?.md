@@ -1,437 +1,425 @@
-# P0003 — Bagaimana Membedakan Principle Fundamental, Design Principle, dan Keputusan Implementasi?
+# P0003 — Apakah TUMBUH Membutuhkan Pembedaan antara Fundamental Commitment dan Design Commitment?
 
-## Pertanyaan
+## Status
 
-**Bagaimana membedakan Principle yang benar-benar fundamental bagi TUMBUH dari Principle yang hanya merupakan prinsip desain lokal atau keputusan implementasi?**
-
----
-
-## 1. Mengapa batas ini diperlukan?
-
-P0001 menemukan bahwa Principle adalah komitmen pengarah yang menjembatani Philosophy dengan keputusan sistem.
-
-P0002 kemudian menunjukkan bahwa Philosophy memberi orientasi dan batas fundamental, sementara evidence dan kebutuhan desain dapat berkontribusi pada pembentukan serta pengujian kandidat Principle.
-
-Temuan tersebut menimbulkan persoalan baru.
-
-Jika kebutuhan desain dapat melahirkan kandidat Principle, maka tidak semua Principle otomatis berada pada tingkat yang sama.
-
-Tanpa pembedaan level, TUMBUH berisiko memasukkan keputusan yang sebenarnya hanya berlaku pada satu konteks ke dalam lapisan Fundamental.
-
-Akibatnya:
-
-```text
-keputusan lokal
-    ↓
-dianggap Principle universal
-    ↓
-Core Model ikut terikat
-    ↓
-sistem menjadi kaku
-```
-
-Sebaliknya, jika semua hal dianggap lokal:
-
-```text
-tidak ada komitmen yang stabil
-    ↓
-setiap bagian bebas menafsirkan sendiri
-    ↓
-koherensi sistem melemah
-```
-
-Karena itu diperlukan batas tingkat abstraksi.
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0003  
+**Status:** Revised  
+**Type:** Principles Architecture Inquiry
 
 ---
 
-## 2. Titik berangkat dari repository
+## 1. Object of Inquiry
 
-Repository TUMBUH menempatkan Principles di dalam `01_FUNDAMENTAL`, terpisah dari `02_IMPLEMENTATION` dan `03_OPERATIONAL`.
+**Object of Inquiry:** Principles TUMBUH.
 
-Struktur tersebut menunjukkan adanya pemisahan antara:
+P0003 mengkaji apakah semua candidate Principle TUMBUH perlu diperlakukan sebagai commitment pada tingkat yang sama, atau apakah TUMBUH membutuhkan pembedaan antara **commitment yang fundamental bagi identitas sistem** dan **commitment yang terutama mengarahkan desain sistem**.
 
-```text
+P0003 tidak sedang membangun hierarki teori prinsip secara umum.
+
+---
+
+## 2. TUMBUH Question
+
+> **Apakah TUMBUH membutuhkan pembedaan antara commitment yang fundamental bagi identitas sistem dan commitment yang berfungsi terutama mengarahkan desain, dan jika iya, apa dasar pembedaan tersebut?**
+
+Pertanyaan ini muncul langsung dari P0001 dan P0002.
+
+P0001 menetapkan working definition Principle sebagai komitmen normatif yang memberi arah dan batas bagi Sistem TUMBUH.
+
+P0002 menunjukkan bahwa candidate Principle dapat terbentuk melalui hubungan antara Philosophy, kebutuhan sistem, evidence, dan reasoning.
+
+Jika demikian, perlu diketahui apakah semua commitment tersebut mempunyai **status fundamental yang sama**.
+
+---
+
+## 3. Mengapa Pembedaan Ini Diperlukan?
+
+Tanpa pembedaan, ada dua risiko.
+
+### Risiko pertama — terlalu banyak yang menjadi fundamental
+
+Keputusan desain tertentu dapat dianggap sebagai bagian dari identitas TUMBUH.
+
+Akibatnya, perubahan desain menjadi sulit meskipun tidak menyentuh komitmen fundamental.
+
+### Risiko kedua — terlalu sedikit yang dianggap fundamental
+
+Sebaliknya, jika seluruh commitment diperlakukan sebagai keputusan desain biasa, TUMBUH dapat kehilangan pegangan yang harus tetap dijaga ketika model atau implementasi berubah.
+
+Maka pertanyaan P0003 bukan:
+
+> “Mana yang lebih tinggi?”
+
+melainkan:
+
+> **“Apa fungsi dan konsekuensi sistem dari masing-masing commitment?”**
+
+---
+
+## 4. Petunjuk dari Arsitektur TUMBUH
+
+Struktur repository memisahkan wilayah fundamental dari implementation dan operational.
+
+Secara konseptual:
+
+~~~text
 FUNDAMENTAL
     ↓
 IMPLEMENTATION
     ↓
 OPERATIONAL
-```
+~~~
 
-README repository juga menjelaskan bahwa `01_FUNDAMENTAL` menyimpan fondasi dan model inti, `02_IMPLEMENTATION` menerjemahkan sistem ke kerangka pelaksanaan dan program, sedangkan `03_OPERATIONAL` menyediakan artefak kerja seperti job descriptions, SOP, dan work programs. fileciteturn9file0
+Pada saat yang sama, Principles ditempatkan setelah Philosophy dan sebelum Core Model.
 
-Dengan demikian, lokasi sebuah pernyataan dalam arsitektur bukan sekadar persoalan folder. Ia mencerminkan **tingkat fungsi dan stabilitasnya dalam sistem**.
+Ini memberi petunjuk bahwa tidak semua keputusan sistem mempunyai **jarak yang sama dari fondasi TUMBUH**.
 
----
+Namun lokasi folder saja tidak cukup untuk membuktikan bahwa terdapat dua atau lebih jenis Principle.
 
-## 3. Tiga level yang perlu dibedakan
-
-Dari struktur tersebut, muncul model kerja tiga tingkat.
-
-### Level 1 — Fundamental Principle
-
-Merupakan komitmen yang menjaga identitas dan koherensi TUMBUH.
-
-Karakteristik sementara:
-
-- berlaku lintas konteks TUMBUH;
-- memiliki hubungan kuat dengan Philosophy;
-- memengaruhi lebih dari satu komponen sistem;
-- tidak bergantung pada satu program atau metode;
-- relatif stabil meskipun implementasi berubah;
-- pelanggarannya dapat membuat desain menyimpang dari identitas TUMBUH.
-
-Secara sederhana:
-
-```text
-Fundamental Principle
-→ "Jika ini ditinggalkan, apakah sistem
-   masih dapat disebut TUMBUH?"
-```
-
-Pertanyaan ini bukan tes final, tetapi heuristik yang berguna.
+Karena itu, pembedaan berikut masih merupakan **working hypothesis** yang harus diuji.
 
 ---
 
-### Level 2 — Design Principle
+## 5. Fundamental Commitment
 
-Design Principle menerjemahkan komitmen fundamental ke dalam keputusan tentang bagaimana sistem dibangun.
+Untuk kebutuhan inquiry TUMBUH, kita dapat sementara menggunakan istilah **Fundamental Principle** untuk commitment yang:
 
-Ia dapat mengatur:
+- mempunyai hubungan kuat dengan Philosophy;
+- relevan lintas bagian penting Sistem TUMBUH;
+- memengaruhi arah lebih dari satu keputusan desain;
+- tidak bergantung pada satu metode, program, atau konfigurasi;
+- relatif stabil ketika implementasi berubah;
+- dan apabila ditinggalkan dapat menimbulkan perubahan substantif pada identitas atau arah sistem.
 
-- struktur model;
-- hubungan antarkomponen;
-- desain progression;
-- desain assessment;
-- desain intervention;
-- atau karakteristik desain lainnya.
+Pertanyaan pengujinya:
 
-Design Principle tetap penting, tetapi tingkat abstraksinya lebih dekat dengan arsitektur sistem.
+> **Jika commitment ini ditinggalkan, apakah TUMBUH masih mempertahankan identitas dan arah fundamental yang sama?**
 
-```text
-Fundamental Principle
-        ↓
-Design Principle
-        ↓
-Model / framework decision
-```
-
-Design Principle dapat berubah ketika pemahaman desain berkembang, selama perubahan tersebut tidak melanggar komitmen fundamental.
+Ini adalah heuristik, bukan tes final.
 
 ---
 
-### Level 3 — Implementation / Operational Decision
+## 6. Design Commitment
 
-Ini adalah keputusan mengenai bagaimana TUMBUH diterapkan dalam konteks tertentu.
+Pada tingkat lain terdapat commitment yang diperlukan untuk menentukan **bagaimana Sistem TUMBUH dirancang**.
 
-Contohnya dapat berupa:
+Untuk sementara dapat disebut **Design Principle**.
 
-- prosedur;
-- SOP;
-- pembagian peran;
-- workflow;
-- jadwal;
-- format kegiatan;
-- pilihan program;
-- instrumen tertentu.
+Design Principle dapat mengarahkan hal seperti:
 
-Repository memang menempatkan SOP, job descriptions, dan work programs pada `03_OPERATIONAL`, sementara program berada di bawah Implementation. fileciteturn9file0
+- bagaimana Core Model dibentuk;
+- bagaimana komponen sistem dihubungkan;
+- bagaimana suatu framework dirancang;
+- atau bagaimana suatu persoalan desain diselesaikan.
 
-Karena itu, keputusan seperti ini tidak seharusnya dinaikkan menjadi Fundamental Principle hanya karena penting dalam satu implementasi.
+Pertanyaan pengujinya:
 
----
+> **Jika commitment ini berubah, apakah desain sistem perlu berubah, sementara fondasi fundamental TUMBUH masih dapat dipertahankan?**
 
-## 4. Model hierarki sementara
-
-Hubungan ketiganya dapat digambarkan:
-
-```text
-PHILOSOPHY
-     ↓
-FUNDAMENTAL PRINCIPLES
-     ↓
-DESIGN PRINCIPLES
-     ↓
-CORE MODEL / FRAMEWORK DECISIONS
-     ↓
-IMPLEMENTATION
-     ↓
-OPERATIONAL DECISIONS
-     ↓
-PROGRAMS / METHODS / TOOLS
-```
-
-Model ini **belum dianggap sebagai arsitektur final Principles**.
-
-Ia adalah hipotesis struktural yang dihasilkan dari pembacaan terhadap arsitektur repository dan hasil P0001–P0002.
+Jika ya, terdapat alasan untuk mengujinya sebagai Design Principle, bukan otomatis sebagai Fundamental Principle.
 
 ---
 
-## 5. Apa yang membuat sebuah Principle fundamental?
+## 7. Implementation dan Operational Decision
 
-P0003 menemukan beberapa kandidat kriteria.
-
-### A. Breadth
-
-Seberapa luas dampaknya?
-
-Principle yang hanya memengaruhi satu aktivitas kemungkinan lebih dekat kepada design atau operational decision.
-
-### B. Dependency
-
-Berapa banyak keputusan lain bergantung kepadanya?
-
-Semakin banyak komponen sistem yang bergantung pada suatu komitmen, semakin besar kemungkinan ia bersifat fundamental.
-
-### C. Philosophical grounding
-
-Seberapa jelas hubungannya dengan Philosophy?
-
-Fundamental Principle seharusnya memiliki hubungan yang dapat dijelaskan dengan fondasi TUMBUH.
-
-### D. Context independence
-
-Apakah prinsip tetap berlaku ketika:
-
-- lembaga berubah;
-- program berubah;
-- metode berubah;
-- teknologi berubah;
-- struktur organisasi berubah?
-
-Jika prinsip hilang ketika satu implementasi berubah, kemungkinan ia bukan fundamental.
-
-### E. Consequence
-
-Apakah meninggalkan prinsip tersebut menghasilkan perubahan substantif pada cara sistem bekerja?
-
-Jika tidak ada konsekuensi desain yang nyata, mungkin pernyataan tersebut terlalu umum untuk menjadi Principle.
-
-### F. Stability
-
-Apakah prinsip diharapkan bertahan lebih lama daripada model, program, atau prosedur tertentu?
-
-Stabilitas bukan berarti tidak boleh berubah sama sekali. Artinya perubahan membutuhkan alasan yang lebih fundamental.
-
----
-
-## 6. Uji kontra-faktual
-
-Salah satu cara yang berguna untuk menguji level sebuah Principle adalah pertanyaan kontra-faktual:
-
-> **Jika prinsip ini dihapus, apa yang berubah?**
-
-Kemungkinan jawabannya:
-
-### Jika identitas TUMBUH berubah
-
-Kemungkinan **Fundamental Principle**.
-
-### Jika arsitektur model tertentu harus didesain ulang
-
-Kemungkinan **Design Principle**.
-
-### Jika hanya cara pelaksanaan tertentu yang berubah
-
-Kemungkinan **Implementation / Operational Decision**.
-
-Dalam bentuk:
-
-```text
-hapus
-  ↓
-identitas berubah?
-  ├── ya → fundamental candidate
-  │
-  └── tidak
-       ↓
-arsitektur berubah?
-       ├── ya → design candidate
-       │
-       └── tidak
-            ↓
-praktik pelaksanaan berubah?
-            └── ya → implementation / operational
-```
-
-Tes ini membantu mencegah inflation of principles — kecenderungan menjadikan terlalu banyak keputusan sebagai prinsip.
-
----
-
-## 7. Principle tidak harus selalu berada pada satu tingkat
-
-Ada persoalan lain.
-
-Satu komitmen dapat memiliki konsekuensi pada beberapa tingkat.
+Di bawah keputusan desain terdapat keputusan yang lebih dekat dengan pelaksanaan.
 
 Misalnya:
 
-```text
-Fundamental commitment
+- prosedur;
+- workflow;
+- jadwal;
+- pembagian peran;
+- format kegiatan;
+- pilihan program;
+- metode tertentu;
+- atau tools tertentu.
+
+Keputusan seperti ini dapat berubah karena konteks tanpa harus mengubah Principle.
+
+Secara sederhana:
+
+~~~text
+FUNDAMENTAL COMMITMENT
         ↓
-Design implication
+DESIGN COMMITMENT
         ↓
-Implementation implication
+SYSTEM DESIGN
         ↓
-Operational rule
-```
+IMPLEMENTATION
+        ↓
+OPERATIONAL DECISION
+~~~
 
-Karena itu, jangan menyamakan:
-
-> **satu prinsip**
-
-dengan
-
-> **satu kalimat yang harus mengatur semua level sekaligus.**
-
-Lebih tepat untuk menjaga genealogy:
-
-```text
-Principle
-    ↓
-design implication
-    ↓
-implementation implication
-    ↓
-operational expression
-```
-
-Dengan cara ini, satu komitmen fundamental dapat diterjemahkan ke berbagai konteks tanpa kehilangan sumbernya.
+Diagram ini adalah **model inquiry**, bukan klaim bahwa repository sudah menetapkan hierarki tersebut secara final.
 
 ---
 
-## 8. Risiko jika level tercampur
+## 8. Uji Counterfactual
 
-### Fundamental terlalu banyak
+P0003 mempertahankan counterfactual dari P0001, tetapi sekarang digunakan untuk membedakan level commitment.
 
-TUMBUH menjadi kaku.
+### Pertanyaan 1
 
-Setiap keputusan kecil dianggap tidak boleh berubah karena diberi status prinsip.
+> Jika commitment dihilangkan, apakah identitas atau arah fundamental TUMBUH berubah?
 
-### Fundamental terlalu sedikit
+Jika ya, **Fundamental Principle** menjadi kandidat.
 
-TUMBUH kehilangan identitas pengarah.
+### Pertanyaan 2
 
-Implementasi dapat berkembang ke banyak arah yang tidak koheren.
+Jika tidak, tanyakan:
 
-### Design principle dianggap fundamental
+> Apakah arsitektur atau desain sistem harus berubah secara substantif?
 
-Keputusan desain tertentu menjadi seolah-olah bagian dari worldview.
+Jika ya, **Design Principle** menjadi kandidat.
 
-Ini dapat menghambat revisi ketika evidence baru muncul.
+### Pertanyaan 3
 
-### Operational decision dianggap principle
+Jika tidak:
 
-Repository menjadi penuh pernyataan normatif tetapi miskin struktur.
+> Apakah hanya cara pelaksanaan yang berubah?
 
-Maka pemisahan level bukan kosmetik. Ia merupakan mekanisme untuk menjaga **adaptability sekaligus coherence**.
+Jika ya, kemungkinan besar ia berada pada level implementation atau operational decision.
 
----
+Secara ringkas:
 
-## 9. Implikasi terhadap tujuh kelompok Principles
+~~~text
+hapus commitment
+       ↓
+identitas/arah fundamental berubah?
+       ├── ya → fundamental candidate
+       │
+       └── tidak
+            ↓
+      desain sistem berubah?
+            ├── ya → design candidate
+            │
+            └── tidak
+                 ↓
+           pelaksanaan berubah?
+                 └── ya → implementation/
+                           operational candidate
+~~~
 
-README PROBE 03 memetakan tujuh kelompok kerja:
-
-- Core Principles
-- Design Principles
-- Learning Principles
-- Development Principles
-- Assessment Principles
-- Intervention Principles
-- Implementation Principles
-
-P0003 menunjukkan bahwa kelompok-kelompok tersebut kemungkinan **bukan semuanya berada pada tingkat abstraksi yang identik**.
-
-Misalnya, sebuah Assessment Principle dapat memiliki status fundamental jika menyentuh komitmen dasar TUMBUH terhadap assessment.
-
-Namun Assessment Principle lain mungkin sebenarnya merupakan Design Principle karena hanya mengatur arsitektur assessment tertentu.
-
-Begitu pula Implementation Principle dapat menjadi komitmen desain yang cukup penting, tetapi tidak otomatis memiliki status fundamental.
-
-Maka **kategori domain** dan **level fundamentalitas** merupakan dua dimensi yang berbeda.
-
-Ini merupakan temuan penting.
+Uji ini membantu menghindari **inflation of principles**.
 
 ---
 
-## 10. Dua dimensi klasifikasi
+## 9. Fundamentalitas Bukan Sekadar “Paling Penting”
 
-Alih-alih membuat satu hierarki sederhana, Principles dapat dianalisis melalui dua sumbu:
+Pentingnya sebuah keputusan tidak otomatis menjadikannya Fundamental Principle.
 
-```text
-DIMENSI A
-Domain
-→ Core
-→ Design
-→ Learning
-→ Development
+Sebuah keputusan dapat sangat penting bagi satu bagian sistem tetapi tetap merupakan keputusan desain.
+
+Karena itu perlu dibedakan:
+
+> **importance ≠ fundamentality**
+
+Fundamentalitas perlu dilihat dari hubungan dengan identitas, Philosophy, cakupan konsekuensi, dan stabilitas terhadap perubahan sistem.
+
+---
+
+## 10. Domain dan Fundamentalitas adalah Dua Pertanyaan Berbeda
+
+TUMBUH memiliki kebutuhan untuk membahas Principles dalam berbagai wilayah sistem.
+
+Namun:
+
+> **domain tempat sebuah Principle bekerja tidak otomatis menentukan tingkat fundamentalitasnya.**
+
+Secara konseptual, sebuah commitment dalam domain tertentu dapat perlu diuji pada tingkat berbeda.
+
+Misalnya:
+
+~~~text
+DOMAIN
 → Assessment
-→ Intervention
-→ Implementation
 
-DIMENSI B
-Level
-→ Fundamental
-→ Design
-→ Implementation / Operational
-```
+FUNDAMENTALITY
+→ apakah commitment tersebut menyentuh
+  fondasi sistem atau hanya desain assessment?
+~~~
 
-Dengan demikian sebuah prinsip dapat, misalnya, berada pada:
+Karena itu jangan langsung menyimpulkan:
 
-```text
-Assessment × Fundamental
-Assessment × Design
-Assessment × Implementation
-```
+> “Assessment Principle = Design Principle”
 
-Hal ini lebih fleksibel daripada menganggap semua “Assessment Principles” otomatis berada pada level yang sama.
+atau:
 
-Model dua dimensi ini masih merupakan **hipotesis kerja**.
+> “Core Principle = semua yang berada di Core.”
+
+Status tersebut harus ditentukan dari **fungsi dan konsekuensi commitment**, bukan semata-mata dari label domain.
 
 ---
 
-## 11. Temuan sementara
+## 11. Jangan Membuat Hierarki Secara Mekanis
 
-P0003 menghasilkan beberapa temuan:
+P0003 tidak menemukan dasar yang cukup untuk menyatakan bahwa semua Principles harus mengikuti rantai:
 
-1. **Tidak semua pedoman yang penting adalah Fundamental Principle.**
-2. **Fundamental Principle menjaga identitas dan koherensi TUMBUH.**
-3. **Design Principle menerjemahkan komitmen ke keputusan arsitektur sistem.**
-4. **Implementation / Operational Decision menerjemahkan sistem ke konteks pelaksanaan.**
-5. **Domain Principle dan level fundamentalitas merupakan dua dimensi yang berbeda.**
-6. **Satu Principle dapat memiliki konsekuensi lintas level tanpa menjadikan seluruh konsekuensinya sebagai Principle.**
-7. **Tes kontra-faktual dapat digunakan sebagai salah satu alat awal untuk menguji tingkat sebuah Principle.**
+~~~text
+CORE PRINCIPLE
+      ↓
+DOMAIN PRINCIPLE
+      ↓
+DESIGN PRINCIPLE
+      ↓
+IMPLEMENTATION PRINCIPLE
+~~~
 
-Temuan ini masih perlu diuji.
+Rantai tersebut mungkin berguna sebagai representasi tertentu, tetapi belum terbukti sebagai struktur konseptual wajib TUMBUH.
 
----
+Yang lebih aman untuk sementara adalah membedakan dua pertanyaan:
 
-## 12. Pertanyaan yang muncul untuk P0004
+### Pertanyaan A — Apa domainnya?
 
-Setelah mengetahui bahwa tidak semua Principle memiliki tingkat yang sama, muncul pertanyaan yang lebih mendasar:
+Di bagian sistem mana commitment bekerja?
 
-> **Apakah TUMBUH sebenarnya membutuhkan satu lapisan “Core Principles” yang sangat kecil sebagai komitmen fundamental, lalu Principles domain-specific sebagai turunannya?**
+### Pertanyaan B — Seberapa fundamental?
 
-Jika iya, kita perlu menemukan hubungan:
+Seberapa jauh commitment tersebut menyentuh identitas dan arah sistem?
 
-```text
-CORE PRINCIPLES
-       ↓
-DOMAIN PRINCIPLES
-       ↓
-DESIGN PRINCIPLES
-       ↓
-SYSTEM DECISIONS
-```
-
-P0004 akan menguji apakah struktur tersebut benar-benar diperlukan atau justru menciptakan kompleksitas baru.
+Dengan demikian, klasifikasi Principles tidak perlu dipaksakan menjadi satu hierarki tunggal.
 
 ---
 
-## Status
+## 12. Genealogy Lebih Penting daripada Hierarki
 
-**P0003 — selesai sebagai inquiry.**
+Sebuah commitment dapat mempunyai hubungan:
 
-**Temuan utama:** fundamentalitas dan domain adalah dua dimensi yang perlu dipisahkan. Tidak semua Principle harus memiliki tingkat fundamentalitas yang sama.
+~~~text
+Philosophy
+    ↓
+Fundamental Commitment
+    ↓
+Design Implication
+    ↓
+Implementation Implication
+    ↓
+Operational Expression
+~~~
 
-**Next inquiry:** P0004 — *Apakah TUMBUH membutuhkan Core Principles sebagai lapisan inti yang menjadi sumber bagi Principles lainnya?*
+Hubungan ini menunjukkan **genealogy**, bukan berarti setiap langkah otomatis menjadi Principle baru.
+
+Satu Fundamental Principle dapat menghasilkan banyak Design Implications.
+
+Satu Design Principle dapat menghasilkan banyak keputusan implementasi.
+
+Dengan demikian:
+
+> **satu commitment tidak harus menjadi satu aturan pada setiap level.**
+
+---
+
+## 13. Uji Perubahan Sistem
+
+Cara lain untuk membedakan level adalah melihat apa yang terjadi ketika sistem berubah.
+
+### Jika program berubah
+
+Fundamental Principle semestinya tidak otomatis berubah.
+
+### Jika metode berubah
+
+Fundamental Principle dan banyak Design Principles dapat tetap dipertahankan.
+
+### Jika Core Model berubah
+
+Beberapa Design Principles mungkin perlu ditinjau.
+
+### Jika Philosophy berubah
+
+Commitment fundamental yang bergantung padanya perlu ditinjau.
+
+Ini bukan aturan otomatis. Ini adalah **indikasi dependency** yang perlu diuji dalam inquiry berikutnya.
+
+---
+
+## 14. Temuan Sementara
+
+P0003 menghasilkan beberapa temuan kerja:
+
+1. **Tidak semua commitment yang penting bagi TUMBUH harus memiliki tingkat fundamentalitas yang sama.**
+2. **Fundamental Principle perlu dibedakan dari Design Principle berdasarkan fungsi dan konsekuensi terhadap sistem, bukan sekadar label.**
+3. **Implementation dan operational decisions berada lebih dekat dengan konteks pelaksanaan dan tidak otomatis menjadi Principles.**
+4. **Domain dan fundamentalitas merupakan dua pertanyaan klasifikasi yang berbeda.**
+5. **Counterfactual dapat menjadi alat awal untuk menguji apakah sebuah commitment menyentuh identitas, desain, atau terutama pelaksanaan.**
+6. **Genealogy antara commitment, implication, dan decision lebih aman daripada memaksakan hierarki Principles yang belum terbukti.**
+
+Temuan ini masih provisional.
+
+---
+
+## 15. Boundary
+
+P0003 **tidak** sedang:
+
+- menetapkan daftar Fundamental Principles TUMBUH;
+- menetapkan daftar Design Principles;
+- menentukan hierarchy final Principles;
+- menentukan governance penerimaan Principles;
+- atau menentukan Principles untuk Assessment, Intervention, Learning, dan domain lainnya.
+
+Fokusnya hanya:
+
+> **menentukan apakah pembedaan fundamentalitas diperlukan agar Principles TUMBUH tidak tercampur dengan keputusan desain dan implementasi.**
+
+---
+
+## 16. Repository Destination
+
+Hasil P0003 diarahkan ke:
+
+**Principles → struktur dan pembedaan level Principles**
+
+Temuan ini dapat menjadi dasar untuk menentukan apakah TUMBUH membutuhkan **Core Principles** sebagai kelompok commitment fundamental yang terbatas.
+
+---
+
+## 17. Implication for TUMBUH
+
+Implikasi utama P0003:
+
+> **TUMBUH perlu membedakan status fundamental sebuah commitment dari fungsi atau domain tempat commitment tersebut digunakan.**
+
+Dengan pembedaan ini, TUMBUH dapat menjaga dua kebutuhan sekaligus:
+
+~~~text
+FUNDAMENTAL COMMITMENTS
+→ menjaga identitas dan arah
+
+DESIGN COMMITMENTS
+→ memungkinkan sistem dirancang dan dikembangkan
+
+IMPLEMENTATION / OPERATIONAL DECISIONS
+→ memungkinkan sistem beradaptasi dengan konteks
+~~~
+
+Pembedaan ini membantu mencegah dua ekstrem:
+
+**semua dibuat tidak berubah**, atau  
+**semua dibuat mudah berubah**.
+
+---
+
+## 18. Kesimpulan
+
+P0003 mendukung **working hypothesis** bahwa TUMBUH membutuhkan pembedaan antara commitment yang fundamental dan commitment yang terutama bersifat desain.
+
+Namun P0003 **belum membuktikan** bahwa TUMBUH harus mempunyai struktur hierarkis tertentu.
+
+Pertanyaan yang sekarang menjadi lebih tepat adalah:
+
+> **Apakah TUMBUH membutuhkan Core Principles sebagai kelompok kecil commitment fundamental yang menjaga identitas dan arah sistem, sementara Principles lain menjalankan fungsi yang lebih spesifik?**
+
+Pertanyaan inilah yang perlu diuji pada P0004.
+
+---
+
+## 19. Status Inquiry
+
+**Finding:** Fundamentalitas tidak sama dengan domain atau tingkat kepentingan. Ia perlu diuji melalui hubungan dengan Philosophy, identitas sistem, konsekuensi perubahan, dan stabilitas terhadap perubahan implementasi.
+
+**Working distinction:** Fundamental Principle ≠ Design Principle ≠ Implementation / Operational Decision.
+
+**Open question:** Apakah TUMBUH benar-benar membutuhkan **Core Principles** sebagai kelompok commitment fundamental yang terbatas?
