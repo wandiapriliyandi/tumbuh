@@ -1,305 +1,366 @@
 # P0018 — Apa Perbedaan Design Criterion, Evaluation Criterion, Assessment Criterion, dan Indicator?
 
-## Pertanyaan
+## Status
 
-**Apa perbedaan Design Criterion, Evaluation Criterion, Assessment Criterion, dan Indicator dalam sistem TUMBUH?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0018  
+**Status:** Revised  
+**Type:** Principles Terminology Boundary Inquiry
 
-P0017 menemukan bahwa Design Criteria memiliki fungsi sebagai konsep penghubung antara Design Principles dan evaluasi conformity, tetapi belum perlu menjadi top-level architectural layer tersendiri.
+---
 
-P0018 menguji terminologi agar konsep-konsep evaluasi tidak tercampur.
+## 1. Object of Inquiry
 
-## 1. Titik Berangkat dari Sumber TUMBUH
+**Object of Inquiry:** Design Principles TUMBUH, khususnya batas konseptual antara Design Criterion dan istilah evaluatif yang berdekatan.
 
-Struktur TUMBUH yang tersedia membedakan beberapa wilayah yang berkaitan dengan evaluasi.
+P0018 tidak menetapkan taxonomy final seluruh sistem. Fokusnya adalah mencegah **Design Criterion kehilangan fungsi khasnya ketika berhubungan dengan Evaluation, Assessment, Indicator, dan Evidence**.
 
-Pada Capacity Framework, setiap kapasitas memuat **Indicators**, **Assessment Mapping**, dan **Evidence**. fileciteturn13file0L1-L38
+---
 
-Sementara Assessment Framework memuat **Assessment Architecture, Assessment Model, Assessment Instruments, Observation System, Self Assessment, Peer Assessment, Mentor Assessment, Rubrics, Scoring System, Reporting, dan Analytics**. fileciteturn13file2L1-L18
+## 2. TUMBUH Question
 
-Implementation Framework juga memiliki **Monitoring, Evaluation, dan Continuous Improvement**. fileciteturn13file1L1-L16
+> **Apa yang membedakan Design Criterion dari Evaluation Criterion, Assessment Criterion, Indicator, dan Evidence dalam Sistem TUMBUH?**
 
-Sumber tersebut menunjukkan bahwa istilah evaluasi memang memiliki beberapa fungsi berbeda. Namun sumber yang tersedia **belum memberikan definisi formal** untuk Design Criterion, Evaluation Criterion, Assessment Criterion, dan Indicator. Karena itu P0018 membangun pembedaan kerja tanpa menganggapnya sebagai definisi final repository.
+P0017 menunjukkan bahwa Design Criterion berfungsi sebagai penghubung antara Design Principles dan evaluasi conformity.
 
-## 2. Design Criterion
+P0018 menguji apakah istilah-istilah yang berdekatan tersebut menunjuk objek dan fungsi yang sama atau berbeda.
 
-Dalam rangkaian P0015–P0017, Design Criterion digunakan untuk menunjuk:
+---
 
-> **kondisi atau konsekuensi desain yang dapat diperiksa untuk mengetahui apakah suatu desain memenuhi Design Principle.**
+## 3. Titik Berangkat dari Sumber TUMBUH
 
-Hubungan dasarnya:
+Struktur TUMBUH yang tersedia secara eksplisit menggunakan **Indicators** dalam Capacity Framework, serta **Assessment Mapping** dan **Evidence**. Assessment Framework juga memiliki assessment model, instruments, observation, rubrics, scoring, reporting, dan analytics. Implementation Framework memiliki **Monitoring, Evaluation, dan Continuous Improvement**.
 
-**Design Principle**
-→ Design Implication
-→ **Design Criterion**
-→ Evidence of Conformity
+Sumber-sumber tersebut menunjukkan bahwa evaluasi mempunyai beberapa fungsi berbeda.
 
-Objeknya adalah **desain sistem**.
+Namun, sumber yang tersedia **belum memberikan definisi formal final** untuk Design Criterion, Evaluation Criterion, Assessment Criterion, dan Indicator.
 
-Contohnya secara abstrak:
+Karena itu pembedaan dalam P0018 harus diperlakukan sebagai **working taxonomy**, bukan definisi repository yang sudah final.
 
-> Principle: desain harus menjaga keterhubungan tertentu.
+---
 
-Criterion:
+## 4. Design Criterion
 
-> hubungan tersebut tetap dapat ditemukan dan berfungsi pada desain.
+Working definition:
 
-Criterion tidak harus berupa angka.
+> **Design Criterion adalah kondisi atau consequence desain yang digunakan untuk memeriksa conformity suatu desain terhadap Design Principle.**
 
-## 3. Evaluation Criterion
+Objek utamanya:
 
-Istilah **Evaluation Criterion** lebih luas.
+**system design / model / design configuration**
 
-Ia dapat berarti kriteria yang digunakan untuk membuat judgment terhadap suatu objek berdasarkan tujuan evaluasi.
+Hubungan:
 
-Objeknya dapat berupa:
+~~~text
+Design Principle
+      ↓
+Design Implication
+      ↓
+Design Criterion
+      ↓
+Evidence / Test
+      ↓
+Conformance Judgment
+~~~
 
-- desain;
+Design Criterion bukan commitment normatif itu sendiri.
+
+---
+
+## 5. Evaluation Criterion
+
+Working definition:
+
+> **Evaluation Criterion adalah dasar yang digunakan untuk membuat judgment dalam suatu kegiatan evaluasi.**
+
+Istilah ini lebih luas daripada Design Criterion.
+
+Objek evaluasi dapat berbeda-beda, misalnya:
+
+- design;
 - model;
 - program;
-- implementasi;
-- proses;
+- implementation;
+- process;
 - outcome.
 
-Dengan demikian:
+Karena itu:
 
-**Design Criterion ⊂ kemungkinan ruang Evaluation Criterion**
+> **Design Criterion dapat berfungsi sebagai Evaluation Criterion ketika digunakan dalam evaluasi desain, tetapi tidak semua Evaluation Criterion merupakan Design Criterion.**
 
-tetapi hubungan ini adalah working taxonomy, bukan struktur repository yang sudah ditetapkan oleh sumber.
+---
 
-Semua Design Criteria dapat berfungsi sebagai evaluation criteria ketika digunakan untuk evaluasi desain, tetapi tidak semua Evaluation Criteria merupakan Design Criteria.
+## 6. Assessment Criterion
 
-## 4. Assessment Criterion
+Working definition:
 
-Assessment Framework dalam struktur TUMBUH memiliki domain tersendiri yang mencakup model, instrumen, observasi, assessment oleh diri sendiri, peer, mentor, rubrik, scoring, reporting, dan analytics. fileciteturn13file2L1-L18
+> **Assessment Criterion adalah dasar yang digunakan untuk membuat judgment terhadap objek yang menjadi sasaran assessment.**
 
-Karena itu, **Assessment Criterion** secara kerja sebaiknya menunjuk kriteria untuk menilai **objek yang memang menjadi sasaran assessment**.
+Ini perlu dibedakan dari Design Criterion.
 
-Misalnya:
+Secara konseptual:
 
-**Person / capacity**
-→ assessment criterion
-→ evidence
+~~~text
+SYSTEM DESIGN
+→ Design Criterion
+→ design conformity
+
+ASSESSED OBJECT
+→ Assessment Criterion
 → assessment judgment
+~~~
 
-Ini berbeda dari:
+Dalam konteks TUMBUH, objek assessment dapat berkaitan dengan capacity, development, atau objek lain yang memang ditetapkan oleh Assessment Framework.
 
-**System design**
-→ design criterion
-→ evidence of design conformity.
+P0018 tidak menetapkan definisi final Assessment Criterion karena sumber yang tersedia belum memberikan definisi formalnya.
 
-Pembedaan objek ini penting agar Design Criteria tidak bercampur dengan kriteria perkembangan atau assessment terhadap manusia.
+---
 
-## 5. Indicator
+## 7. Indicator
 
-Sumber TUMBUH secara eksplisit menggunakan istilah **Indicators** di dalam struktur setiap capacity. fileciteturn13file0L20-L38
+Sumber TUMBUH secara eksplisit menggunakan **Indicators** dalam struktur Capacity Framework.
 
-Namun sumber yang tersedia belum mendefinisikan Indicator secara formal.
+Namun sumber yang tersedia belum memberikan definisi formal Indicator.
 
 Working distinction yang paling aman:
 
-> **Indicator adalah tanda atau bukti yang dapat diamati yang membantu menunjukkan keberadaan, tingkat, atau perubahan suatu karakteristik.**
+> **Indicator adalah tanda atau karakteristik yang dapat diamati yang membantu menunjukkan keberadaan, tingkat, atau perubahan sesuatu yang dinilai.**
 
-Karena itu indicator lebih dekat dengan **observable evidence** daripada dengan normative commitment.
+Dengan demikian Indicator lebih dekat dengan **observable sign** daripada dengan normative commitment.
 
-Contoh abstrak:
+---
 
-**Capacity**
-→ characteristic yang ingin dikembangkan
+## 8. Criterion ≠ Indicator
 
-**Indicator**
-→ tanda perilaku/keadaan yang dapat diamati
+Keduanya dapat sama-sama diperiksa, tetapi fungsi reasoning berbeda.
 
-**Assessment**
-→ proses mengumpulkan dan menilai evidence terhadap indicator
+### Criterion
 
-Sedangkan:
+> **Apa kondisi yang digunakan sebagai dasar judgment?**
 
-**Design Principle**
-→ commitment desain
+### Indicator
 
-**Design Criterion**
-→ kondisi desain yang diperiksa.
+> **Tanda apa yang dapat diamati untuk membantu menunjukkan kondisi atau karakteristik tersebut?**
 
-## 6. Mengapa Indicator Tidak Sama dengan Criterion?
+Karena itu satu Indicator dapat menjadi evidence untuk suatu judgment, tetapi Indicator tidak otomatis menjadi Criterion.
 
-Keduanya dapat terlihat mirip karena sama-sama dapat diperiksa.
+---
 
-Namun fungsi dasarnya berbeda.
+## 9. Evidence
 
-**Criterion** menjawab:
+Working definition:
 
-> “Kondisi apa yang digunakan sebagai dasar judgment?”
+> **Evidence adalah bahan yang digunakan untuk mendukung atau menantang suatu claim atau judgment.**
 
-**Indicator** menjawab:
+Evidence dapat berupa:
 
-> “Tanda apa yang dapat diamati untuk menunjukkan kondisi/karakteristik tersebut?”
+- struktur;
+- dokumen;
+- observasi;
+- behaviour;
+- scenario;
+- test result;
+- assessment record;
+- atau bentuk lain yang relevan.
 
-Indicator dapat menjadi evidence yang digunakan untuk menilai criterion, tetapi tidak selalu identik dengan criterion.
+Evidence tidak sama dengan criterion.
 
-## 7. Contoh Hubungan Abstrak
+Criterion menetapkan **apa yang diperiksa**.
 
-### Untuk Design
+Evidence menunjukkan **apa yang ditemukan untuk pemeriksaan tersebut**.
 
-**Design Principle**
-→ “keterhubungan harus dipertahankan”
+---
 
-**Design Criterion**
-→ “hubungan antar-komponen yang relevan tetap terjaga”
+## 10. Evaluation Tidak Identik dengan Assessment
 
-**Evidence**
-→ struktur model, dependency map, scenario test.
+P0018 juga mempertahankan boundary:
 
-### Untuk Capacity Assessment
+> **Evaluation** adalah aktivitas membuat judgment berdasarkan criteria dan evidence.
 
-**Capacity**
-→ kemampuan/karakteristik yang dinilai
+> **Assessment** adalah domain/proses evaluatif yang diarahkan pada objek assessment.
 
-**Assessment Criterion**
-→ standar atau kondisi yang digunakan untuk judgment
+Dalam struktur TUMBUH, Assessment merupakan framework tersendiri, sementara Evaluation juga muncul dalam Implementation Framework.
 
-**Indicator**
-→ perilaku atau tanda yang dapat diamati
+Karena itu Evaluation tidak sebaiknya dipersempit hanya menjadi assessment terhadap manusia.
 
-**Evidence**
-→ hasil observasi, reflection, assessment record, atau bukti lain yang relevan.
+---
 
-Contoh ini menunjukkan bahwa **criterion dan indicator berada pada fungsi berbeda walaupun keduanya dapat digunakan dalam satu assessment chain**.
-
-## 8. Evaluation Tidak Harus Assessment
-
-P0018 juga memperjelas hubungan:
-
-**Evaluation**
-→ aktivitas membuat judgment berdasarkan criteria dan evidence.
-
-**Assessment**
-→ bentuk/domain evaluasi yang secara khusus diarahkan pada objek assessment.
-
-Dalam repository TUMBUH, Assessment Framework merupakan domain eksplisit tersendiri. fileciteturn13file2L1-L18
-
-Namun Implementation Framework juga memiliki Evaluation sebagai bagian dari monitoring dan continuous improvement. fileciteturn13file1L1-L16
-
-Maka istilah Evaluation tidak sebaiknya dipersempit hanya menjadi Assessment terhadap individu.
-
-## 9. Model Terminologi Kerja
-
-Untuk sementara:
+## 11. Working Taxonomy
 
 | Konsep | Objek utama | Fungsi |
 |---|---|---|
-| Design Principle | Desain | Komitmen/arah desain |
-| Design Criterion | Desain | Kondisi untuk menguji conformity desain |
-| Evaluation Criterion | Objek evaluasi apa pun | Dasar judgment evaluatif |
+| Design Principle | Desain | Commitment / arah desain |
+| Design Criterion | Desain | Dasar pemeriksaan conformity desain |
+| Evaluation Criterion | Objek evaluasi | Dasar judgment evaluatif |
 | Assessment Criterion | Objek assessment | Dasar judgment assessment |
-| Indicator | Karakteristik yang diamati | Tanda/bukti yang dapat diamati |
-| Evidence | Klaim yang diuji | Bahan yang mendukung judgment |
+| Indicator | Karakteristik yang diamati | Tanda yang dapat diamati |
+| Evidence | Claim / judgment | Bahan pendukung atau penantang |
 
-Ini merupakan **working taxonomy**, bukan definisi final.
+Tabel ini adalah **working taxonomy**, bukan definisi final repository.
 
-## 10. Hubungan yang Mungkin
+---
 
-Model kerja dapat digambarkan:
+## 12. Tiga Pathway
 
-### Design pathway
+### Design Pathway
 
-**Design Principle**
+~~~text
+Design Principle
 → Design Implication
 → Design Criterion
-→ Evidence
+→ Evidence / Test
 → Design Evaluation
+~~~
 
-### Assessment pathway
+### Assessment Pathway
 
-**Capacity / Development Target**
+~~~text
+Development / Capacity Target
 → Assessment Criterion
 → Indicator
 → Evidence
 → Assessment Judgment
+~~~
 
-### Implementation pathway
+### Implementation Evaluation Pathway
 
-**Implementation Objective / Requirement**
+~~~text
+Implementation Objective / Requirement
 → Evaluation Criterion
 → Evidence / Indicator
 → Evaluation
 → Continuous Improvement
+~~~
 
-Ketiga pathway dapat berbagi konsep evidence, tetapi objek dan tujuan judgment berbeda.
+Ketiganya dapat berbagi evidence, tetapi **objek dan tujuan judgment berbeda**.
 
-## 11. Risiko Terminological Collapse
+---
 
-Jika semua istilah digunakan sebagai sinonim, beberapa masalah muncul:
+## 13. Mengapa Boundary Ini Penting bagi Principles?
 
-- Design Principle dapat berubah menjadi indikator;
-- indikator dianggap sebagai prinsip;
-- assessment criterion dianggap sebagai design criterion;
-- evaluation terhadap implementasi tercampur dengan assessment manusia;
-- repository menjadi sulit ditelusuri.
+Tanpa boundary:
 
-Karena itu, perbedaan terminologi harus mengikuti **objek dan fungsi**, bukan sekadar pilihan kata.
+~~~text
+Principle
+↕
+Criterion
+↕
+Indicator
+↕
+Assessment
+~~~
 
-## 12. Temuan
+dapat berubah menjadi satu rangkaian istilah yang dipakai bergantian.
 
-1. Sumber TUMBUH secara eksplisit menggunakan **Indicators** dalam Capacity Framework dan **Evaluation** dalam Implementation Framework, sementara Assessment memiliki framework tersendiri. fileciteturn13file0L20-L38 fileciteturn13file1L1-L16
-2. Sumber yang tersedia belum memberikan definisi formal untuk empat istilah yang diuji.
-3. Design Criterion paling tepat dipakai untuk conformity terhadap desain.
-4. Evaluation Criterion merupakan istilah yang lebih luas untuk dasar judgment evaluatif.
-5. Assessment Criterion sebaiknya dibatasi pada objek yang menjadi sasaran assessment.
-6. Indicator lebih dekat dengan tanda atau bukti yang dapat diamati.
-7. Evidence menyediakan bahan yang mendukung judgment, tetapi tidak identik dengan criterion atau indicator.
-8. Terminologi harus dijaga berdasarkan objek dan fungsi.
+Risikonya:
 
-## 13. Keputusan Sementara
+- Design Principle berubah menjadi checklist;
+- Indicator dianggap sebagai Principle;
+- Assessment Criterion dianggap sebagai Design Criterion;
+- evaluation implementasi tercampur dengan assessment;
+- dan traceability Principles menjadi kabur.
 
-**PASS — EMPAT ISTILAH DAPAT DIBEDAKAN SECARA FUNGSIONAL, TETAPI TAXONOMY INI MASIH WORKING MODEL.**
+Maka terminology perlu mengikuti **fungsi dan objek**, bukan sekadar kesamaan kata “criterion”.
 
-Working definitions:
+---
 
-> **Design Criterion** — kondisi/konsekuensi desain yang digunakan untuk menguji conformity terhadap Design Principle.
+## 14. Boundary
 
-> **Evaluation Criterion** — dasar yang digunakan untuk membuat judgment dalam suatu evaluasi.
+P0018 **tidak**:
 
-> **Assessment Criterion** — dasar yang digunakan untuk membuat judgment dalam suatu assessment terhadap objek yang dinilai.
+- menetapkan taxonomy final repository;
+- mendefinisikan seluruh Assessment Framework;
+- menetapkan indikator TUMBUH;
+- membuat metric;
+- atau menentukan bahwa semua Principle harus mempunyai Indicator.
 
-> **Indicator** — tanda atau karakteristik yang dapat diamati yang membantu menunjukkan keberadaan, tingkat, atau perubahan sesuatu yang dinilai.
+Fokusnya:
 
-> **Evidence** — bahan yang digunakan untuk mendukung atau menantang suatu claim atau judgment.
+> **memastikan Design Criterion tidak kehilangan identitasnya ketika berhubungan dengan konsep evaluasi lain.**
 
-## 14. Implikasi bagi Repository
+---
 
-Untuk sementara, tidak perlu membuat satu folder baru untuk setiap istilah.
+## 15. Repository Destination
 
-Lebih penting menjaga:
+Hasil P0018 diarahkan ke:
 
-**Principles**
-→ Design Principles
+**Principles → Design Principles → terminology and evaluation boundary**
 
-**Capacity / Progression**
-→ Indicators dan development-related constructs
+Implikasinya juga perlu diperhatikan oleh Assessment dan Implementation agar istilah tidak tumpang tindih.
 
-**Assessment Framework**
-→ Assessment Criteria, instruments, rubrics, evidence, judgment
+---
 
-**Implementation Framework**
-→ Evaluation, monitoring, improvement
+## 16. Implication for TUMBUH
 
-**PROBE**
-→ reasoning yang menghubungkan semuanya dan dapat membuka kembali definisi jika ditemukan contradiction.
+Working distinction:
 
-Struktur ini lebih konsisten dengan repository yang tersedia daripada membuat taxonomy baru hanya demi terminological symmetry.
+~~~text
+PRINCIPLE
+→ apa commitment desainnya?
 
-## 15. Next Inquiry
+DESIGN CRITERION
+→ apa kondisi desain yang diperiksa?
+
+INDICATOR
+→ apa tanda yang dapat diamati?
+
+EVIDENCE
+→ apa bahan yang ditemukan?
+
+ASSESSMENT / EVALUATION
+→ bagaimana judgment dibuat?
+~~~
+
+Pembedaan ini menjaga Design Principle tetap berada pada level **commitment**, bukan berubah menjadi instrumen evaluasi.
+
+---
+
+## 17. Temuan Sementara
+
+1. **Sumber TUMBUH secara eksplisit menggunakan Indicators, Evidence, Assessment, dan Evaluation dalam bagian-bagian yang berbeda.**
+2. **Sumber yang tersedia belum memberikan definisi formal final untuk istilah-istilah yang diuji.**
+3. **Design Criterion paling tepat digunakan untuk conformity terhadap desain.**
+4. **Evaluation Criterion merupakan istilah yang lebih luas.**
+5. **Assessment Criterion berkaitan dengan dasar judgment terhadap objek assessment.**
+6. **Indicator lebih dekat dengan tanda atau karakteristik yang dapat diamati.**
+7. **Evidence merupakan bahan yang mendukung atau menantang claim/judgment.**
+8. **Criterion dan Indicator tidak boleh digunakan sebagai sinonim.**
+9. **Terminology harus dibedakan berdasarkan objek dan fungsi.**
+
+Temuan ini masih provisional.
+
+---
+
+## 18. Kesimpulan
+
+P0018 mendukung working rule:
+
+> **Design Criterion, Evaluation Criterion, Assessment Criterion, Indicator, dan Evidence harus dibedakan berdasarkan objek dan fungsi, bukan diperlakukan sebagai sinonim.**
+
+Untuk Principles TUMBUH:
+
+> **Design Criterion adalah cara membuat consequence dari Design Principle dapat diperiksa; Indicator dan Evidence berada pada fungsi yang berbeda.**
+
+Taxonomy ini belum final karena sumber TUMBUH yang tersedia belum memberikan definisi formal seluruh istilah tersebut.
+
+---
+
+## 19. Next Inquiry
 
 Pertanyaan berikutnya:
 
-> **Apakah Design Principles sendiri perlu memiliki indikator, atau indikator hanya relevan untuk objek yang dinilai dalam Assessment Framework?**
+> **Apakah Design Principles TUMBUH perlu memiliki indikator sendiri, atau indikator hanya relevan ketika objeknya sudah masuk ke Assessment Framework?**
 
-P0019 akan menguji apakah istilah “indicator” dapat digunakan pada level desain, dan jika ya, bagaimana membedakannya dari Design Criterion.
+P0019 akan menguji batas ini agar Principles tidak berubah menjadi instrumen assessment.
 
-## Status
+---
 
-**P0018 — selesai sebagai inquiry.**
+## 20. Status Inquiry
 
-**Temuan utama:** Design Criterion, Evaluation Criterion, Assessment Criterion, Indicator, dan Evidence memiliki fungsi yang berbeda secara kerja. Sumber TUMBUH mendukung adanya Indicators, Assessment, dan Evaluation sebagai konsep/domain terkait, tetapi belum memberikan definisi formal keempat istilah tersebut. Karena itu taxonomy P0018 masih bersifat working model.
+**Finding:** Design Criterion berbeda secara fungsi dari Evaluation Criterion, Assessment Criterion, Indicator, dan Evidence.
 
-**Next inquiry:** P0019 — *Apakah Design Principles perlu memiliki indikator?*
+**Working conclusion:** Boundary utama ditentukan oleh **objek + fungsi**, bukan oleh istilah yang digunakan.
+
+**Source limitation:** Definisi formal final istilah-istilah tersebut belum tersedia dalam sumber yang digunakan.
+
+**Open question:** Apakah Design Principles membutuhkan Indicator?
