@@ -1,16 +1,27 @@
 # P0033 — Apakah Perubahan Scope Selalu Berarti Revision atas Design Principle?
 
-## Pertanyaan
+## Status
 
-**Apakah perubahan scope selalu berarti revision atas Design Principle, atau dapat terjadi perubahan scope tanpa mengubah identity principle?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0033  
+**Status:** Revised  
+**Type:** Design Principle Scope and Identity Inquiry
 
-P0012 menemukan bahwa Design Principle dapat bersifat universal, domain-wide, contextual, atau conditional. P0013 membedakan contextual Design Principle dari local rule dan local decision. P0030–P0032 kemudian menunjukkan bahwa scope change dapat menjadi trigger review, tetapi reopening tidak otomatis menghasilkan revision.
+---
 
-P0033 menguji hubungan antara **scope** dan **identity** sebuah Design Principle.
+## 1. Object of Inquiry
 
-## 1. Scope Bukan Identity
+**Object of Inquiry:** Design Principles TUMBUH, khususnya hubungan antara **scope** dan **identity** Principle.
 
-Sebuah Design Principle memiliki setidaknya beberapa dimensi:
+P0012 menunjukkan bahwa Design Principle dapat bersifat universal, domain-wide, contextual, atau conditional. P0013 membedakan contextual Principle dari local rule dan decision. P0030–P0032 menunjukkan bahwa scope change dapat menjadi review issue tanpa otomatis menghasilkan revision.
+
+## 2. TUMBUH Question
+
+> **Apakah perubahan scope selalu berarti revision atas Design Principle, atau dapat terjadi perubahan scope tanpa mengubah identity Principle?**
+
+## 3. Scope ≠ Identity
+
+Design Principle memiliki beberapa dimensi yang relevan:
 
 - commitment;
 - design function;
@@ -19,169 +30,138 @@ Sebuah Design Principle memiliki setidaknya beberapa dimensi:
 - design implication;
 - relationship.
 
-P0022 menunjukkan bahwa identity principle tidak ditentukan oleh wording semata, tetapi oleh commitment, design function, implication, consequence, scope, dan level.
+Scope penting untuk menentukan applicability, tetapi tidak otomatis menentukan identity.
 
-Karena itu scope penting, tetapi belum tentu identik dengan identity principle.
+Working distinction:
 
-## 2. Mengapa Scope Penting?
+> **Scope = boundary of applicability.**  
+> **Identity = substantive commitment dan design function yang membuat Principle menjadi Principle tersebut.**
+
+## 4. Fungsi Scope
 
 Scope menjawab:
 
-> **Di mana, pada siapa, pada kondisi apa, atau dalam domain apa sebuah Design Principle dimaksudkan berlaku?**
+> **Di mana, pada kondisi apa, atau dalam domain apa Design Principle dimaksudkan berlaku?**
 
-Tanpa scope, principle dapat terlihat universal padahal sebenarnya hanya dimaksudkan untuk kondisi tertentu.
+Scope mencegah Principle dibaca lebih luas daripada justification yang tersedia.
 
-Scope membantu mencegah overgeneralization.
+Tanpa scope yang jelas, contextual atau conditional Principle mudah disalahartikan sebagai universal.
 
-## 3. Apakah Setiap Scope Change Mengubah Principle?
+## 5. Tidak Semua Scope Change Sama
 
-Tidak selalu.
+Scope change dapat berupa:
 
-Perubahan dapat berupa:
+1. clarification;
+2. narrowing;
+3. expansion;
+4. condition change;
+5. domain applicability change.
 
-1. perubahan administrative description;
-2. clarification atas scope yang sebenarnya sudah tersirat;
-3. narrowing;
-4. expansion;
-5. perubahan condition;
-6. perubahan domain applicability.
+Perubahan tersebut memiliki consequence berbeda terhadap identity.
 
-Tidak semua perubahan tersebut memiliki consequence yang sama terhadap identity.
+## 6. Scope Clarification
 
-## 4. Clarification bukan Revision Substantif
+Jika intended scope sebenarnya sudah sama tetapi dokumentasi belum eksplisit, review dapat memperjelas scope.
 
-Contoh:
+Jika:
 
-Principle sejak awal hanya dimaksudkan untuk konteks tertentu, tetapi dokumentasi tidak menjelaskan konteks tersebut dengan baik.
+- commitment tetap;
+- design function tetap;
+- intended applicability tetap;
 
-Review kemudian menambahkan scope statement yang membuat intended scope menjadi eksplisit.
+maka perubahan tersebut lebih tepat disebut **scope clarification**, bukan substantive identity revision.
 
-Jika commitment dan design function tetap sama, perubahan tersebut lebih tepat disebut:
+## 7. Narrowing Scope
 
-**scope clarification**
+Jika evidence atau counterexample menunjukkan Principle hanya dapat dipertanggungjawabkan pada subset kondisi tertentu, scope dapat dipersempit.
 
-daripada revision substantif.
+Misalnya:
 
-## 5. Narrowing Scope
+~~~text
+Original scope: Domain X
+↓
+Review
+↓
+Bounded scope: Domain X under Condition Y
+~~~
 
-Misalnya sebuah principle awalnya dianggap berlaku pada seluruh domain X.
+Jika commitment dan design function tetap, identity Principle masih dapat dipertahankan.
 
-Review menunjukkan bahwa principle hanya dapat dipertanggungjawabkan pada subset kondisi Y.
+Namun applicability berubah secara substantif dan harus dicatat.
+
+## 8. Expanding Scope
+
+Evidence baru dapat menunjukkan bahwa Principle relevan di luar scope sebelumnya.
+
+Expansion memiliki burden of justification lebih besar karena claim applicability menjadi lebih luas.
 
 Maka:
 
-**scope dipersempit.**
+> **Scope expansion requires sufficient justification.**
 
-Apakah identity principle berubah?
+Pengalaman lokal tidak otomatis membenarkan universal applicability.
 
-Belum tentu.
+## 9. Scope Change dan Principle Inflation
 
-Jika commitment dan design function tetap sama, identity dapat dipertahankan dengan scope yang lebih bounded.
+Jika setiap scope variation dibuat sebagai Principle baru, dapat terjadi **principle inflation**.
 
-Namun perubahan ini tetap substantif pada applicability dan harus dicatat.
+Misalnya satu commitment menghasilkan banyak file hanya karena berbeda konteks.
 
-## 6. Expanding Scope
+Lebih baik mempertahankan satu identity ketika commitment dan design function memang sama, lalu merepresentasikan scope/condition secara eksplisit.
 
-Sebaliknya, evidence baru dapat menunjukkan bahwa principle yang sebelumnya berlaku pada kondisi Y juga relevan pada kondisi Z.
+Namun pemisahan tetap diperlukan jika scope variation ternyata membawa perbedaan substantif pada identity.
 
-Scope dapat diperluas.
+## 10. Kapan Scope Change Menjadi Identity Revision?
 
-Tetapi expansion memiliki burden of justification yang lebih besar daripada sekadar clarification karena claim applicability menjadi lebih luas.
-
-Maka expansion perlu review yang memadai.
-
-## 7. Scope Change dan Principle Inflation
-
-Jika setiap scope change diperlakukan sebagai principle baru, repository dapat mengalami **principle inflation**.
-
-Contoh:
-
-- Principle A berlaku di context X;
-- Principle A versi diperluas berlaku di X + Y;
-- Principle A versi lain berlaku di X + Y + Z.
-
-Jika semua dibuat sebagai principles baru tanpa alasan identity yang jelas, struktur akan penuh dengan formulation yang sebenarnya memiliki commitment sama.
-
-Lebih baik membedakan identity dari scope ketika memang dapat dipertahankan secara konseptual.
-
-## 8. Kapan Scope Change Menjadi Revision?
-
-Scope change menjadi revision substantif ketika perubahan tersebut mengubah salah satu hal penting seperti:
+Scope change menjadi identity revision jika perubahan tersebut mengubah hal substantif seperti:
 
 - commitment;
 - design function;
 - intended consequence;
-- condition yang menentukan meaning;
+- essential condition;
 - level;
-- relationship yang essential terhadap principle.
+- atau meaning Principle.
 
-Jadi:
+Dengan demikian:
 
-**scope change → review**
+> **Scope change → review**
 
 tetapi:
 
-**scope change ≠ automatic identity change.**
+> **Scope change ≠ automatic identity change.**
 
-## 9. Scope dan Condition
+## 11. Scope dan Condition
 
-Scope sering berhubungan dengan condition.
+Scope sering bergantung pada condition.
 
-Misalnya:
+Contoh:
 
-> Principle berlaku ketika kondisi X terpenuhi.
+> Principle berlaku ketika Condition X terpenuhi.
 
-Jika condition berubah menjadi:
+Jika condition berubah, perlu diperiksa apakah perubahan hanya memperjelas boundary atau mengubah meaning Principle.
 
-> Principle berlaku ketika kondisi Y terpenuhi.
+Jika X dan Y menghasilkan design meaning yang berbeda secara substantif, identity revision mungkin diperlukan.
 
-Perubahan ini mungkin hanya memperjelas boundary.
-
-Tetapi jika X dan Y menghasilkan design meaning yang berbeda secara substantif, perubahan tersebut dapat menjadi revision.
-
-Karena itu condition perlu dianalisis, bukan hanya dicatat.
-
-## 10. Scope sebagai Boundary of Claim
-
-Working formulation:
-
-> **Scope adalah boundary yang menentukan domain applicability sebuah Design Principle.**
-
-Perubahan boundary tidak selalu mengubah commitment.
-
-Contoh konseptual:
-
-**Commitment tetap**
-+
-**Boundary berubah**
-
-dapat menghasilkan principle identity yang sama dengan applicability berbeda.
-
-## 11. Scope dan Generality
+## 12. Scope dan Generality
 
 P0012 membedakan universalitas dari generality.
 
-Sebuah principle dapat:
+Principle tidak harus universal untuk tetap general dalam scope yang ditetapkan.
 
-- tidak universal;
-- tetapi cukup general dalam scope-nya.
+Karena itu narrowing scope tidak otomatis berarti Principle kehilangan status sebagai Principle.
 
-Karena itu mempersempit scope tidak otomatis berarti principle menjadi “lebih lemah”.
+Yang berubah adalah **boundary applicability**.
 
-Yang berubah adalah boundary applicability.
-
-## 12. Scope Change dan Evidence
-
-Scope change harus memiliki justification yang sesuai.
+## 13. Scope Change dan Evidence
 
 ### Narrowing
 
 Dapat dipicu oleh:
 
 - counterexample;
-- evidence boundary;
+- boundary evidence;
 - contextual limitation;
-- design failure pada subset tertentu.
+- repeated design problem pada subset tertentu.
 
 ### Expansion
 
@@ -189,79 +169,62 @@ Dapat dipicu oleh:
 
 - new evidence;
 - successful application;
-- cross-context validation;
-- stronger theoretical justification.
+- cross-context reasoning;
+- stronger justification.
 
-Tetapi pengalaman lokal tidak otomatis cukup untuk mengklaim universal applicability.
+Keduanya membutuhkan reasoning yang dapat ditelusuri.
 
-## 13. Scope Change dan Context
+## 14. Scope dan Relationship
 
-P0012 menemukan bahwa Design Principles dapat contextual.
-
-Maka scope dapat menjadi bagian penting dari identity praktis sebuah contextual principle.
-
-Namun tetap perlu dibedakan:
-
-**principle commitment**
-
-dari
-
-**contextual applicability.**
-
-Jika commitment tetap tetapi context berubah, review dapat mempertahankan identity sambil mengubah applicability.
-
-## 14. Scope Change dan Relationship
-
-Perubahan scope dapat mengubah relationship antar-principles.
+Scope change dapat mengubah relationship antar-Principles.
 
 Misalnya:
 
-- dua principles sebelumnya overlap;
-- setelah scope salah satunya dipersempit, overlap hilang.
+~~~text
+A overlaps B
+↓
+Scope A narrowed
+↓
+Overlap disappears
+~~~
 
-Dalam kasus tersebut relationship berubah, tetapi identity kedua principles dapat tetap.
+Dalam kasus tersebut relationship berubah, sementara identity A dan B dapat tetap.
 
-Sebaliknya, jika scope expansion menciptakan conflict baru, relationship dapat memerlukan review.
+Sebaliknya, scope expansion dapat menciptakan tension atau dependency baru yang perlu direview.
 
-Ini memperkuat temuan P0027 bahwa relationship memiliki lifecycle yang relatif independen.
+## 15. Scope dan Downstream Design
 
-## 15. Scope Change dan Downstream Design
-
-Perubahan scope dapat berdampak pada:
+Scope change dapat memengaruhi:
 
 - design implication;
 - design criteria;
 - Core Model;
 - implementation guidance;
-- assessment atau evaluation.
+- evaluation/assessment consequence.
 
-Maka scope change perlu memiliki impact analysis yang proporsional.
+Karena itu material scope change memerlukan impact analysis yang proportional.
 
-Tetapi downstream impact tidak otomatis membuktikan identity principle berubah.
+Downstream impact sendiri tidak otomatis membuktikan identity berubah.
 
-## 16. Tiga Tingkat Scope Change
+## 16. Working Taxonomy
 
-Working taxonomy:
+### Level 1 — Scope Clarification
 
-### Level 1 — Clarification
-
-Scope menjadi lebih eksplisit tanpa mengubah intended applicability.
+Intended applicability dibuat eksplisit tanpa mengubah meaning.
 
 ### Level 2 — Applicability Revision
 
-Scope diperluas, dipersempit, atau diberi condition baru, sementara commitment dan design function tetap.
+Scope diperluas, dipersempit, atau diberi condition sementara commitment dan design function tetap.
 
 ### Level 3 — Identity Revision
 
-Perubahan scope menunjukkan bahwa commitment, design function, consequence, atau meaning principle sebenarnya berubah.
+Perubahan scope menunjukkan perubahan commitment, design function, essential meaning, atau intended consequence.
 
-Ketiganya tidak boleh diperlakukan sama.
+Taxonomy ini adalah working model.
 
 ## 17. Scope Change sebagai Review Outcome
 
-P0031 membedakan review outcome.
-
-Karena itu outcome setelah scope review dapat berupa:
+Setelah review, outcome dapat berupa:
 
 - Retain;
 - Clarify Scope;
@@ -270,38 +233,34 @@ Karena itu outcome setelah scope review dapat berupa:
 - Add Condition;
 - Revise.
 
-Tidak semua outcome tersebut berarti principle identity baru.
+Tidak semua outcome berarti Principle identity baru.
 
-## 18. Apakah Scope Harus Versioned?
+## 18. Scope History
 
-Jika scope berubah secara substantif, perubahan perlu memiliki historical traceability.
+Jika scope berubah secara substantif, historical traceability perlu dipertahankan:
 
-Namun belum ada kebutuhan untuk menetapkan model versioning teknis tertentu.
-
-Yang penting dapat ditelusuri:
-
-- scope sebelumnya;
-- scope baru;
-- alasan;
-- evidence;
+- previous scope;
+- current scope;
+- reason;
+- evidence/reasoning;
 - decision;
 - downstream consequence.
+
+Belum ada dasar untuk menetapkan model versioning teknis tertentu.
 
 ## 19. Scope dan Acceptance
 
 P0029 menunjukkan bahwa Accepted adalah governance status.
 
-Maka governance tidak menerima “commitment saja” secara abstrak.
-
-Yang diterima adalah formulation dengan:
+Yang diterima bukan commitment abstrak, melainkan current formulation dengan:
 
 - scope;
 - condition;
 - justification;
 - design function;
-- applicable relationship.
+- relevant relationships.
 
-Jika scope berubah substantif, governance perlu menerima current formulation tersebut.
+Jika scope berubah secara substantif, current formulation tersebut perlu melalui acceptance/review yang sesuai.
 
 ## 20. Scope dan Reopening
 
@@ -309,96 +268,125 @@ P0030 menetapkan scope change sebagai potential trigger.
 
 P0033 memperjelas:
 
-> **scope change membuka pertanyaan review, bukan otomatis mengubah identity.**
+> **Scope change membuka pertanyaan review, bukan otomatis mengubah identity Principle.**
 
-Reopening kemudian menentukan apakah:
+Review menentukan apakah:
 
 - scope cukup diklarifikasi;
-- scope diubah;
+- applicability diubah;
 - condition ditambahkan;
-- atau identity principle perlu direvisi.
+- atau identity Principle direvisi.
 
 ## 21. Scope Change dan Retain
 
-Ada kondisi ketika scope menjadi bahan review tetapi akhirnya tidak berubah.
+Scope dapat diperiksa dan akhirnya tidak berubah.
 
-Misalnya evidence baru diperiksa dan ternyata masih berada dalam intended scope.
+Misalnya evidence baru ternyata masih berada dalam intended scope.
 
 Outcome:
 
-**Retain.**
+> **Retain**
 
-Ini berbeda dari tidak pernah meninjau scope.
+Ini berbeda dari tidak pernah memeriksa scope.
 
 ## 22. Minimum Scope Review
 
-Review scope dapat bertanya:
+Review dapat bertanya:
 
-1. Apa intended scope principle?
+1. Apa intended scope Principle?
 2. Apa current documented scope?
 3. Apakah keduanya sama?
 4. Apa evidence boundary yang tersedia?
-5. Apakah terdapat counterexample dalam scope?
+5. Apakah terdapat counterexample within scope?
 6. Apakah condition masih berlaku?
-7. Apakah expansion atau narrowing memiliki justification?
+7. Apakah narrowing/expansion memiliki justification?
 8. Apa downstream consequence?
 9. Apakah relationship berubah?
-10. Apakah commitment/design function tetap?
+10. Apakah commitment dan design function tetap?
 
-Pertanyaan terakhir sangat penting untuk membedakan scope revision dari identity revision.
+Pertanyaan terakhir menjadi pembeda utama antara applicability revision dan identity revision.
 
-## 23. Temuan
+## 23. Boundary
 
-1. Scope merupakan dimensi penting Design Principle tetapi tidak identik dengan identity.
-2. Scope change selalu layak dipertimbangkan sebagai review issue, tetapi tidak selalu merupakan identity revision.
-3. Clarification dapat terjadi tanpa perubahan substantif.
-4. Narrowing dan expansion dapat mengubah applicability tanpa mengubah commitment.
-5. Scope change menjadi identity revision jika mengubah commitment, design function, consequence, essential condition, atau meaning.
-6. Scope expansion memerlukan justification yang memadai karena claim applicability menjadi lebih luas.
-7. Scope narrowing dapat menjadi cara membatasi principle setelah ditemukan boundary.
-8. Scope change dapat mengubah relationship tanpa mengubah principle identity.
-9. Scope change dapat berdampak pada downstream design dan karena itu membutuhkan impact analysis.
-10. Scope sebaiknya diperlakukan sebagai explicit boundary of claim.
-11. Historical scope changes perlu traceability.
-12. Acceptance berlaku terhadap current formulation beserta scope dan condition-nya.
-13. Tidak setiap scope change perlu membuat principle baru.
+P0033 **tidak**:
 
-## 24. Keputusan Sementara
+- menetapkan bahwa semua scope change adalah revision;
+- menganggap scope sebagai satu-satunya unsur identity;
+- menetapkan universal applicability;
+- menentukan versioning teknis;
+- atau menetapkan authority final untuk scope change.
 
-**PASS — PERUBAHAN SCOPE TIDAK SELALU BERARTI REVISION ATAS IDENTITY DESIGN PRINCIPLE.**
+Fokusnya adalah **hubungan scope, applicability, dan identity Design Principle TUMBUH**.
 
-Working rule:
+## 24. Repository Destination
 
-> **Scope change harus memicu review ketika material, tetapi identity principle dapat dipertahankan jika commitment, design function, consequence, dan meaning utamanya tetap. Scope dapat diklarifikasi, dipersempit, diperluas, atau diberi condition tanpa otomatis membuat principle baru. Jika perubahan scope ternyata mengubah commitment atau design function, maka perubahan tersebut menjadi identity revision.**
+Hasil P0033 diarahkan ke:
 
-## 25. Implikasi bagi Repository
+**Principles → Design Principles → scope / condition / lifecycle / traceability**
 
-Design Principle sebaiknya memiliki scope yang eksplisit atau dapat ditelusuri.
-
-Repository juga perlu mampu mempertahankan:
+Repository perlu dapat mempertahankan:
 
 - current scope;
 - condition;
 - scope history;
-- rationale perubahan;
+- rationale;
 - downstream impact.
 
-Tidak perlu membuat setiap scope variant menjadi file principle baru.
+Tidak perlu membuat Principle baru untuk setiap scope variation.
 
-Ini membantu mencegah principle inflation dan mempertahankan traceability.
+## 25. Implikasi bagi TUMBUH
 
-## 26. Next Inquiry
+Working model:
 
-P0034 akan menguji:
+~~~text
+Scope Change
+↓
+Materiality / Relevance Check
+↓
+Review
+↓
+Clarify / Narrow / Expand / Add Condition / Retain / Revise
+~~~
 
-> **Jika satu Design Principle dapat memiliki scope dan condition yang berbeda, kapan lebih tepat mempertahankan satu principle dengan conditions daripada memecahnya menjadi beberapa Design Principles?**
+Identity hanya perlu berubah jika substansi Principle berubah.
 
-Pertanyaan ini melanjutkan masalah principle identity, scope, contextuality, dan principle inflation.
+Dengan demikian TUMBUH dapat menjaga traceability tanpa mengalami principle inflation.
 
-## Status
+## 26. Temuan Sementara
 
-**P0033 — selesai sebagai inquiry.**
+1. Scope adalah boundary applicability, bukan otomatis identity.
+2. Scope change dapat menjadi review issue tanpa automatic identity revision.
+3. Scope clarification dapat terjadi tanpa perubahan substantif.
+4. Narrowing dan expansion dapat mengubah applicability sementara commitment tetap.
+5. Expansion memerlukan justification yang memadai.
+6. Condition perlu dianalisis karena dapat menentukan meaning Principle.
+7. Scope change dapat mengubah relationship tanpa mengubah Principle identity.
+8. Scope change dapat berdampak pada downstream design.
+9. Historical scope changes perlu traceability.
+10. Acceptance berlaku terhadap current formulation beserta scope dan condition.
+11. Tidak setiap scope variation perlu menjadi Principle baru.
+12. Identity berubah ketika scope change membawa perubahan substantif pada commitment, design function, consequence, essential condition, atau meaning.
 
-**Temuan utama:** Scope adalah boundary applicability, bukan otomatis identity. Perubahan scope dapat diklarifikasi, dipersempit, diperluas, atau dikondisikan tanpa membuat principle baru, selama commitment dan design function tetap.
+Temuan ini masih provisional.
 
-**Next inquiry:** P0034 — *Kapan satu Design Principle dengan conditions lebih tepat daripada beberapa Design Principles terpisah?*
+## 27. Kesimpulan
+
+P0033 mendukung working rule:
+
+> **Perubahan scope tidak otomatis berarti revision atas identity Design Principle. Scope change yang material perlu direview; identity dapat dipertahankan jika commitment, design function, consequence, dan meaning utama tetap. Scope dapat diklarifikasi, dipersempit, diperluas, atau diberi condition tanpa otomatis membuat Principle baru. Jika perubahan tersebut mengubah substansi Principle, barulah menjadi identity revision.**
+
+## 28. Next Inquiry
+
+> **Jika satu Design Principle memiliki beberapa scope atau condition yang berbeda, kapan lebih tepat mempertahankan satu Principle dengan conditions daripada memecahnya menjadi beberapa Design Principles?**
+
+P0034 akan menguji batas antara **conditional formulation** dan **multiple Principle identities**.
+
+## 29. Status Inquiry
+
+**Finding:** Scope merupakan boundary applicability yang dapat berubah tanpa otomatis mengubah identity Principle.
+
+**Working conclusion:** Scope change → review; bukan automatic revision.
+
+**Boundary:** Model versioning dan authority final belum ditetapkan.
+
+**Open question:** Kapan conditional variations masih merupakan satu Principle?
