@@ -1,60 +1,83 @@
 # P0028 — Apakah Design Principles Membutuhkan Lifecycle yang Sama dengan Core Principles?
 
-## Pertanyaan
+## Status
 
-**Apakah Design Principles membutuhkan lifecycle governance yang sama dengan Core Principles, atau perlu lifecycle yang berbeda sesuai fungsi dan tingkat fundamentality-nya?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0028  
+**Status:** Revised  
+**Type:** Principle Lifecycle Inquiry
 
-P0027 menemukan bahwa relationship dapat berubah tanpa otomatis mengubah identity principle. P0028 memperluas pertanyaan tersebut ke lifecycle Principle itu sendiri.
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-Core Principles dan Design Principles tidak memiliki fungsi yang sama.
+**Object of Inquiry:** Design Principles TUMBUH, khususnya lifecycle dan perbedaannya dari lifecycle Core Principles.
 
-Dari rangkaian P0003–P0007:
+P0027 menunjukkan bahwa relationship dapat berubah relatif independen dari Principle identity. P0028 menguji apakah lifecycle Principles sendiri perlu diperlakukan sama atau dibedakan menurut fungsi dan consequence perubahan.
 
-- Core Principle menjaga commitment fundamental dan identity sistem.
-- Design Principle mengarahkan penerjemahan commitment tersebut ke dalam design reasoning.
+## 2. TUMBUH Question
 
-Karena fungsi berbeda, belum tentu lifecycle keduanya harus identik.
+> **Apakah Design Principles membutuhkan lifecycle governance yang sama dengan Core Principles, atau perlu lifecycle yang berbeda sesuai fungsi dan tingkat fundamentality-nya?**
 
-## 2. Lifecycle Bukan Sekadar Status
+## 3. Titik Berangkat
 
-Lifecycle mencakup lebih dari daftar status.
+Dari P0003–P0007:
 
-Ia mencakup:
+- **Core Principle** menjaga commitment fundamental dan identity sistem.
+- **Design Principle** mengarahkan penerjemahan commitment tersebut ke design reasoning.
+
+Karena fungsi berbeda, lifecycle tidak harus identik.
+
+Namun perbedaan fungsi juga tidak otomatis berarti harus dibuat dua sistem lifecycle yang sepenuhnya terpisah.
+
+## 4. Lifecycle Bukan Sekadar Status
+
+Lifecycle mencakup:
 
 - bagaimana candidate muncul;
 - bagaimana diuji;
-- siapa yang meninjau;
+- bagaimana ditinjau;
 - bagaimana diterima;
-- kapan dapat direvisi;
-- bagaimana konflik ditangani;
-- bagaimana principle disupersede;
-- bagaimana sejarahnya dilacak.
+- kapan direvisi;
+- bagaimana supersession terjadi;
+- bagaimana reopening dilakukan;
+- bagaimana historical traceability dipertahankan.
 
-Dengan demikian pertanyaan P0028 adalah apakah seluruh mekanisme tersebut harus sama pada Core dan Design Principles.
+Maka yang diuji bukan hanya apakah label status sama, tetapi apakah **mekanisme dan threshold** pada setiap tahap harus sama.
 
-## 3. Lifecycle Umum yang Sudah Ditemukan
+## 5. Shared Lifecycle Skeleton
 
-P0009 mengidentifikasi status kerja:
+Working model:
 
-- Candidate;
-- Under Review;
-- Needs Revision;
-- Accepted;
-- Rejected;
-- Superseded;
-- Merged.
+~~~text
+Candidate
+   ↓
+Review
+   ↓
+Accepted
+   ↓
+Active
+   ↓
+Revision / Re-review
+   ↓
+Superseded / Retired
+~~~
 
-Status tersebut berguna sebagai working lifecycle untuk principles.
+Skeleton ini dapat digunakan untuk Core maupun Design Principles.
 
-Namun status yang sama tidak berarti **threshold, evidence, review intensity, dan governance mechanism** harus sama.
+Kesamaan skeleton tidak berarti:
 
-## 4. Mengapa Core Principles Memerlukan Perlakuan Berbeda?
+- review criteria sama;
+- evidence expectation sama;
+- authority sama;
+- impact analysis sama;
+- reopening threshold sama.
 
-Core Principle berada lebih dekat dengan normative identity TUMBUH.
+## 6. Mengapa Core Principles Cenderung Memerlukan Governance Lebih Luas?
 
-Perubahannya dapat memiliki dampak luas terhadap:
+Core Principle berada lebih dekat dengan fundamental commitment TUMBUH.
+
+Perubahannya berpotensi berdampak pada:
 
 - Design Principles;
 - Core Model;
@@ -63,213 +86,187 @@ Perubahannya dapat memiliki dampak luas terhadap:
 - Intervention;
 - Implementation.
 
-Karena itu, perubahan Core Principle kemungkinan memerlukan review yang lebih luas.
+Karena itu perubahan Core Principle cenderung membutuhkan **broader impact analysis**.
 
-Ini merupakan konsekuensi arsitektural dari posisi Core Principle, bukan berarti Core Principle tidak dapat berubah.
+Ini merupakan consequence dari posisinya dalam arsitektur, bukan klaim bahwa Core Principle immutable.
 
-## 5. Design Principles Lebih Dekat dengan Design Reasoning
+## 7. Mengapa Design Principles Membutuhkan Governance yang Lebih Iteratif?
 
-Design Principle berada pada tingkat penerjemahan.
+Design Principle berada pada tingkat design reasoning.
 
-Ia dapat berubah karena:
+Ia dapat direvisi karena:
 
 - desain berkembang;
 - evidence baru muncul;
 - counterexample ditemukan;
-- konteks berubah;
-- relationship antar-principle berubah;
-- Core Model direvisi;
-- kebutuhan sistem berubah.
+- scope berubah;
+- relationship berubah;
+- Core Model berubah;
+- kebutuhan desain berubah.
 
-Karena itu lifecycle Design Principles perlu mendukung **iterasi desain**.
+Karena itu lifecycle Design Principles perlu mendukung iterasi.
 
-Namun perubahan tidak boleh menjadi perubahan tanpa governance.
-
-## 6. Stable Does Not Mean Immutable
-
-Core Principles sebaiknya relatif stabil, tetapi:
-
-> **stability ≠ immutability.**
-
-Design Principles dapat relatif lebih adaptif, tetapi:
+Namun:
 
 > **adaptability ≠ informality.**
 
-Keduanya tetap membutuhkan traceability dan review.
+Perubahan tetap membutuhkan reasoning dan traceability.
 
-Perbedaan utamanya adalah **degree and consequence of change**, bukan ada atau tidaknya lifecycle.
+## 8. Stability ≠ Immutability
 
-## 7. Shared Lifecycle Skeleton
+Core Principles dapat relatif stabil tanpa dianggap tidak dapat berubah.
 
-Working model:
+Design Principles dapat relatif lebih adaptif tanpa menjadi preference pribadi.
 
-**Candidate**
-→ **Review**
-→ **Accepted**
-→ **Active**
-→ **Revision / Re-review**
-→ **Superseded / Retired**
+Dengan demikian pembeda lifecycle bukan:
 
-Skeleton ini dapat digunakan untuk Core dan Design Principles.
+> “Core tidak boleh berubah, Design boleh berubah.”
 
-Tetapi setiap level dapat memiliki:
+Melainkan:
 
-- review criteria berbeda;
-- evidence expectations berbeda;
-- authority berbeda;
-- impact analysis berbeda;
-- reopening threshold berbeda.
+> **seberapa besar consequence perubahan dan governance apa yang proporsional terhadap consequence tersebut.**
 
-Dengan demikian yang dibutuhkan bukan dua lifecycle yang sepenuhnya terpisah, tetapi **shared lifecycle architecture with differentiated governance**.
+## 9. Mengapa Tidak Dua Lifecycle Sepenuhnya Terpisah?
 
-## 8. Mengapa Tidak Membuat Lifecycle Terpisah Total?
+Dua lifecycle yang sepenuhnya berbeda berpotensi menghasilkan:
 
-Jika Core dan Design Principles memiliki lifecycle yang sama sekali berbeda:
+- terminology governance yang tidak konsisten;
+- traceability lintas-level yang lebih sulit;
+- perubahan upstream/downstream yang sulit diikuti;
+- sistem repository yang lebih kompleks.
 
-- terminology governance menjadi sulit;
-- traceability antar-level menjadi rumit;
-- perubahan lintas-level sulit diikuti;
-- repository membutuhkan dua sistem yang mungkin tidak perlu.
+Jika fungsi lifecycle dasarnya sama, pemisahan total belum justified.
 
-Lebih proporsional memiliki satu prinsip lifecycle umum dengan aturan khusus per level.
-
-## 9. Mengapa Tidak Membuat Lifecycle Identik?
+## 10. Mengapa Tidak Lifecycle Identik?
 
 Sebaliknya, lifecycle yang identik dapat mengabaikan perbedaan consequence.
 
-Misalnya:
+Contoh:
 
-Perubahan kecil pada Design Principle lokal tidak seharusnya otomatis diperlakukan seperti perubahan Core Principle.
+- perubahan Design Principle pada scope terbatas tidak otomatis mempunyai dampak seperti perubahan Core Principle;
+- perubahan Core Principle tidak cukup ditinjau hanya pada satu domain desain.
 
-Sebaliknya, perubahan Core Principle tidak cukup hanya melalui review lokal pada satu domain desain.
+Karena itu diperlukan **differentiated governance**.
 
-Karena itu lifecycle perlu **proportional governance**.
+## 11. Change Impact sebagai Pembeda
 
-## 10. Change Impact sebagai Pembeda
-
-Salah satu mekanisme yang dapat membedakan governance adalah **impact analysis**.
-
-Untuk perubahan candidate, tanyakan:
+Untuk setiap perubahan candidate, tanyakan:
 
 1. Apa yang berubah?
-2. Principles apa yang bergantung padanya?
+2. Principle apa yang bergantung atau terhubung?
 3. Framework apa yang mungkin terdampak?
 4. Apakah Core Model berubah?
-5. Apakah implementation consequence berubah?
-6. Apakah evidence lama masih berlaku?
+5. Apakah downstream design berubah?
+6. Apakah evidence atau rationale lama masih berlaku?
 
-Semakin luas impact, semakin luas review yang dibutuhkan.
+Semakin luas impact, semakin luas review yang diperlukan.
 
-## 11. Upstream dan Downstream Change
-
-Perubahan dapat bergerak dua arah.
+## 12. Upstream dan Downstream Change
 
 ### Upstream
 
-Core Principle berubah.
+Jika Core Principle berubah:
 
-→ Design Principles perlu diperiksa kembali.
+~~~text
+Core Principle
+↓
+Design Principles
+↓
+Downstream system
+~~~
+
+Design Principles yang terdampak perlu diperiksa kembali.
 
 ### Downstream
 
-Design Principle berubah.
+Jika Design Principle berubah:
 
-→ Core Principle tidak otomatis berubah.
+~~~text
+Design Principle
+↓
+Design / Framework consequences
+~~~
 
-Namun jika alasan perubahan menunjukkan bahwa Core Principle tidak lagi cukup atau tepat, maka upstream review dapat dibuka.
+Core Principle tidak otomatis berubah.
 
-Ini konsisten dengan P0027: perubahan pada satu relational object dapat menjadi trigger untuk review pada object lain tanpa otomatis mengubah identity-nya.
+Namun jika alasan perubahan menunjukkan bahwa fundamental commitment tidak lagi memadai, upstream review dapat dibuka.
 
-## 12. Design Principle Tidak Boleh Menjadi Mutable Preference
+Ini konsisten dengan P0027.
 
-Adaptability tidak berarti designer bebas mengganti principle berdasarkan selera.
+## 13. Design Principle Bukan Mutable Preference
 
-Perubahan harus memiliki:
+Design Principle tidak boleh berubah hanya karena selera designer.
 
-- alasan;
-- evidence atau reasoning;
+Perubahan perlu memiliki:
+
+- reasoning;
+- evidence jika relevan;
 - scope;
-- impact;
+- impact analysis;
 - review;
 - decision record.
 
-Dengan demikian:
+Dengan demikian iterasi desain tetap berada dalam governance.
 
-> **design adaptability tetap berada dalam epistemic governance.**
+## 14. Lifecycle Relationship dan Principle
 
-## 13. Lifecycle dan Status Relationship
-
-P0027 menunjukkan bahwa relationship memiliki lifecycle sendiri.
-
-Maka terdapat setidaknya tiga object yang dapat berubah:
+P0027 menunjukkan setidaknya terdapat tiga object yang dapat berubah:
 
 1. Core Principle;
 2. Design Principle;
 3. Relationship.
 
-Ketiganya dapat memiliki lifecycle yang saling terhubung tetapi tidak identik.
+Lifecycle ketiganya dapat saling berhubungan tetapi tidak harus identik.
 
-Model konseptual:
+Working model:
 
-**Principle Identity**
-↕
-**Relationship**
-↕
-**Design Consequence**
+~~~text
+Principle Identity
+      ↕
+Relationship
+      ↕
+Design Consequence
+~~~
 
-Perubahan pada salah satu dapat memicu review pada yang lain.
+Perubahan salah satu dapat menjadi trigger review pada object lain.
 
-## 14. Merge dan Split
+## 15. Merge, Split, dan Supersession
 
-Design Principles dapat mengalami merge atau split.
+Design Principles dapat:
 
 ### Merge
 
-Dua Design Principles ternyata redundant.
+Dua Principles ternyata redundant.
 
-→ menjadi satu principle.
+→ digabung.
 
 ### Split
 
-Satu principle ternyata mengandung dua design functions yang berbeda.
+Satu Principle ternyata mengandung design functions yang substantif berbeda.
 
-→ dipecah menjadi dua principles.
+→ dipecah.
 
-Core Principles kemungkinan lebih jarang mengalami operasi seperti ini karena consequence-nya lebih luas, tetapi tidak ada dasar untuk menyatakan operasi tersebut mustahil.
+### Supersede
 
-Yang membedakan adalah governance threshold.
+Principle lama tidak lagi menjadi formulation yang berlaku.
 
-## 15. Supersession
+→ status lama dipertahankan sebagai historical record.
 
-Superseded tidak berarti principle sebelumnya “salah” secara historis.
-
-Ia berarti:
-
-> principle tersebut tidak lagi menjadi formulation yang berlaku dalam current system state.
-
-Historical record tetap penting.
-
-Repository sebaiknya dapat menjelaskan:
-
-- principle lama;
-- alasan supersession;
-- principle pengganti;
-- evidence/reasoning;
-- dampak terhadap downstream elements.
+Operasi tersebut tidak perlu dianggap mustahil pada Core Principles, tetapi consequence dan governance threshold-nya dapat berbeda.
 
 ## 16. Reopening
 
 Accepted tidak berarti permanently closed.
 
-Sebuah principle dapat dibuka kembali ketika:
+Reopening dapat dipicu oleh:
 
 - evidence penting berubah;
-- counterexample muncul;
+- counterexample;
 - dependency berubah;
-- downstream design gagal;
-- contradiction ditemukan;
-- Core Principle berubah;
-- scope tidak lagi memadai.
+- downstream design failure;
+- contradiction;
+- perubahan Core Principle;
+- scope yang tidak lagi memadai.
 
 Reopening adalah bagian normal dari lifecycle epistemic system.
 
@@ -280,19 +277,21 @@ Working distinction:
 ### Core Principle
 
 Cenderung membutuhkan:
+
 - broad review;
 - stronger normative coherence check;
 - wider impact analysis;
-- higher governance authority.
+- governance dengan cakupan lebih luas.
 
 ### Design Principle
 
 Cenderung membutuhkan:
+
 - design-function review;
 - evidence/reasoning review;
 - scope analysis;
 - downstream impact analysis;
-- domain/design governance.
+- design/domain review.
 
 Ini bukan hierarchy of truth.
 
@@ -302,81 +301,96 @@ Ini perbedaan **governance consequence**.
 
 | Dimensi | Core Principle | Design Principle |
 |---|---|---|
-| Fungsi | menjaga commitment fundamental | mengarahkan design reasoning |
+| Fungsi | commitment fundamental | design reasoning |
 | Stability | relatif tinggi | relatif lebih adaptif |
 | Review scope | cenderung luas | cenderung design/domain-focused |
 | Change impact | berpotensi sistemik | terutama design/downstream |
 | Reopening | dapat terjadi | dapat terjadi |
 | Supersession | dapat terjadi | dapat terjadi |
-| Merge/Split | mungkin, dengan threshold tinggi | mungkin |
-| Traceability | wajib | wajib |
-| Governance | lebih luas | lebih dekat ke design governance |
+| Merge/Split | mungkin, dengan threshold lebih tinggi | mungkin |
+| Traceability | diperlukan | diperlukan |
+| Governance | lebih luas | lebih dekat dengan design reasoning |
 
-Tabel ini merupakan working model, bukan aturan final.
+Tabel ini merupakan **working model**, bukan aturan final.
 
-## 19. Apakah Ada Lifecycle Khusus Design Principles?
+## 19. Boundary
 
-Temuan saat ini menunjukkan:
+P0028 **tidak**:
 
-> **Tidak perlu lifecycle yang sepenuhnya berbeda.**
+- menetapkan governance authority final;
+- menetapkan threshold numerik;
+- menyatakan Core Principles immutable;
+- menyatakan Design Principles bebas berubah;
+- atau membuat dua sistem lifecycle teknis.
 
-Yang diperlukan adalah:
+Fokusnya adalah **arsitektur lifecycle yang proporsional terhadap fungsi dan consequence perubahan**.
 
-> **shared lifecycle skeleton + differentiated governance.**
+## 20. Repository Destination
 
-Dengan demikian TUMBUH memperoleh konsistensi tanpa mengabaikan perbedaan fundamentality.
+Hasil P0028 diarahkan ke:
 
-## 20. Temuan
+**Principles → Core Principles / Design Principles → lifecycle / review / traceability**
 
-1. Core dan Design Principles memiliki fungsi berbeda sehingga consequence perubahan juga berbeda.
+Untuk tahap ini tidak diperlukan dua lifecycle framework terpisah.
+
+Conceptual lifecycle dapat digunakan bersama, sementara governance rules dibedakan berdasarkan level, scope, dan impact.
+
+## 21. Implikasi bagi TUMBUH
+
+Working model:
+
+> **Shared lifecycle architecture + differentiated governance**
+
+Dengan demikian:
+
+~~~text
+Common Lifecycle Skeleton
+        ↓
+Level-specific Governance
+        ↓
+Impact / Scope Analysis
+        ↓
+Appropriate Review
+~~~
+
+Model ini menjaga konsistensi lifecycle tanpa mengabaikan perbedaan antara fundamental commitment dan design reasoning.
+
+## 22. Temuan Sementara
+
+1. Core dan Design Principles memiliki fungsi berbeda.
 2. Keduanya tetap membutuhkan lifecycle.
-3. Status lifecycle umum dapat dipakai bersama.
-4. Review criteria, authority, evidence expectation, dan impact analysis dapat berbeda menurut level.
-5. Core Principles cenderung memerlukan review lebih luas karena perubahan dapat berdampak lintas sistem.
-6. Design Principles perlu mendukung iterasi desain tetapi tetap berada dalam governance.
-7. Accepted tidak berarti immutable.
-8. Supersession harus mempertahankan historical traceability.
-9. Relationship memiliki lifecycle yang dapat berbeda dari principle.
-10. Shared lifecycle architecture lebih proporsional daripada dua lifecycle yang sepenuhnya terpisah.
+3. Shared lifecycle skeleton dapat digunakan untuk keduanya.
+4. Review criteria, evidence expectation, authority, impact analysis, dan reopening threshold dapat berbeda.
+5. Core Principles cenderung memerlukan review lebih luas.
+6. Design Principles membutuhkan iterasi yang lebih dekat dengan design reasoning.
+7. Stability tidak berarti immutability.
+8. Adaptability tidak berarti informality.
+9. Relationship memiliki lifecycle yang dapat berbeda dari Principle.
+10. Shared lifecycle architecture lebih proporsional daripada dua lifecycle sepenuhnya terpisah.
+11. Change impact merupakan pembeda penting dalam governance lifecycle.
 
-## 21. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — CORE DAN DESIGN PRINCIPLES SEBAIKNYA MENGGUNAKAN SHARED LIFECYCLE SKELETON DENGAN DIFFERENTIATED GOVERNANCE.**
+## 23. Kesimpulan
 
-Working rule:
+P0028 mendukung working rule:
 
-> **Lifecycle Principle TUMBUH dapat menggunakan status dan mekanisme umum yang sama, tetapi threshold review, evidence expectation, authority, impact analysis, dan reopening mechanism harus disesuaikan dengan level dan consequence perubahan. Core Principles memerlukan governance yang lebih luas; Design Principles dapat memiliki governance yang lebih dekat dengan design reasoning.**
+> **Core Principles dan Design Principles sebaiknya menggunakan shared lifecycle skeleton dengan differentiated governance. Perbedaan governance ditentukan oleh fungsi, level, scope, dan terutama consequence perubahan; bukan dengan membuat dua lifecycle yang sepenuhnya terpisah.**
 
-## 22. Implikasi bagi Repository
+Dengan demikian lifecycle TUMBUH tetap konsisten, tetapi perlakuan terhadap perubahan dapat proporsional.
 
-Belum perlu membuat dua sistem lifecycle terpisah.
-
-Lebih tepat menyediakan conceptual lifecycle yang dapat digunakan lintas principle:
-
-**Candidate → Review → Accepted → Active → Revision/Re-review → Superseded/Retired**
-
-Kemudian metadata atau governance rules dapat membedakan perlakuan berdasarkan:
-
-- Core Principle;
-- Design Principle;
-- domain;
-- scope;
-- impact.
-
-Ini menjaga consistency sekaligus memungkinkan proportional governance.
-
-## 23. Next Inquiry
-
-P0029 akan menguji:
+## 24. Next Inquiry
 
 > **Apa yang membuat sebuah Design Principle layak disebut “Accepted”: apakah acceptance merupakan status epistemik, status governance, atau gabungan keduanya?**
 
-Pertanyaan ini kembali ke P0009–P0010, tetapi sekarang dengan pemahaman lifecycle yang lebih matang. Penting untuk memisahkan “benar/terjustifikasi” dari “resmi berlaku dalam sistem”.
+P0029 akan memperjelas perbedaan antara **justified/valid sebagai hasil reasoning** dan **accepted sebagai posisi resmi yang berlaku dalam Sistem TUMBUH**.
 
-## Status
+## 25. Status Inquiry
 
-**P0028 — selesai sebagai inquiry.**
+**Finding:** Core Principles dan Design Principles tidak membutuhkan lifecycle yang sepenuhnya berbeda.
 
-**Temuan utama:** Core Principles dan Design Principles tidak membutuhkan lifecycle yang sepenuhnya berbeda. Keduanya lebih tepat menggunakan shared lifecycle skeleton dengan differentiated governance berdasarkan level, consequence, scope, dan impact perubahan.
+**Working conclusion:** Keduanya lebih tepat menggunakan shared lifecycle skeleton dengan differentiated governance.
 
-**Next inquiry:** P0029 — *Apa yang membuat sebuah Design Principle layak disebut Accepted: status epistemik, status governance, atau gabungan keduanya?*
+**Boundary:** Governance authority dan threshold final belum ditetapkan.
+
+**Open question:** Apa arti tepat dari status “Accepted” pada Design Principle?
