@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0056  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
@@ -406,7 +406,19 @@ Pendekatan ini menjaga agar traceability cukup kuat untuk perubahan substantif t
 
 ---
 
-## 19. Status Inquiry
+## 19. Repository Destination
+
+**Principles → Design Principles → Relational Traceability → Change Classification / Decision Trace**
+
+P0056 menghasilkan kebutuhan konseptual untuk membedakan semantic change dari perubahan administratif sebelum menentukan kedalaman trace.
+
+## 20. Next Inquiry
+
+> **Apakah TUMBUH membutuhkan formal change classification matrix agar keputusan substantive/non-substantive dapat diterapkan konsisten lintas repository domain?**
+
+P0057 akan menguji apakah matrix formal benar-benar diperlukan, atau semantic tests yang sudah ada lebih tepat dipertahankan sebagai judgment framework.
+
+## 21. Status Inquiry
 
 **Finding:** Substantiveness ditentukan terutama oleh semantic/systemic impact; materiality menentukan kedalaman response.
 
