@@ -1,301 +1,428 @@
 # P0009 — Bagaimana Candidate Design Principle Divalidasi dan Diterima?
 
-## Pertanyaan
+## Status
 
-**Bagaimana sebuah candidate Design Principle diuji, divalidasi, dan akhirnya diterima sebagai bagian dari Principles TUMBUH?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0009  
+**Status:** Revised  
+**Type:** Design Principle Validation Inquiry
 
-P0008 menemukan bahwa Design Principle dapat memperoleh dasar argumentasi dari Philosophy, Core Principles, system needs, evidence, dan PROBE. Namun keberagaman sumber tersebut menimbulkan kebutuhan akan mekanisme validasi.
+---
 
-P0009 menguji apakah TUMBUH membutuhkan acceptance test yang eksplisit agar candidate Design Principle tidak langsung dianggap sebagai prinsip hanya karena memiliki argumentasi yang masuk akal.
+## 1. Object of Inquiry
 
-## 1. Candidate Principle Bukan Accepted Principle
+**Object of Inquiry:** Design Principles TUMBUH.
 
-Perlu dibedakan:
+P0009 mengkaji bagaimana candidate Design Principle diuji sebelum dapat menjadi posisi yang diterima dalam Principles TUMBUH.
 
-**Candidate Design Principle**
-→ gagasan yang sedang diusulkan dan diuji.
+P0009 tidak menetapkan siapa otoritas finalnya.
 
-**Accepted Design Principle**
-→ prinsip yang telah melewati pengujian dan secara eksplisit diterima dalam architecture Principles TUMBUH.
+---
 
-Perbedaan ini penting bagi PROBE karena ruang inquiry harus memungkinkan sebuah kandidat:
+## 2. TUMBUH Question
 
-- diterima;
-- direvisi;
-- ditunda;
-- ditolak;
-- atau digabung dengan kandidat lain.
+> **Bagaimana TUMBUH membedakan candidate Design Principle yang cukup beralasan dari gagasan desain yang belum layak menjadi Principle?**
 
-Dengan demikian, tidak setiap hasil PROBE otomatis menjadi prinsip repository.
+Pertanyaan ini merupakan kelanjutan langsung P0008.
 
-## 2. Mengapa Validation Tidak Cukup Berupa “Setuju”?
+P0008 menunjukkan bahwa candidate dapat dibangun dari foundation, system need, relevant evidence, dan reasoning.
 
-Sebuah Design Principle dapat terdengar masuk akal tetapi tetap memiliki kelemahan:
+P0009 sekarang menguji **kecukupan candidate tersebut**.
 
-- tidak jelas hubungannya dengan Core Principles;
-- terlalu spesifik terhadap satu desain;
-- hanya mengulang prinsip lain;
+---
+
+## 3. Candidate ≠ Accepted
+
+P0009 menetapkan pembedaan penting:
+
+**Candidate Design Principle**  
+→ commitment desain yang sedang diusulkan dan diuji.
+
+**Accepted Design Principle**  
+→ commitment desain yang telah melewati proses pengujian dan diterima sebagai posisi dalam Principles TUMBUH.
+
+Dengan demikian:
+
+~~~text
+PROBE finding
+      ↓
+candidate
+      ↓
+testing
+      ↓
+acceptance decision
+      ↓
+accepted Principle
+~~~
+
+Tidak setiap hasil PROBE otomatis menjadi Principle repository.
+
+---
+
+## 4. Mengapa Validation Diperlukan?
+
+Sebuah gagasan dapat terdengar masuk akal tetapi tetap tidak memenuhi fungsi Design Principle.
+
+Misalnya:
+
+- hanya mengulang Core Principle;
+- hanya berlaku pada satu keputusan;
 - tidak menghasilkan konsekuensi desain;
-- bergantung pada evidence yang lemah;
-- tidak dapat digunakan untuk membedakan alternatif desain;
-- sebenarnya merupakan preference atau decision.
+- sebenarnya merupakan Core Model;
+- sebenarnya merupakan Method;
+- hanya merupakan preference;
+- atau tidak memiliki reasoning yang dapat ditelusuri.
 
-Maka penerimaan membutuhkan kriteria yang dapat diperiksa.
+Karena itu pertanyaan validasi harus kembali kepada fungsi Design Principle yang dirumuskan pada P0007.
 
-## 3. Dimensi Validasi
+---
 
-Berdasarkan inquiry sebelumnya, candidate Design Principle setidaknya perlu diuji pada enam dimensi.
+## 5. Dimensi Validasi
+
+P0009 menghasilkan enam dimensi utama.
 
 ### A. Normative Coherence
 
-Apakah candidate konsisten dengan Philosophy dan Core Principles?
+> Apakah candidate konsisten dengan Philosophy dan Core Principles TUMBUH?
 
-Candidate yang bertentangan dengan komitmen fundamental tidak dapat diterima hanya karena secara teknis menarik.
+Candidate tidak dapat diterima jika bertentangan dengan commitment fundamental hanya karena secara teknis menarik.
 
 ### B. Design Function
 
-Apakah candidate benar-benar mengarahkan desain?
+> Apakah candidate benar-benar mengarahkan pemilihan, pembentukan, atau evaluasi desain?
 
-Sebuah prinsip harus menghasilkan konsekuensi yang dapat digunakan ketika memilih, membentuk, atau mengevaluasi desain.
+Jika tidak ada konsekuensi terhadap desain, statusnya sebagai Design Principle perlu dipertanyakan.
 
 ### C. Generality
 
-Apakah candidate cukup umum untuk berlaku pada lebih dari satu keputusan atau komponen yang relevan?
+> Apakah candidate dapat digunakan pada lebih dari satu keputusan atau situasi desain yang relevan?
 
-Jika hanya menjelaskan satu keputusan, kemungkinan ia adalah decision.
+Jika hanya menjelaskan satu keputusan, ia mungkin merupakan Decision.
 
 ### D. Non-Redundancy
 
-Apakah candidate memberikan fungsi yang berbeda dari:
+> Apakah candidate memiliki fungsi yang berbeda dari Principles atau objek sistem lain yang sudah ada?
 
-- Core Principle;
-- Design Principle lain;
-- Core Model;
-- method;
-- decision?
-
-Jika tidak, candidate perlu digabung, dipindahkan, atau ditolak.
+Jika tidak, candidate mungkin perlu digabung, dipindahkan, atau tidak dilanjutkan.
 
 ### E. Justification
 
-Apakah alasan keberadaan candidate dapat dijelaskan?
+> Apakah alasan keberadaan candidate dapat dijelaskan sesuai jenis klaimnya?
 
-Justification dapat berasal dari kombinasi:
+Justification dapat melibatkan:
 
 - normative foundation;
 - system need;
 - evidence;
-- PROBE reasoning.
-
-Jenis dasar yang diperlukan dapat berbeda menurut jenis klaim.
+- reasoning PROBE.
 
 ### F. Traceability
 
-Apakah perjalanan dari sumber sampai candidate dapat ditelusuri?
+> Apakah perjalanan dari basis sampai candidate dan keputusan penerimaannya dapat ditelusuri?
 
 Minimal:
 
-**Source / Foundation → PROBE → Argument → Candidate → Decision**
+~~~text
+Foundation / Source
+      ↓
+PROBE
+      ↓
+Reasoning
+      ↓
+Candidate
+      ↓
+Acceptance Decision
+~~~
 
-Traceability membuat penerimaan dapat diaudit dan ditinjau ulang.
+---
 
-## 4. Validation Bukan Sekadar Empirical Proof
+## 6. Acceptance Bukan Empirical Proof
 
-Design Principle merupakan prinsip desain, bukan hipotesis empiris murni.
+Design Principle bukan hipotesis empiris murni.
 
-Karena itu tidak semua Design Principle dapat atau harus “dibuktikan” seperti sebuah fakta ilmiah.
+Karena itu acceptance tidak berarti:
 
-Yang diuji adalah apakah argumentasi yang menopangnya cukup kuat untuk menjadikannya komitmen desain.
+> “prinsip ini telah terbukti benar secara ilmiah.”
 
-Evidence tetap penting terutama ketika candidate membuat klaim tentang konsekuensi nyata.
+Yang dinilai adalah apakah **commitment desain tersebut cukup beralasan untuk dipertahankan sebagai posisi TUMBUH**.
+
+Evidence tetap penting apabila candidate membuat klaim empiris atau bergantung pada konsekuensi yang dapat diperiksa secara empiris.
 
 Maka:
 
-**Evidence ≠ acceptance**
+~~~text
+Evidence
+≠
+Acceptance
+~~~
 
-dan:
+Yang diperlukan adalah kesesuaian antara **jenis claim** dan **jenis justification**.
 
-**absence of empirical proof ≠ automatic rejection**
+---
 
-Yang diperlukan adalah kesesuaian antara jenis klaim dan jenis justification yang digunakan.
+## 7. Acceptance Test
 
-## 5. Acceptance Test
+Working acceptance test P0009:
 
-Candidate Design Principle dapat melewati acceptance test berikut:
+### Test 1 — Foundation
 
-### Test 1 — Foundation Test
+Apakah candidate konsisten dengan fondasi TUMBUH?
 
-> Apakah candidate konsisten dengan Philosophy dan Core Principles?
+### Test 2 — Design Function
 
-### Test 2 — Function Test
+Apakah candidate mempunyai konsekuensi terhadap pilihan atau pembentukan desain?
 
-> Apakah candidate mengubah atau membatasi cara kita merancang?
+### Test 3 — Reuse
 
-### Test 3 — Reuse Test
+Apakah candidate cukup general untuk digunakan kembali?
 
-> Apakah candidate dapat digunakan pada lebih dari satu keputusan desain yang relevan?
+### Test 4 — Distinction
 
-### Test 4 — Distinction Test
+Apakah candidate berbeda secara substantif dari Principle, Model, Method, atau Decision yang sudah ada?
 
-> Apakah candidate memiliki fungsi yang berbeda dari konsep lain?
+### Test 5 — Justification
 
-### Test 5 — Justification Test
+Apakah reasoning dan basisnya cukup untuk jenis claim yang dibuat?
 
-> Apakah dasar argumentasinya memadai dan sesuai dengan jenis klaimnya?
+### Test 6 — Traceability
 
-### Test 6 — Traceability Test
+Apakah asal-usul dan reasoning dapat ditelusuri?
 
-> Apakah sumber, inquiry, reasoning, dan keputusan penerimaan dapat ditelusuri?
+### Test 7 — Counterexample
 
-### Test 7 — Counterexample Test
+Apakah candidate tetap masuk akal ketika diuji terhadap kondisi yang berpotensi membatasi atau menantangnya?
 
-> Apakah terdapat contoh yang secara masuk akal menunjukkan candidate terlalu absolut, terlalu sempit, atau menghasilkan konsekuensi yang bertentangan dengan tujuan sistem?
+Ketujuh test tersebut adalah **working tests**, bukan checklist mekanis yang harus selalu menghasilkan jawaban biner.
 
-Test terakhir penting karena sebuah prinsip dapat terlihat baik dalam satu contoh tetapi gagal ketika diterapkan pada kondisi berbeda.
+---
 
-## 6. Tidak Semua Test Harus Bernilai Biner
+## 8. Counterexample sebagai Boundary Test
 
-Acceptance tidak selalu harus berupa checklist mekanis.
+Counterexample tidak terutama digunakan untuk “membuktikan candidate salah”.
 
-Beberapa dimensi dapat membutuhkan judgment.
+Ia digunakan untuk menemukan **batas validitasnya**.
 
-Misalnya, sebuah candidate mungkin memiliki:
+Pertanyaan:
 
-- foundation yang kuat;
-- relevance desain yang tinggi;
-- tetapi generality yang masih lemah.
+> **Dalam kondisi apa candidate ini gagal memberikan arah desain yang dapat dipertanggungjawabkan?**
 
-Dalam kondisi seperti itu, respons yang tepat belum tentu “reject”. Candidate dapat:
+Jika ditemukan masalah, beberapa respons mungkin:
 
-**revise → retest → accept**
+~~~text
+candidate
+   ↓
+revision
+   ↓
+scope / condition diperjelas
+   ↓
+retest
+~~~
 
-atau:
+Atau candidate dapat:
 
-**hold → collect evidence → retest.**
+- ditunda;
+- dipersempit;
+- digabung;
+- atau ditolak.
 
-Jadi acceptance process sebaiknya dipahami sebagai **governed reasoning**, bukan scoring sederhana.
+Dengan demikian counterexample membantu mencegah Principle dirumuskan terlalu absolut.
 
-## 7. Status Candidate
+---
 
-Untuk menjaga traceability, candidate dapat memiliki status kerja:
+## 9. Validation Tidak Harus Berakhir dengan Reject/Accept Langsung
+
+Sebuah candidate dapat memiliki:
+
+- foundation kuat;
+- design relevance kuat;
+- tetapi formulasi masih terlalu luas.
+
+Respons yang masuk akal bukan langsung reject.
+
+~~~text
+Candidate
+   ↓
+Under Review
+   ↓
+Needs Revision
+   ↓
+Retest
+   ↓
+Accepted / Rejected
+~~~
+
+Karena itu status proses penting untuk menjaga traceability.
+
+---
+
+## 10. Status Candidate
+
+Working status:
 
 1. **Candidate** — baru dirumuskan.
 2. **Under Review** — sedang diuji.
-3. **Needs Revision** — memiliki dasar tetapi formulasi/fungsinya belum memadai.
-4. **Accepted** — telah diterima sebagai Design Principle.
+3. **Needs Revision** — dasar/fungsi ada tetapi formulasi perlu diperbaiki.
+4. **Accepted** — diterima sebagai Design Principle.
 5. **Rejected** — tidak memenuhi dasar penerimaan.
-6. **Superseded** — pernah diterima tetapi kemudian digantikan.
-7. **Merged** — digabung dengan candidate atau principle lain.
+6. **Merged** — digabung dengan candidate atau Principle lain.
+7. **Superseded** — pernah diterima tetapi kemudian digantikan.
 
-Status ini merupakan mekanisme traceability, bukan ranking kualitas.
+Status tersebut menunjukkan **state governance**, bukan ranking kualitas.
 
-## 8. Siapa yang Menerima?
+---
 
-P0009 perlu membedakan **epistemic validation** dari **repository acceptance**.
+## 11. Acceptance Bukan Scoring
 
-PROBE dapat menghasilkan argumentasi bahwa sebuah candidate layak dipertimbangkan.
+P0009 tidak mendukung model:
 
-Tetapi memasukkannya ke Foundation/Principles merupakan keputusan arsitektural TUMBUH.
+~~~text
+Foundation = 8
+Design = 9
+Evidence = 7
+Traceability = 10
+TOTAL = 34
+~~~
 
-Dengan demikian:
+Tidak ada dasar yang cukup pada inquiry ini untuk mengubah acceptance menjadi skor numerik.
 
-**PROBE = inquiry dan reasoning**
+Beberapa pertimbangan membutuhkan judgment dan dapat saling berhubungan.
 
-sedangkan:
+Karena itu:
 
-**Foundation = accepted system position**
+> **Acceptance lebih tepat dipahami sebagai governed reasoning daripada scoring.**
 
-P0009 tidak menetapkan siapa individu atau badan yang harus menjadi final authority. Hal tersebut merupakan bagian dari governance TUMBUH yang masih perlu dikaji.
+---
 
-## 9. Model Acceptance
+## 12. Peran PROBE
 
-Working model:
+PROBE dapat:
 
-**Candidate**
-↓
-**Foundation & Design Relevance Test**
-↓
-**Evidence / Reasoning Review**
-↓
-**Counterexample / Consequence Test**
-↓
-**Revision if needed**
-↓
-**Acceptance Decision**
-↓
-**Repository Principle**
-↓
-**Traceability Back to PROBE**
+- menemukan evidence;
+- menguji argumentasi;
+- mengidentifikasi counterexample;
+- mengembangkan candidate;
+- menunjukkan kelemahan;
+- dan menyusun reasoning.
 
-Model ini memungkinkan repository menyimpan prinsip yang relatif stabil tanpa menghilangkan sejarah reasoning yang menghasilkannya.
+Namun:
 
-## 10. Mengapa Counterexample Penting?
+> **PROBE tidak otomatis memiliki kewenangan untuk menetapkan candidate sebagai accepted Principle.**
 
-Sebuah prinsip desain sering terlihat benar karena diuji pada contoh yang mendukungnya.
+Pembedaan ini menjaga perbedaan antara **inquiry** dan **repository position**.
 
-Karena itu perlu pertanyaan:
+---
 
-> “Dalam kondisi apa prinsip ini menghasilkan desain yang buruk atau bertentangan dengan Core Principles?”
+## 13. Boundary
 
-Jika candidate gagal menghadapi counterexample, ada beberapa kemungkinan:
+P0009 **tidak** sedang:
 
-- formulasi terlalu absolut;
-- domain penerapan perlu dibatasi;
-- candidate perlu dipecah;
-- candidate sebenarnya merupakan preference;
-- atau candidate memang perlu ditolak.
+- menentukan siapa authority final Principles TUMBUH;
+- menetapkan governance organisasi;
+- menentukan candidate Design Principle tertentu;
+- menetapkan jumlah Principles;
+- atau membangun sistem scoring.
 
-Counterexample bukan sekadar upaya mencari kesalahan. Ia merupakan alat untuk menemukan **batas validitas prinsip**.
+Fokusnya hanya:
 
-## 11. Temuan
+> **menentukan kecukupan reasoning dan pengujian yang diperlukan sebelum candidate Design Principle dapat dipertimbangkan sebagai accepted position.**
 
-1. Candidate Design Principle harus dibedakan dari Accepted Design Principle.
-2. Tidak semua hasil PROBE otomatis menjadi prinsip repository.
-3. Acceptance membutuhkan pengujian terhadap coherence, design function, generality, non-redundancy, justification, dan traceability.
-4. Evidence penting tetapi bukan satu-satunya bentuk legitimasi.
-5. Design Principle tidak harus diperlakukan sebagai hipotesis empiris murni.
-6. Counterexample diperlukan untuk menguji batas dan konsekuensi candidate.
-7. Candidate dapat direvisi, ditunda, ditolak, diterima, digabung, atau kemudian disupersede.
-8. Acceptance merupakan governed reasoning, bukan sekadar checklist atau scoring.
-9. P0009 belum menetapkan final authority governance; hal tersebut membutuhkan inquiry tersendiri.
+---
 
-## 12. Keputusan Sementara
+## 14. Repository Destination
 
-**PASS — TUMBUH MEMERLUKAN ACCEPTANCE PROCESS UNTUK DESIGN PRINCIPLES.**
+Hasil P0009 diarahkan ke:
 
-Working acceptance criteria:
+**Principles → Design Principles → validation and acceptance**
 
-> **Sebuah candidate Design Principle layak diterima apabila konsisten dengan fondasi TUMBUH, memiliki fungsi desain yang nyata, cukup general, tidak redundan, memiliki justification yang memadai, dapat ditelusuri, dan mampu melewati pengujian konsekuensi serta counterexample yang relevan.**
+Temuan ini menjadi dasar untuk inquiry berikutnya mengenai **siapa atau mekanisme apa yang memiliki kewenangan untuk membuat acceptance decision**.
 
-Kriteria tersebut merupakan **working acceptance test**, bukan standar final yang tidak dapat direvisi.
+---
 
-## 13. Implikasi bagi Repository
+## 15. Implication for TUMBUH
 
-Repository Principles sebaiknya hanya memuat **accepted positions**, sedangkan:
+P0009 memberikan implikasi:
 
-- candidate;
-- argumentasi;
-- evidence;
-- counterexample;
-- revisi;
-- rejected/superseded reasoning
+> **TUMBUH membutuhkan pemisahan eksplisit antara candidate Design Principle dan accepted Design Principle.**
 
-tetap dapat dilacak melalui PROBE dan struktur evidence/research.
+Setiap candidate yang hendak masuk repository perlu memiliki jejak:
 
-Dengan demikian, repository final tidak perlu memuat seluruh proses berpikir, tetapi tidak pula kehilangan jejak bagaimana prinsip tersebut diperoleh.
+~~~text
+Basis
+ ↓
+Inquiry
+ ↓
+Reasoning
+ ↓
+Candidate
+ ↓
+Testing
+ ↓
+Acceptance Decision
+~~~
 
-## 14. Next Inquiry
+Dengan demikian, repository dapat menyimpan posisi yang relatif stabil tanpa menghapus sejarah inquiry yang mendasarinya.
 
-Pertanyaan berikutnya:
+---
 
-> **Siapa atau mekanisme apa yang berwenang mengubah candidate Design Principle menjadi accepted principle dalam epistemic governance TUMBUH?**
+## 16. Temuan Sementara
 
-P0010 akan menguji hubungan antara inquiry, judgment, governance, dan authority dalam penerimaan Principles.
+1. **Candidate Design Principle tidak sama dengan accepted Design Principle.**
+2. **Tidak semua hasil PROBE otomatis menjadi Principles repository.**
+3. **Validation perlu menguji normative coherence, design function, generality, non-redundancy, justification, dan traceability.**
+4. **Counterexample penting untuk menemukan batas validitas candidate.**
+5. **Acceptance bukan empirical proof.**
+6. **Candidate dapat direvisi, ditunda, digabung, ditolak, atau diterima.**
+7. **Acceptance sebaiknya dipahami sebagai governed reasoning, bukan scoring.**
+8. **PROBE menyediakan reasoning dan evidence, tetapi tidak otomatis menjadi authority penerimaan.**
 
-## Status
+Temuan ini masih provisional.
 
-**P0009 — selesai sebagai inquiry.**
+---
 
-**Temuan utama:** Candidate Design Principle membutuhkan acceptance process yang berbasis coherence, design function, generality, non-redundancy, justification, traceability, dan counterexample testing. Acceptance bukan scoring mekanis.
+## 17. Kesimpulan
 
-**Next inquiry:** P0010 — *Siapa atau mekanisme apa yang berwenang menerima Design Principle?*
+P0009 mendukung working model:
+
+~~~text
+CANDIDATE
+   ↓
+FOUNDATION + DESIGN TESTS
+   ↓
+EVIDENCE / REASONING REVIEW
+   ↓
+COUNTEREXAMPLE
+   ↓
+REVISION IF NEEDED
+   ↓
+ACCEPTANCE DECISION
+   ↓
+ACCEPTED DESIGN PRINCIPLE
+~~~
+
+Dengan model ini, sebuah Design Principle tidak diterima hanya karena terdengar masuk akal.
+
+Ia harus menunjukkan:
+
+- koherensi dengan fondasi TUMBUH;
+- fungsi desain yang nyata;
+- generalitas yang memadai;
+- perbedaan substantif dari kategori lain;
+- justification;
+- traceability;
+- dan kemampuan menghadapi counterexample yang relevan.
+
+Pertanyaan berikutnya harus tetap berada dalam boundary Principles TUMBUH:
+
+> **Jika acceptance merupakan keputusan yang berbeda dari inquiry, siapa atau mekanisme apa yang berwenang menetapkan bahwa candidate telah menjadi accepted Design Principle TUMBUH?**
+
+---
+
+## 18. Status Inquiry
+
+**Finding:** Candidate Design Principle membutuhkan proses validasi sebelum menjadi accepted position.
+
+**Working acceptance test:** coherence + design function + generality + non-redundancy + justification + traceability + counterexample.
+
+**Boundary:** P0009 belum menetapkan authority penerimaan.
+
+**Open question:** Siapa atau mekanisme apa yang berwenang menerima Design Principle TUMBUH?
