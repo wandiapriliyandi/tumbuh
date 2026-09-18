@@ -1,34 +1,45 @@
 # P0047 — Bagaimana Menentukan Boundary Impact agar Object yang Tidak Dibuka Kembali Tetap Konsisten?
 
-## Pertanyaan
+## Status
 
-**Jika perubahan dependency hanya menyebabkan sebagian object dibuka kembali, bagaimana menentukan boundary impact agar object lain yang tetap Accepted tetap konsisten?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0047  
+**Status:** Revised  
+**Type:** Impact Boundary and Consistency Inquiry
 
-P0046 menemukan bahwa perubahan Dependency Type tidak otomatis membuka seluruh parent dan downstream object. Reopen hanya dilakukan ketika terdapat credible indication of material impact.
+---
 
-P0047 menguji konsekuensi berikutnya:
+## 1. Object of Inquiry
+
+**Object of Inquiry:** Impact boundary dalam Principles TUMBUH ketika perubahan relationship hanya membuka sebagian object untuk review.
+
+P0046 menemukan bahwa reopening bersifat selective. P0047 menguji bagaimana memastikan object yang tidak dibuka kembali tetap konsisten.
+
+## 2. TUMBUH Question
 
 > **Bagaimana menentukan batas impact secara cukup ketat sehingga review tidak menjadi cascade, tetapi tidak terlalu sempit sehingga inconsistency terlewat?**
 
-## 1. Titik Berangkat
+## 3. Working Model
 
-P0039 menetapkan bahwa parent change tidak otomatis memicu review seluruh downstream.
+~~~text
+Change
+↓
+Impact Discovery
+↓
+Materiality
+↓
+Affected Boundary
+↓
+Targeted Review
+↓
+Consistency Check
+~~~
 
-P0046 menerapkan prinsip serupa pada Dependency Type Change.
+Boundary bukan seluruh object yang terhubung.
 
-Maka model dasarnya:
+## 4. Impact Boundary
 
-**Change**
-→ **Impact Discovery**
-→ **Materiality**
-→ **Affected Boundary**
-→ **Targeted Review**
-
-Boundary bukan sekadar semua object yang terhubung.
-
-## 2. Apa Itu Impact Boundary?
-
-Impact boundary adalah himpunan object dan relationship yang secara substantif perlu diperiksa karena sebuah perubahan dapat memengaruhi:
+Impact boundary adalah himpunan object dan relationship yang secara substantif perlu diperiksa karena perubahan dapat memengaruhi:
 
 - meaning;
 - identity;
@@ -39,37 +50,39 @@ Impact boundary adalah himpunan object dan relationship yang secara substantif p
 - justification;
 - governance.
 
-Boundary menentukan **seberapa jauh review perlu berjalan**.
+Boundary menjawab:
 
-## 3. Connected Tidak Sama dengan Affected
+> **Seberapa jauh review perlu berjalan?**
 
-Sebuah object dapat terhubung tetapi tidak terdampak.
+## 5. Connectivity ≠ Impact
+
+Object dapat terhubung tetapi tidak terdampak.
 
 Contoh:
 
-**P1 → I1 → C1**
+~~~text
+P1 → I1 → C1
+~~~
 
-Jika relationship P1–I1 berubah tetapi C1 hanya memiliki association dengan I1 dan tidak menggunakan consequence yang berubah, C1 tidak otomatis affected.
+Jika perubahan P1–I1 tidak mengubah consequence yang digunakan C1, C1 tidak otomatis affected.
 
-Maka:
+Working rule:
 
-**Connectivity ≠ Impact.**
+> **Connectivity menemukan candidate; consequence menentukan impact.**
 
-## 4. Direct dan Transitive Impact
+## 6. Direct dan Transitive Impact
 
 ### Direct Impact
 
-Object memiliki dependency langsung terhadap object/relationship yang berubah.
+Object memiliki substantive dependency langsung terhadap changed object/relationship.
 
 ### Transitive Impact
 
-Object tidak langsung terhubung, tetapi terdampak melalui perubahan pada intermediate object.
+Object terdampak melalui intermediate object yang berubah.
 
-P0039 menunjukkan bahwa transitive propagation hanya diperlukan jika substantive consequence berlanjut.
+Transitive propagation hanya diteruskan jika substantive consequence berlanjut.
 
-## 5. Impact Boundary sebagai Stop Condition
-
-Impact analysis membutuhkan stop condition.
+## 7. Stop Condition
 
 Working rule:
 
@@ -79,11 +92,9 @@ Ketika consequence berhenti, propagation berhenti.
 
 Ini mencegah governance cascade.
 
-## 6. Change Object
+## 8. Change Object
 
-Tidak semua change memiliki impact pattern yang sama.
-
-Perubahan dapat terjadi pada:
+Change dapat terjadi pada:
 
 - Principle;
 - Design Principle;
@@ -95,349 +106,243 @@ Perubahan dapat terjadi pada:
 - Evidence;
 - Governance status.
 
-Masing-masing membutuhkan impact analysis sesuai semantics.
+Impact pattern mengikuti semantics object yang berubah.
 
-## 7. Dependency-Aware Propagation
+## 9. Dependency-Aware Candidate Discovery
 
-Dependency type dari P0043 membantu menentukan kemungkinan jalur impact.
+Dependency type membantu menemukan candidate:
 
-Contoh:
+- **Derivational** → derivation review;
+- **Constraining** → design-space review;
+- **Conditional** → scope/applicability review;
+- **Supporting** → rationale review;
+- **Enabling** → option/availability review.
 
-**Derivational**
-→ re-derivation candidate.
+Type membantu discovery, bukan otomatis menetapkan affected status.
 
-**Constraining**
-→ design-space review candidate.
+## 10. Candidate ≠ Affected
 
-**Conditional**
-→ scope/applicability review candidate.
+**Candidate** adalah object yang layak diperiksa.
 
-**Supporting**
-→ rationale review candidate.
-
-**Enabling**
-→ option/availability review candidate.
-
-Type tidak otomatis menentukan affected status.
-
-Ia membantu **menemukan candidate impact**.
-
-## 8. Impact Candidate ≠ Affected Object
-
-Ini pembedaan penting.
-
-**Candidate**
-
-adalah object yang layak diperiksa.
-
-**Affected**
-
-adalah object yang setelah analysis terbukti atau cukup didukung memiliki substantive consequence.
+**Affected** adalah object yang setelah analysis memiliki substantive consequence.
 
 Maka:
 
-**Dependency graph → candidate set**
+~~~text
+Dependency Structure
+↓
+Candidate Set
+↓
+Materiality / Consequence Check
+↓
+Affected Set
+~~~
 
-bukan:
+## 11. Materiality Gate
 
-**Dependency graph → automatic reopen set.**
+Candidate perlu diperiksa terhadap:
 
-## 9. Materiality Gate
+- meaning;
+- scope;
+- derivation;
+- applicability;
+- design consequence;
+- acceptance rationale;
+- governance action.
 
-Setiap candidate perlu melewati materiality gate.
+Jika tidak ada material consequence, object dapat tetap Accepted.
 
-Pertanyaan:
+## 12. Consistency Tidak Berarti Identical
 
-- Apakah meaning berubah?
-- Apakah scope berubah?
-- Apakah derivation berubah?
-- Apakah applicability berubah?
-- Apakah design consequence berubah?
-- Apakah acceptance rationale berubah?
-- Apakah governance action berubah?
+Object yang tidak dibuka kembali tidak harus identik dengan object yang direvisi.
 
-Jika tidak ada consequence material, object dapat tetap Accepted.
+Yang dijaga adalah:
 
-## 10. Consistency Tidak Berarti Identical
+> **consistency of applicable reasoning**
 
-Object yang tidak dibuka kembali tidak harus memiliki konfigurasi identik dengan object yang direvisi.
+Setiap object harus tetap konsisten dengan Principles, dependencies, scope, conditions, dan constraints yang berlaku padanya.
 
-Yang harus dijaga adalah **consistency of applicable reasoning**.
+## 13. Local Consistency
 
-Contoh:
+Local consistency berarti object konsisten dengan:
 
-P1 berubah.
+- direct parents;
+- applicable constraints;
+- conditions;
+- criteria;
+- immediate design consequences.
 
-I1 direview dan direvisi.
+Ini biasanya menjadi first-level consistency check.
 
-I2 tidak direview karena dependency-nya tidak substantive.
+## 14. System-Level Coherence
 
-I1 dan I2 boleh memiliki bentuk berbeda selama masing-masing masih konsisten dengan principles dan dependencies yang berlaku.
+Global/system coherence berarti object tidak bertentangan dengan system-level commitments dan relationships yang berlaku.
 
-## 11. Local Consistency vs Global Consistency
+Tidak setiap local change memerlukan full system review.
 
-### Local Consistency
+Namun change pada foundational object dapat menghasilkan system-level candidate.
 
-Object konsisten dengan direct parents, constraints, conditions, dan criteria yang relevan.
+P0047 belum menetapkan kapan system-level review selalu wajib; itu menjadi inquiry berikutnya.
 
-### Global Consistency
+## 15. Boundary Berdasarkan Semantics
 
-Object tidak bertentangan dengan system-level commitments dan relationships yang berlaku.
-
-Tidak semua perubahan local memerlukan full global review.
-
-Namun perubahan foundational dapat memiliki global consequence.
-
-## 12. Boundary Berdasarkan Semantics
-
-Boundary sebaiknya ditentukan oleh semantics relationship, bukan:
+Boundary sebaiknya mengikuti semantics relationship, bukan:
 
 - jarak file;
-- urutan folder;
+- folder;
 - jumlah link;
 - kedekatan dokumen.
 
-Structural proximity hanya membantu discovery.
+Structural proximity membantu discovery tetapi tidak membuktikan impact.
 
-## 13. Boundary Berdasarkan Dependency Type
+## 16. Scope Boundary
 
-Contoh:
-
-### Necessary / Derivational
-
-Cari downstream yang menggunakan derivation tersebut.
-
-### Constraining
-
-Cari design objects yang bergantung pada constraint.
-
-### Conditional
-
-Cari objects yang berada dalam condition/scope tersebut.
-
-### Supporting
-
-Cari objects yang menggunakan parent sebagai rationale.
-
-### Enabling
-
-Cari design options yang hanya tersedia karena parent.
-
-Ini adalah search heuristic, bukan automatic reopen rule.
-
-## 14. Boundary Berdasarkan Consequence
-
-Consequence lebih penting daripada type ketika menentukan boundary.
-
-Jika perubahan relationship menghasilkan:
-
-**Meaning change**
-
-→ review objects yang menggunakan meaning tersebut.
-
-Jika:
-
-**Scope change**
-
-→ review objects dalam affected scope.
-
-Jika:
-
-**Derivation change**
-
-→ review derived downstream.
-
-Jika:
-
-**Governance consequence**
-
-→ review governance-relevant objects.
-
-## 15. Scope Boundary
-
-Scope dapat menjadi boundary yang sangat penting.
+Scope dapat membatasi impact.
 
 Contoh:
 
-P1 berubah hanya untuk:
+~~~text
+P1 berubah untuk Context A
+~~~
 
-**Pesantren type X**
+Object yang hanya berlaku pada Context B tidak otomatis masuk boundary jika tidak ada overlap substantif.
 
-Maka object yang hanya berlaku:
+## 17. Condition Boundary
 
-**Sekolah type Y**
+Jika:
 
-tidak otomatis masuk review.
+~~~text
+P1 → I1 under C1
+~~~
 
-Ini mencegah over-propagation.
-
-## 16. Condition Boundary
-
-Condition juga dapat membatasi impact.
-
-Jika relationship berubah:
-
-**P1 → I1 under C1**
-
-maka impact analysis harus mencari object yang berada di C1.
+impact perlu mengikuti object yang berada pada C1.
 
 Object di luar C1 dapat tetap unaffected.
 
-## 17. Evidence Boundary
+## 18. Consequence Boundary
 
-Perubahan evidence tidak selalu berarti principle atau downstream object berubah.
+Consequence lebih menentukan daripada type.
 
-Misalnya evidence baru:
+Jika perubahan menghasilkan:
 
-- memperkuat existing rationale;
-- menggantikan source lama tanpa mengubah claim;
+- **meaning change** → cari objects yang menggunakan meaning;
+- **scope change** → cari objects dalam affected scope;
+- **derivation change** → cari derived downstream;
+- **constraint change** → cari design alternatives yang menggunakan constraint;
+- **governance consequence** → cari governance-relevant objects.
+
+## 19. Evidence Boundary
+
+Evidence change tidak otomatis memperluas boundary.
+
+Evidence dapat:
+
+- memperkuat rationale;
+- mengganti source tanpa mengubah claim;
 - menambah corroboration.
 
-Impact boundary mungkin hanya:
+Jika claim berubah substantively, boundary dapat meluas.
 
-**Evidence → rationale/reference**
+## 20. Rationale Boundary
 
-Jika evidence mengubah substantive claim, boundary dapat meluas.
+Rationale change perlu dibedakan dari commitment change.
 
-## 18. Rationale Boundary
+Jika commitment tetap:
 
-Perubahan rationale perlu dibedakan dari perubahan commitment.
+**Relationship/Object may be retained**
 
-Jika rationale berubah tetapi commitment tetap:
+Jika rationale baru menunjukkan commitment berbeda:
 
-**relationship/object may be retained**
+**Object reopen candidate**
 
-Jika rationale baru menunjukkan bahwa commitment sebenarnya berbeda:
+## 21. Acceptance Boundary
 
-**object reopen candidate.**
-
-## 19. Acceptance Boundary
-
-Perubahan acceptance status pada satu relationship tidak otomatis mengubah acceptance status seluruh connected objects.
+Relationship acceptance dan object acceptance memiliki lifecycle berbeda.
 
 Contoh:
 
-**R1 relationship reopened**
+~~~text
+Relationship reopened
+~~~
 
 tidak otomatis berarti:
 
-**P1 rejected**
+~~~text
+Parent rejected
+Downstream rejected
+~~~
 
-atau:
+Setiap object membutuhkan analysis sendiri.
 
-**I1 rejected.**
+## 22. Historical Boundary
 
-Status masing-masing object tetap memiliki lifecycle sendiri.
+Current change tidak otomatis mengubah historical record.
 
-## 20. Boundary dan Object Status
+Working model:
 
-Impact analysis perlu memperhatikan status:
-
-- Candidate;
-- Under Review;
-- Accepted;
-- Active;
-- Superseded;
-- Rejected;
-- Retained after review.
-
-Object yang Superseded tidak selalu perlu menjadi target review aktif.
-
-Namun historical traceability mungkin tetap perlu diperbarui.
-
-## 21. Boundary dan Historical Objects
-
-Jika object lama digunakan sebagai historical reference, perubahan current relationship tidak otomatis berarti history harus ditulis ulang.
-
-Lebih tepat:
-
-**Current relationship revised**
-
-sementara:
-
-**historical record retained**
-
-dengan link ke change event.
+~~~text
+Current relationship revised
++
+Historical record retained
++
+Change event linked
+~~~
 
 Ini menjaga reconstructability.
 
-## 22. Boundary dan Composite Dependency
+## 23. Composite Dependency
 
 Untuk:
 
-**P1 + P2 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
 jika P1 berubah, I1 menjadi candidate.
 
-Tetapi impact tidak otomatis menyebar ke semua object yang juga menggunakan P2.
+Namun perlu diperiksa kontribusi P1.
 
-Contribution reasoning perlu diperiksa:
+Pertanyaan:
 
-> Apakah bagian I1 yang bergantung pada P1 berubah?
+> **Apakah bagian I1 yang bergantung pada P1 berubah?**
 
-Jika tidak, I1 mungkin dapat retained.
+Jika tidak, I1 dapat tetap Accepted.
 
-## 23. Boundary dan Shared Downstream
+## 24. Shared Downstream
 
-Satu downstream object dapat memiliki banyak parents.
+Satu downstream dapat memiliki banyak parents.
 
-Perubahan satu parent tidak berarti seluruh object harus diubah.
+Perubahan satu parent tidak otomatis mengubah seluruh object.
 
-Perlu diperiksa:
+Periksa:
 
-- contribution parent;
+- contribution;
 - dependency type;
 - scope;
 - consequence.
 
-Object dapat tetap Accepted jika changed parent tidak mengubah substantive meaning.
+## 25. Shared Parent
 
-## 24. Boundary dan Shared Parent
+Satu parent dapat memiliki downstream dengan semantics berbeda:
 
-Satu parent dapat memiliki banyak downstream.
+~~~text
+P1 → I1 [derivational]
+P1 → I2 [supporting]
+~~~
 
-Tidak semua downstream memiliki dependency yang sama.
+Keduanya dapat menjadi candidates, tetapi review focus berbeda.
 
-Contoh:
+## 26. Neighboring Relationships
 
-**P1 → I1 [derivational]**
+Relationship di sekitar changed relationship tidak otomatis affected.
 
-**P1 → I2 [supporting]**
-
-Perubahan P1 lebih langsung memengaruhi derivation I1 daripada rationale I2.
-
-Keduanya menjadi candidate dengan depth review berbeda.
-
-## 25. Boundary dan Relationship Changes
-
-Perubahan relationship dapat memengaruhi:
-
-- relationship itself;
-- parent;
-- downstream;
-- neighboring relationships.
-
-Neighboring relationship tidak otomatis affected.
-
-Ia masuk candidate set jika perubahan mengubah semantics yang mereka gunakan.
-
-## 26. Consistency Check
-
-Setelah targeted review selesai, perlu ada consistency check.
-
-Pertanyaan:
-
-> **Apakah object yang tidak direvisi masih konsisten dengan object dan relationship yang telah direvisi?**
-
-Consistency check tidak harus full re-review.
-
-Cukup memeriksa interface yang berubah.
+Ia menjadi candidate jika perubahan mengubah semantics yang digunakan relationship tersebut.
 
 ## 27. Interface Boundary
 
-Boundary dapat dipahami melalui **interface**.
+Boundary dapat dipahami melalui interface.
 
-Object yang perlu diperiksa adalah object yang menggunakan output dari object yang berubah:
+Object downstream menjadi candidate jika menggunakan output substantif dari changed object:
 
 - meaning;
 - scope;
@@ -447,36 +352,37 @@ Object yang perlu diperiksa adalah object yang menggunakan output dari object ya
 - criterion;
 - governance signal.
 
-Jika interface tidak berubah secara material, downstream mungkin tetap.
+Jika interface tidak berubah material, downstream mungkin tetap.
 
-## 28. Dependency Interface
+## 28. Consistency Check pada Interface
 
-Contoh:
+Setelah targeted review:
 
-**P1 → I1**
+> **Apakah object yang tidak direvisi masih konsisten dengan interface yang sekarang?**
 
-Jika hanya rationale P1 berubah dan I1 tidak menggunakan rationale tersebut sebagai acceptance basis, interface substantive tidak berubah.
+Consistency check tidak harus full re-review.
 
-I1 dapat tetap Accepted.
+Targetnya adalah bagian interface yang berubah.
 
-Sebaliknya, jika I1 derivation menggunakan commitment P1 yang berubah, interface berubah.
+## 29. Graph Cut sebagai Model Reasoning
 
-I1 menjadi review candidate.
+Secara konseptual:
 
-## 29. Boundary sebagai Graph Cut
+~~~text
+Changed Node/Edge
+↓
+Follow substantive dependencies
+↓
+Evaluate consequence
+↓
+Stop when material consequence stops
+~~~
 
-Secara konseptual, impact boundary dapat dilihat sebagai:
+Ini adalah model reasoning.
 
-**Changed Node/Edge**
-→ follow substantive edges
-→ evaluate consequence
-→ stop when no material consequence.
+Tidak berarti TUMBUH harus membangun graph teknis.
 
-Ini bukan keharusan bahwa TUMBUH harus membangun graph formal.
-
-Ini hanya model reasoning untuk menentukan boundary.
-
-## 30. False Negative Risk
+## 30. False Negative
 
 Boundary terlalu sempit dapat menyebabkan:
 
@@ -486,13 +392,11 @@ Boundary terlalu sempit dapat menyebabkan:
 - invalid criteria;
 - hidden governance conflict.
 
-Karena itu stop condition tidak boleh berarti berhenti hanya karena relationship tidak direct.
+Karena itu direct-only analysis tidak selalu cukup.
 
-Transitive consequence tetap harus diperiksa ketika credible.
+## 31. False Positive
 
-## 31. False Positive Risk
-
-Boundary terlalu luas menyebabkan:
+Boundary terlalu luas dapat menyebabkan:
 
 - unnecessary review;
 - governance fatigue;
@@ -500,11 +404,17 @@ Boundary terlalu luas menyebabkan:
 - excessive versioning;
 - loss of focus.
 
-Karena itu connectivity tidak boleh menjadi satu-satunya trigger.
+Karena itu connectivity tidak boleh menjadi automatic reopen rule.
 
-## 32. Boundary Review Depth
+## 32. Boundary vs Review Depth
 
-Tidak semua affected object membutuhkan kedalaman sama.
+Dua keputusan perlu dipisahkan:
+
+> **Boundary menentukan siapa yang perlu diperiksa.**
+
+> **Materiality menentukan seberapa dalam pemeriksaan.**
+
+Possible depth:
 
 ### Reference Check
 
@@ -516,29 +426,21 @@ Untuk substantive dependency.
 
 ### Full Re-review
 
-Untuk identity/meaning/acceptance basis yang material.
+Untuk identity, meaning, atau acceptance basis yang material.
 
-Boundary menentukan **who needs review**.
+## 33. Reopen Decision
 
-Materiality menentukan **how deeply**.
+Working sequence:
 
-## 33. Boundary dan Reopen Decision
-
-Impact candidate:
-
-**Candidate**
-
+~~~text
+Candidate
 ↓
-
-**Materiality**
-
+Materiality
 ↓
-
-**Consistency/Interface Check**
-
+Consistency / Interface Check
 ↓
-
-**Reopen?**
+Reopen?
+~~~
 
 Possible outcomes:
 
@@ -548,19 +450,71 @@ Possible outcomes:
 - targeted object review;
 - full object reopen.
 
-Ini menjaga keputusan tetap proportional.
+## 34. Excluded Objects
 
-## 34. Boundary dan Governance Cascade
+Jika connected object tidak direview, exclusion sebaiknya dapat dijelaskan bila relationship material.
 
-Governance cascade terjadi ketika satu change menghasilkan chain of automatic reviews tanpa substantive justification.
+Contoh:
 
-P0047 mendukung model:
+~~~text
+I2 excluded
+because changed relationship does not alter I2 applicability, rationale, or design consequence.
+~~~
 
-> **Review follows consequence, not merely connectivity.**
+Exclusion rationale membantu auditability.
 
-## 35. Minimum Impact Record
+## 35. Boundary Uncertainty
 
-Untuk perubahan material, impact analysis idealnya dapat mencatat:
+Tidak perlu numeric confidence score.
+
+Working states:
+
+- boundary sufficiently established;
+- boundary uncertain;
+- further inquiry required.
+
+Jika uncertainty dan consequence sama-sama tinggi, boundary dapat diperluas atau PROBE baru dilakukan.
+
+## 36. PROBE sebagai Boundary Resolver
+
+PROBE digunakan ketika repository reasoning belum cukup menentukan apakah suatu dependency substantif.
+
+Contoh:
+
+~~~text
+P1 change
+↓
+I3 dependency unclear
+↓
+PROBE inquiry
+↓
+dependency clarified
+↓
+boundary updated
+~~~
+
+Ini menjaga PROBE sebagai inquiry engine.
+
+## 37. Repository Architecture
+
+Struktur TUMBUH membantu discovery:
+
+~~~text
+Principles
+→ Core Model
+→ Progression
+→ Assessment
+→ Intervention
+→ Implementation
+~~~
+
+Tetapi folder/domain tidak dengan sendirinya membuktikan dependency formal.
+
+Impact ditentukan oleh reasoning relationship.
+
+## 38. Minimum Impact Record
+
+Untuk material change, impact analysis secara konseptual dapat mencatat:
 
 - changed object/relationship;
 - direct candidates;
@@ -569,143 +523,168 @@ Untuk perubahan material, impact analysis idealnya dapat mencatat:
 - dependency type;
 - consequence;
 - reviewed objects;
-- objects excluded and why;
+- excluded objects + rationale;
 - final action.
 
-Bagian “objects excluded and why” penting untuk auditability.
+## 39. Why Exclusion Matters
 
-## 36. Exclusion Is a Decision
+Jika object connected tetapi dikeluarkan dari boundary, alasan exclusion merupakan bagian dari traceability.
 
-Jika object yang terhubung tidak direview, alasan exclusion sebaiknya dapat dijelaskan bila relationship material.
+Ini memungkinkan reviewer memahami:
 
-Contoh:
+> **Mengapa object ini tidak dibuka kembali?**
 
-**I2 excluded — dependency is supporting only; changed type does not alter I2 rationale or applicability.**
+Bukan hanya:
 
-Ini lebih kuat daripada sekadar:
+> **Object ini tidak affected.**
 
-**I2 not affected.**
+## 40. Boundary dan Consistency
 
-## 37. Boundary Confidence
+Working model:
 
-Tidak perlu membuat numeric confidence score.
+~~~text
+Change
+↓
+Affected Boundary
+↓
+Targeted Review
+↓
+Interface Consistency Check
+↓
+Stable Accepted Objects
+~~~
 
-Namun reviewer dapat menyatakan:
+Object yang tetap Accepted bukan berarti bebas dari consistency check bila interface yang relevan berubah.
 
-- boundary sufficiently established;
-- boundary uncertain;
-- further inquiry required.
-
-Jika uncertainty tinggi dan consequence tinggi, review boundary perlu diperluas.
-
-## 38. Boundary dan PROBE
-
-PROBE dapat dipakai ketika impact boundary tidak dapat ditentukan hanya dari repository reasoning.
-
-Contoh:
-
-**P1 change**
-→ unclear whether I3 depends substantively on P1
-→ new PROBE inquiry.
-
-Ini menjaga PROBE sebagai inquiry engine, bukan memaksa governance menebak.
-
-## 39. Boundary dan Repository Architecture
-
-Struktur repository membantu menemukan candidate:
-
-**Principles**
-→ **Core Model**
-→ **Progression**
-→ **Assessment**
-→ **Intervention**
-→ **Implementation**
-
-Tetapi folder location tidak membuktikan dependency.
-
-Source structure yang tersedia memang menunjukkan adanya domain seperti Capacity, Progression, Assessment, dan Implementation Framework, tetapi belum menetapkan bahwa setiap hubungan antar-domain merupakan dependency formal. fileciteturn14file0L1-L38 fileciteturn14file2L1-L30
-
-Karena itu architecture membantu **discovery**, sementara dependency reasoning menentukan **impact**.
-
-## 40. Boundary dan Traceability
-
-Traceability membantu menjawab:
-
-> Apa yang berubah?
-> Apa yang bergantung?
-> Mengapa masuk atau keluar boundary?
-> Apa hasil review?
-
-Dengan demikian impact boundary merupakan bagian dari governance traceability.
-
-## 41. Temuan
-
-1. Impact boundary bukan semua connected objects.
-2. Connectivity ≠ impact.
-3. Direct dan transitive impact perlu dibedakan.
-4. Propagation membutuhkan substantive consequence sebagai stop condition.
-5. Dependency type membantu discovery, tetapi tidak otomatis menentukan affected status.
-6. Impact candidate berbeda dari affected object.
-7. Materiality gate menentukan apakah candidate benar-benar perlu ditinjau.
-8. Scope dan condition dapat membatasi boundary.
-9. Consequence lebih penting daripada structural proximity.
-10. Evidence/rationale changes tidak otomatis memengaruhi objects.
-11. Acceptance status setiap object tetap independen.
-12. Historical objects tidak otomatis perlu ditulis ulang.
-13. Composite dependency membutuhkan contribution analysis.
-14. Shared parent/downstream membutuhkan dependency-specific analysis.
-15. Consistency check dapat menggantikan full re-review ketika interface saja yang perlu diperiksa.
-16. Interface adalah cara berguna untuk menentukan boundary.
-17. Graph model dapat membantu reasoning tanpa menjadi keharusan technical architecture.
-18. Boundary terlalu sempit menghasilkan false negatives.
-19. Boundary terlalu luas menghasilkan false positives dan governance cascade.
-20. Boundary menentukan siapa yang perlu diperiksa; materiality menentukan kedalaman review.
-21. Excluded objects sebaiknya memiliki rationale bila relationship material.
-22. Numeric confidence score tidak diperlukan.
-23. PROBE dapat digunakan ketika boundary tidak cukup dapat ditentukan.
-24. Repository architecture membantu discovery tetapi tidak membuktikan dependency formal.
-25. Impact boundary merupakan bagian dari governance traceability.
-
-## 42. Keputusan Sementara
-
-**PASS — IMPACT BOUNDARY SEBAIKNYA DITENTUKAN BERDASARKAN SUBSTANTIVE DEPENDENCY, SEMANTIC CONSEQUENCE, SCOPE, CONDITION, DAN INTERFACE YANG BERUBAH, BUKAN SEMATA-MATA BERDASARKAN CONNECTIVITY ATAU POSISI STRUKTURAL. PROPAGATION BERHENTI KETIKA CREDIBLE MATERIAL CONSEQUENCE TIDAK LAGI BERLANJUT.**
+## 41. Boundary dan Governance Cascade
 
 Working rule:
 
 > **Review follows consequence, not merely connectivity.**
 
+Dengan demikian selective reopening dapat tetap menjaga coherence tanpa automatic cascade.
+
+## 42. Boundary dan System Coherence
+
+P0047 menemukan bahwa local consistency dan system coherence merupakan dua level berbeda.
+
+Local consistency biasanya cukup untuk selective change.
+
+Namun jika changed object menyentuh system-level commitment atau cross-domain invariant, system-level coherence check dapat diperlukan.
+
+Kapan kondisi ini menjadi wajib belum diputuskan pada P0047.
+
+## 43. Boundary dan Traceability
+
+Impact boundary merupakan bagian dari governance traceability karena harus dapat menjawab:
+
+- apa yang berubah;
+- apa yang menjadi candidate;
+- apa yang affected;
+- mengapa object tertentu dikeluarkan;
+- apa hasil review.
+
+## 44. Boundary
+
+P0047 **tidak**:
+
+- menetapkan automatic global review;
+- menetapkan numeric impact score;
+- menetapkan technical graph;
+- menganggap semua connected object affected;
+- menetapkan kapan system-level coherence check wajib.
+
+Fokusnya adalah **selective impact boundary dan consistency management dalam Principles TUMBUH**.
+
+## 45. Repository Destination
+
+Hasil P0047 diarahkan ke:
+
+**Principles → Design Principles → Dependency / Relationship → Impact / Boundary / Consistency / Traceability**
+
+Secara konseptual:
+
+~~~text
+Changed Object/Relationship
+→ Candidate Dependencies
+→ Material Consequence
+→ Affected Scope
+→ Reviewed Objects
+→ Excluded Objects + Rationale
+→ Action
+~~~
+
+## 46. Implikasi bagi TUMBUH
+
+Working rule:
+
+> **Impact boundary ditentukan berdasarkan substantive dependency, semantic consequence, scope, condition, dan changed interface; propagation berhenti ketika credible material consequence berhenti. Object yang tetap Accepted dapat dipertahankan setelah targeted interface consistency check bila interface yang relevan berubah.**
+
+Dengan demikian:
+
+**Boundary = Who to Check**
+
+**Materiality = How Deep to Check**
+
+**Consistency = Whether Retained Objects Still Fit**
+
+## 47. Temuan Sementara
+
+1. Impact boundary bukan semua connected objects.
+2. Connectivity ≠ impact.
+3. Direct dan transitive impact perlu dibedakan.
+4. Propagation membutuhkan substantive consequence sebagai stop condition.
+5. Dependency type membantu candidate discovery.
+6. Candidate ≠ affected object.
+7. Materiality gate menentukan affected status.
+8. Scope dan condition dapat membatasi boundary.
+9. Consequence lebih penting daripada structural proximity.
+10. Evidence/rationale change tidak otomatis memperluas boundary.
+11. Acceptance status setiap object tetap memiliki lifecycle sendiri.
+12. Historical objects tidak otomatis ditulis ulang.
+13. Composite dependency membutuhkan contribution analysis.
+14. Shared parent/downstream memerlukan dependency-specific analysis.
+15. Interface menjadi boundary yang berguna untuk consistency checking.
+16. Graph reasoning dapat membantu tanpa technical graph wajib.
+17. Boundary terlalu sempit menghasilkan false negatives.
+18. Boundary terlalu luas menghasilkan false positives.
+19. Boundary menentukan siapa yang diperiksa; materiality menentukan kedalaman.
+20. Excluded objects perlu rationale bila relationship material.
+21. Numeric confidence score tidak diperlukan.
+22. PROBE dapat menyelesaikan boundary uncertainty.
+23. Repository architecture membantu discovery, bukan membuktikan dependency.
+24. Local consistency dan system coherence adalah level berbeda.
+25. System-level coherence dapat diperlukan ketika foundational/cross-domain consequence muncul, tetapi trigger final belum ditetapkan.
+26. Impact boundary merupakan bagian dari traceability.
+
+Temuan ini masih provisional.
+
+## 48. Kesimpulan
+
+P0047 mendukung:
+
+> **Impact boundary sebaiknya mengikuti substantive dependency dan semantic consequence, bukan connectivity.**
+
 Dan:
 
-> **Boundary menentukan object yang perlu diperiksa; materiality menentukan kedalaman pemeriksaannya.**
+> **Object yang tidak dibuka kembali tetap dapat dipertahankan selama applicable reasoning dan changed interface telah diperiksa secara memadai.**
 
-## 43. Implikasi bagi Repository
+Working model:
 
-Impact record yang matang sebaiknya dapat menjelaskan:
+**Change → Boundary → Targeted Review → Interface Consistency → Retain / Reopen**
 
-**Changed Object/Relationship**
-→ **Candidate Dependencies**
-→ **Material Consequence**
-→ **Affected Scope**
-→ **Reviewed Objects**
-→ **Excluded Objects + Rationale**
-→ **Action**
+## 49. Next Inquiry
 
-Ini belum berarti repository harus langsung memiliki technical impact-analysis engine.
+> **Apakah consistency check cukup dilakukan pada boundary interface, atau perubahan tertentu harus memicu pemeriksaan ulang system-level coherence meskipun tidak semua object dibuka kembali?**
 
-Yang perlu ditetapkan terlebih dahulu adalah reasoning rule.
+P0048 akan menguji batas antara **local consistency** dan **system-level coherence** dalam Principles TUMBUH.
 
-## 44. Next Inquiry
+## 50. Status Inquiry
 
-P0048 akan menguji:
+**Finding:** Impact boundary harus mengikuti substantive consequence dan dependency, dengan interface consistency check untuk retained objects bila relevan.
 
-> **Apakah consistency check cukup dilakukan pada boundary interface, atau perubahan tertentu membutuhkan pemeriksaan ulang system-level coherence meskipun tidak semua object dibuka kembali?**
+**Working conclusion:** Selective reopening dapat menjaga coherence tanpa automatic global review.
 
-Ini melanjutkan dari **impact boundary** menuju **local consistency vs system coherence**.
+**Boundary:** Trigger final untuk system-level coherence check belum ditetapkan.
 
-## Status
-
-**P0047 — selesai sebagai inquiry.**
-
-**Temuan utama:** Impact boundary harus mengikuti substantive consequence, bukan connectivity. Candidate object perlu melewati materiality dan interface check; propagation berhenti ketika credible material consequence berhenti. Object yang tidak dibuka kembali tetap perlu dipastikan konsisten melalui targeted consistency check bila interface berubah.
-
-**Next inquiry:** P0048 — *Apakah Consistency Check Cukup pada Boundary Interface atau Kadang Harus Naik ke System-Level Coherence?*
+**Open question:** Kapan local consistency tidak lagi cukup?
