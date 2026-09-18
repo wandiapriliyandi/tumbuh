@@ -1,173 +1,398 @@
 # P0006 — Apakah Design Principles Merupakan Lapisan Konseptual yang Benar-Benar Diperlukan?
 
-## Pertanyaan
+## Status
 
-**Apakah Design Principles benar-benar diperlukan sebagai lapisan antara Core Principles dan Core Model, ataukah ia hanya artefak struktur repository?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0006  
+**Status:** Revised  
+**Type:** Design Principles Inquiry
 
-## 1. Titik Berangkat
+---
 
-P0004 mendukung struktur:
+## 1. Object of Inquiry
 
-Philosophy → Core Principles → Design Principles → Core Model.
+**Object of Inquiry:** Principles TUMBUH, khususnya fungsi **Design Principles** dalam hubungan antara Core Principles dan Core Model.
 
-P0005 kemudian menemukan bahwa prinsip dapat dibedakan menurut level dan domain. Design Principles berpotensi menjadi lapisan translasi dari komitmen fundamental menuju keputusan desain sistem.
+P0006 tidak sedang menetapkan isi Design Principles.
 
-P0006 menguji apakah fungsi tersebut memang substantif.
+---
 
-## 2. Apa yang Harus Dilakukan oleh Design Principles?
+## 2. TUMBUH Question
 
-Sebuah lapisan konseptual layak dipertahankan jika ia menjalankan fungsi yang tidak dapat dilakukan secara memadai oleh lapisan sebelum dan sesudahnya.
+> **Apakah TUMBUH membutuhkan Design Principles sebagai commitment pengarah desain di antara Core Principles dan Core Model, atau fungsi tersebut dapat dijalankan tanpa lapisan konseptual tersendiri?**
 
-Core Principles menjawab komitmen fundamental yang harus dijaga.
+Pertanyaan ini merupakan kelanjutan langsung P0005.
 
-Core Model menjelaskan bagaimana TUMBUH dimodelkan sebagai sistem.
+P0005 menunjukkan bahwa Core Principles dapat menjadi anchor bagi Principles yang lebih spesifik, tetapi belum membuktikan apakah diperlukan lapisan Design Principles.
 
-Maka ruang potensial Design Principles adalah pertanyaan antara keduanya:
+---
 
-> **Jika Core Principles sudah ditetapkan, bagaimana komitmen tersebut diterjemahkan menjadi aturan berpikir untuk merancang Core Model tanpa langsung melompat ke model tertentu?**
+## 3. Mengapa Pertanyaan Ini Penting?
 
-Jika pertanyaan ini memiliki fungsi nyata, Design Principles bukan sekadar folder.
+Struktur TUMBUH menempatkan:
 
-## 3. Mengapa Tidak Langsung dari Core Principles ke Core Model?
+~~~text
+CORE PRINCIPLES
+      ↓
+DESIGN PRINCIPLES
+      ↓
+CORE MODEL
+~~~
 
-Secara teoritis, lompatan langsung mungkin saja:
+Tetapi sebuah struktur repository tidak otomatis membuktikan bahwa setiap lapisan mempunyai fungsi konseptual yang diperlukan.
 
-Core Principles → Core Model.
+P0006 karena itu menggunakan pertanyaan:
 
-Namun lompatan tersebut berisiko membuat keputusan arsitektur tampak sebagai konsekuensi langsung dari prinsip fundamental, padahal biasanya terdapat pilihan desain di antaranya.
+> **Apa fungsi yang hilang jika Design Principles tidak ada?**
 
-Contohnya secara abstrak:
+Jika tidak ada fungsi substantif yang hilang, lapisan tersebut mungkin hanya artefak organisasi dokumen.
 
-Core Principle A
-→ beberapa kemungkinan cara menerjemahkan prinsip
-→ keputusan tentang struktur sistem
-→ Core Model.
+---
 
-Design Principle dapat membuat **logika translasi** tersebut eksplisit.
+## 4. Fungsi Core Principles
 
-## 4. Fungsi Design Principle sebagai Constraint
+P0004 dan P0005 memberikan working distinction:
 
-Design Principle dapat berfungsi sebagai constraint bagi desain.
+> **Core Principles menjaga commitment fundamental TUMBUH.**
 
-Ia tidak mengatakan secara rinci “gunakan model X”, tetapi mengatakan kondisi apa yang harus dipenuhi oleh model yang dipilih atau dibangun.
+Core Principles memberi arah dan batas pada sistem.
+
+Namun Core Principles tidak seharusnya menentukan seluruh bentuk Core Model secara langsung.
+
+Di antara:
+
+~~~text
+commitment fundamental
+        ↓
+model sistem
+~~~
+
+dapat terdapat berbagai alternatif desain.
+
+---
+
+## 5. Ruang yang Mungkin Diisi Design Principles
+
+Ketika satu Core Principle memungkinkan lebih dari satu kemungkinan desain, TUMBUH membutuhkan reasoning untuk menentukan karakteristik desain yang dapat diterima.
+
+Secara abstrak:
+
+~~~text
+CORE PRINCIPLE
+       ↓
+beberapa kemungkinan desain
+       ↓
+pertanyaan:
+“karakteristik desain apa yang harus dijaga?”
+       ↓
+DESIGN PRINCIPLE
+       ↓
+CORE MODEL
+~~~
+
+Dalam model ini Design Principle bukan sekadar “prinsip yang lebih rendah”.
+
+Ia mempunyai fungsi khusus:
+
+> **membuat commitment desain yang diperlukan agar penerjemahan Core Principles ke dalam model sistem dapat dipertanggungjawabkan.**
+
+---
+
+## 6. Mengapa Tidak Langsung Core Principle → Core Model?
+
+Lompatan langsung mungkin saja.
+
+~~~text
+CORE PRINCIPLE
+      ↓
+CORE MODEL
+~~~
+
+Tetapi lompatan tersebut dapat menyembunyikan reasoning desain.
+
+Misalnya terdapat dua alternatif model yang sama-sama tidak bertentangan secara langsung dengan Core Principle.
+
+Maka pertanyaan berikutnya muncul:
+
+> **Apa pertimbangan desain yang membuat salah satu atau keduanya dapat diterima oleh TUMBUH?**
+
+Jika pertimbangan tersebut bersifat reusable dan normatif pada tingkat desain, ia memiliki kandidat fungsi sebagai Design Principle.
+
+---
+
+## 7. Design Principle sebagai Design Constraint
+
+Working definition:
+
+> **Design Principle adalah commitment pada tingkat desain yang memberi arah atau batas ketika TUMBUH memilih, membangun, atau mengevaluasi alternatif desain.**
+
+Ia tidak harus menentukan satu desain tertentu.
+
+~~~text
+Design Principle
+      ↓
+membatasi design space
+      ↓
+beberapa desain masih mungkin
+      ↓
+Core Model / design decision
+~~~
+
+Ini penting agar Design Principle tidak berubah menjadi spesifikasi model.
+
+---
+
+## 8. Design Principle Bukan Core Model
+
+Perbedaannya:
+
+### Design Principle
+
+> **Commitment apa yang harus dijaga ketika desain dibuat?**
+
+### Core Model
+
+> **Bagaimana Sistem TUMBUH dimodelkan?**
+
+Jika sebuah rumusan sudah menetapkan komponen, struktur, urutan, mekanisme, atau arsitektur tertentu secara substantif, perlu diuji apakah rumusan tersebut sebenarnya sudah menjadi bagian dari Core Model.
+
+---
+
+## 9. Design Principle Bukan Core Principle
+
+Perbedaannya bukan sekadar tingkat kepentingan.
+
+### Core Principle
+
+Perubahan commitment berpotensi menyentuh arah atau identitas fundamental TUMBUH.
+
+### Design Principle
+
+Perubahan commitment terutama mengubah **cara sistem dirancang**, sementara commitment fundamental masih dapat dipertahankan.
 
 Dengan demikian:
 
-- Core Principle menjaga **arah normatif**.
-- Design Principle menjaga **cara berpikir desain**.
-- Core Model menetapkan **arsitektur konseptual sistem**.
+~~~text
+CORE PRINCIPLE
+→ fundamental commitment
 
-Ini merupakan fungsi yang berbeda.
+DESIGN PRINCIPLE
+→ design-level commitment
+~~~
 
-## 5. Design Principle Bukan Mini-Core Model
+---
 
-Jika sebuah Design Principle sudah menjelaskan struktur komponen, urutan proses, tahapan perkembangan, atau mekanisme sistem secara rinci, ia mulai mengambil fungsi Core Model.
+## 10. Design Principle Bukan Method
 
-Karena itu Design Principle harus tetap berada pada tingkat abstraksi yang tepat.
+Method menjawab:
 
-Perbedaannya dapat dirumuskan:
-
-**Core Principle:** apa yang tidak boleh hilang dari identitas sistem.
-
-**Design Principle:** bagaimana sebuah desain harus berpikir agar tidak melanggar komitmen tersebut.
-
-**Core Model:** seperti apa struktur konseptual sistem yang dihasilkan dari proses desain tersebut.
-
-## 6. Design Principle Bukan Decision Log
-
-Design Principle juga tidak sama dengan alasan historis mengapa sebuah keputusan tertentu dibuat.
-
-Decision log menjawab:
-
-> Mengapa kita memilih A daripada B pada suatu waktu?
+> **Bagaimana sesuatu dilakukan?**
 
 Design Principle menjawab:
 
-> Prinsip desain apa yang seharusnya digunakan ketika membuat pilihan seperti A atau B?
+> **Apa commitment yang harus dijaga ketika menentukan bagaimana sistem dirancang atau dijalankan?**
 
-Decision log bersifat kontekstual dan historis. Design Principle dimaksudkan lebih reusable dan general.
+Karena itu:
 
-## 7. Kapan Design Principle Tidak Diperlukan?
+~~~text
+Design Principle
+      ↓
+dapat membatasi pilihan method
+~~~
 
-Lapisan ini tidak perlu dipertahankan hanya demi kelengkapan struktur.
+tetapi:
 
-Jika semua keputusan dari Core Principles menuju Core Model dapat dijelaskan secara langsung tanpa kehilangan reasoning penting, maka Design Principles sebagai lapisan tersendiri mungkin berlebihan.
+> **Design Principle ≠ Method.**
 
-Begitu pula jika isi Design Principles ternyata hanya mengulang Core Principles atau sudah berupa bagian dari Core Model.
+---
 
-Maka keberadaan folder tidak boleh menjadi bukti keberadaan konsep.
+## 11. Design Principle Bukan Decision
 
-## 8. Uji Counterfactual
+Decision menjawab:
 
-Pertanyaan kuncinya:
+> **Pilihan konkret apa yang dibuat?**
 
-> **Apa yang hilang jika Design Principles dihapus?**
+Design Principle menjawab:
 
-Jika jawabannya hanya “folder prinsip desain tidak ada”, maka lapisan tersebut tidak memiliki justifikasi konseptual.
-
-Jika jawabannya:
-
-> “Kita kehilangan aturan translasi yang menjelaskan bagaimana Core Principles membatasi dan mengarahkan pembentukan Core Model,”
-
-maka Design Principles memiliki fungsi substantif.
-
-## 9. Hubungan dengan Domain Principles
-
-Temuan P0005 perlu dipertahankan: Design Principles bukan otomatis sinonim dengan Learning, Development, Assessment, Intervention, atau Implementation Principles.
-
-Design Principles dapat memberikan aturan desain lintas-domain, sementara domain-specific Principles menerjemahkan komitmen pada wilayah tertentu.
+> **Pegangan apa yang digunakan ketika pilihan seperti itu dibuat?**
 
 Secara konseptual:
 
-Core Principles
-→ Design Principles lintas sistem
-→ domain-specific implications
-→ model/framework/domain design.
+~~~text
+Design Principle
+      ↓
+criterion / consideration
+      ↓
+Decision
+~~~
 
-Namun beberapa domain dapat memiliki hubungan langsung dengan Core Principles jika tidak membutuhkan lapisan translasi tambahan.
+Decision dapat berubah karena konteks.
 
-## 10. Temuan
+Design Principle dimaksudkan lebih reusable daripada satu keputusan tertentu.
 
-1. Design Principles memiliki fungsi potensial yang berbeda dari Core Principles dan Core Model.
-2. Fungsi tersebut adalah membuat **logika translasi dari komitmen fundamental menuju desain sistem** menjadi eksplisit.
-3. Design Principles dapat berfungsi sebagai constraint terhadap alternatif desain tanpa menentukan model secara rinci.
-4. Design Principles bukan Core Model, bukan decision log, dan bukan method.
-5. Keberadaan Design Principles tidak boleh dibenarkan hanya karena struktur repository sudah menyediakannya.
-6. Uji keberadaan yang paling relevan adalah counterfactual: apakah reasoning penting hilang jika lapisan tersebut dihapus?
-7. Hubungan Design Principles dengan domain-specific Principles belum harus linear.
+---
 
-## 11. Keputusan Sementara
+## 12. Uji Counterfactual
 
-**PASS — DESIGN PRINCIPLES MEMILIKI JUSTIFIKASI KONSEPTUAL, DENGAN SYARAT FUNGSI TRANSLASINYA DIPERTAHANKAN.**
+P0006 menggunakan counterfactual untuk menguji keberadaan lapisan ini:
 
-Design Principles layak dipertahankan bukan karena namanya atau posisi foldernya, tetapi karena ia dapat menjembatani:
+> **Jika Design Principles dihilangkan, apakah TUMBUH kehilangan reasoning substantif antara Core Principles dan Core Model?**
 
-**Core Principles → aturan berpikir desain → Core Model.**
+### Jika tidak
 
-Jika pada inquiry berikutnya isi konkret Design Principles ternyata hanya mengulang Core Principles atau Core Model, keputusan ini harus dibuka kembali.
+Core Principles dapat langsung menjelaskan Core Model dengan cukup jelas.
 
-## 12. Implikasi bagi Repository
+Maka Design Principles mungkin tidak diperlukan sebagai lapisan tersendiri.
 
-Struktur saat ini:
+### Jika ya
 
-Philosophy → Core Principles → Design Principles → Core Model
+Dan reasoning yang hilang tersebut berupa commitment pengarah desain yang reusable, maka Design Principles mempunyai fungsi konseptual yang nyata.
 
-dapat dipertahankan sebagai **working architecture**.
+Jadi:
 
-Namun isi Design Principles nantinya harus diuji satu per satu berdasarkan fungsi translasi tersebut.
+~~~text
+hapus Design Principles
+        ↓
+reasoning desain hilang?
+   ├── tidak → lapisan mungkin tidak diperlukan
+   └── ya
+        ↓
+ada design-level commitment?
+   ├── tidak → cari bentuk representasi lain
+   └── ya → Design Principle justified
+~~~
 
-Dengan demikian PROBE tidak mengisi folder berdasarkan kategori semata. Setiap prinsip harus memiliki alasan keberadaan dan traceability yang jelas.
+---
 
-## 13. Next Inquiry
+## 13. Hubungan dengan Domain Principles
 
-> **Karakteristik seperti apa yang harus dimiliki sebuah Design Principle agar benar-benar berbeda dari Core Principle, Core Model, method, dan decision?**
+P0005 telah menunjukkan bahwa domain dan fundamentalitas merupakan dua dimensi berbeda.
 
-P0007 akan menguji batas definisional Design Principle secara lebih presisi.
+Karena itu Design Principles tidak otomatis sama dengan:
 
-## Status
+- Learning Principles;
+- Development Principles;
+- Assessment Principles;
+- Intervention Principles;
+- Implementation Principles.
 
-**P0006 — selesai sebagai inquiry.**
+Design Principle dapat bersifat lintas sistem.
 
-**Temuan utama:** Design Principles dapat dipertahankan sebagai lapisan konseptual karena berfungsi membuat logika translasi dari Core Principles menuju Core Model menjadi eksplisit. Justifikasinya bersifat fungsional, bukan karena struktur folder.
+Sementara prinsip domain bekerja pada wilayah tertentu.
 
-**Next inquiry:** P0007 — *Karakteristik apa yang membedakan Design Principle dari Core Principle, Core Model, method, dan decision?*
+Keduanya dapat berhubungan, tetapi tidak boleh disamakan hanya berdasarkan nama.
+
+---
+
+## 14. Tidak Semua Design Reasoning Harus Menjadi Design Principle
+
+Dalam proses desain akan muncul banyak pertimbangan.
+
+Tidak semuanya perlu dinaikkan menjadi Principle.
+
+Sebuah pertimbangan layak diuji sebagai Design Principle jika:
+
+- mempunyai commitment normatif;
+- relevan untuk lebih dari satu keputusan desain;
+- cukup stabil dan reusable;
+- membatasi atau mengarahkan design space;
+- dan mempunyai konsekuensi substantif bagi desain TUMBUH.
+
+Jika hanya berlaku pada satu keputusan:
+
+~~~text
+design reasoning
+→ decision
+~~~
+
+tidak perlu dibuat menjadi Principle.
+
+---
+
+## 15. Boundary
+
+P0006 **tidak** sedang:
+
+- menentukan isi Design Principles;
+- menentukan daftar Core Principles;
+- menentukan Core Model TUMBUH;
+- menentukan metode atau program;
+- atau menetapkan semua domain harus memiliki Design Principles.
+
+Fokusnya hanya:
+
+> **menguji apakah Design Principles memiliki fungsi konseptual yang tidak dapat digantikan secara memadai oleh Core Principles dan Core Model.**
+
+---
+
+## 16. Repository Destination
+
+Hasil P0006 diarahkan ke:
+
+**Principles → Design Principles**
+
+Temuan ini menjadi dasar untuk merumuskan batas dan karakteristik candidate Design Principle pada inquiry berikutnya.
+
+---
+
+## 17. Implication for TUMBUH
+
+P0006 memberikan implikasi sementara:
+
+> **Design Principles layak dipertahankan jika TUMBUH memang membutuhkan commitment reusable pada tingkat desain untuk menjembatani Core Principles dengan Core Model.**
+
+Justifikasi tersebut bersifat **fungsional**, bukan karena repository memiliki folder bernama Design Principles.
+
+Maka setiap candidate Design Principle nantinya harus dapat menjawab:
+
+> **“Apa fungsi desain yang menjadi lebih jelas atau lebih konsisten karena commitment ini dibuat eksplisit?”**
+
+---
+
+## 18. Temuan Sementara
+
+1. **Design Principles mempunyai fungsi potensial yang berbeda dari Core Principles dan Core Model.**
+2. **Fungsi tersebut adalah membuat commitment dan reasoning pada tingkat desain menjadi eksplisit.**
+3. **Design Principles dapat membatasi design space tanpa menentukan satu model tertentu.**
+4. **Design Principles bukan Core Principle, Core Model, Method, atau Decision.**
+5. **Tidak semua design reasoning perlu menjadi Design Principle.**
+6. **Keberadaan Design Principles harus dibenarkan oleh fungsi substantif, bukan struktur folder.**
+7. **Counterfactual dapat digunakan untuk menguji apakah lapisan ini benar-benar diperlukan.**
+
+Temuan ini masih provisional.
+
+---
+
+## 19. Kesimpulan
+
+P0006 mendukung **working hypothesis** bahwa Design Principles mempunyai fungsi konseptual yang diperlukan **apabila** TUMBUH membutuhkan commitment reusable untuk menjembatani Core Principles dengan Core Model.
+
+Hubungan kerja yang didukung:
+
+~~~text
+CORE PRINCIPLES
+      ↓
+DESIGN COMMITMENT
+      ↓
+DESIGN PRINCIPLES
+      ↓
+CORE MODEL
+~~~
+
+Namun ini belum membuktikan isi maupun jumlah Design Principles.
+
+Pertanyaan berikutnya harus memperjelas batasnya:
+
+> **Apa yang secara substantif membedakan Design Principle TUMBUH dari Core Principle, Core Model, Method, dan Decision?**
+
+Jawaban atas pertanyaan ini diperlukan sebelum candidate Design Principles mulai dirumuskan.
+
+---
+
+## 20. Status Inquiry
+
+**Finding:** Design Principles dapat memiliki fungsi substantif sebagai commitment reusable pada tingkat desain.
+
+**Working conclusion:** Lapisan Design Principles layak dipertahankan jika ia benar-benar membuat reasoning dan commitment desain yang tidak tertampung oleh Core Principles atau Core Model menjadi eksplisit.
+
+**Open question:** Apa karakteristik yang membedakan Design Principle dari Core Principle, Core Model, Method, dan Decision?
