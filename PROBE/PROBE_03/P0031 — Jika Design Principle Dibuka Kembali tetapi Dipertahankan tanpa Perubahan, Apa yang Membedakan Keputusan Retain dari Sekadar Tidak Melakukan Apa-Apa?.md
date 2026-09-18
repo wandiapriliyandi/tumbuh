@@ -1,240 +1,230 @@
 # P0031 — Jika Design Principle Dibuka Kembali tetapi Dipertahankan tanpa Perubahan, Apa yang Membedakan Keputusan Retain dari Sekadar Tidak Melakukan Apa-Apa?
 
-## Pertanyaan
+## Status
 
-**Jika sebuah Design Principle yang sudah Accepted dibuka kembali, kemudian hasil review menyimpulkan bahwa principle tetap dipertahankan tanpa perubahan, apa yang membedakan keputusan Retain dari sekadar tidak melakukan apa-apa?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0031  
+**Status:** Revised  
+**Type:** Design Principle Review Outcome Inquiry
 
-P0030 menemukan bahwa reopening adalah review gateway dan tidak otomatis berarti revision. Karena itu lifecycle membutuhkan outcome yang dapat menunjukkan bahwa review benar-benar terjadi dan menghasilkan keputusan.
+---
 
-## 1. Masalah yang Diuji
+## 1. Object of Inquiry
 
-Ada perbedaan penting antara:
+**Object of Inquiry:** Design Principles TUMBUH, khususnya outcome review ketika Principle yang telah Accepted dibuka kembali tetapi tidak memerlukan perubahan substantif.
 
-- principle tidak pernah direview;
-- principle direview tetapi tidak ada perubahan yang diperlukan;
-- principle direview dan secara eksplisit dipertahankan.
+P0030 menunjukkan bahwa reopening adalah review gateway dan tidak otomatis berarti revision. P0031 menguji makna **Retain** sebagai outcome review.
 
-Secara tekstual ketiganya dapat terlihat sama karena formulation principle tidak berubah.
+## 2. TUMBUH Question
 
-Secara governance, ketiganya berbeda.
+> **Jika Design Principle dibuka kembali tetapi akhirnya dipertahankan tanpa perubahan, apa yang membedakan keputusan Retain dari sekadar tidak melakukan apa-apa?**
 
-## 2. Retain Bukan No-Change
+## 3. No-Change ≠ Retain
 
-**No-change** hanya mendeskripsikan keadaan akhir:
+**No-change** hanya menggambarkan keadaan akhir:
 
-> formulation sebelum dan sesudah review tetap sama.
+> formulation sebelum dan sesudah review tidak berubah.
 
-**Retain** mendeskripsikan keputusan:
+**Retain** menggambarkan keputusan:
 
-> setelah review, governance memutuskan bahwa principle tetap dipertahankan dalam formulation, scope, dan status yang berlaku.
+> setelah review, governance memutuskan bahwa Principle tetap dipertahankan dalam formulation, scope, dan applicability yang berlaku.
 
-Dengan demikian:
+Maka:
 
-**No-change = state outcome.**
+> **No-change = state outcome.**  
+> **Retain = reviewed decision.**
 
-**Retain = reviewed decision.**
+## 4. Mengapa Retain Penting?
 
-## 3. Mengapa Perbedaan Ini Penting?
+Tanpa explicit review outcome, dua kondisi berikut tampak sama:
 
-Jika sistem hanya menyimpan current formulation, historical reasoning dapat hilang.
+1. Principle tidak pernah direview.
+2. Principle telah direview dan secara eksplisit dipertahankan.
+
+Padahal secara governance keduanya berbeda.
 
 Contoh:
 
-Design Principle X:
+~~~text
+Accepted
+↓
+Counterexample
+↓
+Reopened
+↓
+Review
+↓
+Retain
+~~~
 
-- Accepted pada 2026;
-- dibuka kembali karena counterexample;
-- evidence diperiksa;
-- scope diuji;
-- relationship ditinjau;
-- kemudian dinyatakan tetap valid.
+Formulation dapat tetap sama, tetapi system knowledge bertambah karena counterexample telah diperiksa.
 
-Jika repository hanya menunjukkan formulation yang sama, orang di masa depan tidak dapat mengetahui bahwa counterexample pernah diperiksa.
-
-Retain membuat keputusan tersebut dapat ditelusuri.
-
-## 4. Retain sebagai Outcome Lifecycle
+## 5. Retain sebagai Review Outcome
 
 Working lifecycle:
 
-**Accepted / Active**
-→ **Reopened**
-→ **Under Review**
-→ **Retain / Revise / Supersede / Merge / Split**
-→ **Accepted / Active**
+~~~text
+Accepted / Active
+↓
+Reopened
+↓
+Under Review
+↓
+Review Outcome
+↓
+Retain / Revise / Supersede / Merge / Split
+↓
+Accepted / Active
+~~~
 
-Retain bukan status identitas baru dari principle.
+Retain bukan identity baru dari Principle.
 
-Ia adalah **review outcome**.
+Ia adalah **outcome dari review event**.
 
-## 5. Retain Tidak Berarti Tidak Ada Temuan
+## 6. Retain Tidak Berarti Tidak Ada Temuan
 
-Review dapat menghasilkan temuan tanpa mengubah principle.
+Review dapat menghasilkan temuan tanpa mengubah Principle.
 
 Misalnya:
 
-- scope diperjelas dalam documentation tetapi semantic scope tetap sama;
-- counterexample ditemukan tetapi berada di luar scope;
+- counterexample ternyata di luar scope;
 - evidence baru memperkuat justification;
-- relationship dengan principle lain direvisi;
-- implementation failure ternyata bukan principle failure.
+- implementation failure ternyata bukan Principle failure;
+- relationship berubah tetapi Principle identity tetap valid;
+- boundary menjadi lebih jelas tanpa perubahan substantif pada Principle.
 
-Dalam situasi tersebut, principle dapat tetap dipertahankan.
+Dalam situasi tersebut Retain tetap dapat menjadi outcome yang bermakna.
 
-## 6. Retain dan Evidence Baru
+## 7. Retain dan Evidence Baru
 
-Evidence baru dapat memiliki tiga kemungkinan:
+Evidence baru dapat:
 
 1. memperkuat justification;
 2. tidak materially mengubah justification;
 3. melemahkan justification.
 
-Pada dua kemungkinan pertama, Retain dapat menjadi outcome yang tepat.
+Dua kemungkinan pertama dapat berakhir pada Retain.
 
-Pada kemungkinan ketiga, revision atau supersession mungkin diperlukan.
+Kemungkinan ketiga dapat membutuhkan revision atau supersession, tetapi hasil tetap bergantung pada keseluruhan review.
 
-Namun evidence yang melemahkan tidak otomatis menentukan hasil; governance tetap perlu menilai keseluruhan argument.
+Evidence baru tidak menentukan outcome secara otomatis.
 
-## 7. Retain dan Counterexample
+## 8. Retain dan Counterexample
 
-Counterexample adalah alasan penting untuk reopening.
+Counterexample dapat menjadi trigger reopening.
 
-Tetapi setelah dianalisis, counterexample dapat menunjukkan:
+Setelah dianalisis, counterexample dapat menunjukkan:
 
-- principle memang gagal;
+- Principle memang gagal;
 - counterexample berada di luar scope;
-- condition principle belum dinyatakan;
+- condition perlu ditambahkan;
 - masalah berada pada design translation;
 - masalah berada pada implementation.
 
-Karena itu counterexample dapat menghasilkan Retain.
+Karena itu counterexample tidak otomatis memaksa revision.
 
-Yang penting adalah adanya **reasoned disposition** terhadap counterexample tersebut.
+Yang penting adalah adanya **reasoned disposition**.
 
-## 8. Retain dan Scope
+## 9. Retain dan Scope
 
-Retain harus dibedakan dari scope revision.
-
-Jika scope berubah secara substantif, outcome lebih tepat disebut:
+Jika scope berubah secara substantif, outcome sebaiknya dicatat sebagai:
 
 - Narrow Scope;
 - Expand Scope;
 - Add Condition;
 - Revise.
 
-Jika formulation dan scope tetap sama setelah review, Retain lebih tepat.
+Jika scope dan meaning tetap sama setelah review, Retain lebih tepat.
 
-Perubahan administratif kecil tidak harus diperlakukan sebagai semantic revision.
+Perubahan editorial kecil tidak harus diperlakukan sebagai semantic revision.
 
-## 9. Retain dan Relationship Change
+## 10. Retain dan Relationship
 
-P0027 menemukan bahwa relationship dapat berubah tanpa mengubah identity principle.
+P0027 menunjukkan relationship dapat berubah tanpa mengubah Principle identity.
 
-Maka sebuah Design Principle dapat:
+Maka dapat terjadi:
 
-- tetap Retain;
-- sementara relationship-nya berubah.
+~~~text
+Principle A → Retain
+Relationship A–B → Revised
+~~~
 
-Contoh:
+Ini konsisten dengan pemisahan lifecycle antara Principle dan relationship.
 
-**Principle A** tetap accepted.
+## 11. Retain dan Upstream Change
 
-Tetapi relationship:
+Perubahan Core Principle atau Core Model dapat memicu review Design Principle.
 
-**A complements B**
-
-direvisi menjadi:
-
-**A is conditionally compatible with B.**
-
-Ini menunjukkan bahwa principle identity dan relational status memiliki lifecycle berbeda.
-
-## 10. Retain dan Core Model Change
-
-Perubahan Core Model dapat memicu reopening.
-
-Namun jika review menunjukkan bahwa Design Principle tetap menghasilkan design implication yang sesuai dengan architecture baru, principle dapat Retain.
+Namun jika review menunjukkan Principle tetap kompatibel dengan upstream architecture baru, outcome dapat berupa Retain.
 
 Dengan demikian:
 
-**upstream change → review obligation**
+> **upstream change → review obligation**
 
 bukan:
 
-**upstream change → automatic revision.**
+> **upstream change → automatic revision.**
 
-## 11. Retain sebagai Explicit Governance Decision
+## 12. Retain sebagai Explicit Governance Decision
 
-Agar Retain bermakna, record review sebaiknya memuat:
+Agar Retain bermakna, review record sebaiknya memuat:
 
-1. principle yang direview;
+1. Principle yang direview;
 2. trigger reopening;
 3. evidence/reasoning yang diperiksa;
 4. scope yang diperiksa;
-5. relationship yang diperiksa;
+5. relationship yang diperiksa jika relevan;
 6. design consequence yang diperiksa;
-7. temuan;
+7. findings;
 8. alasan mempertahankan;
 9. decision;
-10. tanggal/status review.
+10. review date/status.
 
-Tidak semua elemen harus berada di file principle utama, tetapi harus dapat ditelusuri.
+Tidak semua informasi harus berada di file Principle utama selama dapat ditelusuri.
 
-## 12. Retain Menghasilkan New Knowledge
+## 13. Retain Menghasilkan Knowledge
 
 Retain bukan sekadar mempertahankan keadaan lama.
 
-Review yang menghasilkan Retain dapat memperkaya pengetahuan sistem.
+Review dapat menghasilkan pengetahuan baru.
 
-Misalnya:
+Contoh:
 
-> “Counterexample X tidak membatalkan principle karena berada di luar scope.”
+> Counterexample X tidak membatalkan Principle karena berada di luar scope.
 
-Temuan tersebut memperjelas boundary principle.
+atau:
 
-Atau:
+> Implementation failure Y berasal dari design translation, bukan Principle.
 
-> “Implementation failure Y berasal dari translation design, bukan dari principle.”
-
-Ini membantu mencegah future misdiagnosis.
-
-## 13. Retain dan Confidence
-
-Tidak perlu mengubah Retain menjadi score atau confidence rating.
-
-P0029 menunjukkan bahwa acceptance bukan scoring system.
-
-Maka review outcome sebaiknya berupa keputusan dan rationale yang dapat diperiksa, bukan angka kepercayaan.
+Temuan tersebut memperjelas boundary dan mencegah kesalahan diagnosis di masa depan.
 
 ## 14. Retain Tidak Sama dengan “No Evidence of Failure”
 
-Ada perbedaan:
+Perbedaan:
 
 **No evidence of failure**
 
-berarti belum ditemukan bukti kegagalan.
-
-Sedangkan:
+→ belum ditemukan bukti kegagalan.
 
 **Retain**
 
-berarti setelah review, governance mengambil keputusan eksplisit bahwa principle tetap berlaku.
+→ setelah review, governance secara eksplisit memutuskan bahwa Principle tetap dipertahankan.
 
-Retain membutuhkan positive disposition, bukan sekadar absence of disproof.
+Karena itu Retain membutuhkan **positive disposition**, bukan sekadar ketiadaan disproof.
 
 ## 15. Retain dan Epistemic Humility
 
-Retain tidak harus menyatakan:
+Retain tidak perlu menyatakan:
 
 > “Principle terbukti benar.”
 
-Lebih tepat:
+Formulasi yang lebih tepat:
 
-> “Berdasarkan review saat ini, tidak terdapat alasan yang cukup untuk mengubah atau mencabut principle dalam scope yang berlaku.”
+> **“Berdasarkan review saat ini, tidak terdapat alasan yang cukup untuk mengubah atau mencabut Principle dalam scope yang berlaku.”**
 
-Ini menjaga revisability.
+Ini mempertahankan revisability.
 
-## 16. Retain vs Revise
+## 16. Retain vs Outcome Lain
 
 | Outcome | Makna |
 |---|---|
@@ -244,100 +234,145 @@ Ini menjaga revisability.
 | Expand Scope | Applicability diperluas |
 | Add Condition | Condition baru ditambahkan |
 | Revise | Commitment/design function/formulation substantif berubah |
-| Merge | Digabung dengan principle lain |
-| Split | Dipecah menjadi beberapa principle |
+| Merge | Digabung dengan Principle lain |
+| Split | Dipecah menjadi beberapa Principle |
 | Supersede | Digantikan formulation lain |
-| Reject | Tidak lagi diterima sebagai principle |
+| Reject | Tidak lagi diterima sebagai Principle |
 
-Beberapa outcome di atas masih merupakan working taxonomy dan dapat disederhanakan kemudian.
+Taxonomy ini masih working taxonomy.
 
 ## 17. Apakah Retain Harus Menjadi Status?
 
-Temuan P0031 menunjukkan:
+Temuan P0031:
 
-**Tidak.**
+> **Tidak.**
 
 Retain lebih tepat sebagai **review outcome**, bukan lifecycle status permanen.
 
-Status principle setelah Retain tetap dapat menjadi:
+Setelah Retain, Principle dapat kembali menjadi:
 
-**Accepted / Active.**
+**Accepted / Active**
 
-Yang berubah adalah historical review record.
+Sementara review event dan rationale disimpan sebagai historical record.
 
 ## 18. Minimum Lifecycle Model
 
-Working model:
-
-**Candidate**
-→ **Under Review**
-→ **Accepted**
-→ **Active**
-→ **Reopened**
-→ **Under Review**
-→ **Review Outcome**
-→ **Accepted / Active**
+~~~text
+Candidate
+↓
+Under Review
+↓
+Accepted
+↓
+Active
+↓
+Reopened
+↓
+Under Review
+↓
+Review Outcome
+↓
+Accepted / Active
+~~~
 
 Review Outcome dapat berupa:
 
-**Retain | Revise | Clarify | Scope Change | Merge | Split | Supersede | Reject**
+**Retain | Clarify | Scope Change | Revise | Merge | Split | Supersede | Reject**
 
-Model ini membuat status dan outcome tidak tercampur.
+Model ini menjaga distinction:
 
-## 19. Temuan
+**status ≠ outcome**
 
-1. Retain berbeda dari no-change.
-2. No-change menggambarkan keadaan; Retain menggambarkan keputusan review.
-3. Retain adalah review outcome, bukan status principle permanen.
-4. Reopening tanpa perubahan tetap menghasilkan governance event yang bermakna.
-5. Counterexample dapat menghasilkan Retain jika setelah review ternyata tidak membatalkan principle.
-6. Evidence baru dapat memperkuat atau tidak materially mengubah justification dan tetap menghasilkan Retain.
-7. Relationship dapat berubah sementara principle tetap Retain.
-8. Upstream change dapat memicu review tanpa otomatis menyebabkan revision.
-9. Retain harus memiliki rationale dan traceability.
-10. Retain tidak membutuhkan confidence score.
-11. Retain bukan klaim kebenaran absolut.
-12. Current principle status dapat tetap Accepted/Active setelah Retain.
-13. Lifecycle sebaiknya memisahkan status principle dari review outcome.
+## 19. Boundary
 
-## 20. Keputusan Sementara
+P0031 **tidak**:
 
-**PASS — RETAIN SEBAIKNYA DIPERLAKUKAN SEBAGAI REVIEW OUTCOME, BUKAN STATUS LIFECYCLE PERMANEN.**
+- menetapkan Retain sebagai status permanen;
+- menyatakan Retain sebagai proof of truth;
+- menetapkan confidence score;
+- mengharuskan semua review berakhir dengan perubahan;
+- atau menetapkan governance authority final.
 
-Working rule:
+Fokusnya adalah **makna explicit Retain sebagai outcome review Design Principle**.
 
-> **Jika sebuah Accepted Design Principle dibuka kembali dan setelah review tidak ditemukan alasan yang cukup untuk mengubah commitment, scope, atau applicability-nya, governance dapat memberikan outcome Retain. Retain harus dicatat sebagai keputusan review beserta trigger, evidence/reasoning, findings, dan rationale. Principle kemudian tetap berada pada status Accepted/Active.**
+## 20. Repository Destination
 
-## 21. Implikasi bagi Repository
+Hasil P0031 diarahkan ke:
 
-Repository perlu membedakan:
+**Principles → Design Principles → lifecycle → review outcome / traceability**
 
-- current principle status;
+Repository perlu dapat membedakan:
+
+- current Principle status;
 - review event;
 - review outcome;
 - rationale;
 - revision history.
 
-Tidak diperlukan folder atau status baru khusus bernama Retain.
+Tidak diperlukan folder atau status baru bernama Retain.
 
-Yang dibutuhkan adalah **traceable review record**.
+## 21. Implikasi bagi TUMBUH
 
-Ini memperkuat prinsip sebelumnya:
+Working model:
 
-**status ≠ outcome ≠ evidence ≠ relationship.**
+> **Reopening menghasilkan review event; review event menghasilkan explicit outcome.**
 
-## 22. Next Inquiry
+Sehingga:
 
-P0032 akan menguji:
+~~~text
+Accepted Principle
+↓
+Trigger
+↓
+Reopening
+↓
+Review
+↓
+Retain
+↓
+Accepted / Active
+~~~
 
-> **Apakah semua Design Principles perlu ditinjau secara berkala, atau periodic review hanya diperlukan untuk principle tertentu berdasarkan scope, consequence, dan uncertainty?**
+Formulation dapat tetap sama, tetapi history dan reasoning tidak hilang.
 
-Pertanyaan ini melanjutkan P0030 tentang triggered review dan membawa inquiry ke desain mekanisme periodic governance.
+## 22. Temuan Sementara
 
-## Status
+1. Retain berbeda dari no-change.
+2. No-change menggambarkan keadaan; Retain menggambarkan keputusan review.
+3. Retain adalah review outcome, bukan status Principle permanen.
+4. Reopening tanpa perubahan tetap menghasilkan governance event yang bermakna.
+5. Counterexample dapat menghasilkan Retain setelah diagnosis.
+6. Evidence baru dapat menghasilkan Retain jika tidak cukup material untuk mengubah Principle.
+7. Relationship dapat berubah sementara Principle tetap Retain.
+8. Upstream change dapat memicu review tanpa otomatis menyebabkan revision.
+9. Retain membutuhkan rationale dan traceability.
+10. Retain tidak membutuhkan confidence score.
+11. Retain bukan klaim kebenaran absolut.
+12. Current Principle status dapat kembali menjadi Accepted/Active setelah Retain.
+13. Lifecycle sebaiknya memisahkan status Principle dari review outcome.
 
-**P0031 — selesai sebagai inquiry.**
+Temuan ini masih provisional.
 
-**Temuan utama:** Retain bukan sekadar tidak adanya perubahan. Retain adalah keputusan governance setelah review bahwa Design Principle tetap layak dipertahankan. Karena itu Retain lebih tepat menjadi review outcome, sementara status principle tetap Accepted/Active.
+## 23. Kesimpulan
 
-**Next inquiry:** P0032 — *Apakah Semua Design Principles Perlu Ditinjau Secara Berkala?*
+P0031 mendukung working rule:
+
+> **Jika Design Principle yang telah Accepted dibuka kembali dan setelah review tidak ditemukan alasan yang cukup untuk mengubah commitment, scope, atau applicability-nya, governance dapat menetapkan outcome Retain. Retain harus dicatat beserta trigger, evidence/reasoning, findings, dan rationale. Setelah itu status Principle dapat kembali menjadi Accepted/Active.**
+
+Dengan demikian Retain menunjukkan bahwa **review benar-benar terjadi dan menghasilkan keputusan**, bukan sekadar tidak adanya perubahan tekstual.
+
+## 24. Next Inquiry
+
+> **Apakah semua Design Principles perlu ditinjau secara berkala, atau periodic review hanya diperlukan untuk Principles tertentu berdasarkan scope, consequence, dan uncertainty?**
+
+P0032 akan menguji hubungan antara periodic review dan triggered review yang telah dibahas pada P0030.
+
+## 25. Status Inquiry
+
+**Finding:** Retain merupakan outcome eksplisit dari review, bukan sekadar no-change.
+
+**Working conclusion:** Retain tidak perlu menjadi status permanen; status Principle dapat kembali Accepted/Active.
+
+**Boundary:** Belum menetapkan mekanisme periodic review.
+
+**Open question:** Apakah semua Design Principles perlu periodic review?
