@@ -347,7 +347,13 @@ Dengan demikian, traceability dapat menjadi **cross-cutting convention** seluruh
 
 ---
 
-## 17. Status Inquiry
+## 17. Next Inquiry
+
+> **Bagaimana membedakan substantive change dari perubahan yang hanya editorial atau administratif secara konsisten tanpa membuat setiap perubahan kecil masuk decision trace?**
+
+P0056 akan menguji **boundary substantive change** sebagai trigger traceability lintas TUMBUH.
+
+## 18. Status Inquiry
 
 **Finding:** Compact decision trace layak menjadi semantic minimum lintas TUMBUH untuk substantive changes.
 
