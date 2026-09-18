@@ -1,34 +1,35 @@
 # P0001 — Apa yang Dimaksud dengan Principle dalam Sistem TUMBUH?
 
-## Pertanyaan
+## Status
 
-**Apa yang dimaksud dengan *principle* dalam sistem TUMBUH, dan apa yang membedakannya dari value, goal, standard, rule, method, dan program?**
-
----
-
-## 1. Mengapa pertanyaan ini perlu dijawab lebih dahulu?
-
-PROBE 03 tidak seharusnya langsung membuat daftar prinsip TUMBUH.
-
-Jika istilah *principle* sendiri belum memiliki batas yang jelas, maka daftar yang dihasilkan mudah bercampur dengan hal-hal lain: nilai yang dijunjung, tujuan yang ingin dicapai, standar yang ditetapkan, aturan yang harus ditaati, metode yang digunakan, atau program yang dijalankan.
-
-Padahal arsitektur TUMBUH membedakan antara fondasi konseptual, implementation, operational, program, method, dan tools. Repository juga menempatkan Principles sebagai salah satu bagian fundamental yang berada setelah Philosophy dan sebelum Core Model. fileciteturn5file5
-
-Karena itu, pertanyaan pertama bukan:
-
-> “Apa saja prinsip TUMBUH?”
-
-melainkan:
-
-> **“Pada level apa sebuah gagasan dapat disebut sebagai principle TUMBUH?”**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0001  
+**Status:** Revised  
+**Type:** Foundational Principles Inquiry
 
 ---
 
-## 2. Titik awal dari arsitektur TUMBUH
+## 1. Object of Inquiry
 
-Repository TUMBUH menempatkan alur konseptual:
+**Object of Inquiry:** Principles TUMBUH.
 
-```text
+P0001 menjadi titik awal untuk memahami **fungsi Principles dalam arsitektur TUMBUH**, bukan untuk membangun teori umum tentang “principle”.
+
+---
+
+## 2. TUMBUH Question
+
+> **Mengapa TUMBUH membutuhkan Principles setelah Philosophy, dan apa yang membuat sebuah rumusan layak disebut Principle TUMBUH?**
+
+Pertanyaan ini lebih tepat daripada langsung bertanya “apa arti principle secara umum”, karena PROBE harus selalu kembali kepada kebutuhan Sistem TUMBUH.
+
+---
+
+## 3. Mengapa Principles Diperlukan?
+
+Struktur TUMBUH menempatkan:
+
+~~~text
 PHILOSOPHY
     ↓
 PRINCIPLES
@@ -40,274 +41,372 @@ PROGRESSION
 ASSESSMENT
     ↓
 INTERVENTION
-```
-
-Sementara itu, PROBE berfungsi sebagai ruang inquiry yang menghasilkan kajian, argumentasi, sintesis, dan rumusan untuk repository. Dengan kata lain, PROBE tidak menggantikan Principles; PROBE menyelidiki bagaimana Principles perlu dirumuskan. fileciteturn5file0
-
-Posisi Principles setelah Philosophy memberi petunjuk penting: prinsip bukan sekadar kumpulan nilai. Ia harus menjadi sesuatu yang dapat **menjembatani keyakinan/fondasi dengan keputusan desain sistem**.
-
-Ini masih merupakan hipotesis kerja, bukan kesimpulan final. P berikutnya perlu mengujinya.
-
----
-
-## 3. Hipotesis kerja: principle sebagai komitmen pengarah
-
-Untuk sementara, *principle* dalam TUMBUH dapat dipahami sebagai:
-
-> **komitmen pengarah yang digunakan untuk menentukan bagaimana sistem seharusnya berpikir, memilih, merancang, bertindak, dan melakukan koreksi.**
-
-Definisi kerja ini sengaja belum dibuat sebagai definisi final.
-
-Ada dua kata penting di dalamnya:
-
-### Komitmen
-
-Prinsip bukan sekadar deskripsi tentang apa yang biasanya terjadi. Prinsip menyatakan sesuatu yang dipilih untuk dijadikan pegangan.
-
-### Pengarah
-
-Prinsip harus mempunyai daya guna ketika terjadi pilihan.
-
-Jika dua rancangan sama-sama mungkin, prinsip membantu menjawab:
-
-> “Dengan komitmen TUMBUH, arah mana yang konsisten?”
-
-Dengan demikian, prinsip mempunyai fungsi normatif sekaligus desain.
-
----
-
-## 4. Principle bukan Value
-
-**Value** menjawab pertanyaan:
-
-> “Apa yang kita anggap bernilai atau penting?”
-
-**Principle** menjawab pertanyaan:
-
-> “Pegangan apa yang mengarahkan keputusan berdasarkan apa yang kita anggap penting?”
-
-Contoh sederhana:
-
-```text
-Value
-= manusia memiliki martabat
-
-Principle
-= sistem harus memperlakukan manusia sebagai subjek
-perkembangan, bukan objek yang diproduksi sistem
-```
-
-Contoh ini sejalan dengan orientasi TUMBUH bahwa manusia dipandang sebagai **subjek yang berkembang**, bukan objek yang diproduksi oleh sistem. fileciteturn5file0
-
-Jadi value dapat menjadi dasar bagi principle, tetapi keduanya tidak identik.
-
-**Catatan:** contoh di atas merupakan ilustrasi dari orientasi yang sudah ada dalam repository, bukan prinsip final PROBE 03.
-
----
-
-## 5. Principle bukan Goal
-
-**Goal** menjawab:
-
-> “Ke mana kita ingin sampai?”
-
-**Principle** menjawab:
-
-> “Dengan pegangan apa kita menentukan cara menuju ke sana?”
-
-Misalnya:
-
-```text
-Goal
-= meningkatkan perkembangan kapasitas manusia
-
-Principle
-= keputusan pengembangan harus mempertimbangkan
-kebutuhan dan konteks perkembangan manusia
-```
-
-Goal menunjuk keadaan atau hasil yang dituju.
-
-Principle mengarahkan keputusan sepanjang perjalanan.
-
-Karena itu satu goal dapat dicapai melalui banyak pendekatan, sementara principle digunakan untuk membatasi atau mengarahkan pilihan di antara pendekatan tersebut.
-
----
-
-## 6. Principle bukan Standard
-
-**Standard** biasanya menetapkan tingkat atau kondisi yang harus dipenuhi.
-
-```text
-Principle
-→ bagaimana kita menentukan arah keputusan
-
-Standard
-→ kondisi/tingkat yang harus dipenuhi
-```
-
-Dalam arsitektur TUMBUH, misalnya, *graduation standards* berada pada Progression Framework, bukan Principles. Struktur repository yang tersedia memang memisahkan Development Levels, Growth Milestones, dan Graduation Standards dari domain Principles. fileciteturn5file6
-
-Ini menunjukkan bahwa standard memiliki fungsi berbeda: ia menetapkan ekspektasi atau ambang tertentu, sedangkan principle menjadi pegangan dalam merancang dan mengambil keputusan.
-
----
-
-## 7. Principle bukan Rule
-
-Perbedaannya terutama pada tingkat preskriptif.
-
-**Rule** cenderung mengatakan:
-
-> “Lakukan X / jangan lakukan Y.”
-
-**Principle** cenderung mengatakan:
-
-> “Dalam mengambil keputusan, pertimbangkan dan jaga komitmen X.”
-
-Dengan demikian, satu principle dapat melahirkan banyak rules sesuai konteks.
-
-```text
-PRINCIPLE
     ↓
-keputusan desain
-    ↓
-aturan yang relevan
-    ↓
-praktik
-```
+IMPLEMENTATION
+~~~
 
-Rule menjadi lebih spesifik dan kontekstual.
+Dalam struktur tersebut, Philosophy menjadi fondasi, sedangkan Principles berada sebelum Core Model dan framework berikutnya.
 
-Karena itu, apabila sebuah pernyataan hanya dapat berfungsi sebagai instruksi teknis yang sangat spesifik, ada alasan untuk tidak menempatkannya sebagai principle.
+Karena itu, fungsi yang perlu dijelaskan bukan sekadar definisi kamus, melainkan:
 
----
+> **Apa yang harus terjadi pada gagasan ketika bergerak dari Philosophy menuju desain sistem?**
 
-## 8. Principle bukan Method
+P0001 mengusulkan bahwa Principles merupakan lapisan yang melakukan **translation of commitments** dari Philosophy menuju arah desain.
 
-**Method** menjawab:
-
-> “Bagaimana sesuatu dilakukan?”
-
-**Principle** menjawab:
-
-> “Pegangan apa yang harus tetap dijaga ketika menentukan atau menggunakan cara tersebut?”
-
-Repository memisahkan Methods dari Principles dan menempatkan Learning Methods, Mentoring Methods, Coaching Methods, Reflection Methods, Habit Formation, Experiential Learning, dan Collaborative Learning sebagai kelompok tersendiri. fileciteturn5file5
-
-Artinya TUMBUH tidak boleh mengangkat sebuah metode menjadi principle hanya karena metode tersebut dianggap efektif.
-
-Sebuah principle dapat mengizinkan atau membatasi pilihan metode.
+Ini masih working hypothesis dan harus diuji oleh P berikutnya.
 
 ---
 
-## 9. Principle bukan Program
+## 4. Hipotesis Kerja
 
-**Program** adalah bentuk pengorganisasian kegiatan untuk mencapai tujuan tertentu.
+Untuk kebutuhan TUMBUH, Principle sementara dapat dirumuskan sebagai:
 
-Repository secara eksplisit memisahkan Programs dari Methods dan Principles. fileciteturn5file5
+> **komitmen normatif yang memberi arah dan batas bagi perumusan serta pengambilan keputusan dalam Sistem TUMBUH.**
+
+Ada tiga unsur utama:
+
+### 4.1 Commitment
+
+Principle bukan hanya deskripsi tentang bagaimana sesuatu terjadi.
+
+Ia menyatakan sesuatu yang **dipertahankan sebagai pegangan**.
+
+### 4.2 Normative
+
+Principle mempunyai konsekuensi tentang apa yang **seharusnya** dilakukan atau dijaga.
+
+### 4.3 Direction and Boundary
+
+Principle membantu mengarahkan pilihan dan sekaligus membatasi pilihan yang tidak sesuai dengan commitment TUMBUH.
+
+---
+
+## 5. Mengapa “TUMBUH” Penting dalam Definisi?
+
+Sebuah pernyataan tidak menjadi Principle TUMBUH hanya karena berbentuk normatif.
+
+Ia harus mempunyai hubungan substantif dengan Sistem TUMBUH.
 
 Maka:
 
-```text
-Principle
-→ pegangan desain
+~~~text
+Normative statement
+        ↓
+belum tentu
+        ↓
+Principle TUMBUH
+~~~
 
-Method
-→ cara
+Agar menjadi candidate Principle TUMBUH, pernyataan tersebut setidaknya perlu dapat dijelaskan:
 
-Program
-→ rangkaian kegiatan yang dirancang
-  untuk tujuan tertentu
-```
-
-Program dapat berubah ketika konteks berubah, tanpa harus mengubah principle yang mendasarinya.
-
-Ini penting bagi TUMBUH sebagai sistem: identitas sistem tidak boleh bergantung pada daftar program tertentu.
-
-Repository sendiri menegaskan bahwa TUMBUH bukan sekadar kumpulan program pembinaan dan bahwa program, metode, assessment, serta tools merupakan bagian atau pendukung sistem, bukan identitas TUMBUH itu sendiri. fileciteturn5file0
+1. commitment apa yang dikandungnya;
+2. mengapa commitment itu diperlukan oleh TUMBUH;
+3. apa konsekuensinya terhadap desain sistem;
+4. bagaimana hubungannya dengan Philosophy TUMBUH;
+5. dan pada level mana ia bekerja.
 
 ---
 
-## 10. Peta sementara
+## 6. Principle Bukan Philosophy
 
-Dari inquiry awal ini, dapat dibuat peta kerja:
+Philosophy dan Principles berhubungan, tetapi tidak identik.
 
-| Konsep | Pertanyaan utama | Fungsi |
-|---|---|---|
-| **Value** | Apa yang dianggap bernilai? | Memberi orientasi nilai |
-| **Principle** | Pegangan apa yang mengarahkan keputusan? | Mengarahkan desain dan tindakan |
-| **Goal** | Ke mana ingin sampai? | Menentukan arah/hasil |
-| **Standard** | Kondisi/tingkat apa yang harus dipenuhi? | Menetapkan ekspektasi |
-| **Rule** | Apa yang harus/tidak boleh dilakukan? | Mengatur tindakan spesifik |
-| **Method** | Bagaimana sesuatu dilakukan? | Menentukan cara |
-| **Program** | Kegiatan terorganisasi apa yang dijalankan? | Menerjemahkan tujuan ke aktivitas |
+Secara sementara:
 
-Peta ini **belum merupakan taksonomi final TUMBUH**. Ia adalah hasil sementara P0001 yang harus diuji oleh inquiry berikutnya.
+~~~text
+PHILOSOPHY
+→ fondasi pandangan dan keyakinan
 
----
+PRINCIPLES
+→ commitment normatif yang menerjemahkan
+  fondasi tersebut menjadi arah sistem
+~~~
 
-## 11. Uji sederhana sebuah calon Principle
+Karena itu Principle tidak boleh sekadar mengulang Philosophy dengan kalimat yang lebih pendek.
 
-Salah satu temuan penting dari P0001 adalah bahwa sebuah calon principle seharusnya dapat melewati pertanyaan berikut:
-
-1. **Apakah ini sebuah komitmen, bukan sekadar deskripsi?**
-2. **Apakah ia membantu menentukan pilihan ketika terdapat lebih dari satu kemungkinan?**
-3. **Apakah ia dapat berlaku lintas konteks tanpa menjadi terlalu umum hingga kehilangan makna?**
-4. **Apakah ia berada pada level yang tepat untuk mengarahkan sistem?**
-5. **Apakah ia menghasilkan implikasi terhadap desain atau keputusan TUMBUH?**
-6. **Apakah ia berbeda dari value, goal, standard, rule, method, dan program?**
-7. **Apakah ia konsisten dengan Philosophy TUMBUH?**
-8. **Apakah ia dapat diuji melalui konsekuensi desain yang ditimbulkannya?**
-
-Semakin banyak jawaban “ya”, semakin kuat alasan untuk memperlakukannya sebagai kandidat principle.
-
-Namun ini juga **belum menjadi rubric final**. Rubric sendiri harus diuji dalam P berikutnya.
+Sebaliknya, Philosophy juga tidak perlu memuat seluruh keputusan desain yang nantinya diarahkan oleh Principles.
 
 ---
 
-## 12. Temuan sementara
+## 7. Principle Bukan Value
 
-P0001 belum menghasilkan daftar prinsip TUMBUH.
+Value menjawab pertanyaan:
 
-Ia menghasilkan sesuatu yang lebih mendasar:
+> **Apa yang dianggap bernilai atau penting?**
 
-> **Principles TUMBUH harus dipahami sebagai komitmen pengarah yang menjembatani Philosophy dengan keputusan desain sistem.**
+Principle menjawab pertanyaan:
+
+> **Commitment apa yang harus dijaga ketika TUMBUH membuat pilihan?**
+
+Karena itu hubungan yang lebih tepat adalah:
+
+~~~text
+VALUE
+   ↓
+dapat menjadi sumber
+   ↓
+CANDIDATE PRINCIPLE
+~~~
+
+Tetapi:
+
+> **Value ≠ Principle.**
+
+Sebuah value baru menjadi candidate Principle jika ia memiliki fungsi normatif dan konsekuensi terhadap sistem.
+
+---
+
+## 8. Principle Bukan Goal
+
+Goal menjawab:
+
+> **Keadaan apa yang hendak dicapai?**
+
+Principle menjawab:
+
+> **Pegangan apa yang harus dijaga ketika sistem bergerak menuju keadaan tersebut?**
+
+Maka:
+
+~~~text
+GOAL
+→ desired state
+
+PRINCIPLE
+→ enduring normative commitment
+~~~
+
+Satu goal dapat dicapai melalui beberapa cara.
+
+Principle membantu menentukan cara mana yang tetap konsisten dengan commitment TUMBUH.
+
+---
+
+## 9. Principle Bukan Standard
+
+Standard menetapkan kondisi, tingkat, atau ekspektasi yang harus dipenuhi.
+
+Principle memiliki fungsi yang berbeda:
+
+~~~text
+PRINCIPLE
+→ arah dan batas keputusan
+
+STANDARD
+→ kondisi/tingkat yang harus dipenuhi
+~~~
+
+Struktur TUMBUH sendiri menempatkan Development Levels, Growth Milestones, dan Graduation Standards dalam Progression Framework, bukan sebagai identitas Principles.
+
+Karena itu standard tidak boleh dipindahkan menjadi Principle hanya karena sama-sama memiliki bahasa “harus”.
+
+---
+
+## 10. Principle Bukan Rule
+
+Rule lebih dekat kepada instruksi:
+
+> lakukan X / jangan lakukan Y.
+
+Principle bekerja pada tingkat yang lebih abstrak:
+
+> keputusan harus menjaga commitment X.
+
+Karena itu satu Principle dapat mempunyai beberapa konsekuensi atau rules yang berbeda sesuai konteks.
+
+~~~text
+PRINCIPLE
+   ↓
+DESIGN IMPLICATION
+   ↓
+RULE / PRACTICE
+~~~
+
+Jika suatu rumusan sudah menentukan actor, waktu, urutan, alat, atau prosedur tertentu, perlu diperiksa apakah ia sebenarnya sudah turun ke level rule atau operational guidance.
+
+---
+
+## 11. Principle Bukan Method
+
+Method menjawab:
+
+> **Bagaimana sesuatu dilakukan?**
+
+Principle menjawab:
+
+> **Apa commitment yang harus tetap dijaga ketika cara tersebut dipilih atau digunakan?**
+
+Karena TUMBUH memisahkan Principles dari Methods, metode tertentu tidak menjadi Principle hanya karena dianggap efektif.
+
+Sebuah Principle dapat membatasi atau membuka ruang pilihan metode.
+
+---
+
+## 12. Principle Bukan Program
+
+Program merupakan bentuk kegiatan yang diorganisasikan untuk tujuan tertentu.
+
+TUMBUH memisahkan Programs dari Principles.
 
 Karena itu:
 
-```text
-PHILOSOPHY
-= mengapa dan dari pandangan apa TUMBUH berdiri
+~~~text
+PRINCIPLE
+→ commitment pengarah
 
-PRINCIPLES
-= komitmen apa yang harus memandu sistem
+METHOD
+→ cara
 
-CORE MODEL
-= bagaimana sistem disusun
-```
+PROGRAM
+→ rangkaian kegiatan
+~~~
 
-Hubungan ini masih perlu diuji lebih lanjut.
-
----
-
-## 13. Pertanyaan yang muncul untuk P0002
-
-P0001 menghasilkan pertanyaan baru:
-
-> **Jika Principles berada setelah Philosophy, apakah setiap principle TUMBUH harus dapat diturunkan dari Philosophy, atau dapat pula lahir dari kebutuhan desain, evidence, dan pengalaman implementasi?**
-
-Pertanyaan ini penting karena menentukan **asal-usul legitimasi sebuah principle**.
-
-P0002 akan menguji hubungan antara **Philosophy → Principles**, sekaligus mencari batas antara prinsip yang bersifat fundamental dan prinsip yang muncul dari kebutuhan desain sistem.
+Program dapat berubah karena konteks, sementara commitment yang mendasarinya dapat tetap dipertahankan.
 
 ---
 
-## Status
+## 13. Uji terhadap Arsitektur TUMBUH
 
-**P0001 — selesai sebagai inquiry awal.**
+Sebuah candidate Principle harus dapat menunjukkan **fungsi pengarah** terhadap bagian sistem di bawahnya.
 
-**Temuan:** principle ≠ value/goal/standard/rule/method/program.
+Secara sederhana:
 
-**Hipotesis kerja:** principle adalah komitmen pengarah yang menjembatani philosophy dengan keputusan sistem.
+~~~text
+Candidate Principle
+       ↓
+Apa yang harus dipertahankan?
+       ↓
+Apa konsekuensi desainnya?
+       ↓
+Apa yang berubah dalam Core Model?
+       ↓
+Apa implikasi bagi framework berikutnya?
+~~~
 
-**Next inquiry:** P0002 — *Dari mana sebuah Principle TUMBUH memperoleh dasar dan legitimasi?*
+Tidak berarti setiap Principle harus mempunyai konsekuensi yang sama pada seluruh framework.
+
+Yang penting terdapat hubungan substantif dengan kebutuhan sistem.
+
+---
+
+## 14. Uji Counterfactual
+
+Pertanyaan yang lebih tajam daripada sekadar “apakah ini terdengar baik?” adalah:
+
+> **Apa yang berubah pada Sistem TUMBUH jika commitment ini dihilangkan atau dibalik?**
+
+Jika tidak ada konsekuensi substantif terhadap sistem, maka statusnya sebagai Principle perlu dipertanyakan.
+
+Jika penghilangan commitment mengubah arah atau karakter desain TUMBUH secara berarti, alasan untuk menganggapnya sebagai candidate Principle menjadi lebih kuat.
+
+Counterfactual ini bukan proof final. Ia adalah alat inquiry.
+
+---
+
+## 15. Working Distinction
+
+P0001 menghasilkan peta kerja sementara:
+
+| Konsep | Pertanyaan | Fungsi dalam TUMBUH |
+|---|---|---|
+| **Philosophy** | Dari pandangan apa TUMBUH berdiri? | Fondasi |
+| **Value** | Apa yang dianggap bernilai? | Orientasi nilai |
+| **Principle** | Commitment apa yang harus dijaga dalam pilihan sistem? | Arah dan batas normatif |
+| **Goal** | Keadaan apa yang hendak dicapai? | Arah hasil |
+| **Standard** | Kondisi/tingkat apa yang harus dipenuhi? | Ekspektasi |
+| **Rule** | Apa yang harus/tidak boleh dilakukan? | Preskripsi spesifik |
+| **Method** | Bagaimana sesuatu dilakukan? | Cara |
+| **Program** | Kegiatan terorganisasi apa yang dijalankan? | Aktivitas terstruktur |
+
+Peta ini **working distinction**, bukan taksonomi final.
+
+---
+
+## 16. Apa yang Belum Diputuskan?
+
+P0001 belum menentukan:
+
+- apakah semua Principles harus berasal dari Philosophy;
+- apakah terdapat Core Principles dan Design Principles sebagai kategori yang berbeda;
+- apakah semua Principles bersifat universal;
+- bagaimana Principles memperoleh legitimasi;
+- bagaimana Principles divalidasi;
+- dan bagaimana Principles berhubungan satu sama lain.
+
+Pertanyaan tersebut sengaja ditinggalkan untuk inquiry berikutnya.
+
+---
+
+## 17. Boundary
+
+P0001 **tidak** sedang:
+
+- menentukan daftar Core Principles;
+- menentukan nilai-nilai Islam TUMBUH;
+- memilih teori filsafat tertentu;
+- menentukan metode pendidikan;
+- menentukan program;
+- atau membangun governance Principles.
+
+Fokusnya hanya:
+
+> **memahami fungsi dan batas Principle sebagai lapisan dalam Sistem TUMBUH.**
+
+---
+
+## 18. Repository Destination
+
+Hasil P0001 diarahkan ke:
+
+**Principles → definisi dan arsitektur Principles**
+
+Temuan ini menjadi dasar untuk menguji jenis, sumber, legitimasi, dan hubungan Principles pada P berikutnya.
+
+---
+
+## 19. Implication for TUMBUH
+
+P0001 menghasilkan satu implikasi substantif:
+
+> **Principles harus berfungsi sebagai lapisan translation antara fondasi Philosophy dan keputusan desain sistem.**
+
+Karena itu Principles tidak boleh:
+
+- terlalu abstrak hingga hanya mengulang Philosophy;
+- terlalu konkret hingga menjadi Rule, Method, atau Program.
+
+Ia harus berada pada titik tengah yang memiliki **normative force sekaligus design consequence**.
+
+---
+
+## 20. Kesimpulan
+
+P0001 tidak mencoba menjawab “apa saja Principles TUMBUH”.
+
+Ia terlebih dahulu menetapkan pertanyaan yang lebih fundamental:
+
+> **Apa fungsi sebuah Principle di dalam Sistem TUMBUH?**
+
+Working definition yang dihasilkan:
+
+> **Principle TUMBUH adalah komitmen normatif yang memberi arah dan batas bagi perumusan serta pengambilan keputusan dalam Sistem TUMBUH.**
+
+Dari posisi Principles dalam arsitektur TUMBUH, muncul hipotesis bahwa Principles berfungsi sebagai **jembatan antara Philosophy dan desain sistem**.
+
+Hipotesis ini belum final.
+
+P berikutnya harus menguji pertanyaan:
+
+> **Jika Philosophy menjadi sumber orientasi, apakah setiap Principle TUMBUH harus dapat ditelusuri kembali ke Philosophy, atau dapat pula memperoleh dasar dari evidence, kebutuhan desain, dan pengalaman sistem?**
+
+---
+
+## 21. Status Inquiry
+
+**Finding:** Principle TUMBUH perlu memiliki commitment normatif, fungsi pengarah, dan konsekuensi terhadap sistem.
+
+**Working definition:** Principle = komitmen normatif yang memberi arah dan batas bagi perumusan serta pengambilan keputusan dalam Sistem TUMBUH.
+
+**Key distinction:** Principle berbeda dari Philosophy, Value, Goal, Standard, Rule, Method, dan Program.
+
+**Open question P0002:** Dari mana sebuah Principle TUMBUH memperoleh dasar dan legitimasi?
