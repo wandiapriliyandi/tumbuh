@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0074  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Source Recovery / Cross-Philosophy Validation
 
 ---
@@ -229,7 +229,19 @@ Namun tidak ada perubahan langsung terhadap framework tersebut.
 
 ---
 
-## 13. Kesimpulan
+## 13. Repository Destination
+
+**Principles → Core Principles → Candidate Fundamental Commitments / Cross-Philosophy Validation**
+
+P0074 menetapkan bahwa substansi Human Development harus dibaca untuk menemukan arah normatifnya sebelum candidate commitment dirumuskan.
+
+## 14. Next Inquiry
+
+> **Apakah Human Development TUMBUH memiliki arah normatif tertentu, dan jika ada, dari mana arah tersebut memperoleh legitimasi dalam sistem TUMBUH?**
+
+P0075 akan menguji arah normatif development dari sumber internal TUMBUH dan hubungannya dengan Worldview, Human Nature, serta tujuan pendidikan.
+
+## 15. Kesimpulan
 
 P0074 berhasil mempersempit evidence gap dari P0073.
 
